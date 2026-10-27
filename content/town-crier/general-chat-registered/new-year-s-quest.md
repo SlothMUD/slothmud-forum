@@ -22,11 +22,11 @@ The first priest quests-- 'in approximately 1 hour, I shall be ready and I hope 
 
 The first priest quests-- 'at midday in the time of this world, I shall issue further instructions. Until then - die well.'
 
- -- time passes -- 
+ \-- time passes -- 
 
 The first priest quests-- 'I shall generously give you another 7 minutes to locate further adventurers to join your cause.'
 
- -- more time passes --
+ \-- more time passes --
 
 The first priest quests-- 'well, well...are you ready to do what Kitezh requires?'
 
@@ -44,7 +44,7 @@ Surfnazi -- 'hellwell?'
 
 You grouptell: 'it's the prison on island'
 
-Katie -- '* incarwhat?'
+Katie -- '\* incarwhat?'
 
 Alris -- 'its magi?'
 
@@ -54,7 +54,7 @@ You grouptell: 'gateable @, etc.'
 
 Alris -- 'portal on west gate'
 
-the first priest               - A Secret Cell'
+the first priest - A Secret Cell'
 
 The first priest is referred to by the words 'kitezh church priest first father Sergiy'.
 
@@ -70,7 +70,7 @@ Alris says 'dont look at numbers, we are good'
 
 The first priest says 'We will see, dear druid, we will see.'
 
-Katie says 'other adventurers are with family, chrstmas, you know :)'
+Katie says 'other adventurers are with family, chrstmas, you know <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">'
 
 The first priest says 'So, we have a problem and we need help.'
 
@@ -112,7 +112,7 @@ The first priest says 'OK, well that can be arranged once a donation of 10,000,0
 
 The first priest says 'You may choose to undertake this mission without making this donation and it is still perfectly possible...but the scroll I speak of will help you greatly'
 
-Katie says 'lets see ... isnt it supposed that you want our help?  and you charging us?'
+Katie says 'lets see ... isnt it supposed that you want our help? and you charging us?'
 
 The first priest says 'I am helping you help me.'
 
@@ -154,9 +154,9 @@ The first priest says 'Take from his cold, dead, ugly hands the scroll and aveng
 
 The first priest says 'Good luck and remember: all death is certain.'
 
- -- First we take the ether scroll from King Icaric in the bottom of the Temple Ruins.  Then we determine that the drow sorceress is Karsec'Dyn in Mercurial Woods, and sure enough, she is guarded by Tarrasque. --
+ \-- First we take the ether scroll from King Icaric in the bottom of the Temple Ruins. Then we determine that the drow sorceress is Karsec'Dyn in Mercurial Woods, and sure enough, she is guarded by Tarrasque. --
 
- -- We kill it. --
+ \-- We kill it. --
 
 kitezh church priest first fath (quest): Oh, I see you are close. Since the roof is in need of more repairs that we expected I would be willing to have a word with God...
 
@@ -166,7 +166,7 @@ kitezh church priest first fath (quest): Same price.
 
 kitezh church priest first fath (quest): No takers?
 
- -- We kill Karsec'Dyn --
+ \-- We kill Karsec'Dyn --
 
 The first priest quests-- 'Thank you, my dear adventurers. Take what you find and use it as you wish.'
 
@@ -178,7 +178,7 @@ The first priest quests-- 'I am sure it does, little warrioress, I am sure it do
 
 The first priest quests-- 'Adios!'
 
- -- Reward was 13 drachma for killing Tarrasque, 5 random gems and a 45 minute grenade. --
+ \-- Reward was 13 drachma for killing Tarrasque, 5 random gems and a 45 minute grenade. --
 
 </div>
 

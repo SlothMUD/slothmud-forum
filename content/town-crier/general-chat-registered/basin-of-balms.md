@@ -16,8 +16,6 @@ Any idea who pops it now?
 
 According to eqlist, it was a man in shackles in Zodiac Castle. However there's no man in shackles now, but a shackled priest, who doesnt seem to pop this item(cycled it for a few days). I've ran around the world with the wealth and glory, but noone heard anything.
 
- 
-
 Also, while there, a few more items questions.
 
 Is mujen doll pop rate good? I've got got 19 books consumed by the flames from Wu in CK and still no doll.
@@ -42,7 +40,7 @@ I thought mujen doll was the strike book that loads in star city. Is there anoth
 
 Yes. the mu-jen doll is a +4 hitroll low item. The item you're thinking of is a mu ren zheng (barehanded accuracy book item).
 
-As for the basin of balms - I found one I had on storage and sent it to Kung. I know it still loads somewhere on a treasure list, which means it won't show up on eqlist, won't show up for wealth & glory, and there is no dedicated popper since the man in shackles got entirely replaced with a different mob and no longer pops basin. I'll see if the basin of balms can be made to load on another mob someday soon.
+As for the basin of balms - I found one I had on storage and sent it to Kung. I know it still loads somewhere on a treasure list, which means it won't show up on eqlist, won't show up for wealth \& glory, and there is no dedicated popper since the man in shackles got entirely replaced with a different mob and no longer pops basin. I'll see if the basin of balms can be made to load on another mob someday soon.
 
 I also think it may be a brew somehow but don't quote me on that.
 
@@ -86,13 +84,13 @@ to the room cache will again be priortized to the room cache as they were before
 
 I hope this helps.
 
--Neptune
+\-Neptune
 
 </div>
 
 <div class="post" data-post-id="35232" data-author="DarkArtist" data-date="2014-06-06T11:42:57+00:00" data-subject="Re: Basin of balms">
 
-> **Hung wrote:**
+> <strong>Hung wrote:</strong>
 > Finally popped mujen doll from 5th or 6th Wu after reboot.
 > 
 > There may be a bug. Before reboot I've killed 30-40 Wus, got 21 books consumed in flames and no doll.

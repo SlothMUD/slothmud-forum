@@ -62,11 +62,11 @@ Oh God, whining about the deserved pkill is so lame. (If you ask me, I won't bit
 
 <div class="post" data-post-id="13761" data-author="Mosaix" data-date="2006-08-25T10:16:05+00:00" data-subject="">
 
-Someone mudmail Alexus a box of Kleenex and some Ben and Jerry's ice cream.  Perhaps a dvd of Sleepless in Seattle as well or another similar movie.
+Someone mudmail Alexus a box of Kleenex and some Ben and Jerry's ice cream. Perhaps a dvd of Sleepless in Seattle as well or another similar movie.
 
 If your not a steaming pile of cow flop, people tend to not do that to you.
 
-Id back up Van every day of the week.  You must have been truly stupid.
+Id back up Van every day of the week. You must have been truly stupid.
 
 Boo-Hoo
 
@@ -76,11 +76,12 @@ Mosaix
 
 <div class="post" data-post-id="13762" data-author="Autolycos" data-date="2006-08-25T11:42:40+00:00" data-subject="">
 
-Oh God, whining about the deserved pkill is so lame. (If you ask me, I won't bitch if someone kills me while having a long argue or something.) It's sometimes much quicker and really, that's not like killing a lowbie, so letting imms know that is.. childish :) [/quote:2qfx4lbb]
+> <strong>Krok wrote:</strong>
+> Oh God, whining about the deserved pkill is so lame. (If you ask me, I won't bitch if someone kills me while having a long argue or something.) It's sometimes much quicker and really, that's not like killing a lowbie, so letting imms know that is.. childish <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 lmfao
 
-i can't even count how many times krok and I have killed each other just for getting on each others nerves  :twisted: 
+i can't even count how many times krok and I have killed each other just for getting on each others nerves <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 good times.
 
@@ -88,17 +89,18 @@ good times.
 
 <div class="post" data-post-id="13763" data-author="Diazz" data-date="2006-08-25T11:49:31+00:00" data-subject="">
 
-[quote:3odch0b2]There are people on this mud that make it hard to enjoy for many other characters. Other characters that don't want to say anything because they would rather just have a good time without the confrontation[/quote:3odch0b2]
+> <strong>Quote:</strong>
+> There are people on this mud that make it hard to enjoy for many other characters. Other characters that don't want to say anything because they would rather just have a good time without the confrontation
 
-This mud has always been about who you know.  Thats one of its coolest
+This mud has always been about who you know. Thats one of its coolest
 
-features -- clans only enforce this.  
+features -- clans only enforce this. 
 
 There will always be bullied and bullies.
 
-There will always be the shunned and the shunners.  (I refuse to use shunnied!)
+There will always be the shunned and the shunners. (I refuse to use shunnied!)
 
-Cliques started forming between classes thousands of years ago, and still do it to this day -- I mean "why not?".   :roll:
+Cliques started forming between classes thousands of years ago, and still do it to this day -- I mean "why not?". <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -190,15 +192,15 @@ Well nods, go ahead, report everything, accuse everyone, I wonder how many frien
 
 <div class="post" data-post-id="13773" data-author="Autolycos" data-date="2006-08-25T17:10:36+00:00" data-subject="">
 
-[i:30nfxalm][b:30nfxalm]Everyone grab a bag of popcorn[/b:30nfxalm][/i:30nfxalm][/color:30nfxalm]
+<em><strong>Everyone grab a bag of popcorn</strong></em>
 
-[img:30nfxalm]http://www.illinimedia.com/di/images/2004/01/26/01262004231418.jpg[/img:30nfxalm]
+![](http://www.illinimedia.com/di/images/2004/01/26/01262004231418.jpg)
 
 </div>
 
 <div class="post" data-post-id="13774" data-author="Mosaix" data-date="2006-08-25T20:19:49+00:00" data-subject="">
 
-The best part about this thread is this.  Whether Alexus likes the mud or not, the sun will still rise tomorrow morning and set again in the evening.
+The best part about this thread is this. Whether Alexus likes the mud or not, the sun will still rise tomorrow morning and set again in the evening.
 
 I like your sleeves, they're real big.
 
@@ -208,11 +210,11 @@ Mosaix
 
 <div class="post" data-post-id="13775" data-author="Avatar" data-date="2006-08-25T20:26:12+00:00" data-subject="The Show">
 
-I guess I'm just tired of dealing with people at work, so I apologize if this sounds a little frustrated.  What's the point though?  Can't we deal with interpersonal problems ourselves?  In any group of people, there will be some that don't get along with others.  If you don't get along with someone, it's a large mud there should be room to avoid certain people.  Alexus, I've grouped with you and always enjoyed it.  I'm sure there are a lot of people here that you get along with.
+I guess I'm just tired of dealing with people at work, so I apologize if this sounds a little frustrated. What's the point though? Can't we deal with interpersonal problems ourselves? In any group of people, there will be some that don't get along with others. If you don't get along with someone, it's a large mud there should be room to avoid certain people. Alexus, I've grouped with you and always enjoyed it. I'm sure there are a lot of people here that you get along with.
 
-So, stick with the people you like.  Take a chance sometimes on people that you haven't played with in the past.  Avoid the people you know you don't enjoy being around.
+So, stick with the people you like. Take a chance sometimes on people that you haven't played with in the past. Avoid the people you know you don't enjoy being around.
 
-Everyone expects a little argument or fight once in awhile.  Sometimes both people in an argument have a valid viewpoint and both have some reason to be angry.  Still, it's a game and most people come here to have fun.  If you forgive the other person, it's quite possible that you may enjoy their company in the future.
+Everyone expects a little argument or fight once in awhile. Sometimes both people in an argument have a valid viewpoint and both have some reason to be angry. Still, it's a game and most people come here to have fun. If you forgive the other person, it's quite possible that you may enjoy their company in the future.
 
 Good luck,
 
@@ -222,13 +224,13 @@ Charles
 
 <div class="post" data-post-id="13776" data-author="Medios" data-date="2006-08-25T21:27:53+00:00" data-subject="">
 
-As a side note.  Don't shoot down clans just because you had a disagreement with someone.  Dogs of War had a clan long before it was put in game.  We fought for each other and defended each other just the same as we do now that we have ktalk channel.  We strive to find the best members, players who can solo, group, and try to make sloth more fun, not less. 
+As a side note. Don't shoot down clans just because you had a disagreement with someone. Dogs of War had a clan long before it was put in game. We fought for each other and defended each other just the same as we do now that we have ktalk channel. We strive to find the best members, players who can solo, group, and try to make sloth more fun, not less. 
 
-I started thinking back to my whole time on sloth.  I cant remember a time where a mortal pkd me.  I have snaked someones area for quick coins.  If I caught you sleepin whos fault is it.  Coin mobs have always been a race.  Its just coins.  There are how many mobs on this game?  Elemental school does have some nice coins but its hardly worth started a pr war that cannot be won.  If a mob loads eq and you blatantly take the eq,  I would consider that stealing and a reason to get pkd.  Coins are not a reason to get upset.
+I started thinking back to my whole time on sloth. I cant remember a time where a mortal pkd me. I have snaked someones area for quick coins. If I caught you sleepin whos fault is it. Coin mobs have always been a race. Its just coins. There are how many mobs on this game? Elemental school does have some nice coins but its hardly worth started a pr war that cannot be won. If a mob loads eq and you blatantly take the eq, I would consider that stealing and a reason to get pkd. Coins are not a reason to get upset.
 
 On another note:
 
-I would also like to say that "attention" players are spotted just as easily as bots.  We all know who you are.  You come and go usually to the sound of.  Im not voting, or I hate you, only to come back awhile later and start again with a new name.  Remember in school how a kid would run and tell the teacher every time someone beat him up.  Then eventually everyone was kicking his ass and the teacher didnt believe him cuz she was tired of hearing it.  Then remember the kid who stood up to the bully and gave him a black eye.  What happened to that guy?
+I would also like to say that "attention" players are spotted just as easily as bots. We all know who you are. You come and go usually to the sound of. Im not voting, or I hate you, only to come back awhile later and start again with a new name. Remember in school how a kid would run and tell the teacher every time someone beat him up. Then eventually everyone was kicking his ass and the teacher didnt believe him cuz she was tired of hearing it. Then remember the kid who stood up to the bully and gave him a black eye. What happened to that guy?
 
 Mike
 
@@ -236,7 +238,8 @@ Mike
 
 <div class="post" data-post-id="13777" data-author="Vixn" data-date="2006-08-25T22:11:09+00:00" data-subject="">
 
-What happened to that guy?[/quote:z7ulkcja]
+> <strong>Medios wrote:</strong>
+> What happened to that guy?
 
 He takes a gun and kill all his stupid classmates and the teacher, right?
 
@@ -254,7 +257,8 @@ I'll admit though.. forgiveness is not my strong suit.. Perhaps because I have a
 
 <div class="post" data-post-id="13780" data-author="Guinex" data-date="2006-08-26T02:24:07+00:00" data-subject="">
 
-[quote:351gmddq]If you enjoy pkilling, keep it amongst your fans. Because it is against the rules on this mud, which is part of why this mud is popular. [/quote:351gmddq]
+> <strong>Quote:</strong>
+> If you enjoy pkilling, keep it amongst your fans. Because it is against the rules on this mud, which is part of why this mud is popular.
 
 No offense or anything, but in my 12 years of mudding I have found that muds that allow pking tend to attract more people.
 
@@ -262,15 +266,16 @@ No offense or anything, but in my 12 years of mudding I have found that muds tha
 
 <div class="post" data-post-id="13781" data-author="Weasel" data-date="2006-08-26T03:02:40+00:00" data-subject="">
 
-No offense or anything, but in my 12 years of mudding I have found that muds that allow pking tend to attract more people.[/quote:2ro6n4bu]
+> <strong>Guinex wrote:</strong>
+> No offense or anything, but in my 12 years of mudding I have found that muds that allow pking tend to attract more people.
 
-That's because there are so many a$$holes out there  ...imho, of course.  :twisted:
+That's because there are so many a$$holes out there ...imho, of course. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="13782" data-author="Guinex" data-date="2006-08-26T04:00:46+00:00" data-subject="">
 
-I can't help myself :(
+I can't help myself <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -322,15 +327,15 @@ btw, Alexus, I think you are using a pic which Falsra uploaded for himself, that
 
 <div class="post" data-post-id="13792" data-author="12345" data-date="2006-08-26T15:43:04+00:00" data-subject="">
 
-I've been trying to stay out of this, but I think it should be mentioned that Van was surprised when Alexus died that easily.  It seems that spell does a little more damage than he was expecting it to.  The fact Van had Alexus raised shows he was expressing frustration more than any genuine desire to harm Alexus' character.  Pretty much for the same reason Alexus says that Clink killing Van was a non-punishment.
+I've been trying to stay out of this, but I think it should be mentioned that Van was surprised when Alexus died that easily. It seems that spell does a little more damage than he was expecting it to. The fact Van had Alexus raised shows he was expressing frustration more than any genuine desire to harm Alexus' character. Pretty much for the same reason Alexus says that Clink killing Van was a non-punishment.
 
-I don't have an issue with either of these characters.  They handled the situation they were in poorly, it happens sometimes.  If you could turn the flame down some, now would be a good time.
+I don't have an issue with either of these characters. They handled the situation they were in poorly, it happens sometimes. If you could turn the flame down some, now would be a good time.
 
 </div>
 
 <div class="post" data-post-id="13793" data-author="brady" data-date="2006-08-26T16:45:52+00:00" data-subject="">
 
-[img:24lgnk2w]http://www3.estart.com/stores/media/tired%20man%20copy.jpg[/img:24lgnk2w]
+![](http://www3.estart.com/stores/media/tired%20man%20copy.jpg)
 
 </div>
 

@@ -32,7 +32,7 @@ https://youtu.be/8Mh-8ol89AA
 
 <div class="post" data-post-id="37870" data-author="*Splork*" data-date="2016-12-23T23:56:18+00:00" data-subject="Re: Halloween Projection(Christmas)">
 
-<LINK_TEXT text="https://www.youtube.com/watch?v=I2-FiC4 ... e=youtu.be">https://www.youtube.com/watch?v=I2-FiC45-tY&feature=youtu.be</LINK_TEXT>
+https://www.youtube.com/watch?v=I2-FiC45-tY&feature=youtu.be
 
 Frozen Presentation...
 

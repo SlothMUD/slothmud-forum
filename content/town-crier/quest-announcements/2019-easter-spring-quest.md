@@ -18,12 +18,12 @@ And so apparently is a quest.
 
 We will do something very simple next weekend, see the tick counter for the exact time:
 
-[<LINK_TEXT text="https://www.tickcounter.com/countdown/1 ... ring-quest">https://www.tickcounter.com/countdown/1138854/2019-slothmud-easterspring-quest</LINK_TEXT>](https://www.tickcounter.com/countdown/1138854/2019-slothmud-easterspring-quest)
+[https://www.tickcounter.com/countdown/1138854/2019-slothmud-easterspring-quest](https://www.tickcounter.com/countdown/1138854/2019-slothmud-easterspring-quest)
 
-Meanwhile -today- Peter Cottontail is out there, and an easter egg scatter.  Right now.
+Meanwhile -today- Peter Cottontail is out there, and an easter egg scatter. Right now.
 
 Enjoy,
 
---Idj
+\--Idj
 
 </div>

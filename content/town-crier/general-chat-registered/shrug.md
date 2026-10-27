@@ -30,7 +30,8 @@ woot woot go triple stab?
 
 <div class="post" data-post-id="30117" data-author="Vixn" data-date="2009-10-16T13:11:03+00:00" data-subject="Re: shrug">
 
-Your triple whiff causes Bolg, Goblin King to fall on the floor laughing his ass off![/quote:m7wjwb61]
+> <strong>hounds wrote:</strong>
+> Your triple whiff causes Bolg, Goblin King to fall on the floor laughing his ass off!
 
 Go, go stabbaz!
 

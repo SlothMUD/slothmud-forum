@@ -20,13 +20,13 @@ i have no clue what to do and were to go on this game. i have yet to make a pers
 
 Near the upper left hand corner there is a link that says "Connect!!!"
 
-Click on it, and it will ask for your name.  Just type in a "name" and it
+Click on it, and it will ask for your name. Just type in a "name" and it
 
-should ask you if you would like to create this char.  If it asks for a password
+should ask you if you would like to create this char. If it asks for a password
 
 then cut the link and create another name (because that name is already in
 
-use).  Then enter a pw, and confirm the pw.  Select the location, and then
+use). Then enter a pw, and confirm the pw. Select the location, and then
 
 the class order.
 
@@ -46,15 +46,15 @@ thank you to all that try to help.
 
 Sorry my bad, look at "Connect" there should be a little box.
 
-Click on the little box until there is a - within it.  Then you should see
+Click on the little box until there is a - within it. Then you should see
 
-"Play SlothMUD".  Click on that link and follow what I wrote at the bottum.
+"Play SlothMUD". Click on that link and follow what I wrote at the bottum.
 
 </div>
 
 <div class="post" data-post-id="5111" data-author="Alberich" data-date="2005-03-16T14:48:04+00:00" data-subject="">
 
-don't bother with the link.  download a mud client and put slothmud.org:6101 in connect field (or hell, just use regular telnet)
+don't bother with the link. download a mud client and put slothmud.org:6101 in connect field (or hell, just use regular telnet)
 
 </div>
 
@@ -74,7 +74,7 @@ Here's one for the silly question bin...
 
 What is a WebTV and can you connect to Sloth from one? 
 
-Sorry, but I haven't seen one of these yet.  If you connect the same way you would from XP or Linux, that's cool.  If it's diferent, how so?
+Sorry, but I haven't seen one of these yet. If you connect the same way you would from XP or Linux, that's cool. If it's diferent, how so?
 
 </div>
 
@@ -94,11 +94,11 @@ Thanks to any and all who can help!
 
 <div class="post" data-post-id="5295" data-author="kjartan" data-date="2005-03-28T20:37:28+00:00" data-subject="">
 
-It means that your alignment is a little bit on the evil side of neutral.  This generally happens because you have been killing good mobs, although there are also some spells that make you more evil if you cast them.
+It means that your alignment is a little bit on the evil side of neutral. This generally happens because you have been killing good mobs, although there are also some spells that make you more evil if you cast them.
 
-This currently has limited impact on gameplay.  The one thing is the cleric spell supplication: you can access one set of servant mobs if you are good and a different set if you are evil.  You sound like you are neither very good nor very evil, so right now you wouldn't be able to use that spell at all, if you knew it.  Also, some spells, mostly 'dispel evil', will backfire on you if you are evil and you cast them.
+This currently has limited impact on gameplay. The one thing is the cleric spell supplication: you can access one set of servant mobs if you are good and a different set if you are evil. You sound like you are neither very good nor very evil, so right now you wouldn't be able to use that spell at all, if you knew it. Also, some spells, mostly 'dispel evil', will backfire on you if you are evil and you cast them.
 
-We, the admin, are mulling over making more alignment-dependent aspects of the game in the future.  It's not, however, high on the to-do list.
+We, the admin, are mulling over making more alignment-dependent aspects of the game in the future. It's not, however, high on the to-do list.
 
 </div>
 
@@ -106,12 +106,12 @@ We, the admin, are mulling over making more alignment-dependent aspects of the g
 
 Thanks for the answers! If you don't mind me picking your brain a bit more, is there a place that tells us what is a good mob and what is a bad mob?
 
-This is easily one of the deepest and most detailed MUD's I've ever played! Great job! :)
+This is easily one of the deepest and most detailed MUD's I've ever played! Great job! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="5310" data-author="kjartan" data-date="2005-03-29T18:30:29+00:00" data-subject="">
 
-The spells 'detect good' and 'detect evil' do this.  You can also often guess.  Normal citizens in towns are usually good or neutral; non-aggressive animals are usually neutral, etc.
+The spells 'detect good' and 'detect evil' do this. You can also often guess. Normal citizens in towns are usually good or neutral; non-aggressive animals are usually neutral, etc.
 
 </div>

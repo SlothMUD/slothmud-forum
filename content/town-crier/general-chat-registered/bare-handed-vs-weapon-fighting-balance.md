@@ -26,11 +26,11 @@ Maybe it's time to buff fighting with weapon?
 
 Here are some things that could be done:
 
-1) Make parry everyone skill instead of prime(with lower % than prime warriors, of course, and keep riposte prime warrior only). It'll make weapons used in solo much more frequently.
+1\) Make parry everyone skill instead of prime(with lower % than prime warriors, of course, and keep riposte prime warrior only). It'll make weapons used in solo much more frequently.
 
-2) Add dual-wielding. If one can put weapon in other hand instead of shield and it'll add him 2-3 attacks, he'll definitely consider using it instead of fists.
+2\) Add dual-wielding. If one can put weapon in other hand instead of shield and it'll add him 2-3 attacks, he'll definitely consider using it instead of fists.
 
-**p.s. Even if someone will disagree with initial thesis that fists are superior to weapon, it doesnt mean dual-wielding shouldn't be added. As it would be great feature.**
+<strong>p.s. Even if someone will disagree with initial thesis that fists are superior to weapon, it doesnt mean dual-wielding shouldn't be added. As it would be great feature.</strong>
 
 </div>
 
@@ -60,47 +60,47 @@ I believe the hand dam cap is 33 (but unobtainable) and the warrior weapon dam c
 
 Rofl!
 
-> **Quote:**
+> <strong>Quote:</strong>
 > If one can put weapon in other hand instead of shield and it'll add him 2-3 attacks...
 
-On average, accounting properly for crit and massive crit, a top tier swordsman deals 100 damage per hit.  Over the course of a minute, your proposed adjustment is like 13-20 free firewinds.
+On average, accounting properly for crit and massive crit, a top tier swordsman deals 100 damage per hit. Over the course of a minute, your proposed adjustment is like 13-20 free firewinds.
 
 While you're adjusting things, make sure to give mages an extra 400 mana regen and 'second wind' so they can keep up!
 
-A less game-breaking 'fix', (if one is needed), would be improving broadside or flail.  Monkstyle is already less passive damage than a swordsman.  It only edges ahead because strike is so superior to broadside/flail.
+A less game-breaking 'fix', (if one is needed), would be improving broadside or flail. Monkstyle is already less passive damage than a swordsman. It only edges ahead because strike is so superior to broadside/flail.
 
 </div>
 
 <div class="post" data-post-id="37043" data-author="Josiah" data-date="2016-07-12T14:31:41+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
-> **Quote:**
+> <strong>Quote:</strong>
 > In my opinion, sword damage just can't compete with hand damage especially at low levels. There are 39 hand dam items in game, and 13 weapon dam items (most hard forges, drachma or high restricted).
 
-As early as newbatia, you can wield an enchanted sharpened 2-handed ogre claymore that deals 4d5 +4 damage.  Besides it's huge damage output, it also gets bonus attacks against mobs that flee!
+As early as newbatia, you can wield an enchanted sharpened 2-handed ogre claymore that deals 4d5 +4 damage. Besides it's huge damage output, it also gets bonus attacks against mobs that flee!
 
-You won't start dealing similar damage unarmed combat until you have 40 monk and 2000ish drachma.  A max level monk needs +9 handdam before he equalizes with the claymore.  He'll probably have far worse AC, and the swordsman could always wear additional +dam eq.
+You won't start dealing similar damage unarmed combat until you have 40 monk and 2000ish drachma. A max level monk needs +9 handdam before he equalizes with the claymore. He'll probably have far worse AC, and the swordsman could always wear additional +dam eq.
 
-Maybe you're wielding the wrong weapon?  Josiah didn't start fighting unarmed until around 4x40.  He did plan to go that route from the beginning, so no drachma was wasted...
+Maybe you're wielding the wrong weapon? Josiah didn't start fighting unarmed until around 4x40. He did plan to go that route from the beginning, so no drachma was wasted...
 
 </div>
 
 <div class="post" data-post-id="37045" data-author="Gorka" data-date="2016-07-12T14:50:46+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
-> **Josiah wrote:**
-> > **Quote:**
+> <strong>Josiah wrote:</strong>
+> > <strong>Quote:</strong>
 > > In my opinion, sword damage just can't compete with hand damage especially at low levels. There are 39 hand dam items in game, and 13 weapon dam items (most hard forges, drachma or high restricted).
 > 
 > 
 > 
-> As early as newbatia, you can wield an enchanted sharpened 2-handed ogre claymore that deals 4d5 +4 damage.  Besides it's huge damage output, it also gets bonus attacks against mobs that flee!
+> As early as newbatia, you can wield an enchanted sharpened 2-handed ogre claymore that deals 4d5 +4 damage. Besides it's huge damage output, it also gets bonus attacks against mobs that flee!
 > 
 > 
 > 
-> You won't start dealing similar damage unarmed combat until you have 40 monk and 2000ish drachma.  A max level monk needs +9 handdam before he equalizes with the claymore.  He'll probably have far worse AC, and the swordsman could always wear additional +dam eq.
+> You won't start dealing similar damage unarmed combat until you have 40 monk and 2000ish drachma. A max level monk needs +9 handdam before he equalizes with the claymore. He'll probably have far worse AC, and the swordsman could always wear additional +dam eq.
 > 
 > 
 > 
-> Maybe you're wielding the wrong weapon?  Josiah didn't start fighting unarmed until around 4x40.  He did plan to go that route from the beginning, so no drachma was wasted...
+> Maybe you're wielding the wrong weapon? Josiah didn't start fighting unarmed until around 4x40. He did plan to go that route from the beginning, so no drachma was wasted...
 
 I need to look into what your saying more and test some things... but surely it's strange that a valker can use a weapon that's almost as elite as 9x40 weapon from an early onset? Where is the progression? Also there are no 3x40 swords or drachma swords, I have no idea why. A mage wearing pyjamas wearing an axe of the dwarvish lords has a better weapon than a warrior... But this is not an issue, since no one chooses this item anyway! It all seems a little odd. An average 40 Monk should be able to get 15+ hand dam together fairly easy... I don't think the complaint is about "poor warriors" I mean we have guys running around at a temp -15... I think it's more the giggle that hands are better than swords... and that somehow a monk wearing cloth can beat a tin can in melee.
 
@@ -112,7 +112,7 @@ Catch me in game if you see me, and give me some tips.
 
 <div class="post" data-post-id="37046" data-author="Hung" data-date="2016-07-12T15:57:04+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
-**Josiah,**
+<strong>Josiah,</strong>
 
 Ok, weapons provide bigger(not significally though) passive damage than fists. That is definitely plus for weapons. However let's see pluses of martial arts:
 
@@ -124,16 +124,16 @@ So overally fists are better than swords even if they lose in passive damage.
 
 For me the counterattack itself is enough to use fists on my bard and necro. If there was comparable non-warrior prime defense skill I'd switch to weapon.
 
-**p.s. There are countless ways to balance dual-wielding so it'll not become overpower.**
+<strong>p.s. There are countless ways to balance dual-wielding so it'll not become overpower.</strong>
 
 </div>
 
 <div class="post" data-post-id="37047" data-author="Josiah" data-date="2016-07-12T18:20:07+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
-> **Quote:**
+> <strong>Quote:</strong>
 > surely it's strange that a valker can use a weapon that's almost as elite as 9x40 weapon from an early onset? Where is the progression?
 
-Well, the sword I quoted is a twink weapon... it isn't available to real newbies.  It pops on a group mob in a rarely visited area.  To reach its peak potential it must be enchanted by a level 25 mage, and sharpened by a level 25 avatar, at a cost of 3 million gold.
+Well, the sword I quoted is a twink weapon... it isn't available to real newbies. It pops on a group mob in a rarely visited area. To reach its peak potential it must be enchanted by a level 25 mage, and sharpened by a level 25 avatar, at a cost of 3 million gold.
 
 A true newbie gets the intended progression by using whatever weapons they find, rather than going straight for the best.
 
@@ -143,16 +143,16 @@ You'll find many games allow extra power for experienced players, either by play
 
 <div class="post" data-post-id="37048" data-author="Wallop" data-date="2016-07-12T19:32:40+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
-> **Josiah wrote:**
-> Well, the sword I quoted is a twink weapon... it isn't available to real newbies.  It pops on a group mob in a rarely visited area.  To reach its peak potential it must be enchanted by a level 25 mage, and sharpened by a level 25 avatar, at a cost of 3 million gold.
+> <strong>Josiah wrote:</strong>
+> Well, the sword I quoted is a twink weapon... it isn't available to real newbies. It pops on a group mob in a rarely visited area. To reach its peak potential it must be enchanted by a level 25 mage, and sharpened by a level 25 avatar, at a cost of 3 million gold.
 
-I've got one of those that I carry around on Vk.  It's enchanted but not sharpened.  It's incredibly fun to massacre all the time as a level 20 while wearing all armor gear.  But from an overall xp/run perspective I find it nearly identical to using a mithril axe with shield.
+I've got one of those that I carry around on Vk. It's enchanted but not sharpened. It's incredibly fun to massacre all the time as a level 20 while wearing all armor gear. But from an overall xp/run perspective I find it nearly identical to using a mithril axe with shield.
 
 </div>
 
 <div class="post" data-post-id="37051" data-author="*juggleblood*" data-date="2016-07-13T23:48:29+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
-@Gorka, I don't think we'll see comprehensive attempts to balance warriors' weapdam against monks' handdam, because warrior class in sloth is geared towards defense where monk is geared toward offense. The two classes complement each other nicely.  I'm glad that the monk class has developed to the point that it has and I dig the symbiosis of the two. 
+@Gorka, I don't think we'll see comprehensive attempts to balance warriors' weapdam against monks' handdam, because warrior class in sloth is geared towards defense where monk is geared toward offense. The two classes complement each other nicely. I'm glad that the monk class has developed to the point that it has and I dig the symbiosis of the two. 
 
 That being said, I will keep your thoughts in mind the next I build a zone and am designing eq and make sure to throw a bone to weapdam.
 
@@ -182,21 +182,21 @@ Yes, fixing broadside and/or adding flail damage could improve the gameplay for 
 
 What could also improve it is to add more +weap dam items, because:
 
-- in ac I have 9 weapon damage from high-end eq and a clasp
+\- in ac I have 9 weapon damage from high-end eq and a clasp
 
-- in my weap dam set I add +1 weap dam from eq, +2 wd from a rune, and +5 raw damage from regular items.
+\- in my weap dam set I add +1 weap dam from eq, +2 wd from a rune, and +5 raw damage from regular items.
 
 If I had the -0.6 gaunts, I'd swap +5wd devilskin gaunts, but still, the dam difference between ac and dam is very little, compared to switching to a hd set.
 
 Personally, I'd love to see warriors doing more weapon damage in groups at the cost of their ac by:
 
-- removing the debuff on berserk, which removes crit hits
+\- removing the debuff on berserk, which removes crit hits
 
-- adding unique +wd items with ac handicap would help
+\- adding unique +wd items with ac handicap would help
 
-- adding 1-2 more attacks with dual wield in exchange of a shield
+\- adding 1-2 more attacks with dual wield in exchange of a shield
 
-- fixing broadside and/or adding more dam to flail
+\- fixing broadside and/or adding more dam to flail
 
 Obviously, with this passive damage, dd warriors need to be using an active skill, too, otherwise they'll be either blasting or doing nothing (broadside sucks, flail doesn't compare to strike for damage even if maxed).
 
@@ -232,9 +232,9 @@ I think that counterattack is so amazing skill(esp. for bard or necro) that even
 
 Basically I complain about two separate things:
 
-1) Weapon fighting does too low damage.
+1\) Weapon fighting does too low damage.
 
-2) Non-prime warriors lack any weapon fighting defense skill.
+2\) Non-prime warriors lack any weapon fighting defense skill.
 
 And Axes of Dwarvish Lords keep collecting dust...
 
@@ -264,7 +264,7 @@ Just thoughts. I agree it's a niche that could be flushed out better.
 
 <div class="post" data-post-id="37074" data-author="*juggleblood*" data-date="2016-07-17T22:41:29+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
-> **Gorka wrote:**
+> <strong>Gorka wrote:</strong>
 > I already know about how you and some other imms feel about the 3 x 40 axe which doesn't deathblow and broadside. Sure it's not a sword... but from my point of view I would just like to know if it is going to get changed or not, as I would seriously consider picking it if it was. I'd just like to know where I stand.
 > 
 > 
@@ -277,7 +277,7 @@ I vote in favor of fixing axe. I haven't asked the committee tho, will do that. 
 
 <div class="post" data-post-id="37076" data-author="*juggleblood*" data-date="2016-07-17T23:07:22+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
-*Axe of Dwarvish Lords will now broadside, riposte, deathblow just like sword.
+\*Axe of Dwarvish Lords will now broadside, riposte, deathblow just like sword.
 
 </div>
 
@@ -287,13 +287,13 @@ Thanks, JB!
 
 Some math on valor vs axe:
 
-- valor with clasp is 5d5 1 2
+\- valor with clasp is 5d5 1 2
 
-- axe is 6d5 5 0 +dex
+\- axe is 6d5 5 0 +dex
 
-- avg for valor is 2+(5+25)/2=17
+\- avg for valor is 2+(5+25)/2=17
 
-- avg for axe is (6+30)/2=18
+\- avg for axe is (6+30)/2=18
 
 I don't see how it's worth it for warriors to pick 1 dam, unless they want to get the +dex. But then, there are +2dex +hpr laces, which are more useful for a tank. Warriors already have ok hitroll, so the value of +5hitroll is diminished.
 
@@ -301,9 +301,9 @@ So, right now, it seems like the tri40 axe is for non-wa primes, who can't take 
 
 So:
 
-- I agree that valor could be upgraded with 40s (6x40, 7x40, 8x40, 9x40) and avatar levels, e.g. add +hit for every 40 and +1dam for every 10 avatar levels (JB, you've actually lowered damage for 20av in your post)
+\- I agree that valor could be upgraded with 40s (6x40, 7x40, 8x40, 9x40) and avatar levels, e.g. add +hit for every 40 and +1dam for every 10 avatar levels (JB, you've actually lowered damage for 20av in your post)
 
-- the tri40 axe could be made the ultimate weapon, but then it'd have to radically outpower the wa prime sword, if we want warriors to use the axe
+\- the tri40 axe could be made the ultimate weapon, but then it'd have to radically outpower the wa prime sword, if we want warriors to use the axe
 
 Would it make sense to have the tri40axe more powerful, than the wa prime weapon?
 
@@ -327,9 +327,9 @@ Thanks JB for fixing the axe!
 
 However that string is quite explanative why I wont switch to the new axe on my bard:
 
-*You quickly duck aside and use an evil death knight's strength against him in a brutal 
+<em>You quickly duck aside and use an evil death knight's strength against him in a brutal </em>
 
-counterattack!*
+<em>counterattack!</em>
 
 I've made some statistics gathering scripts to see how often counterattack does actually works. And here are preliminary results:
 
@@ -339,9 +339,9 @@ Total incoming attacks: 267
 
 Total counterattacks: 37
 
-Counterattacks per round: 37/114 = ~32%
+Counterattacks per round: 37/114 = \~32%
 
-Counterattacks per incoming attacks: 37/267 = ~14%
+Counterattacks per incoming attacks: 37/267 = \~14%
 
 So basically counterattack works average every third round or every sixth incoming attack. And that is without oghams which is supposed to empower it even more.
 
@@ -349,7 +349,7 @@ So the counterattack itself is enough reason for my bard to choose bare-handed f
 
 Previously it had been said that the weapon fighting is supposed to be more defensive, while fists are more offensive. So far is works only for the prime warriors. For non-primes fists are more defensive.
 
-Therefore I propose to fix it once and for all by introducing new non prime warrior skill **deflection**, that'll add small chance of blocking incoming blow with a weapon. I propose it to work following way:
+Therefore I propose to fix it once and for all by introducing new non prime warrior skill <strong>deflection</strong>, that'll add small chance of blocking incoming blow with a weapon. I propose it to work following way:
 
 - It works only when holding a weapon.
 - It is passive(i.e. it doesn't require to be explicity turned on unlike counterattack).
@@ -364,37 +364,37 @@ Therefore I propose to fix it once and for all by introducing new non prime warr
 
 So based on this post I'm seeing the following suggestions:
 
-- Make parry non-prime and less effective for non-primes (or make new skill)
+\- Make parry non-prime and less effective for non-primes (or make new skill)
 
-- Dual-wielding
+\- Dual-wielding
 
-- Increase the weapon damage cap to be closer to the hand damage cap
+\- Increase the weapon damage cap to be closer to the hand damage cap
 
-- Increase damage for broadside and/or flail (or fix in other ways)
+\- Increase damage for broadside and/or flail (or fix in other ways)
 
-- Better fight-starter for warriors
+\- Better fight-starter for warriors
 
 A couple other things that no one has mentioned:
 
-1) It seems logical to me that players should fight better as warrior or monk depending on their class order. 
+1\) It seems logical to me that players should fight better as warrior or monk depending on their class order. 
 
-2) The weapon slot could be made more valuable.  A dark mace isn't just an ether weapon, it also procs, provides mana regen, and heal bonus at high levels.  We could add more weapons or weapon clasps with procs and/or bonuses.  There could be more runes allowed on the weapon slot.  Would it change a bard's behavior if there was a weapon or weapon clasp that increased charisma, number of song targets, or song duration?  How about if there was a weapon that worked like a peri and healed after dealing a particular amount of damage?
+2\) The weapon slot could be made more valuable. A dark mace isn't just an ether weapon, it also procs, provides mana regen, and heal bonus at high levels. We could add more weapons or weapon clasps with procs and/or bonuses. There could be more runes allowed on the weapon slot. Would it change a bard's behavior if there was a weapon or weapon clasp that increased charisma, number of song targets, or song duration? How about if there was a weapon that worked like a peri and healed after dealing a particular amount of damage?
 
 </div>
 
 <div class="post" data-post-id="37099" data-author="Gorka" data-date="2016-07-20T19:27:47+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
-Are you an immortal or a player teker, I'm confused... why are you thinking like us?  :lol: 
+Are you an immortal or a player teker, I'm confused... why are you thinking like us? <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> 
 
 Keep up the good work... by the way, discovered the other day that my kick dam was about the same as my broadside damage... so yeah... probably not what anyone intended. 
 
-Careful about asking for ideas around here, we might drown you in our dreams. Do what you think is right.  :)
+Careful about asking for ideas around here, we might drown you in our dreams. Do what you think is right. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="37100" data-author="Hung" data-date="2016-07-20T19:42:44+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
-Well, frankly I think charisma is quite useless even for my bard. As I use songs that depends on it(cry of avatars and reign of confusion) rarely. And even when I do my ~20 charisma is more than enough. Groups arent big these days so I easily affect all followers with my gods of war. So, no, I wont switch to a bard weapon.
+Well, frankly I think charisma is quite useless even for my bard. As I use songs that depends on it(cry of avatars and reign of confusion) rarely. And even when I do my \~20 charisma is more than enough. Groups arent big these days so I easily affect all followers with my gods of war. So, no, I wont switch to a bard weapon.
 
 Btw, maybe necromancer prime analogue to dark mace that procs vampiric touch may be a good idea to inspire more people play necros.
 
@@ -410,25 +410,25 @@ So I brought up this list to the other imms and the feedback I got was:
 
 The following list isn't happening:
 
-- Make parry non-prime and less effective for non-primes (or make new skill)
+\- Make parry non-prime and less effective for non-primes (or make new skill)
 
-- Dual-wielding
+\- Dual-wielding
 
 The following list probably isn't happening:
 
-- Better fight-starter for warriors
+\- Better fight-starter for warriors
 
 The following list could happen:
 
-- Increase the weapon damage cap to be closer to the hand damage cap
+\- Increase the weapon damage cap to be closer to the hand damage cap
 
-- Increase damage for broadside and/or flail (or fix in other ways)
+\- Increase damage for broadside and/or flail (or fix in other ways)
 
-1st Question:  Based on this - is there really any fix that would make a bard or other non-warrior/non-monk prime class use a weapon when soloing?  Or is the benefit from counterattack just too great to change from bare handed?
+1st Question: Based on this - is there really any fix that would make a bard or other non-warrior/non-monk prime class use a weapon when soloing? Or is the benefit from counterattack just too great to change from bare handed?
 
-I've looked at the code for kick, broadside, and strike.  The biggest difference right now is that strike benefits from a bunch of potential bonuses that the other two do not.  I'm thinking that kick will probably be left alone since it's a low level skill but that broadside should be improved to include many of the same types of bonuses that strike benefits from.
+I've looked at the code for kick, broadside, and strike. The biggest difference right now is that strike benefits from a bunch of potential bonuses that the other two do not. I'm thinking that kick will probably be left alone since it's a low level skill but that broadside should be improved to include many of the same types of bonuses that strike benefits from.
 
-2nd Question: How does flail perform?  I've taken a high level look at it and it seems to start with the weapon damage and includes some bonuses but not as many as strike.
+2nd Question: How does flail perform? I've taken a high level look at it and it seems to start with the weapon damage and includes some bonuses but not as many as strike.
 
 </div>
 
@@ -444,53 +444,53 @@ This is my solo eqset that is mix of ac, charisma and hand dam gear:
 
 You are using:
 
-<used as light>      embers of the funeral pyre (with a flawed glowing gem attached to it)
+\<used as light\> embers of the funeral pyre (with a flawed glowing gem attached to it)
 
-<worn on finger>     ring of a thousand singing souls ()socketed Freshwater Pearl Rune()
+\<worn on finger\> ring of a thousand singing souls ()socketed Freshwater Pearl Rune()
 
-<worn on finger>     ring of a thousand singing souls ()socketed Freshwater Pearl Rune() (with a 
+\<worn on finger\> ring of a thousand singing souls ()socketed Freshwater Pearl Rune() (with a 
 
 ring ribbon attached to it)
 
-<worn around neck>   a patched black cloak
+\<worn around neck\> a patched black cloak
 
-<worn on shoulders>  Ivy Etched Shoulder Guards..It has a soft glowing aura!
+\<worn on shoulders\> Ivy Etched Shoulder Guards..It has a soft glowing aura!
 
-<worn on body>       a suit of glowing, diamond-encrusted platemail (with the mark of the jovial 
+\<worn on body\> a suit of glowing, diamond-encrusted platemail (with the mark of the jovial 
 
 attached to it)
 
-<worn on head>       The Crown of Thorns (with a reddish-colored glass eye attached to it)
+\<worn on head\> The Crown of Thorns (with a reddish-colored glass eye attached to it)
 
-<worn on legs>       titanium greaves (with a golden, four-pointed star (Major) attached to it)
+\<worn on legs\> titanium greaves (with a golden, four-pointed star (Major) attached to it)
 
-<worn on feet>       a pair of black tassled boots..It has a soft glowing aura!
+\<worn on feet\> a pair of black tassled boots..It has a soft glowing aura!
 
-<worn on hands>      Gauntlets of Thunder..It has a soft glowing aura!
+\<worn on hands\> Gauntlets of Thunder..It has a soft glowing aura!
 
-<worn on arms>       banded leather sleeves..It glows violet!
+\<worn on arms\> banded leather sleeves..It glows violet!
 
-<worn as shield>     an olive turtle dragon shell
+\<worn as shield\> an olive turtle dragon shell
 
-<worn about body>    Cloak of Forgotten Tales ()socketed Citrine Rune()
+\<worn about body\> Cloak of Forgotten Tales ()socketed Citrine Rune()
 
-<worn about waist>   an ebony sash
+\<worn about waist\> an ebony sash
 
-<worn around wrist>  a bony bracelet (with a little dancing star attached to it)
+\<worn around wrist\> a bony bracelet (with a little dancing star attached to it)
 
-<worn around wrist>  a bony bracelet (with a little dancing star attached to it)
+\<worn around wrist\> a bony bracelet (with a little dancing star attached to it)
 
-<held>               book of the old forgotten tales ()socketed Banded Agate Rune()
+\<held\> book of the old forgotten tales ()socketed Banded Agate Rune()
 
-<instrument>         a snare drum
+\<instrument\> a snare drum
 
 It has only 3 monk items(Gauntlets of Thunder, banded leather sleeves and ebony sash), each giving +2 hd.
 
 Such eq set gives me following score:
 
-Kid %s  (level: 40)
+Kid %s (level: 40)
 
-Your levels:  Ba: 40 Dr: 40 Cl: 40 Ne: 40 Mo: 40 Wa: 32 Ma: 21 Th: 20 Av: 8 
+Your levels: Ba: 40 Dr: 40 Cl: 40 Ne: 40 Mo: 40 Wa: 32 Ma: 21 Th: 20 Av: 8 
 
 You are 27 years, 11 months, 1 day old.
 
@@ -532,11 +532,11 @@ Your song can affect as many as twelve people.
 
 The following bonuses affect you:
 
-   Damage Red.   :  53% (  7) [||||||||||||||||||||||||||                        ]
+ Damage Red. : 53% ( 7) [\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\| ]
 
-   Charisma      :  79% ( 19) [|||||||||||||||||||||||||||||||||||||||           ]
+ Charisma : 79% ( 19) [\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\| ]
 
-   Hand Damage   :  28% (  6) [||||||||||||||                                    ]
+ Hand Damage : 28% ( 6) [\|\|\|\|\|\|\|\|\|\|\|\|\|\| ]
 
 That is without glamour(which increates charisma) and bless/grace/peri's blessing(which increates hitroll).
 
@@ -558,17 +558,17 @@ So overall round damage is 65.
 
 I.e. even passive damage is significantly higher with fists for my character.
 
-Of course, replacing monk items with ac ones will give me like -.8ac. However the counterattack compensates that ac loss with vengeance. Btw, I've tested it with oghams on and the rate per round raised up to ~38%.
+Of course, replacing monk items with ac ones will give me like -.8ac. However the counterattack compensates that ac loss with vengeance. Btw, I've tested it with oghams on and the rate per round raised up to \~38%.
 
 So I dont see me switching to the axe in the nearly future even if broadside will be improved. 
 
 On the other hand even now single blow of axe does more than single hit. Therefore I may switch to it in the very distance future. After gaining triple attack, haste and avatar attack. After reaching 9x40 and buying all 10 weapon dam points from the avatar shop. After forging of demonskin gaunts and getting all weapon dam runes(all of them are tier 3). Then maybe axe will become better choice.
 
-**p.s.** While there, I ask the administration to review the following drachma item:
+<strong>p.s.</strong> While there, I ask the administration to review the following drachma item:
 
 Serpentskin Bracer
 
--0.4 WeaponDam 2, Hpr 2
+\-0.4 WeaponDam 2, Hpr 2
 
 Drachma [770]
 
@@ -586,9 +586,9 @@ The monk's ability to strike harder factors in hand damage. The more hand damage
 
 This is the "universal answer" every player would go for since going without a weapon also allows you to play with monk goodies such as the counter attack/dodge etc.
 
-So to answer your first question - there is no fix to go the no brainer route like above. It is efficient, simple and effective. Pretty much how the class works naturally. To compliment the difference, I would agree to follow the same concept as above. Warriors having the option to include their weapon_bonus to their skills such as : broadside, flail etc. Still though, I cannot see how this would influence a player's choice in change.
+So to answer your first question - there is no fix to go the no brainer route like above. It is efficient, simple and effective. Pretty much how the class works naturally. To compliment the difference, I would agree to follow the same concept as above. Warriors having the option to include their weapon\_bonus to their skills such as : broadside, flail etc. Still though, I cannot see how this would influence a player's choice in change.
 
-On a different note, there are very little weapon bonus goodies. A player this route would need to rely heavily on gems, which are pretty much non-existent, to only hit a capacity of barely 18% (output in raw ratio) of what a monk concept can offer head to toe. Since gem rates will not change, maybe we can start looking at weapon_bonus scale or perhaps the long much anticipated wait - bonus_weapon_bonus. 
+On a different note, there are very little weapon bonus goodies. A player this route would need to rely heavily on gems, which are pretty much non-existent, to only hit a capacity of barely 18% (output in raw ratio) of what a monk concept can offer head to toe. Since gem rates will not change, maybe we can start looking at weapon\_bonus scale or perhaps the long much anticipated wait - bonus\_weapon\_bonus. 
 
 Old traditional warrior gear with top AC comes either with a penalty or nothing at all. Maybe we could look into complimenting these too. 
 
@@ -606,40 +606,40 @@ Another solution had been offered on our telegram chat. The idea is to introduce
 
 <div class="post" data-post-id="37108" data-author="Gorka" data-date="2016-07-22T11:55:56+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
-> ***teker* wrote:**
+> <strong>\*teker\* wrote:</strong>
 > The following list isn't happening:
 > 
-> - Make parry non-prime and less effective for non-primes (or make new skill)
+> \- Make parry non-prime and less effective for non-primes (or make new skill)
 > 
-> - Dual-wielding
+> \- Dual-wielding
 
-Good! And if the mages all want second wind, then I want frostbolt  :lol: 
+Good! And if the mages all want second wind, then I want frostbolt <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> 
 
-> ***teker* wrote:**
+> <strong>\*teker\* wrote:</strong>
 > The following list probably isn't happening:
 > 
-> - Better fight-starter for warriors
+> \- Better fight-starter for warriors
 
 How about changing charge to a foot charge... just like in the movies, think Braveheart or Gladiator.. but without having to be on horseback. A bit of a buff for the first round. Charge is already an existing skill and useful for newbies, it is also an opener, unfortunately the game doesn't really use mounts past valk, mostly because mounts are completely unpractical for groups and keep wandering off. Also mounts are impractical with many other game skills. Maybe a small change to charge, disregarding the horseback element, and the problem is solved.
 
-> ***teker* wrote:**
+> <strong>\*teker\* wrote:</strong>
 > The following list could happen:
 > 
-> - Increase the weapon damage cap to be closer to the hand damage cap
+> \- Increase the weapon damage cap to be closer to the hand damage cap
 > 
-> - Increase damage for broadside and/or flail (or fix in other ways)
+> \- Increase damage for broadside and/or flail (or fix in other ways)
 
 Teker, increasing the cap a little probably needs to happen... but this doesn't address the problem. I am 1x40 and my monk side is about 20% more powerful than my warrior side. Next 40, my monk side gets another 5 hand dam and my warrior side gets nothing. All that hand dam adds to grip, strike, flurry and counterattack. The divide is only getting worse. The real issue with warrior is the beginning, the monks are completely dope. Changing to caps only helps avatars. There is not a lot wrong with avatar warriors... checkout stun...
 
-> ***teker* wrote:**
-> - Increase damage for broadside and/or flail (or fix in other ways)
+> <strong>\*teker\* wrote:</strong>
+> \- Increase damage for broadside and/or flail (or fix in other ways)
 
 Yes please! Could you make this maybe automatic as part of warrior combat? Like I don't like the idea of broadside being "strike" for warriors. I like the riposte/crit hits concept. I don't like the idea of warrior skills mimicking monk, but they do need to be useful.
 
-> **Hung wrote:**
+> <strong>Hung wrote:</strong>
 > Serpentskin Bracer
 > 
-> -0.4 WeaponDam 2, Hpr 2
+> \-0.4 WeaponDam 2, Hpr 2
 > 
 > Drachma [770]
 
@@ -667,23 +667,23 @@ Like Yang said, in groups few songs need charisma and if they do, it happens rar
 
 If you want bards to go full charisma, keep their +charisma weapons on, and buy +bonus-charisma eq, make charisma boost the number of ppl affected by the bard and song effect, such as:
 
-- 10 charisma: gods of war is 9 damage, 0 ppl bonus
+\- 10 charisma: gods of war is 9 damage, 0 ppl bonus
 
-- 12 charisma: gods of war is 10 damage, 0 ppl bonus
+\- 12 charisma: gods of war is 10 damage, 0 ppl bonus
 
-- 14 charisma: gods of war is 11 damage, 1 ppl bonus
+\- 14 charisma: gods of war is 11 damage, 1 ppl bonus
 
-- 16 charisma: gods of war is 12 damage, 1 ppl bonus
+\- 16 charisma: gods of war is 12 damage, 1 ppl bonus
 
-- 18 charisma: gods of war is 13 damage, 2 ppl bonus
+\- 18 charisma: gods of war is 13 damage, 2 ppl bonus
 
-- 20 charisma: gods of war is 14 damage, 2 ppl bonus (current cap at 1x40)
+\- 20 charisma: gods of war is 14 damage, 2 ppl bonus (current cap at 1x40)
 
-- etc
+\- etc
 
 See more [here](http://www.slothmud.org/forum/viewtopic.php?f=30&t=4659).
 
-# of ppl affected matters, because in large groups sometimes a bard isn't enough and he can't do anything, other than leveling to 9x40 to use his instruments, to affect more ppl. Maybe more +ppl bonus/-mana cost% eq would help here.
+\# of ppl affected matters, because in large groups sometimes a bard isn't enough and he can't do anything, other than leveling to 9x40 to use his instruments, to affect more ppl. Maybe more +ppl bonus/-mana cost% eq would help here.
 
 As for necros, same deal about solo: +high damage dice,+mr and damage procs.
 
@@ -695,7 +695,7 @@ The only few damage proc weapons that are worthy are the Kladenetz blade (4d4 +2
 
 tldr; make awesome procs for weapons with high damage dice for ppl to use them or they'll go with tri40 weapons or barehanded.
 
-2. When capped at 60, flail does about 50-120 damage and is less, than a strike with hand dam (also note that I get an extra attack, if I go bare-handed, as Kung has demonstrated above).
+2\. When capped at 60, flail does about 50-120 damage and is less, than a strike with hand dam (also note that I get an extra attack, if I go bare-handed, as Kung has demonstrated above).
 
 More often, than not, flail does about 60-80 damage and is just a minimal addition to tank damage. I'm simply using it, because there sometimes is nothing else to do, because I'm either singing or out of mana or saving mana for heals.
 
@@ -705,13 +705,13 @@ Broadside does even less damage, doesn't have +stat eq and doesn't work on 5m+ m
 
 The way I see it about strike/flail/weap damage:
 
-- there is little weap dam items for warriors to grow in damage, compared to hand damage
+\- there is little weap dam items for warriors to grow in damage, compared to hand damage
 
-- broadside/flail don't scale with levels, like strike does (7av master strike)
+\- broadside/flail don't scale with levels, like strike does (7av master strike)
 
-- therefore, broadside/flail are rarely used for damage
+\- therefore, broadside/flail are rarely used for damage
 
-- anything but capped weapon damage doesn't compensate for flurry, it's just a great monk skill.
+\- anything but capped weapon damage doesn't compensate for flurry, it's just a great monk skill.
 
 So, it looks like broadside and flail need major boosts in damage to be used for damage dealing warriors for real, maybe multiply weap dam for it, so warriors would consider switching to wd instead of going barehanded.
 
@@ -731,27 +731,27 @@ Stop getting distracted people.
 
 Here's a little insight also since Gorka asked -
 
-Warrior weapon_bonus caps at 25.
+Warrior weapon\_bonus caps at 25.
 
-1) You have +3 weapon_bonus non-drachma items below Avatar 1. (3/25)
+1\) You have +3 weapon\_bonus non-drachma items below Avatar 1. (3/25)
 
-2) You have +5 weapon_bonus from a 63 mil coins forge for Avatar 10. (8/25) <-- Good luck finding coins for the forge!
+2\) You have +5 weapon\_bonus from a 63 mil coins forge for Avatar 10. (8/25) \<-- Good luck finding coins for the forge!
 
-3) You have +10 weapon_bonus from 100B exp and 100 mil coins at 9x40. (18/25) <-- Good luck reaching 9x40!
+3\) You have +10 weapon\_bonus from 100B exp and 100 mil coins at 9x40. (18/25) \<-- Good luck reaching 9x40!
 
 And the best part :
 
-4) You have +8 weapon_bonus from a total of 4 runes. (26/25) <-- Good luck finding these 20 gems!
+4\) You have +8 weapon\_bonus from a total of 4 runes. (26/25) \<-- Good luck finding these 20 gems!
 
-Not sure which comes first - reaching 9x40 or finding  20 weapon_bonus gems. According to Gorka, reaching 5x40 got him a gem.
+Not sure which comes first - reaching 9x40 or finding 20 weapon\_bonus gems. According to Gorka, reaching 5x40 got him a gem.
 
 Let's say a warrior wants to make life 'easier' : 
 
-a) Spend 740 drachma on +2 weapon_bonus (Relic)
+a) Spend 740 drachma on +2 weapon\_bonus (Relic)
 
-b) Spend 770 drachma on +2 weapon_bonus (Bracer)
+b) Spend 770 drachma on +2 weapon\_bonus (Bracer)
 
-c) Spend 770 drachma on +2 weapon_bonus for your 2nd (Bracer)
+c) Spend 770 drachma on +2 weapon\_bonus for your 2nd (Bracer)
 
 Obtain 1) and 2).
 
@@ -759,7 +759,7 @@ Result : 14/25
 
 Damn, after all the writing, I almost feel sorry for the class. Difficulty 10/10.
 
-Oh hello Monk class - 15 hand_dam all below 40 monk. Yolo boys, go monk. Difficulty 1/10. 
+Oh hello Monk class - 15 hand\_dam all below 40 monk. Yolo boys, go monk. Difficulty 1/10. 
 
 Regards,
 
@@ -791,9 +791,9 @@ To conclude,
 
 I do not think any sort of light change towards warrior skills would do any good in regards to topic. So hard to compare the two. One can actually just accept the fact you should do well monk style, embrace the ki, and move on?
 
-I do however would like to think our Gods who govern us hear our plea and condone our ideas towards the weapon_bonus for a warrior's growth spurt in general. This would also have some impact towards our other classes who stray to such meditative and pious ways. We have highlighted the massive void in weapon_bonus, the severe difficulty and ease of other goodly Sloth monk ways.
+I do however would like to think our Gods who govern us hear our plea and condone our ideas towards the weapon\_bonus for a warrior's growth spurt in general. This would also have some impact towards our other classes who stray to such meditative and pious ways. We have highlighted the massive void in weapon\_bonus, the severe difficulty and ease of other goodly Sloth monk ways.
 
-Could I ask also Teker since you have been our listening ear and a dear shoulder - could we see light towards bonus_weapon_bonus like the many other skills that has enjoyed this attribute? 
+Could I ask also Teker since you have been our listening ear and a dear shoulder - could we see light towards bonus\_weapon\_bonus like the many other skills that has enjoyed this attribute? 
 
 Muchas Gracias!
 
@@ -815,19 +815,19 @@ Warrior primes will attach those clasps on their swords. While non-primes will a
 
 And Lord Moonglum will finally stop walking around with long face and cursing someone who sold him stack of those axes.
 
-**p.s.** Of course, such clasp will make tassle of the guardian obsolete. However the tassle could become part of some greater forge. I.e. -.4ac +2wd boots.
+<strong>p.s.</strong> Of course, such clasp will make tassle of the guardian obsolete. However the tassle could become part of some greater forge. I.e. -.4ac +2wd boots.
 
 </div>
 
 <div class="post" data-post-id="37126" data-author="*teker*" data-date="2016-07-24T23:23:30+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
-We're currently discussing what to try to do to make things more even.  One of the things for sure would be to include some of the missing bonuses in warrior skills and to make them improve with warrior levels.   I looked in the code and it appears that bonus weapon damage has been coded but not used.  It would be trivial to change the weapon damage cap and that's something we should do as well, but we need to discuss numbers.
+We're currently discussing what to try to do to make things more even. One of the things for sure would be to include some of the missing bonuses in warrior skills and to make them improve with warrior levels. I looked in the code and it appears that bonus weapon damage has been coded but not used. It would be trivial to change the weapon damage cap and that's something we should do as well, but we need to discuss numbers.
 
-To finally improve things, it'll be up to the builders to add more items that add to weapon damage.  It sounds like many of these need to be lower level.
+To finally improve things, it'll be up to the builders to add more items that add to weapon damage. It sounds like many of these need to be lower level.
 
-Let me ask this also:  Why do people play warriors if the weapon damage is so low?  What compensates for that to make them fun to play?  Or are all the warriors just running around bare-handed?
+Let me ask this also: Why do people play warriors if the weapon damage is so low? What compensates for that to make them fun to play? Or are all the warriors just running around bare-handed?
 
-How big of a ***** storm would there be if we revised monk damage down if it falls later in the class order?
+How big of a \*\*\*\*\* storm would there be if we revised monk damage down if it falls later in the class order?
 
 </div>
 
@@ -841,7 +841,7 @@ I'm not convinced we need to balance weapdam as warriors already get crit and ma
 
 <div class="post" data-post-id="37128" data-author="Hung" data-date="2016-07-25T01:10:06+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
-People play warriors because of parry & riposte which are probably best defense skills. People play warriors because of second wind which is considered by some as best prime skill ever. Finally people play warriors because of hp & hpregen bonus, ac bonus and ability to make ac lower than -11.
+People play warriors because of parry \& riposte which are probably best defense skills. People play warriors because of second wind which is considered by some as best prime skill ever. Finally people play warriors because of hp \& hpregen bonus, ac bonus and ability to make ac lower than -11.
 
 As JB previously said, weapon fighting is supposed to be more defensive style, while fists are more offensive. So far it is true only for prime warriors. Therefore my suggestions were aimed to make it true for non-primes as well. I dont think weapon fighting should compete with martial arts in damage. However there is an issue with weapon dam growth being very non-linear(as most of it comes from avatar shop and tier 3 gems). While the hand dam grows pretty linear(as most of it comes from ordinary eq).
 
@@ -865,7 +865,7 @@ On this basis, I do not think we should be looking at a monk revision. It is sim
 
 Moving on -
 
-The current weapon damage cap is not at all low. I have seen the various output in a growing warrior trying to achieve the cap and I can almost say that the end result is truly impressive. However, fullfilling this cap is a daunting task. I firmly believe works are under way to ease the pain. One very simple way to "increase" the cap is to actually just allow bonus_weapon_bonus to have a play. Maybe that can be in works too *nudge*
+The current weapon damage cap is not at all low. I have seen the various output in a growing warrior trying to achieve the cap and I can almost say that the end result is truly impressive. However, fullfilling this cap is a daunting task. I firmly believe works are under way to ease the pain. One very simple way to "increase" the cap is to actually just allow bonus\_weapon\_bonus to have a play. Maybe that can be in works too \*nudge\*
 
 What Hung has mentioned pretty much sums up why anyone would want to play the prime. 
 
@@ -883,22 +883,22 @@ Dr
 
 May i suggest... adding bonus weapon damage at the same levels you get heal bonus or bonus spell damage from avvie levels for warriors, and maybe bonus hand damage for monks at same levels? Both only for primes. Could also just extend the swordsmanship and/or barehanded still to classo..
 
-Warriors damage sucks ..always had.  i leveled before pit etc... so was spending all day killing 200 k ish mobs.. waiting for groups..
+Warriors damage sucks ..always had. i leveled before pit etc... so was spending all day killing 200 k ish mobs.. waiting for groups..
 
-Now.. if i redid it.. would ignore ac, since potions can easily outdo anything.   Same with damage... potions boost easily.  And, you can kill in pit all day for them, with no risk of exp loss..
+Now.. if i redid it.. would ignore ac, since potions can easily outdo anything. Same with damage... potions boost easily. And, you can kill in pit all day for them, with no risk of exp loss..
 
-Most warriors.. hell even clerics.. now level usuing monk hand damage.  Monk themselves are fairly weak as a concept... ie- several other classes can easily outdo monks in grip/damage..  so i agree, weakening monk lower in classo would help.. and piss ppl off.. however.. monks can never reach there cap for hand damage.. its just not possible with eq and avvie shop presently. so even nerfing it for other primes would not matter a lot. And redoing/improving eq for monk primes... already there is items better than the monk prime eq in game for same slot.. but ..made for warriors. Also. same deal with gems.. just never gonna happen.. so no point counting them..
+Most warriors.. hell even clerics.. now level usuing monk hand damage. Monk themselves are fairly weak as a concept... ie- several other classes can easily outdo monks in grip/damage.. so i agree, weakening monk lower in classo would help.. and piss ppl off.. however.. monks can never reach there cap for hand damage.. its just not possible with eq and avvie shop presently. so even nerfing it for other primes would not matter a lot. And redoing/improving eq for monk primes... already there is items better than the monk prime eq in game for same slot.. but ..made for warriors. Also. same deal with gems.. just never gonna happen.. so no point counting them..
 
 overall, its same regardless of class... either level via shifting, level with a damage heavy friend, or camp pit for potions.. or wait for groups.. 
 
-4 max avvies i have.. all essentially kill the same areas... ip did better shifting before he got avvie shop boosts.  There is little to differentiate monk from any other class now.. but everyones all 8 classes.. so.. maybe thats the goal?  Dunno.
+4 max avvies i have.. all essentially kill the same areas... ip did better shifting before he got avvie shop boosts. There is little to differentiate monk from any other class now.. but everyones all 8 classes.. so.. maybe thats the goal? Dunno.
 
 </div>
 
 <div class="post" data-post-id="37131" data-author="Gorka" data-date="2016-07-25T06:03:42+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
-> ***teker* wrote:**
-> How big of a ***** storm would there be if we revised monk damage down if it falls later in the class order?
+> <strong>\*teker\* wrote:</strong>
+> How big of a \*\*\*\*\* storm would there be if we revised monk damage down if it falls later in the class order?
 
 Don't do this teker. Some people spend hundreds of hours on there +1's. It's completely unfair (especially to primes). Getting the balance right is just something that needs to be done through good planning right from the start. It would appear to me that somehow the builders put too many hand dam items into the game at some point, causing this imbalance. When I came back I saw those hand dam monk rings and I just had to laugh. Warrior is a great class, it's just been left behind a little, it's not the only class either.
 
@@ -924,9 +924,9 @@ I've already played around with the LUA and JSON lists a little and found them u
 
 There are also some other problems that were kind of annoying... There appears to be 2 ways to define AC...
 
-    <AFF_ARMOR>-5</AFF_ARMOR>
+ \<AFF\_ARMOR\>-5\</AFF\_ARMOR\>
 
-    <VALUE_AC>3</VALUE_AC>
+ \<VALUE\_AC\>3\</VALUE\_AC\>
 
 There should probably only be 1 tag for AC... imho, and perhaps the few old items need changing.
 
@@ -934,7 +934,7 @@ There should probably only be 1 tag for AC... imho, and perhaps the few old item
 
 <div class="post" data-post-id="37133" data-author="Teron" data-date="2016-07-25T09:05:21+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
-1. Why people play warriors
+1\. Why people play warriors
 
 Warrior, first of all, is an armored tank, behind which ppl get behind. Playing a tank is his current primary role and warriors do it better, than any other, thanks to hps, parry and second wind. Citing hp regen as an advantage is laughable, though, because a 14av skill beats anything (225hpr caster regen vs 325hpr warrior regen, and you won't get full mana before hps)
 
@@ -948,7 +948,7 @@ Of course, warrior and monk playstyles are a bit different (presage, focus vs se
 
 I'd love to see people pick warriors to deal damage, if they like their damage and active skills. However, right now, this is out of the question. Any damage that warriors can get comes from hard forges, runes and avatar shop and there aren't active skills for damage dealing, except for tanks.
 
-2. Monk damage
+2\. Monk damage
 
 Personally, I don't see monk damage as being op right now, you still need to work for it. I'm pretty sure my hand dam, even in a full hd set, doesn't compare to Ip's or Josiah's. 
 
@@ -968,7 +968,7 @@ Will the warrior drachma bracers be adjusted?
 
 Is broadside/flail being reworked?
 
-Are warrior drachma items going to be created or changed with BONUS_WEAPONDAM?
+Are warrior drachma items going to be created or changed with BONUS\_WEAPONDAM?
 
 Are builders working on Warrior weapon dam eq's?
 
@@ -978,17 +978,17 @@ Any info would be better than none, so I know if I should hold off important dec
 
 <div class="post" data-post-id="37155" data-author="*teker*" data-date="2016-07-30T21:49:26+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
-> **Quote:**
+> <strong>Quote:</strong>
 > Is broadside/flail being reworked?
 
-I'm hoping to have something in the next reboot for this.  It may take a few tries to get the final changes in place.
+I'm hoping to have something in the next reboot for this. It may take a few tries to get the final changes in place.
 
 </div>
 
 <div class="post" data-post-id="37159" data-author="Teron" data-date="2016-07-31T07:05:49+00:00" data-subject="Re: Bare-handed vs weapon fighting balance">
 
-> ***teker* wrote:**
-> I'm hoping to have something in the next reboot for this.  It may take a few tries to get the final changes in place.
+> <strong>\*teker\* wrote:</strong>
+> I'm hoping to have something in the next reboot for this. It may take a few tries to get the final changes in place.
 
 Thanks, Teker.
 

@@ -12,7 +12,7 @@ post_count: 5
 
 <div class="post" data-post-id="14738" data-author="Atwell" data-date="2006-10-24T07:09:46+00:00" data-subject="Epic creature -- Baraneth, the golden scaled dragoness">
 
-During a long minor conjunction in the house of the dragon, Acme found Baraneth in the valley of the great old ones, 2n3u from the dark young.  We met Baraneth previously in a large quest several weeks ago.  She has several procs that damage everyone and instantly kill summoned followers, and procs to blind, poison, and throw the entire group out of the room.  After about 8 runs of blasting through her massive hit points, we won:
+During a long minor conjunction in the house of the dragon, Acme found Baraneth in the valley of the great old ones, 2n3u from the dark young. We met Baraneth previously in a large quest several weeks ago. She has several procs that damage everyone and instantly kill summoned followers, and procs to blind, poison, and throw the entire group out of the room. After about 8 runs of blasting through her massive hit points, we won:
 
 Baraneth, the golden scaled dragoness is dead! R.I.P.
 
@@ -78,40 +78,40 @@ Adagio gets gold coins from the corpse of Baraneth, the golden scaled dragoness 
 
 on the ground.
 
-Adagio splits 1000000 coins.  Your share is 41666 coins.
+Adagio splits 1000000 coins. Your share is 41666 coins.
 
 A glowing sliver of steel explodes in a blinding red light, scattering shards of steel
 
 about the room.
 
-The hot shards of steel slice through your skin.  It burns!
+The hot shards of steel slice through your skin. It burns!
 
 You have gained 25 drachma.
 
-Thanks to all who helped.  Special thanks to Acme for identifying the mob, Damsel for tanking most of the runs, Rynquald for managing nightmares and red and white staffs, and the admins who added these epic mobs.
+Thanks to all who helped. Special thanks to Acme for identifying the mob, Damsel for tanking most of the runs, Rynquald for managing nightmares and red and white staffs, and the admins who added these epic mobs.
 
 </div>
 
 <div class="post" data-post-id="14739" data-author="Mace" data-date="2006-10-24T08:36:04+00:00" data-subject="">
 
-As a further point of interest, the dragoness reappeared (long dragon conjunction right now) in the same room several resets later.  ATTACK!
+As a further point of interest, the dragoness reappeared (long dragon conjunction right now) in the same room several resets later. ATTACK!
 
 </div>
 
 <div class="post" data-post-id="14740" data-author="tincts" data-date="2006-10-24T09:29:51+00:00" data-subject="">
 
-Wow!  Epics sound like a creative addition.  Thanks again to the immorts.  Hope one turns up when I'm on sometime!  :o
+Wow! Epics sound like a creative addition. Thanks again to the immorts. Hope one turns up when I'm on sometime! <img src="/images/smilies/icon_e_surprised.svg" alt=":o" title=":o" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="14741" data-author="Hades" data-date="2006-10-24T10:32:48+00:00" data-subject="Epic&#x27;s MOB&#x27;s">
 
-This is a nice addition.  Would like to know how you came to know MOB appeared? Did you randomly stumble across it or does a world echo announce it's arrival? :roll:
+This is a nice addition. Would like to know how you came to know MOB appeared? Did you randomly stumble across it or does a world echo announce it's arrival? <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="14742" data-author="Autolycos" data-date="2006-10-24T14:32:40+00:00" data-subject="">
 
-Great job Atwell!!   :twisted:
+Great job Atwell!! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

@@ -16,9 +16,9 @@ As well as "wear all"/"remove all" which everyone is familiar with there is a ty
 
 e.g.
 
-> remove shiny-helm long-sword big-shield black-ring
+\> remove shiny-helm long-sword big-shield black-ring
 
-> wear dunces-cap wooden-baton verdent-buckler vermillion-ring
+\> wear dunces-cap wooden-baton verdent-buckler vermillion-ring
 
 The gag eq change is also applied to this method.
 

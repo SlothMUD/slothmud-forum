@@ -102,7 +102,7 @@ gaunts sold to monty
 
 <div class="post" data-post-id="570" data-author="ZippySloth" data-date="2004-06-08T06:19:02+00:00" data-subject="">
 
-<P>100k Zippy!! :)</P>
+\<P\>100k Zippy!! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">\</P\>
 
 </div>
 

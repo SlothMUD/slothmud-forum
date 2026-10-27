@@ -16,7 +16,7 @@ Good day,
 
 Found myself a golden sack full of goodness and gear and books and many other things.
 
-Find me ingame if you miss it ;)
+Find me ingame if you miss it <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 Regards,
 

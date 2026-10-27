@@ -12,9 +12,9 @@ post_count: 2
 
 <div class="post" data-post-id="23355" data-author="firebrand" data-date="2008-03-22T00:00:12+00:00" data-subject="looking for missing eq">
 
-i lent a weapon to a friend a while back and have not seen them log in in a while.  if you have my daystar clarion or know who/char does have it, please mudmail me.
+i lent a weapon to a friend a while back and have not seen them log in in a while. if you have my daystar clarion or know who/char does have it, please mudmail me.
 
-"sorry larkin, but there's only two men i trust.  one of them's me.  the other one's not you" -- cameron poe --> con air
+"sorry larkin, but there's only two men i trust. one of them's me. the other one's not you" -- cameron poe --\> con air
 
 </div>
 

@@ -20,7 +20,7 @@ Thanks alot,
 
 <div class="post" data-post-id="17624" data-author="slobe" data-date="2007-03-31T09:13:19+00:00" data-subject="">
 
-Hey yinao not only the most fun but you forgot to say you also got the best eq you ever got in game too from that quest along with me :) thanks blaster
+Hey yinao not only the most fun but you forgot to say you also got the best eq you ever got in game too from that quest along with me <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> thanks blaster
 
 </div>
 
@@ -38,19 +38,19 @@ you gotta lead yinao by the hand to do things right..
 
 got the levels but none of the smarts..
 
-damn av noobs! :evil:
+damn av noobs! <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="17646" data-author="Yinao" data-date="2007-03-31T18:51:26+00:00" data-subject="">
 
-:twisted: *cackle* Ya ya Auto and his new rants. Anyways I dont know if it was the best eq but its pretty cool.
+<img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> \*cackle\* Ya ya Auto and his new rants. Anyways I dont know if it was the best eq but its pretty cool.
 
 You recite an identify scroll which dissolves.
 
 You feel informed:
 
-Object 'bracelet pain quest low given_out', Item type: ARMOR
+Object 'bracelet pain quest low given\_out', Item type: ARMOR
 
 Item is: GLOW
 
@@ -60,9 +60,9 @@ AC-apply is -0.4
 
 Can affect you as:
 
-    Affects: WEAPON_DAMAGE by 7
+ Affects: WEAPON\_DAMAGE by 7
 
-    Affects: SAVING_BREATH by -2
+ Affects: SAVING\_BREATH by -2
 
 </div>
 
@@ -76,6 +76,6 @@ dont bullshit
 
 <div class="post" data-post-id="17652" data-author="Yinao" data-date="2007-03-31T20:51:29+00:00" data-subject="">
 
-Oh, right I remember the part where I said 'this is the best eq handed out' oh wait no I dont nevermind. :evil:
+Oh, right I remember the part where I said 'this is the best eq handed out' oh wait no I dont nevermind. <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>

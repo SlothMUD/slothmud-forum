@@ -18,10 +18,10 @@ The Quest will be Sunday March 20th at 2pm Pacific (5pm Eastern)
 
 timer link is below:
 
-[<LINK_TEXT text="https://www.tickcounter.com/countdown/3 ... -day-quest">https://www.tickcounter.com/countdown/3132014/2022-slothmud-saint-patricks-day-quest</LINK_TEXT>](https://www.tickcounter.com/countdown/3132014/2022-slothmud-saint-patricks-day-quest)
+[https://www.tickcounter.com/countdown/3132014/2022-slothmud-saint-patricks-day-quest](https://www.tickcounter.com/countdown/3132014/2022-slothmud-saint-patricks-day-quest)
 
 See you all there
 
---D
+\--D
 
 </div>

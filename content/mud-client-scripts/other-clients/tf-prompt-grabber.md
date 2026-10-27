@@ -14,9 +14,9 @@ post_count: 1
 
 Someone asked for this on the newbie channel, here it is.
 
-For whatever reason the prompt hook in tf doesnt always trigger regardless if lp is set or whether the prompt ends with a newline.  What does work is just treating the prompt as a trigger, gagging and processing it that way.  In sloth i have my prompt set as 'PROMPT $h/$H $m/$M $v/$V$nPROMPT $g $x $a $I $D $c $Z', splitting the prompt in 2 lines and prefixing each line with 'PROMPT'.
+For whatever reason the prompt hook in tf doesnt always trigger regardless if lp is set or whether the prompt ends with a newline. What does work is just treating the prompt as a trigger, gagging and processing it that way. In sloth i have my prompt set as 'PROMPT $h/$H $m/$M $v/$V$nPROMPT $g $x $a $I $D $c $Z', splitting the prompt in 2 lines and prefixing each line with 'PROMPT'.
 
-This code will gag the prompt, setup 3 status lines (actually 4, keeping the top one blank to keep a space between status bar and mud output).  Hp/ma/mv variables are colorized, auto reporting from you or others is also gagged, to ungag just remove the '-ag' from the trigger definitions.
+This code will gag the prompt, setup 3 status lines (actually 4, keeping the top one blank to keep a space between status bar and mud output). Hp/ma/mv variables are colorized, auto reporting from you or others is also gagged, to ungag just remove the '-ag' from the trigger definitions.
 
 ```
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -39,40 +39,40 @@ This code will gag the prompt, setup 3 status lines (actually 4, keeping the top
 ; multiply vars by 1.0 to force floating point division
 /def updatestatus = \
 	/if (({chp} * 1.0) / {mhp} <= .33) \
-		/test hpstat := decode_attr("@{Cbrightred}%chp@{Cgray}/@{Cbrightred}%mhp@{Cgray}hp") %; \
+ /test hpstat := decode_attr("@{Cbrightred}%chp@{Cgray}/@{Cbrightred}%mhp@{Cgray}hp") %; \
 	/endif %; \
 	/if (({cma} * 1.0) / {mma} <= .33) \
-		/test mastat := decode_attr("@{Cbrightred}%cma@{Cgray}/@{Cbrightred}%mma@{Cgray}ma") %; \
+ /test mastat := decode_attr("@{Cbrightred}%cma@{Cgray}/@{Cbrightred}%mma@{Cgray}ma") %; \
 	/endif %; \
 	/if (({cmv} * 1.0) / {mmv} <= .33) \
-		/test mvstat := decode_attr("@{Cbrightred}%cmv@{Cgray}/@{Cbrightred}%mmv@{Cgray}mv") %; \
+ /test mvstat := decode_attr("@{Cbrightred}%cmv@{Cgray}/@{Cbrightred}%mmv@{Cgray}mv") %; \
 	/endif %; \
 	/if (({chp} * 1.0) / {mhp} > .33) \
-		/test hpstat := decode_attr("@{Cbrightyellow}%chp@{Cgray}/@{Cbrightyellow}%mhp@{Cgray}hp") %; \
+ /test hpstat := decode_attr("@{Cbrightyellow}%chp@{Cgray}/@{Cbrightyellow}%mhp@{Cgray}hp") %; \
 	/endif %; \
 	/if (({cma} * 1.0) / {mma} > .33) \
-		/test mastat := decode_attr("@{Cbrightyellow}%cma@{Cgray}/@{Cbrightyellow}%mma@{Cgray}ma") %; \
+ /test mastat := decode_attr("@{Cbrightyellow}%cma@{Cgray}/@{Cbrightyellow}%mma@{Cgray}ma") %; \
 	/endif %; \
 	/if (({cmv} * 1.0) / {mmv} > .33) \
-		/test mvstat := decode_attr("@{Cbrightyellow}%cmv@{Cgray}/@{Cbrightyellow}%mmv@{Cgray}mv") %; \
+ /test mvstat := decode_attr("@{Cbrightyellow}%cmv@{Cgray}/@{Cbrightyellow}%mmv@{Cgray}mv") %; \
 	/endif %; \
 	/if (({chp} * 1.0) / {mhp} > .66) \
-		/test hpstat := decode_attr("@{Cbrightgreen}%chp@{Cgray}/@{Cbrightgreen}%mhp@{Cgray}hp") %; \
+ /test hpstat := decode_attr("@{Cbrightgreen}%chp@{Cgray}/@{Cbrightgreen}%mhp@{Cgray}hp") %; \
 	/endif %; \
 	/if (({cma} * 1.0) / {mma} > .66) \
-		/test mastat := decode_attr("@{Cbrightgreen}%cma@{Cgray}/@{Cbrightgreen}%mma@{Cgray}ma") %; \
+ /test mastat := decode_attr("@{Cbrightgreen}%cma@{Cgray}/@{Cbrightgreen}%mma@{Cgray}ma") %; \
 	/endif %; \
 	/if (({cmv} * 1.0) / {mmv} > .66) \
-		/test mvstat := decode_attr("@{Cbrightgreen}%cmv@{Cgray}/@{Cbrightgreen}%mmv@{Cgray}mv") %; \
+ /test mvstat := decode_attr("@{Cbrightgreen}%cmv@{Cgray}/@{Cbrightgreen}%mmv@{Cgray}mv") %; \
 	/endif %; \
 	/if (({tchp} * 1.0) / {tmhp} <= .33) \
-		/test tstat := decode_attr("@{Cgray}Leader: @{Cbrightgreen}%leader @{Cgray}Tank: @{Cbrightred}%tank @{Cbrightred}%tchp@{Cgray}/@{Cbrightred}%tmhp @{Cbrightgreen}%tspells@{Cgray} Target: @{Cbrightgreen}%target") %; \
+ /test tstat := decode_attr("@{Cgray}Leader: @{Cbrightgreen}%leader @{Cgray}Tank: @{Cbrightred}%tank @{Cbrightred}%tchp@{Cgray}/@{Cbrightred}%tmhp @{Cbrightgreen}%tspells@{Cgray} Target: @{Cbrightgreen}%target") %; \
 	/endif %; \
 	/if (({tchp} * 1.0) / {tmhp} > .33) \
-		/test tstat := decode_attr("@{Cgray}Leader: @{Cbrightgreen}%leader @{Cgray}Tank: @{Cbrightyellow}%tank @{Cbrightyellow}%tchp@{Cgray}/@{Cbrightyellow}%tmhp @{Cbrightgreen}%tspells@{Cgray} Target: @{Cbrightgreen}%target") %; \
+ /test tstat := decode_attr("@{Cgray}Leader: @{Cbrightgreen}%leader @{Cgray}Tank: @{Cbrightyellow}%tank @{Cbrightyellow}%tchp@{Cgray}/@{Cbrightyellow}%tmhp @{Cbrightgreen}%tspells@{Cgray} Target: @{Cbrightgreen}%target") %; \
 	/endif %; \
 	/if (({tchp} * 1.0) / {tmhp} > .66) \
-		/test tstat := decode_attr("@{Cgray}Leader: @{Cbrightgreen}%leader @{Cgray}Tank: @{Cbrightgreen}%tank @{Cbrightgreen}%tchp@{Cgray}/@{Cbrightgreen}%tmhp @{Cbrightgreen}%tspells@{Cgray} Target: @{Cbrightgreen}%target") %; \
+ /test tstat := decode_attr("@{Cgray}Leader: @{Cbrightgreen}%leader @{Cgray}Tank: @{Cbrightgreen}%tank @{Cbrightgreen}%tchp@{Cgray}/@{Cbrightgreen}%tmhp @{Cbrightgreen}%tspells@{Cgray} Target: @{Cbrightgreen}%target") %; \
 	/endif %; \
 	/test exitstr := decode_attr("@{Cbrightgreen}%exits") %; \
 	/set statgroupleft %tstat %; \
@@ -100,7 +100,7 @@ This code will gag the prompt, setup 3 status lines (actually 4, keeping the top
 	/updatestatus
 
 ; for lowbies who cant see ac or hit/dam
-/def -ag -mregexp -t"^PROMPT (\d+) (\d+)    (\S+) (.+)" = \
+/def -ag -mregexp -t"^PROMPT (\d+) (\d+) (\S+) (.+)" = \
 	/test gold := decode_attr("@{Cbrightgreen}%P1@{Cgray}g") %; \
 	/test exp := decode_attr("@{Cbrightgreen}%P2@{Cgray}x") %; \
 	/test ac := decode_attr("@{Cbrightgreen}0@{Cgray}ac") %; \
@@ -120,7 +120,7 @@ This code will gag the prompt, setup 3 status lines (actually 4, keeping the top
 	/test mmv := strip_attr("%P6") %; \
 	/updatestatus
 
-/def -mregexp -t"^Exits: (.+)  " = \
+/def -mregexp -t"^Exits: (.+) " = \
 	/set exits %P1 %; \
 	/updatestatus
 

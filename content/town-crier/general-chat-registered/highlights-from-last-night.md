@@ -18,15 +18,15 @@ As with the last few grenade groups... there is no available thieves when they h
 
 We ran Hades, Castle, MH, Dmount, UD2, Fiends, Dweb and Citadel, Ettins, Posi, Neg...
 
-The original 20mins offered ended up being 1.5hrs, and got more chaotic the further we got into it... including  fighting 4 iblis and 1 bronto at the same time... 
+The original 20mins offered ended up being 1.5hrs, and got more chaotic the further we got into it... including fighting 4 iblis and 1 bronto at the same time... 
 
-Thanks Breeze for the fun... so, umm, when does your wife have the next parent teacher night... ;)
+Thanks Breeze for the fun... so, umm, when does your wife have the next parent teacher night... <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 Grouped counters elapsed time: 1 hour, 31 minutes, 3 seconds (active)
 
 Total Earned Per Hour Minute Second Per Kill
 
------------- -------- ------ ------ --------
+\------------ -------- ------ ------ --------
 
 Kills 197 129.8 2.2 0.0
 
@@ -36,13 +36,13 @@ Gold Coins 2920995 1.9M 32.1k 534.7 14.8k
 
 Honor Points 10008 6.6k 109.9 1.8 50.8
 
---------------------------------------------------------------------
+\--------------------------------------------------------------------
 
 Iblis arrives from a puff of smoke.
 
 You grouptell: 'target guard'
 
-<1309hp 515ma 400mv 5074450030xp -12.2ac -%>
+\<1309hp 515ma 400mv 5074450030xp -12.2ac -%\>
 
 Breeze has forced you to 'kick iblis'.
 
@@ -50,7 +50,7 @@ Iblis hates your guts!
 
 Your beautiful full-circle-kick misses Iblis by a mile.
 
-<1309hp 515ma 400mv 5074450030xp -12.2ac 100%>
+\<1309hp 515ma 400mv 5074450030xp -12.2ac 100%\>
 
 You brutally massacre Iblis with your slash.
 
@@ -76,9 +76,9 @@ You massacre Iblis to small fragments with your slash.
 
 You report 385/1426 hp. Change: -921. Need: 1041. Spells: aegis, greater fluidity.
 
---------------------
+\--------------------
 
-<1426hp 520ma 393mv 5799360655xp -12.2ac 99%>
+\<1426hp 520ma 393mv 5799360655xp -12.2ac 99%\>
 
 The silk webbing simply falls to the ground, as Iblis is already webbed!
 
@@ -126,43 +126,43 @@ You wish that your wounds would stop BLEEDING that much!
 
 You have been KILLED!! 
 
-----------------------
+\----------------------
 
-<1054hp 520ma 408mv 5859739411xp -12.2ac 84%>
+\<1054hp 520ma 408mv 5859739411xp -12.2ac 84%\>
 
 Breeze utters the words, 'yufzxuie'
 
 You grouptell: 'target bront'
 
-<1054hp 520ma 408mv 5859739411xp -12.2ac 84%>
+\<1054hp 520ma 408mv 5859739411xp -12.2ac 84%\>
 
 Breeze utters the words, 'yufzxuie'
 
 No way! You are fighting for your life!
 
-<1057hp 520ma 408mv 5859739411xp -12.2ac 84%>
+\<1057hp 520ma 408mv 5859739411xp -12.2ac 84%\>
 
 Breeze utters the words, 'yufzxuie'
 
-<1057hp 520ma 408mv 5859739411xp -12.2ac 84%>
+\<1057hp 520ma 408mv 5859739411xp -12.2ac 84%\>
 
 Breeze utters the words, 'yufzxuie'
 
-<1057hp 520ma 408mv 5859739411xp -12.2ac 84%>
+\<1057hp 520ma 408mv 5859739411xp -12.2ac 84%\>
 
 Breeze utters the words, 'yufzxuie'
 
-<1057hp 520ma 408mv 5859739411xp -12.2ac 84%>
+\<1057hp 520ma 408mv 5859739411xp -12.2ac 84%\>
 
 Breeze utters the words, 'yufzxuie'
 
-<1060hp 520ma 408mv 5859739411xp -12.2ac 84%>
+\<1060hp 520ma 408mv 5859739411xp -12.2ac 84%\>
 
 Breeze utters the words, 'yufzxuie'
 
 Need to work on your spell saves Breeze!
 
--------------------------
+\-------------------------
 
 The silk webbing simply falls to the ground, as the Brontosaurus is already webbed!
 
@@ -188,23 +188,23 @@ Zuzu receives 43006284 experience points.
 
 Total exp for kill is 319811061.
 
---------------------------
+\--------------------------
 
 A Stone Hut
 
-   This hut is extremely odd in design; the walls curving to the shape of a 
+ This hut is extremely odd in design; the walls curving to the shape of a 
 
 kidney bean, with the outer door in the center of the long convex side of 
 
-the "bean".  To the far left stand the standard stone slab for sleeping and 
+the "bean". To the far left stand the standard stone slab for sleeping and 
 
-stone table for eating.  Several large musical instruments of various 
+stone table for eating. Several large musical instruments of various 
 
 designs and sizes ranging from a bone flute to a mandolin sit in the far 
 
 right of the hut.
 
-Exits: [North]  
+Exits: [North] 
 
 The corpse of the Brontosaurus is lying here.
 
@@ -216,11 +216,11 @@ The corpse of Iblis is lying here.
 
 The corpse of Iblis is lying here.
 
-A stone jar sits in the corner.  It's encrusted in dried goo.
+A stone jar sits in the corner. It's encrusted in dried goo.
 
 A cracked stone jar has rolled into a corner and been forgotten.
 
-(Reborn) Suna ~Dragonsworn~ is standing here. (Brilliant Blue Aura)
+(Reborn) Suna \~Dragonsworn\~ is standing here. (Brilliant Blue Aura)
 
 Suna has a steady green aura.
 
@@ -246,35 +246,29 @@ Shadia . is standing here. (Brilliant Blue Aura)
 
 You report 1232/1426 hp. Change: +412. Need: 194. Spells: greater fluidity.
 
--------------------------
+\-------------------------
 
 Breeze -- 'gem popped'
 
-<1426hp 403ma 408mv 5957713069xp -12.2ac -%>
+\<1426hp 403ma 408mv 5957713069xp -12.2ac -%\>
 
 spin wheel
 
- 
-
 You spin the wheel of opportunity.
 
- 
+For Gorka the wheel of opportunity spins 77.
 
-For      Gorka the wheel of opportunity spins  77.
+For Suna the wheel of opportunity spins 293.
 
-For       Suna the wheel of opportunity spins 293.
+For Shadia the wheel of opportunity spins 308.
 
-For     Shadia the wheel of opportunity spins 308.
+For Breeze the wheel of opportunity spins 400.
 
-For     Breeze the wheel of opportunity spins 400.
+For Feist the wheel of opportunity spins 381.
 
-For      Feist the wheel of opportunity spins 381.
+For Cyprimus the wheel of opportunity spins 205.
 
-For   Cyprimus the wheel of opportunity spins 205.
-
-For       Zuzu the wheel of opportunity spins 339.
-
- 
+For Zuzu the wheel of opportunity spins 339.
 
 The winner is Breeze with 400.
 
@@ -284,11 +278,11 @@ Zuzu -- 'AEGIS down'
 
 Breeze -- 'reroll'
 
-<1426hp 410ma 408mv 5957713069xp -12.2ac -%>
+\<1426hp 410ma 408mv 5957713069xp -12.2ac -%\>
 
 You grouptell: 'gratz breeze'
 
---------------------------
+\--------------------------
 
 The silk webbing simply falls to the ground, as Mrs. Satan Claw is already webbed!
 
@@ -318,7 +312,7 @@ Zuzu receives 13607006 experience points.
 
 Total exp for kill is 101272207.
 
---------------------------
+\--------------------------
 
 The silk webbing simply falls to the ground, as Satan Claw is already webbed!
 
@@ -370,17 +364,17 @@ Zuzu receives 79602832 experience points.
 
 Total exp for kill is 592456157.
 
--------------
+\-------------
 
 MOB : Satan claw claws	LVL : 41	AREA : Negative Energy Plane	XP : 592456157
 
--------------
+\-------------
 
 recast
 
 Spells Dropping!
 
-gt Time On Lite:  0:19
+gt Time On Lite: 0:19
 
 Your blood freezes as you hear Satan Claw's death cry.
 
@@ -388,7 +382,7 @@ Cyprimus gets a blood-stained golden key from the corpse of Satan Claw that's on
 
 Cyprimus gets gold coins from the corpse of Satan Claw that's on the ground.
 
-Cyprimus splits 148331 coins.  Your share is 24721 coins.
+Cyprimus splits 148331 coins. Your share is 24721 coins.
 
 Cyprimus gets a metamorphic tri-capricite gemstone from the corpse of Satan Claw that's on the ground.
 
@@ -396,7 +390,7 @@ Cyprimus nods solemnly.
 
 You report 1034/1426 hp. Change: -325. Need: 392. Spells: aegis, greater fluidity.
 
-<1034hp 117ma 408mv 6619515674xp -12.2ac -%>
+\<1034hp 117ma 408mv 6619515674xp -12.2ac -%\>
 
 db
 
@@ -414,7 +408,7 @@ The cleansing fires of healing fill your body!
 
 You report 1317/1426 hp. Change: +283. Need: 109. Spells: greater fluidity, aegis.
 
-<1317hp 56ma 393mv 6619515674xp -12.2ac -%>
+\<1317hp 56ma 393mv 6619515674xp -12.2ac -%\>
 
 Zuzu utters the words, 'pzar'
 
@@ -422,15 +416,15 @@ A warm feeling fills your body.
 
 You report 1426/1426 hp. Change: +109. Need: 0. Spells: greater fluidity, aegis.
 
-<1426hp 57ma 394mv 6619515674xp -12.2ac -%>
+\<1426hp 57ma 394mv 6619515674xp -12.2ac -%\>
 
 But nobody is fighting him?
 
-<1426hp 59ma 397mv 6619515674xp -12.2ac -%>
+\<1426hp 59ma 397mv 6619515674xp -12.2ac -%\>
 
-You grouptell: 'Time On Lite:  0:19'
+You grouptell: 'Time On Lite: 0:19'
 
-<1426hp 59ma 397mv 6619515674xp -12.2ac -%>
+\<1426hp 59ma 397mv 6619515674xp -12.2ac -%\>
 
 A metamorphic tri-capricite gemstone falls apart in Cyprimus's hands!
 

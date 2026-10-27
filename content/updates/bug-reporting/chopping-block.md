@@ -14,7 +14,7 @@ post_count: 1
 
 If you submit a bid putting you on top, and later decide to raise that bid, you end up pushing the price up, and sometimes leaving no name as the winner of the auction.
 
-Bamboo Shin Guards 900000 3030005  Closed Ezekiel 
+Bamboo Shin Guards 900000 3030005 Closed Ezekiel 
 
 Auction Bid History
 
@@ -30,8 +30,6 @@ Volnaib 909000 2005-03-30 22:16:27
 
 Malison 900000 2005-03-29 09:37:57 
 
- 
-
-I put in both the final bids, and it raised my bid by 500k beyond what I would have needed without the second submission.  In this case, when Ezekiel goes to look up his auction, it will tell him that (nobody) won his auction, seeing no name under "High Bidder."
+I put in both the final bids, and it raised my bid by 500k beyond what I would have needed without the second submission. In this case, when Ezekiel goes to look up his auction, it will tell him that (nobody) won his auction, seeing no name under "High Bidder."
 
 </div>

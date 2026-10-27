@@ -14,7 +14,7 @@ post_count: 1
 
 Hi all ... 
 
-Added a new set of parameters to the spells command. spells <strata-name> shows all spells that belong to that strata, ordered by class/level.  
+Added a new set of parameters to the spells command. spells \<strata-name\> shows all spells that belong to that strata, ordered by class/level. 
 
 Changes in next reboot.
 

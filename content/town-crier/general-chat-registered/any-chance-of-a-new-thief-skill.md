@@ -12,7 +12,7 @@ post_count: 4
 
 <div class="post" data-post-id="32391" data-author="Tigris" data-date="2011-01-28T21:38:12+00:00" data-subject="Any chance of a new Thief skill??">
 
-Anyone that has ever played a thief knows how it is when a mob in a particular area you are running hates you and anyone that has grouped with a thief knows we aren't built for standing there trading punches.  It usually looks like something like Tigris is Dead!!! Was curious what people thought about a skill such as the Presage skill that monks have.  Could be something like "Disguise" which would cause a mob not to remember the thief character for a short period. Also, the idea of "Frontstab" was mentioned to me which would be similar to backstab except the thief would take damage at the same time.
+Anyone that has ever played a thief knows how it is when a mob in a particular area you are running hates you and anyone that has grouped with a thief knows we aren't built for standing there trading punches. It usually looks like something like Tigris is Dead!!! Was curious what people thought about a skill such as the Presage skill that monks have. Could be something like "Disguise" which would cause a mob not to remember the thief character for a short period. Also, the idea of "Frontstab" was mentioned to me which would be similar to backstab except the thief would take damage at the same time.
 
 Anyways, just a thought. Curious about ideas that others might have on the subject.
 
@@ -22,9 +22,9 @@ Anyways, just a thought. Curious about ideas that others might have on the subje
 
 any class can take blows, you just choose to set up your character in such a way that makes him/her crunchy.
 
-if a mob hates you, you can't possibly expect to kill it the same way that you usually do?  or are u trying to get past it?   it would defeat the purpose of making presage monk-prime only, if the imms would now give thieves a skill that does similar.
+if a mob hates you, you can't possibly expect to kill it the same way that you usually do? or are u trying to get past it? it would defeat the purpose of making presage monk-prime only, if the imms would now give thieves a skill that does similar.
 
-I don't understand what a "frontstab" skill would do?  Stab the mob while you're fighting it?  there's already a skill called circlestab.
+I don't understand what a "frontstab" skill would do? Stab the mob while you're fighting it? there's already a skill called circlestab.
 
 </div>
 

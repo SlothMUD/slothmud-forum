@@ -20,7 +20,7 @@ Ok.
 
 You feel informed:
 
-Object 'fragment magic magical suppression matter *Gorka*', Item type: TREASURE
+Object 'fragment magic magical suppression matter \*Gorka\*', Item type: TREASURE
 
 Item is: GLOW PERSONAL RESTRUNG UNAPPROVED NO-FIND 
 
@@ -42,11 +42,11 @@ AC-apply is -0.8
 
 Can affect you as:
 
-    Affects: RESIST_FIRE by 15
+ Affects: RESIST\_FIRE by 15
 
-    Affects: RESIST_COLD by 15
+ Affects: RESIST\_COLD by 15
 
-    Affects: RESIST_ELECTRICITY by 15
+ Affects: RESIST\_ELECTRICITY by 15
 
 Only those who are at least supreme magic users, clerics, druids, or
 
@@ -68,11 +68,11 @@ Weight: 5, Value: 300000gold, Worn in: TAKE HOLD
 
 Can affect you as:
 
-    Affects: HITROLL by 1
+ Affects: HITROLL by 1
 
-    Affects: HITPOINT by 12
+ Affects: HITPOINT by 12
 
-    Affects: ARMOR by -5
+ Affects: ARMOR by -5
 
 Only those who have attained supremacy in at least six classes may use this
 
@@ -94,9 +94,9 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: REGEN_MANA by 2
+ Affects: REGEN\_MANA by 2
 
-    Affects: WATER_BREATHING by 1
+ Affects: WATER\_BREATHING by 1
 
 Only those who are at least supreme magic users and clerics may use this
 
@@ -118,11 +118,11 @@ AC-apply is -0.3
 
 Can affect you as:
 
-    Affects: HITPOINT by 10
+ Affects: HITPOINT by 10
 
-    Affects: REDUCE_DAMAGE by 1
+ Affects: REDUCE\_DAMAGE by 1
 
-    Affects: WIS by -1
+ Affects: WIS by -1
 
 Only those who are at least supreme warriors and also novice avatars, and
 
@@ -144,9 +144,9 @@ Damage Dice is '3D4'
 
 Can affect you as:
 
-    Affects: STALK by 1
+ Affects: STALK by 1
 
-    Affects: RESIST_POISON by 10
+ Affects: RESIST\_POISON by 10
 
 Only those who are at least novice avatars and also supreme monks may use
 
@@ -166,11 +166,11 @@ Weight: 5, Value: 200000gold, Worn in: TAKE HOLD
 
 Can affect you as:
 
-    Affects: HITROLL by 1
+ Affects: HITROLL by 1
 
-    Affects: HITPOINT by 5
+ Affects: HITPOINT by 5
 
-    Affects: ARMOR by -5
+ Affects: ARMOR by -5
 
 Only those who have attained supremacy in at least five classes may use
 
@@ -192,11 +192,11 @@ AC-apply is -0.3
 
 Can affect you as:
 
-    Affects: HITPOINT by 10
+ Affects: HITPOINT by 10
 
-    Affects: REDUCE_DAMAGE by 1
+ Affects: REDUCE\_DAMAGE by 1
 
-    Affects: INT by -1
+ Affects: INT by -1
 
 Only those who are at least supreme warriors and also novice avatars, and
 
@@ -210,7 +210,7 @@ Ok.
 
 You feel informed:
 
-Object 'living aura infernal fire *Gorka*', Item type: CLASP
+Object 'living aura infernal fire \*Gorka\*', Item type: CLASP
 
 Item is: GLOW HUM PERSONAL MAGIC RESTRUNG 
 
@@ -218,19 +218,19 @@ Weight: 1, Value: 50drachma, Worn in: TAKE BODY
 
 Clasp can only be attached to:
 
-   Platemail of the Planes
+ Platemail of the Planes
 
-   a shirt of mithril rings
+ a shirt of mithril rings
 
-   Plate of Yazanixular's Brood
+ Plate of Yazanixular's Brood
 
-   scintillating silken armor
+ scintillating silken armor
 
 Clasp is non-removable once attached.
 
-Clasp gives the user +10 RESIST_FIRE
+Clasp gives the user +10 RESIST\_FIRE
 
-Clasp gives the user +1 REDUCE_DAMAGE
+Clasp gives the user +1 REDUCE\_DAMAGE
 
 Clasp gives the user +5 HITPOINT
 

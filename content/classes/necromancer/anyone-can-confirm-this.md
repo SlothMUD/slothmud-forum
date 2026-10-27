@@ -12,7 +12,7 @@ post_count: 2
 
 <div class="post" data-post-id="8592" data-author="Taki" data-date="2005-09-10T09:51:31+00:00" data-subject="anyone can confirm this?">
 
-I had my (small) juju quaff an orange potion and it seemed that  it worked (+str by more frequent massacres).
+I had my (small) juju quaff an orange potion and it seemed that it worked (+str by more frequent massacres).
 
 Anyone tested this or similar effects?
 

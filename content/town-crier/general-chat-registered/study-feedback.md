@@ -12,7 +12,7 @@ post_count: 7
 
 <div class="post" data-post-id="13420" data-author="kjartan" data-date="2006-07-10T16:59:58+00:00" data-subject="Study feedback">
 
-I recently added a thief skill called "study" that was intended to make exploring easier, as it lets you tell something about a mob without actually getting into melee with it and getting killed.  I've heard that some people have the skill now; any feedback?  Is it useful in the function of making exploration safer?  I am open to suggestions for other things to do to aid exploring.
+I recently added a thief skill called "study" that was intended to make exploring easier, as it lets you tell something about a mob without actually getting into melee with it and getting killed. I've heard that some people have the skill now; any feedback? Is it useful in the function of making exploration safer? I am open to suggestions for other things to do to aid exploring.
 
 </div>
 
@@ -36,7 +36,7 @@ You think a demoralized trooper noticed your attention!
 
 A demoralized trooper looks angry... maybe you'd better lay off.
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -48,7 +48,7 @@ I've only tried on a couple of small mobs so far and got attacked both times heh
 
 <div class="post" data-post-id="13424" data-author="kjartan" data-date="2006-07-10T18:27:26+00:00" data-subject="">
 
-You can also combine it with hide.  I think you really shouldn't be getting attacked very often if you hide then study, maybe 1 in 6 or 1 in 8.  Unlike other commands, study shouldn't end your hide.  
+You can also combine it with hide. I think you really shouldn't be getting attacked very often if you hide then study, maybe 1 in 6 or 1 in 8. Unlike other commands, study shouldn't end your hide. 
 
 (Doing it while invis you won't ever get attacked, unless the mob can see invis.)
 
@@ -76,7 +76,7 @@ Cause some mobs hit like a train, but have nice exp and some doesnt worth to be 
 
 <div class="post" data-post-id="13441" data-author="Clink" data-date="2006-07-11T16:50:22+00:00" data-subject="">
 
-It is an honor for every mob on the mud to die for you.  :P 
+It is an honor for every mob on the mud to die for you. <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom"> 
 
 Cheers,
 

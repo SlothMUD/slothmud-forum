@@ -30,6 +30,6 @@ will pay well for any of these, see me online, or post a reply here.
 
 <div class="post" data-post-id="2836" data-author="madmax" data-date="2004-11-15T12:20:25+00:00" data-subject="">
 
-I would like to find a couple of them too.  BTW, why were thry taken out of the game?
+I would like to find a couple of them too. BTW, why were thry taken out of the game?
 
 </div>

@@ -18,7 +18,7 @@ list them here
 
 <div class="post" data-post-id="10662" data-author="Weasel" data-date="2006-02-11T18:06:50+00:00" data-subject="">
 
-Name of quest: new_items
+Name of quest: new\_items
 
 Starting creature: The Smith (Aisholm Town)
 
@@ -42,29 +42,29 @@ Reward: 10 drachma, 15k gold, 25k exp
 
 <div class="post" data-post-id="14330" data-author="Icefyre" data-date="2006-09-27T16:44:25+00:00" data-subject="AH quests">
 
-Quest name:  various
+Quest name: various
 
-Starting creature(s):  wives in zodiac
+Starting creature(s): wives in zodiac
 
-Reward:  drachma
+Reward: drachma
 
-Quest name:  one_so_bold
+Quest name: one\_so\_bold
 
-Starting creature:  Immigration Officer
+Starting creature: Immigration Officer
 
-Reward:  5 drachma, gold?  for first part  
+Reward: 5 drachma, gold? for first part 
 
-quest name:  
+quest name: 
 
-Starting creature:  thief in AH town  (not Five Hands)
+Starting creature: thief in AH town (not Five Hands)
 
-Reward:  thief prime quest  --  sleeves
+Reward: thief prime quest -- sleeves
 
-quest name:  
+quest name: 
 
-Starting creature:  shaman
+Starting creature: shaman
 
-Reward:  mage prime quest?
+Reward: mage prime quest?
 
 </div>
 
@@ -80,15 +80,15 @@ Chuckle.
 
 These posts have been here since Pre-Feb in the autoquest section of 
 
-the crier.  They are all divided by continent.
+the crier. They are all divided by continent.
 
 </div>
 
 <div class="post" data-post-id="14334" data-author="Leaf" data-date="2006-09-27T21:00:16+00:00" data-subject="">
 
-Dude Diazz, this post should have been removed.  Cause immorts even
+Dude Diazz, this post should have been removed. Cause immorts even
 
-said they can remove the quests if they are made public.  Hence ppl cant
+said they can remove the quests if they are made public. Hence ppl cant
 
 gossip about them...
 
@@ -100,7 +100,7 @@ dude will,
 
 if u have no clue what's going on, shut your trap.
 
-Splork started these posts, and encouraged people to keep it updated.  All you can post are what mobs started it, and reward, and a brief description (no help tho) of the quest.
+Splork started these posts, and encouraged people to keep it updated. All you can post are what mobs started it, and reward, and a brief description (no help tho) of the quest.
 
 </div>
 
@@ -110,7 +110,7 @@ Al stfu and get a life :p
 
 Next thing u know ppl well post more info and ask more details and BAM!
 
-Bye Bye autoquest.  Pretty sure AA thinks the same, considering his post of
+Bye Bye autoquest. Pretty sure AA thinks the same, considering his post of
 
 WTF r u thinking?!
 
@@ -128,13 +128,13 @@ Splork
 
 <div class="post" data-post-id="14338" data-author="Icefyre" data-date="2006-09-27T22:25:34+00:00" data-subject="">
 
-Thanks Splork.  For now, I'll be surprised if anyone else adds to this list.  They have been here since Feb and obviously as a mud we just love to share what we know, but usually only with our own peeps.
+Thanks Splork. For now, I'll be surprised if anyone else adds to this list. They have been here since Feb and obviously as a mud we just love to share what we know, but usually only with our own peeps.
 
 So, thanks Weasel for starting the list.
 
  Must say it's fun to get a rise out of AA.
 
---Out--
+\--Out--
 
 </div>
 
@@ -174,11 +174,12 @@ Reward: ???
 
 <div class="post" data-post-id="14559" data-author="Bazilus" data-date="2006-10-06T09:47:13+00:00" data-subject="">
 
-Quest name: respect (must complete 'peace' first, no idea where to start that one)
-
-Starting creature: Lormodriel the meditative
-
-Reward: ???[/quote:3cn0p7rp]
+> <strong>Absu wrote:</strong>
+> Quest name: respect (must complete 'peace' first, no idea where to start that one)
+> 
+> Starting creature: Lormodriel the meditative
+> 
+> Reward: ???
 
 Its start at BH Scribe, name auto - scrolls
 

@@ -16,7 +16,7 @@ there are way too many outside rooms that you can't lodge your devaks into is th
 
 for instance i am in fairy forest killing sidhes and tried to lodge in forest floor and it told me i couldn't because not enough of mother natures presence.
 
-A FOREST FLOOR how more outdoors with mothers nature can you get.  I am not asking that i be able to lodge in a building just that it be opened up to any outdoors room.  Thankyou for looking into and or at least listening to what i have to say
+A FOREST FLOOR how more outdoors with mothers nature can you get. I am not asking that i be able to lodge in a building just that it be opened up to any outdoors room. Thankyou for looking into and or at least listening to what i have to say
 
 HUGS
 
@@ -28,13 +28,13 @@ shyla
 
 I wonder if it has something to do with outside rooms, where you can't create a freshspring.
 
-I can forgive that in a vault, where I might be supposed to have a fountain or a fish hole, but in the area, where the next room is "freshspringable", it's kind of strange ;)
+I can forgive that in a vault, where I might be supposed to have a fountain or a fish hole, but in the area, where the next room is "freshspringable", it's kind of strange <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="32473" data-author="Sleeping Forest" data-date="2011-03-11T09:22:52+00:00" data-subject="Re: can an immort please look at rooms for lodge">
 
-The room code must be the same for using Canopied Arbor spell. I run into the same struggle looking for a room to cast it in. Would be nice to see Lodge and Arbor opened up to all outdoor rooms.  :wink:  :wink:
+The room code must be the same for using Canopied Arbor spell. I run into the same struggle looking for a room to cast it in. Would be nice to see Lodge and Arbor opened up to all outdoor rooms. <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -44,6 +44,6 @@ The aforementioned rooms had incorrect sector settings. I made them forest. If y
 
 It should work there now. I doubt they will change the mechanics of the spell.
 
--Juggs
+\-Juggs
 
 </div>

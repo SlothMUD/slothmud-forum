@@ -36,9 +36,9 @@ enough to know when the automated reboot hits usually on Sundays (9:30 am server
 
 Hope to see you there!
 
-As always, thanks, and happy hunting :)
+As always, thanks, and happy hunting <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -46,7 +46,7 @@ As always, thanks, and happy hunting :)
 
 We saved the smurfs from the evil dragon, but nothing could stop the smurfs from us! We've looted their village and found some new items, although we didn't stop to ask any questions so we don't know if they have any tasks for us to do yet.
 
----
+\---
 
 Object 'jacket painter stained colors smurfy smurf', Item type: CONTAINER
 
@@ -58,13 +58,13 @@ Weight: 2, Value: 2955gold, Worn in: TAKE ABOUT
 
 Can affect you as:
 
-    Affects: SAVING_POISON by -1
+ Affects: SAVING\_POISON by -1
 
 Only those who are at least apprentice magic users, clerics, thieves,
 
 warriors, druids, necromancers, bards, or monks may use this item.
 
----
+\---
 
 Object 'armor battle suit smurfy smurf', Item type: ARMOR
 
@@ -76,9 +76,9 @@ AC-apply is -1.5
 
 Can affect you as:
 
-    Affects: DEX by 1
+ Affects: DEX by 1
 
-    Affects: MANA by 7
+ Affects: MANA by 7
 
 Only those who are at least adept magic users or adept clerics, or adept
 
@@ -86,7 +86,7 @@ thieves, or apprentice warriors, or adept druids, or adept necromancers, or
 
 adept bards, or adept monks may use this item.
 
----
+\---
 
 Object 'slippers fuzzy pair smurf', Item type: ARMOR
 
@@ -98,15 +98,15 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: REGEN_HP by 1
+ Affects: REGEN\_HP by 1
 
-    Affects: REGEN_MOVE by 2
+ Affects: REGEN\_MOVE by 2
 
 Only those who are at least apprentice magic users, clerics, thieves,
 
 warriors, druids, necromancers, bards, or monks may use this item.
 
----
+\---
 
 Object 'helmet miner metal tiny smurf', Item type: ARMOR
 
@@ -118,15 +118,15 @@ AC-apply is -0.5
 
 Can affect you as:
 
-    Affects: STR by 1
+ Affects: STR by 1
 
-    Affects: INFRAVISION by 1
+ Affects: INFRAVISION by 1
 
 Only those who are at least apprentice thieves, warriors, bards, or monks
 
 may use this item.
 
----
+\---
 
 Object 'mirror tiny smurf', Item type: ARMOR
 
@@ -138,13 +138,13 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: DEX by 1
+ Affects: DEX by 1
 
 Only those who are at least apprentice magic users, clerics, thieves,
 
 warriors, druids, necromancers, bards, or monks may use this item.
 
----
+\---
 
 Object 'shield brave smurf', Item type: ARMOR
 
@@ -156,13 +156,13 @@ AC-apply is -0.7
 
 Can affect you as:
 
-    Affects: DEX by 1
+ Affects: DEX by 1
 
-    Affects: CHARISMA by 1
+ Affects: CHARISMA by 1
 
 Only those who are at least adept warriors and bards may use this item.
 
----
+\---
 
 Object 'blade dragon bone sword smurf', Item type: WEAPON
 
@@ -174,9 +174,9 @@ Damage Dice is '3D5'
 
 Can affect you as:
 
-    Affects: HITROLL by 3
+ Affects: HITROLL by 3
 
-    Affects: DARKSIGHT by 1
+ Affects: DARKSIGHT by 1
 
 Only those who are no more than master magic users, clerics, thieves,
 
@@ -184,7 +184,7 @@ warriors, druids, necromancers, bards, or monks may use this item.
 
 The blade is not a stab weapon.
 
----
+\---
 
 Object 'quill red feather smurf', Item type: LIGHT
 
@@ -194,13 +194,13 @@ Weight: 1, Value: 2843gold, Worn in: TAKE HOLD
 
 Can affect you as:
 
-    Affects: REGEN_MANA by 1
+ Affects: REGEN\_MANA by 1
 
 Only those who are at least apprentice magic users, clerics, druids,
 
 necromancers, or bards may use this item.
 
----
+\---
 
 Object 'mallet drummer smurf', Item type: WEAPON
 
@@ -212,15 +212,15 @@ Damage dice is '2D4'
 
 Can affect you as:
 
-    Affects: HITROLL by 1
+ Affects: HITROLL by 1
 
-    Affects: CHARISMA by 1
+ Affects: CHARISMA by 1
 
 Only those who are at least apprentice thieves, warriors, or bards may use
 
 this item.
 
----
+\---
 
 Object 'needle sewing long brass sharp smurf', Item type: WEAPON
 
@@ -232,9 +232,9 @@ Damage Dice is '2D3'
 
 Can affect you as:
 
-    Affects: HITROLL by 1
+ Affects: HITROLL by 1
 
-    Affects: DAMROLL by 1
+ Affects: DAMROLL by 1
 
 Only those who are at least apprentice thieves or warriors may use this
 

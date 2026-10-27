@@ -16,7 +16,7 @@ BH
 
 Asylum - cook
 
-Catacombs -  zombie (near entrance)
+Catacombs - zombie (near entrance)
 
 Castle - Uyp
 
@@ -70,7 +70,7 @@ Castle Black - librarian
 
 Castle Black - Phantom Dragoon
 
-Cleric's Tower -  schoool of sightless fish
+Cleric's Tower - schoool of sightless fish
 
 Crypt - master dark monk
 
@@ -146,7 +146,7 @@ Argosian Wreckage - skeletal pirate
 
 Argosian Wreckage - thalassian powder monkey
 
-Canaa  - stowaway
+Canaa - stowaway
 
 Dalina Mansion - child
 
@@ -172,7 +172,7 @@ Tel Makor - eithrean soldier
 
 Valley of R'lyeh- dimensional shambler
 
-Valley of the Great Old Ones -  Spectral Hunter
+Valley of the Great Old Ones - Spectral Hunter
 
 Valley of the Mage - male valley elf
 
@@ -194,7 +194,7 @@ Lyme Town - Stancil
 
 Lyme Town - street urchin
 
-Mount Olympus -  man climbing the mountain
+Mount Olympus - man climbing the mountain
 
 Poseidon's Realm - sahaguin high king
 
@@ -208,7 +208,7 @@ F.O.C. - Honky
 
 Newbatia - evil thug (east of inn)
 
-I will update this post with any new mobs i find along the way that load hex tokens.  If anyone wants to contribute to the list either post here or let me know in game via tell/mail.
+I will update this post with any new mobs i find along the way that load hex tokens. If anyone wants to contribute to the list either post here or let me know in game via tell/mail.
 
 Thanks!
 
@@ -224,7 +224,7 @@ Arbo - Witch Doctor
 
 <div class="post" data-post-id="32185" data-author="jezer" data-date="2010-12-19T19:01:35+00:00" data-subject="Re: S4 Hex Mobs">
 
-One other tip for rerolling... If you poke Juggleblood with a hot red stick, and demand his stupid pies and an ale to cool it down with, he may just give you a flask of fire-breather, so he can sadistically laugh while watching you explode. When you explode into chunks your eq gets scattered, however you can pick up your "chunks" which I think are dies for rerolling. Firebreather also pops on a few mobs. Not sure if they are hexes, probably dies. I think the chunks are personal... and yeah... easier ways to get rerolls... ;)
+One other tip for rerolling... If you poke Juggleblood with a hot red stick, and demand his stupid pies and an ale to cool it down with, he may just give you a flask of fire-breather, so he can sadistically laugh while watching you explode. When you explode into chunks your eq gets scattered, however you can pick up your "chunks" which I think are dies for rerolling. Firebreather also pops on a few mobs. Not sure if they are hexes, probably dies. I think the chunks are personal... and yeah... easier ways to get rerolls... <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 BTW that's the best hex list I've seen, thanks Guinex.
 

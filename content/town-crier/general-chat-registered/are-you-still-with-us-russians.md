@@ -18,7 +18,8 @@ Hope all the russian players are ok after the moscow incident. Friends and Famil
 
 <div class="post" data-post-id="31010" data-author="Tuck" data-date="2010-03-30T11:48:25+00:00" data-subject="Re: Are you still with us Russians?">
 
-Hope all the russian players are ok after the moscow incident. Friends and Family all good yeah?[/quote:1by724pc]
+> <strong>jezer wrote:</strong>
+> Hope all the russian players are ok after the moscow incident. Friends and Family all good yeah?
 
 Thanks Jezer, we ok.
 
@@ -26,7 +27,8 @@ Thanks Jezer, we ok.
 
 <div class="post" data-post-id="31037" data-author="Bazilus" data-date="2010-04-09T13:26:56+00:00" data-subject="Re: Are you still with us Russians?">
 
-Hope all the russian players are ok after the moscow incident. Friends and Family all good yeah?[/quote:29a8z9i6]
+> <strong>jezer wrote:</strong>
+> Hope all the russian players are ok after the moscow incident. Friends and Family all good yeah?
 
 I'am some late, but thank Jezer, we ok.
 

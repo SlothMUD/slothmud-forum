@@ -14,29 +14,29 @@ post_count: 7
 
 This may or may not be a typo, but it does seem a bit out of place.
 
-According to the website's Experience and Gold Table, for a player to obtain level 40 in their primary class, they require 40 million experience and 648 million gold.  It seems out of place becuase level 39 only requires around 1/2 million gold, and level 40 avatar only requires around 4 million gold.
+According to the website's Experience and Gold Table, for a player to obtain level 40 in their primary class, they require 40 million experience and 648 million gold. It seems out of place becuase level 39 only requires around 1/2 million gold, and level 40 avatar only requires around 4 million gold.
 
 </div>
 
 <div class="post" data-post-id="7661" data-author="Alberich" data-date="2005-06-29T12:53:37+00:00" data-subject="">
 
-hehe, I'd love to see the char who could afford 648 mils for anything :)  Gotta be a typo, iirc 40 prime is like 648k
+hehe, I'd love to see the char who could afford 648 mils for anything <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> Gotta be a typo, iirc 40 prime is like 648k
 
 </div>
 
 <div class="post" data-post-id="7662" data-author="Rynquald" data-date="2005-06-29T13:04:52+00:00" data-subject="">
 
-Nod, I've always seen it as a typo, I recently levelled 40 prime, and I can assure you that I didn't pay 648 mill for it  :) 
+Nod, I've always seen it as a typo, I recently levelled 40 prime, and I can assure you that I didn't pay 648 mill for it <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> 
 
 Rynquald.
 
-PS: it's 3 am here, so forgive me if this has typos/makes no sense :D
+PS: it's 3 am here, so forgive me if this has typos/makes no sense <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="7664" data-author="guest" data-date="2005-06-29T13:44:10+00:00" data-subject="">
 
-Fixed, picky people ...    :P
+Fixed, picky people ... <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -56,11 +56,11 @@ Madmax
 
 lol, 648m coins
 
-i barely reach 150m coins myself  :P
+i barely reach 150m coins myself <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 GO CLERICS!!! GO!!!
 
- :twisted:  KA KAW!  :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> KA KAW! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

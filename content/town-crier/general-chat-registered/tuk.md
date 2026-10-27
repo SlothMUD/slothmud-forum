@@ -32,7 +32,7 @@ Wipe/ban char? Create new. Ban IP? Pfft. Ban Networks? Not very efficient, too. 
 
 Holiday it was then, so no worries
 
-Jealous idjits spreading rumours. Whatever floats their boat I guess  :roll:
+Jealous idjits spreading rumours. Whatever floats their boat I guess <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -54,14 +54,14 @@ What did i miss?
 
 <div class="post" data-post-id="34394" data-author="jezer" data-date="2013-08-23T23:39:54+00:00" data-subject="Re: Tuk">
 
-+1 Juggle. Good read and funny to boot.
+\+1 Juggle. Good read and funny to boot.
 
 </div>
 
 <div class="post" data-post-id="34395" data-author="Tuck" data-date="2013-08-24T00:13:56+00:00" data-subject="Re: Tuk">
 
-> **jezer wrote:**
-> +1 Juggle. Good read and funny to boot.
+> <strong>jezer wrote:</strong>
+> \+1 Juggle. Good read and funny to boot.
 
 Indeed!
 

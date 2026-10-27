@@ -36,9 +36,8 @@ Cheers
 
 <div class="post" data-post-id="21647" data-author="jezer" data-date="2007-12-12T22:52:26+00:00" data-subject="">
 
-When honour first went in, I asked Dave if there was a chance it will show up on score. He said score is already messed up with so much spam already and it was unlikely.
-
-[/quote:1daq0887]
+> <strong>Hotara wrote:</strong>
+> When honour first went in, I asked Dave if there was a chance it will show up on score. He said score is already messed up with so much spam already and it was unlikely.
 
 Maybe split the score command? Score parameters...
 
@@ -56,9 +55,9 @@ Most of the time, when I type score... I only want to know one piece of informat
 
 <div class="post" data-post-id="21648" data-author="jezer" data-date="2007-12-12T23:05:07+00:00" data-subject="">
 
-score me  (Roughly Split By "You Are")
+score me (Roughly Split By "You Are")
 
-Brady <~PIRATE~> Vote! (level: 40)
+Brady \<\~PIRATE\~\> Vote! (level: 40)
 
 Your levels: Ma: 40 Cl: 40 Wa: 40 Dr: 40 Av: 40
 
@@ -74,7 +73,7 @@ You are an example to us all.
 
 You are a member of Pirates.
 
-<INSERT HONOR RANK TITLE?>
+\<INSERT HONOR RANK TITLE?\>
 
 You are strongly attuned to the channelling stratum.
 
@@ -82,7 +81,7 @@ You are standing.
 
 score stats (Roughly Split By "You Have")
 
-Brady <~PIRATE~> Vote! (level: 40)
+Brady \<\~PIRATE\~\> Vote! (level: 40)
 
 Your levels: Ma: 40 Cl: 40 Wa: 40 Dr: 40 Av: 40
 
@@ -106,11 +105,11 @@ You have been playing for 224 days and 20 hours.
 
 You have visited most of this area.
 
-<INSERT HONOR POINTS?>
+\<INSERT HONOR POINTS?\>
 
 score spells (Roughly Split By "You Are Affected")
 
-Brady <~PIRATE~> Vote! (level: 40)
+Brady \<\~PIRATE\~\> Vote! (level: 40)
 
 Your levels: Ma: 40 Cl: 40 Wa: 40 Dr: 40 Av: 40
 
@@ -158,21 +157,22 @@ Laugh.
 
 Although score stat shows your spell dam, uc, etc right now so yeah.
 
-On the other hand that sounds like alot of work for coders, considering all you have to do is hit rank to see your honour without spam :)
+On the other hand that sounds like alot of work for coders, considering all you have to do is hit rank to see your honour without spam <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="21651" data-author="Weasel" data-date="2007-12-13T00:52:50+00:00" data-subject="">
 
-how about just add it to 'rank who'  ...so, like finger, you can only see values of those who are online at the time.. and then it's relevant to the command too.
+how about just add it to 'rank who' ...so, like finger, you can only see values of those who are online at the time.. and then it's relevant to the command too.
 
 </div>
 
 <div class="post" data-post-id="21652" data-author="brady" data-date="2007-12-13T02:05:33+00:00" data-subject="">
 
-[quote:348iv2t3]On the other hand that sounds like alot of work for coders, considering all you have to do is hit rank to see your honour without spam[/quote:348iv2t3]
+> <strong>Quote:</strong>
+> On the other hand that sounds like alot of work for coders, considering all you have to do is hit rank to see your honour without spam
 
-It's not just a question of seeing honor in score.  There is too much stuff in there already, as some immortals have pointed out.
+It's not just a question of seeing honor in score. There is too much stuff in there already, as some immortals have pointed out.
 
 </div>
 
@@ -190,7 +190,7 @@ Some may disagree with me on this... but once a program has been in development 
 
 We have report, score, finger, rank, who, prompts, etc etc... All these commands overlap, and whenever a new feature is added... it's often added to one command and not the other.
 
-If you REALLY want to fix things... and hey, I'm not saying anything is broke... I don't actually have any honor in sloth *blush*... the best way is to make one centralized management system, that can work for all commands. Basically all player variables can be easily added to prompts, score, finger etc etc by use of dynamically adding scripts. It's work to setup, but it kind of makes things "fixed forever."
+If you REALLY want to fix things... and hey, I'm not saying anything is broke... I don't actually have any honor in sloth \*blush\*... the best way is to make one centralized management system, that can work for all commands. Basically all player variables can be easily added to prompts, score, finger etc etc by use of dynamically adding scripts. It's work to setup, but it kind of makes things "fixed forever."
 
 I do that a lot in my line of work, because you just learn, managers change there minds every few days about things. Centralising ideas, grouping them, and allowing for easy management always wins the day in the long run.
 
@@ -206,9 +206,10 @@ I love php and CSS for that very reason - so easy to make changes.
 
 <div class="post" data-post-id="21657" data-author="Yinao" data-date="2007-12-13T03:50:54+00:00" data-subject="">
 
-[quote:36q9spiw]On the other hand that sounds like alot of work for coders[/quote:36q9spiw]
+> <strong>Quote:</strong>
+> On the other hand that sounds like alot of work for coders
 
-Gives Judge something to do  :shock:
+Gives Judge something to do <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -220,6 +221,6 @@ so i'll be able to hit all those commands instead of just 'score', 'who' and 'gw
 
 erm don't listen to me.
 
- 8)
+ <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>

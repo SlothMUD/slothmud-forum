@@ -36,7 +36,7 @@ Thanks JB, nice to have a different quest where everyone can contribute more equ
 
 <div class="post" data-post-id="37931" data-author="*juggleblood*" data-date="2017-01-01T20:41:28+00:00" data-subject="Re: New Years Day Games">
 
-After cajolling the reluctant players into competing with each other, the end result was that team Sledgehammer defeated team Mus twice.  The categories were "pieces of creatures" and "raw plants, herbs, and fungi".
+After cajolling the reluctant players into competing with each other, the end result was that team Sledgehammer defeated team Mus twice. The categories were "pieces of creatures" and "raw plants, herbs, and fungi".
 
 The winners each walked away with 2 random gems and the losers 1.
 

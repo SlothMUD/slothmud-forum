@@ -16,27 +16,27 @@ help kylas
 
 "KYLAS DELIGHT"
 
-Usage:         cast 'kylas delight'
+Usage: cast 'kylas delight'
 
-Cost:          350 mana
+Cost: 350 mana
 
-Level:         Cleric 40 (Prime)
+Level: Cleric 40 (Prime)
 
-Duration:      ?
+Duration: ?
 
-Accumulative:  -
+Accumulative: -
 
-Save Versus:   -
+Save Versus: -
 
-Damage Type:   -
+Damage Type: -
 
-Stratum:       -
+Stratum: -
 
-Spellbook:     a granite tablet of greater health
+Spellbook: a granite tablet of greater health
 
-Prerequisite:  -
+Prerequisite: -
 
-See Also:      REMOVE DISEASE PURITY
+See Also: REMOVE DISEASE PURITY
 
 This spell cleanses the the body of all impurities. Everyone in the group, as
 

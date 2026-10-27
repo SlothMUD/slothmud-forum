@@ -18,13 +18,13 @@ capped weapon damage value.
 
 Fixes:
 
-* New MSDP variable WEAPON_DAM_CAP added
+\* New MSDP variable WEAPON\_DAM\_CAP added
 
-* Old MSDP variable WEAPON_DAM will now read current weapon damage
+\* Old MSDP variable WEAPON\_DAM will now read current weapon damage
 
-* Added new affect APPLY_BONUS_WEAPONDAM in case we decide to add this affect to Equipment
+\* Added new affect APPLY\_BONUS\_WEAPONDAM in case we decide to add this affect to Equipment
 
-* Cap now applied to weapon damage
+\* Cap now applied to weapon damage
 
 Changes are in-game as of this morning's reboot!
 

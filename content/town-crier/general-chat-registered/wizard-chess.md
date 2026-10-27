@@ -30,10 +30,10 @@ Anyway thats the basic concept. What do yall think? It could also be fun for cla
 
 Sound great but I think they already do that.
 
-[url:3qtye6sx]http://www.slothmud.org/index.php?name=PagEd&page_id=9[/url:3qtye6sx]
+http://www.slothmud.org/index.php?name=PagEd&page_id=9
 
 God Chess 
 
-- Players are designated a piece and when given order attack requested piece.
+\- Players are designated a piece and when given order attack requested piece.
 
 </div>

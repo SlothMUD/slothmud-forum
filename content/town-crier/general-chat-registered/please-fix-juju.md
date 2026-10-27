@@ -14,13 +14,13 @@ post_count: 11
 
 summon juju is playing up sometimes, been happening for awhile, not sure why..
 
-<873hp 864ma 284mv>summon juju
+\<873hp 864ma 284mv\>summon juju
 
 You gaze deeply into the obsidian charm, attempting to draw out the juju's essence from within.
 
 As the glow within the charm begins to fade the floor splits and two large arms appear from the crack.
 
-<873hp 792ma 285mv>summon juju
+\<873hp 792ma 285mv\>summon juju
 
 A vicious Ju-Ju Zombie crumbles to dust!
 
@@ -28,9 +28,9 @@ You gaze deeply into the obsidian charm, attempting to draw out the juju's essen
 
 As the glow within the charm begins to fade the floor splits and two large arms appear from the crack.
 
-<873hp 737ma 296mv>A vicious Ju-Ju Zombie crumbles to dust!
+\<873hp 737ma 296mv\>A vicious Ju-Ju Zombie crumbles to dust!
 
-<873hp 751ma 303mv>save
+\<873hp 751ma 303mv\>save
 
 summon juju
 
@@ -38,7 +38,7 @@ Saving Anrok.
 
 Saving items.
 
-<873hp 764ma 310mv><[-87]md>
+\<873hp 764ma 310mv\>\<[-87]md\>
 
 You gaze deeply into the obsidian charm, attempting to draw out the juju's essence from within.
 
@@ -82,7 +82,7 @@ Because that would truly baffle me if it were true. The code doesn't care if the
 
 I can only speak from experience playing a necro. I've not looked at the juju zombie code.
 
-I believe dark cloak to be the cause of the problem.  It would be pretty easy to prove me wrong, if I am :)
+I believe dark cloak to be the cause of the problem. It would be pretty easy to prove me wrong, if I am <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -98,9 +98,9 @@ Now I just tried testing Juju with dark cloak and renting with dark cloak. Neith
 
 <div class="post" data-post-id="34119" data-author="Magi" data-date="2013-03-04T03:16:36+00:00" data-subject="Re: Please fix Juju">
 
-Dark cloak stealth effect is a % chance the mob won't see you correctly.  Stand at an innkeeper and type 'offer' twenty times.  5 or 10% of the time (never tested the exact number) he'll give you the 'I can't see you' message.
+Dark cloak stealth effect is a % chance the mob won't see you correctly. Stand at an innkeeper and type 'offer' twenty times. 5 or 10% of the time (never tested the exact number) he'll give you the 'I can't see you' message.
 
-If dark cloak is the cause of the juju problem, it would be failing the same 5-10% of the time.  It should be easy to replicate as long as you repeat the summoning it enough times.
+If dark cloak is the cause of the juju problem, it would be failing the same 5-10% of the time. It should be easy to replicate as long as you repeat the summoning it enough times.
 
 </div>
 
@@ -118,7 +118,7 @@ I'm also applying it to the innkeepers (that I remember).
 
 That's amazing! Nice work.
 
-I may start carrying potions of detect magic for my pets so they can assist me properly :)
+I may start carrying potions of detect magic for my pets so they can assist me properly <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

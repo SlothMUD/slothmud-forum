@@ -18,15 +18,15 @@ The entrance is just off Matterhorn (12wn4d4n2e2se from West Gate).
 
 The area seems to be split into 3 parts:
 
-1. The "healthy, everything is going wonderfully well" forest - there are only 2 mobs here, Ritchie the Bard and the Exhausted Elf.
+1\. The "healthy, everything is going wonderfully well" forest - there are only 2 mobs here, Ritchie the Bard and the Exhausted Elf.
 
-2. The next part is the undead area - mostly 4-5 mil undead chop mobs + another elf, + a patrol. Have visage up here.
+2\. The next part is the undead area - mostly 4-5 mil undead chop mobs + another elf, + a patrol. Have visage up here.
 
 There is also a 60mil mob here called the Unicorn which pops an autoquest item.
 
-3. The big group part (the castle) is next (you will need a black traitor's key from one of the three vampiric squires (70k mobs) in the undead part). There are 6-7 group mobs here ranging from 30 to 60-70 mil. There is at least 1 blocker mob (Dead Man) that will instantly kill the leader if he tries to go through the door in his room. The He-groll also blocks east of him. The cps for the shoulderguards of woven flesh (0.8 + 1 Max Con) appear to pop here.
+3\. The big group part (the castle) is next (you will need a black traitor's key from one of the three vampiric squires (70k mobs) in the undead part). There are 6-7 group mobs here ranging from 30 to 60-70 mil. There is at least 1 blocker mob (Dead Man) that will instantly kill the leader if he tries to go through the door in his room. The He-groll also blocks east of him. The cps for the shoulderguards of woven flesh (0.8 + 1 Max Con) appear to pop here.
 
-There are 2 2-3 mil ambushing mobs in the entrance to part 3 (albino tigertaurs) which stab you for 300+ hps through sanc before the fight unless you attack them first. On killing them they also stab you for another 300 hps...  :shock:  Very thin though  8) 
+There are 2 2-3 mil ambushing mobs in the entrance to part 3 (albino tigertaurs) which stab you for 300+ hps through sanc before the fight unless you attack them first. On killing them they also stab you for another 300 hps... <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> Very thin though <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> 
 
 There are also 4 5 mil ethereal mobs in this area (mage/warrior spirits). During the opener quest the mage spirits had a proc that killed the tank before the first round ended... Rita said it was only set to 100% for the quest...so take your chances.
 
@@ -34,7 +34,7 @@ We haven't confirmed this but a new epic mob, Fox Direheart is also in this area
 
 EQ that was popped in the area can be found here:
 
-[<LINK_TEXT text="http://www.slothmud.org/forum/viewtopic ... 517#p32517">http://www.slothmud.org/forum/viewtopic.php?f=27&t=3691&p=32517#p32517</LINK_TEXT>](http://www.slothmud.org/forum/viewtopic.php?f=27&t=3691&p=32517#p32517)
+[http://www.slothmud.org/forum/viewtopic.php?f=27&t=3691&p=32517#p32517](http://www.slothmud.org/forum/viewtopic.php?f=27&t=3691&p=32517#p32517)
 
 The forge note and also the autoquest info can be found here:
 
@@ -46,7 +46,7 @@ Null in the Palace of Thalassass has a new autoquest which is completed using on
 
 Thanks Rita for a great new area and a fun quest!
 
-P.S. Give Ritchie the Bard 10k coins to see one of the most amazing pieces of area-making in the game!  8) 
+P.S. Give Ritchie the Bard 10k coins to see one of the most amazing pieces of area-making in the game! <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> 
 
 P.P.S. Check out the mob/room descs - they are quite something!
 

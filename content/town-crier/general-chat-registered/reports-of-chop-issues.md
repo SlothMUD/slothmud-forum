@@ -12,7 +12,7 @@ post_count: 3
 
 <div class="post" data-post-id="38995" data-author="*teker*" data-date="2018-11-11T16:27:50+00:00" data-subject="Reports of chop issues">
 
-Sorry I wasn't able to hang around yesterday to see the issue - what exactly is going on?  I've run some tests with a scimitar and I see the chops happening, the mob is getting blinded, etc.
+Sorry I wasn't able to hang around yesterday to see the issue - what exactly is going on? I've run some tests with a scimitar and I see the chops happening, the mob is getting blinded, etc.
 
 </div>
 
@@ -26,7 +26,7 @@ I think the chop bug is in relation to whatever the fix was for the weapon bug w
 
 Thanks for looking into it.
 
--Ezekiel
+\-Ezekiel
 
 </div>
 

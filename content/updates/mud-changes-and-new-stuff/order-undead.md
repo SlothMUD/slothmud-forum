@@ -12,10 +12,10 @@ post_count: 1
 
 <div class="post" data-post-id="3080" data-author="*Splork*" data-date="2004-11-30T11:03:03+00:00" data-subject="Order Undead">
 
-Kjartan has added Order undead  to help those of you having trouble with order followers and causing their supplicants to always assist and normally die.
+Kjartan has added Order undead to help those of you having trouble with order followers and causing their supplicants to always assist and normally die.
 
 Enjoy,
 
-Splork :twisted:
+Splork <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

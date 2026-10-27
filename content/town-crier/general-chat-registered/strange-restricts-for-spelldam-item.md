@@ -16,25 +16,25 @@ Some time ago I received an awesome spelldam item:
 
 a yellow diamond necklace
 
--0.2 AC, Spellbonus 7, ResElec 15
+\-0.2 AC, Spellbonus 7, ResElec 15
 
 ...with extremely strange requirements:
 
 GLOW MAGIC 3x40-ITEM
 
-Ma40 **and Dr40**
+Ma40 <strong>and Dr40</strong>
 
 Isn't there any mistake? I browsed whole spelldam items eq list and found only two (!) items with AND rests: both of them has manaregen and spelldam and require mage + cleric. Seems logically, isn't it? Plus there are two druid-only shapeshift bracelets (one with 2 spelldam, one with 10, but without any info about 'where to get', probably high-quest-weekly-millenium-christmas-forge from the depth of archives or so). Other items has:
 
-1. Mage or Mage prime restricts
+1\. Mage or Mage prime restricts
 
-2. OR (caster, any class etc), Avatar or x*40 restricts
+2\. OR (caster, any class etc), Avatar or x\*40 restricts
 
 I tried to ask an area creator (Neptune) about this item several times. Since I haven't received any answer, now I address this question to the whole Sloth society. Should this item be changed or not? I see two ways:
 
-1. Druid restrictions should be removed. I think that first part of its restricts is enough (40 ma, triple 40). It is not OP item, most of mages get 10 spelldam shoulders as first (or second) drachma item, this necklace is weaker.
+1\. Druid restrictions should be removed. I think that first part of its restricts is enough (40 ma, triple 40). It is not OP item, most of mages get 10 spelldam shoulders as first (or second) drachma item, this necklace is weaker.
 
-2. Add "shiftable" flag to this item. THIS will be OP (comparing with other shiftable neck items), but may be Neptune thinks that it is not, and he just forgot to "set" this flag?
+2\. Add "shiftable" flag to this item. THIS will be OP (comparing with other shiftable neck items), but may be Neptune thinks that it is not, and he just forgot to "set" this flag?
 
 What is your opinion about this necklace?
 
@@ -46,7 +46,7 @@ The mob that pops it is Xerxes.
 
 He also pops sleeves of dawnfire, which have these restricts:
 
-40wa&th&mo&ba 4x40.
+40wa\&th\&mo\&ba 4x40.
 
 I am 80% sure the restricts should be:
 
@@ -68,10 +68,10 @@ pretty sure he had a reason but i cant find it in my email
 
 <div class="post" data-post-id="36292" data-author="Ertai" data-date="2015-12-11T15:38:08+00:00" data-subject="Re: Strange restricts for spelldam item">
 
-> **Teron wrote:**
+> <strong>Teron wrote:</strong>
 > He also pops sleeves of dawnfire, which have these restricts:
 > 
-> 40wa&th&mo&ba 4x40.
+> 40wa\&th\&mo\&ba 4x40.
 > 
 > 
 > 
@@ -79,9 +79,9 @@ pretty sure he had a reason but i cant find it in my email
 > 
 > 40wa or th or mo or ba 4x40
 
-The idea of 4*tank restrs is pretty nice for **ultimate tank gear**. Also 4*caster might be good for ultimate caster eq... but both of these items are NOT ultimate: sleeves are mostly quite, not awesome. Necklace is good, but also can be easily replaced. So the idea of these kickass restrictions seems unclear.
+The idea of 4\*tank restrs is pretty nice for <strong>ultimate tank gear</strong>. Also 4\*caster might be good for ultimate caster eq... but both of these items are NOT ultimate: sleeves are mostly quite, not awesome. Necklace is good, but also can be easily replaced. So the idea of these kickass restrictions seems unclear.
 
-> ***Breeze* wrote:**
+> <strong>\*Breeze\* wrote:</strong>
 > ask neptune. its his area.
 
 Oh, I tried, 3 or 4 times. I've wrote several messages to describe my vision of this problems, not simple "hey man, why you made this?".
@@ -100,10 +100,10 @@ and the people currently using it with its current restrictions?
 
 <div class="post" data-post-id="36295" data-author="Ertai" data-date="2015-12-11T19:35:46+00:00" data-subject="Re: Strange restricts for spelldam item">
 
-> ***Breeze* wrote:**
+> <strong>\*Breeze\* wrote:</strong>
 > and the people currently using it with its current restrictions?
 
-The most of my arguments are about lack of logic in its restrictions. Also, most of casters has druid high in their classo, because of manaregen. So they don't even notice this fact. :)
+The most of my arguments are about lack of logic in its restrictions. Also, most of casters has druid high in their classo, because of manaregen. So they don't even notice this fact. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 As I've told, I may understand if it have av25 restrs, not ma + dr.
 
@@ -175,7 +175,7 @@ requiring both Druid 40 and Mage 40, Loads on Epic Mob Xerxes in the Ruins of Gi
 
 on the continent of Lyme.
 
-1. The Pareto Principle (The general rule, the 80/20 rule)
+1\. The Pareto Principle (The general rule, the 80/20 rule)
 
 As you pointed out, (what appears to be) "most of casters has druid high in their classo, 
 
@@ -201,7 +201,7 @@ particular class order was not as much of a consideration because it fell outsid
 
 aren't meant to be exact; It's the principle that's the important part here.)
 
-2. Occam's Razor
+2\. Occam's Razor
 
 In creating these areas and their elements, we always try to stay relatively consistent 
 
@@ -253,7 +253,7 @@ practices) came into play in making the decision there with putting Druid in pla
 
 of the other caster types.
 
-3. Future Prospects
+3\. Future Prospects
 
 I have about twenty or so areas on the backburner that I have neglected to share with 
 
@@ -273,9 +273,9 @@ all got jobs and family that require more of our time, and our lives are far mor
 
 complicated than they used to be. So, in a nutshell, be patient. I'm working as fast as 
 
-I can, and I'm sure every other immortal is as well :P
+I can, and I'm sure every other immortal is as well <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
-4. Game Element Relationships
+4\. Game Element Relationships
 
 While much of what we do is for the player, keep in mind that it's not always about 
 
@@ -295,7 +295,7 @@ leave that there for right now, but know that things, old and new, may yet find 
 
 common thread in the lore and history of this game and world.
 
-5. Faulty Memory
+5\. Faulty Memory
 
 As I said before, we are much older (and hopefully wiser) than we used to be when 
 
@@ -303,7 +303,7 @@ we started all this, and I don't always recall things I was thinking two or thre
 
 ago. But I will not gratify any reactionary response that because of this, it must be 
 
-the reason for anything. For all I know,  the frame of mind related to things that are 
+the reason for anything. For all I know, the frame of mind related to things that are 
 
 no longer part of the game, or times with different directions. However, that is not 
 
@@ -319,7 +319,7 @@ keep an NSA sized database of every communication we've ever had related to the
 
 game and its players. We all pick and choose, but then again, that is our prerogative. 
 
----------------------------------
+\---------------------------------
 
 In response to the Sleeves of Dawnfire question: it was a group immortal staff 
 
@@ -339,13 +339,13 @@ requirements aren't actually part of the restrictions; the fourth class can be
 
 any of the other classes for that item whereas the Sandals of Speed are Monk Prime. 
 
------------------------------------
+\-----------------------------------
 
 I hope that helps. It generally not as simple as whatever anyone who wants to take a few
 
 minutes to whip up a forum post may think. But then again, that would be fallacious, 
 
-as in an over-simplification of circumstances with which  they are not involved. So often,
+as in an over-simplification of circumstances with which they are not involved. So often,
 
 it easy to focus on the tip of our nose rather than the world beyond it. Let's not assume 
 
@@ -361,7 +361,7 @@ Anyways, It may be long-winded, but you know what they say:
 
 "Be careful what you ask for; you may get it."
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -371,26 +371,26 @@ Neptune,
 
 Thanks a lot for your full reply! Now separate pieces of this problem were assebled into a full picture. According to this point of view all became clear.
 
-Also I'd like to add several words about the reason of my question: I really wanted **to understand a logic** of item's creation. (I'm not a munchkin to have problems with 'ahh, I can't wear my precious-s-s-s': if I had druid class higher, I might even don't notice if it has dr restricts or not.) And I'm really happy that I gained exactly this kind of reply.
+Also I'd like to add several words about the reason of my question: I really wanted <strong>to understand a logic</strong> of item's creation. (I'm not a munchkin to have problems with 'ahh, I can't wear my precious-s-s-s': if I had druid class higher, I might even don't notice if it has dr restricts or not.) And I'm really happy that I gained exactly this kind of reply.
 
 Kind regards,
 
 Ertai
 
-<edit> Ah, yes. A small add-on: I'm not afraid of receiving answers to my question. </edit>
+\<edit\> Ah, yes. A small add-on: I'm not afraid of receiving answers to my question. \</edit\>
 
 </div>
 
 <div class="post" data-post-id="36305" data-author="Yasik" data-date="2015-12-13T12:12:25+00:00" data-subject="Re: Strange restricts for spelldam item">
 
-Neptune just told you to shut up and deal with it, in short terms  :lol:
+Neptune just told you to shut up and deal with it, in short terms <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="36306" data-author="Ertai" data-date="2015-12-13T12:25:58+00:00" data-subject="Re: Strange restricts for spelldam item">
 
-> **Yasik wrote:**
-> Neptune just told you to shut up and deal with it, in short terms  :lol:
+> <strong>Yasik wrote:</strong>
+> Neptune just told you to shut up and deal with it, in short terms <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 Thanks for your valuable comment. Now GTFO.
 
@@ -402,13 +402,13 @@ Neptune's post answered all my questions. I've written above about it.
 
 <div class="post" data-post-id="36307" data-author="Yasik" data-date="2015-12-13T15:14:29+00:00" data-subject="Re: Strange restricts for spelldam item">
 
-My comment answered all your questions as well, just in shorter length  :lol:
+My comment answered all your questions as well, just in shorter length <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="36308" data-author="*Splork*" data-date="2015-12-13T20:36:01+00:00" data-subject="Re: Strange restricts for spelldam item">
 
-Neptune never answers questions with a big FU :shock:   He may over-answer a question every now and again! hehe
+Neptune never answers questions with a big FU <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> He may over-answer a question every now and again! hehe
 
 He is our most level headed Administrator! Try asking that question to Breeze or myself and see what answer you get! JK!
 

@@ -30,13 +30,13 @@ Aaron prob just got a boner via magic knowledge.
 
 <div class="post" data-post-id="26015" data-author="Medios" data-date="2008-08-30T17:29:07+00:00" data-subject="">
 
-By the way.  Mosaix never contributed anything to DoW.  There were several arguments with him and Aaron or him and Al.  There was even supposedly stuff stolen, money, eq, characters.  I was never involved in any of those things and in fact tried to keep the peace.  Somehow I always end up to the bad guy in some peoples minds.  That is fine because I remember the whining and bitching and situations that I had to remedy.  I also remember the lack of any skill on the game including soloing anything for yourself.  I will not apologize because I don't follow the liberal arguments of something for nothing and welfare for all on the backs of the hard workers.  I am personally relieved that I don't have to hear anymore of your bullshit in clan chat(mostly whining).  Some day you will grow up and do something for yourself and find out it works alot better than bitching and moaning until someone else does it for you.  You can come here and call me a racist and whatever other personal attacks you want to start.  I didn't start this, but I will finish it.  Your worthless in my eyes.  Like I said above you never contributed, nor tried to contribute to anything other than your xp.  I never thought you were DoW material however some people thought you would be a help.  Guess what once again I was right.  Hopefully you can join Dragonsworn.  I hear they give n00bs gear and help.  
+By the way. Mosaix never contributed anything to DoW. There were several arguments with him and Aaron or him and Al. There was even supposedly stuff stolen, money, eq, characters. I was never involved in any of those things and in fact tried to keep the peace. Somehow I always end up to the bad guy in some peoples minds. That is fine because I remember the whining and bitching and situations that I had to remedy. I also remember the lack of any skill on the game including soloing anything for yourself. I will not apologize because I don't follow the liberal arguments of something for nothing and welfare for all on the backs of the hard workers. I am personally relieved that I don't have to hear anymore of your bullshit in clan chat(mostly whining). Some day you will grow up and do something for yourself and find out it works alot better than bitching and moaning until someone else does it for you. You can come here and call me a racist and whatever other personal attacks you want to start. I didn't start this, but I will finish it. Your worthless in my eyes. Like I said above you never contributed, nor tried to contribute to anything other than your xp. I never thought you were DoW material however some people thought you would be a help. Guess what once again I was right. Hopefully you can join Dragonsworn. I hear they give n00bs gear and help. 
 
-The fact that you take my rants against Obama as personal shows your total lack of intelligence.  You want to hate someone.  Someone that has different views than you.  Who is being divisive?  Who is the racist?  Voting for someone because hes black is racist.  Voting for a woman because shes a woman is sexist.  Voting for a democrat because he is a democrat is ignorant.  The same can be said for Republicans.
+The fact that you take my rants against Obama as personal shows your total lack of intelligence. You want to hate someone. Someone that has different views than you. Who is being divisive? Who is the racist? Voting for someone because hes black is racist. Voting for a woman because shes a woman is sexist. Voting for a democrat because he is a democrat is ignorant. The same can be said for Republicans.
 
 Now go get mad and throw a fit, I will still be here fighting the good fight.
 
-Edit:  I forgot to mention how when Broc was running a pthief he even stole from his own clan.  I should have kicked him out then.  Just wait til Aaron reads this.
+Edit: I forgot to mention how when Broc was running a pthief he even stole from his own clan. I should have kicked him out then. Just wait til Aaron reads this.
 
 </div>
 
@@ -50,23 +50,21 @@ I have pthieves.
 
 Spin is a great thing, gives those with nothing something to stand on.
 
- 
-
 Toss all the high school bully tactics around you want, I could care less.
 
-Anything you could possibly do that would actually do much of anything would get you wiped from sloth.  So dont reward me or anything.
+Anything you could possibly do that would actually do much of anything would get you wiped from sloth. So dont reward me or anything.
 
-Cant follow a leader of a clan who is a self-proclaimed Bigot.  
+Cant follow a leader of a clan who is a self-proclaimed Bigot. 
 
-Twist and throw all the trash you want.  You keep making my point for leaving.
+Twist and throw all the trash you want. You keep making my point for leaving.
 
-Everyone is inferior to you.  If its not me, it was Brad, if not him its you poking fun at the new CSK clan calling them newbs and idiots.  You just identified Dragonsworn as newbs and idiots in your last post.  If not them its jabbing at Pirate, taking Autolycos to task for having inferior eq, and abilites to Medios.  You rant and rant, whine, poke fun, and then try to look like the stand up guy your not.  You always have to prove your better than everyone else.  Im not going to go along with that anymore.  
+Everyone is inferior to you. If its not me, it was Brad, if not him its you poking fun at the new CSK clan calling them newbs and idiots. You just identified Dragonsworn as newbs and idiots in your last post. If not them its jabbing at Pirate, taking Autolycos to task for having inferior eq, and abilites to Medios. You rant and rant, whine, poke fun, and then try to look like the stand up guy your not. You always have to prove your better than everyone else. Im not going to go along with that anymore. 
 
-So I expect your flames about me to be no different.  
+So I expect your flames about me to be no different. 
 
 You always dish out the heat, but you can never take it back.
 
-Cute post, It gave me a good laugh today.  Needed that.  
+Cute post, It gave me a good laugh today. Needed that. 
 
 If your so bored with this game that so many in sloth are newbs and idiots, maybe move on and find a new game.
 
@@ -86,17 +84,18 @@ I agree, Autolycos is a fraud.
 
 <div class="post" data-post-id="26032" data-author="Autolycos" data-date="2008-08-31T03:50:17+00:00" data-subject="">
 
-I agree, Autolycos is a fraud.[/quote:2fwmwki0]
+> <strong>brady wrote:</strong>
+> I agree, Autolycos is a fraud.
 
-i am... sadly...  
+i am... sadly... 
 
-i'm just so tired of being a nice guy  ;)
+i'm just so tired of being a nice guy <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="26036" data-author="Poggle" data-date="2008-08-31T09:38:37+00:00" data-subject="">
 
-It's ok,  Auto...
+It's ok, Auto...
 
 I am also a fraud.
 
@@ -114,7 +113,7 @@ It is a flaw.
 
 <div class="post" data-post-id="26038" data-author="angel" data-date="2008-08-31T09:55:01+00:00" data-subject="">
 
-interesting :)
+interesting <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -122,7 +121,7 @@ interesting :)
 
 Sorry Your clan is falling apart or restructuring so to speak. 
 
-Just cause a few of us in ~Dragonsworn~ are newbs doesn't mean the clan is. Someday after 10-12 more years of playing maybe I'll not be a newb until then I'll just have fun being a newb and know my paycheck doesn't depend on my mudding ability.
+Just cause a few of us in \~Dragonsworn\~ are newbs doesn't mean the clan is. Someday after 10-12 more years of playing maybe I'll not be a newb until then I'll just have fun being a newb and know my paycheck doesn't depend on my mudding ability.
 
 Alias
 
@@ -136,7 +135,7 @@ Someone is getting payed to play? where do I sign up for that position? Does it 
 
 <div class="post" data-post-id="26069" data-author="Yinao" data-date="2008-09-02T01:42:34+00:00" data-subject="">
 
-This one time, this clan... Oh nvm, I got all my newb eq from ~Dragonsworn~ considering I joined being near avatar wearing leathers and cloth stuffs for mana...
+This one time, this clan... Oh nvm, I got all my newb eq from \~Dragonsworn\~ considering I joined being near avatar wearing leathers and cloth stuffs for mana...
 
 </div>
 
@@ -144,7 +143,7 @@ This one time, this clan... Oh nvm, I got all my newb eq from ~Dragonsworn~ cons
 
 Gief moar drama plx. Sometimes I even wanna come back :)
 
-Calling everyone else a noob is kinda DoW's feature btw. And Pirates are the greatest noobs ever! *HAI BRAAADY*
+Calling everyone else a noob is kinda DoW's feature btw. And Pirates are the greatest noobs ever! \*HAI BRAAADY\*
 
 </div>
 
@@ -156,7 +155,8 @@ Noobs? What are they?
 
 <div class="post" data-post-id="26079" data-author="Yinao" data-date="2008-09-02T08:27:17+00:00" data-subject="">
 
-Noobs? What are they?[/quote:2dxv9d9v]
+> <strong>osric wrote:</strong>
+> Noobs? What are they?
 
 Like boobs but sweeter
 
@@ -164,19 +164,32 @@ Like boobs but sweeter
 
 <div class="post" data-post-id="26080" data-author="reboog" data-date="2008-09-02T09:09:50+00:00" data-subject="">
 
-It's ok,  Auto...
-
-I am also a fraud.
-
-Yes, I'm ashamed, but I admit it.
-
-I am only sometimes capable of the Great.
-
-Not always.
-
-It is a flaw.
-
-(Reboog is great though.)[/quote:3cb4dbdu]
+> <strong>Poggle wrote:</strong>
+> It's ok, Auto...
+> 
+> 
+> 
+> I am also a fraud.
+> 
+> 
+> 
+> Yes, I'm ashamed, but I admit it.
+> 
+> 
+> 
+> I am only sometimes capable of the Great.
+> 
+> 
+> 
+> Not always.
+> 
+> 
+> 
+> It is a flaw.
+> 
+> 
+> 
+> (Reboog is great though.)
 
 ur so srs
 
@@ -184,9 +197,12 @@ ur so srs
 
 <div class="post" data-post-id="26087" data-author="brady" data-date="2008-09-02T12:23:48+00:00" data-subject="">
 
-Gief moar drama plx. Sometimes I even wanna come back :)
-
-Calling everyone else a noob is kinda DoW's feature btw. And Pirates are the greatest noobs ever! *HAI BRAAADY*[/quote:svdaegyl]
+> <strong>Krok wrote:</strong>
+> Gief moar drama plx. Sometimes I even wanna come back <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
+> 
+> 
+> 
+> Calling everyone else a noob is kinda DoW's feature btw. And Pirates are the greatest noobs ever! \*HAI BRAAADY\*
 
 I thought you were eaten by a bear.
 
@@ -208,37 +224,50 @@ Krok needs to come back!
 
 <div class="post" data-post-id="26101" data-author="Medios" data-date="2008-09-02T19:52:42+00:00" data-subject="">
 
-By the way.  Mosaix never contributed anything to DoW.  There were several arguments with him and Aaron or him and Al.  There was even supposedly stuff stolen, money, eq, characters.  I was never involved in any of those things and in fact tried to keep the peace.  Somehow I always end up to the bad guy in some peoples minds.  That is fine because I remember the whining and bitching and situations that I had to remedy.  I also remember the lack of any skill on the game including soloing anything for yourself.  I will not apologize because I don't follow the liberal arguments of something for nothing and welfare for all on the backs of the hard workers.  I am personally relieved that I don't have to hear anymore of your bullshit in clan chat(mostly whining).  Some day you will grow up and do something for yourself and find out it works alot better than bitching and moaning until someone else does it for you.  You can come here and call me a racist and whatever other personal attacks you want to start.  I didn't start this, but I will finish it.  Your worthless in my eyes.  Like I said above you never contributed, nor tried to contribute to anything other than your xp.  I never thought you were DoW material however some people thought you would be a help.  Guess what once again I was right.  [b:3weuuj8m]Hopefully you can join Dragonsworn.  I hear they give n00bs gear and help.  [/b:3weuuj8m]
+> <strong>Medios wrote:</strong>
+> By the way. Mosaix never contributed anything to DoW. There were several arguments with him and Aaron or him and Al. There was even supposedly stuff stolen, money, eq, characters. I was never involved in any of those things and in fact tried to keep the peace. Somehow I always end up to the bad guy in some peoples minds. That is fine because I remember the whining and bitching and situations that I had to remedy. I also remember the lack of any skill on the game including soloing anything for yourself. I will not apologize because I don't follow the liberal arguments of something for nothing and welfare for all on the backs of the hard workers. I am personally relieved that I don't have to hear anymore of your bullshit in clan chat(mostly whining). Some day you will grow up and do something for yourself and find out it works alot better than bitching and moaning until someone else does it for you. You can come here and call me a racist and whatever other personal attacks you want to start. I didn't start this, but I will finish it. Your worthless in my eyes. Like I said above you never contributed, nor tried to contribute to anything other than your xp. I never thought you were DoW material however some people thought you would be a help. Guess what once again I was right. <strong>Hopefully you can join Dragonsworn. I hear they give n00bs gear and help.</strong> 
+> 
+> 
+> 
+> The fact that you take my rants against Obama as personal shows your total lack of intelligence. You want to hate someone. Someone that has different views than you. Who is being divisive? Who is the racist? Voting for someone because hes black is racist. Voting for a woman because shes a woman is sexist. Voting for a democrat because he is a democrat is ignorant. The same can be said for Republicans.
+> 
+> 
+> 
+> Now go get mad and throw a fit, I will still be here fighting the good fight.
+> 
+> 
+> 
+> Edit: I forgot to mention how when Broc was running a pthief he even stole from his own clan. I should have kicked him out then. Just wait til Aaron reads this.
 
-The fact that you take my rants against Obama as personal shows your total lack of intelligence.  You want to hate someone.  Someone that has different views than you.  Who is being divisive?  Who is the racist?  Voting for someone because hes black is racist.  Voting for a woman because shes a woman is sexist.  Voting for a democrat because he is a democrat is ignorant.  The same can be said for Republicans.
-
-Now go get mad and throw a fit, I will still be here fighting the good fight.
-
-Edit:  I forgot to mention how when Broc was running a pthief he even stole from his own clan.  I should have kicked him out then.  Just wait til Aaron reads this.[/quote:3weuuj8m]
-
-Apparently this part in bold is hard for some to understand.  It in no way calls DS n00bs.  It says they help n00bs.  Keep twisting my words when you don't have any arguments.  The point is that Mosaix = Noob period.  I am done commenting on this ignorance.  If you guys think so bad of me quit asking for help , raises and crs.  I sure don't ask for much from you.
+Apparently this part in bold is hard for some to understand. It in no way calls DS n00bs. It says they help n00bs. Keep twisting my words when you don't have any arguments. The point is that Mosaix = Noob period. I am done commenting on this ignorance. If you guys think so bad of me quit asking for help , raises and crs. I sure don't ask for much from you.
 
 </div>
 
 <div class="post" data-post-id="26102" data-author="Medios" data-date="2008-09-02T20:04:35+00:00" data-subject="">
 
-Sorry Your clan is falling apart or restructuring so to speak. 
+> <strong>alias wrote:</strong>
+> Sorry Your clan is falling apart or restructuring so to speak. 
+> 
+> Just cause a few of us in \~Dragonsworn\~ are newbs doesn't mean the clan is. Someday after 10-12 more years of playing maybe I'll not be a newb until then I'll just have fun being a newb and know my paycheck doesn't depend on my mudding ability.
+> 
+> 
+> 
+> 
+> 
+> Alias
 
-Just cause a few of us in ~Dragonsworn~ are newbs doesn't mean the clan is. Someday after 10-12 more years of playing maybe I'll not be a newb until then I'll just have fun being a newb and know my paycheck doesn't depend on my mudding ability.
+I just had to comment on this. First of all anyone that has left DoW never even fit the bill. A few guys joined us that clearly were not DoW material. After getting them eq and 5x40 they decided we are too hardcore and they would rather have a "chatty" clan. The clan is not falling apart and honestly I couldn't be happier that we lost the dead weight. I have talked to my clan mates and they could not agree more. 
 
-Alias[/quote:7654vdli]
-
-I just had to comment on this.  First of all anyone that has left DoW never even fit the bill.  A few guys joined us that clearly were not DoW material.  After getting them eq and 5x40 they decided we are too hardcore and they would rather have a "chatty" clan.  The clan is not falling apart and honestly I couldn't be happier that we lost the dead weight.  I have talked to my clan mates and they could not agree more.  
-
-We will be recruiting soon in the future.  I am sure after reading some of the lies that most new players probably think badly of us.  That is fine we don't play to impress you.  We strive to have the most knowledgeable and well equipped chars.  We want independent players who can do/learn on their own without holding hands every login.  DoW wants hardcore players, not ones who whine all day and cannot even do their own cr.  DoW supports each other.  I am sure most would not believe this due to the incessant whining by Mosaix.  So if you think you can fight the good fight and do it without crying like a newborn then our clan is for you.  If you can't take a joke or be friendly then don't talk to me.
+We will be recruiting soon in the future. I am sure after reading some of the lies that most new players probably think badly of us. That is fine we don't play to impress you. We strive to have the most knowledgeable and well equipped chars. We want independent players who can do/learn on their own without holding hands every login. DoW wants hardcore players, not ones who whine all day and cannot even do their own cr. DoW supports each other. I am sure most would not believe this due to the incessant whining by Mosaix. So if you think you can fight the good fight and do it without crying like a newborn then our clan is for you. If you can't take a joke or be friendly then don't talk to me.
 
 </div>
 
 <div class="post" data-post-id="26103" data-author="Mosaix" data-date="2008-09-02T21:07:56+00:00" data-subject="">
 
-Noob yourself :)
+Noob yourself <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-Sorry but insinuating im a racist pisses me off.  Im a bigot.  Equal oppurtunity hater.[/quote:1i6ehoee]
+> <strong>Medios wrote:</strong>
+> Sorry but insinuating im a racist pisses me off. Im a bigot. Equal oppurtunity hater.
 
 Make sure you explain up front to new clan members what you really are Mike, cause I didnt get the heads up and dealt with your trash for years.
 
@@ -246,7 +275,7 @@ There are still great players in DoW, try to be one of them.
 
 In the end your posts speak for themselves.
 
-[img:1i6ehoee]http://www.earthfrisk.com/uploads_user/1000/2/506.jpg[/img:1i6ehoee]
+![](http://www.earthfrisk.com/uploads_user/1000/2/506.jpg)
 
 Happy Mudding.
 
@@ -256,11 +285,11 @@ Happy Mudding.
 
 Y'all need to chill with the clan stuff and do something relaxing.. like fishing.
 
-That's what the [b:2jwpk3tp]=[/color:2jwpk3tp]sMAc=[/color:2jwpk3tp][/b:2jwpk3tp] clan is all about.
+That's what the <strong>\=sMAc\=</strong> clan is all about.
 
-(for the retarded amongst you, that's [b:2jwpk3tp]S[/b:2jwpk3tp]loth [b:2jwpk3tp]M[/b:2jwpk3tp]ud [b:2jwpk3tp]A[/b:2jwpk3tp]nglers [b:2jwpk3tp]C[/b:2jwpk3tp]lub).
+(for the retarded amongst you, that's <strong>S</strong>loth <strong>M</strong>ud <strong>A</strong>nglers <strong>C</strong>lub).
 
-..heck, we're so chill most of us don't even log on.  :P
+..heck, we're so chill most of us don't even log on. <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -268,7 +297,7 @@ That's what the [b:2jwpk3tp]=[/color:2jwpk3tp]sMAc=[/color:2jwpk3tp][/b:2jwpk3tp
 
 I've tried to stay away from these clan disputes because quite honestly it makes everyone look bad...it's a game afterall.
 
-sure, i've had my run-ins with many Dow members in the past, prob mostly with aaron.  but at the end of the day, I know I can count on him in the game, and even in real life if I really needed it.  Mike abuses me all the time :P and calls me silly names but it's all in the name of fun.
+sure, i've had my run-ins with many Dow members in the past, prob mostly with aaron. but at the end of the day, I know I can count on him in the game, and even in real life if I really needed it. Mike abuses me all the time <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom"> and calls me silly names but it's all in the name of fun.
 
 mike gives more to the players around then most ppl I know. of course he bitches from time to time, but at least he's not bitching about people not helping him, or blasting a respected slother who didn't give u a level 10 spellbook when u're a 5x40 tard.
 
@@ -280,13 +309,14 @@ chill and play
 
 Nubs!
 
-..........*smoke*
+..........\*smoke\*
 
 </div>
 
 <div class="post" data-post-id="26121" data-author="Mosaix" data-date="2008-09-03T13:30:18+00:00" data-subject="">
 
-chill and play[/quote:2lj5p9ut]
+> <strong>Gimlet wrote:</strong>
+> chill and play
 
 Excellent idea.
 
@@ -300,7 +330,8 @@ didn't I just say that in the previous post? lol
 
 <div class="post" data-post-id="26124" data-author="jezer" data-date="2008-09-03T14:11:49+00:00" data-subject="">
 
-didn't I just say that in the previous post? lol[/quote:33jzui9j]
+> <strong>Weasel wrote:</strong>
+> didn't I just say that in the previous post? lol
 
 Did you hear that noise Mosaix? It sounded like something scratching...
 
@@ -308,20 +339,21 @@ Did you hear that noise Mosaix? It sounded like something scratching...
 
 <div class="post" data-post-id="26125" data-author="Mosaix" data-date="2008-09-03T15:41:36+00:00" data-subject="">
 
-Y'all need to chill with the clan stuff and do something relaxing.. like fishing.[/quote:2rrvicpq]
+> <strong>Weasel wrote:</strong>
+> Y'all need to chill with the clan stuff and do something relaxing.. like fishing.
 
-You were correct, and was content to let your post close out the thread.  It said enough.
+You were correct, and was content to let your post close out the thread. It said enough.
 
 </div>
 
 <div class="post" data-post-id="26126" data-author="Mosaix" data-date="2008-09-03T15:46:57+00:00" data-subject="">
 
-[img:2f7m144k]http://i45.photobucket.com/albums/f91/aprilp828v/LOLs/funny-dog-pictures-weasel-be-gone-d.jpg[/img:2f7m144k]
+![](http://i45.photobucket.com/albums/f91/aprilp828v/LOLs/funny-dog-pictures-weasel-be-gone-d.jpg)
 
 </div>
 
 <div class="post" data-post-id="26127" data-author="Weasel" data-date="2008-09-03T17:47:08+00:00" data-subject="">
 
-lol great pic! haven't seen that one before, thanks :)
+lol great pic! haven't seen that one before, thanks <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

@@ -20,7 +20,7 @@ The skill does not provide any character power, but it reduces the annoyance of 
 
 Suggested level: 20 avatar
 
-Usage: <skillname> "spellname"
+Usage: \<skillname\> "spellname"
 
 </div>
 
@@ -52,21 +52,21 @@ Agree that on high levels keep all spells up is a problem, but not the unsolvabl
 
 <div class="post" data-post-id="34555" data-author="Marvel" data-date="2013-11-09T13:12:56+00:00" data-subject="Re: A new skill to help avatars keep spells up.">
 
-> **Yasik wrote:**
+> <strong>Yasik wrote:</strong>
 > Not sure if anyone still using telnet, it is so much inferior to specialized mud clients that barely allows playing aside from just standing at recall and watching whats happening.
 
-I use telnet (Lore/Rain). On a mobile phone, no less. I've found telnet to be the far superior alternative to a client, but then again I'm already certifiably insane*.
+I use telnet (Lore/Rain). On a mobile phone, no less. I've found telnet to be the far superior alternative to a client, but then again I'm already certifiably insane\*.
 
-* - You get a Level 1 Captain Insano certificate for leveling a bard prime to avatar.
+\* - You get a Level 1 Captain Insano certificate for leveling a bard prime to avatar.
 
 </div>
 
 <div class="post" data-post-id="34556" data-author="Yasik" data-date="2013-11-09T16:55:27+00:00" data-subject="Re: A new skill to help avatars keep spells up.">
 
-> **Marvel wrote:**
-> I use telnet (Lore/Rain). On a mobile phone, no less. I've found telnet to be the far superior alternative to a client, but then again I'm already certifiably insane*.
+> <strong>Marvel wrote:</strong>
+> I use telnet (Lore/Rain). On a mobile phone, no less. I've found telnet to be the far superior alternative to a client, but then again I'm already certifiably insane\*.
 
-So, you typing "*cast 'stone skin' lore*" letter by letter every time it falls? On the phone? Other bunch of spells too? And you buff your undead same way, right?
+So, you typing "<em>cast 'stone skin' lore</em>" letter by letter every time it falls? On the phone? Other bunch of spells too? And you buff your undead same way, right?
 
 You doing dumb job that wastes your time, which is limited resource. You can do whatever you like, however. Personally, I prefer to concentrate on important stuff rather than routine, that is why scripting languages are invented and implemented.
 
@@ -74,8 +74,8 @@ You doing dumb job that wastes your time, which is limited resource. You can do 
 
 <div class="post" data-post-id="34557" data-author="Marvel" data-date="2013-11-09T18:26:21+00:00" data-subject="Re: A new skill to help avatars keep spells up.">
 
-> **Yasik wrote:**
-> So, you typing "*cast 'stone skin' lore*" letter by letter every time it falls? On the phone? Other bunch of spells too? And you buff your undead same way, right?
+> <strong>Yasik wrote:</strong>
+> So, you typing "<em>cast 'stone skin' lore</em>" letter by letter every time it falls? On the phone? Other bunch of spells too? And you buff your undead same way, right?
 
 Gee um, wouldn't it be neat if they created some sort of thing stored on the server that let you save these kind of strings? Mmm... couldn't be called 'aliases'. Oh wow. Besides, there's a Sloth fable about some nub who got to 5x20 without using pets, "because pets are dumb and not worth the time".
 
@@ -87,7 +87,7 @@ Mmmkay. [/troll]
 
 Just checked - I have 611 aliases, 1353 triggers and 1981 lines of scripts with total size 51848 bytes.
 
-Good luck putting all that on server side's 20 aliases  :P Those are not supporting even 2 commands in 1 alias separated by semicolon.
+Good luck putting all that on server side's 20 aliases <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom"> Those are not supporting even 2 commands in 1 alias separated by semicolon.
 
 </div>
 
@@ -113,10 +113,10 @@ Splork
 
 <div class="post" data-post-id="34564" data-author="Marvel" data-date="2013-11-11T02:42:30+00:00" data-subject="Re: A new skill to help avatars keep spells up.">
 
-> **Yasik wrote:**
+> <strong>Yasik wrote:</strong>
 > Just checked - I have 611 aliases, 1353 triggers and 1981 lines of scripts with total size 51848 bytes.
 > 
-> Good luck putting all that on server side's 20 aliases  :P Those are not supporting even 2 commands in 1 alias separated by semicolon.
+> Good luck putting all that on server side's 20 aliases <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom"> Those are not supporting even 2 commands in 1 alias separated by semicolon.
 
 Here's the kicker... (and proof that Ozzy is just as big of a nub as we always knew he was). There's 100 server alias slots.
 

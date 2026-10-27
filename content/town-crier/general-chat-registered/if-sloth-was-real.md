@@ -74,7 +74,7 @@ http://www.youtube.com/watch?v=xI6TRTBZUMM
 
 Gods of War...
 
-<LINK_TEXT text="http://www.youtube.com/watch?v=UmPVoln2 ... ure=fvwrel">http://www.youtube.com/watch?v=UmPVoln22Cw&feature=fvwrel</LINK_TEXT>
+http://www.youtube.com/watch?v=UmPVoln22Cw&feature=fvwrel
 
 </div>
 
@@ -122,7 +122,7 @@ http://www.youtube.com/watch?v=jUi68aPYP5k
 
 Bodyslam
 
-<LINK_TEXT text="http://www.youtube.com/watch?v=isfn4OxC ... re=related">http://www.youtube.com/watch?v=isfn4OxCPQs&feature=related</LINK_TEXT>
+http://www.youtube.com/watch?v=isfn4OxCPQs&feature=related
 
 </div>
 

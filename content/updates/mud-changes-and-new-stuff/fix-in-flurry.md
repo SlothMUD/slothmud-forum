@@ -26,7 +26,7 @@ Best regards.
 
 <div class="post" data-post-id="34260" data-author="*Splork*" data-date="2013-04-26T00:32:36+00:00" data-subject="Re: Fix in flurry">
 
-Flurry has been adjusted slightly due to the lack of use and annoyance of the previous adjustment. It has had  the lag cut in half and should be much more tolerable. 
+Flurry has been adjusted slightly due to the lack of use and annoyance of the previous adjustment. It has had the lag cut in half and should be much more tolerable. 
 
 Hope this change helps,
 

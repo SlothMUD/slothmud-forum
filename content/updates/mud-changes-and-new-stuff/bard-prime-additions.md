@@ -12,91 +12,91 @@ post_count: 2
 
 <div class="post" data-post-id="29839" data-author="*Splork*" data-date="2009-08-17T00:20:30+00:00" data-subject="bard prime additions">
 
-1) Song of the Mist
+1\) Song of the Mist
 
 "SONG OF THE MIST"
 
-Usage:         sing 'song of the mist'
+Usage: sing 'song of the mist'
 
-Cost:          32 mana
+Cost: 32 mana
 
-Level:         Bard 22
+Level: Bard 22
 
-Duration:      Length of Song
+Duration: Length of Song
 
-Accumulative:  -
+Accumulative: -
 
-Save Versus:   ?
+Save Versus: ?
 
-Damage Type:   -
+Damage Type: -
 
-Stratum:       -
+Stratum: -
 
-Spellbook:     an ethereal tome
+Spellbook: an ethereal tome
 
-Prerequisite:  -
+Prerequisite: -
 
-See Also:      -
+See Also: -
 
 This song enables the singer and possibly one other character to damage
 
 an ethereal or astral mob with their physical attacks.
 
-2) Knights blessing
+2\) Knights blessing
 
 "KNIGHTS BLESSING"
 
-Usage:         sing 'knights blessing'
+Usage: sing 'knights blessing'
 
-Cost:          20 mana
+Cost: 20 mana
 
-Level:         Bard 21
+Level: Bard 21
 
-Duration:      Length of Song
+Duration: Length of Song
 
-Accumulative:  -
+Accumulative: -
 
-Save Versus:   -
+Save Versus: -
 
-Damage Type:   -
+Damage Type: -
 
-Stratum:       -
+Stratum: -
 
-Spellbook:     a knights blessing
+Spellbook: a knights blessing
 
-Prerequisite:  -
+Prerequisite: -
 
-See Also:      KNIGHTS PRAYER
+See Also: KNIGHTS PRAYER
 
 This song allows a bard prime, with the right equipment, to reach -1 ac better than
 
 any other class except that of a warrior prime.
 
-3) Knights Prayer
+3\) Knights Prayer
 
 "KNIGHTS PRAYER"
 
-Usage:         sing 'knights blessing'
+Usage: sing 'knights blessing'
 
-Cost:          20 mana
+Cost: 20 mana
 
-Level:         Avatar Bard 6
+Level: Avatar Bard 6
 
-Duration:      Length of song
+Duration: Length of song
 
-Accumulative:  -
+Accumulative: -
 
-Save Versus:   -
+Save Versus: -
 
-Damage Type:   -
+Damage Type: -
 
-Stratum:       -
+Stratum: -
 
-Spellbook:     a knights prayer
+Spellbook: a knights prayer
 
-Prerequisite:  -
+Prerequisite: -
 
-See Also:      KNIGHTS BLESSING
+See Also: KNIGHTS BLESSING
 
 This song thae avatar version of knights blessing which allows a bard prime, with the right equipment, to reach -1 ac better than
 
@@ -112,17 +112,17 @@ These are going ingame during tomorrow's reboot.
 
 <div class="post" data-post-id="29863" data-author="*Splork*" data-date="2009-08-19T00:15:34+00:00" data-subject="">
 
-1) dance with the dead
+1\) dance with the dead
 
 "DANCE WITH THE DEAD"
 
-See Also:     cast play sing death
+See Also: cast play sing death
 
-Level:        Bard prime 30
+Level: Bard prime 30
 
-Manual:       A guide of preparation
+Manual: A guide of preparation
 
-Duration:     innate
+Duration: innate
 
 This is an innate skill. Once this skill is learned, the bard prime has the
 

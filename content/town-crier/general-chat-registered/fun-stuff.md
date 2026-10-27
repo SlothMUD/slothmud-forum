@@ -32,13 +32,13 @@ i get almsot less xp compared to a 3x40..
 
 do look into it
 
-[40w 40n 40c 40d 40t 30b 24m 22o  5a] Godz
+[40w 40n 40c 40d 40t 30b 24m 22o 5a] Godz
 
-[40m 40c 40d 40w 38t 24n 21b 18o  5a] Tuk
+[40m 40c 40d 40w 38t 24n 21b 18o 5a] Tuk
 
 [40n 40d 40c 31w 26m 23t 20b 20o] Necro
 
-[40t 40w 40c 40b 25o 22m 14n 12d  5a] Stab
+[40t 40w 40c 40b 25o 22m 14n 12d 5a] Stab
 
 </div>
 
@@ -100,7 +100,7 @@ Splork
 
 <div class="post" data-post-id="31041" data-author="Bazilus" data-date="2010-04-09T13:53:25+00:00" data-subject="">
 
-Hehe, Tuk drags! Hey Sa, how are you? :P
+Hehe, Tuk drags! Hey Sa, how are you? <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -112,7 +112,8 @@ hi bazi,comin back?
 
 <div class="post" data-post-id="31045" data-author="Tuck" data-date="2010-04-10T22:12:40+00:00" data-subject="">
 
-Hehe, Tuk drags! Hey Sa, how are you? :P[/quote:l22p8bov]
+> <strong>Bazilus wrote:</strong>
+> Hehe, Tuk drags! Hey Sa, how are you? <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 Hey Bazi, come along with us
 

@@ -20,7 +20,7 @@ I figured it would be a good idea to bring back the live cvs logs and spend the 
 
 Hopefully, the last 3 years of entries are now available, happy hunting.
 
-There has been a tremendous amount of work done lately, mostly by Teker. We are now able to buy and connect our own vaults/rooms,  and builders are now able to replace the old TrigTrap system with custom room KVPS which are unique to SlothMUD. MUDL has also taken another step forward. Too many  changes to actually list.
+There has been a tremendous amount of work done lately, mostly by Teker. We are now able to buy and connect our own vaults/rooms, and builders are now able to replace the old TrigTrap system with custom room KVPS which are unique to SlothMUD. MUDL has also taken another step forward. Too many changes to actually list.
 
 Please browse the last few years of logs.
 

@@ -48,23 +48,23 @@ coders had fun reading my silly proposal , but i believe attunement to
 
 channelling should give a noticable advantage even to high mages 
 
-sometimes :P
+sometimes <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="11947" data-author="Guinex" data-date="2006-04-05T17:44:26+00:00" data-subject="">
 
-While your at it double my necro attune saves to pls ;) and ty.
+While your at it double my necro attune saves to pls <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom"> and ty.
 
 </div>
 
 <div class="post" data-post-id="11948" data-author="Autolycos" data-date="2006-04-05T17:51:05+00:00" data-subject="">
 
-ah hell no.....  
+ah hell no..... 
 
 the last thing we need is your scrubby ass gettin any more powerful.
 
- :evil:
+ <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -76,11 +76,12 @@ Pfffft! I r weak
 
 <div class="post" data-post-id="11950" data-author="Vixn" data-date="2006-04-05T18:57:00+00:00" data-subject="">
 
-Pfffft! I r weak[/quote:bins8sck]
+> <strong>Guinex wrote:</strong>
+> Pfffft! I r weak
 
 You are.. because of smoking. Remember - nicotine kills you. 
 
- 8)
+ <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -92,7 +93,7 @@ It's been proven that smokers make weaker undeads, however, non-smokers take too
 
 <div class="post" data-post-id="11952" data-author="Medios" data-date="2006-04-05T20:32:18+00:00" data-subject="">
 
-Due to the fact that mages just got more spells with xtra gravy bonuses, and they just got added spelldamage.  I say channeling attunement should add +1 stfu.  Everyone knows enhancement is the attune to get.
+Due to the fact that mages just got more spells with xtra gravy bonuses, and they just got added spelldamage. I say channeling attunement should add +1 stfu. Everyone knows enhancement is the attune to get.
 
 Mike
 
@@ -100,15 +101,15 @@ Mike
 
 <div class="post" data-post-id="11953" data-author="Autolycos" data-date="2006-04-05T20:40:54+00:00" data-subject="">
 
-i agree with mike on the +1 stfu.. :twisted: 
+i agree with mike on the +1 stfu.. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-but if ya want enhancement..  
+but if ya want enhancement.. 
 
-[i:1xg2jo1e][b:1xg2jo1e]buy Cialis, 
+<em><strong>buy Cialis, </strong></em>
 
-it worked for Jake, it can work for you![/b:1xg2jo1e][/i:1xg2jo1e][/size:1xg2jo1e]
+<em><strong>it worked for Jake, it can work for you!</strong></em>
 
-[img:1xg2jo1e]http://www.deliverydrugs.com/Images/pro-cialis.gif[/img:1xg2jo1e]
+![](http://www.deliverydrugs.com/Images/pro-cialis.gif)
 
 </div>
 
@@ -122,7 +123,7 @@ it's enhancement attunement that i want?
 
 <div class="post" data-post-id="11958" data-author="Autolycos" data-date="2006-04-05T22:22:36+00:00" data-subject="">
 
-give up man.. merlin will always chase off the girls before you get a chance  :shock:
+give up man.. merlin will always chase off the girls before you get a chance <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -134,15 +135,16 @@ If you doubt how often Attunement to Channeling makes a difference, watch a Prim
 
 <div class="post" data-post-id="11963" data-author="kjartan" data-date="2006-04-06T05:09:39+00:00" data-subject="">
 
-Even so, I upped it a bit.  Falsra guessed right how it worked; I added another +1 to what she had quoted.  Incor.
+Even so, I upped it a bit. Falsra guessed right how it worked; I added another +1 to what she had quoted. Incor.
 
 </div>
 
 <div class="post" data-post-id="11964" data-author="Falsra" data-date="2006-04-06T08:58:11+00:00" data-subject="">
 
-If you doubt how often Attunement to Channeling makes a difference, watch a Prime Mage Acid Blind stuff. It makes considerable difference in that, so they are failing saves much more often, even on big things.[/quote:3c5oa0ki]
+> <strong>Tetsulunathaya wrote:</strong>
+> If you doubt how often Attunement to Channeling makes a difference, watch a Prime Mage Acid Blind stuff. It makes considerable difference in that, so they are failing saves much more often, even on big things.
 
-Guess you mean Acid Blast spell :)
+Guess you mean Acid Blast spell <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 I attuned self to channelling long long ago and paid attention to the spells
 
@@ -150,9 +152,10 @@ with noticable falied save effect like acid blast. I saw almost no difference.
 
 But shrugs - may be just my bad luck.
 
-Even so, I upped it a bit.  Falsra guessed right how it worked; I added another +1 to what she had quoted.  Incor.[/quote:3c5oa0ki]
+> <strong>\*kjartan\* wrote:</strong>
+> Even so, I upped it a bit. Falsra guessed right how it worked; I added another +1 to what she had quoted. Incor.
 
-Wheeee!!! I guessed right! unbelievable!  :twisted: 
+Wheeee!!! I guessed right! unbelievable! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 Many thanks Kj for the change!
 
@@ -160,9 +163,10 @@ Many thanks Kj for the change!
 
 <div class="post" data-post-id="11965" data-author="Falsra" data-date="2006-04-06T09:00:23+00:00" data-subject="">
 
-If you doubt how often Attunement to Channeling makes a difference, watch a Prime Mage Acid Blind stuff. It makes considerable difference in that, so they are failing saves much more often, even on big things.[/quote:iup293iv]
+> <strong>Tetsulunathaya wrote:</strong>
+> If you doubt how often Attunement to Channeling makes a difference, watch a Prime Mage Acid Blind stuff. It makes considerable difference in that, so they are failing saves much more often, even on big things.
 
-Guess you mean Acid Blast spell :)
+Guess you mean Acid Blast spell <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 I attuned self to channelling long long ago and paid attention to the spells
 
@@ -170,9 +174,10 @@ with noticable falied save effect like acid blast. I saw almost no difference.
 
 But shrugs - may be just my bad luck.
 
-Even so, I upped it a bit.  Falsra guessed right how it worked; I added another +1 to what she had quoted.  Incor.[/quote:iup293iv]
+> <strong>\*kjartan\* wrote:</strong>
+> Even so, I upped it a bit. Falsra guessed right how it worked; I added another +1 to what she had quoted. Incor.
 
-Wheeee!!! I guessed right! unbelievable!  :twisted: 
+Wheeee!!! I guessed right! unbelievable! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 Many thanks Kj for the change!
 
@@ -182,17 +187,18 @@ Many thanks Kj for the change!
 
 Heh, with double posts like i made below i have a chance to beat even Weasel!
 
- :lol:
+ <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="11973" data-author="Autolycos" data-date="2006-04-06T13:41:24+00:00" data-subject="">
 
-Heh, with double posts like i made below i have a chance to beat even Weasel!
+> <strong>Falsra wrote:</strong>
+> Heh, with double posts like i made below i have a chance to beat even Weasel!
+> 
+> <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
- :lol:[/quote:3dsj9lfg]
-
-HA!  but you will never beat me!  :twisted:
+HA! but you will never beat me! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -204,12 +210,12 @@ I got one point from this. Falsra is a girl! Mwahahaha.
 
 <div class="post" data-post-id="11980" data-author="Autolycos" data-date="2006-04-06T21:29:50+00:00" data-subject="">
 
-Oleg is such a naughty little monkey  :twisted:
+Oleg is such a naughty little monkey <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="11984" data-author="Rynquald" data-date="2006-04-06T23:45:42+00:00" data-subject="">
 
-Thanks for the change KJ :)
+Thanks for the change KJ <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

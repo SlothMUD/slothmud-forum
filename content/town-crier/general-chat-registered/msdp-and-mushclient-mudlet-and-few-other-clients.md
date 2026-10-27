@@ -14,7 +14,7 @@ post_count: 12
 
 I have been working on MSDP lately, it is a mud protocol which can be found at [http://tintin.sourceforge.net/msdp/](http://tintin.sourceforge.net/msdp/)
 
-With the help of Kavir, from Godwars2( http://www.godwars2.org ), we have the protocol fully functioning and running on one of our test ports.  kavir has also created a few generic GUIs with both Mudlet and Mushclient to go with the protocol. I've tweaked the Mushclient one quite a bit and the results are as follows:
+With the help of Kavir, from Godwars2( http://www.godwars2.org ), we have the protocol fully functioning and running on one of our test ports. kavir has also created a few generic GUIs with both Mudlet and Mushclient to go with the protocol. I've tweaked the Mushclient one quite a bit and the results are as follows:
 
 http://www.slothmud.org/images/splork/v2.5%20MC.PNG
 
@@ -44,15 +44,15 @@ The majority of the information will also be available through MXP, but there is
 
 Kavir ( as mentioned in the previous post ) has provided the MUD community with a protocols snippet. This snippet adds support for TTYPE, NAWS, MSDP, ATCP, MSSP, MSP and MXP, as well as UTF-8 (using CHARSET) and XTerm 256 colors.
 
-<LINK_TEXT text="http://www.topmudsites.com/forums/mud-c ... ippet.html">http://www.topmudsites.com/forums/mud-coding/6418-gui-snippet.html</LINK_TEXT>
+http://www.topmudsites.com/forums/mud-coding/6418-gui-snippet.html
 
 For the most part, SlothMUD has had most of this since Sept 25, 2005. 
 
-<LINK_TEXT text="http://www.slothmud.org/forum/viewtopic ... 8824#p8824">http://www.slothmud.org/forum/viewtopic.php?f=26&t=1463&p=8824#p8824</LINK_TEXT>
+http://www.slothmud.org/forum/viewtopic.php?f=26&t=1463&p=8824#p8824
 
 We even have a command, thanks to Isabo, which shows us which players are using certain clients and what protocols these clients and players have access to. 
 
-With the help of Kavir's snippet and kavir himself, we have meshed together our old protocols code and his snippet to add a few more options to our game.  Once added, we will support MSDP, ATCP, and UTF-8, to go along with the others which we already had. 
+With the help of Kavir's snippet and kavir himself, we have meshed together our old protocols code and his snippet to add a few more options to our game. Once added, we will support MSDP, ATCP, and UTF-8, to go along with the others which we already had. 
 
 Splork
 
@@ -88,13 +88,13 @@ Splork
 
 <div class="post" data-post-id="33345" data-author="Stark" data-date="2012-06-27T19:42:06+00:00" data-subject="Re: MSDP and Mushclient/Mudlet and few other clients">
 
-Woohoo!  Thanks, Splork!  I've been waiting on this as an excuse to wipe my scripts and start from scratch.  
+Woohoo! Thanks, Splork! I've been waiting on this as an excuse to wipe my scripts and start from scratch. 
 
-A couple questions (because I'm excited and can't just wait and find out): When you say it will show % hp for opponent, is that the same data as the web client gets?  Will we also get raw hp numbers of opponent? (1348/2048 hp)  Are there any other pieces of new data that we'll be able to get via MSDP?
+A couple questions (because I'm excited and can't just wait and find out): When you say it will show % hp for opponent, is that the same data as the web client gets? Will we also get raw hp numbers of opponent? (1348/2048 hp) Are there any other pieces of new data that we'll be able to get via MSDP?
 
 Now I just need to get myself a new laptop that works.
 
-P.S.- It looks like you've got quite a load of drachma you're carrying around.  I'd be more than happy to lighten your load a bit.  :P  I'm also a bit sad we don't get a glimpse at the room description for Splork's Abode.
+P.S.- It looks like you've got quite a load of drachma you're carrying around. I'd be more than happy to lighten your load a bit. <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom"> I'm also a bit sad we don't get a glimpse at the room description for Splork's Abode.
 
 </div>
 
@@ -134,165 +134,165 @@ The following variables are currently set by Slothmud. If you wish additional va
 
 send request to splork@slothmud.org
 
-          SERVERID
+ SERVERID
 
-         WORLDTIME
+ WORLDTIME
 
-         CHARACTERNAME
+ CHARACTERNAME
 
-         LEVEL
+ LEVEL
 
-         CLASS
+ CLASS
 
-         HEALTH
+ HEALTH
 
-         HEALTHMAX
+ HEALTHMAX
 
-         MANA
+ MANA
 
-         MANAMAX
+ MANAMAX
 
-         MOVEMENT
+ MOVEMENT
 
-         MOVEMENTMAX
+ MOVEMENTMAX
 
-         AC
+ AC
 
-         HONOR
+ HONOR
 
-         DRACHMA
+ DRACHMA
 
-         ALIGNMENT
+ ALIGNMENT
 
-         EXPERIENCE
+ EXPERIENCE
 
-         MONEY
+ MONEY
 
-         STR
+ STR
 
-         CON
+ CON
 
-         DEX
+ DEX
 
-         WIS
+ WIS
 
-         INT
+ INT
 
-         STRPERM
+ STRPERM
 
-         CONPERM
+ CONPERM
 
-         DEXPERM
+ DEXPERM
 
-         WISPERM
+ WISPERM
 
-         INTPERM
+ INTPERM
 
-         HITROLL
+ HITROLL
 
-         DAMROLL
+ DAMROLL
 
-         OPPONENTHEALTH
+ OPPONENTHEALTH
 
-         OPPONENTHEALTHMAX
+ OPPONENTHEALTHMAX
 
-         OPPONENTLEVEL
+ OPPONENTLEVEL
 
-         OPPONENTNAME
+ OPPONENTNAME
 
-         AREANAME
+ AREANAME
 
-         ROOMNAME
+ ROOMNAME
 
-         ROOMVNUM
+ ROOMVNUM
 
-         TERRAIN
+ TERRAIN
 
-         CONTINENT
+ CONTINENT
 
-         WEAPONDAM,
+ WEAPONDAM,
 
-         WEAPON_DAM,
+ WEAPON\_DAM,
 
-         STAB_DAM,                               
+ STAB\_DAM, 
 
-         STAB_DAM_CAP,
+ STAB\_DAM\_CAP,
 
-         UNDEAD_CONT,
+ UNDEAD\_CONT,
 
-         UNDEAD_CONT_CAP,
+ UNDEAD\_CONT\_CAP,
 
-         SPELL_BONUS,
+ SPELL\_BONUS,
 
-        SPELL_BONUS_CAP,
+ SPELL\_BONUS\_CAP,
 
-        HEAL_BONUS,
+ HEAL\_BONUS,
 
-        HEAL_BONUS_CAP,
+ HEAL\_BONUS\_CAP,
 
-        CHARISMA,
+ CHARISMA,
 
-        CHARISMA_CAP,
+ CHARISMA\_CAP,
 
-        FLAILDAM,                         
+ FLAILDAM, 
 
-        KICKDAM,
+ KICKDAM,
 
-        HAND_DAM,
+ HAND\_DAM,
 
-        HAND_DAM_CAP,
+ HAND\_DAM\_CAP,
 
-        DAM_RED,
+ DAM\_RED,
 
-        DAM_RED_CAP,
+ DAM\_RED\_CAP,
 
-        SEX,
+ SEX,
 
-        GROUP_LEADER,
+ GROUP\_LEADER,
 
-        TANK_HEALTH,
+ TANK\_HEALTH,
 
-        TANK_HEALTH_MAX,
+ TANK\_HEALTH\_MAX,
 
-        TANK_LEVEL,
+ TANK\_LEVEL,
 
-        TANK_NAME,
+ TANK\_NAME,
 
-        LEVEL_SEC,
+ LEVEL\_SEC,
 
-        LEVEL_TER,
+ LEVEL\_TER,
 
-        LEVEL_QUA,
+ LEVEL\_QUA,
 
-        LEVEL_QUI,
+ LEVEL\_QUI,
 
-        LEVEL_HEX,
+ LEVEL\_HEX,
 
-        LEVEL_SEP,
+ LEVEL\_SEP,
 
-        LEVEL_OCT,             
+ LEVEL\_OCT, 
 
-        LEVEL_AVA,
+ LEVEL\_AVA,
 
-        CITIZEN,
+ CITIZEN,
 
-        CLASS,
+ CLASS,
 
-        CLASS_SEC,
+ CLASS\_SEC,
 
-        CLASS_TER,
+ CLASS\_TER,
 
-        CLASS_QUA,
+ CLASS\_QUA,
 
-        CLASS_QUI,
+ CLASS\_QUI,
 
-        CLASS_HEX,
+ CLASS\_HEX,
 
-        CLASS_SEP,
+ CLASS\_SEP,
 
-        CLASS_OCT,              
+ CLASS\_OCT, 
 
-        CLASS_AVA,
+ CLASS\_AVA,
 
 </div>
 
@@ -302,7 +302,7 @@ Thanks for clarifying and for the list of variables.
 
 Am I correct in thinking that we will be given the exact max hp number from the OPPONENTHEALTHMAX variable, and so we can figure the current hp of the mob down to 2 significant digits using the % from OPPONENTHEALTH?
 
-Having the OPPONENTLEVEL and OPPONENTNAME are nice additions to have, and seem straight forward on how to use them.  
+Having the OPPONENTLEVEL and OPPONENTNAME are nice additions to have, and seem straight forward on how to use them. 
 
 I assume TERRAIN will tell you whether you're underwater/flying/on the ground, etc?
 
@@ -322,7 +322,7 @@ Good job, Rickster.
 
 <div class="post" data-post-id="33397" data-author="Magi" data-date="2012-07-26T14:03:38+00:00" data-subject="Re: MSDP and Mushclient/Mudlet and few other clients">
 
-Anxiously awaiting news that MSDP is on the live server, and that it works in Wintin.Net :)
+Anxiously awaiting news that MSDP is on the live server, and that it works in Wintin.Net <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -338,21 +338,21 @@ MSDP works with Mushclient, Mudlet, CMUD, Zmud, tintin, and one of our players h
 
 <div class="post" data-post-id="33416" data-author="harik" data-date="2012-08-02T16:36:12+00:00" data-subject="Re: MSDP and Mushclient/Mudlet and few other clients">
 
-> ***Splork* wrote:**
+> <strong>\*Splork\* wrote:</strong>
 > MSDP works with Mushclient, Mudlet, CMUD, Zmud, tintin, and one of our players has recently finished an update to TinyFugue which has this feature. He will be adding it relatively soon to the Mudbytes site.
 
-Actually I ended up putting the code on github since I do all my work in git anyway.   This should work for everybody except windows, and even then anyone who could build normal tinyfugye5 for windows should be able to build this.
+Actually I ended up putting the code on github since I do all my work in git anyway. This should work for everybody except windows, and even then anyone who could build normal tinyfugye5 for windows should be able to build this.
 
 [https://github.com/harikattar/tinyfugue5-msdp](https://github.com/harikattar/tinyfugue5-msdp)
 
 Todo: testing on live server, documenting the /msdp command.
 
-Hit me up in-game (harik/kirah) with any questions.  I also have a fairly large collection of useful scripts for sloth, including in-game item property tags.
+Hit me up in-game (harik/kirah) with any questions. I also have a fairly large collection of useful scripts for sloth, including in-game item property tags.
 
 </div>
 
 <div class="post" data-post-id="33440" data-author="Tuck" data-date="2012-08-12T02:26:14+00:00" data-subject="Re: MSDP and Mushclient/Mudlet and few other clients">
 
-*BUMP* for MSDP on LIVE server.
+\*BUMP\* for MSDP on LIVE server.
 
 </div>

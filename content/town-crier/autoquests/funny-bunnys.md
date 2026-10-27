@@ -38,7 +38,7 @@ Ires (gossip): ...You're not an admin of that server?
 
 Akkursed (gossip): no
 
-Khorii (gossip): sunflash name that name has not  been born into this world.
+Khorii (gossip): sunflash name that name has not been born into this world.
 
 Akkursed (gossip): a player named sa could also be doing it
 
@@ -98,7 +98,8 @@ Could be one of our problem children trying to cause trouble. One name in partic
 
 <div class="post" data-post-id="25595" data-author="angel" data-date="2008-08-05T13:32:58+00:00" data-subject="">
 
-Could be one of our problem children trying to cause trouble. One name in particular comes to mind.[/quote:z80ivdf5]
+> <strong>juggleblood wrote:</strong>
+> Could be one of our problem children trying to cause trouble. One name in particular comes to mind.
 
 could that be a thief yer thinking bout?:)
 
@@ -112,19 +113,20 @@ is it me or do people on other muds always seem like a pack of pretentious faggo
 
 <div class="post" data-post-id="25598" data-author="Weasel" data-date="2008-08-05T15:04:46+00:00" data-subject="">
 
-I think it's all that role-playing bullsh*t that does it to them. I mean come on, how long can one run around yelling things like, "hark! doth thou hear the sound of prancing fairies in yonder meadow?" without completely losing a grip on reality..
+I think it's all that role-playing bullsh\*t that does it to them. I mean come on, how long can one run around yelling things like, "hark! doth thou hear the sound of prancing fairies in yonder meadow?" without completely losing a grip on reality..
 
 </div>
 
 <div class="post" data-post-id="25599" data-author="13" data-date="2008-08-05T15:32:41+00:00" data-subject="">
 
-In fact I think they probably do hear the sound of prancing fairies in yon meadow.  That shit is real gay.
+In fact I think they probably do hear the sound of prancing fairies in yon meadow. That shit is real gay.
 
 </div>
 
 <div class="post" data-post-id="25608" data-author="brady" data-date="2008-08-05T20:12:52+00:00" data-subject="">
 
-is it me or do people on other muds always seem like a pack of pretentious faggots, while we, all seem perfectly sane and reasonable?[/quote:1zjgmw87]
+> <strong>13 wrote:</strong>
+> is it me or do people on other muds always seem like a pack of pretentious faggots, while we, all seem perfectly sane and reasonable?
 
 Yeah, it's you.
 
@@ -138,6 +140,6 @@ we should just send polk to their forum
 
 <div class="post" data-post-id="25610" data-author="Weasel" data-date="2008-08-05T21:11:25+00:00" data-subject="">
 
-lol.. yeah that'll freak them out.  :D
+lol.. yeah that'll freak them out. <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>

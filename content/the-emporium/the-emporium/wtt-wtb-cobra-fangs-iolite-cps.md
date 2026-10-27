@@ -36,6 +36,6 @@ Ask me if u wanna trade. tks.
 
 <div class="post" data-post-id="2544" data-author="impz" data-date="2004-11-03T07:51:43+00:00" data-subject="">
 
-got it , tks  :lol:
+got it , tks <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>

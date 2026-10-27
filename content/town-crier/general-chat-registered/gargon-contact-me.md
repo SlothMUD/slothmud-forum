@@ -64,7 +64,7 @@ Hades you tosser, stop posting this irrelevant shit in every fucking thread.
 
 <div class="post" data-post-id="18971" data-author="Hades" data-date="2007-06-19T09:48:01+00:00" data-subject="Weasel you wanker!">
 
-Don't you have some corm to locate? Bugger off. :evil:
+Don't you have some corm to locate? Bugger off. <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -76,7 +76,7 @@ you're just jealous
 
 <div class="post" data-post-id="18974" data-author="Hades" data-date="2007-06-19T10:15:07+00:00" data-subject="So easy a caveman could do it">
 
-[<LINK_TEXT text="http://www.shockabilly.com/videos/170_R ... ial%21.php">http://www.shockabilly.com/videos/170_Really_Old_Flintstones_Winston_Cigarette_Commercial%21.php</LINK_TEXT>](http://www.shockabilly.com/videos/170_Really_Old_Flintstones_Winston_Cigarette_Commercial%21.php)
+[http://www.shockabilly.com/videos/170_Really_Old_Flintstones_Winston_Cigarette_Commercial%21.php](http://www.shockabilly.com/videos/170_Really_Old_Flintstones_Winston_Cigarette_Commercial%21.php)
 
 </div>
 
@@ -88,7 +88,7 @@ At this point I don't think anyone whatsoever is interested in hades or any of t
 
 <div class="post" data-post-id="18976" data-author="Autolycos" data-date="2007-06-19T14:21:20+00:00" data-subject="">
 
-indeed..   
+indeed.. 
 
 maybe hades needs his own thread all by himself so he can whack off in the corner alone like a spider monkey and congratulate himself.
 
@@ -96,7 +96,7 @@ maybe hades needs his own thread all by himself so he can whack off in the corne
 
 <div class="post" data-post-id="18980" data-author="Yinao" data-date="2007-06-19T15:03:38+00:00" data-subject="">
 
-Gawd, sounds like we need a gag command for criers now how pathetic. :roll:
+Gawd, sounds like we need a gag command for criers now how pathetic. <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -104,7 +104,7 @@ Gawd, sounds like we need a gag command for criers now how pathetic. :roll:
 
 Did Yiano post something lately? I miss his wise and funny posts.
 
-Oh btw what does these blank lines on crier mean?    :wink:
+Oh btw what does these blank lines on crier mean? <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -112,7 +112,7 @@ Oh btw what does these blank lines on crier mean?    :wink:
 
 LMFAO!!!! 
 
-hahahahaha :twisted:
+hahahahaha <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -130,33 +130,33 @@ Hate me if you want to, love me if you can.
 
 <div class="post" data-post-id="18991" data-author="12345" data-date="2007-06-20T01:14:55+00:00" data-subject="">
 
-Weasel, I've discovered that if you read any two of the hundred or so mindless articles Hades has posted you'll quickly understand why nothing Hades posts has any value.  If all you read was pointless tabloid garbage all day, you'd be just as useless as Hades.
+Weasel, I've discovered that if you read any two of the hundred or so mindless articles Hades has posted you'll quickly understand why nothing Hades posts has any value. If all you read was pointless tabloid garbage all day, you'd be just as useless as Hades.
 
 </div>
 
 <div class="post" data-post-id="18992" data-author="Weasel" data-date="2007-06-20T01:24:10+00:00" data-subject="">
 
-not to mention in  desperate need of a frontal lobotomy..
+not to mention in desperate need of a frontal lobotomy..
 
 </div>
 
 <div class="post" data-post-id="18993" data-author="Autolycos" data-date="2007-06-20T03:15:02+00:00" data-subject="">
 
-hey...  i remember one day i was going to get a frontal lobotomy.
+hey... i remember one day i was going to get a frontal lobotomy.
 
 but then i
 
 oh hmmm
 
-hey!...  i remember one day i was going to get a frontal lobotomy.
+hey!... i remember one day i was going to get a frontal lobotomy.
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="18995" data-author="Weasel" data-date="2007-06-20T10:57:06+00:00" data-subject="">
 
-hehe  :lol:
+hehe <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -164,7 +164,7 @@ hehe  :lol:
 
 When you sports get done circle-jerking each other, there's a quest going on.
 
-Side note- Kinda harsh there 12345......  f'off :twisted:
+Side note- Kinda harsh there 12345...... f'off <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -172,7 +172,7 @@ Side note- Kinda harsh there 12345......  f'off :twisted:
 
 Dear Hades,
 
-If you start being a good little boy now, santa might bring you a clue on being humorous.  But if you don't, it's back to being tea-bagged by Lucifer for all eternity.
+If you start being a good little boy now, santa might bring you a clue on being humorous. But if you don't, it's back to being tea-bagged by Lucifer for all eternity.
 
 Best Regards, 
 
@@ -196,7 +196,7 @@ Please don't flame Hades. It just encourages him to continue littering the crier
 
 <div class="post" data-post-id="19007" data-author="Hades" data-date="2007-06-20T22:59:22+00:00" data-subject="How can you ignore this? Inside the pirates den no less...">
 
-[<LINK_TEXT text="http://movies.yahoo.com/summer-movies/H ... trailers/4">http://movies.yahoo.com/summer-movies/Hairspray/1809751355/trailers/4</LINK_TEXT>](http://movies.yahoo.com/summer-movies/Hairspray/1809751355/trailers/4)
+[http://movies.yahoo.com/summer-movies/Hairspray/1809751355/trailers/4](http://movies.yahoo.com/summer-movies/Hairspray/1809751355/trailers/4)
 
 You were warned
 
@@ -212,17 +212,18 @@ Poor little Hades apparently can't handle not being the center of attention now 
 
 Most menstrual cycles last 5-6 days. get off your ranting already. there are more important things to complain about.
 
- :roll:
+ <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="19011" data-author="Weasel" data-date="2007-06-21T02:59:08+00:00" data-subject="">
 
-Most menstrual cycles last 5-6 days.[/quote:32555dne]
+> <strong>Hades wrote:</strong>
+> Most menstrual cycles last 5-6 days.
 
-so you're going to stop this spam soon then? teehee *poke* who's an angry little spammer, hmm? *poke* awwww.
+so you're going to stop this spam soon then? teehee \*poke\* who's an angry little spammer, hmm? \*poke\* awwww.
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -260,11 +261,11 @@ now how is he going to replace all that leather armor?
 
 <div class="post" data-post-id="19038" data-author="Hades" data-date="2007-06-23T01:54:58+00:00" data-subject="I hate PETA">
 
-Taking a break from the abuse I'd just like to say that every day it seems the world gets a little crazier.  I heard a news radio broadcast in which a woman
+Taking a break from the abuse I'd just like to say that every day it seems the world gets a little crazier. I heard a news radio broadcast in which a woman
 
 was attacked by a pitbull and had to taken to the hospital with critical injuries.
 
-Ok... tragic news and a shame that it happen BUT.. in the same breath, I swear, the newscast went on to say that the pitbull was shot by a neighbor in the face and pronouced dead at the scene.  WTF!!!!
+Ok... tragic news and a shame that it happen BUT.. in the same breath, I swear, the newscast went on to say that the pitbull was shot by a neighbor in the face and pronouced dead at the scene. WTF!!!!
 
 </div>
 
@@ -276,19 +277,20 @@ Ok... tragic news and a shame that it happen BUT.. in the same breath, I swear, 
 
 <div class="post" data-post-id="19043" data-author="Hades" data-date="2007-06-23T05:01:34+00:00" data-subject="1+3=13">
 
-Spoken like a true jerk-off :evil:
+Spoken like a true jerk-off <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="19065" data-author="firebrand" data-date="2007-06-25T13:41:40+00:00" data-subject="Re: I hate PETA">
 
-Taking a break from the abuse I'd just like to say that every day it seems the world gets a little crazier.  I heard a news radio broadcast in which a woman was attacked by a pitbull and had to taken to the hospital with critical injuries.
+> <strong>Hades wrote:</strong>
+> Taking a break from the abuse I'd just like to say that every day it seems the world gets a little crazier. I heard a news radio broadcast in which a woman was attacked by a pitbull and had to taken to the hospital with critical injuries.
+> 
+> Ok... tragic news and a shame that it happen BUT.. in the same breath, I swear, the newscast went on to say that the pitbull was shot by a neighbor in the face and pronouced dead at the scene. WTF!!!!
 
-Ok... tragic news and a shame that it happen BUT.. in the same breath, I swear, the newscast went on to say that the pitbull was shot by a neighbor in the face and pronouced dead at the scene.  WTF!!!![/quote:21f9zg6k]
+way to go neighbor! for once someone isn't standing by and just watching shit happen. i am glad someone has the balls to kill the fukcking dog instead of "let's send it to the vet for observation". 
 
-way to go neighbor!  for once someone isn't standing by and just watching shit happen.  i am glad someone has the balls to kill the fukcking dog instead of "let's send it to the vet for observation".  
-
-"wow j.p., that is a great outfit. how much do clothes cost in the matrix?"--alex -->grandma's boy
+"wow j.p., that is a great outfit. how much do clothes cost in the matrix?"--alex --\>grandma's boy
 
 </div>
 
@@ -312,27 +314,28 @@ Alias
 
 Indeed.
 
-at what point during the whole bobcat fandango before the lunging, biting etc do you think the guy said "you knocked over my beer"   do you reckon?
+at what point during the whole bobcat fandango before the lunging, biting etc do you think the guy said "you knocked over my beer" do you reckon?
 
-[img:wy7206hx]http://www.geocities.com/coqrico/bobcat.jpg[/img:wy7206hx]
+![](http://www.geocities.com/coqrico/bobcat.jpg)
 
 </div>
 
 <div class="post" data-post-id="19073" data-author="Hades" data-date="2007-06-26T01:19:37+00:00" data-subject="Erm">
 
-Ingame someone was mistakenly pointing out that I disagreed with the killing of the dog.  My point was, a pet is a pet. Not a human.  Maybe I'm the only one but the 'humanizing' of animals is stupid.  They, at times, have more rights than people.  Someone famous, I forget who, once commented that in times of tragedy not unlike Hurricane Katrina, more people were concerned about adopting 'lost pets' than giving aid to their fellow man. That's f'd up. 
+Ingame someone was mistakenly pointing out that I disagreed with the killing of the dog. My point was, a pet is a pet. Not a human. Maybe I'm the only one but the 'humanizing' of animals is stupid. They, at times, have more rights than people. Someone famous, I forget who, once commented that in times of tragedy not unlike Hurricane Katrina, more people were concerned about adopting 'lost pets' than giving aid to their fellow man. That's f'd up. 
 
- :idea:
+ <img src="/images/smilies/icon_idea.svg" alt=":idea:" title=":idea:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="19078" data-author="firebrand" data-date="2007-06-26T16:36:51+00:00" data-subject="Re: Erm">
 
-Ingame someone was mistakenly pointing out that I disagreed with the killing of the dog.  My point was, a pet is a pet. Not a human.  Maybe I'm the only one but the 'humanizing' of animals is stupid.  They, at times, have more rights than people.  Someone famous, I forget who, once commented that in times of tragedy not unlike Hurricane Katrina, more people were concerned about adopting 'lost pets' than giving aid to their fellow man. That's f'd up. 
+> <strong>Hades wrote:</strong>
+> Ingame someone was mistakenly pointing out that I disagreed with the killing of the dog. My point was, a pet is a pet. Not a human. Maybe I'm the only one but the 'humanizing' of animals is stupid. They, at times, have more rights than people. Someone famous, I forget who, once commented that in times of tragedy not unlike Hurricane Katrina, more people were concerned about adopting 'lost pets' than giving aid to their fellow man. That's f'd up. 
+> 
+> <img src="/images/smilies/icon_idea.svg" alt=":idea:" title=":idea:" width="15" height="15" class="smiley nozoom">
 
- :idea:[/quote:3rjxrppi]
-
-if those "fellow men" would have gotten off their asses and left when told to instead of waiting for the government handouts to come and magic them away......those goddamned katrina "victims" got FEMA handouts and would spend it on $500 louis vuitton purses while their snotnosed pickaninny brats were standing there with holes in their clothes.  those same "victims" were blatantly showing their faces to the news cams while they stole tv's and other things knowing full well that there was not a damn thing the cops could or would do.  and now those "refugees" are bringing their gangs and their crime to the cities they fled to.  and when the city was opened again, those sponges who "wanted" jobs would not get off their cushy FEMA vouchers and go help rebuild their city.  and there are people who are residents of the states the refugees fled to who needed jobs and apartments and could not get those jobs or apartments because they were being held for "katrina victims".  victims my ass.  there were over 2000 school buses that wound up underwater because no one would go get them (break into a shack or something) and load up people and get them out.  i don't wanna hear "poor victims" any longer.  they made their bed - now they can sleep in it.  the humans had knowledge to leave.  fukck the goddam ned pets....those are replaceable.  humans, otoh are not.  *stepping off soapbox to await the inevitable flaming*
+if those "fellow men" would have gotten off their asses and left when told to instead of waiting for the government handouts to come and magic them away......those goddamned katrina "victims" got FEMA handouts and would spend it on $500 louis vuitton purses while their snotnosed pickaninny brats were standing there with holes in their clothes. those same "victims" were blatantly showing their faces to the news cams while they stole tv's and other things knowing full well that there was not a damn thing the cops could or would do. and now those "refugees" are bringing their gangs and their crime to the cities they fled to. and when the city was opened again, those sponges who "wanted" jobs would not get off their cushy FEMA vouchers and go help rebuild their city. and there are people who are residents of the states the refugees fled to who needed jobs and apartments and could not get those jobs or apartments because they were being held for "katrina victims". victims my ass. there were over 2000 school buses that wound up underwater because no one would go get them (break into a shack or something) and load up people and get them out. i don't wanna hear "poor victims" any longer. they made their bed - now they can sleep in it. the humans had knowledge to leave. fukck the goddam ned pets....those are replaceable. humans, otoh are not. \*stepping off soapbox to await the inevitable flaming\*
 
 rebs
 
@@ -348,17 +351,17 @@ beware the oncoming storm.
 
 <div class="post" data-post-id="19081" data-author="Alberich" data-date="2007-06-26T17:33:10+00:00" data-subject="">
 
-[img:3jxwyfk6]http://www.w3bdevil.com/forums/Thread-I_like_where_this_thread_is_going.jpg[/img:3jxwyfk6]
+![](http://www.w3bdevil.com/forums/Thread-I_like_where_this_thread_is_going.jpg)
 
 </div>
 
 <div class="post" data-post-id="19083" data-author="resouh" data-date="2007-06-26T20:28:23+00:00" data-subject="">
 
-*please insert this comment after fb's katrina rant*
+\*please insert this comment after fb's katrina rant\*
 
 Nods like it said in the bible:
 
-"Teach a man to fish, you feed him for a lifetime.  Give him a fish, thanks F$%&er you just created welfare."
+"Teach a man to fish, you feed him for a lifetime. Give him a fish, thanks F$%\&er you just created welfare."
 
 Resouh
 
@@ -366,7 +369,7 @@ Resouh
 
 <div class="post" data-post-id="19084" data-author="Avatar" data-date="2007-06-26T21:06:30+00:00" data-subject="FB rant">
 
-It's dangerous to generalize some attributes to a large set of people.  There's only a part of the refugees who abused the FEMA awards.  There are also some portion of the refugees who are already back trying to rebuild their communities.  Maybe we should judge everyone affected by Katrina as if they are a member of that second group, instead of the first?  It makes just as much sense - which would be very little.  In the end, you're insulting a lot of people who don't deserve your scorn.
+It's dangerous to generalize some attributes to a large set of people. There's only a part of the refugees who abused the FEMA awards. There are also some portion of the refugees who are already back trying to rebuild their communities. Maybe we should judge everyone affected by Katrina as if they are a member of that second group, instead of the first? It makes just as much sense - which would be very little. In the end, you're insulting a lot of people who don't deserve your scorn.
 
 Charles
 
@@ -386,19 +389,22 @@ Yeah your'e right FB. Oh, And sometimes you wish you could resu people in real l
 
 Once again off the subject but wtf.. i'm drunk
 
-  :arrow:
+ <img src="/images/smilies/icon_arrow.svg" alt=":arrow:" title=":arrow:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="19091" data-author="firebrand" data-date="2007-06-27T04:00:31+00:00" data-subject="Re: FB rant">
 
-It's dangerous to generalize some attributes to a large set of people.  There's only a part of the refugees who abused the FEMA awards.  There are also some portion of the refugees who are already back trying to rebuild their communities.  Maybe we should judge everyone affected by Katrina as if they are a member of that second group, instead of the first?  It makes just as much sense - which would be very little.  In the end, you're insulting a lot of people who don't deserve your scorn.
+> <strong>Avatar wrote:</strong>
+> It's dangerous to generalize some attributes to a large set of people. There's only a part of the refugees who abused the FEMA awards. There are also some portion of the refugees who are already back trying to rebuild their communities. Maybe we should judge everyone affected by Katrina as if they are a member of that second group, instead of the first? It makes just as much sense - which would be very little. In the end, you're insulting a lot of people who don't deserve your scorn.
+> 
+> 
+> 
+> Charles
 
-Charles[/quote:1vaq4pij]
+agreed....it is bad to generalize. sometimes it is hard NOT to, but when i (and several other ppl i know irl) have been denied jobs and been disallowed to even fill out an app to try to get an apartment because i did not have a frikkin FEMA voucher, because i actually WANT to WORK for my money instead of having the taxpayers pay for it, it tends to be a kick in the teeth. when i see people come into the store where i work wearing gold chains, brand new designer clothes, gucci purses and pay for their groceries with a fukking food stamps card it tends to chap my ass a bit. when it gets thrown in my face every single day that the money and taxes i work hard for goes to someone who WON'T work, who continues to get pregnant and squeeze out kid after kid just to keep getting more and more welfare.....well, it tends to make me just a wee bit bitter! not only that, but they live in an apartment and pay only $8 a month rent (not an exaggeration) while i cannot afford to pay full price because i choose to work for a living. mumblegrumble \*stalks off to smoke another bowl\*
 
-agreed....it is bad to generalize.  sometimes it is hard NOT to, but when i (and several other ppl i know irl) have been denied jobs and been disallowed to even fill out an app to try to get an apartment because i did not have a frikkin FEMA voucher, because i actually WANT to WORK for my money instead of having the taxpayers pay for it, it tends to be a kick in the teeth.  when i see people come into the store where i work wearing gold chains, brand new designer clothes, gucci purses and pay for their groceries with a fukking food stamps card it tends to chap my ass a bit.  when it gets thrown in my face every single day that the money and taxes i work hard for goes to someone who WON'T work, who continues to get pregnant and squeeze out kid after kid just to keep getting more and more welfare.....well, it tends to make me just a wee bit bitter!  not only that, but they live in an apartment and pay only $8 a month rent (not an exaggeration) while i cannot afford to pay full price because i choose to work for a living.  mumblegrumble *stalks off to smoke another bowl*
-
-"hey, honey, our baby's here... he looks just like your boss."  who father --> how the grinch stole christmas
+"hey, honey, our baby's here... he looks just like your boss." who father --\> how the grinch stole christmas
 
 </div>
 
@@ -406,37 +412,37 @@ agreed....it is bad to generalize.  sometimes it is hard NOT to, but when i (and
 
 In the meantime...
 
-[img:38f7pzuo]http://i77.photobucket.com/albums/j76/DrofThuganomics1/shokcy.jpg[/img:38f7pzuo]
+![](http://i77.photobucket.com/albums/j76/DrofThuganomics1/shokcy.jpg)
 
 </div>
 
 <div class="post" data-post-id="19095" data-author="13" data-date="2007-06-27T14:08:36+00:00" data-subject="">
 
-sweet.  you're a fuc king sore on the cock of sloth.
+sweet. you're a fuc king sore on the cock of sloth.
 
 </div>
 
 <div class="post" data-post-id="19131" data-author="Hades" data-date="2007-07-01T03:15:20+00:00" data-subject="Back from vacation feeling like a million bucks!">
 
-Me and 13's mom had a great time.  She footed the bill and I saved alot of money. Unfortunately, I had to bow out on the caning that took place.  I would have gladly offered to take her place but I had to jet back to the states.  She's mad now and obvious very sore, but I'm sure I can make it up to her.  I understand, yet again, I missed out on another area opener. Looking forward to using an alternate alt and exploring it in whosever leading it over next few weeks.  Glad to be back and looking forward to grouping with you real soon.
+Me and 13's mom had a great time. She footed the bill and I saved alot of money. Unfortunately, I had to bow out on the caning that took place. I would have gladly offered to take her place but I had to jet back to the states. She's mad now and obvious very sore, but I'm sure I can make it up to her. I understand, yet again, I missed out on another area opener. Looking forward to using an alternate alt and exploring it in whosever leading it over next few weeks. Glad to be back and looking forward to grouping with you real soon.
 
 Ta-ta
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="19132" data-author="12345" data-date="2007-07-01T04:17:15+00:00" data-subject="">
 
-Hades, is there any part of you that isn't fake? Seriously.  Your post is a joke.  You have to follow someone else to explore an area. Grow a backbone. Try to do something that actually takes talent instead of sitting on the crier blowing hot air about stuff you don't know anything about.
+Hades, is there any part of you that isn't fake? Seriously. Your post is a joke. You have to follow someone else to explore an area. Grow a backbone. Try to do something that actually takes talent instead of sitting on the crier blowing hot air about stuff you don't know anything about.
 
 </div>
 
 <div class="post" data-post-id="19134" data-author="Hades" data-date="2007-07-01T04:38:56+00:00" data-subject="">
 
-I'll deal with you later butt-munch.  Sheesh.. just wanted to say hi and I get attacked. I have a good mind to log on later and hunt your punk arse down. You, my friend, are on my sh*t list.
+I'll deal with you later butt-munch. Sheesh.. just wanted to say hi and I get attacked. I have a good mind to log on later and hunt your punk arse down. You, my friend, are on my sh\*t list.
 
- :x
+ <img src="/images/smilies/icon_mad.svg" alt=":x" title=":x" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -450,23 +456,26 @@ fvck off you clown
 
 C'mon Weasel...venting on me because of bash lag is poor taste. Form a group already, I need to dust the cobwebs off.
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="19138" data-author="12345" data-date="2007-07-01T06:02:14+00:00" data-subject="">
 
-I'll deal with you later butt-munch.  Sheesh.. just wanted to say hi and I get attacked. I have a good mind to log on later and hunt your punk arse down. You, my friend, are on my sh*t list.
+> <strong>Hades wrote:</strong>
+> I'll deal with you later butt-munch. Sheesh.. just wanted to say hi and I get attacked. I have a good mind to log on later and hunt your punk arse down. You, my friend, are on my sh\*t list.
+> 
+> 
+> 
+> <img src="/images/smilies/icon_mad.svg" alt=":x" title=":x" width="15" height="15" class="smiley nozoom">
 
- :x[/quote:1cj5l0zh]
-
-Oh goodie.  And what does that mean exactly?
+Oh goodie. And what does that mean exactly?
 
 </div>
 
 <div class="post" data-post-id="19141" data-author="brady" data-date="2007-07-01T17:37:53+00:00" data-subject="">
 
-One day, you people may wise up.  Until then, thanks for the laughs.
+One day, you people may wise up. Until then, thanks for the laughs.
 
 </div>
 
@@ -478,7 +487,7 @@ troll-feeding can be hazardous
 
 <div class="post" data-post-id="19143" data-author="Alberich" data-date="2007-07-01T18:53:24+00:00" data-subject="">
 
-[img:1evwnk7m]http://home.earthlink.net/~althalus/images/trolls.JPG[/img:1evwnk7m]
+![](http://home.earthlink.net/~althalus/images/trolls.JPG)
 
 </div>
 
@@ -490,19 +499,19 @@ Labelling him a troll is probably being generous.
 
 <div class="post" data-post-id="19145" data-author="Yinao" data-date="2007-07-02T01:12:47+00:00" data-subject="Hades is still ranting">
 
-*Yawn*
+\*Yawn\*
 
 </div>
 
 <div class="post" data-post-id="19146" data-author="Jag" data-date="2007-07-02T01:14:14+00:00" data-subject="">
 
-#gag
+\#gag
 
 </div>
 
 <div class="post" data-post-id="19152" data-author="Hades" data-date="2007-07-02T22:09:11+00:00" data-subject="">
 
-#fag
+\#fag
 
 </div>
 

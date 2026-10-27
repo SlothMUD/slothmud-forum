@@ -20,7 +20,7 @@ Like the viol, drum, or other eq?
 
 I know one is like a time before you need to sing again, another is mana %
 
-on saving for each "resing", but thats only two :)
+on saving for each "resing", but thats only two <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -28,7 +28,7 @@ on saving for each "resing", but thats only two :)
 
 %bonus effectiveness on song/%mana saved on song/# of extra people affected by song
 
-At least I think so?  You think I'd know for sure :)
+At least I think so? You think I'd know for sure <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -42,7 +42,7 @@ It's % increase in song length, % mana reduction, # of added listeners.
 
 Humm... ok cool,
 
-Do they stack with more eq that has %/%/% ???  or it's just off 1 item?
+Do they stack with more eq that has %/%/% ??? or it's just off 1 item?
 
 Also does Charsmia help add # of ppl effected by a song?
 
@@ -64,7 +64,7 @@ You sure that Charisma doesn't effect the number of people affected by benificia
 
 <div class="post" data-post-id="10376" data-author="blackmore" data-date="2006-01-28T17:20:43+00:00" data-subject="">
 
-I was almost positive it did - maybe by increasing the max # or something.  I don't know why I thought this, but that was what I seemed to believe.
+I was almost positive it did - maybe by increasing the max # or something. I don't know why I thought this, but that was what I seemed to believe.
 
 </div>
 
@@ -72,9 +72,9 @@ I was almost positive it did - maybe by increasing the max # or something.  I do
 
 Just wondering, because alot of "higher" bards with +charisma eq effect
 
-more ppl in larger groups.  However a bard with lower charisma eq, won't
+more ppl in larger groups. However a bard with lower charisma eq, won't
 
-be able to effect the same number of ppl.  Or thats how it always seems.
+be able to effect the same number of ppl. Or thats how it always seems.
 
 </div>
 
@@ -100,15 +100,12 @@ My view of the problem. I am sure that the number of listeners depend on the ins
 
 Direct from the Glamour Spell description:
 
-[quote:2d96131d]
-
-e 'glamour' spell drastically increases the
-
-bard's charisma, enabling him to affect more people with his songs (in
-
-Ocarp's case, enabling people to stand his presence - barely)
-
-[/quote:2d96131d]
+> <strong>Quote:</strong>
+> e 'glamour' spell drastically increases the
+> 
+> bard's charisma, enabling him to affect more people with his songs (in
+> 
+> Ocarp's case, enabling people to stand his presence - barely)
 
 So Glamour affects the number of affected targets BY affecting charisma.
 

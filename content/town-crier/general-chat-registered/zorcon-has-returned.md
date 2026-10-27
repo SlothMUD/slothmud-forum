@@ -14,7 +14,7 @@ post_count: 1
 
 How many of you consider yourselves old timers with regard to Sloth? Granted I have not been active in a very long time but I can still recall Sloth I with fond memories of 18 hour stretches of play back in 1992.
 
-How many of you are veteran Slothers in terms of years playing not hours.  While I have been through several player wipes I usually get my name back, I have not been an active player for years.
+How many of you are veteran Slothers in terms of years playing not hours. While I have been through several player wipes I usually get my name back, I have not been an active player for years.
 
 I don't even remember my levels.
 

@@ -16,9 +16,9 @@ Sir Teker,
 
 If you have time and desire, please, help me find answers on these two questions about 7luck:
 
-1) Does it work on lyme?
+1\) Does it work on lyme?
 
-2) Does it work on a continent at its day (i.e. will it work on bh at bh day)?
+2\) Does it work on a continent at its day (i.e. will it work on bh at bh day)?
 
 I've heard various opinions about it.
 

@@ -62,9 +62,10 @@ Apparently the troubles with cobra form have been fixed.
 
 <div class="post" data-post-id="26085" data-author="Stryx" data-date="2008-09-02T11:44:33+00:00" data-subject="">
 
-[quote:68sz53tj]The biggest change however, is that returning back to human form when I was shifted phoenix, does not return me near full human health[/quote:68sz53tj]
+> <strong>Quote:</strong>
+> The biggest change however, is that returning back to human form when I was shifted phoenix, does not return me near full human health
 
-This was a bug, or 'feature' call it what you will. Yes, its unfortunate its been fixed.  :roll: 
+This was a bug, or 'feature' call it what you will. Yes, its unfortunate its been fixed. <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> 
 
 Things i've noticed on the changes are... +some hit (dont recall what i had before) +6dam on piasa +200hp on piasa +15mana in human (havent checked forms mana). I didnt really look too hard at it due to the time I was on.
 
@@ -118,23 +119,23 @@ prac rescue
 
 NOTE: This is your shifted skill!
 
-                    Bard Abilities:
+ Bard Abilities:
 
-rescue                        - Lvl:  8,           Learned  85%
+rescue - Lvl: 8, Learned 85%
 
-                    Warrior Abilities:
+ Warrior Abilities:
 
-rescue                        - Lvl:  4,           Learned  85%
+rescue - Lvl: 4, Learned 85%
 
 Valanthe pierces an armored man extremely hard.
 
-<2145/2145hp 672/769/+55ma 192/200mvs> [218,786,412xps][fair] [+10Align]
+\<2145/2145hp 672/769/+55ma 192/200mvs\> [218,786,412xps\][fair] [+10Align]
 
 rescue valanthe
 
 You fail the rescue.
 
-<2145/2145hp 673/769/+55ma 192/200mvs> [218,786,412xps][fair] [+10Align]
+\<2145/2145hp 673/769/+55ma 192/200mvs\> [218,786,412xps\][fair] [+10Align]
 
 rescue valanthe
 
@@ -142,13 +143,13 @@ You fail to master your animal urges!
 
 You fail the rescue.
 
-<2145/2145hp 674/769/+55ma 193/200mvs> [218,786,412xps][fair] [+10Align]
+\<2145/2145hp 674/769/+55ma 193/200mvs\> [218,786,412xps\][fair] [+10Align]
 
 rescue valanthe
 
 You fail the rescue.
 
-<2145/2145hp 676/769/+55ma 194/200mvs> [218,786,412xps][fair] [+10Align]
+\<2145/2145hp 676/769/+55ma 194/200mvs\> [218,786,412xps\][fair] [+10Align]
 
 rescue valanthe
 
@@ -174,7 +175,7 @@ Valanthe pierces an armored man extremely hard.
 
 Valanthe pierces an armored man very hard.
 
-<2145/2145hp 676/769/+55ma 194/200mvs> [218,786,412xps][fair] [+10Align]
+\<2145/2145hp 676/769/+55ma 194/200mvs\> [218,786,412xps\][fair] [+10Align]
 
 rescue valanthe
 
@@ -182,7 +183,7 @@ You fail to master your animal urges!
 
 You fail the rescue.
 
-<2145/2145hp 676/769/+55ma 194/200mvs> [218,786,412xps][fair] [+10Align]
+\<2145/2145hp 676/769/+55ma 194/200mvs\> [218,786,412xps\][fair] [+10Align]
 
 rescue valanthe
 
@@ -190,7 +191,7 @@ You fail to master your animal urges!
 
 You fail the rescue.
 
-<2145/2145hp 677/769/+55ma 195/200mvs> [218,786,412xps][fair] [+10Align]
+\<2145/2145hp 677/769/+55ma 195/200mvs\> [218,786,412xps\][fair] [+10Align]
 
 rescue valanthe
 
@@ -200,7 +201,7 @@ You fail to master your animal urges!
 
 You fail the rescue.
 
-<2145/2145hp 677/769/+55ma 195/200mvs> [218,786,412xps][fair] [+10Align]
+\<2145/2145hp 677/769/+55ma 195/200mvs\> [218,786,412xps\][fair] [+10Align]
 
 rescue valanthe
 
@@ -208,7 +209,7 @@ You fail to master your animal urges!
 
 You fail the rescue.
 
-<2145/2145hp 677/769/+55ma 195/200mvs> [218,786,412xps][fair] [+10Align]
+\<2145/2145hp 677/769/+55ma 195/200mvs\> [218,786,412xps\][fair] [+10Align]
 
 rescue valanthe
 
@@ -216,37 +217,37 @@ You fail to master your animal urges!
 
 You fail the rescue.
 
-<2145/2145hp 677/769/+55ma 195/200mvs> [218,786,412xps][fair] [+10Align]
+\<2145/2145hp 677/769/+55ma 195/200mvs\> [218,786,412xps\][fair] [+10Align]
 
 You fail the rescue.
 
-<2145/2145hp 678/769/+55ma 196/200mvs> [218,786,412xps][fair] [+10Align]
+\<2145/2145hp 678/769/+55ma 196/200mvs\> [218,786,412xps\][fair] [+10Align]
 
 You fail to master your animal urges!
 
 You fail the rescue.
 
-<2145/2145hp 678/769/+55ma 196/200mvs> [218,786,412xps][fair] [+10Align]
+\<2145/2145hp 678/769/+55ma 196/200mvs\> [218,786,412xps\][fair] [+10Align]
 
 You fail to master your animal urges!
 
 You fail the rescue.
 
-Usage:         automatic
+Usage: automatic
 
-Level:         Druid 15
+Level: Druid 15
 
-Manual:        the script of transmutative talents
+Manual: the script of transmutative talents
 
-See Also:      SHAPESHIFT BATTLE SHIFT
+See Also: SHAPESHIFT BATTLE SHIFT
 
 When a druid assumes an animal form, her own animal nature becomes much
 
-more pronounced.  This makes it hard for her to perform fancy tactical
+more pronounced. This makes it hard for her to perform fancy tactical
 
 maneuvers like disengaging from combat or protecting somebody, even if
 
-she is quite capable of doing so in human form.  However, advanced druids
+she is quite capable of doing so in human form. However, advanced druids
 
 can learn to keep their presence of mind when an animal through the
 
@@ -258,7 +259,7 @@ protect, disengage, rescue, and retreat as well as she could use them in
 
 her human form.
 
-The more powerful animal shapes are harder to control.  Thus, even a druid
+The more powerful animal shapes are harder to control. Thus, even a druid
 
 who has mastered the Equanimity skill as much as is humanly possible will
 
@@ -266,27 +267,28 @@ still have trouble behaving in a civilized manner when the passions of a
 
 dragon are burning in her breast.
 
-Can we make this useful too!? :)
+Can we make this useful too!? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="26106" data-author="Weasel" data-date="2008-09-02T21:38:53+00:00" data-subject="">
 
-No, you cannot have your cake and eat it too. :twisted:
+No, you cannot have your cake and eat it too. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="26109" data-author="jezer" data-date="2008-09-02T23:51:46+00:00" data-subject="">
 
-No, you cannot have your cake and eat it too. :twisted:[/quote:3vh84afk]
+> <strong>Weasel wrote:</strong>
+> No, you cannot have your cake and eat it too. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
-Back in ya hole ya vermin! This r drooid thread!  :twisted:
+Back in ya hole ya vermin! This r drooid thread! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="26110" data-author="Weasel" data-date="2008-09-03T00:04:03+00:00" data-subject="">
 
-:!:  :P
+<img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -300,7 +302,7 @@ Thanks for the changes, nice boost to piasa.
 
 It seems ferret has been changed a bit, it now seems to get wounded by rooms procs etc....
 
-<41hp 650ma 75mv 4.5ac -7al 136062792xp +26mr>
+\<41hp 650ma 75mv 4.5ac -7al 136062792xp +26mr\>
 
 A dull grey dart from the south hits you!
 
@@ -310,13 +312,13 @@ You feel sickly.
 
 This one here I got fried by the lightning bolt, and so did the person who came to rescue me. At least I can stop this with spellshield... but I don't recall having to ever do this as ferret, and I've hit the corpse in crypt quite often.
 
-<51hp 571ma 118mv 3.9ac -10al 178419770xp +40mr>
+\<51hp 571ma 118mv 3.9ac -10al 178419770xp +40mr\>
 
 A bolt of lightning hits you in the chest!
 
 You are mortally wounded, and will die soon, if not aided.
 
-<-8hp 571ma 145mv 0.1ac -10al 178419770xp +55mr>
+\<-8hp 571ma 145mv 0.1ac -10al 178419770xp +55mr\>
 
 Also when I die, the weight of my robe goes from about 8 to 277. Renting seems to fix the problem.
 
@@ -332,7 +334,7 @@ It doesn't really make sense that mobs would use stream attacks against ferrets 
 
 Apparently ferret not going to be fixed to stop darts and lightning... but a secret voice told me to try sparrow...
 
-So someone else can try that... and let me know if they corpse...  :twisted:
+So someone else can try that... and let me know if they corpse... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -340,19 +342,19 @@ So someone else can try that... and let me know if they corpse...  :twisted:
 
 Turn in the trail
 
-   The sheer rock walls of the mountain rise up to the east and north blocking
+ The sheer rock walls of the mountain rise up to the east and north blocking
 
-the way in those directions.  A sharp turn in the trail leads south, down
+the way in those directions. A sharp turn in the trail leads south, down
 
-into a ravine.  Westward a steep path winds through the mountains.
+into a ravine. Westward a steep path winds through the mountains.
 
-Exits: South  West
+Exits: South West
 
 Bazilus is lying here, dead.
 
 You sense a hidden life form in the room.
 
-<41hp 704ma 7mv 4.5ac -3al 342992249xp +32mr>
+\<41hp 704ma 7mv 4.5ac -3al 342992249xp +32mr\>
 
 rr bazilus
 
@@ -360,9 +362,9 @@ A boulder from the south slams you to the ground!
 
 You are mortally wounded, and will die soon, if not aided.
 
-<-8hp 703ma 9mv 1.0ac -3al 342992249xp +48mr>
+\<-8hp 703ma 9mv 1.0ac -3al 342992249xp +48mr\>
 
-You are dead!  Sorry...
+You are dead! Sorry...
 
 You have been KILLED!!
 
@@ -376,7 +378,7 @@ Oh and BTW, I might have relo now, but I still don't know 75% of areas all that 
 
 First of all I am always grateful when from time to time I need a rescue by a ferret style individual.
 
-However, it is an appropriate change.  A 40hp tiny animal should not be immune to what is going on around it.  Boulders, darts, lightning, flames etc.  
+However, it is an appropriate change. A 40hp tiny animal should not be immune to what is going on around it. Boulders, darts, lightning, flames etc. 
 
 I guess it makes the game more challenging/interesting.
 
@@ -402,25 +404,26 @@ Then request to make ferret ethereal and enjoy the fantasy.
 
 <div class="post" data-post-id="26198" data-author="Weasel" data-date="2008-09-08T17:20:52+00:00" data-subject="">
 
-Can I be perma-ethereal too? I'm ferret's cousin after all.  :D
+Can I be perma-ethereal too? I'm ferret's cousin after all. <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="26199" data-author="Mosaix" data-date="2008-09-08T17:55:46+00:00" data-subject="">
 
-Weasels now get perm wraithform :) !
+Weasels now get perm wraithform <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> !
 
 </div>
 
 <div class="post" data-post-id="26200" data-author="Medios" data-date="2008-09-08T20:07:37+00:00" data-subject="">
 
-Chrissy helped me kill some raid mobs the other day and I noticed she did not receive any honor for the kills.  She was shifted and I was tanking.  I received honor and she did not.
+Chrissy helped me kill some raid mobs the other day and I noticed she did not receive any honor for the kills. She was shifted and I was tanking. I received honor and she did not.
 
 </div>
 
 <div class="post" data-post-id="26201" data-author="Weasel" data-date="2008-09-08T21:17:01+00:00" data-subject="">
 
-Weasels now get perm wraithform :) ![/quote:3rpurb5i]
+> <strong>Mosaix wrote:</strong>
+> Weasels now get perm wraithform <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> !
 
 awesome!
 
@@ -430,7 +433,7 @@ awesome!
 
 To Medios...
 
-Shiv was showing me the elementals in drexel the other night, and I complained that I only got 1 honor point out of 34 for killing them. He said it sounded like a bug and HE and DAVE would be looking at it... So DAVE will fix it soon :twisted:
+Shiv was showing me the elementals in drexel the other night, and I complained that I only got 1 honor point out of 34 for killing them. He said it sounded like a bug and HE and DAVE would be looking at it... So DAVE will fix it soon <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 To Weasel...
 
@@ -440,7 +443,7 @@ As for CR's/Non Aggro...
 
 It's a shame ferret is now so crunchy... but at least in this case we do have alternatives! I've decided in the future unless I know the area and mob/room procs I'll probably go in as tarantula, as it is my most powerful form that I can nearly maintain (mana wise)... if I get aggro'ed and have to recall... well you'll be out of luck.
 
-Although I do like Stryx's idea of a bit of rationalisation... what chance does a ferret or bird have of being hit by lightning? And from my experience as a small kid chucking stones at animals :twisted: I'd say a few of them are good at dodging boulders too... like birds for example... Those things are so hard to hit with stones... :twisted:
+Although I do like Stryx's idea of a bit of rationalisation... what chance does a ferret or bird have of being hit by lightning? And from my experience as a small kid chucking stones at animals <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> I'd say a few of them are good at dodging boulders too... like birds for example... Those things are so hard to hit with stones... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 I used to have the perception that I could explore the world safely in ferret... I realise this is stupid now, half my deaths are attributed to being in ferret form these days. I'll probably learn a lot more being aggro'ed anyway.
 
@@ -460,25 +463,34 @@ Crapping all over the ground.
 
 Running blindly into fences.
 
-But then again, too much in common with weasel form! :twisted:
+But then again, too much in common with weasel form! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="26206" data-author="Weasel" data-date="2008-09-09T02:01:30+00:00" data-subject="">
 
-Hmm, I gotta a new form Suggestion to combat some of the problems...
-
-shapeshift kangaroo
-
-Skills: 
-
-Jumping in front of cars.
-
-Crapping all over the ground.
-
-Running blindly into fences.
-
-But then again, too much in common with weasel form! :twisted:[/quote:nedqdax0]
+> <strong>jezer wrote:</strong>
+> Hmm, I gotta a new form Suggestion to combat some of the problems...
+> 
+> 
+> 
+> shapeshift kangaroo
+> 
+> 
+> 
+> Skills: 
+> 
+> 
+> 
+> Jumping in front of cars.
+> 
+> Crapping all over the ground.
+> 
+> Running blindly into fences.
+> 
+> 
+> 
+> But then again, too much in common with weasel form! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 That's a lie!
 
@@ -506,13 +518,20 @@ awesome, being a noob druid prime is tha worst
 
 <div class="post" data-post-id="26635" data-author="Roadrunr" data-date="2008-10-10T23:18:05+00:00" data-subject="">
 
-Judge shape shifted me into two new forms last night... One of wish crashed the mud I think... heh
-
-They were still experimental... but probably the one most worth mentioning was armadillo which would have -6ac and 2 attacks on VK. It had 300hp. Also he said the form should hit like a player who has a holy sword.
-
-This would be extremely welcome in those completely crap early years... which I am still trying to forget. I think armadillo has the dig command.
-
-The other form was about half the size, 150hp and had fly and dark sight If I recall correctly. Avatar forms are pretty cool, but I think increasing the lower forms will actually see more druid primes, as druids are among the most painfully slow starters.[/quote:354kxphr]
+> <strong>jezer wrote:</strong>
+> Judge shape shifted me into two new forms last night... One of wish crashed the mud I think... heh
+> 
+> 
+> 
+> They were still experimental... but probably the one most worth mentioning was armadillo which would have -6ac and 2 attacks on VK. It had 300hp. Also he said the form should hit like a player who has a holy sword.
+> 
+> 
+> 
+> This would be extremely welcome in those completely crap early years... which I am still trying to forget. I think armadillo has the dig command.
+> 
+> 
+> 
+> The other form was about half the size, 150hp and had fly and dark sight If I recall correctly. Avatar forms are pretty cool, but I think increasing the lower forms will actually see more druid primes, as druids are among the most painfully slow starters.
 
 druids may start painfully slow but they end very well, no need for druids to have a cakewalk from level one...no one else does...
 

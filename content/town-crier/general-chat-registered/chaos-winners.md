@@ -42,7 +42,7 @@ Will.. you couldn't have beaten them if they were already morted.
 
 will was too busy beating his meat to notice anything else
 
-"make like a tree and get out of here" --biff --> back to the future
+"make like a tree and get out of here" --biff --\> back to the future
 
 </div>
 
@@ -54,7 +54,7 @@ That is some weak sauce, i wanna kill people.
 
 <div class="post" data-post-id="16687" data-author="Alberich" data-date="2007-02-07T13:10:51+00:00" data-subject="">
 
-was fun, thanks again  :)
+was fun, thanks again <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -62,16 +62,16 @@ was fun, thanks again  :)
 
 Jason STFU
 
-Reb, yea I prob was when Splorky had the arena.  I've been off of Sloth 
+Reb, yea I prob was when Splorky had the arena. I've been off of Sloth 
 
-for over a month!!!!  So no more cybering with u Reb to relief the tension.
+for over a month!!!! So no more cybering with u Reb to relief the tension.
 
 </div>
 
 <div class="post" data-post-id="16697" data-author="firebrand" data-date="2007-02-07T20:24:32+00:00" data-subject="">
 
-dude yer idea of cybering with me is you lookin at my pic while you polish yer knob.  i told you to quit sending me the vids of that!  besides...i don't date outside of the human race, so quit calling me at three in the morning all moaning and grunting
+dude yer idea of cybering with me is you lookin at my pic while you polish yer knob. i told you to quit sending me the vids of that! besides...i don't date outside of the human race, so quit calling me at three in the morning all moaning and grunting
 
-"mine or i help you not!"--yoda -->star wars
+"mine or i help you not!"--yoda --\>star wars
 
 </div>

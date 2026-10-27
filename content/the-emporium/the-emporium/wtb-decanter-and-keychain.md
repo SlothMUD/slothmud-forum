@@ -18,9 +18,9 @@ subj. wtb decanter of endless water and keychainx2. catch me in mud, here or on 
 
 <div class="post" data-post-id="14651" data-author="Vixn" data-date="2006-10-17T19:54:01+00:00" data-subject="">
 
-*poking klurik* there's no harm in trying but as I see most of pthieves are out of business atm. so go pop it yourself lil beggar.
+\*poking klurik\* there's no harm in trying but as I see most of pthieves are out of business atm. so go pop it yourself lil beggar.
 
-btw dudes, I have vial of ogre blood & sliver of darkness for trade. I'm looking for your eye of demon. Catch Edd online or mudmail or post here.
+btw dudes, I have vial of ogre blood \& sliver of darkness for trade. I'm looking for your eye of demon. Catch Edd online or mudmail or post here.
 
 </div>
 

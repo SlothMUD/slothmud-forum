@@ -12,7 +12,7 @@ post_count: 6
 
 <div class="post" data-post-id="14063" data-author="Medios" data-date="2006-09-16T00:52:29+00:00" data-subject="Purloin Aura">
 
-Since the mob level vs steal has been implemented purloin aura is hindered alot.  The was very cool before, but now failing so often and then not being able to put items away or get into vaults or do anything for hours makes it not worth the time.  Why get boarded for stealing spells and why make it so difficult to use.  Can someone check this out. 
+Since the mob level vs steal has been implemented purloin aura is hindered alot. The was very cool before, but now failing so often and then not being able to put items away or get into vaults or do anything for hours makes it not worth the time. Why get boarded for stealing spells and why make it so difficult to use. Can someone check this out. 
 
 Mike
 
@@ -30,7 +30,7 @@ Perhaps purloining from a group member could skip the outlaw business or somethi
 
 I remember saying when we added the ability to imbue more than 1 spell that if it was consistantly abused we would have to react. Thiefs were running around and stealing 10+ of the same spell within minutes. We never intended for this.
 
-Ill remove the level checks and only allow 1 spell of each to be stolen(like it was originally) or  leave the level checks in...
+Ill remove the level checks and only allow 1 spell of each to be stolen(like it was originally) or leave the level checks in...
 
 Splork
 
@@ -38,7 +38,7 @@ Splork
 
 <div class="post" data-post-id="14082" data-author="Medios" data-date="2006-09-16T20:19:58+00:00" data-subject="">
 
-I never understood the imbues from it.  I dont see the problem with only being able to steal it once.
+I never understood the imbues from it. I dont see the problem with only being able to steal it once.
 
 Mike
 

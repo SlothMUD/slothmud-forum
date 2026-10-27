@@ -30,9 +30,9 @@ Thank you
 
 <div class="post" data-post-id="7786" data-author="Deju" data-date="2005-07-08T12:30:09+00:00" data-subject="">
 
-Items arent on the mob each time you kill them.  Sometimes you have to kill them, wait for the mob to reset, then kill them again and repeat.... this is commonly referred to as 'cycling' a mob.
+Items arent on the mob each time you kill them. Sometimes you have to kill them, wait for the mob to reset, then kill them again and repeat.... this is commonly referred to as 'cycling' a mob.
 
-When an item shows up on a mob that has reset, it is said the mob has 'popped' your item.  Some items pop with more frequency than others.  I'm sure many people here can tell you stories of how its taken 200 or more attempts before an item has popped for them (myself included).
+When an item shows up on a mob that has reset, it is said the mob has 'popped' your item. Some items pop with more frequency than others. I'm sure many people here can tell you stories of how its taken 200 or more attempts before an item has popped for them (myself included).
 
 However, i can assure you that the orange spellbook pops much more frequently than that.
 
@@ -42,12 +42,12 @@ Just keep killing the stone fish, he will come up with your book sooner or later
 
 <div class="post" data-post-id="7787" data-author="12345" data-date="2005-07-08T12:35:12+00:00" data-subject="">
 
-I think the worst I've heard (commonly) for the fish is 10 kills for a pop.  Seems to pop closer to 1 in 3 for me.
+I think the worst I've heard (commonly) for the fish is 10 kills for a pop. Seems to pop closer to 1 in 3 for me.
 
 </div>
 
 <div class="post" data-post-id="7790" data-author="fowlon" data-date="2005-07-08T16:02:05+00:00" data-subject="">
 
-mine was 2/1 what a chane thanks a lot :)
+mine was 2/1 what a chane thanks a lot <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

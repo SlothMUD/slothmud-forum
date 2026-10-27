@@ -50,7 +50,7 @@ Can pay coins if prefered
 
  a small limestone statue
 
- [x2]  a golden sack
+ [x2] a golden sack
 
  a dursimite hide
 
@@ -96,7 +96,7 @@ or catch me online, i'm always dieing somewhere..
 
 <div class="post" data-post-id="10546" data-author="Autolycos" data-date="2006-02-03T13:44:59+00:00" data-subject="">
 
->>BUMP<<
+\>\>BUMP\<\<
 
 gimmie your stuffs!
 
@@ -106,13 +106,13 @@ gimmie your stuffs!
 
 I will pay more than Auto for the items listed
 
-muwahaha!  :twisted:
+muwahaha! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="10554" data-author="Autolycos" data-date="2006-02-03T22:13:12+00:00" data-subject="">
 
-not possible,  i'm killin all your coin mobs
+not possible, i'm killin all your coin mobs
 
 all your eq's are belong to me
 
@@ -124,7 +124,7 @@ think i got your black hilt...
 
 let you know for sure next time i hit lyme...
 
-brand :!:  :twisted:
+brand <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -206,7 +206,7 @@ And what's that limestone statue for?
 
 <div class="post" data-post-id="10613" data-author="Autolycos" data-date="2006-02-08T13:24:23+00:00" data-subject="">
 
-got the Purple Claw  :twisted: 
+got the Purple Claw <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 C'mon give me your stuff!
 
@@ -272,7 +272,7 @@ a handful of fine red powder
 
 <div class="post" data-post-id="10621" data-author="Avatar" data-date="2006-02-08T19:59:23+00:00" data-subject="Trading">
 
-The small, sharp scale is from the Basilisk?  That might be solo for you.
+The small, sharp scale is from the Basilisk? That might be solo for you.
 
 Anyway, I'll look tonight may have a whetstone or black parchment stored.
 
@@ -280,25 +280,24 @@ Anyway, I'll look tonight may have a whetstone or black parchment stored.
 
 <div class="post" data-post-id="10622" data-author="Autolycos" data-date="2006-02-08T20:19:28+00:00" data-subject="WTB &amp; WTT  looking for   :)  trading lalala">
 
-sweet, that would be great  :twisted:
+sweet, that would be great <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="10623" data-author="Weasel" data-date="2006-02-08T22:33:55+00:00" data-subject="">
 
-Basilisk solo?  :shock:   ..damn overpowered thief primes..  :twisted:
+Basilisk solo? <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> ..damn overpowered thief primes.. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="10624" data-author="Autolycos" data-date="2006-02-08T23:51:44+00:00" data-subject="Re: Trading">
 
-The small, sharp scale is from the Basilisk?  That might be solo for you.
+> <strong>Avatar wrote:</strong>
+> The small, sharp scale is from the Basilisk? That might be solo for you.
 
-[/quote:19k2fhmm]
+Sadly no, not solo, -10.1/fluid/aegis <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-Sadly no, not solo, -10.1/fluid/aegis  :twisted: 
-
-<611hp 139ma 240mv>
+\<611hp 139ma 240mv\>
 
 You massacre the Basilisk of Darkness to small fragments with your pierce.
 
@@ -330,7 +329,7 @@ The Basilisk of Darkness utters the words, 'euguihzofahz'
 
 You have been KILLED!! 
 
-<-12hp 140ma 240mv>
+\<-12hp 140ma 240mv\>
 
 </div>
 
@@ -350,7 +349,7 @@ Weak!
 
 Sorry dude, hope you raised.
 
-Did you try him during futility?  I used to solo him in Plato, when he used to run -10.  I normally did 2 runs, I could only get him in 1 run with a lucky cinq blind or a quick disengage / damn.  Of course he may have been tweaked since then too.
+Did you try him during futility? I used to solo him in Plato, when he used to run -10. I normally did 2 runs, I could only get him in 1 run with a lucky cinq blind or a quick disengage / damn. Of course he may have been tweaked since then too.
 
 Sorry!
 
@@ -358,9 +357,9 @@ Sorry!
 
 <div class="post" data-post-id="10632" data-author="Autolycos" data-date="2006-02-09T23:59:28+00:00" data-subject="">
 
-yeah i raised,  agemo saved my ass again... seems a growing trend lately.
+yeah i raised, agemo saved my ass again... seems a growing trend lately.
 
-and no, wasnt futility, but sure was damn funny!  :twisted:
+and no, wasnt futility, but sure was damn funny! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -388,7 +387,7 @@ You brutally massacre the Basilisk of Darkness with your slice.
 
 The Basilisk of Darkness utters the words, 'noselacri'
 
-<754hp 105ma 228mv +9al>
+\<754hp 105ma 228mv +9al\>
 
 cast 'frostbolt' basi
 
@@ -412,21 +411,21 @@ Killable but looks like hitting harder than befor
 
 <div class="post" data-post-id="10637" data-author="Autolycos" data-date="2006-02-10T12:32:22+00:00" data-subject="">
 
-**applauds**
+\*\*applauds\*\*
 
-well done..  now pop me a scale smartass  :twisted:
+well done.. now pop me a scale smartass <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="10643" data-author="Weasel" data-date="2006-02-10T19:12:23+00:00" data-subject="">
 
-and while you're there, pop me a huge steel hoop, a flask of magic mist, and 2 iron masks so I can finish my 2 orc bracelets.. :)
+and while you're there, pop me a huge steel hoop, a flask of magic mist, and 2 iron masks so I can finish my 2 orc bracelets.. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="10697" data-author="Autolycos" data-date="2006-02-13T18:58:27+00:00" data-subject="">
 
-Vixn,  hunt me down... i havent seen you on.
+Vixn, hunt me down... i havent seen you on.
 
 c'mon guys, i'm feeling generous.. sell me your stuff before i get back to my senses.
 
@@ -490,17 +489,17 @@ the gem of a thousand stars
 
 and just to ensure that you all think i am crazy...
 
-i'll pay 15mil to the 1st person that can get me the gem of musing cmp  :twisted: 
+i'll pay 15mil to the 1st person that can get me the gem of musing cmp <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 i know someone has one tucked away.. or can run a good island group..
 
-trust me, i have more coins then patience :twisted:
+trust me, i have more coins then patience <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="10701" data-author="Autolycos" data-date="2006-02-13T22:54:18+00:00" data-subject="">
 
-and the list slowly shrinks :twisted: 
+and the list slowly shrinks <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 ::::Still Looking for::::: 
 
@@ -592,7 +591,7 @@ a china doll
 
 <div class="post" data-post-id="10707" data-author="Avatar" data-date="2006-02-14T13:56:18+00:00" data-subject="Auto">
 
-I saw a clip of Jay Leno the other day, where he says he's pretty much the president of the "more money than brains" club.  I guess Auto would be the VP.  
+I saw a clip of Jay Leno the other day, where he says he's pretty much the president of the "more money than brains" club. I guess Auto would be the VP. 
 
 It's time to go shoot someone Auto!
 
@@ -600,21 +599,21 @@ It's time to go shoot someone Auto!
 
 <div class="post" data-post-id="10708" data-author="Autolycos" data-date="2006-02-14T14:37:00+00:00" data-subject="">
 
-WHOOO HOOO!!!!!   :twisted: 
+WHOOO HOOO!!!!! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 i R like dat idear....
 
-*grabs shotgun and bazooka*
+\*grabs shotgun and bazooka\*
 
-I R goin varment huntin!  
+I R goin varment huntin! 
 
-heeeere weasel... heeeeere weasel..  tuka tuka tuka.
+heeeere weasel... heeeeere weasel.. tuka tuka tuka.
 
-)))*BLAM!*(((
+)))\*BLAM!\*(((
 
-( X ) (x  ) 
+( X ) (x ) 
 
-Weasel is laying here bleeding awfully from big wounds. :twisted:
+Weasel is laying here bleeding awfully from big wounds. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -622,13 +621,13 @@ Weasel is laying here bleeding awfully from big wounds. :twisted:
 
 Don't encourage him... the last thing we need is Auto running around saying:
 
-[b:2e4xt6df]Y[/size:2e4xt6df][/color:2e4xt6df][/b:2e4xt6df]o[/size:2e4xt6df][/color:2e4xt6df][u:2e4xt6df]U[/size:2e4xt6df][/color:2e4xt6df][/u:2e4xt6df] [b:2e4xt6df]g[/size:2e4xt6df][/color:2e4xt6df]O[/size:2e4xt6df][/color:2e4xt6df]T[/size:2e4xt6df][/color:2e4xt6df][/b:2e4xt6df] a[/color:2e4xt6df] [b:2e4xt6df]P[/size:2e4xt6df][/color:2e4xt6df]R[/size:2e4xt6df][/color:2e4xt6df]E[/size:2e4xt6df][/color:2e4xt6df][/b:2e4xt6df][b:2e4xt6df]T[/size:2e4xt6df][/color:2e4xt6df]T[/size:2e4xt6df][/color:2e4xt6df]y[/size:2e4xt6df][/color:2e4xt6df][/b:2e4xt6df] [u:2e4xt6df]m[/size:2e4xt6df][/color:2e4xt6df][/u:2e4xt6df][b:2e4xt6df]o[/size:2e4xt6df][/color:2e4xt6df]u[/size:2e4xt6df][/color:2e4xt6df]T[/size:2e4xt6df][/color:2e4xt6df][/b:2e4xt6df]h[/color:2e4xt6df]![/size:2e4xt6df][/color:2e4xt6df]
+<strong>Y</strong>oU <strong>gOT</strong> a <strong>PRE</strong><strong>TTy</strong> m<strong>ouT</strong>h!
 
 </div>
 
 <div class="post" data-post-id="10711" data-author="Autolycos" data-date="2006-02-14T16:02:12+00:00" data-subject="">
 
-*snicker
+\*snicker
 
 not likely...
 
@@ -638,35 +637,35 @@ although i wouldnt put such a thing past Guinex
 
 <div class="post" data-post-id="10713" data-author="Weasel" data-date="2006-02-14T18:08:30+00:00" data-subject="">
 
-:evil:
+<img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="10714" data-author="Autolycos" data-date="2006-02-14T18:19:52+00:00" data-subject="">
 
-he looks so cute stuffed on my mantle  :twisted: 
+he looks so cute stuffed on my mantle <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-[img:o5xmqfph]http://www.brianporter.ca/images/weasel5.jpg[/img:o5xmqfph]
+![](http://www.brianporter.ca/images/weasel5.jpg)
 
 </div>
 
 <div class="post" data-post-id="10715" data-author="Weasel" data-date="2006-02-14T19:05:45+00:00" data-subject="">
 
-Unfortunately for you, as a final act of defiance, I swallow a nuke... and this is what happens to your mantle, your house, and more importantly, you..  :twisted: 
+Unfortunately for you, as a final act of defiance, I swallow a nuke... and this is what happens to your mantle, your house, and more importantly, you.. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-[img:3bftez35]http://www.uruknet.info/uruknet-images/833605429-nuke.jpg[/img:3bftez35]
+![](http://www.uruknet.info/uruknet-images/833605429-nuke.jpg)
 
 </div>
 
 <div class="post" data-post-id="10716" data-author="12345" data-date="2006-02-14T19:18:31+00:00" data-subject="">
 
-How many times do I have to say it? [i:y7wyerwl]Please[/i:y7wyerwl] don't swallow the thermonuclear weapons!
+How many times do I have to say it? <em>Please</em> don't swallow the thermonuclear weapons!
 
 </div>
 
 <div class="post" data-post-id="10721" data-author="Autolycos" data-date="2006-02-14T19:49:55+00:00" data-subject="">
 
-interesting to say the least.  
+interesting to say the least. 
 
 but the auto came back..
 
@@ -680,7 +679,7 @@ but the auto came back...
 
 he just couldnt stay away.....
 
-**if you remember that song.. your old.. just like me**   :twisted:
+\*\*if you remember that song.. your old.. just like me\*\* <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -698,7 +697,7 @@ time will tell......
 
 <div class="post" data-post-id="10736" data-author="Autolycos" data-date="2006-02-15T21:37:20+00:00" data-subject="">
 
-as my wants and needs dwindle to a light nothingness.. i reach back for a simpler time.. when i actually cared  :twisted: 
+as my wants and needs dwindle to a light nothingness.. i reach back for a simpler time.. when i actually cared <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 ::::Still Looking for::::: 
 
@@ -738,7 +737,7 @@ a china doll
 
 <div class="post" data-post-id="10805" data-author="Autolycos" data-date="2006-02-21T03:46:55+00:00" data-subject="">
 
-got my Black Parchment  :twisted: 
+got my Black Parchment <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 gimmie your whetstones!
 
@@ -788,25 +787,25 @@ all your base are belong to us
 
 <div class="post" data-post-id="10807" data-author="Autolycos" data-date="2006-02-21T15:45:53+00:00" data-subject="">
 
-[i:2lzwjx12][b:2lzwjx12]ALL YOUR WHETSTONE ARE BELONG TO ME!!!![/color:2lzwjx12][/size:2lzwjx12][/b:2lzwjx12][/i:2lzwjx12]
+<em><strong>ALL YOUR WHETSTONE ARE BELONG TO ME!!!!</strong></em>
 
 </div>
 
 <div class="post" data-post-id="10825" data-author="Avatar" data-date="2006-02-21T22:21:14+00:00" data-subject="WTT">
 
-I vote we leave Auto lacking one last cp for each of the forges he's working on.  What do you say?
+I vote we leave Auto lacking one last cp for each of the forges he's working on. What do you say?
 
 </div>
 
 <div class="post" data-post-id="10827" data-author="Autolycos" data-date="2006-02-21T22:40:28+00:00" data-subject="">
 
-STFU!!!   i already am missing 1 cmp on all my forges!!!!!!  :evil:
+STFU!!! i already am missing 1 cmp on all my forges!!!!!! <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="10941" data-author="Autolycos" data-date="2006-02-27T14:29:49+00:00" data-subject="">
 
-new good trading fodder added![/size:13420o7s][/color:13420o7s]
+new good trading fodder added!
 
 ::::Still Looking for::::: 
 
@@ -860,7 +859,7 @@ Yellow Black Ribbons
 
 [x2] dead rat {mage4}
 
-and [b:13420o7s]$$$$$$$$$[/b:13420o7s][/color:13420o7s][/size:13420o7s]
+and <strong>$$$$$$$$$</strong>
 
 </div>
 
@@ -878,7 +877,7 @@ So good luck Jason!
 
 <div class="post" data-post-id="10952" data-author="Autolycos" data-date="2006-02-27T21:58:07+00:00" data-subject="">
 
-can always try,  besides my wallet is pretty endless
+can always try, besides my wallet is pretty endless
 
 </div>
 
@@ -912,7 +911,7 @@ Look Krok as a bone guard, GET HER!!!
 
 grrrrr 
 
-*turns on krok and attacks!!!!
+\*turns on krok and attacks!!!!
 
 </div>
 
@@ -924,9 +923,9 @@ Kiss my shiney arm bands! :P
 
 <div class="post" data-post-id="10959" data-author="Autolycos" data-date="2006-02-28T15:13:00+00:00" data-subject="">
 
-You tell derro  hey.... i know this noobie thief that has some eq she dont want anymore..  :twisted: 
+You tell derro hey.... i know this noobie thief that has some eq she dont want anymore.. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-cackle  :twisted:
+cackle <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -936,13 +935,13 @@ By what name do you wish to be known? Derro
 
 Password: autogetlost
 
-Password accepted.  Press return to continue...
+Password accepted. Press return to continue...
 
 </div>
 
 <div class="post" data-post-id="10962" data-author="Autolycos" data-date="2006-02-28T16:02:50+00:00" data-subject="">
 
-cackle!  :twisted:
+cackle! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -1002,7 +1001,7 @@ Yellow Black Ribbons
 
 [x2] dead rat {mage4}
 
-and [b:3cr2rb7k]$$$$$$$$$[/b:3cr2rb7k][/color:3cr2rb7k][/size:3cr2rb7k]
+and <strong>$$$$$$$$$</strong>
 
 </div>
 
@@ -1020,7 +1019,7 @@ Volcanic Shoulder Guards
 
 Shattered Bone Shoulder Guards 
 
-i'll even take a forged scarab of destruction.. i'm not picky :)
+i'll even take a forged scarab of destruction.. i'm not picky <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 :::::have to trade::::::: 
 
@@ -1070,33 +1069,29 @@ and $$$$$$$$$
 
 <div class="post" data-post-id="11094" data-author="Autolycos" data-date="2006-03-08T13:46:47+00:00" data-subject="">
 
-ok, i guess i should be more specific on coins, offering the following outright coins, if you dont have the item, then lead and pop it, i dont care how you get it  :twisted: my luck just doesnt seem in it.  
+ok, i guess i should be more specific on coins, offering the following outright coins, if you dont have the item, then lead and pop it, i dont care how you get it <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> my luck just doesnt seem in it. 
 
 so cmon... lets deal..
 
-[b:liacs4i5]
+<strong>::::</strong> Looking for <strong>:::::</strong> 
 
-:::: [/b:liacs4i5][/color:liacs4i5]Looking for [b:liacs4i5]:::::[/b:liacs4i5] [/color:liacs4i5]
+Quartz Shield <strong>12mil</strong>
 
-Quartz Shield [b:liacs4i5]12mil[/b:liacs4i5][/color:liacs4i5]
+Gem of Musing <strong>20mil</strong>
 
-Gem of Musing [b:liacs4i5]20mil[/b:liacs4i5][/color:liacs4i5]
+Volcanic Shoulder Guards <strong>20mil</strong>
 
- 
+Shattered Bone Shoulder Guards <strong>25mil</strong>
 
-Volcanic Shoulder Guards [b:liacs4i5]20mil[/b:liacs4i5][/color:liacs4i5]
+i'll even take a forged scarab of destruction.. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-Shattered Bone Shoulder Guards [b:liacs4i5]25mil[/b:liacs4i5][/color:liacs4i5]
-
-i'll even take a forged scarab of destruction..  :twisted: 
-
-[b:liacs4i5]you can even mix -n- match trades[/b:liacs4i5][/color:liacs4i5] [b:liacs4i5]+[/color:liacs4i5][/b:liacs4i5] [b:liacs4i5]$$$$$[/color:liacs4i5][/b:liacs4i5]
+<strong>you can even mix -n- match trades</strong> <strong>\+</strong> <strong>$$$$$</strong>
 
 :::::have to trade::::::: 
 
 Bloodstained Zweihander 
 
-[b:liacs4i5][x2] [/b:liacs4i5][/color:liacs4i5]bracer of flames 
+<strong>[x2]</strong> bracer of flames 
 
 Belt of Vitality 
 
@@ -1106,7 +1101,7 @@ Dark Black Cloak
 
 Obsidian Pearl 
 
-[b:liacs4i5][x2][/b:liacs4i5][/color:liacs4i5] heavy iron ring 
+<strong>[x2]</strong> heavy iron ring 
 
 bloodstained cloak 
 
@@ -1114,11 +1109,11 @@ a sable gimlet
 
 A pair of thick iron gauntlets 
 
-[b:liacs4i5][x2][/color:liacs4i5][/b:liacs4i5] String of Animal Bones 
+<strong>[x2]</strong> String of Animal Bones 
 
-[b:liacs4i5][x2] [/color:liacs4i5][/b:liacs4i5]a chert bracelet 
+<strong>[x2] </strong>a chert bracelet 
 
-[b:liacs4i5][x3] [/color:liacs4i5][/b:liacs4i5]an ashen bracelet 
+<strong>[x3] </strong>an ashen bracelet 
 
 a loggers maul 
 
@@ -1130,7 +1125,7 @@ a sable cloak
 
 Hey Auto..... 
 
-[b:8j9euru9][i:8j9euru9][u:8j9euru9] if you dont have the item, then lead and pop it,[/u:8j9euru9][/i:8j9euru9][/b:8j9euru9]
+<strong><em> if you dont have the item, then lead and pop it,</em></strong>
 
 Sounds like some good advise why dun you STFU and get poppin...
 
@@ -1138,7 +1133,8 @@ Sounds like some good advise why dun you STFU and get poppin...
 
 <div class="post" data-post-id="11097" data-author="Autolycos" data-date="2006-03-08T14:34:17+00:00" data-subject="">
 
-then lead and pop it, i dont care how you get it  :twisted: [b:17hprn2c]my luck just doesnt seem in it.  [/color:17hprn2c][/b:17hprn2c][/quote:17hprn2c]
+> <strong>Autolycos wrote:</strong>
+> then lead and pop it, i dont care how you get it <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> <strong>my luck just doesnt seem in it. </strong>
 
 if you would have paid more attention, you might notice, 
 
@@ -1150,7 +1146,7 @@ regardless if i was leading, or following.
 
 <div class="post" data-post-id="11098" data-author="Weasel" data-date="2006-03-08T14:55:54+00:00" data-subject="">
 
-BTW if anyone wants to sell Volc Shoulder Guards, I'll pay more than what Auto is offering here  :twisted:
+BTW if anyone wants to sell Volc Shoulder Guards, I'll pay more than what Auto is offering here <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 ..can do coins, restring(s) or mix of both.
 
@@ -1158,7 +1154,7 @@ BTW if anyone wants to sell Volc Shoulder Guards, I'll pay more than what Auto i
 
 <div class="post" data-post-id="11100" data-author="Qa" data-date="2006-03-08T20:56:59+00:00" data-subject="">
 
-BTW if anyone wants to sell Volc Shoulder Guards, I'll pay more than what Weasel or Auto is offering here  
+BTW if anyone wants to sell Volc Shoulder Guards, I'll pay more than what Weasel or Auto is offering here 
 
 ..can do coins, restring(s) or mix of both.
 
@@ -1174,45 +1170,41 @@ ZZZZzzzzZZZZzzzz
 
 <div class="post" data-post-id="11104" data-author="Weasel" data-date="2006-03-08T23:05:49+00:00" data-subject="">
 
-hehe  :twisted:
+hehe <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="11105" data-author="Autolycos" data-date="2006-03-09T00:03:30+00:00" data-subject="">
 
-WTT  a weasel fur coat, and the skull of a washed up cleric for a set of volc guards  :twisted:
+WTT a weasel fur coat, and the skull of a washed up cleric for a set of volc guards <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="11106" data-author="Weasel" data-date="2006-03-09T00:24:34+00:00" data-subject="">
 
-now -there's- a serious offer   :wink:
+now -there's- a serious offer <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="11107" data-author="Autolycos" data-date="2006-03-09T00:26:28+00:00" data-subject="">
 
-*bows*   :twisted:
+\*bows\* <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="11404" data-author="Autolycos" data-date="2006-03-17T14:54:09+00:00" data-subject="">
 
-[i:1zqs88nh][b:1zqs88nh]Last time i'll post this list..  I have added alot more stuff to trade, and increased the coins.[/color:1zqs88nh].[/b:1zqs88nh][/i:1zqs88nh]
+<em><strong>Last time i'll post this list.. I have added alot more stuff to trade, and increased the coins..</strong></em>
 
-[b:1zqs88nh]
+<strong>::::</strong> <strong>Looking for</strong> <strong>:::::</strong> 
 
-:::: [/b:1zqs88nh][/color:1zqs88nh][b:1zqs88nh]Looking for[/b:1zqs88nh] [b:1zqs88nh]:::::[/b:1zqs88nh] [/color:1zqs88nh]
+Quartz Shield <strong>15mil</strong>
 
-Quartz Shield [b:1zqs88nh]15mil[/b:1zqs88nh][/color:1zqs88nh]
+Gem of Musing <strong>30mil</strong>
 
-Gem of Musing [b:1zqs88nh]30mil[/b:1zqs88nh][/color:1zqs88nh]
+Shattered Bone Shoulder Guards <strong>30mil</strong>
 
- 
-
-Shattered Bone Shoulder Guards [b:1zqs88nh]30mil[/b:1zqs88nh][/color:1zqs88nh]
-
-[b:1zqs88nh]you can even mix -n- match trades[/b:1zqs88nh][/color:1zqs88nh] [b:1zqs88nh]+[/color:1zqs88nh][/b:1zqs88nh] [b:1zqs88nh]$$$$$[/color:1zqs88nh][/b:1zqs88nh]
+<strong>you can even mix -n- match trades</strong> <strong>\+</strong> <strong>$$$$$</strong>
 
 :::::have to trade::::::: 
 
@@ -1220,35 +1212,35 @@ Bloodstained Zweihander
 
 serpent skin coif
 
-[b:1zqs88nh][x2] [/b:1zqs88nh][/color:1zqs88nh]bracer of flames 
+<strong>[x2]</strong> bracer of flames 
 
 Belt of Vitality 
 
-[b:1zqs88nh][x2] [/b:1zqs88nh][/color:1zqs88nh]helm of fiery radience
+<strong>[x2]</strong> helm of fiery radience
 
 Dark Black Cloak 
 
 Obsidian Pearl 
 
-[b:1zqs88nh][x2][/b:1zqs88nh][/color:1zqs88nh] heavy iron ring 
+<strong>[x2]</strong> heavy iron ring 
 
-[b:1zqs88nh][x2] [/b:1zqs88nh][/color:1zqs88nh]glinting shield of silver
+<strong>[x2]</strong> glinting shield of silver
 
-[b:1zqs88nh][x2] [/b:1zqs88nh][/color:1zqs88nh]jade bracelets
+<strong>[x2]</strong> jade bracelets
 
 bloodstained cloak 
 
 a sable gimlet 
 
-[b:1zqs88nh][x2][/color:1zqs88nh][/b:1zqs88nh] pair of thick iron gauntlets 
+<strong>[x2]</strong> pair of thick iron gauntlets 
 
-[b:1zqs88nh][x2][/color:1zqs88nh][/b:1zqs88nh] String of Animal Bones 
+<strong>[x2]</strong> String of Animal Bones 
 
-[b:1zqs88nh][x5] [/color:1zqs88nh][/b:1zqs88nh] dead rats Mage4
+<strong>[x5] </strong> dead rats Mage4
 
-[b:1zqs88nh][x5] [/color:1zqs88nh][/b:1zqs88nh]an ashen bracelet 
+<strong>[x5] </strong>an ashen bracelet 
 
-[b:1zqs88nh][x12] [/color:1zqs88nh][/b:1zqs88nh]octagonal token
+<strong>[x12] </strong>octagonal token
 
 a loggers maul 
 
@@ -1260,7 +1252,7 @@ a sable cloak
 
 Glad this will be Auto's last post.
 
-PS.  Bone Guards for 30mil... HAHAHAHAHA in ur dreams!
+PS. Bone Guards for 30mil... HAHAHAHAHA in ur dreams!
 
 </div>
 
@@ -1268,7 +1260,7 @@ PS.  Bone Guards for 30mil... HAHAHAHAHA in ur dreams!
 
 thats to open haggling jackass.. 
 
-but you wouldnt know anything about good eq or values.  since all of your chars still wear leather armor even your av.  :twisted:
+but you wouldnt know anything about good eq or values. since all of your chars still wear leather armor even your av. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -1276,21 +1268,21 @@ but you wouldnt know anything about good eq or values.  since all of your chars 
 
 Who u kidding, I had a Bone Shattered Guard and I didn't sell it for 100mil.
 
-U have a big gap there bud :)
+U have a big gap there bud <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="11446" data-author="Autolycos" data-date="2006-03-17T20:42:04+00:00" data-subject="">
 
-and your point?   perhaps that is information that i might not have? perhaps i should just kill you and take yours?  :evil:
+and your point? perhaps that is information that i might not have? perhaps i should just kill you and take yours? <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="11448" data-author="Leaf" data-date="2006-03-17T20:52:35+00:00" data-subject="">
 
-Key word = HAD :)
+Key word = HAD <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-I traded mine for a bunch of eq :)
+I traded mine for a bunch of eq <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -1304,7 +1296,7 @@ Will, let the newb dream about having the weeklies for 30 mils.
 
 Well there are some weekly u can get that are under 10mil.
 
-Krok I think u should put as ur sig.   "From Russia With Love"
+Krok I think u should put as ur sig. "From Russia With Love"
 
 Would be kinda funny, or so I think.
 

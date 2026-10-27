@@ -14,9 +14,9 @@ post_count: 3
 
 Sloth Year 1000 is Upon Us.
 
-There will be...some stuff.  At the countdown timer time given here:
+There will be...some stuff. At the countdown timer time given here:
 
-[<LINK_TEXT text="https://www.tickcounter.com/countdown/3 ... 1000-quest">https://www.tickcounter.com/countdown/315921/sloth-year-1000-quest</LINK_TEXT>](https://www.tickcounter.com/countdown/315921/sloth-year-1000-quest)
+[https://www.tickcounter.com/countdown/315921/sloth-year-1000-quest](https://www.tickcounter.com/countdown/315921/sloth-year-1000-quest)
 
 I will edit this post with maybe some more details.
 
@@ -24,7 +24,7 @@ Maybe.
 
 There will be epics, and some drachma.
 
---D
+\--D
 
 </div>
 
@@ -52,6 +52,6 @@ And that these same people be emailed, if anyone has their emails.
 
 Thanks
 
---D
+\--D
 
 </div>

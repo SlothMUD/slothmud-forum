@@ -80,7 +80,7 @@ Yeah they don't see in the dark, but gargs still growl at you and attack if you 
 
 <div class="post" data-post-id="16945" data-author="Guinex" data-date="2007-02-16T05:53:00+00:00" data-subject="">
 
-You can get past all those gargoyles with out even being scratched.  Keep trying :)
+You can get past all those gargoyles with out even being scratched. Keep trying <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -88,7 +88,7 @@ You can get past all those gargoyles with out even being scratched.  Keep trying
 
 Minstrel can get past them without darkness or shifting.
 
-*smoke*
+\*smoke\*
 
 Mike
 
@@ -124,15 +124,16 @@ phase tham all:D
 
 <div class="post" data-post-id="16956" data-author="Guinex" data-date="2007-02-16T19:47:44+00:00" data-subject="">
 
-Mike stole my *smoke*  :cry:
+Mike stole my \*smoke\* <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="16957" data-author="Autolycos" data-date="2007-02-16T20:25:39+00:00" data-subject="">
 
-Mike stole my *smoke*  :cry:[/quote:1qsdy9fm]
+> <strong>Guinex wrote:</strong>
+> Mike stole my \*smoke\* <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom">
 
-thuckin fiefs  Â© weasel
+thuckin fiefs Â© weasel
 
 </div>
 
@@ -152,21 +153,22 @@ With thief in classo it should be even easier... unless shadowwalk doesn't work 
 
 <div class="post" data-post-id="16974" data-author="firebrand" data-date="2007-02-17T15:45:02+00:00" data-subject="">
 
-pass it this way, mike.  i'll throw down some
+pass it this way, mike. i'll throw down some
 
-"say good night, gracie" --george burns --> george and gracie show
+"say good night, gracie" --george burns --\> george and gracie show
 
 </div>
 
 <div class="post" data-post-id="16985" data-author="Vixn" data-date="2007-02-18T11:52:38+00:00" data-subject="Re: Learnin Lyme">
 
-Necropolis/Palace
-
-..
-
-from there to safe room at palace (if path has been cleared of aggro)
-
-essssswsswwnnwnd[/quote:1elalnb3]
+> <strong>juggleblood wrote:</strong>
+> Necropolis/Palace
+> 
+> ..
+> 
+> from there to safe room at palace (if path has been cleared of aggro)
+> 
+> essssswsswwnnwnd
 
 you have to kill naga cause it blocks exit to the north. naga is not aggro.
 
@@ -174,7 +176,7 @@ you have to kill naga cause it blocks exit to the north. naga is not aggro.
 
 <div class="post" data-post-id="17030" data-author="osric" data-date="2007-02-20T19:49:20+00:00" data-subject="">
 
-Last I checked those damn Gargs are still killable (even if they do have -80ac)  :)
+Last I checked those damn Gargs are still killable (even if they do have -80ac) <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -196,7 +198,7 @@ Roc
 
 Pyrohydra
 
-Toxis also forms himself before Androsphinx Sultan and Sandgorgon but it  doesn't help as much right?
+Toxis also forms himself before Androsphinx Sultan and Sandgorgon but it doesn't help as much right?
 
 What about Marid/Knight/Guardian/Lazaren/Purple Worm/Stone Giants? form or no form?
 
@@ -216,15 +218,15 @@ Thanks!
 
 <div class="post" data-post-id="17061" data-author="Medios" data-date="2007-02-22T13:11:14+00:00" data-subject="">
 
-Since Toxis has spectral shield its good for form on almost all the mobs.  The sandworm, ogre, guardian daemon, sphinx, stone giants, and priests most ignore form, but will occasionally still pass thru.  Even if he only avoids 2 hits it is still better than players healing, when they can be blasting.  Wraithform is highly effective on marid and sultan. 
+Since Toxis has spectral shield its good for form on almost all the mobs. The sandworm, ogre, guardian daemon, sphinx, stone giants, and priests most ignore form, but will occasionally still pass thru. Even if he only avoids 2 hits it is still better than players healing, when they can be blasting. Wraithform is highly effective on marid and sultan. 
 
-Cityguards and dervish warriors will assist anything thats fighting.  
+Cityguards and dervish warriors will assist anything thats fighting. 
 
 I havent had much luck with scorpion, since he doesnt load I usually dont kill it.
 
 Only one sandman about 3 squares east of sandworm.
 
-I use Dogs in the desert to solo dervish warriors, dervish guards, cityguards and palace guards.  I am pretty sure they are all nostabs.  The ether mobs arent worth the trouble.  Bodyguards are a rough solo.  I killed the ladies some but didnt seem worth it.
+I use Dogs in the desert to solo dervish warriors, dervish guards, cityguards and palace guards. I am pretty sure they are all nostabs. The ether mobs arent worth the trouble. Bodyguards are a rough solo. I killed the ladies some but didnt seem worth it.
 
 Not sure about dervish leader, try him out.
 

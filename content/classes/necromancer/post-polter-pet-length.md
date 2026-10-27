@@ -18,7 +18,7 @@ hey, i just hit 2x40 and was really excited about wraiths. that was until i real
 
 <div class="post" data-post-id="32481" data-author="Thraxas" data-date="2011-03-13T23:08:54+00:00" data-subject="Re: post polter pet length">
 
-> **vissidrix wrote:**
+> <strong>vissidrix wrote:</strong>
 > hey, i just hit 2x40 and was really excited about wraiths. that was until i realized they didnt last a single hellwell run. so here i am, 2x40, and still using poltergeists as they are proving to be far more efficient. and well, i just find this to be lame. isint 10 minutes a bit extreme? can UC be made to increase this at least? just wondering.
 
 try wraiths again ... wraiths are better than poltergeists every time

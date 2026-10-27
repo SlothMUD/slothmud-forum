@@ -14,23 +14,23 @@ post_count: 4
 
 Due to time constraints and everyone being busy, this quest will have the exact same goodies (and structure and all other details) as last year.
 
-But, at least it will have all of those.  So refer to 2015's email for details.
+But, at least it will have all of those. So refer to 2015's email for details.
 
 I will load everything on Sunday the 30th (probably early in the morning my time) since Halloween itself is Monday and a work day for many people.
 
 See you all there,
 
---Idjit
+\--Idjit
 
 </div>
 
 <div class="post" data-post-id="37468" data-author="Gorka" data-date="2016-10-28T05:50:36+00:00" data-subject="Re: Halloween 2016">
 
-<LINK_TEXT text="http://www.slothmud.org/forum/viewtopic ... een#p36119">http://www.slothmud.org/forum/viewtopic.php?f=27&t=4529&p=36119&hilit=halloween#p36119</LINK_TEXT>
+http://www.slothmud.org/forum/viewtopic.php?f=27&t=4529&p=36119&hilit=halloween#p36119
 
 Dug this up... does this sound about right Idjit?
 
-And for the record... sloth 4 annihilated the dogs of war.  :lol:
+And for the record... sloth 4 annihilated the dogs of war. <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 WTB Staff of awesomeness.
 
@@ -40,7 +40,7 @@ WTB Staff of awesomeness.
 
 So sorry for delays, things are deployed now. Slept in
 
---Idjit
+\--Idjit
 
 </div>
 
@@ -52,6 +52,6 @@ It's a little safer to walk about but Halloweeen config is still on.
 
 Sorry
 
---Idj
+\--Idj
 
 </div>

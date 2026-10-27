@@ -18,10 +18,10 @@ The 2024 Fourth Of July Quest is scheduled to be at 10AM Pacific on Sunday July 
 
 a countdown timer has been provided:
 
-[<LINK_TEXT text="https://www.tickcounter.com/countdown/5 ... july-quest">https://www.tickcounter.com/countdown/5484211/2024-slothmud-fourth-of-july-quest</LINK_TEXT>](https://www.tickcounter.com/countdown/5484211/2024-slothmud-fourth-of-july-quest)
+[https://www.tickcounter.com/countdown/5484211/2024-slothmud-fourth-of-july-quest](https://www.tickcounter.com/countdown/5484211/2024-slothmud-fourth-of-july-quest)
 
 See you there.
 
---Idj
+\--Idj
 
 </div>

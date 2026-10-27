@@ -14,39 +14,39 @@ post_count: 1
 
 You can find most of the cps here from Pagoda of Enlightenment on SS.
 
-**lotus blossom charm bracelet**
+<strong>lotus blossom charm bracelet</strong>
 
 Indra, the groundskeeper will forge this at the cost of 5,000,000 coins:
 
-a fragrant pink lotus blossom			- surya-female-woman-brewer
+a fragrant pink lotus blossom - surya-female-woman-brewer
 
-a fragrant orange lotus blossom 		        - Avalokitesvara
+a fragrant orange lotus blossom - Avalokitesvara
 
-a fragrant red lotus blossom			- Manjusri
+a fragrant red lotus blossom - Manjusri
 
-a fragrant white lotus blossom			- Hotei 
+a fragrant white lotus blossom - Hotei 
 
-strand of burgundy thread			        - blue-tara-female 
+strand of burgundy thread - blue-tara-female 
 
-spool of golden thread				- ferral kittens
+spool of golden thread - ferral kittens
 
-black lotus petals(3)	 		          	- black-lotus-flower-evil
+black lotus petals(3) - black-lotus-flower-evil
 
-handful of magical seeds 			        - fairy (Irda Sanctuary)
+handful of magical seeds - fairy (Irda Sanctuary)
 
-clasp from a box				                - luggage box(UU)
+clasp from a box - luggage box(UU)
 
-a fragrant vial of pure jasmine oil(2)		- Brewed at Surya
+a fragrant vial of pure jasmine oil(2) - Brewed at Surya
 
-**Fragrant vial of pure jasmine oil ...**
+<strong>Fragrant vial of pure jasmine oil ...</strong>
 
 Surya will brew this for you at 300,000 gold coins :
 
-a Jasmine petal(6)				        - tangled vine jasmine
+a Jasmine petal(6) - tangled vine jasmine
 
-long purple incense stick(6)			        - smoke-haze-incense-jasmine	
+long purple incense stick(6) - smoke-haze-incense-jasmine	
 
-handful of rainblow glitter(2) 			- Samantabhadra
+handful of rainblow glitter(2) - Samantabhadra
 
 Indra, the groundskeeper finishes up a lotus blossom charm bracelet and hands it to you!
 
@@ -64,15 +64,15 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: BONUS_HEAL_BONUS by 10
+ Affects: BONUS\_HEAL\_BONUS by 10
 
-    Affects: MAX_WIS by 1
+ Affects: MAX\_WIS by 1
 
 Only those who are no more than supreme magic users or clerics, and have
 
 attained supremacy in at least six classes may use this item.
 
-_____________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Forge note :
 
@@ -92,7 +92,7 @@ Bring all of the required elements above with a large sum of gold
 
 and I will craft a wonderous item.
 
--Indra, the groundskeeper.
+\-Indra, the groundskeeper.
 
 (a fragrant vial of pure jasmine oil) First, you will need to see out a
 
@@ -108,7 +108,7 @@ sized heap of gold and I will make you a vial of the purest jasmine oil
 
 found in the land!
 
--Surya.
+\-Surya.
 
 P.S
 

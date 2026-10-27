@@ -20,6 +20,6 @@ There will be...stuff.
 
 A timer link is below:
 
-[<LINK_TEXT text="https://www.tickcounter.com/countdown/2 ... -day-quest">https://www.tickcounter.com/countdown/2572878/2021-slothmud-memorial-day-quest</LINK_TEXT>](https://www.tickcounter.com/countdown/2572878/2021-slothmud-memorial-day-quest)
+[https://www.tickcounter.com/countdown/2572878/2021-slothmud-memorial-day-quest](https://www.tickcounter.com/countdown/2572878/2021-slothmud-memorial-day-quest)
 
 </div>

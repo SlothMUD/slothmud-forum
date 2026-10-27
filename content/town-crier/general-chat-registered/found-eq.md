@@ -12,7 +12,7 @@ post_count: 2
 
 <div class="post" data-post-id="7650" data-author="Dandelo" data-date="2005-06-28T16:13:01+00:00" data-subject="Found EQ">
 
-I found a bunch of newbie gear in the Catacombs near the entrance.  It will hold it for its rightful owner.  Please find me as Kang/Dandelo if you lost it.
+I found a bunch of newbie gear in the Catacombs near the entrance. It will hold it for its rightful owner. Please find me as Kang/Dandelo if you lost it.
 
 </div>
 

@@ -22,19 +22,19 @@ Also while I was writing this post I noticed that always flashing "members onlin
 
 <div class="post" data-post-id="247" data-author="Repunzel" data-date="2004-05-23T00:29:31+00:00" data-subject="">
 
-I like how we can post pics and have a profile. :P
+I like how we can post pics and have a profile. <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="248" data-author="Calim" data-date="2004-05-23T01:11:57+00:00" data-subject="">
 
-I agree about the members online thing refreshing too often and flashing when it does is annoying.  I think that the scrolling news item was useful when there was only a couple of posts a day, but now, it is just useless info.  I don't like the way the menu's paint when you mouse over them.  But in the long run, I prefer it here rather then the old site.
+I agree about the members online thing refreshing too often and flashing when it does is annoying. I think that the scrolling news item was useful when there was only a couple of posts a day, but now, it is just useless info. I don't like the way the menu's paint when you mouse over them. But in the long run, I prefer it here rather then the old site.
 
 </div>
 
 <div class="post" data-post-id="253" data-author="Weasel" data-date="2004-05-23T04:45:21+00:00" data-subject="">
 
-Time zones are messed up.. I'm EST but setting my profile as EST gives a time 3 hours earlier than what it actually is.. had to set mine to mid-atlantic to get it right  :shock:
+Time zones are messed up.. I'm EST but setting my profile as EST gives a time 3 hours earlier than what it actually is.. had to set mine to mid-atlantic to get it right <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -60,7 +60,7 @@ It works, so yay!?
 
 <div class="post" data-post-id="262" data-author="Weasel" data-date="2004-05-23T14:31:52+00:00" data-subject="">
 
-err.. not unless you wanted your avatar pic to show "Image Hosted by Angelfire"  ..heh.
+err.. not unless you wanted your avatar pic to show "Image Hosted by Angelfire" ..heh.
 
 Some free hosts do that to stop people using their bandwidth by inserting angelfire hosted images on non-angelfire hosted websites...
 
@@ -68,12 +68,12 @@ Some free hosts do that to stop people using their bandwidth by inserting angelf
 
 <div class="post" data-post-id="263" data-author="Ironwolf" data-date="2004-05-23T17:00:22+00:00" data-subject="">
 
-funny avatar hotara :P
+funny avatar hotara <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="265" data-author="Hotara" data-date="2004-05-23T18:02:31+00:00" data-subject="">
 
-Yeah, especially geocities, it can be a real biatch. Regardless, if you can't see it, that's just a shame, don't know of any other host [or rather, not bothered to find such a host] that would host it :)
+Yeah, especially geocities, it can be a real biatch. Regardless, if you can't see it, that's just a shame, don't know of any other host [or rather, not bothered to find such a host] that would host it <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

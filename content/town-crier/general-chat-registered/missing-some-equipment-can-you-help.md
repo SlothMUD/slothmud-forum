@@ -14,7 +14,7 @@ post_count: 4
 
 In Summary, I had a reddish eye clasp attached to a jewelled patch looted by a female black dragon while in a group in dmount. Someone else took it, if you've still got it could you mail it to my alt Copra please.
 
-----------------------------------------------------------------------
+\----------------------------------------------------------------------
 
 This happened a couple of weeks ago, was part of a large number of deaths and a lot of looting by the mob. 
 
@@ -28,13 +28,14 @@ Anyway if you've still got it I'd be grateful if you could mail it, if not then 
 
 <div class="post" data-post-id="22972" data-author="jezer" data-date="2008-02-25T22:52:05+00:00" data-subject="">
 
-Or... it's the one selling on the block at the moment? :D
+Or... it's the one selling on the block at the moment? <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="22982" data-author="Thraxas" data-date="2008-02-26T17:35:44+00:00" data-subject="">
 
-Or... it's the one selling on the block at the moment? :D[/quote:16cjlsip]
+> <strong>jezer wrote:</strong>
+> Or... it's the one selling on the block at the moment? <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 No, I'm fairly certain the person that picked it up wouldn't have sold on chop.
 
@@ -44,11 +45,19 @@ T
 
 <div class="post" data-post-id="23000" data-author="Yasik" data-date="2008-02-27T05:48:33+00:00" data-subject="">
 
-Or... it's the one selling on the block at the moment? :D[/quote:1am6x6un]
-
-No, I'm fairly certain the person that picked it up wouldn't have sold on chop.
-
-T[/quote:1am6x6un]
+> <strong>Thraxas wrote:</strong>
+> > <strong>jezer wrote:</strong>
+> > Or... it's the one selling on the block at the moment? <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
+> 
+> 
+> 
+> 
+> 
+> No, I'm fairly certain the person that picked it up wouldn't have sold on chop.
+> 
+> 
+> 
+> T
 
 you're a hopeless child
 

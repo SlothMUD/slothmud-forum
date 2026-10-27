@@ -34,7 +34,7 @@ It's been rather harmonious in the game. Get your internets fixed and come play!
 
 Hey Chi!
 
-Modem?  :shock: 
+Modem? <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
 I got about 3 weeks use from those "Rings of Flaming Serpents" we traded and then they wiped the game, hehe.
 
@@ -50,9 +50,8 @@ CHICKLING!!!!!!!
 
 <div class="post" data-post-id="30404" data-author="Tuck" data-date="2009-12-03T11:58:53+00:00" data-subject="ZOMG TEH DRAMA!!!!">
 
-[quote:2yjz1r0h]
-
-Theres so much negative aura on the crier, I think this drives alot of people away. It is really sad to read all the uneeded rants and baby talk. But anyhow, Sloth moves on like always. [/quote:2yjz1r0h]
+> <strong>Quote:</strong>
+> Theres so much negative aura on the crier, I think this drives alot of people away. It is really sad to read all the uneeded rants and baby talk. But anyhow, Sloth moves on like always.
 
 ZOMG TEH DRAMA!!!!
 

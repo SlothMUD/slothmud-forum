@@ -24,7 +24,7 @@ as my examples sound silly i would like to show real life examples on the who li
 
 ![](http://i737.photobucket.com/albums/xx11/terror923/wholist.jpg)
 
-prescience a level 20  has 101 total levels (not that far from the level 30 in my example) grouping with umaro at 61 total levels there is roughly a 40% difference in levels
+prescience a level 20 has 101 total levels (not that far from the level 30 in my example) grouping with umaro at 61 total levels there is roughly a 40% difference in levels
 
 and if you group prescience up with a level 38 zenoko (total level 91) youll notice prescience actually gains MORE although not a huge amount more exp than zenoko despite zenoko being a level 38
 
@@ -36,7 +36,7 @@ people have tend to also blatantly rush their levels for a skill/spell (like sto
 
 what i suggest to do (and this can be debated) is 
 
--base the grouping exp formula on prime levels for everyone whos not a level 40 prime or higher to encourage lower levels to group with others at similar prime levels but much higher total levels while keeping the group exp formula after level 40 prime as total levels
+\-base the grouping exp formula on prime levels for everyone whos not a level 40 prime or higher to encourage lower levels to group with others at similar prime levels but much higher total levels while keeping the group exp formula after level 40 prime as total levels
 
 </div>
 

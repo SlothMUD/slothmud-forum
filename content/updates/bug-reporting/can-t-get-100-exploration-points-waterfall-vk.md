@@ -14,11 +14,11 @@ post_count: 7
 
 Hello!
 
-This is one more area where I was unable to get "completely explored" string in my score. I'm pretty sure I visited every room according to map on website, found 1 room unmapped, spend half of the day phasedooring, but still no 100%. I also made my own map, which is much better than what we have, with every room_name added to it. Also, I stumbled in every direction in every listed room that has no exit just to be sure I didnt miss any hidden exits.
+This is one more area where I was unable to get "completely explored" string in my score. I'm pretty sure I visited every room according to map on website, found 1 room unmapped, spend half of the day phasedooring, but still no 100%. I also made my own map, which is much better than what we have, with every room\_name added to it. Also, I stumbled in every direction in every listed room that has no exit just to be sure I didnt miss any hidden exits.
 
-Room_list:
+Room\_list:
 
----first level---
+\---first level---
 
 On Top of a Large Waterfall
 
@@ -84,7 +84,7 @@ Dark Waters
 
 Among the Sturdy Grasses
 
----second level---
+\---second level---
 
 Above a Freshwater Creek
 
@@ -170,7 +170,7 @@ Clover Patch
 
 Rolling Plain
 
----end---
+\---end---
 
 Can anyone please confirm, that there's no unattached rooms or imm's office etc, and players can get 100% exploration points from this areas using only players' means of traveling and interaction?
 
@@ -210,9 +210,9 @@ it helps find rooms. it basically tracks where you have been and gives you a rep
 
 and then i check if it is in fact an unlinked room or something.
 
-shyla has it atm.  if you cant find the room, enlist her help or wait til i am back online in a few days
+shyla has it atm. if you cant find the room, enlist her help or wait til i am back online in a few days
 
-and ask me.  mind you, you still need to do all the dirty work of running the area, but hey...
+and ask me. mind you, you still need to do all the dirty work of running the area, but hey...
 
 </div>
 
@@ -230,8 +230,8 @@ Thanks all!
 
 <div class="post" data-post-id="33663" data-author="Yasik" data-date="2012-10-18T07:54:09+00:00" data-subject="Re: Can&#x27;t get 100% exploration points (Waterfall, VK)">
 
-[<LINK_TEXT text="http://dl.dropbox.com/u/72105811/Pics/V ... _final.jpg">http://dl.dropbox.com/u/72105811/Pics/VK_Waterfall_map_full_final.jpg</LINK_TEXT>](http://dl.dropbox.com/u/72105811/Pics/VK_Waterfall_map_full_final.jpg)
+[http://dl.dropbox.com/u/72105811/Pics/VK_Waterfall_map_full_final.jpg](http://dl.dropbox.com/u/72105811/Pics/VK_Waterfall_map_full_final.jpg)
 
-Enjoy (c)  8)
+Enjoy (c) <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>

@@ -16,6 +16,6 @@ Scattered 300 hexes globally at 8pm Eastern Standard Time.
 
 Enjoy. And pls vote for SlothMud.
 
-[<LINK_TEXT text="http://www.mudconnect.com/mud-bin/vote_ ... d=SlothMUD">http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=SlothMUD</LINK_TEXT>](http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=SlothMUD)
+[http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=SlothMUD](http://www.mudconnect.com/mud-bin/vote_rank.cgi?mud=SlothMUD)
 
 </div>

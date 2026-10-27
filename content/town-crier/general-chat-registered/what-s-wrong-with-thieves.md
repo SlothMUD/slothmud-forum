@@ -16,7 +16,7 @@ I've been away for a while, but I'm noticing a recurring theme on the boards. Es
 
 For starters, everyone seems to pity thieves. I have no idea why. I've been playing one very happily since Sloth I. He's pretty much the same character I built way back in Sloth I with more skills. He's built to explore and survive. Sometimes I'm successful, that's life for any class. Thieves are built for stealth and mobility. In most games, they also like money and items... a LOT. Some kind of identify or lore skill would be nice (or even better, something to increase pop rates), but is hardly required. Even a barter skill would have limited advantage. Only complaint that I've ever had is that I can't restab or inflict extra damage on a circle when facing a blinded mob.
 
-Warriors want AC. Go figure. They're designed to do the most damage hand to hand of any class in the mud and stand toe to toe with mobs. Slow and steady wins the race. With weapon damage and +damage, quad attack and a good THAC0, that's a lot of damage potential a round, no work required. If anything, this class should be begging for +hit weapons so they can take advantage of their automatic damage. Or perhaps specialization... which in D&D essentially grants +hit and a +1 damage. Instead of specializing every possible weapon in the game, or even blast, whip, slice, whatever, you could simply add a 'weapon specialization' skill to warriors primes. This class isn't exciting, it stands there with recall scroll in hand and hopes it does more damage than the mob. No frills. Never has been. Short of re-implementing wrist worn weapons (stilletos) there's not a lot of room for improvement. Best idea I can think of at the moment would be some kind of grapple skill (perhaps this would be better for monks?) that supresses 2 or 3 enemy attacks... this would perhaps make warriors more useful in a supportive/non-tank role.
+Warriors want AC. Go figure. They're designed to do the most damage hand to hand of any class in the mud and stand toe to toe with mobs. Slow and steady wins the race. With weapon damage and +damage, quad attack and a good THAC0, that's a lot of damage potential a round, no work required. If anything, this class should be begging for +hit weapons so they can take advantage of their automatic damage. Or perhaps specialization... which in D\&D essentially grants +hit and a +1 damage. Instead of specializing every possible weapon in the game, or even blast, whip, slice, whatever, you could simply add a 'weapon specialization' skill to warriors primes. This class isn't exciting, it stands there with recall scroll in hand and hopes it does more damage than the mob. No frills. Never has been. Short of re-implementing wrist worn weapons (stilletos) there's not a lot of room for improvement. Best idea I can think of at the moment would be some kind of grapple skill (perhaps this would be better for monks?) that supresses 2 or 3 enemy attacks... this would perhaps make warriors more useful in a supportive/non-tank role.
 
 Wizards. Last I looked these are basically artillery pieces. Attack a mob, blast out, hope you don't die, regen, repeat. Preferably hide behind a warrior or suitable tank type. Can sometimes solo if extreme caution is excercised. Fast fingers and aliases a must, know what you're getting into because surprises eat those precious hps quick. Welcome addition to most groups. I think more spell ideas could be explored in the area of illusion, but this class is fairly straightforward.
 
@@ -70,11 +70,11 @@ and trust me, the second happens a lot mroe then the first ..do the math
 
 <div class="post" data-post-id="956" data-author="Ender" data-date="2004-07-07T02:59:23+00:00" data-subject="Interesting points....">
 
-Being the experienced thief you are, I appreciate your reply.  Perhaps I've simply remained too small to notice the disadvantages of thieves.  On the other hand, I rarely stab.  To be brutally honest, I often find that leading with a curse works much more to my advantage (then again, I am a Wa secondary).
+Being the experienced thief you are, I appreciate your reply. Perhaps I've simply remained too small to notice the disadvantages of thieves. On the other hand, I rarely stab. To be brutally honest, I often find that leading with a curse works much more to my advantage (then again, I am a Wa secondary).
 
-Typically I faerie fire, lead with a curse, web, and then follow with a steady stream of circle/trip/bash.  Refresh is handy if I run low on moves.  I agree that I'm not a big fan of nostab mobs, but I think that my character has a far more useful role in groups now than he had in the past.  Of course, I'm also more prepared to sanc myself and dig in for a long battle if I have to.
+Typically I faerie fire, lead with a curse, web, and then follow with a steady stream of circle/trip/bash. Refresh is handy if I run low on moves. I agree that I'm not a big fan of nostab mobs, but I think that my character has a far more useful role in groups now than he had in the past. Of course, I'm also more prepared to sanc myself and dig in for a long battle if I have to.
 
-I appreciate your concern when it comes to mobs hating you and I'm well aware the dangers of soloing against difficult mobs.  I've had to give up many an area when the wrong mob started hating me.  I don't find that to be unique to thieves though.  I am surprised though that I hadn't realised that the backstab multiplier doesn't increase for all the levels from 1x 40 to 4x 40.
+I appreciate your concern when it comes to mobs hating you and I'm well aware the dangers of soloing against difficult mobs. I've had to give up many an area when the wrong mob started hating me. I don't find that to be unique to thieves though. I am surprised though that I hadn't realised that the backstab multiplier doesn't increase for all the levels from 1x 40 to 4x 40.
 
 Any ideas on how to compensate for that?
 
@@ -90,11 +90,11 @@ WA primes in general don't tend to moan much for some reason, but parry is the o
 
 <div class="post" data-post-id="959" data-author="Ender" data-date="2004-07-07T03:55:24+00:00" data-subject="Re: Weasel">
 
-I don't find a lot wrong with thieves myself, I'm just trying to understand the overwhelming amount of pity they attract.  As far as thieves reaching -10 ac, I'm not surprised... after all their prime stat is Dex.  With all the +dex eq in the game though, it's incredibly common for a player to have 18 dex.
+I don't find a lot wrong with thieves myself, I'm just trying to understand the overwhelming amount of pity they attract. As far as thieves reaching -10 ac, I'm not surprised... after all their prime stat is Dex. With all the +dex eq in the game though, it's incredibly common for a player to have 18 dex.
 
-Warrior primes have parry, yes, but I don't think that's the only good thing they have.  Most warriors also have 18/100 str, which has some good +dam bonuses, as well as the AC, HPs, multiple attacks and very large weapons needed to give mobs a very bad day.  They're not exciting characters, no, but if you lose link in the middle of a battle, you have the least chance of corpsing.  Regenning is slow, granted, but mages tend to suffer the same disadvantage after battle.  Clerics and thieves for that matter.  The biggest disadvantage you can really give a warrior is that all of his special abilitys are more or less automatic and don't require a player sitting at the keyboard to necessarily be awake to come out on top.  Very boring.  However, if you ask how to make warriors better, the first thing mentioned (yourself included) is AC... which doesn't add much excitement to battle.  This is usually followed closely by more HP or more attacks... both of which are equally exciting.
+Warrior primes have parry, yes, but I don't think that's the only good thing they have. Most warriors also have 18/100 str, which has some good +dam bonuses, as well as the AC, HPs, multiple attacks and very large weapons needed to give mobs a very bad day. They're not exciting characters, no, but if you lose link in the middle of a battle, you have the least chance of corpsing. Regenning is slow, granted, but mages tend to suffer the same disadvantage after battle. Clerics and thieves for that matter. The biggest disadvantage you can really give a warrior is that all of his special abilitys are more or less automatic and don't require a player sitting at the keyboard to necessarily be awake to come out on top. Very boring. However, if you ask how to make warriors better, the first thing mentioned (yourself included) is AC... which doesn't add much excitement to battle. This is usually followed closely by more HP or more attacks... both of which are equally exciting.
 
-I am interested though, Shadis says leveling gets very slow between 2x40 and 9 av.  How would you describe the warrior leveling progression?
+I am interested though, Shadis says leveling gets very slow between 2x40 and 9 av. How would you describe the warrior leveling progression?
 
 Ender the Untitled
 
@@ -106,19 +106,20 @@ well.. I play an avatar mage prime, and a th/ma who's close to tri40.. and reall
 
 As Shadis mentioned - if I get lucky with stabs, my 2x40 th/ma can solo almost as much xp per run as my avatar mage, simply because it's easier to splork a 1.5mil mob for a total cost of 20mvs and some poison than it is to blast a 1.5mil nostab mob, use 50-75 mana on winds, and another 80 to remirror - granted, there is a difference of almost 200 mana between them (in solo gear - obviously much higher when the mage is in regen gear), but that gets used up fast. My mage runs -10 ac, so he is much more suited to thick mob - stab, dam, blind, and blasting out, he can kill much bigger mobs than my thief, who has not-so-good ac, due to his much higher damage.
 
-As to your point about 18 dex - anyone who runs anything without 18 dex, either with eq or nat, is insane :)  and 18/100 str is even more important for thieves than any other classo - stabbing without that is just kind of silly, thieves live and die by their stab, so the bigger the better, except perhaps on valk, where you can not get as high damage, and have no doublestab.
+As to your point about 18 dex - anyone who runs anything without 18 dex, either with eq or nat, is insane <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> and 18/100 str is even more important for thieves than any other classo - stabbing without that is just kind of silly, thieves live and die by their stab, so the bigger the better, except perhaps on valk, where you can not get as high damage, and have no doublestab.
 
 What class you play to solo depends greatly on the areas you want to run - no char is going to be perfectly suited to everything, and really, there is a good enough selection of areas in the mud that I think most classes can find stuff to kill at most levels - yes, some classes do level much faster much earlier on; there is absolutly no comparison between my ma/wa when he was 2x40, and my th/ma now, in terms of total xp or coins they can make in a run - but my thief has been running pretty much the same stuff since around 1x40, and will probably keep running them until he makes avatar, whereas with my mage whole new worlds opened up at 3x40 in terms of interesting things to do.
 
-Never played any of the other classes even to 40 prime, so I'll keep my mouth shut about them :)
+Never played any of the other classes even to 40 prime, so I'll keep my mouth shut about them <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-would also like to point out that this is a game, played (theoretically at least) just for fun - stats, numbers, total xp, total coins, yadayada aside, I think thiefs are about the most fun class to play - sure you die alot, and sure your runs end rather abruptly if you doublewhiff, but very few things in Sloth give me more joy than a damned good run through Infernite mines or something with my thief :)
+would also like to point out that this is a game, played (theoretically at least) just for fun - stats, numbers, total xp, total coins, yadayada aside, I think thiefs are about the most fun class to play - sure you die alot, and sure your runs end rather abruptly if you doublewhiff, but very few things in Sloth give me more joy than a damned good run through Infernite mines or something with my thief <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="963" data-author="Weasel" data-date="2004-07-07T06:47:06+00:00" data-subject="Re: Weasel">
 
-I am interested though, Shadis says leveling gets very slow between 2x40 and 9 av [for thieves].  How would you describe the warrior leveling progression?[/quote:3perabrh]
+> <strong>Ender wrote:</strong>
+> I am interested though, Shadis says leveling gets very slow between 2x40 and 9 av [for thieves]. How would you describe the warrior leveling progression?
 
 Based mainly on other prime's reports and the speed I've seen players gain levels relative to the time spent ingame, I'd describe WA prime levelling progression as slow at any level, particularly if you prefer to solo. You can do alright grouping of course, but that applies to anyone regardless of classo.
 
@@ -130,9 +131,9 @@ I better add that this opinion (and indeed any prime class performance opinion) 
 
 <div class="post" data-post-id="970" data-author="Avatar" data-date="2004-07-07T12:39:19+00:00" data-subject="Warrior solo">
 
-I'll add a bit concerning warrior solo ability...which rather applies to most soloing.  You're not going all the way to 1x40 with no other classes, you'll have ~20 levels in a second class.  That's going to sway your type of soloing in a certain direction.  Someone who's a Wa/Th is going to go for stab mobs, being a thicker thief who doesn't have to rely quite so much on a powerful stab.  The same happens at 2x40 and 3x40 ... a 2x40 Wa/Ma does not want to stab, he's going after the ethereal mobs with his -9 AC and winds.  
+I'll add a bit concerning warrior solo ability...which rather applies to most soloing. You're not going all the way to 1x40 with no other classes, you'll have \~20 levels in a second class. That's going to sway your type of soloing in a certain direction. Someone who's a Wa/Th is going to go for stab mobs, being a thicker thief who doesn't have to rely quite so much on a powerful stab. The same happens at 2x40 and 3x40 ... a 2x40 Wa/Ma does not want to stab, he's going after the ethereal mobs with his -9 AC and winds. 
 
-I was a 3x40+38 (wa/th/cl/ma) to get to min winds, and it made a distinct improvement to how I could solo.  That changed the character from hack - slash to someone with -9 plus a very nice stab and winds.  
+I was a 3x40+38 (wa/th/cl/ma) to get to min winds, and it made a distinct improvement to how I could solo. That changed the character from hack - slash to someone with -9 plus a very nice stab and winds. 
 
 Charles
 
@@ -140,67 +141,68 @@ Charles
 
 <div class="post" data-post-id="971" data-author="Ender" data-date="2004-07-07T12:47:37+00:00" data-subject="Stats">
 
-In Sloth I, 18 dex was insanely easy to accomplish.  Shield of the Rainmaster was +3 dex all by itself, not to mention quickling bracers and a host of other +dex items that littered the mud.  As for +con items... you could count them on your fingers.  There were 6, and everyone knew them by heart.
+In Sloth I, 18 dex was insanely easy to accomplish. Shield of the Rainmaster was +3 dex all by itself, not to mention quickling bracers and a host of other +dex items that littered the mud. As for +con items... you could count them on your fingers. There were 6, and everyone knew them by heart.
 
-1. Marble Helmet
+1\. Marble Helmet
 
-2. Silver Leg Plates
+2\. Silver Leg Plates
 
-3. Basalt Amulet
+3\. Basalt Amulet
 
-4. Shield of Blessing
+4\. Shield of Blessing
 
-5. Pearl of the Rising Tide
+5\. Pearl of the Rising Tide
 
-6. Sharkskin boots (?)
+6\. Sharkskin boots (?)
 
 If I remember correctly, Sharkskin boots were +str +con and spiked boots were -int. Black chainmail was quite the sensation for quite some time as well.
 
-Naturally, thief was everyone's last class, except for the mega tanks like Cxwq and Ultimus who were wa/th and players like Red who were just really annoying pthieves.  th/ma and ma/th didn't become popular until the advent of firewind, which started a whole new trend toward the thief class.
+Naturally, thief was everyone's last class, except for the mega tanks like Cxwq and Ultimus who were wa/th and players like Red who were just really annoying pthieves. th/ma and ma/th didn't become popular until the advent of firewind, which started a whole new trend toward the thief class.
 
-Did you really want to know that? No. But it explains my frustration with how easy it is to run 18 dex, even for quad mage classos.  Percentile strength, on the other hand, almost has to be rolled because it's simply too difficult to make up the difference with items.  It's also the deciding factor behind my th/wa classo.  I have an adversion to wasting weeks worth of time collecting tokens.  I currently run 18/82 13 12 18 18 with eq and -7 ac and that's plenty good enough for me. (Who says I need to be smart?)
+Did you really want to know that? No. But it explains my frustration with how easy it is to run 18 dex, even for quad mage classos. Percentile strength, on the other hand, almost has to be rolled because it's simply too difficult to make up the difference with items. It's also the deciding factor behind my th/wa classo. I have an adversion to wasting weeks worth of time collecting tokens. I currently run 18/82 13 12 18 18 with eq and -7 ac and that's plenty good enough for me. (Who says I need to be smart?)
 
-Again, you didn't want to know that, but it leads me into my next question...  Is everyone in the game running 18/100 18 18 18 18?  What stats are people settling for if they're not?  I have the suspicion that that fighter types sacrifice int/wis and mage types sacrifice str.  How close am I?
+Again, you didn't want to know that, but it leads me into my next question... Is everyone in the game running 18/100 18 18 18 18? What stats are people settling for if they're not? I have the suspicion that that fighter types sacrifice int/wis and mage types sacrifice str. How close am I?
 
 </div>
 
 <div class="post" data-post-id="972" data-author="Alberich" data-date="2004-07-07T13:30:42+00:00" data-subject="">
 
-for str, it depends on what balance of ac you are settling for - my mage runs 18/40 18 16 18 18 in his -10 mode, my thief runs 18/100 18 11 18 17, but I do give up quite a bit of ac to manage 18/100 str with him (+13 dam +23 stab_dam at -6, specifically) - however, as I said, a thief gets his xp by splorking big mobs, so in a good run, ac isn't as big a deal for a thief, as you don't get hit if you splork your mob (and stab mobs have such high hit/dam rolls that it doesn't really matter anyways).  Neither of those chars have particularly good stats, btw - my mage does not even have 2x18 nats.
+for str, it depends on what balance of ac you are settling for - my mage runs 18/40 18 16 18 18 in his -10 mode, my thief runs 18/100 18 11 18 17, but I do give up quite a bit of ac to manage 18/100 str with him (+13 dam +23 stab\_dam at -6, specifically) - however, as I said, a thief gets his xp by splorking big mobs, so in a good run, ac isn't as big a deal for a thief, as you don't get hit if you splork your mob (and stab mobs have such high hit/dam rolls that it doesn't really matter anyways). Neither of those chars have particularly good stats, btw - my mage does not even have 2x18 nats.
 
-I understand that this may have been different in sloth1, but... this is sloth3 :)
+I understand that this may have been different in sloth1, but... this is sloth3 <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="974" data-author="Weasel" data-date="2004-07-07T14:06:09+00:00" data-subject="Re: Stats">
 
-Is everyone in the game running 18/100 18 18 18 18?  What stats are people settling for if they're not?  I have the suspicion that that fighter types sacrifice int/wis and mage types sacrifice str.  How close am I?[/quote:137xi7pt]
+> <strong>Ender wrote:</strong>
+> Is everyone in the game running 18/100 18 18 18 18? What stats are people settling for if they're not? I have the suspicion that that fighter types sacrifice int/wis and mage types sacrifice str. How close am I?
 
-As far as I'm concerned you're right on the money. Much as I'd like to, I don't run with perfect stats, but I do run with Str, Dex and Con at max (with eq). Int & Wis are secondary to the other three since I'm a WA prime.
+As far as I'm concerned you're right on the money. Much as I'd like to, I don't run with perfect stats, but I do run with Str, Dex and Con at max (with eq). Int \& Wis are secondary to the other three since I'm a WA prime.
 
-When I switch to -11AC for tanking in groups, I drop more Int & Wis and some of my +dam and +hit to keep my HP high along with my AC.
+When I switch to -11AC for tanking in groups, I drop more Int \& Wis and some of my +dam and +hit to keep my HP high along with my AC.
 
 I don't know if there's many people in the game running at fully maxed stats, or if there are, they're likely having to sacrifice things like AC eq to do so (or they got one of those rarest of things on sloth; a really good reroll accross all their classes).
 
-Fortunately at 5x40 avatar status you can start buying stats since there's no more levels to gain, but they ain't cheap: 10billion exp & 15mil coin for 1 stat point I think. At least it means that having perfect stats is not entirely impossible anyway. 
+Fortunately at 5x40 avatar status you can start buying stats since there's no more levels to gain, but they ain't cheap: 10billion exp \& 15mil coin for 1 stat point I think. At least it means that having perfect stats is not entirely impossible anyway. 
 
-:)
+<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="976" data-author="Ender" data-date="2004-07-07T16:12:45+00:00" data-subject="Percentile Strength">
 
-I personnally think warriors have a distinct advantage in maxxing stats since they can achieve a high percentile strength easier.  Biased?  Perhaps, but its far easier to wear better AC/+hit/+dam/+whatever eq when you're not as concerned with how to integrate +stat eq. Not to mention that getting from 17 str to 18/100 takes about 11 items, which is enough to bring a 7 to an 18 for any other stat.  I don't think anyone in the game has settled for a 7 in their stats unless it's surrounded by about 3 or 4 18s.  This isn't perhaps a noticable advantage, but it works to make the warriors overall style of play simpler.
+I personnally think warriors have a distinct advantage in maxxing stats since they can achieve a high percentile strength easier. Biased? Perhaps, but its far easier to wear better AC/+hit/+dam/+whatever eq when you're not as concerned with how to integrate +stat eq. Not to mention that getting from 17 str to 18/100 takes about 11 items, which is enough to bring a 7 to an 18 for any other stat. I don't think anyone in the game has settled for a 7 in their stats unless it's surrounded by about 3 or 4 18s. This isn't perhaps a noticable advantage, but it works to make the warriors overall style of play simpler.
 
-Obviously we don't want everyone maxxing stats, so I'm not whining that I'd like there to be a lot more -AC +str items.  This is something to consider though.  My amazement is that blaster types are walking around with such low AC.  This somehow seems counter-intuitive...  I guess by traditional thinking, you can't cast through armor (at least metal armor).  Perhaps everyone thinks the mage class is so great because it doesn't suffer from that handycap.  Not that I know what you'd do to remedy that... the only thing that comes immediately to mind is to inflict a magic damage penalty to AC... and I don't think the players would go for that too quickly, but it would be funny to watch all the mages flee back into their regen gear and hidng behind tanks  :twisted:
+Obviously we don't want everyone maxxing stats, so I'm not whining that I'd like there to be a lot more -AC +str items. This is something to consider though. My amazement is that blaster types are walking around with such low AC. This somehow seems counter-intuitive... I guess by traditional thinking, you can't cast through armor (at least metal armor). Perhaps everyone thinks the mage class is so great because it doesn't suffer from that handycap. Not that I know what you'd do to remedy that... the only thing that comes immediately to mind is to inflict a magic damage penalty to AC... and I don't think the players would go for that too quickly, but it would be funny to watch all the mages flee back into their regen gear and hidng behind tanks <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="977" data-author="Calim" data-date="2004-07-07T16:21:18+00:00" data-subject="">
 
-Me: I run at 18/100 14 14 18 18 as a wa/th/ma/cl.  Nats 18/69 14 14 18 15.  People told me that it was going to be tough to play since those 3 con would be VERY hard to get with max ac eq.  I scoffed thinking nah, it shouldn't be hard, I've seen plenty of con eq.  Oops.  There is one item that has max ac and +con, no - modifiers.  Darksteel shoulder guards.  Not an easy autoquest.  I get my other 2 con from a light, excellent source for that and one from a 3x40 item that is -0.1 ac off the max for that slot.  That one tradeoff bothered me, I had to sacrifice a +15 hp held low, to get that -0.1 ac back.
+Me: I run at 18/100 14 14 18 18 as a wa/th/ma/cl. Nats 18/69 14 14 18 15. People told me that it was going to be tough to play since those 3 con would be VERY hard to get with max ac eq. I scoffed thinking nah, it shouldn't be hard, I've seen plenty of con eq. Oops. There is one item that has max ac and +con, no - modifiers. Darksteel shoulder guards. Not an easy autoquest. I get my other 2 con from a light, excellent source for that and one from a 3x40 item that is -0.1 ac off the max for that slot. That one tradeoff bothered me, I had to sacrifice a +15 hp held low, to get that -0.1 ac back.
 
-Now, I've never whined about the wa class.  I was able to nearly solo this char to 2x 40, joining only a few groups, which actually bumped my levels up pretty fast.  After 2x 40, there is the long climb to 3x which for most chars is a slow climb, not just thieves.
+Now, I've never whined about the wa class. I was able to nearly solo this char to 2x 40, joining only a few groups, which actually bumped my levels up pretty fast. After 2x 40, there is the long climb to 3x which for most chars is a slow climb, not just thieves.
 
 </div>
 
@@ -230,13 +232,13 @@ cleric regen rolls wis ..
 
 so for a th.ma to have decent stats he almost has to roll 3x18 (only way to have % str)
 
-it used to be you could play a thief with lousy ac as long as you had high  damage (same could be said about casters classes too)
+it used to be you could play a thief with lousy ac as long as you had high damage (same could be said about casters classes too)
 
 but AC has become essential
 
 i have 18/07 18 10 18 17 stats
 
-i run at 18/100 18 10 18 17 -8 ac +14 dam +17 stab_dam
+i run at 18/100 18 10 18 17 -8 ac +14 dam +17 stab\_dam
 
 i could run -9 and 13 dam or -7 and 15 dam (this is all pre avatar)
 
@@ -254,14 +256,14 @@ do not play thieves? heh
 
 <div class="post" data-post-id="1035" data-author="Avatar" data-date="2004-07-12T17:17:57+00:00" data-subject="Warrior strength">
 
-Warriors do have that nice str, which does make choosing eq a little simpler.  On the other hand, mages and clerics have it pretty easy too if you mostly group.  My smaller cleric has like +6 ac, makes it easy to find a spot for +stat gear.  If you don't solo much, it's a waste of time to collect that AC gear.
+Warriors do have that nice str, which does make choosing eq a little simpler. On the other hand, mages and clerics have it pretty easy too if you mostly group. My smaller cleric has like +6 ac, makes it easy to find a spot for +stat gear. If you don't solo much, it's a waste of time to collect that AC gear.
 
 </div>
 
 <div class="post" data-post-id="1037" data-author="Ender" data-date="2004-07-12T19:31:56+00:00" data-subject="Clerics?">
 
-Style of play varies wildly in and out of groups.  It's very easy to hide behind a tank, do as your told and collect wild amounts of XP.  The equipment worn and tactics used are often radically different.
+Style of play varies wildly in and out of groups. It's very easy to hide behind a tank, do as your told and collect wild amounts of XP. The equipment worn and tactics used are often radically different.
 
-I was more interested in the advantages and disadvantages of each class.  For instance, if it was impossible for a cleric to level unless they were in a group, that would be a significant disadvantage.  I don't know if that is the case though.
+I was more interested in the advantages and disadvantages of each class. For instance, if it was impossible for a cleric to level unless they were in a group, that would be a significant disadvantage. I don't know if that is the case though.
 
 </div>

@@ -14,7 +14,7 @@ post_count: 1
 
 Want to be doing stuff like this ?
 
-<825hp 501ma 357mv>backstab guard
+\<825hp 501ma 357mv\>backstab guard
 
 cast 'firewind'
 
@@ -38,13 +38,13 @@ You get gold coins from the corpse of a gate guard that's on the ground.
 
 There were 4550 coins.
 
-<825hp 501ma 342mv>Armor Report for A gate guard: Avoided (%) :Missed (%) Parried (%) Wraithform (%) Bounced (%)
+\<825hp 501ma 342mv\>Armor Report for A gate guard: Avoided (%) :Missed (%) Parried (%) Wraithform (%) Bounced (%)
 
 I used 0 frostbolts to kill A gate guard.
 
 Who should the spell be cast upon?
 
-<825hp 501ma 344mv>backstab guard
+\<825hp 501ma 344mv\>backstab guard
 
 A gate guard hates your guts!
 
@@ -54,15 +54,15 @@ The wound turns black from the poison on your blade.
 
 A gate guard makes a strange sound, as you place Rogue's Dagger in his back.
 
-<824hp 500ma 331mv>cast 'firewind'
+\<824hp 500ma 331mv\>cast 'firewind'
 
 The song ends and you don't feel so fierce any more.
 
-<822hp 498ma 332mv>Ok.
+\<822hp 498ma 332mv\>Ok.
 
 A gate guard vanishes in a burning wind.
 
-<822hp 473ma 332mv>You pierce a gate guard extremely hard.
+\<822hp 473ma 332mv\>You pierce a gate guard extremely hard.
 
 You are viciously massacred by a gate guard's slash.
 
@@ -94,7 +94,7 @@ An elite castle guard makes a strange sound, as you place Rogue's Dagger in his 
 
 Your brutal backstab causes an elite castle guard to writhe in agony, opening up his defenses!
 
-<757hp 454ma 332mv>|
+\<757hp 454ma 332mv\>\|
 
 cast 'firewind'
 
@@ -116,7 +116,7 @@ There were 9763 coins.
 
 This exp machine is now for trade. Wish i had time and energy for two chars, but i dont.
 
-Your levels:  Th: 40 Ma: 40 Cl: 40 Ne: 31 Ba: 14 Wa: 15 Mo: 10 Dr: 8 
+Your levels: Th: 40 Ma: 40 Cl: 40 Ne: 31 Ba: 14 Wa: 15 Mo: 10 Dr: 8 
 
 You have (800/800+63) hit, (522/522+59) mana and (3332/332+52) movement points.
 
@@ -128,43 +128,43 @@ eq
 
 You are using:
 
-<used as light>      a glowing oyster's pearl
+\<used as light\> a glowing oyster's pearl
 
-<worn on finger>     the ring of the dead
+\<worn on finger\> the ring of the dead
 
-<worn on finger>     a crystal ring..It has a soft glowing aura!
+\<worn on finger\> a crystal ring..It has a soft glowing aura!
 
-<worn around neck>   an emblem of the sun
+\<worn around neck\> an emblem of the sun
 
-<worn around neck>   an emblem of the sun
+\<worn around neck\> an emblem of the sun
 
-<worn on body>       a jacket engraved with the king's symbol
+\<worn on body\> a jacket engraved with the king's symbol
 
-<worn on head>       a helm of shadows
+\<worn on head\> a helm of shadows
 
-<worn on legs>       Ogre Hide Leggings..It has a soft glowing aura!
+\<worn on legs\> Ogre Hide Leggings..It has a soft glowing aura!
 
-<worn on feet>       a pair of fox hide sandals
+\<worn on feet\> a pair of fox hide sandals
 
-<worn on hands>      mailed gloves..It emits a faint humming sound!
+\<worn on hands\> mailed gloves..It emits a faint humming sound!
 
-<worn on arms>       Sleeves of the Clown Lord Marshall
+\<worn on arms\> Sleeves of the Clown Lord Marshall
 
-<worn as shield>     the Wind Shield
+\<worn as shield\> the Wind Shield
 
-<worn about body>    a multicolored mantle..It has a soft glowing aura!
+\<worn about body\> a multicolored mantle..It has a soft glowing aura!
 
-<worn about waist>   a silk belt..It emits a faint humming sound!
+\<worn about waist\> a silk belt..It emits a faint humming sound!
 
-<worn around wrist>  a black opal bracelet
+\<worn around wrist\> a black opal bracelet
 
-<worn around wrist>  a black opal bracelet
+\<worn around wrist\> a black opal bracelet
 
-<wielded>            a secari dagger
+\<wielded\> a secari dagger
 
-<held>               a skeletal branch..It emits a faint humming sound!
+\<held\> a skeletal branch..It emits a faint humming sound!
 
-======================================================================
+\======================================================================
 
 You have (838/838+59) hit, (601/601+49) mana and (332/332+52) movement points.
 
@@ -172,43 +172,43 @@ Str: 15[16], Int: 18[18], Wis: 15[14], Dex: 18[18], Con: 18[15]
 
 You are using:
 
-<used as light>      the obsidian jewel of souls..It has a soft glowing aura!
+\<used as light\> the obsidian jewel of souls..It has a soft glowing aura!
 
-<worn on finger>     a basalt ring..It has a soft glowing aura!
+\<worn on finger\> a basalt ring..It has a soft glowing aura!
 
-<worn on finger>     a basalt ring..It has a soft glowing aura!
+\<worn on finger\> a basalt ring..It has a soft glowing aura!
 
-<worn around neck>   an emblem of the sun
+\<worn around neck\> an emblem of the sun
 
-<worn around neck>   an emblem of the sun
+\<worn around neck\> an emblem of the sun
 
-<worn on body>       ruby platemail..It has a soft glowing aura!
+\<worn on body\> ruby platemail..It has a soft glowing aura!
 
-<worn on head>       a helm of shadows
+\<worn on head\> a helm of shadows
 
-<worn on legs>       Ogre Hide Leggings..It has a soft glowing aura!
+\<worn on legs\> Ogre Hide Leggings..It has a soft glowing aura!
 
-<worn on feet>       a pair of fox hide sandals
+\<worn on feet\> a pair of fox hide sandals
 
-<worn on hands>      mailed gloves..It emits a faint humming sound!
+\<worn on hands\> mailed gloves..It emits a faint humming sound!
 
-<worn on arms>       Sleeves of the Clown Lord Marshall
+\<worn on arms\> Sleeves of the Clown Lord Marshall
 
-<worn as shield>     the Wind Shield
+\<worn as shield\> the Wind Shield
 
-<worn about body>    a multicolored mantle..It has a soft glowing aura!
+\<worn about body\> a multicolored mantle..It has a soft glowing aura!
 
-<worn about waist>   a flaming sash..It has a soft glowing aura!
+\<worn about waist\> a flaming sash..It has a soft glowing aura!
 
-<worn around wrist>  a black opal bracelet
+\<worn around wrist\> a black opal bracelet
 
-<worn around wrist>  a black opal bracelet
+\<worn around wrist\> a black opal bracelet
 
-<wielded>            a secari dagger
+\<wielded\> a secari dagger
 
-<held>               a skeletal branch..It emits a faint humming sound!
+\<held\> a skeletal branch..It emits a faint humming sound!
 
-======================================================================
+\======================================================================
 
 You have (829/779+50) hit, (582/450+23) mana and (349/360+41) movement points.
 
@@ -222,41 +222,41 @@ Str: 19[16], Int: 18[18], Wis: 14[14], Dex: 19[18], Con: 16[15]
 
 You are using:
 
-<used as light>      Orb of Wrath
+\<used as light\> Orb of Wrath
 
-<worn on finger>     a man's diamond ring..It has a soft glowing aura!
+\<worn on finger\> a man's diamond ring..It has a soft glowing aura!
 
-<worn on finger>     a man's diamond ring..It has a soft glowing aura!
+\<worn on finger\> a man's diamond ring..It has a soft glowing aura!
 
-<worn on shoulders>  the guards of the emerald tide..It has a soft glowing aura!
+\<worn on shoulders\> the guards of the emerald tide..It has a soft glowing aura!
 
-<worn around neck>   a thief's shadow bending half-cloak..It has a soft glowing aura!
+\<worn around neck\> a thief's shadow bending half-cloak..It has a soft glowing aura!
 
-<worn on body>       a black suit of dwarven platemail
+\<worn on body\> a black suit of dwarven platemail
 
-<worn on head>       a prison guard helmet
+\<worn on head\> a prison guard helmet
 
-<worn on legs>       dwarvish greaves..It emits a faint humming sound!
+\<worn on legs\> dwarvish greaves..It emits a faint humming sound!
 
-<worn on feet>       old viking boots
+\<worn on feet\> old viking boots
 
-<worn on hands>      a pair of onyx and diamond-studded gauntlets
+\<worn on hands\> a pair of onyx and diamond-studded gauntlets
 
-<worn on arms>       sleeves of molten lava..It has a soft glowing aura!
+\<worn on arms\> sleeves of molten lava..It has a soft glowing aura!
 
-<worn as shield>     a giant oyster shell
+\<worn as shield\> a giant oyster shell
 
-<worn about body>    Cloak of Specialization..It emits a faint humming sound!
+\<worn about body\> Cloak of Specialization..It emits a faint humming sound!
 
-<worn about waist>   a dull red belt (with a single-striped white sash (Private) attached to it)
+\<worn about waist\> a dull red belt (with a single-striped white sash (Private) attached to it)
 
-<worn around wrist>  a black opal bracelet
+\<worn around wrist\> a black opal bracelet
 
-<worn around wrist>  a black opal bracelet
+\<worn around wrist\> a black opal bracelet
 
-<wielded>            Rogue's Dagger
+\<wielded\> Rogue's Dagger
 
-<held>               a mu-jen doll
+\<held\> a mu-jen doll
 
 What do i want for it ? Only a Rhodochrosite Rune or 5 Rhodo gems. and thats it.
 

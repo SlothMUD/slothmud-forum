@@ -12,9 +12,9 @@ post_count: 3
 
 <div class="post" data-post-id="8895" data-author="Shara" data-date="2005-10-04T07:11:43+00:00" data-subject="wintin">
 
-Me and chobs are getting errors when we minimize the wintin window.  It's keeps giving us an out of boundary error, the message shows up twice, and then goes away.
+Me and chobs are getting errors when we minimize the wintin window. It's keeps giving us an out of boundary error, the message shows up twice, and then goes away.
 
-It's really annoying!  Does this happen to anyone else?
+It's really annoying! Does this happen to anyone else?
 
 </div>
 
@@ -30,16 +30,16 @@ Splork
 
 <div class="post" data-post-id="8923" data-author="Shara" data-date="2005-10-04T20:52:41+00:00" data-subject="">
 
-I don't feel like getting an account at wintin.org :(
+I don't feel like getting an account at wintin.org <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 So... here it is:
 
 When I minimize the client window, it gives me this error:
 
-An unhandled exception has occurred in your application.  If you click Continue, the application will ignore this error and attempt to continue.  If you click Quit, the application will be shut down immediately.
+An unhandled exception has occurred in your application. If you click Continue, the application will ignore this error and attempt to continue. If you click Quit, the application will be shut down immediately.
 
-'-4' is not a valid value for 'LargeChange'.  'LargeChange' must be greater than or equal to 0.
+'-4' is not a valid value for 'LargeChange'. 'LargeChange' must be greater than or equal to 0.
 
-If I hit continue, it pops up again, and then I hit continue one more time and it goes away :)
+If I hit continue, it pops up again, and then I hit continue one more time and it goes away <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

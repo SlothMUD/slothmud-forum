@@ -24,7 +24,7 @@ If not, can someone look up log and restore me eq-wise minus lost exp from death
 
 OR, maybe not needed.. although I think some non-replaceable items got lost in crash in which only an IMM can restore if such a think a possible...
 
-This is NOT a bard song.. please drink responsibly :P
+This is NOT a bard song.. please drink responsibly <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -32,7 +32,7 @@ This is NOT a bard song.. please drink responsibly :P
 
 The item I lost is gotten from an autoquest but its not personal. So I'll jyst run it with an alt char to reclaim. Any questions, contact me ingame.
 
- :oops:
+ <img src="/images/smilies/icon_redface.svg" alt=":oops:" title=":oops:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -42,7 +42,7 @@ Sad to hear... No, really
 
 I havent lost any eq in loot+crash, but i think i understand your feelings
 
-Jess remember - Dont Panic! (c)     :)
+Jess remember - Dont Panic! (c) <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -56,7 +56,7 @@ I'm too tired...
 
 oh fudge it,going back afk...
 
-This IS a bard song,please drink at will :twisted:
+This IS a bard song,please drink at will <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -70,6 +70,6 @@ item I seek there all along...
 
 should really take my arse back to bed....
 
-This has been an actual post. Had it been fake, I woulda posted some weird link..  :twisted:
+This has been an actual post. Had it been fake, I woulda posted some weird link.. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

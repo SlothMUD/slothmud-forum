@@ -18,17 +18,17 @@ Let's make aging the way it was five years ago, dependent on MUD years passed si
 
 <div class="post" data-post-id="5012" data-author="Alberich" data-date="2005-03-13T06:49:59+00:00" data-subject="">
 
-so if you can only log in for a little bit every day, you get to spend the whole time splorking mobs for poy cps, or spend all your drach buying 'em at weaver?  yeah... that sounds like alot of fun to me
+so if you can only log in for a little bit every day, you get to spend the whole time splorking mobs for poy cps, or spend all your drach buying 'em at weaver? yeah... that sounds like alot of fun to me
 
 </div>
 
 <div class="post" data-post-id="5017" data-author="Leaf" data-date="2005-03-13T17:01:32+00:00" data-subject="">
 
-I think he was saying it takes forever to age.  It's hard for newer chars
+I think he was saying it takes forever to age. It's hard for newer chars
 
-to get mov points.  Maybe if we rent we should age like 5yrs ago.  However
+to get mov points. Maybe if we rent we should age like 5yrs ago. However
 
-at a slower rate then before.  Now when we rent, we don't age.  Which isn't
+at a slower rate then before. Now when we rent, we don't age. Which isn't
 
 bad for storage chars, or ppl thats on breaks.... But it can go both ways...
 
@@ -68,15 +68,15 @@ glowing hoof: Mountain Goat (Firenewts)
 
 5000 coins
 
-I know the wolf is kinda tough.  Other than that it doesn't seem too bad, cheap potion too.
+I know the wolf is kinda tough. Other than that it doesn't seem too bad, cheap potion too.
 
 </div>
 
 <div class="post" data-post-id="5021" data-author="Qa" data-date="2005-03-13T20:47:04+00:00" data-subject="">
 
-Please do not change againg.  Years ago it was way too quick.  (I bet I have forged 25 EoYs and used/bought an number of PoYs.)  At one point I was over 60 and my moves sucked.  I really don't want to go back to having to run EoY/PoY mobs on a regular basis.  The way it is currently, I can add EoY mobs to any exising runs and foge EoYs at a rate slightly faster than I age.
+Please do not change againg. Years ago it was way too quick. (I bet I have forged 25 EoYs and used/bought an number of PoYs.) At one point I was over 60 and my moves sucked. I really don't want to go back to having to run EoY/PoY mobs on a regular basis. The way it is currently, I can add EoY mobs to any exising runs and foge EoYs at a rate slightly faster than I age.
 
-Aging happens at a good rate.  A nice balance, imo.  If you are in a hurry, that potion looks relatively easy for forge.  (The wolves are even fun mobs since Tys put in the safe room.)
+Aging happens at a good rate. A nice balance, imo. If you are in a hurry, that potion looks relatively easy for forge. (The wolves are even fun mobs since Tys put in the safe room.)
 
 Qa
 
@@ -86,9 +86,9 @@ Qa
 
 Speaking of age, what is the ideal age?
 
-It is my understanding that total moves is related to age.  The ideal age being 30 or 32 for total moves.
+It is my understanding that total moves is related to age. The ideal age being 30 or 32 for total moves.
 
-I have also wondered if move regen is age related.  (Being a caster, move regen is not something I have bothered to pay attention to.)  So what is the idea age for move regen?  Or am I totally wrong and move regen is independent of age?
+I have also wondered if move regen is age related. (Being a caster, move regen is not something I have bothered to pay attention to.) So what is the idea age for move regen? Or am I totally wrong and move regen is independent of age?
 
 Qa
 
@@ -102,15 +102,15 @@ I thinki t just effects the max mvs. Yeah, the ideal age for max mvs is low 30's
 
 <div class="post" data-post-id="5032" data-author="Choong" data-date="2005-03-14T05:40:24+00:00" data-subject=".">
 
-If I'm not mistaken, my mvs was max at 30. Anyway at the age of 40, you still have very playable mvs/ mv regen and don't really need eoy poy.  its reaching the age of 80/90 that poy are really appreciated. 
+If I'm not mistaken, my mvs was max at 30. Anyway at the age of 40, you still have very playable mvs/ mv regen and don't really need eoy poy. its reaching the age of 80/90 that poy are really appreciated. 
 
-I've played an avatar char once that was 80+ years old. My job was to reduce its age down to 30. By 50+ years old it was quite ok relative to the initial 80+  :twisted:
+I've played an avatar char once that was 80+ years old. My job was to reduce its age down to 30. By 50+ years old it was quite ok relative to the initial 80+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="5036" data-author="Avatar" data-date="2005-03-14T12:22:32+00:00" data-subject="Age">
 
-It used to be quite rough if you were away for any amount of time.  I have two characters that each hit over 100 years.  Of course we used to do those fountain of youth quests so I'd try my hardest to find that fountain every time it was placed.
+It used to be quite rough if you were away for any amount of time. I have two characters that each hit over 100 years. Of course we used to do those fountain of youth quests so I'd try my hardest to find that fountain every time it was placed.
 
 </div>
 
@@ -124,15 +124,15 @@ Or something like that.
 
 <div class="post" data-post-id="5042" data-author="Calim" data-date="2005-03-14T14:41:27+00:00" data-subject="">
 
-Don't change it back.  I've been here a long time and taken several leaves that lasted many months.  One of those leaves was in part due to the age of my character getting over the playable point with moves.  I could not keep up in groups and had a late stat, low int, such that I could not refresh enough either.  Of course, I came back, created Calim and have used one EoY to get him back to around 30.  
+Don't change it back. I've been here a long time and taken several leaves that lasted many months. One of those leaves was in part due to the age of my character getting over the playable point with moves. I could not keep up in groups and had a late stat, low int, such that I could not refresh enough either. Of course, I came back, created Calim and have used one EoY to get him back to around 30. 
 
-Of a more fun note, I have access to a char, who due to some weird bug, was 423 years old.  I forget which imm helped with that, but thanks again.
+Of a more fun note, I have access to a char, who due to some weird bug, was 423 years old. I forget which imm helped with that, but thanks again.
 
 </div>
 
 <div class="post" data-post-id="5044" data-author="kjartan" data-date="2005-03-14T19:25:37+00:00" data-subject="">
 
-I don't think there's any plans to change aging back to being based on wall-clock-time-since-character-creation.  The current aging system with age affecting nothing but moves is kind of silly, which makes it a ripe target for change, but it's not something we are actively working on changing at the moment.
+I don't think there's any plans to change aging back to being based on wall-clock-time-since-character-creation. The current aging system with age affecting nothing but moves is kind of silly, which makes it a ripe target for change, but it's not something we are actively working on changing at the moment.
 
 </div>
 
@@ -144,10 +144,10 @@ heh.. yeah, you go senile and forget half your spells, or say the wrong spell an
 
 <div class="post" data-post-id="5061" data-author="Toxis" data-date="2005-03-15T00:41:11+00:00" data-subject="">
 
-Funny idea, Weasel, everyone could be a Fizban. :)
+Funny idea, Weasel, everyone could be a Fizban. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-Also, lower hp regen, and lower hp, you'd think.  Lower constitution and dexterity for anyone over 50?  But I'd also like to see higher intelligence and wisdom for chars who are old.
+Also, lower hp regen, and lower hp, you'd think. Lower constitution and dexterity for anyone over 50? But I'd also like to see higher intelligence and wisdom for chars who are old.
 
-I'd like to see a balance of aging, for good and bad.  Of course casters would want to be elderly and wise, and warriors would want to be young and strong.  I'm not sure if it would be too much to add into the mud, but it was interesting thinking on the posibilities.
+I'd like to see a balance of aging, for good and bad. Of course casters would want to be elderly and wise, and warriors would want to be young and strong. I'm not sure if it would be too much to add into the mud, but it was interesting thinking on the posibilities.
 
 </div>

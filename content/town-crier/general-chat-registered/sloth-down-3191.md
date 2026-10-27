@@ -18,7 +18,7 @@ Sloth down? or lag ?
 
 <div class="post" data-post-id="29662" data-author="eau" data-date="2009-07-05T09:36:38+00:00" data-subject="">
 
-i just lagged and lost link, and cant sign back in, not sure if its my connection or sloth :(
+i just lagged and lost link, and cant sign back in, not sure if its my connection or sloth <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -42,7 +42,7 @@ seems sloth problem
 
 <div class="post" data-post-id="29666" data-author="Hitman" data-date="2009-07-05T10:05:49+00:00" data-subject="">
 
-heh so I said ima afk too... and that was the last thing I could say.. can't log back in.. :roll:
+heh so I said ima afk too... and that was the last thing I could say.. can't log back in.. <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -64,7 +64,7 @@ Splork
 
 <div class="post" data-post-id="29670" data-author="eau" data-date="2009-07-05T12:37:30+00:00" data-subject="">
 
-Well i really think that destruction was doin somethin wierd down in firenewts.......so blame him :P
+Well i really think that destruction was doin somethin wierd down in firenewts.......so blame him <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 

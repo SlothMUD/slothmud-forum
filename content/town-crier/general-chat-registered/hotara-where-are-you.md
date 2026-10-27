@@ -20,9 +20,9 @@ AL
 
 <div class="post" data-post-id="9544" data-author="Chainer" data-date="2005-11-17T08:09:53+00:00" data-subject="">
 
-Hotara's currently studying at Russia and won't be coming back till next year or so.  :evil: 
+Hotara's currently studying at Russia and won't be coming back till next year or so. <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom"> 
 
-I'll ask him to drop a word or two here if i ever see him on. :D
+I'll ask him to drop a word or two here if i ever see him on. <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -34,6 +34,6 @@ Actually, I'm the next person who'd like to know where Hotara is. Yeah, he told 
 
 <div class="post" data-post-id="9548" data-author="Autolycos" data-date="2005-11-17T16:22:09+00:00" data-subject="">
 
-awww.. would could be afraid of that?  unless he has grouped with you, and you killed him multiple times in group.....   :twisted:
+awww.. would could be afraid of that? unless he has grouped with you, and you killed him multiple times in group..... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

@@ -18,7 +18,7 @@ The black smith looks down in terror as his intestines spill out!
 
 The black smith is dead! R.I.P.
 
-#There's no such command as '-'
+\#There's no such command as '-'
 
 You receive 0 experience points as your share.
 
@@ -38,7 +38,7 @@ You get gold coins from the corpse of the black smith that's on the ground.
 
 There were 26932 coins.
 
-You split 26932 coins.  You keep 8978 coins.
+You split 26932 coins. You keep 8978 coins.
 
 </div>
 
@@ -46,6 +46,6 @@ You split 26932 coins.  You keep 8978 coins.
 
 Fixed.
 
--Neptune
+\-Neptune
 
 </div>

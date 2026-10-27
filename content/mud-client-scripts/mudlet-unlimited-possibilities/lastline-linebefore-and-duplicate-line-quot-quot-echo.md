@@ -24,7 +24,7 @@ Then make a new trigger and name it LAST LINE TRIGGER, or wutever
 
 regex trigger:
 
-(^[A-Z].*)
+(^[A-Z].\*)
 
 block:
 
@@ -34,7 +34,7 @@ selectCurrentLine()
 
 deleteLine()
 
-cecho("<maroon>+<reset>")
+cecho("\<maroon\>+\<reset\>")
 
 end
 
@@ -42,7 +42,7 @@ lineBefore=lastLine
 
 lastLine=matches[2]
 
-------------
+\------------
 
 Now anytime you get a duplicate line from the mud, it will be deleted, and a maroon + will appear at the end of the preceeding line. Also now you can access the var lineBefore in your scripts which can be handy.
 

@@ -12,15 +12,15 @@ post_count: 18
 
 <div class="post" data-post-id="26523" data-author="Toxis" data-date="2008-10-01T21:02:46+00:00" data-subject="2 man?">
 
-What is the best overall 2 man group?  I'm talking for xp, eq, or anything that would come along.
+What is the best overall 2 man group? I'm talking for xp, eq, or anything that would come along.
 
 I was thinking 
 
-th ma cl mo  with a  ne dr ma cl
+th ma cl mo with a ne dr ma cl
 
 Any thoughts on this?
 
--Tox
+\-Tox
 
 </div>
 
@@ -46,7 +46,7 @@ t/m/mo/c with c/d/ma/b
 
 <div class="post" data-post-id="26529" data-author="jezer" data-date="2008-10-02T00:26:16+00:00" data-subject="">
 
-[img:2kiap7ae]http://www.web4j.com/images/youngnerdlove.jpg[/img:2kiap7ae]
+![](http://www.web4j.com/images/youngnerdlove.jpg)
 
 Two Man? Definately, Autolycos and Weasel (They are the one looking at you strangely). Nice pic too.
 
@@ -58,7 +58,7 @@ Two Man? Definately, Autolycos and Weasel (They are the one looking at you stran
 
 It is recommended that you return to the BeastieMania Homepage to find the page you were initially looking for."
 
- :shock:   what the hell was the pic of ??
+ <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> what the hell was the pic of ??
 
 </div>
 
@@ -66,15 +66,15 @@ It is recommended that you return to the BeastieMania Homepage to find the page 
 
 ah ok now I got it..
 
-[url:2iutqgnq]http://www.beastiemania.com/qa/images/FFYRTP/Ffyrtp01.jpg[/url:2iutqgnq]
+http://www.beastiemania.com/qa/images/FFYRTP/Ffyrtp01.jpg
 
-:P
+<img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="26532" data-author="jezer" data-date="2008-10-02T00:44:19+00:00" data-subject="">
 
-I had to find a new pic, yes that was my original... the snicker is just totally destroyed now :( Stoopid, smart sites and there hotlink detection.
+I had to find a new pic, yes that was my original... the snicker is just totally destroyed now <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom"> Stoopid, smart sites and there hotlink detection.
 
 </div>
 
@@ -82,9 +82,9 @@ I had to find a new pic, yes that was my original... the snicker is just totally
 
 I want to thank you for your constructive criticizm... made me laugh.
 
-I decided to go with Stelios (dr ma cl ne) for myself, and Kim can play Flicka (th ma cl mo).  I figured for xp and eq, it would rock all around.
+I decided to go with Stelios (dr ma cl ne) for myself, and Kim can play Flicka (th ma cl mo). I figured for xp and eq, it would rock all around.
 
--Tox
+\-Tox
 
 </div>
 
@@ -96,11 +96,12 @@ I'd say a th/cl/mo/wa with a ma/dr/cl/ba stabbing in -11 ac
 
 <div class="post" data-post-id="26535" data-author="jezer" data-date="2008-10-02T05:19:34+00:00" data-subject="">
 
-I'd say a th/cl/mo/wa with a ma/dr/cl/ba stabbing in -11 ac[/quote:2l6juvap]
+> <strong>juggleblood wrote:</strong>
+> I'd say a th/cl/mo/wa with a ma/dr/cl/ba stabbing in -11 ac
 
 Your joking right?
 
-No necro... pretty odd, since they are the best for killing the big mobs, but you enjoy being odd and different don't you :twisted: 
+No necro... pretty odd, since they are the best for killing the big mobs, but you enjoy being odd and different don't you <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 I think the best classos always have at least 3 caster classes. Mana and how much you have is the ultimate power in this game.
 
@@ -108,7 +109,7 @@ Your stupid if you don't have cleric... and remember druid can be all things in 
 
 Your thief there can't blast, has little mana... oh my goodness... that's not even a close guess... that classo is just all wrong! I know, because those classo's make up jezer... even if it was my first char and I got them around the wrong way...
 
-Don't listen to junglebloods!  :twisted:
+Don't listen to junglebloods! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 WTS jezer! You can have him for a black crappie!
 
@@ -116,11 +117,9 @@ WTS jezer! You can have him for a black crappie!
 
 <div class="post" data-post-id="26536" data-author="Tap" data-date="2008-10-02T10:17:27+00:00" data-subject="2 man doesn&#x27;t always pan out OR Darwin doesn&#x27;t always work">
 
-Man gets burned while using lighter to siphon gas [/size:1h6omfpe]
+Man gets burned while using lighter to siphon gas 
 
  MUKWONAGO, Wis. - Police said a man was arrested after he used a cigarette lighter while trying to siphon gasoline from a van. The man, who was visiting friends, went to drive home early Saturday but realized that he didn't have enough gas in his SUV.
-
- 
 
 Police said the man tried to siphon the gas with help from another woman, but he couldn't see how much gas was in the container, so he used the lighter to check.
 
@@ -156,7 +155,7 @@ th/cl decent mana/mana regen
 
 can heal self/eudamon
 
-=most forceful, damage resistant, stabber in game imo
+\=most forceful, damage resistant, stabber in game imo
 
 add to that a mage maxed out in spelldam 
 
@@ -178,7 +177,7 @@ i would have to say the most powerful twosome i've observed recently is Sa and C
 
 <div class="post" data-post-id="26543" data-author="Medios" data-date="2008-10-02T22:58:11+00:00" data-subject="">
 
-First of all the thief has no blasting, this sux when you got high ac and low +hit.  Secondly quad bard is not going to reign anything.  It is a fairly good combo but I think an old school warrior would be a better pick.  You take someone like Rub with -12 and a decent stab and blasting and add a good caster or a Minstrel and your off the hook.
+First of all the thief has no blasting, this sux when you got high ac and low +hit. Secondly quad bard is not going to reign anything. It is a fairly good combo but I think an old school warrior would be a better pick. You take someone like Rub with -12 and a decent stab and blasting and add a good caster or a Minstrel and your off the hook.
 
 </div>
 
@@ -190,7 +189,8 @@ Reign isn't really that bad, I've reigned quite a few mobs in charisma mode, whi
 
 <div class="post" data-post-id="26547" data-author="Medios" data-date="2008-10-03T20:33:14+00:00" data-subject="">
 
-Reign isn't really that bad, I've reigned quite a few mobs in charisma mode, which is maxed what whatever quad is maxed at, pretty easily most of the time[/quote:uzrsebvv]
+> <strong>Yinao wrote:</strong>
+> Reign isn't really that bad, I've reigned quite a few mobs in charisma mode, which is maxed what whatever quad is maxed at, pretty easily most of the time
 
 Hrmm a few weeks ago when my purchased charisma was not adding to total I couldn't reign any mobs I tried.
 

@@ -20,9 +20,9 @@ forged 28 items
 
 blew 7 forges
 
-died 46 times  :oops: 
+died 46 times <img src="/images/smilies/icon_redface.svg" alt=":oops:" title=":oops:" width="15" height="15" class="smiley nozoom"> 
 
-solved 22 quests  :?: 
+solved 22 quests <img src="/images/smilies/icon_question.svg" alt=":?:" title=":?:" width="15" height="15" class="smiley nozoom"> 
 
 By my count I've solved 66 quests...?
 

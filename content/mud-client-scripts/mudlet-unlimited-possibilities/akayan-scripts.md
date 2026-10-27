@@ -24,19 +24,19 @@ I'm happy to answer any questions you have and/or walk you through the installat
 
 This first script will activate the MSDP information exchange. This will give you loads of information sent by the game server for you to utilize in your scripts.
 
-1) Create a new script
+1\) Create a new script
 
-2) Copy and paste the following to the big white scripting box:
+2\) Copy and paste the following to the big white scripting box:
 
 ```
 function getmsdpvars(event, args)
 	for i = 1, 2 do tempTimer(i, [[send "\n"]]) end
-   tempTimer(1, function () sendATCP("@REPORT", "SERVER_ID WORLD_TIME CHARACTER_NAME HEALTH HEALTH_MAX MANA MANA_MAX MOVEMENT MOVEMENT_MAX AREA_NAME ROOM_NAME ROOM_VNUM AC HONOR CONTINENT LEVEL CLASS DRACHMA ALIGNMENT EXPERIENCE MONEY STR CON DEX WIS INT STR_PERM CON_PERM DEX_PERM WIS_PERM WEAPON_DAM SPELL_BONUS_CAP HEAL_BONUS HEAL_BONUS_CAP CHARISMA CHARISMA_CAP FLAIL_DAM KICK_DAM HAND_DAM HAND_DAM_CAP DAM_RED DAM_RED_CAP SEX GROUP_LEADER TANK_HEALTH TANK_HEALTH_MAX TANK_LEVEL TANK_NAME LEVEL_SEC LEVEL_TER LEVEL_QUA LEVEL_QUI LEVEL_HEX LEVEL_SEP LEVEL_OCT LEVEL_AVA CITIZEN CLASS_SEC CLASS_TER CLASS_QUA CLASS_QUI CLASS_HEX CLASS_SEP CLASS_OCT CLASS_AVA STAB_DAM STAB_DAM_CAP UNDEAD_CONT UNDEAD_CONT_CAP SPELL_BONUS INT_PERM HITROLL DAMROLL OPPONENT_HEALTH OPPONENT_HEALTH_MAX OPPONENT_LEVEL OPPONENT_NAME TERRAIN") end)
+ tempTimer(1, function () sendATCP("@REPORT", "SERVER_ID WORLD_TIME CHARACTER_NAME HEALTH HEALTH_MAX MANA MANA_MAX MOVEMENT MOVEMENT_MAX AREA_NAME ROOM_NAME ROOM_VNUM AC HONOR CONTINENT LEVEL CLASS DRACHMA ALIGNMENT EXPERIENCE MONEY STR CON DEX WIS INT STR_PERM CON_PERM DEX_PERM WIS_PERM WEAPON_DAM SPELL_BONUS_CAP HEAL_BONUS HEAL_BONUS_CAP CHARISMA CHARISMA_CAP FLAIL_DAM KICK_DAM HAND_DAM HAND_DAM_CAP DAM_RED DAM_RED_CAP SEX GROUP_LEADER TANK_HEALTH TANK_HEALTH_MAX TANK_LEVEL TANK_NAME LEVEL_SEC LEVEL_TER LEVEL_QUA LEVEL_QUI LEVEL_HEX LEVEL_SEP LEVEL_OCT LEVEL_AVA CITIZEN CLASS_SEC CLASS_TER CLASS_QUA CLASS_QUI CLASS_HEX CLASS_SEP CLASS_OCT CLASS_AVA STAB_DAM STAB_DAM_CAP UNDEAD_CONT UNDEAD_CONT_CAP SPELL_BONUS INT_PERM HITROLL DAMROLL OPPONENT_HEALTH OPPONENT_HEALTH_MAX OPPONENT_LEVEL OPPONENT_NAME TERRAIN") end)
 --	tempTimer(2, function () cecho("<green><MSDP ACTIVATED><reset>") end)
 end
 ```
 
-3) Click Save and be sure the script is enabled
+3\) Click Save and be sure the script is enabled
 
 You will now be able to request data from the server via the getmsdpvars() function!
 
@@ -48,7 +48,7 @@ Enjoy!
 
 Need some fancy gauges for your UI?
 
-(image: /[http://oi45.tinypic.com/ehejcn.jpg](http://oi45.tinypic.com/ehejcn.jpg))
+![](http://oi45.tinypic.com/ehejcn.jpg)
 
 Download Gauges.zip from here:
 
@@ -56,13 +56,13 @@ Download Gauges.zip from here:
 
 And install to your Mudlet profile using the Package Manager.
 
-Then enter **cg** on your prompt line.
+Then enter <strong>cg</strong> on your prompt line.
 
 This script utilizes MSDP data and the Vyzor Framework.
 
 Follow the instructions in the first two posts to get this working properly for you.
 
-**Keeps track of your health, mana, move, and mob health via colorful gauges. Also has a numerical display as the 'center piece'.**
+<strong>Keeps track of your health, mana, move, and mob health via colorful gauges. Also has a numerical display as the 'center piece'.</strong>
 
 Enjoy!
 
@@ -82,7 +82,7 @@ And install it on your Mudlet profile using the Package Manager
 
 This script utilizes the Vyzor Framework so you'll want to follow the instructions on the very first post.
 
-**If you want to add/remove tabs, alter this line in the 'Create the UI' script included with the .xml file**
+<strong>If you want to add/remove tabs, alter this line in the 'Create the UI' script included with the .xml file</strong>
 
 ![](http://i45.tinypic.com/34nfymt.png)
 
@@ -102,7 +102,7 @@ http://youtu.be/t2DjeKRhN74
 
 <div class="post" data-post-id="33917" data-author="*Breeze*" data-date="2013-01-12T13:51:28+00:00" data-subject="Re: Akayan Scripts">
 
-neat scripts :)
+neat scripts <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 thanks!
 
@@ -110,7 +110,7 @@ thanks!
 
 <div class="post" data-post-id="33918" data-author="Constin" data-date="2013-01-12T14:29:35+00:00" data-subject="Re: Akayan Scripts">
 
-Does MSDP vars TANK_HEALTH TANK_HEALTH_MAX TANK_LEVEL TANK_NAME exist? And how they used in game if yes?
+Does MSDP vars TANK\_HEALTH TANK\_HEALTH\_MAX TANK\_LEVEL TANK\_NAME exist? And how they used in game if yes?
 
 </div>
 
@@ -122,12 +122,12 @@ those are set if you are in a group and the tank uses the 'point' command.
 
 <div class="post" data-post-id="33921" data-author="Akaya" data-date="2013-01-13T03:15:36+00:00" data-subject="Re: Akayan Scripts">
 
-> **Constin wrote:**
-> Does MSDP vars TANK_HEALTH TANK_HEALTH_MAX TANK_LEVEL TANK_NAME exist?
+> <strong>Constin wrote:</strong>
+> Does MSDP vars TANK\_HEALTH TANK\_HEALTH\_MAX TANK\_LEVEL TANK\_NAME exist?
 
-**YES!**
+<strong>YES!</strong>
 
-> **Constin wrote:**
+> <strong>Constin wrote:</strong>
 > And how they used in game if yes?
 
 After following the instructions on post #2 of this topic, you'll have access to all MSDP information, including tank info.
@@ -136,19 +136,19 @@ MSDP is live. Meaning it updates automatically whenever the variables change.
 
 To utilize this awesome feature, you'll want to create an [event handler](http://wiki.mudlet.org/w/Manual:Event_Engine).
 
-When the MSDP information is sent to you, an event is raised that has the same name as the variable (In this case, MSDPTANK_HEALTH, MSDPTANK_HEALTH_MAX, etc )
+When the MSDP information is sent to you, an event is raised that has the same name as the variable (In this case, MSDPTANK\_HEALTH, MSDPTANK\_HEALTH\_MAX, etc )
 
 So you'll want to make a script that fires off of these variables. Here's an example:
 
 ![](http://oi49.tinypic.com/10eg41c.jpg)
 
-When the MSDP variable, MSDPTANK_HEALTH is updated, the function updateTank() is ran.
+When the MSDP variable, MSDPTANK\_HEALTH is updated, the function updateTank() is ran.
 
- :!: Notice how the script name and function name match? This is very important!
+ <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom"> Notice how the script name and function name match? This is very important!
 
 The above script will display the following every time your tank's health changes:
 
-**TANK 75/100**
+<strong>TANK 75/100</strong>
 
 Enjoy!
 
@@ -160,62 +160,60 @@ Someone requested the following script, so here you are Someone.
 
 This will remove all your EQ, place it in a defined container, pull another set of EQ from a defined container and wield/hold/wear the items.
 
-The example contains **two sets** of default equipment which you can alter/add to. I included two example sets: AC and Stabbing
+The example contains <strong>two sets</strong> of default equipment which you can alter/add to. I included two example sets: AC and Stabbing
 
-When you login, you'll want to let the system know which set you're currently wearing. Simply type: **set eq <set name>**
+When you login, you'll want to let the system know which set you're currently wearing. Simply type: <strong>set eq \<set name\></strong>
 
-You'll then want to set which container each EQ set belongs to. So type: **set bag <EQ set> <container>**
+You'll then want to set which container each EQ set belongs to. So type: <strong>set bag \<EQ set\> \<container\></strong>
 
-To switch between equipment sets simply type: **ex <set name>**
+To switch between equipment sets simply type: <strong>ex \<set name\></strong>
 
 Due note that you'll need to set which EQ set your wearing and which containers they'll go into each time you re-open that profile in Mudlet.
 
- :!: To add/alter equipment sets, create a new if statement, function and table in the format provided.
+ <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom"> To add/alter equipment sets, create a new if statement, function and table in the format provided.
 
 </div>
 
 <div class="post" data-post-id="33923" data-author="*Breeze*" data-date="2013-01-13T09:05:53+00:00" data-subject="Re: Akayan Scripts">
 
-tyvm.  will try it
+tyvm. will try it
 
 </div>
 
 <div class="post" data-post-id="33924" data-author="Constin" data-date="2013-01-13T16:01:50+00:00" data-subject="Re: Akayan Scripts">
 
-> **Akaya wrote:**
-> To switch between equipment sets simply type: **ex <set name>**
+> <strong>Akaya wrote:</strong>
+> To switch between equipment sets simply type: <strong>ex \<set name\></strong>
 > 
 > 
 > 
-> So to switch to the AC set you'd type: **ex ac**
+> So to switch to the AC set you'd type: <strong>ex ac</strong>
 > 
 > 
 > 
 > To add/alter equipment sets, create a new if statement, function and table in the format provided. (If you need help in this area just ask. Should people like this script, I'll update it to have aliases for this)
 
-You use bad algorithm. Ppl storing their eq in bags , or robes and using more then 2 mods.  So u need:
+You use bad algorithm. Ppl storing their eq in bags , or robes and using more then 2 mods. So u need:
 
- 1. rem all eq.
+ 1\. rem all eq.
 
- 2. Then get EQ u need from container.
+ 2\. Then get EQ u need from container.
 
- 3. Wear Items u need.
+ 3\. Wear Items u need.
 
- 4. put items from previos mode to containner. U cant put all items from inventory to container couse inventory may content some junk.
-
- 
+ 4\. put items from previos mode to containner. U cant put all items from inventory to container couse inventory may content some junk.
 
 So. first of all u need to know previos mode , to know which items u need to put to container after exchange. Also u cant wear weapons and holding items. "wield dagger" "hold light" i mean u better test scripts before public it)
 
-reliable way is to put all items from all modes exept mode u using to container in point 4.  in this case u dont need to know previos mode.
+reliable way is to put all items from all modes exept mode u using to container in point 4. in this case u dont need to know previos mode.
 
--------
+\-------
 
 Some good words about MSDP exchange script:
 
-Thank you u all very match for this ability. Thank Splork and other coders for  MSDP. Thank you Akaya for this script. Its greate abulity.
+Thank you u all very match for this ability. Thank Splork and other coders for MSDP. Thank you Akaya for this script. Its greate abulity.
 
-I can use this window and scripts w/o visior, am i right?  Whoohoo!
+I can use this window and scripts w/o visior, am i right? Whoohoo!
 
 </div>
 
@@ -223,9 +221,9 @@ I can use this window and scripts w/o visior, am i right?  Whoohoo!
 
 Updated the EQ Exchange script.
 
-- Fixed the problem with only being able to wear items and not wield or hold.
+\- Fixed the problem with only being able to wear items and not wield or hold.
 
-- You can now set which containers you'd like to place your EQ in.
+\- You can now set which containers you'd like to place your EQ in.
 
 Remember that it still only includes two sets. If you want to have more, you'll need to wait for me to have the time or do it yourself. The script contains everything you need to add another set.
 
@@ -239,17 +237,17 @@ If you are using the latest version of Mudlet (2.1 is currently the latest) you 
 
 Simply type: 
 
-**lua <whatever>**
+<strong>lua \<whatever\></strong>
 
 Whatever being the script you wish to run.
 
 Enter this on the command prompt to display your profile's path on your computer:
 
-**lua cecho("<yellow>\nProfile location: <cyan>"..getMudletHomeDir() )**
+<strong>lua cecho("\<yellow\>\\nProfile location: \<cyan\>"..getMudletHomeDir() )</strong>
 
 If you receive msdp information (instructions on how to do this in post #2), you can enter this right from your prompt to display the msdp variable which holds your character's name (You can use this in an alias if you'd prefer to view it that way): 
 
-**lua display( atcp.MSDPCHARACTER_NAME )**
+<strong>lua display( atcp.MSDPCHARACTER\_NAME )</strong>
 
 It's a very useful script that will save you hours of time in the long run.
 
@@ -261,21 +259,21 @@ Enjoy!
 
 function getmsdpvars(event, args)
 
-   for i = 1, 2 do tempTimer(i, [[send "\n"]]) end
+ for i = 1, 2 do tempTimer(i, [[send "\\n"]]) end
 
-   tempTimer(1, function () sendATCP("@REPORT", "SERVER_ID WORLD_TIME CHARACTER_NAME HEALTH HEALTH_MAX MANA MANA_MAX MOVEMENT MOVEMENT_MAX AREA_NAME ROOM_NAME ROOM_VNUM AC HONOR CONTINENT LEVEL CLASS DRACHMA ALIGNMENT EXPERIENCE MONEY STR CON DEX WIS INT STR_PERM CON_PERM DEX_PERM WIS_PERM WEAPON_DAM SPELL_BONUS_CAP HEAL_BONUS HEAL_BONUS_CAP CHARISMA CHARISMA_CAP FLAIL_DAM KICK_DAM HAND_DAM HAND_DAM_CAP DAM_RED DAM_RED_CAP SEX GROUP_LEADER TANK_HEALTH TANK_HEALTH_MAX TANK_LEVEL TANK_NAME LEVEL_SEC LEVEL_TER LEVEL_QUA LEVEL_QUI LEVEL_HEX LEVEL_SEP LEVEL_OCT LEVEL_AVA CITIZEN CLASS_SEC CLASS_TER CLASS_QUA CLASS_QUI CLASS_HEX CLASS_SEP CLASS_OCT CLASS_AVA STAB_DAM STAB_DAM_CAP UNDEAD_CONT UNDEAD_CONT_CAP SPELL_BONUS INT_PERM HITROLL DAMROLL OPPONENT_HEALTH OPPONENT_HEALTH_MAX OPPONENT_LEVEL OPPONENT_NAME TERRAIN") end)
+ tempTimer(1, function () sendATCP("@REPORT", "SERVER\_ID WORLD\_TIME CHARACTER\_NAME HEALTH HEALTH\_MAX MANA MANA\_MAX MOVEMENT MOVEMENT\_MAX AREA\_NAME ROOM\_NAME ROOM\_VNUM AC HONOR CONTINENT LEVEL CLASS DRACHMA ALIGNMENT EXPERIENCE MONEY STR CON DEX WIS INT STR\_PERM CON\_PERM DEX\_PERM WIS\_PERM WEAPON\_DAM SPELL\_BONUS\_CAP HEAL\_BONUS HEAL\_BONUS\_CAP CHARISMA CHARISMA\_CAP FLAIL\_DAM KICK\_DAM HAND\_DAM HAND\_DAM\_CAP DAM\_RED DAM\_RED\_CAP SEX GROUP\_LEADER TANK\_HEALTH TANK\_HEALTH\_MAX TANK\_LEVEL TANK\_NAME LEVEL\_SEC LEVEL\_TER LEVEL\_QUA LEVEL\_QUI LEVEL\_HEX LEVEL\_SEP LEVEL\_OCT LEVEL\_AVA CITIZEN CLASS\_SEC CLASS\_TER CLASS\_QUA CLASS\_QUI CLASS\_HEX CLASS\_SEP CLASS\_OCT CLASS\_AVA STAB\_DAM STAB\_DAM\_CAP UNDEAD\_CONT UNDEAD\_CONT\_CAP SPELL\_BONUS INT\_PERM HITROLL DAMROLL OPPONENT\_HEALTH OPPONENT\_HEALTH\_MAX OPPONENT\_LEVEL OPPONENT\_NAME TERRAIN") end)
 
---   tempTimer(2, function () cecho("<green><MSDP ACTIVATED><reset>") end)
+\-- tempTimer(2, function () cecho("\<green\>\<MSDP ACTIVATED\>\<reset\>") end)
 
 end
 
-how to run this script at start? i need to start it manualy by using command getmsdpvars()  every time im loging in
+how to run this script at start? i need to start it manualy by using command getmsdpvars() every time im loging in
 
 </div>
 
 <div class="post" data-post-id="33933" data-author="Akaya" data-date="2013-01-18T21:07:07+00:00" data-subject="Re: Akayan Scripts">
 
-MSDPSERVER_ID is raised each time you log in. So you can create an event handler to run getmsdpvars() when you do. It would look like this:
+MSDPSERVER\_ID is raised each time you log in. So you can create an event handler to run getmsdpvars() when you do. It would look like this:
 
 ![](http://oi49.tinypic.com/2i2371j.jpg)
 
@@ -285,7 +283,7 @@ Enjoy!
 
 <div class="post" data-post-id="34053" data-author="Tuck" data-date="2013-02-19T23:13:30+00:00" data-subject="Re: Akayan Scripts">
 
-Did you get TANK_NAME, TANK_HEALTH and other TANK related vars to work?
+Did you get TANK\_NAME, TANK\_HEALTH and other TANK related vars to work?
 
 Thanks for your answer.
 
@@ -293,24 +291,24 @@ Thanks for your answer.
 
 <div class="post" data-post-id="34118" data-author="Akaya" data-date="2013-03-03T19:00:30+00:00" data-subject="Re: Akayan Scripts">
 
-> **Tuck wrote:**
-> Did you get TANK_NAME, TANK_HEALTH and other TANK related vars to work?
+> <strong>Tuck wrote:</strong>
+> Did you get TANK\_NAME, TANK\_HEALTH and other TANK related vars to work?
 
 Yes. Your tank's name, level, current and max health are all listed in your MSDP table.
 
-MSDPTANK_NAME
+MSDPTANK\_NAME
 
-MSDPTANK_LEVEL
+MSDPTANK\_LEVEL
 
-MSDPTANK_HEALTH
+MSDPTANK\_HEALTH
 
-MSDPTANK_HEALTH_MAX
+MSDPTANK\_HEALTH\_MAX
 
-**If a tank is not yet set, then the value will be nil.**
+<strong>If a tank is not yet set, then the value will be nil.</strong>
 
 Here are a few examples of what you can do with these values:
 
-*This will simply display the value given in parenthesis*
+<em>This will simply display the value given in parenthesis</em>
 
 ```
 display(atcp.MSDPTANK_NAME)
@@ -324,7 +322,7 @@ cecho("\n<yellow>Tank's HP: <cyan>"..atcp.MSDPTANK_HEALTH.."<yellow>/"..atcp.MSD
 
 For Vyzor users, the following will send your tank information to a Frame.
 
-*Tank_Name(level): health/max*
+<em>Tank\_Name(level): health/max</em>
 
 ```
 Frame_Name:Echo(atcp.MSDPTANK_NAME.."("..atcp.MSDPTANK_LEVEL.."): "..atcp.MSDPTANK_HEALTH.."/"..atcp.MSDPTANK_HEALTH_MAX)
@@ -332,7 +330,7 @@ Frame_Name:Echo(atcp.MSDPTANK_NAME.."("..atcp.MSDPTANK_LEVEL.."): "..atcp.MSDPTA
 
 For Geyser users, the following will send your tank information to a label.
 
-*Tank_Name(level): health/max*
+<em>Tank\_Name(level): health/max</em>
 
 ```
 echo("label_name", atcp.MSDPTANK_NAME.."("..atcp.MSDPTANK_LEVEL.."): "..atcp.MSDPTANK_HEALTH.."/"..atcp.MSDPTANK_HEALTH_MAX)
@@ -358,7 +356,7 @@ Here's a few videos from the channel so you can get an idea of what's in store:
 
 The actual GUI Creator itself along with some other useful information can be found here: 
 
-[<LINK_TEXT text="http://forums.mudlet.org/viewtopic.php? ... 329#p16363">http://forums.mudlet.org/viewtopic.php?f=6&t=3329#p16363</LINK_TEXT>](http://forums.mudlet.org/viewtopic.php?f=6&t=3329#p16363)
+[http://forums.mudlet.org/viewtopic.php?f=6&t=3329#p16363](http://forums.mudlet.org/viewtopic.php?f=6&t=3329#p16363)
 
 Enjoy!
 
@@ -366,10 +364,10 @@ Enjoy!
 
 <div class="post" data-post-id="34238" data-author="Jecka" data-date="2013-04-16T07:13:01+00:00" data-subject="Re: Akayan Scripts">
 
-> **Akaya wrote:**
+> <strong>Akaya wrote:</strong>
 > I'm happy to answer any questions you have and/or walk you through the installation process. Enjoy!
 
-Sorry Akaya :) 
+Sorry Akaya <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> 
 
 I did my best at mudlet with your scripts for Slothmud but the only thing i got was 
 
@@ -383,7 +381,7 @@ and after i printed U
 
 "Vyzor: Unloaded all modules."
 
-any advice please :)
+any advice please <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -401,14 +399,14 @@ If your problems persist, I'm more than willing to walk you through the process 
 
 <div class="post" data-post-id="34249" data-author="Jecka" data-date="2013-04-20T09:28:33+00:00" data-subject="Re: Akayan Scripts">
 
-> **Akaya wrote:**
+> <strong>Akaya wrote:</strong>
 > I'm guessing you installed vyzor.xml instead of vyzor.mpackage
 
 You were absolutely right.
 
-But nevertheless after installing vyzor.mpackage I still can't figure out how you nice-looking scripts can be installed :(
+But nevertheless after installing vyzor.mpackage I still can't figure out how you nice-looking scripts can be installed <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
-So please post some more additionel help :)
+So please post some more additionel help <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -426,7 +424,7 @@ If you'd like, send me a PM on this forum and we'll set up a date/time where I c
 
 <div class="post" data-post-id="34251" data-author="Jecka" data-date="2013-04-21T07:04:00+00:00" data-subject="Re: Akayan Scripts">
 
-> **Akaya wrote:**
+> <strong>Akaya wrote:</strong>
 > Each of my scripts come in a .zip file.
 > 
 > 
@@ -441,7 +439,7 @@ If you'd like, send me a PM on this forum and we'll set up a date/time where I c
 > 
 > If you'd like, send me a PM on this forum and we'll set up a date/time where I can set it up for you.
 
-I got some improvements but still not all of them :(
+I got some improvements but still not all of them <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -453,7 +451,7 @@ The Geyser Gameboy is ready-to-play. Simply download, install and you're good to
 
 The Vyzor Gameboy however will require the latest version of Vyzor. You can find a link to this in the first post of this topic.
 
-You can pick up a copy of each Gameboy here:<LINK_TEXT text="http://forums.mudlet.org/viewtopic.php? ... =20#p16781">http://forums.mudlet.org/viewtopic.php?f=6&t=2984&start=20#p16781</LINK_TEXT>
+You can pick up a copy of each Gameboy here:http://forums.mudlet.org/viewtopic.php?f=6&t=2984&start=20#p16781
 
 Enjoy!
 
@@ -505,36 +503,36 @@ cssback: Optional argument. The stylesheet to apply to the back portion of the g
 
 <div class="post" data-post-id="34648" data-author="Akaya" data-date="2013-12-17T18:12:24+00:00" data-subject="Exit Parser for Linux">
 
-Here's a function I wrote with Ubuntu that will return a table of exits in your current room by parsing MSDPROOM_EXITS. Not sure if this works with other operating systems because of the weird characters that separate the exit names, but if you're not on Linux, still give it a whirl, lemme know what happens:
+Here's a function I wrote with Ubuntu that will return a table of exits in your current room by parsing MSDPROOM\_EXITS. Not sure if this works with other operating systems because of the weird characters that separate the exit names, but if you're not on Linux, still give it a whirl, lemme know what happens:
 
 ```
 function parseExits()
-  exits = {}
-  str = atcp.MSDPROOM_EXITS
-  dirs = {"North","East","South","West","Up","Down"}
-  for i=1,string.len(str) do
-    if string.ends(str,"") or string.ends(str,"O") or string.ends(str,"") or string.ends(str,"") or string.ends(str,"") then
-      str = string.cut(str,string.len(str)-1)
-    else
-    for k,v in pairs(dirs) do
-      if string.ends(str,v) then
-        str = string.cut(str,string.len(str)-string.len(v))
-        table.insert(exits,v)
-      end
-    end
-    end
-  end
-  return exits
+ exits = {}
+ str = atcp.MSDPROOM_EXITS
+ dirs = {"North","East","South","West","Up","Down"}
+ for i=1,string.len(str) do
+ if string.ends(str,"") or string.ends(str,"O") or string.ends(str,"") or string.ends(str,"") or string.ends(str,"") then
+ str = string.cut(str,string.len(str)-1)
+ else
+ for k,v in pairs(dirs) do
+ if string.ends(str,v) then
+ str = string.cut(str,string.len(str)-string.len(v))
+ table.insert(exits,v)
+ end
+ end
+ end
+ end
+ return exits
 end
 ```
 
-To use this script, simply call parseExits() each time you enter a room or when MSDPROOM_VNUM updates. Let's say I'm in a room with exits west, north and south. **parseExits()** would return:
+To use this script, simply call parseExits() each time you enter a room or when MSDPROOM\_VNUM updates. Let's say I'm in a room with exits west, north and south. <strong>parseExits()</strong> would return:
 
 ```
 {
-  "West",
-  "North",
-  "South"
+ "West",
+ "North",
+ "South"
 }
 ```
 
@@ -552,31 +550,31 @@ Enjoy!
 
 <div class="post" data-post-id="34649" data-author="Akaya" data-date="2013-12-17T18:19:28+00:00" data-subject="Re: Akayan Scripts">
 
-Unfortunately, the forum doesn't want to post the 'weird characters' which is the reason for the above script. So if you're still looking to parse the exits, you'll want to manually insert the 'weird characters' you see in MSDPROOM_EXITS to **string.ends(str,"weird_character")** of the above script.
+Unfortunately, the forum doesn't want to post the 'weird characters' which is the reason for the above script. So if you're still looking to parse the exits, you'll want to manually insert the 'weird characters' you see in MSDPROOM\_EXITS to <strong>string.ends(str,"weird\_character")</strong> of the above script.
 
 </div>
 
 <div class="post" data-post-id="34650" data-author="DarkArtist" data-date="2013-12-17T22:13:43+00:00" data-subject="Re: Akayan Scripts">
 
-I admit to being a newb, but I couldn't understand what weird chars you meant at first cuz I couldn't even get MSDPROOM_EXITS to give me anything, until I realized it was absent from getmsdpvars() that I got from you. So fyi other newbs, don't forget to add it to the list if its not there.
+I admit to being a newb, but I couldn't understand what weird chars you meant at first cuz I couldn't even get MSDPROOM\_EXITS to give me anything, until I realized it was absent from getmsdpvars() that I got from you. So fyi other newbs, don't forget to add it to the list if its not there.
 
 I found the character codes for those weird symbols under Terminal fonts, but how do I enter them into mudlet? When I paste them in from the character map they come out as foreign letters and upside down question mark.
 
 I wrote down the character codes if I can do it that way somehow?
 
-What I've got now for exits is a trigger off the pattern ^Exits:(\s+)(.*)(\s)(\s)(\s)$
+What I've got now for exits is a trigger off the pattern ^Exits:(\\s+)(.\*)(\\s)(\\s)(\\s)$
 
 exitsString=matches[3]
 
 exits={}
 
-exits=exitsString:split("  ")     -------(two spaces in the delimiter)
+exits=exitsString:split(" ") -------(two spaces in the delimiter)
 
---display(exits)
+\--display(exits)
 
-I'm guessing msdproom_exits give you all the exits, whether u can see them or not? If so, I guess it'd be better to switch, but triggering off the exits output has the advantage that you can could capture the brackets and make a table of closed/open status for each valid exit. 
+I'm guessing msdproom\_exits give you all the exits, whether u can see them or not? If so, I guess it'd be better to switch, but triggering off the exits output has the advantage that you can could capture the brackets and make a table of closed/open status for each valid exit. 
 
-Thanks again for posting all this stuff.  
+Thanks again for posting all this stuff. 
 
 btw, it seems the board duplicates your post when u change title, i hope i responded correctly.
 
@@ -584,7 +582,7 @@ btw, it seems the board duplicates your post when u change title, i hope i respo
 
 <div class="post" data-post-id="34651" data-author="Akaya" data-date="2013-12-18T07:12:41+00:00" data-subject="Re: Akayan Scripts">
 
-The characters seem to vary depending on the OS. To use the characters in a script, you'll want to display MSDPROOM_EXITS via Mudlet and copy/paste them into your Mudlet script. They will come out as 'forgein letters' but at least Mudlet keeps them consistent within itself.
+The characters seem to vary depending on the OS. To use the characters in a script, you'll want to display MSDPROOM\_EXITS via Mudlet and copy/paste them into your Mudlet script. They will come out as 'forgein letters' but at least Mudlet keeps them consistent within itself.
 
 As for capturing exits via triggers: That's always a viable option and I'm sure this is how many Slothers have been capturing exits regardless of their client. MSDP still offers exits though, and having a reliable way to parse the information, if one should choose to use it, should be there.
 
@@ -600,16 +598,16 @@ also, can mudlet parse JSON and put into a database that it can look up stuff fr
 
 <div class="post" data-post-id="34653" data-author="Akaya" data-date="2013-12-18T17:00:53+00:00" data-subject="Re: Akayan Scripts">
 
-> ***Breeze* wrote:**
+> <strong>\*Breeze\* wrote:</strong>
 > also, can mudlet parse JSON and put into a database that it can look up stuff from?
 
-Yes! Just use yajl.to_string and yajl.to_value: [<LINK_TEXT text="http://wiki.mudlet.org/w/Manual:Miscell ... .to_string">http://wiki.mudlet.org/w/Manual:Miscellaneous_Functions#yajl.to_string</LINK_TEXT>](http://wiki.mudlet.org/w/Manual:Miscellaneous_Functions#yajl.to_string)
+Yes! Just use yajl.to\_string and yajl.to\_value: [http://wiki.mudlet.org/w/Manual:Miscellaneous_Functions#yajl.to_string](http://wiki.mudlet.org/w/Manual:Miscellaneous_Functions#yajl.to_string)
 
 </div>
 
 <div class="post" data-post-id="34654" data-author="*Breeze*" data-date="2013-12-18T17:35:12+00:00" data-subject="Re: Akayan Scripts">
 
-sweet.  i let someone else who has time try to deal with it then, if they have the time/desire.
+sweet. i let someone else who has time try to deal with it then, if they have the time/desire.
 
 only thing i ask is if someone figures out how to use it with mudlet/wintin/whatever they share so others can use it.
 
@@ -633,21 +631,21 @@ But only as much as Mudlet could handle as I'm in the scripting window. Here's t
 
 ```
 {
-  Generated = "Wed, 18 Dec 2013 10:29:19 -0700",
-  ["4"] = {
-    OBJECT_WEIGHT = "1",
-    OBJECT_VNUM = "4",
-    OBJECT_NAME = "hexagonal hex token",
-    VALUE_LIGHT_TYPE = "0",
-    OBJECT_VALUE = "100000",
-    VALUE_HOURS = "-1",
-    OBJECT_WEAR = "TAKE HOLD",
-    OBJECT_EXTRA_FLAGS = "MAGIC",
-    OBJECT_TYPE = "LIGHT",
-    OBJECT_RENT = "5500",
-    VALUE_COLOUR = "0",
-    OBJECT_SHORT_DESCRIPTION = "a hexagonal shaped token"
-  }
+ Generated = "Wed, 18 Dec 2013 10:29:19 -0700",
+ ["4"] = {
+ OBJECT_WEIGHT = "1",
+ OBJECT_VNUM = "4",
+ OBJECT_NAME = "hexagonal hex token",
+ VALUE_LIGHT_TYPE = "0",
+ OBJECT_VALUE = "100000",
+ VALUE_HOURS = "-1",
+ OBJECT_WEAR = "TAKE HOLD",
+ OBJECT_EXTRA_FLAGS = "MAGIC",
+ OBJECT_TYPE = "LIGHT",
+ OBJECT_RENT = "5500",
+ VALUE_COLOUR = "0",
+ OBJECT_SHORT_DESCRIPTION = "a hexagonal shaped token"
+ }
 }
 ```
 
@@ -683,9 +681,9 @@ or even build your own raw interface/search.
 
 everything is cross referenced so its just a matter of searching / displaying it.
 
-splitting that file into other stuff would be trivial, but i decided to just output the information and let others deal with it, since there is no way i can make everyone happy. it easier to just make _me_ happy.
+splitting that file into other stuff would be trivial, but i decided to just output the information and let others deal with it, since there is no way i can make everyone happy. it easier to just make \_me\_ happy.
 
-you can do something like this to separate each item into its own line separated by \n
+you can do something like this to separate each item into its own line separated by \\n
 
 ```
 <?php
@@ -695,8 +693,8 @@ you can do something like this to separate each item into its own line separated
  $eqBuffer = '';
  foreach ($eqArray as $eqK=>$eqV)
  {
-   $eqBuffer .= json_encode($eqV)."\n";
-   unset($eqArray[$eqK]);
+ $eqBuffer .= json_encode($eqV)."\n";
+ unset($eqArray[$eqK]);
  }
 
  die($eqBuffer);
@@ -704,7 +702,7 @@ you can do something like this to separate each item into its own line separated
 ?>
 ```
 
-or a few other simple variations thereof to sort by OBJECT_TYPE or anything else.
+or a few other simple variations thereof to sort by OBJECT\_TYPE or anything else.
 
 </div>
 
@@ -722,7 +720,7 @@ Here's a nice compass that will display not only room exits, but whether its an 
 
 [http://youtu.be/zq9Outs5QL4](http://youtu.be/zq9Outs5QL4)
 
-(image: /[http://i.imgur.com/cJpTFm9.png](http://i.imgur.com/cJpTFm9.png))
+![](http://i.imgur.com/cJpTFm9.png)
 SlothCompass.xml
 Enjoy!
 
@@ -730,7 +728,7 @@ Enjoy!
 
 <div class="post" data-post-id="34748" data-author="Akaya" data-date="2014-01-02T06:59:48+00:00" data-subject="Re: Akayan Scripts">
 
-Here's a script that will automatically set your target to whatever the group leader calls (and only what the group leader calls). You can also manually set the target by typing **t <whatever>**. If you want to use your target in a macro, you can do so: 
+Here's a script that will automatically set your target to whatever the group leader calls (and only what the group leader calls). You can also manually set the target by typing <strong>t \<whatever\></strong>. If you want to use your target in a macro, you can do so: 
 
 ```
 send("backstab "..target)
@@ -750,8 +748,8 @@ To attack your target if it is 'immediately to the north':
 
 ```
 if Scan[target]["immediately to the north"] then
-  send("north")
-  send("backstab "..target)
+ send("north")
+ send("backstab "..target)
 end
 ```
 
@@ -767,7 +765,7 @@ Toyed around with Mudlet's new database functions and was able to parse the eqli
 
 ![](http://i.imgur.com/6FFbG5T.png)
 
-I'm still messing around with the parsing function though so I don't have a usable script atm. Just a snapshot. :)
+I'm still messing around with the parsing function though so I don't have a usable script atm. Just a snapshot. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -781,9 +779,9 @@ That is awesome!
 
 I present to you the eqlist database for Mudlet users!
 
-(image: /[http://i.imgur.com/rdb2nDQ.png](http://i.imgur.com/rdb2nDQ.png))
+![](http://i.imgur.com/rdb2nDQ.png)
 
-Simply type **lookup <item>** and it will update itself with all the info you'll find on the eqlist website.
+Simply type <strong>lookup \<item\></strong> and it will update itself with all the info you'll find on the eqlist website.
 
 It includes an eqlist.lua file with all the info from the eqlist database along with all the functions you need to query. So if you're up for scripting, it has everything you need.
 
@@ -799,9 +797,9 @@ Enjoy!
 
 The file is too big for this forum apparently so here's a direct download link via dropbox...
 
-[<LINK_TEXT text="https://dl-web.dropbox.com/get/Public/E ... qeu4w&dl=1">https://dl-web.dropbox.com/get/Public/EQLIST_QUERY.zip?_subject_uid=154460497&w=AACYjTqOEq4HRqqea2H5OtwqHYCEWTnoIB0qjIx38qeu4w&dl=1</LINK_TEXT>](https://dl-web.dropbox.com/get/Public/EQLIST_QUERY.zip?_subject_uid=154460497&w=AACYjTqOEq4HRqqea2H5OtwqHYCEWTnoIB0qjIx38qeu4w&dl=1)
+[https://dl-web.dropbox.com/get/Public/EQLIST_QUERY.zip?_subject_uid=154460497&w=AACYjTqOEq4HRqqea2H5OtwqHYCEWTnoIB0qjIx38qeu4w&dl=1](https://dl-web.dropbox.com/get/Public/EQLIST_QUERY.zip?_subject_uid=154460497&w=AACYjTqOEq4HRqqea2H5OtwqHYCEWTnoIB0qjIx38qeu4w&dl=1)
 
-*Install Using the Package Manager!*
+<em>Install Using the Package Manager!</em>
 
 </div>
 
@@ -817,11 +815,11 @@ Here are some simple gauges to keep track of your health, mana, movement and mob
 
 They sit at the bottom of your screen by default.
 
-You can alter its size and position in Scripts>Create the monster on lines 5,6 and 7
+You can alter its size and position in Scripts\>Create the monster on lines 5,6 and 7
 
 They use the Geyser framework. So just install using the package manager and you're all set!
 
-Don't forget to make sure you're utilizing msdp variables! You can find how to do so here: [<LINK_TEXT text="http://www.slothmud.org/forum/viewtopic ... 002#p33909">http://www.slothmud.org/forum/viewtopic.php?f=39&t=4002#p33909</LINK_TEXT>](http://www.slothmud.org/forum/viewtopic.php?f=39&t=4002#p33909)
+Don't forget to make sure you're utilizing msdp variables! You can find how to do so here: [http://www.slothmud.org/forum/viewtopic.php?f=39&t=4002#p33909](http://www.slothmud.org/forum/viewtopic.php?f=39&t=4002#p33909)
 
 Enjoy!
 
@@ -834,7 +832,7 @@ could you please re-upload your database scripts?
 Here is my implementation of EQList searcher in mudlet: EQList.zip
 It uses unmodified json file downloaded from website and saved in mudlet home directory.
 
-There are two triggers to set links in equipment and merchant windows which you can click get query results in the same window. There is also alias "eq <item>" for same purpose. See example: EQList.png
+There are two triggers to set links in equipment and merchant windows which you can click get query results in the same window. There is also alias "eq \<item\>" for same purpose. See example: EQList.png
 
 </div>
 
@@ -848,9 +846,9 @@ Db script?
 
 Yes, Akaya's dropbox link went dead. Could you please repost?
 
-I am thinking of writing a Mudlet mapper that uses all of the information available from COORD1-25 (exits, terrain, mobs, player characters). Eventually I want to track the movement of MOBs in the neighborhood and match them to POPPERS in EQList database. But in order to do that first I need AREA_VNUM in REPORTED_VARIABLES and MOB_VNUM replacing MOB in COORD1-25. Thanks
+I am thinking of writing a Mudlet mapper that uses all of the information available from COORD1-25 (exits, terrain, mobs, player characters). Eventually I want to track the movement of MOBs in the neighborhood and match them to POPPERS in EQList database. But in order to do that first I need AREA\_VNUM in REPORTED\_VARIABLES and MOB\_VNUM replacing MOB in COORD1-25. Thanks
 
-What's the deal with ROOM_RNUM being always lower than ROOM_VNUM by 22856? As far as I understand, ROOM_RNUM starts with AREA_INFO like 113 "Newbatia"+44 "South Gate". But why do we need ROOM_VNUM? Why do you have two room identifiers?
+What's the deal with ROOM\_RNUM being always lower than ROOM\_VNUM by 22856? As far as I understand, ROOM\_RNUM starts with AREA\_INFO like 113 "Newbatia"+44 "South Gate". But why do we need ROOM\_VNUM? Why do you have two room identifiers?
 
 Akaya, where are you? Have you stopped developing for SlothMUD?
 
@@ -864,7 +862,7 @@ Akaya, where are you? Have you stopped developing for SlothMUD?
 
 <div class="post" data-post-id="36248" data-author="Arus" data-date="2015-12-04T09:31:57+00:00" data-subject="Re: Akayan Scripts">
 
-why did all the COORDS become empty?  :roll: bug? was working fine 10 minutes ago.
+why did all the COORDS become empty? <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> bug? was working fine 10 minutes ago.
 
 </div>
 
@@ -890,7 +888,7 @@ Dropbox link for the eq db is alive now. I'll try to find a better way to keep i
 
 <div class="post" data-post-id="36972" data-author="Akaya" data-date="2016-06-23T06:04:39+00:00" data-subject="Re: Akayan Scripts">
 
-> **Arus wrote:**
+> <strong>Arus wrote:</strong>
 > If you didn't notice, then there was no performance issue. I almost finished the code....
 > 
 > I was not going to report COORDS on every move but send them only in new rooms as discovery to build a map.
@@ -931,7 +929,7 @@ Thanks.
 
 <div class="post" data-post-id="37008" data-author="Akaya" data-date="2016-06-29T20:09:09+00:00" data-subject="Re: Akayan Scripts">
 
-Pattern: ^leader (.*)$
+Pattern: ^leader (.\*)$
 
 Script: leader = matches[2]
 
@@ -945,7 +943,7 @@ Missed you Akaya!
 
 <div class="post" data-post-id="37015" data-author="Akaya" data-date="2016-06-30T17:03:39+00:00" data-subject="Re: Akayan Scripts">
 
-> ***Splork* wrote:**
+> <strong>\*Splork\* wrote:</strong>
 > Missed you Akaya!
 
 I'll be around all summer. Hopefully longer. Sent you an email from my new address. Contact me that way. It goes straight to my phone.

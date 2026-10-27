@@ -20,6 +20,6 @@ Enjoy,
 
 Splork
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

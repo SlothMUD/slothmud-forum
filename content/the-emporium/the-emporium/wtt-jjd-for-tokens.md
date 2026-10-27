@@ -24,7 +24,7 @@ Umm whats a JJD?
 
 <div class="post" data-post-id="2224" data-author="Hikaru0" data-date="2004-10-08T16:45:44+00:00" data-subject="">
 
-Jing-Jit Disk  -0.5 +15 HP, +1 Str 
+Jing-Jit Disk -0.5 +15 HP, +1 Str 
 
 AdT AdW AdBa AdMo [OR] 
 

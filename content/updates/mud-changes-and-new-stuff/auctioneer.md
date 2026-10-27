@@ -12,7 +12,7 @@ post_count: 3
 
 <div class="post" data-post-id="32935" data-author="*Breeze*" data-date="2011-09-24T15:43:03+00:00" data-subject="Auctioneer">
 
-The new Auctioneer is running on SS.  Go find Nia :)
+The new Auctioneer is running on SS. Go find Nia <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Please report any bugs to Breeze.
 

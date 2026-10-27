@@ -14,33 +14,33 @@ post_count: 6
 
 Ok, after gripping a tough mob only to have my sanctuary fall the very next millisecond... and then dying... I decided it was time to write a sanctuary script for wintin.net. I have seen avatars with them before but the script is not posted anywhere I have found. So if you have a better script by all means post it!!!
 
-#defgroup {Sanctuary}
+\#defgroup {Sanctuary}
 
-#action  {The 'sanctuary' spell on you is about to wear off.} {$output 60 SECS ON SANCT!} {G|Sanctuary}
+\#action {The 'sanctuary' spell on you is about to wear off.} {$output 60 SECS ON SANCT!} {G\|Sanctuary}
 
-#action  {The white aura around your body fades.} {#var sanct 0;$output SANCT DOWN!} {G|Sanctuary}
+\#action {The white aura around your body fades.} {#var sanct 0;$output SANCT DOWN!} {G\|Sanctuary}
 
-#action  {You start glowing.} {#timer Sanct +$time {$output SANCT WARNING!};$output SANCT UP!;#var sanct 1} {G|Sanctuary}
+\#action {You start glowing.} {#timer Sanct +$time {$output SANCT WARNING!};$output SANCT UP!;#var sanct 1} {G\|Sanctuary}
 
-#alias  {sanct} {#if {$sanct = 0} {cast 'sanctuary' $me}} {G|Sanctuary}
+\#alias {sanct} {#if {$sanct = 0} {cast 'sanctuary' $me}} {G\|Sanctuary}
 
-#highlight  {b red} {60 SECS ON SANCT!} {G|Sanctuary}
+\#highlight {b red} {60 SECS ON SANCT!} {G\|Sanctuary}
 
-#highlight  {b red} {SANCT DOWN!} {G|Sanctuary}
+\#highlight {b red} {SANCT DOWN!} {G\|Sanctuary}
 
-#highlight  {b red} {SANCT UP!} {G|Sanctuary}
+\#highlight {b red} {SANCT UP!} {G\|Sanctuary}
 
-#highlight  {b red} {SANCT WARNING!} {G|Sanctuary}
+\#highlight {b red} {SANCT WARNING!} {G\|Sanctuary}
 
-#variable  {output} {grouptell} {G|Sanctuary}
+\#variable {output} {grouptell} {G\|Sanctuary}
 
-#variable  {sanct} {0} {G|Sanctuary}
+\#variable {sanct} {0} {G\|Sanctuary}
 
-#variable  {time} {3:30} {G|Sanctuary}
+\#variable {time} {3:30} {G\|Sanctuary}
 
-#variable  {me} {jezer} {G|Sanctuary}
+\#variable {me} {jezer} {G\|Sanctuary}
 
-#defgroup {}
+\#defgroup {}
 
 Set the variable me to your player name.
 
@@ -62,39 +62,39 @@ Jezer
 
 Small update, bigger eye-catching descriptions and some gags so you don't get double reports.
 
-#defgroup {Sanctuary}
+\#defgroup {Sanctuary}
 
-#action  {The 'sanctuary' spell on you is about to wear off.} {$output 60 SECS ON SANCTUARY!} {G|Sanctuary}
+\#action {The 'sanctuary' spell on you is about to wear off.} {$output 60 SECS ON SANCTUARY!} {G\|Sanctuary}
 
-#action  {The white aura around your body fades.} {#var sanct 0;$output SANCTUARY DOWN!} {G|Sanctuary}
+\#action {The white aura around your body fades.} {#var sanct 0;$output SANCTUARY DOWN!} {G\|Sanctuary}
 
-#action  {You start glowing.} {#timer Sanct +$satime {$output SANCTUARY WARNING!};$output SANCTUARY UP!;#var sanct 1} {G|Sanctuary}
+\#action {You start glowing.} {#timer Sanct +$satime {$output SANCTUARY WARNING!};$output SANCTUARY UP!;#var sanct 1} {G\|Sanctuary}
 
-#alias  {sanct} {#if {$sanct = 0} {cast 'sanctuary' $me}} {G|Sanctuary}
+\#alias {sanct} {#if {$sanct = 0} {cast 'sanctuary' $me}} {G\|Sanctuary}
 
-#gag  {The 'sanctuary' spell on you is about to wear off.} {G|Sanctuary}
+\#gag {The 'sanctuary' spell on you is about to wear off.} {G\|Sanctuary}
 
-#gag  {The white aura around your body fades.} {G|Sanctuary}
+\#gag {The white aura around your body fades.} {G\|Sanctuary}
 
-#gag  {You start glowing.} {G|Sanctuary}
+\#gag {You start glowing.} {G\|Sanctuary}
 
-#highlight  {b red} {60 SECS ON SANCTUARY!} {G|Sanctuary}
+\#highlight {b red} {60 SECS ON SANCTUARY!} {G\|Sanctuary}
 
-#highlight  {b red} {SANCTUARY DOWN!} {G|Sanctuary}
+\#highlight {b red} {SANCTUARY DOWN!} {G\|Sanctuary}
 
-#highlight  {b red} {SANCTUARY UP!} {G|Sanctuary}
+\#highlight {b red} {SANCTUARY UP!} {G\|Sanctuary}
 
-#highlight  {b red} {SANCTUARY WARNING!} {G|Sanctuary}
+\#highlight {b red} {SANCTUARY WARNING!} {G\|Sanctuary}
 
-#variable  {sanct} {1} {G|Sanctuary}
+\#variable {sanct} {1} {G\|Sanctuary}
 
-#variable  {satime} {3:30} {G|Sanctuary}
+\#variable {satime} {3:30} {G\|Sanctuary}
 
-#variable  {me} {jezer} {G|Shortcuts}
+\#variable {me} {jezer} {G\|Shortcuts}
 
-#variable  {output} {grouptell} {G|Shortcuts}
+\#variable {output} {grouptell} {G\|Shortcuts}
 
-#defgroup {}
+\#defgroup {}
 
 </div>
 
@@ -108,11 +108,13 @@ Isn't there a way to make a countdown timer in Wintin that displays in a separat
 
 This would require some tweaking to work with Jezer's script, but here's a quick and dirty visual timer for the last 60 seconds of sanc, you could alter it to countdown from the start of sanc of course, but that would assume sanc wasn't affected by masterfulls. Of course doing that would only necessitate the alteration of the 'sanctick' timer to 3 ticks or whatever, and the 'sanctime' variable to 180.
 
-[code:2x47kynz]#action {The 'sanctuary' spell on you is about to wear off.} {#var {sanctime} {60};#timer {sanctick} {+0:1:0} {#untimer {sanctime};grouptell SANCTUARY DOWN!};#timer {sanctime} {*1} {#math {sanctime} {$sanctime-1}}}
+```
+#action {The 'sanctuary' spell on you is about to wear off.} {#var {sanctime} {60};#timer {sanctick} {+0:1:0} {#untimer {sanctime};grouptell SANCTUARY DOWN!};#timer {sanctime} {*1} {#math {sanctime} {$sanctime-1}}}
 
-#pvar {1} {sanctime}[/code:2x47kynz]
+#pvar {1} {sanctime}
+```
 
-That displays in pvar 1 just as an example (plus as I write this it's the middle of the night and I'm not ingame to test, so it's not polished in any way shape or form) :)
+That displays in pvar 1 just as an example (plus as I write this it's the middle of the night and I'm not ingame to test, so it's not polished in any way shape or form) <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -124,23 +126,23 @@ It starts counting down based on a duration of 280 seconds which is the average 
 
 The command sanctell sets the output to grouptell, say, #showme, whatever.
 
-#defgroup sanctuary
+\#defgroup sanctuary
 
-#action  {The 'sanctuary' spell on you is about to wear off.} {#var sancstart $time;#var sancduration {60}} {G|sanctuary}
+\#action {The 'sanctuary' spell on you is about to wear off.} {#var sancstart $time;#var sancduration {60}} {G\|sanctuary}
 
-#action  {The white aura around your body fades.} {$sancoutput SANCTUARY DOWN!;#panel 3 unlit;#untimer sanctime;#unpvar 4} {G|sanctuary}
+\#action {The white aura around your body fades.} {$sancoutput SANCTUARY DOWN!;#panel 3 unlit;#untimer sanctime;#unpvar 4} {G\|sanctuary}
 
-#action  {You start glowing.} {#var sancstart $time;#var sancduration {280};#timer sanctime {*:*:*2} {checksanc};#panel 3 {Sanc Up};#pvar 4 sancremain} {G|sanctuary}
+\#action {You start glowing.} {#var sancstart $time;#var sancduration {280};#timer sanctime {\*:\*:\*2} {checksanc};#panel 3 {Sanc Up};#pvar 4 sancremain} {G\|sanctuary}
 
-#alias  {checksanc} {#math sanctime {$time-$sancstart};#math sancremain {$sancduration-$sanctime}} {G|sanctuary}
+\#alias {checksanc} {#math sanctime {$time-$sancstart};#math sancremain {$sancduration-$sanctime}} {G\|sanctuary}
 
-#alias  {sanctell} {#var {sancoutput} {%0}}
+\#alias {sanctell} {#var {sancoutput} {%0}}
 
 </div>
 
 <div class="post" data-post-id="11153" data-author="Avatar" data-date="2006-03-10T17:20:18+00:00" data-subject="Sanc timer">
 
-That's a nice solution Juggleblood.  Good job!
+That's a nice solution Juggleblood. Good job!
 
 Regards,
 

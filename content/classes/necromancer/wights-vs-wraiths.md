@@ -22,7 +22,7 @@ And could someone please post wights/wraithsstats (hps, attack number) with the 
 
 <div class="post" data-post-id="2065" data-author="guest" data-date="2004-09-28T13:53:46+00:00" data-subject="">
 
-Wights has more hp and does a bit more damage I believe.  Also at lvl 40
+Wights has more hp and does a bit more damage I believe. Also at lvl 40
 
 a necro can summon 2 Wight compared to just 1 Wraith which is eth.
 
@@ -46,13 +46,13 @@ wraiths are sort of ethereal so if you are hitting low end, low level mobs, use 
 
 <div class="post" data-post-id="2084" data-author="nomis" data-date="2004-09-30T01:22:04+00:00" data-subject="">
 
-I think what needs to be said is clear :)
+I think what needs to be said is clear <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 I heard that you can get 2xwraith when u reach avatar, so until then, u will have to choose the summon which suits the situation most. Also, wights seem to miss more often than wraiths, which is another consideration to be taken into account.
 
 On a separate note, if I summon 2 wights and one of them gets killed, i can't summon only 1 wight to replace it. Have to banish the other and then summon both again. Can the imms look into this? thanks.
 
-:) peace
+<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> peace
 
 </div>
 

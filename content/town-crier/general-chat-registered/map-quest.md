@@ -20,29 +20,29 @@ What's the incentive to submit a map during the quest rather than in normal fash
 
 There are some rules, however:
 
-1. Absolutely no selling of tickets. Any ticket that is sold will result in disqualification of the map and the bearer of the ticket from the quest.
+1\. Absolutely no selling of tickets. Any ticket that is sold will result in disqualification of the map and the bearer of the ticket from the quest.
 
-2. You may not submit a map for an area that has already been claimed.
+2\. You may not submit a map for an area that has already been claimed.
 
-3. Maps that are submitted through normal channels will have a lower priority than the maps that are submitted during the questing period as part of the quest.
+3\. Maps that are submitted through normal channels will have a lower priority than the maps that are submitted during the questing period as part of the quest.
 
-4. Finally, and most importantly, each map must comply as best as possible to the Map Submission Guidelines as defined on the wiki pages. At this very moment, I'm doing the finishing touches on that page, and should have them done shortly. Links will be provided when the Nap Submission page is finished. I will also make an announcement in the forum when that page is finalized.
+4\. Finally, and most importantly, each map must comply as best as possible to the Map Submission Guidelines as defined on the wiki pages. At this very moment, I'm doing the finishing touches on that page, and should have them done shortly. Links will be provided when the Nap Submission page is finished. I will also make an announcement in the forum when that page is finalized.
 
 The area that questers choose to map may be one of the following:
 
-1. An area that does not have a map.
+1\. An area that does not have a map.
 
-2. An area with a map that doesn't appear to meet the new guidelines.
+2\. An area with a map that doesn't appear to meet the new guidelines.
 
-3. An area map that is incomplete.
+3\. An area map that is incomplete.
 
-4. A map that is currently on the agenda of maps to be updated or created.
+4\. A map that is currently on the agenda of maps to be updated or created.
 
 While five tickets have been claimed thusfar, there is still one ticket out there. May the best hunter find it. Questers, good luck. Any questions can be directed here on this thread, or by mailing me at the proper channels: neptune@slothmud.org . Remember to include your character along with "Map Quest" in the subject line if you email me.
 
 NOTE: The immortal staff reserves the right to make changes at any time for any reason, or no reason at all, to this quest, the times, or the dates involved therein. We will do our best to update you guys here on this thread should that occur.
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -52,7 +52,7 @@ The Map submissions wiki page has been created and is ready for viewing by anyon
 
 Enjoy.
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -68,7 +68,7 @@ You didn't complete the quest, therefore no prize for you! The prize of the sixt
 
 We are now down to five tickets. The quest has now been changed from six tickets to five thanks to Tuk's generous sacrifical contrbution to the remaining questers. No other changes to the quest have been made. We'll see the remaining questers tonight at around 6:00 p.m. CST US Time. Thanks for playing!
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -76,9 +76,9 @@ We are now down to five tickets. The quest has now been changed from six tickets
 
 I am currently accepting quest tickets THIS evening. So far, two tickets have been collected. You can meet me in the game. Prepare to be transed to me when you are ready to submit your ticket. There are three more to receive and three more maps to be claimed. Currently, the claimed maps are:
 
-1. Pagoda of Enlightenment
+1\. Pagoda of Enlightenment
 
-2. Mandelbrot's Mansion
+2\. Mandelbrot's Mansion
 
 I await the final questers and their tickets.
 
@@ -86,7 +86,7 @@ Good luck to you all.
 
 Regards, 
 
---Neptune
+\--Neptune
 
 </div>
 
@@ -94,7 +94,7 @@ Regards,
 
 A third ticket has been claimed along with the map for Lirgea. Two more to go! Keep 'em coming, guys.
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -102,7 +102,7 @@ A third ticket has been claimed along with the map for Lirgea. Two more to go! K
 
 As it has come to my attention that two tickets were gathered by the same character, one of those tickets has been redistributed. It's waiting for someone to go find it. That leaves one claimed ticket unaccounted for and one unclaimed ticket unaccounted for. If the redistributed ticket is not claimed and turned in within the next couple of hours, I will accept that ticket on Thursday.
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -110,7 +110,7 @@ As it has come to my attention that two tickets were gathered by the same charac
 
 We will be extending the receiving of the quest tickets until tomorrow, Thursday. That will be the last day to get the remaining tickets to me. Remember, there is a ticket yet to be found and claimed. Should the remaining tickets not be claimed, they will be locked out by the end of the day, and we will proceed to the next portion of the quest. Good luck guys! I look forward to receiving the remaining tickets. If you have any questions or concerns, you can email me at the address below.
 
--Neptune
+\-Neptune
 
 neptune@slothmud.org
 
@@ -124,7 +124,7 @@ As of 10:15 a.m. CST US Time, we are now open for receiving the two remaining go
 
 So, bring in those tickets!
 
--Neptune
+\-Neptune
 
 neptune@slothmud.org
 
@@ -138,7 +138,7 @@ Thanks again, and good luck!
 
 Regards,
 
-*Neptune*
+\*Neptune\*
 
 neptune@slothmud.org
 

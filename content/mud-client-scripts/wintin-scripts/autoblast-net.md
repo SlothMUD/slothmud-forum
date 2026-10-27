@@ -14,17 +14,17 @@ post_count: 2
 
 posted this at someones request. Its not complet, but does the trick
 
-#al blaston #enable autoblast
+\#al blaston #enable autoblast
 
-#al blastoff #disable autoblast
+\#al blastoff #disable autoblast
 
-#defgroup autoblast
+\#defgroup autoblast
 
-#action  {^$grabber %0 and expertly puts %1 in a deathgrip} {fbt} {G|autoblast}
+\#action {^$grabber %0 and expertly puts %1 in a deathgrip} {fbt} {G\|autoblast}
 
-#action  {^$stabber places %0 in the } {fbt} {G|autoblast}
+\#action {^$stabber places %0 in the } {fbt} {G\|autoblast}
 
-#action  {smartly steps out of $grabber's} {fbt} {G|autoblast}
+\#action {smartly steps out of $grabber's} {fbt} {G\|autoblast}
 
 </div>
 
@@ -32,6 +32,6 @@ posted this at someones request. Its not complet, but does the trick
 
 don't blast on double wiff? do you think it's impossible? 
 
-try put autolickoz as stabba :P
+try put autolickoz as stabba <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>

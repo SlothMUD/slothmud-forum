@@ -14,11 +14,11 @@ post_count: 1
 
 Avatar Bonuses
 
-1) Bonuses are now every 6 levels
+1\) Bonuses are now every 6 levels
 
-2) Each bonus is 10 
+2\) Each bonus is 10 
 
-3) An avatar 40 bonus was added also for a net gain of 10
+3\) An avatar 40 bonus was added also for a net gain of 10
 
 These are in after the next crash/reboot.
 

@@ -12,7 +12,7 @@ post_count: 10
 
 <div class="post" data-post-id="40" data-author="Willem" data-date="2004-02-14T17:04:13+00:00" data-subject="Newbatia">
 
-Just the other night an Elderly man gave me -2- Tritokens.  :D
+Just the other night an Elderly man gave me -2- Tritokens. <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 Dunno if it's normal, but it seems to be a good start on getting them.
 
@@ -42,7 +42,7 @@ all good tri mobs - have fun
 
 <div class="post" data-post-id="4411" data-author="lucian" data-date="2005-02-13T04:51:22+00:00" data-subject="elderly men tokens">
 
-I spent a long time today killing elderly men in newbatia for tokens.  After killing about 200 of them, i've found two, i wouldn't suggest killing them for tri tokens, trust me
+I spent a long time today killing elderly men in newbatia for tokens. After killing about 200 of them, i've found two, i wouldn't suggest killing them for tri tokens, trust me
 
 </div>
 
@@ -56,7 +56,7 @@ But I also tried in Daar Tempest. Killed about 40 mobs there but nothing?
 
 Can tokens come from ANY mob? Or are there certain mobs carrying them?
 
-Then I used my 3 tokens....and got worse stats than before  :roll: 
+Then I used my 3 tokens....and got worse stats than before <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> 
 
 /Achazia
 
@@ -76,7 +76,7 @@ This makes me think that tri tokens are just random. (had 2 before it - 1 from a
 
 P.S.
 
-  :idea: regarding the Kobolds: they give many tokens because they are killed constantly and respawn, as mobs, quite fast. I counted 8 of them (kobolds/goblins), they don't roam, and from level 5 up they are almost always killed in 1-2 rounds. So a cycle of 8 is doable in 30 secs - 1 min depending on your connection. If you add to this that they sit on top of a recall/enter point, you can just figure how many times a day each poor kobold is killed. :idea: 
+ <img src="/images/smilies/icon_idea.svg" alt=":idea:" title=":idea:" width="15" height="15" class="smiley nozoom"> regarding the Kobolds: they give many tokens because they are killed constantly and respawn, as mobs, quite fast. I counted 8 of them (kobolds/goblins), they don't roam, and from level 5 up they are almost always killed in 1-2 rounds. So a cycle of 8 is doable in 30 secs - 1 min depending on your connection. If you add to this that they sit on top of a recall/enter point, you can just figure how many times a day each poor kobold is killed. <img src="/images/smilies/icon_idea.svg" alt=":idea:" title=":idea:" width="15" height="15" class="smiley nozoom"> 
 
 I wouldn't say kobolds give more tokens than other mobs, but -for sure- they are the easiest kill.
 
@@ -84,9 +84,9 @@ I wouldn't say kobolds give more tokens than other mobs, but -for sure- they are
 
 <div class="post" data-post-id="7127" data-author="12345" data-date="2005-06-13T12:26:48+00:00" data-subject="">
 
-All low level mobs have a chance of popping a tri tokens, so being able to wipe out areas is often helpful when looking for tokens.  ie. Clearing daar tempest can pop quite a few if you cycle it repeatedly.  Alberich's post mentions some good mobs, though the gargoyles in star city are huge and ether.
+All low level mobs have a chance of popping a tri tokens, so being able to wipe out areas is often helpful when looking for tokens. ie. Clearing daar tempest can pop quite a few if you cycle it repeatedly. Alberich's post mentions some good mobs, though the gargoyles in star city are huge and ether.
 
-For your level (Monk 11) on Valk, Blaster's temple is kinda crowded these days, but they pop at a decent rate.  Also, the smaller mobs in the mystical fens (turtles, forest elementals, etc).  I've also heard that the goblins and kobolds in the newbie school have a decent rate, but haven't tried it myself yet.
+For your level (Monk 11) on Valk, Blaster's temple is kinda crowded these days, but they pop at a decent rate. Also, the smaller mobs in the mystical fens (turtles, forest elementals, etc). I've also heard that the goblins and kobolds in the newbie school have a decent rate, but haven't tried it myself yet.
 
 Happy hunting.
 
@@ -94,27 +94,27 @@ Happy hunting.
 
 <div class="post" data-post-id="14328" data-author="Dedsune" data-date="2006-09-27T06:44:12+00:00" data-subject="Token forge on Valk">
 
-The Grandmaster Thug, in a rare mischannel, accidentally gossip'd something of interest, perhaps meant for his thugs to hear.  Some valk folks invited themselves into his hideout, dropping in on him just as he finished writing a note.  Having relieved him of his duties as grandmaster and scribe, the trio of valkers read the note...
+The Grandmaster Thug, in a rare mischannel, accidentally gossip'd something of interest, perhaps meant for his thugs to hear. Some valk folks invited themselves into his hideout, dropping in on him just as he finished writing a note. Having relieved him of his duties as grandmaster and scribe, the trio of valkers read the note...
 
 "I have mastered a way to create a token of one time use in changing the strengths
 
-and weaknesses of mortal people.  Although the ingredients are available, but not
+and weaknesses of mortal people. Although the ingredients are available, but not
 
 readily, a magical token can still be forged with the right supplies and a little gold.
 
 Those seeking to make such a token should seek out a wise wizard who lives somewhere 
 
-within lands of a floating continent.  Bring with you the following items, an amulet
+within lands of a floating continent. Bring with you the following items, an amulet
 
 of magical charge, two each of eggs from this well known sea bird, one spellbook that 
 
 is found spinning, and one that is found twirling, a small amount of mana in the form
 
-of flux, and lastly, a copy of this note.  Ask the wizard to forge a token
+of flux, and lastly, a copy of this note. Ask the wizard to forge a token
 
 and it shall be done!"
 
-...It was later discovered that two of the required components were of a personal nature; and, while this forge is mildly susceptible to explosion, it is also no easier to forge than it is to obtain the resluting item in the usual old-fashioned way.  The end result does, however, make for a worthwhile diversion from your typical cycling.
+...It was later discovered that two of the required components were of a personal nature; and, while this forge is mildly susceptible to explosion, it is also no easier to forge than it is to obtain the resluting item in the usual old-fashioned way. The end result does, however, make for a worthwhile diversion from your typical cycling.
 
 Thanks for the new forge!
 
@@ -126,11 +126,11 @@ This run worked well for me.
 
 1.I started in town - kill the elderly men in the NE corner of town sometimes they pop an oct. 
 
-2. kill the elderly man 2s of n.gate. 
+2\. kill the elderly man 2s of n.gate. 
 
-3. Kill all the female citizens - i can't tell which one of them regularly pops
+3\. Kill all the female citizens - i can't tell which one of them regularly pops
 
-4. The lady 2sw of Northgate pops a tri occasionally
+4\. The lady 2sw of Northgate pops a tri occasionally
 
 Then, 
 
@@ -140,27 +140,27 @@ Then,
 
 After the school run to Newbatia Downside
 
-1. the invisible dwarf regularly popped tris
+1\. the invisible dwarf regularly popped tris
 
-2. The weather witch occasionally did
+2\. The weather witch occasionally did
 
-3. The elf under the mage guild occasionally popped
+3\. The elf under the mage guild occasionally popped
 
 After Downside move to the chessboard
 
-1. White king regularly popped
+1\. White king regularly popped
 
-2. Raging moose regularly popped
+2\. Raging moose regularly popped
 
-3. Black king regularly popped
+3\. Black king regularly popped
 
 After Chess board move to Tiger Glen
 
-1. The first purple butterfly regularly popped
+1\. The first purple butterfly regularly popped
 
-2. The tiger next to the thicket in the NW corner reguarly pops
+2\. The tiger next to the thicket in the NW corner reguarly pops
 
-3. The hermit sometimes pops
+3\. The hermit sometimes pops
 
 Recall
 

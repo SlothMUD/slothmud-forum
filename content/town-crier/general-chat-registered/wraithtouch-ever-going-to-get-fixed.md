@@ -16,11 +16,11 @@ Newly departed spirits hates your guts!
 
 Your spiritual hands interlock about newly departed spirits.
 
-<971hp 408ma 251mv>
+\<971hp 408ma 251mv\>
 
 You release your grip on newly departed spirits.
 
-Wraithtouch has been like this for months...... I know there aren't alot of monk prime players but is this ever going to be fixed?  I think it stopped working properly 2-3 months ago with the mud mail crashes.... but not positive.
+Wraithtouch has been like this for months...... I know there aren't alot of monk prime players but is this ever going to be fixed? I think it stopped working properly 2-3 months ago with the mud mail crashes.... but not positive.
 
 Happy New Year to all.
 

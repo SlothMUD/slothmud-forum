@@ -18,24 +18,24 @@ The coliseum is getting revamped and scores will be reset, giving you more chanc
 
 A few words of note:
 
-1. The old scores will be preserved as they are for posterity, in game, and hopefully on the website.
+1\. The old scores will be preserved as they are for posterity, in game, and hopefully on the website.
 
-2. New coliseum will have the same levels plus a newbie level for sub-21 characters (Valkers).
+2\. New coliseum will have the same levels plus a newbie level for sub-21 characters (Valkers).
 
-3. Chaos pit will remain untouched for now.
+3\. Chaos pit will remain untouched for now.
 
-4. Final date of changeover is to be determined, but should be soon, i.e. days, not weeks.
+4\. Final date of changeover is to be determined, but should be soon, i.e. days, not weeks.
 
-5. New coliseum will have all new mobs.
+5\. New coliseum will have all new mobs.
 
-6. Players and pets will be dispelled on entry to the arena.
+6\. Players and pets will be dispelled on entry to the arena.
 
-7. Other new features to be announced upon opening. 
+7\. Other new features to be announced upon opening. 
 
-8. Do not expect the same class orders to dominate.
+8\. Do not expect the same class orders to dominate.
 
-9. There will be no high scorer drachma so as to prevent any sense of urgency / unfairness.
+9\. There will be no high scorer drachma so as to prevent any sense of urgency / unfairness.
 
-10. There is no tenth word of note, but it felt wrong to end at nine.
+10\. There is no tenth word of note, but it felt wrong to end at nine.
 
 </div>

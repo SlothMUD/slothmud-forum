@@ -48,13 +48,13 @@ new and interesting flavors and challenges in the times ahead.
 
 Enjoy, and as always, thanks for playing!
 
--Neptune
+\-Neptune
 
 </div>
 
 <div class="post" data-post-id="38992" data-author="Driven" data-date="2018-10-30T03:00:41+00:00" data-subject="Re: Area Updates">
 
-I are proud to announce that an update to Crystal Falls is live.  Special thanks to Gandalf and Neptune for their help!  Enjoy!
+I are proud to announce that an update to Crystal Falls is live. Special thanks to Gandalf and Neptune for their help! Enjoy!
 
 </div>
 
@@ -76,17 +76,17 @@ see him next! I've no doubt they will be a welcomed addition to the world and ga
 
 Thanks!
 
--Neptune.
+\-Neptune.
 
 </div>
 
 <div class="post" data-post-id="39026" data-author="Driven" data-date="2018-12-06T02:10:16+00:00" data-subject="Re: Area Updates">
 
-Preva would like to announce that after many years of research, he has determined how to forge a brand new type of item for Jord--an artifact.  Artifacts will be a new class of objects that require significant work to unlock their full potential, but hope to provide fun and flavor to Slothmud.  Upon completion of forging an artifact, it is important that the privileged mortal execute the following two commands to familiarize themselves with their new treasure:
+Preva would like to announce that after many years of research, he has determined how to forge a brand new type of item for Jord--an artifact. Artifacts will be a new class of objects that require significant work to unlock their full potential, but hope to provide fun and flavor to Slothmud. Upon completion of forging an artifact, it is important that the privileged mortal execute the following two commands to familiarize themselves with their new treasure:
 
-ask <artifact> <anything>
+ask \<artifact\> \<anything\>
 
-look <artifact>
+look \<artifact\>
 
 Enjoy!!
 
@@ -94,7 +94,7 @@ Enjoy!!
 
 <div class="post" data-post-id="39027" data-author="Driven" data-date="2018-12-09T15:28:18+00:00" data-subject="Re: Area Updates">
 
-FYI, the xp system and timers need an update on the artifact. I have discussed with Breeze and will fix either tonight or tomorrow.  Congrats to Josiah on forging Sloth's first artifact!
+FYI, the xp system and timers need an update on the artifact. I have discussed with Breeze and will fix either tonight or tomorrow. Congrats to Josiah on forging Sloth's first artifact!
 
 </div>
 
@@ -114,7 +114,7 @@ Starting now, the entire area is now open to temp items. Beforehand, no temp ite
 
 As a result, some of the mobs have been converted to chop mobs providing you guys with a few
 
-more optionsfor lyme chop mobs. (Sorry no more new epic chop mobs :P). A new piece of EQ was
+more optionsfor lyme chop mobs. (Sorry no more new epic chop mobs <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">). A new piece of EQ was
 
 added to Mystica as well as an AQ or two. For the most p0art, the mobs were revamped with the
 
@@ -124,7 +124,7 @@ just have to figure that out for yourselves.
 
 Anyways, enjoy. And as always, if you find anything wonky, hit me up ingame. 
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -150,7 +150,7 @@ and let us know.
 
 More to come!
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -176,6 +176,6 @@ let's load some equipment, too. Whaddya say?
 
 Enjoy.
 
--Neptune
+\-Neptune
 
 </div>

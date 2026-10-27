@@ -20,13 +20,13 @@ Thanks, Live Info's so good to have working.
 
 Especially when the nearest raiser is 2 continents away without relocate.
 
- Just in case I die. :)
+ Just in case I die. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="28678" data-author="jezer" data-date="2009-04-07T13:02:34+00:00" data-subject="">
 
-You die Stab?  :shock: Nah....  :twisted:
+You die Stab? <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> Nah.... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

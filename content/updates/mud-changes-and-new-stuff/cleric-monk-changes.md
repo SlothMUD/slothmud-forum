@@ -14,7 +14,7 @@ post_count: 1
 
 ) The effectiveness of Aerial Servant has been increased.
 
-2) Protect is now a level 1 monk skill rather than level 20
+2\) Protect is now a level 1 monk skill rather than level 20
 
 Enjoy,
 

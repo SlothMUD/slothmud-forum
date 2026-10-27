@@ -18,6 +18,6 @@ how do i play this game? i know theres a newb center but i cant figure out what 
 
 <div class="post" data-post-id="15804" data-author="Karna" data-date="2006-12-27T23:10:02+00:00" data-subject="">
 
-If  you started on Valk, try the Adventurer's school.  See the website for directions and a map.  Also, try reading the manual in your pack :).  Good Luck, and gossip for help on the newbie channel if you need it.
+If you started on Valk, try the Adventurer's school. See the website for directions and a map. Also, try reading the manual in your pack <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">. Good Luck, and gossip for help on the newbie channel if you need it.
 
 </div>

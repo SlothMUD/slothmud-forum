@@ -14,27 +14,27 @@ post_count: 3
 
 The Kobold Sage's Hut
 
-   This is not at all what might be expected from a kobold's house.  Piles
+ This is not at all what might be expected from a kobold's house. Piles
 
 of parchment and ancient tomes are placed on various shelves and tables set
 
 about this small hut, which is illuminated by a series of brightly glowing
 
-gems mounted along the ceiling and walls.  Two very large books sit open on
+gems mounted along the ceiling and walls. Two very large books sit open on
 
 a table in the center of the room.
 
 Exits: West
 
-*A ancient looking kobold sage in long robes invites you to read his book.
+\*A ancient looking kobold sage in long robes invites you to read his book.
 
-<531hp 130ma 104mv -10al -0.5ac>
+\<531hp 130ma 104mv -10al -0.5ac\>
 
 The kobold sage hates your guts!
 
 The kobold sage sees you circling in for the kill, and deftly steps out of the way!
 
-<531hp 130ma 90mv -10al -0.5ac>
+\<531hp 130ma 90mv -10al -0.5ac\>
 
 fs
 
@@ -44,7 +44,7 @@ You hit the kobold sage very hard.
 
 The kobold sage's attack has no effect.
 
-<533hp 132ma 91mv -10al -0.5ac>
+\<533hp 132ma 91mv -10al -0.5ac\>
 
 Ok.
 
@@ -52,7 +52,7 @@ The kobold sage appears to be resisting quite a bit of the damage.
 
 The kobold sage is scorched by the flames of Hell!
 
-<534hp 122ma 92mv -10al -0.5ac>
+\<534hp 122ma 92mv -10al -0.5ac\>
 
 fs
 
@@ -60,7 +60,7 @@ The kobold sage hits you very hard.
 
 Your life energy is drained!
 
-<510hp 62ma 47mv -10al -0.5ac>
+\<510hp 62ma 47mv -10al -0.5ac\>
 
 Ok.
 
@@ -68,7 +68,7 @@ The kobold sage appears to be resisting quite a bit of the damage.
 
 The kobold sage is scorched by the flames of Hell!
 
-<510hp 50ma 47mv -10al -0.5ac>
+\<510hp 50ma 47mv -10al -0.5ac\>
 
 fs
 
@@ -78,13 +78,13 @@ The kobold sage appears to be resisting quite a bit of the damage.
 
 The kobold sage is scorched by the flames of Hell!
 
-<511hp 40ma 48mv -10al -0.5ac>
+\<511hp 40ma 48mv -10al -0.5ac\>
 
 The kobold sage hits you very hard.
 
 Your life energy is drained!
 
-<483hp 20ma 24mv -10al -0.5ac>
+\<483hp 20ma 24mv -10al -0.5ac\>
 
 fs
 
@@ -94,7 +94,7 @@ The kobold sage appears to be resisting quite a bit of the damage.
 
 The kobold sage is scorched by the flames of Hell!
 
-<484hp 10ma 25mv -10al -0.5ac>
+\<484hp 10ma 25mv -10al -0.5ac\>
 
 fs
 
@@ -104,7 +104,7 @@ The kobold sage hits you very hard.
 
 You are covered in sticky webs!
 
-<461hp 12ma 26mv -10al -0.2ac>
+\<461hp 12ma 26mv -10al -0.2ac\>
 
 Ok.
 
@@ -112,11 +112,11 @@ The kobold sage appears to be resisting quite a bit of the damage.
 
 The kobold sage is scorched by the flames of Hell!
 
-<461hp 0ma 26mv -10al -0.2ac>
+\<461hp 0ma 26mv -10al -0.2ac\>
 
 The 'detect evil' spell on you is about to wear off.
 
-<462hp 0ma 26mv -10al -0.2ac>
+\<462hp 0ma 26mv -10al -0.2ac\>
 
 You hit the kobold sage very hard.
 
@@ -124,11 +124,11 @@ The kobold sage hits you very hard.
 
 A sudden burst of colours sends you reeling.
 
-<379hp 2ma 27mv -10al -0.2ac>
+\<379hp 2ma 27mv -10al -0.2ac\>
 
 l ko
 
-The kobold sage wears long black robes and looks very old.  He has an
+The kobold sage wears long black robes and looks very old. He has an
 
 intelligent look to him, and you notice that he has what appears to be
 
@@ -140,21 +140,21 @@ The kobold sage looks pretty hurt.
 
 the kobold sage is using:
 
-<worn about body>    a red robe
+\<worn about body\> a red robe
 
-<held>               a book of knowledge..It has a soft glowing aura!
+\<held\> a book of knowledge..It has a soft glowing aura!
 
 You attempt to peek at the inventory:
 
 a solidified wisp of wraith's breath
 
-<381hp 4ma 28mv -10al -0.2ac>
+\<381hp 4ma 28mv -10al -0.2ac\>
 
 The kobold sage hits you very hard.
 
 A sudden burst of colours sends you reeling.
 
-<297hp 6ma 29mv -10al -0.2ac>
+\<297hp 6ma 29mv -10al -0.2ac\>
 
 strike
 
@@ -162,27 +162,27 @@ A sudden burst of colours sends you reeling.
 
 Your strike at the kobold sage misses its mark.
 
-<229hp 8ma 30mv -10al -0.2ac>
+\<229hp 8ma 30mv -10al -0.2ac\>
 
 strike
 
-<232hp 12ma 32mv -10al -0.2ac>
+\<232hp 12ma 32mv -10al -0.2ac\>
 
 Your strike at the kobold sage misses its mark.
 
-<232hp 12ma 32mv -10al -0.2ac>
+\<232hp 12ma 32mv -10al -0.2ac\>
 
 strike
 
 The kobold sage hits you very hard.
 
-<221hp 14ma 33mv -10al -0.2ac>
+\<221hp 14ma 33mv -10al -0.2ac\>
 
 Your strike at the kobold sage misses its mark.
 
-<222hp 15ma 33mv -10al -0.2ac>
+\<222hp 15ma 33mv -10al -0.2ac\>
 
-|
+\|
 
 fs
 
@@ -194,7 +194,7 @@ The kobold sage hits you very hard.
 
 A sudden burst of colours sends you reeling.
 
-<155hp 18ma 35mv -10al -0.2ac>
+\<155hp 18ma 35mv -10al -0.2ac\>
 
 Ok.
 
@@ -202,9 +202,9 @@ The kobold sage appears to be resisting quite a bit of the damage.
 
 The kobold sage is scorched by the flames of Hell!
 
-<155hp 6ma 35mv -10al -0.2ac>
+\<155hp 6ma 35mv -10al -0.2ac\>
 
-The kobold sage wears long black robes and looks very old.  He has an
+The kobold sage wears long black robes and looks very old. He has an
 
 intelligent look to him, and you notice that he has what appears to be
 
@@ -216,25 +216,25 @@ The kobold sage looks pretty hurt.
 
 the kobold sage is using:
 
-<worn about body>    a red robe
+\<worn about body\> a red robe
 
-<held>               a book of knowledge..It has a soft glowing aura!
+\<held\> a book of knowledge..It has a soft glowing aura!
 
 You attempt to peek at the inventory:
 
 You can't see anything.
 
-<156hp 8ma 36mv -10al -0.2ac>
+\<156hp 8ma 36mv -10al -0.2ac\>
 
 The kobold sage hits you very hard.
 
-<145hp 8ma 36mv -10al -0.2ac>
+\<145hp 8ma 36mv -10al -0.2ac\>
 
 strike
 
 Your strike at the kobold sage misses its mark.
 
-<145hp 9ma 36mv -10al -0.2ac>
+\<145hp 9ma 36mv -10al -0.2ac\>
 
 inv
 
@@ -244,7 +244,7 @@ A sudden burst of colours sends you reeling.
 
 You wish that your wounds would stop BLEEDING that much!
 
-<107hp 12ma 38mv -10al -0.2ac>
+\<107hp 12ma 38mv -10al -0.2ac\>
 
 You are carrying:
 
@@ -264,11 +264,11 @@ a nymph cloak..It has a soft glowing aura!
 
 a tractate on the analysis of death..It emits a faint humming sound!
 
-<107hp 12ma 38mv -10al -0.2ac>
+\<107hp 12ma 38mv -10al -0.2ac\>
 
 You sense the blue in your vision disappear.
 
-<108hp 14ma 39mv -10al -0.2ac>
+\<108hp 14ma 39mv -10al -0.2ac\>
 
 The kobold sage hits you very hard.
 
@@ -278,7 +278,7 @@ The kobold sage hits you very hard.
 
 You wish that your wounds would stop BLEEDING that much!
 
-<83hp 14ma 39mv -10al -0.2ac>
+\<83hp 14ma 39mv -10al -0.2ac\>
 
 fs
 
@@ -288,7 +288,7 @@ The kobold sage appears to be resisting quite a bit of the damage.
 
 The kobold sage is scorched by the flames of Hell!
 
-<83hp 3ma 39mv -10al -0.2ac>
+\<83hp 3ma 39mv -10al -0.2ac\>
 
 l ko
 
@@ -296,7 +296,7 @@ You wish that your wounds would stop BLEEDING that much!
 
 You wish that your wounds would stop BLEEDING that much!
 
-The kobold sage wears long black robes and looks very old.  He has an
+The kobold sage wears long black robes and looks very old. He has an
 
 intelligent look to him, and you notice that he has what appears to be
 
@@ -308,15 +308,15 @@ The kobold sage is in awful condition.
 
 the kobold sage is using:
 
-<worn about body>    a red robe
+\<worn about body\> a red robe
 
-<held>               a book of knowledge..It has a soft glowing aura!
+\<held\> a book of knowledge..It has a soft glowing aura!
 
 You attempt to peek at the inventory:
 
 You can't see anything.
 
-<85hp 6ma 41mv -10al -0.2ac>
+\<85hp 6ma 41mv -10al -0.2ac\>
 
 strike
 
@@ -330,13 +330,13 @@ A sudden burst of colours sends you reeling.
 
 You wish that your wounds would stop BLEEDING that much!
 
-<19hp 8ma 42mv -10al -0.2ac>
+\<19hp 8ma 42mv -10al -0.2ac\>
 
 Your strike at the kobold sage misses its mark.
 
-<20hp 9ma 42mv -10al -0.2ac>
+\<20hp 9ma 42mv -10al -0.2ac\>
 
-|
+\|
 
 rec
 
@@ -346,7 +346,7 @@ You wish that your wounds would stop BLEEDING that much!
 
 You are incapacitated and will slowly die, if not aided.
 
-<-3hp 11ma 43mv -10al 2.8ac>
+\<-3hp 11ma 43mv -10al 2.8ac\>
 
 You are in pretty bad shape, unable to do anything!
 
@@ -362,10 +362,13 @@ its fixed.
 
 <div class="post" data-post-id="30398" data-author="harik" data-date="2009-12-01T21:05:37+00:00" data-subject="">
 
-good catch. theres still a good number of mobs out there with inappropriate armor class due to code changes.
+> <strong>juggleblood wrote:</strong>
+> good catch. theres still a good number of mobs out there with inappropriate armor class due to code changes.
+> 
+> 
+> 
+> its fixed.
 
-its fixed.[/quote:36se7bv8]
-
-Thank god, that 3x energy drain he started with was a serious PITA.   Thanks for tuning his phase door down as well, that was getting old really quick. :)
+Thank god, that 3x energy drain he started with was a serious PITA. Thanks for tuning his phase door down as well, that was getting old really quick. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

@@ -12,7 +12,7 @@ post_count: 8
 
 <div class="post" data-post-id="10533" data-author="Krok" data-date="2006-02-02T09:54:25+00:00" data-subject="wts lost cross ring">
 
-Signet Ring of the Lost Cross 	-0.4	-1 SpellSave, -1 BreathSave	NAv 3x40
+Signet Ring of the Lost Cross -0.4	-1 SpellSave, -1 BreathSave	NAv 3x40
 
 5 mils min
 
@@ -20,7 +20,7 @@ Signet Ring of the Lost Cross 	-0.4	-1 SpellSave, -1 BreathSave	NAv 3x40
 
 <div class="post" data-post-id="10534" data-author="Gti" data-date="2006-02-02T12:54:47+00:00" data-subject="">
 
-5mil  :? [/color:120rqi9l]
+5mil <img src="/images/smilies/icon_e_confused.svg" alt=":?" title=":?" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -34,7 +34,7 @@ thx.
 
 <div class="post" data-post-id="10550" data-author="Weasel" data-date="2006-02-03T17:04:15+00:00" data-subject="">
 
-bah.. didn't keep it open for long - I would've bid more :P  
+bah.. didn't keep it open for long - I would've bid more <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom"> 
 
 How come you never use the chopping block?
 
@@ -60,7 +60,7 @@ YEAH!!!
 
 postscript: see last post.
 
-brand :!:
+brand <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

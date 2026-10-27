@@ -44,7 +44,7 @@ Charles
 
 I am pretty sure I saw Aife take it.. 
 
-you cant trust that little runt  :twisted:
+you cant trust that little runt <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -62,19 +62,19 @@ If Aife does have, I can ask to buy back.
 
 Two things:
 
-1) Charles is about as straight arrow as they come.
+1\) Charles is about as straight arrow as they come.
 
-2) Auto is almost never serious.  Even when he thinks he is.
+2\) Auto is almost never serious. Even when he thinks he is.
 
 </div>
 
 <div class="post" data-post-id="10854" data-author="Autolycos" data-date="2006-02-23T17:40:39+00:00" data-subject="">
 
-*cackle*   :twisted: 
+\*cackle\* <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-Charles is probably one of the must trustworthy people you will ever meet, on sloth or real life.. I have known him for almost 15 years..  And the only stupid thing he has ever done, was introduce me to slothmud...  and you should all thank his for it  :twisted:  
+Charles is probably one of the must trustworthy people you will ever meet, on sloth or real life.. I have known him for almost 15 years.. And the only stupid thing he has ever done, was introduce me to slothmud... and you should all thank his for it <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-P.S. if you ever take me serious, your have more problems then just missing eq.. :twisted:
+P.S. if you ever take me serious, your have more problems then just missing eq.. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -86,7 +86,7 @@ Auto, stop confusing the noobs, please.
 
 <div class="post" data-post-id="10859" data-author="Guinex" data-date="2006-02-23T18:47:33+00:00" data-subject="">
 
-I believe what charles was saying is that the item gets transfered to the Auction store, not the innkeeper auctions the item.  So your item would have ended up in the store if you had rented in this situation.  Also, that item isn't so cute, if you need help getting another one just ask me.
+I believe what charles was saying is that the item gets transfered to the Auction store, not the innkeeper auctions the item. So your item would have ended up in the store if you had rented in this situation. Also, that item isn't so cute, if you need help getting another one just ask me.
 
 </div>
 
@@ -100,7 +100,7 @@ But I'm disinclined to acquiesce to your request...
 
 <div class="post" data-post-id="10861" data-author="brady" data-date="2006-02-23T19:51:05+00:00" data-subject="">
 
-I believe it was Colonel Mustard in the Observatory with the knife.  That Colonel Mustard is a real sunovabitch.
+I believe it was Colonel Mustard in the Observatory with the knife. That Colonel Mustard is a real sunovabitch.
 
 </div>
 
@@ -122,6 +122,6 @@ sad to say that 12345 is right.....
 
 but in all actuality.. 
 
-It was Mr.Body, in the hallway, with the pistol!!!!   :twisted:
+It was Mr.Body, in the hallway, with the pistol!!!! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

@@ -54,7 +54,7 @@ Your slam passes right through a yellow rakasha!
 
 Your sting passes right through a yellow rakasha!
 
-<751hp 258ma 213mv>   +9   -10.4   617,483,906   275,652   indoors   Hellwell
+\<751hp 258ma 213mv\> +9 -10.4 617,483,906 275,652 indoors Hellwell
 
 cast 'Destruction'
 
@@ -62,7 +62,7 @@ Ok.
 
 A piece of a yellow rakasha is blasted away.
 
-<753hp 239ma 214mv>   +9   -10.4   617,485,901   275,652   indoors   Hellwell
+\<753hp 239ma 214mv\> +9 -10.4 617,485,901 275,652 indoors Hellwell
 
 A spectre's claw passes right through a yellow rakasha!
 

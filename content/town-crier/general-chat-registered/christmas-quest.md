@@ -12,7 +12,7 @@ post_count: 2
 
 <div class="post" data-post-id="9922" data-author="Caldrick" data-date="2005-12-25T20:08:06+00:00" data-subject="Christmas Quest">
 
-Just wanted to say thanks to the imms for putting on the Christmas Quest, it was a lot of fun  :) 
+Just wanted to say thanks to the imms for putting on the Christmas Quest, it was a lot of fun <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> 
 
 Here's hoping we get more quests like it soon.
 

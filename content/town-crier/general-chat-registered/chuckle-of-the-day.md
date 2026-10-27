@@ -18,7 +18,7 @@ Total exp for kill is 318143.
 
 Your blood freezes as you hear the Ace of Wands's death cry.
 
-<244hp 14ma 192mv> 20684865xp, -10, -8.0+319939
+\<244hp 14ma 192mv\> 20684865xp, -10, -8.0+319939
 
 d
 
@@ -28,15 +28,15 @@ d
 
 You don't see that person.
 
-<246hp 14ma 192mv> 20684865xp, -10, -8.0+0
+\<246hp 14ma 192mv\> 20684865xp, -10, -8.0+0
 
 d
 
 You struggle to break free from the webs to no avail.
 
-<246hp 14ma 192mv> 20684865xp, -10, -8.0+0
+\<246hp 14ma 192mv\> 20684865xp, -10, -8.0+0
 
-|
+\|
 
 cast 'dispel magic' tar
 
@@ -66,31 +66,31 @@ YOU ARE FALLING.... AAAIIIEEEEEE!!!!
 
 The Vertical Gallery
 
-Exits: Up  Down  
+Exits: Up Down 
 
 YOU ARE FALLING.... AAAIIIEEEEEE!!!!
 
 Along the Vertical Gallery
 
-Exits: Up  Down  
+Exits: Up Down 
 
 YOU ARE FALLING.... AAAIIIEEEEEE!!!!
 
 Further along the Vertical Gallery
 
-Exits: Up  Down  
+Exits: Up Down 
 
 YOU ARE FALLING.... AAAIIIEEEEEE!!!!
 
 Beginnings of the Vertical Gallery
 
-Exits: Up  Down  
+Exits: Up Down 
 
 YOU ARE FALLING.... AAAIIIEEEEEE!!!!
 
 Bottom of the Vertical Gallery
 
-Exits: North  Up  
+Exits: North Up 
 
 The corpse of the Ace of Wands is lying here.
 
@@ -108,34 +108,34 @@ S
 
  M
 
-  A
+ A
 
-   C
+ C
 
-    K
+ K
 
-     !!!!!!!!!!
+ !!!!!!!!!!
 
 You hit the ground with an impressive thud!!!
 
 You have been KILLED!! 
 
-<-12hp 14ma 192mv> 20684865xp, -10, -1.3+0
+\<-12hp 14ma 192mv\> 20684865xp, -10, -1.3+0
 
 where
 
-You are in The Tarot.  Also in this area are:
+You are in The Tarot. Also in this area are:
 
-Name                           - Location
+Name - Location
 
------------------------------------------
+\-----------------------------------------
 
-Taron                          - Bottom of the Vertical Gallery
+Taron - Bottom of the Vertical Gallery
 
 </div>
 
 <div class="post" data-post-id="31327" data-author="Tuck" data-date="2010-06-23T09:45:47+00:00" data-subject="Re: Chuckle of the Day">
 
-rofl  :P
+rofl <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>

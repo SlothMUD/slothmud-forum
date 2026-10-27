@@ -26,7 +26,7 @@ You get gold coins from the corpse of the court minstrel that's on the ground.
 
 There were 31994 coins.
 
-You split 31994 coins.  You keep 15997 coins.
+You split 31994 coins. You keep 15997 coins.
 
 the corpse of the court minstrel intones 'One is cmd line.'
 
@@ -34,291 +34,291 @@ the corpse of the court minstrel intones 'One is parse cmd line.'
 
 the corpse of the court minstrel intones 'One is parse cmd line.'
 
-the corpse of the court minstrel intones 'One is mfn_range.'
+the corpse of the court minstrel intones 'One is mfn\_range.'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (1).'
+the corpse of the court minstrel intones 'One is mfn\_split (1).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (1).'
+the corpse of the court minstrel intones 'One is mfn\_split (1).'
 
-the corpse of the court minstrel intones 'One is mfn_range.'
+the corpse of the court minstrel intones 'One is mfn\_range.'
 
-the corpse of the court minstrel intones 'One is mfn_range.'
+the corpse of the court minstrel intones 'One is mfn\_range.'
 
-the corpse of the court minstrel intones 'One is mfn_range.'
+the corpse of the court minstrel intones 'One is mfn\_range.'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (1).'
+the corpse of the court minstrel intones 'One is mfn\_split (1).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (1).'
+the corpse of the court minstrel intones 'One is mfn\_split (1).'
 
-the corpse of the court minstrel intones 'One is mfn_range.'
+the corpse of the court minstrel intones 'One is mfn\_range.'
 
-the corpse of the court minstrel intones 'One is mfn_range.'
+the corpse of the court minstrel intones 'One is mfn\_range.'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (1).'
+the corpse of the court minstrel intones 'One is mfn\_split (1).'
 
-the corpse of the court minstrel intones 'One is mfn_range.'
+the corpse of the court minstrel intones 'One is mfn\_range.'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (1).'
+the corpse of the court minstrel intones 'One is mfn\_split (1).'
 
-the corpse of the court minstrel intones 'One is mfn_range.'
+the corpse of the court minstrel intones 'One is mfn\_range.'
 
-the corpse of the court minstrel intones 'One is mfn_group_c.'
+the corpse of the court minstrel intones 'One is mfn\_group\_c.'
 
-the corpse of the court minstrel intones 'One is mfn_range.'
+the corpse of the court minstrel intones 'One is mfn\_range.'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (1).'
+the corpse of the court minstrel intones 'One is mfn\_split (1).'
 
-the corpse of the court minstrel intones 'One is mfn_range.'
+the corpse of the court minstrel intones 'One is mfn\_range.'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (1).'
+the corpse of the court minstrel intones 'One is mfn\_split (1).'
 
-the corpse of the court minstrel intones 'One is mfn_range.'
+the corpse of the court minstrel intones 'One is mfn\_range.'
 
-the corpse of the court minstrel intones 'One is mfn_obj_in_room_r.'
+the corpse of the court minstrel intones 'One is mfn\_obj\_in\_room\_r.'
 
-the corpse of the court minstrel intones 'One is mfn_range.'
+the corpse of the court minstrel intones 'One is mfn\_range.'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (1).'
+the corpse of the court minstrel intones 'One is mfn\_split (1).'
 
-the corpse of the court minstrel intones 'One is mfn_range.'
+the corpse of the court minstrel intones 'One is mfn\_range.'
 
-the corpse of the court minstrel intones 'One is CDW: a_ival.'
+the corpse of the court minstrel intones 'One is CDW: a\_ival.'
 
-the corpse of the court minstrel intones 'One is mfn_obj_in_world.'
+the corpse of the court minstrel intones 'One is mfn\_obj\_in\_world.'
 
-the corpse of the court minstrel intones 'One is CDW: a_ival.'
+the corpse of the court minstrel intones 'One is CDW: a\_ival.'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (1).'
+the corpse of the court minstrel intones 'One is mfn\_split (1).'
 
-the corpse of the court minstrel intones 'One is mfn_range.'
+the corpse of the court minstrel intones 'One is mfn\_range.'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (1).'
+the corpse of the court minstrel intones 'One is mfn\_split (1).'
 
-the corpse of the court minstrel intones 'One is mfn_range.'
+the corpse of the court minstrel intones 'One is mfn\_range.'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (1).'
+the corpse of the court minstrel intones 'One is mfn\_split (1).'
 
-the corpse of the court minstrel intones 'One is mfn_range.'
+the corpse of the court minstrel intones 'One is mfn\_range.'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (1).'
+the corpse of the court minstrel intones 'One is mfn\_split (1).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (1).'
+the corpse of the court minstrel intones 'One is mfn\_split (1).'
 
-the corpse of the court minstrel intones 'One is mfn_range.'
+the corpse of the court minstrel intones 'One is mfn\_range.'
 
-the corpse of the court minstrel intones 'One is mfn_range.'
+the corpse of the court minstrel intones 'One is mfn\_range.'
 
-the corpse of the court minstrel intones 'One is people_in_room.'
+the corpse of the court minstrel intones 'One is people\_in\_room.'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (1).'
+the corpse of the court minstrel intones 'One is mfn\_split (1).'
 
-the corpse of the court minstrel intones 'One is mfn_range.'
+the corpse of the court minstrel intones 'One is mfn\_range.'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
-the corpse of the court minstrel intones 'One is mfn_split (1).'
+the corpse of the court minstrel intones 'One is mfn\_split (1).'
 
-the corpse of the court minstrel intones 'One is mfn_range.'
+the corpse of the court minstrel intones 'One is mfn\_range.'
 
-the corpse of the court minstrel intones 'One is mfn_range.'
+the corpse of the court minstrel intones 'One is mfn\_range.'
 
-the corpse of the court minstrel intones 'One is mfn_split (2).'
+the corpse of the court minstrel intones 'One is mfn\_split (2).'
 
 the corpse of the court
 
-#SESSION 'bob' DIED.
+\#SESSION 'bob' DIED.
 
-#THERE'S NO ACTIVE SESSION NOW.
+\#THERE'S NO ACTIVE SESSION NOW.
 
 i reconnect, then it crashes shortly afterwards. tried to make a rabbit outta his corpse too, but doubt that was the cause. have fun coder types!
 
@@ -346,189 +346,189 @@ You received 621364 experience points.
 
 Loud noises scare me!
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (1).'
+the corpse of a guardian saint intones 'One is mfn\_split (1).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (1).'
+the corpse of a guardian saint intones 'One is mfn\_split (1).'
 
-the corpse of a guardian saint intones 'One is mfn_obj_in_room_r.'
+the corpse of a guardian saint intones 'One is mfn\_obj\_in\_room\_r.'
 
-the corpse of a guardian saint intones 'One is mfn_range.'
+the corpse of a guardian saint intones 'One is mfn\_range.'
 
-the corpse of a guardian saint intones 'One is people_in_room.'
+the corpse of a guardian saint intones 'One is people\_in\_room.'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (1).'
+the corpse of a guardian saint intones 'One is mfn\_split (1).'
 
-the corpse of a guardian saint intones 'One is mfn_range.'
+the corpse of a guardian saint intones 'One is mfn\_range.'
 
-the corpse of a guardian saint intones 'One is mfn_obj_in_room_r.'
+the corpse of a guardian saint intones 'One is mfn\_obj\_in\_room\_r.'
 
-the corpse of a guardian saint intones 'One is people_in_room.'
+the corpse of a guardian saint intones 'One is people\_in\_room.'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (1).'
+the corpse of a guardian saint intones 'One is mfn\_split (1).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (1).'
+the corpse of a guardian saint intones 'One is mfn\_split (1).'
 
-the corpse of a guardian saint intones 'One is mfn_range.'
+the corpse of a guardian saint intones 'One is mfn\_range.'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (1).'
+the corpse of a guardian saint intones 'One is mfn\_split (1).'
 
-the corpse of a guardian saint intones 'One is people_in_room.'
+the corpse of a guardian saint intones 'One is people\_in\_room.'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (1).'
+the corpse of a guardian saint intones 'One is mfn\_split (1).'
 
-the corpse of a guardian saint intones 'One is mfn_range.'
+the corpse of a guardian saint intones 'One is mfn\_range.'
 
-the corpse of a guardian saint intones 'One is people_in_room.'
+the corpse of a guardian saint intones 'One is people\_in\_room.'
 
-the corpse of a guardian saint intones 'One is mfn_range.'
+the corpse of a guardian saint intones 'One is mfn\_range.'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (1).'
+the corpse of a guardian saint intones 'One is mfn\_split (1).'
 
-the corpse of a guardian saint intones 'One is mfn_range.'
+the corpse of a guardian saint intones 'One is mfn\_range.'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (1).'
+the corpse of a guardian saint intones 'One is mfn\_split (1).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (1).'
+the corpse of a guardian saint intones 'One is mfn\_split (1).'
 
-the corpse of a guardian saint intones 'One is mfn_obj_in_room_r.'
+the corpse of a guardian saint intones 'One is mfn\_obj\_in\_room\_r.'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-the corpse of a guardian saint intones 'One is mfn_split (2).'
+the corpse of a guardian saint intones 'One is mfn\_split (2).'
 
-#SESSION 'bob' DIED.
+\#SESSION 'bob' DIED.
 
-#THERE'S NO ACTIVE SESSION NOW.
+\#THERE'S NO ACTIVE SESSION NOW.
 
 no crash this time at least, go figure.
 
@@ -542,13 +542,14 @@ it's those scary loud noises again...
 
 <div class="post" data-post-id="26610" data-author="jezer" data-date="2008-10-08T05:16:33+00:00" data-subject="">
 
-I'm wondering why his mud session is called bob.  :shock:
+I'm wondering why his mud session is called bob. <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="26620" data-author="Stryx" data-date="2008-10-08T11:54:29+00:00" data-subject="">
 
-[quote:302wda6n]I'm wondering why his mud session is called bob.[/quote:302wda6n]
+> <strong>Quote:</strong>
+> I'm wondering why his mud session is called bob.
 
 Robert is harder to spell?
 

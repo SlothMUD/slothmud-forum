@@ -30,13 +30,13 @@ natural childbirth by flashlight ftw
 
 omg.. demon spawn!
 
-:) gratz.
+<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> gratz.
 
 </div>
 
 <div class="post" data-post-id="21184" data-author="Tap" data-date="2007-11-03T19:40:35+00:00" data-subject="">
 
-Congratz :twisted: 
+Congratz <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 1)If you don't drink coffee, you will
 
@@ -44,7 +44,7 @@ Congratz :twisted:
 
 3)Your nice smooth daily schedule, R.I.P.
 
-4)Yeah, it's worth it :twisted:
+4)Yeah, it's worth it <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -54,7 +54,7 @@ Sorry, overlooked it was a girl which means
 
 2)If you get plenty of sleep, R.I.P.
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -76,9 +76,10 @@ resouh
 
 <div class="post" data-post-id="21188" data-author="tincts" data-date="2007-11-04T00:24:35+00:00" data-subject="Re: Oh boy!">
 
-9.64 lb [/quote:2a4s2hms]
+> <strong>13 wrote:</strong>
+> 9.64 lb
 
- :shock: 
+ <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
 And your partner's not split in two?!!
 
@@ -90,7 +91,7 @@ Gratz, man.
 
 shit guys this is #3, I'm no rookie here.
 
-but thanks all..:)
+but thanks all..<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 aa
 
@@ -100,27 +101,27 @@ aa
 
 Congrats Aa! 
 
-Thanks Gods you aren't chinese cause you'll probably get arrested for third child :P
+Thanks Gods you aren't chinese cause you'll probably get arrested for third child <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="21194" data-author="Blastem" data-date="2007-11-04T15:36:01+00:00" data-subject="">
 
-Grats man now go change those diapers ;)
+Grats man now go change those diapers <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="21200" data-author="Rynquald" data-date="2007-11-04T21:17:04+00:00" data-subject="">
 
-Gratz :)
+Gratz <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="21203" data-author="Leaf" data-date="2007-11-05T02:08:33+00:00" data-subject="">
 
-Gratz Aa, now u got 2boys and 1girl.  At least when she gets married, it will
+Gratz Aa, now u got 2boys and 1girl. At least when she gets married, it will
 
-be a "True" Shotgun Wedding :)  Wheres that redneck pic of u again!!!
+be a "True" Shotgun Wedding <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> Wheres that redneck pic of u again!!!
 
 </div>
 
@@ -128,7 +129,7 @@ be a "True" Shotgun Wedding :)  Wheres that redneck pic of u again!!!
 
 Gratz Aa.
 
-As another father of 2 boys and a girl, let me say you can rest a little easier about her being able to take care of herself as she grows up.  If her brothers are anything like my boys, the only people that will be allowed to mess with her male or female will be close family.
+As another father of 2 boys and a girl, let me say you can rest a little easier about her being able to take care of herself as she grows up. If her brothers are anything like my boys, the only people that will be allowed to mess with her male or female will be close family.
 
 Also having to deal with her 2 brothers will make her able to whoop some A$$ if she has to. 
 
@@ -156,21 +157,22 @@ guess this means i'll have to come down there next spring huh?
 
 Not a very good picture but it was Lesley taking the pic and she had
 
-just done a lot of work so I don't blame her.  It was a crazy night.  Halfway
+just done a lot of work so I don't blame her. It was a crazy night. Halfway
 
 through labor the power went out at the hospital and nothing came back
 
-on except computers and life-support systems..no lights.  The Dr. and nurse
+on except computers and life-support systems..no lights. The Dr. and nurse
 
 brought us flashlights.
 
-[img:2eu3ubxu]http://i83.photobucket.com/albums/j286/greendevil74/Picture009.jpg[/img:2eu3ubxu]
+![](http://i83.photobucket.com/albums/j286/greendevil74/Picture009.jpg)
 
 </div>
 
 <div class="post" data-post-id="21221" data-author="Hotara" data-date="2007-11-06T15:04:17+00:00" data-subject="">
 
-The Dr. and nurse brought us flashlights.[/quote:12u7v5fo]
+> <strong>13 wrote:</strong>
+> The Dr. and nurse brought us flashlights.
 
 I thought such problems don't exist in America!
 
@@ -178,9 +180,9 @@ I thought such problems don't exist in America!
 
 <div class="post" data-post-id="21222" data-author="Leaf" data-date="2007-11-06T16:09:33+00:00" data-subject="">
 
-We don't want to see ur ugly mug, we want to see the baby's ugly mug :)
+We don't want to see ur ugly mug, we want to see the baby's ugly mug <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-My niece is like 10months and has a chinese-afro.  It looks like she has a 
+My niece is like 10months and has a chinese-afro. It looks like she has a 
 
 wig, but it's not.
 
@@ -188,7 +190,7 @@ wig, but it's not.
 
 <div class="post" data-post-id="21225" data-author="13" data-date="2007-11-06T21:14:22+00:00" data-subject="">
 
-[img:2t0byt4g]http://www.memorialhospitalofcarbondale.org/babynet.nsf/Files/RowanElizabeth1152007131PM/$file/Rowan%20Elizabeth.jpg[/img:2t0byt4g]
+![](http://www.memorialhospitalofcarbondale.org/babynet.nsf/Files/RowanElizabeth1152007131PM/$file/Rowan%20Elizabeth.jpg)
 
 </div>
 
@@ -196,6 +198,6 @@ wig, but it's not.
 
 poor kid, she looks just like you
 
- :lol:
+ <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>

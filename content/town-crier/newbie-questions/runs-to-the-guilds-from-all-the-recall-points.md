@@ -32,49 +32,49 @@ These are all done using wintin.NET
 
 BH
 
-#alias {w2warrior} {4e3ne2n}
+\#alias {w2warrior} {4e3ne2n}
 
-#alias {w2thief} {6e2n3e}
+\#alias {w2thief} {6e2n3e}
 
-#alias {w2mage} {e2n2w}
+\#alias {w2mage} {e2n2w}
 
-#alias {w2cleric} {e5n2e}
+\#alias {w2cleric} {e5n2e}
 
-#alias {w2bard} {11e3s3d2e}
+\#alias {w2bard} {11e3s3d2e}
 
-#alias {w2monk} {4wsw3s3ws3d2w}
+\#alias {w2monk} {4wsw3s3ws3d2w}
 
-#alias {w2druid} {6wu;open door;nws2ds}
+\#alias {w2druid} {6wu;open door;nws2ds}
 
-#alias {w2necro} {4ed3w2s}
+\#alias {w2necro} {4ed3w2s}
 
 SS
 
-#alias {well2warrior} {wwnnwn}
+\#alias {well2warrior} {wwnnwn}
 
-#alias {well2thief} {eennen}
+\#alias {well2thief} {eennen}
 
-#alias {well2mage} {eesseu}
+\#alias {well2mage} {eesseu}
 
-#alias {well2cleric} {2w2swu}
+\#alias {well2cleric} {2w2swu}
 
-#alias {well2bard} {8sw4s}
+\#alias {well2bard} {8sw4s}
 
-#alias {well2necro} {9en4e4s;open doors;se5sw2s}
+\#alias {well2necro} {9en4e4s;open doors;se5sw2s}
 
-#alias {well2druid} {6n3es;ent mushroom;eueue}
+\#alias {well2druid} {6n3es;ent mushroom;eueue}
 
-#alias {well2monk} {8s6w3s2e}
+\#alias {well2monk} {8s6w3s2e}
 
 AH
 
-#alias {wide2bard} {3n2en3en;open door;wn2e}
+\#alias {wide2bard} {3n2en3en;open door;wn2e}
 
-#alias {wide2monk} {3ne2ne;op door;2e}
+\#alias {wide2monk} {3ne2ne;op door;2e}
 
-#alias {wide2druid} {n4en2ene}
+\#alias {wide2druid} {n4en2ene}
 
-#alias {wide2necro} {3n2en2ese;open door;eu}
+\#alias {wide2necro} {3n2en2ese;open door;eu}
 
 The classic four guilds are really close to the recall point on AH
 
@@ -90,31 +90,31 @@ thief: hunt Five
 
 VK are from shelda not the recall point
 
-#alias {shelda2warrior} {eses}
+\#alias {shelda2warrior} {eses}
 
-#alias {shelda2thief} {es2es}
+\#alias {shelda2thief} {es2es}
 
-#alias {shelda2mage} {e4nen}
+\#alias {shelda2mage} {e4nen}
 
-#alias {shelda2cleric} {e4n2en}
+\#alias {shelda2cleric} {e4n2en}
 
-#alias {shelda2monk} {e4n5e2s}
+\#alias {shelda2monk} {e4n5e2s}
 
-#alias {shelda2bard} {e4n4ene}
+\#alias {shelda2bard} {e4n4ene}
 
-#alias {shelda2druid} {e3n2wnw}
+\#alias {shelda2druid} {e3n2wnw}
 
-#alias {shelda2necro} {e3n2wse;op doors e;e}
+\#alias {shelda2necro} {e3n2wse;op doors e;e}
 
 Lyme
 
-#alias {magnolia2warriorguild} {enes3enes}
+\#alias {magnolia2warriorguild} {enes3enes}
 
-#alias {magnolia2thiefguild}  {enennneddnn}
+\#alias {magnolia2thiefguild} {enennneddnn}
 
-#alias {magnolia2clerguild}  {enennnwws}
+\#alias {magnolia2clerguild} {enennnwws}
 
-#alias {magnolia2mageguild}  {enen2e}
+\#alias {magnolia2mageguild} {enen2e}
 
 Remember, while standing at the bard, necro, druid, monk guild masters you can "say recall" to recall.
 
@@ -122,13 +122,13 @@ This was added because these newer guilds are generally outside the towns.
 
 BONUS SECTION : runs to the bank
 
-#alias {w2bank} {4e3n2en}
+\#alias {w2bank} {4e3n2en}
 
-#alias {well2bank} {2wse}
+\#alias {well2bank} {2wse}
 
-#alias {wide2bank} {n5es;op gate s;sws}
+\#alias {wide2bank} {n5es;op gate s;sws}
 
-#alias {magnolia2bank} {ene3neddsenn}
+\#alias {magnolia2bank} {ene3neddsenn}
 
 Enjoy.
 
@@ -138,7 +138,7 @@ Enjoy.
 
 Island bank:
 
-#alias {island2bank} {3esesesees2uede3sw7s8w;open door;n}
+\#alias {island2bank} {3esesesees2uede3sw7s8w;open door;n}
 
 Then again, no one really levels on Island.
 

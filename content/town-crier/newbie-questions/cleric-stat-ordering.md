@@ -20,13 +20,15 @@ Even more fun, Bards have a prime stat of Dex, but a Cleric/Bard has a stat orde
 
 Was just curious since I was admiring Malfoy...
 
-[code:bwphzzj0][24c  9d  8m  4n] Malfoy  15 17 18 18 15[/code:bwphzzj0]
+```
+[24c 9d 8m 4n] Malfoy 15 17 18 18 15
+```
 
 </div>
 
 <div class="post" data-post-id="3623" data-author="Modello" data-date="2005-01-05T19:46:04+00:00" data-subject="">
 
-Good point.  I've wondered about this myself.  Interesting things seem to happen with the stat ordering whenever the first and second class share the same prime stat.  Check a necro/mage or mage/necro......  a thief/bard for instance has dex then int as the second stat!
+Good point. I've wondered about this myself. Interesting things seem to happen with the stat ordering whenever the first and second class share the same prime stat. Check a necro/mage or mage/necro...... a thief/bard for instance has dex then int as the second stat!
 
 </div>
 
@@ -36,19 +38,19 @@ Normally, stats are ordered based on whatever your prime class is - but then you
 
 If you have prime and second with the same first class, then the stat bumped up to your second spot is the second stat of your secondary class - so it goes prime first, second second, prime next, prime next, prime next.
 
-This does make for some interesting combinations.  I always thought it should be that none of your stats were bumped, but that wasn't the way it was built.
+This does make for some interesting combinations. I always thought it should be that none of your stats were bumped, but that wasn't the way it was built.
 
 </div>
 
 <div class="post" data-post-id="3625" data-author="12345" data-date="2005-01-05T22:20:08+00:00" data-subject="">
 
-Hmm.  Interesting.  Danke.
+Hmm. Interesting. Danke.
 
 </div>
 
 <div class="post" data-post-id="3632" data-author="13" data-date="2005-01-06T13:27:15+00:00" data-subject="">
 
-Thieves roll str 3rd, why don't monks??  Make's more sense to me
+Thieves roll str 3rd, why don't monks?? Make's more sense to me
 
 since a monk is a fighter (closer to warrior than a thief).
 

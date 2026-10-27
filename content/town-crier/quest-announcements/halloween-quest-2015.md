@@ -72,38 +72,38 @@ us, together as one, beat back the dogs of war and send them back to the
 
 foul corners of the planes from whence they came!
 
--Breeze
+\-Breeze
 
---------------
+\--------------
 
 Summary:
 
-When:   10 a.m. Pacific Time, October 31st
+When: 10 a.m. Pacific Time, October 31st
 
-Where:  The World of Jord
+Where: The World of Jord
 
-What:   Halloween Quest:
+What: Halloween Quest:
 
-        1. Return the corpses of the Vampires to Van Helsing for rewards. 
+ 1\. Return the corpses of the Vampires to Van Helsing for rewards. 
 
-           This includes minions and greater powers that shall lead them. 
+ This includes minions and greater powers that shall lead them. 
 
-        2. To assist with your battles, treats will be scattered across
+ 2\. To assist with your battles, treats will be scattered across
 
-           the realm for lucky heroes to find and use (or keep if they wish).
+ the realm for lucky heroes to find and use (or keep if they wish).
 
-        3. Regular epics will be loaded with Drachma tokens.
+ 3\. Regular epics will be loaded with Drachma tokens.
 
-        4. Custom Halloween epics will yield Drachma as well.
+ 4\. Custom Halloween epics will yield Drachma as well.
 
-        5. Gain honor by clearing out the "ghostly green" Haloween themed mobs.
+ 5\. Gain honor by clearing out the "ghostly green" Haloween themed mobs.
 
-        6. Each of the aforementioned things will persist until they are
+ 6\. Each of the aforementioned things will persist until they are
 
-           all killed off / collected or we experience a reboot or crash.
+ all killed off / collected or we experience a reboot or crash.
 
 Thanks, and Happy Halloween!
 
--Your Immortal Staff
+\-Your Immortal Staff
 
 </div>

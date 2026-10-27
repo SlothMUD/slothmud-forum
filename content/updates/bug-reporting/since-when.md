@@ -12,7 +12,7 @@ post_count: 14
 
 <div class="post" data-post-id="5856" data-author="Alberich" data-date="2005-04-29T09:42:18+00:00" data-subject="since when..">
 
-do mirrors block stabs?  or am i missing something here.. 
+do mirrors block stabs? or am i missing something here.. 
 
 You leap out of the shadows and attack!
 
@@ -32,9 +32,9 @@ A gold-robed apprentice makes a strange sound, as you place a thunderbolt in her
 
 yeah...
 
-Splork misunderstood us :)
+Splork misunderstood us <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-Instead of stabbing WITH mirrors we are stabbing mirrors  :twisted:
+Instead of stabbing WITH mirrors we are stabbing mirrors <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -42,7 +42,7 @@ Instead of stabbing WITH mirrors we are stabbing mirrors  :twisted:
 
 La la lalalala la la la la la....
 
-Smurfy.  Do we grip mirrors now too?
+Smurfy. Do we grip mirrors now too?
 
 </div>
 
@@ -54,13 +54,13 @@ I hope not, Monks are more focused....
 
 <div class="post" data-post-id="5862" data-author="blackmore" data-date="2005-04-29T17:02:10+00:00" data-subject="">
 
-When you're attacking a mob that has mirrors, it sucks, but isn't that what mirrors are supposed to be used for?  I'm not much interested in sloth becoming realistic, but I'm all for consistency and things making sense.  Saying you could tell the difference between the mob and their images while you were stabbing, but not while you were attacking or blasting made no sense before, and it wasn't consistent.
+When you're attacking a mob that has mirrors, it sucks, but isn't that what mirrors are supposed to be used for? I'm not much interested in sloth becoming realistic, but I'm all for consistency and things making sense. Saying you could tell the difference between the mob and their images while you were stabbing, but not while you were attacking or blasting made no sense before, and it wasn't consistent.
 
 </div>
 
 <div class="post" data-post-id="5864" data-author="Autolycos" data-date="2005-04-29T17:13:20+00:00" data-subject="">
 
-I have noticed with the Centaur Warlock for example.. whom i will never stop killing just because he is a stingy popping mofo...  that on double backstab, if can shatter 2 of his mirrors, i can flee out, and jump back in, sometimes hitting him again.. of course you need Dcloak, and re-invis.
+I have noticed with the Centaur Warlock for example.. whom i will never stop killing just because he is a stingy popping mofo... that on double backstab, if can shatter 2 of his mirrors, i can flee out, and jump back in, sometimes hitting him again.. of course you need Dcloak, and re-invis.
 
 </div>
 
@@ -78,31 +78,32 @@ Autolycos circles around driving a Rogue's dagger into Leaf's Back.
 
 Autolycos removes his dagger from Leaf's back leaving a big bloody hole..
 
-that  would be great!  i would pay to see that!!!
+that would be great! i would pay to see that!!!
 
 </div>
 
 <div class="post" data-post-id="5867" data-author="12345" data-date="2005-04-29T17:57:47+00:00" data-subject="">
 
-I'll toss another in the realism pot, if anyone wants to add some that will actually make the player's lives better.  Cleric mobs have some wonderful spells like resist fire/cold and spell shield that they can cast in battle and we can't.  Any chance we can stop that?
+I'll toss another in the realism pot, if anyone wants to add some that will actually make the player's lives better. Cleric mobs have some wonderful spells like resist fire/cold and spell shield that they can cast in battle and we can't. Any chance we can stop that?
 
 </div>
 
 <div class="post" data-post-id="5868" data-author="12345" data-date="2005-04-29T18:31:44+00:00" data-subject="">
 
-Correction... apparently you can cast spell shield in battle.  I need to start doing that.  Color me newbie.
+Correction... apparently you can cast spell shield in battle. I need to start doing that. Color me newbie.
 
 </div>
 
 <div class="post" data-post-id="5869" data-author="guest" data-date="2005-04-29T19:22:02+00:00" data-subject="">
 
-In D&D, mirror images always look like what the caster looks like right now, holes and all.  Because they're, you know, mirrors.
+In D\&D, mirror images always look like what the caster looks like right now, holes and all. Because they're, you know, mirrors.
 
 </div>
 
 <div class="post" data-post-id="5870" data-author="Weasel" data-date="2005-04-29T20:07:26+00:00" data-subject="">
 
-Correction... apparently you can cast spell shield in battle.  I need to start doing that.  Color me newbie.[/quote:392z8ly7] 
+> <strong>12345 wrote:</strong>
+> Correction... apparently you can cast spell shield in battle. I need to start doing that. Color me newbie.
 
 really? shit I didn't know that either. wonder why we can't relite ourselves in battle too.
 
@@ -110,7 +111,7 @@ really? shit I didn't know that either. wonder why we can't relite ourselves in 
 
 <div class="post" data-post-id="5871" data-author="Autolycos" data-date="2005-04-29T20:21:03+00:00" data-subject="">
 
-well you can if you use disengage  :twisted:
+well you can if you use disengage <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

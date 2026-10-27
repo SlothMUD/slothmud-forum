@@ -26,6 +26,6 @@ Madi (aka Rent and Madigan)
 
 complete pwipe a few years ago 
 
-sorry and welcome back :)
+sorry and welcome back <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

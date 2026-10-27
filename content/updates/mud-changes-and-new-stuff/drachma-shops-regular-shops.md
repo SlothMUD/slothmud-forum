@@ -14,7 +14,7 @@ post_count: 1
 
 After tonight's reboot, a player will need to use 'query' instead of 'ask' for our shopkeepers when attempting to inquire about an items stats. This includes the drachma shops as well. Ive made this change so that we no longer have to worry about combining our questers and shopkeepers like we had previously had to.
 
-query <keepername> about <objname>
+query \<keepername\> about \<objname\>
 
 Enjoy,
 

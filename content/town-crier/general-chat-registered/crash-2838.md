@@ -22,7 +22,7 @@ Yeah. Problems connecting Sloth ....
 
 Sloth IV ?!
 
-:) :shock:
+<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -42,11 +42,11 @@ Thanks
 
 Shutdown with no restart by Judge.
 
-<362hp 366ma 252mv 256,973,593xp>
+\<362hp 366ma 252mv 256,973,593xp\>
 
---- Disconnected on Friday, June 27, 2008, 6:23 PM ---
+\--- Disconnected on Friday, June 27, 2008, 6:23 PM ---
 
---- Connected for 10 minutes, 21 seconds ---
+\--- Connected for 10 minutes, 21 seconds ---
 
 Don't panic, it's back up already.
 

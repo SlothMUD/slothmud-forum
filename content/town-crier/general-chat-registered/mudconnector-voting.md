@@ -14,9 +14,9 @@ post_count: 2
 
 ...
 
-6. SlothMUD III  view stats  105584  
+6\. SlothMUD III view stats 105584 
 
-7. Threshold RPG  view stats  105300  
+7\. Threshold RPG view stats 105300 
 
 We close to give up 6 place, Vote!
 
@@ -28,9 +28,9 @@ Bazilus the Crazy Python
 
 ...
 
-6. Threshold RPG  view stats  108959  
+6\. Threshold RPG view stats 108959 
 
-7. SlothMUD III  view stats  108935  
+7\. SlothMUD III view stats 108935 
 
 Bazilus the Crazy Python
 

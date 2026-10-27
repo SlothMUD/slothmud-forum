@@ -16,6 +16,6 @@ After careful consideration and a great deal of player input, we have lowered th
 
 Enjoy,
 
-Splork :twisted:
+Splork <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

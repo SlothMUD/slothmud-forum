@@ -20,13 +20,13 @@ Any thoughts about gracefeast as well? or is that also nerfed thanks to the new 
 
 <div class="post" data-post-id="6484" data-author="kjartan" data-date="2005-05-24T20:00:43+00:00" data-subject="">
 
-Yeah, ok.  It's $A, it's going to be scaled to -10 to +10, and it's incor.
+Yeah, ok. It's $A, it's going to be scaled to -10 to +10, and it's incor.
 
 </div>
 
 <div class="post" data-post-id="6485" data-author="Weasel" data-date="2005-05-24T20:06:53+00:00" data-subject="">
 
-thanks :)
+thanks <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -36,7 +36,7 @@ hmm.. kinda not right... I finally got my alignment rating up from -10 to -3 and
 
 About 10 minutes later I was able to cast grace successfully.. while still at a -3 rating.. (I have it in my prompt line). The message on score was 'You are tainted with evil.' although the rating had not changed, and the level of eveilness between grace working and grace not working cut off somewhere here... 
 
-Not really working the way it should.... the idea is that there should be a definite line, rather than 3.5 or whatever it may be (unless you want to add a decimal place to the alignment rating).. could grace be fixed to cut off at a definitive rating please? like -4  ..or better yet, -10. :)
+Not really working the way it should.... the idea is that there should be a definite line, rather than 3.5 or whatever it may be (unless you want to add a decimal place to the alignment rating).. could grace be fixed to cut off at a definitive rating please? like -4 ..or better yet, -10. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

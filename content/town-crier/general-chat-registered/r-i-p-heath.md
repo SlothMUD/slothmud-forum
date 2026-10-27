@@ -12,13 +12,13 @@ post_count: 77
 
 <div class="post" data-post-id="22185" data-author="Akasha" data-date="2008-01-23T03:59:04+00:00" data-subject="R.I.P. Heath">
 
-[url:1yfj2ffr]http://news.aol.com/entertainment/movies/movie-news-story/ar/_a/heath-ledger-found-dead-at-home/20080122165209990002?ncid=NWS00010000000001[/url:1yfj2ffr]
+http://news.aol.com/entertainment/movies/movie-news-story/ar/_a/heath-ledger-found-dead-at-home/20080122165209990002?ncid=NWS00010000000001
 
 </div>
 
 <div class="post" data-post-id="22187" data-author="bellafea" data-date="2008-01-23T05:07:57+00:00" data-subject="">
 
-I read that ealier, what is it with the rich killing themselves because they have too much money and just need some sleep, obviously money didnt buy them happiness, course if they would just oh i dunno read the directions on their pills maybe they would not be dying all over the place, guess its gods way of saying your acting sucked. you might look good on a horse in tight jeans or kissing another man, but take these pills do us all a favor!  good bye cruel world...
+I read that ealier, what is it with the rich killing themselves because they have too much money and just need some sleep, obviously money didnt buy them happiness, course if they would just oh i dunno read the directions on their pills maybe they would not be dying all over the place, guess its gods way of saying your acting sucked. you might look good on a horse in tight jeans or kissing another man, but take these pills do us all a favor! good bye cruel world...
 
 </div>
 
@@ -34,9 +34,9 @@ It's front page news here in Australia... I suspect we will be hearing about it 
 
 <div class="post" data-post-id="22189" data-author="13" data-date="2008-01-23T05:33:44+00:00" data-subject="">
 
-I thought he was a pretty decent actor.  I'm not really down with the gay shit
+I thought he was a pretty decent actor. I'm not really down with the gay shit
 
-but BB Mtn was a poignant movie.  The one where he was Sir William Fletcher
+but BB Mtn was a poignant movie. The one where he was Sir William Fletcher
 
 was decent too.
 
@@ -44,7 +44,7 @@ was decent too.
 
 <div class="post" data-post-id="22192" data-author="bellafea" data-date="2008-01-23T06:06:47+00:00" data-subject="">
 
-okay so he was not really that bad, but what is up with these celebs today! cant sleep down a bottle of pills tht will surely make you feel better, oh he is getting lots of rest now!  wasn't he just in a couple movies.. maybe there was something else going on.,.
+okay so he was not really that bad, but what is up with these celebs today! cant sleep down a bottle of pills tht will surely make you feel better, oh he is getting lots of rest now! wasn't he just in a couple movies.. maybe there was something else going on.,.
 
 </div>
 
@@ -60,21 +60,22 @@ Who can say for sure?
 
 <div class="post" data-post-id="22232" data-author="Autolycos" data-date="2008-01-23T17:30:00+00:00" data-subject="">
 
-'Course they also say he was having a really tough time dealing with the character of the Joker and the darkness surrounding the character.[/quote:2uekjcpe]
+> <strong>Widow wrote:</strong>
+> 'Course they also say he was having a really tough time dealing with the character of the Joker and the darkness surrounding the character.
 
-sad is sad... the spoiler pics of him as the Joker look pretty kickass, very well marked to classics like "The Killing Joke".  Then again, most likely the only reason Jack Nicholson didnt get bothered is because he was already insane....
+sad is sad... the spoiler pics of him as the Joker look pretty kickass, very well marked to classics like "The Killing Joke". Then again, most likely the only reason Jack Nicholson didnt get bothered is because he was already insane....
 
 Good actors will be missed... 
 
 Bad actors keep making trash, ie "Beastmaster"
 
-[img:2uekjcpe]http://www.xgenco.com/stuff/joker.jpg[/img:2uekjcpe]
+![](http://www.xgenco.com/stuff/joker.jpg)
 
 </div>
 
 <div class="post" data-post-id="22233" data-author="Alberich" data-date="2008-01-23T17:40:14+00:00" data-subject="">
 
-[img:2uytbee0]http://i29.tinypic.com/o93lgl.jpg[/img:2uytbee0]
+![](http://i29.tinypic.com/o93lgl.jpg)
 
 </div>
 
@@ -110,7 +111,7 @@ site and not the westboro closet homo baptist site, I think it's a load of bollo
 
 update: ..oh ok, it IS true, these freaks really are planning on picketing Heath Ledger's funeral. 
 
-It's announced on their site [url:2ic0ilz7]http://www.godhatesfags.com/[/url:2ic0ilz7], although hard to get a 
+It's announced on their site http://www.godhatesfags.com/, although hard to get a 
 
 connect - probably undergoing a DOS attack.. lol, hate to be on a shared server with those assfuckers. 
 
@@ -136,61 +137,66 @@ It's because of that big long link at the start of the thread, but I edited my p
 
 <div class="post" data-post-id="22249" data-author="Alberich" data-date="2008-01-24T03:50:05+00:00" data-subject="">
 
-.and the fact it is hosted at an image-hosting 
-
-site and not the westboro closet homo baptist site[/quote:18ul4q48]
+> <strong>Weasel wrote:</strong>
+> .and the fact it is hosted at an image-hosting 
+> 
+> site and not the westboro closet homo baptist site
 
 protip:
 
 it's generally unwise to directly link to images hosted on the site of a family of batshiat insane lawyers, especially when you're making fun of them
 
-;)
+<img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="22250" data-author="jezer" data-date="2008-01-24T04:10:31+00:00" data-subject="">
 
-Haha! :D When I started out in IT my mentor gave me this piece of advice which has always stayed with me...
+Haha! <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> When I started out in IT my mentor gave me this piece of advice which has always stayed with me...
 
-Never work for accountants and lawyers. Maybe you found out why :)
+Never work for accountants and lawyers. Maybe you found out why <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="22252" data-author="Weasel" data-date="2008-01-24T05:52:22+00:00" data-subject="">
 
-Haha! :D When I started out in IT my mentor gave me this piece of advice which has always stayed with me...
+> <strong>jezer wrote:</strong>
+> Haha! <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> When I started out in IT my mentor gave me this piece of advice which has always stayed with me...
+> 
+> Never work for accountants and lawyers. Maybe you found out why <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-Never work for accountants and lawyers. Maybe you found out why :)[/quote:3e8ahtql]
+heh.. I finish my bachelor degree this year.. guess what it is <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-heh.. I finish my bachelor degree this year.. guess what it is :)
+> <strong>Alberich wrote:</strong>
+> protip:
+> 
+> it's generally unwise to directly link to images hosted on the site of a family of batshiat insane lawyers, especially when you're making fun of them
+> 
+> <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
-protip:
-
-it's generally unwise to directly link to images hosted on the site of a family of batshiat insane lawyers, especially when you're making fun of them
-
-;)[/quote:3e8ahtql]
-
-yeah, good point Alberich :)
+yeah, good point Alberich <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="22253" data-author="jezer" data-date="2008-01-24T06:10:57+00:00" data-subject="">
 
-heh.. I finish my bachelor degree this year.. guess what it is :)[/quote:15r5jhpy]
+> <strong>Weasel wrote:</strong>
+> heh.. I finish my bachelor degree this year.. guess what it is <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-Zoology, specializing in four legged diseased vermin?  :twisted:
+Zoology, specializing in four legged diseased vermin? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="22254" data-author="Weasel" data-date="2008-01-24T06:50:00+00:00" data-subject="">
 
-ok, who told you.  :evil:
+ok, who told you. <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="22255" data-author="*juggleblood*" data-date="2008-01-24T08:17:51+00:00" data-subject="">
 
-BB Mtn was a poignant movie. [/quote:30bnc38t]
+> <strong>13 wrote:</strong>
+> BB Mtn was a poignant movie.
 
 cough
 
@@ -198,13 +204,20 @@ cough
 
 <div class="post" data-post-id="22257" data-author="Widow" data-date="2008-01-24T12:40:12+00:00" data-subject="">
 
-It's kind of ironic how these things have happened of late... I remember when Princess Diana died Mother Teresa died around the same time. 1000's turned up to Diana's funeral... but millions turned up to Mother Teresa's.
-
-Recently Sir Edmund Hillary died, he spent his life doing charitable works in Nepal with the poor and the suppressed... and then Heath Ledger dies in what looks to be a drug related death. Millions may have heard about Heath Ledgers death, but many more, actually feel like they owe something to Sir Edmund Hillary.
-
-It puts a few things in perspective. 
-
-Some die living for themselves and we remember it as tragic... some die doing things for others and we remember them as heroes.[/quote:25v1xnzz]
+> <strong>jezer wrote:</strong>
+> It's kind of ironic how these things have happened of late... I remember when Princess Diana died Mother Teresa died around the same time. 1000's turned up to Diana's funeral... but millions turned up to Mother Teresa's.
+> 
+> 
+> 
+> Recently Sir Edmund Hillary died, he spent his life doing charitable works in Nepal with the poor and the suppressed... and then Heath Ledger dies in what looks to be a drug related death. Millions may have heard about Heath Ledgers death, but many more, actually feel like they owe something to Sir Edmund Hillary.
+> 
+> 
+> 
+> It puts a few things in perspective. 
+> 
+> 
+> 
+> Some die living for themselves and we remember it as tragic... some die doing things for others and we remember them as heroes.
 
 Jezer, I had a beef about that issue in the news when Di got all the press and Mother Teresa seemed to be nothing more than a blip on the spin machine. I'm seeing the same thing with Sir Edmund Hillary, lots of American glitz and glam for Ledger and not a single follow up story about Hillary. It's damn hard to find good news.
 
@@ -226,17 +239,17 @@ Brokeback Mountain 2: Broke Harder?
 
 <div class="post" data-post-id="22268" data-author="Avatar" data-date="2008-01-24T20:51:08+00:00" data-subject="accidental death?">
 
-It seems like none of the tests show far indicate purposeful drug abuse.  It's worth it to remember sometimes that people die from accidental deaths, and it may not be suicide at all.
+It seems like none of the tests show far indicate purposeful drug abuse. It's worth it to remember sometimes that people die from accidental deaths, and it may not be suicide at all.
 
-A week or so ago an older lady in Michigan City died in her sleep, froze to death.  The thermostat was turned all the way down, but the utilities were all connected, the pilot light was on.  Police said the toilet water was frozen solid, and the windows were iced on the inside.  Just an accidental death, no indications that she intended to kill herself.
+A week or so ago an older lady in Michigan City died in her sleep, froze to death. The thermostat was turned all the way down, but the utilities were all connected, the pilot light was on. Police said the toilet water was frozen solid, and the windows were iced on the inside. Just an accidental death, no indications that she intended to kill herself.
 
 </div>
 
 <div class="post" data-post-id="22269" data-author="Mosaix" data-date="2008-01-24T21:18:50+00:00" data-subject="">
 
-Given the way utility companies are fleecing the public, those types of deaths are going to happen more often.  The woman most likely couldnt afford the heating bill on social security income.
+Given the way utility companies are fleecing the public, those types of deaths are going to happen more often. The woman most likely couldnt afford the heating bill on social security income.
 
-In Baltimore/Maryland electricity rates by June 2008 will have gone up 75.5% in the last 2 years.  70% hike last year, 5.5% this coming June.  I set my thermostat to 50 degrees, and use energy efficent everything throught my 1200 sq/ft interior townhome.  Sealed windows, you name it ive done it.  My winter bills are still $300-400 a month minimum.
+In Baltimore/Maryland electricity rates by June 2008 will have gone up 75.5% in the last 2 years. 70% hike last year, 5.5% this coming June. I set my thermostat to 50 degrees, and use energy efficent everything throught my 1200 sq/ft interior townhome. Sealed windows, you name it ive done it. My winter bills are still $300-400 a month minimum.
 
 Its really sad, that elderly americans who have worked all their lives are rewarded by freezing to death in their own homes, so fat wealthy energy companies can maximize profits.
 
@@ -246,29 +259,41 @@ Exxon is about to post record profits once again................................
 
 <div class="post" data-post-id="22271" data-author="Autolycos" data-date="2008-01-24T22:00:11+00:00" data-subject="">
 
-Its really sad, that elderly americans who have worked all their lives are rewarded by freezing to death in their own homes, so fat wealthy energy companies can maximize profits.
+> <strong>Mosaix wrote:</strong>
+> Its really sad, that elderly americans who have worked all their lives are rewarded by freezing to death in their own homes, so fat wealthy energy companies can maximize profits.
+> 
+> 
+> 
+> Exxon is about to post record profits once again................................
 
-Exxon is about to post record profits once again................................[/quote:28hihetc]
-
-Save fuel resources, BURN PEOPLE!!!  :twisted:
+Save fuel resources, BURN PEOPLE!!! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="22272" data-author="jezer" data-date="2008-01-24T22:29:14+00:00" data-subject="">
 
-Its really sad, that elderly americans who have worked all their lives are rewarded by freezing to death in their own homes, so fat wealthy energy companies can maximize profits.
+> <strong>Autolycos wrote:</strong>
+> > <strong>Mosaix wrote:</strong>
+> > Its really sad, that elderly americans who have worked all their lives are rewarded by freezing to death in their own homes, so fat wealthy energy companies can maximize profits.
+> > 
+> > 
+> > 
+> > Exxon is about to post record profits once again................................
+> 
+> 
+> 
+> 
+> 
+> Save fuel resources, BURN PEOPLE!!! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
-Exxon is about to post record profits once again................................[/quote:34u77giu]
-
-Save fuel resources, BURN PEOPLE!!!  :twisted:[/quote:34u77giu]
-
-Starting alphabetically!  :twisted:
+Starting alphabetically! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="22275" data-author="Rynquald" data-date="2008-01-24T23:58:02+00:00" data-subject="">
 
-Jezer, I had a beef about that issue in the news when Di got all the press and Mother Teresa seemed to be nothing more than a blip on the spin machine. I'm seeing the same thing with Sir Edmund Hillary, lots of American glitz and glam for Ledger and not a single follow up story about Hillary. It's damn hard to find good news.[/quote:3b9pvgzy]
+> <strong>Widow wrote:</strong>
+> Jezer, I had a beef about that issue in the news when Di got all the press and Mother Teresa seemed to be nothing more than a blip on the spin machine. I'm seeing the same thing with Sir Edmund Hillary, lots of American glitz and glam for Ledger and not a single follow up story about Hillary. It's damn hard to find good news.
 
 You should have seen what it was like over here when Sir Edmund Hillary died, it was on the news (not to mention the tributes) every day between the day he died and the day of his state funeral.
 
@@ -284,7 +309,8 @@ I'll start by saying I know nothing of the guy and very little of the circumstan
 
 <div class="post" data-post-id="22277" data-author="Thraxas" data-date="2008-01-25T00:16:09+00:00" data-subject="">
 
-... 1000's turned up to Diana's funeral... but millions turned up to Mother Teresa's.[/quote:2mea1lun]
+> <strong>jezer wrote:</strong>
+> ... 1000's turned up to Diana's funeral... but millions turned up to Mother Teresa's.
 
 I'm not sure what your point was but on a point of information about when Diana died. In this country millions lined the streets and the country came to a standstill, the funeral was the most watched event and the death the most reported news item of the decade far outstipping the death of anyone else including Mother Teresa by a long way. 10 years on and making even a tasteful joke about it (if there is such a thing) can ruin a comedians career, saying that you think Diana was less than perfect can be social suicide and the enquiry into her death still makes top billing on the news.
 
@@ -294,41 +320,62 @@ Now I'm not sure what my point is, perhaps its that we care more about how beaut
 
 <div class="post" data-post-id="22278" data-author="jezer" data-date="2008-01-25T00:16:54+00:00" data-subject="">
 
-Point taken Ryn, I live where Heath Ledger was born and went to school :)
+Point taken Ryn, I live where Heath Ledger was born and went to school <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="22279" data-author="jezer" data-date="2008-01-25T00:29:41+00:00" data-subject="">
 
-... 1000's turned up to Diana's funeral... but millions turned up to Mother Teresa's.[/quote:1f8w9b66]
+> <strong>Thraxas wrote:</strong>
+> > <strong>jezer wrote:</strong>
+> > ... 1000's turned up to Diana's funeral... but millions turned up to Mother Teresa's.
+> 
+> 
+> 
+> 
+> 
+> I'm not sure what your point was but on a point of information about when Diana died. In this country millions lined the streets and the country came to a standstill, the funeral was the most watched event and the death the most reported news item of the decade far outstipping the death of anyone else including Mother Teresa by a long way. 10 years on and making even a tasteful joke about it (if there is such a thing) can ruin a comedians career, saying that you think Diana was less than perfect can be social suicide and the enquiry into her death still makes top billing on the news.
+> 
+> 
+> 
+> Now I'm not sure what my point is, perhaps its that we care more about how beautiful people are than how good they are ... or perhaps that media hype can snowball and sometimes it sticks
 
-I'm not sure what your point was but on a point of information about when Diana died. In this country millions lined the streets and the country came to a standstill, the funeral was the most watched event and the death the most reported news item of the decade far outstipping the death of anyone else including Mother Teresa by a long way. 10 years on and making even a tasteful joke about it (if there is such a thing) can ruin a comedians career, saying that you think Diana was less than perfect can be social suicide and the enquiry into her death still makes top billing on the news.
-
-Now I'm not sure what my point is, perhaps its that we care more about how beautiful people are than how good they are ... or perhaps that media hype can snowball and sometimes it sticks[/quote:1f8w9b66]
-
-I made a mistake blurring my point talking about the sizes of funerals... but I was basically saying, the media seem to pay more attention to "tragic" deaths then they do true heroes who rose from nothing, died with nothing but lived a life helping others. At least Widow got it! :)
+I made a mistake blurring my point talking about the sizes of funerals... but I was basically saying, the media seem to pay more attention to "tragic" deaths then they do true heroes who rose from nothing, died with nothing but lived a life helping others. At least Widow got it! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23768" data-author="jezer" data-date="2008-04-15T23:53:46+00:00" data-subject="">
 
-[quote:33hs8ups]
-
-HEATH Ledger was reportedly told to seek professional help for his personal problems while filming The Dark Knight.
-
-The late Australian actor - who tragically died from an accidental prescription drugs overdose in January - was reportedly warned he had become too obsessed with his portrayal of iconic Batman villain The Joker in the upcoming blockbuster.
-
-A source told FOX News: "Heath refused to talk to anyone out of character.
-
-"If you tried to communicate with him normally instead of The Joker, he would just ignore you.
-
-"He would often come to the set to hang out even on his days off, freaking everyone out. Towards the end of filming, he was warned by people that he had gone too far, but it was almost like he couldn't connect with those who cared for him anymore."
-
-Ledger reportedly locked himself in an apartment for an entire month before playing The Joker, who he described as a "psychotic, mass-murdering clown".
-
-Ledger also admitted he had such trouble sleeping while shooting the film he resorted to taking the prescription drug Ambien.
-
-Sources on the set of The Imaginarium of Doctor Parnassus - the movie Ledger was filming when he died - also claimed the actor could not "snap out" of character and seemed to have "lost sense" of who he was.[/quote:33hs8ups]
+> <strong>Quote:</strong>
+> HEATH Ledger was reportedly told to seek professional help for his personal problems while filming The Dark Knight.
+> 
+> 
+> 
+> The late Australian actor - who tragically died from an accidental prescription drugs overdose in January - was reportedly warned he had become too obsessed with his portrayal of iconic Batman villain The Joker in the upcoming blockbuster.
+> 
+> 
+> 
+> A source told FOX News: "Heath refused to talk to anyone out of character.
+> 
+> 
+> 
+> "If you tried to communicate with him normally instead of The Joker, he would just ignore you.
+> 
+> 
+> 
+> "He would often come to the set to hang out even on his days off, freaking everyone out. Towards the end of filming, he was warned by people that he had gone too far, but it was almost like he couldn't connect with those who cared for him anymore."
+> 
+> 
+> 
+> Ledger reportedly locked himself in an apartment for an entire month before playing The Joker, who he described as a "psychotic, mass-murdering clown".
+> 
+> 
+> 
+> Ledger also admitted he had such trouble sleeping while shooting the film he resorted to taking the prescription drug Ambien.
+> 
+> 
+> 
+> Sources on the set of The Imaginarium of Doctor Parnassus - the movie Ledger was filming when he died - also claimed the actor could not "snap out" of character and seemed to have "lost sense" of who he was.
 
 If you seek evil, it will eventually overcome you...
 
@@ -348,7 +395,7 @@ See, Heath never came across to me as a method actor. You don't see James Woods 
 
 <div class="post" data-post-id="23772" data-author="Tap" data-date="2008-04-16T01:43:46+00:00" data-subject="">
 
-Well, look at Jack Nicholson. He never went all psycho and he's played all kind of cookie characters. Wasn't a big fan of Ledger and don't care to comment, nor am I competent, on his life and 'habit's. Sucks that it happened . On a previous post about size of funerals etc etc, that also doesn't impress me. Most people only show up to put on airs and try to steal of the spotlight for their own petty lives. Not intentionally comparing apples and oranges, but Mother Theresa and Diana? Are you kidding me?Don't know alot about Mother Theresa. I know she self-sacrificed alot to help others even when, allegedly, she had doubts. What did Diana do? Marry a prince. *yawn*
+Well, look at Jack Nicholson. He never went all psycho and he's played all kind of cookie characters. Wasn't a big fan of Ledger and don't care to comment, nor am I competent, on his life and 'habit's. Sucks that it happened . On a previous post about size of funerals etc etc, that also doesn't impress me. Most people only show up to put on airs and try to steal of the spotlight for their own petty lives. Not intentionally comparing apples and oranges, but Mother Theresa and Diana? Are you kidding me?Don't know alot about Mother Theresa. I know she self-sacrificed alot to help others even when, allegedly, she had doubts. What did Diana do? Marry a prince. \*yawn\*
 
 </div>
 
@@ -376,19 +423,20 @@ There are many lights in this world, all seeking to draw us in like insects. Som
 
 <div class="post" data-post-id="23777" data-author="Tap" data-date="2008-04-16T09:58:04+00:00" data-subject="">
 
-Umm...step away from the keyboard and breathe...slowly :twisted:
+Umm...step away from the keyboard and breathe...slowly <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23784" data-author="Weasel" data-date="2008-04-16T15:56:42+00:00" data-subject="">
 
-lay off the bong for a while Jezer..    :lol:
+lay off the bong for a while Jezer.. <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23785" data-author="Autolycos" data-date="2008-04-16T16:24:05+00:00" data-subject="">
 
-Well, look at Jack Nicholson. He never went all psycho and he's played all kind of cookie characters. [/quote:2d8tjn0k]
+> <strong>Tap wrote:</strong>
+> Well, look at Jack Nicholson. He never went all psycho and he's played all kind of cookie characters.
 
 very good point Tap..
 
@@ -400,9 +448,9 @@ who would notice?
 
 <div class="post" data-post-id="23786" data-author="Avatar" data-date="2008-04-16T16:53:42+00:00" data-subject="Addiction">
 
-I think there's something in a personality that results in a weakness to addictive behavior.  Call it a penalty to saves vs addiction, whatever.
+I think there's something in a personality that results in a weakness to addictive behavior. Call it a penalty to saves vs addiction, whatever.
 
-I really think that those people who become addicted to drugs, video games, role-playing games, etc have something in common.  Of course I don't have any psych degree, so this is just a guess.
+I really think that those people who become addicted to drugs, video games, role-playing games, etc have something in common. Of course I don't have any psych degree, so this is just a guess.
 
 </div>
 
@@ -424,27 +472,45 @@ I wasn't on pot when I wrote my last post, it was more the fact that, it was a d
 
 <div class="post" data-post-id="23805" data-author="Tap" data-date="2008-04-17T00:39:28+00:00" data-subject="">
 
-You could always quit your job and make a career of writing those crazy quotes they stick inside fortune cookies. Being a smart ass aside, [quote:1pkkc09a]I need a sea change[/quote:1pkkc09a] Are you a seaman?[quote:1pkkc09a]I wasn't on pot when I wrote my last post, it was more the fact that, it was a distraction from work... and if you break it down and think about it at a deeper level, I think it's true.[/quote:1pkkc09a] I would find it to be true that you were a distraction at work?,ok....[quote:1pkkc09a]somethings are fake and hurt,[/quote:1pkkc09a]ummm,ok..
+You could always quit your job and make a career of writing those crazy quotes they stick inside fortune cookies. Being a smart ass aside, 
 
- :lol:
+> <strong>Quote:</strong>
+> I need a sea change
+
+ Are you a seaman?
+
+> <strong>Quote:</strong>
+> I wasn't on pot when I wrote my last post, it was more the fact that, it was a distraction from work... and if you break it down and think about it at a deeper level, I think it's true.
+
+ I would find it to be true that you were a distraction at work?,ok....
+
+> <strong>Quote:</strong>
+> somethings are fake and hurt,
+
+ummm,ok..
+
+ <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23806" data-author="jezer" data-date="2008-04-17T00:56:08+00:00" data-subject="">
 
-Are you a seaman?[/quote:1aynbemk]
+> <strong>Tap wrote:</strong>
+> Are you a seaman?
 
 Yeah, I'm a fisherman in the middle of the Atlantic ocean, my network cable keeps getting pulled out from the wall when the boat moves. You should have seen the lag I endured while I was writing this post...
 
-I would find it to be true that you were a distraction at work?,ok....[/quote:1aynbemk]
+> <strong>Tap wrote:</strong>
+> I would find it to be true that you were a distraction at work?,ok....
 
 Well, my good looks and charm aside... I'd say...
 
-You could always quit your job and make a career of writing those crazy quotes they stick inside fortune cookies.[/quote:1aynbemk]
+> <strong>Tap wrote:</strong>
+> You could always quit your job and make a career of writing those crazy quotes they stick inside fortune cookies.
 
 Here is one for you, "where ever you are, that's where you'll be." Don't let it annoy you if you can't understand it.
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -456,23 +522,26 @@ So what again was keeping you from finding a job on dry land?And if your NOT on 
 
 <div class="post" data-post-id="23808" data-author="Weasel" data-date="2008-04-17T01:11:36+00:00" data-subject="Re: RE: Addiction">
 
-... and if you break it down and think about it at a deeper level, I think it's true... Whatever you seek, whatever you let inside of you, you end up becoming... somethings are fake and hurt, others are good.[/quote:1mps3rt6]
+> <strong>jezer wrote:</strong>
+> ... and if you break it down and think about it at a deeper level, I think it's true... Whatever you seek, whatever you let inside of you, you end up becoming... somethings are fake and hurt, others are good.
 
-So I'm going to become a cheeseburger? Or maybe a pizza?  :D
+So I'm going to become a cheeseburger? Or maybe a pizza? <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23809" data-author="jezer" data-date="2008-04-17T01:13:45+00:00" data-subject="">
 
-So what again was keeping you from finding a job on dry land?And if your NOT on the pipe, what does any of this have to do with Heath Ledger?[/quote:gy5g03qz]
+> <strong>Tap wrote:</strong>
+> So what again was keeping you from finding a job on dry land?And if your NOT on the pipe, what does any of this have to do with Heath Ledger?
 
-Tap, nothing of this has to do with Heath Ledger, and my last post was all a joke by the way... if you didn't realize... But it did serve a purpose, and it answered more questions than you'll know.  :D
+Tap, nothing of this has to do with Heath Ledger, and my last post was all a joke by the way... if you didn't realize... But it did serve a purpose, and it answered more questions than you'll know. <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23810" data-author="jezer" data-date="2008-04-17T01:15:51+00:00" data-subject="Re: RE: Addiction">
 
-So I'm going to become a cheeseburger? Or maybe a pizza?  :D[/quote:6wtqw7zj]
+> <strong>Weasel wrote:</strong>
+> So I'm going to become a cheeseburger? Or maybe a pizza? <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 So that's what the smell was in the chop group!
 
@@ -488,9 +557,10 @@ Charles Darwin died believing in God. Score one for the good guys.
 
 <div class="post" data-post-id="23812" data-author="jezer" data-date="2008-04-17T02:18:42+00:00" data-subject="Philosophy with a Heath Ledger Bend...">
 
-Charles Darwin died believing in God. Score one for the good guys.[/quote:1ckjkcp0]
+> <strong>Tap wrote:</strong>
+> Charles Darwin died believing in God. Score one for the good guys.
 
-That's true, in fact, after he made his theory, he spent the rest of his life disproving it... and I think scientifically he did..? but no one remembers that...  Now days the scientific community accept there are gapping big holes in evolution.
+That's true, in fact, after he made his theory, he spent the rest of his life disproving it... and I think scientifically he did..? but no one remembers that... Now days the scientific community accept there are gapping big holes in evolution.
 
 People like to select there own truth... I like this idea, so I will believe in it and say it's true... But if we are made by "some thing else" shouldn't there "truth" over write ours? I think so.
 
@@ -498,9 +568,15 @@ People like to select there own truth... I like this idea, so I will believe in 
 
 <div class="post" data-post-id="23822" data-author="Zukt" data-date="2008-04-17T09:36:12+00:00" data-subject="Re: Philosophy with a Heath Ledger Bend...">
 
-Charles Darwin died believing in God. Score one for the good guys.[/quote:37ew7dsx]
-
-That's true, in fact, after he made his theory, he spent the rest of his life disproving it... and I think scientifically he did..? but no one remembers that...[/quote:37ew7dsx]
+> <strong>jezer wrote:</strong>
+> > <strong>Tap wrote:</strong>
+> > Charles Darwin died believing in God. Score one for the good guys.
+> 
+> 
+> 
+> 
+> 
+> That's true, in fact, after he made his theory, he spent the rest of his life disproving it... and I think scientifically he did..? but no one remembers that...
 
 Goddamn you're both bloody ignorant:
 
@@ -508,7 +584,8 @@ Goddamn you're both bloody ignorant:
 
 You know you're on this thing called the internet where you could actually look stuff up before making wildy false claims.
 
-[quote:37ew7dsx]Now days the scientific community accept there are gapping big holes in evolution.[/quote:37ew7dsx]
+> <strong>Quote:</strong>
+> Now days the scientific community accept there are gapping big holes in evolution.
 
 There's a place on the Kansas board of edumacation for you yet.
 
@@ -516,7 +593,8 @@ There's a place on the Kansas board of edumacation for you yet.
 
 Pick you're favorite one and get back to me.
 
-[quote:37ew7dsx]People like to select there own truth... I like this idea, so I will believe in it and say it's true... But if we are made by "some thing else" shouldn't there "truth" over write ours? I think so.[/quote:37ew7dsx]
+> <strong>Quote:</strong>
+> People like to select there own truth... I like this idea, so I will believe in it and say it's true... But if we are made by "some thing else" shouldn't there "truth" over write ours? I think so.
 
 Philosophy ain't you're strong suit. Engaging in solipsist epistimology is at best masturbation, but at least its not your tautology conjoined with a contradiction.
 
@@ -524,19 +602,20 @@ Philosophy ain't you're strong suit. Engaging in solipsist epistimology is at be
 
 <div class="post" data-post-id="23824" data-author="Weasel" data-date="2008-04-17T10:31:28+00:00" data-subject="">
 
-[img:6063hmf8]http://msn.mess.be/data/media/14/bang.gif[/img:6063hmf8]
+![](http://msn.mess.be/data/media/14/bang.gif)
 
 </div>
 
 <div class="post" data-post-id="23827" data-author="jezer" data-date="2008-04-17T11:22:37+00:00" data-subject="Re: Philosophy with a Heath Ledger Bend...">
 
-Rar Rar Rar[/quote:3rl3of5v]
+> <strong>Zukt wrote:</strong>
+> Rar Rar Rar
 
 Sorry Zukt, if my hilly billy intelligence is not up to scratch. I might have more to say about your post, but I don't understand those big words. 
 
- :shock: 
+ <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
-I checked into some of your claims and it is true that Darwin was said to have recanted his theory... but there is little evidence... so it's a battle that can't be won.  :wink: 
+I checked into some of your claims and it is true that Darwin was said to have recanted his theory... but there is little evidence... so it's a battle that can't be won. <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom"> 
 
 disengage zukt
 
@@ -544,41 +623,70 @@ recall
 
 cast 'invisibility' jezer
 
- :shock:
+ <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23828" data-author="Fable" data-date="2008-04-17T17:20:29+00:00" data-subject="">
 
-He may not have cleric/mage.  But he does have necro and can cast
+He may not have cleric/mage. But he does have necro and can cast
 
-detect invis.  Also he can quaff yellow potion :).
+detect invis. Also he can quaff yellow potion <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">.
 
 </div>
 
 <div class="post" data-post-id="23829" data-author="Alberich" data-date="2008-04-17T18:12:08+00:00" data-subject="Re: Philosophy with a Heath Ledger Bend...">
 
-Charles Darwin died believing in God. Score one for the good guys.[/quote:v2dln46u]
-
-That's true, in fact, after he made his theory, he spent the rest of his life disproving it... and I think scientifically he did..? but no one remembers that...[/quote:v2dln46u]
-
-Goddamn you're both bloody ignorant:
-
-[http://en.wikipedia.org/wiki/Charles_Darwin](http://en.wikipedia.org/wiki/Charles_Darwin)
-
-You know you're on this thing called the internet where you could actually look stuff up before making wildy false claims.
-
-[quote:v2dln46u]Now days the scientific community accept there are gapping big holes in evolution.[/quote:v2dln46u]
-
-There's a place on the Kansas board of edumacation for you yet.
-
-[http://en.wikipedia.org/wiki/Objections_to_evolution](http://en.wikipedia.org/wiki/Objections_to_evolution)
-
-Pick you're favorite one and get back to me.
-
-[quote:v2dln46u]People like to select there own truth... I like this idea, so I will believe in it and say it's true... But if we are made by "some thing else" shouldn't there "truth" over write ours? I think so.[/quote:v2dln46u]
-
-Philosophy ain't you're strong suit. Engaging in solipsist epistimology is at best masturbation, but at least its not your tautology conjoined with a contradiction.[/quote:v2dln46u]
+> <strong>Zukt wrote:</strong>
+> > <strong>jezer wrote:</strong>
+> > > <strong>Tap wrote:</strong>
+> > > Charles Darwin died believing in God. Score one for the good guys.
+> > 
+> > 
+> > 
+> > 
+> > 
+> > That's true, in fact, after he made his theory, he spent the rest of his life disproving it... and I think scientifically he did..? but no one remembers that...
+> 
+> 
+> 
+> Goddamn you're both bloody ignorant:
+> 
+> 
+> 
+> [http://en.wikipedia.org/wiki/Charles_Darwin](http://en.wikipedia.org/wiki/Charles_Darwin)
+> 
+> 
+> 
+> You know you're on this thing called the internet where you could actually look stuff up before making wildy false claims.
+> 
+> 
+> 
+> > <strong>Quote:</strong>
+> > Now days the scientific community accept there are gapping big holes in evolution.
+> 
+> 
+> 
+> There's a place on the Kansas board of edumacation for you yet.
+> 
+> 
+> 
+> [http://en.wikipedia.org/wiki/Objections_to_evolution](http://en.wikipedia.org/wiki/Objections_to_evolution)
+> 
+> 
+> 
+> Pick you're favorite one and get back to me.
+> 
+> 
+> 
+> 
+> 
+> > <strong>Quote:</strong>
+> > People like to select there own truth... I like this idea, so I will believe in it and say it's true... But if we are made by "some thing else" shouldn't there "truth" over write ours? I think so.
+> 
+> 
+> 
+> Philosophy ain't you're strong suit. Engaging in solipsist epistimology is at best masturbation, but at least its not your tautology conjoined with a contradiction.
 
 citing wikipedia does not add validity to your argument - it's on par with citing CNN or Pravda
 
@@ -586,17 +694,19 @@ citing wikipedia does not add validity to your argument - it's on par with citin
 
 <div class="post" data-post-id="23830" data-author="Weasel" data-date="2008-04-17T18:24:12+00:00" data-subject="it must be tru - I read it on teh internets!">
 
-citing wikipedia does not add validity to your argument - it's on par with citing CNN or Pravda[/quote:2hyqa47d]
+> <strong>Alberich wrote:</strong>
+> citing wikipedia does not add validity to your argument - it's on par with citing CNN or Pravda
 
 LOL.. 
 
-[img:2hyqa47d]http://rationalsecurity.typepad.com/blog/images/2007/12/15/internettruth.jpg[/img:2hyqa47d]
+![](http://rationalsecurity.typepad.com/blog/images/2007/12/15/internettruth.jpg)
 
 </div>
 
 <div class="post" data-post-id="23832" data-author="Zukt" data-date="2008-04-17T19:22:31+00:00" data-subject="Re: Philosophy with a Heath Ledger Bend...">
 
-[quote:w7eiyyf0]citing wikipedia does not add validity to your argument - it's on par with citing CNN or Pravda[/quote:w7eiyyf0]
+> <strong>Quote:</strong>
+> citing wikipedia does not add validity to your argument - it's on par with citing CNN or Pravda
 
 Right, because CNN and Pravda cite their sources with the same rigor as wikipedia.
 
@@ -606,9 +716,9 @@ This sort of argument to attack wikipedia is just plain dumb.
 
 <div class="post" data-post-id="23834" data-author="Avatar" data-date="2008-04-17T20:47:14+00:00" data-subject="Wiki">
 
-The wiki article for Darwin lists some 200 citations and references for their information.  If you don't believe the content on wikipedia, you could always refer to those sources for more information.
+The wiki article for Darwin lists some 200 citations and references for their information. If you don't believe the content on wikipedia, you could always refer to those sources for more information.
 
-Some people will always try to interpret facts to support their own beliefs.  I guess I won't point out specific groups, because everyone does this to some extent.
+Some people will always try to interpret facts to support their own beliefs. I guess I won't point out specific groups, because everyone does this to some extent.
 
 </div>
 
@@ -618,7 +728,7 @@ As much as I may regret this later...
 
 Wiki, is just plain dodgey... You don't have to look far... On the discussion page, one click away... someone is asking why the Charles Darwin entry is biased? See for yourself...
 
-[<LINK_TEXT text="http://en.wikipedia.org/wiki/Talk:Charl ... s_in_it.3F">http://en.wikipedia.org/wiki/Talk:Charles_Darwin#Why_has_this_page_been_locked_with_such_an_obvious_bias_in_it.3F</LINK_TEXT>](http://en.wikipedia.org/wiki/Talk:Charles_Darwin#Why_has_this_page_been_locked_with_such_an_obvious_bias_in_it.3F)
+[http://en.wikipedia.org/wiki/Talk:Charles_Darwin#Why_has_this_page_been_locked_with_such_an_obvious_bias_in_it.3F](http://en.wikipedia.org/wiki/Talk:Charles_Darwin#Why_has_this_page_been_locked_with_such_an_obvious_bias_in_it.3F)
 
 My bet is one day it's edited by stubborn atheist evolutionists, and the next day self righteous creationists.
 
@@ -640,7 +750,7 @@ Without entering into the debate of the ages, belief isn't really a factor. No o
 
 Obviously belief is a major factor on the creationism side of the fence, and therein lies the crux of the problem. Belief verses evidence is an impossible battle, evidence can not sway those who believe something the evidence contradicts, and the beliefs of others will not sway those who weigh the evidence.
 
-Just for the record, I'm not an atheist, and I don't believe in creationism, so everyone can take all that however they want. Just my two cents :)
+Just for the record, I'm not an atheist, and I don't believe in creationism, so everyone can take all that however they want. Just my two cents <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -652,7 +762,7 @@ Top post Jo
 
 <div class="post" data-post-id="23842" data-author="Weasel" data-date="2008-04-18T02:56:51+00:00" data-subject="">
 
-yes, yes, I know it [i:1t93wv9r]looks[/i:1t93wv9r] like a one dollar note, and the serial number on it indeed is that of a registered US Treasury one dollar note, and the denomination states one dollar, and it has a picture of George Washington on it, and it even says "in God we trust" right above the word "one", however I [i:1t93wv9r]believe[/i:1t93wv9r] and trust and therefore [i:1t93wv9r]know[/i:1t93wv9r] that it is in fact a one million dollar note, and insist you accept it as payment for your house, your car, your sister, and what's left in that bag of chips you're eating. Not that I have any empirical evidence whatsoever.
+yes, yes, I know it <em>looks</em> like a one dollar note, and the serial number on it indeed is that of a registered US Treasury one dollar note, and the denomination states one dollar, and it has a picture of George Washington on it, and it even says "in God we trust" right above the word "one", however I <em>believe</em> and trust and therefore <em>know</em> that it is in fact a one million dollar note, and insist you accept it as payment for your house, your car, your sister, and what's left in that bag of chips you're eating. Not that I have any empirical evidence whatsoever.
 
 kthx.
 
@@ -662,11 +772,11 @@ kthx.
 
 Not sure what weasel just said... translation?
 
-I try and separate the words "truth" and "fact/belief." I think there needs to be a separation, the dictionary may not back my thoughts, as truth has a bunch of different meanings which confuses everything...  
+I try and separate the words "truth" and "fact/belief." I think there needs to be a separation, the dictionary may not back my thoughts, as truth has a bunch of different meanings which confuses everything... 
 
-*Truth to me, is something beyond the natural. (It's spiritual, not locked by time and matter, always existed and never changes) Ether :twisted:
+\*Truth to me, is something beyond the natural. (It's spiritual, not locked by time and matter, always existed and never changes) Ether <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
-*Fact/beliefs are something that exist in the natural realm... often debated by man whether they are true or false.
+\*Fact/beliefs are something that exist in the natural realm... often debated by man whether they are true or false.
 
 Money exists, it's value is agreed by man. I would stop short of calling it's value "the truth," but rather refer to it as being a fact or a belief. (It's only by common agreement money is worth anything...)
 
@@ -676,7 +786,8 @@ Truth to me, is a word I try to reserve for spiritual things beyond time, space 
 
 <div class="post" data-post-id="23844" data-author="Zukt" data-date="2008-04-18T05:31:37+00:00" data-subject="">
 
-[quote:1wzrs11q]Not sure what weasel just said... translation? [/quote:1wzrs11q]
+> <strong>Quote:</strong>
+> Not sure what weasel just said... translation?
 
 Its basically that you're engaging in nonsense solipsism that while very fun for Philosophy 101, doesn't exactly give you useful predictive models that explain things. 
 
@@ -688,7 +799,8 @@ Spiritualism is all fine and well for you to dwell on, but its useless for creat
 
 This solipsist excursion is a fun way of imagining nothing really exists, but its a bloody awful way to actually operate. 
 
-[quote:1wzrs11q]My bet is one day it's edited by stubborn atheist evolutionists, and the next day self righteous creationists. [/quote:1wzrs11q]
+> <strong>Quote:</strong>
+> My bet is one day it's edited by stubborn atheist evolutionists, and the next day self righteous creationists.
 
 If you actually read the thread you posted you'd realize it was brought up by someone wholly ignorant of what scientific theory actually is.
 
@@ -700,25 +812,27 @@ Tell you what, for fun, since you seem to enjoy the whole sky daddy concept: Sup
 
 <div class="post" data-post-id="23845" data-author="Weasel" data-date="2008-04-18T05:32:12+00:00" data-subject="Re: We aren&#x27;t sure what the threads about...">
 
-Not sure what weasel just said... translation?[/quote:2b10uruo]
+> <strong>jezer wrote:</strong>
+> Not sure what weasel just said... translation?
 
-just having some fun :)
+just having some fun <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-*Truth to me, is something beyond the natural. ...Fact/beliefs are something that exist in the natural realm... often debated by man whether they are true or false.[/quote:2b10uruo]
+> <strong>jezer wrote:</strong>
+> \*Truth to me, is something beyond the natural. ...Fact/beliefs are something that exist in the natural realm... often debated by man whether they are true or false.
 
 by 'natural', you mean physical, yes?
 
-..or was this whole thread a figment of my imagination? Perhaps it was a figment of [i:2b10uruo]your[/i:2b10uruo] imagination, and I am only a part of that imagination, and therefore would cease to exist beyond your perception of reality should you cease to stop imagining me.. and does this, therefore, make you the omnipotent Creator, and my own perceived conscious a complete myth, supported only by a few synapses in your brain? Do you even have a brain? Perhaps you are actually a bowl of petunias?
+..or was this whole thread a figment of my imagination? Perhaps it was a figment of <em>your</em> imagination, and I am only a part of that imagination, and therefore would cease to exist beyond your perception of reality should you cease to stop imagining me.. and does this, therefore, make you the omnipotent Creator, and my own perceived conscious a complete myth, supported only by a few synapses in your brain? Do you even have a brain? Perhaps you are actually a bowl of petunias?
 
 THERE IS NO SPOON.
 
-  :shock:
+ <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23846" data-author="Rynquald" data-date="2008-04-18T05:44:03+00:00" data-subject="">
 
-Heh, I was already thinking of posting a Matrix quote when I got far enough down Weasel's post to see the spoon thing :)
+Heh, I was already thinking of posting a Matrix quote when I got far enough down Weasel's post to see the spoon thing <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -726,7 +840,7 @@ Heh, I was already thinking of posting a Matrix quote when I got far enough down
 
 Nod,
 
-Someone get Weasel an exit....  :twisted:
+Someone get Weasel an exit.... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -734,33 +848,33 @@ Someone get Weasel an exit....  :twisted:
 
 I'll end this creation versus evolution debate right now:
 
-Kjartan and his pals created SlothMud.  After that it has evolved.
+Kjartan and his pals created SlothMud. After that it has evolved.
 
-So you are both right.  That is all.
+So you are both right. That is all.
 
- :D
+ <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23851" data-author="Weasel" data-date="2008-04-18T12:12:30+00:00" data-subject="">
 
-The Gods have spoken.  :twisted:
+The Gods have spoken. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23861" data-author="Tap" data-date="2008-04-18T22:04:18+00:00" data-subject="">
 
-:lol:
+<img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23959" data-author="Avatar" data-date="2008-04-23T17:34:20+00:00" data-subject="Darwin etc">
 
-I'd say if you're interested in these things, you might enjoy some philosophy classes / books.  They get into these questions in detail, what is knowledge, how do we prove things, etc.  Truth as a word in general use can mean a lot of things sure, but in certain discussions you can pretty narrowly define what you mean by the word so other people do understand.  At least the basic philosophy classes might be interesting.
+I'd say if you're interested in these things, you might enjoy some philosophy classes / books. They get into these questions in detail, what is knowledge, how do we prove things, etc. Truth as a word in general use can mean a lot of things sure, but in certain discussions you can pretty narrowly define what you mean by the word so other people do understand. At least the basic philosophy classes might be interesting.
 
-Creationism is pretty scary.  If you haven't seen it, Frontline discussed creationism and the legal debates that are ongoing in primary education.  It's pretty clear that some people follow and believe in creationism just because they are 'followers' and they aren't interested in any reason.  The more scary aspect is those people who invented creationism, publicize it, and publish the textbooks.  To them, it's a calculated way to introduce their religious beliefs into the public school system.
+Creationism is pretty scary. If you haven't seen it, Frontline discussed creationism and the legal debates that are ongoing in primary education. It's pretty clear that some people follow and believe in creationism just because they are 'followers' and they aren't interested in any reason. The more scary aspect is those people who invented creationism, publicize it, and publish the textbooks. To them, it's a calculated way to introduce their religious beliefs into the public school system.
 
-Of course I'm sharing some of my personal bias here, so I'll just wrap up this comment.  :)
+Of course I'm sharing some of my personal bias here, so I'll just wrap up this comment. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -774,29 +888,29 @@ Is it really that scary tho? Seems like the smart kids eventually see thru the m
 
 What's scary is that you people are still beating a dead Heath, horse I mean.
 
- :o
+ <img src="/images/smilies/icon_e_surprised.svg" alt=":o" title=":o" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23967" data-author="Medios" data-date="2008-04-23T22:32:58+00:00" data-subject="">
 
-I like what Zukt says but I think it is wholly ignorant to dismiss other dimensions and or parallel universes.  We cannot comprehend more than 4 dimensions, what if our sun is an electron for another world.  It seems egotistical to think we are the most powerful beings in the realm.  If life can so easily self-form then there should be plenty of other worlds with much more time to cook.
+I like what Zukt says but I think it is wholly ignorant to dismiss other dimensions and or parallel universes. We cannot comprehend more than 4 dimensions, what if our sun is an electron for another world. It seems egotistical to think we are the most powerful beings in the realm. If life can so easily self-form then there should be plenty of other worlds with much more time to cook.
 
-To argue that all matter came into existence with the big bang is along the same lines are arguing about God.  If matter and energy are interchangeable and matter cannot be created nor destroyed then the amount of energy/matter in this universe has to remain constant. If God cannot exist because of some scientific method then where did this matter/energy come from.  It always existed?  That sounds like what they say about God.  So either 
+To argue that all matter came into existence with the big bang is along the same lines are arguing about God. If matter and energy are interchangeable and matter cannot be created nor destroyed then the amount of energy/matter in this universe has to remain constant. If God cannot exist because of some scientific method then where did this matter/energy come from. It always existed? That sounds like what they say about God. So either 
 
-1.  God always existed and created life.
+1\. God always existed and created life.
 
-2.  Matter/energy always existed and created life.
+2\. Matter/energy always existed and created life.
 
 Wow striking differences!!!
 
-Where is the hatred coming from.  If scientists quit sticking their noses up every time an ignorant citizen posed a question then maybe they could gain some ground.  But as long as "educated" people talk down to everyone then I say stay bitter and stick to your guns and religion.
+Where is the hatred coming from. If scientists quit sticking their noses up every time an ignorant citizen posed a question then maybe they could gain some ground. But as long as "educated" people talk down to everyone then I say stay bitter and stick to your guns and religion.
 
 </div>
 
 <div class="post" data-post-id="23969" data-author="*juggleblood*" data-date="2008-04-23T22:46:37+00:00" data-subject="">
 
-[img:1p3f1h01]http://media.ebaumsworld.com/picture/axp090909/super_retard_stfu.jpg[/img:1p3f1h01]
+![](http://media.ebaumsworld.com/picture/axp090909/super_retard_stfu.jpg)
 
 </div>
 
@@ -808,18 +922,19 @@ I didn't know Jason wore a Superman costume to your get together.
 
 <div class="post" data-post-id="23971" data-author="Alberich" data-date="2008-04-23T23:21:49+00:00" data-subject="penis theft panic!">
 
-[url:2mdtkti2]http://www.reuters.com/article/newsOne/idUSN2319603620080423[/url:2mdtkti2]
+http://www.reuters.com/article/newsOne/idUSN2319603620080423
 
 and you people are worried about creationists?
 
-[img:2mdtkti2]http://img120.imageshack.us/img120/725/1200606503820wd9.jpg[/img:2mdtkti2]
+![](http://img120.imageshack.us/img120/725/1200606503820wd9.jpg)
 
 </div>
 
 <div class="post" data-post-id="23973" data-author="jezer" data-date="2008-04-23T23:37:46+00:00" data-subject="">
 
-I didn't know Jason wore a Superman costume to your get together.[/quote:t5qaytok]
+> <strong>Medios wrote:</strong>
+> I didn't know Jason wore a Superman costume to your get together.
 
-Guinex's juju was Autolycos?  :twisted:
+Guinex's juju was Autolycos? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

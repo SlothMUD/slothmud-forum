@@ -168,7 +168,7 @@ You Really Got Me Goin- The Kinks
 
 You Wouldnâ€™t Know- Hellyeah
 
-2. Songs I Am Working On:
+2\. Songs I Am Working On:
 
 My Curse- KSE
 
@@ -202,6 +202,6 @@ You've missed out Baby by Justin Bieber.
 
 <div class="post" data-post-id="31723" data-author="Toxis" data-date="2010-09-07T01:52:59+00:00" data-subject="Re: Songs I&#x27;ve Sang In Bands">
 
-rofl! That's funny cuz I've never heard that song. :)  But all Hannah Montana songs, that's another story. :)~
+rofl! That's funny cuz I've never heard that song. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> But all Hannah Montana songs, that's another story. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">\~
 
 </div>

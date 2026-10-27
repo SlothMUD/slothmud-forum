@@ -28,7 +28,7 @@ AC-apply is -1.2
 
 Can affect you as:
 
-    Affects: HITPOINT by 30
+ Affects: HITPOINT by 30
 
 Only those who are at least experienced magic users and also apprentice 
 

@@ -14,7 +14,7 @@ post_count: 1
 
 Hi all ..
 
-Changed a bit the way friendly bard songs act when bard is grouped.  Now they always affect bard first, then others till max.
+Changed a bit the way friendly bard songs act when bard is grouped. Now they always affect bard first, then others till max.
 
 Changes in next reboot.
 

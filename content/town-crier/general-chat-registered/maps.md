@@ -14,7 +14,7 @@ post_count: 6
 
 Anyone know what Corum used to make this lovely map?
 
-[url:2rj1ktld]http://photos1.blogger.com/x/blogger/4246/1098/1600/176997/ck.png[/url:2rj1ktld]
+http://photos1.blogger.com/x/blogger/4246/1098/1600/176997/ck.png
 
 </div>
 
@@ -38,14 +38,14 @@ I think it's PowerPoint. I used it to create Ravenloft/Ether planes maps myself.
 
 <div class="post" data-post-id="21371" data-author="tincts" data-date="2007-11-22T12:29:54+00:00" data-subject="">
 
-G'day Jez :) Welcome back mate.
+G'day Jez <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> Welcome back mate.
 
 </div>
 
 <div class="post" data-post-id="21375" data-author="Assirian" data-date="2007-11-22T17:33:10+00:00" data-subject="">
 
-I bet on mspaint 8)
+I bet on mspaint <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
-p.s. welcome back Jezer, if u are back and slumber in peace if you not :)
+p.s. welcome back Jezer, if u are back and slumber in peace if you not <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

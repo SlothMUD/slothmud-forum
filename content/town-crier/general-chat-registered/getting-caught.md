@@ -18,21 +18,21 @@ Hades didn't get it.....this time
 
 And your Hades gossips: 'Got it' gets annoying too btw
 
-Well we know who to blame now.... And I dont think you have to worry about if you get caught it's when you get caught btw  :twisted:  :twisted: eventually someone will catch you and kill you whether your wanted or not :D
+Well we know who to blame now.... And I dont think you have to worry about if you get caught it's when you get caught btw <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> eventually someone will catch you and kill you whether your wanted or not <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
-Bring on the pain :twisted:  :twisted:  :twisted:
+Bring on the pain <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="17077" data-author="Hades" data-date="2007-02-23T03:09:45+00:00" data-subject="Got Yinao?">
 
-Maybe I'll beat you back on reconnect..then all I'll have to do is find ya :evil:
+Maybe I'll beat you back on reconnect..then all I'll have to do is find ya <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="17078" data-author="Yinao" data-date="2007-02-23T03:12:15+00:00" data-subject="Catch me if you can :D">
 
-You might be able to steal that nice pretty backpack full of food in my inv or that keg full of water. *Cackle* but i hope you do try to steal from me i will enjoy the pleasure of pkilling you :twisted: :twisted: and hell if you dont and i see you i will still enjoy killing you anyways MUAHAHAHAH.
+You might be able to steal that nice pretty backpack full of food in my inv or that keg full of water. \*Cackle\* but i hope you do try to steal from me i will enjoy the pleasure of pkilling you <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> and hell if you dont and i see you i will still enjoy killing you anyways MUAHAHAHAH.
 
 </div>
 
@@ -40,6 +40,6 @@ You might be able to steal that nice pretty backpack full of food in my inv or t
 
 It's on like Donkey Kong.Target Yinao, make he rest in pieces.
 
-Insert joke about resting in Pisces. :roll:
+Insert joke about resting in Pisces. <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>

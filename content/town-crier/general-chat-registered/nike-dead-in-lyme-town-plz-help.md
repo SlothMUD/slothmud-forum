@@ -18,11 +18,11 @@ Nike dead in Lyme Town -- Plz Help
 
 <div class="post" data-post-id="19124" data-author="Weasel" data-date="2007-06-30T12:49:53+00:00" data-subject="">
 
-I R Dead in Judges Temple AH.. please help  
+I R Dead in Judges Temple AH.. please help 
 
 and thanks to the winner who left all the gates open down there so I got bash-lagged and nailed by some aggro mob while hitting another mob.
 
- :evil:
+ <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 ..thanks Rub for the CR.
 

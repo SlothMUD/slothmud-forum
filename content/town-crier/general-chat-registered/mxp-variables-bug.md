@@ -26,7 +26,7 @@ You have 1001444004 unused experience points.
 
 Prompt:
 
--\1024hp 408ma 354mv/-\11444004xp-/
+\-\\1024hp 408ma 354mv/-\\11444004xp-/
 
 </div>
 
@@ -46,7 +46,7 @@ I tried to use it to make a psuedo automapper a couple of weeks back... which le
 
 It could also be used to script a command to "backtrack" your steps... really useful when you invent stupid classos without cleric and mage, and you get stuck in the middle of no where with no recall and no word of recall. 
 
-Of course that's never happened to me, because... because... erm...  :oops: 
+Of course that's never happened to me, because... because... erm... <img src="/images/smilies/icon_redface.svg" alt=":oops:" title=":oops:" width="15" height="15" class="smiley nozoom"> 
 
 Yeah, you can do it without an mxp variable, but involves making aliases for all the directions.... and trip traps you may enter to reverse properly.
 
@@ -80,11 +80,12 @@ Splork
 
 <div class="post" data-post-id="28261" data-author="firebrand" data-date="2009-02-22T18:08:53+00:00" data-subject="">
 
-It could also be used to script a command to "backtrack" your steps... really useful when you invent stupid classos without cleric and mage, and you get stuck in the middle of no where with no recall and no word of recall. [/quote:2f0z78tp]
+> <strong>jezer wrote:</strong>
+> It could also be used to script a command to "backtrack" your steps... really useful when you invent stupid classos without cleric and mage, and you get stuck in the middle of no where with no recall and no word of recall.
 
-if you are on wintin, try using #path to see the steps you've taken (or attempted to make - it records wall bumps as a step/direction).  also use #mark to erase the #path history and start from point a - i.e. go to west gate, type #mark so that you have a fresh #path, then go about your merry way, when you get to a stopping point, type #path to see what directional commands you sent to the mud.  at this point, i am not sure how to make it not count wall bumps but i am sure with a little ingenuity someone will find a workaround.
+if you are on wintin, try using #path to see the steps you've taken (or attempted to make - it records wall bumps as a step/direction). also use #mark to erase the #path history and start from point a - i.e. go to west gate, type #mark so that you have a fresh #path, then go about your merry way, when you get to a stopping point, type #path to see what directional commands you sent to the mud. at this point, i am not sure how to make it not count wall bumps but i am sure with a little ingenuity someone will find a workaround.
 
-"what do you mean the door's stuck? try jiggling the handle."  -chicha --> the emperor's new groove
+"what do you mean the door's stuck? try jiggling the handle." -chicha --\> the emperor's new groove
 
 </div>
 

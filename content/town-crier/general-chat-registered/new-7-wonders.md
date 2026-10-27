@@ -14,9 +14,9 @@ post_count: 2
 
 ... be part of the making of history!
 
-Go [url:4dw6jwze]http://www.new7wonders.com/index.php[/url:4dw6jwze] and vote for Sloth3!
+Go http://www.new7wonders.com/index.php and vote for Sloth3!
 
- 8)
+ <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

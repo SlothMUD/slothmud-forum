@@ -26,7 +26,7 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: STR by -1
+ Affects: STR by -1
 
 Got two -str variants so far.
 
@@ -46,13 +46,13 @@ T
 
 <div class="post" data-post-id="35392" data-author="Filk" data-date="2014-07-18T09:11:51+00:00" data-subject="Re: brown houserobe">
 
-Sure, that was an idea. But before spending drachma, i wanted to check if it works :)
+Sure, that was an idea. But before spending drachma, i wanted to check if it works <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-I noticed in msdp values, that forms dont have max dex. Like basic dex 18, and perma_dex 19 for owlbear.
+I noticed in msdp values, that forms dont have max dex. Like basic dex 18, and perma\_dex 19 for owlbear.
 
-So decided to check, if i can wear robe +dex with shapeshift 3x40 clasp and get -1.5 more ac(with elven cloak).  8)
+So decided to check, if i can wear robe +dex with shapeshift 3x40 clasp and get -1.5 more ac(with elven cloak). <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
-But today poped another cheap cloak with +dex  - it dont work, no additional dex :(
+But today poped another cheap cloak with +dex - it dont work, no additional dex <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 Kinda msdp perma stats for forms bugged. Or something else preventing that trick.
 
@@ -86,13 +86,13 @@ I am talking about that:
 
 On right side is array with msdp values.
 
-msdp dex_perm value is 19, but when i wear that +dex item and shift, i still have 18 dex in owlbear.
+msdp dex\_perm value is 19, but when i wear that +dex item and shift, i still have 18 dex in owlbear.
 
-And i know only two ways to raise dex in form atm  - +dex rune and +dex robe with clasp. Havent seen any other ways to raise dex.
+And i know only two ways to raise dex in form atm - +dex rune and +dex robe with clasp. Havent seen any other ways to raise dex.
 
- Wonder, if  +max_dex rune and +dex rune(or item) will do somethings for forms.
+ Wonder, if +max\_dex rune and +dex rune(or item) will do somethings for forms.
 
- Any imm wanna check that? :)
+ Any imm wanna check that? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -100,7 +100,7 @@ And i know only two ways to raise dex in form atm  - +dex rune and +dex robe wit
 
 Again... normal dex does not raise dex above 18. No normal stat eq raises anything above 18.
 
-I already told you how it works. If form has 18 dex, normal dex doesn't do anything. If form dex is below 18, normal dex does do something. There are a *few* ways to get dex/maxdex to shift, but that's part of the fun.
+I already told you how it works. If form has 18 dex, normal dex doesn't do anything. If form dex is below 18, normal dex does do something. There are a \*few\* ways to get dex/maxdex to shift, but that's part of the fun.
 
 Forms were altered - nerfed slightly, especially owlbear. So that specific issue with msdp may be related to that. But I really don't care about msdp - I just explain that no matter what, you cannot raise any stat above 18 without maxstat points. You cannot raise form stats beyond 18 with normal stat points but can with maxstats.
 
@@ -110,7 +110,7 @@ Forms were altered - nerfed slightly, especially owlbear. So that specific issue
 
 Ok. Pretty clear now.
 
-Still question about houserobe open though .Is +dex version ingame? Anybody knows? :)
+Still question about houserobe open though .Is +dex version ingame? Anybody knows? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

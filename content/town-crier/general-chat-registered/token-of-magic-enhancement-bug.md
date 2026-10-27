@@ -12,7 +12,7 @@ post_count: 2
 
 <div class="post" data-post-id="40066" data-author="Dawg" data-date="2023-09-05T17:48:17+00:00" data-subject="token of magic enhancement bug">
 
-1733/1733  745/755  608/608   -   BH  365,767,396 XP    74,250 Gold   -14.5 AC   +32 hit  +21 dam   +1
+1733/1733 745/755 608/608 - BH 365,767,396 XP 74,250 Gold -14.5 AC +32 hit +21 dam +1
 
 cast 'dark cloak'
 
@@ -22,7 +22,7 @@ You weave the threads of magic masterfully!
 
 A dark haze precipitates around your body.
 
-1733/1733  723/755  608/608   -   BH  365,767,396 XP    74,250 Gold   -14.5 AC   +32 hit  +21 dam   +1
+1733/1733 723/755 608/608 - BH 365,767,396 XP 74,250 Gold -14.5 AC +32 hit +21 dam +1
 
 You feel lethargic.
 

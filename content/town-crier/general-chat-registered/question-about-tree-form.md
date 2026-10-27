@@ -12,9 +12,9 @@ post_count: 4
 
 <div class="post" data-post-id="21430" data-author="Medios" data-date="2007-11-26T22:28:45+00:00" data-subject="Question about tree form">
 
-I thought druid tree form was supposed to not be attacked by mobs.  I know druids use it to disengage and to get on top for spectral but I also thought it was like ferret in that you could be in tree and not get attacked.  Anyways thats not the case.
+I thought druid tree form was supposed to not be attacked by mobs. I know druids use it to disengage and to get on top for spectral but I also thought it was like ferret in that you could be in tree and not get attacked. Anyways thats not the case.
 
-<260hp 146ma 250mv>
+\<260hp 146ma 250mv\>
 
 You massacre a native ticket seller to small fragments with your slash.
 
@@ -54,7 +54,7 @@ A xeg-yi brushes a coal-dark tendril across a swordwraith.
 
 A swordwraith is healed!
 
-<230hp 149ma 250mv>
+\<230hp 149ma 250mv\>
 
 shapeshift tree
 
@@ -64,7 +64,7 @@ You stop singing.
 
 You raise your hands to the sky and slowly shift into a small nervous tree (Minstrel).
 
-<143hp 132ma 250mv>
+\<143hp 132ma 250mv\>
 
 A swordwraith massacres a native ticket seller to small fragments with its slash.
 
@@ -94,7 +94,7 @@ A demilich utters the words, 'destruction'
 
 A native ticket seller looks shocked as an arcane gesture blasts a piece of her body away.
 
-<144hp 133ma 249mv>
+\<144hp 133ma 249mv\>
 
 A swordwraith massacres a native ticket seller to small fragments with its slash.
 
@@ -124,19 +124,19 @@ A native ticket seller claws you extremely hard.
 
 You wish that your wounds would stop BLEEDING that much!
 
-<92hp 134ma 246mv>
+\<92hp 134ma 246mv\>
 
 A xeg-yi brushes a coal-dark tendril across a swordwraith.
 
 A swordwraith is healed!
 
-<93hp 134ma 246mv>
+\<93hp 134ma 246mv\>
 
 fle
 
 You seem to be rooted to the spot!
 
-<95hp 134ma 246mv>
+\<95hp 134ma 246mv\>
 
 You massacre a native ticket seller to small fragments with your whip.
 
@@ -170,13 +170,13 @@ You wish that your wounds would stop BLEEDING that much!
 
 A demilich utters the words, 'weaken'
 
-<22hp 133ma 245mv>
+\<22hp 133ma 245mv\>
 
 spr
 
 You slowly return to your natural form.
 
-<39hp 133ma 245mv>
+\<39hp 133ma 245mv\>
 
 fle
 
@@ -204,13 +204,13 @@ You have been KILLED!!
 
 You feel yourself floating upward...
 
-<-13hp 135ma 247mv>
+\<-13hp 135ma 247mv\>
 
-Lie still; you are DEAD!!! :-(
+Lie still; you are DEAD!!! <img src="/images/smilies/icon_e_sad.svg" alt=":-(" title=":-(" width="15" height="15" class="smiley nozoom">
 
-I instinctively hit flee , which didnt matter because I had to shift back and by the time that happened I was dead.  So does tree just disengage you, or is it supposed to not be attacked?  The help file says this.
+I instinctively hit flee , which didnt matter because I had to shift back and by the time that happened I was dead. So does tree just disengage you, or is it supposed to not be attacked? The help file says this.
 
-Level 14: Tree        Immobile, mobs won't attack you
+Level 14: Tree Immobile, mobs won't attack you
 
 Just wondering if anyone else uses tree or noticed this.
 

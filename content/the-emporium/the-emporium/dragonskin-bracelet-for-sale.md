@@ -14,7 +14,7 @@ post_count: 3
 
 0.0 +8 mana +1 ma regen
 
-it's posted  in the chopping block area
+it's posted in the chopping block area
 
 brand
 
@@ -30,6 +30,6 @@ brand
 
 I think you have to put your bid on the chopping block : 
 
-[url:3v2mum3p]http://slothmud.org/index.php?module=pnAuction&func=view[/url:3v2mum3p]
+http://slothmud.org/index.php?module=pnAuction&func=view
 
 </div>

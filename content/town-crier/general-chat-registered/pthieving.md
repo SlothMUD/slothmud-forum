@@ -12,7 +12,7 @@ post_count: 33
 
 <div class="post" data-post-id="17875" data-author="kjartan" data-date="2007-04-10T02:33:32+00:00" data-subject="Pthieving">
 
-We have disabled pthieving for the moment.  If we decide to turn it back on, we'll let you know.
+We have disabled pthieving for the moment. If we decide to turn it back on, we'll let you know.
 
 </div>
 
@@ -24,7 +24,7 @@ DANG!!!
 
 <div class="post" data-post-id="17877" data-author="tincts" data-date="2007-04-10T02:53:04+00:00" data-subject="">
 
-I'll be disappointed if they remove it for good - I hate it, but it makes for some great arguements  :D
+I'll be disappointed if they remove it for good - I hate it, but it makes for some great arguements <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -40,13 +40,13 @@ Oh well, something tells me pthieving is never going to be a part of this MUD ag
 
 Thanks!
 
-It'll be worth it just to watch Weasel die of shock :)
+It'll be worth it just to watch Weasel die of shock <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="17880" data-author="Weasel" data-date="2007-04-10T04:33:13+00:00" data-subject="">
 
-omigod!  :shock:  omigod!  
+omigod! <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> omigod! 
 
 I'm completely amazed - never thought I'd see the day.. I was pretty much resigned to leaving, so THANK YOU!!!!
 
@@ -64,19 +64,19 @@ rest in peace , slothmud
 
 <div class="post" data-post-id="17882" data-author="Messiaen" data-date="2007-04-10T06:16:40+00:00" data-subject="">
 
-+1
+\+1
 
 </div>
 
 <div class="post" data-post-id="17883" data-author="slobe" data-date="2007-04-10T06:40:13+00:00" data-subject="">
 
-I for one would like to say thanks :)
+I for one would like to say thanks <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 The only sad part is I dont think I will 
 
 Be claiming as good as stuff as I have in
 
-The past :p. But really thanks again I can change my eq in group now :)
+The past :p. But really thanks again I can change my eq in group now <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -88,29 +88,29 @@ Shazuko Roku Ryuu
 
 Shazuko Six Dragons
 
-<~Chaos~>
+\<\~Chaos\~\>
 
----
+\---
 
-Chaos is the score upon which reality is written.    --Henry Miller
+Chaos is the score upon which reality is written. --Henry Miller
 
 </div>
 
 <div class="post" data-post-id="17885" data-author="*juggleblood*" data-date="2007-04-10T09:28:13+00:00" data-subject="">
 
-Awesome :!: 
+Awesome <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom"> 
 
 I hope to see Thraxas, Resouh, and Jag back soon!
 
-Oh and why is Shazuko trying to negotiate with the imms in favor of more pthieving?  Not many ~chaos~ players around these days... Who all is in that clan? Aren't you also Firebrand's ex Blastard? 
+Oh and why is Shazuko trying to negotiate with the imms in favor of more pthieving? Not many \~chaos\~ players around these days... Who all is in that clan? Aren't you also Firebrand's ex Blastard? 
 
 i.e. Avatar of Chaos
 
-    "I'd rather be first into HELL than second into Heaven"
+ "I'd rather be first into HELL than second into Heaven"
 
 Also turned up this post by you:
 
-[<LINK_TEXT text="http://www.slothmud.org/index.php?name= ... c&start=15">http://www.slothmud.org/index.php?name=PNphpBB2&file=viewtopic&t=1423&postdays=0&postorder=dec&start=15</LINK_TEXT>](http://www.slothmud.org/index.php?name=PNphpBB2&file=viewtopic&t=1423&postdays=0&postorder=dec&start=15)
+[http://www.slothmud.org/index.php?name=PNphpBB2&file=viewtopic&t=1423&postdays=0&postorder=dec&start=15](http://www.slothmud.org/index.php?name=PNphpBB2&file=viewtopic&t=1423&postdays=0&postorder=dec&start=15)
 
 "fyrsten isn't a member of my clan, but anyone who stirs up mayhem like this gets 2 thumbs up-- "
 
@@ -126,9 +126,9 @@ Juggleblood writes:
 
 So I'm wondering if Hades was already a pthief when you got him from Mystery or if you turned him into a pthief afterward? 
 
-Allow me to re-iterate, Mystery never owned,doesn't own, doesn't know who Hades alt's are.  Damn it Rub, you know damned well builder char's can't have pthieves.
+Allow me to re-iterate, Mystery never owned,doesn't own, doesn't know who Hades alt's are. Damn it Rub, you know damned well builder char's can't have pthieves.
 
-<insert drawn out sigh here>
+\<insert drawn out sigh here\>
 
 </div>
 
@@ -144,11 +144,10 @@ Couple things to say, first of all congratulations whiners.
 
 Secondly 
 
-[quote:g4w2o01u]
+> <strong>Quote:</strong>
+> IF this is -permanent- , I'd presume legitimized pkilling is also history
 
-IF this is -permanent- , I'd presume legitimized pkilling is also history [/quote:g4w2o01u]
-
-You got your wish about the pthieving, now stfu and don't ruin the real fun.  I don't steal, I kill.
+You got your wish about the pthieving, now stfu and don't ruin the real fun. I don't steal, I kill.
 
 Thirdly, I'm with Zam.
 
@@ -180,11 +179,11 @@ After that I have lots of forges that could use a comp or 2 to finish.
 
 Im sure other DoW members have similar eq needs.
 
-Already seen sloth 4, and won that quest. April fools quest.  Mike and Al rounded out the top 3 prize winners.  Would be old news.
+Already seen sloth 4, and won that quest. April fools quest. Mike and Al rounded out the top 3 prize winners. Would be old news.
 
 If pthieving was the only way you could be entertained in Sloth, you likely needed an new outlet to have fun anyway.
 
-If more people play rather than quit, then removing pthieving was for the best.   Pthief had evolved to something more than stealing a few items.  So the response to cut it off for now was justified.
+If more people play rather than quit, then removing pthieving was for the best. Pthief had evolved to something more than stealing a few items. So the response to cut it off for now was justified.
 
 Mosaix
 
@@ -198,51 +197,58 @@ psych!
 
 <div class="post" data-post-id="17894" data-author="Blastard" data-date="2007-04-10T17:53:57+00:00" data-subject="">
 
-[quote:3vsfi12f]Oh and why is Shazuko trying to negotiate with the imms in favor of more pthieving?[/quote:3vsfi12f]
+> <strong>Quote:</strong>
+> Oh and why is Shazuko trying to negotiate with the imms in favor of more pthieving?
 
 firstly, I was on both/neither side(s)--if you can comprehend that...
 
-[quote:3vsfi12f]Aren't you also Firebrand's ex Blastard?[/quote:3vsfi12f]
+> <strong>Quote:</strong>
+> Aren't you also Firebrand's ex Blastard?
 
-secondly, I _strongly_ suggest you leave that one alone...
+secondly, I \_strongly\_ suggest you leave that one alone...
 
-[quote:3vsfi12f] "I'd rather be first into HELL than second into Heaven"[/quote:3vsfi12f]
+> <strong>Quote:</strong>
+> "I'd rather be first into HELL than second into Heaven"
 
 right.
 
-[quote:3vsfi12f]fyrsten isn't a member of my clan, but anyone who stirs up mayhem like this gets 2 thumbs up-- [/quote:3vsfi12f]
+> <strong>Quote:</strong>
+> fyrsten isn't a member of my clan, but anyone who stirs up mayhem like this gets 2 thumbs up--
 
 right again.
 
-[quote:3vsfi12f]So I'm wondering if Hades was already a pthief when you got him from Mystery or if you turned him into a pthief afterward?[/quote:3vsfi12f]
+> <strong>Quote:</strong>
+> So I'm wondering if Hades was already a pthief when you got him from Mystery or if you turned him into a pthief afterward?
 
 I dont know them, and I dont own ONE pthief char...I don't steal, I TAKE!
 
-[quote:3vsfi12f]Maybe the master of chaos should go find another mud.[/quote:3vsfi12f]
+> <strong>Quote:</strong>
+> Maybe the master of chaos should go find another mud.
 
 listen sonny boi, its a handfull of people like me that paved the way for WHINERS like you!! quit cryin like a little girl with a skinned knee and go find yourSELF another mud!
 
-[quote:3vsfi12f]now stfu......I don't steal, I kill. [/quote:3vsfi12f]
+> <strong>Quote:</strong>
+> now stfu......I don't steal, I kill.
 
 damn AA, beat me to the punch on that one...couldn't agree more!
 
 Blastard
 
-<Avatar of Chaos>
+\<Avatar of Chaos\>
 
-<~CHAOS~>
+\<\~CHAOS\~\>
 
----
+\---
 
 "We adore chaos because we love to produce order." 
 
-                                                       --M(auritis) C(ornelius) Escher
+ \--M(auritis) C(ornelius) Escher
 
 </div>
 
 <div class="post" data-post-id="17895" data-author="Weasel" data-date="2007-04-10T21:28:38+00:00" data-subject="">
 
-Good to see Dot back on this afternoon after a long break :)
+Good to see Dot back on this afternoon after a long break <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
  and hey - he didn't even pkill me!
 
@@ -250,11 +256,13 @@ Good to see Dot back on this afternoon after a long break :)
 
 <div class="post" data-post-id="17896" data-author="Medios" data-date="2007-04-10T22:04:03+00:00" data-subject="">
 
-[quote:2qbgf56e]Aren't you also Firebrand's ex Blastard?[/quote:2qbgf56e]
-
-secondly, I _strongly_ suggest you leave that one alone...
-
-[/quote:2qbgf56e]
+> <strong>Blastard wrote:</strong>
+> > <strong>Quote:</strong>
+> > Aren't you also Firebrand's ex Blastard?
+> 
+> 
+> 
+> secondly, I \_strongly\_ suggest you leave that one alone...
 
 Hah we dont have to touch it, you already did!
 
@@ -264,9 +272,10 @@ Mike
 
 <div class="post" data-post-id="17897" data-author="firebrand" data-date="2007-04-11T04:02:52+00:00" data-subject="">
 
-Not many ~chaos~ players around these days... Who all is in that clan? Aren't you also Firebrand's ex Blastard?  Maybe the master of chaos should go find another mud.[/quote:3dv7q5qw]
+> <strong>juggleblood wrote:</strong>
+> Not many \~chaos\~ players around these days... Who all is in that clan? Aren't you also Firebrand's ex Blastard? Maybe the master of chaos should go find another mud.
 
-who i date or not date is not open for discussion on this forum.  yeah, i talk about personal sh!t in channel or group or tells, but that is MY choice to talk or not to.  bringing it here to this public thread is most definitely NOT appreciated.  and i really don't give a damn that the entire mud already knows.  i still don't want it on a fkucking forum for the whole goddamned WORLD to read.  you really had no business twisting that knife in his open wound.  we BOTH had our reasons for ending the relationship, but that is neither here nor there nor does it have ANY bearing whatsoever on pthieving.  and just because he and i have split the sheets doesn't mean that he needs to go find another mud.  oh and another thing, just like you had no right to post our personal lives up here, you also had no right outing his alt char like that.  that too should have been HIS decision, not yours.  the only reason shaz/blastard (since you have so nicely outed him) was arguing in defense of pthieving is the same as some of the other players here: he enjoys the fun of the hunt/chase/kill.   to make a long rant short, keep your comments about my personal life off the crier.
+who i date or not date is not open for discussion on this forum. yeah, i talk about personal sh!t in channel or group or tells, but that is MY choice to talk or not to. bringing it here to this public thread is most definitely NOT appreciated. and i really don't give a damn that the entire mud already knows. i still don't want it on a fkucking forum for the whole goddamned WORLD to read. you really had no business twisting that knife in his open wound. we BOTH had our reasons for ending the relationship, but that is neither here nor there nor does it have ANY bearing whatsoever on pthieving. and just because he and i have split the sheets doesn't mean that he needs to go find another mud. oh and another thing, just like you had no right to post our personal lives up here, you also had no right outing his alt char like that. that too should have been HIS decision, not yours. the only reason shaz/blastard (since you have so nicely outed him) was arguing in defense of pthieving is the same as some of the other players here: he enjoys the fun of the hunt/chase/kill. to make a long rant short, keep your comments about my personal life off the crier.
 
 </div>
 
@@ -278,13 +287,14 @@ Woah fb must be upset - no random quote at the end of the post . . .
 
 <div class="post" data-post-id="17899" data-author="*juggleblood*" data-date="2007-04-11T10:55:56+00:00" data-subject="">
 
-Sorry Reb. I just remembered you saying that you know who Hades is, but you won't say.  I also noticed that Shaz and Hades have a similar writing style. So I started looking around old posts and find this dude Blastard/Shazuko praising our dear friend Frystenhart/Hades for being such a wonderful miscreant. Was trying to put together the pieces of who some of these disruptive jerks are.  Guess it doesn't matter now, so I'll drop it.
+Sorry Reb. I just remembered you saying that you know who Hades is, but you won't say. I also noticed that Shaz and Hades have a similar writing style. So I started looking around old posts and find this dude Blastard/Shazuko praising our dear friend Frystenhart/Hades for being such a wonderful miscreant. Was trying to put together the pieces of who some of these disruptive jerks are. Guess it doesn't matter now, so I'll drop it.
 
 </div>
 
 <div class="post" data-post-id="17900" data-author="13" data-date="2007-04-11T12:25:32+00:00" data-subject="">
 
-[quote:1irita40]outing his alt char[/quote:1irita40]
+> <strong>Quote:</strong>
+> outing his alt char
 
 All you have to do is watch wintin.
 
@@ -292,15 +302,16 @@ All you have to do is watch wintin.
 
 <div class="post" data-post-id="17901" data-author="firebrand" data-date="2007-04-11T13:22:55+00:00" data-subject="">
 
-ummm since i have an imm here and imms are privy to information the mortals do not have, the only thing i -can- publicly admit about knowing who hades is or is not (truth be told, i really don't) is that it is not blastard.  trust me on this one.  he may write similarly, but he's not hades or any other pth.  i can guarantee that.  and since the reason i know is again personal, i won't post it here.
+ummm since i have an imm here and imms are privy to information the mortals do not have, the only thing i -can- publicly admit about knowing who hades is or is not (truth be told, i really don't) is that it is not blastard. trust me on this one. he may write similarly, but he's not hades or any other pth. i can guarantee that. and since the reason i know is again personal, i won't post it here.
 
-"one thing about living in santa carla I never could stomach, all the damn vampires" --grandpa --> lost boys
+"one thing about living in santa carla I never could stomach, all the damn vampires" --grandpa --\> lost boys
 
 </div>
 
 <div class="post" data-post-id="17910" data-author="Thraxas" data-date="2007-04-11T23:36:23+00:00" data-subject="Re: Pthieving">
 
-We have disabled pthieving for the moment.  If we decide to turn it back on, we'll let you know.[/quote:37dotqxe]
+> <strong>\*kjartan\* wrote:</strong>
+> We have disabled pthieving for the moment. If we decide to turn it back on, we'll let you know.
 
 Wow hell has frozen over and pigs have grown wings !!! Thank you !!!
 
@@ -316,13 +327,13 @@ p.s. did I see mention of sloth4 somewhere? Whats the story there?
 
 <div class="post" data-post-id="17911" data-author="13" data-date="2007-04-12T00:08:27+00:00" data-subject="">
 
-As far as I'm concerned SlothIII became SlothIV when the admin changed and the new classes came in.  The mud, and the crew manning it are radically different than SlothIII and SlothII were.
+As far as I'm concerned SlothIII became SlothIV when the admin changed and the new classes came in. The mud, and the crew manning it are radically different than SlothIII and SlothII were.
 
 </div>
 
 <div class="post" data-post-id="17917" data-author="resouh" data-date="2007-04-12T06:42:33+00:00" data-subject="">
 
-Well, want to say thank you to the imms for trying out sloth as a no-steal mud.  Will definately allow more freedom and in my opinion keep some of the newer players around long enough to find out how awsome this mud can be.  Note to Poolp, Hades, etc...  I hope that you can find some other aspects of the game that keep you interested and this decision doesn't drive you away from sloth.
+Well, want to say thank you to the imms for trying out sloth as a no-steal mud. Will definately allow more freedom and in my opinion keep some of the newer players around long enough to find out how awsome this mud can be. Note to Poolp, Hades, etc... I hope that you can find some other aspects of the game that keep you interested and this decision doesn't drive you away from sloth.
 
 Resouh
 
@@ -332,13 +343,14 @@ Resouh
 
 <div class="post" data-post-id="17918" data-author="Hades" data-date="2007-04-12T09:48:45+00:00" data-subject="Resouh">
 
-Enough kissy-kissy....   what do you want? :twisted:
+Enough kissy-kissy.... what do you want? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="17919" data-author="Poolp" data-date="2007-04-12T12:11:56+00:00" data-subject="">
 
-Note to Poolp, Hades, etc...  I hope that you can find some other aspects of the game that keep you interested and this decision doesn't drive you away from sloth.[/quote:3flg68kh]
+> <strong>resouh wrote:</strong>
+> Note to Poolp, Hades, etc... I hope that you can find some other aspects of the game that keep you interested and this decision doesn't drive you away from sloth.
 
 Of course the reason I could pthief in the first place was that I've been playing in this MUD long enough to know it awhile. I come back once in awhile to pthief because I have the urge to play a MUD, and this is the only one I know well, and I'm too lazy to level a char again. Yes, truth be told I don't actually have an avatar char that plays often , just a very inactive one.
 
@@ -346,7 +358,8 @@ So if you're willing to be so nice, just to clarify; will you treat me as just a
 
 Actually I'd only be willing to get back into the MUD and play for real if pkilling me for pthievery wasn't allowed anymore. I don't want to risk being devoted to a char and getting myself looted at the end of the day.
 
- "It's part of the game, deal w/ it." -- Old Sloth Pthief chars[/quote:3flg68kh]
+> <strong>resouh wrote:</strong>
+> "It's part of the game, deal w/ it." -- Old Sloth Pthief chars
 
 Of course it wasn't only the pthieves who said this. Plenty of people believed it because it's been a part of this MUD ever since it existed. But oh well, I guess some of the immorts were a little concerned about players who wanted to leave because of it. Probably the first time a strike could change something of this magnitude. Quick, now go on strike for a chaos quest every weekend =)
 
@@ -354,17 +367,22 @@ Of course it wasn't only the pthieves who said this. Plenty of people believed i
 
 <div class="post" data-post-id="17920" data-author="resouh" data-date="2007-04-12T14:52:26+00:00" data-subject="">
 
-[quote:16ar9w5t]will you treat me as just another ordinary player if I were to confront you with my level 10 char (at the moment) someday?[/quote:16ar9w5t]
+> <strong>Quote:</strong>
+> will you treat me as just another ordinary player if I were to confront you with my level 10 char (at the moment) someday?
 
 I have the permission to speak for 2 and the answer is yes. 
 
-[quote:16ar9w5t]Actually I'd only be willing to get back into the MUD and play for real if pkilling me for pthievery wasn't allowed anymore. I don't want to risk being devoted to a char and getting myself looted at the end of the day.[/quote:16ar9w5t]
+> <strong>Quote:</strong>
+> Actually I'd only be willing to get back into the MUD and play for real if pkilling me for pthievery wasn't allowed anymore. I don't want to risk being devoted to a char and getting myself looted at the end of the day.
 
-Nicely put, I was taking a break from sloth because I didn't like the idea of cycling gold/eq for 6 hours just to find out that I just lost it in 2 minutes of poorly thoughtout regen time.  It really sux to invest time and energy in to something just to lose it because another player wanted to be an ass huh:)  I hope that the imms would also permit the known pthief chars to play unharassed the same as they just allowed the rest of us to play unharassed.
+Nicely put, I was taking a break from sloth because I didn't like the idea of cycling gold/eq for 6 hours just to find out that I just lost it in 2 minutes of poorly thoughtout regen time. It really sux to invest time and energy in to something just to lose it because another player wanted to be an ass huh:) I hope that the imms would also permit the known pthief chars to play unharassed the same as they just allowed the rest of us to play unharassed.
 
 resouh
 
-P.S.  [quote:16ar9w5t]Enough kissy-kissy.... what do you want?[/quote:16ar9w5t]
+P.S. 
+
+> <strong>Quote:</strong>
+> Enough kissy-kissy.... what do you want?
 
 well not much cause I don't think ur lips would reach this far;)
 
@@ -372,10 +390,13 @@ well not much cause I don't think ur lips would reach this far;)
 
 <div class="post" data-post-id="17943" data-author="12345" data-date="2007-04-15T20:08:23+00:00" data-subject="Re: Jugglebuttmunch">
 
-Damn it Rub, you know damned well builder char's can't have pthieves.
+> <strong>Ah\_Puch wrote:</strong>
+> Damn it Rub, you know damned well builder char's can't have pthieves.
+> 
+> 
+> 
+> \<insert drawn out sigh here\>
 
-<insert drawn out sigh here>[/quote:3h6gzh68]
-
-Allow me to clear this up some.  This is a flat out lie.  Builders on the builder's port are not disallowed from having pthieves in the same way that imms in the actual game are.
+Allow me to clear this up some. This is a flat out lie. Builders on the builder's port are not disallowed from having pthieves in the same way that imms in the actual game are.
 
 </div>

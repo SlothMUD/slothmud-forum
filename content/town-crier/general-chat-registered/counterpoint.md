@@ -36,6 +36,6 @@ Everyone is great!
 
 <div class="post" data-post-id="31857" data-author="Tuck" data-date="2010-10-09T06:26:48+00:00" data-subject="Re: Counterpoint">
 
-<LINK_TEXT text="http://www.youtube.com/watch?v=hu57AM5Y ... r_embedded">http://www.youtube.com/watch?v=hu57AM5Yans&feature=player_embedded</LINK_TEXT>
+http://www.youtube.com/watch?v=hu57AM5Yans&feature=player_embedded
 
 </div>

@@ -66,6 +66,6 @@ Killing the baby seals...
 
 <div class="post" data-post-id="26263" data-author="jezer" data-date="2008-09-12T00:09:18+00:00" data-subject="">
 
-He's also offering 5 drachma if you start a new character  :twisted:
+He's also offering 5 drachma if you start a new character <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

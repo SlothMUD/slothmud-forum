@@ -42,13 +42,13 @@ no need to anymore. im done. have fun everyone.
 
 Besides the fact I already dislike you, I allowed you to join my group.
 
-1: You ask for summon, we give to you, we stand around waiting for you to enter.  whatever, I moved on and in about 2 minutes you was wandering around the area trying to find me (more wasted time because I had to go after your ass to follow me)
+1: You ask for summon, we give to you, we stand around waiting for you to enter. whatever, I moved on and in about 2 minutes you was wandering around the area trying to find me (more wasted time because I had to go after your ass to follow me)
 
-2: You were trying to tell me how to lead, and basically getting on my nerves.  I think I know how to play this game... I told you to stfu
+2: You were trying to tell me how to lead, and basically getting on my nerves. I think I know how to play this game... I told you to stfu
 
-3: Again, I had to tell you to stfu.  Don't be a backseat leader, especially since you're new to sloth.  Note, telling you to stfu is nothing for me, I was in the marine corp.  you want me to go off on you, and I'll give you a taste of what it's really like to be berrated.  Then you followed self, so I recalled you.  I was going to ban you from groups, but then you continue to talk on gossip being extremely annoying
+3: Again, I had to tell you to stfu. Don't be a backseat leader, especially since you're new to sloth. Note, telling you to stfu is nothing for me, I was in the marine corp. you want me to go off on you, and I'll give you a taste of what it's really like to be berrated. Then you followed self, so I recalled you. I was going to ban you from groups, but then you continue to talk on gossip being extremely annoying
 
-4: Well hell, giving us a play by play.. again.. of HOW you're quitting.  You really need to learn some people skills, because you are just plain annoying.  I'm sorry to be the bearer of bad news, it's not the people who are being overly mean, you're just being overly annoying and anywhere you go, you're going to get the same response.
+4: Well hell, giving us a play by play.. again.. of HOW you're quitting. You really need to learn some people skills, because you are just plain annoying. I'm sorry to be the bearer of bad news, it's not the people who are being overly mean, you're just being overly annoying and anywhere you go, you're going to get the same response.
 
 mmmkthxseeyabye,
 
@@ -78,7 +78,7 @@ T
 
 <div class="post" data-post-id="31300" data-author="Toxis" data-date="2010-06-12T16:33:14+00:00" data-subject="Re: attitudes on the mud">
 
-Right, and bring back starman cuz everyone liked him too.  Unless Tak was starman, which we've all wondered.
+Right, and bring back starman cuz everyone liked him too. Unless Tak was starman, which we've all wondered.
 
 </div>
 
@@ -88,27 +88,27 @@ obviously takimitsu fails to reflect that when he first started out I helped him
 
 when he started getting on everyone's nerves I politely told him many times to cut down on spamming the gossip channel with silly stuff, and that we did not need to know every single thing he did on the mud.
 
-as for other's taking my lead in treating him poorly, you give me too much credit.  he got on other ppl's nerves way before he got on mine, since I hadn't been on all that much. and when i'm on i'm usually afk most of the time.
+as for other's taking my lead in treating him poorly, you give me too much credit. he got on other ppl's nerves way before he got on mine, since I hadn't been on all that much. and when i'm on i'm usually afk most of the time.
 
-i don't see how I've been "bullying" him since I've never seeked him out and disrupted his game playing.  When you flood my screen with 100lines per minute of nonsense on gossip channel, I'm going to tell you to STFU.  As have many other players told him the same.
+i don't see how I've been "bullying" him since I've never seeked him out and disrupted his game playing. When you flood my screen with 100lines per minute of nonsense on gossip channel, I'm going to tell you to STFU. As have many other players told him the same.
 
-I've helped out many new players who came on recently, even if they quit halfway.  Donated eq, gold, time to them, advised them on where/what to level and kill, where to find eq etc, how to use thier skills/spells.
+I've helped out many new players who came on recently, even if they quit halfway. Donated eq, gold, time to them, advised them on where/what to level and kill, where to find eq etc, how to use thier skills/spells.
 
-Fact is, if you're not serious about playing the game or even learning to play the game, but just intent on logging on and behaving like a jackass (eg. Starman)  people are going to treat you as one. 
+Fact is, if you're not serious about playing the game or even learning to play the game, but just intent on logging on and behaving like a jackass (eg. Starman) people are going to treat you as one. 
 
-Even non-new players have been told to stfu if they spam the gossip channel with nonsense...good examples are yasix and polk when they were on a drunken rampage on gossip.  When brad decides to sing nonstop on gossip ppl tell him to stfu too :P
+Even non-new players have been told to stfu if they spam the gossip channel with nonsense...good examples are yasix and polk when they were on a drunken rampage on gossip. When brad decides to sing nonstop on gossip ppl tell him to stfu too <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="31302" data-author="Thraxas" data-date="2010-06-13T09:37:10+00:00" data-subject="Re: attitudes on the mud">
 
-I guess what I'm saying is that if I had the choice between playing sloth with a socially inept annoying newbie and a more experienced player who when they feel justified sees nothing wrong with overtly bullying and hounding a newbie  til they leave I'll take the newbie every time ... from some of your responses I guess you dont all agree.
+I guess what I'm saying is that if I had the choice between playing sloth with a socially inept annoying newbie and a more experienced player who when they feel justified sees nothing wrong with overtly bullying and hounding a newbie til they leave I'll take the newbie every time ... from some of your responses I guess you dont all agree.
 
 T
 
 From the logs I've seen I guess gimlet dosent see anything wrong with setting the following trigger and going afk:
 
-#TR {^Takimitsu ({auctions--|gossips--|newbies--|tells you|says}) '(*)'$} {tell takimitsu faggot}
+\#TR {^Takimitsu ({auctions--\|gossips--\|newbies--\|tells you\|says}) '(\*)'$} {tell takimitsu faggot}
 
 I'd disagree with him.
 

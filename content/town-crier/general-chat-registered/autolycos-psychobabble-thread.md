@@ -12,11 +12,11 @@ post_count: 33
 
 <div class="post" data-post-id="10984" data-author="12345" data-date="2006-03-01T15:56:05+00:00" data-subject="Autolycos Psychobabble Thread...">
 
-I figure it worked for Aaron when he got his own random picture thread.  Maybe it will work for Auto too.
+I figure it worked for Aaron when he got his own random picture thread. Maybe it will work for Auto too.
 
 I figure it's also a great place for Will and Auto to express their undying love for each other.
 
-This has been a public service of 12345, the same person who brought you Autolycos' classo.  Remember, if it's being done right, here or abroad, it's probably not being done by 12345!
+This has been a public service of 12345, the same person who brought you Autolycos' classo. Remember, if it's being done right, here or abroad, it's probably not being done by 12345!
 
 </div>
 
@@ -32,17 +32,15 @@ I'm already waiting for the first dumb remark.
 
 most excellent....
 
-and Will has always been a distant admirer of me.. i mean.. you really cant blame him right?  poor bastard spends all his time alone,  making noobies to compensate for his lack of social skills and terrible overbite..   I guess I shouldnt be so mean to him all the time.. but dammnit its so much fun!  
+and Will has always been a distant admirer of me.. i mean.. you really cant blame him right? poor bastard spends all his time alone, making noobies to compensate for his lack of social skills and terrible overbite.. I guess I shouldnt be so mean to him all the time.. but dammnit its so much fun! 
 
-*for example* on chop 
+\*for example\* on chop 
 
-Belt of Vitality Marid   8060504 Leaf 
-
- 
+Belt of Vitality Marid 8060504 Leaf 
 
 The only person more pathetic then him would be Brad... but .... its almost too easy to make fun of him.. even without his drool cup..
 
-*wink 12345.. i know you love me... but you really should try Van... he is easy :twisted:
+\*wink 12345.. i know you love me... but you really should try Van... he is easy <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -56,21 +54,21 @@ SNARF!
 
 Hehehe,
 
-Autolycos ... yes I remember back in the day when he was just lvl1.  I 
+Autolycos ... yes I remember back in the day when he was just lvl1. I 
 
-believe I might have even morted for the poor bastard.  I felt sorry for the
+believe I might have even morted for the poor bastard. I felt sorry for the
 
-guy, and still do.  I mean did u see that MULLET he posted of himself???  Its
+guy, and still do. I mean did u see that MULLET he posted of himself??? Its
 
-one of the funnest picture I have ever seen.  Hey Jason y not repost that pic
+one of the funnest picture I have ever seen. Hey Jason y not repost that pic
 
-it could remind ur self how popular in high school u were.  Or how many 
+it could remind ur self how popular in high school u were. Or how many 
 
-times the cool kids beat the shat out of u, for being one of the biggest dork :)
+times the cool kids beat the shat out of u, for being one of the biggest dork <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 PS:
 
-Funny thing is u might believe I would pay for that since we are clan :)
+Funny thing is u might believe I would pay for that since we are clan <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Also it helpped u get 20mil last time I recall on those Ashens!!!
 
@@ -80,15 +78,15 @@ Also it helpped u get 20mil last time I recall on those Ashens!!!
 
 hmm...
 
-i see that will created a post.  but all i see are blank lines..
+i see that will created a post. but all i see are blank lines..
 
-oh yeah, i installed that buffer the gags retarded comments from dumbasses.. no wonder  :twisted:
+oh yeah, i installed that buffer the gags retarded comments from dumbasses.. no wonder <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="10999" data-author="12345" data-date="2006-03-02T18:29:30+00:00" data-subject="">
 
-Dam, must be tough not being able to see what you're writing.  :wink:
+Dam, must be tough not being able to see what you're writing. <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -96,11 +94,16 @@ Dam, must be tough not being able to see what you're writing.  :wink:
 
 Lame come back... really lame.
 
-hmm...
-
-i see that will created a post.  but all i see are blank lines..
-
-oh yeah, i installed that buffer the gags retarded comments from dumbasses.. no wonder  :twisted:[/quote:3uvu2kel]
+> <strong>Autolycos wrote:</strong>
+> hmm...
+> 
+> 
+> 
+> i see that will created a post. but all i see are blank lines..
+> 
+> 
+> 
+> oh yeah, i installed that buffer the gags retarded comments from dumbasses.. no wonder <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -112,11 +115,12 @@ somehow i have a nagging suspicion that autolycos and leaf are really gay lovers
 
 <div class="post" data-post-id="11011" data-author="Leaf" data-date="2006-03-02T22:25:56+00:00" data-subject="">
 
-somehow i have a nagging suspicion that autolycos and leaf are really gay lovers[/quote:1bh3chmc]
+> <strong>Mustang wrote:</strong>
+> somehow i have a nagging suspicion that autolycos and leaf are really gay lovers
 
 Hum... no
 
-I have a girlfriend.  AND No she isn't in my head, no doesn't have a penis,
+I have a girlfriend. AND No she isn't in my head, no doesn't have a penis,
 
 no isn't my sister/mom or any family like u sick bastards have.
 
@@ -124,29 +128,38 @@ no isn't my sister/mom or any family like u sick bastards have.
 
 <div class="post" data-post-id="11012" data-author="Weasel" data-date="2006-03-02T22:38:07+00:00" data-subject="">
 
-I have a girlfriend.  AND No she isn't in my head, no doesn't have a penis, no isn't my sister/mom or any family like u sick bastards have.[/quote:3pv3pmuz]
+> <strong>Leaf wrote:</strong>
+> I have a girlfriend. AND No she isn't in my head, no doesn't have a penis, no isn't my sister/mom or any family like u sick bastards have.
 
-how long does it take to inflate her?  :twisted:
+how long does it take to inflate her? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="11013" data-author="Leaf" data-date="2006-03-03T01:35:59+00:00" data-subject="">
 
-I have a girlfriend.  AND No she isn't in my head, no doesn't have a penis, no isn't my sister/mom or any family like u sick bastards have.[/quote:1vpc4yda]
-
-how long does it take to inflate her?  :twisted:[/quote:1vpc4yda]
+> <strong>Weasel wrote:</strong>
+> > <strong>Leaf wrote:</strong>
+> > I have a girlfriend. AND No she isn't in my head, no doesn't have a penis, no isn't my sister/mom or any family like u sick bastards have.
+> 
+> 
+> 
+> how long does it take to inflate her? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 DAMN U FERRET HUMPING BASTARD!!!
 
-15 seconds ...  :shock:
+15 seconds ... <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="11014" data-author="brand" data-date="2006-03-03T01:37:32+00:00" data-subject="">
 
-I have a girlfriend.  AND No she isn't in my head, no doesn't have a penis, no isn't my sister/mom or any family like u sick bastards have.[/quote:ubha3asb]
-
-how long does it take to inflate her?  :twisted:[/quote:ubha3asb]
+> <strong>Weasel wrote:</strong>
+> > <strong>Leaf wrote:</strong>
+> > I have a girlfriend. AND No she isn't in my head, no doesn't have a penis, no isn't my sister/mom or any family like u sick bastards have.
+> 
+> 
+> 
+> how long does it take to inflate her? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 CYMBLE CRASH!
 
@@ -156,19 +169,30 @@ CYMBLE CRASH!
 
 Is her name Rosie? Leftie perhaps? 
 
-[img:13pa9e4e]http://www.spookytoms.com/CommanderUSA.JPG[/img:13pa9e4e]
+![](http://www.spookytoms.com/CommanderUSA.JPG)
 
 </div>
 
 <div class="post" data-post-id="11019" data-author="Ironwolf" data-date="2006-03-03T06:28:26+00:00" data-subject="">
 
-I have a girlfriend.  AND No she isn't in my head, no doesn't have a penis, no isn't my sister/mom or any family like u sick bastards have.[/quote:3jdu7o39]
-
-how long does it take to inflate her?  :twisted:[/quote:3jdu7o39]
-
-DAMN U FERRET HUMPING BASTARD!!!
-
-15 seconds ...  :shock:[/quote:3jdu7o39]
+> <strong>Leaf wrote:</strong>
+> > <strong>Weasel wrote:</strong>
+> > > <strong>Leaf wrote:</strong>
+> > > I have a girlfriend. AND No she isn't in my head, no doesn't have a penis, no isn't my sister/mom or any family like u sick bastards have.
+> > 
+> > 
+> > 
+> > how long does it take to inflate her? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
+> 
+> 
+> 
+> 
+> 
+> DAMN U FERRET HUMPING BASTARD!!!
+> 
+> 
+> 
+> 15 seconds ... <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 LOL
 
@@ -176,19 +200,19 @@ LOL
 
 <div class="post" data-post-id="11026" data-author="Autolycos" data-date="2006-03-03T13:35:08+00:00" data-subject="">
 
-i must say,  you all make me so very happy... :wink: 
+i must say, you all make me so very happy... <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom"> 
 
-with all of the great Will slams and thrashs,  i feel like its my birthday, and this is the kewlest present i could ever get.  I tip my hat to you all!
+with all of the great Will slams and thrashs, i feel like its my birthday, and this is the kewlest present i could ever get. I tip my hat to you all!
 
 ps. 
 
-enjoy it Will... you deserve this mud-wide pummelling of insults you bastard!  :twisted:
+enjoy it Will... you deserve this mud-wide pummelling of insults you bastard! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="11033" data-author="Weasel" data-date="2006-03-03T17:52:30+00:00" data-subject="">
 
-btw Auto I was meaning to ask.. why does your pet gerbil smell like arse? :shock:
+btw Auto I was meaning to ask.. why does your pet gerbil smell like arse? <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -196,13 +220,13 @@ btw Auto I was meaning to ask.. why does your pet gerbil smell like arse? :shock
 
 Because like all hermaphrodite, Jason has the ability sticks his pet gerbil
 
-up his ass then his pusy :)
+up his ass then his pusy <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="11035" data-author="Autolycos" data-date="2006-03-03T18:49:40+00:00" data-subject="">
 
-wow... thats news to me... think of all the money i could have made... i could have been rich,  not to mention the tons of cash i could have gotten from you pervs loggin into my Pornocopia website... thanks for the idea...  get those credit cards ready! :twisted:
+wow... thats news to me... think of all the money i could have made... i could have been rich, not to mention the tons of cash i could have gotten from you pervs loggin into my Pornocopia website... thanks for the idea... get those credit cards ready! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -210,7 +234,7 @@ wow... thats news to me... think of all the money i could have made... i could h
 
 If anyone wants to see a pict of Will in action go to [www.meatspin.com](http://www.meatspin.com)
 
-*smoke*  :evil:
+\*smoke\* <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -222,23 +246,25 @@ I didn't catch.. is Will on top? :)
 
 <div class="post" data-post-id="11038" data-author="Weasel" data-date="2006-03-03T19:03:08+00:00" data-subject="">
 
-egad  :shock:
+egad <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="11039" data-author="12345" data-date="2006-03-03T19:37:20+00:00" data-subject="">
 
-wow... thats news to me... think of all the money i could have made... i could have been rich,  not to mention the tons of cash i could have gotten from you pervs loggin into my Pornocopia website... thanks for the idea...  get those credit cards ready! :twisted:[/quote:2lpwv4tf]
+> <strong>Autolycos wrote:</strong>
+> wow... thats news to me... think of all the money i could have made... i could have been rich, not to mention the tons of cash i could have gotten from you pervs loggin into my Pornocopia website... thanks for the idea... get those credit cards ready! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
-I think you owe me money for all the pain and suffering that mental image created.  I've had 3 different women in the janitor's closet in the last hour trying to burn the residue of these words out of my skull.
+I think you owe me money for all the pain and suffering that mental image created. I've had 3 different women in the janitor's closet in the last hour trying to burn the residue of these words out of my skull.
 
 </div>
 
 <div class="post" data-post-id="11041" data-author="Autolycos" data-date="2006-03-03T20:48:09+00:00" data-subject="">
 
-I didn't catch.. is Will on top? :)[/quote:2mf5yhh2]
+> <strong>Krok wrote:</strong>
+> I didn't catch.. is Will on top? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-of course he would be on top..  sissy boy gotta make his money somehow..  turned alot of tricks to get himself outta that trailer park and up to the truck stop.    If only Guinex could met him in the old days..  maybe he coulda  been a better pimp then Brad was for him.
+of course he would be on top.. sissy boy gotta make his money somehow.. turned alot of tricks to get himself outta that trailer park and up to the truck stop. If only Guinex could met him in the old days.. maybe he coulda been a better pimp then Brad was for him.
 
 </div>
 
@@ -262,7 +288,7 @@ Better looking then Jason by a LONG SHOT!
 
 <div class="post" data-post-id="11047" data-author="Autolycos" data-date="2006-03-03T22:44:51+00:00" data-subject="">
 
-nah.. i asked veta and kirin about that pic.. they said that was the guy that carried their luggage to the rooms... nice try tho.. i just think its a cheap shot to try to pull someone randomly and think its you  :twisted:
+nah.. i asked veta and kirin about that pic.. they said that was the guy that carried their luggage to the rooms... nice try tho.. i just think its a cheap shot to try to pull someone randomly and think its you <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -278,7 +304,7 @@ stfu
 
 By the off chance that someone thinks this banter between Will and others is new, check out this link from the Wayback Machine circa 2000. 
 
-[url:2znj6xrv]http://web.archive.org/web/20000502221024/www.slothmud.org/sloth/wwwboard/towncrier.html[/url:2znj6xrv]
+http://web.archive.org/web/20000502221024/www.slothmud.org/sloth/wwwboard/towncrier.html
 
 It's a shame the actual posts are lost, but anyway the subjects and posters seem eerily familiar.
 
@@ -290,7 +316,7 @@ Clink
 
 <div class="post" data-post-id="11130" data-author="Autolycos" data-date="2006-03-09T20:49:38+00:00" data-subject="">
 
-HOLY KRAP!  :shock: 
+HOLY KRAP! <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
 some of those memories make me feel all icky...
 
@@ -298,7 +324,8 @@ some of those memories make me feel all icky...
 
 <div class="post" data-post-id="11131" data-author="*juggleblood*" data-date="2006-03-09T21:02:21+00:00" data-subject="">
 
-It's a shame the actual posts are lost..Clink[/quote:3inrwszh]
+> <strong>Clink wrote:</strong>
+> It's a shame the actual posts are lost..Clink
 
 Umm..yeah its a great loss of a literary treasure, especially since Auto is one of the few people in Indiana who can read and write.
 
@@ -306,26 +333,34 @@ Umm..yeah its a great loss of a literary treasure, especially since Auto is one 
 
 <div class="post" data-post-id="11134" data-author="Autolycos" data-date="2006-03-09T21:48:39+00:00" data-subject="">
 
-Umm..yeah its a great loss of a literary treasure, especially since Auto is one of the few people in Indiana who can read and write.[/quote:2o859u7m]
+> <strong>juggleblood wrote:</strong>
+> Umm..yeah its a great loss of a literary treasure, especially since Auto is one of the few people in Indiana who can read and write.
 
 lmfao... 
 
-that rocks... sadly enough though, how true it is... :twisted:
+that rocks... sadly enough though, how true it is... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="11135" data-author="Blastem" data-date="2006-03-09T22:06:56+00:00" data-subject="">
 
-[quote:1tyw5v6x]Auto is one of the few people in Indiana who can read and write.[/quote:1tyw5v6x] ... are you sure about this information personally from the babbling I think he's using a very poor voice recog program ... and another to read the text for him....
+> <strong>Quote:</strong>
+> Auto is one of the few people in Indiana who can read and write.
+
+ ... are you sure about this information personally from the babbling I think he's using a very poor voice recog program ... and another to read the text for him....
 
 </div>
 
 <div class="post" data-post-id="11139" data-author="Autolycos" data-date="2006-03-09T23:38:40+00:00" data-subject="">
 
-[quote:2pyruvkl]Auto is one of the few people in Indiana who can read and write.[/quote:2pyruvkl] ... are you sure about this information personally from the babbling I think he's using a very poor voice recog program ... and another to read the text for him....[/quote:2pyruvkl]
+> <strong>Blastem wrote:</strong>
+> > <strong>Quote:</strong>
+> > Auto is one of the few people in Indiana who can read and write.
+> 
+> ... are you sure about this information personally from the babbling I think he's using a very poor voice recog program ... and another to read the text for him....
 
 und eggzaktlie whut thu phuque r ewe empliejing Blahsthum?
 
-ie theenk ie sphull vwury whell thanck ewe, phuquing esswhole. :twisted:
+ie theenk ie sphull vwury whell thanck ewe, phuquing esswhole. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

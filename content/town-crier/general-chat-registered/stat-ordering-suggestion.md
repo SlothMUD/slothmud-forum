@@ -62,7 +62,7 @@ group watch Zuzu
 
 Ok.
 
-Zuzu [Cl:4.33  795hp 675ma 219mv] 1.H
+Zuzu [Cl:4.33 795hp 675ma 219mv] 1.H
 
 (instead of getting whole group)
 
@@ -76,7 +76,7 @@ Kida.
 
 And one more thing for today. Even if I use consice mode I still get those lines for people leaving room and folowing the leader that is useless. But it hurts if group's big enough and those lines cover half of the screen. Would you be so generous to redesign those lines in one line i.e. 'Toxis leaves north with group of people' at least just for concise mode. It would really help to play in groups.
 
-Thanks in advance! :P
+Thanks in advance! <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 Kida
 
@@ -86,6 +86,6 @@ Kida
 
 for both suggestions, it can be easily done if u're using a mud client
 
-#gag works on wintin
+\#gag works on wintin
 
 </div>

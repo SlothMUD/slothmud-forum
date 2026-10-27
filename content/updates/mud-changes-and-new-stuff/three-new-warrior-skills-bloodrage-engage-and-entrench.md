@@ -12,11 +12,9 @@ post_count: 1
 
 <div class="post" data-post-id="2943" data-author="*Splork*" data-date="2004-11-21T19:26:50+00:00" data-subject="Three New Warrior Skills: Bloodrage, Engage, and Entrench">
 
-Posted: Nov 16, 2004 - 10:24 AM    Post subject: Three new warrior 
+Posted: Nov 16, 2004 - 10:24 AM Post subject: Three new warrior 
 
---------------------------------------------------------------------------------
-
- 
+\--------------------------------------------------------------------------------
 
 A new, level 18 warrior skill has been added. Please see help bloodrage for more information. 
 
@@ -28,6 +26,6 @@ Enjoy,
 
 Splork 
 
-  :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

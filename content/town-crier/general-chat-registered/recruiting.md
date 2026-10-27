@@ -14,13 +14,13 @@ post_count: 3
 
 Howdy folks.
 
-Some of you may be familiar with internet trails.  Frvade is probably the more well known one, though there is also Not Pr0n, thisisnotporn, God Tower, Cerebral-X, Clever Waste of Time... and a ton of others.
+Some of you may be familiar with internet trails. Frvade is probably the more well known one, though there is also Not Pr0n, thisisnotporn, God Tower, Cerebral-X, Clever Waste of Time... and a ton of others.
 
-I've recently been playing another one that has a different spin to it.  It's called Invasion and it's fairly cool.  Puzzles are released at set times and teams compete to solve them.  There are 10 rounds to each Invasion.  Each has an answer that is a real life place.  Points are awarded for solving the puzzle and also obtaining a real life picture of the location with the team information included on it.  Sometimes bonus points are awarded depending on the nature of the puzzle.
+I've recently been playing another one that has a different spin to it. It's called Invasion and it's fairly cool. Puzzles are released at set times and teams compete to solve them. There are 10 rounds to each Invasion. Each has an answer that is a real life place. Points are awarded for solving the puzzle and also obtaining a real life picture of the location with the team information included on it. Sometimes bonus points are awarded depending on the nature of the puzzle.
 
-Since this is a global scavenger hunt, it's vital to have folks from around the world on our team.  Our team is currently USA heavy, so we're scouting around for people from other countries that might be intersted in helping us out, even if it's just getting a picture of the place. If you'd like to help us out, reply to this thread or send me a PM please.  Please include in the message where you're from and what cities you're near.
+Since this is a global scavenger hunt, it's vital to have folks from around the world on our team. Our team is currently USA heavy, so we're scouting around for people from other countries that might be intersted in helping us out, even if it's just getting a picture of the place. If you'd like to help us out, reply to this thread or send me a PM please. Please include in the message where you're from and what cities you're near.
 
-Thanks for reading and I hope you consider responding!  :D
+Thanks for reading and I hope you consider responding! <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 

@@ -24,7 +24,7 @@ bella
 
 How hard can it be, fish for 5 mins, pay attention to the messages, incorporate them with the appropriate actions..I made mine on wintin in
 
-about 10 minutes.  Are you too lazy to spend ten minutes writing your
+about 10 minutes. Are you too lazy to spend ten minutes writing your
 
 own script?
 
@@ -44,7 +44,7 @@ and then there are sharks...
 
 <div class="post" data-post-id="15404" data-author="Corinn" data-date="2006-12-01T14:29:22+00:00" data-subject="">
 
-All this talk about fishing is frightening me... :shock:
+All this talk about fishing is frightening me... <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -62,25 +62,25 @@ well thanks for the help, didnt expect any.. after all this is sloth where most 
 
 <div class="post" data-post-id="15428" data-author="12345" data-date="2006-12-03T07:59:00+00:00" data-subject="">
 
-Laugh... there's nothing bitter about it.  It's just the sheer ubsurbity of the request.  It's been a while since I used my autofisher, but I used to set it religiously while boating until sharks happened.  You'll need to add a trigger to drop sharks... other than that, your script is a grand total of 4 lines long in wintin.net 2.x:
+Laugh... there's nothing bitter about it. It's just the sheer ubsurbity of the request. It's been a while since I used my autofisher, but I used to set it religiously while boating until sharks happened. You'll need to add a trigger to drop sharks... other than that, your script is a grand total of 4 lines long in wintin.net 2.x:
 
-#defgroup Fishing
+\#defgroup Fishing
 
-#action  {^You feel a very solid pull on your line!} {reelin;castout} {G|Fishing} {T|WT}
+\#action {^You feel a very solid pull on your line!} {reelin;castout} {G\|Fishing} {T\|WT}
 
-#action  {^You pull your arm back and try to cast out your line} {castout} {G|Fishing} {T|WT}
+\#action {^You pull your arm back and try to cast out your line} {castout} {G\|Fishing} {T\|WT}
 
-#action  {^You reel in a sand tiger shark! Nice catch!} {drop shark;take shark;junk shark} {G|Fishing} {T|WT}
+\#action {^You reel in a sand tiger shark! Nice catch!} {drop shark;take shark;junk shark} {G\|Fishing} {T\|WT}
 
-#action  {^Your line suddenly jumps to life... FISH ON!!!} {reelin;castout} {G|Fishing} {T|WT}
+\#action {^Your line suddenly jumps to life... FISH ON!!!} {reelin;castout} {G\|Fishing} {T\|WT}
 
-Viola.  Wield a pole and castout.. script does the rest.  You might want to have it put fish in a container or something... I never worried about it though.
+Viola. Wield a pole and castout.. script does the rest. You might want to have it put fish in a container or something... I never worried about it though.
 
 </div>
 
 <div class="post" data-post-id="15429" data-author="12345" data-date="2006-12-03T08:00:46+00:00" data-subject="">
 
-Oh, nevermind, it seems I have a trigger to deal with sharks as well.  Simple script indeed.
+Oh, nevermind, it seems I have a trigger to deal with sharks as well. Simple script indeed.
 
 </div>
 

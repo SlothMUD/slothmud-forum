@@ -20,7 +20,7 @@ However if spectral shield fires, it will wipe your overflow, and set mana as ma
 
 For me this means loosing 400ma in epic groups if someone scrolls and spectral is up.
 
-It shouldn't reset mana to max if mana > max.
+It shouldn't reset mana to max if mana \> max.
 
 </div>
 

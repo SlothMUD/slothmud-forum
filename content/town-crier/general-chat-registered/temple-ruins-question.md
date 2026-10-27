@@ -32,6 +32,6 @@ There's a key (so named) that loads in zone. It's roughly a 4 mil wandering mob 
 
 <div class="post" data-post-id="34366" data-author="Tuck" data-date="2013-07-28T17:35:21+00:00" data-subject="Re: Temple Ruins Question">
 
-looks like someone to resubmit corrected map ;)
+looks like someone to resubmit corrected map <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 </div>

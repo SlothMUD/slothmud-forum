@@ -20,13 +20,14 @@ I'm looking for Diaphanous Gown + gold or other low item(s).
 
 Since I only mud a couple of hrs a nite, please post reply here or look for
 
-Rojak.  Do not confuse with Rodek...
+Rojak. Do not confuse with Rodek...
 
 </div>
 
 <div class="post" data-post-id="23228" data-author="*juggleblood*" data-date="2008-03-14T14:42:35+00:00" data-subject="Re: Got a Thunderbolt for Trade">
 
-Do not confuse with Rodek...[/quote:b93embnl]
+> <strong>Leaf wrote:</strong>
+> Do not confuse with Rodek...
 
 poor poor Rodek...
 
@@ -36,7 +37,7 @@ poor poor Rodek...
 
 It seems when a gown is used with vial of Ashen Power or Jar of Clouded
 
-Ebon Tincture it can not be detached.  I'm looking either a gown by itself
+Ebon Tincture it can not be detached. I'm looking either a gown by itself
 
 or a gown with vial of ashen power attached.
 

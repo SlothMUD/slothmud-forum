@@ -20,7 +20,7 @@ I think they were removed at the last redesign but now I fixed and recoded some 
 
 For those who still don't know that I'm talking about:
 
-Click on the 'Classes' Item in the menu, and then you select your class :)
+Click on the 'Classes' Item in the menu, and then you select your class <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 It shows you which spellbook pops where, on who etc. and you can also search for Spells/Skills/Songs and the according Spellbook, Manual Songbook.
 
@@ -28,17 +28,17 @@ The original code was from 'Isabo'.
 
 A short summary what I did:
 
-- putting the thing into the new layout
+\- putting the thing into the new layout
 
-- fixed a bunch of security issues, so the db won't be flushed every now and then :)
+\- fixed a bunch of security issues, so the db won't be flushed every now and then <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-Was more work than it sounds :)
+Was more work than it sounds <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Still todo: 
 
-- Fix the admin menu, so even some selected mortals may update the db :)
+\- Fix the admin menu, so even some selected mortals may update the db <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-- An other/better colorsheme :)
+\- An other/better colorsheme <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 regards,
 
@@ -48,7 +48,7 @@ broeggle
 
 <div class="post" data-post-id="15350" data-author="Leaf" data-date="2006-11-26T18:55:37+00:00" data-subject="">
 
-Great job done.  However please change some of the colors...  Its hard on
+Great job done. However please change some of the colors... Its hard on
 
 the eyes.
 
@@ -92,11 +92,11 @@ any chance of a change?
 
 <div class="post" data-post-id="15360" data-author="Leaf" data-date="2006-11-27T12:09:03+00:00" data-subject="">
 
-I'm also slightly color blind, on green & red.  Which was y I stated the
+I'm also slightly color blind, on green \& red. Which was y I stated the
 
-colors are hard on the eyes.  The name of the skills kinda blends in with the
+colors are hard on the eyes. The name of the skills kinda blends in with the
 
-back ground being the deep red.  Hum... maybe yellow or a sky blue?
+back ground being the deep red. Hum... maybe yellow or a sky blue?
 
 </div>
 
@@ -108,13 +108,13 @@ I might be boring, but can't it just be black on white with some color dividers 
 
 <div class="post" data-post-id="15362" data-author="broeggle" data-date="2006-11-27T12:36:36+00:00" data-subject="">
 
-grats, you guys seem to have something 'similar to atypical achromatopsia aka cone monochromat' :)
+grats, you guys seem to have something 'similar to atypical achromatopsia aka cone monochromat' <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-I tested the site with this really nice color blindness viewer  ([http://colorfilter.wickline.org/](http://colorfilter.wickline.org/)) - and I really have to admin, it's really hard to read with that.  
+I tested the site with this really nice color blindness viewer ([http://colorfilter.wickline.org/](http://colorfilter.wickline.org/)) \- and I really have to admin, it's really hard to read with that. 
 
-cast 'cure colorblindness' ClassAbilites :)
+cast 'cure colorblindness' ClassAbilites <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-We will fix that, perhaps b&w are the best option :)
+We will fix that, perhaps b\&w are the best option <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -138,7 +138,7 @@ Splork
 
 <div class="post" data-post-id="15370" data-author="banedon" data-date="2006-11-28T07:11:11+00:00" data-subject="">
 
-Color scheme looks good now.  Only other thing I could think of is possibly make the font size a lil bigger for all of us older farts who are too lazy to use our readin glasses.
+Color scheme looks good now. Only other thing I could think of is possibly make the font size a lil bigger for all of us older farts who are too lazy to use our readin glasses.
 
 </div>
 
@@ -152,33 +152,33 @@ then you can add the following to the stylesheet at themes/SlothIII/style/style.
 
 a.weasel:link, a.weasel:visited, a.weasel:active {
 
-   color:#ffffff;
+ color:#ffffff;
 
-   text-decoration:none;
+ text-decoration:none;
 
-   }
+ }
 
 a.weasel:hover {
 
-   color:#ff0000;
+ color:#ff0000;
 
-   text-decoration:underline;
+ text-decoration:underline;
 
-   }
+ }
 
-..adjust to suit.. that would give you white text that changes to red when you mouse over the text.. text-decoration you can change or do whatever is on existing link css..  it will basically use default link behavior except for whatever you add here..
+..adjust to suit.. that would give you white text that changes to red when you mouse over the text.. text-decoration you can change or do whatever is on existing link css.. it will basically use default link behavior except for whatever you add here..
 
 </div>
 
 <div class="post" data-post-id="15372" data-author="bubba" data-date="2006-11-28T16:51:12+00:00" data-subject="">
 
-Yeah, have to say that red text on black background is hell for colorblind people like me.  You might want to remember that if you're using a tank reporter with red text :-)
+Yeah, have to say that red text on black background is hell for colorblind people like me. You might want to remember that if you're using a tank reporter with red text <img src="/images/smilies/icon_e_smile.svg" alt=":-)" title=":-)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="15376" data-author="Gimlet" data-date="2006-11-29T05:53:17+00:00" data-subject="">
 
-Nobody heals tanks no matter what color tags u use in your tank reporter :)
+Nobody heals tanks no matter what color tags u use in your tank reporter <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

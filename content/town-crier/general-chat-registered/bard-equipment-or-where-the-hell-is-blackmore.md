@@ -16,13 +16,13 @@ Looking up instruments on eqlist and notice that several sets of numbers
 
 are listed... some being whole numbers and other types being percentages.
 
-So, what do these slots represent and do they stack if several  are equippped
+So, what do these slots represent and do they stack if several are equippped
 
-at the same time?  Also, if they don't stack and you have several equipped
+at the same time? Also, if they don't stack and you have several equipped
 
 does the best piece get used by default ?
 
- :?:
+ <img src="/images/smilies/icon_question.svg" alt=":?:" title=":?:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

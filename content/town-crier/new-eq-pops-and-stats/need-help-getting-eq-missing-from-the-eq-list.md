@@ -24,7 +24,7 @@ A number of items from Beholders are missing.
 
 Some things from Moria, including some cps and Crimson Scourge are missing (I even used one awhile and never logged the stats before I lost it).
 
-In addition, there are certain areas where EQ almost certainly pops but hasn't been found yet.  Ogres I know for a fact, River of Blood almost certainly, LAAAAM for sure, and probably more when I have more time to think about it.
+In addition, there are certain areas where EQ almost certainly pops but hasn't been found yet. Ogres I know for a fact, River of Blood almost certainly, LAAAAM for sure, and probably more when I have more time to think about it.
 
 If anyone has information on any of this stuff, please let me know.
 
@@ -40,7 +40,7 @@ load are the taffeta pouch and the skull of shifting dragon
 
 <div class="post" data-post-id="4758" data-author="blackmore" data-date="2005-03-03T20:25:47+00:00" data-subject="">
 
-I think the taffeta pouch is the item I was missing.  Isn't it some druid thing?
+I think the taffeta pouch is the item I was missing. Isn't it some druid thing?
 
 </div>
 

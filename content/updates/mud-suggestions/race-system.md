@@ -14,7 +14,7 @@ post_count: 4
 
 Yes R A C E (prepares to be flamed)...
 
-Class should be implemented, thus allow factors such as if ur an elf, ur max dex/int could be 19/19, but ur max con would be reduced to 16... and etc... this would also allow for race only item, like dwarfs would be the ones using those -height items :).... And giving halfling of a fat chance in using heavy twin swords...etc.etc
+Class should be implemented, thus allow factors such as if ur an elf, ur max dex/int could be 19/19, but ur max con would be reduced to 16... and etc... this would also allow for race only item, like dwarfs would be the ones using those -height items <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">.... And giving halfling of a fat chance in using heavy twin swords...etc.etc
 
 </div>
 
@@ -32,11 +32,11 @@ good.
 
 <div class="post" data-post-id="4827" data-author="Qa" data-date="2005-03-07T00:20:59+00:00" data-subject="">
 
-> ***kjartan* wrote:**
+> <strong>\*kjartan\* wrote:</strong>
 > We don't have any plans to implement a race system at present.
 
-Thank god!  (aka Kjartan)
+Thank god! (aka Kjartan)
 
--Qa
+\-Qa
 
 </div>

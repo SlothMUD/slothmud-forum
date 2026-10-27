@@ -24,11 +24,11 @@ Thanks
 
 <div class="post" data-post-id="14648" data-author="Avatar" data-date="2006-10-17T15:42:36+00:00" data-subject="Avatar bonuses">
 
-Congrats on the 20 Av - getting close to iron skin now  :)
+Congrats on the 20 Av - getting close to iron skin now <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 From memory, the Av bonuses apply to several of the top spells now, and I think frostbolt and destruction at least were included.
 
-I think the 'score s' is by design.  The score stats is nice flavor text, but it's also meant to help you determine when you reach your maximum bonuses and hit the cap.  The avatar bonuses apply in addition to any eq and are not included in that cap.  So, if you were a mage running at the maximum spellbonus by using eq, you shouldn't remove eq when you hit 10 av or 20 av.  Those avatar bonuses are in addition to the eq bonuses.
+I think the 'score s' is by design. The score stats is nice flavor text, but it's also meant to help you determine when you reach your maximum bonuses and hit the cap. The avatar bonuses apply in addition to any eq and are not included in that cap. So, if you were a mage running at the maximum spellbonus by using eq, you shouldn't remove eq when you hit 10 av or 20 av. Those avatar bonuses are in addition to the eq bonuses.
 
 Charles
 

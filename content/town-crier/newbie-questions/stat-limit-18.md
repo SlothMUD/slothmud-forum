@@ -32,12 +32,12 @@ No and yes.
 
 The no answer, is because Druids that can shift to higher forums can get
 
-higher stats :)
+higher stats <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="7712" data-author="Granty555" data-date="2005-07-01T10:59:41+00:00" data-subject="">
 
-Noone like a know-it-all Leaf  :P
+Noone like a know-it-all Leaf <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>

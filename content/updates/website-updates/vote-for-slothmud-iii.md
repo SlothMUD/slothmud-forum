@@ -12,7 +12,7 @@ post_count: 3
 
 <div class="post" data-post-id="440" data-author="*Splork*" data-date="2004-05-31T15:08:19+00:00" data-subject="Vote for SlothMUD III">
 
-Added  new block at the bottom left of our web page. Feel free to vote for us on Top 100 Mud Sites and The Mud Connector.  We will change the Top 100 Mud Sites button soon to something better in a day or two so please bare with us...
+Added new block at the bottom left of our web page. Feel free to vote for us on Top 100 Mud Sites and The Mud Connector. We will change the Top 100 Mud Sites button soon to something better in a day or two so please bare with us...
 
 Enjoy,
 
@@ -22,7 +22,7 @@ Splork
 
 <div class="post" data-post-id="539" data-author="blackmore" data-date="2004-06-04T20:05:26+00:00" data-subject="">
 
-We're up to #66 on the topmudlist site, which is awesome, but it looks stupid to have no description under our name.  Please don't let us get up into the top 20 and have us featured on the top sites, with no information whatsoever on who we are.
+We're up to #66 on the topmudlist site, which is awesome, but it looks stupid to have no description under our name. Please don't let us get up into the top 20 and have us featured on the top sites, with no information whatsoever on who we are.
 
 </div>
 

@@ -30,11 +30,11 @@ AC-apply is -2.0
 
 Can affect you as:
 
-    Affects: MANA by 12
+ Affects: MANA by 12
 
-    Affects: MAX_WIS by 1
+ Affects: MAX\_WIS by 1
 
-    Affects: MANA by 5 ()Brown-Red Spinel Rune()
+ Affects: MANA by 5 ()Brown-Red Spinel Rune()
 
 Only those who are at least supreme magic users, clerics, druids, or bards,
 

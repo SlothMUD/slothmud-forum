@@ -24,7 +24,7 @@ Weight: 5, Value: 35000gold, Worn in: TAKE HOLD
 
 Can affect you as:
 
-    Affects: STR by 1
+ Affects: STR by 1
 
 Only those who are at least novice magic users may use this item.
 

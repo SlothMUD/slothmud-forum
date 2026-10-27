@@ -22,7 +22,7 @@ has average damage of 17.5
 
 Comparrison: 3.5 damage per hit, 10.5 damage per round with 3 attacks
 
-I thought adding something like max_str might be something more enticing.  Not sure if tri40 axe is worth sacrificing an entire tri40 gear for.  Any thoughts, everyone?
+I thought adding something like max\_str might be something more enticing. Not sure if tri40 axe is worth sacrificing an entire tri40 gear for. Any thoughts, everyone?
 
 </div>
 
@@ -30,11 +30,11 @@ I thought adding something like max_str might be something more enticing.  Not s
 
 A couple of thoughts -
 
-1.  The Axe has dex, so if you need it, its quite a bit better.
+1\. The Axe has dex, so if you need it, its quite a bit better.
 
-2.  Your comparision assumes that the choice is being made by a warrior prime.  Other prime clases might find the axe more useful.  
+2\. Your comparision assumes that the choice is being made by a warrior prime. Other prime clases might find the axe more useful. 
 
-If you really wanted to beef it up, forget about Max_str, add Max_dex in lieu of dex. Of course, that seems unlikely....
+If you really wanted to beef it up, forget about Max\_str, add Max\_dex in lieu of dex. Of course, that seems unlikely....
 
 Xamak
 
@@ -54,6 +54,6 @@ a monk will go weaponless
 
 and seems like tri40 staff works better for everyone else
 
-Even though I think the axe looks snazzy, I guess I won't choose it.  I think I'll go cuirass, spectrolite charm, and mithril sleeves.  Thanks :)
+Even though I think the axe looks snazzy, I guess I won't choose it. I think I'll go cuirass, spectrolite charm, and mithril sleeves. Thanks <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

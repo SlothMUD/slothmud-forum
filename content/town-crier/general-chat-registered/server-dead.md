@@ -16,7 +16,7 @@ Ive been trying to connect for hours!!!!
 
 WHATS GOING ON!!!!
 
-AHHHHHHHH :shock:
+AHHHHHHHH <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -24,7 +24,7 @@ AHHHHHHHH :shock:
 
 Can't get anything by you, huh?
 
-[<LINK_TEXT text="http://www.slothmud.org/index.php?name= ... c&start=60">http://www.slothmud.org/index.php?name=PNphpBB2&file=viewtopic&t=1858&postdays=0&postorder=dec&start=60</LINK_TEXT>](http://www.slothmud.org/index.php?name=PNphpBB2&file=viewtopic&t=1858&postdays=0&postorder=dec&start=60)
+[http://www.slothmud.org/index.php?name=PNphpBB2&file=viewtopic&t=1858&postdays=0&postorder=dec&start=60](http://www.slothmud.org/index.php?name=PNphpBB2&file=viewtopic&t=1858&postdays=0&postorder=dec&start=60)
 
 </div>
 
@@ -32,6 +32,6 @@ Can't get anything by you, huh?
 
 BUT I NEED TO PLAY !!!1
 
-JEEBUS WHY!!!!!! :shock:
+JEEBUS WHY!!!!!! <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>

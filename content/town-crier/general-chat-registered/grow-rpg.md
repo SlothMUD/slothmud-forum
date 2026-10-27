@@ -16,6 +16,6 @@ now this is pretty fun stuff to do while you are in regen or waiting to mort!
 
 [http://www.eyezmaze.com/grow/RPG/index.html](http://www.eyezmaze.com/grow/RPG/index.html)
 
-brand :!:  :twisted:
+brand <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

@@ -16,7 +16,7 @@ I would like to make a couple suggestions.
 
 Wizard's Eye
 
-It's a drach spell, level 36 avatar. Should be cooler. Can it be changed to a summoning spell that creates a small floating eyeball that is the caster's familiar (but with no attacks, no inventory). So cast  'wizards eye' bob , would make a magic floating eyeball appear at bob that the caster could control by typing order familiar scan, order familiar e, etc...
+It's a drach spell, level 36 avatar. Should be cooler. Can it be changed to a summoning spell that creates a small floating eyeball that is the caster's familiar (but with no attacks, no inventory). So cast 'wizards eye' bob , would make a magic floating eyeball appear at bob that the caster could control by typing order familiar scan, order familiar e, etc...
 
 Purloin Aura
 
@@ -28,11 +28,12 @@ Thanks
 
 <div class="post" data-post-id="16510" data-author="13" data-date="2007-01-24T19:27:45+00:00" data-subject="">
 
-[quote:90s37oan]Purloin Aura
-
-A very powerful skill that is counter balanced by the user being outlawed. However, when you're outlawed you can't drop things or store things in a container, which makes gameplay miserable and the skill in turn utterly useless. Perhaps the no-store, no-drop, no-junk proc could be applied to stolen items instead of the outlaw himself. Then only the stolen item couldn't be dropped, or hidden away in a container. After all, that is the point of the proc anyway: to give the victim a chance to recoup his eq. There's no point in blocking the outlaw from storing rations or junk in a container. People would still think twice about using purloin, but at least we wouldn't be cursing the admins' mothers every time they get boarded and are stuck holding their eq in inventory. Do it for your mothers' sakes.
-
-[/quote:90s37oan]
+> <strong>Quote:</strong>
+> Purloin Aura
+> 
+> 
+> 
+> A very powerful skill that is counter balanced by the user being outlawed. However, when you're outlawed you can't drop things or store things in a container, which makes gameplay miserable and the skill in turn utterly useless. Perhaps the no-store, no-drop, no-junk proc could be applied to stolen items instead of the outlaw himself. Then only the stolen item couldn't be dropped, or hidden away in a container. After all, that is the point of the proc anyway: to give the victim a chance to recoup his eq. There's no point in blocking the outlaw from storing rations or junk in a container. People would still think twice about using purloin, but at least we wouldn't be cursing the admins' mothers every time they get boarded and are stuck holding their eq in inventory. Do it for your mothers' sakes.
 
 ^^
 
@@ -40,9 +41,9 @@ A very powerful skill that is counter balanced by the user being outlawed. Howev
 
 <div class="post" data-post-id="16511" data-author="Medios" data-date="2007-01-24T22:06:52+00:00" data-subject="">
 
-Wizards eye is still cool. It helps n00bs and players that dont have an automapper :).
+Wizards eye is still cool. It helps n00bs and players that dont have an automapper <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">.
 
-Purloin aura was severely dampened awhile back, I am not sure as to what was changed but I know very few that use it anymore.  Apparently players were purloining a bunch of spells from mobs and "abusing" it.  People can only abuse the code that allows them to.  I think to fix this just make it where one person can only store up to 3-5 spells.  I wont say that this skill is useless because I can think of stuff to do with it.  However I dont waste my time, I just use dispel magic or draughts/charms :)
+Purloin aura was severely dampened awhile back, I am not sure as to what was changed but I know very few that use it anymore. Apparently players were purloining a bunch of spells from mobs and "abusing" it. People can only abuse the code that allows them to. I think to fix this just make it where one person can only store up to 3-5 spells. I wont say that this skill is useless because I can think of stuff to do with it. However I dont waste my time, I just use dispel magic or draughts/charms <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Mike
 
@@ -64,11 +65,11 @@ I think concentrating on outlaw's effects misses an underlying point:
 
 that purloin making you an outlaw is nonsense to begin with.
 
-  You can spend 5 mana on a 6th level spell and remove nearly
+ You can spend 5 mana on a 6th level spell and remove nearly
 
 all of someone's spells, yet if you take 1 spell by using a
 
-20 avatar skill you get outlawed.  Brilliant!
+20 avatar skill you get outlawed. Brilliant!
 
 </div>
 
@@ -82,7 +83,7 @@ Think about it, it's a skill that allows thieves to borrow spells from outside t
 
 <div class="post" data-post-id="16528" data-author="13" data-date="2007-01-25T13:37:38+00:00" data-subject="">
 
-I agree with Mace that a regular outlaw flag is a bit strong for it.  I personally think it's a mostly-useless skill even if it _didn't_ outlaw you.  I realize Shiv used to just rack up spells, but maybe the way it works could be tinkered a bit.
+I agree with Mace that a regular outlaw flag is a bit strong for it. I personally think it's a mostly-useless skill even if it \_didn't\_ outlaw you. I realize Shiv used to just rack up spells, but maybe the way it works could be tinkered a bit.
 
 </div>
 
@@ -94,35 +95,37 @@ It was very-very useful, when it had smaller chances for outlaw, Aa. :)
 
 <div class="post" data-post-id="16533" data-author="Autolycos" data-date="2007-01-25T18:46:38+00:00" data-subject="">
 
-It was very-very useful, when it had smaller chances for outlaw, Aa. :)[/quote:2foq3hp3]
+> <strong>Krok wrote:</strong>
+> It was very-very useful, when it had smaller chances for outlaw, Aa. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-steal  'ramblings'  krok
+steal 'ramblings' krok
 
 ok.
 
 i'm sorry, you are not drunk enough to preform that action.
 
-wtf?? :shock:
+wtf?? <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="16534" data-author="Weasel" data-date="2007-01-25T19:05:47+00:00" data-subject="">
 
-Remove the outlaw flag, and to combat the powerfulness of it, maybe restrict the spell so it can purloin only one spell at a time until that spell wears off (maybe it does already, I don't have it learned), or maybe if it's so powerful have it so that it can only be used once an hour or something.. just like the warrior 'defy' can only be used once a day (in real time)..  AFAIK when someone is on the outlaw board, they can legally be pkilled and all their eq taken..
+Remove the outlaw flag, and to combat the powerfulness of it, maybe restrict the spell so it can purloin only one spell at a time until that spell wears off (maybe it does already, I don't have it learned), or maybe if it's so powerful have it so that it can only be used once an hour or something.. just like the warrior 'defy' can only be used once a day (in real time).. AFAIK when someone is on the outlaw board, they can legally be pkilled and all their eq taken..
 
 </div>
 
 <div class="post" data-post-id="16535" data-author="Autolycos" data-date="2007-01-25T19:29:01+00:00" data-subject="">
 
-AFAIK when someone is on the outlaw board, they can legally be pkilled and all their eq taken..[/quote:3qm9fjf6]
+> <strong>Weasel wrote:</strong>
+> AFAIK when someone is on the outlaw board, they can legally be pkilled and all their eq taken..
 
-yeah..  i'm still sorry about doing that weasel... 
+yeah.. i'm still sorry about doing that weasel... 
 
 if you promise to not steal my infravision again..
 
-i'll given back your ice dagger & marble helm. 
+i'll given back your ice dagger \& marble helm. 
 
- :evil:
+ <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -130,8 +133,8 @@ i'll given back your ice dagger & marble helm.
 
 bastard! you know how long it took me to get that helm??? 2 whole minutes! bastard! 
 
- :twisted: 
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-I don't need your stinking infravision anyway  :P
+I don't need your stinking infravision anyway <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>

@@ -12,7 +12,7 @@ post_count: 7
 
 <div class="post" data-post-id="32605" data-author="Tigris" data-date="2011-05-12T17:15:29+00:00" data-subject="Succor Spell">
 
-I Did not  want to post this in the other thread as it seems to have moved more towards the he said she said rather than the spell itself. Anyway not sure if it was intentional or not but scrolls don't seem to rot in a golden sack... not sure if its in containers in general but at least in my sack they haven't rotted and I have been logged in for hours. If its intentional it seems like a easy solution to me if its not well 8( it would of gotten out eventually anyway.
+I Did not want to post this in the other thread as it seems to have moved more towards the he said she said rather than the spell itself. Anyway not sure if it was intentional or not but scrolls don't seem to rot in a golden sack... not sure if its in containers in general but at least in my sack they haven't rotted and I have been logged in for hours. If its intentional it seems like a easy solution to me if its not well 8( it would of gotten out eventually anyway.
 
 </div>
 
@@ -28,7 +28,7 @@ its another reason i was amused/annoyed that people kept complaining to me about
 
 <div class="post" data-post-id="32611" data-author="Shyla" data-date="2011-05-13T01:51:25+00:00" data-subject="Re: Succor Spell">
 
-please tell me they are still looking into fixxing it because leaving them in sack so they don't crumble isn't  a good solution. I can't just recite recall real quick like to keep from dying with them in my sack so really doesn't serve much of a good purpose.  and buying recall scrolls wasn't great before succor but it is aweful now b/c you have to pay 10k for a real recall scroll and if you forget and buy recall you will get minor which will kill you if you are over level b/c you are too big for it. if you want to keep succor messed up then please go back to one scroll for all for 2k each. 
+please tell me they are still looking into fixxing it because leaving them in sack so they don't crumble isn't a good solution. I can't just recite recall real quick like to keep from dying with them in my sack so really doesn't serve much of a good purpose. and buying recall scrolls wasn't great before succor but it is aweful now b/c you have to pay 10k for a real recall scroll and if you forget and buy recall you will get minor which will kill you if you are over level b/c you are too big for it. if you want to keep succor messed up then please go back to one scroll for all for 2k each. 
 
 Thankyou 
 
@@ -50,14 +50,14 @@ Thanks in advance.
 
 <div class="post" data-post-id="32614" data-author="Tigris" data-date="2011-05-13T06:06:10+00:00" data-subject="Re: Succor Spell">
 
-#alias {rr} {get recall golden-sack;recite recall}
+\#alias {rr} {get recall golden-sack;recite recall}
 
 </div>
 
 <div class="post" data-post-id="32615" data-author="Tuck" data-date="2011-05-13T06:10:00+00:00" data-subject="Re: Succor Spell">
 
-> **Tigris wrote:**
-> #alias {rr} {get recall golden-sack;recite recall}
+> <strong>Tigris wrote:</strong>
+> \#alias {rr} {get recall golden-sack;recite recall}
 
 this alias is fail considering old alias - 'recite recall'. in some cases new alias will fail, sniff
 
@@ -65,6 +65,6 @@ this alias is fail considering old alias - 'recite recall'. in some cases new al
 
 <div class="post" data-post-id="32618" data-author="Tigris" data-date="2011-05-14T06:27:35+00:00" data-subject="Re: Succor Spell">
 
-Assuming you do have a recall scroll in the sack..... I've yet to have it fail .... i.e. getting recall from sack and then getting hit before i have a chance to recite it. I'm not saying it isn't possible just that it is very unlikely.  Nothings perfect just offering a solution.
+Assuming you do have a recall scroll in the sack..... I've yet to have it fail .... i.e. getting recall from sack and then getting hit before i have a chance to recite it. I'm not saying it isn't possible just that it is very unlikely. Nothings perfect just offering a solution.
 
 </div>

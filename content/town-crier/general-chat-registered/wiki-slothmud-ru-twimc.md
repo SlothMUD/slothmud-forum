@@ -24,7 +24,7 @@ p.s. enjoy, nah!
 
 <div class="post" data-post-id="7714" data-author="kjartan" data-date="2005-07-01T12:09:19+00:00" data-subject="">
 
-I think it's an open proxy.  There are at least some proxies with the same first three numbers.
+I think it's an open proxy. There are at least some proxies with the same first three numbers.
 
 </div>
 

@@ -18,33 +18,33 @@ we are looking for msdp fixed/advances. Let's collect them and bug imms to imple
 
 First of all, msdp help file is not up to date, as i can see. Please update it.
 
-**Bugs**:
+<strong>Bugs</strong>:
 
-1a. WEAPON_DAM is frozen, i have it 19, not matter what i use or naked, we also need WEAPON_DAM_CAP.
+1a. WEAPON\_DAM is frozen, i have it 19, not matter what i use or naked, we also need WEAPON\_DAM\_CAP.
 
-1b. WORLD_TIME is permanent 0.
+1b. WORLD\_TIME is permanent 0.
 
-1c. My SPELL_BONUS_CAP is 137, if i get moar spellbonus than cap, it's reset to negative value (i reported it long ago).
+1c. My SPELL\_BONUS\_CAP is 137, if i get moar spellbonus than cap, it's reset to negative value (i reported it long ago).
 
 1d. Msdp do not work at all while shifted.
 
-1e. ROOM_EXITS separated by strange symbols, please fix it
+1e. ROOM\_EXITS separated by strange symbols, please fix it
 
-**Suggestions/needs**:
+<strong>Suggestions/needs</strong>:
 
-2a. We deadly need msdp variable for SPELLSAVES/SPELLSAVES_CAP.
+2a. We deadly need msdp variable for SPELLSAVES/SPELLSAVES\_CAP.
 
 2b. Var that display active spells on players, including buffs/debuffs.
 
 2c. Var with value of room type: inside/outside. There is var TERRAIN, but it's no use, as i can see.
 
-2d. Var to display AC_CAP.
+2d. Var to display AC\_CAP.
 
 2e. Vars to display str/int/wis/dex/con CAPs.
 
 2f. Maybe implement Var to display group members names/their hps/their mana/their mvs (submited by Vasu). List, separated by commas will be cool.
 
-MSDP var list (**please let me know if it is incomplete**):
+MSDP var list (<strong>please let me know if it is incomplete</strong>):
 
 ```
 CHARACTER_NAME
@@ -135,22 +135,22 @@ your tukster.
 
 <div class="post" data-post-id="34488" data-author="Tuck" data-date="2013-10-11T21:32:25+00:00" data-subject="Re: MSDP: bugs, suggestions, requests.">
 
-Thanks Akaya for pointing me to @MSDP.ROOM_EXITS unofficial variable :)
+Thanks Akaya for pointing me to @MSDP.ROOM\_EXITS unofficial variable <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="34490" data-author="*Splork*" data-date="2013-10-12T00:50:52+00:00" data-subject="Re: MSDP: bugs, suggestions, requests.">
 
-The room_exits odd character is actually not a bug but we should probably try to replace it with a comma or something else.
+The room\_exits odd character is actually not a bug but we should probably try to replace it with a comma or something else.
 
 </div>
 
 <div class="post" data-post-id="34491" data-author="Tuck" data-date="2013-10-12T01:21:48+00:00" data-subject="Re: MSDP: bugs, suggestions, requests.">
 
-> ***Splork* wrote:**
-> The room_exits odd character is actually not a bug but we should probably try to replace it with a comma or something else.
+> <strong>\*Splork\* wrote:</strong>
+> The room\_exits odd character is actually not a bug but we should probably try to replace it with a comma or something else.
 
-i wrote parser for it already :P
+i wrote parser for it already <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 what about other things, rickster?
 
@@ -170,21 +170,21 @@ thank you, thank you, thank you
 
 <div class="post" data-post-id="34507" data-author="dimiric" data-date="2013-10-23T15:23:35+00:00" data-subject="Re: MSDP: bugs, suggestions, requests.">
 
-I second these requests!  ;-)  as you can see from my other post.
+I second these requests! <img src="/images/smilies/icon_e_wink.svg" alt=";-)" title=";-)" width="15" height="15" class="smiley nozoom"> as you can see from my other post.
 
 Ones I'd like to see:
 
-- better spell Affects variable
+\- better spell Affects variable
 
-- wholist (with titles, levels, etc)
+\- wholist (with titles, levels, etc)
 
-- wholist to show local people and locations
+\- wholist to show local people and locations
 
-- inventory
+\- inventory
 
-- worn.all, worn.<slot> for equipment
+\- worn.all, worn.\<slot\> for equipment
 
-- saving throws?
+\- saving throws?
 
 I'd also like to get something working with the mapper in mudlet, but I haven't had time to even start researching this so I have no idea if it exists already or is impossible.
 
@@ -192,24 +192,24 @@ I'd also like to get something working with the mapper in mudlet, but I haven't 
 
 <div class="post" data-post-id="34514" data-author="Tuck" data-date="2013-10-25T15:36:52+00:00" data-subject="Re: MSDP: bugs, suggestions, requests.">
 
-> **dimiric wrote:**
-> I second these requests!  ;-)  as you can see from my other post.
+> <strong>dimiric wrote:</strong>
+> I second these requests! <img src="/images/smilies/icon_e_wink.svg" alt=";-)" title=";-)" width="15" height="15" class="smiley nozoom"> as you can see from my other post.
 > 
 > 
 > 
 > Ones I'd like to see:
 > 
-> - better spell Affects variable
+> \- better spell Affects variable
 > 
-> - wholist (with titles, levels, etc)
+> \- wholist (with titles, levels, etc)
 > 
-> - wholist to show local people and locations
+> \- wholist to show local people and locations
 > 
-> - inventory
+> \- inventory
 > 
-> - worn.all, worn.<slot> for equipment
+> \- worn.all, worn.\<slot\> for equipment
 > 
-> - saving throws?
+> \- saving throws?
 > 
 > 
 > 
@@ -237,8 +237,8 @@ Would be very good additional for group healers and leaders. I'd love to see bas
 
 It is posible to request group command each turn for that purpose, and even gag it after, but thats quite spammy anyway.
 
-Also, there is kinda bug with Stats_perm values while in form. Some of them(at least checked for dex), shows value increased by 1. Though no items +stats could raise it to that max. Or better fix forms with that values  :lol: 
+Also, there is kinda bug with Stats\_perm values while in form. Some of them(at least checked for dex), shows value increased by 1. Though no items +stats could raise it to that max. Or better fix forms with that values <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> 
 
-Stats like weapon_dam,spell_bonus etc kinda not working with forms as well.
+Stats like weapon\_dam,spell\_bonus etc kinda not working with forms as well.
 
 </div>

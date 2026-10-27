@@ -20,25 +20,25 @@ see poll
 
 I think we should stage the first industrial action sloth has ever seen, and page the gods with a simple exclamation mark (!) when it happens, as a sign of protest. It's totally ridiculous. It was not this bad when I first played, and it was not this bad when I came back again for the first few months.
 
-Who changed it? Come on... out you come... fess up! :twisted:
+Who changed it? Come on... out you come... fess up! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23911" data-author="Kerri" data-date="2008-04-22T14:36:06+00:00" data-subject="">
 
-I took a break from mudding for a few months due to baby Kai, and I'm definitely getting more lost concentrations.  Theca's mana gets owned when I cast spells or try to heal with her.
+I took a break from mudding for a few months due to baby Kai, and I'm definitely getting more lost concentrations. Theca's mana gets owned when I cast spells or try to heal with her.
 
 </div>
 
 <div class="post" data-post-id="23912" data-author="Vixn" data-date="2008-04-22T16:18:48+00:00" data-subject="">
 
------>> !  <<------
+\-----\>\> ! \<\<------
 
 </div>
 
 <div class="post" data-post-id="23913" data-author="Weasel" data-date="2008-04-22T16:21:09+00:00" data-subject="">
 
-I blame Clink.    and Dot.    it's all their fault.
+I blame Clink. and Dot. it's all their fault.
 
 </div>
 
@@ -54,7 +54,7 @@ Anyone done any stat gathering on lost conc rates recently?
 
 <div class="post" data-post-id="23917" data-author="Toxis" data-date="2008-04-22T18:55:40+00:00" data-subject="">
 
-I don't want to step over any boundries posting, as I am an immortal.  I do not know anything of the code, nor any imm info on this subject.  But last night I was in a group and this happened:
+I don't want to step over any boundries posting, as I am an immortal. I do not know anything of the code, nor any imm info on this subject. But last night I was in a group and this happened:
 
 (spells were cast one after another)
 
@@ -72,13 +72,14 @@ heal tank: lost conc
 
 heal tank: healed tank
 
-Patern?  Bug in the code?
+Patern? Bug in the code?
 
 </div>
 
 <div class="post" data-post-id="23923" data-author="jezer" data-date="2008-04-22T23:39:21+00:00" data-subject="">
 
-[quote:2r0pzyi8]I could tell you, but I'd have to kill you.  0% 	 0%  	[ 0 ][/quote:2r0pzyi8]
+> <strong>Quote:</strong>
+> I could tell you, but I'd have to kill you. 0% 0% [ 0 ]
 
 Looks like Blaster hasn't voted yet...
 
@@ -94,7 +95,7 @@ no statistical data to back this up, but I appear to lose concentration at least
 
 I think someone wanted to compensate for all those people with greater concentration skill and teaching spells which leads to lower % of lost conc.
 
-Its like giving thieves 3xstab, but then lowering the damage of the first 2 stabs. :idea: 
+Its like giving thieves 3xstab, but then lowering the damage of the first 2 stabs. <img src="/images/smilies/icon_idea.svg" alt=":idea:" title=":idea:" width="15" height="15" class="smiley nozoom"> 
 
 But that leads to people who do not have 3xstab to whine even more. False politics i say.
 
@@ -114,7 +115,8 @@ The problem though, is the slothmud coder in the mood to change any of the syste
 
 <div class="post" data-post-id="23960" data-author="Vixn" data-date="2008-04-23T18:22:16+00:00" data-subject="">
 
-If a dice roll is 1d3 - you HAVE TO pop the item once if you kill the mob 3 times.[/quote:382t0bbw]
+> <strong>Dragoth wrote:</strong>
+> If a dice roll is 1d3 - you HAVE TO pop the item once if you kill the mob 3 times.
 
 Nope, you're wrong. If a dice roll is 1d3 you will just have a 33.33% chance to pop item for each kill. 
 
@@ -126,9 +128,9 @@ Another example - a dice has 6 sides. Don't you think if you roll it 6 times you
 
 there was a pretty good discussion about that type of probability problem here
 
-[url:r5uhqznk]http://tierneylab.blogs.nytimes.com/2008/04/09/monty-halls-other-problems/[/url:r5uhqznk]
+http://tierneylab.blogs.nytimes.com/2008/04/09/monty-halls-other-problems/
 
-it's an old debate, but vixen is right.  A 1/3 chance means exactly that - not it will happen 1 time in every 3, but that you have a 33% chance every time.
+it's an old debate, but vixen is right. A 1/3 chance means exactly that - not it will happen 1 time in every 3, but that you have a 33% chance every time.
 
 </div>
 
@@ -148,21 +150,21 @@ I had never seen the monty hall problem before. I still didn't believe it until 
 
 I've been playing with this:
 
-#var totalspells 0 
+\#var totalspells 0 
 
-#var lostcon 0
+\#var lostcon 0
 
-#alias cas {cast %0;#math totalspells {$totalspells+1}} {g|concentration}
+\#alias cas {cast %0;#math totalspells {$totalspells+1}} {g\|concentration}
 
-#ac {^You lost your concentration!}{#math lostcon {$lostcon+1};conc}{g|concentration}
+\#ac {^You lost your concentration!}{#math lostcon {$lostcon+1};conc}{g\|concentration}
 
-#ac {^You can't summon enough}{#math totalspells {$totalspells-1}}{g|concentration}
+\#ac {^You can't summon enough}{#math totalspells {$totalspells-1}}{g\|concentration}
 
-#al conc {#math lostconrate {$lostcon*100/$totalspells};{#showme My lost concentration rate is $lostconrate percent.}}
+\#al conc {#math lostconrate {$lostcon\*100/$totalspells};{#showme My lost concentration rate is $lostconrate percent.}}
 
-#al conreset {#showme Lost concentration tracker reset.;#var totalspells 0;#var lostcon 0}
+\#al conreset {#showme Lost concentration tracker reset.;#var totalspells 0;#var lostcon 0}
 
-#al clink {#math lostcon {$lostcon-1}}
+\#al clink {#math lostcon {$lostcon-1}}
 
 After playing with this a bit, I'm starting to suspect that lost conc rate is much greater when you're engaged in combat, but it could just be my small data set. I'd like to see what other people come up when they track their lost conc.
 
@@ -176,28 +178,29 @@ The clink command at bottom is to compensate for Clink's echos and bamfin.
 
 Some skills used in battle do reduce concentration but these have done so since they were added (years ago) so it doesn't apply to any "recent changes".
 
-This thread got me to look through the code in detail and I found no recent changes that affect concentration.  The most recent ones were some time ago and they actually made concentration better in certain scenarios.
+This thread got me to look through the code in detail and I found no recent changes that affect concentration. The most recent ones were some time ago and they actually made concentration better in certain scenarios.
 
 Note that complains about lost conc getting worse really isn't a new debate though, it comes around every couple years.
 
-It does seem that the random number generator is a bit on the "streaky" side though.  I've seen this by just watching players random for items.  You might get a 98 and a 99 right next to each other.
+It does seem that the random number generator is a bit on the "streaky" side though. I've seen this by just watching players random for items. You might get a 98 and a 99 right next to each other.
 
 </div>
 
 <div class="post" data-post-id="24020" data-author="*juggleblood*" data-date="2008-04-24T20:54:08+00:00" data-subject="">
 
-Thanks for the peace of mind.  :D
+Thanks for the peace of mind. <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="24025" data-author="Clink" data-date="2008-04-25T01:18:55+00:00" data-subject="">
 
-The clink command at bottom is to compensate for Clink's echos and bamfin.[/quote:2e7t73g1]
+> <strong>juggleblood wrote:</strong>
+> The clink command at bottom is to compensate for Clink's echos and bamfin.
 
-Very nice touch. :D
+Very nice touch. <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
-As Jake said, arguments often come up about lost concentration creep up every once in a while.  They often lead to statements that the random number generator is broken.  It is functioning as designed by people who had nothing to do with coding a mud.
+As Jake said, arguments often come up about lost concentration creep up every once in a while. They often lead to statements that the random number generator is broken. It is functioning as designed by people who had nothing to do with coding a mud.
 
-Here is a link to my post on the random number generator[/url:2e7t73g1] from a year ago or so.
+Here is a link to my post on the [random number generator](http://slothmudiii.blogspot.com/2007_07_01_archive.html:2e7t73g1) from a year ago or so.
 
 </div>

@@ -16,7 +16,7 @@ If an item is on the ground, its a spellbook, and you have mxpitems toggled on; 
 
 Thanks to Bit for the suggestion.
 
-I am debating adding this to shops also...If  I get enough requests I will...
+I am debating adding this to shops also...If I get enough requests I will...
 
 Enjoy,
 

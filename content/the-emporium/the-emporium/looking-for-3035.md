@@ -38,7 +38,7 @@ Ready to pay for:
 
 or trade for Gray Gemstone Shard (heal bonus) + coins or on forge cps
 
-4 Scales of Sandworm, not sure how much :)
+4 Scales of Sandworm, not sure how much <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 If u got any of this list and wanna sell it, catch me online for discuss cost.
 
@@ -56,6 +56,6 @@ Bazilus the Crazy Python
 
 <div class="post" data-post-id="28138" data-author="jezer" data-date="2009-02-15T23:06:17+00:00" data-subject="">
 
-Gratz on scoring the gauntlets Baz... I think your incredibly resourceful/lucky to pull that one off. I'd love to know whose got equipment like that to trade... ooh, unless it was Chi looting Bomb again  :twisted:
+Gratz on scoring the gauntlets Baz... I think your incredibly resourceful/lucky to pull that one off. I'd love to know whose got equipment like that to trade... ooh, unless it was Chi looting Bomb again <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

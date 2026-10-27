@@ -14,7 +14,8 @@ post_count: 10
 
 And the award for Most Ironic Gossip Ever goes to Al!
 
-[quote:1y139ty7]Starbuck gossips-- 'be nice'[/quote:1y139ty7]
+> <strong>Quote:</strong>
+> Starbuck gossips-- 'be nice'
 
 </div>
 
@@ -30,7 +31,8 @@ where's my trophy
 
 Right here:
 
-[quote:14ee6gmd][40d 40m 35n 19b] Keirin <3 Starbuck[/quote:14ee6gmd]
+> <strong>Quote:</strong>
+> [40d 40m 35n 19b] Keirin \<3 Starbuck
 
 </div>
 
@@ -42,7 +44,7 @@ you ass
 
 <div class="post" data-post-id="16641" data-author="Autolycos" data-date="2007-02-05T04:26:05+00:00" data-subject="WOW!  a 2084hp head chop!!">
 
-<1024hp 155ma 263mv>
+\<1024hp 155ma 263mv\>
 
 Van swings his weapon, accidentally cutting your head off!
 
@@ -50,25 +52,32 @@ You are no longer being protected.
 
 You have been KILLED!! 
 
-<-1060hp 156ma 265mv>
+\<-1060hp 156ma 265mv\>
 
-Now thats a CHOP!!!! :twisted:
+Now thats a CHOP!!!! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="16643" data-author="banedon" data-date="2007-02-05T07:00:28+00:00" data-subject="Re: WOW!  a 2084hp head chop!!">
 
-<1024hp 155ma 263mv>
-
-Van swings his weapon, accidentally cutting your head off!
-
-You are no longer being protected.
-
-You have been KILLED!! 
-
-<-1060hp 156ma 265mv>
-
-Now thats a CHOP!!!! :twisted:[/quote:gmc5ub65]
+> <strong>Autolycos wrote:</strong>
+> \<1024hp 155ma 263mv\>
+> 
+> 
+> 
+> Van swings his weapon, accidentally cutting your head off!
+> 
+> You are no longer being protected.
+> 
+> You have been KILLED!! 
+> 
+> 
+> 
+> \<-1060hp 156ma 265mv\>
+> 
+> 
+> 
+> Now thats a CHOP!!!! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 SOMEONE TEST THAT CHARACTER FOR STEROIDS!!!!!!!!
 
@@ -78,27 +87,31 @@ banedon
 
 <div class="post" data-post-id="16644" data-author="Autolycos" data-date="2007-02-05T13:42:23+00:00" data-subject="Re: WOW!  a 2084hp head chop!!">
 
-SOMEONE TEST THAT CHARACTER FOR STEROIDS!!!!!!!!
+> <strong>banedon wrote:</strong>
+> SOMEONE TEST THAT CHARACTER FOR STEROIDS!!!!!!!!
+> 
+> banedon
 
-banedon[/quote:1uuiz4cz]
+laugh! I was more impressed that Van could even land a chop!!!!
 
-laugh!   I was more impressed that Van could even land a chop!!!!
-
-next time.. let's try the mob mmkay?  :twisted:
+next time.. let's try the mob mmkay? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="16652" data-author="van" data-date="2007-02-06T02:52:24+00:00" data-subject="Re: WOW!  a 2084hp head chop!!">
 
-[quote:j5et2hb2]laugh!   I was more impressed that Van could even land a chop!!!!
-
-next time.. let's try the mob mmkay?  :twisted:[/quote:j5et2hb2]
+> <strong>Quote:</strong>
+> laugh! I was more impressed that Van could even land a chop!!!!
+> 
+> 
+> 
+> next time.. let's try the mob mmkay? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 My Autolycos chop count is up to 4 after today!
 
 On the other hand, he chopped himself 3 times too...
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

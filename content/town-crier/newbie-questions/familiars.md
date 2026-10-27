@@ -16,9 +16,9 @@ Is it worth it to get a familiar?
 
 What benefit do they provide?
 
-What commands do they respond to?  Example?
+What commands do they respond to? Example?
 
-What are some of the more common choices?  I know where I can find an owl, lizard, ferret, cat, and many varieties of different rats.
+What are some of the more common choices? I know where I can find an owl, lizard, ferret, cat, and many varieties of different rats.
 
 Thanks!
 
@@ -26,7 +26,7 @@ Thanks!
 
 <div class="post" data-post-id="31266" data-author="blackmore" data-date="2010-06-01T23:40:06+00:00" data-subject="Re: familiars">
 
-There isn't a lot of value to familiars anymore.  The most common uses for them was to run to areas that are dangerous to reach, and to retrieve your corpse after you died.  However, with the characters expanded to all 8 classes, and ferret mode being a low level druid form, that form can accomplish both functions much more easily.
+There isn't a lot of value to familiars anymore. The most common uses for them was to run to areas that are dangerous to reach, and to retrieve your corpse after you died. However, with the characters expanded to all 8 classes, and ferret mode being a low level druid form, that form can accomplish both functions much more easily.
 
 </div>
 
@@ -46,7 +46,7 @@ Familiars will also carve corpse, get corpse, look mob, duration of them is leve
 
 <div class="post" data-post-id="31271" data-author="Thraxas" data-date="2010-06-02T15:33:20+00:00" data-subject="Re: familiars">
 
-> **Stab wrote:**
+> <strong>Stab wrote:</strong>
 > In agreement with other posts. Order familiar by it's name in the same room ie. order bird rest, enter portal, etc. When not at the same location, order 'familiar' stand, enter portal, also like a mini robot, you can navigate it past aggros and through danger then gate to it.
 > 
 > Familiars will also carve corpse, get corpse, look mob, duration of them is level dependant I believe.
@@ -59,7 +59,7 @@ T
 
 <div class="post" data-post-id="31284" data-author="jezer" data-date="2010-06-06T22:20:42+00:00" data-subject="Re: familiars">
 
-> **Thraxas wrote:**
+> <strong>Thraxas wrote:</strong>
 > you die as ferret you're dead
 
 Man, nothing escapes Thraxas.

@@ -16,27 +16,25 @@ At the time of this post is written there's one nice item at live auctions - eme
 
 	an emerald gem of perfection
 
-   .. may be picked up off the ground
+ .. may be picked up off the ground
 
-   .. may be held
+ .. may be held
 
-   .. imbue's the user with +10 Heal Bonus
+ .. imbue's the user with +10 Heal Bonus
 
-   .. imbue's the user with +4 Regen Mana
+ .. imbue's the user with +4 Regen Mana
 
-   .. is Magical
+ .. is Magical
 
-   .. is Restricted to	 Cleric = 40
+ .. is Restricted to Cleric = 40
 
-   .. may be used as a light
+ .. may be used as a light
 
-   .. has a Weight of 2
+ .. has a Weight of 2
 
 Mother Ronnie in The Moon Temple (BH) [MAP]
 
- 
-
- 	Keywords: emerald-gem-perfection
+ Keywords: emerald-gem-perfection
 
 Any experienced player will find it is quite doubtfully that such great item could be used by anyone who has Cleric = 40. And if we search for that item either in the offical or Fluffy's eqlist, it'll be also revealed that the item is restricted for 6x40. Which is not revealed when going to eqlist from live auctions. Which could lead to someone losing 6m without being able to wear the purchased item. Probably a bug.
 

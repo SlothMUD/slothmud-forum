@@ -16,6 +16,6 @@ Stabdam has been capped and added to score stats...
 
 Enjoy,
 
-Splork :twisted:
+Splork <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

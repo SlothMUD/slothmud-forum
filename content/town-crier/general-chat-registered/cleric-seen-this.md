@@ -12,7 +12,7 @@ post_count: 12
 
 <div class="post" data-post-id="12840" data-author="Weasel" data-date="2006-06-02T01:03:59+00:00" data-subject="Cleric seen this?">
 
-1) Dark mace has been improved. The weapon will now grow with the cleric prime.
+1\) Dark mace has been improved. The weapon will now grow with the cleric prime.
 
  1x40 3d6 2 mr 2 hitroll proc
 
@@ -24,7 +24,7 @@ post_count: 12
 
 5x40 to be announced at a later date:) 
 
-You should be very happy with that - Gawd only knows what the 5x40 level Cleric will get. Grats :)
+You should be very happy with that - Gawd only knows what the 5x40 level Cleric will get. Grats <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -46,9 +46,9 @@ now thats what I call 'defending the faith'!
 
 Shazuko Roku Ryuu
 
-<Shazuko Six Dragons>
+\<Shazuko Six Dragons\>
 
-<~Chaos~>
+\<\~Chaos\~\>
 
 </div>
 
@@ -62,7 +62,7 @@ That the only change is the +hit and +mr, and maybe 5x40 = 3d7
 
 <div class="post" data-post-id="12878" data-author="13" data-date="2006-06-04T02:29:58+00:00" data-subject="">
 
-Cool change there.  I dig :)
+Cool change there. I dig <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -74,7 +74,7 @@ Actually I believe he means as he posted but they are all +3 hitroll instead of 
 
 <div class="post" data-post-id="12882" data-author="Leaf" data-date="2006-06-04T13:39:28+00:00" data-subject="">
 
-Well Weasel said at 2x40 the mace is 3d7.  I tested this out and low tard
+Well Weasel said at 2x40 the mace is 3d7. I tested this out and low tard
 
 Mace was still 3d6.
 
@@ -100,21 +100,21 @@ Thanks Splork
 
 JUNE 1
 
-1) Dark mace has been improved. The weapon will now grow with the cleric prime.
+1\) Dark mace has been improved. The weapon will now grow with the cleric prime.
 
-  1x40 3d6 2 mr 2 hitroll proc
+ 1x40 3d6 2 mr 2 hitroll proc
 
-  2x40 3d6 2 mr 3 hitroll proc
+ 2x40 3d6 2 mr 3 hitroll proc
 
-  3x40 3d6 2 mr 3 hitroll proc and hits ethereal
+ 3x40 3d6 2 mr 3 hitroll proc and hits ethereal
 
-  4x40 3d6 3 mr 3 hitroll proc and hits ethereal
+ 4x40 3d6 3 mr 3 hitroll proc and hits ethereal
 
-  5x40 to be announced at a later date:)
+ 5x40 to be announced at a later date:)
 
 2)Circle has been reduced to 5 moves per
 
-3) MXP variable continent added
+3\) MXP variable continent added
 
 </div>
 
@@ -126,6 +126,6 @@ oops sorry, amended
 
 <div class="post" data-post-id="12932" data-author="Choong" data-date="2006-06-09T05:49:04+00:00" data-subject="">
 
-If its not too much, could we have the mace crumble message shown while sleeping. Else the kobolds keep catching me bare handed  :P
+If its not too much, could we have the mace crumble message shown while sleeping. Else the kobolds keep catching me bare handed <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>

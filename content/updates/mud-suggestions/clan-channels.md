@@ -14,13 +14,13 @@ post_count: 8
 
 clan channels need to show joiners/leavers please
 
-"which way did he go george?  which way did he go?"  --abominable snowman on bugs bunny & road runner show
+"which way did he go george? which way did he go?" --abominable snowman on bugs bunny \& road runner show
 
 </div>
 
 <div class="post" data-post-id="16235" data-author="Autolycos" data-date="2007-01-12T21:09:16+00:00" data-subject="">
 
-why?  there is only 2 of you anyway
+why? there is only 2 of you anyway
 
 </div>
 
@@ -32,9 +32,9 @@ because perhaps -other- clans are interested in seeing join/leave messages as we
 
 <div class="post" data-post-id="16249" data-author="Autolycos" data-date="2007-01-13T21:33:12+00:00" data-subject="">
 
-there are other clans????  :shock: 
+there are other clans???? <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
-surely you jest  :twisted:
+surely you jest <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -42,7 +42,7 @@ surely you jest  :twisted:
 
 there can be only one...
 
-[img:jxf7xxje]http://content.answers.com/main/content/wp/en/thumb/8/89/150px-Highlander.jpg[/img:jxf7xxje]
+![](http://content.answers.com/main/content/wp/en/thumb/8/89/150px-Highlander.jpg)
 
 </div>
 
@@ -64,15 +64,15 @@ chuckle
 
 To all things...there IS a season.
 
-<BLASTARD>
+\<BLASTARD\>
 
 Master of Clans
 
 Bringer of Storms
 
-THE Avatar of <~CHAOS~>
+THE Avatar of \<\~CHAOS\~\>
 
-___
+\_\_\_
 
 I'd rather be first into HELL, than second into heaven
 

@@ -14,17 +14,17 @@ post_count: 4
 
 Need:
 
--fang of dire wolf
+\-fang of dire wolf
 
--wing of gargoyle
+\-wing of gargoyle
 
--piece of green cloth
+\-piece of green cloth
 
--sorcerer's sand
+\-sorcerer's sand
 
--sliver of darkness
+\-sliver of darkness
 
--golden pentagram
+\-golden pentagram
 
 Paying well.
 
@@ -48,7 +48,7 @@ update:
 
 need:
 
--sliver of darkness
+\-sliver of darkness
 
 Payin 2M.
 

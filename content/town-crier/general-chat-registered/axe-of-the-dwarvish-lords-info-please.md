@@ -12,23 +12,23 @@ post_count: 7
 
 <div class="post" data-post-id="24590" data-author="Sheng" data-date="2008-05-29T13:51:43+00:00" data-subject="Axe of the Dwarvish Lords - info please">
 
-Axe of the Dwarvish Lords -  5d6, +5 Hit, +1 Dex  
+Axe of the Dwarvish Lords - 5d6, +5 Hit, +1 Dex 
 
 Not a bad looking piece of eq, and my choice for my soon-to-be 3x40... or is it?
 
-[u:1kqh6jyv]Question for players: [/u:1kqh6jyv]
+Question for players: 
 
-This axe was observed 'cleaving' yesterday.  Does that mean that it is unable to: 
+This axe was observed 'cleaving' yesterday. Does that mean that it is unable to: 
 
-1. riposte
+1\. riposte
 
-2. deathblow
+2\. deathblow
 
-3. broadside
+3\. broadside
 
-[u:1kqh6jyv]Question for Krom and Co.:[/u:1kqh6jyv]
+Question for Krom and Co.:
 
-If so, can it be changed to slashing so that it's a legitimate choice for warrior-types?  It wouldn't be breaking any precedents; there are other axes that slash.
+If so, can it be changed to slashing so that it's a legitimate choice for warrior-types? It wouldn't be breaking any precedents; there are other axes that slash.
 
 </div>
 
@@ -46,7 +46,7 @@ Does that mean it will critical hit now also?
 
 <div class="post" data-post-id="24609" data-author="Sheng" data-date="2008-05-30T13:50:40+00:00" data-subject="">
 
-Critical hit is any weapon... or at least any nostab weapon.  Yeah, it crits.
+Critical hit is any weapon... or at least any nostab weapon. Yeah, it crits.
 
 </div>
 
@@ -60,13 +60,14 @@ stab weapons get crit hits
 
 why not add cleaving weapons to the deathblow, riposte, and broadside list?
 
-"i can do it.  i can do it.  it's just like falling off a log.  a thirty-story log.  damn"  -lieutenant mike harrigan -->  predator 2
+"i can do it. i can do it. it's just like falling off a log. a thirty-story log. damn" -lieutenant mike harrigan --\> predator 2
 
 </div>
 
 <div class="post" data-post-id="24614" data-author="Weasel" data-date="2008-05-30T14:38:15+00:00" data-subject="">
 
-why not add cleaving weapons to the deathblow, riposte, and broadside list?[/quote:oa4d33ti]
+> <strong>firebrand wrote:</strong>
+> why not add cleaving weapons to the deathblow, riposte, and broadside list?
 
 Because that would be doing something helpful to warriors, and we can't have that happening! Remember, warrior skills are not intended to benefit warrior primes.
 

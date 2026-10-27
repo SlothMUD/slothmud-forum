@@ -42,6 +42,6 @@ Remember the Matrix has you and stuff..
 
 I wasn't offered any pills...
 
-Although... hmmmm... all those viagra pills and stuff I keep getting in my mailbox... maybe that is them!     :shock:
+Although... hmmmm... all those viagra pills and stuff I keep getting in my mailbox... maybe that is them! <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>

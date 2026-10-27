@@ -14,21 +14,21 @@ post_count: 16
 
 The rank command should show correct information now.
 
-Some skills couldn't be used on mobs with > 100% hit points.  They can now.
+Some skills couldn't be used on mobs with \> 100% hit points. They can now.
 
-Sending a message when dispel good/evil are blocked by mindbar.  I didn't realize this happens but if you have mindbar up you can't have these spells cast on yourself.
+Sending a message when dispel good/evil are blocked by mindbar. I didn't realize this happens but if you have mindbar up you can't have these spells cast on yourself.
 
-I rewrote the practice command to show the classes based on your class order and to exclude classes where nothing matches.  This should compact the display a bit for people who keep up on their spell books.
+I rewrote the practice command to show the classes based on your class order and to exclude classes where nothing matches. This should compact the display a bit for people who keep up on their spell books.
 
-I changed eqset to show more error messages outside of debug mode.  Mostly things like containers being full when trying to put gear away.  I haven't experienced the things that I'm seeing in the bugs so I'm wondering if players just aren't getting error messages when things go wrong.
+I changed eqset to show more error messages outside of debug mode. Mostly things like containers being full when trying to put gear away. I haven't experienced the things that I'm seeing in the bugs so I'm wondering if players just aren't getting error messages when things go wrong.
 
-I added to the target code so that mobs that are targeted show "[Target]" when they do most actions.  Things like "The guard [Target] breaks free of the webs!" or "The guard [Target] panics, and attempts to flee."  I thought it would make it easier for script writers to build triggers without having to save the target in the client.  I had to rewrite a bunch of the code for showing mobs/players in room (ie "Steve is standing here") so let me know if anything looks strange.  Have any of the groups been using these commands?  Are they helpful?
+I added to the target code so that mobs that are targeted show "[Target]" when they do most actions. Things like "The guard [Target] breaks free of the webs!" or "The guard [Target] panics, and attempts to flee." I thought it would make it easier for script writers to build triggers without having to save the target in the client. I had to rewrite a bunch of the code for showing mobs/players in room (ie "Steve is standing here") so let me know if anything looks strange. Have any of the groups been using these commands? Are they helpful?
 
 </div>
 
 <div class="post" data-post-id="37404" data-author="*teker*" data-date="2016-10-17T16:24:54+00:00" data-subject="Re: Changelog 2016-10-17">
 
-Ok, we've found a bug where sometimes mobs are shown as "someone" when you can see them.  I'll have it fixed for tomorrow morning.
+Ok, we've found a bug where sometimes mobs are shown as "someone" when you can see them. I'll have it fixed for tomorrow morning.
 
 </div>
 
@@ -54,7 +54,7 @@ P.S. I've heard a complaint that the word [Target] is spammy, so perhaps a toggl
 
 <div class="post" data-post-id="37406" data-author="Gorka" data-date="2016-10-18T05:47:59+00:00" data-subject="Re: Changelog 2016-10-17">
 
-I can't think of one new change that's been implemented that hasn't been called spammy by some dork. Remember what happened when someone called auctioneer spammy... now it takes a whole minute of senseless waiting to list items, because some dork said it was being spammy... if I shall ever find the dork that said this I will... I will...  :evil:  :twisted: 
+I can't think of one new change that's been implemented that hasn't been called spammy by some dork. Remember what happened when someone called auctioneer spammy... now it takes a whole minute of senseless waiting to list items, because some dork said it was being spammy... if I shall ever find the dork that said this I will... I will... <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 The irony is the "spam" actually helps us create triggers and actions better by providing us with keywords and phrases we can filter for, so we don't create bum triggers. So the irony is, if you want to build better triggers to some degree we need better spam.
 
@@ -62,48 +62,48 @@ Just yesterday I tried to build something new where I use the last of my availab
 
 It's a catch 22, often "spam" is helpful. There is always the gag command in our clients for dorks, I wish they would use it. More spam please! (Especially at the beginning and end of significant commands.)
 
-A good example is the lost concentration message, it doesn't say what you lost con on... so you have to put your spells in arrays, count success messages etc in order to figure out what needs recasting... if it said you lost concentration on your <spell>! Wow, now we can do something with it. But no doubt some dork will find the extra word spammy and complain...  :roll:
+A good example is the lost concentration message, it doesn't say what you lost con on... so you have to put your spells in arrays, count success messages etc in order to figure out what needs recasting... if it said you lost concentration on your \<spell\>! Wow, now we can do something with it. But no doubt some dork will find the extra word spammy and complain... <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
-As a person who likes to mess with scripts for the hell of it, even if that does mean accidentally gripping the lyme bank keeper... (and God knows he deserved it :twisted:)  when I saw those extra targetting messages tekker put in, I was actually pleased as I could now put new events on those phrases.
+As a person who likes to mess with scripts for the hell of it, even if that does mean accidentally gripping the lyme bank keeper... (and God knows he deserved it <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">) when I saw those extra targetting messages tekker put in, I was actually pleased as I could now put new events on those phrases.
 
 </div>
 
 <div class="post" data-post-id="37407" data-author="*teker*" data-date="2016-10-18T16:25:08+00:00" data-subject="Re: Changelog 2016-10-17">
 
-So the "someone" problems should be fixed but it looks like my fixes for practice didn't make it in for some reason.  I'll try to figure out why.
+So the "someone" problems should be fixed but it looks like my fixes for practice didn't make it in for some reason. I'll try to figure out why.
 
-If there are folks that are getting annoyed with the [Target] tag, speak up and I can look at making it a toggle option.  I could do the same with the backstab/spell issue Taron mentioned above or I could just remove that option so that spells/skills without specified targets only default to fighting.  It just depends on how you guys want it to work and who speaks up.
+If there are folks that are getting annoyed with the [Target] tag, speak up and I can look at making it a toggle option. I could do the same with the backstab/spell issue Taron mentioned above or I could just remove that option so that spells/skills without specified targets only default to fighting. It just depends on how you guys want it to work and who speaks up.
 
 </div>
 
 <div class="post" data-post-id="37408" data-author="Teron" data-date="2016-10-19T15:54:06+00:00" data-subject="Re: Changelog 2016-10-17">
 
-1. Gorka does have a point.
+1\. Gorka does have a point.
 
 For example, the visible mob name isn't always the target, e.g., target may be god in Olympus, and yet I do need triggers that fire, when actions are performed by or to the target.
 
-For example, I need a trigger that detects anyone hitting a target * hard:
+For example, I need a trigger that detects anyone hitting a target \* hard:
 
-%1*@target*hard -> rescue %1
+%1\*@target\*hard -\> rescue %1
 
 But then I get
 
-The guardian hits you very hard -> rescue the.
+The guardian hits you very hard -\> rescue the.
 
 So, I'd say that a toggle option would be useful, though I don't know how many more ppl (will) find it spammy.
 
-Another thing: I'd prefer it to read [target], because capitalization isn't required, unless it starts the sentence in the room mob list. It just looks so [**T**arget] out of place.
+Another thing: I'd prefer it to read [target], because capitalization isn't required, unless it starts the sentence in the room mob list. It just looks so [<strong>T</strong>arget] out of place.
 
-2. I am not sure that how you implemented target is to blame for how I fail to stab mobs. I'm 99% sure it's user error, which can be fixed by a pipe (but not a steel one) and relearning the old habits (and paying more attn to the weapons).
+2\. I am not sure that how you implemented target is to blame for how I fail to stab mobs. I'm 99% sure it's user error, which can be fixed by a pipe (but not a steel one) and relearning the old habits (and paying more attn to the weapons).
 
-You see, one of the major ways to use target is stab blast, so if a person can't engage with "cast 'firewind'", then this whole concept is much less useful (the only other case remaining would be a similar mob walking in the room). You could make it only work with fighting *targets*, but then I guess people won't change their "start the fight" aliases and habits.
+You see, one of the major ways to use target is stab blast, so if a person can't engage with "cast 'firewind'", then this whole concept is much less useful (the only other case remaining would be a similar mob walking in the room). You could make it only work with fighting \*targets\*, but then I guess people won't change their "start the fight" aliases and habits.
 
 So let's leave this point as is for now, and if I discover something out of place, I'll let you know.
 
-2. 
+2\. 
 
-> **Gorka wrote:**
-> A good example is the lost concentration message, it doesn't say what you lost con on... so you have to put your spells in arrays, count success messages etc in order to figure out what needs recasting... if it said you lost concentration on your <spell>! Wow, now we can do something with it. But no doubt some dork will find the extra word spammy and complain... :roll:
+> <strong>Gorka wrote:</strong>
+> A good example is the lost concentration message, it doesn't say what you lost con on... so you have to put your spells in arrays, count success messages etc in order to figure out what needs recasting... if it said you lost concentration on your \<spell\>! Wow, now we can do something with it. But no doubt some dork will find the extra word spammy and complain... <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 Now this I wholeheartedly support as I'm sure others, too.
 
@@ -113,7 +113,7 @@ For example, when I do a spell check, I type score, enable a trigger class and t
 
 Of course, I could do a second spell check, but it's slower, than a trigger on a "you lost conc on petrified armor".
 
-3. About the auctioneer. Why not just cut the reports from the token auctioneer, and accept batches at both of them? Rarely does someone sell absurd amount of items on the actual auction for it to be very spammy. Usually, the amount of items is 1-3, rarely 5 (though you could run your own statistics to check that).
+3\. About the auctioneer. Why not just cut the reports from the token auctioneer, and accept batches at both of them? Rarely does someone sell absurd amount of items on the actual auction for it to be very spammy. Usually, the amount of items is 1-3, rarely 5 (though you could run your own statistics to check that).
 
 P.S. Not trying to hijack the thread, just mentioning ideas.
 
@@ -125,15 +125,15 @@ I suspect in the past the lost con message was generic to stop botters.
 
 However...
 
-* I think botting is the least of sloth's worries at the moment, with the declining player base.
+\* I think botting is the least of sloth's worries at the moment, with the declining player base.
 
-* Botters bot because the game is a grind/boring... so they eventually leave anyway. 
+\* Botters bot because the game is a grind/boring... so they eventually leave anyway. 
 
-* It's very complicated but it's possible to keep an array of all spells you cast, and check them off your list with the success messages and recast those that fail.
+\* It's very complicated but it's possible to keep an array of all spells you cast, and check them off your list with the success messages and recast those that fail.
 
-* msdp.AFFECTS lists your spells, no need to type score these days to see whats up in order to recast. In fact msdp has made botting far easier, yet it didn't change player behavior, they were already bots beforehand anyway. It's a text based game... what can you do? 
+\* msdp.AFFECTS lists your spells, no need to type score these days to see whats up in order to recast. In fact msdp has made botting far easier, yet it didn't change player behavior, they were already bots beforehand anyway. It's a text based game... what can you do? 
 
-* Half the "attraction" and "skill" in playing sloth is actually scripting and triggers anyway. Find me an avatar who plays without scripts. The scripting is a key component of the game giving player game satisfaction.
+\* Half the "attraction" and "skill" in playing sloth is actually scripting and triggers anyway. Find me an avatar who plays without scripts. The scripting is a key component of the game giving player game satisfaction.
 
 But anyways, my overall point is Spam is good. If you don't like it, gag it in your client. Personally I can't get enough of the stuff. More spam please, less lags.
 
@@ -141,18 +141,18 @@ But anyways, my overall point is Spam is good. If you don't like it, gag it in y
 
 <div class="post" data-post-id="37410" data-author="*teker*" data-date="2016-10-19T18:12:34+00:00" data-subject="Re: Changelog 2016-10-17">
 
-I got in late this morning but the targeting code should be re-enabled now.  I don't plan on rebooting for a while unless there's something else majorly broken.  The practice code should be displaying the right information now.
+I got in late this morning but the targeting code should be re-enabled now. I don't plan on rebooting for a while unless there's something else majorly broken. The practice code should be displaying the right information now.
 
-> **Quote:**
+> <strong>Quote:</strong>
 > I am not sure that how you implemented target is to blame for how I fail to stab mobs.
 
-I think the issue you're having is that when you cast firewind, it sees that you're not fighting, so it sends the spell at the target.  Previously if you did this, the spell would fail (without mana loss) due to not specifying a target.  I could certainly change this back so that you'd have to specifically type "cast 'firewind' target" to start a fight with the target rather than "cast 'firewind'".  It's more to type but if you're running a script it doesn't make any difference.  You'll notice the same thing happens with backstab - if you type backstab without any arguments and you're not fighting and your target is in the room - it will attempt to backstab your target.
+I think the issue you're having is that when you cast firewind, it sees that you're not fighting, so it sends the spell at the target. Previously if you did this, the spell would fail (without mana loss) due to not specifying a target. I could certainly change this back so that you'd have to specifically type "cast 'firewind' target" to start a fight with the target rather than "cast 'firewind'". It's more to type but if you're running a script it doesn't make any difference. You'll notice the same thing happens with backstab - if you type backstab without any arguments and you're not fighting and your target is in the room - it will attempt to backstab your target.
 
 I can certainly change the tag to "[target]" and add a toggle for it.
 
 I can also change the lost concentration line to something like "You lose your concentration while casting/singing/playing 'spell/song'".
 
-I've been thinking about the auctioneer .  It would be pretty easy to add queuing to the messages but the increased run-times have created another problem - sometimes the token auctioneers get full.  There's a hardcoded limit for the number of simultaneous auctions and if one person can consign a whole bunch of items really fast it is more likely the auctions will be full most of the time.  I'm not sure if the hardcoded limit is there for a significant reason or if it was more of a guess to the maximum number needed.  It doesn't seem fair to me that a small number of players could fill up the auction houses so that no one could use them.
+I've been thinking about the auctioneer . It would be pretty easy to add queuing to the messages but the increased run-times have created another problem - sometimes the token auctioneers get full. There's a hardcoded limit for the number of simultaneous auctions and if one person can consign a whole bunch of items really fast it is more likely the auctions will be full most of the time. I'm not sure if the hardcoded limit is there for a significant reason or if it was more of a guess to the maximum number needed. It doesn't seem fair to me that a small number of players could fill up the auction houses so that no one could use them.
 
 </div>
 
@@ -182,16 +182,16 @@ If you changed the spell fail message, that to most players would be probably th
 
 Please change this thread so that players can not post to it. It would read much better as a clean record of changes. Also please delete existing player comments.
 
-@Gorka It is absurd to complain about not being able to depend on token sales for income, when no one but you is trying to do that.  No one is forcing you to spend so much time in the coliseum. You could go out and solo for coins like everybody else.
+@Gorka It is absurd to complain about not being able to depend on token sales for income, when no one but you is trying to do that. No one is forcing you to spend so much time in the coliseum. You could go out and solo for coins like everybody else.
 
 </div>
 
 <div class="post" data-post-id="37413" data-author="Gorka" data-date="2016-10-19T20:55:53+00:00" data-subject="Re: Changelog 2016-10-17">
 
-> ***juggleblood* wrote:**
-> @Gorka It is absurd to complain about not being able to depend on token sales for income, when no one but you is trying to do that.  No one is forcing you to spend so much time in the coliseum. You could go out and solo for coins like everybody else.
+> <strong>\*juggleblood\* wrote:</strong>
+> @Gorka It is absurd to complain about not being able to depend on token sales for income, when no one but you is trying to do that. No one is forcing you to spend so much time in the coliseum. You could go out and solo for coins like everybody else.
 
-This is what I am doing... and no, I am not the only one making money from tokens. There are at least 3 others, I just have the biggest mouth.  :twisted:
+This is what I am doing... and no, I am not the only one making money from tokens. There are at least 3 others, I just have the biggest mouth. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -209,7 +209,7 @@ I agree with gokra.. we have an overabundance of exp!
 
 Nerf it!
 
-*hides* *crud, no dark cloak*  *lurks in vault...*
+\*hides\* \*crud, no dark cloak\* \*lurks in vault...\*
 
 </div>
 

@@ -20,25 +20,25 @@ Ok.
 
 Silance, the mistress of magic relaxes to your song and works with efficiency!
 
-<959hp 337ma 157mv -9.4ac -9al 10 raining | 5,726,005 exp>
+\<959hp 337ma 157mv -9.4ac -9al 10 raining \| 5,726,005 exp\>
 
 Silance, the mistress of magic utters the words, 'ghaiz gtui' (stone skin)
 
-<960hp 339ma 158mv -9.4ac -9al 10 raining | 5,726,005 exp>
+\<960hp 339ma 158mv -9.4ac -9al 10 raining \| 5,726,005 exp\>
 
 enchant guide
 
-Silance, the mistress of magic tells you 'Iiiinteresting, iiinteresting.  I have
+Silance, the mistress of magic tells you 'Iiiinteresting, iiinteresting. I have
 
-not thought this kind of magic still thrived in the world.  Oh!  It should be fun
+not thought this kind of magic still thrived in the world. Oh! It should be fun
 
-to try and dismantle these energy vortexes.  I am so curious, I will not even charge you.'
+to try and dismantle these energy vortexes. I am so curious, I will not even charge you.'
 
 Silance, the mistress of magic frowns as she performs the necessary casting.
 
 Apparently, something is not quite well. . .Her face a mask of irritation,
 
-Silance tells you to get the hell out of here.  'You and your silly books!'
+Silance tells you to get the hell out of here. 'You and your silly books!'
 
 Evidently even the greatest spellcasters have their bad days. . .
 
@@ -80,7 +80,7 @@ Comfort.
 
 <div class="post" data-post-id="28671" data-author="jezer" data-date="2009-04-05T23:05:19+00:00" data-subject="">
 
-Give the man his item.  :evil:
+Give the man his item. <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -88,15 +88,15 @@ Give the man his item.  :evil:
 
 I stand corrected.
 
-For some reason I was thinking Silance was the forger for Wiedzmins rings. Would have agreed whole-heartedly if I'd realised it was winds :) You're definitely right about sins too.
+For some reason I was thinking Silance was the forger for Wiedzmins rings. Would have agreed whole-heartedly if I'd realised it was winds <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> You're definitely right about sins too.
 
 </div>
 
 <div class="post" data-post-id="28674" data-author="Jag" data-date="2009-04-06T14:57:26+00:00" data-subject="">
 
-Three cheers for anyone, and especially our imms who take the time to look into gripes, recognize when a problem is real and take action.  
+Three cheers for anyone, and especially our imms who take the time to look into gripes, recognize when a problem is real and take action. 
 
-Nice going!  Yeah Sloth.
+Nice going! Yeah Sloth.
 
 </div>
 

@@ -14,7 +14,7 @@ post_count: 3
 
 from yer old pal Aaron..new house (my own finally) new job (teaching music)
 
-hope this finds everyone well and good :)
+hope this finds everyone well and good <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 shoot me a msg at stomp442@gmail.com if yer bored or wanna add me on facebook.
 
@@ -32,6 +32,6 @@ merry xmas you too, aaron!
 
 <div class="post" data-post-id="32241" data-author="Evergreen" data-date="2010-12-29T23:16:28+00:00" data-subject="Re: Merry christmas fuxxors!">
 
-merry christmas, good luck on getting usable gifts :D
+merry christmas, good luck on getting usable gifts <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>

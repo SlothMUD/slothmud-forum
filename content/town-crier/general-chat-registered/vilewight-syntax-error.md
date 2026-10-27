@@ -14,7 +14,7 @@ post_count: 2
 
 A vilewight says 'MUDL proc 1 (1), line 8: syntax error'
 
-Just figured i would throw that out there :?:
+Just figured i would throw that out there <img src="/images/smilies/icon_question.svg" alt=":?:" title=":?:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

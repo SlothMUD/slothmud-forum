@@ -16,6 +16,6 @@ The person with the most votes will be the first team captain.
 
 The second-most votes will be 2nd team captain.
 
---Idjit
+\--Idjit
 
 </div>

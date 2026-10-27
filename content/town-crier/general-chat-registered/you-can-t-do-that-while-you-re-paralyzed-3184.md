@@ -32,7 +32,7 @@ btw: thanks for coming to try and help Destruction ... but can't use say or tell
 
 <div class="post" data-post-id="29615" data-author="Toxis" data-date="2009-06-29T13:15:10+00:00" data-subject="">
 
-You are not worthy of the struggle... you are paralyzed for 20 minutes, enjoy slothmud! :P
+You are not worthy of the struggle... you are paralyzed for 20 minutes, enjoy slothmud! <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 Silly, isn't it?
 
@@ -42,7 +42,7 @@ Silly, isn't it?
 
 The best part is if you're paralyzed and the group moves without you and the stabber engages the next mob and...you're the tank!
 
--Rig
+\-Rig
 
 </div>
 
@@ -64,30 +64,31 @@ Splork
 
 for those interested the solution to paralysis from a trap is to remove poison.
 
-there is/was a  trap in skeep that caused the same affect.
+there is/was a trap in skeep that caused the same affect.
 
 </div>
 
 <div class="post" data-post-id="29620" data-author="Toxis" data-date="2009-06-29T15:53:56+00:00" data-subject="">
 
-Now this is the "coming together" of sloth I so love.  It's the little things that can be aggrivating, and it's cool that Splork is making a lot of cool changes to Sloth that make sense.  I mean, who wants to stand 20 mins paralyzed, that's just a little crazy.  I just wonder who put that in game and wonder what were they thinking (2o mins?)
+Now this is the "coming together" of sloth I so love. It's the little things that can be aggrivating, and it's cool that Splork is making a lot of cool changes to Sloth that make sense. I mean, who wants to stand 20 mins paralyzed, that's just a little crazy. I just wonder who put that in game and wonder what were they thinking (2o mins?)
 
--Tox
+\-Tox
 
 </div>
 
 <div class="post" data-post-id="29621" data-author="Rigwarl" data-date="2009-06-29T17:09:53+00:00" data-subject="">
 
-But surely a tank wouldn't be dumb enough to eat a spined fish, so I doubt that would ever happen.[/quote:ouvub651]
+> <strong>Stryx wrote:</strong>
+> But surely a tank wouldn't be dumb enough to eat a spined fish, so I doubt that would ever happen.
 
-So which fish doesn't have a spine? ;)
+So which fish doesn't have a spine? <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
--Rig
+\-Rig
 
 </div>
 
 <div class="post" data-post-id="29623" data-author="Stryx" data-date="2009-06-29T19:22:06+00:00" data-subject="">
 
-A wibbly wobbly jelly fish!  :D
+A wibbly wobbly jelly fish! <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>

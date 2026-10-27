@@ -12,21 +12,21 @@ post_count: 9
 
 <div class="post" data-post-id="3626" data-author="Modello" data-date="2005-01-06T00:31:40+00:00" data-subject="Monk prime forge">
 
-Monk prime suit is back.  Forge note and specs on it are as follows:
+Monk prime suit is back. Forge note and specs on it are as follows:
 
 I am terribly sorry, but what you ask is beyond my abilities to create,
 
-however I do know of one who is capable of doing that which you ask.  A
+however I do know of one who is capable of doing that which you ask. A
 
-great seamstress does wander the world with her nomadic family.  She can
+great seamstress does wander the world with her nomadic family. She can
 
-most likely assist you in your goal.  I have, however, researched your 
+most likely assist you in your goal. I have, however, researched your 
 
 request, and can inform you that she will be in need of a suit to pattern
 
-the new armament from.  Along with this old combat suit, she will require
+the new armament from. Along with this old combat suit, she will require
 
-robes made of a material not of this realm.  To make the thread that must
+robes made of a material not of this realm. To make the thread that must
 
 be used to sew the two materials together she will need some skin of a 
 
@@ -34,15 +34,15 @@ creature that exists in both our realm and the nether realm at once, some
 
 bark from an ancient and exotic tree, and the dust from the wings of a 
 
-mythical psychic moth.  A ring that has been enhanced to prevent the soul 
+mythical psychic moth. A ring that has been enhanced to prevent the soul 
 
 from escaping its mortal shell and fleeing into the nether must be sewn 
 
-into the suit as well.  Finally, for reasons unknown to me at this point, 
+into the suit as well. Finally, for reasons unknown to me at this point, 
 
 a common mortal spell of protection is also needed to thicken the suit once
 
-it is finished.  Good luck old friend.  ---Neebrlyxxz
+it is finished. Good luck old friend. ---Neebrlyxxz
 
 You recite an identify scroll which dissolves.
 
@@ -56,9 +56,9 @@ Weight: 243, Value: 899999, Worn in: TAKE ABOUT
 
 Can affect you as:
 
-    Affects: ARMOR by -5
+ Affects: ARMOR by -5
 
-    Affects: REDUCE_DAMAGE by 2
+ Affects: REDUCE\_DAMAGE by 2
 
 Only those who are primary supreme monks, and have attained supremacy in at 
 
@@ -84,25 +84,27 @@ that's body armor, iirc
 
 <div class="post" data-post-id="3634" data-author="12345" data-date="2005-01-06T14:24:46+00:00" data-subject="Re: Monk prime forge">
 
-Worn in: TAKE ABOUT[/quote:3ska38w9]
+> <strong>Modello wrote:</strong>
+> Worn in: TAKE ABOUT
 
-Seems like a robe  :)
+Seems like a robe <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="3635" data-author="12345" data-date="2005-01-06T14:26:17+00:00" data-subject="">
 
-Bah, drachma armor.  Disregard previous.  Need sleep.
+Bah, drachma armor. Disregard previous. Need sleep.
 
 </div>
 
 <div class="post" data-post-id="3636" data-author="12345" data-date="2005-01-06T14:32:09+00:00" data-subject="">
 
-Hrm, isn't the drachma robe worse than that or is it adjusted ?[/quote:wzromz6n]
+> <strong>13 wrote:</strong>
+> Hrm, isn't the drachma robe worse than that or is it adjusted ?
 
 Found this on Sloth Wiki, don't know if it was adjusted of course.
 
-250 Cloak of Shadows â€“0.5 +1 reduce_damage robe
+250 Cloak of Shadows â€“0.5 +1 reduce\_damage robe
 
 Back to killing kobolds for me... safer than the boards.
 
@@ -112,7 +114,7 @@ Back to killing kobolds for me... safer than the boards.
 
 Mark it on your calender, you won't see this a lot.
 
-The monk prime forged robe which Modello posted below is an error on my behalf due to a lost email and a miscommunication.  Regretfully, I apologize to Modello and the rest of you (for getting your hopes up  :)  ).
+The monk prime forged robe which Modello posted below is an error on my behalf due to a lost email and a miscommunication. Regretfully, I apologize to Modello and the rest of you (for getting your hopes up <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> ).
 
 As of this time, this forge is no longer ingame.
 
@@ -126,6 +128,6 @@ aww shit
 
 <div class="post" data-post-id="3641" data-author="Leaf" data-date="2005-01-06T18:57:00+00:00" data-subject="">
 
-13 had his hopes up.  But we know 13 goes for +dam and not reduce :p
+13 had his hopes up. But we know 13 goes for +dam and not reduce :p
 
 </div>

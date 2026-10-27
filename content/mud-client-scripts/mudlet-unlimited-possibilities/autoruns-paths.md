@@ -38,7 +38,7 @@ You've now created a key, value pair table. You could make an alias to display i
 
 for k,v in pairs(SSrunAliases) do
 
-cecho("<green>"..k.."="..v.."<reset>")
+cecho("\<green\>"..k.."="..v.."\<reset\>")
 
 end
 
@@ -52,7 +52,7 @@ else expandAlias("nnneeessswww") end
 
 <div class="post" data-post-id="36682" data-author="Madigan" data-date="2016-03-01T08:59:42+00:00" data-subject="Re: autoruns/paths">
 
-> ***juggleblood* wrote:**
+> <strong>\*juggleblood\* wrote:</strong>
 > By db function do you mean tables / libraries?
 > 
 > 
@@ -77,7 +77,7 @@ else expandAlias("nnneeessswww") end
 > 
 > for k,v in pairs(SSrunAliases) do
 > 
-> cecho("<green>"..k.."="..v.."<reset>")
+> cecho("\<green\>"..k.."="..v.."\<reset\>")
 > 
 > end
 > 
@@ -103,7 +103,7 @@ Click add group. Select that new alias folder. Put alias name RUN ALIASES. Click
 
 Click add item. Select that new alias. Name it DEMONWEB RUN ALIAS. It helps to have a good naming convention so u can easily do searches. That's why I name things like HUNGER TRIGGER or DEATHGRIP ALIAS. So that if I do a search i wont get confused with DEATHGRIP TRIGGER or DEATHGRIP FUNCTION.
 
-In the pattern box, put: ^dweb$      You'll notice that regex is already selected here, its the only option. What regex means is an expression matching grammar. If you had ^d(emon)?web$ instead of ^dweb$ then either dweb or demonweb would work because the question mark says that text is optional.
+In the pattern box, put: ^dweb$ You'll notice that regex is already selected here, its the only option. What regex means is an expression matching grammar. If you had ^d(emon)?web$ instead of ^dweb$ then either dweb or demonweb would work because the question mark says that text is optional.
 
 In the text block put:
 

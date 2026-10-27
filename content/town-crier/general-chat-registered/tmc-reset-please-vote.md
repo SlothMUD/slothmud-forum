@@ -18,7 +18,7 @@ Great Job!
 
 Splork
 
-__________
+\_\_\_\_\_\_\_\_\_\_
 
 </div>
 
@@ -34,8 +34,8 @@ Splork
 
 <div class="post" data-post-id="30559" data-author="Toxis" data-date="2010-01-01T16:45:17+00:00" data-subject="">
 
-Only 6 votes so far and it's noon.  Are they broken, or for real, only 6 people voted for slothmud today?
+Only 6 votes so far and it's noon. Are they broken, or for real, only 6 people voted for slothmud today?
 
--Toxis
+\-Toxis
 
 </div>

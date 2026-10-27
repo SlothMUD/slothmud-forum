@@ -14,9 +14,9 @@ post_count: 2
 
 Xiamond Adamant is using:
 
-<wielded>            a black short sword
+\<wielded\> a black short sword
 
-<held>               an adamantine key
+\<held\> an adamantine key
 
 You massacre Xiamond Adamant to small fragments with your slash.
 

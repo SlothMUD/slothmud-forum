@@ -12,29 +12,29 @@ post_count: 4
 
 <div class="post" data-post-id="31759" data-author="jezer" data-date="2010-09-16T01:27:42+00:00" data-subject="SS Well XP Group">
 
-N  U
+N U
 
-                                                  | /
+ \| /
 
-                                              W------E
+ W------E
 
-                                                / |      Settlestone,
+ / \| Settlestone,
 
-                                               D  S      Niebelung
+ D S Niebelung
 
 Settlestone's Well
 
-   This is an extremely energetic section of the dwarven city of Settlestone.
+ This is an extremely energetic section of the dwarven city of Settlestone.
 
 Two bustling streets intersect here at the site of a ten foot tall statue of
 
-the famed Krodar Thunderhammer.  All four sets of city gates can be seen from
+the famed Krodar Thunderhammer. All four sets of city gates can be seen from
 
-this vantage and hundreds of people walk about nearby.  There is also a large
+this vantage and hundreds of people walk about nearby. There is also a large
 
 black stone well in the center of the square.
 
-Exits: North  East  South  West  Up  Down
+Exits: North East South West Up Down
 
 The corpse of a small red hamster is lying here.
 
@@ -282,11 +282,11 @@ A dwarven citizen walks around you as he goes about his business.
 
 Zuzu is leading 'SS well XP (this room only)' on Niebelung:
 
-            (Cl:6.31)   Zuzu
+ (Cl:6.31) Zuzu
 
-            (Dr:4.31)   Jezer
+ (Dr:4.31) Jezer
 
-Sorry guys, wasn't purposeful, we were just being twits because we were bored. SS Well XP was super fun and exciting  :mrgreen: Good news is Zuzu, can now lead on SS, albeit just the single room.  :twisted:
+Sorry guys, wasn't purposeful, we were just being twits because we were bored. SS Well XP was super fun and exciting <img src="/images/smilies/icon_mrgreen.svg" alt=":mrgreen:" title=":mrgreen:" width="15" height="15" class="smiley nozoom"> Good news is Zuzu, can now lead on SS, albeit just the single room. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 No gems popped btw, but I may be able to get you some leather harnesses if your into that kind of thing.
 
@@ -294,7 +294,7 @@ No gems popped btw, but I may be able to get you some leather harnesses if your 
 
 <div class="post" data-post-id="31760" data-author="jezer" data-date="2010-09-16T09:06:09+00:00" data-subject="Re: SS Well XP Group">
 
-Laugh, who edited my post?  :D  Was it you again Splorkie? Am I really that dangerous? Awesome!  :twisted:
+Laugh, who edited my post? <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> Was it you again Splorkie? Am I really that dangerous? Awesome! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -310,6 +310,6 @@ Splork
 
 <div class="post" data-post-id="31763" data-author="jezer" data-date="2010-09-16T19:30:53+00:00" data-subject="Re: SS Well XP Group">
 
-I WAS going to give you a leather harness, since I missed your birthday last year, and I know you were upset about it.  :evil:
+I WAS going to give you a leather harness, since I missed your birthday last year, and I know you were upset about it. <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>

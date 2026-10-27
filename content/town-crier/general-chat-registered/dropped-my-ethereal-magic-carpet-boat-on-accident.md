@@ -12,7 +12,7 @@ post_count: 5
 
 <div class="post" data-post-id="19028" data-author="Shyla" data-date="2007-06-22T03:06:47+00:00" data-subject="dropped my ethereal magic carpet *boat* on accident">
 
-Just wanting to know if anyone found an ethereal magic carpet which is a boat in probably lyme.  I am betting I dropped it Wed when i meant to drop ethereal spellbook and didn't notice til today when it said i needed boat :( Now I am trying to refind my carpet. Anyways If anyone did pick up one or possibly has a spare ethereal magic carpet please give shyla or jacinda a holler
+Just wanting to know if anyone found an ethereal magic carpet which is a boat in probably lyme. I am betting I dropped it Wed when i meant to drop ethereal spellbook and didn't notice til today when it said i needed boat <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom"> Now I am trying to refind my carpet. Anyways If anyone did pick up one or possibly has a spare ethereal magic carpet please give shyla or jacinda a holler
 
 Thanks
 
@@ -22,7 +22,7 @@ Deb aka shyla/jacinda
 
 <div class="post" data-post-id="19029" data-author="Shyla" data-date="2007-06-22T03:11:07+00:00" data-subject="">
 
-Actually I just scrolled back and I did drop it, but I dropped it in BH inn.  I really would like it back if some kind soul was nice enough to see it and pick it up, but like I said earlier I figure I am screwed and it just got lost when mud went down.  SIGH
+Actually I just scrolled back and I did drop it, but I dropped it in BH inn. I really would like it back if some kind soul was nice enough to see it and pick it up, but like I said earlier I figure I am screwed and it just got lost when mud went down. SIGH
 
 Thanks again 
 
@@ -32,7 +32,7 @@ Shyla
 
 <div class="post" data-post-id="19033" data-author="Autolycos" data-date="2007-06-22T13:11:08+00:00" data-subject="">
 
-Deb,  I think I have one on an alt.  I'll ship it to you  :wink:
+Deb, I think I have one on an alt. I'll ship it to you <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -50,6 +50,6 @@ Deb
 
 no worries, things happen. 
 
-just glad I still had one  8)
+just glad I still had one <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>

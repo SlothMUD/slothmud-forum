@@ -17,11 +17,11 @@ I am no longer able to use Unholy Aura spell on any pet or mob, only on myself:
 ```
 Aslan on Newbatia, VK.
 Main Street
-   Main Street passes between the homes of Newbatia's upper crust.  The air is
-warmer here, away from the edge of the floating island.  The solidly-built
+ Main Street passes between the homes of Newbatia's upper crust. The air is
+warmer here, away from the edge of the floating island. The solidly-built
 red brick houses are set back from the street; the rather barren yards have
 a few scattered bushes, but little grass.
-Exits: North  South  West  
+Exits: North South West 
 A gang member saunters by, looking for someone to beat up.
 A ghostly form wavers in and out of existence nearby.
 A hardworking denizen walks purposefully with long strides.
@@ -49,12 +49,12 @@ You are consumed by an unholy aura.
 <538hp 306ma 298mv><-3.7ac 123557952xp 59387gp><+0><_21_>
 score affect
 The following spells affect you:
-   Unholy Aura                      
+ Unholy Aura 
 
 <538hp 309ma 298mv><-3.7ac 123557952xp 59387gp><+0><_21_>
 ```
 
-As noted, I tried on the gang member, the ghost (pet), the denizen, a clown (not present), and then no target.  All commands were sent to the mud, and command prompts received, but nothing happens (no response, no mana drain, nothing) unless the spell is directed at myself.  This is repeatable through cmud, telnet, Flash, and all chars I have.  
+As noted, I tried on the gang member, the ghost (pet), the denizen, a clown (not present), and then no target. All commands were sent to the mud, and command prompts received, but nothing happens (no response, no mana drain, nothing) unless the spell is directed at myself. This is repeatable through cmud, telnet, Flash, and all chars I have. 
 
 Please advise.
 

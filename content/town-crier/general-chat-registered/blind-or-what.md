@@ -14,7 +14,7 @@ post_count: 1
 
 I swear there use to be a link that shows each class spell and skill located
 
-in the Library.  However I don't see the link anymore.  Will this be put back,
+in the Library. However I don't see the link anymore. Will this be put back,
 
 or am I blind?
 

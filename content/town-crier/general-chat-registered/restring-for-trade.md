@@ -34,13 +34,13 @@ your ruyi and shadow pauldrons
 
 <div class="post" data-post-id="23266" data-author="Yasik2" data-date="2008-03-18T07:07:53+00:00" data-subject="">
 
-restring -> Ruyi [b:11lk7xqm]AND[/color:11lk7xqm][/b:11lk7xqm] shadow pauldrons?
+restring -\> Ruyi <strong>AND</strong> shadow pauldrons?
 
-hahaha oh wow  :lol: 
+hahaha oh wow <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> 
 
-man, restring cost ~15..20M coins
+man, restring cost \~15..20M coins
 
-Ruyi ~100M or more, if anyone going to part with it for coins
+Ruyi \~100M or more, if anyone going to part with it for coins
 
 no idea what that pauldons is, but it isnt important anyway
 
@@ -56,7 +56,8 @@ I don't think you math is right on those coins Yasik.
 
 <div class="post" data-post-id="23269" data-author="Yasik2" data-date="2008-03-18T14:11:01+00:00" data-subject="">
 
-I don't think you math is right on those coins Yasik.[/quote:246lizvz]
+> <strong>Jag wrote:</strong>
+> I don't think you math is right on those coins Yasik.
 
 nod, but still somewhere in the range
 
@@ -72,7 +73,7 @@ also, i reserve the right to mistaken
 
 <div class="post" data-post-id="23271" data-author="Autolycos" data-date="2008-03-18T16:23:37+00:00" data-subject="">
 
-> **"Yasik2 wrote:**
+> <strong>"Yasik2 wrote:</strong>
 > also, i reserve the right to mistaken
 
 now would be that time you dumbass.
@@ -85,7 +86,8 @@ restrings are variable since they cannot be forged. they go with market value of
 
 <div class="post" data-post-id="23272" data-author="Yasik2" data-date="2008-03-18T16:35:41+00:00" data-subject="">
 
-last ruyi i sold was 50mil.[/quote:1jdtrfgn]
+> <strong>Autolycos wrote:</strong>
+> last ruyi i sold was 50mil.
 
 wtb your next Ruyi, payin 70M
 
@@ -97,29 +99,34 @@ nope,
 
 If I had another one laying around unused, 
 
-I'd give it to Stormshadow just to piss you off   :twisted:
+I'd give it to Stormshadow just to piss you off <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23278" data-author="Yasik2" data-date="2008-03-18T17:35:05+00:00" data-subject="">
 
-nope, 
+> <strong>Autolycos wrote:</strong>
+> nope, 
+> 
+> 
+> 
+> If I had another one laying around unused, 
+> 
+> 
+> 
+> I'd give it to Stormshadow just to piss you off :twisted:
 
-If I had another one laying around unused, 
-
-I'd give it to Stormshadow just to piss you off   :twisted:[/quote:1x5x36dm]
-
-[img:1x5x36dm]http://yasik.kiev.ua/Autolycos_Kicking_Team.jpg[/img:1x5x36dm]
+![](http://yasik.kiev.ua/Autolycos_Kicking_Team.jpg)
 
 </div>
 
 <div class="post" data-post-id="23281" data-author="Autolycos" data-date="2008-03-18T20:22:33+00:00" data-subject="">
 
-*yawn*
+\*yawn\*
 
 pissed off preteens might get you excited,
 
-not me,  so stay on topic.
+not me, so stay on topic.
 
 </div>
 

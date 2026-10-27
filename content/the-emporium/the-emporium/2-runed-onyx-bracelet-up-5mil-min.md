@@ -20,9 +20,9 @@ Weight: 3, Value: 350000
 
 Can affect you as:
 
-    Affects: SPELL_BONUS by 10
+ Affects: SPELL\_BONUS by 10
 
-    Affects: HEAL_BONUS by 10
+ Affects: HEAL\_BONUS by 10
 
 Only those who are at least supreme magic users, clerics, druids, 
 
@@ -36,12 +36,12 @@ may use this item.
 
 <div class="post" data-post-id="264" data-author="Monty" data-date="2004-05-23T17:10:34+00:00" data-subject="">
 
-<P>5mil</P>
+\<P\>5mil\</P\>
 
 </div>
 
 <div class="post" data-post-id="353" data-author="Deju" data-date="2004-05-26T04:13:26+00:00" data-subject="Closed">
 
-Closed.  Monty wins for 5mil
+Closed. Monty wins for 5mil
 
 </div>

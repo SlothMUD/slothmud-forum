@@ -28,29 +28,29 @@ tank=tank or ""
 
 Here is the trigger pattern for matching the leader's called target:
 
-^(\w+) -- 'target (.*)'$  (perl regex)
+^(\\w+) -- 'target (.\*)'$ (perl regex)
 
 and the script:
 
 if matches[2] == groupLeader then
 
-local words = matches[3]:split(" ")
+local words = matches[3\]:split(" ")
 
 target = words[#words]
 
-echo(" :::: Target is now: ".. target .. "\r\n")
+echo(" :::: Target is now: ".. target .. "\\r\\n")
 
 end
 
 some explanation:
 
-\w+ means one or more consecutive letters (a word)
+\\w+ means one or more consecutive letters (a word)
 
-.* means zero or more of any kind of character (anything)
+.\* means zero or more of any kind of character (anything)
 
 matches[2] is the first set of parenthesis because matches[1] is reserved for the entire triggering line.
 
-local words =  means set a local variable thats only used within this script
+local words = means set a local variable thats only used within this script
 
 I won't get into explaining the splitting as it could probably be done better now that I look at it, but this works.
 
@@ -62,7 +62,7 @@ Another one by request. For tracking:
 
 Pattern:
 
-^Tracks to (.+) lead (\w+)ward?\.$
+^Tracks to (.+) lead (\\w+)ward?\\.$
 
 Script:
 
@@ -88,29 +88,29 @@ Here is my getmsdpvars function script:
 
 function getmsdpvars(event, args)
 
-   tempTimer(1, 
+ tempTimer(1, 
 
 function () sendATCP("@REPORT", 
 
-[[HEALTH HEALTH_MAX SERVER_ID STRING_AFFECTS HUNGER THIRST 
+[[HEALTH HEALTH\_MAX SERVER\_ID STRING\_AFFECTS HUNGER THIRST 
 
- MANA MANA_MAX HITROLL DAMROLL ALIGNMENT EXPERIENCE MONEY TERRAIN
+ MANA MANA\_MAX HITROLL DAMROLL ALIGNMENT EXPERIENCE MONEY TERRAIN
 
- OPPONENT_HEALTH 	OPPONENT OPPONENT_NAME OPPONENT_HEALTH_MAX OPPONENT_LEVEL
+ OPPONENT\_HEALTH OPPONENT OPPONENT\_NAME OPPONENT\_HEALTH\_MAX OPPONENT\_LEVEL
 
- POSITION MOVEMENT MOVEMENT_MAX AREA_NAME ROOM_NAME ROOM_VNUM AC
+ POSITION MOVEMENT MOVEMENT\_MAX AREA\_NAME ROOM\_NAME ROOM\_VNUM AC
 
- TANK_NAME GROUP_LEADER TANK_HEALTH TANK_HEALTH_MAX STRING_ROOM_EXITS]]
+ TANK\_NAME GROUP\_LEADER TANK\_HEALTH TANK\_HEALTH\_MAX STRING\_ROOM\_EXITS]]
 
 ) end)
 
 end
 
-*I've got this set up with no event. Just what you see above. These are the only vars i'm using currently, if you add to this list WATCH YOUR SPACING. If you foul up the spacing, some variables won't load.
+\*I've got this set up with no event. Just what you see above. These are the only vars i'm using currently, if you add to this list WATCH YOUR SPACING. If you foul up the spacing, some variables won't load.
 
-Then I set up a separate script that runs getmsdpvars at startup called init_msdp:
+Then I set up a separate script that runs getmsdpvars at startup called init\_msdp:
 
-function init_msdp()
+function init\_msdp()
 
 	getmsdpvars()
 
@@ -118,7 +118,7 @@ end
 
 Set a trigger on any of the mud startup messages that executes getmsdpvars(). Remember that there are different messages for reconnect than connect, so make sure you've got both covered.
 
-Previously I advised tacking this on the event msdpserver_id. This was a bad mistake. You don't want to send this command to the mud every second or you'll lag yourself and possibly everyone else. I wasn't aware at the time that server_id was getting resent every second.
+Previously I advised tacking this on the event msdpserver\_id. This was a bad mistake. You don't want to send this command to the mud every second or you'll lag yourself and possibly everyone else. I wasn't aware at the time that server\_id was getting resent every second.
 
 </div>
 
@@ -128,7 +128,7 @@ Script name: updateOppHealth()
 
 function updateOppHealth()
 
-oppHealth=atcp.MSDPOPPONENT_HEALTH
+oppHealth=atcp.MSDPOPPONENT\_HEALTH
 
 end
 
@@ -136,7 +136,7 @@ Timer: OppHealth 5 seconds
 
 if position=="Fighting" then
 
-cecho("<tomato>"..oppHealth.."<reset>")
+cecho("\<tomato\>"..oppHealth.."\<reset\>")
 
 end
 
@@ -152,7 +152,7 @@ end
 
 You could also stick a flag in updatePosition if position="Fighting" then fighting=true else fighting=false. 
 
-Also don't forget to define any variables  you use in your main definitions, for example:
+Also don't forget to define any variables you use in your main definitions, for example:
 
 oppHealth=oppHealth or 0
 
@@ -166,7 +166,7 @@ fighting=fighting or false
 
 I've got an error when trying your track addon:
 
-Lua error:[string "send("track "..target)"]:1: attempt to concatenate global 
+Lua error:[string "send("track "..target)"\]:1: attempt to concatenate global 
 
 'target' (a nil value)
 
@@ -198,7 +198,7 @@ alias:
 
 ^autokick$
 
-if autoKick~=true then
+if autoKick\~=true then
 
 autoKick=true
 
@@ -214,7 +214,7 @@ trigger:
 
 Your boots need polishing again - blood all over. (exact)
 
-^Your kick hits (.*) in the solar plexus.$ (regex)
+^Your kick hits (.\*) in the solar plexus.$ (regex)
 
 Your beautiful full-circle-kick misses (begin substring)
 
@@ -242,13 +242,13 @@ Feel free to disagree. Can post the setup of any of these 3 methods on request. 
 
 <div class="post" data-post-id="35456" data-author="Unsub" data-date="2014-10-17T20:18:39+00:00" data-subject="Re: Some beginner mudlet help.">
 
->> First define your global target variable. Outside of functions, all of your variables are global vars and **have to be defined in a script**. In this case make a script and name it Main Definitions or something like that.
+\>\> First define your global target variable. Outside of functions, all of your variables are global vars and <strong>have to be defined in a script</strong>. In this case make a script and name it Main Definitions or something like that.
 
-Inside that script you can define as many variables as you want. <<
+Inside that script you can define as many variables as you want. \<\<
 
-From these directions, I think I use the script button, not triggers or aliases to open a window to put in my variable definitions.   I'm not sure how to enter the variables.  There are boxes for registered event handlers, user defined event handlers, and the big box that says lua functions go here.  
+From these directions, I think I use the script button, not triggers or aliases to open a window to put in my variable definitions. I'm not sure how to enter the variables. There are boxes for registered event handlers, user defined event handlers, and the big box that says lua functions go here. 
 
-What goes in the boxes if anything?  
+What goes in the boxes if anything? 
 
 Alias's seem to call code from input, triggers call code from mud input, what does a script do?
 
@@ -270,7 +270,7 @@ User defined events are something different. Leave it blank. I don't use them pe
 
 Alright, trying to make triggers for the coliseum. my problem is, as a noncaster monk, ether mobs. specifically "A giant ethereal ant". My current script is this:
 
-^(.*) is waiting for you on the other side.$    pearl regex <--Trigger line
+^(.\*) is waiting for you on the other side.$ pearl regex \<--Trigger line
 
 if matches[2] == "A giant ethereal ant" then
 
@@ -286,7 +286,7 @@ end
 
 However, with this setup, things like "A giant ethereal ant" and "An undead octopus" get the response
 
-"Deathgrip who?"  I assume this is because when "deathgrip an undead octopus" is sent, the game only reads "deathgrip an" and doesn't know who to hit. Any advice??
+"Deathgrip who?" I assume this is because when "deathgrip an undead octopus" is sent, the game only reads "deathgrip an" and doesn't know who to hit. Any advice??
 
 </div>
 
@@ -294,7 +294,7 @@ However, with this setup, things like "A giant ethereal ant" and "An undead octo
 
 one simple way to adjust it would be:
 
-(\w+) is waiting for you on the other side\.$
+(\\w+) is waiting for you on the other side\\.$
 
 Now this just means match the first whole word before the 'is'. So if example you had:
 
@@ -310,15 +310,15 @@ Tsuman, here's how I'm testing the regex.
 
 Juggleblood says to use:
 
-(\w+)\ stands before you.$
+(\\w+)\\ stands before you.$
 
 ..so to test, I use:
 
-(\w+)\ stands before you.\'$
+(\\w+)\\ stands before you.\\'$
 
 ..and I tell it to do this:
 
-echo(matches[2].."\n")
+echo(matches[2].."\\n")
 
 ..and then I type:
 
@@ -326,17 +326,17 @@ say A large boar stands before you.
 
 Like this:
 
-<420hp 217ma 155mv>
+\<420hp 217ma 155mv\>
 
 say A large boar stands before you.
 
 You say 'A large boar stands before you.'boar
 
-<420hp 217ma 155mv>
+\<420hp 217ma 155mv\>
 
 Now that I know my trigger works, I change it back to this:
 
-(\w+)\ stands before you.$
+(\\w+)\\ stands before you.$
 
 (exactly what Juggleblood wrote)
 
@@ -346,13 +346,13 @@ Now that I know my trigger works, I change it back to this:
 
 I appreciate the help from everyone, and I'm sorry if i'm just retarded and that's why it's not working lol here's what I have...
 
-(\w+) is waiting for you on the other side\.$ <-- what Juggleblood wrote.
+(\\w+) is waiting for you on the other side\\.$ \<-- what Juggleblood wrote.
 
 if matches[2] == "ant" then
 
 send("wraithtouch "..matches[3])
 
-else                                                           
+else 
 
 send("deathgrip "..matches[3])
 
@@ -392,12 +392,12 @@ end
 
 <div class="post" data-post-id="35589" data-author="abraxsis" data-date="2014-12-27T01:27:54+00:00" data-subject="Re: Some beginner mudlet help.">
 
-> **Tsuman wrote:**
+> <strong>Tsuman wrote:</strong>
 > if matches[2] == "ant" then
 > 
 > send("wraithtouch "..matches[3])
 > 
-> else                                                           
+> else 
 > 
 > send("deathgrip "..matches[3])
 > 
@@ -417,18 +417,18 @@ end
 
 I noticed you have matches [2] at the beginning and matches [3] later on, if im thinking right they should be matches [2]
 
----- sorry, looks like parsec beat me to the punch -----
+\---- sorry, looks like parsec beat me to the punch -----
 
 </div>
 
 <div class="post" data-post-id="35591" data-author="*juggleblood*" data-date="2014-12-27T04:30:16+00:00" data-subject="Re: Some beginner mudlet help.">
 
-> **Tsuman wrote:**
+> <strong>Tsuman wrote:</strong>
 > if matches[2] == "ant" then
 > 
 > send("wraithtouch "..matches[3])
 > 
-> else                                                           
+> else 
 > 
 > send("deathgrip "..matches[3])
 > 
@@ -436,6 +436,6 @@ I noticed you have matches [2] at the beginning and matches [3] later on, if im 
 > 
 > end
 
-typo...You changed matches[2]  to matches[3]
+typo...You changed matches[2] to matches[3]
 
 </div>

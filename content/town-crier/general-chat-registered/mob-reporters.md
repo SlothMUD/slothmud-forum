@@ -24,7 +24,7 @@ Thraxas
 
 <div class="post" data-post-id="17152" data-author="Medios" data-date="2007-03-02T22:51:57+00:00" data-subject="">
 
-I have always been totally against this spam.  If you cant notice that Demogorgon has been blinded, or weakened, then how in the fuck are you going to notice a spammy grouptell about it.  I have led some of the largest expeditions in sloth history and I never wanted anyone to use this spam(small group or large).  See whenever I play sloth, im actually paying attention.  I read whats happening and react to it, just like any other game.  Honestly these bots do not deserve grouptells to help them bot more.  See whenever I miss a blind or weaken message, the next round when I try to cast the spell it says that the mob is already blind/weak.  If you cant pay attention to that then wtf are you playing sloth for.  Theres really no point to bot to 5x40 because your still ignorant about the game.  If you do not try to actually learn what your doing (or learn some area other than demonweb group xp) then whats the point of the experience of sloth.  It just makes you look like a total dumbass when your 5x40 and cant do your own cr, or cant cycle a mob that I can kill with a trip40.  Thats the major problem with sloth lately, you scrubs will ruin the game and there will be no one left to lead your dumbasses around.
+I have always been totally against this spam. If you cant notice that Demogorgon has been blinded, or weakened, then how in the fuck are you going to notice a spammy grouptell about it. I have led some of the largest expeditions in sloth history and I never wanted anyone to use this spam(small group or large). See whenever I play sloth, im actually paying attention. I read whats happening and react to it, just like any other game. Honestly these bots do not deserve grouptells to help them bot more. See whenever I miss a blind or weaken message, the next round when I try to cast the spell it says that the mob is already blind/weak. If you cant pay attention to that then wtf are you playing sloth for. Theres really no point to bot to 5x40 because your still ignorant about the game. If you do not try to actually learn what your doing (or learn some area other than demonweb group xp) then whats the point of the experience of sloth. It just makes you look like a total dumbass when your 5x40 and cant do your own cr, or cant cycle a mob that I can kill with a trip40. Thats the major problem with sloth lately, you scrubs will ruin the game and there will be no one left to lead your dumbasses around.
 
 Mike
 
@@ -34,15 +34,15 @@ PS If you join my group you can go ahead and turn that shit off, cuz I really do
 
 <div class="post" data-post-id="17155" data-author="12345" data-date="2007-03-03T01:41:10+00:00" data-subject="">
 
-I'm obviously to blame for that. And yes, mine has an off switch.  I mostly use it when I'm leading.  I also have highlights and another window that tracks things if it's not on.
+I'm obviously to blame for that. And yes, mine has an off switch. I mostly use it when I'm leading. I also have highlights and another window that tracks things if it's not on.
 
-Strangely, I use it as an anti-bot mechanism.  If I assign someone to damn and damns aren't happening, I'll check to see if they got dragged into battle, ran out of mana, fell asleep, etc.  I also use it to figure out who my power players are.  If my weaks aren't hitting because the necros keep getting dragged into battle, they'll get moved down the protect chain.
+Strangely, I use it as an anti-bot mechanism. If I assign someone to damn and damns aren't happening, I'll check to see if they got dragged into battle, ran out of mana, fell asleep, etc. I also use it to figure out who my power players are. If my weaks aren't hitting because the necros keep getting dragged into battle, they'll get moved down the protect chain.
 
-Whining blinds has the interesting side effect of people competing to blind.  Since it often serves to keep people from botting... I kinda like it.
+Whining blinds has the interesting side effect of people competing to blind. Since it often serves to keep people from botting... I kinda like it.
 
-As the leader... I'm obviously not botting.  Its just another in a very long list of things I use to lead that's about 100% different from every other leader in the game.
+As the leader... I'm obviously not botting. Its just another in a very long list of things I use to lead that's about 100% different from every other leader in the game.
 
-To those that are also using these, please have a way to shut them off.  There's really no need for more and many many people think one is too many.
+To those that are also using these, please have a way to shut them off. There's really no need for more and many many people think one is too many.
 
 As far as myself... I like mine, and leader's perogative says it will almost always be on if I'm leading.
 
@@ -50,7 +50,7 @@ As far as myself... I like mine, and leader's perogative says it will almost alw
 
 <div class="post" data-post-id="17166" data-author="*juggleblood*" data-date="2007-03-04T03:59:43+00:00" data-subject="">
 
-#ac {^Everything begins to look more blue}{gt \\d14**\\d09**\\c11** Infravision DOWN! \\c11**\\d09**\\d14}
+\#ac {^Everything begins to look more blue}{gt \\\\d14\*\*\\\\d09\*\*\\\\c11\*\* Infravision DOWN! \\\\c11\*\*\\\\d09\*\*\\\\d14}
 
 Yeah but, have you ever watched spam ..... ON WEED?!
 
@@ -78,7 +78,7 @@ There does however seem to be an expansion in what members of groups see it as n
 
 The only things I see as needed to be automatically grouptelled are (I don't count leader directions etc. in this whatever the leader says is generally needed):
 
-My protector is dead ... <> please protect me
+My protector is dead ... \<\> please protect me
 
 I am webbed and will need to squirm after fight (possibly)
 
@@ -236,7 +236,7 @@ ROFL top points for putting in the time on that one hehe
 
 <div class="post" data-post-id="17179" data-author="Gimlet" data-date="2007-03-05T13:09:35+00:00" data-subject="">
 
-*applause*
+\*applause\*
 
 that was funny as hell elsie
 

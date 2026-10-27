@@ -26,25 +26,38 @@ Previously, the gwhere trigger for zmud would show a players location perfectly,
 
 The Mines of Moria" continent=": Wimpy
 
-What happened :)
+What happened <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
--Rig
+\-Rig
 
 </div>
 
 <div class="post" data-post-id="29789" data-author="*Breeze*" data-date="2009-08-08T09:41:37+00:00" data-subject="">
 
-I am glad they are being updated, however i have a small request.
+> <strong>Rigwarl wrote:</strong>
+> I am glad they are being updated, however i have a small request.
+> 
+> 
+> 
+> Previously, the gwhere trigger for zmud would show a players location perfectly, however now it seems to show
+> 
+> 
+> 
+> The Mines of Moria" continent=": Wimpy
+> 
+> 
+> 
+> 
+> 
+> What happened <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
+> 
+> 
+> 
+> 
+> 
+> \-Rig
 
-Previously, the gwhere trigger for zmud would show a players location perfectly, however now it seems to show
-
-The Mines of Moria" continent=": Wimpy
-
-What happened :)
-
--Rig[/quote:1khyiq7f]
-
-thats part of a feature being added.  i disabled it for now til the feature is done.
+thats part of a feature being added. i disabled it for now til the feature is done.
 
 link me to the gwhere script and will see if it can be updated (otherwise i search for it later)
 
@@ -54,7 +67,8 @@ link me to the gwhere script and will see if it can be updated (otherwise i sear
 
 Here's the code I'm using
 
-[code:1tlu260s]#script {strHTML = ~"~"}
+```
+#script {strHTML = ~"~"}
 
 #script {Sub GetWorldMap:Set objHTTP = CreateObject~(~"MSXML2.ServerXMLHTTP~"):objHTTP.Open ~"GET~", ~"http:~/~/www.slothmud.org/eqlist/dynmaps/mapserver.html~", ~"FALSE~":objHTTP.Send:strHTML = objHTTP.ResponseText:Set objHTTP = Nothing:End Sub}
 
@@ -66,25 +80,27 @@ Here's the code I'm using
 
 #show {%ansi( red)Global Where}
 
-#if (%1 = %null) {#show %mss( strHTML)} {#show %replace( %mss( strHTML), %proper( %1), %ansi( red)%proper( %1)%ansi( red))}[/code:1tlu260s]
+#if (%1 = %null) {#show %mss( strHTML)} {#show %replace( %mss( strHTML), %proper( %1), %ansi( red)%proper( %1)%ansi( red))}
+```
 
 </div>
 
 <div class="post" data-post-id="29791" data-author="Jag" data-date="2009-08-08T18:25:24+00:00" data-subject="">
 
-Very Cool.  I use the website a lot and appreciate your working on it.
+Very Cool. I use the website a lot and appreciate your working on it.
 
 </div>
 
 <div class="post" data-post-id="29793" data-author="*Breeze*" data-date="2009-08-10T00:08:09+00:00" data-subject="">
 
-Very Cool.  I use the website a lot and appreciate your working on it.[/quote:2es0nntg]
+> <strong>Jag wrote:</strong>
+> Very Cool. I use the website a lot and appreciate your working on it.
 
-Not a problem :) I enjoy it.
+Not a problem <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> I enjoy it.
 
- - Fixed a bug where clan names / titles with certain characters in them were not showing up on the "Who's Online" section of the website.
+ \- Fixed a bug where clan names / titles with certain characters in them were not showing up on the "Who's Online" section of the website.
 
- - Various Cartography section changes.  *too many to list*
+ \- Various Cartography section changes. \*too many to list\*
 
 </div>
 
@@ -94,28 +110,36 @@ It's been mislabeled for a while but the cartography section incorrectly shows 2
 
 Mercurial woods map [AH] leads to a map of Murkwood [SS] and vice versa.
 
--Rig
+\-Rig
 
 </div>
 
 <div class="post" data-post-id="29797" data-author="*Breeze*" data-date="2009-08-12T20:34:25+00:00" data-subject="">
 
-It's been mislabeled for a while but the cartography section incorrectly shows 2 maps.
+> <strong>Rigwarl wrote:</strong>
+> It's been mislabeled for a while but the cartography section incorrectly shows 2 maps.
+> 
+> 
+> 
+> Mercurial woods map [AH] leads to a map of Murkwood [SS] and vice versa.
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> \-Rig
 
-Mercurial woods map [AH] leads to a map of Murkwood [SS] and vice versa.
-
--Rig[/quote:if7ilkdr]
-
-Fixed! thanks :)
+Fixed! thanks <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="29837" data-author="*Breeze*" data-date="2009-08-16T11:51:24+00:00" data-subject="">
 
-Modified :)
+Modified <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-[code:1fj6727u]
-
+```
 #script {strHTML = ~"~"}
 
 #script {Sub GetWorldMap:Set objHTTP = CreateObject~(~"MSXML2.ServerXMLHTTP~"):objHTTP.Open ~"GET~", ~"http:~/~/www.slothmud.org/support/mapserver.php~", ~"FALSE~":objHTTP.Send:strHTML = objHTTP.ResponseText:Set objHTTP = Nothing:End Sub}
@@ -127,8 +151,7 @@ Modified :)
 #mss {FormatWorldMap}
 
 #if (%1 = %null) {#show %mss( strHTML)} {#show %replace( %mss( strHTML), %proper( %1), %ansi( 3)%proper( %1)%ansi( 7))}
-
-[/code:1fj6727u]
+```
 
 </div>
 
@@ -138,13 +161,13 @@ This is old-ish, but I don't think I posted it anywhere..
 
 On the menu, if you choose
 
-   Configure Site >> Store Menu State
+ Configure Site \>\> Store Menu State
 
 it will cause the menu to remember which items you had open and reopen them for you after you click them.
 
 (it wont collapse all nodes on page-load)
 
-   Configure Site >> Forget Menu State
+ Configure Site \>\> Forget Menu State
 
 turns this feature off.
 
@@ -172,7 +195,7 @@ week.
 
 New map submitted by Alris
 
-<LINK_TEXT text="http://www.slothmud.org/wiki/maproom/Ly ... tica_b.jpg">http://www.slothmud.org/wiki/maproom/Ly_Mount_%27An_Mystica_b.jpg</LINK_TEXT>
+http://www.slothmud.org/wiki/maproom/Ly_Mount_%27An_Mystica_b.jpg
 
 </div>
 
@@ -184,12 +207,12 @@ Hmm. This seems like as suitable places as any, so I guess I'll post it here. I 
 
 <div class="post" data-post-id="33089" data-author="*Breeze*" data-date="2011-12-12T17:43:07+00:00" data-subject="Re: .: Website Changes :.">
 
-> **Slowdraw wrote:**
+> <strong>Slowdraw wrote:</strong>
 > Hmm. This seems like as suitable places as any, so I guess I'll post it here. I found a couple of nonfunctional website links. The big one is that the MUSHclient plugin on the menu tree doesn't find the file and redirects to the site map. The other one is on the site map. Both the eqlist link in the equipment information section and the find book or manual link in the class abilities section try to link to [http://www.slothmud.org/www.slothmud.org/eqlist/](http://www.slothmud.org/www.slothmud.org/eqlist/) instead of [http://www.slothmud.org/index.php?module=EQList](http://www.slothmud.org/index.php?module=EQList) and end up redirecting back to the site map.
 
-+ Removed MUSHClient plugin link (until splork finishes/reuploads)
+\+ Removed MUSHClient plugin link (until splork finishes/reuploads)
 
-+ Redirected eqlist links to [http://www.slothmud.org/eqlist](http://www.slothmud.org/eqlist) on sitemap
+\+ Redirected eqlist links to [http://www.slothmud.org/eqlist](http://www.slothmud.org/eqlist) on sitemap
 
 Thanks for reporting
 

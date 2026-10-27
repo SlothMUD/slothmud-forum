@@ -18,55 +18,55 @@ Last 2 weeks i spent experimenting with various mud-clients, because i feel limi
 
 So, heres what i tried and my humble (and probably sometimes incorrect) opinion i have atm (reserve the right to change it):
 
-1. JMC
+1\. JMC
 
-Small, fast, stable, free. JS and VBS support. Almost frozen development, poor (from my point of view) internal language, nothing left to explore :)
+Small, fast, stable, free. JS and VBS support. Almost frozen development, poor (from my point of view) internal language, nothing left to explore <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-2. MMC
+2\. MMC
 
 Smaller, faster, more free. Support of Perl-scripts (what can be very powerful tool in professional's hands). At startup loads modules and almost everything can be re-done by modifying these modules. Hard-to-familiarize with, as for me (but thats just me).
 
-3. WinTin
+3\. WinTin
 
-Forced me to download ~23Mb .Net Framework thing, alil buggish, prints strange symbols on the screen what messes with triggers (i think it can be fixed somewhere in its menus). From first glance good internal language. "Script explorer" feature rocks. 
+Forced me to download \~23Mb .Net Framework thing, alil buggish, prints strange symbols on the screen what messes with triggers (i think it can be fixed somewhere in its menus). From first glance good internal language. "Script explorer" feature rocks. 
 
-4. Zmud
+4\. Zmud
 
-Paradise for programmers :) Bigger than others, loads slower, blinks and resizes its window before starts, written in Delphi (booo!). Alot of good features and stuff like automapper, status windows etc. Shareware, 30$.
+Paradise for programmers <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> Bigger than others, loads slower, blinks and resizes its window before starts, written in Delphi (booo!). Alot of good features and stuff like automapper, status windows etc. Shareware, 30$.
 
-Refused to run on next day. Cant even see it in Process list - dont know if its Zmud's or our 'favorite' OS' 'feature' :)
+Refused to run on next day. Cant even see it in Process list - dont know if its Zmud's or our 'favorite' OS' 'feature' <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-5. RoA client
+5\. RoA client
 
-A mystery. People say its 'another good client', but i didnt felt it in my case yet. Its still installed, but i getting tired of solving mysteries :)
+A mystery. People say its 'another good client', but i didnt felt it in my case yet. Its still installed, but i getting tired of solving mysteries <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-6. MUSH Client
+6\. MUSH Client
 
 A client i fell in love with. Support of many scripting languages like JS, VBS, Perl, Python, PHP (!) and something enigmatic called LUA, but also rich internal language. Shareware, 20$ (afair). Written in C++ (respect!), therefore fast. Plug-ins supported. Didnt found any negative side yet.
 
-7. TiniFugue
+7\. TiniFugue
 
-*nix-type client, as i'v been told. Tho i found .msi compilation for our 'favorite' OS, it still runs in command_prompt-like mode. Wont use it, either its good or bad idea :-/
+\*nix-type client, as i'v been told. Tho i found .msi compilation for our 'favorite' OS, it still runs in command\_prompt-like mode. Wont use it, either its good or bad idea :-/
 
-Well, thats all for now. I would be happy to hear your opinion on these clients, their pro's and con's you have already encountered, what do you like and what you dont and mostly important - why. Advanced technical details very appreciated. :)
+Well, thats all for now. I would be happy to hear your opinion on these clients, their pro's and con's you have already encountered, what do you like and what you dont and mostly important - why. Advanced technical details very appreciated. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 PS (for happy MUSH-client users):
 
 Can you guys please post here or email/mudmail/tell/etc to me an example of triggers, that: 
 
-a) Enters char_name in respond on "By what name do you wish to be known?"
+a) Enters char\_name in respond on "By what name do you wish to be known?"
 
 b) Enters password on "Password:"
 
-c) Sends Carriage_return on "*** Press return"
+c) Sends Carriage\_return on "\*\*\* Press return"
 
-Yes, i know there is Auto-login option, it works fine, but only with a) and b), i just dont want to let stupid program do important things instead of me (or my hand-and-brain-written triggers). Yes, i know its a shame for a person who declared himself to be limited by programming language not to be able to make a simple trigger, but i give up - i tried ANY and ALL possible and impossible combinations of trigger_patterns, regular_expression and options - its just dont work.
+Yes, i know there is Auto-login option, it works fine, but only with a) and b), i just dont want to let stupid program do important things instead of me (or my hand-and-brain-written triggers). Yes, i know its a shame for a person who declared himself to be limited by programming language not to be able to make a simple trigger, but i give up - i tried ANY and ALL possible and impossible combinations of trigger\_patterns, regular\_expression and options - its just dont work.
 
 I even studied JMC-logs in hexadecimal mode, trying to see what the server sends to me in that prompt, because somebody told me that server writes something invisible in Telnet session for some purpose, unknown to me.
 
 Strangely, triggers i wrote work fine with my home-compiled CircleMUD 3.1, but not with SlothMUD ...
 
-Well, enough of complaining. I rely on you, the rest is on me. :)
+Well, enough of complaining. I rely on you, the rest is on me. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 PPS. Sorry for poor english (i tried my best) and sorry if i posted it in wrong place (i suspect it should be placed in "Client scripts", but i hope here i have more chances to get response). Thanx in advance.
 
@@ -76,11 +76,11 @@ PPS. Sorry for poor english (i tried my best) and sorry if i posted it in wrong 
 
 There's a little bit of a learning curve when you start to use Mushclient, but once you get a little practice it gets much easier.
 
-To send a blank <enter>, you want to send   \r  
+To send a blank \<enter\>, you want to send \\r 
 
-The trick is where you want to send it.  If you go build your trigger, one of the options (below the color selection drop-down box) is a selection that's called "send to:".  You want to select:  World(immediate)
+The trick is where you want to send it. If you go build your trigger, one of the options (below the color selection drop-down box) is a selection that's called "send to:". You want to select: World(immediate)
 
-Also, when you double click on the trigger it shows in the interface there the number of times this trigger has been matched.  So you can create one and if you're having trouble you can sometimes tell if the trigger isn't matching for some reason or if the effect of the trigger isn't working the way you expect it to.
+Also, when you double click on the trigger it shows in the interface there the number of times this trigger has been matched. So you can create one and if you're having trouble you can sometimes tell if the trigger isn't matching for some reason or if the effect of the trigger isn't working the way you expect it to.
 
 Charles
 
@@ -106,7 +106,7 @@ Been using MUSHclient for a couple of years and will certainly be sticking with 
 
 <div class="post" data-post-id="3937" data-author="Nascosto" data-date="2005-01-25T04:49:00+00:00" data-subject="">
 
->> Refused to run on next day. Cant even see it in Process list - dont know if its Zmud's or our 'favorite' OS' 'feature' Smile 
+\>\> Refused to run on next day. Cant even see it in Process list - dont know if its Zmud's or our 'favorite' OS' 'feature' Smile 
 
 This happened too me when I disabled the LicCtrl service from starting - Zmud won't even start in that case.
 

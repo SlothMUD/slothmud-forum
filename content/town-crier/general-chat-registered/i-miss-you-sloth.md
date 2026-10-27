@@ -18,7 +18,7 @@ And of course, now that I'm almost free of crushing burdens, everyone's going to
 
 /sniff
 
-Anyways, this is my plaintive wail.  Keep grouping, SlothMUD!
+Anyways, this is my plaintive wail. Keep grouping, SlothMUD!
 
 </div>
 
@@ -36,9 +36,9 @@ The holidays are practically our busiest time I thought. Everyone hiding from th
 
 <div class="post" data-post-id="35555" data-author="Marvel" data-date="2014-12-12T14:01:27+00:00" data-subject="Re: I miss you Sloth">
 
-I HAZ FIXED TEH QUOTE 4 U, XOXO. </troll>
+I HAZ FIXED TEH QUOTE 4 U, XOXO. \</troll\>
 
-> **van wrote:**
+> <strong>van wrote:</strong>
 > Work been crushing me, I keep longingly looking at the client alias, wishing I could just forget the world and finally get to running some CODE FOR eq LIST.
 > 
 > 
@@ -51,6 +51,6 @@ I HAZ FIXED TEH QUOTE 4 U, XOXO. </troll>
 > 
 > 
 > 
-> Anyways, this is my plaintive wail.  Keep grouping, SlothMUD!
+> Anyways, this is my plaintive wail. Keep grouping, SlothMUD!
 
 </div>

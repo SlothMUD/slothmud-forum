@@ -24,7 +24,7 @@ catch me online or mud mail me if you are interested
 
 <div class="post" data-post-id="1228" data-author="impz" data-date="2004-08-01T12:35:49+00:00" data-subject="">
 
-to add, i do need a red minidemon brooch ...and i might have other valuable eq u would want to come online to see..not too sure what i have now :)
+to add, i do need a red minidemon brooch ...and i might have other valuable eq u would want to come online to see..not too sure what i have now <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

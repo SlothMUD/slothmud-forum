@@ -28,7 +28,7 @@ Widow
 
 <div class="post" data-post-id="19834" data-author="Malison" data-date="2007-08-22T19:02:56+00:00" data-subject="">
 
-It seems likely to me that iouns allow you to memorize bard spells as well as mage ones.  Verin (C/D/O/B) mem's gate and phase door.  If i remember correctly, she wasn't able to mem gate as a cleric spell, but upon reaching 26 bard she could.
+It seems likely to me that iouns allow you to memorize bard spells as well as mage ones. Verin (C/D/O/B) mem's gate and phase door. If i remember correctly, she wasn't able to mem gate as a cleric spell, but upon reaching 26 bard she could.
 
 </div>
 
@@ -40,7 +40,7 @@ That's gotta be it. I tried to mem curse, which mages get but my bard side doesn
 
 <div class="post" data-post-id="19838" data-author="Alberich" data-date="2007-08-22T20:14:30+00:00" data-subject="">
 
-actually it's just mage spells.  bards happen to get some, and can mem those, but not bard songs or anything.
+actually it's just mage spells. bards happen to get some, and can mem those, but not bard songs or anything.
 
 a good idea especially when small is to mem a couple gates - good for token hunting on fargate days.
 
@@ -50,6 +50,6 @@ btw you can mem 6 spells, just 3 from each levels (so you can't mem 6 firewinds,
 
 <div class="post" data-post-id="19851" data-author="Mog" data-date="2007-08-23T09:16:14+00:00" data-subject="">
 
-A high cost spell that I like to mem is the Haste spell.  At 60 mana a few of these can save much time later :)
+A high cost spell that I like to mem is the Haste spell. At 60 mana a few of these can save much time later <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

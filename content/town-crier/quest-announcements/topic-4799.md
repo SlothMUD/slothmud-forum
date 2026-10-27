@@ -30,7 +30,7 @@ will reschedule for a few hours later, i guess.
 
 <div class="post" data-post-id="38478" data-author="*Breeze*" data-date="2017-11-12T21:48:50+00:00" data-subject="Re: Quest - 11 Nov 2017 ( Was :) )">
 
-Didn't go all that well.  (not completely my fault)
+Didn't go all that well. (not completely my fault)
 
 Zeke had some constructive criticism which I will work into next version.
 

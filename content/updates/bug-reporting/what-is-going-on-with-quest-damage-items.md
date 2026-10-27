@@ -28,6 +28,6 @@ high limit .2 gaunts?
 
 <div class="post" data-post-id="23138" data-author="Weasel" data-date="2008-03-07T17:35:01+00:00" data-subject="">
 
-I'll give ya 50k for them  :twisted:
+I'll give ya 50k for them <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

@@ -14,55 +14,55 @@ post_count: 5
 
 You get a tattered folio from a small wax-sealed chest that's on the ground.
 
-                    Thief Skills:
+ Thief Skills:
 
-sneak                 - Lvl:  1,           Learned  85%
+sneak - Lvl: 1, Learned 85%
 
-steal                 - Lvl:  1,           Learned  85%
+steal - Lvl: 1, Learned 85%
 
-backstab              - Lvl:  1,           Learned  90%
+backstab - Lvl: 1, Learned 90%
 
-pick locks            - Lvl:  1,           Learned  85%
+pick locks - Lvl: 1, Learned 85%
 
-tail                  - Lvl:  1,           Learned  85%
+tail - Lvl: 1, Learned 85%
 
-glance                - Lvl:  1,           Learned  85%
+glance - Lvl: 1, Learned 85%
 
-protect               - Lvl:  1,           Learned  85%
+protect - Lvl: 1, Learned 85%
 
-search                - Lvl:  1,           Learned  95%
+search - Lvl: 1, Learned 95%
 
-palm                  - Lvl:  5,           Learned  85%
+palm - Lvl: 5, Learned 85%
 
-trip                  - Lvl:  8,           Learned  85%
+trip - Lvl: 8, Learned 85%
 
-disarm traps          - Lvl:  9,           Learned  95%
+disarm traps - Lvl: 9, Learned 95%
 
-double attack         - Lvl: 10,           Learned  85%
+double attack - Lvl: 10, Learned 85%
 
-climb                 - Lvl: 10,           Learned  85%
+climb - Lvl: 10, Learned 85%
 
-hide                  - Lvl: 12,           Learned  85%
+hide - Lvl: 12, Learned 85%
 
-spy                   - Lvl: 13,           Learned  85%
+spy - Lvl: 13, Learned 85%
 
-squirm                - Lvl: 15,           Learned  85%
+squirm - Lvl: 15, Learned 85%
 
-circle                - Lvl: 15,           Learned  85%
+circle - Lvl: 15, Learned 85%
 
-throw                 - Lvl: 20,           Learned  85%
+throw - Lvl: 20, Learned 85%
 
-sixth sense           - Lvl: 22,           Learned  85%
+sixth sense - Lvl: 22, Learned 85%
 
-double stab           - Lvl: 25,           Learned  95%
+double stab - Lvl: 25, Learned 95%
 
-apply poison          - Lvl: 31,           Learned  85%
+apply poison - Lvl: 31, Learned 85%
 
-study                 - Lvl: 35,           Learned  90%
+study - Lvl: 35, Learned 90%
 
-shadowwalk            - Lvl: 36,           Learned  85%
+shadowwalk - Lvl: 36, Learned 85%
 
-excruciating blow     - Lvl: 40,           Learned  85%
+excruciating blow - Lvl: 40, Learned 85%
 
 Good Luck!
 
@@ -106,7 +106,7 @@ Gratz dude
 
 And with the mighty triple-stab comes:
 
-<801hp 318ma 237mv><875886393xp>
+\<801hp 318ma 237mv\>\<875886393xp\>
 
 The king of Theris hates your guts!
 
@@ -124,6 +124,6 @@ Your brutal backstab causes the king of Theris to writher in agony, opening up i
 
 <div class="post" data-post-id="15064" data-author="Rynquald" data-date="2006-11-07T20:41:57+00:00" data-subject="">
 
-lol, I like it how he's writhing in agony at the thought that you allmost tri stabbed him :)
+lol, I like it how he's writhing in agony at the thought that you allmost tri stabbed him <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

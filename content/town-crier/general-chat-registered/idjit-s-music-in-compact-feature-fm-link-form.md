@@ -28,13 +28,13 @@ Spotify Artist Page
 
 Spotify Playlist URL:
 
-[<LINK_TEXT text="https://open.spotify.com/playlist/0bfWQ ... qsL8mgZbKT">https://open.spotify.com/playlist/0bfWQDwIV4MqqsL8mgZbKT</LINK_TEXT>](https://open.spotify.com/playlist/0bfWQDwIV4MqqsL8mgZbKT)
+[https://open.spotify.com/playlist/0bfWQDwIV4MqqsL8mgZbKT](https://open.spotify.com/playlist/0bfWQDwIV4MqqsL8mgZbKT)
 
 Bandcamp Follow thingy
 
 [https://dougstoothoff.bandcamp.com/follow_me](https://dougstoothoff.bandcamp.com/follow_me)
 
-=-=-=-=-=-=-=-=-= Monetized Tracks (Stuff DistroKid Would Allow) =-=-=-=-=-=-=-=-=-=-=
+\=-=-=-=-=-=-=-=-= Monetized Tracks (Stuff DistroKid Would Allow) =-=-=-=-=-=-=-=-=-=-=
 
 album links:
 
@@ -378,7 +378,7 @@ single links:
 
 [https://ffm.to/just-bangin-along](https://ffm.to/just-bangin-along)
 
-[<LINK_TEXT text="https://ffm.to/willingness-to-grind-is- ... correlated">https://ffm.to/willingness-to-grind-is-negatively-correlated</LINK_TEXT>](https://ffm.to/willingness-to-grind-is-negatively-correlated)
+[https://ffm.to/willingness-to-grind-is-negatively-correlated](https://ffm.to/willingness-to-grind-is-negatively-correlated)
 
 [https://ffm.to/journey-of-doubt](https://ffm.to/journey-of-doubt)
 
@@ -570,41 +570,41 @@ single links:
 
 [https://ffm.to/whimsy-number-1](https://ffm.to/whimsy-number-1)
 
-=-=-=-=-=-=-=-= Non Monetized Tracks (soundtrack, video games etc) =-=-=-=-=-=-=-=-=
+\=-=-=-=-=-=-=-= Non Monetized Tracks (soundtrack, video games etc) =-=-=-=-=-=-=-=-=
 
 SILMARILLION:
 
-[<LINK_TEXT text="https://soundcloud.com/doug-stoothoff/e ... or-numenor">https://soundcloud.com/doug-stoothoff/elros-departs-for-numenor</LINK_TEXT>](https://soundcloud.com/doug-stoothoff/elros-departs-for-numenor)
+[https://soundcloud.com/doug-stoothoff/elros-departs-for-numenor](https://soundcloud.com/doug-stoothoff/elros-departs-for-numenor)
 
-[<LINK_TEXT text="https://soundcloud.com/doug-stoothoff/e ... -ancalagon">https://soundcloud.com/doug-stoothoff/earendil-slays-ancalagon</LINK_TEXT>](https://soundcloud.com/doug-stoothoff/earendil-slays-ancalagon)
+[https://soundcloud.com/doug-stoothoff/earendil-slays-ancalagon](https://soundcloud.com/doug-stoothoff/earendil-slays-ancalagon)
 
 [https://soundcloud.com/doug-stoothoff/journey-of-doubt](https://soundcloud.com/doug-stoothoff/journey-of-doubt)
 
-[<LINK_TEXT text="https://soundcloud.com/doug-stoothoff/d ... -the-night">https://soundcloud.com/doug-stoothoff/defeating-glaurung-this-only-was-wanting-now-comes-the-night</LINK_TEXT>](https://soundcloud.com/doug-stoothoff/defeating-glaurung-this-only-was-wanting-now-comes-the-night)
+[https://soundcloud.com/doug-stoothoff/defeating-glaurung-this-only-was-wanting-now-comes-the-night](https://soundcloud.com/doug-stoothoff/defeating-glaurung-this-only-was-wanting-now-comes-the-night)
 
-[<LINK_TEXT text="https://soundcloud.com/doug-stoothoff/e ... the-sunset">https://soundcloud.com/doug-stoothoff/even-so-they-hissed-at-serech-at-the-sunset</LINK_TEXT>](https://soundcloud.com/doug-stoothoff/even-so-they-hissed-at-serech-at-the-sunset)
+[https://soundcloud.com/doug-stoothoff/even-so-they-hissed-at-serech-at-the-sunset](https://soundcloud.com/doug-stoothoff/even-so-they-hissed-at-serech-at-the-sunset)
 
-[<LINK_TEXT text="https://soundcloud.com/doug-stoothoff/t ... argothrond">https://soundcloud.com/doug-stoothoff/turin-and-gwindor-dorthonion-to-nargothrond</LINK_TEXT>](https://soundcloud.com/doug-stoothoff/turin-and-gwindor-dorthonion-to-nargothrond)
+[https://soundcloud.com/doug-stoothoff/turin-and-gwindor-dorthonion-to-nargothrond](https://soundcloud.com/doug-stoothoff/turin-and-gwindor-dorthonion-to-nargothrond)
 
-[<LINK_TEXT text="https://soundcloud.com/doug-stoothoff/a ... ns-capture">https://soundcloud.com/doug-stoothoff/among-the-outlaws-amon-rudh-turins-capture</LINK_TEXT>](https://soundcloud.com/doug-stoothoff/among-the-outlaws-amon-rudh-turins-capture)
+[https://soundcloud.com/doug-stoothoff/among-the-outlaws-amon-rudh-turins-capture](https://soundcloud.com/doug-stoothoff/among-the-outlaws-amon-rudh-turins-capture)
 
-[<LINK_TEXT text="https://soundcloud.com/doug-stoothoff/t ... -in-dimbar">https://soundcloud.com/doug-stoothoff/turin-and-beleg-in-dimbar</LINK_TEXT>](https://soundcloud.com/doug-stoothoff/turin-and-beleg-in-dimbar)
+[https://soundcloud.com/doug-stoothoff/turin-and-beleg-in-dimbar](https://soundcloud.com/doug-stoothoff/turin-and-beleg-in-dimbar)
 
-[<LINK_TEXT text="https://soundcloud.com/doug-stoothoff/a ... come-again">https://soundcloud.com/doug-stoothoff/aure-entuluva-day-shall-come-again</LINK_TEXT>](https://soundcloud.com/doug-stoothoff/aure-entuluva-day-shall-come-again)
+[https://soundcloud.com/doug-stoothoff/aure-entuluva-day-shall-come-again](https://soundcloud.com/doug-stoothoff/aure-entuluva-day-shall-come-again)
 
-[<LINK_TEXT text="https://soundcloud.com/doug-stoothoff/e ... -of-feanor">https://soundcloud.com/doug-stoothoff/end-of-dagor-nuin-giliath-death-of-feanor</LINK_TEXT>](https://soundcloud.com/doug-stoothoff/end-of-dagor-nuin-giliath-death-of-feanor)
+[https://soundcloud.com/doug-stoothoff/end-of-dagor-nuin-giliath-death-of-feanor](https://soundcloud.com/doug-stoothoff/end-of-dagor-nuin-giliath-death-of-feanor)
 
 [https://soundcloud.com/doug-stoothoff/aglarebwav](https://soundcloud.com/doug-stoothoff/aglarebwav)
 
 [https://soundcloud.com/doug-stoothoff/tol-in-gaurhoth](https://soundcloud.com/doug-stoothoff/tol-in-gaurhoth)
 
-[<LINK_TEXT text="https://soundcloud.com/doug-stoothoff/t ... -the-jewel">https://soundcloud.com/doug-stoothoff/the-quest-of-the-jewel</LINK_TEXT>](https://soundcloud.com/doug-stoothoff/the-quest-of-the-jewel)
+[https://soundcloud.com/doug-stoothoff/the-quest-of-the-jewel](https://soundcloud.com/doug-stoothoff/the-quest-of-the-jewel)
 
-[<LINK_TEXT text="https://soundcloud.com/doug-stoothoff/o ... ht-version">https://soundcloud.com/doug-stoothoff/of-feanor-and-the-unchaining-of-melkor-menelic-was-right-version</LINK_TEXT>](https://soundcloud.com/doug-stoothoff/of-feanor-and-the-unchaining-of-melkor-menelic-was-right-version)
+[https://soundcloud.com/doug-stoothoff/of-feanor-and-the-unchaining-of-melkor-menelic-was-right-version](https://soundcloud.com/doug-stoothoff/of-feanor-and-the-unchaining-of-melkor-menelic-was-right-version)
 
-[<LINK_TEXT text="https://soundcloud.com/doug-stoothoff/o ... -of-melkor">https://soundcloud.com/doug-stoothoff/of-feanor-and-the-unchaining-of-melkor</LINK_TEXT>](https://soundcloud.com/doug-stoothoff/of-feanor-and-the-unchaining-of-melkor)
+[https://soundcloud.com/doug-stoothoff/of-feanor-and-the-unchaining-of-melkor](https://soundcloud.com/doug-stoothoff/of-feanor-and-the-unchaining-of-melkor)
 
-[<LINK_TEXT text="https://soundcloud.com/doug-stoothoff/p ... xe-on-foot">https://soundcloud.com/doug-stoothoff/prophecy-of-the-north-the-helcaraxe-on-foot</LINK_TEXT>](https://soundcloud.com/doug-stoothoff/prophecy-of-the-north-the-helcaraxe-on-foot)
+[https://soundcloud.com/doug-stoothoff/prophecy-of-the-north-the-helcaraxe-on-foot](https://soundcloud.com/doug-stoothoff/prophecy-of-the-north-the-helcaraxe-on-foot)
 
 [https://soundcloud.com/doug-stoothoff/of-the-sindar](https://soundcloud.com/doug-stoothoff/of-the-sindar)
 
@@ -612,37 +612,37 @@ SILMARILLION:
 
 [https://soundcloud.com/doug-stoothoff/greatmarchwav](https://soundcloud.com/doug-stoothoff/greatmarchwav)
 
-[<LINK_TEXT text="https://soundcloud.com/doug-stoothoff/l ... e-nirnaeth">https://soundcloud.com/doug-stoothoff/lining-up-for-the-nirnaeth</LINK_TEXT>](https://soundcloud.com/doug-stoothoff/lining-up-for-the-nirnaeth)
+[https://soundcloud.com/doug-stoothoff/lining-up-for-the-nirnaeth](https://soundcloud.com/doug-stoothoff/lining-up-for-the-nirnaeth)
 
-[<LINK_TEXT text="https://soundcloud.com/doug-stoothoff/e ... te-phrases">https://soundcloud.com/doug-stoothoff/earendil-piano-alternate-phrases</LINK_TEXT>](https://soundcloud.com/doug-stoothoff/earendil-piano-alternate-phrases)
+[https://soundcloud.com/doug-stoothoff/earendil-piano-alternate-phrases](https://soundcloud.com/doug-stoothoff/earendil-piano-alternate-phrases)
 
-[<LINK_TEXT text="https://soundcloud.com/doug-stoothoff/f ... adriel-wav">https://soundcloud.com/doug-stoothoff/finrod-galadriel-wav</LINK_TEXT>](https://soundcloud.com/doug-stoothoff/finrod-galadriel-wav)
+[https://soundcloud.com/doug-stoothoff/finrod-galadriel-wav](https://soundcloud.com/doug-stoothoff/finrod-galadriel-wav)
 
-[<LINK_TEXT text="https://soundcloud.com/doug-stoothoff/e ... 6-13-rough">https://soundcloud.com/doug-stoothoff/earendillinwe-2022-06-13-rough</LINK_TEXT>](https://soundcloud.com/doug-stoothoff/earendillinwe-2022-06-13-rough)
+[https://soundcloud.com/doug-stoothoff/earendillinwe-2022-06-13-rough](https://soundcloud.com/doug-stoothoff/earendillinwe-2022-06-13-rough)
 
 VIDEO GAME BASED COVER TRACKS
 
-[<LINK_TEXT text="https://soundcloud.com/doug-stoothoff/t ... pcom-cover">https://soundcloud.com/doug-stoothoff/tenchi-wo-kurau-ii-shokatsu-komei-den-field-theme-1-famicom-1991-capcom-cover</LINK_TEXT>](https://soundcloud.com/doug-stoothoff/tenchi-wo-kurau-ii-shokatsu-komei-den-field-theme-1-famicom-1991-capcom-cover)
+[https://soundcloud.com/doug-stoothoff/tenchi-wo-kurau-ii-shokatsu-komei-den-field-theme-1-famicom-1991-capcom-cover](https://soundcloud.com/doug-stoothoff/tenchi-wo-kurau-ii-shokatsu-komei-den-field-theme-1-famicom-1991-capcom-cover)
 
-[<LINK_TEXT text="https://soundcloud.com/doug-stoothoff/m ... ddle-eight">https://soundcloud.com/doug-stoothoff/mach-rider-middle-eight</LINK_TEXT>](https://soundcloud.com/doug-stoothoff/mach-rider-middle-eight)
+[https://soundcloud.com/doug-stoothoff/mach-rider-middle-eight](https://soundcloud.com/doug-stoothoff/mach-rider-middle-eight)
 
 [https://soundcloud.com/doug-stoothoff/crenelwav](https://soundcloud.com/doug-stoothoff/crenelwav)
 
-[<LINK_TEXT text="https://soundcloud.com/doug-stoothoff/t ... of-the-jam">https://soundcloud.com/doug-stoothoff/to-the-full-extent-of-the-jam</LINK_TEXT>](https://soundcloud.com/doug-stoothoff/to-the-full-extent-of-the-jam)
+[https://soundcloud.com/doug-stoothoff/to-the-full-extent-of-the-jam](https://soundcloud.com/doug-stoothoff/to-the-full-extent-of-the-jam)
 
-[<LINK_TEXT text="https://soundcloud.com/doug-stoothoff/t ... bs-ordeals">https://soundcloud.com/doug-stoothoff/the-mid-levelers-anthem-ff4-mt-hobbs-ordeals</LINK_TEXT>](https://soundcloud.com/doug-stoothoff/the-mid-levelers-anthem-ff4-mt-hobbs-ordeals)
+[https://soundcloud.com/doug-stoothoff/the-mid-levelers-anthem-ff4-mt-hobbs-ordeals](https://soundcloud.com/doug-stoothoff/the-mid-levelers-anthem-ff4-mt-hobbs-ordeals)
 
 MOVIES AND TV COVER TRACKS
 
 [https://soundcloud.com/doug-stoothoff/rulingrussiabadly](https://soundcloud.com/doug-stoothoff/rulingrussiabadly)
 
-[<LINK_TEXT text="https://soundcloud.com/doug-stoothoff/r ... peror-1987">https://soundcloud.com/doug-stoothoff/rain-i-want-a-divorce-ryuichi-sakamoto-cover-the-last-emperor-1987</LINK_TEXT>](https://soundcloud.com/doug-stoothoff/rain-i-want-a-divorce-ryuichi-sakamoto-cover-the-last-emperor-1987)
+[https://soundcloud.com/doug-stoothoff/rain-i-want-a-divorce-ryuichi-sakamoto-cover-the-last-emperor-1987](https://soundcloud.com/doug-stoothoff/rain-i-want-a-divorce-ryuichi-sakamoto-cover-the-last-emperor-1987)
 
 [https://soundcloud.com/doug-stoothoff/ingsocwav](https://soundcloud.com/doug-stoothoff/ingsocwav)
 
-[<LINK_TEXT text="https://soundcloud.com/doug-stoothoff/e ... erball1975">https://soundcloud.com/doug-stoothoff/energy-corporation-houston-corporate-anthem-rollerball1975</LINK_TEXT>](https://soundcloud.com/doug-stoothoff/energy-corporation-houston-corporate-anthem-rollerball1975)
+[https://soundcloud.com/doug-stoothoff/energy-corporation-houston-corporate-anthem-rollerball1975](https://soundcloud.com/doug-stoothoff/energy-corporation-houston-corporate-anthem-rollerball1975)
 
-[<LINK_TEXT text="https://soundcloud.com/doug-stoothoff/r ... e-sandworm">https://soundcloud.com/doug-stoothoff/riding-the-sandworm</LINK_TEXT>](https://soundcloud.com/doug-stoothoff/riding-the-sandworm)
+[https://soundcloud.com/doug-stoothoff/riding-the-sandworm](https://soundcloud.com/doug-stoothoff/riding-the-sandworm)
 
 [https://soundcloud.com/doug-stoothoff/shogunfavewav](https://soundcloud.com/doug-stoothoff/shogunfavewav)
 

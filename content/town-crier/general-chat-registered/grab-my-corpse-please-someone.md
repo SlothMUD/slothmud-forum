@@ -12,11 +12,11 @@ post_count: 5
 
 <div class="post" data-post-id="22454" data-author="madmax" data-date="2008-02-01T23:56:39+00:00" data-subject="Grab my corpse please someone.">
 
-Died in Moria while trying to get my looted stuff back form a previous death.  Forgot to rejoin channel and ICQ was busted at the moment so I just quit! out. 
+Died in Moria while trying to get my looted stuff back form a previous death. Forgot to rejoin channel and ICQ was busted at the moment so I just quit! out. 
 
-I logged back in and then the MUD crashed apparently.  I can not connect currently.
+I logged back in and then the MUD crashed apparently. I can not connect currently.
 
-Would someone please grab my corpse for me when the MUD comes back.  I have to leave and I cant stick around to wait.
+Would someone please grab my corpse for me when the MUD comes back. I have to leave and I cant stick around to wait.
 
 Thanks in advance.
 
@@ -34,7 +34,7 @@ I have your corpse, please let me know when you are planning to go online so I c
 
 <div class="post" data-post-id="22458" data-author="Autolycos" data-date="2008-02-02T04:55:55+00:00" data-subject="">
 
-I'll give you a dollar for his corpse  :twisted:
+I'll give you a dollar for his corpse <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -46,7 +46,7 @@ I was mistaken, I dont have your corpses, I picked up two,,,,
 
 ummm, iron rations, thats it , iron rations
 
--winks at auto-
+\-winks at auto-
 
 </div>
 
@@ -56,6 +56,6 @@ you've made the right choice...
 
 welcome to the dark side son
 
-we have cookies!  :twisted:
+we have cookies! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

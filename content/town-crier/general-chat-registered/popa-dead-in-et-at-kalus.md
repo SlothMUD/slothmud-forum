@@ -12,7 +12,7 @@ post_count: 2
 
 <div class="post" data-post-id="15613" data-author="Popa" data-date="2006-12-12T15:16:00+00:00" data-subject="popa dead in ET at kalus">
 
-see above :)
+see above <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

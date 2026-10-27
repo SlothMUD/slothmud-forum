@@ -35,7 +35,7 @@ a strange triangular shaped token
 an opposum's pouch(invisible)
 ```
 
-**enchant shard**
+<strong>enchant shard</strong>
 
 ```
 The Decider tells you 'You don't have all the components!'
@@ -76,12 +76,12 @@ a gray gemstone shard..It has a soft glowing aura!
 
 Best regards.
 
-Pd. *cough*
+Pd. \*cough\*
 
 </div>
 
 <div class="post" data-post-id="31457" data-author="Tuck" data-date="2010-08-11T21:47:23+00:00" data-subject="Re: Graygem shard forge broken?">
 
-blah, that was worst fuckup ever :)
+blah, that was worst fuckup ever <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

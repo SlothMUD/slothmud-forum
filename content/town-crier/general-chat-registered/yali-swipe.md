@@ -22,7 +22,7 @@ And there is a different killing blow msg for every species of mob.
 
 <div class="post" data-post-id="34086" data-author="Ker" data-date="2013-02-24T20:31:58+00:00" data-subject="Re: Yali swipe">
 
-Ohm :) thx Jb.
+Ohm <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> thx Jb.
 
 Dr
 
@@ -38,7 +38,7 @@ It's not a huge improvement, but it is kinda fun:
 
 You raise your hands to the sky and rapidly shift into an enormous owlbear (Testdruid).
 
-<1753hp 590ma 305mv>
+\<1753hp 590ma 305mv\>
 
 headswipe kobold
 
@@ -60,23 +60,23 @@ You get gold coins from the corpse of a male kobold that's on the ground.
 
 There were 100 coins.
 
-<1753hp 593ma 305mv>
+\<1753hp 593ma 305mv\>
 
 l
 
 Main Entrance to the Kobold Caves
 
-   This gigantic cavern inspires awe.  The large grotto stretches far to 
+ This gigantic cavern inspires awe. The large grotto stretches far to 
 
-the south and out of sight.  Directly south is a small village, surrounded 
+the south and out of sight. Directly south is a small village, surrounded 
 
 by a palisade that reaches from the western wall of the cavern to the 
 
-eastern one.  Some sort of fungus gardens are visible to the east and west.  
+eastern one. Some sort of fungus gardens are visible to the east and west. 
 
 The entrance to a wide passage leads north away from this place.
 
-Exits: North  East  South  West  
+Exits: North East South West 
 
 The headless corpse of a male kobold is lying here.
 

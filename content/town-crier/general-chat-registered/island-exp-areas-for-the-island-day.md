@@ -20,55 +20,55 @@ I've also led some island exp after the quest, so I have more, than 6 hrs of isl
 
 We've hit:
 
-- Saurian Frontier
+\- Saurian Frontier
 
-- Orc Mines
+\- Orc Mines
 
-- Infernite Mines
+\- Infernite Mines
 
-- Argosian Wreckage
+\- Argosian Wreckage
 
-- Temple of Neptune (Amphitrite).
+\- Temple of Neptune (Amphitrite).
 
 When compared to the usual SS exp run:
 
-- Ogres
+\- Ogres
 
-- Demon Web (the middle part, no upper)
+\- Demon Web (the middle part, no upper)
 
-- Ettins+adult rocs
+\- Ettins+adult rocs
 
-- UD2
+\- UD2
 
-- Opera
+\- Opera
 
-- Chinchilla guardian
+\- Chinchilla guardian
 
-- Salazar
+\- Salazar
 
-- a beholder - he got in the way,
+\- a beholder - he got in the way,
 
 the island areas yielded same or higher exp, even when hitting cold-vulnerable dinos with clubs on the island repeatedly.
 
 I've made the following conclusions from that run, mainly that Island exp is neat:
 
-* we can hit island for same exp as in SS, while popping some random cps only found on Island (e.g., cps for saurian sleeves, sabatons and a small +mr robe and other caster stuff)
+\* we can hit island for same exp as in SS, while popping some random cps only found on Island (e.g., cps for saurian sleeves, sabatons and a small +mr robe and other caster stuff)
 
-* Saurian Frontier is excellent exp for a neatly set group of players: carry 1-2 mage primes here, avoid diplodocus and T-rex mom, and preferrably hit non-vulnerable mobs [moderately] aged. Have 3-4 monks/druids and just mow down the dinos with the trees. Have Dr, and keep going in outside areas until your monks beg you to stop or just go afk on you.
+\* Saurian Frontier is excellent exp for a neatly set group of players: carry 1-2 mage primes here, avoid diplodocus and T-rex mom, and preferrably hit non-vulnerable mobs [moderately] aged. Have 3-4 monks/druids and just mow down the dinos with the trees. Have Dr, and keep going in outside areas until your monks beg you to stop or just go afk on you.
 
-* island is the easiest place to regen mana thanks to Enea, which means you have to make manual breaks every few areas anyway.
+\* island is the easiest place to regen mana thanks to Enea, which means you have to make manual breaks every few areas anyway.
 
 Some areas I have considered, but haven't hit, include:
 
-- Cicero's Prison
+\- Cicero's Prison
 
-- Aaost - too thick?
+\- Aaost - too thick?
 
-- The Valley of the Old Ones - too low xp?
+\- The Valley of the Old Ones - too low xp?
 
-- Castle of R'Lyeh - hard hitting mobs?
+\- Castle of R'Lyeh - hard hitting mobs?
 
-- LAAAM - what is there, anyway?
+\- LAAAM - what is there, anyway?
 
 One thing that I'd like to comment is that quick movement is crucial for higher exp rate. If you stumble in Neptune's temple, it gets abyssmally slow and low, especially, if you cap on Amphitrite.
 
@@ -90,29 +90,29 @@ Great job on the leads. To say the least - keeps me awake into the wee mornings 
 
 Few things to note:
 
-1) Island isn't necessarily the easiest place to regen simply because the concept utilized here via "Enea" can be done on the other continent(s) too;
+1\) Island isn't necessarily the easiest place to regen simply because the concept utilized here via "Enea" can be done on the other continent(s) too;
 
-2) Exp yield really boils down to group size - group output vs participation is another matter though. Comparing decimals is pretty far fetched if not a daunting task;
+2\) Exp yield really boils down to group size - group output vs participation is another matter though. Comparing decimals is pretty far fetched if not a daunting task;
 
-3) Quick movement is definitely a plus point. I tend to go on the fly once everything is in order, do's and dont's should scale well at the tip of your fingers. 
+3\) Quick movement is definitely a plus point. I tend to go on the fly once everything is in order, do's and dont's should scale well at the tip of your fingers. 
 
-- Cicero Prison
+\- Cicero Prison
 
 Exp here is still neat. The main targets in the prison evolve around a forge called High Orc Bracelet. Way before drachma and new caps were introduced, this stylish orc skin yolo wristbands were the prada and gucci for warriors lacking stamina. Moving forward a couple of years they are now used as dental floss. Also, if you'd like to utilize the energy drain spell, this is the place to be. 
 
-- Aaost
+\- Aaost
 
 Exp here does not favor groups as almost everything here is solo. Leading a group here can be draining too as moving about involves various tt's - unless you bring a ton of convocation charms for a butterscotch smooth run. There still lies a somewhat useful forge known as the feathered cincture inside if that is of any interest. Do visit, only if you need a breath of fresh air and a solid view over the Island. 
 
-- The Valley of the Old ones
+\- The Valley of the Old ones
 
 Have you ever seen an item spammed in gjob going about at 2.Xx, 3.Xx, 4.Xx, 5Xx, 10Xx? That's right, only the Valley promotes this. Ring of ancient evil (or should i call RoaE's) used to be that Marilyn Monroe where everyone would just want to get some and would wait in turn ever so patiently. Exp here is pretty decent for a mid sized group but nothing to bounce up and about. Deep within lies a unique quest failed by many, should you visit.
 
-- Castle of R'Lyeh
+\- Castle of R'Lyeh
 
 Out of all areas mentioned, this is your best bet for a "decent" exp run. Fortunate enough for the Castle, deep within lies a forge incorporated into a bigger forge which has kept keen adventurers on their toes returning to their deaths here. The front and back row will enjoy the various multitasking involved here as both sides play a big role into keeping things in check. Fans of WoT, do visit.
 
-- LAAAM
+\- LAAAM
 
 Besides a stale forge for the poor thief class and a funky quest, here is where you park your old vintage vehicle and have a garage sale. Exp here for keen adventurers looking for a conquest is non existent. Our great and legendary cleric Krok once slayed the mighty Takhisis here. Should you examine a few rooms and look down the dusty hallway, you'll eventually see the carvings on the left wall. 
 

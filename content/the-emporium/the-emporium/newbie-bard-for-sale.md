@@ -12,9 +12,9 @@ post_count: 2
 
 <div class="post" data-post-id="35160" data-author="Hung" data-date="2014-05-15T13:04:36+00:00" data-subject="Newbie Bard For Sale">
 
-Deekin Scalesinger  (level: 15)
+Deekin Scalesinger (level: 15)
 
-Your levels:  Ba: 15 Ne: 6 Cl: 6 Mo: 1 Wa: 1 
+Your levels: Ba: 15 Ne: 6 Cl: 6 Mo: 1 Wa: 1 
 
 You are 17 years, 1 month, 28 days old.
 
@@ -46,9 +46,9 @@ Your song can affect as many as four people.
 
 You are affected by the following spells:
 
-   Detect Invisible                 
+ Detect Invisible 
 
-   Armor   
+ Armor 
 
 Reason of sale - this classo has low manaregen and I am afflicted with manaregenphilia. But if someone doesnt have problem with it, this char will make great bard.
 

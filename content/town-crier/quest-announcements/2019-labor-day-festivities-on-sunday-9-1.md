@@ -18,7 +18,7 @@ We will have a regular epics with tokens load on Sunday 9/1 at 11AM Pacific time
 
 I will get a timer up here in a moment.
 
-[<LINK_TEXT text="https://www.timeanddate.com/countdown/g ... erif&csz=1">https://www.timeanddate.com/countdown/generic?iso=20190901T11&p0=256&msg=2019+SlothMUD+Labor+Day+Quest&font=serif&csz=1</LINK_TEXT>](https://www.timeanddate.com/countdown/generic?iso=20190901T11&p0=256&msg=2019+SlothMUD+Labor+Day+Quest&font=serif&csz=1)
+[https://www.timeanddate.com/countdown/generic?iso=20190901T11&p0=256&msg=2019+SlothMUD+Labor+Day+Quest&font=serif&csz=1](https://www.timeanddate.com/countdown/generic?iso=20190901T11&p0=256&msg=2019+SlothMUD+Labor+Day+Quest&font=serif&csz=1)
 
 </div>
 
@@ -48,19 +48,19 @@ maybe something like Mario Party would be fun.. but still soemthing that would r
 
 Thanks to the immortals for the quest last night. Some were upset at my post for daring to suggest that quests should be harder - having been accustom to running in the sloth equivalent to "shorts and a t-shirt" for too long. I don't believe I was wrong, as some complained it wasn't going to be "easy drachma" anymore. It wasn't about being a moron, it's just that rot tends to set in when people have it too good, and players don't get better, and without struggle there is less fun. If people don't need to pay attention... they won't. It certainly was harder...
 
-* There was mob stacking.
+\* There was mob stacking.
 
-* Unexpected mob appearances.
+\* Unexpected mob appearances.
 
-* Puzzle elements.
+\* Puzzle elements.
 
-* Mobs were moved.
+\* Mobs were moved.
 
 All 20 tokens were retrieved in a little over four hours. We only used 4 scrolls, and there was a fair amount of deaths, but there were only a few brief moments in actual fights where we were questioned. I took a 1200hp round at one point fighting 5? large mobs. 
 
 Throne of Charred Bone
 
-Exits: South  
+Exits: South 
 
 (Brilliant Red Aura) The ender of all tales is about to bring an end to the story of your life.
 
@@ -78,7 +78,7 @@ The Fire Negator glows with a bright light!
 
 (Red Aura) A whirlwind of flame tosses fire and brimstone into the air.
 
-<1328hp 753ma 571mv -15.0ac Plane of Fire Extension 12741487585xp 90%>
+\<1328hp 753ma 571mv -15.0ac Plane of Fire Extension 12741487585xp 90%\>
 
 recall
 
@@ -184,13 +184,13 @@ You are roasted in the inferno!
 
 You resist almost all of the damage...
 
-Pyrkagia, Lord of Flame breathes a stream of fire at you!  You are engulfed in flames!
+Pyrkagia, Lord of Flame breathes a stream of fire at you! You are engulfed in flames!
 
 You wish that your wounds would stop BLEEDING that much!
 
 You report 109/1682 hp. Change: -1208. Need: 1573. Spells: greater fluidity, glowing.
 
-<109hp 753ma 571mv -15.0ac Plane of Fire Extension 12741526987xp 76%>
+\<109hp 753ma 571mv -15.0ac Plane of Fire Extension 12741526987xp 76%\>
 
 Stacking mobs brought out slightly better tactics, but stacking a room needs to be done carefully... as it's very easy to stack too much and kill a group. Most "tokens on epics" quests are assist tank, cast disint, come back 2 minutes later and (lie about how much drachma you received - especially if you're Sochi). But the puzzle elements and moving the mobs prolonged the quest by about 3hrs I would suspect. Good contribution on the puzzle elements. I think when groups are called on to use collective intelligence the quest is more fun. The challenge these days tends to be more in the logistics and the searching, than the actual killing. Combat rarely calls for more than assist tank, cast spells... poor old sloth is a bit limited in that respect. 
 

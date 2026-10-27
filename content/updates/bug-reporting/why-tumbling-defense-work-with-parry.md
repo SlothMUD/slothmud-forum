@@ -12,7 +12,7 @@ post_count: 8
 
 <div class="post" data-post-id="25711" data-author="Bazilus" data-date="2008-08-11T11:02:03+00:00" data-subject="Why tumbling defense work with parry?">
 
-<748hp 183ma 211mv -10.4ac +31mr +8 1273708478.exp>
+\<748hp 183ma 211mv -10.4ac +31mr +8 1273708478.exp\>
 
 A shiny cook misses you with his hit.
 
@@ -30,11 +30,11 @@ You pierce a shiny cook extremely hard.
 
 A shiny cook utters the words, 'judicandus dies' (cure light)
 
-<719hp 184ma 212mv -10.4ac +31mr +8 1273710587.exp>
+\<719hp 184ma 212mv -10.4ac +31mr +8 1273710587.exp\>
 
-[b:1mzjeuin]You skillfully parry the attack of a shiny cook.
+<strong>You skillfully parry the attack of a shiny cook.</strong>
 
-Your tumbling partially deflects the oncoming blow![/b:1mzjeuin][/size:1mzjeuin]
+<strong>Your tumbling partially deflects the oncoming blow!</strong>
 
 A shiny cook hits you very hard.
 
@@ -50,13 +50,13 @@ You pierce a shiny cook extremely hard.
 
 A shiny cook utters the words, 'judicandus dies' (cure light)
 
-<655hp 186ma 214mv -10.4ac +31mr +8 1273713486.exp>
+\<655hp 186ma 214mv -10.4ac +31mr +8 1273713486.exp\>
 
 Message: Tick In 10!
 
 A chan chu says 'ribbit'
 
-<660hp 188ma 217mv -10.4ac +31mr +8 1273713486.exp>
+\<660hp 188ma 217mv -10.4ac +31mr +8 1273713486.exp\>
 
 A shiny cook misses you with his hit.
 
@@ -74,7 +74,7 @@ You pierce a shiny cook extremely hard.
 
 A shiny cook is incapacitated and will slowly die, if not aided.
 
-<607hp 189ma 217mv -10.4ac +31mr +8 1273717048.exp>
+\<607hp 189ma 217mv -10.4ac +31mr +8 1273717048.exp\>
 
 You brutally massacre a shiny cook with your pierce.
 
@@ -112,27 +112,34 @@ Bazilus the crazay Python
 
 <div class="post" data-post-id="25713" data-author="Yinao" data-date="2008-08-11T11:54:34+00:00" data-subject="">
 
-Ops, i misstaking.
-
-Your tumbling partially deflects the oncoming blow!
-
-A yooper prison guard massacres you to small fragments with his crush.
-
-A yooper prison guard misses you with his hit.
-
-Your tumbling partially deflects the oncoming blow!
-
-You are brutally massacred by a yooper prison guard's crush.[/size:1xgz3qil][/color:1xgz3qil]
-
-You deal a massive blow to one of a yooper prison guard's vital organs.
-
-You viciously massacre a yooper prison guard with your pierce.
-
-You massacre a yooper prison guard to small fragments with your pierce.
-
-String come before kick one.
-
-Bazilus the crazay Python[/quote:1xgz3qil]
+> <strong>Bazilus wrote:</strong>
+> Ops, i misstaking.
+> 
+> 
+> 
+> Your tumbling partially deflects the oncoming blow!
+> 
+> A yooper prison guard massacres you to small fragments with his crush.
+> 
+> A yooper prison guard misses you with his hit.
+> 
+> Your tumbling partially deflects the oncoming blow!
+> 
+> You are brutally massacred by a yooper prison guard's crush.
+> 
+> You deal a massive blow to one of a yooper prison guard's vital organs.
+> 
+> You viciously massacre a yooper prison guard with your pierce.
+> 
+> You massacre a yooper prison guard to small fragments with your pierce.
+> 
+> 
+> 
+> String come before kick one.
+> 
+> 
+> 
+> Bazilus the crazay Python
 
 Tumbling is not really a counter / parry anyways, considering you tumbled and still got brutally massacred
 
@@ -140,7 +147,7 @@ Tumbling is not really a counter / parry anyways, considering you tumbled and st
 
 <div class="post" data-post-id="25715" data-author="Evergreen" data-date="2008-08-11T19:03:07+00:00" data-subject="">
 
-any other new useful skill/spell? :)
+any other new useful skill/spell? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -152,7 +159,7 @@ The messages and the functioning of the skill are two different things. I assure
 
 <div class="post" data-post-id="25724" data-author="*Krom*" data-date="2008-08-12T02:53:10+00:00" data-subject="">
 
-As you can see, the cook has three attacks.  First attack is parried, second attack is tumbled, and the reduced dmg message from that attack follows immediately after.  The third attack goes through regularly.
+As you can see, the cook has three attacks. First attack is parried, second attack is tumbled, and the reduced dmg message from that attack follows immediately after. The third attack goes through regularly.
 
 Tumbling is a little bit different from some of the other skills in that it displays right before the attack, but then displays the effect of that attack right after.
 
@@ -160,9 +167,10 @@ Tumbling is a little bit different from some of the other skills in that it disp
 
 <div class="post" data-post-id="25725" data-author="jezer" data-date="2008-08-12T03:21:12+00:00" data-subject="">
 
-Tumbling is a little bit different from some of the other skills in that it displays right before the attack, but then displays the effect of that attack right after.[/quote:1aaumlgj]
+> <strong>\*Krom\* wrote:</strong>
+> Tumbling is a little bit different from some of the other skills in that it displays right before the attack, but then displays the effect of that attack right after.
 
-It's a feature! Not a bug!  :twisted:
+It's a feature! Not a bug! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -170,6 +178,6 @@ It's a feature! Not a bug!  :twisted:
 
 Thx for reply.
 
-P.S. Ever come play with us! :) How u life?
+P.S. Ever come play with us! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> How u life?
 
 </div>

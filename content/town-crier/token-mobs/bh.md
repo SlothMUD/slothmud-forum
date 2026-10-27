@@ -12,7 +12,7 @@ post_count: 7
 
 <div class="post" data-post-id="1043" data-author="piglet" data-date="2004-07-13T04:25:47+00:00" data-subject="BH">
 
-Ive  been trying to pop some lower level sbs in bh for a little while now, and some of these mobs pop tokens at a seemingly high rate.
+Ive been trying to pop some lower level sbs in bh for a little while now, and some of these mobs pop tokens at a seemingly high rate.
 
 Kobold sage
 
@@ -20,7 +20,7 @@ Hobgoblin Landlord
 
 Topiary dragon
 
-zombies in cata give up hexes in pretty good numbers too.  Probably just as a function of there being so many of them down there :).  
+zombies in cata give up hexes in pretty good numbers too. Probably just as a function of there being so many of them down there <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">. 
 
 Good luck.
 
@@ -64,7 +64,7 @@ gnolls do well for tris also, esp with mass spells like ice storm
 
 <div class="post" data-post-id="31811" data-author="Harm" data-date="2010-10-04T19:34:03+00:00" data-subject="Re: BH">
 
-This is pretty funny.  I came here to put up my first post since returning, only to find that I am the original poster in this thread (2004).  I'll be sure to take my own advice.
+This is pretty funny. I came here to put up my first post since returning, only to find that I am the original poster in this thread (2004). I'll be sure to take my own advice.
 
 Anyhoo, while leveling this new character, I have dropped three tris from kobold males, and I have yet to hit lev 8.
 

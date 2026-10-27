@@ -12,11 +12,11 @@ post_count: 10
 
 <div class="post" data-post-id="18560" data-author="Vixn" data-date="2007-05-20T21:31:06+00:00" data-subject="acids &#x27;fixed&#x27;">
 
-[b:hitqcz5q]You weave the threads of magic masterfully!
+<strong>You weave the threads of magic masterfully!</strong>
 
-You watch in grim satisfaction as your acid blast burns the pegasus, Erchyle horribly.[/color:hitqcz5q][/b:hitqcz5q]
+<strong>You watch in grim satisfaction as your acid blast burns the pegasus, Erchyle horribly.</strong>
 
-<662hp 505ma 228mv -10.0ac -10al +15dam | 812436704 exp>
+\<662hp 505ma 228mv -10.0ac -10al +15dam \| 812436704 exp\>
 
 You slice the pegasus, Erchyle very hard.
 
@@ -44,9 +44,9 @@ The pegasus, Erchyle misses a kick at your groin, you breathe lighter now.
 
 Erchyle slaps you with his wing!
 
-[b:hitqcz5q]You weave the threads of magic masterfully!
+<strong>You weave the threads of magic masterfully!</strong>
 
-Your acid horribly burns the pegasus, Erchyle's flesh, causing it to fall to the ground.[/color:hitqcz5q][/b:hitqcz5q]
+<strong>Your acid horribly burns the pegasus, Erchyle's flesh, causing it to fall to the ground.</strong>
 
 So, as you can see acid blast has been changed. Instead of fixing masterful casting on 'slow' spell. Thanks a lot!
 
@@ -56,7 +56,7 @@ Do you think it's funny: add feature (masterful casting) then make it useless?
 
 <div class="post" data-post-id="18561" data-author="brady" data-date="2007-05-20T22:10:05+00:00" data-subject="">
 
-masterful acids now have a chance of double casting.  shrug.
+masterful acids now have a chance of double casting. shrug.
 
 </div>
 
@@ -68,35 +68,36 @@ Brady.. huh? What about blinding the mob?
 
 <div class="post" data-post-id="18565" data-author="brady" data-date="2007-05-21T04:28:24+00:00" data-subject="">
 
-acids still work to blind the mobs.  masterfuls don't blind at 100% which I think is lame too...but masterfuls also have a chance of casting double.  If channeling attunement bonuses apply, I ain't mad.
+acids still work to blind the mobs. masterfuls don't blind at 100% which I think is lame too...but masterfuls also have a chance of casting double. If channeling attunement bonuses apply, I ain't mad.
 
 </div>
 
 <div class="post" data-post-id="18567" data-author="Weasel" data-date="2007-05-21T05:23:37+00:00" data-subject="">
 
-..so it's kinda like 'I masterfully phukt it up - it didn't do what I intended, but it still hurt like a bastard'.  :twisted:
+..so it's kinda like 'I masterfully phukt it up - it didn't do what I intended, but it still hurt like a bastard'. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="18569" data-author="Messiaen" data-date="2007-05-21T10:55:34+00:00" data-subject="">
 
-Yeah, that hurts... :(
+Yeah, that hurts... <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="18571" data-author="13" data-date="2007-05-21T12:49:08+00:00" data-subject="">
 
-it doesn't make any sense to me, why not guarantee the blind since that's like the _only_ reason acid blast gets used?
+it doesn't make any sense to me, why not guarantee the blind since that's like the \_only\_ reason acid blast gets used?
 
 </div>
 
 <div class="post" data-post-id="18576" data-author="Autolycos" data-date="2007-05-21T14:33:57+00:00" data-subject="">
 
-..so it's kinda like 'I masterfully phukt it up - it didn't do what I intended, but it still hurt like a bastard'.  :twisted:[/quote:2r19kbhi]
+> <strong>Weasel wrote:</strong>
+> ..so it's kinda like 'I masterfully phukt it up - it didn't do what I intended, but it still hurt like a bastard'. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 its better then losing con x3 on relocate... only to get a masterful on create water!
 
-[b:2r19kbhi]You weave the threads of magic masterfully! [/b:2r19kbhi]
+<strong>You weave the threads of magic masterfully!</strong> 
 
 You watch with great satisfaction as your endless decanter of water is filled to the brim with icy cold Aquafina!..
 
@@ -104,9 +105,10 @@ You watch with great satisfaction as your endless decanter of water is filled to
 
 <div class="post" data-post-id="18584" data-author="Weasel" data-date="2007-05-22T00:00:17+00:00" data-subject="">
 
-[b:nd0ngke1]You weave the threads of magic masterfully! [/b:nd0ngke1]
-
-You watch with great satisfaction as your endless decanter of water is filled to the brim with icy cold Aquafina!..[/quote:nd0ngke1]
+> <strong>Autolycos wrote:</strong>
+> <strong>You weave the threads of magic masterfully!</strong> 
+> 
+> You watch with great satisfaction as your endless decanter of water is filled to the brim with icy cold Aquafina!..
 
 ..5 minutes later..
 
@@ -124,6 +126,6 @@ my R decrantor R buzted.
 
 sounds like a lame Transformer...
 
-DeCrantor-  prob be a trashcan..  yeah... that would be helpful
+DeCrantor- prob be a trashcan.. yeah... that would be helpful
 
 </div>

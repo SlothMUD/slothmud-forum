@@ -30,12 +30,12 @@ I might have something.
 
 <div class="post" data-post-id="21669" data-author="sa" data-date="2007-12-15T21:12:47+00:00" data-subject="">
 
-come to think of it, gold mostly :)
+come to think of it, gold mostly <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="21698" data-author="Rodek" data-date="2007-12-17T15:27:59+00:00" data-subject="">
 
-I am assuming no equipment?  how much gold you want for him?
+I am assuming no equipment? how much gold you want for him?
 
 </div>

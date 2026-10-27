@@ -20,8 +20,8 @@ Unless i'm the only one having problems...
 
 <div class="post" data-post-id="19175" data-author="firebrand" data-date="2007-07-06T14:16:31+00:00" data-subject="">
 
-it's on yer end dude.  there's a niftykeen command called tracert.  go to your start button, type cmd, type tracert slothmud.org and when cute little *** show up instead of length of time showing as <x>ms you can pretty much get an idea of if the prob is on yer end or on sloth end
+it's on yer end dude. there's a niftykeen command called tracert. go to your start button, type cmd, type tracert slothmud.org and when cute little \*\*\* show up instead of length of time showing as \<x\>ms you can pretty much get an idea of if the prob is on yer end or on sloth end
 
-"keep singing and they might throw some fruit for dessert."  -papa mousekiwitz --> an american tail: fievel goes west
+"keep singing and they might throw some fruit for dessert." -papa mousekiwitz --\> an american tail: fievel goes west
 
 </div>

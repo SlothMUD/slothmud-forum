@@ -16,15 +16,15 @@ A few players have brought this skill to our attention and from the looks of thi
 
 SECOND WIND CHANGES
 
-* Upped learn % to 90 from 85
+\* Upped learn % to 90 from 85
 
-* Lowered moves used from 40 to 30, and for Avatars from 20 to 15
+\* Lowered moves used from 40 to 30, and for Avatars from 20 to 15
 
-* Removed check for > 0 lag so that skillstats is more accurate 
+\* Removed check for \> 0 lag so that skillstats is more accurate 
 
-  ( skill failed if player attempted second wind and player had 0 lag already )
+ ( skill failed if player attempted second wind and player had 0 lag already )
 
-* Added timer so that skill can only be performed once every 3-5 seconds
+\* Added timer so that skill can only be performed once every 3-5 seconds
 
 Enjoy
 

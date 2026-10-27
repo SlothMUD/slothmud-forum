@@ -16,11 +16,11 @@ l
 
 The Scribe's Shop
 
-   A large table dominates this room.  Piles of unfinished scrolls lie 
+ A large table dominates this room. Piles of unfinished scrolls lie 
 
 scattered across the table while a well of ink rests precariously near the 
 
-edge.  The stone floor around the table is stained with dots of ink.  A 
+edge. The stone floor around the table is stained with dots of ink. A 
 
 simple wooden lantern hangs above the table providing barely enough light 
 
@@ -28,7 +28,7 @@ to see by and a pile of finished scrolls rest on a wooden chair in the
 
 corner.
 
-Exits: North  East   
+Exits: North East 
 
 Somewhere in the shadows lies the hint of a book. [8]
 
@@ -192,15 +192,18 @@ and that's just the ones that were found lying around town - dropped wherever (g
 
 <div class="post" data-post-id="7578" data-author="Akasha2" data-date="2005-06-25T02:30:34+00:00" data-subject="">
 
-heh, oh? a Scribe's Shop isn't an appropriate place to drop books?  Silly Scribe, he learned to read and write for no reason :P
+heh, oh? a Scribe's Shop isn't an appropriate place to drop books? Silly Scribe, he learned to read and write for no reason <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="7584" data-author="seshi" data-date="2005-06-25T10:30:18+00:00" data-subject="Re: can you say spam?">
 
-l
-
- (grumble - quit littering and drop them in the prpperly designated spam rooms!) .[/quote:3bskltyj]
+> <strong>firebrand wrote:</strong>
+> l
+> 
+> 
+> 
+> (grumble - quit littering and drop them in the prpperly designated spam rooms!) .
 
 Which are?
 
@@ -208,7 +211,7 @@ Which are?
 
 <div class="post" data-post-id="7590" data-author="firebrand" data-date="2005-06-25T14:26:14+00:00" data-subject="">
 
-*grin* i did not mean to imply that scribes shops are not proper place to drop books - i meant places like outside in the streets - just randomly dropping/littering books anywhere but in places like scribes, inns, guild book rooms and libraries.  too many ppl are looking for those books and to have them lying around in places where they a) do not load and b) in areas where that char cannot go for whatever reason is just frustrating.  actually, the whole point of that post was to point out there was a LOT of books in the scribes shop - i thought it quite kewl that there were so many books (that and seeing that the mud had been up for over 2 days when checked time started)
+\*grin\* i did not mean to imply that scribes shops are not proper place to drop books - i meant places like outside in the streets - just randomly dropping/littering books anywhere but in places like scribes, inns, guild book rooms and libraries. too many ppl are looking for those books and to have them lying around in places where they a) do not load and b) in areas where that char cannot go for whatever reason is just frustrating. actually, the whole point of that post was to point out there was a LOT of books in the scribes shop - i thought it quite kewl that there were so many books (that and seeing that the mud had been up for over 2 days when checked time started)
 
 </div>
 
@@ -238,13 +241,13 @@ Salan
 
 ... the extreme remedy could be
 
->get all
+\>get all
 
->junk spellbook (repeat this command while needed)  :twisted:  :twisted:  :twisted: 
+\>junk spellbook (repeat this command while needed) <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 but i know this is just baaaad!
 
- 8) 
+ <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> 
 
 Taki - the monk streetsweeper
 

@@ -18,7 +18,7 @@ Quest and 3x40 eq in some cases simply can not be replaced. I have heard runes c
 
 Why? 
 
-Because you haven't even created the avatar shops, no one knows what they can buy... can we buy stats? max stats? damage? This complete lack of information may have lead to some people to attach stat runes to valuable eq which may prove to have been a silly idea. You simply haven't given us the information to make informed choices... and that falls back on us?  :evil: 
+Because you haven't even created the avatar shops, no one knows what they can buy... can we buy stats? max stats? damage? This complete lack of information may have lead to some people to attach stat runes to valuable eq which may prove to have been a silly idea. You simply haven't given us the information to make informed choices... and that falls back on us? <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom"> 
 
 Because of the concept of the rune system, and rareness of gems... gems are only really socketed to the best eq... and the best eq is often the hardest to get.
 
@@ -38,7 +38,7 @@ It's seems common sense to me... so can you just do it?
 
 Runes were not meant to be detached.
 
-That was clear from the beginning.  
+That was clear from the beginning. 
 
 However, we decided to allow the desocket of runes from 3x40 and drachma eq 
 
@@ -50,7 +50,7 @@ before it goes in game and I am sure she will announce it whenever it is complet
 
 In the mean time, if you want a rune destroyed from non 3x40/drachma eq, feel free to contact me.
 
-however, notice i said **destroy** NOT ***desocket***.
+however, notice i said <strong>destroy</strong> NOT <em><strong>desocket</strong></em>.
 
 </div>
 
@@ -64,7 +64,7 @@ For all those who wanted to desocket... go write a post in the "talk of exp and 
 
 <div class="post" data-post-id="32793" data-author="*Breeze*" data-date="2011-08-04T08:47:09+00:00" data-subject="Re: Destroying Runes">
 
-> **jezer wrote:**
+> <strong>jezer wrote:</strong>
 > I want to lobby for the destruction of attached runes from equipment.
 > 
 > 
@@ -79,6 +79,6 @@ i said i would do it, and now you decide you want something else
 
 that is exactly why I didn't post about desocket from 3x40/drachma eq earlier
 
-*Edited for content by *Breeze**
+<em>Edited for content by \*Breeze\*</em>
 
 </div>

@@ -16,7 +16,7 @@ The Mayor of Lyme is now offering new affects to purchase as an Avatar. Most of 
 
 Enjoy,
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 Please thank Frobisher for this addition when you see him!
 

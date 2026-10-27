@@ -14,7 +14,7 @@ post_count: 1
 
 Greeting mortals.
 
-- Changed the help file filename from mantra.txt to mantra_of_the_ancient_tribes.txt, so help mantra of the ancient tribes will work
+- Changed the help file filename from mantra.txt to mantra\_of\_the\_ancient\_tribes.txt, so help mantra of the ancient tribes will work
 
 Thanks Alris for reporting.
 

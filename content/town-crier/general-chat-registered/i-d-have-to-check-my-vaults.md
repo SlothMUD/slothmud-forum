@@ -44,12 +44,12 @@ Yeah, there is a button for vaults on the website. I've tried to get that and th
 
 <div class="post" data-post-id="38524" data-author="*Breeze*" data-date="2017-12-05T19:16:59+00:00" data-subject="Re: I&#x27;d have to check my vaults...">
 
-> ***Splork* wrote:**
+> <strong>\*Splork\* wrote:</strong>
 > I could of sworn we had added that information to the webpage login?
 > 
 > Vaults are SQL driven, it should be rather easy to add that information to a command in-game or here...
 
-> **Gorka wrote:**
+> <strong>Gorka wrote:</strong>
 > Yeah, there is a button for vaults on the website. I've tried to get that and the quest one working in the past to no avail. When I logged in it thought I was Zuzu, obviously I am so much better looking... but he is the player with the last name alphabetically so it had some sort of bug. In fact even the player stats was bugged for me. I'm not sure any of it will work with the website being only partially operational now... Hence the request for the in game feature.
 
 aforementioned zuzu/gorka website issues were caused by the "transparent" caching that bluehost used to do.
@@ -64,45 +64,45 @@ sample ::
 
 ```
 array(80) {
-  [0]=>
-  array(5) {
-    ["VnumRoom"]=>
-    string(5) "76018"
-    ["SortOrder"]=>
-    string(2) "20"
-    ["ItemVnum"]=>
-    string(5) "37216"
-    ["ItemShortDescription"]=>
-    string(28) "the Shield of the Rainmaster"
-    ["ItemName"]=>
-    string(31) "shield rainmaster rain umbrella"
-  }
-  [1]=>
-  array(5) {
-    ["VnumRoom"]=>
-    string(5) "76018"
-    ["SortOrder"]=>
-    string(2) "19"
-    ["ItemVnum"]=>
-    string(5) "84229"
-    ["ItemShortDescription"]=>
-    string(21) "a wand of quicksilver"
-    ["ItemName"]=>
-    string(29) "wand quick silver quicksilver"
-  }
-  [2]=>
-  array(5) {
-    ["VnumRoom"]=>
-    string(5) "76018"
-    ["SortOrder"]=>
-    string(2) "17"
-    ["ItemVnum"]=>
-    string(5) "49281"
-    ["ItemShortDescription"]=>
-    string(25) "a purple minidemon brooch"
-    ["ItemName"]=>
-    string(29) "brooch purple minidemon demon"
-  }
+ [0]=>
+ array(5) {
+ ["VnumRoom"]=>
+ string(5) "76018"
+ ["SortOrder"]=>
+ string(2) "20"
+ ["ItemVnum"]=>
+ string(5) "37216"
+ ["ItemShortDescription"]=>
+ string(28) "the Shield of the Rainmaster"
+ ["ItemName"]=>
+ string(31) "shield rainmaster rain umbrella"
+ }
+ [1]=>
+ array(5) {
+ ["VnumRoom"]=>
+ string(5) "76018"
+ ["SortOrder"]=>
+ string(2) "19"
+ ["ItemVnum"]=>
+ string(5) "84229"
+ ["ItemShortDescription"]=>
+ string(21) "a wand of quicksilver"
+ ["ItemName"]=>
+ string(29) "wand quick silver quicksilver"
+ }
+ [2]=>
+ array(5) {
+ ["VnumRoom"]=>
+ string(5) "76018"
+ ["SortOrder"]=>
+ string(2) "17"
+ ["ItemVnum"]=>
+ string(5) "49281"
+ ["ItemShortDescription"]=>
+ string(25) "a purple minidemon brooch"
+ ["ItemName"]=>
+ string(29) "brooch purple minidemon demon"
+ }
 
 .. etc ..
 
@@ -130,7 +130,7 @@ Vault # 76018
 
 <div class="post" data-post-id="38526" data-author="*Breeze*" data-date="2017-12-06T15:11:49+00:00" data-subject="Re: I&#x27;d have to check my vaults...">
 
-just checked.  it is linked to new vaults.
+just checked. it is linked to new vaults.
 
 ```
 Vault # 76018 

@@ -14,11 +14,11 @@ post_count: 1
 
 Hi all ...
 
-We made call followers available to clerics too.  Not cleric primes, just players with cleric in classo.  Avatar level 7, see help call followers for details.
+We made call followers available to clerics too. Not cleric primes, just players with cleric in classo. Avatar level 7, see help call followers for details.
 
 Also, we working on giving align strings when you examine a corpse, if you have necrology learned.
 
-Hope those two will help a little to make it more useful.  We have more changes that we are thinking on, and we also would love to heard REASONABLE sugestions to help us to improve it.
+Hope those two will help a little to make it more useful. We have more changes that we are thinking on, and we also would love to heard REASONABLE sugestions to help us to improve it.
 
 Isabo
 

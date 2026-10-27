@@ -14,13 +14,13 @@ post_count: 9
 
 Restive -- 'target truck'
 
-<550hp 153ma 154mv> 954,124 coins +10 align
+\<550hp 153ma 154mv\> 954,124 coins +10 align
 
 Bombard yells 'ROCK CHALK JAYHAWK!!!'
 
 Surfnazi -- 'Killing truck'
 
-<550hp 154ma 155mv> 954,124 coins +10 align
+\<550hp 154ma 155mv\> 954,124 coins +10 align
 
 Flicka joins in the war-cry!
 
@@ -28,7 +28,7 @@ You join in the war-cry!
 
 Restive joins in the war-cry!
 
-<550hp 154ma 155mv> 954,124 coins +10 align
+\<550hp 154ma 155mv\> 954,124 coins +10 align
 
 Wawa joins in the war-cry!
 
@@ -38,15 +38,15 @@ A tasty-looking pastry is sitting on the ground.
 
 The corpse of the guard patrol is lying here.
 
-<550hp 155ma 154mv> 954,124 coins +10 align
+\<550hp 155ma 154mv\> 954,124 coins +10 align
 
 The radiant sphere around your body fades.
 
-<550hp 156ma 155mv> 954,124 coins +10 align
+\<550hp 156ma 155mv\> 954,124 coins +10 align
 
-You grouptell: '<(!)> Aegis Is Down!'
+You grouptell: '\<(!)\> Aegis Is Down!'
 
-<550hp 156ma 155mv> 954,124 coins +10 align
+\<550hp 156ma 155mv\> 954,124 coins +10 align
 
 Bombard arrives from the south.
 
@@ -66,7 +66,7 @@ Daisy the eudaemon arrives from the south.
 
 Flicka arrives from the south.
 
-<550hp 157ma 155mv> 954,124 coins +10 align
+\<550hp 157ma 155mv\> 954,124 coins +10 align
 
 You've got a good feeling about this fight...
 
@@ -76,7 +76,7 @@ That Really did HURT!
 
 You feel an intense burning as Restive's blade pierces your skin.
 
-<144hp 158ma 155mv> 954,124 coins +10 align
+\<144hp 158ma 155mv\> 954,124 coins +10 align
 
 Flicka utters the words, 'yfaghbarh'
 
@@ -92,7 +92,7 @@ You are no longer being protected.
 
 You have been KILLED!!
 
-<-46hp 158ma 155mv> 954,124 coins +10 align
+\<-46hp 158ma 155mv\> 954,124 coins +10 align
 
 You feel dizzy for a moment...
 
@@ -102,9 +102,9 @@ You feel dizzy for a moment...
 
 You feel dizzy for a moment...
 
-<-46hp 158ma 155mv> 954,124 coins +10 align
+\<-46hp 158ma 155mv\> 954,124 coins +10 align
 
-Bombard -- '~Dragonsworn~ cackle'
+Bombard -- '\~Dragonsworn\~ cackle'
 
 Love it when clannies are good to ya, and the dispel was insult to injury.
 
@@ -114,15 +114,14 @@ Stab and 2 bolts not lit, I felt like I might live for about 1/2 a second.
 
 <div class="post" data-post-id="27199" data-author="Leaf" data-date="2008-11-16T05:05:20+00:00" data-subject="">
 
-My bad dude, I had dispel on stab :)
+My bad dude, I had dispel on stab <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="27202" data-author="*juggleblood*" data-date="2008-11-16T08:28:02+00:00" data-subject="Re: Fun in DoT">
 
-You've got a good feeling about this fight...
-
-[/quote:4sf2hhfr]
+> <strong>alias wrote:</strong>
+> You've got a good feeling about this fight...
 
 Was it everything you hoped for?
 
@@ -134,17 +133,17 @@ Only 190 dam from 2 bolts not lit, no resists?
 
 sad...
 
- :)
+ <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="27205" data-author="Restive" data-date="2008-11-17T03:33:29+00:00" data-subject="Re: Fun in Dot">
 
-1. Looks rather incriminating.  It was an accident though - honest!
+1\. Looks rather incriminating. It was an accident though - honest!
 
-2. No lite, but fluidity doesn't appear to be all its cracked up to be :)
+2\. No lite, but fluidity doesn't appear to be all its cracked up to be <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-3. Todd, I can offer you "protection" from this kind of your abuse from your clannies for a "nominal" monthly fee.
+3\. Todd, I can offer you "protection" from this kind of your abuse from your clannies for a "nominal" monthly fee.
 
 </div>
 
@@ -156,7 +155,7 @@ Why would I want protection from having a good laugh?
 
 <div class="post" data-post-id="27207" data-author="Restive" data-date="2008-11-17T03:46:35+00:00" data-subject="Re: Fun in Dot">
 
-Good Point!  You'll pay me to stab you in DoT, or do I have to do that for free?
+Good Point! You'll pay me to stab you in DoT, or do I have to do that for free?
 
 </div>
 
@@ -170,10 +169,10 @@ So, target was always man, and guess what happened not just once when Mannu used
 
 <div class="post" data-post-id="27281" data-author="13" data-date="2008-11-23T12:30:33+00:00" data-subject="">
 
-target is always man unless mannu or mandos was in the group.  i have
+target is always man unless mannu or mandos was in the group. i have
 
-killed a heck a couple times this way on accident.  one time someone mouthed off to him right as i was apologizing and he turned into a piasa and
+killed a heck a couple times this way on accident. one time someone mouthed off to him right as i was apologizing and he turned into a piasa and
 
-smoked them.   true story.
+smoked them. true story.
 
 </div>

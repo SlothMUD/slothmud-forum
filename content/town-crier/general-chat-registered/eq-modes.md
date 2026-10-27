@@ -18,27 +18,27 @@ So I get a bunch of robes and regen eq... and I sit down and try and make me a s
 
 There are a bunch of problems...
 
-1)   I want to keep my current inv for all modes. (Recalls, Potions, Moldies, Food, Drink Countainers etc)
+1\) I want to keep my current inv for all modes. (Recalls, Potions, Moldies, Food, Drink Countainers etc)
 
-2)   Everytime I use the ALL keyword, I always seem to accidentally put a robe in a robe in a robe or something stupid like that... or put inv in the wrong robe... apart from my drinking container which never seems to fit in any robe...? What is it with drinking containers? Why do they never seem to fit?!? and I spend the next 15mins putting everything back in it's right place.
+2\) Everytime I use the ALL keyword, I always seem to accidentally put a robe in a robe in a robe or something stupid like that... or put inv in the wrong robe... apart from my drinking container which never seems to fit in any robe...? What is it with drinking containers? Why do they never seem to fit?!? and I spend the next 15mins putting everything back in it's right place.
 
-3)   After setting up two modes... and then looking to make a 3rd mode for shapeshifting I realised that if I was in regen mode, I would have to go back to fight mode before I could do shapeshift mode!
+3\) After setting up two modes... and then looking to make a 3rd mode for shapeshifting I realised that if I was in regen mode, I would have to go back to fight mode before I could do shapeshift mode!
 
 So I am up against all these frustrating problems... and to compound the problem... if a eq slot doesn't have a piece of regen eq in it... why can't I keep my buff ac eq in that place... just incase I get attacked while sleeping in a regen mode!
 
 Here is what I wanting to achieve...
 
-1)   You can change from one mode to another, without returning to a primary mode first.
+1\) You can change from one mode to another, without returning to a primary mode first.
 
-2)   The EQ change script works no matter what char I have logged on... yeah that's a biggie, I know. (But eq doesn't need to be named individually it can work!)
+2\) The EQ change script works no matter what char I have logged on... yeah that's a biggie, I know. (But eq doesn't need to be named individually it can work!)
 
-3)   Fighting Mode
+3\) Fighting Mode
 
-4)   Shapeshift Mode
+4\) Shapeshift Mode
 
-5)   Regen Mode
+5\) Regen Mode
 
-6)   Healo Mode
+6\) Healo Mode
 
 Here are my current scripts...
 
@@ -104,13 +104,13 @@ wear all;
 
 Please post and share your wintin scripts, and ideas that might help me...
 
-------------Note To Immortals-----------------
+\------------Note To Immortals-----------------
 
 Can we not improve the flexibility of the remove, get and put commands?
 
-I don't feel I am asking for anything unreasonable here, like more power and removing lags... I'm just asking for the flexibility I have in real life to change my clothes and put them in bags! :D
+I don't feel I am asking for anything unreasonable here, like more power and removing lags... I'm just asking for the flexibility I have in real life to change my clothes and put them in bags! <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
-How about "REMOVE ALL WORN PUT ROBE"? I mean it's simple enough to do this in real life... but in sloth... it all gets mixed up with my INV :(
+How about "REMOVE ALL WORN PUT ROBE"? I mean it's simple enough to do this in real life... but in sloth... it all gets mixed up with my INV <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 How about "GET RING RING BRACER LEGGINGS ROBE"? It's a bit better than GET ALL.RING ROBE and GET ALL.BRACER ROBE etc... I'm not asking to remove lag penalties or anything... add them all up and hit me at the end with them like they are at the moment... I'm just wanting a little bit more flexibility to change my eq with scripts.
 
@@ -168,13 +168,13 @@ As far as your second query....also an easy solution
 
 Don't get chilled
 
- 8)
+ <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="21587" data-author="Roadrunr" data-date="2007-12-09T14:24:50+00:00" data-subject="">
 
-getting each item individually from a robe is much much slower than get all  the way you run into problems tends to be if youhave too much crap in inventory.
+getting each item individually from a robe is much much slower than get all the way you run into problems tends to be if youhave too much crap in inventory.
 
 </div>
 
@@ -192,19 +192,21 @@ Your best bet is to carry multiple robes/containers (I love the dirty lunch pail
 
 <div class="post" data-post-id="21589" data-author="Autolycos" data-date="2007-12-09T15:02:11+00:00" data-subject="Re: EQ Modes">
 
-I'm not asking to remove lag penalties or anything... add them all up and hit me at the end with them like they are at the moment... I'm just wanting a little bit more flexibility to change my eq with scripts.[/quote:m047ra33]
+> <strong>jezer wrote:</strong>
+> I'm not asking to remove lag penalties or anything... add them all up and hit me at the end with them like they are at the moment... I'm just wanting a little bit more flexibility to change my eq with scripts.
 
 how about this?
 
-SlothIII has been running for over 10+ years now and until now, I do not recall ever hearing anyone complain about eq-changes etc unless they were using telnet.  I'd say that almost EVERY player has 3-4 changes of gear be it, AC, regen, raise, wtf ever.  Yet they dont complain. 
+SlothIII has been running for over 10+ years now and until now, I do not recall ever hearing anyone complain about eq-changes etc unless they were using telnet. I'd say that almost EVERY player has 3-4 changes of gear be it, AC, regen, raise, wtf ever. Yet they dont complain. 
 
-Eq scripts are a neccesary evil that most only write once and lightly modify over the years.  So stfu, suck it up and deal with it.
+Eq scripts are a neccesary evil that most only write once and lightly modify over the years. So stfu, suck it up and deal with it.
 
 </div>
 
 <div class="post" data-post-id="21590" data-author="Alberich" data-date="2007-12-09T15:26:10+00:00" data-subject="Re: EQ Modes">
 
-Eq scripts are a neccesary evil that most only write once and lightly modify over the years.  So stfu, suck it up and deal with it.[/quote:30dtpxfu]
+> <strong>Autolycos wrote:</strong>
+> Eq scripts are a neccesary evil that most only write once and lightly modify over the years. So stfu, suck it up and deal with it.
 
 ^^this
 
@@ -214,13 +216,13 @@ Eq scripts are a neccesary evil that most only write once and lightly modify ove
 
 First off, Autolycos is an ornery prick.
 
-Second, with the new eq changes, remove all/wear all might not be the best way to go if you are just developing your eq changes.  I won't change mine cause I'm lazy but there is a new lag for those that remove all/wear all vs removing each item individually (I think it's dumb).
+Second, with the new eq changes, remove all/wear all might not be the best way to go if you are just developing your eq changes. I won't change mine cause I'm lazy but there is a new lag for those that remove all/wear all vs removing each item individually (I think it's dumb).
 
-Keeping stuff in your inventory is not the best idea.  I'm not Atwell or Ditheca but it makes a difference in what you can carry/change into.  Get an inventory container.
+Keeping stuff in your inventory is not the best idea. I'm not Atwell or Ditheca but it makes a difference in what you can carry/change into. Get an inventory container.
 
-For your change scripts, you have to be specific (ie. get all silk-robe).  That should be obvious, really.
+For your change scripts, you have to be specific (ie. get all silk-robe). That should be obvious, really.
 
-As for strength, most people will have one mode that offers more than the other.  It can be frustrating but you should be able to change into the eq that lets you get what you need.  Othwerwise, reroll.
+As for strength, most people will have one mode that offers more than the other. It can be frustrating but you should be able to change into the eq that lets you get what you need. Othwerwise, reroll.
 
 As far as chill goes, dispel self and done.
 
@@ -244,15 +246,15 @@ You might try something like this:
 
 Requirements:
 
--all chars need the same names on storage containers.
+\-all chars need the same names on storage containers.
 
--an empty container in your inventory  to go with your moldys, food, drinks, recalls, etc
+\-an empty container in your inventory to go with your moldys, food, drinks, recalls, etc
 
 Set an alias for removing and putting on each gear set
 
 [getting out of ac]
 
-#alias fight-off
+\#alias fight-off
 
 rem all;
 
@@ -268,7 +270,7 @@ put swirling-robes mystical-cloak
 
 [getting into regen]
 
-#alias regen-on
+\#alias regen-on
 
 get white-silk-robe mystical-cloak;
 
@@ -278,23 +280,23 @@ put white-silk-robe mystical-cloak;
 
 wear all;
 
-#var gear regen  (*this line stores what gear you're in so you can change out of it automatically)
+\#var gear regen (\*this line stores what gear you're in so you can change out of it automatically)
 
 ...This wouldn't leave your AC piece on if you don't have a regen gear for that slot, but it works no matter what items you have for your gears as long as the storage containers are the same across your characters.
 
 Then to switch gears, you only need one more alias for each gear to end up in:
 
-#alias shiftmode {put all golden-sack;$gear-off;shift-on;get all golden-sack}
+\#alias shiftmode {put all golden-sack;$gear-off;shift-on;get all golden-sack}
 
 Notice because you set your 'gear' variable when you put it on, you can use '$gear-off' and it'll pick the alias for what you're wearing.
 
-This was designed keeping in mind you seem to use your mystical-cloak in multiple gears.  If you ever use a mana regen robe, you'd need to store mystical-cloak in some container that's part of your regen gear, and to add a line to 'regen-off' about getting it back out.
+This was designed keeping in mind you seem to use your mystical-cloak in multiple gears. If you ever use a mana regen robe, you'd need to store mystical-cloak in some container that's part of your regen gear, and to add a line to 'regen-off' about getting it back out.
 
 </div>
 
 <div class="post" data-post-id="21596" data-author="Yinao" data-date="2007-12-10T04:32:43+00:00" data-subject="">
 
-.... AC, Max mana, mana regen, raise, heal, heal 2, shift, dam, and no complaints  :shock:
+.... AC, Max mana, mana regen, raise, heal, heal 2, shift, dam, and no complaints <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -316,19 +318,19 @@ Chill!
 
 Staying relevant, Whilst it seems interesting to be able to shift to multiple eq gear without returning to the default set, it's a helluva lot of work, especially if you want it to work for all your characters (which would be impossible, unless if you've got a weasel-ferret thing going on).
 
-I think your _default_ gear should be regen; here's why:
+I think your \_default\_ gear should be regen; here's why:
 
 Chances are, when you solo, you either do it with ac, or shift. So from regen, it covers both bases. Furthermore if you're healing, it's perfect, since most of us just use regen gear for healing (exclude the overenthusiastic clerics). Regen gear seems to be the best bet for default.
 
-I do not see an instance where you would need to directly shift from ac -> shift, naturally you would want to save as much mana as possible for sustaining your shift, so the regen -> shift seems better, likewise for AC, as you mentioned you need mana to kill beyond kobolds.
+I do not see an instance where you would need to directly shift from ac -\> shift, naturally you would want to save as much mana as possible for sustaining your shift, so the regen -\> shift seems better, likewise for AC, as you mentioned you need mana to kill beyond kobolds.
 
-But if you seem to need (really really need) to go from ac -> regen -> shift, instead of from ac -> regen -> ac -> shift, just set some variables for your client to know what gear you're in, and assign values of what falls under the category of that variable. Then you're able to do so, and write a fail-safe trigger to ensure that you are in the proper gear. {You could get your client to parse all your eq to see if it's correct for the gear, tonnes of work again! Worst part, you'll have to edit it again when you gain better eq!}
+But if you seem to need (really really need) to go from ac -\> regen -\> shift, instead of from ac -\> regen -\> ac -\> shift, just set some variables for your client to know what gear you're in, and assign values of what falls under the category of that variable. Then you're able to do so, and write a fail-safe trigger to ensure that you are in the proper gear. {You could get your client to parse all your eq to see if it's correct for the gear, tonnes of work again! Worst part, you'll have to edit it again when you gain better eq!}
 
 It's pretty easy on Zmud, im not sure how it's done on wintin. Ask at the wintin forums if that's your client, they're a helpful lot.
 
-My advice, fight it off with using a _Default_ gear, which would be able to change you to your other sets.
+My advice, fight it off with using a \_Default\_ gear, which would be able to change you to your other sets.
 
--Hotara
+\-Hotara
 
 </div>
 
@@ -336,47 +338,47 @@ My advice, fight it off with using a _Default_ gear, which would be able to chan
 
 So I made a script which uses robes as modes... heavily based on the information provided by Malison.
 
-#defgroup {Mode}
+\#defgroup {Mode}
 
-#alias  {ac-off} {#var eqmode ac;#showme ---EQ CHANGE : AC Off---;putoff;} {G|Mode} {T|WT}
+\#alias {ac-off} {#var eqmode ac;#showme ---EQ CHANGE : AC Off---;putoff;} {G\|Mode} {T\|WT}
 
-#alias  {ac-on} {#var eqmode ac;#showme ---EQ CHANGE : AC On---;puton;} {G|Mode} {T|WT}
+\#alias {ac-on} {#var eqmode ac;#showme ---EQ CHANGE : AC On---;puton;} {G\|Mode} {T\|WT}
 
-#alias  {putoff} {#var changerobe $$eqmode$robe;put all $invrobe;remove all;get $changerobe $mainrobe;put all $changerobe;get $invrobe $changerobe;get $mainrobe $changerobe;put $changerobe $mainrobe;} {G|Mode} {T|WT}
+\#alias {putoff} {#var changerobe $$eqmode$robe;put all $invrobe;remove all;get $changerobe $mainrobe;put all $changerobe;get $invrobe $changerobe;get $mainrobe $changerobe;put $changerobe $mainrobe;} {G\|Mode} {T\|WT}
 
-#alias  {puton} {#var changerobe $$eqmode$robe;get $changerobe $mainrobe;get all $changerobe;put $changerobe $mainrobe;wear all;get all $invrobe;} {G|Mode} {T|WT}
+\#alias {puton} {#var changerobe $$eqmode$robe;get $changerobe $mainrobe;get all $changerobe;put $changerobe $mainrobe;wear all;get all $invrobe;} {G\|Mode} {T\|WT}
 
-#alias  {regen-off} {#var eqmode regen;#showme ---EQ CHANGE : Regen Off---;putoff;} {G|Mode} {T|WT}
+\#alias {regen-off} {#var eqmode regen;#showme ---EQ CHANGE : Regen Off---;putoff;} {G\|Mode} {T\|WT}
 
-#alias  {regen-on} {#var eqmode regen;#showme ---EQ CHANGE : Regen On---;puton;} {G|Mode} {T|WT}
+\#alias {regen-on} {#var eqmode regen;#showme ---EQ CHANGE : Regen On---;puton;} {G\|Mode} {T\|WT}
 
-#variable  {acrobe} {swirling-robes} {G|Mode}
+\#variable {acrobe} {swirling-robes} {G\|Mode}
 
-#variable  {changerobe} {eqmoderobe} {G|Mode}
+\#variable {changerobe} {eqmoderobe} {G\|Mode}
 
-#variable  {eqmode} {regen} {G|Mode}
+\#variable {eqmode} {regen} {G\|Mode}
 
-#variable  {healrobe} {backpack-pack-leather} {G|Mode}
+\#variable {healrobe} {backpack-pack-leather} {G\|Mode}
 
-#variable  {invrobe} {black-persecution} {G|Mode}
+\#variable {invrobe} {black-persecution} {G\|Mode}
 
-#variable  {mainrobe} {mystical-cloak} {G|Mode}
+\#variable {mainrobe} {mystical-cloak} {G\|Mode}
 
-#variable  {regenrobe} {white-silk-robe} {G|Mode}
+\#variable {regenrobe} {white-silk-robe} {G\|Mode}
 
-#variable  {robe} {robe} {G|Mode}
+\#variable {robe} {robe} {G\|Mode}
 
-#variable  {shiftrobe} {robe-dark-mysteries} {G|Mode}
+\#variable {shiftrobe} {robe-dark-mysteries} {G\|Mode}
 
-#defgroup {}
+\#defgroup {}
 
 By being a bit fancy I can cut down the size of my script code by using variables as modes, and just calling "wear" and "unwear" commands with a mode parameter as it were.
 
 I have two problems... that are REALLY annoying me...
 
-1)   Wintin removes the double $ in my script when I save making it useless everytime I load it.
+1\) Wintin removes the double $ in my script when I save making it useless everytime I load it.
 
-2)   It doesn't seem to save my variable straight away when I set it... here's the proof...
+2\) It doesn't seem to save my variable straight away when I set it... here's the proof...
 
 inv
 
@@ -386,19 +388,17 @@ a mystical cloak (with a single-striped white sash (Private) attached to it)
 
 a black robe of persecution..It emits a faint humming sound!
 
-<476hp 365ma 94mv 4.0ac +9al 15181953xp>
+\<476hp 365ma 94mv 4.0ac +9al 15181953xp\>
 
-[b:1mg2tvdh]#var eqmode regen
+<strong>\#var eqmode regen</strong>
 
-#Ok. {eqmode} now equals {regen}.
+<strong>\#Ok. {eqmode} now equals {regen}.</strong>
 
-puton
+<strong>puton</strong>
 
-You get swirling black and red robes from a mystical cloak.
+<strong>You get swirling black and red robes from a mystical cloak.</strong>
 
-[/b:1mg2tvdh]
-
-<472hp 364ma 94mv 4.0ac +9al 15181953xp>
+\<472hp 364ma 94mv 4.0ac +9al 15181953xp\>
 
 You get an ivory torch from swirling black and red robes.
 
@@ -432,45 +432,45 @@ You get a leather wrist guard from swirling black and red robes.
 
 You get an ivory scarab from swirling black and red robes.
 
-<472hp 364ma 94mv 4.0ac +9al 15181953xp>
+\<472hp 364ma 94mv 4.0ac +9al 15181953xp\>
 
 Ok.
 
-<472hp 364ma 94mv 4.0ac +9al 15181953xp>
+\<472hp 364ma 94mv 4.0ac +9al 15181953xp\>
 
-scarab ivory:  You grab an ivory scarab.
+scarab ivory: You grab an ivory scarab.
 
-guard wrist leather:  You slide a leather wrist guard over your left wrist.
+guard wrist leather: You slide a leather wrist guard over your left wrist.
 
-guard wrist leather:  You slide a leather wrist guard over your right wrist.
+guard wrist leather: You slide a leather wrist guard over your right wrist.
 
-sash white:  You tighten a soft white sash about your waist.
+sash white: You tighten a soft white sash about your waist.
 
-shield skull great yawning death:  You start using a shield of yawning death as a shield.
+shield skull great yawning death: You start using a shield of yawning death as a shield.
 
-ivory bracers:  You wear ivory bracers on your arms.
+ivory bracers: You wear ivory bracers on your arms.
 
-gauntlets silver:  You wear a pair of silver gauntlets on your hands.
+gauntlets silver: You wear a pair of silver gauntlets on your hands.
 
-boots mud encrusted:  You step into a pair of mud encrusted boots.
+boots mud encrusted: You step into a pair of mud encrusted boots.
 
-silver leg plates:  You wear a pair of silver leg plates on your legs.
+silver leg plates: You wear a pair of silver leg plates on your legs.
 
-lesser helm:  You wear a lesser helm on your head.
+lesser helm: You wear a lesser helm on your head.
 
-suit mystic plate mail:  You crawl into a suit of mystic plate mail.
+suit mystic plate mail: You crawl into a suit of mystic plate mail.
 
-camail steel:  You wear steel camail around your neck.
+camail steel: You wear steel camail around your neck.
 
-camail steel:  You wear steel camail around your neck.
+camail steel: You wear steel camail around your neck.
 
-ring swirling red blue:  You slide a swirling red and blue ring onto your left finger.
+ring swirling red blue: You slide a swirling red and blue ring onto your left finger.
 
-ring swirling red blue:  You slide a swirling red and blue ring onto your right finger.
+ring swirling red blue: You slide a swirling red and blue ring onto your right finger.
 
-torch ivory light:  You light an ivory torch and hold it.
+torch ivory light: You light an ivory torch and hold it.
 
-cloak mystical robe:  You wear a mystical cloak about your body.
+cloak mystical robe: You wear a mystical cloak about your body.
 
 You can't figure out how a black robe of persecution works.
 
@@ -478,7 +478,7 @@ A black robe of persecution is far above your experience in back alleys.
 
 (You need to work on one of the above to use this item).
 
-<472hp 364ma 94mv -7.2ac +9al 15181953xp>
+\<472hp 364ma 94mv -7.2ac +9al 15181953xp\>
 
 You get a scroll of recall from a black robe of persecution.
 
@@ -504,17 +504,17 @@ You get a silver boat ticket from a black robe of persecution.
 
 You get an ebony black amphora from a black robe of persecution.
 
-<472hp 364ma 94mv -7.2ac +9al 15181953xp>
+\<472hp 364ma 94mv -7.2ac +9al 15181953xp\>
 
 The day has begun.
 
-<476hp 364ma 94mv -7.2ac +9al 15181953xp>
+\<476hp 364ma 94mv -7.2ac +9al 15181953xp\>
 
-#showme $regenrobe
+\#showme $regenrobe
 
 white-silk-robe
 
-#showme $eqmode
+\#showme $eqmode
 
 regen
 
@@ -524,11 +524,10 @@ Notice how I set the #var eqmode to "regen" but when I run the "puton" command i
 
 <div class="post" data-post-id="21603" data-author="Malison" data-date="2007-12-10T15:28:20+00:00" data-subject="">
 
-[quote:dp05z8gy]#alias {puton} {#var changerobe $$eqmode$robe;get $changerobe $mainrobe;get all $changerobe;put $changerobe $mainrobe;wear all;get all $invrobe;} {G|Mode} {T|WT} 
+> <strong>Quote:</strong>
+> \#alias {puton} {#var changerobe $$eqmode$robe;get $changerobe $mainrobe;get all $changerobe;put $changerobe $mainrobe;wear all;get all $invrobe;} {G\|Mode} {T\|WT}
 
-[/quote:dp05z8gy]
-
-This is a Wintin thing...when you did 'puton' it sent all the commands to Sloth at the same time...meaning it called up the old $changerobe before having time to change it.  If you set $changerobe at the same time as you set $eqmode that should be fixed.
+This is a Wintin thing...when you did 'puton' it sent all the commands to Sloth at the same time...meaning it called up the old $changerobe before having time to change it. If you set $changerobe at the same time as you set $eqmode that should be fixed.
 
 Not sure how to fix the double $$ problem, being a Wintin95 user instead of .net
 
@@ -536,15 +535,22 @@ Not sure how to fix the double $$ problem, being a Wintin95 user instead of .net
 
 <div class="post" data-post-id="21605" data-author="Leaf" data-date="2007-12-10T16:39:06+00:00" data-subject="">
 
-First off, Autolycos is an ornery prick.
+> <strong>brady wrote:</strong>
+> First off, Autolycos is an ornery prick.
+> 
+> 
+> 
+> As far as chill goes, dispel self and done.
+> 
+> 
+> 
+> Oh, and stop whining.
+> 
+> 
+> 
+> ps...my dirty lunch pail is small and full.
 
-As far as chill goes, dispel self and done.
-
-Oh, and stop whining.
-
-ps...my dirty lunch pail is small and full.[/quote:zkb5u2xg]
-
-From what I can recall, Chill Touch can not be dispeled.  You have to wait
+From what I can recall, Chill Touch can not be dispeled. You have to wait
 
 for it to go away, or pay a Mage on VK.
 
@@ -560,9 +566,9 @@ You feel your life flowing away as Brady chills you.
 
 sc
 
-Brady <~PIRATE~> Vote!  (level: 40)
+Brady \<\~PIRATE\~\> Vote! (level: 40)
 
-Your levels:  Ma: 40 Cl: 40 Wa: 40 Dr: 40 Av: 40 
+Your levels: Ma: 40 Cl: 40 Wa: 40 Dr: 40 Av: 40 
 
 You are 54 years old.
 
@@ -600,31 +606,31 @@ You are standing.
 
 You are affected by the following spells:
 
-   Chilled                          
+ Chilled 
 
-   Detect Evil                      
+ Detect Evil 
 
-   Detect Good                      
+ Detect Good 
 
-   Detect Magic                     
+ Detect Magic 
 
-   Detect Invisible                 
+ Detect Invisible 
 
-   Sense Life                       
+ Sense Life 
 
-   Infravision                      
+ Infravision 
 
-   Resist Fire                      
+ Resist Fire 
 
-   Resist Webs                      
+ Resist Webs 
 
-   Stamina                          
+ Stamina 
 
-   Corona                           
+ Corona 
 
-   Vigor                            
+ Vigor 
 
-   Vitality                         
+ Vitality 
 
 cast 'dispel mag' brady
 
@@ -680,9 +686,9 @@ You feel dizzy for a moment...
 
 sc
 
-Brady <~PIRATE~> Vote!  (level: 40)
+Brady \<\~PIRATE\~\> Vote! (level: 40)
 
-Your levels:  Ma: 40 Cl: 40 Wa: 40 Dr: 40 Av: 40 
+Your levels: Ma: 40 Cl: 40 Wa: 40 Dr: 40 Av: 40 
 
 You are 54 years old.
 
@@ -720,15 +726,13 @@ You are standing.
 
 You are affected by the following spells:
 
-   Resist Fire
+ Resist Fire
 
 </div>
 
 <div class="post" data-post-id="21608" data-author="mahkra" data-date="2007-12-10T17:10:45+00:00" data-subject="">
 
 For what it is worth I made all my EQ slots variable so when I get a new piece of EQ I just change the variable, instead of fishing thru huge aliases. It took a while to setup but has saved me hours of screwing with it since itâ€™s rare I need to change a eq switch alias.
-
- 
 
 Var tankhead
 
@@ -750,11 +754,9 @@ tank to solo
 
 solo to tank
 
-Since regen is the big issue for me I set a variable with which alias to call for regening and moving from regen to normal mode.  I then have two commands to regen  getup and crash. They each just call the appropriate variable.
+Since regen is the big issue for me I set a variable with which alias to call for regening and moving from regen to normal mode. I then have two commands to regen getup and crash. They each just call the appropriate variable.
 
- 
-
-For what  ever reason if my eq ever gets messed up I can fix it by doing the triangle (usually because I lack space in inventory). Crash, getup, solototank, tanktosolo and everything gets put back into place. 
+For what ever reason if my eq ever gets messed up I can fix it by doing the triangle (usually because I lack space in inventory). Crash, getup, solototank, tanktosolo and everything gets put back into place. 
 
 A different approach I suppose. Do with it what you will. 
 
@@ -774,7 +776,7 @@ this is a good idea
 
 my default eq is 'fighting' gear, from there i can do
 
-+handgear - into HD gear from dmg/spelldmg/ac
+\+handgear - into HD gear from dmg/spelldmg/ac
 
 regon - switches into regen gear
 
@@ -782,7 +784,7 @@ from regon i can do
 
 memup - which mems
 
-+rent - rent gear
+\+rent - rent gear
 
 regoff - back to fighting gear
 
@@ -818,7 +820,7 @@ rem ring ring robe cloak bracelet-jade
 
 all in one line like that.
 
-As for me, I pick a main mode for each character that I pivot off of for most changes.  For most of the chars it is actually the max mana mode, but I think using regen mode would make more sense if I were to redo it.  Some of the stuff is in its own containers, but recently I have decided it is just as fast to pull evertying from a main robe.  There is no lag on getting or putting items in or out of a container, just more scroll, and it is then easier to use the same items in multiple modes.
+As for me, I pick a main mode for each character that I pivot off of for most changes. For most of the chars it is actually the max mana mode, but I think using regen mode would make more sense if I were to redo it. Some of the stuff is in its own containers, but recently I have decided it is just as fast to pull evertying from a main robe. There is no lag on getting or putting items in or out of a container, just more scroll, and it is then easier to use the same items in multiple modes.
 
 In other words, take everything off, put into main robe, pull new items by name, wear all.
 
@@ -850,11 +852,12 @@ peace out
 
 <div class="post" data-post-id="21662" data-author="Weasel" data-date="2007-12-14T02:22:36+00:00" data-subject="">
 
-You can string removes or wears together now instead of using wear all, remove all, try something like this:
-
-rem ring ring robe cloak bracelet-jade
-
-all in one line like that.[/quote:32vr01oy]
+> <strong>Rodek wrote:</strong>
+> You can string removes or wears together now instead of using wear all, remove all, try something like this:
+> 
+> rem ring ring robe cloak bracelet-jade
+> 
+> all in one line like that.
 
 Thanks, I wasn't aware of that. Amended all my eq change scripts accordingly last night, and now have less spam as well as being a few seconds faster overall than I had previously. Cheers.
 

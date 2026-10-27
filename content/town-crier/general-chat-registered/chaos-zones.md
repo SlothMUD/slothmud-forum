@@ -24,15 +24,13 @@ frag one another?
 
 Copy of email I sent out a minute ago:
 
-Aaron Young 	
+Aaron Young 
 
 to Splork
 
-	
-
 show details
 
-	 9:12 am (3 minutes ago) 
+ 9:12 am (3 minutes ago) 
 
 Mud just rebooted, Rub chillin' at magnolia, knows I'm headed to ET.
 
@@ -68,7 +66,7 @@ Where are your manners, my lady?
 
 You hunch.
 
-You gossip-- 'come on up to the tower rub you fckin  puss'
+You gossip-- 'come on up to the tower rub you fckin puss'
 
 Rub gossips-- 'go f yourself'
 
@@ -92,11 +90,11 @@ You gossip-- 'seriously'
 
 Rub gossips-- 'oh'
 
-So anyway...we're both grown men..avatars etc.  He likes to tell me
+So anyway...we're both grown men..avatars etc. He likes to tell me
 
 fuck you and stuff,
 
-I'm gonna handle him.  As far as Im concerned he KOS in a chaos area.
+I'm gonna handle him. As far as Im concerned he KOS in a chaos area.
 
 He's got the
 
@@ -116,7 +114,7 @@ levels, spells and eq mean little to nothing pvp.
 
 its all skill and style.
 
-being clever wins hands down.   8)
+being clever wins hands down. <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -130,9 +128,9 @@ Also how do u know Rub knew u were running there?
 
 <div class="post" data-post-id="15819" data-author="Medios" data-date="2006-12-28T19:11:04+00:00" data-subject="">
 
-Think the bigger question is why open all the doors.  Was this an attempt to let all the mobs out to kill someone.  
+Think the bigger question is why open all the doors. Was this an attempt to let all the mobs out to kill someone. 
 
-Cant we all just get along :P
+Cant we all just get along <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 Mike
 
@@ -164,7 +162,8 @@ zones?
 
 <div class="post" data-post-id="15835" data-author="Rajil" data-date="2006-12-29T09:34:08+00:00" data-subject="">
 
-[quote:112zbgsz]One day I'm going to figure out what's up with these two.[/quote:112zbgsz]
+> <strong>Quote:</strong>
+> One day I'm going to figure out what's up with these two.
 
 I dunno, they remind me of an old married couple... they bicker, they make up, they bicker, they make up ...
 
@@ -186,6 +185,6 @@ Well, at least we know where Aaron was getting the gay porn from then.
 
 <div class="post" data-post-id="15851" data-author="13" data-date="2006-12-29T23:51:02+00:00" data-subject="">
 
-[img:2xwfrqvo]http://www.fromoldbooks.org/Duerer//pages/1513-Knight-Death-and-the-Devil/1513-Knight-Death-and-the-Devil-q50-969x1257.jpg[/img:2xwfrqvo]
+![](http://www.fromoldbooks.org/Duerer//pages/1513-Knight-Death-and-the-Devil/1513-Knight-Death-and-the-Devil-q50-969x1257.jpg)
 
 </div>

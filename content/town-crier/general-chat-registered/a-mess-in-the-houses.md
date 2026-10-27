@@ -14,23 +14,23 @@ post_count: 8
 
 Ezekiel said that there are less Winter houses for mages and I said that's rubbish.
 
-But look:   
+But look: 
 
 Minor, House of Battle, begins in 15 hours, lasts 94 minutes.
 
-   Minor, House of Dark Shades, begins in 16 hours, lasts 113 minutes.
+ Minor, House of Dark Shades, begins in 16 hours, lasts 113 minutes.
 
-   Minor, House of the Winter Wolf, begins in 39 hours, lasts 36 minutes.
+ Minor, House of the Winter Wolf, begins in 39 hours, lasts 36 minutes.
 
-   Minor, House of the Frost Giant, begins in 39 hours, lasts 196 minutes.
+ Minor, House of the Frost Giant, begins in 39 hours, lasts 196 minutes.
 
-   Minor, House of the Old Forces, begins in 42 hours, lasts 195 minutes.
+ Minor, House of the Old Forces, begins in 42 hours, lasts 195 minutes.
 
-   Minor, House of the Grand Struggle, begins in 46 hours, lasts 196 minutes.
+ Minor, House of the Grand Struggle, begins in 46 hours, lasts 196 minutes.
 
-   Minor, House of the Spring, begins in 49 hours, lasts 195 minutes.
+ Minor, House of the Spring, begins in 49 hours, lasts 195 minutes.
 
-   Minor, House of Nature, begins in 52 hours, lasts 196 minutes.
+ Minor, House of Nature, begins in 52 hours, lasts 196 minutes.
 
 Can any imms plz check if Winter and Winter Wolf houses are given same time as other houses?
 
@@ -60,7 +60,7 @@ the only person who truly understands the way houses/astrology/orrery is probabl
 
 i have looked at it multiple times, but i have no idea how, nor the desire to modify it, 
 
-so don't ask for changes.  the math involved is way over my head. 
+so don't ask for changes. the math involved is way over my head. 
 
 best i can figure, there is sloth-world in the middle, being orbited by 4 planets ...
 
@@ -120,15 +120,15 @@ Other useful things can be calculated with this data, such as average house time
 
 So I just SQL'ed the crap out of that data...
 
-SELECT HOUSE, SUM(`FOR`) AS MINS, AVG(`FOR`) AS AVG_LENGTH FROM ast 
+SELECT HOUSE, SUM(\`FOR\`) AS MINS, AVG(\`FOR\`) AS AVG\_LENGTH FROM ast 
 
-WHERE `TYPE` LIKE 'Major'
+WHERE \`TYPE\` LIKE 'Major'
 
 GROUP BY HOUSE
 
 ORDER BY MINS
 
-"HOUSE"	"MINS"	"AVG_LENGTH"
+"HOUSE"	"MINS"	"AVG\_LENGTH"
 
 "House of the Great Master, Twivel "	"577"	"115.4000"
 
@@ -162,15 +162,15 @@ ORDER BY MINS
 
 "House of Heat "	"7599"	"135.6964"
 
-SELECT HOUSE, SUM(`FOR`) AS MINS, AVG(`FOR`) AS AVG_LENGTH FROM ast 
+SELECT HOUSE, SUM(\`FOR\`) AS MINS, AVG(\`FOR\`) AS AVG\_LENGTH FROM ast 
 
-WHERE `TYPE` LIKE 'Minor'
+WHERE \`TYPE\` LIKE 'Minor'
 
 GROUP BY HOUSE
 
 ORDER BY MINS
 
-"HOUSE"	"MINS"	"AVG_LENGTH"
+"HOUSE"	"MINS"	"AVG\_LENGTH"
 
 "House of Winter "	"7862"	"110.7324"
 
@@ -204,15 +204,15 @@ ORDER BY MINS
 
 "House of the Dragon "	"73020"	"187.7121"
 
-SELECT HOUSE, SUM(`FOR`) AS MINS, AVG(`FOR`) AS AVG_LENGTH FROM ast 
+SELECT HOUSE, SUM(\`FOR\`) AS MINS, AVG(\`FOR\`) AS AVG\_LENGTH FROM ast 
 
-WHERE `TYPE` LIKE '%'
+WHERE \`TYPE\` LIKE '%'
 
 GROUP BY HOUSE
 
 ORDER BY MINS
 
-"HOUSE"	"MINS"	"AVG_LENGTH"
+"HOUSE"	"MINS"	"AVG\_LENGTH"
 
 "House of Winter "	"8480"	"110.1299"
 
@@ -260,7 +260,7 @@ My theory is the movement of sloths "4 planets" that Breeze alluded to, that cau
 
 <div class="post" data-post-id="38644" data-author="*Breeze*" data-date="2018-01-25T21:27:08+00:00" data-subject="Re: a mess in the houses?">
 
-> **Gorka wrote:**
+> <strong>Gorka wrote:</strong>
 > KJ was probably a literal genius.
 
 Agreed.

@@ -22,9 +22,9 @@ and adding the lyme limits would prevent the max avvie dragging valkers to 8x20 
 
 <div class="post" data-post-id="36828" data-author="Teron" data-date="2016-04-14T08:41:32+00:00" data-subject="Re: Ideas to encourage groups">
 
-1. Removing level-limit from valk is a good idea. I really hate the time, when you have to cycle drachma without leveling the prime class.
+1\. Removing level-limit from valk is a good idea. I really hate the time, when you have to cycle drachma without leveling the prime class.
 
-2. Putting the limit on Lyme will only move such newbie exp trains to other continents. Such "groups" won't invite any other players, so I don't see, how it'd fix anything. 
+2\. Putting the limit on Lyme will only move such newbie exp trains to other continents. Such "groups" won't invite any other players, so I don't see, how it'd fix anything. 
 
 Given the lack of exp groups, there's little chance to join a large exp group, too. So far, I see that it'll restrict access to lyme for 1x40 players, who join a notemp chop group and it'll suck for them to be left out. Yet again, just 2 more reasons to bring the chop groups back at the similar exp rate that's offlyme w/o bonuses.
 
@@ -56,28 +56,28 @@ I've played a number of characters past 2x20 and the only reasons I didn't level
 
 Yasik, please re-read what I wrote.
 
-> **Quote:**
+> <strong>Quote:</strong>
 > Putting the limit on Lyme will only move such newbie exp trains to other continents. Such "groups" won't invite any other players, so I don't see, how it'd fix anything.
 
-> **Quote:**
+> <strong>Quote:</strong>
 > I, for one, do not see anything wrong with group with a friend of different levels. This is the part of Sloth that I like. The other player simply gets as much exp as his total levels allow, that's reasonable. A newbie can work as a peri or as a low-level bard, helping as much as he gets exp.
 
 Even when it comes to 8x20, which are an exception, I still don't see how putting them offlyme would help, which is what I'm trying to explain to Ezekiel in another thread. And only some of the 20-39lev experienced players would group with real newbies for exp, and none for eq.
 
 It's kinda funny, when you accuse me of envy and assume I do it because of you or Surf, when I'm trying to defend newbies being on Lyme.
 
-> **Quote:**
+> <strong>Quote:</strong>
 > your intent is to screw up things so nobody can run exp like now.
 
 Please quote me, where exactly I want to screw up exp by suggesting that we need more people, more eq, more high-end areas and chop reinstatement.
 
 P.S. Some ideas to encourage grouping:
 
-- once a week, make mobs in one area grant honor and all ppl, who kill the mob, get the same amount of honor (i.e, not splitting, otherwise they'll be camped by honor-hungry ppl)
+\- once a week, make mobs in one area grant honor and all ppl, who kill the mob, get the same amount of honor (i.e, not splitting, otherwise they'll be camped by honor-hungry ppl)
 
-- increase exp by 15% for players in the area that match the area difficulty (eg, 1x40 in Murkwood)
+\- increase exp by 15% for players in the area that match the area difficulty (eg, 1x40 in Murkwood)
 
-- make group bonus kick in earlier for 21-4x40 players
+\- make group bonus kick in earlier for 21-4x40 players
 
 </div>
 
@@ -99,17 +99,17 @@ Really looking forward to actually hearing some adult-style suggestions rather t
 
 My ideas to encourage grouping:
 
--Add a 3x40 restrict back to Lyme (I've already listed my reasons why on other thread, no need to beat a dead horse and make this thread the other one if you disagree)
+\-Add a 3x40 restrict back to Lyme (I've already listed my reasons why on other thread, no need to beat a dead horse and make this thread the other one if you disagree)
 
--Integrate more new high end forge equipment
+\-Integrate more new high end forge equipment
 
--If not adding the Lyme restriction back, create new incentives to bring back chop as that is why newbs were initially allowed on to Lyme in the first place.
+\-If not adding the Lyme restriction back, create new incentives to bring back chop as that is why newbs were initially allowed on to Lyme in the first place.
 
--I agree with Taron on the de-restricting Valk.
+\-I agree with Taron on the de-restricting Valk.
 
--Increase off-lyme leader xp
+\-Increase off-lyme leader xp
 
--Bring back at-least decent gem rates, which encouraged a lot more grouping with a variety of mobs (a lot in the mud died when that change was made).
+\-Bring back at-least decent gem rates, which encouraged a lot more grouping with a variety of mobs (a lot in the mud died when that change was made).
 
 Just some food for thought from where I sit.
 
@@ -121,7 +121,7 @@ Ezekiel
 
 <div class="post" data-post-id="36868" data-author="cyprimus" data-date="2016-04-20T05:22:23+00:00" data-subject="Re: Ideas to encourage groups">
 
-So. we all agree.  Valk cap is bad.
+So. we all agree. Valk cap is bad.
 
 Please remove it..
 
@@ -137,7 +137,7 @@ Oh, and fix chop groups so taron can lead/tank/damn/web/and heal them for 8 hour
 
 Eze, when I suggested that we should increase gem poprates on Valk, Splork said:
 
-> **Splork wrote:**
+> <strong>Splork wrote:</strong>
 > Gem pop rates will not be changing, unless they get lower.
 
 Though, if Lyme pop rates are lower, than elsewhere, maybe bringing up to their offlyme level would make people group more on Lyme, especially, if the chop is back.
@@ -156,34 +156,34 @@ Taron, you are under the presumption that adding newbies in groups increases gem
 
 <div class="post" data-post-id="36873" data-author="Teron" data-date="2016-04-22T10:35:00+00:00" data-subject="Re: Ideas to encourage groups">
 
-1. I only suggested increasing gem pop rate on Valk to bring remorts/experienced alts on Valk to increase groups.
+1\. I only suggested increasing gem pop rate on Valk to bring remorts/experienced alts on Valk to increase groups.
 
 Though there aren't that many areas with big mobs, so I'm not sure how that'd help.
 
-2. I merely quoted Splork that they are not going to increase any pop rate, even on Valk.
+2\. I merely quoted Splork that they are not going to increase any pop rate, even on Valk.
 
-3. I've led lots of groups and there's enough "coincidences" to suggest that the minimum member amount of group members we got a t3 gem with was 9 (or 8, I forgot). That included 2-3 newbies on Island/Dweb runs. 
+3\. I've led lots of groups and there's enough "coincidences" to suggest that the minimum member amount of group members we got a t3 gem with was 9 (or 8, I forgot). That included 2-3 newbies on Island/Dweb runs. 
 
 Though some said that the number of 40s plays a role here, but I haven't tested it. Again, we don't even have large groups any more since War, Sochi, Dr, Tembikai and Fluffy are taking a break and Alris is MIA, too.
 
-4. 
+4\. 
 
-> **Ezekiel wrote:**
+> <strong>Ezekiel wrote:</strong>
 > sorry you try to tie everything into still being able to run your newb there, but gem pop increase issue is not one.
 
 Believe it or not, I'm thinking in terms of new players being able to join exp groups, interest which is shared by you, me and immorts. (Even though the whole idea of forcing people to group is questionable.)
 
 Please read the following lines keeping that in mind:
 
-- we agree that chop groups for exp would bring newbies back on Lyme
+\- we agree that chop groups for exp would bring newbies back on Lyme
 
-- if Lyme gem pop rate is same as offlyme, there will be more groups: more even chances to get newbies to join them. In fact, it may be one of the two factors that'd enable chop groups.
+\- if Lyme gem pop rate is same as offlyme, there will be more groups: more even chances to get newbies to join them. In fact, it may be one of the two factors that'd enable chop groups.
 
-- if group member amount helps gem pop rates, which is my belief, based on experience (have anyone popped a t3 solo?), then there are even more reasons for new players to join exp groups (or rather, leaders to invite them and group members to keep them alive).
+\- if group member amount helps gem pop rates, which is my belief, based on experience (have anyone popped a t3 solo?), then there are even more reasons for new players to join exp groups (or rather, leaders to invite them and group members to keep them alive).
 
 Again, try to understand that you read into my argument the same thing Yasik is reading into ours: it's not about my newbie or anyone's, it's about letting new players in groups of old players. And Lyme chop is another type of groups that experienced players can join in, if the exp there is reasonable and poprate as good as offlyme (otherwise, why bother with grouping on Lyme for exp at all?).
 
-I'm simply trying to find a solution to improve the game play, not force someone change theirs just because  some of the gameplay or player amount need improvement.
+I'm simply trying to find a solution to improve the game play, not force someone change theirs just because some of the gameplay or player amount need improvement.
 
 P.S. I understand that you are taking a break since you lost a golden sack. If immorts don't help you, let me try to restore at least some of the contents. Losing players on such minor incidents sucks.
 
@@ -197,7 +197,7 @@ That is... i wil be on saturday, and if we get a tank and healer.. will lead..
 
 problem is, ppl no show to much... but maybe we can try?
 
-Not sure how to approach it.. ie- should leader post when they are willing, or tank or healer?  Seems we have troubles getting the three together... myself i never really know much ahead of time, so dunno..
+Not sure how to approach it.. ie- should leader post when they are willing, or tank or healer? Seems we have troubles getting the three together... myself i never really know much ahead of time, so dunno..
 
 Just waking up, so someone organize my thoughs already!
 
@@ -207,11 +207,11 @@ Just waking up, so someone organize my thoughs already!
 
 I thought about a quarterly calendar, where we could see:
 
-- global bonus days
+\- global bonus days
 
-- quest announcements
+\- quest announcements
 
-- where leaders could submit the time, when they plan to start and end leading.
+\- where leaders could submit the time, when they plan to start and end leading.
 
 As usual, it requires some Breeze time to integrate global bonus days to the calendar (or we'll have re-enter them every month or so).
 
@@ -235,14 +235,14 @@ If your off Lyme, the better the pop rate.
 
 <div class="post" data-post-id="36877" data-author="*Breeze*" data-date="2016-04-24T06:49:20+00:00" data-subject="Re: Ideas to encourage groups">
 
-> **Teron wrote:**
+> <strong>Teron wrote:</strong>
 > I thought about a quarterly calendar, where we could see:
 > 
-> - global bonus days
+> \- global bonus days
 > 
-> - quest announcements
+> \- quest announcements
 > 
-> - where leaders could submit the time, when they plan to start and end leading.
+> \- where leaders could submit the time, when they plan to start and end leading.
 > 
 > 
 > 
@@ -256,7 +256,7 @@ If your off Lyme, the better the pop rate.
 > 
 > Though I'll look into the calendar thing, if I have time.
 
-come up with a complete idea for the website  and I will consider it..
+come up with a complete idea for the website and I will consider it..
 
 </div>
 
@@ -288,7 +288,7 @@ any chance of opening valk?
 
 <div class="post" data-post-id="36885" data-author="*Splork*" data-date="2016-04-25T22:18:46+00:00" data-subject="Re: Ideas to encourage groups">
 
-We are not actively discussing opening up  Valk to all players. 
+We are not actively discussing opening up Valk to all players. 
 
 The better solution would be to move Valk or all of Valk's content to BH but we are not currently discussing that solution either.
 
@@ -338,15 +338,15 @@ this will still leave valk relevant due to people wanting valk only eq like the 
 
 <div class="post" data-post-id="36892" data-author="Teron" data-date="2016-04-27T06:43:08+00:00" data-subject="Re: Ideas to encourage groups">
 
-1. Create a 20 valk character with 130 drachma.
+1\. Create a 20 valk character with 130 drachma.
 
-2. Buy 32 oct tokens.
+2\. Buy 32 oct tokens.
 
-3. Pass tokens to your alt or buyer.
+3\. Pass tokens to your alt or buyer.
 
-4. Create new character.
+4\. Create new character.
 
-5. Repeat.
+5\. Repeat.
 
 There's no way there's gonna be a way to create 20 lev chars with drachma.
 
@@ -370,13 +370,13 @@ Dr
 
 We have increased the following spec weapons damage:
 
-1) macu from 1/7 total damage to 1/6
+1\) macu from 1/7 total damage to 1/6
 
-2) spec from 1/7 total damage to 1/6
+2\) spec from 1/7 total damage to 1/6
 
-3) triblade from 1/7 total damage to 1/6
+3\) triblade from 1/7 total damage to 1/6
 
-4) sacrificial knife from 1/9 total damage to 1/7
+4\) sacrificial knife from 1/9 total damage to 1/7
 
 Any weapons currently in-game will have old statistics, players will need pop new weapons for the newly created stats. We will not be replacing the ones currently in-game!
 
@@ -390,27 +390,27 @@ Specs work because of a Vorpal proc which gets added to the weapon. This proc co
 
 I have just changed the scimitar chopper to do more damage per chop. It used to do 1/8 of a creature's total hps. I've increased it to 1/6.
 
-We did not change the ratio per which chops happen, we have changed the total percentage done per chop which should clearly increase the rate at which mobs die.  Again, only newly loaded and popped items will have new stats. I am going to reboot this morning so that only new weapons will be in-game.
+We did not change the ratio per which chops happen, we have changed the total percentage done per chop which should clearly increase the rate at which mobs die. Again, only newly loaded and popped items will have new stats. I am going to reboot this morning so that only new weapons will be in-game.
 
 Here is my stat of the item:
 
 statpr chopper
 
-CONFIG_ID[0] Type: PROC[3] - vorpal
+CONFIG\_ID[0] Type: PROC[3] - vorpal
 
-    PROC_EDITED_BY="Splork";
+ PROC\_EDITED\_BY="Splork";
 
-    chop_value="6";
+ chop\_value="6";
 
-    CFG_ID="1";
+ CFG\_ID="1";
 
-    PROC_NUM="3";
+ PROC\_NUM="3";
 
-    PROC_ENABLED="1";
+ PROC\_ENABLED="1";
 
-    group_chop_adjust="12";
+ group\_chop\_adjust="12";
 
-1024rm 0wz 514sv>
+1024rm 0wz 514sv\>
 
 </div>
 
@@ -464,13 +464,13 @@ At first, let us not forget that this thread started by person who cant solo, so
 
 At second, even if we agree that there is a problem that people do not really want to group with themselves, then a solution can be as I said : implementing "leadership points" (LP) along with exp/honor/drachma points, removing leader exp bonus, make a store with goods can be bought for LP:
 
-- godsanc potion (duration 40 min) : 100 LP;
+\- godsanc potion (duration 40 min) : 100 LP;
 
-- adamantium skin potion (duration 40 min, -4.0AC) : 100 LP;
+\- adamantium skin potion (duration 40 min, -4.0AC) : 100 LP;
 
-- full HP restore potion (heals to max) : 100 LP;
+\- full HP restore potion (heals to max) : 100 LP;
 
-- (your idea here);
+\- (your idea here);
 
 "LP goods" can be designed to not give too much overpower, just a slight increase over what we already can get.
 
@@ -484,24 +484,24 @@ A "group" is considered a company of 5 or more.
 
 Just a sketch, can be discussed more or declined.
 
-Only way to herd people into group - by making them **want** to group, abusing their personal motives in pursuit to make their characters more powerful.
+Only way to herd people into group - by making them \*\*want\*\* to group, abusing their personal motives in pursuit to make their characters more powerful.
 
 </div>
 
 <div class="post" data-post-id="36909" data-author="Teron" data-date="2016-05-04T15:34:23+00:00" data-subject="Re: Ideas to encourage groups">
 
-**Zenoko**, that's a good idea.
+<strong>Zenoko</strong>, that's a good idea.
 
-**Yasik**,
+<strong>Yasik</strong>,
 
-1. How does removing exp/gold leadership bonus incentivize leaders to lead?
+1\. How does removing exp/gold leadership bonus incentivize leaders to lead?
 
 The potions you listed aren't useful to leaders, to tanks - maybe. But even then, some tanks already have godsanc or use goblets/potions, so replacing leadership bonus for this is a waste of exp.
 
 You said:
 
-> **Quote:**
-> Only way to herd people into group - by making them **want** to group, abusing their personal motives in pursuit to make their characters more powerful.
+> <strong>Quote:</strong>
+> Only way to herd people into group - by making them \*\*want\*\* to group, abusing their personal motives in pursuit to make their characters more powerful.
 
 The leadership exp I get is my own, I use it to make my character more powerful.
 
@@ -511,13 +511,13 @@ Again, how does this affect personal leaders' motives?
 
 Right now, you are saying, to motivate leaders, let's take away leadership exp and gold and split the benefits among the group. Why not make tanks spend their own points on their own potions?
 
-2. There already are ways to prolong runs, but people don't stay focused for longer, than 10-15 minutes. There are plenty of reasons to go afk that may arise. Working on making groups run longer may be fruitless, unless we accept that people can afk, while doing exp.
+2\. There already are ways to prolong runs, but people don't stay focused for longer, than 10-15 minutes. There are plenty of reasons to go afk that may arise. Working on making groups run longer may be fruitless, unless we accept that people can afk, while doing exp.
 
 Overall, I like an idea for a leadership/tank shop, but perhaps introducing another currency is too much. Add honor to leadership/tank bonus and create a shop to buy eq/stuff for honor for everyone. That may work more effectively.
 
 P.S. Yasik, you personally insulted a player, who got 3 characters to 9x40, whereas you haven't done it once. What's more, Cyprimus has soloed most of his way there. Even if you take Cyprimus, who seemed to tank groups a lot, you'll see that he did almost exactly 50% exp solo:
 
-[<LINK_TEXT text="http://www.slothmud.org/wp/live-info/pl ... c=Cyprimus">http://www.slothmud.org/wp/live-info/player-statistics?pc=Cyprimus</LINK_TEXT>](http://www.slothmud.org/wp/live-info/player-statistics?pc=Cyprimus)
+[http://www.slothmud.org/wp/live-info/player-statistics?pc=Cyprimus](http://www.slothmud.org/wp/live-info/player-statistics?pc=Cyprimus)
 
 As for Ip, who gripped a lot in my groups, that exp is about 20-30% of his total exp, the rest he soloed.
 
@@ -529,11 +529,11 @@ So please keep your finger-pointing to yourself, apologize to Cyprimus, and let'
 
 I've finally ran a chop group yesterday with the following results:
 
-- the first hour was almost as good as offlyme exp
+\- the first hour was almost as good as offlyme exp
 
-- the other hour was half of that, thanks to hitting more eq mobs, smaller mobs or waiting for ppl to figure out the archways
+\- the other hour was half of that, thanks to hitting more eq mobs, smaller mobs or waiting for ppl to figure out the archways
 
-- after 4 hours, the exp I got was what I'd normally get for 2.5-3hrs of offlyme chop.
+\- after 4 hours, the exp I got was what I'd normally get for 2.5-3hrs of offlyme chop.
 
 If chop leaders remember what mobs to hit for constantly changing group size and hit less eq, less Olympus and more exp, the exp can be slightly less or similar to offlyme exp, with the same caveat that mobs need to be killed only once for aged exp.
 
@@ -551,10 +551,10 @@ We need a phone app with alerts related to grouping, i.e. group of size X is for
 
 <div class="post" data-post-id="36953" data-author="Vegetable" data-date="2016-06-05T23:42:32+00:00" data-subject="Re: Ideas to encourage groups">
 
-> ***juggleblood* wrote:**
+> <strong>\*juggleblood\* wrote:</strong>
 > We need a phone app with alerts related to grouping, i.e. group of size X is formed or leader Y has started a group or player Z has pinged me to join. I bet that would entice a lot of people into logging more frequently. I know it would work on me.
 
-Brilliant idea. The phone app can be used to update players about upcoming quest/events as well  :lol:
+Brilliant idea. The phone app can be used to update players about upcoming quest/events as well <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -562,7 +562,7 @@ Brilliant idea. The phone app can be used to update players about upcoming quest
 
 I would load it on my phone.
 
-- Stilgar
+\- Stilgar
 
 </div>
 
@@ -576,7 +576,7 @@ You can use a mobile app, the web version or a desktop client to stay in touch:
 
 For mobile, you need to download the Telegram app and join the Slothmud channel:
 
-[http://telegram.me/slothmud](http://telegram.me/slothmud) - or search for slothmud in any Telegram client.
+[http://telegram.me/slothmud](http://telegram.me/slothmud) \- or search for slothmud in any Telegram client.
 
 Right now, it's mostly used for asking for raises and occasional group announcements. With more ppl there, I'd announce groups more often.
 
@@ -598,7 +598,7 @@ Ok, I am using Telegram Slothmud Channel now, thanks for the tip. I encourage mo
 
 <div class="post" data-post-id="36973" data-author="Teron" data-date="2016-06-23T08:53:17+00:00" data-subject="Re: Ideas to encourage groups">
 
-1. You/Breeze/Splork can create a SlothBot:
+1\. You/Breeze/Splork can create a SlothBot:
 
 [https://core.telegram.org/bots](https://core.telegram.org/bots)
 
@@ -610,7 +610,7 @@ For instance, you can make buttons to show current who list, group list or even 
 
 Though I'd suggest to keep it really simple and brief, because overwhelming the UI/bot can be spammy and unusable.
 
-2. Also, I suggested to Breeze/Splork to check out an MMORPG bot:
+2\. Also, I suggested to Breeze/Splork to check out an MMORPG bot:
 
 [https://telegram.me/playrpgbot](https://telegram.me/playrpgbot)
 

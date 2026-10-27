@@ -16,13 +16,13 @@ Happy Holidays!
 
 I'm going to hold two quest times this year to maximize opportunity to participate. 
 
-The first will be Christmas Day Dec 25th, server time, **12PM-2PM**.
+The first will be Christmas Day Dec 25th, server time, <strong>12PM-2PM</strong>.
 
-The second will follow at **12AM-2AM**, server time (Dec 26th).
+The second will follow at <strong>12AM-2AM</strong>, server time (Dec 26th).
 
-So as to eliminate any possible confusion, I will not discuss time zones. I encourage you to log into the mud, and type time-started. This will leave no possible doubt for you as to what server time is. To reiterate, the posted time is **SERVER TIME**, the time you see when you type **TIME STARTED** into the command line.
+So as to eliminate any possible confusion, I will not discuss time zones. I encourage you to log into the mud, and type time-started. This will leave no possible doubt for you as to what server time is. To reiterate, the posted time is <strong>SERVER TIME</strong>, the time you see when you type <strong>TIME STARTED</strong> into the command line.
 
-There shall be drachma, honor and unspecified gems to be had. And **yes, you may do both** if you are able.
+There shall be drachma, honor and unspecified gems to be had. And <strong>yes, you may do both</strong> if you are able.
 
 Hope to see you there!
 
@@ -36,7 +36,7 @@ all hail server time
 
 <div class="post" data-post-id="35579" data-author="*juggleblood*" data-date="2014-12-25T17:34:25+00:00" data-subject="Re: Christmas Quests 2014">
 
-Queen Lolth is having a party in The DemonWeb and none of you were invited.  I suggest crashing the party. Be alert for Epic mobs who have occupied the Web of Lolth as well as a surplus of Tanixu demons wandering the area. The entire area is a bit more bountiful than usual and worthy of clearing. Proceed with extreme caution. 
+Queen Lolth is having a party in The DemonWeb and none of you were invited. I suggest crashing the party. Be alert for Epic mobs who have occupied the Web of Lolth as well as a surplus of Tanixu demons wandering the area. The entire area is a bit more bountiful than usual and worthy of clearing. Proceed with extreme caution. 
 
 The area will not respawn during the quest apart from any additional Tanixu demons who might pop in for a visit. The path is closed until quest start time.
 
@@ -50,7 +50,7 @@ Thanks for the first quest, Juggs!
 
 Tons of blood was spilled (what's Christmas without some red?). But it was all well worth it!
 
-<643+23hp 296+59ma 206+37mv 92,221,013 EXP The Web of Lolth +9 raining>
+\<643+23hp 296+59ma 206+37mv 92,221,013 EXP The Web of Lolth +9 raining\>
 
 tomThe silk webbing simply falls to the ground, as Alhoon is already webbed!
 

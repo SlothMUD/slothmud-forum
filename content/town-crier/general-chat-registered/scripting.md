@@ -176,15 +176,15 @@ lmao
 
 <div class="post" data-post-id="20323" data-author="Yinao" data-date="2007-09-19T21:09:16+00:00" data-subject="">
 
-Classic  :lol:
+Classic <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="20335" data-author="Assirian" data-date="2007-09-20T18:17:16+00:00" data-subject="">
 
-lol :)
+lol <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-nice, Mosaix! :)
+nice, Mosaix! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -192,11 +192,13 @@ nice, Mosaix! :)
 
 If i be admin - teh next line you'll see would be:
 
-[code:d15p2gqa]You are outta here!
+```
+You are outta here!
 
-#Connection lost[/code:d15p2gqa]
+#Connection lost
+```
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -204,13 +206,23 @@ If i be admin - teh next line you'll see would be:
 
 Gods i haven't laughed so much in ages.
 
-If i be admin - teh next line you'll see would be:
+> <strong>Yasik wrote:</strong>
+> If i be admin - teh next line you'll see would be:
+> 
+> 
+> 
+> 
 
-[code:1xhe3m05]You are outta here!
+```
+You are outta here!
 
-#Connection lost[/code:1xhe3m05]
+#Connection lost
+```
 
- :twisted:[/quote:1xhe3m05]
+> 
+> 
+> 
+> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 i've played on muds that had an autologoff on x repeated commands, they're incredibly frustrating esp as lets say a healer in a group. Don't think they'd have caught this loop anyway.
 

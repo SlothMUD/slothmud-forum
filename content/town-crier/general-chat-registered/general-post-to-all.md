@@ -18,25 +18,25 @@ I usually dont say my opinions on here cryier since - first of all - my english 
 
 This post is a general post to all issues you're talking about, I'm just flying my taughts and how I feel about it here.
 
-1. Our creators wish us to vote every day to keep up the newbies coming. That's the best way to keep them coming so please vote - everyday.
+1\. Our creators wish us to vote every day to keep up the newbies coming. That's the best way to keep them coming so please vote - everyday.
 
-2. I felt like slapped into face when the gem-pop-thing changed. I just build myself up to be able to kill solo lvl40 mob. Plp used to able to pop them solo and it was taken away. Just seems unfair to me. 
+2\. I felt like slapped into face when the gem-pop-thing changed. I just build myself up to be able to kill solo lvl40 mob. Plp used to able to pop them solo and it was taken away. Just seems unfair to me. 
 
 I know this sounds selfsentered but that kinda major change should have been done in next sloth.
 
-3. I have popped past 2 years less than 5 tier-3 gems(bought alot so cant remember escant number - even with bought it's still under 10-  so no runes) and 2 tier-2 since I dont have the time to group so much :(
+3\. I have popped past 2 years less than 5 tier-3 gems(bought alot so cant remember escant number - even with bought it's still under 10- so no runes) and 2 tier-2 since I dont have the time to group so much <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
-4. But anyhow - you're now talking about rebirths and making new drachma eq and new area for avatars etc.
+4\. But anyhow - you're now talking about rebirths and making new drachma eq and new area for avatars etc.
 
  It's ok and I like what read in cryer - but you all seem to forget one thing. We're all screwed if we dont attract more players.
 
-5. I do alot soloing since my RL takes me afk all the time. I like groups but can't find the time to go with them so often. And when I go with group (hoping to pop a gem) all gems that I primaly want are taken already by calls. Heh - good luck me ever getting GYT :)
+5\. I do alot soloing since my RL takes me afk all the time. I like groups but can't find the time to go with them so often. And when I go with group (hoping to pop a gem) all gems that I primaly want are taken already by calls. Heh - good luck me ever getting GYT <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-6. Mudding is my time to get of from my painful reallife. I just want to have fun. I want everyone around me to have fun. So to everyone - thank you for the nice groups and good times - lets keep them coming and big thanks for immortals that keeps up coding and making us this awesome experience which can be both pain and fun - still the best!
+6\. Mudding is my time to get of from my painful reallife. I just want to have fun. I want everyone around me to have fun. So to everyone - thank you for the nice groups and good times - lets keep them coming and big thanks for immortals that keeps up coding and making us this awesome experience which can be both pain and fun - still the best!
 
 Written 30.11.2016 6.03am drunk
 
--Belrath
+\-Belrath
 
 ps. That post was meant to be positive - I just can't express myself in english when emotional.
 
@@ -44,15 +44,15 @@ ps. That post was meant to be positive - I just can't express myself in english 
 
 <div class="post" data-post-id="37592" data-author="Josiah" data-date="2016-11-30T05:11:16+00:00" data-subject="Re: General post to all">
 
-I agree Belrath.  New players are definitely needed, and we aren't particularly good at getting them.
+I agree Belrath. New players are definitely needed, and we aren't particularly good at getting them.
 
-When people log into Aardwolf and see 100s of players online, they just trust the game more than our little server with 12 people.  Nevermind that SlothMud has infinitely more depth and breadth and is just generally more interesting...
+When people log into Aardwolf and see 100s of players online, they just trust the game more than our little server with 12 people. Nevermind that SlothMud has infinitely more depth and breadth and is just generally more interesting...
 
-Other than voting, which we've not been doing very well, I'm not sure how else to attract the dwindling pool of people that are interested in text-only games.  We could try breeding some I guess; my son just figured out his way through the newbie school as part of his typing/computer literacy practice.
+Other than voting, which we've not been doing very well, I'm not sure how else to attract the dwindling pool of people that are interested in text-only games. We could try breeding some I guess; my son just figured out his way through the newbie school as part of his typing/computer literacy practice.
 
-Gems were initially supposed to be super rare, but the original implementation made them only semi-rare.  I preferred the original drop rates, which let a dedicated player could complete a full set of runes in the same time it takes to hit 9x40.  Of course, we weren't intended to ever achieve a 'full set.'  Currently your best bet for completing a set seems to be finding some good wealth building strategies and then buying them for 10-30 million gold each.
+Gems were initially supposed to be super rare, but the original implementation made them only semi-rare. I preferred the original drop rates, which let a dedicated player could complete a full set of runes in the same time it takes to hit 9x40. Of course, we weren't intended to ever achieve a 'full set.' Currently your best bet for completing a set seems to be finding some good wealth building strategies and then buying them for 10-30 million gold each.
 
-Rebirth discussions do address an important point.  Our game community is very small, and historically we lose most of our top players when they hit 9x40.  A few create alts, but most leave.  The game really can't sustain these losses, because we aren't attracting enough new players. The players we lose have been around for many years.  Without rebirth, I was just out of interesting stuff to do.  It is a relatively simple way to add a ton of content, and is getting a lot of interest from many players who have spent many hours on the game.
+Rebirth discussions do address an important point. Our game community is very small, and historically we lose most of our top players when they hit 9x40. A few create alts, but most leave. The game really can't sustain these losses, because we aren't attracting enough new players. The players we lose have been around for many years. Without rebirth, I was just out of interesting stuff to do. It is a relatively simple way to add a ton of content, and is getting a lot of interest from many players who have spent many hours on the game.
 
 </div>
 
@@ -68,11 +68,11 @@ For 2 keywords were "wall of text", "too complex", "no time".
 
 One said he don't like interface.He played lots of other muds and was displeased there is no highlighting key objects (he wanted to see "A frost giant [giant] is guarding the gate." or "A frost [giant] is guarding the gate."), also he was outraged he can't use "open west" but have to type "open door west" or "open gate west". I don't really get his point, but that's what he said why he don't want to play sloth.
 
-Madmonk played quite a lot, but he said he is getting tired, because "sloth is more a work than a game" :)
+Madmonk played quite a lot, but he said he is getting tired, because "sloth is more a work than a game" <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 So, as i get it, most of real newbies can't start playing because it's too complex and they don't know what to start with. I guess we need an interactive tutorial for new players. May be a mob, mentor, who will teach new players how to play. He will give players mini-quests like "go kill cat! you need to type "kill cat" for it" and will provide more and more info individually with the speed player can accept.
 
-Also, language barrier is the reason too. If your english is not too good, wall of text become wall of unreadable text :) Translation to some popular languages will help, and i think sloth community can help with it, but it's an insane amount of work, even if we'll translate only key info, not all room descriptions etc.
+Also, language barrier is the reason too. If your english is not too good, wall of text become wall of unreadable text <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> Translation to some popular languages will help, and i think sloth community can help with it, but it's an insane amount of work, even if we'll translate only key info, not all room descriptions etc.
 
 As for gem's rate, i found that removing the posibility of getting t3 gems solo made lots of ppl unhappy.
 
@@ -88,97 +88,97 @@ Agree with Josiah about rebirth, it's a good way to keep 9x40 from quitting.
 
 <div class="post" data-post-id="37597" data-author="Teron" data-date="2016-12-01T08:16:58+00:00" data-subject="Re: General post to all">
 
-0. A good number of us have English as the second language, so feel free to post more :) You it works, when you are sober, too .)
+0\. A good number of us have English as the second language, so feel free to post more <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> You it works, when you are sober, too .)
 
-1. Belrath, I've sent a letter to JB about getting more new players about 7 months ago.
+1\. Belrath, I've sent a letter to JB about getting more new players about 7 months ago.
 
 Out of this, he created a university, where players can learn how to do basic stuff on Sloth. I'd say it sort of works, because Arcainic got through it. So it's already done, Zlodiak.
 
 I earlier suggested that imms should promote the MUD, and then Splork told me it wasn't immorts' complete responsibility. I agree and [here's why and what can be done by all of us](http://www.slothmud.org/forum/viewtopic.php?f=30&t=4700).
 
-2. I agree that solo gem restriction sucks. Even as the leader of half of the groups in the last year, I have built 3 t3 runes I needed - and that's only one weapon dam rune. When it comes to weapon damage, that's really disappointing, because a good portion of it lies in the runes.
+2\. I agree that solo gem restriction sucks. Even as the leader of half of the groups in the last year, I have built 3 t3 runes I needed - and that's only one weapon dam rune. When it comes to weapon damage, that's really disappointing, because a good portion of it lies in the runes.
 
 By the way, you get more gems you need from trading the ones you get in groups, not just hoping the gem you need pops in group. It does happen rarely, but there are many more ppl, who need what you get randomly. So, you can trade the under 10 t3 gems to get at least one t3 rune you need.
 
 I agree that a slim chance of popping a t3 gem solo would be good, because playing games isn't only groups, it's also solo. While some games, like WoW, depend on groups, we don't have the luxury of that many players online here.
 
-3. Different players are at different stages of leveling/interest in the game, so it's natural that they discuss different things.
+3\. Different players are at different stages of leveling/interest in the game, so it's natural that they discuss different things.
 
 I'd say we lost most of our players during or shortly after wipes. Loss of top avatars is particularly hard on us, because [there were/are so few on them](http://www.slothmud.org/forum/viewtopic.php?f=26&t=3822) and it took 10 new players to produce 1 6x40, so something should be done for that too - and rebirths is the perfect incentive.
 
 By the way, can we see the updated stats, since bonus exp has been going for 5 years?
 
-4. It's good to see you in groups, when you join, find time to group more on the weekends, if you can - more chances to find a group in the evening/morning there.
+4\. It's good to see you in groups, when you join, find time to group more on the weekends, if you can - more chances to find a group in the evening/morning there.
 
 </div>
 
 <div class="post" data-post-id="37603" data-author="*teker*" data-date="2016-12-02T16:11:50+00:00" data-subject="Re: General post to all">
 
-I'd be interested to know if there are game features that people think are obviously missing that the bigger games have in place.  I've started working on the new quest code again which would provide a journal containing discovered quests and their progress.  I'm hoping I can get it to a workable state over winter.  But what else?  We can certainly do small things like "open north" for non-secret doors, but I seriously doubt little issues like that are driving lots of people away.
+I'd be interested to know if there are game features that people think are obviously missing that the bigger games have in place. I've started working on the new quest code again which would provide a journal containing discovered quests and their progress. I'm hoping I can get it to a workable state over winter. But what else? We can certainly do small things like "open north" for non-secret doors, but I seriously doubt little issues like that are driving lots of people away.
 
 </div>
 
 <div class="post" data-post-id="37604" data-author="Filk" data-date="2016-12-02T16:38:50+00:00" data-subject="Re: General post to all">
 
-1. Damage meter! Damage Meter! Damage Meter!
+1\. Damage meter! Damage Meter! Damage Meter!
 
 Seriously. Every popular game around has all information about each and every skill and spell. What formulas, what exact output. So ppl dont wanders in the dark like we do for plenty of skills.
 
 I dont expect all that information to be shared, at least now(though there are no real matters to hide it actually), but at least displaying of exact damage(and actually healing) result of each attack and skill should be implemented. 
 
-2. That in fact greatly raise motivation of any group. When you see your low output, you are heavy motivated to improve it as much as you can.
+2\. That in fact greatly raise motivation of any group. When you see your low output, you are heavy motivated to improve it as much as you can.
 
 Well. Avatar rebirth thing as well. We concluded some good and easy to implement variant in rebirth topic. That could be done to give another live to some bored 9x40s who left.
 
-3. Also. I want to touch another holy cow. Eq looting by mobs when corpsed. Thats just too hardcore for current times. I guess we lose some ppl due to that reason also.
+3\. Also. I want to touch another holy cow. Eq looting by mobs when corpsed. Thats just too hardcore for current times. I guess we lose some ppl due to that reason also.
 
 </div>
 
 <div class="post" data-post-id="37606" data-author="Teron" data-date="2016-12-02T18:16:12+00:00" data-subject="Re: General post to all">
 
-0. Teker, "open north" is how doors work in Aardwolf.
+0\. Teker, "open north" is how doors work in Aardwolf.
 
 Also, you can unlock the door if the key is lying on the ground.
 
 I think a lot of mudders have been to Aardwolf and, perhaps, liked the feature.
 
-1. An auction that accepts all the items at once, not every minute. And that doesn't lock up, when someone else is putting stuff on auction.
+1\. An auction that accepts all the items at once, not every minute. And that doesn't lock up, when someone else is putting stuff on auction.
 
-2. I agree with Fluffy: there's certain satisfaction in seeing how well you are hitting the mob after spending weeks on forges and quests.
+2\. I agree with Fluffy: there's certain satisfaction in seeing how well you are hitting the mob after spending weeks on forges and quests.
 
 E.g., just today, I've x3 stabbed a mob, I do 2 normal vicious attacks and 1 massive crit. How hard did the crit hit? I have no idea, because my exp counter/damage meter says it wasn't that different from 3 vicious massacres.
 
-3. If you want an example of a good quest log, check WoW:
+3\. If you want an example of a good quest log, check WoW:
 
 [http://wowwiki.wikia.com/wiki/Quest_Log](http://wowwiki.wikia.com/wiki/Quest_Log)
 
 I know it's graphical, but there's some grouping, info and options that make it really useful among hundreds of quests.
 
-4. A melee, toggleable, skill to block fleeing mobs, shieldblock. The more ppl, the more effective it is.
+4\. A melee, toggleable, skill to block fleeing mobs, shieldblock. The more ppl, the more effective it is.
 
-5. An automatic PVP arena with rewards. Maybe give honor for winning in the same bracket? Double honor for the first win of the day.
+5\. An automatic PVP arena with rewards. Maybe give honor for winning in the same bracket? Double honor for the first win of the day.
 
 I wanted to say, "group PVP matches", but we already have that on SS. The only reason the SS Thunderdome is lacking participants and visitors is the lack of reward for participation.
 
-6. Daily quests.
+6\. Daily quests.
 
 It's a repeatable quest you can do for a good reward:
 
-- kill a number of mobs in an area for honor (current honor from most raid mobs is a joke, when you need 5mil honor w/o a remort bonus, and you get 50 honor per kill). Or kill a number of any mobs above cap/2 total exp
+\- kill a number of mobs in an area for honor (current honor from most raid mobs is a joke, when you need 5mil honor w/o a remort bonus, and you get 50 honor per kill). Or kill a number of any mobs above cap/2 total exp
 
-- collect a number of drops (dust, pelt, gemstones, etc) for gold
+\- collect a number of drops (dust, pelt, gemstones, etc) for gold
 
-- defeat a boss in a group for a double chance of a tier 1 gem pop
+\- defeat a boss in a group for a double chance of a tier 1 gem pop
 
 Ideally, there should be 3-7 dailies in an area, and they rotate every day, so it's not boring.
 
-7. Complex boss fights that require more, than standing at the boss and spamming a few commands.
+7\. Complex boss fights that require more, than standing at the boss and spamming a few commands.
 
 I'll try to think of more, but this is a good start already.
 
 However, I'd appreciate if you first do 1. from the list here:
 
-[<LINK_TEXT text="http://www.slothmud.org/forum/viewtopic ... 601#p37596">http://www.slothmud.org/forum/viewtopic.php?f=30&p=37601#p37596</LINK_TEXT>](http://www.slothmud.org/forum/viewtopic.php?f=30&p=37601#p37596)
+[http://www.slothmud.org/forum/viewtopic.php?f=30&p=37601#p37596](http://www.slothmud.org/forum/viewtopic.php?f=30&p=37601#p37596)
 
 It'll only take some minutes.
 
@@ -208,55 +208,55 @@ Personally, as a leader, I'd want to know how's everyone doing.
 
 If we look at the [top addons for WoW](https://mods.curse.com/addons/wow), we'll see that people need:
 
-- **info about epics**
+\- <strong>info about epics</strong>
 
-- **personal and group damage stats**: [Recount](https://mods.curse.com/addons/wow/recount)
+\- <strong>personal and group damage stats</strong>: [Recount](https://mods.curse.com/addons/wow/recount)
 
-- **show buffs and debuffs** (here's another: show which song a bard is singing, when I type "look" and "score", so I don't tell bards to gods, when they are already singing their lungs out)
+\- <strong>show buffs and debuffs</strong> (here's another: show which song a bard is singing, when I type "look" and "score", so I don't tell bards to gods, when they are already singing their lungs out)
 
-- alerts on bosses, where not to stand
+\- alerts on bosses, where not to stand
 
-- easier access to info/options
+\- easier access to info/options
 
-- ability to **get stuff in and out of bags easily**
+\- ability to <strong>get stuff in and out of bags easily</strong>
 
-- a locator to tell you, where the mob you need is
+\- a locator to tell you, where the mob you need is
 
-- **an easy to use auction**.
+\- <strong>an easy to use auction</strong>.
 
 In my experience with Recount I used it to:
 
-- see my contribution to boss kill
+\- see my contribution to boss kill
 
-- see how I compare to others of similar gear level
+\- see how I compare to others of similar gear level
 
-- learn which skills I used more, and how much damage they did (were they worth it, or I need to adjust my skill rotation?)
+\- learn which skills I used more, and how much damage they did (were they worth it, or I need to adjust my skill rotation?)
 
-- to see the same for others, so I could understand, if they were doing what they were supposed to (or not). Even tho anyone can spot a slacker at the bottom of the DPS meter, this list helps a leader tell the group member where to fix the rotation, if he's familiar w/ the class - I've seen newbies only use 1-2 spells, when you usually use 4-6 main ones.
+\- to see the same for others, so I could understand, if they were doing what they were supposed to (or not). Even tho anyone can spot a slacker at the bottom of the DPS meter, this list helps a leader tell the group member where to fix the rotation, if he's familiar w/ the class - I've seen newbies only use 1-2 spells, when you usually use 4-6 main ones.
 
 Here in Sloth stats would tell me:
 
-- which of the mages were throwing acid blasts, how much, and how many of those blinded the mob
+\- which of the mages were throwing acid blasts, how much, and how many of those blinded the mob
 
-- who was healing, and what's their contribution to healed hps (and how much of that was overheal)
+\- who was healing, and what's their contribution to healed hps (and how much of that was overheal)
 
-- who was blasting, how damage they dealt, and which skills they used
+\- who was blasting, how damage they dealt, and which skills they used
 
-- what the bards were doing: just singing or also striking/healing
+\- what the bards were doing: just singing or also striking/healing
 
-- what were the 3-4.healos were doing, when waiting for their turn to heal.
+\- what were the 3-4.healos were doing, when waiting for their turn to heal.
 
 Stats should also time spent in form and damage in form.
 
 Damage stats would also help people choose more powerful class orders, something only very experienced players can do now.
 
-Another thing we should consider is **eq points**, which would help:
+Another thing we should consider is <strong>eq points</strong>, which would help:
 
-- new players to easily compare eq they found
+\- new players to easily compare eq they found
 
-- immorts to price drachma items adequately
+\- immorts to price drachma items adequately
 
-- both players and immorts to **[create a custom eq shop](http://www.slothmud.org/forum/viewtopic.php?f=28&t=4696&p=37595#p37595)**, where players can buy/forge items with the stats they like.
+\- both players and immorts to <strong>[create a custom eq shop](http://www.slothmud.org/forum/viewtopic.php?f=28&t=4696&p=37595#p37595)</strong>, where players can buy/forge items with the stats they like.
 
 </div>
 
@@ -298,11 +298,11 @@ As for code which judges the performance of players in a group...that's somethin
 
 <div class="post" data-post-id="37612" data-author="Josiah" data-date="2016-12-03T17:21:34+00:00" data-subject="Re: General post to all">
 
-Don't worry Juggleblood... strike *never* sucks!
+Don't worry Juggleblood... strike <em>never</em> sucks!
 
-I disagree with Taron regarding Recount-level information for groups.  I don't mind everyone seeing their own damage.  You can already do that with clever scripts.  I don't think we should make that information public (seeing other players damage).
+I disagree with Taron regarding Recount-level information for groups. I don't mind everyone seeing their own damage. You can already do that with clever scripts. I don't think we should make that information public (seeing other players damage).
 
-In WoW, Recount contributed to a very elitist environment, and it was regularly used to exclude people who were performing optimally.  Groups shouldn't be stressful!
+In WoW, Recount contributed to a very elitist environment, and it was regularly used to exclude people who were performing optimally. Groups shouldn't be stressful!
 
 </div>
 
@@ -312,7 +312,7 @@ Gorka, Josiah, I understand that you only want to see your progress.
 
 However, as you and others see your damage/second, you will have no choice but to consider how you can improve it. Breaking down to each individual skill damage, attempts and success rate for oneself and groupies would be appreciated, but it is hardly a 100% requirement of the counter.
 
-Oddly enough, what I'm pushing people to do is to do their jobs however they see fit, something they would have been doing with the counter enabled. I think you mean that I remind ppl about mob specifics: spectral, nostab, nofire, arms, bind, etc. I tried not telling ppl what to do, but they stopped doing all that Â¯\_(ãƒ„)_/Â¯ and what's the point of that?
+Oddly enough, what I'm pushing people to do is to do their jobs however they see fit, something they would have been doing with the counter enabled. I think you mean that I remind ppl about mob specifics: spectral, nostab, nofire, arms, bind, etc. I tried not telling ppl what to do, but they stopped doing all that Â¯\\\_(ãƒ„)\_/Â¯ and what's the point of that?
 
 As far as dps/hps, if someone can't do their primary job in the group, I tell them how to do it. I even provide them with trigger patterns/commands more often, than not. Eg, if someone is not healing and not striking/blasting, he's sponging exp and not making things go faster. It's in everyone's interest that everyone performs at least at 70% efficiency.
 
@@ -336,13 +336,13 @@ Something like:
 
 Pattern:
 
-^(\w+) (barely |brutally )?(misses|massacres).*
+^(\\w+) (barely \|brutally )?(misses\|massacres).\*
 
 Trigger:
 
 groupHitCount[matches[2]]=groupHitCount[matches[2]]+1
 
-if matches[2]~=tank then deleteLine() end
+if matches[2]\~=tank then deleteLine() end
 
 </div>
 
@@ -354,7 +354,7 @@ For example:
 
 Vicious: 447 (9%), brutal: 156 (3%), massacre: 3117 (65%), extremly hard: 945 (19%), wiff: 56 (1%).
 
-Total damage: 118249+ with 27 per hit so far :P
+Total damage: 118249+ with 27 per hit so far <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 That 27 avg dam per hit is very imprecise, it's based on minimum damage. It could be 30, and I wouldn't know it.
 
@@ -386,7 +386,7 @@ Maybe we can find some middle ground? One option would be to remove most of the 
 
 Here's a middle ground suggestion:
 
-Add total damage dealt to the new 'counters' command.  Probably just two data points: total damage dealt, and average damage per round.  That would give us a good idea of how effective we are, without adding potentially spammy damage counters to every line of combat.
+Add total damage dealt to the new 'counters' command. Probably just two data points: total damage dealt, and average damage per round. That would give us a good idea of how effective we are, without adding potentially spammy damage counters to every line of combat.
 
 Mages and Thieves would be able to see their damage precisely by splorking a mob, and players in a group could track their effectiveness over a longer duration.
 
@@ -410,12 +410,12 @@ Also, if the argument is that it's too spammy, make the players decide with a to
 
 Splork, what happened to:
 
-> **Splork wrote:**
-> "Immortals run things past all of us because we have 25 years of experience to draw from. I don't even think I've vetoed anything in years, I now simply tell people what I think will happen and say go for it and good luck :mrgreen:
+> <strong>Splork wrote:</strong>
+> "Immortals run things past all of us because we have 25 years of experience to draw from. I don't even think I've vetoed anything in years, I now simply tell people what I think will happen and say go for it and good luck <img src="/images/smilies/icon_mrgreen.svg" alt=":mrgreen:" title=":mrgreen:" width="15" height="15" class="smiley nozoom">
 > 
 > If an Immortal wants to bring any of the ideas they see here to our admin team, they are free to do so and it would be discussed. "
 
-[<LINK_TEXT text="http://www.slothmud.org/forum/viewtopic ... 437#p37442">http://www.slothmud.org/forum/viewtopic.php?f=28&t=4682&p=37437#p37442</LINK_TEXT>](http://www.slothmud.org/forum/viewtopic.php?f=28&t=4682&p=37437#p37442)
+[http://www.slothmud.org/forum/viewtopic.php?f=28&t=4682&p=37437#p37442](http://www.slothmud.org/forum/viewtopic.php?f=28&t=4682&p=37437#p37442)
 
 </div>
 
@@ -465,7 +465,7 @@ If given the chance I would unashamedly vote for an integer on each line of comb
 
 EDIT: A MUD Administrator has since made this response, which is well worth a read.
 
-<LINK_TEXT text="http://www.mudconnect.com/SMF/index.php ... #msg210898">http://www.mudconnect.com/SMF/index.php?topic=80583.msg210898#msg210898</LINK_TEXT>
+http://www.mudconnect.com/SMF/index.php?topic=80583.msg210898#msg210898
 
 </div>
 
@@ -499,13 +499,13 @@ g)	Simplify the game structure, it is simply confusing. If you are going to have
 
 <div class="post" data-post-id="37685" data-author="Josiah" data-date="2016-12-06T22:22:33+00:00" data-subject="Re: General post to all">
 
-There's some good points in there.  I'm only going to talk about g)
+There's some good points in there. I'm only going to talk about g)
 
-Yes, dying could be simpler and less painful for newbies.  They used to leave corpses on the ground, which is too punishing when they live on a continent that most players can't get to.  Eventually though, they'll need to learn to go find their corpse and get their stuff.  The design purpose behind requiring them to 'get all tomb' is probably to help them learn how things work in a less punishing environment.
+Yes, dying could be simpler and less painful for newbies. They used to leave corpses on the ground, which is too punishing when they live on a continent that most players can't get to. Eventually though, they'll need to learn to go find their corpse and get their stuff. The design purpose behind requiring them to 'get all tomb' is probably to help them learn how things work in a less punishing environment.
 
-Corpse retrieval at any levels is rather hardcore compared to modern games, but you said in point C that players like risk.  Perhaps we could think of some interesting alternatives to corpses getting looted.  For instance, who would be interested in signing up for an optional life insurance racket where you can pay NPCs to safeguard your stuff?  If you corpse more than 5 rooms away from a recall point, and there are no living members of your group in the room when you die, then they charge you ~5000 coins per level to retrieve your eq for you, and you'd have to wait 4 minutes for them to bring it back to town.  It could be free for lowbies, and a nice transition from the deus ex machina of the graveyard to the harsh reality of the Struggle.  The cost is high enough to be a legitimate risk.  
+Corpse retrieval at any levels is rather hardcore compared to modern games, but you said in point C that players like risk. Perhaps we could think of some interesting alternatives to corpses getting looted. For instance, who would be interested in signing up for an optional life insurance racket where you can pay NPCs to safeguard your stuff? If you corpse more than 5 rooms away from a recall point, and there are no living members of your group in the room when you die, then they charge you \~5000 coins per level to retrieve your eq for you, and you'd have to wait 4 minutes for them to bring it back to town. It could be free for lowbies, and a nice transition from the deus ex machina of the graveyard to the harsh reality of the Struggle. The cost is high enough to be a legitimate risk. 
 
-On the other hand, CRs are one of the places where our players currently shine in supporting each other.  I've never seen anyone politely ask for CR help and not receive it.
+On the other hand, CRs are one of the places where our players currently shine in supporting each other. I've never seen anyone politely ask for CR help and not receive it.
 
 </div>
 
@@ -531,7 +531,7 @@ Regarding corpse retrieval, I would steadfast stand against any change that make
 
 An immort slamming a post on the Crier is probably another good reason not to stay here. One of the reasons that the numbers are up at that people like me have returned to try help rebuild the numbers.
 
-No I didn't come back just to complain, and yes I would consider myself an expert in general in the game.  I came back because of a post made on the Facebook Sloth Alumni, but having said that where is the active Facebook page? Where is the mobile web app? You want a concrete suggestion? Give me a way to put in my levels and filter for equipment I can wear, and search within that dam eq or mana regen eq. Again, the EQ List was made too complex. I said it had lots of nice functionality, it is just too hard to get what you want easily,
+No I didn't come back just to complain, and yes I would consider myself an expert in general in the game. I came back because of a post made on the Facebook Sloth Alumni, but having said that where is the active Facebook page? Where is the mobile web app? You want a concrete suggestion? Give me a way to put in my levels and filter for equipment I can wear, and search within that dam eq or mana regen eq. Again, the EQ List was made too complex. I said it had lots of nice functionality, it is just too hard to get what you want easily,
 
 I am regular contact with old players who are friends of mine, and the main reason people have told me they don't come back is that decisions to flatten classo play when the new game in was not something most people liked, and the game discourages soloing. You can bury your head in the sand and ignore that if you like, when I used to play we have 50 to 75 people online. Now the numbers are up and we are lucky if we break 20. The latest Sloth has never had the sustained number the S3 had, work out what was broken with the new version and (generally in terms of why people play)and fix it.
 
@@ -569,10 +569,10 @@ Most newbies are playing a while, and leaving and not commenting. If we had one 
 
 <div class="post" data-post-id="37690" data-author="*Splork*" data-date="2016-12-07T00:12:24+00:00" data-subject="Re: General post to all">
 
-> **Quote:**
+> <strong>Quote:</strong>
 > The decisions that where made when we moved to 9 classes lost the player base, and it's not getting refreshed, and that is not just text-based games because other games have 100 to 200 concurrent players. Keeping on doing more of the same will not change anything.
 
-This is absolutely, 100% false. I tracked our average number of players for two years before we wiped. The last year of Sloth 3, we averaged 11 players and that number was consistently dropping every year. There was nothing to lose which is why we changed things up.  Currently, our numbers are pretty solid, especially for a mud. 
+This is absolutely, 100% false. I tracked our average number of players for two years before we wiped. The last year of Sloth 3, we averaged 11 players and that number was consistently dropping every year. There was nothing to lose which is why we changed things up. Currently, our numbers are pretty solid, especially for a mud. 
 
 Everyone likes to compare us to Aardwolf or Zombiemud and say look, these muds still have 100 players online. That may be true but they used to have 500.
 
@@ -582,13 +582,13 @@ I am certainly not saying we can't do things better because we absolutely can. T
 
 <div class="post" data-post-id="37691" data-author="*juggleblood*" data-date="2016-12-07T00:19:04+00:00" data-subject="Re: General post to all">
 
-And I hope you know that regardless of whatever argument or debate we have on the crier. I'm still happy to respond via telegram for ingame raises and CR on mortal side.  I don't agree that I have to kiss your ass on this forum because of my title, and so I won't. On mortal side, I'm still happy to help with wutever. Cheers.
+And I hope you know that regardless of whatever argument or debate we have on the crier. I'm still happy to respond via telegram for ingame raises and CR on mortal side. I don't agree that I have to kiss your ass on this forum because of my title, and so I won't. On mortal side, I'm still happy to help with wutever. Cheers.
 
 </div>
 
 <div class="post" data-post-id="37692" data-author="Riurik" data-date="2016-12-07T00:29:02+00:00" data-subject="Re: General post to all">
 
-*"This is absolutely, 100% false. I tracked our average number of players for two years before we wiped. The last year of Sloth 3, we averaged 11 players and that number was consistently dropping every year. There was nothing to lose which is why we changed things up. Currently, our numbers are pretty solid, especially for a mud."*
+<em>"This is absolutely, 100% false. I tracked our average number of players for two years before we wiped. The last year of Sloth 3, we averaged 11 players and that number was consistently dropping every year. There was nothing to lose which is why we changed things up. Currently, our numbers are pretty solid, especially for a mud."</em>
 
  Fair enough, thanks for the info Splork.
 
@@ -616,10 +616,10 @@ Not sure if it is related to the player base size.
 
 <div class="post" data-post-id="37695" data-author="*Splork*" data-date="2016-12-07T12:30:07+00:00" data-subject="Re: General post to all">
 
-> **Quote:**
+> <strong>Quote:</strong>
 > Not sure if it is related to the player base size.
 
-I don't think that's the reason. I tend to lean towards the fact that we have added just about all the spells and skills we can think of(we tend to stay away from adding similar ones) and the fact that for past couple of years, Teker has been the only active programmer.  It also comes down to time. There was a time where I could log into every mud in the top 100 or look at their webpage and try to find interesting features that we don't have. That is no longer the case...
+I don't think that's the reason. I tend to lean towards the fact that we have added just about all the spells and skills we can think of(we tend to stay away from adding similar ones) and the fact that for past couple of years, Teker has been the only active programmer. It also comes down to time. There was a time where I could log into every mud in the top 100 or look at their webpage and try to find interesting features that we don't have. That is no longer the case...
 
 Teker is somebody who we took a chance on but did not have much experience actually playing Sloth. He has concentrated on additions which will not affect game balance and quite honestly, we couldn't be happier. Previously, most of the additions were made by coders who played and changes like the ones Teker has been adding were missing! I guess the game goes in cycles.
 
@@ -637,11 +637,11 @@ You can go discuss it there in more detail, than there.
 
 <div class="post" data-post-id="37697" data-author="*juggleblood*" data-date="2016-12-07T22:56:00+00:00" data-subject="Re: General post to all">
 
-Taron, the fact that you need other players for best performance has been the key to our success.  We're here to play together, not to show off and compete with one another.
+Taron, the fact that you need other players for best performance has been the key to our success. We're here to play together, not to show off and compete with one another.
 
-On a side note, I'll remind you that I worked very hard on the newbie / lowbie areas across BH to make it more consistent and soloable for low level players. If you remember correctly, players made stinks over the most trifling of changes. I tested these areas, achieving 8x20 with Sochi, and they play out great contrary to all the ruckus. But despite the success, I would never attempt this again because it's the most thankless task I've ever done.  
+On a side note, I'll remind you that I worked very hard on the newbie / lowbie areas across BH to make it more consistent and soloable for low level players. If you remember correctly, players made stinks over the most trifling of changes. I tested these areas, achieving 8x20 with Sochi, and they play out great contrary to all the ruckus. But despite the success, I would never attempt this again because it's the most thankless task I've ever done. 
 
-But if you are a newbie/lowbie and want to solo. I suggest:the garden, kobolds, goblins, asylum, sewers, tree demons, firenewts,  greek forest, catacombs, king's bazaar, emerald mine, sun temple, lycanthropia, and troglodytes.  Very solid content.
+But if you are a newbie/lowbie and want to solo. I suggest:the garden, kobolds, goblins, asylum, sewers, tree demons, firenewts, greek forest, catacombs, king's bazaar, emerald mine, sun temple, lycanthropia, and troglodytes. Very solid content.
 
 </div>
 
@@ -657,7 +657,7 @@ Also, you all clamour for groups, but there are no group areas for gold. Why not
 
 <div class="post" data-post-id="37702" data-author="Josiah" data-date="2016-12-08T07:30:10+00:00" data-subject="Re: General post to all">
 
-A group area for gold sounds awesome.  Should we be worried about players soloing there though?  There are some players that can crush content intended for groups.
+A group area for gold sounds awesome. Should we be worried about players soloing there though? There are some players that can crush content intended for groups.
 
 </div>
 
@@ -673,9 +673,9 @@ In that way group gold areas will not be a problem(same idea - low exp/high gold
 
 <div class="post" data-post-id="37707" data-author="*juggleblood*" data-date="2016-12-08T22:42:36+00:00" data-subject="Re: General post to all">
 
-Ok, lets try it out. Pagoda of Enlightenment is now a gold area, and I'm also boosting the xp a bit cuz those monk procs do add a lot of challenge.  Let me know if you think it's either too low to draw groups, or so high that avatars fight over it.
+Ok, lets try it out. Pagoda of Enlightenment is now a gold area, and I'm also boosting the xp a bit cuz those monk procs do add a lot of challenge. Let me know if you think it's either too low to draw groups, or so high that avatars fight over it.
 
-I did all the gods, humans, monkeys, and skipped the inanimate stuff and fauna mobs. I was surprised how many mobs were there.  In other news, there was a Pixie sighting yesterday, so maybe we can draw him back in with renewed interest in his area.
+I did all the gods, humans, monkeys, and skipped the inanimate stuff and fauna mobs. I was surprised how many mobs were there. In other news, there was a Pixie sighting yesterday, so maybe we can draw him back in with renewed interest in his area.
 
 </div>
 
@@ -689,25 +689,25 @@ Surya is good exp, other mobs - not so good.
 
 Gold on them is on par with group or Lyme solo exp gold: 155k gold on the 80mil Yak God, 15k on a 4mil mob, etc Yet they aren't splorks, so they aren't worth it, unlike Lyme mobs.
 
-For this to be a *gold* group area, players need to be making at least 600k* per area reset, each. Since the bottom half of the area is for 2-4men (depending on levels), and the upper half is for 4-8 man (depending on levels). Since the mobs don't actually splork, but require time/mana to kill, then even more gold is needed to bring the gold/time closer to that of other areas.
+For this to be a \*gold\* group area, players need to be making at least 600k\* per area reset, each. Since the bottom half of the area is for 2-4men (depending on levels), and the upper half is for 4-8 man (depending on levels). Since the mobs don't actually splork, but require time/mana to kill, then even more gold is needed to bring the gold/time closer to that of other areas.
 
 So I'd say this area needs to have about 5-7mil gold total, if it is to be a group gold area.
 
 Right now, 9x40s won't be fighting for it even if you double gold on monkeys. It needs to be x3-4 of current gold for it to be worth soloing.
 
-* 600k is what a player can get in some of the gold areas per run, so gold/hr is higher. I can probably bring it to 2.5mil/hr if I try hard enough on a continent bonus day. So don't think that even putting more gold, than I specified, would make it a top area, because mobs here are pretty thick and hit hard.
+\* 600k is what a player can get in some of the gold areas per run, so gold/hr is higher. I can probably bring it to 2.5mil/hr if I try hard enough on a continent bonus day. So don't think that even putting more gold, than I specified, would make it a top area, because mobs here are pretty thick and hit hard.
 
 </div>
 
 <div class="post" data-post-id="37723" data-author="Josiah" data-date="2016-12-09T13:01:06+00:00" data-subject="Re: General post to all">
 
-Taron and I just cleared Pagoda to check out the new gold.  It was extremely underwhelming.  I'll post the log below.  
+Taron and I just cleared Pagoda to check out the new gold. It was extremely underwhelming. I'll post the log below. 
 
-We were picturing was an area where everyone in the group could get similar gold to solo gold runs.  Instead we killed a lot of very thick mobs with poor xp, and got gold comparable to splork mobs in castle todes.  If I'm only going to get 10-14k gold per kill, I'd rather solo those splork mobs rather than slowly kill thick mobs and split that 10k multiple ways.
+We were picturing was an area where everyone in the group could get similar gold to solo gold runs. Instead we killed a lot of very thick mobs with poor xp, and got gold comparable to splork mobs in castle todes. If I'm only going to get 10-14k gold per kill, I'd rather solo those splork mobs rather than slowly kill thick mobs and split that 10k multiple ways.
 
-Pure gold runs like hellwell or elemental school give 400k gold for a 5 minute run.  We got less than 400k in the whole area, and it took both of us way more than 5 minutes.
+Pure gold runs like hellwell or elemental school give 400k gold for a 5 minute run. We got less than 400k in the whole area, and it took both of us way more than 5 minutes.
 
--------------
+\-------------
 
 Total exp for kill is 56027542.
 
@@ -953,7 +953,7 @@ How do you know that gold wasn't an issue for players? I remember talks about go
 
 Did those players, who stopped playing, had same or more gold, than they needed to level their most expensive level? I bet it's possible to check that data now.
 
-Since it's easier to get exp, than gold, I don't understand why players should *have* to spend hours upon hours killing unchallenging 100-3mil gold mobs.
+Since it's easier to get exp, than gold, I don't understand why players should \*have\* to spend hours upon hours killing unchallenging 100-3mil gold mobs.
 
 </div>
 
@@ -965,7 +965,7 @@ There have not been any, to my knowledge(forums posts which I read daily, email,
 
 I am not saying we will not add more gold to the game but I am saying we will be cautious, as we should be because we will not get ourselves in the situation we were in S3.
 
-Isn't it great having me around daily Taron :mrgreen: 
+Isn't it great having me around daily Taron <img src="/images/smilies/icon_mrgreen.svg" alt=":mrgreen:" title=":mrgreen:" width="15" height="15" class="smiley nozoom"> 
 
 I am starting to really enjoy my time here again!
 
@@ -973,10 +973,10 @@ I am starting to really enjoy my time here again!
 
 <div class="post" data-post-id="37737" data-author="Teron" data-date="2016-12-09T17:09:30+00:00" data-subject="Re: General post to all">
 
-> **Splork wrote:**
+> <strong>Splork wrote:</strong>
 > To an outsider, that sure doesn't look like we have a gold issue or need to be adding gold to the game.
 
-> **Splork wrote:**
+> <strong>Splork wrote:</strong>
 > I am not saying we will not add more gold to the game
 
 Ok
@@ -989,7 +989,7 @@ Also, what about gold on players that left? Were they rich or poor?
 
 <div class="post" data-post-id="37739" data-author="*juggleblood*" data-date="2016-12-09T20:20:02+00:00" data-subject="Re: General post to all">
 
-The suggestion that I agreed with and was responding to, was the concept of an area that was nice group gold. To me 2 man is not group. A "group gold" area to me would be an area like pagoda of enlightenment where the xp is a little sub-optimal, but puts a decent little chunk of gold in the pockets of everyone in a good sized group. I'm not going to load up gold on a zone that is 2-man size and call it "group gold".  I have a heck of a lot of experience adjusting mob values, and based on that experience I can say that pagoda of enlightenment is now on the upper end of gold values for large group mobs. For the idea to work, it needs to be on very thick mobs, because as Josiah pointed out, what is soloable varies wildly. 
+The suggestion that I agreed with and was responding to, was the concept of an area that was nice group gold. To me 2 man is not group. A "group gold" area to me would be an area like pagoda of enlightenment where the xp is a little sub-optimal, but puts a decent little chunk of gold in the pockets of everyone in a good sized group. I'm not going to load up gold on a zone that is 2-man size and call it "group gold". I have a heck of a lot of experience adjusting mob values, and based on that experience I can say that pagoda of enlightenment is now on the upper end of gold values for large group mobs. For the idea to work, it needs to be on very thick mobs, because as Josiah pointed out, what is soloable varies wildly. 
 
 I'm not reacting to a belief that there's not enough gold ingame. I'm reacting to the idea that there could be a little more variety to the gold runs or the idea that a few group areas could have some nice coin in them to draw traffic there.
 
@@ -997,20 +997,20 @@ I'm not reacting to a belief that there's not enough gold ingame. I'm reacting t
 
 <div class="post" data-post-id="37743" data-author="Josiah" data-date="2016-12-09T23:14:58+00:00" data-subject="Re: General post to all">
 
-> **Teron wrote:**
+> <strong>Teron wrote:</strong>
 > Since you know both the experience gain rate and the gold gain rate, can you run your stats and show us, what it currently is? Thanks.
 
-Teron, those numbers are freely available to you via the top 20 lists.  Feel free to crunch the numbers and compare it to leveling costs on your own time.  I'd rather the Imms be working on the game rather than your statistics homework.
+Teron, those numbers are freely available to you via the top 20 lists. Feel free to crunch the numbers and compare it to leveling costs on your own time. I'd rather the Imms be working on the game rather than your statistics homework.
 
-Our Immorts react well to common problems, expressed by multiple players, over a sustained period of time.  
+Our Immorts react well to common problems, expressed by multiple players, over a sustained period of time. 
 
-Gold complaints seem to come from a few specific players, and on an infrequent basis.  I would guess that those players might have a spending problem rather than an earning problem.
+Gold complaints seem to come from a few specific players, and on an infrequent basis. I would guess that those players might have a spending problem rather than an earning problem.
 
 </div>
 
 <div class="post" data-post-id="37750" data-author="Gorka" data-date="2016-12-10T01:35:05+00:00" data-subject="Re: General post to all">
 
-> ***Splork* wrote:**
+> <strong>\*Splork\* wrote:</strong>
 > I am not saying we will not add more gold to the game but I am saying we will be cautious, as we should be because we will not get ourselves in the situation we were in S3.
 
 Splork, please give shop keepers (in towns) more gold. A shop keeper should at least have 1m on him at a reset. Auctioneers are fine, but it would appear most others only have about 500k. This is causing shortages of coins on days 1-3 after resets.
@@ -1045,7 +1045,7 @@ If they get a small hourly or larger daily allowance, that would be better than 
 
 Understand your thinking Jos, but your idea treats a symptom, not the problem. We are still going to bomb the shops, all you are doing is implementing a lag on us with your idea. But if the shop keepers at least had a mill, we can bomb them... AND the newb can sell his invitation to castle black.
 
-A serious solution would either, stop tokens being sold to suppliers or introduce a specific token dealer. JB's 1d100 * 1000 gold token eater was a good idea I thought, even though I doubt it will get implemented.
+A serious solution would either, stop tokens being sold to suppliers or introduce a specific token dealer. JB's 1d100 \* 1000 gold token eater was a good idea I thought, even though I doubt it will get implemented.
 
 I'll remind teker about shops, but figure he's read what Splork said here, cause he's on the ball... Island shops could be re-vitalised I feel... not sure why island has just never worked in the shops department... might be the distance from recall. Maybe they need a McSloths or a Walsloth to attract more consumers.
 
@@ -1061,11 +1061,11 @@ Fixed. Supply shops will no longer buy tokens. They were never intended to hones
 
 Can I suggest more edits to Coliseum...
 
-* Remove potion of invulnerability. 
+\* Remove potion of invulnerability. 
 
-* Fix potion of accuracy to be as original... +5 to hit (according to my s3 notes).
+\* Fix potion of accuracy to be as original... +5 to hit (according to my s3 notes).
 
-* Reinstate original potion of destruction at +3 dam (according to my s3 notes).
+\* Reinstate original potion of destruction at +3 dam (according to my s3 notes).
 
 Potions of invulnerability and accuracy are at best, slow movers, but more commonly... "shop cloggers."
 

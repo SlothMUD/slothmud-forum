@@ -14,15 +14,15 @@ post_count: 3
 
 Not sure what's up, but it looks like Sloth will be down for a bit.
 
-Good time to vote, and good night all :)
+Good time to vote, and good night all <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="17071" data-author="Hades" data-date="2007-02-23T02:43:56+00:00" data-subject="Damn server going to get me caught">
 
-I was about ready to strike on SS when game booted me. Oddly enough, TMC can successfully connect.  So no pkilling me when I can't even run for safety, it's poor sportsmanship.
+I was about ready to strike on SS when game booted me. Oddly enough, TMC can successfully connect. So no pkilling me when I can't even run for safety, it's poor sportsmanship.
 
-Hades didn't get it.....this time :twisted:
+Hades didn't get it.....this time <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -44,9 +44,9 @@ madly pressing reconnect
 
 talking to wife and son and saying lol, stfu, etc,,,,,,,
 
-getting upset when  tell follower get me a beer doesnt make the wife bring me a beer.
+getting upset when tell follower get me a beer doesnt make the wife bring me a beer.
 
-cast 'summon beer'  doesnt work either, sigh
+cast 'summon beer' doesnt work either, sigh
 
 madly pressing reconnect
 

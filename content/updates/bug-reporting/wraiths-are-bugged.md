@@ -24,7 +24,7 @@ The proc is seen as
 
 But i have never seen this when i kill mobs.
 
-510hp 693ma 264mv>Targetting ======> wraith
+510hp 693ma 264mv\>Targetting ======\> wraith
 
 kill wraith
 
@@ -34,7 +34,7 @@ A wraith stops following you.
 
 You pierce a wraith hard.
 
-<511hp 692ma 263mv>You miss a wraith with your pierce.
+\<511hp 692ma 263mv\>You miss a wraith with your pierce.
 
 A wraith claws you hard.
 
@@ -48,7 +48,7 @@ A wraith touches your chest with an icy digit and drains your life.
 
 Anrok trembles as a wraith touches his chest.
 
-<447hp 692ma 263mv>
+\<447hp 692ma 263mv\>
 
 You miss a wraith with your pierce.
 
@@ -60,7 +60,7 @@ A wraith claws you.
 
 You pierce a wraith very hard.
 
-<432hp 692ma 263mv>You pierce a wraith hard.
+\<432hp 692ma 263mv\>You pierce a wraith hard.
 
 A wraith claws you hard.
 
@@ -74,11 +74,11 @@ A wraith touches your chest with an icy digit and drains your life.
 
 Anrok trembles as a wraith touches his chest.
 
-<369hp 692ma 263mv>
+\<369hp 692ma 263mv\>
 
 Here is what the proc looks like when fighting other players
 
-<838hp 437ma 269mv>Tuk slashes a wraith hard.
+\<838hp 437ma 269mv\>Tuk slashes a wraith hard.
 
 A wraith claws Tuk hard.
 
@@ -102,11 +102,11 @@ Tuk looks pale as a wraith drains his life.
 
 Tuk trembles as a wraith touches his chest.
 
------------------------------------------------------------------------
+\-----------------------------------------------------------------------
 
 And when fighting mobs it never happens
 
-<753hp 593ma 286mv>Targetting ======> giant
+\<753hp 593ma 286mv\>Targetting ======\> giant
 
 cast 'curse'giant
 
@@ -120,9 +120,9 @@ The frost giant massacres you to small fragments with his crush.
 
 The frost giant briefly reveals a red aura!
 
-<729hp 571ma 284mv>Tigris arrives from the west.
+\<729hp 571ma 284mv\>Tigris arrives from the west.
 
-<729hp 571ma 284mv>order undead assist Anrok
+\<729hp 571ma 284mv\>order undead assist Anrok
 
 A wraith misses the frost giant with its claw.
 
@@ -134,7 +134,7 @@ A massive Ju-Ju Zombie slowly fades into existence.
 
 A massive Ju-Ju Zombie hits the frost giant extremely hard.
 
-<729hp 571ma 284mv>You pierce the frost giant very hard.
+\<729hp 571ma 284mv\>You pierce the frost giant very hard.
 
 A wraith misses the frost giant with its claw.
 
@@ -224,8 +224,8 @@ The frost giant stumbles as a massive Ju-Ju Zombie's power word subdues him.
 
 The frost giant misses a kick at your groin, you breathe lighter now.
 
-A wraith reports 161/315 hp. Need: 154. 200/200 ma.  127/127 mv.
+A wraith reports 161/315 hp. Need: 154. 200/200 ma. 127/127 mv.
 
-A wraith reports 19/375 hp. Need: 356. 200/200 ma.  127/127 mv.
+A wraith reports 19/375 hp. Need: 356. 200/200 ma. 127/127 mv.
 
 </div>

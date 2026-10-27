@@ -24,7 +24,7 @@ Use 'color set' to modify your color settings
 
 Use 'color reset' to reset them to default values.
 
-Until this change, to make colors in grouptells, scripts etc bright or dull you needed to put a \a02 (bright) or \a01 (dull) in front of the color codes \d01 \d02 etc. Not any more. The bright and dull part is no longer required, which means we can put more in those titles etc when they're limited to 55 characters, and it makes 'coding' them a bit easier too. The new codes I have are:
+Until this change, to make colors in grouptells, scripts etc bright or dull you needed to put a \\a02 (bright) or \\a01 (dull) in front of the color codes \\d01 \\d02 etc. Not any more. The bright and dull part is no longer required, which means we can put more in those titles etc when they're limited to 55 characters, and it makes 'coding' them a bit easier too. The new codes I have are:
 
 standard or dull colors:
 
@@ -66,17 +66,17 @@ d17 and up seem to be standard white
 
 and that's pretty much it afaik. For the commonly used colors, existing code can be changed as follows (old to new):
 
-\a02\d04 = \d10
+\\a02\\d04 = \\d10
 
-\a02\d02 = \d14
+\\a02\\d02 = \\d14
 
-\a02\d03 = \d13
+\\a02\\d03 = \\d13
 
-\a02\d07 = \d09
+\\a02\\d07 = \\d09
 
-\a02\d08 = \d11
+\\a02\\d08 = \\d11
 
-PLEASE remember one thing when using color codes: when ending a line of color text, put a \c02 at the end - this reverts all following text back to whatever the user's default color code is.. otherwise the color can overflow into the next line and mess up people's triggers if they are set to match colors, and generally it's just untidy coding and looks ugly.  ..\c02 works for me anyway.
+PLEASE remember one thing when using color codes: when ending a line of color text, put a \\c02 at the end - this reverts all following text back to whatever the user's default color code is.. otherwise the color can overflow into the next line and mess up people's triggers if they are set to match colors, and generally it's just untidy coding and looks ugly. ..\\c02 works for me anyway.
 
 cheers.
 

@@ -12,7 +12,7 @@ post_count: 2
 
 <div class="post" data-post-id="10026" data-author="luke" data-date="2006-01-09T05:04:20+00:00" data-subject="...">
 
-whats up :twisted:
+whats up <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -20,6 +20,6 @@ whats up :twisted:
 
 WhaZzZuP!!
 
-[img:7njv0vu7]http://img.adme.ru/2004/08/15/1327/budweiser-alien-wazzup.jpg[/img:7njv0vu7]
+![](http://img.adme.ru/2004/08/15/1327/budweiser-alien-wazzup.jpg)
 
 </div>

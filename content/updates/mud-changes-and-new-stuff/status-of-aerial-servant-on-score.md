@@ -28,7 +28,7 @@ Best regards.
 
 Good day again, clerics.
 
-There were a small bug that made that masterful aerial servants would appear as scratched some times (not always).  Was just a display bug, health of the servant was not affected, but disturbing after all.  Fixed.
+There were a small bug that made that masterful aerial servants would appear as scratched some times (not always). Was just a display bug, health of the servant was not affected, but disturbing after all. Fixed.
 
 Thanks Shyla and Norks for reporting.
 

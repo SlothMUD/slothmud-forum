@@ -14,7 +14,7 @@ post_count: 3
 
 Looks like the mud crashed.
 
-Hold on, Kelran.  Try again in a few minutes.  It should come back up, and I'll try to help then.  :-)
+Hold on, Kelran. Try again in a few minutes. It should come back up, and I'll try to help then. <img src="/images/smilies/icon_e_smile.svg" alt=":-)" title=":-)" width="15" height="15" class="smiley nozoom">
 
 Si
 
@@ -32,7 +32,7 @@ Enea gossips-- 'they got back up on schedule, but then our reboot script didn't 
 
 Looks like Enie fired it up, and all is running now.
 
-:-)
+<img src="/images/smilies/icon_e_smile.svg" alt=":-)" title=":-)" width="15" height="15" class="smiley nozoom">
 
 Si
 
@@ -42,12 +42,12 @@ Si
 
 lies lies lies!
 
-it's all part of Enea's evil diabolical plan to distract you long enough for him to sneak into your homes and steal all your cookies and cakes!  
+it's all part of Enea's evil diabolical plan to distract you long enough for him to sneak into your homes and steal all your cookies and cakes! 
 
 please be on the look out for Enea, don't let yourself become a victim to the foul display of inhuman cruelty.
 
 you have been warned!
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

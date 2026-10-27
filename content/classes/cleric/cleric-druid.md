@@ -14,21 +14,21 @@ post_count: 6
 
 The stat order help page says:
 
-> **Quote:**
+> <strong>Quote:</strong>
 > When you chose your class ordering, you determined what kind of person your
 > 
-> character would be.  Your choices for primary and secondary class automatically
+> character would be. Your choices for primary and secondary class automatically
 > 
-> tell SlothMUD which stats you consider most important.  This means that (for
+> tell SlothMUD which stats you consider most important. This means that (for
 > 
-> example) a primary mage's best stat will always be INT.  Your secondary class
+> example) a primary mage's best stat will always be INT. Your secondary class
 > 
 > determines the next most important stat
 
 So Cleric primary determines wisdom, and druid second determines the second stat .... Dex!
 
-> **Quote:**
-> Cl/Dr   Wis/Dex/Int/Str/Con
+> <strong>Quote:</strong>
+> Cl/Dr Wis/Dex/Int/Str/Con
 
 Is there a rationale to this? How does Druid relate to Dex?
 
@@ -52,14 +52,14 @@ But if we go down this route, we could be doing this forever:)
 
 <div class="post" data-post-id="35505" data-author="Edwin" data-date="2014-11-12T19:11:52+00:00" data-subject="Re: Cleric-Druid">
 
-The plot thickens when you consider that Bard's  Principal Stat is Dexterity:
+The plot thickens when you consider that Bard's Principal Stat is Dexterity:
 
-> **Quote:**
+> <strong>Quote:</strong>
 > Cleric Prime Stat Orders
 > 
-> Cl/Dr   Wis/Dex/Int/Str/Con
+> Cl/Dr Wis/Dex/Int/Str/Con
 > 
-> Cl/Ba   Wis/Int/Str/Dex/Con
+> Cl/Ba Wis/Int/Str/Dex/Con
 
 Could these have got mixed up?
 

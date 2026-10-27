@@ -14,20 +14,20 @@ post_count: 1
 
 willing to trade
 
-1. immense gem
+1\. immense gem
 
-2. bands of gold
+2\. bands of gold
 
-3. bands of silver
+3\. bands of silver
 
-4. pair of rhino horns
+4\. pair of rhino horns
 
 for any of these (willing to pay as well)
 
-1. soul of rupert
+1\. soul of rupert
 
-2. scion of marble
+2\. scion of marble
 
-3. any jjd comp except for dirty scarf
+3\. any jjd comp except for dirty scarf
 
 </div>

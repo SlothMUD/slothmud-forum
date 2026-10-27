@@ -18,9 +18,9 @@ Current time: Mon Sep 18 13:50:31 2006
 
 [20c 17d 13o 10b] Verin
 
-No idea what happened here, but for a moment between rounds it looked like my maxhp went down by 108.  No spell wore off/was recast, no eq was changed, my maxhp just became my maxma for a moment.  I didn't have time to check if it changed on score as well or was just a prompt issue.
+No idea what happened here, but for a moment between rounds it looked like my maxhp went down by 108. No spell wore off/was recast, no eq was changed, my maxhp just became my maxma for a moment. I didn't have time to check if it changed on score as well or was just a prompt issue.
 
-<296/300hp 117/192ma 110mv>
+\<296/300hp 117/192ma 110mv\>
 
 You pierce the fortune hunter hard.
 
@@ -32,13 +32,13 @@ The fortune hunter misses you with his crush.
 
 The fortune hunter really needs a good bath! Phew!
 
-<297/192hp 118/192ma 110mv>
+\<297/192hp 118/192ma 110mv\>
 
 Ok.
 
 The fortune hunter is scorched by the flames of Hell!
 
-<297/300hp 106/192ma 110mv>
+\<297/300hp 106/192ma 110mv\>
 
 The 'regeneration' spell on you is about to wear off.
 
@@ -48,7 +48,7 @@ The 'regeneration' spell on you is about to wear off.
 
 7 minutes later...
 
-<266/300hp 157/192ma 110mv>
+\<266/300hp 157/192ma 110mv\>
 
 The fortune hunter really needs a good bath! Phew!
 
@@ -56,7 +56,7 @@ Ok.
 
 You feel better!
 
-<192/192hp 146/192ma 110mv>
+\<192/192hp 146/192ma 110mv\>
 
 You pierce the fortune hunter hard.
 
@@ -68,39 +68,39 @@ The fortune hunter misses you with his crush.
 
 You pierce the fortune hunter hard.
 
-<192/300hp 147/192ma 110mv>
+\<192/300hp 147/192ma 110mv\>
 
 This time without being hit my current hp and maxhp dropped to maxma.
 
-<edit> And right after finishing writing that, maxhp dropped to maxma again for a sec.
+\<edit\> And right after finishing writing that, maxhp dropped to maxma again for a sec.
 
 </div>
 
 <div class="post" data-post-id="14138" data-author="Jag" data-date="2006-09-18T19:19:21+00:00" data-subject="Two odd?">
 
-I was in Wyrmlings and I lost 132 hps while doing 3 consecutive cure minors on myself.  No mobs were in the room.
+I was in Wyrmlings and I lost 132 hps while doing 3 consecutive cure minors on myself. No mobs were in the room.
 
-<360hp 94ma 74mv>
-
-sac
-
-You do not see anything in the corpse.
-
-<361hp 94ma 74mv>
-
-You sacrifice the corpse to Blaster.
-
-<361hp 94ma 74mv>
+\<360hp 94ma 74mv\>
 
 sac
 
 You do not see anything in the corpse.
 
-<361hp 94ma 74mv>
+\<361hp 94ma 74mv\>
 
 You sacrifice the corpse to Blaster.
 
-<361hp 94ma 74mv>
+\<361hp 94ma 74mv\>
+
+sac
+
+You do not see anything in the corpse.
+
+\<361hp 94ma 74mv\>
+
+You sacrifice the corpse to Blaster.
+
+\<361hp 94ma 74mv\>
 
 inv
 
@@ -132,19 +132,19 @@ a decomposing brain
 
 a yellow potion
 
-<362hp 94ma 75mv>
+\<362hp 94ma 75mv\>
 
 Ok.
 
 You feel better!
 
-<376hp 87ma 77mv>
+\<376hp 87ma 77mv\>
 
 Ok.
 
 You feel better!
 
-<124hp 80ma 78mv>
+\<124hp 80ma 78mv\>
 
 l
 
@@ -152,27 +152,27 @@ Ok.
 
 You feel better!
 
-<135hp 72ma 79mv>
+\<135hp 72ma 79mv\>
 
 sc
 
 Dragon Throne
 
-   A basalt statue of a dragon dominates this ten-foot-diameter chamber.
+ A basalt statue of a dragon dominates this ten-foot-diameter chamber.
 
 Closer examination shows that the statue is actually a throne built for
 
-someone perhaps half man-sized.  The walls are carved with other dragon-
+someone perhaps half man-sized. The walls are carved with other dragon-
 
 themed murals; the only exit is through a carved archway to the south.
 
 Exits: South
 
-<137hp 72ma 80mv>
+\<137hp 72ma 80mv\>
 
-Hc Hi Mud  (level: 20)
+Hc Hi Mud (level: 20)
 
-Your levels:  Wa: 20 Mo: 20 Dr: 14 Ne: 7
+Your levels: Wa: 20 Mo: 20 Dr: 14 Ne: 7
 
 You are 17 years and 8 months old.
 
@@ -202,65 +202,65 @@ You are standing.
 
 You are affected by the following spells:
 
-   Detect Invisible
+ Detect Invisible
 
-   Darksight
+ Darksight
 
-   Resist Fire
+ Resist Fire
 
-   Resist Cold
+ Resist Cold
 
-   Armor
+ Armor
 
-   Strength
+ Strength
 
-<137hp 72ma 80mv>
+\<137hp 72ma 80mv\>
 
 </div>
 
 <div class="post" data-post-id="14140" data-author="12345" data-date="2006-09-18T19:37:01+00:00" data-subject="">
 
-The game has been up almost 8 days now.  Might be starting to flake out.
+The game has been up almost 8 days now. Might be starting to flake out.
 
 </div>
 
 <div class="post" data-post-id="14142" data-author="kjartan" data-date="2006-09-18T19:55:47+00:00" data-subject="">
 
-We just put in code that allows mobs to have higher max hp, and it sounds like there may be some bug related to that.  We're on it.
+We just put in code that allows mobs to have higher max hp, and it sounds like there may be some bug related to that. We're on it.
 
 </div>
 
 <div class="post" data-post-id="14144" data-author="12345" data-date="2006-09-18T21:12:29+00:00" data-subject="">
 
-Funny bug to watch.  Glad I was regenning.
+Funny bug to watch. Glad I was regenning.
 
-<1073/1050hp+100 300/300 234/234 -3 -10.4 0 None Down>
+\<1073/1050hp+100 300/300 234/234 -3 -10.4 0 None Down\>
 
 You feel the ship slow as it nears the journey's end.
 
-<1059/300hp+100 300/300 234/234 -3 -10.4 1 None Down>
+\<1059/300hp+100 300/300 234/234 -3 -10.4 1 None Down\>
 
 You grouptell: '//Bit// [1059/300] [Pain!: -14] [Need: -759] [Aegis: Down]'
 
-<1059/300hp+100 300/300 234/234 -3 -10.4 1 None Down>
+\<1059/300hp+100 300/300 234/234 -3 -10.4 1 None Down\>
 
 The ship lurches as it comes to an abrupt stop against the docks.
 
-<1050/300hp+100 300/300 234/234 -3 -10.4 2 None Down>
+\<1050/300hp+100 300/300 234/234 -3 -10.4 2 None Down\>
 
 You grouptell: '//Bit// [1050/300] [Pain!: -9] [Need: -750] [Aegis: Down]'
 
-<1050/300hp+100 300/300 234/234 -3 -10.4 2 None Down>
+\<1050/300hp+100 300/300 234/234 -3 -10.4 2 None Down\>
 
 The ships captain bellows out orders in preparation for departure.
 
-<1050/300hp+100 300/300 234/234 -3 -10.4 3 None Down>
+\<1050/300hp+100 300/300 234/234 -3 -10.4 3 None Down\>
 
 st
 
 You are already awake...
 
-<1050/1050hp+100 300/300 234/234 -3 -10.4 3 None Down>
+\<1050/1050hp+100 300/300 234/234 -3 -10.4 3 None Down\>
 
 You are already standing.
 

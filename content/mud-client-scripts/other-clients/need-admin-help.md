@@ -12,9 +12,9 @@ post_count: 13
 
 <div class="post" data-post-id="23588" data-author="silentascanbe" data-date="2008-04-04T17:19:58+00:00" data-subject="NEED ADMIN HELP">
 
-okay i have come across a difficult problem ....the school computer have been blocking alot of things lately in my area this include websites,downloading,and even email i have bypass most of that but it seems i am unable to connect to slothmud possibly because of the blocking and i never played this before ill really appreciate it if someone can help me bypass this problem.... :?:  :?:  :?:  :?  :?  :roll:
+okay i have come across a difficult problem ....the school computer have been blocking alot of things lately in my area this include websites,downloading,and even email i have bypass most of that but it seems i am unable to connect to slothmud possibly because of the blocking and i never played this before ill really appreciate it if someone can help me bypass this problem.... <img src="/images/smilies/icon_question.svg" alt=":?:" title=":?:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_question.svg" alt=":?:" title=":?:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_question.svg" alt=":?:" title=":?:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_e_confused.svg" alt=":?" title=":?" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_e_confused.svg" alt=":?" title=":?" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
-note i have been useing telnet :!:
+note i have been useing telnet <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -34,13 +34,14 @@ Some1 teach us how to tunnel thru high firewall security!!!
 
 <div class="post" data-post-id="23611" data-author="Yasik2" data-date="2008-04-07T05:31:35+00:00" data-subject="">
 
-Arent you supposed to learn and educate in school, instead of playing online games?!  :evil:
+Arent you supposed to learn and educate in school, instead of playing online games?! :evil:
 
 </div>
 
 <div class="post" data-post-id="23614" data-author="Vixn" data-date="2008-04-07T17:41:31+00:00" data-subject="">
 
-Arent you supposed to learn and educate in school, instead of playing online games?!  :evil:[/quote:243e27dd]
+> <strong>Yasik2 wrote:</strong>
+> Arent you supposed to learn and educate in school, instead of playing online games?! <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 indead. you must learn computers in school. your course will be completed when you hack your school's firewall and connect to slothmud. dare!
 
@@ -48,9 +49,10 @@ indead. you must learn computers in school. your course will be completed when y
 
 <div class="post" data-post-id="23615" data-author="Autolycos" data-date="2008-04-07T21:22:34+00:00" data-subject="">
 
-indeed. you must learn computers in school. your course will be completed when you hack your school's firewall and connect to slothmud. dare![/quote:3ksauyya]
+> <strong>Vixn wrote:</strong>
+> indeed. you must learn computers in school. your course will be completed when you hack your school's firewall and connect to slothmud. dare!
 
-LMFAO Edik....  you're such a rebel  :roll:
+LMFAO Edik.... you're such a rebel <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -74,7 +76,7 @@ or if your really hard up you could do remote desktop to your home system and pl
 
 OKay i have downloaded wintin 95 and still it wont connect i have thought of a way to bypass this but im still not sure if it will work ...okay i have several websites like [https://goldtunnel.com](https://goldtunnel.com) that bypass school blocking not if i can get wintin to go to connect to that i can then connect to slothmud...?
 
-cant connect as home  computer blew up 
+cant connect as home computer blew up 
 
 dont beleive to bad
 
@@ -92,7 +94,7 @@ Todd!!!
 
 If u setup ur home PC as a proxy server, can you connect from a work pc
 
-to the house and mud?  Doesn't the firewall detect the house pc as another
+to the house and mud? Doesn't the firewall detect the house pc as another
 
 server and blocks it?
 
@@ -104,7 +106,7 @@ firewall is some tought $hit.
 
 <div class="post" data-post-id="23664" data-author="alias" data-date="2008-04-11T02:29:46+00:00" data-subject="">
 
-Im sure your bank does some vpn or remote desktop to access other sites in their org. All you need to do is find out which port is open for the connection and you can set your vpn or remote desktop client to use that port to connect  to your home computer and do anything on it that you would normally do...ie mud surf whatever...because its running on your computer not theirs.
+Im sure your bank does some vpn or remote desktop to access other sites in their org. All you need to do is find out which port is open for the connection and you can set your vpn or remote desktop client to use that port to connect to your home computer and do anything on it that you would normally do...ie mud surf whatever...because its running on your computer not theirs.
 
 Alias
 
@@ -114,7 +116,8 @@ an online proxy will let you surf places normally blocked but not mud ect thus t
 
 <div class="post" data-post-id="23665" data-author="Tap" data-date="2008-04-11T02:35:18+00:00" data-subject="">
 
-[quote:2ihanodc]Since now I currently work as a Bank of America employee,[/quote:2ihanodc]
+> <strong>Quote:</strong>
+> Since now I currently work as a Bank of America employee,
 
 Nice, try to cash a check and having to wait while you clear kobolds. You take addiction to a new high!!!
 

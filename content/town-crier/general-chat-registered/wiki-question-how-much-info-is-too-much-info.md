@@ -20,9 +20,9 @@ The amount of info that could be included is considerable, and might include sim
 
 I know there are many aspects of this which could cause both mortals and immortals to be uncomfortable with easy access to this information, so I thought it might be a good idea to discuss it in a public forum.
 
-I don't want to spend time working on something that will make people unhappy, so please give me your thoughts.  I think that increasing the availability of knowledge for all sloth players is a very valuable pursuit, as Sloth has one of the steepest learning curves of any game I've played, and can mistakes here can have severe consequences.
+I don't want to spend time working on something that will make people unhappy, so please give me your thoughts. I think that increasing the availability of knowledge for all sloth players is a very valuable pursuit, as Sloth has one of the steepest learning curves of any game I've played, and can mistakes here can have severe consequences.
 
-Note: I have read Strago's previous thread on the topic.  I realize this is a very similar topic, but the purpose of this thread is different in that I am collecting data on the appropriate level of transparency.
+Note: I have read Strago's previous thread on the topic. I realize this is a very similar topic, but the purpose of this thread is different in that I am collecting data on the appropriate level of transparency.
 
 </div>
 
@@ -34,9 +34,9 @@ If I played the game, I would want all the data.
 
 <div class="post" data-post-id="33152" data-author="Stark" data-date="2012-02-11T05:28:01+00:00" data-subject="Re: Wiki question: how much info is too much info?">
 
-I'm all about sharing as much information as possible, but that often seems to be at odds against the sloth philosophy.  I don't think anyone ever took seriously the original (and still on the front page) sloth philosophy of "to make everybody's lives as easy as possible."   :lol:  
+I'm all about sharing as much information as possible, but that often seems to be at odds against the sloth philosophy. I don't think anyone ever took seriously the original (and still on the front page) sloth philosophy of "to make everybody's lives as easy as possible." <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> 
 
-The wikirules [here](http://www.slothmud.org/wiki/WikiRules) clearly state that they don't want a bestiary, nor technical and specific details.  Everything else that is allowed to be written about, needs to be explained in some sort of a handwave fashion.  And it all needs to be cleared by an immort.
+The wikirules [here](http://www.slothmud.org/wiki/WikiRules) clearly state that they don't want a bestiary, nor technical and specific details. Everything else that is allowed to be written about, needs to be explained in some sort of a handwave fashion. And it all needs to be cleared by an immort.
 
 Too many roadblocks and restrictions for my taste to ever bother with the wiki, but I hope you can overcome them.
 
@@ -44,13 +44,13 @@ Too many roadblocks and restrictions for my taste to ever bother with the wiki, 
 
 <div class="post" data-post-id="33153" data-author="Spink" data-date="2012-02-11T07:49:25+00:00" data-subject="Re: Wiki question: how much info is too much info?">
 
-Hrm, thanks for drawing my attention to the extended rules page.  I had only read the section quoted at the top of that page.
+Hrm, thanks for drawing my attention to the extended rules page. I had only read the section quoted at the top of that page.
 
 I suppose my proposed contribution would have to be considered a bestiary.
 
 In any case I would still like to collect more poll data on other players' opinions, and I'd definitely like to understand reason for the rule.
 
-Perhaps I will make something available on request to those who care to have it.  I'm rather interested in proceeding with this as a purely academic exercise.
+Perhaps I will make something available on request to those who care to have it. I'm rather interested in proceeding with this as a purely academic exercise.
 
 </div>
 
@@ -72,18 +72,18 @@ i still haven't replied to the eqlist post as i am still considering my answer.
 
 <div class="post" data-post-id="33155" data-author="Spink" data-date="2012-02-11T16:36:57+00:00" data-subject="Re: Wiki question: how much info is too much info?">
 
-> ***Breeze* wrote:**
+> <strong>\*Breeze\* wrote:</strong>
 > it's called common sense.
 
 Thank you for taking the time to respond.
 
-From Juggleblood's comment in Strago's thread, it seemed like describing mobs on the spectrum of stab/grip to chop would be acceptable.  I understand that all immortals may not share the same viewpoint.
+From Juggleblood's comment in Strago's thread, it seemed like describing mobs on the spectrum of stab/grip to chop would be acceptable. I understand that all immortals may not share the same viewpoint.
 
 I would really like to determine the maximum amount of information that is appropriate, and make that information available.
 
-For example, I would imagine it's probably more appropriate to say "masterful stab" than it is to say "300 hp" (or whatever hp is correct, not important).  
+For example, I would imagine it's probably more appropriate to say "masterful stab" than it is to say "300 hp" (or whatever hp is correct, not important). 
 
-To clarify my position, I don't want to report exact numbers for damage and health.  I want to report ranges similar to the study skill output, corpse size, and special mob characteristics such as assisting, fleeing, or casting.  I don't actually think it's a good idea to report XP and gold values, but it would be easy to do so while reporting the other information, so I figured it wouldn't hurt to ask.
+To clarify my position, I don't want to report exact numbers for damage and health. I want to report ranges similar to the study skill output, corpse size, and special mob characteristics such as assisting, fleeing, or casting. I don't actually think it's a good idea to report XP and gold values, but it would be easy to do so while reporting the other information, so I figured it wouldn't hurt to ask.
 
 </div>
 

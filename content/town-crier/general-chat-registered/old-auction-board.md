@@ -24,7 +24,7 @@ Riuirik
 
 <div class="post" data-post-id="3422" data-author="Alberich" data-date="2004-12-19T02:46:31+00:00" data-subject="">
 
-personally, I much prefer the block to old auction page, and emporium is good for advertising you need something, but imho, if you try to use it to sell stuff instead of chopping block, you deserve the headaches :P
+personally, I much prefer the block to old auction page, and emporium is good for advertising you need something, but imho, if you try to use it to sell stuff instead of chopping block, you deserve the headaches <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 

@@ -50,7 +50,7 @@ Having to get your storage character on, get the item over to your main char, an
 
 As for tracking, yes that is true but there are lots of ways people can get triple 40 items in excess of 2 for one char, including buying the, picking them up when someone gets fed up and drops all their stuff, hacking a char and a few bugs people have exploited in the past, and in fact folks have been caught doing exactly that.
 
-Bottom line is using vaults would make it far easier then the whole hassles of using storage chars, and is far less detectable. If you have a character who has good enough EQ that you would want to vault your quintx50 light or triple 40 EQ because you have other EQ that is so much better, I'm sure you can afford the rent. :)
+Bottom line is using vaults would make it far easier then the whole hassles of using storage chars, and is far less detectable. If you have a character who has good enough EQ that you would want to vault your quintx50 light or triple 40 EQ because you have other EQ that is so much better, I'm sure you can afford the rent. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -60,13 +60,13 @@ Acutally you can also ask an immort to take the 3x40 eq off the chars.
 
 Then when u want to play that char or something, u can ask for the 3x40
 
-eq back.  Just don't make a habbit of asking an immort every other week...
+eq back. Just don't make a habbit of asking an immort every other week...
 
 </div>
 
 <div class="post" data-post-id="10180" data-author="Medios" data-date="2006-01-17T22:40:15+00:00" data-subject="">
 
-How about make the items personal.  Then the whole issue is solved.
+How about make the items personal. Then the whole issue is solved.
 
 Mike
 
@@ -82,7 +82,7 @@ heh.. I thought they were.. never really gave it much thought.. guess I'm not de
 
 But then the temptation is gone and its once less chance to fry a dumbass.
 
-*smoke*
+\*smoke\*
 
 </div>
 
@@ -100,7 +100,8 @@ Splork
 
 <div class="post" data-post-id="10199" data-author="Dariel" data-date="2006-01-18T16:32:20+00:00" data-subject="">
 
-[quote:364az5mm]I will flag them personal when I get around to it for those who reach triple 40 from this pt on though.....[/quote:364az5mm]
+> <strong>Quote:</strong>
+> I will flag them personal when I get around to it for those who reach triple 40 from this pt on though.....
 
 Does this also mean it will be possible to store it in a vault?
 
@@ -136,25 +137,25 @@ Splork
 
 <div class="post" data-post-id="10208" data-author="Weasel" data-date="2006-01-18T19:59:40+00:00" data-subject="">
 
-Ok kewl :)
+Ok kewl <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="10214" data-author="Autolycos" data-date="2006-01-18T20:45:49+00:00" data-subject="">
 
-damn...  
+damn... 
 
-and i was going to trade weasel's cuirass for a clasp.. *snap*
+and i was going to trade weasel's cuirass for a clasp.. \*snap\*
 
 well... guess i missed the boat on that one....
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="10218" data-author="Weasel" data-date="2006-01-19T01:37:05+00:00" data-subject="">
 
-:evil:
+<img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

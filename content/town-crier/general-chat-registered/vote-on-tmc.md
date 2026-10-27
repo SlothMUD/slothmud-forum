@@ -12,31 +12,31 @@ post_count: 5
 
 <div class="post" data-post-id="13697" data-author="Weasel" data-date="2006-08-10T21:06:46+00:00" data-subject="Vote on TMC">
 
-1. MUME - 4403
+1\. MUME - 4403
 
-2. BatMUD - 4402
+2\. BatMUD - 4402
 
-3. SlothMUD III - 4226
+3\. SlothMUD III - 4226
 
 BatMUD have put their foot down and left us in the dust, and are about to take first position. With a bit of effort we can catch up.. we were slowly narrowing their lead until the last day or so when they seem to have suddenly got a big boost in votes.
 
 Please vote, here's the link if you can't be bothered getting it from the sloth main homepage:
 
-[<LINK_TEXT text="http://www.mudconnect.com/cgi-bin/vote_ ... othMUD+III">http://www.mudconnect.com/cgi-bin/vote_rank.cgi?mud=SlothMUD+III</LINK_TEXT>](http://www.mudconnect.com/cgi-bin/vote_rank.cgi?mud=SlothMUD+III)
+[http://www.mudconnect.com/cgi-bin/vote_rank.cgi?mud=SlothMUD+III](http://www.mudconnect.com/cgi-bin/vote_rank.cgi?mud=SlothMUD+III)
 
 </div>
 
 <div class="post" data-post-id="13826" data-author="brady" data-date="2006-08-29T16:25:31+00:00" data-subject="">
 
-Sometimes a little healthy competition can be bad  :wink: 
+Sometimes a little healthy competition can be bad <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom"> 
 
-1. MUME - Multi Users In Middle Earth  view stats  5056  
+1\. MUME - Multi Users In Middle Earth view stats 5056 
 
-2. BatMUD  view stats  5041  
+2\. BatMUD view stats 5041 
 
-3. SlothMUD III  view stats  4591  
+3\. SlothMUD III view stats 4591 
 
-4. Medievia  view stats  4126
+4\. Medievia view stats 4126
 
 </div>
 
@@ -60,8 +60,8 @@ Guess I'll have to handle myself.
 
 <div class="post" data-post-id="13829" data-author="Autolycos" data-date="2006-08-30T02:30:20+00:00" data-subject="">
 
-there is a disgusting mental picture.....  :shock: 
+there is a disgusting mental picture..... <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
-but....  at least you have plenty of experience at it.  :twisted:
+but.... at least you have plenty of experience at it. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

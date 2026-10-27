@@ -52,7 +52,7 @@ Please sell me edger.
 
 <div class="post" data-post-id="16481" data-author="12345" data-date="2007-01-23T00:57:09+00:00" data-subject="">
 
-I need a sense of humor.  Will trade for sex favors.
+I need a sense of humor. Will trade for sex favors.
 
 Please help.
 
@@ -60,13 +60,20 @@ Please help.
 
 <div class="post" data-post-id="16497" data-author="Medios" data-date="2007-01-24T03:57:09+00:00" data-subject="Re: WTB/WTT">
 
-Looking for: 
-
-iron ingot, gold ingot - cps from CK (lyme) 
-
-Will buy any desert cps 
-
-Lis/Osa/Lisa[/quote:1fcjlcab]
+> <strong>Lis wrote:</strong>
+> Looking for: 
+> 
+> 
+> 
+> iron ingot, gold ingot - cps from CK (lyme) 
+> 
+> 
+> 
+> Will buy any desert cps 
+> 
+> 
+> 
+> Lis/Osa/Lisa
 
 bump
 
@@ -74,10 +81,13 @@ bump
 
 <div class="post" data-post-id="16504" data-author="Corinn" data-date="2007-01-24T15:33:43+00:00" data-subject="">
 
-I need a sense of humor.  Will trade for sex favors.
+> <strong>12345 wrote:</strong>
+> I need a sense of humor. Will trade for sex favors.
+> 
+> 
+> 
+> Please help.
 
-Please help.[/quote:110l68d8]
-
-LOL  :D
+LOL <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>

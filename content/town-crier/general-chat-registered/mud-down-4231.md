@@ -30,7 +30,7 @@ Same here. MUD appears to be down.
 
 <div class="post" data-post-id="35027" data-author="Yasik" data-date="2014-04-21T18:48:59+00:00" data-subject="Re: MUD down?">
 
-Splork give play  :evil:  :evil:  :evil: :lol:
+Splork give play <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -64,13 +64,13 @@ Please bear with us,
 
 Splork
 
- :mrgreen:
+ <img src="/images/smilies/icon_mrgreen.svg" alt=":mrgreen:" title=":mrgreen:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="35037" data-author="Thraxas" data-date="2014-04-21T23:05:45+00:00" data-subject="Re: MUD down?">
 
-does this mean a complete player wipe for the whole playerbase and Sloth V?  :shock:
+does this mean a complete player wipe for the whole playerbase and Sloth V? <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -82,7 +82,7 @@ does this mean a complete player wipe for the whole playerbase and Sloth V?  :sh
 
 <div class="post" data-post-id="35039" data-author="Thraxas" data-date="2014-04-21T23:11:37+00:00" data-subject="Re: MUD down?">
 
-RIP  :cry:
+RIP <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -96,19 +96,19 @@ But seriously Splork, email me if you need some hardware.
 
 <div class="post" data-post-id="35044" data-author="Magi" data-date="2014-04-22T00:12:03+00:00" data-subject="Re: MUD down?">
 
-> **Quote:**
+> <strong>Quote:</strong>
 > sometime in the next 24 hours.
 
-Truly impressive.  DDO online, a massive and well-funded MMO recently went down much longer than this.
+Truly impressive. DDO online, a massive and well-funded MMO recently went down much longer than this.
 
 </div>
 
 <div class="post" data-post-id="35045" data-author="van" data-date="2014-04-22T00:15:12+00:00" data-subject="Re: MUD down?">
 
-> **Quote:**
+> <strong>Quote:</strong>
 > Truly impressive.
 
-I <3 the immortals.  Despite all reports to the contrary, they care!
+I \<3 the immortals. Despite all reports to the contrary, they care!
 
 </div>
 
@@ -124,7 +124,7 @@ Jake is in the middle of the installation process.
 
 <div class="post" data-post-id="35057" data-author="Burl" data-date="2014-04-22T02:59:26+00:00" data-subject="Re: MUD down?">
 
-You guys rock!  Thanks for all you do for us.
+You guys rock! Thanks for all you do for us.
 
 </div>
 
@@ -132,7 +132,7 @@ You guys rock!  Thanks for all you do for us.
 
 Thank You for all your efforts.
 
-I realized how much enjoy my time on sloth, on Mondays I was able to tune out dancing with the stars but not today :(
+I realized how much enjoy my time on sloth, on Mondays I was able to tune out dancing with the stars but not today <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 The server goes down and 9 months later there will be new mommy's and daddy's.
 
@@ -158,7 +158,7 @@ Thanks Jake.
 
 <div class="post" data-post-id="35068" data-author="*Splork*" data-date="2014-04-22T15:54:45+00:00" data-subject="Re: MUD down? ( We are online )">
 
-The game is back online and should be playable. I am still working on game->website stuff and other smaller things but I need to step out for few hours and will pick that up when I return.
+The game is back online and should be playable. I am still working on game-\>website stuff and other smaller things but I need to step out for few hours and will pick that up when I return.
 
 I will post a sticky regarding the new server once we figure out all these smaller things.
 

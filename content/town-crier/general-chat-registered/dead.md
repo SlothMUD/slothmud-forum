@@ -38,7 +38,7 @@ Added ya, check icq :)
 
 <div class="post" data-post-id="11029" data-author="12345" data-date="2006-03-03T14:33:18+00:00" data-subject="">
 
-Furry critter, I see you on the same cont as me all the time.  Before you go out on runs solo, look around and ask folks you know if they have a IM you can add.  If you have Trillian, you can add almost anyone.  I know I don't mind giving you mine as long as you don't average half a dozen deaths a night.
+Furry critter, I see you on the same cont as me all the time. Before you go out on runs solo, look around and ask folks you know if they have a IM you can add. If you have Trillian, you can add almost anyone. I know I don't mind giving you mine as long as you don't average half a dozen deaths a night.
 
 </div>
 
@@ -52,14 +52,14 @@ dead again - same place
 
 i think you getting slow in your old age...
 
-You auction 'Weasel fur coat up.... 1mil min,  any interest?..   faintly smells of cabbage'
+You auction 'Weasel fur coat up.... 1mil min, any interest?.. faintly smells of cabbage'
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="11040" data-author="Weasel" data-date="2006-03-03T19:49:48+00:00" data-subject="">
 
-..and again :(
+..and again <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>

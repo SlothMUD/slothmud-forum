@@ -14,9 +14,9 @@ post_count: 1
 
 A couple small changes to druids:
 
-1) Druid secondary will be considered caster from now on for mr.
+1\) Druid secondary will be considered caster from now on for mr.
 
-2) Druid in the tert and quad positions will get small mr bonuses for being outside while they regen. (This is basically to maintain some consistancy like our monk, warrior, etc bonuses-it is not very big-but its better than nothing)
+2\) Druid in the tert and quad positions will get small mr bonuses for being outside while they regen. (This is basically to maintain some consistancy like our monk, warrior, etc bonuses-it is not very big-but its better than nothing)
 
 Enjoy,
 

@@ -20,19 +20,19 @@ Aleksey brutally guts the fire machine!
 
 The fire machine looks down in terror as its intestines spill out!
 
-<529hp 155ma 82mv>
+\<529hp 155ma 82mv\>
 
 Aleksey brutally guts the fire machine!
 
 The fire machine looks down in terror as its intestines spill out!
 
-<529hp 155ma 82mv>
+\<529hp 155ma 82mv\>
 
 Aleksey brutally guts the fire machine!
 
 The fire machine looks down in terror as its intestines spill out!
 
-<529hp 155ma 82mv>
+\<529hp 155ma 82mv\>
 
 eqTinkles utters the words, 'euguihzofahz'
 
@@ -44,19 +44,19 @@ Your blood freezes as you hear the fire machine's death cry.
 
 Krok gets gold coins from the corpse of the fire machine that's on the ground.
 
-Krok splits 1000 coins.  Your share is 100 coins.
+Krok splits 1000 coins. Your share is 100 coins.
 
-<529hp 156ma 82mv>
+\<529hp 156ma 82mv\>
 
 </div>
 
 <div class="post" data-post-id="4490" data-author="Autolycos" data-date="2005-02-16T19:36:15+00:00" data-subject="">
 
-NICE!!!!  
+NICE!!!! 
 
 I think that would be alot of fun to use at parties!
 
-~~~Could you imagine?~~~~~
+\~\~\~Could you imagine?\~\~\~\~\~
 
 The Sponge Bob Pinata spins around and taunts Aleksey! 
 
@@ -66,7 +66,7 @@ Aleksey brutally guts the Sponge Bob Pinata!
 
 The Sponge Bob Pinata looks down in terror as its candy spills out! 
 
-that would be so cool!  :P
+that would be so cool! <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 Auto.
 

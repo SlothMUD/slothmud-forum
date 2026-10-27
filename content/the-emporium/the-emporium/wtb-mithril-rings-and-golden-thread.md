@@ -18,6 +18,6 @@ Will pay gold for rings, or swap out eq if you have a lot of them. Will trade or
 
 thanks
 
--doug
+\-doug
 
 </div>

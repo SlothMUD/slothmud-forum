@@ -14,21 +14,21 @@ post_count: 4
 
 keeps track of all the quests done and as much info as possible about them.
 
-can be looked at by other players, but will poof when owner rents... only to reappear in your inventory when you log back in!  omg! brand where can i get one of these @$%&ing fantabulous books?  well buddy last i heard they were selling them at the store for like 5-20 drachma... but do they have any left... that is another story.
+can be looked at by other players, but will poof when owner rents... only to reappear in your inventory when you log back in! omg! brand where can i get one of these @$%\&ing fantabulous books? well buddy last i heard they were selling them at the store for like 5-20 drachma... but do they have any left... that is another story.
 
- :idea:  :twisted: brand
+ <img src="/images/smilies/icon_idea.svg" alt=":idea:" title=":idea:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> brand
 
 </div>
 
 <div class="post" data-post-id="18624" data-author="Weasel" data-date="2007-05-24T22:39:56+00:00" data-subject="">
 
-..or you could just use notepad :)
+..or you could just use notepad <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="18642" data-author="brady" data-date="2007-05-25T16:05:47+00:00" data-subject="">
 
-token of recollection?  I think thats about as close as you are going to get.
+token of recollection? I think thats about as close as you are going to get.
 
 </div>
 

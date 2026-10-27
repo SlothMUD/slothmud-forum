@@ -28,7 +28,7 @@ Oh...and no more imbues also.
 
 It only mean old classo chars lost some power... 
 
----
+\---
 
 Bazilus the Crazy Python
 
@@ -36,9 +36,9 @@ Bazilus the Crazy Python
 
 <div class="post" data-post-id="17871" data-author="Bazilus" data-date="2007-04-08T14:06:14+00:00" data-subject="...">
 
-Better say thiefs lost this skill... 150mana on fail or teleported? maybe anything else... :)
+Better say thiefs lost this skill... 150mana on fail or teleported? maybe anything else... <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
----
+\---
 
 Bazilus the Crazy Python
 
@@ -46,6 +46,6 @@ Bazilus the Crazy Python
 
 <div class="post" data-post-id="17872" data-author="Hades" data-date="2007-04-08T14:55:09+00:00" data-subject="!!!">
 
-Easy...don't fail :P
+Easy...don't fail <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>

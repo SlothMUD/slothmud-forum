@@ -12,7 +12,7 @@ post_count: 12
 
 <div class="post" data-post-id="24785" data-author="PolkAdotS" data-date="2008-06-08T07:15:34+00:00" data-subject="RE: Dear Immortals">
 
-I still wouldn't mind being reimbursed.  And feel I didn't do anything wrong.  Why not, ask Jake for me then Krom.  I still have internet access and everything, been missing out.
+I still wouldn't mind being reimbursed. And feel I didn't do anything wrong. Why not, ask Jake for me then Krom. I still have internet access and everything, been missing out.
 
 John
 
@@ -20,7 +20,7 @@ John
 
 <div class="post" data-post-id="24786" data-author="Yinao" data-date="2008-06-08T07:33:15+00:00" data-subject="Losers back.">
 
-:roll:
+<img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -28,7 +28,7 @@ John
 
 My name is Tap and I approve this message
 
-[img:3ns1tvuq]http://img408.imageshack.us/img408/5852/obamabidenom4.jpg[/img:3ns1tvuq]
+![](http://img408.imageshack.us/img408/5852/obamabidenom4.jpg)
 
 </div>
 
@@ -40,19 +40,19 @@ where's wench
 
 <div class="post" data-post-id="24793" data-author="Tap" data-date="2008-06-08T23:42:07+00:00" data-subject="">
 
-I'm actually for PolkAdotS being re-instated. I can't wait to rip on his next f*ckup. :twisted:
+I'm actually for PolkAdotS being re-instated. I can't wait to rip on his next f\*ckup. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="24794" data-author="Gandolf" data-date="2008-06-09T00:19:39+00:00" data-subject="">
 
-I bet he doesnt last long :)
+I bet he doesnt last long <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="24813" data-author="PolkAdotS" data-date="2008-06-10T02:11:40+00:00" data-subject="">
 
-You know, actually polks, errr folks I don't really care that much about a Role Playing MUD time of which inexorbenhent amounts of my time have personally wasted myself, just me.  Please accept that it is pointless to continue from my perspective AND that none of anyone here has responded with due courtesy to immortal staff or their perspectives then I ask myself, why do I bother?  Tap, post away ya jerk... Everyone else, good luck getting nice stuff.  Jake please go ahead and do the polkwipe... That's Polk Gumbi Froggy and anything else I had associated the password I'd e-mailed you when I was originally pissed.  Please leave said character as it not mine, and is for someone else.  I would like to keep access to this board without making another yahoo, or gmail account or whatever random account I create to create yet another login here after this password is accessed from my p/c by an interloping friend and/or forgotten.  Thank you for the last 7 years on SlothMUD, sincerely... Polk.  Just kidding it's more like 15.  Cya
+You know, actually polks, errr folks I don't really care that much about a Role Playing MUD time of which inexorbenhent amounts of my time have personally wasted myself, just me. Please accept that it is pointless to continue from my perspective AND that none of anyone here has responded with due courtesy to immortal staff or their perspectives then I ask myself, why do I bother? Tap, post away ya jerk... Everyone else, good luck getting nice stuff. Jake please go ahead and do the polkwipe... That's Polk Gumbi Froggy and anything else I had associated the password I'd e-mailed you when I was originally pissed. Please leave said character as it not mine, and is for someone else. I would like to keep access to this board without making another yahoo, or gmail account or whatever random account I create to create yet another login here after this password is accessed from my p/c by an interloping friend and/or forgotten. Thank you for the last 7 years on SlothMUD, sincerely... Polk. Just kidding it's more like 15. Cya
 
 </div>
 
@@ -66,13 +66,14 @@ Your silly.
 
 <div class="post" data-post-id="24834" data-author="Yasik2" data-date="2008-06-10T11:55:36+00:00" data-subject="">
 
-If you dont care about muds etc and think that mudding is only a waste of time, then why do you ask for reimburse? To waste even more time on a thing that you dont care about? This sounds unlogical and unrational to me.  :D
+If you dont care about muds etc and think that mudding is only a waste of time, then why do you ask for reimburse? To waste even more time on a thing that you dont care about? This sounds unlogical and unrational to me. :D
 
 </div>
 
 <div class="post" data-post-id="24837" data-author="13" data-date="2008-06-10T15:42:59+00:00" data-subject="">
 
-[quote:2snv4lut] inexorbenhent [/quote:2snv4lut]
+> <strong>Quote:</strong>
+> inexorbenhent
 
 ......???
 
@@ -82,7 +83,7 @@ exhorbitant
 
 ..they fu cked and had
 
-[b:2snv4lut] inexorbenhent [/b:2snv4lut]
+ <strong>inexorbenhent</strong>
 
 </div>
 
@@ -94,6 +95,6 @@ isn't that one of dubyas' words?
 
 <div class="post" data-post-id="24876" data-author="Yasik2" data-date="2008-06-11T09:14:59+00:00" data-subject="">
 
-[img:2yxavcx3]http://yasik.kiev.ua/4chan/Dead_Thread.jpg[/img:2yxavcx3]
+![](http://yasik.kiev.ua/4chan/Dead_Thread.jpg)
 
 </div>

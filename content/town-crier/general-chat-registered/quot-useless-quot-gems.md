@@ -120,15 +120,15 @@ a Zircon
 
 Obviously gems are not "useless" at all... and we love the gem system, and more recently the changes and upgrades... but once a player has finished socketting there eq with specific gems, especially those of the more frequently popping t1 variety, they do become "useless" to the player. There are various degrees of uselessness...
 
-* I don't need the gem but I can trade it.
+\* I don't need the gem but I can trade it.
 
-* I don't need the gem but I can sell it for a few coins.
+\* I don't need the gem but I can sell it for a few coins.
 
-* I don't need the gem and neither does anyone else.
+\* I don't need the gem and neither does anyone else.
 
-* Gem is junked, or left lying on the ground where it loads.
+\* Gem is junked, or left lying on the ground where it loads.
 
-* Gem becomes a laughing stock and the butt of player jokes
+\* Gem becomes a laughing stock and the butt of player jokes
 
 It's become apparent that some gems have already reached the last stage... Although it would be easy to single out players who are selling them on auction as "having too many," I don't think that's true... I suspect the truth of the matter is actually more widespread, as my own list of t1's looks similar to live auction and the mobs I run don't pop gems. It must be also taken into consideration that for the last couple of years, before the changes and upgrades, t1's were the overwhelming majority of gem pops.
 
@@ -140,19 +140,19 @@ Personally I like the idea that a t1 Rune = 1 Random t2 Gem, and that a t2 Rune 
 
 I think the current gem system recently implemented is fine... but a recycle system for unwanted gems would be welcomed and restore that fact that every gem is valuable.
 
-Gimme a G! Gimme a EM! Gimme a Bloodstone!  :|
+Gimme a G! Gimme a EM! Gimme a Bloodstone! <img src="/images/smilies/icon_neutral.svg" alt=":|" title=":|" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="38120" data-author="*teker*" data-date="2017-03-17T17:19:35+00:00" data-subject="Re: &amp;quot;Useless&amp;quot; gems">
 
-I have a really hard time with the idea that gems are useless.  I understand that some runes are preferred and that there are conflicts as far as equipment positions, but useless?  You get 15 or so extra equipment slots with gems and that's a lot of opportunity to improve your stats - even if it's not "the best" rune at a given position.
+I have a really hard time with the idea that gems are useless. I understand that some runes are preferred and that there are conflicts as far as equipment positions, but useless? You get 15 or so extra equipment slots with gems and that's a lot of opportunity to improve your stats - even if it's not "the best" rune at a given position.
 
-That being said, there are some areas where we could look at making some stats more influential in gameplay, which would in turn make those gems more desirable.  Some of this has already been talked about in the forum and in private, but I would look at:
+That being said, there are some areas where we could look at making some stats more influential in gameplay, which would in turn make those gems more desirable. Some of this has already been talked about in the forum and in private, but I would look at:
 
 Saving Breath:
 
-I am investigating moving forward with migrating shifted breath weapons to new code that would use saving breath similarly to how saving spell is used on most damage spells.  This would make these gems more valuable since they could be used to attack rather than just in defense.  Saving poison could probably be enhanced in a similar fashion.
+I am investigating moving forward with migrating shifted breath weapons to new code that would use saving breath similarly to how saving spell is used on most damage spells. This would make these gems more valuable since they could be used to attack rather than just in defense. Saving poison could probably be enhanced in a similar fashion.
 
 Saving Petrification:
 
@@ -160,19 +160,19 @@ I'm really not sure what to do with this one - there seem to be very few spells 
 
 Charisma:
 
-It's been discussed on the forum before that charisma is really only used when singing an attack song.  It's been suggested to use it to increase/decrease the effects of other bard songs.  Usually in paper RPGs charisma modifies how many humanoid followers you could attract and their morale during combat but those aren't really things that Sloth provides.  
+It's been discussed on the forum before that charisma is really only used when singing an attack song. It's been suggested to use it to increase/decrease the effects of other bard songs. Usually in paper RPGs charisma modifies how many humanoid followers you could attract and their morale during combat but those aren't really things that Sloth provides. 
 
-The other gems on your list are connected with stats that I think are useful.  Some of them seem overpriced, IMHO.
+The other gems on your list are connected with stats that I think are useful. Some of them seem overpriced, IMHO.
 
 </div>
 
 <div class="post" data-post-id="38122" data-author="Filk" data-date="2017-03-17T18:04:05+00:00" data-subject="Re: &amp;quot;Useless&amp;quot; gems">
 
-Maybe simple gambling wouldnt hurt anything. Merge two gems and get another random gem of same tier. Sunk of gems that least valueble. And no real influence on gem economy because of sucky random :)
+Maybe simple gambling wouldnt hurt anything. Merge two gems and get another random gem of same tier. Sunk of gems that least valueble. And no real influence on gem economy because of sucky random <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Personally i think that most more then 50% of t1 gems are pointless atm. They do nothing good or there is better gem for same slot.
 
-Changing saving breath to improve forms breath skills sounds great. I also would like to confirm, if spell damage affects breath of forms, just to be sure :)
+Changing saving breath to improve forms breath skills sounds great. I also would like to confirm, if spell damage affects breath of forms, just to be sure <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Saving poison changes will not change anything now. Too few forms use it, and they are not top ones which will be maxed out by eq. It could work though, if some complex forms skills rebalance will happen adding poison breath effect to more of them.
 
@@ -216,7 +216,7 @@ Many thanks to Breeze for providing a gem trading mob the past two days, which a
 
 Personally, I traded 95 undesirable gems, which meant I had 19 random gems for the cost of 9.5m gold coins. From those 19 trades, 4 or 5 of these gems were more desirable. 
 
-Although it would seem expensive... 95 gems and 9.5m gold for 4 or 5 good gems, I can't say I have any regrets as those 95 gems just don't factor into my plans, or they were t1's where I know I will be able to get them back. There were some comments that trading 5 for 1 was expensive, but I note no one had an issue doing it when the chance was offered...  :lol: I suspect probably more than 1000 undesirable gems probably got traded over this time by everyone.
+Although it would seem expensive... 95 gems and 9.5m gold for 4 or 5 good gems, I can't say I have any regrets as those 95 gems just don't factor into my plans, or they were t1's where I know I will be able to get them back. There were some comments that trading 5 for 1 was expensive, but I note no one had an issue doing it when the chance was offered... <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> I suspect probably more than 1000 undesirable gems probably got traded over this time by everyone.
 
 Although most of us are "good" for another 3 months or so... I suspect we will find ourselves in a similar predicament in 3 months, once our bags of t1's have filled up again... which leads me to ask, could this gem trading mob be left permanently in game, or will this be rolled out at the whim of the imms occasionally? There will also be a few people who missed out this time around, and it's actually in our favor that these people also get a chance to trade in there gems, because it provides a better trading pool for the rest of us when they get more valuable gems that they don't want.
 
@@ -244,7 +244,7 @@ i am on my night shift schedule atm. i will probably do a day run in 2 weeks whe
 
 the recycle event will most likely not be a permanent thing (especially not at those rates)
 
-but i do plan on doing it again on occasion.  
+but i do plan on doing it again on occasion. 
 
 i suggest you don't bother the other imm's about it since its my test mob/code
 
@@ -272,7 +272,7 @@ Breeze tells you 'lol'
 
 And that was the end of our Friday business trade talk, Breeze was also kind enough to :
 
-# Trade a T1 rune for 3 T1 Gems. (This is to facilitate the 5 gem trade at Felicia)
+\# Trade a T1 rune for 3 T1 Gems. (This is to facilitate the 5 gem trade at Felicia)
 
 A metamorphic capricite gemstone shudders violently as it reforms into a 
 
@@ -406,7 +406,7 @@ No regrets, Hyrule was amazing.
 
 <div class="post" data-post-id="38149" data-author="*Breeze*" data-date="2017-03-25T07:49:12+00:00" data-subject="Re: &amp;quot;Useless&amp;quot; gems">
 
-> **Teron wrote:**
+> <strong>Teron wrote:</strong>
 > Agreed, though a fair trade for a t1 rune would be 5 t1 gems, which can in turn be traded for the capricite gem.
 > 
 > or a straight trade for the capricite gem.
@@ -421,10 +421,10 @@ If you can properly justify why there should be 5 and not 3 I will consider it, 
 
 <div class="post" data-post-id="38152" data-author="*Splork*" data-date="2017-03-25T23:26:02+00:00" data-subject="Re: &amp;quot;Useless&amp;quot; gems">
 
-> **Quote:**
+> <strong>Quote:</strong>
 > Some of us have many useless runes forged. Please let us trade runes to gems or gamble runes to gems.
 
-They are useful to someone, pass them down... :lol:
+They are useful to someone, pass them down... <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -432,13 +432,13 @@ They are useful to someone, pass them down... :lol:
 
 Breeze, I store t1 gems in runes, because:
 
-- there's plenty of them
+\- there's plenty of them
 
-- storing them in the drachma bag is pointless: it's too small to fit all the spares
+\- storing them in the drachma bag is pointless: it's too small to fit all the spares
 
-- storing them is easier in runes
+\- storing them is easier in runes
 
-- runes are how ppl actually use the gems.
+\- runes are how ppl actually use the gems.
 
 However, t1 runes aren't worth even a t2 gem, so for me it's not worth trading them in the game.
 
@@ -464,7 +464,7 @@ However, I'm puzzled how
 
 5 gems = 5 gems, but
 
-5 gems -> t1 rune = 3 gems.
+5 gems -\> t1 rune = 3 gems.
 
 I'd rather trade a rune for 3 gems, than spend drachma, thanks.
 
@@ -474,7 +474,7 @@ If it takes lots of effort for you to create rune-specific quests, send me the c
 
 <div class="post" data-post-id="38162" data-author="cyprimus" data-date="2017-03-27T15:35:23+00:00" data-subject="Re: &amp;quot;Useless&amp;quot; gems">
 
-Free kegs of beer?  
+Free kegs of beer? 
 
 Gimme!
 
@@ -482,7 +482,7 @@ Gimme!
 
 <div class="post" data-post-id="38163" data-author="Vegetable" data-date="2017-03-27T22:10:02+00:00" data-subject="Re: &amp;quot;Useless&amp;quot; gems">
 
-I think its fair on the 1 rune > 3 t1 gems trade thing as you won't get 100% of the value back for the item you sell to an npc anyway. Adding drachma to the trade would make drachma more valuable and perhaps make rebirth more attractive? I see this as another feature you can add to the mud, adding more valuable trade/exchange/maybe unsocket rune (:P) at a cost of some reasonable amount of drachma. 
+I think its fair on the 1 rune \> 3 t1 gems trade thing as you won't get 100% of the value back for the item you sell to an npc anyway. Adding drachma to the trade would make drachma more valuable and perhaps make rebirth more attractive? I see this as another feature you can add to the mud, adding more valuable trade/exchange/maybe unsocket rune (:P) at a cost of some reasonable amount of drachma. 
 
 PS: thanks for the gem trade. I am addicted to this gem gambling thing!
 
@@ -532,17 +532,17 @@ Thanks Breeze, 385 gems and about +50 runes traded today by my count (by everyon
 
 <div class="post" data-post-id="38205" data-author="Ezekiel" data-date="2017-04-03T02:24:24+00:00" data-subject="Re: &amp;quot;Useless&amp;quot; gems">
 
-Thanks for all the chances to trade in gems, Breeze. I think whatever you decide for trade-in will suffice and I'm glad we even get an opportunity to trade them in. I've heard this from many others also. Take the aforementioned 'suggestions' with a grain of salt. It's easy to see all that as disdain when that's all that's being posted... since those that are more than satisfied with current trade situation are not posting because...well, they ARE satsified and also too lazy to post. :P I'm usually in that camp, so figured I'd drop in for two cents. Thanks again for the effort.
+Thanks for all the chances to trade in gems, Breeze. I think whatever you decide for trade-in will suffice and I'm glad we even get an opportunity to trade them in. I've heard this from many others also. Take the aforementioned 'suggestions' with a grain of salt. It's easy to see all that as disdain when that's all that's being posted... since those that are more than satisfied with current trade situation are not posting because...well, they ARE satsified and also too lazy to post. <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom"> I'm usually in that camp, so figured I'd drop in for two cents. Thanks again for the effort.
 
--Zeke
+\-Zeke
 
 </div>
 
 <div class="post" data-post-id="38206" data-author="Teron" data-date="2017-04-03T13:02:16+00:00" data-subject="Re: &amp;quot;Useless&amp;quot; gems">
 
-Gorka, I've traded ~80 gems in the first day, 45 yesterday. I haven't seen more, than 5-7 ppl there, so I'd figure it's close to 500-700 gems in the first day. So your number of 5000 for 3 days is off. It's in the ballpark of 1200-1500 gems, including those from runes.
+Gorka, I've traded \~80 gems in the first day, 45 yesterday. I haven't seen more, than 5-7 ppl there, so I'd figure it's close to 500-700 gems in the first day. So your number of 5000 for 3 days is off. It's in the ballpark of 1200-1500 gems, including those from runes.
 
-Now, I'm considering to trade in "useless" t2 runes/gems that no one wants to trade.  However, knowing it's extra work, I'm not holding my breath.
+Now, I'm considering to trade in "useless" t2 runes/gems that no one wants to trade. However, knowing it's extra work, I'm not holding my breath.
 
 </div>
 

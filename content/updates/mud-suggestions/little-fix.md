@@ -12,7 +12,7 @@ post_count: 2
 
 <div class="post" data-post-id="2757" data-author="Viator" data-date="2004-11-10T19:49:58+00:00" data-subject="Little fix">
 
-<627hp 126ma 65mv>
+\<627hp 126ma 65mv\>
 
 A firenewt guard misses you with his claw.
 
@@ -32,6 +32,6 @@ You stagger but manage to keep your feet.
 
 <div class="post" data-post-id="2762" data-author="kjartan" data-date="2004-11-11T02:25:17+00:00" data-subject="">
 
-Thanks.  I'll fix that.
+Thanks. I'll fix that.
 
 </div>

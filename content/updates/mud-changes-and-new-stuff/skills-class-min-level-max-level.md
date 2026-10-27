@@ -14,7 +14,7 @@ post_count: 1
 
 Hi all ...
 
-Added parameters to the skills command.  Not really useful, since we dont have that many skills per class, done mainly to have consistency between spells and skills commands.  Thanks to Taliesin for the idea.
+Added parameters to the skills command. Not really useful, since we dont have that many skills per class, done mainly to have consistency between spells and skills commands. Thanks to Taliesin for the idea.
 
 Changes in next reboot.
 

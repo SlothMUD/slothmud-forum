@@ -26,8 +26,8 @@ You get gold coins from the corpse of a chubby eskimo that's on the ground.
 
 There were 46600 coins.
 
-46k gold two times in a row.  For those who are thinking about hitting chubby eskimo for coins.. 
+46k gold two times in a row. For those who are thinking about hitting chubby eskimo for coins.. 
 
--Toxis
+\-Toxis
 
 </div>

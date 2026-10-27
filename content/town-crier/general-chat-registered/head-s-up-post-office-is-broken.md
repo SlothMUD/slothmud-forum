@@ -14,7 +14,7 @@ post_count: 2
 
 post office is curently broken, ppl don't ship anything
 
-also imms plz look into it :)
+also imms plz look into it <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

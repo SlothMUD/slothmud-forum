@@ -24,9 +24,9 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: HEAL_BONUS by 3
+ Affects: HEAL\_BONUS by 3
 
-    Affects: REGEN_MANA by 2
+ Affects: REGEN\_MANA by 2
 
 Only those who are at least experienced magic users, clerics, druids,
 

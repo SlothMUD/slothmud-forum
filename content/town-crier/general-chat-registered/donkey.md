@@ -18,17 +18,17 @@ Ok.
 
 You are afflicted by an unknown strain of donkeyitis.
 
-***
+\*\*\*
 
 You suddenly have a feeling that everything is not right.
 
 score
 
-donkey black (null)  (level: 21)
+donkey black (null) (level: 21)
 
-Your levels:  
+Your levels: 
 
-You are 17 years old.  It's your birthday today!
+You are 17 years old. It's your birthday today!
 
 You are a citizen of UNDEFINED TOWN.
 
@@ -48,21 +48,21 @@ You have been playing for 0 days and 0 hours.
 
 You are standing.
 
-You are affected by the following spells:   None.
+You are affected by the following spells: None.
 
-***
+\*\*\*
 
 You suddenly feel very strange...
 
 You feel better.
 
-... The funniest thing to me is that seems all donkies by default worship to Jake  :twisted:
+... The funniest thing to me is that seems all donkies by default worship to Jake <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="16093" data-author="Autolycos" data-date="2007-01-08T15:15:06+00:00" data-subject="">
 
-Silly Jackass  :twisted:
+Silly Jackass <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

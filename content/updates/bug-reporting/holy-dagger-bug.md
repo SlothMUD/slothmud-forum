@@ -26,9 +26,9 @@ Damage Dice is '6D1'
 
 Can affect you as:
 
-    Affects: HITROLL by 3
+ Affects: HITROLL by 3
 
-    Affects: REGEN_MOVE by 2
+ Affects: REGEN\_MOVE by 2
 
 Shouldnt it be 6d2?
 

@@ -14,9 +14,9 @@ post_count: 2
 
 Two new commands:
 
-**email **=> Used to add an email to your character
+<strong>email</strong> \=\> Used to add an email to your character
 
-**wwwpass**=> Used to add a password to your character. This password is NOT for your GAME login but to login your character at the [http://www.slothmud.org](http://www.slothmud.org) website using the Login Box on the main page. 
+<strong>wwwpass</strong>\=\> Used to add a password to your character. This password is NOT for your GAME login but to login your character at the [http://www.slothmud.org](http://www.slothmud.org) website using the Login Box on the main page. 
 
 Please refer to the in-game helpfiles for any further information regarding these,
 
@@ -28,7 +28,7 @@ Splork
 
 Wwwpass is fixed now and should work as intended. We've been busy doing different things behind the scenes and cleaning things up and this got left behind. The feature is pretty nifty and gives you direct access to quite a bit of your character's in-game information. It is also configurable if I remember correctly...
 
-See Also:  EMAIL FINGER PRIVATE SETTINGS ICQ 
+See Also: EMAIL FINGER PRIVATE SETTINGS ICQ 
 
 Here is the helpfile:
 
@@ -50,7 +50,7 @@ specific information such as stats, titles, avatar pictures, possibly
 
 equipment and finished quests.
 
-** Please note, upon initial password setting or anytime you choose
+\*\* Please note, upon initial password setting or anytime you choose
 
 to change your password for the website, you will need to log off the game
 

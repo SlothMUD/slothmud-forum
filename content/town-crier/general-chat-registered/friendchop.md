@@ -28,9 +28,9 @@ my normal max hps in regen mode = 817hps
 
 i got 30hps from warcry, so i had 847 in battle when was chopped.
 
-as far as i know damage from friendchop = max_char_hit*2 + k ( k = ~ 19 ? )
+as far as i know damage from friendchop = max\_char\_hit\*2 + k ( k = \~ 19 ? )
 
-so damage was 847*2+19=1713 , since i was lit real damage was 1713/2=856.
+so damage was 847\*2+19=1713 , since i was lit real damage was 1713/2=856.
 
 in right way i should get 847-856 = -9 hps after firendchop
 
@@ -38,15 +38,15 @@ in real way i got 817-856 = -39 hps or so
 
 think no reason in warcry/supp/oath in chop groups till formula fixed.
 
-again, i rely upon old info. coders might just add more adrenalin in friendchop  :twisted:
+again, i rely upon old info. coders might just add more adrenalin in friendchop <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="12572" data-author="12345" data-date="2006-05-16T11:54:41+00:00" data-subject="">
 
-Chopping isn't my specialty, but in my limited experience, it depends on what they're weilding.  The weak choppers are the Spec and Claw, and if you're full and sanced, it's pretty common to survive those.  The Macu does a lot more damage and I don't think I've survived a hit from one yet.  My time spent chopping was all with Macus and they were always fatal, though I was in a couple of Mike's groups that frequently had people survived fratricide.
+Chopping isn't my specialty, but in my limited experience, it depends on what they're weilding. The weak choppers are the Spec and Claw, and if you're full and sanced, it's pretty common to survive those. The Macu does a lot more damage and I don't think I've survived a hit from one yet. My time spent chopping was all with Macus and they were always fatal, though I was in a couple of Mike's groups that frequently had people survived fratricide.
 
-If you were hit with a Macu, I'd call that normal.  From my fuzzy memory, it's possible to kill a mob in 6 procs with a Macu, it's roughly double with other choppers.  The higher friendly damage is a reflection of that.
+If you were hit with a Macu, I'd call that normal. From my fuzzy memory, it's possible to kill a mob in 6 procs with a Macu, it's roughly double with other choppers. The higher friendly damage is a reflection of that.
 
 Mike probably knows better than I though.
 
@@ -54,7 +54,7 @@ Mike probably knows better than I though.
 
 <div class="post" data-post-id="12573" data-author="Falsra" data-date="2006-05-16T17:02:31+00:00" data-subject="">
 
-yeah, seems 12345 right - macus rock!  :twisted:
+yeah, seems 12345 right - macus rock! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

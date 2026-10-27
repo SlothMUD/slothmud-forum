@@ -12,13 +12,13 @@ post_count: 6
 
 <div class="post" data-post-id="21776" data-author="Weasel" data-date="2007-12-23T05:55:17+00:00" data-subject="Merry Christmas">
 
-[img:1ebkk3r0]http://www.creativematch.co.uk/newsfiles/Bug.jpg[/img:1ebkk3r0]
+![](http://www.creativematch.co.uk/newsfiles/Bug.jpg)
 
 </div>
 
 <div class="post" data-post-id="21778" data-author="Alberich" data-date="2007-12-23T08:55:20+00:00" data-subject="">
 
-[img:3gh3sct0]http://home.earthlink.net/~althalus/images/doggie.jpg[/img:3gh3sct0]
+![](http://home.earthlink.net/~althalus/images/doggie.jpg)
 
 </div>
 
@@ -30,7 +30,8 @@ Even though real life is keeping me from being able to mud, I figured I'd still 
 
 <div class="post" data-post-id="21798" data-author="Tap" data-date="2007-12-26T16:59:57+00:00" data-subject="">
 
-[quote:2oxapkum]or for those of you who don't celebrate Christmas[/quote:2oxapkum]
+> <strong>Quote:</strong>
+> or for those of you who don't celebrate Christmas
 
 Not to be a sour puss, but no Christmas tree, Santa Clause, scatter and such
 
@@ -50,6 +51,6 @@ Mike
 
 <div class="post" data-post-id="21802" data-author="Blastem" data-date="2007-12-27T21:59:39+00:00" data-subject="">
 
-[img:30mu8emf]http://icanhascheezburger.files.wordpress.com/2007/12/funny-pictures-cat-christmas-present.jpg[/img:30mu8emf]
+![](http://icanhascheezburger.files.wordpress.com/2007/12/funny-pictures-cat-christmas-present.jpg)
 
 </div>

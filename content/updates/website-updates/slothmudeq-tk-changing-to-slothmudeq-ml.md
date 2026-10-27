@@ -26,7 +26,7 @@ Change your bookmarks, links and so on.
 
 Slothmudeq.tk will work up to 2020-05-19. After that only slothmudeq.ml will be on.
 
-If anybody still care for sure  :lol:
+If anybody still care for sure <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

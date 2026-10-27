@@ -16,7 +16,7 @@ i'd did the westwood and pirate cove raids but got nothing from them?
 
 you get honor for these or just for fun?
 
-brand :twisted:
+brand <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

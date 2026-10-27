@@ -18,7 +18,7 @@ You feel informed:
 
 Object 'rusty iron bracer', Item type: ARMOR
 
-Item is: **INVENTORY**
+Item is: \*\*INVENTORY\*\*
 
 Weight: 7, Value: 110000, Worn in: TAKE WRIST
 
@@ -26,7 +26,7 @@ AC-apply is -0.5
 
 Can affect you as:
 
-    Affects: CON by -1
+ Affects: CON by -1
 
 Only those who are at least supreme thieves or warriors may use this item.
 

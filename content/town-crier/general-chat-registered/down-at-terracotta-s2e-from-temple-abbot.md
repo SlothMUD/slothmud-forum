@@ -22,6 +22,6 @@ Alias and Weasel came....real Cool of them to respond fast to threads calling fo
 
 As such...I'll like to say ...
 
-THANKS WEASEL & ALIAS!!!
+THANKS WEASEL \& ALIAS!!!
 
 </div>

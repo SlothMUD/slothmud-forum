@@ -32,13 +32,13 @@ ok, after 16min, I finally am dead.. and still waiting and hoping for a raise.
 
 <div class="post" data-post-id="14068" data-author="Weasel" data-date="2006-09-16T06:52:21+00:00" data-subject="">
 
-Thanks Evergreen :)  just raised me in time!  20mins was a slow and painful near-death experience.
+Thanks Evergreen <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> just raised me in time! 20mins was a slow and painful near-death experience.
 
 </div>
 
 <div class="post" data-post-id="14073" data-author="Mace" data-date="2006-09-16T17:49:03+00:00" data-subject="">
 
-Ok.. just how did an avatar warrior die at the entrance to the mage guild? :)
+Ok.. just how did an avatar warrior die at the entrance to the mage guild? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -46,17 +46,17 @@ Ok.. just how did an avatar warrior die at the entrance to the mage guild? :)
 
 I'm sure it was his avatar that died:
 
-[40w 40m 40c 40t 40a] Weasel   ( O)(o )   =sMAc=
+[40w 40m 40c 40t 40a] Weasel ( O)(o ) =sMAc=
 
 and not his latest newbie:
 
-[ 8c  0d  0m  0b] Medico the Untitled
+[ 8c 0d 0m 0b] Medico the Untitled
 
 </div>
 
 <div class="post" data-post-id="14076" data-author="brady" data-date="2006-09-16T18:18:17+00:00" data-subject="">
 
-Suck it up and die like a man-weasel  :x
+Suck it up and die like a man-weasel <img src="/images/smilies/icon_mad.svg" alt=":x" title=":x" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -72,7 +72,7 @@ hehe
 
 Nods Krok, no worries about exp, but BH town mobs tend to loot like there's no tomorrow and they don't take their time doing it, and then someone else kills one of the mobs and inadvertantly claims looted eq and blah blah blah just a pain in the butt - easier to just hope for a heal (and later a raise), particularly when I was there for 20mins slowly dieing. 
 
-Force of habit too.. I tend to be a little adverse to death.  :twisted:
+Force of habit too.. I tend to be a little adverse to death. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -84,13 +84,13 @@ yeah, I understand that point, just didn't think 8prime char had something reall
 
 <div class="post" data-post-id="14093" data-author="12345" data-date="2006-09-16T23:30:31+00:00" data-subject="">
 
-More to the point, I think Weasel forgets that he has a level 40 avatar that can relocate and wipe out anything that might loot his lowbie corpse.  :wink:
+More to the point, I think Weasel forgets that he has a level 40 avatar that can relocate and wipe out anything that might loot his lowbie corpse. <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="14094" data-author="Krok" data-date="2006-09-17T00:28:57+00:00" data-subject="">
 
-*scared* what if he can't?! :)
+\*scared\* what if he can't?! :)
 
 </div>
 

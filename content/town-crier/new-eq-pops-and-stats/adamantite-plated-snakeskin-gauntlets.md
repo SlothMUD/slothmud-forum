@@ -14,15 +14,15 @@ post_count: 2
 
 The note for this item was missing a few lines so I decided to post those lines for you until the note is changed ingame.
 
-(Adamantite-plated Snakeskin Gauntlets) For the most impressive warriors from the ranks of Jord, gauntlets made of the strongest metal can be made. First, five handfuls of turquoise beads from an enlightened being.  Next, a sweet-scented stick from a haze that fills the halls, and a spool of golden threads. You will need to travel to the continent of Lyme and visit Kitzeh, and bring me a pair of gloves made of snakeskin.  Lastly, three chunks of onyx for the adamantite mold, beads of an ornate nature that can be worn upon ones wrist, and three spikes of metal. 
+(Adamantite-plated Snakeskin Gauntlets) For the most impressive warriors from the ranks of Jord, gauntlets made of the strongest metal can be made. First, five handfuls of turquoise beads from an enlightened being. Next, a sweet-scented stick from a haze that fills the halls, and a spool of golden threads. You will need to travel to the continent of Lyme and visit Kitzeh, and bring me a pair of gloves made of snakeskin. Lastly, three chunks of onyx for the adamantite mold, beads of an ornate nature that can be worn upon ones wrist, and three spikes of metal. 
 
 Bring me these items and I shall craft an item for any prime
 
 warrior who has attained supremacy in at least six classes.
 
--Shiva, the enlightened warrior.
+\-Shiva, the enlightened warrior.
 
--Pixie
+\-Pixie
 
 </div>
 

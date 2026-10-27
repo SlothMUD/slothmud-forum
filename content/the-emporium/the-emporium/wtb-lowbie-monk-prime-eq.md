@@ -14,7 +14,7 @@ post_count: 1
 
 Heya Folks,
 
-I've a bit of a wish list of lowbie stuff I'm looking to fill.  If anyone can help me out, please post here or catch me online.
+I've a bit of a wish list of lowbie stuff I'm looking to fill. If anyone can help me out, please post here or catch me online.
 
 Staff Of The Glass Dragon
 
@@ -42,7 +42,7 @@ Billowing Loop Of Clouds
 
 Steel Ribbed Pants or Silver Leg Plates
 
-Thanks in advance for any help you can give on this :)
+Thanks in advance for any help you can give on this <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Methyx
 

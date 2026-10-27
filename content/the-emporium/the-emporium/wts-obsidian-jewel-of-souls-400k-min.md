@@ -20,9 +20,9 @@ Weight: 5, Value: 285000, Worn in: TAKE HOLD
 
 Can affect you as:
 
-    Affects: HITPOINT by 15
+ Affects: HITPOINT by 15
 
-    Affects: MANA by 15
+ Affects: MANA by 15
 
 Only those who are at least adept magic users and also master clerics may 
 

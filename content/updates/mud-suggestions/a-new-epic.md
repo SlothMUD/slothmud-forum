@@ -52,7 +52,7 @@ Imm sets difficulty based on group content/size. Minimum group 15. Mob would be 
 
 <div class="post" data-post-id="34461" data-author="Yasik" data-date="2013-09-29T13:33:38+00:00" data-subject="Re: A new Epic">
 
-> **Popeye wrote:**
+> <strong>Popeye wrote:</strong>
 > Corpses would be chucked out somewhere for people to collect equip.
 
 Voice in my head whispers: transfer corpses to random rooms around the world.
@@ -77,7 +77,7 @@ What I would suggest is to tone down some of the already available epic mobs and
 
 P.S
 
-2012 saw a lot of cool quests, interesting ideas(My favorite - Splork's quest to slay every mob on the continent within a timeframe) and many other out of routine groups/events start to mid year and to the year end. 2013 has rather been slow and dry running up as of late compared to the last. We need to do something :)
+2012 saw a lot of cool quests, interesting ideas(My favorite - Splork's quest to slay every mob on the continent within a timeframe) and many other out of routine groups/events start to mid year and to the year end. 2013 has rather been slow and dry running up as of late compared to the last. We need to do something <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Dr
 
@@ -99,7 +99,7 @@ Activity is picking up, so who knows what will come.
 
 <div class="post" data-post-id="34466" data-author="Tuck" data-date="2013-10-04T16:56:58+00:00" data-subject="Re: A new Epic">
 
-> **Quote:**
+> <strong>Quote:</strong>
 > You end up with situations where two avatars are arguing over which one gets to solo a mob that's supposed to take a large group.
 
 how come? rofl

@@ -26,9 +26,9 @@ Both this page [http://www.slothmud.org/wp/the-world-of-slothmud](http://www.slo
 
 Update for Chessboard map since it was simplified at some point
 
-[Map_VK_Chessboard.png](https://raw.githubusercontent.com/wiki/CodeAndLoathing/mudlet-slothmud/images/Map_VK_Chessboard.png)
+[Map\_VK\_Chessboard.png](https://raw.githubusercontent.com/wiki/CodeAndLoathing/mudlet-slothmud/images/Map_VK_Chessboard.png)
 
-[Map_VK_Chessboard.pdf](https://raw.githubusercontent.com/wiki/CodeAndLoathing/mudlet-slothmud/images/Map_VK_Chessboard.pdf)
+[Map\_VK\_Chessboard.pdf](https://raw.githubusercontent.com/wiki/CodeAndLoathing/mudlet-slothmud/images/Map_VK_Chessboard.pdf)
 
 </div>
 
@@ -40,19 +40,19 @@ Thanks for your efforts, very beautiful map!
 
 <div class="post" data-post-id="39628" data-author="cnl" data-date="2020-12-03T20:14:49+00:00" data-subject="Re: Map submission email addresses don&#x27;t work">
 
-Smurf Village Map  :lol: 
+Smurf Village Map <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> 
 
-[Map_VK_SmurfVillage.png](https://raw.githubusercontent.com/wiki/CodeAndLoathing/mudlet-slothmud/images/Map_VK_SmurfVillage.png)
+[Map\_VK\_SmurfVillage.png](https://raw.githubusercontent.com/wiki/CodeAndLoathing/mudlet-slothmud/images/Map_VK_SmurfVillage.png)
 
-[Map_VK_SmurfVillage.pdf](https://raw.githubusercontent.com/wiki/CodeAndLoathing/mudlet-slothmud/images/Map_VK_SmurfVillage.pdf)
+[Map\_VK\_SmurfVillage.pdf](https://raw.githubusercontent.com/wiki/CodeAndLoathing/mudlet-slothmud/images/Map_VK_SmurfVillage.pdf)
 
 Run from recall: s3w2n3w3nw;pick branches;open branches;w;
 
 Variant of the maps translated from ancient smurf:
 
-[Map_VK_SmurfVillage_NonSmurfy.pdf](https://raw.githubusercontent.com/wiki/CodeAndLoathing/mudlet-slothmud/images/Map_VK_SmurfVillage_NonSmurfy.pdf)
+[Map\_VK\_SmurfVillage\_NonSmurfy.pdf](https://raw.githubusercontent.com/wiki/CodeAndLoathing/mudlet-slothmud/images/Map_VK_SmurfVillage_NonSmurfy.pdf)
 
-[Map_VK_SmurfVillage_NonSmurfy.png](https://raw.githubusercontent.com/wiki/CodeAndLoathing/mudlet-slothmud/images/Map_VK_SmurfVillage_NonSmurfy.png)
+[Map\_VK\_SmurfVillage\_NonSmurfy.png](https://raw.githubusercontent.com/wiki/CodeAndLoathing/mudlet-slothmud/images/Map_VK_SmurfVillage_NonSmurfy.png)
 
 </div>
 
@@ -60,7 +60,7 @@ Variant of the maps translated from ancient smurf:
 
 Draft map of ruins of gildebruun
 
-<LINK_TEXT text="https://raw.githubusercontent.com/wiki/ ... ebruun.png">https://raw.githubusercontent.com/wiki/CodeAndLoathing/mudlet-slothmud/images/Map_LY_Gildebruun.png</LINK_TEXT>
+https://raw.githubusercontent.com/wiki/CodeAndLoathing/mudlet-slothmud/images/Map_LY_Gildebruun.png
 
 run 1) .s5ed4enwu;open gate n;.n;open gate e;.ene3ne3n5wse2sw6s2w;open window s;s;open door s;.3s;open door s;.s2wn;
 
@@ -68,7 +68,7 @@ run 2) (same run, more fleeing!) s;flee e;d;flee e;n;w;up;open gate n;n;open gat
 
 EDIT: colorized
 
-<LINK_TEXT text="https://raw.githubusercontent.com/wiki/ ... bruun2.png">https://raw.githubusercontent.com/wiki/CodeAndLoathing/mudlet-slothmud/images/Map_LY_Gildebruun2.png</LINK_TEXT>
+https://raw.githubusercontent.com/wiki/CodeAndLoathing/mudlet-slothmud/images/Map_LY_Gildebruun2.png
 
 </div>
 
@@ -90,27 +90,27 @@ RUN: From Rakust scroll: .sed;jump river;flee s;d;flee s;flee w;d;flee s;flee w;
 
 Have fly and water breathe up.
 
-<LINK_TEXT text="https://raw.githubusercontent.com/wiki/ ... H_Seam.png">https://raw.githubusercontent.com/wiki/CodeAndLoathing/mudlet-slothmud/images/Map_AH_Seam.png</LINK_TEXT>
+https://raw.githubusercontent.com/wiki/CodeAndLoathing/mudlet-slothmud/images/Map_AH_Seam.png
 
-----------------------------------------------
+\----------------------------------------------
 
 Incomplete Rakust Map
 
-I don't know when I'll ever get around to filling it out, but here is a very incomplete map of Rakust if you want to see how it connects to Seam. <LINK_TEXT text="https://raw.githubusercontent.com/wiki/ ... Rakust.png">https://raw.githubusercontent.com/wiki/CodeAndLoathing/mudlet-slothmud/images/Map_AH_Rakust.png</LINK_TEXT>
+I don't know when I'll ever get around to filling it out, but here is a very incomplete map of Rakust if you want to see how it connects to Seam. https://raw.githubusercontent.com/wiki/CodeAndLoathing/mudlet-slothmud/images/Map_AH_Rakust.png
 
 RUNS to RAKUST
 
 Have fly and water breathe up.
 
-1) RUN from RECALL:
+1\) RUN from RECALL:
 
 flee e;flee s;.3w;flee s;flee w;.3wn;flee w;flee w;flee n;flee n;.w;flee n;.wne;flee n;flee d;flee n;.2s;flee e;flee n;flee e;flee d;flee n;flee u;flee n;flee down;.2w;flee n;.uwn;
 
-2) RUN from RECALL:
+2\) RUN from RECALL:
 
 .2w3s2e4s9wn11w9nw3nwne2n5d4n3enednun2d2w2nuwn
 
-3) recite plaid (from sly dwarven merchant)
+3\) recite plaid (from sly dwarven merchant)
 
 FROM RAKUST TO CARP (EPIC) -----------------------------------------------------
 
@@ -128,7 +128,7 @@ It does look like the .com variant of the wiki submission email is working now f
 
 Greetings
 
-I have updated the email address and sloth links in the Map Submissons wiki page to reflect the  *.com domains.
+I have updated the email address and sloth links in the Map Submissons wiki page to reflect the \*.com domains.
 
 Let me know if I missed something or something isn't working.
 
@@ -136,6 +136,6 @@ Hope that helps.
 
 Thanks.
 
--Neptune
+\-Neptune
 
 </div>

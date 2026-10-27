@@ -18,11 +18,11 @@ I already believe there is too much failure in sloth... spell drops, you recast 
 
 You may argue that 15% isn't bad... but do you realize most failures can accumulate? Take for example a deathgrip... 5% fail on the grip... 15% on barehanded accuracy... 15% on improved attack... 15% on crit hit and double attack. %15 on strike. It's not a true 15% failure rate, because skills work in conjunction with each other, and at some point they fail as well. It's actually RARE for everything to achieve total success, somewhere along the line there is nearly always a failure in one part that effects the outcome for you to do your optimum. But isn't this what the original dice is to decide? Not the fact a previous skill failed? Why are the failures accumulating?
 
-There is a fine line between being challenging, and just being a pain in the butt. As stupid as it is to compare sloth failure with real life... do you have 15% chance of stubbing your toe on the way to the car, 15% chance to slam your hand in the door, %15 chance to hit the letterbox on the way out, 15% to have an accident? And even is this is only a game and can not be compared with real life (fair enough...) - should avatar players not be rewarded with new abilities to cut failure and lag rates? Do you know what it's like to be in a hurry and have failed frenzy lag 3 times in a row, followed by kill lag, followed by web lag, followed by order lag? Does it really take 5+ seconds for a peri to report it's health? What am I doing during this time, building a contraption to allow it to talk about it's health? Taking a leak on a nearby tree? Writing a new rant on the crier... probably....  :twisted: 
+There is a fine line between being challenging, and just being a pain in the butt. As stupid as it is to compare sloth failure with real life... do you have 15% chance of stubbing your toe on the way to the car, 15% chance to slam your hand in the door, %15 chance to hit the letterbox on the way out, 15% to have an accident? And even is this is only a game and can not be compared with real life (fair enough...) - should avatar players not be rewarded with new abilities to cut failure and lag rates? Do you know what it's like to be in a hurry and have failed frenzy lag 3 times in a row, followed by kill lag, followed by web lag, followed by order lag? Does it really take 5+ seconds for a peri to report it's health? What am I doing during this time, building a contraption to allow it to talk about it's health? Taking a leak on a nearby tree? Writing a new rant on the crier... probably.... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 Don't you think we fail enough each run to not fail getting a healthy portion of the same reward as last time? Do you think it's acceptable that we fail and then are setup to fail at failing (No that's not a double negative)? Could lag and skill fails be lowered with new avatar skills similar to the effect of max int and wis and or avatar skills/spells? 
 
-Anyways, Please cast your vote. Watch where you click... Statistics show 15% will miss... unless you have greater mouse click... but it's known to fail as well!  :evil:
+Anyways, Please cast your vote. Watch where you click... Statistics show 15% will miss... unless you have greater mouse click... but it's known to fail as well! <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -48,14 +48,14 @@ Where is the increase penalty option ? This poll is biased
 
 <div class="post" data-post-id="31817" data-author="jezer" data-date="2010-10-06T05:34:57+00:00" data-subject="Re: Kill History">
 
-> **Cizin wrote:**
+> <strong>Cizin wrote:</strong>
 > i like it as it is.
 > 
 > 
 > 
 > What is next ? Mobs aging ? Better poprate ? ....
 
-Probably mobs hitting me while incap. How the heck do you not gain experience from bloodloss? Why am I no longer hungry after eating a few assorted nuts? Why don't the nuts have the ingredients and preservatives on the packet? Use your imagination.  :twisted: 
+Probably mobs hitting me while incap. How the heck do you not gain experience from bloodloss? Why am I no longer hungry after eating a few assorted nuts? Why don't the nuts have the ingredients and preservatives on the packet? Use your imagination. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 Start your own poll if you want a moron option Dragoth.
 
@@ -63,13 +63,13 @@ Start your own poll if you want a moron option Dragoth.
 
 <div class="post" data-post-id="31823" data-author="Thraxas" data-date="2010-10-06T17:10:32+00:00" data-subject="Re: Kill History">
 
-> **jezer wrote:**
+> <strong>jezer wrote:</strong>
 > The kill history and age xp system effects soloing by 30-50% on the second run. I personally want to say this is too harsh considering players still undergo the already far to healthy failure rate in nearly everything we do. I crunched some numbers last night.
 
-lost the will to carry on reading at this point  :roll: 
+lost the will to carry on reading at this point <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> 
 
-> **jezer wrote:**
-> ... but it's known to fail as well!  :evil:
+> <strong>jezer wrote:</strong>
+> ... but it's known to fail as well! <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 Sorry not going to vote cause I cant be arsed to read all your wall of text post, short concise point and an even handed poll and you'll get my opinion.
 
@@ -79,7 +79,7 @@ T
 
 <div class="post" data-post-id="31826" data-author="blackmore" data-date="2010-10-06T18:29:18+00:00" data-subject="Re: Kill History">
 
-You're confusing kill history with aged xp.  Kill a mob the first cycle after the mud reboots, then kill them again on repop and report how much of an affect kill history has on the run.
+You're confusing kill history with aged xp. Kill a mob the first cycle after the mud reboots, then kill them again on repop and report how much of an affect kill history has on the run.
 
 I really dislike kill history, mostly because my solo runs suck hard as it is, and making them worse is the last thing I need - but I can pretty much guarantee kill history alone doesn't drop the xp of mobs by that much on the 2nd run.
 
@@ -87,8 +87,8 @@ I really dislike kill history, mostly because my solo runs suck hard as it is, a
 
 <div class="post" data-post-id="31827" data-author="jezer" data-date="2010-10-06T18:47:24+00:00" data-subject="Re: Kill History">
 
-> **blackmore wrote:**
-> You're confusing kill history with aged xp.  Kill a mob the first cycle after the mud reboots, then kill them again on repop and report how much of an affect kill history has on the run.
+> <strong>blackmore wrote:</strong>
+> You're confusing kill history with aged xp. Kill a mob the first cycle after the mud reboots, then kill them again on repop and report how much of an affect kill history has on the run.
 > 
 > 
 > 
@@ -98,7 +98,7 @@ Nah Blackmore, I stated both kill history and age xp contribute, not just one. I
 
 I mean... if you want people to run other areas... why not make them worth running as they did with hive, under dark and others? I guess coding broad sweeping penalties is easier than making improvements. But why double them up? Bit dumb, ya think?
 
-The Quick Brown Fox Jumped Over The Lazy Dog! The Quick Brown Fox Jumped Over The Lazy Dog! The Quick Brown Fox Jumped Over The Lazy Dog! The Quick Brown Fox Jumped Over The Lazy Dog! The Quick Brown Fox Jumped Over The Lazy Dog! The Quick Brown Fox Jumped Over The Lazy Dog! The Quick Brown Fox Jumped Over The Lazy Dog! The Quick Brown Fox Jumped Over The Lazy Dog! The Quick Brown Fox Jumped Over The Lazy Dog! The Quick Brown Fox Jumped Over The Lazy Dog! The Quick Brown Fox Jumped Over The Lazy Dog! The Quick Brown Fox Jumped Over The Lazy Dog! The Quick Brown Fox Jumped Over The Lazy Dog! The Quick Brown Fox Jumped Over The Lazy Dog! The Quick Brown Fox Jumped Over The Lazy Dog! The Quick Brown Fox Jumped Over The Lazy Dog! The Quick Brown Fox Jumped Over The Lazy Dog! The Quick Brown Fox Jumped Over The Lazy Dog! The Quick Brown Fox Jumped Over The Lazy Dog! The Quick Brown Fox Jumped Over The Lazy Dog! The Quick Brown Fox Jumped Over The Lazy Dog! (Just confusing Thraxas with too much text - Hopefully this is enough) </COUNTERMEASURES>
+The Quick Brown Fox Jumped Over The Lazy Dog! The Quick Brown Fox Jumped Over The Lazy Dog! The Quick Brown Fox Jumped Over The Lazy Dog! The Quick Brown Fox Jumped Over The Lazy Dog! The Quick Brown Fox Jumped Over The Lazy Dog! The Quick Brown Fox Jumped Over The Lazy Dog! The Quick Brown Fox Jumped Over The Lazy Dog! The Quick Brown Fox Jumped Over The Lazy Dog! The Quick Brown Fox Jumped Over The Lazy Dog! The Quick Brown Fox Jumped Over The Lazy Dog! The Quick Brown Fox Jumped Over The Lazy Dog! The Quick Brown Fox Jumped Over The Lazy Dog! The Quick Brown Fox Jumped Over The Lazy Dog! The Quick Brown Fox Jumped Over The Lazy Dog! The Quick Brown Fox Jumped Over The Lazy Dog! The Quick Brown Fox Jumped Over The Lazy Dog! The Quick Brown Fox Jumped Over The Lazy Dog! The Quick Brown Fox Jumped Over The Lazy Dog! The Quick Brown Fox Jumped Over The Lazy Dog! The Quick Brown Fox Jumped Over The Lazy Dog! The Quick Brown Fox Jumped Over The Lazy Dog! (Just confusing Thraxas with too much text - Hopefully this is enough) \</COUNTERMEASURES\>
 
 </div>
 
@@ -116,13 +116,13 @@ Splork
 
 <div class="post" data-post-id="31831" data-author="jezer" data-date="2010-10-07T00:26:49+00:00" data-subject="Re: Kill History">
 
-I can not find the post anywhere. I thought it was actually Jake who posted it. I'm pretty sure it read that mob xp had been lowered, but as a counter, if the mob had been standing around longer it would actually be worth more. Does anyone else recollect that? So for example if a mob had just repopped 0.85 * XP or if it had been standing 1.15 * XP. Was it posted or gossiped?
+I can not find the post anywhere. I thought it was actually Jake who posted it. I'm pretty sure it read that mob xp had been lowered, but as a counter, if the mob had been standing around longer it would actually be worth more. Does anyone else recollect that? So for example if a mob had just repopped 0.85 \* XP or if it had been standing 1.15 \* XP. Was it posted or gossiped?
 
 </div>
 
 <div class="post" data-post-id="31832" data-author="*Splork*" data-date="2010-10-07T04:17:28+00:00" data-subject="Re: Kill History">
 
-Nobody will find the post and I am pretty sure will not remember the gossip( if there was one), as the initial change occurred  on May 6th of 1997 and was coded by Jake himself. The initial change only increased the experience points by 15%. Since then we have increased this several times and now aged exp can grow by nearly 50%.  
+Nobody will find the post and I am pretty sure will not remember the gossip( if there was one), as the initial change occurred on May 6th of 1997 and was coded by Jake himself. The initial change only increased the experience points by 15%. Since then we have increased this several times and now aged exp can grow by nearly 50%. 
 
 Splork
 
@@ -130,8 +130,8 @@ Splork
 
 <div class="post" data-post-id="31833" data-author="jezer" data-date="2010-10-07T06:19:37+00:00" data-subject="Re: Kill History">
 
-> ***Splork* wrote:**
-> Nobody will find the post and I am pretty sure will not remember the gossip( if there was one), as the initial change occurred  on May 6th of 1997 and was coded by Jake himself. The initial change only increased the experience points by 15%. Since then we have increased this several times and now aged exp can grow by nearly 50%.  
+> <strong>\*Splork\* wrote:</strong>
+> Nobody will find the post and I am pretty sure will not remember the gossip( if there was one), as the initial change occurred on May 6th of 1997 and was coded by Jake himself. The initial change only increased the experience points by 15%. Since then we have increased this several times and now aged exp can grow by nearly 50%. 
 > 
 > 
 > 
@@ -139,17 +139,17 @@ Splork
 
 So when you kill a brand new un-aged mob, it gives 100% of it's xp and no less... ?
 
-It's not how I remember it, but if I'm wrong on aged xp, I'm wrong. Target kill history! Why will nobody find the post? Did you delete it?  :twisted: I had a good look this morning, and I agree about the date, it was around this period where I was looking.
+It's not how I remember it, but if I'm wrong on aged xp, I'm wrong. Target kill history! Why will nobody find the post? Did you delete it? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> I had a good look this morning, and I agree about the date, it was around this period where I was looking.
 
-I distinctly remember the gasps when we learned mob xp was going to be lowered, but the *somewhat* relief when it was announced it would balance out if it was aged. My memory is normally pretty good on these things. I remember I was playing that day and heading to the catacombs... don't ask me how I remember that, but I do. Maybe it's my uneducatedness as you put it.  :wink: 
+I distinctly remember the gasps when we learned mob xp was going to be lowered, but the \*somewhat\* relief when it was announced it would balance out if it was aged. My memory is normally pretty good on these things. I remember I was playing that day and heading to the catacombs... don't ask me how I remember that, but I do. Maybe it's my uneducatedness as you put it. <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom"> 
 
-In any case so far... 40% think the 30-50% difference isn't fair. Of course ya gonna get the cizins and dragoths who don't agree cause they are so awesome and hardcore, good for them. Have you voted Splork?  :twisted: Are you one of the six?
+In any case so far... 40% think the 30-50% difference isn't fair. Of course ya gonna get the cizins and dragoths who don't agree cause they are so awesome and hardcore, good for them. Have you voted Splork? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> Are you one of the six?
 
 </div>
 
 <div class="post" data-post-id="31835" data-author="*Splork*" data-date="2010-10-07T14:06:25+00:00" data-subject="Re: Kill History">
 
-As I tell my two year old son, you can ask the same question 100 different ways, my answer is not going to change.  
+As I tell my two year old son, you can ask the same question 100 different ways, my answer is not going to change. 
 
 While you believe your memory is irreproachable, myself and many others will beg to disagree, especially since may of 1997 was the beginning/early stages of S3. The change was the wipe:)
 
@@ -165,7 +165,7 @@ Splork
 
 <div class="post" data-post-id="31836" data-author="Thraxas" data-date="2010-10-07T19:39:17+00:00" data-subject="Re: Kill History">
 
-> ***Splork* wrote:**
+> <strong>\*Splork\* wrote:</strong>
 > As I tell my two year old son, you can ask the same question 100 different ways, my answer is not going to change.
 
 and with that point the win goes to Splork! Congratulations!

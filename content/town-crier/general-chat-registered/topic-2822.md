@@ -18,7 +18,7 @@ post_count: 9
 
 <div class="post" data-post-id="24311" data-author="jezer" data-date="2008-05-13T03:00:24+00:00" data-subject="">
 
-It's semaphore... he's saying something rude about Jake! Pwipe him!  :twisted:
+It's semaphore... he's saying something rude about Jake! Pwipe him! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -36,7 +36,7 @@ all there is is consciousness.
 
 <div class="post" data-post-id="24314" data-author="jezer" data-date="2008-05-13T03:13:33+00:00" data-subject="">
 
-Teach me more master!  :twisted:
+Teach me more master! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -48,26 +48,27 @@ A huge green troll arrives from the north.
 
 <div class="post" data-post-id="24318" data-author="jezer" data-date="2008-05-13T05:01:57+00:00" data-subject="">
 
-A huge green troll arrives from the north.[/quote:2yl8k89k]
+> <strong>Yasik2 wrote:</strong>
+> A huge green troll arrives from the north.
 
-RUN!  :shock: It's Yasik!!!  :D
+RUN! <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> It's Yasik!!! <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="24321" data-author="Akasha" data-date="2008-05-13T05:31:29+00:00" data-subject="">
 
-[img:o5h9ahr2]http://i209.photobucket.com/albums/bb76/dbscott2034/Funnies/thanksfortheinfo1_2.jpg[/img:o5h9ahr2]
+![](http://i209.photobucket.com/albums/bb76/dbscott2034/Funnies/thanksfortheinfo1_2.jpg)
 
 </div>
 
 <div class="post" data-post-id="24323" data-author="jezer" data-date="2008-05-13T06:09:44+00:00" data-subject="">
 
-[img:1uelyza1]http://icanhascheezburger.files.wordpress.com/2008/01/funny-pictures-evil-raccoon.jpg[/img:1uelyza1]
+![](http://icanhascheezburger.files.wordpress.com/2008/01/funny-pictures-evil-raccoon.jpg)
 
 </div>
 
 <div class="post" data-post-id="24324" data-author="Yasik2" data-date="2008-05-13T06:21:47+00:00" data-subject="">
 
-[img:3b0bm57k]http://yasik.kiev.ua/4chan/O_BLAARGGAG.jpg[/img:3b0bm57k]
+![](http://yasik.kiev.ua/4chan/O_BLAARGGAG.jpg)
 
 </div>

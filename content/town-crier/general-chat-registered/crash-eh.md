@@ -30,7 +30,7 @@ oh my god there is this big crash and i just corpsed!! who knows about my eq?
 
 <div class="post" data-post-id="25337" data-author="jezer" data-date="2008-07-09T23:32:36+00:00" data-subject="">
 
-There is normally a big crash after I run JAVA.... whats the big deal?  :twisted:
+There is normally a big crash after I run JAVA.... whats the big deal? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -50,7 +50,7 @@ oh no.. all my eq in mansion.. this time
 
 It would be nice to have at least a semi warning. Proceed with caution. May crash at any time. Under construction.. Crashes are starting to gobble up eq..my royal dwarf emblem for instance.
 
-I'm done . Now to get another.:)
+I'm done . Now to get another.<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -68,12 +68,12 @@ Just checkin' but did we go down again?
 
 <div class="post" data-post-id="25357" data-author="Yinao" data-date="2008-07-12T05:02:33+00:00" data-subject="">
 
-yea, well, its not technically down, its locked up needs to be rebooted :)
+yea, well, its not technically down, its locked up needs to be rebooted <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="25358" data-author="Yinao" data-date="2008-07-12T05:42:15+00:00" data-subject="">
 
-Mud's up, rebooted :)
+Mud's up, rebooted <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

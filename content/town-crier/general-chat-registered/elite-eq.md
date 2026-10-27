@@ -14,7 +14,7 @@ post_count: 46
 
 I realize we haven't added to drachma shops in awhile. We are simply swamped atm. But, if I get a chance I will add some items if you guys suggest some that I like.
 
-Please email me or post ideas for new elite quest gear. Do NOT bother estimating drachma cost because I'll figure that out :twisted: 
+Please email me or post ideas for new elite quest gear. Do NOT bother estimating drachma cost because I'll figure that out <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 I need name of the equipement and any desirable stats or affects.
 
@@ -30,7 +30,7 @@ Thanks Splork... please consider this idea...
 
 I am a prime monk with 16 for strength as it is my 4th stat... yeah I know... own fault blah blah blah whinge whinge flame flame me.
 
-But I'd love to see more clasps and strength clasps!!! (aka I miss my oak leaf clusters!) Resist dam clasps, save clasps etc etc etc I'm sure nearly every caster is in this position. 3x40 eq has several piece's as +2 str, but it would be nice to have drachma options as well... heck in my case it would be nice just to have drachma! :)
+But I'd love to see more clasps and strength clasps!!! (aka I miss my oak leaf clusters!) Resist dam clasps, save clasps etc etc etc I'm sure nearly every caster is in this position. 3x40 eq has several piece's as +2 str, but it would be nice to have drachma options as well... heck in my case it would be nice just to have drachma! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 I think it is near impossible for me even with vigor to run str into the damage bonuses and keep a respectable ac without buying str stats at avartar.
 
@@ -40,7 +40,7 @@ I think it is near impossible for me even with vigor to run str into the damage 
 
 Clasps are pretty nice... would like to see some extra druid-shift friendly clasps.. Also not to nitpick but the unicorn hooves in weaver shops seemingly primed for druids isnt shift friendly.. maybe intentional but footwear shiftwear besides boots of forestwalker would be interesting hence clasp that might make regular piece of eq shifty would work
 
- 8)
+ <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -48,9 +48,9 @@ Clasps are pretty nice... would like to see some extra druid-shift friendly clas
 
 Shield of Smiting
 
--1.2 ac
+\-1.2 ac
 
-+5 weapon damage
+\+5 weapon damage
 
 3x40 Warrior
 
@@ -102,25 +102,27 @@ Cheers
 
 <div class="post" data-post-id="12068" data-author="Autolycos" data-date="2006-04-11T12:10:28+00:00" data-subject="Re: Everything must go!!">
 
-bah, i'm still waitin on some proc clasps that can be attached to weapons!
+> <strong>strider wrote:</strong>
+> bah, i'm still waitin on some proc clasps that can be attached to weapons!
+> 
+> who wouldn't love to add cold or fire proc to their fave hack and slash item.
+> 
+> and lets not forget the ever popular sanc-buster proc!! and don't even get
+> 
+> me started on the clasp for my dagger that adds another stab. someday.
+> 
+> that and when are the shops having that liquidation sale. all their current inventory must be sold! no down payment, low interest rates! everything must go!!!
 
-who wouldn't love to add cold or fire proc to their fave hack and slash item.
-
-and lets not forget the ever popular sanc-buster proc!! and don't even get
-
-me started on the clasp for my dagger that adds another stab. someday.
-
-that and when are the shops having that liquidation sale. all their current inventory must be sold! no down payment, low interest rates! everything must go!!![/quote:5021sfth]
-
-i would dump all my current drach eq in the pawn shop for a clasp like that, i mean the extra proc would be cool,  but that 3rd stab would be rockin.  would be a cool idea too if it would add another +2dam also  :twisted:
+i would dump all my current drach eq in the pawn shop for a clasp like that, i mean the extra proc would be cool, but that 3rd stab would be rockin. would be a cool idea too if it would add another +2dam also <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="12070" data-author="Mike" data-date="2006-04-11T12:51:23+00:00" data-subject="Re: Elite eq">
 
-but that 3rd stab would be rockin.  [/quote:2oy3e5qf]
+> <strong>Autolycos wrote:</strong>
+> but that 3rd stab would be rockin.
 
-Auto, you're certainly dont need this. Of course triple wiff would rock leader and newbies, and maybe will cause mob die of laughing, but it would be too much.  :twisted: 
+Auto, you're certainly dont need this. Of course triple wiff would rock leader and newbies, and maybe will cause mob die of laughing, but it would be too much. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 I would really love see some old items changed. Some just doubling ingame stuff and it's just silly spend drachma buying em. Some items have doubtful stats, like flail or kick dam. Why not change it to hps or maybe some mana. 
 
@@ -142,13 +144,13 @@ remove restrictions for an item.
 
 <div class="post" data-post-id="12072" data-author="12345" data-date="2006-04-11T13:22:22+00:00" data-subject="">
 
-Remove?  Would be funny to watch a Valker running around with a thunderbolt and vguards :)
+Remove? Would be funny to watch a Valker running around with a thunderbolt and vguards <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="12074" data-author="Hobbes" data-date="2006-04-11T13:55:14+00:00" data-subject="">
 
-Does spell bonus gear affect breathe weapons?  I've heard no, but I'm curious what items such as this are for if not:
+Does spell bonus gear affect breathe weapons? I've heard no, but I'm curious what items such as this are for if not:
 
 Silken Cuffs: +5 spell bonus, AdDr shapeshifts
 
@@ -158,9 +160,10 @@ The point being if spell bonus doesn't help shifted forms, so EQ that does would
 
 <div class="post" data-post-id="12085" data-author="Falsra" data-date="2006-04-13T09:52:06+00:00" data-subject="">
 
-Remove?  Would be funny to watch a Valker running around with a thunderbolt and vguards :)[/quote:1wxfhb0h]
+> <strong>12345 wrote:</strong>
+> Remove? Would be funny to watch a Valker running around with a thunderbolt and vguards <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-If a Valker managed to earn enough drachmas.. why not ? :)
+If a Valker managed to earn enough drachmas.. why not ? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 The same thing if a Lymer managed to earn enough xp tokens,
 
@@ -172,7 +175,7 @@ would bring us a lot of fun + wider choice of wearable items.
 
 The only hard thing to get is a right price for such chameleon token.
 
-As for me - 150dr is a right price :twisted:
+As for me - 150dr is a right price <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -180,13 +183,13 @@ As for me - 150dr is a right price :twisted:
 
 A couple of other shifty ideas:
 
-Clasp held high:  +10 mana, shapeshifts
+Clasp held high: +10 mana, shapeshifts
 
-Clasp wrist:  Memorize 1 druid spell, can use spell while shifted
+Clasp wrist: Memorize 1 druid spell, can use spell while shifted
 
-Sleeves:  +10 Mana, +3 Mana Reduction to maintain shifted forms. shapeshifts
+Sleeves: +10 Mana, +3 Mana Reduction to maintain shifted forms. shapeshifts
 
-Dragon Claws, hands:  +10 mana, poison proc, shifts
+Dragon Claws, hands: +10 mana, poison proc, shifts
 
 Also, shifting shield seems a bit overpriced compared to mirror of eternity and other shields, maybe boost stats to +10 or +15 mana, and +3 ma regen?
 
@@ -210,29 +213,29 @@ Plus make the token and the item personal once it's been changed to prevent peop
 
 More elite items means that we will need quite a few more autoquests to earn new drachma as most of them can only be done once...
 
--------------------------------------------------------
+\-------------------------------------------------------
 
-a brass buckle <attaches to waist>
+a brass buckle \<attaches to waist\>
 
-+1dam
+\+1dam
 
 SWa, STh, SMo, SCl Prime [OR] 4x40
 
--------------------------------------------------------
+\-------------------------------------------------------
 
 now theres a clasp boys and girls (its a stretch, but the world IS changing)
 
 Shazuko Roku Ryuu
 
-<Shazuko Six Dragons>
+\<Shazuko Six Dragons\>
 
-<~Chaos~>
+\<\~Chaos\~\>
 
 </div>
 
 <div class="post" data-post-id="12089" data-author="12345" data-date="2006-04-13T16:51:26+00:00" data-subject="">
 
-*scratches head*
+\*scratches head\*
 
 Yeah... there's a few things I don't understand about that, but SCl Prime? I'm curious when Clerics replaced Bards as a fighter type.
 
@@ -244,7 +247,7 @@ Actually, I'd kinda like to see something like this:
 
 Kjartan's Amulet, Held low, +10 HP/Mana/Move Regen
 
-A definate stretch, but doesn't even compare to the original :)
+A definate stretch, but doesn't even compare to the original <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -256,31 +259,34 @@ I think one of the top items could be 10ma 1mr leggings. I would also like to se
 
 <div class="post" data-post-id="12092" data-author="Autolycos" data-date="2006-04-13T21:02:09+00:00" data-subject="">
 
-Actually, I'd kinda like to see something like this:
-
-Kjartan's Amulet, Held low, +10 HP/Mana/Move Regen
-
-A definate stretch, but doesn't even compare to the original :)[/quote:qafcg5d0]
+> <strong>12345 wrote:</strong>
+> Actually, I'd kinda like to see something like this:
+> 
+> 
+> 
+> Kjartan's Amulet, Held low, +10 HP/Mana/Move Regen
+> 
+> 
+> 
+> A definate stretch, but doesn't even compare to the original <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 i was always thinking about.....
 
-[b:qafcg5d0]Guantlets of Clinking control - [/b:qafcg5d0] 0ac  +2 lost concentration, +3 miss hit
+<strong>Guantlets of Clinking control -</strong> 0ac +2 lost concentration, +3 miss hit
 
-[b:qafcg5d0]Shield of Yawning Splork - [/b:qafcg5d0] -0.2ac  +5 Resist Tells,  +lvl 46 wizinvis
+<strong>Shield of Yawning Splork -</strong> \-0.2ac +5 Resist Tells, +lvl 46 wizinvis
 
-[b:qafcg5d0]Shroud of Enea -  [/b:qafcg5d0]-1.2ac   Perma Resist Sobriety,  Perma ramble
+<strong>Shroud of Enea -</strong> \-1.2ac Perma Resist Sobriety, Perma ramble
 
- 
+<strong>Cloak of eternal Jake'ness -</strong> 0ac perma hide, perma afk
 
-[b:qafcg5d0]Cloak of eternal Jake'ness -[/b:qafcg5d0]  0ac   perma hide, perma afk
-
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="12094" data-author="Medios" data-date="2006-04-13T23:54:49+00:00" data-subject="">
 
-Lets try to have a serious post here, not some ignorance.  Here is what I have learned from my years playing sloth.  This is a generalization.  I would like to stimulate some better ideas here.
+Lets try to have a serious post here, not some ignorance. Here is what I have learned from my years playing sloth. This is a generalization. I would like to stimulate some better ideas here.
 
 low/med quest items usually have either .1 extra ac, a stat, some hp/mv/ma regen possibly, 5hp/ma etc.
 
@@ -288,17 +294,17 @@ high quest items have +dam, extra ac +hp, extra mana regen + mana
 
 new spelldam, healbonus, uc, charisma etc fogs it up but you can use your imagination.
 
-Shield of the rose is costly item because its 1mr on a slot where you cant get mr.  Boots of Forestwalker are the same basic idea.  Adding +1mr and maybe some mana to a item is gonna cost etc.  Kroks idea about leggings is what im talking about, no multiclass mr legs in game that I know.  Druids dont need anymore regen :P
+Shield of the rose is costly item because its 1mr on a slot where you cant get mr. Boots of Forestwalker are the same basic idea. Adding +1mr and maybe some mana to a item is gonna cost etc. Kroks idea about leggings is what im talking about, no multiclass mr legs in game that I know. Druids dont need anymore regen <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
-Same thing applies to dam, handdam,stabdam.  Shield of south ice and gaunts of mastery are examples, normal ac with gravy damage bonuses.  Monks win out in the shield division, 2 awesome shields.  The other shield was warrior prime until flail was changed, now its just warrior.  Shields for other classos would be cool.  Stabdam/circledam/weapon eq seems limited to gaunts and some other stuff that I dont see anyone buying.
+Same thing applies to dam, handdam,stabdam. Shield of south ice and gaunts of mastery are examples, normal ac with gravy damage bonuses. Monks win out in the shield division, 2 awesome shields. The other shield was warrior prime until flail was changed, now its just warrior. Shields for other classos would be cool. Stabdam/circledam/weapon eq seems limited to gaunts and some other stuff that I dont see anyone buying.
 
-From what I have seen of undead control gear its mostly made for an ac mode which I dont understand.  Most players change gear to animate, otherwise you would never be able to cap without a huge xp/elite eq expense.  
+From what I have seen of undead control gear its mostly made for an ac mode which I dont understand. Most players change gear to animate, otherwise you would never be able to cap without a huge xp/elite eq expense. 
 
-Spell/healbonus has some really cool items not sure how much work it needs.  Charisma gear is also well thought out, bards can easily get ac with the items.  
+Spell/healbonus has some really cool items not sure how much work it needs. Charisma gear is also well thought out, bards can easily get ac with the items. 
 
-That being said, think of eq that will actually benefit more than just yourself.  Heres a few starters.
+That being said, think of eq that will actually benefit more than just yourself. Heres a few starters.
 
-a cloak of vigor - .7 ac +1 str, 2hpreg  double-40
+a cloak of vigor - .7 ac +1 str, 2hpreg double-40
 
 Thalassasn Royal Gauntlets - 0.4ac +15hp , any exp noncaster
 
@@ -306,19 +312,19 @@ essence of the eternal flame - 2 mr +10spelldam, exp mage (low)
 
 Pauldrons of the Warlord - .9 15hp 2hp reg , adept avatar (shoulders)
 
-a black steel bracer - .4 15hp +1 saving_spell, Supreme any class
+a black steel bracer - .4 15hp +1 saving\_spell, Supreme any class
 
-Shield of the Widowmaker - 1.2 10hp 2weapon_dam Wa and novice avatar
+Shield of the Widowmaker - 1.2 10hp 2weapon\_dam Wa and novice avatar
 
 Wand of the Almighty - .6 ac 10healbonus 5 hp (low)
 
 sleeves of the undead lord - 1mr 2 uc Supreme Necro trip-40
 
-a pair of black spiked tabi - .4 +dam +10 stab_dam  Supreme Thief Exp Av
+a pair of black spiked tabi - .4 +dam +10 stab\_dam Supreme Thief Exp Av
 
-a set of glowing minstrel pouches - .5 ac 5hp 1 charisma Bard Tri-40 :P (waist)
+a set of glowing minstrel pouches - .5 ac 5hp 1 charisma Bard Tri-40 <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom"> (waist)
 
-Im burnt for the minute, lets toss some ideas around.  This is our game and if Splork wants feedback lets go on the offensive here.  Ill post some more later.
+Im burnt for the minute, lets toss some ideas around. This is our game and if Splork wants feedback lets go on the offensive here. Ill post some more later.
 
 Mike
 
@@ -326,13 +332,13 @@ Mike
 
 <div class="post" data-post-id="12096" data-author="Avatar" data-date="2006-04-14T00:25:45+00:00" data-subject="elite eq">
 
-I really like most of those ideas.  My input would be to make sure that the elite eq you ask for is something special.  Collecting dr should be something special, and when you finally save enough dr to buy an item, it should be something that helps.  Also, eq creeps over time.  There's no way around it, so we could plan for it.  As we ask for items, try to build in some room between the current in-game eq and the items we ask for.  You know the new imms that are building are going to soon be asking for eq approval.  For a nice item, they may try to ask for something that has a tiny bonus over top in-game item, or a decent bonus but including a negative side effect.  It would stink if they come up with an item they want, but the admin have to say "well, it's fine to have a helm with 3 hp over the in-game items, but we already have an elite item that's +3 and it's supposed to be the top of the line...declined".
+I really like most of those ideas. My input would be to make sure that the elite eq you ask for is something special. Collecting dr should be something special, and when you finally save enough dr to buy an item, it should be something that helps. Also, eq creeps over time. There's no way around it, so we could plan for it. As we ask for items, try to build in some room between the current in-game eq and the items we ask for. You know the new imms that are building are going to soon be asking for eq approval. For a nice item, they may try to ask for something that has a tiny bonus over top in-game item, or a decent bonus but including a negative side effect. It would stink if they come up with an item they want, but the admin have to say "well, it's fine to have a helm with 3 hp over the in-game items, but we already have an elite item that's +3 and it's supposed to be the top of the line...declined".
 
-I've always really liked the elite cloaks that went in early.  Very nice items, quite affordable, and there was some distance between the elite items and anything in-game.
+I've always really liked the elite cloaks that went in early. Very nice items, quite affordable, and there was some distance between the elite items and anything in-game.
 
-Clasps are quite nice also, as the bonus doesn't have to be massive for the clasp to be useful...since it adds to the eq worn.  I've always thought that a couple of matching ring clasps might be nice, depending on the effects.
+Clasps are quite nice also, as the bonus doesn't have to be massive for the clasp to be useful...since it adds to the eq worn. I've always thought that a couple of matching ring clasps might be nice, depending on the effects.
 
-Well, that's my input.  It's been awhile since I reviewed recent additions to the eqlist so I'd hesitate to recommend specific items at this point.  Maybe over the long weekend  :)
+Well, that's my input. It's been awhile since I reviewed recent additions to the eqlist so I'd hesitate to recommend specific items at this point. Maybe over the long weekend <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -346,11 +352,11 @@ better than ingame AC.
 
 I like an idea of -.9 guards and think it would be great to have
 
- :!: Battle Mithril Helm -1.4 +2hpregen 
+ <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom"> Battle Mithril Helm -1.4 +2hpregen 
 
- :!: Royal Ethereal Cloak -0.8 +10mana 
+ <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom"> Royal Ethereal Cloak -0.8 +10mana 
 
- :!: Battle Mithril Boots -0.6 -10moves
+ <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom"> Battle Mithril Boots -0.6 -10moves
 
 </div>
 
@@ -364,13 +370,13 @@ ya need somemore out of cap shit:)
 
 I have a suggestion everyone I've talked to is in favor of, I just don't have any creativity left after I leave work to come up with names, so I'll post here asking for help.
 
-An inv container item for sidhe charms and shards.  It would be nosteal and let you use charms while they're inside it, though you would still have to drop shards on the ground to sing.  It would hide those items from item counts when renting.  Unless I'm mistaken, this would make it a bard version of the thief poison bag.
+An inv container item for sidhe charms and shards. It would be nosteal and let you use charms while they're inside it, though you would still have to drop shards on the ground to sing. It would hide those items from item counts when renting. Unless I'm mistaken, this would make it a bard version of the thief poison bag.
 
 </div>
 
 <div class="post" data-post-id="12124" data-author="Ditheca" data-date="2006-04-17T18:55:19+00:00" data-subject="">
 
-Yeah, and how about one of those containers for food?  Can call it Gourmei's bag of munchies!
+Yeah, and how about one of those containers for food? Can call it Gourmei's bag of munchies!
 
 </div>
 
@@ -414,11 +420,11 @@ nod, maybe easier to just purchase a different item
 
 <div class="post" data-post-id="12131" data-author="Mosaix" data-date="2006-04-18T02:02:00+00:00" data-subject="">
 
-A handfull of players seem to be pushing the limits of Valk, or at least have built a valk char at some point in time.  It would be fun to see some gear and or clasps to buy for those style of chars.  Perhpas under level 30 or level 20 being the max level for this type of eq.
+A handfull of players seem to be pushing the limits of Valk, or at least have built a valk char at some point in time. It would be fun to see some gear and or clasps to buy for those style of chars. Perhpas under level 30 or level 20 being the max level for this type of eq.
 
-+dex, +con, +int etc style clasp.  Perm spells that either a valker could learn or some that a valker is too low to learn.  Even a +hp clasp.
+\+dex, +con, +int etc style clasp. Perm spells that either a valker could learn or some that a valker is too low to learn. Even a +hp clasp.
 
-Would enjoy seeing a set of guards say -.6ac +dex +10hps.  Again creating that with the thought that once you leave valk the eq cant be worn, but could be sold back to the shopkeeper for drachma.  If not the hps on those guards maybe some +moves or +mov regen.
+Would enjoy seeing a set of guards say -.6ac +dex +10hps. Again creating that with the thought that once you leave valk the eq cant be worn, but could be sold back to the shopkeeper for drachma. If not the hps on those guards maybe some +moves or +mov regen.
 
 Osaka
 
@@ -428,7 +434,7 @@ Osaka
 
 There's already a piece kinda like that which you can pick up with a little effort and a 20 Wa in classo:
 
-Spiked Panther Collar Dark Panther  Volcano -0.6 +5 Mv, -1 Ma Regen ET AdW [OR]
+Spiked Panther Collar Dark Panther Volcano -0.6 +5 Mv, -1 Ma Regen ET AdW [OR]
 
 2x of them are nice, or a collar and Holy Shroud for -1.4 on neck.
 
@@ -448,23 +454,23 @@ Problem is would have to only buy it back from the person who bought it or it wo
 
 <div class="post" data-post-id="12137" data-author="13" data-date="2006-04-18T12:15:50+00:00" data-subject="">
 
-Yeah I considered that.  If you try, you can get 250dr before level 10 I think.  Frito and I had it figured out, but I haven't looked in a while.
+Yeah I considered that. If you try, you can get 250dr before level 10 I think. Frito and I had it figured out, but I haven't looked in a while.
 
 </div>
 
 <div class="post" data-post-id="12139" data-author="Ditheca" data-date="2006-04-18T13:27:30+00:00" data-subject="">
 
-All drachma eq (with one exception) is Personal.  Additionally, non-Personal eq cannot be sold to the drachma dealers.  I don't think we'll need to worry too much about that.
+All drachma eq (with one exception) is Personal. Additionally, non-Personal eq cannot be sold to the drachma dealers. I don't think we'll need to worry too much about that.
 
 Yes, level 10 newbie can get 250 drachma.
 
-*NEWSFLASH* New drachma EQ spotted at Sir Faur!  Mm... +25 healbonus +25 spellbonus robe!  +3 charisma robe for nonprime bards!  Other stuffs I can't identify because I'm poor!  Go check it out!
+\*NEWSFLASH\* New drachma EQ spotted at Sir Faur! Mm... +25 healbonus +25 spellbonus robe! +3 charisma robe for nonprime bards! Other stuffs I can't identify because I'm poor! Go check it out!
 
 </div>
 
 <div class="post" data-post-id="12141" data-author="Grue" data-date="2006-04-18T19:50:49+00:00" data-subject="">
 
-Woot! I need to speak with you folks, I have never managed to get more than 80 at that level and then had to spend 30 on the register!!! :)
+Woot! I need to speak with you folks, I have never managed to get more than 80 at that level and then had to spend 30 on the register!!! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -484,7 +490,7 @@ Band of Melody .4ac +Wis +5hp +song proc??
 
 Even the Bard Autoprime is built for a tank style..
 
-Ivy Etched Shoulder Guards  .8ac +2cha +15hps
+Ivy Etched Shoulder Guards .8ac +2cha +15hps
 
 Anyway. It would be nice to see some more caster oriented Drachma eq, for those that don't wanna just max out the AC, and try to be a tank/singer.
 
@@ -500,27 +506,27 @@ something along those lines, to branch out a little bit into the 'caster' field 
 
 Sword of Four Elven Kings.
 
-has 4 procs based on each of the 'kings' or elements or the first 4 letters of my name... Calim (was that his name?) used to have a sword with 3 procs that was heavy bada$$ :P 
+has 4 procs based on each of the 'kings' or elements or the first 4 letters of my name... Calim (was that his name?) used to have a sword with 3 procs that was heavy bada$$ <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom"> 
 
 Defender Sword.
 
-sword with ac :evil: 
+sword with ac <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom"> 
 
 Dez Knuts.
 
-+cha belt clasp :twisted: 
+\+cha belt clasp <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 Supplicant Figurine
 
-rub figurine to call supplicant to you (nosteal?) :idea: 
+rub figurine to call supplicant to you (nosteal?) <img src="/images/smilies/icon_idea.svg" alt=":idea:" title=":idea:" width="15" height="15" class="smiley nozoom"> 
 
 divining stick
 
-for that attunement thing :!: 
+for that attunement thing <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom"> 
 
 Bracers of Brachiation
 
-swing from the trees like an ape man! :twisted:
+swing from the trees like an ape man! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -528,11 +534,11 @@ swing from the trees like an ape man! :twisted:
 
 Jockstrap of the Almighty
 
- - attaches to any leg eq
+ \- attaches to any leg eq
 
- - completely negates any kickdam aimed in your direction from angry mobs with feet or similarly used apendages. 
+ \- completely negates any kickdam aimed in your direction from angry mobs with feet or similarly used apendages. 
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -544,11 +550,12 @@ Would be nice to have elite clasps or eq that increase the grip or stab multipli
 
 <div class="post" data-post-id="12256" data-author="12345" data-date="2006-04-21T11:18:16+00:00" data-subject="">
 
-Sword of Four Elven Kings.
+> <strong>brand wrote:</strong>
+> Sword of Four Elven Kings.
+> 
+> has 4 procs based on each of the 'kings' or elements or the first 4 letters of my name... Calim (was that his name?) used to have a sword with 3 procs that was heavy bada$$ <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
-has 4 procs based on each of the 'kings' or elements or the first 4 letters of my name... Calim (was that his name?) used to have a sword with 3 procs that was heavy bada$$ :P [/quote:1wera7q8]
-
-The one Bertrun pops?  Randomly spellshields, random extra attack, random emerald beam and randomly burns your heand?
+The one Bertrun pops? Randomly spellshields, random extra attack, random emerald beam and randomly burns your heand?
 
 </div>
 

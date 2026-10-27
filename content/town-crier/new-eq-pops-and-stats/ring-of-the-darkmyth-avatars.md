@@ -14,7 +14,7 @@ post_count: 1
 
 won at quest - thanks!
 
-Object 'Ring Darkmyth Avatars quest high given_out', Item type: ARMOR
+Object 'Ring Darkmyth Avatars quest high given\_out', Item type: ARMOR
 
 Item is: MAGIC 
 
@@ -24,6 +24,6 @@ AC-apply is -0.4
 
 Can affect you as:
 
-    Affects: SPELL_BONUS by 10
+ Affects: SPELL\_BONUS by 10
 
 </div>

@@ -16,7 +16,7 @@ On the off chance anyone sees this in the next 20 minutes...
 
 i'm morted at morrigan in castle black, AH
 
-pls help  :cry:
+pls help <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

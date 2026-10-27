@@ -12,22 +12,22 @@ post_count: 2
 
 <div class="post" data-post-id="39803" data-author="Gorka" data-date="2021-09-01T05:45:48+00:00" data-subject="Bard Buffs">
 
-> **Quote:**
+> <strong>Quote:</strong>
 > For those of you who feel like your prime class needs balancing in some aspect of the game, feel free to post ideas on the forum (don't just criticize, because that's easy to do and helps nothing).
 
 I'd like to see...
 
-1) A weight 1 charm bag for shards / Ability to vault charms.
+1\) A weight 1 charm bag for shards / Ability to vault charms.
 
-2) Sidhe shard creation times cut dramatically for primes, as now days you can regen the shard effect faster than you can make the shards.
+2\) Sidhe shard creation times cut dramatically for primes, as now days you can regen the shard effect faster than you can make the shards.
 
-3) Bards able to sleep mobs greater than level 40.
+3\) Bards able to sleep mobs greater than level 40.
 
-4) Charisma worked into more of the Bard skills that don't use it. Eye of the beholder for instance, among others.
+4\) Charisma worked into more of the Bard skills that don't use it. Eye of the beholder for instance, among others.
 
-5) Perhaps some enhanced instruments that would play a specific song automatically for primes.
+5\) Perhaps some enhanced instruments that would play a specific song automatically for primes.
 
-6) Either a non area spell or special attack for bards using some sort of sonic damage.
+6\) Either a non area spell or special attack for bards using some sort of sonic damage.
 
 Slow incremental changes until a better balance is found.
 

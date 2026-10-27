@@ -20,7 +20,7 @@ thanks
 
 <div class="post" data-post-id="9227" data-author="Leaf" data-date="2005-10-27T15:39:24+00:00" data-subject="">
 
-Is it because Sloth is like cocaine and we need it?  Once we quit we 
+Is it because Sloth is like cocaine and we need it? Once we quit we 
 
 still crave it and come back to it, to feed are addiction?
 
@@ -38,7 +38,7 @@ Does this mean you're back?
 
 (again)
 
-:)
+<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

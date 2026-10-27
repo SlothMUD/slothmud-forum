@@ -50,9 +50,9 @@ Oh, and Trista has the boots of arcane lore (-0.4 +35hp) for 900 crackma.. for m
 
 <div class="post" data-post-id="18531" data-author="Autolycos" data-date="2007-05-18T12:39:06+00:00" data-subject="">
 
-I wouldn't mind seeing a bit of elite thiefy eqs as well.  Sure there are a lot of nice things... oh wait.. nevermind only 2-3  :shock: 
+I wouldn't mind seeing a bit of elite thiefy eqs as well. Sure there are a lot of nice things... oh wait.. nevermind only 2-3 <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
-A nice neck/shoulder alt for those of us who were not around for that weekly *shrug* :x  
+A nice neck/shoulder alt for those of us who were not around for that weekly \*shrug\* <img src="/images/smilies/icon_mad.svg" alt=":x" title=":x" width="15" height="15" class="smiley nozoom"> 
 
 maybe even body armor alts for the odd classo thiefs etc.
 
@@ -78,13 +78,13 @@ I think this is the first rant thread since the pthief issue. It's gotta be a ne
 
 <div class="post" data-post-id="18535" data-author="*Krom*" data-date="2007-05-18T13:23:40+00:00" data-subject="">
 
-I have been reviewing the drachma eq for a while, and the cost of the items vs. what they give over ingame eq at the level you could afford the item with drachma is not very consistant. I had decided to adjust some items a while back, but then got hung up on how much drachma could be obtained ingame through autoquests as a proportion to how much you should be able to afford.  
+I have been reviewing the drachma eq for a while, and the cost of the items vs. what they give over ingame eq at the level you could afford the item with drachma is not very consistant. I had decided to adjust some items a while back, but then got hung up on how much drachma could be obtained ingame through autoquests as a proportion to how much you should be able to afford. 
 
-I think we need to adjust existing items a bit before adding new ones.  I brought this up a with the admin group a while back, I just have not yet put together a proposal list of what changes to make and what items to add.
+I think we need to adjust existing items a bit before adding new ones. I brought this up a with the admin group a while back, I just have not yet put together a proposal list of what changes to make and what items to add.
 
-What would be helpful for me to do this is maybe get a summary of how much drachma a under 40 should be able to get, a 1x40, 2x40, and so on, and how much that is easy, hard, to very hard.  I know what I think these numbers are based on playing, but I would like to see some other opinions.
+What would be helpful for me to do this is maybe get a summary of how much drachma a under 40 should be able to get, a 1x40, 2x40, and so on, and how much that is easy, hard, to very hard. I know what I think these numbers are based on playing, but I would like to see some other opinions.
 
-Generally speaking, 125 drachma range should get you something that is a slight improvement over a good piece of ingame eq.  This could be some hp or some mana or some moves, or some regen in each of those areas.  It could also include something with  lower restricts than ingame eq, but be basically equivalent.  So if you say the base cost of the "base" item that could normally be obtained by an under 40 is 100 (but something like 500 for avatar obtained item like a thunderbolt) , there should be a defined cost after that for what each attribute (UC, stab dam, wp dam, dmg reduction, shiftable, mana, mr, etc...) is worth after that point.  This makes for more consistant pricing and a wider range of useful items.
+Generally speaking, 125 drachma range should get you something that is a slight improvement over a good piece of ingame eq. This could be some hp or some mana or some moves, or some regen in each of those areas. It could also include something with lower restricts than ingame eq, but be basically equivalent. So if you say the base cost of the "base" item that could normally be obtained by an under 40 is 100 (but something like 500 for avatar obtained item like a thunderbolt) , there should be a defined cost after that for what each attribute (UC, stab dam, wp dam, dmg reduction, shiftable, mana, mr, etc...) is worth after that point. This makes for more consistant pricing and a wider range of useful items.
 
 I'll work on it again,
 
@@ -94,7 +94,7 @@ Krom
 
 <div class="post" data-post-id="18536" data-author="Autolycos" data-date="2007-05-18T14:06:52+00:00" data-subject="">
 
-fantastic!  8)
+fantastic! <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -104,7 +104,7 @@ Thats sweet Krom.
 
 Even though I usually run up about 350 drachma, cause I R NEWBIE, and
 
-because I don't have time to Mud like I use too.  Seeing some new prices
+because I don't have time to Mud like I use too. Seeing some new prices
 
 would be nice.
 
@@ -112,7 +112,7 @@ would be nice.
 
 <div class="post" data-post-id="18543" data-author="Weasel" data-date="2007-05-19T07:35:21+00:00" data-subject="">
 
-Cheers, much appreciated :)
+Cheers, much appreciated <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -122,11 +122,11 @@ I appreciate you looking into this Krom.
 
 Some items are far overpriced, and others like the ring of goodness at 125dr, are priced ok, if a player wants to bypass building flaming serpent rings.
 
-Since it is nearly impossible  for clerics, mages, necros, and druids to get handed out quest eq during a run quest, please consider adding prime related quest eq to the shops so those who cant get quest eq during a normall quest, can save up drachma from quests, do autos and still attain good quest eq.
+Since it is nearly impossible for clerics, mages, necros, and druids to get handed out quest eq during a run quest, please consider adding prime related quest eq to the shops so those who cant get quest eq during a normall quest, can save up drachma from quests, do autos and still attain good quest eq.
 
 In general Id love to see other types of healbonus eq.
 
-The mud as a whole lacks good mana boots.  There is next to no quest eq for mana foot wear(do an eq search for fun).  Perhaps 10ma 5heal +3hit, or 10ma 1ma regen, or something like that.
+The mud as a whole lacks good mana boots. There is next to no quest eq for mana foot wear(do an eq search for fun). Perhaps 10ma 5heal +3hit, or 10ma 1ma regen, or something like that.
 
 Mosaix
 
@@ -134,9 +134,10 @@ Mosaix
 
 <div class="post" data-post-id="18545" data-author="brady" data-date="2007-05-19T13:35:34+00:00" data-subject="">
 
-The mud as a whole lacks good mana boots.  There is next to no quest eq for mana foot wear(do an eq search for fun).  Perhaps 10ma 5heal +3hit, or 10ma 1ma regen, or something like that.
-
-Mosaix[/quote:2rv379c7]
+> <strong>Mosaix wrote:</strong>
+> The mud as a whole lacks good mana boots. There is next to no quest eq for mana foot wear(do an eq search for fun). Perhaps 10ma 5heal +3hit, or 10ma 1ma regen, or something like that.
+> 
+> Mosaix
 
 or spell bonus...he's so selfish.
 
@@ -144,25 +145,26 @@ or spell bonus...he's so selfish.
 
 <div class="post" data-post-id="18546" data-author="Mosaix" data-date="2007-05-19T16:03:20+00:00" data-subject="">
 
-Hey of course spell bonus :) make up a suggestion for mages then :)
+Hey of course spell bonus <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> make up a suggestion for mages then <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-brady boots +10ma +70spelldam +1ma regen :)
+brady boots +10ma +70spelldam +1ma regen <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="18547" data-author="Autolycos" data-date="2007-05-19T16:26:26+00:00" data-subject="">
 
-brady boots +10ma +70spelldam +1ma regen :)[/quote:2gpech1k]
+> <strong>Mosaix wrote:</strong>
+> brady boots +10ma +70spelldam +1ma regen <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 actually... brady would have a spelldam shield, 
 
-embossed with the mug shot of Rosa Parks   :twisted:
+embossed with the mug shot of Rosa Parks <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="18548" data-author="13" data-date="2007-05-19T16:38:22+00:00" data-subject="">
 
-Good to hear Krom.   I'm pretty sure you can get around 300dr at level 10 and probably another 100 at 20prime.  I haven't calculated any further than that specifically but you might talk to Lis or Truth, they have a pretty good knowledge of autos and ingame drachma.
+Good to hear Krom. I'm pretty sure you can get around 300dr at level 10 and probably another 100 at 20prime. I haven't calculated any further than that specifically but you might talk to Lis or Truth, they have a pretty good knowledge of autos and ingame drachma.
 
 </div>
 
@@ -170,11 +172,11 @@ Good to hear Krom.   I'm pretty sure you can get around 300dr at level 10 and pr
 
 getting a level 20 to 300-400 drachma might be possible id have to go through my notes.
 
-However the work to get that done would be quite unrealistic.  You would be reaching the extreme maximum at 3-400.  Some of the autos to get you there would take a lot of time and group effort.  Possible yes, but maybe the number of people to do it could be counted on one hand.
+However the work to get that done would be quite unrealistic. You would be reaching the extreme maximum at 3-400. Some of the autos to get you there would take a lot of time and group effort. Possible yes, but maybe the number of people to do it could be counted on one hand.
 
 Id say for a level 20 150-200 would be a type of average most might take time to attain.
 
-After level 20 there are lots of autos including lyme that make is possible to reach just over 1000 with average to above average effort for the normal player.  Now if you mud 24/7 and have complete knowledge of the autos im sure its possible for a lot more when you have the time to stalk and hunt down autos all the time.
+After level 20 there are lots of autos including lyme that make is possible to reach just over 1000 with average to above average effort for the normal player. Now if you mud 24/7 and have complete knowledge of the autos im sure its possible for a lot more when you have the time to stalk and hunt down autos all the time.
 
 Mosaix
 
@@ -190,13 +192,13 @@ Though, there is alot of useless eq that is worse than ingame going for 666+ dra
 
 <div class="post" data-post-id="18554" data-author="Hades" data-date="2007-05-20T14:09:10+00:00" data-subject="drachma">
 
-Umm.. you can get over 400 drachma at level 8 if you do the autoquest that allow it.  Last count I believe it was 420 but it might be even more now.  And that's NOT using the drachma cheat before anyone decides to spam me.  There are several quest cheat sheets floating around in emails if you know who to ask.
+Umm.. you can get over 400 drachma at level 8 if you do the autoquest that allow it. Last count I believe it was 420 but it might be even more now. And that's NOT using the drachma cheat before anyone decides to spam me. There are several quest cheat sheets floating around in emails if you know who to ask.
 
 oh, I forgot...
 
 Got it!
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -218,27 +220,28 @@ How much do relic and that 1.3 +dex +2uc mask cost anyway?
 
 <div class="post" data-post-id="18559" data-author="brady" data-date="2007-05-20T21:08:10+00:00" data-subject="">
 
-How about some icy guards?
-
-How much do relic and that 1.3 +dex +2uc mask cost anyway?[/quote:1z24n2dq]
+> <strong>Messiaen wrote:</strong>
+> How about some icy guards?
+> 
+> How much do relic and that 1.3 +dex +2uc mask cost anyway?
 
 Guards are nice...anything with decent ac and spell bonus.
 
-I think the relice was around 950.  No idea how much the mask costs.
+I think the relice was around 950. No idea how much the mask costs.
 
 </div>
 
 <div class="post" data-post-id="18562" data-author="Jag" data-date="2007-05-21T00:59:18+00:00" data-subject="">
 
-I think the drachma estimates posted so far, are pretty far off for the average player.  I don't know how you guys can get that much drachma.  (Feel free to send me tells with lists of what I'm missing :)
+I think the drachma estimates posted so far, are pretty far off for the average player. I don't know how you guys can get that much drachma. (Feel free to send me tells with lists of what I'm missing <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-I've been around a couple of years, I keep a spread sheet of every quest I've completed as well as those I hear rumors about.  And people had been pretty generous in helping me with quests that I have been working on.  But I don't think I've even heard of quests that would provide half what you guys are talking about, much less be able to do them at a low level.  
+I've been around a couple of years, I keep a spread sheet of every quest I've completed as well as those I hear rumors about. And people had been pretty generous in helping me with quests that I have been working on. But I don't think I've even heard of quests that would provide half what you guys are talking about, much less be able to do them at a low level. 
 
 Hopefully Krom or whoever won't let a couple of tards that have been here since Sloth 1 set the standard for all players.
 
-For example:  There is some 74 or so vk drachma available and (IMO) well over half of it isn't do-able by a level 8 character.  Sure you can have higher level characters do it and have a level 8 take credit, but that isn't really doing the quest by a level 8 character.  
+For example: There is some 74 or so vk drachma available and (IMO) well over half of it isn't do-able by a level 8 character. Sure you can have higher level characters do it and have a level 8 take credit, but that isn't really doing the quest by a level 8 character. 
 
-Thanks Krom for looking at drachma situation!  The game just gets better all the time.
+Thanks Krom for looking at drachma situation! The game just gets better all the time.
 
 </div>
 
@@ -246,43 +249,52 @@ Thanks Krom for looking at drachma situation!  The game just gets better all the
 
 Anyone, please feel free to add details of autoquests to this thread:
 
-[url:xiku7rml]http://www.slothmud.org/index.php?name=PNphpBB2&file=viewforum&f=32[/url:xiku7rml]
+http://www.slothmud.org/index.php?name=PNphpBB2&file=viewforum&f=32
 
 Note the format used - just advise the initial quest mob and what is offered for completing the quest, and perhaps the degree of difficulty / approximate level of character (or group) required.
 
- :D
+ <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="18568" data-author="Messiaen" data-date="2007-05-21T10:39:05+00:00" data-subject="">
 
-I think the drachma estimates posted so far, are pretty far off for the average player. [/quote:3l1m1bgu]
+> <strong>Jag wrote:</strong>
+> I think the drachma estimates posted so far, are pretty far off for the average player.
 
 Thats the point. I think having average players get high elite eq would be lame.
 
-[quote:3l1m1bgu]I don't know how you guys can get that much drachma.[/qoute]
-
-A skilled player is able to get around 200 drachma on scatter.
-
-[quote:3l1m1bgu]Hopefully Krom or whoever won't let a couple of tards that have been here since Sloth 1 set the standard for all players.[/quote:3l1m1bgu][/quote:3l1m1bgu]
+> <strong>Quote:</strong>
+> I don't know how you guys can get that much drachma.[/qoute]
+> 
+> A skilled player is able to get around 200 drachma on scatter.
+> 
+> 
+> 
+> 
+> 
+> > <strong>Quote:</strong>
+> > Hopefully Krom or whoever won't let a couple of tards that have been here since Sloth 1 set the standard for all players.
 
 Drachma and autoquests appeared just a couple years ago.
 
-As a professional mage (*wink*) I think that drachma stuff is quite balanced. Though, some other classes need something useful to get for drachma too. Druids, for instance.
+As a professional mage (\*wink\*) I think that drachma stuff is quite balanced. Though, some other classes need something useful to get for drachma too. Druids, for instance.
 
 </div>
 
 <div class="post" data-post-id="18570" data-author="13" data-date="2007-05-21T12:47:47+00:00" data-subject="">
 
-You have to realize that the the thief stuff there is pretty silly too.  People won't give up good regular ingame dmg for something as paltry as stabdmg and/or circledmg, especially when you can just purchase it with XP tokens.
+You have to realize that the the thief stuff there is pretty silly too. People won't give up good regular ingame dmg for something as paltry as stabdmg and/or circledmg, especially when you can just purchase it with XP tokens.
 
 </div>
 
 <div class="post" data-post-id="18572" data-author="Autolycos" data-date="2007-05-21T12:49:28+00:00" data-subject="">
 
-I think the drachma estimates posted so far, are pretty far off for the average player. [/quote:2tlgc652]
+> <strong>Jag wrote:</strong>
+> I think the drachma estimates posted so far, are pretty far off for the average player.
 
-Thats the point. I think having average players get high elite eq would be lame.[/quote:2tlgc652]
+> <strong>Messiaen wrote:</strong>
+> Thats the point. I think having average players get high elite eq would be lame.
 
 exactly Messiaen..
 
@@ -290,13 +302,13 @@ elite eq.. the very name means..
 
 (they who get off their ass and work hard to attain it)
 
-If you want to be spoon fed things you deserve just because you said so... then find another mud.   
+If you want to be spoon fed things you deserve just because you said so... then find another mud. 
 
-I can say that because I currently have 1020drach and I have spent over 1400 on eq's, spellbooks etc since I started doing the aq's.   I try every aq I can find, I jump in all the quests and I most certainly go for scatters.  It has nothing to do with char size, ac, wtf ever.  It's all about motivation and dedication.
+I can say that because I currently have 1020drach and I have spent over 1400 on eq's, spellbooks etc since I started doing the aq's. I try every aq I can find, I jump in all the quests and I most certainly go for scatters. It has nothing to do with char size, ac, wtf ever. It's all about motivation and dedication.
 
-You want great eq?  FANTASTIC!  But drach eq has the same hard to love attributes as forges.
+You want great eq? FANTASTIC! But drach eq has the same hard to love attributes as forges.
 
-It will require hard work and endless hours cycling and hoping your in the right areas..  
+It will require hard work and endless hours cycling and hoping your in the right areas.. 
 
 so to all those who think prices are unfair, get up off your butt and work harder.
 
@@ -304,7 +316,7 @@ so to all those who think prices are unfair, get up off your butt and work harde
 
 <div class="post" data-post-id="18573" data-author="13" data-date="2007-05-21T13:26:15+00:00" data-subject="">
 
-I wasn't saying exactly that prices are unfair, just that the eq is pretty sucky in general.  But I guess any price for sucky eq is too high.  I would say use the robes as a good benchmark for pricing.  They are the standard shit that everyone gets at least one of.
+I wasn't saying exactly that prices are unfair, just that the eq is pretty sucky in general. But I guess any price for sucky eq is too high. I would say use the robes as a good benchmark for pricing. They are the standard shit that everyone gets at least one of.
 
 </div>
 
@@ -318,9 +330,9 @@ Splork
 
 <div class="post" data-post-id="18575" data-author="Avatar" data-date="2007-05-21T13:59:03+00:00" data-subject="Drachma">
 
-I don't think there's anything wrong with having some cheap robes in there.  The robes are nice because there's enough variety, everyone can find some robe that they like.
+I don't think there's anything wrong with having some cheap robes in there. The robes are nice because there's enough variety, everyone can find some robe that they like.
 
-I guess the imms need to decide A) how much dr should be given for a standard imm-sponsored quest then B) how many standard quests a mortal should see before she can buy a low / med / high quest eq.  
+I guess the imms need to decide A) how much dr should be given for a standard imm-sponsored quest then B) how many standard quests a mortal should see before she can buy a low / med / high quest eq. 
 
 Most casters will never get to choose an actual quest item during a quest, so drachma is a good way to reward players who didn't tank or lead.
 
@@ -344,21 +356,22 @@ Splork
 
 Building drachma eq would be sweet as hell and unquie to everyone.
 
-Would be hard for everyone to have the same eq then.  Each would be
+Would be hard for everyone to have the same eq then. Each would be
 
 for that specific char only...
 
 I guess cost would depend on were the eq would be on, neck, fingers,
 
-about body, shield ... would be kick ass!  Damn thiefs would go crazy for
+about body, shield ... would be kick ass! Damn thiefs would go crazy for
 
-building Dam on eq!  Well a Dam on Shield would be nice, Spiked Shield!
+building Dam on eq! Well a Dam on Shield would be nice, Spiked Shield!
 
 </div>
 
 <div class="post" data-post-id="18579" data-author="13" data-date="2007-05-21T16:01:39+00:00" data-subject="">
 
-[quote:2fmrrsii]Eventually I would like to see players able to build their own items. They would select a location, the affects, stats, name, etc and the weaver would build them their item. [/quote:2fmrrsii]
+> <strong>Quote:</strong>
+> Eventually I would like to see players able to build their own items. They would select a location, the affects, stats, name, etc and the weaver would build them their item.
 
 Fucking A!
 
@@ -370,19 +383,19 @@ yeah... i can see it now..
 
 you tell weaver 'can i get a quote on a +5dam shield -1.3ac! and make it black with a blue starfire design on it'
 
-weaver tells you '(north jersey accent)  sure bubs wez can make dat fer ya... but it'll cost 75,422 dracmaz'
+weaver tells you '(north jersey accent) sure bubs wez can make dat fer ya... but it'll cost 75,422 dracmaz'
 
 you tell weaver 'why so much?'
 
-weaver tells you 'wtf is yor f'n problem meathead? yaz askz.. I'z tellz yaz.  now pay up or Vinnie herez will give ya a thank you for visitin offa da east pier.'
+weaver tells you 'wtf is yor f'n problem meathead? yaz askz.. I'z tellz yaz. now pay up or Vinnie herez will give ya a thank you for visitin offa da east pier.'
 
-Quality costumer service!  :twisted:
+Quality costumer service! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="18581" data-author="12345" data-date="2007-05-21T21:06:59+00:00" data-subject="">
 
-Hmm. I have code that's designed to do exactly that...  Not geared for Sloth though.
+Hmm. I have code that's designed to do exactly that... Not geared for Sloth though.
 
 </div>
 
@@ -402,13 +415,14 @@ do they haz a corm?
 
 Weasel is using...
 
-<held low>  a corm.....it emmits a faint nibbling sound!
+\<held low\> a corm.....it emmits a faint nibbling sound!
 
 </div>
 
 <div class="post" data-post-id="18604" data-author="Thraxas" data-date="2007-05-23T13:26:14+00:00" data-subject="">
 
-an item that is max AC and takes up 1/4 or 1/3 of a players spell or heal bonus cap for close to nothing was a mistake:)[/quote:msg7zyxm]
+> <strong>\*Splork\* wrote:</strong>
+> an item that is max AC and takes up 1/4 or 1/3 of a players spell or heal bonus cap for close to nothing was a mistake:)
 
 I think theres a case for there to be good robes at a resonable 250dr cost, its something achievable for all chars. Why not leave these as they are, robes will then be the one item that pretty much everyone will spend drachma on, as they are now, and revamp the rest.
 
@@ -418,11 +432,11 @@ Yes if its so good it should be expensive and effort should be required ti get i
 
 Of the equipment available atm very little of it is actually of any use, perhaps if no-ones ever bought a particular item remove it from the shops now?
 
-I like the idea of custom build equipment, save up say 150dr* and now I can purchase a base -0.4 ring, but I can get just another 100dr* I can add some hp to it, or another 150dr* and its a -0.5 ring but extra hp is now 200dr*, its all small steps each step seeming achieveable rather than the big jump from 250 for a robe to 1200 for the next good item you want. 1200dr* is too daunting a prospect for me to even consider saving up for.
+I like the idea of custom build equipment, save up say 150dr\* and now I can purchase a base -0.4 ring, but I can get just another 100dr\* I can add some hp to it, or another 150dr\* and its a -0.5 ring but extra hp is now 200dr\*, its all small steps each step seeming achieveable rather than the big jump from 250 for a robe to 1200 for the next good item you want. 1200dr\* is too daunting a prospect for me to even consider saving up for.
 
-Are we thinking here of specify pay build recieve or being able to pay for an existing dr item to be upgraded as additional dr become available? Or even dr shop turns into eq stat shop, pay 200dr* to add 15hp to your greenish ring which also makes it personal.
+Are we thinking here of specify pay build recieve or being able to pay for an existing dr item to be upgraded as additional dr become available? Or even dr shop turns into eq stat shop, pay 200dr\* to add 15hp to your greenish ring which also makes it personal.
 
-(*Numbers are off the top off my head, I know they're not particularly realistic, just there to demonstate a point) 
+(\*Numbers are off the top off my head, I know they're not particularly realistic, just there to demonstate a point) 
 
 If its not too complicated to code perhaps the shopkeepers could make a special offer items every now and then maybe a random build at 2/3 the cost to build it yourself. This'd add the gamble of spending your dr on your own build or waiting for something to come up as a special that may be a good cheaper alternative.
 
@@ -446,13 +460,13 @@ I like the idea of using in-game eq and personalize it with drachma stats.
 
 I know there would be alot of Warriors adding +HP and +HR to their armor.
 
-Lets say 1000 Drachma to add 100hp 10hr to their 3x40 armor.  It would
+Lets say 1000 Drachma to add 100hp 10hr to their 3x40 armor. It would
 
 make any tank happy.
 
 Also in these cases Quest Eq can be givin to "casters" and drachma tokens
 
-can be giving to leaders and tanks.  So they can work up their eq for more
+can be giving to leaders and tanks. So they can work up their eq for more
 
 stats.
 
@@ -462,15 +476,15 @@ stats.
 
 Drachma robes....
 
-Unless im forgetting something the only drachma robes not "caster" related is the platinum robe, and that stab robe.  All the others are mana/heal/spell related.
+Unless im forgetting something the only drachma robes not "caster" related is the platinum robe, and that stab robe. All the others are mana/heal/spell related.
 
 Since "casters" cant/rarely get handed out quest eq, getting cheap/affordable drachma robes for doing autoquests seems quite fair compared to the work casters do in regular quests when they get nothing.
 
 Maybe make those robes so only caster primes can use them.
 
-Why does a tank with tert or quad mage deserve a spelldam robe for 250dr for.  Tank likely picked up some wicked quest eq in the last quest, and is also getting a cheap robe to fill out their spelldam in one item.(crystalline silk robe)
+Why does a tank with tert or quad mage deserve a spelldam robe for 250dr for. Tank likely picked up some wicked quest eq in the last quest, and is also getting a cheap robe to fill out their spelldam in one item.(crystalline silk robe)
 
-Make some caster (cleric, mage, druid, necro) prime drachma eq and balance the quest eq playing field.  Either that or make regular quests, and winning actual prizes a reality for casters.
+Make some caster (cleric, mage, druid, necro) prime drachma eq and balance the quest eq playing field. Either that or make regular quests, and winning actual prizes a reality for casters.
 
 Mosaix
 
@@ -500,7 +514,7 @@ just include the one they focus on
 
 waaah!
 
-what kind of crack are you on?  about the only tank that gets anything (assuming anyone gets anything special) is 1.tank, none of the 6-8 other tanks between the casters and death get anything more than the casters.  I mean, really, is it all that hard to pay attention and heal when it's needed?  or spam-blast?  not really.
+what kind of crack are you on? about the only tank that gets anything (assuming anyone gets anything special) is 1.tank, none of the 6-8 other tanks between the casters and death get anything more than the casters. I mean, really, is it all that hard to pay attention and heal when it's needed? or spam-blast? not really.
 
 instead of trying to get nerfs for others, maybe you ought to be trying to make your own situation better.
 
@@ -514,7 +528,7 @@ Nods.. 6+ years and I just got my first ever piece of quest eq, and that was bec
 
 <div class="post" data-post-id="18616" data-author="Hades" data-date="2007-05-24T10:34:57+00:00" data-subject="6 years x 17 bodyslots + &quot;x&quot; amount of quests">
 
-You've been slacking furboy :twisted:
+You've been slacking furboy <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -526,15 +540,15 @@ fear me.
 
 <div class="post" data-post-id="18626" data-author="Mosaix" data-date="2007-05-25T02:28:05+00:00" data-subject="">
 
-I dissapointed in your response roadrunner.  Id think a seasoned player would be able to process thoughts and ideas better than you attempted to.
+I dissapointed in your response roadrunner. Id think a seasoned player would be able to process thoughts and ideas better than you attempted to.
 
-How fair is it that after 13 years of sloth 2 and sloth 3, its takes a generous immortal to finally grant my pathetic healo ass a token of appreciation and give me a piece of quest eq.  Had the status quo been the order of the night, id have still not seen anything.  I wasnt even allowed to random for the piece i wanted, at least weasel got that chance.  The leader decided halfway through to change the rules, and award the best stuff to whomever he felt like, then went back to random again.  Id most definately like my slice of the pie, there are players on this game that have whole pies of quest eq.  Thats not acceptable.
+How fair is it that after 13 years of sloth 2 and sloth 3, its takes a generous immortal to finally grant my pathetic healo ass a token of appreciation and give me a piece of quest eq. Had the status quo been the order of the night, id have still not seen anything. I wasnt even allowed to random for the piece i wanted, at least weasel got that chance. The leader decided halfway through to change the rules, and award the best stuff to whomever he felt like, then went back to random again. Id most definately like my slice of the pie, there are players on this game that have whole pies of quest eq. Thats not acceptable.
 
-Ive been in pleanty of quests where its leader, 1.tank, 2.tank, runner, 3.tank, runner and then maybe levels.  And of course by the 2nd or 3rd award the good stuff is in fact gone.  
+Ive been in pleanty of quests where its leader, 1.tank, 2.tank, runner, 3.tank, runner and then maybe levels. And of course by the 2nd or 3rd award the good stuff is in fact gone. 
 
-All i was trying to say in this thread was the drachma robes that were caster related are just about right as those who dont lead or 1.tank see jack sh*t in most quests.  250dr is pretty fair considering all casters can really do is save up drachma to get good stuff in the shops.
+All i was trying to say in this thread was the drachma robes that were caster related are just about right as those who dont lead or 1.tank see jack sh\*t in most quests. 250dr is pretty fair considering all casters can really do is save up drachma to get good stuff in the shops.
 
-Since now according to Roadnofunner tanks dont even get quest eq.  Lets please work on why only leaders and 1.tanks get quest eq.  It takes a group to win a quest, not a 2-man team.  Award appropriately, and balance the field for the rest of those questing and purchasing drachma eq.  Again capping players at 2-3 handed out items would make some sense.  After that its time for another player to enjoy some quest eq.
+Since now according to Roadnofunner tanks dont even get quest eq. Lets please work on why only leaders and 1.tanks get quest eq. It takes a group to win a quest, not a 2-man team. Award appropriately, and balance the field for the rest of those questing and purchasing drachma eq. Again capping players at 2-3 handed out items would make some sense. After that its time for another player to enjoy some quest eq.
 
 Mosaix
 
@@ -542,7 +556,7 @@ Mosaix
 
 <div class="post" data-post-id="18627" data-author="12345" data-date="2007-05-25T02:49:07+00:00" data-subject="">
 
-Not to be over critical Mosaix, but you have offered your own solution a couple times.  If the leader and the tank are the ones that get the eq, why not lead?  Leader isn't a classo specific job.  I would hazard that after 13 years you know the game pretty well.
+Not to be over critical Mosaix, but you have offered your own solution a couple times. If the leader and the tank are the ones that get the eq, why not lead? Leader isn't a classo specific job. I would hazard that after 13 years you know the game pretty well.
 
 I offer the following on quest eq: I have no freaking idea. 
 
@@ -552,11 +566,14 @@ That's all I have to say about that.
 
 <div class="post" data-post-id="18628" data-author="Weasel" data-date="2007-05-25T05:56:59+00:00" data-subject="">
 
-I offer the following on quest eq: I have no freaking idea. 
+> <strong>12345 wrote:</strong>
+> I offer the following on quest eq: I have no freaking idea. 
+> 
+> 
+> 
+> That's all I have to say about that.
 
-That's all I have to say about that.[/quote:nb78jmdm]
-
-LOL good on ya, Forrest Gump.  :D
+LOL good on ya, Forrest Gump. <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -568,19 +585,20 @@ I say, wipe all the quest eq and reward only drachma.
 
 <div class="post" data-post-id="18630" data-author="Autolycos" data-date="2007-05-25T12:46:13+00:00" data-subject="">
 
-I say, wipe all the quest eq and reward only drachma. [/quote:iuu2uwmq]
+> <strong>Avatar wrote:</strong>
+> I say, wipe all the quest eq and reward only drachma.
 
-[b:iuu2uwmq]Charles....  don't make me stab you in the neck![/b:iuu2uwmq]   :x 
+<strong>Charles.... don't make me stab you in the neck!</strong> <img src="/images/smilies/icon_mad.svg" alt=":x" title=":x" width="15" height="15" class="smiley nozoom"> 
 
-How fair is it that after 13 years of sloth 2 and sloth 3, its takes a generous immortal to finally grant my pathetic healo ass a token of appreciation and give me a piece of quest eq. [/quote:iuu2uwmq]
+> <strong>Mosaix wrote:</strong>
+> How fair is it that after 13 years of sloth 2 and sloth 3, its takes a generous immortal to finally grant my pathetic healo ass a token of appreciation and give me a piece of quest eq.
 
-[b:iuu2uwmq]I understand that..  11yrs for me before I got my first piece of questy like that..  *scratches head*  but it might have something to do with the 12+ times I retired   [/b:iuu2uwmq] :shock: 
+<strong>I understand that.. 11yrs for me before I got my first piece of questy like that.. \*scratches head\* but it might have something to do with the 12+ times I retired</strong> <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
-All i was trying to say in this thread was the drachma robes that were caster related are just about right as those who dont lead or 1.tank see jack sh*t in most quests.  250dr is pretty fair considering all casters can really do is save up drachma to get good stuff in the shops.
+> <strong>Mosaix wrote:</strong>
+> All i was trying to say in this thread was the drachma robes that were caster related are just about right as those who dont lead or 1.tank see jack sh\*t in most quests. 250dr is pretty fair considering all casters can really do is save up drachma to get good stuff in the shops.
 
-[/quote:iuu2uwmq]
-
-[b:iuu2uwmq]Maybe discount (prime only) eq would be a good idea... only seems a good idea since there is a ton of prime only restricted eqs in game anyway[/b:iuu2uwmq]
+<strong>Maybe discount (prime only) eq would be a good idea... only seems a good idea since there is a ton of prime only restricted eqs in game anyway</strong>
 
 </div>
 
@@ -590,9 +608,9 @@ Mosaix has a point about quest eq only going to leaders/tanks, etc.
 
 The problem I see is due to the fact that 99.99999% of quests nowadays are just find the mob, spend 3 hrs trying to kill the mob, die 30 times in the process.
 
-I think quests with more interaction within the players, and also greater level of puzzle solving, participation, etc, would solve many problems.  However, this would create a new set of problems with ppl trying to be smart alecs in groups, jumpin the gun, etc.
+I think quests with more interaction within the players, and also greater level of puzzle solving, participation, etc, would solve many problems. However, this would create a new set of problems with ppl trying to be smart alecs in groups, jumpin the gun, etc.
 
-Why not have people bid for the quest prizes with the drachma they already have?  Stuff like Nekodes will prob never appear in the shops.  Handing such a piece of eq out is prob equivalent to rewarding someone 800 drachma in a quest.  So why not let people who want that piece of eq bid for it.  Of course people who don't have enough drachma would bitch that it rewards people with no life and too much time on their hands...but isn't that better than rewarding people who don't play at all?  Sure, some people would just join quests and do squat and just see if they could bid for some mighty eq with the 1500+ drachma on their char.  But every solution offered will create problems.
+Why not have people bid for the quest prizes with the drachma they already have? Stuff like Nekodes will prob never appear in the shops. Handing such a piece of eq out is prob equivalent to rewarding someone 800 drachma in a quest. So why not let people who want that piece of eq bid for it. Of course people who don't have enough drachma would bitch that it rewards people with no life and too much time on their hands...but isn't that better than rewarding people who don't play at all? Sure, some people would just join quests and do squat and just see if they could bid for some mighty eq with the 1500+ drachma on their char. But every solution offered will create problems.
 
 just my 2 cents
 
@@ -602,15 +620,15 @@ just my 2 cents
 
 you could be on the right track tho Al... 
 
-Brady mentioned something a little similar to me a while back involving a tiered drach system that would lay out based on functionality opposed to leader, 1. 2. etc.   It could be an advantage..  Say if leader and top 4 get questy eqs, then they might only get 10 drach (or none) as the others in group get 50+ etc etc for their efforts.
+Brady mentioned something a little similar to me a while back involving a tiered drach system that would lay out based on functionality opposed to leader, 1. 2. etc. It could be an advantage.. Say if leader and top 4 get questy eqs, then they might only get 10 drach (or none) as the others in group get 50+ etc etc for their efforts.
 
-That would at least start a balance of sorts..  This could be worth looking into.
+That would at least start a balance of sorts.. This could be worth looking into.
 
 </div>
 
 <div class="post" data-post-id="18635" data-author="Maniac" data-date="2007-05-25T14:58:20+00:00" data-subject="">
 
-One way to implement Gimlet's idea is to make the end-of-quest mobs (typically the mobs who tell the players where to go, what to do, etc) vendors with the quest eq sold for drachma.  The "reward" for each quest would be drachma, and then each player that participated in the quest has the option of buying from the vendor at the end of each quest.  I would probably setup the vendor such that buying form him would teleport you out of the room for good, so you can only buy 1 item from him.  This way each person can enter the quest with the knowledge that they may get something that is unique to the quest, and they have to bring their hard-earned drachma to get it.  
+One way to implement Gimlet's idea is to make the end-of-quest mobs (typically the mobs who tell the players where to go, what to do, etc) vendors with the quest eq sold for drachma. The "reward" for each quest would be drachma, and then each player that participated in the quest has the option of buying from the vendor at the end of each quest. I would probably setup the vendor such that buying form him would teleport you out of the room for good, so you can only buy 1 item from him. This way each person can enter the quest with the knowledge that they may get something that is unique to the quest, and they have to bring their hard-earned drachma to get it. 
 
 rob
 
@@ -624,13 +642,13 @@ I don't agree, sorry. By turning a quest into an auction, you've defeated the en
 
 <div class="post" data-post-id="18640" data-author="brady" data-date="2007-05-25T15:58:03+00:00" data-subject="">
 
-The only person, in my opinion, to deserve a free handout is the leader.  I don't have the patience to lead more than 4-5 people and even that takes work.  It's the tanks JOB to get his ass kicked.  Why is that so much more deserving of a reward?  There is a reason for tank xp, afterall.  
+The only person, in my opinion, to deserve a free handout is the leader. I don't have the patience to lead more than 4-5 people and even that takes work. It's the tanks JOB to get his ass kicked. Why is that so much more deserving of a reward? There is a reason for tank xp, afterall. 
 
-And actually my idea was sort of a medal based drachma reward system.  In a 60 person group like last time (and i don't remember the exact numbers I worked out) it would work something like this:
+And actually my idea was sort of a medal based drachma reward system. In a 60 person group like last time (and i don't remember the exact numbers I worked out) it would work something like this:
 
-Platinum  (leader)  maybe 5% of the total loot
+Platinum (leader) maybe 5% of the total loot
 
-Gold  (maybe top 10% of the group)
+Gold (maybe top 10% of the group)
 
 Siver and Bronze (pretty much level based)
 
@@ -666,15 +684,15 @@ oof, nice alignment...anyway.
 
 I also like the idea of putting a "limit" on how many quest eq a person can
 
-have.  Now I know this will cause some issues, as many ppl have many
+have. Now I know this will cause some issues, as many ppl have many
 
-many chars.  But there are logs that Imm keeps so adding to the Logs on
+many chars. But there are logs that Imm keeps so adding to the Logs on
 
-how many quest eq would be a far way.  I know there are plenty of 
+how many quest eq would be a far way. I know there are plenty of 
 
-quest eq that are vaulted and never used.  The "leaders/tanks" that have
+quest eq that are vaulted and never used. The "leaders/tanks" that have
 
-picked them won't even used them.  
+picked them won't even used them. 
 
 As for 12345 saying to "Lead" a quest group to get a chance of high quest
 
@@ -704,9 +722,10 @@ you could use mudl and have it trans you to a 2 room area with no way in our out
 
 <div class="post" data-post-id="18651" data-author="Rynquald" data-date="2007-05-25T22:52:22+00:00" data-subject="">
 
-[quote:2kl9ai11]if you want more fairness, make the mobs about the right size for a couple people to take down and if someone finds/is fighting the mob then its off limits for the rest and have a few different ones out there
-
-this rewards people who are willing to do the work and the thinking[/quote:2kl9ai11]
+> <strong>Quote:</strong>
+> if you want more fairness, make the mobs about the right size for a couple people to take down and if someone finds/is fighting the mob then its off limits for the rest and have a few different ones out there
+> 
+> this rewards people who are willing to do the work and the thinking
 
 Just thinking about that, perhaps the way quests themselves work has more potential to equate quest rewards with hard work/thinking than simply altering what happens after the quest.
 
@@ -714,7 +733,7 @@ A quest that ran with several smallish (maybe 4-5 man or so) groups, or even pla
 
 For example, in a quest with, say 50 people working alone (I realise disallowing groups would restrict newer player's ability to receive rewards other than drachma, but they're not likely to now anyway), the first 5-10 to find the solution could receive a pick from the usual bag of eq and stuff, then stepping down to drachma rewards as people completed, and possibly a small drachma reward at the end for everyone that participated and didn't find the solution.
 
-Also, encouraging players to work against each other as well as pre-existing constructs (I'm not talking by turning the mud into a pvp bloodbath here btw :)), could take a lot of load off the immortal running the quest, as there would be a lot of entertainment provided by the competition, which could allow a fundamentally simpler quest to take longer and be more challenging.
+Also, encouraging players to work against each other as well as pre-existing constructs (I'm not talking by turning the mud into a pvp bloodbath here btw <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">), could take a lot of load off the immortal running the quest, as there would be a lot of entertainment provided by the competition, which could allow a fundamentally simpler quest to take longer and be more challenging.
 
 Of course players with higher level characters and more experience would likely dominate the best rewards, but that's going to happen with any system that hands out rewards based on anything but a roll of the dice, and isn't necessarily a bad thing anyway.
 
@@ -722,19 +741,21 @@ Of course players with higher level characters and more experience would likely 
 
 <div class="post" data-post-id="18653" data-author="Gimlet" data-date="2007-05-26T01:42:56+00:00" data-subject="">
 
-I don't agree, sorry. By turning a quest into an auction, you've defeated the entire purpose of rewarding quest eq at the end of a quest - the key word there being 'reward'. End result: why would a tank sacrifice him/herself repeatedly when he.she can just cruise to the local crackma dealer and buy eq without having to die for it. Fine if you're not standing on in the front line getting your ass kicked though I suppose.[/quote:slpcm6lk]
+> <strong>Weasel wrote:</strong>
+> I don't agree, sorry. By turning a quest into an auction, you've defeated the entire purpose of rewarding quest eq at the end of a quest - the key word there being 'reward'. End result: why would a tank sacrifice him/herself repeatedly when he.she can just cruise to the local crackma dealer and buy eq without having to die for it. Fine if you're not standing on in the front line getting your ass kicked though I suppose.
 
-i've said this before, and i'll say it again.  I don't understand why someone deserves quest eq for simply dying.  Are tanks the only people who die in a quest anyway?  Do tanks get drachma for dying in xp groups or eq groups?
+i've said this before, and i'll say it again. I don't understand why someone deserves quest eq for simply dying. Are tanks the only people who die in a quest anyway? Do tanks get drachma for dying in xp groups or eq groups?
 
 Heck, if we're gonna reward quest eq for dying, then firebrand would be decked out in 100% high elite eq.
 
-prob 95% of the tanks out there simply turn on their triggers and sit back.  I've seen tanks tell stabbers to "sing after stab" because they don't have a stabber-rescue script.  I've seen tanks tell me to "sing" when i tell them to rescue me.  Let's not reward people for their classo/scripts.
+prob 95% of the tanks out there simply turn on their triggers and sit back. I've seen tanks tell stabbers to "sing after stab" because they don't have a stabber-rescue script. I've seen tanks tell me to "sing" when i tell them to rescue me. Let's not reward people for their classo/scripts.
 
 </div>
 
 <div class="post" data-post-id="18654" data-author="Weasel" data-date="2007-05-26T02:46:34+00:00" data-subject="">
 
-i've said this before, and i'll say it again.  I don't understand why someone deserves quest eq for simply dying.  Are tanks the only people who die in a quest anyway?  Do tanks get drachma for dying in xp groups or eq groups?[/quote:1eoirqz1]
+> <strong>Gimlet wrote:</strong>
+> i've said this before, and i'll say it again. I don't understand why someone deserves quest eq for simply dying. Are tanks the only people who die in a quest anyway? Do tanks get drachma for dying in xp groups or eq groups?
 
 Ok if you don't understand, I'll try to explain it for you - it's in part because of the cost of corpsing - 100+mil exp and the chance of much more via level loss is a significant cost that tanks risk paying so that the non-tanks don't. Pretty simple. Tanks are the first to die in a group. Others die after that because some botter at the end of the group is AFK so doesn't react in time with a CF stick, or else some winner can't figure out what a protect chain is. 
 
@@ -744,19 +765,18 @@ As far as triggers go, speaking for myself at least, it is not possible for any 
 
 Yes most tanks will tell people to sing for rescue as it's almost impossible to immediately spot by eye when groupies get dragged into direct fighting, even with concise etc, at least in a sizable group. Asking the stabber to sing for rescue after a stab is a bit silly though, particularly with stab lag being what it is.. unless their rescues failed - I usually spoam 3 x rescue just to be sure, but now and then a triple fail happens.. maybe that's what happened in the case you mention? Whatever, making the point of not being rewarded for scripts and triggers is definitely not a good arguement if you're trying to argue in favor of non-tanks - most tanks I'd imagine would find that amusing, really.
 
-Anyway you're all forgetting the real important point - casters smell funny.  :P
+Anyway you're all forgetting the real important point - casters smell funny. <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="18655" data-author="Weasel" data-date="2007-05-26T02:56:52+00:00" data-subject="">
 
-Do tanks get drachma for dying in xp groups or eq groups?
-
-[/quote:154snubg]
+> <strong>Gimlet wrote:</strong>
+> Do tanks get drachma for dying in xp groups or eq groups?
 
 LOL I almost missed that line. Just so you know, nobody gets drachma for dying in xp groups or eq groups, yet tanks still get killed first there as well! Thanks for mentioning it though - looks like another reason to reward tanks in quests to me.. hehe 
 
-  :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -774,11 +794,11 @@ so does that mean if I ( a caster) dies/shocks/losses xp more than the tank, the
 
 any mudder with half a brain cell can stand in front of a group and die, it doesn't take much skill. 
 
-I'm not saying they shouldn't be reward for being willing to risk their xp.  But to say that every tank deserves a quest eq, that's stretching it a little bit.  
+I'm not saying they shouldn't be reward for being willing to risk their xp. But to say that every tank deserves a quest eq, that's stretching it a little bit. 
 
-I would have no qualms about rewarding them prob extra 20-50 drachma.  But like i said, rewarding a piece of quest eq that is prob worth 600-1000 drachma range just because they tanked, that is BS.
+I would have no qualms about rewarding them prob extra 20-50 drachma. But like i said, rewarding a piece of quest eq that is prob worth 600-1000 drachma range just because they tanked, that is BS.
 
-When was teh last time u were in a quest?  With quest mobs nowadays capable of taking out half the group in a round, it doesn't take much for people other than a tank to die.
+When was teh last time u were in a quest? With quest mobs nowadays capable of taking out half the group in a round, it doesn't take much for people other than a tank to die.
 
 </div>
 
@@ -790,23 +810,27 @@ Weasel is a tank?
 
 <div class="post" data-post-id="18660" data-author="Weasel" data-date="2007-05-26T15:47:41+00:00" data-subject="">
 
-Weasel is a tank?[/quote:2yodpggy]
+> <strong>brady wrote:</strong>
+> Weasel is a tank?
 
-Brady, it's a vicious lie I tell you!  :twisted: 
+Brady, it's a vicious lie I tell you! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-...any mudder with half a brain cell can stand in front of a group and die, it doesn't take much skill. 
+> <strong>Gimlet wrote:</strong>
+> ...any mudder with half a brain cell can stand in front of a group and die, it doesn't take much skill. 
+> 
+> 
+> 
+> I'm not saying they shouldn't be reward for being willing to risk their xp. But to say that every tank deserves a quest eq, that's stretching it a little bit. I would have no qualms about rewarding them prob extra 20-50 drachma. But like i said, rewarding a piece of quest eq that is prob worth 600-1000 drachma range just because they tanked, that is BS.
 
-I'm not saying they shouldn't be reward for being willing to risk their xp.  But to say that every tank deserves a quest eq, that's stretching it a little bit. I would have no qualms about rewarding them prob extra 20-50 drachma.  But like i said, rewarding a piece of quest eq that is prob worth 600-1000 drachma range just because they tanked, that is BS.[/quote:2yodpggy]
+Any mudder with quarter of a brain cell can stand a few spots behind a tank and spam 'heal tank', it doesn't take any skill... but still it appears to be a problem for some. bwahahaha. 
 
-Any mudder with quarter of a brain cell can stand a few spots behind a tank and spam 'heal tank', it doesn't take any skill... but still it appears to be a problem for some.  bwahahaha. 
-
-And no, quest eq does not always go to the tank - leader yes, but tank does not always follow - ask around many of the tanks if you don't believe me. I played a cleric prime for a while and got bored sh*tless in groups just waiting for my turn to toss a few heals.. tanking is waaay more involved. You should try it some time, if you haven't already.
+And no, quest eq does not always go to the tank - leader yes, but tank does not always follow - ask around many of the tanks if you don't believe me. I played a cleric prime for a while and got bored sh\*tless in groups just waiting for my turn to toss a few heals.. tanking is waaay more involved. You should try it some time, if you haven't already.
 
 In my experience in quests, the leader usually gets first priority, and after that if there's someone who stands out for something like solving a lot of the riddles in a quest or finding the mobs etc, they often get the second shot at quest eq (if there's more than one piece, which is very rare), and then the tank after that - it depends on how the quest played out (and btw, yes, I was in the most recent main quest plus one of the minis, since you asked).
 
 You do concede that tanks deserve some additional drachma for their job though Gimlet. Now if the leader gets a piece of quest eq and there's still one more piece available and no individual stood out for doing anything particularly special, then by your own admission tanks should be the next choice. That is often exactly what happens. I think you just shot yourself in the foot. DOH!
 
- :twisted: 
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 We're all kind of missing the point though - quests really should be valued for the quest itself rather than some piece of eq at the end - that's just a bonus.. but a damn nice one if you're lucky enough to get it.
 
@@ -814,37 +838,48 @@ We're all kind of missing the point though - quests really should be valued for 
 
 <div class="post" data-post-id="18661" data-author="13" data-date="2007-05-26T15:56:56+00:00" data-subject="">
 
-Keith I considered putting a bit (npi) in about players competing vs. each other for the eq, but realized that wouldn't work.  It would just be a bunch of crying like it is now, only about different stuff.  
+Keith I considered putting a bit (npi) in about players competing vs. each other for the eq, but realized that wouldn't work. It would just be a bunch of crying like it is now, only about different stuff. 
 
-A small team, 2-4, usually being friends/clannies will know within themselves who is deserving among their tiny group and probably act accordingly.   At very least there would only be 3 other people to random against instead of 30 cheating crying sacks of trash.
+A small team, 2-4, usually being friends/clannies will know within themselves who is deserving among their tiny group and probably act accordingly. At very least there would only be 3 other people to random against instead of 30 cheating crying sacks of trash.
 
 </div>
 
 <div class="post" data-post-id="18662" data-author="Roadrunr" data-date="2007-05-26T16:21:53+00:00" data-subject="">
 
-I dissapointed in your response roadrunner.  Id think a seasoned player would be able to process thoughts and ideas better than you attempted to.
+> <strong>Mosaix wrote:</strong>
+> I dissapointed in your response roadrunner. Id think a seasoned player would be able to process thoughts and ideas better than you attempted to.
+> 
+> 
+> 
+> How fair is it that after 13 years of sloth 2 and sloth 3, its takes a generous immortal to finally grant my pathetic healo ass a token of appreciation and give me a piece of quest eq. Had the status quo been the order of the night, id have still not seen anything. I wasnt even allowed to random for the piece i wanted, at least weasel got that chance. The leader decided halfway through to change the rules, and award the best stuff to whomever he felt like, then went back to random again. Id most definately like my slice of the pie, there are players on this game that have whole pies of quest eq. Thats not acceptable.
+> 
+> 
+> 
+> Ive been in pleanty of quests where its leader, 1.tank, 2.tank, runner, 3.tank, runner and then maybe levels. And of course by the 2nd or 3rd award the good stuff is in fact gone. 
+> 
+> 
+> 
+> All i was trying to say in this thread was the drachma robes that were caster related are just about right as those who dont lead or 1.tank see jack sh\*t in most quests. 250dr is pretty fair considering all casters can really do is save up drachma to get good stuff in the shops.
+> 
+> 
+> 
+> Since now according to Roadnofunner tanks dont even get quest eq. Lets please work on why only leaders and 1.tanks get quest eq. It takes a group to win a quest, not a 2-man team. Award appropriately, and balance the field for the rest of those questing and purchasing drachma eq. Again capping players at 2-3 handed out items would make some sense. After that its time for another player to enjoy some quest eq.
+> 
+> 
+> 
+> Mosaix
 
-How fair is it that after 13 years of sloth 2 and sloth 3, its takes a generous immortal to finally grant my pathetic healo ass a token of appreciation and give me a piece of quest eq.  Had the status quo been the order of the night, id have still not seen anything.  I wasnt even allowed to random for the piece i wanted, at least weasel got that chance.  The leader decided halfway through to change the rules, and award the best stuff to whomever he felt like, then went back to random again.  Id most definately like my slice of the pie, there are players on this game that have whole pies of quest eq.  Thats not acceptable.
-
-Ive been in pleanty of quests where its leader, 1.tank, 2.tank, runner, 3.tank, runner and then maybe levels.  And of course by the 2nd or 3rd award the good stuff is in fact gone.  
-
-All i was trying to say in this thread was the drachma robes that were caster related are just about right as those who dont lead or 1.tank see jack sh*t in most quests.  250dr is pretty fair considering all casters can really do is save up drachma to get good stuff in the shops.
-
-Since now according to Roadnofunner tanks dont even get quest eq.  Lets please work on why only leaders and 1.tanks get quest eq.  It takes a group to win a quest, not a 2-man team.  Award appropriately, and balance the field for the rest of those questing and purchasing drachma eq.  Again capping players at 2-3 handed out items would make some sense.  After that its time for another player to enjoy some quest eq.
-
-Mosaix[/quote:zf8tz7tz]
-
-ok, so it appears that we started about the same time, guess what, I've got exactly one piece ot quest eq and I got it with my caster.  granted I dont get into many quests these days but I used to 1. or 2.tank pretty often in quest groups and never got the quest eq you claim that all tanks and leaders get.
+ok, so it appears that we started about the same time, guess what, I've got exactly one piece ot quest eq and I got it with my caster. granted I dont get into many quests these days but I used to 1. or 2.tank pretty often in quest groups and never got the quest eq you claim that all tanks and leaders get.
 
 I'll also add that if you've ever lead a quest (I've only lead one and that is plenty for me), you know that the job of leader is generally a huge PITA compared to merely paying attention to the tank's hp.
 
-The problem I see with random is that the most useless member can end up with the best eq.  Leader deciding the order can lead to clan or friend favoritism.  Vote method goes the same.  I dont have any problem with capping quest eq at 2-3 items per char.
+The problem I see with random is that the most useless member can end up with the best eq. Leader deciding the order can lead to clan or friend favoritism. Vote method goes the same. I dont have any problem with capping quest eq at 2-3 items per char.
 
 I say do away with quest eq and give drachma instead.
 
 As for the robes, maybe it could be handled by making the price different depending on your prime class...
 
-I'm also disappointed with you resorting to making fun modifications to my name.  Pretty lame when you're trying to make a valid point.
+I'm also disappointed with you resorting to making fun modifications to my name. Pretty lame when you're trying to make a valid point.
 
 </div>
 
@@ -866,13 +901,14 @@ as the great Stan Lee says, 'Nuff said
 
 <div class="post" data-post-id="18665" data-author="12345" data-date="2007-05-26T17:03:14+00:00" data-subject="">
 
-Keith I considered putting a bit (npi) in about players competing vs. each other for the eq, but realized that wouldn't work.  It would just be a bunch of crying like it is now, only about different stuff.[/quote:3i0gma18]
+> <strong>13 wrote:</strong>
+> Keith I considered putting a bit (npi) in about players competing vs. each other for the eq, but realized that wouldn't work. It would just be a bunch of crying like it is now, only about different stuff.
 
-Well, I was trying to stay out of this conversation, but you honestly gave me a great idea Aaron.  Well, I think its a great idea, it probably wouldn't work.
+Well, I was trying to stay out of this conversation, but you honestly gave me a great idea Aaron. Well, I think its a great idea, it probably wouldn't work.
 
-This is basically what it would come down to.  There would only be say... 4 quest prizes at the end.  The players interested in claiming one would have to bid on it.  Each would offer up a piece of eq from their own stash, group votes on who has the best bid.  Eq is traded and we move along to the next piece, the winner of the eq leaves the group.  This continues ...
+This is basically what it would come down to. There would only be say... 4 quest prizes at the end. The players interested in claiming one would have to bid on it. Each would offer up a piece of eq from their own stash, group votes on who has the best bid. Eq is traded and we move along to the next piece, the winner of the eq leaves the group. This continues ...
 
-Instead of flat out awarding a quest piece, it would basically insure that everyone got an upgrade.  If you didn't want to invest a piece of sufficient worth, you'd basicly have to settle for a lower prize.
+Instead of flat out awarding a quest piece, it would basically insure that everyone got an upgrade. If you didn't want to invest a piece of sufficient worth, you'd basicly have to settle for a lower prize.
 
 Among other things, I think it would help get a lot of the higher eq sitting in vaults back into circulation.
 
@@ -890,7 +926,7 @@ You still don't get it. Have you not learned anything?
 
 <div class="post" data-post-id="18667" data-author="Akasha" data-date="2007-05-26T17:12:19+00:00" data-subject="">
 
-Yeah, I've re-learned/remembered why I havent run a quest in several years.  See ya again in 2015
+Yeah, I've re-learned/remembered why I havent run a quest in several years. See ya again in 2015
 
 </div>
 
@@ -910,7 +946,8 @@ word
 
 <div class="post" data-post-id="18670" data-author="*juggleblood*" data-date="2007-05-26T18:15:32+00:00" data-subject="">
 
-And it would be almost a quest in itself to sort it out between 30 or more people.[/quote:pgn8rico]
+> <strong>12345 wrote:</strong>
+> And it would be almost a quest in itself to sort it out between 30 or more people.
 
 sounds nightmarish
 
@@ -920,9 +957,9 @@ I'd prefer the immorts just arbitrarily decided who they wanted to bestow some n
 
 <div class="post" data-post-id="18671" data-author="Hades" data-date="2007-05-26T18:22:19+00:00" data-subject="">
 
-nope... then Imm's would be accused of showing favortism even when things are on the up and up. It only takes 2-3 complainers to drag even more into the mix.  There is an easy solution to this..you just haven't figured it out yet.
+nope... then Imm's would be accused of showing favortism even when things are on the up and up. It only takes 2-3 complainers to drag even more into the mix. There is an easy solution to this..you just haven't figured it out yet.
 
- :roll:
+ <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -938,23 +975,23 @@ Nope.. you go to a two-tier system.
 
 Quest groups that included more than 20 people are only awarded drachma for participation. Not more for being leader/tank/bot etc etc.. that way everyone knows what everyone got cause it all the same.
 
-Quest groups of 20 or less would vote on the onset of who would receive any quest items should quest be completed.  That way, before the first MOB was killed, anyone in group will know that they won't be receiving anything but exp/coins and the enjoyment of gameplay. Then they themselves can decide if they wish to partake in said group.
+Quest groups of 20 or less would vote on the onset of who would receive any quest items should quest be completed. That way, before the first MOB was killed, anyone in group will know that they won't be receiving anything but exp/coins and the enjoyment of gameplay. Then they themselves can decide if they wish to partake in said group.
 
-Furthermore, IMM's running quests could announce what type group should be formed.  I have found nowhere that says 2 groups can't run same quest at same time.  Ah, but it's not fair you say? All the high-levellers cool people 
+Furthermore, IMM's running quests could announce what type group should be formed. I have found nowhere that says 2 groups can't run same quest at same time. Ah, but it's not fair you say? All the high-levellers cool people 
 
-will stick together leaving us lowbies/weaks with no chance of reward.  Not so says I. The Imm(s) running quest could make a final adjustment at his/her discretion to keep group strength more equal.Again all this occurs, before the 1st MOB is killed. 
+will stick together leaving us lowbies/weaks with no chance of reward. Not so says I. The Imm(s) running quest could make a final adjustment at his/her discretion to keep group strength more equal.Again all this occurs, before the 1st MOB is killed. 
 
-Then with locking of groups.. any newcomers would have to get permission from each group leader to be able to join group.  
+Then with locking of groups.. any newcomers would have to get permission from each group leader to be able to join group. 
 
 I'd go on but I'm in the middle of solving Middle East conflict so toodle-loo
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="18675" data-author="13" data-date="2007-05-26T22:44:50+00:00" data-subject="">
 
-the answer is that there is no answer unless every person in the group gets some quest eq for competing in the quest.  otherwise there will always be whiners.  once the weaver gets redone then maybe drachma as a reward will be more appealing.  dave i meant no slight towards you or your recent quest.  on the contrary i commend you for dealing with it.  you have only to check elwood's wrap and see that ive dealt with plenty of it on my own.
+the answer is that there is no answer unless every person in the group gets some quest eq for competing in the quest. otherwise there will always be whiners. once the weaver gets redone then maybe drachma as a reward will be more appealing. dave i meant no slight towards you or your recent quest. on the contrary i commend you for dealing with it. you have only to check elwood's wrap and see that ive dealt with plenty of it on my own.
 
 </div>
 
@@ -962,29 +999,30 @@ the answer is that there is no answer unless every person in the group gets some
 
 NO!
 
-the only truth is that none of you bastards will ever be happy with anything..  it will never be FAIR enough.. it will never be GOOD enough... and there will always be a group of people bitching about who/what deserves blah blah blah..
+the only truth is that none of you bastards will ever be happy with anything.. it will never be FAIR enough.. it will never be GOOD enough... and there will always be a group of people bitching about who/what deserves blah blah blah..
 
 just create a gdamn imm and make your own quests.. hand out wtf you want to who you want and stfu.
 
 and for those of you who were not involved and/or bitched and was actually trying to give helpful critisim thank you... for the rest stfu and please accept a stab to the face as a consulation prize..
 
-PS.  Akasha.. keep doing what your doing.. some of us do appreciate it.
+PS. Akasha.. keep doing what your doing.. some of us do appreciate it.
 
 </div>
 
 <div class="post" data-post-id="18678" data-author="Hades" data-date="2007-05-27T02:43:53+00:00" data-subject="">
 
-You shut your g*oddamned pirate mouth.  Everyone knows you can't trust a bloody pirate and anything they do or say is to deceive/destroy you.
+You shut your g\*oddamned pirate mouth. Everyone knows you can't trust a bloody pirate and anything they do or say is to deceive/destroy you.
 
-Keep the flame alive :twisted:
+Keep the flame alive <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="18679" data-author="tincts" data-date="2007-05-27T03:14:36+00:00" data-subject="">
 
-Yeah, I've re-learned/remembered why I havent run a quest in several years.  See ya again in 2015[/quote:w4qn1ev9]
+> <strong>\*Akasha\* wrote:</strong>
+> Yeah, I've re-learned/remembered why I havent run a quest in several years. See ya again in 2015
 
-:( I'll participate in a quest with no xp loss or gain for nothing.  Much xp loss and I'll do it for three drachma or a scatter at the end or something.  They're so much fun - Akasha's recent one was great.  Far prefer a weak reward and a lot of fun to no quests.  Might be a good time for everyone to get over it.
+<img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom"> I'll participate in a quest with no xp loss or gain for nothing. Much xp loss and I'll do it for three drachma or a scatter at the end or something. They're so much fun - Akasha's recent one was great. Far prefer a weak reward and a lot of fun to no quests. Might be a good time for everyone to get over it.
 
 </div>
 
@@ -1004,15 +1042,15 @@ some sort of honest-to-god held low dmg like the war emblem would be nice
 
 It would be sweet if an item would allow you to steal.... that way you HAD to have it and if u lost it, then you couldn't steal again until you bought another one.
 
- :roll:
+ <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="18684" data-author="brand" data-date="2007-05-27T14:11:33+00:00" data-subject="">
 
-without disrupting other eq slots would be nice...  maybe double price to 500 and add a second tier of robes... robes with even bigger and better powers...  since the robe slot is already filled with a 250 crackma robe on everyone anyhow... +dam robe!
+without disrupting other eq slots would be nice... maybe double price to 500 and add a second tier of robes... robes with even bigger and better powers... since the robe slot is already filled with a 250 crackma robe on everyone anyhow... +dam robe!
 
- :twisted: brand
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> brand
 
 </div>
 
@@ -1024,23 +1062,23 @@ Would love to see lots more clasps with all sorts of differing attributes partic
 
 <div class="post" data-post-id="18686" data-author="13" data-date="2007-05-27T17:31:55+00:00" data-subject="">
 
-the triple 40 eq mostly isnt worth a fuc k anymore too.  when krom and i revamped it the first time there were only 4 classes and no clasps.  now a lot of it just isnt used at all.  i would like to see some shit with class-particular bonuses for 3x40 like the cuirass having weapondmg and requiring warrior somewhere in the classo to use.  as an example.
+the triple 40 eq mostly isnt worth a fuc k anymore too. when krom and i revamped it the first time there were only 4 classes and no clasps. now a lot of it just isnt used at all. i would like to see some shit with class-particular bonuses for 3x40 like the cuirass having weapondmg and requiring warrior somewhere in the classo to use. as an example.
 
 </div>
 
 <div class="post" data-post-id="18690" data-author="Leaf" data-date="2007-05-28T21:26:28+00:00" data-subject="">
 
-Yea redoing the 3x40 eq would be nice.  Adding some eq for Monks, Necros,
+Yea redoing the 3x40 eq would be nice. Adding some eq for Monks, Necros,
 
-Bards, and Druids.  
+Bards, and Druids. 
 
-+hand dam eq
+\+hand dam eq
 
-+Control eq
+\+Control eq
 
-+charisma eq
+\+charisma eq
 
-+shape +mr +mana
+\+shape +mr +mana
 
 </div>
 
@@ -1054,7 +1092,7 @@ Oh, since we have fargate/fast-repop days etc... maybe 2 days a month that pstea
 
 <div class="post" data-post-id="18692" data-author="12345" data-date="2007-05-29T02:37:05+00:00" data-subject="">
 
-Hades, I would like to take this opportunity to point out that lately you've been asking daily for ways to psteal.  You're the same one that roasted people for whining when they brought the subject up every few months.
+Hades, I would like to take this opportunity to point out that lately you've been asking daily for ways to psteal. You're the same one that roasted people for whining when they brought the subject up every few months.
 
 plz stfu. kthkz.
 
@@ -1070,7 +1108,7 @@ laugh
 
 having 'steal day' as a config for sloth would be cool
 
-also turning the chaos thing on twice a month would be nice :)
+also turning the chaos thing on twice a month would be nice <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -1084,9 +1122,9 @@ also turning the chaos thing on twice a month would be nice :)
 
 I'm not sure how long u been mudding Hades, but 3x40 eq are in general
 
-of the old school class.  I know there has been some mods on the items
+of the old school class. I know there has been some mods on the items
 
-and the clasps are the only newer items.  However I'm thinking adding
+and the clasps are the only newer items. However I'm thinking adding
 
 more uniquie item for 3x40 that would focus the newer classes.
 
@@ -1116,17 +1154,18 @@ oh Will...
 
 I think you forgot to mention a new held low for all classes..
 
--0.9ac +5dam +50spelldam +100hps oh and 20mr..
+\-0.9ac +5dam +50spelldam +100hps oh and 20mr..
 
 thats almost as far fetched as some of yours...
 
-wake up Will.. you're dreaming again.  :x
+wake up Will.. you're dreaming again. <img src="/images/smilies/icon_mad.svg" alt=":x" title=":x" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="18698" data-author="13" data-date="2007-05-29T17:02:51+00:00" data-subject="">
 
-[quote:1ml9ts3q]Neco = body -2.0, +3 Control, +mana [/quote:1ml9ts3q]
+> <strong>Quote:</strong>
+> Neco = body -2.0, +3 Control, +mana
 
 now dont go screwing up a good item with middy ac, either make it 2.4 or margn or something, because people wont/dont use summon gear during a run generally
 
@@ -1134,59 +1173,59 @@ now dont go screwing up a good item with middy ac, either make it 2.4 or margn o
 
 <div class="post" data-post-id="18699" data-author="Weasel" data-date="2007-05-29T17:11:02+00:00" data-subject="">
 
-i has a corm?  :shock:
+i has a corm? <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="18700" data-author="Leaf" data-date="2007-05-29T17:54:20+00:00" data-subject="">
 
-These are just ideas I'm throwin out there.  I would like to see some 3x40
+These are just ideas I'm throwin out there. I would like to see some 3x40
 
-eq that would towards the newer classes.  So AA my ideas can be improved.
+eq that would towards the newer classes. So AA my ideas can be improved.
 
 Jason, here are some items currently 3x40:
 
-Staff of Ra  Held High  0.0 AC, +30 mana, +4 mana regen  
+Staff of Ra Held High 0.0 AC, +30 mana, +4 mana regen 
 
-Sable Ring of Lords  Finger  0.4 AC, +30 mana, 2 mana regen  
+Sable Ring of Lords Finger 0.4 AC, +30 mana, 2 mana regen 
 
-Crown of Thorns  Head  -1.2 AC, +2 STR, 3 mana regen  
+Crown of Thorns Head -1.2 AC, +2 STR, 3 mana regen 
 
-Shroud of the Most Exalted Priest  On Body  -2.4 AC, +2 mana regen, +16 mana  
+Shroud of the Most Exalted Priest On Body -2.4 AC, +2 mana regen, +16 mana 
 
-Adamantite Cuirass  On Body  -2.7 AC, +30 hit points  
+Adamantite Cuirass On Body -2.7 AC, +30 hit points 
 
-Battle Spiked Arm Bands of the Night Prince  Arms  -0.7 AC, +1 Dam, +1 Con  
+Battle Spiked Arm Bands of the Night Prince Arms -0.7 AC, +1 Dam, +1 Con 
 
-Mithril Sleeves of the High Paladin  Arms  -0.8 AC, +20 Mana, +12 hit point regen  
+Mithril Sleeves of the High Paladin Arms -0.8 AC, +20 Mana, +12 hit point regen 
 
-Jeweled Gauntlets of the Magi  Hands  -0.3 AC, +25 mana, +2 Con  
+Jeweled Gauntlets of the Magi Hands -0.3 AC, +25 mana, +2 Con 
 
-Tower Shield of the Great Lord  Shield  -1.2 AC, +1 Dex, +1 Con  
+Tower Shield of the Great Lord Shield -1.2 AC, +1 Dex, +1 Con 
 
-Tooled Girdle of the Ogre King  Waist  -0.6 AC, +1 Wis  
+Tooled Girdle of the Ogre King Waist -0.6 AC, +1 Wis 
 
-Ancient Cinture of Vigor  Waist  -0.2 AC, +30 mana, +2 Str  
+Ancient Cinture of Vigor Waist -0.2 AC, +30 mana, +2 Str 
 
-Arcane Tome of Power  Held Low  -0.5 AC, +2 Str, +6 move regen  
+Arcane Tome of Power Held Low -0.5 AC, +2 Str, +6 move regen 
 
-Runed Tooth of the Arch-Liches  Held Low  +35 mana, +1 Con  
+Runed Tooth of the Arch-Liches Held Low +35 mana, +1 Con 
 
-Axe of the Dwarvish Lords  Weapon  5d5, +5 Hit, +1 Dex  
+Axe of the Dwarvish Lords Weapon 5d5, +5 Hit, +1 Dex 
 
-Holy Staff of Elders  Weapon  3d4, +15 mana, 2 mr, fireball proc  
+Holy Staff of Elders Weapon 3d4, +15 mana, 2 mr, fireball proc 
 
-Asassin's Dagger  Weapon  2d5, +3 dam, Injects Poison
+Asassin's Dagger Weapon 2d5, +3 dam, Injects Poison
 
 I'm pretty sure some of the ideas I threw in there for the newer classes
 
-would fit fine with the current 3x40 eq.  Ooo look a Helm with good ac, +3mr
+would fit fine with the current 3x40 eq. Ooo look a Helm with good ac, +3mr
 
-and +2str WOW!!!  A weapon that does 5d5 +5hit?!?  Better yet a body
+and +2str WOW!!! A weapon that does 5d5 +5hit?!? Better yet a body
 
-armor thats -2.7 and +30hp!!!  Come on Jason look at the items I
+armor thats -2.7 and +30hp!!! Come on Jason look at the items I
 
-suggested and look at the ingame or drachma eq.  They are pretty much
+suggested and look at the ingame or drachma eq. They are pretty much
 
 very close, and the 3x40 eq are suppose to the rarer then drachma (or I 
 
@@ -1196,35 +1235,37 @@ think they should be, because they are gifts from the gods!)
 
 <div class="post" data-post-id="18701" data-author="Autolycos" data-date="2007-05-29T18:32:49+00:00" data-subject="">
 
-Come on Jason look at the items I suggested and look at the ingame or drachma eq.  They are pretty much very close, and the 3x40 eq are suppose to the rarer then drachma (or I think they should be, because they are gifts from the gods!)[/quote:u8eb4vqd]
+> <strong>Leaf wrote:</strong>
+> Come on Jason look at the items I suggested and look at the ingame or drachma eq. They are pretty much very close, and the 3x40 eq are suppose to the rarer then drachma (or I think they should be, because they are gifts from the gods!)
 
 I refuse to acknowledge or agree with you even if they might be good valid suggestions..
 
-After all these years, do you think I would simply drop the chance to aggrivate you?  
+After all these years, do you think I would simply drop the chance to aggrivate you? 
 
-hugz n kissez Will  :twisted:
+hugz n kissez Will <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="18702" data-author="Corinn" data-date="2007-05-29T20:52:32+00:00" data-subject="">
 
-i has a corm?  :shock:[/quote:393m3nul]
+> <strong>Weasel wrote:</strong>
+> i has a corm? <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
-Good answer!!!   ...errr, question... :P
+Good answer!!! ...errr, question... <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="18703" data-author="13" data-date="2007-05-29T21:42:54+00:00" data-subject="">
 
-Krom is generally pretty receptive of players' ideas.  We should put together a list of genuinely good ideas for redone 3x40 crud.  Who knows, it couldn't hurt and might help.
+Krom is generally pretty receptive of players' ideas. We should put together a list of genuinely good ideas for redone 3x40 crud. Who knows, it couldn't hurt and might help.
 
 </div>
 
 <div class="post" data-post-id="18705" data-author="Hades" data-date="2007-05-29T22:22:27+00:00" data-subject="May 29, 2007">
 
-I'm not sure about daily whining about putting psteal back in by it coming from 12345, as usual he/she doesn't have his/her facts right. Now, the main difference between me asking about it and others whining about it is just that.  There were 6-7+ that were on the verge of popping a blood vessel when it came to pthieving and the threating to quit and pitching hissy paid off.  I dare say, the majority here didn't care either way and in fact there were more non-whiners who relished in hunting down pthieves.  It did add variety to the game especially on a slow day when not much was going on. I'm not a pthief anyways but I sense Sloth has lost something by having psteal removed.
+I'm not sure about daily whining about putting psteal back in by it coming from 12345, as usual he/she doesn't have his/her facts right. Now, the main difference between me asking about it and others whining about it is just that. There were 6-7+ that were on the verge of popping a blood vessel when it came to pthieving and the threating to quit and pitching hissy paid off. I dare say, the majority here didn't care either way and in fact there were more non-whiners who relished in hunting down pthieves. It did add variety to the game especially on a slow day when not much was going on. I'm not a pthief anyways but I sense Sloth has lost something by having psteal removed.
 
-Leaf's suggestions could be served up with a twist from out good friend Weasel.  Perma-char flagged clasps/enchancement would be an interesting addition. Nothing too easy to forge but something that is a pain in the ass to make one NOT even mess with it would be good.  It would take some time and probably several IMM's to come up with new forge/cp lists to add ingame but it would supa-sweet.
+Leaf's suggestions could be served up with a twist from out good friend Weasel. Perma-char flagged clasps/enchancement would be an interesting addition. Nothing too easy to forge but something that is a pain in the ass to make one NOT even mess with it would be good. It would take some time and probably several IMM's to come up with new forge/cp lists to add ingame but it would supa-sweet.
 
 Now.. when the hell will dual wield go in?!?
 
@@ -1232,11 +1273,12 @@ Now.. when the hell will dual wield go in?!?
 
 <div class="post" data-post-id="18706" data-author="Weasel" data-date="2007-05-29T23:02:15+00:00" data-subject="Re: May 29, 2007">
 
-There were 6-7+ that were on the verge of popping a blood vessel when it came to pthieving and the threating to quit and pitching hissy paid off.  I dare say, the majority here didn't care either way and in fact there were more non-whiners who relished in hunting down pthieves.[/quote:2nu1jayb]
+> <strong>Hades wrote:</strong>
+> There were 6-7+ that were on the verge of popping a blood vessel when it came to pthieving and the threating to quit and pitching hissy paid off. I dare say, the majority here didn't care either way and in fact there were more non-whiners who relished in hunting down pthieves.
 
 There was a poll thread done asking who wanted and didn't want pthieves around. From 48 votes, 35 were against pthieving (72%), so there ya go - the majority of active forum users spoke.
 
-Now will ya stfu about it?   :wink:
+Now will ya stfu about it? <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -1246,15 +1288,21 @@ Gee... Let's look in this one thread.
 
 Posted: May 27, 2007 - 05:38 AM
 
-It would be sweet if an item would allow you to steal.... that way you HAD to have it and if u lost it, then you couldn't steal again until you bought another one.
-
- :roll:[/quote:rt5gdg8n]
+> <strong>Hades wrote:</strong>
+> It would be sweet if an item would allow you to steal.... that way you HAD to have it and if u lost it, then you couldn't steal again until you bought another one.
+> 
+> 
+> 
+> <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 Posted: May 28, 2007 - 07:18 PM
 
-Monks,druids,bards and necros are overpowered as it is. Need to add more oomphage to the 4 original classes.
-
-Oh, since we have fargate/fast-repop days etc... maybe 2 days a month that psteal can occur.[/quote:rt5gdg8n]
+> <strong>Hades wrote:</strong>
+> Monks,druids,bards and necros are overpowered as it is. Need to add more oomphage to the 4 original classes.
+> 
+> 
+> 
+> Oh, since we have fargate/fast-repop days etc... maybe 2 days a month that psteal can occur.
 
 I'd check your other posts, but that would probably require me to read them first.
 
@@ -1262,7 +1310,7 @@ I'd check your other posts, but that would probably require me to read them firs
 
 <div class="post" data-post-id="18708" data-author="Hades" data-date="2007-05-29T23:11:25+00:00" data-subject="Stacking the vote">
 
-Yep.. the same people voted more than once.. shame they couldn't put that same kind of energy and vote for Sloth on Mudconnect.  Shrug, guess you were of the whiners.  I still like ya though.
+Yep.. the same people voted more than once.. shame they couldn't put that same kind of energy and vote for Sloth on Mudconnect. Shrug, guess you were of the whiners. I still like ya though.
 
 Peace
 
@@ -1274,7 +1322,7 @@ Oops.. I purposely for my own sake overlooked 12345's post... he makes a good po
 
 Oh yeah.. he was the other whiner stacking the vote.
 
-*sigh*
+\*sigh\*
 
 </div>
 
@@ -1286,67 +1334,74 @@ Actually, I never voted.. but you can pretend like you know something, that's fi
 
 <div class="post" data-post-id="18711" data-author="Weasel" data-date="2007-05-29T23:26:43+00:00" data-subject="">
 
-You can only vote once on those forum polls..  although I guess if you registered another username.. but I think most people would not be bothered wasting the time to do that..  except maybe pthieves... 
+You can only vote once on those forum polls.. although I guess if you registered another username.. but I think most people would not be bothered wasting the time to do that.. except maybe pthieves... 
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="18715" data-author="Roadrunr" data-date="2007-05-30T02:17:57+00:00" data-subject="">
 
-These are just ideas I'm throwin out there.  I would like to see some 3x40
+> <strong>Leaf wrote:</strong>
+> These are just ideas I'm throwin out there. I would like to see some 3x40
+> 
+> eq that would towards the newer classes. So AA my ideas can be improved.
+> 
+> 
+> 
+> Jason, here are some items currently 3x40:
+> 
+> 
+> 
+> Staff of Ra Held High 0.0 AC, +30 mana, +4 mana regen 
+> 
+> Sable Ring of Lords Finger 0.4 AC, +30 mana, 2 mana regen 
+> 
+> Crown of Thorns Head -1.2 AC, +2 STR, 3 mana regen 
+> 
+> Shroud of the Most Exalted Priest On Body -2.4 AC, +2 mana regen, +16 mana 
+> 
+> Adamantite Cuirass On Body -2.7 AC, +30 hit points 
+> 
+> Battle Spiked Arm Bands of the Night Prince Arms -0.7 AC, +1 Dam, +1 Con 
+> 
+> Mithril Sleeves of the High Paladin Arms -0.8 AC, +20 Mana, +12 hit point regen 
+> 
+> Jeweled Gauntlets of the Magi Hands -0.3 AC, +25 mana, +2 Con 
+> 
+> Tower Shield of the Great Lord Shield -1.2 AC, +1 Dex, +1 Con 
+> 
+> Tooled Girdle of the Ogre King Waist -0.6 AC, +1 Wis 
+> 
+> Ancient Cinture of Vigor Waist -0.2 AC, +30 mana, +2 Str 
+> 
+> Arcane Tome of Power Held Low -0.5 AC, +2 Str, +6 move regen 
+> 
+> Runed Tooth of the Arch-Liches Held Low +35 mana, +1 Con 
+> 
+> Axe of the Dwarvish Lords Weapon 5d5, +5 Hit, +1 Dex 
+> 
+> Holy Staff of Elders Weapon 3d4, +15 mana, 2 mr, fireball proc 
+> 
+> Asassin's Dagger Weapon 2d5, +3 dam, Injects Poison
+> 
+> 
+> 
+> I'm pretty sure some of the ideas I threw in there for the newer classes
+> 
+> would fit fine with the current 3x40 eq. Ooo look a Helm with good ac, +3mr
+> 
+> and +2str WOW!!! A weapon that does 5d5 +5hit?!? Better yet a body
+> 
+> armor thats -2.7 and +30hp!!! Come on Jason look at the items I
+> 
+> suggested and look at the ingame or drachma eq. They are pretty much
+> 
+> very close, and the 3x40 eq are suppose to the rarer then drachma (or I 
+> 
+> think they should be, because they are gifts from the gods!)
 
-eq that would towards the newer classes.  So AA my ideas can be improved.
-
-Jason, here are some items currently 3x40:
-
-Staff of Ra  Held High  0.0 AC, +30 mana, +4 mana regen  
-
-Sable Ring of Lords  Finger  0.4 AC, +30 mana, 2 mana regen  
-
-Crown of Thorns  Head  -1.2 AC, +2 STR, 3 mana regen  
-
-Shroud of the Most Exalted Priest  On Body  -2.4 AC, +2 mana regen, +16 mana  
-
-Adamantite Cuirass  On Body  -2.7 AC, +30 hit points  
-
-Battle Spiked Arm Bands of the Night Prince  Arms  -0.7 AC, +1 Dam, +1 Con  
-
-Mithril Sleeves of the High Paladin  Arms  -0.8 AC, +20 Mana, +12 hit point regen  
-
-Jeweled Gauntlets of the Magi  Hands  -0.3 AC, +25 mana, +2 Con  
-
-Tower Shield of the Great Lord  Shield  -1.2 AC, +1 Dex, +1 Con  
-
-Tooled Girdle of the Ogre King  Waist  -0.6 AC, +1 Wis  
-
-Ancient Cinture of Vigor  Waist  -0.2 AC, +30 mana, +2 Str  
-
-Arcane Tome of Power  Held Low  -0.5 AC, +2 Str, +6 move regen  
-
-Runed Tooth of the Arch-Liches  Held Low  +35 mana, +1 Con  
-
-Axe of the Dwarvish Lords  Weapon  5d5, +5 Hit, +1 Dex  
-
-Holy Staff of Elders  Weapon  3d4, +15 mana, 2 mr, fireball proc  
-
-Asassin's Dagger  Weapon  2d5, +3 dam, Injects Poison
-
-I'm pretty sure some of the ideas I threw in there for the newer classes
-
-would fit fine with the current 3x40 eq.  Ooo look a Helm with good ac, +3mr
-
-and +2str WOW!!!  A weapon that does 5d5 +5hit?!?  Better yet a body
-
-armor thats -2.7 and +30hp!!!  Come on Jason look at the items I
-
-suggested and look at the ingame or drachma eq.  They are pretty much
-
-very close, and the 3x40 eq are suppose to the rarer then drachma (or I 
-
-think they should be, because they are gifts from the gods!)[/quote:16ll6k6c]
-
-so show me again where any of the existing eq has anything like +handdam or +UC?  you know, that would be +spelldam, +healbonus, +weapondam...right, none of it does, it's all generic modifiers so tell me again why there should be the crap you suggested without adding class specific modifiers for the old classes?
+so show me again where any of the existing eq has anything like +handdam or +UC? you know, that would be +spelldam, +healbonus, +weapondam...right, none of it does, it's all generic modifiers so tell me again why there should be the crap you suggested without adding class specific modifiers for the old classes?
 
 oh, thats right, there shouldnt be.
 
@@ -1360,7 +1415,7 @@ Preach!
 
 <div class="post" data-post-id="18718" data-author="13" data-date="2007-05-30T12:42:40+00:00" data-subject="">
 
-I definitely think old class 3x40 eq should be revamped as well RR.  I totally agree with Handdmg Weapon dmg stab dmg etc.  What we need to improve is variety.  It used to be that each class had two items.  I think that it still should be that way.  Having one dmg/ac item and one class specific item is a good idea imho.  Also making these things actually require that class would go a long way towards making sense and making mages be mages and thieves be thieves etc.
+I definitely think old class 3x40 eq should be revamped as well RR. I totally agree with Handdmg Weapon dmg stab dmg etc. What we need to improve is variety. It used to be that each class had two items. I think that it still should be that way. Having one dmg/ac item and one class specific item is a good idea imho. Also making these things actually require that class would go a long way towards making sense and making mages be mages and thieves be thieves etc.
 
 </div>
 
@@ -1372,17 +1427,17 @@ For the 3x40 eq I really like the idea of customizable clasps.. you choose the s
 
 <div class="post" data-post-id="18720" data-author="Leaf" data-date="2007-05-30T14:11:39+00:00" data-subject="">
 
-Ooo AA is (kinda) backing me up :)
+Ooo AA is (kinda) backing me up <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-Yea RR sooo much angre :)  I'm just suggesting ideas.  As the old 3x40 eq
+Yea RR sooo much angre <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> I'm just suggesting ideas. As the old 3x40 eq
 
-use to be based only on the old classes.  Back then, you would only be able
+use to be based only on the old classes. Back then, you would only be able
 
-to pick a 3x40 eq that matched the first 3 classes.  With the newer skills
+to pick a 3x40 eq that matched the first 3 classes. With the newer skills
 
 and abilities to the old school, Stab, Weapon, Spell, and Heal we should
 
-add those to the 3x40 eq.  So revamping all the 3x40 or most of the eq
+add those to the 3x40 eq. So revamping all the 3x40 or most of the eq
 
 would help a lot to everyone.
 
@@ -1396,7 +1451,7 @@ Cleric = Mana +Heal
 
 Mage = Mana +Spell
 
-Now coming up with some of the new ideas are a different story.  We all have CRAZY ideas on what we would want to improve on our own classes.
+Now coming up with some of the new ideas are a different story. We all have CRAZY ideas on what we would want to improve on our own classes.
 
 I believe we should have at least 2-3 newer/revamp eq for each class.
 
@@ -1410,13 +1465,13 @@ For Warrior primes, AC is even moreso a major now that we can go beyond -11ac. A
 
 <div class="post" data-post-id="18722" data-author="13" data-date="2007-05-30T14:57:08+00:00" data-subject="">
 
-yeah sloth has changed so much in the last 4 years or so that this old stuff ain't cuttin' the mustard anymore.  having the eq have actual restrictions would be cool that way a 
+yeah sloth has changed so much in the last 4 years or so that this old stuff ain't cuttin' the mustard anymore. having the eq have actual restrictions would be cool that way a 
 
 cuirass - 3.0 +30hp +5hprgn
 
 couldnt be worn by a quad caster, and WOULD help take advantage of Kj's new ac changes
 
-also I think bards should get a cool ac item :)
+also I think bards should get a cool ac item <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -1424,9 +1479,9 @@ also I think bards should get a cool ac item :)
 
 With our Powers (Suggestion) Combined I am Captain Newbie!!!
 
-Hum.. So far the Immorts haven't even said anything yet.  But not to say
+Hum.. So far the Immorts haven't even said anything yet. But not to say
 
-they don't read it.  Can an Immort post something that they are taking
+they don't read it. Can an Immort post something that they are taking
 
 some suggestions for 3x40 eq, or r we wasting our time dreaming of 3x40?
 
@@ -1436,13 +1491,13 @@ some suggestions for 3x40 eq, or r we wasting our time dreaming of 3x40?
 
 Keep dreaming
 
- :P
+ <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="18755" data-author="*Krom*" data-date="2007-06-01T13:05:22+00:00" data-subject="">
 
-I am reading it.  Trip40 eq will probably be revisited also, once we get done with the drachma stuff.
+I am reading it. Trip40 eq will probably be revisited also, once we get done with the drachma stuff.
 
 </div>
 
@@ -1452,11 +1507,11 @@ Angels sang out in immaculate chorus,
 
 down from the heavens descended Chuck Norris.
 
-err Krom   :P 
+err Krom <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom"> 
 
 and a reminder just because it's fantastic!!
 
-[url:11obkeag]http://www.ultimateshowdown.org[/url:11obkeag]
+http://www.ultimateshowdown.org
 
 </div>
 
@@ -1468,7 +1523,7 @@ Once again Hades, your wrong.
 
 <div class="post" data-post-id="18761" data-author="13" data-date="2007-06-01T20:23:42+00:00" data-subject="">
 
-*high* will
+\*high\* will
 
 </div>
 
@@ -1476,33 +1531,33 @@ Once again Hades, your wrong.
 
 Woot Woot, thx Krom:
 
-I would love to see 3x40 eq that would work for certain classes.  Back in 
+I would love to see 3x40 eq that would work for certain classes. Back in 
 
-the day, u could only pick 4 classes so any of the 3x40 can work.  But with
+the day, u could only pick 4 classes so any of the 3x40 can work. But with
 
 the new classes and I could be wrong ... but I don't think or seen any1
 
-wearing the 3x40 below.  
+wearing the 3x40 below. 
 
-Staff of Ra  Held High  0.0 AC, +30 mana, +4 mana regen  
+Staff of Ra Held High 0.0 AC, +30 mana, +4 mana regen 
 
-Battle Spiked Arm Bands of the Night Prince  Arms  -0.7 AC, +1 Dam, +1 Con  
+Battle Spiked Arm Bands of the Night Prince Arms -0.7 AC, +1 Dam, +1 Con 
 
-Jeweled Gauntlets of the Magi  Hands  -0.3 AC, +25 mana, +2 Con  
+Jeweled Gauntlets of the Magi Hands -0.3 AC, +25 mana, +2 Con 
 
-Runed Tooth of the Arch-Liches  Held Low  +35 mana, +1 Con  
+Runed Tooth of the Arch-Liches Held Low +35 mana, +1 Con 
 
-Holy Staff of Elders  Weapon  3d4, +15 mana, 2 mr, fireball proc  
+Holy Staff of Elders Weapon 3d4, +15 mana, 2 mr, fireball proc 
 
 TRIPLE 40 CLASPS CLASPED TO ATTRIBUTES 
 
-dragon-skin laces  Feet  +1 Dex, 6 hit point regen  
+dragon-skin laces Feet +1 Dex, 6 hit point regen 
 
-a sorceress' favor  Neck  +10 mana, 1 mana regen  
+a sorceress' favor Neck +10 mana, 1 mana regen 
 
------
+\-----
 
-But getting 3x40 to work with class would be best.  Warriors should stick
+But getting 3x40 to work with class would be best. Warriors should stick
 
 with Warrior 3x40, Mages should stick with Mage 3x40, Monks should stick
 
@@ -1512,7 +1567,7 @@ with Monk 3x40 etc...
 
 <div class="post" data-post-id="18763" data-author="Hades" data-date="2007-06-01T21:49:33+00:00" data-subject="You win one - You lose one">
 
-You win...this time :P
+You win...this time <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -1554,7 +1609,7 @@ im a runed mace of the underwold, nice to meet you
 
 sorry you suck
 
-<3
+\<3
 
 the shield
 
@@ -1588,15 +1643,15 @@ shroud is good
 
 dagger is cool now except the proc negates the stab and it's significantly smaller than a stab
 
-[img:2ygmayhs]http://www1.istockphoto.com/file_thumbview_approve/232341/2/istockphoto_232341_2_cents.jpg[/img:2ygmayhs]
+![](http://www1.istockphoto.com/file_thumbview_approve/232341/2/istockphoto_232341_2_cents.jpg)
 
 </div>
 
 <div class="post" data-post-id="18765" data-author="Hades" data-date="2007-06-02T00:16:43+00:00" data-subject="Learning Skills">
 
-Learning skills and some stats would be interesting instead of having to buy them at 5x40.  For example, to learn charisma.. follow this guys example
+Learning skills and some stats would be interesting instead of having to buy them at 5x40. For example, to learn charisma.. follow this guys example
 
-[<LINK_TEXT text="http://news.yahoo.com/s/afp/20070601/en ... 0601221521">http://news.yahoo.com/s/afp/20070601/en_afp/entertainmentbritain_070601221521</LINK_TEXT>](http://news.yahoo.com/s/afp/20070601/en_afp/entertainmentbritain_070601221521)
+[http://news.yahoo.com/s/afp/20070601/en_afp/entertainmentbritain_070601221521](http://news.yahoo.com/s/afp/20070601/en_afp/entertainmentbritain_070601221521)
 
 </div>
 
@@ -1608,9 +1663,10 @@ on the side, an additional -1.0ac on masterful stone/iron would be nice..
 
 <div class="post" data-post-id="18790" data-author="Thraxas" data-date="2007-06-04T08:07:21+00:00" data-subject="">
 
-the rings 
-
-^ who takes a 3x40 item with margn and mana and ac when you can just change eq?[/quote:1623ab54]
+> <strong>13 wrote:</strong>
+> the rings 
+> 
+> ^ who takes a 3x40 item with margn and mana and ac when you can just change eq?
 
 That would be me, not because I love the ring, but there was rack all else to choose that made even the slightest sense. Any +UC trip 40 would havce made far more sense.
 
@@ -1624,7 +1680,8 @@ I took rings for Marta, because I can't take shroud for regen (wearing holy wing
 
 <div class="post" data-post-id="18792" data-author="13" data-date="2007-06-04T14:02:31+00:00" data-subject="">
 
-[quote:psoa661v]but there was rack all else to choose that[/quote:psoa661v]
+> <strong>Quote:</strong>
+> but there was rack all else to choose that
 
 I would think that Thrax would benefit from the extra mana/mana regen from the crown and shroud.
 
@@ -1638,7 +1695,7 @@ anything else that she wanted to replace.
 
 I know another monk that hasn't even picked a 2nd 3x40 eq because he
 
-doesn't want to lose +hand dam.  Nothing else would help, so he didn't 
+doesn't want to lose +hand dam. Nothing else would help, so he didn't 
 
 even pick a 3x40 eq.
 
@@ -1652,9 +1709,10 @@ Regen gear is clearly a stupid idea for everyone involved.
 
 <div class="post" data-post-id="18798" data-author="Atwell" data-date="2007-06-04T20:54:08+00:00" data-subject="">
 
-I know another monk that hasn't even picked a 2nd 3x40 eq because he doesn't want to lose +hand dam.  Nothing else would help, so he didn't even pick a 3x40 eq.[/quote:2xahy1dj]
+> <strong>Leaf wrote:</strong>
+> I know another monk that hasn't even picked a 2nd 3x40 eq because he doesn't want to lose +hand dam. Nothing else would help, so he didn't even pick a 3x40 eq.
 
-The 3x40 clasps mostly sit in slots with no notable in-game clasp.  They are good selections for characters who feel they are in this situation.
+The 3x40 clasps mostly sit in slots with no notable in-game clasp. They are good selections for characters who feel they are in this situation.
 
 </div>
 
@@ -1666,7 +1724,7 @@ Damn it Atwell, ur not helpping the situation :p
 
 <div class="post" data-post-id="18801" data-author="12345" data-date="2007-06-04T23:31:33+00:00" data-subject="">
 
-Atwell is right.  However, I must say that I'm almost to 3x40+38 and I haven't picked my first 3x40 eq yet. Mostly because I don't especially need it at the moment and I don't want to have to switch later.
+Atwell is right. However, I must say that I'm almost to 3x40+38 and I haven't picked my first 3x40 eq yet. Mostly because I don't especially need it at the moment and I don't want to have to switch later.
 
 I'm actively avoiding my main simply because with -12 in game, I should redo my 3x40 picks, light, and well... everything else too.
 
@@ -1674,13 +1732,13 @@ I'm actively avoiding my main simply because with -12 in game, I should redo my 
 
 <div class="post" data-post-id="18977" data-author="13" data-date="2007-06-19T14:30:51+00:00" data-subject="">
 
-+1
+\+1
 
 </div>
 
 <div class="post" data-post-id="18990" data-author="Hades" data-date="2007-06-20T00:16:28+00:00" data-subject="Who left this snowball out in the open?">
 
-[img:31od6d9w]http://d.yimg.com/us.yimg.com/p/ap/20070619/capt.081f5dc9ed2240f582bdb53e94b439e3.people_rosie_o_donnell_ny122.jpg?x=180&y=270&sig=VUWcCAh1DlZZodw4J66bDQ--[/img:31od6d9w]
+![](http://d.yimg.com/us.yimg.com/p/ap/20070619/capt.081f5dc9ed2240f582bdb53e94b439e3.people_rosie_o_donnell_ny122.jpg?x=180&y=270&sig=VUWcCAh1DlZZodw4J66bDQ--)
 
 Rosie O'Donnell wants 'Price' job
 
@@ -1718,7 +1776,7 @@ So... anything happening with this?
 
 <div class="post" data-post-id="19167" data-author="Karna" data-date="2007-07-06T04:45:47+00:00" data-subject="">
 
-check the shop, looks like some new eq  to me.
+check the shop, looks like some new eq to me.
 
 </div>
 
@@ -1738,7 +1796,7 @@ Weight: 43, Value: 100000, Worn in: TAKE ABOUT
 
 Can affect you as:
 
-    Affects: ARMOR by -6
+ Affects: ARMOR by -6
 
 Only those who are primary supreme warriors may use this item. 
 
@@ -1754,13 +1812,13 @@ Weight: 43, Value: 100000, Worn in: TAKE ABOUT
 
 Can affect you as:
 
-    Affects: ARMOR by -5
+ Affects: ARMOR by -5
 
-    Affects: CON by 1
+ Affects: CON by 1
 
 Only those who are at least adept magic users, clerics, thieves, warriors, 
 
-druids, necromancers, bards, or monks may use this item.  
+druids, necromancers, bards, or monks may use this item. 
 
 1100 drachma:
 
@@ -1774,11 +1832,11 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: DAMROLL by 2
+ Affects: DAMROLL by 2
 
 Only those who are at least supreme thieves and also adept avatars may use 
 
-this item.  
+this item. 
 
 450 drachma:
 
@@ -1792,13 +1850,13 @@ AC-apply is -0.3
 
 Can affect you as:
 
-    Affects: MANA by 15
+ Affects: MANA by 15
 
-    Affects: UNDEAD_CONTROL by 3
+ Affects: UNDEAD\_CONTROL by 3
 
 Only those who are at least supreme necromancers, and have attained 
 
-supremacy in at least two classes may use this item.  
+supremacy in at least two classes may use this item. 
 
 550 drachma:
 
@@ -1812,17 +1870,17 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: ARMOR by -1
+ Affects: ARMOR by -1
 
-    Affects: STR by 2
+ Affects: STR by 2
 
 Only those who are at least adept thieves, warriors, bards, or monks may 
 
-use this item.  
+use this item. 
 
 ( O)(o ) am I reading that right? a -1.0ac +2Str belt???
 
-apparently it's a typo.. should be -0.1ac +2str..  for 550 drachma  :shock:
+apparently it's a typo.. should be -0.1ac +2str.. for 550 drachma <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -1834,7 +1892,7 @@ there's more I think, I have to bail tho..
 
 <div class="post" data-post-id="19171" data-author="*Krom*" data-date="2007-07-06T11:57:52+00:00" data-subject="">
 
-There are about a dozen new items so far, not all of them have shown up in the shops yet.  Also, all of the old items were repriced, so hopefully there will be a lot more items that are good options now.
+There are about a dozen new items so far, not all of them have shown up in the shops yet. Also, all of the old items were repriced, so hopefully there will be a lot more items that are good options now.
 
 PS Weasel, armor by -1 as you are seeing it is actually -.1
 
@@ -1864,9 +1922,9 @@ The reductions are most helpful, I already bought a shield and am enjoying it ve
 
 The crystal staff of the abyss is a healbonus statted weapon.
 
-Why does it have to be classo restricted so that a cleric cant use it?  It doesnt make much sense and seems very odd?  
+Why does it have to be classo restricted so that a cleric cant use it? It doesnt make much sense and seems very odd? 
 
-Could this please be corrected to let a cleric wield a healbonus weapon?  
+Could this please be corrected to let a cleric wield a healbonus weapon? 
 
 Thanks
 
@@ -1896,7 +1954,7 @@ AC-apply is -0.4
 
 Can affect you as:
 
-    Affects: SPELL_BONUS by 15
+ Affects: SPELL\_BONUS by 15
 
 Only those who are at least supreme magic users, warriors, or bards, and 
 
@@ -1916,11 +1974,11 @@ Weight: 0, Value: 850000, Worn in: TAKE
 
 Clasp can only be attached to:
 
-   rings
+ rings
 
-Clasp gives the user +2 STAB_DAMAGE
+Clasp gives the user +2 STAB\_DAMAGE
 
-Clasp gives the user +4 CIRCLE_DAMAGE
+Clasp gives the user +4 CIRCLE\_DAMAGE
 
 Only those who are at least adept thieves may use this item.
 
@@ -1936,25 +1994,32 @@ oh shit you can buy two of those bitches?
 
 pfft... i'm already maxed on stab dam... 
 
-i'd rather save my crackma for another Razors-bracer  8)
+i'd rather save my crackma for another Razors-bracer <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="19199" data-author="*Krom*" data-date="2007-07-09T20:24:51+00:00" data-subject="">
 
-The reductions are most helpful, I already bought a shield and am enjoying it very much.
+> <strong>Mosaix wrote:</strong>
+> The reductions are most helpful, I already bought a shield and am enjoying it very much.
+> 
+> 
+> 
+> The crystal staff of the abyss is a healbonus statted weapon.
+> 
+> Why does it have to be classo restricted so that a cleric cant use it? It doesnt make much sense and seems very odd? 
+> 
+> Could this please be corrected to let a cleric wield a healbonus weapon? 
+> 
+> 
+> 
+> Thanks
+> 
+> 
+> 
+> Mosaix
 
-The crystal staff of the abyss is a healbonus statted weapon.
-
-Why does it have to be classo restricted so that a cleric cant use it?  It doesnt make much sense and seems very odd?  
-
-Could this please be corrected to let a cleric wield a healbonus weapon?  
-
-Thanks
-
-Mosaix[/quote:3cvdgjnw]
-
-The staff is cleric/mage restricted, and level 16 avatar as well.  I didnt change that part, thats how it was setup.
+The staff is cleric/mage restricted, and level 16 avatar as well. I didnt change that part, thats how it was setup.
 
 </div>
 
@@ -1964,19 +2029,19 @@ Sorry Krom, Mosaix is correct.
 
 You can buy:
 
- Price     Item
+ Price Item
 
-----------------------
+\----------------------
 
-*385       crystal staff of the abyss..It has a soft glowing aura!
+\*385 crystal staff of the abyss..It has a soft glowing aura!
 
-----------------------
+\----------------------
 
-* means you need more levels to use it.
+\* means you need more levels to use it.
 
 ! means you are not strong enough to use it.
 
-& means you have studied this spellbook or manual to its max.
+\& means you have studied this spellbook or manual to its max.
 
 Query may also be of use to you, please refer to help query.
 
@@ -1984,7 +2049,7 @@ Query may also be of use to you, please refer to help query.
 
 query man about staff
 
-The Magistrate Adante tells you 'Certainly, Sir!  Let me tell you about crystal staff of the abyss:'
+The Magistrate Adante tells you 'Certainly, Sir! Let me tell you about crystal staff of the abyss:'
 
 Object 'staff crystal abyss elite high', Item type: WEAPON
 
@@ -1996,9 +2061,9 @@ Damage Dice is '1D10'
 
 Can affect you as:
 
-    Affects: SPELL_BONUS by 10
+ Affects: SPELL\_BONUS by 10
 
-    Affects: HEAL_BONUS by 10
+ Affects: HEAL\_BONUS by 10
 
 Only those who are at least supreme magic users and also supreme clerics,
 
@@ -2008,15 +2073,16 @@ this item.
 
 i.e. SMa SCl Sdr Sne AdAV {AND}
 
-So this weapon is _ONLY_ for quad casters that are Adept Avatars.
+So this weapon is \_ONLY\_ for quad casters that are Adept Avatars.
 
 </div>
 
 <div class="post" data-post-id="19201" data-author="Autolycos" data-date="2007-07-10T02:10:31+00:00" data-subject="">
 
-Sorry Krom, Mosaix is correct.
-
-So this weapon is _ONLY_ for quad casters that are Adept Avatars.[/quote:2rwad3l1]
+> <strong>madmax wrote:</strong>
+> Sorry Krom, Mosaix is correct.
+> 
+> So this weapon is \_ONLY\_ for quad casters that are Adept Avatars.
 
 Two things that scare me....
 
@@ -2030,15 +2096,15 @@ And Quad casters wielding Abyssal staves....
 
 I only recently bothered to stat it due to the fact I believe the price was lowered, and I had the drachma to bother to stat it.
 
-In general I can sort of respect a weapon or eq being statted for the purpose of a quad caster.  
+In general I can sort of respect a weapon or eq being statted for the purpose of a quad caster. 
 
-Also there are several drachma items that i would enjoy but accept that I can never use them because they are meant for druids etc.  example. the mana regen shield, and unicorn hooves.  Thats fine really.
+Also there are several drachma items that i would enjoy but accept that I can never use them because they are meant for druids etc. example. the mana regen shield, and unicorn hooves. Thats fine really.
 
-My question again was, why is a healbonus weapon, which is cleric related, being statted so a cleric prime cant use it?  I cant understand a quad caster with cleric 4th class being able to soak up more healbonus than a Cleric prime.  Thats wierd.   
+My question again was, why is a healbonus weapon, which is cleric related, being statted so a cleric prime cant use it? I cant understand a quad caster with cleric 4th class being able to soak up more healbonus than a Cleric prime. Thats wierd. 
 
-Also I didnt say it was done recently, the discount made me bother to look at it.   And really if it was statted now or 10 years ago thats not what I am asking about.
+Also I didnt say it was done recently, the discount made me bother to look at it. And really if it was statted now or 10 years ago thats not what I am asking about.
 
-I really think its, odd, and out of place.    Im not looking to bother or slander anyone.  Just asking someone to consider looking at it, and making a resonable change to reflect what the item does.  
+I really think its, odd, and out of place. Im not looking to bother or slander anyone. Just asking someone to consider looking at it, and making a resonable change to reflect what the item does. 
 
 The weapon looks good as a quad caster item, just make it an OR item instead of an AND item.
 
@@ -2056,7 +2122,7 @@ no-one will bother
 
 <div class="post" data-post-id="19209" data-author="Weasel" data-date="2007-07-10T20:51:17+00:00" data-subject="">
 
-please, anything for warriors? yes there's a -0.6 robe, but there was a -0.6 robe before the new additions as well..  I'm hoping something will appear next reboot/crash..
+please, anything for warriors? yes there's a -0.6 robe, but there was a -0.6 robe before the new additions as well.. I'm hoping something will appear next reboot/crash..
 
 </div>
 
@@ -2068,37 +2134,41 @@ U mean what about Monks, Bardsm abd Druids.
 
 <div class="post" data-post-id="19211" data-author="Autolycos" data-date="2007-07-10T21:22:42+00:00" data-subject="">
 
-U mean what about Monks, Bardsm abd Druids.[/quote:ip7ex35g]
+> <strong>Leaf wrote:</strong>
+> U mean what about Monks, Bardsm abd Druids.
 
-[b:ip7ex35g]Laugh....  Will is Mushmouth!!![/b:ip7ex35g]   :shock: 
+<strong>Laugh.... Will is Mushmouth!!!</strong> <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
 abba dooba fabba alba, 
 
-bheyba gobba nooba dababka ebbquebas   :twisted: 
+bheyba gobba nooba dababka ebbquebas <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-[img:ip7ex35g]http://www.lasvegasmercury.com/2004/MERC-Nov-25-Thu-2004/photos/guest.jpg[/img:ip7ex35g]
+![](http://www.lasvegasmercury.com/2004/MERC-Nov-25-Thu-2004/photos/guest.jpg)
 
 </div>
 
 <div class="post" data-post-id="19212" data-author="Leaf" data-date="2007-07-10T21:57:29+00:00" data-subject="">
 
-What happened to the "Edit" Button?  I don't have it on my box!
+What happened to the "Edit" Button? I don't have it on my box!
 
 </div>
 
 <div class="post" data-post-id="19213" data-author="Weasel" data-date="2007-07-11T00:02:21+00:00" data-subject="">
 
-What happened to the "Edit" Button?  I don't have it on my box![/quote:6gvo3voc]    :shock:
+> <strong>Leaf wrote:</strong>
+> What happened to the "Edit" Button? I don't have it on my box!
+
+ <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="19214" data-author="Mosaix" data-date="2007-07-11T02:05:35+00:00" data-subject="">
 
-Silly people.  Try being a cleric prime.  
+Silly people. Try being a cleric prime. 
 
-Its the redheaded dirty stepchild of sloth.  
+Its the redheaded dirty stepchild of sloth. 
 
-Beware the flamestrike.  Dork mace to the rescue(when a leader lets you use it).  Back of the line picks for quest eq!  err leftovers.  Yes lets raise the cleric robes to 425dr, and leave the others low.  Raise me help me!  You dumbass you werent in shock mode when you raised me, why did you raise me!(Keep in mind the player that said this didnt shock)  We will make healbonus eq, but make it so cleric primes, who arent quad casters, cant use it.  No no everyone sit back and let me heal the group.  Blame me for botting when im at 4ma and cant heal anymore.  Keeping in mind the tank died cause the rest of the group was botting.
+Beware the flamestrike. Dork mace to the rescue(when a leader lets you use it). Back of the line picks for quest eq! err leftovers. Yes lets raise the cleric robes to 425dr, and leave the others low. Raise me help me! You dumbass you werent in shock mode when you raised me, why did you raise me!(Keep in mind the player that said this didnt shock) We will make healbonus eq, but make it so cleric primes, who arent quad casters, cant use it. No no everyone sit back and let me heal the group. Blame me for botting when im at 4ma and cant heal anymore. Keeping in mind the tank died cause the rest of the group was botting.
 
 I challenge everyone to make a Cleric prime, without druid if you really want a challenge, and enjoy what it is to be a cleric prime.
 
@@ -2116,7 +2186,7 @@ Sorry Broc, no chance in hell im giving up my 158 mana regen sleeping in vault w
 
 Its times like this I have to wonder if Broc has ever been in one of my groups.
 
-I will tell you that playing an old classo cleric is a serious handicap.  There's simply no way to make up for having 2 non-mana classes wedged into the end of your classo. Krok seems to do well with it though.
+I will tell you that playing an old classo cleric is a serious handicap. There's simply no way to make up for having 2 non-mana classes wedged into the end of your classo. Krok seems to do well with it though.
 
 </div>
 
@@ -2136,7 +2206,7 @@ teehee
 
 <div class="post" data-post-id="19220" data-author="Leaf" data-date="2007-07-11T15:27:44+00:00" data-subject="">
 
-We now wait for the new/redo 3x40 eq for new classes  :lol:
+We now wait for the new/redo 3x40 eq for new classes <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -2144,7 +2214,7 @@ We now wait for the new/redo 3x40 eq for new classes  :lol:
 
 all classes have thier weaknesses, they even have thier strengths...
 
-oldschool & new age.
+oldschool \& new age.
 
 there is eq i cannot use that i would like to, but no-one is better, no-one is worse
 
@@ -2178,11 +2248,12 @@ Mosaix
 
 <div class="post" data-post-id="19232" data-author="Autolycos" data-date="2007-07-11T20:51:01+00:00" data-subject="">
 
-STFU Jason![/quote:pddyets5]
+> <strong>Leaf wrote:</strong>
+> STFU Jason!
 
 And that my friend is exactly why I commend you being a literary genious.
 
-To Broc. I agree that the quad restrict is retarded.  I can understand cl/ma restrict.. but i'm sure they could find a way to make it ca/ca+av instead of what it is..  so until then, i'll just blame Yinao.
+To Broc. I agree that the quad restrict is retarded. I can understand cl/ma restrict.. but i'm sure they could find a way to make it ca/ca+av instead of what it is.. so until then, i'll just blame Yinao.
 
 </div>
 
@@ -2196,17 +2267,17 @@ me i'm looking for my axe...
 
 that staff is almost junk anyway...
 
-at times i wish i had less healbonus not more... :twisted:
+at times i wish i had less healbonus not more... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="19240" data-author="Autolycos" data-date="2007-07-12T01:37:51+00:00" data-subject="">
 
-OMFG  :shock: 
+OMFG <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
 i understood what Brand said.....
 
-either he is sober or i'm high  :wink:
+either he is sober or i'm high <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -2214,7 +2285,7 @@ either he is sober or i'm high  :wink:
 
 Mosaix, nowdays its so damn easy to get awesome exp.
 
-[40n 40m 40c 40o 10a] Ever ~oldschool punks newbie~
+[40n 40m 40c 40o 10a] Ever \~oldschool punks newbie\~
 
 You have been playing for 11 days and 23 hours.
 
@@ -2224,9 +2295,9 @@ i work damn hard in rl but still get some exp
 
 <div class="post" data-post-id="19250" data-author="Mosaix" data-date="2007-07-12T17:59:25+00:00" data-subject="">
 
-I have no doubt that with some clan help I could rocket a player quickly.  I may even do that yet.
+I have no doubt that with some clan help I could rocket a player quickly. I may even do that yet.
 
-At the moment logging on once in awhile for social fun it about all I want to do, and envolve myself with in sloth.   Also nothing wrong with wanting to make the char choice you did level up even better and move fun to play.  I think my previous comments are trying to do that.  
+At the moment logging on once in awhile for social fun it about all I want to do, and envolve myself with in sloth. Also nothing wrong with wanting to make the char choice you did level up even better and move fun to play. I think my previous comments are trying to do that. 
 
 Mosaix
 

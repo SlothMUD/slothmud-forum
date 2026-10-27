@@ -20,19 +20,20 @@ Totro, the Fantasy Random Name Generator, currently does not put spaces or new l
 
 <div class="post" data-post-id="19585" data-author="brady" data-date="2007-08-04T20:17:43+00:00" data-subject="">
 
-whadda ya mean?  PlihnDufeunSkawnUcinOruponKlostanKraafrunnAstribranIutaanKlascanIarkonnSreeplenOjenMabnVemnMecnUslenOecarknOipleosinGriln makes a fine name.
+whadda ya mean? PlihnDufeunSkawnUcinOruponKlostanKraafrunnAstribranIutaanKlascanIarkonnSreeplenOjenMabnVemnMecnUslenOecarknOipleosinGriln makes a fine name.
 
 </div>
 
 <div class="post" data-post-id="19586" data-author="Weasel" data-date="2007-08-04T20:20:01+00:00" data-subject="">
 
-:D  hehe
+<img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> hehe
 
 </div>
 
 <div class="post" data-post-id="19588" data-author="12345" data-date="2007-08-05T00:45:41+00:00" data-subject="">
 
-[code:2zbq40r9]Illegal name, please try another.
+```
+Illegal name, please try another.
 
 Name: PlihnDufeunSkawnUcinOruponKlostanKraafrunnAstribranIutaan
 
@@ -62,6 +63,7 @@ Name: PlihnDufeunSkawnUcin
 
 Illegal name, please try another.
 
-Name: PlihnDufeunSkawn[/code:2zbq40r9]
+Name: PlihnDufeunSkawn
+```
 
 </div>

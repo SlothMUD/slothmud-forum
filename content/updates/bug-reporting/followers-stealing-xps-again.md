@@ -30,7 +30,7 @@ A centaur ranger is dead! R.I.P.
 
 Your blood freezes as you hear a centaur ranger's death cry.
 
-These are my followers and I'm running solo ... have also had it happen a lot today with Drangr and ifrit...  seems like anytime a follower kills with a proc you get no xps for the kill.
+These are my followers and I'm running solo ... have also had it happen a lot today with Drangr and ifrit... seems like anytime a follower kills with a proc you get no xps for the kill.
 
 Blastem
 
@@ -46,9 +46,9 @@ Monks do IT with their hands!
 
 <div class="post" data-post-id="7996" data-author="Taki" data-date="2005-07-25T05:24:19+00:00" data-subject="">
 
-same happens with mage familiars. Having a wolverine fam is quite nice for its 4 attacks, but then you miss the kill xp almost always :( 
+same happens with mage familiars. Having a wolverine fam is quite nice for its 4 attacks, but then you miss the kill xp almost always <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom"> 
 
-I foresee a quick drop in followers' value... sell your stock options now! :P
+I foresee a quick drop in followers' value... sell your stock options now! <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -62,7 +62,7 @@ Or maybe Kj can take a look and see if he could fix the proc stealing xp thingy.
 
 Familiars deliberately don't give xp.
 
-As far as the other followers, that's definitely a bug.  I glanced at the code this weekend and it wasn't immediately obvious why it happened.  I'll try to figure it out sometime soon.
+As far as the other followers, that's definitely a bug. I glanced at the code this weekend and it wasn't immediately obvious why it happened. I'll try to figure it out sometime soon.
 
 </div>
 
@@ -76,7 +76,7 @@ aa
 
 <div class="post" data-post-id="8017" data-author="kjartan" data-date="2005-07-26T01:49:47+00:00" data-subject="">
 
-Ok, this should in theory be fixed.  Anyway I fixed all the undeads and all the supplication mobs.  The ones that were likely to have stolen xp were:
+Ok, this should in theory be fixed. Anyway I fixed all the undeads and all the supplication mobs. The ones that were likely to have stolen xp were:
 
 drangr
 
@@ -86,7 +86,7 @@ wight
 
 vilewight
 
-A number of other mobs had been modified so that their procs never killed anybody do avoid xp stealing; I took this back out since they should share xp properly now.  Let me know if the problem persists with undead (summoned or animated) or supplication mobs.
+A number of other mobs had been modified so that their procs never killed anybody do avoid xp stealing; I took this back out since they should share xp properly now. Let me know if the problem persists with undead (summoned or animated) or supplication mobs.
 
 </div>
 

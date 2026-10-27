@@ -16,6 +16,6 @@ wtb: 2x ring ribbons...yes i know they're no longer in game and i know they're s
 
 Thanks
 
--Ezekiel
+\-Ezekiel
 
 </div>

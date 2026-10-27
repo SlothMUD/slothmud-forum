@@ -22,6 +22,6 @@ sable blood rune
 
 if u got anything for sale/trade plz catch me ingame or post here.
 
-thanks :)
+thanks <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

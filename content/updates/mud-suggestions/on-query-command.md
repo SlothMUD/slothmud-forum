@@ -16,13 +16,13 @@ It would be nice to have an universal identifyer for any merchant, scribe, smith
 
 Even better it would be making query a general command with no need of a target npc:
 
-> query about 4.slice
+\> query about 4.slice
 
 instead of
 
-> query Ruffledbreadmaker about 4.slice
+\> query Ruffledbreadmaker about 4.slice
 
-Please? :P
+Please? <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -34,6 +34,6 @@ peddler, merchant, or shopkeeper would be good.
 
 <div class="post" data-post-id="7396" data-author="12345" data-date="2005-06-21T10:03:14+00:00" data-subject="">
 
-Are there many places where there's 2 shopkeepers in one room?  Only one I can think of off hand is the Twelve Geese... maybe.
+Are there many places where there's 2 shopkeepers in one room? Only one I can think of off hand is the Twelve Geese... maybe.
 
 </div>

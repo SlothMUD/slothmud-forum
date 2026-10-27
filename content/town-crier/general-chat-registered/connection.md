@@ -12,7 +12,7 @@ post_count: 8
 
 <div class="post" data-post-id="13365" data-author="Hobbes" data-date="2006-07-07T17:03:39+00:00" data-subject="Connection">
 
-Anyone else having trouble connecting?  I get to the options screen and when I push 1 to enter, it freezes up.  Anyone know what the problem is?
+Anyone else having trouble connecting? I get to the options screen and when I push 1 to enter, it freezes up. Anyone know what the problem is?
 
 </div>
 
@@ -36,19 +36,19 @@ Splork
 
 <div class="post" data-post-id="13369" data-author="kjartan" data-date="2006-07-07T20:18:25+00:00" data-subject="">
 
-I have moved away Elwin's rent, which seems to be the source of the trouble.  This will hopefully stop the crashes when he logs in.  If he comes on and is naked, will somebody please make fun of him for me?  I am looking for a backup to restore him from at the moment.
+I have moved away Elwin's rent, which seems to be the source of the trouble. This will hopefully stop the crashes when he logs in. If he comes on and is naked, will somebody please make fun of him for me? I am looking for a backup to restore him from at the moment.
 
 </div>
 
 <div class="post" data-post-id="13370" data-author="Elwin" data-date="2006-07-07T20:37:09+00:00" data-subject="">
 
-Sorry about the crashes ealier today mudders.  I didn't realize that I was the source of it at first. *blush*
+Sorry about the crashes ealier today mudders. I didn't realize that I was the source of it at first. \*blush\*
 
 </div>
 
 <div class="post" data-post-id="13371" data-author="kjartan" data-date="2006-07-07T20:43:25+00:00" data-subject="">
 
-What sort of state is your rent in?  I restored it from yesterday's backup, does it seem intact?  (I can't log on right now- if there's a problem, contact an imm when you see one.)
+What sort of state is your rent in? I restored it from yesterday's backup, does it seem intact? (I can't log on right now- if there's a problem, contact an imm when you see one.)
 
 </div>
 

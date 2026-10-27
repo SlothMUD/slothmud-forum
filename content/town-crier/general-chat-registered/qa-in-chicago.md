@@ -12,21 +12,21 @@ post_count: 5
 
 <div class="post" data-post-id="27232" data-author="Qa" data-date="2008-11-20T00:16:40+00:00" data-subject="Qa in Chicago">
 
-Heya.  I am downtown Chicago (Gold Coast) off and on for a while on busines.  Anybody around here?
+Heya. I am downtown Chicago (Gold Coast) off and on for a while on busines. Anybody around here?
 
-Been a while.  Both I and my spouse got laid off in 2007.  Work is much harder.  Two kids these days.  Busy times indeed.
+Been a while. Both I and my spouse got laid off in 2007. Work is much harder. Two kids these days. Busy times indeed.
 
 Miss y'all.
 
 Qa
 
-ps - Tried to post an obligatory kid(s) pic, but couldn't get the image posting thingey to work.  What's the trick?
+ps - Tried to post an obligatory kid(s) pic, but couldn't get the image posting thingey to work. What's the trick?
 
 </div>
 
 <div class="post" data-post-id="27235" data-author="Alberich" data-date="2008-11-20T00:54:36+00:00" data-subject="">
 
-heh i'm about 2 miles from the loop (over in bucktown) but just so happens i have class at the HP training facility at monroe/wells all week.  i'll meet ya for a drink or something after class/work (5ish?) if you're bored ;)
+heh i'm about 2 miles from the loop (over in bucktown) but just so happens i have class at the HP training facility at monroe/wells all week. i'll meet ya for a drink or something after class/work (5ish?) if you're bored <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -34,7 +34,7 @@ heh i'm about 2 miles from the loop (over in bucktown) but just so happens i hav
 
 Sup Qa,
 
-I work in Chicago (BoA).  I know we played in groups yrs ago...
+I work in Chicago (BoA). I know we played in groups yrs ago...
 
 Previous chars:
 
@@ -46,7 +46,7 @@ Edge
 
 <div class="post" data-post-id="28605" data-author="Qa" data-date="2009-03-24T01:13:34+00:00" data-subject="">
 
-Still with us, Leaf?  Drop me an pm, k?
+Still with us, Leaf? Drop me an pm, k?
 
 </div>
 
@@ -54,6 +54,6 @@ Still with us, Leaf?  Drop me an pm, k?
 
 Actually I quit my job at Bank of America in Decemeber and now work for
 
-a smaller bank in Rosemont.  Sorry that we couldn't meet up :(
+a smaller bank in Rosemont. Sorry that we couldn't meet up <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>

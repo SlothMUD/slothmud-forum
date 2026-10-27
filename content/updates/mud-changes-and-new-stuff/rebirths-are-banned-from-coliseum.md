@@ -16,8 +16,8 @@ So first I discover that rebirths maintained all their skills from all levels an
 
 Then I discover that rebirths are wearing high level equipment in the coliseum and I've shifted from not pleased, to somewhat angry.
 
-Rebirths are immediately banned from coliseum.  If there is any change which would allow them compete on a fair basis with other mortals, I will reconsider. 
+Rebirths are immediately banned from coliseum. If there is any change which would allow them compete on a fair basis with other mortals, I will reconsider. 
 
-For future reference, if you find an exploit with the coliseum, it is not enuff to simply report it with the bugs  command, YOU ALSO HAVE TO REFRAIN FROM EXPLOITING IT.
+For future reference, if you find an exploit with the coliseum, it is not enuff to simply report it with the bugs command, YOU ALSO HAVE TO REFRAIN FROM EXPLOITING IT.
 
 </div>

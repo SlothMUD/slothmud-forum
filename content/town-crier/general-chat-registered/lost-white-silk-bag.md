@@ -14,13 +14,13 @@ post_count: 1
 
 Hello all,
 
-If anyone has found a white silk bag (shard bag) in the last week or so, I would appreciate it returned to me.  Somehow it was lost in a death and not noticed it being missing until it was too late.  It was full of shards for finding peristrata's and teaching.  I had 2 and now I just have the one.
+If anyone has found a white silk bag (shard bag) in the last week or so, I would appreciate it returned to me. Somehow it was lost in a death and not noticed it being missing until it was too late. It was full of shards for finding peristrata's and teaching. I had 2 and now I just have the one.
 
 It will id as this:
 
 You feel informed:
 
-Object 'bag silk white shards container *Madmax*', Item type: CONTAINER
+Object 'bag silk white shards container \*Madmax\*', Item type: CONTAINER
 
 Maxweight: 40
 

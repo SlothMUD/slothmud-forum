@@ -12,7 +12,7 @@ post_count: 4
 
 <div class="post" data-post-id="33453" data-author="Jecka" data-date="2012-08-21T07:33:15+00:00" data-subject="Goblin trader quest">
 
-on completing bag_of_merchandise quest
+on completing bag\_of\_merchandise quest
 
 this G trader gives you a new quest but only names it once (to bring new bag to Wagoneer leader).
 
@@ -24,7 +24,7 @@ Little help please? Anybody remember?
 
 <div class="post" data-post-id="33457" data-author="*Breeze*" data-date="2012-08-21T16:40:04+00:00" data-subject="Re: Goblin trader quest">
 
-deliver_tha_merchandise
+deliver\_tha\_merchandise
 
 i think
 
@@ -38,13 +38,13 @@ i think
 
 <div class="post" data-post-id="33459" data-author="Jecka" data-date="2012-08-22T10:44:35+00:00" data-subject="Re: Goblin trader quest">
 
-:(
+<img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 but i got 1 more question
 
 once i try to undertake a new serie of quests he finally tells:
 
-The hobgoblin trader tells you 'Sorry, but you must first complete 'merchandise_delivery_completed' and aren't eligible.'
+The hobgoblin trader tells you 'Sorry, but you must first complete 'merchandise\_delivery\_completed' and aren't eligible.'
 
 and when i try to undertake or simply ask bout that one he says
 

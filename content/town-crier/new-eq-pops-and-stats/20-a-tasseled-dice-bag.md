@@ -24,6 +24,6 @@ shyla
 
 <div class="post" data-post-id="32808" data-author="*Breeze*" data-date="2011-08-07T23:19:22+00:00" data-subject="Re: 20        a tasseled dice bag">
 
-you can also 'tie tassels' and 'untie tassels' to open(unlock)/close(lock) the family jewels away :)
+you can also 'tie tassels' and 'untie tassels' to open(unlock)/close(lock) the family jewels away <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

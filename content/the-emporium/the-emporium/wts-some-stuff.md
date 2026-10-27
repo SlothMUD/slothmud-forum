@@ -12,9 +12,9 @@ post_count: 2
 
 <div class="post" data-post-id="510" data-author="Krok" data-date="2004-06-03T15:57:53+00:00" data-subject="Wts: some stuff">
 
-ok, guys, i've posted my bids on the old auction, cuz i find that one very uncomfortable :)
+ok, guys, i've posted my bids on the old auction, cuz i find that one very uncomfortable <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-http:\\www.slothmud.org\sloth\auction
+http:\\\\www.slothmud.org\\sloth\\auction
 
 </div>
 

@@ -12,13 +12,11 @@ post_count: 6
 
 <div class="post" data-post-id="36066" data-author="cyprimus" data-date="2015-09-01T07:59:12+00:00" data-subject="Rip off/cheat warning">
 
-Be warned, the old paka refuses to return my character primal.. leaving me stuck with a badly eq'ed mage with a bad rap sheet for previous cheating.  Was supposed to try it out for a week, but instead he immediatly refused to return it saying i owe him eq etc.. he got a fully eq'ed max avvie druid with pristine rap sheet, and only 116 days logged.
+Be warned, the old paka refuses to return my character primal.. leaving me stuck with a badly eq'ed mage with a bad rap sheet for previous cheating. Was supposed to try it out for a week, but instead he immediatly refused to return it saying i owe him eq etc.. he got a fully eq'ed max avvie druid with pristine rap sheet, and only 116 days logged.
 
 He lied to me about the eq, stats, and rap sheet of the character he traded, and then refused to return primal when i told him i did not want it.
 
- 
-
-Asked his clannies about it, they think its funny.  
+Asked his clannies about it, they think its funny. 
 
 This is bs.
 
@@ -28,7 +26,7 @@ Return my alt
 
 <div class="post" data-post-id="36067" data-author="*Breeze*" data-date="2015-09-01T10:36:32+00:00" data-subject="Re: Rip off/cheat warning">
 
-the problem is you didn't involve an immortal in it at all.  there is a reason we say sharing passwords is frowned upon.
+the problem is you didn't involve an immortal in it at all. there is a reason we say sharing passwords is frowned upon.
 
 even asking me to watch while you both agreed to trade for a week would have done it.
 
@@ -62,25 +60,23 @@ Get it sorted guys, it would suck to lose any of you..
 
 <div class="post" data-post-id="36072" data-author="Ker" data-date="2015-09-01T18:04:37+00:00" data-subject="Re: Rip off/cheat warning">
 
-1) Who gives a flying rat's ass over "bad rap sheet" when both of you were trading chars?
+1\) Who gives a flying rat's ass over "bad rap sheet" when both of you were trading chars?
 
 With Sloth's daily average, yeah maybe the BalHarbor streetsweeper has something to say.
 
-2) How did 2.2k drachma worth of items VS a 400 drachma item leave you stuck on a badly eq'ed mage?
+2\) How did 2.2k drachma worth of items VS a 400 drachma item leave you stuck on a badly eq'ed mage?
 
-3) The talk of trade between you two, though I was fully against it in all views, was in the air for quite the time now. Weekly try outs? Nobody is that stupid, only our PM is.
+3\) The talk of trade between you two, though I was fully against it in all views, was in the air for quite the time now. Weekly try outs? Nobody is that stupid, only our PM is.
 
-4) Paka did not receive a "fully eq'ed" character. Upon inspection, your eq was close to rubbish. So terrifying in fact that the BalHarbor streetsweeper rejected them. The only drachma spent was on a 400+ shield...which also translates to how you make really poor decisions, esp you crying here. *PS How did you play to 9x40 with only 400 drachma invested in the char and of all things, a crappy shield?
+4\) Paka did not receive a "fully eq'ed" character. Upon inspection, your eq was close to rubbish. So terrifying in fact that the BalHarbor streetsweeper rejected them. The only drachma spent was on a 400+ shield...which also translates to how you make really poor decisions, esp you crying here. \*PS How did you play to 9x40 with only 400 drachma invested in the char and of all things, a crappy shield?
 
-5) Yes, ask me about it. It is absolutely hillarious.
+5\) Yes, ask me about it. It is absolutely hillarious.
 
-6) Yes, this rant is bs.
+6\) Yes, this rant is bs.
 
-7) Even If I were in Paka's shoes, why the hell would I return it? 
+7\) Even If I were in Paka's shoes, why the hell would I return it? 
 
 "Hey lets trade chars for a week and test it, if you're good lets trade" is so dubious. 
-
- 
 
 Here's to a better day.
 

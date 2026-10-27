@@ -12,7 +12,7 @@ post_count: 3
 
 <div class="post" data-post-id="459" data-author="Eagle" data-date="2004-06-01T21:19:00+00:00" data-subject="carved stone medalion 500k">
 
-Large Stone Medallion  -0.4 +15 Mana AdC
+Large Stone Medallion -0.4 +15 Mana AdC
 
 </div>
 

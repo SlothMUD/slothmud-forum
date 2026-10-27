@@ -14,9 +14,9 @@ post_count: 4
 
 The crash brought us:
 
-- The schedule list colors have changed to make it more readable
+\- The schedule list colors have changed to make it more readable
 
-- New MSDP variables GROUP2 and GROUP2_JSON.  They're a little different than GROUP.  The player name is listed in the top level table and the STATUS field for each player contains things like "Dead" or "Webbed" or "Blind,Bound,Webbed", etc.  Or it could contain "Ok".  I also believe it will work correctly with incredibly large groups like we sometimes see on major holidays.
+\- New MSDP variables GROUP2 and GROUP2\_JSON. They're a little different than GROUP. The player name is listed in the top level table and the STATUS field for each player contains things like "Dead" or "Webbed" or "Blind,Bound,Webbed", etc. Or it could contain "Ok". I also believe it will work correctly with incredibly large groups like we sometimes see on major holidays.
 
 </div>
 
@@ -30,14 +30,14 @@ Also could you please tell me which msdp variable is the best to use for my hp, 
 
 <div class="post" data-post-id="38387" data-author="*teker*" data-date="2017-08-08T02:01:57+00:00" data-subject="Re: Changelog 2017-07-29">
 
-I would love to see one of the malformed JSON values.  The code for native MSDP versus JSON is the same except for the encoder so the same bug will be present in both.  I suspect it may have to do with the code I put in to handle larger groups.  I've only been able to test it with a small group myself, but I'm travelling this week so maybe I'll be able to catch a group one evening.
+I would love to see one of the malformed JSON values. The code for native MSDP versus JSON is the same except for the encoder so the same bug will be present in both. I suspect it may have to do with the code I put in to handle larger groups. I've only been able to test it with a small group myself, but I'm travelling this week so maybe I'll be able to catch a group one evening.
 
-Right now the updates are the same for GROUP2 and CHARACTER_HEALTH.  I'm thinking CHARACTER_HEALTH might go away if GROUP2 contains the same amount of player information.  The older variables (MANA, etc) refresh at the same time as well.
+Right now the updates are the same for GROUP2 and CHARACTER\_HEALTH. I'm thinking CHARACTER\_HEALTH might go away if GROUP2 contains the same amount of player information. The older variables (MANA, etc) refresh at the same time as well.
 
 </div>
 
 <div class="post" data-post-id="38388" data-author="*teker*" data-date="2017-08-08T19:43:25+00:00" data-subject="Re: Changelog 2017-07-29">
 
-I'm pretty sure I found it.  The fix should go in next reboot.
+I'm pretty sure I found it. The fix should go in next reboot.
 
 </div>

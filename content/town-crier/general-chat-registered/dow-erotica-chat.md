@@ -12,21 +12,21 @@ post_count: 11
 
 <div class="post" data-post-id="14341" data-author="Medios" data-date="2006-09-28T00:03:31+00:00" data-subject="DoW erotica chat">
 
-Mojo[Clan:The Dogs of War]> 'yep'
+Mojo[Clan:The Dogs of War]\> 'yep'
 
-Mojo[Clan:The Dogs of War]> 'I battle Krok once'
+Mojo[Clan:The Dogs of War]\> 'I battle Krok once'
 
-Mojo[Clan:The Dogs of War]> 'was touchin her up'
+Mojo[Clan:The Dogs of War]\> 'was touchin her up'
 
-Medios[Clan:The Dogs of War]> 'tell me more'
+Medios[Clan:The Dogs of War]\> 'tell me more'
 
-Mojo[Clan:The Dogs of War]> 'then she started tossin'
+Mojo[Clan:The Dogs of War]\> 'then she started tossin'
 
-Medios[Clan:The Dogs of War]> 'woohoo'
+Medios[Clan:The Dogs of War]\> 'woohoo'
 
-Mojo[Clan:The Dogs of War]> 'nothing I could do'
+Mojo[Clan:The Dogs of War]\> 'nothing I could do'
 
-Mojo[Clan:The Dogs of War]> 'she tossed me continuously till dead :)'
+Mojo[Clan:The Dogs of War]\> 'she tossed me continuously till dead <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">'
 
 </div>
 
@@ -38,19 +38,19 @@ Hell, you should see what she can do with a couple pingpong balls.
 
 <div class="post" data-post-id="14344" data-author="Avatar" data-date="2006-09-28T00:29:40+00:00" data-subject="chat chat">
 
-Avatar[Clan:The Dogs of War]> 'that gset transfer is the best new command since "slice bread"'
+Avatar[Clan:The Dogs of War]\> 'that gset transfer is the best new command since "slice bread"'
 
 </div>
 
 <div class="post" data-post-id="14345" data-author="*Splork*" data-date="2006-09-28T00:54:46+00:00" data-subject="">
 
-I reminder to clan DoW, no netsex on Sloth :shock:
+I reminder to clan DoW, no netsex on Sloth <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="14347" data-author="Avatar" data-date="2006-09-28T02:22:58+00:00" data-subject="no netsex!?!">
 
-Is that a new rule?  We been doing that since oh '91 or '92.
+Is that a new rule? We been doing that since oh '91 or '92.
 
 Remember the mud weddings?
 
@@ -58,7 +58,7 @@ Remember the mud weddings?
 
 <div class="post" data-post-id="14349" data-author="12345" data-date="2006-09-28T02:41:05+00:00" data-subject="">
 
-Laugh! Got spammed out of the Kirin+Elric wedding and ended up number 30+ on the queue trying to get back in :)
+Laugh! Got spammed out of the Kirin+Elric wedding and ended up number 30+ on the queue trying to get back in <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -70,13 +70,13 @@ Damn guys, hurry, someone tell Firebrand that's not XXX rated mud anymore! :)
 
 <div class="post" data-post-id="14362" data-author="firebrand" data-date="2006-09-28T14:28:23+00:00" data-subject="">
 
-*inserts another $0.25 into the slot*
+\*inserts another $0.25 into the slot\*
 
 </div>
 
 <div class="post" data-post-id="14371" data-author="Medios" data-date="2006-09-28T21:33:32+00:00" data-subject="">
 
-This is clearly a joke, Keith was telling me about Nab vs Krok in the arena.  I read what he said and thought it was funny.  Nobody in DoW wastes slothmud time with panty chat.  They got ICQ for that.
+This is clearly a joke, Keith was telling me about Nab vs Krok in the arena. I read what he said and thought it was funny. Nobody in DoW wastes slothmud time with panty chat. They got ICQ for that.
 
 Mike
 
@@ -92,6 +92,6 @@ SPlork
 
 <div class="post" data-post-id="15205" data-author="13" data-date="2006-11-16T12:24:33+00:00" data-subject="The truth hurts.">
 
-[img:qqcl1run]http://www.studiolo.org/WPS/PR/images/WPSPR-DB_Shedding%20Buck.jpg[/img:qqcl1run]
+![](http://www.studiolo.org/WPS/PR/images/WPSPR-DB_Shedding%20Buck.jpg)
 
 </div>

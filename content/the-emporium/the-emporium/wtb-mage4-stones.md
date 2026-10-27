@@ -12,7 +12,7 @@ post_count: 2
 
 <div class="post" data-post-id="2419" data-author="Eagle" data-date="2004-10-23T04:35:47+00:00" data-subject="WTB mage4 stones">
 
-i need 4 more stones, if you have any to get rid of, let me know,  thanks
+i need 4 more stones, if you have any to get rid of, let me know, thanks
 
 </div>
 

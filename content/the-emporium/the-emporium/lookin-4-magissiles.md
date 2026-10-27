@@ -12,7 +12,7 @@ post_count: 2
 
 <div class="post" data-post-id="28099" data-author="Leaf" data-date="2009-02-14T03:10:18+00:00" data-subject="Lookin 4 Magissiles">
 
-Hey u sent a message, and I haven't logged on for a month.  
+Hey u sent a message, and I haven't logged on for a month. 
 
 I sent another PM but no response....
 
@@ -22,6 +22,6 @@ I sent another PM but no response....
 
 Here ya go...glad I could help.
 
-[img:px4eioq0]http://www.raisemyrank.com/images/qq/vagisil.png[/img:px4eioq0]
+![](http://www.raisemyrank.com/images/qq/vagisil.png)
 
 </div>

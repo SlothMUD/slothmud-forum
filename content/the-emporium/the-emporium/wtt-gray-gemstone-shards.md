@@ -12,7 +12,7 @@ post_count: 1
 
 <div class="post" data-post-id="9113" data-author="Blastem" data-date="2005-10-22T02:15:52+00:00" data-subject="WTT Gray Gemstone Shards">
 
-I gotta healbonus shard wanna trade for the spellbonus one give me a yell with offers :)
+I gotta healbonus shard wanna trade for the spellbonus one give me a yell with offers <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Blastem
 

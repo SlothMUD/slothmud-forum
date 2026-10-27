@@ -30,9 +30,9 @@ Weight: 1, Value: 26437gold, Worn in: TAKE HOLD
 
 Can affect you as:
 
-    Affects: RESIST_FIRE by 10
+ Affects: RESIST\_FIRE by 10
 
-    Affects: INT by 1
+ Affects: INT by 1
 
 Only those who are at least experienced magic users, clerics, druids,
 
@@ -54,9 +54,9 @@ AC-apply is -0.2
 
 Can affect you as:
 
-    Affects: STAB_DAMAGE by 5
+ Affects: STAB\_DAMAGE by 5
 
-    Affects: CIRCLE_DAMAGE by 5
+ Affects: CIRCLE\_DAMAGE by 5
 
 Only those who are at least master thieves may use this item.
 
@@ -74,9 +74,9 @@ Weight: 3, Value: 8464gold, Worn in: TAKE HOLD
 
 Can affect you as:
 
-    Affects: MANA by 5
+ Affects: MANA by 5
 
-    Affects: HITROLL by 1
+ Affects: HITROLL by 1
 
 Only those who are at least apprentice magic users, clerics, druids,
 
@@ -102,7 +102,7 @@ AC-apply is -0.9
 
 Can affect you as:
 
-    Affects: MAX_DEX by 1
+ Affects: MAX\_DEX by 1
 
 Only those who are at least supreme thieves, warriors, bards, or monks, and
 
@@ -116,7 +116,7 @@ You feel informed:
 
 Object 'belt shark teeth pow', Item type: ARMOR
 
-Item is: GLOW MAGIC **INVENTORY** 
+Item is: GLOW MAGIC \*\*INVENTORY\*\* 
 
 Weight: 2, Value: 21039gold, Worn in: TAKE WAIST 
 
@@ -124,9 +124,9 @@ AC-apply is -0.2
 
 Can affect you as:
 
-    Affects: HITROLL by 2
+ Affects: HITROLL by 2
 
-    Affects: CIRCLE_DAMAGE by 5
+ Affects: CIRCLE\_DAMAGE by 5
 
 Only those who are at least experienced thieves, warriors, or monks may use
 
@@ -152,11 +152,11 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: INT by 2
+ Affects: INT by 2
 
-    Affects: REGEN_MANA by 1
+ Affects: REGEN\_MANA by 1
 
-    Affects: CON by -1
+ Affects: CON by -1
 
 Only those who are at least supreme magic users, clerics, druids,
 
@@ -186,7 +186,7 @@ Only those who are at least apprentice in at least one class may use this
 
 item.
 
---D
+\--D
 
 </div>
 
@@ -208,9 +208,9 @@ AC-apply is -0.6
 
 Can affect you as:
 
-    Affects: CON by 1
+ Affects: CON by 1
 
-    Affects: DAMROLL by 1
+ Affects: DAMROLL by 1
 
 Only those who are at least supreme thieves, warriors, or monks, and have
 
@@ -248,7 +248,7 @@ AC-apply is -0.2
 
 Can affect you as:
 
-    Affects: RESIST_ELECTRICITY by 10
+ Affects: RESIST\_ELECTRICITY by 10
 
 Only those who are at least apprentice magic users, clerics, thieves,
 
@@ -270,7 +270,7 @@ AC-apply is -0.3
 
 Can affect you as:
 
-    Affects: REDUCE_DAMAGE by 1
+ Affects: REDUCE\_DAMAGE by 1
 
 Only those who are at least novice avatars may use this item.
 
@@ -290,13 +290,13 @@ AC-apply is -0.2
 
 Can affect you as:
 
-    Affects: BONUS_HEAL_BONUS by 5
+ Affects: BONUS\_HEAL\_BONUS by 5
 
 Only those who are at least supreme clerics, and have attained supremacy in
 
 at least three classes may use this item.
 
-Iqzz'Rvaehhb, The Silver Dragoness  (Plane of Lightning)
+Iqzz'Rvaehhb, The Silver Dragoness (Plane of Lightning)
 
 Ok.
 
@@ -312,9 +312,9 @@ AC-apply is -2.1
 
 Can affect you as:
 
-    Affects: BONUS_HEAL_BONUS by 10
+ Affects: BONUS\_HEAL\_BONUS by 10
 
-    Affects: MAX_WIS by 1
+ Affects: MAX\_WIS by 1
 
 Only those who are at least supreme clerics, and have attained supremacy in
 
@@ -348,9 +348,9 @@ AC-apply is -0.1
 
 Can affect you as:
 
-    Affects: MANA by 5
+ Affects: MANA by 5
 
-    Affects: HEAL_BONUS by 5
+ Affects: HEAL\_BONUS by 5
 
 Only those who are at least supreme clerics and druids, and have attained
 
@@ -364,7 +364,7 @@ The following information may be inaccurate or incomplete...
 
 Runs
 
-------
+\------
 
 EARTH PLANE 
 
@@ -386,13 +386,13 @@ LIGHTNING PLANE (up from Eurus)
 
 Equipment
 
--------------
+\-------------
 
-(Air Plane Ext) - Aeolus - the tassets of the knights templar: leggings -1.2 -2saves -2weapon_dam. 
+(Air Plane Ext) - Aeolus - the tassets of the knights templar: leggings -1.2 -2saves -2weapon\_dam. 
 
 (Air Plane Ext) - Axzaelqrvha, the Jade Dragon a pair of jade slippers: 2 int, +1mregen, -1 con, no ac, 5x40
 
-(Air Plane Ext) - Eurus - the mail of the eastern squall: -1.6 +dam +resist_cold
+(Air Plane Ext) - Eurus - the mail of the eastern squall: -1.6 +dam +resist\_cold
 
 (Air Plane Ext) - Boreas - Unknown 
 
@@ -404,13 +404,13 @@ Equipment
 
 (Earth Plane Ext) - Maug Fighter - battered helm 1.0 +con +5 resist poison -1.0 +con +5 resist poison 
 
-(Plane Of Magma) - Abraxis - a belt of liquid fire -.2 +max_con
+(Plane Of Magma) - Abraxis - a belt of liquid fire -.2 +max\_con
 
 (Plane Of Magma) - Octopus - mass of quivering tentacles: -0.6 +hd +hit prime monk, and 5x40. 
 
-(Plane of Magma) - Ajkllyflljyk, the Volcanic Dragon - ruby dragonscale helmet: -.9 max_dex, 4xnc 40, 5x40
+(Plane of Magma) - Ajkllyflljyk, the Volcanic Dragon - ruby dragonscale helmet: -.9 max\_dex, 4xnc 40, 5x40
 
-(Plane of Magma) - The Vulcan Priest - ball of magma heal_bonus +5, +1 wis, caster 2x40 
+(Plane of Magma) - The Vulcan Priest - ball of magma heal\_bonus +5, +1 wis, caster 2x40 
 
 (Plane of Magma) - balrog demon - Unknown
 
@@ -438,7 +438,7 @@ Equipment
 
 (Plane of Fire) - Hysxyruzlla, the Gold Dragon - boots of serpentinous flame
 
-(Plane of Fire) - fire elemental - magma ring -0.3AC, +5 resist_fire +con, Exp Thief OR Mo OR Wa
+(Plane of Fire) - fire elemental - magma ring -0.3AC, +5 resist\_fire +con, Exp Thief OR Mo OR Wa
 
 (Fire Plane Ext) - Pyrkagia, Lord of Flame - Unknown
 
@@ -458,19 +458,19 @@ Equipment
 
 <div class="post" data-post-id="38536" data-author="Gorka" data-date="2017-12-13T09:24:36+00:00" data-subject="Re: EU EQ">
 
-The 6 dragons have all been popped now... It appears that these are the biggest mobs in EU, and they really do require  chopping to be killed efficiently. The mobs that haven't been loaded yet are also largish but can be killed by a group without choppers. I'd stop short of calling EU a "Chop Area" as some perhaps have presumptuously assumed because of these dragons. There is more to EU than chop.
+The 6 dragons have all been popped now... It appears that these are the biggest mobs in EU, and they really do require chopping to be killed efficiently. The mobs that haven't been loaded yet are also largish but can be killed by a group without choppers. I'd stop short of calling EU a "Chop Area" as some perhaps have presumptuously assumed because of these dragons. There is more to EU than chop.
 
-Hysxyruzlla, the Gold Dragon ----------------> Hai-Six-Ee-Roo-Zil-Luh
+Hysxyruzlla, the Gold Dragon ----------------\> Hai-Six-Ee-Roo-Zil-Luh
 
-Ajkllyflljyk, the Volcanic Dragon -------------> Azh-Kill-Ee-Flik
+Ajkllyflljyk, the Volcanic Dragon -------------\> Azh-Kill-Ee-Flik
 
-Axzaelqrvha, the Jade Dragon ---------------> Ax-Zil-Ker-Vah
+Axzaelqrvha, the Jade Dragon ---------------\> Ax-Zil-Ker-Vah
 
-Iqzz'Rvaehhb, The Silver Dragoness ---------> Ikz-Ar-Vay-Ebb
+Iqzz'Rvaehhb, The Silver Dragoness ---------\> Ikz-Ar-Vay-Ebb
 
-Quezvxyllha, the Bronze Dragoness ----------> Kwez-Vix-Ih-Luh
+Quezvxyllha, the Bronze Dragoness ----------\> Kwez-Vix-Ih-Luh
 
-Vsyvyxyryll, the Copper Dragon ---------------> Viz-Ee-Vix-Er-Rill
+Vsyvyxyryll, the Copper Dragon ---------------\> Viz-Ee-Vix-Er-Rill
 
 My list of mobs, is incomplete... there are many more unlisted mobs, especially smaller mobs. There is definitely more items that load in the area, we known this for sure because there are items in the forges that haven't been popped yet...
 
@@ -490,9 +490,9 @@ AC-apply is -1.3
 
 Can affect you as:
 
-    Affects: WEAPON_DAMAGE by 2
+ Affects: WEAPON\_DAMAGE by 2
 
-    Affects: FLY by 1
+ Affects: FLY by 1
 
 Only those who have attained supremacy in at least five classes may use
 
@@ -500,7 +500,7 @@ this item.
 
 Requires: 3000000 coins, 
 
-1x the helm of the battle lords (0),  -+UNKNOWN+-
+1x the helm of the battle lords (0), -+UNKNOWN+-
 
 1x a winged battlehelm (0), Temple of Tepe (IS)
 
@@ -524,9 +524,9 @@ Damage Dice is '3D5'
 
 Can affect you as:
 
-    Affects: MANA by 7
+ Affects: MANA by 7
 
-    Affects: SAVING_SPELL by -1
+ Affects: SAVING\_SPELL by -1
 
 Only those who have attained supremacy in at least five classes may use
 
@@ -540,7 +540,7 @@ Requires: 5000000 coins,
 
 1x an hourglass-shaped ring (0), -+UNKNOWN+-
 
-2x a cube of elemental salt (0),  Haloyle on EU
+2x a cube of elemental salt (0), Haloyle on EU
 
 1x a totem of forgotten shrines (0), -+UNKNOWN+-
 
@@ -558,7 +558,7 @@ Weight: 0, Value: 0gold, Worn in: NOBITS
 
 Clasp can only be attached to:
 
-   the boots of serpentinous flame
+ the boots of serpentinous flame
 
 Clasp is non-removable once attached.
 
@@ -592,7 +592,7 @@ Weight: 0, Value: 0gold, Worn in: NOBITS
 
 Clasp can only be attached to:
 
-   tunic of the mystic healer
+ tunic of the mystic healer
 
 Clasp is non-removable once attached.
 
@@ -608,7 +608,7 @@ Requires: 4000000 coins,
 
 1x a whale bone needle (0), -+UNKNOWN+-
 
-1x a conch shell (0),  Underdark (SS)
+1x a conch shell (0), Underdark (SS)
 
 1x a whip of demon's flame (0) -+UNKNOWN+-
 
@@ -628,9 +628,9 @@ AC-apply is -0.6
 
 Can affect you as:
 
-    Affects: UNDEAD_CONTROL by 1
+ Affects: UNDEAD\_CONTROL by 1
 
-    Affects: MAX_INT by 1
+ Affects: MAX\_INT by 1
 
 Only those who are primary supreme necromancers, and have attained
 
@@ -648,7 +648,7 @@ Requires: 4000000 coins,
 
 So Unknown Pieces...
 
-1x the helm of the battle lords (0),  -+UNKNOWN+-
+1x the helm of the battle lords (0), -+UNKNOWN+-
 
 1x a death's head signet ring (0) -+UNKNOWN+-
 
@@ -678,9 +678,9 @@ Clam (Water Plane Ext)
 
 a suit of barnacle encrusted platemail 
 
--2.1AC +15 flail_damage, +1 sys_shock SC and SW
+\-2.1AC +15 flail\_damage, +1 sys\_shock SC and SW
 
-They also said the clam chowder afterwards was delicious.  :shock: 
+They also said the clam chowder afterwards was delicious. <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
 Titanic elemental @ Earth Planes loads a pulsating chunk of ruby
 
@@ -692,23 +692,23 @@ sack of burning mana embers
 
 The paladin of flame (Plane of Fire)
 
-A totem of forgotten shrines ( Neck -0.6AC +con +10 resist_fire, AppAva )
+A totem of forgotten shrines ( Neck -0.6AC +con +10 resist\_fire, AppAva )
 
 magma-shark : a smoldering shark's tooth
 
-clasp for prime thief on torches, +5circle_dam
+clasp for prime thief on torches, +5circle\_dam
 
 living fossil, Salt Plane : gauntlets of crystal claws
 
--0.2AC , Bonus_hand_dam +2, +1hit
+\-0.2AC , Bonus\_hand\_dam +2, +1hit
 
 NoAva and SMo
 
 Pyrkagia (Plane of Fire) loads the greaves of an incendiary death
 
--1.7AC -25MANA , Reduce_dam by +2, PSWa, 6x40
+\-1.7AC -25MANA , Reduce\_dam by +2, PSWa, 6x40
 
-Stay tuned for more... wouldn't be surprised to find a +5 MAX_DEX AND +2.4ac item...  :lol:
+Stay tuned for more... wouldn't be surprised to find a +5 MAX\_DEX AND +2.4ac item... <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -736,7 +736,7 @@ Item is: GLOW MAGIC 2x40-ITEM
 
 Weight: 2, Value: 26374gold, Worn in: TAKE HOLD 
 
-Affects: CIRCLE_DAMAGE by 10
+Affects: CIRCLE\_DAMAGE by 10
 
 Affects: HITROLL by 2
 
@@ -746,11 +746,11 @@ Affects: HITROLL by 2
 
 Updated Master List...
 
-(Air Plane Ext) - Aeolus - the tassets of the knights templar: leggings -1.2 -2saves -2weapon_dam.
+(Air Plane Ext) - Aeolus - the tassets of the knights templar: leggings -1.2 -2saves -2weapon\_dam.
 
 (Air Plane Ext) - Axzaelqrvha, the Jade Dragon a pair of jade slippers: 2 int, +1mregen, -1 con, no ac, 5x40
 
-(Air Plane Ext) - Eurus - the mail of the eastern squall: -1.6 +dam +resist_cold
+(Air Plane Ext) - Eurus - the mail of the eastern squall: -1.6 +dam +resist\_cold
 
 (Air Plane Ext) - Boreas - Unknown
 
@@ -762,17 +762,17 @@ Updated Master List...
 
 (Earth Plane Ext) - Maug Fighter - battered helm 1.0 +con +5 resist poison -1.0 +con +5 resist poison
 
-(Plane Of Magma) - Abraxis - a belt of liquid fire -.2 +max_con
+(Plane Of Magma) - Abraxis - a belt of liquid fire -.2 +max\_con
 
 (Plane Of Magma) - Octopus - mass of quivering tentacles: -0.6 +hd +hit prime monk, and 5x40.
 
-(Plane of Magma) - Ajkllyflljyk, the Volcanic Dragon - ruby dragonscale helmet: -.9 max_dex, 4xnc 40, 5x40
+(Plane of Magma) - Ajkllyflljyk, the Volcanic Dragon - ruby dragonscale helmet: -.9 max\_dex, 4xnc 40, 5x40
 
-(Plane of Magma) - The Vulcan Priest - ball of magma heal_bonus +5, +1 wis, caster 2x40
+(Plane of Magma) - The Vulcan Priest - ball of magma heal\_bonus +5, +1 wis, caster 2x40
 
 (Plane of Magma) - balrog demon - whip of demon's flame
 
-(Plane of Magma) - Magma Shark - a smoldering shark's tooth - clasp for prime thief on torches, +5circle_dam
+(Plane of Magma) - Magma Shark - a smoldering shark's tooth - clasp for prime thief on torches, +5circle\_dam
 
 (Water Plane Ext) - tigershark - a belt of shark teeth
 
@@ -782,7 +782,7 @@ Updated Master List...
 
 (Water Plane Ext) - Charybdis - a set of jagged coralline gloves '-0.2 +hit +dam +5sb'
 
-(Water Plane Ext) - Clam - a suit of barnacle encrusted platemail -2.1AC +15 flail_damage, +1 sys_shock 
+(Water Plane Ext) - Clam - a suit of barnacle encrusted platemail -2.1AC +15 flail\_damage, +1 sys\_shock 
 
 (Plane of Smoke) - vargouille abyss demon smoke flyer - disembodied head
 
@@ -800,13 +800,13 @@ Updated Master List...
 
 (Plane of Salt) - Haloyle - a cube of elemental salt
 
-(Plane of Salt) - Living Fossil - gauntlets of crystal claws -0.2AC , Bonus_hand_dam +2, +1hit
+(Plane of Salt) - Living Fossil - gauntlets of crystal claws -0.2AC , Bonus\_hand\_dam +2, +1hit
 
 (Plane of Fire) - Hysxyruzlla, the Gold Dragon - boots of serpentinous flame
 
-(Plane of Fire) - fire elemental - magma ring -0.3AC, +5 resist_fire +con, Exp Thief OR Mo OR Wa
+(Plane of Fire) - fire elemental - magma ring -0.3AC, +5 resist\_fire +con, Exp Thief OR Mo OR Wa
 
-(Plane of Fire) - The paladin of flame - A totem of forgotten shrines - Neck -0.6AC +con +10 resist_fire
+(Plane of Fire) - The paladin of flame - A totem of forgotten shrines - Neck -0.6AC +con +10 resist\_fire
 
 (Fire Plane Ext) - Pyrkagia, Lord of Flame - greaves of an incendiary death -1.7 -25ma +2 DR
 
@@ -830,7 +830,7 @@ Item is: GLOW MAGIC 2x40-ITEM
 
 Weight: 2, Value: 26374gold, Worn in: TAKE HOLD
 
-Affects: CIRCLE_DAMAGE by 10
+Affects: CIRCLE\_DAMAGE by 10
 
 Affects: HITROLL by 2
 
@@ -854,13 +854,13 @@ AC-apply is 0.1
 
 Can affect you as:
 
-Affects: MAX_DEX by 1
+Affects: MAX\_DEX by 1
 
 Affects: DAMROLL by 1 (the fangs of the fire serpent)
 
 Only those who are at least supreme thieves and also supreme warriors, and novice avatars may use this item.
 
-****************************************************************************************************
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 I forged clasp and attached on boots and found that other players were not able to use it.
 
@@ -910,9 +910,9 @@ AC-apply is -0.5
 
 Can affect you as:
 
-    Affects: HITROLL by 2
+ Affects: HITROLL by 2
 
-    Affects: WEAPON_DAMAGE by 1
+ Affects: WEAPON\_DAMAGE by 1
 
 Only those who are at least supreme clerics, thieves, warriors, or bards,
 
@@ -936,9 +936,9 @@ Weight: 5, Value: 127836gold, Worn in: TAKE HOLD
 
 Can affect you as:
 
-    Affects: MANA by 15
+ Affects: MANA by 15
 
-    Affects: HITPOINT by 15
+ Affects: HITPOINT by 15
 
 Only those who are primary supreme druids, and have attained supremacy in
 
@@ -958,9 +958,9 @@ Weight: 0, Value: 78309gold, Worn in: TAKE
 
 Clasp can only be attached to:
 
-   necklaces, amulets, and gorgets
+ necklaces, amulets, and gorgets
 
-Clasp gives the user +10 RESIST_ELECTRICITY
+Clasp gives the user +10 RESIST\_ELECTRICITY
 
 Only those who are at least apprentice magic users or novice clerics, or
 
@@ -974,7 +974,7 @@ Item is: GLOW MAGIC 2x40-ITEM
 
 Weight: 2, Value: 26374gold, Worn in: TAKE HOLD
 
-Affects: CIRCLE_DAMAGE by 10
+Affects: CIRCLE\_DAMAGE by 10
 
 Affects: HITROLL by 2
 
@@ -992,9 +992,9 @@ Damage Dice is '3D4'
 
 Can affect you as:
 
-    Affects: HITROLL by 3
+ Affects: HITROLL by 3
 
-    Affects: RESIST_FIRE by 5
+ Affects: RESIST\_FIRE by 5
 
 Only those who are at least experienced clerics, thieves, warriors,
 
@@ -1014,9 +1014,9 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: SYSTEM_SHOCK by 1
+ Affects: SYSTEM\_SHOCK by 1
 
-    Affects: REGEN_MANA by 2
+ Affects: REGEN\_MANA by 2
 
 Only those who are at least supreme clerics and druids may use this item.
 
@@ -1034,9 +1034,9 @@ AC-apply is -0.5
 
 Can affect you as:
 
-    Affects: HITPOINT by 25
+ Affects: HITPOINT by 25
 
-    Affects: RESIST_FIRE by 5
+ Affects: RESIST\_FIRE by 5
 
 Only those who are at least supreme thieves, warriors, or monks, and have
 
@@ -1054,7 +1054,7 @@ AC-apply is -0.5
 
 Can affect you as:
 
-    Affects: RESIST_FIRE by 15
+ Affects: RESIST\_FIRE by 15
 
 Only those who are at least supreme thieves, warriors, or monks, and have
 
@@ -1080,9 +1080,9 @@ AC-apply is -0.2
 
 Can affect you as:
 
-    Affects: STR by 1
+ Affects: STR by 1
 
-    Affects: DEX by 1
+ Affects: DEX by 1
 
 Only those who are at least supreme magic users, clerics, thieves, warriors
 
@@ -1090,7 +1090,7 @@ Only those who are at least supreme magic users, clerics, thieves, warriors
 
 two classes may use this item.
 
-******************************************************
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 dwarven alchemist @ Earth Plane Extension
 
@@ -1108,9 +1108,9 @@ Weight: 4, Value: 15805gold, Worn in: TAKE ABOUT
 
 Can affect you as:
 
-    Affects: ARMOR by -5
+ Affects: ARMOR by -5
 
-    Affects: SAVING_POISON by -3
+ Affects: SAVING\_POISON by -3
 
 Only those who are at least experienced magic users, clerics, thieves,
 
@@ -1122,7 +1122,7 @@ coat (carried):
 
 a shiny golden potion (+20 hit for 10 ticks)
 
-******************************************************
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 Boreas, Forger of the North Wind (Air Plane Extension)
 
@@ -1140,9 +1140,9 @@ AC-apply is -1.1
 
 Can affect you as:
 
-    Affects: CON by 1
+ Affects: CON by 1
 
-    Affects: HITPOINT by 25
+ Affects: HITPOINT by 25
 
 Only those who are at least supreme warriors and also novice avatars, and
 
@@ -1158,9 +1158,9 @@ M
 
 People will have issues trying to find this thread by its exact name in the forum search because it's "too common words, we have to use search words of at least four letters..."
 
-Just saying.  that's what I ran into when I searched "eu eq"
+Just saying. that's what I ran into when I searched "eu eq"
 
---D
+\--D
 
 </div>
 
@@ -1168,7 +1168,7 @@ Just saying.  that's what I ran into when I searched "eu eq"
 
 And by the way when -will- the next export to the alternate EQlist be, that supposedly will incorporate all of this? What's holding it up?
 
---D
+\--D
 
 </div>
 
@@ -1194,15 +1194,15 @@ AC-apply is -0.8
 
 Can affect you as:
 
-    Affects: STR by 2
+ Affects: STR by 2
 
-    Affects: REGEN_MANA by -1
+ Affects: REGEN\_MANA by -1
 
 Only those who are at least supreme thieves, warriors, or monks, and have
 
 attained supremacy in at least two classes may use this item.
 
-*****************************************************
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 Spirit of Flame - (Fire Extension, EU)
 
@@ -1222,13 +1222,13 @@ AC-apply is -0.1
 
 Can affect you as:
 
-    Affects: BONUS_SPELL_BONUS by 5
+ Affects: BONUS\_SPELL\_BONUS by 5
 
 Only those who are at least supreme magic users, and have attained
 
 supremacy in at least three classes may use this item.
 
-*****************************************************
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 Notus, Sculptor of the South Winds - (Air Extension, EU)
 
@@ -1246,11 +1246,11 @@ Weight: 1, Value: 73483gold, Worn in: TAKE HOLD
 
 Can affect you as:
 
-    Affects: WEAPON_DAMAGE by 1
+ Affects: WEAPON\_DAMAGE by 1
 
-    Affects: SAVING_SPELL by 2
+ Affects: SAVING\_SPELL by 2
 
-    Affects: RESIST_FIRE by 10
+ Affects: RESIST\_FIRE by 10
 
 Only those who have attained supremacy in at least five classes may use
 
@@ -1264,9 +1264,9 @@ M
 
 Top, Check -
 
-Our very first weapon_bonus LIGHT.
+Our very first weapon\_bonus LIGHT.
 
-:)
+<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -1286,9 +1286,9 @@ AC-apply is -0.1
 
 Can affect you as:
 
-    Affects: CIRCLE_DAMAGE by 5
+ Affects: CIRCLE\_DAMAGE by 5
 
-    Affects: MANA by 5
+ Affects: MANA by 5
 
 Only those who are at least experienced thieves or warriors may use this
 
@@ -1298,10 +1298,10 @@ item.
 
 <div class="post" data-post-id="38753" data-author="Filk" data-date="2018-04-30T10:39:50+00:00" data-subject="Re: EU EQ">
 
-> ***Idjit* wrote:**
+> <strong>\*Idjit\* wrote:</strong>
 > And by the way when -will- the next export to the alternate EQlist be, that supposedly will incorporate all of this? What's holding it up?
 > 
-> --D
+> \--D
 
 As soon as eq dumps will be fixed and probably updated
 
@@ -1321,7 +1321,7 @@ I dumped the item list after reboot but I don't think anything new showed up.
 
 <div class="post" data-post-id="38758" data-author="Filk" data-date="2018-05-05T01:03:13+00:00" data-subject="Re: EU EQ">
 
-> ***teker* wrote:**
+> <strong>\*teker\* wrote:</strong>
 > I dumped the item list after reboot but I don't think anything new showed up.
 
 Kinda. Nothing new. Even on original eq page there are no items from new locations. So nothing at dumps as well
@@ -1330,9 +1330,9 @@ Kinda. Nothing new. Even on original eq page there are no items from new locatio
 
 <div class="post" data-post-id="38759" data-author="*Breeze*" data-date="2018-05-05T10:50:22+00:00" data-subject="Re: EU EQ">
 
-nag nag nag.  
+nag nag nag. 
 
-my days are ~16 hours long just for work.
+my days are \~16 hours long just for work.
 
 i said it more than once i wanted to take my eqlist offline and leave it to the new one whomever made
 
@@ -1344,9 +1344,9 @@ http://www.slothmud.org/wp/equipment/eqlist?area=486
 
 <div class="post" data-post-id="38760" data-author="Filk" data-date="2018-05-05T13:21:19+00:00" data-subject="Re: EU EQ">
 
-Well. Things are moving at least, thats good already :)
+Well. Things are moving at least, thats good already <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-Now i see new items on the site, there were no yesterday. So something is changed. Not at dumps yet, but if its in the queue, then its fine. Thanks :)
+Now i see new items on the site, there were no yesterday. So something is changed. Not at dumps yet, but if its in the queue, then its fine. Thanks <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -1354,13 +1354,13 @@ Now i see new items on the site, there were no yesterday. So something is change
 
 fixed
 
-{"OBJECT_VNUM":"25153","OBJECT_NAME":"ring death head signet","OBJECT_SHORT_DESCRIPTION":"a death's head signet ring","OBJECT_TYPE":"ARMOR","VALUE_AC":"1","OBJECT_WEAR":"TAKE FINGER","OBJECT_EXTRA_FLAGS":"GLOW MAGIC","RESTRICTIONS_THIEF":"30","RESTRICTIONS_WARRIOR":"30","RESTRICTIONS_AND":"GOR","OBJECT_WEIGHT":"1","OBJECT_VALUE":"63202","OBJECT_RENT":"1500","AFF_CIRCLE_DAMAGE":"5","AFF_MANA":"5"}
+{"OBJECT\_VNUM":"25153","OBJECT\_NAME":"ring death head signet","OBJECT\_SHORT\_DESCRIPTION":"a death's head signet ring","OBJECT\_TYPE":"ARMOR","VALUE\_AC":"1","OBJECT\_WEAR":"TAKE FINGER","OBJECT\_EXTRA\_FLAGS":"GLOW MAGIC","RESTRICTIONS\_THIEF":"30","RESTRICTIONS\_WARRIOR":"30","RESTRICTIONS\_AND":"GOR","OBJECT\_WEIGHT":"1","OBJECT\_VALUE":"63202","OBJECT\_RENT":"1500","AFF\_CIRCLE\_DAMAGE":"5","AFF\_MANA":"5"}
 
 </div>
 
 <div class="post" data-post-id="38762" data-author="Filk" data-date="2018-05-05T22:11:40+00:00" data-subject="Re: EU EQ">
 
-I see changes in lua variant for both eq and mobs list. But nothing in both json. Would be nice to fix json as well. Eventually :)
+I see changes in lua variant for both eq and mobs list. But nothing in both json. Would be nice to fix json as well. Eventually <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Forges list is broken atm. Last variant i downloaded at 02.05 was fine, if that helps.
 
@@ -1444,13 +1444,13 @@ Forge one returns broken file, and json eq and mobs just outdated. Still outdate
 
 Exact links i see atm are
 
-[<LINK_TEXT text="http://www.slothmud.org/wp/equipment/eq ... 0011&lua=9">http://www.slothmud.org/wp/equipment/eqlist?dl=08&dlk=638890bcce19feef0cc011646d430011&lua=9</LINK_TEXT>](http://www.slothmud.org/wp/equipment/eqlist?dl=08&dlk=638890bcce19feef0cc011646d430011&lua=9)
+[http://www.slothmud.org/wp/equipment/eqlist?dl=08&dlk=638890bcce19feef0cc011646d430011&lua=9](http://www.slothmud.org/wp/equipment/eqlist?dl=08&dlk=638890bcce19feef0cc011646d430011&lua=9)
 
-[<LINK_TEXT text="http://www.slothmud.org/wp/equipment/eq ... 9&forges=1">http://www.slothmud.org/wp/equipment/eqlist?dl=08&dlk=638890bcce19feef0cc011646d430011&lua=9&forges=1</LINK_TEXT>](http://www.slothmud.org/wp/equipment/eqlist?dl=08&dlk=638890bcce19feef0cc011646d430011&lua=9&forges=1)
+[http://www.slothmud.org/wp/equipment/eqlist?dl=08&dlk=638890bcce19feef0cc011646d430011&lua=9&forges=1](http://www.slothmud.org/wp/equipment/eqlist?dl=08&dlk=638890bcce19feef0cc011646d430011&lua=9&forges=1)
 
-[<LINK_TEXT text="http://www.slothmud.org/wp/equipment/eq ... a=9&mobs=1">http://www.slothmud.org/wp/equipment/eqlist?dl=08&dlk=638890bcce19feef0cc011646d430011&lua=9&mobs=1</LINK_TEXT>](http://www.slothmud.org/wp/equipment/eqlist?dl=08&dlk=638890bcce19feef0cc011646d430011&lua=9&mobs=1)
+[http://www.slothmud.org/wp/equipment/eqlist?dl=08&dlk=638890bcce19feef0cc011646d430011&lua=9&mobs=1](http://www.slothmud.org/wp/equipment/eqlist?dl=08&dlk=638890bcce19feef0cc011646d430011&lua=9&mobs=1)
 
-> ***Breeze* wrote:**
+> <strong>\*Breeze\* wrote:</strong>
 > forge list was fine 4 days ago.
 > 
 > 
@@ -1539,13 +1539,13 @@ Thanks Breeze.
 
 <div class="post" data-post-id="38771" data-author="Driven" data-date="2018-05-07T19:47:01+00:00" data-subject="Re: EU EQ">
 
-Thanks for updating the EQ-list, guys.  Question.  Why does some eq show up on the eqlist, but not others?  For example, I see the new EU eq, such as the draconis argenteis armis, but the glowing green gauntlets aren't there from Athaneum.  Any ideas?
+Thanks for updating the EQ-list, guys. Question. Why does some eq show up on the eqlist, but not others? For example, I see the new EU eq, such as the draconis argenteis armis, but the glowing green gauntlets aren't there from Athaneum. Any ideas?
 
 </div>
 
 <div class="post" data-post-id="38772" data-author="*Breeze*" data-date="2018-05-08T03:44:07+00:00" data-subject="Re: EU EQ">
 
-Odd. Is that a forge or an item flagged NO_EQLIST?
+Odd. Is that a forge or an item flagged NO\_EQLIST?
 
 </div>
 
@@ -1557,7 +1557,7 @@ Probably. Like plenty of other items which are not in any lists or dumps, while 
 
 <div class="post" data-post-id="38774" data-author="*teker*" data-date="2018-05-09T19:23:46+00:00" data-subject="Re: EU EQ">
 
-The "glowing green gauntlets.. it glows green!" are not flagged NO_EQ_LIST so it must be something else.
+The "glowing green gauntlets.. it glows green!" are not flagged NO\_EQ\_LIST so it must be something else.
 
 </div>
 
@@ -1573,19 +1573,19 @@ No mob popper info
 
 <div class="post" data-post-id="38778" data-author="Driven" data-date="2018-05-10T13:40:40+00:00" data-subject="Re: EU EQ">
 
-Odd.  Most people know who it pops on... grandmaster necromancer in athaneum... it's not an AQ item, just your run-of-the-mill forge cp.  Is there some way we can put the item-popper info into the system?
+Odd. Most people know who it pops on... grandmaster necromancer in athaneum... it's not an AQ item, just your run-of-the-mill forge cp. Is there some way we can put the item-popper info into the system?
 
 </div>
 
 <div class="post" data-post-id="38779" data-author="*Breeze*" data-date="2018-05-10T20:18:58+00:00" data-subject="Re: EU EQ">
 
-e.g. is a  Latin abbreviation. E.g. stands for exempli gratia and means “for example.”
+e.g. is a Latin abbreviation. E.g. stands for exempli gratia and means “for example.”
 
 </div>
 
 <div class="post" data-post-id="38830" data-author="*teker*" data-date="2018-05-26T14:28:14+00:00" data-subject="Re: EU EQ">
 
-Not sure if anyone has noticed but the green gauntlets now show on slothmudeq.tk .  There was a typo in the json for equipment sets that has now been fixed.
+Not sure if anyone has noticed but the green gauntlets now show on slothmudeq.tk . There was a typo in the json for equipment sets that has now been fixed.
 
 </div>
 
@@ -1605,11 +1605,11 @@ Weight: 0, Value: 49576gold, Worn in: TAKE
 
 Clasp can only be attached to:
 
-   helmets, hats, and the like
+ helmets, hats, and the like
 
 Clasp is non-removable once attached.
 
-Clasp gives the user -2 PRIME_ORDER_LAG
+Clasp gives the user -2 PRIME\_ORDER\_LAG
 
 The item has 1 additional magical ability.
 
@@ -1621,8 +1621,8 @@ supremacy in at least two classes may use this item.
 
 <div class="post" data-post-id="39389" data-author="Filk" data-date="2020-03-12T09:27:46+00:00" data-subject="Re: EU EQ">
 
-> **Gorka wrote:**
-> Clasp gives the user -2 PRIME_ORDER_LAG
+> <strong>Gorka wrote:</strong>
+> Clasp gives the user -2 PRIME\_ORDER\_LAG
 
 Teker, add please this parameter to xml export, whenever you have time for that
 

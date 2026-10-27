@@ -26,7 +26,7 @@ AC-apply is -0.1
 
 Can affect you as:
 
-    Affects: HITPOINT by 10
+ Affects: HITPOINT by 10
 
 Only those who are at least apprentice thieves, warriors, bards, or monks 
 

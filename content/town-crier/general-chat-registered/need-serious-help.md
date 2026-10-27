@@ -44,7 +44,7 @@ are you firewalled...check and see if its letting out telnet or your client.
 
 <div class="post" data-post-id="11926" data-author="Clink" data-date="2006-04-03T01:56:15+00:00" data-subject="">
 
-Check your firewall software.  Windows will block outbound telnet by default on some installations.  Ohter 3rd party software an be just as restrictive.
+Check your firewall software. Windows will block outbound telnet by default on some installations. Ohter 3rd party software an be just as restrictive.
 
 </div>
 
@@ -54,7 +54,7 @@ i've done everything...
 
 reinstalled, reformatted, connected without firewall on, etc.
 
-nothing works :(
+nothing works <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -74,8 +74,8 @@ What's your router?
 
 <div class="post" data-post-id="11945" data-author="Autolycos" data-date="2006-04-04T19:54:43+00:00" data-subject="">
 
-[img:2fd7t72r]http://www.xgenco.com/stuff/junk.jpg[/img:2fd7t72r]
+![](http://www.xgenco.com/stuff/junk.jpg)
 
-heh.. :twisted:
+heh.. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

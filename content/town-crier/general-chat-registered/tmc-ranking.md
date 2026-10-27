@@ -14,13 +14,13 @@ post_count: 7
 
 Uh-oh...
 
-1. Dark and Shattered Lands (DSL)      1190
+1\. Dark and Shattered Lands (DSL) 1190
 
-[b:2fbfdztf]2. SlothMUD III      851
+<strong>2\. SlothMUD III 851</strong>
 
-3. Wheel of Time      842[/b:2fbfdztf]
+<strong>3\. Wheel of Time 842</strong>
 
-4. Lensmoor      792
+4\. Lensmoor 792
 
 </div>
 
@@ -28,25 +28,25 @@ Uh-oh...
 
 oh noes
 
-1. Dark and Shattered Lands (DSL) 	1201
+1\. Dark and Shattered Lands (DSL) 1201
 
-2. Wheel of Time 	863
+2\. Wheel of Time 863
 
-3. SlothMUD III 	862
+3\. SlothMUD III 862
 
-4. Lensmoor 	809
+4\. Lensmoor 809
 
 </div>
 
 <div class="post" data-post-id="22969" data-author="banedon" data-date="2008-02-25T21:17:09+00:00" data-subject="">
 
-1. Dark and Shattered Lands (DSL) 	 view stats 	1221
+1\. Dark and Shattered Lands (DSL) view stats 1221
 
-2. SlothMUD III 	view stats 	880
+2\. SlothMUD III view stats 880
 
-3. Wheel of Time 	view stats 	871
+3\. Wheel of Time view stats 871
 
-4. Lensmoor 	view stats 	815
+4\. Lensmoor view stats 815
 
 </div>
 
@@ -60,9 +60,9 @@ I mean, that's what it's all about - getting new people to see how active our pl
 
 <div class="post" data-post-id="23007" data-author="firebrand" data-date="2008-02-28T15:03:53+00:00" data-subject="">
 
-actually it DOES make a difference.  i have lost count of how many times i have greeted new players, asking them how they found us and they said "saw you on TMC and decided to check you out".  while i have never heard a single one of them refer to coming here due to our ranking, being up in the top doesn't hurt.  keep voting folks - it really does count.
+actually it DOES make a difference. i have lost count of how many times i have greeted new players, asking them how they found us and they said "saw you on TMC and decided to check you out". while i have never heard a single one of them refer to coming here due to our ranking, being up in the top doesn't hurt. keep voting folks - it really does count.
 
-"little things used to mean so much to shelley - i used to think they were kind of trivial.  believe me, nothing is trivial"  - eric draven --> the crow
+"little things used to mean so much to shelley - i used to think they were kind of trivial. believe me, nothing is trivial" - eric draven --\> the crow
 
 </div>
 

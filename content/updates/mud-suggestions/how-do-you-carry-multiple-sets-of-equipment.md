@@ -12,7 +12,7 @@ post_count: 11
 
 <div class="post" data-post-id="36345" data-author="*teker*" data-date="2015-12-22T18:03:37+00:00" data-subject="How do _you_ carry multiple sets of equipment?">
 
-I'm about 90% of the way through some new code that will make it easier to switch between different sets of equipment.  The last part I need to figure out is what to do with items that are removed as a result of wearing new gear.  So for players that carry around multiple sets of equipment:  How do you manage them as far as containers go?  I tend to just shove everything into my cloak all together.  Do you guys do the same?  Or do you put different outfits in different containers?  Like I said, I've got an easy way to wear new gear - the question is what to do with the old equipment that comes off as a result.
+I'm about 90% of the way through some new code that will make it easier to switch between different sets of equipment. The last part I need to figure out is what to do with items that are removed as a result of wearing new gear. So for players that carry around multiple sets of equipment: How do you manage them as far as containers go? I tend to just shove everything into my cloak all together. Do you guys do the same? Or do you put different outfits in different containers? Like I said, I've got an easy way to wear new gear - the question is what to do with the old equipment that comes off as a result.
 
 </div>
 
@@ -50,7 +50,7 @@ etc.
 
 And other ppl should just see single message about you switching some eq...
 
-Maybe that command even should ignore, that robe is weared on you atm and still works in that way  :)
+Maybe that command even should ignore, that robe is weared on you atm and still works in that way <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -66,17 +66,17 @@ By the way, will this new feature properly switch clasps? largely missing detach
 
 <div class="post" data-post-id="36349" data-author="*teker*" data-date="2015-12-22T19:27:30+00:00" data-subject="Re: How do _you_ carry multiple sets of equipment?">
 
-> **Quote:**
+> <strong>Quote:</strong>
 > And other ppl should just see single message about you switching some eq...
 
-This will depend on the player's GAG_EQ flag.
+This will depend on the player's GAG\_EQ flag.
 
-> **Quote:**
+> <strong>Quote:</strong>
 > By the way, will this new feature properly switch clasps?
 
-I hadn't thought about swapping clasps or removable runes.  This probably won't happen in version 1 but I'll make some changes to make it easier to implement in the future.
+I hadn't thought about swapping clasps or removable runes. This probably won't happen in version 1 but I'll make some changes to make it easier to implement in the future.
 
-Does anyone use multiple containers of the same type to store different sets?  For instance, 2 golden sacks where each contains a different set?  The current code flips the item list backwards at rent and probably at death so it seems like this would be confusing.
+Does anyone use multiple containers of the same type to store different sets? For instance, 2 golden sacks where each contains a different set? The current code flips the item list backwards at rent and probably at death so it seems like this would be confusing.
 
 </div>
 
@@ -84,17 +84,17 @@ Does anyone use multiple containers of the same type to store different sets?  F
 
 I use a mix- 
 
-1) separate containers for partial but important sets that need to be switched quickly (like healbonus or charisma)
+1\) separate containers for partial but important sets that need to be switched quickly (like healbonus or charisma)
 
-2) one huge container (sack) for all the random crap and eq sets which consist of only a few items and is rarely used (like shock set and spelldam set) 
+2\) one huge container (sack) for all the random crap and eq sets which consist of only a few items and is rarely used (like shock set and spelldam set) 
 
-3) one main robe to store both regen and solo modes, as only one of those is used at one time.
+3\) one main robe to store both regen and solo modes, as only one of those is used at one time.
 
 </div>
 
 <div class="post" data-post-id="36351" data-author="alris" data-date="2015-12-22T20:16:45+00:00" data-subject="Re: How do _you_ carry multiple sets of equipment?">
 
-> ***teker* wrote:**
+> <strong>\*teker\* wrote:</strong>
 > I hadn't thought about swapping clasps or removable runes.
 
 Thats probably a mistype, but we don't swap runes on changing eq sets, right?
@@ -107,10 +107,10 @@ Also, for changing clasps - for me thats slowest part of changing sets, as doing
 
 <div class="post" data-post-id="36352" data-author="*teker*" data-date="2015-12-22T22:05:10+00:00" data-subject="Re: How do _you_ carry multiple sets of equipment?">
 
-> **Quote:**
+> <strong>Quote:</strong>
 > Thats probably a mistype, but we don't swap runes on changing eq sets, right?
 
-I had heard that some equipment (maybe the 3x40 gear?) allowed you to remove runes but since I haven't leveled a mortal to that point I'm not sure.  At any rate, the code I'm writing will handle this case if the game already allows for it.  If it doesn't already allow for it, nothing new will happen.
+I had heard that some equipment (maybe the 3x40 gear?) allowed you to remove runes but since I haven't leveled a mortal to that point I'm not sure. At any rate, the code I'm writing will handle this case if the game already allows for it. If it doesn't already allow for it, nothing new will happen.
 
 </div>
 
@@ -120,7 +120,7 @@ I do not keep a lot of eq sets, just one or two for each alt.. and yeah, separat
 
 Shapeshift also flops inventory..
 
-Would like to be able to create an eq set... and do it like shapeshift to change... ie eqshift healbonus.. where i have assigned what heal bonus i have to slot, and what container it goes in and old goes too.  would be hard to code.. but worthwhile imo.
+Would like to be able to create an eq set... and do it like shapeshift to change... ie eqshift healbonus.. where i have assigned what heal bonus i have to slot, and what container it goes in and old goes too. would be hard to code.. but worthwhile imo.
 
 runes can be removed only from drach and 3x40 gear from what i was told... never done it myself.. think any forger mob can unsocket from those items for a fee.
 
@@ -132,11 +132,11 @@ Thanks! great changes!
 
 <div class="post" data-post-id="36354" data-author="Yasik" data-date="2015-12-23T04:26:43+00:00" data-subject="Re: How do _you_ carry multiple sets of equipment?">
 
-I carry 4 modes (AC, mana regen, +dam, rent) in one robe, which is AC-<worn_about> at the same time.
+I carry 4 modes (AC, mana regen, +dam, rent) in one robe, which is AC-\<worn\_about\> at the same time.
 
 I do not switch robes and weapon during eq change, but may start doing so in the future.
 
-Also, may add undead_control mode, in very distant future, but I doubt it since if I cant solo something - I'll just bring friends instead.
+Also, may add undead\_control mode, in very distant future, but I doubt it since if I cant solo something - I'll just bring friends instead.
 
 The change is simple:
 
@@ -155,11 +155,11 @@ For 4 modes, only six scripts needed; for 5 modes, it will be ten.
 
 I use the following containers:
 
-- one main robe with junk and other containers
+\- one main robe with junk and other containers
 
-- a container - usually a 500maxweight robe - with a unique keyword for each set, including regen
+\- a container - usually a 500maxweight robe - with a unique keyword for each set, including regen
 
-- a container in the inv for immediately useful junk, such as potions, and items that are in several sets.
+\- a container in the inv for immediately useful junk, such as potions, and items that are in several sets.
 
 Unfortunately, my regen container is a regen robe, so when I'm in regen, the stuff in my main robe isn't accessible.
 
@@ -167,17 +167,17 @@ However, I use an alias that sets variables for all items in my sets: dam rings,
 
 and another regen alias that:
 
-- sets variables for current gear: ring, body, belt, etc
+\- sets variables for current gear: ring, body, belt, etc
 
-- allows me to wear uc gear in ac and in regen with the same alias
+\- allows me to wear uc gear in ac and in regen with the same alias
 
-- allows me to switch between regen/ac with the same alias.
+\- allows me to switch between regen/ac with the same alias.
 
 When I change items, I use:
 
-- rem item1 item2
+\- rem item1 item2
 
-- rem item7 item8
+\- rem item7 item8
 
 get regen container from robe
 

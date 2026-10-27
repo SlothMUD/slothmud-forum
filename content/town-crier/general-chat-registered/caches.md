@@ -18,17 +18,17 @@ I've been logged in 3 hours, and according to logs, already raided 118 caches.
 
 There are a raft of issues... 
 
-* Personally I think they "spawn" too frequently.
+\* Personally I think they "spawn" too frequently.
 
-* Locked one's can't be opened if someone junks the key, and the mob doesn't reload the key.
+\* Locked one's can't be opened if someone junks the key, and the mob doesn't reload the key.
 
-* Mobs not responsible for the cache often guard it.
+\* Mobs not responsible for the cache often guard it.
 
-* The longer the game is up, the more I sense there tends to be.
+\* The longer the game is up, the more I sense there tends to be.
 
-* Are they even static? I note some named caches are closed and need picking, and other times not.
+\* Are they even static? I note some named caches are closed and need picking, and other times not.
 
-* In CG for instance, if a room has a cache, the room next to it, tends to have the same named cache.
+\* In CG for instance, if a room has a cache, the room next to it, tends to have the same named cache.
 
 Are there other issues that have been reported? What do people know about these things? I get the sense that things are not functioning well with them.
 

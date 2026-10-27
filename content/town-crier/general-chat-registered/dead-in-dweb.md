@@ -18,12 +18,12 @@ arh
 
 <div class="post" data-post-id="13544" data-author="Autolycos" data-date="2006-07-24T18:47:13+00:00" data-subject="">
 
-Quick Weasel!!!   :shock: 
+Quick Weasel!!! <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
 Grab our walkers!!
 
 we have to save Brand.. he got dead again...
 
-*at least this time it wasnt the gnoll bitch  :twisted:
+\*at least this time it wasnt the gnoll bitch <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

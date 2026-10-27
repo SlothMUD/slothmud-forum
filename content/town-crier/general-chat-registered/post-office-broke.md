@@ -12,7 +12,7 @@ post_count: 4
 
 <div class="post" data-post-id="17292" data-author="slobe" data-date="2007-03-14T20:59:55+00:00" data-subject="post office broke">
 
-A clerk tells you 'There is something wrong with shipping.  Contact an immortal at once!'
+A clerk tells you 'There is something wrong with shipping. Contact an immortal at once!'
 
 Is all it says when I try to ship or receive
 
@@ -24,9 +24,9 @@ Whats up with that
 
 check
 
-A clerk tells you 'There is something wrong with shipping.  Contact an immortal at once!'
+A clerk tells you 'There is something wrong with shipping. Contact an immortal at once!'
 
- :cry:
+ <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

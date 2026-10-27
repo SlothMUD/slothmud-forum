@@ -14,9 +14,9 @@ post_count: 8
 
 With yesterday's crash a few things went in.
 
-Mirror Image: Mages can now specify how many images they want to cast in a single spell.  The cap is still the same and masterful yields one extra.  Mana cost should be the same and the game is nice so that if you specify more than your cap, it only casts up to the cap and only charges for the new images.
+Mirror Image: Mages can now specify how many images they want to cast in a single spell. The cap is still the same and masterful yields one extra. Mana cost should be the same and the game is nice so that if you specify more than your cap, it only casts up to the cap and only charges for the new images.
 
-A bunch of changes went in behind the scenes regarding item procs to make it easier for builders to write special items.  This involved a complete rewrite of "use" and "quaff".  I've left recite alone thus far so that if something breaks you can still recall.  Part of this was to make it easier to create a forge item to take players to the rebirth shop.
+A bunch of changes went in behind the scenes regarding item procs to make it easier for builders to write special items. This involved a complete rewrite of "use" and "quaff". I've left recite alone thus far so that if something breaks you can still recall. Part of this was to make it easier to create a forge item to take players to the rebirth shop.
 
 </div>
 
@@ -28,19 +28,19 @@ I would appreciate more items which transfer players to different zones if the c
 
 <div class="post" data-post-id="39199" data-author="*teker*" data-date="2019-05-21T19:46:59+00:00" data-subject="Re: Changelog 2019-05-21">
 
-Also forgot to mention - Eu is now perma chop/temp items.  Whether it says so under "time" or not.  It should be functioning the same as Lyme moving forward.
+Also forgot to mention - Eu is now perma chop/temp items. Whether it says so under "time" or not. It should be functioning the same as Lyme moving forward.
 
 </div>
 
 <div class="post" data-post-id="39201" data-author="*teker*" data-date="2019-05-22T14:01:29+00:00" data-subject="Re: Changelog 2019-05-21">
 
-Also - future eq list dumps (starting now) will list proc names with the items.  It may not be intuitive what the proc does, but you'll know that the item has one or more.
+Also - future eq list dumps (starting now) will list proc names with the items. It may not be intuitive what the proc does, but you'll know that the item has one or more.
 
 </div>
 
 <div class="post" data-post-id="39202" data-author="*teker*" data-date="2019-05-22T16:10:41+00:00" data-subject="Re: Changelog 2019-05-21">
 
-Oh yeah - forgot to mention that I changed the proc code in how it handles clasps and runes with procs.  So that fancy clasp with the damage proc should fire now even if the equipment has a rune on it.  Let me know if there are any strange side effects.
+Oh yeah - forgot to mention that I changed the proc code in how it handles clasps and runes with procs. So that fancy clasp with the damage proc should fire now even if the equipment has a rune on it. Let me know if there are any strange side effects.
 
 </div>
 
@@ -50,7 +50,7 @@ Are we going to see some of the information exposed in the new EQlist dump, also
 
 Silly question but wondering if there would then be a parallel development there.
 
---D
+\--D
 
 </div>
 
@@ -58,14 +58,14 @@ Silly question but wondering if there would then be a parallel development there
 
 I've added a lesser amount of info to the identify spell for procs.
 
-There will also be a fix at next reboot for mirror image.  It's behaving incorrectly when the mage's mana is low.
+There will also be a fix at next reboot for mirror image. It's behaving incorrectly when the mage's mana is low.
 
 </div>
 
 <div class="post" data-post-id="39206" data-author="Filk" data-date="2019-05-30T08:23:04+00:00" data-subject="Re: Changelog 2019-05-21">
 
-> ***teker* wrote:**
-> Also - future eq list dumps (starting now) will list proc names with the items.  It may not be intuitive what the proc does, but you'll know that the item has one or more.
+> <strong>\*teker\* wrote:</strong>
+> Also - future eq list dumps (starting now) will list proc names with the items. It may not be intuitive what the proc does, but you'll know that the item has one or more.
 
 Changed eq list site to display such procs on weapons.
 

@@ -12,7 +12,7 @@ post_count: 2
 
 <div class="post" data-post-id="28528" data-author="brady" data-date="2009-03-17T00:58:21+00:00" data-subject="Qilin">
 
-Anyone tried to use a qilin for transport recently?  Doesn't seem to work anymore.
+Anyone tried to use a qilin for transport recently? Doesn't seem to work anymore.
 
 </div>
 

@@ -12,7 +12,7 @@ post_count: 7
 
 <div class="post" data-post-id="10544" data-author="Poolp" data-date="2006-02-03T08:10:32+00:00" data-subject="Sash Patrol Leaders help pthieves too much!">
 
-<1hp 68ma 140mv>
+\<1hp 68ma 140mv\>
 
 Guinex utters the words, 'aque gpaxzf'
 
@@ -20,7 +20,7 @@ Guinex summons forth a flood of acid!
 
 You have been KILLED!! 
 
-<-68hp 68ma 141mv>
+\<-68hp 68ma 141mv\>
 
 quit!
 
@@ -68,23 +68,23 @@ Red Sash Guard Room
 
 ...
 
-<-66hp 69ma 128mv>look
+\<-66hp 69ma 128mv\>look
 
 Red Sash Guard Room
 
-   This large room looks quite extravagant.  An enormous, round ebony
+ This large room looks quite extravagant. An enormous, round ebony
 
 table stands in the middle of the room and large, open backed chairs have
 
-been placed around it.  A desk made of fine cherry rests against one wall,
+been placed around it. A desk made of fine cherry rests against one wall,
 
-and a large, detailed map is posted directly above it.  Several finely
+and a large, detailed map is posted directly above it. Several finely
 
 made chandeliers hang from the ceiling, throwing beautiful patterns of 
 
 light onto the marble floor.
 
-Exits: South  West  Down  
+Exits: South West Down 
 
 A tall, black-skinned Red Sash looks around alertly.
 
@@ -96,7 +96,7 @@ The Red Sash Patrol leader is here looking around alertly.
 
 A Red Sash, member of the famous mercenary company, stands here as a guard.
 
-<-66hp 69ma 128mv>gos nice bug
+\<-66hp 69ma 128mv\>gos nice bug
 
 You gossip-- 'nice bug'
 
@@ -124,9 +124,9 @@ I believe I have fixed this issue as well as another one related to the leader t
 
 More cool bugs!
 
-<91hp 37ma 71mv>
+\<91hp 37ma 71mv\>
 
-> You weave the threads of magic masterfully!
+\> You weave the threads of magic masterfully!
 
 You turn the red sash patrol leader into a small pile of dust.
 
@@ -160,7 +160,7 @@ Bal Harbor Jail
 
 The red sash patrol leader is lying here, dead.
 
-~~~
+\~\~\~
 
 The more severe bug allowed me to steal without getting boarded, so yes, admire my honesty.
 
@@ -206,10 +206,10 @@ The red sash commander is enmeshed in thick webs!
 
 The red sash commander growls at Brady and attacks!
 
-Now this is good fun!  :D
+Now this is good fun! <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
-Sashes are also very aerodynamic,  they not only fly well when tossed, 
+Sashes are also very aerodynamic, they not only fly well when tossed, 
 
-but fall even better with a hard thud when pushed off the idol ledge  :twisted:
+but fall even better with a hard thud when pushed off the idol ledge <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

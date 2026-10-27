@@ -12,11 +12,11 @@ post_count: 3
 
 <div class="post" data-post-id="38262" data-author="jarlaxle" data-date="2017-05-31T01:15:46+00:00" data-subject="Lack of groups">
 
-We NPC to fill groups, I've logged on for the past week and have had 1 group, considering we can't multi play and this is a group mud without the player base to support plenty of groups.  It's time to adept the mud.
+We NPC to fill groups, I've logged on for the past week and have had 1 group, considering we can't multi play and this is a group mud without the player base to support plenty of groups. It's time to adept the mud.
 
-1. Either open it to multi playing.
+1\. Either open it to multi playing.
 
-2. Make NPC to fill a groups.   I have lots of ideas if you want otherwise I'll just keep my mouth shut if its a no.
+2\. Make NPC to fill a groups. I have lots of ideas if you want otherwise I'll just keep my mouth shut if its a no.
 
 </div>
 

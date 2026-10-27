@@ -24,7 +24,7 @@ Thanks in advance.
 
 Alchemist's Shop
 
-Exits: North  East  
+Exits: North East 
 
 A tan spellbook with strange runes lies forgotten on the ground.
 
@@ -34,137 +34,137 @@ The head Alchemist of the lab shows you his collection of potions.
 
 The Alchemist glows with a bright light!
 
-<509hp 222ma 226mv>   +9   -7.1   4,886,182   93,928   indoors   Bal Harbor Town
+\<509hp 222ma 226mv\> +9 -7.1 4,886,182 93,928 indoors Bal Harbor Town
 
-**buy 10 purple
+<strong>buy 10 purple</strong>
 
-The Alchemist tells you 'I don't carry that many!'**
+<strong>The Alchemist tells you 'I don't carry that many!'</strong>
 
-<509hp 223ma 226mv>   +9   -7.1   4,886,182   93,928   indoors   Bal Harbor Town
+\<509hp 223ma 226mv\> +9 -7.1 4,886,182 93,928 indoors Bal Harbor Town
 
-**buy 10 2.purple
+<strong>buy 10 2.purple</strong>
 
-The Alchemist tells you 'I don't carry that many!'**
+<strong>The Alchemist tells you 'I don't carry that many!'</strong>
 
-<509hp 224ma 228mv>   +9   -7.1   4,886,182   93,928   indoors   Bal Harbor Town
+\<509hp 224ma 228mv\> +9 -7.1 4,886,182 93,928 indoors Bal Harbor Town
 
-**buy 10 3.purple
+<strong>buy 10 3.purple</strong>
 
-The Alchemist tells you 'I don't carry that many!'**
+<strong>The Alchemist tells you 'I don't carry that many!'</strong>
 
-<509hp 224ma 230mv>   +9   -7.1   4,886,182   93,928   indoors   Bal Harbor Town
+\<509hp 224ma 230mv\> +9 -7.1 4,886,182 93,928 indoors Bal Harbor Town
 
 li
 
 You can buy:
 
- Price     Item
+ Price Item
 
-----------------------
+\----------------------
 
- 10000     a crimson potion
+ 10000 a crimson potion
 
- 10000     a viscous blue potion
+ 10000 a viscous blue potion
 
- 10000     a bright blue potion
+ 10000 a bright blue potion
 
- 500       A Potion of Grace
+ 500 A Potion of Grace
 
- 1800      a silver potion [2]
+ 1800 a silver potion [2]
 
- 10000     a russet potion
+ 10000 a russet potion
 
- 10000     a steaming black potion
+ 10000 a steaming black potion
 
- 12000     an olive potion [5]
+ 12000 an olive potion [5]
 
- 10000     a fizzy ochre potion
+ 10000 a fizzy ochre potion
 
- 10000     a rusty red potion
+ 10000 a rusty red potion
 
- 2000      a milky white potion [2]
+ 2000 a milky white potion [2]
 
- 10000     a warm coral potion [2]
+ 10000 a warm coral potion [2]
 
-** 10000     a cloudy purple potion**
+<strong> 10000 a cloudy purple potion</strong>
 
- 500       a green potion [2]
+ 500 a green potion [2]
 
- 500       a cerise potion [2]
+ 500 a cerise potion [2]
 
- 100       a vial of firedrake spittle
+ 100 a vial of firedrake spittle
 
- 25        a vial of quickling sweat [2]
+ 25 a vial of quickling sweat [2]
 
- 100       a green glass jar of milky liquid [2]
+ 100 a green glass jar of milky liquid [2]
 
- 400       a vial of troll blood
+ 400 a vial of troll blood
 
- 50        a vial of slime
+ 50 a vial of slime
 
- 400       a vial of mercury [2]
+ 400 a vial of mercury [2]
 
- 10000     a dull gray potion
+ 10000 a dull gray potion
 
- 850       a sparkling green potion..It has a soft glowing aura!
+ 850 a sparkling green potion..It has a soft glowing aura!
 
-** 10000     a deep purple potion**
+<strong> 10000 a deep purple potion</strong>
 
- 10000     a chilled black potion
+ 10000 a chilled black potion
 
- 10000     a midnight-blue potion [2]
+ 10000 a midnight-blue potion [2]
 
- 200       a coconut of emetic draught
+ 200 a coconut of emetic draught
 
- 200       a coconut of invigorating draught [2]
+ 200 a coconut of invigorating draught [2]
 
- 10000     a bubbling maroon potion
+ 10000 a bubbling maroon potion
 
- 10000     a sea-green potion
+ 10000 a sea-green potion
 
-** 10000     a pale purple potion**
+<strong> 10000 a pale purple potion</strong>
 
- 500       A Potion of Remove Poison
+ 500 A Potion of Remove Poison
 
- 10000     a clear potion
+ 10000 a clear potion
 
- 10000     an aquamarine potion
+ 10000 an aquamarine potion
 
- 10000     a pale rose potion [2]
+ 10000 a pale rose potion [2]
 
- 400       a dull gold potion
+ 400 a dull gold potion
 
- 400       a red potion
+ 400 a red potion
 
- 400       a yellow potion
+ 400 a yellow potion
 
-** 650       a purple potion**
+<strong> 650 a purple potion</strong>
 
- 5000      a small vial of a colorless liquid
+ 5000 a small vial of a colorless liquid
 
- 975       an orange potion
+ 975 an orange potion
 
-----------------------
+\----------------------
 
-* means you need more levels to use it.
+\* means you need more levels to use it.
 
 ! means you are not strong enough to use it.
 
-& means you have studied this spellbook or manual to its max.
+\& means you have studied this spellbook or manual to its max.
 
 Query may also be of use to you, please refer to help query.
 
-<509hp 225ma 231mv>   +9   -7.1   4,886,182   93,928   indoors   Bal Harbor Town
+\<509hp 225ma 231mv\> +9 -7.1 4,886,182 93,928 indoors Bal Harbor Town
 
-**buy 10 4.purple
+<strong>buy 10 4.purple</strong>
 
-The Alchemist tells you 'That will be 6500 coins, here's your potion.'
+<strong>The Alchemist tells you 'That will be 6500 coins, here's your potion.'</strong>
 
-You now have 10 of a purple potion.**
+<strong>You now have 10 of a purple potion.</strong>
 
 put all.purple-potion swirling-black-red-robes
 
-<509hp 227ma 234mv>   +9   -7.1   4,886,182   87,428   indoors   Bal Harbor Town
+\<509hp 227ma 234mv\> +9 -7.1 4,886,182 87,428 indoors Bal Harbor Town
 
 A purple potion: Ok.
 

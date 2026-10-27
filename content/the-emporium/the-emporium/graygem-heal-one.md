@@ -26,13 +26,13 @@ blazing sword of light
 
 volcanic guards
 
-maybe coins but not sure :)
+maybe coins but not sure <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="316" data-author="Avatar" data-date="2004-05-25T12:40:23+00:00" data-subject="+HEAL!">
 
-Kelt, I'm interested.  I'm not sure what I have to trade, but maybe we can find something.  I likely won't be online until the weekend though.
+Kelt, I'm interested. I'm not sure what I have to trade, but maybe we can find something. I likely won't be online until the weekend though.
 
 Charles
 
@@ -42,6 +42,6 @@ Charles
 
 Interested but only have coins.
 
--Mannu
+\-Mannu
 
 </div>

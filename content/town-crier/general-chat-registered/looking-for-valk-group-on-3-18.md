@@ -14,7 +14,7 @@ post_count: 1
 
 Hi all,
 
-I'm guessing that not alot of people check the forums daily (but they should).  I am looking for a small group of people to do the "Law" Auto quest on 3/18.  I am off from work, so the entire day is good for me.  Please post the times you will be available in this thread.
+I'm guessing that not alot of people check the forums daily (but they should). I am looking for a small group of people to do the "Law" Auto quest on 3/18. I am off from work, so the entire day is good for me. Please post the times you will be available in this thread.
 
 YOU NEED DRACHMA.....
 

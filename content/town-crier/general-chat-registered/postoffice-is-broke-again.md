@@ -26,7 +26,7 @@ Greetings, mortals.
 
 Mail received from Splork :
 
-> **Quote:**
+> <strong>Quote:</strong>
 > Fixed
 > 
 > 

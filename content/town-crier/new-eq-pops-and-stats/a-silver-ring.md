@@ -18,7 +18,7 @@ Just came back from extended hiatus.
 
 I found this in my inventory but don't see it on the eq list.
 
-----------
+\----------
 
 Object 'silver ring', Item type: FLOOR
 
@@ -28,7 +28,7 @@ Weight: 1, Value: 3500gold, Worn in: TAKE FINGER
 
 Can affect you as:
 
-    Affects: INT by 1
+ Affects: INT by 1
 
 Only those who are at least novice magic users or novice clerics, or adept
 

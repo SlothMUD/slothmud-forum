@@ -20,13 +20,13 @@ Bazilus the Crazy Python
 
 <div class="post" data-post-id="13691" data-author="osric" data-date="2006-08-10T06:34:09+00:00" data-subject="">
 
-Gratz Atwell :)
+Gratz Atwell <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="13695" data-author="Weasel" data-date="2006-08-10T08:12:54+00:00" data-subject="">
 
-Now all you have to do is lose a level by corpsing and level back up again and you'll officially be a re-tard. :)
+Now all you have to do is lose a level by corpsing and level back up again and you'll officially be a re-tard. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -38,7 +38,8 @@ ugh... that joke was painful
 
 <div class="post" data-post-id="13698" data-author="Medios" data-date="2006-08-10T21:47:17+00:00" data-subject="">
 
-Now all you have to do is lose a level by corpsing and level back up again and you'll officially be a re-tard. :)[/quote:2a24lua6]
+> <strong>Weasel wrote:</strong>
+> Now all you have to do is lose a level by corpsing and level back up again and you'll officially be a re-tard. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 I thought Atwell was already a PIRATE?
 
@@ -48,15 +49,16 @@ Mike
 
 <div class="post" data-post-id="13699" data-author="Autolycos" data-date="2006-08-10T23:42:55+00:00" data-subject="">
 
-I thought Atwell was already a PIRATE?
+> <strong>Medios wrote:</strong>
+> I thought Atwell was already a PIRATE?
+> 
+> Mike
 
-Mike[/quote:mxte6h2z]
+\*cackle.
 
-*cackle.
+love you too mike! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
-love you too mike!  :twisted:
-
-BAD DOG!! :evil:
+BAD DOG!! <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -64,11 +66,11 @@ BAD DOG!! :evil:
 
 BAD DOG!!!!
 
-[img:ggxu308w]http://www.worth1000.com/entries/142000/142349EjLI_w.jpg[/img:ggxu308w]
+![](http://www.worth1000.com/entries/142000/142349EjLI_w.jpg)
 
-[img:ggxu308w]http://www.forwardedfunnies.com/p/200405/baddog.jpg[/img:ggxu308w]
+![](http://www.forwardedfunnies.com/p/200405/baddog.jpg)
 
-[img:ggxu308w]http://bookweb.kinokuniya.co.jp/bimgdata/FC0761139834.JPG[/img:ggxu308w]
+![](http://bookweb.kinokuniya.co.jp/bimgdata/FC0761139834.JPG)
 
 </div>
 
@@ -76,9 +78,10 @@ BAD DOG!!!!
 
 Thanks, everyone.
 
-Now all you have to do is lose a level by corpsing and level back up again and you'll officially be a re-tard. :)[/quote:221m1pur]
+> <strong>Weasel wrote:</strong>
+> Now all you have to do is lose a level by corpsing and level back up again and you'll officially be a re-tard. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-I managed to do that within an hour or two.  Showed those naysayers who claimed I'd had my last free-restore-on-level.
+I managed to do that within an hour or two. Showed those naysayers who claimed I'd had my last free-restore-on-level.
 
 </div>
 

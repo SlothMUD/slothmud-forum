@@ -14,11 +14,11 @@ post_count: 2
 
 Unkle's last logon was Fri Aug 20 20:52:28 2004
 
-[10d  0n  0c  0o] Unkle Frank
+[10d 0n 0c 0o] Unkle Frank
 
-Unkle Frank  (level: 10)
+Unkle Frank (level: 10)
 
-Your levels:  Dr: 10 
+Your levels: Dr: 10 
 
 You are 17 years and 1 month old.
 
@@ -40,7 +40,7 @@ Str: 11 / 0, Int: 18, Wis: 18, Dex: 18, Con: 14
 
 You are standing.
 
-You are affected by the following spells:  None.
+You are affected by the following spells: None.
 
 This time start the bidding at whatever price you see fit.
 

@@ -36,9 +36,9 @@ AC-apply is -0.1
 
 Can affect you as:
 
-    Affects: REGEN_MANA by 2
+ Affects: REGEN\_MANA by 2
 
-    Affects: HEAL_BONUS by 15
+ Affects: HEAL\_BONUS by 15
 
 Only those who are primary supreme clerics may use this item.
 
@@ -52,7 +52,7 @@ AC-apply is -1.4
 
 Can affect you as:
 
-    Affects: STR by 1
+ Affects: STR by 1
 
 Only those who are at least experienced thieves may use this item.
 
@@ -66,9 +66,9 @@ AC-apply is -0.5
 
 Can affect you as:
 
-    Affects: STR by 2
+ Affects: STR by 2
 
-    Affects: REGEN_MOVE by 2
+ Affects: REGEN\_MOVE by 2
 
 Only those who are at least experienced magic users, clerics, thieves, 
 
@@ -84,9 +84,9 @@ AC-apply is -1.2
 
 Can affect you as:
 
-    Affects: MANA by 10
+ Affects: MANA by 10
 
-    Affects: MOVE by -10
+ Affects: MOVE by -10
 
 Only those who are at least experienced magic users and also experienced 
 
@@ -100,9 +100,9 @@ Weight: 10, Value: 75000, Worn in: TAKE ABOUT
 
 Can affect you as:
 
-    Affects: REGEN_MANA by 1
+ Affects: REGEN\_MANA by 1
 
-    Affects: ARMOR by 1
+ Affects: ARMOR by 1
 
 Only those who are at least adept magic users and clerics may use this 
 

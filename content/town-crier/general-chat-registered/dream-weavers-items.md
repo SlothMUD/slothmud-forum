@@ -42,9 +42,9 @@ Thieves Pouch: like a keychain for poisons
 
 <div class="post" data-post-id="10017" data-author="Autolycos" data-date="2006-01-08T15:59:06+00:00" data-subject="">
 
-Salvation:  iirc... if you have this token in your inv.. it raises you from the dead.. 
+Salvation: iirc... if you have this token in your inv.. it raises you from the dead.. 
 
-but i dont anyone who has tried it... and for me personally.. i would have to buy them in bulk   :twisted:
+but i dont anyone who has tried it... and for me personally.. i would have to buy them in bulk <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -58,9 +58,9 @@ Weight: 1, Value: 50000000, Worn in: TAKE HOLD
 
 Can affect you as:
 
-    Affects: REGEN_MANA by 2
+ Affects: REGEN\_MANA by 2
 
-    Affects: MANA by 7
+ Affects: MANA by 7
 
 Only those who are at least experienced magic users, clerics, druids, or 
 
@@ -72,7 +72,7 @@ the thieves pouch I believe is a no-steal bag for storing ioun stones..
 
 <div class="post" data-post-id="10024" data-author="12345" data-date="2006-01-08T21:13:33+00:00" data-subject="">
 
-Thieves pouch is a nosteal bag for carrying poison.  Kinda nice because you don't have to carry 10 poisons in inventory and you don't have to take them out of the bag to use em.
+Thieves pouch is a nosteal bag for carrying poison. Kinda nice because you don't have to carry 10 poisons in inventory and you don't have to take them out of the bag to use em.
 
 Not a great item, but I don't regret buying it.
 

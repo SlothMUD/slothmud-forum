@@ -14,11 +14,11 @@ post_count: 3
 
 There will be something...remember it's traditionally smaller than the Halloween Quest...at..this time:
 
-[<LINK_TEXT text="https://www.tickcounter.com/countdown/3 ... ving-quest">https://www.tickcounter.com/countdown/374569/sloth-2017-thanksgiving-quest</LINK_TEXT>](https://www.tickcounter.com/countdown/374569/sloth-2017-thanksgiving-quest)
+[https://www.tickcounter.com/countdown/374569/sloth-2017-thanksgiving-quest](https://www.tickcounter.com/countdown/374569/sloth-2017-thanksgiving-quest)
 
 See folks there.
 
---Idj
+\--Idj
 
 </div>
 
@@ -34,6 +34,6 @@ What's the scheduled PST/EST time? Thanks.
 
 [http://www.slothmud.org/quests.php](http://www.slothmud.org/quests.php)
 
-1 day, 9 hours, 8 minutes from now  (It is currently 0951 Central European Time for me)
+1 day, 9 hours, 8 minutes from now (It is currently 0951 Central European Time for me)
 
 </div>

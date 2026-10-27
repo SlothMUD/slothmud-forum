@@ -32,7 +32,7 @@ Hope i helped. U can also get special mud clients such as wintin and zmud downlo
 
 <div class="post" data-post-id="4383" data-author="Akasha2" data-date="2005-02-11T16:24:16+00:00" data-subject="">
 
-If you really do not want to vote, and Impz's instructions don't suit you, then goto this website's home page and look in the upper right corner.  There you will see a box labeled TMC Voting.  Open that box and you will see Telnet Votes (2nd Vote).  This link will take you to the same page you saw before with the other telnet link, however the "Skip Vote" link there works, and will take you to the game.
+If you really do not want to vote, and Impz's instructions don't suit you, then goto this website's home page and look in the upper right corner. There you will see a box labeled TMC Voting. Open that box and you will see Telnet Votes (2nd Vote). This link will take you to the same page you saw before with the other telnet link, however the "Skip Vote" link there works, and will take you to the game.
 
 Welcome, stay a while, and have fun.
 

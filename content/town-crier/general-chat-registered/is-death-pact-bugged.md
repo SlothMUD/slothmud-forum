@@ -14,9 +14,9 @@ post_count: 4
 
 This normal for anyone else? its happened to me twice already and I'm about to not use the spell anymore.
 
-<-33Hp 382Ma 142Mv> 933,446,796 XP 1,309,468 coins +10 align
+\<-33Hp 382Ma 142Mv\> 933,446,796 XP 1,309,468 coins +10 align
 
-Your soul merges with your wounded body.  You are a whole again.
+Your soul merges with your wounded body. You are a whole again.
 
 You feel much, much better!
 
@@ -24,7 +24,7 @@ You stop following Ker.
 
 Bigwig the eudaemon stops following you.
 
-  24374 bytes received in total, compressed to 1644 bytes by MCCP (93 % saving)
+ 24374 bytes received in total, compressed to 1644 bytes by MCCP (93 % saving)
 
 it looks as if it kicked in and then I was dead.
 
@@ -38,9 +38,9 @@ Pooka
 
 Yeah, that happens on the last tick of death pact.
 
-For any coder that wants to fix it, point_update in limits.c.
+For any coder that wants to fix it, point\_update in limits.c.
 
-The GET_DEATHTICK if/then should be skipped if the player is no longer dead.
+The GET\_DEATHTICK if/then should be skipped if the player is no longer dead.
 
 </div>
 

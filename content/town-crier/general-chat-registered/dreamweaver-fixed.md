@@ -12,7 +12,7 @@ post_count: 4
 
 <div class="post" data-post-id="13559" data-author="Akasha" data-date="2006-07-26T01:33:34+00:00" data-subject="Dreamweaver fixed">
 
-Finally worked in time to fix the situation with the Dream Weaver.  He should no longer loose memberships.   
+Finally worked in time to fix the situation with the Dream Weaver. He should no longer loose memberships. 
 
 Akasha
 
@@ -20,7 +20,7 @@ Akasha
 
 <div class="post" data-post-id="13607" data-author="Shyla" data-date="2006-07-28T15:46:34+00:00" data-subject="">
 
-I never had problems getting into the shop til it was "fixed" now it won't let me in b/c it says i don't have a membership.  I really don't feel like paying another 30 drachma for something that I already paid for.  I would appreciate it if someone could fix this :)
+I never had problems getting into the shop til it was "fixed" now it won't let me in b/c it says i don't have a membership. I really don't feel like paying another 30 drachma for something that I already paid for. I would appreciate it if someone could fix this <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 shyla
 
@@ -28,7 +28,7 @@ shyla
 
 <div class="post" data-post-id="13608" data-author="Akasha" data-date="2006-07-28T15:48:17+00:00" data-subject="">
 
-on my way to work right now.  will look into it when i get off tonight.
+on my way to work right now. will look into it when i get off tonight.
 
 </div>
 

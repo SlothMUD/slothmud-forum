@@ -16,7 +16,7 @@ You can add your clan symbol to your title by simply inserting %s where you want
 
 e.g.
 
-> title I r peon of %s so be respectful
+\> title I r peon of %s so be respectful
 
 [1 1 1 1] Jimbob I r peon of {SLAVERS} so be respectful
 

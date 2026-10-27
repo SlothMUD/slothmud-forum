@@ -18,13 +18,13 @@ One I've written is a coundown timer for spells about to wear off, based on:
 
 Trigger:
 
-The '<spellname>' spell on you is about to wear off.
+The '\<spellname\>' spell on you is about to wear off.
 
 Action:
 
-#set ticktime = 60;
+\#set ticktime = 60;
 
-#delay ticktick 1 60 #set ticktime = ticktime -1
+\#delay ticktick 1 60 #set ticktime = ticktime -1
 
 ticktime being a variable shown on my clients status bar along with the spellname.
 
@@ -48,6 +48,6 @@ Madmax
 
 <div class="post" data-post-id="9418" data-author="mudder" data-date="2005-11-08T13:23:08+00:00" data-subject="">
 
-thanks .... that makes sense :)
+thanks .... that makes sense <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

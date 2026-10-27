@@ -16,19 +16,19 @@ This is an excerpt from a group that bit led earlier today.
 
 And you said it couldn't happen.
 
-<812hp 138ma 179mv>
+\<812hp 138ma 179mv\>
 
 Bit -- '//Bit// well, i'm going to make shoop tank'
 
-<812hp 138ma 179mv>
+\<812hp 138ma 179mv\>
 
-Shoop -- '<Cookie> eep'
+Shoop -- '\<Cookie\> eep'
 
-<812hp 138ma 179mv>
+\<812hp 138ma 179mv\>
 
-Shoop -- '<Cookie> okay'
+Shoop -- '\<Cookie\> okay'
 
-<812hp 138ma 179mv>
+\<812hp 138ma 179mv\>
 
 Bit -- '//Bit// since i'm greedy and stuff'
 
@@ -36,25 +36,25 @@ Bit -- '//Bit// since i'm greedy and stuff'
 
 <div class="post" data-post-id="16891" data-author="firebrand" data-date="2007-02-14T19:07:15+00:00" data-subject="">
 
-dude i refuse to take your bait on this one.  thank you bit for sharing tank job with tiff, i appreciate it.  i have already said i have dropped it, so you do too, please.
+dude i refuse to take your bait on this one. thank you bit for sharing tank job with tiff, i appreciate it. i have already said i have dropped it, so you do too, please.
 
-"i should'na said tha' " --hagrid --> harry potter movies
+"i should'na said tha' " --hagrid --\> harry potter movies
 
 </div>
 
 <div class="post" data-post-id="16892" data-author="13" data-date="2007-02-14T21:21:50+00:00" data-subject="">
 
-[img:1b1p0iro]http://img251.imageshack.us/img251/2648/mouseywc0.png[/img:1b1p0iro]
+![](http://img251.imageshack.us/img251/2648/mouseywc0.png)
 
-[img:1b1p0iro]http://img251.imageshack.us/img251/2648/mouseywc0.png[/img:1b1p0iro]
+![](http://img251.imageshack.us/img251/2648/mouseywc0.png)
 
-[img:1b1p0iro]http://img251.imageshack.us/img251/2648/mouseywc0.png[/img:1b1p0iro]
+![](http://img251.imageshack.us/img251/2648/mouseywc0.png)
 
-[img:1b1p0iro]http://img251.imageshack.us/img251/2648/mouseywc0.png[/img:1b1p0iro]
+![](http://img251.imageshack.us/img251/2648/mouseywc0.png)
 
-[img:1b1p0iro]http://img251.imageshack.us/img251/2648/mouseywc0.png[/img:1b1p0iro]
+![](http://img251.imageshack.us/img251/2648/mouseywc0.png)
 
-[img:1b1p0iro]http://img251.imageshack.us/img251/2648/mouseywc0.png[/img:1b1p0iro]
+![](http://img251.imageshack.us/img251/2648/mouseywc0.png)
 
 </div>
 

@@ -12,15 +12,15 @@ post_count: 22
 
 <div class="post" data-post-id="37171" data-author="*teker*" data-date="2016-08-05T14:29:34+00:00" data-subject="Changelog 2016-08-05 - skills / spells">
 
-I've added some logging so we can track how much damage everyone is doing with their skills.  It'll help me to see what kind of damage the skills do to make tweaking easier.  The following changes have been implemented:
+I've added some logging so we can track how much damage everyone is doing with their skills. It'll help me to see what kind of damage the skills do to make tweaking easier. The following changes have been implemented:
 
 Firestorm:
 
-You shouldn't be able to use this spell to pkill anymore.  I've completely rewritten the area-affect spell damage code so that you can still cast the spell if ungrouped players are in the room and it will start fights with the mobs but skip the players.
+You shouldn't be able to use this spell to pkill anymore. I've completely rewritten the area-affect spell damage code so that you can still cast the spell if ungrouped players are in the room and it will start fights with the mobs but skip the players.
 
 Chain lightning:
 
-I moved this spell over to the new code also figuring that more people can test it than firestorm.  Previously this spell would not cast if ungrouped players were in the room - now it just skips them.  Once the new code has been thoroughly tested, I'll move all the area affect damage spells over to it.
+I moved this spell over to the new code also figuring that more people can test it than firestorm. Previously this spell would not cast if ungrouped players were in the room - now it just skips them. Once the new code has been thoroughly tested, I'll move all the area affect damage spells over to it.
 
 Cry of the Avatar:
 
@@ -30,11 +30,11 @@ These songs should use the saves color now when appropriate.
 
 Broadside:
 
-Damage increases slowly with warrior and avatar levels.  Weapon damage bonus counts now.  Ether mobs can be hit if mist is up.  Spiritual hammer doesn't work as it's not the right type of weapon for broadside.  Max weight of target increases at warrior 40 and every 40 thereafter.
+Damage increases slowly with warrior and avatar levels. Weapon damage bonus counts now. Ether mobs can be hit if mist is up. Spiritual hammer doesn't work as it's not the right type of weapon for broadside. Max weight of target increases at warrior 40 and every 40 thereafter.
 
 Flail:
 
-I haven't changed the damage until I can see the log results.  It looked like flail wasn't working to start fights when ungrouped players were in the room so I fixed that.  You should also be able to hit ether mobs with hammer/mace or when mist is up.
+I haven't changed the damage until I can see the log results. It looked like flail wasn't working to start fights when ungrouped players were in the room so I fixed that. You should also be able to hit ether mobs with hammer/mace or when mist is up.
 
 </div>
 
@@ -48,7 +48,7 @@ What about riposte with the hammer or when mist is up?
 
 <div class="post" data-post-id="37173" data-author="*teker*" data-date="2016-08-05T15:17:00+00:00" data-subject="Re: Changelog 2016-08-05 - skills / spells">
 
-Looks to me like riposte works with mist up.  Hammer isn't the right weapon type.
+Looks to me like riposte works with mist up. Hammer isn't the right weapon type.
 
 </div>
 
@@ -72,7 +72,7 @@ Hopefully before I reach 9x40 I will get my first piece of weapon damage. I'll e
 
 <div class="post" data-post-id="37175" data-author="*teker*" data-date="2016-08-05T16:37:35+00:00" data-subject="Re: Changelog 2016-08-05 - skills / spells">
 
-The early results show Gorka is getting about a 30% increase in damage.  Some of the higher level warriors are seeing double to triple their original damage.
+The early results show Gorka is getting about a 30% increase in damage. Some of the higher level warriors are seeing double to triple their original damage.
 
 </div>
 
@@ -94,7 +94,7 @@ Thanks.
 
 <div class="post" data-post-id="37177" data-author="Gorka" data-date="2016-08-05T17:22:42+00:00" data-subject="Re: Changelog 2016-08-05 - skills / spells">
 
-30%!!!  :shock:  8) 
+30%!!! <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> 
 
 It's difficult to tell there was an increase, as the game damage is not transparent. I used to 3-4%, and now I still 3-4%... Maybe I 4% more, I didn't notice?
 
@@ -104,9 +104,9 @@ Does regular dam count in the same way weapon dam counts for broadside? It's far
 
 <div class="post" data-post-id="37180" data-author="cyprimus" data-date="2016-08-06T04:39:32+00:00" data-subject="Re: Changelog 2016-08-05 - skills / spells">
 
-wow, i got a stun from broadsiding.  Nice.
+wow, i got a stun from broadsiding. Nice.
 
-no idea how common they are.  Or how common falling over is now.
+no idea how common they are. Or how common falling over is now.
 
 Good improvement.
 
@@ -120,7 +120,7 @@ Falling over is still flipping annoying... I've taken it out of my coliseum scri
 
 <div class="post" data-post-id="37182" data-author="Filk" data-date="2016-08-06T05:36:00+00:00" data-subject="Re: Changelog 2016-08-05 - skills / spells">
 
-Maybe its time to move away from hidden damage numbers and show real numbers after each damage done?  :roll: 
+Maybe its time to move away from hidden damage numbers and show real numbers after each damage done? <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> 
 
 So people will be able to write their own damage meters and everyone will be happy to see their actual output. Especially in groups. C'mon is 2016 year. Every mmo game do it already!
 
@@ -128,29 +128,29 @@ So people will be able to write their own damage meters and everyone will be hap
 
 <div class="post" data-post-id="37184" data-author="*teker*" data-date="2016-08-06T21:24:41+00:00" data-subject="Re: Changelog 2016-08-05 - skills / spells">
 
-> **Teron wrote:**
+> <strong>Teron wrote:</strong>
 > My initial results tell me that my broadside damage went up from 40-80 to consistent 60-80.
 > 
 > For me, broadside does about 1.3-1.5 of attack damage.
 
-My logs show lower damage than what you're seeing so I suspect either your counter is off or there's additional damage being added somewhere in the code that I haven't found yet.  It's pretty hard to read.  My logs show that the base damage for you has about doubled.
+My logs show lower damage than what you're seeing so I suspect either your counter is off or there's additional damage being added somewhere in the code that I haven't found yet. It's pretty hard to read. My logs show that the base damage for you has about doubled.
 
-> **Quote:**
+> <strong>Quote:</strong>
 > Because for me, broadside does 1-2%, whereas 4 attacks deal 5-6% mobhp damage, so broadside isn't doing any damage worth talking about.
 
-What are you doing between rounds if not broadsiding?  Just curious.  Your numbers would be 17-20 rounds with nothing between rounds or 13-17 rounds with broadside.  That seems like something that would be beneficial.
+What are you doing between rounds if not broadsiding? Just curious. Your numbers would be 17-20 rounds with nothing between rounds or 13-17 rounds with broadside. That seems like something that would be beneficial.
 
-> **Quote:**
+> <strong>Quote:</strong>
 > What conditions should be met, so I can deal the triple of my old damage?
 
-Ask Stun.  He's doing the best damage according to my logs.
+Ask Stun. He's doing the best damage according to my logs.
 
 </div>
 
 <div class="post" data-post-id="37185" data-author="*juggleblood*" data-date="2016-08-06T23:24:07+00:00" data-subject="Re: Changelog 2016-08-05 - skills / spells">
 
-> **Filk wrote:**
-> Maybe its time to move away from hidden damage numbers and show real numbers after each damage done?  :roll: 
+> <strong>Filk wrote:</strong>
+> Maybe its time to move away from hidden damage numbers and show real numbers after each damage done? <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> 
 > 
 > So people will be able to write their own damage meters and everyone will be happy to see their actual output. Especially in groups. C'mon is 2016 year. Every mmo game do it already!
 
@@ -172,15 +172,15 @@ Slightly different subject (requiring a slightly different fix) but I thought I'
 
 Maybe we should roll this back.
 
---Idj
+\--Idj
 
 </div>
 
 <div class="post" data-post-id="37187" data-author="*Breeze*" data-date="2016-08-07T04:32:22+00:00" data-subject="Re: Changelog 2016-08-05 - skills / spells">
 
-> ***juggleblood* wrote:**
-> > **Filk wrote:**
-> > Maybe its time to move away from hidden damage numbers and show real numbers after each damage done?  :roll: 
+> <strong>\*juggleblood\* wrote:</strong>
+> > <strong>Filk wrote:</strong>
+> > Maybe its time to move away from hidden damage numbers and show real numbers after each damage done? <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> 
 > > 
 > > So people will be able to write their own damage meters and everyone will be happy to see their actual output. Especially in groups. C'mon is 2016 year. Every mmo game do it already!
 > 
@@ -202,7 +202,7 @@ Maybe we should roll this back.
 
 I actually would not be against this except for the fact that I would get people asking me details on it. 
 
-there are a million and one things that can affect how much damage you do. I don't feel the need to clarify then on a per fight basis. having said that, I wouldn't be against a toggle that says if you turn this on * or if you don't turn it on *, dont ask the admins why you do X damage.base damage can easily be calculated.  any bonus damage, not. 
+there are a million and one things that can affect how much damage you do. I don't feel the need to clarify then on a per fight basis. having said that, I wouldn't be against a toggle that says if you turn this on \* or if you don't turn it on \*, dont ask the admins why you do X damage.base damage can easily be calculated. any bonus damage, not. 
 
 after my vacation I may do a test run of something like that actually. just depends on how I feel and how much bs I have to deal with afterwards.
 
@@ -242,9 +242,9 @@ Could you describe us, where in the damage skill list you (or you and imms) want
 
 You probably should take scale damage with weapon damage more, if you want to
 
-- limit tank damage
+\- limit tank damage
 
-- make it useful for assisting warriors, who wear weapon damage eq.
+\- make it useful for assisting warriors, who wear weapon damage eq.
 
 Perhaps, it's the 4x40 warrior, who should be doing 60-80 damage with a broadside in ac, not a 8x40 warrior in a +12 weapon damage set.
 
@@ -276,7 +276,7 @@ That's me for this round.
 
 <div class="post" data-post-id="37199" data-author="Teron" data-date="2016-08-08T06:14:06+00:00" data-subject="Re: Changelog 2016-08-05 - skills / spells">
 
-> **Gorka wrote:**
+> <strong>Gorka wrote:</strong>
 > Lay off teker guys! It's not his fault that our lack of weapon dam eq still renders broadside pretty undesirable for us mid-bie warriors.
 
 I don't think Teker or anyone said he'd add more ingame and drachma weapon damage eq, so we analyze what we see and provide the feedback that's required to make things better. We are attacking the issue, not Teker, so I think that is within the lines of constructive criticism. So don't swing your axe at us prematurely, Gorka.
@@ -303,11 +303,11 @@ So to summarise... weapon dam eq is weird, how can you "win" when using weapon d
 
 Though Teker should know better, here's what I'd do:
 
-- make broadside do ok damage with mostly regular/dice damage with linear bonuses from 40s (that's how it is, I imagine?)
+\- make broadside do ok damage with mostly regular/dice damage with linear bonuses from 40s (that's how it is, I imagine?)
 
-- introduce weapon dam eq
+\- introduce weapon dam eq
 
-- update broadside to favor weapon damage.
+\- update broadside to favor weapon damage.
 
 Then again, if flail is supposed to be main damage dealing skill, then the last point should apply to flail also/instead.
 
@@ -315,7 +315,7 @@ Then again, if flail is supposed to be main damage dealing skill, then the last 
 
 <div class="post" data-post-id="37208" data-author="*teker*" data-date="2016-08-08T21:31:53+00:00" data-subject="Re: Changelog 2016-08-05 - skills / spells">
 
-> **Teron wrote:**
+> <strong>Teron wrote:</strong>
 > As a tank, it means I don't want to use broadside to do miniscule damage, because it lags, or to stun mobs, because there's a chance it'll put me on my back, unable to rescue or heal self.
 > 
 > 
@@ -326,17 +326,17 @@ Then again, if flail is supposed to be main damage dealing skill, then the last 
 > 
 > Could you describe us, where in the damage skill list you (or you and imms) want to place broadside and flail, so you'd set our expectations right?
 
-We haven't really discussed it on an imm level other than that I was going to try some changes and see what happens.  I don't like "useless" skills.  It seems like bodyslam would also fall into that category.  I think a single target skill like broadside should do more than an area affect skill like flail.  I would like to see additional weapon skills that can be used with other weapon types so that players could enable those skills if they choose a different weapon.  We have that somewhat in that only certain weapons can broadside or riposte but I'd like to see alternatives that can be used with other weapons.  Additional bare hand skills could be added as well to give monks more variety.
+We haven't really discussed it on an imm level other than that I was going to try some changes and see what happens. I don't like "useless" skills. It seems like bodyslam would also fall into that category. I think a single target skill like broadside should do more than an area affect skill like flail. I would like to see additional weapon skills that can be used with other weapon types so that players could enable those skills if they choose a different weapon. We have that somewhat in that only certain weapons can broadside or riposte but I'd like to see alternatives that can be used with other weapons. Additional bare hand skills could be added as well to give monks more variety.
 
 </div>
 
 <div class="post" data-post-id="37209" data-author="cyprimus" data-date="2016-08-09T03:07:20+00:00" data-subject="Re: Changelog 2016-08-05 - skills / spells">
 
-Well. My two cents,  i feel monks have good variety... its just others got the same.. ieeveryone eventually will have grip/strike etc.. 
+Well. My two cents, i feel monks have good variety... its just others got the same.. ieeveryone eventually will have grip/strike etc.. 
 
 Would encourage my monk more to do something along the lines of like thieves... reduced cost on touch and or grip..
 
-and or reduced hit penalty..  touch misses a lot..
+and or reduced hit penalty.. touch misses a lot..
 
 Again, would suggest just extending the barehanded bonus' to addetional 40's after 40 monk, especially for primes.
 

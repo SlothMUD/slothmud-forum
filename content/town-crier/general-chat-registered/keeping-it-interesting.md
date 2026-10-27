@@ -38,23 +38,23 @@ Your blood freezes as you hear a large ogre's death cry.
 
 Van reports 749/1156 hp. Change: -47. Need: 407. Spells: aegis, greater fluidity.
 
-<692hp 341ma 272mv>
+\<692hp 341ma 272mv\>
 
 Van yells 'VROOOOOOM!'
 
-<693hp 341ma 273mv>
+\<693hp 341ma 273mv\>
 
 Rippecs joins in the war-cry!
 
-<693hp 341ma 273mv>
+\<693hp 341ma 273mv\>
 
 Van announces that it was entirely the fault of Rippecs.
 
-<695hp 342ma 274mv>
+\<695hp 342ma 274mv\>
 
 Van gets gold coins from the corpse of a large ogre that's on the ground.
 
-Van splits 5000 coins.  Your share is 1666 coins.
+Van splits 5000 coins. Your share is 1666 coins.
 
 ...
 
@@ -62,11 +62,11 @@ You grouptell: 'soaking exp is what they're doin!'
 
 Van reports 761/1156 hp. Change: +12. Need: 395. Spells: aegis, greater fluidity.
 
-<705hp 345ma 281mv>
+\<705hp 345ma 281mv\>
 
 Van -- 'lion chorus'
 
-<708hp 346ma 283mv>
+\<708hp 346ma 283mv\>
 
 gt oh heh yeah
 
@@ -74,17 +74,17 @@ Rippecs -- 'bastards!'
 
 You grouptell: 'oh heh yeah'
 
-<710hp 347ma 284mv>
+\<710hp 347ma 284mv\>
 
 You sing another verse of 'lion chorus'.
 
-<714hp 347ma 287mv>
+\<714hp 347ma 287mv\>
 
-Van -- 'nod, my viles are stealing xp :)'
+Van -- 'nod, my viles are stealing xp <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">'
 
 Van reports 770/1156 hp. Change: +9. Need: 386. Spells: greater fluidity, aegis.
 
-<715hp 347ma 288mv>
+\<715hp 347ma 288mv\>
 
 Van -- 'drule in'
 
@@ -120,11 +120,11 @@ Rippecs misses the ogre tanner with his slash.
 
 A ravenous tentacle lashes out, tearing a chunk of flesh from the ogre tanner.
 
-<607hp 333ma 263mv>
+\<607hp 333ma 263mv\>
 
 Van reports 1099/1156 hp. Change: +6. Need: 57. Spells: aegis, greater fluidity.
 
-<609hp 334ma 264mv>
+\<609hp 334ma 264mv\>
 
 You massacre the ogre tanner to small fragments with your pierce.
 
@@ -148,7 +148,7 @@ The song ends and you don't feel so fierce any more.
 
 Van -- 'vile 1 down!'
 
-<528hp 336ma 267mv>
+\<528hp 336ma 267mv\>
 
 Rippecs flails his weapon about the room!
 
@@ -156,17 +156,17 @@ Rippecs catches the ogre tanner in a flurry of blows.
 
 Van reports 1106/1156 hp. Change: +7. Need: 50. Spells: aegis, greater fluidity.
 
-<530hp 336ma 268mv>
+\<530hp 336ma 268mv\>
 
 cir
 
 You circle around to the ogre tanner's side and place Rogue's Dagger between two of his ribs.
 
-<531hp 337ma 264mv>
+\<531hp 337ma 264mv\>
 
 Van -- 'better him than me'
 
-<531hp 337ma 264mv>
+\<531hp 337ma 264mv\>
 
 You pierce the ogre tanner extremely hard.
 
@@ -192,41 +192,41 @@ Rippecs brutally massacres the ogre tanner with his slash.
 
 Rippecs massacres the ogre tanner to small fragments with his slash.
 
-<470hp 337ma 264mv>
+\<470hp 337ma 264mv\>
 
 sca
 
 Van reports 1113/1156 hp. Change: +7. Need: 43. Spells: greater fluidity, aegis.
 
-<472hp 338ma 266mv>
+\<472hp 338ma 266mv\>
 
 Rippecs flails his weapon about the room!
 
 Rippecs catches the ogre tanner in a flurry of blows.
 
-<472hp 338ma 266mv>
+\<472hp 338ma 266mv\>
 
 You peer intently all around, and see:
 
-                       Rippecs : right here
+ Rippecs : right here
 
-                   a vilewight : right here
+ a vilewight : right here
 
-                           Van : right here
+ Van : right here
 
-                    a pet boar : right here
+ a pet boar : right here
 
-               the ogre tanner : right here
+ the ogre tanner : right here
 
-                    a pet boar : immediately to the east
+ a pet boar : immediately to the east
 
-            an ogre tenderizer : nearby to the east
+ an ogre tenderizer : nearby to the east
 
-<473hp 339ma 266mv>
+\<473hp 339ma 266mv\>
 
 Van heroically rescues Rippecs.
 
-<474hp 339ma 267mv>
+\<474hp 339ma 267mv\>
 
 You pierce the ogre tanner extremely hard.
 
@@ -258,7 +258,7 @@ The jar smashes into Van's skull, dousing his in a foul-smelling liquid!
 
 Van reports 943/1156 hp. Change: -170. Need: 213. Spells: aegis, greater fluidity.
 
-<424hp 340ma 268mv>
+\<424hp 340ma 268mv\>
 
 cir vile
 
@@ -266,7 +266,7 @@ A vilewight hates your guts!
 
 A vilewight senses you trying to circle behind, and your stab misses.
 
-<426hp 341ma 264mv>
+\<426hp 341ma 264mv\>
 
 You pierce the ogre tanner extremely hard.
 
@@ -284,13 +284,13 @@ You pierce the ogre tanner extremely hard.
 
 Van reports 871/1156 hp. Change: -72. Need: 285. Spells: greater fluidity, aegis.
 
-<428hp 342ma 266mv>
+\<428hp 342ma 266mv\>
 
 Van flails his weapon about the room!
 
 Rippecs flails his weapon about the room!
 
-<429hp 342ma 266mv>
+\<429hp 342ma 266mv\>
 
 circ vile
 
@@ -310,7 +310,7 @@ Your blood freezes as you hear a vilewight's death cry.
 
 A vilewight stops following Van.
 
-<431hp 343ma 263mv>
+\<431hp 343ma 263mv\>
 
 You pierce the ogre tanner extremely hard.
 
@@ -336,21 +336,21 @@ You pierce the ogre tanner extremely hard.
 
 Van reports 879/1156 hp. Change: +8. Need: 277. Spells: greater fluidity, aegis.
 
-<433hp 344ma 264mv>
+\<433hp 344ma 264mv\>
 
 cack
 
 Van -- 'vile 2 down!'
 
-<436hp 345ma 266mv>
+\<436hp 345ma 266mv\>
 
 You cackle gleefully.
 
-<437hp 345ma 266mv>
+\<437hp 345ma 266mv\>
 
 The white aura around your body fades.
 
-<438hp 346ma 267mv>
+\<438hp 346ma 267mv\>
 
 You pierce the ogre tanner extremely hard.
 
@@ -374,21 +374,21 @@ You pierce the ogre tanner extremely hard.
 
 Van reports 823/1156 hp. Change: -56. Need: 333. Spells: greater fluidity, aegis.
 
-<438hp 346ma 267mv>
+\<438hp 346ma 267mv\>
 
 Van -- 'nooooo'
 
-<439hp 346ma 268mv>
+\<439hp 346ma 268mv\>
 
 Van looks at the ogre tanner.
 
-<440hp 347ma 268mv>
+\<440hp 347ma 268mv\>
 
 Van flails his weapon about the room!
 
 Van catches the ogre tanner in a flurry of blows.
 
-<441hp 347ma 269mv>
+\<441hp 347ma 269mv\>
 
 You pierce the ogre tanner extremely hard.
 
@@ -412,7 +412,7 @@ Van ducks around the ogre tanner's strike.
 
 Van reports 829/1156 hp. Change: +6. Need: 327. Spells: greater fluidity, aegis.
 
-<312hp 348ma 270mv>
+\<312hp 348ma 270mv\>
 
 re
 
@@ -420,21 +420,21 @@ Ok.
 
 The cleansing fires of healing fill your body!
 
-<520hp 286ma 270mv>
+\<520hp 286ma 270mv\>
 
 Rippecs flails his weapon about the room!
 
-<522hp 287ma 272mv>
+\<522hp 287ma 272mv\>
 
-Van -- 'was hoping they'd last a bit longer :)'
+Van -- 'was hoping they'd last a bit longer <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">'
 
-<523hp 288ma 273mv>
+\<523hp 288ma 273mv\>
 
 Van flails his weapon about the room!
 
 Van catches the ogre tanner in a flurry of blows.
 
-<523hp 288ma 273mv>
+\<523hp 288ma 273mv\>
 
 You miss the ogre tanner with your pierce.
 
@@ -456,7 +456,7 @@ You pierce the ogre tanner extremely hard.
 
 You pierce the ogre tanner extremely hard.
 
-OOF!  the ogre tanner lands a powerful strike into your side.
+OOF! the ogre tanner lands a powerful strike into your side.
 
 That Really did HURT!
 
@@ -464,7 +464,7 @@ You wish that your wounds would stop BLEEDING that much!
 
 Van reports 836/1156 hp. Change: +7. Need: 320. Spells: aegis, greater fluidity.
 
-<86hp 288ma 273mv>
+\<86hp 288ma 273mv\>
 
 re
 
@@ -472,11 +472,11 @@ Ok.
 
 The cleansing fires of healing fill your body!
 
-<295hp 227ma 275mv>
+\<295hp 227ma 275mv\>
 
 Van flails his weapon about the room!
 
-<297hp 228ma 276mv>
+\<297hp 228ma 276mv\>
 
 You pierce the ogre tanner extremely hard.
 
@@ -504,15 +504,15 @@ The ogre tanner grabs a jar of preserving agents and heaves it at Drule!
 
 You wish that your wounds would stop BLEEDING that much!
 
-The jar smashes into your skull, dousing you in a foul-smelling liquid!  Ouch!
+The jar smashes into your skull, dousing you in a foul-smelling liquid! Ouch!
 
 Van reports 842/1156 hp. Change: +6. Need: 314. Spells: aegis, greater fluidity.
 
-<82hp 228ma 277mv>
+\<82hp 228ma 277mv\>
 
 You grouptell: 'they would have, I killed that one'
 
-<84hp 229ma 278mv>
+\<84hp 229ma 278mv\>
 
 sing
 
@@ -520,11 +520,11 @@ The ogre tanner really needs a good bath! Phew!
 
 You raise your clear (?) voice towards the sky.
 
-<86hp 230ma 279mv>
+\<86hp 230ma 279mv\>
 
 You are rescued by Van, you are confused!
 
-<87hp 230ma 280mv>
+\<87hp 230ma 280mv\>
 
 re
 
@@ -548,13 +548,13 @@ The jar smashes into Van's skull, dousing his in a foul-smelling liquid!
 
 Van reports 834/1156 hp. Change: -8. Need: 322. Spells: aegis, greater fluidity.
 
-<87hp 230ma 280mv>
+\<87hp 230ma 280mv\>
 
 Ok.
 
 The cleansing fires of healing fill your body!
 
-<287hp 170ma 282mv>
+\<287hp 170ma 282mv\>
 
 The ogre tanner misses Van with his hit.
 
@@ -580,19 +580,19 @@ The ogre tanner grabs a jar of preserving agents and heaves it at Van!
 
 The jar smashes into Van's skull, dousing his in a foul-smelling liquid!
 
-<26hp 171ma 283mv>
+\<26hp 171ma 283mv\>
 
 gig
 
 You giggle.
 
-<27hp 171ma 284mv>
+\<27hp 171ma 284mv\>
 
 sing
 
 You raise your clear (?) voice towards the sky.
 
-<28hp 171ma 284mv>
+\<28hp 171ma 284mv\>
 
 re
 
@@ -600,7 +600,7 @@ Ok.
 
 The cleansing fires of healing fill your body!
 
-<234hp 110ma 285mv>
+\<234hp 110ma 285mv\>
 
 You pierce the ogre tanner extremely hard.
 
@@ -628,17 +628,17 @@ You pierce the ogre tanner extremely hard.
 
 You pierce the ogre tanner extremely hard.
 
-<126hp 110ma 286mv>
+\<126hp 110ma 286mv\>
 
 Van -- 'lol you did, didn't you'
 
-<128hp 111ma 287mv>
+\<128hp 111ma 287mv\>
 
 Rippecs flails his weapon about the room!
 
 Van reports 840/1156 hp. Change: +6. Need: 316. Spells: aegis, greater fluidity.
 
-<129hp 112ma 288mv>
+\<129hp 112ma 288mv\>
 
 re
 
@@ -648,7 +648,7 @@ Ok.
 
 The cleansing fires of healing fill your body!
 
-<330hp 50ma 289mv>
+\<330hp 50ma 289mv\>
 
 You massacre the ogre tanner to small fragments with your pierce.
 
@@ -674,13 +674,13 @@ The jar smashes into Van's skull, dousing his in a foul-smelling liquid!
 
 Van reports 830/1156 hp. Change: -10. Need: 326. Spells: greater fluidity, aegis.
 
-<189hp 51ma 289mv>
+\<189hp 51ma 289mv\>
 
 Van flails his weapon about the room!
 
 Van catches the ogre tanner in a flurry of blows.
 
-<189hp 51ma 289mv>
+\<189hp 51ma 289mv\>
 
 You pierce the ogre tanner extremely hard.
 
@@ -702,21 +702,21 @@ You miss the ogre tanner with your pierce.
 
 You pierce the ogre tanner extremely hard.
 
-You grouptell: 'yeah and i paid dearly for it :('
+You grouptell: 'yeah and i paid dearly for it <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">'
 
 Van reports 836/1156 hp. Change: +6. Need: 320. Spells: greater fluidity, aegis.
 
-<85hp 53ma 292mv>
+\<85hp 53ma 292mv\>
 
 Van flails his weapon about the room!
 
 Van catches the ogre tanner in a flurry of blows.
 
-<87hp 53ma 293mv>
+\<87hp 53ma 293mv\>
 
 You are unable to maintain the tumbling defense, and pause to catch your breath.
 
-<89hp 54ma 294mv>
+\<89hp 54ma 294mv\>
 
 gh
 
@@ -728,9 +728,9 @@ Van's riposte viciously massacres the ogre tanner.
 
 You have been KILLED!! 
 
-Lie still; you are DEAD!!! :-( 
+Lie still; you are DEAD!!! <img src="/images/smilies/icon_e_sad.svg" alt=":-(" title=":-(" width="15" height="15" class="smiley nozoom"> 
 
-Van -- 'so you did :)'
+Van -- 'so you did <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">'
 
 Van -- 'that'll larn him'
 
@@ -738,7 +738,7 @@ Rippecs -- 'uh oh'
 
 ...
 
-Hey!  You can talk!
+Hey! You can talk!
 
 Van -- 'well, time to find out if drule pays the ultimate price for circling my vile'
 
@@ -752,11 +752,11 @@ Van begs and grovels to the powers that be.
 
 Van reports 552/1024 hp. Change: +6. Need: 472. Spells: greater fluidity, aegis.
 
-<-28hp 54ma 294mv>
+\<-28hp 54ma 294mv\>
 
 You grouptell: 'I'm not sorry!'
 
-<-28hp 54ma 294mv>
+\<-28hp 54ma 294mv\>
 
 Van utters the words, 'gruugz oculoae'
 
@@ -766,11 +766,11 @@ Van's hands begin to glow very brightly!
 
 You feel much, much better!
 
-<1hp 54ma 294mv>
+\<1hp 54ma 294mv\>
 
 Van -- 'damn!'
 
-<4hp 55ma 296mv>
+\<4hp 55ma 296mv\>
 
 </div>
 

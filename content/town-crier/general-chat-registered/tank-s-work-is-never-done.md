@@ -27,12 +27,12 @@ A visiting centaur arrives from the west.
 [11:24 pm] (indoors) -9 39431240577
 e;cast 'firestorm'
 Room 69539: Hallway
-   A puddle of some caustic chemicals oozes and splashes on the hallway 
-floor.  The marble slab underneath the puddle looks to be deformed by the 
-intense chemical burns.  A tank of cleanup chemicals is mounted on the wall 
-behind a glass partition.  Inscribed on the tank's mounting bracket is the 
+ A puddle of some caustic chemicals oozes and splashes on the hallway 
+floor. The marble slab underneath the puddle looks to be deformed by the 
+intense chemical burns. A tank of cleanup chemicals is mounted on the wall 
+behind a glass partition. Inscribed on the tank's mounting bracket is the 
 phrase 'Break glass in case of emergency'.
-Exits: [North]  [South]  West  Down  
+Exits: [North] [South] West Down 
 It's raining ACID here!!!
 The corpse of an unstable cholem is lying here.
 An unstable cholem twitches and vibrates, as if ready to explode.
@@ -53,7 +53,7 @@ A visitor from Westwood strolls through the area.
 Klklklpa is here, fighting Stinker (Brilliant Red Aura) [Target]
 <1226hp 3045ma 357mv -% @18816>
 [11:27 pm] (indoors) -9 39431240577
-You lost your concentration!  You failed to cast 'firestorm'.
+You lost your concentration! You failed to cast 'firestorm'.
 <1226hp 3025ma 357mv -% @18816>
 [11:28 pm] (indoors) -9 39431240577
 An unstable cholem looks shocked as it cuts itself on Stinker's petrified armor!
@@ -82,7 +82,7 @@ An unstable cholem vibrates intensely for a moment, settles down, and then explo
 
 <div class="post" data-post-id="39975" data-author="Insomnia" data-date="2022-10-08T09:14:36+00:00" data-subject="Re: Tank&#x27;s work is never done">
 
-Also happens every time with naka assassins, if you accidentally die in the Matterhorn. FIve minutes of lying dead is just enough to clear the entire area from them. :)
+Also happens every time with naka assassins, if you accidentally die in the Matterhorn. FIve minutes of lying dead is just enough to clear the entire area from them. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

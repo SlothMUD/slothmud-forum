@@ -12,11 +12,11 @@ post_count: 4
 
 <div class="post" data-post-id="31362" data-author="*Splork*" data-date="2010-07-20T15:32:45+00:00" data-subject="a few small changes">
 
-1) Gems will pop on ethereal mobs now ( gems will pop more more frequently on larger mobs than smaller)
+1\) Gems will pop on ethereal mobs now ( gems will pop more more frequently on larger mobs than smaller)
 
-2) leadership gold has been lowered a tad
+2\) leadership gold has been lowered a tad
 
-3) Circle of healing was removed from fireworks, it will remain placed in the Temple of Neptune only for now. Neptune is adjusting the mob so that players will be able to cycle successfully for the book in a group. 
+3\) Circle of healing was removed from fireworks, it will remain placed in the Temple of Neptune only for now. Neptune is adjusting the mob so that players will be able to cycle successfully for the book in a group. 
 
 Changes Incor,
 
@@ -30,11 +30,11 @@ Chobbs has been promoted to Coder.
 
 <div class="post" data-post-id="31363" data-author="Jag" data-date="2010-07-20T17:20:27+00:00" data-subject="Re: a few small changes">
 
-Congrats to Isabo and Chobbs!  
+Congrats to Isabo and Chobbs! 
 
-The game continues to improve!  Nice work on gems to make them pop on ethereal mobs as well.
+The game continues to improve! Nice work on gems to make them pop on ethereal mobs as well.
 
-My only complaint is that so many mobs have had their corpse levels lowered, high level animated pets are no longer a reasonable alternative to summoned pets.  I'm commenting on it here because I believe it was changed as a gem issue.  This is a serious handicap for Necros.  Thanks for your help.
+My only complaint is that so many mobs have had their corpse levels lowered, high level animated pets are no longer a reasonable alternative to summoned pets. I'm commenting on it here because I believe it was changed as a gem issue. This is a serious handicap for Necros. Thanks for your help.
 
 </div>
 

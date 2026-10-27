@@ -34,7 +34,7 @@ if (try1 == fail)
 
 {
 
-  try_again()
+ try\_again()
 
 }
 
@@ -54,7 +54,7 @@ Thanks.
 
 <div class="post" data-post-id="38417" data-author="*Breeze*" data-date="2017-08-25T18:43:13+00:00" data-subject="Re: luck gods seems to ignore worn eq, if mob pops books">
 
-anything zoned.  if something is loaded via mudl (not much is) then it uses it.
+anything zoned. if something is loaded via mudl (not much is) then it uses it.
 
 </div>
 

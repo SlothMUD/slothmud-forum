@@ -38,29 +38,29 @@ help natures upheaval
 
 "NATURES UPHEAVAL"
 
-Usage:         cast 'natures upheavel'
+Usage: cast 'natures upheavel'
 
-Cost:          65 mana
+Cost: 65 mana
 
-Level:         Druid 40
+Level: Druid 40
 
-Duration:      -
+Duration: -
 
-Accumulative:  -
+Accumulative: -
 
-Save Versus:   -
+Save Versus: -
 
-Damage Type:   -
+Damage Type: -
 
-Stratum:       Summoning
+Stratum: Summoning
 
-Spellbook:     an earth toned spellbook
+Spellbook: an earth toned spellbook
 
-Prerequisite:  -
+Prerequisite: -
 
-See Also:      DEVAK MANTRA LODGE PENDULUM
+See Also: DEVAK MANTRA LODGE PENDULUM
 
-See Also:      STRATA SIDHE CHARMS PERISTRATA
+See Also: STRATA SIDHE CHARMS PERISTRATA
 
 This spell causes the earth's crust to shake uncontrollably until it spits the
 

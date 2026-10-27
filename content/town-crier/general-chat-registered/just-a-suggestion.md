@@ -22,9 +22,9 @@ Mornin',
 
 Thank you for the suggestion, definitely something worth looking into.
 
-This is actually something I have been thinking upon for some time to go along with the tweakening/reworking of entire areas that I mentioned several weeks ago.  Several quests are almost finished and ready to go, and one of them is designed to encourage players to visit a place no one ever really goes, after I rework the area a bit.  
+This is actually something I have been thinking upon for some time to go along with the tweakening/reworking of entire areas that I mentioned several weeks ago. Several quests are almost finished and ready to go, and one of them is designed to encourage players to visit a place no one ever really goes, after I rework the area a bit. 
 
-Full area openers, or reopeners for that matter, do take some time to prepare as well.  To give you an idea, it took me almost three months to finish the symphonia openers, and you folks finished that thing in what, three hours?  
+Full area openers, or reopeners for that matter, do take some time to prepare as well. To give you an idea, it took me almost three months to finish the symphonia openers, and you folks finished that thing in what, three hours? 
 
 We are working to keep the game fresh, but there are only so many of us and there's that silly thing called real life that keeps getting in our way.
 

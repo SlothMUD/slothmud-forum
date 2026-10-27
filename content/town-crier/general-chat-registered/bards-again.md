@@ -30,27 +30,27 @@ help improved haste
 
 "IMPROVED HASTE"
 
-See also:     HASTE      
+See also: HASTE 
 
-Usage:        cast 'improved haste' <self>
+Usage: cast 'improved haste' \<self\>
 
 Accumulative: -
 
-Duration:     8 hours
+Duration: 8 hours
 
-Level:        Avatar 31-Mage       <-------------------(*)
+Level: Avatar 31-Mage \<-------------------(\*)
 
 In general the type of Sidhe that shows up is as follows:
 
-spell lvl 0-9      Fear Gorta
+spell lvl 0-9 Fear Gorta
 
-spell lvl 10-19    Cluricaun
+spell lvl 10-19 Cluricaun
 
-spell lvl 20-29    Leith Phrogan
+spell lvl 20-29 Leith Phrogan
 
-spell lvl 30-40    Sheoque  
+spell lvl 30-40 Sheoque 
 
-avatar spells      Fear Sidhe       <-------------------(*)  
+avatar spells Fear Sidhe \<-------------------(\*) 
 
 So, looks like the spell or the song are bugged.
 

@@ -12,7 +12,7 @@ post_count: 2
 
 <div class="post" data-post-id="38511" data-author="Driven" data-date="2017-11-30T20:57:23+00:00" data-subject="Gem Trading">
 
-Can someone with experience in gem trading through Reece provide an overview of how it works and what the typical results are?  Thanks!
+Can someone with experience in gem trading through Reece provide an overview of how it works and what the typical results are? Thanks!
 
 </div>
 

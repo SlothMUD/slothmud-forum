@@ -16,7 +16,7 @@ I've been told, there are already were explanations about some of my questions. 
 
 So if anyone knows about them, i would be pleased for links.
 
-1. First of all, max dex stat. 
+1\. First of all, max dex stat. 
 
 I forged finally my rhodo rune and attached it to ars magica. 
 
@@ -34,7 +34,7 @@ I know, that max str works fine, and max int giving some mana also.
 
 No ideas about max con or max wis. It is posible to raise it whle shifted, so interesting question about them also.
 
-2. Another question is how max stats from avatar shop works for forms?
+2\. Another question is how max stats from avatar shop works for forms?
 
 Do they affect player while shifted? And even, should they affect, if they are not?
 
@@ -46,9 +46,9 @@ How they works now?
 
 <div class="post" data-post-id="35571" data-author="Magi" data-date="2014-12-22T18:08:55+00:00" data-subject="Re: Discussion about some stats while shifted">
 
-Sorry to hear your rhodo-ars bugged out on you.  I know how hard you worked to make it!
+Sorry to hear your rhodo-ars bugged out on you. I know how hard you worked to make it!
 
-I believe that druids get no benefits from 9x40 shop (while shifted) except for the permanent spells.  I think both the rhodo rune and the 9x40 shifting situation deserve a second look.  I don't think anyone can seriously make the argument that Piasa is too strong in a world that contains Cizin, Cyprimus, Josiah, and Skyv.
+I believe that druids get no benefits from 9x40 shop (while shifted) except for the permanent spells. I think both the rhodo rune and the 9x40 shifting situation deserve a second look. I don't think anyone can seriously make the argument that Piasa is too strong in a world that contains Cizin, Cyprimus, Josiah, and Skyv.
 
 If anyone remains unconvinced, I invite them to witness a cagematch between any of the above and a piasa!
 

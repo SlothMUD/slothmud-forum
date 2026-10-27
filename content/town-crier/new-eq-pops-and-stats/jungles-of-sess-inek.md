@@ -16,7 +16,7 @@ Crazy new belt found in a jungle somewhere (inquire at blacksmith):
 
 Object 'girdle berserker', Item type: ARMOR
 
-Item is: HUM MAGIC **CAN-SHAPESHIFT**
+Item is: HUM MAGIC <strong>CAN-SHAPESHIFT</strong>
 
 Weight: 3, Value: 546379gold, Worn in: TAKE WAIST
 
@@ -24,17 +24,17 @@ AC-apply is -0.4
 
 Can affect you as:
 
-    Affects: WEAPON_DAMAGE by 1
+ Affects: WEAPON\_DAMAGE by 1
 
-    Affects: STR by 1
+ Affects: STR by 1
 
 Only those who are at least novice avatars may use this item.
 
 Requires: 5000000 coins, 1x the crest of the scaled warrior,
 
-  1x the horn of brotherhood, 1x a lizard-scale belt,
+ 1x the horn of brotherhood, 1x a lizard-scale belt,
 
-  2x a polished black opal
+ 2x a polished black opal
 
 </div>
 
@@ -70,7 +70,7 @@ largely due to the fact that this forge will now yield one of two items
 
 with the same name. One item will yield a girdle with -0.2 AC
 
-+1 Weapon Damage  +1 Strength Shape-Shiftable waist item, while
+\+1 Weapon Damage +1 Strength Shape-Shiftable waist item, while
 
 the other chance will produce a -0.4 AC +1 Weapon Damage +1 STR
 
@@ -84,7 +84,7 @@ original idea for the item. We certainly thank you for your patience
 
 in updating this item. 
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -138,13 +138,13 @@ Now, of course this won't apply to all characters and playing styles, but perhap
 
 apply to some of them. I'm sure there are other reasons that could apply, but these are just
 
-the main reasonings I recall using at the time. Also, on occasion, it's more about the *option*
+the main reasonings I recall using at the time. Also, on occasion, it's more about the \*option\*
 
-of equipment rather than the option of *great* equipment. You never can tell when that
+of equipment rather than the option of \*great\* equipment. You never can tell when that
 
 character will come around and think to him or herself, 'Hey, that would be pretty nifty for 
 
-what it is that I am trying to accomplish!" Lastly, there *may* be something I or someone
+what it is that I am trying to accomplish!" Lastly, there \*may\* be something I or someone
 
 else is trying to implement for some cases that may change the mechanics of the situational
 
@@ -152,7 +152,7 @@ practices down the line, and that is all I am going to say about that.
 
 Hope that helps.
 
--Neptune
+\-Neptune
 
 </div>
 

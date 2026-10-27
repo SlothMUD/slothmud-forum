@@ -12,17 +12,17 @@ post_count: 8
 
 <div class="post" data-post-id="27788" data-author="Toxis" data-date="2009-01-20T23:42:59+00:00" data-subject="Demon Web Gathering">
 
-A small scout party led by Abone went in search of rumors that demons were plotting to take over Settlestone.  The group indeed found demons that haven't shown their foul faces for ages... but the power of the demons was too strong, and the mortals were banished from the realm.
+A small scout party led by Abone went in search of rumors that demons were plotting to take over Settlestone. The group indeed found demons that haven't shown their foul faces for ages... but the power of the demons was too strong, and the mortals were banished from the realm.
 
-The people of Settlestone implore you good citizens of the world to help protect them from the demons of the web.  Also, there's rumor that the new demons have interesting items they might use against the realm of mortals.
+The people of Settlestone implore you good citizens of the world to help protect them from the demons of the web. Also, there's rumor that the new demons have interesting items they might use against the realm of mortals.
 
--Mayor of Settlestone
+\-Mayor of Settlestone
 
 </div>
 
 <div class="post" data-post-id="27790" data-author="jezer" data-date="2009-01-21T02:44:07+00:00" data-subject="">
 
-Stuck at work here :evil: , someone post what and where in dweb they pop please.
+Stuck at work here <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom"> , someone post what and where in dweb they pop please.
 
 </div>
 
@@ -46,7 +46,7 @@ AC-apply is -0.8
 
 Can affect you as:
 
-    Affects: HAND_DAMAGE by 1
+ Affects: HAND\_DAMAGE by 1
 
 Only those who are at least adept bards or monks may use this item.
 
@@ -76,11 +76,11 @@ and that's all we found. looked like there were about 6-8 more newish/changed mo
 
 <div class="post" data-post-id="27801" data-author="Toxis" data-date="2009-01-21T22:52:36+00:00" data-subject="">
 
-Demo, Orcus, Marilith, Lolth... they're in Akasha's area Lolth now.  I decided not to touch Akasha's area since he's bigger than me and could put me into a hurt. :)
+Demo, Orcus, Marilith, Lolth... they're in Akasha's area Lolth now. I decided not to touch Akasha's area since he's bigger than me and could put me into a hurt. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-I hope people want to cycle the 10 new mobs in dweb, and I'd like to hear other opinions on the area.  I hope I did it justice... considering how many players had missed the old dweb.
+I hope people want to cycle the 10 new mobs in dweb, and I'd like to hear other opinions on the area. I hope I did it justice... considering how many players had missed the old dweb.
 
--Tox
+\-Tox
 
 </div>
 
@@ -88,7 +88,7 @@ I hope people want to cycle the 10 new mobs in dweb, and I'd like to hear other 
 
 I hit your new mobs last night... give me a hint which one pops some druid stuff. I killed 7 mobs in 4.5 hours for nothing... (4 x innek, 3 x zugg)
 
-*exhausted*
+\*exhausted\*
 
 Which reminds me to flame on about a new bard song that tells a player if a mob pops eq (without knowing the name)... saves so much trouble... but I guess the sadistic's thought me wasting my night last night was hilarious...
 
@@ -96,11 +96,16 @@ Which reminds me to flame on about a new bard song that tells a player if a mob 
 
 <div class="post" data-post-id="27825" data-author="Bazilus" data-date="2009-01-22T07:38:19+00:00" data-subject="">
 
-Demo, Orcus, Marilith, Lolth... they're in Akasha's area Lolth now.  I decided not to touch Akasha's area since he's bigger than me and could put me into a hurt. :)
-
-I hope people want to cycle the 10 new mobs in dweb, and I'd like to hear other opinions on the area.  I hope I did it justice... considering how many players had missed the old dweb.
-
--Tox[/quote:3hnokfm4]
+> <strong>Toxis wrote:</strong>
+> Demo, Orcus, Marilith, Lolth... they're in Akasha's area Lolth now. I decided not to touch Akasha's area since he's bigger than me and could put me into a hurt. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
+> 
+> 
+> 
+> I hope people want to cycle the 10 new mobs in dweb, and I'd like to hear other opinions on the area. I hope I did it justice... considering how many players had missed the old dweb.
+> 
+> 
+> 
+> \-Tox
 
 Old demon web was great area. But everything change.
 
@@ -116,11 +121,10 @@ would you say it is better or worse Bryan?
 
 <div class="post" data-post-id="27868" data-author="Tap" data-date="2009-01-25T20:07:05+00:00" data-subject="">
 
-[quote:2gt1zkvt] 	
-
-PostPosted: Jan 21, 2009 - 03:28 PM    Post subject: RE: Demon Web Gathering
-
-I hit your new mobs last night... give me a hint which one pops some druid stuff. I killed 7 mobs in 4.5 hours for nothing...[/color:2gt1zkvt][/quote:2gt1zkvt]
+> <strong>Quote:</strong>
+> PostPosted: Jan 21, 2009 - 03:28 PM Post subject: RE: Demon Web Gathering
+> 
+> I hit your new mobs last night... give me a hint which one pops some druid stuff. I killed 7 mobs in 4.5 hours for nothing...
 
 Too easy...
 

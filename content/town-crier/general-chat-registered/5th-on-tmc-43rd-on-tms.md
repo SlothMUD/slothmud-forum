@@ -36,7 +36,7 @@ I've voted in the past, and I vote when I generally can, but voting is best when
 
 I would like to think of the voting as a reflection of how many of their core players endorse the mud, rather than how many players they have.
 
-As much as I'd like to think that all players would voluntarily vote for the mud for the immense amount of work that has gone into it lately, I've found the recent whoring of votes on the crier rather disturbing.  People will vote for the mud if they want to, and people who can't be bothered won't be affected by the declining "popularity" of sloth on the rankings.
+As much as I'd like to think that all players would voluntarily vote for the mud for the immense amount of work that has gone into it lately, I've found the recent whoring of votes on the crier rather disturbing. People will vote for the mud if they want to, and people who can't be bothered won't be affected by the declining "popularity" of sloth on the rankings.
 
 peace
 
@@ -46,6 +46,6 @@ peace
 
 I don't vote because I forget, am lazy, and generally don't care.
 
- :oops:   :oops:   :oops:   :oops:   :oops:   :oops:   :oops:   :oops:
+ <img src="/images/smilies/icon_redface.svg" alt=":oops:" title=":oops:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_redface.svg" alt=":oops:" title=":oops:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_redface.svg" alt=":oops:" title=":oops:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_redface.svg" alt=":oops:" title=":oops:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_redface.svg" alt=":oops:" title=":oops:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_redface.svg" alt=":oops:" title=":oops:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_redface.svg" alt=":oops:" title=":oops:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_redface.svg" alt=":oops:" title=":oops:" width="15" height="15" class="smiley nozoom">
 
 </div>

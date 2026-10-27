@@ -22,15 +22,15 @@ Today the banner says #3 this seems to only be updated daily.
 
 Current votes cast however look this:
 
-1. Dark and Shattered Lands (DSL)  view stats  44  
+1\. Dark and Shattered Lands (DSL) view stats 44 
 
-2. Armageddon  view stats  43  
+2\. Armageddon view stats 43 
 
-3. Aardwolf  view stats  41  
+3\. Aardwolf view stats 41 
 
-4. New Worlds  view stats  40  
+4\. New Worlds view stats 40 
 
-5. SlothMUD  view stats  39  
+5\. SlothMUD view stats 39 
 
 5 more votes to take over 5 ... we have a real opportunity in these early days fo the vote reset to put ourselves into and stay in the top spot if we all vote daily, it looks like we're only getting 15 or so votes per day so:
 
@@ -38,31 +38,31 @@ Great Job but we could do better.
 
 T
 
-[b:2hrue6ye]EDIT:[/b:2hrue6ye]3 hours later things moved on :) grats
+<strong>EDIT:</strong>3 hours later things moved on <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> grats
 
-[i:2hrue6ye]1. Armageddon  view stats  51  
+<em>1\. Armageddon view stats 51 </em>
 
-2. SlothMUD  view stats  49  
+<em>2\. SlothMUD view stats 49 </em>
 
-3. Dark and Shattered Lands (DSL)  view stats  48  
+<em>3\. Dark and Shattered Lands (DSL) view stats 48 </em>
 
-4. New Worlds  view stats  46  
+<em>4\. New Worlds view stats 46 </em>
 
-5. Aardwolf  view stats  46  [/i:2hrue6ye]
+<em>5\. Aardwolf view stats 46</em>
 
 </div>
 
 <div class="post" data-post-id="30933" data-author="Toxis" data-date="2010-03-03T18:38:43+00:00" data-subject="">
 
-1. SlothMUD  view stats  57  
+1\. SlothMUD view stats 57 
 
-2. Armageddon  view stats  55  
+2\. Armageddon view stats 55 
 
-3. Dark and Shattered Lands (DSL)  view stats  53  
+3\. Dark and Shattered Lands (DSL) view stats 53 
 
-4. Aardwolf  view stats  52  
+4\. Aardwolf view stats 52 
 
-5. New Worlds  view stats  50
+5\. New Worlds view stats 50
 
 </div>
 
@@ -76,14 +76,14 @@ VoTe!
 
 <div class="post" data-post-id="30945" data-author="Toxis" data-date="2010-03-06T14:55:49+00:00" data-subject="">
 
-1. SlothMUD  121 votes  (25T/171H)  
+1\. SlothMUD 121 votes (25T/171H) 
 
-2. Dark and Shattered Lands (DSL)  118 votes  (53T/229H)  
+2\. Dark and Shattered Lands (DSL) 118 votes (53T/229H) 
 
-3. Armageddon  96 votes  (23T/99H)  
+3\. Armageddon 96 votes (23T/99H) 
 
-4. Aardwolf  92 votes  (159T/360H)  
+4\. Aardwolf 92 votes (159T/360H) 
 
-5. New Worlds
+5\. New Worlds
 
 </div>

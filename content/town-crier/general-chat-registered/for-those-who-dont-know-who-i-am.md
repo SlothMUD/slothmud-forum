@@ -22,7 +22,7 @@ Kinda a cool site.. I like this version better though:
 
 [http://bit.youaremighty.com/](http://bit.youaremighty.com/)
 
-:)
+<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -38,15 +38,15 @@ To tell you my maturity level, I still can't stop laughing about it.
 
 <div class="post" data-post-id="14314" data-author="tincts" data-date="2006-09-26T21:17:59+00:00" data-subject="">
 
-Pwaaaahahahaaa! :P
+Pwaaaahahahaaa! <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="14325" data-author="Diazz_Dizazter" data-date="2006-09-27T00:44:13+00:00" data-subject="">
 
-[url:1oelt6zn]http://Aaron.Young.justgotowned.com[/url:1oelt6zn]
+http://Aaron.Young.justgotowned.com
 
-[url:1oelt6zn]http://Mike.Fisher.doyouhaveepilepsy.com[/url:1oelt6zn]
+http://Mike.Fisher.doyouhaveepilepsy.com
 
 </div>
 

@@ -24,7 +24,7 @@ we never do
 
 <div class="post" data-post-id="18340" data-author="Weasel" data-date="2007-05-06T16:48:24+00:00" data-subject="">
 
-die   :twisted:
+die <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -32,7 +32,7 @@ die   :twisted:
 
 well thank you sir, 
 
-but after you,  I insist  :twisted:
+but after you, I insist <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -40,15 +40,15 @@ but after you,  I insist  :twisted:
 
 why start a new thread...
 
-[<LINK_TEXT text="http://www.wired.com/science/discoverie ... ntech_0508">http://www.wired.com/science/discoveries/news/2007/05/dayintech_0508</LINK_TEXT>](http://www.wired.com/science/discoveries/news/2007/05/dayintech_0508)
+[http://www.wired.com/science/discoveries/news/2007/05/dayintech_0508](http://www.wired.com/science/discoveries/news/2007/05/dayintech_0508)
 
-<Shazuko Roku Ryuu>
+\<Shazuko Roku Ryuu\>
 
-<Shazuko Six Dragons>
+\<Shazuko Six Dragons\>
 
-<~Chaos~>
+\<\~Chaos\~\>
 
----
+\---
 
 "I never knew he drank...until I saw him sober one day..."
 
@@ -58,7 +58,7 @@ why start a new thread...
 
 dead at Hebe - top of Olympus.. help?
 
-never mind.. CR by duck :)
+never mind.. CR by duck <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -66,13 +66,13 @@ never mind.. CR by duck :)
 
 Bah ..lost connect again and can't get back on (connect died for most people about 10 mins prior for about a minute - but mud stayed up).. and I'm holding 2 sacks with all but 9 of the 48 cps required for devilskin gaunts.. and it's all temp.. bah.
 
-..later..  *sigh* managed to log on twice in the last 30mins - each time lasting no more than 10-15 seconds before freezing and then losing connect. Bah.. need to sleep. Bye cps.
+..later.. \*sigh\* managed to log on twice in the last 30mins - each time lasting no more than 10-15 seconds before freezing and then losing connect. Bah.. need to sleep. Bye cps.
 
 </div>
 
 <div class="post" data-post-id="18878" data-author="Assirian" data-date="2007-06-14T15:51:23+00:00" data-subject="">
 
-damn it.. got dead at Poseidon temple and lost connect during CR :(
+damn it.. got dead at Poseidon temple and lost connect during CR <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 It would be very nice if someone safe my staff... sure, if whole mud is not down
 
@@ -88,7 +88,7 @@ i'm mostly ok, sorry for disturbing
 
 dead in CG by elites
 
-..thanks for CR Shimbo :)
+..thanks for CR Shimbo <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -96,7 +96,7 @@ dead in CG by elites
 
 goddam it, dead again in same place.. please come help!
 
-..awesome thanks Auto - picked a brilliant time to take a stroll thru CG :)
+..awesome thanks Auto - picked a brilliant time to take a stroll thru CG <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -124,12 +124,12 @@ lol
 
 12345 you forgot...
 
-force weasel go  [www.mirabilis.com](http://www.mirabilis.com)
+force weasel go [www.mirabilis.com](http://www.mirabilis.com)
 
 force weasel download ICQ
 
 force weasel install ICQ
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

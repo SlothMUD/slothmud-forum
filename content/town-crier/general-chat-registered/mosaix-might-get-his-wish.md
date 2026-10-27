@@ -12,7 +12,7 @@ post_count: 8
 
 <div class="post" data-post-id="28338" data-author="Medios" data-date="2009-02-27T22:59:25+00:00" data-subject="Mosaix might get his wish.">
 
-[<LINK_TEXT text="http://www.sfgate.com/cgi-bin/article.c ... 16651R.DTL">http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2009/02/27/MN2016651R.DTL</LINK_TEXT>](http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2009/02/27/MN2016651R.DTL)
+[http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2009/02/27/MN2016651R.DTL](http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2009/02/27/MN2016651R.DTL)
 
 U.S. Attorney General Eric Holder is sending strong signals that President Obama - who as a candidate said states should be allowed to make their own rules on medical marijuana - will end raids on pot dispensaries in California.
 
@@ -58,7 +58,8 @@ I take a pull of ganja and proceed to obey the law
 
 <div class="post" data-post-id="28340" data-author="Medios" data-date="2009-02-27T23:41:39+00:00" data-subject="">
 
-I take a pull of ganja and proceed to obey the law[/quote:24u1vev8]
+> <strong>reboog wrote:</strong>
+> I take a pull of ganja and proceed to obey the law
 
 You got a script for that?
 
@@ -78,21 +79,23 @@ Marijuana is a gateway drug. In a short time, you will wind up on heroin or perh
 
 <div class="post" data-post-id="28343" data-author="brady" data-date="2009-02-28T01:17:32+00:00" data-subject="Re: Mary Jane">
 
-oxycotton[/quote:3hf70fkc]
+> <strong>Tap wrote:</strong>
+> oxycotton
 
-Fluffy  :twisted:
+Fluffy <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="28384" data-author="Mosaix" data-date="2009-03-04T05:33:54+00:00" data-subject="">
 
-Yay :)
+Yay <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="28387" data-author="Medios" data-date="2009-03-04T14:28:51+00:00" data-subject="Re: Mary Jane">
 
-Marijuana is a gateway drug. In a short time, you will wind up on heroin or perhaps illegal scripts of oxycotton.. Before long, you will be selling your wife and/or daughter to the local populace in order to feed your habit..when that fails, you will result to armed robbery and turning tricks yourself. Also, every time you buy marijuana, you fund terrorism.[/quote:2izraxep]
+> <strong>Tap wrote:</strong>
+> Marijuana is a gateway drug. In a short time, you will wind up on heroin or perhaps illegal scripts of oxycotton.. Before long, you will be selling your wife and/or daughter to the local populace in order to feed your habit..when that fails, you will result to armed robbery and turning tricks yourself. Also, every time you buy marijuana, you fund terrorism.
 
 Bush is that you?
 

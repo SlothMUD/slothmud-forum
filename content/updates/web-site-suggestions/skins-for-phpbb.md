@@ -12,7 +12,7 @@ post_count: 2
 
 <div class="post" data-post-id="368" data-author="HelxenKitamelorif" data-date="2004-05-27T09:34:31+00:00" data-subject="Skins for phpbb?">
 
-Add some skins, preferrably text only one :)
+Add some skins, preferrably text only one <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Of course, smileys, avatars, hosted by angelfire and knowing that hotara listens aguliera all the time is very important information, but having an option to get rid of it saves nerves as well as bandwidth.
 

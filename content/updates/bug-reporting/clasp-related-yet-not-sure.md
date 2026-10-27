@@ -16,7 +16,7 @@ Yesterday i found a cluster of oak leaves.
 
 Its long desc (seen in room) says ...it would look good on your chest - or something similar. In the site eq-list it's indicated as a +2 str addon and a comments reports 'clasps to neck'.
 
-I tried attaching it to several of my armour pieces, but, every time i type 'attach cluster to <armor piece>' i only see a blank cr line, no message of confirmation, no message saying 'ok' or 'nothing happens' or whatever. Looking at the armour anyway, reveals the cluster is attached to it. 
+I tried attaching it to several of my armour pieces, but, every time i type 'attach cluster to \<armor piece\>' i only see a blank cr line, no message of confirmation, no message saying 'ok' or 'nothing happens' or whatever. Looking at the armour anyway, reveals the cluster is attached to it. 
 
 If i then wear the armour, I have no addon bonus (i.e. my STR remains the same).
 

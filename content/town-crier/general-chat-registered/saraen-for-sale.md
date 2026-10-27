@@ -12,51 +12,51 @@ post_count: 26
 
 <div class="post" data-post-id="8227" data-author="DarkShaman" data-date="2005-08-10T15:51:04+00:00" data-subject="Saraen for SALE!!!!">
 
-Well i think Saraen is way to good a character to just not use so im putting her up for auction, and well.... you know you want her  :twisted: 
+Well i think Saraen is way to good a character to just not use so im putting her up for auction, and well.... you know you want her <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 The following are her stats without eq, with eq, all her eq and even spellbooks that she carries around tell me what you think then make an offer, and please people keep it kosher....
 
-STATS W/O Eq: [b:3mamluf7]Str: 8 / 0, Int: 18, Wis: 18, Dex: 17, Con: 17[/b:3mamluf7]
+STATS W/O Eq: <strong>Str: 8 / 0, Int: 18, Wis: 18, Dex: 17, Con: 17</strong>
 
-STATS With Eq: [b:3mamluf7]Str: 8 / 0, Int: 18, Wis: 18, Dex: 18, Con: 18[/b:3mamluf7]
+STATS With Eq: <strong>Str: 8 / 0, Int: 18, Wis: 18, Dex: 18, Con: 18</strong>
 
 You are using:
 
-<used as light>      aura of the moon..It has a soft glowing aura!
+\<used as light\> aura of the moon..It has a soft glowing aura!
 
-<worn on finger>     a band of woven briars
+\<worn on finger\> a band of woven briars
 
-<worn on finger>     a band of woven briars
+\<worn on finger\> a band of woven briars
 
-<worn around neck>   a root amulet
+\<worn around neck\> a root amulet
 
-<worn around neck>   a root amulet
+\<worn around neck\> a root amulet
 
-<worn on body>       a suit of mystic plate mail
+\<worn on body\> a suit of mystic plate mail
 
-<worn on head>       a helm of lightning
+\<worn on head\> a helm of lightning
 
-<worn on legs>       a pair of black riding pants
+\<worn on legs\> a pair of black riding pants
 
-<worn on feet>       a pair of furry shoes
+\<worn on feet\> a pair of furry shoes
 
-<worn on hands>      a pair of cloth gloves
+\<worn on hands\> a pair of cloth gloves
 
-<worn on arms>       sleeves of precision
+\<worn on arms\> sleeves of precision
 
-<worn as shield>     a scaly shield
+\<worn as shield\> a scaly shield
 
-<worn about body>    a red robe
+\<worn about body\> a red robe
 
-<worn about waist>   a belt of woven palm fronds..It emits a faint humming sound
+\<worn about waist\> a belt of woven palm fronds..It emits a faint humming sound
 
-<worn around wrist>  a polished stone bracelet
+\<worn around wrist\> a polished stone bracelet
 
-<worn around wrist>  a polished stone bracelet
+\<worn around wrist\> a polished stone bracelet
 
-<wielded>            a long sword
+\<wielded\> a long sword
 
-<held>               a blue rose..It has a soft glowing aura!
+\<held\> a blue rose..It has a soft glowing aura!
 
 In belt: 
 
@@ -110,9 +110,9 @@ a navy blue spellbook
 
 Her score is as follows:
 
-Saraen   (level: 33)
+Saraen (level: 33)
 
-Your levels:  Dr: 33 Ne: 21 Ma: 21 Cl: 14 
+Your levels: Dr: 33 Ne: 21 Ma: 21 Cl: 14 
 
 You are 20 years and 12 months old.
 
@@ -140,11 +140,11 @@ You are standing.
 
 You are affected by the following spells:
 
-   Water Breathing
+ Water Breathing
 
 So whadaya think.....
 
-Auction begins at *10mil* with eq and spellbooks and everything else she carries..... post bids and ill keep tabs...
+Auction begins at \*10mil\* with eq and spellbooks and everything else she carries..... post bids and ill keep tabs...
 
 </div>
 
@@ -176,13 +176,13 @@ Ok, I'll bid a mil if you will never post again.
 
 <div class="post" data-post-id="8233" data-author="12345" data-date="2005-08-10T16:21:57+00:00" data-subject="">
 
-I'll bid 100k and you can keep all the eq and junk.  All I need is the password long enough to change and lose.
+I'll bid 100k and you can keep all the eq and junk. All I need is the password long enough to change and lose.
 
 </div>
 
 <div class="post" data-post-id="8234" data-author="13" data-date="2005-08-10T16:24:15+00:00" data-subject="">
 
-*high* ender
+\*high\* ender
 
 </div>
 
@@ -190,139 +190,158 @@ I'll bid 100k and you can keep all the eq and junk.  All I need is the password 
 
 Just reposting so all this is easier on your eyes...
 
-Well i think Saraen is way to good a character to just not use so im putting her up for auction, and well.... you know you want her  :twisted: 
-
-The following are her stats without eq, with eq, all her eq and even spellbooks that she carries around tell me what you think then make an offer, and please people keep it kosher....
-
-STATS W/O Eq: [b:1ijbl8ds]Str: 8 / 0, Int: 18, Wis: 18, Dex: 17, Con: 17[/b:1ijbl8ds]
-
-STATS With Eq: [b:1ijbl8ds]Str: 8 / 0, Int: 18, Wis: 18, Dex: 18, Con: 18[/b:1ijbl8ds]
-
-You are using:
-
-<used as light>      aura of the moon..It has a soft glowing aura!
-
-<worn on finger>     a band of woven briars
-
-<worn on finger>     a band of woven briars
-
-<worn around neck>   a root amulet
-
-<worn around neck>   a root amulet
-
-<worn on body>       a suit of mystic plate mail
-
-<worn on head>       a helm of lightning
-
-<worn on legs>       a pair of black riding pants
-
-<worn on feet>       a pair of furry shoes
-
-<worn on hands>      a pair of cloth gloves
-
-<worn on arms>       sleeves of precision
-
-<worn as shield>     a scaly shield
-
-<worn about body>    a red robe
-
-<worn about waist>   a belt of woven palm fronds..It emits a faint humming sound
-
-<worn around wrist>  a polished stone bracelet
-
-<worn around wrist>  a polished stone bracelet
-
-<wielded>            a long sword
-
-<held>               a blue rose..It has a soft glowing aura!
-
-In belt: 
-
-You see nothing special....It emits a faint humming sound!
-
-When you look more closely, you see:
-
-belt (carried):
-
-a twirling spellbook [2]..It emits a faint humming sound!
-
-a ghostly book of spells [2]..It emits a faint humming sound!
-
-an abridgment of knowledge
-
-ice crystallized bound papers..It emits a faint humming sound!
-
-a manual with staring eyes on the cover
-
-an informative looking spellbook..It emits a faint humming sound!
-
-a chinchilla pelt
-
-a garnet spellbook [2]
-
-a brightly glowing spellbook..It emits a faint humming sound!
-
-a book locked with crampons
-
-dull colored scripts
-
-a silver spider brooch [2]
-
-a locked spellbook [2]
-
-a ruby encrusted spellbook..It emits a faint humming sound!
-
-a spellbook of spatial translocations..It emits a faint humming sound!
-
-a black velvet-covered spellbook..It emits a faint humming sound!
-
-a jade green spellbook [2]
-
-a golden spellbook [2]
-
-the mythical script of druidic arts [2]..It emits a faint humming sound!
-
-a partially dissolved spellbook [2]..It emits a faint humming sound!
-
-a navy blue spellbook
-
-Her score is as follows:
-
-Saraen   (level: 33)
-
-Your levels:  Dr: 33 Ne: 21 Ma: 21 Cl: 14 
-
-You are 20 years and 12 months old.
-
-You are a citizen of Settlestone.
-
-You are a devout worshipper of Alana.
-
-You have a heart of blackest evil.
-
-You have 472(472) hit, 404(404) mana and 115(115) movement points.
-
-Your armor class is 0.4.
-
-You have 1 gold coins.
-
-You have one drachm.
-
-You have 13729468 unused experience points.
-
-You have been playing for 12 days and 9 hours.
-
-Str: 8 / 0, Int: 18, Wis: 18, Dex: 18, Con: 18
-
-You are standing.
-
-You are affected by the following spells:
-
-   Water Breathing
-
-So whadaya think.....
-
-Auction begins at *10mil* with eq and spellbooks and everything else she carries..... post bids and ill keep tabs...[/quote:1ijbl8ds]
+> <strong>DarkShaman wrote:</strong>
+> Well i think Saraen is way to good a character to just not use so im putting her up for auction, and well.... you know you want her <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
+> 
+> 
+> 
+> The following are her stats without eq, with eq, all her eq and even spellbooks that she carries around tell me what you think then make an offer, and please people keep it kosher....
+> 
+> 
+> 
+> STATS W/O Eq: <strong>Str: 8 / 0, Int: 18, Wis: 18, Dex: 17, Con: 17</strong>
+> 
+> 
+> 
+> STATS With Eq: <strong>Str: 8 / 0, Int: 18, Wis: 18, Dex: 18, Con: 18</strong>
+> 
+> 
+> 
+> You are using:
+> 
+> \<used as light\> aura of the moon..It has a soft glowing aura!
+> 
+> \<worn on finger\> a band of woven briars
+> 
+> \<worn on finger\> a band of woven briars
+> 
+> \<worn around neck\> a root amulet
+> 
+> \<worn around neck\> a root amulet
+> 
+> \<worn on body\> a suit of mystic plate mail
+> 
+> \<worn on head\> a helm of lightning
+> 
+> \<worn on legs\> a pair of black riding pants
+> 
+> \<worn on feet\> a pair of furry shoes
+> 
+> \<worn on hands\> a pair of cloth gloves
+> 
+> \<worn on arms\> sleeves of precision
+> 
+> \<worn as shield\> a scaly shield
+> 
+> \<worn about body\> a red robe
+> 
+> \<worn about waist\> a belt of woven palm fronds..It emits a faint humming sound
+> 
+> \<worn around wrist\> a polished stone bracelet
+> 
+> \<worn around wrist\> a polished stone bracelet
+> 
+> \<wielded\> a long sword
+> 
+> \<held\> a blue rose..It has a soft glowing aura!
+> 
+> 
+> 
+> In belt: 
+> 
+> You see nothing special....It emits a faint humming sound!
+> 
+> When you look more closely, you see:
+> 
+> belt (carried):
+> 
+> a twirling spellbook [2]..It emits a faint humming sound!
+> 
+> a ghostly book of spells [2]..It emits a faint humming sound!
+> 
+> an abridgment of knowledge
+> 
+> ice crystallized bound papers..It emits a faint humming sound!
+> 
+> a manual with staring eyes on the cover
+> 
+> an informative looking spellbook..It emits a faint humming sound!
+> 
+> a chinchilla pelt
+> 
+> a garnet spellbook [2]
+> 
+> a brightly glowing spellbook..It emits a faint humming sound!
+> 
+> a book locked with crampons
+> 
+> dull colored scripts
+> 
+> a silver spider brooch [2]
+> 
+> a locked spellbook [2]
+> 
+> a ruby encrusted spellbook..It emits a faint humming sound!
+> 
+> a spellbook of spatial translocations..It emits a faint humming sound!
+> 
+> a black velvet-covered spellbook..It emits a faint humming sound!
+> 
+> a jade green spellbook [2]
+> 
+> a golden spellbook [2]
+> 
+> the mythical script of druidic arts [2]..It emits a faint humming sound!
+> 
+> a partially dissolved spellbook [2]..It emits a faint humming sound!
+> 
+> a navy blue spellbook
+> 
+> 
+> 
+> Her score is as follows:
+> 
+> 
+> 
+> Saraen (level: 33)
+> 
+> Your levels: Dr: 33 Ne: 21 Ma: 21 Cl: 14 
+> 
+> You are 20 years and 12 months old.
+> 
+> You are a citizen of Settlestone.
+> 
+> You are a devout worshipper of Alana.
+> 
+> You have a heart of blackest evil.
+> 
+> You have 472(472) hit, 404(404) mana and 115(115) movement points.
+> 
+> Your armor class is 0.4.
+> 
+> You have 1 gold coins.
+> 
+> You have one drachm.
+> 
+> You have 13729468 unused experience points.
+> 
+> You have been playing for 12 days and 9 hours.
+> 
+> Str: 8 / 0, Int: 18, Wis: 18, Dex: 18, Con: 18
+> 
+> You are standing.
+> 
+> You are affected by the following spells:
+> 
+> Water Breathing
+> 
+> 
+> 
+> So whadaya think.....
+> 
+> 
+> 
+> Auction begins at \*10mil\* with eq and spellbooks and everything else she carries..... post bids and ill keep tabs...
 
 </div>
 
@@ -338,139 +357,158 @@ oh man...
 
 Please ignore 13 hes just being himself....
 
-Well i think Saraen is way to good a character to just not use so im putting her up for auction, and well.... you know you want her  :twisted: 
-
-The following are her stats without eq, with eq, all her eq and even spellbooks that she carries around tell me what you think then make an offer, and please people keep it kosher....
-
-STATS W/O Eq: [b:2hrqlo3f]Str: 8 / 0, Int: 18, Wis: 18, Dex: 17, Con: 17[/b:2hrqlo3f]
-
-STATS With Eq: [b:2hrqlo3f]Str: 8 / 0, Int: 18, Wis: 18, Dex: 18, Con: 18[/b:2hrqlo3f]
-
-You are using:
-
-<used as light>      aura of the moon..It has a soft glowing aura!
-
-<worn on finger>     a band of woven briars
-
-<worn on finger>     a band of woven briars
-
-<worn around neck>   a root amulet
-
-<worn around neck>   a root amulet
-
-<worn on body>       a suit of mystic plate mail
-
-<worn on head>       a helm of lightning
-
-<worn on legs>       a pair of black riding pants
-
-<worn on feet>       a pair of furry shoes
-
-<worn on hands>      a pair of cloth gloves
-
-<worn on arms>       sleeves of precision
-
-<worn as shield>     a scaly shield
-
-<worn about body>    a red robe
-
-<worn about waist>   a belt of woven palm fronds..It emits a faint humming sound
-
-<worn around wrist>  a polished stone bracelet
-
-<worn around wrist>  a polished stone bracelet
-
-<wielded>            a long sword
-
-<held>               a blue rose..It has a soft glowing aura!
-
-In belt: 
-
-You see nothing special....It emits a faint humming sound!
-
-When you look more closely, you see:
-
-belt (carried):
-
-a twirling spellbook [2]..It emits a faint humming sound!
-
-a ghostly book of spells [2]..It emits a faint humming sound!
-
-an abridgment of knowledge
-
-ice crystallized bound papers..It emits a faint humming sound!
-
-a manual with staring eyes on the cover
-
-an informative looking spellbook..It emits a faint humming sound!
-
-a chinchilla pelt
-
-a garnet spellbook [2]
-
-a brightly glowing spellbook..It emits a faint humming sound!
-
-a book locked with crampons
-
-dull colored scripts
-
-a silver spider brooch [2]
-
-a locked spellbook [2]
-
-a ruby encrusted spellbook..It emits a faint humming sound!
-
-a spellbook of spatial translocations..It emits a faint humming sound!
-
-a black velvet-covered spellbook..It emits a faint humming sound!
-
-a jade green spellbook [2]
-
-a golden spellbook [2]
-
-the mythical script of druidic arts [2]..It emits a faint humming sound!
-
-a partially dissolved spellbook [2]..It emits a faint humming sound!
-
-a navy blue spellbook
-
-Her score is as follows:
-
-Saraen   (level: 33)
-
-Your levels:  Dr: 33 Ne: 21 Ma: 21 Cl: 14 
-
-You are 20 years and 12 months old.
-
-You are a citizen of Settlestone.
-
-You are a devout worshipper of Alana.
-
-You have a heart of blackest evil.
-
-You have 472(472) hit, 404(404) mana and 115(115) movement points.
-
-Your armor class is 0.4.
-
-You have 1 gold coins.
-
-You have one drachm.
-
-You have 13729468 unused experience points.
-
-You have been playing for 12 days and 9 hours.
-
-Str: 8 / 0, Int: 18, Wis: 18, Dex: 18, Con: 18
-
-You are standing.
-
-You are affected by the following spells:
-
-   Water Breathing
-
-So whadaya think.....
-
-Auction begins at *10mil* with eq and spellbooks and everything else she carries..... post bids and ill keep tabs...[/quote:2hrqlo3f]
+> <strong>DarkShaman wrote:</strong>
+> Well i think Saraen is way to good a character to just not use so im putting her up for auction, and well.... you know you want her <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
+> 
+> 
+> 
+> The following are her stats without eq, with eq, all her eq and even spellbooks that she carries around tell me what you think then make an offer, and please people keep it kosher....
+> 
+> 
+> 
+> STATS W/O Eq: <strong>Str: 8 / 0, Int: 18, Wis: 18, Dex: 17, Con: 17</strong>
+> 
+> 
+> 
+> STATS With Eq: <strong>Str: 8 / 0, Int: 18, Wis: 18, Dex: 18, Con: 18</strong>
+> 
+> 
+> 
+> You are using:
+> 
+> \<used as light\> aura of the moon..It has a soft glowing aura!
+> 
+> \<worn on finger\> a band of woven briars
+> 
+> \<worn on finger\> a band of woven briars
+> 
+> \<worn around neck\> a root amulet
+> 
+> \<worn around neck\> a root amulet
+> 
+> \<worn on body\> a suit of mystic plate mail
+> 
+> \<worn on head\> a helm of lightning
+> 
+> \<worn on legs\> a pair of black riding pants
+> 
+> \<worn on feet\> a pair of furry shoes
+> 
+> \<worn on hands\> a pair of cloth gloves
+> 
+> \<worn on arms\> sleeves of precision
+> 
+> \<worn as shield\> a scaly shield
+> 
+> \<worn about body\> a red robe
+> 
+> \<worn about waist\> a belt of woven palm fronds..It emits a faint humming sound
+> 
+> \<worn around wrist\> a polished stone bracelet
+> 
+> \<worn around wrist\> a polished stone bracelet
+> 
+> \<wielded\> a long sword
+> 
+> \<held\> a blue rose..It has a soft glowing aura!
+> 
+> 
+> 
+> In belt: 
+> 
+> You see nothing special....It emits a faint humming sound!
+> 
+> When you look more closely, you see:
+> 
+> belt (carried):
+> 
+> a twirling spellbook [2]..It emits a faint humming sound!
+> 
+> a ghostly book of spells [2]..It emits a faint humming sound!
+> 
+> an abridgment of knowledge
+> 
+> ice crystallized bound papers..It emits a faint humming sound!
+> 
+> a manual with staring eyes on the cover
+> 
+> an informative looking spellbook..It emits a faint humming sound!
+> 
+> a chinchilla pelt
+> 
+> a garnet spellbook [2]
+> 
+> a brightly glowing spellbook..It emits a faint humming sound!
+> 
+> a book locked with crampons
+> 
+> dull colored scripts
+> 
+> a silver spider brooch [2]
+> 
+> a locked spellbook [2]
+> 
+> a ruby encrusted spellbook..It emits a faint humming sound!
+> 
+> a spellbook of spatial translocations..It emits a faint humming sound!
+> 
+> a black velvet-covered spellbook..It emits a faint humming sound!
+> 
+> a jade green spellbook [2]
+> 
+> a golden spellbook [2]
+> 
+> the mythical script of druidic arts [2]..It emits a faint humming sound!
+> 
+> a partially dissolved spellbook [2]..It emits a faint humming sound!
+> 
+> a navy blue spellbook
+> 
+> 
+> 
+> Her score is as follows:
+> 
+> 
+> 
+> Saraen (level: 33)
+> 
+> Your levels: Dr: 33 Ne: 21 Ma: 21 Cl: 14 
+> 
+> You are 20 years and 12 months old.
+> 
+> You are a citizen of Settlestone.
+> 
+> You are a devout worshipper of Alana.
+> 
+> You have a heart of blackest evil.
+> 
+> You have 472(472) hit, 404(404) mana and 115(115) movement points.
+> 
+> Your armor class is 0.4.
+> 
+> You have 1 gold coins.
+> 
+> You have one drachm.
+> 
+> You have 13729468 unused experience points.
+> 
+> You have been playing for 12 days and 9 hours.
+> 
+> Str: 8 / 0, Int: 18, Wis: 18, Dex: 18, Con: 18
+> 
+> You are standing.
+> 
+> You are affected by the following spells:
+> 
+> Water Breathing
+> 
+> 
+> 
+> So whadaya think.....
+> 
+> 
+> 
+> Auction begins at \*10mil\* with eq and spellbooks and everything else she carries..... post bids and ill keep tabs...
 
 </div>
 
@@ -484,7 +522,7 @@ as many times as you post it, noone is going to give you 15 mils for a low level
 
 please ignore Alberich as well.....
 
-Well i think Saraen is way to good a character to just not use so im putting her up for auction, and well.... you know you want her  
+Well i think Saraen is way to good a character to just not use so im putting her up for auction, and well.... you know you want her 
 
 The following are her stats without eq, with eq, all her eq and even spellbooks that she carries around tell me what you think then make an offer, and please people keep it kosher.... 
 
@@ -494,41 +532,41 @@ STATS With Eq: Str: 8 / 0, Int: 18, Wis: 18, Dex: 18, Con: 18
 
 You are using: 
 
-<used as light> aura of the moon..It has a soft glowing aura! 
+\<used as light\> aura of the moon..It has a soft glowing aura! 
 
-<worn on finger> a band of woven briars 
+\<worn on finger\> a band of woven briars 
 
-<worn on finger> a band of woven briars 
+\<worn on finger\> a band of woven briars 
 
-<worn around neck> a root amulet 
+\<worn around neck\> a root amulet 
 
-<worn around neck> a root amulet 
+\<worn around neck\> a root amulet 
 
-<worn on body> a suit of mystic plate mail 
+\<worn on body\> a suit of mystic plate mail 
 
-<worn on head> a helm of lightning 
+\<worn on head\> a helm of lightning 
 
-<worn on legs> a pair of black riding pants 
+\<worn on legs\> a pair of black riding pants 
 
-<worn on feet> a pair of furry shoes 
+\<worn on feet\> a pair of furry shoes 
 
-<worn on hands> a pair of cloth gloves 
+\<worn on hands\> a pair of cloth gloves 
 
-<worn on arms> sleeves of precision 
+\<worn on arms\> sleeves of precision 
 
-<worn as shield> a scaly shield 
+\<worn as shield\> a scaly shield 
 
-<worn about body> a red robe 
+\<worn about body\> a red robe 
 
-<worn about waist> a belt of woven palm fronds..It emits a faint humming sound 
+\<worn about waist\> a belt of woven palm fronds..It emits a faint humming sound 
 
-<worn around wrist> a polished stone bracelet 
+\<worn around wrist\> a polished stone bracelet 
 
-<worn around wrist> a polished stone bracelet 
+\<worn around wrist\> a polished stone bracelet 
 
-<wielded> a long sword 
+\<wielded\> a long sword 
 
-<held> a blue rose..It has a soft glowing aura! 
+\<held\> a blue rose..It has a soft glowing aura! 
 
 In belt: 
 
@@ -616,7 +654,7 @@ Water Breathing
 
 So whadaya think..... 
 
-Auction begins at *10mil* with eq and spellbooks and everything else she carries..... post bids and ill keep tabs...
+Auction begins at \*10mil\* with eq and spellbooks and everything else she carries..... post bids and ill keep tabs...
 
 </div>
 
@@ -628,139 +666,158 @@ someone ban this motherfucker and lock the thread plz.
 
 <div class="post" data-post-id="8242" data-author="DarkShaman" data-date="2005-08-10T17:25:23+00:00" data-subject="Re: Saraen for SALE!!!!">
 
-Well i think Saraen is way to good a character to just not use so im putting her up for auction, and well.... you know you want her  :twisted: 
-
-The following are her stats without eq, with eq, all her eq and even spellbooks that she carries around tell me what you think then make an offer, and please people keep it kosher....
-
-STATS W/O Eq: [b:rgc9ze3i]Str: 8 / 0, Int: 18, Wis: 18, Dex: 17, Con: 17[/b:rgc9ze3i]
-
-STATS With Eq: [b:rgc9ze3i]Str: 8 / 0, Int: 18, Wis: 18, Dex: 18, Con: 18[/b:rgc9ze3i]
-
-You are using:
-
-<used as light>      aura of the moon..It has a soft glowing aura!
-
-<worn on finger>     a band of woven briars
-
-<worn on finger>     a band of woven briars
-
-<worn around neck>   a root amulet
-
-<worn around neck>   a root amulet
-
-<worn on body>       a suit of mystic plate mail
-
-<worn on head>       a helm of lightning
-
-<worn on legs>       a pair of black riding pants
-
-<worn on feet>       a pair of furry shoes
-
-<worn on hands>      a pair of cloth gloves
-
-<worn on arms>       sleeves of precision
-
-<worn as shield>     a scaly shield
-
-<worn about body>    a red robe
-
-<worn about waist>   a belt of woven palm fronds..It emits a faint humming sound
-
-<worn around wrist>  a polished stone bracelet
-
-<worn around wrist>  a polished stone bracelet
-
-<wielded>            a long sword
-
-<held>               a blue rose..It has a soft glowing aura!
-
-In belt: 
-
-You see nothing special....It emits a faint humming sound!
-
-When you look more closely, you see:
-
-belt (carried):
-
-a twirling spellbook [2]..It emits a faint humming sound!
-
-a ghostly book of spells [2]..It emits a faint humming sound!
-
-an abridgment of knowledge
-
-ice crystallized bound papers..It emits a faint humming sound!
-
-a manual with staring eyes on the cover
-
-an informative looking spellbook..It emits a faint humming sound!
-
-a chinchilla pelt
-
-a garnet spellbook [2]
-
-a brightly glowing spellbook..It emits a faint humming sound!
-
-a book locked with crampons
-
-dull colored scripts
-
-a silver spider brooch [2]
-
-a locked spellbook [2]
-
-a ruby encrusted spellbook..It emits a faint humming sound!
-
-a spellbook of spatial translocations..It emits a faint humming sound!
-
-a black velvet-covered spellbook..It emits a faint humming sound!
-
-a jade green spellbook [2]
-
-a golden spellbook [2]
-
-the mythical script of druidic arts [2]..It emits a faint humming sound!
-
-a partially dissolved spellbook [2]..It emits a faint humming sound!
-
-a navy blue spellbook
-
-Her score is as follows:
-
-Saraen   (level: 33)
-
-Your levels:  Dr: 33 Ne: 21 Ma: 21 Cl: 14 
-
-You are 20 years and 12 months old.
-
-You are a citizen of Settlestone.
-
-You are a devout worshipper of Alana.
-
-You have a heart of blackest evil.
-
-You have 472(472) hit, 404(404) mana and 115(115) movement points.
-
-Your armor class is 0.4.
-
-You have 1 gold coins.
-
-You have one drachm.
-
-You have 13729468 unused experience points.
-
-You have been playing for 12 days and 9 hours.
-
-Str: 8 / 0, Int: 18, Wis: 18, Dex: 18, Con: 18
-
-You are standing.
-
-You are affected by the following spells:
-
-   Water Breathing
-
-So whadaya think.....
-
-Auction begins at *10mil* with eq and spellbooks and everything else she carries..... post bids and ill keep tabs...[/quote:rgc9ze3i]
+> <strong>DarkShaman wrote:</strong>
+> Well i think Saraen is way to good a character to just not use so im putting her up for auction, and well.... you know you want her <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
+> 
+> 
+> 
+> The following are her stats without eq, with eq, all her eq and even spellbooks that she carries around tell me what you think then make an offer, and please people keep it kosher....
+> 
+> 
+> 
+> STATS W/O Eq: <strong>Str: 8 / 0, Int: 18, Wis: 18, Dex: 17, Con: 17</strong>
+> 
+> 
+> 
+> STATS With Eq: <strong>Str: 8 / 0, Int: 18, Wis: 18, Dex: 18, Con: 18</strong>
+> 
+> 
+> 
+> You are using:
+> 
+> \<used as light\> aura of the moon..It has a soft glowing aura!
+> 
+> \<worn on finger\> a band of woven briars
+> 
+> \<worn on finger\> a band of woven briars
+> 
+> \<worn around neck\> a root amulet
+> 
+> \<worn around neck\> a root amulet
+> 
+> \<worn on body\> a suit of mystic plate mail
+> 
+> \<worn on head\> a helm of lightning
+> 
+> \<worn on legs\> a pair of black riding pants
+> 
+> \<worn on feet\> a pair of furry shoes
+> 
+> \<worn on hands\> a pair of cloth gloves
+> 
+> \<worn on arms\> sleeves of precision
+> 
+> \<worn as shield\> a scaly shield
+> 
+> \<worn about body\> a red robe
+> 
+> \<worn about waist\> a belt of woven palm fronds..It emits a faint humming sound
+> 
+> \<worn around wrist\> a polished stone bracelet
+> 
+> \<worn around wrist\> a polished stone bracelet
+> 
+> \<wielded\> a long sword
+> 
+> \<held\> a blue rose..It has a soft glowing aura!
+> 
+> 
+> 
+> In belt: 
+> 
+> You see nothing special....It emits a faint humming sound!
+> 
+> When you look more closely, you see:
+> 
+> belt (carried):
+> 
+> a twirling spellbook [2]..It emits a faint humming sound!
+> 
+> a ghostly book of spells [2]..It emits a faint humming sound!
+> 
+> an abridgment of knowledge
+> 
+> ice crystallized bound papers..It emits a faint humming sound!
+> 
+> a manual with staring eyes on the cover
+> 
+> an informative looking spellbook..It emits a faint humming sound!
+> 
+> a chinchilla pelt
+> 
+> a garnet spellbook [2]
+> 
+> a brightly glowing spellbook..It emits a faint humming sound!
+> 
+> a book locked with crampons
+> 
+> dull colored scripts
+> 
+> a silver spider brooch [2]
+> 
+> a locked spellbook [2]
+> 
+> a ruby encrusted spellbook..It emits a faint humming sound!
+> 
+> a spellbook of spatial translocations..It emits a faint humming sound!
+> 
+> a black velvet-covered spellbook..It emits a faint humming sound!
+> 
+> a jade green spellbook [2]
+> 
+> a golden spellbook [2]
+> 
+> the mythical script of druidic arts [2]..It emits a faint humming sound!
+> 
+> a partially dissolved spellbook [2]..It emits a faint humming sound!
+> 
+> a navy blue spellbook
+> 
+> 
+> 
+> Her score is as follows:
+> 
+> 
+> 
+> Saraen (level: 33)
+> 
+> Your levels: Dr: 33 Ne: 21 Ma: 21 Cl: 14 
+> 
+> You are 20 years and 12 months old.
+> 
+> You are a citizen of Settlestone.
+> 
+> You are a devout worshipper of Alana.
+> 
+> You have a heart of blackest evil.
+> 
+> You have 472(472) hit, 404(404) mana and 115(115) movement points.
+> 
+> Your armor class is 0.4.
+> 
+> You have 1 gold coins.
+> 
+> You have one drachm.
+> 
+> You have 13729468 unused experience points.
+> 
+> You have been playing for 12 days and 9 hours.
+> 
+> Str: 8 / 0, Int: 18, Wis: 18, Dex: 18, Con: 18
+> 
+> You are standing.
+> 
+> You are affected by the following spells:
+> 
+> Water Breathing
+> 
+> 
+> 
+> So whadaya think.....
+> 
+> 
+> 
+> Auction begins at \*10mil\* with eq and spellbooks and everything else she carries..... post bids and ill keep tabs...
 
 </div>
 
@@ -772,139 +829,158 @@ haven't you figured out, nobody cares what you think?
 
 <div class="post" data-post-id="8246" data-author="DarkShaman" data-date="2005-08-10T18:22:38+00:00" data-subject="Re: Saraen for SALE!!!!">
 
-Well i think Saraen is way to good a character to just not use so im putting her up for auction, and well.... you know you want her  :twisted: 
-
-The following are her stats without eq, with eq, all her eq and even spellbooks that she carries around tell me what you think then make an offer, and please people keep it kosher....
-
-STATS W/O Eq: [b:3qha0zv1]Str: 8 / 0, Int: 18, Wis: 18, Dex: 17, Con: 17[/b:3qha0zv1]
-
-STATS With Eq: [b:3qha0zv1]Str: 8 / 0, Int: 18, Wis: 18, Dex: 18, Con: 18[/b:3qha0zv1]
-
-You are using:
-
-<used as light>      aura of the moon..It has a soft glowing aura!
-
-<worn on finger>     a band of woven briars
-
-<worn on finger>     a band of woven briars
-
-<worn around neck>   a root amulet
-
-<worn around neck>   a root amulet
-
-<worn on body>       a suit of mystic plate mail
-
-<worn on head>       a helm of lightning
-
-<worn on legs>       a pair of black riding pants
-
-<worn on feet>       a pair of furry shoes
-
-<worn on hands>      a pair of cloth gloves
-
-<worn on arms>       sleeves of precision
-
-<worn as shield>     a scaly shield
-
-<worn about body>    a red robe
-
-<worn about waist>   a belt of woven palm fronds..It emits a faint humming sound
-
-<worn around wrist>  a polished stone bracelet
-
-<worn around wrist>  a polished stone bracelet
-
-<wielded>            a long sword
-
-<held>               a blue rose..It has a soft glowing aura!
-
-In belt: 
-
-You see nothing special....It emits a faint humming sound!
-
-When you look more closely, you see:
-
-belt (carried):
-
-a twirling spellbook [2]..It emits a faint humming sound!
-
-a ghostly book of spells [2]..It emits a faint humming sound!
-
-an abridgment of knowledge
-
-ice crystallized bound papers..It emits a faint humming sound!
-
-a manual with staring eyes on the cover
-
-an informative looking spellbook..It emits a faint humming sound!
-
-a chinchilla pelt
-
-a garnet spellbook [2]
-
-a brightly glowing spellbook..It emits a faint humming sound!
-
-a book locked with crampons
-
-dull colored scripts
-
-a silver spider brooch [2]
-
-a locked spellbook [2]
-
-a ruby encrusted spellbook..It emits a faint humming sound!
-
-a spellbook of spatial translocations..It emits a faint humming sound!
-
-a black velvet-covered spellbook..It emits a faint humming sound!
-
-a jade green spellbook [2]
-
-a golden spellbook [2]
-
-the mythical script of druidic arts [2]..It emits a faint humming sound!
-
-a partially dissolved spellbook [2]..It emits a faint humming sound!
-
-a navy blue spellbook
-
-Her score is as follows:
-
-Saraen   (level: 33)
-
-Your levels:  Dr: 33 Ne: 21 Ma: 21 Cl: 14 
-
-You are 20 years and 12 months old.
-
-You are a citizen of Settlestone.
-
-You are a devout worshipper of Alana.
-
-You have a heart of blackest evil.
-
-You have 472(472) hit, 404(404) mana and 115(115) movement points.
-
-Your armor class is 0.4.
-
-You have 1 gold coins.
-
-You have one drachm.
-
-You have 13729468 unused experience points.
-
-You have been playing for 12 days and 9 hours.
-
-Str: 8 / 0, Int: 18, Wis: 18, Dex: 18, Con: 18
-
-You are standing.
-
-You are affected by the following spells:
-
-   Water Breathing
-
-So whadaya think.....
-
-Auction begins at *10mil* with eq and spellbooks and everything else she carries..... post bids and ill keep tabs...[/quote:3qha0zv1]
+> <strong>DarkShaman wrote:</strong>
+> Well i think Saraen is way to good a character to just not use so im putting her up for auction, and well.... you know you want her <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
+> 
+> 
+> 
+> The following are her stats without eq, with eq, all her eq and even spellbooks that she carries around tell me what you think then make an offer, and please people keep it kosher....
+> 
+> 
+> 
+> STATS W/O Eq: <strong>Str: 8 / 0, Int: 18, Wis: 18, Dex: 17, Con: 17</strong>
+> 
+> 
+> 
+> STATS With Eq: <strong>Str: 8 / 0, Int: 18, Wis: 18, Dex: 18, Con: 18</strong>
+> 
+> 
+> 
+> You are using:
+> 
+> \<used as light\> aura of the moon..It has a soft glowing aura!
+> 
+> \<worn on finger\> a band of woven briars
+> 
+> \<worn on finger\> a band of woven briars
+> 
+> \<worn around neck\> a root amulet
+> 
+> \<worn around neck\> a root amulet
+> 
+> \<worn on body\> a suit of mystic plate mail
+> 
+> \<worn on head\> a helm of lightning
+> 
+> \<worn on legs\> a pair of black riding pants
+> 
+> \<worn on feet\> a pair of furry shoes
+> 
+> \<worn on hands\> a pair of cloth gloves
+> 
+> \<worn on arms\> sleeves of precision
+> 
+> \<worn as shield\> a scaly shield
+> 
+> \<worn about body\> a red robe
+> 
+> \<worn about waist\> a belt of woven palm fronds..It emits a faint humming sound
+> 
+> \<worn around wrist\> a polished stone bracelet
+> 
+> \<worn around wrist\> a polished stone bracelet
+> 
+> \<wielded\> a long sword
+> 
+> \<held\> a blue rose..It has a soft glowing aura!
+> 
+> 
+> 
+> In belt: 
+> 
+> You see nothing special....It emits a faint humming sound!
+> 
+> When you look more closely, you see:
+> 
+> belt (carried):
+> 
+> a twirling spellbook [2]..It emits a faint humming sound!
+> 
+> a ghostly book of spells [2]..It emits a faint humming sound!
+> 
+> an abridgment of knowledge
+> 
+> ice crystallized bound papers..It emits a faint humming sound!
+> 
+> a manual with staring eyes on the cover
+> 
+> an informative looking spellbook..It emits a faint humming sound!
+> 
+> a chinchilla pelt
+> 
+> a garnet spellbook [2]
+> 
+> a brightly glowing spellbook..It emits a faint humming sound!
+> 
+> a book locked with crampons
+> 
+> dull colored scripts
+> 
+> a silver spider brooch [2]
+> 
+> a locked spellbook [2]
+> 
+> a ruby encrusted spellbook..It emits a faint humming sound!
+> 
+> a spellbook of spatial translocations..It emits a faint humming sound!
+> 
+> a black velvet-covered spellbook..It emits a faint humming sound!
+> 
+> a jade green spellbook [2]
+> 
+> a golden spellbook [2]
+> 
+> the mythical script of druidic arts [2]..It emits a faint humming sound!
+> 
+> a partially dissolved spellbook [2]..It emits a faint humming sound!
+> 
+> a navy blue spellbook
+> 
+> 
+> 
+> Her score is as follows:
+> 
+> 
+> 
+> Saraen (level: 33)
+> 
+> Your levels: Dr: 33 Ne: 21 Ma: 21 Cl: 14 
+> 
+> You are 20 years and 12 months old.
+> 
+> You are a citizen of Settlestone.
+> 
+> You are a devout worshipper of Alana.
+> 
+> You have a heart of blackest evil.
+> 
+> You have 472(472) hit, 404(404) mana and 115(115) movement points.
+> 
+> Your armor class is 0.4.
+> 
+> You have 1 gold coins.
+> 
+> You have one drachm.
+> 
+> You have 13729468 unused experience points.
+> 
+> You have been playing for 12 days and 9 hours.
+> 
+> Str: 8 / 0, Int: 18, Wis: 18, Dex: 18, Con: 18
+> 
+> You are standing.
+> 
+> You are affected by the following spells:
+> 
+> Water Breathing
+> 
+> 
+> 
+> So whadaya think.....
+> 
+> 
+> 
+> Auction begins at \*10mil\* with eq and spellbooks and everything else she carries..... post bids and ill keep tabs...
 
 </div>
 
@@ -924,139 +1000,158 @@ at what point does this thread constitute spam?
 
 <div class="post" data-post-id="8249" data-author="DarkShaman" data-date="2005-08-10T18:51:16+00:00" data-subject="Re: Saraen for SALE!!!!">
 
-Well i think Saraen is way to good a character to just not use so im putting her up for auction, and well.... you know you want her  :twisted: 
-
-The following are her stats without eq, with eq, all her eq and even spellbooks that she carries around tell me what you think then make an offer, and please people keep it kosher....
-
-STATS W/O Eq: [b:2ydgm9gj]Str: 8 / 0, Int: 18, Wis: 18, Dex: 17, Con: 17[/b:2ydgm9gj]
-
-STATS With Eq: [b:2ydgm9gj]Str: 8 / 0, Int: 18, Wis: 18, Dex: 18, Con: 18[/b:2ydgm9gj]
-
-You are using:
-
-<used as light>      aura of the moon..It has a soft glowing aura!
-
-<worn on finger>     a band of woven briars
-
-<worn on finger>     a band of woven briars
-
-<worn around neck>   a root amulet
-
-<worn around neck>   a root amulet
-
-<worn on body>       a suit of mystic plate mail
-
-<worn on head>       a helm of lightning
-
-<worn on legs>       a pair of black riding pants
-
-<worn on feet>       a pair of furry shoes
-
-<worn on hands>      a pair of cloth gloves
-
-<worn on arms>       sleeves of precision
-
-<worn as shield>     a scaly shield
-
-<worn about body>    a red robe
-
-<worn about waist>   a belt of woven palm fronds..It emits a faint humming sound
-
-<worn around wrist>  a polished stone bracelet
-
-<worn around wrist>  a polished stone bracelet
-
-<wielded>            a long sword
-
-<held>               a blue rose..It has a soft glowing aura!
-
-In belt: 
-
-You see nothing special....It emits a faint humming sound!
-
-When you look more closely, you see:
-
-belt (carried):
-
-a twirling spellbook [2]..It emits a faint humming sound!
-
-a ghostly book of spells [2]..It emits a faint humming sound!
-
-an abridgment of knowledge
-
-ice crystallized bound papers..It emits a faint humming sound!
-
-a manual with staring eyes on the cover
-
-an informative looking spellbook..It emits a faint humming sound!
-
-a chinchilla pelt
-
-a garnet spellbook [2]
-
-a brightly glowing spellbook..It emits a faint humming sound!
-
-a book locked with crampons
-
-dull colored scripts
-
-a silver spider brooch [2]
-
-a locked spellbook [2]
-
-a ruby encrusted spellbook..It emits a faint humming sound!
-
-a spellbook of spatial translocations..It emits a faint humming sound!
-
-a black velvet-covered spellbook..It emits a faint humming sound!
-
-a jade green spellbook [2]
-
-a golden spellbook [2]
-
-the mythical script of druidic arts [2]..It emits a faint humming sound!
-
-a partially dissolved spellbook [2]..It emits a faint humming sound!
-
-a navy blue spellbook
-
-Her score is as follows:
-
-Saraen   (level: 33)
-
-Your levels:  Dr: 33 Ne: 21 Ma: 21 Cl: 14 
-
-You are 20 years and 12 months old.
-
-You are a citizen of Settlestone.
-
-You are a devout worshipper of Alana.
-
-You have a heart of blackest evil.
-
-You have 472(472) hit, 404(404) mana and 115(115) movement points.
-
-Your armor class is 0.4.
-
-You have 1 gold coins.
-
-You have one drachm.
-
-You have 13729468 unused experience points.
-
-You have been playing for 12 days and 9 hours.
-
-Str: 8 / 0, Int: 18, Wis: 18, Dex: 18, Con: 18
-
-You are standing.
-
-You are affected by the following spells:
-
-   Water Breathing
-
-So whadaya think.....
-
-Auction begins at *10mil* with eq and spellbooks and everything else she carries..... post bids and ill keep tabs...[/quote:2ydgm9gj]
+> <strong>DarkShaman wrote:</strong>
+> Well i think Saraen is way to good a character to just not use so im putting her up for auction, and well.... you know you want her <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
+> 
+> 
+> 
+> The following are her stats without eq, with eq, all her eq and even spellbooks that she carries around tell me what you think then make an offer, and please people keep it kosher....
+> 
+> 
+> 
+> STATS W/O Eq: <strong>Str: 8 / 0, Int: 18, Wis: 18, Dex: 17, Con: 17</strong>
+> 
+> 
+> 
+> STATS With Eq: <strong>Str: 8 / 0, Int: 18, Wis: 18, Dex: 18, Con: 18</strong>
+> 
+> 
+> 
+> You are using:
+> 
+> \<used as light\> aura of the moon..It has a soft glowing aura!
+> 
+> \<worn on finger\> a band of woven briars
+> 
+> \<worn on finger\> a band of woven briars
+> 
+> \<worn around neck\> a root amulet
+> 
+> \<worn around neck\> a root amulet
+> 
+> \<worn on body\> a suit of mystic plate mail
+> 
+> \<worn on head\> a helm of lightning
+> 
+> \<worn on legs\> a pair of black riding pants
+> 
+> \<worn on feet\> a pair of furry shoes
+> 
+> \<worn on hands\> a pair of cloth gloves
+> 
+> \<worn on arms\> sleeves of precision
+> 
+> \<worn as shield\> a scaly shield
+> 
+> \<worn about body\> a red robe
+> 
+> \<worn about waist\> a belt of woven palm fronds..It emits a faint humming sound
+> 
+> \<worn around wrist\> a polished stone bracelet
+> 
+> \<worn around wrist\> a polished stone bracelet
+> 
+> \<wielded\> a long sword
+> 
+> \<held\> a blue rose..It has a soft glowing aura!
+> 
+> 
+> 
+> In belt: 
+> 
+> You see nothing special....It emits a faint humming sound!
+> 
+> When you look more closely, you see:
+> 
+> belt (carried):
+> 
+> a twirling spellbook [2]..It emits a faint humming sound!
+> 
+> a ghostly book of spells [2]..It emits a faint humming sound!
+> 
+> an abridgment of knowledge
+> 
+> ice crystallized bound papers..It emits a faint humming sound!
+> 
+> a manual with staring eyes on the cover
+> 
+> an informative looking spellbook..It emits a faint humming sound!
+> 
+> a chinchilla pelt
+> 
+> a garnet spellbook [2]
+> 
+> a brightly glowing spellbook..It emits a faint humming sound!
+> 
+> a book locked with crampons
+> 
+> dull colored scripts
+> 
+> a silver spider brooch [2]
+> 
+> a locked spellbook [2]
+> 
+> a ruby encrusted spellbook..It emits a faint humming sound!
+> 
+> a spellbook of spatial translocations..It emits a faint humming sound!
+> 
+> a black velvet-covered spellbook..It emits a faint humming sound!
+> 
+> a jade green spellbook [2]
+> 
+> a golden spellbook [2]
+> 
+> the mythical script of druidic arts [2]..It emits a faint humming sound!
+> 
+> a partially dissolved spellbook [2]..It emits a faint humming sound!
+> 
+> a navy blue spellbook
+> 
+> 
+> 
+> Her score is as follows:
+> 
+> 
+> 
+> Saraen (level: 33)
+> 
+> Your levels: Dr: 33 Ne: 21 Ma: 21 Cl: 14 
+> 
+> You are 20 years and 12 months old.
+> 
+> You are a citizen of Settlestone.
+> 
+> You are a devout worshipper of Alana.
+> 
+> You have a heart of blackest evil.
+> 
+> You have 472(472) hit, 404(404) mana and 115(115) movement points.
+> 
+> Your armor class is 0.4.
+> 
+> You have 1 gold coins.
+> 
+> You have one drachm.
+> 
+> You have 13729468 unused experience points.
+> 
+> You have been playing for 12 days and 9 hours.
+> 
+> Str: 8 / 0, Int: 18, Wis: 18, Dex: 18, Con: 18
+> 
+> You are standing.
+> 
+> You are affected by the following spells:
+> 
+> Water Breathing
+> 
+> 
+> 
+> So whadaya think.....
+> 
+> 
+> 
+> Auction begins at \*10mil\* with eq and spellbooks and everything else she carries..... post bids and ill keep tabs...
 
 </div>
 
@@ -1082,7 +1177,7 @@ honestly man, I know you put time into it, but unless a char is at at minimum 2x
 
 <div class="post" data-post-id="8257" data-author="12345" data-date="2005-08-11T11:58:52+00:00" data-subject="">
 
-Strength isn't overly important as a shifter.  I think his whole plan is somewhat flawed though.  He's asking for in-game coins, which means whoever buys Saraen will have to pay another of Saraen's characters, which doesn't do much to help him start over in another char.  Given his history, I don't know if he'd be able to take advantage of a clean start or not, but it'd be nice if he gave himself a chance.
+Strength isn't overly important as a shifter. I think his whole plan is somewhat flawed though. He's asking for in-game coins, which means whoever buys Saraen will have to pay another of Saraen's characters, which doesn't do much to help him start over in another char. Given his history, I don't know if he'd be able to take advantage of a clean start or not, but it'd be nice if he gave himself a chance.
 
 </div>
 
@@ -1096,7 +1191,7 @@ At higher-level forms str is important.
 
 In the spirit of this thread, I'll offer a real character up for sale for mud coins.
 
-[40m 40d 30n 17c] Slipknot ~[DoW]~
+[40m 40d 30n 17c] Slipknot \~[DoW]\~
 
 17 18 17 16 16 nat stats
 
@@ -1110,9 +1205,10 @@ min bid 10mil
 
 <div class="post" data-post-id="8261" data-author="kjartan" data-date="2005-08-11T13:53:09+00:00" data-subject="laundering character payments">
 
-Strength isn't overly important as a shifter.  I think his whole plan is somewhat flawed though.  He's asking for in-game coins, which means whoever buys Saraen will have to pay another of Saraen's characters, which doesn't do much to help him start over in another char.  Given his history, I don't know if he'd be able to take advantage of a clean start or not, but it'd be nice if he gave himself a chance.[/quote:1xgc4916]
+> <strong>12345 wrote:</strong>
+> Strength isn't overly important as a shifter. I think his whole plan is somewhat flawed though. He's asking for in-game coins, which means whoever buys Saraen will have to pay another of Saraen's characters, which doesn't do much to help him start over in another char. Given his history, I don't know if he'd be able to take advantage of a clean start or not, but it'd be nice if he gave himself a chance.
 
-Surely there are various ways he could transfer the money anonymously.  For example, couldn't he accept the payment with a throwaway character who then ships it to his alt?  Or can you even ship cash?  If not, it can go the other way - the alt could ship a bread to the throwaway for 10m coins.
+Surely there are various ways he could transfer the money anonymously. For example, couldn't he accept the payment with a throwaway character who then ships it to his alt? Or can you even ship cash? If not, it can go the other way - the alt could ship a bread to the throwaway for 10m coins.
 
 The throwaway could also stick the money somewhere obscure, e.g. on a small mob nobody ever kills, then log off and come on with his alt to kill it and collect.
 
@@ -1120,6 +1216,6 @@ The throwaway could also stick the money somewhere obscure, e.g. on a small mob 
 
 <div class="post" data-post-id="8262" data-author="13" data-date="2005-08-11T14:31:46+00:00" data-subject="">
 
-Kj you can have slipknot for free if you will play him. :)
+Kj you can have slipknot for free if you will play him. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

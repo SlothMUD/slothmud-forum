@@ -22,7 +22,7 @@ Not everything is mapped, but probably 87.5% (basing this on my explored value) 
 
 You'll also need to make sure MSDP variables are being reported, this post has a script that is useful for that: [http://www.slothmud.org/forum/viewtopic.php?f=39&t=4424](http://www.slothmud.org/forum/viewtopic.php?f=39&t=4424)
 
-Also if you have the generic_mapper installed you should disable / remove it, as it can cause issues.
+Also if you have the generic\_mapper installed you should disable / remove it, as it can cause issues.
 
 </div>
 
@@ -32,7 +32,7 @@ Thanks for posting this -
 
 I tried to get your script working but I seem to be missing some pieces.
 
-Does this depend on the generic_mapper being installed?
+Does this depend on the generic\_mapper being installed?
 
 </div>
 
@@ -40,7 +40,7 @@ Does this depend on the generic_mapper being installed?
 
 I'm probably recreating the wheel here but I've mostly got a working instance of the mapper going -
 
-[https://imgur.com/a/tBuJ8st](https://imgur.com/a/tBuJ8st) - I'm assuming there's always no way around manually correcting the rooms that don't line up.
+[https://imgur.com/a/tBuJ8st](https://imgur.com/a/tBuJ8st) \- I'm assuming there's always no way around manually correcting the rooms that don't line up.
 
 </div>
 
@@ -54,7 +54,7 @@ It looks like you also saved it with Id == room vnum so it loads perfectly with 
 
 <div class="post" data-post-id="39586" data-author="cnl" data-date="2020-10-22T07:53:34+00:00" data-subject="Re: Mudlet map">
 
-I've been playing around with the msdp.COORD* variables and the map.
+I've been playing around with the msdp.COORD\* variables and the map.
 
 See [https://imgur.com/a/T5uMpkY](https://imgur.com/a/T5uMpkY)
 
@@ -66,7 +66,7 @@ X means they reported Mob==1. It looks like this is a yes / no type result?
 
 <div class="post" data-post-id="39588" data-author="Bandit" data-date="2020-10-22T22:22:47+00:00" data-subject="Re: Mudlet map">
 
-The map tends to use data like msdp.CHARACTER_LOCATION.ROOM.VNUM to know where you are. It watches mspd.CHARACTER_LOCATION for changes and updates. I don't think I use the COORDS variables at all, those always seemed a bit weird.
+The map tends to use data like msdp.CHARACTER\_LOCATION.ROOM.VNUM to know where you are. It watches mspd.CHARACTER\_LOCATION for changes and updates. I don't think I use the COORDS variables at all, those always seemed a bit weird.
 
 The mud doesn't always have rooms that line up nicely. What I did is used ne/nw for up rooms, sw/se for down rooms, and then n/e/s/w for those directions. I tried to make the maps somewhat represent how they've been created on the website with all the map images. There's a few early maps I mad that use the z axis, but those are pretty rare and just there to avoid lots of rooms from overlapping. Outside of that there are some zones that really line up poorly, like energy plane, the rooms have some crazy exits that aren't a grid.
 

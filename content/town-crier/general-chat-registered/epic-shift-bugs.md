@@ -30,7 +30,7 @@ Hrm I thought these were fixed. Is it all the epics or just a few? can u tell me
 
 <div class="post" data-post-id="27371" data-author="Medios" data-date="2008-12-05T21:09:30+00:00" data-subject="">
 
-All the epics and raids only give 1 honor to shifted chars.  If you are grouped I believe it gives nothing.
+All the epics and raids only give 1 honor to shifted chars. If you are grouped I believe it gives nothing.
 
 </div>
 
@@ -42,7 +42,7 @@ How recent is this?
 
 <div class="post" data-post-id="27373" data-author="brady" data-date="2008-12-06T01:14:50+00:00" data-subject="">
 
-I don't normally shift for epic mobs but it made sense to piasa for the acid golem a week or two ago.  Got no honor and no drachma.
+I don't normally shift for epic mobs but it made sense to piasa for the acid golem a week or two ago. Got no honor and no drachma.
 
 </div>
 
@@ -54,7 +54,7 @@ it along w/ many other bugs are not "Fixed"
 
 <div class="post" data-post-id="27384" data-author="jezer" data-date="2008-12-08T04:57:04+00:00" data-subject="">
 
-[img:t82ba3l7]http://www.gifs.net/Animation11/Creatures_and_Cartoons/Aliens/Green_monster.gif[/img:t82ba3l7]
+![](http://www.gifs.net/Animation11/Creatures_and_Cartoons/Aliens/Green_monster.gif)
 
 </div>
 
@@ -68,7 +68,8 @@ Don't shift on epics. shrug
 
 <div class="post" data-post-id="27386" data-author="Weasel" data-date="2008-12-08T22:00:54+00:00" data-subject="">
 
-[img:1a2o7y4k]http://www.gifs.net/Animation11/Creatures_and_Cartoons/Aliens/Green_monster.gif[/img:1a2o7y4k][/quote:1a2o7y4k]
+> <strong>jezer wrote:</strong>
+> ![](http://www.gifs.net/Animation11/Creatures_and_Cartoons/Aliens/Green_monster.gif)
 
 'epic shift bug' ..sounds like the name of a new mob for us to kill.
 
@@ -76,9 +77,12 @@ Don't shift on epics. shrug
 
 <div class="post" data-post-id="27387" data-author="Weasel" data-date="2008-12-08T22:03:57+00:00" data-subject="">
 
-Don't hold your breath on this one. Could be a while.
-
-Don't shift on epics. shrug[/quote:xzsdjdxb]
+> <strong>juggleblood wrote:</strong>
+> Don't hold your breath on this one. Could be a while.
+> 
+> 
+> 
+> Don't shift on epics. shrug
 
 Nods, and seriously guys, shifting to piasa for Bolg is kinda overkill. 
 
@@ -108,7 +112,7 @@ actually the bug's been tracked down and a request has been sent to coders for t
 
 <div class="post" data-post-id="27591" data-author="jezer" data-date="2009-01-02T14:53:16+00:00" data-subject="">
 
-Great news, thanks imms.  :twisted:
+Great news, thanks imms. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -126,7 +130,7 @@ You sacrifice a corpse of Jezer to Akasha.
 
 <div class="post" data-post-id="27596" data-author="jezer" data-date="2009-01-03T01:02:58+00:00" data-subject="">
 
-Akasha is wroth that you sacrificed a good creature!  :twisted: 
+Akasha is wroth that you sacrificed a good creature! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 More of your superiority crap Mike?
 
@@ -136,7 +140,7 @@ More of your superiority crap Mike?
 
 Progress report? Whats happening?
 
-I shifted Piasa on Bolg just for Weasel (cause bolg is a toughie) I got cheated 5 honour points!  :evil: 
+I shifted Piasa on Bolg just for Weasel (cause bolg is a toughie) I got cheated 5 honour points! <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom"> 
 
 Thought Bug had been found and it was being fixed?
 

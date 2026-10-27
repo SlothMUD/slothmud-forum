@@ -14,7 +14,7 @@ post_count: 1
 
 Greeting mortals.
 
-- There are certain spells whose counter is stoped when you shapeshift.  Problem is that, if you shapehsift when there are 60 seconds left in one of those spells, you get the "The xxx spell on you is about to wear off." over and over and over.  Added a check to avoid those repeated messages.
+- There are certain spells whose counter is stoped when you shapeshift. Problem is that, if you shapehsift when there are 60 seconds left in one of those spells, you get the "The xxx spell on you is about to wear off." over and over and over. Added a check to avoid those repeated messages.
 
 Thanks Angels for reporting.
 

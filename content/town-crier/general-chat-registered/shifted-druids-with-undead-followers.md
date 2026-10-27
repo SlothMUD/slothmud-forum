@@ -12,7 +12,7 @@ post_count: 7
 
 <div class="post" data-post-id="9609" data-author="kjartan" data-date="2005-11-23T07:26:43+00:00" data-subject="shifted druids with undead followers">
 
-Incor, shifted druids will no longer be able to order followers except for treants.  Followers that act automatically (pit fiends, eudaemons, etc.) will still act as they did.
+Incor, shifted druids will no longer be able to order followers except for treants. Followers that act automatically (pit fiends, eudaemons, etc.) will still act as they did.
 
 </div>
 
@@ -44,7 +44,7 @@ Splork
 
 Maybe druids will get better nature's followers soon. 
 
-*fingers crossed*
+\*fingers crossed\*
 
 </div>
 
@@ -52,7 +52,7 @@ Maybe druids will get better nature's followers soon.
 
 Nice updates, it makes sence that if you can't even control yourself enough while shifted to protect or rescue someone that you can't order your mini army to kill things.
 
-*aggrees with Avatar* That would be nice, and the help file kind of implys that there should be diferent things at diferent levels, allthough making them too big would undo the affect of the thing with ordering undeads  :)
+\*aggrees with Avatar\* That would be nice, and the help file kind of implys that there should be diferent things at diferent levels, allthough making them too big would undo the affect of the thing with ordering undeads <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -64,10 +64,10 @@ I dont see many ppl shifting anymore unless they absolutely have to.
 
 <div class="post" data-post-id="9620" data-author="Pine" data-date="2005-11-23T23:34:44+00:00" data-subject="">
 
-So the necro/druid incapatability actually  makes sense on many levels.  The whole nature vs. decay thing and such.  It would be nice if druids could use all supplicants, but its great that they can at least use eudaemons and such.  I agree with Medios though; shifting is becoming less and less useful.
+So the necro/druid incapatability actually makes sense on many levels. The whole nature vs. decay thing and such. It would be nice if druids could use all supplicants, but its great that they can at least use eudaemons and such. I agree with Medios though; shifting is becoming less and less useful.
 
-The point of being a druid prime is to shift, and the point of playing sloth is to be a multi-class character.  It would be great if those two goals could be intertwined a bit more.  Currently a druids classo doesn't matter a whole lot for shifting.    A prime shape dependent on classo would be great.  It doesn't have to be overpowered, just unique and different from the normal hack/breather weapon genre.  
+The point of being a druid prime is to shift, and the point of playing sloth is to be a multi-class character. It would be great if those two goals could be intertwined a bit more. Currently a druids classo doesn't matter a whole lot for shifting. A prime shape dependent on classo would be great. It doesn't have to be overpowered, just unique and different from the normal hack/breather weapon genre. 
 
-I'm all for having classes be equal, but next time druids are deemed too powerful, I suggest beefing up the other classes as opposed to weakening druid.  :wink:
+I'm all for having classes be equal, but next time druids are deemed too powerful, I suggest beefing up the other classes as opposed to weakening druid. <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>

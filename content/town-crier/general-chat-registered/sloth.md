@@ -20,13 +20,13 @@ I was dead at -11 (followers had killed my killer) and this happened:
 
 Your soul desperately seeks a way to rejoin your body.
 
-<-11hp 353ma 162mv +3> 
+\<-11hp 353ma 162mv +3\> 
 
 ...
 
-<-11hp 353ma 162mv +3> 
+\<-11hp 353ma 162mv +3\> 
 
-Your soul merges with your wounded body.  You are a whole again.
+Your soul merges with your wounded body. You are a whole again.
 
 You feel much, much better!
 
@@ -38,19 +38,19 @@ Someone stops following you.
 
 % Connection to sloth closed by foreign host.
 
-I logged back in to discover that even though death pact worked, the code continued on and corpsed me after raising me.  :)
+I logged back in to discover that even though death pact worked, the code continued on and corpsed me after raising me. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="8763" data-author="Blastem" data-date="2005-09-20T21:44:48+00:00" data-subject="">
 
-couple little things that I think someone should look at ...  :twisted: 
+couple little things that I think someone should look at ... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 can we make a couple changes in the defaults for newbies.. 
 
-#1 please don't make newbies notell to start out it makes it hard to help them.
+\#1 please don't make newbies notell to start out it makes it hard to help them.
 
-#2 is there a way to stop them from getting alcohol in thier skins as it really screws em up.
+\#2 is there a way to stop them from getting alcohol in thier skins as it really screws em up.
 
 thanks
 
@@ -62,15 +62,15 @@ Blastem
 
 ...in addition to what Blastem suggested 
 
-- default off gossip and auction channels for new characters; recently those were on and impossible to switch off until level 3, which, for a real newbie, can be rather confusing.
+\- default off gossip and auction channels for new characters; recently those were on and impossible to switch off until level 3, which, for a real newbie, can be rather confusing.
 
 </div>
 
 <div class="post" data-post-id="8766" data-author="*Splork*" data-date="2005-09-21T08:48:08+00:00" data-subject="">
 
-1) Ive created several newbies and notell has always been toggled off, so I think they must of somehow turned it on by accident...
+1\) Ive created several newbies and notell has always been toggled off, so I think they must of somehow turned it on by accident...
 
-2) Im leaving auction and gossip on for level 1 chars, this is because I was getting too many tells from newbies that nobody ever talks because they couldnt hear them. Ill see if I can atleast allow them to shut those off though.
+2\) Im leaving auction and gossip on for level 1 chars, this is because I was getting too many tells from newbies that nobody ever talks because they couldnt hear them. Ill see if I can atleast allow them to shut those off though.
 
 Enjoy
 
@@ -88,45 +88,47 @@ I made a newb about 4 days ago and he came in default notell on as well, I think
 
 also..
 
-prac unlearned shows most of the warrior skills for shival even though he has them learned.  im not sure if this is some sort of discrepancy or if there was some retroactive change and i now have to read all the skills again for 5% or something.
+prac unlearned shows most of the warrior skills for shival even though he has them learned. im not sure if this is some sort of discrepancy or if there was some retroactive change and i now have to read all the skills again for 5% or something.
 
-**EDIT It looks like some sort of retroactive change, I know Ghost/Shival didn't spend 7 years with his warrior skills not learned all the way.  I just read double attack and kick again.
+\*\*EDIT It looks like some sort of retroactive change, I know Ghost/Shival didn't spend 7 years with his warrior skills not learned all the way. I just read double attack and kick again.
 
 </div>
 
 <div class="post" data-post-id="8769" data-author="Autolycos" data-date="2005-09-21T17:08:34+00:00" data-subject="">
 
-well just remember,  its easier to put those spellbooks and manuals in your title, that way you never have to cycle them yourself   :twisted: 
+well just remember, its easier to put those spellbooks and manuals in your title, that way you never have to cycle them yourself <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-so much easier isnt it? :twisted:
+so much easier isnt it? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="8770" data-author="13" data-date="2005-09-21T20:13:29+00:00" data-subject="">
 
-I refuse to do that shit dude.  That is one of the most annoying things on this game, when people refuse to cycle their own sbs, or don't even try.  I can say I have spent WAY WAY WAY too much time cycling sbs for Mustang in the last few weeks since he turned avatar.  Like days and days wasted.  It's really starting to frustrate me and make me question my motives for playing Sloth at all.  I'm losing my ambition very rapidly.
+I refuse to do that shit dude. That is one of the most annoying things on this game, when people refuse to cycle their own sbs, or don't even try. I can say I have spent WAY WAY WAY too much time cycling sbs for Mustang in the last few weeks since he turned avatar. Like days and days wasted. It's really starting to frustrate me and make me question my motives for playing Sloth at all. I'm losing my ambition very rapidly.
 
 </div>
 
 <div class="post" data-post-id="8771" data-author="Autolycos" data-date="2005-09-22T01:05:28+00:00" data-subject="">
 
-oh cut the shit man,   you better not quit again.. if you do, that leaves me, Weasel and Will to piss ppl off.. and it does get tiring for us.  :twisted:
+oh cut the shit man, you better not quit again.. if you do, that leaves me, Weasel and Will to piss ppl off.. and it does get tiring for us. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="8775" data-author="13" data-date="2005-09-22T10:03:50+00:00" data-subject="">
 
-[quote:1kh29rnb][    *Seer*     ] Ezekiel needs crippling strike/mass wb ~DS~[/quote:1kh29rnb]
+> <strong>Quote:</strong>
+> [ \*Seer\* ] Ezekiel needs crippling strike/mass wb \~DS\~
 
-[quote:1kh29rnb][40w 40m 40t 40c  2a] Reavers {Holy} cripplingstrike![/quote:1kh29rnb]
+> <strong>Quote:</strong>
+> [40w 40m 40t 40c 2a] Reavers {Holy} cripplingstrike!
 
-*cough*
+\*cough\*
 
 </div>
 
 <div class="post" data-post-id="8776" data-author="12345" data-date="2005-09-22T11:19:58+00:00" data-subject="">
 
-Zeke spends more time leveling other people's characters than his own, much like Shyla spends more time running spellbooks for other people than playing her bard.  He's also helped countless people learn the game.  He's the BEST reason I've seen for dedicating every spare second helping people because he's produced some really good players doing it.  He's generous to a complete fault with his time, money and equipment.  
+Zeke spends more time leveling other people's characters than his own, much like Shyla spends more time running spellbooks for other people than playing her bard. He's also helped countless people learn the game. He's the BEST reason I've seen for dedicating every spare second helping people because he's produced some really good players doing it. He's generous to a complete fault with his time, money and equipment. 
 
 He doesn't have that in his title because he doesn't know what he's doing, it's because he believes in helping each other out when you can.
 
@@ -140,9 +142,8 @@ Well I'm not lookin' to slam anyone on the crier and start a pissing contest so 
 
 <div class="post" data-post-id="8836" data-author="Blastem" data-date="2005-09-26T14:11:21+00:00" data-subject="">
 
-1) Ive created several newbies and notell has always been toggled off, so I think they must of somehow turned it on by accident...
-
-[/quote:22ndi7nt]
+> <strong>\*Splork\* wrote:</strong>
+> 1\) Ive created several newbies and notell has always been toggled off, so I think they must of somehow turned it on by accident...
 
 After testing heres what the results show:
 
@@ -150,53 +151,53 @@ settings
 
 Verbosity:
 
-   BRIEF:      off
+ BRIEF: off
 
-   COMPACT:    off
+ COMPACT: off
 
-   PROMPT_CR:  off
+ PROMPT\_CR: off
 
-   CONCISE:    off
+ CONCISE: off
 
-   SHOWEXITS:  on
+ SHOWEXITS: on
 
-   ECHO:       on
+ ECHO: on
 
-   GAG FIGHT:  off
+ GAG FIGHT: off
 
-   GAG EQ:     off
+ GAG EQ: off
 
-   GAG TITLE:  off
+ GAG TITLE: off
 
 Communications:
 
-   GOSSIP:     on
+ GOSSIP: on
 
-   AUCTION:    on
+ AUCTION: on
 
-   NEWBIE:     on
+ NEWBIE: on
 
-   QUEST:      off
+ QUEST: off
 
-   NOTELL:     off
+ NOTELL: off
 
 Other:
 
-   AUTOLOOT:   on
+ AUTOLOOT: on
 
-   AUTOSPLIT:  off
+ AUTOSPLIT: off
 
-   AUTOKILL:   on
+ AUTOKILL: on
 
-   AUTOGROUP:  on
+ AUTOGROUP: on
 
 Protocols:
 
-        MCCP:  V1 (In->71019,Out->14391,Saved 80%)
+ MCCP: V1 (In-\>71019,Out-\>14391,Saved 80%)
 
-         MXP:  MXP enabled
+ MXP: MXP enabled
 
-<51hp 70ma 102mv>
+\<51hp 70ma 102mv\>
 
 level gain
 
@@ -214,59 +215,59 @@ Saving Deepone.
 
 Saving items.
 
-<63hp 70ma 102mv>
+\<63hp 70ma 102mv\>
 
 settings
 
 Verbosity:
 
-   BRIEF:      off
+ BRIEF: off
 
-   COMPACT:    off
+ COMPACT: off
 
-   PROMPT_CR:  off
+ PROMPT\_CR: off
 
-   CONCISE:    off
+ CONCISE: off
 
-   SHOWEXITS:  on
+ SHOWEXITS: on
 
-   ECHO:       on
+ ECHO: on
 
-   GAG FIGHT:  off
+ GAG FIGHT: off
 
-   GAG EQ:     off
+ GAG EQ: off
 
-   GAG TITLE:  off
+ GAG TITLE: off
 
 Communications:
 
-   GOSSIP:     on
+ GOSSIP: on
 
-   AUCTION:    off
+ AUCTION: off
 
-   NEWBIE:     on
+ NEWBIE: on
 
-   QUEST:      off
+ QUEST: off
 
-   NOTELL:     on
+ NOTELL: on
 
 Other:
 
-   AUTOLOOT:   on
+ AUTOLOOT: on
 
-   AUTOSPLIT:  off
+ AUTOSPLIT: off
 
-   AUTOKILL:   on
+ AUTOKILL: on
 
-   AUTOGROUP:  on
+ AUTOGROUP: on
 
 Protocols:
 
-        MCCP:  V1 (In->99751,Out->19132,Saved 81%)
+ MCCP: V1 (In-\>99751,Out-\>19132,Saved 81%)
 
-         MXP:  MXP enabled
+ MXP: MXP enabled
 
-<64hp 70ma 102mv>
+\<64hp 70ma 102mv\>
 
 Level 3 is the kicker... when it turns on the channels it also turns on notell I have tested with 4 diff noobs and it always does it at lev 3.
 
@@ -276,9 +277,10 @@ Blastem
 
 <div class="post" data-post-id="8838" data-author="Autolycos" data-date="2005-09-26T14:34:39+00:00" data-subject="">
 
-NOTELL:     on  Blastem[/quote:1m5ux4xs]
+> <strong>Blastem wrote:</strong>
+> NOTELL: on Blastem
 
-Ah HA!  good show old man.. you have proof! :twisted: 
+Ah HA! good show old man.. you have proof! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 now the game is afoot!
 
@@ -296,9 +298,9 @@ Splork
 
 <div class="post" data-post-id="8858" data-author="markg" data-date="2005-09-29T15:17:40+00:00" data-subject="">
 
-An afk flag would be nice, perhaps something like what Splork likes so much :P
+An afk flag would be nice, perhaps something like what Splork likes so much <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
-(AFK) Rajil reinventing AFKishness ~Dragonsworn~
+(AFK) Rajil reinventing AFKishness \~Dragonsworn\~
 
 For those of us who find it inevitable to go afk for more than 10 or so.
 
@@ -308,7 +310,8 @@ afk toggles it, afk again turns it off.
 
 <div class="post" data-post-id="8862" data-author="Blastem" data-date="2005-09-29T17:06:13+00:00" data-subject="">
 
-I believe Ive fixed this, but check it on reboot pls... [/quote:23iib97w]
+> <strong>\*Splork\* wrote:</strong>
+> I believe Ive fixed this, but check it on reboot pls...
 
 just tested it again and at level 3.... 
 
@@ -328,7 +331,7 @@ Saving Deepsix.
 
 Saving items.
 
-<75hp 70ma 102mv>
+\<75hp 70ma 102mv\>
 
 settings
 
@@ -336,15 +339,15 @@ settings
 
 Communications:
 
-   GOSSIP:     on
+ GOSSIP: on
 
-   AUCTION:    off
+ AUCTION: off
 
-   NEWBIE:     on
+ NEWBIE: on
 
-   QUEST:      off
+ QUEST: off
 
-   NOTELL:     on
+ NOTELL: on
 
 Not fixed yet hehe
 

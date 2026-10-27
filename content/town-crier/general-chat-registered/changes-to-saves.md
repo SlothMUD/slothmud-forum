@@ -24,7 +24,7 @@ Norks
 
 <div class="post" data-post-id="38744" data-author="*teker*" data-date="2018-04-24T20:38:57+00:00" data-subject="Re: Changes to -saves">
 
-No changes that I'm aware of.  I gather you think mobs are saving more often?
+No changes that I'm aware of. I gather you think mobs are saving more often?
 
 </div>
 
@@ -62,7 +62,7 @@ I've been watching my casting since Norks reported as I don't cast much on xp ru
 
 <div class="post" data-post-id="38749" data-author="*teker*" data-date="2018-04-26T15:15:23+00:00" data-subject="Re: Changes to -saves">
 
-Any ideas as to when the change may have occurred?  There is some logging that takes places with saves so we could try to compare something old with something new.
+Any ideas as to when the change may have occurred? There is some logging that takes places with saves so we could try to compare something old with something new.
 
 </div>
 
@@ -108,7 +108,7 @@ Has anything been looked at for this? Save rate is really annoying
 
 <div class="post" data-post-id="38775" data-author="*teker*" data-date="2018-05-09T19:25:40+00:00" data-subject="Re: Changes to -saves">
 
-What are some good mobs for me to test this on?  Should I test damage spells or specific debuff spells or something else?  What -saves should I test with?  I will get some base line values with the current code and then revert the code server back to 4/1 and see if the logs show anything different.
+What are some good mobs for me to test this on? Should I test damage spells or specific debuff spells or something else? What -saves should I test with? I will get some base line values with the current code and then revert the code server back to 4/1 and see if the logs show anything different.
 
 </div>
 
@@ -124,6 +124,6 @@ Eze and norks might have other mobs.
 
 <div class="post" data-post-id="38781" data-author="*teker*" data-date="2018-05-13T01:34:02+00:00" data-subject="Re: Changes to -saves">
 
-My initial tests aren't showing any differences between current code and Jan 1, 2018 code.  Are we sure it's saves and not something else?
+My initial tests aren't showing any differences between current code and Jan 1, 2018 code. Are we sure it's saves and not something else?
 
 </div>

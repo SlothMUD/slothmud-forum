@@ -26,7 +26,7 @@ Stomp442@gmail.com
 
 <div class="post" data-post-id="17254" data-author="Leaf" data-date="2007-03-11T20:50:54+00:00" data-subject="">
 
-And when did u stop playing Sloth?  Yesterday?
+And when did u stop playing Sloth? Yesterday?
 
 </div>
 
@@ -42,19 +42,19 @@ I haven't mudded for well over a month or so and I swear I saw u before
 
 I left :p
 
-Unless ur sharing ur chars now :)
+Unless ur sharing ur chars now <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="17267" data-author="osric" data-date="2007-03-12T18:56:48+00:00" data-subject="">
 
-No its just that AA is kind of like Neo now, with enough booze and psychotropics he can now effect the mud with his mind even if he is not connected via the interwebs. :twisted:
+No its just that AA is kind of like Neo now, with enough booze and psychotropics he can now effect the mud with his mind even if he is not connected via the interwebs. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="17268" data-author="13" data-date="2007-03-12T19:42:11+00:00" data-subject="">
 
-Actually I fixed my wintin for Cocaine from an old script and started playing again today.  I have made about 600mil so far I think.  I may as well get 40 avatar.
+Actually I fixed my wintin for Cocaine from an old script and started playing again today. I have made about 600mil so far I think. I may as well get 40 avatar.
 
 </div>
 

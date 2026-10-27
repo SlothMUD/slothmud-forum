@@ -66,7 +66,7 @@ Not to mention drachma quests and other forges.. I'm sure there's still quite a 
 
 Plenty to do, get out there..
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -74,7 +74,7 @@ Plenty to do, get out there..
 
 Well i have no idea how you can possibly be against more choices ? 
 
-But there we are... :roll:
+But there we are... <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -94,6 +94,6 @@ I just need an immort to toggle my nohassle please.
 
 Nohussy : ON
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

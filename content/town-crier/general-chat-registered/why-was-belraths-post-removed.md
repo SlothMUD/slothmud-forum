@@ -22,21 +22,21 @@ Yeah, the truth ain't popular anymore.
 
 Belrath +1
 
-And to the bastage who thought that censorship is preferable to the truth, or dealing with it... there is a special place in hell for you... and may the fleas of a thousand camels infest your armpits.  :evil:
+And to the bastage who thought that censorship is preferable to the truth, or dealing with it... there is a special place in hell for you... and may the fleas of a thousand camels infest your armpits. <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="39711" data-author="Belrath" data-date="2021-04-08T10:34:02+00:00" data-subject="Re: Why was Belraths post removed?">
 
-Actually I removed it. I sobered up so decided to bleh. :-D
+Actually I removed it. I sobered up so decided to bleh. <img src="/images/smilies/icon_e_biggrin.svg" alt=":-D" title=":-D" width="15" height="15" class="smiley nozoom">
 
---Belrath
+\--Belrath
 
 </div>
 
 <div class="post" data-post-id="39712" data-author="Gorka" data-date="2021-04-08T15:06:16+00:00" data-subject="Re: Why was Belraths post removed?">
 
-:lol: 
+<img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> 
 
 Have the fleas infested your armpits yet?
 

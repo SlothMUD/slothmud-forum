@@ -12,7 +12,7 @@ post_count: 3
 
 <div class="post" data-post-id="20300" data-author="Weasel" data-date="2007-09-16T23:35:07+00:00" data-subject="stickies">
 
-any chance an admin go thru and quickly remove the *outdated* stickies on this and other forums please?
+any chance an admin go thru and quickly remove the \*outdated\* stickies on this and other forums please?
 
 </div>
 
@@ -24,6 +24,6 @@ done
 
 <div class="post" data-post-id="20302" data-author="Weasel" data-date="2007-09-17T02:21:08+00:00" data-subject="">
 
-:) thanks
+<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> thanks
 
 </div>

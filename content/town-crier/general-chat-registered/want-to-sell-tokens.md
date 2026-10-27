@@ -20,7 +20,7 @@ Feel free to offer gold, but bear in mind she isn't short of gold and it would h
 
 To help you decide what to offer her stats are:
 
-Your levels:  Wa: 18 Ma: 17 Cl: 11 Ba: 8 
+Your levels: Wa: 18 Ma: 17 Cl: 11 Ba: 8 
 
 You have 258(339) hit, 192(192) mana and 94(94) movement points.
 
@@ -30,45 +30,43 @@ Str: 18 / 100, Int: 18, Wis: 11, Dex: 18, Con: 16 (with eq and Stone Skin)
 
 Str: 18 / 89, Int: 18, Wis: 11, Dex: 16, Con: 14 (natural)
 
-<used as light>           a pearl of the rising tide
+\<used as light\> a pearl of the rising tide
 
-<worn on finger>        a swirling red and blue ring
+\<worn on finger\> a swirling red and blue ring
 
-<worn on finger>        a swirling red and blue ring
+\<worn on finger\> a swirling red and blue ring
 
-<worn around neck>   a silver torc
+\<worn around neck\> a silver torc
 
-<worn around neck>   a silver torc
+\<worn around neck\> a silver torc
 
-<worn on body>         a suit of mystic plate mail
+\<worn on body\> a suit of mystic plate mail
 
-<worn on head>         a large spangelhelm
+\<worn on head\> a large spangelhelm
 
-<worn on legs>           glowing leg plates..It has a soft glowing aura!
+\<worn on legs\> glowing leg plates..It has a soft glowing aura!
 
-<worn on feet>           old leather boots
+\<worn on feet\> old leather boots
 
-<worn on hands>        black leather gloves
+\<worn on hands\> black leather gloves
 
-<worn on arms>         a pair of bronze sleeves
+\<worn on arms\> a pair of bronze sleeves
 
-<worn as shield>        a bronze shield with a quickling emblem..It has a soft
+\<worn as shield\> a bronze shield with a quickling emblem..It has a soft
 
 glowing aura!
 
-<worn about body>    a white silk robe
+\<worn about body\> a white silk robe
 
-<worn about waist>    a soft white sash
+\<worn about waist\> a soft white sash
 
-<worn around wrist>   a polished steel bracelet
+\<worn around wrist\> a polished steel bracelet
 
-<worn around wrist>   a polished steel bracelet
+\<worn around wrist\> a polished steel bracelet
 
-<wielded>                  a quickling sabre..It emits a faint humming sound!
+\<wielded\> a quickling sabre..It emits a faint humming sound!
 
-<held>                       an ivory scarab..It has a soft glowing aura!
-
- 
+\<held\> an ivory scarab..It has a soft glowing aura!
 
 If you want to make her an offer you can either post here, use mudmail or contact either Daisy or Elsie in the game.
 

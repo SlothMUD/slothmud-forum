@@ -16,7 +16,7 @@ I think we should just remove mana from the game at this point...
 
 Yesterday I was trying to get some conquest points in Herbalist Isle II and kept seeing players and large groups in the area every 10 mins that were coming in to drain mana from the mobs there.
 
-The process is simple enough, there are a number of mobs in the game with very high amounts of mana... you simply walk up to one and type "cast 'energy drain' <mob name>" if you have good saves... the spell is usually a success on these mobs, and you instantly gain what appears to be a percentage of there large mana reserves. You can drain over 1000 mana instantly with this technique, basically giving players a way to fill up with mana instantly and have far more than there max mana.
+The process is simple enough, there are a number of mobs in the game with very high amounts of mana... you simply walk up to one and type "cast 'energy drain' \<mob name\>" if you have good saves... the spell is usually a success on these mobs, and you instantly gain what appears to be a percentage of there large mana reserves. You can drain over 1000 mana instantly with this technique, basically giving players a way to fill up with mana instantly and have far more than there max mana.
 
 It originally started off being a thing with the dragons in dweb, but soon people found better mobs, and now days when these mobs run out, you just "raise sceptre" in the area which restores all the mobs so you can drain away again. Now we have people with permanent beacons in the area, they run mobs, drain in a few seconds to refill and then continue running. I've also noticed mages have started getting really good at the coliseum... Yeah, even the back 4 levels... I guess if you start a run with 2500 drained mana that might give you an edge...
 
@@ -36,9 +36,9 @@ Oh well, it was good while it lasted... I'll remember the days when the game was
 
 You know before the conquest system, I was buying...
 
-+1 Mana for 30b+ xp
+\+1 Mana for 30b+ xp
 
-+1 Mana regen for 800 drachma
+\+1 Mana regen for 800 drachma
 
 For what now... For what?
 
@@ -60,13 +60,13 @@ In that context, energy drain exploits seem like an elegant solution to an antiq
 
 <div class="post" data-post-id="39910" data-author="Ezekiel" data-date="2022-05-08T08:45:59+00:00" data-subject="Re: Removing Mana from the game...">
 
-1. It does not defeat the point of mana. You would still buy mana as an avatar, because the drain cap has been set at 2.5 or 3x (one of these, can't remember which) your base mana.
+1\. It does not defeat the point of mana. You would still buy mana as an avatar, because the drain cap has been set at 2.5 or 3x (one of these, can't remember which) your base mana.
 
-2. Drain used to be uncapped (you literally could run around with 24k mana if you wanted for a short time). Just as with any widely used exploit, there seemed to be consideration by the imms that the exploit was very widely adopted and used because, like Josiah said, regens were an antiquated part of the game. You complaining about drain is like complaining that a regen tick system switched to continuous regen. It's just a part of the progress of the game and the imms saw no need to continue this sleeping for 5-10 minutes at a time, especially considering you don't get quest level size groups daily anymore. The imms then came up with a solution that drain would be capped at a suitable multiplier of max mana. Did this mean I vaulted elite regen eq that I worked lots for? Sure, but I'm not complaining. It isn't 'but this is the way things were back then' or 'when I was coming up, it was harder'. It's an acknowledgement that as the game progresses, there will be things I have to adapt to (which means parts of what I used to value, or my nostalgia about it, may no longer be relevant).
+2\. Drain used to be uncapped (you literally could run around with 24k mana if you wanted for a short time). Just as with any widely used exploit, there seemed to be consideration by the imms that the exploit was very widely adopted and used because, like Josiah said, regens were an antiquated part of the game. You complaining about drain is like complaining that a regen tick system switched to continuous regen. It's just a part of the progress of the game and the imms saw no need to continue this sleeping for 5-10 minutes at a time, especially considering you don't get quest level size groups daily anymore. The imms then came up with a solution that drain would be capped at a suitable multiplier of max mana. Did this mean I vaulted elite regen eq that I worked lots for? Sure, but I'm not complaining. It isn't 'but this is the way things were back then' or 'when I was coming up, it was harder'. It's an acknowledgement that as the game progresses, there will be things I have to adapt to (which means parts of what I used to value, or my nostalgia about it, may no longer be relevant).
 
-3. The drain mana minimally affects coli because at any orb that fires, it resets your mana anyway. Did you ever think that maybe the mages setting the records didn't zoom to 9x40 on rebirth like the impatient, thinking that their scores were good enough... and then those mages had maxxed everything, half their av buys  with everything bought still with them on rebirth, newly implemented/statted av lights (see my current 5x40 levels and below since rebirth at each x40 I've sat at maxxing eq and runes on each tier). You can complain all you want, but as the power creep got larger, naturally any char that did coli when rebirth first started as opposed to now would be able to do less because of natural char/equipment/av buy progression and strengthening within the game. Note: Every coli record I have set, I never ran out of mana once between orbs- which means even if there was no drain mana, I would not have run out of mana. It is a product of set build and patience. Your impatience to get to end game cost you that leaderboard, nothing else. You got your end game rebirth av buys far before those that are topping the boards as a benefit, but you're completely ignoring that fact.
+3\. The drain mana minimally affects coli because at any orb that fires, it resets your mana anyway. Did you ever think that maybe the mages setting the records didn't zoom to 9x40 on rebirth like the impatient, thinking that their scores were good enough... and then those mages had maxxed everything, half their av buys with everything bought still with them on rebirth, newly implemented/statted av lights (see my current 5x40 levels and below since rebirth at each x40 I've sat at maxxing eq and runes on each tier). You can complain all you want, but as the power creep got larger, naturally any char that did coli when rebirth first started as opposed to now would be able to do less because of natural char/equipment/av buy progression and strengthening within the game. Note: Every coli record I have set, I never ran out of mana once between orbs- which means even if there was no drain mana, I would not have run out of mana. It is a product of set build and patience. Your impatience to get to end game cost you that leaderboard, nothing else. You got your end game rebirth av buys far before those that are topping the boards as a benefit, but you're completely ignoring that fact.
 
-4. It's funny to watch someone that vigorously defended second wind when you warriors were outblasting mages or controlling undead faster than necros (which, to this day, remains largely untouched) complaining now about imms embracing a modified exploit to progress the game. Or when warriors would literally tell me they didn't want to embrace tanking for a group because they were soloing by using warcry to boost their hp and go in and out without taking damage (basically negating a need for mana at all). Where was your outcry about exploits then? Seems pretty convenient...
+4\. It's funny to watch someone that vigorously defended second wind when you warriors were outblasting mages or controlling undead faster than necros (which, to this day, remains largely untouched) complaining now about imms embracing a modified exploit to progress the game. Or when warriors would literally tell me they didn't want to embrace tanking for a group because they were soloing by using warcry to boost their hp and go in and out without taking damage (basically negating a need for mana at all). Where was your outcry about exploits then? Seems pretty convenient...
 
 Just my two cents-
 
@@ -102,7 +102,7 @@ Mana, underpins everything in the game...
 
 Mana is moves through refresh, mana is hitpoints through healing, mana is damage through spells... Mana is the currency of sloth which undermines the entire games challenge... and now you've provided a way to basically make mana instantly renewable without challenge.
 
-It's a mind numbing dumb decision, because in doing so, you've taken away the challenge that is a key ingredient to make a game - a game. Sloth is no longer a game... the final result of anything has already been decided before the fight even kicks off... now it's even more of an inevitability.  
+It's a mind numbing dumb decision, because in doing so, you've taken away the challenge that is a key ingredient to make a game - a game. Sloth is no longer a game... the final result of anything has already been decided before the fight even kicks off... now it's even more of an inevitability. 
 
 Sloth has been reduced to a simple grind, with predetermined outcomes. It's lost it's art, it's lost it's challenge. What kind of person thinks this is a good idea? Did you seriously play every game with god mode on, because you were crap? My mind boggles...
 
@@ -120,13 +120,13 @@ As for you not wanting to insult the mages at the top of the board, I hardly thi
 
 Done with this incessant whining.
 
--Zeke
+\-Zeke
 
 </div>
 
 <div class="post" data-post-id="39914" data-author="Gorka" data-date="2022-05-08T20:04:18+00:00" data-subject="Re: Removing Mana from the game...">
 
-Not gonna bother with you Ezekiel. Yes, I got a copy of your email the last time you quit... Who are you to accuse me of whining, straw man arguments and bitterness? :shock: Shall I post it on the forum? People might find it enlightening.
+Not gonna bother with you Ezekiel. Yes, I got a copy of your email the last time you quit... Who are you to accuse me of whining, straw man arguments and bitterness? <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> Shall I post it on the forum? People might find it enlightening.
 
 The irony is the last "art" left in the game, is going to be the art of cheating. It's going to be the last way a player can exactly exhibit his individuality and intelligence. 
 
@@ -138,20 +138,20 @@ It's more exciting to bet on how many times the hellwasps will kill Dingo tomorr
 
 <div class="post" data-post-id="39916" data-author="Ezekiel" data-date="2022-05-08T20:58:28+00:00" data-subject="Re: Removing Mana from the game...">
 
-Difference is, I've admitted when I've been irrational and unreasonable, attached to aspects of the game I was taking too seriously.  I'm hoping over time, you realize the same about your own arguments, which is why I brought it up. Release whatever you like, sir. I own my mistakes of the past. Stooping to such levels to throw shade at others past mistakes they've owned up to says more about your character than mine.
+Difference is, I've admitted when I've been irrational and unreasonable, attached to aspects of the game I was taking too seriously. I'm hoping over time, you realize the same about your own arguments, which is why I brought it up. Release whatever you like, sir. I own my mistakes of the past. Stooping to such levels to throw shade at others past mistakes they've owned up to says more about your character than mine.
 
 So no comments on 'proc Sloth' hypocrisy eh. Figured.
 
 It really just comes down to something that you find a detrimental, game-breaking change- the imms, as well as the rest of the mud, do not see as game-breaking, but rather progress. Your nostalgia and want for base level stagnancy of core game issues may be swaying your view to a fault. Realize it or not, I don't care. Neither does the rest of the mud. Adapt or die. I've said my piece. 
 
--Zeke
+\-Zeke
 
 </div>
 
 <div class="post" data-post-id="39917" data-author="Gorka" data-date="2022-05-08T21:48:37+00:00" data-subject="Re: Removing Mana from the game...">
 
-> **Ezekiel wrote:**
-> Difference is, I've admitted when I've been irrational and unreasonable, attached to aspects of the game I was taking too seriously.  I'm hoping over time, you realize the same, which is why I brought it up. Release whatever you like, sir. I own my mistakes of the past. Stooping to such levels to throw shade at others past mistakes they've owned up to says more about your character than mine.
+> <strong>Ezekiel wrote:</strong>
+> Difference is, I've admitted when I've been irrational and unreasonable, attached to aspects of the game I was taking too seriously. I'm hoping over time, you realize the same, which is why I brought it up. Release whatever you like, sir. I own my mistakes of the past. Stooping to such levels to throw shade at others past mistakes they've owned up to says more about your character than mine.
 
 Hey, if you've repented, no issue from me. 
 
@@ -169,14 +169,14 @@ My preferences aside, I really do truthfully think removing the challenge from S
 
 <div class="post" data-post-id="39926" data-author="Gorka" data-date="2022-05-09T17:56:12+00:00" data-subject="Re: Removing Mana from the game...">
 
-> **Insomnia wrote:**
+> <strong>Insomnia wrote:</strong>
 > By the way, I believe raising the Ancient Sceptre of Dominion doesn't restore mob mana
 
 Insomnia might be right, I haven't tested... I just noticed when I first bumped into the group in herbalist isle they raised sceptre and then recalled, and it seemed to me, there would only be one reason to do that, or maybe two... if the drain mobs were near death.
 
 Older mobs should provide a stable point of reference for what should be the range of drain... I checked logs for mobs uttering spells and ran around a bit... can't find one that gave more than 100 mana apart from the known outliers. Sure that can be reviewed, I don't think it provides a basis for 2700 mana though.
 
-<1847hp 488ma 565mv -10.9ac Kobold Village 333695347227xp -%>
+\<1847hp 488ma 565mv -10.9ac Kobold Village 333695347227xp -%\>
 
 Ok.
 
@@ -188,7 +188,7 @@ The kobold sage slowly fades into existence.
 
 You drain the kobold sage of some of his energy.
 
-<1888hp 550ma 565mv -10.9ac Kobold Village 333695347539xp 94%>
+\<1888hp 550ma 565mv -10.9ac Kobold Village 333695347539xp 94%\>
 
 The kobold sage misses you with his hit.
 
@@ -202,7 +202,7 @@ You viciously massacre the kobold sage with your cleave.
 
 The kobold sage is dead! R.I.P.
 
-<1813hp 926ma 577mv -10.9ac Temple of the Sun 333695396245xp -%>
+\<1813hp 926ma 577mv -10.9ac Temple of the Sun 333695396245xp -%\>
 
 drain knight
 
@@ -214,9 +214,9 @@ The Templar Knight of the Sun slowly fades into existence.
 
 You drain the Templar Knight of the Sun of some of his energy.
 
-<1831hp 966ma 578mv -10.9ac Temple of the Sun 333695397043xp 97%>
+\<1831hp 966ma 578mv -10.9ac Temple of the Sun 333695397043xp 97%\>
 
-<1813hp 959ma 570mv -14.9ac Kara'sa 333696079703xp -%>
+\<1813hp 959ma 570mv -14.9ac Kara'sa 333696079703xp -%\>
 
 drain statue
 
@@ -226,9 +226,9 @@ A carved statue hates your guts!
 
 You drain a carved statue of some of her energy.
 
-<1831hp 1004ma 578mv -10.9ac Kara'sa 333696081425xp 99%>
+\<1831hp 1004ma 578mv -10.9ac Kara'sa 333696081425xp 99%\>
 
-<1642hp 862ma 556mv -10.9ac Plane of Fire Extension 333706064937xp 75%>
+\<1642hp 862ma 556mv -10.9ac Plane of Fire Extension 333706064937xp 75%\>
 
 drain efreet
 
@@ -236,9 +236,9 @@ Ok.
 
 You drain the efreet of some of his energy.
 
-<1663hp 863ma 560mv -10.9ac Plane of Fire Extension 333706065387xp 75%>
+\<1663hp 863ma 560mv -10.9ac Plane of Fire Extension 333706065387xp 75%\>
 
-<1919hp 543ma 652mv -10.9ac Gossameringue-on-the-Scuttleteau 333735629484xp -%>
+\<1919hp 543ma 652mv -10.9ac Gossameringue-on-the-Scuttleteau 333735629484xp -%\>
 
 drain Webmistress
 
@@ -250,13 +250,13 @@ You feel a sudden rush of excitement!
 
 You drain the Grand Webmistress of some of her energy.
 
-<1966hp 566ma 652mv -10.9ac Gossameringue-on-the-Scuttleteau 333735630424xp 99%>
+\<1966hp 566ma 652mv -10.9ac Gossameringue-on-the-Scuttleteau 333735630424xp 99%\>
 
 </div>
 
 <div class="post" data-post-id="39927" data-author="Gorka" data-date="2022-05-09T18:25:09+00:00" data-subject="Re: Removing Mana from the game...">
 
-<1855hp 574ma 616mv -10.9ac Desert of Despair 334490904410xp -%>
+\<1855hp 574ma 616mv -10.9ac Desert of Despair 334490904410xp -%\>
 
 drain magi
 
@@ -268,7 +268,7 @@ You feel a sudden rush of excitement!
 
 You drain an ogre magi of some of his energy.
 
-<1899hp 682ma 615mv -10.9ac Desert of Despair 334490905022xp 99%>
+\<1899hp 682ma 615mv -10.9ac Desert of Despair 334490905022xp 99%\>
 
 </div>
 
@@ -276,7 +276,7 @@ You drain an ogre magi of some of his energy.
 
 I've only played since there has been drain in game, so take that into account. That said, I've had a lot of fun with drain at low/mid-levels.
 
-It helped me master quite a few things by way of providing motivation. Navigating through (to-me) dangerous areas and learning them. The importance of spell saves and eq sets. Beacons & Clan recalls. How to use flee properly and its quirks. The value of entrench. Quite frankly, it was the excitement needed to keep me engaged. Coming new into a game filled with 9x40s it gave me something to do other than coast as a spare wheel in a large group and have some self sufficiency.
+It helped me master quite a few things by way of providing motivation. Navigating through (to-me) dangerous areas and learning them. The importance of spell saves and eq sets. Beacons \& Clan recalls. How to use flee properly and its quirks. The value of entrench. Quite frankly, it was the excitement needed to keep me engaged. Coming new into a game filled with 9x40s it gave me something to do other than coast as a spare wheel in a large group and have some self sufficiency.
 
 Was it way OP? sure. You could drain 32k mana if you were careful - although it took me a while to realize it. And at those levels - 32k mana didn't stop a mob killing me in a single round. But as I got more levels, eq and knowledge - sure, it trivialized the game.
 
@@ -300,11 +300,11 @@ I'm sorry Gorka but I feel like you're creating these problems yourself, playing
 
 You're the only one complaining too much coins etc... these things might happen if someone plays as much as you do. I feel like I play more than average person. Never had coinage problem, haha. But I also play other chars some years. Anyways, all I'm trying to say here is - let the game go the path it wants to take and we all have fun. If you're (Gorka) trying to fight against that, well - better change to another mud then perhaps? 
 
-On another point. Slothmud average players count daily has been going up up up, once Rob started to update the  ystem. So I give my points to him. It's been awesome past few years. High regards to Neptune also and Toker and any other secret coder there has been involved. I'm loving it.
+On another point. Slothmud average players count daily has been going up up up, once Rob started to update the ystem. So I give my points to him. It's been awesome past few years. High regards to Neptune also and Toker and any other secret coder there has been involved. I'm loving it.
 
 Sorry my bad english. I hope you can get my point outta all that gibberish.
 
--Bel
+\-Bel
 
 </div>
 
@@ -314,15 +314,15 @@ I think the bigger the mob, the more mana you should be able to drain from it. M
 
 Speaking of numbers:
 
-* 62 mana from the kobold sage is not something anyone would bother draining, but seems just about right for the mob of its size
+\* 62 mana from the kobold sage is not something anyone would bother draining, but seems just about right for the mob of its size
 
-* 1000+ mana from wardens in Herbalist II – this, I think, is a perfect ratio of value vs. risk, especially given that they are in a funky magic room
+\* 1000+ mana from wardens in Herbalist II – this, I think, is a perfect ratio of value vs. risk, especially given that they are in a funky magic room
 
-* Some other mobs that feel right for me are Shemiz, Stakur and Alocer in Darken Wood.
+\* Some other mobs that feel right for me are Shemiz, Stakur and Alocer in Darken Wood.
 
-* Being able to drain 2000 mana from venerable plantwraith is definitely disbalanced. They should give maybe 5 times less.
+\* Being able to drain 2000 mana from venerable plantwraith is definitely disbalanced. They should give maybe 5 times less.
 
-* An ogre magi should be worth not 108 mana, but 1080 mana... but if you tell me it's more "ogre" and less "magi", I'll accept it. :mrgreen:
+\* An ogre magi should be worth not 108 mana, but 1080 mana... but if you tell me it's more "ogre" and less "magi", I'll accept it. <img src="/images/smilies/icon_mrgreen.svg" alt=":mrgreen:" title=":mrgreen:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

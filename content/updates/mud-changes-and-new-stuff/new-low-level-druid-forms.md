@@ -14,9 +14,9 @@ post_count: 1
 
 Two new low level druid forms have been added on reboot.
 
-Level 12: Drake       Breathe Weapons: Fire
+Level 12: Drake Breathe Weapons: Fire
 
-Level 26: Spider      Poison Bite, Web
+Level 26: Spider Poison Bite, Web
 
 We are making a concerted effort to improve the low level forms. Feel free to email us any ideas on new forms or useful new commands.
 

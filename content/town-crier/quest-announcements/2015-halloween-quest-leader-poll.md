@@ -18,6 +18,6 @@ Please select your favorite group leader from those who have put themselves fort
 
 Thank you,
 
---Idjit
+\--Idjit
 
 </div>

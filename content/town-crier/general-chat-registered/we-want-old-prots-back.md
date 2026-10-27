@@ -54,17 +54,17 @@ You left out the best one
 
 group formation domino
 
-Group screams at screen while 1.tank and 2.tank take a sudden and unplanned trip to the other side and you suddenly realizing  that 1.leader either a)failed to warn just how dangerous it was or b) was a total boob and didn't need to be leading such an un-organized group.
+Group screams at screen while 1.tank and 2.tank take a sudden and unplanned trip to the other side and you suddenly realizing that 1.leader either a)failed to warn just how dangerous it was or b) was a total boob and didn't need to be leading such an un-organized group.
 
 Bonus affect: Fingers get pointed and group dissolves
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="30191" data-author="jezer" data-date="2009-10-30T07:42:10+00:00" data-subject="">
 
-I think that formation has been in-game for quite some time  :twisted:
+I think that formation has been in-game for quite some time <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

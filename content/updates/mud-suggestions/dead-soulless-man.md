@@ -30,6 +30,6 @@ lol
 
 <div class="post" data-post-id="18733" data-author="Weasel" data-date="2007-05-30T22:17:24+00:00" data-subject="">
 
-what are you suggesting exactly?  :P
+what are you suggesting exactly? <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>

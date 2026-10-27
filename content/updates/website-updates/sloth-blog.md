@@ -24,7 +24,7 @@ If you have anymore events you would like me to log, please let me know and I ca
 
 <div class="post" data-post-id="14743" data-author="Dreco" data-date="2006-10-24T17:31:34+00:00" data-subject="">
 
-Very nice! Is the data live ? if it is, not showing completed quests, if it isnt live i'll check again later :)
+Very nice! Is the data live ? if it is, not showing completed quests, if it isnt live i'll check again later <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 P.s. Lifeless vs Liveless ?
 
@@ -32,7 +32,7 @@ P.s. Lifeless vs Liveless ?
 
 <div class="post" data-post-id="14744" data-author="*Splork*" data-date="2006-10-24T21:09:00+00:00" data-subject="">
 
-I think there are a couple bugs in my logging but the blog should be pretty close to live. I will see if  I can fix the things I have noticed tonight.
+I think there are a couple bugs in my logging but the blog should be pretty close to live. I will see if I can fix the things I have noticed tonight.
 
 Splork
 
@@ -56,13 +56,13 @@ Would be nice if it listed when epic mobs were killed, maybe like "Atwell lead 2
 
 <div class="post" data-post-id="14747" data-author="13" data-date="2006-10-24T23:03:14+00:00" data-subject="">
 
-*clap*
+\*clap\*
 
 </div>
 
 <div class="post" data-post-id="14748" data-author="Avatar" data-date="2006-10-25T13:37:33+00:00" data-subject="Blog">
 
-** the Grand Magus showed Chi the path to enlightenment - the Grand Magus is now prime Level 40 at 9 o'clock am on the Day of the Moon
+\*\* the Grand Magus showed Chi the path to enlightenment - the Grand Magus is now prime Level 40 at 9 o'clock am on the Day of the Moon
 
 I wonder if that shouldn't be "Chi is now prime Level 40 at 9 o'clock am on the Day of the Moon".
 
@@ -82,17 +82,17 @@ Splork
 
 <div class="post" data-post-id="14750" data-author="Vixn" data-date="2006-10-25T20:13:57+00:00" data-subject="">
 
-** Baraneth slew Clink at Sat Sep 30 07:42:12 2006
+\*\* Baraneth slew Clink at Sat Sep 30 07:42:12 2006
 
- :twisted:  :!:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="14753" data-author="Corinn" data-date="2006-10-26T03:51:55+00:00" data-subject="">
 
-** Demogorgon obliterated Splork at 10 o'clock am on the Day of the Moon
+\*\* Demogorgon obliterated Splork at 10 o'clock am on the Day of the Moon
 
- :shock:
+ <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -102,9 +102,9 @@ Raises don't seem to be showing anymore.. did one and hour or so ago, but not on
 
 Also noticed this kinda screwy entry:
 
-** Shival succesfully undertook the higly dangerous 4 o'clock pm on the Day of the Sun quest from Ivec at Wed Oct 25 22:46:40 2006
+\*\* Shival succesfully undertook the higly dangerous 4 o'clock pm on the Day of the Sun quest from Ivec at Wed Oct 25 22:46:40 2006
 
- :shock:
+ <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -116,59 +116,59 @@ Also noticed this kinda screwy entry:
 
 <div class="post" data-post-id="14764" data-author="Corinn" data-date="2006-10-27T15:14:49+00:00" data-subject="Auto, you meanie!">
 
-** Connor naively fought Autolycos and lost at 2 o'clock pm on the Day of the Great Gods
+\*\* Connor naively fought Autolycos and lost at 2 o'clock pm on the Day of the Great Gods
 
-** Autolycos obliterated Connor at 2 o'clock pm on the Day of the Great Gods
+\*\* Autolycos obliterated Connor at 2 o'clock pm on the Day of the Great Gods
 
-** Connor fought against Autolycos and lost at 1 o'clock pm on the Day of the Great Gods
+\*\* Connor fought against Autolycos and lost at 1 o'clock pm on the Day of the Great Gods
 
-** Autolycos wasted Connor at 1 o'clock pm on the Day of the Great Gods
+\*\* Autolycos wasted Connor at 1 o'clock pm on the Day of the Great Gods
 
-** Connor fought against Autolycos and lost at 1 o'clock pm on the Day of the Great Gods
+\*\* Connor fought against Autolycos and lost at 1 o'clock pm on the Day of the Great Gods
 
-** Autolycos obliterated Connor at 12 o'clock pm on the Day of the Great Gods
+\*\* Autolycos obliterated Connor at 12 o'clock pm on the Day of the Great Gods
 
-** Autolycos crushed Connor to a liveless pulp of blood and offals at 12 o'clock pm on the Day of the Great Gods
+\*\* Autolycos crushed Connor to a liveless pulp of blood and offals at 12 o'clock pm on the Day of the Great Gods
 
-** Connor naively fought Autolycos and lost at 11 o'clock am on the Day of the Great Gods
+\*\* Connor naively fought Autolycos and lost at 11 o'clock am on the Day of the Great Gods
 
-** Connor was messily dispatched by Autolycos at 11 o'clock am on the Day of the Great Gods
+\*\* Connor was messily dispatched by Autolycos at 11 o'clock am on the Day of the Great Gods
 
-** Connor was defeated by Autolycos at 10 o'clock am on the Day of the Great Gods
+\*\* Connor was defeated by Autolycos at 10 o'clock am on the Day of the Great Gods
 
-** Autolycos mercilessly butchered Connor at 10 o'clock am on the Day of the Great Gods
+\*\* Autolycos mercilessly butchered Connor at 10 o'clock am on the Day of the Great Gods
 
-** Connor was messily dispatched by Autolycos at 10 o'clock am on the Day of the Great Gods
+\*\* Connor was messily dispatched by Autolycos at 10 o'clock am on the Day of the Great Gods
 
-** Connor was beaten down by Autolycos at 9 o'clock am on the Day of the Great Gods
+\*\* Connor was beaten down by Autolycos at 9 o'clock am on the Day of the Great Gods
 
-** Autolycos handidly dispatched Connor to to the next world at 9 o'clock am on the Day of the Great Gods
+\*\* Autolycos handidly dispatched Connor to to the next world at 9 o'clock am on the Day of the Great Gods
 
-** Autolycos handidly dispatched Connor to to the next world at 8 o'clock am on the Day of the Great Gods
+\*\* Autolycos handidly dispatched Connor to to the next world at 8 o'clock am on the Day of the Great Gods
 
-** Autolycos mercilessly slaughtered Connor at 8 o'clock am on the Day of the Great Gods
+\*\* Autolycos mercilessly slaughtered Connor at 8 o'clock am on the Day of the Great Gods
 
-** Autolycos slew Connor at 7 o'clock am on the Day of the Great Gods
+\*\* Autolycos slew Connor at 7 o'clock am on the Day of the Great Gods
 
-** Autolycos handidly dispatched Connor to to the next world at 7 o'clock am on the Day of the Great Gods
+\*\* Autolycos handidly dispatched Connor to to the next world at 7 o'clock am on the Day of the Great Gods
 
-** Connor fought against Autolycos and lost at 6 o'clock am on the Day of the Great Gods
+\*\* Connor fought against Autolycos and lost at 6 o'clock am on the Day of the Great Gods
 
-** Autolycos annihilated Connor at 5 o'clock am on the Day of the Great Gods
+\*\* Autolycos annihilated Connor at 5 o'clock am on the Day of the Great Gods
 
- :shock:
+ <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="14765" data-author="Autolycos" data-date="2006-10-27T19:48:09+00:00" data-subject="">
 
-cackle!   :twisted: 
+cackle! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 he had leveled to prime 21.. then regretted it.
 
 i was asked if i knew a good way to get him back to 20.. 
 
-I simply said yes, I do... and it's a hellalot of fun!!  :twisted:
+I simply said yes, I do... and it's a hellalot of fun!! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -184,13 +184,13 @@ Hi,
 
 thanks weasel for the bug report.
 
-I found the shival-bug - the problem is Ivec is called 'Ivec, the supply merchant' - 1 comma to much :)
+I found the shival-bug - the problem is Ivec is called 'Ivec, the supply merchant' - 1 comma to much <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-I'll give splork a tell about how we possibly could fix that - but it's no big issue :)
+I'll give splork a tell about how we possibly could fix that - but it's no big issue <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 About the missed raises - if you could provide me date/time/playernames I can look it up and try to track down the bug.
 
-I added you in icq, so you just can give me a tell if I'm not ingame :)
+I added you in icq, so you just can give me a tell if I'm not ingame <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Regards,
 
@@ -200,7 +200,7 @@ broeggle
 
 <div class="post" data-post-id="14780" data-author="Jag" data-date="2006-10-28T13:57:44+00:00" data-subject="">
 
-Nice addition to the web site.  Thanks
+Nice addition to the web site. Thanks
 
 </div>
 
@@ -210,17 +210,17 @@ Hi
 
 I added / modified the blog so that we now have an rss feed 
 
-[<LINK_TEXT text="http://www.slothmud.org/modules/Sloth_B ... og.rss.php">http://www.slothmud.org/modules/Sloth_Blog/slothblog.rss.php</LINK_TEXT>](http://www.slothmud.org/modules/Sloth_Blog/slothblog.rss.php)
+[http://www.slothmud.org/modules/Sloth_Blog/slothblog.rss.php](http://www.slothmud.org/modules/Sloth_Blog/slothblog.rss.php)
 
 add/read it with you favorite rss reader (e.g. liferea / firefox)
 
-Please tell me what you think about it :)
+Please tell me what you think about it <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="14824" data-author="Malison" data-date="2006-10-30T22:32:13+00:00" data-subject="">
 
-What's the RSS thing supposed to do?  I've tried clicking the link both in the post and on the blog, as well as typing out the address, and nothing ever comes up.  The blog's link opened up an empty browser window...
+What's the RSS thing supposed to do? I've tried clicking the link both in the post and on the blog, as well as typing out the address, and nothing ever comes up. The blog's link opened up an empty browser window...
 
 </div>
 
@@ -240,7 +240,7 @@ Hi,
 
 Has anyone considered looking here?
 
-[url:1pg7pqp1]http://www.google.com/search?hl=en&q=rss&btnG=Google+Search[/url:1pg7pqp1]
+http://www.google.com/search?hl=en&q=rss&btnG=Google+Search
 
 </div>
 
@@ -266,11 +266,11 @@ Hi - the blog is fixed and up again - now even mobs with ugly names appear corre
 
 @weasel : don't care about file extensions,please - the rss feed is a valid xml file, in accordance to the rss 2.0 specs - and my reader parses ist, and usually all other readers don't care about it either.
 
-The problem ist, that the feed is genereated atm dynamically with php -> but only .php files are interpreted as php atm :)
+The problem ist, that the feed is genereated atm dynamically with php -\> but only .php files are interpreted as php atm <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-@weasel: if you still have problems with it - and insist on your aggregator - I'll find a solution for you - just give me a tell :)
+@weasel: if you still have problems with it - and insist on your aggregator - I'll find a solution for you - just give me a tell <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-The Tutorial/Explanation will follow soon - just have to mud first :)
+The Tutorial/Explanation will follow soon - just have to mud first <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Peter
 
@@ -282,7 +282,7 @@ No worries, I'll get it sussed - one parser I use converts xml docs to HTML form
 
 Cheers.
 
-Are we able to add an argument to that URL of [<LINK_TEXT text="http://www.slothmud.org/modules/Sloth_B ... og.rss.php">http://www.slothmud.org/modules/Sloth_Blog/slothblog.rss.php</LINK_TEXT>](http://www.slothmud.org/modules/Sloth_Blog/slothblog.rss.php) if we want just a personalized feed? Not that I want to, just a question that popped into my head..  :shock:
+Are we able to add an argument to that URL of [http://www.slothmud.org/modules/Sloth_Blog/slothblog.rss.php](http://www.slothmud.org/modules/Sloth_Blog/slothblog.rss.php) if we want just a personalized feed? Not that I want to, just a question that popped into my head.. <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -290,37 +290,37 @@ Are we able to add an argument to that URL of [<LINK_TEXT text="http://www.sloth
 
 Hi
 
-of course is that implemented :)
+of course is that implemented <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 so if you want to see me dying use 
 
-[url:2vzrk86i]http://www.slothmud.org/modules/Sloth_Blog/slothblog.rss.php?pname=broeggle[/url:2vzrk86i]
+http://www.slothmud.org/modules/Sloth_Blog/slothblog.rss.php?pname=broeggle
 
-as url  :)
+as url <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-Hehe - may be there a some other features you can think off - tell me :)
+Hehe - may be there a some other features you can think off - tell me <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="14852" data-author="Weasel" data-date="2006-10-31T21:40:36+00:00" data-subject="">
 
-Thanks :)
+Thanks <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-If you're into doing feeds atm, feeds from the 'who's online' and 'who's grouping' could be handy too :)
+If you're into doing feeds atm, feeds from the 'who's online' and 'who's grouping' could be handy too <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="15288" data-author="broeggle" data-date="2006-11-22T23:45:41+00:00" data-subject="RSS Tutorial">
 
-So - sorry it took so long,  was a bit busy the last time.
+So - sorry it took so long, was a bit busy the last time.
 
-But finally I have  created a tutorial for all the people out there who still ask themselves 'wtf is rss' 
+But finally I have created a tutorial for all the people out there who still ask themselves 'wtf is rss' 
 
 It is located here:
 
-here[/url:1q6kaxoq]
+[here](http://www.slothmud.org/modules/Sloth_Blog/slothrsstut/slothrss.html:1q6kaxoq)
 
-Feel free to contact me if you want to see your rss reader  there too.
+Feel free to contact me if you want to see your rss reader there too.
 
 Regards,
 

@@ -22,9 +22,9 @@ I will have some time on the 4th around 7-10.
 
 <div class="post" data-post-id="12158" data-author="Qa" data-date="2006-04-20T00:55:34+00:00" data-subject="">
 
-I was there (well Galveston) a month ago with the family.  Sorry I missed ya.  The kid loved picking up shells from the beach and going to the aquarium.  Fun stuff.
+I was there (well Galveston) a month ago with the family. Sorry I missed ya. The kid loved picking up shells from the beach and going to the aquarium. Fun stuff.
 
-Hey, wasn't Fiction from that area?  Paging (stranger than) Fiction to a red courtesy phone, please.
+Hey, wasn't Fiction from that area? Paging (stranger than) Fiction to a red courtesy phone, please.
 
 Qa
 
@@ -32,7 +32,7 @@ Qa
 
 <div class="post" data-post-id="12177" data-author="Elsie" data-date="2006-04-20T09:36:01+00:00" data-subject="">
 
-Perhaps we should organise offline sloth events :) Anyone else here from the midlands in England?
+Perhaps we should organise offline sloth events <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> Anyone else here from the midlands in England?
 
 </div>
 
@@ -42,11 +42,11 @@ Not a problem Qa, I remember u when i had Link back in the day.
 
 With my job I travel about 1x a month, and I do have customer all over
 
-the US.  I'll be like Al (Turbo) and start posting my visits when I can.  Most
+the US. I'll be like Al (Turbo) and start posting my visits when I can. Most
 
 of the visits are just 1 day, so I don't have time to sight see or meet other
 
-Slothers.  But when I do, I'll post them on here.
+Slothers. But when I do, I'll post them on here.
 
 Can u believe I was in Indy, and didn't even swing by Auto to smack him
 
@@ -60,7 +60,7 @@ Do they ring a bell for u?
 
 <div class="post" data-post-id="12184" data-author="Avatar" data-date="2006-04-20T13:31:00+00:00" data-subject="Yo">
 
-I used to live in Indiana, had a good friend who worked at Brightpoint.  Post your trips...if you can stay over a weekend when you travel...makes connections easier.
+I used to live in Indiana, had a good friend who worked at Brightpoint. Post your trips...if you can stay over a weekend when you travel...makes connections easier.
 
 Charles
 
@@ -68,11 +68,11 @@ Charles
 
 <div class="post" data-post-id="12185" data-author="Qa" data-date="2006-04-20T13:36:19+00:00" data-subject="">
 
-Elsie, no I am not from England.  But I really would like to take another trip there!  Great place, great people, the best pubs in the world, great history - all around great country.  I'll let you know if I ever get some tickets.
+Elsie, no I am not from England. But I really would like to take another trip there! Great place, great people, the best pubs in the world, great history - all around great country. I'll let you know if I ever get some tickets.
 
-Leaf be sure to look me up if you ever come to greater Mo-Town, k?  Certainly we could catch dinner or something. 
+Leaf be sure to look me up if you ever come to greater Mo-Town, k? Certainly we could catch dinner or something. 
 
-Speaking of meetups, the girls (spouse and child) and I are going to be in southwestern Ohio (Dayton / Cincy, maybe Columbus) over the weekend before Memorial day.  If any slothers are in that area, let me know.
+Speaking of meetups, the girls (spouse and child) and I are going to be in southwestern Ohio (Dayton / Cincy, maybe Columbus) over the weekend before Memorial day. If any slothers are in that area, let me know.
 
 Qa
 
@@ -82,13 +82,13 @@ Qa
 
 Chucky, I just got engaged and my fiance doesn't even like when I travel.
 
-But it pays the bills and helps me get out of the office hehe.  I'll prob start 
+But it pays the bills and helps me get out of the office hehe. I'll prob start 
 
 trying to to place Friday meetings, so I can spend the weekend (depending
 
-on if there are Slothers).  
+on if there are Slothers). 
 
-Qa, hum... I'll be going to CA maybe next month.  Or so I'm hoping.
+Qa, hum... I'll be going to CA maybe next month. Or so I'm hoping.
 
 </div>
 
@@ -96,9 +96,9 @@ Qa, hum... I'll be going to CA maybe next month.  Or so I'm hoping.
 
 Leaf got engaged!
 
-Poor girl :(
+Poor girl <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
-I mean... Grats man!  :P
+I mean... Grats man! <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -110,11 +110,11 @@ We been going out for awhile, she knows what shes getting herself into.
 
 <div class="post" data-post-id="12210" data-author="Poodle" data-date="2006-04-21T00:53:16+00:00" data-subject="">
 
-If Anyone's ever travelling through North-Eastern Ohio area, let me know.  I live about 1/2 hour west-north-west of Akron.  About 45 minutes south of Cleveland.  It'd be nice to get to know some of you guys (and gals) outside of the mud itself.  Anyhow, let me know on SlothIII if you're gonna be in town. 
+If Anyone's ever travelling through North-Eastern Ohio area, let me know. I live about 1/2 hour west-north-west of Akron. About 45 minutes south of Cleveland. It'd be nice to get to know some of you guys (and gals) outside of the mud itself. Anyhow, let me know on SlothIII if you're gonna be in town. 
 
 Also, Qa, my brother lives down in Columbus right now, I'm about 1.5 hours north of there, maybe if things line up right I can head down there during that time.
 
-*[Woof]*
+\*[Woof]\*
 
 </div>
 
@@ -128,19 +128,17 @@ I think thats all i have in OH.
 
 <div class="post" data-post-id="12214" data-author="Poodle" data-date="2006-04-21T01:04:39+00:00" data-subject="">
 
-If Pierre Foods is the same company that makes Pierre's Ice Cream, be sure to tell them Thank You for me, it's good sutff :)
+If Pierre Foods is the same company that makes Pierre's Ice Cream, be sure to tell them Thank You for me, it's good sutff <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 And no, I don't believe in customer feedback, so I will not call the number on the ice cream carton :p
 
-*[Woof]*
+\*[Woof]\*
 
 </div>
 
 <div class="post" data-post-id="12260" data-author="*juggleblood*" data-date="2006-04-21T11:33:16+00:00" data-subject="">
 
 I'm returning from Saudi to Indianapolis at the end of June. When I get back I gonna have a theme party:
-
- 
 
 "Beer, Babes, and Bacon"
 

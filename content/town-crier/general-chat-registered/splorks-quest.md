@@ -142,7 +142,7 @@ The Crown of Thorns..It glows violet!..It emits a faint humming sound!
 
 You feel informed:
 
-Object 'strand frozen tears quest given_out', Item type: ARMOR
+Object 'strand frozen tears quest given\_out', Item type: ARMOR
 
 Item is: NOBITS
 
@@ -152,9 +152,9 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: MANA by 20
+ Affects: MANA by 20
 
-    Affects: REGEN_MANA by 2
+ Affects: REGEN\_MANA by 2
 
 Only those who are no more than supreme magic users, clerics, or
 
@@ -162,7 +162,7 @@ necromancers may use this item.
 
 You feel informed:
 
-Object 'crown thorns trip40 *Poit*', Item type: ARMOR
+Object 'crown thorns trip40 \*Poit\*', Item type: ARMOR
 
 Item is: HUM PERSONAL MAGIC RESTRUNG 3x40-ITEM
 
@@ -172,9 +172,9 @@ AC-apply is -1.2
 
 Can affect you as:
 
-    Affects: STR by 2
+ Affects: STR by 2
 
-    Affects: REGEN_MANA by 3
+ Affects: REGEN\_MANA by 3
 
 Only those who have attained supremacy in at least three classes may use
 
@@ -192,9 +192,9 @@ Damage Dice is '3D4'
 
 Can affect you as:
 
-    Affects: HITROLL by 1
+ Affects: HITROLL by 1
 
-    Affects: DAMROLL by 1
+ Affects: DAMROLL by 1
 
 You feel informed:
 
@@ -208,7 +208,7 @@ Damage Dice is '3D4'
 
 Can affect you as:
 
-    Affects: HITROLL by 1
+ Affects: HITROLL by 1
 
 Only those who are at least apprentice thieves may use this item.
 
@@ -224,7 +224,7 @@ Damage Dice is '1D1'
 
 Can affect you as:
 
-    Affects: DARKSIGHT by 1
+ Affects: DARKSIGHT by 1
 
 Object 'rod ruby quest high', Item type: WEAPON
 
@@ -236,9 +236,9 @@ Damage Dice is '5D5'
 
 Can affect you as:
 
-    Affects: REGEN_MANA by 1
+ Affects: REGEN\_MANA by 1
 
-    Affects: HITROLL by 3
+ Affects: HITROLL by 3
 
 Only those who are at least novice avatars may use this item.
 
@@ -254,7 +254,7 @@ AC-apply is -1.4
 
 Can affect you as:
 
-    Affects: HITPOINT by 10
+ Affects: HITPOINT by 10
 
 Only those who are at least adept thieves, warriors, bards, or monks may
 
@@ -270,9 +270,9 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: STR by 1
+ Affects: STR by 1
 
-    Affects: INFRAVISION by 1
+ Affects: INFRAVISION by 1
 
 Only those who are at least master avatars and druids may use this item.
 
@@ -288,9 +288,9 @@ AC-apply is -1.2
 
 Can affect you as:
 
-    Affects: MANA by 15
+ Affects: MANA by 15
 
-    Affects: MINDBAR by 41
+ Affects: MINDBAR by 41
 
 Only those who are at least master magic users or adept warriors may use
 
@@ -306,9 +306,9 @@ AC-apply is -0.7
 
 Can affect you as:
 
-    Affects: REGEN_HP by 3
+ Affects: REGEN\_HP by 3
 
-    Affects: REGEN_MOVE by 3
+ Affects: REGEN\_MOVE by 3
 
 Only those who are at least experienced in at least one of the starting
 
@@ -324,9 +324,9 @@ AC-apply is -0.6
 
 Can affect you as:
 
-    Affects: STR by 1
+ Affects: STR by 1
 
-    Affects: MOVE by 15
+ Affects: MOVE by 15
 
 Only those who are at least experienced thieves or warriors may use this
 
@@ -342,9 +342,9 @@ AC-apply is -0.8
 
 Can affect you as:
 
-    Affects: REGEN_HP by 2
+ Affects: REGEN\_HP by 2
 
-    Affects: HITPOINT by 15
+ Affects: HITPOINT by 15
 
 Only those who are at least apprentice avatars may use this item.
 
@@ -360,13 +360,13 @@ AC-apply is -2.0
 
 Can affect you as:
 
-    Affects: DEX by 2
+ Affects: DEX by 2
 
 Only those who are at least experienced magic users or adept clerics, or
 
 adept thieves, or adept warriors may use this item.
 
-TWO:  Object 'purple boots black widow *quest-medium* quest', Item type: ARMOR
+TWO: Object 'purple boots black widow \*quest-medium\* quest', Item type: ARMOR
 
 Item is: MAGIC 2x40-ITEM
 
@@ -376,9 +376,9 @@ AC-apply is 0.1
 
 Can affect you as:
 
-    Affects: MANA by 5
+ Affects: MANA by 5
 
-    Affects: REGEN_MANA by 1
+ Affects: REGEN\_MANA by 1
 
 Only those who have attained supremacy in at least two classes may use this
 
@@ -394,15 +394,15 @@ Damage Dice is '4D3'
 
 Can affect you as:
 
-    Affects: HITROLL by 2
+ Affects: HITROLL by 2
 
-    Affects: DEX by 1
+ Affects: DEX by 1
 
 Only those who are at least experienced thieves or apprentice warriors may
 
 use this item.
 
-Object 'sword damascus steel quest prime_only', Item type: WEAPON
+Object 'sword damascus steel quest prime\_only', Item type: WEAPON
 
 Item is: HUM
 
@@ -412,9 +412,9 @@ Damage Dice is '4D5'
 
 Can affect you as:
 
-    Affects: WIS by 1
+ Affects: WIS by 1
 
-    Affects: HITPOINT by 10
+ Affects: HITPOINT by 10
 
 Only those who are primary supreme warriors may use this item.
 
@@ -428,15 +428,15 @@ AC-apply is -1.2
 
 Can affect you as:
 
-    Affects: DAMROLL by 1
+ Affects: DAMROLL by 1
 
-    Affects: STR by 1
+ Affects: STR by 1
 
 Only those who are at least apprentice magic users and also apprentice
 
 clerics, and supreme thieves, and adept warriors may use this item.
 
-Object 'cloak mained soul quest medium given_out', Item type: ARMOR
+Object 'cloak mained soul quest medium given\_out', Item type: ARMOR
 
 Item is: MAGIC
 
@@ -446,9 +446,9 @@ AC-apply is -0.7
 
 Can affect you as:
 
-    Affects: STR by 1
+ Affects: STR by 1
 
-    Affects: MOVE by 20
+ Affects: MOVE by 20
 
 Only those who are at least experienced thieves or experienced warriors, or
 
@@ -466,9 +466,9 @@ AC-apply is -0.1
 
 Can affect you as:
 
-    Affects: MANA by 5
+ Affects: MANA by 5
 
-    Affects: REGEN_MANA by 1
+ Affects: REGEN\_MANA by 1
 
 Only those who are at least experienced magic users or clerics may use this
 
@@ -486,13 +486,13 @@ Damage Dice is '2D5'
 
 Can affect you as:
 
-    Affects: HITROLL by -2
+ Affects: HITROLL by -2
 
-    Affects: DAMROLL by 1
+ Affects: DAMROLL by 1
 
 Only those who are at least apprentice thieves may use this item.
 
-Object 'staff necromancer quest high limit! given_out', Item type: WEAPON
+Object 'staff necromancer quest high limit! given\_out', Item type: WEAPON
 
 Item is: HUM EVIL MAGIC SANCBUSTER
 
@@ -502,13 +502,13 @@ Damage Dice is '3D6'
 
 Can affect you as:
 
-    Affects: STR by 2
+ Affects: STR by 2
 
-    Affects: UNDEAD_CONTROL by 1
+ Affects: UNDEAD\_CONTROL by 1
 
 Only those who are at least apprentice necromancers may use this item.
 
-Object 'emblem war quest high given_out', Item type: ARMOR
+Object 'emblem war quest high given\_out', Item type: ARMOR
 
 Item is: HUM 2x40-ITEM
 
@@ -518,15 +518,15 @@ AC-apply is -0.4
 
 Can affect you as:
 
-    Affects: DAMROLL by 1
+ Affects: DAMROLL by 1
 
-    Affects: STAB_DAMAGE by 4
+ Affects: STAB\_DAMAGE by 4
 
 Only those who are at least supreme thieves, and have attained supremacy in
 
 at least two classes may use this item.
 
-Object 'core graygem quest low limit given_out', Item type: LIGHT
+Object 'core graygem quest low limit given\_out', Item type: LIGHT
 
 Item is: MAGIC
 
@@ -534,9 +534,9 @@ Weight: 2, Value: 43000gold, Worn in: TAKE HOLD
 
 Can affect you as:
 
-    Affects: REGEN_MANA by 3
+ Affects: REGEN\_MANA by 3
 
-    Affects: SPELL_BONUS by 10
+ Affects: SPELL\_BONUS by 10
 
 Only those who are at least adept magic users, clerics, thieves, warriors,
 
@@ -552,9 +552,9 @@ Damage Dice is '2D6'
 
 Can affect you as:
 
-    Affects: HITROLL by 2
+ Affects: HITROLL by 2
 
-    Affects: DAMROLL by 3
+ Affects: DAMROLL by 3
 
 Only those who are at least supreme thieves and avatars may use this item.
 
@@ -568,9 +568,9 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: WIS by 1
+ Affects: WIS by 1
 
-    Affects: REGEN_MANA by 2
+ Affects: REGEN\_MANA by 2
 
 Only those who are at least master magic users, clerics, druids, or
 
@@ -586,9 +586,9 @@ AC-apply is -1.2
 
 Can affect you as:
 
-    Affects: DAMROLL by 1
+ Affects: DAMROLL by 1
 
-    Affects: DEX by 1
+ Affects: DEX by 1
 
 Only those who are at least experienced magic users and also adept clerics,
 
@@ -604,7 +604,7 @@ AC-apply is -0.5
 
 Can affect you as:
 
-    Affects: HITPOINT by 10
+ Affects: HITPOINT by 10
 
 Only those who are at least experienced clerics, thieves, or warriors may
 
@@ -620,9 +620,9 @@ AC-apply is -0.5
 
 Can affect you as:
 
-    Affects: HITROLL by 1
+ Affects: HITROLL by 1
 
-    Affects: CON by 1
+ Affects: CON by 1
 
 Only those who are at least experienced thieves, warriors, druids, or monks
 
@@ -638,9 +638,9 @@ AC-apply is -0.4
 
 Can affect you as:
 
-    Affects: MOVE by 15
+ Affects: MOVE by 15
 
-    Affects: DAMROLL by 1
+ Affects: DAMROLL by 1
 
 Only those who are at least experienced magic users or thieves may use this
 
@@ -656,9 +656,9 @@ Damage Dice is '3D7'
 
 Can affect you as:
 
-    Affects: HITROLL by 3
+ Affects: HITROLL by 3
 
-    Affects: DAMROLL by 2
+ Affects: DAMROLL by 2
 
 Only those who are at least adept magic users, clerics, thieves, warriors,
 
@@ -674,9 +674,9 @@ Damage Dice is '3D6'
 
 Can affect you as:
 
-    Affects: HITPOINT by 30
+ Affects: HITPOINT by 30
 
-    Affects: SAVING_SPELL by -2
+ Affects: SAVING\_SPELL by -2
 
 Only those who are at least apprentice magic users or experienced clerics,
 
@@ -690,9 +690,9 @@ Weight: 3, Value: 50000000gold, Worn in: TAKE HOLD
 
 Can affect you as:
 
-    Affects: REGEN_HP by 2
+ Affects: REGEN\_HP by 2
 
-    Affects: REGEN_MANA by 2
+ Affects: REGEN\_MANA by 2
 
 </div>
 
@@ -706,17 +706,17 @@ Daaaaamn.... been building PC all day and just saw this now. Daaaaamn..
 
 I'd log on again if someone wanted to trade those -0.8 shoulder guards.
 
-Also why is one of those items personal to poit (like didn't he quit?)... and where are our avatars on our posts these days? The smirk on my avatar was quite in character for me :( I liked it.
+Also why is one of those items personal to poit (like didn't he quit?)... and where are our avatars on our posts these days? The smirk on my avatar was quite in character for me <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom"> I liked it.
 
 </div>
 
 <div class="post" data-post-id="28698" data-author="Jag" data-date="2009-04-10T13:45:50+00:00" data-subject="">
 
-Thanks Splork for an excellent quest with tons of rewards. It was challenging enough to keep me up hours past my bedtime and yet doable enough to complete on a weekday night.  
+Thanks Splork for an excellent quest with tons of rewards. It was challenging enough to keep me up hours past my bedtime and yet doable enough to complete on a weekday night. 
 
-Thanks also to Yinao for the excellent leadership.  He kept the group surprisingly calm and organized, never lost it when we didn't listen and made sure everyone was able to be there for the critical moments.  He also was quite unselfish with the rewards.  
+Thanks also to Yinao for the excellent leadership. He kept the group surprisingly calm and organized, never lost it when we didn't listen and made sure everyone was able to be there for the critical moments. He also was quite unselfish with the rewards. 
 
-Can we do it again next week?   :D
+Can we do it again next week? <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -746,7 +746,7 @@ Josiah gets an evil eye necklace from the corpse of Melephus that's on the groun
 
 Josiah gets gold coins from the corpse of Melephus that's on the ground.
 
-Josiah splits 56991 coins.  Your share is 7123 coins.
+Josiah splits 56991 coins. Your share is 7123 coins.
 
 Josiah gets red gold shoulder guards from the corpse of Melephus that's on the ground.
 

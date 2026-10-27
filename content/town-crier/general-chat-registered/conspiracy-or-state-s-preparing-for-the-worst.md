@@ -98,7 +98,7 @@ Honestly....
 
 Actually, I'm glad it was posted..I'm aware of alot of things and try it follow what I can and sort out what I can..that is useful info and I'm going to research it and pass it along. Main thing I've heard is regarding Texas but that is Firebrand's backyard and she'd know more on it that what I could post. What's scary is how people are chomping at the bit to close down all forms of information in their lust for power (read:Osama and Nancy Pelosi,Harry Reed). They don't want you to know the slippery slope they are working.
 
-Look, I've boned alot of fat chicks in my time, sure, but ugh as far as I can recall I've never fornicated anybody- Willie > Bad Santa
+Look, I've boned alot of fat chicks in my time, sure, but ugh as far as I can recall I've never fornicated anybody- Willie \> Bad Santa
 
 </div>
 
@@ -112,7 +112,7 @@ bad links
 
 I think this was the article you read:
 
-[<LINK_TEXT text="http://www.infowars.com/increasing-numb ... vereignty/">http://www.infowars.com/increasing-number-of-states-declaring-sovereignty/</LINK_TEXT>](http://www.infowars.com/increasing-number-of-states-declaring-sovereignty/)
+[http://www.infowars.com/increasing-number-of-states-declaring-sovereignty/](http://www.infowars.com/increasing-number-of-states-declaring-sovereignty/)
 
 The links in the article work.
 
@@ -122,11 +122,11 @@ I'm rather surprised that this kind of stuff is happening now, rather than when 
 
 <div class="post" data-post-id="28037" data-author="Medios" data-date="2009-02-10T20:55:46+00:00" data-subject="">
 
-Strange about the links, I checked the all out before I posted.  Some of them do work, ill check out the rest later.
+Strange about the links, I checked the all out before I posted. Some of them do work, ill check out the rest later.
 
-Are there rules for this message board?  Do I have to stay on the topic of muds here?  Is the only thing I am allowed to post is rants and whining about classos or eq?  
+Are there rules for this message board? Do I have to stay on the topic of muds here? Is the only thing I am allowed to post is rants and whining about classos or eq? 
 
-Or am I free to talk about what I want when I want.  Strangely enough at the current point in history Democrats are in a huge push to shut everyone up.  Now coming from the party that supports freedom of speech and the common man I find it interesting that they want to shut down any real discussion of impropriety in politics.  Honestly Broc the real question is why do you post here?  You routinely complain about the game and don't even log in.  So the real question is what are you doing here?  Oh wait maybe trying to stifle political discussion?
+Or am I free to talk about what I want when I want. Strangely enough at the current point in history Democrats are in a huge push to shut everyone up. Now coming from the party that supports freedom of speech and the common man I find it interesting that they want to shut down any real discussion of impropriety in politics. Honestly Broc the real question is why do you post here? You routinely complain about the game and don't even log in. So the real question is what are you doing here? Oh wait maybe trying to stifle political discussion?
 
 Don't ask don't tell is your policy?
 
@@ -134,19 +134,19 @@ Don't ask don't tell is your policy?
 
 <div class="post" data-post-id="28038" data-author="Medios" data-date="2009-02-10T21:05:24+00:00" data-subject="">
 
-Why did my links get cut with with ... when i pasted them directly from the url.  Hell with it, happy slavery.
+Why did my links get cut with with ... when i pasted them directly from the url. Hell with it, happy slavery.
 
 </div>
 
 <div class="post" data-post-id="28039" data-author="Medios" data-date="2009-02-10T21:47:20+00:00" data-subject="">
 
-Ahha I figured it out.  I copy and pasted this from my other msg board, that is why my links got hosed.  Thanks to Poggle for posting an article with working links.  BTW I did not read this on Alex Jones's website.  His material gets attacked too much for being conspiracy minded.  That was the reason I posted the direct state legislature urls that I found in a video about the matter.  
+Ahha I figured it out. I copy and pasted this from my other msg board, that is why my links got hosed. Thanks to Poggle for posting an article with working links. BTW I did not read this on Alex Jones's website. His material gets attacked too much for being conspiracy minded. That was the reason I posted the direct state legislature urls that I found in a video about the matter. 
 
-I just read part of the stimulus bills that states the government will means test your medical treatments against your average life span.  If your treatment is above a certain ratio you will be denied medicine.  This will effectively end govt subsidies of new medicines, which in my mind is a very good thing.  However anyone on govt run health care will be left to die if they contract a serious illness.  
+I just read part of the stimulus bills that states the government will means test your medical treatments against your average life span. If your treatment is above a certain ratio you will be denied medicine. This will effectively end govt subsidies of new medicines, which in my mind is a very good thing. However anyone on govt run health care will be left to die if they contract a serious illness. 
 
-Now I only thought that the evil corporations made decisions that valued human life against monetary cost.  For example the Ford Pinto.  It was determined that the amount of money to fix the Pinto would be more than the amount paid out in wrongful death lawsuits against Ford.  Now it seems that the govt will be in the business of telling you what treatments you receive (if any) and placing a fiat monetary value on your life.  So in the future what would stop the govt from taking DNA and determining whether or not your genes would be strong enough to live in their health care system.  What if your family has a strong recurrence of heart disease or cancer?  Will the govt be able to tell you that you cannot procreate because your child might be a possible burden on the health care system?  I know you think I am going too far, but what about China?  They already have death squads for forced abortions of more than one child per family.  Why not go farther and say you peasants are not fit to reproduce.  Only the Bushs, Obamas, Pelosis and Reeds of the world will be seen fit to have offspring.  
+Now I only thought that the evil corporations made decisions that valued human life against monetary cost. For example the Ford Pinto. It was determined that the amount of money to fix the Pinto would be more than the amount paid out in wrongful death lawsuits against Ford. Now it seems that the govt will be in the business of telling you what treatments you receive (if any) and placing a fiat monetary value on your life. So in the future what would stop the govt from taking DNA and determining whether or not your genes would be strong enough to live in their health care system. What if your family has a strong recurrence of heart disease or cancer? Will the govt be able to tell you that you cannot procreate because your child might be a possible burden on the health care system? I know you think I am going too far, but what about China? They already have death squads for forced abortions of more than one child per family. Why not go farther and say you peasants are not fit to reproduce. Only the Bushs, Obamas, Pelosis and Reeds of the world will be seen fit to have offspring. 
 
-I remember before the election when I made a prediction that we would all be sorry for our love affair with Obama and that I would be laughing in the end when he self-destructs.  Well the time is here and I am not laughing.  In fact I am concerned that within 10 years I will be working for 1/2 as much as I currently do.  Inflationary spending didn't work during The Great Depression and it won't work now.
+I remember before the election when I made a prediction that we would all be sorry for our love affair with Obama and that I would be laughing in the end when he self-destructs. Well the time is here and I am not laughing. In fact I am concerned that within 10 years I will be working for 1/2 as much as I currently do. Inflationary spending didn't work during The Great Depression and it won't work now.
 
 You know what got us out of the Depression?
 
@@ -178,11 +178,16 @@ It's debatable whether even with a civil war it would be worth it in the long ru
 
 <div class="post" data-post-id="28042" data-author="Weasel" data-date="2009-02-11T00:52:46+00:00" data-subject="">
 
-I read an interesting thing put forward by someone last night.
-
-They predicted America will eventually go bankrupt, (partly on the back of the other countries defaulting on the money they owe... Brazil/Mexico/Argentina) The banks will declare a bank holiday and freeze people from withdrawing their money in panic. As a result riots and mass looting will take place all over America, as people take out there frustration over whats transpired and there inability to withdraw funds. 
-
-We recently had the worst bush fires in Australia's history last week. 181 people (still 80 missing) died in firestorms moving as fast as cars up tinder dry valleys, scorched in the recent multiple days of weather in the low 40's (Cecilius.) I can't help but think in the same way... the "weather" at the moment is drying out the economy... just waiting for that one event that's going to induce some of the worst scene's we have ever seen.[/quote:300z6z6d]
+> <strong>jezer wrote:</strong>
+> I read an interesting thing put forward by someone last night.
+> 
+> 
+> 
+> They predicted America will eventually go bankrupt, (partly on the back of the other countries defaulting on the money they owe... Brazil/Mexico/Argentina) The banks will declare a bank holiday and freeze people from withdrawing their money in panic. As a result riots and mass looting will take place all over America, as people take out there frustration over whats transpired and there inability to withdraw funds. 
+> 
+> 
+> 
+> We recently had the worst bush fires in Australia's history last week. 181 people (still 80 missing) died in firestorms moving as fast as cars up tinder dry valleys, scorched in the recent multiple days of weather in the low 40's (Cecilius.) I can't help but think in the same way... the "weather" at the moment is drying out the economy... just waiting for that one event that's going to induce some of the worst scene's we have ever seen.
 
 It's coming. Before they even got elected, Biden put his foot in his mouth (as usual) and made a mysterious warning that, once elected, they were going to do something that Americans wont like at all.. he then realized what he said and refused to elaborate. The media glossed it over, as usual. I have not forgotten that ominous warning, and nor have many others. It's coming.
 
@@ -192,11 +197,11 @@ RIP to the bushfire victims, and condolences to their friends and family.
 
 <div class="post" data-post-id="28043" data-author="Tap" data-date="2009-02-11T00:54:49+00:00" data-subject="">
 
-[url:18z6nx62]http://www.infowars.com[/url:18z6nx62]
+http://www.infowars.com
 
 or if that's a bit much to chew on at once...I like this guy
 
-[url:18z6nx62]http://www.glennbeck.com[/url:18z6nx62]
+http://www.glennbeck.com
 
 </div>
 
@@ -218,7 +223,7 @@ So yes, war helped us last time, but this time things are very different.
 
 <div class="post" data-post-id="28045" data-author="*juggleblood*" data-date="2009-02-11T03:40:38+00:00" data-subject="">
 
-The sky is falling :!:
+The sky is falling <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -232,17 +237,17 @@ Guys, I know you think we're the bad guys in Iraq, but terrorism really has to b
 
 Agreed the sky is falling.
 
-[img:lwst56qy]http://www.penguinpetes.com/images/L_Ron_Paul_Hubbard_art/Ron_Paul_baby.jpg[/img:lwst56qy]
+![](http://www.penguinpetes.com/images/L_Ron_Paul_Hubbard_art/Ron_Paul_baby.jpg)
 
 </div>
 
 <div class="post" data-post-id="28051" data-author="jezer" data-date="2009-02-11T06:36:39+00:00" data-subject="">
 
-Yeah, I think the sky is falling... falling... as in the process of...  I don't think it's dooms day to say so, it's just more fact. Countries are in/heading for recession and things are getting worse by the day... there is no need to start preparing food and water for your nuclear bunker... but no need to put your head in the sand either.
+Yeah, I think the sky is falling... falling... as in the process of... I don't think it's dooms day to say so, it's just more fact. Countries are in/heading for recession and things are getting worse by the day... there is no need to start preparing food and water for your nuclear bunker... but no need to put your head in the sand either.
 
 You only have to look at aspects of America, nationally and internationally, and you know that a lot of issues are like a keg, waiting for ignition. Imagine what would happen if Obama got assassinated, economic crisis fallout, race relations, housing crisis, bank freeze... what ever it is... everything you hear from over there seems wound tight and ready to pop.
 
-Some days I think if we stopped talking about the crisis would there be lesser of one. Like climate change... and all this talk about temperatures rising... Australia's officially dropped last year... 7 year cycle maybe? heh *shrug*
+Some days I think if we stopped talking about the crisis would there be lesser of one. Like climate change... and all this talk about temperatures rising... Australia's officially dropped last year... 7 year cycle maybe? heh \*shrug\*
 
 </div>
 
@@ -274,7 +279,7 @@ For all the world to hold "Americans" as being lazy and idiotic, basically many 
 
 <div class="post" data-post-id="28064" data-author="Medios" data-date="2009-02-12T00:43:28+00:00" data-subject="">
 
-No matter how hard left they push, it will swing back right in 2010.  History shows that.
+No matter how hard left they push, it will swing back right in 2010. History shows that.
 
 </div>
 
@@ -286,9 +291,10 @@ I can't believe that you're being like this after Obama has been president for a
 
 <div class="post" data-post-id="28066" data-author="jezer" data-date="2009-02-12T01:57:10+00:00" data-subject="">
 
-I can't believe that you're being like this after Obama has been president for a mere few weeks. Have you forgotten what a disaster the last administration was? Have you forgotten that the Republican party is a mess? Who you gonna run in 2012? Huckabee/Palin?[/quote:2pvwgmq1]
+> <strong>juggleblood wrote:</strong>
+> I can't believe that you're being like this after Obama has been president for a mere few weeks. Have you forgotten what a disaster the last administration was? Have you forgotten that the Republican party is a mess? Who you gonna run in 2012? Huckabee/Palin?
 
-It's hard to say what movies will be hits in that time... and which of the actors will switch to politics...  :twisted:
+It's hard to say what movies will be hits in that time... and which of the actors will switch to politics... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -296,39 +302,40 @@ It's hard to say what movies will be hits in that time... and which of the actor
 
 Seth Rogen 4 President
 
-[img:1rch2y8x]http://www.canmag.com/images/front/people2/sethrogen2.jpg[/img:1rch2y8x]
+![](http://www.canmag.com/images/front/people2/sethrogen2.jpg)
 
 </div>
 
 <div class="post" data-post-id="28083" data-author="Medios" data-date="2009-02-12T22:10:25+00:00" data-subject="">
 
-I can't believe that you're being like this after Obama has been president for a mere few weeks. Have you forgotten what a disaster the last administration was? Have you forgotten that the Republican party is a mess? Who you gonna run in 2012? Huckabee/Palin?[/quote:1bnxwvot]
+> <strong>juggleblood wrote:</strong>
+> I can't believe that you're being like this after Obama has been president for a mere few weeks. Have you forgotten what a disaster the last administration was? Have you forgotten that the Republican party is a mess? Who you gonna run in 2012? Huckabee/Palin?
 
 I guess you forgot I voted for Ron Paul.
 
-You know personal liberty, less war, less taxation.  Stuff that Democrats don't understand.
+You know personal liberty, less war, less taxation. Stuff that Democrats don't understand.
 
 </div>
 
 <div class="post" data-post-id="28085" data-author="Leaf" data-date="2009-02-12T23:56:04+00:00" data-subject="">
 
-We are getting more of a tax break then Bush gave us.  He is "trying" to
+We are getting more of a tax break then Bush gave us. He is "trying" to
 
-create more jobs for ppl.  Since ur in construction (if i recall) thats more
+create more jobs for ppl. Since ur in construction (if i recall) thats more
 
-business for u and ur company.  
+business for u and ur company. 
 
-Yes our kids, kids will most likey pay for it in the future.  But then again
+Yes our kids, kids will most likey pay for it in the future. But then again
 
 the war that Bush "tried" to finish for his father already cost over 1trillion.
 
 Not including all the disable ppl that the country need to help for the rest
 
-of their lives.  
+of their lives. 
 
-Give the man a break Mikey, like what Jonny said.  He's only been in the
+Give the man a break Mikey, like what Jonny said. He's only been in the
 
-office for a few weeks.  He didn't cause this mess, so its not his fault.
+office for a few weeks. He didn't cause this mess, so its not his fault.
 
 </div>
 
@@ -342,7 +349,7 @@ expect this to be news for next 2 weeks like a hot potato
 
 <div class="post" data-post-id="28091" data-author="Medios" data-date="2009-02-13T20:33:05+00:00" data-subject="">
 
-Why should Democrats release the bill before it is being voted on.  You act like this is a Democracy or something.  Here is a cool quote from Obama.
+Why should Democrats release the bill before it is being voted on. You act like this is a Democracy or something. Here is a cool quote from Obama.
 
 From the politico.
 
@@ -354,9 +361,9 @@ I know I know, this is a dire emergency.
 
 In the words of Nancy Pelosi "Every month the stimulus bill is not passed 500 million Americans lose their jobs."
 
-The whole idea of bipartisanship is a joke.  
+The whole idea of bipartisanship is a joke. 
 
-And Will do you know exactly what that tax cut is?  Are you sure that it is still part of the package...
+And Will do you know exactly what that tax cut is? Are you sure that it is still part of the package...
 
 </div>
 
@@ -368,13 +375,14 @@ bill is over 1000 pages, you can grep through it if you like
 
 <div class="post" data-post-id="28094" data-author="Medios" data-date="2009-02-13T21:40:13+00:00" data-subject="">
 
-bill is over 1000 pages, you can grep through it if you like[/quote:3bot6fn1]
+> <strong>reboog wrote:</strong>
+> bill is over 1000 pages, you can grep through it if you like
 
-When was the bill released?  When is it being voted on?  Why the big rush when most of the money won't even be spent until right before the next election.
+When was the bill released? When is it being voted on? Why the big rush when most of the money won't even be spent until right before the next election.
 
-Just to clarify I believe the final bill was released at 11pm last night.  The House already voted on it and the Senate will pass it (within 24 hours) with the 3 RINOs that will lose in the next primary.
+Just to clarify I believe the final bill was released at 11pm last night. The House already voted on it and the Senate will pass it (within 24 hours) with the 3 RINOs that will lose in the next primary.
 
-Will the President wait to sign it?  I think not.
+Will the President wait to sign it? I think not.
 
 </div>
 
@@ -386,7 +394,7 @@ Australia has just passed a 42b stimulus package... we aren't even in recession 
 
 <div class="post" data-post-id="28097" data-author="reboog" data-date="2009-02-14T01:59:43+00:00" data-subject="">
 
-[<LINK_TEXT text="http://www.huffingtonpost.com/2009/02/1 ... 66793.html">http://www.huffingtonpost.com/2009/02/13/houses-passes-stimulus-no_n_166793.html</LINK_TEXT>](http://www.huffingtonpost.com/2009/02/13/houses-passes-stimulus-no_n_166793.html)
+[http://www.huffingtonpost.com/2009/02/13/houses-passes-stimulus-no_n_166793.html](http://www.huffingtonpost.com/2009/02/13/houses-passes-stimulus-no_n_166793.html)
 
 </div>
 
@@ -406,35 +414,36 @@ You be no great anymore.
 
 I find neo-conservative Republicans amusing, when they keep pretending to be progressive centrist voters.
 
-[quote:1g4tmv8s]You know personal liberty, less war, less taxation. Stuff that Democrats don't understand.[/quote:1g4tmv8s]
+> <strong>Quote:</strong>
+> You know personal liberty, less war, less taxation. Stuff that Democrats don't understand.
 
-Republicans have trashed personal liberty over the last 8 years. For sure.  
+Republicans have trashed personal liberty over the last 8 years. For sure. 
 
-Less taxation, perhaps for the wealthy.  I didnt see it in my paychecks.
+Less taxation, perhaps for the wealthy. I didnt see it in my paychecks.
 
-The wealthy got the largest tax breaks from the Bush tax cuts.  
+The wealthy got the largest tax breaks from the Bush tax cuts. 
 
-Less war?  Republicans love war.  They can grease the hands of their buds in Haliburton and Blackwater with no-bid contracts wasting tons of taxpayer money. 
+Less war? Republicans love war. They can grease the hands of their buds in Haliburton and Blackwater with no-bid contracts wasting tons of taxpayer money. 
 
-I guess Republicans dont understand that either.   More like stuff Mike tries to sound off about, just to prove his Republican point of view.  Has nothing to do with issues.  If it were about real issues, Mike would have been speaking up about lots of stuff for the past 8 years.  But instead Mike has been quiet as a mouse until Obama started running for President.  
+I guess Republicans dont understand that either. More like stuff Mike tries to sound off about, just to prove his Republican point of view. Has nothing to do with issues. If it were about real issues, Mike would have been speaking up about lots of stuff for the past 8 years. But instead Mike has been quiet as a mouse until Obama started running for President. 
 
-You voted for Bush before this last election Mike, so you dont fool anyone there with the Ron Paul stuff.  And when Ron Paul was having his convention in Minneapolis, you were sitting online playing sloth that night not contributing.  
+You voted for Bush before this last election Mike, so you dont fool anyone there with the Ron Paul stuff. And when Ron Paul was having his convention in Minneapolis, you were sitting online playing sloth that night not contributing. 
 
-Talk talk talk, no action.  Just a full of complaints Neo-Conservative Republican.
+Talk talk talk, no action. Just a full of complaints Neo-Conservative Republican.
 
 Why is it then every time a Republican leaves office the country is in a recession?
 
-Bush, Bush Sr., and Reagan.  Even Reagan ran the debt up to over 6% of GDP.  Recent Bush ran the debt up to 10% of GDP.  Trickle down economics is a total joke.  It doesnt work.  The wealthy keep the money because they are wealthy.  They dont need to spend it like the middle and lower class do.  
+Bush, Bush Sr., and Reagan. Even Reagan ran the debt up to over 6% of GDP. Recent Bush ran the debt up to 10% of GDP. Trickle down economics is a total joke. It doesnt work. The wealthy keep the money because they are wealthy. They dont need to spend it like the middle and lower class do. 
 
-Bill Clinton Right?  You hate his guts.  Blowjob, disrespect of the oval office.. etc etc.  When he left office we had a budget surplus.  Knucklehead president?  Sure.  But at least he didnt bankrupt the country.  And the Republican leading the charges against him?  Speaker of the house....Newt Gingrich.  And in his own book, he wrote.  A book that NEWT GINGRICH REPUBLICAN wrote he admits to a lengthy affair he was having on his wife at the same time he was running Clinton through the mill for his blowjob.  
+Bill Clinton Right? You hate his guts. Blowjob, disrespect of the oval office.. etc etc. When he left office we had a budget surplus. Knucklehead president? Sure. But at least he didnt bankrupt the country. And the Republican leading the charges against him? Speaker of the house....Newt Gingrich. And in his own book, he wrote. A book that NEWT GINGRICH REPUBLICAN wrote he admits to a lengthy affair he was having on his wife at the same time he was running Clinton through the mill for his blowjob. 
 
-I dont like Democrats or Republicans.  They both generally do bad things given time.  So go yell yourself silly till you turn red in the face, trying to label people things they are not.  But this nonsense of ONLY bashing Democrats is political Rush Limbaugh style BullSh*t.
+I dont like Democrats or Republicans. They both generally do bad things given time. So go yell yourself silly till you turn red in the face, trying to label people things they are not. But this nonsense of ONLY bashing Democrats is political Rush Limbaugh style BullSh\*t.
 
-While I do respond from time to time.  I really still fail to see the necessity of posting policital rants to a text-game website.  You must have no-one else that will listen to you Mike.   Thats sad.  You start far too many of these bash threads. 
+While I do respond from time to time. I really still fail to see the necessity of posting policital rants to a text-game website. You must have no-one else that will listen to you Mike. Thats sad. You start far too many of these bash threads. 
 
-Maybe an admin would like to take note of this thread, and wonder why it might contribute to the decline in voting, player base, and rank for Sloth III.  Who the hell wants to log onto a game or a website with sh+t like this.  People want to game to relax and get away from all this trash.  
+Maybe an admin would like to take note of this thread, and wonder why it might contribute to the decline in voting, player base, and rank for Sloth III. Who the hell wants to log onto a game or a website with sh+t like this. People want to game to relax and get away from all this trash. 
 
-I dont play much anymore, if at all.  Last time I logged on some knucklehead tried to pkill the tank and ruined the group.  Somehow he still has a char.
+I dont play much anymore, if at all. Last time I logged on some knucklehead tried to pkill the tank and ruined the group. Somehow he still has a char.
 
 Good Luck
 
@@ -442,31 +451,32 @@ Good Luck
 
 <div class="post" data-post-id="28102" data-author="Weasel" data-date="2009-02-14T06:25:41+00:00" data-subject="">
 
-I really still fail to see the necessity of posting policital rants to a text-game website. [/quote:3foinv9b]
+> <strong>Mosaix wrote:</strong>
+> I really still fail to see the necessity of posting policital rants to a text-game website.
 
-LOL.. and did you also fail to see the irony in saying that immediately after writing the longest political rant on the thread so far?  
+LOL.. and did you also fail to see the irony in saying that immediately after writing the longest political rant on the thread so far? 
 
- :roll:
+ <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
-.[/color:3foinv9b]
+.
 
 </div>
 
 <div class="post" data-post-id="28105" data-author="Medios" data-date="2009-02-14T14:03:29+00:00" data-subject="">
 
-I guess this means Broc is in favor of a bill that we don't know the contents of?  And he is calling me fascist?  If you think either party gives a damn about you then wake up.  They care about power and control.  You bitch and bitch about Cheney and Haliburton, but have nothing to say about Jeff Immelt and GE.  
+I guess this means Broc is in favor of a bill that we don't know the contents of? And he is calling me fascist? If you think either party gives a damn about you then wake up. They care about power and control. You bitch and bitch about Cheney and Haliburton, but have nothing to say about Jeff Immelt and GE. 
 
-As far as railing on Bush.  You guys did not need any help with that.  Plenty of times in the past I have been critical of Bush.  Over the war, increased government and the attack on civil liberties.
+As far as railing on Bush. You guys did not need any help with that. Plenty of times in the past I have been critical of Bush. Over the war, increased government and the attack on civil liberties.
 
-Trying to correlate lower player base with a few political posts on our message board is an amazing tactic.  You want admin to shut me up?  Just like you want the government to shut up people like Limbaugh.  Look just because you don't agree with someone does not mean you can use government/admin power to shut them up.  There is something called the First Amendment to the Constitution.  Democrats would just love to pass a "fairness doctrine" that applied only to talk radio.  They love freedom of speech when they want to talk about killing babies or taking away guns.  But oh no do not oppose them, or else your mouth will be forcibly clammed.
+Trying to correlate lower player base with a few political posts on our message board is an amazing tactic. You want admin to shut me up? Just like you want the government to shut up people like Limbaugh. Look just because you don't agree with someone does not mean you can use government/admin power to shut them up. There is something called the First Amendment to the Constitution. Democrats would just love to pass a "fairness doctrine" that applied only to talk radio. They love freedom of speech when they want to talk about killing babies or taking away guns. But oh no do not oppose them, or else your mouth will be forcibly clammed.
 
-Broc I have read part of Saul Alinsky's book and I know your tactics.  They are weak at best.
+Broc I have read part of Saul Alinsky's book and I know your tactics. They are weak at best.
 
 </div>
 
 <div class="post" data-post-id="28106" data-author="Medios" data-date="2009-02-14T14:14:54+00:00" data-subject="">
 
-[<LINK_TEXT text="http://www.worldnetdaily.com/index.php? ... geId=88851">http://www.worldnetdaily.com/index.php?fa=PAGE.view&pageId=88851</LINK_TEXT>](http://www.worldnetdaily.com/index.php?fa=PAGE.view&pageId=88851)
+[http://www.worldnetdaily.com/index.php?fa=PAGE.view&pageId=88851](http://www.worldnetdaily.com/index.php?fa=PAGE.view&pageId=88851)
 
 Federal obligations exceed world GDP
 
@@ -478,21 +488,25 @@ The total U.S. obligations, including Social Security and Medicare benefits to b
 
 The real 2008 federal budget deficit was $5.1 trillion, not the $455 billion previously reported by the Congressional Budget Office, according to the "2008 Financial Report of the United States Government" as released by the U.S. Department of Treasury. "
 
-At least black people won't be the only ones complaining about slavery.  We're all going to be slaves to the State.  Our current obligation per person is already over 36,000.  If you take into account the fact that only 50% pay taxes that boosts you up to around 70,000 in tax liability to the federal govt to balance our budgets.  Where will this money come from.  If it is so bad for Republicans to run deficits then why are we starting the first 100 days of the new presidency with the biggest government spending package to date.  Let me guess.  The whole thing was G W Bush's fault right?  He was the last monarch and all.
+At least black people won't be the only ones complaining about slavery. We're all going to be slaves to the State. Our current obligation per person is already over 36,000. If you take into account the fact that only 50% pay taxes that boosts you up to around 70,000 in tax liability to the federal govt to balance our budgets. Where will this money come from. If it is so bad for Republicans to run deficits then why are we starting the first 100 days of the new presidency with the biggest government spending package to date. Let me guess. The whole thing was G W Bush's fault right? He was the last monarch and all.
 
 </div>
 
 <div class="post" data-post-id="28107" data-author="*juggleblood*" data-date="2009-02-14T14:28:59+00:00" data-subject="">
 
-I really still fail to see the necessity of posting policital rants to a text-game website. [/quote:23aflfnk]
+> <strong>Weasel wrote:</strong>
+> > <strong>Mosaix wrote:</strong>
+> > I really still fail to see the necessity of posting policital rants to a text-game website.
+> 
+> 
+> 
+> LOL.. and did you also fail to see the irony in saying that immediately after writing the longest political rant on the thread so far? 
+> 
+> <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
+> 
+> .
 
-LOL.. and did you also fail to see the irony in saying that immediately after writing the longest political rant on the thread so far?  
-
- :roll:
-
-.[/color:23aflfnk][/quote:23aflfnk]
-
-I don't really see the harm. We're a group of friends who've been hanging out here for over a decade? :)
+I don't really see the harm. We're a group of friends who've been hanging out here for over a decade? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 My 2 cents is that the economic stimulus plan is no the right track. We have to create employment and get demand for goods and services back up. We have to get these empty houses off the market and back onto the tax rolls. We have to reduce energy consumption by improving efficiency.
 
@@ -504,7 +518,7 @@ Whats funny to me is that the right is placing the blame on the left. Whatever.
 
 <div class="post" data-post-id="28109" data-author="Medios" data-date="2009-02-14T17:16:41+00:00" data-subject="">
 
-I am placing the blame on both of them.  What is the point in creating a few jobs when your going to make the other 95% of people pay twice as much for goods.  Inflation really hurts the poor and old people on fixed incomes.  I thought we were trying to help these people.  So we are going to create government run programs to help people and we are directly taking half their money through inflation.  Who benefits other than government?
+I am placing the blame on both of them. What is the point in creating a few jobs when your going to make the other 95% of people pay twice as much for goods. Inflation really hurts the poor and old people on fixed incomes. I thought we were trying to help these people. So we are going to create government run programs to help people and we are directly taking half their money through inflation. Who benefits other than government?
 
 </div>
 
@@ -518,19 +532,20 @@ I know you hate that idea because its socialist, but what else you gonna do, ask
 
 <div class="post" data-post-id="28115" data-author="Medios" data-date="2009-02-15T01:20:23+00:00" data-subject="">
 
-The money gets spent and the stuff gets built.  Then when the money and jobs are over the inflation is still present.  You can't raise minimum wage fast enough to keep up.  
+The money gets spent and the stuff gets built. Then when the money and jobs are over the inflation is still present. You can't raise minimum wage fast enough to keep up. 
 
-Clue:  Zimbabwe
+Clue: Zimbabwe
 
 </div>
 
 <div class="post" data-post-id="28117" data-author="Yasik2" data-date="2009-02-15T01:56:57+00:00" data-subject="">
 
-So we are going to create government run programs to help people and we are directly taking half their money through inflation.[/quote:1cje1ycd]
+> <strong>Medios wrote:</strong>
+> So we are going to create government run programs to help people and we are directly taking half their money through inflation.
 
-The Guardian magazine thinks that's what exactly has been done during Clinton's and Bush's presidency: to help poor people get their own homes, so banks carelessly started to give a low % credits to "poor ppl", but the poor ppl *suddenly* appeared to be unable to return not only the %'s, but even the initial credit. Why? That's rhitorical. [u:1cje1ycd]They are poor for a reason.[/u:1cje1ycd]
+The Guardian magazine thinks that's what exactly has been done during Clinton's and Bush's presidency: to help poor people get their own homes, so banks carelessly started to give a low % credits to "poor ppl", but the poor ppl \*suddenly\* appeared to be unable to return not only the %'s, but even the initial credit. Why? That's rhitorical. They are poor for a reason.
 
-Then, the world financial system collapsed, but those who started it didn't suffered the loss what they must've been thanks to re-finance programs etc. The ones who actually lost was the people who deserved it the less - me, for example. In almost 2 months my savings was cut [u:1cje1ycd]in half[/u:1cje1ycd], thankfully i'm unreplacable at work so i wasn't fired. Still, i must wave my hand goodbye to the Cisco Academy i was aiming at this spring, not saying that everything got as twice as expencive compared to before the crysis, so my future is kinda blurred atm. But it's OK, i'm glad your [u:1cje1ycd]lazy unsmart uneducated naggers[/u:1cje1ycd] have their own homes now to hide crack, dance hip-hop and play basketball and breed their own kind w/o any contribution to the civilization. 
+Then, the world financial system collapsed, but those who started it didn't suffered the loss what they must've been thanks to re-finance programs etc. The ones who actually lost was the people who deserved it the less - me, for example. In almost 2 months my savings was cut in half, thankfully i'm unreplacable at work so i wasn't fired. Still, i must wave my hand goodbye to the Cisco Academy i was aiming at this spring, not saying that everything got as twice as expencive compared to before the crysis, so my future is kinda blurred atm. But it's OK, i'm glad your lazy unsmart uneducated naggers have their own homes now to hide crack, dance hip-hop and play basketball and breed their own kind w/o any contribution to the civilization. 
 
 You want to start it over again? Thank you very much. Think about why all the world hates you.
 
@@ -538,7 +553,7 @@ You want to start it over again? Thank you very much. Think about why all the wo
 
 <div class="post" data-post-id="28122" data-author="jezer" data-date="2009-02-15T02:07:24+00:00" data-subject="">
 
-This thread is a cesspool... and I am trolling...  :twisted: Thanks for stopping by. Have a nice day.
+This thread is a cesspool... and I am trolling... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> Thanks for stopping by. Have a nice day.
 
 </div>
 
@@ -552,21 +567,21 @@ As The Pope said, it's the Greed who cause all this crap.
 
 <div class="post" data-post-id="28126" data-author="jezer" data-date="2009-02-15T02:20:09+00:00" data-subject="">
 
-[img:cqjlsuyb]http://i92.photobucket.com/albums/l30/AbsinthMonster/rock1.jpg[/img:cqjlsuyb]
+![](http://i92.photobucket.com/albums/l30/AbsinthMonster/rock1.jpg)
 
 </div>
 
 <div class="post" data-post-id="28127" data-author="Yasik2" data-date="2009-02-15T02:24:18+00:00" data-subject="">
 
-Just exactly as I expected...  :D
+Just exactly as I expected... <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="28139" data-author="Leaf" data-date="2009-02-15T23:16:44+00:00" data-subject="">
 
-I believe this is what Mikey was lookin for.  Whats in this stimulus?
+I believe this is what Mikey was lookin for. Whats in this stimulus?
 
-[<LINK_TEXT text="http://news.yahoo.com/s/ap/20090214/ap_ ... _gets_what">http://news.yahoo.com/s/ap/20090214/ap_on_go_co/stimulus_stakes_who_gets_what</LINK_TEXT>](http://news.yahoo.com/s/ap/20090214/ap_on_go_co/stimulus_stakes_who_gets_what)
+[http://news.yahoo.com/s/ap/20090214/ap_on_go_co/stimulus_stakes_who_gets_what](http://news.yahoo.com/s/ap/20090214/ap_on_go_co/stimulus_stakes_who_gets_what)
 
 </div>
 
@@ -578,11 +593,11 @@ Sorry..how is 300 million dollars allocated to an exhibit out west help someone 
 
 <div class="post" data-post-id="28151" data-author="reboog" data-date="2009-02-17T06:24:14+00:00" data-subject="">
 
-Obama is a SOCIALIST.  I hope you guys are happy that you got your pinko commie nation!
+Obama is a SOCIALIST. I hope you guys are happy that you got your pinko commie nation!
 
-This stimulus bill is loaded with pork.  What did you expect from a president who followed a anarchist who hated America?!
+This stimulus bill is loaded with pork. What did you expect from a president who followed a anarchist who hated America?!
 
-He is stealing money from right out of your pockets, and everyone is letting him.  I bet Monica Lewinski is sucking him off too, cuz she has a thing for communist pinkos.
+He is stealing money from right out of your pockets, and everyone is letting him. I bet Monica Lewinski is sucking him off too, cuz she has a thing for communist pinkos.
 
 America deserves what it's got coming.
 
@@ -596,25 +611,27 @@ ps we are in DEFLATION, NOT INFLATION
 
 <div class="post" data-post-id="28154" data-author="Yasik2" data-date="2009-02-17T10:05:12+00:00" data-subject="">
 
-ps we are in DEFLATION, NOT INFLATION[/quote:1tijkk5j]
+> <strong>reboog wrote:</strong>
+> ps we are in DEFLATION, NOT INFLATION
 
-[img:1tijkk5j]http://yasik.kiev.ua/4chan/All_my_base_belong_to_you.gif[/img:1tijkk5j]
+![](http://yasik.kiev.ua/4chan/All_my_base_belong_to_you.gif)
 
 </div>
 
 <div class="post" data-post-id="28157" data-author="Sheng" data-date="2009-02-17T17:29:28+00:00" data-subject="">
 
-I'm not excited about our new socialist majority.  I'm a taxpaying US citizen and it upsets me that Obama and his party want to redistribute my (very limited) wealth.  I'm a conservative, not a Republican -- and I think the country would be in a lot better shape right now if we'd had any conservative leadership since before Bill Clinton.
+I'm not excited about our new socialist majority. I'm a taxpaying US citizen and it upsets me that Obama and his party want to redistribute my (very limited) wealth. I'm a conservative, not a Republican -- and I think the country would be in a lot better shape right now if we'd had any conservative leadership since before Bill Clinton.
 
-As my taxes increase though, it will become increasingly difficult to break even without taking advantage of stupid government programs.  Congress just decided to hand me an $8000 check this year because I did my 'civic duty' and bought a house for the first time.
+As my taxes increase though, it will become increasingly difficult to break even without taking advantage of stupid government programs. Congress just decided to hand me an $8000 check this year because I did my 'civic duty' and bought a house for the first time.
 
-Stupid, stupid, stupid.  I would have bought the house anyways -- without a 'stimulus' and without giving my children an extra  2 trillion dollars in debt to pay off.  But I'll take the money, because I'm going to need it to pay my taxes when they go up next year and my salary doesn't.
+Stupid, stupid, stupid. I would have bought the house anyways -- without a 'stimulus' and without giving my children an extra 2 trillion dollars in debt to pay off. But I'll take the money, because I'm going to need it to pay my taxes when they go up next year and my salary doesn't.
 
 </div>
 
 <div class="post" data-post-id="28159" data-author="*juggleblood*" data-date="2009-02-17T22:32:35+00:00" data-subject="">
 
-ps we are in DEFLATION, NOT INFLATION[/quote:d77wykia]
+> <strong>reboog wrote:</strong>
+> ps we are in DEFLATION, NOT INFLATION
 
 True true, but I can't imagine it will be long b4 inflation hits. I just don't see how they can print money and spend it without causing inflation.
 
@@ -622,7 +639,7 @@ True true, but I can't imagine it will be long b4 inflation hits. I just don't s
 
 <div class="post" data-post-id="28164" data-author="Tap" data-date="2009-02-17T23:41:39+00:00" data-subject="">
 
-Right now..most [working]people pay between 33 and 42% of their salary in taxes..by 2012/2013 it will be around 60-70%.  Hopefully by 2011 people will realize and revolt.
+Right now..most [working]people pay between 33 and 42% of their salary in taxes..by 2012/2013 it will be around 60-70%. Hopefully by 2011 people will realize and revolt.
 
 Have a nice day.
 
@@ -630,57 +647,60 @@ Have a nice day.
 
 <div class="post" data-post-id="28165" data-author="jezer" data-date="2009-02-18T00:09:54+00:00" data-subject="">
 
-[img:36if5nr6]http://www.boom2bust.com/wp-content/uploads/2008/07/stimulus-package.jpg[/img:36if5nr6]
+![](http://www.boom2bust.com/wp-content/uploads/2008/07/stimulus-package.jpg)
 
 </div>
 
 <div class="post" data-post-id="28166" data-author="Leaf" data-date="2009-02-18T01:00:34+00:00" data-subject="">
 
-As my taxes increase though, it will become increasingly difficult to break even without taking advantage of stupid government programs.  Congress just decided to hand me an $8000 check this year because I did my 'civic duty' and bought a house for the first time.
+> <strong>Sheng wrote:</strong>
+> As my taxes increase though, it will become increasingly difficult to break even without taking advantage of stupid government programs. Congress just decided to hand me an $8000 check this year because I did my 'civic duty' and bought a house for the first time.
+> 
+> 
+> 
+> Stupid, stupid, stupid. I would have bought the house anyways -- without a 'stimulus' and without giving my children an extra 2 trillion dollars in debt to pay off. But I'll take the money, because I'm going to need it to pay my taxes when they go up next year and my salary doesn't.
 
-Stupid, stupid, stupid.  I would have bought the house anyways -- without a 'stimulus' and without giving my children an extra  2 trillion dollars in debt to pay off.  But I'll take the money, because I'm going to need it to pay my taxes when they go up next year and my salary doesn't.[/quote:1tm96iqz]
+I could be wrong, but the gov will give u $8k. However its not "free" money.
 
-I could be wrong, but the gov will give u $8k.  However its not "free" money.
-
-Every yr when u do ur taxes, you will receive ~$500 less.  If u sell the
+Every yr when u do ur taxes, you will receive \~$500 less. If u sell the
 
 house, then u would pay back the amount minus the yrs u been there.
 
-So ppl who lives there for several yrs it will "pay" itself out.  
+So ppl who lives there for several yrs it will "pay" itself out. 
 
 I brought a house a couple of yrs ago, and my uncle is a CPA didn't sign
 
-me up for a "First time home buyer".  His reason was because I didn't need
+me up for a "First time home buyer". His reason was because I didn't need
 
-the money that bad, and since I'm only planning to live here for 5yrs.  There
+the money that bad, and since I'm only planning to live here for 5yrs. There
 
-wouldn't be much of a point, because when I sell the house.  I would need
+wouldn't be much of a point, because when I sell the house. I would need
 
-to pay back ~$4.5k.  Better to not have spent something if you don't know
+to pay back \~$4.5k. Better to not have spent something if you don't know
 
-u have it.  Or something like that... :)
+u have it. Or something like that... <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="28167" data-author="reboog" data-date="2009-02-18T02:26:28+00:00" data-subject="">
 
-[quote:1wu0i75x]I could be wrong, but the gov will give u $8k.  However its not "free" money.
+> <strong>Quote:</strong>
+> I could be wrong, but the gov will give u $8k. However its not "free" money.
+> 
+> Every yr when u do ur taxes, you will receive \~$500 less.
 
-Every yr when u do ur taxes, you will receive ~$500 less. [/quote:1wu0i75x]
-
-You are correct.  They are giving you cash back, but increasing marginal tax rates (this means more of your income will go to Uncle Sam, and you are not really getting any cash back at all in the long term)
+You are correct. They are giving you cash back, but increasing marginal tax rates (this means more of your income will go to Uncle Sam, and you are not really getting any cash back at all in the long term)
 
 </div>
 
 <div class="post" data-post-id="28168" data-author="reboog" data-date="2009-02-18T02:31:37+00:00" data-subject="">
 
-[quote:3onohg28]
+> <strong>Quote:</strong>
+> True true, but I can't imagine it will be long b4 inflation hits. I just don't see how they can print money and spend it without causing inflation.
 
-True true, but I can't imagine it will be long b4 inflation hits. I just don't see how they can print money and spend it without causing inflation.[/quote:3onohg28]
+If you are referring to the stimulus, then maybe. It is not "timely, targeted, and temporary" as Larry Summers is so famous for saying. The money is going to be spent slowly, and I'm not convinced that this is going to stop deflation. If it does, it will simply reverse when the government cannot find any more holes to dig and holes to fill and infrastructure ends.
 
-If you are referring to the stimulus, then maybe.  It is not "timely, targeted, and temporary" as Larry Summers is so famous for saying.  The money is going to be spent slowly, and I'm not convinced that this is going to stop deflation.  If it does, it will simply reverse when the government cannot find any more holes to dig and holes to fill and infrastructure ends.
-
-If you are speaking of the bailout money (we inflated the currency in 4 months what it would normally take us years to reach), that does not have any effect on the value of the dollar.  Bonus points: why?
+If you are speaking of the bailout money (we inflated the currency in 4 months what it would normally take us years to reach), that does not have any effect on the value of the dollar. Bonus points: why?
 
 </div>
 
@@ -692,13 +712,13 @@ I am not a financial expert, but I would guess it's because the banks are deleve
 
 <div class="post" data-post-id="28170" data-author="jezer" data-date="2009-02-18T04:16:26+00:00" data-subject="">
 
-[img:1dg8unrs]http://www.sceneherd.com/images/timelife2.jpg[/img:1dg8unrs]
+![](http://www.sceneherd.com/images/timelife2.jpg)
 
 This infomercial was brought to you by timelife. We now return you to your hosts goober and boogle for there breakdown of the global economic crisis.
 
 Back to you in the studio...
 
-[img:1dg8unrs]http://www.traeblain.com/wp-content/uploads/2008/08/nerds.jpg[/img:1dg8unrs]
+![](http://www.traeblain.com/wp-content/uploads/2008/08/nerds.jpg)
 
 </div>
 
@@ -706,19 +726,19 @@ Back to you in the studio...
 
 Poggle: you left out the words "very" and "severe."
 
-The financial sector is deleveraging at a huge rate, no credit is coming out, so no one is spending.  Nobody would anyway, because debt accumulated is so high that they would save to try to cover that.
+The financial sector is deleveraging at a huge rate, no credit is coming out, so no one is spending. Nobody would anyway, because debt accumulated is so high that they would save to try to cover that.
 
-Juggleblood: I read some of your posts earlier about how the stimulus bill is on the right track.  I think the idea of the stimulus bill is comforting, but both the idea and the execution are flawed.  I'm posting this to you because you are not a racist like Yasik and not a partisan hack like Weasel.
+Juggleblood: I read some of your posts earlier about how the stimulus bill is on the right track. I think the idea of the stimulus bill is comforting, but both the idea and the execution are flawed. I'm posting this to you because you are not a racist like Yasik and not a partisan hack like Weasel.
 
-I'm not going to touch into this, but the stimulus bill is part tax cut (but not really tax cut, I explained a post earlier), part stimulus to be spent slowly on infrastructure, and part... investment!?  This is bad.
+I'm not going to touch into this, but the stimulus bill is part tax cut (but not really tax cut, I explained a post earlier), part stimulus to be spent slowly on infrastructure, and part... investment!? This is bad.
 
-When the government invests, you have to ask what both the benefits and the costs are.  It crowds out private sector.  It increases deficit.
+When the government invests, you have to ask what both the benefits and the costs are. It crowds out private sector. It increases deficit.
 
-How do you offset this?  Well, maybe government is more efficient than private sector.  Maybe the money we get back is more than we put in (Keynes' idea of a multiplier... you put in $1.00, you get back $1.50 of output.)  These are pretty easy to consider.
+How do you offset this? Well, maybe government is more efficient than private sector. Maybe the money we get back is more than we put in (Keynes' idea of a multiplier... you put in $1.00, you get back $1.50 of output.) These are pretty easy to consider.
 
-So... is government spending efficient?  I think they have proved that the answer is no.  700 billion TARP (REPEATED financial bailouts, about to repeat an auto industry bailout), moratorium on foreclosures, loan modifications (homeowner re-default rate is high, as expected).  
+So... is government spending efficient? I think they have proved that the answer is no. 700 billion TARP (REPEATED financial bailouts, about to repeat an auto industry bailout), moratorium on foreclosures, loan modifications (homeowner re-default rate is high, as expected). 
 
-Is the multiplier good?  Planned production by government has rarely (if ever, I don't know), proved to be good.  Billions in subsidies are going into cellulosic ethanol, an alternative green fuel source.  These research firms are a financial black hole, and they are nowhere to solving the problem, even with billions of free (taxpayer) dollars from Congress.  Japan also suffered from planned production, and there was something here domestically about investment in DRAM.  I don't know the specifics, but I know that they didn't work.
+Is the multiplier good? Planned production by government has rarely (if ever, I don't know), proved to be good. Billions in subsidies are going into cellulosic ethanol, an alternative green fuel source. These research firms are a financial black hole, and they are nowhere to solving the problem, even with billions of free (taxpayer) dollars from Congress. Japan also suffered from planned production, and there was something here domestically about investment in DRAM. I don't know the specifics, but I know that they didn't work.
 
 If you assume that government spending is efficient, and that it is better than private sector, then yes, the stimulus... I mean, investment, is good.
 
@@ -728,9 +748,10 @@ I fear this post is getting too long for people to read, so I'll stop here.
 
 <div class="post" data-post-id="28177" data-author="jezer" data-date="2009-02-18T09:52:40+00:00" data-subject="">
 
-Juggleblood: I read some of your posts earlier about how the stimulus bill is on the right track.  I think the idea of the stimulus bill is comforting, but both the idea and the execution are flawed.  I'm posting this to you because you are not a racist like Yasik and not a partisan hack like Weasel.[/quote:c4ilvih7]
+> <strong>reboog wrote:</strong>
+> Juggleblood: I read some of your posts earlier about how the stimulus bill is on the right track. I think the idea of the stimulus bill is comforting, but both the idea and the execution are flawed. I'm posting this to you because you are not a racist like Yasik and not a partisan hack like Weasel.
 
-I didn't get a mention.  :evil:
+I didn't get a mention. <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -738,17 +759,17 @@ I didn't get a mention.  :evil:
 
 On the infrastructure part (ala FDR):
 
-Here are some questions.  We had a housing bubble.  Oversupply of construction workers.  We are sending them back to work.  Is that really what we want, a continuation of construction? How are we going to ensure that all these dollars help the currently unemployed, and not currently employed?  (7% unemployment means 93% employment.)  Also, half of wall street is laid off.  How does this create new jobs for them?
+Here are some questions. We had a housing bubble. Oversupply of construction workers. We are sending them back to work. Is that really what we want, a continuation of construction? How are we going to ensure that all these dollars help the currently unemployed, and not currently employed? (7% unemployment means 93% employment.) Also, half of wall street is laid off. How does this create new jobs for them?
 
 When the holes are dug and filled, what jobs are they going to do?
 
-Is getting 100% employment the ideal goal?  I can achieve 100% employment.  Get rid of machinery.  Hire manual labor.  Is this good?
+Is getting 100% employment the ideal goal? I can achieve 100% employment. Get rid of machinery. Hire manual labor. Is this good?
 
 </div>
 
 <div class="post" data-post-id="28180" data-author="Medios" data-date="2009-02-18T12:38:54+00:00" data-subject="">
 
-I am proud to see this thread turn into a serious debate.  I will add more after work.  It is good to have real discussions and not mud slinging.
+I am proud to see this thread turn into a serious debate. I will add more after work. It is good to have real discussions and not mud slinging.
 
 </div>
 
@@ -766,11 +787,12 @@ I don't know that the free market model is even the paradigm of success anymore.
 
 <div class="post" data-post-id="28182" data-author="Weasel" data-date="2009-02-18T15:46:03+00:00" data-subject="">
 
-I'm posting this to you because you are not a racist like Yasik and not a partisan hack like Weasel.[/quote:1eoxk0u7]
+> <strong>reboog wrote:</strong>
+> I'm posting this to you because you are not a racist like Yasik and not a partisan hack like Weasel.
 
 LOL.. always the same. Because I didn't support Obama, I must be a partisan hack. Do you know what that statement makes you? A partisan hack. Ironic isn't it.
 
-.[/color:1eoxk0u7]
+.
 
 </div>
 
@@ -798,13 +820,14 @@ Eventually the banks will leverage up again, which might be a crazy crazy time.
 
 Juggleblood: Poggle described leveraging.
 
-Tap is (probably) making up numbers.  Tap, if you work in finance and know that this is what's going to happen, I apologize.  You probably know more about the crisis than I do, then.  But what I described about the tax rebate + marginal tax rate increase is true.  It's written in the bill.
+Tap is (probably) making up numbers. Tap, if you work in finance and know that this is what's going to happen, I apologize. You probably know more about the crisis than I do, then. But what I described about the tax rebate + marginal tax rate increase is true. It's written in the bill.
 
 I've argued why I think the investment part of the stimulus bill (lol) is stupid, and why the tax cut is non-existent, so the only question that remains is whether or not the actual stimulus part of the stimulus is good.
 
 It's directly tied to the questions I posed in the last post.
 
-[quote:28mqsfeu]LOL.. always the same. Because I didn't support Obama, I must be a partisan hack. Do you know what that statement makes you? A partisan hack. Ironic isn't it. [/quote:28mqsfeu]
+> <strong>Quote:</strong>
+> LOL.. always the same. Because I didn't support Obama, I must be a partisan hack. Do you know what that statement makes you? A partisan hack. Ironic isn't it.
 
 Weasel: [http://en.wikipedia.org/wiki/Straw_man](http://en.wikipedia.org/wiki/Straw_man)
 
@@ -812,9 +835,8 @@ Weasel: [http://en.wikipedia.org/wiki/Straw_man](http://en.wikipedia.org/wiki/St
 
 <div class="post" data-post-id="28186" data-author="reboog" data-date="2009-02-18T18:27:36+00:00" data-subject="">
 
-But what do they do with their bailouts? Sit on it, pretty much. Pay off their debts. And it makes sense. They don't want to repeat themselves by making a bunch more shitty loans. 
-
-[/quote:3s1q2n11]
+> <strong>Poggle wrote:</strong>
+> But what do they do with their bailouts? Sit on it, pretty much. Pay off their debts. And it makes sense. They don't want to repeat themselves by making a bunch more shitty loans.
 
 We would also have accepted "pay themselves bonuses," "implode their balance sheets to ask for more bailouts," and "continue acting irresponsibly because the government has shown that they will bail us out."
 
@@ -822,37 +844,52 @@ We would also have accepted "pay themselves bonuses," "implode their balance she
 
 <div class="post" data-post-id="28188" data-author="Weasel" data-date="2009-02-18T19:07:39+00:00" data-subject="">
 
-[quote:3uun4568]LOL.. always the same. Because I didn't support Obama, I must be a partisan hack. Do you know what that statement makes you? A partisan hack. Ironic isn't it. [/quote:3uun4568]
+> <strong>reboog wrote:</strong>
+> > <strong>Quote:</strong>
+> > LOL.. always the same. Because I didn't support Obama, I must be a partisan hack. Do you know what that statement makes you? A partisan hack. Ironic isn't it.
+> 
+> 
+> 
+> Weasel: [http://en.wikipedia.org/wiki/Straw_man](http://en.wikipedia.org/wiki/Straw_man)
 
-Weasel: [http://en.wikipedia.org/wiki/Straw_man](http://en.wikipedia.org/wiki/Straw_man)[/quote:3uun4568]
+LOL.. you <em>do</em> realize you just did it yourself, don't you?
 
-LOL.. you [i:3uun4568]do[/i:3uun4568] realize you just did it yourself, don't you?
-
-.[/color:3uun4568]
+.
 
 </div>
 
 <div class="post" data-post-id="28189" data-author="reboog" data-date="2009-02-18T19:28:53+00:00" data-subject="">
 
-I don't know that the free market model is even the paradigm of success anymore. The countries that are expanding the fastest have centralized control over the economy and poor regulation is exactly what got us in this mess to begin with.[/quote:34ya7f3z]
+> <strong>juggleblood wrote:</strong>
+> I don't know that the free market model is even the paradigm of success anymore. The countries that are expanding the fastest have centralized control over the economy and poor regulation is exactly what got us in this mess to begin with.
 
-I'm not sure what countries you're talking about.  China is extremely capitalist, even if they don't want to admit it.
+I'm not sure what countries you're talking about. China is extremely capitalist, even if they don't want to admit it.
 
-No country is healthy now economically.  The Euro is crashing, Europe's banks are insolvent, US's banks are insolvent, Japan is spiraling into depression, and China is directly pegged to the US.
+No country is healthy now economically. The Euro is crashing, Europe's banks are insolvent, US's banks are insolvent, Japan is spiraling into depression, and China is directly pegged to the US.
 
-Also, communism/fascism doesn't work.  Despite all the failures of free market, the alternatives are worse.
+Also, communism/fascism doesn't work. Despite all the failures of free market, the alternatives are worse.
 
 </div>
 
 <div class="post" data-post-id="28190" data-author="Medios" data-date="2009-02-18T21:33:07+00:00" data-subject="">
 
-I don't know that the free market model is even the paradigm of success anymore. The countries that are expanding the fastest have centralized control over the economy and poor regulation is exactly what got us in this mess to begin with.[/quote:2r9ag6ue]
-
-I'm not sure what countries you're talking about.  China is extremely capitalist, even if they don't want to admit it.
-
-No country is healthy now economically.  The Euro is crashing, Europe's banks are insolvent, US's banks are insolvent, Japan is spiraling into depression, and China is directly pegged to the US.
-
-Also, communism/fascism doesn't work.  Despite all the failures of free market, the alternatives are worse.[/quote:2r9ag6ue]
+> <strong>reboog wrote:</strong>
+> > <strong>juggleblood wrote:</strong>
+> > I don't know that the free market model is even the paradigm of success anymore. The countries that are expanding the fastest have centralized control over the economy and poor regulation is exactly what got us in this mess to begin with.
+> 
+> 
+> 
+> 
+> 
+> I'm not sure what countries you're talking about. China is extremely capitalist, even if they don't want to admit it.
+> 
+> 
+> 
+> No country is healthy now economically. The Euro is crashing, Europe's banks are insolvent, US's banks are insolvent, Japan is spiraling into depression, and China is directly pegged to the US.
+> 
+> 
+> 
+> Also, communism/fascism doesn't work. Despite all the failures of free market, the alternatives are worse.
 
 Rep
 
@@ -864,23 +901,25 @@ The 'capitalist' nature of China is debatable given that 90 percent of investmen
 
 To me, it seemed the neoconservatives (Republicans) were pushing classical economic theory, the idea that markets regulate themselves. I think this was/is an outdated notion and we're seeing a return to Keynesian economics which operates from the premise that hat private sector decisions sometimes lead to inefficient macroeconomic outcomes. 
 
-This is why we're seeing such an emphasis on stimulating demand.  The Republicans are holding their ground and saying that we should just continue cutting taxes because taxes are holding back the potential of the free market. Personally I think they're doing it for political reasons, not because they still believe in outdated economic models.
+This is why we're seeing such an emphasis on stimulating demand. The Republicans are holding their ground and saying that we should just continue cutting taxes because taxes are holding back the potential of the free market. Personally I think they're doing it for political reasons, not because they still believe in outdated economic models.
 
 </div>
 
 <div class="post" data-post-id="28192" data-author="reboog" data-date="2009-02-18T22:48:03+00:00" data-subject="">
 
-I don't know enough about China to reply, only that I've heard that they are probably the most capitalist nation in the world.  If I have time, I can try to substantiate some of those claims.
+I don't know enough about China to reply, only that I've heard that they are probably the most capitalist nation in the world. If I have time, I can try to substantiate some of those claims.
 
-I don't like to drag politics into this.  Republicans always talk about tax cuts.  I don't know what the democratic panacea is, but I suspect it's equally based on belief and political ideology and not on fact.  People in politics just stick to what their party says and worry about being popular, not about doing what's right.
+I don't like to drag politics into this. Republicans always talk about tax cuts. I don't know what the democratic panacea is, but I suspect it's equally based on belief and political ideology and not on fact. People in politics just stick to what their party says and worry about being popular, not about doing what's right.
 
-[quote:nz74erdl]To me, it seemed the neoconservatives (Republicans) were pushing classical economic theory, the idea that markets regulate themselves. I think this was/is an outdated notion and we're seeing a return to Keynesian economics which operates from the premise that hat private sector decisions sometimes lead to inefficient macroeconomic outcomes. [/quote:nz74erdl]
+> <strong>Quote:</strong>
+> To me, it seemed the neoconservatives (Republicans) were pushing classical economic theory, the idea that markets regulate themselves. I think this was/is an outdated notion and we're seeing a return to Keynesian economics which operates from the premise that hat private sector decisions sometimes lead to inefficient macroeconomic outcomes.
 
-Now this is a very interesting point.  The trigger of the whole crisis was mortgages and their securitization.  Government actually had a huge part in this, in promoting home ownership (subprime and alt-A) and lowering interest rates.  In a healthy, non government interfered mortgage market, subprime and alt-A should never have left the ground.  This topic is huge and should probably be dedicated in another post.
+Now this is a very interesting point. The trigger of the whole crisis was mortgages and their securitization. Government actually had a huge part in this, in promoting home ownership (subprime and alt-A) and lowering interest rates. In a healthy, non government interfered mortgage market, subprime and alt-A should never have left the ground. This topic is huge and should probably be dedicated in another post.
 
-About the Keynesian part, you still have to answer those questions I posed. :)
+About the Keynesian part, you still have to answer those questions I posed. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-[quote:nz74erdl]This is why we're seeing such an emphasis on stimulating demand. The Republicans are holding their ground and saying that we should just continue cutting taxes because taxes are holding back the potential of the free market. Personally I think they're doing it for political reasons, not because they still believe in outdated economic models.[/quote:nz74erdl]
+> <strong>Quote:</strong>
+> This is why we're seeing such an emphasis on stimulating demand. The Republicans are holding their ground and saying that we should just continue cutting taxes because taxes are holding back the potential of the free market. Personally I think they're doing it for political reasons, not because they still believe in outdated economic models.
 
 I agree.
 
@@ -934,7 +973,7 @@ Australian Film Industry: Two New Zealand cows star in an award-winning film. Th
 
 Art: You hire two cows to model nude. You paint a triangle and do an interpretave dance.
 
-[url:nubpsg62]http://everything2.com/e2node/Two%2520cow%2520economics[/url:nubpsg62]
+http://everything2.com/e2node/Two%2520cow%2520economics
 
 </div>
 
@@ -968,7 +1007,7 @@ Reboogism - You have 2 cattle. Cattle: Good nick length.
 
 <div class="post" data-post-id="28195" data-author="Tap" data-date="2009-02-18T23:35:50+00:00" data-subject="">
 
-I'm not in finance at all. What i've stated is only speculation . I would only state to  look into such matters for yourself and try to sort truth from hype. I actually thought China was more like North Korea. But I see that it is not.
+I'm not in finance at all. What i've stated is only speculation . I would only state to look into such matters for yourself and try to sort truth from hype. I actually thought China was more like North Korea. But I see that it is not.
 
 Not something that I've said negative about it so I don't know how I even got on that train of thought. Someone posted earlier that Republican's didn't really care about tax cuts and that they were only taking that stance for political reasons aka votes. That's probably true, however look at the people who are casting their votes for them. It's the same people that don't want to pay more and more taxes for wasteful spending. It's the double standard that the government does that is finally catching up to them. They can NOT pay you your tax refund but you try not to pay them taxes..you'll go to jail. They tell you you are wasting energy and fuel..then fly around the country in private jets and preach about global warming in 30 degree weather. It's the same reason Osama, yes OSAMA, wants to clamp down on talk radio...they hate when issues are broadcast and politicians exposed. America is quickly becoming Cuba. Or trying too...I firmly believe that something is going to make the straw break the camels back and bring this all to head. And it's sooner than later I'm afraid.
 
@@ -978,17 +1017,17 @@ Jezerism - You have two cows but you don't realize it because no one told you.
 
 <div class="post" data-post-id="28196" data-author="jezer" data-date="2009-02-18T23:42:49+00:00" data-subject="">
 
-Little disappointed about Jezerism there Tap, I expected a little more impact.  :evil:
+Little disappointed about Jezerism there Tap, I expected a little more impact. <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="28197" data-author="reboog" data-date="2009-02-18T23:54:02+00:00" data-subject="">
 
-Juggleblood:  I did a search for china capitalism and this is what I got.
+Juggleblood: I did a search for china capitalism and this is what I got.
 
-[<LINK_TEXT text="http://online.wsj.com/public/article/SB ... 70423.html">http://online.wsj.com/public/article/SB117673497322471299-n8ITJ4fSumSS90MHLNNK4x3W_BQ_20070423.html</LINK_TEXT>](http://online.wsj.com/public/article/SB117673497322471299-n8ITJ4fSumSS90MHLNNK4x3W_BQ_20070423.html)
+[http://online.wsj.com/public/article/SB117673497322471299-n8ITJ4fSumSS90MHLNNK4x3W_BQ_20070423.html](http://online.wsj.com/public/article/SB117673497322471299-n8ITJ4fSumSS90MHLNNK4x3W_BQ_20070423.html)
 
-Wall Street Journal is a reputable source.  I haven't read any articles past the first one yet.
+Wall Street Journal is a reputable source. I haven't read any articles past the first one yet.
 
 </div>
 
@@ -996,23 +1035,23 @@ Wall Street Journal is a reputable source.  I haven't read any articles past the
 
 Actually i read some where that China is hurtting right now with the US.
 
-Since US owns China 1.7 trillion dollars on borrowed funds already.  But
+Since US owns China 1.7 trillion dollars on borrowed funds already. But
 
-thats not the reason why China is hurtting.  Look at everything that you 
+thats not the reason why China is hurtting. Look at everything that you 
 
-own.  I bet 75% of them were made in China.  If the USA ppl r not buying,
+own. I bet 75% of them were made in China. If the USA ppl r not buying,
 
-then China doesn't need to "make" more products.  So currently they have
+then China doesn't need to "make" more products. So currently they have
 
 millions of unemployeed ppl too.
 
-I also wanted to add this link.  I'm sure A LOT of ppl have saw this video.
+I also wanted to add this link. I'm sure A LOT of ppl have saw this video.
 
-But if not, watch it.  Its about 8mins long.  But alot of this story makes
+But if not, watch it. Its about 8mins long. But alot of this story makes
 
-sense....  
+sense.... 
 
-[<LINK_TEXT text="http://video.google.com/videoplay?docid ... 8700958565">http://video.google.com/videoplay?docid=1954933468700958565</LINK_TEXT>](http://video.google.com/videoplay?docid=1954933468700958565)
+[http://video.google.com/videoplay?docid=1954933468700958565](http://video.google.com/videoplay?docid=1954933468700958565)
 
 </div>
 
@@ -1020,7 +1059,7 @@ sense....
 
 China controls their inflation by locking their money into US Treasuries.
 
-Yes, China is hurting.  They depend on exports to sustain their growth.  It has fallen by 17.5% (that is a big number!) as US and Europe are no longer looking for their goods.
+Yes, China is hurting. They depend on exports to sustain their growth. It has fallen by 17.5% (that is a big number!) as US and Europe are no longer looking for their goods.
 
 </div>
 
@@ -1046,29 +1085,29 @@ Don't hold your breath..America will either change for the worse or they will be
 
 <div class="post" data-post-id="28207" data-author="reboog" data-date="2009-02-19T01:35:35+00:00" data-subject="">
 
-re: filling potholes - That's what infrastructure is about.  I'm using that term tongue in cheek, but construction work is construction work.
+re: filling potholes - That's what infrastructure is about. I'm using that term tongue in cheek, but construction work is construction work.
 
-We've seen consumers cut down on spending because they have tons of debt.  If they are not spending at Walmart and Starbucks (okay Walmart continues strong, Starbucks however is suffering big time), why would these companies build new buildings?
+We've seen consumers cut down on spending because they have tons of debt. If they are not spending at Walmart and Starbucks (okay Walmart continues strong, Starbucks however is suffering big time), why would these companies build new buildings?
 
 I know you are just giving examples of businesses, but here are some facts.
 
-1.  Restaurants are suffering.  They have lost tons of revenue, and places are starting to cut their prices (deflation).
+1\. Restaurants are suffering. They have lost tons of revenue, and places are starting to cut their prices (deflation).
 
-2.  Retail sale is falling apart.
+2\. Retail sale is falling apart.
 
-3.  Auto sales are falling.
+3\. Auto sales are falling.
 
-4.  Hotels are losing tons of customers.
+4\. Hotels are losing tons of customers.
 
-Once the infrastructure is complete, where will they go next?  The economy was only working because people were spending beyond their means.  Surely you're not suggesting that we go back to that, or that people are willing to go back to that?  (It's a fact that people are not willing to go back to that; this is also what is known as a credit freeze, a credit crisis, a credit squeeze)
+Once the infrastructure is complete, where will they go next? The economy was only working because people were spending beyond their means. Surely you're not suggesting that we go back to that, or that people are willing to go back to that? (It's a fact that people are not willing to go back to that; this is also what is known as a credit freeze, a credit crisis, a credit squeeze)
 
 </div>
 
 <div class="post" data-post-id="28208" data-author="Medios" data-date="2009-02-19T02:53:59+00:00" data-subject="">
 
-Now that the consumer and the State's are in debt, they look to the Federal government for a bailout.  Who will the Federal government turn to for a bailout?  The taxpayer is who.  All the money the government prints or borrows will be paid with interest in the form of massive inflation or a raise in taxes.  The only way the government can keep this ponzi scheme going is to make our money worth less.  That reduces debt obligations by making our debt worth less.  However once the other countries catch on it will be hell because they will stop buying our debt and look to other places to invest their capital.  Once Treasuries peak and collapse we will see the government rush to find "new money".  Remember Treasury bonds were supposed to be used to fund wars not budgets.  With a contracting GDP the amount of money needed just to pay the interest on debt increases.  They can't keep borrowing the way out.
+Now that the consumer and the State's are in debt, they look to the Federal government for a bailout. Who will the Federal government turn to for a bailout? The taxpayer is who. All the money the government prints or borrows will be paid with interest in the form of massive inflation or a raise in taxes. The only way the government can keep this ponzi scheme going is to make our money worth less. That reduces debt obligations by making our debt worth less. However once the other countries catch on it will be hell because they will stop buying our debt and look to other places to invest their capital. Once Treasuries peak and collapse we will see the government rush to find "new money". Remember Treasury bonds were supposed to be used to fund wars not budgets. With a contracting GDP the amount of money needed just to pay the interest on debt increases. They can't keep borrowing the way out.
 
-One problem with free markets is that when you have governments of countries doing massive growth projects(China,India,UAE,etc) the cost of commodities will briefly rise due to supply and demand.  We had a period of low supply for commodities and it hurt our economy through rising prices.  Couple that with ignorant consumers that already have debt and you got a powderkeg waiting for someone smoking to toss the butt.  The inflated commodity prices took its toll on finished goods(gas,food,etc).  The people that were already stretched thin took a hit on these staples.  Plus due to Alan Greenspan and his idea of having low interest rates for years(which led to massive bank over leveraging) the amount of risk in the market was huge.  When people can borrow money for free, they don't put as much planning into things as they would if it was their own money.  So how do we fix this problem?  We are going to borrow even more money and lower interest rates even further.
+One problem with free markets is that when you have governments of countries doing massive growth projects(China,India,UAE,etc) the cost of commodities will briefly rise due to supply and demand. We had a period of low supply for commodities and it hurt our economy through rising prices. Couple that with ignorant consumers that already have debt and you got a powderkeg waiting for someone smoking to toss the butt. The inflated commodity prices took its toll on finished goods(gas,food,etc). The people that were already stretched thin took a hit on these staples. Plus due to Alan Greenspan and his idea of having low interest rates for years(which led to massive bank over leveraging) the amount of risk in the market was huge. When people can borrow money for free, they don't put as much planning into things as they would if it was their own money. So how do we fix this problem? We are going to borrow even more money and lower interest rates even further.
 
 </div>
 
@@ -1080,15 +1119,16 @@ I don't think there is an answer. All one can do is ride it out.
 
 <div class="post" data-post-id="28210" data-author="reboog" data-date="2009-02-19T03:27:20+00:00" data-subject="">
 
-It's what Keynes described as the paradox of thrift.  To get out of a recession, you have to increase aggregate demand.  I am not an economist, but on what grounds do we believe that this will work?
+It's what Keynes described as the paradox of thrift. To get out of a recession, you have to increase aggregate demand. I am not an economist, but on what grounds do we believe that this will work?
 
-Jezer: Yes, we have to ride it out.  What we don't have to do is lengthen that ride, which is exactly what this particular stimulus and bailouts do.
+Jezer: Yes, we have to ride it out. What we don't have to do is lengthen that ride, which is exactly what this particular stimulus and bailouts do.
 
 </div>
 
 <div class="post" data-post-id="28211" data-author="jezer" data-date="2009-02-19T03:55:39+00:00" data-subject="">
 
-Jezer: Yes, we have to ride it out.  What we don't have to do is lengthen that ride, which is exactly what this particular stimulus and bailouts do.[/quote:1dwcym6s]
+> <strong>reboog wrote:</strong>
+> Jezer: Yes, we have to ride it out. What we don't have to do is lengthen that ride, which is exactly what this particular stimulus and bailouts do.
 
 Yeah, I get the picture of a motor not working... (wow that's an awesome picture jezer, tell us mores!)... so you go to it and try and restart it all the time (stimulus)... but that's not going to work... cause it's broke! You have to take time out, rebuild the engine before you start it. It takes time and money and there are going to be consequences, things aren't going to be the same anymore.
 
@@ -1124,9 +1164,9 @@ If we purchase a good car it will go to Germany.
 
 If we purchase useless crap it will go to Taiwan and none of it will help the American economy.
 
-The only way to keep that money here at home is to spend it on prostitutes and beer, since these are the only products still produced in US.  Iâ€™ve been doing my part.
+The only way to keep that money here at home is to spend it on prostitutes and beer, since these are the only products still produced in US. Iâ€™ve been doing my part.
 
-8)
+<img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 Vixn
 
@@ -1134,17 +1174,18 @@ Vixn
 
 <div class="post" data-post-id="28218" data-author="reboog" data-date="2009-02-19T18:34:39+00:00" data-subject="">
 
-Vixn's post brings up an interesting point.  The fact that we get our goods from overseas may sound like a bad thing, but it's not.  Enacting protectionism would be the bad thing to do here.
+Vixn's post brings up an interesting point. The fact that we get our goods from overseas may sound like a bad thing, but it's not. Enacting protectionism would be the bad thing to do here.
 
 </div>
 
 <div class="post" data-post-id="28219" data-author="Vixn" data-date="2009-02-19T21:45:06+00:00" data-subject="">
 
-Enacting protectionism would be the bad thing to do here.[/quote:1nq1dti6]
+> <strong>reboog wrote:</strong>
+> Enacting protectionism would be the bad thing to do here.
 
 Probably but it's too expensive to fly to Thai and buy slut there with just $600, eh? I'd ask gov to give more cash!
 
- :D
+ <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -1154,7 +1195,7 @@ You don't want to do that in Thailand.
 
 Ever hear of the ladyboys?
 
-[<LINK_TEXT text="http://www.chinadaily.com.cn/photo/2007 ... 465187.jpg">http://www.chinadaily.com.cn/photo/2007-02/15/xin_59020415202076465187.jpg</LINK_TEXT>](http://www.chinadaily.com.cn/photo/2007-02/15/xin_59020415202076465187.jpg)
+[http://www.chinadaily.com.cn/photo/2007-02/15/xin_59020415202076465187.jpg](http://www.chinadaily.com.cn/photo/2007-02/15/xin_59020415202076465187.jpg)
 
 (not ladies)
 
@@ -1168,15 +1209,15 @@ your MOM is a ladyboy (owned)
 
 <div class="post" data-post-id="28222" data-author="jezer" data-date="2009-02-19T23:18:40+00:00" data-subject="">
 
-Speaking of lady boys... our new next door neighbor is friends or related to one...  :oops: 
+Speaking of lady boys... our new next door neighbor is friends or related to one... <img src="/images/smilies/icon_redface.svg" alt=":oops:" title=":oops:" width="15" height="15" class="smiley nozoom"> 
 
 I was out playing cricket in the street one night... (cricket is a popular British sport for all you uncircumcised) and there is this stiletto of this lady walking towards us. They aren't walking normal, it's a real "show" kinda walk. A feminine type of overdone "swagger."
 
-The boys I'm playing cricket with start laughing, and they say to me... that girl is actually a guy... I'm like no flippin way! They said yeah he is, he used to go to our school.  :shock: 
+The boys I'm playing cricket with start laughing, and they say to me... that girl is actually a guy... I'm like no flippin way! They said yeah he is, he used to go to our school. <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
-So we are all laughing about it after he goes inside. A little later one of us hits a tennis ball over there fence. Of course, no one wants to get it. But "he" was out the back and heard the tennis ball drop. "He" appears at the fence line, and chucks it back to us... It was a man's throw...  :shock: 
+So we are all laughing about it after he goes inside. A little later one of us hits a tennis ball over there fence. Of course, no one wants to get it. But "he" was out the back and heard the tennis ball drop. "He" appears at the fence line, and chucks it back to us... It was a man's throw... <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
-I still can't believe it...  :D
+I still can't believe it... <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 PS Economy stuff...
 
@@ -1220,31 +1261,44 @@ Threads don't die, they just fade away....
 
 <div class="post" data-post-id="28233" data-author="sirrico1" data-date="2009-02-20T22:01:17+00:00" data-subject="">
 
-Might be a bit old but still:
-
-Marc Faberâ€™s comment on the US economy
-
-September 11, 2008
-
-The federal government is sending each of us a $600 rebate.
-
-If we spend that money at Wal-Mart, the money goes to China.
-
-If we spend it on gasoline it goes to the Arabs.
-
-If we buy a computer it will go to India.
-
-If we purchase fruit and vegetables it will go to Mexico, Honduras and Guatemala.
-
-If we purchase a good car it will go to Germany.
-
-If we purchase useless crap it will go to Taiwan and none of it will help the American economy.
-
-The only way to keep that money here at home is to spend it on prostitutes and beer, since these are the only products still produced in US.  Iâ€™ve been doing my part.
-
-8)
-
-Vixn[/quote:1fs5gcm1]
+> <strong>Vixn wrote:</strong>
+> Might be a bit old but still:
+> 
+> 
+> 
+> Marc Faberâ€™s comment on the US economy
+> 
+> September 11, 2008
+> 
+> 
+> 
+> The federal government is sending each of us a $600 rebate.
+> 
+> 
+> 
+> If we spend that money at Wal-Mart, the money goes to China.
+> 
+> If we spend it on gasoline it goes to the Arabs.
+> 
+> If we buy a computer it will go to India.
+> 
+> If we purchase fruit and vegetables it will go to Mexico, Honduras and Guatemala.
+> 
+> If we purchase a good car it will go to Germany.
+> 
+> If we purchase useless crap it will go to Taiwan and none of it will help the American economy.
+> 
+> 
+> 
+> The only way to keep that money here at home is to spend it on prostitutes and beer, since these are the only products still produced in US. Iâ€™ve been doing my part.
+> 
+> 
+> 
+> <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
+> 
+> 
+> 
+> Vixn
 
 personaly as I see it the only way to fix our economy in the US is to close the borders on trade and immigrations. yah I know I sound prejudis or how ever you spell it but I'm not unless you are illegally here then we'll talk but at any rate yah that is only 1 mans oppinion.
 
@@ -1258,17 +1312,20 @@ this is ftl
 
 <div class="post" data-post-id="28240" data-author="Vixn" data-date="2009-02-21T10:42:06+00:00" data-subject="">
 
-Despite problems, there is optimism in Beijing. "Our common interests are much bigger than our differences," says a government official who asked to remain anonymous. "We don't see either side making significant shifts in policies."
+> <strong>CNN wrote:</strong>
+> Despite problems, there is optimism in Beijing. "Our common interests are much bigger than our differences," says a government official who asked to remain anonymous. "We don't see either side making significant shifts in policies."
+> 
+> 
+> 
+> Meanwhile, China analyst James McGregor already notes a shift in tone: "The U.S. used to come here and lecture China," he says. "Now the US is coming here to kiss up to China."
 
-Meanwhile, China analyst James McGregor already notes a shift in tone: "The U.S. used to come here and lecture China," he says. "Now the US is coming here to kiss up to China."[/quote:15ilt4ax]
-
-[url:15ilt4ax]http://edition.cnn.com/2009/POLITICS/02/20/clinton.china/index.html[/url:15ilt4ax]
+http://edition.cnn.com/2009/POLITICS/02/20/clinton.china/index.html
 
 Would be very "hillaryous". It seems that Clinton gonna trade democracy and freedom for Chinese cash. 
 
 What's next? Would she try to find a human soul in Putin's eyes? 
 
- :wink: 
+ <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom"> 
 
 Vixn
 
@@ -1276,7 +1333,7 @@ Vixn
 
 <div class="post" data-post-id="28243" data-author="Medios" data-date="2009-02-21T14:29:08+00:00" data-subject="">
 
-[<LINK_TEXT text="http://www.treas.gov/initiatives/eesa/h ... tSheet.pdf">http://www.treas.gov/initiatives/eesa/homeowner-affordability-plan/FactSheet.pdf</LINK_TEXT>](http://www.treas.gov/initiatives/eesa/homeowner-affordability-plan/FactSheet.pdf)
+[http://www.treas.gov/initiatives/eesa/homeowner-affordability-plan/FactSheet.pdf](http://www.treas.gov/initiatives/eesa/homeowner-affordability-plan/FactSheet.pdf)
 
 The new "reward" ignorant consumer bill.
 
@@ -1296,27 +1353,27 @@ Here is the part I really like
 
 How the Program Works
 
-The Homeowner Stability Initiative has a simple goal: reduce the amount homeowners owe per month to sustainable levels.[b:2fohm3t9] This program will bring together lenders, servicers, borrowers, and the government, so that all stakeholders share in the cost of ensuring that responsible homeowners can afford their monthly mortgage payments [/b:2fohm3t9]â€“ helping to reach up to 3 to 4 million at-risk borrowers in all segments of the mortgage market, reducing foreclosures, and helping to avoid further downward pressures on overall home prices. The program has several key components:
+The Homeowner Stability Initiative has a simple goal: reduce the amount homeowners owe per month to sustainable levels. <strong>This program will bring together lenders, servicers, borrowers, and the government, so that all stakeholders share in the cost of ensuring that responsible homeowners can afford their monthly mortgage payments</strong> â€“ helping to reach up to 3 to 4 million at-risk borrowers in all segments of the mortgage market, reducing foreclosures, and helping to avoid further downward pressures on overall home prices. The program has several key components:
 
-Explain to me how "responsible" homeowners got in this problem?  Why should lenders, servicers, borrowers, and the government all be responsible?  It sounds to me like the borrowers are the ones responsible for upholding their contractual agreement under the rule of law.  I noticed that you can get $1000 credit to your principal just for paying on time.  What about my principal payments?  I bought a home that I knew I could pay for even after losing my job.  So why should "greedy" people who bought more than they can afford be bailed out by the rest of us.  How come I cannot get a $1000 credit on my loan, I have been paying on time since the start of the loan.  Not only that I made over $12,000 in extra principal payments.  As Rick Santelli put it, Why are the losers being bailed out, while the responsible people get it shoved in their face.  This is a moral hazard and we don't need to be reinforcing bad behavior.
+Explain to me how "responsible" homeowners got in this problem? Why should lenders, servicers, borrowers, and the government all be responsible? It sounds to me like the borrowers are the ones responsible for upholding their contractual agreement under the rule of law. I noticed that you can get $1000 credit to your principal just for paying on time. What about my principal payments? I bought a home that I knew I could pay for even after losing my job. So why should "greedy" people who bought more than they can afford be bailed out by the rest of us. How come I cannot get a $1000 credit on my loan, I have been paying on time since the start of the loan. Not only that I made over $12,000 in extra principal payments. As Rick Santelli put it, Why are the losers being bailed out, while the responsible people get it shoved in their face. This is a moral hazard and we don't need to be reinforcing bad behavior.
 
 </div>
 
 <div class="post" data-post-id="28249" data-author="Mosaix" data-date="2009-02-21T20:19:24+00:00" data-subject="">
 
-You have it all figured out.  
+You have it all figured out. 
 
-Please then run for political office and fix it.  
+Please then run for political office and fix it. 
 
 Complaining to 50-100 people on a text-mud game website isnt going to get you real far in life Mike.
 
-You should trying visiting this game to relax sometime.  Its a great game.
+You should trying visiting this game to relax sometime. Its a great game.
 
 </div>
 
 <div class="post" data-post-id="28250" data-author="Medios" data-date="2009-02-21T20:23:05+00:00" data-subject="">
 
-I do come here to relax and I don't spend much time here on the board compared to in game.  You should try it.  If your letting this discussion get you worked up then maybe your Dr. can prescribe some Zanax or Valium.  I wouldn't want you to stroke out over my discussions of politics on a text based game with 50-100 people.
+I do come here to relax and I don't spend much time here on the board compared to in game. You should try it. If your letting this discussion get you worked up then maybe your Dr. can prescribe some Zanax or Valium. I wouldn't want you to stroke out over my discussions of politics on a text based game with 50-100 people.
 
 Love you, bye now.
 
@@ -1334,17 +1391,17 @@ Want a gun in Illinois? Fine. Then youâ€™ll be forced to carry an expensive
 
 Dunkin (D, Chicago) has made this attempt to undermine the Second Amendment even worse than a mere â€œinsuranceâ€ policy. He has also slipped into this unConstitutional morass a provision that says gun owners will be liable if their gun is used in a crime after it has been stolen from them. The bill also authorizes the State Police to confiscate the firearm ownerâ€™s ID (FOID) from any citizen that doesnâ€™t comply with purchasing the hefty insurance policy.
 
-    Rep. Kenneth Dunkinâ€™s bill seeks to amend the stateâ€™s Firearm Owners Identification Card Act to provides that any person who owns a firearm in the state maintain a $1 million or higher policy of liability insurance â€œspecifically covering any damages resulting from negligent or willful acts involving the use of such firearm while it is owned by such person.â€
+ Rep. Kenneth Dunkinâ€™s bill seeks to amend the stateâ€™s Firearm Owners Identification Card Act to provides that any person who owns a firearm in the state maintain a $1 million or higher policy of liability insurance â€œspecifically covering any damages resulting from negligent or willful acts involving the use of such firearm while it is owned by such person.â€
 
-    A gun owner would be responsible after a firearm is lost or stolen until the loss or theft is reported to the police department or sheriff of the jurisdiction in which the owner resides.
+ A gun owner would be responsible after a firearm is lost or stolen until the loss or theft is reported to the police department or sheriff of the jurisdiction in which the owner resides.
 
-    Police would be empowered to pull the gun license of anyone who does not submit evidence of having the required insurance.
+ Police would be empowered to pull the gun license of anyone who does not submit evidence of having the required insurance.
 
 Now this stolen-yet-liable idea is one that the city of Philadelphia dealt with not long ago. It passed there so apparently it has given other cities the idea to pursue this back door demonization of gun owners.
 
 Dunkin has introduced HB 687 in the State House in Springfield supposedly to assure that firearm owners are â€œlegalâ€ in the Land of Lincoln but as gun owners continue to point out legally owned guns are rarely connected to crimes of any kind.
 
-Obviously, though, this has nothing at all to do with public safety, legality, or the Second Amendment. This is but one more backdoor attempt to make owning a gun so expensive, fraught with regulation and difficult that more and more people will simply give up their rights. It is a backdoor banning plain and simple.[/color:1le4otmf]
+Obviously, though, this has nothing at all to do with public safety, legality, or the Second Amendment. This is but one more backdoor attempt to make owning a gun so expensive, fraught with regulation and difficult that more and more people will simply give up their rights. It is a backdoor banning plain and simple.
 
 I heard this mentioned on Glenn Beck, a national talk-radio program that Osama wants snuffed out. This is perfect example of information that otherwise I would not have found out until it would have been too late. Now I am doing my part to research and confirm and spread the word to any who will listen.
 
@@ -1384,55 +1441,63 @@ nods.. can't believe how much AIG has sunk in the last couple of weeks..
 
 <div class="post" data-post-id="28291" data-author="Medios" data-date="2009-02-25T04:08:41+00:00" data-subject="">
 
-Obama is going to have to buy AIG with all the talk of insuring.  I bet he said he was going to insure us about 20 times tonight in that speech.  I thought insurance was when you paid someone to prevent future losses.  Is that why we elected Obama?  So he can take the money now and the we'll have to fight and claw our way into a claim?
+Obama is going to have to buy AIG with all the talk of insuring. I bet he said he was going to insure us about 20 times tonight in that speech. I thought insurance was when you paid someone to prevent future losses. Is that why we elected Obama? So he can take the money now and the we'll have to fight and claw our way into a claim?
 
 </div>
 
 <div class="post" data-post-id="28292" data-author="reboog" data-date="2009-02-25T04:23:42+00:00" data-subject="">
 
-[quote:62gcunn5]â€œThe outcome of the stress test is not going to be fail or pass [for banks],â€ Benrnake told legislators, but to â€œget a clear estimate of their capital needs.â€
+> <strong>Quote:</strong>
+> â€œThe outcome of the stress test is not going to be fail or pass [for banks],â€ Benrnake told legislators, but to â€œget a clear estimate of their capital needs.â€
+> 
+> 
+> 
+> Thus far, the Treasury has only said that: a) the tests would be applied to banks with assets over a $100 billion, which is essentially the top 20; b) banks found lacking would be told they needed to raise private capital; c) if they were unable to do so, they could apply for government funds under the newly created Capital Access Program, CAP, ... d) funding would come from the second tranche of TARP.
 
-Thus far, the Treasury has only said that: a) the tests would be applied to banks with assets over a $100 billion, which is essentially the top 20; b) banks found lacking would be told they needed to raise private capital; c) if they were unable to do so, they could apply for government funds under the newly created Capital Access Program, CAP, ... d) funding would come from the second tranche of TARP.[/quote:62gcunn5]
-
-This explains why they sent only 100 regulators to Citigroup to perform a "stress test."  100 is a joke number, this is purely theater.  In 2004, it took 161 regulators to stress test Citigroup's mortgage securities ALONE.
+This explains why they sent only 100 regulators to Citigroup to perform a "stress test." 100 is a joke number, this is purely theater. In 2004, it took 161 regulators to stress test Citigroup's mortgage securities ALONE.
 
 </div>
 
 <div class="post" data-post-id="28293" data-author="Mosaix" data-date="2009-02-25T04:24:49+00:00" data-subject="">
 
-[img:112hiu1z]http://www.thesunblog.com/sports/super_high_me.jpg[/img:112hiu1z]
+![](http://www.thesunblog.com/sports/super_high_me.jpg)
 
-I think if you didnt pay any attention to the last 8 years, really you have no grounds to start paying any attention now.  Dont bother to start now just because a Democrat is in office.
+I think if you didnt pay any attention to the last 8 years, really you have no grounds to start paying any attention now. Dont bother to start now just because a Democrat is in office.
 
-Make sure you mail back Bush's stimulus check from a few years back while you are at it.  $600 per individual, $1200 per couple.  Im sure you Republican die hards had no problem cashing that check on the american taxpayer.  That was several hundred million taxpayer dollars down the tubes.  
+Make sure you mail back Bush's stimulus check from a few years back while you are at it. $600 per individual, $1200 per couple. Im sure you Republican die hards had no problem cashing that check on the american taxpayer. That was several hundred million taxpayer dollars down the tubes. 
 
-Roll another doobie and relax already.   Enjoy sloth and play the game.
+Roll another doobie and relax already. Enjoy sloth and play the game.
 
 </div>
 
 <div class="post" data-post-id="28294" data-author="Medios" data-date="2009-02-25T04:35:06+00:00" data-subject="">
 
-I think if you didnt pay any attention to the last 8 years, really you have no grounds to start paying any attention now.  Dont bother to start now just because a Democrat is in office.
+> <strong>Mosaix wrote:</strong>
+> I think if you didnt pay any attention to the last 8 years, really you have no grounds to start paying any attention now. Dont bother to start now just because a Democrat is in office.
+> 
+> 
+> 
+> Make sure you mail back Bush's stimulus check from a few years back while you are at it. $600 per individual, $1200 per couple. Im sure you Republican die hards had no problem cashing that check on the american taxpayer. That was several hundred million taxpayer dollars down the tubes. 
+> 
+> 
+> 
+> Roll another doobie and relax already. Enjoy sloth and play the game.
 
-Make sure you mail back Bush's stimulus check from a few years back while you are at it.  $600 per individual, $1200 per couple.  Im sure you Republican die hards had no problem cashing that check on the american taxpayer.  That was several hundred million taxpayer dollars down the tubes.  
+Stimulus check my ass, I consider that a tax cut for myself. The people that should send it back are the ones with zero federal tax liability.
 
-Roll another doobie and relax already.   Enjoy sloth and play the game.[/quote:1g5snd14]
-
-Stimulus check my ass, I consider that a tax cut for myself.  The people that should send it back are the ones with zero federal tax liability.
-
-Tax cuts are always one thing I agree with...  Why would I mail money back to the Federal Govt when I actually have to pay taxes, unlike many Americans who get money when they didn't even pay?  I wasn't nearly as happy with Bush as you say.  If it wasn't for the war Democrats would be slobbin his knob for all that entitlement spending.
+Tax cuts are always one thing I agree with... Why would I mail money back to the Federal Govt when I actually have to pay taxes, unlike many Americans who get money when they didn't even pay? I wasn't nearly as happy with Bush as you say. If it wasn't for the war Democrats would be slobbin his knob for all that entitlement spending.
 
 </div>
 
 <div class="post" data-post-id="28305" data-author="Yasik2" data-date="2009-02-26T20:07:52+00:00" data-subject="">
 
-[img:3elhezpg]http://yasik.kiev.ua/Obama.jpg[/img:3elhezpg]
+![](http://yasik.kiev.ua/Obama.jpg)
 
 </div>
 
 <div class="post" data-post-id="28306" data-author="jezer" data-date="2009-02-26T22:47:21+00:00" data-subject="">
 
-[img:3qandbxs]http://www.apcmag.com/images/apc/news/xpdeadend.jpg[/img:3qandbxs]
+![](http://www.apcmag.com/images/apc/news/xpdeadend.jpg)
 
 </div>
 
@@ -1446,7 +1511,8 @@ Sorry guys, gig's off.
 
 <div class="post" data-post-id="28322" data-author="reboog" data-date="2009-02-27T10:48:39+00:00" data-subject="">
 
-Reboogism - You have 2 cattle. Cattle: Good nick length.[/quote:1yh8nf0k]
+> <strong>jezer wrote:</strong>
+> Reboogism - You have 2 cattle. Cattle: Good nick length.
 
 EXTREMELY good point
 
@@ -1456,25 +1522,25 @@ EXTREMELY good point
 
 Brief history of leadup to the mortgage crisis, starting from the 70s
 
-1.  Savings and loans (commonly referred to as thrifts) originate mortgages.
+1\. Savings and loans (commonly referred to as thrifts) originate mortgages.
 
-2.  Inflation takes place.  The thrifts have to recognize losses because the money is not worth as much anymore.
+2\. Inflation takes place. The thrifts have to recognize losses because the money is not worth as much anymore.
 
-3.  Government opens FRE (Freddie Mac) and FNMA (Fannie Mae) with their programs (Guarantor and Swap) to "help" the thrifts.
+3\. Government opens FRE (Freddie Mac) and FNMA (Fannie Mae) with their programs (Guarantor and Swap) to "help" the thrifts.
 
-4.  Thrifts trade one bad holding for another.  Government makes a ton of money, S&L collapses.
+4\. Thrifts trade one bad holding for another. Government makes a ton of money, S\&L collapses.
 
-5.  Lew Ranieri and Bob Dall at investment bank Salomon Brothers lobby and make mortgages a tradable asset.
+5\. Lew Ranieri and Bob Dall at investment bank Salomon Brothers lobby and make mortgages a tradable asset.
 
-6.  Government promotes home ownership.  American dream is to own a home.  Make homes affordable.  No down payment, ARMs.  Alt-A and subprime loans.
+6\. Government promotes home ownership. American dream is to own a home. Make homes affordable. No down payment, ARMs. Alt-A and subprime loans.
 
-7.  Securitization (CDSes (credit default swaps)) to guarantee MBS (mortgage backed securities).  Mortgages also wrapped into assets such as CDOs, CLOs, alphabet soup, blah blah blah
+7\. Securitization (CDSes (credit default swaps)) to guarantee MBS (mortgage backed securities). Mortgages also wrapped into assets such as CDOs, CLOs, alphabet soup, blah blah blah
 
-8.  Regulatory anomaly.  A 3% down payment is rated safer than a 20% down payment.
+8\. Regulatory anomaly. A 3% down payment is rated safer than a 20% down payment.
 
-9.  No down payments and easy credit cause a housing market bubble.
+9\. No down payments and easy credit cause a housing market bubble.
 
-10.  lol guys we fucked up need bailout... and we can't eat just one
+10\. lol guys we fucked up need bailout... and we can't eat just one
 
 </div>
 
@@ -1482,7 +1548,7 @@ Brief history of leadup to the mortgage crisis, starting from the 70s
 
 Not even 24 hours after the government reassures the markets they will not nationalize any banks under any circumstances, they make a deal with Citi which will give them 36% ownership..
 
-Going to be yet another bad day for the DOW today quite likely - may even fall through that 7,000 floor (or 740 on S&P)... 
+Going to be yet another bad day for the DOW today quite likely - may even fall through that 7,000 floor (or 740 on S\&P)... 
 
 It won't be pretty if it does. Watch the last half hour or so...
 
@@ -1490,7 +1556,8 @@ It won't be pretty if it does. Watch the last half hour or so...
 
 <div class="post" data-post-id="28328" data-author="reboog" data-date="2009-02-27T18:13:58+00:00" data-subject="">
 
-Not even 24 hours after the government reassures the markets they will not nationalize any banks under any circumstances, they make a deal with Citi which will give them 36% ownership..[/quote:1yge1yz0]
+> <strong>Weasel wrote:</strong>
+> Not even 24 hours after the government reassures the markets they will not nationalize any banks under any circumstances, they make a deal with Citi which will give them 36% ownership..
 
 If this were a fair trade, the government would have 50.3% ownership of Citigroup, if my math is correct.
 
@@ -1498,11 +1565,17 @@ If this were a fair trade, the government would have 50.3% ownership of Citigrou
 
 <div class="post" data-post-id="28329" data-author="Weasel" data-date="2009-02-27T18:18:14+00:00" data-subject="">
 
-Not even 24 hours after the government reassures the markets they will not nationalize any banks under any circumstances, they make a deal with Citi which will give them 36% ownership..[/quote:2ih1r3gn]
+> <strong>reboog wrote:</strong>
+> > <strong>Weasel wrote:</strong>
+> > Not even 24 hours after the government reassures the markets they will not nationalize any banks under any circumstances, they make a deal with Citi which will give them 36% ownership..
+> 
+> 
+> 
+> 
+> 
+> If this were a fair trade, the government would have 50.3% ownership of Citigroup, if my math is correct.
 
-If this were a fair trade, the government would have 50.3% ownership of Citigroup, if my math is correct.[/quote:2ih1r3gn]
-
-Nods, they're effectively paying way over market value for converting those pref shares to common (and that's based on market value even before it took a dive this morning).. so it's effectively another bailout at the expense of the taxpayer, yet again...   and it virtually gives them a controlling stake, considering that other publicly owned shares now amount to only about 26% apparently. For all intents and purposes, that almost [i:2ih1r3gn]is[/i:2ih1r3gn] nationalized.
+Nods, they're effectively paying way over market value for converting those pref shares to common (and that's based on market value even before it took a dive this morning).. so it's effectively another bailout at the expense of the taxpayer, yet again... and it virtually gives them a controlling stake, considering that other publicly owned shares now amount to only about 26% apparently. For all intents and purposes, that almost <em>is</em> nationalized.
 
 Not to mention that the conversion severely dilutes existing coomon shares, and it seems Citi have also agreed not to pay dividends as part of the 'deal'.. and of course the shareholders didn't get a say in the matter.. I can smell a major shareholder class action lawsuit in the works for that alone..
 
@@ -1516,7 +1589,8 @@ If the government did its job, the shareholder value would be zero.
 
 <div class="post" data-post-id="28331" data-author="Weasel" data-date="2009-02-27T18:36:06+00:00" data-subject="">
 
-If the government did its job, the shareholder value would be zero.[/quote:2eo0krwp]
+> <strong>reboog wrote:</strong>
+> If the government did its job, the shareholder value would be zero.
 
 lol.. I trust you're being sarcastic.. one can never be sure these days..
 
@@ -1530,9 +1604,10 @@ When an institution is bankrupt, how much are that institution's stocks and bond
 
 <div class="post" data-post-id="28333" data-author="Weasel" data-date="2009-02-27T19:18:50+00:00" data-subject="">
 
-When an institution is bankrupt, how much are that institution's stocks and bonds worth?[/quote:1v40ahyp]
+> <strong>reboog wrote:</strong>
+> When an institution is bankrupt, how much are that institution's stocks and bonds worth?
 
-heh true... but Citi aren't [i:1v40ahyp]officially[/i:1v40ahyp] bankrupt [yet], that's the difference.
+heh true... but Citi aren't <em>officially</em> bankrupt [yet], that's the difference.
 
 I wonder.. since banks (and lending institutions), car manufacturers and mortgage defaulters are being bailed out for bad decisions, where's the bailout for those who suffered capital losses in the markets as a result of those bad decisions?
 
@@ -1584,11 +1659,10 @@ Make me one with everything.
 
 <div class="post" data-post-id="28336" data-author="reboog" data-date="2009-02-27T22:33:53+00:00" data-subject="">
 
-heh true... but Citi aren't [i:21bg6aeq]officially[/i:21bg6aeq] bankrupt [yet], that's the difference.
+> <strong>Weasel wrote:</strong>
+> heh true... but Citi aren't <em>officially</em> bankrupt [yet], that's the difference.
 
-[/quote:21bg6aeq]
-
-I could [i:21bg6aeq]officially[/i:21bg6aeq] call myself not great, but that doesn't make it true.
+I could <em>officially</em> call myself not great, but that doesn't make it true.
 
 </div>
 
@@ -1602,13 +1676,13 @@ Good to have goals for your party that involve ideas from a terrorist group.
 
 This is Pete Sessions audio clip link below
 
-[url:2uf22w35]http://lostintransition.nationaljournal.com/sessions_2.mp3[/url:2uf22w35]
+http://lostintransition.nationaljournal.com/sessions_2.mp3
 
 </div>
 
 <div class="post" data-post-id="28346" data-author="jezer" data-date="2009-02-28T13:31:45+00:00" data-subject="">
 
-When I reload the homepage the crier doesn't show on the homepage any more. Good idea... If we could all just let go of flaming our opinions, might do the game some good. I'm wondering if this is deliberate... I think wise move if so. Lets face it, we just crap on and on, and mostly at each other... I like to make fun of it all... but I guess my satire of how the game works, and the relationships between certain players... is only actually adding to it.  :evil:
+When I reload the homepage the crier doesn't show on the homepage any more. Good idea... If we could all just let go of flaming our opinions, might do the game some good. I'm wondering if this is deliberate... I think wise move if so. Lets face it, we just crap on and on, and mostly at each other... I like to make fun of it all... but I guess my satire of how the game works, and the relationships between certain players... is only actually adding to it. <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 Guess I'll reflect on my signature some.
 
@@ -1618,7 +1692,7 @@ Guess I'll reflect on my signature some.
 
 I think this sums it up better
 
-[<LINK_TEXT text="http://www.worldnetdaily.com/news/artic ... E_ID=45735">http://www.worldnetdaily.com/news/article.asp?ARTICLE_ID=45735</LINK_TEXT>](http://www.worldnetdaily.com/news/article.asp?ARTICLE_ID=45735)
+[http://www.worldnetdaily.com/news/article.asp?ARTICLE_ID=45735](http://www.worldnetdaily.com/news/article.asp?ARTICLE_ID=45735)
 
 Should Democratic Party merge with Communist Party?
 
@@ -1626,65 +1700,78 @@ Should Democratic Party merge with Communist Party?
 
 for president in the last pretend election. They wouldn't endorse him unless they felt he would continue to further the agenda for world communism via the official Democratic Party. "
 
-I think Pete Sessions Republican from Texas sums it up pretty well.
-
-The republican party should use the Taliban tactics as a model for the party.
-
-Good to have goals for your party that involve ideas from a terrorist group.
-
-This is Pete Sessions audio clip link below
-
-[url:2nru18hh][<LINK_TEXT text="http://lostintransition.nationaljournal ... ions_2.mp3">http://lostintransition.nationaljournal.com/sessions_2.mp3</LINK_TEXT>](http://lostintransition.nationaljournal.com/sessions_2.mp3)[/url:2nru18hh][/quote:2nru18hh]
+> <strong>Mosaix wrote:</strong>
+> I think Pete Sessions Republican from Texas sums it up pretty well.
+> 
+> 
+> 
+> The republican party should use the Taliban tactics as a model for the party.
+> 
+> 
+> 
+> Good to have goals for your party that involve ideas from a terrorist group.
+> 
+> 
+> 
+> This is Pete Sessions audio clip link below
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> [url=http://lostintransition.nationaljournal.com/sessions_2.mp3]http://lostintransition.nationaljournal.com/sessions_2.mp3
 
 Wiki calls this an insurgency.
 
-An insurgency is a rebellion against a constituted authority (for example an authority recognised as such by the United Nations) when those taking part in the rebellion are not recognised as belligerents.  Belligerents being hostile.
+An insurgency is a rebellion against a constituted authority (for example an authority recognised as such by the United Nations) when those taking part in the rebellion are not recognised as belligerents. Belligerents being hostile.
 
-So basically he is saying that when the Dems get out of control they will have to rebel.  You had your fun during the last 8 years making fun of Bush and now the medicine isn't tasting good.  If you sit around and think that everything Obama does is of godly magnitude then your clearly brainwashed.  I am sorry that you can blindly let him do whatever he wants, but some people will point it out no matter if you like it or not.  The facts are the facts, read the news.  Even NBC is now lambasting the president for the pork that he clearly said was not in the stimulus and omnibus bills.  Any moron can read them and know that its pork.  When you take money from one person and spend it on a butterfly museum for your constituency or whatever other nonsense then its stealing.  The federal government was never intended to "rob" citizens of their property and distribute to other States.  It is clear if you read anything from our history.  If you want to give more of your money to someone else then do it, but don't force it on everyone.  Class envy is weak.
+So basically he is saying that when the Dems get out of control they will have to rebel. You had your fun during the last 8 years making fun of Bush and now the medicine isn't tasting good. If you sit around and think that everything Obama does is of godly magnitude then your clearly brainwashed. I am sorry that you can blindly let him do whatever he wants, but some people will point it out no matter if you like it or not. The facts are the facts, read the news. Even NBC is now lambasting the president for the pork that he clearly said was not in the stimulus and omnibus bills. Any moron can read them and know that its pork. When you take money from one person and spend it on a butterfly museum for your constituency or whatever other nonsense then its stealing. The federal government was never intended to "rob" citizens of their property and distribute to other States. It is clear if you read anything from our history. If you want to give more of your money to someone else then do it, but don't force it on everyone. Class envy is weak.
 
-Again I never fully supported Bush like you support Obama.  I have my problems with him that I have pointed out in the past.  Whenever I did point it out you call me a names or make unsubstantiated claims.  You made fun of my support for Ron Paul, who clearly was against the war, fiat currency, and the assault on liberty.  Your arguments are weak at best.  
+Again I never fully supported Bush like you support Obama. I have my problems with him that I have pointed out in the past. Whenever I did point it out you call me a names or make unsubstantiated claims. You made fun of my support for Ron Paul, who clearly was against the war, fiat currency, and the assault on liberty. Your arguments are weak at best. 
 
-Thomas Jefferson, quotes about Patriotism:  
+Thomas Jefferson, quotes about Patriotism: 
 
-God forbid we should ever be twenty years without such a rebellion. The people cannot be all, and always, well informed. The part which is wrong will be discontented, in proportion to the importance of the facts they misconceive. If they remain quiet under such misconceptions, it is lethargy, the forerunner of death to the public liberty. ... And what country can preserve its liberties, [b:2nru18hh]if it's rulers are not warned from time to time[/b:2nru18hh], that this people preserve the spirit of resistance? Let them take arms. The remedy is to set them right as to the facts, pardon and pacify them. What signify a few lives lost in a century or two? [b:2nru18hh]The tree of liberty must be refreshed from time to time, with the blood of patriots and tyrants[/b:2nru18hh]. It is its natural manure.
+God forbid we should ever be twenty years without such a rebellion. The people cannot be all, and always, well informed. The part which is wrong will be discontented, in proportion to the importance of the facts they misconceive. If they remain quiet under such misconceptions, it is lethargy, the forerunner of death to the public liberty. ... And what country can preserve its liberties, <strong>if it's rulers are not warned from time to time</strong>, that this people preserve the spirit of resistance? Let them take arms. The remedy is to set them right as to the facts, pardon and pacify them. What signify a few lives lost in a century or two? <strong>The tree of liberty must be refreshed from time to time, with the blood of patriots and tyrants</strong>. It is its natural manure.
 
-Henry Brooks Adams, quotes about Patriotism:  
+Henry Brooks Adams, quotes about Patriotism: 
 
 Politics, as a practise, whatever its professions, has always been the systematic organization of hatreds.
 
-Ulysses S. Grant, quotes about Patriotism:  
+Ulysses S. Grant, quotes about Patriotism: 
 
-If we are to have another contest in the near future of our national existence, I predict that the dividing line will not be Mason and Dixon's but between patriotism and intelligence on the one side, and [b:2nru18hh]superstition, ambition and ignorance[/b:2nru18hh] on the other.
+If we are to have another contest in the near future of our national existence, I predict that the dividing line will not be Mason and Dixon's but between patriotism and intelligence on the one side, and <strong>superstition, ambition and ignorance</strong> on the other.
 
-Elmer Davis, quotes about Patriotism:  
+Elmer Davis, quotes about Patriotism: 
 
-The republic was not established by [b:2nru18hh]cowards[/b:2nru18hh], and cowards will not preserve it.
+The republic was not established by <strong>cowards</strong>, and cowards will not preserve it.
 
-Henry Steele Commager, quotes about Patriotism:  
+Henry Steele Commager, quotes about Patriotism: 
 
-[b:2nru18hh]Men in authority[/b:2nru18hh] will always think that criticism of their policies is dangerous. They will always equate their policies with patriotism, and find criticism subversive.
+<strong>Men in authority</strong> will always think that criticism of their policies is dangerous. They will always equate their policies with patriotism, and find criticism subversive.
 
-Robert A. Heinlein, quotes about Patriotism:  
+Robert A. Heinlein, quotes about Patriotism: 
 
-Love your country, but never [b:2nru18hh]trust[/b:2nru18hh] its government.
+Love your country, but never <strong>trust</strong> its government.
 
-Justice Louis D. Brandeis, quotes about Patriotism:  
+Justice Louis D. Brandeis, quotes about Patriotism: 
 
-[b:2nru18hh]The constitutional right of free speech has been declared to be the same in peace and war.[/b:2nru18hh] In peace, too, men may differ widely as to what loyalty to our country demands, and an intolerant majority, swayed by passion or by fear, may be prone in the future, as it has been in the past, to[b:2nru18hh] stamp as disloyal opinions with which it disagrees[/b:2nru18hh].
+<strong>The constitutional right of free speech has been declared to be the same in peace and war.</strong> In peace, too, men may differ widely as to what loyalty to our country demands, and an intolerant majority, swayed by passion or by fear, may be prone in the future, as it has been in the past, to <strong>stamp as disloyal opinions with which it disagrees</strong>.
 
-Dr. G. Brock Chisolm, quotes about Patriotism:  
+Dr. G. Brock Chisolm, quotes about Patriotism: 
 
 To achieve world government, it is necessary to remove from the minds of men, their individualism, loyalty to family traditions, national patriotism and religious dogmas.
 
-It is dangerous to be right in matters on which the established authorities are wrong.  ~Voltaire
+It is dangerous to be right in matters on which the established authorities are wrong. \~Voltaire
 
-You're not supposed to be so blind with patriotism that you can't face reality.  Wrong is wrong, no matter who says it.  ~Malcolm X
+You're not supposed to be so blind with patriotism that you can't face reality. Wrong is wrong, no matter who says it. \~Malcolm X
 
-Disobedience, the rarest and most courageous of the virtues, is seldom distinguished from neglect, the laziest and commonest of the vices.  ~George Bernard Shaw, Maxims for Revolutionists
+Disobedience, the rarest and most courageous of the virtues, is seldom distinguished from neglect, the laziest and commonest of the vices. \~George Bernard Shaw, Maxims for Revolutionists
 
-Every actual state is corrupt.  Good men must not obey laws too well.  ~Ralph Waldo Emerson
+Every actual state is corrupt. Good men must not obey laws too well. \~Ralph Waldo Emerson
 
-We should never forget that everything Adolf Hitler did in Germany was "legal" and everything the Hungarian freedom fighters did in Hungary was "illegal."  ~Martin Luther King, Jr., "Letter from Birmingham Jail," Why We Can't Wait, 1963
+We should never forget that everything Adolf Hitler did in Germany was "legal" and everything the Hungarian freedom fighters did in Hungary was "illegal." \~Martin Luther King, Jr., "Letter from Birmingham Jail," Why We Can't Wait, 1963
 
 </div>
 
@@ -1696,13 +1783,13 @@ Amen. Well spoken.
 
 <div class="post" data-post-id="28354" data-author="Weasel" data-date="2009-02-28T20:34:56+00:00" data-subject="">
 
-Nice post Medios. Unfortunately it is an exercise in futility trying to convince a fanatical Obamessiah zealot anything that may in any way discredit or contradict the teachings of The Big Zero, or their irrational interpretations of such. [b:26e6hk74]*[/color:26e6hk74][/b:26e6hk74] 
+Nice post Medios. Unfortunately it is an exercise in futility trying to convince a fanatical Obamessiah zealot anything that may in any way discredit or contradict the teachings of The Big Zero, or their irrational interpretations of such. <strong>\*</strong> 
 
 Continued attempts at rational reasoning with an Obamessiah zealot will only result in your being labeled a racist, nazi, Bushitlerite, card-carrying fascist (even f you're a black democrat and despise Bush.. of course that would just mean you're also an Uncle Tom). 
 
 If the Obamessiah says that a padded cell is not a padded cell, then a true zealot will firmly believe it, even if they are locked in one for the rest of their life. This is clearly demonstrated in The Big Zero's "No Pork, No Earmarks" stimulus bill, which actually contains approximately 9,000 earmarks.. not that anyone's counting.
 
-[b:26e6hk74]*[/color:26e6hk74][/b:26e6hk74] ..although it can be fun to poke them with a stick now and then.  :twisted:
+<strong>\*</strong> ..although it can be fun to poke them with a stick now and then. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -1756,17 +1843,18 @@ So regardless of who you personally might fanatically support, it really doesn't
 
 <div class="post" data-post-id="28365" data-author="Weasel" data-date="2009-03-02T20:01:03+00:00" data-subject="">
 
-Even when Bush Jr.'s approval rating plummeted to 30% or whatever it was, there was not widespread talk of this sort.[/quote:1h8nhbl2]
+> <strong>Poggle wrote:</strong>
+> Even when Bush Jr.'s approval rating plummeted to 30% or whatever it was, there was not widespread talk of this sort.
 
 ORLY???
 
-[img:1h8nhbl2]http://www.benmautner.com/widerangle/bush_stamp.jpg[/img:1h8nhbl2]
+![](http://www.benmautner.com/widerangle/bush_stamp.jpg)
 
-[img:1h8nhbl2]http://www.flipsideshow.com/images/Bush--KillTShirt.jpg[/img:1h8nhbl2]
+![](http://www.flipsideshow.com/images/Bush--KillTShirt.jpg)
 
-[img:1h8nhbl2]http://files.blog-city.com/files/A05/107842/p/f/beheadbush_sm.jpg[/img:1h8nhbl2]
+![](http://files.blog-city.com/files/A05/107842/p/f/beheadbush_sm.jpg)
 
-[img:1h8nhbl2]http://thepeoplescube.com/images/images_working/Hitler_Muslims/Bush_Hitler_sm.jpg[/img:1h8nhbl2]
+![](http://thepeoplescube.com/images/images_working/Hitler_Muslims/Bush_Hitler_sm.jpg)
 
 There are hundreds if not thousands of much worse things written about Bush from deranged liberals. The double standards since Obama took office is astounding.
 
@@ -1804,7 +1892,7 @@ Edit: "Paul fellow" was actually supposed to be "Pete Sessions fellow"
 
 <div class="post" data-post-id="28370" data-author="Tap" data-date="2009-03-03T01:09:00+00:00" data-subject="">
 
-To those  concerned:
+To those concerned:
 
 My nick length is only half wrong.
 
@@ -1812,9 +1900,9 @@ My nick length is only half wrong.
 
 <div class="post" data-post-id="28372" data-author="Medios" data-date="2009-03-03T14:50:52+00:00" data-subject="">
 
-Dr. Ron Paul is a champion of liberty.  He even turned down his congressional pension.  He doesn't want your money.  He wants everyone to be free from the tyranny of government.  
+Dr. Ron Paul is a champion of liberty. He even turned down his congressional pension. He doesn't want your money. He wants everyone to be free from the tyranny of government. 
 
-Remember Obama is the one that said our Constitution is a document of negative liberties.  Unlike past presidents he is going to skip right to Amendment one and work from there.  If everyone is scared to speak against him he can surely do anything he likes.  I for one refuse to allow the govt to tell me where to work, how much to make, and what I do on my free time.  If you guys like having your hand held and having big brother pour your tea that is fine as long as it is not in America.  If it is so damn good to be Communist then why are Russia and China fleeing it like rats off a sinking ship?  Central planning does not work.  Joseph Stalin does not work.  Intimidation through threats does not work.
+Remember Obama is the one that said our Constitution is a document of negative liberties. Unlike past presidents he is going to skip right to Amendment one and work from there. If everyone is scared to speak against him he can surely do anything he likes. I for one refuse to allow the govt to tell me where to work, how much to make, and what I do on my free time. If you guys like having your hand held and having big brother pour your tea that is fine as long as it is not in America. If it is so damn good to be Communist then why are Russia and China fleeing it like rats off a sinking ship? Central planning does not work. Joseph Stalin does not work. Intimidation through threats does not work.
 
 Freedom works.
 
@@ -1822,19 +1910,23 @@ Freedom works.
 
 <div class="post" data-post-id="28375" data-author="Vixn" data-date="2009-03-03T16:52:44+00:00" data-subject="">
 
-If it is so damn good to be Communist then why are Russia and China fleeing it like rats off a sinking ship?[/quote:2nftv7s5]
+> <strong>Medios wrote:</strong>
+> If it is so damn good to be Communist then why are Russia and China fleeing it like rats off a sinking ship?
 
 As I know China is still under the control of CCP (Communist Party of China). And central planning still works there.
 
-Central planning does not work.[/quote:2nftv7s5]
+> <strong>Medios wrote:</strong>
+> Central planning does not work.
 
 Agree. At least in USSR it gave dreadful results. 
 
-Joseph Stalin does not work.[/quote:2nftv7s5]
+> <strong>Medios wrote:</strong>
+> Joseph Stalin does not work.
 
 Sure he doesn't. He died like 55 years ago. Seriously the problem with Stalin wasn't that he was a communist, but the problem was with his tyranny.
 
-Freedom works.[/quote:2nftv7s5]
+> <strong>Medios wrote:</strong>
+> Freedom works.
 
 I hope so. But as it seems to me people all over the world still should fight for their own freedom. No doubt there is no freedom in Russia, neither in China. But also there is just a bit better situation in America and you guys keep loosing freedom every year. You went too far away from the freedom that Founding Fathers were dreaming about.
 
@@ -1844,7 +1936,8 @@ Vixn.
 
 <div class="post" data-post-id="28376" data-author="Yasik2" data-date="2009-03-03T17:20:05+00:00" data-subject="">
 
-The best I can say of Bush is that it's quite impressive blah blah blah[/quote:2l76oj03]
+> <strong>Poggle wrote:</strong>
+> The best I can say of Bush is that it's quite impressive blah blah blah
 
 Huhuhuh he said 'bush'
 
@@ -1858,11 +1951,11 @@ China is not communist.
 
 <div class="post" data-post-id="28380" data-author="Sheng" data-date="2009-03-03T20:44:29+00:00" data-subject="">
 
-Central Planning works in China?  China sets record growth numbers? Business is booming in China?
+Central Planning works in China? China sets record growth numbers? Business is booming in China?
 
-Uh huh.  When the government has total control of the media, how hard could it possibly be to set new records and have a booming economy year after year?  You don't even need factories, just a central news agency with a government mandated script.
+Uh huh. When the government has total control of the media, how hard could it possibly be to set new records and have a booming economy year after year? You don't even need factories, just a central news agency with a government mandated script.
 
-You really think China would admit they have a problem?  The word 'problem' barely exists in their language; it's synonymous with 'question.'
+You really think China would admit they have a problem? The word 'problem' barely exists in their language; it's synonymous with 'question.'
 
 </div>
 
@@ -1874,13 +1967,13 @@ This talk going on about freedom is crap as well... once again... personal freed
 
 It all comes down to this... you've been behaving like a piece of crap trying to gain advantages over everyone around you, you've made it a dog eat dog society because your all full of your self importance over everyone else. Blame Obama, blame Bush, blame communism, blame conservatism... but when it comes down to it, it's all about the attitude you've been having and your "rights" to crap over other humans to your own advantage. What ya sowed you reaped... enjoy dessert.
 
-Any other excuses?  :!:
+Any other excuses? <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="28382" data-author="reboog" data-date="2009-03-04T01:13:29+00:00" data-subject="">
 
-jezer: I think we've had this conversation before.  Greed is everpresent.  You can't get rid of it.  It's here during the boom years, the bust years, always and forever.
+jezer: I think we've had this conversation before. Greed is everpresent. You can't get rid of it. It's here during the boom years, the bust years, always and forever.
 
 I agree that the political mudslinging is stupid and pointless.
 
@@ -1894,21 +1987,22 @@ wow Jezer. just... wow.
 
 <div class="post" data-post-id="28388" data-author="Medios" data-date="2009-03-04T14:40:29+00:00" data-subject="">
 
-So if greed is so rampant, then how does letting these "greedy" rulers decide more of your life help.  
+So if greed is so rampant, then how does letting these "greedy" rulers decide more of your life help. 
 
-Do you think that government should decide my life?  Should they force me into a job determined by some government test?  Should they tell me where I can go and who I can see?  Should they tell me whether I can have children or not?  Should they tell me I shouldn't drink alcohol or smoke cannabis?
+Do you think that government should decide my life? Should they force me into a job determined by some government test? Should they tell me where I can go and who I can see? Should they tell me whether I can have children or not? Should they tell me I shouldn't drink alcohol or smoke cannabis?
 
-Explain to me how any of these decisions negatively affect your life.  You want to tell me what to do to save yourself from decisions?  The principle is the same no matter where you are.  When a small percentage of people must work to support the majority the system will collapse.  It happened in Rome.  Price controls also do not work.  You cannot take the fruits of one man and give them to a non-producer.  This creates a moral hazard where everyone feels entitled to things that they should have to gain.  The end result of a welfare state is much worse than the "poverty" from lack of government.
+Explain to me how any of these decisions negatively affect your life. You want to tell me what to do to save yourself from decisions? The principle is the same no matter where you are. When a small percentage of people must work to support the majority the system will collapse. It happened in Rome. Price controls also do not work. You cannot take the fruits of one man and give them to a non-producer. This creates a moral hazard where everyone feels entitled to things that they should have to gain. The end result of a welfare state is much worse than the "poverty" from lack of government.
 
 To Edd
 
-I am deeply troubled that our country has went so far from our Constitution.  I fear that one day if the people do not stand up to the Federal Reserve that we will all be slaves.  USA media is obviously controlled and manipulated from both sides towards the common goal.  One world currency and no country will be able to stop the multinational army.  We are not headed into this utopia socialist state that everyone thinks.  It has become a fascist state where anyone questioning authority is immediately attacked.  They will legally start a world war if we disobey.
+I am deeply troubled that our country has went so far from our Constitution. I fear that one day if the people do not stand up to the Federal Reserve that we will all be slaves. USA media is obviously controlled and manipulated from both sides towards the common goal. One world currency and no country will be able to stop the multinational army. We are not headed into this utopia socialist state that everyone thinks. It has become a fascist state where anyone questioning authority is immediately attacked. They will legally start a world war if we disobey.
 
 </div>
 
 <div class="post" data-post-id="28392" data-author="jezer" data-date="2009-03-04T22:56:04+00:00" data-subject="">
 
-Do you think that government should decide my[/color:105see2o] life?  Should they force me[/color:105see2o] into a job determined by some government test?  Should they tell me[/color:105see2o] where I[/color:105see2o] can go and who I[/color:105see2o] can see?  Should they tell me[/color:105see2o] whether I[/color:105see2o] can have children or not?  Should they tell me[/color:105see2o] I[/color:105see2o] shouldn't drink alcohol or smoke cannabis?[/quote:105see2o]
+> <strong>Medios wrote:</strong>
+> Do you think that government should decide my life? Should they force me into a job determined by some government test? Should they tell me where I can go and who I can see? Should they tell me whether I can have children or not? Should they tell me I shouldn't drink alcohol or smoke cannabis?
 
 It's always about you isn't it... See with that attitude your no different than these politicians you don't agree with, legislating there own desires... the wall street fat cats hooked on money... different outworking, different circumstances... same attitude. You talk of freedoms and liberties, but it smacks of your desire to just do what you want... that's just unadulterated selfishness... There will be a price if you choose to live your life like that. I think your example of Rome is perfect. This fairytale has been worked out before, just substitute Rome with America. It's just a dream... and it's no utopia... true strength actually comes through character. Mother Teresa, Ghandi... these people died hero's and gave up themselves for others... your Rome people who chased your dream, just crapped out on the fruit of there own moral decay... talk about history repeating.
 
@@ -1920,7 +2014,7 @@ Your example about the rich giving to the poor not feeling right, only serves to
 
 <div class="post" data-post-id="28393" data-author="jezer" data-date="2009-03-05T00:48:32+00:00" data-subject="">
 
-[url:1in90217]http://www.commondreams.org/views03/0910-10.htm[/url:1in90217]
+http://www.commondreams.org/views03/0910-10.htm
 
 This article talks about comparisons between America and Rome, mainly in regards to area's relating to foreign policy... I haven't looked hard... but in any case... I'll admit there will be huge differences in how "things are taking place." However I would argue that the attitudes that bring these calamities are actually the same. Arrogance, Pride, Selfishness, Greed etc. It's happened time after time in history, the mighty collapse under there own weight, falling short of the very principals they said they wielded.
 
@@ -1998,15 +2092,15 @@ The core of my argument is about honouring and preferring one another, it's abou
 
 Lowliness is young ambition's ladder,
 
-  Whereto the climber-upward turns his face;
+ Whereto the climber-upward turns his face;
 
-    And when he once obtains the upmost round,
+ And when he once obtains the upmost round,
 
-      He then unto the ladder turns his back,
+ He then unto the ladder turns his back,
 
-        Looks in the clouds, scorning the base degrees
+ Looks in the clouds, scorning the base degrees
 
-          By which he did ascend.
+ By which he did ascend.
 
 </div>
 
@@ -2014,39 +2108,39 @@ Lowliness is young ambition's ladder,
 
 Lowliness is young ambition's ladder,
 
-  Whereto the climber-upward turns his face;
+ Whereto the climber-upward turns his face;
 
-    And when he once obtains the upmost round,
+ And when he once obtains the upmost round,
 
-      He then unto the ladder turns his back,
+ He then unto the ladder turns his back,
 
-        Looks in the clouds, scorning the base degrees
+ Looks in the clouds, scorning the base degrees
 
-          By which he did ascend.
+ By which he did ascend.
 
 Virtue is choked with foul ambition
 
-  And charity chased hence by rancor's hand;
+ And charity chased hence by rancor's hand;
 
-    Foul subornation is predominant
+ Foul subornation is predominant
 
-      And equity exiled your highness' land.
+ And equity exiled your highness' land.
 
 </div>
 
 <div class="post" data-post-id="28403" data-author="Medios" data-date="2009-03-05T14:54:42+00:00" data-subject="">
 
-How can you argue that anyone other than the person should decide these things.  You talk about greed and selfishness and then in the same sentence assume that government knows better.  When has the government ever known better?  How often have politicians lied to us?  Seriously how can you sit here and say that they should be running our lives.
+How can you argue that anyone other than the person should decide these things. You talk about greed and selfishness and then in the same sentence assume that government knows better. When has the government ever known better? How often have politicians lied to us? Seriously how can you sit here and say that they should be running our lives.
 
-In a free country if you don't like your job get a new one.  If you don't like your hair get it cut.  The downfall of our country will be the redistribution of wealth to the non-producers.  You cannot punish the producers while encouraging the non-producers.  You end up with Rome and 50% of the population depending on the other half.  
+In a free country if you don't like your job get a new one. If you don't like your hair get it cut. The downfall of our country will be the redistribution of wealth to the non-producers. You cannot punish the producers while encouraging the non-producers. You end up with Rome and 50% of the population depending on the other half. 
 
-The main reason that America is great(in my eyes) is that we reward hard work.  We don't tell you how many hours you can work or what your maximum pay will be.  If you want to make a million dollars that is your business , we won't stop you.  
+The main reason that America is great(in my eyes) is that we reward hard work. We don't tell you how many hours you can work or what your maximum pay will be. If you want to make a million dollars that is your business , we won't stop you. 
 
-Explain to me why someone would go to school for 10 years and accrue a quarter million in debt to be a doctor, lawyer, rocket scientist if they will "earn" as much as the guy hauling the trash.  It takes away from achievement when you claim everyone has the same earning potential.  You don't see any correlation with welfare and the ongoing group of people who refuse to work?  Why would someone work at McDonalds and be broke all the time when they can sit at home and draw part of my check.  Then when they are at home they can sell drugs or do some other illegal untaxed activity to take even more from my community.  If these people were not hand fed they would be forced to produce.  Produce or starve.  Sure this is harsh but at what point to we realize that we cannot reinforce sloth or greed for that matter.  
+Explain to me why someone would go to school for 10 years and accrue a quarter million in debt to be a doctor, lawyer, rocket scientist if they will "earn" as much as the guy hauling the trash. It takes away from achievement when you claim everyone has the same earning potential. You don't see any correlation with welfare and the ongoing group of people who refuse to work? Why would someone work at McDonalds and be broke all the time when they can sit at home and draw part of my check. Then when they are at home they can sell drugs or do some other illegal untaxed activity to take even more from my community. If these people were not hand fed they would be forced to produce. Produce or starve. Sure this is harsh but at what point to we realize that we cannot reinforce sloth or greed for that matter. 
 
-You talk this stuff about greed and my desires for freedom being selfish.  You act like I am the destroyer of worlds.
+You talk this stuff about greed and my desires for freedom being selfish. You act like I am the destroyer of worlds.
 
-I want everyone in the world to afford the freedom I have and more.  Without freedom how can anyone be happy.  They would not be able to fulfill what they see as happiness(touched on in another post). [b:leofj9ls] Unless you think the government should tell us what makes us happy then pay for those items I don't see how you can argue this.[/b:leofj9ls]
+I want everyone in the world to afford the freedom I have and more. Without freedom how can anyone be happy. They would not be able to fulfill what they see as happiness(touched on in another post). <strong>Unless you think the government should tell us what makes us happy then pay for those items I don't see how you can argue this.</strong>
 
 Oh wait Obama is doing this.
 
@@ -2066,9 +2160,9 @@ That is what makes you great.
 
 <div class="post" data-post-id="28419" data-author="Yasik2" data-date="2009-03-07T04:38:42+00:00" data-subject="">
 
-HARRY POTTER HINTING AT WHAT ALL OF YOU WILL NEVER GET ![/size:1tfergmc][/color:1tfergmc] (if you keep posting in this thread)
+HARRY POTTER HINTING AT WHAT ALL OF YOU WILL NEVER GET ! (if you keep posting in this thread)
 
-[img:1tfergmc]http://yasik.kiev.ua/Harry_Potter_gesture.gif[/img:1tfergmc]
+![](http://yasik.kiev.ua/Harry_Potter_gesture.gif)
 
 </div>
 
@@ -2090,7 +2184,7 @@ your very faces are the shutting up, please
 
 <div class="post" data-post-id="28437" data-author="Tap" data-date="2009-03-10T10:23:26+00:00" data-subject="">
 
-[img:othdyt77]http://www.freewebs.com/fame-us/yoda.jpg[/img:othdyt77]
+![](http://www.freewebs.com/fame-us/yoda.jpg)
 
 </div>
 
@@ -2098,15 +2192,15 @@ your very faces are the shutting up, please
 
 Wow, Tap, you're hairy!
 
- 8)
+ <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="28444" data-author="Tap" data-date="2009-03-11T02:22:02+00:00" data-subject="">
 
-Yes, but not too hairy *wink*
+Yes, but not too hairy \*wink\*
 
-[img:1cp8eke7]http://www.haisentito.it/img/_pillole-Viagra.jpg[/img:1cp8eke7]
+![](http://www.haisentito.it/img/_pillole-Viagra.jpg)
 
 </div>
 
@@ -2116,17 +2210,17 @@ Nationalizing insolvent banks is GOOD.
 
 Some people are calling for nationalization of our banks, and others are vehemently against it (like some of our senators.)
 
-The word has a negative stigma to it.  People think that nationalizing the banks means that the government will run the banks, handle daily transactions, and loans will be made based on politics (aka having connections) instead of profit (aka based on merit.)
+The word has a negative stigma to it. People think that nationalizing the banks means that the government will run the banks, handle daily transactions, and loans will be made based on politics (aka having connections) instead of profit (aka based on merit.)
 
 This is NOT true.
 
-In America, when we say nationalize, we mean that the FDIC takes over the bank on Friday and carves up and auctions off the assets over the weekend.  This is why all bank failures are on Friday.
+In America, when we say nationalize, we mean that the FDIC takes over the bank on Friday and carves up and auctions off the assets over the weekend. This is why all bank failures are on Friday.
 
-Notice that in this scheme (which is one of the FDIC's main jobs, by law), the taxpayer absorbs the losses of the bank, but it also gets the upside, in the process of the auction.  Right now, we are socializing the losses and privatizing the gains.
+Notice that in this scheme (which is one of the FDIC's main jobs, by law), the taxpayer absorbs the losses of the bank, but it also gets the upside, in the process of the auction. Right now, we are socializing the losses and privatizing the gains.
 
 So far in 2009, we have nationalized 16 failed banks.
 
-Citigroup's operations are tremendous, and it may take more than a weekend to figure out how to unwind it, but if you believe that a bankrupt bank should be shut down (crazy, I know!), then you are FOR nationalization.  Call it receivership or preprivatization if you want.
+Citigroup's operations are tremendous, and it may take more than a weekend to figure out how to unwind it, but if you believe that a bankrupt bank should be shut down (crazy, I know!), then you are FOR nationalization. Call it receivership or preprivatization if you want.
 
 So the next time someone tells you that nationalization is bad, educate him.
 
@@ -2136,7 +2230,7 @@ So the next time someone tells you that nationalization is bad, educate him.
 
 Sorry Reboog but once again, you are wrong, still great, but wrong
 
-Go to Canada or any other country with NATIONALIZED health care. You are "fortunate" to get cancer or some disease... first you have to wait to see what doctor you will eb allowed to see....then you will wait to see what the government will allow the doctor to do..then you will wait to see if the prescribed medicine/treatment is approved by a panel who then advises the doctor to either go ahead and treat  or deny treatment..oh usually after all that waiting, your either dead or alot further worse off than you would have normally been.
+Go to Canada or any other country with NATIONALIZED health care. You are "fortunate" to get cancer or some disease... first you have to wait to see what doctor you will eb allowed to see....then you will wait to see what the government will allow the doctor to do..then you will wait to see if the prescribed medicine/treatment is approved by a panel who then advises the doctor to either go ahead and treat or deny treatment..oh usually after all that waiting, your either dead or alot further worse off than you would have normally been.
 
 Too easy..
 
@@ -2148,15 +2242,14 @@ Again too easy of an example....
 
 You know who liked NATIONALISM?
 
-[img:23qp9gy9]http://www.indiadaily.org/images/nazi_hitler.jpg[/img:23qp9gy9]
+![](http://www.indiadaily.org/images/nazi_hitler.jpg)
 
 </div>
 
 <div class="post" data-post-id="28464" data-author="*juggleblood*" data-date="2009-03-12T12:52:10+00:00" data-subject="Re: What is nationalization?">
 
-Notice that in this scheme (which is one of the FDIC's main jobs, by law), the taxpayer absorbs the losses of the bank, but it also gets the upside, in the process of the auction.  Right now, we are socializing the losses and privatizing the gains.
-
-[/quote:mohdzfdc]
+> <strong>reboog wrote:</strong>
+> Notice that in this scheme (which is one of the FDIC's main jobs, by law), the taxpayer absorbs the losses of the bank, but it also gets the upside, in the process of the auction. Right now, we are socializing the losses and privatizing the gains.
 
 Word.
 
@@ -2164,11 +2257,11 @@ Word.
 
 <div class="post" data-post-id="28465" data-author="Medios" data-date="2009-03-12T13:23:32+00:00" data-subject="">
 
-Check out the link.  They even have maps of North American Union and the Super Hub in Kansas City.  I really can't believe that the government is moving this quickly.  Ron Paul voters are terrorists?  Hahahaha
+Check out the link. They even have maps of North American Union and the Super Hub in Kansas City. I really can't believe that the government is moving this quickly. Ron Paul voters are terrorists? Hahahaha
 
 More like weed smokers.
 
-[<LINK_TEXT text="http://www.infowars.com/secret-state-po ... errorists/">http://www.infowars.com/secret-state-police-report-ron-paul-bob-barr-chuck-baldwin-libertarians-are-terrorists/</LINK_TEXT>](http://www.infowars.com/secret-state-police-report-ron-paul-bob-barr-chuck-baldwin-libertarians-are-terrorists/)
+[http://www.infowars.com/secret-state-police-report-ron-paul-bob-barr-chuck-baldwin-libertarians-are-terrorists/](http://www.infowars.com/secret-state-police-report-ron-paul-bob-barr-chuck-baldwin-libertarians-are-terrorists/)
 
 Secret State Police Report: Ron Paul, Bob Barr, Chuck Baldwin, Libertarians are Terrorists 
 
@@ -2178,23 +2271,23 @@ In September of 2008, Missouri sheriffs and prosecutors organized truth squads t
 
 In order to artificially heighten the perceived threat threshold, MIAC rolls in Christian Identity, white nationalism, â€œmilitantâ€ anti-abortion activists, opposition to illegal immigration, and income tax resistance. MIAC deceptively blurs the lines between these disparate political ideologies and underscores the possibility for violence in a summary of the organizational structure of the militia movement and a section describing how members strive to train in â€œcombat readiness.â€
 
-[b:3fprgeyn]According to MIAC, opposition to world government, NAFTA, federalization of the states, and restrictive gun laws are a threat to the police. â€œThe militia subscribes to an anti-government and NWO mindset, which creates a threat to law enforcement officers.[/b:3fprgeyn] They view the military, National Guard, and law enforcement as a force that will confiscate their firearms and place them in FEMA concentration camps,â€ the document claims in a section entitled â€œYou are the Enemy.â€
+<strong>According to MIAC, opposition to world government, NAFTA, federalization of the states, and restrictive gun laws are a threat to the police. â€œThe militia subscribes to an anti-government and NWO mindset, which creates a threat to law enforcement officers.</strong> They view the military, National Guard, and law enforcement as a force that will confiscate their firearms and place them in FEMA concentration camps,â€ the document claims in a section entitled â€œYou are the Enemy.â€
 
 The award-winning film Zeitgeist, featuring Alex Jones, is also mentioned as terrorist material. 
 
-[b:3fprgeyn]MIAC is attempting to radicalize the police against political activity guaranteed by the U.S. Constitution and the Bill of Rights.[/b:3fprgeyn] If Missouri police indoctrinated by MIAC propaganda overreact to political activists and supporters of Ron Paul in their state and injure or kill people involved in entirely legal and legitimate political activity, MIAC, the governor of Missouri (his name appears on the MIAC document), and the DHS and federal government should be held directly responsible and prosecuted the fullest extent of the law.
+<strong>MIAC is attempting to radicalize the police against political activity guaranteed by the U.S. Constitution and the Bill of Rights.</strong> If Missouri police indoctrinated by MIAC propaganda overreact to political activists and supporters of Ron Paul in their state and injure or kill people involved in entirely legal and legitimate political activity, MIAC, the governor of Missouri (his name appears on the MIAC document), and the DHS and federal government should be held directly responsible and prosecuted the fullest extent of the law.
 
 </div>
 
 <div class="post" data-post-id="28470" data-author="reboog" data-date="2009-03-12T17:27:03+00:00" data-subject="">
 
-Tap:  If you're not going to read a single word I wrote, don't bother replying.
+Tap: If you're not going to read a single word I wrote, don't bother replying.
 
 </div>
 
 <div class="post" data-post-id="28471" data-author="Poggle" data-date="2009-03-12T17:53:10+00:00" data-subject="">
 
-[img:slkhxytr]http://totallylookslike.files.wordpress.com/2008/07/ron-paul.jpg[/img:slkhxytr]
+![](http://totallylookslike.files.wordpress.com/2008/07/ron-paul.jpg)
 
 </div>
 
@@ -2208,9 +2301,9 @@ Poggle is great.
 
 And you guys thought were going to fight Russia!!!
 
-Here is Obama deciding that Iraq and Afghanistan are not nearly enough to table.  After campaigning on no intervention and bringing our troops home it looks like the cat is out of the bag on the real fascism.  
+Here is Obama deciding that Iraq and Afghanistan are not nearly enough to table. After campaigning on no intervention and bringing our troops home it looks like the cat is out of the bag on the real fascism. 
 
-[<LINK_TEXT text="http://www.timesonline.co.uk/tol/news/w ... 898650.ece">http://www.timesonline.co.uk/tol/news/world/us_and_americas/article5898650.ece</LINK_TEXT>](http://www.timesonline.co.uk/tol/news/world/us_and_americas/article5898650.ece)
+[http://www.timesonline.co.uk/tol/news/world/us_and_americas/article5898650.ece](http://www.timesonline.co.uk/tol/news/world/us_and_americas/article5898650.ece)
 
 US warships head for South China Sea after standoff
 
@@ -2234,7 +2327,7 @@ They really should start making those warships waterproof.
 
 <div class="post" data-post-id="28518" data-author="reboog" data-date="2009-03-16T18:06:36+00:00" data-subject="">
 
-Stock market continues rally.  No bank failures last Friday.
+Stock market continues rally. No bank failures last Friday.
 
 Depression is off.
 
@@ -2242,9 +2335,12 @@ Depression is off.
 
 <div class="post" data-post-id="28520" data-author="Medios" data-date="2009-03-16T20:55:20+00:00" data-subject="">
 
-Stock market continues rally.  No bank failures last Friday.
-
-Depression is off.[/quote:18psvw5t]
+> <strong>reboog wrote:</strong>
+> Stock market continues rally. No bank failures last Friday.
+> 
+> 
+> 
+> Depression is off.
 
 Good we can finally raise taxes then.
 
@@ -2260,7 +2356,7 @@ San Francisco got first choice.
 
 <div class="post" data-post-id="28529" data-author="reboog" data-date="2009-03-17T02:41:15+00:00" data-subject="">
 
-In 1994, George Akerlof (nobel prize winner) and Paul Romer wrote a paper called "Looting: The Economic Underworld of Bankruptcy for Profit."  
+In 1994, George Akerlof (nobel prize winner) and Paul Romer wrote a paper called "Looting: The Economic Underworld of Bankruptcy for Profit." 
 
 It documents how financial institutions go bankrupt and then loot the public purse, using complex methods and terms to hide it.
 
@@ -2280,25 +2376,33 @@ The thing that stuns me the most is how bailed out institutions are paying corpo
 
 Of course theres something they can do. They can refuse the money!
 
-In 1994, George Akerlof (nobel prize winner) and Paul Romer wrote a paper called "Looting: The Economic Underworld of Bankruptcy for Profit."  
-
-It documents how financial institutions go bankrupt and then loot the public purse, using complex methods and terms to hide it.
-
-Translation: Bailouts need to stop.[/quote:28e5eeur]
+> <strong>reboog wrote:</strong>
+> In 1994, George Akerlof (nobel prize winner) and Paul Romer wrote a paper called "Looting: The Economic Underworld of Bankruptcy for Profit." 
+> 
+> 
+> 
+> It documents how financial institutions go bankrupt and then loot the public purse, using complex methods and terms to hide it.
+> 
+> 
+> 
+> Translation: Bailouts need to stop.
 
 </div>
 
 <div class="post" data-post-id="28540" data-author="reboog" data-date="2009-03-17T22:04:27+00:00" data-subject="">
 
-The thing that stuns me the most is how bailed out institutions are paying corporate bonuses with bailout money with the government holding its hands up saying theres nothing it can do because these guys have contracts. 
-
-Of course theres something they can do. They can refuse the money![/quote:sp7rk9jg]
+> <strong>juggleblood wrote:</strong>
+> The thing that stuns me the most is how bailed out institutions are paying corporate bonuses with bailout money with the government holding its hands up saying theres nothing it can do because these guys have contracts. 
+> 
+> 
+> 
+> Of course theres something they can do. They can refuse the money!
 
 Congratulations, you are now smarter than all of the administration.
 
 The crisis is very easy to handle... just not for politicians.
 
-On a side note, Congress' grandstanding is pretty funny.  Paulson specifically wanted no restrictions to be made on the funds, and they go and pay themselves bonuses (now that bonuses are capped, they are looking at raising their base salary), and we are somehow surprised by this?
+On a side note, Congress' grandstanding is pretty funny. Paulson specifically wanted no restrictions to be made on the funds, and they go and pay themselves bonuses (now that bonuses are capped, they are looking at raising their base salary), and we are somehow surprised by this?
 
 Andrew Cuomo (NY attorney general) is actually making good headway into accusing the guys at AIG for fraudulent conveyance.
 
@@ -2310,9 +2414,9 @@ I should also mention that the failure of AIG will not be the end of civilizatio
 
 Price controls may be making a comeback in certain states.
 
-It looks like rent control has already passed the NY assembly.  They're trying to get rent control in SF as well.
+It looks like rent control has already passed the NY assembly. They're trying to get rent control in SF as well.
 
-Super edit:  Price controls may be coming back to all states except Vermont.
+Super edit: Price controls may be coming back to all states except Vermont.
 
 </div>
 
@@ -2400,13 +2504,13 @@ is this institution crucial to the recovery of the economy?
 
 <div class="post" data-post-id="28551" data-author="reboog" data-date="2009-03-18T04:59:31+00:00" data-subject="">
 
-Not only is the institution important to the success of the economy, the people who drove it into the ground are fundamental as well.  Without these guys, the world would end!!!!
+Not only is the institution important to the success of the economy, the people who drove it into the ground are fundamental as well. Without these guys, the world would end!!!!
 
 </div>
 
 <div class="post" data-post-id="28552" data-author="Weasel" data-date="2009-03-18T05:40:44+00:00" data-subject="">
 
-Unless AIG declare bankruptcy, they [i:1cnkmjtp]have[/i:1cnkmjtp] to pay many of these bonuses. The retention bonuses, as I understand it, are being paid out to those who have now [i:1cnkmjtp]completed[/i:1cnkmjtp] the contract term - for example: a year ago they were offered $ if they agreed to stay for another 12 months. They have now done that and are being given the bonuses that were agreed to contractually, and they are moving on, as per the contract. 
+Unless AIG declare bankruptcy, they <em>have</em> to pay many of these bonuses. The retention bonuses, as I understand it, are being paid out to those who have now <em>completed</em> the contract term - for example: a year ago they were offered $ if they agreed to stay for another 12 months. They have now done that and are being given the bonuses that were agreed to contractually, and they are moving on, as per the contract. 
 
 AIG is still bound legally to pay, and much of this stuff in the news is just politicians grandstanding for votes and telling half-truths, along with the media (what a surprise), and putting the blame on AIG instead of their own corrupt and failed policies. Not that AIG is free of blame, but this is just ridiculous. 
 
@@ -2422,21 +2526,26 @@ Again, I don't like this any more than anyone else here, but I'm not letting the
 
 <div class="post" data-post-id="28553" data-author="reboog" data-date="2009-03-18T06:47:36+00:00" data-subject="">
 
-Actually, they're trying to get the money back by finding AIG guilty of fraudulent conveyance.  In short, because the company is bankrupt, those bonus contracts are not worth the paper they're written on.
+Actually, they're trying to get the money back by finding AIG guilty of fraudulent conveyance. In short, because the company is bankrupt, those bonus contracts are not worth the paper they're written on.
 
-Of course, all this could've been avoided in the first place had we not bailed out AIG.  Even despite that, after the bailout, the government holds ~80% of the company.  It could choose to exercise its will, but it won't, because that would be... NATIONALIZATION (oh my very noes.)
+Of course, all this could've been avoided in the first place had we not bailed out AIG. Even despite that, after the bailout, the government holds \~80% of the company. It could choose to exercise its will, but it won't, because that would be... NATIONALIZATION (oh my very noes.)
 
-I admit that I was unsure what to think of the AIG bailout when it first occurred.  But now it is clear that continuing to pour money there is the exact opposite of what needs to happen.  And how the politicians are allowing this, in opposition to the public outrage, is unthinkable.  How blind/corrupt is this administration?
+I admit that I was unsure what to think of the AIG bailout when it first occurred. But now it is clear that continuing to pour money there is the exact opposite of what needs to happen. And how the politicians are allowing this, in opposition to the public outrage, is unthinkable. How blind/corrupt is this administration?
 
 </div>
 
 <div class="post" data-post-id="28555" data-author="Weasel" data-date="2009-03-18T11:00:38+00:00" data-subject="">
 
-Actually, they're trying to get the money back by finding AIG guilty of fraudulent conveyance.  In short, because the company is bankrupt, those bonus contracts are not worth the paper they're written on.
-
-Of course, all this could've been avoided in the first place had we not bailed out AIG.  Even despite that, after the bailout, the government holds ~80% of the company.  It could choose to exercise its will, but it won't, because that would be... NATIONALIZATION (oh my very noes.)
-
-I admit that I was unsure what to think of the AIG bailout when it first occurred.  But now it is clear that continuing to pour money there is the exact opposite of what needs to happen.  And how the politicians are allowing this, in opposition to the public outrage, is unthinkable.  How blind/corrupt is this administration?[/quote:v8usw6c6]
+> <strong>reboog wrote:</strong>
+> Actually, they're trying to get the money back by finding AIG guilty of fraudulent conveyance. In short, because the company is bankrupt, those bonus contracts are not worth the paper they're written on.
+> 
+> 
+> 
+> Of course, all this could've been avoided in the first place had we not bailed out AIG. Even despite that, after the bailout, the government holds \~80% of the company. It could choose to exercise its will, but it won't, because that would be... NATIONALIZATION (oh my very noes.)
+> 
+> 
+> 
+> I admit that I was unsure what to think of the AIG bailout when it first occurred. But now it is clear that continuing to pour money there is the exact opposite of what needs to happen. And how the politicians are allowing this, in opposition to the public outrage, is unthinkable. How blind/corrupt is this administration?
 
 Yeah I realize what the govt are trying to do, but AIG have not declared bankruptcy, and until they do, they are NOT legally bankrupt, even if their balance sheet says they are technically. Therefore they cannot be found guilty of fraudulent conveyance (at least with the contractual retaining bonuses anyway) in the way you outlined the govt is trying to do. 
 
@@ -2446,7 +2555,7 @@ Again, I'm not saying these people deserve this money, but that's not the point.
 
 The govt may force through some law to somehow get money off these AIG employees, but those people WILL get it back (and then some) in court, any lawyer can predict that one, but of course that will be old news by then and you'll never hear about it, which is exactly how the govt will try to play it. Get the public on their side, and direct the outrage somewhere else.
 
-More likely the govt will try to tack the total amount paid in bonuses onto whatever AIG already owes the govt, that way on paper the bonuses were paid by AIG and not us (even though effectively that's a load of cr@p), because trying to recoup it from the employees is only going to cost us a lot more in the long run.   
+More likely the govt will try to tack the total amount paid in bonuses onto whatever AIG already owes the govt, that way on paper the bonuses were paid by AIG and not us (even though effectively that's a load of cr@p), because trying to recoup it from the employees is only going to cost us a lot more in the long run. 
 
 Either way, they've created a very convenient distraction from the increasing public dissatisfaction at what the govt is doing. 
 
@@ -2456,13 +2565,13 @@ Have you heard about the increasing 'tea party' protests that have been going on
 
 <div class="post" data-post-id="28557" data-author="reboog" data-date="2009-03-18T16:45:06+00:00" data-subject="">
 
-There is a huge upside to this.  The administration is spending so much time on this that they are unable to enact other stupid and damaging policies to our economy.
+There is a huge upside to this. The administration is spending so much time on this that they are unable to enact other stupid and damaging policies to our economy.
 
 Oh wait, price controls are coming!
 
-Edit:  
+Edit: 
 
-Weasel: AIG is OFFICIALLY bankrupt.  There, I have declared what everyone in the world knows already.
+Weasel: AIG is OFFICIALLY bankrupt. There, I have declared what everyone in the world knows already.
 
 </div>
 
@@ -2490,11 +2599,12 @@ I'll be funding you
 
 <div class="post" data-post-id="28560" data-author="Weasel" data-date="2009-03-18T20:38:22+00:00" data-subject="">
 
-Weasel: AIG is OFFICIALLY bankrupt.  There, I have declared what everyone in the world knows already.[/quote:3vs9uebx]
+> <strong>reboog wrote:</strong>
+> Weasel: AIG is OFFICIALLY bankrupt. There, I have declared what everyone in the world knows already.
 
 Sorry, but the US Justice System, for some strange reason, fails to acknowledge your declaration. Legally AIG is still an operating concern.
 
-[i:3vs9uebx]Legally[/i:3vs9uebx] is the key word there, not [i:3vs9uebx]officially[/i:3vs9uebx]. 
+<em>Legally</em> is the key word there, not <em>officially</em>. 
 
 Nice try though. Wish it was that easy, then we could all just get on with it.
 
@@ -2528,11 +2638,11 @@ edit: not to mention the fact that the government and the president himself are 
 
 Heard several interesting talking points on the radio today that some have already pointed out. Specifically,
 
-1. Yes, this was a known fact that the commissions were going to be paid and voted for by all the democrats. they can spin this all they want, but when you vote on a bill that has over 1000 pages in it and don't even take the necessary time to debate NOR read it..expect shit to happen.
+1\. Yes, this was a known fact that the commissions were going to be paid and voted for by all the democrats. they can spin this all they want, but when you vote on a bill that has over 1000 pages in it and don't even take the necessary time to debate NOR read it..expect shit to happen.
 
-2. The reason for the hush-hush of course is the kickbacks Osama and others were getting towards "campaign contributions" . Now that the smoke is settling, panic is beginning to set in and the pointing of fingers begin.
+2\. The reason for the hush-hush of course is the kickbacks Osama and others were getting towards "campaign contributions" . Now that the smoke is settling, panic is beginning to set in and the pointing of fingers begin.
 
-3. Although not a popular side to take, I think they should be allowed to keep
+3\. Although not a popular side to take, I think they should be allowed to keep
 
 the money. If they decide to return a portion or all, then that is their choice, however, giving that the Guv-ment can come in a re-negotiate a contract as it sees fit will only allow it to do so again in the future. Consider the possibilities of Osama and his cronies taking that much power to start re-writing laws as they see fit.. I think a revolution would loom even closer.
 
@@ -2552,7 +2662,7 @@ When they put me in Gitmo for openly supporting Ron Paul I wonder if they will l
 
 Good times ahead.
 
-[<LINK_TEXT text="http://www.dtic.mil/whs/directives/corr ... 40410p.pdf">http://www.dtic.mil/whs/directives/corres/pdf/140410p.pdf</LINK_TEXT>](http://www.dtic.mil/whs/directives/corres/pdf/140410p.pdf)
+[http://www.dtic.mil/whs/directives/corres/pdf/140410p.pdf](http://www.dtic.mil/whs/directives/corres/pdf/140410p.pdf)
 
 "Department of Defense Directive
 

@@ -14,6 +14,6 @@ post_count: 1
 
 ... somebody's water container (the Olympus variety..) down from SS Well yesterday. I'm guessing someone dropped it by accident in the excitement of the area opener (thanks Pixie!)
 
-Please find me in game to get it back :)
+Please find me in game to get it back <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

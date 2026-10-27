@@ -16,13 +16,13 @@ These batch mostly targets warriors as a supporting class, but will obviously he
 
 Melee damage: 
 
-Little know fact: warrior primes receive progressively better melee damage as they advance in levels.  Melee is your physical attacks, that do not include kick, backstab, and so on.  Monk primes also receive a similar bonus.
+Little know fact: warrior primes receive progressively better melee damage as they advance in levels. Melee is your physical attacks, that do not include kick, backstab, and so on. Monk primes also receive a similar bonus.
 
-The change to melee: warrior non-primes now get a small boost to their melee as well.  At any given time this will be 40-50% of what a prime warrior gets.
+The change to melee: warrior non-primes now get a small boost to their melee as well. At any given time this will be 40-50% of what a prime warrior gets.
 
 Frenzy:
 
-Frenzy will now add in damage to multiplier attacks, such as backstab, deathgrip, deathtouch, wraithtouch, strike and circlestab, at ~50% of what its regular damage bonus is.
+Frenzy will now add in damage to multiplier attacks, such as backstab, deathgrip, deathtouch, wraithtouch, strike and circlestab, at \~50% of what its regular damage bonus is.
 
 Frenzy gets an upgrade in duration at higher levels.
 
@@ -32,6 +32,6 @@ Berserk now adds damage into multipliable attacks, as does Frenzy, but at roughl
 
 HP support:
 
-Warriors receive hp floors (minimum hp) at tertiary and quad levels.  For tertiary you will never get less than 4 hp (not much different than now), for quad you will not receive less than 2 hp/level.
+Warriors receive hp floors (minimum hp) at tertiary and quad levels. For tertiary you will never get less than 4 hp (not much different than now), for quad you will not receive less than 2 hp/level.
 
 </div>

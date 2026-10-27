@@ -22,7 +22,7 @@ If someone out there in scripting land can figure out how to query it from withi
 
 Thanks,
 
--Shiv/Enea
+\-Shiv/Enea
 
 </div>
 
@@ -36,16 +36,15 @@ With the alias defined, you can say for example 'eqlist diamond' to get a list o
 
 For the time being this is pointing at the backup eq list as there is a problem with the slothmud one. Just change the url in the listing below when Shiv has fixed the problem.
 
-[code:1byr8p9k] Editor's Note: the problem has been fixed.
-
-[/code:1byr8p9k]
+```
+ Editor's Note: the problem has been fixed.
+```
 
 regards
 
 Fro
 
-[code:1byr8p9k]
-
+```
 using System;
 
 using System.Windows.Forms;
@@ -68,119 +67,116 @@ public class Script : WintinScript
 
 	{
 
-		string line = wintin.Line.Trim();
+ string line = wintin.Line.Trim();
 
-		string url = "http://www.slothmud.org/eqlist/xml.php?eqname=" + line;
+ string url = "http://www.slothmud.org/eqlist/xml.php?eqname=" + line;
 
-		WebRequest req; 
+ WebRequest req; 
 
-		Stream st = null;
+ Stream st = null;
 
-		XmlTextReader xr = null;
+ XmlTextReader xr = null;
 
-			
+ try
 
-		try
+ {
 
-		{
+ req = WebRequest.Create(url);
 
-			req = WebRequest.Create(url);
+ WebResponse resp = req.GetResponse();
 
-			WebResponse resp = req.GetResponse();
+ st = resp.GetResponseStream();
 
-			st = resp.GetResponseStream();
+ xr = new XmlTextReader(st);
 
-			xr = new XmlTextReader(st);
+ string eqname, type, armor, affects, res; 
 
-			string eqname, type, armor, affects, res; 
+ while(xr.Read())
 
-			while(xr.Read())
+ {
 
-			{
+ xr.MoveToElement();
 
-				xr.MoveToElement();
+ if(xr.Name == "eq" && xr.NodeType == XmlNodeType.Element)
 
-				if(xr.Name == "eq" && xr.NodeType == XmlNodeType.Element)
+ {
 
-				{
+ eqname = "";
 
-					eqname = "";
+ type = "";
 
-					type = "";
+ armor = "";
 
-					armor = "";
+ affects = "";
 
-					affects = "";
+ do
 
-					do
+ {
 
-					{
+ xr.Read();
 
-						xr.Read();
+ if(xr.NodeType == XmlNodeType.Element)
 
-						if(xr.NodeType == XmlNodeType.Element)
+ {
 
-						{
+ if(xr.Name == "eqname")
 
-							if(xr.Name == "eqname")
+ eqname = xr.ReadElementString();
 
-								eqname = xr.ReadElementString();
+ if(xr.Name == "type")
 
-							if(xr.Name == "type")
+ type = xr.ReadElementString();
 
-								type = xr.ReadElementString();
+ if(xr.Name == "armor")
 
-							if(xr.Name == "armor")
+ armor = xr.ReadElementString();
 
-								armor = xr.ReadElementString();
+ if(xr.Name == "affects")
 
-							if(xr.Name == "affects")
+ affects = xr.ReadElementString();
 
-								affects = xr.ReadElementString();
+ }
 
-						}
+ }
 
-					}
+ while(xr.Name != "eq" || xr.NodeType != XmlNodeType.EndElement);
 
-					while(xr.Name != "eq" || xr.NodeType != XmlNodeType.EndElement);
+ res = eqname + " (" + type + ") " + armor + " " + affects + "\r\n";
 
-	
+ wintin.SendToScreen(res);
 
-					res = eqname + " (" + type + ") " + armor + " " + affects + "\r\n";
+ }
 
-					wintin.SendToScreen(res);
+ }
 
-				}
+ }
 
-			}
+ catch(Exception ex)
 
-		}
+ {
 
-		catch(Exception ex)
+ MessageBox.Show(ex.Message);
 
-		{
+ }
 
-			MessageBox.Show(ex.Message);
+ finally
 
-		}
+ {
 
-		finally
+ if(st != null)
 
-		{
+ st.Close();
 
-			if(st != null)
+ if(xr != null)
 
-				st.Close();
+ xr.Close();
 
-			if(xr != null)
-
-				xr.Close();
-
-		}
+ }
 
 	}
 
-}[/code:1byr8p9k]
+}
+```
 
 </div>
 
@@ -200,7 +196,7 @@ not
 
 [http://www.slothmud.org/xml.php?eqname=](http://www.slothmud.org/xml.php?eqname=)
 
--Shiv
+\-Shiv
 
 </div>
 
@@ -208,21 +204,21 @@ not
 
 Hi everyone,
 
-Since the mud was down I took some time and wrote another xml tool.  This one is used to get the forge/brew/etc item about an info.  It's at:
+Since the mud was down I took some time and wrote another xml tool. This one is used to get the forge/brew/etc item about an info. It's at:
 
-<http://www.slothmud.org/eqlist/forgexml.php?eqname=(your item name here)>
+\<http://www.slothmud.org/eqlist/forgexml.php?eqname=(your item name here)\>
 
-Once again I'll let somone else write the client-side script for it, but it's a pretty easy tool to use.  For best results to see what it looks like, open it in IE, since IE has that neato built-in xml viewing tool... I keep hoping a coming version of Firefox will have something similar...
+Once again I'll let somone else write the client-side script for it, but it's a pretty easy tool to use. For best results to see what it looks like, open it in IE, since IE has that neato built-in xml viewing tool... I keep hoping a coming version of Firefox will have something similar...
 
--Shiv/Enea
+\-Shiv/Enea
 
 </div>
 
 <div class="post" data-post-id="12981" data-author="Avatar" data-date="2006-06-12T13:57:37+00:00" data-subject="Eqlist tools">
 
-That's pretty nice, both of the web-based query tools.  
+That's pretty nice, both of the web-based query tools. 
 
-I've been considering keeping my forge notes scripted in the client, instead of my current setup = bunches of txt files and an excel spreadsheet.  Now it would be possible to integrate the two.  I could import the list of forge ingredients and flag each one as it pops.
+I've been considering keeping my forge notes scripted in the client, instead of my current setup = bunches of txt files and an excel spreadsheet. Now it would be possible to integrate the two. I could import the list of forge ingredients and flag each one as it pops.
 
 I'll have to think of the benefits, but these new tools create interesting possibilities.
 
@@ -230,7 +226,7 @@ I'll have to think of the benefits, but these new tools create interesting possi
 
 <div class="post" data-post-id="12987" data-author="Mannu" data-date="2006-06-13T22:49:09+00:00" data-subject="eqlist scripts and proxy">
 
-I'd love to use those scripts, but I'm logged on through a socks proxy.  It seems like the connection to the website cannot be made.  Is there a way to make it work with proxy connections?
+I'd love to use those scripts, but I'm logged on through a socks proxy. It seems like the connection to the website cannot be made. Is there a way to make it work with proxy connections?
 
 </div>
 
@@ -274,16 +270,16 @@ so you see, not to rant too much but there is really no feasible way to do it at
 
 <div class="post" data-post-id="32304" data-author="Vekna" data-date="2011-01-09T18:50:05+00:00" data-subject="Re: XML eqlist queries">
 
-> ***Benq* wrote:**
+> <strong>\*Benq\* wrote:</strong>
 > I would do a complete export weekly or so in xml format which could be downloaded and parsed by the clients but on the old eqlist when i did that people just linked to it directly instead of caching it which caused a ton of traffic since some moron(s) had it automatically look up every item he(they) saw, which downloaded a huge xml file each time..
 
-It will be great!  :)
+It will be great! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="32305" data-author="Tuck" data-date="2011-01-10T18:32:31+00:00" data-subject="Re: XML eqlist queries">
 
-> ***Benq* wrote:**
+> <strong>\*Benq\* wrote:</strong>
 > I would do a complete export weekly or so in xml format which could be downloaded and parsed by the clients but on the old eqlist when i did that people just linked to it directly instead of caching it which caused a ton of traffic since some moron(s) had it automatically look up every item he(they) saw, which downloaded a huge xml file each time.
 
 You can ban morons by IP, even make it automatically.

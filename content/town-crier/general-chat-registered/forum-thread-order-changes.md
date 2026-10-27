@@ -20,11 +20,12 @@ Yes, I know I can scroll way down the bottom and change it to newest first, but 
 
 <div class="post" data-post-id="12784" data-author="Clink" data-date="2006-05-29T13:27:08+00:00" data-subject="Re: forum thread order changes?">
 
-Is it just me, or ...[/quote:1vd9jel1]
+> <strong>Weasel wrote:</strong>
+> Is it just me, or ...
 
-Yes.  The website has been coded to annoy just Weasel.   :shock: 
+Yes. The website has been coded to annoy just Weasel. <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
-Actually, they have been flipped, but you can easily get to the latest post in a forum by clicking on the little square page looking button with they arrow next to it instead of the forum name.  This work on the list of 5 most recent posts on the left of the homepage as well as the list of forums pages.
+Actually, they have been flipped, but you can easily get to the latest post in a forum by clicking on the little square page looking button with they arrow next to it instead of the forum name. This work on the list of 5 most recent posts on the left of the homepage as well as the list of forums pages.
 
 It has been changed to be more in line with 95% of other forums on the web.
 
@@ -40,25 +41,39 @@ I knew it - the website really has been coded to annoy me! I knew I smelled a co
 
 So now I know I didn't do something to inadvertantly change my preferences - which is really what I was wanting to know in the first place.
 
-[img:2ci8ovz6]http://hometown.aol.com/autumnhaus/images/cute%20cartoon%20sheep.jpg[/img:2ci8ovz6]
+![](http://hometown.aol.com/autumnhaus/images/cute%20cartoon%20sheep.jpg)
 
-btw, just because 95% (?) of other forums on the web list postings oldest first doesn't necessarily mean it's the best way to do it. baaaaaaaa.  :twisted:
+btw, just because 95% (?) of other forums on the web list postings oldest first doesn't necessarily mean it's the best way to do it. baaaaaaaa. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="12850" data-author="madmax" data-date="2006-06-02T17:46:15+00:00" data-subject="Re: forum thread order changes?">
 
-Is it just me, or ...[/quote:8cfsi5jn]
-
-Yes.  The website has been coded to annoy just Weasel.   :shock: 
-
-Actually, they have been flipped, but you can easily get to the latest post in a forum by clicking on the little square page looking button with they arrow next to it instead of the forum name.  This work on the list of 5 most recent posts on the left of the homepage as well as the list of forums pages.
-
-It has been changed to be more in line with 95% of other forums on the web.
-
-Regards,
-
-Clink[/quote:8cfsi5jn]
+> <strong>Clink wrote:</strong>
+> > <strong>Weasel wrote:</strong>
+> > Is it just me, or ...
+> 
+> 
+> 
+> 
+> 
+> Yes. The website has been coded to annoy just Weasel. <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
+> 
+> 
+> 
+> Actually, they have been flipped, but you can easily get to the latest post in a forum by clicking on the little square page looking button with they arrow next to it instead of the forum name. This work on the list of 5 most recent posts on the left of the homepage as well as the list of forums pages.
+> 
+> 
+> 
+> It has been changed to be more in line with 95% of other forums on the web.
+> 
+> 
+> 
+> Regards,
+> 
+> 
+> 
+> Clink
 
 Would it be possible to add a selection withing the -My Account- settings to allow the newest first post globally?
 
@@ -70,8 +85,8 @@ Thanks!
 
 <div class="post" data-post-id="12852" data-author="Clink" data-date="2006-06-02T19:51:56+00:00" data-subject="">
 
-Not likely in the near future.  There is a new version of this software that runs this board coming out soon.  If it is in there we'll get it.
+Not likely in the near future. There is a new version of this software that runs this board coming out soon. If it is in there we'll get it.
 
-In the mean time see this Post Ordering Poll[/url:37cew7ql] for voting on the preferred order.   I'll go with the majority.
+In the mean time see this [Post Ordering Poll](http://www.slothmud.org/index.php?name=PNphpBB2&file=viewtopic&p=12851#12851:37cew7ql) for voting on the preferred order. I'll go with the majority.
 
 </div>

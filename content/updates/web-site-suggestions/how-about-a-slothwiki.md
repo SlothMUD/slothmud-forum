@@ -40,7 +40,7 @@ Dan (currently Apoc, not sure where my older characters or their logins went)
 
 I discussed this with Chobbs about a week ago, at which point I joined a pretty nice
 
-Shyla CHOP group and discussed it with them. (Sam being the fiercest opponent (or realist?) :P)
+Shyla CHOP group and discussed it with them. (Sam being the fiercest opponent (or realist?) <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">)
 
 In the end I decided that I was going to set one up for you guys, using mediawiki.
 
@@ -62,7 +62,7 @@ Let me know if you need any help with it. Feel free to drop me an email. I have 
 
 <div class="post" data-post-id="32344" data-author="*Breeze*" data-date="2011-01-21T21:12:58+00:00" data-subject="Re: How about a SlothWiki">
 
-if you would like to help out w/ the mortal wiki, chobbs is the man to talk to. :)
+if you would like to help out w/ the mortal wiki, chobbs is the man to talk to. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -86,7 +86,7 @@ sent him email
 
 Mornin' folks,
 
-All folks interested in helping out with this project, send me an email (chobbs@slothmud.org).  That includes you, little blue mage lore master!
+All folks interested in helping out with this project, send me an email (chobbs@slothmud.org). That includes you, little blue mage lore master!
 
 /afkafaik
 
@@ -106,11 +106,11 @@ http://www.mudpedia.org/wiki/SlothMUD
 
 Mornin' folks,
 
-Fame!  Glory!  Wealth!  None of the above!  
+Fame! Glory! Wealth! None of the above! 
 
 Still need a bit more help with this project.
 
-Anyone interested in helping with this endeavor please email me at chobbs@slothmud.org.  Help greatly appreciated!  
+Anyone interested in helping with this endeavor please email me at chobbs@slothmud.org. Help greatly appreciated! 
 
 /icanseeyourhousefromhere
 
@@ -120,12 +120,12 @@ Chobbs!
 
 <div class="post" data-post-id="32416" data-author="Thraxas" data-date="2011-02-11T13:44:05+00:00" data-subject="Re: How about a SlothWiki">
 
-> ***Chobbs* wrote:**
+> <strong>\*Chobbs\* wrote:</strong>
 > Mornin' folks,
 > 
 > 
 > 
-> Fame!  Glory!  Wealth!  None of the above!  
+> Fame! Glory! Wealth! None of the above! 
 > 
 > 
 > 
@@ -133,7 +133,7 @@ Chobbs!
 > 
 > 
 > 
-> Anyone interested in helping with this endeavor please email me at chobbs@slothmud.org.  Help greatly appreciated!  
+> Anyone interested in helping with this endeavor please email me at chobbs@slothmud.org. Help greatly appreciated! 
 > 
 > 
 > 
@@ -155,15 +155,15 @@ Some elucidation then!
 
 Looking for:
 
-- proofreaders
+\- proofreaders
 
-- folks who wish to do some short writing
+\- folks who wish to do some short writing
 
-- masters of the art of cut and paste
+\- masters of the art of cut and paste
 
-- heck, even some graphical artists would be cool
+\- heck, even some graphical artists would be cool
 
-Preferably those with a bit of experience under their belt regarding the workings of Sloth, and/or know a thing or two about wikis in general.  
+Preferably those with a bit of experience under their belt regarding the workings of Sloth, and/or know a thing or two about wikis in general. 
 
 Chobbs!
 
@@ -181,19 +181,19 @@ Mornin' folks,
 
 Silent feedback, so I'll assume things are fine.
 
-Added/fixed a few random things to the Wiki that I had forgotten, just a few minor things here and there.  Still a lot of red links that will hopefully be filled in sooner or later.  Wonder what else I forgot!
+Added/fixed a few random things to the Wiki that I had forgotten, just a few minor things here and there. Still a lot of red links that will hopefully be filled in sooner or later. Wonder what else I forgot!
 
 Stuff I'm looking for:
 
-- Logs from previous quests, such as who lists, notable mobs, rewards, synopses, that sort of stuff.  Hoping to expand the area opener/past quest pages for posterity's sake (nothing like that nostalgia factor).  Just dummied in some nonsense for now, will make it prettier later.
+\- Logs from previous quests, such as who lists, notable mobs, rewards, synopses, that sort of stuff. Hoping to expand the area opener/past quest pages for posterity's sake (nothing like that nostalgia factor). Just dummied in some nonsense for now, will make it prettier later.
 
-- Anyone remember who built some of the uncredited areas?  Or approximate addition dates?  Leaving them uncredited irks me.  
+\- Anyone remember who built some of the uncredited areas? Or approximate addition dates? Leaving them uncredited irks me. 
 
-- High Plains and Moon Temple, both on BH, still need maps.  
+\- High Plains and Moon Temple, both on BH, still need maps. 
 
-Another note: IE disagrees with a lot of the css.  So there might be some anomalous formats if you use IE.
+Another note: IE disagrees with a lot of the css. So there might be some anomalous formats if you use IE.
 
-Anything else that should be added?  If not, it's time to move on to another project/sabbatical, whichever one comes first.
+Anything else that should be added? If not, it's time to move on to another project/sabbatical, whichever one comes first.
 
 Chobbs
 
@@ -207,15 +207,15 @@ Seems like a good addition to the eqlist or if the two are intergrated.
 
 What I'd add about mobs:
 
-- size
+\- size
 
-- exp
+\- exp
 
-- damage
+\- damage
 
-- unique procs and how to cope with them
+\- unique procs and how to cope with them
 
-- group size, if necessary
+\- group size, if necessary
 
 I believe auto mobs would have to be monitored or its feedback filtered.
 
@@ -223,7 +223,7 @@ I believe auto mobs would have to be monitored or its feedback filtered.
 
 <div class="post" data-post-id="32487" data-author="Tuck" data-date="2011-03-17T13:36:28+00:00" data-subject="Re: How about a SlothWiki">
 
-> **Teron wrote:**
+> <strong>Teron wrote:</strong>
 > So we wont be able to add any info about mobs, just the areas/mud, right?
 > 
 > 
@@ -234,23 +234,23 @@ I believe auto mobs would have to be monitored or its feedback filtered.
 > 
 > What I'd add about mobs:
 > 
-> - size
+> \- size
 > 
-> - exp
+> \- exp
 > 
-> - damage
+> \- damage
 > 
-> - unique procs and how to cope with them
+> \- unique procs and how to cope with them
 > 
-> - group size, if necessary
+> \- group size, if necessary
 > 
 > 
 > 
 > I believe auto mobs would have to be monitored or its feedback filtered.
 
-And url/login/pass from you internet banking account please.  8) 
+And url/login/pass from you internet banking account please. <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> 
 
-Sorry, can't avoid :)
+Sorry, can't avoid <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

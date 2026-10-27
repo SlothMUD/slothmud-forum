@@ -16,7 +16,7 @@ No, I haven't found how to enter it... but here is a list of everything I know..
 
 This is the Initial information from the quest at Xicilia Black. (I know we don't post about quests, but entering rebirth shop is not a quest.)
 
-> **Quote:**
+> <strong>Quote:</strong>
 > I hope you put that dwarf and his friends through a long and painful death.
 > 
 > They certainly deserve it.
@@ -25,39 +25,39 @@ This is the Initial information from the quest at Xicilia Black. (I know we don'
 > 
 > that it happened... suddenly you get a break... whole pieces seem to fit into
 > 
-> place, not a sign of being... what a fool!  The answer was there all the time,
+> place, not a sign of being... what a fool! The answer was there all the time,
 > 
-> it took a small accident to make it happen.  AN ACCIDENT.
+> it took a small accident to make it happen. AN ACCIDENT.
 > 
-> You see, I had wiped out everything in the area I was in and decided to planar shift to wreak havok elsewhere.  As I completed my spell, a lightning bolt struck nearby and I was knocked unconcious.  When I awoke I found myself
+> You see, I had wiped out everything in the area I was in and decided to planar shift to wreak havok elsewhere. As I completed my spell, a lightning bolt struck nearby and I was knocked unconcious. When I awoke I found myself
 > 
-> elsewhere - floating in a vast open void.  As I floated toward a bright light
+> elsewhere - floating in a vast open void. As I floated toward a bright light
 > 
 > in the center of this void I realized it was an area of creation and
 > 
-> destruction.  The bodies of the dead are pulled here by some invisible force
+> destruction. The bodies of the dead are pulled here by some invisible force
 > 
-> and then vaporized into bright lights.  The lights are focused on each other,
+> and then vaporized into bright lights. The lights are focused on each other,
 > 
 > forming a glowing orb which periodically erupts and sends tiny elemental
 > 
 > particles back into the world.
 > 
-> It was at this orb that I encountered a strange, ancient creature.  When I
+> It was at this orb that I encountered a strange, ancient creature. When I
 > 
 > approached he spoke to me and told me that the magic here could cause me to be
 > 
-> reborn.  That I could start again and become more powerful than before.  Of
+> reborn. That I could start again and become more powerful than before. Of
 > 
-> course, I had to take him up on this offer.  I had to know what power awaited
+> course, I had to take him up on this offer. I had to know what power awaited
 > 
-> me.  The creature waved its arms and instantly I was changed back to a novice
+> me. The creature waved its arms and instantly I was changed back to a novice
 > 
 > adventurer but with more power within.
 > 
 > The creature then pointed me in the direction of a portal that would return me
 > 
-> to the mortal world.  He told me that if I reached the limits of my new power
+> to the mortal world. He told me that if I reached the limits of my new power
 > 
 > that I could return and he would show me how to increase my power even further.
 > 
@@ -65,28 +65,28 @@ This is the Initial information from the quest at Xicilia Black. (I know we don'
 > 
 > and now I am back, increasing my power and killing anyone who stands in my way.
 > 
-> So there you have it.  The secret is the planar shift spell.  Of course, you'll
+> So there you have it. The secret is the planar shift spell. Of course, you'll
 > 
-> have to find the right place and conditions for casting the spell - **it doesn't
+> have to find the right place and conditions for casting the spell \- <strong>it doesn't</strong>
 > 
-> always have the effect that it had on me that night**.  It shouldn't be too hard
+> <strong>always have the effect that it had on me that night</strong>. It shouldn't be too hard
 > 
-> - I've figured it out again and have returned to increase my power on several
+> \- I've figured it out again and have returned to increase my power on several
 > 
 > occassions.
 > 
-> Now begone before I change my mind and decide to kill you.  Your corpse would
+> Now begone before I change my mind and decide to kill you. Your corpse would
 > 
 > probably be a decent addition to my undead army.
 
 Driven has found this note...
 
-> **Quote:**
+> <strong>Quote:</strong>
 > The planar shift spell is so unpredictable because the source of its power is
 > 
-> not fully understood.  If it were, it is likely that the caster would be able
+> not fully understood. If it were, it is likely that the caster would be able
 > 
-> to control the spell's teleportation destination.  So little is understood that
+> to control the spell's teleportation destination. So little is understood that
 > 
 > it is unclear as to whether the planar shift is impacted by the caster's other
 > 
@@ -98,19 +98,19 @@ You weave the threads of magic masterfully!
 
 Epicenter of the Particle Field
 
-   Tiny particles of energy and differently colored lights race about
+ Tiny particles of energy and differently colored lights race about
 
 without any certain rhyme or reason except to enclose a pocket in the
 
-center of four huge arms of gas and dust extending outward.  The cloud of
+center of four huge arms of gas and dust extending outward. The cloud of
 
 sparkling dust slowly glides away from a small, intensely glowing sphere of
 
-energy in the center of the area.  Two columns of light, one above and one
+energy in the center of the area. Two columns of light, one above and one
 
 below the sphere seem to be feeding the sphere with energy
 
-Exits: North  East  South  West  Up  Down  
+Exits: North East South West Up Down 
 
 Example is standing here. (Faint Blue Aura)
 
@@ -120,7 +120,7 @@ An ancient creature is intensely focused on the sphere of energy.
 
 The ancient is surrounded by an undulating spectral shield.
 
-Your target is in Projects.  
+Your target is in Projects. 
 
 The rebirth shop keeper will ping as... tell ancient-creature .
 
@@ -238,43 +238,43 @@ AREAID:493	ROOMID:25601	ROOM:Above the Alien Landscape
 
 Now breaking down the information... it suggest there is a correct condition and place...
 
-1) PLACE
+1\) PLACE
 
-* It could be that planar shift must be cast from a specific room.
+\* It could be that planar shift must be cast from a specific room.
 
-* It could be that the place is "EU" and it does not require a specific room.
+\* It could be that the place is "EU" and it does not require a specific room.
 
-2) CONDITIONS
+2\) CONDITIONS
 
-* There was a reference in the necromancers story that it was "One Night." This may be important or it may be just part of the dialogue. Put the game time in your prompt.
+\* There was a reference in the necromancers story that it was "One Night." This may be important or it may be just part of the dialogue. Put the game time in your prompt.
 
-* There was a reference to a lightning bolt... this has caused many to assume plane of lightning, but keep an open mind... it may just be a reference to the weather.
+\* There was a reference to a lightning bolt... this has caused many to assume plane of lightning, but keep an open mind... it may just be a reference to the weather.
 
-* The note Driven found hints that the spells you have up may influence planar shift. If this was to be true, it more likely that "no spells up" would be a correct condition because there is already precedents in the game for that type of thing, but keep an open mind.
+\* The note Driven found hints that the spells you have up may influence planar shift. If this was to be true, it more likely that "no spells up" would be a correct condition because there is already precedents in the game for that type of thing, but keep an open mind.
 
-* The story points out that all mobs were dead when planar shift was cast. This may be important, or maybe it's just part of his story.
+\* The story points out that all mobs were dead when planar shift was cast. This may be important, or maybe it's just part of his story.
 
-* It does seem certain that Planar Shift spell is the mechanism by which one arrives at the shop.
+\* It does seem certain that Planar Shift spell is the mechanism by which one arrives at the shop.
 
-* Perhaps the reference to the Cosmos in Driven's note was a reference to an astrological house. Maybe the time? Keep an open mind.
+\* Perhaps the reference to the Cosmos in Driven's note was a reference to an astrological house. Maybe the time? Keep an open mind.
 
-* Maybe something else... did I mention to keep an open mind?
+\* Maybe something else... did I mention to keep an open mind?
 
 When playing around trying to find the rebirth shop... your probably going to get frustrated, and you'll arrive by chance and then be unable to figure out how you finally got there... it's for this reason if you do arrive at rebirth shop you need to be ready to immediately collect data... type these commands and post to the forum... time, score, reading, where. Make sure you change your prompt to look something like the following so you can log the time and the weather which maybe important... 
 
-prompt <$hhp $mma $vmv $aac $Z #$w# $Q $f%>
+prompt \<$hhp $mma $vmv $aac $Z #$w# $Q $f%\>
 
 Personally, I doubt all the mobs in the zone need to be killed. I'm 50/50 on the idea that you have to be in a certain room when you cast for it to work. It wouldn't surprise me if the weather has to be stormy to enter or something related to storms.
 
-Teker has told me "A number of clues have been added in game that will pop at various rates.  I'll keep adding more or increase the pop rates as time goes by." We are probably already ready for the next one, as it seems the rebirths have already lost interest in finding it for now.
+Teker has told me "A number of clues have been added in game that will pop at various rates. I'll keep adding more or increase the pop rates as time goes by." We are probably already ready for the next one, as it seems the rebirths have already lost interest in finding it for now.
 
 </div>
 
 <div class="post" data-post-id="39233" data-author="Driven" data-date="2019-07-05T20:30:44+00:00" data-subject="Re: Rebirth Shop Info">
 
-As Gorka knows, but for the benefit of others trying to find the rebirth shop... we cleared out the Lightning Plane of all mobs today, used control weather to induce lightning storms, and tried planar shifting from various rooms at 12am onward.  We tried this with and without spells up. 
+As Gorka knows, but for the benefit of others trying to find the rebirth shop... we cleared out the Lightning Plane of all mobs today, used control weather to induce lightning storms, and tried planar shifting from various rooms at 12am onward. We tried this with and without spells up. 
 
-No luck.  I will be camped out in the zone shifted as a tree if anyone else wants to experiment in here.
+No luck. I will be camped out in the zone shifted as a tree if anyone else wants to experiment in here.
 
 </div>
 
@@ -292,17 +292,17 @@ Some time after the dwarven expedition, individual
 
 adventurers reported
 
-seeing a Juju Zombie in the Plane of Salt.  It appeared
+seeing a Juju Zombie in the Plane of Salt. It appeared
 
 to be starving, but
 
-would not let anyone close enough to feed it.  A large
+would not let anyone close enough to feed it. A large
 
 party was sent out to
 
 capture or kill the zombie, but they were unable to get
 
-close to it.  After
+close to it. After
 
 that, the zombie was never seen again.
 
@@ -318,19 +318,19 @@ Ok.
 
 Rebirth Shop Test Room
 
-   The shopkeeper is here running in test mode.  That means:              .
+ The shopkeeper is here running in test mode. That means: .
 
-                                                                          .
+ .
 
-1) Only immortals can buy the effects.                                    .
+1\) Only immortals can buy the effects. .
 
-2) The xp and gold isn't being charged when purchased.                    .
+2\) The xp and gold isn't being charged when purchased. .
 
-3) You can sell items back to the shop.                                   .
+3\) You can sell items back to the shop. .
 
-                                                                          .
+ .
 
-                                                                          .
+ .
 
 Take a look at the xp and gold costs and how they change with purchases.
 
@@ -342,7 +342,7 @@ The rebirth shopkeeper is here.
 
 You peer intently all around, and see:
 
-      You see nothing special. : right here
+ You see nothing special. : right here
 
 </div>
 
@@ -352,17 +352,17 @@ examine note
 
 There is something written upon it:
 
-The dwarves snickered.  "Who are you?", another dwarf asked.
+The dwarves snickered. "Who are you?", another dwarf asked.
 
 "I am Xicilia Black," she sneered.
 
 The dwarves snickered again, and then circled to speak where the woman could
 
-not hear them.  Surely this frail woman could not be the most feared
+not hear them. Surely this frail woman could not be the most feared
 
-Necromancer Xicila Black.  They decided that the woman had become delusional
+Necromancer Xicila Black. They decided that the woman had become delusional
 
-due to whatever experience she had just been through.  They agreed that they
+due to whatever experience she had just been through. They agreed that they
 
 would take her back to Settlestone, to receive medical care for her wounds.
 
@@ -372,7 +372,7 @@ pass or harm herself.
 
 The next morning the fellowship packed their things and gated back to
 
-Settlestone, taking the woman with them.  I will miss their company.  It has
+Settlestone, taking the woman with them. I will miss their company. It has
 
 become much quieter since they left.
 
@@ -386,25 +386,25 @@ Found on a note in Plane of Salt
 
 On the final day of the Dwarven Expedition to Euridyce, the leaders of the
 
-fellowship decided to retire early due to inclement weather.  The members of
+fellowship decided to retire early due to inclement weather. The members of
 
 the party spent much of the day at the Inn, drinking and recalling stories
 
-of their trip and of past adventures.  As the day turned into night, the
+of their trip and of past adventures. As the day turned into night, the
 
 group became more raucous and the sounds of the celebration echoed through
 
 the Planar Nexus.
 
-That is, until an explosion occurred outside.  The sound of the blast was
+That is, until an explosion occurred outside. The sound of the blast was
 
 loud enough that we all covered our ears instinctively to protect ourselves.
 
-The building shook slightly as if a distant quake had occurred.  Some
+The building shook slightly as if a distant quake had occurred. Some
 
-focused upon the door to see if something was outside.  Some watched the
+focused upon the door to see if something was outside. Some watched the
 
-lamps swinging slightly over their heads.  Some looked at each other.  But
+lamps swinging slightly over their heads. Some looked at each other. But
 
 no one spoke a word.i
 
@@ -436,29 +436,29 @@ There is something written upon it:
 
 One of the dwarves, Grundor I believe, slowly made his was to the doors
 
-of the Inn.  He took great care to be silent, and he clung to his axe as
+of the Inn. He took great care to be silent, and he clung to his axe as
 
-he made his way across the room.  Grundor peeked out the doors and around
+he made his way across the room. Grundor peeked out the doors and around
 
-the corner, and gazed in the direction of the Great Monolith.  He turned to
+the corner, and gazed in the direction of the Great Monolith. He turned to
 
-the group and waved at them to follow him.  Then he headed out the door.
+the group and waved at them to follow him. Then he headed out the door.
 
-The rest of the dwaves grabbed their weapons and followed.  Those of us
+The rest of the dwaves grabbed their weapons and followed. Those of us
 
 curious enough to know what had happened, followed them.
 
 At the base of the monolith, a woman was slumped over, resting against the
 
-stone.  She was nearly naked, but had been carrying a large pile of armor
+stone. She was nearly naked, but had been carrying a large pile of armor
 
-and other equipment, which now laid on the ground next to her.  She was weak
+and other equipment, which now laid on the ground next to her. She was weak
 
 and her exposed skin was covered in welts, as if she had been burned severely.
 
 "What happened to you?", one of the dwarves asked.
 
-"I have been reborn.", the woman answered quietly.  "Bow before me you
+"I have been reborn.", the woman answered quietly. "Bow before me you
 
 miserable dwarves, for I am now more powerful than you can ever imagine."
 
@@ -502,21 +502,21 @@ this item.
 
 Requires: 10000000 coins, 1x a single drop of water (0), 
 
-  1x an oblong pebble (0), 1x a tiny vortex (0), 1x a puff of smoke (0), 
+ 1x an oblong pebble (0), 1x a tiny vortex (0), 1x a puff of smoke (0), 
 
-  1x a cube of elemental salt (0), 1x a smoldering eyestalk (0), 
+ 1x a cube of elemental salt (0), 1x a smoldering eyestalk (0), 
 
-  1x a flask of elemental flame (0), 1x a cloud of floating embers (0), 
+ 1x a flask of elemental flame (0), 1x a cloud of floating embers (0), 
 
-  1x a clockwork puzzle box (0), 1x a jagged sliver of bone (0), 
+ 1x a clockwork puzzle box (0), 1x a jagged sliver of bone (0), 
 
-  1x an orb of positive energy (0), 1x a mirror of shadows (0), 
+ 1x an orb of positive energy (0), 1x a mirror of shadows (0), 
 
-  1x a tome of evil scriptures (0), 1x a pair of devil's horns (0), 1x a vial of aether (0), 
+ 1x a tome of evil scriptures (0), 1x a pair of devil's horns (0), 1x a vial of aether (0), 
 
-  1x a bundle of uncut rubies (0), 1x an ancient clay tablet (0), 
+ 1x a bundle of uncut rubies (0), 1x an ancient clay tablet (0), 
 
-  1x a clutch of salmon roe (0), 1x a balloon (0), 1x a reborn particle (0)
+ 1x a clutch of salmon roe (0), 1x a balloon (0), 1x a reborn particle (0)
 
 The cp's I caught a whiff of before rebirth shop actually went in, and I had started already to collect them realising they were for something upcoming. It wasn't until I got the note today, and talked to the cyclops I now realise what they are for. Waza and Suna also helped find some of them when I let them in on what I knew... some of these cp's I didn't know about. I assume the staff is a key to take you immediately to rebirth shop? Certainly beats what I've been trying to do so far.
 
@@ -536,7 +536,7 @@ Are these cp's even zoned yet? Singing wealth is not showing them on any contine
 
 1x a reborn particle (0)
 
-Or does this mean that they are proc loaders? Will there be clues? It may take months to find them. I'm in a rush...  :twisted:
+Or does this mean that they are proc loaders? Will there be clues? It may take months to find them. I'm in a rush... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -546,15 +546,15 @@ There is something written upon it:
 
 Patient File: XIPF-0026326877
 
-I was introduced to a rather interesting woman today.  She was brought to the
+I was introduced to a rather interesting woman today. She was brought to the
 
-infirmary from the Planar Nexus by a group that was mapping the area.  Her
+infirmary from the Planar Nexus by a group that was mapping the area. Her
 
 entire body is badly burned, as if she had been hit by a bolt of lightning. As
 
 if that wasn't unusual enough, the wound pattern seems to indicate that the
 
-damage originated inside her body.  It's as if the lightning was inside her
+damage originated inside her body. It's as if the lightning was inside her
 
 and struck outward.
 
@@ -570,21 +570,21 @@ A confidential file crumbles in your hands.
 
 <div class="post" data-post-id="39245" data-author="*teker*" data-date="2019-07-11T17:33:50+00:00" data-subject="Re: Rebirth Shop Info">
 
-You are guys are doing well and are definitely on the right track.  I thought I might clarify a few things based on the contents of the previous posts.
+You are guys are doing well and are definitely on the right track. I thought I might clarify a few things based on the contents of the previous posts.
 
-You have correctly discovered that there are 2 ways to reach the rebirth shop.  The staff forge and planar shifting under the correct conditions.
+You have correctly discovered that there are 2 ways to reach the rebirth shop. The staff forge and planar shifting under the correct conditions.
 
 I will check and see if all the staff cps are popping.
 
 For the planar shift spell, there are 5 conditions that must be met to get to the rebirth shop.
 
-1) You have correctly identified the place for where to cast the spell.
+1\) You have correctly identified the place for where to cast the spell.
 
-2) You have correctly identified the weather required.
+2\) You have correctly identified the weather required.
 
-3) You have identified the time of day as a condition but have not figured out the correct time(s).  A few people have popped the clue for this but the information has not been posted here.
+3\) You have identified the time of day as a condition but have not figured out the correct time(s). A few people have popped the clue for this but the information has not been posted here.
 
-4 and 5) These are spells that must be active when casting the spell.  There's a clue out there with this information or you might be able to experiment to figure it out.  
+4 and 5) These are spells that must be active when casting the spell. There's a clue out there with this information or you might be able to experiment to figure it out. 
 
 Happy hunting!
 
@@ -610,11 +610,11 @@ The outside of this golden locket has been scortched by
 
 some kind of powerful
 
-attack.  On the inside, two tiny bone arms with hands
+attack. On the inside, two tiny bone arms with hands
 
 have been fastened to
 
-a pin in the center of the locket.  It appears they are
+a pin in the center of the locket. It appears they are
 
 designed to rotate
 
@@ -654,9 +654,9 @@ The greatest struggles offer even greater lessons.
 
 sc
 
-Driven upwards. (Reborn)  (level: 40)
+Driven upwards. (Reborn) (level: 40)
 
-Your levels:  Mo: 40 Dr: 40 Ma: 40 Ne: 40 Cl: 40 Wa: 40
+Your levels: Mo: 40 Dr: 40 Ma: 40 Ne: 40 Cl: 40 Wa: 40
 
 Th: 40 Ba: 40 Av: 40
 
@@ -708,87 +708,87 @@ Your song can affect as many as nine people.
 
 You are affected by the following spells:
 
-   Mindbar
+ Mindbar
 
-   Detect Evil
+ Detect Evil
 
-   Detect Good
+ Detect Good
 
-   Detect Magic
+ Detect Magic
 
-   Detect Invisible
+ Detect Invisible
 
-   Sense Life
+ Sense Life
 
-   Infravision
+ Infravision
 
-   Darksight
+ Darksight
 
-   Perception
+ Perception
 
-   Invisibility
+ Invisibility
 
-   Darkness
+ Darkness
 
-   God Sanctuary
+ God Sanctuary
 
-   Dark Cloak
+ Dark Cloak
 
-   Protection from Evil
+ Protection from Evil
 
-   Resist Fire
+ Resist Fire
 
-   Avatar Blessing
+ Avatar Blessing
 
-   Resist Cold
+ Resist Cold
 
-   Resist Webs
+ Resist Webs
 
-   Covered in grease
+ Covered in grease
 
-   Purity
+ Purity
 
-   Restiveness
+ Restiveness
 
-   Spectral Shield
+ Spectral Shield
 
-   Petrified Armor
+ Petrified Armor
 
-   Greater Fluidity
+ Greater Fluidity
 
-   Wraithform
+ Wraithform
 
-   Demonic Aura
+ Demonic Aura
 
-   Improved Haste
+ Improved Haste
 
-   Fly
+ Fly
 
-   Water Breathing
+ Water Breathing
 
-   Rejuvenation
+ Rejuvenation
 
-   Nature's Restoral
+ Nature's Restoral
 
-   Greater Mobility
+ Greater Mobility
 
-   Strength
+ Strength
 
-   Aptitude
+ Aptitude
 
-   Insight
+ Insight
 
-   Quicken
+ Quicken
 
-   Vitality
+ Vitality
 
-   Undead Visage
+ Undead Visage
 
-   Fortune
+ Fortune
 
 You are imbued with the following spells:
 
-   wraithform at level 40 (2 charges)
+ wraithform at level 40 (2 charges)
 
 [1444hp/139ma/479mv, +146hr/+71mr, -11.0, -%]
 
@@ -800,9 +800,9 @@ You are transported in a column of flames!
 
 The Valley of Flame
 
-   Tiny fires flare up to either side of the pathway
+ Tiny fires flare up to either side of the pathway
 
-here.  Showers of
+here. Showers of
 
 BLEAH!
 
@@ -828,43 +828,43 @@ Ok, so things are coming together, but we still could be ages out from establish
 
 It seems we have 3 of the 5 conditions...
 
-1) Plane of Salt - Any outdoor room
+1\) Plane of Salt - Any outdoor room
 
-2) Weather must be stormy
+2\) Weather must be stormy
 
-3) Must be midnight
+3\) Must be midnight
 
-4) Some spell
+4\) Some spell
 
-5) Some spell
+5\) Some spell
 
 Regarding the staff... I have loaded the following components...
 
-*** 1x a cube of elemental salt (0), SALT PLANE
+\*\*\* 1x a cube of elemental salt (0), SALT PLANE
 
-*** 1x a smoldering eyestalk (0), MAGMA PLANE
+\*\*\* 1x a smoldering eyestalk (0), MAGMA PLANE
 
-*** 1x a cloud of floating embers (0), LIGHTNING PLANE
+\*\*\* 1x a cloud of floating embers (0), LIGHTNING PLANE
 
-*** 1x an orb of positive energy (0), POSITIVE PLANE
+\*\*\* 1x an orb of positive energy (0), POSITIVE PLANE
 
-*** 1x a pair of devil's horns (0), CAINA
+\*\*\* 1x a pair of devil's horns (0), CAINA
 
-*** 1x a bundle of uncut rubies (0), FIRE PLANE
+\*\*\* 1x a bundle of uncut rubies (0), FIRE PLANE
 
-*** 1x an ancient clay tablet (0), EARTH PLANE
+\*\*\* 1x an ancient clay tablet (0), EARTH PLANE
 
-*** 1x a clutch of salmon roe (0), WATER PLANE
+\*\*\* 1x a clutch of salmon roe (0), WATER PLANE
 
-*** 1x a balloon (0), AIR PLANE
+\*\*\* 1x a balloon (0), AIR PLANE
 
-*** 1x a tome of evil scriptures (0), GEHENNA
+\*\*\* 1x a tome of evil scriptures (0), GEHENNA
 
-*** 1x a jagged sliver of bone (0), PLANE OF ICE
+\*\*\* 1x a jagged sliver of bone (0), PLANE OF ICE
 
-*** 1x a vial of aether (0), ETHER PLANE
+\*\*\* 1x a vial of aether (0), ETHER PLANE
 
-*** 1x a mirror of shadows (0), NEG PLANE
+\*\*\* 1x a mirror of shadows (0), NEG PLANE
 
 I have these to go... in these zones...
 
@@ -894,7 +894,7 @@ I need people to run Neptunes original planes and kill the small mobs so the pro
 
 <div class="post" data-post-id="39252" data-author="*teker*" data-date="2019-07-12T17:14:01+00:00" data-subject="Re: Rebirth Shop Info">
 
->> What spells am I missing?
+\>\> What spells am I missing?
 
 You're getting closer...
 
@@ -902,19 +902,19 @@ You're getting closer...
 
 <div class="post" data-post-id="39256" data-author="Driven" data-date="2019-07-12T20:37:17+00:00" data-subject="Re: Rebirth Shop Info">
 
-I followed the story line and started poking around the BH Asylum.  Critter has been running the area for a couple days and has popped a couple of confidential files off the aged gnome.  So far 2 have popped but don't have  anything to do with Xicilia... my guess is there are other mons that pop the files as well.
+I followed the story line and started poking around the BH Asylum. Critter has been running the area for a couple days and has popped a couple of confidential files off the aged gnome. So far 2 have popped but don't have anything to do with Xicilia... my guess is there are other mons that pop the files as well.
 
 </div>
 
 <div class="post" data-post-id="39258" data-author="Waza" data-date="2019-07-12T21:08:50+00:00" data-subject="Re: Rebirth Shop Info">
 
->> What spells am I missing?
+\>\> What spells am I missing?
 
 Bless, and possibly bard songs, but I'm leaning toward Hermetic Resonance being required.
 
-Hermetic Resonance fits the story with bad things happening when there are 2 hermetic resonances active, including being bad for the fabric of existence.  I once used it against Lord Morrigan in Castle Black and and up being blasted into another zone, drained of all my mana.
+Hermetic Resonance fits the story with bad things happening when there are 2 hermetic resonances active, including being bad for the fabric of existence. I once used it against Lord Morrigan in Castle Black and and up being blasted into another zone, drained of all my mana.
 
-I'm currently trying to planar shift from Plane of Salt rooms with multiple spells up, including Hermetic Resonance, which spell to protect against is a question.  Leaning towards lightning bolt or thunder clap.
+I'm currently trying to planar shift from Plane of Salt rooms with multiple spells up, including Hermetic Resonance, which spell to protect against is a question. Leaning towards lightning bolt or thunder clap.
 
 </div>
 
@@ -923,138 +923,138 @@ I'm currently trying to planar shift from Plane of Salt rooms with multiple spel
 Here is a list of all spells, with a marking of what Driven had up, and what is a necro spell... Obviously I haven't removed those spells of the type which don't have a duration on the character.
 
 ```
-Spell			Driven	Necro
-darkness		X	X
-darksight		X	X
-detect evil		X	X
-detect good		X	X
+Spell Driven	Necro
+darkness X	X
+darksight X	X
+detect evil X	X
+detect good X	X
 detect invisibility	X	X
-detect magic		X	X
-mindbar			X	X
+detect magic X	X
+mindbar X	X
 protection from evil	X	X
-sense life		X	X
-spectral shield		X	X
-undead visage		X	X
-wraithform		X	X
-aptitude		X	O
-avatar sight		X	O
-dark cloak		X	O
-demonic aura		X	O
-fly			X	O
-fortune			X	O
-grease			X	O
+sense life X	X
+spectral shield X	X
+undead visage X	X
+wraithform X	X
+aptitude X	O
+avatar sight X	O
+dark cloak X	O
+demonic aura X	O
+fly X	O
+fortune X	O
+grease X	O
 greater fluidity	X	O
-improved haste		X	O
-infravision		X	O
-insight			X	O
-invisibility		X	O
-mobility		X	O
+improved haste X	O
+infravision X	O
+insight X	O
+invisibility X	O
+mobility X	O
 natures restoral	X	O
-perception		X	O
-petrified armor		X	O
-purity			X	O
-quicken			X	O
-rejuvenation		X	O
-resist cold		X	O
-resist fire		X	O
-resist webs		X	O
-restiveness		X	O
-vigor			X	O
-vitality		X	O
-water breathing		X	O
-animate dead		O	X
+perception X	O
+petrified armor X	O
+purity X	O
+quicken X	O
+rejuvenation X	O
+resist cold X	O
+resist fire X	O
+resist webs X	O
+restiveness X	O
+vigor X	O
+vitality X	O
+water breathing X	O
+animate dead O	X
 arms of the abyss	O	X
-banish undead		O	X
-bone armor		O	X
-condemnation		O	X
-control undead		O	X
+banish undead O	X
+bone armor O	X
+condemnation O	X
+control undead O	X
 corpus severance	O	X
-crimson scourge		O	X
-curse			O	X
-death pact		O	X
-deathwatch		O	X
-demon bind		O	X
-destruction		O	X
-dispel good		O	X
-dispel magic		O	X
-embalm			O	X
-energy drain		O	X
-fear			O	X
-hellstrike		O	X
-infuse soul		O	X
-knock			O	X
-lethargy		O	X
-pestilence		O	X
-putrefy			O	X
+crimson scourge O	X
+curse O	X
+death pact O	X
+deathwatch O	X
+demon bind O	X
+destruction O	X
+dispel good O	X
+dispel magic O	X
+embalm O	X
+energy drain O	X
+fear O	X
+hellstrike O	X
+infuse soul O	X
+knock O	X
+lethargy O	X
+pestilence O	X
+putrefy O	X
 reign of the spider	O	X
-silence			O	X
-simulacrum		O	X
-speak with dead		O	X
-spirit marker		O	X
-spirit watcher		O	X
-summon			O	X
-summon undead		O	X
-tenebrous claw		O	X
-unholy aura		O	X
-vampiric touch		O	X
-vision			O	X
-wall of flesh		O	X
-weaken			O	X
+silence O	X
+simulacrum O	X
+speak with dead O	X
+spirit marker O	X
+spirit watcher O	X
+summon O	X
+summon undead O	X
+tenebrous claw O	X
+unholy aura O	X
+vampiric touch O	X
+vision O	X
+wall of flesh O	X
+weaken O	X
 winds of fortune	O	X
-word of pain		O	X
-acid blast		O	O
-acid shower		O	O
-aegis			O	O
-aerial servant		O	O
-annihilation		O	O
-armor			O	O
-atonement		O	O
-attunement		O	O
-avalanche		O	O
-awaken			O	O
+word of pain O	X
+acid blast O	O
+acid shower O	O
+aegis O	O
+aerial servant O	O
+annihilation O	O
+armor O	O
+atonement O	O
+attunement O	O
+avalanche O	O
+awaken O	O
 awaken the abyss	O	O
 beyond the shadows	O	O
-bless			O	O
+bless O	O
 blessing of the avatar	O	O
-blindness		O	O
-blizzard		O	O
-brambles		O	O
+blindness O	O
+blizzard O	O
+brambles O	O
 brothers in arms	O	O
 brothers in valor	O	O
-burning hands		O	O
-call followers		O	O
-call lightning		O	O
+burning hands O	O
+call followers O	O
+call lightning O	O
 call of the cuillen	O	O
 call of the sidhe	O	O
-canopied arbor		O	O
-chain lightning		O	O
-charm person		O	O
-chill bane		O	O
-chill touch		O	O
+canopied arbor O	O
+chain lightning O	O
+charm person O	O
+chill bane O	O
+chill touch O	O
 chronos incantation	O	O
 circle of healing	O	O
-cleanse			O	O
-closing weave		O	O
-colour spray		O	O
-control weather		O	O
-convocation		O	O
-corona			O	O
-corrosive surge		O	O
-create food		O	O
-create water		O	O
+cleanse O	O
+closing weave O	O
+colour spray O	O
+control weather O	O
+convocation O	O
+corona O	O
+corrosive surge O	O
+create food O	O
+create water O	O
 cry of the avatars	O	O
-cure blind		O	O
-cure critic		O	O
-cure deafness		O	O
-cure light		O	O
-cure minor		O	O
-cure normal		O	O
-cure serious		O	O
-damnation		O	O
+cure blind O	O
+cure critic O	O
+cure deafness O	O
+cure light O	O
+cure minor O	O
+cure normal O	O
+cure serious O	O
+damnation O	O
 dance of the many	O	O
-dance of the seven 	O	O
-dark mace		O	O
-dawnfire		O	O
+dance of the seven O	O
+dark mace O	O
+dawnfire O	O
 demon touch	O	O
 detect disease	O	O
 detect poison	O	O
@@ -1195,9 +1195,9 @@ If someone wants to do better than Driven - which shouldn't be hard given this l
 
 There are two things I would suggest...
 
-1) Favour necro spells - include the ones Driven missed. (O      X)
+1\) Favour necro spells - include the ones Driven missed. (O X)
 
-2) Don't discount what the notes say about Xicilia's health or condition. It might be possible that one of the spells that needs to be up might be a disease or negative affect.
+2\) Don't discount what the notes say about Xicilia's health or condition. It might be possible that one of the spells that needs to be up might be a disease or negative affect.
 
 </div>
 
@@ -1215,7 +1215,7 @@ Let us know if you run into any more issues.
 
 Thanks, hope that helps.
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -1231,23 +1231,23 @@ We have not been able to locate Xicilia for several
 
 days, which leads me
 
-to believe she has escaped the facility.  I have asked
+to believe she has escaped the facility. I have asked
 
 our guests if any
 
-of them have seen her.  One of the madmen upstairs
+of them have seen her. One of the madmen upstairs
 
-reported that she entered                               his room through the crack below the door, as a cloud of
+reported that she entered his room through the crack below the door, as a cloud of
 
 mist, and threatened
 
 to kill him and then reanimate his corpse if he told
 
-anyone.  One of the
+anyone. One of the
 
 orderlies also saw her in the courtyard that same
 
-morning.  When he went to
+morning. When he went to
 
 apprehend her, she uttered some strange words and a
 
@@ -1261,73 +1261,73 @@ A confidential file crumbles in your hands.
 
 <div class="post" data-post-id="39262" data-author="Gorka" data-date="2019-07-13T23:45:36+00:00" data-subject="Re: Rebirth Shop Info">
 
-##   Mod  Ability                -   History  -  Xp Cost  /  Gold Cost
+\## Mod Ability - History - Xp Cost / Gold Cost
 
-----------------------------------------------------------------------
+\----------------------------------------------------------------------
 
- 1)   +1  Max Strength           -   0 of   1 -  50.00 B  /   25.00 M
+ 1\) +1 Max Strength - 0 of 1 - 50.00 B / 25.00 M
 
- 2)   +1  Max Intelligence       -   0 of   1 -  50.00 B  /   25.00 M
+ 2\) +1 Max Intelligence - 0 of 1 - 50.00 B / 25.00 M
 
- 3)   +1  Max Wisdom             -   0 of   1 -  50.00 B  /   25.00 M
+ 3\) +1 Max Wisdom - 0 of 1 - 50.00 B / 25.00 M
 
- 4)   +1  Max Dexterity          -   0 of   1 - 125.00 B  /   62.50 M
+ 4\) +1 Max Dexterity - 0 of 1 - 125.00 B / 62.50 M
 
- 5)   +1  Max Constitution       -   0 of   1 -  50.00 B  /   25.00 M
+ 5\) +1 Max Constitution - 0 of 1 - 50.00 B / 25.00 M
 
- 6)   +1  Hit Points             -   0        -   2.50 B  /    1.25 M
+ 6\) +1 Hit Points - 0 - 2.50 B / 1.25 M
 
- 7)   +1  Mana Points            -   0        -   2.50 B  /    1.25 M
+ 7\) +1 Mana Points - 0 - 2.50 B / 1.25 M
 
- 8)   +1  Movement Points        -   0        -   2.50 B  /    1.25 M
+ <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> \+1 Movement Points - 0 - 2.50 B / 1.25 M
 
- 9)   +1  Hit Point Regen        -   0 of  40 -   6.25 B  /    3.12 M
+ 9\) +1 Hit Point Regen - 0 of 40 - 6.25 B / 3.12 M
 
-10)   +1  Mana Point Regen       -   0 of  10 -  25.00 B  /   12.50 M
+10\) +1 Mana Point Regen - 0 of 10 - 25.00 B / 12.50 M
 
-11)   +1  Movement Point Regen   -   0 of  30 -   8.33 B  /    4.17 M
+11\) +1 Movement Point Regen - 0 of 30 - 8.33 B / 4.17 M
 
-12)   +1  Hit Roll               -   0 of   3 -  37.50 B  /   18.75 M
+12\) +1 Hit Roll - 0 of 3 - 37.50 B / 18.75 M
 
-13)   +1  Damage Roll            -   0 of   3 -  50.00 B  /   25.00 M
+13\) +1 Damage Roll - 0 of 3 - 50.00 B / 25.00 M
 
-14)   +1  Bonus Circle Damage    -   0 of  30 -   5.00 B  /    2.50 M
+14\) +1 Bonus Circle Damage - 0 of 30 - 5.00 B / 2.50 M
 
-15)   +1  Flail Damage           -   0 of  30 -   5.00 B  /    2.50 M
+15\) +1 Flail Damage - 0 of 30 - 5.00 B / 2.50 M
 
-16)   +1  Bonus Hand Damage      -   0 of   6 -  25.00 B  /   12.50 M
+16\) +1 Bonus Hand Damage - 0 of 6 - 25.00 B / 12.50 M
 
-17)   +1  Kick Damage            -   0 of  30 -   5.00 B  /    2.50 M
+17\) +1 Kick Damage - 0 of 30 - 5.00 B / 2.50 M
 
-18)   +1  Bonus Spell Damage     -   0 of  30 -   5.00 B  /    2.50 M
+18\) +1 Bonus Spell Damage - 0 of 30 - 5.00 B / 2.50 M
 
-19)   +1  Bonus Stab Damage      -   0 of  60 -   2.50 B  /    1.25 M
+19\) +1 Bonus Stab Damage - 0 of 60 - 2.50 B / 1.25 M
 
-20)   +1  Bonus Weapon Damage    -   0 of   6 -  25.00 B  /   12.50 M
+20\) +1 Bonus Weapon Damage - 0 of 6 - 25.00 B / 12.50 M
 
-21) -0.1  Armor Class            -   0 of   3 -  25.00 B  /   12.50 M
+21\) -0.1 Armor Class - 0 of 3 - 25.00 B / 12.50 M
 
-22)   +1  Bonus Charisma         -   0 of   3 -   5.00 B  /    2.50 M
+22\) +1 Bonus Charisma - 0 of 3 - 5.00 B / 2.50 M
 
-23)   +1  Bonus Damage Reduction -   0 of   3 -  25.00 B  /   12.50 M
+23\) +1 Bonus Damage Reduction - 0 of 3 - 25.00 B / 12.50 M
 
-24)   +1  Bonus Heal Bonus       -   0 of  30 -   5.00 B  /    2.50 M
+24\) +1 Bonus Heal Bonus - 0 of 30 - 5.00 B / 2.50 M
 
-25)   +1  System Shock           -   0 of   3 -   5.00 B  /    2.50 M
+25\) +1 System Shock - 0 of 3 - 5.00 B / 2.50 M
 
-26)   +1  Bonus Undead Control   -   0 of   3 -   5.00 B  /    2.50 M
+26\) +1 Bonus Undead Control - 0 of 3 - 5.00 B / 2.50 M
 
-27)   -1  Save Breath            -   0 of   3 -   5.00 B  /    2.50 M
+27\) -1 Save Breath - 0 of 3 - 5.00 B / 2.50 M
 
-28)   -1  Save Paralyzation      -   0 of   3 -   5.00 B  /    2.50 M
+28\) -1 Save Paralyzation - 0 of 3 - 5.00 B / 2.50 M
 
-29)   -1  Save Petrification     -   0 of   3 -   2.50 B  /    1.25 M
+29\) -1 Save Petrification - 0 of 3 - 2.50 B / 1.25 M
 
-30)   -1  Save Poison            -   0 of   3 -   2.50 B  /    1.25 M
+30\) -1 Save Poison - 0 of 3 - 2.50 B / 1.25 M
 
-31)   -1  Save Spell             -   0 of   3 -  25.00 B  /   12.50 M
+31\) -1 Save Spell - 0 of 3 - 25.00 B / 12.50 M
 
-----------------------------------------------------------------------
+\----------------------------------------------------------------------
 
 Gold coins will be deducted from your bank account if you donot have
 
@@ -1337,7 +1337,7 @@ enough gold in hand at time of purchase.
 
 <div class="post" data-post-id="39263" data-author="Driven" data-date="2019-07-14T00:35:04+00:00" data-subject="Re: Rebirth Shop Info">
 
-Kudos to Teker (and Neptune) for a great quest line and method of getting to the rebirth shop.  It took us quite a while to figure all of this out.  I will not post the full condition on the forum so that others have the pleasure of having the excitement of reading the clues appropriately and seeing their knowledge pay off.  I will not spoil the surprise of what the area is actually like, either, but I strongly advise against being in the room when a 9x40 rebirth planar shifts under the proper conditions.  Strongly.
+Kudos to Teker (and Neptune) for a great quest line and method of getting to the rebirth shop. It took us quite a while to figure all of this out. I will not post the full condition on the forum so that others have the pleasure of having the excitement of reading the clues appropriately and seeing their knowledge pay off. I will not spoil the surprise of what the area is actually like, either, but I strongly advise against being in the room when a 9x40 rebirth planar shifts under the proper conditions. Strongly.
 
 Happy hunting!
 
@@ -1375,16 +1375,16 @@ I see I have waffled on, far to long... the point I am making is that rebirth sh
 
 <div class="post" data-post-id="39268" data-author="Driven" data-date="2019-07-15T16:43:17+00:00" data-subject="Re: Rebirth Shop Info">
 
-> **Quote:**
+> <strong>Quote:</strong>
 > The mage gauntlets are the most insane increase ever.
 
-Help me understand this, Gorka, because that was not my intent.  My intent was to add something fun, cool, and exciting, providing an pretty sweet *Huzzah* moment, not something that seriously hypes power in some massive, huge way.  So, for example, I believe it takes about 20 blasts to earn an unleash on the largest epic in the game.  How that plays out in real mage life is that they occasionally get this huge blast that is sweet, but their average xp run stays about the same.  So on paper their damage output went up by some large amount, but it wasn't amortized across all the mobs that it took to get there, so their average pain level against typical mobs is the same.  On the one mob they unleash against, it's sweet, but that's not the average case.  Typical xp runs for a mage will still involve approximately the same number of heals, the same number of blasts... what am I missing?
+Help me understand this, Gorka, because that was not my intent. My intent was to add something fun, cool, and exciting, providing an pretty sweet \*Huzzah\* moment, not something that seriously hypes power in some massive, huge way. So, for example, I believe it takes about 20 blasts to earn an unleash on the largest epic in the game. How that plays out in real mage life is that they occasionally get this huge blast that is sweet, but their average xp run stays about the same. So on paper their damage output went up by some large amount, but it wasn't amortized across all the mobs that it took to get there, so their average pain level against typical mobs is the same. On the one mob they unleash against, it's sweet, but that's not the average case. Typical xp runs for a mage will still involve approximately the same number of heals, the same number of blasts... what am I missing?
 
-I think the point I'm trying to make is that power increases should be measured by xp/hour, not raw total damage #'s.  Take the extreme example... I give you an item that requires 50 blasts to do 500k damage... your total damage output went up by some absurd amount, but your xp run didn't really change that much other than 1 easier mob.
+I think the point I'm trying to make is that power increases should be measured by xp/hour, not raw total damage #'s. Take the extreme example... I give you an item that requires 50 blasts to do 500k damage... your total damage output went up by some absurd amount, but your xp run didn't really change that much other than 1 easier mob.
 
-It would appear that warriors have a different perspective on damage than monks, thieves, mages, and clerics do.  You say +10 damage doesn't matter that much in solo... eh?  A monk with +10 damage does 150 more on his deathtouch, which means all of those mobs that deathtouched to 15% now die.  Whether or not the mob dies on a deathtouch matters a huge amount, because even 1 round of fighting against a 5mil mob does 300+ damage, which is 62 mana of heals.  So if the mob suddenly dies now, your runs extend a huuuuuuge amount.  Mages and clerics have the exact same issue.  If their blast goes up by 50 effective spell bonus (between saves and spell bonus), then that means that many more mobs die to the blasts without ever entering battle.  That's a huge bump in xp/hour even though their damage only crept up by a small margin.
+It would appear that warriors have a different perspective on damage than monks, thieves, mages, and clerics do. You say +10 damage doesn't matter that much in solo... eh? A monk with +10 damage does 150 more on his deathtouch, which means all of those mobs that deathtouched to 15% now die. Whether or not the mob dies on a deathtouch matters a huge amount, because even 1 round of fighting against a 5mil mob does 300+ damage, which is 62 mana of heals. So if the mob suddenly dies now, your runs extend a huuuuuuge amount. Mages and clerics have the exact same issue. If their blast goes up by 50 effective spell bonus (between saves and spell bonus), then that means that many more mobs die to the blasts without ever entering battle. That's a huge bump in xp/hour even though their damage only crept up by a small margin.
 
-So when you look at the increases in the rebirth shop vs. something like the mage gauntlets, I would say for most players, the mage gauntlets don't even move the needle on the power scale, whereas the rebirth shop is freaking amazing.  The extension of their solo runs and xp/hour goes up a lot more due to the shop than the gauntlets or the Sphairai.
+So when you look at the increases in the rebirth shop vs. something like the mage gauntlets, I would say for most players, the mage gauntlets don't even move the needle on the power scale, whereas the rebirth shop is freaking amazing. The extension of their solo runs and xp/hour goes up a lot more due to the shop than the gauntlets or the Sphairai.
 
 And yes, groups will see an increase in power as well.
 
@@ -1404,11 +1404,11 @@ You'll notice that I spend 54% of the time not even fighting. This is game play 
 
 Now lets break down prime power gain from rebirth shop... Bare in mind I just had to buy my damage back that I lost from my warcry...
 
-Monk +6 per attack, 6 * 5 for strike, 6 * 10 for grip.
+Monk +6 per attack, 6 \* 5 for strike, 6 \* 10 for grip.
 
 Warrior +6 per attack. (Plus small amount for massive/crits - not much to broadside if it even works)
 
-Mage, 30 dam per spell, 3 saves  * (5 dam roughly) = +45 per spell.
+Mage, 30 dam per spell, 3 saves \* (5 dam roughly) = +45 per spell.
 
 There is a perception out there that warriors are powerful, but that's actually not true in a damage sense. Mages and monks do more damage. Warriors have skills that are allow it to attack without taking damage. That's what makes a warrior powerful... but warriors probably come in 3rd or 4th in this game in regards to damage.
 
@@ -1446,7 +1446,7 @@ Why are we even comparing Warrior's damage output to a monk or mage?
 
 As for the mage artifact and as a mage prime, I do not find any practical use for it. In my case, raw energy is the way to go. But that doesn't mean I can't have fun with the item or I find it "useless" or "conservative". It has it's place and it sure is hella fun. Mage and Suna are approaching lvl 7-8 on the mage artifact and it really shines in small epic groups. And perhaps the occasional grab after multiple solo/group runs.
 
-I can clear the whole of lyme with Dr and he doesn't even output half the damage Mage does. Is damage really the question here?  :lol: 
+I can clear the whole of lyme with Dr and he doesn't even output half the damage Mage does. Is damage really the question here? <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> 
 
 R,
 
@@ -1456,13 +1456,13 @@ M
 
 <div class="post" data-post-id="39278" data-author="cyprimus" data-date="2019-07-16T04:36:44+00:00" data-subject="Re: Rebirth Shop Info">
 
-I agree with dr.   Mages are useless!  and evil!
+I agree with dr. Mages are useless! and evil!
 
 Mage primes should be removed from the game, and the mage cup, should be renamed the pew Pew PEW!!! cup.
 
 My main issue is still the same, your adding bonus bonus... but not base abilities... I cannot get the 110 heal bonus i need too max... so.. now i can... get more bonus heal bonus..
 
-It seems the code for bonus bonus stuff got changed, to be broken like the code for max stats.   Stats no longer limited by classo... and you don't need heal bonus to use the bonus heal bonus anymore...?   Can we get a list of updates/rewrites cause thats a major change in itself.
+It seems the code for bonus bonus stuff got changed, to be broken like the code for max stats. Stats no longer limited by classo... and you don't need heal bonus to use the bonus heal bonus anymore...? Can we get a list of updates/rewrites cause thats a major change in itself.
 
 </div>
 
@@ -1470,9 +1470,9 @@ It seems the code for bonus bonus stuff got changed, to be broken like the code 
 
 Can't speak for other classes/playstyle but i think 6 hand dam + 3 dam from rebirth shop will definitely make me run much faster. I'm already seeing the difference in my runs with the hand dam clasp from EU. i'd imagine with an extra 9 dam, i'll be splorking more stuff with grip.
 
-If i'm lucky, i could clear most grip area in lyme without regen. Extra dam will make it even easier and faster. But then are you willing to run for hours without regen everyday? i'd rather take it slow and enjoy myself  :lol:  but thats just me.
+If i'm lucky, i could clear most grip area in lyme without regen. Extra dam will make it even easier and faster. But then are you willing to run for hours without regen everyday? i'd rather take it slow and enjoy myself <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> but thats just me.
 
-On the gauntlets. i actually enjoy seeing mages getting excited when it proc.. Haven't seen mages so happy for awhile. Mage is a pure DPS class. I think they should always have higher damage output compared to... say warrior  :shock:  I still think they need some sort of buff to help them sustain their mana in group.... Its boring to see mage running out of mana and end up chopping in group but thats another topic.
+On the gauntlets. i actually enjoy seeing mages getting excited when it proc.. Haven't seen mages so happy for awhile. Mage is a pure DPS class. I think they should always have higher damage output compared to... say warrior <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> I still think they need some sort of buff to help them sustain their mana in group.... Its boring to see mage running out of mana and end up chopping in group but thats another topic.
 
 Cheers,
 
@@ -1520,33 +1520,33 @@ I'd like to offer a sincere thank you to the immortal staff for making the rebir
 
 1x a single drop of water - EU - RANDOM
 
-1x an oblong pebble  - EU - RANDOM
+1x an oblong pebble - EU - RANDOM
 
 1x a puff of smoke - EU - RANDOM
 
-1x a reborn particle - WHERE MIGHT IT BE? ;)
+1x a reborn particle - WHERE MIGHT IT BE? <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 The Cyclopean Foundry
 
-   A blazing furnace of green and blue fire mixing with bright yellow and
+ A blazing furnace of green and blue fire mixing with bright yellow and
 
 orange flames roars against the south wall, within which belches a rolling
 
-smoke through a hole in the cavern ceiling.  Flickering orange light dances
+smoke through a hole in the cavern ceiling. Flickering orange light dances
 
 upon the roughly hewn walls of red stone, and a gigantic anvil stands in
 
-the center of the area.  Several items of metal including swords and armor
+the center of the area. Several items of metal including swords and armor
 
-have been piled to either side.  The floor of the foundry is a mix of bits
+have been piled to either side. The floor of the foundry is a mix of bits
 
 of charcoal and red sand, each which has covered every article with a fine
 
-layer of each.  The heat permeates the air, giving it a pressurized feel as
+layer of each. The heat permeates the air, giving it a pressurized feel as
 
 steam hangs in the air above a huge cauldron of water.
 
-Exits: North  
+Exits: North 
 
 A huge, four-armed cyclops pounds away at his anvil.
 
@@ -1558,7 +1558,7 @@ A few moments later...
 
 receive staff
 
-Pheremos, the Nexian Smith tells you 'Now don't tell that witch that I made you that!  She'll kill us 
+Pheremos, the Nexian Smith tells you 'Now don't tell that witch that I made you that! She'll kill us 
 
 both!'
 
@@ -1566,7 +1566,7 @@ Pheremos, the Nexian Smith also gives you a page of instructions for the staff o
 
 You feel informed:
 
-Object 'staff reborn *Gorka*', Item type: STAFF
+Object 'staff reborn \*Gorka\*', Item type: STAFF
 
 Item is: GLOW HUM PERSONAL MAGIC RESTRUNG CAN-SHAPESHIFT FLOAT 
 
@@ -1596,23 +1596,23 @@ A few moments later...
 
 The Great Monolith
 
-   A wide area with rubble rounding the edges of a flat, red sand is
+ A wide area with rubble rounding the edges of a flat, red sand is
 
-dominated by a huge black, shining monolith of what appears to be onyx.  As
+dominated by a huge black, shining monolith of what appears to be onyx. As
 
 the alien moons revolve around the sky, the shadow of the great structure
 
-swivels like the shadow of a great sun dial.  The sky is forever dark,
+swivels like the shadow of a great sun dial. The sky is forever dark,
 
 spotted by thousands of tiny points of light varying in hue from white to
 
 dark purple, each twinkling with their own regularity like the facets of a
 
-wondrous gem.  Footprints of all types mark the soft, dry sand, and lead
+wondrous gem. Footprints of all types mark the soft, dry sand, and lead
 
 into all directions, as they disappear into the alien landscape.
 
-Exits: North  East  South  West  Up  Down  
+Exits: North East South West Up Down 
 
 A gnarly, blood-stained blade whispers death here...It glows red!..It has a soft glowing aura!
 
@@ -1634,13 +1634,13 @@ You suddenly find yourself elsewhere.
 
 Edge of Nothingness
 
-   The arms of gas and dust begin to dissispate as the entire mass swirls
+ The arms of gas and dust begin to dissispate as the entire mass swirls
 
-about its center, and otherwise lead back to the east.  Points of light
+about its center, and otherwise lead back to the east. Points of light
 
 blink within the dust and gas, against nad otherwise immense and
 
-overwhelming darkness.  Small particles race about in all directions like
+overwhelming darkness. Small particles race about in all directions like
 
 tiny insects made entirely of pure energy.
 
@@ -1662,7 +1662,7 @@ M
 
 <div class="post" data-post-id="39284" data-author="*teker*" data-date="2019-07-18T21:44:38+00:00" data-subject="Re: Rebirth Shop Info">
 
-Let it be known that at some point in the not too distant future, I intend to change the process of rebirthing (ie the rebirth command) so that it can only take place at the rebirth shopkeeper.  I don't have an exact date but if you're on the fence or thinking about rebirthing, you might want to get moving on that.
+Let it be known that at some point in the not too distant future, I intend to change the process of rebirthing (ie the rebirth command) so that it can only take place at the rebirth shopkeeper. I don't have an exact date but if you're on the fence or thinking about rebirthing, you might want to get moving on that.
 
 </div>
 
@@ -1680,6 +1680,6 @@ I've just worked out what I would buy with 3000+ more drachma and 3 more 3x40 to
 
 Multiple reborn sounds fun. I was told last time that there may be a stacking remort/reborn bonus (up to 3 times) for multiple reborn. Is this in the pipeline?
 
- :lol:
+ <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>

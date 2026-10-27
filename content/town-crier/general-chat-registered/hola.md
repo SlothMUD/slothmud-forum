@@ -12,19 +12,19 @@ post_count: 4
 
 <div class="post" data-post-id="33129" data-author="Aaron" data-date="2012-01-05T22:37:26+00:00" data-subject="Hola">
 
-What's up folks?  Long time no see.  
+What's up folks? Long time no see. 
 
 For some reason I had 129.237.80.113:6101 stuck in my head today.
 
 how is everyone?
 
--Aa
+\-Aa
 
 </div>
 
 <div class="post" data-post-id="33130" data-author="Toxis" data-date="2012-01-06T03:47:18+00:00" data-subject="Re: Hola">
 
-Mud needs a little AA terrorizin.. show these kids how to play this game and make the admin pull their hair out :)
+Mud needs a little AA terrorizin.. show these kids how to play this game and make the admin pull their hair out <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

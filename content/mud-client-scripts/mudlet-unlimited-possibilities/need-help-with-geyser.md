@@ -24,17 +24,17 @@ Here script:
 
 testlabel = Geyser.Label:new({
 
-  name = "testlabel",
+ name = "testlabel",
 
-  x = -434, y = 0,
+ x = -434, y = 0,
 
-  width = 420, height = 240,
+ width = 420, height = 240,
 
-  fgColor = "black",
+ fgColor = "black",
 
-  color = "SeaGreen",
+ color = "SeaGreen",
 
-  message = [[..atcp.MSDPCHARACTER_NAME..]]
+ message = [[..atcp.MSDPCHARACTER\_NAME..]]
 
 })
 
@@ -44,7 +44,7 @@ Can smb help me? Akaya?
 
 <div class="post" data-post-id="33930" data-author="Constin" data-date="2013-01-17T14:55:04+00:00" data-subject="Re: Need help with Geyser">
 
-message = atcp.MSDPCHARACTER_NAME 
+message = atcp.MSDPCHARACTER\_NAME 
 
 works
 

@@ -16,7 +16,7 @@ Necro Prime Spell Suggestion
 
 DEATH WARD
 
-A person who has devoted the bulk of his/her energies in the pursuit of the dark arts can put off the final death throes of a fallen companion.  This spell comes at the cost of much higher mana cost. The positive being that a dead person can gain an extra 2-3 hours before finally leaving this plane.  The negative being that the smallest miscast of the spell can speed up the process of one becoming a permanent corpse.  At Avatar levels, a well seasoned Necro will be able to hold the spell better affording an extra 1-2 hours while a cleric can be found to help the recently departed,
+A person who has devoted the bulk of his/her energies in the pursuit of the dark arts can put off the final death throes of a fallen companion. This spell comes at the cost of much higher mana cost. The positive being that a dead person can gain an extra 2-3 hours before finally leaving this plane. The negative being that the smallest miscast of the spell can speed up the process of one becoming a permanent corpse. At Avatar levels, a well seasoned Necro will be able to hold the spell better affording an extra 1-2 hours while a cleric can be found to help the recently departed,
 
 </div>
 
@@ -30,9 +30,9 @@ is this for necros who dont have clerics in their classo?
 
 I was thinking more of necro's who may/may not have cleric in classo that either A) isn't high enough in level to raise or B) needs to buy some time in order to get raise mana/someone else to come help save the day.
 
-Group CF's would benefit from it in that you'd be able to add a few extra ticks while someone could come help.  Also, early morning time ingame when only 
+Group CF's would benefit from it in that you'd be able to add a few extra ticks while someone could come help. Also, early morning time ingame when only 
 
-10 or so people are on could benefit.  Mainly, I was aiming for adding something a lil bit unique for necro's.
+10 or so people are on could benefit. Mainly, I was aiming for adding something a lil bit unique for necro's.
 
 </div>
 

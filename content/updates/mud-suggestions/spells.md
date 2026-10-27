@@ -36,7 +36,7 @@ Thanks
 
 <div class="post" data-post-id="1103" data-author="Avatar" data-date="2004-07-17T07:13:33+00:00" data-subject="Spell options">
 
-There are alternatives to a few of those spells.  
+There are alternatives to a few of those spells. 
 
 Magic Lantern - try help darksight
 
@@ -44,7 +44,7 @@ Web - try help arms, help brambles
 
 ...
 
-That's all off the top of my head.  Look around a little bit more, you might find some useful spells in your lists.
+That's all off the top of my head. Look around a little bit more, you might find some useful spells in your lists.
 
 </div>
 

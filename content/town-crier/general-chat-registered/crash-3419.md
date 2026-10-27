@@ -12,13 +12,13 @@ post_count: 12
 
 <div class="post" data-post-id="31123" data-author="Toxis" data-date="2010-05-10T23:14:52+00:00" data-subject="Crash?">
 
-Sniff, good group.. where's sloth? :P
+Sniff, good group.. where's sloth? <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="31125" data-author="jezer" data-date="2010-05-10T23:17:06+00:00" data-subject="">
 
-[img:bs32bhg2]http://media-cdn.tripadvisor.com/media/photo-s/01/22/c4/1c/sloth-on-the-deck.jpg[/img:bs32bhg2]
+![](http://media-cdn.tripadvisor.com/media/photo-s/01/22/c4/1c/sloth-on-the-deck.jpg)
 
 There he is!
 
@@ -36,15 +36,15 @@ Splork
 
 <div class="post" data-post-id="31128" data-author="Toxis" data-date="2010-05-10T23:21:24+00:00" data-subject="">
 
-Sloth doesn't experience hardly any downtime, this is true.  Sloth has been running good lately and I appreciate all the hard work.  Thanks, to all the immortals, and thanks to you, Rick, for keeping Sloth going.
+Sloth doesn't experience hardly any downtime, this is true. Sloth has been running good lately and I appreciate all the hard work. Thanks, to all the immortals, and thanks to you, Rick, for keeping Sloth going.
 
--Brad
+\-Brad
 
 </div>
 
 <div class="post" data-post-id="31129" data-author="jezer" data-date="2010-05-10T23:23:43+00:00" data-subject="">
 
-[img:x12gkxqs]http://media.ebaumsworld.com/picture/spike286/brownnose.jpg[/img:x12gkxqs]
+![](http://media.ebaumsworld.com/picture/spike286/brownnose.jpg)
 
 </div>
 
@@ -64,8 +64,6 @@ Jezer: your nick length is incorrect, but LOL
 
 Well Dang,
 
-  
-
 The Mud Connector: Vote Confirmation.
 
 Stab
@@ -82,7 +80,7 @@ Splork
 
 <div class="post" data-post-id="31233" data-author="Stab" data-date="2010-05-27T02:48:51+00:00" data-subject="Re: Crash?">
 
-oh no.. just logged back on with corpse at abbadon.. then immediate crash?\
+oh no.. just logged back on with corpse at abbadon.. then immediate crash?\\
 
 whoops.
 

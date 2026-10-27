@@ -18,6 +18,6 @@ elites guards killed
 
 <div class="post" data-post-id="16353" data-author="Elsie" data-date="2007-01-18T16:21:23+00:00" data-subject="">
 
-yah worked :)
+yah worked <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

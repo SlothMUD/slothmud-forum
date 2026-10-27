@@ -14,8 +14,7 @@ post_count: 1
 
 The replay function has been altered slightly:
 
-[*:1moolflh]the buffer has been increased to the limit allowed to be typed in[/*:m:1moolflh]
-
-[*:1moolflh]allows abbreviation of the channel e.g. replay gos[/*:m:1moolflh][/list:o:1moolflh]
+1. the buffer has been increased to the limit allowed to be typed in
+2. allows abbreviation of the channel e.g. replay gos
 
 </div>

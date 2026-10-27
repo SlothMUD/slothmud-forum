@@ -14,7 +14,7 @@ post_count: 1
 
 Was playing with list in the temples and had a few thoughts...
 
-Would it be possible to list which items are in use?  I kinda hate praying for something that someone else is actively using.  If I'm lower on sacs, it's no big thing, it just tells me it's in use.  When I'm higher, I may be taking it from someone who needs it.
+Would it be possible to list which items are in use? I kinda hate praying for something that someone else is actively using. If I'm lower on sacs, it's no big thing, it just tells me it's in use. When I'm higher, I may be taking it from someone who needs it.
 
 I would imagine it's also possible to show who's got the item and how many sacs they have, though I don't know if that'd be a good idea or not.
 

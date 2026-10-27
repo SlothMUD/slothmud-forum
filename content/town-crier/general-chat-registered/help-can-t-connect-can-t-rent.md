@@ -34,7 +34,7 @@ For some reason I am unable to connect either via wintin nor telnet.
 
 is the mud down?
 
-was wondering if it's a problem on my side since my HD died and  i've had to reinstall everything...lost all my scripts;....boohoo
+was wondering if it's a problem on my side since my HD died and i've had to reinstall everything...lost all my scripts;....boohoo
 
 </div>
 
@@ -42,7 +42,7 @@ was wondering if it's a problem on my side since my HD died and  i've had to rei
 
 My problem earlier was a hardware problem in our network, now the MUD acts up, since everybody keeps getting kicked out repeatedly....
 
-or someone is looking for certain eq, and crashing the MUD deliberately :D
+or someone is looking for certain eq, and crashing the MUD deliberately <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -54,25 +54,31 @@ coz i'll get the #connected message, then get disconnected immediately
 
 also, i can't telnet to anywhere....some of my settings must be whacked
 
-can someone help me plz? :(
+can someone help me plz? <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="11916" data-author="Vixn" data-date="2006-04-02T17:30:16+00:00" data-subject="Re: HELP! Can&#x27;t connect, can&#x27;t rent!">
 
-Hi, just got disconnected in midplay, no idea what has been done, but somehow, i cant connect to sloth, not even via plain telnet client....[/quote:bev8lv88]
+> <strong>Nightwolf wrote:</strong>
+> Hi, just got disconnected in midplay, no idea what has been done, but somehow, i cant connect to sloth, not even via plain telnet client....
 
 Nod, I have the same problem. I make some research and there is what I found out:
 
-<541hp 103ma 201mv 2.9ac -3al>
-
-You feel less resilient.
-
-Krok just logged on in Bal Harbor Town.
-
-... Lost connection ...
-
-Connected to host g.slothmud.org[/quote:bev8lv88]
+> <strong>Edd's logfile wrote:</strong>
+> \<541hp 103ma 201mv 2.9ac -3al\>
+> 
+> You feel less resilient.
+> 
+> 
+> 
+> Krok just logged on in Bal Harbor Town.
+> 
+> ... Lost connection ...
+> 
+> 
+> 
+> Connected to host g.slothmud.org
 
 Same thing every time klurik enters the game. Did I say she's EVIL?!
 

@@ -12,7 +12,7 @@ post_count: 111
 
 <div class="post" data-post-id="12435" data-author="13" data-date="2006-05-05T21:16:39+00:00" data-subject="Bend over, I&#x27;ll drive..">
 
-I just got off the phone with Medios.  Nice going screwing thieves with the new pth changes.  As if it wasn't hard enough for them already with imms checking IP addies.
+I just got off the phone with Medios. Nice going screwing thieves with the new pth changes. As if it wasn't hard enough for them already with imms checking IP addies.
 
 </div>
 
@@ -32,15 +32,16 @@ Maybe next time, talk about sports or something.
 
 New changes screwing pthiefs? Oh dear, how sad... 
 
-maybe some people will come back and play now.  :shock:
+maybe some people will come back and play now. <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="12443" data-author="Weasel" data-date="2006-05-06T04:47:32+00:00" data-subject="">
 
-Maybe next time, talk about sports or something.[/quote:2w23in9i]
+> <strong>brady wrote:</strong>
+> Maybe next time, talk about sports or something.
 
-rofl nice  :lol:
+rofl nice <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -52,21 +53,21 @@ All I said was that the safe room mobs now attack known pthieves so I havent see
 
 <div class="post" data-post-id="12446" data-author="13" data-date="2006-05-06T17:27:14+00:00" data-subject="">
 
-You oughtta not be shady to Al Broc.  You've pthieved nearly as much shit as him, and some from your friends.
+You oughtta not be shady to Al Broc. You've pthieved nearly as much shit as him, and some from your friends.
 
 </div>
 
 <div class="post" data-post-id="12447" data-author="Mosaix" data-date="2006-05-06T21:18:32+00:00" data-subject="">
 
-Your a funny guy Aaron.  
+Your a funny guy Aaron. 
 
-Al's a chronic pthief.   You guys share enough characters its hard to tell whos playing who.
+Al's a chronic pthief. You guys share enough characters its hard to tell whos playing who.
 
 </div>
 
 <div class="post" data-post-id="12448" data-author="Mosaix" data-date="2006-05-06T21:20:32+00:00" data-subject="">
 
-Also to be Frank about the matter.  Al was such a turd on sloth 2 he almost got my school site banned for his behavior.  Took 3 immortals from Maryland to plead to not have it done.
+Also to be Frank about the matter. Al was such a turd on sloth 2 he almost got my school site banned for his behavior. Took 3 immortals from Maryland to plead to not have it done.
 
 I think I will keep my opinion about him, its justified.
 
@@ -74,7 +75,7 @@ I think I will keep my opinion about him, its justified.
 
 <div class="post" data-post-id="12449" data-author="Mosaix" data-date="2006-05-06T21:23:34+00:00" data-subject="">
 
-Since the soap box is up.  
+Since the soap box is up. 
 
 Aaron maybe you can explain to the mud why I bought you a $35 case of beer, drove it out to Illinoi, for you to stiff me on my end of the deal?
 
@@ -86,7 +87,7 @@ Thats shady, but hey lesson learned on my end.
 
 <div class="post" data-post-id="12451" data-author="13" data-date="2006-05-06T22:56:22+00:00" data-subject="">
 
-the deal was for the +25 healbonus held high which i gave you, plus the helm of dwarves I threw in since you did me a real kindness with the beer.  what am I missing?
+the deal was for the +25 healbonus held high which i gave you, plus the helm of dwarves I threw in since you did me a real kindness with the beer. what am I missing?
 
 </div>
 
@@ -104,7 +105,7 @@ c) That either of think we'd give enough of a fig for you to post this on a web 
 
 <div class="post" data-post-id="12455" data-author="jezer" data-date="2006-05-07T05:37:48+00:00" data-subject="">
 
-order sloth flame grue  :twisted: 
+order sloth flame grue <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 Got to hand it too you Grue...
 
@@ -116,7 +117,7 @@ the most random opinion,
 
 that doesn't even involve themselves. 
 
-Your a classic! keep up the good work.  :D
+Your a classic! keep up the good work. <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -124,17 +125,17 @@ Your a classic! keep up the good work.  :D
 
 alright, since this has turned out to be a thread about me, I'll give my 2 cents about this issue
 
-Yes, I _DID_ own sorabji, at one point anyway, as for being an ass and pwding it on mosaix, here's what REALLY happened.
+Yes, I \_DID\_ own sorabji, at one point anyway, as for being an ass and pwding it on mosaix, here's what REALLY happened.
 
-Sometime last year, around the time "Sloth 5" came about, mosaix came up with a nifty plan to earn drachma with newbies and buying restring tokens from deam weaver and selling them, so I helped him with getting the autoquests.  Having built one up myself, sorabji happened to get really good stats at 3x18 or so, so I decided to keep him and play.  One fine day, we get bored and decided to start screwing around since mosaix's always bitter about the mud (read half his posts about how nobody helps him and how he gets no eq, yadda yadda.)  Anyways that was how sorabji was born....and he's had the password since, tho I did play him from time to time, but not to pthief.   One day I had to go to china for 3 mths, and had no time or a stable internet connection, so I told him he could play Mustang but instructed him not to sell as I shared the char with Aaron.   Whatever happened next I'm sure everyone is well aware of (how mosaix tried to sell mustang as he says "it was his one and only chance of advancing in the game.")  anyways, I thought that was settled between him and aaron so I left it alone.  I still had another char "STELIOS" that Impz played, but impz retired so I got him back.  When I got back home, I didn't have time to mud, so I let mosaix have stelios, and also gave tiffany away, and a bunch of other characters.  
+Sometime last year, around the time "Sloth 5" came about, mosaix came up with a nifty plan to earn drachma with newbies and buying restring tokens from deam weaver and selling them, so I helped him with getting the autoquests. Having built one up myself, sorabji happened to get really good stats at 3x18 or so, so I decided to keep him and play. One fine day, we get bored and decided to start screwing around since mosaix's always bitter about the mud (read half his posts about how nobody helps him and how he gets no eq, yadda yadda.) Anyways that was how sorabji was born....and he's had the password since, tho I did play him from time to time, but not to pthief. One day I had to go to china for 3 mths, and had no time or a stable internet connection, so I told him he could play Mustang but instructed him not to sell as I shared the char with Aaron. Whatever happened next I'm sure everyone is well aware of (how mosaix tried to sell mustang as he says "it was his one and only chance of advancing in the game.") anyways, I thought that was settled between him and aaron so I left it alone. I still had another char "STELIOS" that Impz played, but impz retired so I got him back. When I got back home, I didn't have time to mud, so I let mosaix have stelios, and also gave tiffany away, and a bunch of other characters. 
 
-a few weeks later, I cleared up all my projects so I had time to regularly mud again, and i see mosaix online, so i chat up with him.  He tells me he has "kept sorabji for me" if i'm still interested so I thought that's cool, and ask him if I could have stelios back.  He says sure, he'll change it later.  days, weeks, he still hasn't changed stelios' pwd.   So I start making my new characters.  A valk quest comes along and I ask for sorabji's pwd which he gives to me.  Quest ends and I change sorabji's pwd since he said I could have him if I wanted.   Day after day i ask if i could have stelios back, then one fine day he tells me he isn't sure if I should have stelios (3x40 char) back coz I passworded sorabji on him coz it's not cool.  So I told him to go F himself.
+a few weeks later, I cleared up all my projects so I had time to regularly mud again, and i see mosaix online, so i chat up with him. He tells me he has "kept sorabji for me" if i'm still interested so I thought that's cool, and ask him if I could have stelios back. He says sure, he'll change it later. days, weeks, he still hasn't changed stelios' pwd. So I start making my new characters. A valk quest comes along and I ask for sorabji's pwd which he gives to me. Quest ends and I change sorabji's pwd since he said I could have him if I wanted. Day after day i ask if i could have stelios back, then one fine day he tells me he isn't sure if I should have stelios (3x40 char) back coz I passworded sorabji on him coz it's not cool. So I told him to go F himself.
 
-I now own only Gimlet, and Mizuno, and a few dumbmonks (literally).  If anyone can remember, I was gossiping about free characters to give away (mostly thief primes coz I was tired of playing thief primes)  amongst the characters I gave away were Blaze, Sorabji, Hough, Tiffany, and a couple of newbie casters with nice stats whose names I can't remember.  It's unfortunate a couple of them were turned into pthieves, but those who's seen me on and hunting them whenever they're on should know I don't play them.
+I now own only Gimlet, and Mizuno, and a few dumbmonks (literally). If anyone can remember, I was gossiping about free characters to give away (mostly thief primes coz I was tired of playing thief primes) amongst the characters I gave away were Blaze, Sorabji, Hough, Tiffany, and a couple of newbie casters with nice stats whose names I can't remember. It's unfortunate a couple of them were turned into pthieves, but those who's seen me on and hunting them whenever they're on should know I don't play them.
 
-As for mosaix, he is someone who steals from clan vaults, not to mention TELLING me to give him some of Tiffany's eq (when I mistakenly thought I still owned him and asked for a pwd reset, tho I've given the char back since) basically asking for everything that's being given away to be given to him.   
+As for mosaix, he is someone who steals from clan vaults, not to mention TELLING me to give him some of Tiffany's eq (when I mistakenly thought I still owned him and asked for a pwd reset, tho I've given the char back since) basically asking for everything that's being given away to be given to him. 
 
-So here, believe what you want.  If you choose to believe that I'm sorabji and going around stealing, then be it.  Come pkill me.  I don't really care.  The game isn't that big of a part of my life to blow a hissy fit over.  Unlike some people who claim the game sucks and they won't play much anymore, but come online to bitch about everything about the game.
+So here, believe what you want. If you choose to believe that I'm sorabji and going around stealing, then be it. Come pkill me. I don't really care. The game isn't that big of a part of my life to blow a hissy fit over. Unlike some people who claim the game sucks and they won't play much anymore, but come online to bitch about everything about the game.
 
 </div>
 
@@ -144,7 +145,7 @@ another point:
 
 I may be an ass at times (or most of the time) and pthief alot in the past,
 
-but I've helped more random people with XP and EQ (giving out or helping them re-equipt) and have twice emptied my vaults and eq collection to run newbie quests.  What have YOU done for people lately, or ever, for that matter?
+but I've helped more random people with XP and EQ (giving out or helping them re-equipt) and have twice emptied my vaults and eq collection to run newbie quests. What have YOU done for people lately, or ever, for that matter?
 
 </div>
 
@@ -152,25 +153,25 @@ but I've helped more random people with XP and EQ (giving out or helping them re
 
 If you will permit me to make light of an tragic situation...
 
-I feel like I've just seen an episode of jerry springer  :shock: 
+I feel like I've just seen an episode of jerry springer <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
 (you think of the episode name)
 
-Makes me what to start a new character called DrPhil  :cry:
+Makes me what to start a new character called DrPhil <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom">
 
-I want to hear what grue has to say about all this!  :D  
+I want to hear what grue has to say about all this! <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> 
 
-Who plays Sorabji now?  :twisted:  
+Who plays Sorabji now? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 I never knew Gimlet was mustang, but I guess that explains the title on sorabji recently... Which makes me think who is getting back at gimlet? cause he kills sorabji so much? Mosaix?
 
-At least jerry springer made sense.  :D
+At least jerry springer made sense. <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="12462" data-author="Weasel" data-date="2006-05-07T15:26:35+00:00" data-subject="">
 
-There's a moral here somewhere...    
+There's a moral here somewhere... 
 
 Pthieving is bad, mmm'kay?
 
@@ -184,7 +185,7 @@ All in all, also a very good example of why I never share characters.
 
 "I want to hear what grue has to say about all this! "
 
-I know you don't really but seriously :)
+I know you don't really but seriously <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 You share characters you pay the piper for any infractions of the person you share with, it's that simple. I cannot be expected to know that blog is John one time they are logged on, and Steve the next. When Blog cheats or pthieves, Blog and all of Blog's chars are affected. Know that and act accordingly.
 
@@ -198,31 +199,31 @@ That's the reality. Trust is earned, not owed.
 
 <div class="post" data-post-id="12464" data-author="Mustang" data-date="2006-05-07T16:38:21+00:00" data-subject="">
 
-I don't see any reason to hide.  I've been a known (ex-)pthief most of my mud life, but it's also ironic that I should have more friends than alot of self-righteous people (like grue) on the game.
+I don't see any reason to hide. I've been a known (ex-)pthief most of my mud life, but it's also ironic that I should have more friends than alot of self-righteous people (like grue) on the game.
 
 </div>
 
 <div class="post" data-post-id="12465" data-author="Weasel" data-date="2006-05-07T17:07:22+00:00" data-subject="">
 
-[img:4sr67qee]http://cs-people.bu.edu/jching/photo/catfight.jpg[/img:4sr67qee]
+![](http://cs-people.bu.edu/jching/photo/catfight.jpg)
 
 </div>
 
 <div class="post" data-post-id="12466" data-author="Mystery" data-date="2006-05-07T18:58:06+00:00" data-subject="Oh Snap">
 
-[img:2j5kzge0]http://www.funlol.com/pictures/penguin-slap.html[/img:2j5kzge0]
+![](http://www.funlol.com/pictures/penguin-slap.html)
 
 </div>
 
 <div class="post" data-post-id="12467" data-author="Alberich" data-date="2006-05-07T19:09:48+00:00" data-subject="">
 
-[img:2ngkjh0z]http://www.picpop.com/gallery/albums/userpics/0822/stupidity.jpg[/img:2ngkjh0z]
+![](http://www.picpop.com/gallery/albums/userpics/0822/stupidity.jpg)
 
 </div>
 
 <div class="post" data-post-id="12468" data-author="brady" data-date="2006-05-07T20:32:02+00:00" data-subject="">
 
-[img:253dicwx]http://i6.photobucket.com/albums/y217/mkhan2/Bitchfight.jpg[/img:253dicwx]
+![](http://i6.photobucket.com/albums/y217/mkhan2/Bitchfight.jpg)
 
 </div>
 
@@ -234,7 +235,7 @@ Yawn. You are a very silly little person if you make assumptions based on what y
 
 <div class="post" data-post-id="12471" data-author="jezer" data-date="2006-05-08T04:48:41+00:00" data-subject="">
 
-Reveal yourself gruester!  :twisted:
+Reveal yourself gruester! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -258,17 +259,19 @@ Yeah, this is stupid. I just want to know if we can kill Gimlet and take his eq.
 
 <div class="post" data-post-id="12475" data-author="jezer" data-date="2006-05-08T13:09:19+00:00" data-subject="">
 
-Yeah, this is stupid. I just want to know if we can kill Gimlet and take his eq.[/quote:fislfjag]
+> <strong>juggleblood wrote:</strong>
+> Yeah, this is stupid. I just want to know if we can kill Gimlet and take his eq.
 
 Er, is that all you can think about Juggle? Whats in it for you? heh
 
-Gimlet no longer owns sorabji, and told me he doesn't know who does. *shrug*
+Gimlet no longer owns sorabji, and told me he doesn't know who does. \*shrug\*
 
 </div>
 
 <div class="post" data-post-id="12476" data-author="Alberich" data-date="2006-05-08T15:02:12+00:00" data-subject="">
 
-Yeah, this is stupid. I just want to know if we can kill Gimlet and take his eq.[/quote:4pockjub]
+> <strong>juggleblood wrote:</strong>
+> Yeah, this is stupid. I just want to know if we can kill Gimlet and take his eq.
 
 /5 bux on gimlet
 
@@ -278,23 +281,26 @@ Yeah, this is stupid. I just want to know if we can kill Gimlet and take his eq.
 
 <div class="post" data-post-id="12477" data-author="12345" data-date="2006-05-08T15:19:41+00:00" data-subject="">
 
-Yeah, this is stupid. I just want to know if we can kill Gimlet and take his eq.[/quote:cpluclvh]
+> <strong>juggleblood wrote:</strong>
+> Yeah, this is stupid. I just want to know if we can kill Gimlet and take his eq.
 
 Ok, you lose several points for not paying attention...
 
-I don't see any reason to hide.  I've been a known (ex-)pthief most of my mud life, but it's also ironic that I should have more friends than alot of self-righteous people (like grue) on the game.[/quote:cpluclvh]
+> <strong>Mustang wrote:</strong>
+> I don't see any reason to hide. I've been a known (ex-)pthief most of my mud life, but it's also ironic that I should have more friends than alot of self-righteous people (like grue) on the game.
 
-So here, believe what you want.  If you choose to believe that I'm sorabji and going around stealing, then be it.  Come pkill me.  I don't really care.  The game isn't that big of a part of my life to blow a hissy fit over.  Unlike some people who claim the game sucks and they won't play much anymore, but come online to bitch about everything about the game.[/quote:cpluclvh]
+> <strong>Mustang wrote:</strong>
+> So here, believe what you want. If you choose to believe that I'm sorabji and going around stealing, then be it. Come pkill me. I don't really care. The game isn't that big of a part of my life to blow a hissy fit over. Unlike some people who claim the game sucks and they won't play much anymore, but come online to bitch about everything about the game.
 
-Based on the above, I think it's techincally been OK to kill him for the past several years.  Based on his own comments, I don't think this worries him much.
+Based on the above, I think it's techincally been OK to kill him for the past several years. Based on his own comments, I don't think this worries him much.
 
-You also lose a wagon full of points for good sense.  There's many reasons why he hasn't become a corpse in that time.
+You also lose a wagon full of points for good sense. There's many reasons why he hasn't become a corpse in that time.
 
 </div>
 
 <div class="post" data-post-id="12479" data-author="Mustang" data-date="2006-05-08T16:55:09+00:00" data-subject="">
 
-you _CAN_ pkill me and take all my eq, if that's what you really want.  I won't even put up a fight, but my eq pretty much sucks...hehehe.
+you \_CAN\_ pkill me and take all my eq, if that's what you really want. I won't even put up a fight, but my eq pretty much sucks...hehehe.
 
 I'll just start over and get to where I am now in no time
 
@@ -306,9 +312,9 @@ I (rub) would have a good shot at taking Gimlet if he didn't expect it. Might ev
 
 As for losing a wagon full of point for lacking sense or something like that...
 
-Look I'm no brainiac on the nerd patrol. I'm not a member of the factinista. I go straight from the gut. I give people the truth, unfiltered by rational argument.  
+Look I'm no brainiac on the nerd patrol. I'm not a member of the factinista. I go straight from the gut. I give people the truth, unfiltered by rational argument. 
 
-I think the facts are simple. Gimlet was so upset at losing the password to Sorabji that he began secretly stockpiling weapons of mass destruction and we must now rise up and pkill him to take them away before he destroys the whole mud. It's indisputable.  
+I think the facts are simple. Gimlet was so upset at losing the password to Sorabji that he began secretly stockpiling weapons of mass destruction and we must now rise up and pkill him to take them away before he destroys the whole mud. It's indisputable. 
 
 As for Grue, I think its time we outed his identity as a member of the Secret Mud Police. His real identity on the mud is Sabin. 
 
@@ -320,9 +326,9 @@ The truth will set you free.
 
 Grue,
 
-I wasn't desperate to get wasted.  Believe it or not, there are some beers that
+I wasn't desperate to get wasted. Believe it or not, there are some beers that
 
-aren't available nationwide, and I am a *good* beer afficionado.  If I can't get it here, I'm happy to trade someone something that's local and easy for me.
+aren't available nationwide, and I am a \*good\* beer afficionado. If I can't get it here, I'm happy to trade someone something that's local and easy for me.
 
 </div>
 
@@ -330,7 +336,7 @@ aren't available nationwide, and I am a *good* beer afficionado.  If I can't get
 
 What kind of beer was it, 'stang?
 
-We have some tasty stuff up here: New Holland, Dark Horse, and Belle's to name a few.  I have even been known to brew up a batch of my own when I have the time.
+We have some tasty stuff up here: New Holland, Dark Horse, and Belle's to name a few. I have even been known to brew up a batch of my own when I have the time.
 
 Let me know when you have the hankering...
 
@@ -340,9 +346,9 @@ Qa
 
 <div class="post" data-post-id="12484" data-author="13" data-date="2006-05-08T21:04:53+00:00" data-subject="">
 
-It was some Dogfish Head Midas Touch. I can get Belles Two Hearted and Nut Brown here, but really only like the 2 heart.  What I'd like is some New Glarus
+It was some Dogfish Head Midas Touch. I can get Belles Two Hearted and Nut Brown here, but really only like the 2 heart. What I'd like is some New Glarus
 
-or Flying Dog or Victory.  I also have been brewin' for about 4 years now.
+or Flying Dog or Victory. I also have been brewin' for about 4 years now.
 
 hit me at stomp442@gmail.com to discuss.
 
@@ -350,7 +356,7 @@ hit me at stomp442@gmail.com to discuss.
 
 <div class="post" data-post-id="12485" data-author="Medios" data-date="2006-05-08T22:43:45+00:00" data-subject="">
 
-Theres alot of players here who have pthieved in the past.  I wont even begin to start naming people.  All that aside I think Gimlet has been quite the gentleman lately.  He used to be in our clan before he quit and has always helped me out.  The only problem I ever had with him was his loud mouth on the gossip.  Hes tamed that down alot and now some people start provoking him.  I would rather you guys leave him alone and let him keep being a decent player instead of throwing around a bunch of bullshit and pissin him off.  You guys are always talking about pking someone, but when a real pthief is on you turn your back.  Speaking of real pthiefs, has anyone seen one in the last month?
+Theres alot of players here who have pthieved in the past. I wont even begin to start naming people. All that aside I think Gimlet has been quite the gentleman lately. He used to be in our clan before he quit and has always helped me out. The only problem I ever had with him was his loud mouth on the gossip. Hes tamed that down alot and now some people start provoking him. I would rather you guys leave him alone and let him keep being a decent player instead of throwing around a bunch of bullshit and pissin him off. You guys are always talking about pking someone, but when a real pthief is on you turn your back. Speaking of real pthiefs, has anyone seen one in the last month?
 
 Mike
 
@@ -358,7 +364,7 @@ Mike
 
 <div class="post" data-post-id="12486" data-author="Mystery" data-date="2006-05-08T23:01:53+00:00" data-subject="Coming Soon">
 
-Anyone notice 13 and Qa fixing to go thru the same thing? It's a vicious cycle. :twisted:
+Anyone notice 13 and Qa fixing to go thru the same thing? It's a vicious cycle. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -366,19 +372,22 @@ Anyone notice 13 and Qa fixing to go thru the same thing? It's a vicious cycle. 
 
 Hmm, opportune time to bring this up. I once posted about the arena and asked where it was. Everyone had a good ol' laugh at the n00b. Anyways Krok quoted me, and then added that second line.
 
-[quote:282yqo1r]Ok, Blastem... he's a member of DoW - he can't be a pthief..
-
----> that's my favourite!!))))) [/quote:282yqo1r]
+> <strong>Quote:</strong>
+> Ok, Blastem... he's a member of DoW - he can't be a pthief..
+> 
+> 
+> 
+> \---\> that's my favourite!!)))))
 
 What exactly did she mean by that?
 
-1)  Blastem could never be a pthief?
+1\) Blastem could never be a pthief?
 
-2)  Blastem is a pthief?
+2\) Blastem is a pthief?
 
-3)  DoW don't allow pthiefs?
+3\) DoW don't allow pthiefs?
 
-4)  ....
+4\) ....
 
 Care to enlighten me Mike? Krok?
 
@@ -394,9 +403,9 @@ So no, DoW couldn't possibly have a pthief in it.
 
 <div class="post" data-post-id="12489" data-author="Medios" data-date="2006-05-09T01:37:35+00:00" data-subject="">
 
-Is this the same Aaron that had an Imm and wrote Clipper and arbo II and redid demonweb xp?  Oh how could a famous retired pthief ever immort?  Aaron you scoundrel!!  <----Musta lied on his app!!
+Is this the same Aaron that had an Imm and wrote Clipper and arbo II and redid demonweb xp? Oh how could a famous retired pthief ever immort? Aaron you scoundrel!! \<----Musta lied on his app!!
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -406,11 +415,11 @@ This nonsense if you read back started cause I said Bummer for Sorabji.
 
 Which was a respone to Aaron complaining about new rules against pthiefs.
 
-Why do you have a problem with new rules against pthiefs?  Are you one?
+Why do you have a problem with new rules against pthiefs? Are you one?
 
-Were you Poolp or something?  I mean seriously.  Those poor poor pthiefs, sorry to see their lives made harder.  Lets stand up for them and defend them!
+Were you Poolp or something? I mean seriously. Those poor poor pthiefs, sorry to see their lives made harder. Lets stand up for them and defend them!
 
-I didnt name anyone, that came about in Aarons loud mouth response to "Bummer for Sorabji"  Aaron you named Al.  
+I didnt name anyone, that came about in Aarons loud mouth response to "Bummer for Sorabji" Aaron you named Al. 
 
 Albert can be nice, polite, fun, and at times can help you out.
 
@@ -418,45 +427,41 @@ Though for the most part he cant stop stealing, disrupting and getting loud at t
 
 Some things he is famous for:
 
-1. Stealing Kong's Sword of Valor.  Demanding a ransom, then junking it when the ransom wasnt paid.
+1\. Stealing Kong's Sword of Valor. Demanding a ransom, then junking it when the ransom wasnt paid.
 
-2. Using gossip to check for people with weak tintin, then finding them and forcing them to quit and stealing their stuff.  Example Tinkles.  Dont see Tinkles anymore in game?, do last player.
+2\. Using gossip to check for people with weak tintin, then finding them and forcing them to quit and stealing their stuff. Example Tinkles. Dont see Tinkles anymore in game?, do last player.
 
-3.  At this time if you press button at the west gate 100 times and drop the notes you would see this.  small note (100)
+3\. At this time if you press button at the west gate 100 times and drop the notes you would see this. small note (100)
 
-It used to be that you could drop those 100 notes and all 100 would show in the room.  He would do thousands of those notes so when you either entered the game or recalled to west gate, you would loose your link from the spam.  He would then steal from you while you were busy re-connecting.  You pthiefed to a point where the code had to be changed to stop you.
+It used to be that you could drop those 100 notes and all 100 would show in the room. He would do thousands of those notes so when you either entered the game or recalled to west gate, you would loose your link from the spam. He would then steal from you while you were busy re-connecting. You pthiefed to a point where the code had to be changed to stop you.
 
-4.  Bugging an immortal to change a pword on a char, then using it until the player noticed his char online.  Char was though returned.  
+4\. Bugging an immortal to change a pword on a char, then using it until the player noticed his char online. Char was though returned. 
 
-5.  Way back when you were Cyphus.  I cant remember why at this moment but you were wiped.    Long way to go to avatar and then end up getting purged.
+5\. Way back when you were Cyphus. I cant remember why at this moment but you were wiped. Long way to go to avatar and then end up getting purged.
 
 The list is rather long, but he is very creative and very smart.
 
 I definately applaud you for finding multiple ways to get things from people. 
 
-In the past he has used Blaze, Sorabji, Briar, and some others that I cant remember at the moment.  They always seem to get "traded" away after they get too caught to use anymore.  To my current knowledge he uses Gimlet, Volodos, and Visionary.
+In the past he has used Blaze, Sorabji, Briar, and some others that I cant remember at the moment. They always seem to get "traded" away after they get too caught to use anymore. To my current knowledge he uses Gimlet, Volodos, and Visionary.
 
-His behavior is disruptive, arrogant and plain stupid.  Its time to put it to sleep.  Either play the game with some respect, or expect to get ridiculed when people figure out who you are.  Free pass is not valid here.
+His behavior is disruptive, arrogant and plain stupid. Its time to put it to sleep. Either play the game with some respect, or expect to get ridiculed when people figure out who you are. Free pass is not valid here.
 
-Mike I respect you alot, you a fantastic player.   But I fail to understand protecting, and rationalizing, a perpetual pthief.
+Mike I respect you alot, you a fantastic player. But I fail to understand protecting, and rationalizing, a perpetual pthief.
 
-Aaron you want to be a big bully and push people around.  Im really tired of it.  Hopefully im not the only one affected by your behavior.  I cant imagine all those you label "noobes" appreciate it, and I refuse to tolerate it anymore. 
+Aaron you want to be a big bully and push people around. Im really tired of it. Hopefully im not the only one affected by your behavior. I cant imagine all those you label "noobes" appreciate it, and I refuse to tolerate it anymore. 
 
-Everyone who doesnt show perfect understanding of the mud you belittle and shove down.  
+Everyone who doesnt show perfect understanding of the mud you belittle and shove down. 
 
-Again, you screwed me on that deal, and you should be ashamed.  I took the time to visit with you guys there in Illinoi, and I get stomped on and bashed in return.   Thats bullshit.  You once traded Mullah for the same case of beer.  Char was fully loaded.  What I asked for in our deal was peanuts compared to that.  Aaron good to see that Mullah, Eva, and Mustang are all under ~DS~ header now.  3 chars given away to people in another clan.  I remember not too long ago how critical it was to get Mustang back for the "clan" but I guess not since it was given away.  
+Again, you screwed me on that deal, and you should be ashamed. I took the time to visit with you guys there in Illinoi, and I get stomped on and bashed in return. Thats bullshit. You once traded Mullah for the same case of beer. Char was fully loaded. What I asked for in our deal was peanuts compared to that. Aaron good to see that Mullah, Eva, and Mustang are all under \~DS\~ header now. 3 chars given away to people in another clan. I remember not too long ago how critical it was to get Mustang back for the "clan" but I guess not since it was given away. 
 
-  
+To conclude my rant. 
 
-To conclude my rant.  
+Pthiefs in general I can deal with. I dont keep stuff in my inventory, and i only change stuff around in safe rooms. However im tired of the chronic pthief stuff, and definatly tired of bullies that shove other mudders around. I am and will contiune to voice my opinion whether im mudding here and there or full time. Sloth has been a great game for me to play since 1994. I want it to be the best place to entertain and relax a bit from day to day life. Others should be able to have that joy, and not have it ruined by some dumb ass. Maybe Sloth 3 is content at being #5 all the time on the mud vote. 
 
-Pthiefs in general I can deal with.  I dont keep stuff in my inventory, and i only change stuff around in safe rooms.  However im tired of the chronic pthief stuff, and definatly tired of bullies that shove other mudders around.   I am and will contiune to voice my opinion whether im mudding here and there or full time.  Sloth has been a great game for me to play since 1994.  I want it to be the best place to entertain and relax a bit from day to day life.  Others should be able to have that joy, and not have it ruined by some dumb ass.  Maybe Sloth 3 is content at being #5 all the time on the mud vote.  
+Time for some people to rise up and tell people to stuff it. The mud can be a fun social place, I dont expect it to be perfect, as it never will. 
 
-Time for some people to rise up and tell people to stuff it.   The mud can be a fun social place, I dont expect it to be perfect, as it never will.  
-
-However some of you clowns need to seriously STFU and find something else to do.  Keep your real life problems and short comings off the game and find somewhere else to vent and abuse.  
-
- 
+However some of you clowns need to seriously STFU and find something else to do. Keep your real life problems and short comings off the game and find somewhere else to vent and abuse. 
 
 Flame it, I like my burger extra charred please, with hot sauce.
 
@@ -502,7 +507,7 @@ as for mosaix, why don't you list what you've done
 
 <div class="post" data-post-id="12495" data-author="jezer" data-date="2006-05-09T04:02:37+00:00" data-subject="">
 
-Mustang isn't Mosaix?  :shock: 
+Mustang isn't Mosaix? <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
 You mean there could actually be three people that play this game?
 
@@ -518,7 +523,7 @@ Damn im thirsty, all that beer talk MMMmmmMMMmmm.
 
 order sorabji steal keg guinex 
 
-Devil made him do it!  :twisted:
+Devil made him do it! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -538,11 +543,11 @@ Mosaix is Mosaix/Osaka/Endor
 
 Mike,
 
-Aarons last immortal was Elwood which he no longer has, I remember it being taken away from him.  Did something naughty.
+Aarons last immortal was Elwood which he no longer has, I remember it being taken away from him. Did something naughty.
 
 Elwood is pworded at the moment.
 
-Elwood's last logon was Mon Apr  4 07:24:24 2005
+Elwood's last logon was Mon Apr 4 07:24:24 2005
 
 </div>
 
@@ -566,7 +571,7 @@ Got it?
 
 <div class="post" data-post-id="12503" data-author="*Splork*" data-date="2006-05-09T11:12:45+00:00" data-subject="">
 
-Elwood was a good Imm, the reason for his departure had nothing to do with cheating or pthieving.  
+Elwood was a good Imm, the reason for his departure had nothing to do with cheating or pthieving. 
 
 On a side note, I'm sorry I haven't been around last month or so. I will be perma afk for another month. Real life is insane atm along with a project or two I'm stuck finishing before I can concentrate on smaller additions.
 
@@ -580,11 +585,11 @@ Splork
 
 Watching Jezer be confused is mildly entertaining...
 
-Aaron was a serial player, he now posts as 13.  He created so many characters and sold them it was unreal.  He used to post as Mullah, but he sold that char to Leaf.  Al shared Mustang, I think, and he made that his board name, but it was Aaron's char and got given away when he retired.  I'm not sure the exact logistics...
+Aaron was a serial player, he now posts as 13. He created so many characters and sold them it was unreal. He used to post as Mullah, but he sold that char to Leaf. Al shared Mustang, I think, and he made that his board name, but it was Aaron's char and got given away when he retired. I'm not sure the exact logistics...
 
-Moral being, board names are pretty unimportant.  One reason I switched to 12345.
+Moral being, board names are pretty unimportant. One reason I switched to 12345.
 
-DoW (Dogs of War) is a clan of very close real life friends.  The main requirement to join used to be that you had to know Aaron in real life or be a friend for about 5 years.  So it doesn't take much to see how things can get shared and shuffled around so much.  It's more helpful to get to know the people behind the names... it's just easier all around.
+DoW (Dogs of War) is a clan of very close real life friends. The main requirement to join used to be that you had to know Aaron in real life or be a friend for about 5 years. So it doesn't take much to see how things can get shared and shuffled around so much. It's more helpful to get to know the people behind the names... it's just easier all around.
 
 They have all been playing since the beginning of time and know the old school tricks and work arounds. In fact, I haven't heard a lot of the things referenced in Mosaix's list since about 94.
 
@@ -594,79 +599,80 @@ I'm also not in DoW, so if I said anything obviously wrong... oh well, I'm sure 
 
 <div class="post" data-post-id="12505" data-author="13" data-date="2006-05-09T13:09:02+00:00" data-subject="">
 
-Jesus Christ, what a messy slamfest this has become.  I haven't played sloth
+Jesus Christ, what a messy slamfest this has become. I haven't played sloth
 
-since last October.  Grapenut gave me Mullah at level 9 because of the Gulf
+since last October. Grapenut gave me Mullah at level 9 because of the Gulf
 
-War situation, the name was too controversial for her.  I got worn out with the
+War situation, the name was too controversial for her. I got worn out with the
 
-dr/ma class-order so I advertised that I would trade for some Dogfish head.  
+dr/ma class-order so I advertised that I would trade for some Dogfish head. 
 
 What happened was that Kali/Stryker gave me 75$ for her at 3x40 with eq.
 
-There was no secret about that.  Mustang was the first character I rolled when
+There was no secret about that. Mustang was the first character I rolled when
 
-I came back after talking to Heck(Strider) about new classes.  Al had been
+I came back after talking to Heck(Strider) about new classes. Al had been
 
-marking time on Briar, not really getting anywhere.  I scooped him up, because he's an old friend of mine from Sloth II.  I fucked around with some
+marking time on Briar, not really getting anywhere. I scooped him up, because he's an old friend of mine from Sloth II. I fucked around with some
 
 other characters (Karkus and Slipknot and 13) and spent my extra rerolls on
 
-Mustang.  Al had no character except Briar to play, which was a character 
+Mustang. Al had no character except Briar to play, which was a character 
 
 that was ruined for all time, so I told him if he rolled good stats on Mustang
 
-he could have him.  He rolled 1895 15 16 17 18 so we got started with eq
+he could have him. He rolled 1895 15 16 17 18 so we got started with eq
 
-and levels.  After a while Al left on hiatus and left Broc with the pw.  The next thing I knew, I saw Mosaix selling eq of mine out of the vault on the block and
+and levels. After a while Al left on hiatus and left Broc with the pw. The next thing I knew, I saw Mosaix selling eq of mine out of the vault on the block and
 
 Mustang (who was left in broc's care) is being stripped of eq that I put on
 
-there for Al to use.  I changed the pw and started playing him.  Then I sold
+there for Al to use. I changed the pw and started playing him. Then I sold
 
-Mustang Eva and 13 to Zeke after I quit playing sloth.  Al came back, not
+Mustang Eva and 13 to Zeke after I quit playing sloth. Al came back, not
 
-knowing what was going on with Tiffany, and requested the pw back.  he
+knowing what was going on with Tiffany, and requested the pw back. he
 
-got it and played her for a while.  Serega has the character again, plus somelevels.  Al actually did the same thing to me with Mustang, but OMG
+got it and played her for a while. Serega has the character again, plus somelevels. Al actually did the same thing to me with Mustang, but OMG
 
-I didn't wig out on him.  It was an easy mistake to make, so I talked
+I didn't wig out on him. It was an easy mistake to make, so I talked
 
-to Rick for a minute and he reset the pw for me.  Shortly after that is when I sold.
+to Rick for a minute and he reset the pw for me. Shortly after that is when I sold.
 
-[quote:2tl4jxnq]
+> <strong>Quote:</strong>
+> Aaron you want to be a big bully and push people around. Im really tired of it. Hopefully im not the only one affected by your behavior. I cant imagine all those you label "noobes" appreciate it, and I refuse to tolerate it anymore.
+> 
+> Everyone who doesnt show perfect understanding of the mud you belittle and shove down.
+> 
+> 
+> 
+> Again, you screwed me on that deal, and you should be ashamed. I took the time to visit with you guys there in Illinoi, and I get stomped on and bashed in return. Thats bullshit. You once traded Mullah for the same case of beer. Char was fully loaded. What I asked for in our deal was peanuts compared to that. Aaron good to see that Mullah, Eva, and Mustang are all under \~DS\~ header now. 3 chars given away to people in another clan. I remember not too long ago how critical it was to get Mustang back for the "clan" but I guess not since it was given away.
 
-Aaron you want to be a big bully and push people around. Im really tired of it. Hopefully im not the only one affected by your behavior. I cant imagine all those you label "noobes" appreciate it, and I refuse to tolerate it anymore.
-
-Everyone who doesnt show perfect understanding of the mud you belittle and shove down.
-
-Again, you screwed me on that deal, and you should be ashamed. I took the time to visit with you guys there in Illinoi, and I get stomped on and bashed in return. Thats bullshit. You once traded Mullah for the same case of beer. Char was fully loaded. What I asked for in our deal was peanuts compared to that. Aaron good to see that Mullah, Eva, and Mustang are all under ~DS~ header now. 3 chars given away to people in another clan. I remember not too long ago how critical it was to get Mustang back for the "clan" but I guess not since it was given away. [/quote:2tl4jxnq]
-
-You've gone off the deep end Broc.  Why don't you mention all the newbs
+You've gone off the deep end Broc. Why don't you mention all the newbs
 
 that you have baited into attacking you so you could fuck with them some
 
-more.  These aren't skilled old schoolers, these are newbs.  Why don't you
+more. These aren't skilled old schoolers, these are newbs. Why don't you
 
-mention taking part in the client rape in SS of those russians?  Why not
+mention taking part in the client rape in SS of those russians? Why not
 
-talk about the last year and a half that you had those pth alts?  Heck man,
+talk about the last year and a half that you had those pth alts? Heck man,
 
-no need to be a little whiny girl about this shit.  Let's just get this shit out in
+no need to be a little whiny girl about this shit. Let's just get this shit out in
 
-the open homey.  I prefer the seedy side of the mud, I've made no secret
+the open homey. I prefer the seedy side of the mud, I've made no secret
 
-of it.  On the contrary it's a well-known fact.  I think that stuff like that,
+of it. On the contrary it's a well-known fact. I think that stuff like that,
 
 interaction between players (like Arena or Pth) makes the mud seem a little
 
-more personal, and fun.  Who wants to sit around and just cycle mobs all
+more personal, and fun. Who wants to sit around and just cycle mobs all
 
-day?  Players play because of the people here, otherwise why not just play
+day? Players play because of the people here, otherwise why not just play
 
 Bard's Tale or some shit?
 
-<3,
+\<3,
 
 SlothII
 
@@ -686,7 +692,7 @@ Blackwind/13/Karkus/Cocaine
 
 Splork.
 
-Elwood was a good imm and did do good work.  The origional Elwood was not Aaron? then he was using him for awhile.  While I was still actively mudding suddenly Aaron wasnt able to use him anymore.
+Elwood was a good imm and did do good work. The origional Elwood was not Aaron? then he was using him for awhile. While I was still actively mudding suddenly Aaron wasnt able to use him anymore.
 
 What then was the actual reason for that?
 
@@ -694,25 +700,25 @@ What then was the actual reason for that?
 
 <div class="post" data-post-id="12507" data-author="jezer" data-date="2006-05-09T14:10:43+00:00" data-subject="">
 
-Aaron, what char of yours could I buy for two cokes and a half a glass of evaporated milk? :|
+Aaron, what char of yours could I buy for two cokes and a half a glass of evaporated milk? <img src="/images/smilies/icon_neutral.svg" alt=":|" title=":|" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="12508" data-author="daedalus" data-date="2006-05-09T15:17:26+00:00" data-subject="">
 
-As i remember, Jake was becoming real heavy about people voting, there was another mud that we was competing against, well pretty much.  Trying to get more votes than them ect.  some of those players from that other mud decided to post on the crier.  Elwood posted something that i guess was bad sportsmanship that referred to the other mud, which lead to him being passworded.  Tho these details may be a little summarized, it is generally what happened.  
+As i remember, Jake was becoming real heavy about people voting, there was another mud that we was competing against, well pretty much. Trying to get more votes than them ect. some of those players from that other mud decided to post on the crier. Elwood posted something that i guess was bad sportsmanship that referred to the other mud, which lead to him being passworded. Tho these details may be a little summarized, it is generally what happened. 
 
-However, Mosaix did come here to see us.  Im not sure how the deal between aa and broc went.  But since broc finds it necessary to clean the cobwebs out of others closets. I would like to enlighten folks that the finger should yet be turned around because i do remember him smiling and laughing when he told us he stole from Torso, tho it was b4 he was in our 
+However, Mosaix did come here to see us. Im not sure how the deal between aa and broc went. But since broc finds it necessary to clean the cobwebs out of others closets. I would like to enlighten folks that the finger should yet be turned around because i do remember him smiling and laughing when he told us he stole from Torso, tho it was b4 he was in our 
 
 clan and when he came to visit he was already in the clan.
 
-I would also like to say that we generally try to help our clan members as much as possible, if they come to us with a problem or want us to help kill a mob with them we will usually do it.  Many of you know how much medios/minstrel is saving people when they die and such.  Just like many of you do for us.  So why wouldnt we help a clan member as some people claim?  It comes to the point where 
+I would also like to say that we generally try to help our clan members as much as possible, if they come to us with a problem or want us to help kill a mob with them we will usually do it. Many of you know how much medios/minstrel is saving people when they die and such. Just like many of you do for us. So why wouldnt we help a clan member as some people claim? It comes to the point where 
 
 A. We cant read peoples minds, we dont know if there is a prob until given.
 
 B. Mike and I may not have played there for a while but many people have their peak times to play. as everyone on here knows stuff happens in rl.
 
-C. If people needs stuff i [b:3f0hnjj5]encourage[/b:3f0hnjj5] them to try for themselves before crying about someone not helping.
+C. If people needs stuff i <strong>encourage</strong> them to try for themselves before crying about someone not helping.
 
 As for Al he has never given me a reason personally to not trust him.
 
@@ -722,13 +728,13 @@ Daedalus
 
 <div class="post" data-post-id="12509" data-author="13" data-date="2006-05-09T17:32:35+00:00" data-subject="">
 
-I'm the only Elwood ever.  You should know immortals aren't allowed to be shared.
+I'm the only Elwood ever. You should know immortals aren't allowed to be shared.
 
 </div>
 
 <div class="post" data-post-id="12510" data-author="Grue" data-date="2006-05-09T18:07:24+00:00" data-subject="">
 
-[i:24fxyzzn]"I wasn't desperate to get wasted. Believe it or not, there are some beers that aren't available nationwide, and I am a *good* beer afficionado. If I can't get it here, I'm happy to trade someone something that's local and easy for me."[/i:24fxyzzn]
+<em>"I wasn't desperate to get wasted. Believe it or not, there are some beers that aren't available nationwide, and I am a \*good\* beer afficionado. If I can't get it here, I'm happy to trade someone something that's local and easy for me."</em>
 
 I know, I'm just yanking your chain. Although I would have hoped it would have been some good imported beer, like maybe Scottish or Austrian.
 
@@ -736,27 +742,28 @@ I know, I'm just yanking your chain. Although I would have hoped it would have b
 
 <div class="post" data-post-id="12511" data-author="Weasel" data-date="2006-05-09T18:17:15+00:00" data-subject="">
 
-There's also plenty of people in the game that don't have a DoW tag, so acting like they're the Borg is a bit melodramatic.[/quote:tzi3384w]
+> <strong>12345 wrote:</strong>
+> There's also plenty of people in the game that don't have a DoW tag, so acting like they're the Borg is a bit melodramatic.
 
-hehe crack me up that did.. although not a good idea to put quest rewards to the vote when there's a bunch of clan members there huh  :?
+hehe crack me up that did.. although not a good idea to put quest rewards to the vote when there's a bunch of clan members there huh <img src="/images/smilies/icon_e_confused.svg" alt=":?" title=":?" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="12512" data-author="Mosaix" data-date="2006-05-09T18:54:52+00:00" data-subject="">
 
-In your last post, it should be noted that in the same mysterious vault I lost a POY in your vault just after you came back from a break in playing.  It was unfortunate that then your cracked skull lamp also dissapeared.
+In your last post, it should be noted that in the same mysterious vault I lost a POY in your vault just after you came back from a break in playing. It was unfortunate that then your cracked skull lamp also dissapeared.
 
-Maybe the two items are somehow connceted.  Your answer if you remember to me at that time was stuff dissapears and that was that.
+Maybe the two items are somehow connceted. Your answer if you remember to me at that time was stuff dissapears and that was that.
 
-Off the deep end, maybe.   But you welched on a deal, expect to be held accountable for it.   You ripped me off and Im pissed.  Earlier this year I tried several times to e-mail you privately and you blew it off.  Your e-mail did have problems, but you had started to respond then didnt when questions got asked.
+Off the deep end, maybe. But you welched on a deal, expect to be held accountable for it. You ripped me off and Im pissed. Earlier this year I tried several times to e-mail you privately and you blew it off. Your e-mail did have problems, but you had started to respond then didnt when questions got asked.
 
 So when at the beginning of this post you flamed out on me it seriously pissed me off.
 
 In regards to Torso, I stole the briefcase out of his inventory once.
 
-I think the only item of interest was a Juju charm.  Played a level 20 thief for about 1 month in summer of 2004.  Mostly got food bags and junk bags.  Didnt have the urge to ruin a player by stealing a robe, and the junk bags got boring so I stopped.  
+I think the only item of interest was a Juju charm. Played a level 20 thief for about 1 month in summer of 2004. Mostly got food bags and junk bags. Didnt have the urge to ruin a player by stealing a robe, and the junk bags got boring so I stopped. 
 
-Aaron I just dont appreciate your behavior/attitude and ive had it.  Sorry.
+Aaron I just dont appreciate your behavior/attitude and ive had it. Sorry.
 
 Broc/Mosaix
 
@@ -782,11 +789,11 @@ Listen motherfu cker you still didn't say what else I was supposed to owe you.
 
 <div class="post" data-post-id="12516" data-author="Medios" data-date="2006-05-09T20:41:28+00:00" data-subject="">
 
-First of all, im not defending any of Als past actions.  My comment is that he seems to be doing alot better and theres no reason to bring up old stuff that doesnt matter.  Aaron has asked me several times to invite Al back into the clan, he was a member before Mosaix.  As far as the trash talk about DoW,  I remember the stuff you guys say and the next time someone needs help I might not be around.  We can start making this personal if you like.
+First of all, im not defending any of Als past actions. My comment is that he seems to be doing alot better and theres no reason to bring up old stuff that doesnt matter. Aaron has asked me several times to invite Al back into the clan, he was a member before Mosaix. As far as the trash talk about DoW, I remember the stuff you guys say and the next time someone needs help I might not be around. We can start making this personal if you like.
 
 Mike
 
-PS  My clan is about free thinkers, people that can do stuff for themselves.  We dont pthief, harass, or otherwise ruin anyones time on the mud.  Its in my opinion that its quite the opposite.
+PS My clan is about free thinkers, people that can do stuff for themselves. We dont pthief, harass, or otherwise ruin anyones time on the mud. Its in my opinion that its quite the opposite.
 
 </div>
 
@@ -810,19 +817,19 @@ Hell, there's really only one whiny baby on this thread, let's just lock 'er up.
 
 <div class="post" data-post-id="12519" data-author="Weasel" data-date="2006-05-09T21:11:08+00:00" data-subject="">
 
-Yeah I agree. Splork, consider yourself incarcerated.  :twisted:
+Yeah I agree. Splork, consider yourself incarcerated. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="12520" data-author="*Splork*" data-date="2006-05-09T21:47:11+00:00" data-subject="">
 
-I don't even lock threads when their sole purpose is to rip me a new one, so I am pretty hesitant to lock this one. Especially when I am enjoying the drama :P
+I don't even lock threads when their sole purpose is to rip me a new one, so I am pretty hesitant to lock this one. Especially when I am enjoying the drama <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="12521" data-author="Mystery" data-date="2006-05-09T22:36:18+00:00" data-subject="Root  of the problem">
 
-I blame Splork :twisted:
+I blame Splork <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -834,7 +841,7 @@ As a n00b to sloth, I often feel outside of the hard core old player groups of w
 
 I've frequented the slothmud player gallery, trying to figure out who is who, and who is buddies with who, just so I can figure out where I fit in and who are the best people to ask for advice.
 
-I was pretty disappointed when this whole post could be summarized by two brothers complaining to their mum that each had stolen each others toys. However its been great to know where people stand with each other. I find it hard to understand why there seems to be this cone of silence on various things on sloth. *shrug*
+I was pretty disappointed when this whole post could be summarized by two brothers complaining to their mum that each had stolen each others toys. However its been great to know where people stand with each other. I find it hard to understand why there seems to be this cone of silence on various things on sloth. \*shrug\*
 
 Sometimes I think of ditching my southerners tag and joining a clan which could be of benefit to me. But I guess its more about others than yourself and thats what makes it fun. I guess shyla is a bit of an example about that.
 
@@ -844,7 +851,7 @@ Sometimes I think of ditching my southerners tag and joining a clan which could 
 
 I was just that same way Jezer,only it was Zorich and Alpheus and Strider
 
-and Argent that I wanted to know better.  May Nia and Hectordick rot in peace.
+and Argent that I wanted to know better. May Nia and Hectordick rot in peace.
 
 </div>
 
@@ -852,15 +859,15 @@ and Argent that I wanted to know better.  May Nia and Hectordick rot in peace.
 
 Someone asked me this online, thought it fair to respond here.
 
-I like Dow, I truly enjoy Dow.   Thats not in question for me.  They are good people that band together.   The makeup of current players shows smarts and intelligence that I enjoy playing the game with.  Nab, Blastem, Krok and Minstreal in particular at one time or another have gotten together and knocked some stuff out for sure.  Lis took a break and is now back, Daedalus is very nice and has rescued my dead ass on more then one occasion via ICQ.   For all my complaining on this thread Aaron most of the time is ok, hes a nice guy in person, but online seems to go a-hole mode from time to time.   Some of the earlier members I never really got to meet.  This particular deal, and getting blasted earlier in the thread really pissed me off, and have nothing to do with Dow itself.
+I like Dow, I truly enjoy Dow. Thats not in question for me. They are good people that band together. The makeup of current players shows smarts and intelligence that I enjoy playing the game with. Nab, Blastem, Krok and Minstreal in particular at one time or another have gotten together and knocked some stuff out for sure. Lis took a break and is now back, Daedalus is very nice and has rescued my dead ass on more then one occasion via ICQ. For all my complaining on this thread Aaron most of the time is ok, hes a nice guy in person, but online seems to go a-hole mode from time to time. Some of the earlier members I never really got to meet. This particular deal, and getting blasted earlier in the thread really pissed me off, and have nothing to do with Dow itself.
 
-Albert and I have had some enjoyable moments and some not so enjoyable moments.  I dont dislike him, i just cant say im pleased with him.  Neutral.  
+Albert and I have had some enjoyable moments and some not so enjoyable moments. I dont dislike him, i just cant say im pleased with him. Neutral. 
 
-Aaron in response to your question.  I asked for 4 forges back then.  The helm of dwarves and grey shard you had and gave up.  Obsidian sleeves and Rune of Netherworld were supposed to be built over time and handed over.  They never got done.  Mike has helped me quite a bit over time with what has now become an Ars Magica project as it was added after 2004.  
+Aaron in response to your question. I asked for 4 forges back then. The helm of dwarves and grey shard you had and gave up. Obsidian sleeves and Rune of Netherworld were supposed to be built over time and handed over. They never got done. Mike has helped me quite a bit over time with what has now become an Ars Magica project as it was added after 2004. 
 
 I think im almost done with it except for 2-3 comps on the rune, and 
 
-1 comp on one other forge for Ars.  Maybe you guys could assist me in finishing the Ars and then call it a day on this.  I dont have time to hawk the mud all day and finish it myself.  This summer id be able to play a bit though in about a week or 2 when my gigs are done.  Want to finally get to 40 avatar with silly Klurik Mosaix
+1 comp on one other forge for Ars. Maybe you guys could assist me in finishing the Ars and then call it a day on this. I dont have time to hawk the mud all day and finish it myself. This summer id be able to play a bit though in about a week or 2 when my gigs are done. Want to finally get to 40 avatar with silly Klurik Mosaix
 
 Mosaix
 
@@ -878,7 +885,7 @@ after spending the past few days dissing us and telling us how we suck and how h
 
 <div class="post" data-post-id="12526" data-author="Mosaix" data-date="2006-05-10T04:29:43+00:00" data-subject="">
 
-Albert dont be an ass.  Read before you attack.  At no point did I slander dow.  Im still not pleased with both of you, and am trying to resolve the issue so we dont perpetually argue with one another.
+Albert dont be an ass. Read before you attack. At no point did I slander dow. Im still not pleased with both of you, and am trying to resolve the issue so we dont perpetually argue with one another.
 
 </div>
 
@@ -1140,8 +1147,6 @@ And so they played together for many happy days. And soon the Flounder's time of
 
 So for the rest of their lives, Calyssa and the sea-creatures all lived together in peace and merriment, and Calyssa never had to catch any more fish. And as for the grouchy old fisherman, he must have learned his lesson, for he was never seen nor heard of again.
 
- 
-
 The End
 
 The moral of this story is OH GOD I'M CONFUSED !!!!
@@ -1150,9 +1155,10 @@ The moral of this story is OH GOD I'M CONFUSED !!!!
 
 <div class="post" data-post-id="12529" data-author="Vixn" data-date="2006-05-10T09:27:08+00:00" data-subject="">
 
-Once upon a time... [/quote:1ojdvmy6] 
+> <strong>Elsie wrote:</strong>
+> Once upon a time...
 
-omg Elsie are you crazy? I can't even scroll it down to the end. Do you really think somebody gonna read it? Next time pleeease post link to .swf movie.. special for me. :-)
+omg Elsie are you crazy? I can't even scroll it down to the end. Do you really think somebody gonna read it? Next time pleeease post link to .swf movie.. special for me. <img src="/images/smilies/icon_e_smile.svg" alt=":-)" title=":-)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -1170,19 +1176,20 @@ I demand a real ending!
 
 <div class="post" data-post-id="12531" data-author="12345" data-date="2006-05-10T11:22:27+00:00" data-subject="">
 
-I was just that same way Jezer,only it was Zorich and Alpheus and Strider
+> <strong>13 wrote:</strong>
+> I was just that same way Jezer,only it was Zorich and Alpheus and Strider
+> 
+> and Argent that I wanted to know better. May Nia and Hectordick rot in peace.
 
-and Argent that I wanted to know better.  May Nia and Hectordick rot in peace.[/quote:6sqqmz1u]
-
-Wow... I haven't grouped with Alpheus since 93.  Anyone know what happened to him?
+Wow... I haven't grouped with Alpheus since 93. Anyone know what happened to him?
 
 </div>
 
 <div class="post" data-post-id="12533" data-author="13" data-date="2006-05-10T14:06:27+00:00" data-subject="">
 
-That's the first I've heard of any rune of the N. or obsidian sleeves.  I remember that you were working on the forge, but I wouldn't have agreed
+That's the first I've heard of any rune of the N. or obsidian sleeves. I remember that you were working on the forge, but I wouldn't have agreed
 
-to all that shit, who the hell wants to cycle the horsemen?  Barf.  Sorry,
+to all that shit, who the hell wants to cycle the horsemen? Barf. Sorry,
 
 we're gonna have to agree to disagree I guess.
 
@@ -1190,13 +1197,13 @@ we're gonna have to agree to disagree I guess.
 
 <div class="post" data-post-id="12534" data-author="Mosaix" data-date="2006-05-10T14:55:42+00:00" data-subject="">
 
-Hi flyin Alpheus hell runs for exp.  sloth 2
+Hi flyin Alpheus hell runs for exp. sloth 2
 
 </div>
 
 <div class="post" data-post-id="12535" data-author="brady" data-date="2006-05-10T18:20:06+00:00" data-subject="">
 
-[img:3qjy92op]http://www.labstory.net/plate/poop-big.jpg[/img:3qjy92op]
+![](http://www.labstory.net/plate/poop-big.jpg)
 
 </div>
 
@@ -1214,7 +1221,7 @@ no playing ping pong with dogs
 
 <div class="post" data-post-id="12539" data-author="osric" data-date="2006-05-11T05:56:48+00:00" data-subject="">
 
-Ok, tell you what, I'll buy both of you guys a case of beer provided not only the squable subsides, but also the elsie never writes anything like that again ever!  Also you will have to come to Wisconsin for the beer (really it's a small price to pay, afterall you get to enjoy my beloved state)! Actually, Elsie you are also invited, but you will have to drink shots of stoli while writing a new masterpiece on the subject of a cure for the double whiffs! :P
+Ok, tell you what, I'll buy both of you guys a case of beer provided not only the squable subsides, but also the elsie never writes anything like that again ever! Also you will have to come to Wisconsin for the beer (really it's a small price to pay, afterall you get to enjoy my beloved state)! Actually, Elsie you are also invited, but you will have to drink shots of stoli while writing a new masterpiece on the subject of a cure for the double whiffs! <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -1226,15 +1233,13 @@ GÃ¥ til Per i hagen
 
 Har du vondt i magen, 
 
-SÃ¥ gÃ¥ til Per i hagen.  
+SÃ¥ gÃ¥ til Per i hagen. 
 
-Sitt pÃ¥ en stein.  
+Sitt pÃ¥ en stein. 
 
-Gnag pÃ¥ et bein.  
+Gnag pÃ¥ et bein. 
 
 SÃ¥ blir du bra i magen. 
-
- 
 
 Elsie
 
@@ -1242,7 +1247,7 @@ Elsie
 
 <div class="post" data-post-id="12541" data-author="13" data-date="2006-05-11T12:44:57+00:00" data-subject="">
 
-ebalo zavali :(
+ebalo zavali <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -1254,13 +1259,13 @@ that's a daf kampf move.
 
 <div class="post" data-post-id="12551" data-author="Turbo" data-date="2006-05-13T04:07:53+00:00" data-subject="">
 
-Clarification of Al/Albert, people are asking if you are referring to me. My real life name is Al/Albert.  I am Turbo on Sloth; I don't have time to read 7 pages of messages on this topic.
+Clarification of Al/Albert, people are asking if you are referring to me. My real life name is Al/Albert. I am Turbo on Sloth; I don't have time to read 7 pages of messages on this topic.
 
 </div>
 
 <div class="post" data-post-id="12567" data-author="Qa" data-date="2006-05-15T17:18:57+00:00" data-subject="">
 
-I liked the story, Elsie.  Thanks.
+I liked the story, Elsie. Thanks.
 
 </div>
 
@@ -1268,9 +1273,9 @@ I liked the story, Elsie.  Thanks.
 
 "YOU STOLE MY CHARACTER"
 
-"NUH UH BUTTFACE, [b:28aspf1p]YOU DID[/b:28aspf1p]"
+"NUH UH BUTTFACE, <strong>YOU DID</strong>"
 
-"YEAH RIGHT [b:28aspf1p]LIAR[/b:28aspf1p], CHECK OUT THESE [b:28aspf1p]FACTS OF LOGIC[/b:28aspf1p]"
+"YEAH RIGHT <strong>LIAR</strong>, CHECK OUT THESE <strong>FACTS OF LOGIC</strong>"
 
 "WAAAAAAAAHHHHHHHHHHH I AM BETTER THAN YOU I SWEAR!!"
 
@@ -1294,9 +1299,12 @@ Go on, bring your Lyme pthief back if you aren't still banned - you damaged Slot
 
 <div class="post" data-post-id="12822" data-author="Blackguard" data-date="2006-06-01T14:46:12+00:00" data-subject="">
 
-fuk off Virus
-
-Go on, bring your Lyme pthief back if you aren't still banned - you damaged Sloth already, might as well finish it off, right?[/quote:1migzs38]
+> <strong>Weasel wrote:</strong>
+> fuk off Virus
+> 
+> 
+> 
+> Go on, bring your Lyme pthief back if you aren't still banned - you damaged Sloth already, might as well finish it off, right?
 
 damaged Sloth how?
 
@@ -1308,7 +1316,7 @@ I was by far the most innovative pthief this MUD has ever seen. I think you're j
 
 Why do you think you were banned? No point playing innocent, there's no need to restate what you already know, heh.
 
-..You define innovative as multiplaying and cheating?  :shock:
+..You define innovative as multiplaying and cheating? <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -1316,7 +1324,7 @@ Why do you think you were banned? No point playing innocent, there's no need to 
 
 Blackguard's last logon was Tue Sep 20 17:06:42 2005
 
-[ 1t  0m  0c  0w] Blackguard the Untitled
+[ 1t 0m 0c 0w] Blackguard the Untitled
 
 LIESSSSSSSSS!
 
@@ -1330,7 +1338,8 @@ Let the peon talk, it's the worst he can do and no one cares anyway.
 
 <div class="post" data-post-id="12826" data-author="Blackguard" data-date="2006-06-01T14:51:58+00:00" data-subject="">
 
-Why do you think you were banned? Don't play innocent, there's no need to restate what you already know.[/quote:1wdam69d]
+> <strong>Weasel wrote:</strong>
+> Why do you think you were banned? Don't play innocent, there's no need to restate what you already know.
 
 I was only "banned" because you cried like a bitch to the imms after I said I fucked your wife (ha ha). That was aweesome, it was worth it. You said you'd sue me for libel. HAHAHA.
 
@@ -1350,7 +1359,7 @@ Blackguard
 
 <div class="post" data-post-id="12827" data-author="Weasel" data-date="2006-06-01T14:53:06+00:00" data-subject="">
 
-:roll: 
+<img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> 
 
 have a nice day.
 
@@ -1358,9 +1367,9 @@ have a nice day.
 
 <div class="post" data-post-id="12828" data-author="Clink" data-date="2006-06-01T14:54:57+00:00" data-subject="">
 
-This is clearly personal stuff.  Take it elsewhere.  It is not welcome here.
+This is clearly personal stuff. Take it elsewhere. It is not welcome here.
 
-This is not a pleasant request.  I have no patience or time for it.  It escalated once before very recently and I'll take similar actions again with no further warning.
+This is not a pleasant request. I have no patience or time for it. It escalated once before very recently and I'll take similar actions again with no further warning.
 
 Clink
 
@@ -1378,19 +1387,18 @@ About Tinkles - she got all her eq back after the triggers abuse and that's not 
 
 <div class="post" data-post-id="12845" data-author="Guinex" data-date="2006-06-02T03:02:29+00:00" data-subject="">
 
-What about poor Guinex  *sneef* :cry:
+What about poor Guinex \*sneef\* <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="12846" data-author="Qa" data-date="2006-06-02T03:42:13+00:00" data-subject="">
 
-Someone quoted me about pths and DoW. I only meant that if a person is in a clan, that doesn't mean he/she can't steal or have another secret char, shrugs. That's about all clans in general.
-
-[/quote:1o8cb23i]
+> <strong>Krok wrote:</strong>
+> Someone quoted me about pths and DoW. I only meant that if a person is in a clan, that doesn't mean he/she can't steal or have another secret char, shrugs. That's about all clans in general.
 
 Please do not presume to speak for the clan of Golden Tiger.
 
-For the record, the Golden Tigers do not support PTHs at all.  Pthieving by clan mebers in any character or any form is not tolerated.
+For the record, the Golden Tigers do not support PTHs at all. Pthieving by clan mebers in any character or any form is not tolerated.
 
 Qa, member of the council of elders of the Golden Tigers.
 
@@ -1398,9 +1406,9 @@ Qa, member of the council of elders of the Golden Tigers.
 
 <div class="post" data-post-id="12854" data-author="Medios" data-date="2006-06-02T20:55:02+00:00" data-subject="">
 
-I think Krok simply meant that its almost impossible for clans to police members.  The only way to find out alt chars is to level up an imm, then snoop ips.  This seems a little against the rules.  
+I think Krok simply meant that its almost impossible for clans to police members. The only way to find out alt chars is to level up an imm, then snoop ips. This seems a little against the rules. 
 
-For the record DoW does not support pthieving either.  If I knew a current member was pthieving they can surely be removed.  We want to represent the elite players of slothmud, not the vermin who terrorize n00bs.  However, what someone did years ago, or on another game does not reflect how they are treated now.  I treat people the way they treat me and other fellow players.  Everyone has a bad day and might say stuff they dont mean.  I even remember one time when Qa said he would never join a DoW group.  That never stopped me from inviting him.  That being said I think you guys need to back off Gimlet, hes a good friend if you give him a chance.  
+For the record DoW does not support pthieving either. If I knew a current member was pthieving they can surely be removed. We want to represent the elite players of slothmud, not the vermin who terrorize n00bs. However, what someone did years ago, or on another game does not reflect how they are treated now. I treat people the way they treat me and other fellow players. Everyone has a bad day and might say stuff they dont mean. I even remember one time when Qa said he would never join a DoW group. That never stopped me from inviting him. That being said I think you guys need to back off Gimlet, hes a good friend if you give him a chance. 
 
 Mike
 
@@ -1410,7 +1418,7 @@ PS If I catch you fuckin up Al, im gonna smoke you like this phat joint.
 
 <div class="post" data-post-id="12861" data-author="12345" data-date="2006-06-03T01:30:14+00:00" data-subject="">
 
-The same can be said of DragonSworn.  We're as selective as we can be, but nothing is foolproof.  If you are discovered to be a pthief, I hope you can outrun a relocate.
+The same can be said of DragonSworn. We're as selective as we can be, but nothing is foolproof. If you are discovered to be a pthief, I hope you can outrun a relocate.
 
 </div>
 
@@ -1422,15 +1430,15 @@ Any pthiefs in sMAc will be used as shark bait.
 
 <div class="post" data-post-id="12865" data-author="Guinex" data-date="2006-06-03T03:06:25+00:00" data-subject="">
 
-*smoke* As much as i hate pthieves terrorizing noobs, i really do miss killing them  :(
+\*smoke\* As much as i hate pthieves terrorizing noobs, i really do miss killing them <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="12873" data-author="12345" data-date="2006-06-03T16:22:21+00:00" data-subject="">
 
-I wouldn't feel too bad G.  Nor and Jor have been around and are pretty lame.  Nor spent some time trying to hack my scripts so he could force me to quit!, drag me out of a safe area and loot me at will.  I imagine he would have eventually modified it to get me to remove some key equipment if he could have gotten it to work.  While it might have been interesting if he had gotten it to work, I'm pretty sure client rape would have gotten him wiped, banned, or worse.
+I wouldn't feel too bad G. Nor and Jor have been around and are pretty lame. Nor spent some time trying to hack my scripts so he could force me to quit!, drag me out of a safe area and loot me at will. I imagine he would have eventually modified it to get me to remove some key equipment if he could have gotten it to work. While it might have been interesting if he had gotten it to work, I'm pretty sure client rape would have gotten him wiped, banned, or worse.
 
-I logged on and saw Jor on, so I spent about a minute giving him a hard time.  He decided that being webbed and blinded at recall wasn't as much fun as advertised, and left.  Since I was only on to check clan news, I rented about a minute after that.  Was about 4 minutes total I think.
+I logged on and saw Jor on, so I spent about a minute giving him a hard time. He decided that being webbed and blinded at recall wasn't as much fun as advertised, and left. Since I was only on to check clan news, I rented about a minute after that. Was about 4 minutes total I think.
 
 So... you're not missing much.
 

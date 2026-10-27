@@ -20,21 +20,22 @@ post_count: 6
 
 current progress and uh GRR
 
-[<LINK_TEXT text="http://shygypsy.com/farm/p.cgi?state=ba ... ss&guess=+">http://shygypsy.com/farm/p.cgi?state=baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeaaiaaabaabaeaabaaaaaaaaaaaaaaaaopiaaaajbaaaaaaaaaaaaaobaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa&style=twxzbzzpwazwoloysyxvqiwruajbdsztuucxsbambtdrvybyyngunurfzscsbqdiejyzbami&i=2&j=2&cmd=guess&guess=+</LINK_TEXT>](http://shygypsy.com/farm/p.cgi?state=baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeaaiaaabaabaeaabaaaaaaaaaaaaaaaaopiaaaajbaaaaaaaaaaaaaobaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa&style=twxzbzzpwazwoloysyxvqiwruajbdsztuucxsbambtdrvybyyngunurfzscsbqdiejyzbami&i=2&j=2&cmd=guess&guess=+)
+[http://shygypsy.com/farm/p.cgi?state=baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeaaiaaabaabaeaabaaaaaaaaaaaaaaaaopiaaaajbaaaaaaaaaaaaaobaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa&style=twxzbzzpwazwoloysyxvqiwruajbdsztuucxsbambtdrvybyyngunurfzscsbqdiejyzbami&i=2&j=2&cmd=guess&guess=+](http://shygypsy.com/farm/p.cgi?state=baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeaaiaaabaabaeaabaaaaaaaaaaaaaaaaopiaaaajbaaaaaaaaaaaaaobaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa&style=twxzbzzpwazwoloysyxvqiwruajbdsztuucxsbambtdrvybyyngunurfzscsbqdiejyzbami&i=2&j=2&cmd=guess&guess=+)
 
 </div>
 
 <div class="post" data-post-id="21786" data-author="mahkra" data-date="2007-12-24T04:29:53+00:00" data-subject="">
 
-[<LINK_TEXT text="http://shygypsy.com/farm/p.cgi?state=fc ... ss&guess=+">http://shygypsy.com/farm/p.cgi?state=fcojkdiacfaibbcdabkapaabaadbicacamddiceidbafageibdahaebldcgcbceaaopiaaampbceeaaepaaaaaaobaaahaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa&style=cfaausvzdxcwqmvtoctzacyptuyderiabwfxsaybesdyvqzaxycuorrkwncucuidyfwldkma&i=2&j=1&cmd=guess&guess=+</LINK_TEXT>](http://shygypsy.com/farm/p.cgi?state=fcojkdiacfaibbcdabkapaabaadbicacamddiceidbafageibdahaebldcgcbceaaopiaaampbceeaaepaaaaaaobaaahaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa&style=cfaausvzdxcwqmvtoctzacyptuyderiabwfxsaybesdyvqzaxycuorrkwncucuidyfwldkma&i=2&j=1&cmd=guess&guess=+)
+[http://shygypsy.com/farm/p.cgi?state=fcojkdiacfaibbcdabkapaabaadbicacamddiceidbafageibdahaebldcgcbceaaopiaaampbceeaaepaaaaaaobaaahaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa&style=cfaausvzdxcwqmvtoctzacyptuyderiabwfxsaybesdyvqzaxycuorrkwncucuidyfwldkma&i=2&j=1&cmd=guess&guess=+](http://shygypsy.com/farm/p.cgi?state=fcojkdiacfaibbcdabkapaabaadbicacamddiceidbafageibdahaebldcgcbceaaopiaaampbceeaaepaaaaaaobaaahaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa&style=cfaausvzdxcwqmvtoctzacyptuyderiabwfxsaybesdyvqzaxycuorrkwncucuidyfwldkma&i=2&j=1&cmd=guess&guess=+)
 
 </div>
 
 <div class="post" data-post-id="21788" data-author="Yasik" data-date="2007-12-24T15:37:30+00:00" data-subject="Re: something to do while regening">
 
-http://shygypsy.com/farm/p.cgi[/quote:32emmiqv]
+> <strong>mahkra wrote:</strong>
+> http://shygypsy.com/farm/p.cgi
 
-[img:32emmiqv]http://yasik.kiev.ua/SealOfEpicFailure.gif[/img:32emmiqv]
+![](http://yasik.kiev.ua/SealOfEpicFailure.gif)
 
 </div>
 

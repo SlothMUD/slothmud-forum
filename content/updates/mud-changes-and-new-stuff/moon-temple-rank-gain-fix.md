@@ -28,7 +28,7 @@ Please let us know if you run into any problems, however.
 
 Thanks to all of those who were involved with the discovery and fixing of this issue.
 
--Neptune
+\-Neptune
 
 neptune@slothmud.org
 

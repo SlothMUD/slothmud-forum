@@ -18,13 +18,13 @@ I bleme it on this:
 
 Van gives a gigantic spellbook to Kulum.
 
-*suddden loss of communication with mud*
+\*suddden loss of communication with mud\*
 
 </div>
 
 <div class="post" data-post-id="21250" data-author="brand" data-date="2007-11-09T17:47:21+00:00" data-subject="">
 
-that's funny because i've been sitting here blaming you  :twisted:
+that's funny because i've been sitting here blaming you <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -32,9 +32,9 @@ that's funny because i've been sitting here blaming you  :twisted:
 
 I hope van saved, cause I surely didn't.
 
-On top of that, I hope you had darkness up, otherwise, Here's to your corpse mate :P
+On top of that, I hope you had darkness up, otherwise, Here's to your corpse mate <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
--Hotara
+\-Hotara
 
 </div>
 

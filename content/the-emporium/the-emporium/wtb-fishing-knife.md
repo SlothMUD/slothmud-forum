@@ -16,7 +16,7 @@ how many restrings will it take
 
 i got other shit too, just ask
 
-not_mullah ig anymore
+not\_mullah ig anymore
 
 Karkus or Mustang
 

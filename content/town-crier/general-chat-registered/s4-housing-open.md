@@ -12,7 +12,7 @@ post_count: 3
 
 <div class="post" data-post-id="30499" data-author="Thraxas" data-date="2009-12-17T13:54:24+00:00" data-subject="S4 Housing - open?">
 
-I was just wondering whether anyone knew anything about the new housing on S4. (really need just the room not the vault as a secure dumping ground for corpses where I know they'll not be [i:3fmbem9q]borrowed[/i:3fmbem9q] or sacced by a newbie, but will happily buy a vault at the same time).
+I was just wondering whether anyone knew anything about the new housing on S4. (really need just the room not the vault as a secure dumping ground for corpses where I know they'll not be <em>borrowed</em> or sacced by a newbie, but will happily buy a vault at the same time).
 
 All the help files seem to be in game and I have funds to buy, but have no idea where the construction guilds are.
 
@@ -44,7 +44,7 @@ Splork
 
 <div class="post" data-post-id="30510" data-author="Jag" data-date="2009-12-19T21:35:17+00:00" data-subject="">
 
-The only one I have found is on BH.  
+The only one I have found is on BH. 
 
 Could someone please post the locations of the house guilds on the continents?
 

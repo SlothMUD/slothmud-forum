@@ -14,7 +14,7 @@ post_count: 11
 
 EPIC SYSTEM (a few notes from me) 
 
------- 
+\------ 
 
 As I mentioned before I will be introducing to you a couple of new concepts - Events and Honorquests. I'll take a moment to go over these here so you know what to look for. 
 
@@ -34,7 +34,7 @@ In its simplest form this are autoquests. BUT, some will be far more complex and
 
 4: Honorquests will be hidden in many things, to be found in a variety of ways. Not all will be go ask X about this-that. But everything can be found in something that is ingame and ready to go (not on Google). 
 
------------------------ 
+\----------------------- 
 
 This system is as much for me as it is for you. As a builder, I LOVE testing you with tricks, traps, and puzzles. I will be building things in this system to do just that. The mobs wont all be HIT HARD with LOTS OF HP. I know that gets boring. These mobs will require strategy, thinking, in some cases planning, and in some cases even a bit of luck. But most of all they will probably require that you actually be in control of your character. Some are designed to be a terror to botters. 
 
@@ -46,7 +46,7 @@ I have tested everything in this system as thoroughly as I can with keeping as m
 
 My plan for this system is to make bi-weekly to monthly additions in the form of expansion packs. The system that will be installed on Sunday is the Starter Package. A sampling of concepts and ideas I've been playing with. This package may or may not take you long to complete, but its mostly for me to see interest and desire. I will post in this thread everytime there is an expansion pack to be added and a summary of what it is (aka: new quests, new mobs, new events, bug fixes, etc). 
 
-Now really lastly, but deffinately not least. Special thanks to Kjartan and Isabo for their coding insights and abilities. Destiny for his work on a couple of areas. Krom for his insights on specific issues (not relevant to mortals  ) And the entire staff of Creators for giving me the leeway to do this in the first place. 
+Now really lastly, but deffinately not least. Special thanks to Kjartan and Isabo for their coding insights and abilities. Destiny for his work on a couple of areas. Krom for his insights on specific issues (not relevant to mortals ) And the entire staff of Creators for giving me the leeway to do this in the first place. 
 
 Hope you enjoy, 
 
@@ -56,7 +56,7 @@ Akasha
 
 <div class="post" data-post-id="21235" data-author="Akasha" data-date="2007-11-08T05:21:05+00:00" data-subject="EPIC SYSTEM : Help files">
 
-The helpfiles will be in within the next few days, but here they are ahead of time to answer _some_questions. Sorry, I can't explain why the system is so lame, but oh well, can't please everyone > 
+The helpfiles will be in within the next few days, but here they are ahead of time to answer \_some\_questions. Sorry, I can't explain why the system is so lame, but oh well, can't please everyone \> 
 
 Akasha 
 
@@ -138,19 +138,19 @@ Finally, at high-end levels youâ€¦ wellâ€¦ youâ€™ll have to find ou
 
 You will also find a useful command named RANK. When you type rank in any place other than your recruiter station you will see: 
 
------------------------------------------------------------- 
+\------------------------------------------------------------ 
 
 You are in the army of the mighty King Lucius DeGrance II. 
 
------------------------------------------------------------- 
+\------------------------------------------------------------ 
 
 You have gained 9893 honor points. /how many honor points you have gained/ 
 
 You have earned rank of private. /your current rank/ 
 
-Your insignia pips are *. /pips are the number of ranks you have gained/ 
+Your insignia pips are \*. /pips are the number of ranks you have gained/ 
 
------------------------------------------------------------- 
+\------------------------------------------------------------ 
 
 When you type RANK at your local recruiter, you will be shown how many Honor points you need to receive a promotion to the next rank. 
 
@@ -180,7 +180,7 @@ HONORQUEST
 
 Honor points are the points you accumulate through killing EPIC MOBS, completing HONORQUESTS, and participating in EVENTS. To see how much Honor you have gained you can type RANK and to see how much Honor you need to receive a promotion, visit your local recruiter and type RANK in his presence. 
 
-INSIGNIA RANK_INSIGNIA 
+INSIGNIA RANK\_INSIGNIA 
 
 See also: 
 
@@ -216,7 +216,7 @@ RANK
 
 HONOR POINTS 
 
-INSIGNIA RANK_INSIGNIA 
+INSIGNIA RANK\_INSIGNIA 
 
 PROMOTION 
 
@@ -248,7 +248,7 @@ RANK
 
 HONOR POINTS 
 
-INSIGNIA RANK_INSIGNIA 
+INSIGNIA RANK\_INSIGNIA 
 
 EPIC MOBS 
 
@@ -276,7 +276,7 @@ RANK
 
 HONOR POINTS 
 
-INSIGNIA RANK_INSIGNIA 
+INSIGNIA RANK\_INSIGNIA 
 
 EPIC MOBS 
 
@@ -302,7 +302,7 @@ RANK
 
 HONOR POINTS 
 
-INSIGNIA RANK_INSIGNIA 
+INSIGNIA RANK\_INSIGNIA 
 
 EPIC MOBS 
 
@@ -318,7 +318,7 @@ HONORQUEST
 
 Enlisting in the epic army should not be performed lightly. Enlisting opens access to Honorquests and other events to you that would not be normally available. This also brings with it the responsibility of protecting the innocent and disadvantaged as you are now a hero of the land. 
 
-To enlist, visit Master Devry in Bal Harbor any time. You may want to ask him about joining_army to get more specific information. 
+To enlist, visit Master Devry in Bal Harbor any time. You may want to ask him about joining\_army to get more specific information. 
 
 RESIGN 
 
@@ -330,7 +330,7 @@ RANK
 
 HONOR POINTS 
 
-INSIGNIA RANK_INSIGNIA 
+INSIGNIA RANK\_INSIGNIA 
 
 EPIC MOBS 
 
@@ -358,7 +358,7 @@ RANK
 
 HONOR POINTS 
 
-INSIGNIA RANK_INSIGNIA 
+INSIGNIA RANK\_INSIGNIA 
 
 EPIC MOBS 
 
@@ -384,7 +384,7 @@ RANK
 
 HONOR POINTS 
 
-INSIGNIA RANK_INSIGNIA 
+INSIGNIA RANK\_INSIGNIA 
 
 EPIC MOBS 
 
@@ -412,7 +412,7 @@ Patch SP 1.0
 
 CHANGES
 
------------
+\-----------
 
 Changes to method of honor distribution on epic mobs. 
 
@@ -422,11 +422,11 @@ Added Tank Honor.
 
 BUG FIXES
 
------------
+\-----------
 
 Fixed BUG : dont get honor sometimes.
 
-Fixed BUG : shapeshifted gets no honor (if you still fail to get honor reply  on other thread and i'll look at it again)
+Fixed BUG : shapeshifted gets no honor (if you still fail to get honor reply on other thread and i'll look at it again)
 
 </div>
 
@@ -436,13 +436,13 @@ Patch SP 1.1
 
 BUG FIXES
 
--------------
+\-------------
 
 Shifted no honor bug is FIXED! (TESTED and PASSED)
 
 CHANGES
 
-------------
+\------------
 
 Honor mobs have been reconfigured with their final makeover.
 
@@ -454,33 +454,33 @@ Akasha
 
 ADDITIONS
 
--------------
+\-------------
 
-Help files are ingame.  Help Epic System
+Help files are ingame. Help Epic System
 
 Thanks to Judge for adding them.
 
 FIXES
 
--------
+\-------
 
 Fixed Honor following leader out of room and only awarding members with leader, and not with mob.
 
 Fixed a slight glitch in the reward amount, it was curving awards down, so 1 in your favor.
 
-Fixed having to engage mob with group to get honor.  Healers can now not assist and get honor.  (Thank Shyla for this).  This fix puts bot-sponge control back in leader's hands.
+Fixed having to engage mob with group to get honor. Healers can now not assist and get honor. (Thank Shyla for this). This fix puts bot-sponge control back in leader's hands.
 
 CHANGES
 
------------
+\-----------
 
-In preparation for upcoming expansion pack, a few epic/honor mobs have undergone some changes.  Most you will not like right now, but a minor expansion pack is due out within the next 7 days - look for posting of update.  
+In preparation for upcoming expansion pack, a few epic/honor mobs have undergone some changes. Most you will not like right now, but a minor expansion pack is due out within the next 7 days - look for posting of update. 
 
 MESSAGE FROM YULUK
 
----------------------------
+\---------------------------
 
-My scribes have updated some material in the Tome of Fathmori Legends.  This information you may find critical in your quest for honor.  The only updated translations are of those creatures which have already been discovered throughout the land of Jord.
+My scribes have updated some material in the Tome of Fathmori Legends. This information you may find critical in your quest for honor. The only updated translations are of those creatures which have already been discovered throughout the land of Jord.
 
 </div>
 
@@ -488,7 +488,7 @@ My scribes have updated some material in the Tome of Fathmori Legends.  This inf
 
 ADDITIONS
 
--------------
+\-------------
 
 New HonorQuests
 
@@ -500,7 +500,7 @@ A few new epic mobs in place, updates to be found in Tome of Fathmori
 
 CHANGES
 
------------
+\-----------
 
 Distinct separation between an Honor mob and an Epic mob.
 
@@ -518,13 +518,13 @@ Akasha
 
 FIXES
 
--------
+\-------
 
 Event raid mobs now do not cluster all in one room
 
 Explore quests have been temporarily removed due to an unknown bug
 
-(these may or may not be reinstated)  Other quests are unaffected.
+(these may or may not be reinstated) Other quests are unaffected.
 
 </div>
 
@@ -532,11 +532,11 @@ Explore quests have been temporarily removed due to an unknown bug
 
 FIXES
 
--------
+\-------
 
 Fixed Raid mobs so that fighter gets honor instead of others in room
 
-Fixed a hidden bug in Epic mobs.  Seems you were really only getting about 1/3 of the total honor a mob was supposed to put out.  Total is now fixed to what it was intended to be (about 3x higher).
+Fixed a hidden bug in Epic mobs. Seems you were really only getting about 1/3 of the total honor a mob was supposed to put out. Total is now fixed to what it was intended to be (about 3x higher).
 
 </div>
 
@@ -544,13 +544,13 @@ Fixed a hidden bug in Epic mobs.  Seems you were really only getting about 1/3 o
 
 FIXES
 
--------
+\-------
 
-Player tested and approved, the no-honor-shifted bug is finally 100% fixed.  Feel free to shift on epic mobs now.
+Player tested and approved, the no-honor-shifted bug is finally 100% fixed. Feel free to shift on epic mobs now.
 
 Raid/Honor mobs are not fixed as of yet, this will take me more time to fix each mob than I have right now.
 
-Current ingame Epic mobs are now fully functional.  Yes, some of them weren't using all of their abilties, and for those of you who tested Arcane Ooze, this mob is fixed now to perform as intended.
+Current ingame Epic mobs are now fully functional. Yes, some of them weren't using all of their abilties, and for those of you who tested Arcane Ooze, this mob is fixed now to perform as intended.
 
 </div>
 
@@ -558,15 +558,15 @@ Current ingame Epic mobs are now fully functional.  Yes, some of them weren't us
 
 UPDATE:
 
-Yuluk's scribes have completed several new passages and his editor has gone through and fixed the appendix errors.  Yuluk assures us, if its in the book, its been seen on the world.
+Yuluk's scribes have completed several new passages and his editor has gone through and fixed the appendix errors. Yuluk assures us, if its in the book, its been seen on the world.
 
-General Mathor has provided us with information that Lolth has taken great measures to restructure her citadel in demonweb.  To what purpose this restructuring is geared is unknown, but exploration would be recommended.
+General Mathor has provided us with information that Lolth has taken great measures to restructure her citadel in demonweb. To what purpose this restructuring is geared is unknown, but exploration would be recommended.
 
-General Mathor's spies have also alerted us that Lucifer (or whom you call Satan) has increased in power and matured into something larger.  As a result of his sudden evolution, his kingdom of Hades has been altered by his increased power.
+General Mathor's spies have also alerted us that Lucifer (or whom you call Satan) has increased in power and matured into something larger. As a result of his sudden evolution, his kingdom of Hades has been altered by his increased power.
 
 ADDITIONS
 
--------------
+\-------------
 
 Several new epic and honor mobs
 
@@ -578,7 +578,7 @@ Area updates for 2 areas
 
 CHANGES
 
-------------
+\------------
 
 Drachma rewards from epics has been modified.
 

@@ -18,7 +18,7 @@ Juggleblood was here. 1/1/11
 
 <div class="post" data-post-id="32255" data-author="jezer" data-date="2011-01-01T22:49:47+00:00" data-subject="Re: First post of 2011.">
 
-You're actually about 3 posts to short of a forum.  :twisted: 
+You're actually about 3 posts to short of a forum. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 ![](http://www.oz8.org/gallery/albums/album19/i_like_where_this_thread_is_going_again.jpg)
 

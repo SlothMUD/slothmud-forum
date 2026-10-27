@@ -12,9 +12,9 @@ post_count: 48
 
 <div class="post" data-post-id="9230" data-author="13" data-date="2005-10-27T17:26:02+00:00" data-subject="Level loss">
 
-The fact that you can lose a fucking tertiary level is absolutely retarded.  I don't care if someone looks at the code and tells me it's 1/1000, it's still a
+The fact that you can lose a fucking tertiary level is absolutely retarded. I don't care if someone looks at the code and tells me it's 1/1000, it's still a
 
-fucking crock of shit.  270mil AND 2mil coins is a bit fucking much.  I'd like
+fucking crock of shit. 270mil AND 2mil coins is a bit fucking much. I'd like
 
 to extend a well-deserved Fu ck You to whoever came up with that clever
 
@@ -46,19 +46,20 @@ Grow up, get a life, learn some anger management techniques, work out was is rea
 
 <div class="post" data-post-id="9233" data-author="Vixn" data-date="2005-10-27T18:10:25+00:00" data-subject="">
 
-Hmmmm, never lost a quad level before.....That possible too?[/quote:127pdp9f]
+> <strong>Guinex wrote:</strong>
+> Hmmmm, never lost a quad level before.....That possible too?
 
 yes, just added this special feature for Aa only.
 
-*comf*
+\*comf\*
 
 </div>
 
 <div class="post" data-post-id="9234" data-author="Bazilus" data-date="2005-10-27T18:16:21+00:00" data-subject="">
 
-Sorry :) has not had time to raise... But, really you think lost much exp and gold?
+Sorry <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> has not had time to raise... But, really you think lost much exp and gold?
 
-Its only game... :)
+Its only game... <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -72,13 +73,13 @@ My condolences 13. hmm. Guess we should try to always make sure we have an addit
 
 Hey Grue why don't you either identify your character ingame when you call
 
-me a poorly-raised piece of trash or shut your fucking mouth?  I didn't think so you weak-ass anonymous piece of shit.  I realize there is a character ingame named Grue, but I would almost bet that with those levels and your
+me a poorly-raised piece of trash or shut your fucking mouth? I didn't think so you weak-ass anonymous piece of shit. I realize there is a character ingame named Grue, but I would almost bet that with those levels and your
 
-seeming-attentiveness to the crier that it's not your main.  Unless you're the
+seeming-attentiveness to the crier that it's not your main. Unless you're the
 
 one who implemented tertiary level-loss I wasn't talking to you so go take
 
-a fuckin' hike and mind your own business.  Or send me a tell ingame and
+a fuckin' hike and mind your own business. Or send me a tell ingame and
 
 we can discuss this more.
 
@@ -90,11 +91,11 @@ oh wait -- hang on Riurik/Harq, I'll be seeing you ingame buddyroo.
 
 HAHAHAHA
 
-We all know AA is a Red Neck :)
+We all know AA is a Red Neck <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 MUCHO LOVE AA, MUCHO LOVE!!!
 
-Also comfert on lvl lost.  I've lost a 3rd before and it SUCKS!!!
+Also comfert on lvl lost. I've lost a 3rd before and it SUCKS!!!
 
 But it's just a game, and u mud too much anyways :p
 
@@ -112,13 +113,18 @@ Clink
 
 <div class="post" data-post-id="9248" data-author="blackmore" data-date="2005-10-27T19:39:13+00:00" data-subject="">
 
-I fail to understand why people think by posting foul language on the crier it makes what they are saying any more effective. Do you honestly think that using a string of four letter words is going to make anyone rethink anything? All it does is make you sound like a badly-raised piece of trash. 
+> <strong>Grue wrote:</strong>
+> I fail to understand why people think by posting foul language on the crier it makes what they are saying any more effective. Do you honestly think that using a string of four letter words is going to make anyone rethink anything? All it does is make you sound like a badly-raised piece of trash. 
+> 
+> 
+> 
+> ...
+> 
+> 
+> 
+> Grow up, get a life, learn some anger management techniques, work out was is really important, learn some social skills, get a girlfriend/boyfriend, do whatever you have to help get your behavior under control, but please don't post your trash here. I am well and truly tired of it, and I am sure I am not alone.
 
-...
-
-Grow up, get a life, learn some anger management techniques, work out was is really important, learn some social skills, get a girlfriend/boyfriend, do whatever you have to help get your behavior under control, but please don't post your trash here. I am well and truly tired of it, and I am sure I am not alone.[/quote:li8agq3z]
-
-I have 2 kids, and I'm possibly the most anal person I know about how they talk around the house, and I use the same restraint.  My reasoning is that they're going to learn to swear without my help, I'll help them to learn not to swear.  That being said, I don't feel the need to parent everyone else that I come across, nor do I presume they are socially inept.  I work in an office of married parents, none of whom I would place in any of the categories you stated above, yet we would all be censored a dozen times a day if our speech went through sloth's censors, not to mention the comments made that censors don't pick up but are frequently worse.
+I have 2 kids, and I'm possibly the most anal person I know about how they talk around the house, and I use the same restraint. My reasoning is that they're going to learn to swear without my help, I'll help them to learn not to swear. That being said, I don't feel the need to parent everyone else that I come across, nor do I presume they are socially inept. I work in an office of married parents, none of whom I would place in any of the categories you stated above, yet we would all be censored a dozen times a day if our speech went through sloth's censors, not to mention the comments made that censors don't pick up but are frequently worse.
 
 Not that I'm defending Aa's post, but your post demonstrates a narrow view of our world that discounts a large percentage of the real world as being socially incompetent, loners, immature or raised improperly.
 
@@ -126,41 +132,41 @@ Not that I'm defending Aa's post, but your post demonstrates a narrow view of ou
 
 <div class="post" data-post-id="9249" data-author="13" data-date="2005-10-27T19:48:01+00:00" data-subject="">
 
-I agree Dean.  I have a pair of boys 7 and 3 years old and I have to censor
+I agree Dean. I have a pair of boys 7 and 3 years old and I have to censor
 
-myself around them constantly.  As far as stringing together some four-letter
+myself around them constantly. As far as stringing together some four-letter
 
 words, well, I think FUCK YOU gets people's attention a lot faster than 'I am
 
-currently angry with you.'  In the words of my older boy 'you're not the boss
+currently angry with you.' In the words of my older boy 'you're not the boss
 
-of me.'  If you don't like it, don't read it bitch.  If you see a post by 13 you 
+of me.' If you don't like it, don't read it bitch. If you see a post by 13 you 
 
 can almost bet the farm there will be a couple swear words in it whether I'm
 
-angry or not.  I'm coarse, deal with it.
+angry or not. I'm coarse, deal with it.
 
 </div>
 
 <div class="post" data-post-id="9250" data-author="12345" data-date="2005-10-27T20:22:59+00:00" data-subject="">
 
-Aa has the credentials to curse.  We have similar background and it's insanely difficult not to curse and drink like a fish... nature of the job.  Only one I know who managed to avoid it was a severe mormon who followed a code of ethics that Jesus would have trouble living up to.
+Aa has the credentials to curse. We have similar background and it's insanely difficult not to curse and drink like a fish... nature of the job. Only one I know who managed to avoid it was a severe mormon who followed a code of ethics that Jesus would have trouble living up to.
 
-Tert level loss in very rare.  Quad and Avatar level loss is impossible unless you anger the gods... an even them Splork only set Polk's tert levels to 0.
+Tert level loss in very rare. Quad and Avatar level loss is impossible unless you anger the gods... an even them Splork only set Polk's tert levels to 0.
 
 </div>
 
 <div class="post" data-post-id="9251" data-author="Riurik" data-date="2005-10-27T20:38:32+00:00" data-subject="">
 
-Heh :) Cool, came home and found my name being dragged through this thread. OK, well since i've been dragged into this, let me add to it.
+Heh <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> Cool, came home and found my name being dragged through this thread. OK, well since i've been dragged into this, let me add to it.
 
-1) Yes we know you are coarse, that is hardly news.
+1\) Yes we know you are coarse, that is hardly news.
 
-2) Riurik/Harq/Mooch/Rhialto and Grue are all shared by 4 people, as well as Grue and tons of newbie I have mucked around with, in fact I have about 30 chars. I only have 2 characters I do not share with these folks. This should not be news, I have posted this before. I am pretty sure Stan Walker posted this today as Grue as only 3 of them have Grue's Sloth password, but I would be cautious about doing anything to Riurik or Harq, beacuse if I am in him I will be royally pissed off with you. Stan is hardly ever online anymore because he came back and pretty much gave up again, I am online a lot and you are much more likely to run into me. If you think you want to take this out on me online, I'd suggest you rethink and keep it here. 
+2\) Riurik/Harq/Mooch/Rhialto and Grue are all shared by 4 people, as well as Grue and tons of newbie I have mucked around with, in fact I have about 30 chars. I only have 2 characters I do not share with these folks. This should not be news, I have posted this before. I am pretty sure Stan Walker posted this today as Grue as only 3 of them have Grue's Sloth password, but I would be cautious about doing anything to Riurik or Harq, beacuse if I am in him I will be royally pissed off with you. Stan is hardly ever online anymore because he came back and pretty much gave up again, I am online a lot and you are much more likely to run into me. If you think you want to take this out on me online, I'd suggest you rethink and keep it here. 
 
-3) If Stan (who I suspect posted this) is being told to "deal with it" I suggest you do the same. If his post pisses you off, well your post pissed him off. Frankly I find your language obnoxious as well, I just ignore it the same way I ignore the content of your posts that contain the language.
+3\) If Stan (who I suspect posted this) is being told to "deal with it" I suggest you do the same. If his post pisses you off, well your post pissed him off. Frankly I find your language obnoxious as well, I just ignore it the same way I ignore the content of your posts that contain the language.
 
-4) Stan uses Grue to post precisely because he does not play much anymore, and I asked him not to use my active chars names. If you want I will ask him to register his own name as Stan or something else, but I fail to see what difference it makes.
+4\) Stan uses Grue to post precisely because he does not play much anymore, and I asked him not to use my active chars names. If you want I will ask him to register his own name as Stan or something else, but I fail to see what difference it makes.
 
 Having said that, let me pose a serious question. If Aaron were to gossip this online he would be noshouted (I guess pretty permanently, given the his nature). Yet the same group of people who use gossip as a public channel on the MUD, use the forum as a public channel on the Crier, and the Crier is hosted on the same box is it not? So if we restrict language using a public channel on medium, why should it even be vaguely acceptable with the same audience on the same hardware on another medium?
 
@@ -174,7 +180,7 @@ Riurik/Mooch/Harq/Rhialto/Illich/Lots of other chars aka Pete
 
 <div class="post" data-post-id="9253" data-author="Sind" data-date="2005-10-27T21:49:23+00:00" data-subject=".">
 
-bark bark  :arrow:
+bark bark <img src="/images/smilies/icon_arrow.svg" alt=":arrow:" title=":arrow:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -186,27 +192,27 @@ bark bark  :arrow:
 
 <div class="post" data-post-id="9255" data-author="Toxis" data-date="2005-10-27T22:32:13+00:00" data-subject="">
 
-I tended to skip a lot of what dean and wasp said only because I hate long posts.  I tried to read the important parts.  Just an fyi in the future, I figure there were others who hate to read long-winded posts.
+I tended to skip a lot of what dean and wasp said only because I hate long posts. I tried to read the important parts. Just an fyi in the future, I figure there were others who hate to read long-winded posts.
 
-I was STRONGLY AGAINST level loss tert when it was brought up.  I still am very STRONGLY AGAINST level loss tert.
+I was STRONGLY AGAINST level loss tert when it was brought up. I still am very STRONGLY AGAINST level loss tert.
 
-I have lost tert 3 times since brought into the game.  I haven't died all that often in those years either.  It does seem a bit too often.
+I have lost tert 3 times since brought into the game. I haven't died all that often in those years either. It does seem a bit too often.
 
--Toxis
+\-Toxis
 
 </div>
 
 <div class="post" data-post-id="9257" data-author="Deju" data-date="2005-10-28T00:38:47+00:00" data-subject="">
 
-Well, we all know that I die a lot.  I have never lost a tert level.  Perhaps you are just really unlucky Toxis? :)
+Well, we all know that I die a lot. I have never lost a tert level. Perhaps you are just really unlucky Toxis? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-Oh, and you swear all you want AA.  Consider this my official permission.
+Oh, and you swear all you want AA. Consider this my official permission.
 
 </div>
 
 <div class="post" data-post-id="9258" data-author="Medios" data-date="2005-10-28T01:17:37+00:00" data-subject="">
 
-Fuck Aaron, ill ride over to his house and kick his little ass.  Oh wait hes bigger than me, well Ill still give him a sound thrashing.  I never knew it was inappropriate to curse here.  In fact I didnt quite realize it was inappropriate on the game, just about all of us do it.  I submit that the violence on sloth by killing things with swords, cutting off limbs, roasting other people in burning winds, and singing until someones head blows off is alot more negative than a few words.  I never did understand how a word can hurt someones feelings or make them feel dirty.  Its quite possible that if your worried about children then they dont need to be here.  Chrissy has 5 year old daughter and I have been known to use some foul language around her, she says Michael thats a bad word and she knows she isnt supposed to talk that way.  Maybe people need to police their own environment instead of trying to place rules on everyone else.    
+Fuck Aaron, ill ride over to his house and kick his little ass. Oh wait hes bigger than me, well Ill still give him a sound thrashing. I never knew it was inappropriate to curse here. In fact I didnt quite realize it was inappropriate on the game, just about all of us do it. I submit that the violence on sloth by killing things with swords, cutting off limbs, roasting other people in burning winds, and singing until someones head blows off is alot more negative than a few words. I never did understand how a word can hurt someones feelings or make them feel dirty. Its quite possible that if your worried about children then they dont need to be here. Chrissy has 5 year old daughter and I have been known to use some foul language around her, she says Michael thats a bad word and she knows she isnt supposed to talk that way. Maybe people need to police their own environment instead of trying to place rules on everyone else. 
 
 Oh tert loss sux I agree.
 
@@ -216,21 +222,24 @@ Mike
 
 <div class="post" data-post-id="9259" data-author="brady" data-date="2005-10-28T02:47:52+00:00" data-subject="">
 
-Trying to teach Aa some manners would be right up there with trying to teach yer dog to  whistle.  Choose your battles but mostly just STFU.  Peace be with you...
+Trying to teach Aa some manners would be right up there with trying to teach yer dog to whistle. Choose your battles but mostly just STFU. Peace be with you...
 
 </div>
 
 <div class="post" data-post-id="9260" data-author="Vixn" data-date="2005-10-28T04:11:57+00:00" data-subject="">
 
-I was STRONGLY AGAINST level loss tert when it was brought up.  I still am very STRONGLY AGAINST level loss tert.
-
--Toxis[/quote:1dw9cpbb]
+> <strong>Toxis wrote:</strong>
+> I was STRONGLY AGAINST level loss tert when it was brought up. I still am very STRONGLY AGAINST level loss tert.
+> 
+> 
+> 
+> \-Toxis
 
 I suggest to change it this way:
 
-1. Increase chance to loss tert and even quad in case you've been shocked.
+1\. Increase chance to loss tert and even quad in case you've been shocked.
 
-2. But also remove chance to loss any level when you type 'quit!' and
+2\. But also remove chance to loss any level when you type 'quit!' and
 
 I guess the amount of exp loosing this way should be increased.
 
@@ -244,29 +253,35 @@ I was trying to come up with a nice way to say this is about the stupidest thing
 
 tert level loss sucks, has happened to me a few times (on both my chars), but the main problem is the coins - if anything just make re-leveling cost half the gold of gaining that level for the first time
 
-I suggest to change it this way:
-
-1. Increase chance to loss tert and even quad in case you've been shocked.
-
-2. But also remove chance to loss any level when you type 'quit!' and
-
-I guess the amount of exp loosing this way should be increased.
-
-Any comments?[/quote:36uu3q9j]
+> <strong>Vixn wrote:</strong>
+> I suggest to change it this way:
+> 
+> 1\. Increase chance to loss tert and even quad in case you've been shocked.
+> 
+> 2\. But also remove chance to loss any level when you type 'quit!' and
+> 
+> I guess the amount of exp loosing this way should be increased.
+> 
+> 
+> 
+> Any comments?
 
 </div>
 
 <div class="post" data-post-id="9264" data-author="Gnu" data-date="2005-10-28T06:14:26+00:00" data-subject="">
 
-I suggest to change it this way:
-
-1. Increase chance to loss tert and even quad in case you've been shocked.
-
-2. But also remove chance to loss any level when you type 'quit!' and
-
-I guess the amount of exp loosing this way should be increased.
-
-Any comments?[/quote:1q1ydkyu]
+> <strong>Vixn wrote:</strong>
+> I suggest to change it this way:
+> 
+> 1\. Increase chance to loss tert and even quad in case you've been shocked.
+> 
+> 2\. But also remove chance to loss any level when you type 'quit!' and
+> 
+> I guess the amount of exp loosing this way should be increased.
+> 
+> 
+> 
+> Any comments?
 
 I have one comment:
 
@@ -276,21 +291,31 @@ last player Poolp.
 
 <div class="post" data-post-id="9265" data-author="firebrand" data-date="2005-10-28T09:29:13+00:00" data-subject="">
 
-I was STRONGLY AGAINST level loss tert when it was brought up.  I still am very STRONGLY AGAINST level loss tert.
+> <strong>Vixn wrote:</strong>
+> > <strong>Toxis wrote:</strong>
+> > I was STRONGLY AGAINST level loss tert when it was brought up. I still am very STRONGLY AGAINST level loss tert.
+> > 
+> > 
+> > 
+> > \-Toxis
+> 
+> 
+> 
+> 
+> 
+> I suggest to change it this way:
+> 
+> 1\. Increase chance to loss tert and even quad in case you've been shocked.
+> 
+> 2\. But also remove chance to loss any level when you type 'quit!' and
+> 
+> I guess the amount of exp loosing this way should be increased.
+> 
+> 
+> 
+> Any comments?
 
--Toxis[/quote:3na07k9h]
-
-I suggest to change it this way:
-
-1. Increase chance to loss tert and even quad in case you've been shocked.
-
-2. But also remove chance to loss any level when you type 'quit!' and
-
-I guess the amount of exp loosing this way should be increased.
-
-Any comments?[/quote:3na07k9h]
-
-yeah i have one: f u c k you.  lose quad are you fucking KIDDING me??? stfu and go to hell.  prime and second loss are hard enough to deal with.  tert loss is painful as all hell - i should know.  i lost tert myself once, and i was already on lyme and didn't know i could sneak reaper.  any mortal who does not currently play an admin here would tell you that the penalties for death are severe enough as it is.  if increased lost exps goes into the game YOU will be personally blamed for it dude.  i don't care if yer not the one who put it there - it was your idea and there are some people who will personally see to it that your sloth life is no longer any fun.
+yeah i have one: f u c k you. lose quad are you fucking KIDDING me??? stfu and go to hell. prime and second loss are hard enough to deal with. tert loss is painful as all hell - i should know. i lost tert myself once, and i was already on lyme and didn't know i could sneak reaper. any mortal who does not currently play an admin here would tell you that the penalties for death are severe enough as it is. if increased lost exps goes into the game YOU will be personally blamed for it dude. i don't care if yer not the one who put it there - it was your idea and there are some people who will personally see to it that your sloth life is no longer any fun.
 
 </div>
 
@@ -304,11 +329,11 @@ May I ask? I think clerics should have much less chances to shock. Krok, cl prim
 
 <div class="post" data-post-id="9271" data-author="13" data-date="2005-10-28T10:54:00+00:00" data-subject="">
 
-Well here is the deal about sloth Pete..don't share your password.  I have no
+Well here is the deal about sloth Pete..don't share your password. I have no
 
 way of knowing whether it's Stan or Pete in there, and I don't plan on making
 
-an effort to find out either way.  Anyone could get out of anything by simply saying "It wasn't me it was the other guy".  This is the internet and that doesn't hold any water with me.  I don't hold either one of you in particularly high regard so I don't much care, since you seem to espouse his opinions as well.  There is an old saying that goes something like "don't poke the bear".  I think it was more than clear that I was pissed off and probably not receptive to anyone's opinion of my language or my opinions, yet the bear was poked.  I am a firm believer in being held accountable for your actions and/or your words.  If you had said something like this to my face I would have fucking cleaned your clock before you got the 10th word out, and I plan to get my pound of flesh one way or another.  Also, I'm pretty sure you didn't just tell me foul language was a bad idea after the ignorant and childish rants you sent to Splork and the wizlist last year.  Those were some of the funniest shit I have seen in a long time.
+an effort to find out either way. Anyone could get out of anything by simply saying "It wasn't me it was the other guy". This is the internet and that doesn't hold any water with me. I don't hold either one of you in particularly high regard so I don't much care, since you seem to espouse his opinions as well. There is an old saying that goes something like "don't poke the bear". I think it was more than clear that I was pissed off and probably not receptive to anyone's opinion of my language or my opinions, yet the bear was poked. I am a firm believer in being held accountable for your actions and/or your words. If you had said something like this to my face I would have fucking cleaned your clock before you got the 10th word out, and I plan to get my pound of flesh one way or another. Also, I'm pretty sure you didn't just tell me foul language was a bad idea after the ignorant and childish rants you sent to Splork and the wizlist last year. Those were some of the funniest shit I have seen in a long time.
 
 Get ready,
 
@@ -318,9 +343,9 @@ Aaron
 
 <div class="post" data-post-id="9273" data-author="Leaf" data-date="2005-10-28T11:46:10+00:00" data-subject="">
 
-I met Aa before and I can stand to lose a few pounds :)
+I met Aa before and I can stand to lose a few pounds <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-Come get some!!!   :lol:
+Come get some!!! <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -332,7 +357,7 @@ I have absoultely no concern over whetever you do. Frankly, what's the worst you
 
 If you are not receptive to anyones opionon of your language don't use it, and noone will comment on it. In your own words, be held accountable for your actions.
 
-As far as "wiping my clock", that is the funniest thing I have ever heard from you :) You are threatening to wipe my cloak in a virtual forum? If you mean in real life it is even funnier. You are going to find my real life address and visit me and go to jail for a game? You sound like a damn middle-schooler! For heaven's sake just grow up and get some perspective. Go get drunk or do whetever you do in real life when you are too stressed out, chill out. 
+As far as "wiping my clock", that is the funniest thing I have ever heard from you <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> You are threatening to wipe my cloak in a virtual forum? If you mean in real life it is even funnier. You are going to find my real life address and visit me and go to jail for a game? You sound like a damn middle-schooler! For heaven's sake just grow up and get some perspective. Go get drunk or do whetever you do in real life when you are too stressed out, chill out. 
 
 As for your language, from now on whenever you choose to use foul language on the crier I will be posting. Get used to it. I don't like foul in a public forum, you choose to use I will not stand by and say nothing. I am sick of your langauge. Just stop it and I'll leave your posts alone. I have ignored you languag in the past, you can be assured after this I never will again, so get used to it.
 
@@ -356,7 +381,7 @@ Pete
 
 What I said is that if you called me poorly-raised trash to my face I would
 
-have just dotted your eye.  I don't care whether you like my language or not, but I;m not looking to be insulted because you don't agree with me.
+have just dotted your eye. I don't care whether you like my language or not, but I;m not looking to be insulted because you don't agree with me.
 
 </div>
 
@@ -364,7 +389,7 @@ have just dotted your eye.  I don't care whether you like my language or not, bu
 
 OK lets do this. I can't speak for Stan, but I for one apologize for anything I've said, this has gotten out of hand.
 
-Realistically though, Aaron, you started this thread. You could have posted an angry but reasonable email saying you thought the level loss was unreasonable, that you were pissed and could it be looked at. I'm sorry, but whats is the point of using the word fuck 5 times in a 7 line post? You started this thread with an insult! If you like I can go back and find all the times you have used foul language and/or insulted people, but you, by your own admission do it.  
+Realistically though, Aaron, you started this thread. You could have posted an angry but reasonable email saying you thought the level loss was unreasonable, that you were pissed and could it be looked at. I'm sorry, but whats is the point of using the word fuck 5 times in a 7 line post? You started this thread with an insult! If you like I can go back and find all the times you have used foul language and/or insulted people, but you, by your own admission do it. 
 
 I have no gripe with you online, I have always helped you when you needed help, most of the time I leave you alone. Can I please ask that you tone down the language. I don't want to have to add this site as a blocked site for my son when he plays the game. I don't think asking everyone to watch their language is unreasonable. I don't use language like that in real life or online (and yes obviously if I am truly pissed I will let off, but not in a public post). 
 
@@ -376,7 +401,7 @@ Pete
 
 <div class="post" data-post-id="9278" data-author="Grue" data-date="2005-10-28T13:43:08+00:00" data-subject="">
 
-OK, maybe this solved. I used the word fuck quoting you, but it came out as ****.
+OK, maybe this solved. I used the word fuck quoting you, but it came out as \*\*\*\*.
 
 Pete
 
@@ -384,9 +409,10 @@ Pete
 
 <div class="post" data-post-id="9279" data-author="Cami" data-date="2005-10-28T13:52:57+00:00" data-subject="">
 
-May I ask? I think clerics should have much less chances to shock. Krok, cl prime, shocks ppl with rina and shock eq. Is it fair? like... maybe good align will help us to shock less?[/quote:1fyjpwgt]
+> <strong>Krok wrote:</strong>
+> May I ask? I think clerics should have much less chances to shock. Krok, cl prime, shocks ppl with rina and shock eq. Is it fair? like... maybe good align will help us to shock less?
 
-I agree 100%, for some reason it seems Cleric primes will shock more often than others.  What's up with that?
+I agree 100%, for some reason it seems Cleric primes will shock more often than others. What's up with that?
 
 </div>
 
@@ -398,21 +424,21 @@ It was clearly addressed to whoever implemented tertiary level-loss.
 
 If you want to be cool that's fine, I don't know that we've ever been
 
-actively at-odds with each other before.  In my mind me saying fuck 
+actively at-odds with each other before. In my mind me saying fuck 
 
-this fuck that is a world apart from a direct insult.  I wouldn't take that
+this fuck that is a world apart from a direct insult. I wouldn't take that
 
-from an actual friend, and I don't see any reason to here either.  
+from an actual friend, and I don't see any reason to here either. 
 
 I have a real problem with people who act lofty around me, or people
 
-that I view as thinking they are better than I am.  I had a two hour
+that I view as thinking they are better than I am. I had a two hour
 
 talk with my wife last night about this and came to a pretty surpising
 
 conclusion eventually, involving a major change in whom I consider to
 
-be a true friend to me.  So yeah cool, apology accepted Pete..
+be a true friend to me. So yeah cool, apology accepted Pete..
 
 Stan you need to talk to me ingame about this or refrain from writing
 
@@ -450,7 +476,7 @@ Aa still plays too much, and u can get ur 3rd lvl within a day on the amount of 
 
 <div class="post" data-post-id="9286" data-author="Stan" data-date="2005-10-28T15:58:24+00:00" data-subject="">
 
-Now I remember why I quit this game in the 1st place. Small number of obnoxious aholes shooting their mouths off, flaming everyone, and no-one prepared to do anything about it. Lets all bow and scrape to Aaron even when hes being a prick.  Screw you all. Really neat that I loes access to all my chars because of your languge  :evil: Thanks Aaron!!!
+Now I remember why I quit this game in the 1st place. Small number of obnoxious aholes shooting their mouths off, flaming everyone, and no-one prepared to do anything about it. Lets all bow and scrape to Aaron even when hes being a prick. Screw you all. Really neat that I loes access to all my chars because of your languge <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom"> Thanks Aaron!!!
 
 Thanks to wheoever implemented whatever you did to block the cussing BTW.
 
@@ -458,19 +484,27 @@ Thanks to wheoever implemented whatever you did to block the cussing BTW.
 
 <div class="post" data-post-id="9287" data-author="Poolp" data-date="2005-10-28T15:58:31+00:00" data-subject="">
 
-I suggest to change it this way:
-
-1. Increase chance to loss tert and even quad in case you've been shocked.
-
-2. But also remove chance to loss any level when you type 'quit!' and
-
-I guess the amount of exp loosing this way should be increased.
-
-Any comments?[/quote:2k0f65og]
-
-I have one comment:
-
-last player Poolp.[/quote:2k0f65og]
+> <strong>Gnu wrote:</strong>
+> > <strong>Vixn wrote:</strong>
+> > I suggest to change it this way:
+> > 
+> > 1\. Increase chance to loss tert and even quad in case you've been shocked.
+> > 
+> > 2\. But also remove chance to loss any level when you type 'quit!' and
+> > 
+> > I guess the amount of exp loosing this way should be increased.
+> > 
+> > 
+> > 
+> > Any comments?
+> 
+> 
+> 
+> 
+> 
+> I have one comment:
+> 
+> last player Poolp.
 
 I can't quit when I'm boarded, so it hardly matters. But this does not make the idea sound any less retarded.
 
@@ -480,27 +514,27 @@ I can't quit when I'm boarded, so it hardly matters. But this does not make the 
 
 Hey Stan, this happened because you stuck your nose in where it wasn't
 
-required, and ye insulted me and my folks who brought me up.  I guess
+required, and ye insulted me and my folks who brought me up. I guess
 
 you think that in real life you could just go around saying someone is trash
 
 and their parents did a poor job of raising them without some repercussions?
 
-That's not likely.  What's more likely is that you would get your ass whipped.
+That's not likely. What's more likely is that you would get your ass whipped.
 
 I didn't say "Jake is the most worthless person I have ever met, what a 
 
-waste of semen.", or "Clink is a stupid turd.".  What I said that this is a stupid
+waste of semen.", or "Clink is a stupid turd.". What I said that this is a stupid
 
 ass idea and I'm mad as fu ck about it because I got the shitty end of the
 
-stick a couple times in the last month.  I did say 'go fu ck yourself though,
+stick a couple times in the last month. I did say 'go fu ck yourself though,
 
 which I should probably edit out, since my initial rage and frustration have
 
-abated considerably.  In my book go fu ck yourself would warrant an ass-whippin' too.
+abated considerably. In my book go fu ck yourself would warrant an ass-whippin' too.
 
-**EDIT I'm actually a pretty nice person for the most part if a bit of a smartass.  You probably would have been better-served sending me a PM
+\*\*EDIT I'm actually a pretty nice person for the most part if a bit of a smartass. You probably would have been better-served sending me a PM
 
 with a semi-polite request to tone it down rather than slinging mud at me
 
@@ -512,13 +546,13 @@ Aa
 
 <div class="post" data-post-id="9295" data-author="Toxis" data-date="2005-10-28T18:46:31+00:00" data-subject="">
 
-I find ranting a very relaxing way to relieve stress.  Besides, try losing 2 terts in a month and see how pissed off you get then.
+I find ranting a very relaxing way to relieve stress. Besides, try losing 2 terts in a month and see how pissed off you get then.
 
 Oh, forgot one other thing.... STFU!!!!!!!
 
- : ) ~
+ : ) \~
 
--Toxis
+\-Toxis
 
 </div>
 
@@ -536,19 +570,24 @@ Hijo de la gran puta, chupa mi colo cabron!
 
 <div class="post" data-post-id="9309" data-author="guest" data-date="2005-10-29T20:49:30+00:00" data-subject="">
 
-[quote:24eluz6l]i figure if i ever lost a tert level i would just gossip the follwing 
+> <strong>Quote:</strong>
+> i figure if i ever lost a tert level i would just gossip the follwing 
+> 
+> 
+> 
+> 
+> 
+> Hijo de la gran puta, chupa mi colo cabron!
 
-Hijo de la gran puta, chupa mi colo cabron![/quote:24eluz6l]
+Too bad some of us would still understand you, Jim .... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-Too bad some of us would still understand you, Jim ....    :twisted: 
-
-P.d., its culo, not colo :)
+P.d., its culo, not colo <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="9311" data-author="Medios" data-date="2005-10-29T21:07:19+00:00" data-subject="">
 
-If I lost a tert level I would just whine and cry on the crier.  Oh wait thats unoriginal... umm I would say something in another language, damnit already taken.  How about go kill myself.
+If I lost a tert level I would just whine and cry on the crier. Oh wait thats unoriginal... umm I would say something in another language, damnit already taken. How about go kill myself.
 
 Mike
 
@@ -564,7 +603,7 @@ heh my wife only teaches me how to say curses in spanish, she doesn't show me ho
 
 What happened with her ?
 
-[ 1m  0c  0t  0w] Auriana the Untitled
+[ 1m 0c 0t 0w] Auriana the Untitled
 
 </div>
 

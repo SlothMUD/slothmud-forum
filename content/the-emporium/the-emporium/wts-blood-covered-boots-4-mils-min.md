@@ -12,7 +12,7 @@ post_count: 19
 
 <div class="post" data-post-id="4067" data-author="Krok" data-date="2005-02-02T15:24:26+00:00" data-subject="WTS:blood covered boots (4 mils min)">
 
-Blood Covered Boots  -0.5  +1 KickDam  
+Blood Covered Boots -0.5 +1 KickDam 
 
 MT MW MBa MMo [OR]
 
@@ -20,7 +20,7 @@ MT MW MBa MMo [OR]
 
 Closing whenever I like it.
 
----
+\---
 
 Krok, the evil follower of Nia.
 
@@ -112,9 +112,10 @@ near bird
 
 <div class="post" data-post-id="4101" data-author="Leaf" data-date="2005-02-03T18:32:19+00:00" data-subject="">
 
-Holy shit 10m for some shit you can two man.
-
-That's almost as good as Leaf selling yellow rose gaunts for 7mil![/quote:shacdkup]
+> <strong>13 wrote:</strong>
+> Holy shit 10m for some shit you can two man.
+> 
+> That's almost as good as Leaf selling yellow rose gaunts for 7mil!
 
 Hey at that time, thats how much I thought they are worth :p
 
@@ -124,13 +125,13 @@ Also only 1 person had them and it's a good piece of eq :p
 
 <div class="post" data-post-id="4102" data-author="kosowar" data-date="2005-02-03T18:42:19+00:00" data-subject="">
 
-Very exciting auction! As I can see last bidder is Krok with 13 Mil! :)
+Very exciting auction! As I can see last bidder is Krok with 13 Mil! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="4103" data-author="13" data-date="2005-02-03T18:46:29+00:00" data-subject="">
 
-[img:1x8hjr79]http://www.rocketmadness.com/photopost/data/500/24best_thread_ever_by_homer-med.jpg[/img:1x8hjr79]
+![](http://www.rocketmadness.com/photopost/data/500/24best_thread_ever_by_homer-med.jpg)
 
 </div>
 
@@ -146,7 +147,7 @@ Mwahahahahahaha, guys, can't stop laffing. Ok, sold to Yasik.
 
 (btw, i'd never pay more than 3 mils for those booties)
 
----
+\---
 
 Krok, the evil follower of Nia.
 

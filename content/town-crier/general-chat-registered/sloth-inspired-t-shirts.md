@@ -16,11 +16,11 @@ a few of us have gotten together to try something new!!
 
 so we came up with some ideas for Sloth and MUD inspired T-shirts
 
-and you can find them all here at this site.  Each item will take you into a larger area full of other items in that catagory :)  
+and you can find them all here at this site. Each item will take you into a larger area full of other items in that catagory <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> 
 
-[url:3khafjbw][http://www.xgenco.com/pirates/stores/index.htm](http://www.xgenco.com/pirates/stores/index.htm)[/url:3khafjbw]
+[url=http://www.xgenco.com/pirates/stores/index.htm]http://www.xgenco.com/pirates/stores/index.htm
 
- [img:3khafjbw][http://www.xgenco.com/pirates/stores/sitedesigns3.jpg](http://www.xgenco.com/pirates/stores/sitedesigns3.jpg)[/img:3khafjbw]
+ (image: /[url=http://www.xgenco.com/pirates/stores/sitedesigns3.jpg]http://www.xgenco.com/pirates/stores/sitedesigns3.jpg[/url])
 
 if you have other suggestions for shirt ideas.. send us an email!
 
@@ -30,13 +30,13 @@ Gamewear@xgenco.com
 
 <div class="post" data-post-id="17329" data-author="Weasel" data-date="2007-03-17T05:41:36+00:00" data-subject="">
 
-classic  :D
+classic <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="17330" data-author="Alberich" data-date="2007-03-17T14:57:39+00:00" data-subject="">
 
-laugh, brilliant   :D
+laugh, brilliant <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -62,13 +62,13 @@ I want a black one with STFU! :))
 
 <div class="post" data-post-id="17336" data-author="Autolycos" data-date="2007-03-17T20:23:25+00:00" data-subject="">
 
-don't worry, i just changed the dow one..  and adding more shirts as soon as i have time.
+don't worry, i just changed the dow one.. and adding more shirts as soon as i have time.
 
 </div>
 
 <div class="post" data-post-id="17339" data-author="Medios" data-date="2007-03-17T22:27:41+00:00" data-subject="">
 
-Im working on a DoW logo for the shirts so dont buy these garbage ones.  I need to talk with my clan about it, so remind me online Dogs.
+Im working on a DoW logo for the shirts so dont buy these garbage ones. I need to talk with my clan about it, so remind me online Dogs.
 
 Mike
 
@@ -76,15 +76,16 @@ Mike
 
 <div class="post" data-post-id="17348" data-author="Avatar" data-date="2007-03-18T13:19:33+00:00" data-subject="Shirts">
 
-Last time we talked about this, I bought a custom shirt that says AFK on it.  I think it's funny, especially when I'm out  :)
+Last time we talked about this, I bought a custom shirt that says AFK on it. I think it's funny, especially when I'm out <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="17382" data-author="Autolycos" data-date="2007-03-21T19:04:09+00:00" data-subject="">
 
-I want a black one with STFU! :))[/quote:3qwtse5q]
+> <strong>Krok wrote:</strong>
+> I want a black one with STFU! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">)
 
- there are now black shirts with [b:3qwtse5q]STFU in red![/b:3qwtse5q][/color:3qwtse5q]
+ there are now black shirts with <strong>STFU in red!</strong>
 
 </div>
 
@@ -98,13 +99,13 @@ You lost your concentration.
 
 You wield a hand grenade.
 
- :shock:
+ <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="17540" data-author="banedon" data-date="2007-03-27T22:23:49+00:00" data-subject="">
 
-I'm bored  so lemme see, how about
+I'm bored so lemme see, how about
 
 Lie still you're dead!!!
 
@@ -126,27 +127,29 @@ Hrm Argle Bargle Glop Glyph is a great one. Is that phrase unique to sloth or co
 
 <div class="post" data-post-id="17553" data-author="Infested" data-date="2007-03-28T01:44:38+00:00" data-subject="">
 
-This seems oddly familiar.  Autolycos has achieved level 40!
+This seems oddly familiar. Autolycos has achieved level 40!
 
 </div>
 
 <div class="post" data-post-id="17555" data-author="Autolycos" data-date="2007-03-28T02:15:42+00:00" data-subject="">
 
-Arglebargle, glop-glyf!?![/quote:1e2uy5kj]
+> <strong>banedon wrote:</strong>
+> Arglebargle, glop-glyf!?!
 
-i already have that one.. maybe you should look at the ones i have done :)
+i already have that one.. maybe you should look at the ones i have done <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="17557" data-author="brady" data-date="2007-03-28T02:43:26+00:00" data-subject="">
 
-I *heart* Splork!
+I \*heart\* Splork!
 
 </div>
 
 <div class="post" data-post-id="17559" data-author="Autolycos" data-date="2007-03-28T03:18:06+00:00" data-subject="">
 
-I *heart* Splork![/quote:pwoowedg]
+> <strong>brady wrote:</strong>
+> I \*heart\* Splork!
 
 i'd rather rip out my own spleen with a rusty salad fork in front of a live studio audience..
 
@@ -154,10 +157,18 @@ i'd rather rip out my own spleen with a rusty salad fork in front of a live stud
 
 <div class="post" data-post-id="17561" data-author="banedon" data-date="2007-03-28T03:40:35+00:00" data-subject="">
 
-Arglebargle, glop-glyf!?![/quote:2ixt3nbm]
+> <strong>Autolycos wrote:</strong>
+> > <strong>banedon wrote:</strong>
+> > Arglebargle, glop-glyf!?!
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> i already have that one.. maybe you should look at the ones i have done <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-i already have that one.. maybe you should look at the ones i have done :)[/quote:2ixt3nbm]
-
-Checked the page before I posted, must have just missed that one.  But hey, I'm only mortal, even I make a mistake sometimes.
+Checked the page before I posted, must have just missed that one. But hey, I'm only mortal, even I make a mistake sometimes.
 
 </div>

@@ -12,7 +12,7 @@ post_count: 7
 
 <div class="post" data-post-id="17109" data-author="alias" data-date="2007-02-25T18:59:15+00:00" data-subject="Its a longshot....">
 
-Did anyone happen to find my pendulem? went to dowse and its not attached anymore.  
+Did anyone happen to find my pendulem? went to dowse and its not attached anymore. 
 
 Thanx
 
@@ -28,7 +28,7 @@ Madmax lost his too, recently. Does this mean a pthief or perhaps a bug in code 
 
 This bright shiny thing is used for dowsing?
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -46,7 +46,7 @@ Unless you had it attached to a shard or something in your inv, guessing persona
 
 <div class="post" data-post-id="17117" data-author="Medios" data-date="2007-02-26T20:46:43+00:00" data-subject="">
 
-You guys better heed Rynquald.  Its also possible to drop ur pendulum while its attached to a burnt out shard.
+You guys better heed Rynquald. Its also possible to drop ur pendulum while its attached to a burnt out shard.
 
 Damn pthieves!!
 
@@ -56,6 +56,6 @@ Mike
 
 <div class="post" data-post-id="17119" data-author="Hades" data-date="2007-02-26T22:44:32+00:00" data-subject="Its a slingshot...">
 
-Please don't give pthieves any ideas :roll:
+Please don't give pthieves any ideas <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>

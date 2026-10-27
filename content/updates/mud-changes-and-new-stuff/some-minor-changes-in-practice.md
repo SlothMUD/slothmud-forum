@@ -16,11 +16,11 @@ Hi all ..
 
 Made some minor changes in practice :
 
-- prac <no-argument> no longer show only a certain spell now and then.  Well, i hope so.  If anyone see this, please let me know.
+\- prac \<no-argument\> no longer show only a certain spell now and then. Well, i hope so. If anyone see this, please let me know.
 
-- prac now use class, then strata, then unlearned, then skill/spell name.  So, now prac ma will show mage spells/skills instead magic rope as it was doing.
+\- prac now use class, then strata, then unlearned, then skill/spell name. So, now prac ma will show mage spells/skills instead magic rope as it was doing.
 
-- prac <spell/skill name> now show skills too, before it wasnt.
+\- prac \<spell/skill name\> now show skills too, before it wasnt.
 
 Changes in next reboot.
 

@@ -12,7 +12,7 @@ post_count: 4
 
 <div class="post" data-post-id="34979" data-author="Hunter" data-date="2014-04-12T03:42:44+00:00" data-subject="New EQ added">
 
-A small collection of new items has been added to the game.  This will hopefully be the first of many!
+A small collection of new items has been added to the game. This will hopefully be the first of many!
 
 There are items that range from low/newbie to high/avatar.
 
@@ -44,14 +44,14 @@ Why is this being posted under a new mystery user rather than an admin?
 
 <div class="post" data-post-id="34985" data-author="Hunter" data-date="2014-04-12T16:39:24+00:00" data-subject="Re: New EQ added">
 
-> **DarkArtist wrote:**
+> <strong>DarkArtist wrote:</strong>
 > Why is this being posted under a new mystery user rather than an admin?
 
-new, because this is the first batch of items.  The account won't be new for the next batch.
+new, because this is the first batch of items. The account won't be new for the next batch.
 
-mystery user, to you.  I know who I am, as do the admins.
+mystery user, to you. I know who I am, as do the admins.
 
-not an admin account...give me time.  This is my first contribution.
+not an admin account...give me time. This is my first contribution.
 
 </div>
 

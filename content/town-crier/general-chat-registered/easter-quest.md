@@ -12,7 +12,7 @@ post_count: 4
 
 <div class="post" data-post-id="12101" data-author="*juggleblood*" data-date="2006-04-14T11:07:53+00:00" data-subject="Easter Quest">
 
-If we missed the easter egg hunt are we ineligible for the Easter quest?  :(
+If we missed the easter egg hunt are we ineligible for the Easter quest? <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -24,7 +24,7 @@ As of 30 seconds ago there are still over a dozen left for the claiming.
 
 <div class="post" data-post-id="12106" data-author="Mystery" data-date="2006-04-14T22:09:21+00:00" data-subject="Spare egg anyone?">
 
-Since over a hundred were told scattered with only 1-2 being needed per char,I am asking that anyone who has a spare egg and wish to toss my way,to please do so. If not, then perhaps I can still participate in the 2nd part of quest, if not by drachma then by helping gather scattereds and such.. :P
+Since over a hundred were told scattered with only 1-2 being needed per char,I am asking that anyone who has a spare egg and wish to toss my way,to please do so. If not, then perhaps I can still participate in the 2nd part of quest, if not by drachma then by helping gather scattereds and such.. <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -34,6 +34,6 @@ You're covered Mystery.
 
 Thank Drum.
 
--Rub
+\-Rub
 
 </div>

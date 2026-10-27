@@ -14,12 +14,12 @@ post_count: 2
 
 Would be nice to see that info, like clerics see info about their aerial servant.
 
-Also. Why not make it recastable, without need to break it or dispel. Like waterbreating, fly, darksight and some other spells. It sounds logical. They are thorns, and you just let them grow to the full.  :roll:
+Also. Why not make it recastable, without need to break it or dispel. Like waterbreating, fly, darksight and some other spells. It sounds logical. They are thorns, and you just let them grow to the full. <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="32031" data-author="jezer" data-date="2010-11-14T18:37:12+00:00" data-subject="Re: Status of Shield of Thorns in the score">
 
-You are already pretty thorny!  :evil:
+You are already pretty thorny! <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>

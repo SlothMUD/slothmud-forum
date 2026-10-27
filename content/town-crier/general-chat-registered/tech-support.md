@@ -18,6 +18,6 @@ Ok, when we switched servers 2-3 days out of the last few months i have not been
 
 <div class="post" data-post-id="13378" data-author="blackmore" data-date="2006-07-08T03:44:53+00:00" data-subject="">
 
-I've found that sloth is blocked by Peer Guardian.  For some reason the IP is blocked by the government list. That might be causing it.
+I've found that sloth is blocked by Peer Guardian. For some reason the IP is blocked by the government list. That might be causing it.
 
 </div>

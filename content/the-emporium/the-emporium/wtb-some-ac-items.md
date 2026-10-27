@@ -28,7 +28,7 @@ Ice
 
 I may be able to help out, but I've no idea what ac boots or cloaks you want what restricts you have etc.
 
-As a suggestion it'd probably be more helpful to have specific item names ... save us the trouble of looking it up for you :)
+As a suggestion it'd probably be more helpful to have specific item names ... save us the trouble of looking it up for you <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -36,7 +36,7 @@ As a suggestion it'd probably be more helpful to have specific item names ... sa
 
 Items for ST/MW.
 
-So basically most .7 ac cloaks or some .8,  and close to all 2.4 body armor.
+So basically most .7 ac cloaks or some .8, and close to all 2.4 body armor.
 
 I'd even take some hides for that hide armor if anyone has extras.
 

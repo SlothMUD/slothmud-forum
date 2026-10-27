@@ -18,7 +18,7 @@ Dunno what they're doing over there, but there's no vote verification, the telne
 
 <div class="post" data-post-id="11221" data-author="Autolycos" data-date="2006-03-13T20:46:22+00:00" data-subject="">
 
-wtf is this toilet paper you speak of?  
+wtf is this toilet paper you speak of? 
 
 have you not yet learned how to use the 3 seashells?
 
@@ -38,7 +38,7 @@ What seems to be your boggle?
 
 <div class="post" data-post-id="11227" data-author="Weasel" data-date="2006-03-13T21:07:46+00:00" data-subject="">
 
-define boggle.  :)
+define boggle. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -52,15 +52,15 @@ Hey Luke Skywalker, use the force.
 
 <div class="post" data-post-id="11229" data-author="Weasel" data-date="2006-03-13T21:58:52+00:00" data-subject="">
 
-omg a boggle guard  :shock:
+omg a boggle guard <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="11243" data-author="Clink" data-date="2006-03-14T04:51:30+00:00" data-subject="">
 
-TMC voting has been changed.  It is much easier to do so now and only requires clicking on a button.  No more image verification.
+TMC voting has been changed. It is much easier to do so now and only requires clicking on a button. No more image verification.
 
-The link in the upper right corner of the homepage has a link to the page where you must press "confirm my vote".  It's that easy.  Also, please remember the kittens.
+The link in the upper right corner of the homepage has a link to the page where you must press "confirm my vote". It's that easy. Also, please remember the kittens.
 
 Thanks,
 
@@ -76,9 +76,9 @@ Enhance your calm!
 
 <div class="post" data-post-id="11279" data-author="Weasel" data-date="2006-03-15T01:35:51+00:00" data-subject="">
 
-oh no! not the kittens!  :shock:
+oh no! not the kittens! <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
-Hi Shadis :)
+Hi Shadis <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -96,7 +96,7 @@ ack.. now I've got a headache.
 
 <div class="post" data-post-id="11294" data-author="Autolycos" data-date="2006-03-15T12:46:31+00:00" data-subject="">
 
-cackle  :twisted:
+cackle <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -104,7 +104,7 @@ cackle  :twisted:
 
 Sorry to make a post actually on the topic...
 
-I am not one to bash people over the head and tell them to vote, but its far easier now, now that "type in random characters" rubbish is gone. I am pleased :)
+I am not one to bash people over the head and tell them to vote, but its far easier now, now that "type in random characters" rubbish is gone. I am pleased <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 There is no reward for voting, but hey if more people join, it gives you a chance to call someone else a noob. From my observation this is a vital element of the game. I don't think a lot of avatars would play without it.
 

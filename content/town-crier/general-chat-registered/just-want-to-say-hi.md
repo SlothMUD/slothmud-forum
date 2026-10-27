@@ -14,6 +14,6 @@ post_count: 1
 
 Hey Mud, glad you still alive. Luck in your travels my friends. +)
 
-P.S. That all!  :twisted:
+P.S. That all! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

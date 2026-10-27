@@ -12,13 +12,13 @@ post_count: 8
 
 <div class="post" data-post-id="7849" data-author="Leaf" data-date="2005-07-12T12:16:01+00:00" data-subject="Who Plays GUILD WARS!!!">
 
-Anyone?  If do, whats ur Char Name?
+Anyone? If do, whats ur Char Name?
 
 </div>
 
 <div class="post" data-post-id="7854" data-author="Ironwolf" data-date="2005-07-12T14:55:47+00:00" data-subject="">
 
-i do my char name is lord Ironwolf don't play much due to pc problems but once i get my new ram  im gonna start playing again :)
+i do my char name is lord Ironwolf don't play much due to pc problems but once i get my new ram im gonna start playing again <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -32,7 +32,7 @@ so do both of you!
 
 <div class="post" data-post-id="7858" data-author="Ironwolf" data-date="2005-07-12T16:01:36+00:00" data-subject="">
 
-sure sure doug have u played it i guess not  :)
+sure sure doug have u played it i guess not <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -50,28 +50,29 @@ he can play WoW but for me i rather keep my 10 bucks
 
 <div class="post" data-post-id="7882" data-author="firebrand" data-date="2005-07-14T02:27:28+00:00" data-subject="">
 
-take your fucking advertising to icq or emails, will.  totally uncool and really insulting to post that shit on a SLOTH board.
+take your fucking advertising to icq or emails, will. totally uncool and really insulting to post that shit on a SLOTH board.
 
 </div>
 
 <div class="post" data-post-id="7886" data-author="Leaf" data-date="2005-07-14T11:27:20+00:00" data-subject="">
 
-take your fucking advertising to icq or emails, will.  totally uncool and really insulting to post that shit on a SLOTH board.[/quote:fcw7ev9h]
+> <strong>firebrand wrote:</strong>
+> take your fucking advertising to icq or emails, will. totally uncool and really insulting to post that shit on a SLOTH board.
 
-Who said I was advertising this Reb???  I've asked who played Diablo LOD
+Who said I was advertising this Reb??? I've asked who played Diablo LOD
 
 (in the past) so I and others can play a game with friends (friendly faces).
 
-Now if I said [b:fcw7ev9h]"OOO MY GOD GUILD WARS IS THE BEST & EVERYONE
+Now if I said <strong>"OOO MY GOD GUILD WARS IS THE BEST \& EVERYONE</strong>
 
-SHOULD QUIT SLOTH & PLAY A REAL GRAPHIC RPG GAME!!!"  [/b:fcw7ev9h]
+<strong>SHOULD QUIT SLOTH \& PLAY A REAL GRAPHIC RPG GAME!!!"</strong> 
 
-Then MAYBE I c ur point.  Ppl have posted about WoW (World of Warcraft)
+Then MAYBE I c ur point. Ppl have posted about WoW (World of Warcraft)
 
-too.  The point is, I wanted to play another game with ppl that I might know
+too. The point is, I wanted to play another game with ppl that I might know
 
-on SLOTH.  
+on SLOTH. 
 
-[b:fcw7ev9h]RELAX REB![/b:fcw7ev9h][/size:fcw7ev9h]
+<strong>RELAX REB!</strong>
 
 </div>

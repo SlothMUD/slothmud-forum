@@ -16,11 +16,11 @@ A month or two .. or three .. ago imms asked us for suggestions
 
 to update drachma shops.
 
-As i see no new elite items were added   :cry: 
+As i see no new elite items were added <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> 
 
 I badly need some ac items like -1.4 any helm or -0.6 any wrist and i strongly
 
-suggest to add them to drachma shops asap :P 
+suggest to add them to drachma shops asap <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom"> 
 
 Just kidding of course, but still curious when we can see new elite items ...
 

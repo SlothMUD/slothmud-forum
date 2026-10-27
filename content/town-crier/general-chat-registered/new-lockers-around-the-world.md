@@ -14,9 +14,9 @@ post_count: 13
 
 It appears many merchants have taken the idea of lockers from Valkyre and have gone across the world to share in the technology... and to make a killing.
 
-There will be one room on each continent, does not mean it is in town, that will have a sign in the description of the room.  There is only one new room in Sloth that has been created for these lockers, the rest were rooms already in Sloth.
+There will be one room on each continent, does not mean it is in town, that will have a sign in the description of the room. There is only one new room in Sloth that has been created for these lockers, the rest were rooms already in Sloth.
 
-To find the lockers, "look sign" will probably be your best bet at finding the rooms.  They shouldn't be too hard to search out.
+To find the lockers, "look sign" will probably be your best bet at finding the rooms. They shouldn't be too hard to search out.
 
 Hopefully this helps out when immortals can not make vaults right away for the players.
 
@@ -36,7 +36,7 @@ Thanks - regardless of the reason, this is a great idea for players who have gra
 
 It's not exactly like Valk lockers though, I forgot to mention that.
 
--Tox
+\-Tox
 
 </div>
 
@@ -46,19 +46,19 @@ The Bar
 
  A single slab of thick marble runs the length of the bar, with chunks
 
-broken out of the near edge.  A mirror sits behind many different glass
+broken out of the near edge. A mirror sits behind many different glass
 
-bottles.  Stools are lined up in front of the slab, and a rather tarnished
+bottles. Stools are lined up in front of the slab, and a rather tarnished
 
-brass rail runs across the floor.  [b:1vtncjom]A brand new sign has been placed on the
+brass rail runs across the floor. <strong>A brand new sign has been placed on the</strong>
 
-wall behind the bar.[/b:1vtncjom]
+<strong>wall behind the bar.</strong>
 
-Exits: West  
+Exits: West 
 
 The bartender polishes a mug with a stained rag.
 
-You may purchase a locker at the cost of [b:1vtncjom]10,000,000 gold[/b:1vtncjom].
+You may purchase a locker at the cost of <strong>10,000,000 gold</strong>.
 
 The locker will be capable of holding up to 20 items.
 
@@ -70,23 +70,23 @@ To deposit a item within your locker type deposit item.
 
 To remove an item from your locker type withdraw slot number.
 
-You are in Troglodytes.  
+You are in Troglodytes. 
 
 Location - The Bar
 
-> **Quote:**
+> <strong>Quote:</strong>
 
 </div>
 
 <div class="post" data-post-id="28373" data-author="Yasik2" data-date="2009-03-03T16:08:03+00:00" data-subject="">
 
-To buy a space within the [b:2num1pnt]vault[/b:2num1pnt] [u:2num1pnt]please[/u:2num1pnt] type "buy locker".
+To buy a space within the <strong>vault</strong> please type "buy locker".
 
 To see what is stored inside your locker type "list".
 
-To deposit a item within your locker type "deposit <item>".
+To deposit a item within your locker type "deposit \<item\>".
 
-To remove an item from your locker type "withdraw <slot_number>". 
+To remove an item from your locker type "withdraw \<slot\_number\>". 
 
 fixed
 
@@ -106,11 +106,12 @@ Tox, are these 'budget-vaults' upgradable later to personal vaults (presumably w
 
 <div class="post" data-post-id="28378" data-author="Yasik2" data-date="2009-03-03T19:44:52+00:00" data-subject="">
 
-Tox, are these 'budget-vaults' upgradable later to personal vaults (presumably would give 7.5mil towards a personal vault)[/quote:2gbs7l0r]
+> <strong>Weasel wrote:</strong>
+> Tox, are these 'budget-vaults' upgradable later to personal vaults (presumably would give 7.5mil towards a personal vault)
 
 If this off-VK lockers work the same as VK-ones then i guess the answer is "no".
 
-At least not for sorry 5M - move a room, eq in it, add room_desc, create a key and restring it... Definitely not for 5M.
+At least not for sorry 5M - move a room, eq in it, add room\_desc, create a key and restring it... Definitely not for 5M.
 
 </div>
 
@@ -122,15 +123,15 @@ From Entrance (Homing Scroll) - sw
 
 House of Locks
 
-   The room is filled with locks and chains of many varieties.  The
+ The room is filled with locks and chains of many varieties. The
 
 locksmith has fallen on hard times, so has began selling lockers out to
 
-those who need them.  A wall lining the back wall houses hundreds of large,
+those who need them. A wall lining the back wall houses hundreds of large,
 
-metal boxes, each with a giant lock on its front.  An open doorway leads
+metal boxes, each with a giant lock on its front. An open doorway leads
 
-east out into the street.  A large sign has been placed on the wall behind
+east out into the street. A large sign has been placed on the wall behind
 
 the counter.
 
@@ -166,19 +167,19 @@ In Settlestone Citadel
 
 Raldor Firerock's Tower
 
-   This is the room of the head dwarven merchant, Raldor Firerock.  As the
+ This is the room of the head dwarven merchant, Raldor Firerock. As the
 
 leading economic advisor to King Granitecrusher he has been given the
 
-entire southeastern tower.  His room is cluttered with various boxes and
+entire southeastern tower. His room is cluttered with various boxes and
 
-crates.  On a desk in the corner you can see notes about various cities and
+crates. On a desk in the corner you can see notes about various cities and
 
 the kinds of items the dwarves export to them and import from them.
 
 Judging from his notations, it's apparent he is working hard to keep
 
-Settlestone wealthy.  A sign has been placed on the front of his desk.
+Settlestone wealthy. A sign has been placed on the front of his desk.
 
 You may purchase a locker at the cost of 10,000,000 gold.
 
@@ -204,11 +205,11 @@ Aisholm Town
 
 Entrance to the Tower
 
-   The room looks like it has been built from a single rock.  The walls
+ The room looks like it has been built from a single rock. The walls
 
 have a flowing quality, as if the rock has not been carved but molded.
 
-Boxes and crates are stacked everywhere, leaving very little space between the door and the stairs.  A sign has been set into the stone wall.
+Boxes and crates are stacked everywhere, leaving very little space between the door and the stairs. A sign has been set into the stone wall.
 
 You may purchase a locker at the cost of 10,000,000 gold.
 
@@ -226,9 +227,12 @@ To remove an item from your locker type withdraw slot number.
 
 <div class="post" data-post-id="28414" data-author="*juggleblood*" data-date="2009-03-06T12:59:00+00:00" data-subject="">
 
-From memory, a single vault (or home) is 15mil coins now, so this setup is still pretty good value imho; a 33% discount for not having a personalized room, yet still performing the same basic function.
-
-Tox, are these 'budget-vaults' upgradable later to personal vaults (presumably would give 7.5mil towards a personal vault), once coders are able to start coding them again more readily? Or these are permanent and non-deletable?[/quote:2rbbsyud]
+> <strong>Weasel wrote:</strong>
+> From memory, a single vault (or home) is 15mil coins now, so this setup is still pretty good value imho; a 33% discount for not having a personalized room, yet still performing the same basic function.
+> 
+> 
+> 
+> Tox, are these 'budget-vaults' upgradable later to personal vaults (presumably would give 7.5mil towards a personal vault), once coders are able to start coding them again more readily? Or these are permanent and non-deletable?
 
 A basic dwelling is 10 mil. Lockers and dwellings are not upgradeable. Smallest upgradeable unit is house I believe, which is 15 mil.
 

@@ -22,6 +22,6 @@ sorry
 
 <div class="post" data-post-id="29111" data-author="jezer" data-date="2009-05-08T01:15:46+00:00" data-subject="">
 
-In light of this info, I'm going to have to postpone my Lucifer ferret group. Sorry guys.  :evil:
+In light of this info, I'm going to have to postpone my Lucifer ferret group. Sorry guys. <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>

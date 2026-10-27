@@ -16,8 +16,6 @@ Greeting mortals.
 
 - Fixed a bad bug in shapeshift that, under some circumstances, ended you shifted into a monster template.
 
-    
-
 Thanks Ramza for reporting.
 
 Changes will be available on crash/reboot (after someone recompiles the code).

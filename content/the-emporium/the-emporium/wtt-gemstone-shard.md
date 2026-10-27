@@ -26,11 +26,11 @@ dream on
 
 <div class="post" data-post-id="11079" data-author="Leaf" data-date="2006-03-07T04:08:23+00:00" data-subject="">
 
-*cough*
+\*cough\*
 
 Reason why Krok said dream on, is because heal shard has 3x chance to
 
-be forged then spell shard.  Because of this ppl won't trade their spell one.
+be forged then spell shard. Because of this ppl won't trade their spell one.
 
 </div>
 
@@ -48,7 +48,7 @@ How about just selling it?
 
 <div class="post" data-post-id="11082" data-author="Crush" data-date="2006-03-07T11:00:29+00:00" data-subject="">
 
-btw, I'm looking for woolen aasan to have one to forge my own heal shard 8*)
+btw, I'm looking for woolen aasan to have one to forge my own heal shard 8\*)
 
 Maybe someone have it for sell?
 
@@ -56,11 +56,12 @@ Maybe someone have it for sell?
 
 <div class="post" data-post-id="11083" data-author="Vixn" data-date="2006-03-07T11:58:55+00:00" data-subject="">
 
-*cough*
-
-Reason why Krok said dream on, is because heal shard has 3x chance to
-
-be forged then spell shard.  Because of this ppl won't trade their spell one.[/quote:15hihhhn]
+> <strong>Leaf wrote:</strong>
+> \*cough\*
+> 
+> Reason why Krok said dream on, is because heal shard has 3x chance to
+> 
+> be forged then spell shard. Because of this ppl won't trade their spell one.
 
 Actually, I didn't know it. But sure, spelldam shards should be more wanted, so I didn't expect crowd of ppl trying to trade their shards for this heal one.
 
@@ -68,13 +69,13 @@ I wonâ€™t sell it cause it took soooo much time to pop all this cpsâ€¦ 
 
 Iâ€™m looking for:
 
-purple leaf, greenish bark, white feather, some oly shield cps, some desert cps, monkey fist, mantra from tiger scholar.. or .. woolen aasan, pinch of marjoram, stick of  incense from irda
+purple leaf, greenish bark, white feather, some oly shield cps, some desert cps, monkey fist, mantra from tiger scholar.. or .. woolen aasan, pinch of marjoram, stick of incense from irda
 
 </div>
 
 <div class="post" data-post-id="11084" data-author="Blastem" data-date="2006-03-07T13:50:29+00:00" data-subject="">
 
-For awhile I was trying to trade 2xHB for a SB shard   :?  with no takers. Have fun :)
+For awhile I was trying to trade 2xHB for a SB shard <img src="/images/smilies/icon_e_confused.svg" alt=":?" title=":?" width="15" height="15" class="smiley nozoom"> with no takers. Have fun <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Blastem
 
@@ -82,7 +83,8 @@ Blastem
 
 <div class="post" data-post-id="11085" data-author="Falsra" data-date="2006-03-07T16:58:56+00:00" data-subject="">
 
-[quote:3kyjnk1p]because heal shard has 3x chance to be forged then spell shard. [/quote:3kyjnk1p]
+> <strong>Quote:</strong>
+> because heal shard has 3x chance to be forged then spell shard.
 
 i believe if you forge 9 shards in row you will get either
 
@@ -92,11 +94,11 @@ i believe if you forge 9 shards in row you will get either
 
 <div class="post" data-post-id="11087" data-author="Leaf" data-date="2006-03-07T18:12:22+00:00" data-subject="">
 
-[quote:3pukojej]
-
-i believe if you forge 9 shards in row you will get either
-
-9 sb shards or 9 hb shards , but not 3 sb shards and 6 hb shards.[/quote:3pukojej][/quote:3pukojej]
+> <strong>Falsra wrote:</strong>
+> > <strong>Quote:</strong>
+> > i believe if you forge 9 shards in row you will get either
+> > 
+> > 9 sb shards or 9 hb shards , but not 3 sb shards and 6 hb shards.
 
 So ur saying its a timing issue huh, i thought it was random.
 
@@ -104,9 +106,10 @@ So ur saying its a timing issue huh, i thought it was random.
 
 <div class="post" data-post-id="11088" data-author="Autolycos" data-date="2006-03-07T18:45:22+00:00" data-subject="">
 
-I'm a little cheeky monkey that loves to hear myself talk,  dum diddy dum dee dee doo.[/quote:1xep4dpl]
+> <strong>Leaf wrote:</strong>
+> I'm a little cheeky monkey that loves to hear myself talk, dum diddy dum dee dee doo.
 
-hmm... i can say that i'm personally not surprised.. :twisted:
+hmm... i can say that i'm personally not surprised.. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -116,19 +119,19 @@ HAHAHAHAHA
 
 Good one, good one!
 
-Now go [b:2ss3ueo7]STFU[/b:2ss3ueo7][/size:2ss3ueo7]
+Now go <strong>STFU</strong>
 
 </div>
 
 <div class="post" data-post-id="11090" data-author="Autolycos" data-date="2006-03-07T21:00:10+00:00" data-subject="">
 
-:twisted:
+<img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="11093" data-author="Avatar" data-date="2006-03-08T13:44:35+00:00" data-subject="random chatter">
 
-Dammit Auto, they made a thread specifically for you!  What's these comments doing here?!
+Dammit Auto, they made a thread specifically for you! What's these comments doing here?!
 
 Charles
 
@@ -142,9 +145,9 @@ stfu charles... Will had it coming.. his forehead has victim and target written 
 
 <div class="post" data-post-id="11578" data-author="Vixn" data-date="2006-03-20T20:36:07+00:00" data-subject="">
 
-I had no luck with shard so I'm gonna buy/trade it. There is list of some items/cps I can offer for simple  spell_bonus grey gemstone shard.
+I had no luck with shard so I'm gonna buy/trade it. There is list of some items/cps I can offer for simple spell\_bonus grey gemstone shard.
 
-[2] x heal_bonus gemstone shard
+[2] x heal\_bonus gemstone shard
 
 crystal teardrop
 
@@ -172,7 +175,7 @@ set of blacksmith's tongs
 
 metalworker's hammer (temp)
 
-bottle of myrtle & rose
+bottle of myrtle \& rose
 
 nymph cloak
 
@@ -210,7 +213,7 @@ Or I can just buy it from you for the price u call.
 
 Hm, my list of cp is very impressive, isn't it? 
 
-But I can also offer some gold for spell bonus shard.  
+But I can also offer some gold for spell bonus shard. 
 
 20 mln coins - is it good price?
 
@@ -230,13 +233,12 @@ you can't buy what isn't for sale. maybe if you had some quest eq to trade?
 
 <div class="post" data-post-id="11659" data-author="brand" data-date="2006-03-21T21:37:47+00:00" data-subject="">
 
-[2] x heal_bonus gemstone shard
-
-[/quote:5z9ptz05]
+> <strong>Vixn wrote:</strong>
+> [2] x heal\_bonus gemstone shard
 
 would you sell me just one of those heal shards?
 
-brand :?:
+brand <img src="/images/smilies/icon_question.svg" alt=":?:" title=":?:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -244,7 +246,7 @@ brand :?:
 
 You feel informed:
 
-Object 'ring dark light quest medium given_out', Item type: ARMOR
+Object 'ring dark light quest medium given\_out', Item type: ARMOR
 
 Item is: GLOW 
 
@@ -254,9 +256,9 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: SPELL_BONUS by 15
+ Affects: SPELL\_BONUS by 15
 
-    Affects: MANA by 15
+ Affects: MANA by 15
 
 Only those who are at least experienced magic users, clerics, druids, or 
 
@@ -268,13 +270,13 @@ I have this ring for trade. Does it make sense?
 
 <div class="post" data-post-id="11705" data-author="Vixn" data-date="2006-03-22T18:57:02+00:00" data-subject="">
 
-hm, I offer ring of dark light + crystal teardrop + feathered cincture + 10 mln coins for one little spell_dam gemstone shard. So?
+hm, I offer ring of dark light + crystal teardrop + feathered cincture + 10 mln coins for one little spell\_dam gemstone shard. So?
 
 </div>
 
 <div class="post" data-post-id="11734" data-author="Ditheca" data-date="2006-03-23T06:05:07+00:00" data-subject="">
 
-Wow thats a lot of stuffs :)  Maybe enough to make me have a try at the forge myself.
+Wow thats a lot of stuffs <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> Maybe enough to make me have a try at the forge myself.
 
 I need a +healbonus shard myself, so I win either way.
 

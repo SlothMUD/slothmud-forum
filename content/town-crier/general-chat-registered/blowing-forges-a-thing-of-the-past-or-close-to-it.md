@@ -14,31 +14,31 @@ post_count: 16
 
 Breeze posted his change log but I am announcing the changes a second time:
 
- * Forges
+ \* Forges
 
-    * Blown forges no longer take all your items.
+ \* Blown forges no longer take all your items.
 
-      That is, the code will decide which item(s) to keep and which to give back.
+ That is, the code will decide which item(s) to keep and which to give back.
 
-      At the moment, it is set to 1 item, but we reserve the right to change that at any time.
+ At the moment, it is set to 1 item, but we reserve the right to change that at any time.
 
-      To head off rumors, Item value/stats/etc has nothing to do with which item is chosen.
+ To head off rumors, Item value/stats/etc has nothing to do with which item is chosen.
 
-      It is purely a random chance.
+ It is purely a random chance.
 
-      NOTE ::
+ NOTE ::
 
-          THIS OPTION MUST BE ENABLED BY THE IMMORTAL WHO CREATED THE FORGE OR A 45+.
+ THIS OPTION MUST BE ENABLED BY THE IMMORTAL WHO CREATED THE FORGE OR A 45+.
 
-          I plan on asking Juggleblood to look at the forges and decide if any of the current
+ I plan on asking Juggleblood to look at the forges and decide if any of the current
 
-          forges need the feature enabled, but I do not promise that it will be turned on, on any
+ forges need the feature enabled, but I do not promise that it will be turned on, on any
 
-          particular forge, and please don't nag the immortals about adding it to your favorite forge.
+ particular forge, and please don't nag the immortals about adding it to your favorite forge.
 
-          This feature was added in because we love you ;)
+ This feature was added in because we love you <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
-          Changes in whenever code is moved over, recompiled and mud is rebooted.
+ Changes in whenever code is moved over, recompiled and mud is rebooted.
 
 Feel free to email me a list of forges which some of you feel should have the new settings. This is an enormous change and we really hope you guys appreciate it. None of us want out time, energy, and sacrifices to be ruined in a second or two, hopefully this is a great way to meet both sides somewhere in the middle... Losing one cp, compared to ALL of them should be something you guys greatly appreciate and hopefully will show you guys how much we listen and understand everyone's concerns...
 
@@ -58,17 +58,17 @@ seems like noone wants any forges changed. pity.
 
 <div class="post" data-post-id="33276" data-author="Stark" data-date="2012-04-19T14:13:49+00:00" data-subject="Re: Blowing forges a thing of the past?( or close to it :)">
 
-This change should be applied to whichever forge I'm planning on doing next.  And I'll only tell you which forge that is just before I'm about to forge it.   :lol: 
+This change should be applied to whichever forge I'm planning on doing next. And I'll only tell you which forge that is just before I'm about to forge it. <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> 
 
-In all seriousness, I would support putting this on every forge with the exception of forges like the Midnight Sapphire.  Lower level forges can be hard and frustrating to forge for lower level players, but if the idea is to only apply this to higher level forges, then just go to eqlist and type "forge" and apply it to all forges that require more than X amount of gold or something.
+In all seriousness, I would support putting this on every forge with the exception of forges like the Midnight Sapphire. Lower level forges can be hard and frustrating to forge for lower level players, but if the idea is to only apply this to higher level forges, then just go to eqlist and type "forge" and apply it to all forges that require more than X amount of gold or something.
 
-edit: Thanks to Breeze and Juggleblood for doing this and opening it to discussion.  :)
+edit: Thanks to Breeze and Juggleblood for doing this and opening it to discussion. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="33277" data-author="Nyx" data-date="2012-04-19T16:11:24+00:00" data-subject="Re: Blowing forges a thing of the past?( or close to it :)">
 
-Thanks for making this change guys :)
+Thanks for making this change guys <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 One I'd suggest are the CG clasp forges. I know there are some very rich tards around but most of us are balancing work/family and blowing 8million in an instant really sucks.
 
@@ -80,31 +80,29 @@ But I like stark's idea too.
 
 I agree with the clasp forges. I actually came here to post that just got here a little late obviously. I just blew the tincture forge/brew the other day. The cps for these are temporary and to be honest pretty plentiful but would there be a chance of only a percentage of the 8 mil cost being lost?
 
-  Maybe you pay 2 mil to start the forge and 6 mil to pick it up, if it blows you only loose the 2 mil. Just a thought.
+ Maybe you pay 2 mil to start the forge and 6 mil to pick it up, if it blows you only loose the 2 mil. Just a thought.
 
- 
-
-  Thanks in advance this is a great change.
+ Thanks in advance this is a great change.
 
 </div>
 
 <div class="post" data-post-id="33280" data-author="Cizin" data-date="2012-04-22T07:48:14+00:00" data-subject="Re: Blowing forges a thing of the past?( or close to it :)">
 
-1. demonskin boots
+1\. demonskin boots
 
-2. adamantite greatshield
+2\. adamantite greatshield
 
-3. Sleeves of the Laughing Rogue
+3\. Sleeves of the Laughing Rogue
 
 </div>
 
 <div class="post" data-post-id="33281" data-author="Ezekiel" data-date="2012-04-23T21:12:50+00:00" data-subject="Re: Blowing forges a thing of the past?( or close to it :)">
 
-1. Crown of Mithril Bound Crystal Forge
+1\. Crown of Mithril Bound Crystal Forge
 
-2. Shirt of Mithril Rings Forge
+2\. Shirt of Mithril Rings Forge
 
-3. all the ones Cizin listed
+3\. all the ones Cizin listed
 
 </div>
 
@@ -146,27 +144,27 @@ any one of you actually email splork with their lists (as he requested)? just cu
 
 <div class="post" data-post-id="33284" data-author="Bettina" data-date="2012-04-27T03:09:45+00:00" data-subject="Re: Blowing forges a thing of the past?( or close to it :)">
 
-:) I emailed Splork on April 18th with a list.  I like the suggestions people have posted as candidates for the new setting.  Also like Starks idea..
+<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> I emailed Splork on April 18th with a list. I like the suggestions people have posted as candidates for the new setting. Also like Starks idea..
 
 The list I emailed had these suggestions:
 
-1. Carborundum Greaves
+1\. Carborundum Greaves
 
-2. Guards of the Maul Titans
+2\. Guards of the Maul Titans
 
-3. a bone hilted tempered sword
+3\. a bone hilted tempered sword
 
-4. ring of flaming serpents
+4\. ring of flaming serpents
 
-5. a set of infernite gauntlets
+5\. a set of infernite gauntlets
 
-6. a set of moonstone claws of midnight
+6\. a set of moonstone claws of midnight
 
-7. Black Kris of Power
+7\. Black Kris of Power
 
-8. Sleeves of the Obsidian Knight
+8\. Sleeves of the Obsidian Knight
 
-9. tassle of the guardian
+9\. tassle of the guardian
 
 </div>
 
@@ -198,7 +196,7 @@ originally i had different messages for different things, but i ended up removin
 
 with the words forge/enchant/trade being interchangeable. the will attempt is a range from 1% to 99% fail chance.
 
-well done :)
+well done <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 // Breeze
 
@@ -216,7 +214,7 @@ thanks imms
 
 <div class="post" data-post-id="33290" data-author="Stark" data-date="2012-04-30T05:14:46+00:00" data-subject="Re: Blowing forges a thing of the past?( or close to it :)">
 
-I really would like some sort of criteria for qualifying forges that is then applied across the board.  Just cherry picking out a few forges that people can think of doesn't seem like the right way to go about it.
+I really would like some sort of criteria for qualifying forges that is then applied across the board. Just cherry picking out a few forges that people can think of doesn't seem like the right way to go about it.
 
 </div>
 

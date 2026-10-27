@@ -20,7 +20,7 @@ Thanks in advice.
 
 P.S. I have realistic view on it, but who knowsâ€¦ maybe you will not chop something from the game, but add something for us, mortal players.
 
-P.P.S. MOTD stands for Message of the day :P
+P.P.S. MOTD stands for Message of the day <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 pic unrelated
 
@@ -32,15 +32,15 @@ pic unrelated
 
 Some players requested for more info on subject, so here you go.
 
-CLAN>.ME.......... - it helps guildmaster to communicate with guild
+CLAN\>.ME.......... - it helps guildmaster to communicate with guild
 
-CLAN>.ME.......... - so everyone will see it on logging
+CLAN\>.ME.......... - so everyone will see it on logging
 
-CLAN>.ME.......... - e.g. i set it to 'please donate to clan vault with 'clan deposit 500000' command' :)
+CLAN\>.ME.......... - e.g. i set it to 'please donate to clan vault with 'clan deposit 500000' command' <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-CLAN>.ME.......... - and you see it when loggin to the game
+CLAN\>.ME.......... - and you see it when loggin to the game
 
-CLAN>.XXX...... - ohhh I get it now
+CLAN\>.XXX...... - ohhh I get it now
 
 </div>
 
@@ -48,7 +48,7 @@ CLAN>.XXX...... - ohhh I get it now
 
 This seems like a nice feature. Not sure how much effort it would take, but if matters at all, I am for it.
 
--Greedo (XXX)
+\-Greedo (XXX)
 
 </div>
 

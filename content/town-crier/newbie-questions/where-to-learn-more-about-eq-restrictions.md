@@ -28,29 +28,25 @@ help restrictions
 
 EQUIPMENT
 
-Levels      Abbreviation
+Levels Abbreviation
 
-1-5             N 
+1-5 N 
 
-6-13           AP
+6-13 AP
 
-14-20          Ad
+14-20 Ad
 
-21-30          E
+21-30 E
 
-31-39          M
+31-39 M
 
-40             S
-
- 
+40 S
 
 If a "P" appears before the restriction it means
 
 that the item in question is usable only by people
 
 have the indicated class as their primary.
-
- 
 
 Restriction Type Abbreviation Explanation 
 
@@ -62,8 +58,6 @@ Least/And
 
 listed in all listed classes.
 
- 
-
 Least/Or
 
  LOr
@@ -71,8 +65,6 @@ Least/Or
  To use this item you must have levels at least equal to those 
 
 listed in any listed classes.
-
- 
 
 Most/And
 
@@ -82,8 +74,6 @@ Most/And
 
 listed in all listed classes.
 
- 
-
 Most/Or
 
  MOr
@@ -92,8 +82,6 @@ Most/Or
 
 listed in all listed classes.
 
- 
-
-You can also find this at the bottom left side of the eq  page.
+You can also find this at the bottom left side of the eq page.
 
 </div>

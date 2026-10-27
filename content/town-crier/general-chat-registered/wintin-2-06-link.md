@@ -26,7 +26,7 @@ I'm having issues too. I can't reconnect.
 
 what's up with requiring an old out of date .net framework for this wintin.net
 
-can it not be configured to run with the updated versions?  I was gonna switch over but at this point, fuck it.  I'm not reinstalling old software.
+can it not be configured to run with the updated versions? I was gonna switch over but at this point, fuck it. I'm not reinstalling old software.
 
 </div>
 
@@ -34,7 +34,7 @@ can it not be configured to run with the updated versions?  I was gonna switch o
 
 and it's a 100meg download?
 
-I can't even get to the blueyonder rasbora page for old w95 anymore.   sigh.
+I can't even get to the blueyonder rasbora page for old w95 anymore. sigh.
 
 </div>
 
@@ -48,11 +48,11 @@ I installed 2 different framework things and this shit still doesn't work.
 
 <div class="post" data-post-id="17275" data-author="Weasel" data-date="2007-03-13T00:25:20+00:00" data-subject="">
 
-100MB d/l :shock: ..hope you're talking about the framework and not wintin heh.. strange tho - updated .net framework should be fully compatible with software based on older .net releases I would've thought.. 
+100MB d/l <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> ..hope you're talking about the framework and not wintin heh.. strange tho - updated .net framework should be fully compatible with software based on older .net releases I would've thought.. 
 
 Give MUSHclient a go if you have no joy with Wintin. 
 
-[url:1ykm3avq]http://www.gammon.com.au/downloads/dlmushclient.htm[/url:1ykm3avq]
+http://www.gammon.com.au/downloads/dlmushclient.htm
 
 </div>
 

@@ -28,7 +28,7 @@ oh gawd, another one?
 
 <div class="post" data-post-id="21884" data-author="Akasha" data-date="2008-01-06T20:33:09+00:00" data-subject="">
 
-if you find some unusual disease, please report it, via email or post on crier.  Include the area and room if possible where you first noticed it.  If you are doing multiple areas, please let me know at least the last couple of areas you have ventured through so I can track it down.
+if you find some unusual disease, please report it, via email or post on crier. Include the area and room if possible where you first noticed it. If you are doing multiple areas, please let me know at least the last couple of areas you have ventured through so I can track it down.
 
 Akasha
 
@@ -36,7 +36,7 @@ Akasha
 
 <div class="post" data-post-id="21885" data-author="Weasel" data-date="2008-01-06T21:04:29+00:00" data-subject="">
 
-Thanks for checking out the other disease I had :)
+Thanks for checking out the other disease I had <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 ..err.. Weasel had.
 

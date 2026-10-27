@@ -12,9 +12,9 @@ post_count: 1
 
 <div class="post" data-post-id="7850" data-author="Yasik" data-date="2005-07-12T13:17:00+00:00" data-subject="Bugz found">
 
-[img:vxwv17nj]http://yasik.mci.kiev.ua/jmc/SBUG_1.jpg[/img:vxwv17nj]
+![](http://yasik.mci.kiev.ua/jmc/SBUG_1.jpg)
 
-[img:vxwv17nj]http://yasik.mci.kiev.ua/jmc/SBUG_2.jpg[/img:vxwv17nj]
+![](http://yasik.mci.kiev.ua/jmc/SBUG_2.jpg)
 
 Thats what it shows me when i shift into something, and @leader is different and looks like random each time, but i never followed these players.
 

@@ -14,7 +14,7 @@ post_count: 1
 
 I think some of this already exists, but the rest may take some work.
 
-I was thinking some additions to the finger command might be useful as far as leader statistics.  Granted most the folks on the mud seem to know who the better leaders are without this info... but hey.
+I was thinking some additions to the finger command might be useful as far as leader statistics. Granted most the folks on the mud seem to know who the better leaders are without this info... but hey.
 
 Thoughts were for the following for the past week (or whatever):
 
@@ -32,8 +32,8 @@ Gold earned by groups led:
 
 Number of PCs deaths in groups led:
 
-For those that know me in-game, this isn't entirely self-gratification... I'm more curious about how that last statistic compares to the prior two.  I frequently hear about groups that seem to CF every other day and I'd like to see how that plays out...
+For those that know me in-game, this isn't entirely self-gratification... I'm more curious about how that last statistic compares to the prior two. I frequently hear about groups that seem to CF every other day and I'd like to see how that plays out...
 
-That and I'd really love to see how high Mike's totals are.  :D
+That and I'd really love to see how high Mike's totals are. <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>

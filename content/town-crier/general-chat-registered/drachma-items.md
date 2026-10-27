@@ -12,9 +12,9 @@ post_count: 5
 
 <div class="post" data-post-id="17201" data-author="Mike" data-date="2007-03-07T17:33:47+00:00" data-subject="Drachma items">
 
-Its been almoust a month since i got enough drachma for second spelldam ring, but there is no ring in High Priest shop. I`m checking it every reboot/crush, mabbe i`m missing some but still... 
+Its been almoust a month since i got enough drachma for second spelldam ring, but there is no ring in High Priest shop. I\`m checking it every reboot/crush, mabbe i\`m missing some but still... 
 
-I'm wondering why do shops work like that, some items are permanently there, some are not. Is it some kind of anticheat system? If it is, than make all drachma items and books load in shops randomly. But imho its like come to scribe and get no recall scroll because its just a bad reboot.  :twisted: 
+I'm wondering why do shops work like that, some items are permanently there, some are not. Is it some kind of anticheat system? If it is, than make all drachma items and books load in shops randomly. But imho its like come to scribe and get no recall scroll because its just a bad reboot. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 Its hard to earn 750 drachma after you spent 1000+. You working hard to buy an item and then you discover that item you need not there. 
 
@@ -26,7 +26,7 @@ Mike
 
 <div class="post" data-post-id="17202" data-author="Autolycos" data-date="2007-03-07T18:06:05+00:00" data-subject="">
 
-thats just the way it is.  I had to wait near a month for my spelldam ring to load in shop.  it makes you appreciate it more when you get it.  drachma is not hard to get, good eq to invest in is.
+thats just the way it is. I had to wait near a month for my spelldam ring to load in shop. it makes you appreciate it more when you get it. drachma is not hard to get, good eq to invest in is.
 
 besides if all the items loaded 100% of the time.. where would the excitement be?
 
@@ -38,7 +38,7 @@ Dear imms,
 
 Please waste a minute thinking about this new idea of no recall in scribe shop. I personally think it's fine.
 
-:twisted:
+<img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

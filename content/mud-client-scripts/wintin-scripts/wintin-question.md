@@ -14,7 +14,7 @@ post_count: 4
 
 I'm running wintin.net first off.
 
-I'm using a couple of the scripts Ive found on here, Splork's whiner and a sanctuary one, and have a BIG problem.  Everytime anything updates, I get spammed with a whole list of variables being set.  
+I'm using a couple of the scripts Ive found on here, Splork's whiner and a sanctuary one, and have a BIG problem. Everytime anything updates, I get spammed with a whole list of variables being set. 
 
 Is there some way to fix this so I dont get all those reports everytime something changes?
 
@@ -42,7 +42,7 @@ Banedon
 
 <div class="post" data-post-id="16094" data-author="firebrand" data-date="2007-01-08T15:25:30+00:00" data-subject="">
 
-or from wintin.net menu bar: file-->options-->command handling-->clear confirm scripted commands box
+or from wintin.net menu bar: file--\>options--\>command handling--\>clear confirm scripted commands box
 
 rebs
 

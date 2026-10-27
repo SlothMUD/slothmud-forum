@@ -14,19 +14,19 @@ post_count: 1
 
 alias
 
-Pattern: ^bfind((\[(\d+)\])?) (.*)$
+Pattern: ^bfind((\\[(\\d+)\\])?) (.\*)$
 
 Code:
 
 ```
 -- usage:
---   bfind rat
---   bfind[2] rat
---   bdind ^lua
---   bfind[10] quest
+-- bfind rat
+-- bfind[2] rat
+-- bdind ^lua
+-- bfind[10] quest
 
 -- config
-local bfindMark = "bfind"  -- should be same as alias
+local bfindMark = "bfind" -- should be same as alias
 local hist = 7500
 local minL = 0
 
@@ -47,29 +47,29 @@ end
 for i,line in ipairs(data) do
 	local match = string.findPattern(line, pattern)
 	if match then
-		if not string.starts(line, bfindMark) then
-			local hline = string.gsub(line, pattern, "<purple>" .. match .. "<lime_green>")	
-			-- printing lines before match
-			if delta then
- 				for ii=delta,1,-1 do 
-					if (i-ii) >= 1 then
-						cecho(string.format("<black>%s <dark_green>%4d: <lime_green>%s\n", bfindMark, (i-ii), data[i-ii]))
-					end
-				end
-			end
-			-- printing match line
-			cecho(string.format("<black>%s <medium_sea_green>%4d: <lime_green>%s\n", bfindMark, i, hline))
-			-- printing lines after match
-			if delta then
-				for ii=1,delta do 
-					if (i+ii) <= hist then
-						cecho(string.format("<black>%s <dark_green>%4d: <lime_green>%s\n", bfindMark, (i+ii), data[i+ii]))
-					end
-				end
-				-- printing separator
-				cecho(string.format("<black>%s<dark_slate_grey>-----\n", bfindMark))
-			end
-		end
+ if not string.starts(line, bfindMark) then
+ local hline = string.gsub(line, pattern, "<purple>" .. match .. "<lime_green>")	
+ -- printing lines before match
+ if delta then
+ for ii=delta,1,-1 do 
+ if (i-ii) >= 1 then
+ cecho(string.format("<black>%s <dark_green>%4d: <lime_green>%s\n", bfindMark, (i-ii), data[i-ii]))
+ end
+ end
+ end
+ -- printing match line
+ cecho(string.format("<black>%s <medium_sea_green>%4d: <lime_green>%s\n", bfindMark, i, hline))
+ -- printing lines after match
+ if delta then
+ for ii=1,delta do 
+ if (i+ii) <= hist then
+ cecho(string.format("<black>%s <dark_green>%4d: <lime_green>%s\n", bfindMark, (i+ii), data[i+ii]))
+ end
+ end
+ -- printing separator
+ cecho(string.format("<black>%s<dark_slate_grey>-----\n", bfindMark))
+ end
+ end
 	end
 end
 

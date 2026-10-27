@@ -14,13 +14,13 @@ post_count: 2
 
 I have been googling for over 2 day and still haven't found a SINGLE ONE! I really wan't to script in Wintin.Net, but the help documents aren't much help.
 
-        Does anyone no where I can find one or make one for me??
+ Does anyone no where I can find one or make one for me??
 
-        Somethings I need specific help with is how to make a window float (like not have it on the tabs but make it so I can move it around) have more then just one line go into the window (like I type #window {inventory} {You are carrying:} Then when I type inventory on the game, it only shows the first line with You are carrying: and not only that, but it still shows the message on the main window also! So thirdly, how do I make that stop??
+ Somethings I need specific help with is how to make a window float (like not have it on the tabs but make it so I can move it around) have more then just one line go into the window (like I type #window {inventory} {You are carrying:} Then when I type inventory on the game, it only shows the first line with You are carrying: and not only that, but it still shows the message on the main window also! So thirdly, how do I make that stop??
 
-  Help appreciated,
+ Help appreciated,
 
-              Reth
+ Reth
 
 </div>
 

@@ -14,8 +14,6 @@ post_count: 1
 
 New bard spell: Ogham's psalm of discpline.
 
- 
-
 For more information check out the ingame help file...
 
 Enjoy,

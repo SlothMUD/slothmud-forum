@@ -24,10 +24,10 @@ Even as a rebirth, I could still spend at minimum another 5k drachma on new shin
 
 Also some of us are at that stage where we do have surplus runes we don't need, and yet new players simply don't have anything we need in exchange for them. I also note the price of gems is a little more than half what they used to be, which suggests after time the supply is a little higher than the need. I think the price being higher would aid newbie's who win gems in groups who can then level easier from the sale of them.
 
-I've been thinking a T2  rune might be worth about 25 drachma, and a T3 rune 50 drachma. The concept of renewable drachma has always been a discussed issue, and at various stages it's been implemented - there used to be a chance at drachma for killing epics, rebirth, renewable item forges... it's not a new idea, and I think that this idea would be a slower rate of return than all of them, but more importantly... it's earned only with time.
+I've been thinking a T2 rune might be worth about 25 drachma, and a T3 rune 50 drachma. The concept of renewable drachma has always been a discussed issue, and at various stages it's been implemented - there used to be a chance at drachma for killing epics, rebirth, renewable item forges... it's not a new idea, and I think that this idea would be a slower rate of return than all of them, but more importantly... it's earned only with time.
 
 What do you think?
 
-Can we implement this tomorrow?  :|  :twisted:
+Can we implement this tomorrow? <img src="/images/smilies/icon_neutral.svg" alt=":|" title=":|" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

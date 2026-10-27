@@ -16,10 +16,10 @@ Hail,
 
 Here is list what I have and what I need. Contact me directly ingame with offers or request. Do not spam in this topic please. Items appears in list only once, so I may have 2 or 3 of it â€“ just ask. Thanks in advance.
 
-- **Runes for trade/sale:**
+- <strong>Runes for trade/sale:</strong>
 - Rhodochrosite, Azurite, Zircon, Quartz, Moss Agate, Dark-Green Spinel, Alexandrite Rune, Rose Quartz, banded agate, Brown-Red Spinel, Carnelian, Red Spinel, Bloodstone, Chalcedony, many others...
 
-- **Gems for trade/sale:**
+- <strong>Gems for trade/sale:</strong>
 - a Moss Agate
 - a Citrine
 - a Orange Zircon
@@ -49,7 +49,7 @@ Here is list what I have and what I need. Contact me directly ingame with offers
 - a Bloodstone
 - a Banded Agate
 
-- **Items for trade/sale:**
+- <strong>Items for trade/sale:</strong>
 - Aura of midnight
 - Moist vapour bracelet
 - Demonskins Boots
@@ -71,21 +71,21 @@ Here is list what I have and what I need. Contact me directly ingame with offers
 
 etc
 
-- **List of items that I need:**
+- <strong>List of items that I need:</strong>
 - Tanzanite cps.
 - Interfnites cps
 - Scarab cps.
 - Ruyi cps.
 - Swirling ball of fire (from lucifer)
 
-- **List of gems/runes that I need:**
+- <strong>List of gems/runes that I need:</strong>
 - Star Ruby
 - Ruby
 - Sapphire
 - Tourmaline
 - Jet
 - Black Onyx
-- +dam, +hit, +sysshock runes/gems
+- \+dam, +hit, +sysshock runes/gems
 - Etc.. (contact me in game)
 
 Thanks for reading all this.

@@ -16,7 +16,7 @@ Heya Peeps,
 
 I'm perma AFK atm. I kinda miss sloth, but I'm scared I'll play it too much again if I start. Might as well keep out, well it's not troubling me. 
 
-I got Ecko to 3x40 and then I just didn't feel like playing anymore :( I just got wraithform 3x40 eq, stats and everything was looking smooth... :| I was even designing what I thought would be a cool area with all sorts of dinosaurs but... :|
+I got Ecko to 3x40 and then I just didn't feel like playing anymore <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom"> I just got wraithform 3x40 eq, stats and everything was looking smooth... <img src="/images/smilies/icon_neutral.svg" alt=":|" title=":|" width="15" height="15" class="smiley nozoom"> I was even designing what I thought would be a cool area with all sorts of dinosaurs but... <img src="/images/smilies/icon_neutral.svg" alt=":|" title=":|" width="15" height="15" class="smiley nozoom">
 
 Maybe I'll come back in the future... who knows... Who was it that said you can quit sloth but never leave?
 
@@ -28,17 +28,17 @@ Jezer/Ecko/Jingjitdisk
 
 <div class="post" data-post-id="14046" data-author="tincts" data-date="2006-09-15T13:48:31+00:00" data-subject="">
 
-Don't be away for too long, man.  Loved rolling with ya.
+Don't be away for too long, man. Loved rolling with ya.
 
 </div>
 
 <div class="post" data-post-id="14047" data-author="13" data-date="2006-09-15T13:52:52+00:00" data-subject="Interest (accidental hijack)">
 
-You'll be back Jezer.  Can't beat the sloth monkey.
+You'll be back Jezer. Can't beat the sloth monkey.
 
 next
 
-What he said about interest.  Is it possible to have a more functional
+What he said about interest. Is it possible to have a more functional
 
 banking system here with some of the real life features we love and hate?
 
@@ -70,9 +70,9 @@ Guinex gets arrested for prostitution and money laundering..
 
 Splork changes the currancy variables every 10min to increase imm revenue.
 
-and well.. i'll pull all my stocks and sit back to watch the economy crumble into havoc and chaos!!  :twisted: 
+and well.. i'll pull all my stocks and sit back to watch the economy crumble into havoc and chaos!! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-so..  then sign me up too!  :twisted:
+so.. then sign me up too! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

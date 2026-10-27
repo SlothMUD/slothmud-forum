@@ -20,7 +20,7 @@ Looking for a necro ca/ca char with good stats, levels dont matter, Catch Mullah
 
 Ne:40 Ba:40 Cl:40 Wa:32
 
-Str:14  Int:18  Wis:15  Dex:18  Con:17   Nat's
+Str:14 Int:18 Wis:15 Dex:18 Con:17 Nat's
 
 Contact me ingame
 
@@ -28,6 +28,6 @@ Contact me ingame
 
 <div class="post" data-post-id="17746" data-author="tincts" data-date="2007-04-03T10:05:29+00:00" data-subject="">
 
-Got a Necro Cleric Bard Mage I could be convinced to separate from.  Nats 15 18 18 15 17.
+Got a Necro Cleric Bard Mage I could be convinced to separate from. Nats 15 18 18 15 17.
 
 </div>

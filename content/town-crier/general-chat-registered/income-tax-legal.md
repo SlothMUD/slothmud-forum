@@ -14,7 +14,7 @@ post_count: 3
 
 This is worth watching if you have an hour or two.
 
-[url:2abxf551]http://video.google.ca/videoplay?docid=-4312730277175242198&q=freedom+to+fascism[/url:2abxf551]
+http://video.google.ca/videoplay?docid=-4312730277175242198&q=freedom+to+fascism
 
 Discuss:
 
@@ -22,7 +22,7 @@ Discuss:
 
 <div class="post" data-post-id="17939" data-author="13" data-date="2007-04-15T01:33:46+00:00" data-subject="">
 
-don't tell me you were all too lazy to watch it :-(
+don't tell me you were all too lazy to watch it <img src="/images/smilies/icon_e_sad.svg" alt=":-(" title=":-(" width="15" height="15" class="smiley nozoom">
 
 </div>
 

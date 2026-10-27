@@ -12,9 +12,9 @@ post_count: 2
 
 <div class="post" data-post-id="16914" data-author="12345" data-date="2007-02-15T19:08:34+00:00" data-subject="Themes">
 
-I was actually looking for this for a while...  Its a little on the Rainbow 6 side, but still works pretty well for Sloth.
+I was actually looking for this for a while... Its a little on the Rainbow 6 side, but still works pretty well for Sloth.
 
-[<LINK_TEXT text="http://youtube.com/watch?v=vMyy_e8KGrg& ... ze%20sonne">http://youtube.com/watch?v=vMyy_e8KGrg&search=schwarze%20sonne</LINK_TEXT>](http://youtube.com/watch?v=vMyy_e8KGrg&search=schwarze%20sonne)
+[http://youtube.com/watch?v=vMyy_e8KGrg&search=schwarze%20sonne](http://youtube.com/watch?v=vMyy_e8KGrg&search=schwarze%20sonne)
 
 </div>
 

@@ -24,7 +24,7 @@ I have hundreds of vaulted items that –
 
 I would like to sort out what I need and what to discard, group items by category (e.g. put them in same room and add appropriate room names/descriptions) – and ideally do it all in an automated manner.
 
-I wonder if anyone ever tried to solve this combinatorial task?  8) 
+I wonder if anyone ever tried to solve this combinatorial task? <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> 
 
 My current thoughts are as follows. For every item, I want to check whether it –
 
@@ -35,20 +35,20 @@ My current thoughts are as follows. For every item, I want to check whether it �
 - belongs to an autoquest, and whether I've already completed the autoquest
 - is something useful (a radiant blue potion)
 - can be turned in for conquest points
-- *(is a duplicate of an item from one of the above categories)*
+- <em>(is a duplicate of an item from one of the above categories)</em>
 
 The idea is go through all items and add the respective tags – this should be not too hard to automate.
 
 The next step is to process categories by tags:
 
-- Untagged => most likely, useless, sell to shop, or give away, or junk
-- Unique high-level item => keep vaulted
-- Unique forges, forge cps, autoquest items => manually go through the list and decide
-- Duplicates => try to turn in for conquest points => sell on auction, or sell to shop, or give away, or junk
+- Untagged =\> most likely, useless, sell to shop, or give away, or junk
+- Unique high-level item =\> keep vaulted
+- Unique forges, forge cps, autoquest items =\> manually go through the list and decide
+- Duplicates =\> try to turn in for conquest points =\> sell on auction, or sell to shop, or give away, or junk
 
 Then, for what's left, put items with the same tags/belonging to the same forges in the same vault room.
 
-Am I missing anything? Thoughts?  :P
+Am I missing anything? Thoughts? <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -58,7 +58,7 @@ I use a rather manual approach involving annotations, single purpose vaults and 
 
 I made an alias and some scripts to reformat the way inventory, eq, shopping lists and vaults are displayed.
 
-I can easily annotate items in game. ie, sub+ potion <red> heals 10 hp would: 
+I can easily annotate items in game. ie, sub+ potion \<red\> heals 10 hp would: 
 
 determine full name of 1st item called potion in inventory, and create an entry to annotate the text 'heals 10 hp' in red whenever it's listed. [https://imgur.com/3mNewUJ](https://imgur.com/3mNewUJ)
 

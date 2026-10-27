@@ -14,6 +14,6 @@ post_count: 1
 
 check it at the chopping block
 
-[<LINK_TEXT text="http://slothmud.org/index.php?module=pn ... tion&id=10">http://slothmud.org/index.php?module=pnAuction&func=display_auction&id=10</LINK_TEXT>](http://slothmud.org/index.php?module=pnAuction&func=display_auction&id=10)
+[http://slothmud.org/index.php?module=pnAuction&func=display_auction&id=10](http://slothmud.org/index.php?module=pnAuction&func=display_auction&id=10)
 
 </div>

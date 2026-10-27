@@ -20,7 +20,7 @@ Hmm, got a question about the crash, if I didnt get the chance to pick my stats 
 
 your rolls are saved, whether u pick them or not
 
-why's anrok the only one on the game :)
+why's anrok the only one on the game <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -30,7 +30,7 @@ can't you use the pick command anytime after you level to 8 but before you level
 
 (or did I imagine that)
 
-an update on ttg would be welcome :)
+an update on ttg would be welcome <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -52,11 +52,11 @@ None of them should be sucky stats but they won't be keepers either.
 
 Anrok may be the only person online:
 
-[pri sec ter qua qui hex sep oct]  Players
+[pri sec ter qua qui hex sep oct] Players
 
---------------------------------
+\--------------------------------
 
-[40n 22d 20c 12w| 6m  3b  3t  2o ] Anrok afk aging
+[40n 22d 20c 12w\| 6m 3b 3t 2o ] Anrok afk aging
 
 There are 1 visible players.
 
@@ -64,7 +64,7 @@ Highest total since last bootup: 38.
 
 but that only means he's going to have a hard time doing his cr:
 
-Wed May 27 11:48:01 2009 ** an eirok obliterated Anrok at 4 o'clock am on the Day of the Moon
+Wed May 27 11:48:01 2009 \*\* an eirok obliterated Anrok at 4 o'clock am on the Day of the Moon
 
 </div>
 

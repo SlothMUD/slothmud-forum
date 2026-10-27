@@ -14,15 +14,15 @@ post_count: 2
 
 I'm looking for a few items listed below have a few things to trade or coins.
 
-1) Godly Shield of Light
+1\) Godly Shield of Light
 
-2) Alot of Silver Bars (Shuggoth Lord) *Auto probably has tons of em as much as he splorks lord*
+2\) Alot of Silver Bars (Shuggoth Lord) \*Auto probably has tons of em as much as he splorks lord\*
 
-3) Velvet Gloves
+3\) Velvet Gloves
 
-4) Skeletal Armor (Retired) 
+4\) Skeletal Armor (Retired) 
 
-5) 2 Black Opal Bracelets
+5\) 2 Black Opal Bracelets
 
 If you don't see me ingame email me bochee2001@hotmail.com
 
@@ -32,10 +32,11 @@ Thnx
 
 <div class="post" data-post-id="24200" data-author="Autolycos" data-date="2008-05-05T01:39:27+00:00" data-subject="Re: WTB: Stuff">
 
-2) Alot of Silver Bars (Shuggoth Lord) *Auto probably has tons of em as much as he splorks lord*[/quote:wqyoxs1d]
+> <strong>Yinao wrote:</strong>
+> 2\) Alot of Silver Bars (Shuggoth Lord) \*Auto probably has tons of em as much as he splorks lord\*
 
 hahahaha...
 
-yeah.. i have 2 or 3  :roll:
+yeah.. i have 2 or 3 <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>

@@ -34,7 +34,7 @@ last player alias
 
 Alias's last logon was Sat Apr 18 19:05:48 2009
 
-[ 9w  4n  2c  0t  0d  0m  0b  0o] Alias ~Dragonsworn~
+[ 9w 4n 2c 0t 0d 0m 0b 0o] Alias \~Dragonsworn\~
 
 You probably tried it out enough in the process of getting 9 levels to understand wtf you are talking about I'm sure.
 
@@ -50,9 +50,7 @@ For me the party is over and I shall go on, enjoy your journey and I shall enjoy
 
 <div class="post" data-post-id="29126" data-author="Dragoth" data-date="2009-05-09T11:53:12+00:00" data-subject="">
 
-Shrugs Alias, I personally have no problems at all with the game so far except for some minor complaints. Im playing almost the same class i played before and i can report no major shifts in the progress of the game  that i experienced before. Yes i have more skills, yes my armor is not working as well as it was before.
-
- 
+Shrugs Alias, I personally have no problems at all with the game so far except for some minor complaints. Im playing almost the same class i played before and i can report no major shifts in the progress of the game that i experienced before. Yes i have more skills, yes my armor is not working as well as it was before.
 
 There are more players online than there ever were, some are staying on for 10 hours a day (including me). Yes lots have went away because they got upset of being deprived of their hard-earned EQ but also alot of old-timers have come back because they know they have a chance to now catch up with everyone else and choose a class they finally like. Yes the game is a little different now with characters harbouring more power now, but this isnt bad and it isnt really different from the sloth we had before. 
 

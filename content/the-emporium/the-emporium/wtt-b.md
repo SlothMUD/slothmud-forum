@@ -12,11 +12,11 @@ post_count: 2
 
 <div class="post" data-post-id="10298" data-author="Falsra" data-date="2006-01-23T10:06:19+00:00" data-subject="WTT/B">
 
-I hope there is a little chance still exists  :lol: 
+I hope there is a little chance still exists <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> 
 
 I am looking for 
 
--1.4 helm
+\-1.4 helm
 
 rock of ages
 

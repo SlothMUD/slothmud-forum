@@ -12,31 +12,31 @@ post_count: 7
 
 <div class="post" data-post-id="14526" data-author="Akasha" data-date="2006-10-05T03:48:13+00:00" data-subject="Oh-YEAH... haha">
 
-[url:25p9n8vc]http://www.zipperfish.com/free/quiz/likejailbait.php[/url:25p9n8vc]
+http://www.zipperfish.com/free/quiz/likejailbait.php
 
 </div>
 
 <div class="post" data-post-id="14527" data-author="Absu" data-date="2006-10-05T04:41:13+00:00" data-subject="">
 
-Heh, funny... but its a bit out of date. It says Amanda Bynes is 17 in that... but she's 21 in 6 months or so. :P
+Heh, funny... but its a bit out of date. It says Amanda Bynes is 17 in that... but she's 21 in 6 months or so. <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="14529" data-author="13" data-date="2006-10-05T06:00:04+00:00" data-subject="">
 
-[img:rjr08efk]http://www.zipperfish.com/free/quizimages/jailbait4.jpg[/img:rjr08efk]
+![](http://www.zipperfish.com/free/quizimages/jailbait4.jpg)
 
 </div>
 
 <div class="post" data-post-id="14533" data-author="osric" data-date="2006-10-05T06:40:59+00:00" data-subject="">
 
-Is anyone else disturbed by the fact that Absu has it down to the month? :P
+Is anyone else disturbed by the fact that Absu has it down to the month? <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="14534" data-author="Absu" data-date="2006-10-05T06:42:13+00:00" data-subject="">
 
-Hahahhaa, well, its not like I have it memorizes... I just looked on IMDB. :P
+Hahahhaa, well, its not like I have it memorizes... I just looked on IMDB. <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -52,6 +52,6 @@ lmfao....
 
 be careful what you say...
 
-Guinex has been sited looming around..  :shock:
+Guinex has been sited looming around.. <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>

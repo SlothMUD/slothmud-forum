@@ -14,13 +14,13 @@ post_count: 2
 
 Is at this time:
 
-[<LINK_TEXT text="https://www.tickcounter.com/countdown/8 ... tmas-quest">https://www.tickcounter.com/countdown/884676/2018-slothmud-christmas-quest</LINK_TEXT>](https://www.tickcounter.com/countdown/884676/2018-slothmud-christmas-quest)
+[https://www.tickcounter.com/countdown/884676/2018-slothmud-christmas-quest](https://www.tickcounter.com/countdown/884676/2018-slothmud-christmas-quest)
 
 There will be...something.
 
 Enjoy.
 
---D
+\--D
 
 </div>
 

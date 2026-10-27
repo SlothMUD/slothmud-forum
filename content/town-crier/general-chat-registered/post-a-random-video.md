@@ -12,9 +12,9 @@ post_count: 565
 
 <div class="post" data-post-id="21452" data-author="Akasha" data-date="2007-11-28T06:42:39+00:00" data-subject="Post a Random Video">
 
-[url:21wvi0a3]http://vids.myspace.com/index.cfm?fuseaction=vids.individual&VideoID=22805787[/url:21wvi0a3]
+http://vids.myspace.com/index.cfm?fuseaction=vids.individual&VideoID=22805787
 
-[url:21wvi0a3]http://vids.myspace.com/index.cfm?fuseaction=vids.individual&VideoID=21958544[/url:21wvi0a3]
+http://vids.myspace.com/index.cfm?fuseaction=vids.individual&VideoID=21958544
 
 </div>
 
@@ -46,9 +46,9 @@ Steve Ballmer, President and Chief Executive Officer Microsoft Corp. since 2000
 
 <div class="post" data-post-id="21515" data-author="Akasha" data-date="2007-12-02T06:23:53+00:00" data-subject="">
 
-[url:ny8qfayl]http://vids.myspace.com/index.cfm?fuseaction=vids.individual&VideoID=21323072[/url:ny8qfayl]
+http://vids.myspace.com/index.cfm?fuseaction=vids.individual&VideoID=21323072
 
-[url:ny8qfayl]http://vids.myspace.com/index.cfm?fuseaction=vids.individual&VideoID=7050031[/url:ny8qfayl]
+http://vids.myspace.com/index.cfm?fuseaction=vids.individual&VideoID=7050031
 
 </div>
 
@@ -82,7 +82,7 @@ Ow!
 
 <div class="post" data-post-id="21524" data-author="tincts" data-date="2007-12-03T12:00:17+00:00" data-subject="">
 
-LOL they're all shaking their shirts at him at the end.  Yeah, that'll fix him up.
+LOL they're all shaking their shirts at him at the end. Yeah, that'll fix him up.
 
 "He lost vision in one eye"
 
@@ -92,21 +92,21 @@ LOL they're all shaking their shirts at him at the end.  Yeah, that'll fix him u
 
 <div class="post" data-post-id="21528" data-author="Tap" data-date="2007-12-04T00:57:59+00:00" data-subject="">
 
-It looks like the second broadcaster is trying his hardest not to burst out laughing. :lol:
+It looks like the second broadcaster is trying his hardest not to burst out laughing. <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="21544" data-author="Yinao" data-date="2007-12-05T07:00:45+00:00" data-subject="">
 
-[b:11ah8jbk][i:11ah8jbk][u:11ah8jbk]Cats:[/u:11ah8jbk][/i:11ah8jbk][/b:11ah8jbk]
+<strong><em>Cats:</em></strong>
 
 [http://www.youtube.com/watch?v=MQ4vmSvCVbc](http://www.youtube.com/watch?v=MQ4vmSvCVbc)
 
-[b:11ah8jbk][i:11ah8jbk][u:11ah8jbk]Soccer Fight: Brutal Headbutt[/u:11ah8jbk][/i:11ah8jbk][/b:11ah8jbk]
+<strong><em>Soccer Fight: Brutal Headbutt</em></strong>
 
 [http://www.youtube.com/watch?v=gJnk7imp9cg](http://www.youtube.com/watch?v=gJnk7imp9cg)
 
-[b:11ah8jbk][i:11ah8jbk][u:11ah8jbk]Boxing fight: Referees can't be tough, can they?[/u:11ah8jbk][/i:11ah8jbk][/b:11ah8jbk]
+<strong><em>Boxing fight: Referees can't be tough, can they?</em></strong>
 
 [http://www.youtube.com/watch?v=-nAGrRf7F3Q](http://www.youtube.com/watch?v=-nAGrRf7F3Q)
 
@@ -134,9 +134,10 @@ No matter how metal Britney gets, that song is still HHHHOOOORRRRIIIIBBBLLLEEE!!
 
 <div class="post" data-post-id="21578" data-author="Yasik" data-date="2007-12-08T09:36:16+00:00" data-subject="">
 
-No matter how metal Britney gets, that song is still HHHHOOOORRRRIIIIBBBLLLEEE!!!!![/quote:3qd9l9h9]
+> <strong>Yinao wrote:</strong>
+> No matter how metal Britney gets, that song is still HHHHOOOORRRRIIIIBBBLLLEEE!!!!!
 
-yeahhh we're all goofy goobers yeaaa *growls*
+yeahhh we're all goofy goobers yeaaa \*growls\*
 
 [http://youtube.com/watch?v=4p6_WZJJNBw](http://youtube.com/watch?v=4p6_WZJJNBw)
 
@@ -144,9 +145,9 @@ yeahhh we're all goofy goobers yeaaa *growls*
 
 <div class="post" data-post-id="21579" data-author="Yasik" data-date="2007-12-08T10:03:30+00:00" data-subject="">
 
-[u:1ugb4pbg]More Death metal 
+More Death metal 
 
-covers of zombifying brainwashing Loituma polka[/u:1ugb4pbg]
+covers of zombifying brainwashing Loituma polka
 
 [http://youtube.com/watch?v=ZmO_Jjb2UYQ](http://youtube.com/watch?v=ZmO_Jjb2UYQ)
 
@@ -168,15 +169,15 @@ I kinda have to post this.
 
 When you come accross the most disgusting thing you have ever seen, its only fair to share it.
 
-Was at work today, and I said nothing grosses me out, ive seen it all, to my co-worker.  She responded if I had seen 2 girls 1 cup.  I said I had not.  She promptly said I would be grossed out, I laughed at her this afternoon, but she was right.
+Was at work today, and I said nothing grosses me out, ive seen it all, to my co-worker. She responded if I had seen 2 girls 1 cup. I said I had not. She promptly said I would be grossed out, I laughed at her this afternoon, but she was right.
 
-If you survive the video, its actually quite funny to google search 2 girls 1 cup, and find all the taped reactions of people watching the clip.   Tons of clips of peoples reactions.   You-tube etc.  Found a clip of Joe Rogan watching it (Fear Factor host).  Was funny to finally see him grossed out.
+If you survive the video, its actually quite funny to google search 2 girls 1 cup, and find all the taped reactions of people watching the clip. Tons of clips of peoples reactions. You-tube etc. Found a clip of Joe Rogan watching it (Fear Factor host). Was funny to finally see him grossed out.
 
 If you click on the link, its your fault for watching it.
 
 Good Luck
 
-[url:18halbgp]http://www.2girls1cup.com[/url:18halbgp]
+http://www.2girls1cup.com
 
 </div>
 
@@ -200,21 +201,26 @@ There are plenty of 2 girls 1 cup videos out there.Oh wait.. nvm
 
 <div class="post" data-post-id="21628" data-author="Tap" data-date="2007-12-12T02:26:22+00:00" data-subject="">
 
-Mosaix wrote:[quote:39n1chr5]I kinda have to post this.
+Mosaix wrote:
 
-When you come accross the most disgusting thing you have ever seen, its only fair to share it. [/quote:39n1chr5]
+> <strong>Quote:</strong>
+> I kinda have to post this.
+> 
+> 
+> 
+> When you come accross the most disgusting thing you have ever seen, its only fair to share it.
 
 Sorry, but this is equally disturbing. Kinda makes you wonder where the human race is heading.
 
-[url:39n1chr5]http://www.whopperfreakout.com/[/url:39n1chr5]
+http://www.whopperfreakout.com/
 
 </div>
 
 <div class="post" data-post-id="21640" data-author="Popa" data-date="2007-12-12T19:00:08+00:00" data-subject="">
 
-If you think 2 girls 1 cup is bad?. I'm not even going to post the direct link here. The link I  post will take you to a blog site which will then WARN those that want to click the actual video link. With this said, I too WARN those that dare to watch, Especially guys. DONT. It will leave you very  disturbing images for a long time.
+If you think 2 girls 1 cup is bad?. I'm not even going to post the direct link here. The link I post will take you to a blog site which will then WARN those that want to click the actual video link. With this said, I too WARN those that dare to watch, Especially guys. DONT. It will leave you very disturbing images for a long time.
 
-Abandon all hope, ye who click here[/url:2cq77m40]
+[Abandon all hope, ye who click here](http://www.boh3m3.net/uncategorized/video-link/:2cq77m40)
 
 </div>
 
@@ -236,7 +242,7 @@ http://www.youtube.com/watch?v=w_V6xwCixLk
 
 <div class="post" data-post-id="21664" data-author="Tap" data-date="2007-12-14T03:53:59+00:00" data-subject="">
 
-[url:1ctl5ah7]http://www.youtube.com/watch?v=w_V6xwCixLk[/url:1ctl5ah7]
+http://www.youtube.com/watch?v=w_V6xwCixLk
 
 Doh!
 
@@ -244,7 +250,7 @@ Doh!
 
 <div class="post" data-post-id="21665" data-author="Blastem" data-date="2007-12-14T15:13:03+00:00" data-subject="">
 
-[img:1tzfja4g]http://www.explosm.net/db/files/Comics/Matt/thank-god-for-the-internet.png[/img:1tzfja4g]
+![](http://www.explosm.net/db/files/Comics/Matt/thank-god-for-the-internet.png)
 
 </div>
 
@@ -256,7 +262,7 @@ Doh!
 
 <div class="post" data-post-id="21766" data-author="Yasik" data-date="2007-12-23T00:01:29+00:00" data-subject="">
 
-[<LINK_TEXT text="http://video.google.com/videoplay?docid ... 4122898921">http://video.google.com/videoplay?docid=1128119834122898921</LINK_TEXT>](http://video.google.com/videoplay?docid=1128119834122898921)
+[http://video.google.com/videoplay?docid=1128119834122898921](http://video.google.com/videoplay?docid=1128119834122898921)
 
 </div>
 
@@ -286,7 +292,7 @@ if anyone ever call you "dork" - show him/her this video
 
 <div class="post" data-post-id="21771" data-author="Yasik" data-date="2007-12-23T04:26:08+00:00" data-subject="">
 
-also me think all of you need something this song is abouta  :D 
+also me think all of you need something this song is abouta <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> 
 
 [http://www.youtube.com/watch?v=3PYZV0MHCXw](http://www.youtube.com/watch?v=3PYZV0MHCXw)
 
@@ -296,21 +302,21 @@ also me think all of you need something this song is abouta  :D
 
 best chistmas video i've seen yet
 
-[url:2ae2myew]http://www.youtube.com/watch?v=2Fe11OlMiz8[/url:2ae2myew]
+http://www.youtube.com/watch?v=2Fe11OlMiz8
 
 </div>
 
 <div class="post" data-post-id="21886" data-author="Weasel" data-date="2008-01-06T21:10:17+00:00" data-subject="">
 
-[url:16y9899q]http://www.youtube.com/watch?v=ofNr7ZHd7rU[/url:16y9899q]
+http://www.youtube.com/watch?v=ofNr7ZHd7rU
 
 </div>
 
 <div class="post" data-post-id="21897" data-author="Autolycos" data-date="2008-01-08T13:33:18+00:00" data-subject="">
 
-Brand's dating video,  now we know why Brand never gets the girl  :twisted: 
+Brand's dating video, now we know why Brand never gets the girl <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-[url:you04g2h]http://www.youtube.com/watch?v=Ets0xkUk17Y[/url:you04g2h]
+http://www.youtube.com/watch?v=Ets0xkUk17Y
 
 </div>
 
@@ -318,7 +324,7 @@ Brand's dating video,  now we know why Brand never gets the girl  :twisted:
 
 Dennis Leary is still hilarious!
 
-[url:1k5d0eu0]http://myspacetv.com/index.cfm?fuseaction=vids.individual&videoid=24282506[/url:1k5d0eu0]
+http://myspacetv.com/index.cfm?fuseaction=vids.individual&videoid=24282506
 
 </div>
 
@@ -344,7 +350,7 @@ Dennis Leary is still hilarious!
 
 This is the funniest thing I've heard of in a long time. A prison in the filipinnes is making its convicts do long complicated dance routines to cheesy american songs and posting them to youtube.
 
-[<LINK_TEXT text="http://www.youtube.com/watch?v=2CPg9GWB ... re=related">http://www.youtube.com/watch?v=2CPg9GWBoL0&feature=related</LINK_TEXT>](http://www.youtube.com/watch?v=2CPg9GWBoL0&feature=related)
+[http://www.youtube.com/watch?v=2CPg9GWBoL0&feature=related](http://www.youtube.com/watch?v=2CPg9GWBoL0&feature=related)
 
 </div>
 
@@ -352,7 +358,7 @@ This is the funniest thing I've heard of in a long time. A prison in the filipin
 
 found this again... always a classic!
 
-[url:3kpkqyva]http://www.youtube.com/watch?v=HBdVpNc9BZ0[/url:3kpkqyva]
+http://www.youtube.com/watch?v=HBdVpNc9BZ0
 
 </div>
 
@@ -366,7 +372,7 @@ laugh i haven't seen that in years
 
 more death metal 
 
-[http://www.youtube.com/watch?v=IYUjAgfhj9c](http://www.youtube.com/watch?v=IYUjAgfhj9c) :D
+[http://www.youtube.com/watch?v=IYUjAgfhj9c](http://www.youtube.com/watch?v=IYUjAgfhj9c) <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -390,7 +396,7 @@ awesome epic scene
 
 Spiders on drugs.
 
-[url:1tmdujmo]http://www.youtube.com/watch?v=sHzdsFiBbFc[/url:1tmdujmo]
+http://www.youtube.com/watch?v=sHzdsFiBbFc
 
 </div>
 
@@ -398,7 +404,7 @@ Spiders on drugs.
 
 Ahh.. good times... good times
 
-[url:2wxo8vzh]http://www.youtube.com/watch?v=RNPxIibhcKY[/url:2wxo8vzh]
+http://www.youtube.com/watch?v=RNPxIibhcKY
 
 </div>
 
@@ -418,9 +424,12 @@ Something to watch while the games are down.
 
 <div class="post" data-post-id="22152" data-author="Yasik" data-date="2008-01-22T17:02:09+00:00" data-subject="">
 
-Something to watch while the games are down.
-
-[http://www.youtube.com/watch?v=Ciyp6qtfL3o](http://www.youtube.com/watch?v=Ciyp6qtfL3o)[/quote:1h4pmlom]
+> <strong>13 wrote:</strong>
+> Something to watch while the games are down.
+> 
+> 
+> 
+> [http://www.youtube.com/watch?v=Ciyp6qtfL3o](http://www.youtube.com/watch?v=Ciyp6qtfL3o)
 
 i still thinks only and best thing from WoW is this : (work-unsafe!!!)
 
@@ -460,9 +469,9 @@ thats kick ass!
 
 So, it's cold out and we're getting some snow. I came across this vid and thought it was pretty funny.
 
-[url:2uyx6tnh]http://www.youtube.com/watch?v=FC5wd0peM9Q[/url:2uyx6tnh]
+http://www.youtube.com/watch?v=FC5wd0peM9Q
 
-Sloth needs some kind of Epic blowdrier. :P
+Sloth needs some kind of Epic blowdrier. <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -474,31 +483,44 @@ Sloth needs some kind of Epic blowdrier. :P
 
 <div class="post" data-post-id="22173" data-author="Alberich" data-date="2008-01-22T22:57:46+00:00" data-subject="">
 
-Something to watch while the games are down.
+> <strong>Yasik wrote:</strong>
+> > <strong>13 wrote:</strong>
+> > Something to watch while the games are down.
+> > 
+> > 
+> > 
+> > [http://www.youtube.com/watch?v=Ciyp6qtfL3o](http://www.youtube.com/watch?v=Ciyp6qtfL3o)
+> 
+> 
+> 
+> 
+> 
+> i still thinks only and best thing from WoW is this : (work-unsafe!!!)
+> 
+> 
+> 
+> [http://youtube.com/watch?v=eWEjvCRPrCo](http://youtube.com/watch?v=eWEjvCRPrCo)
 
-[http://www.youtube.com/watch?v=Ciyp6qtfL3o](http://www.youtube.com/watch?v=Ciyp6qtfL3o)[/quote:27h3xgzf]
-
-i still thinks only and best thing from WoW is this : (work-unsafe!!!)
-
-[http://youtube.com/watch?v=eWEjvCRPrCo](http://youtube.com/watch?v=eWEjvCRPrCo)[/quote:27h3xgzf]
-
-[img:27h3xgzf][<LINK_TEXT text="http://www.mikedownscenter.org/upload/t ... button.jpg">http://www.mikedownscenter.org/upload/thumbnails/Win%20button.jpg</LINK_TEXT>](http://www.mikedownscenter.org/upload/thumbnails/Win%20button.jpg)[/img:27h3xgzf]
+(image: /[url=http://www.mikedownscenter.org/upload/thumbnails/Win%20button.jpg]http://www.mikedownscenter.org/upload/thumbnails/Win%20button.jpg[/url])
 
 and keeping with thread
 
-[url:27h3xgzf][http://youtube.com/watch?v=nljNEh1aVqI](http://youtube.com/watch?v=nljNEh1aVqI)[/url:27h3xgzf]
+[url=http://youtube.com/watch?v=nljNEh1aVqI]http://youtube.com/watch?v=nljNEh1aVqI
 
 </div>
 
 <div class="post" data-post-id="22265" data-author="Sind" data-date="2008-01-24T17:00:04+00:00" data-subject="">
 
-Something to watch while the games are down.
-
-[http://www.youtube.com/watch?v=Ciyp6qtfL3o](http://www.youtube.com/watch?v=Ciyp6qtfL3o)[/quote:mpyz9i60]
+> <strong>13 wrote:</strong>
+> Something to watch while the games are down.
+> 
+> 
+> 
+> [http://www.youtube.com/watch?v=Ciyp6qtfL3o](http://www.youtube.com/watch?v=Ciyp6qtfL3o)
 
 [http://www.youtube.com/watch?v=mgN4ZrramSs](http://www.youtube.com/watch?v=mgN4ZrramSs)
 
---> my favorite clip evah :)
+\--\> my favorite clip evah <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -522,7 +544,7 @@ For Yasik:
 
 <div class="post" data-post-id="22290" data-author="Mosaix" data-date="2008-01-25T16:43:23+00:00" data-subject="">
 
-[url:1ioqrktr]http://www.youtube.com/watch?v=089p7pIQHSE&NR=1[/url:1ioqrktr]
+http://www.youtube.com/watch?v=089p7pIQHSE&NR=1
 
 </div>
 
@@ -542,19 +564,19 @@ that is the craziest prank i've ever seen. The japanese are insane.
 
 <div class="post" data-post-id="22308" data-author="tincts" data-date="2008-01-26T22:54:18+00:00" data-subject="">
 
-Fantastic.  She heads off with Post Traumatic Stress Disorder - and a free baseball hat!!
+Fantastic. She heads off with Post Traumatic Stress Disorder - and a free baseball hat!!
 
 </div>
 
 <div class="post" data-post-id="22311" data-author="Mosaix" data-date="2008-01-27T05:34:40+00:00" data-subject="">
 
-Loving evangellist + brainwashed right wing republican = nutty lady in this video.  
+Loving evangellist + brainwashed right wing republican = nutty lady in this video. 
 
 The video appears to start after shed been ranting about something on the computer she is on to the room, and some guy turns on his video camera to capture the show.
 
 No doubt 'Jesus' is very proud of her.
 
-[url:2cxowimx]http://www.aolvideoblog.com/2008/01/23/woman-flips-at-coffee-shop/[/url:2cxowimx]
+http://www.aolvideoblog.com/2008/01/23/woman-flips-at-coffee-shop/
 
 </div>
 
@@ -562,7 +584,7 @@ No doubt 'Jesus' is very proud of her.
 
 metal-heads and Andrew Lloyd Webber fans enjoy
 
-no pedo, no lolis, no shit  :D 
+no pedo, no lolis, no shit <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> 
 
 [http://youtube.com/watch?v=i5SUSmedMm8](http://youtube.com/watch?v=i5SUSmedMm8)
 
@@ -572,7 +594,7 @@ no pedo, no lolis, no shit  :D
 
 In order to completer your initiation, guys, i hereby proudly introduce to you a clip, that must give you a general view of what 4chan is 
 
-[http://youtube.com/watch?v=M-OVnCdhz_k](http://youtube.com/watch?v=M-OVnCdhz_k) :D
+[http://youtube.com/watch?v=M-OVnCdhz_k](http://youtube.com/watch?v=M-OVnCdhz_k) <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 [http://youtube.com/watch?v=uRlTb0R4T4k](http://youtube.com/watch?v=uRlTb0R4T4k)
 
@@ -590,7 +612,7 @@ In order to completer your initiation, guys, i hereby proudly introduce to you a
 
 <div class="post" data-post-id="22441" data-author="Mike" data-date="2008-02-01T12:38:55+00:00" data-subject="">
 
-Super Team  :D 
+Super Team <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> 
 
 [http://youtube.com/watch?v=uKDS2S4HHdA](http://youtube.com/watch?v=uKDS2S4HHdA)
 
@@ -600,9 +622,9 @@ Super Team  :D
 
 Rated R
 
-[<LINK_TEXT text="http://www.youtube.com/watch?v=0cGGDiB8 ... re=related">http://www.youtube.com/watch?v=0cGGDiB89MA&feature=related</LINK_TEXT>](http://www.youtube.com/watch?v=0cGGDiB89MA&feature=related)
+[http://www.youtube.com/watch?v=0cGGDiB89MA&feature=related](http://www.youtube.com/watch?v=0cGGDiB89MA&feature=related)
 
-[<LINK_TEXT text="http://www.youtube.com/watch?v=SNPLL9Zt ... re=related">http://www.youtube.com/watch?v=SNPLL9ZtKPA&feature=related</LINK_TEXT>](http://www.youtube.com/watch?v=SNPLL9ZtKPA&feature=related)
+[http://www.youtube.com/watch?v=SNPLL9ZtKPA&feature=related](http://www.youtube.com/watch?v=SNPLL9ZtKPA&feature=related)
 
 </div>
 
@@ -610,9 +632,9 @@ Rated R
 
 Billy Connolly 
 
-[url:1nexd485]http://www.youtube.com/watch?v=fv3oY5tpSb4&feature=related[/url:1nexd485]
+http://www.youtube.com/watch?v=fv3oY5tpSb4&feature=related
 
-[url:1nexd485]http://www.youtube.com/watch?v=kF8lqxi_Nek&feature=related[/url:1nexd485]
+http://www.youtube.com/watch?v=kF8lqxi_Nek&feature=related
 
 </div>
 
@@ -624,13 +646,13 @@ Billy Connolly
 
 <div class="post" data-post-id="22825" data-author="Tap" data-date="2008-02-20T02:15:48+00:00" data-subject="">
 
-[url:37h6xfix]http://www.youtube.com/watch?v=uqybDdU4qVk[/url:37h6xfix]
+http://www.youtube.com/watch?v=uqybDdU4qVk
 
 </div>
 
 <div class="post" data-post-id="22883" data-author="Gumbi" data-date="2008-02-22T08:46:59+00:00" data-subject="">
 
-[url:3d5z9rph]http://cosmos.bcst.yahoo.com/up/player/popup/?cl=6550161[/url:3d5z9rph]
+http://cosmos.bcst.yahoo.com/up/player/popup/?cl=6550161
 
 </div>
 
@@ -642,7 +664,7 @@ That was just too cool. I think I watched it 5x!
 
 <div class="post" data-post-id="22899" data-author="brady" data-date="2008-02-22T22:51:56+00:00" data-subject="">
 
-That was cool!  And now I know how to speak Russian, thanks :!:  :idea:  :!:
+That was cool! And now I know how to speak Russian, thanks <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_idea.svg" alt=":idea:" title=":idea:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -650,13 +672,13 @@ That was cool!  And now I know how to speak Russian, thanks :!:  :idea:  :!:
 
 [http://youtube.com/watch?v=TdItwaLrv1U](http://youtube.com/watch?v=TdItwaLrv1U)
 
-\m/  0_0  \m/
+\\m/ 0\_0 \\m/
 
 </div>
 
 <div class="post" data-post-id="22915" data-author="tincts" data-date="2008-02-24T08:11:49+00:00" data-subject="">
 
-Ah yes.  One of the great sports in Australia is to get drunk and watch the eurovision finals.  When that song was performed I laughed so hard that a peanut came out of my nose.  And it won! 
+Ah yes. One of the great sports in Australia is to get drunk and watch the eurovision finals. When that song was performed I laughed so hard that a peanut came out of my nose. And it won! 
 
 Good times
 
@@ -670,23 +692,27 @@ ROFL classic
 
 <div class="post" data-post-id="22917" data-author="jezer" data-date="2008-02-24T11:47:50+00:00" data-subject="">
 
-Ah yes.  One of the great sports in Australia is to get drunk and watch the eurovision finals.  When that song was performed I laughed so hard that a peanut came out of my nose.  And it won! 
-
-Good times[/quote:3e72j7cm]
+> <strong>tincts wrote:</strong>
+> Ah yes. One of the great sports in Australia is to get drunk and watch the eurovision finals. When that song was performed I laughed so hard that a peanut came out of my nose. And it won! 
+> 
+> 
+> 
+> Good times
 
 Another Aussie here who loves watching Eurovision... mainly because in the past a guy called Les Murray makes sarcastic narrations over the top. I think last year he didn't narrate... probably because he called the Eurovision presenters dumb and dumber the year before...
 
 Here is the song I think should have won last year...
 
-[url:3e72j7cm]http://youtube.com/watch?v=a7jRtYWPkzA&feature=related[/url:3e72j7cm]
+http://youtube.com/watch?v=a7jRtYWPkzA&feature=related
 
-The most stupidest songs win each year, the whole thing is a fast, I bet if Tincts could pop a peanut out his nose to music, it would win for sure. Maybe almost as scary as Lordi too...  :shock:
+The most stupidest songs win each year, the whole thing is a fast, I bet if Tincts could pop a peanut out his nose to music, it would win for sure. Maybe almost as scary as Lordi too... <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="22937" data-author="tincts" data-date="2008-02-25T01:44:28+00:00" data-subject="">
 
-mainly because in the past a guy called Les Murray makes sarcastic narrations over the top. [/quote:2gi8wfsz]
+> <strong>jezer wrote:</strong>
+> mainly because in the past a guy called Les Murray makes sarcastic narrations over the top.
 
 Les Murray was way awesome.
 
@@ -694,7 +720,7 @@ Les Murray was way awesome.
 
 <div class="post" data-post-id="22975" data-author="Akasha" data-date="2008-02-26T02:12:26+00:00" data-subject="">
 
-Jezer.. awesome song, thnx.  Nice addition to my collection.
+Jezer.. awesome song, thnx. Nice addition to my collection.
 
 Aka
 
@@ -710,7 +736,7 @@ This was my personal favorite
 
 <div class="post" data-post-id="22978" data-author="jezer" data-date="2008-02-26T10:34:14+00:00" data-subject="">
 
-Tinct! :shock: Buddy! :shock: You really were drunk weren't you!  :twisted:
+Tinct! <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> Buddy! <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> You really were drunk weren't you! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -718,39 +744,41 @@ Tinct! :shock: Buddy! :shock: You really were drunk weren't you!  :twisted:
 
 Fairly well known in Australia, but here's one for you guys on the flip side... great music too!
 
-[url:297u7unk]http://www.youtube.com/watch?v=PpzkHhgcZG4[/url:297u7unk]
+http://www.youtube.com/watch?v=PpzkHhgcZG4
 
 </div>
 
 <div class="post" data-post-id="22990" data-author="Akasha" data-date="2008-02-27T02:44:52+00:00" data-subject="">
 
-cool video... cant we all just get along... for even 5 seconds? :P
+cool video... cant we all just get along... for even 5 seconds? <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="22991" data-author="tincts" data-date="2008-02-27T03:01:01+00:00" data-subject="">
 
-Tinct! :shock: Buddy! :shock: You really were drunk weren't you!  :twisted:[/quote:20sb74tv]
+> <strong>jezer wrote:</strong>
+> Tinct! <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> Buddy! <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> You really were drunk weren't you! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
-Don't feel the need to take instructions on musical tastes from a Western Australian  :twisted:  :wink:
+Don't feel the need to take instructions on musical tastes from a Western Australian <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="22992" data-author="jezer" data-date="2008-02-27T03:23:40+00:00" data-subject="">
 
-Don't feel the need to take instructions on musical tastes from a Western Australian  :twisted:  :wink:[/quote:2fnso1sd]
+> <strong>tincts wrote:</strong>
+> Don't feel the need to take instructions on musical tastes from a Western Australian <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
-Oh Yeah! :shock: What would you know!... Playing brass in that navy band...  :twisted: Glorified plumbing! :twisted: 
+Oh Yeah! <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> What would you know!... Playing brass in that navy band... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> Glorified plumbing! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 Oh, btw, did you know the guy from the navy band, recently on Australian Idol? The trumpet player?
 
-I have a theory about that video you posted, the swordsman were there to try and shut her up!  :twisted: I noticed one of the ninja dudes managed to cut her but her sanct may have been up! Maybe she's two runs!  :twisted:
+I have a theory about that video you posted, the swordsman were there to try and shut her up! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> I noticed one of the ninja dudes managed to cut her but her sanct may have been up! Maybe she's two runs! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23045" data-author="Akasha" data-date="2008-03-02T06:19:05+00:00" data-subject="The Midget Stripper">
 
-[url:3o836p3u]http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=29263547[/url:3o836p3u]
+http://vids.myspace.com/index.cfm?fuseaction=vids.individual&videoid=29263547
 
 </div>
 
@@ -764,7 +792,7 @@ That guys good, i never could have kept a straight face.
 
 [http://www.youtube.com/watch?v=tDxrDu4hf6w](http://www.youtube.com/watch?v=tDxrDu4hf6w)
 
-death metal, as usual :twisted:
+death metal, as usual <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -782,7 +810,7 @@ death metal, as usual :twisted:
 
 <div class="post" data-post-id="23050" data-author="Akasha" data-date="2008-03-03T02:41:14+00:00" data-subject="Infared Fart">
 
-[url:30vexqq9]http://myspacetv.com/index.cfm?fuseaction=vids.individual&videoid=26831690[/url:30vexqq9]
+http://myspacetv.com/index.cfm?fuseaction=vids.individual&videoid=26831690
 
 </div>
 
@@ -790,31 +818,34 @@ death metal, as usual :twisted:
 
 [http://www.youtube.com/watch?v=D99NHb6B03s](http://www.youtube.com/watch?v=D99NHb6B03s)
 
-What area does this pop in?  I want one.
+What area does this pop in? I want one.
 
 </div>
 
 <div class="post" data-post-id="23072" data-author="Alberich" data-date="2008-03-03T20:02:48+00:00" data-subject="">
 
-[url:2vocyt79]http://youtube.com/watch?v=hdLIbwYRZ74[/url:2vocyt79]
+http://youtube.com/watch?v=hdLIbwYRZ74
 
-[url:2vocyt79]http://youtube.com/watch?v=VXoIG8YYKqs[/url:2vocyt79]
+http://youtube.com/watch?v=VXoIG8YYKqs
 
 </div>
 
 <div class="post" data-post-id="23073" data-author="Yasik" data-date="2008-03-03T20:24:43+00:00" data-subject="">
 
-[url:1dcuef8s]http://youtube.com/watch?v=hdLIbwYRZ74[/url:1dcuef8s]
+> <strong>Alberich wrote:</strong>
+> http://youtube.com/watch?v=hdLIbwYRZ74
+> 
+> 
+> 
+> http://youtube.com/watch?v=VXoIG8YYKqs
 
-[url:1dcuef8s]http://youtube.com/watch?v=VXoIG8YYKqs[/url:1dcuef8s][/quote:1dcuef8s]
-
-[img:1dcuef8s]http://yasik.kiev.ua/You_Sir_Are_F_Awesome.jpg[/img:1dcuef8s]
+![](http://yasik.kiev.ua/You_Sir_Are_F_Awesome.jpg)
 
 </div>
 
 <div class="post" data-post-id="23075" data-author="jezer" data-date="2008-03-03T22:57:08+00:00" data-subject="">
 
-Yasik is the crazy one in the orange tights clanging the symbols!  :D 
+Yasik is the crazy one in the orange tights clanging the symbols! <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> 
 
 That's a pretty cool sound, really different!
 
@@ -822,23 +853,24 @@ That's a pretty cool sound, really different!
 
 <div class="post" data-post-id="23076" data-author="Yasik" data-date="2008-03-03T23:07:55+00:00" data-subject="">
 
-[b:1lsizf62]got everything of Bordello i was able to lay my hands on
+<strong>got everything of Bordello i was able to lay my hands on</strong>
 
-this is godly music i tell you!!![/b:1lsizf62]
+<strong>this is godly music i tell you!!!</strong>
 
-[img:1lsizf62]http://yasik.kiev.ua/Bordello_Winamp.jpg[/img:1lsizf62]
+![](http://yasik.kiev.ua/Bordello_Winamp.jpg)
 
 </div>
 
 <div class="post" data-post-id="23082" data-author="tincts" data-date="2008-03-04T02:51:42+00:00" data-subject="">
 
-Oh Yeah! :shock: What would you know!... Playing brass in that navy band...  :twisted: Glorified plumbing! :twisted: 
+> <strong>jezer wrote:</strong>
+> Oh Yeah! <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> What would you know!... Playing brass in that navy band... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> Glorified plumbing! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
+> 
+> 
+> 
+> Oh, btw, did you know the guy from the navy band, recently on Australian Idol? The trumpet player?
 
-Oh, btw, did you know the guy from the navy band, recently on Australian Idol? The trumpet player?
-
-[/quote:17sq07g8]
-
-Hehe yeah toured and drank with Carl a few times.  Awesome jazz muso, not sure what he was doing on idol.
+Hehe yeah toured and drank with Carl a few times. Awesome jazz muso, not sure what he was doing on idol.
 
 Quit the band about two years ago, I'm an economic analyst now (logical career path . . .)
 
@@ -846,19 +878,21 @@ Quit the band about two years ago, I'm an economic analyst now (logical career p
 
 <div class="post" data-post-id="23083" data-author="jezer" data-date="2008-03-04T02:58:34+00:00" data-subject="">
 
-Hehe yeah toured and drank with Carl a few times. Awesome jazz muso, not sure what he was doing on idol. [/quote:3kpjvmb0]
+> <strong>tincts wrote:</strong>
+> Hehe yeah toured and drank with Carl a few times. Awesome jazz muso, not sure what he was doing on idol.
 
 Yeah, you know your musical career is in the toilet when you find yourself on idol. Good thing he lost, he probably has half a chance now.
 
-Quit the band about two years ago, I'm an economic analyst now (logical career path . . .)[/quote:3kpjvmb0]
+> <strong>tincts wrote:</strong>
+> Quit the band about two years ago, I'm an economic analyst now (logical career path . . .)
 
-From playing a tune, to playing the markets...! hey I might need some advice... *hushed tones, looking over shoulder* what do you think about investing in epics?  :shock:
+From playing a tune, to playing the markets...! hey I might need some advice... \*hushed tones, looking over shoulder\* what do you think about investing in epics? <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23144" data-author="Alberich" data-date="2008-03-07T22:47:04+00:00" data-subject="">
 
-[url:2w9no56t]http://www.youtube.com/watch?v=FDGeM2vgWS4[/url:2w9no56t]
+http://www.youtube.com/watch?v=FDGeM2vgWS4
 
 a Czech band playing American bluegrass in an Irish bar in Amsterdam
 
@@ -870,33 +904,44 @@ they're good too!
 
 <div class="post" data-post-id="23145" data-author="jezer" data-date="2008-03-08T02:35:54+00:00" data-subject="">
 
-[url:26vpsiz2]http://www.youtube.com/watch?v=FDGeM2vgWS4[/url:26vpsiz2]
+> <strong>Alberich wrote:</strong>
+> http://www.youtube.com/watch?v=FDGeM2vgWS4
+> 
+> 
+> 
+> 
+> 
+> a Czech band playing American bluegrass in an Irish bar in Amsterdam
+> 
+> 
+> 
+> you gotta love the internets
+> 
+> 
+> 
+> 
+> 
+> they're good too!
 
-a Czech band playing American bluegrass in an Irish bar in Amsterdam
-
-you gotta love the internets
-
-they're good too![/quote:26vpsiz2]
-
-Yeeeeeeeehhhhhhhaaaaaaaaaaaaaaaaaarrrrrr!!!  :D
+Yeeeeeeeehhhhhhhaaaaaaaaaaaaaaaaaarrrrrr!!! <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23146" data-author="jezer" data-date="2008-03-08T03:19:09+00:00" data-subject="">
 
-[url:ftqd9kmm]http://www.youtube.com/watch?v=plfVQV-klZo[/url:ftqd9kmm]
+http://www.youtube.com/watch?v=plfVQV-klZo
 
-Direct from there tour through Europe, here is the pirates of Slothmud, singing there hearty clan jingle "Seven Deadly Sins"! Arrrghhh!  :twisted:
+Direct from there tour through Europe, here is the pirates of Slothmud, singing there hearty clan jingle "Seven Deadly Sins"! Arrrghhh! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23147" data-author="Alberich" data-date="2008-03-08T13:32:35+00:00" data-subject="">
 
-win!  I love FM, saw them not too long ago, they did 2 nights here in chicago
+win! I love FM, saw them not too long ago, they did 2 nights here in chicago
 
 if you like them you should check out these local boys
 
-[url:z5pc9p80]http://www.youtube.com/watch?v=xV_L6T6mhRo[/url:z5pc9p80]
+http://www.youtube.com/watch?v=xV_L6T6mhRo
 
 iirc they're playing at the southside irish parade on sunday (at least they do most years...)
 
@@ -906,7 +951,7 @@ iirc they're playing at the southside irish parade on sunday (at least they do m
 
 Man I love this! 
 
-[url:a5j2lpp7]http://www.youtube.com/watch?v=rbTozgoj9OQ[/url:a5j2lpp7]
+http://www.youtube.com/watch?v=rbTozgoj9OQ
 
 I dare you all when your feeling a bit melancholic one night, to turn out all the lights and play this clip, Once it hits 2minutes, if it doesn't send chills up your spine, your not human!
 
@@ -916,7 +961,7 @@ I dare you all when your feeling a bit melancholic one night, to turn out all th
 
 [http://www.youtube.com/watch?v=M_Az-dyVmUU](http://www.youtube.com/watch?v=M_Az-dyVmUU)
 
-this one has over 700 000 views!!! :shock:
+this one has over 700 000 views!!! <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -926,7 +971,7 @@ this one has over 700 000 views!!! :shock:
 
 the blonde from ABBA somehow associates with Shyla in my mind
 
-no idea how i ended up like that :roll:
+no idea how i ended up like that <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -934,7 +979,7 @@ no idea how i ended up like that :roll:
 
 [http://www.youtube.com/watch?v=T2kAcQgBplk](http://www.youtube.com/watch?v=T2kAcQgBplk)
 
-yet another metal cover! :twisted:
+yet another metal cover! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 [http://www.youtube.com/watch?v=vbJ_FboW_Iw](http://www.youtube.com/watch?v=vbJ_FboW_Iw)
 
@@ -962,7 +1007,7 @@ Nice one too. This time the 'victim' is Madonna.
 
 [http://www.youtube.com/watch?v=8aTwgR4qMCs](http://www.youtube.com/watch?v=8aTwgR4qMCs)
 
-The wuss "Blake" (the name, not the color/etc) sounded surprisingly much more pleasant :twisted: 
+The wuss "Blake" (the name, not the color/etc) sounded surprisingly much more pleasant <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 [http://www.youtube.com/watch?v=vbJ_FboW_Iw](http://www.youtube.com/watch?v=vbJ_FboW_Iw)
 
@@ -972,7 +1017,7 @@ The wuss "Blake" (the name, not the color/etc) sounded surprisingly much more pl
 
 Heavy Metal is like ketchup/mayonaisse.
 
-Makes nearly anything edible (listenable). :twisted: 
+Makes nearly anything edible (listenable). <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 [http://youtube.com/watch?v=SVRjS8gzfJg](http://youtube.com/watch?v=SVRjS8gzfJg)
 
@@ -980,19 +1025,19 @@ Makes nearly anything edible (listenable). :twisted:
 
 <div class="post" data-post-id="23412" data-author="Alberich" data-date="2008-03-25T18:06:55+00:00" data-subject="">
 
-[url:1m3x8i3v]http://youtube.com/watch?v=SOVgNIp0EeU[/url:1m3x8i3v]
+http://youtube.com/watch?v=SOVgNIp0EeU
 
 </div>
 
 <div class="post" data-post-id="23413" data-author="Alberich" data-date="2008-03-25T19:21:05+00:00" data-subject="">
 
-[url:tmqhd1eg]http://www.dothetest.co.uk/[/url:tmqhd1eg]
+http://www.dothetest.co.uk/
 
 </div>
 
 <div class="post" data-post-id="23475" data-author="Alberich" data-date="2008-03-27T20:53:37+00:00" data-subject="">
 
-[url:1y64z1rx]http://www.youtube.com/watch?v=TCZ5zBKBG28[/url:1y64z1rx]
+http://www.youtube.com/watch?v=TCZ5zBKBG28
 
 </div>
 
@@ -1016,7 +1061,7 @@ Makes nearly anything edible (listenable). :twisted:
 
 <div class="post" data-post-id="23535" data-author="Alberich" data-date="2008-04-01T22:04:11+00:00" data-subject="">
 
-[url:o23ipsjo]http://www.youtube.com/watch?v=3KANI2dpXLw[/url:o23ipsjo]
+http://www.youtube.com/watch?v=3KANI2dpXLw
 
 </div>
 
@@ -1030,9 +1075,9 @@ you're evil Alberich.
 
 Funny shit
 
-[url:2vyle76j]http://myspacetv.com/index.cfm?fuseaction=vids.individual&videoid=32046258[/url:2vyle76j]
+http://myspacetv.com/index.cfm?fuseaction=vids.individual&videoid=32046258
 
-[url:2vyle76j]http://myspacetv.com/index.cfm?fuseaction=vids.individual&videoid=32046625[/url:2vyle76j]
+http://myspacetv.com/index.cfm?fuseaction=vids.individual&videoid=32046625
 
 </div>
 
@@ -1040,13 +1085,13 @@ Funny shit
 
 Not sure if you guys have seen this. It's a few months old, but still crazy funny.
 
-[url:35s0hzr8]http://www.youtube.com/watch?v=22Ge_j5mBmY[/url:35s0hzr8]
+http://www.youtube.com/watch?v=22Ge_j5mBmY
 
 </div>
 
 <div class="post" data-post-id="23724" data-author="Akasha" data-date="2008-04-14T07:29:43+00:00" data-subject="">
 
-[url:342nc78k]http://myspacetv.com/index.cfm?fuseaction=vids.individual&videoid=17328[/url:342nc78k]
+http://myspacetv.com/index.cfm?fuseaction=vids.individual&videoid=17328
 
 </div>
 
@@ -1080,11 +1125,12 @@ Not sure if you guys have seen this. It's a few months old, but still crazy funn
 
 <div class="post" data-post-id="23762" data-author="firebrand" data-date="2008-04-15T19:41:40+00:00" data-subject="">
 
-(on this one - anybody remembers whos author/performer of soundtrack? sounds very familiar, but can't remember)[/quote:2p8l9218]
+> <strong>Yasik2 wrote:</strong>
+> (on this one - anybody remembers whos author/performer of soundtrack? sounds very familiar, but can't remember)
 
-that song is called "putting on the ritz".  there are a couple versions of it: the one played on radio back in the '80s was by taco, but ella fitzgerald and irving berlin are also credited with it, so take your pick
+that song is called "putting on the ritz". there are a couple versions of it: the one played on radio back in the '80s was by taco, but ella fitzgerald and irving berlin are also credited with it, so take your pick
 
-"phenomenal cosmic power....itty bitty living space" --genie -->disney's aladdin
+"phenomenal cosmic power....itty bitty living space" --genie --\>disney's aladdin
 
 </div>
 
@@ -1120,7 +1166,7 @@ I want one!!
 
 Friggin' hilarious sloth vid
 
-[url:2svalr53]http://www.lifelounge.com/A-day-with-the-Sloth.aspx[/url:2svalr53]
+http://www.lifelounge.com/A-day-with-the-Sloth.aspx
 
 </div>
 
@@ -1130,13 +1176,13 @@ fun with chemicals
 
 [http://www.youtube.com/watch?v=-_Q7FCKZmik](http://www.youtube.com/watch?v=-_Q7FCKZmik)
 
-"where can i get eyes like that?" -jack --> pitch black
+"where can i get eyes like that?" -jack --\> pitch black
 
 </div>
 
 <div class="post" data-post-id="23922" data-author="Widow" data-date="2008-04-22T22:02:51+00:00" data-subject="">
 
-[url:2o9ahgpc]http://video.google.com/videoplay?docid=1443327122817138624&q=funny+picture&ei=jF8OSK2rNpfA4AKr0umnBA[/url:2o9ahgpc]
+http://video.google.com/videoplay?docid=1443327122817138624&q=funny+picture&ei=jF8OSK2rNpfA4AKr0umnBA
 
 Very funny slideshow.
 
@@ -1144,7 +1190,7 @@ Very funny slideshow.
 
 <div class="post" data-post-id="23925" data-author="Tap" data-date="2008-04-23T01:08:56+00:00" data-subject="Let&#x27;s all *censored* ourselves!!!">
 
-[url:3jd5qms8]http://www.youtube.com/watch?v=B-Wd-Q3F8KM&feature=related[/url:3jd5qms8]
+http://www.youtube.com/watch?v=B-Wd-Q3F8KM&feature=related
 
 </div>
 
@@ -1162,7 +1208,7 @@ in order to compensate my inactivity in last mess in Random Pic thread
 
 have a drink for all the brave Aussies and Kiwis today when you get off work, folks
 
-[url:2jo60soz]http://youtube.com/watch?v=WG48Ftsr3OI[/url:2jo60soz]
+http://youtube.com/watch?v=WG48Ftsr3OI
 
 </div>
 
@@ -1174,7 +1220,7 @@ nods, hats off to the ANZACs. Thanks for posting that Alberich.
 
 <div class="post" data-post-id="24182" data-author="jezer" data-date="2008-05-04T03:45:06+00:00" data-subject="">
 
-[url:5uvmqjv5]http://www.youtube.com/watch?v=zFFhV9wMei8[/url:5uvmqjv5]
+http://www.youtube.com/watch?v=zFFhV9wMei8
 
 </div>
 
@@ -1182,7 +1228,7 @@ nods, hats off to the ANZACs. Thanks for posting that Alberich.
 
 [http://gmy.news.yahoo.com/v/7709334](http://gmy.news.yahoo.com/v/7709334)
 
-"hey guys, there's a red-thingy moving toward the green-thingy.  i think we're the green thingy" -guy fleegman --> galaxy quest
+"hey guys, there's a red-thingy moving toward the green-thingy. i think we're the green thingy" -guy fleegman --\> galaxy quest
 
 </div>
 
@@ -1190,7 +1236,7 @@ nods, hats off to the ANZACs. Thanks for posting that Alberich.
 
 palindrome mania
 
-[url:1zbap899]http://www.youtube.com/watch?v=j_pYYff7qP0[/url:1zbap899]
+http://www.youtube.com/watch?v=j_pYYff7qP0
 
 </div>
 
@@ -1208,17 +1254,20 @@ just for you, yasik:
 
 [http://youtube.com/watch?v=dPaJl7tZstM](http://youtube.com/watch?v=dPaJl7tZstM)#
 
-"we were on the gravy train with biscuit wheels before you showed up" -mack --> ghost rider
+"we were on the gravy train with biscuit wheels before you showed up" -mack --\> ghost rider
 
 </div>
 
 <div class="post" data-post-id="24286" data-author="Yasik2" data-date="2008-05-10T18:55:56+00:00" data-subject="">
 
-just for you, yasik:
+> <strong>firebrand wrote:</strong>
+> just for you, yasik:
+> 
+> 
+> 
+> [http://youtube.com/watch?v=dPaJl7tZstM](http://youtube.com/watch?v=dPaJl7tZstM)#
 
-[http://youtube.com/watch?v=dPaJl7tZstM](http://youtube.com/watch?v=dPaJl7tZstM)#[/quote:2bcwfrfq]
-
-[img:2bcwfrfq][http://yasik.kiev.ua/4chan/Leonidas_You_re_awesome.gif](http://yasik.kiev.ua/4chan/Leonidas_You_re_awesome.gif)[/img:2bcwfrfq]
+(image: /[url=http://yasik.kiev.ua/4chan/Leonidas\_You\_re\_awesome.gif]http://yasik.kiev.ua/4chan/Leonidas\_You\_re\_awesome.gif[/url])
 
 </div>
 
@@ -1242,7 +1291,7 @@ more death metal
 
 [http://www.youtube.com/watch?v=r5y4wehtHgw](http://www.youtube.com/watch?v=r5y4wehtHgw)
 
-[http://www.youtube.com/watch?v=Qo2D-Hsj4ww](http://www.youtube.com/watch?v=Qo2D-Hsj4ww)  (with lyrics)
+[http://www.youtube.com/watch?v=Qo2D-Hsj4ww](http://www.youtube.com/watch?v=Qo2D-Hsj4ww) (with lyrics)
 
 </div>
 
@@ -1256,7 +1305,7 @@ this one special for Autolycos
 
 <div class="post" data-post-id="24297" data-author="Yasik2" data-date="2008-05-10T23:52:08+00:00" data-subject="">
 
-[http://www.youtube.com/watch?v=bGgLOrobf34](http://www.youtube.com/watch?v=bGgLOrobf34)  :twisted:
+[http://www.youtube.com/watch?v=bGgLOrobf34](http://www.youtube.com/watch?v=bGgLOrobf34) <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 [http://www.youtube.com/watch?v=FMmHX3WENHY](http://www.youtube.com/watch?v=FMmHX3WENHY)
 
@@ -1264,23 +1313,24 @@ this one special for Autolycos
 
 <div class="post" data-post-id="24330" data-author="Alberich" data-date="2008-05-13T19:16:29+00:00" data-subject="">
 
-[url:3bgw5ad9]http://www.youtube.com/watch?v=mlp5INAvV8U[/url:3bgw5ad9]
+http://www.youtube.com/watch?v=mlp5INAvV8U
 
 </div>
 
 <div class="post" data-post-id="24333" data-author="jezer" data-date="2008-05-13T23:35:48+00:00" data-subject="">
 
-[url:2vzzg7mo]http://www.youtube.com/watch?v=mlp5INAvV8U[/url:2vzzg7mo][/quote:2vzzg7mo]
+> <strong>Alberich wrote:</strong>
+> http://www.youtube.com/watch?v=mlp5INAvV8U
 
-Awesome video!  :D  For some reason I really liked the one where the guy tried to jump the hurdle and fell in the water... thats was a double failure! All of them were pretty good!
+Awesome video! <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> For some reason I really liked the one where the guy tried to jump the hurdle and fell in the water... thats was a double failure! All of them were pretty good!
 
 </div>
 
 <div class="post" data-post-id="24370" data-author="Alberich" data-date="2008-05-16T18:18:40+00:00" data-subject="">
 
-[url:1fh6lv6i]http://youtube.com/watch?v=IrYk2FylxfY[/url:1fh6lv6i]
+http://youtube.com/watch?v=IrYk2FylxfY
 
-[url:1fh6lv6i]http://youtube.com/watch?v=ShacMAn_HK8[/url:1fh6lv6i]
+http://youtube.com/watch?v=ShacMAn_HK8
 
 </div>
 
@@ -1294,15 +1344,18 @@ Ok, Ghostrider is a really gifted and ballsy rider, but I know sooner or later h
 
 Be u fisherman, be u shepherd, be u a fan of all things animated - click here.
 
-[url:1xn05an7]http://video.google.com/videoplay?docid=-9076980517948771212[/url:1xn05an7]
+http://video.google.com/videoplay?docid=-9076980517948771212
 
 </div>
 
 <div class="post" data-post-id="24403" data-author="Weasel" data-date="2008-05-19T14:47:31+00:00" data-subject="">
 
-Be u fisherman, be u shepherd, be u a fan of all things animated - click here.
-
-[url:8pp8w514]http://video.google.com/videoplay?docid=-9076980517948771212[/url:8pp8w514][/quote:8pp8w514]
+> <strong>Widow wrote:</strong>
+> Be u fisherman, be u shepherd, be u a fan of all things animated - click here.
+> 
+> 
+> 
+> http://video.google.com/videoplay?docid=-9076980517948771212
 
 loved it.
 
@@ -1310,19 +1363,19 @@ loved it.
 
 <div class="post" data-post-id="24489" data-author="Tap" data-date="2008-05-24T19:03:56+00:00" data-subject="">
 
-[url:rime48pj]http://www.youtube.com/watch?v=qmGVYki-oyQ[/url:rime48pj]
+http://www.youtube.com/watch?v=qmGVYki-oyQ
 
 </div>
 
 <div class="post" data-post-id="24512" data-author="Tap" data-date="2008-05-25T19:33:28+00:00" data-subject="">
 
-[url:1wvnz4qt]http://www.youtube.com/watch?v=1CAWNnMxQd4[/url:1wvnz4qt]
+http://www.youtube.com/watch?v=1CAWNnMxQd4
 
 </div>
 
 <div class="post" data-post-id="24523" data-author="Widow" data-date="2008-05-27T02:15:05+00:00" data-subject="">
 
-[url:2ls86fz2]http://www.youtube.com/watch?v=1x2rbmOyzgo[/url:2ls86fz2]
+http://www.youtube.com/watch?v=1x2rbmOyzgo
 
 Skate this!
 
@@ -1330,7 +1383,7 @@ Skate this!
 
 <div class="post" data-post-id="24589" data-author="Tap" data-date="2008-05-29T10:39:28+00:00" data-subject="">
 
-[url:1che5rwr]http://www.plicks.com/view/videos/Getting_Pulled_Over_By_The_Retarded_Cop/1204/1[/url:1che5rwr]
+http://www.plicks.com/view/videos/Getting_Pulled_Over_By_The_Retarded_Cop/1204/1
 
 </div>
 
@@ -1338,21 +1391,22 @@ Skate this!
 
 I've got this weird, quirky thing I do after sex...
 
-[url:2gsu2jzb]http://www.funnyordie.com/videos/76013aaf7c[/url:2gsu2jzb]
+http://www.funnyordie.com/videos/76013aaf7c
 
 </div>
 
 <div class="post" data-post-id="24779" data-author="firebrand" data-date="2008-06-07T20:27:55+00:00" data-subject="">
 
-[<LINK_TEXT text="http://news.aol.com/the-rewind/?feature ... 1200143003">http://news.aol.com/the-rewind/?feature=20080606121609990001&ncid=aolnws00150000000002&icid=100214839x1203464799x1200143003</LINK_TEXT>](http://news.aol.com/the-rewind/?feature=20080606121609990001&ncid=aolnws00150000000002&icid=100214839x1203464799x1200143003)
+[http://news.aol.com/the-rewind/?feature=20080606121609990001&ncid=aolnws00150000000002&icid=100214839x1203464799x1200143003](http://news.aol.com/the-rewind/?feature=20080606121609990001&ncid=aolnws00150000000002&icid=100214839x1203464799x1200143003)
 
-"anyone found bipedal in five wears his ass for a hat!" -gale --> raising arizona
+"anyone found bipedal in five wears his ass for a hat!" -gale --\> raising arizona
 
 </div>
 
 <div class="post" data-post-id="24780" data-author="Weasel" data-date="2008-06-07T20:57:45+00:00" data-subject="">
 
-http://news.aol.com/the-rewind/?feature=20080606121609990001&ncid=aolnws00150000000002&icid=100214839x1203464799x1200143003[/quote:tb4qyvwy]
+> <strong>firebrand wrote:</strong>
+> http://news.aol.com/the-rewind/?feature=20080606121609990001&ncid=aolnws00150000000002&icid=100214839x1203464799x1200143003
 
 That's absolutely disgusting.. and I am not at all surprised. 95% of this 
 
@@ -1368,8 +1422,6 @@ and people just ignored him and walked past while he was sprawled
 
 on the ground trying to drag himself back to his wheelchair.
 
- 
-
 And yes, I went over and picked him up helped him back into it.
 
 The person who did the hit and run should be jailed for life.
@@ -1378,13 +1430,16 @@ The person who did the hit and run should be jailed for life.
 
 <div class="post" data-post-id="24804" data-author="firebrand" data-date="2008-06-09T17:00:13+00:00" data-subject="">
 
-And yes, I went over and picked him up helped him back into it.
+> <strong>Weasel wrote:</strong>
+> And yes, I went over and picked him up helped him back into it.
+> 
+> 
+> 
+> The person who did the hit and run should be jailed for life.
 
-The person who did the hit and run should be jailed for life.[/quote:clsb6g4r]
+good on you for helping him, weasel. 
 
-good on you for helping him, weasel.  
-
-as for jailed for life, add to that that the driver needs to suffer the same situation - with HIM (the h-n-r driver) being the one who was hit and left for dead and no one to help him and then, yes, left alive and imprisoned in his battered and broken quadraplegic body with no nurse, no help, no hope of death to escape the hell of only being able to blink and sit in his own shite because no one will clean him.  
+as for jailed for life, add to that that the driver needs to suffer the same situation - with HIM (the h-n-r driver) being the one who was hit and left for dead and no one to help him and then, yes, left alive and imprisoned in his battered and broken quadraplegic body with no nurse, no help, no hope of death to escape the hell of only being able to blink and sit in his own shite because no one will clean him. 
 
 "i'm in a hostile environment. i'm totally unprepared. and i'm surrounded by a bunch of guys who probably want to kick my ass... it's like being back in high school!" -johnny cage - mortal kombat
 
@@ -1394,7 +1449,7 @@ as for jailed for life, add to that that the driver needs to suffer the same sit
 
 Anybody miss Mortal Kombat?
 
-[url:2ieurihp]http://www.geekstudent.com/?p=276[/url:2ieurihp]
+http://www.geekstudent.com/?p=276
 
 </div>
 
@@ -1402,7 +1457,7 @@ Anybody miss Mortal Kombat?
 
 The first 1:00m of the video is a hokey song, but the next 3:00m had my jaw on the floor. I think Cirque du Soliel has these girls on speed dial.
 
-[url:383biwq7]http://www.metacafe.com/watch/145193/solid_potato_salad_the_ross_sisters/[/url:383biwq7]
+http://www.metacafe.com/watch/145193/solid_potato_salad_the_ross_sisters/
 
 </div>
 
@@ -1414,15 +1469,15 @@ woah.. and that was in 1944!
 
 <div class="post" data-post-id="24849" data-author="*juggleblood*" data-date="2008-06-10T22:37:04+00:00" data-subject="">
 
-:shock: OMG :shock: 
+<img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> OMG <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
-Bravo :!:  :!:  :!:
+Bravo <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="24896" data-author="Widow" data-date="2008-06-11T19:46:53+00:00" data-subject="">
 
-[img:b2knelc4]http://www.anthonyjudelawrence.com/wp-content/uploads/image/smackdown.gif[/img:b2knelc4]
+![](http://www.anthonyjudelawrence.com/wp-content/uploads/image/smackdown.gif)
 
 </div>
 
@@ -1430,7 +1485,7 @@ Bravo :!:  :!:  :!:
 
 This is what AC -12 looks like irl
 
-[url:1rhpx1eu]http://www.break.com/index/a-real-ninja-turtle.html[/url:1rhpx1eu]
+http://www.break.com/index/a-real-ninja-turtle.html
 
 </div>
 
@@ -1448,7 +1503,7 @@ Dunno, but when I saw it I was laughing for 10 min straight.
 
 <div class="post" data-post-id="25001" data-author="Alberich" data-date="2008-06-15T04:20:39+00:00" data-subject="">
 
-[url:1f8aprkk]http://www.filmbaby.com/films/1208[/url:1f8aprkk]
+http://www.filmbaby.com/films/1208
 
 (credit Paul)
 
@@ -1456,7 +1511,7 @@ Dunno, but when I saw it I was laughing for 10 min straight.
 
 <div class="post" data-post-id="25018" data-author="Alberich" data-date="2008-06-15T18:56:12+00:00" data-subject="">
 
-[url:3u0h8bse]http://youtube.com/watch?v=OCbuRA_D3KU[/url:3u0h8bse]
+http://youtube.com/watch?v=OCbuRA_D3KU
 
 </div>
 
@@ -1464,7 +1519,7 @@ Dunno, but when I saw it I was laughing for 10 min straight.
 
 [http://youtube.com/watch?v=Y8aGlOj2VFo](http://youtube.com/watch?v=Y8aGlOj2VFo)
 
-!!!  :twisted:
+!!! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 1st part is "Painkiller" of Judas Priest
 
@@ -1480,15 +1535,16 @@ Dunno, but when I saw it I was laughing for 10 min straight.
 
 for Yasik.. titled "why wont you die"
 
-[url:1s6975je]http://youtube.com/watch?v=HlKzRI19rhE[/url:1s6975je]
+http://youtube.com/watch?v=HlKzRI19rhE
 
 </div>
 
 <div class="post" data-post-id="25029" data-author="Yasik2" data-date="2008-06-16T00:34:01+00:00" data-subject="">
 
-for Yasik.. titled "why wont you die"
-
-[url:1mzn8vnv]http://youtube.com/watch?v=HlKzRI19rhE[/url:1mzn8vnv][/quote:1mzn8vnv]
+> <strong>Weasel wrote:</strong>
+> for Yasik.. titled "why wont you die"
+> 
+> http://youtube.com/watch?v=HlKzRI19rhE
 
 Thanx, Weasel.
 
@@ -1514,13 +1570,13 @@ Add remarks next time. I havent received any notifications about cancellation of
 
 <div class="post" data-post-id="25036" data-author="Avatar" data-date="2008-06-16T04:31:43+00:00" data-subject="movie">
 
-You [i:3hee0hey]liked[/i:3hee0hey] Queen of the Damned?
+You <em>liked</em> Queen of the Damned?
 
 </div>
 
 <div class="post" data-post-id="25037" data-author="Avatar" data-date="2008-06-16T04:38:20+00:00" data-subject="movie">
 
-You [i:ypl6bxtk]liked[/i:ypl6bxtk] Queen of the Damned?
+You <em>liked</em> Queen of the Damned?
 
 </div>
 
@@ -1532,7 +1588,7 @@ You [i:ypl6bxtk]liked[/i:ypl6bxtk] Queen of the Damned?
 
 <div class="post" data-post-id="25098" data-author="Widow" data-date="2008-06-19T20:44:02+00:00" data-subject="">
 
-[url:3rxw1x0r]http://www.metacafe.com/watch/1008325/super_sprayer/[/url:3rxw1x0r]
+http://www.metacafe.com/watch/1008325/super_sprayer/
 
 I watched this thinking - OK, this is no big deal. And then...
 
@@ -1542,19 +1598,19 @@ I watched this thinking - OK, this is no big deal. And then...
 
 Anyone old enough to remember this show? I almost forgot how awesome it was.
 
-[url:8s6a0d61]http://www.youtube.com/watch?v=fktjw7gNv3M[/url:8s6a0d61]
+http://www.youtube.com/watch?v=fktjw7gNv3M
 
 </div>
 
 <div class="post" data-post-id="25119" data-author="PolkAdotS" data-date="2008-06-22T01:31:24+00:00" data-subject="">
 
-Man I was around 4 years old in 1986.  Although it reminds me of an old (I don't want to offend anyone, but) Mike Hammer black&white only in some Hollywood setting instead of I think Japan, perhaps China only Mike Hammer was about spies from (some Asian country) in other locations.  That just reminded me of Mike Hammer or the way to catch Mike Hammer.  He was a bad-ass, the guy with the bazoka looks like a chicken-shit. (In your clip there.)
+Man I was around 4 years old in 1986. Although it reminds me of an old (I don't want to offend anyone, but) Mike Hammer black\&white only in some Hollywood setting instead of I think Japan, perhaps China only Mike Hammer was about spies from (some Asian country) in other locations. That just reminded me of Mike Hammer or the way to catch Mike Hammer. He was a bad-ass, the guy with the bazoka looks like a chicken-shit. (In your clip there.)
 
 </div>
 
 <div class="post" data-post-id="25120" data-author="Tap" data-date="2008-06-22T02:18:39+00:00" data-subject="">
 
-[url:1aynq3bd]http://www.youtube.com/watch?v=B292wwnyCqs[/url:1aynq3bd]
+http://www.youtube.com/watch?v=B292wwnyCqs
 
 </div>
 
@@ -1562,7 +1618,7 @@ Man I was around 4 years old in 1986.  Although it reminds me of an old (I don't
 
 don't feel like searching YT for just the vid so watch inline, well worth it
 
-[url:3d7f8v89]http://gizmodo.com/5018606/750000+brick-kennedy-space-center-is-the-mother-of-all-lego-models[/url:3d7f8v89]
+http://gizmodo.com/5018606/750000+brick-kennedy-space-center-is-the-mother-of-all-lego-models
 
 </div>
 
@@ -1570,17 +1626,17 @@ don't feel like searching YT for just the vid so watch inline, well worth it
 
 Japanese Anime, live on stage. Yes. Live. On Stage.
 
-[url:2hz5r7wg]http://www.noob.us/humor/japanese-human-art-why-is-my-girlfriend-mad/[/url:2hz5r7wg]
+http://www.noob.us/humor/japanese-human-art-why-is-my-girlfriend-mad/
 
 </div>
 
 <div class="post" data-post-id="25156" data-author="Alberich" data-date="2008-06-23T19:00:47+00:00" data-subject="">
 
-presumably everyone interested has checked out the parts of the new G'n'R album (if you haven't head over to the Bay).  
+presumably everyone interested has checked out the parts of the new G'n'R album (if you haven't head over to the Bay). 
 
 In keeping with the theme (and because that's all i've been listening to since friday) lets revisit the classics
 
-[url:1fxopz8c]http://youtube.com/watch?v=XhycbtHfGP4&feature=related[/url:1fxopz8c]
+http://youtube.com/watch?v=XhycbtHfGP4&feature=related
 
 </div>
 
@@ -1588,19 +1644,20 @@ In keeping with the theme (and because that's all i've been listening to since f
 
 Just dumb gameshow luck...
 
-[url:4c4b1tlh]http://www.gigglesugar.com/1002750[/url:4c4b1tlh]
+http://www.gigglesugar.com/1002750
 
 </div>
 
 <div class="post" data-post-id="25160" data-author="Yasik2" data-date="2008-06-24T00:05:14+00:00" data-subject="">
 
-presumably everyone interested has checked out the parts of the new G'n'R album[/quote:3vb384mr]
+> <strong>Alberich wrote:</strong>
+> presumably everyone interested has checked out the parts of the new G'n'R album
 
 SILENCE !
 
 Isnt that ole Axel Rose, who used to get next to pretty young boys and feel them up?!
 
-By the power invested in me by hysterical uneducated masses i hereby pronounce him GUILTY !  :twisted:
+By the power invested in me by hysterical uneducated masses i hereby pronounce him GUILTY ! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -1622,13 +1679,13 @@ It's Haddo Gay! He's my Hero, i tells you!
 
 <div class="post" data-post-id="25241" data-author="Widow" data-date="2008-06-30T01:40:26+00:00" data-subject="">
 
-[img:3e7hfdqv]http://i32.tinypic.com/wjjuhg.gif[/img:3e7hfdqv]
+![](http://i32.tinypic.com/wjjuhg.gif)
 
 </div>
 
 <div class="post" data-post-id="25242" data-author="Widow" data-date="2008-06-30T01:58:07+00:00" data-subject="">
 
-[url:2dgdyp8t]http://s.mcstatic.com/Flash/vp/EmbedVideoPlayer_5.1.0.6.swf?itemID=1277415&mediaURL=http://akvideos.metacafe.com/ItemFiles/%5BFrom%20www.metacafe.com%5D%201277415.6757070.11.flv&normalizedTitle=&isViral=false&isWatermarked=false&postrollContentURL=http:/[/url:2dgdyp8t]
+http://s.mcstatic.com/Flash/vp/EmbedVideoPlayer_5.1.0.6.swf?itemID=1277415&mediaURL=http://akvideos.metacafe.com/ItemFiles/%5BFrom%20www.metacafe.com%5D%201277415.6757070.11.flv&normalizedTitle=&isViral=false&isWatermarked=false&postrollContentURL=http:/
 
 This link takes you to 5 pretty funny commercials. The last one is particularly funny.
 
@@ -1636,7 +1693,7 @@ This link takes you to 5 pretty funny commercials. The last one is particularly 
 
 <div class="post" data-post-id="25259" data-author="Tap" data-date="2008-07-02T20:35:44+00:00" data-subject="">
 
-[url:1zta4qon]http://www.youtube.com/watch?v=7LIm7gSV9Mc[/url:1zta4qon]
+http://www.youtube.com/watch?v=7LIm7gSV9Mc
 
 </div>
 
@@ -1664,19 +1721,19 @@ DISCO!
 
 <div class="post" data-post-id="25360" data-author="Yasik2" data-date="2008-07-12T09:49:29+00:00" data-subject="">
 
-[b:yh595991]Ms. Jenkins[/b:yh595991]: [i:yh595991][reciting a sentence for her speech therapy class][/i:yh595991] All right here goes. Speaking slowly as such can say just as much.
+<strong>Ms. Jenkins</strong>: <em>[reciting a sentence for her speech therapy class]</em> All right here goes. Speaking slowly as such can say just as much.
 
-[b:yh595991]Butt-head[/b:yh595991]: Whoa, huh huh, she just said "ass-munch".
+<strong>Butt-head</strong>: Whoa, huh huh, she just said "ass-munch".
 
-[b:yh595991]Beavis[/b:yh595991]: Heh heh, this chick rules.
+<strong>Beavis</strong>: Heh heh, this chick rules.
 
-[b:yh595991]Ms. Jenkins[/b:yh595991]: Now Butt-head you try one.
+<strong>Ms. Jenkins</strong>: Now Butt-head you try one.
 
-[i:yh595991][reciting another sentence][/i:yh595991]
+<em>[reciting another sentence]</em>
 
-[b:yh595991]Ms. Jenkins[/b:yh595991]: Half haste helps but whole haste hinders.
+<strong>Ms. Jenkins</strong>: Half haste helps but whole haste hinders.
 
-[b:yh595991]Butt-head[/b:yh595991]: Whoa, she just said "butt-hole". Huh huh. 
+<strong>Butt-head</strong>: Whoa, she just said "butt-hole". Huh huh. 
 
 [http://youtube.com/watch?v=JBsBzhpUgHE](http://youtube.com/watch?v=JBsBzhpUgHE)
 
@@ -1692,7 +1749,7 @@ Background music is from "Jaws", as you already guessed.
 
 <div class="post" data-post-id="25399" data-author="Alberich" data-date="2008-07-17T04:13:41+00:00" data-subject="">
 
-[url:1ubz5zvp]http://www.youtube.com/watch?v=WSjmvU_8xLY[/url:1ubz5zvp]
+http://www.youtube.com/watch?v=WSjmvU_8xLY
 
 </div>
 
@@ -1700,7 +1757,7 @@ Background music is from "Jaws", as you already guessed.
 
 Crazy funny: Karaoke for the hearing impaired!
 
-[url:u2n55bf7]http://humor.beecy.net/videos/karaoke/[/url:u2n55bf7]
+http://humor.beecy.net/videos/karaoke/
 
 </div>
 
@@ -1726,15 +1783,18 @@ worse vid ever dont watch it will hurt ya ears brain and senses
 
 You had me at Albi the racist dragon
 
-[url:7nt0m72y]http://www.youtube.com/watch?v=g9Qu3iP3RYA&feature=related[/url:7nt0m72y]
+http://www.youtube.com/watch?v=g9Qu3iP3RYA&feature=related
 
 </div>
 
 <div class="post" data-post-id="25415" data-author="Alberich" data-date="2008-07-19T16:32:01+00:00" data-subject="">
 
-You had me at Albi the racist dragon
-
-[url:28nvmnet]http://www.youtube.com/watch?v=g9Qu3iP3RYA&feature=related[/url:28nvmnet][/quote:28nvmnet]
+> <strong>Tap wrote:</strong>
+> You had me at Albi the racist dragon
+> 
+> 
+> 
+> http://www.youtube.com/watch?v=g9Qu3iP3RYA&feature=related
 
 LOL
 
@@ -1742,7 +1802,7 @@ LOL
 
 <div class="post" data-post-id="25417" data-author="Tap" data-date="2008-07-19T19:08:46+00:00" data-subject="I forgot how funny racism can be!!!!">
 
-[url:31955xhh]http://www.youtube.com/watch?v=jCKxWQCs3f0&feature=related[/url:31955xhh]
+http://www.youtube.com/watch?v=jCKxWQCs3f0&feature=related
 
 </div>
 
@@ -1750,7 +1810,7 @@ LOL
 
 You've seen the commercials...now enjoy this site
 
-[url:3kcfkggu]http://staythirstymyfriends.com[/url:3kcfkggu]
+http://staythirstymyfriends.com
 
 </div>
 
@@ -1770,7 +1830,7 @@ You've seen the commercials...now enjoy this site
 
 [http://www.youtube.com/watch?v=lr7OAAP-4-g](http://www.youtube.com/watch?v=lr7OAAP-4-g)
 
-"blast this christmas music.  it's joyful and triumphant" -the grinch --> how the grinch stole christmas
+"blast this christmas music. it's joyful and triumphant" -the grinch --\> how the grinch stole christmas
 
 </div>
 
@@ -1778,13 +1838,13 @@ You've seen the commercials...now enjoy this site
 
 awesome and educational!
 
-[url:1zj0utbn]http://www.youtube.com/watch?v=UoohXVsQ1NU[/url:1zj0utbn]
+http://www.youtube.com/watch?v=UoohXVsQ1NU
 
 </div>
 
 <div class="post" data-post-id="25522" data-author="Alberich" data-date="2008-08-01T21:19:57+00:00" data-subject="">
 
-[url:vobo9xpf]http://www.tuccille.com/blog/2008/07/eight-reasons-even-innocent-shouldnt.html[/url:vobo9xpf]
+http://www.tuccille.com/blog/2008/07/eight-reasons-even-innocent-shouldnt.html
 
 actually 2 videos, if you have some time they're well worth watching though
 
@@ -1800,7 +1860,7 @@ did i heard somebody said 'Assemble' !?
 
 <div class="post" data-post-id="25531" data-author="Alberich" data-date="2008-08-02T19:07:16+00:00" data-subject="">
 
-[url:2phwif3z]http://www.youtube.com/watch?v=N6PGtb3MGc4&NR=1[/url:2phwif3z]
+http://www.youtube.com/watch?v=N6PGtb3MGc4&NR=1
 
 </div>
 
@@ -1808,15 +1868,16 @@ did i heard somebody said 'Assemble' !?
 
 Impossible backflip. No seriously. Impossible.
 
-[url:3co5tiao]http://www.collegehumor.com/video:1822936[/url:3co5tiao]
+http://www.collegehumor.com/video:1822936
 
 </div>
 
 <div class="post" data-post-id="25605" data-author="Yasik2" data-date="2008-08-05T19:24:45+00:00" data-subject="">
 
-Impossible backflip. No seriously. Impossible.
-
-[url:3hrwf5qs]http://www.collegehumor.com/video:1822936[/url:3hrwf5qs][/quote:3hrwf5qs]
+> <strong>Widow wrote:</strong>
+> Impossible backflip. No seriously. Impossible.
+> 
+> http://www.collegehumor.com/video:1822936
 
 This is China, dude. Everything is possible when you know that failure leads to your execution by shooting.
 
@@ -1836,15 +1897,15 @@ This is China, dude. Everything is possible when you know that failure leads to 
 
 <div class="post" data-post-id="25714" data-author="Widow" data-date="2008-08-11T14:08:15+00:00" data-subject="">
 
-[img:1rn1zv9t]http://www.planetdan.net/pics/misc/puddlestomper.gif[/img:1rn1zv9t]
+![](http://www.planetdan.net/pics/misc/puddlestomper.gif)
 
 </div>
 
 <div class="post" data-post-id="25734" data-author="firebrand" data-date="2008-08-13T18:14:39+00:00" data-subject="">
 
-[<LINK_TEXT text="http://news.aol.com/article/burger-king ... ity/130601">http://news.aol.com/article/burger-king-worker-bathes-in-utility/130601</LINK_TEXT>](http://news.aol.com/article/burger-king-worker-bathes-in-utility/130601)
+[http://news.aol.com/article/burger-king-worker-bathes-in-utility/130601](http://news.aol.com/article/burger-king-worker-bathes-in-utility/130601)
 
-"greetings, alan now shut up"-archer -->small soldiers
+"greetings, alan now shut up"-archer --\>small soldiers
 
 </div>
 
@@ -1858,15 +1919,18 @@ This is China, dude. Everything is possible when you know that failure leads to 
 
 this is the toughest reporter EVER
 
-[url:175cve2q]http://www.cnn.com/video/#/video/world/2008/08/14/vo.gerogia.journalist.shot.gerogiastatetv[/url:175cve2q]
+http://www.cnn.com/video/#/video/world/2008/08/14/vo.gerogia.journalist.shot.gerogiastatetv
 
 </div>
 
 <div class="post" data-post-id="25742" data-author="Yasik2" data-date="2008-08-14T22:29:11+00:00" data-subject="">
 
-this is the toughest reporter EVER
-
-[url:1x45r18v]http://www.cnn.com/video/#/video/world/2008/08/14/vo.gerogia.journalist.shot.gerogiastatetv[/url:1x45r18v][/quote:1x45r18v]
+> <strong>Alberich wrote:</strong>
+> this is the toughest reporter EVER
+> 
+> 
+> 
+> http://www.cnn.com/video/#/video/world/2008/08/14/vo.gerogia.journalist.shot.gerogiastatetv
 
 imho, fake
 
@@ -1884,7 +1948,7 @@ Yeah, something doesn't seem right about that video. After the shots you clearly
 
 Maybe if she didn't enjoy showing all the crew her bleeding so much, and they had just shown the real video without the "cut scenes" afterwards... it might have some creditability. Also how do you get two cuts and from one bullet?
 
-Speaking of creditability and propaganda... those guys are supposed to be releasing the details about the dead yeti they found today... heh... we have just a bad photo as proof at the moment. *sigh*
+Speaking of creditability and propaganda... those guys are supposed to be releasing the details about the dead yeti they found today... heh... we have just a bad photo as proof at the moment. \*sigh\*
 
 </div>
 
@@ -1892,15 +1956,15 @@ Speaking of creditability and propaganda... those guys are supposed to be releas
 
 If no one has posted this than I must!!! How could I not have known this was out there!!!!!
 
-[url:2zs6izas]http://www.youtube.com/watch?v=jEOAh9RDIfI[/url:2zs6izas]
+http://www.youtube.com/watch?v=jEOAh9RDIfI
 
 </div>
 
 <div class="post" data-post-id="25845" data-author="Widow" data-date="2008-08-20T19:38:41+00:00" data-subject="">
 
-Do *NOT* disrespect the skateboard
+Do \*NOT\* disrespect the skateboard
 
-[url:2qcbpx8a]http://www.todaysbigfail.com/view/20080703[/url:2qcbpx8a]
+http://www.todaysbigfail.com/view/20080703
 
 </div>
 
@@ -1908,9 +1972,9 @@ Do *NOT* disrespect the skateboard
 
 Slothmud Implementors, please disregard the following video. It is completely boring, uncreative and a waste of your time. Don't click on the link. It has nothing to do with you.
 
-For everyone else, just imagine what *COULD* happen to Slothmud!
+For everyone else, just imagine what \*COULD\* happen to Slothmud!
 
-[url:3q45klqi]http://www.collegehumor.com/video:1824771[/url:3q45klqi]
+http://www.collegehumor.com/video:1824771
 
 </div>
 
@@ -1918,19 +1982,19 @@ For everyone else, just imagine what *COULD* happen to Slothmud!
 
 Best fundraising video for a non for profit group EVER
 
-[url:2979apiw]http://www.collegehumor.com/video:1775307[/url:2979apiw]
+http://www.collegehumor.com/video:1775307
 
 </div>
 
 <div class="post" data-post-id="25848" data-author="Alberich" data-date="2008-08-20T23:26:42+00:00" data-subject="">
 
-[img:100ofo25]http://img205.imageshack.us/img205/3816/1200613444663tb0.jpg[/img:100ofo25]
+![](http://img205.imageshack.us/img205/3816/1200613444663tb0.jpg)
 
 </div>
 
 <div class="post" data-post-id="25867" data-author="Yasik2" data-date="2008-08-22T19:39:55+00:00" data-subject="">
 
-STFU! Techno-viking commands you to! :D 
+STFU! Techno-viking commands you to! <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> 
 
 [http://www.youtube.com/watch?v=_1nzEFMjkI4](http://www.youtube.com/watch?v=_1nzEFMjkI4)
 
@@ -1940,7 +2004,7 @@ STFU! Techno-viking commands you to! :D
 
 I got this phone. It freaked me out when all the little dudes exploded. 
 
-[url:atuaq3pr]http://www.maniacworld.com/coolest-unboxing-of-a-phone-ever.html[/url:atuaq3pr]
+http://www.maniacworld.com/coolest-unboxing-of-a-phone-ever.html
 
 </div>
 
@@ -1948,9 +2012,9 @@ I got this phone. It freaked me out when all the little dudes exploded.
 
 oh man this is epic win, i tell you
 
-i imagine a guy who smoked weed or took a stamp *before* opening teh box
+i imagine a guy who smoked weed or took a stamp \*before\* opening teh box
 
-that would be a real bad trip :D
+that would be a real bad trip <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -1958,7 +2022,7 @@ that would be a real bad trip :D
 
 Catchy lil tune
 
-[url:1hzazk5w]http://www.youtube.com/watch?v=F3L3MVkjYWk[/url:1hzazk5w]
+http://www.youtube.com/watch?v=F3L3MVkjYWk
 
 </div>
 
@@ -1966,7 +2030,7 @@ Catchy lil tune
 
 File this under roflmao
 
-[url:2qew3dgp]http://www.collegehumor.com/video:1827668[/url:2qew3dgp]
+http://www.collegehumor.com/video:1827668
 
 </div>
 
@@ -1974,7 +2038,7 @@ File this under roflmao
 
 Why not to show off before a fight.
 
-[url:3vg5agap]http://www.youtube.com/watch?v=Q5W8WsaL66A[/url:3vg5agap]
+http://www.youtube.com/watch?v=Q5W8WsaL66A
 
 </div>
 
@@ -2004,7 +2068,7 @@ Caramelledansen!
 
 <div class="post" data-post-id="26166" data-author="Tap" data-date="2008-09-06T00:01:41+00:00" data-subject="Must not pee in pants">
 
-[url:2cvcrog9]http://www.youtube.com/watch?v=3eZBevXohCI[/url:2cvcrog9]
+http://www.youtube.com/watch?v=3eZBevXohCI
 
 </div>
 
@@ -2024,7 +2088,7 @@ Chainsaw maid
 
 <div class="post" data-post-id="26175" data-author="Tap" data-date="2008-09-06T09:40:20+00:00" data-subject="Vote Joad Cressbeckler &#x27;08">
 
-[url:2nvsmqi9]http://www.youtube.com/watch?v=0iqktCdX0hs[/url:2nvsmqi9]
+http://www.youtube.com/watch?v=0iqktCdX0hs
 
 </div>
 
@@ -2042,19 +2106,20 @@ true dat
 
 But when I can't see no boobies, I like to brush up on the acid-laden TV shows from the 60's. example:
 
-[url:39vn4fjn]http://www.youtube.com/watch?v=MzI6NrBdP7U[/url:39vn4fjn]
+http://www.youtube.com/watch?v=MzI6NrBdP7U
 
 </div>
 
 <div class="post" data-post-id="26178" data-author="Yasik2" data-date="2008-09-06T22:04:11+00:00" data-subject="">
 
-true dat
+> <strong>Tap wrote:</strong>
+> true dat
+> 
+> But when I can't see no boobies, I like to brush up on the acid-laden TV shows from the 60's
 
-But when I can't see no boobies, I like to brush up on the acid-laden TV shows from the 60's[/quote:1fx5jq9h]
+\- We don't need no education!
 
-- We don't need no education!
-
-- You do need it, because you have used double negation.
+\- You do need it, because you have used double negation.
 
 [http://www.youtube.com/watch?v=R8tKfvKhysY](http://www.youtube.com/watch?v=R8tKfvKhysY)
 
@@ -2072,9 +2137,10 @@ LHC Rap
 
 Words can only say so much...
 
-[quote:3g359nl0]Asked what it tasted like to give mouth-to-mouth to a cat, Machado laughed, grimaced and said: "Like fur."[/quote:3g359nl0]
+> <strong>Quote:</strong>
+> Asked what it tasted like to give mouth-to-mouth to a cat, Machado laughed, grimaced and said: "Like fur."
 
-[url:3g359nl0]http://cosmos.bcst.yahoo.com/up/player/popup/?rn=3906861&cl=9679040&ch=4226726&src=news[/url:3g359nl0]
+http://cosmos.bcst.yahoo.com/up/player/popup/?rn=3906861&cl=9679040&ch=4226726&src=news
 
 </div>
 
@@ -2084,7 +2150,7 @@ Buttered floor, Roomate War.
 
 I can imagine that this is what it looks like when ppls cast 'grease'.
 
-[url:2x6yri0j]http://www.filecabi.net/video/butter-floor.html[/url:2x6yri0j]
+http://www.filecabi.net/video/butter-floor.html
 
 </div>
 
@@ -2092,19 +2158,19 @@ I can imagine that this is what it looks like when ppls cast 'grease'.
 
 This guy would make a good thief.He always lands hit mark!
 
-[url:3rklupz5]http://www.filecabi.net/video/112776-baee.html[/url:3rklupz5]
+http://www.filecabi.net/video/112776-baee.html
 
 </div>
 
 <div class="post" data-post-id="26318" data-author="Mosaix" data-date="2008-09-14T22:42:27+00:00" data-subject="">
 
-[url:8liabk51]http://www.youtube.com/watch?v=OtbLTm7PTR4[/url:8liabk51]
+http://www.youtube.com/watch?v=OtbLTm7PTR4
 
-Case you get lost, the 2 main girls in the pics are Palin's daughters.  You can look up all kinds of fun Youtube on the Palin Girls.  
+Case you get lost, the 2 main girls in the pics are Palin's daughters. You can look up all kinds of fun Youtube on the Palin Girls. 
 
 Its the bush twins part II.
 
-Oh the holy hell if these were Obamas kids right guys :) !  What a field day you would have.
+Oh the holy hell if these were Obamas kids right guys <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> ! What a field day you would have.
 
 </div>
 
@@ -2116,33 +2182,38 @@ Oh the holy hell if these were Obamas kids right guys :) !  What a field day you
 
 <div class="post" data-post-id="26342" data-author="Mosaix" data-date="2008-09-16T19:50:00+00:00" data-subject="">
 
-[url:2k75b4xt]http://www.youtube.com/watch?v=hnb2IrsU1Cg[/url:2k75b4xt]
+http://www.youtube.com/watch?v=hnb2IrsU1Cg
 
-[url:2k75b4xt]http://www.youtube.com/watch?v=8G9jA-FGGd8[/url:2k75b4xt]
+http://www.youtube.com/watch?v=8G9jA-FGGd8
 
-[url:2k75b4xt]http://www.youtube.com/watch?v=0vxCgxRzjFQ[/url:2k75b4xt]
+http://www.youtube.com/watch?v=0vxCgxRzjFQ
 
 </div>
 
 <div class="post" data-post-id="26347" data-author="Medios" data-date="2008-09-16T20:32:24+00:00" data-subject="">
 
-[url:3sexklth]http://www.youtube.com/watch?v=OtbLTm7PTR4[/url:3sexklth]
+> <strong>Mosaix wrote:</strong>
+> http://www.youtube.com/watch?v=OtbLTm7PTR4
+> 
+> 
+> 
+> Case you get lost, the 2 main girls in the pics are Palin's daughters. You can look up all kinds of fun Youtube on the Palin Girls. 
+> 
+> Its the bush twins part II.
+> 
+> 
+> 
+> Oh the holy hell if these were Obamas kids right guys <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> ! What a field day you would have.
 
-Case you get lost, the 2 main girls in the pics are Palin's daughters.  You can look up all kinds of fun Youtube on the Palin Girls.  
+Once again you don't give a damn about issues. You care about some kid drinking alcohol? You telling me that every parent can stop their children from making mistakes? So now your against drinking? Oh wait it was your Democrat Woodrow Wilson who started prohibition.
 
-Its the bush twins part II.
+ So lemme get this right. Democrats are for the working class but yet they won't let us drill for oil or use any energy sources other than wind/solar which essentially will keep the price of gas up. They oppose drinking alcohol. They want to raise taxes on businesses. Government does not create jobs, businesses do. When the government raises taxes the corporations go overseas. With a "competitive" tax rate the companies would gladly stay here. Another Democrat Harry Truman dropped the bombs on Japan. Harry Truman was also president when we got involved in the Korean War(what a warmonger he was) Yet another Democrat FDR made it illegal to own gold and it was to be handed over to the treasury(executive order 6102). He also enacted The New Deal and Social Security which to this day have been overbloated, abused, and mismanaged socialist programs.
 
-Oh the holy hell if these were Obamas kids right guys :) !  What a field day you would have.[/quote:3sexklth]
+ You do know that social security comes out of your check. It is not free money. Lyndon B Johnson faked the Gulf of Tonkin incident and started the Vietnam war. JFK planned the bay of pigs and then in the last minute denied the rebels the air power they had guaranteed. In the end all of the USA supported rebels were slaughtered. So don't go around acting like Democrats don't start shit. All the politicians do. Your blatant blindness and hatred for conservatives is apparent. Don't let that cloud your judgement of your leaders. 
 
-Once again you don't give a damn about issues.  You care about some kid drinking alcohol?  You telling me that every parent can stop their children from making mistakes?  So now your against drinking?  Oh wait it was your Democrat Woodrow Wilson who started prohibition.
+This war in Iraq is a drop in the bucket compared to what your Democrat buddies have done. I know I know all those things were "the right thing to do". I don't know why you fail to understand that both parties are corrupt and all we got is to vote for the ones who say they won't expand the government. Sadly Ron Paul did not win the primary so we end up with 2 big spenders. 
 
-  So lemme get this right.  Democrats are for the working class but yet they won't let us drill for oil or use any energy sources other than wind/solar which essentially will keep the price of gas up.  They oppose drinking alcohol.  They want to raise taxes on businesses.  Government does not create jobs, businesses do.  When the government raises taxes the corporations go overseas.  With a "competitive" tax rate the companies would gladly stay here.  Another Democrat Harry Truman dropped the bombs on Japan.  Harry Truman was also president when we got involved in the Korean War(what a warmonger he was)    Yet another Democrat FDR made it illegal to own gold and it was to be handed over to the treasury(executive order 6102).  He also enacted The New Deal and Social Security which to this day have been overbloated, abused, and mismanaged socialist programs.
-
-  You do know that social security comes out of your check.  It is not free money.  Lyndon B Johnson faked the Gulf of Tonkin incident and started the Vietnam war.  JFK planned the bay of pigs and then in the last minute denied the rebels the air power they had guaranteed.  In the end all of the USA supported rebels were slaughtered.  So don't go around acting like Democrats don't start shit.  All the politicians do.  Your blatant blindness and hatred for conservatives is apparent.  Don't let that cloud your judgement of your leaders.  
-
-This war in Iraq is a drop in the bucket compared to what your Democrat buddies have done.  I know I know all those things were "the right thing to do".  I don't know why you fail to understand that both parties are corrupt and all we got is to vote for the ones who say they won't expand the government.  Sadly Ron Paul did not win the primary so we end up with 2 big spenders. 
-
- Lastly B Hussein Obama pledges to raise taxes on corporations and create jobs.  This is a reverse psychology.  The president cannot create jobs unless they are govt jobs and that will not help the economy.  More government spending is not the answer.  More taxes is not the answer.  If you think that Democrats give a fuck about your rights then maybe you need to read your history book a little more and stop watching CNN.
+ Lastly B Hussein Obama pledges to raise taxes on corporations and create jobs. This is a reverse psychology. The president cannot create jobs unless they are govt jobs and that will not help the economy. More government spending is not the answer. More taxes is not the answer. If you think that Democrats give a fuck about your rights then maybe you need to read your history book a little more and stop watching CNN.
 
 </div>
 
@@ -2150,27 +2221,31 @@ This war in Iraq is a drop in the bucket compared to what your Democrat buddies 
 
 Sorry but I must rebuke thee...
 
-[quote:1xtjty63]Democrats are for the working class but yet they won't let us drill for oil or use any energy sources other than wind/solar which essentially will keep the price of gas up[/quote:1xtjty63]
+> <strong>Quote:</strong>
+> Democrats are for the working class but yet they won't let us drill for oil or use any energy sources other than wind/solar which essentially will keep the price of gas up
 
-There is plenty of wind power available. The fact it would take enough windmills to cover the entire state of Texas  to power a single city is moot. All we have to do is annex Canada,Mexico and pretty much South America to meet the people's needs.
+There is plenty of wind power available. The fact it would take enough windmills to cover the entire state of Texas to power a single city is moot. All we have to do is annex Canada,Mexico and pretty much South America to meet the people's needs.
 
-[quote:1xtjty63]They oppose drinking alcohol.[/quote:1xtjty63]
+> <strong>Quote:</strong>
+> They oppose drinking alcohol.
 
-[img:1xtjty63]http://z.about.com/d/politicalhumor/1/0/v/j/kennedy_absolut.jpg[/img:1xtjty63]
+![](http://z.about.com/d/politicalhumor/1/0/v/j/kennedy_absolut.jpg)
 
-[quote:1xtjty63]The president cannot create jobs unless they are govt jobs and that will not help the economy[/quote:1xtjty63]
+> <strong>Quote:</strong>
+> The president cannot create jobs unless they are govt jobs and that will not help the economy
 
 Sorry, but just last week Obama had a speech in which he stated that people will change jobs and expect to make less until a later time when they can afford to make more. 
 
 yeah, i scratched my head on that one too... 
 
-<cont>
+\<cont\>
 
-[quote:1xtjty63] If you think that Democrats give a **** about your rights then maybe you need to read your history book a little more and stop watching CNN.[/quote:1xtjty63]
+> <strong>Quote:</strong>
+> If you think that Democrats give a \*\*\*\* about your rights then maybe you need to read your history book a little more and stop watching CNN.
 
-Again another falsehood. Democrats do give a **** about your rights. You obviously have too many and as promised, that will change.
+Again another falsehood. Democrats do give a \*\*\*\* about your rights. You obviously have too many and as promised, that will change.
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -2178,29 +2253,28 @@ Again another falsehood. Democrats do give a **** about your rights. You obvious
 
 Once again your a funny guy Minstrel, you sure can talk.
 
-Tap rants, but makes some sense.  Ted Kennedy is a drunk.
+Tap rants, but makes some sense. Ted Kennedy is a drunk.
 
 Keep pretending to be a progressive less-government voter, though you continue to post like a neo-conservative with Fascist undertones.
 
-Again you hate Obama, we get it.  The sun will still rise tomorrow if you hate Obama or not.
+Again you hate Obama, we get it. The sun will still rise tomorrow if you hate Obama or not.
 
-I dont have to prove anything to you, I'm trying to log onto a game and enjoy myself.  You really should try it sometime.  Your repeated political postings, including those of religious and racial intolerance have nothing to do with a slothmud game.   
+I dont have to prove anything to you, I'm trying to log onto a game and enjoy myself. You really should try it sometime. Your repeated political postings, including those of religious and racial intolerance have nothing to do with a slothmud game. 
 
-[img:2canz94e]http://i38.photobucket.com/albums/e101/AngelinaAnnFerretti/stupid.jpg[/img:2canz94e]
+![](http://i38.photobucket.com/albums/e101/AngelinaAnnFerretti/stupid.jpg)
 
 </div>
 
 <div class="post" data-post-id="26370" data-author="Mosaix" data-date="2008-09-17T15:49:20+00:00" data-subject="">
 
-[url:hcmu0u2d]http://www.youtube.com/watch?v=q-1xT5ewEmY[/url:hcmu0u2d]
+http://www.youtube.com/watch?v=q-1xT5ewEmY
 
 </div>
 
 <div class="post" data-post-id="26371" data-author="Poggle" data-date="2008-09-17T18:54:37+00:00" data-subject="use wikipedia: education r good">
 
-Keep pretending to be a progressive less-government voter, though you continue to post like a neo-conservative with Fascist undertones.
-
-[/quote:1749trgc]
+> <strong>Mosaix wrote:</strong>
+> Keep pretending to be a progressive less-government voter, though you continue to post like a neo-conservative with Fascist undertones.
 
 The word â€˜Fascismâ€™ is almost entirely meaningless. In conversation, of course, it is used even more wildly than in print. I have heard it applied to farmers, shopkeepers, Social Credit, corporal punishment, fox-hunting, bull-fighting, the 1922 Committee, the 1941 Committee, Kipling, Gandhi, Chiang Kai-Shek, homosexuality, Priestley's broadcasts, Youth Hostels, astrology, women, dogs and I do not know what else... almost any English person would accept â€˜bullyâ€™ as a synonym for â€˜Fascistâ€™. â€“ George Orwell, What is Fascism?. 1944.
 
@@ -2210,23 +2284,32 @@ The word â€˜Fascismâ€™ is almost entirely meaningless. In conversation,
 
 <div class="post" data-post-id="26374" data-author="Medios" data-date="2008-09-17T20:35:06+00:00" data-subject="">
 
-Once again your a funny guy Minstrel, you sure can talk.
+> <strong>Mosaix wrote:</strong>
+> Once again your a funny guy Minstrel, you sure can talk.
+> 
+> 
+> 
+> Tap rants, but makes some sense. Ted Kennedy is a drunk.
+> 
+> 
+> 
+> Keep pretending to be a progressive less-government voter, though you continue to post like a neo-conservative with Fascist undertones.
+> 
+> 
+> 
+> Again you hate Obama, we get it. The sun will still rise tomorrow if you hate Obama or not.
+> 
+> 
+> 
+> I dont have to prove anything to you, I'm trying to log onto a game and enjoy myself. You really should try it sometime. Your repeated political postings, including those of religious and racial intolerance have nothing to do with a slothmud game.
 
-Tap rants, but makes some sense.  Ted Kennedy is a drunk.
+So once again you duck the issues.... I never said I hate anyone, especially not the Communist Obama. If he wants to parade around and act like all the other politicians, lying and hiding his past that is fine. That does not mean I have to vote for him. And because I am not voting for him does not mean I am racist or hate the man. If these posts bother you so much then don't respond/read them. The fact of the matter is that all you can do is throw around words that you don't even know the meaning of. You also say stuff that has no bearing on the argument. I know you don't have to prove anything to me, you have already proven enough. 
 
-Keep pretending to be a progressive less-government voter, though you continue to post like a neo-conservative with Fascist undertones.
+Just like most of the Democrats(errr liberals) you cannot provide any information or any debate. You simply name call and shit talk. Maybe you need to look into running for public office since seemingly all you can do is duck the issues and make stuff up.
 
-Again you hate Obama, we get it.  The sun will still rise tomorrow if you hate Obama or not.
+Also, I never mentioned Teddy Kennedy but since you brought it up I will. Kennedy is a murderer. If you didn't know then maybe I will provide you with another history lesson.
 
-I dont have to prove anything to you, I'm trying to log onto a game and enjoy myself.  You really should try it sometime.  Your repeated political postings, including those of religious and racial intolerance have nothing to do with a slothmud game.[/quote:xqi5d6n9]
-
-So once again you duck the issues....  I never said I hate anyone, especially not the Communist Obama.  If he wants to parade around and act like all the other politicians, lying and hiding his past that is fine.  That does not mean I have to vote for him.  And because I am not voting for him does not mean I am racist or hate the man.  If these posts bother you so much then don't respond/read them.  The fact of the matter is that all you can do is throw around words that you don't even know the meaning of.  You also say stuff that has no bearing on the argument.  I know you don't have to prove anything to me, you have already proven enough.  
-
-Just like most of the Democrats(errr liberals) you cannot provide any information or any debate.  You simply name call and shit talk.  Maybe you need to look into running for public office since seemingly all you can do is duck the issues and make stuff up.
-
-Also, I never mentioned Teddy Kennedy but since you brought it up I will.  Kennedy is a murderer.  If you didn't know then maybe I will provide you with another history lesson.
-
-Do a search for ted kennedy chappaquiddick.  Therein you will find out how Ted Kennedy left a woman to die in his wrecked car off the Dike Bridge.  He not only left her there to die, but he tried to get other people to admit they were driving that night.  The man got off scott free just like OJ Simpson.  The difference being that it was not a jury that let him free.  Keep pretending your liberal buddies do no wrong.  Keep pretending that Democrats are "perfect".  Keep making a total fool of yourself.
+Do a search for ted kennedy chappaquiddick. Therein you will find out how Ted Kennedy left a woman to die in his wrecked car off the Dike Bridge. He not only left her there to die, but he tried to get other people to admit they were driving that night. The man got off scott free just like OJ Simpson. The difference being that it was not a jury that let him free. Keep pretending your liberal buddies do no wrong. Keep pretending that Democrats are "perfect". Keep making a total fool of yourself.
 
 </div>
 
@@ -2234,61 +2317,69 @@ Do a search for ted kennedy chappaquiddick.  Therein you will find out how Ted K
 
 Being a new player, not a member of DoW, and not an American, totally independant... Through all your moralizing and arguments... seeing this stupid crap in practically every single flippin thread... one thing is clear... 
 
-Your as bad as each other. :evil: 
+Your as bad as each other. <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom"> 
 
-If your going to whine make your own thread like I do! :twisted: At least that way... those of us who don't give a crap whether Mosaix or Medios is the awesomeness can avoid the cat fight.
+If your going to whine make your own thread like I do! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> At least that way... those of us who don't give a crap whether Mosaix or Medios is the awesomeness can avoid the cat fight.
 
- :x
+ <img src="/images/smilies/icon_mad.svg" alt=":x" title=":x" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="26378" data-author="Mosaix" data-date="2008-09-18T02:01:14+00:00" data-subject="">
 
-It is totally stupid.  
+It is totally stupid. 
 
-However one can only deal with so much fear-mongering, and trashy speculative commentary before they also respond.  
+However one can only deal with so much fear-mongering, and trashy speculative commentary before they also respond. 
 
 Bad Dog
 
-[img:3gth4vq4]http://www.my-bad-dog.com/images/bad-dog.jpg[/img:3gth4vq4]
+![](http://www.my-bad-dog.com/images/bad-dog.jpg)
 
 </div>
 
 <div class="post" data-post-id="26379" data-author="Medios" data-date="2008-09-18T06:03:06+00:00" data-subject="">
 
-Being a new player, not a member of DoW, and not an American, totally independant... Through all your moralizing and arguments... seeing this stupid crap in practically every single flippin thread... one thing is clear... 
-
-Your as bad as each other. :evil: 
-
-If your going to whine make your own thread like I do! :twisted: At least that way... those of us who don't give a crap whether Mosaix or Medios is the awesomeness can avoid the cat fight.
-
- :x[/quote:2w50fzrp]
+> <strong>jezer wrote:</strong>
+> Being a new player, not a member of DoW, and not an American, totally independant... Through all your moralizing and arguments... seeing this stupid crap in practically every single flippin thread... one thing is clear... 
+> 
+> 
+> 
+> Your as bad as each other. <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom"> 
+> 
+> 
+> 
+> If your going to whine make your own thread like I do! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> At least that way... those of us who don't give a crap whether Mosaix or Medios is the awesomeness can avoid the cat fight.
+> 
+> 
+> 
+> <img src="/images/smilies/icon_mad.svg" alt=":x" title=":x" width="15" height="15" class="smiley nozoom">
 
 Do I hear a fly buzzing?
 
 Yasik can I get a ruling please.
 
-[img:2w50fzrp]http://www.funnies.com/jokes2/fly_reverse_lg_wht.gif[/img:2w50fzrp]
+![](http://www.funnies.com/jokes2/fly_reverse_lg_wht.gif)
 
 </div>
 
 <div class="post" data-post-id="26380" data-author="Yasik2" data-date="2008-09-18T06:23:32+00:00" data-subject="">
 
-Do I hear a fly buzzing?
-
-Yasik can I get a ruling please.[/quote:36z0rir2]
+> <strong>Medios wrote:</strong>
+> Do I hear a fly buzzing?
+> 
+> Yasik can I get a ruling please.
 
 Thy calleth me and here I cometh !
 
 Enjoy teh tits as reward.
 
-[img:36z0rir2]http://yasik.kiev.ua/4chan/Tits2.jpg[/img:36z0rir2]
+![](http://yasik.kiev.ua/4chan/Tits2.jpg)
 
 </div>
 
 <div class="post" data-post-id="26381" data-author="jezer" data-date="2008-09-18T07:30:29+00:00" data-subject="">
 
-Which tit is Mike? Which tit is Mosaix?  :shock:  :twisted:
+Which tit is Mike? Which tit is Mosaix? <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -2308,7 +2399,7 @@ I have to say... tap sure knows his tits.
 
 Here FIVE tits at once.
 
-[img:2tsn3958]http://yasik.kiev.ua/4chan/Five_Tits.jpg[/img:2tsn3958]
+![](http://yasik.kiev.ua/4chan/Five_Tits.jpg)
 
 </div>
 
@@ -2316,19 +2407,19 @@ Here FIVE tits at once.
 
 Everyone enjoy the tits, Tap enjoy this guy:
 
-[img:1ipnx29r]http://yasik.kiev.ua/4chan/Cock.jpg[/img:1ipnx29r]
+![](http://yasik.kiev.ua/4chan/Cock.jpg)
 
 </div>
 
 <div class="post" data-post-id="26387" data-author="Tap" data-date="2008-09-18T10:28:14+00:00" data-subject="">
 
-[img:1iqm1rdi]http://users.fmrib.ox.ac.uk/~heidi/misc/resources/fdt_docs/question_mark_2.jpg[/img:1iqm1rdi]
+![](http://users.fmrib.ox.ac.uk/~heidi/misc/resources/fdt_docs/question_mark_2.jpg)
 
 </div>
 
 <div class="post" data-post-id="26388" data-author="jezer" data-date="2008-09-18T10:43:13+00:00" data-subject="">
 
-I think Yasik was asking you to enjoy the cock tap.  :wink:
+I think Yasik was asking you to enjoy the cock tap. <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -2336,7 +2427,7 @@ I think Yasik was asking you to enjoy the cock tap.  :wink:
 
 Everyone can get a good laugh from this one. it's an ad for Bud Light and all I can say is - "Swear Jar"
 
-[url:1opnib6a]http://www.funnyordie.com/videos/f2541a52b3[/url:1opnib6a]
+http://www.funnyordie.com/videos/f2541a52b3
 
 </div>
 
@@ -2344,7 +2435,7 @@ Everyone can get a good laugh from this one. it's an ad for Bud Light and all I 
 
 Yasik wants me to enjoy cock.Sigh.Just when I think he can't get any more doltish, he manages to one-up himself.
 
-[img:29p0m6k4]http://www.buffettworld.com/forum/forumimages/FUCKOFF_uncle-sam.gif[/img:29p0m6k4]
+![](http://www.buffettworld.com/forum/forumimages/FUCKOFF_uncle-sam.gif)
 
 </div>
 
@@ -2352,7 +2443,7 @@ Yasik wants me to enjoy cock.Sigh.Just when I think he can't get any more doltis
 
 Can't forget the one that absolutely everyone likes:
 
-[img:1h5g38tq]http://i173.photobucket.com/albums/w53/Yeeha_album/Donkey_1_arp_750px.jpg[/img:1h5g38tq]
+![](http://i173.photobucket.com/albums/w53/Yeeha_album/Donkey_1_arp_750px.jpg)
 
 </div>
 
@@ -2362,7 +2453,7 @@ Can't forget the one that absolutely everyone likes:
 
 Rupert Murdoch: Obama's economic policies are 'naive'
 
-Here is a good watch.  It explains why I am against Obama.  I will be waiting for someone to call Murdoch a racist fascist.  Tick Tock.
+Here is a good watch. It explains why I am against Obama. I will be waiting for someone to call Murdoch a racist fascist. Tick Tock.
 
 </div>
 
@@ -2370,7 +2461,7 @@ Here is a good watch.  It explains why I am against Obama.  I will be waiting fo
 
 Murdoch is a racist fascist.
 
-[img:1nhv8iax]http://images.wikia.com/uncyclopedia/images/1/15/Dwight_schultz.jpg[/img:1nhv8iax]
+![](http://images.wikia.com/uncyclopedia/images/1/15/Dwight_schultz.jpg)
 
 </div>
 
@@ -2382,9 +2473,9 @@ heh, of course he is. Anyone who dares say a word against the Anointed One (aka,
 
 <div class="post" data-post-id="26423" data-author="Tap" data-date="2008-09-21T21:56:00+00:00" data-subject="">
 
-The next 8 weeks are going to be very interesting. Obama has turned up the notch on the race card. He is asking his supporters who discuss/argue the issues with his opponents"to get in their face" [/color:1e9rsvb0]. People should bring such facts to others attention. If non-American/non-interested/Pro-NObama's  want to complain, then to hell with them. Obama is bad news, the more people can be informed about it, the better. But the work is there against them as the "press" can't seem to get enough of coddling the future would be "messiah". They either refuse to discuss his associations or try to blow smoke up everyones ass about how great he is. This being a video thread...here's your purely random clip.
+The next 8 weeks are going to be very interesting. Obama has turned up the notch on the race card. He is asking his supporters who discuss/argue the issues with his opponents"to get in their face" . People should bring such facts to others attention. If non-American/non-interested/Pro-NObama's want to complain, then to hell with them. Obama is bad news, the more people can be informed about it, the better. But the work is there against them as the "press" can't seem to get enough of coddling the future would be "messiah". They either refuse to discuss his associations or try to blow smoke up everyones ass about how great he is. This being a video thread...here's your purely random clip.
 
-[url:1e9rsvb0]http://www.youtube.com/watch?v=4d7XuZg5gkk[/url:1e9rsvb0]
+http://www.youtube.com/watch?v=4d7XuZg5gkk
 
 </div>
 
@@ -2406,17 +2497,20 @@ Yiff!
 
 <div class="post" data-post-id="26473" data-author="Yasik2" data-date="2008-09-26T05:11:43+00:00" data-subject="">
 
-Yiff!
+> <strong>brady wrote:</strong>
+> Yiff!
+> 
+> 
+> 
+> [http://www.youtube.com/watch?v=XHZLyjzTIgA](http://www.youtube.com/watch?v=XHZLyjzTIgA)
 
-[http://www.youtube.com/watch?v=XHZLyjzTIgA](http://www.youtube.com/watch?v=XHZLyjzTIgA)[/quote:1rd600g3]
-
-[img:1rd600g3][http://yasik.kiev.ua/4chan/Yiff_in_hell.jpg](http://yasik.kiev.ua/4chan/Yiff_in_hell.jpg)[/img:1rd600g3]
+(image: /[url=http://yasik.kiev.ua/4chan/Yiff\_in\_hell.jpg]http://yasik.kiev.ua/4chan/Yiff\_in\_hell.jpg[/url])
 
 </div>
 
 <div class="post" data-post-id="26474" data-author="Yasik2" data-date="2008-09-26T08:17:24+00:00" data-subject="">
 
-[img:2akrbfnj]http://yasik.kiev.ua/RoboGTFO.jpg[/img:2akrbfnj]
+![](http://yasik.kiev.ua/RoboGTFO.jpg)
 
 </div>
 
@@ -2428,15 +2522,15 @@ Yiff!
 
 <div class="post" data-post-id="26511" data-author="Tap" data-date="2008-10-01T02:03:59+00:00" data-subject="">
 
-[url:3ndppw92]http://www.holytaco.com/2008/09/26/magnum-pi-wasnt-even-trying-at-the-end/[/url:3ndppw92]
+http://www.holytaco.com/2008/09/26/magnum-pi-wasnt-even-trying-at-the-end/
 
 </div>
 
 <div class="post" data-post-id="26579" data-author="jezer" data-date="2008-10-07T06:26:42+00:00" data-subject="">
 
-Sloth theme Song for for all the Addicts... Like myself... :cry: 
+Sloth theme Song for for all the Addicts... Like myself... <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> 
 
-[url:kten2llq]http://www.youtube.com/watch?v=KE2orthS3TQ[/url:kten2llq]
+http://www.youtube.com/watch?v=KE2orthS3TQ
 
 </div>
 
@@ -2464,7 +2558,7 @@ that's a great cover imho
 
 [http://www.youtube.com/watch?v=KnjPcxcIVB4](http://www.youtube.com/watch?v=KnjPcxcIVB4)
 
-Iron Maiden, F* YEAH !  :twisted:
+Iron Maiden, F\* YEAH ! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -2480,9 +2574,12 @@ or it's not teh cover ?
 
 <div class="post" data-post-id="26622" data-author="Rynquald" data-date="2008-10-08T20:18:35+00:00" data-subject="">
 
-http://www.youtube.com/watch?v=KnjPcxcIVB4
-
-Iron Maiden, F* YEAH ! Twisted Evil[/quote:2ixfog27]
+> <strong>Yasik2 wrote:</strong>
+> http://www.youtube.com/watch?v=KnjPcxcIVB4
+> 
+> 
+> 
+> Iron Maiden, F\* YEAH ! Twisted Evil
 
 Rofl, paused the Iron Maiden version of that to watch the vid. Sounded like Bruce Dickinson had just gotten a really bad cold.
 
@@ -2492,23 +2589,24 @@ Rofl, paused the Iron Maiden version of that to watch the vid. Sounded like Bruc
 
 This guy won't be asked to speak at any events netime soon...
 
-[url:7beccqc6]http://www.youtube.com/watch?v=hPywKOTQZig[/url:7beccqc6]
+http://www.youtube.com/watch?v=hPywKOTQZig
 
 </div>
 
 <div class="post" data-post-id="26633" data-author="Tap" data-date="2008-10-10T03:28:54+00:00" data-subject="All your Corm R belong to Rachel Ray">
 
-[url:1f00kq45]http://www.break.com/index/rachael-ray-corn-porn.html?ref=track7[/url:1f00kq45]
+http://www.break.com/index/rachael-ray-corn-porn.html?ref=track7
 
 </div>
 
 <div class="post" data-post-id="26634" data-author="Yasik2" data-date="2008-10-10T16:12:28+00:00" data-subject="Re: All your Corm R belong to Rachel Ray">
 
-[url:34fg3hnu][<LINK_TEXT text="http://www.break.com/index/rachael-ray- ... ref=track7">http://www.break.com/index/rachael-ray-corn-porn.html?ref=track7</LINK_TEXT>](http://www.break.com/index/rachael-ray-corn-porn.html?ref=track7)[/url:34fg3hnu][/quote:34fg3hnu]
+> <strong>Tap wrote:</strong>
+> [url=http://www.break.com/index/rachael-ray-corn-porn.html?ref=track7]http://www.break.com/index/rachael-ray-corn-porn.html?ref=track7
 
-i suppose if we'd see that TV show a bit longer she'll start to do even moar naughty things with that corn :D 
+i suppose if we'd see that TV show a bit longer she'll start to do even moar naughty things with that corn <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> 
 
-who let  lustful byatch on screen anyway?!
+who let lustful byatch on screen anyway?!
 
 PS. Internet is for Corn after all : [http://www.youtube.com/watch?v=4pn4kZyqVRU](http://www.youtube.com/watch?v=4pn4kZyqVRU)
 
@@ -2530,13 +2628,13 @@ man i would bang the shit out of rachel ray
 
 got inebriated and found my digital:
 
-[url:2y8zrjot]http://www.youtube.com/watch?v=OKU0pJ_46LY[/url:2y8zrjot]
+http://www.youtube.com/watch?v=OKU0pJ_46LY
 
 </div>
 
 <div class="post" data-post-id="26715" data-author="Alberich" data-date="2008-10-15T20:11:50+00:00" data-subject="">
 
-[url:2qsr87de]http://www.youtube.com/watch?v=lpDo0BdC2SU[/url:2qsr87de]
+http://www.youtube.com/watch?v=lpDo0BdC2SU
 
 </div>
 
@@ -2548,7 +2646,7 @@ I saw those guys play live...they are much less cool in person. :/
 
 <div class="post" data-post-id="26717" data-author="Alberich" data-date="2008-10-15T21:22:01+00:00" data-subject="">
 
-oh i believe it, smaller makeup budget if nothing else for live shows :)
+oh i believe it, smaller makeup budget if nothing else for live shows <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 that vid just cracked me up (well, that and the name of the song)
 
@@ -2558,7 +2656,7 @@ that vid just cracked me up (well, that and the name of the song)
 
 I'm hooked. I'm def throwing an epic in game named Finntroll Trollhammeren. In one of the new areas on Thule. Feel free to email me ideas for its behaviour etc. My username at slothmud.org.
 
-edit: add random video:[url:2p1hlwsi]http://www.youtube.com/watch?v=k5ODXwu7OlM[/url:2p1hlwsi]
+edit: add random video:http://www.youtube.com/watch?v=k5ODXwu7OlM
 
 </div>
 
@@ -2570,15 +2668,16 @@ It's like prehistoric Rammstein.
 
 <div class="post" data-post-id="26754" data-author="*juggleblood*" data-date="2008-10-18T02:19:58+00:00" data-subject="">
 
-[url:18pwkcyx]http://www.youtube.com/watch?v=JWoUqkRMSic[/url:18pwkcyx]
+http://www.youtube.com/watch?v=JWoUqkRMSic
 
 </div>
 
 <div class="post" data-post-id="26755" data-author="Yasik2" data-date="2008-10-18T02:39:02+00:00" data-subject="">
 
-[url:i20qgssf]http://www.youtube.com/watch?v=JWoUqkRMSic[/url:i20qgssf][/quote:i20qgssf]
+> <strong>juggleblood wrote:</strong>
+> http://www.youtube.com/watch?v=JWoUqkRMSic
 
-NOOOOOO!!! a techno!!! MY EARS !!!! AAAAARGH!!!  :evil:
+NOOOOOO!!! a techno!!! MY EARS !!!! AAAAARGH!!! <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -2590,37 +2689,38 @@ really? I thought all you ukranian types liked techno
 
 <div class="post" data-post-id="26769" data-author="Yasik2" data-date="2008-10-19T04:33:29+00:00" data-subject="">
 
-really? I thought all you ukranian types liked techno[/quote:1efg9uti]
+> <strong>juggleblood wrote:</strong>
+> really? I thought all you ukranian types liked techno
 
 i has not any suppositions about what made you think so
 
-probably my avatar picture?  :roll:
+probably my avatar picture? <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="26795" data-author="Mosaix" data-date="2008-10-21T04:07:09+00:00" data-subject="">
 
-[url:2ubi184a]http://www.youtube.com/watch?v=b5t5GukrWOU[/url:2ubi184a]
+http://www.youtube.com/watch?v=b5t5GukrWOU
 
-[url:2ubi184a]http://www.youtube.com/watch?v=LmeEaWBO3ww[/url:2ubi184a]
+http://www.youtube.com/watch?v=LmeEaWBO3ww
 
-[url:2ubi184a]http://www.youtube.com/watch?v=1BHLEjxjj2c[/url:2ubi184a]
+http://www.youtube.com/watch?v=1BHLEjxjj2c
 
-[url:2ubi184a]http://www.youtube.com/watch?v=3Jv3b0VKec8[/url:2ubi184a]
+http://www.youtube.com/watch?v=3Jv3b0VKec8
 
 </div>
 
 <div class="post" data-post-id="26830" data-author="Mosaix" data-date="2008-10-24T00:50:39+00:00" data-subject="">
 
-[url:3v6wal4n]http://www.youtube.com/watch?v=S3ZkI0AAlKM[/url:3v6wal4n]
+http://www.youtube.com/watch?v=S3ZkI0AAlKM
 
 </div>
 
 <div class="post" data-post-id="26841" data-author="Mike" data-date="2008-10-25T10:16:21+00:00" data-subject="">
 
-#1 - [http://www.youtube.com/watch?v=L38wthA4Ld0](http://www.youtube.com/watch?v=L38wthA4Ld0)
+\#1 - [http://www.youtube.com/watch?v=L38wthA4Ld0](http://www.youtube.com/watch?v=L38wthA4Ld0)
 
-#2 - [http://www.youtube.com/watch?v=Qq8Uc5BFogE](http://www.youtube.com/watch?v=Qq8Uc5BFogE)
+\#2 - [http://www.youtube.com/watch?v=Qq8Uc5BFogE](http://www.youtube.com/watch?v=Qq8Uc5BFogE)
 
 </div>
 
@@ -2640,13 +2740,13 @@ Muppet Show FTW!
 
 <div class="post" data-post-id="26939" data-author="Tap" data-date="2008-11-01T14:21:58+00:00" data-subject="Spongebob Metalpants">
 
-[url:ybo1j3o8]http://www.youtube.com/watch?v=if5dhw3RA6k[/url:ybo1j3o8]
+http://www.youtube.com/watch?v=if5dhw3RA6k
 
 </div>
 
 <div class="post" data-post-id="26948" data-author="Tap" data-date="2008-11-02T05:24:02+00:00" data-subject="">
 
-[url:3k4h0mjx]http://www.youtube.com/watch?v=wpvcyJ5fKuA[/url:3k4h0mjx]
+http://www.youtube.com/watch?v=wpvcyJ5fKuA
 
 </div>
 
@@ -2654,13 +2754,13 @@ Muppet Show FTW!
 
 top notch crank call...
 
-[url:2pbcf10p]http://www.youtube.com/watch?v=z1_qx8yXjt0[/url:2pbcf10p]
+http://www.youtube.com/watch?v=z1_qx8yXjt0
 
 </div>
 
 <div class="post" data-post-id="26975" data-author="*juggleblood*" data-date="2008-11-03T23:10:34+00:00" data-subject="">
 
-[url:kcs0504o]http://www.youtube.com/watch?v=GAPusYNSc_o[/url:kcs0504o]
+http://www.youtube.com/watch?v=GAPusYNSc_o
 
 Monkey 10 : Tigers 0
 
@@ -2670,7 +2770,7 @@ Monkey 10 : Tigers 0
 
 Good Fishin.
 
-[url:1v897lmi]http://www.youtube.com/watch?v=okUn3Rs2t1s[/url:1v897lmi]
+http://www.youtube.com/watch?v=okUn3Rs2t1s
 
 </div>
 
@@ -2678,13 +2778,13 @@ Good Fishin.
 
 Enjoy!!
 
-[url:16n10x8i]http://www.southparkstudios.com/episodes/207897[/url:16n10x8i]
+http://www.southparkstudios.com/episodes/207897
 
 </div>
 
 <div class="post" data-post-id="27054" data-author="Yasik2" data-date="2008-11-07T01:10:38+00:00" data-subject="">
 
-[img:2e7gwwer]http://yasik.kiev.ua/4chan/Obama_Tits_or_GTFO.jpg[/img:2e7gwwer]
+![](http://yasik.kiev.ua/4chan/Obama_Tits_or_GTFO.jpg)
 
 </div>
 
@@ -2692,13 +2792,13 @@ Enjoy!!
 
 As you wish
 
-[url:2ds54643]http://www.metacafe.com/watch/951358/cute_tits[/url:2ds54643]
+http://www.metacafe.com/watch/951358/cute_tits
 
 </div>
 
 <div class="post" data-post-id="27056" data-author="Yasik2" data-date="2008-11-07T01:38:06+00:00" data-subject="">
 
-[img:recrddss]http://yasik.kiev.ua/4chan/MOAR_Dragonball_1.jpg[/img:recrddss]
+![](http://yasik.kiev.ua/4chan/MOAR_Dragonball_1.jpg)
 
 </div>
 
@@ -2730,7 +2830,7 @@ that is tres bizarre, u sure thats not a lip sync or something?
 
 [http://www.youtube.com/watch?v=A7t0VywKtKk](http://www.youtube.com/watch?v=A7t0VywKtKk)
 
-A greatest ever outfit for sexual role games!  :D
+A greatest ever outfit for sexual role games! <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -2742,9 +2842,9 @@ And it's just one party point of view.
 
 But it's the video you must see to gain 'panoramic view'
 
-[url:lgnukdoh]http://www.war080808.com[/url:lgnukdoh]
+http://www.war080808.com
 
- :!:
+ <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -2752,25 +2852,30 @@ But it's the video you must see to gain 'panoramic view'
 
 LMFAO this is awesome
 
-[url:2prizx4b]http://www.theonion.com/content/video/obama_win_causes_obsessive[/url:2prizx4b]
+http://www.theonion.com/content/video/obama_win_causes_obsessive
 
 </div>
 
 <div class="post" data-post-id="27149" data-author="Vixn" data-date="2008-11-12T18:25:06+00:00" data-subject="">
 
-This one is not so funny as Yasik's videos.
-
-And it's just one party point of view.
-
-But it's the video you must see to gain 'panoramic view'
-
-[url:319cs8tt]http://www.war080808.com[/url:319cs8tt]
-
- :!:[/quote:319cs8tt]
+> <strong>Vixn wrote:</strong>
+> This one is not so funny as Yasik's videos.
+> 
+> And it's just one party point of view.
+> 
+> But it's the video you must see to gain 'panoramic view'
+> 
+> 
+> 
+> http://www.war080808.com
+> 
+> 
+> 
+> <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom">
 
 Huh, this film is forbidden now in Ukraine due to 'discredit reputation of the state'. It's kinda strange display of the freedom of speech for such well-known democratic state.
 
-Once again IF you want to learn more about recent conflict in South Ossetia see the documentary film on [url:319cs8tt]http://www.war080808.com[/url:319cs8tt]
+Once again IF you want to learn more about recent conflict in South Ossetia see the documentary film on http://www.war080808.com
 
 Vixn
 
@@ -2778,11 +2883,14 @@ Vixn
 
 <div class="post" data-post-id="27151" data-author="Yasik2" data-date="2008-11-13T06:55:05+00:00" data-subject="">
 
-Huh, this film is forbidden now in Ukraine due to 'discredit reputation of the state'. It's kinda strange display of the freedom of speech for such well-known democratic state.
-
-Once again IF you want to learn more about recent conflict in South Ossetia see the documentary film on [url:1ptntctk]http://www.war080808.com[/url:1ptntctk]
-
-Vixn[/quote:1ptntctk]
+> <strong>Vixn wrote:</strong>
+> Huh, this film is forbidden now in Ukraine due to 'discredit reputation of the state'. It's kinda strange display of the freedom of speech for such well-known democratic state.
+> 
+> 
+> 
+> Once again IF you want to learn more about recent conflict in South Ossetia see the documentary film on http://www.war080808.com
+> 
+> Vixn
 
 It is banned because it consists of lies and brain-washing propaganda a bit more than completely.
 
@@ -2790,7 +2898,8 @@ It is banned because it consists of lies and brain-washing propaganda a bit more
 
 <div class="post" data-post-id="27159" data-author="Vixn" data-date="2008-11-13T17:34:38+00:00" data-subject="">
 
-It is banned because it consists of lies and brain-washing propaganda a bit more than completely.[/quote:1k2ev04k]
+> <strong>Yasik2 wrote:</strong>
+> It is banned because it consists of lies and brain-washing propaganda a bit more than completely.
 
 Well it's your opinion. I even can admit you're right. But I can see Ukrainian TV and make my own opinion. Don't you think it's kinda odd for such aggressive and imperialistic country as Russia to make so brain-washing propaganda movie but do not forbid their own people see CNN or BBC or TV Inter like Yuschenko did?
 
@@ -2798,7 +2907,8 @@ Well it's your opinion. I even can admit you're right. But I can see Ukrainian T
 
 <div class="post" data-post-id="27166" data-author="Yasik2" data-date="2008-11-13T19:36:51+00:00" data-subject="">
 
-Well it's your opinion. I even can admit you're right. But I can see Ukrainian TV and make my own opinion. Don't you think it's kinda odd for such aggressive and imperialistic country as Russia to make so brain-washing propaganda movie but do not forbid their own people see CNN or BBC or TV Inter like Yuschenko did?[/quote:6c0buhjn]
+> <strong>Vixn wrote:</strong>
+> Well it's your opinion. I even can admit you're right. But I can see Ukrainian TV and make my own opinion. Don't you think it's kinda odd for such aggressive and imperialistic country as Russia to make so brain-washing propaganda movie but do not forbid their own people see CNN or BBC or TV Inter like Yuschenko did?
 
 Noone should not make any desicions or opinions based on zombovision, which became a mere politicized tool for control of public mood.
 
@@ -2812,9 +2922,12 @@ Let's not continue this conversation, we won't discover the truth, just blaming 
 
 <div class="post" data-post-id="27167" data-author="Stark" data-date="2008-11-13T20:31:10+00:00" data-subject="">
 
-LMFAO this is awesome
-
-[url:334dqgli]http://www.theonion.com/content/video/obama_win_causes_obsessive[/url:334dqgli][/quote:334dqgli]
+> <strong>Weasel wrote:</strong>
+> LMFAO this is awesome
+> 
+> 
+> 
+> http://www.theonion.com/content/video/obama_win_causes_obsessive
 
 Ahh hhahahaha, that's hilarious
 
@@ -2822,7 +2935,7 @@ Ahh hhahahaha, that's hilarious
 
 <div class="post" data-post-id="27274" data-author="Weasel" data-date="2008-11-22T15:50:22+00:00" data-subject="">
 
-[url:100zi5d9]http://www.youtube.com/watch?v=bNmcf4Y3lGM[/url:100zi5d9] hehe
+http://www.youtube.com/watch?v=bNmcf4Y3lGM hehe
 
 </div>
 
@@ -2838,13 +2951,13 @@ roflmao
 
 <div class="post" data-post-id="27276" data-author="Tap" data-date="2008-11-22T19:40:45+00:00" data-subject="">
 
-[url:2bvdvf06]http://www.youtube.com/watch?v=a8lvc-azCXY[/url:2bvdvf06]
+http://www.youtube.com/watch?v=a8lvc-azCXY
 
 </div>
 
 <div class="post" data-post-id="27278" data-author="Tap" data-date="2008-11-23T04:26:42+00:00" data-subject="">
 
-[url:3a3iewkl]http://www.whoneedstelevision.com/?video_id=16644[/url:3a3iewkl]
+http://www.whoneedstelevision.com/?video_id=16644
 
 </div>
 
@@ -2858,15 +2971,15 @@ roflmao
 
 [http://www.youtube.com/watch?v=ly8_wwGuU2Q](http://www.youtube.com/watch?v=ly8_wwGuU2Q)
 
-Damn that Bethesda bastards! They've made it freaking oblivion-cloned 3D-shooter!  :evil:
+Damn that Bethesda bastards! They've made it freaking oblivion-cloned 3D-shooter! <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="27306" data-author="Alberich" data-date="2008-11-28T16:08:58+00:00" data-subject="">
 
-apologies, i was supposed to post this yesterday but i got full and drunk and forgot....  :roll: 
+apologies, i was supposed to post this yesterday but i got full and drunk and forgot.... <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> 
 
-[url:29lufz51]http://tinyurl.com/6ae2at[/url:29lufz51]
+http://tinyurl.com/6ae2at
 
 </div>
 
@@ -2892,13 +3005,13 @@ apologies, i was supposed to post this yesterday but i got full and drunk and fo
 
 [http://www.youtube.com/watch?v=3XGJq8wrw5I](http://www.youtube.com/watch?v=3XGJq8wrw5I)
 
-Oi !  :D
+Oi ! <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="27428" data-author="Tap" data-date="2008-12-12T09:20:53+00:00" data-subject="">
 
-[url:1e3v9hr4]http://video.yahoo.com/network/100284668?v=3999932[/url:1e3v9hr4]
+http://video.yahoo.com/network/100284668?v=3999932
 
 </div>
 
@@ -2906,7 +3019,7 @@ Oi !  :D
 
 [http://www.youtube.com/watch?v=4itQnWdCIxQ](http://www.youtube.com/watch?v=4itQnWdCIxQ)
 
-don't let *anyone* hear/see you listening to this
+don't let \*anyone\* hear/see you listening to this
 
 </div>
 
@@ -2914,9 +3027,9 @@ don't let *anyone* hear/see you listening to this
 
 [http://www.youtube.com/watch?v=nAR4ieUrxUM](http://www.youtube.com/watch?v=nAR4ieUrxUM)
 
-80's F**ING FOREVER ! 
+80's F\*\*ING FOREVER ! 
 
-\m/   :twisted:   \m/
+\\m/ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> \\m/
 
 </div>
 
@@ -2926,7 +3039,7 @@ don't let *anyone* hear/see you listening to this
 
 There's nowai anything can be better than this one!
 
-\m/  :twisted:  \m/
+\\m/ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> \\m/
 
 </div>
 
@@ -2934,7 +3047,7 @@ There's nowai anything can be better than this one!
 
 [http://www.youtube.com/watch?v=KaJSZ9JK42I](http://www.youtube.com/watch?v=KaJSZ9JK42I)
 
-Never forget why we all here. So rent nao and do what you're supposed to do!  :D
+Never forget why we all here. So rent nao and do what you're supposed to do! <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -2958,9 +3071,9 @@ i only wish she won't marry some arab oil baron or go Britney's path
 
 [http://www.youtube.com/watch?v=A-3gkit21XM](http://www.youtube.com/watch?v=A-3gkit21XM)
 
-Blood-covered pagan viking death-metal DICSO ![/color:3inc2qzf]  :twisted:
+Blood-covered pagan viking death-metal DICSO ! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
-PS. mp3 version:  [http://yasik.kiev.ua/TURISAS_Rasputin.mp3](http://yasik.kiev.ua/TURISAS_Rasputin.mp3)
+PS. mp3 version: [http://yasik.kiev.ua/TURISAS_Rasputin.mp3](http://yasik.kiev.ua/TURISAS_Rasputin.mp3)
 
 </div>
 
@@ -2974,7 +3087,7 @@ PS. mp3 version:  [http://yasik.kiev.ua/TURISAS_Rasputin.mp3](http://yasik.kiev.
 
 [http://www.youtube.com/watch?v=IJkMrl4AG8w](http://www.youtube.com/watch?v=IJkMrl4AG8w)
 
-Merry Christmas ! :D
+Merry Christmas ! <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -2988,7 +3101,7 @@ safe to watch at work, just turn the volume down a bit
 
 <div class="post" data-post-id="27573" data-author="jezer" data-date="2009-01-01T12:44:48+00:00" data-subject="">
 
-[url:29xka3kp]http://www.youtube.com/watch?v=vld2cLpznAE[/url:29xka3kp]
+http://www.youtube.com/watch?v=vld2cLpznAE
 
 Not my normal pace of music, nor language, but really enjoyed this.
 
@@ -2996,15 +3109,15 @@ Not my normal pace of music, nor language, but really enjoyed this.
 
 <div class="post" data-post-id="27576" data-author="Yasik2" data-date="2009-01-01T13:07:12+00:00" data-subject="">
 
-[img:nq2jetj3]http://yasik.kiev.ua/WTFIsThisShit.jpg[/img:nq2jetj3]
+![](http://yasik.kiev.ua/WTFIsThisShit.jpg)
 
 </div>
 
 <div class="post" data-post-id="27578" data-author="firebrand" data-date="2009-01-01T16:45:52+00:00" data-subject="">
 
-[<LINK_TEXT text="http://video.yahoo.com/network/10000008 ... =100022574">http://video.yahoo.com/network/100000089?v=2183321&l=100022574</LINK_TEXT>](http://video.yahoo.com/network/100000089?v=2183321&l=100022574)
+[http://video.yahoo.com/network/100000089?v=2183321&l=100022574](http://video.yahoo.com/network/100000089?v=2183321&l=100022574)
 
-"and i say, "i'm dead," and i move." -eric draven --> the crow
+"and i say, "i'm dead," and i move." -eric draven --\> the crow
 
 </div>
 
@@ -3012,7 +3125,7 @@ Not my normal pace of music, nor language, but really enjoyed this.
 
 [http://www.youtube.com/watch?v=EtGQgSY9Nn4](http://www.youtube.com/watch?v=EtGQgSY9Nn4)
 
-"i'm a sophisticated sex robot, sent back in time to change the future for one lucky lady."  -chuck sherman --> american pie
+"i'm a sophisticated sex robot, sent back in time to change the future for one lucky lady." -chuck sherman --\> american pie
 
 p.s. apparently you cannot link two vids from the same website so here it is again from youtube.
 
@@ -3028,15 +3141,15 @@ gief the correct one
 
 <div class="post" data-post-id="27581" data-author="firebrand" data-date="2009-01-01T19:20:21+00:00" data-subject="">
 
-yeah good catch yas.   thx.  that website was just one url with a bunch of vids embedded instead of linked.  oh well.  i fixed it.  
+yeah good catch yas. thx. that website was just one url with a bunch of vids embedded instead of linked. oh well. i fixed it. 
 
-"what the hell are you doing out here, fred? fred, if you're real, you better tell me right now!" - neville -->i am legend
+"what the hell are you doing out here, fred? fred, if you're real, you better tell me right now!" - neville --\>i am legend
 
 </div>
 
 <div class="post" data-post-id="27583" data-author="Yasik2" data-date="2009-01-01T20:49:50+00:00" data-subject="">
 
-Awesome!  :D 
+Awesome! :D 
 
 i've been supporting the "bad" guise tho
 
@@ -3046,7 +3159,7 @@ i've been supporting the "bad" guise tho
 
 [http://www.youtube.com/watch?v=Mh0VX74alwk](http://www.youtube.com/watch?v=Mh0VX74alwk)
 
-"i think you will find that, uh, things have changed a great deal since your time." - dr. wren --> alien resurrection
+"i think you will find that, uh, things have changed a great deal since your time." - dr. wren --\> alien resurrection
 
 </div>
 
@@ -3088,7 +3201,7 @@ Video is safe for work, soundtrack might be not if higher-ups around.
 
 I thought this was pretty cool
 
-[url:2twxm7cc]http://www.livevideo.com/video/E5E22CB64CEC454B99BDF25B50EA1B67/cute-girl-does-a-wicked-dance-.aspx[/url:2twxm7cc]
+http://www.livevideo.com/video/E5E22CB64CEC454B99BDF25B50EA1B67/cute-girl-does-a-wicked-dance-.aspx
 
 </div>
 
@@ -3096,7 +3209,7 @@ I thought this was pretty cool
 
 [http://www.youtube.com/watch?v=Hiu4W27EQ_I](http://www.youtube.com/watch?v=Hiu4W27EQ_I)
 
-I thought this was pretty cool too![/color:3m4fww5d]
+I thought this was pretty cool too!
 
 </div>
 
@@ -3104,15 +3217,18 @@ I thought this was pretty cool too![/color:3m4fww5d]
 
 gotta love the aussies
 
-[url:2o04ojpz]http://www.youtube.com/watch?v=qFw-70QwtBc[/url:2o04ojpz]
+http://www.youtube.com/watch?v=qFw-70QwtBc
 
 </div>
 
 <div class="post" data-post-id="27716" data-author="Weasel" data-date="2009-01-14T18:16:49+00:00" data-subject="">
 
-gotta love the aussies
-
-[url:m4boeawx]http://www.youtube.com/watch?v=qFw-70QwtBc[/url:m4boeawx][/quote:m4boeawx]
+> <strong>Alberich wrote:</strong>
+> gotta love the aussies
+> 
+> 
+> 
+> http://www.youtube.com/watch?v=qFw-70QwtBc
 
 THEY'RE NOT AUSSIES!!! THEY'RE KIWIS - FROM NEW ZEALAND - like me.
 
@@ -3120,7 +3236,7 @@ THEY'RE NOT AUSSIES!!! THEY'RE KIWIS - FROM NEW ZEALAND - like me.
 
 <div class="post" data-post-id="27718" data-author="Alberich" data-date="2009-01-14T19:26:06+00:00" data-subject="">
 
-my bad :P   still fulla win
+my bad <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom"> still fulla win
 
 </div>
 
@@ -3132,11 +3248,11 @@ my bad :P   still fulla win
 
 <div class="post" data-post-id="27777" data-author="jezer" data-date="2009-01-19T01:03:12+00:00" data-subject="">
 
-This one's for Yasik... no doubt he'll be adding it to his web filter so he never makes the mistake of watching "real music" again.  :twisted: 
+This one's for Yasik... no doubt he'll be adding it to his web filter so he never makes the mistake of watching "real music" again. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-[url:3cvfy5ed]http://www.youtube.com/watch?v=qUpGcSKKqL0&NR=1[/url:3cvfy5ed]
+http://www.youtube.com/watch?v=qUpGcSKKqL0&NR=1
 
-Melancholic and soulful... I was hanging on the emotion of every note... even though one or two notes brought me back to reality :evil: pretty talented all the same. Great movie too... and the girl that plays Alice was worth dying for imho...  :wink:
+Melancholic and soulful... I was hanging on the emotion of every note... even though one or two notes brought me back to reality <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom"> pretty talented all the same. Great movie too... and the girl that plays Alice was worth dying for imho... <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -3144,23 +3260,23 @@ Melancholic and soulful... I was hanging on the emotion of every note... even th
 
 For the record... this was Alice, in the movie.
 
-[img:zrtbd0e2]http://www.leapfreak.com/images/Alice.jpg[/img:zrtbd0e2]
+![](http://www.leapfreak.com/images/Alice.jpg)
 
 Beautiful.
 
 Original Score Below...
 
-[url:zrtbd0e2]http://www.youtube.com/watch?v=RVaWoiyNE7M[/url:zrtbd0e2]
+http://www.youtube.com/watch?v=RVaWoiyNE7M
 
 </div>
 
 <div class="post" data-post-id="27785" data-author="Yasik2" data-date="2009-01-20T15:49:46+00:00" data-subject="">
 
-The onle melancholy i know is that of Haruhi Suzumiya![/color:eri6s7bk]
+The onle melancholy i know is that of Haruhi Suzumiya!
 
 [http://www.youtube.com/watch?v=S9uH8a6Sra0](http://www.youtube.com/watch?v=S9uH8a6Sra0)
 
-[<LINK_TEXT text="http://en.wikipedia.org/wiki/The_Melanc ... ya_(anime)">http://en.wikipedia.org/wiki/The_Melancholy_of_Haruhi_Suzumiya_(anime)</LINK_TEXT>](http://en.wikipedia.org/wiki/The_Melancholy_of_Haruhi_Suzumiya_%28anime%29)
+[http://en.wikipedia.org/wiki/The_Melancholy_of_Haruhi_Suzumiya_(anime)](http://en.wikipedia.org/wiki/The_Melancholy_of_Haruhi_Suzumiya_%28anime%29)
 
 </div>
 
@@ -3168,7 +3284,7 @@ The onle melancholy i know is that of Haruhi Suzumiya![/color:eri6s7bk]
 
 [http://www.youtube.com/watch?v=9zB7fJb_PPQ](http://www.youtube.com/watch?v=9zB7fJb_PPQ)
 
-work unsafe [/color:19o9e5ik]
+work unsafe
 
 </div>
 
@@ -3176,7 +3292,7 @@ work unsafe [/color:19o9e5ik]
 
 [http://www.youtube.com/watch?v=w1WEHx7l0XA](http://www.youtube.com/watch?v=w1WEHx7l0XA)
 
-unsafe[/color:26e2lz1y]
+unsafe
 
 </div>
 
@@ -3184,9 +3300,9 @@ unsafe[/color:26e2lz1y]
 
 [http://www.youtube.com/watch?v=ITTSjdY-1QY](http://www.youtube.com/watch?v=ITTSjdY-1QY)
 
-safe[/color:2tape7b6]
+safe
 
-I think our Immortals would find this book interesting and helpful in their work on areas, mobs and quests. :twisted:
+I think our Immortals would find this book interesting and helpful in their work on areas, mobs and quests. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -3200,13 +3316,13 @@ I think our Immortals would find this book interesting and helpful in their work
 
 1: pkill Brujah for that last vid heh
 
-2: surfnazi was mentioning britney spears video so I found this :)
+2: surfnazi was mentioning britney spears video so I found this <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Enjoy
 
 [http://www.youtube.com/watch?v=DoP3C76ioTU&NR=1](http://www.youtube.com/watch?v=DoP3C76ioTU&NR=1)
 
--Tox
+\-Tox
 
 </div>
 
@@ -3214,7 +3330,7 @@ Enjoy
 
 [http://www.youtube.com/watch?v=zvxc8S5ybS4](http://www.youtube.com/watch?v=zvxc8S5ybS4)
 
-dunno, prolly safe[/color:2np39pgv]... you decide... i'm confus...
+dunno, prolly safe... you decide... i'm confus...
 
 </div>
 
@@ -3222,7 +3338,7 @@ dunno, prolly safe[/color:2np39pgv]... you decide... i'm confus...
 
 [http://www.youtube.com/watch?v=cuZELpIk3bE](http://www.youtube.com/watch?v=cuZELpIk3bE)
 
-safe[/color:3h8lklb8]
+safe
 
 maybe... huhuh...
 
@@ -3230,7 +3346,7 @@ maybe... huhuh...
 
 <div class="post" data-post-id="27931" data-author="Alberich" data-date="2009-01-30T22:46:40+00:00" data-subject="">
 
-[url:2eu9zdpr]http://www.youtube.com/watch?v=XYZyI9L-6SU[/url:2eu9zdpr]
+http://www.youtube.com/watch?v=XYZyI9L-6SU
 
 </div>
 
@@ -3238,7 +3354,7 @@ maybe... huhuh...
 
 [http://www.youtube.com/watch?v=QascXwq-fws](http://www.youtube.com/watch?v=QascXwq-fws)
 
-safe[/color:137fe0qg]
+safe
 
 except language, of course!
 
@@ -3248,7 +3364,7 @@ except language, of course!
 
 [http://www.youtube.com/watch?v=tkw4jhDE1eQ](http://www.youtube.com/watch?v=tkw4jhDE1eQ)
 
-LORDI ! FK YEAH!!!  :twisted:
+LORDI ! FK YEAH!!! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 PS. This is most epic win. Hardly can remember i ever heard moar rockin than that. See demotivator abouta Finland in "random pic" thread.
 
@@ -3256,7 +3372,7 @@ PS. This is most epic win. Hardly can remember i ever heard moar rockin than tha
 
 <div class="post" data-post-id="28145" data-author="Tap" data-date="2009-02-16T05:12:46+00:00" data-subject="">
 
-[url:15ra88gr]http://www.youtube.com/watch?v=foS-nCCKq9s[/url:15ra88gr]
+http://www.youtube.com/watch?v=foS-nCCKq9s
 
 </div>
 
@@ -3264,7 +3380,7 @@ PS. This is most epic win. Hardly can remember i ever heard moar rockin than tha
 
 [http://www.youtube.com/watch?v=ipzR9bhei_o](http://www.youtube.com/watch?v=ipzR9bhei_o)
 
-Music for real coders. Safe[/color:8ifdq7s5].
+Music for real coders. Safe.
 
 </div>
 
@@ -3274,7 +3390,7 @@ Music for real coders. Safe[/color:8ifdq7s5].
 
 I expect an huge amount of bugs to be fixed after listening to this.
 
-As usual, safe[/color:2jcrs7jj].
+As usual, safe.
 
 </div>
 
@@ -3282,7 +3398,7 @@ As usual, safe[/color:2jcrs7jj].
 
 [http://www.youtube.com/watch?v=IFabjc6mFk4](http://www.youtube.com/watch?v=IFabjc6mFk4)
 
-Safe.[/color:4t2bjfs4]
+Safe.
 
 </div>
 
@@ -3290,7 +3406,7 @@ Safe.[/color:4t2bjfs4]
 
 [http://www.cracked.com/article_17098_p2.html](http://www.cracked.com/article_17098_p2.html)
 
-"it's a small world after all..." -zazu --> the lion king
+"it's a small world after all..." -zazu --\> the lion king
 
 "no, no! anything but that!" -scar 
 
@@ -3304,7 +3420,7 @@ Safe.[/color:4t2bjfs4]
 
 Beavis and Butthead do anime.
 
-Safe[/color:2xa9ru7r]. As much as B & B can be... Huhuh huhuh
+Safe. As much as B \& B can be... Huhuh huhuh
 
 </div>
 
@@ -3320,7 +3436,7 @@ Pirates, Leonidas and Lazy Town.
 
 [http://www.youtube.com/watch?v=d7mG5pQ-s2U](http://www.youtube.com/watch?v=d7mG5pQ-s2U)
 
-Tribute to Lazy Town and Aqua! Safe[/color:rhv57umc].
+Tribute to Lazy Town and Aqua! Safe.
 
 </div>
 
@@ -3328,7 +3444,7 @@ Tribute to Lazy Town and Aqua! Safe[/color:rhv57umc].
 
 [http://www.youtube.com/watch?v=w2yv8aT0UFc](http://www.youtube.com/watch?v=w2yv8aT0UFc)
 
-Safe.[/color:28qgj22m]
+Safe.
 
 </div>
 
@@ -3342,9 +3458,12 @@ VERY SAFE!!!
 
 <div class="post" data-post-id="28591" data-author="Yasik2" data-date="2009-03-23T02:01:13+00:00" data-subject="">
 
-http://www.youtube.com/watch?v=BQALeeHWJyE
-
-VERY SAFE!!![/quote:2i30ryz0]
+> <strong>Leaf wrote:</strong>
+> http://www.youtube.com/watch?v=BQALeeHWJyE
+> 
+> 
+> 
+> VERY SAFE!!!
 
 Not quite actually...
 
@@ -3352,13 +3471,14 @@ Not quite actually...
 
 <div class="post" data-post-id="28593" data-author="Leaf" data-date="2009-03-23T02:53:00+00:00" data-subject="">
 
-Sure it is!  Great message and its to protect ppl against STD.  So ... SAFE!
+Sure it is! Great message and its to protect ppl against STD. So ... SAFE!
 
 </div>
 
 <div class="post" data-post-id="28607" data-author="Yasik2" data-date="2009-03-24T01:27:10+00:00" data-subject="">
 
-Sure it is!  Great message and its to protect ppl against STD.  So ... SAFE![/quote:2oioj2gb]
+> <strong>Leaf wrote:</strong>
+> Sure it is! Great message and its to protect ppl against STD. So ... SAFE!
 
 "Safe" in my view is when you can watch the video with your boss and your mother standing behind you.
 
@@ -3378,25 +3498,26 @@ If ur boss was a female/ur mom then they would like it cause its puppies!
 
 Did you know?...
 
-Safe.[/color:2dbrb8xc]
+Safe.
 
 </div>
 
 <div class="post" data-post-id="28688" data-author="firebrand" data-date="2009-04-09T16:10:48+00:00" data-subject="">
 
-[<LINK_TEXT text="http://coedmagazine.com/2009/04/08/kid- ... bor-video/">http://coedmagazine.com/2009/04/08/kid-scares-pregnant-mom-into-labor-video/</LINK_TEXT>](http://coedmagazine.com/2009/04/08/kid-scares-pregnant-mom-into-labor-video/)
+[http://coedmagazine.com/2009/04/08/kid-scares-pregnant-mom-into-labor-video/](http://coedmagazine.com/2009/04/08/kid-scares-pregnant-mom-into-labor-video/)
 
-"You are one ugly mother..." -alexa 'lex' woods --> alien vs predator
+"You are one ugly mother..." -alexa 'lex' woods --\> alien vs predator
 
 </div>
 
 <div class="post" data-post-id="28694" data-author="Yasik2" data-date="2009-04-10T05:33:15+00:00" data-subject="">
 
-http://coedmagazine.com/2009/04/08/kid-scares-pregnant-mom-into-labor-video/[/quote:1eww2246]
+> <strong>firebrand wrote:</strong>
+> http://coedmagazine.com/2009/04/08/kid-scares-pregnant-mom-into-labor-video/
 
-This is not funny.[/color:1eww2246]
+This is not funny.
 
-[img:1eww2246]http://yasik.kiev.ua/4chan/Back_To_The_Kitchen.jpg[/img:1eww2246]
+![](http://yasik.kiev.ua/4chan/Back_To_The_Kitchen.jpg)
 
 </div>
 
@@ -3404,7 +3525,7 @@ This is not funny.[/color:1eww2246]
 
 What song associates mostly in your mind with Sloth III ?
 
-Here's mine: (safe[/color:1s7f7qe6], warning[/color:1s7f7qe6]: a bit loud)
+Here's mine: (safe, warning: a bit loud)
 
 [http://www.youtube.com/watch?v=d_NmfaQAfJM](http://www.youtube.com/watch?v=d_NmfaQAfJM)
 
@@ -3424,7 +3545,7 @@ heres proof:
 
 [http://dagobah.biz/flash/Washy_Washy.swf](http://dagobah.biz/flash/Washy_Washy.swf)
 
-safe, i guess[/color:37pf6l73]
+safe, i guess
 
 </div>
 
@@ -3448,19 +3569,19 @@ i scored 50k in first try!
 
 <div class="post" data-post-id="29027" data-author="Toxis" data-date="2009-04-23T03:56:42+00:00" data-subject="">
 
-[<LINK_TEXT text="http://video.google.com/videoplay?docid ... 8464398406">http://video.google.com/videoplay?docid=-667358908464398406</LINK_TEXT>](http://video.google.com/videoplay?docid=-667358908464398406)
+[http://video.google.com/videoplay?docid=-667358908464398406](http://video.google.com/videoplay?docid=-667358908464398406)
 
-My fav comedian.  I hope you all enjoyed this half as much as I did. 
+My fav comedian. I hope you all enjoyed this half as much as I did. 
 
-:)
+<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
--Tox
+\-Tox
 
 </div>
 
 <div class="post" data-post-id="29028" data-author="*juggleblood*" data-date="2009-04-23T12:55:07+00:00" data-subject="">
 
-[url:ofnn00kr]http://www.youtube.com/watch?v=NR0PJJqZFxo&feature=player_embedded[/url:ofnn00kr]
+http://www.youtube.com/watch?v=NR0PJJqZFxo&feature=player_embedded
 
 genius member of the fox news team
 
@@ -3468,19 +3589,22 @@ genius member of the fox news team
 
 <div class="post" data-post-id="29029" data-author="jezer" data-date="2009-04-23T13:36:42+00:00" data-subject="">
 
-[url:168jeaja]http://www.youtube.com/watch?v=UnqvjD7Kxs4[/url:168jeaja]
+http://www.youtube.com/watch?v=UnqvjD7Kxs4
 
-Love it! :)
+Love it! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="29035" data-author="Medios" data-date="2009-04-23T20:44:36+00:00" data-subject="">
 
-[url:31pt574e]http://www.youtube.com/watch?v=NR0PJJqZFxo&feature=player_embedded[/url:31pt574e]
+> <strong>juggleblood wrote:</strong>
+> http://www.youtube.com/watch?v=NR0PJJqZFxo&feature=player_embedded
+> 
+> 
+> 
+> genius member of the fox news team
 
-genius member of the fox news team[/quote:31pt574e]
-
-Hugo Chavez calls Obama an ignoramus and its Fox News that's to blame?  Seriously get off Obama's tip.
+Hugo Chavez calls Obama an ignoramus and its Fox News that's to blame? Seriously get off Obama's tip.
 
 </div>
 
@@ -3498,11 +3622,19 @@ Hint: listen to teh chorus.
 
 <div class="post" data-post-id="29280" data-author="*juggleblood*" data-date="2009-05-24T14:14:07+00:00" data-subject="">
 
-[url:2ddgxayc]http://www.youtube.com/watch?v=NR0PJJqZFxo&feature=player_embedded[/url:2ddgxayc]
-
-genius member of the fox news team[/quote:2ddgxayc]
-
-Hugo Chavez calls Obama an ignoramus and its Fox News that's to blame?  Seriously get off Obama's tip.[/quote:2ddgxayc]
+> <strong>Medios wrote:</strong>
+> > <strong>juggleblood wrote:</strong>
+> > http://www.youtube.com/watch?v=NR0PJJqZFxo&feature=player_embedded
+> > 
+> > 
+> > 
+> > genius member of the fox news team
+> 
+> 
+> 
+> 
+> 
+> Hugo Chavez calls Obama an ignoramus and its Fox News that's to blame? Seriously get off Obama's tip.
 
 Really who cares what chavez says? I don't. The clip however is hilarious. Your defensiveness makes it even funnier imho.
 
@@ -3524,7 +3656,7 @@ US Pole Dance Championship 2009
 
 <div class="post" data-post-id="29629" data-author="Mosaix" data-date="2009-06-30T05:46:21+00:00" data-subject="">
 
-[url:2h1ehdeh]http://www.youtube.com/watch?v=4oMokuYOXCM[/url:2h1ehdeh]
+http://www.youtube.com/watch?v=4oMokuYOXCM
 
 </div>
 
@@ -3546,7 +3678,7 @@ Safe. I dont know what IT is singing, but its damnit awesome!!!
 
 [http://www.youtube.com/watch?v=9keppT_Ogls](http://www.youtube.com/watch?v=9keppT_Ogls)&
 
-Safe.[/color:yzj6371d] I lol'd  :D
+Safe. I lol'd :D
 
 </div>
 
@@ -3554,13 +3686,13 @@ Safe.[/color:yzj6371d] I lol'd  :D
 
 [http://www.youtube.com/watch?v=anjvqY3Zwt4](http://www.youtube.com/watch?v=anjvqY3Zwt4)
 
-Safe.[/color:33kxhvwv] Achmed teh dead terrorist sings "Jingle bombs"!  :D  :D  :D
+Safe. Achmed teh dead terrorist sings "Jingle bombs"! :D :D :D
 
 </div>
 
 <div class="post" data-post-id="29698" data-author="Mosaix" data-date="2009-07-16T02:33:53+00:00" data-subject="">
 
-[url:28csqyp8]http://www.youtube.com/watch?v=5c1oz68LEgE[/url:28csqyp8]
+http://www.youtube.com/watch?v=5c1oz68LEgE
 
 </div>
 
@@ -3568,7 +3700,7 @@ Safe.[/color:33kxhvwv] Achmed teh dead terrorist sings "Jingle bombs"!  :D  :D  
 
 [http://www.youtube.com/watch?v=pSmaT0UriG0](http://www.youtube.com/watch?v=pSmaT0UriG0)
 
-Safe.[/color:2cskkw99]
+Safe.
 
 </div>
 
@@ -3576,7 +3708,7 @@ Safe.[/color:2cskkw99]
 
 could this be whats been keeping our elusive imm busy?
 
-[url:2a1u7v7s]http://www.youtube.com/user/juggleblood[/url:2a1u7v7s]
+http://www.youtube.com/user/juggleblood
 
 good to see you again,
 
@@ -3588,13 +3720,13 @@ T
 
 <div class="post" data-post-id="30741" data-author="jezer" data-date="2010-01-24T22:21:01+00:00" data-subject="">
 
-[url:ux5h5tv1]http://www.youtube.com/watch?v=FjTB6EG3xGo[/url:ux5h5tv1]
+http://www.youtube.com/watch?v=FjTB6EG3xGo
 
 FLIPPIN' FANTASTIC!
 
 You could listen to this song in another language and still somehow know what the song is about... because it's got soul!
 
-To all you DJ's out there ripping and remixing crap... BE OFFENDED! :twisted: by some REAL music... it's about the perfect expression of how one feels! Learn to play an instrument and play what you feel you knuckle heads!  :D
+To all you DJ's out there ripping and remixing crap... BE OFFENDED! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> by some REAL music... it's about the perfect expression of how one feels! Learn to play an instrument and play what you feel you knuckle heads! <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -3604,39 +3736,39 @@ I can't tell if Jezer is serious or sarcastic, heh.
 
 I always liked her lyrics, and found this particular song haunting.
 
--Toxis
+\-Toxis
 
 </div>
 
 <div class="post" data-post-id="30754" data-author="Tuck" data-date="2010-01-27T18:00:52+00:00" data-subject="">
 
-[url:1rg4v2xp]http://www.youtube.com/watch?v=jRezJLtJ8hQ&NR=1[/url:1rg4v2xp]
+http://www.youtube.com/watch?v=jRezJLtJ8hQ&NR=1
 
 </div>
 
 <div class="post" data-post-id="30755" data-author="Tuck" data-date="2010-01-28T17:30:07+00:00" data-subject="">
 
-worst porn movie that i ever saw [url:iyni7zc3]http://vids.myspace.com/index.cfm?fuseaction=vids.channel&vanity=slothmudiii[/url:iyni7zc3]
+worst porn movie that i ever saw http://vids.myspace.com/index.cfm?fuseaction=vids.channel&vanity=slothmudiii
 
 </div>
 
 <div class="post" data-post-id="30968" data-author="jezer" data-date="2010-03-16T00:20:31+00:00" data-subject="">
 
-I haven't laughed like this in ages!  :D 
+I haven't laughed like this in ages! <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> 
 
-[url:1f0icvdd]http://www.youtube.com/watch?v=2ur7xlyySo4[/url:1f0icvdd]
+http://www.youtube.com/watch?v=2ur7xlyySo4
 
 </div>
 
 <div class="post" data-post-id="31018" data-author="Tuck" data-date="2010-04-04T11:36:32+00:00" data-subject="">
 
-[url:2afz0lhw]http://www.youtube.com/watch?v=le3sttIeCdQ[/url:2afz0lhw]
+http://www.youtube.com/watch?v=le3sttIeCdQ
 
 </div>
 
 <div class="post" data-post-id="31046" data-author="Tuck" data-date="2010-04-11T22:29:23+00:00" data-subject="">
 
-[url:2ohz13ay]http://www.youtube.com/watch?v=Tf8r4phT-IE&playnext_from=TL&videos=jQ0_qu880bA&feature=grec[/url:2ohz13ay]
+http://www.youtube.com/watch?v=Tf8r4phT-IE&playnext_from=TL&videos=jQ0_qu880bA&feature=grec
 
 </div>
 
@@ -3648,11 +3780,11 @@ I haven't laughed like this in ages!  :D
 
 <div class="post" data-post-id="31631" data-author="jezer" data-date="2010-08-29T05:50:22+00:00" data-subject="Re: Post a Random Video">
 
-<LINK_TEXT text="http://www.youtube.com/watch?v=WQ_erQL0 ... embedded#!">http://www.youtube.com/watch?v=WQ_erQL0jkA&feature=player_embedded#!</LINK_TEXT>
+http://www.youtube.com/watch?v=WQ_erQL0jkA&feature=player_embedded#!
 
 I'm feeling sorry for the drum stool.
 
-<LINK_TEXT text="http://www.youtube.com/watch?v=MY4eEi-U ... re=related">http://www.youtube.com/watch?v=MY4eEi-UCeY&feature=related</LINK_TEXT>
+http://www.youtube.com/watch?v=MY4eEi-UCeY&feature=related
 
 </div>
 
@@ -3688,21 +3820,21 @@ Buckethead, one of the best guitarists of all time.
 
 <div class="post" data-post-id="31864" data-author="Tuck" data-date="2010-10-12T18:46:12+00:00" data-subject="Re: Post a Random Video">
 
-<LINK_TEXT text="http://www.youtube.com/watch?v=Irv3iku1 ... r_embedded">http://www.youtube.com/watch?v=Irv3iku1APw&feature=player_embedded</LINK_TEXT>
+http://www.youtube.com/watch?v=Irv3iku1APw&feature=player_embedded
 
 </div>
 
 <div class="post" data-post-id="31871" data-author="jezer" data-date="2010-10-14T20:40:45+00:00" data-subject="Re: Post a Random Video">
 
-<LINK_TEXT text="http://www.youtube.com/watch?v=g9MpqbOa ... re=related">http://www.youtube.com/watch?v=g9MpqbOaXdo&feature=related</LINK_TEXT>
+http://www.youtube.com/watch?v=g9MpqbOaXdo&feature=related
 
-Gotta love classic rock.  :twisted:
+Gotta love classic rock. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="31940" data-author="jezer" data-date="2010-10-28T08:06:44+00:00" data-subject="Re: Post a Random Video">
 
-<LINK_TEXT text="http://www.youtube.com/watch?v=nB6zg05C ... feature=BF">http://www.youtube.com/watch?v=nB6zg05CxYg&a=GxdCwVVULXc_O-CUpj-YMVQonD5ypKRx&list=ML&feature=BF</LINK_TEXT>
+http://www.youtube.com/watch?v=nB6zg05CxYg&a=GxdCwVVULXc_O-CUpj-YMVQonD5ypKRx&list=ML&feature=BF
 
 Seriously the best blues guitar solo I've ever heard! Crank it up at 2:37. Magic! Did he even realise he was playing guitar when that rolled out of him? So perfect! It's like a story he's playing with no words, like those times when your trying to express something and someone just says what you meant perfectly. 
 
@@ -3720,19 +3852,19 @@ Nice vid, jezer, thanks.
 
 Jezer singing for all sloth players:
 
-***<LINK_TEXT text="http://www.youtube.com/watch?v=tyha9m4G ... dded#at=51">http://www.youtube.com/watch?v=tyha9m4G1wc&feature=player_embedded#at=51</LINK_TEXT>***
+<strong><em>http://www.youtube.com/watch?v=tyha9m4G1wc&feature=player_embedded#at=51</em></strong>
 
 </div>
 
 <div class="post" data-post-id="31945" data-author="jezer" data-date="2010-10-28T18:57:48+00:00" data-subject="Re: Post a Random Video">
 
-It was just for you Tuk, our little secret.  :evil:
+It was just for you Tuk, our little secret. <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="32201" data-author="jezer" data-date="2010-12-23T04:37:59+00:00" data-subject="Merry Christmas">
 
-<LINK_TEXT text="http://www.youtube.com/watch?v=fhcZ6b2F ... r_embedded">http://www.youtube.com/watch?v=fhcZ6b2FSsk&feature=player_embedded</LINK_TEXT>
+http://www.youtube.com/watch?v=fhcZ6b2FSsk&feature=player_embedded
 
 Merry Christmas!
 
@@ -3860,13 +3992,13 @@ Cisco vs Juniper ready? FIGHT!
 
 [http://www.youtube.com/watch?v=cxcbFFRYKS8](http://www.youtube.com/watch?v=cxcbFFRYKS8)
 
-You know what happens when you change the first D to C ? That's right.  8)
+You know what happens when you change the first D to C ? That's right. <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="32957" data-author="Yasik" data-date="2011-10-23T21:26:23+00:00" data-subject="Re: Post a Random Video">
 
-A bit loud, but that's the point! This way sounds much more pleasantly, isn't it? 8) 
+A bit loud, but that's the point! This way sounds much more pleasantly, isn't it? <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> 
 
 [http://www.youtube.com/watch?v=BZT0TonelnY](http://www.youtube.com/watch?v=BZT0TonelnY)
 
@@ -3882,7 +4014,7 @@ Cuteness overflow.
 
 <div class="post" data-post-id="32988" data-author="Yasik" data-date="2011-11-19T15:15:30+00:00" data-subject="Re: Post a Random Video">
 
-And a bit of *that* kind of humor
+And a bit of \*that\* kind of humor
 
 [http://www.youtube.com/watch?v=DnRJh9HgNRw](http://www.youtube.com/watch?v=DnRJh9HgNRw)
 
@@ -3922,7 +4054,7 @@ Sharpen your axes, sons of Midgaard, for the horner has horned in the horn and t
 
 [http://www.youtube.com/watch?v=0I1geB7U5VI](http://www.youtube.com/watch?v=0I1geB7U5VI)
 
-\m/
+\\m/
 
 gratz me on M.Eng.
 
@@ -3934,7 +4066,7 @@ meet you on the battlefield etc
 
 <div class="post" data-post-id="33342" data-author="Yasik" data-date="2012-06-23T15:46:48+00:00" data-subject="Re: Post a Random Video">
 
-[www.youtube.com/watch?&v=ls0DpzCmqjk](http://www.youtube.com/watch?&v=ls0DpzCmqjk)
+[www.youtube.com/watch?\&v=ls0DpzCmqjk](http://www.youtube.com/watch?&v=ls0DpzCmqjk)
 
 I suppose we all had this one or something alike at the dawn of industry.
 
@@ -3960,7 +4092,7 @@ This one special for Brad, others enjoy as well.
 
 [http://www.youtube.com/watch?v=mIrQFFuMVOo](http://www.youtube.com/watch?v=mIrQFFuMVOo)
 
-\m/   8)   \m/
+\\m/ <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> \\m/
 
 </div>
 
@@ -3968,13 +4100,13 @@ This one special for Brad, others enjoy as well.
 
 [http://www.youtube.com/watch?v=X1jsU1lBZMc](http://www.youtube.com/watch?v=X1jsU1lBZMc)
 
-Engineering is boring? Yeah, right. 8)  8)  8)
+Engineering is boring? Yeah, right. <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="33566" data-author="Yasik" data-date="2012-08-29T14:52:19+00:00" data-subject="Re: Post a Random Video">
 
-A bit unsafe for work!  8) 
+A bit unsafe for work! <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> 
 
 [http://www.youtube.com/watch?v=zTywsns73U8](http://www.youtube.com/watch?v=zTywsns73U8)
 
@@ -3992,7 +4124,7 @@ this is... beautiful!.jpg
 
 [http://www.youtube.com/watch?v=ed5S-UgmLek](http://www.youtube.com/watch?v=ed5S-UgmLek)
 
-Not exactly a video, but hey! 8)
+Not exactly a video, but hey! <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -4024,13 +4156,13 @@ Bars collapsed? Pfft.
 
 <div class="post" data-post-id="33717" data-author="Yasik" data-date="2012-11-10T17:48:17+00:00" data-subject="Re: Post a Random Video">
 
-[http://www.youtube.com/watch?v=Xv2dVNu-Z34](http://www.youtube.com/watch?v=Xv2dVNu-Z34)    :lol:  :lol:  :lol:
+[http://www.youtube.com/watch?v=Xv2dVNu-Z34](http://www.youtube.com/watch?v=Xv2dVNu-Z34) <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="33827" data-author="jezer" data-date="2012-12-06T09:32:02+00:00" data-subject="Re: Post a Random Video">
 
-https://www.youtube.com/watch?v=yOSnT2XKGE8  :lol:
+https://www.youtube.com/watch?v=yOSnT2XKGE8 <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -4046,7 +4178,7 @@ Forever in our hearts...
 
 [http://www.youtube.com/watch?&v=qhtgxS6z9yo#t=5s](http://www.youtube.com/watch?&v=qhtgxS6z9yo#t=5s)
 
-\m/  8)  \m/
+\\m/ <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> \\m/
 
 </div>
 
@@ -4054,7 +4186,7 @@ Forever in our hearts...
 
 [http://www.youtube.com/watch?v=Xs6dhiRG5Y0](http://www.youtube.com/watch?v=Xs6dhiRG5Y0)
 
-\m/  8)  \m/
+\\m/ <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> \\m/
 
 </div>
 
@@ -4102,7 +4234,7 @@ Little Big - everyday i'm drinking. Yasik version.
 
 <div class="post" data-post-id="34377" data-author="Yasik" data-date="2013-08-09T22:28:38+00:00" data-subject="Re: Post a Random Video">
 
-\m/
+\\m/
 
 [http://www.youtube.com/watch?v=ai-Cr0F_qFQ](http://www.youtube.com/watch?v=ai-Cr0F_qFQ)
 
@@ -4162,13 +4294,13 @@ Oregon Christmas Tree Harvest With Helicopter.
 
 <div class="post" data-post-id="35631" data-author="Yasik" data-date="2015-01-14T14:56:01+00:00" data-subject="Re: Post a Random Video">
 
-The Art of seeing fun in everydays routine :P Or making one!
+The Art of seeing fun in everydays routine <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom"> Or making one!
 
 (occasional strong words)
 
-1. [https://www.youtube.com/watch?v=KIHqSBZDY-E](https://www.youtube.com/watch?v=KIHqSBZDY-E)
+1\. [https://www.youtube.com/watch?v=KIHqSBZDY-E](https://www.youtube.com/watch?v=KIHqSBZDY-E)
 
-2. [https://www.youtube.com/watch?v=eX_GfnmUINI](https://www.youtube.com/watch?v=eX_GfnmUINI)
+2\. [https://www.youtube.com/watch?v=eX_GfnmUINI](https://www.youtube.com/watch?v=eX_GfnmUINI)
 
 These guys really mastered it.
 
@@ -4198,7 +4330,7 @@ Personally, I think its not the best idea to setup a prank with masked guy with 
 
 Job Interview
 
-now my second favorite ! (the first one was Monty Python's  [https://www.youtube.com/watch?v=G4qaDFxHATQ](https://www.youtube.com/watch?v=G4qaDFxHATQ))
+now my second favorite ! (the first one was Monty Python's [https://www.youtube.com/watch?v=G4qaDFxHATQ](https://www.youtube.com/watch?v=G4qaDFxHATQ))
 
 [https://www.youtube.com/watch?v=KVucOxw9fFM](https://www.youtube.com/watch?v=KVucOxw9fFM)
 
@@ -4206,11 +4338,11 @@ now my second favorite ! (the first one was Monty Python's  [https://www.youtube
 
 <div class="post" data-post-id="35657" data-author="Yasik" data-date="2015-01-29T09:18:33+00:00" data-subject="Re: Post a Random Video">
 
-<shameless self-promotion>
+\<shameless self-promotion\>
 
-This if how I yesterday walk out of test center successfully passing Cisco CCNP ROUTE 642-902 exam >>>
+This if how I yesterday walk out of test center successfully passing Cisco CCNP ROUTE 642-902 exam \>\>\>
 
-</shameless self-promotion>
+\</shameless self-promotion\>
 
 [https://www.youtube.com/watch?v=krL4fckBX8c](https://www.youtube.com/watch?v=krL4fckBX8c)
 
@@ -4268,7 +4400,7 @@ WALL-E Pencil Tip Carving
 
 <div class="post" data-post-id="35935" data-author="Yasik" data-date="2015-06-04T17:07:39+00:00" data-subject="Re: Post a Random Video">
 
-Just a reminder about who's cool and who you love the most 8) :twisted: 
+Just a reminder about who's cool and who you love the most <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 [https://www.youtube.com/watch?v=mIrQFFuMVOo](https://www.youtube.com/watch?v=mIrQFFuMVOo)
 
@@ -4278,18 +4410,18 @@ Just a reminder about who's cool and who you love the most 8) :twisted:
 
 The uploader has not made this video available in your country.
 
- :cry:
+ <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="35937" data-author="Yasik" data-date="2015-06-06T15:33:59+00:00" data-subject="Re: Post a Random Video">
 
-> **Unsub wrote:**
+> <strong>Unsub wrote:</strong>
 > The uploader has not made this video available in your country.
 > 
 > 
 > 
->  :cry:
+> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom">
 
 Thy this one, my friend, from different uploader, and enjoy!
 
@@ -4349,13 +4481,13 @@ Last night tried to watch History of British Empire and couldnt understand the b
 
 <div class="post" data-post-id="35972" data-author="Unsub" data-date="2015-06-28T13:05:49+00:00" data-subject="Re: Post a Random Video">
 
-Cloud chamber video was awesome.  (How to pick up smart chicks)
+Cloud chamber video was awesome. (How to pick up smart chicks)
 
 </div>
 
 <div class="post" data-post-id="35973" data-author="Unsub" data-date="2015-06-28T13:14:21+00:00" data-subject="Re: Post a Random Video">
 
-[<LINK_TEXT text="https://www.youtube.com/watch?v=A3PDXmY ... ture=share">https://www.youtube.com/watch?v=A3PDXmYoF5U&feature=share</LINK_TEXT>](https://www.youtube.com/watch?v=A3PDXmYoF5U&feature=share)
+[https://www.youtube.com/watch?v=A3PDXmYoF5U&feature=share](https://www.youtube.com/watch?v=A3PDXmYoF5U&feature=share)
 
 Ok it is an old commercial, but it is too much fun not to pass on.
 
@@ -4367,15 +4499,15 @@ NOT SAFE FOR WORK
 
 [https://www.youtube.com/watch?v=yHnhDd7HlSY](https://www.youtube.com/watch?v=yHnhDd7HlSY)
 
-[<LINK_TEXT text="http://www.geek.com/news/immersive-porn ... t-1627607/">http://www.geek.com/news/immersive-porn-800-twerking-butt-includes-free-vr-headset-1627607/</LINK_TEXT>](http://www.geek.com/news/immersive-porn-800-twerking-butt-includes-free-vr-headset-1627607/)
+[http://www.geek.com/news/immersive-porn-800-twerking-butt-includes-free-vr-headset-1627607/](http://www.geek.com/news/immersive-porn-800-twerking-butt-includes-free-vr-headset-1627607/)
 
-Science rocks!  8)
+Science rocks! <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="35988" data-author="Yasik" data-date="2015-07-10T23:13:18+00:00" data-subject="Re: Post a Random Video">
 
-[<LINK_TEXT text="http://nerdist.com/what-if-it-was-trias ... nian-park/">http://nerdist.com/what-if-it-was-triassic-park-or-devonian-park/</LINK_TEXT>](http://nerdist.com/what-if-it-was-triassic-park-or-devonian-park/)
+[http://nerdist.com/what-if-it-was-triassic-park-or-devonian-park/](http://nerdist.com/what-if-it-was-triassic-park-or-devonian-park/)
 
 </div>
 
@@ -4387,7 +4519,7 @@ That's a good one.
 
 <div class="post" data-post-id="36004" data-author="Yasik" data-date="2015-07-22T16:19:36+00:00" data-subject="Re: Post a Random Video">
 
-(image: /[https://db.tt/vgZCUsOb](https://db.tt/vgZCUsOb))
+![](https://db.tt/vgZCUsOb)
 
 [https://www.youtube.com/watch?v=gEPmA3USJdI](https://www.youtube.com/watch?v=gEPmA3USJdI)
 
@@ -4399,7 +4531,7 @@ That's a good one.
 
 How it all happened on Mars with Opportunity rover.
 
-[<LINK_TEXT text="http://iq.intel.com/mars-opportunity-vi ... d-blowing/">http://iq.intel.com/mars-opportunity-video-is-mind-blowing/</LINK_TEXT>](http://iq.intel.com/mars-opportunity-video-is-mind-blowing/)
+[http://iq.intel.com/mars-opportunity-video-is-mind-blowing/](http://iq.intel.com/mars-opportunity-video-is-mind-blowing/)
 
 </div>
 
@@ -4421,7 +4553,7 @@ NOT safe at work, I guess... Depends on type of work, of course, if you know wha
 
 [https://www.youtube.com/watch?v=L397TWLwrUU](https://www.youtube.com/watch?v=L397TWLwrUU)
 
-(image: /[https://db.tt/vgZCUsOb](https://db.tt/vgZCUsOb))
+![](https://db.tt/vgZCUsOb)
 
 </div>
 
@@ -4447,7 +4579,7 @@ First time in history a "western" band, Laibach, gives concert in Pyongyang, DPR
 
 <div class="post" data-post-id="36102" data-author="Yasik" data-date="2015-09-17T11:43:35+00:00" data-subject="Re: Post a Random Video">
 
-\m/
+\\m/
 
 [https://www.youtube.com/watch?v=boanuwUMNNQ](https://www.youtube.com/watch?v=boanuwUMNNQ)
 
@@ -4461,7 +4593,7 @@ First time in history a "western" band, Laibach, gives concert in Pyongyang, DPR
 
 <div class="post" data-post-id="36104" data-author="Yasik" data-date="2015-09-22T10:27:14+00:00" data-subject="Re: Post a Random Video">
 
-[https://instagram.com/p/7FZorank3f/](https://instagram.com/p/7FZorank3f/)      :lol:  :lol:  :lol:
+[https://instagram.com/p/7FZorank3f/](https://instagram.com/p/7FZorank3f/) <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -4469,13 +4601,13 @@ First time in history a "western" band, Laibach, gives concert in Pyongyang, DPR
 
 [https://www.youtube.com/watch?v=TUSTUjd8Bw8](https://www.youtube.com/watch?v=TUSTUjd8Bw8)
 
-Khmer Oldies Rock-n-Roll   1 hr 21 min
+Khmer Oldies Rock-n-Roll 1 hr 21 min
 
 </div>
 
 <div class="post" data-post-id="36115" data-author="Yasik" data-date="2015-10-21T11:41:24+00:00" data-subject="Re: Post a Random Video">
 
-Metallica goes to Punjab \m/  8)  8)  8)  :lol: 
+Metallica goes to Punjab \\m/ <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> 
 
 [https://www.youtube.com/watch?v=d91MoLUoBEw](https://www.youtube.com/watch?v=d91MoLUoBEw)
 
@@ -4499,7 +4631,7 @@ current mood: [https://www.youtube.com/watch?v=8SbUC-UaAxE](https://www.youtube.
 
 World without Linux
 
-the whole series is worth watching, imho  8) 
+the whole series is worth watching, imho <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> 
 
 [https://www.youtube.com/watch?v=P3rDfRF_650](https://www.youtube.com/watch?v=P3rDfRF_650)
 
@@ -4651,7 +4783,7 @@ Family Guy
 
 [https://www.youtube.com/watch?v=Dd7FixvoKBw](https://www.youtube.com/watch?v=Dd7FixvoKBw)
 
-Key & Peele - Substitute Teacher
+Key \& Peele - Substitute Teacher
 
 </div>
 
@@ -4707,7 +4839,7 @@ Its so good once in a while to review good olde comedy, cant find anything like 
 
 https://youtu.be/P2dCzFZ9qcM
 
- :lol:
+ <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

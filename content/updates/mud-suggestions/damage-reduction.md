@@ -52,17 +52,17 @@ Thanks.
 
 tl;dr Damage Reduction is good.
 
-I'm impressed that Breeze is even responding to an argument based on 'balance' from someone who obviously has no idea what DR actually does.  Whether the obscurity of game mechanics is wise is an argument for another time.
+I'm impressed that Breeze is even responding to an argument based on 'balance' from someone who obviously has no idea what DR actually does. Whether the obscurity of game mechanics is wise is an argument for another time.
 
 The most plausible theory for the current implementation of DR is that it offers an additional percentile layer of protection, equivalent and stacking with shield of faith (25%), sanctuary (50%), fluidity (7%), etc.
 
-What would be the motivation to create a completely new system for DR when they already have a perfectly good system in place?  To conclusively debunk the dungeons and dragons-style 'flat' damage reduction per hit argument, just go test yourself against a weak mob.
+What would be the motivation to create a completely new system for DR when they already have a perfectly good system in place? To conclusively debunk the dungeons and dragons-style 'flat' damage reduction per hit argument, just go test yourself against a weak mob.
 
 What this means:
 
 For most tanks who hover around 8-12 DR, they are likely getting about the same benefit as an extra stacking greater fluidity.
 
-When I'm tanking, many big mobs deal 300 damage to me a round.  Without my 14 DR, they would be hitting me for 342.  It is already well worth my while to upgrade my DR to 23 (my cap) to get that all the way down to 274.
+When I'm tanking, many big mobs deal 300 damage to me a round. Without my 14 DR, they would be hitting me for 342. It is already well worth my while to upgrade my DR to 23 (my cap) to get that all the way down to 274.
 
 As a rough guideline, if you believe that -1.0 AC is equal to a 10% miss chance, then 1 DR = .1 AC is a fairly safe estimate.
 

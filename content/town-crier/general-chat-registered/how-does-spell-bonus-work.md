@@ -12,7 +12,7 @@ post_count: 6
 
 <div class="post" data-post-id="40092" data-author="Vegetable" data-date="2024-05-25T13:20:28+00:00" data-subject="How does spell bonus work?">
 
-Hi, I recently added about 30 bonus spell bonus to my mage but see little to no difference in the damage output on my spells (including Disintegrate, Firewind & Frostbolt). 
+Hi, I recently added about 30 bonus spell bonus to my mage but see little to no difference in the damage output on my spells (including Disintegrate, Firewind \& Frostbolt). 
 
 Is anyone experiencing the same (i heard Fuligin mentioned something similar)? Was wondering if it's worth investing XP and conquest on more spell bonus....
 
@@ -32,13 +32,13 @@ spell with 100 spellbonus does 100-300 damage
 
 <div class="post" data-post-id="40094" data-author="cnl" data-date="2024-05-28T21:56:34+00:00" data-subject="Re: How does spell bonus work?">
 
-add it to the list of things we don't quite understand. like how exactly and to what damage reduction applies to. :)
+add it to the list of things we don't quite understand. like how exactly and to what damage reduction applies to. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="40095" data-author="Driven" data-date="2024-05-29T18:44:24+00:00" data-subject="Re: How does spell bonus work?">
 
-I'll have to look at the code to see if I see anything suspicious, but have you tried removing 30 of your base spell bonus to test whether there is some sort of functional cap being applied under the covers?  In other words, if you changed to 55 spellbonus with your 132 bonus, does your damage output remain the same?  This is the kind of thing I would experiment with.
+I'll have to look at the code to see if I see anything suspicious, but have you tried removing 30 of your base spell bonus to test whether there is some sort of functional cap being applied under the covers? In other words, if you changed to 55 spellbonus with your 132 bonus, does your damage output remain the same? This is the kind of thing I would experiment with.
 
 </div>
 
@@ -80,8 +80,8 @@ When your spell/skill kills a mob at low HP (i.e. Mob HP = 200, your spell/skill
 
 Because of this, I notice my average damage in counter is always lower when solo vs group as I'm always killing squishy/stab-like mob.
 
-So for damage testing, best to test on thick mob to account for all damage done to the mob on the spell/skill. I have not tested my damage with reduced normal spell bonus. Most of my spell bonus upgrades over the past years are from bonus spell bonus. I'll try to test normal spell bonus one I get the time but will be good to see what you found in the codes Driven :) 
+So for damage testing, best to test on thick mob to account for all damage done to the mob on the spell/skill. I have not tested my damage with reduced normal spell bonus. Most of my spell bonus upgrades over the past years are from bonus spell bonus. I'll try to test normal spell bonus one I get the time but will be good to see what you found in the codes Driven <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> 
 
-I'm not suggesting we change anything, just want to understand how this works. I'll probably wont tweak my gear regardless the outcome of the testing  :lol:
+I'm not suggesting we change anything, just want to understand how this works. I'll probably wont tweak my gear regardless the outcome of the testing <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>

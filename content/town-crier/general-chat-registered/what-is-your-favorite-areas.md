@@ -12,11 +12,11 @@ post_count: 13
 
 <div class="post" data-post-id="33319" data-author="Toxis" data-date="2012-06-02T04:05:29+00:00" data-subject="What is your favorite areas?">
 
-Just curious what are the favorite areas people are running lately and why.  (solo and group)
+Just curious what are the favorite areas people are running lately and why. (solo and group)
 
-Pls do tell :)
+Pls do tell <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
--Tox
+\-Tox
 
 </div>
 
@@ -28,7 +28,7 @@ I've been running centaurs a lot. Kinda boring, but very decent xp and a bit of 
 
 <div class="post" data-post-id="33321" data-author="Cizin" data-date="2012-06-02T09:38:20+00:00" data-subject="Re: What is your favorite areas?">
 
-Den of Thieves - running it makes you a real man !  :mrgreen:
+Den of Thieves - running it makes you a real man ! <img src="/images/smilies/icon_mrgreen.svg" alt=":mrgreen:" title=":mrgreen:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -42,9 +42,9 @@ Kobolds Rule!!!!
 
 good thing I am a woman cizin and don't have to prove my 'manliness' 
 
-:)
+<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-for clerics sheol cemetary is rather nice exp might be nice to see more restoration blasting areas :)
+for clerics sheol cemetary is rather nice exp might be nice to see more restoration blasting areas <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Shyla
 
@@ -52,7 +52,7 @@ Shyla
 
 <div class="post" data-post-id="33326" data-author="Nyx" data-date="2012-06-03T04:31:18+00:00" data-subject="Re: What is your favorite areas?">
 
-All necros end up camping out in Dark Dreams. The area is a little quirky (yay) and it's the undead version of BH town... what's not to like? 8)
+All necros end up camping out in Dark Dreams. The area is a little quirky (yay) and it's the undead version of BH town... what's not to like? <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -76,13 +76,13 @@ Very detailed and has style, very good coding, distinct features you wont see an
 
 <div class="post" data-post-id="33405" data-author="Sleeping Forest" data-date="2012-07-27T20:56:09+00:00" data-subject="Re: What is your favorite areas?">
 
-M.A.G.I.C.  nice layout, fun mobs.
+M.A.G.I.C. nice layout, fun mobs.
 
 </div>
 
 <div class="post" data-post-id="33410" data-author="Burl" data-date="2012-07-29T15:07:35+00:00" data-subject="Re: What is your favorite areas?">
 
-Todes, for us feefs who are barely men, much less "real men"!  :oops:  High density of splorkable mobs.  What's not to like?
+Todes, for us feefs who are barely men, much less "real men"! <img src="/images/smilies/icon_redface.svg" alt=":oops:" title=":oops:" width="15" height="15" class="smiley nozoom"> High density of splorkable mobs. What's not to like?
 
 </div>
 
@@ -106,6 +106,6 @@ Temple of Reboog (he is great)
 
 yes kobolds rule
 
- :P
+ <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>

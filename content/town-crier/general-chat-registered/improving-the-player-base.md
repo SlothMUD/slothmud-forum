@@ -20,21 +20,22 @@ Clients and scripting is biased to computer and tech savy people, if you want to
 
 Sloth is not dying, but it is in slow decline... I think this is the only way the future could be assured. 
 
-And while we are porting... lets go sql backend...  :twisted:
+And while we are porting... lets go sql backend... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="27920" data-author="jezer" data-date="2009-01-30T06:21:17+00:00" data-subject="">
 
-[url:fycnzxjm]http://anyterm.org/[/url:fycnzxjm]
+http://anyterm.org/
 
-[url:fycnzxjm]http://shellinabox.com/[/url:fycnzxjm]
+http://shellinabox.com/
 
 </div>
 
 <div class="post" data-post-id="27923" data-author="Yasik2" data-date="2009-01-30T07:20:54+00:00" data-subject="Re: Improving the Player Base">
 
-if you want to appeal to a wider (younger) set of people...[/quote:36jy9u45]
+> <strong>jezer wrote:</strong>
+> if you want to appeal to a wider (younger) set of people...
 
 This ain't gonna happen.
 
@@ -50,7 +51,7 @@ They dont belong here.
 
 Telnet function isn't even installed by default in windows anymore. Then they have to figure out how to turn the localecho and ansi colors on. If they want to use the most current version of wintin, they need to install the .net protocols. 
 
-If Yasix is correct, it may be a moot point. Tragic  :cry:
+If Yasix is correct, it may be a moot point. Tragic <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -68,7 +69,8 @@ If we want to keep up with times, then we should buy Unreal 3D engine and start 
 
 <div class="post" data-post-id="27935" data-author="jezer" data-date="2009-01-31T01:46:52+00:00" data-subject="">
 
-We got to keep up with the times, [b:8sejsdot]it doesn't mean we have to change who we are...[/b:8sejsdot] we just need to change the approach.[/quote:8sejsdot]
+> <strong>jezer wrote:</strong>
+> We got to keep up with the times, <strong>it doesn't mean we have to change who we are...</strong> we just need to change the approach.
 
 No Yasik, sloth is text based, and that's part of it's charm, sloth has extraordinary depth, it's a great game without graphics, it's just different... but just as cool.
 
@@ -88,13 +90,15 @@ Everyone likes playing with people at their own level of skill and experience, b
 
 Take this thread alone, and the message it would send to someone browsing the site and considering playing.
 
-"Younger set of people" are lazy and dumb, they want something for their eyes, not for imagination they lack of by the way. They won't write scripts even if they are familiar with some sort of programming language, won't put years of efforts to make their character cool etc.
+> <strong>Yasik2 wrote:</strong>
+> "Younger set of people" are lazy and dumb, they want something for their eyes, not for imagination they lack of by the way. They won't write scripts even if they are familiar with some sort of programming language, won't put years of efforts to make their character cool etc.
+> 
+> They want to be cool here and now, w/o actually working to become so. Also, they want to kill other people.
+> 
+> They dont belong here.
 
-They want to be cool here and now, w/o actually working to become so. Also, they want to kill other people.
-
-They dont belong here.[/quote:2xk5xkdv]
-
-Go on and explain the charm to those you want to come here and play, or rather wander randomly asking for eq and coins being perma-hungry and thirsty, then abandon after 2 weeks.[/quote:2xk5xkdv]
+> <strong>Yasik2 wrote:</strong>
+> Go on and explain the charm to those you want to come here and play, or rather wander randomly asking for eq and coins being perma-hungry and thirsty, then abandon after 2 weeks.
 
 A broad, sweeping statement against "young" players, who I think it's fair to say comprise a decent fraction of potential new players. And what looks pretty much like a shot against anyone who doesn't already know how to play.
 
@@ -124,7 +128,8 @@ Of course a coder would have to have the time to do it. But it's a worthwhile pr
 
 <div class="post" data-post-id="27940" data-author="jezer" data-date="2009-01-31T02:34:57+00:00" data-subject="">
 
-Take this thread alone, and the message it would send to someone browsing the site and considering playing.[/quote:3seqxjna]
+> <strong>Rynquald wrote:</strong>
+> Take this thread alone, and the message it would send to someone browsing the site and considering playing.
 
 I might be taking this in a context Ryn didn't intend... but it's the old "stuck in the mud" players mindsets that is actually one of the biggest things killing the game.
 
@@ -152,13 +157,19 @@ I'd never done this if i had a browser and a mouse, i'd been clicking mindlessly
 
 <div class="post" data-post-id="27942" data-author="Rynquald" data-date="2009-01-31T03:15:33+00:00" data-subject="">
 
-Rynquald wrote:
+> <strong>Jezer wrote:</strong>
+> > <strong>Rynquald wrote:</strong>
+> > Rynquald wrote:
+> > 
+> > Take this thread alone, and the message it would send to someone browsing the site and considering playing.
+> 
+> 
+> 
+> 
+> 
+> I might be taking this in a context Ryn didn't intend... but it's the old "stuck in the mud" players mindsets that is actually one of the biggest things killing the game.
 
-Take this thread alone, and the message it would send to someone browsing the site and considering playing.[/quote:2ux8lxql]
-
-I might be taking this in a context Ryn didn't intend... but it's the old "stuck in the mud" players mindsets that is actually one of the biggest things killing the game. [/quote:2ux8lxql]
-
-Since I'm not entirely sure whether you we agreeing with me or calling me "stuck in the mud" I'll clarify :)
+Since I'm not entirely sure whether you we agreeing with me or calling me "stuck in the mud" I'll clarify <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 In that line I was exclusively referring to anti-newb sentiment sending a negative message, not actually the entire thread.
 
@@ -166,9 +177,10 @@ In that line I was exclusively referring to anti-newb sentiment sending a negati
 
 <div class="post" data-post-id="27943" data-author="Rynquald" data-date="2009-01-31T03:22:52+00:00" data-subject="">
 
-Years ago i managed to get a client, develop my own set of scripts constantly improving, then moved to another client, learned Perl, moved to Linux, now i'm rewriting everything from beginnings.
-
-I'd never done this if i had a browser and a mouse, i'd been clicking mindlessly all this years.[/quote:1hk2ylhv]
+> <strong>yasik2 wrote:</strong>
+> Years ago i managed to get a client, develop my own set of scripts constantly improving, then moved to another client, learned Perl, moved to Linux, now i'm rewriting everything from beginnings.
+> 
+> I'd never done this if i had a browser and a mouse, i'd been clicking mindlessly all this years.
 
 That's a good point too, and the required effort to actually get started playing Sloth could serve as a kind of shield against some problematic (troll-like) players.
 
@@ -178,19 +190,22 @@ Hypothetically, if we somehow made it trivially easy to start playing and got a 
 
 <div class="post" data-post-id="27944" data-author="jezer" data-date="2009-01-31T03:26:31+00:00" data-subject="">
 
-Heh, wasn't refering to to you Ryn... was refering to the older players who are anti change and are often expressing there "haha noob" statements, about everyone else. We still got players whining about new classo's for goodness sake... retire!  :twisted: Your WERE awesome, now you suck, get with it or leave. Not all old players are like that... some I think want progress just as much... just sick of the same ruts.
+Heh, wasn't refering to to you Ryn... was refering to the older players who are anti change and are often expressing there "haha noob" statements, about everyone else. We still got players whining about new classo's for goodness sake... retire! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> Your WERE awesome, now you suck, get with it or leave. Not all old players are like that... some I think want progress just as much... just sick of the same ruts.
 
-Was is mandos or agemo that logged in recently and said something like... is lyme cap gone yet?... the reply was no... can I buy dam yet? the reply was no... has such and such a bug been fixed.... the reply was no... on which they replied... going back to bed...  :D
+Was is mandos or agemo that logged in recently and said something like... is lyme cap gone yet?... the reply was no... can I buy dam yet? the reply was no... has such and such a bug been fixed.... the reply was no... on which they replied... going back to bed... <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="27945" data-author="Atwell" data-date="2009-01-31T04:03:44+00:00" data-subject="">
 
-Jezer makes an excellent point. The possibility of making a web interface for Sloth would make the game far more accessible, and encourage more people who find the site to try it. Even if it was just a stepping stone into getting a "real" client.
+> <strong>Rynquald wrote:</strong>
+> Jezer makes an excellent point. The possibility of making a web interface for Sloth would make the game far more accessible, and encourage more people who find the site to try it. Even if it was just a stepping stone into getting a "real" client.
+> 
+> 
+> 
+> Of course a coder would have to have the time to do it. But it's a worthwhile project to have on the list.
 
-Of course a coder would have to have the time to do it. But it's a worthwhile project to have on the list.[/quote:7ao9hgh1]
-
-This strikes me as best done without modifying the MUD itself; make your web interface talk the usual plain text with the mud.  If a particular piece of state is difficult to get this way, ask a coder to expose that data via mxp.  You could complete this project independent of game management, though an endorsed web interface accessible via slothmud.org would see more use.
+This strikes me as best done without modifying the MUD itself; make your web interface talk the usual plain text with the mud. If a particular piece of state is difficult to get this way, ask a coder to expose that data via mxp. You could complete this project independent of game management, though an endorsed web interface accessible via slothmud.org would see more use.
 
 </div>
 
@@ -218,19 +233,20 @@ have a page on the website, with screenshots and all, explaining various aspects
 
 <div class="post" data-post-id="27948" data-author="Weasel" data-date="2009-01-31T05:44:54+00:00" data-subject="">
 
-Heh, wasn't refering to to you Ryn... was refering to the older players who are anti change and are often expressing there "haha noob" statements, about everyone else. We still got players whining about new classo's for goodness sake... retire!  :twisted: Your WERE awesome, now you suck, get with it or leave. Not all old players are like that... some I think want progress just as much... just sick of the same ruts.[/quote:1jr8r2mn]
+> <strong>jezer wrote:</strong>
+> Heh, wasn't refering to to you Ryn... was refering to the older players who are anti change and are often expressing there "haha noob" statements, about everyone else. We still got players whining about new classo's for goodness sake... retire! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> Your WERE awesome, now you suck, get with it or leave. Not all old players are like that... some I think want progress just as much... just sick of the same ruts.
 
-Well that's REAL intelligent - on a thread about how to increase the player base, you've just alienated many of the dedicated long-term players that have kept this mud going for years, and told them to leave. How fapping stupid..  
+Well that's REAL intelligent - on a thread about how to increase the player base, you've just alienated many of the dedicated long-term players that have kept this mud going for years, and told them to leave. How fapping stupid.. 
 
 For the record; change is good, when it's done right.
 
- :evil:
+ <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="27949" data-author="Gimlet" data-date="2009-01-31T06:16:55+00:00" data-subject="">
 
-as much as I get tired of the constant whinging about new classos making old ones obsolete, I think you jezer whine more than anyone about how the mud should be catered to only what U need and how you wwant to play :P
+as much as I get tired of the constant whinging about new classos making old ones obsolete, I think you jezer whine more than anyone about how the mud should be catered to only what U need and how you wwant to play <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -246,7 +262,7 @@ BTW, I thought gimlets ideas were pretty cool... and might I add, if they extend
 
 <div class="post" data-post-id="27951" data-author="jezer" data-date="2009-01-31T07:03:03+00:00" data-subject="">
 
-I wish there was a means, where by we could become junior coders... where by we could earn trust, just by fixing stuff we get given to do by higher imms. I've thought about designing an area, and I've written some descriptions... but this is not me... I'm a programmer!  :evil: I'm not about to sell the code, post it online, add +10 dam to druid forms... just give me a chance to make a contribution that suits my skill sets... Even I could probably get sloth working through some java console in a web browser if I was just given the license and trust to give it a go.
+I wish there was a means, where by we could become junior coders... where by we could earn trust, just by fixing stuff we get given to do by higher imms. I've thought about designing an area, and I've written some descriptions... but this is not me... I'm a programmer! <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom"> I'm not about to sell the code, post it online, add +10 dam to druid forms... just give me a chance to make a contribution that suits my skill sets... Even I could probably get sloth working through some java console in a web browser if I was just given the license and trust to give it a go.
 
 </div>
 
@@ -256,7 +272,7 @@ You know what - if your character suddenly got severely nerfed (or everyone else
 
 Secondly, I'd love to stab you in the face right now. But I'll get over that.
 
-You will likely get your wish though, I've had enough of little know-it-all noobie fcukers like you telling everyone else how it should be. Go fcuk yourself. When you've spent nearly a decade building up your character I'll be very very glad to come back, immort, and then bend you over and nerf your character(s) so hard up the ass that you'll be blowing sh*t out your nose for weeks.
+You will likely get your wish though, I've had enough of little know-it-all noobie fcukers like you telling everyone else how it should be. Go fcuk yourself. When you've spent nearly a decade building up your character I'll be very very glad to come back, immort, and then bend you over and nerf your character(s) so hard up the ass that you'll be blowing sh\*t out your nose for weeks.
 
 It is a few self-centered dickheads like you that almost killed this mud.
 
@@ -264,7 +280,7 @@ It is a few self-centered dickheads like you that almost killed this mud.
 
 yep, I feel better now, thanks.
 
-  :evil:
+ <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -272,9 +288,9 @@ yep, I feel better now, thanks.
 
 chill weasel
 
-you weren't the only one who got his char nerfed.  Heck, even people who made new classes have constantly gotten their chars nerfed, while stuff were being added in plenty for old classes.
+you weren't the only one who got his char nerfed. Heck, even people who made new classes have constantly gotten their chars nerfed, while stuff were being added in plenty for old classes.
 
-some of your rants are legitimate, in fact most are.  but you chose to stay on and mud which means you prob enjoy the game an awful lot, like most of us.  But I have to agree with you that the new players who come in telling the oldies to STFU and either make a new char or get lost...it's kinda gay
+some of your rants are legitimate, in fact most are. but you chose to stay on and mud which means you prob enjoy the game an awful lot, like most of us. But I have to agree with you that the new players who come in telling the oldies to STFU and either make a new char or get lost...it's kinda gay
 
 </div>
 
@@ -284,9 +300,9 @@ Actually developing a java console or web interface to play the game has been on
 
 Jezer,
 
-       Feel free to start working on one for us. This can be done without any access to Sloth's code. It would basically be a stand alone client as the rest of them are.  There are quite a few spread over the internet already, here is one that has caught my eye recently;
+ Feel free to start working on one for us. This can be done without any access to Sloth's code. It would basically be a stand alone client as the rest of them are. There are quite a few spread over the internet already, here is one that has caught my eye recently;
 
-[<LINK_TEXT text="http://www.mudconnect.com/discuss/discu ... sage=22244">http://www.mudconnect.com/discuss/discuss.cgi?mode=MSG&area=general&message=22244</LINK_TEXT>](http://www.mudconnect.com/discuss/discuss.cgi?mode=MSG&area=general&message=22244)
+[http://www.mudconnect.com/discuss/discuss.cgi?mode=MSG&area=general&message=22244](http://www.mudconnect.com/discuss/discuss.cgi?mode=MSG&area=general&message=22244)
 
 [http://dum.acc.umu.se/~pathor/software/soiled/](http://dum.acc.umu.se/~pathor/software/soiled/)
 
@@ -302,17 +318,17 @@ Splork
 
 <div class="post" data-post-id="27957" data-author="Gimlet" data-date="2009-01-31T13:36:51+00:00" data-subject="">
 
-sloth as a facebook app would be mucho neato :)
+sloth as a facebook app would be mucho neato <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="27958" data-author="jezer" data-date="2009-01-31T14:28:12+00:00" data-subject="">
 
-Tried getting that think to work, but it would appear, the server hosting the script files needs to provide a security policy file for flash, I keep getting a security error :( Flash/Web isn't really my field... scratching my head here.
+Tried getting that think to work, but it would appear, the server hosting the script files needs to provide a security policy file for flash, I keep getting a security error <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom"> Flash/Web isn't really my field... scratching my head here.
 
 This sort of thing was originally what I had in mind...
 
-[url:169wmcot]http://www.mudconnect.com/java/Telnet/[/url:169wmcot]
+http://www.mudconnect.com/java/Telnet/
 
 </div>
 
@@ -330,11 +346,11 @@ Splork
 
 Screw all that, its time to go graphical,thats right, I'm talking about
 
-WORLD[/color:14y491xr][/size:14y491xr]
+WORLD
 
-OF[/size:14y491xr][/color:14y491xr]
+OF
 
-SLOTHMUD[/size:14y491xr][/color:14y491xr]
+SLOTHMUD
 
 </div>
 
@@ -342,7 +358,7 @@ SLOTHMUD[/size:14y491xr][/color:14y491xr]
 
 I got this one loading nicely as an applet in a web browser...
 
-[url:1mt73olv]http://javassh.org/space/Installing+the+Applet[/url:1mt73olv]
+http://javassh.org/space/Installing+the+Applet
 
 Suspect the only reason I get access denied trying to connect to sloth is that my web host is not permitting the outgoing connection to sloth (Security Permission). Worth a look...
 
@@ -350,7 +366,7 @@ Suspect the only reason I get access denied trying to connect to sloth is that m
 
 <div class="post" data-post-id="27992" data-author="marge" data-date="2009-02-05T13:07:01+00:00" data-subject="">
 
-The new apps may be helping already.  Our numbers seem to be improving. Lets push the voting and get our tmc ranking back up. Pleaaasseeee vote.
+The new apps may be helping already. Our numbers seem to be improving. Lets push the voting and get our tmc ranking back up. Pleaaasseeee vote.
 
 </div>
 

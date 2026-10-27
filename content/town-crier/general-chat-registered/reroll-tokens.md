@@ -38,7 +38,7 @@ Thraxas
 
 <div class="post" data-post-id="31352" data-author="Tuck" data-date="2010-07-13T16:10:20+00:00" data-subject="Re: Reroll Tokens">
 
-> **Thraxas wrote:**
+> <strong>Thraxas wrote:</strong>
 > This makes me wonder if it is time to increase the global pop rate for hex tokens to make tehm more common and so bring this value down to the more reasonable 100k they were on S3 and so make them affordable by newbie players?
 
 yeah, increase global pop rate for hex so i can reroll my 81.
@@ -47,30 +47,30 @@ yeah, increase global pop rate for hex so i can reroll my 81.
 
 <div class="post" data-post-id="31353" data-author="reboog" data-date="2010-07-15T23:58:20+00:00" data-subject="Re: Reroll Tokens">
 
-I think the new reroll system is a tremendous improvement and should be left as is.  Of course hexes are going to cost more because now they're... wait for it... more valuable!
+I think the new reroll system is a tremendous improvement and should be left as is. Of course hexes are going to cost more because now they're... wait for it... more valuable!
 
 </div>
 
 <div class="post" data-post-id="31355" data-author="blackmore" data-date="2010-07-16T01:12:59+00:00" data-subject="Re: Reroll Tokens">
 
-It all depends on how bad people want them.  For a long time in S3, hexes were 300k, and I seem to remember 350k.  Then when more people had higher level chars and could run 15 hex mobs at a time, the value dropped.  I don't see them ever getting that high now, because you can afford to roll without collecting 25 hexes, since you can save your stats with a tri now.
+It all depends on how bad people want them. For a long time in S3, hexes were 300k, and I seem to remember 350k. Then when more people had higher level chars and could run 15 hex mobs at a time, the value dropped. I don't see them ever getting that high now, because you can afford to roll without collecting 25 hexes, since you can save your stats with a tri now.
 
 </div>
 
 <div class="post" data-post-id="31356" data-author="Thraxas" data-date="2010-07-16T08:24:49+00:00" data-subject="Re: Reroll Tokens">
 
-> **blackmore wrote:**
-> ....  For a long time in S3, hexes were 300k, and I seem to remember 350k.  ....  I don't see them ever getting that high now....
+> <strong>blackmore wrote:</strong>
+> .... For a long time in S3, hexes were 300k, and I seem to remember 350k. .... I don't see them ever getting that high now....
 
 Last week 2 hex tokens sold for 500k each at kobold auctioneer, currently we have the following.
 
 Showing all current listings:
 
- id      Item                               last bid   bidder     buyout     time      seller
+ id Item last bid bidder buyout time seller
 
-------  ---------------------------------- ---------  ---------  ---------  --------  --------
+\------ ---------------------------------- --------- --------- --------- -------- --------
 
- UBMED   a hexagonal shaped token             200000 |      Eau |   400000 | 5hr 10m   Stun
+ UBMED a hexagonal shaped token 200000 \| Eau \| 400000 \| 5hr 10m Stun
 
 Yes if things are more valuable they will attrach a higher marker rate, good capitalism that, but if supply increases then demand should drop and so the price reduce. The stated aim of the imms on S4 start was to remove reroll hell, and while good and welcome moves have been made to reduce it, its not removed.
 
@@ -94,7 +94,7 @@ Splork
 
 <div class="post" data-post-id="31359" data-author="reboog" data-date="2010-07-17T20:14:05+00:00" data-subject="Re: Reroll Tokens">
 
-> **Quote:**
+> <strong>Quote:</strong>
 > We, as a group( Immortals ), never wanted to remove reroll hell. We wanted to make sure that all players began the game with a decent set of stats, this would allow them to move right into the game and start playing without the worry of having to roll 50 times to get playable stats.
 
 Yessssssssssssssss

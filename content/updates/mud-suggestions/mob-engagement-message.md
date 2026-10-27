@@ -40,9 +40,9 @@ This would help me visualize the scene and what is happening a little better and
 
 <div class="post" data-post-id="36364" data-author="Yasik" data-date="2015-12-24T18:24:45+00:00" data-subject="Re: Mob Engagement Message">
 
-"* sees you and attacks!"
+"\* sees you and attacks!"
 
-"* growls at you and attacks!"
+"\* growls at you and attacks!"
 
 Those?
 
@@ -50,7 +50,7 @@ Those?
 
 <div class="post" data-post-id="36378" data-author="*juggleblood*" data-date="2015-12-27T14:14:47+00:00" data-subject="Re: Mob Engagement Message">
 
-Yes, like those.  There is currently no message when you are fighting one aggro and another one in the same room attacks you.
+Yes, like those. There is currently no message when you are fighting one aggro and another one in the same room attacks you.
 
 If you were fighting a firenewt guard and another attacked you. You just see something like:
 
@@ -78,6 +78,6 @@ A firenewt guard misses you with his hit."
 
 <div class="post" data-post-id="36389" data-author="Yasik" data-date="2015-12-29T05:56:30+00:00" data-subject="Re: Mob Engagement Message">
 
-I think I agree, it would be better your way, but urgency of this fix is debatable. It always was and noone complained until now, also the join-fight message is encased in two \n's , so we can say it stands out *trollface*
+I think I agree, it would be better your way, but urgency of this fix is debatable. It always was and noone complained until now, also the join-fight message is encased in two \\n's , so we can say it stands out \*trollface\*
 
 </div>

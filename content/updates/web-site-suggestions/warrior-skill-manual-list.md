@@ -14,13 +14,13 @@ post_count: 6
 
 I looked at this today and only ONE poppable manual is listed 
 
-for warriors.  I'm not sure if whomever is in charge of this 
+for warriors. I'm not sure if whomever is in charge of this 
 
 dpesn't know where they load or hasn't bothered tp update in a long
 
-time, but here is a list of what *I* know of just incase, if you could please update it.
+time, but here is a list of what \*I\* know of just incase, if you could please update it.
 
-Bloodrage sb-  dawrven warriors s and w od SS town on way to mountain
+Bloodrage sb- dawrven warriors s and w od SS town on way to mountain
 
 Critical hit- derro warriors SS, reptilian warriors in crypt AH
 
@@ -38,7 +38,7 @@ Aaron
 
 <div class="post" data-post-id="3779" data-author="guest" data-date="2005-01-14T13:33:16+00:00" data-subject="">
 
-[<LINK_TEXT text="http://slothmud.org/eqlist/index.php?st ... aproom.php">http://slothmud.org/eqlist/index.php?stage=3&alternateeqtype=Books&orderby=Book%2BName&sortorder=asc&filterby=Any&filterstring=warrior&continent=All&changemonth=01&changedate=01&changeyear=2000&viewflags=View%2BOnly&actionmenu=maproom.php</LINK_TEXT>](http://slothmud.org/eqlist/index.php?stage=3&alternateeqtype=Books&orderby=Book%2BName&sortorder=asc&filterby=Any&filterstring=warrior&continent=All&changemonth=01&changedate=01&changeyear=2000&viewflags=View%2BOnly&actionmenu=maproom.php)
+[http://slothmud.org/eqlist/index.php?stage=3&alternateeqtype=Books&orderby=Book%2BName&sortorder=asc&filterby=Any&filterstring=warrior&continent=All&changemonth=01&changedate=01&changeyear=2000&viewflags=View%2BOnly&actionmenu=maproom.php](http://slothmud.org/eqlist/index.php?stage=3&alternateeqtype=Books&orderby=Book%2BName&sortorder=asc&filterby=Any&filterstring=warrior&continent=All&changemonth=01&changedate=01&changeyear=2000&viewflags=View%2BOnly&actionmenu=maproom.php)
 
 i think that covers most of them, although yeah, they should maybe be listed under class abilities too
 
@@ -70,7 +70,7 @@ Splork
 
 <div class="post" data-post-id="3782" data-author="Leaf" data-date="2005-01-14T17:45:37+00:00" data-subject="">
 
-But if you do, it's cool :)
+But if you do, it's cool <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Thx
 
@@ -78,6 +78,6 @@ Thx
 
 <div class="post" data-post-id="3787" data-author="13" data-date="2005-01-14T20:12:31+00:00" data-subject="">
 
-Much Obliged Rick :)
+Much Obliged Rick <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

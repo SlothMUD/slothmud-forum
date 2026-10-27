@@ -22,7 +22,7 @@ I reported this to Maniac and he said to make a post about it, so here it is.
 
 Take care now.
 
----Bel
+\---Bel
 
 </div>
 

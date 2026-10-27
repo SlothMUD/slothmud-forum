@@ -32,7 +32,7 @@ Mostly newbie stuff. I did have a reroll token though. D:
 
 <div class="post" data-post-id="30698" data-author="Redcross" data-date="2010-01-17T16:44:07+00:00" data-subject="">
 
-If  you had a token and not very much money when you rented the innkeeper may have kept your stuff in leu of payment, not sure on the exact details of how this works as I avoid it very carefully. 
+If you had a token and not very much money when you rented the innkeeper may have kept your stuff in leu of payment, not sure on the exact details of how this works as I avoid it very carefully. 
 
 BTW you can hold reroll tokens in light slot and avoid rent cost of one.
 

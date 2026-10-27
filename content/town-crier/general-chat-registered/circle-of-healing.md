@@ -12,7 +12,7 @@ post_count: 5
 
 <div class="post" data-post-id="29712" data-author="Thraxas" data-date="2009-07-22T12:43:09+00:00" data-subject="Circle of Healing">
 
-[i:3edqqezl]Circle of Healing affects all members of a group as long as they are in the same room.[/i:3edqqezl]
+<em>Circle of Healing affects all members of a group as long as they are in the same room.</em>
 
 Nice spell, very welcome introduction, I got a question though:
 
@@ -32,7 +32,7 @@ Thraxas
 
 <div class="post" data-post-id="29713" data-author="Akasha" data-date="2009-07-22T13:38:22+00:00" data-subject="">
 
-well, it seems atm that circle does indeed affect undead followers in a hateful way.  This wasn't intended and we are checking on a method to fix this.  Thanks for bringing this up.
+well, it seems atm that circle does indeed affect undead followers in a hateful way. This wasn't intended and we are checking on a method to fix this. Thanks for bringing this up.
 
 </div>
 
@@ -40,7 +40,7 @@ well, it seems atm that circle does indeed affect undead followers in a hateful 
 
 np
 
-Does this count as 'identifying a bug?' :)
+Does this count as 'identifying a bug?' <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

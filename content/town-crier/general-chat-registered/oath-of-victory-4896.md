@@ -28,7 +28,7 @@ i would be willing to explore a way to redeem yourself permanently if that 1/8th
 
 possibly/most likely involving a quest of some sort and a few pointless possible deaths.
 
-hint: meaning  dont use oaths while trying it.
+hint: meaning dont use oaths while trying it.
 
 feel free to post realistic ideas.
 
@@ -46,7 +46,7 @@ Completed Oaths 10,421
 
 Broken Oaths 13
 
-redaction = (13 * 100) / 10,421 * temp hp points
+redaction = (13 \* 100) / 10,421 \* temp hp points
 
 temp hp points = temp hp points - redaction
 
@@ -56,7 +56,7 @@ In this way a warriors redemption is based on the ratio of his broken oaths vs h
 
 <div class="post" data-post-id="39140" data-author="Josiah" data-date="2019-03-23T22:57:36+00:00" data-subject="Re: Oath of Victory">
 
-I always assumed that the benefit from oath was based on your ratio of successes.  Never tested it, somewhat surprised that isn't how it works.
+I always assumed that the benefit from oath was based on your ratio of successes. Never tested it, somewhat surprised that isn't how it works.
 
 On the other hand, since the downside of failure maxes out at only 1/8th, I might as well swear victory in every fight.
 
@@ -66,6 +66,6 @@ On the other hand, since the downside of failure maxes out at only 1/8th, I migh
 
 its kinda like
 
-(kept-failed) * formula
+(kept-failed) \* formula
 
 </div>

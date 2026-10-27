@@ -14,6 +14,6 @@ post_count: 1
 
 would like to acquire 2 rusted bracelets
 
-please quote your price :)
+please quote your price <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

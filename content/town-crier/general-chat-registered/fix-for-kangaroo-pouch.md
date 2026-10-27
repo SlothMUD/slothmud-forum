@@ -22,7 +22,7 @@ Neptune has graciously offered to replace anyone's kangaroo pouch with the new v
 
 Thank you for your attention,
 
---Idjit
+\--Idjit
 
 </div>
 
@@ -38,7 +38,7 @@ Teker will have to address this.
 
 Thanks
 
---D
+\--D
 
 </div>
 
@@ -52,7 +52,7 @@ and was still able to drop the sword.
 
 so it's not the pouch in particular.
 
---D
+\--D
 
 </div>
 
@@ -62,6 +62,6 @@ An easier fix would've been to
 
 drop all.belt
 
-:)
+<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

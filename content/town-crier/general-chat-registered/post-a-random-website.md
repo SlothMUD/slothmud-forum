@@ -26,7 +26,7 @@ Why Can't I Own a Canadian?
 
 This was really funny to me and the clip from West Wing is just icing on the cake. If you listen to Dr. Laura, you've probably got something invested in this link.
 
-[url:cimjgjb1]http://www.humanistsofutah.org/2002/WhyCantIOwnACanadian_10-02.html[/url:cimjgjb1]
+http://www.humanistsofutah.org/2002/WhyCantIOwnACanadian_10-02.html
 
 </div>
 
@@ -44,7 +44,7 @@ omg, that is a great site!
 
 <div class="post" data-post-id="24397" data-author="jezer" data-date="2008-05-19T00:47:21+00:00" data-subject="">
 
-[url:1u0d9gym]http://www.digitalblasphemy.com[/url:1u0d9gym]
+http://www.digitalblasphemy.com
 
 </div>
 
@@ -54,7 +54,7 @@ I think half of us visit this site on a regular basis. This link is for the othe
 
 The Order of the Stick - Even though we all wait for 'the meat shield' to get raised, there are still the archives to go through. I've found Erfworld entertaining, but not loaded frequently enough.
 
-[url:1jib7m6l]http://www.giantitp.com/index.html[/url:1jib7m6l]
+http://www.giantitp.com/index.html
 
 </div>
 
@@ -64,13 +64,13 @@ The Order of the Stick - Even though we all wait for 'the meat shield' to get ra
 
 [www.stickdeath.com](http://www.stickdeath.com)
 
-"laugh it up, fuzzball!" -han solo --> the empire strikes back
+"laugh it up, fuzzball!" -han solo --\> the empire strikes back
 
 </div>
 
 <div class="post" data-post-id="24439" data-author="Widow" data-date="2008-05-21T12:35:27+00:00" data-subject="">
 
-There was another site that had you running a helicopter through a maze but I prefer this site for the music, theme and updated graphics. It's not *as* addictive as Slothmud (No stabbity or followers to order around), but I'm sure an extra game in your arsenal is never a bad thing.
+There was another site that had you running a helicopter through a maze but I prefer this site for the music, theme and updated graphics. It's not \*as\* addictive as Slothmud (No stabbity or followers to order around), but I'm sure an extra game in your arsenal is never a bad thing.
 
 [http://www.ferryhalim.com/orisinal/g3/bells.htm](http://www.ferryhalim.com/orisinal/g3/bells.htm)
 
@@ -80,9 +80,9 @@ There was another site that had you running a helicopter through a maze but I pr
 
 Privet!
 
-[url:2dbrane1]http://sloth.eunet.lv/[/url:2dbrane1]
+http://sloth.eunet.lv/
 
-Someone please tell me what they are saying!  :shock:  :twisted: 
+Someone please tell me what they are saying! <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 Oh those russians....
 
@@ -92,7 +92,7 @@ Oh those russians....
 
 I posted a game before, but this site offers some really decent things to eat up any time you're NOT on Sloth or trolling its boards.
 
-[url:1pohsppb]http://www.addictinggames.com/miniputt.html[/url:1pohsppb]
+http://www.addictinggames.com/miniputt.html
 
 Fun and challenging, but I eventually learned the course and got my score -12 under par.
 
@@ -100,21 +100,22 @@ Fun and challenging, but I eventually learned the course and got my score -12 un
 
 <div class="post" data-post-id="24567" data-author="PolkAdotS" data-date="2008-05-28T00:48:52+00:00" data-subject="">
 
-The little known truth, Tap is not to disclose at sure loss of his ability to type, on the sloth crier.  I guess numbnuts didn't find this.
+The little known truth, Tap is not to disclose at sure loss of his ability to type, on the sloth crier. I guess numbnuts didn't find this.
 
-[<LINK_TEXT text="http://www.slothmud.org/index.php?modul ... 1201&vid=2">http://www.slothmud.org/index.php?module=pnEncyclopedia&func=display_term&id=1201&vid=2</LINK_TEXT>](http://www.slothmud.org/index.php?module=pnEncyclopedia&func=display_term&id=1201&vid=2)
+[http://www.slothmud.org/index.php?module=pnEncyclopedia&func=display_term&id=1201&vid=2](http://www.slothmud.org/index.php?module=pnEncyclopedia&func=display_term&id=1201&vid=2)
 
 </div>
 
 <div class="post" data-post-id="24569" data-author="Tap" data-date="2008-05-28T01:12:24+00:00" data-subject="">
 
-[quote:2fznjvjh]Example:
+> <strong>Quote:</strong>
+> Example:
+> 
+> If you wish to squelch a single player, you would
+> 
+> \> notell add Polk
 
-If you wish to squelch a single player, you would
-
-> notell add Polk[/quote:2fznjvjh]
-
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -122,9 +123,9 @@ If you wish to squelch a single player, you would
 
 ok so this isn't exactly random, but 3 cool new things folks might find useful
 
-[url:15xdjy9k]http://goosh.org[/url:15xdjy9k] - shell-like interface to google (and you can use it to replace your searchbar in firefox!).  It's fun to play with and is already greatly speeding up some of my searches for things.
+http://goosh.org \- shell-like interface to google (and you can use it to replace your searchbar in firefox!). It's fun to play with and is already greatly speeding up some of my searches for things.
 
-[url:15xdjy9k]http://googleblog.blogspot.com/2008/06/at-long-last-real-time-stock-quotes-are.html[/url:15xdjy9k]
+http://googleblog.blogspot.com/2008/06/at-long-last-real-time-stock-quotes-are.html
 
 realtime NASDAQ securities in google finance, hopefully with more to come!
 
@@ -140,13 +141,13 @@ pirate eq:
 
 [http://www.piratesandles.com](http://www.piratesandles.com)
 
-"you think?  you'll never kill anyone if you go around thinkin'."  -yellowbeard -->yellowbeard
+"you think? you'll never kill anyone if you go around thinkin'." -yellowbeard --\>yellowbeard
 
 </div>
 
 <div class="post" data-post-id="24738" data-author="*juggleblood*" data-date="2008-06-04T22:32:48+00:00" data-subject="">
 
-[url:1cne60j1]http://www.engrish.com[/url:1cne60j1]
+http://www.engrish.com
 
 </div>
 
@@ -154,7 +155,7 @@ pirate eq:
 
 [http://www.gizoogle.com/](http://www.gizoogle.com/)
 
-"have you been sexually molested?  i can circle the block if you haven't" -greta -->liar liar
+"have you been sexually molested? i can circle the block if you haven't" -greta --\>liar liar
 
 </div>
 
@@ -168,7 +169,7 @@ I gizoogled the sloth homepage, omg it's funny
 
 Not sure which of you out there as into 'up there' as I am, but I thought this site had some fantastic photos and a good place to pick up things to look at anytime you look up.
 
-[url:2lizqf8t]http://heritage.stsci.edu/gallery/gallery_category.html[/url:2lizqf8t]
+http://heritage.stsci.edu/gallery/gallery_category.html
 
 </div>
 
@@ -176,7 +177,7 @@ Not sure which of you out there as into 'up there' as I am, but I thought this s
 
 If you like that Widow, you may like this:
 
-[url:39aoyong]http://neo.jpl.nasa.gov/index.html[/url:39aoyong]
+http://neo.jpl.nasa.gov/index.html
 
 It's NASA's near-earth object program.. I check out the 'close approaches' and 'impact risk' pages every now and then to see how close we were / will be to getting wiped out. Fun.
 
@@ -200,7 +201,7 @@ Jezer - was it just me or did she have bloodshot eyes?
 
 <div class="post" data-post-id="24954" data-author="*juggleblood*" data-date="2008-06-13T16:17:05+00:00" data-subject="">
 
-[url:2shullqo]http://www.juancole.com[/url:2shullqo]
+http://www.juancole.com
 
 </div>
 
@@ -208,13 +209,13 @@ Jezer - was it just me or did she have bloodshot eyes?
 
 [http://www.youtube.com/watch?v=Ma5ounYfFB8](http://www.youtube.com/watch?v=Ma5ounYfFB8) 
 
-!!!!! :)
+!!!!! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="25052" data-author="Widow" data-date="2008-06-16T20:31:10+00:00" data-subject="The Internet Thanks You">
 
-[url:125151gk]http://www.exactcenteroftheinternet.com/thankyou.htm[/url:125151gk]
+http://www.exactcenteroftheinternet.com/thankyou.htm
 
 </div>
 
@@ -222,13 +223,13 @@ Jezer - was it just me or did she have bloodshot eyes?
 
 i'm not sure if this makes me old, a huge geek, or both, but this makes me grin somehow
 
-[url:12wwm692]http://lazylaces.com/56Kmodem/[/url:12wwm692]
+http://lazylaces.com/56Kmodem/
 
 </div>
 
 <div class="post" data-post-id="25194" data-author="alias" data-date="2008-06-26T00:57:24+00:00" data-subject="">
 
-Heh, the modem is the one my father-in-law used until last year.  That thing was sweet, way better than my 1200 baud that lies in my Ibm ps1 that takes up residence in my closet.
+Heh, the modem is the one my father-in-law used until last year. That thing was sweet, way better than my 1200 baud that lies in my Ibm ps1 that takes up residence in my closet.
 
 </div>
 
@@ -242,15 +243,15 @@ EKAS players might be descibed as living by slogan: see the world, meet interest
 
 Breakdown: Achiever 46.67%, Explorer 80.00%, Killer 53.33%, Socializer 20.00% 
 
-have fun, post your results if you want :)
+have fun, post your results if you want <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-[url:tavgmtjm]http://www.gamerdna.com/bartle.php[/url:tavgmtjm]
+http://www.gamerdna.com/bartle.php
 
 </div>
 
 <div class="post" data-post-id="25203" data-author="brady" data-date="2008-06-26T19:07:45+00:00" data-subject="">
 
-Best Question:  Would you rather:  Hear what someone has to say?
+Best Question: Would you rather: Hear what someone has to say?
 
 Show them the sharp blade of your axe?
 
@@ -278,7 +279,7 @@ Breakdown: Achiever 66.67%, Explorer 53.33%, Killer 33.33%, Socializer 46.67%
 
 Best Question: Whats worse: To be without friends, or to be without power.
 
-Powerless friends are pretty bad too I spose eh? :)
+Powerless friends are pretty bad too I spose eh? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 AKSE
 
@@ -290,15 +291,22 @@ Breakdown: Achiever 66.67%, Explorer 26.67%, Killer 66.67%, Socializer 40.00%
 
 <div class="post" data-post-id="25206" data-author="brady" data-date="2008-06-26T21:00:08+00:00" data-subject="">
 
-Best Question: Whats worse: To be without friends, or to be without power.
-
-Powerless friends are pretty bad too I spose eh? :)
-
-AKSE
-
-AKSE players like to be the best-of-the-best at everything the game has to offer. They like to be high on the ladders of whatever metrics the game uses, including PVP. They like the best gear, the most power, and they love being the 'first' at something. Their prowess in PVP is generally supported by a large degree of understanding and posession of the best equipment and skills.
-
-Breakdown: Achiever 66.67%, Explorer 26.67%, Killer 66.67%, Socializer 40.00%[/quote:12d77n4g]
+> <strong>Yinao wrote:</strong>
+> Best Question: Whats worse: To be without friends, or to be without power.
+> 
+> Powerless friends are pretty bad too I spose eh? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
+> 
+> 
+> 
+> AKSE
+> 
+> 
+> 
+> AKSE players like to be the best-of-the-best at everything the game has to offer. They like to be high on the ladders of whatever metrics the game uses, including PVP. They like the best gear, the most power, and they love being the 'first' at something. Their prowess in PVP is generally supported by a large degree of understanding and posession of the best equipment and skills.
+> 
+> 
+> 
+> Breakdown: Achiever 66.67%, Explorer 26.67%, Killer 66.67%, Socializer 40.00%
 
 You made that up!
 
@@ -342,7 +350,7 @@ Breakdown: Achiever 80.00%, Explorer 33.33%, Killer 66.67%, Socializer 20.00%
 
 <div class="post" data-post-id="25227" data-author="jezer" data-date="2008-06-28T05:20:05+00:00" data-subject="">
 
-[url:2kkgrjyr]http://www.pandorabots.com/pandora/talk?botid=f5d922d97e345aa1[/url:2kkgrjyr]
+http://www.pandorabots.com/pandora/talk?botid=f5d922d97e345aa1
 
 Enter your questions in the right text box. Maybe it could offer some advice on the future of sloth mud.
 
@@ -414,15 +422,15 @@ KAES players tends to enjoy the PVP aspect most of all, but also likes to pit th
 
 Breakdown: Achiever 53.33%, Explorer 46.67%, Killer 100.00%, Socializer 6.67%
 
-<Shazuko Roku Ryuu>
+\<Shazuko Roku Ryuu\>
 
-<Shazuko Six Dragons>
+\<Shazuko Six Dragons\>
 
-<~Chaos~>
+\<\~Chaos\~\>
 
-------
+\------
 
-When I consider myself, and my method of thought, I have come to the conclusion that the gift of fantasy has meant more to me than my ability to absorb positive knowledge.      --Albert Einstein
+When I consider myself, and my method of thought, I have come to the conclusion that the gift of fantasy has meant more to me than my ability to absorb positive knowledge. --Albert Einstein
 
 </div>
 
@@ -446,7 +454,7 @@ how cute
 
 <div class="post" data-post-id="25507" data-author="Rynquald" data-date="2008-07-31T05:36:25+00:00" data-subject="">
 
-Special achievement award for the dead domain :)
+Special achievement award for the dead domain <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -454,7 +462,7 @@ Special achievement award for the dead domain :)
 
 Like there's any other choice.
 
-[url:13bidhot]http://www.zod2008.com/[/url:13bidhot]
+http://www.zod2008.com/
 
 </div>
 
@@ -462,7 +470,7 @@ Like there's any other choice.
 
 if anyone is trying to get the hang of a new programming language (or enjoys massive headaches) this is a pretty damned cool little project
 
-[url:16lmz7tj]http://projecteuler.net/index.php?section=problems&page=1[/url:16lmz7tj]
+http://projecteuler.net/index.php?section=problems&page=1
 
 </div>
 
@@ -470,13 +478,13 @@ if anyone is trying to get the hang of a new programming language (or enjoys mas
 
 happy birthday to MUDs!
 
-[url:2le32n8q]http://www.massively.com/2008/10/20/today-the-mud-and-the-mmo-turn-30/[/url:2le32n8q]
+http://www.massively.com/2008/10/20/today-the-mud-and-the-mmo-turn-30/
 
 </div>
 
 <div class="post" data-post-id="27972" data-author="jezer" data-date="2009-02-02T23:38:16+00:00" data-subject="">
 
-[img:3azzxwcu]http://www.swanksigns.org/images/signs/actionmovie.jpg[/img:3azzxwcu]
+![](http://www.swanksigns.org/images/signs/actionmovie.jpg)
 
 KnifeAddictAK
 
@@ -526,6 +534,6 @@ lamarama
 
 Pedestrians: 30 pts Each
 
-[url:3azzxwcu]http://www.swanksigns.org/[/url:3azzxwcu]
+http://www.swanksigns.org/
 
 </div>

@@ -12,7 +12,7 @@ post_count: 2
 
 <div class="post" data-post-id="29115" data-author="Dragoth" data-date="2009-05-08T15:12:04+00:00" data-subject="Bug with shield of faith">
 
-<207hp 209ma 124mv>Warrior: 2043136 (0%) - Unknown minutes
+\<207hp 209ma 124mv\>Warrior: 2043136 (0%) - Unknown minutes
 
 Cleric: 1643136 (0%) - Unknown minutes
 
@@ -26,11 +26,11 @@ Ok.
 
 You focus on your faith.
 
-<208hp 176ma 124mv>sc
+\<208hp 176ma 124mv\>sc
 
-Anrok .  (level: 22)
+Anrok . (level: 22)
 
-Your levels:  Ne: 22 Dr: 20 Cl: 11 Wa: 8 Ma: 1 Ba: 3 
+Your levels: Ne: 22 Dr: 20 Cl: 11 Wa: 8 Ma: 1 Ba: 3 
 
 You are 17 years, 12 months, 24 days old.
 
@@ -62,25 +62,25 @@ You are standing.
 
 You are affected by the following spells:
 
-   Detect Invisible                 
+ Detect Invisible 
 
-   Darksight                        
+ Darksight 
 
-   Darkness                         
+ Darkness 
 
-   Resist Fire                      
+ Resist Fire 
 
-   Resist Cold                      
+ Resist Cold 
 
-   Bone Armor                       
+ Bone Armor 
 
-   Fluidity                         
+ Fluidity 
 
-   Bless                            
+ Bless 
 
-   Regeneration                     
+ Regeneration 
 
-<209hp 177ma 124mv>Warrior: 2043136 (0%) - Unknown minutes
+\<209hp 177ma 124mv\>Warrior: 2043136 (0%) - Unknown minutes
 
 Cleric: 1643136 (0%) - Unknown minutes
 

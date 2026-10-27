@@ -14,7 +14,7 @@ post_count: 2
 
 There didn't seem to be a particular forum for this so thought I'd stick a little introduction in here.
 
-I just wanted to say hello to you all and introduce myself :)
+I just wanted to say hello to you all and introduce myself <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 I've recently returned to mudding after ah...hrm...10 year break?
 
@@ -28,7 +28,7 @@ Anyway, that's me.
 
 I started playing Sloth yesterday and I'm very taken with it. As it is a Diku-rivative, it isn't a far cry to the Envy that I'm used to, and I'm slowly getting to grips with things. I've been impressed with the friendly and helpful folks that I've encountered so far!
 
-Hello to everyone and hopefully will see you in-game soon :)
+Hello to everyone and hopefully will see you in-game soon <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Volryn has backstabbed you!
 

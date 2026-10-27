@@ -14,7 +14,7 @@ post_count: 12
 
 Seems that when you refill decanter, even with 18/100 you can't pick up anything until you rent and come back.
 
-Don't know if this just happened or what - my thief doesn't have a decanter and i only play my mage once every few months, so just noticed it today :P
+Don't know if this just happened or what - my thief doesn't have a decanter and i only play my mage once every few months, so just noticed it today <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 I remember this being a real problem with decanters a few years ago, to the point they where almost unusable - didn't Jyan fix that?
 
@@ -36,91 +36,85 @@ I use decanter and yup, that's always been the case afaik, and still is.. I fill
 
 You can buy:
 
- Price     Item
+ Price Item
 
-----------------------
+\----------------------
 
- 8         a chocolate chip cookie
+ 8 a chocolate chip cookie
 
- 65        a breaded fish sandwich [2]
+ 65 a breaded fish sandwich [2]
 
- 50        some fried chips
+ 50 some fried chips
 
- 75000     a white spindle shaped ioun stone
+ 75000 a white spindle shaped ioun stone
 
- 40        a canvas knapsack
+ 40 a canvas knapsack
 
- 41000     a deep blue spherical ioun stone [5]
+ 41000 a deep blue spherical ioun stone [5]
 
- 45000     a golden dragon scale [6]
+ 45000 a golden dragon scale [6]
 
- 50        a dagger
+ 50 a dagger
 
- 10        iron rations
+ 10 iron rations
 
- 15        a bag
+ 15 a bag
 
- 35        a backpack
+ 35 a backpack
 
- 20        a hooded brass lantern
+ 20 a hooded brass lantern
 
- 20        water barrel[/color:7m18apgh]
+ 20 water barrel
 
- 2         a torch
+ 2 a torch
 
- 1500      a bamboo fishing pole
+ 1500 a bamboo fishing pole
 
- 7         a fairy-ka-bob..It has a soft glowing aura!
+ 7 a fairy-ka-bob..It has a soft glowing aura!
 
- 35000     a bag of horse feed
+ 35000 a bag of horse feed
 
-----------------------
+\----------------------
 
 "CREATE WATER"
 
- 
+See also: CREATE FOOD 
 
-See also:     CREATE FOOD 
-
-Usage:        cast 'create water' <container>
+Usage: cast 'create water' \<container\>
 
 Accumulative: - 
 
-Duration:     Instantaneous 
+Duration: Instantaneous 
 
-Level:        Cleric 2, Mage 31, Bard 10
+Level: Cleric 2, Mage 31, Bard 10
 
-Save:         N/A 
+Save: N/A 
 
-Spellbook:    damp 
+Spellbook: damp 
 
-Stratum:      Summoning
+Stratum: Summoning
 
-Min mana:     5 
-
- 
+Min mana: 5 
 
 The spell is easy to perform for the devotees of the gods, and reasonably
 
-harder so for the magic-users.  It will bind the tiny particles of vapor
+harder so for the magic-users. It will bind the tiny particles of vapor
 
-into drops of water until the water container is filled.  Note that only
+into drops of water until the water container is filled. Note that only
 
-so many pounds of water may be extracted from the atmosphere.  The total
+so many pounds of water may be extracted from the atmosphere. The total
 
 outcome depends on the caster's skill, but it will never exceed 80 lbs.
 
- 
+Example: cast 'create water' barrel
 
-Example:  cast 'create water' barrel[/color:7m18apgh]
-
------------------------
+\-----------------------
 
 Use 'junk' to dispose of something in your inventory for which 
 
-you have no further use. Once it's junked, you can't get it back.[/size:7m18apgh]
+you have no further use. Once it's junked, you can't get it back.
 
- 8)  8)  8)  8)  8)  8)  8)
+ <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -134,7 +128,7 @@ Just because you aren't cool enough to have a decent water container doesn't mea
 
 nods - tall poppy syndrome.
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -142,7 +136,7 @@ nods - tall poppy syndrome.
 
 I'm sorry, I forgot to highlight the part about only costing 5 mana to cast create water. Point was water barrels wouldn't cause you the same headache. But yeah, go ahead and smoke your cig's in the boys bathroom toughguy.
 
- :roll:
+ <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -172,7 +166,7 @@ Then, after you've done that...
 
 pour barrel decanter
 
-... as many times as it takes, or you could just get a sapphire qwevri and complain about it being the same size container as a barrel, which is what I'd rather do.  Better yet, make so many ... cast 'feast' ,preferably a 'blessfeast' and get the pitchers, put them into decanters and you won't spend a single coin on barrels.  Good fun, why do people argue about simple and stupid stuff?
+... as many times as it takes, or you could just get a sapphire qwevri and complain about it being the same size container as a barrel, which is what I'd rather do. Better yet, make so many ... cast 'feast' ,preferably a 'blessfeast' and get the pitchers, put them into decanters and you won't spend a single coin on barrels. Good fun, why do people argue about simple and stupid stuff?
 
 </div>
 
@@ -184,6 +178,6 @@ or just fix the decanters.
 
 <div class="post" data-post-id="24069" data-author="Gumbi" data-date="2008-04-27T22:47:23+00:00" data-subject="">
 
-Tap has a simple solution, Brady has a more simple solution.  I still like the idea of filling an 'endless decanter of water' with pitchers though.
+Tap has a simple solution, Brady has a more simple solution. I still like the idea of filling an 'endless decanter of water' with pitchers though.
 
 </div>

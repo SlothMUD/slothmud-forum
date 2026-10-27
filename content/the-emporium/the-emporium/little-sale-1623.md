@@ -12,31 +12,31 @@ post_count: 9
 
 <div class="post" data-post-id="9940" data-author="Krok" data-date="2005-12-30T06:25:35+00:00" data-subject="little sale">
 
-1. golden sceptre 
+1\. golden sceptre 
 
 held low, -0.6 ac, +6 hps, app avatar
 
 4 mils min
 
-2. thick iron leg plates, -1.6 app th and exp wa
+2\. thick iron leg plates, -1.6 app th and exp wa
 
 300k
 
-3. cp for shard, pinch of marjoram, 500k
+3\. cp for shard, pinch of marjoram, 500k
 
-4. blue steel greaves, -1.4 dex app th and exp wa
+4\. blue steel greaves, -1.4 dex app th and exp wa
 
 700k
 
-5. forest green gloves, -0.2 dex, any adept
+5\. forest green gloves, -0.2 dex, any adept
 
 200k
 
-6. volcanic leg plates, 1.4 str, exp th
+6\. volcanic leg plates, 1.4 str, exp th
 
 700k
 
-7. Bloodstained Greaves of the Oni 1.5, exp war
+7\. Bloodstained Greaves of the Oni 1.5, exp war
 
 500k
 
@@ -46,7 +46,7 @@ closing whenever i feel like it, good luck
 
 <div class="post" data-post-id="9941" data-author="Nyx" data-date="2005-12-30T06:39:53+00:00" data-subject="">
 
-interested in marjoram - 500k (and will go higher if needed) :)
+interested in marjoram - 500k (and will go higher if needed) <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -72,7 +72,7 @@ ok, i'm working as a shop assistant.. bid from baa, who couldn't post from his p
 
 ok , 5
 
-btw pwd was polluelo_de_cuco_is_too_greedy
+btw pwd was polluelo\_de\_cuco\_is\_too\_greedy
 
 </div>
 

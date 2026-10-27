@@ -34,13 +34,13 @@ Akmee - Dao Citadel
 
 Grunnik - Dao Citadel
 
-cast 'charm person' and the name of the mob. In most cases the mob will begin following you. Make sure you stone or iron the mob, and aegis them. Simply "order followers assist <your name>."
+cast 'charm person' and the name of the mob. In most cases the mob will begin following you. Make sure you stone or iron the mob, and aegis them. Simply "order followers assist \<your name\>."
 
-Youna, the Slate Prince reports 6278/6278 hp. Need: 0. 191/450 ma.  122/124 mv.
+Youna, the Slate Prince reports 6278/6278 hp. Need: 0. 191/450 ma. 122/124 mv.
 
-Akmee, the Granite Prince reports 7176/7176 hp. Need: 0. 100/100 ma.  122/124 mv.
+Akmee, the Granite Prince reports 7176/7176 hp. Need: 0. 100/100 ma. 122/124 mv.
 
-<1512hp 274ma 655mv -15.0ac The Dragon Mountain 67%>
+\<1512hp 274ma 655mv -15.0ac The Dragon Mountain 67%\>
 
 You skillfully parry the attack of a male black dragon.
 
@@ -84,7 +84,7 @@ You viciously massacre a male black dragon with your slash.
 
 A male black dragon lunges forward and issues a black cloud from his jaws!
 
-AHHH!  a male black dragon gestures and a piece of your body disappears.
+AHHH! a male black dragon gestures and a piece of your body disappears.
 
 Youna, the Slate Prince utters the words, 'yufzxuie'
 
@@ -106,22 +106,22 @@ Your list of requirements also omits the part about being strong enough to tank 
 
 <div class="post" data-post-id="39466" data-author="Driven" data-date="2020-05-08T14:34:02+00:00" data-subject="Re: How to charm mobs and solo entire areas.">
 
-IIRC, charmed mobs steal xp from you.  So yes, if you manage to survive the order lag (2 full rounds), and you manage to time the deathblow so that your charmed mob doesn't get the deathblow, then congratz on working your tail off for capped xp.  AFAIK, the only reason to do this is for equipment and/or AQ mobs, but since most of the elite equipment in the game is drachma, and we have so few equipment groups, I don't see how this discourages people from grouping.  How is this any different than mage-styling a mob, or using second wind to cancel strike lag and retreating out?  Am I missing something?
+IIRC, charmed mobs steal xp from you. So yes, if you manage to survive the order lag (2 full rounds), and you manage to time the deathblow so that your charmed mob doesn't get the deathblow, then congratz on working your tail off for capped xp. AFAIK, the only reason to do this is for equipment and/or AQ mobs, but since most of the elite equipment in the game is drachma, and we have so few equipment groups, I don't see how this discourages people from grouping. How is this any different than mage-styling a mob, or using second wind to cancel strike lag and retreating out? Am I missing something?
 
 </div>
 
 <div class="post" data-post-id="39467" data-author="Gorka" data-date="2020-05-08T16:41:35+00:00" data-subject="Re: How to charm mobs and solo entire areas.">
 
-> **Driven wrote:**
+> <strong>Driven wrote:</strong>
 > Am I missing something?
 
-Yes, it's massively OP, more than anything else in the game. Funny how all you builders have decided to turn a blind eye to it, yet make us scrimp for +1's costing hundreds of drachma. The game's a joke. I mean it always was, but now even more so. Josiah, Oboe and Mirage all try and sweeten the hack, and you all turn your coats. You expect bards and necro's to collect massive amounts of charisma and undead control for nothing and then let this fly. Where is the game's creditably. So dumb. Do you even care about the game anymore or is it all just about you and your buddies? *wink* *wink* *nudge* *nudge* I'm disgusted. Gorka's spent trillions of xp to get to where he is, and here is a couple of followers allowing players the same power for practically nothing. And here you all are pretending to be "measured."
+Yes, it's massively OP, more than anything else in the game. Funny how all you builders have decided to turn a blind eye to it, yet make us scrimp for +1's costing hundreds of drachma. The game's a joke. I mean it always was, but now even more so. Josiah, Oboe and Mirage all try and sweeten the hack, and you all turn your coats. You expect bards and necro's to collect massive amounts of charisma and undead control for nothing and then let this fly. Where is the game's creditably. So dumb. Do you even care about the game anymore or is it all just about you and your buddies? \*wink\* \*wink\* \*nudge\* \*nudge\* I'm disgusted. Gorka's spent trillions of xp to get to where he is, and here is a couple of followers allowing players the same power for practically nothing. And here you all are pretending to be "measured."
 
 </div>
 
 <div class="post" data-post-id="39468" data-author="Driven" data-date="2020-05-08T16:54:36+00:00" data-subject="Re: How to charm mobs and solo entire areas.">
 
-And how is strike, second wind, retreat not just as OP?  I would argue strike/second wind/retreat is even more OP because it requires no skin in the game whatsoever, and there is literally no limit to the size of the mob you can kill, whereas followers have a very real limit.  And yet you haven't stood on your high horse and declared how OP it is, demanding that it be fixed... no, you have quietly used it.  Over and over and over again.
+And how is strike, second wind, retreat not just as OP? I would argue strike/second wind/retreat is even more OP because it requires no skin in the game whatsoever, and there is literally no limit to the size of the mob you can kill, whereas followers have a very real limit. And yet you haven't stood on your high horse and declared how OP it is, demanding that it be fixed... no, you have quietly used it. Over and over and over again.
 
 </div>
 
@@ -181,9 +181,9 @@ Since discussion is moving towards game inbalances in general, I can't hesistate
 
 I think there are 3 major inbalances:
 
-1. Weak bards and useless charisma. There's neighbor topic related to that, so I wouldnt repeat here what was said there.
+1\. Weak bards and useless charisma. There's neighbor topic related to that, so I wouldnt repeat here what was said there.
 
-2. Useless non-prime clerics. While prime clerics are cool(not the strongest prime class and yet fun and interesting to play), experienced players dont choose cleric as second class. Many don't even put it third. Since there's nothing to gain from position of cleric in the class order other than eudaemon, some put it even fifth.
+2\. Useless non-prime clerics. While prime clerics are cool(not the strongest prime class and yet fun and interesting to play), experienced players dont choose cleric as second class. Many don't even put it third. Since there's nothing to gain from position of cleric in the class order other than eudaemon, some put it even fifth.
 
 I think it's balance issue, since if I was a new player, I'd definitely had chosen wa/cl. As paladin is supposed to be optimal choice for many RPGs. Well, SlothMUD is exception. And non-intuitive wa/dr is better choice than intuitive wa/cl.
 
@@ -191,7 +191,7 @@ This issue could be addressed by rehauling supplications after eudaemon so they'
 
 Another suggestion is to add non-prime weaker alternative of "dark mace", which power would depend on 40s after cleric in the class order. I think it would be cool, if you could play as prime warrior and yet smash undeads.
 
-3. Weak necro pets. I've played necro up to 4x40(also my 6x40 bard has necro fourth) and generally I think that efforts(mana cost mostly) to summon/animate and buff pets don't worth the payoff.
+3\. Weak necro pets. I've played necro up to 4x40(also my 6x40 bard has necro fourth) and generally I think that efforts(mana cost mostly) to summon/animate and buff pets don't worth the payoff.
 
 I'd suggest to make higher level pets buff and even heal themselves.
 
@@ -271,32 +271,32 @@ MOB : soft shelled turtle	LVL : 41	AREA : Ch'ung Kuo	6863223
 
 <div class="post" data-post-id="39473" data-author="Driven" data-date="2020-05-08T20:14:17+00:00" data-subject="Re: How to charm mobs and solo entire areas.">
 
-You continue to evade the point, Gorka, so let me state this is as clearly as I can, because you are just as guilty of this as anyone else, so to suddenly act like you are the one with the halo is beyond me.  Charm person is just one OP technique of many that enables you to kill mobs that you otherwise wouldn't be able to solo.  The "problem", if you even want to call it that, is much larger than charm person.
+You continue to evade the point, Gorka, so let me state this is as clearly as I can, because you are just as guilty of this as anyone else, so to suddenly act like you are the one with the halo is beyond me. Charm person is just one OP technique of many that enables you to kill mobs that you otherwise wouldn't be able to solo. The "problem", if you even want to call it that, is much larger than charm person.
 
-And to use the rationale "I've been in favor of changing second wind to just use skills" ignores the fact that strike is a skill... unless you really were intending for strike to be discounted too.  But again, words mean nothing.  If you felt this strongly about it being OP and that the 'integrity of the game was at stake', then you wouldn't have used it, yet you did.  Now that Gorka can legitimately kill things without these techniques, now you suddenly find the integrity of the game at stake?  Just stop.
+And to use the rationale "I've been in favor of changing second wind to just use skills" ignores the fact that strike is a skill... unless you really were intending for strike to be discounted too. But again, words mean nothing. If you felt this strongly about it being OP and that the 'integrity of the game was at stake', then you wouldn't have used it, yet you did. Now that Gorka can legitimately kill things without these techniques, now you suddenly find the integrity of the game at stake? Just stop.
 
-What makes something like charmable mobs, second wind, mage style, etc, OP is the end result -- killing large mobs that you otherwise wouldn't / shouldn't be able to kill.  How you get there is irrelevant.  If your intent is to remove all OP things, then we need to do the following:
+What makes something like charmable mobs, second wind, mage style, etc, OP is the end result -- killing large mobs that you otherwise wouldn't / shouldn't be able to kill. How you get there is irrelevant. If your intent is to remove all OP things, then we need to do the following:
 
-- Make retreat and flee only work after you have entered a full round of battle -- as in, you have to survive a full round of battle prior to being allowed to retreat/flee.
+\- Make retreat and flee only work after you have entered a full round of battle -- as in, you have to survive a full round of battle prior to being allowed to retreat/flee.
 
-- Make shapeshift tree only work after you have entered a full round of battle.
+\- Make shapeshift tree only work after you have entered a full round of battle.
 
-- Lock down the use of charmable mobs, removing the powerful ones completely.
+\- Lock down the use of charmable mobs, removing the powerful ones completely.
 
-- Lock down the use of control undead mobs, removing the powerful ones completely.
+\- Lock down the use of control undead mobs, removing the powerful ones completely.
 
-- Remove the ability for the fury gauntlets to accumulate above 100k spirit points.
+\- Remove the ability for the fury gauntlets to accumulate above 100k spirit points.
 
-Am I missing any?  I'm sure I am.
+Am I missing any? I'm sure I am.
 
-I happen to think it adds a fun aspect to the game in which knowledge is power, and, if you remove every possible one of these, then you're left with a much more boring game.  Hence, I have allowed it--none of this is a surprise to me.  I use these techniques only when I have to.  I have been open about my use of retreat to take down large mobs ever since I was 3x40, so who exactly do you think I'm trying to hide from?  
+I happen to think it adds a fun aspect to the game in which knowledge is power, and, if you remove every possible one of these, then you're left with a much more boring game. Hence, I have allowed it--none of this is a surprise to me. I use these techniques only when I have to. I have been open about my use of retreat to take down large mobs ever since I was 3x40, so who exactly do you think I'm trying to hide from? 
 
-You seem to think this one particular flavor (charm mob) is somehow worse than the others... I disagree.  They all fall under the same umbrella.
+You seem to think this one particular flavor (charm mob) is somehow worse than the others... I disagree. They all fall under the same umbrella.
 
 </div>
 
 <div class="post" data-post-id="39474" data-author="Driven" data-date="2020-05-08T21:45:13+00:00" data-subject="Re: How to charm mobs and solo entire areas.">
 
-And for the record, there is a limit here.  If some of the more powerful charms make it stupid simple, then let's talk about it.  These techniques should be challenging, but doable.  Try doing it with Tonedeaf against a 50m eq mob and let me know how 'easy' it is.
+And for the record, there is a limit here. If some of the more powerful charms make it stupid simple, then let's talk about it. These techniques should be challenging, but doable. Try doing it with Tonedeaf against a 50m eq mob and let me know how 'easy' it is.
 
 </div>

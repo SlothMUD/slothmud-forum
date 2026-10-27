@@ -20,6 +20,6 @@ My account seems to have defaulted back to showing oldest first on posts... wher
 
 Can't. I asked the same thing recently. See this thread:
 
-[<LINK_TEXT text="http://www.slothmud.org/index.php?name= ... pic&t=1905">http://www.slothmud.org/index.php?name=PNphpBB2&file=viewtopic&t=1905</LINK_TEXT>](http://www.slothmud.org/index.php?name=PNphpBB2&file=viewtopic&t=1905)
+[http://www.slothmud.org/index.php?name=PNphpBB2&file=viewtopic&t=1905](http://www.slothmud.org/index.php?name=PNphpBB2&file=viewtopic&t=1905)
 
 </div>

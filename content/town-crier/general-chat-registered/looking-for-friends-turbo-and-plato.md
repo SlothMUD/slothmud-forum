@@ -14,7 +14,7 @@ post_count: 24
 
 subj.
 
-I'm missing you :(
+I'm missing you <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 

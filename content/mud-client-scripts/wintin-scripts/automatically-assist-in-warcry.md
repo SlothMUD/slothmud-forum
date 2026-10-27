@@ -14,9 +14,9 @@ post_count: 1
 
 Many wintin.net users have requested this because they have been hardcoding the tank's warcry. This is more generic and shouldn't ever have to be changed...
 
-#alias  {vcry} {#var crier $1;#showme <*- $1 -*> is doing the warcries.} {G|Groupname}
+\#alias {vcry} {#var crier $1;#showme \<\*- $1 -\*\> is doing the warcries.} {G\|Groupname}
 
-#action  {^$crier yells '%1'} {warcry $1} {G|Groupname}
+\#action {^$crier yells '%1'} {warcry $1} {G\|Groupname}
 
 Put these in whatever group you want them in, my action is in General group and the alias is in my variable group.
 

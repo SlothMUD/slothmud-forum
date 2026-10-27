@@ -12,9 +12,9 @@ post_count: 12
 
 <div class="post" data-post-id="1735" data-author="Nagash" data-date="2004-09-03T09:55:27+00:00" data-subject="Druid question on Prime...">
 
-What does a driud get as a Prime?  Also I know they get mana bonus from
+What does a driud get as a Prime? Also I know they get mana bonus from
 
-a Druid/Nec/Ma/Cl.  So when they shapeshift they keep their large mana.  HP doesn't matter, because u take the life of the creature.  But what about other skills.  I know Monks have Dam Reduce.  So would a Druid in a Dragon get dam reduce because he as Monk in his other.  Or does it only help if the druid is in human mode.  Anyone know this answer?
+a Druid/Nec/Ma/Cl. So when they shapeshift they keep their large mana. HP doesn't matter, because u take the life of the creature. But what about other skills. I know Monks have Dam Reduce. So would a Druid in a Dragon get dam reduce because he as Monk in his other. Or does it only help if the druid is in human mode. Anyone know this answer?
 
 </div>
 
@@ -30,7 +30,7 @@ The mud is changing all the time, so not sure I'm 100% correct :)
 
 <div class="post" data-post-id="1740" data-author="Altair" data-date="2004-09-03T14:03:43+00:00" data-subject="">
 
-Aren't there also some forms that are available to primes only? It's at very high levels or something (kind of far from me... *looks up*)
+Aren't there also some forms that are available to primes only? It's at very high levels or something (kind of far from me... \*looks up\*)
 
 </div>
 
@@ -42,7 +42,7 @@ nope, every form is available for everyone.
 
 <div class="post" data-post-id="3008" data-author="Zeizel" data-date="2004-11-24T01:30:26+00:00" data-subject="">
 
-I've noticed my mana regen rates fluctuate from 20 mana / tick to one time when I got 70 mana / tick.  Does this have to do with the Druid Prime bonus (I almost always regen outside)?
+I've noticed my mana regen rates fluctuate from 20 mana / tick to one time when I got 70 mana / tick. Does this have to do with the Druid Prime bonus (I almost always regen outside)?
 
 </div>
 
@@ -54,7 +54,7 @@ Could be... what between standing vs sleeping, indoors vs outdoors, hungry vs fu
 
 <div class="post" data-post-id="3014" data-author="Zeizel" data-date="2004-11-24T10:07:04+00:00" data-subject="">
 
-Well, I only ever counted mana twice to be honest.  Both times were outdoors, and both times were sleeping.  The difference that I can think of is that one was in a safe room (Sork), while the other was in a regular room enchanted w/a masterful Canopied Arbor.  Has anyone else seen a masterful arbor skyrocket regen rates? (That's where I counted 70 ma/tick)
+Well, I only ever counted mana twice to be honest. Both times were outdoors, and both times were sleeping. The difference that I can think of is that one was in a safe room (Sork), while the other was in a regular room enchanted w/a masterful Canopied Arbor. Has anyone else seen a masterful arbor skyrocket regen rates? (That's where I counted 70 ma/tick)
 
 Thanks!
 
@@ -62,11 +62,11 @@ Thanks!
 
 <div class="post" data-post-id="3017" data-author="Leaf" data-date="2004-11-24T10:18:14+00:00" data-subject="">
 
-The spell arbor is consider "outside".  I don't think it will give u an extra mr
+The spell arbor is consider "outside". I don't think it will give u an extra mr
 
-when using one.  All depends if ur outside/inside, and also if a bard is singing
+when using one. All depends if ur outside/inside, and also if a bard is singing
 
-dreams for ppl.  I get around 120mr outside and a prime bard singing...
+dreams for ppl. I get around 120mr outside and a prime bard singing...
 
 </div>
 
@@ -74,34 +74,34 @@ dreams for ppl.  I get around 120mr outside and a prime bard singing...
 
 I know arbor is outside, because I've tried inside (to see what happened) and it can't be cast inside.
 
-Both situations were almost identical.  I was regenning after a solo run, sleeping outside and by myself both times.
+Both situations were almost identical. I was regenning after a solo run, sleeping outside and by myself both times.
 
 Unless there is a sneaky little Bard fairy who randomly shows up and sings for people (and I didn't dream), then there was no bard involved.
 
-I am just making an observation, and since I've heard that we aren't exactly sure what all of the spells do when masterfully cast, I thought I'd ask if anyone else could confirm masterful arbor increasing regen rates.  I don't believe it increased the duration, which leaves little else to be improved upon.  Maybe the description for the trees was a little nicer?  :wink:
+I am just making an observation, and since I've heard that we aren't exactly sure what all of the spells do when masterfully cast, I thought I'd ask if anyone else could confirm masterful arbor increasing regen rates. I don't believe it increased the duration, which leaves little else to be improved upon. Maybe the description for the trees was a little nicer? <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="3026" data-author="Leaf" data-date="2004-11-24T12:25:40+00:00" data-subject="">
 
-If that is true... I may have to do some testing here and there :)
+If that is true... I may have to do some testing here and there <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 However I don't think the "cost" for the spell is worth it even if it does give
 
-+mr hehe.
+\+mr hehe.
 
 </div>
 
 <div class="post" data-post-id="3032" data-author="Zeizel" data-date="2004-11-24T13:10:55+00:00" data-subject="">
 
-It's really not that expensive.  Magic Rope has a min of 25 mana, iirc.  Canopied Arbor has a min of 35.  And the 'Rope Room' is considered inside, so as a Druid Prime I lose my regen bonus if I use Magic Rope (which hurts).
+It's really not that expensive. Magic Rope has a min of 25 mana, iirc. Canopied Arbor has a min of 35. And the 'Rope Room' is considered inside, so as a Druid Prime I lose my regen bonus if I use Magic Rope (which hurts).
 
-The one major difference is that MOBs you've already fought with (but haven't defeated) can't chase you into a Rope Room, while they _can_ attack you in an arbor'd room.  That's something I'd like to see changed, considering Nature is supposed to be protecting it's 'child' when a Druid casts Arbor.
+The one major difference is that MOBs you've already fought with (but haven't defeated) can't chase you into a Rope Room, while they \_can\_ attack you in an arbor'd room. That's something I'd like to see changed, considering Nature is supposed to be protecting it's 'child' when a Druid casts Arbor.
 
 </div>
 
 <div class="post" data-post-id="3094" data-author="Zeizel" data-date="2004-12-01T09:52:37+00:00" data-subject="">
 
-By the way, I just wanted to note that the MR fluctuations I mentioned earlier turned out to be caused by me being hungry.  It's a steady 74 mana/tick if sleeping outside when full, so the masterful arbor didn't seem to boost anything afterall.
+By the way, I just wanted to note that the MR fluctuations I mentioned earlier turned out to be caused by me being hungry. It's a steady 74 mana/tick if sleeping outside when full, so the masterful arbor didn't seem to boost anything afterall.
 
 </div>

@@ -32,7 +32,7 @@ blahblah 10mils if you still have them
 
 <div class="post" data-post-id="1540" data-author="strider" data-date="2004-08-22T12:54:48+00:00" data-subject="">
 
-heh, apparently subjects don't show up like they used to, bid 15mil o­n my first postin subj line. i'll make it easier to read here i guess. 15mil! :)
+heh, apparently subjects don't show up like they used to, bid 15mil o­n my first postin subj line. i'll make it easier to read here i guess. 15mil! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

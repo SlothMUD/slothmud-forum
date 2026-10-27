@@ -20,9 +20,9 @@ You must be on SS by 10pm on the 19th
 
 The quest will be divided into three parts... there will be drachma if you guys are good enough to get it.
 
-I am going to try to make it fast and quick, possibly a 3 to 4 hour quest.  So pay attention and have fun. :)
+I am going to try to make it fast and quick, possibly a 3 to 4 hour quest. So pay attention and have fun. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
--Tox
+\-Tox
 
 </div>
 
@@ -34,17 +34,19 @@ dont forget teh tarrasques!
 
 <div class="post" data-post-id="23698" data-author="Weasel" data-date="2008-04-12T11:11:08+00:00" data-subject="Re: Quest!!!!!! :)~">
 
-I am going to try to make it fast and quick, possibly a 3 to 4 hour quest..[/quote:1uynf2td]
+> <strong>Toxis wrote:</strong>
+> I am going to try to make it fast and quick, possibly a 3 to 4 hour quest..
 
 ..so prepare to die often, and expect no mercy?
 
-Hope I can make it.  :D
+Hope I can make it. <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23699" data-author="Tap" data-date="2008-04-12T11:23:04+00:00" data-subject="">
 
-[quote:2cuw0zmz]I am going to try to make it fast and quick, possibly a 3 to 4 hour quest.[/quote:2cuw0zmz]
+> <strong>Quote:</strong>
+> I am going to try to make it fast and quick, possibly a 3 to 4 hour quest.
 
 Can you make it so fast that quest is tonite on April 12?
 
@@ -58,7 +60,7 @@ oh 19th? for some reason I read that as 12th.. my bad.
 
 <div class="post" data-post-id="23702" data-author="Stryx" data-date="2008-04-13T00:11:39+00:00" data-subject="">
 
-Awesome, you guys go get your fun. Another quest run in the middle of the night for half of us.  :evil:
+Awesome, you guys go get your fun. Another quest run in the middle of the night for half of us. <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -76,7 +78,8 @@ Question: How much wood could a woodchuck chuck if a woodchuck could chuck wood?
 
 <div class="post" data-post-id="23730" data-author="Stryx" data-date="2008-04-14T17:59:57+00:00" data-subject="">
 
-[quote:2alzru01]Question: How much wood could a woodchuck chuck if a woodchuck could chuck wood?[/quote:2alzru01]
+> <strong>Quote:</strong>
+> Question: How much wood could a woodchuck chuck if a woodchuck could chuck wood?
 
 Who cares!
 
@@ -88,9 +91,10 @@ Again, 4a.m. for me so... Who cares!
 
 <div class="post" data-post-id="23732" data-author="Akasha" data-date="2008-04-14T18:38:11+00:00" data-subject="">
 
-Question: Is the reward just the area if 'we are not good enough for drachma' or are there items given along with drachma and the area if we're good enough for drachma?[/quote:2jctuzr9]
+> <strong>Gumbi wrote:</strong>
+> Question: Is the reward just the area if 'we are not good enough for drachma' or are there items given along with drachma and the area if we're good enough for drachma?
 
-And here's the #2 reason why I gave up on running quests.  If you participate in the quest, you should do so with NO expectations.  Asking what we get for playing before we even play?   Shrug
+And here's the #2 reason why I gave up on running quests. If you participate in the quest, you should do so with NO expectations. Asking what we get for playing before we even play? Shrug
 
 Good luck Tox.
 
@@ -100,23 +104,24 @@ Aka
 
 <div class="post" data-post-id="23733" data-author="Autolycos" data-date="2008-04-14T19:43:50+00:00" data-subject="">
 
-lmfao....  maybe i should try that with my boss.
+lmfao.... maybe i should try that with my boss.
 
-so.. will i get a raise even if i dont do anything?  and how much different would that be if i actually participated?
+so.. will i get a raise even if i dont do anything? and how much different would that be if i actually participated?
 
-hahahahaha  :twisted:
+hahahahaha <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23739" data-author="*juggleblood*" data-date="2008-04-15T00:13:35+00:00" data-subject="">
 
-[quote:2nr6dgl2]
+> <strong>Quote:</strong>
+> And here's the #2 reason why I gave up on running quests. If you participate in the quest, you should do so with NO expectations. Asking what we get for playing before we even play? 
+> 
+> 
+> 
+> Aka
 
-And here's the #2 reason why I gave up on running quests.  If you participate in the quest, you should do so with NO expectations.  Asking what we get for playing before we even play?   
-
-Aka[/quote:2nr6dgl2]
-
-We look at the eqlist and we see those weekly forges and quest objs that are effectively unattainable. So we are always dying to know if there's a chance of getting something like that.  Can't really fault us too much for that.
+We look at the eqlist and we see those weekly forges and quest objs that are effectively unattainable. So we are always dying to know if there's a chance of getting something like that. Can't really fault us too much for that.
 
 Giving out quest eq often leads to bickering and bad feelings. Giving out drachma and honor is definitely a better system. It would be nice if more of the quest eq on the eq list was available for purchase with drachma. Maybe with Rank Restrictions? 
 
@@ -130,17 +135,26 @@ Anyway, looking forward to the quest!
 
 <div class="post" data-post-id="23740" data-author="jezer" data-date="2008-04-15T00:38:09+00:00" data-subject="">
 
-We look at the eqlist and we see those weekly forges and quest objs that are effectively unattainable. So we are always dying to know if there's a chance of getting something like that.  Can't really fault us too much for that.
+> <strong>juggleblood wrote:</strong>
+> We look at the eqlist and we see those weekly forges and quest objs that are effectively unattainable. So we are always dying to know if there's a chance of getting something like that. Can't really fault us too much for that.
+> 
+> 
+> 
+> Giving out quest eq often leads to bickering and bad feelings. Giving out drachma and honor is definitely a better system. It would be nice if more of the quest eq on the eq list was available for purchase with drachma. Maybe with Rank Restrictions? 
+> 
+> 
+> 
+> It would be interesting to take the concept a step further and give out drachma reward according to the honor rank of the pc involved in the quest. I.e. reward majors more than sergeants more than privates more than non-enrolled. It would be easy enuff to make one of those drachma splinters that does that.
+> 
+> 
+> 
+> One last random suggestion: put in an armory where pc's could take out eq like at the temples, but instead of sac points, it would be based on honor rank. 
+> 
+> 
+> 
+> Anyway, looking forward to the quest!
 
-Giving out quest eq often leads to bickering and bad feelings. Giving out drachma and honor is definitely a better system. It would be nice if more of the quest eq on the eq list was available for purchase with drachma. Maybe with Rank Restrictions? 
-
-It would be interesting to take the concept a step further and give out drachma reward according to the honor rank of the pc involved in the quest. I.e. reward majors more than sergeants more than privates more than non-enrolled. It would be easy enuff to make one of those drachma splinters that does that.
-
-One last random suggestion: put in an armory where pc's could take out eq like at the temples, but instead of sac points, it would be based on honor rank. 
-
-Anyway, looking forward to the quest![/quote:2pn3ym0d]
-
-95% of Juggleblood idea's are awesomeness. 5% are weird... like that lose honur for talking in group thing... :twisted: This one falls in the 95%! Looking forward to the day they make you a coder... erm, you can code right?
+95% of Juggleblood idea's are awesomeness. 5% are weird... like that lose honur for talking in group thing... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> This one falls in the 95%! Looking forward to the day they make you a coder... erm, you can code right?
 
 </div>
 
@@ -158,33 +172,33 @@ I've never witnessed a quest that didn't involve the feeling that the recipients
 
 Before anyone responds, I would like to point out that my opinions are not based on any kind of bitterness over never being part of the "in crowd" that receives quest eq. But a desire for the mud at large to be able to enjoy having more quests again, something that I doubt will happen without the inevitable end seeming less contrived.
 
-Edit: Didn't actually notice that this was Brad's quest thread before replying, so... Thanks for running a quest, will be looking forward to it :)
+Edit: Didn't actually notice that this was Brad's quest thread before replying, so... Thanks for running a quest, will be looking forward to it <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23742" data-author="Fable" data-date="2008-04-15T01:52:49+00:00" data-subject="">
 
-Yea I just found out I will be out that Saturday ... :(
+Yea I just found out I will be out that Saturday ... <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 However I don't like Juggle's idea regarding the lvl of honor would be the
 
-number of drachma one would get.  Not all of us can mud 24/7 and tons
+number of drachma one would get. Not all of us can mud 24/7 and tons
 
-of honor.  
+of honor. 
 
-Same with the quest eq usually being handed to leader, and tank.  There 
+Same with the quest eq usually being handed to leader, and tank. There 
 
-really isn't a good system on how to give quest eq out.  Giving drachma is 
+really isn't a good system on how to give quest eq out. Giving drachma is 
 
-one of the best system that was put in.  Keeps everyone at a fair lvl.  Also
+one of the best system that was put in. Keeps everyone at a fair lvl. Also
 
 leader, tanks, healos, blasters, and clue finders can be awarded more drachma.
 
-I know this hasn't been brought up for awhile.  But I recall Splork saying that
+I know this hasn't been brought up for awhile. But I recall Splork saying that
 
 one day they will try to add a drachma shop that you can buy/forge the item.
 
-This was about maybe 2yrs ago?  Has this plan been put on the back burner?
+This was about maybe 2yrs ago? Has this plan been put on the back burner?
 
 </div>
 
@@ -192,7 +206,7 @@ This was about maybe 2yrs ago?  Has this plan been put on the back burner?
 
 Yeah, I guess you guys got points... an eq system based on honor points like it is now, may not work to well... but with changes It can! and it should! You don't HAVE to kill Atlas to get honor points... 
 
-If you don't mud much, tough luck, I doubt you got much drachma either... nor decent eq. But with that said I think Juggle favors the idea because Rub is probably already a major or something. :twisted:
+If you don't mud much, tough luck, I doubt you got much drachma either... nor decent eq. But with that said I think Juggle favors the idea because Rub is probably already a major or something. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 Quest times, you can't do much about... We are all over the world... You can never please everyone.
 
@@ -200,9 +214,9 @@ Handling out EQ to let the players decide who get's it is a REALLY bad idea. I m
 
 The other problem is say you random for quest eq... the mage gets the tank eq, and the tank gets the mage eq... whoops! Eq isn't a well suited reward for group quests. Eq is far better suited for auto's and forges. A points system such as drachma is far better suited.
 
-Yes, put those quest eq's into the drachma shops, or make them gettable some other way! :) 
+Yes, put those quest eq's into the drachma shops, or make them gettable some other way! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> 
 
-This current quest may not suit a lot of people, but don't lash out at Toxis... cause then Toxis gets the attitude that Akasha has... and then we are all down the toilet! So thanks Toxis for putting this on! Next time I would not announce it so early... then this wouldn't happen... as much ;)
+This current quest may not suit a lot of people, but don't lash out at Toxis... cause then Toxis gets the attitude that Akasha has... and then we are all down the toilet! So thanks Toxis for putting this on! Next time I would not announce it so early... then this wouldn't happen... as much <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -210,25 +224,25 @@ This current quest may not suit a lot of people, but don't lash out at Toxis... 
 
 my2cents: Quests are meant to be fun.. and usually involve a lot of death if you're one of the chars up front.. and sometimes everyone gets nailed, but imho you should join a quest for the experience of questing itself, and if there's a reward at the end, consider it a bonus! 
 
-If there's gonna be a reward, then I think evenly distributed crackma has proved to be one of the best options, based on past history. Voting used to be good, until I started seeing quests where clans voted only for fellow clan members even if they did jack sh*t, while other players who contributed heaps went away with nothing but a feeling of resentment, so unfortunately that method is now rendered useless.. 
+If there's gonna be a reward, then I think evenly distributed crackma has proved to be one of the best options, based on past history. Voting used to be good, until I started seeing quests where clans voted only for fellow clan members even if they did jack sh\*t, while other players who contributed heaps went away with nothing but a feeling of resentment, so unfortunately that method is now rendered useless.. 
 
 Personally I believe the leader always deserves something extra - organizing a group is a headache, especially a quest-sized group. I may be speaking with some bias, but I do believe the tanks deserve at least some recognition - sure it's a default position, but they get killed over and over and over and if they shock (which is bound to happen occasionally), that's one hell of a penalty just for being that prime class. There are always others who stand out through their knowledge of the mud, or their actions in the quest. Ultimately though, it should be up to the immort running the quest to decide who to reward, if anyone, and if you can't accept that, then don't join. Either that, or use the 'random' command for any eq - nobody can complain about unfairness then.
 
 Re linking it to rank, sorry but I'm definitely not for that on a personal level. I stopped joining rank groups because almost every time I joined, I came out with at least 100mil less exp than when I started, if not several hundred mil exp lost. When you solo a lot, that is a significant hit. I believe it's not so bad anymore, but I've kind of missed that boat somewhat now. Making quest rewards (if any) link to rank would mean tanks getting doubly penalized just because they're a tank. Great if you sit lower down in the group order and don't die all the time I guess.. LOL.. you'd also be creating a "rich get richer, poor get poorer" effect, and those who might shine in quests may end up losing out because of something not even remotely related to the quest, the result - resentment. 
 
-Whatever, thanks Toxis for the opportunity to explore a new area and die horribly in the process.   :twisted:
+Whatever, thanks Toxis for the opportunity to explore a new area and die horribly in the process. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23752" data-author="brady" data-date="2008-04-15T12:50:14+00:00" data-subject="">
 
-All this talk about "hypothetical" quest eq is exactly why you're not likely to see any.  But since y'all brought it up...
+All this talk about "hypothetical" quest eq is exactly why you're not likely to see any. But since y'all brought it up...
 
-Honor is divied out like coins, everyone gets his/her equal share (just with rank based caps).  Simply being part of the group certainly doesn't make you worthy of quest eq.
+Honor is divied out like coins, everyone gets his/her equal share (just with rank based caps). Simply being part of the group certainly doesn't make you worthy of quest eq.
 
-And I have to disagree with Weasel.  Quests are usually very cool in concept but can be a pain in the azz--especially for whomever is leading.  Always spammy, often lots of crashes and usually something goes wrong with a quest item, mob, etc.  They are about the reward or the new area.  Offer a quest with no reward or a flute or some garbage and see who lines up.  Actually, that sounds like fun but it would be a grip of bored 5x40s.
+And I have to disagree with Weasel. Quests are usually very cool in concept but can be a pain in the azz--especially for whomever is leading. Always spammy, often lots of crashes and usually something goes wrong with a quest item, mob, etc. They are about the reward or the new area. Offer a quest with no reward or a flute or some garbage and see who lines up. Actually, that sounds like fun but it would be a grip of bored 5x40s.
 
-It's a catch-22 really.  If drachma is simply handed out in even numbers to everyone that participates, you'll see two to three people doing the lion's share of the work and the rest will be grateful.  If you see quests that start offering quest eq rewards, you'll see people doing whatever they can to get their hands on it and the rest will whine relentlessly.
+It's a catch-22 really. If drachma is simply handed out in even numbers to everyone that participates, you'll see two to three people doing the lion's share of the work and the rest will be grateful. If you see quests that start offering quest eq rewards, you'll see people doing whatever they can to get their hands on it and the rest will whine relentlessly.
 
 Maybe a high-quest, medium or low, few hard to get in game things (depending on the extent of the quest and participation) and a sprinkling of drachma for everyone.
 
@@ -238,21 +252,21 @@ See point 1.
 
 <div class="post" data-post-id="23755" data-author="Gumbi" data-date="2008-04-15T13:25:54+00:00" data-subject="">
 
-Akasha to be honest I wasn't asking Tox to cough it up or something. I was just hoping that it can be understood that regardless of what was said above my post and your reply that everyone has expectations even if they're not questing.  They join an eq group and know they're getting a chance of an item to pop for them as their call.  The only difference in a quest and any other group is that the expectations level rises.  We "quest" in expectation of a good new area, but usually as far as being rewarded characters who've had the opportunity to be in the quest always feel they're getting too small an award.  You know if there was more than one piece of quest eq handed out there generally wouldn't be as much "bickering" as I think Juggleblood referred to it as.  The last quest I was in was Baraneth's Cache some point at which the webpage became this format.  I just don't get why there is so much quest eq (Teron's Nekode) for instance and people say it is rarely handed out.  Since the last quest I was in I know of several nice items of real quest_low through quest_high eq that was handed out along with drachma and I haven't been involved in a single one of those quests.  I mostly never hear about them, which is why I ask about Tox's plans on handing out items or if he's going to just kill us and put his area in and gloat a while, or sing crappy music or.. worse.
+Akasha to be honest I wasn't asking Tox to cough it up or something. I was just hoping that it can be understood that regardless of what was said above my post and your reply that everyone has expectations even if they're not questing. They join an eq group and know they're getting a chance of an item to pop for them as their call. The only difference in a quest and any other group is that the expectations level rises. We "quest" in expectation of a good new area, but usually as far as being rewarded characters who've had the opportunity to be in the quest always feel they're getting too small an award. You know if there was more than one piece of quest eq handed out there generally wouldn't be as much "bickering" as I think Juggleblood referred to it as. The last quest I was in was Baraneth's Cache some point at which the webpage became this format. I just don't get why there is so much quest eq (Teron's Nekode) for instance and people say it is rarely handed out. Since the last quest I was in I know of several nice items of real quest\_low through quest\_high eq that was handed out along with drachma and I haven't been involved in a single one of those quests. I mostly never hear about them, which is why I ask about Tox's plans on handing out items or if he's going to just kill us and put his area in and gloat a while, or sing crappy music or.. worse.
 
 </div>
 
 <div class="post" data-post-id="23757" data-author="Yasik2" data-date="2008-04-15T15:55:37+00:00" data-subject="">
 
-[b:1vfntnac]l70uke[/color:1vfntnac][/b:1vfntnac]: network connections says it cant find an IP address
+<strong>l70uke</strong>: network connections says it cant find an IP address
 
-[b:1vfntnac]dbbolton[/color:1vfntnac][/b:1vfntnac]: open a web browser and type 192.168.1.1 in the address bar
+<strong>dbbolton</strong>: open a web browser and type 192.168.1.1 in the address bar
 
-[b:1vfntnac]dbbolton[/color:1vfntnac][/b:1vfntnac]: what happens?
+<strong>dbbolton</strong>: what happens?
 
-[b:1vfntnac]l70uke[/color:1vfntnac][/b:1vfntnac]: "please enter disk into drive a"
+<strong>l70uke</strong>: "please enter disk into drive a"
 
-[b:1vfntnac]dbbolton[/color:1vfntnac][/b:1vfntnac]: what the ****?!
+<strong>dbbolton</strong>: what the \*\*\*\*?!
 
 </div>
 
@@ -260,15 +274,15 @@ Akasha to be honest I wasn't asking Tox to cough it up or something. I was just 
 
 We've had this conversation so many times, it's funny to see it being discussed BEFORE the actual quest, rather than all the complaining that usually comes after a quest.
 
-I've mentioned before that I totally support the drachma system.  My advice would be to ban all new quest eq, and introduce those items as elite eq to the shops.
+I've mentioned before that I totally support the drachma system. My advice would be to ban all new quest eq, and introduce those items as elite eq to the shops.
 
-Quest eq invites resentment from other players because someone else has been rewarded (leader/tank) while you haven't (mage/cleric).  The discrepancy between rewarded / not rewarded is very large.
+Quest eq invites resentment from other players because someone else has been rewarded (leader/tank) while you haven't (mage/cleric). The discrepancy between rewarded / not rewarded is very large.
 
-With drachma, you can a) reward everyone and b) choose the size of the bonus awards.  If everyone gets 50 dr then noone will be complaining when the leader / MVP gets 60 dr.
+With drachma, you can a) reward everyone and b) choose the size of the bonus awards. If everyone gets 50 dr then noone will be complaining when the leader / MVP gets 60 dr.
 
----
+\---
 
-All that is really beside the point.  If you join a quest you shouldn't expect ANY rewards.  If you just want a reward, keep cycling your xp / eq or whatever.  If you're thinking about rewards before the quest, you're missing the point.
+All that is really beside the point. If you join a quest you shouldn't expect ANY rewards. If you just want a reward, keep cycling your xp / eq or whatever. If you're thinking about rewards before the quest, you're missing the point.
 
 Charles
 
@@ -284,19 +298,19 @@ I hope I can make the next quest.
 
 <div class="post" data-post-id="23849" data-author="angel" data-date="2008-04-18T12:02:58+00:00" data-subject="">
 
-cant wait :) been yrs since my last quest :)
+cant wait <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> been yrs since my last quest <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23852" data-author="Weasel" data-date="2008-04-18T12:14:23+00:00" data-subject="">
 
-sh*t I hope I can make it.. wont know for sure until tomorrow
+sh\*t I hope I can make it.. wont know for sure until tomorrow
 
 </div>
 
 <div class="post" data-post-id="23854" data-author="Yinao" data-date="2008-04-18T13:56:29+00:00" data-subject="">
 
-Unfortunately this one im gunna miss out on, have formal stuff to tend to :(
+Unfortunately this one im gunna miss out on, have formal stuff to tend to <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 Good luck and enjoy
 
@@ -308,9 +322,10 @@ Good luck to you to Brad, all these quest eq addicts are gunna run you from the 
 
 Yinao wrote:
 
-[quote:2gj5glm1]Good luck to you to Brad, all these quest eq addicts are gunna run you from the mud![/quote:2gj5glm1]
+> <strong>Quote:</strong>
+> Good luck to you to Brad, all these quest eq addicts are gunna run you from the mud!
 
-*sigh*
+\*sigh\*
 
 Stepping into Dr. Phil's shoes for a moment, quest endings/rewards are easy and simple. First, if drachma is to be given out, it has been handed out equally for group effort. Secondly, and more to the point, let's say there 3 quest items to be handed out. Now instead of doing a popularity contest of group voting who should get what I recommend,instead, that leader OR Imm announces the item with stats (if not known) to be handed out. Now, in a group of 20+ players, some may and most probably all will vie for that quest item. The solution is that those interested in quest item random for item. In the case of a tie, the leftovers random again and so on and so forth until a clear winner for item #1 is determined. Repeat process for other items as well. I can almost hear it now.. well that's not fair... Player X tanked the entire time, shocked twice, he really,really deserves it and hell, he's a nice guy to boot... big friggin deal, he's a tank, that's his job. He is no more important that the person healing or the one stabbing. Some leaders have been fair in handing out quest gear but it can become a bitterfest, and usually does, when someone who contributed was completely left out of the loop.. all because he/she had lower levels.. not as affective heals/blasting etc etd. By allowing randoming to determine who gets what, it puts everyone on the same playing field.
 
@@ -322,13 +337,13 @@ Flame on!
 
 you're tanking the quest, big fella. 
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23865" data-author="Tap" data-date="2008-04-19T22:09:39+00:00" data-subject="">
 
-Nope not me.. I pretty much gave up tanking and rarely lead like I use to..I got tired of the griping. :roll:
+Nope not me.. I pretty much gave up tanking and rarely lead like I use to..I got tired of the griping. <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -336,77 +351,77 @@ Nope not me.. I pretty much gave up tanking and rarely lead like I use to..I got
 
 wholist before quest:
 
-*Immortals of SlothMUD III* 
+\*Immortals of SlothMUD III\* 
 
------------------
+\-----------------
 
-[*Kansas is #1* ] Jake afk
+[\*Kansas is #1\* ] Jake afk
 
-[   *Creator*   ] Akasha afk
+[ \*Creator\* ] Akasha afk
 
-[   * Blonde *  ] Seda is afk moving stuff.  stuff,  and more stuff.
+[ \* Blonde \* ] Seda is afk moving stuff. stuff, and more stuff.
 
-[  *DaHealAh*   ] Tox ...
+[ \*DaHealAh\* ] Tox ...
 
-[   *Demigod*   ] Lestat building
+[ \*Demigod\* ] Lestat building
 
 [pri sec ter qua] Players
 
------------------
+\-----------------
 
-[  *Assassin*   ] Cizin [[[CSK]]]
+[ \*Assassin\* ] Cizin [[[CSK]]]
 
-[ *Loremaster*  ] Taliesin ...
+[ \*Loremaster\* ] Taliesin ...
 
-[  *Hierarch*   ] Shyla can't quest b/c of eyes sorry
+[ \*Hierarch\* ] Shyla can't quest b/c of eyes sorry
 
-[  *Overlord*   ] Sa ---
+[ \*Overlord\* ] Sa ---
 
-[  *Overlord*   ] Shimbo teachin restore,gheal,heal,disint,gate
+[ \*Overlord\* ] Shimbo teachin restore,gheal,heal,disint,gate
 
-[  *Overlord*   ] Zukt {Greedy} Angelkiller
+[ \*Overlord\* ] Zukt {Greedy} Angelkiller
 
-[  *Overlord*   ] Weasel looks at you strangely ( O)(o ) =sMAc=
+[ \*Overlord\* ] Weasel looks at you strangely ( O)(o ) =sMAc=
 
-[   *Wizard*    ] Lis  *Battle Mage* ~[DoW]~
+[ \*Wizard\* ] Lis \*Battle Mage\* \~[DoW]\~
 
-[  *Overlord*   ] Rub ~Dragonsworn~
+[ \*Overlord\* ] Rub \~Dragonsworn\~
 
-[   *Wizard*    ] Edd <~PIRATE~> is wild like magik.
+[ \*Wizard\* ] Edd \<\~PIRATE\~\> is wild like magik.
 
-[    *Lazar*    ] Zero needs 1.7bil xp
+[ \*Lazar\* ] Zero needs 1.7bil xp
 
-[  *Exorcist*   ] Sheng <~PIRATE~> seeks for The Caverns of Eizzam.
+[ \*Exorcist\* ] Sheng \<\~PIRATE\~\> seeks for The Caverns of Eizzam.
 
-[   *Prelate*   ] Assirian {Greedy} looking for sanc for body teacher
+[ \*Prelate\* ] Assirian {Greedy} looking for sanc for body teacher
 
-[  *Conjurer*   ] Kull  bookemptypages,vigor,booktransfigurations ~DS~
+[ \*Conjurer\* ] Kull bookemptypages,vigor,booktransfigurations \~DS\~
 
-[ *Immaculate*  ] Fable ~Dragonsworn~
+[ \*Immaculate\* ] Fable \~Dragonsworn\~
 
-[  *Scoundrel*  ] Stormshadow .
+[ \*Scoundrel\* ] Stormshadow .
 
-[  *Scoundrel*  ] Ben looking for sb > Berserk / Astrology / necrology (AFK)
+[ \*Scoundrel\* ] Ben looking for sb \> Berserk / Astrology / necrology (AFK)
 
-[  *Priestess*  ] Nakita firebane,dawnfire,covertracks
+[ \*Priestess\* ] Nakita firebane,dawnfire,covertracks
 
-[  *Cenobite*   ] Lugnut [[[CSK]]]
+[ \*Cenobite\* ] Lugnut [[[CSK]]]
 
-[ *Thaumaturge* ] Syl Null
+[ \*Thaumaturge\* ] Syl Null
 
-[ *Thaumaturge* ] Sita the Witch
+[ \*Thaumaturge\* ] Sita the Witch
 
-[ *Naturalist*  ] Apprentice No Prot + Quest = Perm Dead
+[ \*Naturalist\* ] Apprentice No Prot + Quest = Perm Dead
 
-[  *Cabalist*   ] Ah Puch ++ December 21, 2012 Stay Home and MUD ++
+[ \*Cabalist\* ] Ah Puch ++ December 21, 2012 Stay Home and MUD ++
 
-[   *Ranger*    ] Rovena riposte wraithform spellbooks pls
+[ \*Ranger\* ] Rovena riposte wraithform spellbooks pls
 
-[  *Animator*   ] Lylyth ~Dragonsworn~
+[ \*Animator\* ] Lylyth \~Dragonsworn\~
 
 [40o 40c 40m 39w] Turtle .
 
-[40t 40o 40b 37c] Theca <~PIRATE~>
+[40t 40o 40b 37c] Theca \<\~PIRATE\~\>
 
 [40b 40t 40c 34n] Gumbi ........
 
@@ -422,21 +437,21 @@ wholist before quest:
 
 [40o 38c 27m 14n] Procyon .
 
-[27m 20d 11c  6w] Balou the Untitled
+[27m 20d 11c 6w] Balou the Untitled
 
 [20o 20c 17m 13w] Mye is
 
-[20t 20n 16c  9m] Caffeine ~DS~ Revel in the completion of your journey to evil!
+[20t 20n 16c 9m] Caffeine \~DS\~ Revel in the completion of your journey to evil!
 
-[18c 10w  7n  4b] Lorn of Norl Bay
+[18c 10w 7n 4b] Lorn of Norl Bay
 
-[14n 10c  8w  2m] Erebos the Titled!
+[14n 10c 8w 2m] Erebos the Titled!
 
-[ 3t  0w  0o  0b] Gigasv the Untitled
+[ 3t 0w 0o 0b] Gigasv the Untitled
 
-[ 2m  0d  0c  0b] Jentar the Untitled
+[ 2m 0d 0c 0b] Jentar the Untitled
 
-[ 1d  0w  0c  0n] Eden the Untitled
+[ 1d 0w 0c 0n] Eden the Untitled
 
 There are 47 visible players.
 
@@ -464,39 +479,40 @@ Anyone got a report on what the quest was all about?
 
 <div class="post" data-post-id="23871" data-author="Weasel" data-date="2008-04-20T14:39:22+00:00" data-subject="">
 
-awesome thanks Tox :)
+awesome thanks Tox <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23872" data-author="van" data-date="2008-04-20T17:33:40+00:00" data-subject="This post started as two sentences...">
 
-Judging by the lack of disgruntled posts, I'm guessing the rewards were drachma and/or rank?  Or did everyone get their griping out in advance?
+Judging by the lack of disgruntled posts, I'm guessing the rewards were drachma and/or rank? Or did everyone get their griping out in advance?
 
 Just curious... someone post what happened!
 
-Btw, I saw someone post the idea of banning all new quest eq... why don't you just castrate us now and leave us with nekode envy forever?  Nothing says preferential treatment like creating a two-tiered system based on when people started playing*, especially if this is your solution to the fact that fancy quest eq was obtained in a method many priceless thread hours were devoted to complaining about**!  Just make people random, damn it, and let the sloth economy slog on (1000 chunks of kobold and 500 piles of dung for your fancy new helm!).
+Btw, I saw someone post the idea of banning all new quest eq... why don't you just castrate us now and leave us with nekode envy forever? Nothing says preferential treatment like creating a two-tiered system based on when people started playing\*, especially if this is your solution to the fact that fancy quest eq was obtained in a method many priceless thread hours were devoted to complaining about\*\*! Just make people random, damn it, and let the sloth economy slog on (1000 chunks of kobold and 500 piles of dung for your fancy new helm!).
 
-On another note, and perhaps this has been suggested before, has any coder given thought to "temp" quest eq?  You get the item, it lasts three months (arbitrary), and then it poofs and becomes available for the next pot o' gold.  Visceral thrill a la Joe, and you get the consolation of knowing that "hey -- maybe I'll get it next time".  Plus, perhaps some imms might be more excited about conducting quests if they can have the pleasure of giving out fun rewards that might not encourage (as much) resentment***.  Maybe tie lifetime to power of item, or even frequency of use (i.e. quest eq collecting dust fades faster).  I know I'd be thrilled to have a super stabber or some extra +dam eq, even if it only lasted a day or two.
+On another note, and perhaps this has been suggested before, has any coder given thought to "temp" quest eq? You get the item, it lasts three months (arbitrary), and then it poofs and becomes available for the next pot o' gold. Visceral thrill a la Joe, and you get the consolation of knowing that "hey -- maybe I'll get it next time". Plus, perhaps some imms might be more excited about conducting quests if they can have the pleasure of giving out fun rewards that might not encourage (as much) resentment\*\*\*. Maybe tie lifetime to power of item, or even frequency of use (i.e. quest eq collecting dust fades faster). I know I'd be thrilled to have a super stabber or some extra +dam eq, even if it only lasted a day or two.
 
-And one final thought -- since leading is such a bitch, shouldn't I get quest eq for leading SOOOOO many experience groups over the years****? :)
+And one final thought -- since leading is such a bitch, shouldn't I get quest eq for leading SOOOOO many experience groups over the years\*\*\*\*? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-I have to go to work, so I'll stop procrastinating through rambling.  Flame on!
+I have to go to work, so I'll stop procrastinating through rambling. Flame on!
 
 Patrick (Van/Crisi/Schroeder)
 
-* For clarification, I'm not denigrating the rewards of loyalty and long-term play, but I think that's well handled in drachma eq, extremely painful forges, perfect stats, and big fancy houses as stands.
+\* For clarification, I'm not denigrating the rewards of loyalty and long-term play, but I think that's well handled in drachma eq, extremely painful forges, perfect stats, and big fancy houses as stands.
 
-** For further clarification, I'm not bashing anyone who obtained quest eq previously.  You lucky bastards.
+\*\* For further clarification, I'm not bashing anyone who obtained quest eq previously. You lucky bastards.
 
-*** Personally, I question whether Dave will ever lose enough bitterness to hand out quest eq again.  That makes me sad. :(
+\*\*\* Personally, I question whether Dave will ever lose enough bitterness to hand out quest eq again. That makes me sad. <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
-**** This comment goes for all those other tireless leaders out there, who put up with a lot of asinine shit.  Can I get an Amen!?
+\*\*\*\* This comment goes for all those other tireless leaders out there, who put up with a lot of asinine shit. Can I get an Amen!?
 
 </div>
 
 <div class="post" data-post-id="23878" data-author="*juggleblood*" data-date="2008-04-20T23:03:41+00:00" data-subject="Re: This post started as two sentences...">
 
-On another note, and perhaps this has been suggested before, has any coder given thought to "temp" quest eq?  You get the item, it lasts three months (arbitrary), and then it poofs and becomes available for the next pot o' gold.  Visceral thrill a la Joe, and you get the consolation of knowing that "hey -- maybe I'll get it next time".  Plus, perhaps some imms might be more excited about conducting quests if they can have the pleasure of giving out fun rewards that might not encourage (as much) resentment***.  Maybe tie lifetime to power of item, or even frequency of use (i.e. quest eq collecting dust fades faster).  I know I'd be thrilled to have a super stabber or some extra +dam eq, even if it only lasted a day or two.[/quote:1ksnqjzr]
+> <strong>van wrote:</strong>
+> On another note, and perhaps this has been suggested before, has any coder given thought to "temp" quest eq? You get the item, it lasts three months (arbitrary), and then it poofs and becomes available for the next pot o' gold. Visceral thrill a la Joe, and you get the consolation of knowing that "hey -- maybe I'll get it next time". Plus, perhaps some imms might be more excited about conducting quests if they can have the pleasure of giving out fun rewards that might not encourage (as much) resentment\*\*\*. Maybe tie lifetime to power of item, or even frequency of use (i.e. quest eq collecting dust fades faster). I know I'd be thrilled to have a super stabber or some extra +dam eq, even if it only lasted a day or two.
 
 ^^^
 
@@ -508,7 +524,7 @@ this, please
 
 On yet another note. what the heck happened? No one has posted details of what new pops are there, if there level restricted/temp etc etc... Didn't get to go as I don't have a lymer so several had to miss out on the last part. Please post.
 
- :idea:
+ <img src="/images/smilies/icon_idea.svg" alt=":idea:" title=":idea:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -516,15 +532,15 @@ On yet another note. what the heck happened? No one has posted details of what n
 
 In short...
 
-*There was a play off to lead the group, in which Zukt bet Sa
+\*There was a play off to lead the group, in which Zukt bet Sa
 
-*We trotted around the globe looking for some eq on biggish mobs our quest mob "Squire Dorrin" lost
+\*We trotted around the globe looking for some eq on biggish mobs our quest mob "Squire Dorrin" lost
 
-*Then we entered the new area and killed stuff on lyme, of which roamed some special nasty quest mobs. It's not a notemp area.
+\*Then we entered the new area and killed stuff on lyme, of which roamed some special nasty quest mobs. It's not a notemp area.
 
-*Sa died 20-30 times
+\*Sa died 20-30 times
 
-*Most received 60 drachma... then a further 15, and 1 if you hit lucifier with us earlier.
+\*Most received 60 drachma... then a further 15, and 1 if you hit lucifier with us earlier.
 
 I believe the ever outstanding Rynquald, and the knowledgeable Sheng received some -0.7 +5ma +5hp arm stuff for there above the call of duty efforts. The leaders were also rewarded in some way.
 
@@ -536,13 +552,13 @@ I'm sure lis will have a map in a few days... if not already...
 
 Special mentions. 
 
-*Fable for making sure everyone's eudaemon was the first to die... 
+\*Fable for making sure everyone's eudaemon was the first to die... 
 
-*Gumbi for leaving the group and getting splorked every five minutes, and attacking squire dorrin.. I didn't like him much either... :twisted:
+\*Gumbi for leaving the group and getting splorked every five minutes, and attacking squire dorrin.. I didn't like him much either... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
-*Ah for light comic relief every time squire dorrin lost something
+\*Ah for light comic relief every time squire dorrin lost something
 
-*Brad for doing less :)~ than he normally does
+\*Brad for doing less <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">\~ than he normally does
 
 </div>
 
@@ -550,7 +566,7 @@ Special mentions.
 
 we received 50 + 15 drachmas fyi
 
-great quest, i loved dying :)
+great quest, i loved dying <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 sa
 
@@ -558,11 +574,11 @@ sa
 
 <div class="post" data-post-id="23883" data-author="jezer" data-date="2008-04-21T06:19:26+00:00" data-subject="">
 
-You only received 50 drachma?  :shock: We all got 60! :twisted:
+You only received 50 drachma? <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> We all got 60! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
-Just kidding, yeah, my bad. 50 it was... I think...  :?
+Just kidding, yeah, my bad. 50 it was... I think... <img src="/images/smilies/icon_e_confused.svg" alt=":?" title=":?" width="15" height="15" class="smiley nozoom">
 
-Oh btw, Zukt's title is "Angelkiller" if your angel... at least he lived up to his name!  :twisted:
+Oh btw, Zukt's title is "Angelkiller" if your angel... at least he lived up to his name! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -572,11 +588,11 @@ As promised, here's the quest details.
 
 Prequest:
 
-The quest started an hour late due to some confusion about the meaning of EST.  As everyone stood around 1w of shallah, some sneaky <~Pirate~> busted out a mass teleport stick and kicked off the festivities.  After running around saving all of our drowning companions, Zukt led the group on a Lucifer hunt.  We got him to pretty hurt in one run which consumed two full moon auras.
+The quest started an hour late due to some confusion about the meaning of EST. As everyone stood around 1w of shallah, some sneaky \<\~Pirate\~\> busted out a mass teleport stick and kicked off the festivities. After running around saving all of our drowning companions, Zukt led the group on a Lucifer hunt. We got him to pretty hurt in one run which consumed two full moon auras.
 
 Lucifer safely put to rest, we returned to SS to await Tox.
 
-----------------------------------------------------------
+\----------------------------------------------------------
 
 As promised, Tox allowed everyone who wanted a chance to lead just that...
 
@@ -584,11 +600,11 @@ In a chaos arena to the death, Theca, Stormshadow, Sheng, Sa, and Zukt faced off
 
 Most everyone ran around like pansies while Zukt (wraithformed) swiftkicked them in the back. Finally, in the order listed above, everyone except Zukt died to elites.
 
-We returned to SS, where Squire Dorrin approached us at the dwarven Scribe Shop.  He said he needed help, and half a dozen groupies fell over themselves promising to do whatever he asked.  (One of these days, the "evil" quest mob should approach the group first, really people!)
+We returned to SS, where Squire Dorrin approached us at the dwarven Scribe Shop. He said he needed help, and half a dozen groupies fell over themselves promising to do whatever he asked. (One of these days, the "evil" quest mob should approach the group first, really people!)
 
 Squire Dorrin was missing some equipment, which he said was stolen by Demons.
 
-Scattering across SS, the group searched high and low for the stolen equipment.  (Shimbo?) found the first piece on the Marilith.
+Scattering across SS, the group searched high and low for the stolen equipment. (Shimbo?) found the first piece on the Marilith.
 
 ... Zukt gets some of Aromin's equipment from the corpse of a Marilith. 
 
@@ -598,9 +614,9 @@ Next clue: I do believe they took the equipment off to the east...'
 
 Next clue: Squire Dorrin says 'somewhere on thordfallen'
 
-           Lugnut says 'demons again?'
+ Lugnut says 'demons again?'
 
-           Squire Dorrin says 'I do believe ..'
+ Squire Dorrin says 'I do believe ..'
 
 ... Nomic gets some of Benotaur's equipment from the corpse of Hyperion (finder Rynquald?)
 
@@ -610,9 +626,9 @@ Next Clue: A Solar killed the demon and took it! (finder: Edd or Lis?)
 
 ... You pick up some of Merik's equipment.
 
-Final Clue: Squire Dorrin says 'I'm clueless, go ask my King.. he is wise'  (paraphrased!)
+Final Clue: Squire Dorrin says 'I'm clueless, go ask my King.. he is wise' (paraphrased!)
 
-===============
+\===============
 
 King Lucius Degrance II says 'hi Sheng!'
 
@@ -628,7 +644,7 @@ Ah says 'I wouldnt lose your eq'
 
 Eta says 'We are eager to come to the assistance of you and your court, your Majesty.'
 
-__ Shyla says (to Dorrin) 'such silly people those people'
+\_\_ Shyla says (to Dorrin) 'such silly people those people'
 
 Gumbi says 'yeah, apparently he got whupped and lost a bunch of stuff'
 
@@ -640,7 +656,7 @@ Zukt says 'Your squire was ambushed by foul demons.'
 
 Weasel says 'and...'
 
-Assirian says 'i love unimaginable power :)'
+Assirian says 'i love unimaginable power <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">'
 
 Lugnut says 'and now their eq with demon eh'
 
@@ -648,9 +664,9 @@ King Lucius DeGrance II says 'A great demon mage is there'
 
 King Lucius DeGrance II says 'stole the artifact from my father long ago'
 
-You page the gods with 'tox, permission to sneak the group's only 2x40 to lyme? :)'
+You page the gods with 'tox, permission to sneak the group's only 2x40 to lyme? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">'
 
-    (denied.. Kanae had to quit the quest)
+ (denied.. Kanae had to quit the quest)
 
 King Lucius DeGrance II says 'but there is one more piece of equipment needed for the knights'
 
@@ -666,19 +682,19 @@ King Lucius DeGrance II says 'filled with ancient beasts'
 
 King Lucius DeGrance II says 'I'm not sure where it is, but good luck'
 
-===============
+\===============
 
 Zukt gets some of Tahgrin's equipment from the corpse of Malign that's on the ground. (finder Sheng... only seconds before Shimbo)
 
 .... End Quest Part I
 
-Part I of the quest was great fun, the most-cast spells being spirit watcher, refresh, and raise dead.  Some questers were excellent and efficient at finding and checking mobs, others were still working on those skills and provided raise xp for team Cleric :)
+Part I of the quest was great fun, the most-cast spells being spirit watcher, refresh, and raise dead. Some questers were excellent and efficient at finding and checking mobs, others were still working on those skills and provided raise xp for team Cleric <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 .... Quest Part II
 
 Squire Darrin returned to the Degrance outpost on Lyme, which he found under attack by bands of ogres
 
-Rynquald  quickly found the entrance to Mount 'An Mystica through the Ebony Grove  (notemp)
+Rynquald quickly found the entrance to Mount 'An Mystica through the Ebony Grove (notemp)
 
 Squire Dorrin quests-- 'That demon mage, I've discovered his name.. Aarotar!'
 
@@ -690,7 +706,7 @@ Squire Dorrin quests-- 'If you could destroy all the demons...'
 
 New area info... a book on the ground at Squire Dorrin speaks of a powerful charm, forged by combining 4 artifacts (also forged)
 
-The new area, Mount An Mystica, was crawling with 'Band of Ogres' and 'Two Dozen Demons' quest mobs.  (We were told these were not normally part of the area.)
+The new area, Mount An Mystica, was crawling with 'Band of Ogres' and 'Two Dozen Demons' quest mobs. (We were told these were not normally part of the area.)
 
 There's lots of aggros on the way up the mountain, some of them very large...
 
@@ -710,7 +726,7 @@ Your blood freezes as you hear Aarotar the Demon Mage's death cry.
 
 Zukt gets gold coins from the corpse of Aarotar the Demon Mage that's on the ground.
 
-Zukt splits 1000000 coins.  Your share is 41666 coins.
+Zukt splits 1000000 coins. Your share is 41666 coins.
 
 Pops:
 
@@ -726,9 +742,9 @@ Damage Dice is '1D9'
 
 Can affect you as:
 
-    Affects: HITROLL by 1
+ Affects: HITROLL by 1
 
-    Affects: DAMROLL by 2
+ Affects: DAMROLL by 2
 
 Only those who are at least apprentice thieves, warriors, bards, or monks,
 
@@ -736,7 +752,7 @@ and have attained supremacy in at least three classes may use this item.
 
 a zeridan beast is using:
 
-<worn on legs>       black ivy legplates 
+\<worn on legs\> black ivy legplates 
 
 Object 'plates black ivy legplates', Item type: ARMOR
 
@@ -748,7 +764,7 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: MANA by 10
+ Affects: MANA by 10
 
 Only those who are primary supreme druids, and have attained supremacy in
 
@@ -758,7 +774,7 @@ Zukt gets an average razor pelt (cp) from the corpse of a slow razor that's on t
 
 The group received a sizable drachma reward!
 
-A quest token dissolves into Zukt`s hand!
+A quest token dissolves into Zukt\`s hand!
 
 A shower of steel petals blasts off from Zukt! It stings!
 
@@ -768,7 +784,7 @@ Honorable Mention: Edd, Rynquald, Lis, Shimbo, Zukt, Sheng, (Sa?)
 
 Key contributors (chosen by Tox) got an additional reward
 
-A quest token dissolves into Zukt`s hand!
+A quest token dissolves into Zukt\`s hand!
 
 A shower of steel petals blasts off from Zukt! It stings!
 
@@ -788,15 +804,15 @@ AC-apply is -0.7
 
 Can affect you as:
 
-    Affects: MANA by 5
+ Affects: MANA by 5
 
-    Affects: MOVE by 5
+ Affects: MOVE by 5
 
 Only those who have attained supremacy in at least three classes may use
 
 this item.
 
-There was an astonishing lack of complaints before, during, and after the quest.  Go team Zukt!
+There was an astonishing lack of complaints before, during, and after the quest. Go team Zukt!
 
 </div>
 
@@ -822,19 +838,19 @@ Weight: 1, Value: 5000000gold, Worn in: TAKE
 
 Clasp can only be attached to:
 
-   belts
+ belts
 
 Clasp gives the user +5 MANA
 
-Clasp gives the user +1 REGEN_MANA
+Clasp gives the user +1 REGEN\_MANA
 
 Only those who have attained supremacy in at least three classes may use 
 
-this item.  
+this item. 
 
-breasplate forge is 2mil coins,armplates is 2mil coins, and i spose the other 2 will be 2mil coins each not bothered to check. final forge clasp cost 6mil coins and attaches to belt etc. hope u guys like the info :)
+breasplate forge is 2mil coins,armplates is 2mil coins, and i spose the other 2 will be 2mil coins each not bothered to check. final forge clasp cost 6mil coins and attaches to belt etc. hope u guys like the info <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
--sa-
+\-sa-
 
 </div>
 
@@ -852,13 +868,13 @@ AC-apply is -2.3
 
 Can affect you as:
 
-    Affects: MANA by 5
+ Affects: MANA by 5
 
-    Affects: REGEN_HP by 1
+ Affects: REGEN\_HP by 1
 
 Only those who have attained supremacy in at least three classes may use 
 
-this item.  
+this item. 
 
 Arm plates cost 2mils
 
@@ -872,17 +888,17 @@ AC-apply is -0.7
 
 Can affect you as:
 
-    Affects: MANA by 5
+ Affects: MANA by 5
 
-    Affects: MOVE by 5
+ Affects: MOVE by 5
 
 Only those who have attained supremacy in at least three classes may use 
 
-this item.  
+this item. 
 
-not gonna post the other 2 forges up :) 
+not gonna post the other 2 forges up <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> 
 
--sa-
+\-sa-
 
 </div>
 
@@ -898,17 +914,17 @@ AC-apply is -1.2
 
 Can affect you as:
 
-    Affects: REDUCE_DAMAGE by 1
+ Affects: REDUCE\_DAMAGE by 1
 
-    Affects: REGEN_MOVE by 2
+ Affects: REGEN\_MOVE by 2
 
 Only those who are primary supreme monks, and have attained supremacy in at 
 
-least three classes may use this item.  
+least three classes may use this item. 
 
-wanna buy one look me up :)
+wanna buy one look me up <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
--sa-
+\-sa-
 
 </div>
 
@@ -926,15 +942,15 @@ AC-apply is -0.3
 
 Can affect you as:
 
-    Affects: HITROLL by 1
+ Affects: HITROLL by 1
 
-    Affects: REGEN_MOVE by 1
+ Affects: REGEN\_MOVE by 1
 
 Only those who have attained supremacy in at least three classes may use 
 
 this item. 
 
--sa-
+\-sa-
 
 </div>
 
@@ -942,7 +958,7 @@ this item.
 
 gratz tox, you got very nice items and area will be smashed often i believe
 
-shame i have no time to improve my eqs! :)
+shame i have no time to improve my eqs! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 btw is this for real -1.2 arms for prime monks? outstanding
 
@@ -952,19 +968,20 @@ btw is this for real -1.2 arms for prime monks? outstanding
 
 there was a mistake in that i think. brad fixed it,its 1.2 head gear
 
--sa-
+\-sa-
 
 </div>
 
 <div class="post" data-post-id="23918" data-author="**Jake**" data-date="2008-04-22T20:28:11+00:00" data-subject="">
 
-I don't think Sa has stopped smashing the area since it was opened.  :wink: 
+I don't think Sa has stopped smashing the area since it was opened. <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom"> 
 
-gratz tox, you got very nice items and area will be smashed often i believe
-
-shame i have no time to improve my eqs! :)
-
-btw is this for real -1.2 arms for prime monks? outstanding[/quote:3dh83zak]
+> <strong>Evergreen wrote:</strong>
+> gratz tox, you got very nice items and area will be smashed often i believe
+> 
+> shame i have no time to improve my eqs! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
+> 
+> btw is this for real -1.2 arms for prime monks? outstanding
 
 </div>
 
@@ -980,23 +997,23 @@ im gonna not go to that area once i have my forge:)
 
 <div class="post" data-post-id="24029" data-author="Mosaix" data-date="2008-04-25T04:08:41+00:00" data-subject="">
 
-Thanks for making the new area Brad.  Congratz, I look forward to more of your stuff.  Makes the mud fun to see new and interesting ideas flowing.
+Thanks for making the new area Brad. Congratz, I look forward to more of your stuff. Makes the mud fun to see new and interesting ideas flowing.
 
 I read through this whole thread and wanted to comment a few items.
 
-Why cant a quest just toss out tasty prizes for everyone involved at least 1 time a year, why all the fuss about holding back it seems.  Logging on, getting cremated, having a fun social time that results in a fun prize is ok to have happen.  No one would be offended by that.  It used to happen.
+Why cant a quest just toss out tasty prizes for everyone involved at least 1 time a year, why all the fuss about holding back it seems. Logging on, getting cremated, having a fun social time that results in a fun prize is ok to have happen. No one would be offended by that. It used to happen.
 
 Seems taboo to hand out good prizes now.
 
-Otherwise use the drachma system to continue to award and reward.  Say a 30 person group gets a 50dr melting token.  And leader, tank, and maybe an MVP gets an additional 25dr or something like that.  Then keep the drachma shops fun, new, and up to date at least once a year.
+Otherwise use the drachma system to continue to award and reward. Say a 30 person group gets a 50dr melting token. And leader, tank, and maybe an MVP gets an additional 25dr or something like that. Then keep the drachma shops fun, new, and up to date at least once a year.
 
 That would work great too.
 
-Akashas last big quest was awesome.  Lots of dr with all the mini's and end quest if you participated in them all.  Was exciting to log in.
+Akashas last big quest was awesome. Lots of dr with all the mini's and end quest if you participated in them all. Was exciting to log in.
 
-Aaron ran a nice quest a few years ago, and let everyone pick an ingame item, nothing outrageous.  That worked out really well too, no bitching and everyone got a comp towards a forge, reasonable needed item, hard spellbook etc.  I picked an ivory torch, i still use it.
+Aaron ran a nice quest a few years ago, and let everyone pick an ingame item, nothing outrageous. That worked out really well too, no bitching and everyone got a comp towards a forge, reasonable needed item, hard spellbook etc. I picked an ivory torch, i still use it.
 
-Fun Questing should be a part of the cycle of the mud.  Its ok to hold Quests and give out prizes.  
+Fun Questing should be a part of the cycle of the mud. Its ok to hold Quests and give out prizes. 
 
 Thanks
 

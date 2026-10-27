@@ -12,7 +12,7 @@ post_count: 15
 
 <div class="post" data-post-id="31707" data-author="*Splork*" data-date="2010-09-04T21:14:43+00:00" data-subject="SlothMUD&#x27;s Flash Client">
 
-We are very excited to introduce our very own browser based, flash client.  We are using this for all of our applications on Facebook and Myspace and it will also be used to login from our home page. You can check it out with the links on our front page to play. 
+We are very excited to introduce our very own browser based, flash client. We are using this for all of our applications on Facebook and Myspace and it will also be used to login from our home page. You can check it out with the links on our front page to play. 
 
 The flash client is based on Fmud, a program written by Matt Adcock and we would like to send him our sincere thanks.
 
@@ -20,7 +20,7 @@ The client has several incredible features including triggers, macros, and actio
 
 I eventually plan on having the Avatar button lead to a popup showing your character in a full set of whatever equipment they are wearing. There are also several other smaller features I will be adding soon.
 
-Either way, we are hoping this helps attract a few new players to our wonderful game. I really hope you guys like this as I have been working on this for nearly a year and consider this my gift to a game I love.  We realize this is not a client a real player would use but we are hoping it helps get a few newbies hooked to our game before changing to Wintin or Zmud.
+Either way, we are hoping this helps attract a few new players to our wonderful game. I really hope you guys like this as I have been working on this for nearly a year and consider this my gift to a game I love. We realize this is not a client a real player would use but we are hoping it helps get a few newbies hooked to our game before changing to Wintin or Zmud.
 
 Enjoy,
 
@@ -34,7 +34,7 @@ So far, I really like this flash client, thank you for offering it =) I was thin
 
  Or maybe just give an option to track certain things there. Add another tab under settings, so you could toggle having your Stats/AC there, and maybe remove one of the under options if you did not want to track it.
 
-  Not sure how difficult this would be, or not. I still like it as is, but just a thought :)
+ Not sure how difficult this would be, or not. I still like it as is, but just a thought <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Thank You!
 
@@ -82,7 +82,7 @@ Splork
 
 <div class="post" data-post-id="32398" data-author="Breezewood" data-date="2011-01-31T18:18:26+00:00" data-subject="Re: SlothMUD&#x27;s Flash Client">
 
-Love the flash client.  Any possibility of getting separate windows for channels?
+Love the flash client. Any possibility of getting separate windows for channels?
 
 </div>
 
@@ -134,7 +134,7 @@ Splork
 
 <div class="post" data-post-id="34678" data-author="Akaya" data-date="2013-12-21T23:05:47+00:00" data-subject="Re: SlothMUD&#x27;s Flash Client">
 
-Very nice :)
+Very nice <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -150,7 +150,7 @@ Are there some .xml files or other updated data files out there that can be hook
 
 all the data it used was sent inline with the text the players see.
 
-its a flag on the character if i remember right.  
+its a flag on the character if i remember right. 
 
 will have to look at the code to see which one exactly
 
@@ -170,14 +170,14 @@ I looked a while back on the game machine and the maps are still there...
 
 Thanks for the info Splork!
 
-Based on that and with a little poking I see the maps are coming from [http://slothmud.org/Sloth_Client/maps/](http://slothmud.org/Sloth_Client/maps/) - keyed off area vnums I assume.
+Based on that and with a little poking I see the maps are coming from [http://slothmud.org/Sloth_Client/maps/](http://slothmud.org/Sloth_Client/maps/) \- keyed off area vnums I assume.
 
-the epics mob query pulls data from [http://slothmud.org/support/mapserverClient.php](http://slothmud.org/support/mapserverClient.php) - not sure if this is "live" livedata or delayed from mud. I'll have to compare it to Squip's epic checker next chance to see if its accurate.
+the epics mob query pulls data from [http://slothmud.org/support/mapserverClient.php](http://slothmud.org/support/mapserverClient.php) \- not sure if this is "live" livedata or delayed from mud. I'll have to compare it to Squip's epic checker next chance to see if its accurate.
 
 the idea of integrated maps is interesting but of course the challenge is the massive amount of work required to both create all the maps and then map room vnums to co-ordinates on them.
 
 I did play around with Mudlet to see how hard it is to combine a background with a map and its doable although I'm not sure how I feel about the results
 
-(image: /[<LINK_TEXT text="https://user-images.githubusercontent.c ... 347431.png">https://user-images.githubusercontent.com/7197133/103923613-c80ae700-50c1-11eb-8daa-615ce8347431.png</LINK_TEXT>](https://user-images.githubusercontent.com/7197133/103923613-c80ae700-50c1-11eb-8daa-615ce8347431.png))
+![](https://user-images.githubusercontent.com/7197133/103923613-c80ae700-50c1-11eb-8daa-615ce8347431.png)
 
 </div>

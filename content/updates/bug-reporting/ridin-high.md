@@ -20,149 +20,149 @@ That I continue to be "mounted" after successfully Lloyds beacon return, but my 
 
 Here is the log that made me think so:
 
-===== LOG START =====
+\===== LOG START =====
 
 north
 
 Idol Square
 
-Exits: North  East  South  West  Up  
+Exits: North East South West Up 
 
-A small white unicorn prances around with an unspoiled innocence. <<< My friend travels with me.
+A small white unicorn prances around with an unspoiled innocence. \<\<\< My friend travels with me.
 
-<1193hp 547ma 389mv>   >> - <<   -9   -9.7   1,360,422,108   231,224   raining   Bal Harbor Town
-
-spy n
-
-You suck! You need more practice!! <<< So true indeed :(
-
-<1193hp 547ma 384mv>   >> - <<   -9   -9.7   1,360,422,108   231,224   raining   Bal Harbor Town
+\<1193hp 547ma 389mv\> \>\> - \<\< -9 -9.7 1,360,422,108 231,224 raining Bal Harbor Town
 
 spy n
 
-You spy into the next room and see: <<< Check that there is no another unicorn.
+You suck! You need more practice!! \<\<\< So true indeed <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
+
+\<1193hp 547ma 384mv\> \>\> - \<\< -9 -9.7 1,360,422,108 231,224 raining Bal Harbor Town
+
+spy n
+
+You spy into the next room and see: \<\<\< Check that there is no another unicorn.
 
 The Inn
 
-   This inn is quite lavishly furnished.  The walls are made of a rich
+ This inn is quite lavishly furnished. The walls are made of a rich
 
 walnut wood and the floor is covered with a fine, hand made red carpet.
 
 Comfortable chairs rest behind a large table in one corner while the
 
-reception desk rests in another.  A large chandelier made of elegant
+reception desk rests in another. A large chandelier made of elegant
 
-crystals hangs overhead providing the room with light.  Several pictures
+crystals hangs overhead providing the room with light. Several pictures
 
-hang on the wall above the desk.  Sounds of laughter and music can be
+hang on the wall above the desk. Sounds of laughter and music can be
 
 heard from the north.
 
 Shayne the innkeeper is waiting to rent you a room for the night.
 
-<1193hp 547ma 379mv>   >> - <<   -9   -9.7   1,360,422,108   231,224   raining   Bal Harbor Town
+\<1193hp 547ma 379mv\> \>\> - \<\< -9 -9.7 1,360,422,108 231,224 raining Bal Harbor Town
 
 spy n
 
-You spy into the next room and see: <<< Double check that there is no another unicorn.
+You spy into the next room and see: \<\<\< Double check that there is no another unicorn.
 
 The Inn
 
-   This inn is quite lavishly furnished.  The walls are made of a rich
+ This inn is quite lavishly furnished. The walls are made of a rich
 
 walnut wood and the floor is covered with a fine, hand made red carpet.
 
 Comfortable chairs rest behind a large table in one corner while the
 
-reception desk rests in another.  A large chandelier made of elegant
+reception desk rests in another. A large chandelier made of elegant
 
-crystals hangs overhead providing the room with light.  Several pictures
+crystals hangs overhead providing the room with light. Several pictures
 
-hang on the wall above the desk.  Sounds of laughter and music can be
+hang on the wall above the desk. Sounds of laughter and music can be
 
 heard from the north.
 
 Shayne the innkeeper is waiting to rent you a room for the night.
 
-<1193hp 547ma 374mv>   >> - <<   -9   -9.7   1,360,422,108   231,224   raining   Bal Harbor Town
+\<1193hp 547ma 374mv\> \>\> - \<\< -9 -9.7 1,360,422,108 231,224 raining Bal Harbor Town
 
 north
 
 The Inn
 
-Exits: North  South  
+Exits: North South 
 
-A small white unicorn prances around with an unspoiled innocence. <<< My friend travels with me.
+A small white unicorn prances around with an unspoiled innocence. \<\<\< My friend travels with me.
 
 Shayne the innkeeper is waiting to rent you a room for the night.
 
-<1193hp 547ma 376mv>   >> - <<   -9   -9.7   1,360,422,108   231,224   indoors   Bal Harbor Town
+\<1193hp 547ma 376mv\> \>\> - \<\< -9 -9.7 1,360,422,108 231,224 indoors Bal Harbor Town
 
 spy s
 
-You spy into the next room and see: <<< Triple check that there is no another unicorn.
+You spy into the next room and see: \<\<\< Triple check that there is no another unicorn.
 
 Idol Square
 
-   The road here is made of rows of gold brick surrounded by rows of red
+ The road here is made of rows of gold brick surrounded by rows of red
 
-brick.  Wooden boardwalks have been placed here to give one a place on
+brick. Wooden boardwalks have been placed here to give one a place on
 
-which to walk.  A large, fancy building with a sign hanging from it lies
+which to walk. A large, fancy building with a sign hanging from it lies
 
 to the north.
 
-<1193hp 547ma 371mv>   >> - <<   -9   -9.7   1,360,422,108   231,224   indoors   Bal Harbor Town
+\<1193hp 547ma 371mv\> \>\> - \<\< -9 -9.7 1,360,422,108 231,224 indoors Bal Harbor Town
 
 spy s
 
-You suck! You need more practice!! <<< The evil game hurts my feelings deeply :(
+You suck! You need more practice!! \<\<\< The evil game hurts my feelings deeply <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
-<1193hp 547ma 368mv>   >> - <<   -9   -9.7   1,360,422,108   231,224   indoors   Bal Harbor Town
+\<1193hp 547ma 368mv\> \>\> - \<\< -9 -9.7 1,360,422,108 231,224 indoors Bal Harbor Town
 
 spy s
 
-You spy into the next room and see: <<< Quad check that there is no another unicorn.
+You spy into the next room and see: \<\<\< Quad check that there is no another unicorn.
 
 Idol Square
 
-   The road here is made of rows of gold brick surrounded by rows of red
+ The road here is made of rows of gold brick surrounded by rows of red
 
-brick.  Wooden boardwalks have been placed here to give one a place on
+brick. Wooden boardwalks have been placed here to give one a place on
 
-which to walk.  A large, fancy building with a sign hanging from it lies
+which to walk. A large, fancy building with a sign hanging from it lies
 
 to the north.
 
-<1193hp 547ma 364mv>   >> - <<   -9   -9.7   1,360,422,108   231,224   indoors   Bal Harbor Town
+\<1193hp 547ma 364mv\> \>\> - \<\< -9 -9.7 1,360,422,108 231,224 indoors Bal Harbor Town
 
 south
 
 Idol Square
 
-Exits: North  East  South  West  Up  
+Exits: North East South West Up 
 
-A small white unicorn prances around with an unspoiled innocence. <<< My friend travels with me!
+A small white unicorn prances around with an unspoiled innocence. \<\<\< My friend travels with me!
 
-<1193hp 547ma 366mv>   >> - <<   -9   -9.7   1,360,422,108   231,224   raining   Bal Harbor Town
+\<1193hp 547ma 366mv\> \>\> - \<\< -9 -9.7 1,360,422,108 231,224 raining Bal Harbor Town
 
 cast 'Lloyds Beacon' return
 
 Ok.
 
-You activate your beacon! <<< I ride into the sky on a rainbow bridge!
+You activate your beacon! \<\<\< I ride into the sky on a rainbow bridge!
 
 The Golden Cloud
 
-    Curtain-like sheets of soft gold clouds move around you, parting to 
+ Curtain-like sheets of soft gold clouds move around you, parting to 
 
-reveal corridors into the cloud.  The mists glow dimly, illuminating your
+reveal corridors into the cloud. The mists glow dimly, illuminating your
 
 travels.
 
-Exits: North  East  South  West  
+Exits: North East South West 
 
-<1193hp 507ma 368mv>   >> - <<   -9   -9.7   1,360,422,108   231,224   raining   The Clouds
+\<1193hp 507ma 368mv\> \>\> - \<\< -9 -9.7 1,360,422,108 231,224 raining The Clouds
 
 cast 'Lloyds Beacon' set
 
@@ -170,23 +170,23 @@ Ok.
 
 Beacon set.
 
-<1193hp 490ma 371mv>   >> - <<   -9   -9.7   1,360,422,108   231,224   raining   The Clouds
+\<1193hp 490ma 371mv\> \>\> - \<\< -9 -9.7 1,360,422,108 231,224 raining The Clouds
 
 look
 
 The Golden Cloud
 
-    Curtain-like sheets of soft gold clouds move around you, parting to 
+ Curtain-like sheets of soft gold clouds move around you, parting to 
 
-reveal corridors into the cloud.  The mists glow dimly, illuminating your
+reveal corridors into the cloud. The mists glow dimly, illuminating your
 
 travels.
 
-Exits: North  East  South  West  
+Exits: North East South West 
 
-<<< My friend is not with me anymore! :(
+\<\<\< My friend is not with me anymore! <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
-<1193hp 492ma 373mv>   >> - <<   -9   -9.7   1,360,422,108   231,224   raining   The Clouds
+\<1193hp 492ma 373mv\> \>\> - \<\< -9 -9.7 1,360,422,108 231,224 raining The Clouds
 
 cast 'Gate' bal-innkeeper
 
@@ -194,7 +194,7 @@ Ok.
 
 Your portal has successfully opened.
 
-<1193hp 403ma 374mv>   >> - <<   -9   -9.7   1,360,422,108   231,224   raining   The Clouds
+\<1193hp 403ma 374mv\> \>\> - \<\< -9 -9.7 1,360,422,108 231,224 raining The Clouds
 
 enter portal
 
@@ -206,43 +206,43 @@ This trip is rudely interrupted as you are spat out the other side.
 
 The Inn
 
-Exits: North  South  
+Exits: North South 
 
 AN OPEN PORTAL IS HERE!
 
-A small white unicorn prances around with an unspoiled innocence. <<< Here you are! I never intent to leave you behind!
+A small white unicorn prances around with an unspoiled innocence. \<\<\< Here you are! I never intent to leave you behind!
 
 Shayne the innkeeper is waiting to rent you a room for the night.
 
-<1193hp 405ma 376mv>   >> - <<   -9   -9.7   1,360,422,108   231,224   indoors   Bal Harbor Town
+\<1193hp 405ma 376mv\> \>\> - \<\< -9 -9.7 1,360,422,108 231,224 indoors Bal Harbor Town
 
 south
 
 Idol Square
 
-Exits: North  East  South  West  Up  
+Exits: North East South West Up 
 
-A small white unicorn prances around with an unspoiled innocence. <<< My friend travels with me once again!
+A small white unicorn prances around with an unspoiled innocence. \<\<\< My friend travels with me once again!
 
-<1193hp 407ma 378mv>   >> - <<   -9   -9.7   1,360,422,108   231,224   raining   Bal Harbor Town
+\<1193hp 407ma 378mv\> \>\> - \<\< -9 -9.7 1,360,422,108 231,224 raining Bal Harbor Town
 
 spy n
 
-You spy into the next room and see: <<< My friend is unique in whole world! Thre is NO another like her! Not even similar!
+You spy into the next room and see: \<\<\< My friend is unique in whole world! Thre is NO another like her! Not even similar!
 
 The Inn
 
-   This inn is quite lavishly furnished.  The walls are made of a rich
+ This inn is quite lavishly furnished. The walls are made of a rich
 
 walnut wood and the floor is covered with a fine, hand made red carpet.
 
 Comfortable chairs rest behind a large table in one corner while the
 
-reception desk rests in another.  A large chandelier made of elegant
+reception desk rests in another. A large chandelier made of elegant
 
-crystals hangs overhead providing the room with light.  Several pictures
+crystals hangs overhead providing the room with light. Several pictures
 
-hang on the wall above the desk.  Sounds of laughter and music can be
+hang on the wall above the desk. Sounds of laughter and music can be
 
 heard from the north.
 
@@ -250,25 +250,25 @@ AN OPEN PORTAL IS HERE!
 
 Shayne the innkeeper is waiting to rent you a room for the night.
 
-<1193hp 409ma 373mv>   >> - <<   -9   -9.7   1,360,422,108   231,224   raining   Bal Harbor Town
+\<1193hp 409ma 373mv\> \>\> - \<\< -9 -9.7 1,360,422,108 231,224 raining Bal Harbor Town
 
 spy n
 
-You spy into the next room and see: <<< Not a single even closely similar like her!
+You spy into the next room and see: \<\<\< Not a single even closely similar like her!
 
 The Inn
 
-   This inn is quite lavishly furnished.  The walls are made of a rich
+ This inn is quite lavishly furnished. The walls are made of a rich
 
 walnut wood and the floor is covered with a fine, hand made red carpet.
 
 Comfortable chairs rest behind a large table in one corner while the
 
-reception desk rests in another.  A large chandelier made of elegant
+reception desk rests in another. A large chandelier made of elegant
 
-crystals hangs overhead providing the room with light.  Several pictures
+crystals hangs overhead providing the room with light. Several pictures
 
-hang on the wall above the desk.  Sounds of laughter and music can be
+hang on the wall above the desk. Sounds of laughter and music can be
 
 heard from the north.
 
@@ -276,27 +276,27 @@ AN OPEN PORTAL IS HERE!
 
 Shayne the innkeeper is waiting to rent you a room for the night.
 
-<1193hp 411ma 368mv>   >> - <<   -9   -9.7   1,360,422,108   231,224   raining   Bal Harbor Town
+\<1193hp 411ma 368mv\> \>\> - \<\< -9 -9.7 1,360,422,108 231,224 raining Bal Harbor Town
 
 mount unicorn
 
-You are already riding something. <<< But she was not with me on the golden cloud, how could I be riding without her?
+You are already riding something. \<\<\< But she was not with me on the golden cloud, how could I be riding without her?
 
-<1193hp 414ma 371mv>   >> - <<   -9   -9.7   1,360,422,108   231,224   raining   Bal Harbor Town
+\<1193hp 414ma 371mv\> \>\> - \<\< -9 -9.7 1,360,422,108 231,224 raining Bal Harbor Town
 
 north
 
 The Inn
 
-Exits: North  South  
+Exits: North South 
 
 AN OPEN PORTAL IS HERE!
 
-A small white unicorn prances around with an unspoiled innocence. <<< From now on we will never part ways again! Joy! :)
+A small white unicorn prances around with an unspoiled innocence. \<\<\< From now on we will never part ways again! Joy! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Shayne the innkeeper is waiting to rent you a room for the night.
 
-<1193hp 416ma 373mv>   >> - <<   -9   -9.7   1,360,422,108   231,224   indoors   Bal Harbor Town
+\<1193hp 416ma 373mv\> \>\> - \<\< -9 -9.7 1,360,422,108 231,224 indoors Bal Harbor Town
 
 enter portal
 
@@ -308,19 +308,19 @@ This trip is rudely interrupted as you are spat out the other side.
 
 The Golden Cloud
 
-Exits: North  East  South  West  
+Exits: North East South West 
 
 AN OPEN PORTAL IS HERE!
 
-A small white unicorn prances around with an unspoiled innocence. <<< Forever together!
+A small white unicorn prances around with an unspoiled innocence. \<\<\< Forever together!
 
-<1193hp 445ma 389mv>   >> - <<   -9   -9.7   1,360,422,108   231,224   raining   The Clouds
+\<1193hp 445ma 389mv\> \>\> - \<\< -9 -9.7 1,360,422,108 231,224 raining The Clouds
 
-A white unicorn neighs loudly. <<< She likes my humour, unlike yall sad boring humanlings!
+A white unicorn neighs loudly. \<\<\< She likes my humour, unlike yall sad boring humanlings!
 
-<1193hp 445ma 389mv>   >> - <<   -9   -9.7   1,360,422,108   231,224   raining   The Clouds
+\<1193hp 445ma 389mv\> \>\> - \<\< -9 -9.7 1,360,422,108 231,224 raining The Clouds
 
-===== LOG END =====
+\===== LOG END =====
 
 So, the solution I suggest is either A) make mounts go with us when we beacon back (desirable!), or B) dismount us automatically when we beacon back (acceptable, but worse than A).
 

@@ -18,13 +18,13 @@ In my opinion, we could use a way to stay in touch off-game, so we could discuss
 
 How to join:
 
-- download mobile apps for [iPhone/iPad](https://telegram.org/dl/ios) or [Android](https://telegram.org/dl/android)
+\- download mobile apps for [iPhone/iPad](https://telegram.org/dl/ios) or [Android](https://telegram.org/dl/android)
 
-- just open a browser tab with [https://telegram.org/dl/webogram](https://telegram.org/dl/webogram)
+\- just open a browser tab with [https://telegram.org/dl/webogram](https://telegram.org/dl/webogram)
 
-- download [a desktop version](https://desktop.telegram.org/) for [Windows](https://tdesktop.com/win), [OS X](https://tdesktop.com/mac) or Linux or portable versions
+\- download [a desktop version](https://desktop.telegram.org/) for [Windows](https://tdesktop.com/win), [OS X](https://tdesktop.com/mac) or Linux or portable versions
 
-- search for slothmud.
+\- search for slothmud.
 
 If you need to register, you'll need to enter your mobile phone to confirm the registration. Only your contacts will see your number, others will only see your name.
 

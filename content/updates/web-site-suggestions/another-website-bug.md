@@ -24,8 +24,8 @@ Thus making you make a new account, like I just did.
 
 <div class="post" data-post-id="13881" data-author="Corinn" data-date="2006-09-01T13:38:58+00:00" data-subject="">
 
-Yup, that happened to me.  But I bugged the hell out of admin and Clink ended up fixing it for me.  Thanks Clink!
+Yup, that happened to me. But I bugged the hell out of admin and Clink ended up fixing it for me. Thanks Clink!
 
--Corinn
+\-Corinn
 
 </div>

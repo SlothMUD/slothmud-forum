@@ -22,25 +22,25 @@ Legend:
 
 %1 - any word or number that follows. You can use a more specific pattern recognition, such as (%w) in Zmud/Cmud, which only takes a single word into account
 
-| - is a vertical pipe, shift \, which is used to clear the buffer of pre-typed commands. Basically, you stop doing whatever you were doing, except maybe one command that comes through.
+\| - is a vertical pipe, shift \\, which is used to clear the buffer of pre-typed commands. Basically, you stop doing whatever you were doing, except maybe one command that comes through.
 
 The scripts are for Zmud/Cmud. If you want to port them to Wintin, replace @ with $ and consult the trigger/alias manual how to create them. Mudlet might require a completely different code.
 
-0. If you don't man up to be the frontline, enable these two triggers:
+0\. If you don't man up to be the frontline, enable these two triggers:
 
-Pattern: Your front line collapses!  Your group is thrown into chaos!
+Pattern: Your front line collapses! Your group is thrown into chaos!
 
-Command: |;man back
+Command: \|;man back
 
 0.5
 
 Pattern: You stumble as you try to move to the rear of the group.
 
-Command: |;man back
+Command: \|;man back
 
 Basically, it moves you out of the harm's way during the fight. It's the first trigger that you need. If there is one trigger to have, this is it.
 
-1.
+1\.
 
 @leader -- 'all up'
 
@@ -50,17 +50,17 @@ Stop regenning, get up. Ready yourself to change.
 
 Bonus:
 
-@leader -- 'target *'
+@leader -- 'target \*'
 
-#IF {@justup=1} {eqs wear @mainmode;justup=0};
+\#IF {@justup=1} {eqs wear @mainmode;justup=0};
 
 t=%1
 
 On the first target from leader after regen, switch to your main mode. If you use a max mana mode (or your regen mode has more mana, than your main), you can benefit from some extra mana, if you change right before the mob. The caveat is that you need to be ready and pray the leader calls the target 2-3 seconds before the kill.
 
-Also, you  capture the target (helpful for blind/weaken/damn and autoblast aliases).
+Also, you capture the target (helpful for blind/weaken/damn and autoblast aliases).
 
-2.
+2\.
 
 Pattern: @leader -- 'visage'
 
@@ -68,7 +68,7 @@ Command: cast 'undead visage'
 
 Self-explanatory: you want to be visaged, when asked to. If you are the only person w/o visage, the mobs will pick you out first. Sometimes it hurts. Badly.
 
-3.
+3\.
 
 @leader -- '@char gate %1'
 
@@ -80,7 +80,7 @@ If you only listen to the leader in this specific fashion, there's no room for m
 
 You specifically gate the person/mob the leader asks you to.
 
-4.
+4\.
 
 @leader -- 'wb up'
 
@@ -88,7 +88,7 @@ Command: cast 'water breath' @char
 
 Put water breathing up, when required.
 
-5.
+5\.
 
 @leader -- 'spectral'
 
@@ -96,13 +96,13 @@ Command: cast 'spectral shield' OR get abrasive @container, quaff abrasive OR ge
 
 Why? There are a few mobs with area spell damage or regen mobs and you may wonna have spectral shield up for them.
 
-6.
+6\.
 
 For non-bards and non-healers:
 
 @leader -- 'reign'
 
-Command: |
+Command: \|
 
 The leader wants the mob to stop fighting the group and visa versa, so don't throw targeted spells at the mob. Healing tank is acceptable and probably encouraged, since the leader wants to walk away from the mob.
 
@@ -116,21 +116,21 @@ Remember that you might have to keep casting this until the mob stops fighting (
 
 If you are a healer and are blasting, then you probably know to stop blasting/debuffing on reign.
 
-7.
+7\.
 
 Pattern: steps back from the fight and
 
-Command: | 
+Command: \| 
 
 What it does:
 
-- what you see is a fragment of a pattern, where a mob stops fighting, while under the influence of the 'reign of the confusion' bard song (see above)
+\- what you see is a fragment of a pattern, where a mob stops fighting, while under the influence of the 'reign of the confusion' bard song (see above)
 
-- you stop executing any pre-typed commands, especially targeted damage spells/skills that affect the target. If you are a bard, you are stopping unnecessary reign of confusion (unless many mobs need to be stopped and only one did)
+\- you stop executing any pre-typed commands, especially targeted damage spells/skills that affect the target. If you are a bard, you are stopping unnecessary reign of confusion (unless many mobs need to be stopped and only one did)
 
-- you don't engage the mob by accident or on purpose, because the leader usually stops the fight on purpose (see above)
+\- you don't engage the mob by accident or on purpose, because the leader usually stops the fight on purpose (see above)
 
-8.
+8\.
 
 Pattern: @tank yells '%1'$
 
@@ -174,7 +174,7 @@ Well, the alternative is me not saying anything, just letting ppl get extra dama
 
 Akaya has translated this script to Mudlet:
 
-[<LINK_TEXT text="http://www.slothmud.org/forum/viewtopic ... 003#p37003">http://www.slothmud.org/forum/viewtopic.php?p=37003#p37003</LINK_TEXT>](http://www.slothmud.org/forum/viewtopic.php?p=37003#p37003)
+[http://www.slothmud.org/forum/viewtopic.php?p=37003#p37003](http://www.slothmud.org/forum/viewtopic.php?p=37003#p37003)
 
 Thanks, Akaya!
 

@@ -12,11 +12,11 @@ post_count: 5
 
 <div class="post" data-post-id="33396" data-author="*Pixie*" data-date="2012-07-25T23:32:48+00:00" data-subject="Old Skool EQ Wanted lists?">
 
-What are items that you remember from that past, that are either rare, retired, changed, or hard to get that were the more popular items from the past on wanted lists.  Also, the most sought after items in this version? (not necessarily the items that everyone may have vaulted away)  I am looking for things that you would have vaulted because they were cool!
+What are items that you remember from that past, that are either rare, retired, changed, or hard to get that were the more popular items from the past on wanted lists. Also, the most sought after items in this version? (not necessarily the items that everyone may have vaulted away) I am looking for things that you would have vaulted because they were cool!
 
 Thanks
 
-*pixie*
+\*pixie\*
 
 </div>
 
@@ -56,7 +56,7 @@ The singular thing i miss the most are restring tokens. It was always fun to mak
 
 <div class="post" data-post-id="33403" data-author="blackmore" data-date="2012-07-27T13:23:29+00:00" data-subject="Re: Old Skool EQ Wanted lists?">
 
-+1 on the fishing knife.
+\+1 on the fishing knife.
 
 It used to be that everyone wanted volcanic guards from Regal.
 

@@ -20,7 +20,7 @@ with mxp on I get wierd line breaks that don't occur with mxp off:
 
 Mxp mode is now off.
 
-<388hp 177ma 136mv 110814gl 4198994xp +8al>
+\<388hp 177ma 136mv 110814gl 4198994xp +8al\>
 
 i
 
@@ -42,13 +42,13 @@ sailor's bread
 
 water barrel
 
-<388hp 183ma 136mv 110814gl 4198994xp +8al>
+\<388hp 183ma 136mv 110814gl 4198994xp +8al\>
 
 mxp on
 
 Mxp mode is now on.
 
-<388hp 190ma 136mv 110814gl 4198994xp +8al>
+\<388hp 190ma 136mv 110814gl 4198994xp +8al\>
 
 i
 
@@ -68,7 +68,7 @@ sailor's bread
 
 water barrel
 
-<388hp 192ma 136mv 110814gl 4198994xp +8al>
+\<388hp 192ma 136mv 110814gl 4198994xp +8al\>
 
 Can anyone suggest whats wrong?
 
@@ -80,7 +80,7 @@ Thraxas
 
 Got MXP enabled in Wintin?
 
-File > Options > MXP
+File \> Options \> MXP
 
 </div>
 
@@ -112,6 +112,6 @@ I tried wintin a while back and had the exact same issue - bizarre and apparentl
 
 <div class="post" data-post-id="21572" data-author="Yasik" data-date="2007-12-07T23:02:37+00:00" data-subject="">
 
-Yeah, uninstall teh 'feature'-rich WIntin and move yo MUSH (which rocks). Thats my way to solve your problem :)
+Yeah, uninstall teh 'feature'-rich WIntin and move yo MUSH (which rocks). Thats my way to solve your problem <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

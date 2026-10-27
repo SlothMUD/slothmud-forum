@@ -14,7 +14,7 @@ post_count: 8
 
 Bony Bracelet -0.4ac Wrist
 
-EW EC ENe EMo *OR*
+EW EC ENe EMo \*OR\*
 
 min bid: 1 mil
 
@@ -22,7 +22,7 @@ min bid: 1 mil
 
 <div class="post" data-post-id="1779" data-author="Methyx" data-date="2004-09-05T05:20:20+00:00" data-subject="">
 
-One Mil :)
+One Mil <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -50,7 +50,7 @@ buy out: 2.5mil for both
 
 <div class="post" data-post-id="1817" data-author="Zam" data-date="2004-09-06T09:30:51+00:00" data-subject="">
 
-can anyone explain to methyx what does buyout mean :P
+can anyone explain to methyx what does buyout mean <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -58,11 +58,11 @@ can anyone explain to methyx what does buyout mean :P
 
 Sorry Zam,
 
-I know very well what buy out means.  However, I am generally asleep or working when the majority of these posts come in.  As was the case when Zenkai made the buy out offer for the pair and you followed up with the bid. 
+I know very well what buy out means. However, I am generally asleep or working when the majority of these posts come in. As was the case when Zenkai made the buy out offer for the pair and you followed up with the bid. 
 
-So in the hopes that Zenkai would give a prospective buyer a chance, I offered a counter bid.  I wasn't trying to be spiteful.  I just really need some additional ac as my hours make me more of a soloist than a grouper.
+So in the hopes that Zenkai would give a prospective buyer a chance, I offered a counter bid. I wasn't trying to be spiteful. I just really need some additional ac as my hours make me more of a soloist than a grouper.
 
-I don't really need the pair, so perhaps you and I could work out a deal.  If this particular auction is well and truyly closed, I will just keep looking and offer you my congratulations on being the first man up after the offer ;)
+I don't really need the pair, so perhaps you and I could work out a deal. If this particular auction is well and truyly closed, I will just keep looking and offer you my congratulations on being the first man up after the offer <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

@@ -26,13 +26,13 @@ The truth about tokens.. I'll give it a shot.
 
 A token (hex, tri, oct) will reroll all of your stats (str, int, wis, dex con).
 
-Using a token is not reversible.  (With the exception - I think - of a quest-drachma based reversal token.  I have never used these, so my knowledge may be faulty here.)
+Using a token is not reversible. (With the exception - I think - of a quest-drachma based reversal token. I have never used these, so my knowledge may be faulty here.)
 
-Tokens, in general, pop randomly.  With that being said, there are certain mobs that pop tokens more often than others.  There are (or were) mob token lists on the website.  (An easy one that comes to mind is the elderly men on valk.)
+Tokens, in general, pop randomly. With that being said, there are certain mobs that pop tokens more often than others. There are (or were) mob token lists on the website. (An easy one that comes to mind is the elderly men on valk.)
 
 "Is rerolling necessary?"
 
-Ok, this is a tough one.  (See my poll about 'playable stats.')  I would say yes, but how much rerolling?  I have used many (> 100) tokens on Si alone.  So choose how picky you are about stats... or you will spend your mud-life rolling.
+Ok, this is a tough one. (See my poll about 'playable stats.') I would say yes, but how much rerolling? I have used many (\> 100) tokens on Si alone. So choose how picky you are about stats... or you will spend your mud-life rolling.
 
 Hope this helps.
 
@@ -50,11 +50,11 @@ what your 'final' natural stats before you level past 20. The reason being, you 
 
 Now on to stats rolling... the good stuff...
 
-There is help on stat ordering somewhere on site if you look for it but basically it breaks down like this...your main class will determine your prime stats... you for instand are w/t/b/n. You 2 main stats are going to be strength and dex. Again, depending on who you ask, you don't [b:1yop6o8k]HAVE[/b:1yop6o8k]to roll a 18
+There is help on stat ordering somewhere on site if you look for it but basically it breaks down like this...your main class will determine your prime stats... you for instand are w/t/b/n. You 2 main stats are going to be strength and dex. Again, depending on who you ask, you don't <strong>HAVE</strong>to roll a 18
 
 twice for str and dex... but it would certainly help..You should at minumum settle for 18 as a prime stat and a very high number for your secondary stat.
 
-In your case a 18(30) * * 16 * might be playable as long as your other 3 stats weren't too low..If you took your total stat score and added them together and got 78-80, you might consider looking over the eqlist to see
+In your case a 18(30) \* \* 16 \* might be playable as long as your other 3 stats weren't too low..If you took your total stat score and added them together and got 78-80, you might consider looking over the eqlist to see
 
 how outfitting your char might work out... Any total score of your stats that are over 80 are most definitely playable and more likely perm stats.
 

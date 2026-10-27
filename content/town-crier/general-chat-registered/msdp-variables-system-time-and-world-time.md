@@ -12,7 +12,7 @@ post_count: 5
 
 <div class="post" data-post-id="40120" data-author="Woody" data-date="2024-10-31T14:54:56+00:00" data-subject="msdp variables SYSTEM_TIME and WORLD_TIME">
 
-The msdp variables SYSTEM_TIME and WORLD_TIME are returning "0" for me.
+The msdp variables SYSTEM\_TIME and WORLD\_TIME are returning "0" for me.
 
 I'm currently using DURATION on ' avatar sight' to time tick length for a lagometer, as my newbies don't have long duration spells, Is there a better variable to use?
 
@@ -32,7 +32,7 @@ System time is just PST - it doesn’t lag
 
 <div class="post" data-post-id="40123" data-author="Woody" data-date="2024-11-01T14:05:12+00:00" data-subject="Re: msdp variables SYSTEM_TIME and WORLD_TIME">
 
-The msdp.CHARACTER_AFFECTS spell DURATION is in seconds.
+The msdp.CHARACTER\_AFFECTS spell DURATION is in seconds.
 
 I compare this to a local timer and it's usually accurate to +/- 0.01 seconds.
 
@@ -52,7 +52,7 @@ If it's a config on the server a 'catch up' tick duration of 0.5 or 0.66 would b
 
 <div class="post" data-post-id="40128" data-author="cnl" data-date="2024-11-01T19:41:29+00:00" data-subject="Re: msdp variables SYSTEM_TIME and WORLD_TIME">
 
-msdp.CHARACTER_AFFECTS becomes bugged at high numbers of effects, spells being up - it hardly ever reports any values at all for Fuligin with my permanent buys and artifacts etc - I had to unreport it.
+msdp.CHARACTER\_AFFECTS becomes bugged at high numbers of effects, spells being up - it hardly ever reports any values at all for Fuligin with my permanent buys and artifacts etc - I had to unreport it.
 
 So I suggest you don't get too dependent on using it.
 

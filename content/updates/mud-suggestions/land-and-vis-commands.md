@@ -24,7 +24,7 @@ Just a few thoughts.
 
 <div class="post" data-post-id="33451" data-author="jezer" data-date="2012-08-20T01:59:26+00:00" data-subject="Re: land and vis commands">
 
-+1
+\+1
 
 Perhaps make dispel magic a generically or specifically targetted spell...
 

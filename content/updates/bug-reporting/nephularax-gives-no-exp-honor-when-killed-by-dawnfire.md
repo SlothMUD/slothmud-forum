@@ -63,13 +63,13 @@ Djavul makes the the ancient giant, Nephularax into a
 
 colourful corpse.
 
-The ancient giant, Nephularax has been banished to   the astral plane!
+The ancient giant, Nephularax has been banished to the astral plane!
 
 You receive 43472868 experience points as your share.You gain 15360414 bonus experience!
 
 You gain 43472868 extra bonus experience!
 
-You have gained eight thousand seven hundred and     fifty honor.
+You have gained eight thousand seven hundred and fifty honor.
 
 You have gained an ungodly amount of bonus honor.
 
@@ -79,6 +79,6 @@ Total exp for kill is 336562856.
 
 <div class="post" data-post-id="39956" data-author="Insomnia" data-date="2022-06-27T21:00:05+00:00" data-subject="Re: Nephularax gives no exp/honor when killed by dawnfire?">
 
-But Nephularax leaves no corpse. :P Unless in the Celestial quest.
+But Nephularax leaves no corpse. <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom"> Unless in the Celestial quest.
 
 </div>

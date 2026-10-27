@@ -18,7 +18,7 @@ I suppose I am a victim of a bug. Today I went to Autumnal Forest to kill a Wand
 
 On the gossip I recieved an explanation, that he stole something from me. And I am missing a backpack with potions in my inventory. Yet, autoloot gave me only coins.
 
-Could  it be a bug?
+Could it be a bug?
 
 </div>
 

@@ -22,7 +22,7 @@ Since players require both exp and gold to level, they need to grind both. Earli
 
 However, Splork didn't give us any gold increases. What's more, some gold areas were nerfed, some deserved that (Mansion), some not. It all means that players, while getting adequate exp, now have to grind gold to level.
 
-I theorize that by **adding more gold to some areas**, which aren't gold ones now, or just **adding an added gold bonus per kill**, we'll see more people leveling and leveling faster, which should **increase engagement and retention** as added exp bonus did.
+I theorize that by <strong>adding more gold to some areas</strong>, which aren't gold ones now, or just <strong>adding an added gold bonus per kill</strong>, we'll see more people leveling and leveling faster, which should <strong>increase engagement and retention</strong> as added exp bonus did.
 
 Another way to make gold would be to pop eq or sell forges, but given the low number of players, this business is particularly risky and non-existent, which means that gold farming is just more efficient, if boring. Also, once I polish a process to forge an item, the changes go in that make it harder, which is another topic altogether.
 
@@ -30,11 +30,11 @@ Yet another way to get gold would be to solo Lyme, but given that a few 9x40 pla
 
 Of course, this is my opinion based on my experience, so share yours:
 
-- do you get enough gold by doing exp or you need to grind gold, too?
+\- do you get enough gold by doing exp or you need to grind gold, too?
 
-- are you satisfied with how much gold you get on your gold runs across several areas?
+\- are you satisfied with how much gold you get on your gold runs across several areas?
 
-- what's your opinion on gold farming: do we desperately need a gold bonus or a gold area or two would suffice?
+\- what's your opinion on gold farming: do we desperately need a gold bonus or a gold area or two would suffice?
 
 Thanks.
 
@@ -42,7 +42,7 @@ Thanks.
 
 <div class="post" data-post-id="36787" data-author="Josiah" data-date="2016-03-30T19:53:38+00:00" data-subject="Re: Leveling Gold, the Gold Grind and Gold Bonus">
 
-I've always done well with selling equipment, forges, gems, and services like cycling for obscure equipment for a fee.  Obviously that isn't an option for everyone.  Running lyme xp is definitely profitable for those that can do it, so really the problem lies with those who group, and those who solo poorly.
+I've always done well with selling equipment, forges, gems, and services like cycling for obscure equipment for a fee. Obviously that isn't an option for everyone. Running lyme xp is definitely profitable for those that can do it, so really the problem lies with those who group, and those who solo poorly.
 
 For the average player, grouping has always been unusually good experience/hour, and requires taking time off occasionally for gold farming from one of the many lucrative areas (which tend to offer bad xp).
 
@@ -50,15 +50,15 @@ I'm on the fence about whether this is good game design, but clearly the premise
 
 If leveling costs are a game-breaking pain point for most players, the appropriate response would be to lower the costs rather than increase available coin.
 
-I think there are always unrecognized opportunities for entrepreneuring players.  Early in s4 I sold two ruby gems for 50 million gold each, and never looked back.  Once I was high level and soloing well, I was able to generate coins and bought the gems I needed.
+I think there are always unrecognized opportunities for entrepreneuring players. Early in s4 I sold two ruby gems for 50 million gold each, and never looked back. Once I was high level and soloing well, I was able to generate coins and bought the gems I needed.
 
-Selling gems is available to all players, and works best for those in the groups that 'don't get enough coins.'  And the soloing players with all the money want to buy them! It's a win win.
+Selling gems is available to all players, and works best for those in the groups that 'don't get enough coins.' And the soloing players with all the money want to buy them! It's a win win.
 
 </div>
 
 <div class="post" data-post-id="36790" data-author="cyprimus" data-date="2016-03-30T21:52:07+00:00" data-subject="Re: Leveling Gold, the Gold Grind and Gold Bonus">
 
-Its temporary Taron. once you get thru it, it will be easy..  I said essentially the same thing with cy... and with the exp increase... yet now, i leveled with a remorts bonus and still was able to not have to gold.
+Its temporary Taron. once you get thru it, it will be easy.. I said essentially the same thing with cy... and with the exp increase... yet now, i leveled with a remorts bonus and still was able to not have to gold.
 
 Max avvie shop is 1000 exp to one coin.. this is the 'golden ratio' for the codebase.. if your getting more coins that that, in the end you will be great.. if your getting less, then you will have coins problems.
 
@@ -66,7 +66,7 @@ I am sure several ppl would be happy to loan coins either to get you leading or 
 
 As for the system, well, i pointed out before that added exp with no coins, but in the long run, its not an issue.
 
-And Josiah, yep, amazing how me buying gems from someone can suddenly make them.. lol.  I try and find a reason to help those that are trying.  Sometimes i takes the form of tanking for some druid thats really trying ...or burying them in coins... each player is different.  
+And Josiah, yep, amazing how me buying gems from someone can suddenly make them.. lol. I try and find a reason to help those that are trying. Sometimes i takes the form of tanking for some druid thats really trying ...or burying them in coins... each player is different. 
 
 anyways, just waking up ...
 
@@ -76,7 +76,7 @@ anyways, just waking up ...
 
 I have a problem with gold as well. Mainly due to funding leveling cost for myself and the wife...... However, I'm not at Taron's level to worry too much about it yet. I still run gold from time to time before I have enough XP to level. Nevertheless, it will be good to see more gold areas to the game (Ideally solo with reasonable XP and somewhere off lyme!). I saw some great area of this kind introduced just recently to the mud and I think we are on the right track. Hope to see more of these areas in the future. 
 
-- Vege
+\- Vege
 
 </div>
 
@@ -102,7 +102,7 @@ I too think that the reasonable solution would've been to reduce the level exp r
 
 Zhou Zan,
 
-+1 T
+\+1 T
 
 Regards,
 
@@ -112,18 +112,18 @@ Dr
 
 <div class="post" data-post-id="36801" data-author="Teron" data-date="2016-04-02T06:15:36+00:00" data-subject="Re: Leveling Gold, the Gold Grind and Gold Bonus">
 
-> **Josiah wrote:**
+> <strong>Josiah wrote:</strong>
 > I'm on the fence about whether this is good game design, but clearly the premise that when maximizing your xp/hour, you should be gifted with enough gold to use it is questionable.
 
 I agree.
 
 Ideally, in my opinion:
 
-- if you really maximize exp/hr, then you should need to grind gold - a bit
+\- if you really maximize exp/hr, then you should need to grind gold - a bit
 
-- if you solo exp, you don't have to grind gold to level
+\- if you solo exp, you don't have to grind gold to level
 
-- if you need to do forges or buy vaults, you probably need to grind gold
+\- if you need to do forges or buy vaults, you probably need to grind gold
 
 Grinding gold should not be an activity that everyone must do to level. It does not add anything enjoyable or challenging to the game play. Some might say that it requires you to explore, but most often, you just go to one of the few known areas/mobs and camp them endlessly, relentlessly. Even if you do explore, you end up killing the same mobs over and over and over and over. And over.
 
@@ -143,6 +143,6 @@ But a lot have a trade-only mentality about tier-3's.
 
 Which is a whole other discussion, or maybe not.
 
---Zuzu
+\--Zuzu
 
 </div>

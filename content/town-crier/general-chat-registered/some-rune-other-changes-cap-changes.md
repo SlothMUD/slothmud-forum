@@ -18,13 +18,13 @@ Caps for things like flail, circle, stab damage, Undead Control, Charisma went u
 
 Some runes were adjusted:
 
-*Thief runes as follows: the bonuses were set too high --  Circle and stab runes adjusted down slightly.  Now you can overall use more to hit a higher cap, so the net change is positive.
+\*Thief runes as follows: the bonuses were set too high -- Circle and stab runes adjusted down slightly. Now you can overall use more to hit a higher cap, so the net change is positive.
 
-* Light blue iolite and smokey quartz were socketed in the same spot for heal bonus, the belt location.  Now either can be socketed on the legs as well.  You can use any combination of the two in either slot
+\* Light blue iolite and smokey quartz were socketed in the same spot for heal bonus, the belt location. Now either can be socketed on the legs as well. You can use any combination of the two in either slot
 
-* movement runes are now +30 moves
+\* movement runes are now +30 moves
 
-* also adjusted the silver steel spurs forge clasp for higher kick damage
+\* also adjusted the silver steel spurs forge clasp for higher kick damage
 
 I think that is all for now...we will get the eq list updated as soon as possible.
 

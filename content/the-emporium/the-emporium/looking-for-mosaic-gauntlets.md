@@ -14,7 +14,7 @@ post_count: 1
 
 Hey All -
 
-I am looking for Mosaic Gaunts.  I have some decent eq for trade, and of course coins.
+I am looking for Mosaic Gaunts. I have some decent eq for trade, and of course coins.
 
 Catch me online or drop a note here if you are interested.
 

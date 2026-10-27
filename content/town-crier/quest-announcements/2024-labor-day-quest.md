@@ -16,10 +16,10 @@ This is occurring NOON Pacific Saturday 8/31/2024
 
 A timer link has been posted below:
 
-[<LINK_TEXT text="https://www.tickcounter.com/countdown/5 ... -day-quest">https://www.tickcounter.com/countdown/5723109/2024-slothmud-labor-day-quest</LINK_TEXT>](https://www.tickcounter.com/countdown/5723109/2024-slothmud-labor-day-quest)
+[https://www.tickcounter.com/countdown/5723109/2024-slothmud-labor-day-quest](https://www.tickcounter.com/countdown/5723109/2024-slothmud-labor-day-quest)
 
 See you there. thanks
 
---Idj
+\--Idj
 
 </div>

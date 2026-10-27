@@ -20,9 +20,9 @@ The small example below does the following:
 
 1)creates a windowcalled web
 
-2)creates an action called dynamic_map
+2)creates an action called dynamic\_map
 
-   *This takes slothmuds dynamic map and sets it
+ \*This takes slothmuds dynamic map and sets it
 
  right inside wintin.net-inside the window titled web 
 
@@ -36,17 +36,17 @@ right inside wintin.net in the window called web. You can
 
 search for equipment without opening up your broswer.
 
-#htmlwindow {Web} {about:blank}
+\#htmlwindow {Web} {about:blank}
 
-#defgroup {Maps}
+\#defgroup {Maps}
 
-#alias  {dynamic_map} {#htmlbrowse {Web} {http://www.slothmud.org/eqlist/dynmaps/map.html}} {G|Maps}
+\#alias {dynamic\_map} {#htmlbrowse {Web} {http://www.slothmud.org/eqlist/dynmaps/map.html}} {G\|Maps}
 
-#alias  {web_clear} {#clearwin {Web}} {G|Maps}
+\#alias {web\_clear} {#clearwin {Web}} {G\|Maps}
 
-#alias  {whatis} {#htmlbrowse {Web} {http://www.slothmud.org/eqlist/index.php?stage=3&alternateeqtype=All&orderby=Item+name&sortorder=asc&filterby=Any&filterstring=$0&continent=All&changemonth=01&changedate=01&changeyear=2000&viewflags=View+Only&actionmenu=maproom.php}} {G|Maps}
+\#alias {whatis} {#htmlbrowse {Web} {http://www.slothmud.org/eqlist/index.php?stage=3&alternateeqtype=All&orderby=Item+name&sortorder=asc&filterby=Any&filterstring=$0&continent=All&changemonth=01&changedate=01&changeyear=2000&viewflags=View+Only&actionmenu=maproom.php}} {G\|Maps}
 
-#defgroup {}
+\#defgroup {}
 
 </div>
 

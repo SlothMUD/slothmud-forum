@@ -96,34 +96,36 @@ and I can't go on.. wooooah
 
 <div class="post" data-post-id="13346" data-author="Autolycos" data-date="2006-07-06T22:45:31+00:00" data-subject="">
 
-EXCELLENT!!  :!:
+EXCELLENT!! <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="13347" data-author="Corinn" data-date="2006-07-06T23:02:21+00:00" data-subject="">
 
-That's just silly  :P
+That's just silly <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="13349" data-author="Autolycos" data-date="2006-07-06T23:53:39+00:00" data-subject="">
 
-That's just silly  :P[/quote:kdt2lcnj]
+> <strong>Corinn wrote:</strong>
+> That's just silly <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
-And your just an animal in pants! :twisted:
+And your just an animal in pants! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="13352" data-author="Corinn" data-date="2006-07-07T01:21:50+00:00" data-subject="">
 
-And your just an animal in pants! :twisted:[/quote:2jla0agk]
+> <strong>Autolycos wrote:</strong>
+> And your just an animal in pants! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
-But i dont wear pants ;)
+But i dont wear pants <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="13357" data-author="lad" data-date="2006-07-07T03:11:46+00:00" data-subject="Thanks for the laugh">
 
-:D
+<img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>

@@ -32,23 +32,24 @@ Lis doesn't like you scrubs anymore and he quit the infernets.
 
 <div class="post" data-post-id="18487" data-author="Autolycos" data-date="2007-05-14T19:31:34+00:00" data-subject="">
 
-But does he still work for Umbrella Corp?   :twisted:
+But does he still work for Umbrella Corp? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="18489" data-author="Weasel" data-date="2007-05-14T20:39:46+00:00" data-subject="">
 
-Yeah it's finals time for those studying.. *grumbles about fucking finals*
+Yeah it's finals time for those studying.. \*grumbles about fucking finals\*
 
 </div>
 
 <div class="post" data-post-id="18490" data-author="banedon" data-date="2007-05-15T03:57:07+00:00" data-subject="">
 
-Yeah it's finals time for those studying.. *grumbles about ******* finals*[/quote:374uf9uh]
+> <strong>Weasel wrote:</strong>
+> Yeah it's finals time for those studying.. \*grumbles about \*\*\*\*\*\*\* finals\*
 
 Very true, but this time around, I have to say, I LOVE FINALS!!!
 
-My grades are good enough I don't have to take them, and this is the last set I'm gonna have to take, if I do, because in 2 1/2 weeks (May 31st)this stoopid lil monk r gunna b [b:374uf9uh] A KAWLIDGE GRAJOOIT!![/color:374uf9uh][/b:374uf9uh]
+My grades are good enough I don't have to take them, and this is the last set I'm gonna have to take, if I do, because in 2 1/2 weeks (May 31st)this stoopid lil monk r gunna b <strong>A KAWLIDGE GRAJOOIT!!</strong>
 
 </div>
 
@@ -62,21 +63,21 @@ Gratz Banedon - what degree / major you graduating with?
 
 <div class="post" data-post-id="18492" data-author="Lis" data-date="2007-05-15T05:15:36+00:00" data-subject="">
 
-If Lis is not in space atm.. he is probably in a secret underground training facility. 
-
-[/quote:ab3k972a]
+> <strong>Autolycos wrote:</strong>
+> If Lis is not in space atm.. he is probably in a secret underground training facility.
 
 Not yet in space, but on training.
 
 Missing you guys
 
-P.S. stfu  :P
+P.S. stfu <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="18493" data-author="banedon" data-date="2007-05-15T06:00:39+00:00" data-subject="">
 
-Gratz Banedon - what degree / major you graduating with?[/quote:3ubyr7iu]
+> <strong>Weasel wrote:</strong>
+> Gratz Banedon - what degree / major you graduating with?
 
 AAS Business/Computer Specialist
 
@@ -88,31 +89,34 @@ scary thing is im thinking about going back to finish my BS in accounting
 
 <div class="post" data-post-id="18498" data-author="Autolycos" data-date="2007-05-15T11:49:52+00:00" data-subject="">
 
-Not yet in space, but on training. Missing you guys
+> <strong>Lis wrote:</strong>
+> Not yet in space, but on training. Missing you guys
+> 
+> P.S. stfu <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
-P.S. stfu  :P[/quote:x99swp30]
-
-how can ya not love that guy?  8)
+how can ya not love that guy? <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="18499" data-author="Arkin" data-date="2007-05-15T13:35:18+00:00" data-subject="">
 
-Only two colleges Weasel?  That's pretty good.  I'll finish my BS degree next year which spans 18 years and 6 colleges.  Maybe I should change majors again  :wink:
+Only two colleges Weasel? That's pretty good. I'll finish my BS degree next year which spans 18 years and 6 colleges. Maybe I should change majors again <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="18505" data-author="Weasel" data-date="2007-05-15T23:04:51+00:00" data-subject="">
 
-Only two colleges Weasel?  That's pretty good.  I'll finish my BS degree next year which spans 18 years and 6 colleges.  Maybe I should change majors again  :wink:[/quote:1yt7e8oi]
+> <strong>Arkin wrote:</strong>
+> Only two colleges Weasel? That's pretty good. I'll finish my BS degree next year which spans 18 years and 6 colleges. Maybe I should change majors again <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
-one word: perseverance. *applauds*
+one word: perseverance. \*applauds\*
 
 </div>
 
 <div class="post" data-post-id="18507" data-author="banedon" data-date="2007-05-16T04:24:24+00:00" data-subject="">
 
-Only two colleges Weasel?  That's pretty good.  I'll finish my BS degree next year which spans 18 years and 6 colleges.  Maybe I should change majors again  :wink:[/quote:rduxlxan]
+> <strong>Arkin wrote:</strong>
+> Only two colleges Weasel? That's pretty good. I'll finish my BS degree next year which spans 18 years and 6 colleges. Maybe I should change majors again <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 Heh got me beat, only 16 years and 2 colleges since i started my college career
 
@@ -120,7 +124,7 @@ Heh got me beat, only 16 years and 2 colleges since i started my college career
 
 <div class="post" data-post-id="18585" data-author="Weasel" data-date="2007-05-22T00:03:49+00:00" data-subject="">
 
-Ack.. just got home from two nasty finals - advanced auditing and cost accounting. What a phucking day..   :evil:  damn glad they're out of the way though..
+Ack.. just got home from two nasty finals - advanced auditing and cost accounting. What a phucking day.. <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom"> damn glad they're out of the way though..
 
 </div>
 
@@ -144,21 +148,21 @@ Rick
 
 <div class="post" data-post-id="18610" data-author="Weasel" data-date="2007-05-23T18:20:34+00:00" data-subject="">
 
-Thanks :)  ..I have a physics final at 8:00am tomorrow.. blah.
+Thanks <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> ..I have a physics final at 8:00am tomorrow.. blah.
 
 </div>
 
 <div class="post" data-post-id="18611" data-author="Autolycos" data-date="2007-05-23T18:29:21+00:00" data-subject="">
 
-[b:3vu416ej]Becareful not to skim coins offa the top..  The Badgers don't like thucken feefs..[/b:3vu416ej][/color:3vu416ej]
+<strong>Becareful not to skim coins offa the top.. The Badgers don't like thucken feefs..</strong>
 
-[img:3vu416ej]http://www.weaselnomore.com/graphics/wanted%20weasel.jpg[/img:3vu416ej]
+![](http://www.weaselnomore.com/graphics/wanted%20weasel.jpg)
 
 </div>
 
 <div class="post" data-post-id="18612" data-author="Weasel" data-date="2007-05-23T19:40:11+00:00" data-subject="">
 
-LOL! nice!  :D
+LOL! nice! <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 

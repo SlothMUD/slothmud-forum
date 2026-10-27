@@ -20,7 +20,7 @@ I couldnt test many of them due my to level limitations but the progression feel
 
 All low level forms seem to have very good mana conservation so it looks like it could be a blast to level a druid with so many forms available at reasonable intervals.
 
-2 bugs i found were boar's charge just hitting the target for no damage and not engaging the fight and griffon form ( 2x40 + 32) shapeshifting me into some sort of eagle with 50% less health than its predecessor form ( which is also a caster form ) and hitting for silly small damage. And well, i would also expect the elephant to bash with a bit higher success rate, given its size and all  :mrgreen: 
+2 bugs i found were boar's charge just hitting the target for no damage and not engaging the fight and griffon form ( 2x40 + 32) shapeshifting me into some sort of eagle with 50% less health than its predecessor form ( which is also a caster form ) and hitting for silly small damage. And well, i would also expect the elephant to bash with a bit higher success rate, given its size and all <img src="/images/smilies/icon_mrgreen.svg" alt=":mrgreen:" title=":mrgreen:" width="15" height="15" class="smiley nozoom"> 
 
 I'm kinda sad i cant test the higher forms yet, but i hope they are just as well balanced and progressive as the low-mid level ones and filled with just as many new, fun and druid defining skills!
 
@@ -32,25 +32,25 @@ Great job! Cheer!
 
 Mornin' folks,
 
-Glad you enjoy the forms.  Just some random comments:
+Glad you enjoy the forms. Just some random comments:
 
-- Over the next day or less, the old form stats might be incongruous with their new positions; I didn't change them yet given folks might have still been using them (right!).  They should be readjusted shortly
+\- Over the next day or less, the old form stats might be incongruous with their new positions; I didn't change them yet given folks might have still been using them (right!). They should be readjusted shortly
 
-- A few targeting methods got slightly borked; working to fix those
+\- A few targeting methods got slightly borked; working to fix those
 
-- Damage from the procs may be slightly irregular.  Stats and damage are subject to change.  Could be better, could be worse.
+\- Damage from the procs may be slightly irregular. Stats and damage are subject to change. Could be better, could be worse.
 
-- If you find anything with 1 hp or some odd stats, let me know.  I probably forgot to copy and/or save.
+\- If you find anything with 1 hp or some odd stats, let me know. I probably forgot to copy and/or save.
 
-- Spell bonus, healbonus, damage, and +hitroll affect about 90% of the new skills.  
+\- Spell bonus, healbonus, damage, and +hitroll affect about 90% of the new skills. 
 
-- Will try to get help files in, but priority is getting these bugs and misfunctions taken care of first.  Best I can do for now I'm afraid are those short blurbs from the quest thread.
+\- Will try to get help files in, but priority is getting these bugs and misfunctions taken care of first. Best I can do for now I'm afraid are those short blurbs from the quest thread.
 
-- Will try to keep a log of changes/fixes in that other thread
+\- Will try to keep a log of changes/fixes in that other thread
 
-- Some old forms might get retweaked, wurm and wyvern probable
+\- Some old forms might get retweaked, wurm and wyvern probable
 
-- Suggestions appreciated, will try to add more abilities in the future, i.e. a charge/discharge attack for the cephalopods, finish debugging that ambush thing for mymecoleons, passive burning aura on phoenix?   Who knows what else!
+\- Suggestions appreciated, will try to add more abilities in the future, i.e. a charge/discharge attack for the cephalopods, finish debugging that ambush thing for mymecoleons, passive burning aura on phoenix? Who knows what else!
 
 Whee!
 
@@ -62,23 +62,23 @@ Chobbs
 
 So Chobbs, whats up with the lion-eagle (griffon) form , or am i missing something ?
 
- Level 2x40+25: Wurm         Tunnel; Slime; Breath: lightning, frost, acid
+ Level 2x40+25: Wurm Tunnel; Slime; Breath: lightning, frost, acid
 
- Level 2x40+32: Griffon      Fly; Heightened vision; Shriek, Dive
+ Level 2x40+32: Griffon Fly; Heightened vision; Shriek, Dive
 
-<730hp 734ma 283mv>shapeshift griffon
+\<730hp 734ma 283mv\>shapeshift griffon
 
 You raise your hands to the sky and slowly shift into a large lion-eagle (Anrok).
 
-<633hp 717ma 234mv>OUCH!!! ---97-- Need:97 (86%)
+\<633hp 717ma 234mv\>OUCH!!! ---97-- Need:97 (86%)
 
 sc
 
 The day has begun.
 
-<633hp 717ma 234mv>Anrok of Imaginationland.  (level: 40)
+\<633hp 717ma 234mv\>Anrok of Imaginationland. (level: 40)
 
-Your levels:  Ne: 40 Dr: 40 Cl: 40 Wa: 36 Ma: 21 Ba: 20 Th: 20 Mo: 15 
+Your levels: Ne: 40 Dr: 40 Cl: 40 Wa: 36 Ma: 21 Ba: 20 Th: 20 Mo: 15 
 
 You have (633/633+87) hit, (696/534+49) mana and (234/234+42) movement points.
 
@@ -98,17 +98,15 @@ Str: 16, Int: 16, Wis: 16, Dex: 16, Con: 16
 
 You are standing.
 
-                    
+ Shapeshift 
 
-   Shapeshift                       
-
-<633hp 435ma 234mv>kill animal
+\<633hp 435ma 234mv\>kill animal
 
 A dwarven animal control officer hates your guts!
 
 You rake a dwarven animal control officer extremely hard.
 
-<633hp 439ma 234mv>You rake a dwarven animal control officer very hard.
+\<633hp 439ma 234mv\>You rake a dwarven animal control officer very hard.
 
 You rake a dwarven animal control officer very hard.
 
@@ -118,7 +116,7 @@ A dwarven animal control officer misses you with his hit.
 
 A dwarven animal control officer misses you with his hit.
 
-<633hp 439ma 234mv>dive
+\<633hp 439ma 234mv\>dive
 
 You rake a dwarven animal control officer extremely hard.
 
@@ -128,13 +126,13 @@ You massacre a dwarven animal control officer to small fragments with your rake.
 
 A dwarven animal control officer is mortally wounded, and will die soon, if not aided.
 
-<633hp 425ma 234mv>Arglebargle, glop-glyf!?!
+\<633hp 425ma 234mv\>Arglebargle, glop-glyf!?!
 
-<730hp 535ma 283mv>shapeshift wurm
+\<730hp 535ma 283mv\>shapeshift wurm
 
 You raise your hands to the sky and slowly shift into an ancient wurm (Anrok).
 
-<1422hp 521ma 398mv>AHHH!!! ++692++ Need:-789 (224%)
+\<1422hp 521ma 398mv\>AHHH!!! ++692++ Need:-789 (224%)
 
 sc
 
@@ -142,13 +140,13 @@ sc
 
 Ragnar Stoneforge leaves west.
 
-<1422hp 510ma 398mv>Element clambers onto his feet.
+\<1422hp 510ma 398mv\>Element clambers onto his feet.
 
-<1422hp 510ma 398mv>Element utters the words, 'yrl'
+\<1422hp 510ma 398mv\>Element utters the words, 'yrl'
 
-<1422hp 510ma 398mv>Anrok of Imaginationland.  (level: 40)
+\<1422hp 510ma 398mv\>Anrok of Imaginationland. (level: 40)
 
-Your levels:  Ne: 40 Dr: 40 Cl: 40 Wa: 36 Ma: 21 Ba: 20 Th: 20 Mo: 15 
+Your levels: Ne: 40 Dr: 40 Cl: 40 Wa: 36 Ma: 21 Ba: 20 Th: 20 Mo: 15 
 
 You have (1422/1422+96) hit, (512/534+49) mana and (398/398+50) movement points.
 
@@ -166,11 +164,9 @@ Str: 18, Int: 18, Wis: 18, Dex: 18, Con: 18
 
 You are affected by the following spells:
 
-                  
+ Shapeshift 
 
-   Shapeshift                       
-
-<1422hp 390ma 396mv>AHHH!!! ++692++ Need:0 (100%)
+\<1422hp 390ma 396mv\>AHHH!!! ++692++ Need:0 (100%)
 
 kill warrior
 
@@ -178,7 +174,7 @@ A dusty dwarven warrior hates your guts!
 
 You massacre a dusty dwarven warrior to small fragments with your hit.
 
-<1422hp 381ma 398mv>You massacre a dusty dwarven warrior to small fragments with your hit.
+\<1422hp 381ma 398mv\>You massacre a dusty dwarven warrior to small fragments with your hit.
 
 You brutally massacre a dusty dwarven warrior with your bite.
 
@@ -196,7 +192,7 @@ A dusty dwarven warrior misses you with his pound.
 
 A dusty dwarven warrior makes a nice ballet step which plants a foot a mile above your head.
 
-<1398hp 381ma 398mv>You massacre a dusty dwarven warrior to small fragments with your hit.
+\<1398hp 381ma 398mv\>You massacre a dusty dwarven warrior to small fragments with your hit.
 
 You massacre a dusty dwarven warrior to small fragments with your bite.
 
@@ -214,7 +210,7 @@ Your blood freezes as you hear a dusty dwarven warrior's death cry.
 
 <div class="post" data-post-id="31954" data-author="Sleeping Forest" data-date="2010-11-01T21:55:08+00:00" data-subject="Re: Druid Changes">
 
-Canopied Arbor spell seems very restricted in its usage. Possibly open up the spell to all outdoor rooms?  or just take a look at it. Thnx :)
+Canopied Arbor spell seems very restricted in its usage. Possibly open up the spell to all outdoor rooms? or just take a look at it. Thnx <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -238,27 +234,27 @@ Perhaps related to the change regarding small spells, I got spammed by spellcraf
 
 You raise your hands to the sky and rapidly shift into a small brown sparrow (Oboe).
 
-<48hp 323+39ma 103mv +3 indoors 5:21 pm>
+\<48hp 323+39ma 103mv +3 indoors 5:21 pm\>
 
 The 'resist fire' spell on you is about to wear off.
 
-<48hp 324+39ma 104mv +3 indoors 5:22 pm>
+\<48hp 324+39ma 104mv +3 indoors 5:22 pm\>
 
 The 'resist fire' spell on you is about to wear off.
 
-<48hp 325+39ma 104mv +3 indoors 5:23 pm>
+\<48hp 325+39ma 104mv +3 indoors 5:23 pm\>
 
 The 'resist fire' spell on you is about to wear off.
 
-<48hp 325+39ma 104mv +3 indoors 5:24 pm>
+\<48hp 325+39ma 104mv +3 indoors 5:24 pm\>
 
 The 'resist fire' spell on you is about to wear off.
 
-<48hp 326+39ma 105mv +3 indoors 5:25 pm>
+\<48hp 326+39ma 105mv +3 indoors 5:25 pm\>
 
 The 'resist fire' spell on you is about to wear off.
 
-<48hp 327+39ma 105mv +3 indoors 5:26 pm>
+\<48hp 327+39ma 105mv +3 indoors 5:26 pm\>
 
 It stopped when I did a 'shape return'.
 
@@ -268,13 +264,13 @@ It stopped when I did a 'shape return'.
 
 Greetings, bard.
 
-*giggle*
+\*giggle\*
 
 The way I made it is pretty simple, on shapeshift, the time counter for certain spells just stop.
 
 A collateral (fun) effect that I didnt think of ... if you shapeshift rigth 60 seconds before any of those spells fall, spellcraft message will fire ... over and over, since you will always have 60 seconds before that spell supposedly fall.
 
-Thanks for reporting, Oboe.  Will see what we can do about it.
+Thanks for reporting, Oboe. Will see what we can do about it.
 
 Best regards.
 
@@ -290,15 +286,15 @@ charge doesnt work for equus form
 
 Random changes:
 
-- Griffons can dive now
+\- Griffons can dive now
 
-- ALL equus forms can charge now (previously only unicorn couldn't charge)
+\- ALL equus forms can charge now (previously only unicorn couldn't charge)
 
-- fixed a fairly hilarious bug with charge, both in target acquisition and damage output
+\- fixed a fairly hilarious bug with charge, both in target acquisition and damage output
 
 To do:
 
-- Bash/stomp for elephant
+\- Bash/stomp for elephant
 
 Thanks for the continued bug reports,
 
@@ -310,19 +306,19 @@ Chobbs
 
 Bug with wearing off spells still exists. Got it today, while was shifted. It stops spam only when i shifted back
 
-<969hp 459ma 102mv>
+\<969hp 459ma 102mv\>
 
 The 'regeneration' spell on you is about to wear off.
 
-<971hp 447ma 102mv>
+\<971hp 447ma 102mv\>
 
 The 'regeneration' spell on you is about to wear off.
 
-<973hp 448ma 103mv>
+\<973hp 448ma 103mv\>
 
 The 'regeneration' spell on you is about to wear off.
 
-<976hp 449ma 103mv>
+\<976hp 449ma 103mv\>
 
 The 'regeneration' spell on you is about to wear off.
 
@@ -332,19 +328,19 @@ The 'regeneration' spell on you is about to wear off.
 
 Bug: Battleshift can fail with 'lost concentration.'
 
-The two logs below that you don't need to read show me failing 4 battleshifts in a row with 'lost concentration', and in the next fight failing 4 battleshifts in a row with the proper skill failure message.  Four in a row sounds bad, but eight out of ten.. ouch!
+The two logs below that you don't need to read show me failing 4 battleshifts in a row with 'lost concentration', and in the next fight failing 4 battleshifts in a row with the proper skill failure message. Four in a row sounds bad, but eight out of ten.. ouch!
 
-As a side note, when attempting a form-to-form shift you are best off making your alias #8 shapeshift because the fail rate is so high.  You can fail the base 5% shift, the 15% battleshift, the ? battleshift concentration check, AND the 15% form to form.
+As a side note, when attempting a form-to-form shift you are best off making your alias #8 shapeshift because the fail rate is so high. You can fail the base 5% shift, the 15% battleshift, the ? battleshift concentration check, AND the 15% form to form.
 
 The lost conc might be coming from front-line / solo modifiers that would be erased by the battle focus skill if I was casting a spell.
 
 Finally, if lost concentration while using Battleshift is NOT a bug, I beg you reconsider. My skill is not a spell, and already has a 15% or higher fail chance before lost conc. Thanks!
 
-- Magi
+\- Magi
 
 (Battle logs)
 
-> **Quote:**
+> <strong>Quote:</strong>
 > Battleshift fail:
 > 
 > 
@@ -369,7 +365,7 @@ Finally, if lost concentration while using Battleshift is NOT a bug, I beg you r
 > 
 > 
 > 
-> <631hp 389ma 221mv> -2.3 +2 [*: AI ]
+> \<631hp 389ma 221mv\> -2.3 +2 [\*: AI ]
 > 
 > You pierce a visitor hard.
 > 
@@ -389,15 +385,15 @@ Finally, if lost concentration while using Battleshift is NOT a bug, I beg you r
 > 
 > 
 > 
-> <*TANK*> Yuck! -36 HP        595 / 256
+> \<\*TANK\*\> Yuck! -36 HP 595 / 256
 > 
-> <595hp 390ma 221mv> -2.3 +2 [*: AI ]
+> \<595hp 390ma 221mv\> -2.3 +2 [\*: AI ]
 > 
 > You lose your concentration!
 > 
 > 
 > 
-> <595hp 370ma 221mv> -2.3 +2 [*: AI ]
+> \<595hp 370ma 221mv\> -2.3 +2 [\*: AI ]
 > 
 > sm
 > 
@@ -405,7 +401,7 @@ Finally, if lost concentration while using Battleshift is NOT a bug, I beg you r
 > 
 > 
 > 
-> <596hp 352ma 221mv> -2.3 +2 [*: AI ]
+> \<596hp 352ma 221mv\> -2.3 +2 [\*: AI ]
 > 
 > sm
 > 
@@ -413,7 +409,7 @@ Finally, if lost concentration while using Battleshift is NOT a bug, I beg you r
 > 
 > 
 > 
-> <596hp 333ma 221mv> -2.3 +2 [*: AI ]
+> \<596hp 333ma 221mv\> -2.3 +2 [\*: AI ]
 > 
 > sm
 > 
@@ -437,7 +433,7 @@ Finally, if lost concentration while using Battleshift is NOT a bug, I beg you r
 > 
 > 
 > 
-> <578hp 315ma 221mv> -2.3 +2 [*: AI ]
+> \<578hp 315ma 221mv\> -2.3 +2 [\*: AI ]
 > 
 > sm
 > 
@@ -445,7 +441,7 @@ Finally, if lost concentration while using Battleshift is NOT a bug, I beg you r
 > 
 > 
 > 
-> ------------------------------------------------------------------------
+> \------------------------------------------------------------------------
 > 
 > 
 > 
@@ -467,7 +463,7 @@ Finally, if lost concentration while using Battleshift is NOT a bug, I beg you r
 > 
 > 
 > 
-> <635hp 388ma 151mv> -2.3 +2 [*:MAI ]
+> \<635hp 388ma 151mv\> -2.3 +2 [\*:MAI ]
 > 
 > sm
 > 
@@ -487,15 +483,15 @@ Finally, if lost concentration while using Battleshift is NOT a bug, I beg you r
 > 
 > 
 > 
-> <*TANK*> Yuck! -50 HP        585 / 256
+> \<\*TANK\*\> Yuck! -50 HP 585 / 256
 > 
-> <585hp 389ma 151mv> -2.3 +2 [*:MAI ]
+> \<585hp 389ma 151mv\> -2.3 +2 [\*:MAI ]
 > 
 > Your mind is not serene enough to shift, what with this ONGOING BATTLE!
 > 
 > 
 > 
-> <586hp 392ma 153mv> -2.3 +2 [*:MAI ]
+> \<586hp 392ma 153mv\> -2.3 +2 [\*:MAI ]
 > 
 > sm
 > 
@@ -503,7 +499,7 @@ Finally, if lost concentration while using Battleshift is NOT a bug, I beg you r
 > 
 > 
 > 
-> <586hp 393ma 154mv> -2.3 +2 [*:MAI ]
+> \<586hp 393ma 154mv\> -2.3 +2 [\*:MAI ]
 > 
 > You pierce a visitor very hard.
 > 
@@ -523,17 +519,9 @@ Finally, if lost concentration while using Battleshift is NOT a bug, I beg you r
 > 
 > 
 > 
-> <*TANK*> Yuck! -26 HP        560 / 256
+> \<\*TANK\*\> Yuck! -26 HP 560 / 256
 > 
-> <560hp 393ma 154mv> -2.3 +2 [*:MAI ]
-> 
-> sm
-> 
-> Your mind is not serene enough to shift, what with this ONGOING BATTLE!
-> 
-> 
-> 
-> <561hp 394ma 154mv> -2.3 +2 [*:MAI ]
+> \<560hp 393ma 154mv\> -2.3 +2 [\*:MAI ]
 > 
 > sm
 > 
@@ -541,7 +529,15 @@ Finally, if lost concentration while using Battleshift is NOT a bug, I beg you r
 > 
 > 
 > 
-> <561hp 396ma 155mv> -2.3 +2 [*:MAI ]
+> \<561hp 394ma 154mv\> -2.3 +2 [\*:MAI ]
+> 
+> sm
+> 
+> Your mind is not serene enough to shift, what with this ONGOING BATTLE!
+> 
+> 
+> 
+> \<561hp 396ma 155mv\> -2.3 +2 [\*:MAI ]
 > 
 > sm
 > 
@@ -571,15 +567,15 @@ That's 4 points of failure for the player! Other skills have the same problem. W
 
 The official skillstats for druid forms are pretty scary..
 
-battle shift  Success: 313  Fail: 114  Percentage: 73%
+battle shift Success: 313 Fail: 114 Percentage: 73%
 
-I suspect the lost concentration I mentioned above aren't counted as fails by the live info, so the actual success rate is much lower than 73%.  I think my success rate is around 50% with all the skills maxed out.
+I suspect the lost concentration I mentioned above aren't counted as fails by the live info, so the actual success rate is much lower than 73%. I think my success rate is around 50% with all the skills maxed out.
 
-shapeshift form to form   Success: 183  Fail: 58  Percentage: 76%
+shapeshift form to form Success: 183 Fail: 58 Percentage: 76%
 
 Rapid shift is a little better, but wouldn't 85+% be nice for a 50 drachma skill? 
 
-rapid shift    Success: 3126  Fail: 717  Percentage: 81%
+rapid shift Success: 3126 Fail: 717 Percentage: 81%
 
 </div>
 
@@ -587,9 +583,9 @@ rapid shift    Success: 3126  Fail: 717  Percentage: 81%
 
 Another change I'd like to see, less important:
 
-Can we get battleshift as an active skill rather than a passive one? Players please flame me if you wouldn't like to see this, but I've died many times when I get attacked after queuing a shapeshift but before it fires.  I considered not learning battleshift just because I knew from s3 that this is a problem for me.
+Can we get battleshift as an active skill rather than a passive one? Players please flame me if you wouldn't like to see this, but I've died many times when I get attacked after queuing a shapeshift but before it fires. I considered not learning battleshift just because I knew from s3 that this is a problem for me.
 
-As an all powerful druid prime, it obviously isn't my intention to turn into something with double digit hit points while I'm under attack.  I suggest that in order to shapeshift while in combat, players be forced to type battleshift &lt;form> instead of the usual shapeshift &lt;form>.
+As an all powerful druid prime, it obviously isn't my intention to turn into something with double digit hit points while I'm under attack. I suggest that in order to shapeshift while in combat, players be forced to type battleshift \<form\> instead of the usual shapeshift \<form\>.
 
 </div>
 

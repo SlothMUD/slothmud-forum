@@ -24,19 +24,19 @@ I couldnt have said it better myself
 
 <div class="post" data-post-id="21360" data-author="Blastem" data-date="2007-11-21T18:44:06+00:00" data-subject="">
 
-[img:95015kha]http://bah.ourproject.org/IMG/png/resized/440-x-logo-bah-raiz.png[/img:95015kha]
+![](http://bah.ourproject.org/IMG/png/resized/440-x-logo-bah-raiz.png)
 
 </div>
 
 <div class="post" data-post-id="21362" data-author="Alberich" data-date="2007-11-21T20:31:34+00:00" data-subject="">
 
-[img:3kax8gki]http://www.freewebs.com/gretatom/Misc/humbug.jpg[/img:3kax8gki]
+![](http://www.freewebs.com/gretatom/Misc/humbug.jpg)
 
 </div>
 
 <div class="post" data-post-id="21363" data-author="Blastem" data-date="2007-11-21T21:32:22+00:00" data-subject="">
 
-[img:116wqf54]http://files.samhart.net/humor/BAH.jpg[/img:116wqf54]
+![](http://files.samhart.net/humor/BAH.jpg)
 
 </div>
 

@@ -42,17 +42,17 @@ A ghoul struggles weakly within the pile of sticky webs.
 
 You crush a ghoul very hard.
 
-<315hp 162ma 187mv -6.3ac +9a 11%>
+\<315hp 162ma 187mv -6.3ac +9a 11%\>
 
 Vegant gets a damp moldy scroll from a golden sack.
 
-<315hp 162ma 187mv -6.3ac +9a 11%>
+\<315hp 162ma 187mv -6.3ac +9a 11%\>
 
 Vegant recites a damp moldy scroll.
 
-A ghoul of a drunk man is enmeshed in thick webs!   <<<<- My follower
+A ghoul of a drunk man is enmeshed in thick webs! \<\<\<\<- My follower
 
-<315hp 162ma 187mv -6.3ac +9a 11%>
+\<315hp 162ma 187mv -6.3ac +9a 11%\>
 
 You crush a ghoul very hard.
 
@@ -78,15 +78,15 @@ A ghoul struggles weakly within the pile of sticky webs.
 
 You crush a ghoul very hard.
 
-<318hp 164ma 187mv -6.3ac +9a 1%>
+\<318hp 164ma 187mv -6.3ac +9a 1%\>
 
 say heyAlban the lares looks really sick, and shivers uncomfortably.
 
-<319hp 165ma 187mv -6.3ac +9a 1%>
+\<319hp 165ma 187mv -6.3ac +9a 1%\>
 
-You say 'hey'   <<<--- My attempt to get the bot's attention
+You say 'hey' \<\<\<--- My attempt to get the bot's attention
 
-<320hp 166ma 187mv -6.3ac +9a 1%>
+\<320hp 166ma 187mv -6.3ac +9a 1%\>
 
 castYou crush a ghoul very hard.
 
@@ -102,23 +102,23 @@ You received 169794 experience points.
 
 Your blood freezes as you hear a ghoul's death cry.
 
-<321hp 167ma 187mv -6.3ac +10a -%>
+\<321hp 167ma 187mv -6.3ac +10a -%\>
 
- Vegant gets gold coins from the corpse of a ghoul that's on the ground.   <<<--- Bot loots my kill
+ Vegant gets gold coins from the corpse of a ghoul that's on the ground. \<\<\<--- Bot loots my kill
 
-<321hp 167ma 187mv -6.3ac +10a -%>
+\<321hp 167ma 187mv -6.3ac +10a -%\>
 
 Vegant sacrifices the corpse of a ghoul to his god.
 
-<322hp 167ma 187mv -6.3ac +10a -%>
+\<322hp 167ma 187mv -6.3ac +10a -%\>
 
 Vegant utters the words, 'candusounsozfahuai'
 
-<322hp 167ma 187mv -6.3ac +10a -%>
+\<322hp 167ma 187mv -6.3ac +10a -%\>
 
 Vegant gets a damp moldy scroll from a golden sack.
 
-<324hp 169ma 187mv -6.3ac +10a -%>
+\<324hp 169ma 187mv -6.3ac +10a -%\>
 
 sayVegant recites a damp moldy scroll.
 
@@ -130,11 +130,11 @@ A ghoul of a drunk man growls at Vegant and attacks!
 
 A ghoul of a drunk man misses Vegant with its pound.
 
-<324hp 169ma 187mv -6.3ac +10a -%>
+\<324hp 169ma 187mv -6.3ac +10a -%\>
 
 goAlban the lares looks really sick, and shivers uncomfortably.
 
-<326hp 170ma 187mv -6.3ac +10a -%>
+\<326hp 170ma 187mv -6.3ac +10a -%\>
 
 ss A ghoul of a drunk man misses Vegant with its pound.
 
@@ -146,15 +146,15 @@ Vegant massacres a ghoul of a drunk man to small fragments with his slash.
 
 Vegant massacres a ghoul of a drunk man to small fragments with his slash.
 
-<327hp 172ma 187mv -6.3ac +10a -%>
+\<327hp 172ma 187mv -6.3ac +10a -%\>
 
 BOT MESSING Vegant begins to sing 'lion chorus'.
 
-<329hp 173ma 187mv -6.3ac +10a -%>
+\<329hp 173ma 187mv -6.3ac +10a -%\>
 
-You gossip-- 'BOT MESSING WITH ME!'   <<<--- Another attempt to wake up the bot
+You gossip-- 'BOT MESSING WITH ME!' \<\<\<--- Another attempt to wake up the bot
 
-<329hp 173ma 187mv -6.3ac +10a -%>
+\<329hp 173ma 187mv -6.3ac +10a -%\>
 
 A ghoul of a drunk man misses Vegant with its pound.
 
@@ -166,11 +166,11 @@ Vegant misses a ghoul of a drunk man with his slash.
 
 Vegant massacres a ghoul of a drunk man to small fragments with his slash.
 
-<330hp 174ma 187mv -6.3ac +10a -%>
+\<330hp 174ma 187mv -6.3ac +10a -%\>
 
 The Catacombs
 
-     You are in one of the many tunnels of the catacombs. It is not possible
+ You are in one of the many tunnels of the catacombs. It is not possible
 
 to tell where they are leading anymore because they all look exactly
 
@@ -178,7 +178,7 @@ alike- limestone tunnels with shelves carved into the walls.
 
 The tunnel runs to the north and west here.
 
-Exits: North  West
+Exits: North West
 
 Vegant . is here, fighting a ghoul of a drunk man
 
@@ -190,11 +190,11 @@ A ghoul of a drunk man is here, fighting Vegant
 
 A ghoul of a drunk man is covered in sticky webs!
 
-<331hp 174ma 187mv -6.3ac +10a -%>
+\<331hp 174ma 187mv -6.3ac +10a -%\>
 
 Alban the lares looks really sick, and shivers uncomfortably.
 
-<333hp 176ma 187mv -6.3ac +10a -%>
+\<333hp 176ma 187mv -6.3ac +10a -%\>
 
 casA ghoul of a drunk man misses Vegant with its pound.
 
@@ -204,7 +204,7 @@ Vegant misses a ghoul of a drunk man with his slash.
 
 Vegant massacres a ghoul of a drunk man to small fragments with his slash.
 
-<333hp 176ma 187mv -6.3ac +10a -%>
+\<333hp 176ma 187mv -6.3ac +10a -%\>
 
 A ghoul of a drunk man misses Vegant with its pound.
 
@@ -212,27 +212,27 @@ A ghoul of a drunk man misses Vegant with its bite.
 
 Vegant massacres a ghoul of a drunk man to small fragments with his slash.
 
-A ghoul of a drunk man is dead! R.I.P.   <<<----- Bot kills my follower
+A ghoul of a drunk man is dead! R.I.P. \<\<\<----- Bot kills my follower
 
 Your blood freezes as you hear a ghoul of a drunk man's death cry.
 
 A ghoul of a drunk man stops following you.
 
-<336hp 178ma 187mv -6.3ac +10a -%>
+\<336hp 178ma 187mv -6.3ac +10a -%\>
 
 Vegant sacrifices the corpse of a ghoul of a drunk man to his god.
 
-<337hp 179ma 187mv -6.3ac +10a -%>
+\<337hp 179ma 187mv -6.3ac +10a -%\>
 
 Ok.
 
 Alban the lares looks better.
 
-<337hp 175ma 187mv -6.3ac +10a -%>
+\<337hp 175ma 187mv -6.3ac +10a -%\>
 
-Vegant leaves west.   <<<--- Bot walks away without saying anything
+Vegant leaves west. \<\<\<--- Bot walks away without saying anything
 
-Like I said, second day in a row.  Enough is enough.
+Like I said, second day in a row. Enough is enough.
 
 </div>
 
@@ -264,29 +264,29 @@ Vegant arrives from the south.
 
 You do not see anything in the corpse.
 
-<208hp 69ma 189mv -6.5ac +10a -%>
+\<208hp 69ma 189mv -6.5ac +10a -%\>
 
 sac
 
 You sacrifice the corpse to Nia.
 
-<208hp 69ma 189mv -6.5ac +10a -%>
+\<208hp 69ma 189mv -6.5ac +10a -%\>
 
 wherYou sacrifice the corpse to Nia.
 
-<208hp 69ma 189mv -6.5ac +10a -%>
+\<208hp 69ma 189mv -6.5ac +10a -%\>
 
 e
 
-You are in Lycanthropia.  Also in this area are:
+You are in Lycanthropia. Also in this area are:
 
-Name                           - Location
+Name - Location
 
------------------------------------------
+\-----------------------------------------
 
-Basche                         - The Wilde Wereboar
+Basche - The Wilde Wereboar
 
-Vegant                         - The Wilde Wereboar
+Vegant - The Wilde Wereboar
 
 Vegant utters the words, 'xzb'
 
@@ -296,11 +296,11 @@ A ghoul of the quickling patrol leader growls at Vegant and attacks!
 
 A ghoul of the quickling patrol leader misses Vegant with its pound.
 
-<208hp 69ma 189mv -6.5ac +10a -%>
+\<208hp 69ma 189mv -6.5ac +10a -%\>
 
 Vegant reports 949/929 hp. Change: +22. Need: 0. Spells: aegis.
 
-<209hp 70ma 190mv -6.5ac +10a -%>
+\<209hp 70ma 190mv -6.5ac +10a -%\>
 
 A ghoul of the quickling patrol leader misses Vegant with its pound.
 
@@ -318,17 +318,17 @@ Vegant massacres a ghoul of the quickling patrol leader to small fragments with
 
 his slash.
 
-<210hp 70ma 191mv -6.5ac +10a -%>
+\<210hp 70ma 191mv -6.5ac +10a -%\>
 
 Vegant reports 941/929 hp. Change: -8. Need: 0. Spells: aegis.
 
-<210hp 70ma 191mv -6.5ac +10a -%>
+\<210hp 70ma 191mv -6.5ac +10a -%\>
 
 say Hey stop!
 
 You say 'Hey stop!'
 
-<212hp 72ma 192mv -6.5ac +10a -%>
+\<212hp 72ma 192mv -6.5ac +10a -%\>
 
 A ghoul of the quickling patrol leader misses Vegant with its pound.
 
@@ -356,33 +356,33 @@ y.
 
 A ghoul of the quickling patrol leader stops following you.
 
-<213hp 72ma 193mv -6.5ac +10a -%>
+\<213hp 72ma 193mv -6.5ac +10a -%\>
 
 Vegant reports 929/929 hp. Change: -12. Need: 0. Spells: aegis.
 
-<213hp 72ma 193mv -6.5ac +10a -%>
+\<213hp 72ma 193mv -6.5ac +10a -%\>
 
 Vegant yells 'INTO THE VALLEY OF DEATH!!'
 
-<213hp 72ma 193mv -6.5ac +10a -%>
+\<213hp 72ma 193mv -6.5ac +10a -%\>
 
 Vegant sacrifices the corpse of a ghoul of the quickling patrol leader to his go
 
 d.
 
-<213hp 72ma 193mv -6.5ac +10a -%>
+\<213hp 72ma 193mv -6.5ac +10a -%\>
 
 Vegant recites a minor scroll of recall.
 
 Vegant disappears.
 
-<214hp 73ma 194mv -6.5ac +10a -%>
+\<214hp 73ma 194mv -6.5ac +10a -%\>
 
 goss BOT ALERT!
 
 You gossip-- 'BOT ALERT!'
 
-<218hp 76ma 197mv -6.5ac +10a -%>
+\<218hp 76ma 197mv -6.5ac +10a -%\>
 
 goss Another bot killing necro followers
 

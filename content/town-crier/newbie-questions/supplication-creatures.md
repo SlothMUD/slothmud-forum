@@ -64,9 +64,9 @@ Can pets tank for you? Well yes and no, no they wont rescue you, and wont take p
 
 How to best use the fighting type pets, well theres a number of different ways:
 
-1. order pets kill, then you optionally try to debuff the mob before getting dragged in then either heal self or blast / kick the mob.
+1\. order pets kill, then you optionally try to debuff the mob before getting dragged in then either heal self or blast / kick the mob.
 
-2. you debuff the mob (curse) then order your pets to assist you then either heal self or blast / kick the mob.
+2\. you debuff the mob (curse) then order your pets to assist you then either heal self or blast / kick the mob.
 
 Both can work with different mobs, and part of your decision will be based on the lag you get from the order, your ac and what pets you have.
 
@@ -78,7 +78,7 @@ For chop mobs where the lag is less important I will often get a mixture of necr
 
 Remember you can also buff your pets, stone skin, bless / unholy aura, sanctuary / aegis can make them a lot more powerful and useful.
 
-Ordering pets you can use order follower, order followers, order undead or order <name>, for familiars I think its tell familiar <>.
+Ordering pets you can use order follower, order followers, order undead or order \<name\>, for familiars I think its tell familiar \<\>.
 
 Hope this helps,
 
@@ -88,7 +88,7 @@ T
 
 <div class="post" data-post-id="32056" data-author="Thraxas" data-date="2010-11-16T17:08:35+00:00" data-subject="Re: Supplication creatures">
 
-> **element wrote:**
+> <strong>element wrote:</strong>
 > if u order it to attack before you do, they'll disengage.
 
 Might be true for low level pets, I forget, but isnt the case with xag / xeg / djinn / ifrit / any of the necro pets I currently use.
@@ -101,14 +101,14 @@ T
 
 <div class="post" data-post-id="32057" data-author="Filk" data-date="2010-11-16T17:09:33+00:00" data-subject="Re: Supplication creatures">
 
-Would be nice, if other people, who knows what other supplicated creatures doing, will post that info here. Would be very very nice :)
+Would be nice, if other people, who knows what other supplicated creatures doing, will post that info here. Would be very very nice <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="32058" data-author="Thraxas" data-date="2010-11-16T17:29:02+00:00" data-subject="Re: Supplication creatures">
 
-> **Filk wrote:**
-> Would be nice, if other people, who knows what other supplicated creatures doing, will post that info here. Would be very very nice :)
+> <strong>Filk wrote:</strong>
+> Would be nice, if other people, who knows what other supplicated creatures doing, will post that info here. Would be very very nice <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Nightmare - you can order nightmare trouble mob to prevent the mob from regenning
 
@@ -134,7 +134,7 @@ I think it's chan chu that increases mobs gold by 100% if it's less, than 100k (
 
 <div class="post" data-post-id="32060" data-author="Kelgar" data-date="2010-11-16T18:29:39+00:00" data-subject="Re: Supplication creatures">
 
-Wow, thank you all for the answers! It is so exciting to know all about that new things!  :P 
+Wow, thank you all for the answers! It is so exciting to know all about that new things! <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom"> 
 
 Xeg-Yi deed disengage from my fight last time I tried it, I will try again, because I'd prefer it to fight and assist him just because of a big order lag.
 

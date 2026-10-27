@@ -16,15 +16,15 @@ look
 
 Main and Fathnir Street
 
-   Cobblestone Fathnir Street from the east joins the pristine red brick
+ Cobblestone Fathnir Street from the east joins the pristine red brick
 
-Main Street.  Expensive houses cluster around the junction.  To the
+Main Street. Expensive houses cluster around the junction. To the
 
 north, the well-maintained road ends at the northern gate of Newbatia.
 
 Gold-painted street signs are set into the corners of the houses.
 
-Exits: North  East  South  
+Exits: North East South 
 
 A solid cloud of some dark mass lies hovering over the ground.
 
@@ -36,7 +36,7 @@ A glowing essence struggles to rise from the ground here.
 
 A heavy black rod of iron lies rusting on the ground.
 
-**The corpse of a soiled janitor is lying here.**
+<strong>The corpse of a soiled janitor is lying here.</strong>
 
 A ghostly form wavers in and out of existence nearby.
 
@@ -44,19 +44,19 @@ A skull clatters noisily as it rolls by.
 
 A stray dog wanders about scavenging for scraps.
 
-<142hp 187ma 113mv>   -10   1.9   149090   9225   raining   Newbatia
+\<142hp 187ma 113mv\> -10 1.9 149090 9225 raining Newbatia
 
-**l in corpse
+<strong>l in corpse</strong>
 
-corpse (here):
+<strong>corpse (here):</strong>
 
-a newbie sign
+<strong>a newbie sign</strong>
 
-a small sign**
+<strong>a small sign</strong>
 
-Seriously, guys :)
+Seriously, guys <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-'Thanks' to, let's say, non-optimal pathfinding for this particular mob, it hangs out around out of North Gate, and never walks into the town and does not collect newbie garbage (as it supposed to, I assume), or it would took away our fountain as well! :)
+'Thanks' to, let's say, non-optimal pathfinding for this particular mob, it hangs out around out of North Gate, and never walks into the town and does not collect newbie garbage (as it supposed to, I assume), or it would took away our fountain as well! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Also, fatso constable does assist this garbage-collector, but ignores while I'm fighting big-oaf, where's logic?
 
@@ -82,7 +82,7 @@ peace
 
 <div class="post" data-post-id="34389" data-author="Yasik" data-date="2013-08-16T18:46:10+00:00" data-subject="Re: All your sign are belong to soiled-janitor!">
 
-whoa that really unexpected :) thansk alot, really
+whoa that really unexpected <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> thansk alot, really
 
 dont go away very far, I think I have more coming'
 

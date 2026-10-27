@@ -30,23 +30,23 @@ Taki (who has Dwarven Ringmail, +1 SysShock, but doesn't know what that means...
 
 <div class="post" data-post-id="7490" data-author="madmax" data-date="2005-06-23T10:50:14+00:00" data-subject="">
 
-+ Shock eq is specific to the caster who uses the "raise dead" spell.
+\+ Shock eq is specific to the caster who uses the "raise dead" spell.
 
 The more +shock eq the caster wears, along with the song "rina cruinne" by a bard, the less chance of the player being shocked on raise attempt.
 
-When if the CON of the dead player is at 18, the WIS of the raiser is at 18, the percentage of shocking the body into death is less.  As shock eq is added to this, the percentage of shocking is decreased.
+When if the CON of the dead player is at 18, the WIS of the raiser is at 18, the percentage of shocking the body into death is less. As shock eq is added to this, the percentage of shocking is decreased.
 
-I personally have +11 shock eq, 18 WIS in raise gear.  A bard singing "rina cruinne" is suppose to be +5 I think. Unfortunately, even with this, the dead player at 18 CON, and a bard singing "rina cruinne" shocks do happen.  Its just a roll of the dice.
+I personally have +11 shock eq, 18 WIS in raise gear. A bard singing "rina cruinne" is suppose to be +5 I think. Unfortunately, even with this, the dead player at 18 CON, and a bard singing "rina cruinne" shocks do happen. Its just a roll of the dice.
 
 I hope this helps.
 
-Madmax the Roming Healer :) <*GT*>
+Madmax the Roming Healer <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> \<\*GT\*\>
 
 </div>
 
 <div class="post" data-post-id="7491" data-author="12345" data-date="2005-06-23T10:58:57+00:00" data-subject="">
 
-+shock gear worn by the victim is also considered.
+\+shock gear worn by the victim is also considered.
 
 </div>
 
@@ -54,7 +54,7 @@ Madmax the Roming Healer :) <*GT*>
 
 Thanks, that definitely made me understand what shock is.
 
-*bow*
+\*bow\*
 
 T.
 

@@ -24,6 +24,6 @@ Seems to be connecting, but hanging before going anywhere.
 
 <div class="post" data-post-id="13694" data-author="osric" data-date="2006-08-10T06:48:55+00:00" data-subject="">
 
-Always when no immorts around :)
+Always when no immorts around <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

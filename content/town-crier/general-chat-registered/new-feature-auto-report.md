@@ -18,11 +18,11 @@ Tired of being a tank and being unable to use your 3l33t skillz because you don'
 
 Then you might enjoy this feature.
 
-New Command:  autoreport
+New Command: autoreport
 
 After each combat round or after each heal, you will report your status if you gained or lost HP.
 
-New Command argument:  report <value>
+New Command argument: report \<value\>
 
 This sets the amount of hp that must be either lost or gained since the last report in order for a report to be sent.
 
@@ -72,9 +72,10 @@ I might even make one someday.
 
 <div class="post" data-post-id="23965" data-author="Autolycos" data-date="2008-04-23T20:45:08+00:00" data-subject="">
 
-I might even make one someday.[/quote:2hc8y1e5]
+> <strong>alias wrote:</strong>
+> I might even make one someday.
 
-now that's just crazy talk  ;)
+now that's just crazy talk <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -94,29 +95,29 @@ Oustanding sir. Flat out Fantastic. thank you.
 
 Wow, thanks Jake.
 
-Can finally stop putting off making a whiner :)
+Can finally stop putting off making a whiner <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23980" data-author="**Jake**" data-date="2008-04-24T00:46:49+00:00" data-subject="">
 
-Yea, actually the plan is to make it bright white if your lit and leave it the same as it is now if you're dead...err i mean not lit.  Maybe i'll get that done tonight or tomorrow.
+Yea, actually the plan is to make it bright white if your lit and leave it the same as it is now if you're dead...err i mean not lit. Maybe i'll get that done tonight or tomorrow.
 
-@Jake: Can you bold it or make it a bright color by default or something though, so it doesn't get lost in spam?
-
-[/quote:1z37cuvb]
+> <strong>Weasel wrote:</strong>
+> @Jake: Can you bold it or make it a bright color by default or something though, so it doesn't get lost in spam?
 
 </div>
 
 <div class="post" data-post-id="23982" data-author="Weasel" data-date="2008-04-24T00:59:24+00:00" data-subject="">
 
-Yea, actually the plan is to make it bright white if your lit and leave it the same as it is now if you're dead...err i mean not lit.  Maybe i'll get that done tonight or tomorrow.[/quote:6ya4gchh]
+> <strong>\*\*Jake\*\* wrote:</strong>
+> Yea, actually the plan is to make it bright white if your lit and leave it the same as it is now if you're dead...err i mean not lit. Maybe i'll get that done tonight or tomorrow.
 
 Sweet that makes sense, thanks.. or maybe bright red if not lit or something?
 
 Also, any thoughts on removing mv from it, and maybe mana.. would be interested in anyone else's thoughts on that (for or against) - tanks don't usually have mana displayed in their whiner, and never seen a whiner have mvs.. no biggie, but might distract healers from seeing at the hp, which is really what the whiner is there for.
 
-:)
+<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 note (disclaimer): this is not a complaint, just constructive ideas - just in case some have problems discerning the difference lol...
 
@@ -124,31 +125,32 @@ note (disclaimer): this is not a complaint, just constructive ideas - just in ca
 
 <div class="post" data-post-id="23983" data-author="firebrand" data-date="2008-04-24T01:02:16+00:00" data-subject="">
 
-why not just add an option for it in color set?  and while we're on options, allow us to add/remove components like we do with prompt
+why not just add an option for it in color set? and while we're on options, allow us to add/remove components like we do with prompt
 
-"you're dead. d-e-d. dead"  -clown --> spawn
+"you're dead. d-e-d. dead" -clown --\> spawn
 
 </div>
 
 <div class="post" data-post-id="23985" data-author="Weasel" data-date="2008-04-24T01:24:35+00:00" data-subject="">
 
-..allow us to add/remove components like we do with prompt[/quote:22n4odo2]
+> <strong>firebrand wrote:</strong>
+> ..allow us to add/remove components like we do with prompt
 
-healobots won't like that idea *snicker*
+healobots won't like that idea \*snicker\*
 
 here's what I whine, never had any complaints.. yet
 
 gain hp, lite down:
 
-You grouptell: '[b:22n4odo2].[/color:22n4odo2]::[/color:22n4odo2].[/color:22n4odo2]  lite([/color:22n4odo2]DOWN[/color:22n4odo2])[/color:22n4odo2]......[/color:22n4odo2]     hp 1128 / 1128 ......[/color:22n4odo2](+51)[/color:22n4odo2]     ......[/color:22n4odo2]need 0[/b:22n4odo2]'
+You grouptell: '<strong>.::. lite(DOWN)...... hp 1128 / 1128 ......(+51) ......need 0</strong>'
 
 lose hp, lite up:
 
-You grouptell: '[b:22n4odo2].[/color:22n4odo2]::[/color:22n4odo2].[/color:22n4odo2]  lite([/color:22n4odo2]UP[/color:22n4odo2])[/color:22n4odo2]......[/color:22n4odo2]     hp 1057 / 1128 ......[/color:22n4odo2](-51)[/color:22n4odo2]     ......[/color:22n4odo2]need 71[/b:22n4odo2]'
+You grouptell: '<strong>.::. lite(UP)...... hp 1057 / 1128 ......(-51) ......need 71</strong>'
 
 ..
 
-.. also when I get down to like 100hp, a bright red '[b:22n4odo2]CRITICAL[/color:22n4odo2][/b:22n4odo2]' gets tacked on the end..
+.. also when I get down to like 100hp, a bright red '<strong>CRITICAL</strong>' gets tacked on the end..
 
 </div>
 
@@ -158,7 +160,7 @@ a round of applause for jakeo
 
 wat weasel said:)
 
--sa-
+\-sa-
 
 </div>
 
@@ -170,9 +172,10 @@ btw when is autorescue cmin out?:)
 
 <div class="post" data-post-id="24000" data-author="brady" data-date="2008-04-24T02:52:34+00:00" data-subject="">
 
-Also, any thoughts on removing mv from it, and maybe mana.. would be interested in anyone else's thoughts on that (for or against)[/quote:nw030qud]
+> <strong>Weasel wrote:</strong>
+> Also, any thoughts on removing mv from it, and maybe mana.. would be interested in anyone else's thoughts on that (for or against)
 
-Mvs will be great for small groups, especially 2-man stab/grip and blast (anything to save a key stroke).  And a dead tank that last reports a boat load of mana is always good for a chuckle.
+Mvs will be great for small groups, especially 2-man stab/grip and blast (anything to save a key stroke). And a dead tank that last reports a boat load of mana is always good for a chuckle.
 
 </div>
 
@@ -192,11 +195,12 @@ newbs gonna be stupider since them dont need anymore programming whiner themselv
 
 <div class="post" data-post-id="24009" data-author="jezer" data-date="2008-04-24T04:06:15+00:00" data-subject="">
 
-this is dire news indeed
+> <strong>Yasik2 wrote:</strong>
+> this is dire news indeed
+> 
+> newbs gonna be stupider since them dont need anymore programming whiner themselves
 
-newbs gonna be stupider since them dont need anymore programming whiner themselves[/quote:h4np1cne]
-
-I'll be glad to help you over ICQ if you need a hand Yasik  :D
+I'll be glad to help you over ICQ if you need a hand Yasik <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -204,13 +208,13 @@ I'll be glad to help you over ICQ if you need a hand Yasik  :D
 
 Very Cool Idea..
 
---Whiff / Q
+\--Whiff / Q
 
 </div>
 
 <div class="post" data-post-id="24077" data-author="Gumbi" data-date="2008-04-28T05:17:32+00:00" data-subject="">
 
-So Jake, can I get your address so I can know where to send the 'thank you' keg and strippers?  Maybe we can make the autostab obselete next.
+So Jake, can I get your address so I can know where to send the 'thank you' keg and strippers? Maybe we can make the autostab obselete next.
 
 Luv,
 
@@ -222,49 +226,66 @@ Polk -a- Dot
 
 Two small ideas for consideration... 
 
-* How about a 'dispel fly' spell? I know there are potions... But having fly up in a no fly zone is a real pain in the butt, not much you can do about it, other than wait it out, phase door, or dispel self... which can cost a lot of mana in respells. Or even better make 'dispel magic' a targetted spell... ie... 
+\* How about a 'dispel fly' spell? I know there are potions... But having fly up in a no fly zone is a real pain in the butt, not much you can do about it, other than wait it out, phase door, or dispel self... which can cost a lot of mana in respells. Or even better make 'dispel magic' a targetted spell... ie... 
 
 cast 'dispel magic' weasel aegis
 
-( X) ( x ) :twisted:
+( X) ( x ) <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 This spell would be cool cause, then I could dispel my stone skin before an epic battle, in which I shifted... only to realise it has 60 seconds left!
 
-* Also, is there any real point to hiding dam/hit and regen in score at lower levels... it might be the way it's always been... but... Can't it be calculated anyways? It's just a pain... 
+\* Also, is there any real point to hiding dam/hit and regen in score at lower levels... it might be the way it's always been... but... Can't it be calculated anyways? It's just a pain... 
 
 Or maybe I should state this more plainly... 
 
 Dear Mr Jake,
 
-I'd love to see the +hit/dam statistic on my perm valker with the cool items I have! :twisted:
+I'd love to see the +hit/dam statistic on my perm valker with the cool items I have! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="24086" data-author="brady" data-date="2008-04-28T13:55:50+00:00" data-subject="">
 
-[img:3pfmi5qz]http://www.barrierislandgraphics.com/PhotoChop/red_dumbass.jpg[/img:3pfmi5qz]
+![](http://www.barrierislandgraphics.com/PhotoChop/red_dumbass.jpg)
 
 </div>
 
 <div class="post" data-post-id="24087" data-author="alias" data-date="2008-04-28T15:15:57+00:00" data-subject="">
 
-Two small ideas for consideration... 
-
-* How about a 'dispel fly' spell? I know there are potions... But having fly up in a no fly zone is a real pain in the butt, not much you can do about it, other than wait it out, phase door, or dispel self... which can cost a lot of mana in respells. Or even better make 'dispel magic' a targetted spell... ie... 
-
-cast 'dispel magic' weasel aegis
-
-( X) ( x ) :twisted:
-
-This spell would be cool cause, then I could dispel my stone skin before an epic battle, in which I shifted... only to realise it has 60 seconds left!
-
-* Also, is there any real point to hiding dam/hit and regen in score at lower levels... it might be the way it's always been... but... Can't it be calculated anyways? It's just a pain... 
-
-Or maybe I should state this more plainly... 
-
-Dear Mr Jake,
-
-I'd love to see the +hit/dam statistic on my perm valker with the cool items I have! :twisted:[/quote:1f8tpcup]
+> <strong>jezer wrote:</strong>
+> Two small ideas for consideration... 
+> 
+> 
+> 
+> \* How about a 'dispel fly' spell? I know there are potions... But having fly up in a no fly zone is a real pain in the butt, not much you can do about it, other than wait it out, phase door, or dispel self... which can cost a lot of mana in respells. Or even better make 'dispel magic' a targetted spell... ie... 
+> 
+> 
+> 
+> cast 'dispel magic' weasel aegis
+> 
+> 
+> 
+> ( X) ( x ) <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
+> 
+> 
+> 
+> This spell would be cool cause, then I could dispel my stone skin before an epic battle, in which I shifted... only to realise it has 60 seconds left!
+> 
+> 
+> 
+> \* Also, is there any real point to hiding dam/hit and regen in score at lower levels... it might be the way it's always been... but... Can't it be calculated anyways? It's just a pain... 
+> 
+> 
+> 
+> Or maybe I should state this more plainly... 
+> 
+> 
+> 
+> Dear Mr Jake,
+> 
+> 
+> 
+> I'd love to see the +hit/dam statistic on my perm valker with the cool items I have! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 sub your prompt or score to see your hit and dam..
 
@@ -276,17 +297,16 @@ I'm sure you smart enough to calc it so just sub it in there and be happy.
 
 can we get this fixed?
 
-> Cowslip the eudaemon reports 319/319 hp. Need: 0. Spells: none.
+\> Cowslip the eudaemon reports 319/319 hp. Need: 0. Spells: none.
 
-would be nice to know mana again :)
+would be nice to know mana again <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="24093" data-author="*juggleblood*" data-date="2008-04-29T01:15:26+00:00" data-subject="">
 
-Or even better make 'dispel magic' a targetted spell... ie... 
-
-[/quote:molvpsf8]
+> <strong>jezer wrote:</strong>
+> Or even better make 'dispel magic' a targetted spell... ie...
 
 I've long thought this was a good idea. I'd make it a mage avatar skill, advanced mysteries of magic or something. I mean if a thief can identify a spell on another pc and steal it, it would only make sense that a mage could accomplish the same thing on him or her self.
 
@@ -296,13 +316,13 @@ I've long thought this was a good idea. I'd make it a mage avatar skill, advance
 
 Posted already as bug ingame: 
 
-The command argument: [i:1prvdeop]report <value>[/i:1prvdeop]  gets reset back to 1 whenever we rent - can we make this setting persist please?
+The command argument: <em>report \<value\></em> gets reset back to 1 whenever we rent - can we make this setting persist please?
 
 Love the autoreport now the way it is bold etc, and as a suggestion just to make the value itself a little easier to see in group spam, could you add a couple of spaces between the current hp, the forwardslash, and the max hp please, now that I've seen it in action?
 
-ie: [i:1prvdeop]Sa reports [b:1prvdeop]577/1266[/b:1prvdeop]hp. Change:....[/i:1prvdeop] 
+ie: <em>Sa reports <strong>577/1266</strong>hp. Change:....</em> 
 
-change to: [i:1prvdeop]Sa reports .[/color:1prvdeop] [b:1prvdeop]577 [/b:1prvdeop]/[b:1prvdeop] 1266[/b:1prvdeop] .[/color:1prvdeop] hp. Change:....[/i:1prvdeop] 
+change to: <em>Sa reports . <strong>577</strong> / <strong>1266</strong> . hp. Change:....</em> 
 
 or something like that, just to make those numbers stand out a bit more, would be much appreciated. Maybe bold the 'needed' value too?
 
@@ -312,7 +332,7 @@ Cheers.
 
 <div class="post" data-post-id="24095" data-author="Weasel" data-date="2008-04-29T02:27:34+00:00" data-subject="">
 
-oop just saw it changed again to bright yellow :) nice. 
+oop just saw it changed again to bright yellow <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> nice. 
 
 Still the spaces suggested would be helpful I think.
 
@@ -328,7 +348,7 @@ Can we make pets report like they did in the past?
 
 <div class="post" data-post-id="24097" data-author="13" data-date="2008-04-29T15:39:46+00:00" data-subject="">
 
-Nice Jake.   *clap*
+Nice Jake. \*clap\*
 
 </div>
 
@@ -344,7 +364,8 @@ Thanks!
 
 <div class="post" data-post-id="24102" data-author="madmax" data-date="2008-04-29T20:57:06+00:00" data-subject="">
 
-Can we make pets report like they did in the past?[/quote:1lt6l2w9]
+> <strong>Widow wrote:</strong>
+> Can we make pets report like they did in the past?
 
 I would second that!
 
@@ -354,11 +375,11 @@ Madmax
 
 <div class="post" data-post-id="24105" data-author="Weasel" data-date="2008-04-29T23:27:37+00:00" data-subject="">
 
-As of last reboot, they now are...  at least if I send 'report' it has the info.. ie:
+As of last reboot, they now are... at least if I send 'report' it has the info.. ie:
 
 command 'report' gives:
 
-You report 1111/1133 hp. Need: 22. 377/423 ma.  231/278 mv.
+You report 1111/1133 hp. Need: 22. 377/423 ma. 231/278 mv.
 
 autoreport gives:
 
@@ -372,7 +393,7 @@ report value still not sticking.
 
 added a trigger in the meantime
 
-^Welcome to the land of Sloth III\. May your visit here be\.\.\. Interesting\.$
+^Welcome to the land of Sloth III\\. May your visit here be\\.\\.\\. Interesting\\.$
 
 send "report 40"
 
@@ -380,27 +401,34 @@ send "report 40"
 
 <div class="post" data-post-id="24278" data-author="Weasel" data-date="2008-05-10T14:58:16+00:00" data-subject="">
 
-report value still not sticking.
+> <strong>Weasel wrote:</strong>
+> report value still not sticking.
+> 
+> 
+> 
+> added a trigger in the meantime
+> 
+> 
+> 
+> ^Welcome to the land of Sloth III\\. May your visit here be\\.\\.\\. Interesting\\.$
+> 
+> 
+> 
+> send "report 40"
 
-added a trigger in the meantime
-
-^Welcome to the land of Sloth III\. May your visit here be\.\.\. Interesting\.$
-
-send "report 40"[/quote:em5bfoc5]
-
-*bump* - report setting still not sticking thru logoff/ons.. will it ever?
+\*bump\* - report setting still not sticking thru logoff/ons.. will it ever?
 
 </div>
 
 <div class="post" data-post-id="24280" data-author="*juggleblood*" data-date="2008-05-10T16:07:21+00:00" data-subject="">
 
-Can u pls make people stop asking me to use the autoreporter? Mine is prettier. :)
+Can u pls make people stop asking me to use the autoreporter? Mine is prettier. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="24281" data-author="Weasel" data-date="2008-05-10T16:17:15+00:00" data-subject="">
 
-heh, yeah so's mine, imho.. but being able to cast / broadside / bash etc without lagging the whiner ..that outweighs the prettiness factor by a mile :)
+heh, yeah so's mine, imho.. but being able to cast / broadside / bash etc without lagging the whiner ..that outweighs the prettiness factor by a mile <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Problem now is that my coded whiner is so entwined with the rest of my client script, that I might end up recoding my client from scratch. lol. Perhaps long overdue anyway - there's 7 years of accumulated bits and pieces in there, some of it no doubt several years redundant.
 
@@ -422,6 +450,6 @@ nods - I use MUSHclient, but can do something similar either as groups or as a p
 
 <div class="post" data-post-id="24869" data-author="PolkAdotS" data-date="2008-06-11T07:13:35+00:00" data-subject="">
 
-Hey, Jake you never gave me the address of where to send the Kegs and Strippers with thanks for the New Feature: Autoreport.  Get back to me on that.
+Hey, Jake you never gave me the address of where to send the Kegs and Strippers with thanks for the New Feature: Autoreport. Get back to me on that.
 
 </div>

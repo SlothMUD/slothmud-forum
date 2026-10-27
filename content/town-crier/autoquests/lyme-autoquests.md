@@ -18,7 +18,7 @@ list them here
 
 <div class="post" data-post-id="35717" data-author="*juggleblood*" data-date="2015-03-01T06:19:56+00:00" data-subject="Re: Lyme Autoquests">
 
-From [<LINK_TEXT text="http://www.slothmud.org/wiki/Area:The_S ... d_and_Evil">http://www.slothmud.org/wiki/Area:The_Spire_of_Good_and_Evil</LINK_TEXT>](http://www.slothmud.org/wiki/Area:The_Spire_of_Good_and_Evil)
+From [http://www.slothmud.org/wiki/Area:The_Spire_of_Good_and_Evil](http://www.slothmud.org/wiki/Area:The_Spire_of_Good_and_Evil)
 
 There resides on the spire a well-known literary figure, Henry the Drow and his companion the elf Waldo Merson, who together are trying to compile a library on the origins of the intelligent races of Jord. They are paying a moderate ransom of drachma to those who can help them obtain certain volumes.
 

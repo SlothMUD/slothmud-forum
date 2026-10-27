@@ -14,7 +14,7 @@ post_count: 1
 
 Greeting mortals.
 
-- Fixed a bug that made that you would keep fighting after a self chop on assist, often dying twice.  This one was a fun bug, but a bug either way.
+- Fixed a bug that made that you would keep fighting after a self chop on assist, often dying twice. This one was a fun bug, but a bug either way.
 
 Thanks Whiff, Cyprimus and Skyv for reporting.
 

@@ -24,6 +24,6 @@ ebony scarab
 
 small jar of unusual dust
 
-on the off chance someone has, catch me :)
+on the off chance someone has, catch me <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

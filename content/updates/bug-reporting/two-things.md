@@ -12,9 +12,9 @@ post_count: 43
 
 <div class="post" data-post-id="10849" data-author="Shara" data-date="2006-02-23T11:24:14+00:00" data-subject="Two things">
 
-Selene was attuned to healing just a little while ago, and now regeneration no longer shows it under the spells you're affected by.  The actual effects are still there I think though.
+Selene was attuned to healing just a little while ago, and now regeneration no longer shows it under the spells you're affected by. The actual effects are still there I think though.
 
-Also!  There's a 1 tick warning on morning glory, but it doesn't actually tell you when it's fallen.
+Also! There's a 1 tick warning on morning glory, but it doesn't actually tell you when it's fallen.
 
 Okies that's all I got!
 
@@ -24,21 +24,21 @@ Okies that's all I got!
 
 The morning glory thing is definitely a bug, I'll have a look at it tonight.
 
-I don't remember what I did as far as attunement and affected spells; I don't remember that attunement ever showed up under affected spells.  On the other hand, look at an attuned person when you have detect magic up.  (Or maybe look at the room, I don't remember off the top of my head.)
+I don't remember what I did as far as attunement and affected spells; I don't remember that attunement ever showed up under affected spells. On the other hand, look at an attuned person when you have detect magic up. (Or maybe look at the room, I don't remember off the top of my head.)
 
 </div>
 
 <div class="post" data-post-id="10858" data-author="Guinex" data-date="2006-02-23T18:44:50+00:00" data-subject="">
 
-1) Detect magic will show if another person is attune example
+1\) Detect magic will show if another person is attune example
 
 Guinex is surrounded by a dark aura.
 
-2) The strata that you are attuned to will show in your score, but not your affects.
+2\) The strata that you are attuned to will show in your score, but not your affects.
 
-3) I believe Selene was stating that the spell 'regeneration' is not showing in her score anymore after being attuned to the healing strata.
+3\) I believe Selene was stating that the spell 'regeneration' is not showing in her score anymore after being attuned to the healing strata.
 
-*smoke*
+\*smoke\*
 
 </div>
 
@@ -52,21 +52,22 @@ What G-man said!
 
 <div class="post" data-post-id="10866" data-author="kjartan" data-date="2006-02-23T21:19:59+00:00" data-subject="">
 
-What G-man said![/quote:3qw8m233]
+> <strong>Shara wrote:</strong>
+> What G-man said!
 
-Oh yeah, I see why that would happen.  Will fix.
+Oh yeah, I see why that would happen. Will fix.
 
 </div>
 
 <div class="post" data-post-id="10868" data-author="Avatar" data-date="2006-02-23T21:49:32+00:00" data-subject="Beta Testers">
 
-Guinex sounds like a native-born beta tester to me.  Some people just have a knack!
+Guinex sounds like a native-born beta tester to me. Some people just have a knack!
 
 </div>
 
 <div class="post" data-post-id="10869" data-author="Autolycos" data-date="2006-02-23T22:52:23+00:00" data-subject="">
 
-well he has lots of forced alone time... so he can concentrate on picking things to death...  literally.... :shock:
+well he has lots of forced alone time... so he can concentrate on picking things to death... literally.... <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -86,7 +87,7 @@ I can see 'flail' in my prac unlearned list, though help still says this skill i
 
 As a WA prime all I can say is ... don't bother!
 
-:)
+<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -96,7 +97,7 @@ for all of those that might be unsure about this fact..
 
 Charles is the son of Lucifer, and heir to the Netherworld.
 
-**transmission ends***
+\*\*transmission ends\*\*\*
 
 </div>
 
@@ -116,11 +117,12 @@ be nice if flail only hit mobs you were fighting...
 
 <div class="post" data-post-id="10906" data-author="Autolycos" data-date="2006-02-24T18:43:35+00:00" data-subject="">
 
-now wheres the fun in that?  
+now wheres the fun in that? 
 
-next you'll want bards to not piss everything off in the room and get ya keelled dead cause they pick the wrong time to cry..  :twisted: 
+next you'll want bards to not piss everything off in the room and get ya keelled dead cause they pick the wrong time to cry.. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-be nice if flail only hit mobs you were fighting...[/quote:lxidrq0b]
+> <strong>brand wrote:</strong>
+> be nice if flail only hit mobs you were fighting...
 
 </div>
 
@@ -128,13 +130,13 @@ be nice if flail only hit mobs you were fighting...[/quote:lxidrq0b]
 
 AFAIK flail is soon being removed / replaced with something better that Splork or Kj or someone up there is working on.. 
 
-Coders - please amend +flail eq as well.. like the Walls of Jericho.. :)
+Coders - please amend +flail eq as well.. like the Walls of Jericho.. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="10910" data-author="*Splork*" data-date="2006-02-24T22:33:56+00:00" data-subject="">
 
-Flail isn't being taken out of the game, its simply not a prime only ability anymore.  I will change flail eq when I have time.
+Flail isn't being taken out of the game, its simply not a prime only ability anymore. I will change flail eq when I have time.
 
 Enjoy,
 
@@ -144,7 +146,7 @@ Splork
 
 <div class="post" data-post-id="10913" data-author="Weasel" data-date="2006-02-24T23:58:51+00:00" data-subject="">
 
-ahh ok thanks :)
+ahh ok thanks <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -154,7 +156,7 @@ Hey, at least warriors at least still get Parry, which is a really good prime ab
 
 Bards get +2 bonus to a few songs (which is more for other people then themselves, not many bards sing Gods solo, or using Dreams on themselves), and Dance of the Seven Luck Gods, whilst good in some circumstances, is highly undervalued and generally not used in normal mudding experience (not to mention its a pain/expensive to get, where most other prime skills can be found in guilds).
 
-So if were ammending Prime abilities, just a request to look at bards? I'll still play it no matter what, just be nice be nice to see some other skills for us bards, since new stuff is getting added :)
+So if were ammending Prime abilities, just a request to look at bards? I'll still play it no matter what, just be nice be nice to see some other skills for us bards, since new stuff is getting added <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -184,7 +186,7 @@ Just a lil reminder: bards can use instruments and have high charisma to avoid s
 
 Oh, I'm pretty sure the majority of bards are incredibly happy with the affects of instruments and Seven Luck.
 
-We won't be redoing any of their prime only abilities.  Flail is and always has been a waiste of a prime only ability. 
+We won't be redoing any of their prime only abilities. Flail is and always has been a waiste of a prime only ability. 
 
 Enjoy,
 
@@ -194,47 +196,57 @@ Splork
 
 <div class="post" data-post-id="10927" data-author="Gnu" data-date="2006-02-26T19:38:05+00:00" data-subject="">
 
-Hey, at least warriors at least still get Parry, which is a really good prime ability, that sees alot of use. 
-
-Bards get +2 bonus to a few songs (which is more for other people then themselves, not many bards sing Gods solo, or using Dreams on themselves), and Dance of the Seven Luck Gods, whilst good in some circumstances, is highly undervalued and generally not used in normal mudding experience (not to mention its a pain/expensive to get, where most other prime skills can be found in guilds).
-
-So if were ammending Prime abilities, just a request to look at bards? I'll still play it no matter what, just be nice be nice to see some other skills for us bards, since new stuff is getting added :)[/quote:14enu69q]
+> <strong>Tetsulunathaya wrote:</strong>
+> Hey, at least warriors at least still get Parry, which is a really good prime ability, that sees alot of use. 
+> 
+> 
+> 
+> Bards get +2 bonus to a few songs (which is more for other people then themselves, not many bards sing Gods solo, or using Dreams on themselves), and Dance of the Seven Luck Gods, whilst good in some circumstances, is highly undervalued and generally not used in normal mudding experience (not to mention its a pain/expensive to get, where most other prime skills can be found in guilds).
+> 
+> 
+> 
+> So if were ammending Prime abilities, just a request to look at bards? I'll still play it no matter what, just be nice be nice to see some other skills for us bards, since new stuff is getting added <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 bards... bards everywhere... what do bards have?
 
-1. bards have quite a nice set of eq for armor class, they can easily obtain...
+1\. bards have quite a nice set of eq for armor class, they can easily obtain...
 
-2. bards can use instruments (it's quite nice to use the most powerful blast for the price of a stupid wind)...
+2\. bards can use instruments (it's quite nice to use the most powerful blast for the price of a stupid wind)...
 
-3. the best bard's ability for soloing  is summoning undeads... what? did you skip necro in your classo? hm... there can be only three possibilities imho: you are Taliesin, you do not like soloing, you are just a newb :P
+3\. the best bard's ability for soloing is summoning undeads... what? did you skip necro in your classo? hm... there can be only three possibilities imho: you are Taliesin, you do not like soloing, you are just a newb <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
-4. bards have a right to suggest new skills, spells for themselves... what did you say? that's not a bard's privilage? that's true, but who cares? :P
+4\. bards have a right to suggest new skills, spells for themselves... what did you say? that's not a bard's privilage? that's true, but who cares? <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="10928" data-author="Gnu" data-date="2006-02-26T19:39:50+00:00" data-subject="">
 
-Hey, at least warriors at least still get Parry, which is a really good prime ability, that sees alot of use. 
-
-Bards get +2 bonus to a few songs (which is more for other people then themselves, not many bards sing Gods solo, or using Dreams on themselves), and Dance of the Seven Luck Gods, whilst good in some circumstances, is highly undervalued and generally not used in normal mudding experience (not to mention its a pain/expensive to get, where most other prime skills can be found in guilds).
-
-So if were ammending Prime abilities, just a request to look at bards? I'll still play it no matter what, just be nice be nice to see some other skills for us bards, since new stuff is getting added :)[/quote:3q78gp8n]
+> <strong>Tetsulunathaya wrote:</strong>
+> Hey, at least warriors at least still get Parry, which is a really good prime ability, that sees alot of use. 
+> 
+> 
+> 
+> Bards get +2 bonus to a few songs (which is more for other people then themselves, not many bards sing Gods solo, or using Dreams on themselves), and Dance of the Seven Luck Gods, whilst good in some circumstances, is highly undervalued and generally not used in normal mudding experience (not to mention its a pain/expensive to get, where most other prime skills can be found in guilds).
+> 
+> 
+> 
+> So if were ammending Prime abilities, just a request to look at bards? I'll still play it no matter what, just be nice be nice to see some other skills for us bards, since new stuff is getting added <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 bards... bards everywhere... what do bards have?
 
-1. bards have quite a nice set of eq for armor class, they can easily obtain...
+1\. bards have quite a nice set of eq for armor class, they can easily obtain...
 
-2. bards can use instruments (it's quite nice to use the most powerful blast for the price of a stupid wind)...
+2\. bards can use instruments (it's quite nice to use the most powerful blast for the price of a stupid wind)...
 
-3. the best bard's ability for soloing  is summoning undeads... what? did you skip necro in your classo? hm... there can be only three possibilities imho: you are Taliesin, you do not like soloing, you are just a newb :P
+3\. the best bard's ability for soloing is summoning undeads... what? did you skip necro in your classo? hm... there can be only three possibilities imho: you are Taliesin, you do not like soloing, you are just a newb <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
-4. bards have a right to suggest new skills, spells for themselves... what did you say? that's not a bard's privilage? that's true, but who cares? :P
+4\. bards have a right to suggest new skills, spells for themselves... what did you say? that's not a bard's privilage? that's true, but who cares? <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="10929" data-author="Guinex" data-date="2006-02-26T21:23:25+00:00" data-subject="">
 
-Once saves are completly fixed bards won't have the best blast anymore ;)
+Once saves are completly fixed bards won't have the best blast anymore <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -260,27 +272,27 @@ Anyway, please don't give bards more skills or I'll have to cycle more sbs!
 
 <div class="post" data-post-id="10932" data-author="Avatar" data-date="2006-02-27T01:05:07+00:00" data-subject="SBs">
 
-At least you can dance when you're cycling spellbooks.  The rest of us have to cycle for 2 weeks for a pop.
+At least you can dance when you're cycling spellbooks. The rest of us have to cycle for 2 weeks for a pop.
 
 </div>
 
 <div class="post" data-post-id="10933" data-author="Mosaix" data-date="2006-02-27T02:31:28+00:00" data-subject="">
 
-One could try playing a Cleric Prime.  Its so much fun I havent played in 2 weeks.  
+One could try playing a Cleric Prime. Its so much fun I havent played in 2 weeks. 
 
-There are books I dont even bother trying to get.  Have asked for help with books and get blown off.  
+There are books I dont even bother trying to get. Have asked for help with books and get blown off. 
 
-In particular im at 50% on Acid-Etched.  Even with one loaded couldnt get help to pop it, including my own clan.
+In particular im at 50% on Acid-Etched. Even with one loaded couldnt get help to pop it, including my own clan.
 
-However im first on the dialpad when people need a raise, a healer to help THEM get eq, or a healer to THEM get exp.   
+However im first on the dialpad when people need a raise, a healer to help THEM get eq, or a healer to THEM get exp. 
 
-The joys of cleric prime.  Dont ever be one.
+The joys of cleric prime. Dont ever be one.
 
 </div>
 
 <div class="post" data-post-id="10934" data-author="brady" data-date="2006-02-27T02:32:56+00:00" data-subject="">
 
-Dance like Snoopy!  With your nose up and your eyes shut and your smile stretched across the sky.  You are a cosmic dancer...cosmic!
+Dance like Snoopy! With your nose up and your eyes shut and your smile stretched across the sky. You are a cosmic dancer...cosmic!
 
 And Shara, I love that you have 7 Luck Gods!
 
@@ -288,59 +300,64 @@ And Shara, I love that you have 7 Luck Gods!
 
 <div class="post" data-post-id="10935" data-author="Weasel" data-date="2006-02-27T04:17:34+00:00" data-subject="">
 
-*ack* don't even mention spellbook poprates.. for the last couple of months all I've done is cycle spellbooks and I still have many to go - unfortunately quite a few of the ones remaining are group only mobs so the chances of getting them are remote.. wish someone would lighten up on those poprates, cycling gets so boring after a while - I've now forged 4 ashen bracelets while waiting for a spellbook mob repop - and that's just for ONE spellbook - and it still hasn't popped even once. 
+\*ack\* don't even mention spellbook poprates.. for the last couple of months all I've done is cycle spellbooks and I still have many to go - unfortunately quite a few of the ones remaining are group only mobs so the chances of getting them are remote.. wish someone would lighten up on those poprates, cycling gets so boring after a while - I've now forged 4 ashen bracelets while waiting for a spellbook mob repop - and that's just for ONE spellbook - and it still hasn't popped even once. 
 
 Now I'm sure someone will prove what a tosser they are by telling me I whine too much and that nobody is forcing me to learn spells.. so I'll take this opportunity to reply in advance - go fark yourself a$$hole.
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="10936" data-author="Avatar" data-date="2006-02-27T04:23:16+00:00" data-subject="SBs">
 
-Pop rates are ridiculous, but they'll just say that this is the only way we'll value the things we pop.  Ah well, what can you do?
+Pop rates are ridiculous, but they'll just say that this is the only way we'll value the things we pop. Ah well, what can you do?
 
-Well Mosaix, if a book is popped and you can get us close to the mob, I'm always willing to help.  I'll even switch to a tank if we need a tank.  Of course, there may be something about people who play clerics that make them more willing to help others, I don't know about all that.
+Well Mosaix, if a book is popped and you can get us close to the mob, I'm always willing to help. I'll even switch to a tank if we need a tank. Of course, there may be something about people who play clerics that make them more willing to help others, I don't know about all that.
 
 </div>
 
 <div class="post" data-post-id="10937" data-author="Autolycos" data-date="2006-02-27T04:29:12+00:00" data-subject="">
 
-laff  Mosaix... i thought i was #1 on the rescue dialpad  :twisted: 
+laff Mosaix... i thought i was #1 on the rescue dialpad <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-btw.. you should have asked me bro..  we see each other enuff during rescuing/cr each other..  would be no prob for me to die somewhere new.. and have a purpose!!! :twisted: 
+btw.. you should have asked me bro.. we see each other enuff during rescuing/cr each other.. would be no prob for me to die somewhere new.. and have a purpose!!! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 Shara... you need to dance and die more for me!
 
-Brady.. lmfao **applauds**
+Brady.. lmfao \*\*applauds\*\*
 
-Weasel.. snicker... nothing i can add to make that any better.. *high5* 
+Weasel.. snicker... nothing i can add to make that any better.. \*high5\* 
 
 PS.. avatar is to blame for everything.. he is coded +perma no load
 
-There are books I dont even bother trying to get.  Have asked for help with books and get blown off.  
-
-In particular im at 50% on Acid-Etched.  Even with one loaded couldnt get help to pop it, including my own clan.
-
-However im first on the dialpad when people need a raise, a healer to help THEM get eq, or a healer to THEM get exp.   
-
-The joys of cleric prime.  Dont ever be one.[/quote:2lloq5nf]
+> <strong>Mosaix wrote:</strong>
+> There are books I dont even bother trying to get. Have asked for help with books and get blown off. 
+> 
+> In particular im at 50% on Acid-Etched. Even with one loaded couldnt get help to pop it, including my own clan.
+> 
+> 
+> 
+> However im first on the dialpad when people need a raise, a healer to help THEM get eq, or a healer to THEM get exp. 
+> 
+> 
+> 
+> The joys of cleric prime. Dont ever be one.
 
 </div>
 
 <div class="post" data-post-id="10938" data-author="Krok" data-date="2006-02-27T06:33:00+00:00" data-subject="">
 
-Broc, wtf? Log on, we'll cycle more sbs. Stop whining like the real cleric and they will stop treating you like this *poke poke* :)
+Broc, wtf? Log on, we'll cycle more sbs. Stop whining like the real cleric and they will stop treating you like this \*poke poke\* :)
 
 </div>
 
 <div class="post" data-post-id="10939" data-author="12345" data-date="2006-02-27T13:03:01+00:00" data-subject="">
 
-I gotta admit, the majority of the spells I don't have are from cleric and druid.  Being a 3x or 4x caster has got to be a pain.  Then again, my list of unlearned at 17 avatar is pretty embarassing.  I still need a raise book, which I will probably never use, and dawnfire, which is pretty much the _only_ blasting spell I'll ever use.  I am full up on the skills/spells I actually care about though.
+I gotta admit, the majority of the spells I don't have are from cleric and druid. Being a 3x or 4x caster has got to be a pain. Then again, my list of unlearned at 17 avatar is pretty embarassing. I still need a raise book, which I will probably never use, and dawnfire, which is pretty much the \_only\_ blasting spell I'll ever use. I am full up on the skills/spells I actually care about though.
 
-I don't know what to tell you if your clan won't help you out... that's just sad.  I can normally help out with knocking a mob down unless I've got a bunch of folks following.  The rest of the time lately I'm just wandering around exploring.
+I don't know what to tell you if your clan won't help you out... that's just sad. I can normally help out with knocking a mob down unless I've got a bunch of folks following. The rest of the time lately I'm just wandering around exploring.
 
-I have seen a ton of new spells and skills go in lately.  I don't think I've seen any added to the shops and such though.  Perhaps some of them could be re-evaluated and simply sold at a certain magic shop like the web spellbook.  Or even better, adding a new magic shop somewhere that sells spellbooks.  ie. A bunch of clerical manuals could be sold in the Infirmary or in the library of the Asylum.  The librarian in the Elemental School could actually sell books of ice ray and such for inflated prices.
+I have seen a ton of new spells and skills go in lately. I don't think I've seen any added to the shops and such though. Perhaps some of them could be re-evaluated and simply sold at a certain magic shop like the web spellbook. Or even better, adding a new magic shop somewhere that sells spellbooks. ie. A bunch of clerical manuals could be sold in the Infirmary or in the library of the Asylum. The librarian in the Elemental School could actually sell books of ice ray and such for inflated prices.
 
 Or I could sit in the BH scribe drooling on myself and scribbling on spellbooks with crayons.... anyone know where I can pop some crayons?
 
@@ -348,9 +365,9 @@ Or I could sit in the BH scribe drooling on myself and scribbling on spellbooks 
 
 <div class="post" data-post-id="10940" data-author="Modello" data-date="2006-02-27T13:48:36+00:00" data-subject="">
 
-Sneef..... why post that ya clan wouldn't help you?  This is the first I've heard about it.  Was I online?  Since when have I refused to help a clannie... or anyone else for that matter.  Ditto what Kroka said.... lets just cycle fer some!
+Sneef..... why post that ya clan wouldn't help you? This is the first I've heard about it. Was I online? Since when have I refused to help a clannie... or anyone else for that matter. Ditto what Kroka said.... lets just cycle fer some!
 
-On another note.... cycling for spellbooks has become the way of sloth!  Sigh... the good ol' days of practicing in the guild under the watchful gaze of the guildmaster!  Gone!  Sneef....
+On another note.... cycling for spellbooks has become the way of sloth! Sigh... the good ol' days of practicing in the guild under the watchful gaze of the guildmaster! Gone! Sneef....
 
 </div>
 
@@ -364,7 +381,7 @@ Nods, Nab. I don't think I was online to refuse to pop a sb, but maybe I was dee
 
 dont listen to KROK!!!!!!
 
-everytime i ask her for help, she just kills me alot..... :evil:
+everytime i ask her for help, she just kills me alot..... <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -384,11 +401,11 @@ Auto.. I spend all my mana for the relos to BH to save your ass from quicklings 
 
 <div class="post" data-post-id="10946" data-author="Autolycos" data-date="2006-02-27T15:22:31+00:00" data-subject="">
 
-LIES!   
+LIES! 
 
 brady dies in quicklings..
 
-i drown in sahaguins!   :twisted:
+i drown in sahaguins! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -400,6 +417,6 @@ Oh, sorry. That's a really huge difference.
 
 <div class="post" data-post-id="10948" data-author="Autolycos" data-date="2006-02-27T16:23:33+00:00" data-subject="">
 
-cackle  :twisted:
+cackle <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

@@ -16,45 +16,45 @@ I dont really use him anymore and i need money so here he goes usd only pls btw 
 
 You are using:
 
-<used as light>      the symbol of zodiac magic
+\<used as light\> the symbol of zodiac magic
 
-<worn on finger>     a lost cross signet ring..It emits a faint humming sound!
+\<worn on finger\> a lost cross signet ring..It emits a faint humming sound!
 
-<worn on finger>     a serrated steel ring..It has a soft glowing aura!
+\<worn on finger\> a serrated steel ring..It has a soft glowing aura!
 
-<worn on shoulders>  volcanic shoulder guards..It has a soft glowing aura!
+\<worn on shoulders\> volcanic shoulder guards..It has a soft glowing aura!
 
-<worn around neck>   a dark black cloak
+\<worn around neck\> a dark black cloak
 
-<worn on body>       Adamantine Cuirass of the Ancients
+\<worn on body\> Adamantine Cuirass of the Ancients
 
-<worn on head>       a helm of fiery radiance..It has a soft glowing aura!
+\<worn on head\> a helm of fiery radiance..It has a soft glowing aura!
 
-<worn on legs>       the greaves of war..It emits a faint humming sound!
+\<worn on legs\> the greaves of war..It emits a faint humming sound!
 
-<worn on feet>       a pair of mosaic boots..It has a soft glowing aura!
+\<worn on feet\> a pair of mosaic boots..It has a soft glowing aura!
 
-<worn on hands>      a pair of thick iron gauntlets
+\<worn on hands\> a pair of thick iron gauntlets
 
-<worn on arms>       polished rock sleeves
+\<worn on arms\> polished rock sleeves
 
-<worn as shield>     Tower Shield of the Great Lords..It emits a faint humming 
+\<worn as shield\> Tower Shield of the Great Lords..It emits a faint humming 
 
 sound!
 
-<worn about waist>   a feathered cincture
+\<worn about waist\> a feathered cincture
 
-<worn around wrist>  an obsidian bracer
+\<worn around wrist\> an obsidian bracer
 
-<worn around wrist>  a blue steel bracelet
+\<worn around wrist\> a blue steel bracelet
 
-<wielded>            a thunderbolt..It emits a faint humming sound!
+\<wielded\> a thunderbolt..It emits a faint humming sound!
 
-<held>               an obsidian pearl..It has a soft glowing aura!
+\<held\> an obsidian pearl..It has a soft glowing aura!
 
-Ranger ~Dragonsworn~ want crown of serpeants [crema]  (level: 40)
+Ranger \~Dragonsworn\~ want crown of serpeants [crema] (level: 40)
 
-Your levels:  Wa: 40 Ma: 40 Cl: 40 Th: 40 Av: 32 
+Your levels: Wa: 40 Ma: 40 Cl: 40 Th: 40 Av: 32 
 
 You are 44 years and 7 months old.
 
@@ -86,13 +86,13 @@ You will parry.
 
 You are affected by the following spells:
 
-   Detect Invisible                 
+ Detect Invisible 
 
-   Sense Life                       
+ Sense Life 
 
-   Infravision                      
+ Infravision 
 
-<1037hp 297ma 168mv>l in robe
+\<1037hp 297ma 168mv\>l in robe
 
 robe (carried):
 
@@ -172,7 +172,7 @@ a red and white staff [2]
 
 a reinforced wool vest
 
-<959hp 332ma 217mv>l in robe
+\<959hp 332ma 217mv\>l in robe
 
 robe (carried):
 
@@ -202,6 +202,6 @@ that score is with him naked btw
 
 Where is the good shit....
 
-I am considering coming up with the winning bid and loaning the cash to Ranger. I would like to see this character retired, maybe I can take up a collection, seeing I have no money. What is the cost of keeping this character from becoming a BRIAR type. The whole idea behind taking 2-3 years to flesh the first one (character), then sell it off to some asshole. Forgive me but what results is a person being able to "buy" something that in idea should be earned. I am sorry you have no money, but if 120 bucks is all it takes to keep these avatar 30 type characters off the chopping block, I will try my very best to find some money.  Briar, on the other hand, had a shit load of great eq, rare type shit. Lotsd of coins. They who ever ended up with Briar, payed alot. On top of that they pthieved and harrassed. We need to stop this type of shit from happening.
+I am considering coming up with the winning bid and loaning the cash to Ranger. I would like to see this character retired, maybe I can take up a collection, seeing I have no money. What is the cost of keeping this character from becoming a BRIAR type. The whole idea behind taking 2-3 years to flesh the first one (character), then sell it off to some asshole. Forgive me but what results is a person being able to "buy" something that in idea should be earned. I am sorry you have no money, but if 120 bucks is all it takes to keep these avatar 30 type characters off the chopping block, I will try my very best to find some money. Briar, on the other hand, had a shit load of great eq, rare type shit. Lotsd of coins. They who ever ended up with Briar, payed alot. On top of that they pthieved and harrassed. We need to stop this type of shit from happening.
 
 </div>

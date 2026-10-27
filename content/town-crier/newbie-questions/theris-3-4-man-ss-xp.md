@@ -12,7 +12,7 @@ post_count: 2
 
 <div class="post" data-post-id="11208" data-author="12345" data-date="2006-03-13T13:59:12+00:00" data-subject="Theris - 3-4 Man SS XP">
 
-Ok, the hardest part of any xp group is knowing what mobs to run and what it takes to kill them. SS isn't my favorite place for xp, but it's good for learning. Theris is one of the easier areas there is to run, as long as you can handle the constant stream of webs anyway.  Here's a quick guide to those that are in training to be leaders:
+Ok, the hardest part of any xp group is knowing what mobs to run and what it takes to kill them. SS isn't my favorite place for xp, but it's good for learning. Theris is one of the easier areas there is to run, as long as you can handle the constant stream of webs anyway. Here's a quick guide to those that are in training to be leaders:
 
 This is a VERY forgiving area and I've run it 2man for some amazing xp. Running with a eudaemon is a bonus, but basically not needed. Normally, I run with -10, damn, web, blind and weaken. You can pretty much be missing any 2 and still be able to run here. So, nice place if you're got a weak tank or no weakener. 
 
@@ -22,15 +22,15 @@ Shadow warriors are hidden throughout the area, but are marked on the map. Run p
 
 Commoners. Found all over. Surprisingly, not the weakest mob here. More surprising, pretty good group xp. Standard debuff (damn/curse/web/weaken), you might even try to silence them. Good xp. 
 
-*Regen mobs. 
+\*Regen mobs. 
 
-These are weaker than the commoners. Easy kills. If you're having trouble with the 'ful' mobs or commoners, take a rest fighting these or stick to these exclusively. Only about half the xp of the 'ful' mobs though. And they all still web.  Do very poorly against AC though.
+These are weaker than the commoners. Easy kills. If you're having trouble with the 'ful' mobs or commoners, take a rest fighting these or stick to these exclusively. Only about half the xp of the 'ful' mobs though. And they all still web. Do very poorly against AC though.
 
--Man. Silly mob. 2e2ne2n2wn of the entrace is a mob named 'man'. 
+\-Man. Silly mob. 2e2ne2n2wn of the entrace is a mob named 'man'. 
 
--War lord. sedw of Man. 
+\-War lord. sedw of Man. 
 
--King. Exam map and go west of War lord. 
+\-King. Exam map and go west of War lord. 
 
 'ful' mobs. 
 
@@ -56,8 +56,8 @@ I haven't played much with the other mobs in the area, haven't heard of many oth
 
 Thats some nice info there.
 
-When Ecko reaches 3x40 I want to learn to lead small eq groups. Preferably in AH/SS/Island. In the past exploring has been very dangerous, most time I have been killed. Before hand I've asked how hard is <mob name> and get little response sometimes, and as a result, someone has to come and recall my dead butt.
+When Ecko reaches 3x40 I want to learn to lead small eq groups. Preferably in AH/SS/Island. In the past exploring has been very dangerous, most time I have been killed. Before hand I've asked how hard is \<mob name\> and get little response sometimes, and as a result, someone has to come and recall my dead butt.
 
-Keep the area info coming  :wink:
+Keep the area info coming <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>

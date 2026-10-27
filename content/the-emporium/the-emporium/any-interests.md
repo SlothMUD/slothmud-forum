@@ -14,7 +14,7 @@ post_count: 10
 
 Poolp (level: 39)
 
-Your levels:  Th: 39 Wa: 34 Ma: 33 Cl: 20 
+Your levels: Th: 39 Wa: 34 Ma: 33 Cl: 20 
 
 You are 24 years and 9 months old.
 
@@ -38,7 +38,7 @@ You have been playing for 25 days and 0 hours.
 
 Str: 18 / 34, Int: 14, Wis: 14, Dex: 18, Con: 14
 
-Anyone need a pthief char? 18 dex and 18/84 with str spell is fantastic for pthieving. Send me a private message along with your offer or any enquiry. Will keep all names anonymous. Have fun :)
+Anyone need a pthief char? 18 dex and 18/84 with str spell is fantastic for pthieving. Send me a private message along with your offer or any enquiry. Will keep all names anonymous. Have fun <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -64,7 +64,8 @@ Not sure how much these actually are but I'll keep em' and consider all offers. 
 
 <div class="post" data-post-id="9034" data-author="mudder" data-date="2005-10-13T12:56:13+00:00" data-subject="Re: Any interests?">
 
-Anyone need a pthief char? ... [/quote:1uheqfpn]
+> <strong>Poolp wrote:</strong>
+> Anyone need a pthief char? ...
 
 How about I steal your char ?
 
@@ -72,9 +73,15 @@ How about I steal your char ?
 
 <div class="post" data-post-id="9048" data-author="Poolp" data-date="2005-10-14T04:28:08+00:00" data-subject="Re: Any interests?">
 
-Anyone need a pthief char? ... [/quote:24e9zp0a]
-
-How about I steal your char ?[/quote:24e9zp0a]
+> <strong>mudder wrote:</strong>
+> > <strong>Poolp wrote:</strong>
+> > Anyone need a pthief char? ...
+> 
+> 
+> 
+> 
+> 
+> How about I steal your char ?
 
 You're welcome to try.
 
@@ -114,7 +121,7 @@ Purple minidemon brooch
 
 Many ppl want to know what do pthiefs do with eq, they stole... hm... now we can see it...
 
-[img:2ajy2hik]http://relax.photofile.ru/photo/008/185/97314/large/1502771AAV.jpg[/img:2ajy2hik]
+![](http://relax.photofile.ru/photo/008/185/97314/large/1502771AAV.jpg)
 
 </div>
 
@@ -126,7 +133,7 @@ those are Medios' boots.
 
 <div class="post" data-post-id="9088" data-author="Medios" data-date="2005-10-20T02:22:19+00:00" data-subject="">
 
-I got a pair of 8 eye dr martens just like that.  No rats tho.
+I got a pair of 8 eye dr martens just like that. No rats tho.
 
 Mike
 
@@ -134,6 +141,6 @@ Mike
 
 <div class="post" data-post-id="9089" data-author="Vixn" data-date="2005-10-20T04:38:22+00:00" data-subject="">
 
-Hela, Mike, the Oldest Viking.. with Martens! :)
+Hela, Mike, the Oldest Viking.. with Martens! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

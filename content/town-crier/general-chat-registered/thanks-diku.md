@@ -16,7 +16,7 @@ Diku decided to donate his eq to sloth and put it all on a mob for us to find.
 
 I found it on the Krakken and with the help of Nab, Doc, Rynquald, Zeke,
 
-Quake and Adagio, we barely killed him.  There was a lot of nice booty in
+Quake and Adagio, we barely killed him. There was a lot of nice booty in
 
 there and it was a really nice thing to do. 
 
@@ -28,7 +28,7 @@ Aaron
 
 <div class="post" data-post-id="14752" data-author="Rynquald" data-date="2006-10-26T02:39:49+00:00" data-subject="">
 
-Nods, thanks :)
+Nods, thanks <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

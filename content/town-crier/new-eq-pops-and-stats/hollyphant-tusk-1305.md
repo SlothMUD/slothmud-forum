@@ -50,7 +50,7 @@ sorry, i thought about some other thingie then..
 
 <div class="post" data-post-id="7612" data-author="Autolycos" data-date="2005-06-26T13:32:37+00:00" data-subject="">
 
-thats ok Krok, we will let it go this time,  but only because you are so cool!   :twisted:
+thats ok Krok, we will let it go this time, but only because you are so cool! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

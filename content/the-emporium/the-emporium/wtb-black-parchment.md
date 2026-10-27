@@ -14,6 +14,6 @@ post_count: 1
 
 wtb/wtt black parchment, iridescent shroud.
 
-contact me ingame as xev or stream plx :)
+contact me ingame as xev or stream plx <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

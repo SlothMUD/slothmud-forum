@@ -20,7 +20,7 @@ It's time to get collaborative! Here is my idea... I think for a time there shou
 
 After the items are created, there is an amnesty period where players can exchange their pieces at cost price... and the issue is solved. No one can whine, because everyone is responsible.
 
-Tomorrow, peace in the middle east...  :twisted:
+Tomorrow, peace in the middle east... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -34,17 +34,17 @@ I could do it in Drupal, but I need to fix my own Drupal install first.
 
 That being said, I already made a Google Spreadsheet with edit access via the link:
 
-[<LINK_TEXT text="https://docs.google.com/spreadsheets/d/ ... sp=sharing">https://docs.google.com/spreadsheets/d/1ufWy039_Pguog7cNETf7oVxuPNeyRYfRd-pYQKhswRs/edit?usp=sharing</LINK_TEXT>](https://docs.google.com/spreadsheets/d/1ufWy039_Pguog7cNETf7oVxuPNeyRYfRd-pYQKhswRs/edit?usp=sharing)
+[https://docs.google.com/spreadsheets/d/1ufWy039_Pguog7cNETf7oVxuPNeyRYfRd-pYQKhswRs/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1ufWy039_Pguog7cNETf7oVxuPNeyRYfRd-pYQKhswRs/edit?usp=sharing)
 
 If someone starts to screw around, we'll have to use email access.
 
 How it works:
 
-- enter your eq idea and why you think it's a good item, how it fits in the current eq/classo thing
+\- enter your eq idea and why you think it's a good item, how it fits in the current eq/classo thing
 
-- if you want to comment, right-click on the contents of the "why" field, "Add comment" and do your thing
+\- if you want to comment, right-click on the contents of the "why" field, "Add comment" and do your thing
 
-- if there is a comment to the item, just reply to it.
+\- if there is a comment to the item, just reply to it.
 
 If possible, be logged in Google at the time of your edit, so we know who's who (I assume that's how it works, anyway).
 
@@ -52,7 +52,7 @@ If possible, be logged in Google at the time of your edit, so we know who's who 
 
 <div class="post" data-post-id="37552" data-author="*Breeze*" data-date="2016-11-26T08:47:06+00:00" data-subject="Re: Suggested Solution for Drachma Eq Problem">
 
-> **Teron wrote:**
+> <strong>Teron wrote:</strong>
 > That's a good idea, though I don't see Breeze creating a form for eq items with comments from scratch.
 > 
 > Maybe if he can hack a custom content type himself in WordPress.
@@ -61,10 +61,10 @@ if you notice there are not very many places for user input into the website.
 
 besides the eqlist search block, any other user input is via links using integers.
 
-that was not an accident :)
+that was not an accident <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-> **Teron wrote:**
-> ---snip---
+> <strong>Teron wrote:</strong>
+> \---snip---
 > 
 > 
 > 
@@ -76,7 +76,7 @@ if you expand it to all types of eq, then if an immortal needs an idea for a new
 
 <div class="post" data-post-id="37553" data-author="Teron" data-date="2016-11-26T10:43:05+00:00" data-subject="Re: Suggested Solution for Drachma Eq Problem">
 
-> ***Breeze* wrote:**
+> <strong>\*Breeze\* wrote:</strong>
 > if you expand it to all types of eq, then if an immortal needs an idea for a new piece of eq they can use your list.
 
 Sure, why not.
@@ -103,7 +103,7 @@ FACT 1... "There is no drachma eq with spell saves."
 
 Any chance an imm could release publicly all cap information?
 
-It would be **REALLY** helpful.
+It would be <strong>REALLY</strong> helpful.
 
 </div>
 
@@ -121,11 +121,11 @@ Thanks.
 
 Things are progressing... 
 
-* I've extracted a list of drachma items from the eqlist.
+\* I've extracted a list of drachma items from the eqlist.
 
-* Breeze contributed to Taron a log of "transactions" from the drachma vendors.
+\* Breeze contributed to Taron a log of "transactions" from the drachma vendors.
 
-* I've compiled all this information into a spreadsheet and sent to Taron for publishing.
+\* I've compiled all this information into a spreadsheet and sent to Taron for publishing.
 
 You will be surprised... as it turns out, nearly every drachma item has been purchased, however in working with this data I don't have full confidence in it's accuracy... and it's completely possible some items may have been "test purchased" by immortals. Items have also changed over time, but kept there original name which means we don't know what exact revision of the item a person got. There are abnormalities and strange things in this data, but overall it's valuable in the sense of the objective.
 
@@ -143,17 +143,17 @@ FACT 3... "About 50% of drachma items account only for 10% of sales... (Tokens a
 
 A few months ago I broke down all the drachma eq items into stats and drachma values. I then created an index using the min, max and avg prices of stats to produce a guideline of roughly how much stats are worth in drachma... I then had to interpret this data and came up with this...
 
-500 Drachma: DAM, HANDDAM, MAX_DEX
+500 Drachma: DAM, HANDDAM, MAX\_DEX
 
-400 Drachma: MANA_REGEN
+400 Drachma: MANA\_REGEN
 
-250 Drachma: MAX_INT, MAX_CON, MAX_STR, MAX_WIS, REDUCE_DAM, UNDEAD_CONTROL, CHARISMA, WEAPON_DAM
+250 Drachma: MAX\_INT, MAX\_CON, MAX\_STR, MAX\_WIS, REDUCE\_DAM, UNDEAD\_CONTROL, CHARISMA, WEAPON\_DAM
 
 200 Drachma: INT, CON, STR, DEX, WIS
 
-125 Drachma: HP_REGEN
+125 Drachma: HP\_REGEN
 
-40 Drachma: SPELL_BONUS, HEAL_BONUS, MV_REGEN, STABDAM, CIRCLEDAM
+40 Drachma: SPELL\_BONUS, HEAL\_BONUS, MV\_REGEN, STABDAM, CIRCLEDAM
 
 30 Drachma: MANA, HP
 
@@ -179,11 +179,11 @@ Though the ac robe and the -1.4 helm differ a lot.
 
 <div class="post" data-post-id="37565" data-author="Gorka" data-date="2016-11-28T03:01:47+00:00" data-subject="Re: Suggested Solution for Drachma Eq Problem">
 
-Yes, I left out AC for a reason. :lol: It's the most difficult and wildly varying index, because essentially most items are priced for there other stats, and the AC is not really factored into the value of the item by design, as it's often regular. (In fact AC is not considered an "AFFECT" in the eq structure, its a "VALUE" which means there is almost a separation of ideas here.) Of course there are a couple of items... the knights robe and the warrior helmet. But these are misleading and in the case of the helmet overpriced, but they do suggest that a net effect -0.1 on AC is priced in around 300-500 drachma per point. More closer to 500 than 300, to be fair to how MAX_DEX is priced.
+Yes, I left out AC for a reason. <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> It's the most difficult and wildly varying index, because essentially most items are priced for there other stats, and the AC is not really factored into the value of the item by design, as it's often regular. (In fact AC is not considered an "AFFECT" in the eq structure, its a "VALUE" which means there is almost a separation of ideas here.) Of course there are a couple of items... the knights robe and the warrior helmet. But these are misleading and in the case of the helmet overpriced, but they do suggest that a net effect -0.1 on AC is priced in around 300-500 drachma per point. More closer to 500 than 300, to be fair to how MAX\_DEX is priced.
 
-I'd suggest that we don't calculate prices using an AC value, unless the item introduces a net effect of -0.1 better than in game eq, then I'd suggest it's priced at around 400 drachma+ (I'm taking the Knights Robe price and MAX_DEX as a middle position here.)
+I'd suggest that we don't calculate prices using an AC value, unless the item introduces a net effect of -0.1 better than in game eq, then I'd suggest it's priced at around 400 drachma+ (I'm taking the Knights Robe price and MAX\_DEX as a middle position here.)
 
-This creates a conflict with MAX_DEX which was priced in at 500 drachma... but of course there is not a single item with MAX_DEX that increases your AC by the full -0.5 because all the items have lower AC and the net effect is often only -0.1 higher than an existing in game eq item... A MAX_DEX clasp for instance is probably worth 2000-2500 drachma, but in most current items is only worth 300-500 because the net effect is only -0.1.
+This creates a conflict with MAX\_DEX which was priced in at 500 drachma... but of course there is not a single item with MAX\_DEX that increases your AC by the full -0.5 because all the items have lower AC and the net effect is often only -0.1 higher than an existing in game eq item... A MAX\_DEX clasp for instance is probably worth 2000-2500 drachma, but in most current items is only worth 300-500 because the net effect is only -0.1.
 
 The other thing to note is the game has changed with goblets and blue potions. In my opinion AC and Mana Regen are no longer as valuable as they once were, this is not being reflected in some old drachma items.
 
@@ -207,31 +207,31 @@ Remember this is only a guide...
 
 Here is some examples of how you could use my guide to suggest a drachma value for an item... lets say you had these in mind... 
 
--0.5 WRIST with +1 WEAPON_DAM.
+\-0.5 WRIST with +1 WEAPON\_DAM.
 
-The highest ac wrist with damage is currently -0.2, the -0.5 does not exceed the max ac of wrist items in the game. So effectively the price of this item is 3 x -0.1 REGULAR AC CHARGE + WEAPON_DAM CHARGE.
+The highest ac wrist with damage is currently -0.2, the -0.5 does not exceed the max ac of wrist items in the game. So effectively the price of this item is 3 x -0.1 REGULAR AC CHARGE + WEAPON\_DAM CHARGE.
 
 (3 x 100) + (1 x 250) = 550 +/- Drachma.
 
--0.7 ARMS with +3 WEAPON_DAM.
+\-0.7 ARMS with +3 WEAPON\_DAM.
 
 The highest ac arms is currently -0.9. This basically makes the cost of the item 3 weapon dam charges...
 
 (3 x 250) = 750 +/- Drachma
 
--0.5 ROBE with +2 MANA REGEN + 1 MAX_INT
+\-0.5 ROBE with +2 MANA REGEN + 1 MAX\_INT
 
-The ac value of this robe is no extra value, only the 1 mana regen point is chargable on regular items and the MAX_INT...
+The ac value of this robe is no extra value, only the 1 mana regen point is chargable on regular items and the MAX\_INT...
 
 (1 x 400) + (1 x 250) = 650 +/- Drachma
 
-Adding HP's, MP's, MV's, +1 HIT, SPELL_SAVE can make a price that little bit more attractive if it seems high.
+Adding HP's, MP's, MV's, +1 HIT, SPELL\_SAVE can make a price that little bit more attractive if it seems high.
 
 </div>
 
 <div class="post" data-post-id="37568" data-author="Zlodiak" data-date="2016-11-28T07:16:57+00:00" data-subject="Re: Suggested Solution for Drachma Eq Problem">
 
-Sooo hard :)
+Sooo hard <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 I tried to handle with AC.
 
@@ -253,11 +253,11 @@ For worse AC robes it should be substraction from price for AC penalty, but i'm 
 
 But, trying to handle other bonuses it become much more complex.
 
-I tried to calculate price for -1.4 helm with my formula, considering price of 250 for max_stat and 100 for -saves.
+I tried to calculate price for -1.4 helm with my formula, considering price of 250 for max\_stat and 100 for -saves.
 
 Also, i was considering the difficulty of getting ingame eq (well, manually, hard to deal with it too).
 
-So, best AC ingame helm is -1.3 +max_con -saves. Difficulty of getting it is quite low.
+So, best AC ingame helm is -1.3 +max\_con -saves. Difficulty of getting it is quite low.
 
 I got a price for -1.4 helm = 95 drachma.
 
@@ -269,13 +269,13 @@ Well, it looks... interesting. May be 970 is even too high price, not sure.
 
 The problem is that ingame helm is too good. 
 
-I'd say this +max_con should be not +250 drachma, but multiply to AC price somehow. 
+I'd say this +max\_con should be not +250 drachma, but multiply to AC price somehow. 
 
-There is huge difference between -1.2 +max_con and -1.3 +max_con or -1.2 +max_con and -1 +max_con. 
+There is huge difference between -1.2 +max\_con and -1.3 +max\_con or -1.2 +max\_con and -1 +max\_con. 
 
-The value of max_con changes high because of AC.
+The value of max\_con changes high because of AC.
 
-So, for -1.3 helm the value of max_con might be more than 250 and for worse items it could be less than 250.
+So, for -1.3 helm the value of max\_con might be more than 250 and for worse items it could be less than 250.
 
 </div>
 
@@ -283,9 +283,9 @@ So, for -1.3 helm the value of max_con might be more than 250 and for worse item
 
 Well, talking about mythical -0.8 robe for 3125 drachmas.
 
--0.8 +max_con definetely shouldn't be 3125+250 = 3375 drachmas.
+\-0.8 +max\_con definetely shouldn't be 3125+250 = 3375 drachmas.
 
-I'd say it should be about 6-12k drachmas :)
+I'd say it should be about 6-12k drachmas <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 P.S. I understand it's unreal eq and unreal prices, it's just an example to make things more clear.
 
@@ -297,9 +297,9 @@ I'd be interested to see your formula Z, please share...
 
 You do raise a valid point though... the value of drachma eq is proportional to how much better it is than in game eq. With the invention of the Roberts Hat, the drachma warrior helms have effectively been downgraded in value.
 
-Using my formula for your -0.8 + MAX_CON robe...
+Using my formula for your -0.8 + MAX\_CON robe...
 
-It's 3 AC points over in game eq at about 500 each plus your MAX_CON at 250, so about 1750 drachma.
+It's 3 AC points over in game eq at about 500 each plus your MAX\_CON at 250, so about 1750 drachma.
 
 This is actually achievable in the context of rebirths.
 
@@ -307,15 +307,15 @@ This is actually achievable in the context of rebirths.
 
 <div class="post" data-post-id="37571" data-author="Zlodiak" data-date="2016-11-28T08:03:37+00:00" data-subject="Re: Suggested Solution for Drachma Eq Problem">
 
-My formula is Price = 5*(-(AC-(best_ingame_AC+0,2))*10)^4.
+My formula is Price = 5\*(-(AC-(best\_ingame\_AC+0,2))\*10)^4.
 
 It works only for good AC items, at least +0.2 AC from best ingame. 
 
 For no/low AC items there should be different formula.
 
-1750 drachmas is too cheap price for -0.8 +max_con robe.
+1750 drachmas is too cheap price for -0.8 +max\_con robe.
 
-1750 is quite easy to achieve and this robe shouldn't be in game at all :)
+1750 is quite easy to achieve and this robe shouldn't be in game at all <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -325,13 +325,13 @@ Btw, if we can find acceptable trade courses for stats in AC points we can use m
 
 For example, 1 dex = 1 con = -0.06 AC.
 
-MAX_CON = -0.1 AC, MAX_DEX = -0.45 AC
+MAX\_CON = -0.1 AC, MAX\_DEX = -0.45 AC
 
 So, -0.5 +dex/con robe will cost 195 drachma.
 
--0.5 +max_con robe will cost like -0.6 robe  - 405 drachmas.
+\-0.5 +max\_con robe will cost like -0.6 robe - 405 drachmas.
 
--0.2 +max_dex robe will cost 750 drachmas. 
+\-0.2 +max\_dex robe will cost 750 drachmas. 
 
 We can change courses to get another results, but the idea is to get every tank item to poor AC and calculate price by AC formula.
 
@@ -341,7 +341,7 @@ We can change courses to get another results, but the idea is to get every tank 
 
 Z, for a formula to be judged as "good" it needs to "more a less" replicate the status quo. The difference between your formula and mine is that mine uses actual avg values based on current drachma eq and is therefore "more in tune" with current pricing, well yours comes in low for small ac and insanely high for high ac (because your formula has an exponential component - ^).
 
-I mentioned at the start, a collaborative solution would need to be sensible. I doubt the immortals are going to be interested in implementing a bunch of max_ac items that totally depart from the normal. Drachma eq tends to run somewhere between in game eq and 3x40 eq in stat and prices. I think we would be wise to stick with this groove.
+I mentioned at the start, a collaborative solution would need to be sensible. I doubt the immortals are going to be interested in implementing a bunch of max\_ac items that totally depart from the normal. Drachma eq tends to run somewhere between in game eq and 3x40 eq in stat and prices. I think we would be wise to stick with this groove.
 
 This in my opinion is an opportunity for players to ensure that at sometime along there player careers it's at least possible to cap in there favorite stats. I'm not sure it's much else. We need to be careful we don't erode the projects credibility. The reason I started to talk about pricing, was to provide a basis to players who will take things to extremes. It's not productive for us to go there.
 
@@ -361,7 +361,7 @@ an adamantite-plated knight's war robe -0.6
 
 Well, not too many pure AC items here.
 
-Let's get some dex, con, max_dex, max_con items, because we both can calculate it now.
+Let's get some dex, con, max\_dex, max\_con items, because we both can calculate it now.
 
 First of all, helm.
 
@@ -369,27 +369,27 @@ There is an Olthoi Great Helm in eq list -1.5 +3 resfire
 
  real price: 1100, by your formula it should be 750, by my new formula: 405.
 
-The helm gets -0.2 AC and loses max_con. By your formula it's +2*500 -250 = 750 drachmas.
+The helm gets -0.2 AC and loses max\_con. By your formula it's +2\*500 -250 = 750 drachmas.
 
-By my new formula, where i count 1 max_con as -0.1 AC, it's 405.
+By my new formula, where i count 1 max\_con as -0.1 AC, it's 405.
 
 I didn't count -saves in both cases.
 
 So, both our formulas differs from real price a lot here.
 
-Redsteel Legplates of Hades -1.7 +max_con
+Redsteel Legplates of Hades -1.7 +max\_con
 
  real price: 600, G-formula: 250, Z-formula: 405
 
-Hiddenite-Encrusted Guards: -0.4 +max_dex
+Hiddenite-Encrusted Guards: -0.4 +max\_dex
 
  real price: 800, G-formula: 250?, Z-formula: 80
 
-It also looks like the price for -0.5 +max_dex in your formula will be 250 too.
+It also looks like the price for -0.5 +max\_dex in your formula will be 250 too.
 
-Well, max_dex is special stat, let's ignore it yet.
+Well, max\_dex is special stat, let's ignore it yet.
 
-amethyst-inlaid mithril bracers of the Dwarf Lords -0.8 +max_con
+amethyst-inlaid mithril bracers of the Dwarf Lords -0.8 +max\_con
 
  real price: 370, G-formula: 250, Z-formula: 405
 
@@ -399,7 +399,7 @@ a dwarven robe of stoutness/an elven cloak of agility -0.5 +con/dex
 
 I'd say my formula replicate the status quo even better than your, while both formulas have some problems and needs to be improved.
 
-Also, it shows some problems with current pricing, i definetely not going to pay 800 drachma for Hiddenite-Encrusted Guards to trade max_con (on my -0.8 +max_con guards) for -0.1 AC.
+Also, it shows some problems with current pricing, i definetely not going to pay 800 drachma for Hiddenite-Encrusted Guards to trade max\_con (on my -0.8 +max\_con guards) for -0.1 AC.
 
 Just noticed u count -0.1 AC as 500 drachma, not 100, fixed calculations above.
 
@@ -407,9 +407,9 @@ Well, actually, our formulas looks similiar with not too OP items.
 
 With this eq the difference is only at cost of AC/stats.
 
-Your point of AC costs 500, mine 405, your point of max_con costs 250, mine 405.
+Your point of AC costs 500, mine 405, your point of max\_con costs 250, mine 405.
 
-The real difference will be at ultimate eq, not sure it's even implemented :)
+The real difference will be at ultimate eq, not sure it's even implemented <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 But i'm pretty sure the price should raise exponentially.
 
@@ -419,56 +419,56 @@ But i'm pretty sure the price should raise exponentially.
 
 AC is only priced at about 100 drachma, if the item eq is as good as top in game eq. AC is priced at about 500 for each AC point the item goes over established norms.
 
-> **Zlodiak wrote:**
+> <strong>Zlodiak wrote:</strong>
 > Let's compare our formulas on pure AC eq:
 > 
 > Walls of Jericho -1.3 +3hpr +20flail dam, best ingame -1.2 (hard to get)
 > 
->  real price: 690, by your formula: 100(?), by my formula: 405 (+bonus for difficulty).
+> real price: 690, by your formula: 100(?), by my formula: 405 (+bonus for difficulty).
 
 Incorrect, 500 + drachma for 20 flail (Probably + 100) + drachma for 3HP Regen
 
-> **Zlodiak wrote:**
+> <strong>Zlodiak wrote:</strong>
 > an adamantite-plated knight's war robe -0.6
 > 
->  real price: 350, by your formula: 100, by my formula: 405
+> real price: 350, by your formula: 100, by my formula: 405
 
 Incorrect, 500 by my formula.
 
-> **Zlodiak wrote:**
+> <strong>Zlodiak wrote:</strong>
 > There is an Olthoi Great Helm in eq list -1.5 +3 resfire
 > 
->  real price: 1100, by your formula it should be, hmm, -50 or something? :), by my new formula: 405.
+> real price: 1100, by your formula it should be, hmm, -50 or something? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">, by my new formula: 405.
 
 Incorrect, 1000 by my formula + Drachma for Resist Fire.
 
-> **Zlodiak wrote:**
-> Redsteel Legplates of Hades -1.7 +max_con
+> <strong>Zlodiak wrote:</strong>
+> Redsteel Legplates of Hades -1.7 +max\_con
 > 
->  real price: 600, G-formula: 250, Z-formula: 405
+> real price: 600, G-formula: 250, Z-formula: 405
 
 Incorrect, 350 by my formula.
 
-> **Zlodiak wrote:**
-> Hiddenite-Encrusted Guards: -0.4 +max_dex
+> <strong>Zlodiak wrote:</strong>
+> Hiddenite-Encrusted Guards: -0.4 +max\_dex
 > 
->  real price: 800, G-formula: 250?, Z-formula: 80
+> real price: 800, G-formula: 250?, Z-formula: 80
 
 Incorrect, 500 by my formula.
 
-> **Zlodiak wrote:**
-> amethyst-inlaid mithril bracers of the Dwarf Lords -0.8 +max_con
+> <strong>Zlodiak wrote:</strong>
+> amethyst-inlaid mithril bracers of the Dwarf Lords -0.8 +max\_con
 > 
->  real price: 370, G-formula: 250, Z-formula: 405
+> real price: 370, G-formula: 250, Z-formula: 405
 
 Incorrect, 350 by my formula.
 
-> **Zlodiak wrote:**
+> <strong>Zlodiak wrote:</strong>
 > a dwarven robe of stoutness/an elven cloak of agility -0.5 +con/dex
 > 
->  real price: 150, G-formula: 200, Z-formula: 195
+> real price: 150, G-formula: 200, Z-formula: 195
 
-Correct!  :shock: 
+Correct! <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
 It must be noted that robes are normally the best value items. The formula's are only to provide guidelines. Using guidelines makes it possible to compare one item against another fairly. I never suggested that the formula would decide the exact price and that was final. AC is overpriced with Goblets these days.
 
@@ -478,13 +478,13 @@ It must be noted that robes are normally the best value items. The formula's are
 
 Taron has updated the spreadsheet! Slowly things come together...
 
-<LINK_TEXT text="https://docs.google.com/spreadsheets/d/ ... sp=sharing">https://docs.google.com/spreadsheets/d/1ufWy039_Pguog7cNETf7oVxuPNeyRYfRd-pYQKhswRs/edit?usp=sharing</LINK_TEXT>
+https://docs.google.com/spreadsheets/d/1ufWy039_Pguog7cNETf7oVxuPNeyRYfRd-pYQKhswRs/edit?usp=sharing
 
-* Taron has added the current drachma eq items in a second sheet. I will flag items that are not much better than in game eq next.
+\* Taron has added the current drachma eq items in a second sheet. I will flag items that are not much better than in game eq next.
 
-* I've also kicked us off with some new sensible item suggestions, based on warrior eq of course... I'm hardly going to suggest bard eq am I... Sochi/Oboe, where are you?
+\* I've also kicked us off with some new sensible item suggestions, based on warrior eq of course... I'm hardly going to suggest bard eq am I... Sochi/Oboe, where are you?
 
-Bring on the flames retards!  :twisted:
+Bring on the flames retards! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -498,7 +498,7 @@ Personally I'm still not even sure what the role of drachma eq should be. I'm no
 
 <div class="post" data-post-id="37579" data-author="Zlodiak" data-date="2016-11-28T13:40:29+00:00" data-subject="Re: Suggested Solution for Drachma Eq Problem">
 
-Good news, these goblets are just insane :)
+Good news, these goblets are just insane <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 I'd like the idea to have drachma eq as alternate effects eq with similiar to ingame eq power.
 
@@ -528,19 +528,19 @@ For example, lets say there were a whole shop full of different drachma lights o
 
 And another way to do it is to open the Amazing Gnomish Design Workshop, where players can:
 
-- buy an ac base for an item
+\- buy an ac base for an item
 
-- buy affects
+\- buy affects
 
-- adding to the same effect costs 10% more
+\- adding to the same effect costs 10% more
 
-- additional (3d, 4th) effects cost 20% more.
+\- additional (3d, 4th) effects cost 20% more.
 
 This would close two problems:
 
-- the need to draw and discuss new EQ ideas from players/imms
+\- the need to draw and discuss new EQ ideas from players/imms
 
-- the need for various and versatile drachma items.
+\- the need for various and versatile drachma items.
 
 Of course, there should be a mechanism to cap it, like the total amount of power in an item, e.g. based on the level and ac of the base, which is different for each class. I've drafted an initial suggestion, but I need Gorka's points info to create a spreadsheet prototype. And time. I need more time.
 

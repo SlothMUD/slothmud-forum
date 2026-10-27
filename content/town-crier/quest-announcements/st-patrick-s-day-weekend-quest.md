@@ -14,7 +14,7 @@ post_count: 1
 
 Good evening Slothers,
 
-At 10AM on Sunday 3/15/2020 we will have a quest.  Of some sort.
+At 10AM on Sunday 3/15/2020 we will have a quest. Of some sort.
 
 Working it out but probably epics and drachma will be had.
 
@@ -22,8 +22,8 @@ See you there.
 
 Countdown timer below:
 
-[<LINK_TEXT text="https://www.tickcounter.com/countdown/1 ... kend-quest">https://www.tickcounter.com/countdown/1840776/2020-slothmud-st-patricks-day-weekend-quest</LINK_TEXT>](https://www.tickcounter.com/countdown/1840776/2020-slothmud-st-patricks-day-weekend-quest)
+[https://www.tickcounter.com/countdown/1840776/2020-slothmud-st-patricks-day-weekend-quest](https://www.tickcounter.com/countdown/1840776/2020-slothmud-st-patricks-day-weekend-quest)
 
---D
+\--D
 
 </div>

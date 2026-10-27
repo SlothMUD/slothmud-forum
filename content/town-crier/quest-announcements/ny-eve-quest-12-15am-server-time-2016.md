@@ -16,7 +16,7 @@ Theme to be announced.
 
 If still going as 12AM Pacific approaches, we'll break for their NY countdown, etc..
 
--JB
+\-JB
 
 </div>
 
@@ -34,33 +34,33 @@ The quest had been initiated by Rusalka, who told us that her insane sisters sum
 
 Group 'helping/killing Rusalka' is led by Taron and consists of:
 
-   (Dead)            Taron [Wa:7.22  -79hp 190ma 309mv] t.jade/c.sapphire             
+ (Dead) Taron [Wa:7.22 -79hp 190ma 309mv] t.jade/c.sapphire 
 
-   (Dead)           Josiah [Wa:9.40  -27hp 336ma 450mv] gwdiamond|jet                 
+ (Dead) Josiah [Wa:9.40 -27hp 336ma 450mv] gwdiamond\|jet 
 
-   (Dead)             Yang [Mo:4.38  -88hp 230ma 362mv] avent|alex                    
+ (Dead) Yang [Mo:4.38 -88hp 230ma 362mv] avent\|alex 
 
-   (Dead)            Alris [Wa:9.40  -90hp 669ma 471mv] black onyx / tourmaline       
+ (Dead) Alris [Wa:9.40 -90hp 669ma 471mv] black onyx / tourmaline 
 
-   (Dead)              Jex [Wa:5.32  -32hp  64ma 328mv] Obsidian | Jet                
+ (Dead) Jex [Wa:5.32 -32hp 64ma 328mv] Obsidian \| Jet 
 
-   (Dead)             Zuzu [Cl:9.40  -44hp 508ma 325mv] PSSapphire|SmQuartz           
+ (Dead) Zuzu [Cl:9.40 -44hp 508ma 325mv] PSSapphire\|SmQuartz 
 
-   (Dead)            Risky [Th:3.35  -64hp 214ma 398mv] eye agate/chrysoprase         
+ (Dead) Risky [Th:3.35 -64hp 214ma 398mv] eye agate/chrysoprase 
 
-   (Dead)            Sochi [Ba:5.34 -125hp 250ma 357mv] vgarnet|BQuartz               
+ (Dead) Sochi [Ba:5.34 -125hp 250ma 357mv] vgarnet\|BQuartz 
 
-   (Dead)             Linx [Wa:8.39  -30hp 352ma 286mv] ---
+ (Dead) Linx [Wa:8.39 -30hp 352ma 286mv] ---
 
-   (Dead)               Dr [Dr:9.40  -55hp 1237ma 306mv] Chryso . TEye                 
+ (Dead) Dr [Dr:9.40 -55hp 1237ma 306mv] Chryso . TEye 
 
-   (Dead)               Ip [Mo:8.34 -101hp 282ma 417mv] S Ruby | Ruby                 
+ (Dead) Ip [Mo:8.34 -101hp 282ma 417mv] S Ruby \| Ruby 
 
-                    Fluffy [Dr:9.40  435hp 807ma  38mv] Jacinth / Rhodo               
+ Fluffy [Dr:9.40 435hp 807ma 38mv] Jacinth / Rhodo 
 
-                       Afk [Dr:1.39  149hp 372ma  38mv] Lapus | B Agate               
+ Afk [Dr:1.39 149hp 372ma 38mv] Lapus \| B Agate 
 
- (Absent)          Raphael [Mo:4.36  735hp 163ma 371mv] malachite | t-eye 
+ (Absent) Raphael [Mo:4.36 735hp 163ma 371mv] malachite \| t-eye 
 
 But because of heroic and smart actions of someone(can't remember who exactly) we were saved.
 
@@ -82,9 +82,7 @@ Taron gets a burlap sack from the corpse of Tarrasque that's on the ground.
 
 Taron gets gold coins from the corpse of Tarrasque that's on the ground.
 
-Taron splits 110000 coins.  Your share is 7857 coins.
-
- 
+Taron splits 110000 coins. Your share is 7857 coins.
 
 The burlap sack contained many 'unconditional love of a clown' . One for each member. It could do following things:
 
@@ -104,7 +102,7 @@ That's it. First of all, thanks JB for fun quest with generous rewards. Thanks T
 
 And sorry for the bad English.
 
-**p.s.** After some time we fought with another large mob and found out that it doesnt crash the MUD anymore:
+<strong>p.s.</strong> After some time we fought with another large mob and found out that it doesnt crash the MUD anymore:
 
 The Dragon Goddess Takhisis is dead! R.I.P.
 
@@ -122,7 +120,7 @@ Taron gets a glowing sliver of steel from the corpse of The Dragon Goddess Takhi
 
 Taron gets gold coins from the corpse of The Dragon Goddess Takhisis that's on the ground.
 
-Taron splits 100000 coins.  Your share is 9090 coins.
+Taron splits 100000 coins. Your share is 9090 coins.
 
 Happy New Year!
 

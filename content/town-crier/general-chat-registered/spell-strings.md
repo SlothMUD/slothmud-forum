@@ -20,7 +20,7 @@ Example, firewind
 
 Demogorgon vanishes in a burning wind.
 
-You are blasted by a painful burning wind!!  THAT REALLY HURT!!
+You are blasted by a painful burning wind!! THAT REALLY HURT!!
 
 Enjoy,
 
@@ -32,7 +32,7 @@ Ill give 5 drachma per string I use....
 
 <div class="post" data-post-id="9699" data-author="Rynquald" data-date="2005-12-01T02:41:19+00:00" data-subject="">
 
-Firstly, i have never written anything at all before, so these quite possibly may suck :) They might also be a bit long/melodramatic in places, but i like the spells you can get your teath into.
+Firstly, i have never written anything at all before, so these quite possibly may suck <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> They might also be a bit long/melodramatic in places, but i like the spells you can get your teath into.
 
 Frostbolt:
 
@@ -74,7 +74,7 @@ The world turns completely white and you feel razor sharp shards of ice swirl ar
 
 You summon the powers of winter to send a lethal blizzard upon Demogorgon.
 
-Please don't laugh at me :D
+Please don't laugh at me <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 

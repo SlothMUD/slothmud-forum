@@ -22,6 +22,6 @@ Please contact Splork@slothmud.org for any further information.
 
 <div class="post" data-post-id="33332" data-author="Stark" data-date="2012-06-07T14:03:14+00:00" data-subject="Re: Coder wanted (FLEX)">
 
-You probably have no use for an inexperienced flex developer then.  I just started a project at work that I had to load up Flash Builder for.  Good luck filling the position.  :)
+You probably have no use for an inexperienced flex developer then. I just started a project at work that I had to load up Flash Builder for. Good luck filling the position. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

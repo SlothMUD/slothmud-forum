@@ -12,11 +12,11 @@ post_count: 6
 
 <div class="post" data-post-id="7780" data-author="Asami" data-date="2005-07-08T03:24:59+00:00" data-subject="Who&#x27;d a thunk it?">
 
-The day that we thought would never come has arrived.  My area is completed and attached.
+The day that we thought would never come has arrived. My area is completed and attached.
 
 No opener for now, but the area should be discovered shortly by one of you folks.
 
-*Asami*
+\*Asami\*
 
 </div>
 
@@ -32,15 +32,13 @@ Lyme.
 
 You'll be looking for an invitation of sorts.
 
-*Asami*
+\*Asami\*
 
 </div>
 
 <div class="post" data-post-id="7783" data-author="Gnu" data-date="2005-07-08T07:37:24+00:00" data-subject="">
 
 Thanks for new areas... changes, filling gaps, fixing bugs... but can't omit the following
-
- 
 
 ask boy about news
 
@@ -58,7 +56,7 @@ Diamonds.
 
 <div class="post" data-post-id="7832" data-author="Deju" data-date="2005-07-11T17:01:44+00:00" data-subject="Need Help!">
 
-Well, i have died in Asami's new area on lyme.  Unfortunately a pink invitation is required to get into the area, so i cannot get my (or madmax's) corpse back.
+Well, i have died in Asami's new area on lyme. Unfortunately a pink invitation is required to get into the area, so i cannot get my (or madmax's) corpse back.
 
 So, if anyone happens to have a pink invitation, please find a quick second to log in and give it to me so i can salvage our corpses.
 

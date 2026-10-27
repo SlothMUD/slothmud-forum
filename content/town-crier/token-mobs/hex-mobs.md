@@ -14,7 +14,7 @@ post_count: 15
 
 I'm looking at my char and once again discovered that if I'm going to be serious, I need to reroll for better str.
 
-I need help with identifying some hex mobs to run.  So far, I've got at least three mobs for sure that I know load hexes.  [clay golem,asylum cook and another].  However, they're all on different continents.
+I need help with identifying some hex mobs to run. So far, I've got at least three mobs for sure that I know load hexes. [clay golem,asylum cook and another]. However, they're all on different continents.
 
 So, if anyone would like to share their list with me, I'd appreciate it.
 
@@ -26,13 +26,13 @@ Icefyre
 
 <div class="post" data-post-id="8558" data-author="12345" data-date="2005-09-07T14:14:48+00:00" data-subject="">
 
-A couple more I know on BH are the Rat boy in the asylum and the fishermen in CF, though I'm nore sure how frequently.  The penguin king on AH also pops them.
+A couple more I know on BH are the Rat boy in the asylum and the fishermen in CF, though I'm nore sure how frequently. The penguin king on AH also pops them.
 
 The Russians have a couple good resources for this kinda thing:
 
 [http://sloth.eunet.lv/eq/showitem.phtml?id=6CT4Cg5101](http://sloth.eunet.lv/eq/showitem.phtml?id=6CT4Cg5101)
 
-The SlothWiki has some good lists of token mobs, but is down for maintenance at the moment.  I'd check that out when it's back up too.
+The SlothWiki has some good lists of token mobs, but is down for maintenance at the moment. I'd check that out when it's back up too.
 
 </div>
 
@@ -94,27 +94,27 @@ Matthias in Mansion of the Mourned, Unai at a really high rate, Stancil Scar, Wo
 
 <div class="post" data-post-id="26920" data-author="jezer" data-date="2008-11-01T00:45:27+00:00" data-subject="">
 
-Remora -> crystal falls
+Remora -\> crystal falls
 
-Zombie -> catacombs
+Zombie -\> catacombs
 
-You -> clouds
+You -\> clouds
 
-Elite next to Lord Abandon -> shadow keep
+Elite next to Lord Abandon -\> shadow keep
 
-Dark temple monks -> Balrog's Temple
+Dark temple monks -\> Balrog's Temple
 
-Wolf Pack Leader -> Murkwood
+Wolf Pack Leader -\> Murkwood
 
-Prince -> Wagoneers
+Prince -\> Wagoneers
 
-Witch -> Arbo
+Witch -\> Arbo
 
-Maenad -> Greek Forest
+Maenad -\> Greek Forest
 
-Khalagan -> Tower of Nexalism
+Khalagan -\> Tower of Nexalism
 
-Ether Dragon (AH) -> Ether
+Ether Dragon (AH) -\> Ether
 
 A couple of these may have been random pops.
 
@@ -140,7 +140,7 @@ Sash Lieu (Dark Dreams) AH
 
 <div class="post" data-post-id="26940" data-author="Virus" data-date="2008-11-01T14:42:09+00:00" data-subject="">
 
-Chicken at Lyme dock  :D
+Chicken at Lyme dock <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -148,7 +148,7 @@ Chicken at Lyme dock  :D
 
 Hex mobs?
 
-Perhaps we can update this again.  I am not seeing many hexes on Zombies in Cata, or Cook in asylum who I used to hit for Hexes.  I'm espicially looking for the easier mobs that a lower ranked player can solo.   Thanks
+Perhaps we can update this again. I am not seeing many hexes on Zombies in Cata, or Cook in asylum who I used to hit for Hexes. I'm espicially looking for the easier mobs that a lower ranked player can solo. Thanks
 
 </div>
 
@@ -160,6 +160,6 @@ If you got ac, and some output, you can try the prince over at wagoneers, probab
 
 Er... maenads still pop in the greek forest. Think only the stick thrower.
 
-And er, that's all for now :D
+And er, that's all for now <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>

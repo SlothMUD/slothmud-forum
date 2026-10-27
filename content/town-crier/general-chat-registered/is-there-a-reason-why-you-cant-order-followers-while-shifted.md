@@ -12,7 +12,7 @@ post_count: 5
 
 <div class="post" data-post-id="21803" data-author="Dragoth" data-date="2007-12-27T22:53:19+00:00" data-subject="Is there a reason why you cant order followers while shifted">
 
-Just wonder what that might be ?  :roll:
+Just wonder what that might be ? <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -28,13 +28,13 @@ DING DING DING!!!
 
 Van is correct, there was a good amount of Necro/Druid at the begining.
 
-Ppl where shifting and then order summons to attack.  This was way over
+Ppl where shifting and then order summons to attack. This was way over
 
 powering, so Imms took the ability to order while summon away.
 
 Now if ur really fast, and the mob is really slow ... U might be able to order
 
-and then shift.  However I heard that either the summons stop attacking,
+and then shift. However I heard that either the summons stop attacking,
 
 or u get dragged in before u can shift.
 

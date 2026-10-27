@@ -16,14 +16,14 @@ Hail fella!
 
 As i promised, here comes script that parse MSDP vars from SlothMUD to array of variables @MSDP. 
 
-You can get vars with query @MSDP.CHARACTER_NAME or @MSDP.MANA, @MSDP.SEX and so on... 
+You can get vars with query @MSDP.CHARACTER\_NAME or @MSDP.MANA, @MSDP.SEX and so on... 
 
-- **So it will be**:
-- #SHOW @MSDP.CHARACTER_NAME
-- #SHOW @MSDP.MANA
-- #SHOW @MSDP.SEX
-- #SHOW ... (around 60-70 vars available).
-- Profit ;-)
+- <strong>So it will be</strong>:
+- \#SHOW @MSDP.CHARACTER\_NAME
+- \#SHOW @MSDP.MANA
+- \#SHOW @MSDP.SEX
+- \#SHOW ... (around 60-70 vars available).
+- Profit <img src="/images/smilies/icon_e_wink.svg" alt=";-)" title=";-)" width="15" height="15" class="smiley nozoom">
 
 Script attached.
 
@@ -39,16 +39,16 @@ p.s. looking for your feedback. Thanks!
 
 p.p.s Thanks for imms to implement such great feature. Splork for and breeze helped with testing very much!
 
-Update 1: **New version posted. Thanks for feedback everyone!**
+Update 1: <strong>New version posted. Thanks for feedback everyone!</strong>
 
-Update 2: **Updated again. Everything is commented!Check it out!**
+Update 2: <strong>Updated again. Everything is commented!Check it out!</strong>
 
-Update 3: **Updated! New vars!**
+Update 3: <strong>Updated! New vars!</strong>
 
 </div>
 
 <div class="post" data-post-id="38892" data-author="norks" data-date="2018-06-13T11:43:59+00:00" data-subject="Re: CMUD MSDP Scripts! Parse MSDP right into CMUD. (ver. 1.8">
 
-Does anyone have this script  for Zmud?
+Does anyone have this script for Zmud?
 
 </div>

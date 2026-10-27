@@ -16,7 +16,7 @@ no high hopes for this one....
 
 just wishing...
 
-brand :evil:
+brand <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -24,6 +24,6 @@ brand :evil:
 
 no longer wtb...
 
- :twisted:  :!:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom">
 
 </div>

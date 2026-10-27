@@ -18,7 +18,7 @@ Hello, dear Slothers! Just seen something about rebirth feature? Where i can rea
 
 <div class="post" data-post-id="38341" data-author="Gorka" data-date="2017-07-25T21:22:55+00:00" data-subject="Re: Stranger from past.">
 
-> **Quote:**
+> <strong>Quote:</strong>
 > REBIRTH REBORN
 > 
 > There are 2 types of character rebirth.
@@ -27,13 +27,13 @@ Hello, dear Slothers! Just seen something about rebirth feature? Where i can rea
 > 
 > Option 1:
 > 
-> levels reset to 1 1 0 0 0 0 0 0 0  (no reroll at 8x1) [easier option]
+> levels reset to 1 1 0 0 0 0 0 0 0 (no reroll at 8x1) [easier option]
 > 
 > 
 > 
 > Option 2:
 > 
-> levels reset to 1 0 0 0 0 0 0 0 0  (with reroll at 8x1) [harder option. allows partial reclass]
+> levels reset to 1 0 0 0 0 0 0 0 0 (with reroll at 8x1) [harder option. allows partial reclass]
 > 
 > 
 > 
@@ -113,23 +113,23 @@ Hello, dear Slothers! Just seen something about rebirth feature? Where i can rea
 
 Current players generally look on the idea favorably... but within the bounds of certain reasons. The main advantages being the following...
 
-* Replay of quests, which yields another 4.5k+ drachma.
+\* Replay of quests, which yields another 4.5k+ drachma.
 
-* Faster progression of epic rank.
+\* Faster progression of epic rank.
 
-* A small rebirth bonus.
+\* A small rebirth bonus.
 
-* Double xp
+\* Double xp
 
 Other players point out some issues...
 
-* Drachma eq, kind of needs redoing, a lot of items are worthless or completely inferior to in game pops. 
+\* Drachma eq, kind of needs redoing, a lot of items are worthless or completely inferior to in game pops. 
 
-* The epic rank system goes up exponentially, and the clasp improvements past the power rank probably aren't even going to be needed by most players.
+\* The epic rank system goes up exponentially, and the clasp improvements past the power rank probably aren't even going to be needed by most players.
 
-* Unless you are maxing avatar shop, the double xp bonus isn't worth it.
+\* Unless you are maxing avatar shop, the double xp bonus isn't worth it.
 
-* You'll have to pay the 890m level gold to get avatar again.
+\* You'll have to pay the 890m level gold to get avatar again.
 
 Breeze has mentioned some day he might make a rebirth shop or perhaps even review avatar shop, if that happens rebirth might be more interesting, but at the moment it's not really a "given" that the way forward is to rebirth... it really does depend on the players circumstances. Rebirth actually mostly came about by accident when Josiah (Ditheca) asked Breeze to replay the game... and a bunch of people said, hey, that's a good idea... can we all do that? Breeze then thrashed out this system.
 

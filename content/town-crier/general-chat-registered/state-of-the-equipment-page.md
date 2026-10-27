@@ -28,12 +28,12 @@ thanks for any info.
 
 <div class="post" data-post-id="39606" data-author="Gorka" data-date="2020-11-11T06:24:06+00:00" data-subject="Re: State of the equipment page?">
 
-> **cnl wrote:**
+> <strong>cnl wrote:</strong>
 > Is the equipment site updated automatically from the mud
 
 Yes.
 
-> **cnl wrote:**
+> <strong>cnl wrote:</strong>
 > It seems to be missing some equipment, like the gold chain from the golem in the sewers below BH.
 
 Some old items are malformed and have been excluded accidentally in the past. An immortal will have to fix the item. I think sewers is one of the oldest areas so it doesn't surprise me.

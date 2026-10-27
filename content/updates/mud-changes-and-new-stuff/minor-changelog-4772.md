@@ -32,7 +32,7 @@ Let us know if you experience anything wonky as a result.
 
 Thanks.
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -40,9 +40,9 @@ Thanks.
 
 A couple other things went in today:
 
-1) Vault maximum capacity has been raised to 100 and the contents will show one page at a time.
+1\) Vault maximum capacity has been raised to 100 and the contents will show one page at a time.
 
-2) I updated the SCHEDULE command so that you can enter a continent name or its abbreviation as a filter.  I also highlighted some of the items in the list - I'm not sure if it looks better now or worse but things like the ticket and continents stand out more.
+2\) I updated the SCHEDULE command so that you can enter a continent name or its abbreviation as a filter. I also highlighted some of the items in the list - I'm not sure if it looks better now or worse but things like the ticket and continents stand out more.
 
 </div>
 
@@ -60,6 +60,6 @@ you should very easily be able to see where if you don't discover it sooner than
 
 Enjoy.
 
--Neptune
+\-Neptune
 
 </div>

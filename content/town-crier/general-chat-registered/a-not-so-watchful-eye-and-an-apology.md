@@ -30,7 +30,7 @@ I'm really sorry that you guys feel this way and I know I have been the cause of
 
 Talk to me online, express your concerns with me via tells and emails. I have gotten to know a ton of the players this way and the results are usually satisfactory for all involved. We meet in the middle now, we listen to both sides, and we try to come to a mutual agreement.
 
-This mud, this version of the mud, has not been ruled by an iron fist but instead by all of us.  I really hope you guys can see that because it is true. 
+This mud, this version of the mud, has not been ruled by an iron fist but instead by all of us. I really hope you guys can see that because it is true. 
 
 Splork
 

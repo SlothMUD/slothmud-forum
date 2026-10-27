@@ -12,17 +12,17 @@ post_count: 2
 
 <div class="post" data-post-id="2406" data-author="Tetsulunathaya" data-date="2004-10-22T02:51:44+00:00" data-subject="WTB: Skull of the Innocent">
 
-Looking for a skull of the innocent, will pay well (or as well as i can, depending on what you want :P)
+Looking for a skull of the innocent, will pay well (or as well as i can, depending on what you want <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">)
 
 Catch me on line if you have one your willing to part with.
 
-Thanks :)
+Thanks <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="2407" data-author="Evergreen" data-date="2004-10-22T05:17:10+00:00" data-subject="">
 
-this is rare piece of eq, dont know how much it could cost even :)
+this is rare piece of eq, dont know how much it could cost even <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 maybe 20+ mils...
 

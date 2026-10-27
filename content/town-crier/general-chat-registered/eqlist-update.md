@@ -12,7 +12,7 @@ post_count: 4
 
 <div class="post" data-post-id="13935" data-author="blackmore" data-date="2006-09-08T04:16:24+00:00" data-subject="EQList update">
 
-I know it's been a long time since I processed any updates, but I'm trying to get caught up.  I did a bunch of new restricts, some books, and a few others, including the forge in LAAAAM.
+I know it's been a long time since I processed any updates, but I'm trying to get caught up. I did a bunch of new restricts, some books, and a few others, including the forge in LAAAAM.
 
 If you have any updates you know of, please let me know.
 
@@ -28,7 +28,7 @@ I dont know the new stats, but pretty much all of the monk +hand damage eq was n
 
 <div class="post" data-post-id="13941" data-author="Diazz_Dizazter" data-date="2006-09-08T14:43:01+00:00" data-subject="">
 
-nice list :)
+nice list <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

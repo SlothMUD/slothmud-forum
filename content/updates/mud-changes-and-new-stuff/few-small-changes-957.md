@@ -12,13 +12,11 @@ post_count: 1
 
 <div class="post" data-post-id="5174" data-author="*Splork*" data-date="2005-03-18T17:31:50+00:00" data-subject="few small changes">
 
-1) New spell called Hedge maze. Thank Enea for the addition...
+1\) New spell called Hedge maze. Thank Enea for the addition...
 
- 
+2\) New spell called Succor. Help file to come eventually:-)
 
-2) New spell called Succor. Help file to come eventually:-)
-
-3) New thief avatar skill called Crippling Strike.
+3\) New thief avatar skill called Crippling Strike.
 
 Please refer to the helpfiles for more information.
 

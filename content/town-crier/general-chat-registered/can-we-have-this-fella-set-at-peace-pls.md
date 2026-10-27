@@ -30,41 +30,41 @@ Your blood freezes as you hear a girl in azure robes's death cry.
 
 You have been KILLED!! 
 
-<-167hp 259ma 102mv> -3 [storm] AC: -4.0
+\<-167hp 259ma 102mv\> -3 [storm] AC: -4.0
 
 Lie still; you are DEAD!!! :-( 
 
-<-167hp 259ma 102mv> -3 [storm] AC: -4.0
+\<-167hp 259ma 102mv\> -3 [storm] AC: -4.0
 
 You feel yourself floating upward...
 
-<-167hp 259ma 102mv> -3 [storm] AC: -4.0
+\<-167hp 259ma 102mv\> -3 [storm] AC: -4.0
 
 setti
 
 Lie still; you are DEAD!!! :-( 
 
-<-167hp 259ma 102mv> -3 [storm] AC: -4.0
+\<-167hp 259ma 102mv\> -3 [storm] AC: -4.0
 
 whe
 
-You are in Aisholm Town.  Also in this area are:
+You are in Aisholm Town. Also in this area are:
 
-Name                           - Location
+Name - Location
 
------------------------------------------
+\-----------------------------------------
 
-Beavis                         - The Wide Gate
+Beavis - The Wide Gate
 
-Kalor                          - The Wide Gate
+Kalor - The Wide Gate
 
-Toast                          - The Wide Gate
+Toast - The Wide Gate
 
 </div>
 
 <div class="post" data-post-id="19031" data-author="Autolycos" data-date="2007-06-22T11:59:49+00:00" data-subject="">
 
-lmfao!  :twisted: 
+lmfao! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 atta boy brady!
 
@@ -84,17 +84,17 @@ I was blind and drunk and aiming at Yinao...sorry bro, didn't even know until I 
 
 <div class="post" data-post-id="19037" data-author="Yinao" data-date="2007-06-22T19:55:37+00:00" data-subject="">
 
-Lmao, good stuff. :twisted:
+Lmao, good stuff. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="19051" data-author="Yasik" data-date="2007-06-24T18:45:48+00:00" data-subject="">
 
-Well, if you was aiming at Yinao, then its ok  :D 
+Well, if you was aiming at Yinao, then its ok <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> 
 
-But next time anybody kills my chars i  promise them will wake up in a world of pain. 
+But next time anybody kills my chars i promise them will wake up in a world of pain. 
 
-Dont login if you're drunk, trust me, been there, done that, got the scars (c) This game already has a drunken troublemaker and there's no place for 2nd one. 8)
+Dont login if you're drunk, trust me, been there, done that, got the scars (c) This game already has a drunken troublemaker and there's no place for 2nd one. <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 You guys should move your silly childish fighting games outta public places, imho. Especially outta those where casual passersby can get hurt.
 
@@ -102,7 +102,7 @@ You guys should move your silly childish fighting games outta public places, imh
 
 <div class="post" data-post-id="19052" data-author="Autolycos" data-date="2007-06-24T19:07:41+00:00" data-subject="">
 
-oh stfu yasik before i stab you in the face  :twisted:
+oh stfu yasik before i stab you in the face <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -114,7 +114,7 @@ oh stfu yasik before i stab you in the face  :twisted:
 
 <div class="post" data-post-id="19055" data-author="brady" data-date="2007-06-24T20:10:36+00:00" data-subject="">
 
-:roll:
+<img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -122,7 +122,7 @@ oh stfu yasik before i stab you in the face  :twisted:
 
 Eh, it comes with the territory yasix if you raised no harm no foul. Glad I got to see brady's aim when he is drunk tho thats good stuff...
 
-Auto can you aim good enough to hit a target so small? :wink:
+Auto can you aim good enough to hit a target so small? <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -134,9 +134,9 @@ indeed i can
 
 <div class="post" data-post-id="19059" data-author="Yinao" data-date="2007-06-25T03:04:57+00:00" data-subject="">
 
-[b:xpxu3kdo][i:xpxu3kdo][u:xpxu3kdo]Yasix[/u:xpxu3kdo][/i:xpxu3kdo][/b:xpxu3kdo]
+<strong><em>Yasix</em></strong>
 
-[img:xpxu3kdo]http://www.ignivomous.org/releases/images/84.jpg[/img:xpxu3kdo]
+![](http://www.ignivomous.org/releases/images/84.jpg)
 
 Autolycos says 'Wipe yourself off bytch, I just stabbed you in the face!'
 
@@ -144,23 +144,23 @@ Autolycos says 'Wipe yourself off bytch, I just stabbed you in the face!'
 
 <div class="post" data-post-id="19060" data-author="Autolycos" data-date="2007-06-25T03:08:38+00:00" data-subject="">
 
-*standing ovation*
+\*standing ovation\*
 
-for that... I applaud you. 8)
+for that... I applaud you. <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="19061" data-author="Alberich" data-date="2007-06-25T04:42:56+00:00" data-subject="">
 
-[img:degqml00]http://home.earthlink.net/~althalus/images/cat_solution.jpg[/img:degqml00]
+![](http://home.earthlink.net/~althalus/images/cat_solution.jpg)
 
 </div>
 
 <div class="post" data-post-id="19063" data-author="Yasik" data-date="2007-06-25T07:50:37+00:00" data-subject="">
 
-I hate you nolifers !  :D 
+I hate you nolifers ! <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> 
 
-[img:27s1z5je]http://yasik.kiev.ua/AutoYinao.jpg[/img:27s1z5je]
+![](http://yasik.kiev.ua/AutoYinao.jpg)
 
 </div>
 
@@ -170,19 +170,20 @@ laugh Adam!
 
 btw yasik, you're not fooling anyone.
 
-trying to add my name to a pic of you and medved locked in your *special* moment is only making you live a lie. :twisted:
+trying to add my name to a pic of you and medved locked in your \*special\* moment is only making you live a lie. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="19068" data-author="Corinn" data-date="2007-06-25T17:26:39+00:00" data-subject="">
 
-Dont login if you're drunk.[/quote:2qnq323u]
+> <strong>Yasik wrote:</strong>
+> Dont login if you're drunk.
 
 Yeah, right...
 
-I'll log in whenever the damn well I please... You dont like it when people mud drunk?  well boo-frickety-hoo!
+I'll log in whenever the damn well I please... You dont like it when people mud drunk? well boo-frickety-hoo!
 
-  :shock:
+ <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -194,39 +195,46 @@ I dont get it Yasix are you hinting something to us? Are you really openning the
 
 <div class="post" data-post-id="19070" data-author="Autolycos" data-date="2007-06-25T17:34:11+00:00" data-subject="">
 
-yasik has never hidden anything about his love for medved, or zam for that matter...  nor has he hidden his love for midget amputee porn  :shock:
+yasik has never hidden anything about his love for medved, or zam for that matter... nor has he hidden his love for midget amputee porn <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="19071" data-author="brady" data-date="2007-06-25T21:31:41+00:00" data-subject="">
 
-Dont login if you're drunk.[/quote:3u2gjh8d]
-
-Yeah, right...
-
-I'll log in whenever the damn well I please... You dont like it when people mud drunk?  well boo-frickety-hoo![/quote:3u2gjh8d]
+> <strong>Corinn wrote:</strong>
+> > <strong>Yasik wrote:</strong>
+> > Dont login if you're drunk.
+> 
+> 
+> 
+> 
+> 
+> Yeah, right...
+> 
+> 
+> 
+> I'll log in whenever the damn well I please... You dont like it when people mud drunk? well boo-frickety-hoo!
 
 Get em fish...sick balls!
 
-[img:3u2gjh8d]http://www.omenaheights.com/killerfish_piranha.jpg[/img:3u2gjh8d]
+![](http://www.omenaheights.com/killerfish_piranha.jpg)
 
 </div>
 
 <div class="post" data-post-id="19072" data-author="Corinn" data-date="2007-06-26T00:32:19+00:00" data-subject="">
 
-Get em fish...sick balls!
+> <strong>brady wrote:</strong>
+> Get em fish...sick balls!
 
-[/quote:2hezf5im]
+Oh Yeah! I'm all fired up!
 
-Oh Yeah!  I'm all fired up!
-
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="19075" data-author="tincts" data-date="2007-06-26T06:35:18+00:00" data-subject="">
 
-[img:26az27az]http://www.flashasylum.com/db/files/Comics/Rob/knife(3).jpg[/img:26az27az]
+![](http://www.flashasylum.com/db/files/Comics/Rob/knife%283%29.jpg)
 
 </div>
 
@@ -238,15 +246,23 @@ I will blow yasik up w/a cannon.
 
 <div class="post" data-post-id="19077" data-author="firebrand" data-date="2007-06-26T14:46:33+00:00" data-subject="">
 
-Dont login if you're drunk.[/quote:2rynhxzx]
+> <strong>Corinn wrote:</strong>
+> > <strong>Yasik wrote:</strong>
+> > Dont login if you're drunk.
+> 
+> 
+> 
+> 
+> 
+> Yeah, right...
+> 
+> 
+> 
+> I'll log in whenever the damn well I please... You dont like it when people mud drunk? well boo-frickety-hoo! <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
-Yeah, right...
+no yasshole.....its not that we don't like drunk mudders (we still somewhat tolerate brad \*winkgrin\*). it's just YOU we don't like. i prefer the terrasque to you. (and i am quite sure there are MANY ppl who feel the exact same about me, so don't bother flaming.)
 
-I'll log in whenever the damn well I please... You dont like it when people mud drunk?  well boo-frickety-hoo!  :shock:[/quote:2rynhxzx]
-
-no yasshole.....its not that we don't like drunk mudders (we still somewhat tolerate brad *winkgrin*).  it's just YOU we don't like.  i prefer the terrasque to you.  (and i am quite sure there are MANY ppl who feel the exact same about me, so don't bother flaming.)
-
-"ya know, my daddy used to say every man's got a devil. and you can't rest 'til you find him... but if it's any consolation to you, you have put a smile on my face." --top dollar --> the crow
+"ya know, my daddy used to say every man's got a devil. and you can't rest 'til you find him... but if it's any consolation to you, you have put a smile on my face." --top dollar --\> the crow
 
 </div>
 
@@ -262,7 +278,7 @@ snicker.
 
 2FB: You address to me (as i get it), but you quoting Corinn. 
 
-So i just ignore what you say because its not clear who you talking to (very likely just to your own self). Btw, have you collected your [b:3v6bsn97]+12[/b:3v6bsn97] AC tanking mode yet?  :roll:
+So i just ignore what you say because its not clear who you talking to (very likely just to your own self). Btw, have you collected your <strong>\+12</strong> AC tanking mode yet? <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -274,7 +290,7 @@ rofl
 
 <div class="post" data-post-id="19090" data-author="Yinao" data-date="2007-06-27T02:27:57+00:00" data-subject="">
 
-:shock:
+<img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -288,6 +304,6 @@ The title of this thread has taken on a whole new meaning
 
 indeed... 
 
-as long as we can raise him... so i can kill him again!  :twisted:
+as long as we can raise him... so i can kill him again! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

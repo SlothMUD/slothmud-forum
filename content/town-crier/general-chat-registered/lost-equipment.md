@@ -46,7 +46,7 @@ Popeye - there is no eq stealing on this mud - usually players will gather whate
 
 If anything is missing, immortals will reimburse you.
 
--Mirage
+\-Mirage
 
 </div>
 
@@ -66,7 +66,7 @@ I popped you extra staff from beholder @ rainbow valley popeye - saw your bid on
 
 Consider it a small christmas present -
 
-- Dr
+\- Dr
 
 </div>
 
@@ -80,7 +80,7 @@ People notice this stuff, especially since many were concerned about you. Then y
 
 <div class="post" data-post-id="34744" data-author="Popeye" data-date="2013-12-30T18:06:55+00:00" data-subject="Re: Lost Equipment">
 
-> **DarkArtist wrote:**
+> <strong>DarkArtist wrote:</strong>
 > Wow. I can't believe you're seriously making that accusation. You died botting, logged out without your stuff and didn't log back in for a couple weeks. 
 > 
 > 
@@ -93,7 +93,7 @@ As for botting, I don't bot, I wouldn't know how to. The floors were getting lam
 
 I am now at home with family for Xmas, so I cannot log in too much
 
-Anyway, thanks for gathering my equip. I will retrieve it shortly  :P
+Anyway, thanks for gathering my equip. I will retrieve it shortly <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -109,7 +109,7 @@ thanks
 
 <div class="post" data-post-id="34794" data-author="Popeye" data-date="2014-01-15T01:32:23+00:00" data-subject="Re: Lost Equipment">
 
-I gathered 60-70% of my equip, some good, got my axe and rune, but most was the junk I was carrying, I liked to hoard as Shyla will tell you :)
+I gathered 60-70% of my equip, some good, got my axe and rune, but most was the junk I was carrying, I liked to hoard as Shyla will tell you <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Most of my wearable equip is missing as is 10's of millions of gold
 
@@ -121,20 +121,20 @@ If you could reset my player file to early December it would be appreciated.
 
 You carried tens of millions of gold on your character?
 
-This is simply not the truth, sorry:() :mrgreen:
+This is simply not the truth, sorry:() <img src="/images/smilies/icon_mrgreen.svg" alt=":mrgreen:" title=":mrgreen:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="34797" data-author="Popeye" data-date="2014-01-15T12:16:51+00:00" data-subject="Re: Lost Equipment">
 
-> ***Splork* wrote:**
+> <strong>\*Splork\* wrote:</strong>
 > You carried tens of millions of gold on your character?
 > 
 > 
 > 
-> This is simple not the truth, sorry:() :mrgreen:
+> This is simple not the truth, sorry:() <img src="/images/smilies/icon_mrgreen.svg" alt=":mrgreen:" title=":mrgreen:" width="15" height="15" class="smiley nozoom">
 
-You choose not to help but embarrass me instead. Thanks for that  :roll: I thought I had 20-30 mill gold, if I didn't you could have just pm'd me, it was more my equip I was wanting.
+You choose not to help but embarrass me instead. Thanks for that <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> I thought I had 20-30 mill gold, if I didn't you could have just pm'd me, it was more my equip I was wanting.
 
 Anyhoo, I'm not enjoying this place anymore, so please can you erase my character file. If I do play again, I think I would prefer to start fresh with another character.
 
@@ -154,7 +154,7 @@ Splork
 
 <div class="post" data-post-id="34799" data-author="Popeye" data-date="2014-01-15T13:21:54+00:00" data-subject="Re: Lost Equipment">
 
-> ***Splork* wrote:**
+> <strong>\*Splork\* wrote:</strong>
 > There was nothing I could do to help and I was not attempting to embarrass anyone! I simply stated you were not carrying tens of millions of gold, which is the truth. Your equipment was being held by a couple of our players for nearly three weeks?? We do not reimburse someone when their eq is still in the game, it clones equipment. I am pretty sure I explicitly told you this in the game after you accused people of stealing and looting your corpse on this very forum.
 > 
 > 
@@ -163,9 +163,9 @@ Splork
 > 
 > Splork
 
-Thanks  8) 
+Thanks <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> 
 
-It was my own fault, and it just got a little too messy in the end. You've played these things yourself, you know what it's like  :lol: 
+It was my own fault, and it just got a little too messy in the end. You've played these things yourself, you know what it's like <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> 
 
 Anyway, all the best
 
@@ -173,12 +173,12 @@ Anyway, all the best
 
 <div class="post" data-post-id="34801" data-author="Popeye" data-date="2014-01-15T21:17:17+00:00" data-subject="Re: Lost Equipment">
 
-> **DarkArtist wrote:**
+> <strong>DarkArtist wrote:</strong>
 > Good riddance to self-important rubbish. Please don't come back.
 
 Hi JB
 
-I get what you are saying. I would have preferred a quick equip purge and reset with no fuss. It never happened, but so be it :) I am sorry it dragged on, but I am always busy at Xmas due to visiting family around the UK
+I get what you are saying. I would have preferred a quick equip purge and reset with no fuss. It never happened, but so be it <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> I am sorry it dragged on, but I am always busy at Xmas due to visiting family around the UK
 
 The way I see it, shit happens, you move on. No great shakes. It is only a game at the end of the day. I am only one player, and I was quite solo anyway, so I did not add anything really to the dynamic.
 

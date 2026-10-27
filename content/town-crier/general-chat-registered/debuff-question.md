@@ -28,7 +28,7 @@ We didn't change anything related to that as far as I know.
 
 <div class="post" data-post-id="18047" data-author="Avatar" data-date="2007-04-18T22:17:05+00:00" data-subject="debuffs">
 
-I was working in a 2-man eq group yesterday and got several weakens pretty easily.  Remember to damn first, but I didn't get the feeling that anything has changed.  Maybe you're just on a string of bad luck.
+I was working in a 2-man eq group yesterday and got several weakens pretty easily. Remember to damn first, but I didn't get the feeling that anything has changed. Maybe you're just on a string of bad luck.
 
 </div>
 
@@ -46,9 +46,9 @@ Anyone other than thief primes manage to get a triple stab in lately (excruciati
 
 <div class="post" data-post-id="18061" data-author="Rodek" data-date="2007-04-19T13:39:16+00:00" data-subject="">
 
-Just my general perception, but my necro who is attuned to necromancy usually gets a weaken in on 2-3 tries.  On occasion it takes longer though, and  I noticed with my other character that can weaken that it often does take a lot longer, one mob last night I must have tried 15 times with no luck, by then the mob was pretty hurt so whats the point.
+Just my general perception, but my necro who is attuned to necromancy usually gets a weaken in on 2-3 tries. On occasion it takes longer though, and I noticed with my other character that can weaken that it often does take a lot longer, one mob last night I must have tried 15 times with no luck, by then the mob was pretty hurt so whats the point.
 
-For weasel, remember triple stab is group dependant.  I hit them outside of a group but it is rare with Rodek, even with a thief prime char its fairly rate soloing.
+For weasel, remember triple stab is group dependant. I hit them outside of a group but it is rare with Rodek, even with a thief prime char its fairly rate soloing.
 
 </div>
 

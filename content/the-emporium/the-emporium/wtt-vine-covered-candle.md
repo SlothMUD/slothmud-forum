@@ -48,7 +48,7 @@ Alias
 
 <div class="post" data-post-id="9967" data-author="Avatar" data-date="2006-01-04T02:16:19+00:00" data-subject="Druid light">
 
-As much as I've whined and complained about the need for lowbie druids to get a shiftable light ... I kind of feel like an advocate for the druid class sometimes ... anyway even after the whining I can't see trading some top of the line in-game eq (feathered cincture?) for a shiftable light with no stats.  This should be in-game and low level.  
+As much as I've whined and complained about the need for lowbie druids to get a shiftable light ... I kind of feel like an advocate for the druid class sometimes ... anyway even after the whining I can't see trading some top of the line in-game eq (feathered cincture?) for a shiftable light with no stats. This should be in-game and low level. 
 
 Just for the record, I don't recommend playing a druid and hoping to shift unless you also place Necro somewhere in your class order for access to Darksight.
 

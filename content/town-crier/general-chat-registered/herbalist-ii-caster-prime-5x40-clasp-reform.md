@@ -22,7 +22,7 @@ Thanks to the rest of the equipment email distribution for their input.
 
 And lastly thanks to each of the top players in each class who contributed as well.
 
---Idjit
+\--Idjit
 
 </div>
 
@@ -42,25 +42,25 @@ Weight: 0, Value: 4000gold, Worn in: TAKE
 
 Clasp can only be attached to:
 
-   a band of ether
+ a band of ether
 
-   a moist vapour bracelet
+ a moist vapour bracelet
 
-   ribbons of the autumnal equinox
+ ribbons of the autumnal equinox
 
-   ribbons of the vernal equinox
+ ribbons of the vernal equinox
 
-   silken cuffs
+ silken cuffs
 
 Clasp gives the user +7 MANA
 
-Clasp gives the user +1 REGEN_MANA
+Clasp gives the user +1 REGEN\_MANA
 
 Only those who are primary supreme druids, and have attained supremacy in
 
 at least five classes may use this item.
 
-Oh yeahhhhh, <3 Idjit and Krom 
+Oh yeahhhhh, \<3 Idjit and Krom 
 
 Happy hunting!
 
@@ -82,11 +82,11 @@ Weight: 0, Value: 4000gold, Worn in: TAKE
 
 Clasp can only be attached to:
 
-   bracers, bracelets, and wrist-bands
+ bracers, bracelets, and wrist-bands
 
 Clasp gives the user +7 MANA
 
-Clasp gives the user +5 HEAL_BONUS
+Clasp gives the user +5 HEAL\_BONUS
 
 Only those who are primary supreme clerics, and have attained supremacy in
 
@@ -96,11 +96,11 @@ at least five classes may use this item.
 
 <div class="post" data-post-id="33847" data-author="Tuck" data-date="2012-12-15T11:58:33+00:00" data-subject="Re: Herbalist II Caster-Prime 5x40 Clasp Reform">
 
-*trollmode*
+\*trollmode\*
 
 No mage clasp?
 
-As usually :(
+As usually <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 

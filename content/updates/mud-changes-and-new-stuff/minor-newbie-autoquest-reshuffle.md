@@ -12,7 +12,7 @@ post_count: 2
 
 <div class="post" data-post-id="35638" data-author="*juggleblood*" data-date="2015-01-15T17:52:55+00:00" data-subject="Minor Newbie Autoquest Reshuffle">
 
-To address some issues of autoquest bugs, I'm spreading out some of the autoquests from some of the quester mobs.  This, along with a code change implemented by Breeze should resolve the issues players have been having whereby the mob won't accept the required item.
+To address some issues of autoquest bugs, I'm spreading out some of the autoquests from some of the quester mobs. This, along with a code change implemented by Breeze should resolve the issues players have been having whereby the mob won't accept the required item.
 
 The quests will be redistributed onto new or existing mobs on the basis of prerequisite level. The first such change is that there is now a mob in the adventurers guild of Bal Harbor named Hawthorn where the level 3 Bal Harbor autoquests have been relocated to. 
 
@@ -26,7 +26,7 @@ In related news, corpses and subdued mobs are now non-rentable meaning that if y
 
 One step closer.
 
-*Erdogan in VK now has 3 autos that are level 8:
+\*Erdogan in VK now has 3 autos that are level 8:
 
 Erdogan tells you 'The burbalang named Wrathgen has a bounty on his corpse.'
 
@@ -36,7 +36,7 @@ Erdogan tells you 'Gelvyr the mage is wanted alive for accounting misdeeds.'
 
 Erdogan tells you 'A filthy wretch is breeding rats in the attic of the auction house.'
 
-*Fat constable in VK now has 5 quests that are level 15:
+\*Fat constable in VK now has 5 quests that are level 15:
 
 The constable tells you 'Sverik has gone too far this time.'
 
@@ -48,11 +48,11 @@ The constable tells you 'The moonshiner hasn't been paying his taxes.'
 
 The constable tells you 'The law has been hard to enforce with the thugs around.'
 
-*Quest required level is indicated in the long description.
+\*Quest required level is indicated in the long description.
 
-*Sverik, Black king, Leprechaun, Moonshiner exp and gold reward raised to: 100k xp, 25k gold
+\*Sverik, Black king, Leprechaun, Moonshiner exp and gold reward raised to: 100k xp, 25k gold
 
-*Law autoquest message adjusted to be more informative:
+\*Law autoquest message adjusted to be more informative:
 
 The constable tells you 'Deep within the forest just northwest of town, a band of '
 
@@ -60,7 +60,7 @@ The constable tells you 'thugs have built a hideout high in the trees. Seek out 
 
 The constable tells you 'grandmaster of the gang harassing the good denizens of '
 
-The constable tells you 'Newbatia.  This is a dangerous quest which will probably '
+The constable tells you 'Newbatia. This is a dangerous quest which will probably '
 
 The constable tells you 'require the aid of other adventurers. When you have '
 

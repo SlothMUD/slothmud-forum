@@ -12,7 +12,7 @@ post_count: 53
 
 <div class="post" data-post-id="15116" data-author="resouh" data-date="2006-11-12T19:40:51+00:00" data-subject="New connection error:)">
 
-Man must have crashed it good this time....most of the time I get a connection refused error when game crashes.....this time I'm getting 'no route to host'  :)  whoever kicked the power cord, plug it back in!!
+Man must have crashed it good this time....most of the time I get a connection refused error when game crashes.....this time I'm getting 'no route to host' <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> whoever kicked the power cord, plug it back in!!
 
 Resouh
 
@@ -22,7 +22,7 @@ Resouh
 
 WinSock error 10060: Connection timed out
 
-every time.  but the Life Info thing says everyone's still online
+every time. but the Life Info thing says everyone's still online
 
 </div>
 
@@ -34,7 +34,7 @@ nods, think that was the last data received from the game server before it crash
 
 <div class="post" data-post-id="15120" data-author="12345" data-date="2006-11-12T19:58:52+00:00" data-subject="">
 
-We've had this error in the past.  Usually it means the game is fine and chugging along without us.  The physical connection to the server is hosed.  If anyone has Brian or Rick on speed-dial, now would be a good time to get ahold of them.  Most likely the only thing that can bring Sloth back is a call to the host provider.
+We've had this error in the past. Usually it means the game is fine and chugging along without us. The physical connection to the server is hosed. If anyone has Brian or Rick on speed-dial, now would be a good time to get ahold of them. Most likely the only thing that can bring Sloth back is a call to the host provider.
 
 </div>
 
@@ -78,7 +78,7 @@ The Mud doesnt seem to be currently running it just seems that the site isnt get
 
 <div class="post" data-post-id="15128" data-author="12345" data-date="2006-11-12T23:18:41+00:00" data-subject="">
 
-You realize of course that if there's no route to the host, there's no way for anyone to be able to tell if it's still up or down.  That's like cutting to phone line to someone's house and then trying to call to see if they're home... it just won't work.  Sloth was up when the host became unreachable.  Since no one has been able to connect since then, it's difficult to believe that it would have crashed between now and then.
+You realize of course that if there's no route to the host, there's no way for anyone to be able to tell if it's still up or down. That's like cutting to phone line to someone's house and then trying to call to see if they're home... it just won't work. Sloth was up when the host became unreachable. Since no one has been able to connect since then, it's difficult to believe that it would have crashed between now and then.
 
 </div>
 
@@ -86,7 +86,7 @@ You realize of course that if there's no route to the host, there's no way for a
 
 I just had a lil bird fly into my window....and he says they are physically Moving the server to a new location and that it may be up as soon as an hour or 2......
 
-~M~
+\~M\~
 
 </div>
 
@@ -98,7 +98,7 @@ fo realz??!!
 
 <div class="post" data-post-id="15131" data-author="Medios" data-date="2006-11-13T00:14:19+00:00" data-subject="">
 
-First of all little birds cant physically move servers, they need some type of force field or large machinery.  Secondly Warriors cant talk to little birds, maybe this was just delusional tap tap tappings on the chamber door.  Is there a way to cast 'chronos' +2 hours and get this over with.
+First of all little birds cant physically move servers, they need some type of force field or large machinery. Secondly Warriors cant talk to little birds, maybe this was just delusional tap tap tappings on the chamber door. Is there a way to cast 'chronos' +2 hours and get this over with.
 
 Mike
 
@@ -108,7 +108,7 @@ Mike
 
 I had a frog that had alleged server-moving skillz once, but then I hugged
 
-him a little too hard and he peed a little blood from his eyes.  The frog
+him a little too hard and he peed a little blood from his eyes. The frog
 
 was discreet though, very discreet.
 
@@ -122,13 +122,13 @@ So, how's the army treatin' ya?
 
 <div class="post" data-post-id="15134" data-author="Medios" data-date="2006-11-13T00:22:22+00:00" data-subject="">
 
-It must have been a bullfrog, thats the only cold blooded creature I know that can run cat5.  Im wondering if you ate him or just left him to die?  Did you ever take him to a picture show?
+It must have been a bullfrog, thats the only cold blooded creature I know that can run cat5. Im wondering if you ate him or just left him to die? Did you ever take him to a picture show?
 
 </div>
 
 <div class="post" data-post-id="15135" data-author="Akasha" data-date="2006-11-13T00:24:55+00:00" data-subject="update">
 
-It seems that the host is moving their server.  There is no ETA on when the game machine will once again be accessible, a couple of hours possibly at best.  
+It seems that the host is moving their server. There is no ETA on when the game machine will once again be accessible, a couple of hours possibly at best. 
 
 Once the game is accessible again, the address will be different.
 
@@ -140,7 +140,7 @@ if you use IPs the IP will be
 
 209.139.208.64
 
-Once again, there is no ETA on the completition of this move.  Just hang in there.
+Once again, there is no ETA on the completition of this move. Just hang in there.
 
 Akasha
 
@@ -152,7 +152,7 @@ Fuck yeah I took him to a picture show, what am I, some sort of freak?
 
 And it wasn't a bullfrog, it was a yellow-bellied munnifrog, from the remote
 
-jungles of Borneo.  If you lick their back, it makes you feel like you're 
+jungles of Borneo. If you lick their back, it makes you feel like you're 
 
 afloat in a lake of beef stew.
 
@@ -166,9 +166,12 @@ Us that use wintin.net and has the Connect how would we manually change that add
 
 <div class="post" data-post-id="15139" data-author="Emerald" data-date="2006-11-13T01:15:23+00:00" data-subject="">
 
-First of all little birds cant physically move servers, they need some type of force field or large machinery.  Secondly Warriors cant talk to little birds, maybe this was just delusional tap tap tappings on the chamber door.  Is there a way to cast 'chronos' +2 hours and get this over with.
-
-Mike[/quote:2pjhkz26]
+> <strong>Medios wrote:</strong>
+> First of all little birds cant physically move servers, they need some type of force field or large machinery. Secondly Warriors cant talk to little birds, maybe this was just delusional tap tap tappings on the chamber door. Is there a way to cast 'chronos' +2 hours and get this over with.
+> 
+> 
+> 
+> Mike
 
 Maybe 2 birds carried it... 2 African swallows with a string held under the dorsal guiding feathers...
 
@@ -182,15 +185,16 @@ Actually, my personal theory is that Marvin tried logging into Sloth and it comm
 
 <div class="post" data-post-id="15142" data-author="Weasel" data-date="2006-11-13T01:45:35+00:00" data-subject="">
 
-**** yeah I took him to a picture show, what am I, some sort of freak?
+> <strong>13 wrote:</strong>
+> \*\*\*\* yeah I took him to a picture show, what am I, some sort of freak?
+> 
+> And it wasn't a bullfrog, it was a yellow-bellied munnifrog, from the remote
+> 
+> jungles of Borneo. If you lick their back, it makes you feel like you're 
+> 
+> afloat in a lake of beef stew.
 
-And it wasn't a bullfrog, it was a yellow-bellied munnifrog, from the remote
-
-jungles of Borneo.  If you lick their back, it makes you feel like you're 
-
-afloat in a lake of beef stew.[/quote:2lvvv5s9]
-
-ROFL ..brilliant imagery  :twisted:
+ROFL ..brilliant imagery <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -238,13 +242,13 @@ Can install anytime... now would be good since you have time to readup on it and
 
 Oh... can we get a chat port up like last time... spamming on website is lame..i wanna spam in real time.
 
- :roll:
+ <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="15149" data-author="resouh" data-date="2006-11-13T02:29:08+00:00" data-subject="">
 
-dear god a global wipe   .....ugghhh....      wouldn't even want to imagine that.  But just incase ur not kidding, first dibs on autumnal;)  lol
+dear god a global wipe .....ugghhh.... wouldn't even want to imagine that. But just incase ur not kidding, first dibs on autumnal;) lol
 
 Resouh
 
@@ -252,21 +256,24 @@ Resouh
 
 <div class="post" data-post-id="15150" data-author="Akasha" data-date="2006-11-13T02:31:25+00:00" data-subject="">
 
-Let's not even get started on this one... Seriously, it's been played to death.   :roll:
+Let's not even get started on this one... Seriously, it's been played to death. <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="15151" data-author="Weasel" data-date="2006-11-13T02:32:25+00:00" data-subject="Re: update">
 
-As of this moment, the address wll be 
-
-mud.slothmud.org port 6101
-
-if you use IPs the IP will be 
-
-209.139.208.64
-
-[/quote:3od6u9vo]
+> <strong>\*Akasha\* wrote:</strong>
+> As of this moment, the address wll be 
+> 
+> 
+> 
+> mud.slothmud.org port 6101
+> 
+> 
+> 
+> if you use IPs the IP will be 
+> 
+> 209.139.208.64
 
 It seems plain old slothmud.org 6101 is now directing to that new IP 209.139.208.64 ..so perhaps you don't need the subdomain 'mud.sloth...' in front..
 
@@ -274,7 +281,7 @@ It seems plain old slothmud.org 6101 is now directing to that new IP 209.139.208
 
 <div class="post" data-post-id="15152" data-author="osric" data-date="2006-11-13T02:41:44+00:00" data-subject="">
 
-Hey Akasha, I've been meaning to ask for a while, and since we have all this downtime...Did you name your imm after the bands or something else? Just trying to fill the time :)
+Hey Akasha, I've been meaning to ask for a while, and since we have all this downtime...Did you name your imm after the bands or something else? Just trying to fill the time <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -286,15 +293,15 @@ so in actuality mud. doesnt have to be there correct? the address is still gunna
 
 <div class="post" data-post-id="15154" data-author="Akasha" data-date="2006-11-13T02:46:53+00:00" data-subject="">
 
-Well, I played Lestat before I immorted.  I also had Akasha, so I immorted Akasha, and gave Lestat to my cousin.  But the reference you are wanting is obvious :P  Anne Rice's Queen of the  Damned.
+Well, I played Lestat before I immorted. I also had Akasha, so I immorted Akasha, and gave Lestat to my cousin. But the reference you are wanting is obvious <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom"> Anne Rice's Queen of the Damned.
 
 </div>
 
 <div class="post" data-post-id="15155" data-author="kheldar" data-date="2006-11-13T02:54:03+00:00" data-subject="">
 
-figures the mud would belly flop during my one week of play time...  so i went ahead and uninstalled wintin.net and installed wintin 95, should we just go ahead and load tintin++   :)    it should be easy to load our old script files from wintin.net into wintin 95, yes?
+figures the mud would belly flop during my one week of play time... so i went ahead and uninstalled wintin.net and installed wintin 95, should we just go ahead and load tintin++ <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> it should be easy to load our old script files from wintin.net into wintin 95, yes?
 
-surprised there aren't more eddings names out there.  anywho, just thought i'd pipe up.
+surprised there aren't more eddings names out there. anywho, just thought i'd pipe up.
 
 anyone have any medical questions?
 
@@ -302,13 +309,13 @@ anyone have any medical questions?
 
 <div class="post" data-post-id="15156" data-author="Guinex" data-date="2006-11-13T02:57:35+00:00" data-subject="">
 
-Hey Kheldar, have you found any medical uses for 'cure light' yet?  If so how would you recommend putting this to use?.....Well Thanks in advance!
+Hey Kheldar, have you found any medical uses for 'cure light' yet? If so how would you recommend putting this to use?.....Well Thanks in advance!
 
 </div>
 
 <div class="post" data-post-id="15157" data-author="osric" data-date="2006-11-13T02:58:25+00:00" data-subject="">
 
-Nod, that was my original guess, but I just learned about two European bands both called Akasha and I thought it might be something more obscure than Ann Rice, either way its a fun name tho! :D
+Nod, that was my original guess, but I just learned about two European bands both called Akasha and I thought it might be something more obscure than Ann Rice, either way its a fun name tho! <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -320,37 +327,38 @@ If Weasel is getting access to mud now, he is no doubt cycling kobolds.
 
 He should be put down.
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="15159" data-author="kheldar" data-date="2006-11-13T02:59:36+00:00" data-subject="">
 
-yeah so i was on the wards last week and this guy presented with abdominal pain...  really excruciating, and all of the sudden he hiccups and *holy cow* he is gone.  well, this freaked out my whole team, including the attending physician.  but not me.  i just cast 'detect disease' and then cured it.  no prob.
+yeah so i was on the wards last week and this guy presented with abdominal pain... really excruciating, and all of the sudden he hiccups and \*holy cow\* he is gone. well, this freaked out my whole team, including the attending physician. but not me. i just cast 'detect disease' and then cured it. no prob.
 
-i wanna play sloth.  wahhh.
+i wanna play sloth. wahhh.
 
 </div>
 
 <div class="post" data-post-id="15160" data-author="Autolycos" data-date="2006-11-13T03:02:31+00:00" data-subject="">
 
-yeah so i was on the wards last week and this guy presented with abdominal pain...  really excruciating, and all of the sudden he hiccups and *holy cow* he is gone.  well, this freaked out my whole team, including the attending physician.  but not me.  i just cast 'detect disease' and then cured it.  no prob.[/quote:w40jw8ph]
+> <strong>kheldar wrote:</strong>
+> yeah so i was on the wards last week and this guy presented with abdominal pain... really excruciating, and all of the sudden he hiccups and \*holy cow\* he is gone. well, this freaked out my whole team, including the attending physician. but not me. i just cast 'detect disease' and then cured it. no prob.
 
 see excruciating blow has yet again toppled the weak!
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="15161" data-author="Dikus" data-date="2006-11-13T03:03:32+00:00" data-subject="">
 
-Gratz Kheldar Maybe we should clone you for all hospitals around :) ok Hades i will change the name to sloth 3.999 etc :p but that should work in theory correct?
+Gratz Kheldar Maybe we should clone you for all hospitals around <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> ok Hades i will change the name to sloth 3.999 etc :p but that should work in theory correct?
 
 </div>
 
 <div class="post" data-post-id="15162" data-author="Dikus" data-date="2006-11-13T03:10:46+00:00" data-subject="">
 
-Well 9:30 pm here may be off to bed just depends :) Mud gets back up by morning  8)  have fun mudding. But maybe on in an hour or so just depends.
+Well 9:30 pm here may be off to bed just depends <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> Mud gets back up by morning <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> have fun mudding. But maybe on in an hour or so just depends.
 
 </div>
 
@@ -360,29 +368,29 @@ You would have to find someone more familiar with wintin.net and wintin 95.. mys
 
 type these for starters
 
-#action {^You are hungry.}{get food bag;eat food} 1
+\#action {^You are hungry.}{get food bag;eat food} 1
 
 ok the ^ symbol is known as an anchor.. You might know this so I will explain if u don't..The second set of brackets is what action is taken when the 1st bracket goes into affect...the " ; " in the second bracket allows u to have several actions respond to the 1st bracket. The number 1 is allegedly how quick this action takes place.. I never seen a difference in the number used
 
-#alias {wb}{cast 'waterbreath';!} 
+\#alias {wb}{cast 'waterbreath';!} 
 
 you should know about alias's so this is pretty simple.. basically what action does only you trigger it instead of the game
 
-#write <filename>
+\#write \<filename\>
 
 after u get some actions and alias's set.. this will save for use later
 
 as you play over time, you will add/edit many actions and alias's.. this will save alot of headache
 
-#read <filename>
+\#read \<filename\>
 
 used at the beginning of your game session.
 
-You can also use highight and sounds to enhance important stuff that might be missed in spam or while *ahem* afk.. these I won't go into cause I don't support botting.
+You can also use highight and sounds to enhance important stuff that might be missed in spam or while \*ahem\* afk.. these I won't go into cause I don't support botting.
 
 Ok, I do support botting but that's besides the point.
 
- :D
+ <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -390,11 +398,11 @@ Ok, I do support botting but that's besides the point.
 
 Well if everyone did get wiped, the first thing I will do is create a char named autolycos.....hmmm....and just think about all the fun I could have with that...
 
-i.e.  Autolycos gossips -- 'I have been so wrong these last few years and would like to appologize to all parties involved.  And p.s. I love weaser.'
+i.e. Autolycos gossips -- 'I have been so wrong these last few years and would like to appologize to all parties involved. And p.s. I love weaser.'
 
-and then when done would offer char back to the real auto for 5 miiillllliiioooonnnn coins *puts pinky finger up to mouth in best dr. evil impression*
+and then when done would offer char back to the real auto for 5 miiillllliiioooonnnn coins \*puts pinky finger up to mouth in best dr. evil impression\*
 
-Resouh   :)
+Resouh <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -410,15 +418,16 @@ First come first serve I say... if I get dibs on Autolycos, I'm gonna play as a 
 
 wait a minute...
 
- :o
+ <img src="/images/smilies/icon_e_surprised.svg" alt=":o" title=":o" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="15169" data-author="Autolycos" data-date="2006-11-13T03:34:18+00:00" data-subject="Re: You can&#x27;t claim Autolycos">
 
-First come first serve I say... if I get dibs on Autolycos, I'm gonna play as a pirate who terrorizes my fellow PC's.. Hell I may even start a clan[/quote:39kwmfs7]
+> <strong>Hades wrote:</strong>
+> First come first serve I say... if I get dibs on Autolycos, I'm gonna play as a pirate who terrorizes my fellow PC's.. Hell I may even start a clan
 
-what a great idea! :twisted:
+what a great idea! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -428,25 +437,28 @@ Come on auto, 2 short one sentence replys to 2 beautifully writen, poetic, state
 
 Resouh
 
-p.s.  if I am harrassing u too much, u can always IM my woman and get some sincere understanding and compation from someone who puts up w/ me on the daily;)
+p.s. if I am harrassing u too much, u can always IM my woman and get some sincere understanding and compation from someone who puts up w/ me on the daily;)
 
 </div>
 
 <div class="post" data-post-id="15171" data-author="Autolycos" data-date="2006-11-13T03:49:50+00:00" data-subject="">
 
-Come on auto, 2 short one sentence replys to 2 beautifully writen, poetic, statements.......at least tell us to stfu...I'm not feeling the love here:)
+> <strong>resouh wrote:</strong>
+> Come on auto, 2 short one sentence replys to 2 beautifully writen, poetic, statements.......at least tell us to stfu...I'm not feeling the love here:)
+> 
+> 
+> 
+> p.s. if I am harrassing u too much, u can always IM my woman and get some sincere understanding and compation from someone who puts up w/ me on the daily;)
 
-p.s.  if I am harrassing u too much, u can always IM my woman and get some sincere understanding and compation from someone who puts up w/ me on the daily;)[/quote:1zc4w0k1]
+stfu just doesnt do justice atm. besides.. i'm just not feelin it.. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-stfu just doesnt do justice atm.   besides.. i'm just not feelin it..   :twisted: 
-
-*comf to Resouh's woman.
+\*comf to Resouh's woman.
 
 </div>
 
 <div class="post" data-post-id="15172" data-author="brady" data-date="2006-11-13T04:16:47+00:00" data-subject="">
 
-[img:ekwv8tiz]http://i24.ebayimg.com/01/i/07/b0/b6/14_1_b.JPG[/img:ekwv8tiz]
+![](http://i24.ebayimg.com/01/i/07/b0/b6/14_1_b.JPG)
 
 </div>
 
@@ -464,7 +476,7 @@ Last bootup: Sun Nov 12 23:59:51 2006
 
 Current time: Mon Nov 13 00:09:58 2006
 
-Yay for Monday!  Er... wait.
+Yay for Monday! Er... wait.
 
 </div>
 

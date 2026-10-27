@@ -64,11 +64,11 @@ The forum is nice, but it is not a task board for immortals and we don't see any
 
 My suggestion would be:
 
-- we need a board, where players can see all the suggestions
+\- we need a board, where players can see all the suggestions
 
-- for each suggestion/idea, we need to see development progress: is it seen, denied, requires more info, in discussion, in development, in testing, does it need testing w/ mortals, is it live on the server?
+\- for each suggestion/idea, we need to see development progress: is it seen, denied, requires more info, in discussion, in development, in testing, does it need testing w/ mortals, is it live on the server?
 
-- ideally, an idea thread would contain comments from mortals/immortals
+\- ideally, an idea thread would contain comments from mortals/immortals
 
 Basically, Trello for ideas to improve the MUD that players can use from inside the MUD. Though for starters, I'd just welcome this on the website or as a Trello/other task board: seeing progress and where player feedback is needed is precious, because it increases communication between players and the immortals.
 

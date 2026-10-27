@@ -12,7 +12,7 @@ post_count: 4
 
 <div class="post" data-post-id="21163" data-author="Ingold" data-date="2007-11-01T02:11:43+00:00" data-subject="Recharging a Velvet Covered Wand ?">
 
-I need some info regarding how to recharge a velvet covered wand. Dedsune told me this a couple years back, but now I have forgotten. I think it has something to do with a mana flux?  The Velvet covered wand is a raise dead wand for Valk.....for anyone wondering and doesn't recognize it...  I need to know how and where to recharge it. Some of us have tried to no avail.
+I need some info regarding how to recharge a velvet covered wand. Dedsune told me this a couple years back, but now I have forgotten. I think it has something to do with a mana flux? The Velvet covered wand is a raise dead wand for Valk.....for anyone wondering and doesn't recognize it... I need to know how and where to recharge it. Some of us have tried to no avail.
 
 Thanks
 
@@ -24,19 +24,20 @@ Music/Drum/Lylyth etc
 
 <div class="post" data-post-id="21167" data-author="Alberich" data-date="2007-11-01T11:09:31+00:00" data-subject="">
 
-you take the mana flux and empty wand to the other appie in shadow playground (i forget which - think longshadow forges and moonshadow recharges - something like that).  It's been a few years :)
+you take the mana flux and empty wand to the other appie in shadow playground (i forget which - think longshadow forges and moonshadow recharges - something like that). It's been a few years <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="21168" data-author="Ingold" data-date="2007-11-01T23:25:23+00:00" data-subject="">
 
-Thank you. Nod Just got a response from Dedsune too. Told him about the new Epic system going in. Hoping he gets hooked again :P.
+Thank you. Nod Just got a response from Dedsune too. Told him about the new Epic system going in. Hoping he gets hooked again <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">.
 
 </div>
 
 <div class="post" data-post-id="21170" data-author="Thraxas" data-date="2007-11-02T13:12:08+00:00" data-subject="">
 
-you take the mana flux and empty wand to the other appie in shadow playground (i forget which - think longshadow forges and moonshadow recharges - something like that).  It's been a few years :)[/quote:joe9f4gj]
+> <strong>Alberich wrote:</strong>
+> you take the mana flux and empty wand to the other appie in shadow playground (i forget which - think longshadow forges and moonshadow recharges - something like that). It's been a few years <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 just to confirm (cause I did this yesterday on the back of this help) its moonshadow, you need the empty wand a mana flux and 20k coins, the command is forge wand.
 

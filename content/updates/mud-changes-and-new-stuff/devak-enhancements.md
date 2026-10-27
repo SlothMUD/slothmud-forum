@@ -14,9 +14,9 @@ post_count: 1
 
 Devak changes
 
-Necromancy  larger pets!
+Necromancy larger pets!
 
-Shaping       larger shapeshift forms
+Shaping larger shapeshift forms
 
 In after next reboot,
 

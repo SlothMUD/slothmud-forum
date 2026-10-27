@@ -20,12 +20,12 @@ Have fun Mudding
 
 <div class="post" data-post-id="11898" data-author="osric" data-date="2006-03-31T17:00:07+00:00" data-subject="">
 
-Wow, that sucks, what a bunch of fascists!  Talk to your web person at school, see if they will disable that thing that sounds like its been in existence since the early 90's!
+Wow, that sucks, what a bunch of fascists! Talk to your web person at school, see if they will disable that thing that sounds like its been in existence since the early 90's!
 
 </div>
 
 <div class="post" data-post-id="11899" data-author="osric" data-date="2006-03-31T17:02:55+00:00" data-subject="">
 
-Also don't know what kind of school you are at, but if it helps you can always lie and say you can't sign up for college courses because you can't acces telnet (if in college, see last post).  I find that to have worked well for me when I was in Highschool.  As many small Universities still use telnet to sign up for class schedules.
+Also don't know what kind of school you are at, but if it helps you can always lie and say you can't sign up for college courses because you can't acces telnet (if in college, see last post). I find that to have worked well for me when I was in Highschool. As many small Universities still use telnet to sign up for class schedules.
 
 </div>

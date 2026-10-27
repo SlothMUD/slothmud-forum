@@ -32,7 +32,7 @@ contents: leave blank
 
 Make 2 triggers
 
-Trigger: @leader * 'target *'
+Trigger: @leader \* 'target \*'
 
 Send: %2
 
@@ -40,7 +40,7 @@ Send to: Variable
 
 At bottom of screen enter target in box Variable
 
-Trigger:You now follow *.
+Trigger:You now follow \*.
 
 Send: %1
 
@@ -72,7 +72,7 @@ Send To: World
 
 Ensure that in the left-hand side menu Enabled and expand Variables are ticked
 
-Ok Now when you follow a new leader any aliases with @leader are automatically updated with leaders name and any aliases with @target will automatically target the mob    announced by the leader (and only the leader)
+Ok Now when you follow a new leader any aliases with @leader are automatically updated with leaders name and any aliases with @target will automatically target the mob announced by the leader (and only the leader)
 
 Other suggestions to make grouping easier
 
@@ -82,7 +82,7 @@ Trigger: @leader -- 'all up'
 
 Send: Wake
 
-          Stand
+ Stand
 
 Make a variable 'tank' for bigger groups when leader and tank are different and set up an alias to change the variable when leader announces who is the tank. Being a cleric I have also made aliases (and macros) to heal leader and tank.
 

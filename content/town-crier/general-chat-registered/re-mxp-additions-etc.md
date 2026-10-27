@@ -14,7 +14,7 @@ post_count: 4
 
 Splork's MXP info update threads are locked to non-admins, so I thought i would reply here.
 
-I just wanted to say thanks to both Splork and Isabo for all the hard work they have put in to add support for both MCCP and MXP to the mud.  I know these probably required a lot of work, and I can see how these additions will open the door for a lot of cool things.  
+I just wanted to say thanks to both Splork and Isabo for all the hard work they have put in to add support for both MCCP and MXP to the mud. I know these probably required a lot of work, and I can see how these additions will open the door for a lot of cool things. 
 
 So, just a big THANKS from me!
 
@@ -24,19 +24,19 @@ Deju
 
 <div class="post" data-post-id="9080" data-author="Shara" data-date="2005-10-19T00:27:58+00:00" data-subject="">
 
-Thanks for all the hard work!  I just wanted to know... what exactly does all that stuff do? :oops:
+Thanks for all the hard work! I just wanted to know... what exactly does all that stuff do? <img src="/images/smilies/icon_redface.svg" alt=":oops:" title=":oops:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="9081" data-author="Avatar" data-date="2005-10-19T03:03:45+00:00" data-subject="MXP">
 
-From what I understand, MCCP is a compression protocol.  That should mean that (if your client supports it) less information needs to sent between your computer and the mud.  Everything should look the same, but it may be a little faster connection and the mud may consume less bandwidth.
+From what I understand, MCCP is a compression protocol. That should mean that (if your client supports it) less information needs to sent between your computer and the mud. Everything should look the same, but it may be a little faster connection and the mud may consume less bandwidth.
 
-MXP seems to be an actual extension to the way you can communicate with the mud.  It apparently uses hypertext tags rather like HTML to format text (size, color, font, etc.) and will allow links in the text, etc.  One of the threads mentioned click-able exits, so I'm assuming that if you have "showexits" on:
+MXP seems to be an actual extension to the way you can communicate with the mud. It apparently uses hypertext tags rather like HTML to format text (size, color, font, etc.) and will allow links in the text, etc. One of the threads mentioned click-able exits, so I'm assuming that if you have "showexits" on:
 
-Exits: East  South  West
+Exits: East South West
 
-Those directions are actually clickable and your character will move in the direction you click.  Also, they mentioned mouse-overs, so the mud can show different information if you hover the mouse over specific text.
+Those directions are actually clickable and your character will move in the direction you click. Also, they mentioned mouse-overs, so the mud can show different information if you hover the mouse over specific text.
 
 It might be helpful if players using MXP could post screenshots.
 
@@ -46,8 +46,8 @@ It might be helpful if players using MXP could post screenshots.
 
 Wow!! That sounds great!
 
-Too bad I have a touchpad and I'm too lazy to mouse!  That's why I mud!
+Too bad I have a touchpad and I'm too lazy to mouse! That's why I mud!
 
-:D
+<img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>

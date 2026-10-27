@@ -12,7 +12,7 @@ post_count: 3
 
 <div class="post" data-post-id="1785" data-author="Methyx" data-date="2004-09-05T08:11:38+00:00" data-subject="White Helm of Frost">
 
-4.5 Mil on the White Helm Of Frost :)
+4.5 Mil on the White Helm Of Frost <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -26,6 +26,6 @@ huh? you selling one or what?
 
 Please,
 
-Disregard this post...I was responding to Ezekiel's ad and hit the wrong button  :oops:
+Disregard this post...I was responding to Ezekiel's ad and hit the wrong button <img src="/images/smilies/icon_redface.svg" alt=":oops:" title=":oops:" width="15" height="15" class="smiley nozoom">
 
 </div>

@@ -14,55 +14,55 @@ post_count: 5
 
 The corpse of Sam lets out its final death groan. The smell is dreadful.
 
-<942hp 491ma 322mv raining +0>
+\<942hp 491ma 322mv raining +0\>
 
 Tuk gets swirling black and red robes from a multicolored mantle.
 
-<942hp 491ma 322mv raining +0>
+\<942hp 491ma 322mv raining +0\>
 
-gos blah :)
+gos blah <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Novel begins to play 'rina cruinne' on a battered metal harmonica.
 
 Novel's song helps you to concentrate on your prayers for the dead.
 
-<942hp 491ma 322mv raining +0>
+\<942hp 491ma 322mv raining +0\>
 
 Tuk puts a fiery ring of light in swirling black and red robes.
 
-<942hp 491ma 322mv raining +0>
+\<942hp 491ma 322mv raining +0\>
 
 Tuk gets a wiedzmin ring from swirling black and red robes.
 
 Suna awakens.
 
-You gossip-- 'blah :)'
+You gossip-- 'blah <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">'
 
-<942hp 491ma 322mv raining +0>
+\<942hp 491ma 322mv raining +0\>
 
 Suna clambers onto his feet.
 
-<942hp 491ma 322mv raining +0>
+\<942hp 491ma 322mv raining +0\>
 
 Irenicus utters the words, 'qfzahz yaae'
 
 A pastry suddenly appears.
 
-<942hp 491ma 322mv raining +0>
+\<942hp 491ma 322mv raining +0\>
 
 Tuk puts a fiery ring of light in swirling black and red robes.
 
-<942hp 491ma 322mv raining +0>
+\<942hp 491ma 322mv raining +0\>
 
 Tuk gets a wiedzmin ring from swirling black and red robes.
 
-<942hp 491ma 322mv raining +0>
+\<942hp 491ma 322mv raining +0\>
 
 Suna utters the words, 'pzar'
 
 Suna heals himself.
 
-<942hp 491ma 322mv raining +0>
+\<942hp 491ma 322mv raining +0\>
 
 Alris arrives from the west.
 
@@ -70,25 +70,25 @@ Katie awakens.
 
 Katie reports 381/1343 hp. Change: +354. Need: 962. Spells: aegis, greater fluidity.
 
-<942hp 491ma 322mv raining +0>
+\<942hp 491ma 322mv raining +0\>
 
 Katie clambers onto her feet.
 
 Tuk puts a dwarven ringmail shirt in swirling black and red robes.
 
-<942hp 491ma 322mv raining +0>
+\<942hp 491ma 322mv raining +0\>
 
 Tuk gets marred magical mail from swirling black and red robes.
 
-<942hp 491ma 322mv raining +0>
+\<942hp 491ma 322mv raining +0\>
 
 Novel carves up the the corpse of Sam.
 
-<942hp 491ma 322mv raining +0>
+\<942hp 491ma 322mv raining +0\>
 
 Tuk puts mailed gloves in swirling black and red robes.
 
-<942hp 491ma 322mv raining +0>
+\<942hp 491ma 322mv raining +0\>
 
 lo
 
@@ -98,17 +98,17 @@ Shyla lies down and falls asleep.
 
 Irenicus picks up a pastry.
 
-<942hp 491ma 322mv raining +0>
+\<942hp 491ma 322mv raining +0\>
 
 Irenicus picks up a banana.
 
-<942hp 491ma 322mv raining +0>
+\<942hp 491ma 322mv raining +0\>
 
 Irenicus picks up a loaf of seed cake.
 
 Magnolia
 
-   The path curves around a large magnolia tree, almost forty feet high.
+ The path curves around a large magnolia tree, almost forty feet high.
 
 It is covered with large white flowers, which emit a strong, sweet scent.
 
@@ -116,7 +116,7 @@ The path is edged with stone blocks, possibly in an attempt to stop it
 
 from slipping down the slope toward the sea.
 
-Exits: East  South  West  
+Exits: East South West 
 
 A slice of Sam is lying on the ground.
 
@@ -236,7 +236,7 @@ Si glows with a bright light!
 
 An old lady walks slowly along the path.
 
-<942hp 491ma 322mv raining +0>
+\<942hp 491ma 322mv raining +0\>
 
 Tuk puts flowing sleeves of the wind in swirling black and red robes.
 
@@ -246,19 +246,19 @@ Suna heals himself.
 
 Irenicus picks up assorted nuts.
 
-<942hp 491ma 322mv raining +0>
+\<942hp 491ma 322mv raining +0\>
 
 Tuk gets a set of ruby studded vambraces from swirling black and red robes.
 
 Irenicus picks up a wedge of cheese.
 
-<942hp 491ma 322mv raining +0>
+\<942hp 491ma 322mv raining +0\>
 
 Alris lies down and falls asleep.
 
 Irenicus lies down and falls asleep.
 
-<942hp 491ma 322mv raining +0>
+\<942hp 491ma 322mv raining +0\>
 
 Novel tells you 'tuk shocked you'
 
@@ -266,29 +266,29 @@ Tuk puts a band of water in swirling black and red robes.
 
 Shyla awakens.
 
-<942hp 491ma 322mv raining +0>
+\<942hp 491ma 322mv raining +0\>
 
 Tuk gets a band of ether from swirling black and red robes.
 
-<942hp 491ma 322mv raining +0>
+\<942hp 491ma 322mv raining +0\>
 
 Shyla clambers onto her feet.
 
-<942hp 491ma 322mv raining +0>
+\<942hp 491ma 322mv raining +0\>
 
 Tuk puts a blue crystal staff in swirling black and red robes.
 
-<942hp 491ma 322mv raining +0>
+\<942hp 491ma 322mv raining +0\>
 
 Tuk gets Ars Magica from swirling black and red robes.
 
-<942hp 491ma 322mv raining +0>
+\<942hp 491ma 322mv raining +0\>
 
 Tuk puts swirling black and red robes in a multicolored mantle.
 
 Suna lies down and falls asleep.
 
-<942hp 491ma 322mv raining +0>
+\<942hp 491ma 322mv raining +0\>
 
 Chainer says 'Mr. Frodo would not like this'
 
@@ -302,21 +302,21 @@ Shyla's hands begin to glow very brightly!
 
 Spag has been raised from the dead! 
 
-<942hp 491ma 322mv raining +0>
+\<942hp 491ma 322mv raining +0\>
 
 Novel carves up the the corpse of Sam.
 
-<942hp 491ma 322mv raining +0>
+\<942hp 491ma 322mv raining +0\>
 
 Novel carves up the the corpse of Sam.
 
 Tuk carves up the the corpse of Sam.
 
-<942hp 491ma 322mv raining +0>
+\<942hp 491ma 322mv raining +0\>
 
 Tuk carves up the the corpse of Sam.
 
-<942hp 491ma 322mv raining +0>
+\<942hp 491ma 322mv raining +0\>
 
 An old lady gets a Blue Star Sapphire from inside a dusty, thick robe.
 
@@ -324,23 +324,23 @@ Novel carves up the the corpse of Sam.
 
 Tuk carves up the the corpse of Sam.
 
-<942hp 491ma 322mv raining +0>
+\<942hp 491ma 322mv raining +0\>
 
 Tuk carves up the the corpse of Sam.
 
-<942hp 491ma 322mv raining +0>
+\<942hp 491ma 322mv raining +0\>
 
 Tuk carves up the the corpse of Sam.
 
-<942hp 491ma 322mv raining +0>
+\<942hp 491ma 322mv raining +0\>
 
 Tuk carves up the the corpse of Sam.
 
-<942hp 491ma 322mv raining +0>
+\<942hp 491ma 322mv raining +0\>
 
 Tuk says 'Welcome back Spag!'
 
-<942hp 491ma 322mv raining +0>
+\<942hp 491ma 322mv raining +0\>
 
 Tuk pats Spag on the back.
 
@@ -348,11 +348,11 @@ Tuk pats Spag on the back.
 
 <div class="post" data-post-id="32452" data-author="Sam" data-date="2011-03-01T21:32:08+00:00" data-subject="Re: lost gem after shock on 26 feb">
 
-just noticed it, and im very sad :(
+just noticed it, and im very sad <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 i cant believe nobody noticed that including me.
 
-so if you happened to pop it off lady, well gz. *grin*
+so if you happened to pop it off lady, well gz. \*grin\*
 
 </div>
 
@@ -368,11 +368,11 @@ I killed a lady because she was stealing coins and i popped it off her and I sav
 
 So don't worry dear sam I have your gem 
 
-blue star sapphire (1) someones :)
+blue star sapphire (1) someones <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 I have ben checking the crier everyday i figured sooner or later someone would notice they were missing it and post about it I am just glad someone finally did.
 
-oh btw somehow it got morphed into 4 bloodstone gems but i have NOOO idea how that happened so don't be suprised if you get 4 bloodstones instead...and the blue star sapphire in bag on locate well that one i popped myself really i did :)
+oh btw somehow it got morphed into 4 bloodstone gems but i have NOOO idea how that happened so don't be suprised if you get 4 bloodstones instead...and the blue star sapphire in bag on locate well that one i popped myself really i did <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 just catch me sometime...don't worry it isn't going anyways
 
@@ -382,6 +382,6 @@ Shyla
 
 <div class="post" data-post-id="32455" data-author="Sam" data-date="2011-03-02T15:46:41+00:00" data-subject="Re: lost gem after shock on 26 feb">
 
-wohoo! thx  :oops:
+wohoo! thx <img src="/images/smilies/icon_redface.svg" alt=":oops:" title=":oops:" width="15" height="15" class="smiley nozoom">
 
 </div>

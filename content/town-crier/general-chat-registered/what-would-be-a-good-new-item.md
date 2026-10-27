@@ -12,7 +12,7 @@ post_count: 14
 
 <div class="post" data-post-id="38121" data-author="*teker*" data-date="2017-03-17T17:22:18+00:00" data-subject="What would be a good new item?">
 
-You know, you're putting together that killer set of equipment but there's one thing missing that doesn't exist in the game.  What is it?
+You know, you're putting together that killer set of equipment but there's one thing missing that doesn't exist in the game. What is it?
 
 </div>
 
@@ -30,18 +30,18 @@ Can you be more specific? Drachma/3x40/Clasp/regular item?
 
 Who is your item aimed at? Newbies/Normal players or "Lifers." 
 
-The needs differ greatly and at different stages. How long is a piece of string?  :lol:
+The needs differ greatly and at different stages. How long is a piece of string? <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="38126" data-author="*teker*" data-date="2017-03-17T21:38:51+00:00" data-subject="Re: What would be a good new item?">
 
-> **Quote:**
+> <strong>Quote:</strong>
 > Can you be more specific? Drachma/3x40/Clasp/regular item?
 
 I would focus less on where the item fits in this list and more on what the item does. 
 
-> **Quote:**
+> <strong>Quote:</strong>
 > Who is your item aimed at? Newbies/Normal players or "Lifers."
 
 If you think there's an item missing for any of those groups, tell me what it is.
@@ -128,7 +128,7 @@ There are also a few items more suggested [here](https://docs.google.com/spreads
 
 <div class="post" data-post-id="38178" data-author="Hermoon" data-date="2017-03-28T18:19:18+00:00" data-subject="Re: What would be a good new item?">
 
-Well, I shall steer away from discussing the best way for people to have their slots filled with powerful, humming items!  :shock: 
+Well, I shall steer away from discussing the best way for people to have their slots filled with powerful, humming items! <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
 What's missing is a decent handbag with compartments for holding different types of items so you can easily organise stuff according to type. The handbag should have the ability to allow you to vary the style (leopard skin print, glittering chain mail, pink leather, etc.) so you can accessorise according to your main outfit. It should include a mirror so you can look into it and 'freshen up' for a few random moves or hp or mana. It would be fun to have the handbag as a reward for a quest undertaken for Constance...
 
@@ -180,23 +180,23 @@ cincture feathered forge is a forge that most tank types make and its .5 ac not 
 
 I would like to see a tankish belt with a better name.
 
-Maybe Cincture Reckless Abandon   I don't think we need to add any ac to it so keep it at -.5 but add a weapon dam or few flail dam on it as most tank types use those 2 a lot.
+Maybe Cincture Reckless Abandon I don't think we need to add any ac to it so keep it at -.5 but add a weapon dam or few flail dam on it as most tank types use those 2 a lot.
 
 I would also make it a 13 part forge using one of the cpts as the feathered cincture.
 
 6x40 and make it a 20-30m coin forge.
 
-If its something that will happen hit me up I have some ideas on mobs and eq for the forge :)
+If its something that will happen hit me up I have some ideas on mobs and eq for the forge <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="38211" data-author="Belrath" data-date="2017-04-10T00:56:30+00:00" data-subject="Re: What would be a good new item?">
 
-<used as light>      an old copper lantern (with a flawed glowing gem attached to it)
+\<used as light\> an old copper lantern (with a flawed glowing gem attached to it)
 
 I rest my case.
 
--Belrath
+\-Belrath
 
 </div>
 

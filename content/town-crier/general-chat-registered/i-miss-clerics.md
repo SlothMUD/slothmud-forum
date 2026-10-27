@@ -18,15 +18,15 @@ The mud has been blessed with good clerics since I've been back: Padme, Norks, R
 
 Zuzu plays, Norks plays more like a mage, Roselarya now plays a warrior, Tau and Padme went M.I.A.
 
-   I think the issue is being so useful in groups as healers they get pigeon-holed into only healing.
+ I think the issue is being so useful in groups as healers they get pigeon-holed into only healing.
 
 It seems there are very real concerns about max level cleric abilities and while doing things like buffing Pit-Fiend would be helpful. I tend to think we need something to help clerics through all stages of the game.
 
-   IMHO this is where a cleric prime spell would come in handy.
+ IMHO this is where a cleric prime spell would come in handy.
 
 Please consider adding "Harm" to the game and have it be affected by heal bonus for clerics only.
 
-This would allow them to blast when not "IN" and give a viable blasting option instead of swapping all heal bonus eq for spell bonus permanently.  I feel that this would scale well as lower level clerics will be able to start gathering heal bonus eq and hopefully interest people into actually playing a cleric.
+This would allow them to blast when not "IN" and give a viable blasting option instead of swapping all heal bonus eq for spell bonus permanently. I feel that this would scale well as lower level clerics will be able to start gathering heal bonus eq and hopefully interest people into actually playing a cleric.
 
 Thanks for reading...
 
@@ -64,22 +64,22 @@ Easy enough to do as to the mechanics. rather lengthy if we do All of them.
 
 and then these lower cause spells don't have the HB damage at the same ratio maybe.
 
---D
+\--D
 
 </div>
 
 <div class="post" data-post-id="39487" data-author="Driven" data-date="2020-05-20T15:26:50+00:00" data-subject="Re: I Miss Clerics.">
 
-> **crumbs wrote:**
+> <strong>crumbs wrote:</strong>
 > I'm personally kinda annoyed by the artificial limitations imposed on aerial servant. Why can't I use it with deathgrip or backstab or shapeshift ? Makes alot of solo playstyles unviable. Why not add firewind to the list as well ? Made no sense to me, especially while druids never had any problems with shield of thorns compatibility with all of the above skills. So if you want to give clerics a quick boost, i do suggest adressing this issue, would take around a second to make this class much more enjoyable.
 
-My only experience with aerial servant is against mobs who have it, and it would appear that aerial servant completely blocks all damage, making the cleric literally immune to melee damage while the aerial servant is alive.  Druid thorns is a damage reduction, not immunity.  I would think that for the cooldown on aerial servant to be removed, the aerial servant's protection would need to be %-based to make it similar to druid thorns.  As in, if you backstab or grip, then the aerial servant would only stand in front of blows some % of time, such as 33%.
+My only experience with aerial servant is against mobs who have it, and it would appear that aerial servant completely blocks all damage, making the cleric literally immune to melee damage while the aerial servant is alive. Druid thorns is a damage reduction, not immunity. I would think that for the cooldown on aerial servant to be removed, the aerial servant's protection would need to be %-based to make it similar to druid thorns. As in, if you backstab or grip, then the aerial servant would only stand in front of blows some % of time, such as 33%.
 
 </div>
 
 <div class="post" data-post-id="39488" data-author="Driven" data-date="2020-05-20T19:41:56+00:00" data-subject="Re: I Miss Clerics.">
 
-> ***Idjit* wrote:**
+> <strong>\*Idjit\* wrote:</strong>
 > Q: does harm correspond straight across to heal (level 25)
 > 
 > such that we need greater harm at 30th
@@ -92,16 +92,16 @@ My only experience with aerial servant is against mobs who have it, and it would
 > 
 > and then these lower cause spells don't have the HB damage at the same ratio maybe.
 > 
-> --D
+> \--D
 
-There's so many different directions you can go with this.  Many games have gone the route of *Shadow Priest*, where cleric's healing spells do damage instead of healing.  This gives you the full menagerie of spells for free, plus scaling with heal bonus once you get to heal, greater heal, and restoration.  For Sloth, I would think that a Shadow Priest's healing spells would cost 50% of their healing cost... i.e. heal at 42 mana would cost 21 mana when used offensively by a Shadow Priest, greater heal at 55 mana would cost 27 mana, and restoration would cost 31 mana.
+There's so many different directions you can go with this. Many games have gone the route of <em>Shadow Priest</em>, where cleric's healing spells do damage instead of healing. This gives you the full menagerie of spells for free, plus scaling with heal bonus once you get to heal, greater heal, and restoration. For Sloth, I would think that a Shadow Priest's healing spells would cost 50% of their healing cost... i.e. heal at 42 mana would cost 21 mana when used offensively by a Shadow Priest, greater heal at 55 mana would cost 27 mana, and restoration would cost 31 mana.
 
 </div>
 
 <div class="post" data-post-id="39489" data-author="crumbs" data-date="2020-05-21T08:18:33+00:00" data-subject="Re: I Miss Clerics.">
 
-> **Driven wrote:**
-> My only experience with aerial servant is against mobs who have it, and it would appear that aerial servant completely blocks all damage, making the cleric literally immune to melee damage while the aerial servant is alive.  Druid thorns is a damage reduction, not immunity.  I would think that for the cooldown on aerial servant to be removed, the aerial servant's protection would need to be %-based to make it similar to druid thorns.  As in, if you backstab or grip, then the aerial servant would only stand in front of blows some % of time, such as 33%.
+> <strong>Driven wrote:</strong>
+> My only experience with aerial servant is against mobs who have it, and it would appear that aerial servant completely blocks all damage, making the cleric literally immune to melee damage while the aerial servant is alive. Druid thorns is a damage reduction, not immunity. I would think that for the cooldown on aerial servant to be removed, the aerial servant's protection would need to be %-based to make it similar to druid thorns. As in, if you backstab or grip, then the aerial servant would only stand in front of blows some % of time, such as 33%.
 
 While I still don't understand why we have these kind of limitations, especially on a not particularly overpowering mechanic for a pretty underpowered prime class, your suggestion is better than how it works currently, so I would welcome it.
 
@@ -113,13 +113,13 @@ Meh, I like my servant totally blocking.
 
 Careful what you wish for.
 
---D
+\--D
 
 </div>
 
 <div class="post" data-post-id="39492" data-author="*Idjit*" data-date="2020-05-22T00:42:53+00:00" data-subject="Re: I Miss Clerics.">
 
--on- the other hand. If we were...
+\-on- the other hand. If we were...
 
 To have aerial servant totally block still, as long as you Didn't use Harm in X amount of time.
 
@@ -131,11 +131,11 @@ And then you go back to totally being able to block with servant
 
 IF
 
-1) the cooldown time limit is reached again since you last used harm OR backstab OR grip
+1\) the cooldown time limit is reached again since you last used harm OR backstab OR grip
 
 AND
 
-2) you get above +3 align for a moment, just briefly.
+2\) you get above +3 align for a moment, just briefly.
 
 Just floating ideas.
 
@@ -177,11 +177,11 @@ These days a newb that would stay that level that long, is a newb that fell thro
 
 But that's another thing outside the scope of what Truck is saying.
 
-What he's saying is valid, and easily enough done. bring harm as a spell (by itself) into the game coeval with heal's magnitude, and scaled with healbonus.  With no other action.
+What he's saying is valid, and easily enough done. bring harm as a spell (by itself) into the game coeval with heal's magnitude, and scaled with healbonus. With no other action.
 
 I concur with that.
 
---D
+\--D
 
 </div>
 
@@ -199,7 +199,7 @@ Some would say 'well what peri is it, it's healing peristratum because healbonus
 
 But i want to hear all viewpoints.
 
---D
+\--D
 
 </div>
 

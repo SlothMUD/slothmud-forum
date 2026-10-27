@@ -16,10 +16,10 @@ Good day one and all, we will have an Easter Quest at 10AM Pacific time Sunday A
 
 A countdown timer link has bee provided below:
 
-[<LINK_TEXT text="https://www.tickcounter.com/countdown/7 ... ster-quest">https://www.tickcounter.com/countdown/7119815/2025-slothmud-easter-quest</LINK_TEXT>](https://www.tickcounter.com/countdown/7119815/2025-slothmud-easter-quest)
+[https://www.tickcounter.com/countdown/7119815/2025-slothmud-easter-quest](https://www.tickcounter.com/countdown/7119815/2025-slothmud-easter-quest)
 
 See you there folks
 
---Idj
+\--Idj
 
 </div>

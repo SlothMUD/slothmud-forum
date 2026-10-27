@@ -44,7 +44,8 @@ Oh, and remove the Warrior class, it would be completely redundant anyway.
 
 <div class="post" data-post-id="24418" data-author="Yinao" data-date="2008-05-20T22:27:50+00:00" data-subject="">
 
-[quote:g9tx3m2p]Oh, and remove the Warrior class, it would be completely redundant anyway.[/quote:g9tx3m2p]
+> <strong>Quote:</strong>
+> Oh, and remove the Warrior class, it would be completely redundant anyway.
 
 Hmm lets think about this:
 
@@ -54,23 +55,28 @@ Hmm lets think about this:
 
 7 x 1 = Weasel's max hp? 
 
- :twisted: 
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-No wonder Weasel's classo's redundant  :lol:
+No wonder Weasel's classo's redundant <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="24421" data-author="Alberich" data-date="2008-05-20T22:43:28+00:00" data-subject="Re: Bard skill">
 
-song : soothing calm
+> <strong>Dragoth wrote:</strong>
+> song : soothing calm
+> 
+> 
+> 
+> Uses: 
+> 
+> Rewards the person under the influence of the song with health from every successfull attack to the opponent.
+> 
+> 
+> 
+> Would be sweet to not rely on cleric or druid class to heal yourself...
 
-Uses: 
-
-Rewards the person under the influence of the song with health from every successfull attack to the opponent.
-
-Would be sweet to not rely on cleric or druid class to heal yourself...[/quote:3pfdhgwe]
-
-would be sweet if thieves could run -11 with full damage and hit too.  probably about as likely.
+would be sweet if thieves could run -11 with full damage and hit too. probably about as likely.
 
 if it was a % (a very small one) of damage on a given % of hits it might be nice for newbies on valk to have, but giving warriors (or hell, thieves, we hit hard too) a free 100 hps/round at levels is a bit much.
 
@@ -78,9 +84,10 @@ if it was a % (a very small one) of damage on a given % of hits it might be nice
 
 <div class="post" data-post-id="24423" data-author="jezer" data-date="2008-05-21T01:37:30+00:00" data-subject="">
 
-Personally I think spectral shield is one of the most overpowered attributes in the game.[/quote:33nnocpl]
+> <strong>Weasel wrote:</strong>
+> Personally I think spectral shield is one of the most overpowered attributes in the game.
 
-Not if your druid... it's called "sleeping in an outdoor vault."  :twisted: 
+Not if your druid... it's called "sleeping in an outdoor vault." <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 80% of the time I'd rather sleep than have my hp turned into effective ma using spectral. 
 
@@ -90,11 +97,13 @@ I think my hp regen is like 7 (s-e-v-e-n) when I stand up.
 
 <div class="post" data-post-id="24427" data-author="*juggleblood*" data-date="2008-05-21T03:23:53+00:00" data-subject="">
 
-You're kidding, right?  [/quote:19wrckju]
+> <strong>Weasel wrote:</strong>
+> You're kidding, right?
 
 yes i was
 
-Personally I think spectral shield is one of the most overpowered attributes in the game [/quote:19wrckju]
+> <strong>Weasel wrote:</strong>
+> Personally I think spectral shield is one of the most overpowered attributes in the game
 
 its not the skill thats overpowered, its the proc thats poorly written.
 

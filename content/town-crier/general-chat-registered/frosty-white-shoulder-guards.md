@@ -18,7 +18,7 @@ asking a min 4.5mil and wish to sell by 8pm eastern
 
 Frosty White Shoulder Guards
 
--0.8  5 Years, Resist Cold * SW SM [AND]
+\-0.8 5 Years, Resist Cold \* SW SM [AND]
 
 </div>
 
@@ -30,6 +30,6 @@ That's 8pm eastern Sunday March 2, 2008
 
 <div class="post" data-post-id="23046" data-author="Ah_Puch" data-date="2008-03-02T12:50:34+00:00" data-subject="">
 
-Sold  :P
+Sold <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>

@@ -20,17 +20,17 @@ SlothMUD Mapper is a mapping script that automatically maps rooms as you move th
 
 FEATURES:
 
-* Auto-mapping based on MSDP information
+\* Auto-mapping based on MSDP information
 
-* Double click any room to run there
+\* Double click any room to run there
 
-* Customize room colors by terrain type
+\* Customize room colors by terrain type
 
-* Zoom in/out
+\* Zoom in/out
 
-* View any room or area from anywhere
+\* View any room or area from anywhere
 
-* Create custom run paths
+\* Create custom run paths
 
 To get it to work:
 
@@ -40,95 +40,95 @@ To get it to work:
 
 ```
 function initialise_msdp()
-  local vars = {
-    "ROOM_DESC",
-    "ROOM_RNUM",
-    "WEAR_HEAD",
-    "SERVER_ID", 
-    "WORLD_TIME", 
-    "CHARACTER_NAME",
-    "HEALTH",
-    "HEALTH_MAX",
-    "MANA",
-    "MANA_MAX",
-    "MOVEMENT",
-    "MOVEMENT_MAX",
-    "AREA_NAME",
-    "ROOM_NAME",
-    "ROOM_VNUM",
-    "AC",
-    "HONOR",
-    "CONTINENT",
-    "LEVEL",
-    "CLASS",
-    "DRACHMA",
-    "ALIGNMENT",
-    "EXPERIENCE",
-    "MONEY",
-    "STR",
-    "CON",
-    "DEX",
-    "WIS",
-    "INT",
-    "STR_PERM",
-    "CON_PERM",
-    "DEX_PERM",
-    "WIS_PERM",
-    "INT_PERM",
-    "WEAPON_DAM",
-    "SPELL_BONUS_CAP",
-    "HEAL_BONUS",
-    "HEAL_BONUS_CAP",
-   	 "CHARISMA",
-    "CHARISMA_CAP",
-    "FLAIL_DAM",
-    "KICK_DAM",
-    "HAND_DAM",
-    "HAND_DAM_CAP",
-    "DAM_RED",
-    "DAM_RED_CAP",
-    "SEX",
-    "GROUP_LEADER",
-    "TANK_HEALTH",
-    "TANK_HEALTH_MAX",
-    "TANK_LEVEL",
-    "TANK_NAME",
-    "LEVEL_SEC",
-    "LEVEL_TER",
-    "LEVEL_QUA",
-    "LEVEL_QUI",
-    "LEVEL_HEX",
-    "LEVEL_SEP",
-    "LEVEL_OCT",
-    "LEVEL_AVA",
-    "CITIZEN",
-    "CLASS_SEC",
-    "CLASS_TER",
-    "CLASS_QUA",
-    "CLASS_QUI",
-    "CLASS_HEX",
-    "CLASS_SEP",
-    "CLASS_OCT",
-    "CLASS_AVA",
-    "STAB_DAM",
-    "STAB_DAM_CAP",
-    "INT_PERM",
-    "HITROLL",
-    "DAMROLL",
-    "OPPONENT_HEALTH",
-    "OPPONENT_HEALTH_MAX",
-    "OPPONENT_NAME",
-    "OPPONENT_LEVEL",
-    "TERRAIN",
-    "AFFECTS",
-    "ROOM_EXITS",
-    "HUNGER",
-    "THIRST",
-    "COORD1","COORD2","COORD3","COORD4","COORD5","COORD6","COORD7","COORD8","COORD9","COORD10","COORD11","COORD12","COORD13","COORD14","COORD15","COORD16","COORD17","COORD18","COORD19","COORD20","COORD21","COORD22","COORD23","COORD24","COORD25",
-  }
-  for k,v in pairs(vars) do
-    sendMSDP("REPORT",v)
-  end
+ local vars = {
+ "ROOM_DESC",
+ "ROOM_RNUM",
+ "WEAR_HEAD",
+ "SERVER_ID", 
+ "WORLD_TIME", 
+ "CHARACTER_NAME",
+ "HEALTH",
+ "HEALTH_MAX",
+ "MANA",
+ "MANA_MAX",
+ "MOVEMENT",
+ "MOVEMENT_MAX",
+ "AREA_NAME",
+ "ROOM_NAME",
+ "ROOM_VNUM",
+ "AC",
+ "HONOR",
+ "CONTINENT",
+ "LEVEL",
+ "CLASS",
+ "DRACHMA",
+ "ALIGNMENT",
+ "EXPERIENCE",
+ "MONEY",
+ "STR",
+ "CON",
+ "DEX",
+ "WIS",
+ "INT",
+ "STR_PERM",
+ "CON_PERM",
+ "DEX_PERM",
+ "WIS_PERM",
+ "INT_PERM",
+ "WEAPON_DAM",
+ "SPELL_BONUS_CAP",
+ "HEAL_BONUS",
+ "HEAL_BONUS_CAP",
+ "CHARISMA",
+ "CHARISMA_CAP",
+ "FLAIL_DAM",
+ "KICK_DAM",
+ "HAND_DAM",
+ "HAND_DAM_CAP",
+ "DAM_RED",
+ "DAM_RED_CAP",
+ "SEX",
+ "GROUP_LEADER",
+ "TANK_HEALTH",
+ "TANK_HEALTH_MAX",
+ "TANK_LEVEL",
+ "TANK_NAME",
+ "LEVEL_SEC",
+ "LEVEL_TER",
+ "LEVEL_QUA",
+ "LEVEL_QUI",
+ "LEVEL_HEX",
+ "LEVEL_SEP",
+ "LEVEL_OCT",
+ "LEVEL_AVA",
+ "CITIZEN",
+ "CLASS_SEC",
+ "CLASS_TER",
+ "CLASS_QUA",
+ "CLASS_QUI",
+ "CLASS_HEX",
+ "CLASS_SEP",
+ "CLASS_OCT",
+ "CLASS_AVA",
+ "STAB_DAM",
+ "STAB_DAM_CAP",
+ "INT_PERM",
+ "HITROLL",
+ "DAMROLL",
+ "OPPONENT_HEALTH",
+ "OPPONENT_HEALTH_MAX",
+ "OPPONENT_NAME",
+ "OPPONENT_LEVEL",
+ "TERRAIN",
+ "AFFECTS",
+ "ROOM_EXITS",
+ "HUNGER",
+ "THIRST",
+ "COORD1","COORD2","COORD3","COORD4","COORD5","COORD6","COORD7","COORD8","COORD9","COORD10","COORD11","COORD12","COORD13","COORD14","COORD15","COORD16","COORD17","COORD18","COORD19","COORD20","COORD21","COORD22","COORD23","COORD24","COORD25",
+ }
+ for k,v in pairs(vars) do
+ sendMSDP("REPORT",v)
+ end
 end
 ```
 
@@ -138,7 +138,7 @@ end
 
 5 ) Login.
 
-6 ) Enter lua initialise_msdp() send("\n") from the command line.
+6 ) Enter lua initialise\_msdp() send("\\n") from the command line.
 
 7 ) Enter mapping mode on from the command line.
 
@@ -148,13 +148,13 @@ That should create your first room. You can then move around the script will do 
 
 NOTES:
 
-* Some locations won't map perfectly on a square grid in which you can right click the room you need to move     and drag the mouse in the direction you wish. 
+\* Some locations won't map perfectly on a square grid in which you can right click the room you need to move and drag the mouse in the direction you wish. 
 
-* You can alter the room colors  in the appropriate script by altering setCustomEnvColor(17, 0, 0, 0, 100) to whatever you want. The last four parameters are the rgba values. In this case it would be 0, 0, 0, 100 which is black with 100 transparency.
+\* You can alter the room colors in the appropriate script by altering setCustomEnvColor(17, 0, 0, 0, 100) to whatever you want. The last four parameters are the rgba values. In this case it would be 0, 0, 0, 100 which is black with 100 transparency.
 
-* Special exits (such as flying via dragon/phoenix/griffon) will not work with the speedwalk function just yet.
+\* Special exits (such as flying via dragon/phoenix/griffon) will not work with the speedwalk function just yet.
 
-* If you need to connect two rooms that the mapper may have missed, use the alias CONNECT [room1] [room2] [direction] So for example, connect 126 150 east will connect room 126 to 150 in a eastward direction.
+\* If you need to connect two rooms that the mapper may have missed, use the alias CONNECT [room1] [room2] [direction] So for example, connect 126 150 east will connect room 126 to 150 in a eastward direction.
 
 </div>
 
@@ -178,9 +178,9 @@ I have been using Akaya's mapper. Brilliant effort! A few things I needed to do 
 
 In the package Akaya has provided, import it as he specifies.
 
-Then, before you do anything else, open the editor window (any pane e.g. Alias, Trigger, Script will do) and search on RNUM. There is a box to type this in at the bottom left of the editor. If you find any files that reference RNUM (they will be in the form ROOM_RNUM), change the occurrences to ROOM_VNUM.
+Then, before you do anything else, open the editor window (any pane e.g. Alias, Trigger, Script will do) and search on RNUM. There is a box to type this in at the bottom left of the editor. If you find any files that reference RNUM (they will be in the form ROOM\_RNUM), change the occurrences to ROOM\_VNUM.
 
-Akaya also provides a lua function you can copy and paste into a mudlet Script file. The function's name is initialise_msdp(). Note the british 's', not the american 'z' in initialise if you ever want to run this manually. Create a script file with that function. One of the items in the local_vars table is "ROOM_RNUM". Just delete that line in the table. Further down you will see that "ROOM_VNUM" is provided, which is what you want.
+Akaya also provides a lua function you can copy and paste into a mudlet Script file. The function's name is initialise\_msdp(). Note the british 's', not the american 'z' in initialise if you ever want to run this manually. Create a script file with that function. One of the items in the local\_vars table is "ROOM\_RNUM". Just delete that line in the table. Further down you will see that "ROOM\_VNUM" is provided, which is what you want.
 
 Once you have done the preceding steps, you can enter the command, MAPPING ON, at the command line. You should get a message back that all is ok.
 
@@ -194,9 +194,9 @@ Below are instructions for installing a starter map for SlothMud that has many n
 
 The first challenge is to find the folder you want to put this .dat file in.
 
-On a mac, you will find your SlothMud profile using ~/.config/mudlet/profiles/
+On a mac, you will find your SlothMud profile using \~/.config/mudlet/profiles/
 
-On a pc, you fill find your SlothMud profile using User/<your login name>/.config/mudlet/profiles
+On a pc, you fill find your SlothMud profile using User/\<your login name\>/.config/mudlet/profiles
 
 In the profiles directory, you will have one or more profiles for SlothMud. Open the profile for the SlothMud you were using when you created the initial room mappings
 
@@ -210,7 +210,7 @@ When you go back into SlothMud, open the map window, do MAPPING ON and MAP START
 
 The map.dat file did not upload. Trying again. Can't upload. Here's a link
 
-[<LINK_TEXT text="https://dl.dropboxusercontent.com/u/483 ... -35map.dat">https://dl.dropboxusercontent.com/u/48327224/27-10-2014%2312-16-35map.dat</LINK_TEXT>](https://dl.dropboxusercontent.com/u/48327224/27-10-2014%2312-16-35map.dat)
+[https://dl.dropboxusercontent.com/u/48327224/27-10-2014%2312-16-35map.dat](https://dl.dropboxusercontent.com/u/48327224/27-10-2014%2312-16-35map.dat)
 
 </div>
 
@@ -218,22 +218,22 @@ The map.dat file did not upload. Trying again. Can't upload. Here's a link
 
 Thank you for this! Most appreciated! Still adding some new features. 
 
-I'll have an update soon (with fixes that should make installation easier  :lol: )
+I'll have an update soon (with fixes that should make installation easier <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> )
 
 New features will include (but not limited to):
 
-- door display
+\- door display
 
-- window display
+\- window display
 
-- special exit creation API (so you can ride boats, dragons, griffons, etc. with speedwalk)
+\- special exit creation API (so you can ride boats, dragons, griffons, etc. with speedwalk)
 
-- renovated path creation API
+\- renovated path creation API
 
 </div>
 
 <div class="post" data-post-id="37032" data-author="Akaya" data-date="2016-07-09T04:10:53+00:00" data-subject="Re: SlothMUD Mapper">
 
-With the removal of msdp.COORD#, this script is broken. I'll need to rewrite it using msdp.ROOM_EXITS instead.
+With the removal of msdp.COORD#, this script is broken. I'll need to rewrite it using msdp.ROOM\_EXITS instead.
 
 </div>

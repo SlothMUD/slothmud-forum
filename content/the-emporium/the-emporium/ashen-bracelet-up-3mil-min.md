@@ -22,9 +22,9 @@ AC-apply is -0.2
 
 Can affect you as:
 
-    Affects: DAMROLL by 1
+ Affects: DAMROLL by 1
 
-    Affects: RESIST_FIRE by 1
+ Affects: RESIST\_FIRE by 1
 
 Only those who have attained supremacy in at least three classes may use 
 

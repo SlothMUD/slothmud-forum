@@ -14,7 +14,7 @@ post_count: 2
 
 Hi guys,
 
-After an extended absence, I'm gonna be playing a bit again.  Will someone please recommend a good (preferably free) client.  A link to a download would be super helpful too.
+After an extended absence, I'm gonna be playing a bit again. Will someone please recommend a good (preferably free) client. A link to a download would be super helpful too.
 
 Looking forward to seeing you all again soon.
 

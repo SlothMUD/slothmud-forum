@@ -14,11 +14,11 @@ post_count: 2
 
 Batosai tells you 'i got the spellbook and im junking when im done'
 
-[20w 20c 15n 10b] Batosai  <>MaNsLaYeR<> need supp SB
+[20w 20c 15n 10b] Batosai \<\>MaNsLaYeR\<\> need supp SB
 
 Fabulous gossips-- 'u would like that too much dickhead'
 
-[ 8n  3w  1c  1o] Fabulous the Untitled
+[ 8n 3w 1c 1o] Fabulous the Untitled
 
 newbies forever!
 

@@ -18,7 +18,7 @@ I changed my wintin.net from white text / black background to black text / white
 
 <div class="post" data-post-id="13903" data-author="madmax" data-date="2006-09-04T19:16:45+00:00" data-subject="">
 
-Ive had a sililar problem.  Seems it is coming from the server side.  I have tries it on 2 diferent computers and have had the same results.  Before MXP came in to the game, there was no problems with it.  Since then, I have reluctantly switched to a black backgroud. 
+Ive had a sililar problem. Seems it is coming from the server side. I have tries it on 2 diferent computers and have had the same results. Before MXP came in to the game, there was no problems with it. Since then, I have reluctantly switched to a black backgroud. 
 
 Let me know if you get it working, as I would like to go back to a white background.
 
@@ -28,7 +28,7 @@ Madmax
 
 <div class="post" data-post-id="13904" data-author="*Splork*" data-date="2006-09-04T19:46:03+00:00" data-subject="">
 
-We have not changed anything with the who list in a couple of years, mxp is not included at all in the who list. So I am not entirely sure what the cause of this is. I'll snoop around and see what  I can find.
+We have not changed anything with the who list in a couple of years, mxp is not included at all in the who list. So I am not entirely sure what the cause of this is. I'll snoop around and see what I can find.
 
 Splork
 

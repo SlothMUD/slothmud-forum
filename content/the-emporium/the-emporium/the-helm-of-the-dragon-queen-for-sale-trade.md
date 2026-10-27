@@ -16,9 +16,9 @@ Greetings.
 
 You may have heard of the helm of the dragon queen:
 
--0.5 +max int, +7 bonus spell bonus
+\-0.5 +max int, +7 bonus spell bonus
 
-40ma & 40c l& 40ne & novice avatar
+40ma \& 40c l\& 40ne \& novice avatar
 
 It loads on the epic Maleficent, who repops on the house of Dragon, which gives her more punch.
 

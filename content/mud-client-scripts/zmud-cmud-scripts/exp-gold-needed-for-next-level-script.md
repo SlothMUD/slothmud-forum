@@ -12,15 +12,15 @@ post_count: 17
 
 <div class="post" data-post-id="3084" data-author="karl" data-date="2004-11-30T22:24:42+00:00" data-subject="Exp/Gold Needed for Next Level Script">
 
-I have written a Database in zMUD that contains the EXP/Gold information and then uses the output of the score command to set variables so that when you run a single alias, you are given the proper Exp/Gold for each of your 4 classes, that you need for the next level.  It also shows you how much currently unused EXP you have.
+I have written a Database in zMUD that contains the EXP/Gold information and then uses the output of the score command to set variables so that when you run a single alias, you are given the proper Exp/Gold for each of your 4 classes, that you need for the next level. It also shows you how much currently unused EXP you have.
 
-If anyone is interested in this I'll post it and the database.  Also, if anyone has any suggestions for features for this, please let me know.
+If anyone is interested in this I'll post it and the database. Also, if anyone has any suggestions for features for this, please let me know.
 
 </div>
 
 <div class="post" data-post-id="3085" data-author="Nascosto" data-date="2004-11-30T23:55:38+00:00" data-subject="">
 
-just go ahead and post it :)
+just go ahead and post it <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 I'm always interested to see how other people write scripts anyway
 
@@ -30,13 +30,13 @@ I'm always interested to see how other people write scripts anyway
 
 I'm too lazy for that. Or too focused. I always know which is the next level I want, so I just have a script that captures the cost (yes, I have to go to the guild and ask) and counts xpleft etc etc.
 
-But it's always neat to see the amount of effort and thinking we all go through  :D
+But it's always neat to see the amount of effort and thinking we all go through <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="3095" data-author="Calim" data-date="2004-12-01T12:18:17+00:00" data-subject="">
 
-Post that thing.  That is so cool.
+Post that thing. That is so cool.
 
 </div>
 
@@ -44,29 +44,27 @@ Post that thing.  That is so cool.
 
 The way this works is:
 
-Everytime time you type score, it updates the STAT_CurrentEXP and LEVEL_* variables with your current info.
+Everytime time you type score, it updates the STAT\_CurrentEXP and LEVEL\_\* variables with your current info.
 
 Then anytime you want to see what you need to the next level for each class you type tolev.
 
 You'll want to change the tolev alias and replace your 4 class names to show yours, but other then that, that's all there is to it.
 
-[code:1tnxmtf1]
-
+```
 #TRIGGER {^You have (%d) unused experience points.} {#VAR STAT_CurrentEXP %1}
 
-#TRIGGER {^Your levels:  %w: (%d) %w: (%d) %w: (%d) %w: (%d)} {expQuery %1 %2 %3 %4}
+#TRIGGER {^Your levels: %w: (%d) %w: (%d) %w: (%d) %w: (%d)} {expQuery %1 %2 %3 %4}
 
 #ALIAS expQuery {#VAR myrec { %QUERY( (&Level = %1 + 1), Primary|LevelInfo)};#DBRESET;#VAR LEVEL_Primary { %FORMAT( "&10.0n &10.0n", %db( @myrec, Prime_EXP), %db( @myrec, Prime_Gold))};#VAR myrec { %QUERY( (&Level = %2 + 1), Secondary|LevelInfo)};#DBRESET;#VAR LEVEL_Secondary { %FORMAT( "&10.0n &10.0n", %db( @myrec, Secondary_EXP), %db( @myrec, Secondary_Gold))};#VAR myrec { %QUERY( (&Level = %3 + 1), Tertiary|LevelInfo)};#DBRESET;#VAR LEVEL_Tertiary { %FORMAT( "&10.0n &10.0n", %db( @myrec, Tertiary_EXP), %db( @myrec, Tertiary_Gold))};#VAR myrec { %QUERY( (&Level = %4 + 1), Quad|LevelInfo)};#DBRESET;#VAR LEVEL_Quad { %FORMAT( "&10.0n &10.0n", %db( @myrec, Quad_EXP), %db( @myrec, Quad_Gold))}}
 
 #ALIAS tolev {#SAY Current EXP: %FORMAT( "&15.0n", @STAT_CurrentEXP);#SAY %FORMAT( "&18s&12s", "EXP", "GP");#SAY %FORMAT( &-9s, "Bard") : @LEVEL_Primary;#SAY %FORMAT( &-9s, "Warrior") : @LEVEL_Secondary;#SAY %FORMAT( &-9s, "Mage") : @LEVEL_Tertiary;#SAY %FORMAT( &-9s, "Cleric") : @LEVEL_Quad}
-
-[/code:1tnxmtf1]
+```
 
 Here's the URL where you can download the LevelInfo database.
 
-[url:1tnxmtf1]http://home.earthlink.net/~worgrider/LevelInfo.zip[/url:1tnxmtf1]
+http://home.earthlink.net/~worgrider/LevelInfo.zip
 
-Just extract the 2 files to your zMUD\slothmud\DB directory.
+Just extract the 2 files to your zMUD\\slothmud\\DB directory.
 
 Be sure to do a #DBLOAD LevelInfo and have the Database window open(can be minimized or rolled-up) for it to work.
 
@@ -88,7 +86,7 @@ Sec Level: 4,453,542 (62%) Total: 12,000,000
 
 Ter Level: 2,053,542 (78%) Total: 9,600,000
 
-Qua Level: 10,453,542 (41%) Total: 18,000,000[/color:1lh7bdwa]
+Qua Level: 10,453,542 (41%) Total: 18,000,000
 
 If my character was 40 prime, then the "Pri Level" line would not display.
 
@@ -96,9 +94,10 @@ Alias Output for an Avatar:
 
 Unused Xp: 198,062,256
 
-Ava Level: 351,937,728 (36%) Total: 550,000,000[/color:1lh7bdwa]
+Ava Level: 351,937,728 (36%) Total: 550,000,000
 
-[code:1lh7bdwa]Variable Defaults:
+```
+Variable Defaults:
 
 #var xp_variable 0 0
 
@@ -146,7 +145,7 @@ Trigger Value:
 
 Trigger Pattern:
 
-^Your levels:  ??: (%d) ??: (%d) ??: (%d) ??: (%d)
+^Your levels: ??: (%d) ??: (%d) ??: (%d) ??: (%d)
 
 Trigger Value:
 
@@ -162,13 +161,12 @@ Trigger Value:
 
 Trigger Pattern:
 
-^Your levels:  ??: %d ??: %d ??: %d ??: %d Av: (%d)
+^Your levels: ??: %d ??: %d ??: %d ??: %d Av: (%d)
 
 Trigger Value:
 
 #var av_xp_variable %case(%eval(%1+1), 110000000, 140000000, 180000000, 220000000, 260000000, 300000000, 340000000, 380000000, 420000000, 460000000, 500000000, 550000000, 600000000, 650000000, 700000000, 750000000, 800000000, 850000000, 900000000, 950000000, 1050000000, 1100000000, 1200000000, 1300000000, 1400000000, 1500000000, 1600000000, 1700000000, 1800000000, 1900000000, 2000000000, 2100000000, 2100000000, 2100000000, 2100000000, 2100000000, 2100000000, 2100000000, 2100000000, 2100000000, 0)
-
-[/code:1lh7bdwa]
+```
 
 </div>
 
@@ -176,11 +174,13 @@ Trigger Value:
 
 I liked this script but I didn't like having to type xp to see the info so I use this trigger to link it to scorp
 
-[code:2ispz4w9]Trigger: ^You have (%d) unused experience points.
+```
+Trigger: ^You have (%d) unused experience points.
 
 #var xp_variable %1
 
-#sub {%ansi( 2)Unused Xp: %ansi( 7)%format( "&1.0n", @xp_variable)%cr%ansi( 6)Pri Level: %ansi( 7)%format( "&1.0n", %eval( @pri_xp_variable-@xp_variable)) %ansi( 5)~(%eval( (@xp_variable/10)/(@pri_xp_variable/1000))%~) %ansi( 6)Total: %ansi( 7)%format( "&1.0n", @pri_xp_variable)%cr%ansi( 6)Sec Level: %ansi( 7)%format( "&1.0n", %eval( @sec_xp_variable-@xp_variable)) %ansi( 5)~(%eval( (@xp_variable/10)/(@sec_xp_variable/1000))%~) %ansi( 6)Total: %ansi( 7)%format( "&1.0n", @sec_xp_variable)%cr%ansi( 6)Ter Level: %ansi( 7)%format( "&1.0n", %eval( @ter_xp_variable-@xp_variable)) %ansi( 5)~(%eval( (@xp_variable/10)/(@ter_xp_variable/1000))%~) %ansi( 6)Total: %ansi( 7)%format( "&1.0n", @ter_xp_variable)%cr%ansi( 6)Qua Level: %ansi( 7)%format( "&1.0n", %eval( @qua_xp_variable-@xp_variable)) %ansi( 5)~(%eval( (@xp_variable/10)/(@qua_xp_variable/1000))%~) %ansi( 6)Total: %ansi( 7)%format( "&1.0n", @qua_xp_variable)}[/code:2ispz4w9]
+#sub {%ansi( 2)Unused Xp: %ansi( 7)%format( "&1.0n", @xp_variable)%cr%ansi( 6)Pri Level: %ansi( 7)%format( "&1.0n", %eval( @pri_xp_variable-@xp_variable)) %ansi( 5)~(%eval( (@xp_variable/10)/(@pri_xp_variable/1000))%~) %ansi( 6)Total: %ansi( 7)%format( "&1.0n", @pri_xp_variable)%cr%ansi( 6)Sec Level: %ansi( 7)%format( "&1.0n", %eval( @sec_xp_variable-@xp_variable)) %ansi( 5)~(%eval( (@xp_variable/10)/(@sec_xp_variable/1000))%~) %ansi( 6)Total: %ansi( 7)%format( "&1.0n", @sec_xp_variable)%cr%ansi( 6)Ter Level: %ansi( 7)%format( "&1.0n", %eval( @ter_xp_variable-@xp_variable)) %ansi( 5)~(%eval( (@xp_variable/10)/(@ter_xp_variable/1000))%~) %ansi( 6)Total: %ansi( 7)%format( "&1.0n", @ter_xp_variable)%cr%ansi( 6)Qua Level: %ansi( 7)%format( "&1.0n", %eval( @qua_xp_variable-@xp_variable)) %ansi( 5)~(%eval( (@xp_variable/10)/(@qua_xp_variable/1000))%~) %ansi( 6)Total: %ansi( 7)%format( "&1.0n", @qua_xp_variable)}
+```
 
 The only problem with this (being the whole thing) is not having a level in sec tri quad will mess up the triggers.
 
@@ -188,7 +188,7 @@ The only problem with this (being the whole thing) is not having a level in sec 
 
 <div class="post" data-post-id="3450" data-author="karl" data-date="2004-12-19T23:11:26+00:00" data-subject="">
 
-I have an update to this script.  Shows better output and is liked to Score, and handles not haveing a value for one of your classes levels.
+I have an update to this script. Shows better output and is liked to Score, and handles not haveing a value for one of your classes levels.
 
 I'll get it posted here this week.
 
@@ -200,7 +200,8 @@ I rather keep the score output as short as possible because of all the spells I 
 
 If you want to add coins needed to level to your #sub script, then you could add these lines to the "Your level" triggers:
 
-[code:3rlb5v10]#var pri_coin_variable %case(%eval(%1+1), 0, 150, 200, 250, 300, 540, 780, 1020, 1260, 1500, 2400, 3300, 4200, 5100, 6000, 8400, 10800, 13200, 15600, 18000, 21600, 25200, 28800, 32400, 36000, 43200, 50400, 57600, 64800, 72000, 100800, 129600, 158400, 187200, 216000, 302400, 388800, 475200, 561600, 648000, 0)
+```
+#var pri_coin_variable %case(%eval(%1+1), 0, 150, 200, 250, 300, 540, 780, 1020, 1260, 1500, 2400, 3300, 4200, 5100, 6000, 8400, 10800, 13200, 15600, 18000, 21600, 25200, 28800, 32400, 36000, 43200, 50400, 57600, 64800, 72000, 100800, 129600, 158400, 187200, 216000, 302400, 388800, 475200, 561600, 648000, 0)
 
 #var sec_coin_variable %case(%eval(%2+1), 200, 300, 400, 500, 600, 1200, 1800, 2040, 2520, 3000, 4800, 6600, 8400, 10200, 12000, 16800, 21660, 26400, 31200, 36000, 43200, 50400, 57600, 64800, 72000, 86400, 100800, 115200, 129600, 144000, 201600, 259200, 316800, 374400, 432000, 604800, 777600, 950400, 1123200, 1296000, 0)
 
@@ -210,7 +211,8 @@ If you want to add coins needed to level to your #sub script, then you could add
 
 -----
 
-#var av_coin_variable %case(%eval(%1+1), 1000000, 1075000, 1150000, 1225000, 1300000, 1375000, 1450000, 1525000, 1600000, 1675000, 1750000, 1825000, 1900000, 1975000, 2050000, 2125000, 2200000, 2275000, 2350000, 2425000, 2500000, 2575000, 2650000, 2725000, 2800000, 2875000, 2950000, 3025000, 3100000, 3175000, 3250000, 3325000, 3400000, 3475000, 3550000, 3625000, 3700000, 3775000, 3850000, 3925000, 0)[/code:3rlb5v10]
+#var av_coin_variable %case(%eval(%1+1), 1000000, 1075000, 1150000, 1225000, 1300000, 1375000, 1450000, 1525000, 1600000, 1675000, 1750000, 1825000, 1900000, 1975000, 2050000, 2125000, 2200000, 2275000, 2350000, 2425000, 2500000, 2575000, 2650000, 2725000, 2800000, 2875000, 2950000, 3025000, 3100000, 3175000, 3250000, 3325000, 3400000, 3475000, 3550000, 3625000, 3700000, 3775000, 3850000, 3925000, 0)
+```
 
 And the output could be something like:
 
@@ -222,7 +224,7 @@ Sec Level: 4,453,542 (62%) Total Xp: 12,000,000 Total Coin: 86,400
 
 Ter Level: 2,053,542 (78%) Total Xp: 9,600,000 Total Coin: 64,800
 
-Qua Level: 10,453,542 (41%) Total Xp: 18,000,000 Total Coin: 33,600[/color:3rlb5v10]
+Qua Level: 10,453,542 (41%) Total Xp: 18,000,000 Total Coin: 33,600
 
 </div>
 
@@ -232,55 +234,60 @@ This script works for any class order and any number of classes.
 
 Usage: just type "score" then "xp"
 
----
+\---
 
 Input:
 
-Your levels:  Wa: 34 Ma: 24 Th: 19 Cl: 11 
+Your levels: Wa: 34 Ma: 24 Th: 19 Cl: 11 
 
-You have 5000000 unused experience points.[/color:2cwdfajx]
+You have 5000000 unused experience points.
 
 Output--
 
-[code:2cwdfajx]Unused Xp: 5,000,000
+```
+Unused Xp: 5,000,000
 
-Class           Level Xp             Total Xp     Total Coin
+Class Level Xp Total Xp Total Coin
 
 ------------------------------------------------------------
 
-Pri Wa 35     13,300,000   27%     18,300,000        216,000
+Pri Wa 35 13,300,000 27% 18,300,000 216,000
 
-Sec Ma 25      5,000,000   50%     10,000,000         72,000
+Sec Ma 25 5,000,000 50% 10,000,000 72,000
 
-Ter Th 20      3,400,000   59%      8,400,000         54,000
+Ter Th 20 3,400,000 59% 8,400,000 54,000
 
-Qua Cl 12      3,000,000   62%      8,000,000         13,200[/code:2cwdfajx]
+Qua Cl 12 3,000,000 62% 8,000,000 13,200
+```
 
 A [Wa 34 Ma 24] shadow character would only display "Pri" and "Sec" lines.
 
 A [Wa 40 Ma 40 Th 19 Cl 11] charcter would only display "Ter" and "Qua" lines.
 
----
+\---
 
 Input, Avatar Character:
 
-Your levels:  Wa: 40 Ma: 40 Th: 40 Cl: 40 Av: 9 
+Your levels: Wa: 40 Ma: 40 Th: 40 Cl: 40 Av: 9 
 
-You have 100000000 unused experience points.[/color:2cwdfajx]
+You have 100000000 unused experience points.
 
 Output--
 
-[code:2cwdfajx]Unused Xp: 100,000,000
+```
+Unused Xp: 100,000,000
 
-Class           Level Xp             Total Xp     Total Coin
+Class Level Xp Total Xp Total Coin
 
 ------------------------------------------------------------
 
-Avatar 10    360,000,000   21%    460,000,000      1,675,000[/code:2cwdfajx]
+Avatar 10 360,000,000 21% 460,000,000 1,675,000
+```
 
 If you wish to install the script just save the following to a text file, then import ASCII script within zMUD.
 
-[code:2cwdfajx]#class {Level_Gain}
+```
+#class {Level_Gain}
 
 #no
 
@@ -318,7 +325,7 @@ If you wish to install the script just save the following to a text file, then i
 
 #show {}
 
-#show {%ansi(6)"Class           Level Xp             Total Xp     Total Coin"}
+#show {%ansi(6)"Class Level Xp Total Xp Total Coin"}
 
 #show {%ansi(7)"------------------------------------------------------------"}
 
@@ -380,7 +387,7 @@ If you wish to install the script just save the following to a text file, then i
 
 #no
 
-#trigger {^Your levels:  (%w): (%d) $} {
+#trigger {^Your levels: (%w): (%d) $} {
 
 #var level_variable {%1|%2}
 
@@ -388,7 +395,7 @@ setpri %2}
 
 #no
 
-#trigger {^Your levels:  (%w): (%d) (%w): (%d) $} {
+#trigger {^Your levels: (%w): (%d) (%w): (%d) $} {
 
 #var level_variable {%1|%2|%3|%4}
 
@@ -398,7 +405,7 @@ setsec %4}
 
 #no
 
-#trigger {^Your levels:  (%w): (%d) (%w): (%d) (%w): (%d) $} {
+#trigger {^Your levels: (%w): (%d) (%w): (%d) (%w): (%d) $} {
 
 #var level_variable {%1|%2|%3|%4|%5|%6}
 
@@ -410,7 +417,7 @@ setter %6}
 
 #no
 
-#trigger {^Your levels:  (%w): (%d) (%w): (%d) (%w): (%d) (%w): (%d) $} {
+#trigger {^Your levels: (%w): (%d) (%w): (%d) (%w): (%d) (%w): (%d) $} {
 
 #var level_variable {%1|%2|%3|%4|%5|%6|%7|%8}
 
@@ -424,7 +431,7 @@ setqua %8}
 
 #no
 
-#trigger {^Your levels:  (%w): (%d) (%w): (%d) (%w): (%d) (%w): (%d) (%w): (%d) $} {
+#trigger {^Your levels: (%w): (%d) (%w): (%d) (%w): (%d) (%w): (%d) (%w): (%d) $} {
 
 #var level_variable {%1|%2|%3|%4|%5|%6|%7|%8|%9|%10}
 
@@ -440,23 +447,28 @@ setava %10}
 
 #no
 
-#class 0[/code:2cwdfajx]
+#class 0
+```
 
 To Strago:
 
 If you rather the output be triggered by score, then omit the alias xp and replace this
 
-[code:2cwdfajx]#trigger {^You have (%d) unused experience points.} {
+```
+#trigger {^You have (%d) unused experience points.} {
 
-#var xp_variable %1}[/code:2cwdfajx]
+#var xp_variable %1}
+```
 
 with the following
 
-[code:2cwdfajx]#trigger {^You have (%d) unused experience points.} {
+```
+#trigger {^You have (%d) unused experience points.} {
 
 #var xp_variable %1
 
-#sub {%ansi(2)You have @xp_variable experience points.%if(@pri_xp_variable > 0,%cr%ansi(6)Pri %item(@level_variable,1) %format("&2.0n",%eval(%item(@level_variable,2)+1)): %ansi(7)%format("&1.0n",%eval(@pri_xp_variable-@xp_variable)) %ansi(5)~(%eval((@xp_variable/10)/(@pri_xp_variable/1000))%~) %ansi(6)Total Xp: %ansi(7)%format("&1.0n",@pri_xp_variable) %ansi(6)Total Coin: %ansi(7)%format("&1.0n",@pri_coin_variable))%if(@sec_xp_variable > 0,%cr%ansi(6)Sec %item(@level_variable,3) %format("&2.0n",%eval(%item(@level_variable,4)+1)): %ansi(7)%format("&1.0n",%eval(@sec_xp_variable-@xp_variable)) %ansi(5)~(%eval((@xp_variable/10)/(@sec_xp_variable/1000))%~) %ansi(6)Total Xp: %ansi(7)%format("&1.0n",@sec_xp_variable) %ansi(6)Total Coin: %ansi(7)%format("&1.0n",@sec_coin_variable))%if(@ter_xp_variable > 0,%cr%ansi(6)Ter %item(@level_variable,5) %format("&2.0n",%eval(%item(@level_variable,6)+1)): %ansi(7)%format("&1.0n",%eval(@ter_xp_variable-@xp_variable)) %ansi(5)~(%eval((@xp_variable/10)/(@ter_xp_variable/1000))%~) %ansi(6)Total Xp: %ansi(7)%format("&1.0n",@ter_xp_variable) %ansi(6)Total Coin: %ansi(7)%format("&1.0n",@ter_coin_variable))%if(@qua_xp_variable > 0,%cr%ansi(6)Qua %item(@level_variable,7) %format("&2.0n",%eval(%item(@level_variable,8)+1)): %ansi(7)%format("&1.0n",%eval(@qua_xp_variable-@xp_variable)) %ansi(5)~(%eval((@xp_variable/10)/(@qua_xp_variable/1000))%~) %ansi(6)Total Xp: %ansi(7)%format("&1.0n",@qua_xp_variable) %ansi(6)Total Coin: %ansi(7)%format("&1.0n",@qua_coin_variable))%if(@av_xp_variable > 0,%cr%ansi(6)Avatar %format("&2.0n",%eval(%item(@level_variable,10)+1)): %ansi(7)%format("&1.0n",%eval(@av_xp_variable-@xp_variable)) %ansi(5)~(%eval((@xp_variable/10)/(@av_xp_variable/1000))%~) %ansi(6)Total Xp: %ansi(7)%format("&1.0n",@av_xp_variable) %ansi(6)Total Coin: %ansi(7)%format("&1.0n",@av_coin_variable))}[/code:2cwdfajx]
+#sub {%ansi(2)You have @xp_variable experience points.%if(@pri_xp_variable > 0,%cr%ansi(6)Pri %item(@level_variable,1) %format("&2.0n",%eval(%item(@level_variable,2)+1)): %ansi(7)%format("&1.0n",%eval(@pri_xp_variable-@xp_variable)) %ansi(5)~(%eval((@xp_variable/10)/(@pri_xp_variable/1000))%~) %ansi(6)Total Xp: %ansi(7)%format("&1.0n",@pri_xp_variable) %ansi(6)Total Coin: %ansi(7)%format("&1.0n",@pri_coin_variable))%if(@sec_xp_variable > 0,%cr%ansi(6)Sec %item(@level_variable,3) %format("&2.0n",%eval(%item(@level_variable,4)+1)): %ansi(7)%format("&1.0n",%eval(@sec_xp_variable-@xp_variable)) %ansi(5)~(%eval((@xp_variable/10)/(@sec_xp_variable/1000))%~) %ansi(6)Total Xp: %ansi(7)%format("&1.0n",@sec_xp_variable) %ansi(6)Total Coin: %ansi(7)%format("&1.0n",@sec_coin_variable))%if(@ter_xp_variable > 0,%cr%ansi(6)Ter %item(@level_variable,5) %format("&2.0n",%eval(%item(@level_variable,6)+1)): %ansi(7)%format("&1.0n",%eval(@ter_xp_variable-@xp_variable)) %ansi(5)~(%eval((@xp_variable/10)/(@ter_xp_variable/1000))%~) %ansi(6)Total Xp: %ansi(7)%format("&1.0n",@ter_xp_variable) %ansi(6)Total Coin: %ansi(7)%format("&1.0n",@ter_coin_variable))%if(@qua_xp_variable > 0,%cr%ansi(6)Qua %item(@level_variable,7) %format("&2.0n",%eval(%item(@level_variable,8)+1)): %ansi(7)%format("&1.0n",%eval(@qua_xp_variable-@xp_variable)) %ansi(5)~(%eval((@xp_variable/10)/(@qua_xp_variable/1000))%~) %ansi(6)Total Xp: %ansi(7)%format("&1.0n",@qua_xp_variable) %ansi(6)Total Coin: %ansi(7)%format("&1.0n",@qua_coin_variable))%if(@av_xp_variable > 0,%cr%ansi(6)Avatar %format("&2.0n",%eval(%item(@level_variable,10)+1)): %ansi(7)%format("&1.0n",%eval(@av_xp_variable-@xp_variable)) %ansi(5)~(%eval((@xp_variable/10)/(@av_xp_variable/1000))%~) %ansi(6)Total Xp: %ansi(7)%format("&1.0n",@av_xp_variable) %ansi(6)Total Coin: %ansi(7)%format("&1.0n",@av_coin_variable))}
+```
 
 Now the script shouldn't mess up if you don't have levels in sec, ter, or qua class.
 
@@ -494,9 +506,10 @@ Try this:
 
 based on script by Kanae and data from Zuzu - thanks guys!
 
-[code:c70toze0]#CLASS {LEVEL_GAIN}
+```
+#CLASS {LEVEL_GAIN}
 
-#ALIAS xp {;#show {};#show {%ansi( 6)Unused Xp: %ansi( 2)%format( "&1.0n", @xp_variable)};#show {};#show {%ansi( 6)"Class           Level Xp             Total Xp     Total Coin"};#show {%ansi( 7)"------------------------------------------------------------"};#if (@pri_xp_variable > 0) {#show {%ansi( 2)Pri %item( @level_variable, 1) %format( "&2.0n", %eval( %item( @level_variable, 2)+1)) %format( "&14.0n", %eval( @pri_xp_variable-@xp_variable)) %format( "&4.0n", %eval( (@xp_variable/10)/(@pri_xp_variable/1000)))% %format( "&14.0n", @pri_xp_variable) %format( "&14.0n", @pri_coin_variable)}};#if (@sec_xp_variable > 0) {#show {%ansi( 2)Sec %item( @level_variable, 3) %format( "&2.0n", %eval( %item( @level_variable, 4)+1)) %format( "&14.0n", %eval( @sec_xp_variable-@xp_variable)) %format( "&4.0n", %eval( (@xp_variable/10)/(@sec_xp_variable/1000)))% %format( "&14.0n", @sec_xp_variable) %format( "&14.0n", @sec_coin_variable)}};#if (@ter_xp_variable > 0) {#show {%ansi( 2)Ter %item( @level_variable, 5) %format( "&2.0n", %eval( %item( @level_variable, 6)+1)) %format( "&14.0n", %eval( @ter_xp_variable-@xp_variable)) %format( "&4.0n", %eval( (@xp_variable/10)/(@ter_xp_variable/1000)))% %format( "&14.0n", @ter_xp_variable) %format( "&14.0n", @ter_coin_variable)}};#if (@qua_xp_variable > 0) {#show {%ansi( 2)Qua %item( @level_variable, 7) %format( "&2.0n", %eval( %item( @level_variable, 8)+1)) %format( "&14.0n", %eval( @qua_xp_variable-@xp_variable)) %format( "&4.0n", %eval( (@xp_variable/10)/(@qua_xp_variable/1000)))% %format( "&14.0n", @qua_xp_variable) %format( "&14.0n", @qua_coin_variable)}};#if (@fifth_xp_variable > 0) {#show {%ansi( 2)Fif %item( @level_variable, 9) %format( "&2.0n", %eval( %item( @level_variable, 10)+1)) %format( "&14.0n", %eval( @fifth_xp_variable-@xp_variable)) %format( "&4.0n", %eval( (@xp_variable/10)/(@fifth_xp_variable/1000)))% %format( "&14.0n", @fifth_xp_variable) %format( "&14.0n", @fifth_coin_variable)}};#if (@sixth_xp_variable > 0) {#show {%ansi( 2)Six %item( @level_variable, 11) %format( "&2.0n", %eval( %item( @level_variable, 12)+1)) %format( "&14.0n", %eval( @sixth_xp_variable-@xp_variable)) %format( "&4.0n", %eval( (@xp_variable/10)/(@sixth_xp_variable/1000)))% %format( "&14.0n", @sixth_xp_variable) %format( "&14.0n", @sixth_coin_variable)}};#if (@seventh_xp_variable > 0) {#show {%ansi( 2)Sev %item( @level_variable, 13) %format( "&2.0n", %eval( %item( @level_variable, 14)+1)) %format( "&14.0n", %eval( @seventh_xp_variable-@xp_variable)) %format( "&4.0n", %eval( (@xp_variable/10)/(@seventh_xp_variable/1000)))% %format( "&14.0n", @seventh_xp_variable) %format( "&14.0n", @seventh_coin_variable)}};#if (@eigth_xp_variable > 0) {#show {%ansi( 2)Eig %item( @level_variable, 15) %format( "&2.0n", %eval( %item( @level_variable, 16)+1)) %format( "&14.0n", %eval( @eigth_xp_variable-@xp_variable)) %format( "&4.0n", %eval( (@xp_variable/10)/(@eigth_xp_variable/1000)))% %format( "&14.0n", @eigth_xp_variable) %format( "&14.0n", @eigth_coin_variable)}};#if (@av_xp_variable > 0) {#show {%ansi( 2)Ava %item( @level_variable, 17) %format( "&2.0n", %eval( %item( @level_variable, 18)+1)) %format( "&14.0n", %eval( @av_xp_variable-@xp_variable)) %format( "&4.0n", %eval( (@xp_variable/10)/(@av_xp_variable/1000)))% %format( "&14.0n", @av_xp_variable) %format( "&14.0n", @av_coin_variable)}};#no} "Level_Gain"
+#ALIAS xp {;#show {};#show {%ansi( 6)Unused Xp: %ansi( 2)%format( "&1.0n", @xp_variable)};#show {};#show {%ansi( 6)"Class Level Xp Total Xp Total Coin"};#show {%ansi( 7)"------------------------------------------------------------"};#if (@pri_xp_variable > 0) {#show {%ansi( 2)Pri %item( @level_variable, 1) %format( "&2.0n", %eval( %item( @level_variable, 2)+1)) %format( "&14.0n", %eval( @pri_xp_variable-@xp_variable)) %format( "&4.0n", %eval( (@xp_variable/10)/(@pri_xp_variable/1000)))% %format( "&14.0n", @pri_xp_variable) %format( "&14.0n", @pri_coin_variable)}};#if (@sec_xp_variable > 0) {#show {%ansi( 2)Sec %item( @level_variable, 3) %format( "&2.0n", %eval( %item( @level_variable, 4)+1)) %format( "&14.0n", %eval( @sec_xp_variable-@xp_variable)) %format( "&4.0n", %eval( (@xp_variable/10)/(@sec_xp_variable/1000)))% %format( "&14.0n", @sec_xp_variable) %format( "&14.0n", @sec_coin_variable)}};#if (@ter_xp_variable > 0) {#show {%ansi( 2)Ter %item( @level_variable, 5) %format( "&2.0n", %eval( %item( @level_variable, 6)+1)) %format( "&14.0n", %eval( @ter_xp_variable-@xp_variable)) %format( "&4.0n", %eval( (@xp_variable/10)/(@ter_xp_variable/1000)))% %format( "&14.0n", @ter_xp_variable) %format( "&14.0n", @ter_coin_variable)}};#if (@qua_xp_variable > 0) {#show {%ansi( 2)Qua %item( @level_variable, 7) %format( "&2.0n", %eval( %item( @level_variable,  SM8) +1)) %format( "&14.0n", %eval( @qua_xp_variable-@xp_variable)) %format( "&4.0n", %eval( (@xp_variable/10)/(@qua_xp_variable/1000)))% %format( "&14.0n", @qua_xp_variable) %format( "&14.0n", @qua_coin_variable)}};#if (@fifth_xp_variable > 0) {#show {%ansi( 2)Fif %item( @level_variable, 9) %format( "&2.0n", %eval( %item( @level_variable, 10)+1)) %format( "&14.0n", %eval( @fifth_xp_variable-@xp_variable)) %format( "&4.0n", %eval( (@xp_variable/10)/(@fifth_xp_variable/1000)))% %format( "&14.0n", @fifth_xp_variable) %format( "&14.0n", @fifth_coin_variable)}};#if (@sixth_xp_variable > 0) {#show {%ansi( 2)Six %item( @level_variable, 11) %format( "&2.0n", %eval( %item( @level_variable, 12)+1)) %format( "&14.0n", %eval( @sixth_xp_variable-@xp_variable)) %format( "&4.0n", %eval( (@xp_variable/10)/(@sixth_xp_variable/1000)))% %format( "&14.0n", @sixth_xp_variable) %format( "&14.0n", @sixth_coin_variable)}};#if (@seventh_xp_variable > 0) {#show {%ansi( 2)Sev %item( @level_variable, 13) %format( "&2.0n", %eval( %item( @level_variable, 14)+1)) %format( "&14.0n", %eval( @seventh_xp_variable-@xp_variable)) %format( "&4.0n", %eval( (@xp_variable/10)/(@seventh_xp_variable/1000)))% %format( "&14.0n", @seventh_xp_variable) %format( "&14.0n", @seventh_coin_variable)}};#if (@eigth_xp_variable > 0) {#show {%ansi( 2)Eig %item( @level_variable, 15) %format( "&2.0n", %eval( %item( @level_variable, 16)+1)) %format( "&14.0n", %eval( @eigth_xp_variable-@xp_variable)) %format( "&4.0n", %eval( (@xp_variable/10)/(@eigth_xp_variable/1000)))% %format( "&14.0n", @eigth_xp_variable) %format( "&14.0n", @eigth_coin_variable)}};#if (@av_xp_variable > 0) {#show {%ansi( 2)Ava %item( @level_variable, 17) %format( "&2.0n", %eval( %item( @level_variable, 18)+1)) %format( "&14.0n", %eval( @av_xp_variable-@xp_variable)) %format( "&4.0n", %eval( (@xp_variable/10)/(@av_xp_variable/1000)))% %format( "&14.0n", @av_xp_variable) %format( "&14.0n", @av_coin_variable)}};#no} "Level_Gain"
 
 #ALIAS setpri {#var pri_xp_variable %case(%eval(%1+1), 0, 2000, 4000, 9000, 15000, 20000, 30000, 40000, 80000, 120000, 150000, 200000, 250000, 300000, 400000, 450000, 500000, 550000, 600000, 700000, 800000, 1000000, 1500000, 2000000, 2500000, 3500000, 4700000, 6000000, 7300000, 8600000, 9900000, 11000000, 13000000, 15000000, 18300000, 21500000, 25000000, 30000000, 35000000, 40000000, 0);#var pri_coin_variable %case(%eval(%1+1), 0, 150, 200, 250, 300, 540, 780, 1020, 1260, 1500, 2400, 3300, 4200, 5100, 6000, 8400, 10800, 13200, 15600, 18000, 21600, 25200, 28800, 32400, 36000, 43200, 50400, 57600, 64800, 72000, 100800, 129600, 158400, 187200, 216000, 302400, 388800, 475200, 561600, 648000, 0)} "Level_Gain"
 
@@ -558,25 +571,26 @@ based on script by Kanae and data from Zuzu - thanks guys!
 
 #TRIGGER {^You have (%d) unused experience points.} {#var xp_variable %1} "Level_Gain"
 
-#TRIGGER {^Your levels:  (%w): (%d) $} {#var level_variable {%1|%2};setpri %2} "Level_Gain"
+#TRIGGER {^Your levels: (%w): (%d) $} {#var level_variable {%1|%2};setpri %2} "Level_Gain"
 
-#TRIGGER {^Your levels:  (%w): (%d) (%w): (%d) $} {#var level_variable {%1|%2|%3|%4};setpri %2;setsec %4} "Level_Gain"
+#TRIGGER {^Your levels: (%w): (%d) (%w): (%d) $} {#var level_variable {%1|%2|%3|%4};setpri %2;setsec %4} "Level_Gain"
 
-#TRIGGER {^Your levels:  (%w): (%d) (%w): (%d) (%w): (%d) $} {#var level_variable {%1|%2|%3|%4|%5|%6};setpri %2;setsec %4;setter %6} "Level_Gain"
+#TRIGGER {^Your levels: (%w): (%d) (%w): (%d) (%w): (%d) $} {#var level_variable {%1|%2|%3|%4|%5|%6};setpri %2;setsec %4;setter %6} "Level_Gain"
 
-#TRIGGER {^Your levels:  (%w): (%d) (%w): (%d) (%w): (%d) (%w): (%d) $} {#var level_variable {%1|%2|%3|%4|%5|%6|%7|%8};setpri %2;setsec %4;setter %6;setqua %8} "Level_Gain"
+#TRIGGER {^Your levels: (%w): (%d) (%w): (%d) (%w): (%d) (%w): (%d) $} {#var level_variable {%1|%2|%3|%4|%5|%6|%7|%8};setpri %2;setsec %4;setter %6;setqua %8} "Level_Gain"
 
-#TRIGGER {^Your levels:  (%w): (%d) (%w): (%d) (%w): (%d) (%w): (%d) (%w): (%d) $} {#var level_variable {%1|%2|%3|%4|%5|%6|%7|%8|%9|%10};setpri %2;setsec %4;setter %6;setqua %8;setfif %10} "Level_Gain"
+#TRIGGER {^Your levels: (%w): (%d) (%w): (%d) (%w): (%d) (%w): (%d) (%w): (%d) $} {#var level_variable {%1|%2|%3|%4|%5|%6|%7|%8|%9|%10};setpri %2;setsec %4;setter %6;setqua %8;setfif %10} "Level_Gain"
 
-#TRIGGER {^Your levels:  (%w): (%d) (%w): (%d) (%w): (%d) (%w): (%d) (%w): (%d) (%w): (%d) $} {#var level_variable {%1|%2|%3|%4|%5|%6|%7|%8|%9|%10|%11|%12};setpri %2;setsec %4;setter %6;setqua %8;setfif %10;setsix %12} "Level_Gain"
+#TRIGGER {^Your levels: (%w): (%d) (%w): (%d) (%w): (%d) (%w): (%d) (%w): (%d) (%w): (%d) $} {#var level_variable {%1|%2|%3|%4|%5|%6|%7|%8|%9|%10|%11|%12};setpri %2;setsec %4;setter %6;setqua %8;setfif %10;setsix %12} "Level_Gain"
 
-#TRIGGER {^Your levels:  (%w): (%d) (%w): (%d) (%w): (%d) (%w): (%d) (%w): (%d) (%w): (%d) (%w): (%d) $} {#var level_variable {%1|%2|%3|%4|%5|%6|%7|%8|%9|%10|%11|%12|%13|%14};setpri %2;setsec %4;setter %6;setqua %8;setfif %10;setsix %12;setsev %14} "Level_Gain"
+#TRIGGER {^Your levels: (%w): (%d) (%w): (%d) (%w): (%d) (%w): (%d) (%w): (%d) (%w): (%d) (%w): (%d) $} {#var level_variable {%1|%2|%3|%4|%5|%6|%7|%8|%9|%10|%11|%12|%13|%14};setpri %2;setsec %4;setter %6;setqua %8;setfif %10;setsix %12;setsev %14} "Level_Gain"
 
-#TRIGGER {^Your levels:  (%w): (%d) (%w): (%d) (%w): (%d) (%w): (%d) (%w): (%d) (%w): (%d) (%w): (%d) (%w): (%d) $} {#var level_variable {%1|%2|%3|%4|%5|%6|%7|%8|%9|%10|%11|%12|%13|%14|%15|%16};setpri %2;setsec %4;setter %6;setqua %8;setfif %10;setsix %12;setsev %14;seteig %16} "Level_Gain"
+#TRIGGER {^Your levels: (%w): (%d) (%w): (%d) (%w): (%d) (%w): (%d) (%w): (%d) (%w): (%d) (%w): (%d) (%w): (%d) $} {#var level_variable {%1|%2|%3|%4|%5|%6|%7|%8|%9|%10|%11|%12|%13|%14|%15|%16};setpri %2;setsec %4;setter %6;setqua %8;setfif %10;setsix %12;setsev %14;seteig %16} "Level_Gain"
 
-#TRIGGER {^Your levels:  (%w): (%d) (%w): (%d) (%w): (%d) (%w): (%d) (%w): (%d) (%w): (%d) (%w): (%d)(%w): (%d) (%w): (%d) $} {#var level_variable {%1|%2|%3|%4|%5|%6|%7|%8|%9|%10|%11|%12|%13|%14|%15|%16|%17|%18};setpri %2;setsec %4;setter %6;setqua %8;setfif %10;setsix %12;setsev %14;seteig %16;setava %18} "Level_Gain"
+#TRIGGER {^Your levels: (%w): (%d) (%w): (%d) (%w): (%d) (%w): (%d) (%w): (%d) (%w): (%d) (%w): (%d)(%w): (%d) (%w): (%d) $} {#var level_variable {%1|%2|%3|%4|%5|%6|%7|%8|%9|%10|%11|%12|%13|%14|%15|%16|%17|%18};setpri %2;setsec %4;setter %6;setqua %8;setfif %10;setsix %12;setsev %14;seteig %16;setava %18} "Level_Gain"
 
-#CLASS 0[/code:c70toze0]
+#CLASS 0
+```
 
 </div>
 
@@ -594,11 +608,11 @@ To fix the 6th level code, simply press the alias button on zmud and search for 
 
 There, paste this modified code
 
-[code:2pwisfca]
-
+```
 #var sixth_xp_variable %case( %eval( %1+1), 120000, 240000, 480000, 960000, 1350000, 2100000, 3000000, 4200000, 8400000, 10800000, 16500000, 24000000, 30000000, 36000000, 48000000, 54000000, 60000000, 66000000, 72000000, 84000000, 96000000, 120000000, 180000000, 240000000, 300000000, 360000000, 444000000, 540000000, 630000000, 840000000, 960000000, 1080000000, 1170000000, 1350000000, 1524000000, 1815000000, 1950000000, 2100000000, 2550000000, 2700000000, 0)
 
-#var sixth_coin_variable %case( %eval( %1+1), 1200, 1800, 2400, 3000, 3600, 6480, 9360, 12240, 15120, 18000, 28800, 39600, 50400, 61200, 72000, 100800, 129600, 158400, 187200, 216000, 259200, 302400, 345600, 388800, 432000, 518400, 604800, 691200, 777600, 864000, 1209600, 1555200, 1900800, 2246400, 2592000, 3628800, 4665600, 5702400, 6739200, 7776000, 0)[/code:2pwisfca]
+#var sixth_coin_variable %case( %eval( %1+1), 1200, 1800, 2400, 3000, 3600, 6480, 9360, 12240, 15120, 18000, 28800, 39600, 50400, 61200, 72000, 100800, 129600, 158400, 187200, 216000, 259200, 302400, 345600, 388800, 432000, 518400, 604800, 691200, 777600, 864000, 1209600, 1555200, 1900800, 2246400, 2592000, 3628800, 4665600, 5702400, 6739200, 7776000, 0)
+```
 
 I realize not everyone must be on Zmud, so here's the EXP/Coins chart in Table format that may be used for Sloth Website.
 
@@ -606,6 +620,6 @@ I realize not everyone must be on Zmud, so here's the EXP/Coins chart in Table f
 
 I would like to thank Norks for the spreadsheet and Zuzuzuzuzuzzu for compiling the guestimated EXP / Coins chart.
 
--Rig
+\-Rig
 
 </div>

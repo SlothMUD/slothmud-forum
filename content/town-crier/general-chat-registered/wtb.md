@@ -14,7 +14,7 @@ post_count: 1
 
 Need Patched Black Cloak for my Bard.
 
-Please sell to me :)
+Please sell to me <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Also need a Silver Harmonica from that damn Native Boy in Swamp!!!
 

@@ -12,11 +12,11 @@ post_count: 1
 
 <div class="post" data-post-id="5890" data-author="Mosaix" data-date="2005-05-01T02:15:45+00:00" data-subject="WTB Quest Item">
 
-Dunno who has this.  Its basically newbie quest EQ.
+Dunno who has this. Its basically newbie quest EQ.
 
-Pair of Scaled Metal Leggings.  its -HW so I imagine was given out in a quest while ago, player has outgrown it, and hoping you would like to part with it.
+Pair of Scaled Metal Leggings. its -HW so I imagine was given out in a quest while ago, player has outgrown it, and hoping you would like to part with it.
 
-Have a restring and say 15-20mil for it if its available.  If it is can work something out.
+Have a restring and say 15-20mil for it if its available. If it is can work something out.
 
 Thanks
 

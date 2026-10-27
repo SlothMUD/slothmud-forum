@@ -14,85 +14,85 @@ post_count: 7
 
 Jc says:
 
-*i miss the good old mud
+\*i miss the good old mud
 
 Stratos says:
 
-*nods
+\*nods
 
-*me too
+\*me too
 
 Jc says:
 
-* i was soo imba
+\* i was soo imba
 
-*1.5k
+\*1.5k
 
-*hp
+\*hp
 
-*:D
+\*:D
 
 Stratos says:
 
-*you were in a league of your own
+\*you were in a league of your own
 
 Jc says:
 
-*haha
+\*haha
 
-*no1 wanna even come challenge me
+\*no1 wanna even come challenge me
 
 Stratos says:
 
-*nod
+\*nod
 
 Jc says:
 
-*even toxis
+\*even toxis
 
-*i helped him
+\*i helped him
 
 Stratos says:
 
-*guess that's why they wiped :P
+\*guess that's why they wiped <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 Jc says:
 
-*get 1.33k hp
+\*get 1.33k hp
 
-*lol
+\*lol
 
 Stratos says:
 
-**Splork* "Hrm, Sa is too powerful but I can't just purge him.. what to do, what to do...?"
+\*\*Splork\* "Hrm, Sa is too powerful but I can't just purge him.. what to do, what to do...?"
 
 Jc says:
 
-*rofl
+\*rofl
 
 Stratos says:
 
-**Blaster* "PWIPE!"
+\*\*Blaster\* "PWIPE!"
 
 Jc says:
 
-*wipe
+\*wipe
 
-*just for me
+\*just for me
 
 Stratos says:
 
-**Splork* "Won't that piss people off?"
+\*\*Splork\* "Won't that piss people off?"
 
-**Blaster* "But it gets rid of SA!!"
+\*\*Blaster\* "But it gets rid of SA!!"
 
 Jc says:
 
-*lmfao
+\*lmfao
 
 Stratos says:
 
-**Splork* "ok, done." :)
+\*\*Splork\* "ok, done." <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -118,7 +118,8 @@ sometime ponder on immortal brain mechanisms.. haha
 
 <div class="post" data-post-id="29190" data-author="Thraxas" data-date="2009-05-16T21:46:13+00:00" data-subject="">
 
-Who is Sa?[/quote:qtiomgvp]
+> <strong>\*Splork\* wrote:</strong>
+> Who is Sa?
 
 a legend in his own mind
 
@@ -126,13 +127,13 @@ a legend in his own mind
 
 <div class="post" data-post-id="29195" data-author="Toxis" data-date="2009-05-17T06:36:47+00:00" data-subject="">
 
-You know, it's Josh's (Sa) big ass head that makes people dislike him.  I spent so much time building and helping imms and doing other things and Sa thinks I never wanted to challenge him cuz he's so perfect?  Anyone can write bot scripts and sleep while the other leads.  Don't talk trash about me unless you really want to throw down because I also played 10 different characters.  You could never do what I put into my characters.
+You know, it's Josh's (Sa) big ass head that makes people dislike him. I spent so much time building and helping imms and doing other things and Sa thinks I never wanted to challenge him cuz he's so perfect? Anyone can write bot scripts and sleep while the other leads. Don't talk trash about me unless you really want to throw down because I also played 10 different characters. You could never do what I put into my characters.
 
-Just because I hate doing AQ's and get tired of running eq because I have played SlothMUD for 16 years, I log on and do want I want to do.  I don't play like an automaton and do what I HAVE to do because it would make my char ultrapowerful.  I like to have fun on the mud. 
+Just because I hate doing AQ's and get tired of running eq because I have played SlothMUD for 16 years, I log on and do want I want to do. I don't play like an automaton and do what I HAVE to do because it would make my char ultrapowerful. I like to have fun on the mud. 
 
-You don't see Sa playing now anyway, do you?  Because he burnt out like  a match and doesn't have any love for Sloth.  I'm still here, I still love Sloth, and I hope I have a lot more to give to it.
+You don't see Sa playing now anyway, do you? Because he burnt out like a match and doesn't have any love for Sloth. I'm still here, I still love Sloth, and I hope I have a lot more to give to it.
 
--Tox
+\-Tox
 
 </div>
 
@@ -140,11 +141,11 @@ You don't see Sa playing now anyway, do you?  Because he burnt out like  a match
 
 amen...brad
 
-I still chuckle at the day I looted the full moon glyph :)
+I still chuckle at the day I looted the full moon glyph <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 not to mention, it's sadly pathetic to see people discussing/bragging about their superiority of games while they're on IM
 
-_REALLY_ sad and pathetic
+\_REALLY\_ sad and pathetic
 
 i just hope he's over 13 yrs old
 

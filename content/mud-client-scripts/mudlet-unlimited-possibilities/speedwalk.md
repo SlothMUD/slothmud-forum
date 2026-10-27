@@ -18,15 +18,15 @@ Pattern:
 
 ^([0-9neswdu]+)$
 
-for count, direction in string.gmatch(matches[2], "([0-9]*)([neswdu])") do      
+for count, direction in string.gmatch(matches[2], "([0-9]\*)([neswdu])") do 
 
-   count = (count == "" and 1 or count)
+ count = (count == "" and 1 or count)
 
-   for i=1, count do send(direction,false) end
+ for i=1, count do send(direction,false) end
 
 end
 
---Except that this matches on the opening screen when you hit 1 to enter the game. If anyone can figure out how to fix the pattern to not match on a single \d, pls post it.
+\--Except that this matches on the opening screen when you hit 1 to enter the game. If anyone can figure out how to fix the pattern to not match on a single \\d, pls post it.
 
 to correct this i added:
 
@@ -40,12 +40,12 @@ It'd be better to just fix the pattern tho.
 
 Maybe this will work:
 
-^([0-9neswud]*[neswud]+)$
+^([0-9neswud]\*[neswud]+)$
 
 </div>
 
 <div class="post" data-post-id="34624" data-author="DarkArtist" data-date="2013-12-12T11:41:11+00:00" data-subject="Re: Speedwalk">
 
-Yup, thanks :)
+Yup, thanks <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

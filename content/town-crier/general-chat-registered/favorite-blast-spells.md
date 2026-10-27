@@ -40,7 +40,8 @@ My point is... I'm not sure how useful these things REALLY are, unless we can me
 
 <div class="post" data-post-id="30487" data-author="harik" data-date="2009-12-15T02:04:59+00:00" data-subject="">
 
-I understand what your trying to dig up here... maybe some useful spell or debuff that's under used or under estimated... but I'm not sure it exists.[/quote:17efdpfv]
+> <strong>jezer wrote:</strong>
+> I understand what your trying to dig up here... maybe some useful spell or debuff that's under used or under estimated... but I'm not sure it exists.
 
 Arena?
 
@@ -48,7 +49,7 @@ Arena?
 
 <div class="post" data-post-id="30488" data-author="jezer" data-date="2009-12-15T03:09:56+00:00" data-subject="">
 
-Yeah, you can arena... but you can only really measure things "relatively" in the arena, as levels and prime factor too much in power. So at the end you say, how powerful is crimson...? well it's THIS measure relative to <your character prime, dam, order, level, skills> against <that characters prime dam, order, level, skills>.
+Yeah, you can arena... but you can only really measure things "relatively" in the arena, as levels and prime factor too much in power. So at the end you say, how powerful is crimson...? well it's THIS measure relative to \<your character prime, dam, order, level, skills\> against \<that characters prime dam, order, level, skills\>.
 
 Weird how we can see dam and hit at 1x40, but we can't see this information for our skills and spells... which we apparently learn to an expert level... So we are an expert at something, but we don't know how much of what it does? Illogical.
 
@@ -76,11 +77,16 @@ Also if bard's are given a song to say if a mob pops an item, doesn't this encou
 
 <div class="post" data-post-id="30490" data-author="Thraxas" data-date="2009-12-15T06:01:50+00:00" data-subject="">
 
-This is an idea I hope is taken seriously...
-
-A practise dummy with 1000/0hp, 
-
-Also if bard's are given a song to say if a mob pops an item, doesn't this encourage exploring and cycling?[/quote:36un9e9p]
+> <strong>jezer wrote:</strong>
+> This is an idea I hope is taken seriously...
+> 
+> 
+> 
+> A practise dummy with 1000/0hp, 
+> 
+> 
+> 
+> Also if bard's are given a song to say if a mob pops an item, doesn't this encourage exploring and cycling?
 
 Practice Dummies : Theres even an area already made that would be perfect for this called ... erm ... Practice Dummies.
 

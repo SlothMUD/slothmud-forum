@@ -14,39 +14,37 @@ post_count: 1
 
 What I need:
 
-          2 x Infernite Chunk
+ 2 x Infernite Chunk
 
-          Torn Page from "The Properties of Infernite"
+ Torn Page from "The Properties of Infernite"
 
-          Woven Strands Of Gold
+ Woven Strands Of Gold
 
-          Emporers Crown
-
-         
+ Emporers Crown
 
 What I have: 
 
-         4 x Leather straps
+ 4 x Leather straps
 
-         Minks oil
+ Minks oil
 
-         Awl
+ Awl
 
-         Edger
+ Edger
 
-         Small Whetstone
+ Small Whetstone
 
-         Black Hilt
+ Black Hilt
 
-         Affliction of Tortured souls
+ Affliction of Tortured souls
 
-         Mahogany Box of Crystals
+ Mahogany Box of Crystals
 
-         Claws of Raw Negative Energy
+ Claws of Raw Negative Energy
 
-         Fragments of a shattered headstone
+ Fragments of a shattered headstone
 
-         Cape Of Infernite Shadows
+ Cape Of Infernite Shadows
 
 Also have a few other things like Shirt of mithril rings and possibly a few other things that might be a little harder to get from me but we can talk something out lemme know.
 

@@ -12,7 +12,7 @@ post_count: 2
 
 <div class="post" data-post-id="12589" data-author="12345" data-date="2006-05-19T04:18:48+00:00" data-subject="Thick Iron Leg Plates">
 
-Restricts on the non-cursed thick iron leg plates are different.  Kinda nice now:
+Restricts on the non-cursed thick iron leg plates are different. Kinda nice now:
 
 cast 'identify' leg
 
@@ -34,6 +34,6 @@ Only those who are at least experienced warriors, bards, or monks may use this i
 
 <div class="post" data-post-id="12590" data-author="jezer" data-date="2006-05-19T04:48:10+00:00" data-subject="">
 
-I just paid a mill for bamboo shin guards  :cry:
+I just paid a mill for bamboo shin guards <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom">
 
 </div>

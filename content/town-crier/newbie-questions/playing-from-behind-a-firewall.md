@@ -18,13 +18,13 @@ Is there away to be allowed to play at the same time?
 
 Thanks.
 
--Daglo, the player behind Keio
+\-Daglo, the player behind Keio
 
 </div>
 
 <div class="post" data-post-id="11957" data-author="*Splork*" data-date="2006-04-05T22:14:20+00:00" data-subject="">
 
-Simply inform one of the Immortals logged in what your situation is. Quite a few people are in your situation. The Immortals will wrap it, possibly even test you someday to make sure there is no multiplaying.  But besides that, hope to see you online...
+Simply inform one of the Immortals logged in what your situation is. Quite a few people are in your situation. The Immortals will wrap it, possibly even test you someday to make sure there is no multiplaying. But besides that, hope to see you online...
 
 Enjoy,
 

@@ -16,21 +16,21 @@ Someone restring this to a Day-Glo CWI vest for her please..omg.
 
 Necrad gives you a white silk robe.
 
-<753hp 363ma 124mv><180395906xp>
+\<753hp 363ma 124mv\>\<180395906xp\>
 
 rAlas, you cannot go that way...
 
-<753hp 363ma 124mv><180395906xp>
+\<753hp 363ma 124mv\>\<180395906xp\>
 
 regen
 
 The dwarvish Auctioneer tells you 'No magic here - kid!'
 
-<753hp 363ma 125mv><180395906xp>
+\<753hp 363ma 125mv\>\<180395906xp\>
 
 l in siNecrad stares at the sky.
 
-<753hp 363ma 125mv><180395906xp>
+\<753hp 363ma 125mv\>\<180395906xp\>
 
 l in silk
 
@@ -120,32 +120,32 @@ enchanted shoulder guards
 
 a lightning bolt
 
-<753hp 363ma 126mv><180395906xp>
+\<753hp 363ma 126mv\>\<180395906xp\>
 
 scream
 
 ARRRRRRRRRRGH!!!!!
 
-<753hp 363ma 128mv><180395906xp>
+\<753hp 363ma 128mv\>\<180395906xp\>
 
 say wtf
 
 You say 'wtf'
 
-<753hp 363ma 128mv><180395906xp>
+\<753hp 363ma 128mv\>\<180395906xp\>
 
 Necrad falls down laughing.
 
-<753hp 363ma 129mv><180395906xp>
+\<753hp 363ma 129mv\>\<180395906xp\>
 
 say imAlias gossips-- 'skirts.'
 
-<753hp 363ma 131mv><180395906xp>
+\<753hp 363ma 131mv\>\<180395906xp\>
 
 say im posting this
 
 You say 'im posting this'
 
-<753hp 363ma 133mv><180395906xp>
+\<753hp 363ma 133mv\>\<180395906xp\>
 
 </div>

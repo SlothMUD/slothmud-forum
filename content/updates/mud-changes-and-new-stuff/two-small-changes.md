@@ -14,7 +14,7 @@ post_count: 1
 
 Leaders will now see when their followers stop following them or start to follow them regardless if they are awake or asleep. They will also notice someone attempting to follow thier locked groups. This includes a player's summons, animates, etc. However, there will be no notice if someone attempts to tail them.
 
-A small change with our jujus, they now change short and long descriptions when a  player gets a larger juju. Remember, the juju always increases hit points as the playe levels. However, periodically throughout a players growth, their juju grows in hps, mana, damage, etc. The new titles will show when this occurs.
+A small change with our jujus, they now change short and long descriptions when a player gets a larger juju. Remember, the juju always increases hit points as the playe levels. However, periodically throughout a players growth, their juju grows in hps, mana, damage, etc. The new titles will show when this occurs.
 
 Enjoy,
 

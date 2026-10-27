@@ -26,7 +26,7 @@ ivory scarab
 
 pair of steel camails
 
-will pay well,thanks :)
+will pay well,thanks <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 post here or catch ingame as sind/soul.
 
@@ -34,18 +34,18 @@ post here or catch ingame as sind/soul.
 
 <div class="post" data-post-id="5026" data-author="Sind" data-date="2005-03-13T22:15:38+00:00" data-subject=".">
 
-also need pair of bony bracelets :)
+also need pair of bony bracelets <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="5033" data-author="Choong" data-date="2005-03-14T08:04:23+00:00" data-subject=".">
 
-Catch me for your .3 rings. Bring along your check book or suitcase of dollar bills!  :twisted:
+Catch me for your .3 rings. Bring along your check book or suitcase of dollar bills! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="5039" data-author="Driven" data-date="2005-03-14T12:47:29+00:00" data-subject="">
 
-I've got a shield of yawning death that I'm no longer using.  It's yours if you find me online.  During the week I log on around 12am EST.
+I've got a shield of yawning death that I'm no longer using. It's yours if you find me online. During the week I log on around 12am EST.
 
 </div>

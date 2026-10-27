@@ -24,20 +24,20 @@ you have to be registered user on myspace.com to watch blogs
 
 <div class="post" data-post-id="22493" data-author="Yasik" data-date="2008-02-03T20:28:26+00:00" data-subject="">
 
-[img:1tm8tcyw]http://yasik.kiev.ua/Blogging.jpg[/img:1tm8tcyw]
+![](http://yasik.kiev.ua/Blogging.jpg)
 
-[img:1tm8tcyw]http://yasik.kiev.ua/Blogging2.jpg[/img:1tm8tcyw]
+![](http://yasik.kiev.ua/Blogging2.jpg)
 
 </div>
 
 <div class="post" data-post-id="22494" data-author="jezer" data-date="2008-02-03T22:26:47+00:00" data-subject="">
 
-I'm registered, no dice...  :?
+I'm registered, no dice... <img src="/images/smilies/icon_e_confused.svg" alt=":?" title=":?" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="22815" data-author="Yasik" data-date="2008-02-19T22:32:09+00:00" data-subject="">
 
-[img:2dj3tp8g]http://yasik.kiev.ua/BloggingMonkeys.jpg[/img:2dj3tp8g]
+![](http://yasik.kiev.ua/BloggingMonkeys.jpg)
 
 </div>

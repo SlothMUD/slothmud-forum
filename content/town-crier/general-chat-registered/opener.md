@@ -100,7 +100,7 @@ Total exp for kill is 284516242.
 
 geez took like 6 runs atleast and killed us alot
 
-king was just for quest tho as i understand so no need to cycle him :)
+king was just for quest tho as i understand so no need to cycle him <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Tyrannosaurus rex is dead! R.I.P.
 
@@ -130,11 +130,11 @@ AC-apply is -0.7
 
 Can affect you as:
 
-    Affects: HITPOINT by 5
+ Affects: HITPOINT by 5
 
-    Affects: WEAPON_DAMAGE by 1
+ Affects: WEAPON\_DAMAGE by 1
 
-    Affects: MAX_STR by 1
+ Affects: MAX\_STR by 1
 
 Only those who are at least supreme clerics, warriors, bards, or monks, and
 

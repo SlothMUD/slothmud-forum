@@ -164,19 +164,19 @@ A massive black dog gestures dramatically, and Daedalus is roasted in a burning 
 
 Daedalus utters the words, 'yfaghbarh'
 
-This giant canine has jet-black short hair and a cropped tail.  His belly
+This giant canine has jet-black short hair and a cropped tail. His belly
 
 and chest are more of a brownish color that extends to the tips of his
 
-massive paws.  Razor sharp claws capable of tearing flesh to bits and huge
+massive paws. Razor sharp claws capable of tearing flesh to bits and huge
 
-white fangs are this beast's formidable weapons.  The dog does not appear
+white fangs are this beast's formidable weapons. The dog does not appear
 
 to be very friendly.
 
 A massive black dog has a few scratches.
 
-<275hp 159ma 208mv>
+\<275hp 159ma 208mv\>
 
 You deal a critical blow to one of a massive black dog's vital organs.
 
@@ -200,21 +200,21 @@ A massive black dog viciously massacres Daedalus with his bite.
 
 You have been KILLED!!
 
-<-75hp 160ma 208mv>
+\<-75hp 160ma 208mv\>
 
 sk
 
-Lie still; you are DEAD!!! :-(
+Lie still; you are DEAD!!! <img src="/images/smilies/icon_e_sad.svg" alt=":-(" title=":-(" width="15" height="15" class="smiley nozoom">
 
-I quit to get minstrel on and recall everyone at least, checked dog.  Handed out a few corpses.
+I quit to get minstrel on and recall everyone at least, checked dog. Handed out a few corpses.
 
-This giant canine has jet-black short hair and a cropped tail.  His belly
+This giant canine has jet-black short hair and a cropped tail. His belly
 
 and chest are more of a brownish color that extends to the tips of his
 
-massive paws.  Razor sharp claws capable of tearing flesh to bits and huge
+massive paws. Razor sharp claws capable of tearing flesh to bits and huge
 
-white fangs are this beast's formidable weapons.  The dog does not appear
+white fangs are this beast's formidable weapons. The dog does not appear
 
 to be very friendly.
 
@@ -222,27 +222,27 @@ A massive black dog is in excellent condition.
 
 a massive black dog is using:
 
-<worn on feet>       black orcskin boots..It emits a faint humming sound!
+\<worn on feet\> black orcskin boots..It emits a faint humming sound!
 
-<worn on arms>       a pair of granite bracers
+\<worn on arms\> a pair of granite bracers
 
-<worn as shield>     a rusty shield
+\<worn as shield\> a rusty shield
 
-<worn about waist>   an ebony sash
+\<worn about waist\> an ebony sash
 
-<worn around wrist>  a blue steel bracelet
+\<worn around wrist\> a blue steel bracelet
 
-<worn around wrist>  a blue steel bracelet
+\<worn around wrist\> a blue steel bracelet
 
 You attempt to peek at the inventory:
 
 You can't see anything.
 
-  98787 bytes received in total, compressed to 12640 bytes by MCCP (87 % saving)
+ 98787 bytes received in total, compressed to 12640 bytes by MCCP (87 % saving)
 
-#SESSION CLOSED.
+\#SESSION CLOSED.
 
-#Saving Scripts.
+\#Saving Scripts.
 
 </div>
 
@@ -252,9 +252,9 @@ that used to be one of my favorite solo mobs, was a good guage for a warrior to 
 
 Shazuko Roku Ryuu
 
-<Shazuko Six Dragons>
+\<Shazuko Six Dragons\>
 
-<~Chaos~>
+\<\~Chaos\~\>
 
 when you make one enemy, make on friend.
 

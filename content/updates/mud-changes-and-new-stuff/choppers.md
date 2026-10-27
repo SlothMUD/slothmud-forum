@@ -27,7 +27,7 @@ Added the keyword "chopper" to the following weapons :
 - Specularem
 - Sword of the Dragons
 
-Hopefuly it will help you guys to locate, manage, etc.  Thanks Toxis for the help.
+Hopefuly it will help you guys to locate, manage, etc. Thanks Toxis for the help.
 
 Fix already in game (for new created choppers, that is).
 

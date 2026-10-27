@@ -14,11 +14,13 @@ post_count: 9
 
 Maybe thats obviously, but as its said in skill description:
 
-[code:3ayrbz0g]As a warrior grows comfortable with **his weapon of choice**, their
+```
+As a warrior grows comfortable with [b]his weapon of choice[/b], their
 
 accuracy with it greatly increases. The amount of the increase
 
-is dependant on the level of the warrior, as well as Avatar levels.[/code:3ayrbz0g]
+is dependant on the level of the warrior, as well as Avatar levels.
+```
 
 No single word about swords. And there are a lot of weapons besides swords in the game. Daggers come in mind first.
 
@@ -46,7 +48,7 @@ Splork
 
 <div class="post" data-post-id="29215" data-author="jezer" data-date="2009-05-19T01:49:16+00:00" data-subject="">
 
-Hey, I think I've been right one other time... erm... yeah!  :twisted:
+Hey, I think I've been right one other time... erm... yeah! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -62,36 +64,54 @@ but ok
 
 <div class="post" data-post-id="29217" data-author="*Splork*" data-date="2009-05-19T02:44:21+00:00" data-subject="">
 
-The skill has not changed in 7 years( it has always only worked with slash)  and plenTy of people use plenty of different types of weapons.
+The skill has not changed in 7 years( it has always only worked with slash) and plenTy of people use plenty of different types of weapons.
 
 </div>
 
 <div class="post" data-post-id="29218" data-author="jezer" data-date="2009-05-19T03:51:09+00:00" data-subject="">
 
-pleny of people use plenty of different types of weapons.[/quote:3l1jhnpk]
+> <strong>Splorkie wrote:</strong>
+> pleny of people use plenty of different types of weapons.
 
-The pen is mighter than the sword... it's why I write a lot on the crier... also cause Splork can't nerf me here either...  :twisted:
+The pen is mighter than the sword... it's why I write a lot on the crier... also cause Splork can't nerf me here either... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="29219" data-author="Filk" data-date="2009-05-19T11:30:39+00:00" data-subject="">
 
-pleny of people use plenty of different types of weapons.[/quote:18qilckw]
+> <strong>jezer wrote:</strong>
+> > <strong>Splorkie wrote:</strong>
+> > pleny of people use plenty of different types of weapons.
+> 
+> 
+> 
+> 
+> 
+> The pen is mighter than the sword... it's why I write a lot on the crier... also cause Splork can't nerf me here either... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
-The pen is mighter than the sword... it's why I write a lot on the crier... also cause Splork can't nerf me here either...  :twisted:[/quote:18qilckw]
-
-He can wipe your postcount! Beware!  :twisted:
+He can wipe your postcount! Beware! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="29220" data-author="jezer" data-date="2009-05-19T12:15:55+00:00" data-subject="">
 
-pleny of people use plenty of different types of weapons.[/quote:18ogyfzi]
+> <strong>Filk wrote:</strong>
+> > <strong>jezer wrote:</strong>
+> > > <strong>Splorkie wrote:</strong>
+> > > pleny of people use plenty of different types of weapons.
+> > 
+> > 
+> > 
+> > 
+> > 
+> > The pen is mighter than the sword... it's why I write a lot on the crier... also cause Splork can't nerf me here either... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
+> 
+> 
+> 
+> 
+> 
+> He can wipe your postcount! Beware! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
-The pen is mighter than the sword... it's why I write a lot on the crier... also cause Splork can't nerf me here either...  :twisted:[/quote:18ogyfzi]
-
-He can wipe your postcount! Beware!  :twisted:[/quote:18ogyfzi]
-
-He just wiped Apprentice, my 988 mana / 172 mana regen 7 brutal attacking druid... Now I'm this crappy level 30 with 3 weak attacks and -5 ac. And your worried about my post count?  :shock:
+He just wiped Apprentice, my 988 mana / 172 mana regen 7 brutal attacking druid... Now I'm this crappy level 30 with 3 weak attacks and -5 ac. And your worried about my post count? <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>

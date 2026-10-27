@@ -16,12 +16,11 @@ Thanks go out to Nascosto for giving me the basic script, I just added the color
 
 This script will give you a prompt in the format
 
-<20[/color:3ul6lou1]/100[/color:3ul6lou1]hp 50[/color:3ul6lou1]/100[/color:3ul6lou1]ma 80[/color:3ul6lou1]/80[/color:3ul6lou1]mv>
+\<20/100hp 50/100ma 80/80mv\>
 
 I found it very useful.
 
-[code:3ul6lou1]
-
+```
 -- Trigger 1
 
 Pattern: <&%d{hp}hp &%d{ma}ma &%d{mv}mv>
@@ -52,7 +51,8 @@ Value:
 
 Pattern: ^You have %d~(&%d{maxhp}~) hit, %d~(&%d{maxma}~) mana and %d~(&%d{maxmv}~) movement points.
 
-Value: Leave Blank[/code:3ul6lou1]
+Value: Leave Blank
+```
 
 With these triggers everytime you check your score the max values get updated. The values for color changing is:
 

@@ -12,13 +12,13 @@ post_count: 13
 
 <div class="post" data-post-id="8680" data-author="Shara" data-date="2005-09-15T08:52:15+00:00" data-subject="Suggestion for SlothMUD!">
 
-Hey imms!  Me and Chobchob would love to have more emotes in the game!!  We'd love to make suggestions, as I'm sure other players would too!
+Hey imms! Me and Chobchob would love to have more emotes in the game!! We'd love to make suggestions, as I'm sure other players would too!
 
 I know you can do something like
 
 emote does a pirouette and clicks her heels and catches a butterfly out of the air while embroidering a pillow cover!
 
-but it's just not the same :(
+but it's just not the same <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -26,7 +26,7 @@ but it's just not the same :(
 
 You are welcome to suggest specifics and they will be evaluated on a case by case basis.
 
-The requirements for building an emote include 9 versions of the message for the different scenarios of actor, actee and observer.  The more that you have thought out the more likely it is to get implemented (though always subject to review for appropriateness to game).
+The requirements for building an emote include 9 versions of the message for the different scenarios of actor, actee and observer. The more that you have thought out the more likely it is to get implemented (though always subject to review for appropriateness to game).
 
 Please submit them to the wizlist at your leisure.
 
@@ -38,13 +38,14 @@ Clink
 
 <div class="post" data-post-id="8688" data-author="Weasel" data-date="2005-09-15T17:40:09+00:00" data-subject="">
 
-*weasel sticks a wet finger in your ear*
+\*weasel sticks a wet finger in your ear\*
 
 </div>
 
 <div class="post" data-post-id="8689" data-author="12345" data-date="2005-09-15T17:42:52+00:00" data-subject="">
 
-The requirements for building an emote include 9 versions of the message for the different scenarios of actor, actee and observer.[/quote:2ubs40gq]
+> <strong>Clink wrote:</strong>
+> The requirements for building an emote include 9 versions of the message for the different scenarios of actor, actee and observer.
 
 It might be helpful if you enumerated these, please.
 
@@ -72,15 +73,15 @@ I think there are in fact 8 versions, which are:
 
 Where I say "$n is you", the following substitutions are made:
 
-   $n   your name
+ $n your name
 
-   $m  him/her/it as appropriate for you
+ $m him/her/it as appropriate for you
 
-   $s   his/hers/its as appropriate for you
+ $s his/hers/its as appropriate for you
 
-   $e   he/she/it as appropriate for you
+ $e he/she/it as appropriate for you
 
-Where I say "$N is target" the same substitutions apply for the target, but all uppercase.  For example, here's the messages for "growl":
+Where I say "$N is target" the same substitutions apply for the target, but all uppercase. For example, here's the messages for "growl":
 
 Grrrrrrrrrr...
 
@@ -104,7 +105,7 @@ Note that you can submit emotes but we may or may not put them in depending on w
 
 <div class="post" data-post-id="8698" data-author="Shara" data-date="2005-09-15T19:26:03+00:00" data-subject="">
 
-Will start on it!  :cackle:
+Will start on it! :cackle:
 
 Where can I find a list of current available emotes?
 
@@ -112,7 +113,7 @@ Where can I find a list of current available emotes?
 
 <div class="post" data-post-id="8699" data-author="12345" data-date="2005-09-15T19:29:30+00:00" data-subject="">
 
-They're known as socials.  'commands socials' should bring up a list of all of them.
+They're known as socials. 'commands socials' should bring up a list of all of them.
 
 </div>
 
@@ -120,7 +121,7 @@ They're known as socials.  'commands socials' should bring up a list of all of t
 
 Another suggestion: to add Braille alphabet to the braille spellbook or to help file. I can post here this alphabet. :^)
 
------
+\-----
 
 Singing here about Thule snow.
 
@@ -128,21 +129,21 @@ Singing here about Thule snow.
 
 <div class="post" data-post-id="8754" data-author="Shara" data-date="2005-09-20T16:00:56+00:00" data-subject="">
 
-Where do I email it to?  :(
+Where do I email it to? <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="8755" data-author="Alberich" data-date="2005-09-20T16:04:11+00:00" data-subject="">
 
-*cough*EMAIL*cough*
+\*cough\*EMAIL\*cough\*
 
 </div>
 
 <div class="post" data-post-id="8758" data-author="Shara" data-date="2005-09-20T17:36:44+00:00" data-subject="">
 
-Where and what is the wizlist :(
+Where and what is the wizlist <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
-Sorry, I'm really new :(
+Sorry, I'm really new <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 

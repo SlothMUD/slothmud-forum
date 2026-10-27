@@ -14,7 +14,7 @@ post_count: 1
 
 Goblin trader quest
 
-on completing bag_of_merchandise quest
+on completing bag\_of\_merchandise quest
 
 this G trader gives you a new quest but only names it once (to bring new bag to Wagoneer leader).
 

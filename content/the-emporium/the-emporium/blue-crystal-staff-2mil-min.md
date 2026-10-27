@@ -30,11 +30,11 @@ restoration
 
 Can affect you as:
 
-    Affects: SYSTEM_SHOCK by 1
+ Affects: SYSTEM\_SHOCK by 1
 
 Only those who are at least experienced magic users, clerics, thieves, 
 
-warriors, druids, necromancers, bards, or monks may use this item.  
+warriors, druids, necromancers, bards, or monks may use this item. 
 
 Also a component for graygem forge
 

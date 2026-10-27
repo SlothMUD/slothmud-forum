@@ -38,33 +38,33 @@ As a lvl 1-3 item of eq only it shouldn't unbalance the game, but I don't even k
 
 Hello Daisy,
 
-I don't see how primer (held low) item would have stats like that?  Even if
+I don't see how primer (held low) item would have stats like that? Even if
 
-it's only for lvl 1-3 or to 8.  It's a good idea to help newbies, but really the
+it's only for lvl 1-3 or to 8. It's a good idea to help newbies, but really the
 
 Imm won't ever do anything like that.
 
 If there was going to be stats on a book, the only thing I can say is +1hit
 
-for those lvls.  Giving the person more exp and knowledge to hit something.
+for those lvls. Giving the person more exp and knowledge to hit something.
 
 </div>
 
 <div class="post" data-post-id="13555" data-author="12345" data-date="2006-07-25T20:41:30+00:00" data-subject="">
 
-Most experienced players can do the same.  
+Most experienced players can do the same. 
 
-The newbie primer was an attempt to teach newbies the game before proceding... as is the newbie school.  The main issue being that sloth is VERY different from most other MUDs.  
+The newbie primer was an attempt to teach newbies the game before proceding... as is the newbie school. The main issue being that sloth is VERY different from most other MUDs. 
 
-Another is that most prior players know a few methods to get themselves a holy sword, which greatly swings the power balance on a level 1 char.  They can also pass down equipment, which helps quite a bit.
+Another is that most prior players know a few methods to get themselves a holy sword, which greatly swings the power balance on a level 1 char. They can also pass down equipment, which helps quite a bit.
 
-When I used to randomly roam Valk helping newbies, it seemed that once I got them a holy sword (quite the quest) they got along much better.  The other issue that came up quite a bit was how to get coins for starting levels.
+When I used to randomly roam Valk helping newbies, it seemed that once I got them a holy sword (quite the quest) they got along much better. The other issue that came up quite a bit was how to get coins for starting levels.
 
 What you're suggesting isn't much more unbalanced than the holy sword is, however, since the swords are practically always in use, it becomes very cumbersome to get them high enough on whatever tablet to get something useful.
 
-It would be quite helpful if Splork's temple ignored ranking on the tablet and if similar objects were in use if the player were under a certain level.  This would basically give them the object you're speaking of and make holy items a lot easier to understand for newbies.
+It would be quite helpful if Splork's temple ignored ranking on the tablet and if similar objects were in use if the player were under a certain level. This would basically give them the object you're speaking of and make holy items a lot easier to understand for newbies.
 
-ie.  If you're under level 5, you can pray for a holy sword at Splork's temple and actually get one.  Probably with a warning along the lines of:
+ie. If you're under level 5, you can pray for a holy sword at Splork's temple and actually get one. Probably with a warning along the lines of:
 
 "You are now ranked 178 in sacrifices to Splork with 2 sacrifice points.
 
@@ -74,12 +74,12 @@ Type 'sac corpse' after you loot them to increase your sac points and ranking.
 
 You must be ranked 150 or better when you reach level 5 or you will lose your holy item."
 
-It would also help Splork's karma with newbies :)
+It would also help Splork's karma with newbies <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="13557" data-author="osric" data-date="2006-07-25T22:04:01+00:00" data-subject="">
 
-heh, some people don't really worry about karma :)
+heh, some people don't really worry about karma <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

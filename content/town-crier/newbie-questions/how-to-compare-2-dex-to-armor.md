@@ -40,11 +40,11 @@ get the dex work on the armor
 
 <div class="post" data-post-id="7621" data-author="12345" data-date="2005-06-26T18:41:26+00:00" data-subject="">
 
-If possible, you always want to have 18 dex, since it's -4.0 AC.  Every dex point above 14 is -1.0 ac.
+If possible, you always want to have 18 dex, since it's -4.0 AC. Every dex point above 14 is -1.0 ac.
 
-If you can't get to at least 15 dex, don't even worry about trying, go for the AC.  If you have 18 dex, again, ignore dex and go for AC.  
+If you can't get to at least 15 dex, don't even worry about trying, go for the AC. If you have 18 dex, again, ignore dex and go for AC. 
 
-If you have 14 dex and have the choice of wearing a +dex bracelet or a -.3 bracelet, you have to figure that the dex is -1.0 extra AC, which makes it at least -.7 better than the -.3 bracelet.  If the dex won't help you, the -.3 bracelet is probably better.
+If you have 14 dex and have the choice of wearing a +dex bracelet or a -.3 bracelet, you have to figure that the dex is -1.0 extra AC, which makes it at least -.7 better than the -.3 bracelet. If the dex won't help you, the -.3 bracelet is probably better.
 
 Net effect, you'll have to do the match to figure out which is better.
 

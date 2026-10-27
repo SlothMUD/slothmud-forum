@@ -12,7 +12,7 @@ post_count: 1
 
 <div class="post" data-post-id="12394" data-author="12345" data-date="2006-04-29T06:50:14+00:00" data-subject="Dragon Bone Ring">
 
-Found this in the Drac Lair.  Mostly useless except as a cp:
+Found this in the Drac Lair. Mostly useless except as a cp:
 
 recite identify ring
 
@@ -30,9 +30,9 @@ AC-apply is -0.4
 
 Can affect you as:
 
-    Affects: SPELL_BONUS by -15
+ Affects: SPELL\_BONUS by -15
 
-    Affects: MOVE by -10
+ Affects: MOVE by -10
 
 Only those who are at least experienced warriors or monks may use this
 

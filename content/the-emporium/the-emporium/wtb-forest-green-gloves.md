@@ -16,7 +16,7 @@ Hello,
 
 If anyone have one of these for sale, I would be very happy.
 
-Soooo, does anyone have one for sale???  Will pay well!
+Soooo, does anyone have one for sale??? Will pay well!
 
 </div>
 
@@ -24,7 +24,7 @@ Soooo, does anyone have one for sale???  Will pay well!
 
 OOOOO Also!!!
 
-I'm looking for a -.4 belt thats NOT belt of the damn.  Does anyone have
+I'm looking for a -.4 belt thats NOT belt of the damn. Does anyone have
 
 one of these also???
 
@@ -32,13 +32,13 @@ one of these also???
 
 <div class="post" data-post-id="9096" data-author="brand" data-date="2005-10-20T14:47:03+00:00" data-subject="">
 
-i got a pair of gloves :!:
+i got a pair of gloves <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="9097" data-author="brand" data-date="2005-10-20T15:11:41+00:00" data-subject="">
 
-ok i checked and i really do have the gloves on me now so let me know where to ship if you're still needing them. :?:  :twisted:
+ok i checked and i really do have the gloves on me now so let me know where to ship if you're still needing them. <img src="/images/smilies/icon_question.svg" alt=":?:" title=":?:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -46,16 +46,16 @@ ok i checked and i really do have the gloves on me now so let me know where to s
 
 SWEET Brand!!!
 
-I won't be on until later tonight.  At work now, so no access.
+I won't be on until later tonight. At work now, so no access.
 
-However YES YES YES!!!  I do need :)
+However YES YES YES!!! I do need <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-U can send to Vlad if u like.  How much do u want the gloves for???
+U can send to Vlad if u like. How much do u want the gloves for???
 
 </div>
 
 <div class="post" data-post-id="9100" data-author="brand" data-date="2005-10-20T19:37:47+00:00" data-subject="">
 
-500k. i'll ship to vlad :twisted:
+500k. i'll ship to vlad <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

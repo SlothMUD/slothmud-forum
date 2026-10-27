@@ -54,7 +54,7 @@ A few answers, hope I don't confuse ya too much..
 
 2)depending on the type of token and how many people are on versus how many actually need them.... anywhere from 125k to 300k normally
 
-3)there is a token you can by from weaver shop that will show completed quests...10 drachma I think.. best to keep notes as there are a sh*tload of quests
+3)there is a token you can by from weaver shop that will show completed quests...10 drachma I think.. best to keep notes as there are a sh\*tload of quests
 
 4)these usually state how difficult the items were to obtain..usually only a few ingame at best
 
@@ -78,25 +78,25 @@ Welcome to Slothmud Belisarius.
 
 Here's my random answers:
 
-1.  Quests are run by the gods, u will know it when you see it.  There are autoquests in game initiated by certain mobs.
+1\. Quests are run by the gods, u will know it when you see it. There are autoquests in game initiated by certain mobs.
 
-2.  Depending on the token and seller, values swing greatly, I would say though 50K for a tri, 100-150k for a hex, single-sided dies and octs are more normally.
+2\. Depending on the token and seller, values swing greatly, I would say though 50K for a tri, 100-150k for a hex, single-sided dies and octs are more normally.
 
-3.  See AH's answer
+3\. See AH's answer
 
-4.  Much of the quest eq can be bought in the quest shops, values somewhat fit the low, mid and high categories.
+4\. Much of the quest eq can be bought in the quest shops, values somewhat fit the low, mid and high categories.
 
-5.  When i count stat points, I perosnally dont factor in exceptional str, therefore max is 90, I would recommend at least 80 total, but certain stats for certain classo's are more important than others. For you, shoot for 18/xx strength.  
+5\. When i count stat points, I perosnally dont factor in exceptional str, therefore max is 90, I would recommend at least 80 total, but certain stats for certain classo's are more important than others. For you, shoot for 18/xx strength. 
 
-6.  Don't worry about it for a while.  Has to do with high level warriors.
+6\. Don't worry about it for a while. Has to do with high level warriors.
 
-7.  Yes they reset.  Once you get higher level you won't really care as you won't be using holy eq.
+7\. Yes they reset. Once you get higher level you won't really care as you won't be using holy eq.
 
-8.  Well, first of all  you get more attacks at higher levels.  Thieves get more out of their stabs, plus double stab ( and triple ) plus poison.  Also, at avatar levels u do get more damage.  
+8\. Well, first of all you get more attacks at higher levels. Thieves get more out of their stabs, plus double stab ( and triple ) plus poison. Also, at avatar levels u do get more damage. 
 
-9.  See AH's answer.
+9\. See AH's answer.
 
-10.  Krom rocks, and plays the mud frequently as a player.  If you had to pick a god, I'd recommend him.
+10\. Krom rocks, and plays the mud frequently as a player. If you had to pick a god, I'd recommend him.
 
 </div>
 
@@ -114,21 +114,21 @@ help oath
 
 OATH VOW "OATHS AND VOWS" SWEAR OATHS VOWS VICTORY PROTECTION
 
- Usage:        swear <oath> [target]
+ Usage: swear \<oath\> [target]
 
  Accumulative: no
 
- Duration:     it ain't over til it's over
+ Duration: it ain't over til it's over
 
- Level:        Warrior 35 (oath of victory)
+ Level: Warrior 35 (oath of victory)
 
-               Warrior 37 (oath of protection)
+ Warrior 37 (oath of protection)
 
- Save:         -
+ Save: -
 
- Manual:       passed down through oral lore
+ Manual: passed down through oral lore
 
-A warrior's honor has value beyond that of jewels and spices.  One man
+A warrior's honor has value beyond that of jewels and spices. One man
 
 perhaps regards his own honor highly, another treats his as so much dross.
 
@@ -144,19 +144,19 @@ of good and evil; a cruel warlord may reliably keep his word, while a
 
 helpful, kindly, charismatic bard might have no measurable honor at all.
 
-(My daughter made the acquaintance of one such.  If you see him, I'd like
+(My daughter made the acquaintance of one such. If you see him, I'd like
 
 to have a word with him - I'll make it worth your while.)
 
-Swearing properly is an art and a science.  The oath must be worded
+Swearing properly is an art and a science. The oath must be worded
 
 impressively to impact your friends and foes, but also must contain the
 
-right formulae to impress the gods with your gravity.  The secrets of
+right formulae to impress the gods with your gravity. The secrets of
 
 such oaths and vows can only be mastered by the world's more puissant
 
-*** Press return ***
+\*\*\* Press return \*\*\*
 
 fighters.
 
@@ -172,17 +172,17 @@ achieve victory, both gods and men are bound to hear of it, and that
 
 reputation will walk with you for all the days of your lives.
 
-A somewhat more difficult oath is that of protection.  You may only
+A somewhat more difficult oath is that of protection. You may only
 
 swear this vow to one you are protecting in combat; it will greatly
 
-increase your ability to carry out this duty.  (It also improves your
+increase your ability to carry out this duty. (It also improves your
 
 chances of rescuing your ward, should she come into harm's way in spite
 
-of your protection.)  The oath of protection lasts as long as you are
+of your protection.) The oath of protection lasts as long as you are
 
-protecting the person.  While guarding is not as romantic-sounding as
+protecting the person. While guarding is not as romantic-sounding as
 
 swearing victory, and so this oath will not contribute to the list of
 
@@ -208,11 +208,11 @@ swear victory
 
 to use protectioin type
 
-swear protection <protectee>
+swear protection \<protectee\>
 
 Do not use either one unless you are the tank for the group as they make you the tank....
 
-as for what they do it has never been terribly clear to me but I belive what people tell.  
+as for what they do it has never been terribly clear to me but I belive what people tell. 
 
 You can only use victory if the mob you are fighitng isn't damaged much.
 
@@ -220,17 +220,17 @@ You can only use victory if the mob you are fighitng isn't damaged much.
 
 <div class="post" data-post-id="21722" data-author="belisarius" data-date="2007-12-19T06:42:02+00:00" data-subject="">
 
-1. ahh quest mode is actually quest channel ok another question on this then why isnt it just called quest channel that makes no sense to me i guess i got confused because on the wesite they are called channels heres what it says on the features link on the website:
+1\. ahh quest mode is actually quest channel ok another question on this then why isnt it just called quest channel that makes no sense to me i guess i got confused because on the wesite they are called channels heres what it says on the features link on the website:
 
-# Dynamic Channels
+\# Dynamic Channels
 
-    * Newbie Channel
+ \* Newbie Channel
 
-    * Auction Channel
+ \* Auction Channel
 
-    * Gossip Channel
+ \* Gossip Channel
 
-    * Player created channels
+ \* Player created channels
 
 2.k thanks for the info on prices
 
@@ -256,17 +256,17 @@ ran across this earlier couldnt figured out what to do i asked about it on newbi
 
 Near the Top of a Large Waterfall
 
-   A heavy flow of water pours from above pushing at everything within its 
+ A heavy flow of water pours from above pushing at everything within its 
 
-path.  Large walls of smooth shiny granite tower high above to a ledge.  A 
+path. Large walls of smooth shiny granite tower high above to a ledge. A 
 
-small bird's nest has been constructed in a large crack in the granite wall.  
+small bird's nest has been constructed in a large crack in the granite wall. 
 
-Exits: Up  Down  
+Exits: Up Down 
 
 look crack
 
-The nest appears to have been long since abandoned.  Behind the jumble
+The nest appears to have been long since abandoned. Behind the jumble
 
 of old twigs you see a stone handle carved from the cliff face.
 
@@ -308,25 +308,25 @@ I don't know if it is intentionally set up for followers to do what players cann
 
 <div class="post" data-post-id="21730" data-author="Karna" data-date="2007-12-19T14:53:19+00:00" data-subject="">
 
-You don't need followers.  Just pick or knock the door east ( that you can't see ) and open it.
+You don't need followers. Just pick or knock the door east ( that you can't see ) and open it.
 
 </div>
 
 <div class="post" data-post-id="21734" data-author="Lis" data-date="2007-12-19T17:32:01+00:00" data-subject="">
 
-Hmmm learn mud better, use your brains :P
+Hmmm learn mud better, use your brains <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 For that room in Mystical fens you missed one more step
 
 exam crack
 
-The nest appears to have been long since abandoned.  Behind the jumble
+The nest appears to have been long since abandoned. Behind the jumble
 
 of old twigs you see a stone handle carved from the cliff face.
 
 exam handle
 
-The handle is made of the same granite as the cliff.  It looks like
+The handle is made of the same granite as the cliff. It looks like
 
 it is designed to be turned.
 
@@ -344,11 +344,11 @@ Gluck
 
 thanks for the help on this
 
-by the way i DID use my brain and i tried the commands listed under the command list in that list is no command called turn even if i had examined the  handle (which i didnt think to do since the other commands all said there is no handle here) i would not have used the turn command since it is not listed as a command for this mud
+by the way i DID use my brain and i tried the commands listed under the command list in that list is no command called turn even if i had examined the handle (which i didnt think to do since the other commands all said there is no handle here) i would not have used the turn command since it is not listed as a command for this mud
 
 ie: thats why i asked for help since i am new to this mud but not new to mudding in general i guess i just got used to muds that actually list all commands you can use
 
-again thanks for the info and btw next time for helping a newbie lis  a quote like this:
+again thanks for the info and btw next time for helping a newbie lis a quote like this:
 
 Hmmm learn mud better, use your brains
 
@@ -362,7 +362,7 @@ and i would like to see it at higher levels but the class system is so far the o
 
 <div class="post" data-post-id="21737" data-author="Rynquald" data-date="2007-12-20T00:12:07+00:00" data-subject="">
 
-Just for clarification, any line can be set up as a tt, so it's generally worth trying anything you can think of when trying to figure them out. Some of them aren't immediately obvious (as you already discovered) :)
+Just for clarification, any line can be set up as a tt, so it's generally worth trying anything you can think of when trying to figure them out. Some of them aren't immediately obvious (as you already discovered) <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -370,7 +370,7 @@ Just for clarification, any line can be set up as a tt, so it's generally worth 
 
 Don't worry about Lis, he was also telling the ppl that was giving u hints.
 
-There are a few places that u will need to read very careful.  
+There are a few places that u will need to read very careful. 
 
 BTW Don't ask Autolycos for help, he is a mean, bitter old man.
 
@@ -380,25 +380,25 @@ BTW Don't ask Autolycos for help, he is a mean, bitter old man.
 
 You're not a target Belisarius.
 
-We appreciate our newbies, we help our newbies.  You got an answer, that shows that to be true :)
+We appreciate our newbies, we help our newbies. You got an answer, that shows that to be true <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Don't be offended by the type of response you get, 99% of the time it isnt meant to be personal, its mostly in good jest.
 
-We like to hang out, we like to have fun, we treat each other like family.  
+We like to hang out, we like to have fun, we treat each other like family. 
 
-Of course every family has its black sheep, as do we at times (not refering to Lis's comment).  You have to think out of the box here at times, lord knows (and the players too) the stuff I do isn't covered in the help files.  It's trial and error sometimes, esp when you first come across talking objects that you interact with (this is deff not in the help files).
+Of course every family has its black sheep, as do we at times (not refering to Lis's comment). You have to think out of the box here at times, lord knows (and the players too) the stuff I do isn't covered in the help files. It's trial and error sometimes, esp when you first come across talking objects that you interact with (this is deff not in the help files).
 
-As for family, family will tell you like it is, blunt, straight up, and little frills.  But, this same family will go to the ends of the mud, through aggros and chance of death themselves to save another person's sorry carcase out in BFE.
+As for family, family will tell you like it is, blunt, straight up, and little frills. But, this same family will go to the ends of the mud, through aggros and chance of death themselves to save another person's sorry carcase out in BFE.
 
-As for the smal player base, we still have over 100 regular players... not to small I don't think in this day and age of MMORPGS that a text game can still draw in a decent crowd.  
+As for the smal player base, we still have over 100 regular players... not to small I don't think in this day and age of MMORPGS that a text game can still draw in a decent crowd. 
 
-I also regularly play on some of these "big" muds with 500 players.  One thing I've learned is there is a lot of afkers and multiplayers logged in.  I've logged into some of these muds for hours, playing and hanging out, and the public channels were dead quiet (500 people, not saying a peep).
+I also regularly play on some of these "big" muds with 500 players. One thing I've learned is there is a lot of afkers and multiplayers logged in. I've logged into some of these muds for hours, playing and hanging out, and the public channels were dead quiet (500 people, not saying a peep).
 
 We may be small, someone is bound to offend you, but always be assured that when the shit hits the fan, that same a$$hole who offended you will be more than willing to go out of their way to help you when you can't help yourself.
 
-This is not meant to be demeaning to you Belisarius :) just the opposite.  Befriend these people, when offended, offend back ;) (in jest of course), and you will find a lovely place to play and hang out.  I think Widow and Kynde can attest to this.
+This is not meant to be demeaning to you Belisarius <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> just the opposite. Befriend these people, when offended, offend back <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom"> (in jest of course), and you will find a lovely place to play and hang out. I think Widow and Kynde can attest to this.
 
-I wish you all the luck and prosperity during your stint on this mud.  And above all don't take it seriously.
+I wish you all the luck and prosperity during your stint on this mud. And above all don't take it seriously.
 
 Akasha
 
@@ -408,23 +408,23 @@ Akasha
 
 Belisarius,
 
-I used to play this game all the time, and really enjoy it.  One or two jerks kept doing/saying things like what they said to you, and over time it finally ruined it for me, and I dont play anymore.  
+I used to play this game all the time, and really enjoy it. One or two jerks kept doing/saying things like what they said to you, and over time it finally ruined it for me, and I dont play anymore. 
 
 Lis meant what he said, because hes decided he is smarter than you, and needs to take that out on a new player who is learning.
 
 Lis should know better, and im suprised at him for the comment.
 
-Some players have played for so long, they cant process a new person is playing the game.   Basically your stupid/weak for not having the master knowledge of a 5-10 year sloth player, is the thinking of some people.
+Some players have played for so long, they cant process a new person is playing the game. Basically your stupid/weak for not having the master knowledge of a 5-10 year sloth player, is the thinking of some people.
 
 Too many newbies get chased off this game.
 
-Akasha is a cool guy, get to know him.  Does significant good for this mud.
+Akasha is a cool guy, get to know him. Does significant good for this mud.
 
-This mud used to have a nice playerbase, but when Ive checked the whos online lately, it is indeed low compared to what it used to be.  Sloth 3 might pull 100 players for a major announced quest, but thats about it.  In a given busy weekend it couldnt be more than 40-50.
+This mud used to have a nice playerbase, but when Ive checked the whos online lately, it is indeed low compared to what it used to be. Sloth 3 might pull 100 players for a major announced quest, but thats about it. In a given busy weekend it couldnt be more than 40-50.
 
-I'm tired of sloth's social antics, and like I said dont play, and most likely wont again till i see the player base/player attitudes change.  So take my comments with a grain of salt.
+I'm tired of sloth's social antics, and like I said dont play, and most likely wont again till i see the player base/player attitudes change. So take my comments with a grain of salt.
 
-We need about 20 more players like yourself, who want to log in, learn, simply play, and enjoy a game.  
+We need about 20 more players like yourself, who want to log in, learn, simply play, and enjoy a game. 
 
 Good luck out there, and have fun.
 
@@ -438,21 +438,21 @@ Chin up Belisarius!
 
 I am still trying to learning this game myself... it's huge... but here is some tips from a newish player to a new player...
 
-* Befriend dragonsworn clan members... percentage wise there clan is by far the most helpful to new players around.
+\* Befriend dragonsworn clan members... percentage wise there clan is by far the most helpful to new players around.
 
-* Join a channel and ask your questions... dragonsworn/hosers/degenerates and sometimes russian.
+\* Join a channel and ask your questions... dragonsworn/hosers/degenerates and sometimes russian.
 
-* Spend 30mins reading the website each day... so much information is actually here... it can be difficult to find.
+\* Spend 30mins reading the website each day... so much information is actually here... it can be difficult to find.
 
-* If you DESPERATELY need help... join a channel and then die. What people won't help you with when your alive, generally will help you with when your dead...
+\* If you DESPERATELY need help... join a channel and then die. What people won't help you with when your alive, generally will help you with when your dead...
 
-* Gossip about wanting to do two-man xp runs... often the biggest source of game info comes, I find in group talk during regen times.
+\* Gossip about wanting to do two-man xp runs... often the biggest source of game info comes, I find in group talk during regen times.
 
-* Help others... what goes around comes around.
+\* Help others... what goes around comes around.
 
-* Humility (generally) turns away wroth... be humble and just be yourself.
+\* Humility (generally) turns away wroth... be humble and just be yourself.
 
-* tell blaster godrain
+\* tell blaster godrain
 
 The truth is, the annoying players are actually a fairly small... but just loud percentage! The game definately needs more players like you!
 
@@ -466,27 +466,29 @@ I explained you everything in tells beli dunno if you got it.
 
 OK now again.
 
-About brains - that was ADVICE to n00b and target for those who are answering w/o any knowledge of that particular riddle.  This mud is not just hack and slash - it is thinking, reading descriptions, looking for hints exploring etc. Many 'helpfull' players just use solution written  by other players when doing quests and not ever bother to think and thats sad. Still all of us need help with quest or riddle sometimes and this is when we realy tryed everything.
+About brains - that was ADVICE to n00b and target for those who are answering w/o any knowledge of that particular riddle. This mud is not just hack and slash - it is thinking, reading descriptions, looking for hints exploring etc. Many 'helpfull' players just use solution written by other players when doing quests and not ever bother to think and thats sad. Still all of us need help with quest or riddle sometimes and this is when we realy tryed everything.
 
-Mosa - try to to talk with me first and understand what i ment and what i need to take out. And then you will not be suprised that i call you dumb :twisted:
+Mosa - try to to talk with me first and understand what i ment and what i need to take out. And then you will not be suprised that i call you dumb <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="21753" data-author="Yinao" data-date="2007-12-20T08:06:34+00:00" data-subject="">
 
-[quote:32lj5r8v]* Befriend ~dragonsworn~ clan members.[/quote:32lj5r8v]
+> <strong>Quote:</strong>
+> \* Befriend \~dragonsworn\~ clan members.
 
 Bah Humbug
 
-[quote:32lj5r8v]Don't ask Autolycos for help, he is a mean, bitter old man.[/quote:32lj5r8v]
+> <strong>Quote:</strong>
+> Don't ask Autolycos for help, he is a mean, bitter old man.
 
-Not quite true, Don't ask Auto for help... VERY TRUE, he is mean, VERY TRUE, bitter VERY TRUE AGAIN, old, well not so much but the rest is true enough. Just kill him once and you should be fine  :twisted: 
+Not quite true, Don't ask Auto for help... VERY TRUE, he is mean, VERY TRUE, bitter VERY TRUE AGAIN, old, well not so much but the rest is true enough. Just kill him once and you should be fine <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-OH and listen to Leaf he is a bloody genius, not a newb by any stretch of the imagination  :wink: 
+OH and listen to Leaf he is a bloody genius, not a newb by any stretch of the imagination <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom"> 
 
 And again don't take anything ingame personal, Like Autolycos for instance he isn't pick on just newbs, he hates everyone the same 
 
- :!:  :twisted: 
+ <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 Enjoy your time on sloth, mine is becomming more and more limited but its still fun
 
@@ -494,23 +496,23 @@ Enjoy your time on sloth, mine is becomming more and more limited but its still 
 
 <div class="post" data-post-id="21755" data-author="Leaf" data-date="2007-12-20T14:03:45+00:00" data-subject="">
 
-OH and listen to Leaf he is a bloody genius, not a newb by any stretch of the imagination  :wink: 
+> <strong>Yinao wrote:</strong>
+> OH and listen to Leaf he is a bloody genius, not a newb by any stretch of the imagination <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
-[/quote:tgsy71sn]
-
-I detect a bit of sarcasm!  :evil:
+I detect a bit of sarcasm! <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="21756" data-author="Autolycos" data-date="2007-12-20T19:42:02+00:00" data-subject="">
 
-Not quite true, Don't ask Auto for help... VERY TRUE, he is mean, VERY TRUE, bitter VERY TRUE AGAIN, old, well not so much but the rest is true enough. 
+> <strong>Yinao wrote:</strong>
+> Not quite true, Don't ask Auto for help... VERY TRUE, he is mean, VERY TRUE, bitter VERY TRUE AGAIN, old, well not so much but the rest is true enough. 
+> 
+> And again don't take anything ingame personal, Like Autolycos for instance he isn't pick on just newbs, he hates everyone the same 
+> 
+> <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
-And again don't take anything ingame personal, Like Autolycos for instance he isn't pick on just newbs, he hates everyone the same 
-
- :!:  :twisted: [/quote:u7d9gc4o]
-
-^5  :wink:
+^5 <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -530,19 +532,19 @@ Alias/Pooka
 
 <div class="post" data-post-id="21810" data-author="Mace" data-date="2007-12-28T10:17:14+00:00" data-subject="">
 
->> look crack
+\>\> look crack
 
->> The nest appears to have been long since abandoned. Behind the jumble
+\>\> The nest appears to have been long since abandoned. Behind the jumble
 
->> of old twigs you see a stone handle carved from the cliff face.
+\>\> of old twigs you see a stone handle carved from the cliff face.
 
->> so ive tried push,pull,grab and use handle what command am i missing for this?
+\>\> so ive tried push,pull,grab and use handle what command am i missing for this?
 
-> look handle
+\> look handle
 
-The handle is made of the same granite as the cliff.  It looks like it is designed to be turned.
+The handle is made of the same granite as the cliff. It looks like it is designed to be turned.
 
-Turn handle.  :)  Pick shouldn't work there.. but oh well!
+Turn handle. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> Pick shouldn't work there.. but oh well!
 
 Note that after you turn handle the exit doesn't show up in the room for some buggy reason, but you can go east anyway.
 
@@ -550,7 +552,7 @@ Note that after you turn handle the exit doesn't show up in the room for some bu
 
 <div class="post" data-post-id="21811" data-author="Mace" data-date="2007-12-28T10:19:05+00:00" data-subject="">
 
-Hm, I thought I canceled that unneeded post.  Oh well.
+Hm, I thought I canceled that unneeded post. Oh well.
 
 Nothing that can't be fixed with two useless messages instead of just one.
 
@@ -558,7 +560,7 @@ Nothing that can't be fixed with two useless messages instead of just one.
 
 <div class="post" data-post-id="21813" data-author="Leaf" data-date="2007-12-28T15:27:30+00:00" data-subject="">
 
-It at least brought ur post count up 2 more :)
+It at least brought ur post count up 2 more <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Also do u live near Kenny/Dot?
 
@@ -566,10 +568,11 @@ Also do u live near Kenny/Dot?
 
 <div class="post" data-post-id="21814" data-author="Leaf" data-date="2007-12-28T22:13:48+00:00" data-subject="">
 
-when the shit hits the fan, that same a$$hole 
+> <strong>\*Akasha\* wrote:</strong>
+> when the shit hits the fan, that same a$$hole 
+> 
+> Akasha
 
-Akasha[/quote:2pitgif6]
-
-I like the fact he spells "shit" but not asshole :)
+I like the fact he spells "shit" but not asshole <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

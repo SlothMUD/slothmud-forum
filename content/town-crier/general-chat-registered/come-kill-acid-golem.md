@@ -22,7 +22,7 @@ here's a funny one
 
 The Enchantment Workshop
 
-Exits: East  Down  
+Exits: East Down 
 
 A large backpack has been left here.
 
@@ -32,7 +32,7 @@ An unstable cholem is resting here.
 
 An unstable cholem is resting here.
 
-An unstable cholem is here, fighting  YOU!
+An unstable cholem is here, fighting YOU!
 
 An unstable cholem is resting here.
 
@@ -382,7 +382,7 @@ You report 1411/1381 hp. Change: +33. Need: 0. Spells: greater fluidity, wraithf
 
 aegis.
 
-<1411hp 144ma 161mv>[-12.0] [+15h - +12d] [2,024,090] [+10] [School of Cholemry]
+\<1411hp 144ma 161mv\>[-12.0] [+15h - +12d] [2,024,090] [+10] [School of Cholemry]
 
 Cizin brutally massacres an unstable cholem with his hit.
 
@@ -464,7 +464,7 @@ You brutally massacre an unstable cholem with your slash.
 
 Sund -- 'my char is only 20'
 
-<1411hp 144ma 161mv>[-12.0] [+15h - +12d] [2,024,090] [+10] [School of Cholemry]
+\<1411hp 144ma 161mv\>[-12.0] [+15h - +12d] [2,024,090] [+10] [School of Cholemry]
 
 Truth utters the words, 'brukkabrae'
 
@@ -502,13 +502,13 @@ Your blood freezes as you hear an unstable cholem's death cry.
 
 Java gets gold coins from the corpse of an unstable cholem that's on the ground.
 
-Java splits 100 coins.  Your share is 10 coins.
+Java splits 100 coins. Your share is 10 coins.
 
 You report 1381/1381 hp. Change: -30. Need: 0. Spells: wraithform, aegis, greater 
 
 fluidity.
 
-<1381hp 145ma 162mv>[-12.0] [+15h - +11d] [2,024,100] [+10] [School of Cholemry]
+\<1381hp 145ma 162mv\>[-12.0] [+15h - +11d] [2,024,100] [+10] [School of Cholemry]
 
 gt lMAO!
 
@@ -754,7 +754,7 @@ explodes!
 
 An unstable cholem vibrates intensely for a moment, settles down, and then 
 
-> > > explodes!
+\> \> \> explodes!
 
 An unstable cholem vibrates intensely for a moment, settles down, and then 
 
@@ -798,7 +798,7 @@ explodes!
 
 You wish that your wounds would stop BLEEDING that much!
 
-An unstable cholem vib> > > > > > > rates intensely for a moment, settles down, and then 
+An unstable cholem vib\> \> \> \> \> \> \> rates intensely for a moment, settles down, and then 
 
 explodes!
 
@@ -842,7 +842,7 @@ You wish that your wounds would stop BLEEDING that much!
 
 An unstable cholem vibrates intensely for a moment, settles down, and then 
 
-explodes![0;37> > > m
+explodes![0;37\> \> \> m
 
 You wish that your wounds would stop BLEEDING that much!
 
@@ -864,74 +864,74 @@ explodes!
 
 You have been KILLED!! 
 
-Lie still; you are DEAD!!! :-( 
+Lie still; you are DEAD!!! <img src="/images/smilies/icon_e_sad.svg" alt=":-(" title=":-(" width="15" height="15" class="smiley nozoom"> 
 
-<-38hp 145ma 162mv>[-8.0] [+15h - +11d] [2,024,100] [+10] [School of Cholemry]
+\<-38hp 145ma 162mv\>[-8.0] [+15h - +11d] [2,024,100] [+10] [School of Cholemry]
 
-Lie still; you are DEAD!!! :-( 
+Lie still; you are DEAD!!! <img src="/images/smilies/icon_e_sad.svg" alt=":-(" title=":-(" width="15" height="15" class="smiley nozoom"> 
 
-<-38hp 145ma 162mv>[-8.0] [+15h - +11d] [2,024,100] [+10] [School of Cholemry]
+\<-38hp 145ma 162mv\>[-8.0] [+15h - +11d] [2,024,100] [+10] [School of Cholemry]
 
-Lie still; you are DEAD!!! :-( 
+Lie still; you are DEAD!!! <img src="/images/smilies/icon_e_sad.svg" alt=":-(" title=":-(" width="15" height="15" class="smiley nozoom"> 
 
-<-38hp 145ma 162mv>[-8.0] [+15h - +11d] [2,024,100] [+10] [School of Cholemry]
+\<-38hp 145ma 162mv\>[-8.0] [+15h - +11d] [2,024,100] [+10] [School of Cholemry]
 
 You feel yourself floating upward...
 
-<-38hp 145ma 162mv>[-8.0] [+15h - +11d] [2,024,100] [+10] [School of Cholemry]
+\<-38hp 145ma 162mv\>[-8.0] [+15h - +11d] [2,024,100] [+10] [School of Cholemry]
 
 where
 
-groYou are in School of Cholemry.  Also in this area are:
+groYou are in School of Cholemry. Also in this area are:
 
-Name                           - Location
+Name - Location
 
------------------------------------------
+\-----------------------------------------
 
-Sund                           - The Enchantment Workshop
+Sund - The Enchantment Workshop
 
-Jedi                           - The Enchantment Workshop
+Jedi - The Enchantment Workshop
 
-Nakita                         - The Enchantment Workshop
+Nakita - The Enchantment Workshop
 
-Cizin                          - The Enchantment Workshop
+Cizin - The Enchantment Workshop
 
-Spells                         - The Enchantment Workshop
+Spells - The Enchantment Workshop
 
-Shiv                           - The Enchantment Workshop
+Shiv - The Enchantment Workshop
 
-Java                           - The Enchantment Workshop
+Java - The Enchantment Workshop
 
-Acedia                         - The Enchantment Workshop
+Acedia - The Enchantment Workshop
 
-Sa                             - The Enchantment Workshop
+Sa - The Enchantment Workshop
 
-Truth                          - The Enchantment Workshop
+Truth - The Enchantment Workshop
 
-<-38hp 145ma 162mv>[-8.0] [+15h - +11d] [2,024,100] [+10] [School of Cholemry]
+\<-38hp 145ma 162mv\>[-8.0] [+15h - +11d] [2,024,100] [+10] [School of Cholemry]
 
 group
 
 Group 'Epics-klklklpa-lucifer-pale knight' consists of:
 
-   (Dead)         Sa [Wa:5.40  -38hp 145ma 162mv] ACID GOLEM!                   
+ (Dead) Sa [Wa:5.40 -38hp 145ma 162mv] ACID GOLEM! 
 
-   (Dead)      Cizin [Th:5.40  -17hp 202ma 243mv] ---
+ (Dead) Cizin [Th:5.40 -17hp 202ma 243mv] ---
 
-   (Dead)       Shiv [Th:5.40  -18hp 208ma 175mv] ---
+ (Dead) Shiv [Th:5.40 -18hp 208ma 175mv] ---
 
-   (Dead)      Truth [Ma:5.40  -11hp 418ma 197mv] (Fearsome Star)               
+ (Dead) Truth [Ma:5.40 -11hp 418ma 197mv] (Fearsome Star) 
 
-   (Dead)       Jedi [Cl:4.18  -12hp 605ma 125mv] ---
+ (Dead) Jedi [Cl:4.18 -12hp 605ma 125mv] ---
 
-   (Dead)       Java [Cl:2.39  -42hp 245ma 126mv] ---
+ (Dead) Java [Cl:2.39 -42hp 245ma 126mv] ---
 
-   (Dead)     Nakita [Cl:4.24  -13hp 345ma 192mv] ---
+ (Dead) Nakita [Cl:4.24 -13hp 345ma 192mv] ---
 
-   (Dead)     Acedia [Cl:2.23  -33hp 525ma  81mv] ---
+ (Dead) Acedia [Cl:2.23 -33hp 525ma 81mv] ---
 
-   (Dead)       Sund [Ma:0.36  -30hp 212ma  64mv] ---
+ (Dead) Sund [Ma:0.36 -30hp 212ma 64mv] ---
 
-   (Dead)     Spells [Cl:3.38  -68hp 443ma  83mv] ---
+ (Dead) Spells [Cl:3.38 -68hp 443ma 83mv] ---
 
 </div>

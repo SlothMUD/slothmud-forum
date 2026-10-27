@@ -16,7 +16,7 @@ l
 
 Magnolia
 
-   The path curves around a large magnolia tree, almost forty feet high.
+ The path curves around a large magnolia tree, almost forty feet high.
 
 It is covered with large white flowers, which emit a strong, sweet scent.
 
@@ -24,7 +24,7 @@ The path is edged with stone blocks, possibly in an attempt to stop it
 
 from slipping down the slope toward the sea.
 
-Exits: East  South  West  
+Exits: East South West 
 
 A glowing, sparkling nothingness glitters in midair.
 
@@ -42,25 +42,25 @@ A seagull flies around, looking for handouts.
 
 A sailor in filthy clothing staggers and nearly falls beside you.
 
-<1089hp 583ma 400mv>   >> - <<   +9   -0.3   1,413,753,503   25,569   raining   Lyme Town
+\<1089hp 583ma 400mv\> \>\> - \<\< +9 -0.3 1,413,753,503 25,569 raining Lyme Town
 
 take glowing
 
 You do not see a glowing here.
 
-<1089hp 598ma 404mv>   >> - <<   +9   -0.3   1,413,753,503   25,569   raining   Lyme Town
+\<1089hp 598ma 404mv\> \>\> - \<\< +9 -0.3 1,413,753,503 25,569 raining Lyme Town
 
 take sparkling
 
 You do not see a sparkling here.
 
-<1089hp 599ma 404mv>   >> - <<   +9   -0.3   1,413,753,503   25,569   raining   Lyme Town
+\<1089hp 599ma 404mv\> \>\> - \<\< +9 -0.3 1,413,753,503 25,569 raining Lyme Town
 
 take nothingness
 
 You do not see a nothingness here.
 
-<1089hp 604ma 404mv>   >> - <<   +9   -0.3   1,413,753,503   25,569   raining   Lyme Town
+\<1089hp 604ma 404mv\> \>\> - \<\< +9 -0.3 1,413,753,503 25,569 raining Lyme Town
 
 exam nothingness
 
@@ -76,7 +76,7 @@ take charm-breathing
 
 You deftly snatch a breathing charm.
 
-but yes it probably needs fixing.  its junk anyways
+but yes it probably needs fixing. its junk anyways
 
 </div>
 
@@ -84,23 +84,23 @@ but yes it probably needs fixing.  its junk anyways
 
 I cant turn that on because:
 
-*setti*
+<em>setti</em>
 
 Verbosity:
 
-   BRIEF:               on 
+ BRIEF: on 
 
 [...cut...]
 
 Protocols:
 
-   MCCP:                on - V2 (In->2941885, Out->305141, Saved 90%)
+ MCCP: on - V2 (In-\>2941885, Out-\>305141, Saved 90%)
 
-**   MXP:                 Unsupported**
+ <strong>MXP: Unsupported</strong>
 
-   MSDP:                 Unsupported
+ MSDP: Unsupported
 
-   ATCP:                 Unsupported
+ ATCP: Unsupported
 
 I believe we the players can use any mud client we want and still enjoy the game at full.
 
@@ -166,7 +166,7 @@ I am presuming that the residents of Jord as a whole for some reason are familia
 
 <div class="post" data-post-id="36317" data-author="Yasik" data-date="2015-12-15T20:38:15+00:00" data-subject="Re: How do players supposed to pick this up?">
 
-I am presuming that the resident of Godsland as a whole for some reason are familiar with what a "Save" button looks like. OR, in case of *nix (vi/vim), Esc :wq    8)  :lol: 
+I am presuming that the resident of Godsland as a whole for some reason are familiar with what a "Save" button looks like. OR, in case of \*nix (vi/vim), Esc :wq <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> 
 
 ![](https://db.tt/XLyUKArt)
 

@@ -18,15 +18,15 @@ get all.key robe
 
 unlock gate
 
-[b:3kc0re5g]That's not a lockable item.[/b:3kc0re5g]
+<strong>That's not a lockable item.</strong>
 
 what went wrong? I'm standing at a gate with the key to the gate in my inv, the right command is unlock gate...
 
 2 of the keys in my inv have the name gate:
 
-[i:3kc0re5g]A charred gate key is referred to by the words 'key charred gate'.
+<em>A charred gate key is referred to by the words 'key charred gate'.</em>
 
-A gate key is referred to by the words 'gate key'.[/i:3kc0re5g]
+<em>A gate key is referred to by the words 'gate key'.</em>
 
 Ok so this works:
 
@@ -34,7 +34,7 @@ rem robe
 
 get all.key robe
 
-[b:3kc0re5g]put all.gate robe[/b:3kc0re5g]
+<strong>put all.gate robe</strong>
 
 unlock gate
 
@@ -52,7 +52,8 @@ unlock gate north
 
 <div class="post" data-post-id="30686" data-author="Thraxas" data-date="2010-01-15T09:07:06+00:00" data-subject="">
 
-unlock gate north[/quote:1mgnkniw]
+> <strong>Toxis wrote:</strong>
+> unlock gate north
 
 good point .... now I feel silly. Thanks.
 

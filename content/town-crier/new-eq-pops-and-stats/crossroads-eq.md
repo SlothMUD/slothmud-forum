@@ -30,9 +30,9 @@ AC-apply is -0.2
 
 Can affect you as:
 
-    Affects: DEX by 1
+ Affects: DEX by 1
 
-    Affects: RESIST_POISON by 1
+ Affects: RESIST\_POISON by 1
 
 Only those who are at least master magic users or master clerics, or
 

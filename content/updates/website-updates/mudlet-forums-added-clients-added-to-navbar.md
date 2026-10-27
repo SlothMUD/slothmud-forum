@@ -20,7 +20,7 @@ Mudlet is the most actively developed client in today's MUD world and many of ou
 
 Scripting is incredibly different for the majority of our players whom use Wintin.NET. An example of this is a grouptell alias:
 
-pattern: ^gt (.*)$
+pattern: ^gt (.\*)$
 
 code:
 
@@ -50,7 +50,7 @@ Blix
 
 <div class="post" data-post-id="36634" data-author="celerra7" data-date="2016-02-25T17:50:53+00:00" data-subject="Re: Mudlet forums added, Clients added to navbar">
 
-I'm in the same boat.  CMUD support/upgrades ended and looking for new maintained client.  Mudlet looks great, but I have yet to find a beginner starting place.
+I'm in the same boat. CMUD support/upgrades ended and looking for new maintained client. Mudlet looks great, but I have yet to find a beginner starting place.
 
 </div>
 
@@ -62,13 +62,13 @@ same here, would like to be able to import my cmud scripts..
 
 <div class="post" data-post-id="36641" data-author="Madigan" data-date="2016-02-26T06:26:29+00:00" data-subject="Re: Mudlet forums added, Clients added to navbar">
 
-I know sochi, linx, and a few others (especially akayan) are guru's of mudlet... I've been asking around for someone to share a basic mudlet config to no avail, but  I wonder if we could convince them to maybe host a 30 minute -1 hour websession (i have hosting capabilities if needed) on Mudlet 101 with the following agenda:
+I know sochi, linx, and a few others (especially akayan) are guru's of mudlet... I've been asking around for someone to share a basic mudlet config to no avail, but I wonder if we could convince them to maybe host a 30 minute -1 hour websession (i have hosting capabilities if needed) on Mudlet 101 with the following agenda:
 
-1) basic client install including required addons (vysor, etc) - very little documentation online for this, but what does exist is out of date and does NOT work as documented.
+1\) basic client install including required addons (vysor, etc) - very little documentation online for this, but what does exist is out of date and does NOT work as documented.
 
-2) brief overview of basic scripting for aliases/triggers etc. (i have looked at the online videos of this and have a very basic understanding of it) Would be nice to get some useful feedback using examples specific to sloth that we use daily.
+2\) brief overview of basic scripting for aliases/triggers etc. (i have looked at the online videos of this and have a very basic understanding of it) Would be nice to get some useful feedback using examples specific to sloth that we use daily.
 
-3) configuration of core features/scripts (ie targeter, xp tracker, paths, chat captures to window, group necesities etc)
+3\) configuration of core features/scripts (ie targeter, xp tracker, paths, chat captures to window, group necesities etc)
 
 I would volunteer to document the discussion and post it to the forums for future reference.
 

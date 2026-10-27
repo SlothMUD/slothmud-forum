@@ -14,7 +14,7 @@ post_count: 7
 
 My character was level 15 when he saw this listing:
 
-*1000      an unchanged spellbook
+\*1000 an unchanged spellbook
 
 I bought the spellbook and was able to read it.
 
@@ -22,23 +22,23 @@ I bought the spellbook and was able to read it.
 
 <div class="post" data-post-id="6627" data-author="Alberich" data-date="2005-05-28T09:45:18+00:00" data-subject="">
 
-so where is it marked wrong?  I checked eqlist and royal library, both say it's a lvl 14 spell.
+so where is it marked wrong? I checked eqlist and royal library, both say it's a lvl 14 spell.
 
 </div>
 
 <div class="post" data-post-id="6628" data-author="Morgoth" data-date="2005-05-28T10:41:23+00:00" data-subject="">
 
-* beside the 1000 means cannot read / use yet
+\* beside the 1000 means cannot read / use yet
 
-wat he means that he could read the book but the * says that he can't
+wat he means that he could read the book but the \* says that he can't
 
-which is wat he's pointing out  8)
+which is wat he's pointing out <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="6629" data-author="Si" data-date="2005-05-28T10:45:31+00:00" data-subject="">
 
-I have seen a bunch of these items (mostly spellbooks) marked incorrectly like that.  Basically, I trust the EQlist and 'help <spellname>.'
+I have seen a bunch of these items (mostly spellbooks) marked incorrectly like that. Basically, I trust the EQlist and 'help \<spellname\>.'
 
 Si
 
@@ -46,7 +46,7 @@ Si
 
 <div class="post" data-post-id="6633" data-author="Akasha2" data-date="2005-05-28T14:18:42+00:00" data-subject="">
 
-Actually the ! and * beside books follows the same logic as equipment.  ! means its too heavy for you to pick up (or wear), * means you cannot use this item yet, as in wear, hold, equip.  If you finds books like these with * beside them that are incorrect, you can send them to me at Akasha@slothmud.org, and I'll fix them as time permits.
+Actually the ! and \* beside books follows the same logic as equipment. ! means its too heavy for you to pick up (or wear), \* means you cannot use this item yet, as in wear, hold, equip. If you finds books like these with \* beside them that are incorrect, you can send them to me at Akasha@slothmud.org, and I'll fix them as time permits.
 
 Akasha
 
@@ -62,6 +62,6 @@ And yes this is a very minor thing, at least it is for me. I started keeping a l
 
 <div class="post" data-post-id="6645" data-author="Alberich" data-date="2005-05-29T00:28:44+00:00" data-subject="">
 
-if you type 'prac unlearned' it will give you a list of everything you haven't learned yet  (or have only partially learned)  :)
+if you type 'prac unlearned' it will give you a list of everything you haven't learned yet (or have only partially learned) <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

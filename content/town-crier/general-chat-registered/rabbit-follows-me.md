@@ -30,9 +30,9 @@ with it ?
 
 <div class="post" data-post-id="26688" data-author="Falsra" data-date="2008-10-14T13:11:21+00:00" data-subject="">
 
-To leave pets we should use <dir> sneak. It works!
+To leave pets we should use \<dir\> sneak. It works!
 
-Thank Sneaky for explanation!  :D 
+Thank Sneaky for explanation! <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> 
 
 /falsra
 

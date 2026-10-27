@@ -12,7 +12,7 @@ post_count: 6
 
 <div class="post" data-post-id="32210" data-author="Dragoth" data-date="2010-12-24T14:12:05+00:00" data-subject="Any chance for more holy items ?">
 
-There are so many stats now and so many more eq slots than what the current holy gear offers, so why not ? :mrgreen:
+There are so many stats now and so many more eq slots than what the current holy gear offers, so why not ? <img src="/images/smilies/icon_mrgreen.svg" alt=":mrgreen:" title=":mrgreen:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -50,7 +50,7 @@ Just goes to show.. Immortals do listen..it just takes alot of grease to spin th
 
 <div class="post" data-post-id="34129" data-author="Yasik" data-date="2013-03-09T08:52:44+00:00" data-subject="Re: Any chance for more holy items ?">
 
-> **Mug wrote:**
+> <strong>Mug wrote:</strong>
 > I agree. I heard we get 3 trip 40 items now? if that is true I am screwed.
 
 Dont worry, normal people never reach those levels wasting their RL.
@@ -59,8 +59,8 @@ Dont worry, normal people never reach those levels wasting their RL.
 
 <div class="post" data-post-id="34130" data-author="Dragoth" data-date="2013-03-09T12:07:17+00:00" data-subject="Re: Any chance for more holy items ?">
 
-> **Yasik wrote:**
-> > **Mug wrote:**
+> <strong>Yasik wrote:</strong>
+> > <strong>Mug wrote:</strong>
 > > I agree. I heard we get 3 trip 40 items now? if that is true I am screwed.
 > 
 > 

@@ -14,13 +14,13 @@ post_count: 1
 
 Hi there, I was looted in Cholemry and couldn't seem to find my stuff after going through all the mobs there. If anyone found the following could you let me know:
 
-1) Jacket Engraved with a Kings Symbol
+1\) Jacket Engraved with a Kings Symbol
 
-2) Belt of Striking
+2\) Belt of Striking
 
-3) Golden Belt
+3\) Golden Belt
 
-4) Wizard Hat
+4\) Wizard Hat
 
 Thanks in advance,
 

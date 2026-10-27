@@ -12,7 +12,7 @@ post_count: 52
 
 <div class="post" data-post-id="21367" data-author="Yasik" data-date="2007-11-22T04:41:37+00:00" data-subject="Rem All / Wear All lag">
 
-Does anyone exept me suffer a ~2-3 sec lag after these commands?
+Does anyone exept me suffer a \~2-3 sec lag after these commands?
 
 In case that was put by coders on purpose, will there be a skill or something that reduces the lag?
 
@@ -26,9 +26,9 @@ It's your brain trying to catch up with the computer. Try using pen and paper.
 
 <div class="post" data-post-id="21372" data-author="Teron" data-date="2007-11-22T13:20:09+00:00" data-subject="">
 
-- sadly, this isn't Yasik's hallucination
+\- sadly, this isn't Yasik's hallucination
 
-- I'd appreciate an absense of lag in the spirit of making the game tolerable to play, though. Having a skill or a payment to remove the lag doesn't make sense, though, unless yer a vampiric stripper, maybe.
+\- I'd appreciate an absense of lag in the spirit of making the game tolerable to play, though. Having a skill or a payment to remove the lag doesn't make sense, though, unless yer a vampiric stripper, maybe.
 
 </div>
 
@@ -40,9 +40,9 @@ Yeah noticed it too. As far as I can tell, it serves no purpose whatsoever other
 
 <div class="post" data-post-id="21376" data-author="Malison" data-date="2007-11-22T18:57:58+00:00" data-subject="">
 
-*conjecture*
+\*conjecture\*
 
-Guessing it's a return to the ridiculous 'realism' idea brought up awhile back (I believe originally used by Kjartan) - it *would* take longer to take all your stuff off than any individual piece.  Of course, we aren't here for realism, and it's a nuisance :(
+Guessing it's a return to the ridiculous 'realism' idea brought up awhile back (I believe originally used by Kjartan) - it \*would\* take longer to take all your stuff off than any individual piece. Of course, we aren't here for realism, and it's a nuisance <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -50,15 +50,18 @@ Guessing it's a return to the ridiculous 'realism' idea brought up awhile back (
 
 hm concerning 'real' realism... bring my other eight fngers back, please
 
- 8)
+ <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="21378" data-author="Weasel" data-date="2007-11-22T19:41:14+00:00" data-subject="">
 
-hm concerning 'real' realism... bring my other eight fngers back, please
-
- 8)[/quote:192dutlo]
+> <strong>Vixn wrote:</strong>
+> hm concerning 'real' realism... bring my other eight fngers back, please
+> 
+> 
+> 
+> <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 lol yeah, bring it! would solve all my AC concerns, hehe.
 
@@ -80,7 +83,7 @@ W/o Rapid shift (which is kinda tricky to get learned in addition to 50 drachma 
 
 <div class="post" data-post-id="21383" data-author="Teron" data-date="2007-11-23T08:15:22+00:00" data-subject="">
 
-You can wear rings on 6 out of 10 *hand* fingers. If you try hard, you can wear on 8/10 or even on leg fingers, ankles, some stuff on bisceps and stuff. 
+You can wear rings on 6 out of 10 \*hand\* fingers. If you try hard, you can wear on 8/10 or even on leg fingers, ankles, some stuff on bisceps and stuff. 
 
 I don't think its for realism, prolly just to hurt someone taking advantage of their regen gear, esp fast aliases that takes great skill to write.
 
@@ -102,11 +105,12 @@ is this thread for real?
 
 <div class="post" data-post-id="21389" data-author="Weasel" data-date="2007-11-23T15:17:01+00:00" data-subject="">
 
-is this thread for real?[/quote:2l3b4xnh]
+> <strong>13 wrote:</strong>
+> is this thread for real?
 
 no, it isn't, now just shut up and bend over.
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -116,27 +120,19 @@ Apologies for not communicating the details of this change earlier, here are som
 
 The logic is quite simple and has nothing to do with realism as several players have mentioned, but is has all to do with balance:
 
- 
+1\. Previously "remove all" and "wear all" could be done with 0 wait state. you could essentially change all your eq 5x in 5 seconds.
 
-1. Previously "remove all" and "wear all" could be done with 0 wait state.  you could essentially change all your eq 5x in 5 seconds.
+2\. Previously "remove item" and "wear item" caused huge lag, and cumulatively was extremely painful.
 
- 
+3\. Now - All items have an equal wait time whether removed as a single item or removed en-masse. E.g. curse 10 items, and remove all will remove 8 items with the same wait state as removing those same 8 items individually. 
 
-2. Previously "remove item" and "wear item" caused huge lag, and cumulatively was extremely painful.
+4\. Now - the wait times are more balanced over all, slightly higher for "all", BUT for single item removal/wearing the times have been significantly reduced.
 
- 
-
-3. Now - All items have an equal wait time whether removed as a single item or removed en-masse.  E.g. curse 10 items, and remove all will remove 8 items with the same wait state as removing those same 8 items individually. 
-
- 
-
-4. Now - the wait times are more balanced over all, slightly higher for "all", BUT for single item removal/wearing the times have been significantly reduced.
-
-Remember not all players have the luxury of being able to removal all & wear all.  Yes there will need to be some rejigging of some peoples change eq scripts to improve the speed of eq change.  i.e. as a general rule where you have currently used remove all, the needs to be replaced with an explicit remove <item> for each item you wish to replace.  Wear all wont need to be refined.
+Remember not all players have the luxury of being able to removal all \& wear all. Yes there will need to be some rejigging of some peoples change eq scripts to improve the speed of eq change. i.e. as a general rule where you have currently used remove all, the needs to be replaced with an explicit remove \<item\> for each item you wish to replace. Wear all wont need to be refined.
 
 PS keep an eye out for various techniques that could speed up eq change. The first that should arrive is the "brownie" from supplication.
 
-[u:13x5f926][b:13x5f926]OLD wait states for wear/remove[/b:13x5f926][/u:13x5f926][/size:13x5f926]
+<strong>OLD wait states for wear/remove</strong>
 
 For changing all equipment
 
@@ -144,25 +140,25 @@ For changing all equipment
 
 and for individual items
 
- {1,  4} LIGHT
+ {1, 4} LIGHT
 
- {4,  4} FINGER_R
+ {4, 4} FINGER\_R
 
- {4,  4} FINGER_L
+ {4, 4} FINGER\_L
 
- {8,  8} NECK_1
+ {8, 8} NECK\_1
 
- {8,  8} NECK_2
+ {8, 8} NECK\_2
 
  {12, 12} BODY 
 
- {6,  8}   HEAD
+ {6, 8} HEAD
 
  {12, 12} LEGS
 
  {12, 12} FEET
 
- {6,  8}   HANDS
+ {6, 8} HANDS
 
  {12, 12} ARMS
 
@@ -172,31 +168,29 @@ and for individual items
 
  {12, 12} WAISTE 
 
- {4,  4} WRIST_R
+ {4, 4} WRIST\_R
 
- {4,  4} WRIST_L
+ {4, 4} WRIST\_L
 
- {5,  4} WIELD
+ {5, 4} WIELD
 
- {1,  4} HOLD
+ {1, 4} HOLD
 
  {135, 144} = TOTAL for 18 items
 
 approximately 34seconds, 36seconds (for 18 items)
 
- 
-
-[u:13x5f926][b:13x5f926]NEW wait states for all types of wear/remove[/b:13x5f926][/u:13x5f926][/size:13x5f926]
+<strong>NEW wait states for all types of wear/remove</strong>
 
  {0, 0} LIGHT
 
- {1, 1} FINGER_R
+ {1, 1} FINGER\_R
 
- {1, 1} FINGER_L
+ {1, 1} FINGER\_L
 
- {2, 1} NECK_1 
+ {2, 1} NECK\_1 
 
- {2, 1} NECK_2
+ {2, 1} NECK\_2
 
  {3, 1} BODY
 
@@ -216,9 +210,9 @@ approximately 34seconds, 36seconds (for 18 items)
 
  {2, 1} WAISTE
 
- {1, 1} WRIST_R
+ {1, 1} WRIST\_R
 
- {1, 1} WRIST_L
+ {1, 1} WRIST\_L
 
  {1, 0} WIELD
 
@@ -238,68 +232,39 @@ Thanks for the explanation. Probably not possible, but is there any way concise 
 
 <div class="post" data-post-id="21411" data-author="van" data-date="2007-11-25T18:32:47+00:00" data-subject="">
 
-My apologies if I sound a little pissy; I'll blame it partly on quitting smoking (one week cigarette free!).  But mainly, I can't for the life of me see how this improves the game, either for the players or for the "balance" we're apparently going for here.  There's been a lot of really awesome changes going in lately, for which I've been really grateful.
+My apologies if I sound a little pissy; I'll blame it partly on quitting smoking (one week cigarette free!). But mainly, I can't for the life of me see how this improves the game, either for the players or for the "balance" we're apparently going for here. There's been a lot of really awesome changes going in lately, for which I've been really grateful.
 
 But at a time of declining player base, is it really necessary to put in such a truly annoying change that (to this player at least) has no positive material effect on the game?
 
 Perhaps someone can answer the questions below.
 
-> **Judge wrote:**
+> <strong>Judge wrote:</strong>
 > The logic is quite simple and has nothing to do with realism as several players have mentioned, but is has all to do with balance:
-> 
-> [/quote:mzo5tqw8]
-> 
-> 
-> 
-> Ok, I'm seriously confused.  Is there some character out there who has been accumulating drachma in the tens of thousands, running 50 mil coins an hour, and getting 5x40 in a day because they changed their equipment too fast?  Hyperbole aside, what was the "unbalance" that required this?
-> 
-> 
-> 
-> [quote:mzo5tqw8]
-> 
-> Remember not all players have the luxury of being able to removal all & wear all.  
-> 
-> [/quote:mzo5tqw8]
-> 
-> 
-> 
-> Um, what?  Someone want to fill me in on this?  Is wear all/remove all now a class-specific command? 
-> 
-> 
-> 
-> If balance is the issue, why not just remove all lag from eq changes?  Or, taking this to the next logical step, shouldn't there be lag from taking objects out of sacks?  I mean, it takes a while to find something in a golden sack right?  Then this would "balance" the people who use take all/get all from containers vs. the people who spam the group with 36 put/get commands (it's fun, try it).  I spend loads more time changing eq than the people who use get all/wear all.  It's not because I'm too lazy to write scripts, it's clearly unbalanced!
-> 
-> 
-> 
-> [quote:mzo5tqw8]
-> 
-> i.e. as a general rule where you have currently used remove all, the needs to be replaced with an explicit remove <item> for each item you wish to replace.
-> 
-> [/quote:mzo5tqw8]
-> 
-> makes no sense with
-> 
-> [quote:mzo5tqw8]
-> 
+
+Ok, I'm seriously confused. Is there some character out there who has been accumulating drachma in the tens of thousands, running 50 mil coins an hour, and getting 5x40 in a day because they changed their equipment too fast? Hyperbole aside, what was the "unbalance" that required this?
+
+> <strong>Quote:</strong>
+> Remember not all players have the luxury of being able to removal all \& wear all.
+
+Um, what? Someone want to fill me in on this? Is wear all/remove all now a class-specific command? 
+
+If balance is the issue, why not just remove all lag from eq changes? Or, taking this to the next logical step, shouldn't there be lag from taking objects out of sacks? I mean, it takes a while to find something in a golden sack right? Then this would "balance" the people who use take all/get all from containers vs. the people who spam the group with 36 put/get commands (it's fun, try it). I spend loads more time changing eq than the people who use get all/wear all. It's not because I'm too lazy to write scripts, it's clearly unbalanced!
+
+> <strong>Quote:</strong>
+> i.e. as a general rule where you have currently used remove all, the needs to be replaced with an explicit remove \<item\> for each item you wish to replace.
+
+makes no sense with
+
+> <strong>Quote:</strong>
 > Now - All items have an equal wait time whether removed as a single item or removed en-masse.
-> 
-> [/quote:mzo5tqw8]
-> 
-> 
-> 
-> If the items have an equal wait time (or slightly higher for all), why bother changing our scripts at all?  We can spam people even more for a 2 ms gain?
-> 
-> 
-> 
-> I think I go balance myself at work.  But as a parting note, in the ss group last night, I counted over 50 references from players to how irritating the new lag was.  Perhaps some of those players can more politely explain their irritation than I can.
-> 
-> 
-> 
-> Oh, and if you smoke, I hope you die of lung cancer.  (Well, not really, I just hate you right now :)) 
-> 
-> 
-> 
-> Patrick
+
+If the items have an equal wait time (or slightly higher for all), why bother changing our scripts at all? We can spam people even more for a 2 ms gain?
+
+I think I go balance myself at work. But as a parting note, in the ss group last night, I counted over 50 references from players to how irritating the new lag was. Perhaps some of those players can more politely explain their irritation than I can.
+
+Oh, and if you smoke, I hope you die of lung cancer. (Well, not really, I just hate you right now :)) 
+
+Patrick
 
 </div>
 
@@ -309,7 +274,7 @@ Good luck with the giving up smoking d00d - I went cold turkey and stopped 3 yea
 
 Again, good luck, it ain't easy, but the longer you go without, the easier it gets. I started chewing gum for a while as a distraction which helped in those early stages and the rough patches. Expect to put on some weight too.
 
-The good news is that you'll save a sh*tload of money - well, if you live in NYC you do anyway, where it was over $10 a pack 3 years ago, and apparently near $15 a pack now..
+The good news is that you'll save a sh\*tload of money - well, if you live in NYC you do anyway, where it was over $10 a pack 3 years ago, and apparently near $15 a pack now..
 
 p.s. the eq change spam in groups is going to get ridiculous, which is why I mentioned tweaking the concise / brief commands somehow, but I doubt anything can be done there.
 
@@ -317,15 +282,20 @@ p.s. the eq change spam in groups is going to get ridiculous, which is why I men
 
 <div class="post" data-post-id="21413" data-author="Vixn" data-date="2007-11-25T20:04:01+00:00" data-subject="">
 
-...whines skipped.... 
+> <strong>van wrote:</strong>
+> ...whines skipped.... 
+> 
+> 
+> 
+> shouldn't there be lag from taking objects out of sacks?
+> 
+> 
+> 
+> Patrick
 
-shouldn't there be lag from taking objects out of sacks?
+great idea! I'll put another one ---\> non-caster classoes could have some troubles with recite recalls. Like they started to recite, got wrong and have to start from the beginning. Just for 'balance' sake.
 
-Patrick[/quote:2volge8u]
-
-great idea! I'll put another one ---> non-caster classoes could have some troubles with recite recalls. Like they started to recite, got wrong and have to start from the beginning. Just for 'balance' sake.
-
- 8)
+ <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -343,11 +313,12 @@ Alias
 
 <div class="post" data-post-id="21418" data-author="Yinao" data-date="2007-11-26T13:47:22+00:00" data-subject="">
 
-[quote:50b6fnp6]Yes there will need to be some rejigging of some peoples change eq scripts to improve the speed of eq change.[/quote:50b6fnp6]
+> <strong>Quote:</strong>
+> Yes there will need to be some rejigging of some peoples change eq scripts to improve the speed of eq change.
 
 Horsecock I will just spam the group for an extra 4 seconds or wtf ever it is and they can wait 4 seconds longer
 
- :roll:  :roll:  :roll:  :roll:  :roll:  :roll:  :roll:  :roll:  :roll:  :roll:  :roll:  :roll:  :roll:  :roll:  :roll:  :roll:  :roll:  :roll:  :roll:  :roll:  :roll:  :roll:  :roll:  :roll:  :roll:
+ <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -357,21 +328,23 @@ it's kind of gay, but I don't think it makes much of a difference.
 
 I'm behind this statement:
 
-[quote:icpw79eh]I come here for fantasy.[/quote:icpw79eh]
+> <strong>Quote:</strong>
+> I come here for fantasy.
 
 </div>
 
 <div class="post" data-post-id="21423" data-author="Vixn" data-date="2007-11-26T19:49:45+00:00" data-subject="">
 
-I come here for fantasy.
-
-Alias[/quote:1vhcpekd]
+> <strong>alias wrote:</strong>
+> I come here for fantasy.
+> 
+> Alias
 
 last player fantasy
 
-Fantasy's last logon was Sun Sep  9 12:13:31 2007
+Fantasy's last logon was Sun Sep 9 12:13:31 2007
 
-[ 1w  0d  0o  0t] Fantasy the Untitled
+[ 1w 0d 0o 0t] Fantasy the Untitled
 
 Sorry, she's busy right now.
 
@@ -379,7 +352,7 @@ Sorry, she's busy right now.
 
 <div class="post" data-post-id="21425" data-author="Weasel" data-date="2007-11-26T20:01:39+00:00" data-subject="">
 
-horsecock?  :shock:
+horsecock? <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -387,7 +360,7 @@ horsecock?  :shock:
 
 I have proof that one can 'remove all' instantly, and it's certainly a LOT faster than removing item by item:
 
-[url:19ke27qn]http://www.youtube.com/watch?v=6ELiTfyqOqg[/url:19ke27qn]
+http://www.youtube.com/watch?v=6ELiTfyqOqg
 
 So now you have the proof, please return our unlagged remove all command. The same applies for wear all - just play the vid backwards.
 
@@ -397,9 +370,9 @@ Thank you.
 
 <div class="post" data-post-id="21437" data-author="Avatar" data-date="2007-11-27T17:46:04+00:00" data-subject="EQ changes">
 
-That's an interesting change, and I can see how it makes sense to someone approaching this logically.  
+That's an interesting change, and I can see how it makes sense to someone approaching this logically. 
 
-Unfortunately, from my point of view, lag isn't fun.  Lag should be something that we are forced to deal with when our connection sucks, but it shouldn't be inflicted on us by the game itself.  If changing eq needs to be balanced, we should look for some other method to balance it rather than lag.  Of course, these are just my opinions.
+Unfortunately, from my point of view, lag isn't fun. Lag should be something that we are forced to deal with when our connection sucks, but it shouldn't be inflicted on us by the game itself. If changing eq needs to be balanced, we should look for some other method to balance it rather than lag. Of course, these are just my opinions.
 
 </div>
 
@@ -417,7 +390,7 @@ Disc Error...............
 
 Changing EQ...................
 
-People wait in reality.......lines, traffic, etc.   Lets all work together to create a wait free universe:)
+People wait in reality.......lines, traffic, etc. Lets all work together to create a wait free universe:)
 
 Resouh
 
@@ -425,11 +398,11 @@ Resouh
 
 <div class="post" data-post-id="21458" data-author="Autolycos" data-date="2007-11-28T19:59:38+00:00" data-subject="">
 
-[b:1xyvcyjf]Let's ask someone else about lag...[/b:1xyvcyjf][/size:1xyvcyjf]
+<strong>Let's ask someone else about lag...</strong>
 
-[b:1xyvcyjf]pretty much answers it all..[/b:1xyvcyjf][/size:1xyvcyjf]
+<strong>pretty much answers it all..</strong>
 
-[img:1xyvcyjf]http://www.xgenco.com/stuff/vader_faggotry.jpg[/img:1xyvcyjf]
+![](http://www.xgenco.com/stuff/vader_faggotry.jpg)
 
 </div>
 
@@ -449,13 +422,13 @@ I can't wait till kill lag goes ingame. After each kill you will have to "pause"
 
 oh... dont forget the extreme exhaustion after a long fight.
 
-or maybe,  ADD disorders that cause you to start a quest then walk away to buy rations..  
+or maybe, ADD disorders that cause you to start a quest then walk away to buy rations.. 
 
 oooh lets not forget obsesive compulsive disorders that makes 
 
 you want to clean a room everytime someone feasts or drops things.
 
-*do your part to make the game more retarded!*  :twisted:
+\*do your part to make the game more retarded!\* <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -483,7 +456,7 @@ btw, the majority of us are not nocturnal, and if we are, we still need to sleep
 
 I disagree, a super strain of cyber-cocaine could perpetually keep the machine up and running. Nasty habit could involve so many coins/drachma being 'used' to keep buying or ugh-oh! system crashes and has to enter virtual rehab for 12 RL hours.
 
- :shock:
+ <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -503,9 +476,8 @@ While we're at it, in order to promote harmony and non-aggression to our young a
 
 <div class="post" data-post-id="21467" data-author="Alberich" data-date="2007-11-29T03:17:31+00:00" data-subject="">
 
-Rescues, stabs and spells should not fail - in the interests of political correctness, the message should just say 'deferred success'.
-
-[/quote:20stbmab]
+> <strong>Weasel wrote:</strong>
+> Rescues, stabs and spells should not fail - in the interests of political correctness, the message should just say 'deferred success'.
 
 laugh
 
@@ -513,7 +485,8 @@ laugh
 
 <div class="post" data-post-id="21468" data-author="Autolycos" data-date="2007-11-29T04:41:36+00:00" data-subject="">
 
-the precusor to Sloth IV: The Quest for Piece[/quote:2dub7mrh]
+> <strong>Tap wrote:</strong>
+> the precusor to Sloth IV: The Quest for Piece
 
 lmfao!
 
@@ -521,21 +494,21 @@ lmfao!
 
 <div class="post" data-post-id="21469" data-author="13" data-date="2007-11-29T07:26:38+00:00" data-subject="">
 
-[img:3i8ijkfe]http://www.xgenco.com/stuff/vader_faggotry.jpg[/img:3i8ijkfe]
+![](http://www.xgenco.com/stuff/vader_faggotry.jpg)
 
-[img:3i8ijkfe]http://www.xgenco.com/stuff/vader_faggotry.jpg[/img:3i8ijkfe][img:3i8ijkfe]http://www.xgenco.com/stuff/vader_faggotry.jpg[/img:3i8ijkfe]
+![](http://www.xgenco.com/stuff/vader_faggotry.jpg)![](http://www.xgenco.com/stuff/vader_faggotry.jpg)
 
-[img:3i8ijkfe]http://www.xgenco.com/stuff/vader_faggotry.jpg[/img:3i8ijkfe][img:3i8ijkfe]http://www.xgenco.com/stuff/vader_faggotry.jpg[/img:3i8ijkfe]
+![](http://www.xgenco.com/stuff/vader_faggotry.jpg)![](http://www.xgenco.com/stuff/vader_faggotry.jpg)
 
-[img:3i8ijkfe]http://www.xgenco.com/stuff/vader_faggotry.jpg[/img:3i8ijkfe][img:3i8ijkfe]http://www.xgenco.com/stuff/vader_faggotry.jpg[/img:3i8ijkfe]
+![](http://www.xgenco.com/stuff/vader_faggotry.jpg)![](http://www.xgenco.com/stuff/vader_faggotry.jpg)
 
-[img:3i8ijkfe]http://www.xgenco.com/stuff/vader_faggotry.jpg[/img:3i8ijkfe][img:3i8ijkfe]http://www.xgenco.com/stuff/vader_faggotry.jpg[/img:3i8ijkfe]
+![](http://www.xgenco.com/stuff/vader_faggotry.jpg)![](http://www.xgenco.com/stuff/vader_faggotry.jpg)
 
-[img:3i8ijkfe]http://www.xgenco.com/stuff/vader_faggotry.jpg[/img:3i8ijkfe][img:3i8ijkfe]http://www.xgenco.com/stuff/vader_faggotry.jpg[/img:3i8ijkfe]
+![](http://www.xgenco.com/stuff/vader_faggotry.jpg)![](http://www.xgenco.com/stuff/vader_faggotry.jpg)
 
-[img:3i8ijkfe]http://www.xgenco.com/stuff/vader_faggotry.jpg[/img:3i8ijkfe][img:3i8ijkfe]http://www.xgenco.com/stuff/vader_faggotry.jpg[/img:3i8ijkfe]
+![](http://www.xgenco.com/stuff/vader_faggotry.jpg)![](http://www.xgenco.com/stuff/vader_faggotry.jpg)
 
-[img:3i8ijkfe]http://www.xgenco.com/stuff/vader_faggotry.jpg[/img:3i8ijkfe][img:3i8ijkfe]http://www.xgenco.com/stuff/vader_faggotry.jpg[/img:3i8ijkfe]
+![](http://www.xgenco.com/stuff/vader_faggotry.jpg)![](http://www.xgenco.com/stuff/vader_faggotry.jpg)
 
 best ever!!!!!!!!
 
@@ -543,7 +516,7 @@ best ever!!!!!!!!
 
 <div class="post" data-post-id="21474" data-author="Autolycos" data-date="2007-11-29T16:01:07+00:00" data-subject="">
 
-:wink:
+<img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -551,11 +524,11 @@ best ever!!!!!!!!
 
 add one minute lag right after this string:
 
-Welcome to the land of Sloth III. May your visit here be... Interesting.[/color:76erziik]
+Welcome to the land of Sloth III. May your visit here be... Interesting.
 
 argh, I still feel good
 
-L[/color:76erziik]A[/color:76erziik]G[/color:76erziik] M[/color:76erziik]E[/color:76erziik] M[/color:76erziik]O[/color:76erziik]R[/color:76erziik]E[/color:76erziik]![/size:76erziik]
+LAG ME MORE!
 
 </div>
 
@@ -593,13 +566,14 @@ lmfao... so true
 
 <div class="post" data-post-id="21483" data-author="Yasik" data-date="2007-11-29T23:08:04+00:00" data-subject="">
 
-add one minute lag right after this string:
-
-Welcome to the land of Sloth III. May your visit here be... Interesting.[/quote:27j9wnyi]
+> <strong>Vixn wrote:</strong>
+> add one minute lag right after this string:
+> 
+> Welcome to the land of Sloth III. May your visit here be... Interesting.
 
 I think the msg should be corrected this way:
 
-Welcome to the LAG of Sloth III. May your visit here be... Interesting.[/color:27j9wnyi]
+Welcome to the LAG of Sloth III. May your visit here be... Interesting.
 
 </div>
 
@@ -607,7 +581,7 @@ Welcome to the LAG of Sloth III. May your visit here be... Interesting.[/color:2
 
 on a similar note
 
-since being drunk now makes the game very unfun to play (to say the least), and there doesn't seem to be a way to not have feast summon ale/wine/etc, does anyone know if cleanse will fix?  or can we maybe start having coffee shops in town to sober yourself up? :P
+since being drunk now makes the game very unfun to play (to say the least), and there doesn't seem to be a way to not have feast summon ale/wine/etc, does anyone know if cleanse will fix? or can we maybe start having coffee shops in town to sober yourself up? <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -619,7 +593,8 @@ what happens from being drunk now?
 
 <div class="post" data-post-id="21488" data-author="Weasel" data-date="2007-11-30T05:01:03+00:00" data-subject="">
 
-what happens from being drunk now?[/quote:r37kkhjp]
+> <strong>13 wrote:</strong>
+> what happens from being drunk now?
 
 for you? no change.
 
@@ -627,11 +602,15 @@ for you? no change.
 
 <div class="post" data-post-id="21489" data-author="Yinao" data-date="2007-11-30T05:11:16+00:00" data-subject="">
 
-what happens from being drunk now?[/quote:3fue1zgi]
+> <strong>Weasel wrote:</strong>
+> > <strong>13 wrote:</strong>
+> > what happens from being drunk now?
+> 
+> 
+> 
+> for you? no change.
 
-for you? no change.[/quote:3fue1zgi]
-
- :shock: Rofl, classic  :lol:
+ <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> Rofl, classic <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -653,15 +632,15 @@ Coders - would slightly extending the character limit per command be out of the 
 
 <div class="post" data-post-id="21820" data-author="firebrand" data-date="2007-12-30T14:29:41+00:00" data-subject="">
 
-can anyone reasonably explain to me why lag has to be the penalty "answer" to commands, spells, skills, etc for chars?  and if you want to talk "balance", why don't mobs suffer the same lags, penalties, lost concs and whatevers that chars suffer?  why can't we have a variety of effects that the game randomly selects, with lag being only one of them?  and don't give me the realism argument.  there is nothing real about this FANTASY game.  we come here to ESCAPE realism, not be mired down with more of the same.  okay, i grant you that there are warriors and clerics and etc in real life - hell i am friends irl with several druids (and no, we are not going off on a religious tangent here.  i am just making a statement)- but not a single one of them can shapeshift....and no, i am not saying take shifting out of game.  i am just pointing out that we come here to have fun and relax, not put ourselves through more frustration, otherwise what is the point of coming here at all?  *steps off soapbox*
+can anyone reasonably explain to me why lag has to be the penalty "answer" to commands, spells, skills, etc for chars? and if you want to talk "balance", why don't mobs suffer the same lags, penalties, lost concs and whatevers that chars suffer? why can't we have a variety of effects that the game randomly selects, with lag being only one of them? and don't give me the realism argument. there is nothing real about this FANTASY game. we come here to ESCAPE realism, not be mired down with more of the same. okay, i grant you that there are warriors and clerics and etc in real life - hell i am friends irl with several druids (and no, we are not going off on a religious tangent here. i am just making a statement)- but not a single one of them can shapeshift....and no, i am not saying take shifting out of game. i am just pointing out that we come here to have fun and relax, not put ourselves through more frustration, otherwise what is the point of coming here at all? \*steps off soapbox\*
 
-"it seems you feel our work is not beneficial to the public" --rachael --> blade runner
+"it seems you feel our work is not beneficial to the public" --rachael --\> blade runner
 
 </div>
 
 <div class="post" data-post-id="21823" data-author="jezer" data-date="2007-12-31T04:56:28+00:00" data-subject="">
 
-I think the remove all and wear all lag should be shorter for male characters. Find me a women that can get changed quicker than a guy?  :twisted:
+I think the remove all and wear all lag should be shorter for male characters. Find me a women that can get changed quicker than a guy? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -669,6 +648,6 @@ I think the remove all and wear all lag should be shorter for male characters. F
 
 snicker
 
-+1
+\+1
 
 </div>

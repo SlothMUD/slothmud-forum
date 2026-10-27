@@ -26,21 +26,21 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: DEX by 1
+ Affects: DEX by 1
 
-    Affects: MANA by 10
+ Affects: MANA by 10
 
 Only those who are at least experienced magic users or clerics may use this 
 
-item.  
+item. 
 
---Axtrel
+\--Axtrel
 
 </div>
 
 <div class="post" data-post-id="12808" data-author="Qa" data-date="2006-05-31T13:24:36+00:00" data-subject="">
 
-Good luck.  The +con ones are harder to find, and (as you noticed) preferred.
+Good luck. The +con ones are harder to find, and (as you noticed) preferred.
 
 Qa
 

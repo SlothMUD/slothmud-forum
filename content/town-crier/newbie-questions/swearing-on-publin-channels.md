@@ -29,7 +29,7 @@ Where are your manners, sir?
 You feel rather helpless.You gossip-- 'fing'
 ```
 
-Is it failed somehow when I mistyped "fin**d**" and "th**r**ough"? I dont think I broke any rules.
+Is it failed somehow when I mistyped "fin<strong>d</strong>" and "th<strong>r</strong>ough"? I dont think I broke any rules.
 
 </div>
 
@@ -49,6 +49,6 @@ Our more 'mature' playerbase is depressing. This used to be a family friendly ga
 
 Now, there's no way I'd let them near some of the people that regularly abuse each other in clan, gossip, and grouptells.
 
-I'm think 'mature' lost its meaning in the last decade or two.  Now it just means older people who never grew up.
+I'm think 'mature' lost its meaning in the last decade or two. Now it just means older people who never grew up.
 
 </div>

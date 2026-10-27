@@ -22,19 +22,19 @@ At 6 o' clock am on the Day of Thunder, I undertook the quest 'leverage'.
 
 From dusty tomes, to obscure villages, and even in detestable taverns, I sought a weapon that would grant me the power that was rightfully mine. My fellow adventurers laughed me to scorn and wished me luck only with the greatest of sarcasm. But, by Thunder, I was the First Druid! As a child [0x38] I'd learned to take the form of an ancient wurm. I'd wrested the form of Naga from the elements while warriors were still learning the use of iron and blade [Milestone 2x40]. If there were any chance of success in this quest, I would not leave it to another.
 
-At length, I found my first clue in an ancient library [the eq list, no mob indicated]:
+At length, I found my first clue in an ancient library [the eq list, no mob indicated\]:
 
 An irrelevant legend of a time best not remembered mentioned an unlikely hero; a minotaur! Details were not forthcoming, but it seems he had wielded a 'cloven taurine axe'.
 
-I travelled the world, and with bardic song persuaded the locals to part with any knowledge of the unlikely weapon. Unfortunately, even the minotaurs of Ebony TowerT, the Crypt, the Labyrinth, and NEW_AREA [vision 4.minotaur] had no knowledge of the tool. On every continent I found naught but discouragement. Onward.
+I travelled the world, and with bardic song persuaded the locals to part with any knowledge of the unlikely weapon. Unfortunately, even the minotaurs of Ebony TowerT, the Crypt, the Labyrinth, and NEW\_AREA [vision 4.minotaur] had no knowledge of the tool. On every continent I found naught but discouragement. Onward.
 
 Bolstered then, by the knowledge that a minotaur had once wielded weapons, I undertook to find one that still possessed such an implement. There was only one:
 
 "The gruesome minotaur lowers its head at you, blowing fiery smoke from its
 
-nostrils.  Panting, it scrapes its left hoof coarsely across the floor, and
+nostrils. Panting, it scrapes its left hoof coarsely across the floor, and
 
-raises its axe.  It has an insatiable appetite.  There cannot be much time
+raises its axe. It has an insatiable appetite. There cannot be much time
 
 before it charges."
 
@@ -44,7 +44,7 @@ I resolved to return again and again until I could decipher the manufacture of t
 
 That evening as I returned to seek him again, I saw him wielding 'a Minoan labrys'. [A Labrys, as all true students of history will recall, is a Greek Doubleheaded Axe.] I could not pass up the chance to study the weapon, and unfortunately in my excitement, I killed the gruesome beast. Sorrowful for the loss of life, but in possession of the Minoan Axe, I completed the quest 'leverage' at 8 o'clock pm on the Day of the Bull.
 
-------------------------------
+\------------------------------
 
 Object 'axe minoan labrys double enormous', Item type: WEAPON
 
@@ -56,19 +56,19 @@ Damage Dice is '2D3'
 
 Can affect you as:
 
-    Affects: DAMROLL by 2
+ Affects: DAMROLL by 2
 
 Only those who are at least supreme druids, and have attained supremacy in
 
 at least three classes may use this item.
 
-The axe can only be wielded in Minotaur form (not human or other shifted).  It functions for both deathblow and limb chopping (on lyme, in temp areas only).  Much thanks to whichever immorts were involved in adding this item ingame so my quest wasn't a failure!
+The axe can only be wielded in Minotaur form (not human or other shifted). It functions for both deathblow and limb chopping (on lyme, in temp areas only). Much thanks to whichever immorts were involved in adding this item ingame so my quest wasn't a failure!
 
 </div>
 
 <div class="post" data-post-id="32139" data-author="Magi" data-date="2010-12-10T12:37:05+00:00" data-subject="Re: Chronicle of the First Druid - Minoan Axe">
 
-Just to clarify, since I got some tells right after posting this.  The quest 'leverage' was my quest to *locate *the axe. That quest has been completed now that the axe has been discovered, and had no reward other than the privilege of posting the info to the crier and bolstering my resume as master of things druidy.
+Just to clarify, since I got some tells right after posting this. The quest 'leverage' was my quest to <em>locate</em> the axe. That quest has been completed now that the axe has been discovered, and had no reward other than the privilege of posting the info to the crier and bolstering my resume as master of things druidy.
 
 The axe pops on the gruesome minotaur in the Labyrinth as normal equipment.
 
@@ -90,7 +90,7 @@ it is horrible. up to 32 kills now.
 
 <div class="post" data-post-id="32150" data-author="Magi" data-date="2010-12-13T18:24:52+00:00" data-subject="Re: Chronicle of the First Druid - Minoan Axe">
 
-I killed the minotaur 3 times for my first axe, followed by 20 kills with nothing.  I'm hoping it doesn't shatter like lesser specs, but I'm too afraid to test it without having a spare.  Deathblow is too awesome to be without.
+I killed the minotaur 3 times for my first axe, followed by 20 kills with nothing. I'm hoping it doesn't shatter like lesser specs, but I'm too afraid to test it without having a spare. Deathblow is too awesome to be without.
 
 </div>
 
@@ -112,7 +112,7 @@ Your weapon shatters as it hits your victim.
 
 Bye bye axe.
 
-Was well worth the whole eq pop day to get one.  :roll:
+Was well worth the whole eq pop day to get one. <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 Broke it on Lyme chopping in Minotaur form.
 
@@ -120,7 +120,7 @@ Broke it on Lyme chopping in Minotaur form.
 
 <div class="post" data-post-id="32168" data-author="Tuck" data-date="2010-12-16T03:17:10+00:00" data-subject="Re: Chronicle of the First Druid - Minoan Axe">
 
-> **Sleeping Forest wrote:**
+> <strong>Sleeping Forest wrote:</strong>
 > Your weapon shatters as it hits your victim.
 > 
 > 
@@ -129,19 +129,19 @@ Broke it on Lyme chopping in Minotaur form.
 > 
 > 
 > 
-> Was well worth the whole eq pop day to get one.  :roll:
+> Was well worth the whole eq pop day to get one. <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 > 
 > 
 > 
 > Broke it on Lyme chopping in Minotaur form.
 
-that sucks. whole eqpop day for nothing. i hope that mighty imms will fix it, so axe will be permanent.  :P
+that sucks. whole eqpop day for nothing. i hope that mighty imms will fix it, so axe will be permanent. <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="32169" data-author="Shyla" data-date="2010-12-16T15:37:52+00:00" data-subject="Re: Chronicle of the First Druid - Minoan Axe">
 
-though I agree it sucks it broke I am not sure I would make it unbreakable because you can use it to deathblow and to chop and it doesn't seem fair to me that a druid can pop an unbreakable chopper.  If you don't want to risk it breaking just don't use it for chopping.  I will however state it might be nicer if the pop rate was increased a little bit if it is going to be a breakable item.
+though I agree it sucks it broke I am not sure I would make it unbreakable because you can use it to deathblow and to chop and it doesn't seem fair to me that a druid can pop an unbreakable chopper. If you don't want to risk it breaking just don't use it for chopping. I will however state it might be nicer if the pop rate was increased a little bit if it is going to be a breakable item.
 
 Just my 2 cents
 
@@ -153,17 +153,17 @@ shyla
 
 For the record, you can deathblow with:
 
-- specularems
+\- specularems
 
-- curved knives
+\- curved knives
 
-- double bladed axes
+\- double bladed axes
 
 Possibly with:
 
-- scimitars
+\- scimitars
 
-- blazing swords
+\- blazing swords
 
 Haven't tested triblades.
 

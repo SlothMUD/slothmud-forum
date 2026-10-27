@@ -12,9 +12,9 @@ post_count: 53
 
 <div class="post" data-post-id="21264" data-author="*Krom*" data-date="2007-11-10T14:52:22+00:00" data-subject="**Revised quint40 light options**">
 
-The quint40 lights have been upgraded/revised.  You can now select any 2 of the following, with the exception of doubling up mana regen or spell/heal bonuses.
+The quint40 lights have been upgraded/revised. You can now select any 2 of the following, with the exception of doubling up mana regen or spell/heal bonuses.
 
-1 ) 3 of the following stat points:  STR, CON, DEX, INT, WIS, or Charisma
+1 ) 3 of the following stat points: STR, CON, DEX, INT, WIS, or Charisma
 
 2 ) 1 damage (same)
 
@@ -32,9 +32,9 @@ The quint40 lights have been upgraded/revised.  You can now select any 2 of the 
 
 9 ) heal bonus 20 (cannot be chosen twice)
 
-10) spell bonus 20 (cannot be chosen twice)
+10\) spell bonus 20 (cannot be chosen twice)
 
-You can send me an email to krom@slothmud.org with your character name, and all the names of your light, and what it should be, and I will make the changes as I get to them , or catch me or a willing immortal online.  For a brief period of time, we will also allow you to alter your lights characteristics free of charge (go from mana to ac for instance)
+You can send me an email to krom@slothmud.org with your character name, and all the names of your light, and what it should be, and I will make the changes as I get to them , or catch me or a willing immortal online. For a brief period of time, we will also allow you to alter your lights characteristics free of charge (go from mana to ac for instance)
 
 </div>
 
@@ -42,7 +42,7 @@ You can send me an email to krom@slothmud.org with your character name, and all 
 
 thanks
 
-is 2.1ac out of the question?  :wink:
+is 2.1ac out of the question? <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -58,11 +58,11 @@ While, this is cool, I have to say that I think charisma and UC are
 
 going to be pretty much worthless compared to the other stuff you
 
-can get on it.  A 40 avatar bard and necro are likely going to be capped 
+can get on it. A 40 avatar bard and necro are likely going to be capped 
 
-respectively anyway.  It's hard for me to figure out how to improve 
+respectively anyway. It's hard for me to figure out how to improve 
 
-tard lights without overpowering them.  I certainly do appreciate the
+tard lights without overpowering them. I certainly do appreciate the
 
 time and effort involved in making changes like this though.
 
@@ -76,9 +76,12 @@ So, say I already have the mr and mana...will the mana on my current light autom
 
 <div class="post" data-post-id="21270" data-author="Weasel" data-date="2007-11-11T05:28:06+00:00" data-subject="">
 
-thanks
-
-is 2.1ac out of the question?  :wink:[/quote:1jzdhu8s]
+> <strong>Weasel wrote:</strong>
+> thanks
+> 
+> 
+> 
+> is 2.1ac out of the question? <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 err.. that didn't make a whole lot of sense. 
 
@@ -96,9 +99,10 @@ If they dont add up to caps, they don't make much sense, though.
 
 <div class="post" data-post-id="21272" data-author="Autolycos" data-date="2007-11-11T19:06:18+00:00" data-subject="">
 
-If they dont add up to caps, they don't make much sense, though.[/quote:xenm0h0y]
+> <strong>Teron wrote:</strong>
+> If they dont add up to caps, they don't make much sense, though.
 
-Teron of course being the leading authority on not making sense ;)
+Teron of course being the leading authority on not making sense <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -136,15 +140,15 @@ The second variant is much more useful, because it gives the avatars an edge, in
 
 some clarification and additions:
 
-1) 3 stat points is only one of the 2 attributes.  And you can double these up, so you could get 6 str for instance, or 3 dex 3 con, or 3 str 1 damage.
+1\) 3 stat points is only one of the 2 attributes. And you can double these up, so you could get 6 str for instance, or 3 dex 3 con, or 3 str 1 damage.
 
-2)  the Charisma, much like other abilities, you may have maxed out.  Or you may not have.  This just gives you the option of choosing it.  Everyone is built differently.
+2\) the Charisma, much like other abilities, you may have maxed out. Or you may not have. This just gives you the option of choosing it. Everyone is built differently.
 
-3) UC max for necro prime is like 24.  You can double UC and get 8 UC from your tard light.
+3\) UC max for necro prime is like 24. You can double UC and get 8 UC from your tard light.
 
 Additions (and updated initial post for this)
 
-1) 20 heal or spell bonus, like mana regen cannot be chosen twice.  You could choose one of each, so the light could be 20 heal / 20 spell.
+1\) 20 heal or spell bonus, like mana regen cannot be chosen twice. You could choose one of each, so the light could be 20 heal / 20 spell.
 
 We have talked about the monk abilities (hand damage and dmg reduction), but do not think they will be included.
 
@@ -152,17 +156,18 @@ We have talked about the monk abilities (hand damage and dmg reduction), but do 
 
 <div class="post" data-post-id="21281" data-author="*Krom*" data-date="2007-11-12T15:03:10+00:00" data-subject="">
 
-Also, since every light is custom, you must get it changed manually.  Isabo or myself can change online, or you can email as stated below and when you log in it will be fixed.
+Also, since every light is custom, you must get it changed manually. Isabo or myself can change online, or you can email as stated below and when you log in it will be fixed.
 
 </div>
 
 <div class="post" data-post-id="21282" data-author="Weasel" data-date="2007-11-12T15:56:08+00:00" data-subject="">
 
-some clarification and additions:
+> <strong>\*Krom\* wrote:</strong>
+> some clarification and additions:
+> 
+> 1\) 3 stat points is only one of the 2 attributes. And you can double these up, so you could get 6 str for instance, or 3 dex 3 con, or 3 str 1 damage.
 
-1) 3 stat points is only one of the 2 attributes.  And you can double these up, so you could get 6 str for instance, or 3 dex 3 con, or 3 str 1 damage.[/quote:1brpvu0w]
-
- :shock:  OMG so stat attributes have effectively been *tripled* from what it was, yet AC was not touched at all? 
+ <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> OMG so stat attributes have effectively been \*tripled\* from what it was, yet AC was not touched at all? 
 
 Why are coders apparently so dead set against anything in AC? Again, with the 3x40 eq changes, the two main warrior eq, cuirass and the shield, are the two items that remained unchanged. Drachma shop eq updates, again lots of new stuff, particularly thiefy from what I can tell, but again no additional AC eq (there already was a -0.6 robe, and apparently the relic already existed).. Now finally the lights get changed, and still no AC, yet other abilities are not only improved, but tripled!
 
@@ -182,7 +187,7 @@ weasel the coders have allowed you to go from -10.5 to like -13 in the last 8 mo
 
 if you need more ac dude.
 
-thanks for the spelldmg/healbonus addition there Krom, rocks :)
+thanks for the spelldmg/healbonus addition there Krom, rocks <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 and all of this is within cap right?
 
@@ -190,13 +195,13 @@ and all of this is within cap right?
 
 <div class="post" data-post-id="21284" data-author="*Krom*" data-date="2007-11-12T17:14:48+00:00" data-subject="">
 
-There was already .4 ac available for light.  I think this is more than sufficient, seeing as there is no other permanent ac for lights at all.  You can already reach -12 ac at 3x40, look at calin and I think Bomb or Bombard who did it, and Stryker at least one who did it at low level avatar.
+There was already .4 ac available for light. I think this is more than sufficient, seeing as there is no other permanent ac for lights at all. You can already reach -12 ac at 3x40, look at calin and I think Bomb or Bombard who did it, and Stryker at least one who did it at low level avatar.
 
 As with previous equipment updates, the point was not to extend the power level of the items that were already the premium choices and the main selections, but to catch some of the other options up to these and have a wider variety of viable choices.
 
-Also, I dont understand your argument about taking away your ability to solo.  This is why you have equipment modes, your soloing gear is not going to be your -12 gear most likely.  Looking at last weeks top 20 lists, I see you were 4th overall in the mud in soloing exp.  The guy right above you had about the same exp and put minimal effort into it running at -11 +13 or -10 +17, and is all old school as well, so I know it can be done without the big damage.  Is your mana regen and ability to take out some big mobs less than some other classes?  Yes, it might be, but not everything can be equal and some classes will be good at some things while others will not.
+Also, I dont understand your argument about taking away your ability to solo. This is why you have equipment modes, your soloing gear is not going to be your -12 gear most likely. Looking at last weeks top 20 lists, I see you were 4th overall in the mud in soloing exp. The guy right above you had about the same exp and put minimal effort into it running at -11 +13 or -10 +17, and is all old school as well, so I know it can be done without the big damage. Is your mana regen and ability to take out some big mobs less than some other classes? Yes, it might be, but not everything can be equal and some classes will be good at some things while others will not.
 
-The one thing I am aware of and have been trying to make some changes for, is that new school tanks do have an advantage, especially for group tanking.  Every new tankl that comes along should not have to be a wa mo cl ne or last 2 classes swapped, for instance.  Thief (and warrior for that matter) could be made better supporting classes, and that is a project I am working on persuading others up here we need to address.
+The one thing I am aware of and have been trying to make some changes for, is that new school tanks do have an advantage, especially for group tanking. Every new tankl that comes along should not have to be a wa mo cl ne or last 2 classes swapped, for instance. Thief (and warrior for that matter) could be made better supporting classes, and that is a project I am working on persuading others up here we need to address.
 
 </div>
 
@@ -214,15 +219,13 @@ However, making the thief for example more valid in tankship is a good idea. Cri
 
 Cheers!
 
--Hotara
+\-Hotara
 
 </div>
 
 <div class="post" data-post-id="21286" data-author="Weasel" data-date="2007-11-12T17:50:54+00:00" data-subject="">
 
 Well I had to give it a shot. Thanks for responding and clarifying at least Krom, even if I still don't agree with some points.
-
- 
 
 I have no idea why, as you said, you want to encourage new school tanks so much yet apparently neglect old school tanks, but I guess you have your reasons. 
 
@@ -240,19 +243,21 @@ So... anyone got a Thief prime for sale? Preferably one without a bad rep..
 
 <div class="post" data-post-id="21288" data-author="brady" data-date="2007-11-12T19:36:28+00:00" data-subject="">
 
-[quote:dvh5l2h1]="Weasel Sorry for whining, but every time there's been a change I keep hoping someone will finally throw warriors a bone, but this is the last change available and still not a thing. Kinda upset about it.[/quote:dvh5l2h1]
+> <strong>Quote:</strong>
+> \="Weasel Sorry for whining, but every time there's been a change I keep hoping someone will finally throw warriors a bone, but this is the last change available and still not a thing. Kinda upset about it.
 
-Is that Mosaix in a Weasel suit?  Halloween was last month...ya missed it!
+Is that Mosaix in a Weasel suit? Halloween was last month...ya missed it!
 
 </div>
 
 <div class="post" data-post-id="21289" data-author="Autolycos" data-date="2007-11-12T19:36:41+00:00" data-subject="">
 
-So... anyone got a Thief prime for sale? Preferably one without a bad rep..[/quote:2u3dj1li]
+> <strong>Weasel wrote:</strong>
+> So... anyone got a Thief prime for sale? Preferably one without a bad rep..
 
 thieves are overrated 
 
-you should really try making a warrior  :twisted:
+you should really try making a warrior <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -260,11 +265,11 @@ you should really try making a warrior  :twisted:
 
 First of all sorry for going on a tangent on this thread, but here goes.
 
-You mention the uc cap for Prime necros... I would like to ask if prime necros  have some innate uc, because I get the cap message at exactly +20 and not at +24 as stated.
+You mention the uc cap for Prime necros... I would like to ask if prime necros have some innate uc, because I get the cap message at exactly +20 and not at +24 as stated.
 
 Want to address the cookie cutter tank problem, 1 spell imo would do it, a high level necro spell that is effectively wraithform being able to be cast on another,this would not only help me and make me want to actually play my tank again, but I think it would do wonders for any old school tank as well.
 
-I have a tank and hes semi-new school but I didnt pick necro, So I basically don't have the ability to tank desert efficiently; a 3x40 w/ wraith and -11 is better than myself at -12 there.  Damage reduction is not necessary but wraithform is for some mobs. And yes you can make charms but  its more than inconvenient to store up 20 wraith charms so I can tank 1 day in desert and then increase my inventories 20 more so I can tank another day. 
+I have a tank and hes semi-new school but I didnt pick necro, So I basically don't have the ability to tank desert efficiently; a 3x40 w/ wraith and -11 is better than myself at -12 there. Damage reduction is not necessary but wraithform is for some mobs. And yes you can make charms but its more than inconvenient to store up 20 wraith charms so I can tank 1 day in desert and then increase my inventories 20 more so I can tank another day. 
 
 More AC will come in time and I don't worry too much about that these days, and the new tard lights look nice, thanx for the hard work.
 
@@ -274,27 +279,27 @@ Alias
 
 <div class="post" data-post-id="21291" data-author="blackmore" data-date="2007-11-12T20:24:17+00:00" data-subject="">
 
-Imho, If tripling stats on the av light from a max of 2 stats to a max of 6 stats is not excessively extending the power of the item, then I don't know what is. [/quote:14kqx3i0]
+> <strong>Weasel wrote:</strong>
+> Imho, If tripling stats on the av light from a max of 2 stats to a max of 6 stats is not excessively extending the power of the item, then I don't know what is.
 
-Just because something was insanely underpowered before shouldn't mean it needs to always be that underpowered.  There is eq valk chars can use that's got 2 +1 stats on them (staff of the glass dragon, for instance).  There is no other eq ingame that has any AC on light.  It was insane that a quint40 light option could potentially be as weak as eq that loads on valk.  It used to be that it was almost embarrassing to pick a stat for your light - now it's actually reasonable.
+Just because something was insanely underpowered before shouldn't mean it needs to always be that underpowered. There is eq valk chars can use that's got 2 +1 stats on them (staff of the glass dragon, for instance). There is no other eq ingame that has any AC on light. It was insane that a quint40 light option could potentially be as weak as eq that loads on valk. It used to be that it was almost embarrassing to pick a stat for your light - now it's actually reasonable.
 
 </div>
 
 <div class="post" data-post-id="21292" data-author="Weasel" data-date="2007-11-12T20:54:49+00:00" data-subject="">
 
-how much +3any-stat eq is out there, let alone +6any-stat..  guess it's a matter of perspective.. 
+how much +3any-stat eq is out there, let alone +6any-stat.. guess it's a matter of perspective.. 
 
-seems I'm pushing sh*t uphill here.
+seems I'm pushing sh\*t uphill here.
 
 </div>
 
 <div class="post" data-post-id="21293" data-author="blackmore" data-date="2007-11-12T21:28:15+00:00" data-subject="">
 
-how much +3any-stat eq is out there, let alone +6any-stat..  guess it's a matter of perspective.. 
+> <strong>Weasel wrote:</strong>
+> how much +3any-stat eq is out there, let alone +6any-stat.. guess it's a matter of perspective..
 
-[/quote:13i6is44]
-
-If there was some, it wouldn't be a quint 40 light.  I'm thinking you're confused.  If they left the stats at +1,they would be no more powerful than valk eq.  If they leave the AC at .2, it's .2 better than anything available ingame.  I guess it makes sense to me - the +3 stats are +2 better than anything ingame, and the .2 AC is .2 better than anything ingame.  I'm confused why it doesn't make sense to you.
+If there was some, it wouldn't be a quint 40 light. I'm thinking you're confused. If they left the stats at +1,they would be no more powerful than valk eq. If they leave the AC at .2, it's .2 better than anything available ingame. I guess it makes sense to me - the +3 stats are +2 better than anything ingame, and the .2 AC is .2 better than anything ingame. I'm confused why it doesn't make sense to you.
 
 </div>
 
@@ -302,13 +307,13 @@ If there was some, it wouldn't be a quint 40 light.  I'm thinking you're confuse
 
 heres the way I'm trying to look at it.
 
-cant buy ac with xp tokens.  cant buy straight dam or mr either.
+cant buy ac with xp tokens. cant buy straight dam or mr either.
 
 can buy stats, spelldam, mana, etc.
 
-so, if I need 3 stats, thats 15 tokens.  can I buy anything better than 3 stats with 15 tokens if I get them on my light or am I better off keeping the mr and mana that I have.  the mana would cost 21 tokens, the mr I cant buy.
+so, if I need 3 stats, thats 15 tokens. can I buy anything better than 3 stats with 15 tokens if I get them on my light or am I better off keeping the mr and mana that I have. the mana would cost 21 tokens, the mr I cant buy.
 
-really, I'm just trying to stay above 500 mana, +19 dam at -10.  I've been looking at the trip40 changes and cant figure out what would benefit me more than what I have now.  I'm never on long enough to tank so I primarily solo. 
+really, I'm just trying to stay above 500 mana, +19 dam at -10. I've been looking at the trip40 changes and cant figure out what would benefit me more than what I have now. I'm never on long enough to tank so I primarily solo. 
 
 I dont think anyone bothers to run the way I do...I know strider used to run massive mana but I think he chagned to more dam...
 
@@ -318,11 +323,12 @@ I dont think anyone bothers to run the way I do...I know strider used to run mas
 
 Blackmore wrote to Furball
 
-[quote:337prm5d]I'm confused why it doesn't make sense to you.[/quote:337prm5d]
+> <strong>Quote:</strong>
+> I'm confused why it doesn't make sense to you.
 
-giggle*snort*chuckle*snicker*laff*snicker*smirk
+giggle\*snort\*chuckle\*snicker\*laff\*snicker\*smirk
 
- 8)
+ <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -334,17 +340,17 @@ lick my balls.
 
 <div class="post" data-post-id="21297" data-author="Hotara" data-date="2007-11-13T08:04:30+00:00" data-subject="">
 
-Indeed, this discussion has turned into an intellectual one :)
+Indeed, this discussion has turned into an intellectual one <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="21298" data-author="Evergreen" data-date="2007-11-13T12:07:33+00:00" data-subject="">
 
-way too much changes nowdays :)~ cant figure all the benefits i can have from this, you making my chars too powerful!!!
+way too much changes nowdays <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">\~ cant figure all the benefits i can have from this, you making my chars too powerful!!!
 
 seriously, very good change and very nice attitude to consider this change when players suggested it.
 
-6 stats? very nice option that temporary helps you sort out good stats with one low stat - for example dex :) if you have decent stats with nat 14 dex, fills you all sloths with +dex and makes it not comfortable to play. now you can cast quicken and take 3dex +dam or 20spelldam lite and be damn happy. 
+6 stats? very nice option that temporary helps you sort out good stats with one low stat - for example dex <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> if you have decent stats with nat 14 dex, fills you all sloths with +dex and makes it not comfortable to play. now you can cast quicken and take 3dex +dam or 20spelldam lite and be damn happy. 
 
 now where is my avian claw...
 
@@ -354,27 +360,28 @@ now where is my avian claw...
 
 Thanks for the work Krom, I think your approach makes sense.
 
-Most of the people with old 3x40 eq and tard lights picked very similar eq.  In the old days, there were a few options that were simply much better than other choices you could make.  If you picked strong choices for your character before the recent changes, then you'll likely still be happy with those choices now.  The higher mana or higher stats -might- tempt you to make some change, but you may decide that your earlier picks are still better for the way you play.  Don't be bitter about this, you still made good picks.
+Most of the people with old 3x40 eq and tard lights picked very similar eq. In the old days, there were a few options that were simply much better than other choices you could make. If you picked strong choices for your character before the recent changes, then you'll likely still be happy with those choices now. The higher mana or higher stats -might- tempt you to make some change, but you may decide that your earlier picks are still better for the way you play. Don't be bitter about this, you still made good picks.
 
-I agree with Weasel and Blackmore both.  I agree with Weasel that tanks need more AC.  I agree with Blackmore that the AC on the light is already where it needs to be.  
+I agree with Weasel and Blackmore both. I agree with Weasel that tanks need more AC. I agree with Blackmore that the AC on the light is already where it needs to be. 
 
-I think the AC cap was the best change Sloth has made from a game system standpoint in a long time.  Higher AC needs to come from new in-game items, and it should come with some serious drawbacks.  
+I think the AC cap was the best change Sloth has made from a game system standpoint in a long time. Higher AC needs to come from new in-game items, and it should come with some serious drawbacks. 
 
-If -13 is possible, it should be something you do for big groups only.  -dam, -spelldam, -mana, and big numbers on those -.  How about a tower shield that prevents warriors from using their last two attacks each round?
+If -13 is possible, it should be something you do for big groups only. -dam, -spelldam, -mana, and big numbers on those -. How about a tower shield that prevents warriors from using their last two attacks each round?
 
 </div>
 
 <div class="post" data-post-id="21300" data-author="13" data-date="2007-11-13T15:15:26+00:00" data-subject="">
 
-[quote:spm4eh9i] It used to be that it was almost embarrassing to pick a stat for your light[/quote:spm4eh9i]
+> <strong>Quote:</strong>
+> It used to be that it was almost embarrassing to pick a stat for your light
 
 I would say that if you need 6 of one stat by the time you're a 40 tard, it's
 
-still pretty shameful :)
+still pretty shameful <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-I think roadrunnr has the right of it.  I only pay attention to shit that I
+I think roadrunnr has the right of it. I only pay attention to shit that I
 
-cannot buy with xp.  This is one reason I have a very hard time shelling
+cannot buy with xp. This is one reason I have a very hard time shelling
 
 out drachma for any spelldmg eq other than the robe.
 
@@ -382,25 +389,28 @@ out drachma for any spelldmg eq other than the robe.
 
 <div class="post" data-post-id="21301" data-author="blackmore" data-date="2007-11-13T17:37:58+00:00" data-subject="">
 
-I would say that if you need 6 of one stat by the time you're a 40 tard, it's
+> <strong>13 wrote:</strong>
+> I would say that if you need 6 of one stat by the time you're a 40 tard, it's
+> 
+> still pretty shameful <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-still pretty shameful :)
-
-[/quote:3dagzzuv]
-
-I would agree, except that I'm one considering changing to stats.  See, str is my last stat, and I have monk in my classo, so I like deathtouch.  I run at 18/10 18 18 18 17.  If I wanted to buy str, I would need to buy 5 str to gain any benefit.  If I got +6 str on my light, it would put me at 18/70, and it would put me close enough to make it worthwhile buying str, or swapping 3x40 eq to wear a +str item.
+I would agree, except that I'm one considering changing to stats. See, str is my last stat, and I have monk in my classo, so I like deathtouch. I run at 18/10 18 18 18 17. If I wanted to buy str, I would need to buy 5 str to gain any benefit. If I got +6 str on my light, it would put me at 18/70, and it would put me close enough to make it worthwhile buying str, or swapping 3x40 eq to wear a +str item.
 
 </div>
 
 <div class="post" data-post-id="21302" data-author="Weasel" data-date="2007-11-13T20:06:14+00:00" data-subject="">
 
-I would say that if you need 6 of one stat by the time you're a 40 tard, it's
-
-still pretty shameful :)
-
-[/quote:1hzs4c2r]
-
-I would agree, except that I'm one considering changing to stats.  See, str is my last stat, and I have monk in my classo, so I like deathtouch.  I run at 18/10 18 18 18 17.  If I wanted to buy str, I would need to buy 5 str to gain any benefit.  If I got +6 str on my light, it would put me at 18/70, and it would put me close enough to make it worthwhile buying str, or swapping 3x40 eq to wear a +str item.[/quote:1hzs4c2r]
+> <strong>blackmore wrote:</strong>
+> > <strong>13 wrote:</strong>
+> > I would say that if you need 6 of one stat by the time you're a 40 tard, it's
+> > 
+> > still pretty shameful <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
+> 
+> 
+> 
+> 
+> 
+> I would agree, except that I'm one considering changing to stats. See, str is my last stat, and I have monk in my classo, so I like deathtouch. I run at 18/10 18 18 18 17. If I wanted to buy str, I would need to buy 5 str to gain any benefit. If I got +6 str on my light, it would put me at 18/70, and it would put me close enough to make it worthwhile buying str, or swapping 3x40 eq to wear a +str item.
 
 ..which might explain why the +6 stats seem to be such a good idea for you. If you were short on AC and were trying to hit -12, or better yet -12.3 to allow for webs, then perhaps your opinion may have been different. If some of the drachma or 3x40 eq had been bumped up even a little for AC then I might not have even questioned the lack of any added AC in the light, but as things are, there is nothing extra, and now no room for it to be added anywhere. The possible addition of new ingame eq at some unknown time in the future argument applies just as much for your preference as it does for mine, so no point bringing that up. Your reasoning here for the added stats supports my reasoning for the needing AC - the difference being that you need the extra stats whereas I need the extra AC. As someone else mentioned, at least you (and everyone) has the opportunity to buy stats via exp tokens.. there is no such opportunity for AC, thereby giving even more reason to provide AC more than stats.
 
@@ -412,11 +422,11 @@ I'm sure someone will come up with some reason to tell me I'm wrong, or I'm gree
 
 <div class="post" data-post-id="21303" data-author="13" data-date="2007-11-13T20:31:32+00:00" data-subject="">
 
-[img:43ijio3t]http://icanhascheezburger.files.wordpress.com/2007/03/doinitwrong.jpg[/img:43ijio3t]
+![](http://icanhascheezburger.files.wordpress.com/2007/03/doinitwrong.jpg)
 
-[img:43ijio3t]http://icanhascheezburger.files.wordpress.com/2007/04/wrong-mike.jpg[/img:43ijio3t]
+![](http://icanhascheezburger.files.wordpress.com/2007/04/wrong-mike.jpg)
 
-[img:43ijio3t]http://www.gilesbowkett.com/images/cheez_doing_it_wrong.jpg[/img:43ijio3t]
+![](http://www.gilesbowkett.com/images/cheez_doing_it_wrong.jpg)
 
 </div>
 
@@ -430,41 +440,43 @@ heh.. kinda asked for that didn't I..
 
 Your'e wrong, your'e greedy, and you should just start a different classo.
 
- 8)
+ <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="21309" data-author="Autolycos" data-date="2007-11-14T01:41:30+00:00" data-subject="">
 
-thanks... that's just fawkin hilarious :)
+thanks... that's just fawkin hilarious <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="21311" data-author="blackmore" data-date="2007-11-14T01:49:23+00:00" data-subject="">
 
-[..which might explain why the +6 stats seem to be such a good idea for you. If you were short on AC and were trying to hit -12, or better yet -12.3 to allow for webs, then perhaps your opinion may have been different. ...[/quote:e3lfun59]
+> <strong>Weasel wrote:</strong>
+> [..which might explain why the +6 stats seem to be such a good idea for you. If you were short on AC and were trying to hit -12, or better yet -12.3 to allow for webs, then perhaps your opinion may have been different. ...
 
-Actually, it shows my point.  My light currently has AC and MR on it.  I got .2ac and +4 MR.  I gained .2ac that I couldn't get with ingame eq, and +1 mr over what's ingame.  Had I gone with +str, I would have gotten +1 str and +4 mr, which is only +1mr better than eq that can be used at 1x20.  Now that stats are +3, I can get a +str +mr light that's an equivalent.  Compared to ingame eq, I gain +1 MR and either .2ac or +2 str, whichever I choose.  Both options are now better than ingame, by the same amount.
+Actually, it shows my point. My light currently has AC and MR on it. I got .2ac and +4 MR. I gained .2ac that I couldn't get with ingame eq, and +1 mr over what's ingame. Had I gone with +str, I would have gotten +1 str and +4 mr, which is only +1mr better than eq that can be used at 1x20. Now that stats are +3, I can get a +str +mr light that's an equivalent. Compared to ingame eq, I gain +1 MR and either .2ac or +2 str, whichever I choose. Both options are now better than ingame, by the same amount.
 
-I don't disagree that more wa equipment should be added.  I think lots of classes have eq they should have but don't,  and there is very little eq just to benefit warriors, compared to what there is for other classes.  That doesn't mean the AC on a tard light is out of balance compared to the rest of the options.
+I don't disagree that more wa equipment should be added. I think lots of classes have eq they should have but don't, and there is very little eq just to benefit warriors, compared to what there is for other classes. That doesn't mean the AC on a tard light is out of balance compared to the rest of the options.
 
 </div>
 
 <div class="post" data-post-id="21312" data-author="Weasel" data-date="2007-11-14T02:55:35+00:00" data-subject="">
 
-I don't disagree that more wa equipment should be added.  I think lots of classes have eq they should have but don't,  and there is very little eq just to benefit warriors, compared to what there is for other classes.  That doesn't mean the AC on a tard light is out of balance compared to the rest of the options.[/quote:14k0axiw]
+> <strong>blackmore wrote:</strong>
+> I don't disagree that more wa equipment should be added. I think lots of classes have eq they should have but don't, and there is very little eq just to benefit warriors, compared to what there is for other classes. That doesn't mean the AC on a tard light is out of balance compared to the rest of the options.
 
 Fair enough. What got me whining is that the avatar light was the last option available for the powers that be to add AC, as AC had basically already been skipped on both 3x40eq updates and drachma eq updates, which means there are now no options left to add it.. (and again, the argument about possible new ingame eq sometime in the future applies to all class attributes, not just AC, so it's a moot point).
 
 I do understand your point of it being the only AC light source.. then again, if you consider Dex as AC, the stats change has, technically speaking, just provided a whopping -6.0 of AC for classes that don't have naturally high Dex (AC), even though they have other strengths, ..so now there is AC being provided indirectly to other classes, but not to the one class that needs it most - Warriors.. suddenly that -0.2 looks pretty pitiful in comparison huh. 
 
-Appreciate that you haven't taken my comments personally btw :)
+Appreciate that you haven't taken my comments personally btw <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="21313" data-author="Hotara" data-date="2007-11-14T03:01:25+00:00" data-subject="">
 
-This may be besides the point, but my 4x caster has a dex of 14, and even with that, I won't take the +6 dex as that character's 5x40 :)
+This may be besides the point, but my 4x caster has a dex of 14, and even with that, I won't take the +6 dex as that character's 5x40 <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Looking forward to -13 myself.
 
@@ -476,13 +488,14 @@ Hotara
 
 <div class="post" data-post-id="21314" data-author="Weasel" data-date="2007-11-14T03:06:18+00:00" data-subject="">
 
-This may be besides the point, but my 4x caster has a dex of 14, and even with that, I won't take the +6 dex as that character's 5x40 :)
-
-Looking forward to -13 myself.
-
-Cheers,
-
-Hotara[/quote:ru3i82qk]
+> <strong>Hotara wrote:</strong>
+> This may be besides the point, but my 4x caster has a dex of 14, and even with that, I won't take the +6 dex as that character's 5x40 <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
+> 
+> Looking forward to -13 myself.
+> 
+> Cheers,
+> 
+> Hotara
 
 Well no, and I wouldn't expect you to - your 4xCaster is not a tank. Then again, at least you have that option to better your AC by effectively -4.0 if you want to, as your nat is 14.
 
@@ -502,7 +515,8 @@ i would like to see more weapon dmg with good ac
 
 <div class="post" data-post-id="21317" data-author="Hotara" data-date="2007-11-14T03:38:50+00:00" data-subject="">
 
-Of course, anyone that settles for low nat dex probably doesn't care about ac enough to get a dex light over the other options.[/quote:1oz38lle]
+> <strong>Rynquald wrote:</strong>
+> Of course, anyone that settles for low nat dex probably doesn't care about ac enough to get a dex light over the other options.
 
 Sure I care about the ac, but it's rather hard to think about rolling 
 
@@ -548,21 +562,24 @@ Thus, I'd think it'd make sense to increase the ac to -0.3 one slot and -0.6 to 
 
 <div class="post" data-post-id="21328" data-author="*Krom*" data-date="2007-11-15T21:26:00+00:00" data-subject="">
 
-Technically, a stat point is worth from mana to -0.3 (sometimes -0.4 but you dont wear such eq). Using 6 stats to swap for ac or its equivalent (dam, regen) you effectively get more than -0.4 ac.
-
-Thus, I'd think it'd make sense to increase the ac to -0.3 one slot and -0.6 to slots.[/quote:31vtktqw]
+> <strong>Teron wrote:</strong>
+> Technically, a stat point is worth from mana to -0.3 (sometimes -0.4 but you dont wear such eq). Using 6 stats to swap for ac or its equivalent (dam, regen) you effectively get more than -0.4 ac.
+> 
+> 
+> 
+> Thus, I'd think it'd make sense to increase the ac to -0.3 one slot and -0.6 to slots.
 
 As was also pointed out, some things comes cheaper because you buy them for exp tokens/gold, so the items that you cannot carry a bit of a premium when it comes to the lights.
 
 As someone also pointed out, more ac items are coming, there is a method to it all.
 
-Ill consider the weapon damage option.  Also, I think I may allow you to split up 6 stat points between 2 stats however you liked, if you chose the 6 stat points.  Ask me if you are interested in this option.
+Ill consider the weapon damage option. Also, I think I may allow you to split up 6 stat points between 2 stats however you liked, if you chose the 6 stat points. Ask me if you are interested in this option.
 
 </div>
 
 <div class="post" data-post-id="21329" data-author="Weasel" data-date="2007-11-15T22:32:26+00:00" data-subject="">
 
-:shock:  
+<img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
 yeah, that really makes sense...
 

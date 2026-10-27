@@ -26,12 +26,11 @@ Salan
 
 <div class="post" data-post-id="7469" data-author="guest" data-date="2005-06-22T15:24:51+00:00" data-subject="">
 
-[quote:2eildu3l]Clasp can only be attached to: necklaces, amulets, and gorgets 
+> <strong>Quote:</strong>
+> Clasp can only be attached to: necklaces, amulets, and gorgets 
+> 
+> (gorgets - A piece of armor protecting the throat)
 
-(gorgets - A piece of armor protecting the throat) 
-
-[/quote:2eildu3l]
-
-Its the generic message meaning that you can attach it anywhere that wear in neck.  And shoulder guards is a neck special case, so it allow it to be attached there too.
+Its the generic message meaning that you can attach it anywhere that wear in neck. And shoulder guards is a neck special case, so it allow it to be attached there too.
 
 </div>

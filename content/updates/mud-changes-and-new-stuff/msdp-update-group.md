@@ -16,30 +16,30 @@ Added a new variable called group. It looks something like the following:
 
 ```
 GROUP = {
-    MEMBER1 = {
-      MANA = "611",
-      POSITION = "Back",
-      NAME = "Splork",
-      MAX_MANA = "611",
-      HITPOINTS = "1216",
-      MAX_HITPOINTS = "1216"
-    },
-    MEMBER2 = {
-      MANA = "316",
-      POSITION = "Leader",
-      NAME = "Whatta",
-      MAX_MANA = "316",
-      HITPOINTS = "319",
-      MAX_HITPOINTS = "319"
-    },
-    MEMBER0 = {
-      MANA = "179",
-      POSITION = "Back",
-      NAME = "Unmace",
-      MAX_MANA = "179",
-      HITPOINTS = "251",
-      MAX_HITPOINTS = "251"
-    }
+ MEMBER1 = {
+ MANA = "611",
+ POSITION = "Back",
+ NAME = "Splork",
+ MAX_MANA = "611",
+ HITPOINTS = "1216",
+ MAX_HITPOINTS = "1216"
+ },
+ MEMBER2 = {
+ MANA = "316",
+ POSITION = "Leader",
+ NAME = "Whatta",
+ MAX_MANA = "316",
+ HITPOINTS = "319",
+ MAX_HITPOINTS = "319"
+ },
+ MEMBER0 = {
+ MANA = "179",
+ POSITION = "Back",
+ NAME = "Unmace",
+ MAX_MANA = "179",
+ HITPOINTS = "251",
+ MAX_HITPOINTS = "251"
+ }
 ```
 
 This may change slightly if I can come up with a better way to declare position of the player in a group or decide to add more information. Currently, there are 5 possible positions: Pleader ( point and leader), Leader, Point, Front, or Back.
@@ -88,18 +88,18 @@ The new group variable looks like the following:
 
 ```
  GROUP = {
-    MEMBER0 = {
-      MANA = "578",
-      POSITION = "Leader",
-      MAX_MOVES = "366",
-      MAX_HITPOINTS = "1382",
-      MOVES = "366",
-      MAX_MANA = "578",
-      STATUS = "Fighting",
-      HITPOINTS = "1382",
-      NAME = "Jake"
-    }
-  },
+ MEMBER0 = {
+ MANA = "578",
+ POSITION = "Leader",
+ MAX_MOVES = "366",
+ MAX_HITPOINTS = "1382",
+ MOVES = "366",
+ MAX_MANA = "578",
+ STATUS = "Fighting",
+ HITPOINTS = "1382",
+ NAME = "Jake"
+ }
+ },
 ```
 
 Status options are the following:
@@ -122,7 +122,7 @@ Resting
 
 Sleeping
 
--- if none of those, Present
+\-- if none of those, Present
 
 Thanks for the idea Breeze, enjoy your vacation@
 
@@ -134,7 +134,7 @@ Splork
 
 <div class="post" data-post-id="35461" data-author="*Breeze*" data-date="2014-10-20T05:07:55+00:00" data-subject="Re: MSDP Update ( Group )">
 
-Looks good :)
+Looks good <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 And thanks
 

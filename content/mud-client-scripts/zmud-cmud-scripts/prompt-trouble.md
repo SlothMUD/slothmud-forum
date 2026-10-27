@@ -12,11 +12,12 @@ post_count: 1
 
 <div class="post" data-post-id="8994" data-author="marushu" data-date="2005-10-11T16:35:32+00:00" data-subject="prompt trouble">
 
-Was hoping maybe one of talented coders could help me :)
+Was hoping maybe one of talented coders could help me <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-I cannot seem to get my script to capture the prompt correctly.  For some reason it does not store anything inside the variables.  Any help would be greatly appreciated.
+I cannot seem to get my script to capture the prompt correctly. For some reason it does not store anything inside the variables. Any help would be greatly appreciated.
 
-[code:uosik3mm]#CLASS {Prompt} {enable}
+```
+#CLASS {Prompt} {enable}
 
 #VAR hp {}
 
@@ -32,22 +33,21 @@ I cannot seem to get my script to capture the prompt correctly.  For some reason
 
 #TRIGGER {^~<(%1)/(%2)hp (%3)/(%4)ma (%5)/(%6)mv~>} {
 
-  #VAR hp %1
+ #VAR hp %1
 
-  #VAR maxhp %2
+ #VAR maxhp %2
 
-  #VAR ma %3
+ #VAR ma %3
 
-  #VAR maxma %4
+ #VAR maxma %4
 
-  #VAR mv %5
+ #VAR mv %5
 
-  #VAR maxmv %6
+ #VAR maxmv %6
 
-  } "" {nocr|prompt}
+ } "" {nocr|prompt}
 
 #CLASS 0
-
-[/code:uosik3mm]
+```
 
 </div>

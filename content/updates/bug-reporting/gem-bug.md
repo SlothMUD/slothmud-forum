@@ -12,7 +12,7 @@ post_count: 4
 
 <div class="post" data-post-id="31995" data-author="Dragoth" data-date="2010-11-08T10:46:41+00:00" data-subject="Gem bug ?">
 
-<310hp 206ma 216mv>
+\<310hp 206ma 216mv\>
 
 You massacre an albino snow leopard to small fragments with your slash.
 
@@ -58,13 +58,13 @@ get all corpse
 
 Your blood freezes as you hear an albino snow leopard's death cry.
 
-<176hp 208ma 217mv>OUCH!!! ---134-- Need:623 (22%)
+\<176hp 208ma 217mv\>OUCH!!! ---134-- Need:623 (22%)
 
-<177hp 208ma 218mv>You get gold coins from the corpse of an albino snow leopard that's on the ground.
+\<177hp 208ma 218mv\>You get gold coins from the corpse of an albino snow leopard that's on the ground.
 
 There were 20000 coins.
 
-It seems that if my undeads kill the mob i dont get the gem ? :shock:
+It seems that if my undeads kill the mob i dont get the gem ? <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -78,7 +78,7 @@ Splork
 
 <div class="post" data-post-id="31998" data-author="Thraxas" data-date="2010-11-09T09:06:02+00:00" data-subject="Re: Gem bug ?">
 
-> **Quote:**
+> <strong>Quote:</strong>
 > A wraith has been banished to the astral plane!
 > 
 > Everything a wraith was carrying suddenly drops to the ground.

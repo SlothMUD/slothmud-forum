@@ -28,7 +28,8 @@ min 300k for one
 
 <div class="post" data-post-id="10461" data-author="Bazilus" data-date="2006-01-31T14:23:41+00:00" data-subject="Re: 600k for both">
 
-600k for both[/quote:4bhwpyac]
+> <strong>Gul wrote:</strong>
+> 600k for both
 
 deal
 

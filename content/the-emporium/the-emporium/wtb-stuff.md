@@ -14,13 +14,13 @@ post_count: 1
 
 Looking for few items:
 
-- bony bracelet x2
+\- bony bracelet x2
 
-- robe of stitched flesh
+\- robe of stitched flesh
 
-- ring of blue flame x2
+\- ring of blue flame x2
 
-- carved bone armplates
+\- carved bone armplates
 
 If you want to sell any of these, please talk to Cicada in game or send him mudmail.
 

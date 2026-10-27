@@ -12,9 +12,9 @@ post_count: 3
 
 <div class="post" data-post-id="32555" data-author="Tigris" data-date="2011-04-07T05:33:47+00:00" data-subject="Unexplained hit point loss">
 
-Can anyone explain to me where or why i lose the 17 hps  at the end of this script. Maybe its obvious but I seem to be missing it and this isn't the first time I've noticed it.
+Can anyone explain to me where or why i lose the 17 hps at the end of this script. Maybe its obvious but I seem to be missing it and this isn't the first time I've noticed it.
 
-<835hp 215ma 125mv |+23|+15|+9>
+\<835hp 215ma 125mv \|+23\|+15\|+9\>
 
 A lung patient hates your guts!
 
@@ -30,13 +30,13 @@ The wound turns black from the poison on your blade.
 
 You report 855/937 hp. Change: +20. Need: 82. Spells: greater fluidity, aegis.
 
-<855hp 215ma 125mv |+23|+15|+9>
+\<855hp 215ma 125mv \|+23\|+15\|+9\>
 
 Surfnazi utters the words, 'yfaghbarh'
 
 A lung patient screams in pain as Surfnazi's frostbolt freezes him.
 
-<857hp 216ma 126mv |+23|+15|+9>
+\<857hp 216ma 126mv \|+23\|+15\|+9\>
 
 cl
 
@@ -58,9 +58,9 @@ You get gold coins from the corpse of a lung patient that's on the ground.
 
 There were 2791 coins.
 
-You split 2791 coins.  You keep 1396 coins.
+You split 2791 coins. You keep 1396 coins.
 
-You report 838/937 hp. **Change: -17**. Need: 99. Spells: aegis, greater fluidity.
+You report 838/937 hp. <strong>Change: -17</strong>. Need: 99. Spells: aegis, greater fluidity.
 
 </div>
 

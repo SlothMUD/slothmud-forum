@@ -15,7 +15,7 @@ post_count: 1
 Greeting mortals.
 
 - Changed awaken and summoned pets to appear with full moves, not only 50.
-- Not sure if it also affects to supplication or animates pets, and I'm far too sleepy atm to worry about it.  Feel free to check it yourselves.
+- Not sure if it also affects to supplication or animates pets, and I'm far too sleepy atm to worry about it. Feel free to check it yourselves.
 
 Thanks Taron for reporting.
 

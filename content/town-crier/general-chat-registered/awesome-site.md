@@ -20,9 +20,9 @@ Great Website. Lots of info. Thanks Benq! Thanks all imms!
 
 I don't make many serious posts here, but this is one, so I hope it is not simply ignored.
 
-I love the fact that the forum login is fixed, and that the posts no longer go in reverse date order.  However, the slate grey with light blue font is really difficult on the eyes.  Black is the best background color we could possibly have, could we go back to that?  I don't see any customizable options.
+I love the fact that the forum login is fixed, and that the posts no longer go in reverse date order. However, the slate grey with light blue font is really difficult on the eyes. Black is the best background color we could possibly have, could we go back to that? I don't see any customizable options.
 
-Regarding the changes on the main site, I personally find a lot of the new lists very spammy and aesthetically unpleasant.  Maybe it is just me, but I'd really rather not have things like spellstats, skillstats, the shops, sloth slang, mage stones, diseases, weapon damage, hall of fame, and Memory Lane.
+Regarding the changes on the main site, I personally find a lot of the new lists very spammy and aesthetically unpleasant. Maybe it is just me, but I'd really rather not have things like spellstats, skillstats, the shops, sloth slang, mage stones, diseases, weapon damage, hall of fame, and Memory Lane.
 
 I may be extreme in my minimalist tendencies, but surely I'm not the only one who finds the main page too spammy.
 
@@ -32,28 +32,28 @@ Having said all that, thanks to everyone who worked on improving the site.
 
 <div class="post" data-post-id="31202" data-author="*Breeze*" data-date="2010-05-23T11:26:51+00:00" data-subject="Re: AWESOME SITE!">
 
-> **reboog wrote:**
-> I love the fact that the forum login is fixed, and that the posts no longer go in reverse date order.  However, the slate grey with light blue font is really difficult on the eyes.  Black is the best background color we could possibly have, could we go back to that?  I don't see any customizable options.
+> <strong>reboog wrote:</strong>
+> I love the fact that the forum login is fixed, and that the posts no longer go in reverse date order. However, the slate grey with light blue font is really difficult on the eyes. Black is the best background color we could possibly have, could we go back to that? I don't see any customizable options.
 
 feel free to choose one other style and i will install it as an alternate for the 'minimalists'
 
 [http://www.phpbb.com/styles/demo/3.0/?style_id=59](http://www.phpbb.com/styles/demo/3.0/?style_id=59)
 
-> **reboog wrote:**
-> Regarding the changes on the main site, I personally find a lot of the new lists very spammy and aesthetically unpleasant.  Maybe it is just me, but I'd really rather not have things like spellstats, skillstats, the shops, sloth slang, mage stones, diseases, weapon damage, hall of fame, and Memory Lane.
+> <strong>reboog wrote:</strong>
+> Regarding the changes on the main site, I personally find a lot of the new lists very spammy and aesthetically unpleasant. Maybe it is just me, but I'd really rather not have things like spellstats, skillstats, the shops, sloth slang, mage stones, diseases, weapon damage, hall of fame, and Memory Lane.
 
 "aesthetically unpleasant" -- Conforming to accepted notions of good taste.
 
-*no comment*
+\*no comment\*
 
-if you dont like the new lists you dont need to click on them?  sounds like you just want a bare site with nothing but a plain and simple forum, so just bookmark [http://www.slothmud.org/forum](http://www.slothmud.org/forum)
+if you dont like the new lists you dont need to click on them? sounds like you just want a bare site with nothing but a plain and simple forum, so just bookmark [http://www.slothmud.org/forum](http://www.slothmud.org/forum)
 
-> **reboog wrote:**
+> <strong>reboog wrote:</strong>
 > I may be extreme in my minimalist tendencies, but surely I'm not the only one who finds the main page too spammy.
 
-i have a friend like that, i gave up trying to make him happy.  here i am giving you the option to choose a different alternate skin for you, so please dont take it as me blowing you off and/or not taking you seriously.
+i have a friend like that, i gave up trying to make him happy. here i am giving you the option to choose a different alternate skin for you, so please dont take it as me blowing you off and/or not taking you seriously.
 
-> **reboog wrote:**
+> <strong>reboog wrote:</strong>
 > Having said all that, thanks to everyone who worked on improving the site.
 
 you're welcome
@@ -64,16 +64,16 @@ you're welcome
 
 <div class="post" data-post-id="31203" data-author="jezer" data-date="2010-05-23T13:40:40+00:00" data-subject="Re: AWESOME SITE!">
 
-> **reboog wrote:**
+> <strong>reboog wrote:</strong>
 > I don't make many serious posts here, but this is one, so I hope it is not simply ignored.
 > 
 > 
 > 
-> I love the fact that the forum login is fixed, and that the posts no longer go in reverse date order.  However, the slate grey with light blue font is really difficult on the eyes.  Black is the best background color we could possibly have, could we go back to that?  I don't see any customizable options.
+> I love the fact that the forum login is fixed, and that the posts no longer go in reverse date order. However, the slate grey with light blue font is really difficult on the eyes. Black is the best background color we could possibly have, could we go back to that? I don't see any customizable options.
 > 
 > 
 > 
-> Regarding the changes on the main site, I personally find a lot of the new lists very spammy and aesthetically unpleasant.  Maybe it is just me, but I'd really rather not have things like spellstats, skillstats, the shops, sloth slang, mage stones, diseases, weapon damage, hall of fame, and Memory Lane.
+> Regarding the changes on the main site, I personally find a lot of the new lists very spammy and aesthetically unpleasant. Maybe it is just me, but I'd really rather not have things like spellstats, skillstats, the shops, sloth slang, mage stones, diseases, weapon damage, hall of fame, and Memory Lane.
 > 
 > 
 > 
@@ -89,9 +89,9 @@ Goober made serious post
 
 Incorrect Post Length
 
-Don't bag Memory Lane dude, I wept openly reading the 1994 config file.  :roll: 
+Don't bag Memory Lane dude, I wept openly reading the 1994 config file. <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> 
 
-Not a fan of the new forum and eq list myself, but I have faith it's just a beginning and there is little cause for concern... you wait and see  :wink: 
+Not a fan of the new forum and eq list myself, but I have faith it's just a beginning and there is little cause for concern... you wait and see <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom"> 
 
 I love the extra info, wish it went further into druid/monk damage dies, and class skill caps. Epics on dynamic world map was an unexpected piece of awe. Quest starters opened up the game for n00bs. 
 
@@ -105,16 +105,16 @@ Naga form damage die - 4d7
 
 I do not want a bare site with a forum; in fact, I very specifically stated what I didn't want, which leaves more than half of the tree items still up.
 
-I would recommend taking spellstats and skillstats off the tree menu.  Basically, the tree menu looks too long to me.  Besides, those links are available when you click on any of the Live Info dropdowns.
+I would recommend taking spellstats and skillstats off the tree menu. Basically, the tree menu looks too long to me. Besides, those links are available when you click on any of the Live Info dropdowns.
 
 </div>
 
 <div class="post" data-post-id="31205" data-author="Tuck" data-date="2010-05-23T17:56:28+00:00" data-subject="Re: AWESOME SITE!">
 
-> **reboog wrote:**
+> <strong>reboog wrote:</strong>
 > I do not want a bare site with a forum; in fact, I very specifically stated what I didn't want, which leaves more than half of the tree items still up.
 
-It's a rational idea. Old site opened tree items in menu were reset each logon. New site saves all opened tree items and keep them opened for next logon. dat is pain :)
+It's a rational idea. Old site opened tree items in menu were reset each logon. New site saves all opened tree items and keep them opened for next logon. dat is pain <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 And turn on avatars please.
 
@@ -124,7 +124,7 @@ And turn on avatars please.
 
 Slothmud has been up for nearly twenty years now. What one player finds unnecessary and unappealing, another probably finds necessary. Removing links for sloth slang, shops, and a few others mentioned is not a good option. New players should most definitely be reading these pages and getting a heads up on the game. Those who find the information useless can simply skip them, as they always have. 
 
-We supply the options and the players decide what they find interesting and what they don't.  The majority of players that I have spoken to love all the new information.
+We supply the options and the players decide what they find interesting and what they don't. The majority of players that I have spoken to love all the new information.
 
 This is a work in progress and always will be. Changes will be made accordingly:)
 
@@ -158,7 +158,7 @@ T
 
 <div class="post" data-post-id="31215" data-author="blackmore" data-date="2010-05-24T20:13:26+00:00" data-subject="Re: AWESOME SITE!">
 
-> ***Splork* wrote:**
+> <strong>\*Splork\* wrote:</strong>
 > What one player finds unnecessary and unappealing, another probably finds necessary.
 
 Amen.
@@ -167,10 +167,10 @@ Amen.
 
 <div class="post" data-post-id="31216" data-author="blackmore" data-date="2010-05-24T20:15:55+00:00" data-subject="Re: AWESOME SITE!">
 
-> **Thraxas wrote:**
+> <strong>Thraxas wrote:</strong>
 > I am however finding this colour scheme on the forum really hard to cope with .... any way to customise?
 
-If you go to "User Control Panel", it gives you a place to pick the skin - I forget where it was.  The alternative isn't a lot better, but benq essentially said that you could submit new skins to be made available.
+If you go to "User Control Panel", it gives you a place to pick the skin - I forget where it was. The alternative isn't a lot better, but benq essentially said that you could submit new skins to be made available.
 
 </div>
 
@@ -186,14 +186,14 @@ Splork
 
 <div class="post" data-post-id="31218" data-author="reboog" data-date="2010-05-24T23:46:41+00:00" data-subject="Re: AWESOME SITE!">
 
-DVGFX and darksky are much nicer on the eyes :)
+DVGFX and darksky are much nicer on the eyes <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="31223" data-author="Thraxas" data-date="2010-05-25T08:30:37+00:00" data-subject="Re: AWESOME SITE!">
 
-> **reboog wrote:**
-> DVGFX and darksky are much nicer on the eyes :)
+> <strong>reboog wrote:</strong>
+> DVGFX and darksky are much nicer on the eyes <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 yes, thought about those but settled on nexus in the end.
 
@@ -213,15 +213,15 @@ Thank you.
 
 P.S. I'd recommend something straight-forward, like whitish background with blackish text as a default theme (not everyone will go and change his forum skin).
 
-P.P.S. I like new additions to the site: especially the clan numbers are great info about clans. Looking forward towards the automatically updating eqlist. Thank you for the work :)
+P.P.S. I like new additions to the site: especially the clan numbers are great info about clans. Looking forward towards the automatically updating eqlist. Thank you for the work <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="31227" data-author="*Breeze*" data-date="2010-05-26T08:56:05+00:00" data-subject="Re: AWESOME SITE!">
 
-@Teron:: most of this is not directed at you, just in general comments and reasoning on why i did what i did.  
+@Teron:: most of this is not directed at you, just in general comments and reasoning on why i did what i did. 
 
-> ***Benq* wrote:**
+> <strong>\*Benq\* wrote:</strong>
 > feel free to choose one other style and i will install it as an alternate for the 'minimalists'
 > 
 > [http://www.phpbb.com/styles/demo/3.0/?style_id=59](http://www.phpbb.com/styles/demo/3.0/?style_id=59)
@@ -230,7 +230,7 @@ the purpose of the new forum was to close a million bugs in the old one
 
 and like i said, i don't mind installing new skins, but i cant/wont be changing everything every time someone complains about it. i wouldn't get anything done.
 
-not meaning to sound like an ass, but this skin was always temporary until i find someone to do a custom skin.  if you know someone who is good with skins and wants to tackle it, let myself or even better splork know since i apparently don't have a good sense of aesthetics.
+not meaning to sound like an ass, but this skin was always temporary until i find someone to do a custom skin. if you know someone who is good with skins and wants to tackle it, let myself or even better splork know since i apparently don't have a good sense of aesthetics.
 
 @Teron::
 
@@ -240,13 +240,13 @@ re p.s. : clan stats - there are a few more things i can set up, like total leve
 
 re p.p.s. : the eqlist was actually open and able to be used (minus advanced search functions -- you could still query by name and get the stats of an item). 
 
-<rant>
+\<rant\>
 
-i had it enabled so that people could use it while i go do my standard 16 hour work shifts, but then i get swamped with complaints, which in itself is fine. if you want to gripe, gripe, but give constructive criticism. don't just log on and say 'this shit sucks'. so i disabled it again until i get time to work on it some more.  
+i had it enabled so that people could use it while i go do my standard 16 hour work shifts, but then i get swamped with complaints, which in itself is fine. if you want to gripe, gripe, but give constructive criticism. don't just log on and say 'this shit sucks'. so i disabled it again until i get time to work on it some more. 
 
-</rant>
+\</rant\>
 
-eventually i plan on getting the xml interface back up, and maybe an old style output where it shows it in a standard table like before.  of course there is only one me, so i can only focus on one thing at a time.
+eventually i plan on getting the xml interface back up, and maybe an old style output where it shows it in a standard table like before. of course there is only one me, so i can only focus on one thing at a time.
 
 </div>
 
@@ -256,7 +256,7 @@ Benq,
 
 you've done a great job so far, well impressive,
 
-> ***Benq* wrote:**
+> <strong>\*Benq\* wrote:</strong>
 > of course there is only one me, so i can only focus on one thing at a time.
 
 ... ask for help perhaps? plenty of us that play are drawn to muds because we're geeks and for the same reason are drawn to the IT industry ... many of the players here must have skills that could be used if only someone would tell us what needed doing or ask for help,
@@ -269,8 +269,8 @@ T
 
 I've seen eqlist work, but it had outdated item names and ac stats.
 
-Splork mentioned something an eqlist that's updated from the mud database, based on total recited scrolls/identify spells and such: this is what I'm anticipating with abated breath :)
+Splork mentioned something an eqlist that's updated from the mud database, based on total recited scrolls/identify spells and such: this is what I'm anticipating with abated breath <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-Thank you for all the work. Btw, do you need any recommendations on SEO/usability? I believe I did send a brief SEO guide to Splork, from which I only see the focus on relevant keyphrases ;)
+Thank you for all the work. Btw, do you need any recommendations on SEO/usability? I believe I did send a brief SEO guide to Splork, from which I only see the focus on relevant keyphrases <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 </div>

@@ -20,11 +20,11 @@ I believe this is slightly outdated code and a little bit harsh with the new eig
 
 Changes:
 
-1) Level loss has been pushed to level 25
+1\) Level loss has been pushed to level 25
 
-2) The chance of level loss is now on a sliding scale depending on your total levels. This scale starts low and ends up near the old percentage.
+2\) The chance of level loss is now on a sliding scale depending on your total levels. This scale starts low and ends up near the old percentage.
 
-3) The chance of exp loss is now on a sliding scale depending on your total levels. This scale starts low and ends up near the old percentate.
+3\) The chance of exp loss is now on a sliding scale depending on your total levels. This scale starts low and ends up near the old percentate.
 
 Hope these changes help you guys out some.
 
@@ -56,39 +56,39 @@ As it stands now exp loss, cap, and chance of level loss goes by total levels of
 
 Here is the current code for death, level loss, and exp losses and caps.
 
- Total levels,           % xp loss,                   xp loss cap,         level loss %
+ Total levels, % xp loss, xp loss cap, level loss %
 
-< 40                         20                            10 mil                    
+\< 40 20 10 mil 
 
-< 80                         21                            15                         1 
+\< 80 21 15 1 
 
-<100                       22                            18
+\<100 22 18
 
-<120                       23                            20                         2
+\<120 23 20 2
 
-<140                       24                            22
+\<140 24 22
 
-<160                       25                            25                         3
+\<160 25 25 3
 
-<180                       26                            32
+\<180 26 32
 
-<200                       27                            40                         4
+\<200 27 40 4
 
-<220                       28                            50
+\<220 28 50
 
-<240                       29                            60                         5
+\<240 29 60 5
 
-<260                       30                            70
+\<260 30 70
 
-<280                       30                            80                         6  
+\<280 30 80 6 
 
-<300                       31                            90
+\<300 31 90
 
-<320                       31                            100                       7 
+\<320 31 100 7 
 
-<340                       32                            115
+\<340 32 115
 
-<360                       33                            130                       8  
+\<360 33 130 8 
 
 Adding avatar levels adds 2 mil exp per level to the exp loss cap.
 

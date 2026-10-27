@@ -16,27 +16,27 @@ I'm interested, does anyone use this? it ought to increase your +hit in relation
 
 "FAERIE FIRE"
 
-Usage:         cast 'faerie fire' <target>
+Usage: cast 'faerie fire' \<target\>
 
-Cost:          5 mana
+Cost: 5 mana
 
-Level:         Cleric 7, Mage 2, Bard 10
+Level: Cleric 7, Mage 2, Bard 10
 
-Duration:      24 Hours
+Duration: 24 Hours
 
-Accumulative:  Yes
+Accumulative: Yes
 
-Save Versus:   Spells to avoid completely
+Save Versus: Spells to avoid completely
 
-Damage Type:   -
+Damage Type: -
 
-Stratum:       Summoning 
+Stratum: Summoning 
 
-Spellbook:     Faintly glowing
+Spellbook: Faintly glowing
 
-Prerequisite:  -
+Prerequisite: -
 
-See Also:      -
+See Also: -
 
 In spite of its name, this spell is composed entirely of threads of air.
 
@@ -48,7 +48,7 @@ Further castings will make the glowing mesh stronger and more visible.
 
 This spell can be cast upon the caster itself to impressive effect,
 
-and it is quite easy to master.  It's used as part of religious and civilian
+and it is quite easy to master. It's used as part of religious and civilian
 
 festivals in many cultures.
 
@@ -56,7 +56,7 @@ festivals in many cultures.
 
 <div class="post" data-post-id="30471" data-author="blackmore" data-date="2009-12-10T17:30:26+00:00" data-subject="">
 
-I think at low levels, it's probably more useful than it gets credit for.  At upper levels, hitting the mob often isn't the problem, it's how many times it hits you.
+I think at low levels, it's probably more useful than it gets credit for. At upper levels, hitting the mob often isn't the problem, it's how many times it hits you.
 
 </div>
 
@@ -68,7 +68,7 @@ In the old sloth mob AC was kindof broken, so this spell was pointless. But in t
 
 <div class="post" data-post-id="30473" data-author="jezer" data-date="2009-12-10T22:23:56+00:00" data-subject="">
 
-It's small debuffs to mobs, and enhancements to players like this I think would go well with supplication mobs, or awaken mobs if reworked... although closer analysis will reveal most druids blasting in form, or using there druid offensive spells, nearly always area... killing there supplication mobs... yeah I'm real sorry about the other day Iris...  :( Best damn peri I ever had  :cry:
+It's small debuffs to mobs, and enhancements to players like this I think would go well with supplication mobs, or awaken mobs if reworked... although closer analysis will reveal most druids blasting in form, or using there druid offensive spells, nearly always area... killing there supplication mobs... yeah I'm real sorry about the other day Iris... <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom"> Best damn peri I ever had <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -80,7 +80,7 @@ Casting ff till the mob 'glows' reduces mob ac 2 pts. A second glow ...2 more co
 
 If u get the mob to something other than excellent of corse a backstab is out.
 
-Regen required.:) I learned that from a player long since gone. He talked of very early groups standing there and all casting  FF til mob could be had.. UM
+Regen required.<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> I learned that from a player long since gone. He talked of very early groups standing there and all casting FF til mob could be had.. UM
 
 stab
 
@@ -88,7 +88,7 @@ stab
 
 <div class="post" data-post-id="30492" data-author="Mace" data-date="2009-12-16T03:19:49+00:00" data-subject="">
 
-Oddly, faerie fire was nerfed somewhat recently.  It now only works once, and runs out after a few minutes.  It still does +2 AC though.
+Oddly, faerie fire was nerfed somewhat recently. It now only works once, and runs out after a few minutes. It still does +2 AC though.
 
 If it ever hits.
 
@@ -106,15 +106,16 @@ Splork
 
 <div class="post" data-post-id="30496" data-author="*juggleblood*" data-date="2009-12-16T13:37:32+00:00" data-subject="">
 
-I've noticed that faerie fire works as it always has since I've been here. bout 8yrs.
-
-Casting ff till the mob 'glows' reduces mob ac 2 pts. A second glow ...2 more come off.
-
-If u get the mob to something other than excellent of corse a backstab is out.
-
-Regen required.:) I learned that from a player long since gone. He talked of very early groups standing there and all casting  FF til mob could be had.. UM
-
-stab[/quote:1lxkbnn8]
+> <strong>Stab wrote:</strong>
+> I've noticed that faerie fire works as it always has since I've been here. bout 8yrs.
+> 
+> Casting ff till the mob 'glows' reduces mob ac 2 pts. A second glow ...2 more come off.
+> 
+> If u get the mob to something other than excellent of corse a backstab is out.
+> 
+> Regen required.<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> I learned that from a player long since gone. He talked of very early groups standing there and all casting FF til mob could be had.. UM
+> 
+> stab
 
 In sloth 3? I would have thought 2 points of mob ac to be fairly irrelevent under the old code.
 

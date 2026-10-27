@@ -26,18 +26,16 @@ Thanks for attention.
 
 <div class="post" data-post-id="32232" data-author="Filk" data-date="2010-12-27T05:41:41+00:00" data-subject="Re: Some site suggestions.">
 
-Any news on posibility to add this please?  :roll: 
+Any news on posibility to add this please? <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> 
 
-**
+<strong>1.When displaying cp in eqlist, show what it is cp for. Probably with expandable block, like forge info. Should be very usefull when you found something and dont know how usefull it is.</strong>
 
-1.When displaying cp in eqlist, show what it is cp for. Probably with expandable block, like forge info. Should be very usefull when you found something and dont know how usefull it is.**
-
-I can even ask, if posible, to pass database tables(eq part) backup to me, so i can write my own eq interface, which i will be happy with  :roll:
+I can even ask, if posible, to pass database tables(eq part) backup to me, so i can write my own eq interface, which i will be happy with <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="32238" data-author="Tuck" data-date="2010-12-29T17:12:15+00:00" data-subject="Re: Some site suggestions.">
 
-<bump> for a great justice!
+\<bump\> for a great justice!
 
 </div>

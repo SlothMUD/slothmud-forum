@@ -22,10 +22,10 @@ For anyone who does not know what I'm referring to, please 'help prompt' and whi
 
 <div class="post" data-post-id="21102" data-author="Avatar" data-date="2007-10-26T13:30:07+00:00" data-subject="Good point">
 
-Good point, it's a bug and hopefully someone has added it with the 'bug' command.  I can't remember if I did so or not.
+Good point, it's a bug and hopefully someone has added it with the 'bug' command. I can't remember if I did so or not.
 
-I rather worked around the issue by adding a line to my shift alias.  After I shift, the client sends my custom prompt also.  
+I rather worked around the issue by adding a line to my shift alias. After I shift, the client sends my custom prompt also. 
 
-(I still have a 'wear all' when I shift back, I guess I can remove that, hehehe :) )
+(I still have a 'wear all' when I shift back, I guess I can remove that, hehehe <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> )
 
 </div>

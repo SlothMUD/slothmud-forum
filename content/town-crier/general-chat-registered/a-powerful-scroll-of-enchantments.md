@@ -20,6 +20,6 @@ Cal
 
 <div class="post" data-post-id="7802" data-author="Blastem" data-date="2005-07-10T11:32:19+00:00" data-subject="">
 
-Keep questing ;)
+Keep questing <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 </div>

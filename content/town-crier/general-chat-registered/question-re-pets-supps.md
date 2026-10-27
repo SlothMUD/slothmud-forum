@@ -20,7 +20,7 @@ The short story:
 
 My pet combo is often 2 x dracolich + 1 x eudaemon or nightmare.
 
-I can have this combo _only_ if I supplicate first and animate (or summon undead) after the supplicant has arrived. I cannot supplicate if I have 2 x dracolich up.
+I can have this combo \_only\_ if I supplicate first and animate (or summon undead) after the supplicant has arrived. I cannot supplicate if I have 2 x dracolich up.
 
 I'm not sure why this is the case as my available follower points should allow this combo all the time.
 
@@ -36,13 +36,13 @@ Flopsy the eudaemon appears in a flash of rainbow light!
 
 Flopsy the eudaemon starts following you.
 
-You could control far more followers than you have now. [**0.8**]
+You could control far more followers than you have now. [<strong>0.8</strong>]
 
 cast 'animate dead' corpse dracolich
 
 cast 'animate dead' corpse dracolich
 
-You probably couldn't control any more followers. [**4.7**]
+You probably couldn't control any more followers. [<strong>4.7</strong>]
 
 What doesnt work
 
@@ -50,7 +50,7 @@ What doesnt work
 
 (Brilliant Red Aura) An immense skeletal dracolich tests the will of its master.
 
-You could probably handle one or two more followers than you have now. [**3.9**]
+You could probably handle one or two more followers than you have now. [<strong>3.9</strong>]
 
 cast 'supp' eudaemon:
 
@@ -68,7 +68,7 @@ A banshee starts following you.
 
 A banshee starts following you.
 
-You probably couldn't control any more followers. [**4.8**]
+You probably couldn't control any more followers. [<strong>4.8</strong>]
 
 cast 'summon' 6 spectre
 
@@ -86,7 +86,7 @@ A spectre starts following you.
 
 A spectre starts following you.
 
-You probably couldn't control any more followers. [**5.0**]
+You probably couldn't control any more followers. [<strong>5.0</strong>]
 
 If you made it this far, thanks for your time and I appreciate any constructive feedback you may have.
 

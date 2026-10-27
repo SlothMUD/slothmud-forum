@@ -20,11 +20,11 @@ Is Sloth down or is it just me? I know I lost all connectivity earlier today and
 
 The game has been up.
 
-Must be a local thing for you.  Sometimes network admins block ports with "unexpected" traffic.  This might be the case for you here.
+Must be a local thing for you. Sometimes network admins block ports with "unexpected" traffic. This might be the case for you here.
 
 If you can get to the website you should be able to tell the status of the game from the following page:
 
-Server Info[/url:amoq2wom]. It contains the last startime and the current time.  If it's not updated then either the game is down or the game has lost network connectivity.
+[Server Info](http://www.slothmud.org/index.php?module=Who_List&pid=server:amoq2wom). It contains the last startime and the current time. If it's not updated then either the game is down or the game has lost network connectivity.
 
 Clink
 

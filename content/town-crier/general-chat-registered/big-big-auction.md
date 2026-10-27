@@ -12,9 +12,9 @@ post_count: 19
 
 <div class="post" data-post-id="9132" data-author="brady" data-date="2005-10-24T15:28:47+00:00" data-subject="Big, Big Auction">
 
-After giving it a lot of consideration, I have decided to take an indefinite break from Brady.  Iâ€™ve spent the vast majority of the past year sitting right here where I am now.  That was okay because, truthfully, I really needed a break from life.  Now I think itâ€™s time for me to get back to it.  The temptation to get sucked back in to 12 hour Sloth shifts is one that I donâ€™t want.  So, that being said, I have decided to keep Brady under my management and sell of his non-personal eq, piece by piece.  I will take the dive back into real life, Pirates will get a new home and hopefully each of you will get some benefit from the time I spent gathering my eq.  So Wednesday at 9:00est will be the time.  Oh and this is going take awhile so deposits will need to be made within 1-2 minutes of the auction or your item will go to the next highest bidder.
+After giving it a lot of consideration, I have decided to take an indefinite break from Brady. Iâ€™ve spent the vast majority of the past year sitting right here where I am now. That was okay because, truthfully, I really needed a break from life. Now I think itâ€™s time for me to get back to it. The temptation to get sucked back in to 12 hour Sloth shifts is one that I donâ€™t want. So, that being said, I have decided to keep Brady under my management and sell of his non-personal eq, piece by piece. I will take the dive back into real life, Pirates will get a new home and hopefully each of you will get some benefit from the time I spent gathering my eq. So Wednesday at 9:00est will be the time. Oh and this is going take awhile so deposits will need to be made within 1-2 minutes of the auction or your item will go to the next highest bidder.
 
-Thanks to everyone that kept my life interesting, especially me Pirates (and argh, DOW I suppose) but many, many more too.  I wonâ€™t be a stranger.  Oh and if you have questions about stats, look on the website for Godâ€™s sake.
+Thanks to everyone that kept my life interesting, especially me Pirates (and argh, DOW I suppose) but many, many more too. I wonâ€™t be a stranger. Oh and if you have questions about stats, look on the website for Godâ€™s sake.
 
 a red minidemon brooch (3)
 
@@ -128,7 +128,7 @@ Sorry to see u go Brady.
 
 But like alot of ppl that quit and came back, y not just play 1hr a night or 
 
-something?  Or just hold off on ur eq?
+something? Or just hold off on ur eq?
 
 But if ur really want to sell, is that 9:00est am or pm???
 
@@ -140,23 +140,23 @@ with 1-2 mins.
 
 <div class="post" data-post-id="9138" data-author="Weasel" data-date="2005-10-24T16:40:26+00:00" data-subject="">
 
-*ack* sorry to see you go, but you'll be back, you know it. *grin*
+\*ack\* sorry to see you go, but you'll be back, you know it. \*grin\*
 
 btw, for the bulk of us who can't be online at 9am (if it's a.m.) EST Wednesday to pay for items we would like to purchase, is there no point bidding in the interim, or did I misunderstand?
 
-cheers :)
+cheers <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="9147" data-author="brady" data-date="2005-10-25T00:16:35+00:00" data-subject="">
 
-Sorry, turns out I'll be working late on Wednesday.  It will have to be 9pm on Thursday and that's Eastern Standard.  If you can't be on then, you can send silent auction to marcjgrantsd@aol.com and if you win, I'll ship your items with fees.
+Sorry, turns out I'll be working late on Wednesday. It will have to be 9pm on Thursday and that's Eastern Standard. If you can't be on then, you can send silent auction to marcjgrantsd@aol.com and if you win, I'll ship your items with fees.
 
 </div>
 
 <div class="post" data-post-id="9151" data-author="brady" data-date="2005-10-25T02:35:37+00:00" data-subject="">
 
-Okay, so if you send me a silent auction and it is the highest bid, i will take the live bid and add 10%.  thanks for pointing that out.
+Okay, so if you send me a silent auction and it is the highest bid, i will take the live bid and add 10%. thanks for pointing that out.
 
 </div>
 
@@ -164,13 +164,13 @@ Okay, so if you send me a silent auction and it is the highest bid, i will take 
 
 dull, dead gem is personal item...
 
-cya online :)
+cya online <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="9161" data-author="bubba" data-date="2005-10-25T15:40:45+00:00" data-subject="">
 
-What are the onyx necklace of demons?  I didn't seem to find them on the eq list (or I'm blind).
+What are the onyx necklace of demons? I didn't seem to find them on the eq list (or I'm blind).
 
 </div>
 
@@ -184,11 +184,11 @@ In my experience (and I have plenty of it) when you quit Sloth, just
 
 rent and have Rick change your pw for you, then email him for it back
 
-sometime next year.  I've quit and 'sold out' many times.  If I had just
+sometime next year. I've quit and 'sold out' many times. If I had just
 
 had someone change my password, I would still have crystal sleeves, red-gold guards, belt of orion, crystal boots, a RoH and about a thousand
 
-restrings.  And Ghost would still be the fucking Ghost Faced Killer, not this
+restrings. And Ghost would still be the fucking Ghost Faced Killer, not this
 
 douchebaggery that is now Shival.
 
@@ -198,17 +198,17 @@ Aaron the Mercurial
 
 <div class="post" data-post-id="9165" data-author="Axtrel" data-date="2005-10-25T16:41:55+00:00" data-subject="">
 
-The Onyx Necklace of Demons is -0.1 and +20 mana plus performs a special feature in the Shadow Realm (like a trigtrap in a certain room).  The eq loads on the nightwalker in the Shadow Realm.  There is also a note in the area that gives clues about the necklace's special feature.  I'll submit it to the eqlist once I check the restricts on it.
+The Onyx Necklace of Demons is -0.1 and +20 mana plus performs a special feature in the Shadow Realm (like a trigtrap in a certain room). The eq loads on the nightwalker in the Shadow Realm. There is also a note in the area that gives clues about the necklace's special feature. I'll submit it to the eqlist once I check the restricts on it.
 
-On a side note...there is an invisible portal in the room with this nightwalker which will teleport you to the altar in Akasha's Temple.  The portal is not on either map and is two-way.
+On a side note...there is an invisible portal in the room with this nightwalker which will teleport you to the altar in Akasha's Temple. The portal is not on either map and is two-way.
 
--Axtrel
+\-Axtrel
 
 </div>
 
 <div class="post" data-post-id="9166" data-author="Grue" data-date="2005-10-25T17:04:58+00:00" data-subject="">
 
-I have to say I agree, don't sell anything. You'll end up giving stuff away for silly prices, and regret it later. Ask one of the immortals to password the char and wrap it with an isntruction at your request not to unpassword until a given date even if you ask :) 
+I have to say I agree, don't sell anything. You'll end up giving stuff away for silly prices, and regret it later. Ask one of the immortals to password the char and wrap it with an isntruction at your request not to unpassword until a given date even if you ask <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> 
 
 Seriously, don't do it unless you are seriously intending to quit for good, and then go whole hog and give the character and equipmenet away to deserving people. All that happens otherwise is people with too many coins get morev equipment they don't need, and you will come back in 6 months and never be able to buy back the stuff for what you received for it.
 
@@ -216,7 +216,7 @@ Seriously, don't do it unless you are seriously intending to quit for good, and 
 
 <div class="post" data-post-id="9209" data-author="brady" data-date="2005-10-27T03:16:51+00:00" data-subject="">
 
-Okay, so I'm a flipper.  See you all in 2006.  Thanks you all for the sage advice.  
+Okay, so I'm a flipper. See you all in 2006. Thanks you all for the sage advice. 
 
 Happy Holidays,
 
@@ -232,9 +232,9 @@ I'm glad you have changed your mind. Cya later.
 
 <div class="post" data-post-id="9212" data-author="markg" data-date="2005-10-27T08:41:03+00:00" data-subject="">
 
-*waves* brady
+\*waves\* brady
 
-*sniff sniff* poor Auto, now he'll have no one to boss around  :P
+\*sniff sniff\* poor Auto, now he'll have no one to boss around <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -246,7 +246,7 @@ nod, cya Brady
 
 <div class="post" data-post-id="9214" data-author="12345" data-date="2005-10-27T10:38:00+00:00" data-subject="">
 
-Take it easy bro. We'll miss ya.  :cry:
+Take it easy bro. We'll miss ya. <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -260,19 +260,19 @@ Take it easy bro. We'll miss ya.  :cry:
 
 with all the cya laters and such, don't forget about me, i'll always be here to buy your eq for far less then you or anyone would feel it's worth.
 
-brand :twisted:
+brand <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="9252" data-author="brady" data-date="2005-10-27T21:37:19+00:00" data-subject="">
 
-LMFAO!!  Aa, you are retarded.  AND USTFU3.
+LMFAO!! Aa, you are retarded. AND USTFU3.
 
 </div>
 
 <div class="post" data-post-id="9256" data-author="Autolycos" data-date="2005-10-27T23:52:49+00:00" data-subject="">
 
-Gawd Brady...  STFU4!   :twisted: 
+Gawd Brady... STFU4! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 take care bro..
 

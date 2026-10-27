@@ -12,7 +12,7 @@ post_count: 6
 
 <div class="post" data-post-id="25266" data-author="Tap" data-date="2008-07-04T11:18:05+00:00" data-subject="Happy 4th of the July">
 
-[img:2clga667]http://bestanimations.com/Holidays/Fireworks/Fireworks-09-june.gif[/img:2clga667]
+![](http://bestanimations.com/Holidays/Fireworks/Fireworks-09-june.gif)
 
 </div>
 
@@ -26,9 +26,10 @@ and to the non americans.... happy friday i guess?
 
 <div class="post" data-post-id="25268" data-author="Yasik2" data-date="2008-07-04T14:50:25+00:00" data-subject="">
 
-and to the non americans.... happy friday i guess?[/quote:flmkjdy6]
+> <strong>Alberich wrote:</strong>
+> and to the non americans.... happy friday i guess?
 
-[img:flmkjdy6]http://yasik.kiev.ua/Orly_Indeed.jpg[/img:flmkjdy6]
+![](http://yasik.kiev.ua/Orly_Indeed.jpg)
 
 </div>
 
@@ -40,7 +41,7 @@ Yeap, happy 4th of July from the Australian and the Russian.
 
 <div class="post" data-post-id="25271" data-author="brady" data-date="2008-07-04T17:24:25+00:00" data-subject="">
 
-[img:2c45tson]http://www.brandykarl.com/pressy/wp-content/uploads/2007/12/boston-tea-party-2007-small.jpg[/img:2c45tson]
+![](http://www.brandykarl.com/pressy/wp-content/uploads/2007/12/boston-tea-party-2007-small.jpg)
 
 </div>
 

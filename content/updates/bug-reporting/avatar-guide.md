@@ -20,15 +20,15 @@ Sorry, you do not have access to this part of PagEd.
 
 <div class="post" data-post-id="19963" data-author="Tap" data-date="2007-08-28T23:08:11+00:00" data-subject="">
 
-Work on your wisdom :P
+Work on your wisdom <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="19964" data-author="Autolycos" data-date="2007-08-29T00:03:12+00:00" data-subject="">
 
-you can access a copy of the guide hosted on the pirate site.  under extra stuff
+you can access a copy of the guide hosted on the pirate site. under extra stuff
 
-[url:3fzk1lio]http://www.piratesofslothmud.com[/url:3fzk1lio]
+http://www.piratesofslothmud.com
 
 </div>
 
@@ -42,6 +42,6 @@ woe is me. I have turned to pirates for salvation...
 
 Me? I'm dishonest. And a dishonest man you can always trust to be dishonest. Honestly. It's the honest ones you want to watch out for, because you can never predict when they're going to do something incredibly... stupid.
 
-ie. Firebrand.   :twisted:
+ie. Firebrand. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

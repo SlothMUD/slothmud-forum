@@ -12,15 +12,15 @@ post_count: 2
 
 <div class="post" data-post-id="32262" data-author="Tuck" data-date="2011-01-06T10:00:20+00:00" data-subject="Cmud: Spell monitor script.">
 
-**Cmud spellmonitor**: script that helps you buff yourself with one key. So it scans list of required spells (@spelltocheck variable) and compare it with current spells that is active on you and buff you if needed.
+<strong>Cmud spellmonitor</strong>: script that helps you buff yourself with one key. So it scans list of required spells (@spelltocheck variable) and compare it with current spells that is active on you and buff you if needed.
 
-**Usage alias**: buff
+<strong>Usage alias</strong>: buff
 
-**How to import**: Open Settings menu, click File / Import XML.
+<strong>How to import</strong>: Open Settings menu, click File / Import XML.
 
-**Changelog**:
+<strong>Changelog</strong>:
 
-- (11.01.2011) Fixed for Greater Mobility spell.  Thanks Cyprimus for testing.
+\- (11.01.2011) Fixed for Greater Mobility spell. Thanks Cyprimus for testing.
 
 [Download here](http://www.magi.biz/archives/38)
 

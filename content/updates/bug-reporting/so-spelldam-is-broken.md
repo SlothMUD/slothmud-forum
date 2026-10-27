@@ -14,11 +14,11 @@ post_count: 9
 
 Me and toxis was doing some research on spelldam bonus, so brief result:
 
-- spelldam bonus applied to 20-30% of blasts.
+\- spelldam bonus applied to 20-30% of blasts.
 
-- Tox's firewinds doing same amount of damage like Tuk's frostbolts.
+\- Tox's firewinds doing same amount of damage like Tuk's frostbolts.
 
-- Tox's firewinds doing same amount of damage like Tuk's frostbolts(even if Tuk wears spelldam cap).
+\- Tox's firewinds doing same amount of damage like Tuk's frostbolts(even if Tuk wears spelldam cap).
 
 Here is log from arena:
 
@@ -70,8 +70,8 @@ a diamond encrusted spellbook..It emits a faint humming sound!
 an opposum's pouch(invisible)
 a multi-colored crystal rod
 
-Tuk %s wts/wtt graygem  (level: 40)
-Your levels:  Ma: 40 Cl: 40 Dr: 40 Wa: 40 Th: 40 Ne: 36 Ba: 22 Mo: 14 Av: 2 
+Tuk %s wts/wtt graygem (level: 40)
+Your levels: Ma: 40 Cl: 40 Dr: 40 Wa: 40 Th: 40 Ne: 36 Ba: 22 Mo: 14 Av: 2 
 Total levels: 274
 You are 74 years, 9 months, 23 days old.
 You are a citizen of Bal Harbor.
@@ -96,13 +96,13 @@ You are standing.
 Your song can affect as many as four people.
 You are hiding.
 You are affected by the following spells:
-   Detect Evil                      
-   Detect Good                      
-   Detect Invisible                 
-   Sense Life                       
-   Infravision                      
-   Darksight                        
-   Stone Skin                       
+ Detect Evil 
+ Detect Good 
+ Detect Invisible 
+ Sense Life 
+ Infravision 
+ Darksight 
+ Stone Skin 
 
 cast 'frostbolt' toxis
 Ok.
@@ -115,23 +115,23 @@ I KEEL YOU!
 Toxis has some small wounds and bruises.
 
 Toxis is using:
-<used as light>      The Staff of Ra
-<worn on finger>     a wiedzmin ring..It has a soft glowing aura!
-<worn on finger>     a ring of renewal..It has a soft glowing aura!
-<worn around neck>   a silver choker with crystal pendants (with a clasp of life and death attached to it)
-<worn on shoulders>  the shoulder guards of divinity (with a clasp of life and death attached to it)
-<worn on body>       Shroud of the Exalted Priest
-<worn on head>       a silver circlet (with a reddish-colored glass eye attached to it)
-<worn on legs>       a pair of crystalline silk leggings..It has a soft glowing aura!
-<worn on feet>       a set of chinchilla skin boots
-<worn on hands>      a set of emerald gauntlets
-<worn on arms>       Sleeves of the Clown Lord Marshall
-<worn as shield>     a runed shield of the moon..It has a soft glowing aura!
-<worn about body>    radiant white robes of a healer..It has a soft glowing aura!
-<worn about waist>   a golden belt (with a golden, eight-pointed star (General) attached to it)
-<worn around wrist>  a band of ether
-<worn around wrist>  a band of ether
-<held>               Ars Magica (with the Iolite of Omah attached to it)
+<used as light> The Staff of Ra
+<worn on finger> a wiedzmin ring..It has a soft glowing aura!
+<worn on finger> a ring of renewal..It has a soft glowing aura!
+<worn around neck> a silver choker with crystal pendants (with a clasp of life and death attached to it)
+<worn on shoulders> the shoulder guards of divinity (with a clasp of life and death attached to it)
+<worn on body> Shroud of the Exalted Priest
+<worn on head> a silver circlet (with a reddish-colored glass eye attached to it)
+<worn on legs> a pair of crystalline silk leggings..It has a soft glowing aura!
+<worn on feet> a set of chinchilla skin boots
+<worn on hands> a set of emerald gauntlets
+<worn on arms> Sleeves of the Clown Lord Marshall
+<worn as shield> a runed shield of the moon..It has a soft glowing aura!
+<worn about body> radiant white robes of a healer..It has a soft glowing aura!
+<worn about waist> a golden belt (with a golden, eight-pointed star (General) attached to it)
+<worn around wrist> a band of ether
+<worn around wrist> a band of ether
+<held> Ars Magica (with the Iolite of Omah attached to it)
 
 You attempt to peek at the inventory:
 a golden dragon scale
@@ -168,26 +168,26 @@ gt \d10(o)(O)\d11 now with eq
 You grouptell: '(o)(O) now with eq'
 
 wear all
-a crystal teardrop:  You grab a crystal teardrop.
-a gem cutter:  You wield a gem cutter.
-a band of ether:  You slide a band of ether over your left wrist.
-a band of ether:  You slide a band of ether over your right wrist.
-a circle of flames:  You tighten a circle of flames about your waist.
-a multicolored mantle:  You wear a multicolored mantle about your body.
-an aura of midnight:  You start using an aura of midnight as a shield.
-Sleeves of the Clown Lord Marshall:  You wear Sleeves of the Clown Lord Marshall on your arms.
-raw energy:  You wear raw energy on your hands.
-Boots of the Elemental Earth Wizard:  You step into Boots of the Elemental Earth Wizard.
-iridescent red leggings:  You wear iridescent red leggings on your legs.
-the electrum circlet:  You wear the electrum circlet on your head.
-marred magical mail:  You crawl into marred magical mail.
-shoulder guards of a mystical yooper:  You throw shoulder guards of a mystical yooper over your shoulders.
+a crystal teardrop: You grab a crystal teardrop.
+a gem cutter: You wield a gem cutter.
+a band of ether: You slide a band of ether over your left wrist.
+a band of ether: You slide a band of ether over your right wrist.
+a circle of flames: You tighten a circle of flames about your waist.
+a multicolored mantle: You wear a multicolored mantle about your body.
+an aura of midnight: You start using an aura of midnight as a shield.
+Sleeves of the Clown Lord Marshall: You wear Sleeves of the Clown Lord Marshall on your arms.
+raw energy: You wear raw energy on your hands.
+Boots of the Elemental Earth Wizard: You step into Boots of the Elemental Earth Wizard.
+iridescent red leggings: You wear iridescent red leggings on your legs.
+the electrum circlet: You wear the electrum circlet on your head.
+marred magical mail: You crawl into marred magical mail.
+shoulder guards of a mystical yooper: You throw shoulder guards of a mystical yooper over your shoulders.
 A purple minidemon brooch purrs as it coils around your neck.
-a purple dragon's claw:  You wear a purple dragon's claw around your neck.
+a purple dragon's claw: You wear a purple dragon's claw around your neck.
 A purple minidemon brooch purrs as it coils around your neck.
-a wiedzmin ring:  You slide a wiedzmin ring onto your left finger.
-a wiedzmin ring:  You slide a wiedzmin ring onto your right finger.
-a hook-nailed avian claw:  You light a hook-nailed avian claw and hold it.
+a wiedzmin ring: You slide a wiedzmin ring onto your left finger.
+a wiedzmin ring: You slide a wiedzmin ring onto your right finger.
+a hook-nailed avian claw: You light a hook-nailed avian claw and hold it.
 You begin to shudder with electricity!
 
 Toxis utters the words, 'candusghafahuai'
@@ -206,7 +206,7 @@ rem multicolored-mantle
 get swirling-robes multicolored-mantle
 get multicolored-mantle multicolored-mantle
 rem avian-claw electrum-circlet circle-flames band-ether band-ether gem-cutter crystal-teardrop 
-rem          
+rem 
 detach iolite avian-claw
 detach insignia-star electrum-circlet
 detach flawed-gem crystal-teardrop
@@ -227,8 +227,8 @@ get orb-magical swirling-robes
 attach iolite gemstone-shard
 attach insignia-star powdered-wig
 attach flawed-gem orb-magical
-wear gemstone-shard powdered-wig burning-coals runed-onyx runed-onyx sword-blazing orb-magical  
-wear         
+wear gemstone-shard powdered-wig burning-coals runed-onyx runed-onyx sword-blazing orb-magical 
+wear 
 put swirling-robes multicolored-mantle
 wear multicolored-mantle
 You stop using a multicolored mantle.
@@ -285,14 +285,14 @@ You proudly clip on a golden, four-pointed star (Major) onto a powdered wig.
 
 You decorate orb of magical enhancement with a flawed glowing gem.
 
-a gray gemstone shard:  You light a gray gemstone shard and hold it.
+a gray gemstone shard: You light a gray gemstone shard and hold it.
 You begin to shudder with electricity!
-a powdered wig:  You wear a powdered wig on your head.
-a loop of burning coals:  You tighten a loop of burning coals about your waist.
-a runed onyx bracelet:  You slide a runed onyx bracelet over your left wrist.
-a runed onyx bracelet:  You slide a runed onyx bracelet over your right wrist.
-a blazing longsword of fire:  You wield a blazing longsword of fire.
-orb of magical enhancement:  You grab orb of magical enhancement.
+a powdered wig: You wear a powdered wig on your head.
+a loop of burning coals: You tighten a loop of burning coals about your waist.
+a runed onyx bracelet: You slide a runed onyx bracelet over your left wrist.
+a runed onyx bracelet: You slide a runed onyx bracelet over your right wrist.
+a blazing longsword of fire: You wield a blazing longsword of fire.
+orb of magical enhancement: You grab orb of magical enhancement.
 
 Wear what?
 
@@ -366,7 +366,7 @@ Splork
 
 <div class="post" data-post-id="31497" data-author="Tuck" data-date="2010-08-15T17:34:06+00:00" data-subject="Re: So, Spelldam is broken?">
 
-Can you reboot game, please?  :twisted: 
+Can you reboot game, please? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 Thanks.
 
@@ -386,23 +386,23 @@ Tested it on acme and self.
 
 Without spelldam on:
 
-- bolt doing 135-150 mostly.
+\- bolt doing 135-150 mostly.
 
-- masterful about 146-157.
+\- masterful about 146-157.
 
-- ~5% of non-masterful bolt doing 315-324.
+\- \~5% of non-masterful bolt doing 315-324.
 
 With spelldam on:
 
-- bolt doing 170-195 mostly.
+\- bolt doing 170-195 mostly.
 
-- masterful about 350-370(not applied to 100% cast) :shock: .
+\- masterful about 350-370(not applied to 100% cast) <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> .
 
-- ~10-20% of non-masterful bolt doing 350-402.
+\- \~10-20% of non-masterful bolt doing 350-402.
 
-also, i blasted self with 40 non-masterful bolt and didn't get 1 save_vs_spell working, but it worked when i blasted acme.
+also, i blasted self with 40 non-masterful bolt and didn't get 1 save\_vs\_spell working, but it worked when i blasted acme.
 
-**Log without spelldam:**
+<strong>Log without spelldam:</strong>
 
 ```
 cast 'frostbolt' tuk
@@ -529,7 +529,7 @@ That Really did HURT!
 You report 375/676 hp. Change: -161. Need: 301. Spells: none.
 ```
 
-**Log of spelldam:**
+<strong>Log of spelldam:</strong>
 
 ```
 cast 'frostbolt' tuk
@@ -717,12 +717,12 @@ It's good that someone actually bothered to test this, quite funny noone cared f
 
 <div class="post" data-post-id="31502" data-author="Tuck" data-date="2010-08-16T10:10:11+00:00" data-subject="Re: So, Spelldam is broken?">
 
-> **Dragoth wrote:**
+> <strong>Dragoth wrote:</strong>
 > What spelldam are you running, 100? As you have no aegis that seems pretty weak, only 25 min 60 max bonus ?
 
 yeah, about 100. 
 
-All test has been done without aegis or any resist/save_vs_spell up.
+All test has been done without aegis or any resist/save\_vs\_spell up.
 
 </div>
 
@@ -738,7 +738,7 @@ Splork
 
 <div class="post" data-post-id="31505" data-author="Tuck" data-date="2010-08-16T15:53:44+00:00" data-subject="Re: So, Spelldam is broken?">
 
-So, save_vs_spell working with ~90% chance if i blast someone(toxis/acme) or myself.
+So, save\_vs\_spell working with \~90% chance if i blast someone(toxis/acme) or myself.
 
 However, Splork fixed spelldam so mages with spelldamcap will get about 50 hp more damage on bolt overall. 
 

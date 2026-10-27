@@ -14,8 +14,8 @@ post_count: 3
 
 Thought you meant this one Isabo:
 
-> **Quote:**
-> Silvery Blue Pearl Rune  +20 Circ Dam
+> <strong>Quote:</strong>
+> Silvery Blue Pearl Rune +20 Circ Dam
 > 
 > Attaches to: bracers, bracelets, and wrist-bands
 > 

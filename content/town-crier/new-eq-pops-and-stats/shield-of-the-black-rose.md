@@ -34,10 +34,10 @@ AC-apply is -1.1
 
 Only those who are at least experienced warriors or supreme bards may use 
 
-this item.  
+this item. 
 
 Thanks Melanthe, Atwell, Giselle, Dio
 
-Marsup is  a 39M grouped mob hits 300 through sanct at -9, bashes, blinds
+Marsup is a 39M grouped mob hits 300 through sanct at -9, bashes, blinds
 
 </div>

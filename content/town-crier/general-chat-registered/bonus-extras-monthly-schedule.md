@@ -14,7 +14,7 @@ post_count: 3
 
 Is this still up to date?
 
-<LINK_TEXT text="http://www.slothmud.org/forum/viewtopic ... op+#p33831">http://www.slothmud.org/forum/viewtopic.php?f=26&t=3974&p=33831&hilit=+fast+repop+#p33831</LINK_TEXT>
+http://www.slothmud.org/forum/viewtopic.php?f=26&t=3974&p=33831&hilit=+fast+repop+#p33831
 
 No gem pop today.
 
@@ -24,7 +24,7 @@ Also, I see recently you have the ability to add Lyme into the bonus schedule, i
 
 <div class="post" data-post-id="38201" data-author="cyprimus" data-date="2017-04-01T15:56:30+00:00" data-subject="Re: Bonus/Extras Monthly Schedule">
 
-its mostly good.  16th is offlyme chop day though
+its mostly good. 16th is offlyme chop day though
 
 </div>
 

@@ -12,7 +12,7 @@ post_count: 2
 
 <div class="post" data-post-id="11463" data-author="Medios" data-date="2006-03-17T22:46:55+00:00" data-subject="Improved Haste cost">
 
-Can someone look at the mv cost when haste spells fall.  I believe its 50 mvs for improved haste which really impacts anyone actually using them.  I understand that greater refresh is only 20 mana but chars that are mana/mana regen deficient are probably better suited to use the mana elsewhere.  Thanks for any consideration/flaming.
+Can someone look at the mv cost when haste spells fall. I believe its 50 mvs for improved haste which really impacts anyone actually using them. I understand that greater refresh is only 20 mana but chars that are mana/mana regen deficient are probably better suited to use the mana elsewhere. Thanks for any consideration/flaming.
 
 Mike
 

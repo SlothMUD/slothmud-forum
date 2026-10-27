@@ -14,7 +14,7 @@ post_count: 1
 
 We are a little behind on posting to forums, although News is rather up to date.
 
-**New Skills:
+\*\*New Skills:
 
 Frenzy
 
@@ -24,7 +24,7 @@ Massive critical hit
 
 Necrology
 
-**New Spells
+\*\*New Spells
 
 Cure Deafness
 
@@ -34,15 +34,15 @@ Dance of the Seven Luck Gods
 
 New Necro Juju Charm
 
-**New Areas
+\*\*New Areas
 
 Forsaken Swamp
 
 Newbatia Downside
 
-**New temple in the training school
+\*\*New temple in the training school
 
-**Isatar Program
+\*\*Isatar Program
 
 We are very busy these days, I hope everyone is happy with the continued progress we make.
 

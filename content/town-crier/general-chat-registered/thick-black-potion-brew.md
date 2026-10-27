@@ -16,27 +16,27 @@ The web site 'Magical Brews' page has this brew:
 
 Thick Black Potion
 
-    * Sliver of Darkness
+ \* Sliver of Darkness
 
-    * Chunk of Ice
+ \* Chunk of Ice
 
-    * Calabash Gourd
+ \* Calabash Gourd
 
-    * Leah (AH) 
+ \* Leah (AH) 
 
-I wanted to brew this, but this cp list seems incomplete.  I tried to brew with all of these items in inventory:
+I wanted to brew this, but this cp list seems incomplete. I tried to brew with all of these items in inventory:
 
-a calabash drinking gourd <-- from datura-tribeswoman
+a calabash drinking gourd \<-- from datura-tribeswoman
 
-a sliver of darkness <-- from gort
+a sliver of darkness \<-- from gort
 
-a sliver of darkness <-- from crowley
+a sliver of darkness \<-- from crowley
 
-a chunk of ice [2] <-- from ice-gargoyle
+a chunk of ice [2] \<-- from ice-gargoyle
 
-a chunk of ice..It has a soft glowing aura! <-- from fish-cook
+a chunk of ice..It has a soft glowing aura! \<-- from fish-cook
 
-a chunk of glowing ice..It has a soft glowing aura! <-- from icy-boy
+a chunk of glowing ice..It has a soft glowing aura! \<-- from icy-boy
 
 Has anyone seen a note describing this brew, or brewed it in the past?
 

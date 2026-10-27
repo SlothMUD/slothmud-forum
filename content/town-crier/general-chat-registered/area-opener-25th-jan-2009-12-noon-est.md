@@ -14,13 +14,13 @@ post_count: 19
 
 There will be an area opener being held at the stated date/time above.
 
-This will be a group vs group quest, where groups will compete against each other but will not directly engage each other.  Only four groups will be admitted into the quest, so first post first admission is the key here.  Please get together a group of 5-8 players.
+This will be a group vs group quest, where groups will compete against each other but will not directly engage each other. Only four groups will be admitted into the quest, so first post first admission is the key here. Please get together a group of 5-8 players.
 
 anyone who are not able to get into a group, please post here too.
 
-We reserve the right to insert these players into any group.  We also reserve the right to rearrange players into different groups if we feel the power is unbalanced.
+We reserve the right to insert these players into any group. We also reserve the right to rearrange players into different groups if we feel the power is unbalanced.
 
-Please, let this be the first and only warning.  No squabbling will be tolerated, no bitching will be tolerated, and strictly no messing with other groups will be tolerated.  Anyone found deliberately sabotaging other groups will have their entire group disqualified.
+Please, let this be the first and only warning. No squabbling will be tolerated, no bitching will be tolerated, and strictly no messing with other groups will be tolerated. Anyone found deliberately sabotaging other groups will have their entire group disqualified.
 
 Further Details on quest challenges will be posted
 
@@ -56,13 +56,13 @@ or stick to original date?
 
 <div class="post" data-post-id="27766" data-author="brady" data-date="2009-01-17T15:11:59+00:00" data-subject="">
 
-Can I vote for Friday evening?   :twisted:
+Can I vote for Friday evening? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="27767" data-author="Gimlet" data-date="2009-01-17T15:47:43+00:00" data-subject="">
 
-well i work saturday morning which is friday evening in the US :(
+well i work saturday morning which is friday evening in the US <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -74,7 +74,7 @@ now theres something interesting
 
 <div class="post" data-post-id="27780" data-author="Stryx" data-date="2009-01-20T09:35:19+00:00" data-subject="">
 
-So when is this quest happening. Original date was fine for me. :?
+So when is this quest happening. Original date was fine for me. <img src="/images/smilies/icon_e_confused.svg" alt=":?" title=":?" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -108,15 +108,15 @@ sorry
 
 <div class="post" data-post-id="27792" data-author="Weasel" data-date="2009-01-21T04:32:29+00:00" data-subject="">
 
-:shock:
+<img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="27793" data-author="Bazilus" data-date="2009-01-21T09:06:46+00:00" data-subject="...">
 
-:twisted:
+<img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
-P.S. *Comfort* Gimlet
+P.S. \*Comfort\* Gimlet
 
 Bazilus the Crazy Python
 
@@ -124,7 +124,7 @@ Bazilus the Crazy Python
 
 <div class="post" data-post-id="27794" data-author="Gimlet" data-date="2009-01-21T11:15:22+00:00" data-subject="">
 
-:(
+<img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 any imms wanna sponsor the quest?
 
@@ -140,7 +140,8 @@ quest will 99% still happen, so keep hte groups forming
 
 <div class="post" data-post-id="27834" data-author="Tap" data-date="2009-01-23T04:57:06+00:00" data-subject="">
 
-[quote:2kukcrhv] strictly no messing with other groups will be tolerated. Anyone found deliberately sabotaging other groups will have their entire group disqualified. [/quote:2kukcrhv]
+> <strong>Quote:</strong>
+> strictly no messing with other groups will be tolerated. Anyone found deliberately sabotaging other groups will have their entire group disqualified.
 
 If we aren't in a group, does this then apply, will the area be secure to keep outsiders out till quest over?
 
@@ -156,7 +157,7 @@ let's just say the imms do not take too kindly to "outsiders" messing with quest
 
 <div class="post" data-post-id="27844" data-author="Medios" data-date="2009-01-23T22:37:52+00:00" data-subject="">
 
-Well since you guys said it was canceled I didn't form a group.  I guess if Surfnazi is the only one with a group we can just forego it and pass them the reward.
+Well since you guys said it was canceled I didn't form a group. I guess if Surfnazi is the only one with a group we can just forego it and pass them the reward.
 
 </div>
 

@@ -14,45 +14,45 @@ post_count: 2
 
 You are using:
 
-<used as light>      the Staff of the Serpent Assassin
+\<used as light\> the Staff of the Serpent Assassin
 
-<worn on finger>     Arcane Ring of the Battle Mage..It has a soft glowing aura!
+\<worn on finger\> Arcane Ring of the Battle Mage..It has a soft glowing aura!
 
-<worn on finger>     a magical band of flaming lava..It has a soft glowing aura!
+\<worn on finger\> a magical band of flaming lava..It has a soft glowing aura!
 
-<worn around neck>   a white cloak (with a red minidemon brooch attached to it)
+\<worn around neck\> a white cloak (with a red minidemon brooch attached to it)
 
-<worn on shoulders>  Shattered Bone Shoulder Guards..It has a soft glowing aura! (with a red minidemon brooch attached to it)
+\<worn on shoulders\> Shattered Bone Shoulder Guards..It has a soft glowing aura! (with a red minidemon brooch attached to it)
 
-<worn on body>       a criss-crossed knife vest
+\<worn on body\> a criss-crossed knife vest
 
-<worn on head>       the Crown of Venomous Serpents..It emits a faint humming sound! (with a reddish-colored glass eye attached to it)
+\<worn on head\> the Crown of Venomous Serpents..It emits a faint humming sound! (with a reddish-colored glass eye attached to it)
 
-<worn on legs>       the greaves of war..It emits a faint humming sound!
+\<worn on legs\> the greaves of war..It emits a faint humming sound!
 
-<worn on feet>       black demonskin boots..It emits a faint humming sound!
+\<worn on feet\> black demonskin boots..It emits a faint humming sound!
 
-<worn on hands>      Gauntlets of Mastery..It emits a faint humming sound!
+\<worn on hands\> Gauntlets of Mastery..It emits a faint humming sound!
 
-<worn on arms>       sleeves of molten lava..It has a soft glowing aura! (with a leather phylactery attached to it)
+\<worn on arms\> sleeves of molten lava..It has a soft glowing aura! (with a leather phylactery attached to it)
 
-<worn as shield>     a crystal greatshield..It emits a faint humming sound!
+\<worn as shield\> a crystal greatshield..It emits a faint humming sound!
 
-<worn about body>    crystalline silk robe..It has a soft glowing aura!
+\<worn about body\> crystalline silk robe..It has a soft glowing aura!
 
-<worn about waist>   a set of thief's pouches
+\<worn about waist\> a set of thief's pouches
 
-<worn around wrist>  Interwoven Circle of Power.......it has an elite hum to it!
+\<worn around wrist\> Interwoven Circle of Power.......it has an elite hum to it!
 
-<worn around wrist>  Interwoven Circle of Power.......it has an elite hum to it!
+\<worn around wrist\> Interwoven Circle of Power.......it has an elite hum to it!
 
-<wielded>            the Fangs of the Serpent..It emits a faint humming sound!
+\<wielded\> the Fangs of the Serpent..It emits a faint humming sound!
 
-<held>               the scarab of destruction..It emits a faint humming sound!
+\<held\> the scarab of destruction..It emits a faint humming sound!
 
-Medios High Lord Assassin ~[DoW]~  (level: 40)
+Medios High Lord Assassin \~[DoW]\~ (level: 40)
 
-Your levels:  Th: 40 Ma: 40 Cl: 40 Wa: 40 Av: 40
+Your levels: Th: 40 Ma: 40 Cl: 40 Wa: 40 Av: 40
 
 You are 31 years and 12 months old.
 
@@ -86,33 +86,33 @@ You are standing.
 
 You are affected by the following spells:
 
-   Detect Invisible
+ Detect Invisible
 
-   Sense Life
+ Sense Life
 
-   Infravision
+ Infravision
 
-   Resist Fire
+ Resist Fire
 
-   Iron Skin
+ Iron Skin
 
-   Grace
+ Grace
 
-   Stamina
+ Stamina
 
-   Corona
+ Corona
 
-   Greater Mobility
+ Greater Mobility
 
-   Vigor
+ Vigor
 
-   Aptitude
+ Aptitude
 
-   Insight
+ Insight
 
-   Quicken
+ Quicken
 
-   Vitality
+ Vitality
 
 </div>
 
@@ -120,49 +120,49 @@ You are affected by the following spells:
 
 All hail Mike.
 
-<used as light>      the staff of the ram..It glows violet!..It has a soft glowing aura!
+\<used as light\> the staff of the ram..It glows violet!..It has a soft glowing aura!
 
-<worn on finger>     a basalt ring..It has a soft glowing aura!
+\<worn on finger\> a basalt ring..It has a soft glowing aura!
 
-<worn on finger>     a basalt ring..It has a soft glowing aura!
+\<worn on finger\> a basalt ring..It has a soft glowing aura!
 
-<worn around neck>   an ebony ankh..It glows violet! (with a red minidemon brooch attached to it)
+\<worn around neck\> an ebony ankh..It glows violet! (with a red minidemon brooch attached to it)
 
-<worn on shoulders>  woven shoulder guards of flesh..It has a soft glowing aura! (with a purple minidemon brooch attached to it)
+\<worn on shoulders\> woven shoulder guards of flesh..It has a soft glowing aura! (with a purple minidemon brooch attached to it)
 
-<worn on body>       bone-encrusted armor
+\<worn on body\> bone-encrusted armor
 
-<worn on head>       an Emperor's Crown(invisible)..It glows violet!..It has a soft glowing aura!
+\<worn on head\> an Emperor's Crown(invisible)..It glows violet!..It has a soft glowing aura!
 
-<worn on legs>       a pair of pitch black greaves..It glows violet!
+\<worn on legs\> a pair of pitch black greaves..It glows violet!
 
-<worn on feet>       a pair of emerald slippers..It glows violet!..It emits a faint humming sound!
+\<worn on feet\> a pair of emerald slippers..It glows violet!..It emits a faint humming sound!
 
-<worn on hands>      a pair of forest green gloves
+\<worn on hands\> a pair of forest green gloves
 
-<worn on arms>       polished rock sleeves(invisible)..It glows violet!
+\<worn on arms\> polished rock sleeves(invisible)..It glows violet!
 
-<worn as shield>     a runed shield of the moon..It glows violet!..It has a soft glowing aura!
+\<worn as shield\> a runed shield of the moon..It glows violet!..It has a soft glowing aura!
 
-<worn about body>    robes of incantations..It glows violet!
+\<worn about body\> robes of incantations..It glows violet!
 
-<worn about waist>   Sash of Swirling Colors..It has a soft glowing aura!
+\<worn about waist\> Sash of Swirling Colors..It has a soft glowing aura!
 
-<worn around wrist>  a ruby bracelet(invisible)..It glows violet!
+\<worn around wrist\> a ruby bracelet(invisible)..It glows violet!
 
-<worn around wrist>  a ruby bracelet(invisible)..It glows violet!
+\<worn around wrist\> a ruby bracelet(invisible)..It glows violet!
 
-<wielded>            Staff of Warlocks..It emits a faint humming sound!
+\<wielded\> Staff of Warlocks..It emits a faint humming sound!
 
-<held>               an ornate scroll bag..It emits a faint humming sound!
+\<held\> an ornate scroll bag..It emits a faint humming sound!
 
-<loaded>             a cactus needle..It glows red!..It emits a faint humming sound!
+\<loaded\> a cactus needle..It glows red!..It emits a faint humming sound!
 
 That's all there is in me wallet.
 
 Kulum the Untitled.
 
-Your levels:  Ne: 40 Ma: 40 Dr: 40 Cl: 40 Av: 8 
+Your levels: Ne: 40 Ma: 40 Dr: 40 Cl: 40 Av: 8 
 
 You are a devout worshipper of Nia.
 

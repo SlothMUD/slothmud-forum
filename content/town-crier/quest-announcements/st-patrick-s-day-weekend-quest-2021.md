@@ -20,10 +20,10 @@ There will be...stuff.
 
 Timer link is below
 
-[<LINK_TEXT text="https://www.tickcounter.com/countdown/2 ... kend-quest">https://www.tickcounter.com/countdown/2469299/2021-slothmud-st-patricks-weekend-quest</LINK_TEXT>](https://www.tickcounter.com/countdown/2469299/2021-slothmud-st-patricks-weekend-quest)
+[https://www.tickcounter.com/countdown/2469299/2021-slothmud-st-patricks-weekend-quest](https://www.tickcounter.com/countdown/2469299/2021-slothmud-st-patricks-weekend-quest)
 
 See you there!
 
---Idj
+\--Idj
 
 </div>

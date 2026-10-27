@@ -14,7 +14,7 @@ post_count: 2
 
 Gem's from this morning...
 
-> **Quote:**
+> <strong>Quote:</strong>
 > You get a Citrine from a golden sack.
 > 
 > You get a Pale Golden Pearl from a golden sack.
@@ -31,7 +31,7 @@ Gem's from this morning...
 > 
 > You get a Pearl from a golden sack.
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -49,6 +49,6 @@ You deposit a Salmon Pink Garnet in the vault.
 
 You deposit a Salmon Pink Garnet in the vault.
 
- :shock: A fullhouse? What are the chances...?
+ <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> A fullhouse? What are the chances...?
 
 </div>

@@ -26,9 +26,9 @@ AC-apply is -1.0
 
 Can affect you as:
 
-    Affects: STR by 1
+ Affects: STR by 1
 
-    Affects: MANA by 8
+ Affects: MANA by 8
 
 Only those who have attained supremacy in at least two classes may use this
 
@@ -48,9 +48,9 @@ AC-apply is -0.1
 
 Can affect you as:
 
-    Affects: WIS by 1
+ Affects: WIS by 1
 
-    Affects: RESIST_FIRE by 5
+ Affects: RESIST\_FIRE by 5
 
 Only those who are at least adept magic users, clerics, thieves, warriors,
 
@@ -70,9 +70,9 @@ AC-apply is -2.1
 
 Can affect you as:
 
-    Affects: SAVING_SPELL by -1
+ Affects: SAVING\_SPELL by -1
 
-    Affects: HITROLL by 1
+ Affects: HITROLL by 1
 
 Only those who are at least supreme magic users, clerics, druids, or
 
@@ -92,9 +92,9 @@ AC-apply is -0.1
 
 Can affect you as:
 
-    Affects: HEAL_BONUS by 5
+ Affects: HEAL\_BONUS by 5
 
-    Affects: SYSTEM_SHOCK by 1
+ Affects: SYSTEM\_SHOCK by 1
 
 Only those who are at least supreme magic users, clerics, druids, or
 
@@ -114,9 +114,9 @@ AC-apply is -0.2
 
 Can affect you as:
 
-    Affects: CON by 1
+ Affects: CON by 1
 
-    Affects: DAMROLL by 1
+ Affects: DAMROLL by 1
 
 Only those who are at least supreme thieves, warriors, bards, or monks, and
 

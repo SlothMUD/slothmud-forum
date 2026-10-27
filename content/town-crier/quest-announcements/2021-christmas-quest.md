@@ -18,12 +18,12 @@ We will have a Christmas Quest at 10am Pacific time on Sunday December 26th.
 
 The timer link is below:
 
-[<LINK_TEXT text="https://www.tickcounter.com/countdown/2 ... tmas-quest">https://www.tickcounter.com/countdown/2944020/2021-slothmud-christmas-quest</LINK_TEXT>](https://www.tickcounter.com/countdown/2944020/2021-slothmud-christmas-quest)
+[https://www.tickcounter.com/countdown/2944020/2021-slothmud-christmas-quest](https://www.tickcounter.com/countdown/2944020/2021-slothmud-christmas-quest)
 
 See you there!
 
 Happy Holidays!
 
---D
+\--D
 
 </div>

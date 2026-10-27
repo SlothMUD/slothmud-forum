@@ -22,15 +22,17 @@ alias
 
 <div class="post" data-post-id="20770" data-author="Tap" data-date="2007-10-11T21:40:45+00:00" data-subject="Mort for remort">
 
-[quote:23z5fchc]Maybe w. all the changes the immorts would like to give characters to change 1 class in their order to another class.[/quote:23z5fchc]
+> <strong>Quote:</strong>
+> Maybe w. all the changes the immorts would like to give characters to change 1 class in their order to another class.
 
 You can already do this. It's called making an alt.
 
-[quote:23z5fchc] Just a thought, think it over if you would. [/quote:23z5fchc]
+> <strong>Quote:</strong>
+> Just a thought, think it over if you would.
 
 I wish you had before you posted this. We should be able to remove our own post. That would be a nice addition to crier.
 
- :roll:
+ <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -52,7 +54,7 @@ I like this idea, but I'd propose a few further recommendations:
 
 Revising the order of your classes should be free of charge, and unlimited quantity.
 
-You shouldn't be able to change your primary class.  Any of the others should be open to revision.
+You shouldn't be able to change your primary class. Any of the others should be open to revision.
 
 This is supposed to be a multi-class mud anyway.
 
@@ -72,17 +74,21 @@ What about MONKS!!!
 
 <div class="post" data-post-id="20805" data-author="van" data-date="2007-10-12T15:54:35+00:00" data-subject="Re: Mort for remort">
 
-[quote:30grhbq4]Maybe w. all the changes the immorts would like to give characters to change 1 class in their order to another class.[/quote:30grhbq4]
-
-You can already do this. It's called making an alt.
-
-[/quote:30grhbq4]
+> <strong>Tap wrote:</strong>
+> > <strong>Quote:</strong>
+> > Maybe w. all the changes the immorts would like to give characters to change 1 class in their order to another class.
+> 
+> 
+> 
+> 
+> 
+> You can already do this. It's called making an alt.
 
 It's also called losing all the time you put onto your character. 
 
-I agree with Alias...  when I made Crisi, brothers in valor directly affected stab rolls.  This was 95% of the reason I picked bard as 4th class - and now it's been nerfed to a normal +2 hit.  And since I can't find a statistically significant difference between +23 hit and +25 hit in terms of stabs landed, I have effectively wasted that slot.
+I agree with Alias... when I made Crisi, brothers in valor directly affected stab rolls. This was 95% of the reason I picked bard as 4th class - and now it's been nerfed to a normal +2 hit. And since I can't find a statistically significant difference between +23 hit and +25 hit in terms of stabs landed, I have effectively wasted that slot.
 
-Fruitless whining aside, I'd sacrifice a lot to change that bard to something more useful.   I dunno, charge me 100 mil coins, reset my quat to level 0, and make me wash every imm's car at least once.  Oh yeah, and only let me do this once in the lifetime of the char.  Just an idea off the top of my head.  
+Fruitless whining aside, I'd sacrifice a lot to change that bard to something more useful. I dunno, charge me 100 mil coins, reset my quat to level 0, and make me wash every imm's car at least once. Oh yeah, and only let me do this once in the lifetime of the char. Just an idea off the top of my head. 
 
 Since it won't happen, I'll go back to stabbing and wishing I could blast when I whiff. :)
 
@@ -98,7 +104,7 @@ I agree I think you should be able to complete and autoquest to do this.
 
 Maybe then all the old school class order will be updated ... However don't
 
-think the immorts would.  Since alot of the old schoolers have created new
+think the immorts would. Since alot of the old schoolers have created new
 
 chars and have lvl them up.
 
@@ -112,13 +118,13 @@ just sing lions or gods and put your slot back to use!
 
 <div class="post" data-post-id="20815" data-author="van" data-date="2007-10-12T17:04:50+00:00" data-subject="">
 
-Oh, I do sing gods while soloing sometimes.  However, my mana gets depleted rather quickly by lites, rabbits, and the occasional reloc.  
+Oh, I do sing gods while soloing sometimes. However, my mana gets depleted rather quickly by lites, rabbits, and the occasional reloc. 
 
 (305/305+20) mana (while running)
 
-gods of war               - Lvl: 29, Mana: 27, Learned  95%
+gods of war - Lvl: 29, Mana: 27, Learned 95%
 
-brothers in valor         - Lvl:  8, Mana:  7, Learned  95%
+brothers in valor - Lvl: 8, Mana: 7, Learned 95%
 
 Do the math... :)
 
@@ -132,15 +138,16 @@ use lions, still add some dmg and you should regen it while singing. sides, you 
 
 <div class="post" data-post-id="20817" data-author="van" data-date="2007-10-12T17:11:24+00:00" data-subject="">
 
-use lions, still add some dmg and you should regen it while singing. sides, you should always be full anyway, thieves rule![/quote:215uas3k]
+> <strong>strider wrote:</strong>
+> use lions, still add some dmg and you should regen it while singing. sides, you should always be full anyway, thieves rule!
 
-Thanks for the tip.  As to thieves ruling... give me 1800 drachma and 2 +dam rings and maybe I will. :)
+Thanks for the tip. As to thieves ruling... give me 1800 drachma and 2 +dam rings and maybe I will. :)
 
 </div>
 
 <div class="post" data-post-id="20818" data-author="Roadrunr" data-date="2007-10-12T17:30:19+00:00" data-subject="">
 
-hasnt this been done in the past and (iirc) it required 5x40 status, loss of tard levels and stats were rolled.  At least thats what I remember hearing about it.  nothing I'd be up for.  I'll get by with my classo thanks.
+hasnt this been done in the past and (iirc) it required 5x40 status, loss of tard levels and stats were rolled. At least thats what I remember hearing about it. nothing I'd be up for. I'll get by with my classo thanks.
 
 </div>
 
@@ -154,7 +161,7 @@ RR I think it was discussed to some extent back when the additional 4 classes we
 
 <div class="post" data-post-id="20820" data-author="13" data-date="2007-10-12T17:42:46+00:00" data-subject="">
 
-Cocaine rules w/out that shit.  I'm totally pleased with him anyway.
+Cocaine rules w/out that shit. I'm totally pleased with him anyway.
 
 </div>
 

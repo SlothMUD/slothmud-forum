@@ -24,7 +24,7 @@ Splork
 
 <div class="post" data-post-id="12920" data-author="Avatar" data-date="2006-06-08T18:21:31+00:00" data-subject="mxp">
 
-It'll be awhile before I get home to login, but I definitely appreciate that you posted about the issue.  If I do get spammed when I login, at least I'll know what's going on and how to address it.
+It'll be awhile before I get home to login, but I definitely appreciate that you posted about the issue. If I do get spammed when I login, at least I'll know what's going on and how to address it.
 
 Thanks!
 
@@ -34,7 +34,7 @@ Charles
 
 <div class="post" data-post-id="12924" data-author="Medios" data-date="2006-06-08T22:00:44+00:00" data-subject="">
 
-Big thanks for the notification.  These things are bound to happen with all the new code you guys have been writing.  Keep up the good work.
+Big thanks for the notification. These things are bound to happen with all the new code you guys have been writing. Keep up the good work.
 
 Mike
 
@@ -44,17 +44,17 @@ Mike
 
 the irony of it all.. I couldn't log into the forums to read about this bug due to a bug with the forum.. 
 
-[<LINK_TEXT text="http://www.slothmud.org/index.php?name= ... pic&t=1921">http://www.slothmud.org/index.php?name=PNphpBB2&file=viewtopic&t=1921</LINK_TEXT>](http://www.slothmud.org/index.php?name=PNphpBB2&file=viewtopic&t=1921)
+[http://www.slothmud.org/index.php?name=PNphpBB2&file=viewtopic&t=1921](http://www.slothmud.org/index.php?name=PNphpBB2&file=viewtopic&t=1921)
 
-  :shock:
+ <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="12935" data-author="Avatar" data-date="2006-06-09T12:38:12+00:00" data-subject="Bugs">
 
-It's your fault Weasel for trying to customize your preferences!  Submit!
+It's your fault Weasel for trying to customize your preferences! Submit!
 
-Anyway, I did get spammed by the "Publish xxx" string yesterday, and was able to disable MXP.  So, the tip was helpful, if you had access to read it.
+Anyway, I did get spammed by the "Publish xxx" string yesterday, and was able to disable MXP. So, the tip was helpful, if you had access to read it.
 
 Charles
 

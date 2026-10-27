@@ -28,37 +28,37 @@ someone going to explain?
 
 added 5 mins ago: game offline.
 
-[pechen@bogus ~]$ telnet slothmud.org 6101
+[pechen@bogus \~]$ telnet slothmud.org 6101
 
 Trying 209.139.208.65...
 
 ^C
 
-[pechen@bogus ~]$ telnet slothmud.org 6100
+[pechen@bogus \~]$ telnet slothmud.org 6100
 
 Trying 209.139.208.65...
 
 ^C
 
-[pechen@bogus ~]$ telnet slothmud.org 6102
+[pechen@bogus \~]$ telnet slothmud.org 6102
 
 Trying 209.139.208.65...
 
 ^C
 
-[pechen@bogus ~]$ telnet slothmud.org 6103
+[pechen@bogus \~]$ telnet slothmud.org 6103
 
 Trying 209.139.208.65...
 
 ^C
 
-[pechen@bogus ~]$ telnet slothmud.org 6104
+[pechen@bogus \~]$ telnet slothmud.org 6104
 
 Trying 209.139.208.65...
 
 ^C
 
-[pechen@bogus ~]$
+[pechen@bogus \~]$
 
 ![](http://faustjucken.files.wordpress.com/2010/08/you-make-bunny-cry.jpg)
 
@@ -70,11 +70,11 @@ I was stabbing in todes, without lag.. till i needed some regen and realized tha
 
 who
 
-[pri sec ter qua qui hex sep oct]  Players
+[pri sec ter qua qui hex sep oct] Players
 
---------------------------------
+\--------------------------------
 
-[      *Cutpurse*  Th:4.22       ] Maling ~Dragonsworn~ loyal stabber of Lego Vampire^VV^
+[ \*Cutpurse\* Th:4.22 ] Maling \~Dragonsworn\~ loyal stabber of Lego Vampire^VV^
 
 There are 1 visible players.
 
@@ -86,9 +86,9 @@ vis virus
 
 You grouptell: 'AEGIS FALLS IN 10'
 
->>>         2 MANA gained <<<
+\>\>\> 2 MANA gained \<\<\<
 
-<611/966hp 84/173ma 333/333mv> [+58 +23 +44] [area:Lyme Town,Ly] [storm] [3:18 am] [-3] [ac:-2.4] [+21/+17]
+\<611/966hp 84/173ma 333/333mv\> [+58 +23 +44] [area:Lyme Town,Ly] [storm] [3:18 am] [-3] [ac:-2.4] [+21/+17]
 
 [xp:396,621,781] [coin:701,217]
 
@@ -96,11 +96,11 @@ Ok.
 
 Limbo
 
-   There is absolutely nothing to hold on to, floating in a formless void,
+ There is absolutely nothing to hold on to, floating in a formless void,
 
 detached from all sensation of physical matter, surrounded by swirling,
 
-glowing ghostlight, which fades into the relative darkness around.  The
+glowing ghostlight, which fades into the relative darkness around. The
 
 light has no apparent source, it obliterates any trace of edges or shadow,
 
@@ -108,21 +108,21 @@ and is in its turn devoured by the infinite darkness.
 
 Exits: 
 
-*(Brilliant Red Aura) A grotesque Ju-Ju Zombie searches the area for more food.
+\*(Brilliant Red Aura) A grotesque Ju-Ju Zombie searches the area for more food.
 
-Virus ~Dragonsworn~ (invisible) is standing here.(Brilliant Red Aura) 
+Virus \~Dragonsworn\~ (invisible) is standing here.(Brilliant Red Aura) 
 
 Virus has a steady blue aura.
 
-Raincrab <<M.A.G.I>> LF tumble & apply is standing here.(Brilliant Blue Aura) 
+Raincrab \<\<M.A.G.I\>\> LF tumble \& apply is standing here.(Brilliant Blue Aura) 
 
-Smitten   is standing here.
+Smitten is standing here.
 
 Smitten has a steady green aura.
 
 Ann [Legends] black onyx/white opal is standing here.(Faint Red Aura) 
 
-Tuk !=kuT<<M.A.G.I>> . is standing here.(Faint Red Aura) 
+Tuk !=kuT\<\<M.A.G.I\>\> . is standing here.(Faint Red Aura) 
 
 Tuk has a strong red aura.
 
@@ -132,7 +132,7 @@ Ginuu I voted! [Legends] is standing here.(Red Aura)
 
 Ginuu has a steady blue aura.
 
-Linx     . is sleeping here.(Brilliant Blue Aura) 
+Linx . is sleeping here.(Brilliant Blue Aura) 
 
 Linx has a steady blue aura.
 
@@ -146,7 +146,7 @@ Cizin has a steady green aura.
 
 Cine lalala is resting here.(Brilliant Blue Aura) 
 
-Guinex ~Dragonsworn~ is standing here.(Faint Red Aura) 
+Guinex \~Dragonsworn\~ is standing here.(Faint Red Aura) 
 
 Guinex has a strong dark aura.
 
@@ -164,13 +164,13 @@ Anyone can tell me what happened?
 
 Interesting!
 
-That confirms the beasts in Matterhorn are feasting on my carcass. Hope they choke on a bone 8)
+That confirms the beasts in Matterhorn are feasting on my carcass. Hope they choke on a bone <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="33732" data-author="Virus" data-date="2012-11-14T08:38:17+00:00" data-subject="Re: Major Lag Issues">
 
-Why you vis me for?  :roll:
+Why you vis me for? <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -182,12 +182,12 @@ I blame sue.
 
 <div class="post" data-post-id="33734" data-author="raincrab" data-date="2012-11-14T08:41:40+00:00" data-subject="Re: Major Lag Issues">
 
-> **Nyx wrote:**
+> <strong>Nyx wrote:</strong>
 > Interesting!
 > 
 > 
 > 
-> That confirms the beasts in Matterhorn are feasting on my carcass. Hope they choke on a bone 8)
+> That confirms the beasts in Matterhorn are feasting on my carcass. Hope they choke on a bone <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 I just gated into mh caverns to fetch a corpse before connection dropped, good to see me alive in limbo
 
@@ -203,7 +203,7 @@ Unable to connect to "SLOTH", code = 10060 (Connection timed out)
 
 <div class="post" data-post-id="33736" data-author="jezer" data-date="2012-11-14T09:46:54+00:00" data-subject="Re: Major Lag Issues">
 
-I wonder if the DDOS is back with Sloth being Number 1 on TMC? I voted just in case it was!  :twisted:
+I wonder if the DDOS is back with Sloth being Number 1 on TMC? I voted just in case it was! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -211,25 +211,25 @@ I wonder if the DDOS is back with Sloth being Number 1 on TMC? I voted just in c
 
 who
 
-[pri sec ter qua qui hex sep oct]  Players
+[pri sec ter qua qui hex sep oct] Players
 
---------------------------------
+\--------------------------------
 
-[        *Magus*  Ma:8.33        ] Tuk !=kuT<<M.A.G.I>> alone in da dark
+[ \*Magus\* Ma:8.33 ] Tuk !=kuT\<\<M.A.G.I\>\> alone in da dark
 
-[        *Witch*  Ne:7.33        ] Beatrix ~Dragonsworn~
+[ \*Witch\* Ne:7.33 ] Beatrix \~Dragonsworn\~
 
-[      *Cutpurse*  Th:4.22       ] Maling ~Dragonsworn~ loyal stabber of Lego 
+[ \*Cutpurse\* Th:4.22 ] Maling \~Dragonsworn\~ loyal stabber of Lego 
 
 Vampire^VV^
 
-[39w 39c 38m 21n|27o 21d 12b 10t ] Ozzy the Prince of Afkness
+[39w 39c 38m 21n\|27o 21d 12b 10t ] Ozzy the Prince of Afkness
 
 There are 4 visible players.
 
 Highest total since last bootup: 41.
 
-<966/966hp 173/173ma 333/333mv> [+58 +21 +44] [area:Settlestone,SS] [indoors] [11:14 
+\<966/966hp 173/173ma 333/333mv\> [+58 +21 +44] [area:Settlestone,SS] [indoors] [11:14 
 
 pm] [+9] [ac:-2.4] [+24/+17] [xp:410,485,076] [coin:749,872]
 
@@ -269,7 +269,7 @@ couldn't log in =.=
 
 <div class="post" data-post-id="33742" data-author="war" data-date="2012-11-14T13:59:45+00:00" data-subject="Re: Major Lag Issues">
 
-I see ppl on but am unable to connect :cry:
+I see ppl on but am unable to connect <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -277,25 +277,25 @@ I see ppl on but am unable to connect :cry:
 
 wh
 
-[pri sec ter qua qui hex sep oct]  Players
+[pri sec ter qua qui hex sep oct] Players
 
---------------------------------
+\--------------------------------
 
-[     *Juggernaut*  Wa:7.36      ] Alris here and there.
+[ \*Juggernaut\* Wa:7.36 ] Alris here and there.
 
-[39w 39c 38m 21n|27o 21d 12b 10t ] Ozzy the Prince of Afkness
+[39w 39c 38m 21n\|27o 21d 12b 10t ] Ozzy the Prince of Afkness
 
 There are 2 visible players.
 
 Highest total since last bootup: 41.
 
-- Excuse me, who's mud is this?
+\- Excuse me, who's mud is this?
 
-- This is the mud of my master, Ozzy de Loimbard. Oh yeah, it's very nice.
+\- This is the mud of my master, Ozzy de Loimbard. Oh yeah, it's very nice.
 
-- May we log in and take a look?
+\- May we log in and take a look?
 
-- Of course not! You are English-types! Now go away before I taunt you a second time!   8)  8)  :lol:  :lol:  :lol:
+\- Of course not! You are English-types! Now go away before I taunt you a second time! <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -305,9 +305,9 @@ Looks like we have another fun week or two ahead of us.
 
 Yet the neck and neck race on TMC now has us slowly pulling ahead again.
 
-*chuckle*
+\*chuckle\*
 
-I dislike not being able to log in 20 times a day for 5 minutes at a time, but I know the game will be back up eventually.  Hopefully before I want to actually play for real.
+I dislike not being able to log in 20 times a day for 5 minutes at a time, but I know the game will be back up eventually. Hopefully before I want to actually play for real.
 
 I demand a shrubbery on my return.
 
@@ -321,7 +321,7 @@ find out on icq...ip addy no longer posted for security reasons
 
 Is up and stable 
 
--Enjoy,
+\-Enjoy,
 
 Zeke
 
@@ -369,7 +369,7 @@ check your PMs here on the crier, i sent one to both of you yesterday
 
 <div class="post" data-post-id="33759" data-author="Shryker" data-date="2012-11-16T01:50:52+00:00" data-subject="Re: Major Lag Issues">
 
-PM'ed you as well raincrab.  Rick seems to be tied up with the attacks, so I figured I would hit someone up here instead.
+PM'ed you as well raincrab. Rick seems to be tied up with the attacks, so I figured I would hit someone up here instead.
 
 Shryker
 
@@ -377,7 +377,7 @@ Shryker
 
 <div class="post" data-post-id="33760" data-author="*Breeze*" data-date="2012-11-16T03:28:58+00:00" data-subject="Re: Major Lag Issues">
 
-anyone can also email not  pm me for the next few hours. breeze@....
+anyone can also email not pm me for the next few hours. breeze@....
 
 </div>
 
@@ -407,13 +407,13 @@ its up, i reconnected, lagged bad, another round of ddos.
 
 ```
 The Waste Lands
-   The blackened sky seems to give way to a dull blue and purplish haze 
-that resembles a large bruise.  A mountain range looms in the distance, and 
-a volcano spews lava into the air.  Atop the massive cathedral far to the 
+ The blackened sky seems to give way to a dull blue and purplish haze 
+that resembles a large bruise. A mountain range looms in the distance, and 
+a volcano spews lava into the air. Atop the massive cathedral far to the 
 south, a large winged gargoyle lies dormant on the steeple like a 
-monolithic demon.  An icy wind howls across this desecrated land like a 
+monolithic demon. An icy wind howls across this desecrated land like a 
 banshee's cry.
-Exits: East  
+Exits: East 
 The severed Head of a giant spiked lizard is lying here.
 Josiah is standing here.
 Josiah glows with a bright light!
@@ -440,7 +440,7 @@ hope everyone did, never idled there so no idea if chars will be safe
 
 <div class="post" data-post-id="33782" data-author="cyprimus" data-date="2012-11-18T04:47:52+00:00" data-subject="Re: Major Lag Issues">
 
-Still cannot reconnect...  taking me forever to load anything on webpage too..
+Still cannot reconnect... taking me forever to load anything on webpage too..
 
 </div>
 
@@ -452,7 +452,7 @@ yup, same here.
 
 <div class="post" data-post-id="33784" data-author="war" data-date="2012-11-18T05:08:24+00:00" data-subject="Re: Major Lag Issues">
 
-I split Im half hoping it crashed as im in a room with a agro, but roberts is loaded. :shock:
+I split Im half hoping it crashed as im in a room with a agro, but roberts is loaded. <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

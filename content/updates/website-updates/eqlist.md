@@ -12,7 +12,7 @@ post_count: 4
 
 <div class="post" data-post-id="31590" data-author="*Breeze*" data-date="2010-08-25T13:04:54+00:00" data-subject="EQList">
 
-**ChangeLog**
+<strong>ChangeLog</strong>
 
 25 Aug 2010 - 
 
@@ -28,7 +28,7 @@ post_count: 4
 
 <div class="post" data-post-id="31938" data-author="*Breeze*" data-date="2010-10-28T00:28:35+00:00" data-subject="EQList">
 
-you should start seeing more information on runes/clasps/instruments on eqlist.  
+you should start seeing more information on runes/clasps/instruments on eqlist. 
 
 everything with the exception of the names of the objects that 
 
@@ -36,7 +36,7 @@ runes/clasps which attach to specific objects should show up.
 
 hope that made sense..
 
-enjoy and thank isabo for her work on exporting said data to me :)
+enjoy and thank isabo for her work on exporting said data to me <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 //Benq
 
@@ -44,7 +44,7 @@ enjoy and thank isabo for her work on exporting said data to me :)
 
 <div class="post" data-post-id="31939" data-author="jezer" data-date="2010-10-28T06:28:31+00:00" data-subject="Re: EQList">
 
-Silvery Blue Pearl Rune		+20 Circ Dam
+Silvery Blue Pearl Rune +20 Circ Dam
 
 Attaches to: bracers, bracelets, and wrist-bands
 
@@ -60,21 +60,21 @@ Forges will now link the list of required components to the Mobile / Area so you
 
 If you run across something like
 
-1x a swirling ball of fire from *Unknown (Logged)*
+1x a swirling ball of fire from <em>Unknown (Logged)</em>
 
 it means I need to fix something and it was logged so I can fix it. 
 
-**(no need to [ email me || talk to me ] about it)**
+<strong>(no need to [ email me \|\| talk to me ] about it)</strong>
 
 Having said that, if you run across same issue for a week or two it means
 
-I forgot to check the **buggered-forges.log** and you should remind me
+I forgot to check the <strong>buggered-forges.log</strong> and you should remind me
 
 to go ahead and do that.
 
-** some of the forges may be incomplete due to a small bug which our favourite immortal
+\*\* some of the forges may be incomplete due to a small bug which our favourite immortal
 
-Isabo is working on.  Don't bother her about it.  It will be done when she is done. **
+Isabo is working on. Don't bother her about it. It will be done when she is done. \*\*
 
 // Benq
 

@@ -12,11 +12,11 @@ post_count: 42
 
 <div class="post" data-post-id="22614" data-author="Toxis" data-date="2008-02-09T00:06:35+00:00" data-subject="Alhoon">
 
-<1217hp 316ma 223mv>
+\<1217hp 316ma 223mv\>
 
 Mandos utters the words, 'oculoghfjqhuai'
 
-<1217hp 317ma 223mv>
+\<1217hp 317ma 223mv\>
 
 A hairy brown tarantula (Yasix) brutally massacres Alhoon with his crush.
 
@@ -82,13 +82,13 @@ Your body shuts down as the knife reduces your brain to a lifeless grey mass.!!
 
 You have been KILLED!! 
 
-<-552hp 317ma 223mv>
+\<-552hp 317ma 223mv\>
 
-Lie still; you are DEAD!!! :-(
+Lie still; you are DEAD!!! <img src="/images/smilies/icon_e_sad.svg" alt=":-(" title=":-(" width="15" height="15" class="smiley nozoom">
 
-One thing I hate more than anything are instant death procs.  I will never run Alhoon again, that's a promise.  I don't care how bad I want honor.
+One thing I hate more than anything are instant death procs. I will never run Alhoon again, that's a promise. I don't care how bad I want honor.
 
--Toxis
+\-Toxis
 
 </div>
 
@@ -100,13 +100,13 @@ without death procs..
 
 you'd have to result to using thought, skill and imagination.
 
-and we both know that is frowned upon.  :twisted:
+and we both know that is frowned upon. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="22619" data-author="Yasik" data-date="2008-02-09T00:46:12+00:00" data-subject="">
 
-[img:q2ok3wxi]http://yasik.kiev.ua/EdgarAllanPwned.jpg[/img:q2ok3wxi]
+![](http://yasik.kiev.ua/EdgarAllanPwned.jpg)
 
 </div>
 
@@ -116,7 +116,7 @@ In all fairness, the proc did fire once that round without killing you, before t
 
 Not that anyone could probably survive both, but still.
 
-Edit:On second thought, as far as I know that proc doesn't do much through mindbar, but drops it after one attempt. This might be a good time for tanks to start buying perm mindbar (and a ton of detect spells once they can't cast them) :)
+Edit:On second thought, as far as I know that proc doesn't do much through mindbar, but drops it after one attempt. This might be a good time for tanks to start buying perm mindbar (and a ton of detect spells once they can't cast them) <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -136,7 +136,8 @@ Aka
 
 <div class="post" data-post-id="22624" data-author="Autolycos" data-date="2008-02-09T05:52:38+00:00" data-subject="">
 
-good, im glad some mobs get respect.[/quote:3kl7f7nx]
+> <strong>\*Akasha\* wrote:</strong>
+> good, im glad some mobs get respect.
 
 tru dat..
 
@@ -154,13 +155,16 @@ fear the kobold sage.
 
 <div class="post" data-post-id="22627" data-author="Yasik" data-date="2008-02-09T07:57:36+00:00" data-subject="">
 
-fear the kobold sage.
+> <strong>Weasel wrote:</strong>
+> fear the kobold sage.
+> 
+> 
+> 
+> ..actually that'd be pretty kewl on a t-shirt.
 
-..actually that'd be pretty kewl on a t-shirt.[/quote:1kwj6vmu]
+![](http://yasik.kiev.ua/KoboldSage_FearIt.jpg)
 
-[img:1kwj6vmu]http://yasik.kiev.ua/KoboldSage_FearIt.jpg[/img:1kwj6vmu]
-
-[img:1kwj6vmu]http://yasik.kiev.ua/KoboldSage_Yoda.jpg[/img:1kwj6vmu]
+![](http://yasik.kiev.ua/KoboldSage_Yoda.jpg)
 
 </div>
 
@@ -212,43 +216,41 @@ You have been KILLED!!
 
 Group 'Death and Honor, in that order' consists of:
 
- (Leader)     Mandos [Ne:5.40  852hp 437ma 260mv] ---
+ (Leader) Mandos [Ne:5.40 852hp 437ma 260mv] ---
 
-  (Point)       Zukt [Wa:5.40   27hp 239ma 287mv] ---
+ (Point) Zukt [Wa:5.40 27hp 239ma 287mv] ---
 
-   (Dead)      Toxis [Wa:5.40 -1079hp 355ma 223mv] ---
+ (Dead) Toxis [Wa:5.40 -1079hp 355ma 223mv] ---
 
-                Bomb [Wa:4.29 1159hp 441ma 155mv] ---
+ Bomb [Wa:4.29 1159hp 441ma 155mv] ---
 
-            Jarlaxle [Wa:5.40  793hp 177ma 230mv] ---
+ Jarlaxle [Wa:5.40 793hp 177ma 230mv] ---
 
-             Crunchy [Wa:3.38  911hp 104ma 166mv] ---
+ Crunchy [Wa:3.38 911hp 104ma 166mv] ---
 
-               Cizin [Th:4.18  976hp  86ma 266mv] ---
+ Cizin [Th:4.18 976hp 86ma 266mv] ---
 
-              Lugnut [Mo:3.38  908hp 192ma 190mv] ---
+ Lugnut [Mo:3.38 908hp 192ma 190mv] ---
 
-              Kokoro [Th:3.31  805hp 380ma 176mv] -6ac                          
+ Kokoro [Th:3.31 805hp 380ma 176mv] -6ac 
 
-              Atwell [Wa:5.40  684hp 172ma 194mv] ---
+ Atwell [Wa:5.40 684hp 172ma 194mv] ---
 
-               Truth [Ma:5.40  839hp 748ma 238mv] ---
+ Truth [Ma:5.40 839hp 748ma 238mv] ---
 
-                 Doc [Cl:5.40  890hp 223ma 238mv] ---
+ Doc [Cl:5.40 890hp 223ma 238mv] ---
 
-                 Lis [Ma:5.40  898hp 341ma 194mv] ---
+ Lis [Ma:5.40 898hp 341ma 194mv] ---
 
-              Nakita [Cl:2.28  413hp 394ma 124mv] ---
+ Nakita [Cl:2.28 413hp 394ma 124mv] ---
 
-                Afea [Ba:2.30  770hp 112ma 261mv] ---
+ Afea [Ba:2.30 770hp 112ma 261mv] ---
 
-<-1079hp 355ma 223mv>
+\<-1079hp 355ma 223mv\>
 
-Autolycos Posted: Feb 08, 2008 - 04:27 PM    Post subject: RE: Alhoon 
+Autolycos Posted: Feb 08, 2008 - 04:27 PM Post subject: RE: Alhoon 
 
---------------------------------------------------------------------------------
-
- 
+\--------------------------------------------------------------------------------
 
 Oh c'mon Brad... 
 
@@ -256,17 +258,15 @@ without death procs..
 
 you'd have to result to using thought, skill and imagination. 
 
-and we both know that is frowned upon.  
+and we both know that is frowned upon. 
 
  
 
- 
+.... I'm just wondering... where is the thought, skill, and imagination of dying instantly without any possible way of stopping such a death? Oh I get it, just don't kill the mob.
 
-.... I'm just wondering... where is the thought, skill, and imagination of dying instantly without any possible way of stopping such a death?  Oh I get it, just don't kill the mob.
+I didn't corpse and I'm not mad or anything, I just don't like those procs and never have. It's like the old "death rooms" in old muds where you walked into a room and you just died instantly. 3 drachma, though, that was nice.
 
-I didn't corpse and I'm not mad or anything, I just don't like those procs and never have.  It's like the old "death rooms" in old muds where you walked into a room and you just died instantly.  3 drachma, though, that was nice.
-
--Toxis
+\-Toxis
 
 </div>
 
@@ -278,7 +278,7 @@ I predict a slow down on epic groups, once the die hard old tard players have go
 
 Rumour is Lord Rank Clasp gives +1hp... keep epics going people.
 
-It never ceases to amaze the trouble some of our legendary tards go through to get... erm, ... yeah, but I guess that's why they will always be legends of the game, and I'll just be a so in so no name! :D
+It never ceases to amaze the trouble some of our legendary tards go through to get... erm, ... yeah, but I guess that's why they will always be legends of the game, and I'll just be a so in so no name! <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 I had to laugh though, when I saw the tanks dead, and truth had 748 mana! That is kinda funny.
 
@@ -300,9 +300,9 @@ Wow Awesomeness!
 
 You gossip -- 'Anyone wanna group for Akamumbojartan!'
 
-Mandos gossips -- 'I'm IN!'  :twisted: 
+Mandos gossips -- 'I'm IN!' <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
- :shock:  :D
+ <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -318,9 +318,9 @@ Aka
 
 <div class="post" data-post-id="22643" data-author="jezer" data-date="2008-02-11T08:44:09+00:00" data-subject="">
 
-We like ya akasha, and we appreciate your work! even though I don't always agree!  :D At the end of the day the majority of people love epics, and I like the idea! Just questioning the reward. I'm just a small voice squeaking in the dark! Honestly you don't have to worry about what I say... and I don't think most do! haha
+We like ya akasha, and we appreciate your work! even though I don't always agree! <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> At the end of the day the majority of people love epics, and I like the idea! Just questioning the reward. I'm just a small voice squeaking in the dark! Honestly you don't have to worry about what I say... and I don't think most do! haha
 
-I'm about to get flamed to piece's (Some people will step in to defend you, because you are one of the good guys!) so if you'll excuse me, I have to erect my flame shield.  :oops:
+I'm about to get flamed to piece's (Some people will step in to defend you, because you are one of the good guys!) so if you'll excuse me, I have to erect my flame shield. <img src="/images/smilies/icon_redface.svg" alt=":oops:" title=":oops:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -332,7 +332,7 @@ No one has done as much for the game in a long time as Akasha and I don't think 
 
 <div class="post" data-post-id="22648" data-author="Shyla" data-date="2008-02-11T16:00:51+00:00" data-subject="">
 
-You know i might hate alhoon and some of the others and not do them but there are a lot of people here that find it fun no matter what.  And to put down Akasha like you did after all the work he has done is just wrong.  Why do you think immorts like Blaster who used to do a lot isn't seen anymore?  Too many people take their frustration out on the immorts who only try to make things better here.  GET OFF THEIR BACKS!!! you don't like the quests don't do them... YOu don't like the rewards or who gets them...ummm...don't do them... you don't like the epics.....DON'T DO THEM.  but do NOT make another immort leave because you do not like something.  I am sick of tired of losing great immorts b/c someone decides they don't like something.  Hell I whine all the time, but at least not about the immorts.
+You know i might hate alhoon and some of the others and not do them but there are a lot of people here that find it fun no matter what. And to put down Akasha like you did after all the work he has done is just wrong. Why do you think immorts like Blaster who used to do a lot isn't seen anymore? Too many people take their frustration out on the immorts who only try to make things better here. GET OFF THEIR BACKS!!! you don't like the quests don't do them... YOu don't like the rewards or who gets them...ummm...don't do them... you don't like the epics.....DON'T DO THEM. but do NOT make another immort leave because you do not like something. I am sick of tired of losing great immorts b/c someone decides they don't like something. Hell I whine all the time, but at least not about the immorts.
 
 BACK away from the immorts and take your ire out as a builder coder yourself if you want somethign changed YOU do it
 
@@ -344,7 +344,7 @@ Shyla the mad librarian
 
 ruh roh.... 
 
-you angerd teh shylaz   :x
+you angerd teh shylaz <img src="/images/smilies/icon_mad.svg" alt=":x" title=":x" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -358,17 +358,21 @@ Not sure if there is a epic/MOB that does it but a MOB that randomly successfull
 
 <div class="post" data-post-id="22657" data-author="*juggleblood*" data-date="2008-02-11T21:42:21+00:00" data-subject="">
 
-Why do you think immorts like Blaster who used to do a lot isn't seen anymore?  [/quote:1djw7ydx]
+> <strong>shyla wrote:</strong>
+> Why do you think immorts like Blaster who used to do a lot isn't seen anymore?
 
-Does anybody really miss Blaster Quests tho? I thought his quests involved mass casualties for zero reward whatsoever... :twisted:
+Does anybody really miss Blaster Quests tho? I thought his quests involved mass casualties for zero reward whatsoever... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="22658" data-author="Akasha" data-date="2008-02-11T22:10:26+00:00" data-subject="">
 
-Allhoon Baboon
-
-Not sure if there is a epic/MOB that does it but a MOB that randomly successfully orders a groupmember to rescue it would be a hoot![/quote:m9hny4lc]
+> <strong>Tap wrote:</strong>
+> Allhoon Baboon
+> 
+> 
+> 
+> Not sure if there is a epic/MOB that does it but a MOB that randomly successfully orders a groupmember to rescue it would be a hoot!
 
 not specifically, but ill keep that in mind.
 
@@ -378,7 +382,7 @@ Aka
 
 <div class="post" data-post-id="22660" data-author="jezer" data-date="2008-02-11T23:05:26+00:00" data-subject="">
 
-:shock: Help my spell shield is already faded!
+<img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> Help my spell shield is already faded!
 
 AK is da bomb! Just because I don't agree with the size of epic rewards for the amount of work, doesn't mean I hate Akasha and disrespect him!
 
@@ -394,7 +398,7 @@ AK rocks!
 
 Epics Aren't for me!
 
-This is my opinion... game on!  8)
+This is my opinion... game on! <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -402,21 +406,21 @@ This is my opinion... game on!  8)
 
 One thing that Akasha did that I really appreciated was the coliseum...
 
-It suited where I was at really well. I was new to the game with jezer, and the first character is pretty hard, esp when your trying to fit in with those legendary old classo tards! cackle :twisted:
+It suited where I was at really well. I was new to the game with jezer, and the first character is pretty hard, esp when your trying to fit in with those legendary old classo tards! cackle <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
-The coliseum allowed me to pop tokens to roll my character on! It also popped stat point potions, it gave me spells like wraithform which really help me, cause my classo sucked. It also meant I could run around valk as -9 with wraithform and a spellshield and impress all the ladies... :shock: 
+The coliseum allowed me to pop tokens to roll my character on! It also popped stat point potions, it gave me spells like wraithform which really help me, cause my classo sucked. It also meant I could run around valk as -9 with wraithform and a spellshield and impress all the ladies... <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
 I started trading in oct tokens, and my first pieces of plus damage eq were brought from teron for oct tokens!
 
-I could also pop those potions and sell them for decent coins. There also popped a scroll in there which did a room restore! I used it in a few groups and most people didn't even know it existed. Actually I used to see Lis there from time to time... what the heck popped in the avatar gauntlet! I still wanna know! :)
+I could also pop those potions and sell them for decent coins. There also popped a scroll in there which did a room restore! I used it in a few groups and most people didn't even know it existed. Actually I used to see Lis there from time to time... what the heck popped in the avatar gauntlet! I still wanna know! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-The coliseum was amongest my first posts. [b:jnfx1fks]It caused my first run in with Yasik...[/b:jnfx1fks] The memories... *sniff*
+The coliseum was amongest my first posts. <strong>It caused my first run in with Yasik...</strong> The memories... \*sniff\*
 
 Not many people did the coliseum, but back then it was a life line for me! 
 
 What works for me, won't always work for others... I just play a little different sometimes. No disrespect to the man! And I've think I've made my point...
 
-I'll hand you all over now to weasel, for a tension relieving lol cat... Don't leave me hanging here weasel!  :)
+I'll hand you all over now to weasel, for a tension relieving lol cat... Don't leave me hanging here weasel! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -424,15 +428,15 @@ I'll hand you all over now to weasel, for a tension relieving lol cat... Don't l
 
 Shyla your overall post is valid, however...
 
-As far as I know, Blaster is busy with military duties.  He shipped out.  This is why he doesnt sloth.  The time difference alone for him was difficult.   I remember him running a quest at like 3am once, cause thats the time he had.  Dont confuse or manipulate to prove points.  We have republicans for that.
+As far as I know, Blaster is busy with military duties. He shipped out. This is why he doesnt sloth. The time difference alone for him was difficult. I remember him running a quest at like 3am once, cause thats the time he had. Dont confuse or manipulate to prove points. We have republicans for that.
 
-While I have seen an immort bully another immort out of the game.  Perhaps you could provide an example of a specific player/s chasing away an immort, because i cant think of one.
+While I have seen an immort bully another immort out of the game. Perhaps you could provide an example of a specific player/s chasing away an immort, because i cant think of one.
 
-Epic mobs were really fun with honor and some drachma.  Now some of them are leaning towards being no fun to kill.  Balance is important.  If anything consider putting the drachma back, and slow down the rate of epics loading.
+Epic mobs were really fun with honor and some drachma. Now some of them are leaning towards being no fun to kill. Balance is important. If anything consider putting the drachma back, and slow down the rate of epics loading.
 
-I was and am still really enjoying epics, because the more I participate the more I am rewarded for my efforts.  More work = more advancement.
+I was and am still really enjoying epics, because the more I participate the more I am rewarded for my efforts. More work = more advancement.
 
-Prior quests were watch the leader or tank get the prize.  Then the rest of the group doing the work got the shaft.  The epic system works a lot better.
+Prior quests were watch the leader or tank get the prize. Then the rest of the group doing the work got the shaft. The epic system works a lot better.
 
 Thanks for putting it in, and all the work that has already gone into epics.
 
@@ -452,55 +456,66 @@ ps... not to speak for the poor guy im sure he could answer it himself, just my 
 
 <div class="post" data-post-id="22687" data-author="Medios" data-date="2008-02-12T23:50:06+00:00" data-subject="">
 
-Shyla your overall post is valid, however...
+> <strong>Mosaix wrote:</strong>
+> Shyla your overall post is valid, however...
+> 
+> 
+> 
+> As far as I know, Blaster is busy with military duties. He shipped out. This is why he doesnt sloth. The time difference alone for him was difficult. I remember him running a quest at like 3am once, cause thats the time he had. Dont confuse or manipulate to prove points. <strong>We have republicans for that.</strong>
+> 
+> 
+> 
+> While I have seen an immort bully another immort out of the game. Perhaps you could provide an example of a specific player/s chasing away an immort, because i cant think of one.
+> 
+> 
+> 
+> Epic mobs were really fun with honor and some drachma. Now some of them are leaning towards being no fun to kill. Balance is important. If anything consider putting the drachma back, and slow down the rate of epics loading.
+> 
+> I was and am still really enjoying epics, because the more I participate the more I am rewarded for my efforts. More work = more advancement.
+> 
+> Prior quests were watch the leader or tank get the prize. Then the rest of the group doing the work got the shaft. The epic system works a lot better.
+> 
+> 
+> 
+> Thanks for putting it in, and all the work that has already gone into epics.
+> 
+> 
+> 
+> Mosaix
 
-As far as I know, Blaster is busy with military duties.  He shipped out.  This is why he doesnt sloth.  The time difference alone for him was difficult.   I remember him running a quest at like 3am once, cause thats the time he had.  Dont confuse or manipulate to prove points.  [b:1gvps779]We have republicans for that.[/b:1gvps779]
+This shit cracks me up. This comparison is whacked out.
 
-While I have seen an immort bully another immort out of the game.  Perhaps you could provide an example of a specific player/s chasing away an immort, because i cant think of one.
-
-Epic mobs were really fun with honor and some drachma.  Now some of them are leaning towards being no fun to kill.  Balance is important.  If anything consider putting the drachma back, and slow down the rate of epics loading.
-
-I was and am still really enjoying epics, because the more I participate the more I am rewarded for my efforts.  More work = more advancement.
-
-Prior quests were watch the leader or tank get the prize.  Then the rest of the group doing the work got the shaft.  The epic system works a lot better.
-
-Thanks for putting it in, and all the work that has already gone into epics.
-
-Mosaix[/quote:1gvps779]
-
-This shit cracks me up.  This comparison is whacked out.
-
-Remind me which president started the Korean war, or how about Vietnam.  Must have been our bastard republicans.  Don't let GWB turn you against conservatives.  There should be nothing wrong with wanting to work for what you got and not have to pay taxes for govt subsidy.  Or you can vote for your local Socialist candidate err, I mean Democrat.
+Remind me which president started the Korean war, or how about Vietnam. Must have been our bastard republicans. Don't let GWB turn you against conservatives. There should be nothing wrong with wanting to work for what you got and not have to pay taxes for govt subsidy. Or you can vote for your local Socialist candidate err, I mean Democrat.
 
 </div>
 
 <div class="post" data-post-id="22691" data-author="Mosaix" data-date="2008-02-13T04:07:05+00:00" data-subject="">
 
-Im a registered Independant voter.  I consider myself a moderate republican, fiscal republican perhaps, if you need to tie me down to an answer.  Arlen Specter of PA, and Susan Collins of ME are senators i like.  Pervert hard right wing senators like Larry Craig of ID (pleaded guilty to propositioning a male police officer in a bathroom), or senator David Vitter of LA (married, evanglistic man, kids, who got caught having his name pop up in escort directories for paying for sex.)  Moral majority right?  How do these guys still have jobs.  So for the pervert senators, the lies, the lack of money in my pocket, excessive spending, budget defict, crappy economy, the twisting of facts by right wing republicans all over this nation, i dislike the right wing of the republican party.  
+Im a registered Independant voter. I consider myself a moderate republican, fiscal republican perhaps, if you need to tie me down to an answer. Arlen Specter of PA, and Susan Collins of ME are senators i like. Pervert hard right wing senators like Larry Craig of ID (pleaded guilty to propositioning a male police officer in a bathroom), or senator David Vitter of LA (married, evanglistic man, kids, who got caught having his name pop up in escort directories for paying for sex.) Moral majority right? How do these guys still have jobs. So for the pervert senators, the lies, the lack of money in my pocket, excessive spending, budget defict, crappy economy, the twisting of facts by right wing republicans all over this nation, i dislike the right wing of the republican party. 
 
-Now whenever you are not a right-winger, or disagree with current goverment status quo you are a liberal democrat.  News to me, i dont particularly like liberal democrats either.  
+Now whenever you are not a right-winger, or disagree with current goverment status quo you are a liberal democrat. News to me, i dont particularly like liberal democrats either. 
 
-Perhaps thats why a candidate like McCain is winning his primaries, while the right-wing goes on hating him, and encourging neo-cons not to vote for him.  Appears a majority of americans are tired of the nonsense, and its showing up in their voting.   I dont know if he is the perfect candidate.  As a former PoW, he shows some common sense, having seen hell and lived.  
+Perhaps thats why a candidate like McCain is winning his primaries, while the right-wing goes on hating him, and encourging neo-cons not to vote for him. Appears a majority of americans are tired of the nonsense, and its showing up in their voting. I dont know if he is the perfect candidate. As a former PoW, he shows some common sense, having seen hell and lived. 
 
-So the past lets see....who can forget the photo of donald rumsfeld in the 80's shaking hands with saddam hussein during a U.S. to Iraq arms deal to help them with the Iran-Iraq war.  My personal favorite is the U.S. giving weapons to Afgansitan tribal leader Osama Bin Laden to help him fight the soviets in the 80's as well.
+So the past lets see....who can forget the photo of donald rumsfeld in the 80's shaking hands with saddam hussein during a U.S. to Iraq arms deal to help them with the Iran-Iraq war. My personal favorite is the U.S. giving weapons to Afgansitan tribal leader Osama Bin Laden to help him fight the soviets in the 80's as well.
 
-So can I thank Reagan for creating the mess we are in now with the never ending war on Terror?  I dunno, but it doesnt look real good.    
+So can I thank Reagan for creating the mess we are in now with the never ending war on Terror? I dunno, but it doesnt look real good. 
 
-Those in power during the Korean war and the Vietnam war were before i was born, and i cant see where I say they were right in their actions in my prior post.  It is also sad that those wars had to exist.  Also mentioned powers/people arent in power now, nor are we currently engaged in living those wars, so I cant really think much about them at this time.  
+Those in power during the Korean war and the Vietnam war were before i was born, and i cant see where I say they were right in their actions in my prior post. It is also sad that those wars had to exist. Also mentioned powers/people arent in power now, nor are we currently engaged in living those wars, so I cant really think much about them at this time. 
 
-I am to the point I dont care who redirects this country.  But its time to swing this ship around.  May the best candidate win the presidency and restore the USA to some level of health.
+I am to the point I dont care who redirects this country. But its time to swing this ship around. May the best candidate win the presidency and restore the USA to some level of health.
 
-I can also have an opinion on politics.  You are welcome to your own opinion as well.   We are both Americans. 
+I can also have an opinion on politics. You are welcome to your own opinion as well. We are both Americans. 
 
-Mike, I am past a tape round for an Orchestra in Japan.   Live Audition is in March in new york.  If i win I am leaving this country.  Mostly cause i feel trapped in the middle without a voice, and right-wing republicans make me want to vomit.   Ron Paul sort of had the right idea, but wasnt the right guy to get the message across to enough people.  Blue state, red state.  Hate it.  I have no clear answer for the problem, nor will i suggest one.  The correct answer will never please everyone.  I will go earn more money, have a free health plan, pension, and just learn Japanese.  Ill come back perhaps when it all gets sorted out.
+Mike, I am past a tape round for an Orchestra in Japan. Live Audition is in March in new york. If i win I am leaving this country. Mostly cause i feel trapped in the middle without a voice, and right-wing republicans make me want to vomit. Ron Paul sort of had the right idea, but wasnt the right guy to get the message across to enough people. Blue state, red state. Hate it. I have no clear answer for the problem, nor will i suggest one. The correct answer will never please everyone. I will go earn more money, have a free health plan, pension, and just learn Japanese. Ill come back perhaps when it all gets sorted out.
 
 Some video for clarification.
 
-[url:3b6b956d]http://www.youtube.com/watch?v=NDABe8AOuCQ[/url:3b6b956d]
+http://www.youtube.com/watch?v=NDABe8AOuCQ
 
 A photo to back it up.
 
-[img:3b6b956d]http://www.awitness.org/eden2003/rumsfeld_saddam.jpg[/img:3b6b956d]
+![](http://www.awitness.org/eden2003/rumsfeld_saddam.jpg)
 
 Thank you neo-con right wing.
 
@@ -514,21 +529,31 @@ So getting back to the original topic, is Alhoon a republican or a democrat...?
 
 <div class="post" data-post-id="22695" data-author="Medios" data-date="2008-02-13T15:09:05+00:00" data-subject="">
 
-Broc I agree with everything you said.  I just think its unfair to make blanket statements.  Sure there are people on both sides that are screwing up the country.  The reason people are voting for McCain is because they feel he "has a chance".  This is ignorant voting.  I don't know when it became a popularity contest instead of a battle of ideas.  I blame the media and the voters for believing everything they read/hear.  I guess if everyone felt like you we could succeed to Mexico and let them have it.  Fuck it. Give up.
+Broc I agree with everything you said. I just think its unfair to make blanket statements. Sure there are people on both sides that are screwing up the country. The reason people are voting for McCain is because they feel he "has a chance". This is ignorant voting. I don't know when it became a popularity contest instead of a battle of ideas. I blame the media and the voters for believing everything they read/hear. I guess if everyone felt like you we could succeed to Mexico and let them have it. Fuck it. Give up.
 
 </div>
 
 <div class="post" data-post-id="22701" data-author="Bazilus" data-date="2008-02-13T17:45:06+00:00" data-subject="">
 
-Allhoon Baboon
+> <strong>\*Akasha\* wrote:</strong>
+> > <strong>Tap wrote:</strong>
+> > Allhoon Baboon
+> > 
+> > 
+> > 
+> > Not sure if there is a epic/MOB that does it but a MOB that randomly successfully orders a groupmember to rescue it would be a hoot!
+> 
+> 
+> 
+> 
+> 
+> not specifically, but ill keep that in mind.
+> 
+> 
+> 
+> Aka
 
-Not sure if there is a epic/MOB that does it but a MOB that randomly successfully orders a groupmember to rescue it would be a hoot![/quote:2bax8uwc]
-
-not specifically, but ill keep that in mind.
-
-Aka[/quote:2bax8uwc]
-
-Lo Hoal knight can charm ppl and order to fight with group :) that fun, and all death(damage) procs good too :) And! i love last new proc what i see in game with death+shock. You die fast and move to well... :)
+Lo Hoal knight can charm ppl and order to fight with group <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> that fun, and all death(damage) procs good too <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> And! i love last new proc what i see in game with death+shock. You die fast and move to well... <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Good work Akasha, thx! +)
 
@@ -538,9 +563,10 @@ Bazilus the Crazy Python
 
 <div class="post" data-post-id="22702" data-author="Bazilus" data-date="2008-02-13T17:50:02+00:00" data-subject="">
 
-I had to laugh though, when I saw the tanks dead, and truth had 748 mana! That is kinda funny.[/quote:1g9wjaor]
+> <strong>jezer wrote:</strong>
+> I had to laugh though, when I saw the tanks dead, and truth had 748 mana! That is kinda funny.
 
-Why so many ppl think Truth is da best cleric? I really think it truth! :) But try use last player... :)
+Why so many ppl think Truth is da best cleric? I really think it truth! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> But try use last player... <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Bazilus the Crazy Python
 
@@ -548,15 +574,14 @@ Bazilus the Crazy Python
 
 <div class="post" data-post-id="22703" data-author="Bazilus" data-date="2008-02-13T18:02:39+00:00" data-subject="">
 
-Epic mobs were really fun with honor and some drachma.  Now some of them are leaning towards being no fun to kill.  Balance is important.  If anything consider putting the drachma back, and slow down the rate of epics loading.
+> <strong>Mosaix wrote:</strong>
+> Epic mobs were really fun with honor and some drachma. Now some of them are leaning towards being no fun to kill. Balance is important. If anything consider putting the drachma back, and slow down the rate of epics loading.
+> 
+> I was and am still really enjoying epics, because the more I participate the more I am rewarded for my efforts. More work = more advancement.
+> 
+> Prior quests were watch the leader or tank get the prize. Then the rest of the group doing the work got the shaft. The epic system works a lot better.
 
-I was and am still really enjoying epics, because the more I participate the more I am rewarded for my efforts.  More work = more advancement.
-
-Prior quests were watch the leader or tank get the prize.  Then the rest of the group doing the work got the shaft.  The epic system works a lot better.
-
-[/quote:aqew4yvh]
-
-About removed reward, think it break ppl from epics.  Put dr reward on all epics, but add % for 0 dr reward after kill... For luck. Hmm... Like 20-50% for 0 reward or so... Up to Imms. +)
+About removed reward, think it break ppl from epics. Put dr reward on all epics, but add % for 0 dr reward after kill... For luck. Hmm... Like 20-50% for 0 reward or so... Up to Imms. +)
 
 Bazilus the Crazy Python
 
@@ -564,9 +589,9 @@ Bazilus the Crazy Python
 
 <div class="post" data-post-id="22704" data-author="Akasha" data-date="2008-02-13T18:06:21+00:00" data-subject="">
 
-ok, if you're on this thread writing about epic stuff, know i quit reading it a long time ago once the subject once again changed to politics.   I'm a politically attentive person too, and i keep up with whats going on.  But for the love of everything and anything, make a POLITICS only thread and make your statements there.  Too many threads as of late have become lost in poltical discussions with no relation to the actual thread.
+ok, if you're on this thread writing about epic stuff, know i quit reading it a long time ago once the subject once again changed to politics. I'm a politically attentive person too, and i keep up with whats going on. But for the love of everything and anything, make a POLITICS only thread and make your statements there. Too many threads as of late have become lost in poltical discussions with no relation to the actual thread.
 
-I'm almost to the point of deleting non-thread related articles posted in random threads.  I don't want to do that, but it borderlines on rediculous sometimes.
+I'm almost to the point of deleting non-thread related articles posted in random threads. I don't want to do that, but it borderlines on rediculous sometimes.
 
 Monitor yourself so I dont have to, please.
 
@@ -584,7 +609,7 @@ not that the views aren't valid..just wrong forum for expression I guess?
 
 <div class="post" data-post-id="22706" data-author="Autolycos" data-date="2008-02-13T20:35:56+00:00" data-subject="">
 
-indeed.  unless you wanted to turn one of the Epic mobs into Hillary... then I would love to help destroy that one   :roll:
+indeed. unless you wanted to turn one of the Epic mobs into Hillary... then I would love to help destroy that one <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -596,17 +621,17 @@ isn't there already a harpy in ET?
 
 <div class="post" data-post-id="22710" data-author="Autolycos" data-date="2008-02-13T21:21:06+00:00" data-subject="">
 
-[b:blo9kt12]RAAAAWWWWRRR!!!![/b:blo9kt12][/color:blo9kt12][/size:blo9kt12]
+<strong>RAAAAWWWWRRR!!!!</strong>
 
-[img:blo9kt12]http://www.xgenco.com/stuff/queen_Alien.jpg[/img:blo9kt12]
+![](http://www.xgenco.com/stuff/queen_Alien.jpg)
 
 </div>
 
 <div class="post" data-post-id="22711" data-author="jezer" data-date="2008-02-13T22:30:35+00:00" data-subject="">
 
-[img:1xcuox6w]http://firstent.tripod.com/blog/wet_cat.jpg[/img:1xcuox6w]
+![](http://firstent.tripod.com/blog/wet_cat.jpg)
 
-Akasha Cat says 'Stay Ons Topic!'[/size:1xcuox6w]
+Akasha Cat says 'Stay Ons Topic!'
 
 </div>
 
@@ -620,19 +645,27 @@ cute
 
 <div class="post" data-post-id="22713" data-author="Medios" data-date="2008-02-13T22:40:02+00:00" data-subject="">
 
-ok, if you're on this thread writing about epic stuff, know i quit reading it a long time ago once the subject once again changed to politics.   I'm a politically attentive person too, and i keep up with whats going on.  But for the love of everything and anything, make a POLITICS only thread and make your statements there.  Too many threads as of late have become lost in poltical discussions with no relation to the actual thread.
+> <strong>\*Akasha\* wrote:</strong>
+> ok, if you're on this thread writing about epic stuff, know i quit reading it a long time ago once the subject once again changed to politics. I'm a politically attentive person too, and i keep up with whats going on. But for the love of everything and anything, make a POLITICS only thread and make your statements there. Too many threads as of late have become lost in poltical discussions with no relation to the actual thread.
+> 
+> 
+> 
+> I'm almost to the point of deleting non-thread related articles posted in random threads. I don't want to do that, but it borderlines on rediculous sometimes.
+> 
+> 
+> 
+> Monitor yourself so I dont have to, please.
+> 
+> 
+> 
+> Akasha
 
-I'm almost to the point of deleting non-thread related articles posted in random threads.  I don't want to do that, but it borderlines on rediculous sometimes.
+I always make a new thread about political stuff. However when Broc uses every thread as some kind of blanket attack against one group or another I am going to speak out. Here is the statement that started it.
 
-Monitor yourself so I dont have to, please.
+> <strong>\*Mosaix\* wrote:</strong>
+> Dont confuse or manipulate to prove points. We have republicans for that.
 
-Akasha[/quote:3owmuw3y]
-
-I always make a new thread about political stuff.  However when Broc uses every thread as some kind of blanket attack against one group or another I am going to speak out.  Here is the statement that started it.
-
-Dont confuse or manipulate to prove points. We have republicans for that.[/quote:3owmuw3y]
-
-What if I said that we got musicians to blame for homosexuality.  This kind of talk is just venom.  If you want to lump everyone into a category then allude to some ignorance thats fine.  I will stop responding to stupid sh*t.
+What if I said that we got musicians to blame for homosexuality. This kind of talk is just venom. If you want to lump everyone into a category then allude to some ignorance thats fine. I will stop responding to stupid sh\*t.
 
 </div>
 
@@ -682,15 +715,16 @@ Your blood freezes as you hear Lucifer, the dark angel's death cry.
 
 Stryx gets gold coins from the corpse of Lucifer, the dark angel that's on the ground.
 
-Stryx splits 2500000 coins.  Your share is 208333 coins.
+Stryx splits 2500000 coins. Your share is 208333 coins.
 
-So I end up losing 15m xp in the end.  How come the xp I get caps at 5m, yet the xp I lose exceeds it and then takes more.  Just wondering.
+So I end up losing 15m xp in the end. How come the xp I get caps at 5m, yet the xp I lose exceeds it and then takes more. Just wondering.
 
 </div>
 
 <div class="post" data-post-id="22720" data-author="*juggleblood*" data-date="2008-02-14T06:00:01+00:00" data-subject="">
 
-I will stop responding to stupid sh*t.[/quote:27k3zaxc]
+> <strong>Medios. wrote:</strong>
+> I will stop responding to stupid sh\*t.
 
 when?
 
@@ -700,11 +734,11 @@ snicker
 
 <div class="post" data-post-id="22725" data-author="Mosaix" data-date="2008-02-15T05:40:12+00:00" data-subject="">
 
-My first comment was more of a joke.   Though it has some truth.  
+My first comment was more of a joke. Though it has some truth. 
 
-Ill make a new thread next time as you like Akasha.  Your right to request that.   Please let it blanket all political postings, by all posters.  
+Ill make a new thread next time as you like Akasha. Your right to request that. Please let it blanket all political postings, by all posters. 
 
-Anyway the epics are fun, and thank you for putting them in.  It did rejuvenate my desire to play Sloth3.   If I get the energy to log on in the future sometime, Im sure ill enjoy them again. 
+Anyway the epics are fun, and thank you for putting them in. It did rejuvenate my desire to play Sloth3. If I get the energy to log on in the future sometime, Im sure ill enjoy them again. 
 
 See you all in a long time from now, have fun.
 
@@ -712,6 +746,6 @@ Arigato gozaimasu
 
 Dewa, nochihodo
 
-[img:2yesn7ho]http://www.magicaljapan.co.uk/Images/japan1.jpg[/img:2yesn7ho]
+![](http://www.magicaljapan.co.uk/Images/japan1.jpg)
 
 </div>

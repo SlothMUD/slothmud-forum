@@ -12,17 +12,17 @@ post_count: 45
 
 <div class="post" data-post-id="20793" data-author="Mosaix" data-date="2007-10-12T12:02:01+00:00" data-subject="Get ready">
 
-since the mud game website is allowed to be a political forum blog, I stand up on my own soapbox and will post a tasty dose of reality when I can.  
+since the mud game website is allowed to be a political forum blog, I stand up on my own soapbox and will post a tasty dose of reality when I can. 
 
-[url:215ydakm]http://news.yahoo.com/s/afp/20071010/od_afp/chinawealthbusinessbillionaireshurun;_ylt=AkCjTJ8Lynq8.2o4hCsEa.0uQE4F[/url:215ydakm]
+http://news.yahoo.com/s/afp/20071010/od_afp/chinawealthbusinessbillionaireshurun;_ylt=AkCjTJ8Lynq8.2o4hCsEa.0uQE4F
 
 </div>
 
 <div class="post" data-post-id="20794" data-author="Mosaix" data-date="2007-10-12T12:08:12+00:00" data-subject="">
 
-While having some nice platform issues.  He is an old school fiscal Republican of which many have been voted out of office by the hard right-wing of the party.  The current Republicans in power would never work with him, even if he did manage to win his primary.  Unfortunately he is also another Republican from Texas.  And im about full-up and done with those.   Its another wolf in sheep clothing.
+While having some nice platform issues. He is an old school fiscal Republican of which many have been voted out of office by the hard right-wing of the party. The current Republicans in power would never work with him, even if he did manage to win his primary. Unfortunately he is also another Republican from Texas. And im about full-up and done with those. Its another wolf in sheep clothing.
 
-[url:cencn1uf]http://www.ronpaul2008.com/issues/[/url:cencn1uf]
+http://www.ronpaul2008.com/issues/
 
 </div>
 
@@ -32,7 +32,7 @@ The spokeswoman for the ideals of the Republican party speaks again.
 
 Thank you Ann Coulter for further showing what you are.
 
-[url:27jw0dl6]http://www.foxnews.com/story/0,2933,301216,00.html[/url:27jw0dl6]
+http://www.foxnews.com/story/0,2933,301216,00.html
 
 </div>
 
@@ -42,23 +42,26 @@ speaking of that whore Ann Coulter....
 
 If you want a more accurate account of her actions, check this out..
 
-[url:17sv061i]http://youtube.com/watch?v=KmLJDrsaJmk[/url:17sv061i]
+http://youtube.com/watch?v=KmLJDrsaJmk
 
 </div>
 
 <div class="post" data-post-id="20797" data-author="Medios" data-date="2007-10-12T13:01:19+00:00" data-subject="">
 
-While having some nice platform issues.  He is an old school fiscal Republican of which many have been voted out of office by the hard right-wing of the party.  The current Republicans in power would never work with him, even if he did manage to win his primary.  Unfortunately he is also another Republican from Texas.  And im about full-up and done with those.   Its another wolf in sheep clothing.
+> <strong>Mosaix wrote:</strong>
+> While having some nice platform issues. He is an old school fiscal Republican of which many have been voted out of office by the hard right-wing of the party. The current Republicans in power would never work with him, even if he did manage to win his primary. Unfortunately he is also another Republican from Texas. And im about full-up and done with those. Its another wolf in sheep clothing.
+> 
+> 
+> 
+> http://www.ronpaul2008.com/issues/
 
-[url:y21n6l3o]http://www.ronpaul2008.com/issues/[/url:y21n6l3o][/quote:y21n6l3o]
+Comparing Ron Paul to George W. Bush just blatantly shows your political ignorance. Ron Paul was a libertarian for many years and even ran for president as one in 1988. You are correct he is currently a fiscal Republican. Paul joined the Republican party due to the total bias of the media during party politics. The man has the only real understanding of the Constitution. He does not want to strip your rights every day under some "guise" of liberty. Ron Paul believes in free markets, states rights, government and personal responsibility, gun rights, right to personal property(this right was lost a few years ago). This includes not going to other countries to spend 720 million dollars a day fighting a country that was no threat to our security. 
 
-Comparing Ron Paul to George W. Bush just blatantly shows your political ignorance.  Ron Paul was a libertarian for many years and even ran for president as one in 1988.  You are correct he is currently a fiscal Republican.  Paul joined the Republican party due to the total bias of the media during party politics.  The man has the only real understanding of the Constitution.  He does not want to strip your rights every day under some "guise" of liberty.  Ron Paul believes in free markets, states rights, government and personal responsibility, gun rights, right to personal property(this right was lost a few years ago).  This includes not going to other countries to spend 720 million dollars a day fighting a country that was no threat to our security.  
-
-If you haven't noticed the Democrat party is notorious for making our government bigger.  They believe that everything can be solved with money.  Im here to say no it cannot.  The best way to state it is this
+If you haven't noticed the Democrat party is notorious for making our government bigger. They believe that everything can be solved with money. Im here to say no it cannot. The best way to state it is this
 
 "You can't just throw money at a problem."
 
-Increasing federal spending only puts more burden on the decifit and the interest that it carries.  We currently owe over 8 trillion dollars in national debt.  Who will pay for this?  Will our children starve to death while they are taxed at 70-80% just to pay past due loans?  The national debt has skyrocketed since Jimmy Carter and the beginning of the Council on Foreign Relations control of our government.  Our balls are in the hands of the bankers and if we do not comply they will try to destroy us and our economy.  Wake the Fuck up.
+Increasing federal spending only puts more burden on the decifit and the interest that it carries. We currently owe over 8 trillion dollars in national debt. Who will pay for this? Will our children starve to death while they are taxed at 70-80% just to pay past due loans? The national debt has skyrocketed since Jimmy Carter and the beginning of the Council on Foreign Relations control of our government. Our balls are in the hands of the bankers and if we do not comply they will try to destroy us and our economy. Wake the Fuck up.
 
 Ron Paul 08
 
@@ -68,17 +71,19 @@ Ron Paul 08
 
 Mosaix wrote:
 
-[quote:30dlxilo]since the mud game website is allowed to be a political forum blog, I stand up on my own soapbox and will post a tasty dose of reality when I can.[/quote:30dlxilo]
+> <strong>Quote:</strong>
+> since the mud game website is allowed to be a political forum blog, I stand up on my own soapbox and will post a tasty dose of reality when I can.
 
 Then he followed up with:
 
-[quote:30dlxilo]http://news.yahoo.com/s/afp/20071010/od_afp/chinawealthbusinessbillionaireshurun;_ylt=AkCjTJ8Lynq8.2o4hCsEa.0uQE4F[/quote:30dlxilo]
+> <strong>Quote:</strong>
+> http://news.yahoo.com/s/afp/20071010/od_afp/chinawealthbusinessbillionaireshurun;_ylt=AkCjTJ8Lynq8.2o4hCsEa.0uQE4F
 
-Dude, do you not pay attention? This falls under thread forum [u:30dlxilo] If you want to visit China, do it soon :)
+Dude, do you not pay attention? This falls under thread forum If you want to visit China, do it soon <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Politics smolitics, anyone can based an opinion of plus and cons but until shit goes down, its just all bark. Here's a thought, live your life like its the last day and you'll do just fine.
 
- 8) [/u:30dlxilo]
+ <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -92,9 +97,9 @@ And as far as Dems making the govt bigger, the Reps had control of everything un
 
 <div class="post" data-post-id="20845" data-author="Medios" data-date="2007-10-14T02:06:52+00:00" data-subject="">
 
-[img:17xer5ha]http://www.brillig.com/debt_clock/history.gif[/img:17xer5ha]
+![](http://www.brillig.com/debt_clock/history.gif)
 
-See Bill Clinton did reduce federal spending and he did create a balanced budget.  But here is the catch.  The deficit did not reduce any at all.  Do you have any idea what the interest on 8 trillion dollars is.  You also have to think about how the money for Social Security is stolen and used to create an illusion of lower debt.  The benefits must still be paid and it is almost like the govt is paying interest to itself.  Don't fool yourself Bill Clinton is also a member of the Council of Foreign Relations.  He also signed executive orders removing 50% of executive oversight and he also had someone steal documents from the archives (Sandy Berger).  These things together helped G W Bush to create the military state.
+See Bill Clinton did reduce federal spending and he did create a balanced budget. But here is the catch. The deficit did not reduce any at all. Do you have any idea what the interest on 8 trillion dollars is. You also have to think about how the money for Social Security is stolen and used to create an illusion of lower debt. The benefits must still be paid and it is almost like the govt is paying interest to itself. Don't fool yourself Bill Clinton is also a member of the Council of Foreign Relations. He also signed executive orders removing 50% of executive oversight and he also had someone steal documents from the archives (Sandy Berger). These things together helped G W Bush to create the military state.
 
 </div>
 
@@ -116,27 +121,32 @@ Alias
 
 Alias wrote:
 
-[quote:qauy948c]but I do remember paying 99cents a gallon for gas,[/quote:qauy948c]
+> <strong>Quote:</strong>
+> but I do remember paying 99cents a gallon for gas,
 
 yes, in the lower to mid-eighties when Reagan was in da house
 
-[quote:qauy948c]having a job[/quote:qauy948c]
+> <strong>Quote:</strong>
+> having a job
 
-People,not you directly, spend more energy making excuses about not being able to find a job than actually going out and getting one. And that was under Reagan,Bush Sr.,Cliton and Dubya. I have yet to see drive into town without at least 1  Help Wanted sign in a window. Maybe it wasn't the ideal job for whatever reason but it was a job. Which brings me to point #3
+People,not you directly, spend more energy making excuses about not being able to find a job than actually going out and getting one. And that was under Reagan,Bush Sr.,Cliton and Dubya. I have yet to see drive into town without at least 1 Help Wanted sign in a window. Maybe it wasn't the ideal job for whatever reason but it was a job. Which brings me to point #3
 
-[quote:qauy948c]taking the 15 percent pay cut right before I was laid off because the economy went in the shitter and corporate greed[/quote:qauy948c]
+> <strong>Quote:</strong>
+> taking the 15 percent pay cut right before I was laid off because the economy went in the shitter and corporate greed
 
 Dude this is America, nothing stops anyone from setting up his own business if he has the mindset and heart to do so. Many men and women have said screw it with what they consider poor wages and set off on their own and made it. True alot of them have failed due to poor planning etc etc BUT how many more, went on to make it on their own terms? I can appreciate hanging on to a crappy job because you might have time invested,insurance,401k etc etc but c'mon. Life is too short. If you have the mindset that your gonna make it whether it's working for yourself or someone else, there is NO excuse to be miserable.
 
 In conclusion,
 
-[quote:qauy948c]Forgive me for thinking those were better days.[/quote:qauy948c]
+> <strong>Quote:</strong>
+> Forgive me for thinking those were better days.
 
 Forgiven, and I agree those were better days. But not because of the economy. I'd never thought myself growing up that one day I'd have to explain to my own kids why people want to kill them because of your religion. That people want to hurt you because you disagree with them. That the world now is so unsafe that you really can't trust your neighbor and even though your kids play together, you keep an extra watchful eye out just to see who might be trying to influence/hurt your family.
 
-[quote:qauy948c]the system is broken and I'm not about to try and fix it, I'm too old , the machine has won.[/quote:qauy948c]
+> <strong>Quote:</strong>
+> the system is broken and I'm not about to try and fix it, I'm too old , the machine has won.
 
-I feel ya pain. If we ever meet, I'm buying the first round. 8)
+I feel ya pain. If we ever meet, I'm buying the first round. <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -168,7 +178,7 @@ field is right next to the house.. all you can eat.
 
 <div class="post" data-post-id="20860" data-author="Avatar" data-date="2007-10-15T14:38:32+00:00" data-subject="Mudders in IN">
 
-Where are you Alias?  We should meet to grill up this food you mention before it gets cold.
+Where are you Alias? We should meet to grill up this food you mention before it gets cold.
 
 Charles
 
@@ -188,9 +198,9 @@ I'm in a little podunk town in between 2 other podunk towns in north-east Indian
 
 <div class="post" data-post-id="20864" data-author="Weasel" data-date="2007-10-15T17:19:12+00:00" data-subject="">
 
-one of the towns called Sh*tsplat, Indiana?
+one of the towns called Sh\*tsplat, Indiana?
 
-corm! corm! *leaps around all excited*
+corm! corm! \*leaps around all excited\*
 
 </div>
 
@@ -198,15 +208,16 @@ corm! corm! *leaps around all excited*
 
 Alias wrote:
 
-[quote:11jl7a5p]I'm in a little podunk town in between 2 other podunk towns in north-east Indiana.[/quote:11jl7a5p]
+> <strong>Quote:</strong>
+> I'm in a little podunk town in between 2 other podunk towns in north-east Indiana.
 
-Podunkadonk? Your in-between 2 pokdunkadonks? Ok, I'm gonna plan next year vacation!  8)
+Podunkadonk? Your in-between 2 pokdunkadonks? Ok, I'm gonna plan next year vacation! <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="20879" data-author="Yinao" data-date="2007-10-16T04:32:58+00:00" data-subject="">
 
-[img:2abpxw23]http://a978.ac-images.myspacecdn.com/images01/6/l_d23dc910ea9efa1da5e049d946aef3d1.jpg[/img:2abpxw23]
+![](http://a978.ac-images.myspacecdn.com/images01/6/l_d23dc910ea9efa1da5e049d946aef3d1.jpg)
 
 </div>
 
@@ -214,7 +225,7 @@ Podunkadonk? Your in-between 2 pokdunkadonks? Ok, I'm gonna plan next year vacat
 
 Take the time to watch this series. You will burn about an hour.
 
-[<LINK_TEXT text="http://www.youtube.com/watch?v=cy-fD78z ... ed&search=">http://www.youtube.com/watch?v=cy-fD78zyvI&mode=related&search=</LINK_TEXT>](http://www.youtube.com/watch?v=cy-fD78zyvI&mode=related&search=)
+[http://www.youtube.com/watch?v=cy-fD78zyvI&mode=related&search=](http://www.youtube.com/watch?v=cy-fD78zyvI&mode=related&search=)
 
 When you are done you will realize how money is actually created and why Debt is vital to the economy. Not just in America but world wide. The more debt people get in the more money there is in the economy and there is never enough money in the pipeline to pay off the debt because the amount of money in the pipeline can't be more than the amount of debt. 
 
@@ -226,7 +237,8 @@ It should be criminal. It used to be immoral. It is neither now and the Banks wi
 
 <div class="post" data-post-id="20930" data-author="13" data-date="2007-10-17T22:16:08+00:00" data-subject="">
 
-[quote:3kge9nlf]and the Banks win every time.[/quote:3kge9nlf]
+> <strong>Quote:</strong>
+> and the Banks win every time.
 
 you got that right buddy
 
@@ -250,15 +262,16 @@ Yah, virtually all of the imms are high-ranking pentagon employees - in fact, th
 
 <div class="post" data-post-id="20971" data-author="Mosaix" data-date="2007-10-22T03:44:01+00:00" data-subject="">
 
-Was funny to read Tap's last post here, and then find this article in the news not 30 seconds later.  I do agree the flying of nukes makes no sense pre or post 9/11.  Each warhead and i think they said 6 were mounted on the outside of the plane in 2, 3 clusters of bombs.  It flew from north dakota to louisiana.  
+Was funny to read Tap's last post here, and then find this article in the news not 30 seconds later. I do agree the flying of nukes makes no sense pre or post 9/11. Each warhead and i think they said 6 were mounted on the outside of the plane in 2, 3 clusters of bombs. It flew from north dakota to louisiana. 
 
-[url:2ylnid5l]http://www.cnn.com/2007/POLITICS/10/21/cheney.iran.ap/index.html[/url:2ylnid5l]
+http://www.cnn.com/2007/POLITICS/10/21/cheney.iran.ap/index.html
 
 </div>
 
 <div class="post" data-post-id="20972" data-author="Autolycos" data-date="2007-10-22T12:57:46+00:00" data-subject="">
 
-Yah, virtually all of the imms are high-ranking pentagon employees - in fact, the whole mud is a virtual testing ground for certain mind control techniques that the evil overlords are using to stop us from thinking too much (seems to have that effect on me, anyway)[/quote:m8cgwkhf]
+> <strong>tincts wrote:</strong>
+> Yah, virtually all of the imms are high-ranking pentagon employees - in fact, the whole mud is a virtual testing ground for certain mind control techniques that the evil overlords are using to stop us from thinking too much (seems to have that effect on me, anyway)
 
 pretty much...
 
@@ -266,17 +279,20 @@ pretty much...
 
 <div class="post" data-post-id="20973" data-author="Medios" data-date="2007-10-22T20:32:23+00:00" data-subject="">
 
-Was funny to read Tap's last post here, and then find this article in the news not 30 seconds later.  I do agree the flying of nukes makes no sense pre or post 9/11.  Each warhead and i think they said 6 were mounted on the outside of the plane in 2, 3 clusters of bombs.  It flew from north dakota to louisiana.  
-
-[url:uaimiez2][<LINK_TEXT text="http://www.cnn.com/2007/POLITICS/10/21/ ... index.html">http://www.cnn.com/2007/POLITICS/10/21/cheney.iran.ap/index.html</LINK_TEXT>](http://www.cnn.com/2007/POLITICS/10/21/cheney.iran.ap/index.html)[/url:uaimiez2][/quote:uaimiez2]
+> <strong>Mosaix wrote:</strong>
+> Was funny to read Tap's last post here, and then find this article in the news not 30 seconds later. I do agree the flying of nukes makes no sense pre or post 9/11. Each warhead and i think they said 6 were mounted on the outside of the plane in 2, 3 clusters of bombs. It flew from north dakota to louisiana. 
+> 
+> 
+> 
+> [url=http://www.cnn.com/2007/POLITICS/10/21/cheney.iran.ap/index.html]http://www.cnn.com/2007/POLITICS/10/21/cheney.iran.ap/index.html
 
 Dear Broc,
 
-  The propaganda machine to start war with Iran has been turning full on for several years now.  If you just now picked up on it, I'm sorry.  Read this and tell me what you think.
+ The propaganda machine to start war with Iran has been turning full on for several years now. If you just now picked up on it, I'm sorry. Read this and tell me what you think.
 
-[<LINK_TEXT text="http://www.worldtribune.com/worldtribun ... _10_22.asp">http://www.worldtribune.com/worldtribune/WTARC/2007/me_iran_10_22.asp</LINK_TEXT>](http://www.worldtribune.com/worldtribune/WTARC/2007/me_iran_10_22.asp)
+[http://www.worldtribune.com/worldtribune/WTARC/2007/me_iran_10_22.asp](http://www.worldtribune.com/worldtribune/WTARC/2007/me_iran_10_22.asp)
 
-The U.S. has been slowly chipping away at the legality of bombing Iran.  Overnight our military could reduce them to 1970s.  However that does not make money for the military machine so expect another long one boys.  If we(the public) do not go along they will just blow up one of our own cities, then say "See I told you so."  Get Ready fo sho!!
+The U.S. has been slowly chipping away at the legality of bombing Iran. Overnight our military could reduce them to 1970s. However that does not make money for the military machine so expect another long one boys. If we(the public) do not go along they will just blow up one of our own cities, then say "See I told you so." Get Ready fo sho!!
 
 </div>
 
@@ -284,9 +300,9 @@ The U.S. has been slowly chipping away at the legality of bombing Iran.  Overnig
 
 .
 
-I have to agree with you Mike....  As you have stated, our own government has done everything *but* dress someone up in a turban with a sign around their neck saying (HI! i'm from Iran and I am here to blow up your family!)  It is sad that the collective of the states is to be mindless drones believing the lies pumped out by the media.  
+I have to agree with you Mike.... As you have stated, our own government has done everything \*but\* dress someone up in a turban with a sign around their neck saying (HI! i'm from Iran and I am here to blow up your family!) It is sad that the collective of the states is to be mindless drones believing the lies pumped out by the media. 
 
-[b:cfsait98]You want to stop world terrorism?  [/b:cfsait98]
+<strong>You want to stop world terrorism?</strong> 
 
 Arrest George Bush...
 
@@ -294,7 +310,7 @@ Arrest George Bush...
 
 <div class="post" data-post-id="20975" data-author="Weasel" data-date="2007-10-22T20:42:00+00:00" data-subject="">
 
-Auto, can I have that tinfoil hat again please? :D
+Auto, can I have that tinfoil hat again please? <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -310,19 +326,19 @@ Ok, groups back up and running.
 
 Dear Mike,
 
-I thank you for your concern mike, you once again make a blindsided attempt to throw me under the bus.  
+I thank you for your concern mike, you once again make a blindsided attempt to throw me under the bus. 
 
-I was making a simple reference to reading tap's post, and then reading the article on CNN.  The timing of reading the 2 were interesting.  
+I was making a simple reference to reading tap's post, and then reading the article on CNN. The timing of reading the 2 were interesting. 
 
-No where does my post say I dont understand the desire for the goverment to go to war with Iran, and the past attempts of that concept.  
+No where does my post say I dont understand the desire for the goverment to go to war with Iran, and the past attempts of that concept. 
 
-I am aware of it and have been.  
+I am aware of it and have been. 
 
 Let all hope Ron Paul will step in and save the day right Mike?
 
 Ron Paul(Republican-Texas)
 
-China will buy the US before anyone can turn this country around.  So save your time and energy and start learing mandarin.
+China will buy the US before anyone can turn this country around. So save your time and energy and start learing mandarin.
 
 </div>
 
@@ -336,11 +352,11 @@ I agree with Jason sending Bush to an international court would be a healthy sta
 
 That's an interesting link, thanks for posting Mahkra.
 
-While they start off with a good introduction, I don't think their later points are entirely supported.  Into the third episode, they start building on their earlier topics to start making their case.  The problem is, they still present the later information as fact when it's not entirely supported.
+While they start off with a good introduction, I don't think their later points are entirely supported. Into the third episode, they start building on their earlier topics to start making their case. The problem is, they still present the later information as fact when it's not entirely supported.
 
-As an example, they say that because the interest exceeds the principle, more debt must be created to pay the interest.  That's only true at one specific point in time.  Most loans cover some period of time though.  If I get a house loan, I expect to pay the interest over the next 15 years.  I'm not getting a second loan to pay the interest.  The interest comes from my income over those years.
+As an example, they say that because the interest exceeds the principle, more debt must be created to pay the interest. That's only true at one specific point in time. Most loans cover some period of time though. If I get a house loan, I expect to pay the interest over the next 15 years. I'm not getting a second loan to pay the interest. The interest comes from my income over those years.
 
-It's nice and interesting to see people arguing for finance reform, but I'd rather seem them present their stance as a stance.  The way they present this as educational material, they're misrepresenting themselves.
+It's nice and interesting to see people arguing for finance reform, but I'd rather seem them present their stance as a stance. The way they present this as educational material, they're misrepresenting themselves.
 
 These are my opinions, not meant to be educational in any way.
 
@@ -352,13 +368,13 @@ Charles
 
 .
 
-[b:1thezz7e]And for all the "Ginger Nation" out there..  
+<strong>And for all the "Ginger Nation" out there.. </strong>
 
-Ron Paul wants you too![/b:1thezz7e][/color:1thezz7e]
+<strong>Ron Paul wants you too!</strong>
 
-[url:1thezz7e]http://www.redheads4ronpaul.net[/url:1thezz7e]
+http://www.redheads4ronpaul.net
 
-[img:1thezz7e]http://www.xgenco.com/RHFRP/RH4RP.jpg[/img:1thezz7e]
+![](http://www.xgenco.com/RHFRP/RH4RP.jpg)
 
 </div>
 
@@ -368,15 +384,15 @@ Actually it's not the interest that excedes the principal. it's the fact that fo
 
 The bottom line is that the money you think you have is in reality worth nothing. It's only worth something becasue you think it is. 
 
-The banks have a win/win situation becasue they only need to come up with 1/9th of what they can lend for for and those loans are usually placed against something material so that even if a person defaults on a loan the bank gets the item that the loan was used for and they get it for a loss of 1/9th it's value.  So the whole arguments about how a bank should be able to charge interest is BS. They are taking very little risk of loss when they make a loan. Hell it's profitable the second you sign on the dotted line. 
+The banks have a win/win situation becasue they only need to come up with 1/9th of what they can lend for for and those loans are usually placed against something material so that even if a person defaults on a loan the bank gets the item that the loan was used for and they get it for a loss of 1/9th it's value. So the whole arguments about how a bank should be able to charge interest is BS. They are taking very little risk of loss when they make a loan. Hell it's profitable the second you sign on the dotted line. 
 
-The only risk is when the original depositors show up and want thier cash. then you get a run and it's a bad deal; so as long as the banks/government can fake you out too keep you from showing up and demanding cash it keeps on working.  If you don't want to play in this system simply don't borrow money. Simple.
+The only risk is when the original depositors show up and want thier cash. then you get a run and it's a bad deal; so as long as the banks/government can fake you out too keep you from showing up and demanding cash it keeps on working. If you don't want to play in this system simply don't borrow money. Simple.
 
 </div>
 
 <div class="post" data-post-id="21061" data-author="tincts" data-date="2007-10-25T20:13:57+00:00" data-subject="">
 
-We should all plan focussed bank runs.  Once every six months the whole nation asks for their deposits back from one of the banks.  *That'll* show up the weakness in the fractional reserve system :)
+We should all plan focussed bank runs. Once every six months the whole nation asks for their deposits back from one of the banks. \*That'll\* show up the weakness in the fractional reserve system <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -390,7 +406,7 @@ It's the end of the world as we know it and I'm doing fine.
 
 <div class="post" data-post-id="21072" data-author="tincts" data-date="2007-10-26T01:08:07+00:00" data-subject="">
 
-UK had a bank rush only last month.  Not sure what the actual issues are, but a bank that started disallowing people from withdrawing would be screwed anyway - no way in hell people will deposit any more.
+UK had a bank rush only last month. Not sure what the actual issues are, but a bank that started disallowing people from withdrawing would be screwed anyway - no way in hell people will deposit any more.
 
 </div>
 
@@ -402,17 +418,19 @@ I'm sure this was around the Great Depression era. People were taking guns to th
 
 <div class="post" data-post-id="21101" data-author="Avatar" data-date="2007-10-26T13:25:44+00:00" data-subject="">
 
-[quote:23xqyy1d]The bottom line is that the money you think you have is in reality worth nothing. It's only worth something becasue you think it is.[/quote:23xqyy1d]
+> <strong>Quote:</strong>
+> The bottom line is that the money you think you have is in reality worth nothing. It's only worth something becasue you think it is.
 
-I agree with you there Mahkra.  It's a confidence scheme for sure.  The only thing I'd disagree with is that my money isn't worth anything based on what I think it's worth.  It's worth what OTHER people think it's worth.  It's only when you spend the money that it even matters what it's worth.
+I agree with you there Mahkra. It's a confidence scheme for sure. The only thing I'd disagree with is that my money isn't worth anything based on what I think it's worth. It's worth what OTHER people think it's worth. It's only when you spend the money that it even matters what it's worth.
 
-Regarding the bank runs, that's why banks now say 'member, FDIC'.  The FDIC was created in 1933 as a response to the depression.  Up to $100k of your bank account is federally insured to 100%.  As long as the US government is around, money in low-risk investments is, well, low-risk.
+Regarding the bank runs, that's why banks now say 'member, FDIC'. The FDIC was created in 1933 as a response to the depression. Up to $100k of your bank account is federally insured to 100%. As long as the US government is around, money in low-risk investments is, well, low-risk.
 
 </div>
 
 <div class="post" data-post-id="21109" data-author="Tap" data-date="2007-10-26T18:14:27+00:00" data-subject="">
 
-[quote:3poigg8g]As long as the US government is around[/quote:3poigg8g]
+> <strong>Quote:</strong>
+> As long as the US government is around
 
 Exactly.
 
@@ -420,19 +438,19 @@ Exactly.
 
 <div class="post" data-post-id="21210" data-author="Mosaix" data-date="2007-11-05T17:51:32+00:00" data-subject="">
 
-[url:1zz6k3fx]http://money.cnn.com/2007/11/05/news/international/bc.as.fin.china.petrochina.ap/index.htm?postversion=2007110507[/url:1zz6k3fx]
+http://money.cnn.com/2007/11/05/news/international/bc.as.fin.china.petrochina.ap/index.htm?postversion=2007110507
 
 </div>
 
 <div class="post" data-post-id="21213" data-author="Alberich" data-date="2007-11-05T21:45:30+00:00" data-subject="">
 
-[url:6n6uqcgk]http://english.peopledaily.com.cn/90001/90776/90881/6296732.html[/url:6n6uqcgk]
+http://english.peopledaily.com.cn/90001/90776/90881/6296732.html
 
 </div>
 
 <div class="post" data-post-id="21749" data-author="Mosaix" data-date="2007-12-20T06:24:25+00:00" data-subject="">
 
-[url:v49oq62h]http://money.cnn.com/2007/12/19/news/newsmakers/fannie.ap/index.htm?postversion=2007121917[/url:v49oq62h]
+http://money.cnn.com/2007/12/19/news/newsmakers/fannie.ap/index.htm?postversion=2007121917
 
 </div>
 
@@ -440,13 +458,13 @@ Exactly.
 
 Not as interesting as the prior post, but good to read this one if you havent read up on the write-downs, and buying of debt by china.
 
-[url:3r69dmko]http://money.cnn.com/2007/12/19/news/companies/morgan_stanley_earnings/index.htm?postversion=2007121915[/url:3r69dmko]
+http://money.cnn.com/2007/12/19/news/companies/morgan_stanley_earnings/index.htm?postversion=2007121915
 
 </div>
 
 <div class="post" data-post-id="21762" data-author="Tap" data-date="2007-12-22T19:54:01+00:00" data-subject="">
 
-FBI aims for world's largest biometrics database[/size:lecczsxm]
+FBI aims for world's largest biometrics database
 
  WASHINGTON (Reuters) - The FBI is embarking on a $1 billion project to build the world's largest computer database of biometrics to give the government more ways to identify people at home and abroad, the Washington Post reported on Friday.
 

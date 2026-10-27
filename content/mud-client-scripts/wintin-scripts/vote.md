@@ -18,13 +18,13 @@ The Mud Connector (TMC) has a long list of muds - now you can vote for your favo
 
 The syntax is: 
 
-#vote {mud name} 
+\#vote {mud name} 
 
 where 'mud name' is the name of your mud as listed on TMC - note that TMC usually substitutes '+' for a space. The name must be spelt exactly as in the TMC listings - mouse over your mud's name in the listings and look at the url if in doubt. 
 
 For example to vote for Sloth III you would type 
 
-#vote {SlothMUD+III} 
+\#vote {SlothMUD+III} 
 
 Note that TMC only gives you one vote per machine per day: there's no point in calling #vote too frequently because TMC will reject any other votes. But by tying your vote to an action (maybe entering or leaving the game) you can make sure you don't miss a day. 
 
@@ -38,22 +38,22 @@ just double click on the file to install it.
 
 Ya know, Isabo has a nice left cheek.
 
--Qa
+\-Qa
 
 </div>
 
 <div class="post" data-post-id="3279" data-author="Avatar" data-date="2004-12-13T05:14:56+00:00" data-subject="Isabo">
 
-I was going to say, she looks just like my Peri.  Drroooool.
+I was going to say, she looks just like my Peri. Drroooool.
 
-My older brother had a print of that painting when I was a kid.  It's always been one of my favorites.
+My older brother had a print of that painting when I was a kid. It's always been one of my favorites.
 
 </div>
 
 <div class="post" data-post-id="3283" data-author="Zeizel" data-date="2004-12-13T18:07:17+00:00" data-subject="">
 
-Is this available in WinTin.NET?  I just upgraded to the latest version Saturday night, but it said #vote is not a valid command... I'm running version 0.70.
+Is this available in WinTin.NET? I just upgraded to the latest version Saturday night, but it said #vote is not a valid command... I'm running version 0.70.
 
-Thanks :-D
+Thanks <img src="/images/smilies/icon_e_biggrin.svg" alt=":-D" title=":-D" width="15" height="15" class="smiley nozoom">
 
 </div>

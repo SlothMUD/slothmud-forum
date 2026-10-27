@@ -12,7 +12,7 @@ post_count: 1
 
 <div class="post" data-post-id="10369" data-author="*Splork*" data-date="2006-01-28T02:01:39+00:00" data-subject="Breathe attacks(druids)">
 
-We have removed the destruction of items caused by breathes from every type except for acid. Acid damage has been increased. ... :twisted: 
+We have removed the destruction of items caused by breathes from every type except for acid. Acid damage has been increased. ... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 Enjoy,
 

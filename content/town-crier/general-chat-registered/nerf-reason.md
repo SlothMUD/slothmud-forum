@@ -14,7 +14,7 @@ post_count: 2
 
 Ok, here's a question. Some of you might know a mob called omni in lyme's chapel of lost cross. Back in S3 it used to pop nice 50k gold so I went to kill him in S4, but to my disappointment there was only 1k gold. 
 
-The mob itself didnt change, it's still permalit ether hard hitter, and i think exp didnt change either, it still worths about 1mil. But  I just don't understand what was the reason to decrease the mob's money so drastically. No blames here, just wondering why?
+The mob itself didnt change, it's still permalit ether hard hitter, and i think exp didnt change either, it still worths about 1mil. But I just don't understand what was the reason to decrease the mob's money so drastically. No blames here, just wondering why?
 
 Btw, there was no cache, that was confirmed by an immort.
 

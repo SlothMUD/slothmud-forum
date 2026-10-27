@@ -16,10 +16,10 @@ We've changed the code behind 'blast solar' and 'blast arctic' to work better.
 
 The commands are now:
 
-blast <target> <solar|arctic>  (whichever).
+blast \<target\> \<solar\|arctic\> (whichever).
 
 The messages have changed too, but afaik there's only one mortal who'd even know it to see the difference.
 
--Enea
+\-Enea
 
 </div>

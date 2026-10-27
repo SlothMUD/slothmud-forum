@@ -26,7 +26,7 @@ respect , man ! :))
 
 <div class="post" data-post-id="7273" data-author="Weasel" data-date="2005-06-16T14:45:16+00:00" data-subject="">
 
-who knows the most, or who [i:3cmepujk]thinks[/i:3cmepujk] they know the most?
+who knows the most, or who <em>thinks</em> they know the most?
 
 </div>
 
@@ -50,7 +50,7 @@ hmm, how could i vote for myself?
 
 put me in, i'll be the first!
 
-:roll:
+<img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

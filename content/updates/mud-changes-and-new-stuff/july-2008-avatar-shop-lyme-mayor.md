@@ -14,14 +14,10 @@ post_count: 1
 
 Some improvements have been made to the Lyme Mayor
 
-[*:1w6i5aik]There are buying caps (anyone over the limit will be reimbursed gold and tokens)[/*:m:1w6i5aik]
-
-[*:1w6i5aik]The caps on hp/mana/moves are 400/200/200[/*:m:1w6i5aik]
-
-[*:1w6i5aik]When you buy an incremental stat/skill then you can see how much you bought and what the cap is[/*:m:1w6i5aik]
-
-[*:1w6i5aik]Detect good added[/*:m:1w6i5aik]
-
-[*:1w6i5aik]Resist cold/fire are now cummulative[/*:m:1w6i5aik][/list:o:1w6i5aik]
+1. There are buying caps (anyone over the limit will be reimbursed gold and tokens)
+2. The caps on hp/mana/moves are 400/200/200
+3. When you buy an incremental stat/skill then you can see how much you bought and what the cap is
+4. Detect good added
+5. Resist cold/fire are now cummulative
 
 </div>

@@ -16,17 +16,15 @@ Original note:
 
 The note has some blurred words scrawled over the surface.
 
-  
+ "Used extensively by the monks of Kuo Toan, the regenerative magic
 
-  "Used extensively by the monks of Kuo Toan, the regenerative magic
+ of Teluait can serve an important advantage for those who have been
 
-   of Teluait can serve an important advantage for those who have been
+ worn down by battle. Brewed from the frozen breath of a dragon, 
 
-   worn down by battle.  Brewed from the frozen breath of a dragon, 
+ the brain from a corpse and a patch of moss...it will help you
 
-   the brain from a corpse and a patch of moss...it will help you
-
-   prepare for another day."
+ prepare for another day."
 
 3000 coins
 

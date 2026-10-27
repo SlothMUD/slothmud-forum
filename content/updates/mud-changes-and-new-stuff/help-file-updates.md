@@ -30,13 +30,13 @@ any problems with the new help file on 'house' , please feel free to contact me 
 
 immortal about the issue. You can reach me at the following avaenues:
 
-1. In the game.
+1\. In the game.
 
-2. neptune@slothmud.org
+2\. neptune@slothmud.org
 
 Thanks, and enjoy.
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -66,6 +66,6 @@ cleaned up some diction and formatting.
 
 Enjoy.
 
--Neptune
+\-Neptune
 
 </div>

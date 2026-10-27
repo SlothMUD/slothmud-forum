@@ -14,6 +14,6 @@ post_count: 1
 
 OBNOXIOUS POST!!
 
-   Sorry had too
+ Sorry had too
 
 </div>

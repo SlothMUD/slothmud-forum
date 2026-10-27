@@ -18,6 +18,6 @@ I'm being disconnected once in 20-30 minutes, can't connect right after disconne
 
 From my side, it's only connection issue I experience, the rest network-enabled stuff works fine - ICQ, Skype, browser, etc.
 
-Can it be server-side problem or maybe some kind of disruption from third-parties *again*?
+Can it be server-side problem or maybe some kind of disruption from third-parties \*again\*?
 
 </div>

@@ -34,7 +34,7 @@ Summary: have to go look at a room in a nasty place (not noob friendly)
 
 Reward: not much but you do get info about a drachma quest
 
-brand :twisted:
+brand <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -44,7 +44,7 @@ Name of quest: belt template
 
 Starting creature: thal toymaker
 
-Summary: i almost feel guilty just letting people know about this one.  i'm still working on it.  i started this quest a long, long time ago and have nothing but pain to show for it so far.  give it a try only if you have nothing better to do!
+Summary: i almost feel guilty just letting people know about this one. i'm still working on it. i started this quest a long, long time ago and have nothing but pain to show for it so far. give it a try only if you have nothing better to do!
 
 Reward: rumor has it you get eq
 

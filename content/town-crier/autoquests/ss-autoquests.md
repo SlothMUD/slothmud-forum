@@ -18,7 +18,7 @@ list them here
 
 <div class="post" data-post-id="10659" data-author="Weasel" data-date="2006-02-11T17:49:51+00:00" data-subject="">
 
-Name of quest: embalming_fluid
+Name of quest: embalming\_fluid
 
 Starting creature: Gor (Asheron)
 
@@ -30,7 +30,7 @@ Reward: 10 drachma and an empty jar of embalming fluid with a note inside (for t
 
 <div class="post" data-post-id="10660" data-author="Weasel" data-date="2006-02-11T17:56:04+00:00" data-subject="">
 
-Name of quest: adventurer_gossip
+Name of quest: adventurer\_gossip
 
 Starting creature: Mistress of Silence (SS town)
 
@@ -54,7 +54,7 @@ Reward: 20 drachma and a blessing of the gods
 
 <div class="post" data-post-id="13283" data-author="Melanthe" data-date="2006-07-05T06:37:33+00:00" data-subject="">
 
-Name of quest: sapphire_gem
+Name of quest: sapphire\_gem
 
 Starting creature: Ioin (Crossroads)
 
@@ -66,7 +66,7 @@ Reward: 10 drachma and 10k gold.
 
 <div class="post" data-post-id="13284" data-author="Melanthe" data-date="2006-07-05T06:38:36+00:00" data-subject="">
 
-Name of quest: sin's_true_name
+Name of quest: sin's\_true\_name
 
 Starting creature: Hermit (Murkwood)
 
@@ -78,7 +78,7 @@ Reward: 30 drachma
 
 <div class="post" data-post-id="13285" data-author="Melanthe" data-date="2006-07-05T06:47:14+00:00" data-subject="">
 
-Name of quest: vampire_slayer
+Name of quest: vampire\_slayer
 
 Starting creature: Ettan (City of the Undead)
 
@@ -90,7 +90,7 @@ Reward: a set of ruby studded vambraces (sell for 120 drachma)
 
 <div class="post" data-post-id="13286" data-author="Melanthe" data-date="2006-07-05T06:50:23+00:00" data-subject="">
 
-Name of quest: heart_of_evil
+Name of quest: heart\_of\_evil
 
 Starting creature: Paladin Spectre (Shadow Keep)
 
@@ -112,21 +112,23 @@ Reward: 20 drachma and a blessing
 
 <div class="post" data-post-id="17927" data-author="bubba" data-date="2007-04-13T17:37:21+00:00" data-subject="ettan q">
 
-Name of quest: vampire_slayer
+> <strong>Melanthe wrote:</strong>
+> Name of quest: vampire\_slayer
+> 
+> Starting creature: Ettan (City of the Undead)
+> 
+> Summary: start point of autoquest where you battle mobs in a quest area.
+> 
+> Reward: a set of ruby studded vambraces (sell for 120 drachma)
 
-Starting creature: Ettan (City of the Undead)
-
-Summary: start point of autoquest where you battle mobs in a quest area.
-
-Reward: a set of ruby studded vambraces (sell for 120 drachma)[/quote:fot8t0iu]
-
-Just erase this message if TMI.  Anyway, is it possible to get back in the quest area if you don't finish the first time around?
+Just erase this message if TMI. Anyway, is it possible to get back in the quest area if you don't finish the first time around?
 
 </div>
 
 <div class="post" data-post-id="17929" data-author="Autolycos" data-date="2007-04-13T17:53:25+00:00" data-subject="Re: ettan q">
 
-Just erase this message if TMI.  Anyway, is it possible to get back in the quest area if you don't finish the first time around?[/quote:25zmgsu0]
+> <strong>bubba wrote:</strong>
+> Just erase this message if TMI. Anyway, is it possible to get back in the quest area if you don't finish the first time around?
 
 no.. you leave.. you cannot restart
 
@@ -136,7 +138,7 @@ no.. you leave.. you cannot restart
 
 Name of quest: wreath
 
-Starting creature:  mad sorcerer (Nexia)
+Starting creature: mad sorcerer (Nexia)
 
 Summary: see GREAT WIZARDS note for details
 

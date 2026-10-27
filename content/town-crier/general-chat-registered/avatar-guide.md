@@ -12,7 +12,7 @@ post_count: 2
 
 <div class="post" data-post-id="20645" data-author="Akasha" data-date="2007-10-08T06:05:38+00:00" data-subject="Avatar Guide">
 
-[img:3q1n74fg]http://pirates.xgenco.com/avatarlist.gif[/img:3q1n74fg]
+![](http://pirates.xgenco.com/avatarlist.gif)
 
 </div>
 
@@ -40,6 +40,6 @@ The quint40 lights have been upgraded/revised. You can now select any 2 of the f
 
 9 ) heal bonus 20 (cannot be chosen twice)
 
-10) spell bonus 20 (cannot be chosen twice)
+10\) spell bonus 20 (cannot be chosen twice)
 
 </div>

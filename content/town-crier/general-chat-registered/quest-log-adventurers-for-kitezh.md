@@ -78,7 +78,7 @@ Alris says 'okay prince'
 
 Prince Igor says 'Cooooins. Give me coins.'
 
-<Extortion commences... sadly very little drama!>
+\<Extortion commences... sadly very little drama!\>
 
 Prince Igor says 'Very well.'
 
@@ -90,7 +90,7 @@ Prince Igor says 'Bring me the flag to show that the messenger is dead and I sha
 
 Prince Igor says 'Oh, and these messenger are VERY dangerous.'
 
-<Sauren Valley>
+\<Sauren Valley\>
 
 Alris says 'good to see you again prince'
 
@@ -110,13 +110,13 @@ Tuk -- 'that was nice'
 
 Prince Igor says 'I'm sure that's somewhere nearby.'
 
-<Quest delayed due to Vissidrix attacking the Prince Igor>
+\<Quest delayed due to Vissidrix attacking the Prince Igor\>
 
-Vissidrix -- 'say hi igor, without the "say" :('
+Vissidrix -- 'say hi igor, without the "say" <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">'
 
 Prince Igor says 'I STRONGLY RECOMMEND YOU STOP HITTING ME'
 
-Katie -- '* stop fight, dean'
+Katie -- '\* stop fight, dean'
 
 Prince Igor says 'I STRONGLY RECOMMEND YOU STOP HITTING ME'
 
@@ -130,7 +130,7 @@ Prince Igor says 'Now.'
 
 Prince Igor says 'The second messenger is in a place where there is a monster whose name sounds a bit like when you laugh so hard you roll on the floor.'
 
-<Lolth>
+\<Lolth\>
 
 Sam -- 'You feel a swift breeze!'
 
@@ -150,7 +150,7 @@ Prince Igor says 'The third messenger is close to a creature that walks in the n
 
 Prince Igor says 'Seek it out and kill it.'
 
-<Shadow Realm>
+\<Shadow Realm\>
 
 Prince Igor quests-- 'heeeeelp me'
 
@@ -158,9 +158,9 @@ Prince Igor quests-- 'HELP ME NOW!'
 
 Prince Igor quests-- 'I am dying!'
 
-<messenger at Igor>
+\<messenger at Igor\>
 
-<followed by another messenger at Igor, who followed us to recall and killed lots of people>
+\<followed by another messenger at Igor, who followed us to recall and killed lots of people\>
 
 Prince Igor quests-- 'It is done?'
 
@@ -174,9 +174,9 @@ Kerri says 'it's that one guy!'
 
 Prince Igor says 'Hello indeed.'
 
-Alris says 'now, why did the messengers come? :)'
+Alris says 'now, why did the messengers come? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">'
 
-Alris says 'and why you wanted them dead :)'
+Alris says 'and why you wanted them dead <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">'
 
 Prince Igor says 'You ask too many questions, druid.'
 
@@ -192,7 +192,7 @@ Prince Igor says 'This is a land full of strange and magnificent creatures.'
 
 Prince Igor says 'In fact, we are building it as we speak. Your earlier donation will help us somewhat.'
 
-Katie says 'bard guild still need a new roof, prince :)'
+Katie says 'bard guild still need a new roof, prince <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">'
 
 Prince Igor says 'There may even come a time when you can visit us.'
 
@@ -210,6 +210,6 @@ Prince Igor says 'In the other, you may find precious stones.'
 
 Prince Igor says 'The choice is yours.'
 
-<Alris leads grenade xp for 45 minutes.  If I remember right, messengers were each worth 5 drachma.>
+\<Alris leads grenade xp for 45 minutes. If I remember right, messengers were each worth 5 drachma.\>
 
 </div>

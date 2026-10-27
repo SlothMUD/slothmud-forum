@@ -28,7 +28,7 @@ Also. always when i try and reconnect it boots me again at the 'y' prompt.. then
 
 I have no such problems these days.
 
-And i think question to break old connection happens when you switching ip address. So maybe it some quick  issues at your isp. Which you cant catch at any browsers, since its just instant link break and then its back.
+And i think question to break old connection happens when you switching ip address. So maybe it some quick issues at your isp. Which you cant catch at any browsers, since its just instant link break and then its back.
 
 You can try to ping something at constant basis, even slothmud site. To see, if there are lost packets when you lost connection to the mud.
 

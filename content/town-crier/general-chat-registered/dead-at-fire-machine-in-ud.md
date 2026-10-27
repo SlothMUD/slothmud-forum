@@ -30,7 +30,7 @@ Bah, I wanted to tell Brady to kill self, but he already did. :)
 
 <div class="post" data-post-id="15146" data-author="brady" data-date="2006-11-13T02:16:19+00:00" data-subject="">
 
-Go lick a frog   :x
+Go lick a frog <img src="/images/smilies/icon_mad.svg" alt=":x" title=":x" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -42,17 +42,17 @@ No thanks :)
 
 <div class="post" data-post-id="15184" data-author="13" data-date="2006-11-13T21:21:04+00:00" data-subject="This is flat-out stupid.">
 
-<366hp 19ma 217mv><160259705xp>
+\<366hp 19ma 217mv\>\<160259705xp\>
 
 You brutally gut a hunting horror!
 
 A hunting horror looks down in terror as its abdomen pours out!
 
-<372hp 20ma 169mv><160259705xp>
+\<372hp 20ma 169mv\>\<160259705xp\>
 
 Autolycos auctions-- ' hmm'
 
-<374hp 21ma 169mv><160259705xp>
+\<374hp 21ma 169mv\>\<160259705xp\>
 
 You are viciously massacred by a hunting horror's bite.
 
@@ -66,7 +66,7 @@ You wish that your wounds would stop BLEEDING that much!
 
 You have been KILLED!! 
 
-<-18hp 21ma 169mv><160259705xp>
+\<-18hp 21ma 169mv\>\<160259705xp\>
 
 I don't get it.
 
@@ -74,7 +74,7 @@ I don't get it.
 
 <div class="post" data-post-id="15185" data-author="12345" data-date="2006-11-13T22:44:02+00:00" data-subject="">
 
-If I were to guess from the 8 hps your regenned, a tick happened.  Ranks up there with a mob looting its own corpse in the same spam that you killed it.
+If I were to guess from the 8 hps your regenned, a tick happened. Ranks up there with a mob looting its own corpse in the same spam that you killed it.
 
 </div>
 
@@ -86,7 +86,7 @@ Silly question but do you have auto-kill on, because I noticed you never hit it 
 
 <div class="post" data-post-id="15187" data-author="brady" data-date="2006-11-14T02:35:39+00:00" data-subject="">
 
-*ruffle* horror.  good boy!
+\*ruffle\* horror. good boy!
 
 </div>
 
@@ -102,7 +102,7 @@ You've got a good feeling about this fight...
 
 A man climbing the mountain sees you circling in for the kill, and deftly steps out of the way!
 
-<661hp 27ma 204mv>
+\<661hp 27ma 204mv\>
 
 You massacre a man climbing the mountain to small fragments with your hit.
 
@@ -128,7 +128,7 @@ A man climbing the mountain makes a nice ballet step which plants a foot a mile 
 
 You wish that your wounds would stop BLEEDING that much!
 
-<111hp 27ma 204mv>
+\<111hp 27ma 204mv\>
 
 fw
 

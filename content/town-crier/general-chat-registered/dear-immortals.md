@@ -30,7 +30,7 @@ Hahah, its easy for polk to play again, 1 solution to his problem.
 
 MAKE A NEW CHAR!
 
- :roll:
+ <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -38,7 +38,7 @@ MAKE A NEW CHAR!
 
 You don't get favors around here for insulting the imm staff. He made it a point to try to personally insult each and every one of the active admin.
 
-You don't get banned for this. You just get flagged *do no favors*.
+You don't get banned for this. You just get flagged \*do no favors\*.
 
 I think this flag is pretty self-explanatory.
 
@@ -48,13 +48,20 @@ I encourage people to start posting about another topic. Lets bury this polkadot
 
 <div class="post" data-post-id="24692" data-author="Yasik2" data-date="2008-06-02T16:43:58+00:00" data-subject="">
 
-You don't get favors around here for insulting the imm staff. He made it a point to try to personally insult each and every one of the active admin.
-
-You don't get banned for this. You just get flagged *do no favors*.
-
-I think this flag is pretty self-explanatory.
-
-I encourage people to start posting about another topic. Lets bury this polkadot nonsense.[/quote:1oi1ouua]
+> <strong>juggleblood wrote:</strong>
+> You don't get favors around here for insulting the imm staff. He made it a point to try to personally insult each and every one of the active admin.
+> 
+> 
+> 
+> You don't get banned for this. You just get flagged \*do no favors\*.
+> 
+> 
+> 
+> I think this flag is pretty self-explanatory.
+> 
+> 
+> 
+> I encourage people to start posting about another topic. Lets bury this polkadot nonsense.
 
 You're wrong, my friend. Everyone know the tale about me and Splork, tho he reimbursed my ebony shard of destruction when i lost it on some network accident or sort.
 
@@ -64,7 +71,7 @@ I guess there's a time for 'no favors' and there's a time for exceptions.
 
 <div class="post" data-post-id="24693" data-author="Yasik2" data-date="2008-06-02T16:52:51+00:00" data-subject="">
 
-Oh yes, and i dont dislike Polk, rather opposite, even if its completely unclear from my few previous posts. But this whole story... and the manner it is announced to teh community... reminds me about that famous video 'Angry German Kid'  :D
+Oh yes, and i dont dislike Polk, rather opposite, even if its completely unclear from my few previous posts. But this whole story... and the manner it is announced to teh community... reminds me about that famous video 'Angry German Kid' :D
 
 </div>
 
@@ -78,7 +85,7 @@ lol.. yeah, how's your keyboard?
 
 My kbd is ok, thanx!
 
-It says you should differ "reminds me about..." and "makes me bevahe like someone..."  :D
+It says you should differ "reminds me about..." and "makes me bevahe like someone..." :D
 
 </div>
 
@@ -90,7 +97,8 @@ they dont call it the crier fer nuthin
 
 <div class="post" data-post-id="24697" data-author="Autolycos" data-date="2008-06-02T21:44:17+00:00" data-subject="">
 
-they dont call it the crier fer nuthin[/quote:gm0bl1iq]
+> <strong>13 wrote:</strong>
+> they dont call it the crier fer nuthin
 
 tru dat
 
@@ -98,7 +106,7 @@ tru dat
 
 <div class="post" data-post-id="24707" data-author="PolkAdotS" data-date="2008-06-03T02:34:57+00:00" data-subject="">
 
-One thing, a response with no further discussion on my part.  Juggleblood this is directly to your comment which would not be posted in quote even if I tried.  I fortunately have not posted the e-mail that I sent around to virtually each and every of these "insulted" admin.  The insult, comes to an injury's ends Juggle.  I can post the letter itself, it was simple and explanitory.  And very non-insulting.  Take care and you guys really, really need to read the e-mail (however un-invited you really are) if someone provides it.  It was sent to the following (not all admin).  Grapenut, Atwell, Seda, Jake, Splork, Dot, Enea, ...and others.  If they're insulted, then I can personally take the time to apologize to each of them individually, opposed to the insult.  You're just, not getting the truth from whomever provides your information about this situation.  Bazilus is correct when he is saying that I am a good MUDder and person.  Yinao pk'd me first, however many times I have seen someone who is 5x40 firestorm and 5x40 for no reason then recall... that's nothing.  After that point Yinao got onto gossip saying how I had run, and rented... calling me names over the public channel.  I was stealthed, at the top of the Idol with perm fly... he came up with his 9 bazillion mana and blinded, dispelled. etc....  Yinao is not a better player than me.  See you guys sometime, if I ever get the ...interest in coming back to play D&D based Demension with you dorks.  Adios
+One thing, a response with no further discussion on my part. Juggleblood this is directly to your comment which would not be posted in quote even if I tried. I fortunately have not posted the e-mail that I sent around to virtually each and every of these "insulted" admin. The insult, comes to an injury's ends Juggle. I can post the letter itself, it was simple and explanitory. And very non-insulting. Take care and you guys really, really need to read the e-mail (however un-invited you really are) if someone provides it. It was sent to the following (not all admin). Grapenut, Atwell, Seda, Jake, Splork, Dot, Enea, ...and others. If they're insulted, then I can personally take the time to apologize to each of them individually, opposed to the insult. You're just, not getting the truth from whomever provides your information about this situation. Bazilus is correct when he is saying that I am a good MUDder and person. Yinao pk'd me first, however many times I have seen someone who is 5x40 firestorm and 5x40 for no reason then recall... that's nothing. After that point Yinao got onto gossip saying how I had run, and rented... calling me names over the public channel. I was stealthed, at the top of the Idol with perm fly... he came up with his 9 bazillion mana and blinded, dispelled. etc.... Yinao is not a better player than me. See you guys sometime, if I ever get the ...interest in coming back to play D\&D based Demension with you dorks. Adios
 
 John
 
@@ -122,9 +130,10 @@ Dudes, this is getting boring...
 
 <div class="post" data-post-id="24711" data-author="Yinao" data-date="2008-06-03T03:12:34+00:00" data-subject="">
 
-[quote:2dom7x23]Yinao is not a better player than me.[/quote:2dom7x23]
+> <strong>Quote:</strong>
+> Yinao is not a better player than me.
 
- :o between you and I, your brains fried  :twisted:
+ <img src="/images/smilies/icon_e_surprised.svg" alt=":o" title=":o" width="15" height="15" class="smiley nozoom"> between you and I, your brains fried <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

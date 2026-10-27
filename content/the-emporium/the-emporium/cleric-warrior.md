@@ -12,9 +12,9 @@ post_count: 2
 
 <div class="post" data-post-id="35238" data-author="Hung" data-date="2014-06-10T11:02:11+00:00" data-subject="Cleric-warrior">
 
-Perl Extraction and Reporting  (level: 20)
+Perl Extraction and Reporting (level: 20)
 
-Your levels:  Cl: 20 Wa: 14 Ma: 7 Ne: 3 Th: 1 
+Your levels: Cl: 20 Wa: 14 Ma: 7 Ne: 3 Th: 1 
 
 You are 17 years, 2 months, 25 days old.
 
@@ -44,13 +44,13 @@ You are standing.
 
 You are affected by the following spells:
 
-   Detect Good                      
+ Detect Good 
 
-   Infravision                      
+ Infravision 
 
-   Resist Cold                      
+ Resist Cold 
 
-   Stone Skin 
+ Stone Skin 
 
 Starting price: 10m
 

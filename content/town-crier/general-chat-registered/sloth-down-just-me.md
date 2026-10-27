@@ -18,7 +18,7 @@ Can't connect? Anyone else having an issue?
 
 <div class="post" data-post-id="39255" data-author="Driven" data-date="2019-07-12T20:28:26+00:00" data-subject="Re: Sloth Down? Just me?">
 
-Teker and I both cannot connect.  Hopefully Splork/Breeze are aware and working on it.
+Teker and I both cannot connect. Hopefully Splork/Breeze are aware and working on it.
 
 </div>
 

@@ -26,11 +26,11 @@ Widow
 
 <div class="post" data-post-id="19836" data-author="Avatar" data-date="2007-08-22T19:26:48+00:00" data-subject="Druids Unshifted">
 
-I'd guess that the biggest benefit to druids unshifted is the bonus mana regen.  If you haven't seen already, you'll regen mana much faster if you stand/rest/sleep outdoors rather than indoors.  Use the "weather" command to check, if you're indoors you won't be able to see the weather.  That bonus mana regen will help to power any spells from druid or your other classes.
+I'd guess that the biggest benefit to druids unshifted is the bonus mana regen. If you haven't seen already, you'll regen mana much faster if you stand/rest/sleep outdoors rather than indoors. Use the "weather" command to check, if you're indoors you won't be able to see the weather. That bonus mana regen will help to power any spells from druid or your other classes.
 
-Since you have necro also, I think you'll be a little disappointed with the druid followers.  Druid followers are useful in a few situations, mainly if you're a druid without necro in your classo or if you want to shift.  If you shift, you can order your druid followers only.  You won't be able to order necro pets or cleric supps.
+Since you have necro also, I think you'll be a little disappointed with the druid followers. Druid followers are useful in a few situations, mainly if you're a druid without necro in your classo or if you want to shift. If you shift, you can order your druid followers only. You won't be able to order necro pets or cleric supps.
 
-Also, it can be useful to remember that your prime class determines the "lag" that you suffer when you order your pets.  Anytime you tell them to do something, you have a delay before your next command.  If you are ordering pets from your prime class (necro for example), this is a 1 tick delay.  If you're ordering pets from other classes (awaken, supplication), you'll have a 2 tick delay.
+Also, it can be useful to remember that your prime class determines the "lag" that you suffer when you order your pets. Anytime you tell them to do something, you have a delay before your next command. If you are ordering pets from your prime class (necro for example), this is a 1 tick delay. If you're ordering pets from other classes (awaken, supplication), you'll have a 2 tick delay.
 
 Good luck, I hope this helps.
 
@@ -40,9 +40,8 @@ Charles
 
 <div class="post" data-post-id="19842" data-author="tincts" data-date="2007-08-23T02:13:34+00:00" data-subject="Re: Druids Unshifted">
 
-If you are ordering pets from your prime class (necro for example), this is a 1 tick delay.  If you're ordering pets from other classes (awaken, supplication), you'll have a 2 tick delay.
-
-[/quote:23jkusd3]
+> <strong>Avatar wrote:</strong>
+> If you are ordering pets from your prime class (necro for example), this is a 1 tick delay. If you're ordering pets from other classes (awaken, supplication), you'll have a 2 tick delay.
 
 Just to clarify (not being anal), it's a 1/2 battle round delay, not tick.
 

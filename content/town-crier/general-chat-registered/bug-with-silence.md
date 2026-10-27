@@ -16,9 +16,9 @@ cast 'silence' older
 
 Ok.
 
-A gang leader's mouth clams shut![/color:3g2jxeuf]
+A gang leader's mouth clams shut!
 
-<209hp 128ma 109mv>
+\<209hp 128ma 109mv\>
 
 cast 'fireball' older
 
@@ -30,7 +30,7 @@ You throw a fireball at a gang leader and have the satisfaction of seeing him en
 
 veloped in flames.
 
-<210hp 115ma 109mv>
+\<210hp 115ma 109mv\>
 
 order followers assist grantis
 
@@ -44,17 +44,17 @@ You massacre a gang leader to small fragments with your slash.
 
 A gang leader misses a kick at your groin, you breathe lighter now.
 
-<192hp 115ma 109mv>
+\<192hp 115ma 109mv\>
 
 Mayor Virdo tells a manes that it is the nicest person he has ever met.
 
 A manes misses a gang leader with its claw.
 
-<192hp 115ma 109mv>
+\<192hp 115ma 109mv\>
 
 A soiled janitor leaves east.
 
-<192hp 116ma 109mv>
+\<192hp 116ma 109mv\>
 
 You massacre a gang leader to small fragments with your slash.
 
@@ -72,7 +72,7 @@ A gang leader makes a nice ballet step which plants a foot a mile above your hea
 
 d.
 
-<178hp 116ma 109mv>
+\<178hp 116ma 109mv\>
 
 cast 'fireball'
 
@@ -90,9 +90,9 @@ You massacre a gang leader to small fragments with your slash.
 
 A gang leader misses a kick at your groin, you breathe lighter now.
 
-A gang leader yells 'Thugs, to me, I am in need of aid.[/color:3g2jxeuf]
+A gang leader yells 'Thugs, to me, I am in need of aid.
 
-<179hp 117ma 109mv>
+\<179hp 117ma 109mv\>
 
 Ok.
 
@@ -124,25 +124,25 @@ His yelling is a proc message. Silence is useless.
 
 <div class="post" data-post-id="10064" data-author="kjartan" data-date="2006-01-10T18:05:50+00:00" data-subject="">
 
-But really... slience [i:x8i5u4m4]ought[/i:x8i5u4m4] to work.  Maybe I'll have a look at that tonight too.
+But really... slience <em>ought</em> to work. Maybe I'll have a look at that tonight too.
 
 </div>
 
 <div class="post" data-post-id="10065" data-author="12345" data-date="2006-01-10T18:38:19+00:00" data-subject="">
 
-*blink*  Oh yeah... realism.
+\*blink\* Oh yeah... realism.
 
-While you're at it...  there's a couple procs that still allow mobs to cast through silence, though it's been fixed in many areas.
+While you're at it... there's a couple procs that still allow mobs to cast through silence, though it's been fixed in many areas.
 
 Is there supposed to be a way to stop mobs from phasing? Because webs, arms of the abyss and the rest just don't seem to work.
 
-I'm sure I'll think of something else... I kinda like having this realism thing on my side for once. :)
+I'm sure I'll think of something else... I kinda like having this realism thing on my side for once. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="10066" data-author="kjartan" data-date="2006-01-10T19:11:39+00:00" data-subject="">
 
-I think many, but probably not all, of the phase checks are level based.  That is, a level 41 or 42 mob can phase right through your pathetic level 40 bind.  I'd have to double check that, though - it could just be random.
+I think many, but probably not all, of the phase checks are level based. That is, a level 41 or 42 mob can phase right through your pathetic level 40 bind. I'd have to double check that, though - it could just be random.
 
 I think you can't phase through force fields.
 
@@ -150,31 +150,36 @@ I think you can't phase through force fields.
 
 <div class="post" data-post-id="10067" data-author="12345" data-date="2006-01-10T19:35:56+00:00" data-subject="">
 
-Hmm.. I used a bad word.  I was referring to the proc that allows mobs to 'fly away' in battle.  In sakura, there's a mob under the water that uses it to hide underwater and come back and attack, in Aaost, there's a bird that flies away then returns and attacks.  In ET there's a gargoyle that does basically the same thing.  You can still web or use arms to reduce their hitroll, but they'll fly and swim away with no really problem at all.
+Hmm.. I used a bad word. I was referring to the proc that allows mobs to 'fly away' in battle. In sakura, there's a mob under the water that uses it to hide underwater and come back and attack, in Aaost, there's a bird that flies away then returns and attacks. In ET there's a gargoyle that does basically the same thing. You can still web or use arms to reduce their hitroll, but they'll fly and swim away with no really problem at all.
 
 Just seems odd that if I'm holding them with arms that they'd be able to move out of my reach... same with webs.
 
-I call it phasing, but it's not a 'phase door' type effect, it's some mob_proc.
+I call it phasing, but it's not a 'phase door' type effect, it's some mob\_proc.
 
 </div>
 
 <div class="post" data-post-id="10070" data-author="12345" data-date="2006-01-10T20:37:12+00:00" data-subject="">
 
-In Kj speak: kvp_hide(), possibly kvp_hostage() as well.
+In Kj speak: kvp\_hide(), possibly kvp\_hostage() as well.
 
 </div>
 
 <div class="post" data-post-id="10071" data-author="Clink" data-date="2006-01-10T20:59:46+00:00" data-subject="">
 
-... You can still web or use arms to reduce their hitroll, but they'll fly and swim away with no really problem at all.
+> <strong>12345 wrote:</strong>
+> ... You can still web or use arms to reduce their hitroll, but they'll fly and swim away with no really problem at all.
+> 
+> 
+> 
+> Just seems odd that if I'm holding them with arms that they'd be able to move out of my reach... same with webs.
+> 
+> 
+> 
+> I call it phasing, but it's not a 'phase door' type effect, it's some mob\_proc.
 
-Just seems odd that if I'm holding them with arms that they'd be able to move out of my reach... same with webs.
+It probably makes sense for them to resist webs and be too nimble for the arms to grab hold. Maybe I can convince one of the coders to look at that.
 
-I call it phasing, but it's not a 'phase door' type effect, it's some mob_proc.[/quote:2wl76pj1]
-
-It probably makes sense for them to resist webs and be too nimble for the arms to grab hold.  Maybe I can convince one of the coders to look at that.
-
- :D
+ <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -186,7 +191,7 @@ Cool, while you're at it, you can adjust it so they're not close enough to hit m
 
 <div class="post" data-post-id="10073" data-author="kjartan" data-date="2006-01-11T04:29:30+00:00" data-subject="">
 
-Ok, the thug leader is silencable as of next crash or reboot.  If there are other specific mobs that are violating reasonable silence behavior, tell me the specific mob on here and I'll probably try to fix it.
+Ok, the thug leader is silencable as of next crash or reboot. If there are other specific mobs that are violating reasonable silence behavior, tell me the specific mob on here and I'll probably try to fix it.
 
 </div>
 
@@ -204,7 +209,7 @@ what about those mobs that are not silenced despite masterful casting? Would the
 
 <div class="post" data-post-id="10085" data-author="kjartan" data-date="2006-01-11T18:11:44+00:00" data-subject="">
 
-It depends on the mob.  If you see a mob that is acting like it's not silenced even though you successfully cast a silence spell on it, post it here and I'll perhaps fix it.  I have to fix them, or at least some of them, on a case-by-case basis and I don't want to search the entire zillion mobs so I'll just fix them as they're problems.
+It depends on the mob. If you see a mob that is acting like it's not silenced even though you successfully cast a silence spell on it, post it here and I'll perhaps fix it. I have to fix them, or at least some of them, on a case-by-case basis and I don't want to search the entire zillion mobs so I'll just fix them as they're problems.
 
 I don't know what masterful silence does; I'll check and if it doesn't do anything, I'll make it so that you never get a masterful casting of silence.
 
@@ -218,7 +223,7 @@ Ok.
 
 The golem librarian's mouth clams shut!
 
-<576hp 149ma 178mv>
+\<576hp 149ma 178mv\>
 
 A wraith claws the golem librarian very hard.
 
@@ -252,19 +257,19 @@ A Ju-Ju Zombie misses the golem librarian with its hit.
 
 The golem librarian frowns at the noise you're making.
 
-A wraith`s mouth suddenly seals shut as the golem librarian scolds it.[/color:22f5jfa6]
+A wraith\`s mouth suddenly seals shut as the golem librarian scolds it.
 
 A Ju-Ju Zombie utters the words, 'oculowai buie'
 
 The golem librarian is suddenly entwined with an ethereal darkness!
 
-<577hp 152ma 178mv>
+\<577hp 152ma 178mv\>
 
 It even sends tells:
 
-The golem librarian tells you `SHHHH!` and waggles her finger at you.[/color:22f5jfa6]
+The golem librarian tells you \`SHHHH!\` and waggles her finger at you.
 
- :? This could be one of the beasties you might want to take a look at ?
+ <img src="/images/smilies/icon_e_confused.svg" alt=":?" title=":?" width="15" height="15" class="smiley nozoom"> This could be one of the beasties you might want to take a look at ?
 
 great move to new server btw, thanks imms! Sloth rocks !
 
@@ -280,7 +285,7 @@ Ok, should be fixed next crash or reboot.
 
 <div class="post" data-post-id="10300" data-author="Mustang" data-date="2006-01-23T17:14:00+00:00" data-subject="fix blinded mobs?">
 
-now would it be possible/appropriate to stop blinded mobs from healing themselves?  since we can't heal/restore self while blinded, it would be weird that mobs can.
+now would it be possible/appropriate to stop blinded mobs from healing themselves? since we can't heal/restore self while blinded, it would be weird that mobs can.
 
 </div>
 
@@ -288,19 +293,19 @@ now would it be possible/appropriate to stop blinded mobs from healing themselve
 
 Seems to me that crystal golem in water plane buged. 
 
-<867hp 244ma 158mv -9>
+\<867hp 244ma 158mv -9\>
 
 Rynquald utters the words, 'gurunsoqz' (silence)
 
-A crystal golem's mouth clams shut![/color:3mwdbjbg]
+A crystal golem's mouth clams shut!
 
-<868hp 244ma 158mv -9>
+\<868hp 244ma 158mv -9\>
 
 Pendalf utters the words, 'candusghafahuai' (restoration)
 
 The cleansing fires of healing fill your body!
 
-<1037hp 245ma 158mv -9>
+\<1037hp 245ma 158mv -9\>
 
 You skillfully parry the attack of a crystal golem.
 
@@ -316,7 +321,7 @@ You massacre a crystal golem to small fragments with your pierce.
 
 You massacre a crystal golem to small fragments with your pierce.
 
-A crystal golem utters the words, 'yafqz yuzre' (force field)[/color:3mwdbjbg]
+A crystal golem utters the words, 'yafqz yuzre' (force field)
 
 Edd utters the words, 'yfaghbarh' (frostbolt)
 
@@ -328,9 +333,9 @@ Hope it is not a big deal to fix this mob. Thanks imms!
 
 white-robed sorcerer at Zodiac castle :
 
-A white-robed sorcerer's mouth clams shut![/color:2vs94sfs]
+A white-robed sorcerer's mouth clams shut!
 
-<631hp 241ma 178mv>
+\<631hp 241ma 178mv\>
 
 web sorc
 
@@ -340,7 +345,7 @@ Ok.
 
 A white-robed sorcerer is enmeshed in thick webs!
 
-<631hp 228ma 178mv>
+\<631hp 228ma 178mv\>
 
 A wraith claws a white-robed sorcerer extremely hard.
 
@@ -382,11 +387,11 @@ You slash a white-robed sorcerer hard.
 
 A Ju-Ju Zombie utters the words, 'abrawg ay hpz ablgg'
 
-A white-robed sorcerer utters the words, 'pzar'[/color:2vs94sfs]
+A white-robed sorcerer utters the words, 'pzar'
 
 A white-robed sorcerer heals himself.
 
- :shock:
+ <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -402,23 +407,23 @@ Splork
 
 <div class="post" data-post-id="10596" data-author="Dedsune" data-date="2006-02-06T22:59:40+00:00" data-subject="">
 
-<567hp 190ma 180mv>[-7.1:+13:+71:+17]:542504156xp>
+\<567hp 190ma 180mv\>[-7.1:+13:+71:+17\]:542504156xp\>
 
 Elusive utters the words, 'gurunsoqz'
 
 The Queen of Storms's mouth clams shut!
 
-<570hp 191ma 182mv>[-7.1:+13:+71:+17]:542504156xp>
+\<570hp 191ma 182mv\>[-7.1:+13:+71:+17\]:542504156xp\>
 
 Drum utters the words, 'gurunsoqz'
 
-<570hp 191ma 182mv>[-7.1:+13:+71:+17]:542504156xp>
+\<570hp 191ma 182mv\>[-7.1:+13:+71:+17\]:542504156xp\>
 
 circl
 
 You circle around to the Queen of Storms's side and place the cinquedeas between two of her ribs.
 
-<571hp 191ma 177mv>[-7.1:+13:+71:+17]:542505476xp>
+\<571hp 191ma 177mv\>[-7.1:+13:+71:+17\]:542505476xp\>
 
 You pierce the Queen of Storms extremely hard.
 
@@ -430,11 +435,11 @@ You massacre the Queen of Storms to small fragments with your pierce.
 
 You pierce the Queen of Storms extremely hard.
 
-[b:2jkbz24f]The Queen of Storms utters the words, 'diesilla barh'[/color:2jkbz24f][/b:2jkbz24f]
+<strong>The Queen of Storms utters the words, 'diesilla barh'</strong>
 
 YOU'RE HIT. A lightning bolt from the Queen of Storms has reached its goal.
 
-<528hp 191ma 177mv>[-7.1:+13:+47:+17]:542506752xp>
+\<528hp 191ma 177mv\>[-7.1:+13:+47:+17\]:542506752xp\>
 
 Drum utters the words, 'gurunsoqz'
 
@@ -452,7 +457,7 @@ Splork
 
 <div class="post" data-post-id="11168" data-author="Vixn" data-date="2006-03-12T19:01:21+00:00" data-subject="">
 
-<656hp 143ma 216mv -11.0ac -9al>
+\<656hp 143ma 216mv -11.0ac -9al\>
 
 look life-force
 
@@ -468,21 +473,21 @@ day. A book she carries in her left hand bears the unlikely title, 'The
 
 Floobdinachery of Pelshanai.' 
 
-The life force instructor is in excellent condition: [*******]
+The life force instructor is in excellent condition: [\*\*\*\*\*\*\*]
 
 You attempt to peek at the inventory:
 
 You can't see anything.
 
-<655hp 144ma 216mv -11.0ac -9al>
+\<655hp 144ma 216mv -11.0ac -9al\>
 
 cast 'silence' instructor
 
 Ok.
 
-The life force instructor's mouth clams shut![/color:1chvipky]
+The life force instructor's mouth clams shut!
 
-<649hp 136ma 216mv -11.0ac -9al>
+\<649hp 136ma 216mv -11.0ac -9al\>
 
 cast 'silence' instructor
 
@@ -500,7 +505,7 @@ The life force instructor hates you and attack!
 
 The life force instructor misses you with her hit.
 
-<649hp 123ma 216mv -11.0ac -9al>
+\<649hp 123ma 216mv -11.0ac -9al\>
 
 You pierce the life force instructor extremely hard.
 
@@ -512,15 +517,15 @@ You pierce the life force instructor extremely hard.
 
 You pierce the life force instructor very hard.
 
-The life force instructor utters the words, 'carpe vital'[/color:1chvipky]
+The life force instructor utters the words, 'carpe vital'
 
-<648hp 125ma 216mv -11.0ac -9al>
+\<648hp 125ma 216mv -11.0ac -9al\>
 
 Ok.
 
 You watch in grim satisfaction as your acid blast burns the life force instructor horribly.
 
-<648hp 108ma 216mv -11.0ac -9al>
+\<648hp 108ma 216mv -11.0ac -9al\>
 
 cast 'acid blast'
 
@@ -532,7 +537,7 @@ Ok.
 
 Your acid horribly burns the life force instructor's flesh, causing it to fall to the ground.
 
-<647hp 93ma 216mv -11.0ac -9al>
+\<647hp 93ma 216mv -11.0ac -9al\>
 
 cast 'frostbolt' life-force
 
@@ -544,9 +549,9 @@ The life force instructor misses you with her hit.
 
 You pierce the life force instructor extremely hard.
 
-The life force instructor utters the words, 'carpe vital'[/color:1chvipky]
+The life force instructor utters the words, 'carpe vital'
 
-<647hp 93ma 216mv -11.0ac -9al>
+\<647hp 93ma 216mv -11.0ac -9al\>
 
 cast 'frostbolt' life-force
 
@@ -554,7 +559,7 @@ Ok.
 
 You form a cone of frost in your hand and launch it at the life force instructor.
 
-<646hp 70ma 216mv -11.0ac -9al>
+\<646hp 70ma 216mv -11.0ac -9al\>
 
 look life-force
 
@@ -576,7 +581,7 @@ You massacre the life force instructor to small fragments with your pierce.
 
 Someone glows softly as they stare at you.
 
-Someone utters the words, 'carpe vital'[/color:1chvipky]
+Someone utters the words, 'carpe vital'
 
 thanks in advance.
 
@@ -590,15 +595,15 @@ Fixed.
 
 <div class="post" data-post-id="12395" data-author="deucer" data-date="2006-04-29T15:39:13+00:00" data-subject="silence broken again ?">
 
-KJ fixed this some time ago. Looks like librarian in Cholemry forgot lesson  to keep it shut. :P :
+KJ fixed this some time ago. Looks like librarian in Cholemry forgot lesson to keep it shut. <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom"> :
 
 sil libr
 
 Ok.
 
-The golem librarian's mouth clams shut![/color:136uqa1k]
+The golem librarian's mouth clams shut!
 
-<662hp 169ma 176mv>
+\<662hp 169ma 176mv\>
 
 A wraith claws the golem librarian extremely hard.
 
@@ -628,7 +633,7 @@ A Ju-Ju Zombie utters the words, 'oculowai buie'
 
 The golem librarian is suddenly entwined with an ethereal darkness!
 
-A wraith`s mouth suddenly seals shut as the golem librarian scolds it.[/color:136uqa1k]
+A wraith\`s mouth suddenly seals shut as the golem librarian scolds it.
 
 and two rounds later:
 
@@ -648,9 +653,9 @@ A Ju-Ju Zombie utters the words, 'xafe ay saui'
 
 The golem librarian stumbles as a Ju-Ju Zombie's power word subdues her.
 
-The golem librarian tells you `SHHHH!` and waggles her finger at you.[/color:136uqa1k]
+The golem librarian tells you \`SHHHH!\` and waggles her finger at you.
 
-Just to let you know :D
+Just to let you know <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 Zuuul
 
@@ -676,13 +681,14 @@ No can Do AA, ur silence spell didn't work on me. Bitch!!!
 
 <div class="post" data-post-id="12414" data-author="Assirian" data-date="2006-05-04T07:55:33+00:00" data-subject="">
 
-I don't know what masterful silence does; I'll check and if it doesn't do anything, I'll make it so that you never get a masterful casting of silence.[/quote:3sthikcp]
+> <strong>\*kjartan\* wrote:</strong>
+> I don't know what masterful silence does; I'll check and if it doesn't do anything, I'll make it so that you never get a masterful casting of silence.
 
 Is it possible to check miss Lebowski in cholomery too?
 
 Miss Lebowski utters the words, 'uizuguburuhl'
 
-<736hp 354ma 189mv>
+\<736hp 354ma 189mv\>
 
 cast 'silence' miss
 
@@ -690,49 +696,49 @@ You weave the threads of magic masterfully!
 
 Miss Lebowski's mouth clams shut!
 
-<736hp 340ma 189mv>
+\<736hp 340ma 189mv\>
 
 fle
 
 Third Floor Hallway
 
-Exits: North  East  West  
+Exits: North East West 
 
 You flee head over heels.
 
 PANIC! You couldn't escape!
 
-<736hp 342ma 187mv>
+\<736hp 342ma 187mv\>
 
 n
 
 Secret Stash
 
-Exits: South  
+Exits: South 
 
 A steaming pile of intestines lie puddled on the floor here.
 
-*Miss Lebowski begs you to free her from slavery.
+\*Miss Lebowski begs you to free her from slavery.
 
 Miss Lebowski glows with a bright light!
 
-<736hp 343ma 186mv>
+\<736hp 343ma 186mv\>
 
 Miss Lebowski utters the words, 'uizuguburuhl'
 
-<736hp 344ma 187mv>
+\<736hp 344ma 187mv\>
 
 You feel less protected.
 
 cast 'stone skin' Assirian
 
-<736hp 345ma 188mv>
+\<736hp 345ma 188mv\>
 
 Ok.
 
 You feel your skin become much, much stronger.
 
-<736hp 330ma 188mv>
+\<736hp 330ma 188mv\>
 
 cast 'sanc' Assirian
 
@@ -740,7 +746,7 @@ Ok.
 
 You start glowing.
 
-<736hp 258ma 189mv>
+\<736hp 258ma 189mv\>
 
 Miss Lebowski utters the words, 'uizuguburuhl'
 
@@ -766,7 +772,7 @@ cast 'silence' wizard
 
 Ok.
 
-A firenewt war wizard's mouth clams shut![/color:3a39vv71]
+A firenewt war wizard's mouth clams shut!
 
 538hp 164ma 143mv -8.4ac -1
 
@@ -792,7 +798,7 @@ You massacre a firenewt war wizard to small fragments with your slash.
 
 You slash a firenewt war wizard extremely hard.
 
-A firenewt war wizard utters the words 'ya azik xarfzx'.[/color:3a39vv71]
+A firenewt war wizard utters the words 'ya azik xarfzx'.
 
 A hellish swarm of flaming meteors flies from a firenewt war wizard's hand!
 
@@ -822,7 +828,7 @@ You are enveloped in flames from a fireball sent by a firenewt war wizard - OUCH
 
 431hp 167ma 144mv -8.4ac -1
 
-Tested most of the caster mobs in Firenewts, all cast through silence.  Thanks in advance.
+Tested most of the caster mobs in Firenewts, all cast through silence. Thanks in advance.
 
 </div>
 
@@ -840,7 +846,7 @@ cast 'silence' wizard
 
 Ok.
 
-A firenewt war wizard's mouth clams shut![/color:38w138sn]
+A firenewt war wizard's mouth clams shut!
 
 538hp 164ma 143mv -8.4ac -1
 
@@ -866,7 +872,7 @@ You massacre a firenewt war wizard to small fragments with your slash.
 
 You slash a firenewt war wizard extremely hard.
 
-A firenewt war wizard utters the words 'ya azik xarfzx'.[/color:38w138sn]
+A firenewt war wizard utters the words 'ya azik xarfzx'.
 
 A hellish swarm of flaming meteors flies from a firenewt war wizard's hand!
 
@@ -896,7 +902,7 @@ You are enveloped in flames from a fireball sent by a firenewt war wizard - OUCH
 
 431hp 167ma 144mv -8.4ac -1
 
-Tested most of the caster mobs in Firenewts, all cast through silence.  Thanks in advance.
+Tested most of the caster mobs in Firenewts, all cast through silence. Thanks in advance.
 
 </div>
 
@@ -928,21 +934,26 @@ Charles
 
 <div class="post" data-post-id="12880" data-author="12345" data-date="2006-06-04T04:18:02+00:00" data-subject="Re: casting bug">
 
-It's not really concerning Silence, but this could be fixed too:
+> <strong>Avatar wrote:</strong>
+> It's not really concerning Silence, but this could be fixed too:
+> 
+> 
+> 
+> Ygol the Arch-Lich utters the words, 'heal'
+> 
+> Ygol the Arch-Lich heals himself.
+> 
+> Ygol the Arch-Lich has been banished to the astral plane!
+> 
+> Everything Ygol the Arch-Lich was carrying suddenly drops to the ground.
+> 
+> 
+> 
+> Regards,
+> 
+> Charles
 
-Ygol the Arch-Lich utters the words, 'heal'
-
-Ygol the Arch-Lich heals himself.
-
-Ygol the Arch-Lich has been banished to the astral plane!
-
-Everything Ygol the Arch-Lich was carrying suddenly drops to the ground.
-
-Regards,
-
-Charles[/quote:1kuzfju1]
-
-I kinda liked that proc :)
+I kinda liked that proc <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -952,15 +963,15 @@ another one that doesn't know when to stfu..
 
 Firenewt Dwelling Chamber
 
-   This large black marble chamber is comfortably furnished.  Red velvet 
+ This large black marble chamber is comfortably furnished. Red velvet 
 
 and black wooden furniture sits in stately fashion near some large book- 
 
-cases also made of a painted black wood.  A large bed, almost as an after- 
+cases also made of a painted black wood. A large bed, almost as an after- 
 
-thought, sits against the western wall.  
+thought, sits against the western wall. 
 
-Exits: South  
+Exits: South 
 
 A black-robed firenewt war wizard stands here.
 
@@ -994,21 +1005,21 @@ You viciously massacre a firenewt war wizard with your pierce.
 
 A firenewt war wizard utters the words 'fzimmo bofnil'.
 
-There is a puff of smoke, and a firenewt sergeant appears![/color:q4dv6c3g]
+There is a puff of smoke, and a firenewt sergeant appears!
 
-:)
+<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="13255" data-author="kjartan" data-date="2006-07-03T18:09:07+00:00" data-subject="">
 
-Fixed, incor.  I also fixed the bully clouds' 'skitzle' spell while I was in there.
+Fixed, incor. I also fixed the bully clouds' 'skitzle' spell while I was in there.
 
 </div>
 
 <div class="post" data-post-id="13686" data-author="madmax" data-date="2006-08-07T03:11:13+00:00" data-subject="">
 
-<334hp 273ma 102mv>
+\<334hp 273ma 102mv\>
 
 You weave the threads of magic masterfully!
 
@@ -1016,7 +1027,7 @@ A maimed elf's mouth clams shut!
 
 (Cut spam)
 
-<334hp 264ma 102mv>
+\<334hp 264ma 102mv\>
 
 Your weapon blasts a maimed elf with a cone of frost!
 
@@ -1034,13 +1045,13 @@ Si pierces a maimed elf extremely hard.
 
 Tallac tickles a maimed elf with his hit.
 
-The maimed elf says `I will remember you, Tallac. We, elves, live long and remember well...`
+The maimed elf says \`I will remember you, Tallac. We, elves, live long and remember well...\`
 
 The maimed elf produces a small vial of colored liquid.
 
 He smashes it with his mace, and is gone in a puff of blue smoke!
 
-Not that he couldnt use the vial without saying anything.  Also, he smashes it with his mace (that he dosent have.)
+Not that he couldnt use the vial without saying anything. Also, he smashes it with his mace (that he dosent have.)
 
 Madmax
 
@@ -1060,7 +1071,7 @@ He smashes it with his mace, and is gone in a puff of blue smoke!
 
 <div class="post" data-post-id="13689" data-author="kjartan" data-date="2006-08-08T01:11:46+00:00" data-subject="">
 
-Fixed, although not exactly as Nascosto suggested.  And he DOES have a mace, read his description.
+Fixed, although not exactly as Nascosto suggested. And he DOES have a mace, read his description.
 
 </div>
 

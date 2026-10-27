@@ -12,7 +12,7 @@ post_count: 1
 
 <div class="post" data-post-id="33684" data-author="raincrab" data-date="2012-10-27T10:07:58+00:00" data-subject="VK Autoquest bug">
 
-I showed this to juggleblood a week ago or so, he said it was setup right, but probably a bug in the code.  I poked around a bit more with it, came up with this cyclical conversation:
+I showed this to juggleblood a week ago or so, he said it was setup right, but probably a bug in the code. I poked around a bit more with it, came up with this cyclical conversation:
 
 ```
 > ask azra about quests
@@ -30,19 +30,19 @@ You ask Azra, the cartographer about 'map_of_burbalangs'.
 Azra, the cartographer tells you 'I don't have a map of the newly'
 Azra, the cartographer tells you 'discovered area of catwalks that hangs below Newbatia...'
 Azra, the cartographer tells you 'if you would fully explore that area and then come back to'
-Azra, the cartographer tells you 'tell me about it, I would be most grateful!  I'm only a poor'
+Azra, the cartographer tells you 'tell me about it, I would be most grateful! I'm only a poor'
 Azra, the cartographer tells you 'mapmaker, but I could pay you 500 gold, and I'm sure the'
 Azra, the cartographer tells you 'experience would benefit an adventurer such as yourself!'
 
 > undertake map_of_burbalangs
 
 Azra, the cartographer tells you 'Sadly, you aren't eligible for this quest because you must 
-    first complete 'map_of_mines''
+ first complete 'map_of_mines''
 
 > undertake map_of_mines
 
 Azra, the cartographer tells you 'Sadly, you aren't eligible for this quest because you must 
-    first complete 'map_collection''
+ first complete 'map_collection''
 
 > undertake map_collection
 
@@ -54,7 +54,7 @@ You ask Azra, the cartographer about 'map_collection'.
 Azra, the cartographer tells you 'I don't have a map of the newly'
 Azra, the cartographer tells you 'discovered area of catwalks that hangs below Newbatia...'
 Azra, the cartographer tells you 'if you would fully explore that area and then come back to'
-Azra, the cartographer tells you 'tell me about it, I would be most grateful!  I'm only a poor'
+Azra, the cartographer tells you 'tell me about it, I would be most grateful! I'm only a poor'
 Azra, the cartographer tells you 'mapmaker, but I could pay you 500 gold, and I'm sure the'
 Azra, the cartographer tells you 'experience would benefit an adventurer such as yourself!'
 ```

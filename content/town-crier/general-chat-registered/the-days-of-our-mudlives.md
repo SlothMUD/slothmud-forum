@@ -16,9 +16,9 @@ I just had an awesome idea. How about an funny MUD moments thread? Like, someone
 
 Today, I bring you Gelding in "Creativity At Its Best (Worst?)"
 
-------------------
+\------------------
 
-<107hp 31ma 176mv>
+\<107hp 31ma 176mv\>
 
 wake
 
@@ -26,43 +26,43 @@ stand
 
 You wake, and sit up.
 
-<108hp 31ma 176mv>
+\<108hp 31ma 176mv\>
 
 You stand up.
 
-<108hp 32ma 176mv>
+\<108hp 32ma 176mv\>
 
 where gelding
 
-You are in Settlestone.  Also in this area are:
+You are in Settlestone. Also in this area are:
 
-Name                           - Location
+Name - Location
 
------------------------------------------
+\-----------------------------------------
 
-Gelding                        - Settlestone's Guest House
+Gelding - Settlestone's Guest House
 
-<109hp 32ma 176mv>
+\<109hp 32ma 176mv\>
 
 l
 
 Settlestone's Guest House
 
-   This great house is adorned with the comfort of wary travelers in mind.  
+ This great house is adorned with the comfort of wary travelers in mind. 
 
 Along the northern wall is a grand fireplace with several cozy chairs 
 
-parked within range of its fiery essence.  The floor is covered with a 
+parked within range of its fiery essence. The floor is covered with a 
 
-luxuriously crafted rug and the walls are lined with soothing paintings.  
+luxuriously crafted rug and the walls are lined with soothing paintings. 
 
 There is an antique wooden desk near the large stairwell which leads into 
 
-the guest rooms above.  On top of the desk is a large, leather-bound book 
+the guest rooms above. On top of the desk is a large, leather-bound book 
 
-marked 'Registry'.  
+marked 'Registry'. 
 
-Exits: South  West  
+Exits: South West 
 
 The mythical script is lying on the ground here...It emits a faint humming sound!
 
@@ -86,11 +86,11 @@ Gelding is surrounded by a translucent green sphere!
 
 A small red hamster is resting here.
 
-Nice >>THANKS WASP!!<<(HATES piiz/slipknot,kill if i can) is sleeping here.
+Nice \>\>THANKS WASP!!\<\<(HATES piiz/slipknot,kill if i can) is sleeping here.
 
 Shallah, Mistress of the House stands here, waving you in.
 
-<109hp 32ma 176mv>
+\<109hp 32ma 176mv\>
 
 l gelding
 
@@ -100,41 +100,41 @@ Gelding has a few scratches.
 
 Gelding is using:
 
-<used as light>      a green chem-lite..It has a soft glowing aura!
+\<used as light\> a green chem-lite..It has a soft glowing aura!
 
-<worn on finger>     A Sunburst Ring..It has a soft glowing aura!
+\<worn on finger\> A Sunburst Ring..It has a soft glowing aura!
 
-<worn on finger>     a lost cross signet ring..It emits a faint humming sound!
+\<worn on finger\> a lost cross signet ring..It emits a faint humming sound!
 
-<worn around neck>   A Talisman of the Inner Planes..It has a soft glowing aura!
+\<worn around neck\> A Talisman of the Inner Planes..It has a soft glowing aura!
 
-<worn on shoulders>  Armaments of Dwarvish Faith..It has a soft glowing aura!
+\<worn on shoulders\> Armaments of Dwarvish Faith..It has a soft glowing aura!
 
-<worn on body>       Adamantine Cuirass of the Ancients
+\<worn on body\> Adamantine Cuirass of the Ancients
 
-<worn on head>       a helm of fiery radiance..It has a soft glowing aura!
+\<worn on head\> a helm of fiery radiance..It has a soft glowing aura!
 
-<worn on legs>       the greaves of war..It emits a faint humming sound!
+\<worn on legs\> the greaves of war..It emits a faint humming sound!
 
-<worn on feet>       black demonskin boots..It emits a faint humming sound!
+\<worn on feet\> black demonskin boots..It emits a faint humming sound!
 
-<worn on hands>      a pair of mosaic gloves..It has a soft glowing aura!
+\<worn on hands\> a pair of mosaic gloves..It has a soft glowing aura!
 
-<worn on arms>       polished rock sleeves
+\<worn on arms\> polished rock sleeves
 
-<worn as shield>     the Shield of the Titans..It has a soft glowing aura!
+\<worn as shield\> the Shield of the Titans..It has a soft glowing aura!
 
-<worn about body>    crystalline silk robe..It has a soft glowing aura!
+\<worn about body\> crystalline silk robe..It has a soft glowing aura!
 
-<worn about waist>   Tooled Girdle of Ogre Kings
+\<worn about waist\> Tooled Girdle of Ogre Kings
 
-<worn around wrist>  an ashen bracelet
+\<worn around wrist\> an ashen bracelet
 
-<worn around wrist>  a runed onyx bracelet
+\<worn around wrist\> a runed onyx bracelet
 
-<wielded>            a pig sticker..It emits a faint humming sound!
+\<wielded\> a pig sticker..It emits a faint humming sound!
 
-<held>               a battered silver medallion..It has a soft glowing aura!
+\<held\> a battered silver medallion..It has a soft glowing aura!
 
 You attempt to peek at the inventory:
 
@@ -148,11 +148,11 @@ a ruddy scale..It emits a faint humming sound!
 
 a battered suitcase
 
-<111hp 33ma 176mv>
+\<111hp 33ma 176mv\>
 
 Gelding looks at you.
 
-<112hp 33ma 176mv>
+\<112hp 33ma 176mv\>
 
 save
 
@@ -162,31 +162,31 @@ Saving Braxus.
 
 Saving items.
 
-<113hp 33ma 176mv>
+\<113hp 33ma 176mv\>
 
 Gelding heroically rescues a darkskinned elf scout.
 
-<113hp 33ma 176mv>
+\<113hp 33ma 176mv\>
 
 l
 
 Settlestone's Guest House
 
-   This great house is adorned with the comfort of wary travelers in mind.  
+ This great house is adorned with the comfort of wary travelers in mind. 
 
 Along the northern wall is a grand fireplace with several cozy chairs 
 
-parked within range of its fiery essence.  The floor is covered with a 
+parked within range of its fiery essence. The floor is covered with a 
 
-luxuriously crafted rug and the walls are lined with soothing paintings.  
+luxuriously crafted rug and the walls are lined with soothing paintings. 
 
 There is an antique wooden desk near the large stairwell which leads into 
 
-the guest rooms above.  On top of the desk is a large, leather-bound book 
+the guest rooms above. On top of the desk is a large, leather-bound book 
 
-marked 'Registry'.  
+marked 'Registry'. 
 
-Exits: South  West  
+Exits: South West 
 
 The mythical script is lying on the ground here...It emits a faint humming sound!
 
@@ -210,11 +210,11 @@ Gelding is surrounded by a translucent green sphere!
 
 A small red hamster is resting here.
 
-Nice >>THANKS WASP!!<<(HATES piiz/slipknot,kill if i can) is here, fighting Gelding
+Nice \>\>THANKS WASP!!\<\<(HATES piiz/slipknot,kill if i can) is here, fighting Gelding
 
 Shallah, Mistress of the House stands here, waving you in.
 
-<115hp 33ma 176mv>
+\<115hp 33ma 176mv\>
 
 Nice delivers a critical blow to one of Gelding's vital organs.
 
@@ -234,27 +234,27 @@ Gelding massacres Nice to small fragments with his pierce.
 
 Gelding massacres Nice to small fragments with his pierce.
 
-<116hp 34ma 176mv>
+\<116hp 34ma 176mv\>
 
 l
 
 Settlestone's Guest House
 
-   This great house is adorned with the comfort of wary travelers in mind.  
+ This great house is adorned with the comfort of wary travelers in mind. 
 
 Along the northern wall is a grand fireplace with several cozy chairs 
 
-parked within range of its fiery essence.  The floor is covered with a 
+parked within range of its fiery essence. The floor is covered with a 
 
-luxuriously crafted rug and the walls are lined with soothing paintings.  
+luxuriously crafted rug and the walls are lined with soothing paintings. 
 
 There is an antique wooden desk near the large stairwell which leads into 
 
-the guest rooms above.  On top of the desk is a large, leather-bound book 
+the guest rooms above. On top of the desk is a large, leather-bound book 
 
-marked 'Registry'.  
+marked 'Registry'. 
 
-Exits: South  West  
+Exits: South West 
 
 The mythical script is lying on the ground here...It emits a faint humming sound!
 
@@ -278,35 +278,35 @@ Gelding is surrounded by a translucent green sphere!
 
 A small red hamster is resting here.
 
-Nice >>THANKS WASP!!<<(HATES piiz/slipknot,kill if i can) is here, fighting Gelding
+Nice \>\>THANKS WASP!!\<\<(HATES piiz/slipknot,kill if i can) is here, fighting Gelding
 
 Shallah, Mistress of the House stands here, waving you in.
 
-<118hp 34ma 176mv>
+\<118hp 34ma 176mv\>
 
 Gelding panics, and attempts to flee.
 
-<119hp 34ma 176mv>
+\<119hp 34ma 176mv\>
 
 l
 
 Settlestone's Guest House
 
-   This great house is adorned with the comfort of wary travelers in mind.  
+ This great house is adorned with the comfort of wary travelers in mind. 
 
 Along the northern wall is a grand fireplace with several cozy chairs 
 
-parked within range of its fiery essence.  The floor is covered with a 
+parked within range of its fiery essence. The floor is covered with a 
 
-luxuriously crafted rug and the walls are lined with soothing paintings.  
+luxuriously crafted rug and the walls are lined with soothing paintings. 
 
 There is an antique wooden desk near the large stairwell which leads into 
 
-the guest rooms above.  On top of the desk is a large, leather-bound book 
+the guest rooms above. On top of the desk is a large, leather-bound book 
 
-marked 'Registry'.  
+marked 'Registry'. 
 
-Exits: South  West  
+Exits: South West 
 
 The mythical script is lying on the ground here...It emits a faint humming sound!
 
@@ -326,15 +326,15 @@ A darkskinned elf is here scouting the area.
 
 A small red hamster is resting here.
 
-Nice >>THANKS WASP!!<<(HATES piiz/slipknot,kill if i can) is standing here.
+Nice \>\>THANKS WASP!!\<\<(HATES piiz/slipknot,kill if i can) is standing here.
 
 Shallah, Mistress of the House stands here, waving you in.
 
-<121hp 35ma 176mv>
+\<121hp 35ma 176mv\>
 
 A darkskinned elf scout brutally massacres Nice with his hit.
 
-<121hp 35ma 176mv>
+\<121hp 35ma 176mv\>
 
 l nice
 
@@ -344,39 +344,39 @@ Nice has quite a few wounds.
 
 Nice is using:
 
-<used as light>      the obsidian jewel of souls..It has a soft glowing aura!
+\<used as light\> the obsidian jewel of souls..It has a soft glowing aura!
 
-<worn on finger>     a fiery ring of light..It has a soft glowing aura!
+\<worn on finger\> a fiery ring of light..It has a soft glowing aura!
 
-<worn on finger>     a fiery ring of light..It has a soft glowing aura!
+\<worn on finger\> a fiery ring of light..It has a soft glowing aura!
 
-<worn around neck>   a ruby choker..It has a soft glowing aura!
+\<worn around neck\> a ruby choker..It has a soft glowing aura!
 
-<worn on body>       a lava encrusted shirt..It has a soft glowing aura!
+\<worn on body\> a lava encrusted shirt..It has a soft glowing aura!
 
-<worn on head>       a helm of fiery radiance..It has a soft glowing aura!
+\<worn on head\> a helm of fiery radiance..It has a soft glowing aura!
 
-<worn on legs>       a pair of crystalline silk leggings..It has a soft glowing aura!
+\<worn on legs\> a pair of crystalline silk leggings..It has a soft glowing aura!
 
-<worn on feet>       a pair of blood covered boots
+\<worn on feet\> a pair of blood covered boots
 
-<worn on hands>      a set of emerald gauntlets
+\<worn on hands\> a set of emerald gauntlets
 
-<worn on arms>       a pair of granite bracers
+\<worn on arms\> a pair of granite bracers
 
-<worn as shield>     a runed shield of the moon..It has a soft glowing aura!
+\<worn as shield\> a runed shield of the moon..It has a soft glowing aura!
 
-<worn about body>    crystalline silk robe..It has a soft glowing aura!
+\<worn about body\> crystalline silk robe..It has a soft glowing aura!
 
-<worn about waist>   an ethereal sash..It has a soft glowing aura!
+\<worn about waist\> an ethereal sash..It has a soft glowing aura!
 
-<worn around wrist>  a runed onyx bracelet
+\<worn around wrist\> a runed onyx bracelet
 
-<worn around wrist>  a runed onyx bracelet
+\<worn around wrist\> a runed onyx bracelet
 
-<wielded>            a loggers maul(invisible)..It has a soft glowing aura!
+\<wielded\> a loggers maul(invisible)..It has a soft glowing aura!
 
-<held>               a glowing tome of the gods..It has a soft glowing aura!
+\<held\> a glowing tome of the gods..It has a soft glowing aura!
 
 You attempt to peek at the inventory:
 
@@ -390,7 +390,7 @@ a scroll of recall
 
 a bottle of embalming fluid
 
-<122hp 35ma 176mv>
+\<122hp 35ma 176mv\>
 
 Nice crushes a darkskinned elf scout very hard.
 
@@ -406,11 +406,11 @@ Nice massacres a darkskinned elf scout to small fragments with his crush.
 
 Nice crushes a darkskinned elf scout very hard.
 
-<124hp 36ma 176mv>
+\<124hp 36ma 176mv\>
 
 Nice eats dwarvish rations.
 
-<125hp 36ma 176mv>
+\<125hp 36ma 176mv\>
 
 Nice crushes a darkskinned elf scout extremely hard.
 
@@ -422,7 +422,7 @@ A darkskinned elf scout viciously massacres Nice with his hit.
 
 Nice is stunned, but will probably regain consciousness again.
 
-<127hp 36ma 176mv>
+\<127hp 36ma 176mv\>
 
 l nice
 
@@ -432,39 +432,39 @@ Nice is in awful condition.
 
 Nice is using:
 
-<used as light>      the obsidian jewel of souls..It has a soft glowing aura!
+\<used as light\> the obsidian jewel of souls..It has a soft glowing aura!
 
-<worn on finger>     a fiery ring of light..It has a soft glowing aura!
+\<worn on finger\> a fiery ring of light..It has a soft glowing aura!
 
-<worn on finger>     a fiery ring of light..It has a soft glowing aura!
+\<worn on finger\> a fiery ring of light..It has a soft glowing aura!
 
-<worn around neck>   a ruby choker..It has a soft glowing aura!
+\<worn around neck\> a ruby choker..It has a soft glowing aura!
 
-<worn on body>       a lava encrusted shirt..It has a soft glowing aura!
+\<worn on body\> a lava encrusted shirt..It has a soft glowing aura!
 
-<worn on head>       a helm of fiery radiance..It has a soft glowing aura!
+\<worn on head\> a helm of fiery radiance..It has a soft glowing aura!
 
-<worn on legs>       a pair of crystalline silk leggings..It has a soft glowing aura!
+\<worn on legs\> a pair of crystalline silk leggings..It has a soft glowing aura!
 
-<worn on feet>       a pair of blood covered boots
+\<worn on feet\> a pair of blood covered boots
 
-<worn on hands>      a set of emerald gauntlets
+\<worn on hands\> a set of emerald gauntlets
 
-<worn on arms>       a pair of granite bracers
+\<worn on arms\> a pair of granite bracers
 
-<worn as shield>     a runed shield of the moon..It has a soft glowing aura!
+\<worn as shield\> a runed shield of the moon..It has a soft glowing aura!
 
-<worn about body>    crystalline silk robe..It has a soft glowing aura!
+\<worn about body\> crystalline silk robe..It has a soft glowing aura!
 
-<worn about waist>   an ethereal sash..It has a soft glowing aura!
+\<worn about waist\> an ethereal sash..It has a soft glowing aura!
 
-<worn around wrist>  a runed onyx bracelet
+\<worn around wrist\> a runed onyx bracelet
 
-<worn around wrist>  a runed onyx bracelet
+\<worn around wrist\> a runed onyx bracelet
 
-<wielded>            a loggers maul(invisible)..It has a soft glowing aura!
+\<wielded\> a loggers maul(invisible)..It has a soft glowing aura!
 
-<held>               a glowing tome of the gods..It has a soft glowing aura!
+\<held\> a glowing tome of the gods..It has a soft glowing aura!
 
 You attempt to peek at the inventory:
 
@@ -476,27 +476,27 @@ a scroll of recall
 
 a bottle of embalming fluid
 
-<128hp 37ma 176mv>
+\<128hp 37ma 176mv\>
 
 l
 
 Settlestone's Guest House
 
-   This great house is adorned with the comfort of wary travelers in mind.  
+ This great house is adorned with the comfort of wary travelers in mind. 
 
 Along the northern wall is a grand fireplace with several cozy chairs 
 
-parked within range of its fiery essence.  The floor is covered with a 
+parked within range of its fiery essence. The floor is covered with a 
 
-luxuriously crafted rug and the walls are lined with soothing paintings.  
+luxuriously crafted rug and the walls are lined with soothing paintings. 
 
 There is an antique wooden desk near the large stairwell which leads into 
 
-the guest rooms above.  On top of the desk is a large, leather-bound book 
+the guest rooms above. On top of the desk is a large, leather-bound book 
 
-marked 'Registry'.  
+marked 'Registry'. 
 
-Exits: South  West  
+Exits: South West 
 
 The mythical script is lying on the ground here...It emits a faint humming sound!
 
@@ -516,27 +516,27 @@ A darkskinned elf is here scouting the area.
 
 A small red hamster is resting here.
 
-Nice >>THANKS WASP!!<<(HATES piiz/slipknot,kill if i can) is lying here, stunned.
+Nice \>\>THANKS WASP!!\<\<(HATES piiz/slipknot,kill if i can) is lying here, stunned.
 
 Shallah, Mistress of the House stands here, waving you in.
 
-<129hp 37ma 176mv>
+\<129hp 37ma 176mv\>
 
 A darkskinned elf scout viciously massacres Nice with his hit.
 
 Nice is dead! R.I.P.
 
-<130hp 37ma 176mv>
+\<130hp 37ma 176mv\>
 
 res
 
 You sit down and rest your tired bones.
 
-<134hp 38ma 176mv>
+\<134hp 38ma 176mv\>
 
 A darkskinned elf scout massacres Gelding to small fragments with his hit.
 
-<138hp 39ma 176mv>
+\<138hp 39ma 176mv\>
 
 A darkskinned elf scout realizes that Gelding is a jerk!
 
@@ -554,27 +554,27 @@ Gelding massacres a darkskinned elf scout to small fragments with his pierce.
 
 Gelding massacres a darkskinned elf scout to small fragments with his pierce.
 
-<139hp 40ma 176mv>
+\<139hp 40ma 176mv\>
 
 l
 
 Settlestone's Guest House
 
-   This great house is adorned with the comfort of wary travelers in mind.  
+ This great house is adorned with the comfort of wary travelers in mind. 
 
 Along the northern wall is a grand fireplace with several cozy chairs 
 
-parked within range of its fiery essence.  The floor is covered with a 
+parked within range of its fiery essence. The floor is covered with a 
 
-luxuriously crafted rug and the walls are lined with soothing paintings.  
+luxuriously crafted rug and the walls are lined with soothing paintings. 
 
 There is an antique wooden desk near the large stairwell which leads into 
 
-the guest rooms above.  On top of the desk is a large, leather-bound book 
+the guest rooms above. On top of the desk is a large, leather-bound book 
 
-marked 'Registry'.  
+marked 'Registry'. 
 
-Exits: South  West  
+Exits: South West 
 
 The mythical script is lying on the ground here...It emits a faint humming sound!
 
@@ -598,19 +598,19 @@ A darkskinned elf scout is here, fighting Gelding
 
 A small red hamster is resting here.
 
-Nice >>THANKS WASP!!<<(HATES piiz/slipknot,kill if i can) is lying here, dead.
+Nice \>\>THANKS WASP!!\<\<(HATES piiz/slipknot,kill if i can) is lying here, dead.
 
 Shallah, Mistress of the House stands here, waving you in.
 
-<140hp 40ma 176mv>
+\<140hp 40ma 176mv\>
 
 l scout
 
-Before you stands a thin, sleek, well muscled dark elf.  He snarls loudly as
+Before you stands a thin, sleek, well muscled dark elf. He snarls loudly as
 
 he notices you. It seems he did not expect to see you here. He runs towards
 
-you while he draws a long curved scimitar from his back scabbard.  With a bone
+you while he draws a long curved scimitar from his back scabbard. With a bone
 
 chilling death cry he advances on you!
 
@@ -620,7 +620,7 @@ You attempt to peek at the inventory:
 
 You can't see anything.
 
-<143hp 41ma 176mv>
+\<143hp 41ma 176mv\>
 
 l gelding
 
@@ -640,7 +640,7 @@ Gelding misses a darkskinned elf scout with his pierce.
 
 A darkskinned elf scout misses a kick at Gelding's groin.
 
-<143hp 41ma 176mv>
+\<143hp 41ma 176mv\>
 
 You see nothing special about him.
 
@@ -648,41 +648,41 @@ Gelding has quite a few wounds.
 
 Gelding is using:
 
-<used as light>      a green chem-lite..It has a soft glowing aura!
+\<used as light\> a green chem-lite..It has a soft glowing aura!
 
-<worn on finger>     A Sunburst Ring..It has a soft glowing aura!
+\<worn on finger\> A Sunburst Ring..It has a soft glowing aura!
 
-<worn on finger>     a lost cross signet ring..It emits a faint humming sound!
+\<worn on finger\> a lost cross signet ring..It emits a faint humming sound!
 
-<worn around neck>   A Talisman of the Inner Planes..It has a soft glowing aura!
+\<worn around neck\> A Talisman of the Inner Planes..It has a soft glowing aura!
 
-<worn on shoulders>  Armaments of Dwarvish Faith..It has a soft glowing aura!
+\<worn on shoulders\> Armaments of Dwarvish Faith..It has a soft glowing aura!
 
-<worn on body>       Adamantine Cuirass of the Ancients
+\<worn on body\> Adamantine Cuirass of the Ancients
 
-<worn on head>       a helm of fiery radiance..It has a soft glowing aura!
+\<worn on head\> a helm of fiery radiance..It has a soft glowing aura!
 
-<worn on legs>       the greaves of war..It emits a faint humming sound!
+\<worn on legs\> the greaves of war..It emits a faint humming sound!
 
-<worn on feet>       black demonskin boots..It emits a faint humming sound!
+\<worn on feet\> black demonskin boots..It emits a faint humming sound!
 
-<worn on hands>      a pair of mosaic gloves..It has a soft glowing aura!
+\<worn on hands\> a pair of mosaic gloves..It has a soft glowing aura!
 
-<worn on arms>       polished rock sleeves
+\<worn on arms\> polished rock sleeves
 
-<worn as shield>     the Shield of the Titans..It has a soft glowing aura!
+\<worn as shield\> the Shield of the Titans..It has a soft glowing aura!
 
-<worn about body>    crystalline silk robe..It has a soft glowing aura!
+\<worn about body\> crystalline silk robe..It has a soft glowing aura!
 
-<worn about waist>   Tooled Girdle of Ogre Kings
+\<worn about waist\> Tooled Girdle of Ogre Kings
 
-<worn around wrist>  an ashen bracelet
+\<worn around wrist\> an ashen bracelet
 
-<worn around wrist>  a runed onyx bracelet
+\<worn around wrist\> a runed onyx bracelet
 
-<wielded>            a pig sticker..It emits a faint humming sound!
+\<wielded\> a pig sticker..It emits a faint humming sound!
 
-<held>               a battered silver medallion..It has a soft glowing aura!
+\<held\> a battered silver medallion..It has a soft glowing aura!
 
 You attempt to peek at the inventory:
 
@@ -696,21 +696,21 @@ a ruddy scale..It emits a faint humming sound!
 
 a battered suitcase
 
-<143hp 41ma 176mv>
+\<143hp 41ma 176mv\>
 
 Gelding looks at you.
 
-<144hp 41ma 176mv>
+\<144hp 41ma 176mv\>
 
 Aldrin gossips-- 'free tri token in entrance to catacombs'
 
-<145hp 42ma 176mv>
+\<145hp 42ma 176mv\>
 
 score
 
-Braxus <~Butt Pirate~> Baked Priest  (level: 40)
+Braxus \<\~Butt Pirate\~\> Baked Priest (level: 40)
 
-Your levels:  Th: 40 Wa: 32 Ma: 25 Cl: 18 
+Your levels: Th: 40 Wa: 32 Ma: 25 Cl: 18 
 
 You are 26 years and 11 months old.
 
@@ -742,11 +742,11 @@ You are resting.
 
 You are affected by the following spells:
 
-   Invisibility                     
+ Invisibility 
 
-   Detect Invisible                 
+ Detect Invisible 
 
-<145hp 42ma 176mv>
+\<145hp 42ma 176mv\>
 
 Gelding massacres a darkskinned elf scout to small fragments with his pierce.
 
@@ -762,27 +762,27 @@ Gelding massacres a darkskinned elf scout to small fragments with his pierce.
 
 A darkskinned elf scout is stunned, but will probably regain consciousness again.
 
-<147hp 43ma 176mv>
+\<147hp 43ma 176mv\>
 
 l
 
 Settlestone's Guest House
 
-   This great house is adorned with the comfort of wary travelers in mind.  
+ This great house is adorned with the comfort of wary travelers in mind. 
 
 Along the northern wall is a grand fireplace with several cozy chairs 
 
-parked within range of its fiery essence.  The floor is covered with a 
+parked within range of its fiery essence. The floor is covered with a 
 
-luxuriously crafted rug and the walls are lined with soothing paintings.  
+luxuriously crafted rug and the walls are lined with soothing paintings. 
 
 There is an antique wooden desk near the large stairwell which leads into 
 
-the guest rooms above.  On top of the desk is a large, leather-bound book 
+the guest rooms above. On top of the desk is a large, leather-bound book 
 
-marked 'Registry'.  
+marked 'Registry'. 
 
-Exits: South  West  
+Exits: South West 
 
 The mythical script is lying on the ground here...It emits a faint humming sound!
 
@@ -806,11 +806,11 @@ A darkskinned elf scout is lying here, stunned.
 
 A small red hamster is resting here.
 
-Nice >>THANKS WASP!!<<(HATES piiz/slipknot,kill if i can) is lying here, dead.
+Nice \>\>THANKS WASP!!\<\<(HATES piiz/slipknot,kill if i can) is lying here, dead.
 
 Shallah, Mistress of the House stands here, waving you in.
 
-<148hp 43ma 176mv>
+\<148hp 43ma 176mv\>
 
 l gelding
 
@@ -820,41 +820,41 @@ Gelding has quite a few wounds.
 
 Gelding is using:
 
-<used as light>      a green chem-lite..It has a soft glowing aura!
+\<used as light\> a green chem-lite..It has a soft glowing aura!
 
-<worn on finger>     A Sunburst Ring..It has a soft glowing aura!
+\<worn on finger\> A Sunburst Ring..It has a soft glowing aura!
 
-<worn on finger>     a lost cross signet ring..It emits a faint humming sound!
+\<worn on finger\> a lost cross signet ring..It emits a faint humming sound!
 
-<worn around neck>   A Talisman of the Inner Planes..It has a soft glowing aura!
+\<worn around neck\> A Talisman of the Inner Planes..It has a soft glowing aura!
 
-<worn on shoulders>  Armaments of Dwarvish Faith..It has a soft glowing aura!
+\<worn on shoulders\> Armaments of Dwarvish Faith..It has a soft glowing aura!
 
-<worn on body>       Adamantine Cuirass of the Ancients
+\<worn on body\> Adamantine Cuirass of the Ancients
 
-<worn on head>       a helm of fiery radiance..It has a soft glowing aura!
+\<worn on head\> a helm of fiery radiance..It has a soft glowing aura!
 
-<worn on legs>       the greaves of war..It emits a faint humming sound!
+\<worn on legs\> the greaves of war..It emits a faint humming sound!
 
-<worn on feet>       black demonskin boots..It emits a faint humming sound!
+\<worn on feet\> black demonskin boots..It emits a faint humming sound!
 
-<worn on hands>      a pair of mosaic gloves..It has a soft glowing aura!
+\<worn on hands\> a pair of mosaic gloves..It has a soft glowing aura!
 
-<worn on arms>       polished rock sleeves
+\<worn on arms\> polished rock sleeves
 
-<worn as shield>     the Shield of the Titans..It has a soft glowing aura!
+\<worn as shield\> the Shield of the Titans..It has a soft glowing aura!
 
-<worn about body>    crystalline silk robe..It has a soft glowing aura!
+\<worn about body\> crystalline silk robe..It has a soft glowing aura!
 
-<worn about waist>   Tooled Girdle of Ogre Kings
+\<worn about waist\> Tooled Girdle of Ogre Kings
 
-<worn around wrist>  an ashen bracelet
+\<worn around wrist\> an ashen bracelet
 
-<worn around wrist>  a runed onyx bracelet
+\<worn around wrist\> a runed onyx bracelet
 
-<wielded>            a pig sticker..It emits a faint humming sound!
+\<wielded\> a pig sticker..It emits a faint humming sound!
 
-<held>               a battered silver medallion..It has a soft glowing aura!
+\<held\> a battered silver medallion..It has a soft glowing aura!
 
 You attempt to peek at the inventory:
 
@@ -868,7 +868,7 @@ a ruddy scale..It emits a faint humming sound!
 
 a battered suitcase
 
-<151hp 44ma 176mv>
+\<151hp 44ma 176mv\>
 
 Gelding brutally massacres a darkskinned elf scout with his pierce.
 
@@ -878,27 +878,27 @@ Your blood freezes as you hear a darkskinned elf scout's death cry.
 
 Gelding gets gold coins from the corpse of a darkskinned elf scout that's on the ground.
 
-<151hp 44ma 176mv>
+\<151hp 44ma 176mv\>
 
 l
 
 Settlestone's Guest House
 
-   This great house is adorned with the comfort of wary travelers in mind.  
+ This great house is adorned with the comfort of wary travelers in mind. 
 
 Along the northern wall is a grand fireplace with several cozy chairs 
 
-parked within range of its fiery essence.  The floor is covered with a 
+parked within range of its fiery essence. The floor is covered with a 
 
-luxuriously crafted rug and the walls are lined with soothing paintings.  
+luxuriously crafted rug and the walls are lined with soothing paintings. 
 
 There is an antique wooden desk near the large stairwell which leads into 
 
-the guest rooms above.  On top of the desk is a large, leather-bound book 
+the guest rooms above. On top of the desk is a large, leather-bound book 
 
-marked 'Registry'.  
+marked 'Registry'. 
 
-Exits: South  West  
+Exits: South West 
 
 The corpse of a darkskinned elf scout is lying here.
 
@@ -922,37 +922,37 @@ Gelding is surrounded by a translucent green sphere!
 
 A small red hamster is resting here.
 
-Nice >>THANKS WASP!!<<(HATES piiz/slipknot,kill if i can) is lying here, dead.
+Nice \>\>THANKS WASP!!\<\<(HATES piiz/slipknot,kill if i can) is lying here, dead.
 
 Shallah, Mistress of the House stands here, waving you in.
 
-<153hp 45ma 176mv>
+\<153hp 45ma 176mv\>
 
 Gelding stops following you.
 
-<163hp 48ma 176mv>
+\<163hp 48ma 176mv\>
 
 Someone gossips-- 'you can buy me, derro'
 
 Someone gossips-- 'you can buy me, derro'
 
-<165hp 49ma 176mv>
+\<165hp 49ma 176mv\>
 
 You are hungry.
 
 You are thirsty.
 
-<177hp 54ma 176mv>
+\<177hp 54ma 176mv\>
 
 Gelding carves up the the corpse of a darkskinned elf scout
 
-<177hp 54ma 176mv>
+\<177hp 54ma 176mv\>
 
 t gelding rofllllllll
 
 You tell Gelding 'rofllllllll'
 
-<178hp 54ma 176mv>
+\<178hp 54ma 176mv\>
 
 save
 
@@ -960,27 +960,27 @@ Saving Braxus.
 
 Saving items.
 
-<178hp 54ma 176mv>
+\<178hp 54ma 176mv\>
 
 l
 
 Settlestone's Guest House
 
-   This great house is adorned with the comfort of wary travelers in mind.  
+ This great house is adorned with the comfort of wary travelers in mind. 
 
 Along the northern wall is a grand fireplace with several cozy chairs 
 
-parked within range of its fiery essence.  The floor is covered with a 
+parked within range of its fiery essence. The floor is covered with a 
 
-luxuriously crafted rug and the walls are lined with soothing paintings.  
+luxuriously crafted rug and the walls are lined with soothing paintings. 
 
 There is an antique wooden desk near the large stairwell which leads into 
 
-the guest rooms above.  On top of the desk is a large, leather-bound book 
+the guest rooms above. On top of the desk is a large, leather-bound book 
 
-marked 'Registry'.  
+marked 'Registry'. 
 
-Exits: South  West  
+Exits: South West 
 
 A slice of a darkskinned elf scout is lying on the ground.
 
@@ -1006,31 +1006,31 @@ Gelding is surrounded by a translucent green sphere!
 
 A small red hamster is resting here.
 
-Nice >>THANKS WASP!!<<(HATES piiz/slipknot,kill if i can) is lying here, dead.
+Nice \>\>THANKS WASP!!\<\<(HATES piiz/slipknot,kill if i can) is lying here, dead.
 
 Shallah, Mistress of the House stands here, waving you in.
 
 Gelding sacrifices the corpse of a darkskinned elf scout to his god.
 
-<178hp 54ma 176mv>
+\<178hp 54ma 176mv\>
 
 t gelding oh man that was hilarious
 
 You tell Gelding 'oh man that was hilarious'
 
-<179hp 54ma 176mv>
+\<179hp 54ma 176mv\>
 
 t gelding worthy of a post on the crier even
 
 You tell Gelding 'worthy of a post on the crier even'
 
-<180hp 55ma 176mv>
+\<180hp 55ma 176mv\>
 
 res
 
 You are already resting.
 
-<180hp 55ma 176mv>
+\<180hp 55ma 176mv\>
 
 save
 
@@ -1038,7 +1038,7 @@ Saving Braxus.
 
 Saving items.
 
-----------
+\----------
 
 FIN.
 
@@ -1048,7 +1048,7 @@ P.S. For those who didn't get it: Gelding charmed an elf scout to try and kill m
 
 <div class="post" data-post-id="9360" data-author="jezer" data-date="2005-11-04T09:39:12+00:00" data-subject="">
 
-troublemaker  :shock:
+troublemaker <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -1068,9 +1068,9 @@ yeah...weaker mobs generaly work better for that, just order them to flee if the
 
 Yea, but Braxus is a pthief so Gleding was trying to get a pkill on a thief.
 
-However it seemed like Gleding did a pkill on a non-thief char...  So in
+However it seemed like Gleding did a pkill on a non-thief char... So in
 
-sense Nice can get Gleding in trouble.  Like lvl deduct etc...
+sense Nice can get Gleding in trouble. Like lvl deduct etc...
 
 </div>
 

@@ -12,7 +12,7 @@ post_count: 2
 
 <div class="post" data-post-id="36592" data-author="*juggleblood*" data-date="2016-02-14T18:21:35+00:00" data-subject="Happy Valentines 2016">
 
-Gempop will be on for you sweeties this Valentine's day in addition to whatever any other immortal might come up with.. <3
+Gempop will be on for you sweeties this Valentine's day in addition to whatever any other immortal might come up with.. \<3
 
 </div>
 

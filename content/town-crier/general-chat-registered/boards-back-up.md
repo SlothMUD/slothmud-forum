@@ -24,7 +24,7 @@ Isabo
 
 <div class="post" data-post-id="7978" data-author="Morkeleb" data-date="2005-07-24T13:59:03+00:00" data-subject="">
 
-All looks well.  What kind of maintenance? Are there no moderators?
+All looks well. What kind of maintenance? Are there no moderators?
 
 Morkeleb
 

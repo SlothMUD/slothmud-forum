@@ -14,7 +14,7 @@ post_count: 1
 
 I would normally email this into Teker, but with emails being down... here it is...
 
-Could you please consider changing the message... "He can't carry that much weight." to "<Character Name> can't carry that much weight."
+Could you please consider changing the message... "He can't carry that much weight." to "\<Character Name\> can't carry that much weight."
 
 This small change would make it easier for players to trigger a tell to a person to "fix your weight" when handing out objects, it would also reduce public spam as currently most players say "weight" or grouptell when this happens and the situation is unnecessarily public. 
 

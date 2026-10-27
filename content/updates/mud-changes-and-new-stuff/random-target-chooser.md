@@ -16,7 +16,7 @@ Greeting mortals.
 
 - Fixed a small bug that made that, under some circunstances, the random target chooser could not choose any target, generating stuff like this :
 
-> **Quote:**
+> <strong>Quote:</strong>
 > Burl wildly swings Specularem, and accidentally cuts off (null)'s head!
 
 Thanks Whiff for reporting.

@@ -14,13 +14,13 @@ post_count: 2
 
 Hey Shadow - you got the winning bid on the chopping block for the grey robe (closed last Friday), but nobody seems to know who you are in-game.
 
-Last player Shadow shows last login was in 2004  :shock: 
+Last player Shadow shows last login was in 2004 <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
 Please catch me online or mudmail me very soon or I'll sell robe to second placed bidder.
 
 cheers
 
- :)
+ <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

@@ -16,7 +16,7 @@ One reason I hate when you don't know your code.
 
 Stryx -- 'target gone'
 
-<957hp 629ma 277mv>
+\<957hp 629ma 277mv\>
 
 sc
 
@@ -28,7 +28,7 @@ You follow Stryx.
 
 Bottom of Hellwell
 
-Exits: North  East  South  West  Up  [Down]
+Exits: North East South West Up [Down]
 
 You see Stryx and Toxis (with a demilich and a demilich) here.
 
@@ -48,7 +48,7 @@ The eternal flame brutally massacres Toxis with his whip.
 
 Toxis reports 1251/1317 hp. Change: -66. Need: 66. Spells: wraithform, aegis.
 
-<957hp 636ma 280mv>
+\<957hp 636ma 280mv\>
 
 dt
 
@@ -58,7 +58,7 @@ Ok.
 
 The eternal flame screams in agony as red tendrils of mist infuse his body.
 
-<957hp 630ma 280mv>
+\<957hp 630ma 280mv\>
 
 The eternal flame misses Toxis with his whip.
 
@@ -160,7 +160,7 @@ Toxis -- 'that was stupid'
 
 Toxis reports 1153/1317 hp. Change: -98. Need: 164. Spells: wraithform, aegis.
 
-<862hp 649ma 282mv>
+\<862hp 649ma 282mv\>
 
 gt target flame
 
@@ -168,7 +168,7 @@ Toxis heroically rescues The eternal flame.
 
 Lob -- 'target flame'
 
-<862hp 649ma 282mv>
+\<862hp 649ma 282mv\>
 
 tt
 
@@ -176,37 +176,37 @@ Toxis heroically rescues The eternal flame.
 
 Lob reports 1066/1147 hp. Change: -36. Need: 81. Spells: aegis.
 
-<863hp 650ma 282mv>
+\<863hp 650ma 282mv\>
 
 Toxis heroically rescues The eternal flame.
 
-<863hp 650ma 282mv>
-
-Toxis heroically rescues The eternal flame.
-
-You grouptell: 'target flame'
-
-<863hp 650ma 282mv>
+\<863hp 650ma 282mv\>
 
 Toxis heroically rescues The eternal flame.
 
 You grouptell: 'target flame'
 
-<863hp 650ma 282mv>
+\<863hp 650ma 282mv\>
 
 Toxis heroically rescues The eternal flame.
 
-<865hp 652ma 283mv>
+You grouptell: 'target flame'
+
+\<863hp 650ma 282mv\>
 
 Toxis heroically rescues The eternal flame.
 
-<865hp 652ma 283mv>
+\<865hp 652ma 283mv\>
+
+Toxis heroically rescues The eternal flame.
+
+\<865hp 652ma 283mv\>
 
 wkt
 
 Toxis heroically rescues The eternal flame.
 
-<865hp 652ma 283mv>
+\<865hp 652ma 283mv\>
 
 The eternal flame sees Toxis, and ATTACKS!
 
@@ -216,15 +216,15 @@ Impossible! You can't concentrate enough!
 
 Toxis reports 1094/1317 hp. Change: -59. Need: 223. Spells: wraithform, aegis.
 
-<867hp 653ma 284mv>
+\<867hp 653ma 284mv\>
 
 Toxis heroically rescues The eternal flame.
 
-<867hp 653ma 284mv>
+\<867hp 653ma 284mv\>
 
 Toxis heroically rescues The eternal flame.
 
-<867hp 653ma 284mv>
+\<867hp 653ma 284mv\>
 
 Your blow passes right through Toxis with no effect!
 
@@ -290,7 +290,7 @@ Toxis resists a great deal of the damage.
 
 Toxis reports 896/1317 hp. Change: -198. Need: 421. Spells: wraithform, aegis.
 
-<868hp 654ma 284mv>
+\<868hp 654ma 284mv\>
 
 web
 
@@ -300,31 +300,31 @@ Ok.
 
 An oily fluid seeps from Toxis's skin and the webs fall harmlessly to the ground!
 
-<870hp 640ma 285mv>
+\<870hp 640ma 285mv\>
 
 The eternal flame really needs a good bath! Phew!
 
-<872hp 642ma 286mv>
+\<872hp 642ma 286mv\>
 
 l
 
 Poit -- 'wth'
 
-<873hp 643ma 287mv>
+\<873hp 643ma 287mv\>
 
 A nightmare looks really sick, and shivers uncomfortably.
 
 Bottom of Hellwell
 
-   You stand in center of the inky void, small echos ringing back from the
+ You stand in center of the inky void, small echos ringing back from the
 
-surrounding walls.  Sunken into the center of the floor lies a perfectly
+surrounding walls. Sunken into the center of the floor lies a perfectly
 
-circular monument.  Orange flickers dart from the edges, and grate which
+circular monument. Orange flickers dart from the edges, and grate which
 
 peers down into some cell cut into the heart of the moutain.
 
-Exits: North  East  South  West  Up  [Down]
+Exits: North East South West Up [Down]
 
 Toxis is here, fighting a demilich
 
@@ -372,7 +372,7 @@ The eternal flame is here, fighting Toxis
 
 The eternal flame glows with a bright light!
 
-<875hp 644ma 287mv>
+\<875hp 644ma 287mv\>
 
 Your blow passes right through Toxis with no effect!
 
@@ -500,7 +500,7 @@ Your spectral shield has drained power from the spell!
 
 You resist most of the damage...
 
-The eternal flame breathes a stream of fire at you!  You are engulfed in flames!
+The eternal flame breathes a stream of fire at you! You are engulfed in flames!
 
 Stryx resists a great deal of the damage.
 
@@ -508,19 +508,19 @@ Toxis reports 519/1283 hp. Change: -377. Need: 764. Spells: aegis, wraithform.
 
 Lob reports 1034/1147 hp. Change: -32. Need: 113. Spells: aegis.
 
-<764hp 668ma 287mv>
+\<764hp 668ma 287mv\>
 
 fle
 
 Toxis heroically rescues The eternal flame.
 
-<764hp 668ma 287mv>
+\<764hp 668ma 287mv\>
 
 Toxis heroically rescues The eternal flame.
 
 Nearing the Heart of the Mountain
 
-Exits: North  East  South  West  Up
+Exits: North East South West Up
 
 You flee head over heels.
 
@@ -528,11 +528,11 @@ You flee head over heels.
 
 <div class="post" data-post-id="28022" data-author="Toxis" data-date="2009-02-08T16:26:11+00:00" data-subject="">
 
-I know my code, Mike.  I have never seen followers growl at mobs before.  I should have guessed, but there is too much damn spam in this mud why I've never seen it.  Mud moves fast, I don't use mud colors, and I've never seen that from followers.
+I know my code, Mike. I have never seen followers growl at mobs before. I should have guessed, but there is too much damn spam in this mud why I've never seen it. Mud moves fast, I don't use mud colors, and I've never seen that from followers.
 
-This is just one more headache for tanks.  I'm sick of people not paying attention that they can't simply sing or ask for rescues.  Mud moves fast, leaders don't pay attention, mob growls and attacks and through the spam I have to figure out who's getting attacked?  Yeah, this makes me want to tank even more.
+This is just one more headache for tanks. I'm sick of people not paying attention that they can't simply sing or ask for rescues. Mud moves fast, leaders don't pay attention, mob growls and attacks and through the spam I have to figure out who's getting attacked? Yeah, this makes me want to tank even more.
 
--Toxis
+\-Toxis
 
 </div>
 
@@ -544,9 +544,9 @@ but i figured some way that might work around it....
 
 you'd have to have a variable that's set to the mob's short descr, like
 
-#ac {^$stabber places blah blah into the back of %0, resulting} {#var mobname $0}
+\#ac {^$stabber places blah blah into the back of %0, resulting} {#var mobname $0}
 
-#ac {%0 growls at %1 and attacks!} {#if {$mobname=!$1} {rescue $1}}
+\#ac {%0 growls at %1 and attacks!} {#if {$mobname=!$1} {rescue $1}}
 
 this way u'll rescue who's being growled at ONLY if it's not the mobname?
 
@@ -556,11 +556,16 @@ not sure, haven't tested it out since i don't have a tank char
 
 <div class="post" data-post-id="28024" data-author="Medios" data-date="2009-02-08T17:36:30+00:00" data-subject="">
 
-I know my code, Mike.  I have never seen followers growl at mobs before.  I should have guessed, but there is too much damn spam in this mud why I've never seen it.  Mud moves fast, I don't use mud colors, and I've never seen that from followers.
-
-This is just one more headache for tanks.  I'm sick of people not paying attention that they can't simply sing or ask for rescues.  Mud moves fast, [b:1jqm1om3]leaders don't pay attention[/b:1jqm1om3], mob growls and attacks and through the spam I have to figure out who's getting attacked?  Yeah, this makes me want to tank even more.
-
--Toxis[/quote:1jqm1om3]
+> <strong>Toxis wrote:</strong>
+> I know my code, Mike. I have never seen followers growl at mobs before. I should have guessed, but there is too much damn spam in this mud why I've never seen it. Mud moves fast, I don't use mud colors, and I've never seen that from followers.
+> 
+> 
+> 
+> This is just one more headache for tanks. I'm sick of people not paying attention that they can't simply sing or ask for rescues. Mud moves fast, <strong>leaders don't pay attention</strong>, mob growls and attacks and through the spam I have to figure out who's getting attacked? Yeah, this makes me want to tank even more.
+> 
+> 
+> 
+> \-Toxis
 
 Im glad you got to the bottom of the problem...
 
@@ -572,33 +577,33 @@ Another fun log about user error. Too ironic.
 
 You gossip-- 'if we rewarded user error, you'd all be rich.'
 
-<34198, Valkyre, Mystical Fens, indoors>
+\<34198, Valkyre, Mystical Fens, indoors\>
 
 Xamak gossips-- 'i picked a door, openened it and cant go through it?'
 
-<34198, Valkyre, Mystical Fens, indoors>
+\<34198, Valkyre, Mystical Fens, indoors\>
 
-<34198, Valkyre, Mystical Fens, indoors>
+\<34198, Valkyre, Mystical Fens, indoors\>
 
 Xamak gossips-- 'this is bs'
 
-<34198, Valkyre, Mystical Fens, indoors>
+\<34198, Valkyre, Mystical Fens, indoors\>
 
 goto xamak
 
 Interior Corridor
 
-   A flicker of flame from a small oil lamp, which rests on a wall sconce
+ A flicker of flame from a small oil lamp, which rests on a wall sconce
 
-along the west wall, provides the only light in this passageway.  A large
+along the west wall, provides the only light in this passageway. A large
 
 metal door, with rows of iron bars set into it, is positioned on the east
 
-wall.  The air is stagnant and hazy here, making it extremely difficult
+wall. The air is stagnant and hazy here, making it extremely difficult
 
 to see.
 
-Exits: North  East:dungeon  South
+Exits: North East:dungeon South
 
 (Brilliant Blue Aura) A large rabbit-like creature with antelope horns hops about playfully.
 
@@ -610,49 +615,49 @@ Xamak has a steady green aura.
 
 Xamak is protected by an aerial servant.
 
-<47104, Thule, The Highlands, indoors>
+\<47104, Thule, The Highlands, indoors\>
 
 shrug
 
-<47104, Thule, The Highlands, indoors>
+\<47104, Thule, The Highlands, indoors\>
 
 You shrug.
 
-<47104, Thule, The Highlands, indoors>
+\<47104, Thule, The Highlands, indoors\>
 
 e
 
 Northern Corridor to the Keep
 
-   The stench of death and decay saturates the thick humid air throughout
+ The stench of death and decay saturates the thick humid air throughout
 
-this passage.  A chorus of deep raspy breaths echoes off the thick stone
+this passage. A chorus of deep raspy breaths echoes off the thick stone
 
-bulwarks that enclose this corridor.  Faint light flickers underneath the
+bulwarks that enclose this corridor. Faint light flickers underneath the
 
-dungeon doorway to the west.  A row of prison cells lines the eastern side
+dungeon doorway to the west. A row of prison cells lines the eastern side
 
 of the hallway .
 
-Exits: [East:cell]  South  West:dungeon
+Exits: [East:cell] South West:dungeon
 
-<47119, Thule, The Highlands, indoors>
+\<47119, Thule, The Highlands, indoors\>
 
 w
 
 Interior Corridor
 
-   A flicker of flame from a small oil lamp, which rests on a wall sconce
+ A flicker of flame from a small oil lamp, which rests on a wall sconce
 
-along the west wall, provides the only light in this passageway.  A large
+along the west wall, provides the only light in this passageway. A large
 
 metal door, with rows of iron bars set into it, is positioned on the east
 
-wall.  The air is stagnant and hazy here, making it extremely difficult
+wall. The air is stagnant and hazy here, making it extremely difficult
 
 to see.
 
-Exits: North  East:dungeon  South
+Exits: North East:dungeon South
 
 (Brilliant Blue Aura) A large rabbit-like creature with antelope horns hops about playfully.
 
@@ -664,17 +669,17 @@ Xamak has a steady green aura.
 
 Xamak is protected by an aerial servant.
 
-<47104, Thule, The Highlands, indoors>
+\<47104, Thule, The Highlands, indoors\>
 
 Xamak says 'go w'
 
-<47104, Thule, The Highlands, indoors>
+\<47104, Thule, The Highlands, indoors\>
 
 say no door w
 
 You say 'no door w'
 
-<47104, Thule, The Highlands, indoors>
+\<47104, Thule, The Highlands, indoors\>
 
 l
 
@@ -682,17 +687,17 @@ Xamak says 'open dungeon'
 
 Interior Corridor
 
-   A flicker of flame from a small oil lamp, which rests on a wall sconce
+ A flicker of flame from a small oil lamp, which rests on a wall sconce
 
-along the west wall, provides the only light in this passageway.  A large
+along the west wall, provides the only light in this passageway. A large
 
 metal door, with rows of iron bars set into it, is positioned on the east
 
-wall.  The air is stagnant and hazy here, making it extremely difficult
+wall. The air is stagnant and hazy here, making it extremely difficult
 
 to see.
 
-Exits: North  East:dungeon  South
+Exits: North East:dungeon South
 
 (Brilliant Blue Aura) A large rabbit-like creature with antelope horns hops about playfully.
 
@@ -704,11 +709,11 @@ Xamak has a steady green aura.
 
 Xamak is protected by an aerial servant.
 
-<47104, Thule, The Highlands, indoors>
+\<47104, Thule, The Highlands, indoors\>
 
 Xamak says 'there is'
 
-<47104, Thule, The Highlands, indoors>
+\<47104, Thule, The Highlands, indoors\>
 
 say nuh uh
 
@@ -716,37 +721,37 @@ Xamak says 'keyword is dungeon'
 
 You say 'nuh uh'
 
-<47104, Thule, The Highlands, indoors>
+\<47104, Thule, The Highlands, indoors\>
 
 Xamak closes the dungeon.
 
-<47104, Thule, The Highlands, indoors>
+\<47104, Thule, The Highlands, indoors\>
 
 say east
 
 You say 'east'
 
-<47104, Thule, The Highlands, indoors>
+\<47104, Thule, The Highlands, indoors\>
 
 e
 
 The dungeon to the east seems to be closed.
 
-<47104, Thule, The Highlands, indoors>
+\<47104, Thule, The Highlands, indoors\>
 
 Xamak says 'see'
 
-<47104, Thule, The Highlands, indoors>
+\<47104, Thule, The Highlands, indoors\>
 
 Xamak opens the dungeon.
 
-<47104, Thule, The Highlands, indoors>
+\<47104, Thule, The Highlands, indoors\>
 
 open dungeon
 
 It's already open!
 
-<47104, Thule, The Highlands, indoors>
+\<47104, Thule, The Highlands, indoors\>
 
 e
 
@@ -754,7 +759,7 @@ Xamak closes the dungeon.
 
 The dungeon to the east seems to be closed.
 
-<47104, Thule, The Highlands, indoors>
+\<47104, Thule, The Highlands, indoors\>
 
 open dungeon
 
@@ -762,39 +767,39 @@ e
 
 Ok.
 
-<47104, Thule, The Highlands, indoors>
+\<47104, Thule, The Highlands, indoors\>
 
 Northern Corridor to the Keep
 
-   The stench of death and decay saturates the thick humid air throughout
+ The stench of death and decay saturates the thick humid air throughout
 
-this passage.  A chorus of deep raspy breaths echoes off the thick stone
+this passage. A chorus of deep raspy breaths echoes off the thick stone
 
-bulwarks that enclose this corridor.  Faint light flickers underneath the
+bulwarks that enclose this corridor. Faint light flickers underneath the
 
-dungeon doorway to the west.  A row of prison cells lines the eastern side
+dungeon doorway to the west. A row of prison cells lines the eastern side
 
 of the hallway .
 
-Exits: [East:cell]  South  West:dungeon
+Exits: [East:cell] South West:dungeon
 
-<47119, Thule, The Highlands, indoors>
+\<47119, Thule, The Highlands, indoors\>
 
 w
 
 Interior Corridor
 
-   A flicker of flame from a small oil lamp, which rests on a wall sconce
+ A flicker of flame from a small oil lamp, which rests on a wall sconce
 
-along the west wall, provides the only light in this passageway.  A large
+along the west wall, provides the only light in this passageway. A large
 
 metal door, with rows of iron bars set into it, is positioned on the east
 
-wall.  The air is stagnant and hazy here, making it extremely difficult
+wall. The air is stagnant and hazy here, making it extremely difficult
 
 to see.
 
-Exits: North  East:dungeon  South
+Exits: North East:dungeon South
 
 (Brilliant Blue Aura) A large rabbit-like creature with antelope horns hops about playfully.
 
@@ -806,13 +811,13 @@ Xamak has a steady green aura.
 
 Xamak is protected by an aerial servant.
 
-<47104, Thule, The Highlands, indoors>
+\<47104, Thule, The Highlands, indoors\>
 
 raise
 
-You raise an eyebrow.  Interesting.
+You raise an eyebrow. Interesting.
 
-<47104, Thule, The Highlands, indoors>
+\<47104, Thule, The Highlands, indoors\>
 
 Xamak bumps into a wall to the west.
 
@@ -824,22 +829,22 @@ Here is one of my fun logs...
 
 cast 'create food'
 
-<828hp 918ma 179mv -0.9ac +9al 1469845644xp +87mr>
+\<828hp 918ma 179mv -0.9ac +9al 1469845644xp +87mr\>
 
 You lost your concentration!
 
-<828hp 923ma 177mv -0.9ac +9al 1469845644xp +82mr>
+\<828hp 923ma 177mv -0.9ac +9al 1469845644xp +82mr\>
 
 get food
 
 You do not see a food here.
 
-<828hp 923ma 178mv -0.9ac +9al 1469845644xp +82mr>
+\<828hp 923ma 178mv -0.9ac +9al 1469845644xp +82mr\>
 
 eat food
 
 You can't find it
 
-Man, I went hungry that night.  :evil:
+Man, I went hungry that night. <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>

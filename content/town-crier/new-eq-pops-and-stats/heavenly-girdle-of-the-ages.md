@@ -26,7 +26,7 @@ AC-apply is -0.3
 
 Can affect you as:
 
-    Affects: HITPOINT by 5
+ Affects: HITPOINT by 5
 
 Only those who are at least experienced thieves, warriors, bards, or monks may use this item.
 

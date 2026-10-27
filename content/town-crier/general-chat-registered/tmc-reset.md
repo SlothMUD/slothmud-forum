@@ -18,22 +18,22 @@ TMC Reset....go vote
 
 <div class="post" data-post-id="25550" data-author="Yasik2" data-date="2008-08-03T12:44:12+00:00" data-subject="">
 
-[img:2m09vuqy]http://yasik.kiev.ua/4chan/Uninterested_Cat.jpg[/img:2m09vuqy]
+![](http://yasik.kiev.ua/4chan/Uninterested_Cat.jpg)
 
 ... in your silly reminders!
 
-I DO vote everyday, mostly, from a few different IPs, so post some tits or gtfo.  :D
+I DO vote everyday, mostly, from a few different IPs, so post some tits or gtfo. <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="25556" data-author="Virus" data-date="2008-08-03T15:18:26+00:00" data-subject="">
 
-( . ) ( . ) <------ here you go pervert!
+( . ) ( . ) \<------ here you go pervert!
 
 </div>
 
 <div class="post" data-post-id="25558" data-author="Yasik2" data-date="2008-08-03T15:43:50+00:00" data-subject="">
 
-BEWBS!!!!!11  :D
+BEWBS!!!!!11 <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>

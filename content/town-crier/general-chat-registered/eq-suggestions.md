@@ -30,11 +30,11 @@ Rub
 
 Hey Rub,
 
-I would ask what kinda area, so the eq matches the area more.  How big 
+I would ask what kinda area, so the eq matches the area more. How big 
 
-the area is and also the largest mob.  The bigger the mob the better the
+the area is and also the largest mob. The bigger the mob the better the
 
-eq suggestion can be :)
+eq suggestion can be <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 But like always maybe add something like mr, hr, ac, or even dam eq.
 
@@ -52,11 +52,14 @@ Clasps of any sort always go down well.. although maybe in a location other than
 
 <div class="post" data-post-id="15401" data-author="*juggleblood*" data-date="2006-12-01T12:17:59+00:00" data-subject="">
 
-Hey Rub,
-
-I would ask what kinda area, so the eq matches the area more.  ...However its hard to give eq idea if we don't know if its a mage or cleric type.
-
-Then we can say add eq with +mana ect ....[/quote:3lt4pldr]
+> <strong>Leaf wrote:</strong>
+> Hey Rub,
+> 
+> 
+> 
+> I would ask what kinda area, so the eq matches the area more. ...However its hard to give eq idea if we don't know if its a mage or cleric type.
+> 
+> Then we can say add eq with +mana ect ....
 
 I'm not saying what kinda area it is, but I can always modify the item description to fit. 
 
@@ -82,11 +85,11 @@ For -1.7 legs (and I'm discounting temp eq, weekly eq and dr eq) this leaves us 
 
 Carborundum Greaves Forged None -1.7 +1 SysShock, Water Breath AdAv Forged 
 
-Greaves of the Forsaken Sin Murkwood -1.7   SWa Prime 2x40 
+Greaves of the Forsaken Sin Murkwood -1.7 SWa Prime 2x40 
 
-Greaves of War War Avatar  Balrog's Temple -1.7   ST SW [AND]  
+Greaves of War War Avatar Balrog's Temple -1.7 ST SW [AND] 
 
-Titanium Greaves Medusa Crypt -1.7   SBa 2x40 
+Titanium Greaves Medusa Crypt -1.7 SBa 2x40 
 
 which means the only way to get 1.7 legs before Av is to be either:
 
@@ -112,13 +115,13 @@ An alternative would be nice.
 
 <div class="post" data-post-id="15406" data-author="Jag" data-date="2006-12-01T16:25:12+00:00" data-subject="EQ sugg.">
 
-May I suggest a  piece of eq for warriors with new classo's?
+May I suggest a piece of eq for warriors with new classo's?
 
 There is lots for war with cl or th or mage and a lot less for other combo's.
 
 Skipping quest, temp or drachma, other warriors have no -0.8 neck item.
 
-Worn Bloody Coif  -0.8, +1 str, MW prime.
+Worn Bloody Coif -0.8, +1 str, MW prime.
 
 </div>
 
@@ -140,7 +143,7 @@ last time i checked, what was under a helmet, was a head
 
 i could be wrong though, been awhile since i've looked.
 
-[img:325m4zbw]http://www.io.com/~beckerdo/other/MailCoif/Front640.jpg[/img:325m4zbw]
+![](http://www.io.com/~beckerdo/other/MailCoif/Front640.jpg)
 
 also, duping one of the best forged guards into poppable eq = horrible idea
 
@@ -148,7 +151,7 @@ also, duping one of the best forged guards into poppable eq = horrible idea
 
 <div class="post" data-post-id="15411" data-author="Jag" data-date="2006-12-01T19:21:55+00:00" data-subject="Nice Picture">
 
-Exactly what I was trying to describe, mail that covers head and neck area.  
+Exactly what I was trying to describe, mail that covers head and neck area. 
 
 What forge are you refering to?
 
@@ -156,11 +159,11 @@ What forge are you refering to?
 
 <div class="post" data-post-id="15412" data-author="Alberich" data-date="2006-12-01T19:48:42+00:00" data-subject="">
 
-maul guards, the -.8 +str ones :P
+maul guards, the -.8 +str ones <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 that shows a head item that drapes
 
-not to mention that all the other coifs currently ingame are worn on head :)
+not to mention that all the other coifs currently ingame are worn on head <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -174,7 +177,7 @@ Maul Titan Guards are for thieves, once again making the point there is no regul
 
 <div class="post" data-post-id="15414" data-author="kjartan" data-date="2006-12-01T20:48:53+00:00" data-subject="">
 
-A little googling reveals that the part of a coif that covers the neck, if found separately from the head part, is called an aventail or camail.  Similar armor made of plate rather than chain is a gorget.  Before the invention of gorgets and aventails, torcs were worn for neck protection, but it's not clear whether they did any good.
+A little googling reveals that the part of a coif that covers the neck, if found separately from the head part, is called an aventail or camail. Similar armor made of plate rather than chain is a gorget. Before the invention of gorgets and aventails, torcs were worn for neck protection, but it's not clear whether they did any good.
 
 </div>
 
@@ -186,15 +189,15 @@ wars roll str first, any one that needs str gear is a pos warrior.
 
 <div class="post" data-post-id="15416" data-author="Vixn" data-date="2006-12-01T21:22:02+00:00" data-subject="">
 
-hey, it's Autolycos on the photo!  :twisted:
+hey, it's Autolycos on the photo! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="15417" data-author="Krok" data-date="2006-12-02T04:37:05+00:00" data-subject="">
 
-+5 hp or mana clasp (might be a forge)
+\+5 hp or mana clasp (might be a forge)
 
-+mvs on existing eq (that doesn't make em more overpowered, but adds some nice stuff)
+\+mvs on existing eq (that doesn't make em more overpowered, but adds some nice stuff)
 
 </div>
 
@@ -204,7 +207,7 @@ new item slot (worn around body (aura)) the 1337 aura of necrophiliac pwnage.
 
 Wearable only by necros of course....
 
-+15 undead control, i have always wanted to cap uc.
+\+15 undead control, i have always wanted to cap uc.
 
 Thanks!
 
@@ -224,7 +227,7 @@ necrophilia ...
 
 bad mental image! bad mental image!
 
-DAMN YOU GUINEX :(
+DAMN YOU GUINEX <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -250,9 +253,10 @@ Edd, stop acting like a child. Just let him corpse!
 
 <div class="post" data-post-id="15425" data-author="Roadrunr" data-date="2006-12-02T23:00:27+00:00" data-subject="">
 
-wars roll str first, any one that needs str gear is a pos warrior.[/quote:33czsvsp]
+> <strong>13 wrote:</strong>
+> wars roll str first, any one that needs str gear is a pos warrior.
 
-you're right..but why do you have to be so mean?  I mean I know my 18.22 17 18 18 18 nats before buying anything sucked but why did you have to point it out like that and call me a pos.
+you're right..but why do you have to be so mean? I mean I know my 18.22 17 18 18 18 nats before buying anything sucked but why did you have to point it out like that and call me a pos.
 
 I'm gonna go cry in a corner now thanks.
 

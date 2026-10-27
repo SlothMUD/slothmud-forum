@@ -18,13 +18,13 @@ Is it kill-history affecting +/- alignment or I dont know something?
 
 The Catacombs
 
-Exits: South  
+Exits: South 
 
 Some strands of dark moss lie drying here in the sun.
 
-*(Brilliant Red Aura) An animated shadow is here, looking for something to kill.
+\*(Brilliant Red Aura) An animated shadow is here, looking for something to kill.
 
-*(Brilliant Red Aura) An animated shadow is here, looking for something to kill.
+\*(Brilliant Red Aura) An animated shadow is here, looking for something to kill.
 
 Caitlin the peri arrives from the south.
 
@@ -34,7 +34,7 @@ A spectre arrives from the south.
 
 A spectre arrives from the south.
 
-<942hp 288ma 276mv>  **[+5]**  AC: -10.4  EXP: 430,934,784  COINS: 549,990  [indoors]
+\<942hp 288ma 276mv\> <strong>[+5]</strong> AC: -10.4 EXP: 430,934,784 COINS: 549,990 [indoors]
 
 cast 'Web' shadow
 
@@ -52,13 +52,13 @@ An animated shadow misses you with his claw.
 
 [ CUT ]
 
-<1037hp 282ma 280mv>  **[+5]**  AC: -10.4  EXP: 430,936,886  COINS: 549,990  [indoors]
+\<1037hp 282ma 280mv\> <strong>[+5]</strong> AC: -10.4 EXP: 430,936,886 COINS: 549,990 [indoors]
 
 A spectre misses an animated shadow with its claw.
 
 A spectre massacres an animated shadow to small fragments with its claw.
 
-**An animated shadow is dead! R.I.P.**
+<strong>An animated shadow is dead! R.I.P.</strong>
 
 You gain 3259 bonus experience!
 
@@ -68,11 +68,11 @@ Your blood freezes as you hear an animated shadow's death cry.
 
 The animated shadow shatters into a million shards of darkness.
 
-<1037hp 282ma 280mv>  **[+5]**  AC: -10.4  EXP: 430,977,234  COINS: 549,990  [indoors]
+\<1037hp 282ma 280mv\> <strong>[+5]</strong> AC: -10.4 EXP: 430,977,234 COINS: 549,990 [indoors]
 
 The Catacombs
 
-    You are in one of the many tunnels of the catacombs. It is not possible
+ You are in one of the many tunnels of the catacombs. It is not possible
 
 to tell where they are leading anymore because they all look exactly
 
@@ -80,7 +80,7 @@ alike- limestone tunnels with shelves carved into the walls.
 
 The passageway dead ends to the north.
 
-Exits: South  
+Exits: South 
 
 Some strands of dark moss lie drying here in the sun.
 
@@ -92,9 +92,9 @@ Some strands of dark moss lie drying here in the sun.
 
 (Brilliant Blue Aura) A white-robed maiden with tiny white swan-like wings lounges here.
 
-*(Brilliant Red Aura) An animated shadow is here, looking for something to kill.
+\*(Brilliant Red Aura) An animated shadow is here, looking for something to kill.
 
-<1040hp 283ma 280mv>  **[+5]**  AC: -10.4  EXP: 430,977,234  COINS: 549,990  [indoors]
+\<1040hp 283ma 280mv\> <strong>[+5]</strong> AC: -10.4 EXP: 430,977,234 COINS: 549,990 [indoors]
 
 cast 'Web' shadow
 
@@ -112,11 +112,11 @@ An animated shadow misses you with his claw.
 
 [ CUT ]
 
-<1066hp 276ma 280mv>  **[+5]**  AC: -10.4  EXP: 430,979,770  COINS: 549,990  [indoors]
+\<1066hp 276ma 280mv\> <strong>[+5]</strong> AC: -10.4 EXP: 430,979,770 COINS: 549,990 [indoors]
 
 A spectre massacres an animated shadow to small fragments with its claw.
 
-**An animated shadow is dead! R.I.P.**
+<strong>An animated shadow is dead! R.I.P.</strong>
 
 You gain 3150 bonus experience!
 
@@ -126,11 +126,11 @@ Your blood freezes as you hear an animated shadow's death cry.
 
 The animated shadow shatters into a million shards of darkness.
 
-<1075hp 280ma 280mv>  **[+5]**  AC: -10.4  EXP: 431,018,768  COINS: 549,990  [indoors]
+\<1075hp 280ma 280mv\> <strong>[+5]</strong> AC: -10.4 EXP: 431,018,768 COINS: 549,990 [indoors]
 
 The Catacombs
 
-    You are in one of the many tunnels of the catacombs. It is not possible
+ You are in one of the many tunnels of the catacombs. It is not possible
 
 to tell where they are leading anymore because they all look exactly
 
@@ -138,7 +138,7 @@ alike- limestone tunnels with shelves carved into the walls.
 
 The passageway dead ends to the north.
 
-Exits: South  
+Exits: South 
 
 Some strands of dark moss lie drying here in the sun.
 
@@ -150,7 +150,7 @@ Some strands of dark moss lie drying here in the sun.
 
 (Brilliant Blue Aura) A white-robed maiden with tiny white swan-like wings lounges here.
 
-<1078hp 323ma 255mv>  **[+4]**  AC: -10.4  EXP: 431,884,508  COINS: 572,382  [indoors]
+\<1078hp 323ma 255mv\> <strong>[+4]</strong> AC: -10.4 EXP: 431,884,508 COINS: 572,382 [indoors]
 
 The darkness misses you with his claw.
 
@@ -180,7 +180,7 @@ The darkness is incapacitated and will slowly die, if not aided.
 
 You brutally massacre the darkness with your slash.
 
-**The darkness is dead! R.I.P.**
+<strong>The darkness is dead! R.I.P.</strong>
 
 You gain 5352 bonus experience!
 
@@ -196,19 +196,19 @@ You get gold coins from the corpse of the darkness that's on the ground.
 
 There were 2000 coins.
 
-<1080hp 327ma 259mv>  **[+4]**  AC: -10.4  EXP: 431,953,421  COINS: 574,382  [indoors]
+\<1080hp 327ma 259mv\> <strong>[+4]</strong> AC: -10.4 EXP: 431,953,421 COINS: 574,382 [indoors]
 
 Monument
 
-   You are standing inside a large marble monument.  In the center of the
+ You are standing inside a large marble monument. In the center of the
 
-room is an ornamental sarcophagus.  At each of the four corners is a large
+room is an ornamental sarcophagus. At each of the four corners is a large
 
-brass brazier.  They seem to have been extinguished for some time.  All
+brass brazier. They seem to have been extinguished for some time. All
 
 around the room are tapestries hung on the walls.
 
-Exits: South  Down  
+Exits: South Down 
 
 The corpse of the darkness is lying here.
 

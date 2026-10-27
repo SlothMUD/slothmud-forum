@@ -30,7 +30,7 @@ RerollING.
 
 <div class="post" data-post-id="8993" data-author="Leaf" data-date="2005-10-11T16:13:33+00:00" data-subject="">
 
-I wish my Warrior rolled good stats :( 
+I wish my Warrior rolled good stats <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom"> 
 
 Only has "playable" stats...
 

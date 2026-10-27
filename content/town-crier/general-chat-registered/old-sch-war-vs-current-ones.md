@@ -14,21 +14,21 @@ post_count: 6
 
 current tanks-
 
-*high hpr
+\*high hpr
 
-*wraithform
+\*wraithform
 
-*gfluid ( note that even i have to pop my own gfluid shards)
+\*gfluid ( note that even i have to pop my own gfluid shards)
 
-*slightly higher hps 0-50 ?
+\*slightly higher hps 0-50 ?
 
 old school tanks-
 
-*they can achieve -12 as well
+\*they can achieve -12 as well
 
-*stab/blast...able to solo xp/gold way better/faster than current ones
+\*stab/blast...able to solo xp/gold way better/faster than current ones
 
-*wraithform charms is totally useless,but they can get gfluid as well
+\*wraithform charms is totally useless,but they can get gfluid as well
 
 i admit that current tanks cant do xps as well as oldschool ones and old school ones cant tank as well as current ones without some work. so why dont u guys just find a way to achieve wat u want instead of bitching about everything?feel free to state anymore pro's to either side of tanks.
 
@@ -46,7 +46,7 @@ maybe I should make a new char....
 
 LOL Who pressed your button? There's a thread about this already, so why start a new one repeating comments already made? 
 
-Bah... going to the other thread - not repeating same sh*t again.
+Bah... going to the other thread - not repeating same sh\*t again.
 
 Suggestion: Admin pls lock/delete this thread, no point having two of them.
 
@@ -54,7 +54,7 @@ Suggestion: Admin pls lock/delete this thread, no point having two of them.
 
 <div class="post" data-post-id="24300" data-author="Mosaix" data-date="2008-05-11T02:56:53+00:00" data-subject="">
 
-[img:vn3gs50g]http://images.amazon.com/images/P/0786928808.01._AA240_SCLZZZZZZZ_.jpg[/img:vn3gs50g]
+![](http://images.amazon.com/images/P/0786928808.01._AA240_SCLZZZZZZZ_.jpg)
 
 Reading material for Weasel.
 
@@ -68,7 +68,7 @@ double your pleasure- 2 threads are better than 1.
 
 <div class="post" data-post-id="24309" data-author="*juggleblood*" data-date="2008-05-12T22:14:28+00:00" data-subject="">
 
-[img:1f0vk4rt]http://www.titansupport.com/products/shirts/thread2.jpg[/img:1f0vk4rt]
+![](http://www.titansupport.com/products/shirts/thread2.jpg)
 
 Nice Thread
 

@@ -12,7 +12,7 @@ post_count: 2
 
 <div class="post" data-post-id="20245" data-author="van" data-date="2007-09-09T02:56:15+00:00" data-subject="Quest Eq and Oldschool Restricts">
 
-Post irrelevant!  Thanks Akasha!!!!
+Post irrelevant! Thanks Akasha!!!!
 
 ...
 

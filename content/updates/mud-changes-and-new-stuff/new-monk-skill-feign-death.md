@@ -16,6 +16,6 @@ A new level 28 monk skill has been added, please refer to help feign death for m
 
 Enjoy
 
-Splork :twisted:
+Splork <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

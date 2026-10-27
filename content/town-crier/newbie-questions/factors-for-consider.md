@@ -32,17 +32,17 @@ Shhh, necromancers are overpowered......
 
 <div class="post" data-post-id="7463" data-author="12345" data-date="2005-06-22T14:31:17+00:00" data-subject="">
 
-I don't know that anyone can tell you exactly how con works.  I do know that it takes several factors into account.  Personally, I think that casting mobs screw it up even more simply because they're so erratic.
+I don't know that anyone can tell you exactly how con works. I do know that it takes several factors into account. Personally, I think that casting mobs screw it up even more simply because they're so erratic.
 
-Example of Elena in the garden.  Usually if I'm sanced and resist fire, she's not too bad.  She also tends to stick to webs and fireballs.  Since web only works once, the extra webs tend to be wasted attacks and I can handle the fireballs she throws.  Then again, I've had her throw an endless stream of fireballs and I died pretty quick.  I've also had her throw nothing but webs and I barely got touched.  Lightning bolts make intersting mixers.
+Example of Elena in the garden. Usually if I'm sanced and resist fire, she's not too bad. She also tends to stick to webs and fireballs. Since web only works once, the extra webs tend to be wasted attacks and I can handle the fireballs she throws. Then again, I've had her throw an endless stream of fireballs and I died pretty quick. I've also had her throw nothing but webs and I barely got touched. Lightning bolts make intersting mixers.
 
 The bitty mage in Autumnal Forest... cake, unless he casts firewind, then you just die.
 
-Cleric mobs are even worse because you don't know if they'll heal themselves or flamestrike you... or put up resist fire and cold in the middle of battle.  Xp often does not reflect the effort needed, etc.
+Cleric mobs are even worse because you don't know if they'll heal themselves or flamestrike you... or put up resist fire and cold in the middle of battle. Xp often does not reflect the effort needed, etc.
 
 Best I can tell you for casters: Until you get to know what spells they like to throw, sanc, spellshield, resist fire, resist cold and pay attention.
 
-If anyone else has a better answer, I'll be glad to hear it.  :)
+If anyone else has a better answer, I'll be glad to hear it. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -50,7 +50,7 @@ If anyone else has a better answer, I'll be glad to hear it.  :)
 
 consider is worthless after like lvl 5.
 
-as far as I have been able to tell, it depends on mobs class, your class, and relative hps - which all mean nothing.  A mob with 600hps that you can splork, will con as chicken or some such thing for anyone over lvl 40, but will easily hit for 4-500hps/round through sanc with high enough hit/dam rolls.  A mob with 4-5k hps can con as are you mad, but never hits -10 and can be chopped solo if you have the patience.  Best thing to do is fight the mob, if you want to know how big it is.
+as far as I have been able to tell, it depends on mobs class, your class, and relative hps - which all mean nothing. A mob with 600hps that you can splork, will con as chicken or some such thing for anyone over lvl 40, but will easily hit for 4-500hps/round through sanc with high enough hit/dam rolls. A mob with 4-5k hps can con as are you mad, but never hits -10 and can be chopped solo if you have the patience. Best thing to do is fight the mob, if you want to know how big it is.
 
 </div>
 
@@ -58,7 +58,7 @@ as far as I have been able to tell, it depends on mobs class, your class, and re
 
 The consider code is extremely complicated, and it doesn't work very well.
 
-Sloth mobs are so complex that I think it would be hard to come up with an algorithm that evaluates consider properly.  A better approach might be to record how combats with that mob went for people of various levels (i.e. victory with little damage, close victory, fled/recalled, slain).  That is a non-trivial thing to code, but I might do it at some point.
+Sloth mobs are so complex that I think it would be hard to come up with an algorithm that evaluates consider properly. A better approach might be to record how combats with that mob went for people of various levels (i.e. victory with little damage, close victory, fled/recalled, slain). That is a non-trivial thing to code, but I might do it at some point.
 
 </div>
 
@@ -66,7 +66,7 @@ Sloth mobs are so complex that I think it would be hard to come up with an algor
 
 The easiest thing I can think of without creating huge databases of battles is this:
 
-consider <mob>
+consider \<mob\>
 
 This mob looks sickly/weak/a little thick, fairly thick, pretty thick, very thick, incredibly thick, etc.
 
@@ -84,13 +84,13 @@ It could do a lot of damage
 
 It looks like it could rip your head off in a round!
 
-This would be incredibly easy to code (total hp, damroll, could even ignore player levels, and it would save immort time and player lives.  The only question is, is it too good?
+This would be incredibly easy to code (total hp, damroll, could even ignore player levels, and it would save immort time and player lives. The only question is, is it too good?
 
 </div>
 
 <div class="post" data-post-id="7483" data-author="Alberich" data-date="2005-06-22T20:39:33+00:00" data-subject="">
 
-I think it's kinda fun not knowing if mob will splork you or you splork it :)  makes exploring new areas worthwhile, although it does lead to some interesting self-cr's
+I think it's kinda fun not knowing if mob will splork you or you splork it <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> makes exploring new areas worthwhile, although it does lead to some interesting self-cr's
 
 leave con as-is, it's usefull for real low-level types, and beyond that.. well.. what's fun without some risk?
 
@@ -98,9 +98,9 @@ leave con as-is, it's usefull for real low-level types, and beyond that.. well..
 
 <div class="post" data-post-id="7484" data-author="Ditheca" data-date="2005-06-22T20:49:38+00:00" data-subject="">
 
-I think it'd be nice to know if a mob can hit brutally or not.  I can't count the times I've cast tons of prep spells just to face a mob that attacks 5 times for very hard and gives 20k :)  Of course that happens less and less as I learn the mud.
+I think it'd be nice to know if a mob can hit brutally or not. I can't count the times I've cast tons of prep spells just to face a mob that attacks 5 times for very hard and gives 20k <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> Of course that happens less and less as I learn the mud.
 
-I posted below because its the solution to a question, not a solution to a problem.  I don't mind consider the way it is now, if only for old times' sake :)
+I posted below because its the solution to a question, not a solution to a problem. I don't mind consider the way it is now, if only for old times' sake <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -108,11 +108,11 @@ I posted below because its the solution to a question, not a solution to a probl
 
 Unfortunately even if the mob side of the equation was all figured out we'd still have the PC side to evaluate.
 
-(mob strength) <> (player strength)
+(mob strength) \<\> (player strength)
 
-Obviously a 2x40 th/ma with good stats is going to be better off against some mobs than a 2x40 cleric.  
+Obviously a 2x40 th/ma with good stats is going to be better off against some mobs than a 2x40 cleric. 
 
-I'd go with Ditheca's suggestions, if it's too much information you could maybe narrow it down so there are less available levels of differentiation...but you could present some info about how many hps, how many attacks, how high the +hit / +dam ... then let the player decide whether he's buff enough to take on that mob.  Again I echo Ditheca but it might not be as fun to have all this spelled out in great detail.
+I'd go with Ditheca's suggestions, if it's too much information you could maybe narrow it down so there are less available levels of differentiation...but you could present some info about how many hps, how many attacks, how high the +hit / +dam ... then let the player decide whether he's buff enough to take on that mob. Again I echo Ditheca but it might not be as fun to have all this spelled out in great detail.
 
 </div>
 
@@ -134,16 +134,16 @@ T.
 
 <div class="post" data-post-id="7492" data-author="firebrand" data-date="2005-06-23T11:00:56+00:00" data-subject="">
 
-hmmm and now we have "perfect match" on mobs that are correctly aligned to help us change our alignment again, but may not necessarily be perfect match combat wise.  i wish we had a command (contemplate, for example) for checking alignment balance and leave consider as is for combat
+hmmm and now we have "perfect match" on mobs that are correctly aligned to help us change our alignment again, but may not necessarily be perfect match combat wise. i wish we had a command (contemplate, for example) for checking alignment balance and leave consider as is for combat
 
 </div>
 
 <div class="post" data-post-id="7494" data-author="12345" data-date="2005-06-23T11:15:46+00:00" data-subject="">
 
-Me thinks you're confusing alignment and consider.  Alignment wasn't added to consider, consider was added to alignment.
+Me thinks you're confusing alignment and consider. Alignment wasn't added to consider, consider was added to alignment.
 
-To use Kj's example, if you kill a defenseless little baby, it's an evil act, and will drag (very heavily) on your alignment.  Killing a kobold is not a suitable atonement for such an act.  In order to raise alignment you must kill a mob of suitable size (at least as big as yourself).  The only way of measuring this (poorly) is the consider command which actually compares the player to the mob.  So, if the mob is at least as big as you, it carries more weight in raising your alignment.
+To use Kj's example, if you kill a defenseless little baby, it's an evil act, and will drag (very heavily) on your alignment. Killing a kobold is not a suitable atonement for such an act. In order to raise alignment you must kill a mob of suitable size (at least as big as yourself). The only way of measuring this (poorly) is the consider command which actually compares the player to the mob. So, if the mob is at least as big as you, it carries more weight in raising your alignment.
 
-That's why you need at least perfect match mobs to raise alignment, you're not considering alignment, you're still considering size.  The only difference is, easy mobs won't raise alignment anymore and any good mob will make you evil quick, fast and in a hurry.
+That's why you need at least perfect match mobs to raise alignment, you're not considering alignment, you're still considering size. The only difference is, easy mobs won't raise alignment anymore and any good mob will make you evil quick, fast and in a hurry.
 
 </div>

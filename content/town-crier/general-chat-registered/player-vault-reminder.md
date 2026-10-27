@@ -28,7 +28,7 @@ No you can't choose the location of your house. If you have a preference within 
 
 Cheers.
 
--J
+\-J
 
 </div>
 
@@ -52,7 +52,7 @@ There is no vault seller on the island which is a travesty. A locker may be purc
 
 <div class="post" data-post-id="32195" data-author="Teron" data-date="2010-12-22T04:01:36+00:00" data-subject="Re: Player Vault Reminder">
 
-A shaggy dog isn't the vaulter on Lyme  8)
+A shaggy dog isn't the vaulter on Lyme <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

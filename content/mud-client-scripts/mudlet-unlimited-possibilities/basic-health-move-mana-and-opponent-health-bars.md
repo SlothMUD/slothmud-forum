@@ -58,7 +58,7 @@ end
 
 In hopes of not losing this post to a second Chrome crash I will post a screenshot in a reply. I hope this is helpful or at least interesting for someone
 
--Nate
+\-Nate
 
 </div>
 
@@ -66,9 +66,9 @@ In hopes of not losing this post to a second Chrome crash I will post a screensh
 
 ![](http://i44.tinypic.com/357ir8p.jpg)
 
-I have since realized that OPPONENT_HEALTH seems to be percentage.. not sure why there is an OPPONENT_HEALTH_MAX then but w/e. If anyone knows how to make gauges fill the opposite way I would be interested in knowing your secret!
+I have since realized that OPPONENT\_HEALTH seems to be percentage.. not sure why there is an OPPONENT\_HEALTH\_MAX then but w/e. If anyone knows how to make gauges fill the opposite way I would be interested in knowing your secret!
 
--Nate
+\-Nate
 
 </div>
 
@@ -82,7 +82,7 @@ Here's the updatebars script in case that was confusing
 
 <div class="post" data-post-id="34425" data-author="Akaya" data-date="2013-09-12T07:36:36+00:00" data-subject="Re: Basic Health/Move/Mana and Opponent Health Bars">
 
-> **Drule wrote:**
+> <strong>Drule wrote:</strong>
 > If anyone knows how to make gauges fill the opposite way I would be interested in knowing your secret!
 
 This isn't possible using the createGauge() function.

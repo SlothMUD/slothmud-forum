@@ -12,7 +12,7 @@ post_count: 7
 
 <div class="post" data-post-id="28003" data-author="marge" data-date="2009-02-05T19:29:39+00:00" data-subject="So you want to be a druid.">
 
-Druid is an interesting prime class to play. At low levels your shift forms are pretty poor fighters and you will find yourself largely a support char, depending on the rest of your class order. Druid prime shifting is superior to non prime shifting and the shield of thorns spell at high levels helps with shifted combat greatly.  Druids are able to solo very large mobs by harnessing the power of the vast mana regen. They shift into a combat form and fight until their hit points get low. Then they exit from combat, return to human form to heal themselves up and then shift again. It's a nice class in that you are able to operate solo through the power of your shifted forms, but you are welcomed into groups because of your good mana regen. 
+Druid is an interesting prime class to play. At low levels your shift forms are pretty poor fighters and you will find yourself largely a support char, depending on the rest of your class order. Druid prime shifting is superior to non prime shifting and the shield of thorns spell at high levels helps with shifted combat greatly. Druids are able to solo very large mobs by harnessing the power of the vast mana regen. They shift into a combat form and fight until their hit points get low. Then they exit from combat, return to human form to heal themselves up and then shift again. It's a nice class in that you are able to operate solo through the power of your shifted forms, but you are welcomed into groups because of your good mana regen. 
 
 Supplementing druid class:
 
@@ -40,7 +40,8 @@ Forgot to mention that you can't order your pets to do anything while you're shi
 
 <div class="post" data-post-id="28006" data-author="jezer" data-date="2009-02-05T22:32:28+00:00" data-subject="">
 
-Forgot to mention that you can't order your [b:digmmehq]Necro Pets[/b:digmmehq] only your [b:digmmehq]Druid pets[/b:digmmehq] to do anything while you're shifted. Important thing to know when choosing classo.[/quote:digmmehq]
+> <strong>marge wrote:</strong>
+> Forgot to mention that you can't order your <strong>Necro Pets</strong> only your <strong>Druid pets</strong> to do anything while you're shifted. Important thing to know when choosing classo.
 
 </div>
 
@@ -48,7 +49,7 @@ Forgot to mention that you can't order your [b:digmmehq]Necro Pets[/b:digmmehq] 
 
 Excuse me, first of all, I do really understand you write it for newcomers. And sure these posts are great.
 
-But I doubt bard has better AC then druid. At least my ba/dr has [b:14apf1ky]-10[/b:14apf1ky]ac singing and [b:14apf1ky]-11[/b:14apf1ky]ac being shifted (will be -12ac at 5x40). Also you forgot to mention that druid can't sing being shifted (you stop sing when you type shapeshift). So I doubt that 'bard is a [b:14apf1ky]very nice [/b:14apf1ky]supplement to druid'.
+But I doubt bard has better AC then druid. At least my ba/dr has <strong>\-10</strong>ac singing and <strong>\-11</strong>ac being shifted (will be -12ac at 5x40). Also you forgot to mention that druid can't sing being shifted (you stop sing when you type shapeshift). So I doubt that 'bard is a <strong>very nice</strong> supplement to druid'.
 
 IMO
 
@@ -58,7 +59,7 @@ Vixn
 
 <div class="post" data-post-id="28011" data-author="marge" data-date="2009-02-06T22:06:25+00:00" data-subject="">
 
-vixn's right, I was just thinking about how druids often find themselves as supporting characters in groups and bard is so helpful in that regard.  But if one wants to balance out the character to fight unshifted  one should add warrior or monk. I was also thinking about how useful it is to have glance. 
+vixn's right, I was just thinking about how druids often find themselves as supporting characters in groups and bard is so helpful in that regard. But if one wants to balance out the character to fight unshifted one should add warrior or monk. I was also thinking about how useful it is to have glance. 
 
 Also, there's a skill called equanimity that is sposed to let you use some of your skills shifted, but I have no idea which ones those are.
 

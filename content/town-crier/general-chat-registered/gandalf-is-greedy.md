@@ -14,6 +14,6 @@ post_count: 1
 
 Stolen from George Takei's FB account...
 
-395601_604232816272842_880282335_n.jpg
+395601\_604232816272842\_880282335\_n.jpg
 
 </div>

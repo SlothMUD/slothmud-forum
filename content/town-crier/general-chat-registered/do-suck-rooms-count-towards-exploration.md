@@ -18,33 +18,33 @@ My question is, does "Above the Swirling Vortex" count towards my exploration be
 
 Above the Swirling Vortex
 
-   The mouth of a giganti, swirling mass of dark air twists about its
+ The mouth of a giganti, swirling mass of dark air twists about its
 
-center below within an immense fissure of darkness.  Streams of dirt and
+center below within an immense fissure of darkness. Streams of dirt and
 
 rock trail into the vortex as the air rushes over the sides of he nearby
 
-ledge, streaking the air with beige and brown colors.  The darkness clings
+ledge, streaking the air with beige and brown colors. The darkness clings
 
 to the sides of the pit like the ink of a giant squid, gripping all that
 
 exists above it.
 
-Exits: East  Down  
+Exits: East Down 
 
 The shadows surround you, dragging you into the abyss!!
 
 The Rumbling Chaos
 
-   The whipping tail of a funnel rips through the air above the ground,
+ The whipping tail of a funnel rips through the air above the ground,
 
-sending debris flying in all directions.  Arcs of lightning pierce the sky
+sending debris flying in all directions. Arcs of lightning pierce the sky
 
-and thunder strikes the ground with a low rumble.  The ground slopes
+and thunder strikes the ground with a low rumble. The ground slopes
 
 steeply downward, disappearing in the shadows below.
 
-Exits: East  Down  
+Exits: East Down 
 
 (Brilliant Red Aura) A wicked, four-armed demon scowers the abyss for victims.
 
@@ -70,7 +70,7 @@ I'll check some further in case there's something unforeseen about those trigger
 
 didn't anticipate when they were implemented, however.
 
--Neptune
+\-Neptune
 
 </div>
 

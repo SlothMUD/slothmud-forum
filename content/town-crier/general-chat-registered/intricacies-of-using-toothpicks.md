@@ -20,7 +20,7 @@ The group was led by yours truly, backed up by a triple poker Dedsune, a valiant
 
 While the group didn't pop much, it sure did leave a trail of corpses and had a lot of fun (triple toothpick stab on Tiamat to awful for one), etc.
 
-Did I thank Blaster yet? Thanks, Blaster! :)
+Did I thank Blaster yet? Thanks, Blaster! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Hopefully, there will be more such exciting opportunities, not only limited to grenades, but also including temporary pass to Lyme to off-lymers (with specs), etc.
 
@@ -54,9 +54,9 @@ A blood curdling howl can be heard as a massive white dragon falls victim to an 
 
 Teron gets gold coins from the corpse of a massive white dragon that's on the ground.
 
-Teron splits 72010 coins.  Your share is 6000 coins.
+Teron splits 72010 coins. Your share is 6000 coins.
 
- :shock: 
+ <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
 And thanks Splork, for the new excruciating blow code. It'll help us thieves honor your name.
 

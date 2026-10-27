@@ -14,32 +14,27 @@ post_count: 1
 
 A tank hitpoint whiner, some of the features are:
 
-[list:1khtqeaa]
+- Captures your current state from prompt - <em>hitpoint, mana, move, armour</em>
 
-Captures your current state from prompt - [i:1khtqeaa]hitpoint, mana, move, armour[/i:1khtqeaa]
+Minimum hp variation whine - <em>hitpointreport</em>
 
-Minimum hp variation whine - [i:1khtqeaa]hitpointreport[/i:1khtqeaa]
+Percentage colour highlights - <em>colHealRedFlash, colHealRed, colHealYellow, colPerc</em> 
 
-Percentage colour highlights - [i:1khtqeaa]colHealRedFlash, colHealRed, colHealYellow, colPerc [/i:1khtqeaa]
+Variable Whine activation e.g. gt, ct, say, emote - <em>command</em> 
 
-Variable Whine activation e.g. gt, ct, say, emote - [i:1khtqeaa]command [/i:1khtqeaa]
+Score will update your max values - <em>hitpointmax, manamax, movemax</em>
 
-Score will update your max values - [i:1khtqeaa]hitpointmax, manamax, movemax[/i:1khtqeaa]
-
-[/list:u:1khtqeaa]
-
-You may need to modify your prompt or the trigger condition to match your own prompt, if you change the trigger conditions especially the order of the hp, ma, mv you'll need to fix the code.  Also remember to switch off "expand vars", copy and paste the code into [b:1khtqeaa]zMUD Editor [/b:1khtqeaa]and click on [b:1khtqeaa]Send[/b:1khtqeaa].
+You may need to modify your prompt or the trigger condition to match your own prompt, if you change the trigger conditions especially the order of the hp, ma, mv you'll need to fix the code. Also remember to switch off "expand vars", copy and paste the code into <strong>zMUD Editor</strong> and click on <strong>Send</strong>.
 
 Some downsides are that it isn't efficient, you could remove the variables like move, mana which you aren't using.
 
 You may also wish to change your prompt to hold the max move, mana, hitpoint values so that the score trigger wouldn't be necessary.
 
-The percentage colours idea is such that at green > 70% - usually no need to heal, amber 30-70% - heal now, red 10-30% - emergency heal now, flashing red <10% - about to die.  You can adjust your color percentages to your taste.  I used percentages as so many factors cause ones hps to vary.
+The percentage colours idea is such that at green \> 70% - usually no need to heal, amber 30-70% - heal now, red 10-30% - emergency heal now, flashing red \<10% - about to die. You can adjust your color percentages to your taste. I used percentages as so many factors cause ones hps to vary.
 
 Note: if you have problems running the script through aMUD editor you'll need to manually create the triggers and aliases.
 
-[code:1khtqeaa]
-
+```
 #CLASS "mystats"
 
 #VARIABLE whinemode 0
@@ -93,7 +88,6 @@ Note: if you have problems running the script through aMUD editor you'll need to
 #ALIAS whineoff {#var whinemode 0;grouptell DISABLED: I will no longer complain about being hit.}
 
 #CLASS 0
-
-[/code:1khtqeaa]
+```
 
 </div>

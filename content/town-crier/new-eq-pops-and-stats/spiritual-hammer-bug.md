@@ -18,11 +18,11 @@ A glowing, sizzling golden war hammer appears in your hands!
 
 ...
 
-Your hammer shudders with the righteous wrath![/color:upbxwe09]
+Your hammer shudders with the righteous wrath!
 
 Your slam passes right through an Umbral Bolt!
 
-Your sting passes right through an Umbral Bolt![/color:upbxwe09]
+Your sting passes right through an Umbral Bolt!
 
 Minibean's slash passes right through an Umbral Bolt!
 
@@ -38,7 +38,7 @@ You miss an Umbral Bolt with your pound.
 
 You massacre an Umbral Bolt to small fragments with your pound.
 
-You massacre an Umbral Bolt to small fragments with your pound.[/color:upbxwe09]
+You massacre an Umbral Bolt to small fragments with your pound.
 
 Spiritual hammer is used only for ether mobs, otherwise it's totaly useless. Masterfull spiritual hammer gives it some proc, but as you can see it's not hitting ether mobs. So I'm double confused. Proc looks like it's a spell and spell missing ether??? and chop attack misses mob as well??? Can someone take a look and fix it please. 
 
@@ -48,59 +48,68 @@ Thanks
 
 <div class="post" data-post-id="22743" data-author="Bazilus" data-date="2008-02-15T18:12:18+00:00" data-subject="Re: spiritual hammer bug?">
 
-You weave the threads of magic masterfully!
-
-A glowing, sizzling golden war hammer appears in your hands!
-
-...
-
-Your hammer shudders with the righteous wrath![/color:qux3hztt]
-
-Your slam passes right through an Umbral Bolt!
-
-Your sting passes right through an Umbral Bolt![/color:qux3hztt]
-
-Minibean's slash passes right through an Umbral Bolt!
-
-An Umbral Bolt viciously massacres Minibean with its zap.
-
-You are viciously massacred by an Umbral Bolt's zap.
-
-Assirian's aerial servant valiantly falls under a mighty blow.
-
-You massacre an Umbral Bolt to small fragments with your pound.
-
-You miss an Umbral Bolt with your pound.
-
-You massacre an Umbral Bolt to small fragments with your pound.
-
-You massacre an Umbral Bolt to small fragments with your pound.[/color:qux3hztt]
-
-Spiritual hammer is used only for ether mobs, otherwise it's totaly useless. Masterfull spiritual hammer gives it some proc, but as you can see it's not hitting ether mobs. So I'm double confused. Proc looks like it's a spell and spell missing ether??? and chop attack misses mob as well??? Can someone take a look and fix it please. 
-
-Thanks[/quote:qux3hztt]
+> <strong>Mike wrote:</strong>
+> You weave the threads of magic masterfully!
+> 
+> A glowing, sizzling golden war hammer appears in your hands!
+> 
+> 
+> 
+> ...
+> 
+> 
+> 
+> Your hammer shudders with the righteous wrath!
+> 
+> Your slam passes right through an Umbral Bolt!
+> 
+> Your sting passes right through an Umbral Bolt!
+> 
+> Minibean's slash passes right through an Umbral Bolt!
+> 
+> An Umbral Bolt viciously massacres Minibean with its zap.
+> 
+> You are viciously massacred by an Umbral Bolt's zap.
+> 
+> Assirian's aerial servant valiantly falls under a mighty blow.
+> 
+> You massacre an Umbral Bolt to small fragments with your pound.
+> 
+> You miss an Umbral Bolt with your pound.
+> 
+> You massacre an Umbral Bolt to small fragments with your pound.
+> 
+> You massacre an Umbral Bolt to small fragments with your pound.
+> 
+> 
+> 
+> 
+> 
+> Spiritual hammer is used only for ether mobs, otherwise it's totaly useless. Masterfull spiritual hammer gives it some proc, but as you can see it's not hitting ether mobs. So I'm double confused. Proc looks like it's a spell and spell missing ether??? and chop attack misses mob as well??? Can someone take a look and fix it please. 
+> 
+> 
+> 
+> Thanks
 
 That not are bug.
 
 "SPIRITUAL HAMMER"
 
-Usage:        cast 'spiritual hammer' 
+Usage: cast 'spiritual hammer' 
 
 Accumulative: - 
 
-Duration:     Permanent until removed 
+Duration: Permanent until removed 
 
-Level:        Cleric 4 
+Level: Cleric 4 
 
-Save:         N/A 
+Save: N/A 
 
-Spellbook:    Thor's 
+Spellbook: Thor's 
 
-Stratum:      Summoning
+Stratum: Summoning
 
-Min mana:     10 
-
-  
+Min mana: 10 
 
 This spell creates a magical hammer, which can be used as a weapon, and 
 
@@ -138,6 +147,6 @@ Make sure you submit this kind of thing using the bugs command. It's the best wa
 
 <div class="post" data-post-id="22758" data-author="Autolycos" data-date="2008-02-16T03:40:12+00:00" data-subject="">
 
-or maybe its just important to know that we should all kick you  :twisted:
+or maybe its just important to know that we should all kick you <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

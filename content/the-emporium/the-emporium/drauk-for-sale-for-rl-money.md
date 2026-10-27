@@ -12,9 +12,9 @@ post_count: 5
 
 <div class="post" data-post-id="4802" data-author="Drauk" data-date="2005-03-05T20:29:28+00:00" data-subject="Drauk for sale for RL money">
 
-scoreDrauk Trust no one (c)  (level: 40)
+scoreDrauk Trust no one (c) (level: 40)
 
-Your levels:  Ma: 40 Cl: 40 Wa: 40 Th: 40 Av: 29 
+Your levels: Ma: 40 Cl: 40 Wa: 40 Th: 40 Av: 29 
 
 You are 39 years and 16 months old.
 
@@ -44,11 +44,11 @@ You are standing.
 
 You are affected by the following spells:
 
-   Detect Invisible                 
+ Detect Invisible 
 
-   Resist Cold                      
+ Resist Cold 
 
-   Water Breathing                  
+ Water Breathing 
 
 This stats are not hoax, and are nats. 
 
@@ -262,51 +262,51 @@ an ivory scarab..It has a soft glowing aura!
 
 Vault list: 
 
-# 1 : a helm of fiery radiance
+\# 1 : a helm of fiery radiance
 
-# 2 : a band of ether
+\# 2 : a band of ether
 
-# 3 : a wiedzmin ring
+\# 3 : a wiedzmin ring
 
-# 4 : a dreamcatcher
+\# 4 : a dreamcatcher
 
-# 5 : a flow of water
+\# 5 : a flow of water
 
-# 6 : Sleeves of the Laughing Rogue
+\# 6 : Sleeves of the Laughing Rogue
 
-# 7 : a vial of gelatinous liquid
+\# 7 : a vial of gelatinous liquid
 
-# 8 : a red dragon scale shirt
+\# 8 : a red dragon scale shirt
 
-# 9 : a glowing tome of the gods
+\# 9 : a glowing tome of the gods
 
-#10 : a runed shield of the moon
+\#10 : a runed shield of the moon
 
-#11 : a suit of glowing, diamond-encrusted platemail
+\#11 : a suit of glowing, diamond-encrusted platemail
 
-#12 : a crystal blade of light
+\#12 : a crystal blade of light
 
-#13 : a quartz shield
+\#13 : a quartz shield
 
-#14 : silken thread
+\#14 : silken thread
 
-#15 : a leather plaque
+\#15 : a leather plaque
 
-#16 : a box of clean leather
+\#16 : a box of clean leather
 
-#17 : a small jar of unusual dust
+\#17 : a small jar of unusual dust
 
-#18 : a bone needle
+\#18 : a bone needle
 
-#19 : the Rune of the Netherworld
+\#19 : the Rune of the Netherworld
 
 The teller tells you 'You have 100740361 coins in the bank.'
 
 And as a bonus comes one more char
 
-Orkhis guardian of the high-powered magic  (level: 40)
+Orkhis guardian of the high-powered magic (level: 40)
 
-Your levels:  Wa: 40 Ma: 34 Cl: 25 Th: 12 
+Your levels: Wa: 40 Ma: 34 Cl: 25 Th: 12 
 
 You are 30 years and 15 months old.
 
@@ -336,11 +336,11 @@ You are standing.
 
 You are affected by the following spells:
 
-   Detect Invisible                 
+ Detect Invisible 
 
-   Sense Life                       
+ Sense Life 
 
-   Infravision                      
+ Infravision 
 
 You are carrying:
 

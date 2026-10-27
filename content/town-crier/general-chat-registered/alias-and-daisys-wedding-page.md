@@ -18,7 +18,7 @@ We still haven't worked out all the details yet, but suffice to say we all know 
 
 I was hoping that Spork would officiate at the wedding, and bless our union, but would that annoy Jake ? I think I'd better just tell them they'll have to do it together (such a pity we can't have a female god here ... it'd be so much more realistic).
 
-So anyway important things first, and as all you girls out there will know Number one on the list is the dress ...  needs more thought, I've only been round 24 shops so far .... next presents:
+So anyway important things first, and as all you girls out there will know Number one on the list is the dress ... needs more thought, I've only been round 24 shops so far .... next presents:
 
 Of course all presents would be welcome, but if they're tasteless cheap or I simply don't like them I'll make reference to the 'quaint' gifts you brought and name you, make you stand up and tell us all where you got them as part of my 'lets humiliate the guests' speech.
 
@@ -34,7 +34,7 @@ Daisy
 
 <div class="post" data-post-id="10179" data-author="Weasel" data-date="2006-01-17T22:32:56+00:00" data-subject="">
 
-..wha?  :shock:
+..wha? <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -46,17 +46,17 @@ and so dr. beckett finds himself leaping from life to life, striving to put righ
 
 get ready alias. i think he's coming to help you.
 
-brand :!:
+brand <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="10184" data-author="Autolycos" data-date="2006-01-17T23:25:36+00:00" data-subject="">
 
-OMFG! :!: 
+OMFG! <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom"> 
 
-*** APPLAUDS ***
+\*\*\* APPLAUDS \*\*\*
 
-i cant believe that Brand made me laff so hard....  and he didnt have to die of cf a group to to it...   :twisted: 
+i cant believe that Brand made me laff so hard.... and he didnt have to die of cf a group to to it... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 bravo. brand.. well done ole chap..
 
@@ -76,7 +76,8 @@ Ummm, is it supposed to be funny or what?
 
 <div class="post" data-post-id="10188" data-author="Daisy" data-date="2006-01-18T10:45:12+00:00" data-subject="Wedding plans">
 
-Ummm, is it supposed to be funny or what?[/quote:16pgxgpv]
+> <strong>Krok wrote:</strong>
+> Ummm, is it supposed to be funny or what?
 
 erm no ... I don't do funny ... I'm not sure why you seem to think that or why you think Alias needs rescuing from me ... Alias is going to marry me and be happy for the rest of his life, he might not know it yet, he may even (and I'm sure this is just his little and may I say bad-taste joke) say that he dosen't really want to marry me yet, but he will.
 
@@ -98,7 +99,7 @@ sorry but this is quite retarded
 
 <div class="post" data-post-id="10193" data-author="Krok" data-date="2006-01-18T12:34:16+00:00" data-subject="">
 
-Oh well, that's a desire for a bit of attention for sure. :P *comf*
+Oh well, that's a desire for a bit of attention for sure. :P \*comf\*
 
 </div>
 
@@ -114,7 +115,7 @@ Alias
 
 <div class="post" data-post-id="10197" data-author="Autolycos" data-date="2006-01-18T15:27:39+00:00" data-subject="">
 
-Good job Wesley,  sleep well,  i'll most likely kill you in the morning.
+Good job Wesley, sleep well, i'll most likely kill you in the morning.
 
 </div>
 
@@ -122,7 +123,7 @@ Good job Wesley,  sleep well,  i'll most likely kill you in the morning.
 
 I'm guessing she likes to be on top too...
 
-*checks list of crazy mud stuff he's seen*
+\*checks list of crazy mud stuff he's seen\*
 
 Nope... that's not on the list yet.
 
@@ -136,7 +137,7 @@ I am guessing she has been up the past few days cuddling with her crack pipe and
 
 <div class="post" data-post-id="10210" data-author="osric" data-date="2006-01-18T20:00:12+00:00" data-subject="">
 
-Holy Crap, I just snorted Grape soda out my nose in a filled university computer lab, people are staring at me, but I can't stop laughing! Brand that has to be the funniest shit I have heard in months!  Oh shit that was good :lol: 
+Holy Crap, I just snorted Grape soda out my nose in a filled university computer lab, people are staring at me, but I can't stop laughing! Brand that has to be the funniest shit I have heard in months! Oh shit that was good <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> 
 
 Also Daisy,
 
@@ -148,11 +149,11 @@ PS Alias run for the hills bro, I'll keep her looked in there for a good hour or
 
 <div class="post" data-post-id="10213" data-author="Autolycos" data-date="2006-01-18T20:42:59+00:00" data-subject="">
 
-laff Osric....  
+laff Osric.... 
 
- its nice to know that people look at you laugh for more reasons then your tattoo of *I love Kjartan* you have on your neck..  or that curious 3rd nipple growing on your shoulder... 
+ its nice to know that people look at you laugh for more reasons then your tattoo of \*I love Kjartan\* you have on your neck.. or that curious 3rd nipple growing on your shoulder... 
 
-strange to say the least..  :twisted:
+strange to say the least.. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

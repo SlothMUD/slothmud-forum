@@ -68,9 +68,9 @@ I've seen this too ... but only when I blast with energy drain ... this seems to
 
 <div class="post" data-post-id="28991" data-author="Toxis" data-date="2009-04-20T16:57:23+00:00" data-subject="">
 
-Back on Sloth3 it was a "feature" of juju's that sometimes you won't get exp with the juju.  I'm not sure if this is the case, but it sure would be rotten if it is.
+Back on Sloth3 it was a "feature" of juju's that sometimes you won't get exp with the juju. I'm not sure if this is the case, but it sure would be rotten if it is.
 
--Tox
+\-Tox
 
 </div>
 
@@ -92,9 +92,10 @@ I can't fix energy drain, but I can remove it from Juju's.
 
 <div class="post" data-post-id="28995" data-author="jezer" data-date="2009-04-21T00:26:54+00:00" data-subject="">
 
-I can't fix energy drain.[/quote:pi3h3mow]
+> <strong>juggleblood wrote:</strong>
+> I can't fix energy drain.
 
-You could rename it xp drain.  :twisted:
+You could rename it xp drain. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -102,15 +103,14 @@ You could rename it xp drain.  :twisted:
 
 I can't fix energy drain, but I can remove it from Juju's.
 
-Make it cast frostbolt instead?  :twisted:
+Make it cast frostbolt instead? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="28997" data-author="Thraxas" data-date="2009-04-21T13:09:13+00:00" data-subject="">
 
-2 points Thraxas.
-
-[/quote:ghfmgfuh]
+> <strong>juggleblood wrote:</strong>
+> 2 points Thraxas.
 
 I get drachma points for that ? Nice thanks
 

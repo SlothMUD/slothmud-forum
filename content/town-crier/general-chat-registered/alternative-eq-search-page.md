@@ -40,11 +40,11 @@ A few people said they could and no one followed through.
 
 Uploaded fresh version.
 
-- Filtering without refreshing of the page
+\- Filtering without refreshing of the page
 
-- Search by mob name or area name
+\- Search by mob name or area name
 
-- Some minor interface tweaks.
+\- Some minor interface tweaks.
 
 Breeze, is it posible to export forge page data as json file?
 
@@ -64,7 +64,7 @@ i dont think i put the mob vnums in the dl eqlist not that i remembereither way.
 
 I have vnums of all objects, mobs and areas.
 
-So some basic array with links will be enough for me. Like  {item_vnum, forger_vnum, cps {cps_vnums}}. You can include forge name or forger name also, but that will be just for more unserstandble file. Though maybe forger_name will be good idea anyway, in case if that mob dont pops anything, so its name not at eq list.
+So some basic array with links will be enough for me. Like {item\_vnum, forger\_vnum, cps {cps\_vnums}}. You can include forge name or forger name also, but that will be just for more unserstandble file. Though maybe forger\_name will be good idea anyway, in case if that mob dont pops anything, so its name not at eq list.
 
 Also would be nice, if eq dump and that forge dump will be accessed by some permanent link. Current eq dump link changes by some unknow rule, so tricky to add autoimport at cron. 
 
@@ -84,11 +84,11 @@ not going to code extra for it though. at least not anytime soon. still setting 
 
 here is what the data looks like
 
-{"FORGE_VNUM":"99246","FORGER_VNUM":"99239","FORGE_TYPE":"Trade","FORGE_EXPLOSION_CHANCE":"3","FORGE_COST":"2000000","COMPONENT_VNUM":["99218","99219","99220","99221","
+{"FORGE\_VNUM":"99246","FORGER\_VNUM":"99239","FORGE\_TYPE":"Trade","FORGE\_EXPLOSION\_CHANCE":"3","FORGE\_COST":"2000000","COMPONENT\_VNUM":["99218","99219","99220","99221","
 
-99222","99224","99225","99226","99227","99228"],"COMPONENT_QUANTITIES":["1","1","1","1","1","1","1","1","1","1"]}
+99222","99224","99225","99226","99227","99228"],"COMPONENT\_QUANTITIES":["1","1","1","1","1","1","1","1","1","1"]}
 
-{"FORGE_VNUM":"99244","FORGER_VNUM":"99223","FORGE_TYPE":"Trade","FORGE_COST":"6000000","COMPONENT_VNUM":["99245","99246","99247","99248"],"COMPONENT_QUANTITIES":["1","
+{"FORGE\_VNUM":"99244","FORGER\_VNUM":"99223","FORGE\_TYPE":"Trade","FORGE\_COST":"6000000","COMPONENT\_VNUM":["99245","99246","99247","99248"],"COMPONENT\_QUANTITIES":["1","
 
 1","1","1"]}
 
@@ -96,7 +96,7 @@ problem
 
  a) there are/may be undiscovered forges (which i am not going to manually remove)
 
- b) you wont be able to cross reference forger_vnum
+ b) you wont be able to cross reference forger\_vnum
 
  c) the file is out of date since the exporter code for it is broken and not fixable for the time being.
 
@@ -106,9 +106,9 @@ only real solution is for me to combine the forge and eqlist.json file
 
 <div class="post" data-post-id="35911" data-author="Filk" data-date="2015-05-22T06:21:02+00:00" data-subject="Re: Alternative eq search page">
 
-Well. Current format seems almost good enough. Single addition of forger_name will make it better. With forger_area_vnum - perfect :)
+Well. Current format seems almost good enough. Single addition of forger\_name will make it better. With forger\_area\_vnum - perfect <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-Actually forger name is almost enough. But it can work even with just vnum. At least i will have exact list of mob vnums that i will need to name in db :)
+Actually forger name is almost enough. But it can work even with just vnum. At least i will have exact list of mob vnums that i will need to name in db <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 About undiscovered forges. If item is hidden - its absent in eq list. So vnum gives nothing about actual forge.
 
@@ -152,7 +152,7 @@ Example 3: I want to sort by AC. You got the idea.
 
 I dont want to be rude, but it seems you exersising at coding only for the sake of it, without a goal. Just take a deep breath and look at your results. Would you use it yourself?
 
-Blackmore's was the best, too bad its gone :(
+Blackmore's was the best, too bad its gone <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -160,53 +160,53 @@ Blackmore's was the best, too bad its gone :(
 
 re:
 
- 1) he doesnt have access to forge data yet
+ 1\) he doesnt have access to forge data yet
 
- 2 & 3 ) i assume its still a work in progress.
+ 2 \& 3 ) i assume its still a work in progress.
 
 </div>
 
 <div class="post" data-post-id="35917" data-author="Filk" data-date="2015-05-26T14:23:04+00:00" data-subject="Re: Alternative eq search page">
 
-> **Yasik wrote:**
+> <strong>Yasik wrote:</strong>
 > Limited practical use.
 > 
 > Example 1: I want to search "shield" AND "forged". How? Same as www version, scroll through list, watch with eyes or Ctrl+F.
 
 As breeze said, no forge data for use yet. WIll add it, if i will get the data.
 
-> **Yasik wrote:**
+> <strong>Yasik wrote:</strong>
 > Example 2: I want to search "armor" AND "waist". How?
 
 I didnt add filters for exact slots yet, just in my to do list.
 
-> **Yasik wrote:**
+> <strong>Yasik wrote:</strong>
 > Example 3: I want to sort by AC. You got the idea.
 
 List after any filtering sorted by ac within each slot group. Not sure if filter by armor have any uses with that conception. But not any problems to add it, if someone think it will be usefull.
 
 At mainpage list sorted by the date i add item to my db, to easy check, what is new. But actually it was only one data update since that time, so only several top items are new.
 
-> **Yasik wrote:**
+> <strong>Yasik wrote:</strong>
 > I dont want to be rude, but it seems you exersising at coding only for the sake of it, without a goal. Just take a deep breath and look at your results. Would you use it yourself?
 > 
-> Blackmore's was the best, too bad its gone :(
+> Blackmore's was the best, too bad its gone <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 I have exact goals, and i made this page to use for myself. In the way i want to use eq filtering page. 
 
-Just shared with ppl, if anybody else want to use it too. If you dont like that realization - dont use. If you have some good offers - share :)
+Just shared with ppl, if anybody else want to use it too. If you dont like that realization - dont use. If you have some good offers - share <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Current stage is just point where i think it can be already used by other ppl, but it isnt finish point.
 
 I have big list of things i want to add. And dont mind to add other good ideas as well.
 
-No ideas what Bm did, never even heard. But whatever. More not less :)
+No ideas what Bm did, never even heard. But whatever. More not less <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="35918" data-author="*Breeze*" data-date="2015-05-26T14:41:06+00:00" data-subject="Re: Alternative eq search page">
 
-just emailed fluffy/filk.  here is the parts of the email that pertain to this conversation.
+just emailed fluffy/filk. here is the parts of the email that pertain to this conversation.
 
 the rest is me apologizing to him for being a bit of a jerk when it wasn't him i was mad at.
 
@@ -270,11 +270,11 @@ One thing I did do once was use table headers and simple JavaScript to be able t
 
 Uploaded some updates on the eq page.
 
-- Forges now displays all cps, forger and forge price.
+\- Forges now displays all cps, forger and forge price.
 
-- All items that are cps for something shows in what forge they are needed for.
+\- All items that are cps for something shows in what forge they are needed for.
 
-- Forge check in a filters
+\- Forge check in a filters
 
 Also found that eq dump file has some missing items, so you can see things like 1 x [12345] in cps list for forges.
 
@@ -286,9 +286,9 @@ That means that item was missing in eq dump, but i have its id from forge dump. 
 
 Some new updates.
 
-- Added filters by eq slots and few other item types
+\- Added filters by eq slots and few other item types
 
-- When you filter by clasps or runes, all items now displayed in exact eq slot, that clasp or rune can be attached. If item attaches to several eq slots, it displays in each.
+\- When you filter by clasps or runes, all items now displayed in exact eq slot, that clasp or rune can be attached. If item attaches to several eq slots, it displays in each.
 
 </div>
 

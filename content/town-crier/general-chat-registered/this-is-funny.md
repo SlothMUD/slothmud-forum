@@ -74,25 +74,25 @@ Cocaine applies a liquid to her weapon.
 
 Group 'Den of Thieves' consists of:
 
-                 Cocaine [Th:4.16  834hp 294ma 205mv] (Fearless Leader)
+ Cocaine [Th:4.16 834hp 294ma 205mv] (Fearless Leader)
 
-                Caldrick [Wa:4.31  933hp 272ma 262mv] andro (Point)
+ Caldrick [Wa:4.31 933hp 272ma 262mv] andro (Point)
 
-                     Lob [Wa:4.36 1052hp 413ma 192mv] ---
+ Lob [Wa:4.36 1052hp 413ma 192mv] ---
 
-                     Doc [Cl:5.40 1016hp 410ma 194mv] vain for mandos
+ Doc [Cl:5.40 1016hp 410ma 194mv] vain for mandos
 
-                     Lis [Ma:5.40  830hp 693ma 161mv] jewels+gem-hammers
+ Lis [Ma:5.40 830hp 693ma 161mv] jewels+gem-hammers
 
-                  Mandos [Ne:5.40 -135hp 711ma 226mv] (Dead)
+ Mandos [Ne:5.40 -135hp 711ma 226mv] (Dead)
 
-               Schroeder [Ne:3.22  594hp 528ma 115mv] kaz, pworm, pelt :)
+ Schroeder [Ne:3.22 594hp 528ma 115mv] kaz, pworm, pelt <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-                 Volodos [Ma:3.35  506hp 614ma 126mv] ram,hydra,cobra
+ Volodos [Ma:3.35 506hp 614ma 126mv] ram,hydra,cobra
 
-                   Verin [Cl:3.23  582hp 394ma 174mv] (Absent)
+ Verin [Cl:3.23 582hp 394ma 174mv] (Absent)
 
-                     Chi [Ma:4.39  732hp 614ma 278mv] (Absent)
+ Chi [Ma:4.39 732hp 614ma 278mv] (Absent)
 
 Lis falls down laughing.
 
@@ -112,25 +112,25 @@ An inexperienced cutpurse says 'By any chance, have you seen the entranceway to 
 
 Group 'Den of Thieves' consists of:
 
-                 Cocaine [Th:4.16  834hp 296ma 207mv] (Fearless Leader)
+ Cocaine [Th:4.16 834hp 296ma 207mv] (Fearless Leader)
 
-                Caldrick [Wa:4.31  939hp 274ma 265mv] andro (Point)
+ Caldrick [Wa:4.31 939hp 274ma 265mv] andro (Point)
 
-                     Lob [Wa:4.36 1052hp 413ma 195mv] ---
+ Lob [Wa:4.36 1052hp 413ma 195mv] ---
 
-                     Doc [Cl:5.40 1016hp 414ma 196mv] vain for mandos
+ Doc [Cl:5.40 1016hp 414ma 196mv] vain for mandos
 
-                     Lis [Ma:5.40  830hp 699ma 164mv] jewels+gem-hammers
+ Lis [Ma:5.40 830hp 699ma 164mv] jewels+gem-hammers
 
-                  Mandos [Ne:5.40 -135hp 711ma 226mv] (Dead)
+ Mandos [Ne:5.40 -135hp 711ma 226mv] (Dead)
 
-               Schroeder [Ne:3.22  594hp 528ma 117mv] kaz, pworm, pelt :)
+ Schroeder [Ne:3.22 594hp 528ma 117mv] kaz, pworm, pelt <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-                 Volodos [Ma:3.35  506hp 619ma 128mv] ram,hydra,cobra
+ Volodos [Ma:3.35 506hp 619ma 128mv] ram,hydra,cobra
 
-                   Verin [Cl:3.23  582hp 394ma 174mv] (Absent)
+ Verin [Cl:3.23 582hp 394ma 174mv] (Absent)
 
-                     Chi [Ma:4.39  732hp 614ma 278mv] (Absent)
+ Chi [Ma:4.39 732hp 614ma 278mv] (Absent)
 
 Doc -- 'dead man again'
 
@@ -162,7 +162,7 @@ Doc utters the words, 'candusghafahuai'
 
 Mandos briefly glows with a blinding light!
 
-Cocaine -- 'goddamn :((((('
+Cocaine -- 'goddamn <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">(((('
 
 Mandos gets a green avian scale from the halls of waiting.
 
@@ -182,27 +182,27 @@ Doc says 'laf'
 
 Group 'Den of Thieves' consists of:
 
-                 Cocaine [Th:4.16  834hp 308ma 221mv] (Fearless Leader)
+ Cocaine [Th:4.16 834hp 308ma 221mv] (Fearless Leader)
 
-                Caldrick [Wa:4.31  972hp 220ma 282mv] andro (Point)
+ Caldrick [Wa:4.31 972hp 220ma 282mv] andro (Point)
 
-                     Lob [Wa:4.36 1052hp 413ma 213mv] ---
+ Lob [Wa:4.36 1052hp 413ma 213mv] ---
 
-                     Doc [Cl:5.40 1016hp 316ma 185mv] vain for mandos
+ Doc [Cl:5.40 1016hp 316ma 185mv] vain for mandos
 
-                     Lis [Ma:5.40  830hp 724ma 182mv] jewels+gem-hammers
+ Lis [Ma:5.40 830hp 724ma 182mv] jewels+gem-hammers
 
-                  Mandos [Ne:5.40 2041hp 596ma 230mv] ---
+ Mandos [Ne:5.40 2041hp 596ma 230mv] ---
 
-               Schroeder [Ne:3.22  594hp 528ma 128mv] kaz, pworm, pelt :)
+ Schroeder [Ne:3.22 594hp 528ma 128mv] kaz, pworm, pelt <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-                 Volodos [Ma:3.35  506hp 649ma 141mv] ram,hydra,cobra
+ Volodos [Ma:3.35 506hp 649ma 141mv] ram,hydra,cobra
 
-                   Verin [Cl:3.23  582hp 394ma 174mv] (Absent)
+ Verin [Cl:3.23 582hp 394ma 174mv] (Absent)
 
-                     Chi [Ma:4.39  732hp 614ma 278mv] (Absent)
+ Chi [Ma:4.39 732hp 614ma 278mv] (Absent)
 
-TARGET ------------------->>>>> fish <<<<<------------<<<
+TARGET -------------------\>\>\>\>\> fish \<\<\<\<\<------------\<\<\<
 
 Cocaine -- 'target fish'
 
@@ -234,7 +234,7 @@ Glacial cold blasts forth from an enormous piasa bird (Mandos), hitting Schroede
 
 in the chest.
 
-SEEK SHELTER AT ONCE!  Schroeder has begun to sing.
+SEEK SHELTER AT ONCE! Schroeder has begun to sing.
 
 Schroeder pounds a shadow assassin very hard.
 
@@ -264,31 +264,31 @@ Your blood freezes as you hear a shadow assassin's death cry.
 
 Lis gets gold coins from the corpse of a shadow assassin that's on the ground.
 
-Lis splits 4000 coins.  Your share is 500 coins.
+Lis splits 4000 coins. Your share is 500 coins.
 
 Mandos -- 'so do you schroeder'
 
 Group 'Den of Thieves' consists of:
 
-                 Cocaine [Th:4.16  834hp 316ma 230mv] (Fearless Leader)
+ Cocaine [Th:4.16 834hp 316ma 230mv] (Fearless Leader)
 
-                Caldrick [Wa:4.31  994hp 186ma 292mv] andro (Point)
+ Caldrick [Wa:4.31 994hp 186ma 292mv] andro (Point)
 
-                     Lob [Wa:4.36 1052hp 413ma 224mv] ---
+ Lob [Wa:4.36 1052hp 413ma 224mv] ---
 
-                     Doc [Cl:5.40 1016hp 305ma 196mv] vain for mandos
+ Doc [Cl:5.40 1016hp 305ma 196mv] vain for mandos
 
-                     Lis [Ma:5.40  830hp 708ma 193mv] jewels+gem-hammers
+ Lis [Ma:5.40 830hp 708ma 193mv] jewels+gem-hammers
 
-                  Mandos [Ne:5.40 2037hp 532ma 226mv] ---
+ Mandos [Ne:5.40 2037hp 532ma 226mv] ---
 
-               Schroeder [Ne:3.22  -80hp 528ma 131mv] (Dead)
+ Schroeder [Ne:3.22 -80hp 528ma 131mv] (Dead)
 
-                 Volodos [Ma:3.35  506hp 649ma 149mv] ram,hydra,cobra
+ Volodos [Ma:3.35 506hp 649ma 149mv] ram,hydra,cobra
 
-                   Verin [Cl:3.23  582hp 394ma 174mv] (Absent)
+ Verin [Cl:3.23 582hp 394ma 174mv] (Absent)
 
-                     Chi [Ma:4.39  732hp 614ma 278mv] (Absent)
+ Chi [Ma:4.39 732hp 614ma 278mv] (Absent)
 
 An enormous piasa bird (Mandos) pauses and slowly returns to his natural form.
 
@@ -304,9 +304,9 @@ Schroeder -- 'thanks for killing me mandos'
 
 Mandos -- 'my peleasure'
 
-You grouptell: 'lol, don't wanna fight a piasa :)'
+You grouptell: 'lol, don't wanna fight a piasa <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">'
 
-Mandos -- 'anymore shit to talk? :)'
+Mandos -- 'anymore shit to talk? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">'
 
 Schroeder -- 'wasn't aware i was talking shit'
 
@@ -318,28 +318,29 @@ Mandos begins to sing 'brothers in valor'.
 
 You are greatly inspired by Mandos's song!
 
-Note, this was shortly after we had killed Mandos already. :)~
+Note, this was shortly after we had killed Mandos already. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">\~
 
--Brad
+\-Brad
 
 </div>
 
 <div class="post" data-post-id="15266" data-author="Autolycos" data-date="2006-11-21T19:46:57+00:00" data-subject="">
 
-ahh  good times...
+ahh good times...
 
-The best part is that Heck is usually such a smart ass and has a good sense of humor about it....  He likes to wait and line things up just to make the point that much more amusing for the rest of us.. 
+The best part is that Heck is usually such a smart ass and has a good sense of humor about it.... He likes to wait and line things up just to make the point that much more amusing for the rest of us.. 
 
-Cheers Heck! :twisted:
+Cheers Heck! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="15293" data-author="Corinn" data-date="2006-11-23T15:21:23+00:00" data-subject="">
 
-[quote:1yqkdjms]TARGET ------------------->>>>> fish <<<<<------------<<< [/quote:1yqkdjms]
+> <strong>Quote:</strong>
+> TARGET -------------------\>\>\>\>\> fish \<\<\<\<\<------------\<\<\<
 
 AAAAAHHHH! RUN AWAY! RUN AWAY!
 
--Pisces  :)
+\-Pisces <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

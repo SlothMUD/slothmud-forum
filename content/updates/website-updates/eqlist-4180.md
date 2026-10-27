@@ -72,7 +72,7 @@ Breeze actually added Area as one of the possible selections to search from on t
 
 Here is the current sample, its not flushed out yet and he plans on prettying it up soon:
 
-<LINK_TEXT text="http://www.slothmud.org/wp/welcome-to-s ... st?area=18">http://www.slothmud.org/wp/welcome-to-slothmud/equipment/eqlist?area=18</LINK_TEXT>
+http://www.slothmud.org/wp/welcome-to-slothmud/equipment/eqlist?area=18
 
 You can find this option on the right hand side of the eqlist. If chosen, it overrides any other option which you selected.
 
@@ -122,9 +122,9 @@ Bard stats for instruments aren't displayed.
 
 ?x40 restricts aren't displayed.
 
-There's a huge amount of whitespace.  It seems like there would be something that could be done to fit more on the screen.
+There's a huge amount of whitespace. It seems like there would be something that could be done to fit more on the screen.
 
-Overall, it's definitely a good step, and I'm going to have to experiment with the json file.  You pretty much have to write a parser to be able to read it, and I'm not quite that far yet.
+Overall, it's definitely a good step, and I'm going to have to experiment with the json file. You pretty much have to write a parser to be able to read it, and I'm not quite that far yet.
 
 </div>
 
@@ -136,7 +136,7 @@ also weapon dice and potions affects are not displayed
 
 <div class="post" data-post-id="34725" data-author="*Breeze*" data-date="2013-12-29T07:44:41+00:00" data-subject="Re: EQList">
 
-> **Agni wrote:**
+> <strong>Agni wrote:</strong>
 > also weapon dice and potions affects are not displayed
 
 was my fault. fixed
@@ -161,8 +161,8 @@ if it doesnt show up in normal mode, the eqlist doesnt know it.
 
 <div class="post" data-post-id="34726" data-author="*Breeze*" data-date="2013-12-29T07:46:28+00:00" data-subject="Re: EQList">
 
-> **blackmore wrote:**
-> Overall, it's definitely a good step, and I'm going to have to experiment with the json file.  You pretty much have to write a parser to be able to read it, and I'm not quite that far yet.
+> <strong>blackmore wrote:</strong>
+> Overall, it's definitely a good step, and I'm going to have to experiment with the json file. You pretty much have to write a parser to be able to read it, and I'm not quite that far yet.
 
 there is no need to write own parser for json.
 
@@ -176,7 +176,7 @@ has parsers for just about every language.
 
 <div class="post" data-post-id="34727" data-author="*Breeze*" data-date="2013-12-29T09:33:52+00:00" data-subject="Re: EQList">
 
-linked in eq by area. click the area name on a regular search or use the *AREA* filter to pull up a list of areas then
+linked in eq by area. click the area name on a regular search or use the \*AREA\* filter to pull up a list of areas then
 
 click from there.
 
@@ -204,7 +204,7 @@ What about sorting? Can we sort ascending/descending by AC, for example?
 
 what you are both asking for is basically more filters.
 
-the main responses i got to the eqlist are: *it sucks* and *its too hard to use*.
+the main responses i got to the eqlist are: <em>it sucks</em> and <em>its too hard to use</em>.
 
 adding more filters wont make that any easier to use, and tbh i have other things to do.
 
@@ -214,7 +214,7 @@ if i get time in the future, i will see about adding in more filters, but that i
 
 as for forge cps, all forge data is listed here on one page.
 
-[<LINK_TEXT text="http://www.slothmud.org/wp/equipment/fo ... -and-brews">http://www.slothmud.org/wp/equipment/forges-trades-enchantments-and-brews</LINK_TEXT>](http://www.slothmud.org/wp/equipment/forges-trades-enchantments-and-brews)
+[http://www.slothmud.org/wp/equipment/forges-trades-enchantments-and-brews](http://www.slothmud.org/wp/equipment/forges-trades-enchantments-and-brews)
 
 i am not about to do a bunch more queries to the database to see if each and every item is a forge component, sorry.
 
@@ -248,19 +248,19 @@ i added in code to display said sets.
 
 i am also considering adding in
 
-IS_XXXX filters for
+IS\_XXXX filters for
 
-IS_SHAPESHIFT
+IS\_SHAPESHIFT
 
-IS_FORGE
+IS\_FORGE
 
-IS_SET
+IS\_SET
 
 am i missing anything?
 
 if someone wants to write up a blurb that i can put on the eqlist page (when you first go and havent searched)
 
-that says how to use eqlist i will add it in.  no pictures tho. if we want picture page then it has to be a separate page that we can link to,  any takers?
+that says how to use eqlist i will add it in. no pictures tho. if we want picture page then it has to be a separate page that we can link to, any takers?
 
 </div>
 
@@ -284,7 +284,7 @@ make it a page on the main site.
 
 I have a question about the json.
 
-It seems like the list of objects should have a common property name.  In the download file, the property name is the vnum.  Shouldn't there be a property name instead of the vnum?
+It seems like the list of objects should have a common property name. In the download file, the property name is the vnum. Shouldn't there be a property name instead of the vnum?
 
 </div>
 
@@ -307,12 +307,12 @@ if you have a better way i am willing to listen but not promising i will change 
 
 <div class="post" data-post-id="34770" data-author="blackmore" data-date="2014-01-08T03:59:44+00:00" data-subject="Re: EQList">
 
-I don't know if I have a better idea of not, I'm just asking.  I've never consumed json I haven't written before, it just looked different.
+I don't know if I have a better idea of not, I'm just asking. I've never consumed json I haven't written before, it just looked different.
 
 </div>
 
 <div class="post" data-post-id="34771" data-author="*Breeze*" data-date="2014-01-08T04:02:52+00:00" data-subject="Re: EQList">
 
-nod.  99% of everything i do, i export with php parseable json. :)
+nod. 99% of everything i do, i export with php parseable json. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

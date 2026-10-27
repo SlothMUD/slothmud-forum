@@ -28,7 +28,7 @@ For the amount of mana it would cost to sleep every mob, you could afford more h
 
 <div class="post" data-post-id="14857" data-author="13" data-date="2006-11-01T03:04:54+00:00" data-subject="">
 
-you ether, lost cause fighting\
+you ether, lost cause fighting\\
 
 whre youre going
 
@@ -40,7 +40,7 @@ no-one for sure does it
 
 <div class="post" data-post-id="14874" data-author="Medios" data-date="2006-11-01T21:51:16+00:00" data-subject="">
 
-Why does the mob have to be sleeping.  I would have come correct and asked for a song like 'aura of fire' that lowers a mobs resistance to fire.
+Why does the mob have to be sleeping. I would have come correct and asked for a song like 'aura of fire' that lowers a mobs resistance to fire.
 
 Mike
 

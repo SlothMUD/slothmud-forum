@@ -14,42 +14,26 @@ post_count: 1
 
 There have been a huge number of bugs relating to druid, I've made a big dent in that pile:
 
-[*:rs3qfdbw]druid communication bug - whereby when player shifted, there name would always appear as Someone[/*:m:rs3qfdbw]
-
-[*:rs3qfdbw]druid invisible on who bug - whereby when player shifted, they became invisible on who (seperate bug)[/*:m:rs3qfdbw]
-
-[*:rs3qfdbw]light bug, whereby on returning from shift the room became dark[/*:m:rs3qfdbw]
-
-[*:rs3qfdbw]hp bug, whereby shifting to a much larger form when injured then returning would heal you[/*:m:rs3qfdbw]
-
-[*:rs3qfdbw]seadragon can breath underwater[/*:m:rs3qfdbw]
-
-[*:rs3qfdbw]cobra can climb properly[/*:m:rs3qfdbw]
-
-[*:rs3qfdbw]eudaemon healing bug (to be honest when I came to test this it was working so it could have been a consequence of something else I changed *bonus pat on back* or someone else fixed it already *clap*)[/*:m:rs3qfdbw]
-
-[*:rs3qfdbw]supplication works if you shift after saccing[/*:m:rs3qfdbw]
-
-[*:rs3qfdbw]a lot more commands accessible whilst shifted (skills only when appropriate)[/*:m:rs3qfdbw]
-
-[*:rs3qfdbw]drachma tokens are pick-upable[/*:m:rs3qfdbw]
-
-[*:rs3qfdbw]shifted "score" you can see the bits based upon your levels[/*:m:rs3qfdbw]
-
-[*:rs3qfdbw]shifted "practice" shows you available skills[/*:m:rs3qfdbw]
-
-[*:rs3qfdbw]shifted age/youth potions didn't work[/*:m:rs3qfdbw]
-
-[*:rs3qfdbw]...a huge bunch of other bits that'll make druids more stable[/*:m:rs3qfdbw][/list:o:rs3qfdbw]
+1. druid communication bug - whereby when player shifted, there name would always appear as Someone
+2. druid invisible on who bug - whereby when player shifted, they became invisible on who (seperate bug)
+3. light bug, whereby on returning from shift the room became dark
+4. hp bug, whereby shifting to a much larger form when injured then returning would heal you
+5. seadragon can breath underwater
+6. cobra can climb properly
+7. eudaemon healing bug (to be honest when I came to test this it was working so it could have been a consequence of something else I changed \*bonus pat on back\* or someone else fixed it already \*clap\*)
+8. supplication works if you shift after saccing
+9. a lot more commands accessible whilst shifted (skills only when appropriate)
+10. drachma tokens are pick-upable
+11. shifted "score" you can see the bits based upon your levels
+12. shifted "practice" shows you available skills
+13. shifted age/youth potions didn't work
+14. ...a huge bunch of other bits that'll make druids more stable
 
 Also there are a number of enhancements:
 
-[*:rs3qfdbw]some forms can eat and drink directly from the floor[/*:m:rs3qfdbw]
-
-[*:rs3qfdbw]gorge added to some forms, although the lower forms know it only as a low %[/*:m:rs3qfdbw]
-
-[*:rs3qfdbw]hp/damage bonus based upon druid class order and levels[/*:m:rs3qfdbw]
-
-[*:rs3qfdbw]You can rent in form, although when logging back on you will be unshifted[/*:m:rs3qfdbw][/list:o:rs3qfdbw]
+1. some forms can eat and drink directly from the floor
+2. gorge added to some forms, although the lower forms know it only as a low %
+3. hp/damage bonus based upon druid class order and levels
+4. You can rent in form, although when logging back on you will be unshifted
 
 </div>

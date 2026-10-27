@@ -16,6 +16,6 @@ Waaaaaaah !!!
 
 Damn it Van, I was just gonna grab something small.
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

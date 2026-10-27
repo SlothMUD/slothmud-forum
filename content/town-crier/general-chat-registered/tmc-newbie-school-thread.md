@@ -20,7 +20,7 @@ Check out this thread on the mud connector.
 
 <div class="post" data-post-id="36507" data-author="Teron" data-date="2016-01-18T11:36:22+00:00" data-subject="Re: TMC Newbie School Thread">
 
-Well, that's odd. I wonder who all voted for our college, because Aardmud's seems better. At least, ours does have room for improvement, I'm sure you are just getting started :)
+Well, that's odd. I wonder who all voted for our college, because Aardmud's seems better. At least, ours does have room for improvement, I'm sure you are just getting started <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 That being said, maybe it's been a while I took it, but I don't remember Aardmud teaching newbs how to use skills, rather than read help files. Even though I do like how they stress through the system that you can get info from the help.
 
@@ -100,8 +100,8 @@ why I continue to build.
 
 Well, that and because I'd probably go crazy trying to clear my consciousness
 
-of these sort of things offline....   :roll: 
+of these sort of things offline.... <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> 
 
--Neptune
+\-Neptune
 
 </div>

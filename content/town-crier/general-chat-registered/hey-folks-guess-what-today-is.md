@@ -18,7 +18,7 @@ STFURDAY!!
 
 <div class="post" data-post-id="18219" data-author="Alberich" data-date="2007-04-28T14:13:55+00:00" data-subject="">
 
-[img:1ai6rkfe]http://home.earthlink.net/~althalus/images/caturdayxx.jpg[/img:1ai6rkfe]
+![](http://home.earthlink.net/~althalus/images/caturdayxx.jpg)
 
 </div>
 
@@ -26,6 +26,6 @@ STFURDAY!!
 
 it's beltane, of course!
 
-" i'm allowing you to tag along, so why don't you give your mouth a rest. okay doll?"  --indiana jones -->temple of doom
+" i'm allowing you to tag along, so why don't you give your mouth a rest. okay doll?" --indiana jones --\>temple of doom
 
 </div>

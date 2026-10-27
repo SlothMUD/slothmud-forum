@@ -26,23 +26,23 @@ MOB / Continent Stats
  1639 mobs remain on Niebelung
  1994 mobs remain on Lyme
  2327 mobs remain on The Island
-   28 mobs remain on The Clipper
-Total mobs:  12805
+ 28 mobs remain on The Clipper
+Total mobs: 12805
 <1025rm 0wz 3sv>
 ```
 
-after 3.5 hours they cleared about 1.1k mobs :)  great job guys!
+after 3.5 hours they cleared about 1.1k mobs <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> great job guys!
 
 </div>
 
 <div class="post" data-post-id="36625" data-author="Sam" data-date="2016-02-21T07:46:30+00:00" data-subject="Re: &amp;quot;quick&amp;quot; quest">
 
-Cool quest :)
+Cool quest <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="36626" data-author="Teron" data-date="2016-02-21T15:00:12+00:00" data-subject="Re: &amp;quot;quick&amp;quot; quest">
 
-Yeah, next time you need to pick Clipper :)
+Yeah, next time you need to pick Clipper <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

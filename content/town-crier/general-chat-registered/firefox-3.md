@@ -20,7 +20,7 @@ Can anyone look into this, maybe easy fixed? Does anyone use firefox? don't tell
 
 <div class="post" data-post-id="25925" data-author="Tap" data-date="2008-08-27T01:35:57+00:00" data-subject="">
 
-I'm not sure what you mean by post. Firefox 3 is causing you to question your orientation? I'm using it and haven't noticed any problems...f__k internet explorer..it's a virus haven
+I'm not sure what you mean by post. Firefox 3 is causing you to question your orientation? I'm using it and haven't noticed any problems...f\_\_k internet explorer..it's a virus haven
 
 </div>
 
@@ -60,7 +60,7 @@ Nods, been getting that for a while, but it was not at the same time as I update
 
 <div class="post" data-post-id="25932" data-author="Jag" data-date="2008-08-27T12:22:14+00:00" data-subject="">
 
-No biggie, but I had the same issue.  I just up'd to the new version and the windows on the home screen no longer dovetail as they had.
+No biggie, but I had the same issue. I just up'd to the new version and the windows on the home screen no longer dovetail as they had.
 
 </div>
 
@@ -102,23 +102,30 @@ It's kinda nice so far... I like.
 
 <div class="post" data-post-id="26117" data-author="Rynquald" data-date="2008-09-03T03:32:23+00:00" data-subject="">
 
-I like the name  :)
+I like the name <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Edit: After a little more research, it looks like "Google Chrome" is little more than a cynical attempt to use the term "open source" as a marketing ploy. The license is a nice rehash of the .net passport fiasco.
 
 From the license:
 
-[quote:2csqjs02]
-
-11. Content license from you
-
-11.1 You retain copyright and any other rights you already hold in Content which you submit, post or display on or through, the Services. By submitting, posting or displaying the content you give Google a perpetual, irrevocable, worldwide, royalty-free, and non-exclusive license to reproduce, adapt, modify, translate, publish, publicly perform, publicly display and distribute any Content which you submit, post or display on or through, the Services. This license is for the sole purpose of enabling Google to display, distribute and promote the Services and may be revoked for certain Services as defined in the Additional Terms of those Services.
-
-11.2 You agree that this license includes a right for Google to make such Content available to other companies, organizations or individuals with whom Google has relationships for the provision of syndicated services, and to use such Content in connection with the provision of those services.
-
-11.3 You understand that Google, in performing the required technical steps to provide the Services to our users, may (a) transmit or distribute your Content over various public networks and in various media; and (b) make such changes to your Content as are necessary to conform and adapt that Content to the technical requirements of connecting networks, devices, services or media. You agree that this license shall permit Google to take these actions.
-
-11.4 You confirm and warrant to Google that you have all the rights, power and authority necessary to grant the above license.[/quote:2csqjs02]
+> <strong>Quote:</strong>
+> 11\. Content license from you
+> 
+> 
+> 
+> 11.1 You retain copyright and any other rights you already hold in Content which you submit, post or display on or through, the Services. By submitting, posting or displaying the content you give Google a perpetual, irrevocable, worldwide, royalty-free, and non-exclusive license to reproduce, adapt, modify, translate, publish, publicly perform, publicly display and distribute any Content which you submit, post or display on or through, the Services. This license is for the sole purpose of enabling Google to display, distribute and promote the Services and may be revoked for certain Services as defined in the Additional Terms of those Services.
+> 
+> 
+> 
+> 11.2 You agree that this license includes a right for Google to make such Content available to other companies, organizations or individuals with whom Google has relationships for the provision of syndicated services, and to use such Content in connection with the provision of those services.
+> 
+> 
+> 
+> 11.3 You understand that Google, in performing the required technical steps to provide the Services to our users, may (a) transmit or distribute your Content over various public networks and in various media; and (b) make such changes to your Content as are necessary to conform and adapt that Content to the technical requirements of connecting networks, devices, services or media. You agree that this license shall permit Google to take these actions.
+> 
+> 
+> 
+> 11.4 You confirm and warrant to Google that you have all the rights, power and authority necessary to grant the above license.
 
 Google hasn't seemed to be what it once was for some time now.
 
@@ -126,7 +133,7 @@ Google hasn't seemed to be what it once was for some time now.
 
 <div class="post" data-post-id="26151" data-author="Rynquald" data-date="2008-09-05T01:09:48+00:00" data-subject="">
 
-Looks like enough people noticed to get Google to pretend it was a mistake ([url:9u5uwmgc]http://www.theregister.co.uk/2008/09/04/google_retracts_lousy_chrome_eula_terms/[/url:9u5uwmgc])
+Looks like enough people noticed to get Google to pretend it was a mistake (http://www.theregister.co.uk/2008/09/04/google_retracts_lousy_chrome_eula_terms/)
 
 Still, the fact that they tried that on is enough to kill any trust I had in them.
 
@@ -140,11 +147,14 @@ can you pls translate that to common language?
 
 <div class="post" data-post-id="26169" data-author="Atwell" data-date="2008-09-06T06:01:47+00:00" data-subject="">
 
-Looks like enough people noticed to get Google to pretend it was a mistake ([url:2d4h8ewb]http://www.theregister.co.uk/2008/09/04/google_retracts_lousy_chrome_eula_terms/[/url:2d4h8ewb])
+> <strong>Rynquald wrote:</strong>
+> Looks like enough people noticed to get Google to pretend it was a mistake (http://www.theregister.co.uk/2008/09/04/google_retracts_lousy_chrome_eula_terms/)
+> 
+> 
+> 
+> Still, the fact that they tried that on is enough to kill any trust I had in them.
 
-Still, the fact that they tried that on is enough to kill any trust I had in them.[/quote:2d4h8ewb]
-
-The terms are natural for something like Google Groups or Google Video.  They reused an existing license without appropriate scrutiny; it doesn't smell like an intentional move.
+The terms are natural for something like Google Groups or Google Video. They reused an existing license without appropriate scrutiny; it doesn't smell like an intentional move.
 
 </div>
 
@@ -162,7 +172,7 @@ Assuming of course that the clickwrap license agreement held up, which is gettin
 
 Of course no one can say if Google would have actually used any of these "rights" if they hadn't retracted the licence. But does anyone really object any less to having a noose around their neck just because they vaugely trust the one holding the lever?
 
-Edit: That was a reply to Yasik's post btw, was still writing when Atwell's one came in :)
+Edit: That was a reply to Yasik's post btw, was still writing when Atwell's one came in <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Atwell does make a good point though, it's completely possible that there was no malicious intent.
 
@@ -170,7 +180,7 @@ Atwell does make a good point though, it's completely possible that there was no
 
 <div class="post" data-post-id="26191" data-author="Jag" data-date="2008-09-08T11:21:04+00:00" data-subject="">
 
-The new version of Firefox is displaying our page properly again.  Thanks to whomever.    :D
+The new version of Firefox is displaying our page properly again. Thanks to whomever. <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -182,7 +192,8 @@ Jag is right... and I've gone back to firefox because chrome doesn't have print 
 
 <div class="post" data-post-id="26217" data-author="Yasik2" data-date="2008-09-10T06:31:14+00:00" data-subject="">
 
-Jag is right... and I've gone back to firefox because chrome doesn't have print preview yet. Maybe in the future...[/quote:gh2ic4ux]
+> <strong>jezer wrote:</strong>
+> Jag is right... and I've gone back to firefox because chrome doesn't have print preview yet. Maybe in the future...
 
 Can't you read? The problem is not Print Preview, but License Agreement.
 
@@ -218,7 +229,7 @@ Now it's broken for me too...using FF 2.0.0.16
 
 <div class="post" data-post-id="26355" data-author="jezer" data-date="2008-09-16T23:34:21+00:00" data-subject="">
 
-[img:ejttm5pj]http://www.realestate.co.nz/blog/wp-content/uploads/2008/04/head-in-the-sand.jpg[/img:ejttm5pj]
+![](http://www.realestate.co.nz/blog/wp-content/uploads/2008/04/head-in-the-sand.jpg)
 
 </div>
 
@@ -228,13 +239,13 @@ I agree with Alias, haven't had any problems with Firefox 3.0.1
 
 I'm sure you have looked up for possible solutions but in case you need help,
 
-[url:y2o96gd5]http://www.yahoo.com[/url:y2o96gd5]
+http://www.yahoo.com
 
-[url:y2o96gd5]http://www.google.com[/url:y2o96gd5]
+http://www.google.com
 
 Another good place to start:
 
-[url:y2o96gd5]http://support.mozilla.com/en-US/forum/[/url:y2o96gd5]
+http://support.mozilla.com/en-US/forum/
 
 Hope that helps
 

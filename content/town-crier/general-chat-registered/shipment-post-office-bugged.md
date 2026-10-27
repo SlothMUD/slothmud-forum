@@ -24,7 +24,7 @@ Tinkles
 
 Hi, Tinkles ...
 
-Yes, there was a bad bug in ship, fixed yesterday.  However, ship never touch bank accounts, just use gold in char (unless i missed something, checked it while at work, so hadnt too much time).  So, the miss of gold has to come from somewhere else.  The misterious gold people was getting now and then for unknow reasons is what we fixed.
+Yes, there was a bad bug in ship, fixed yesterday. However, ship never touch bank accounts, just use gold in char (unless i missed something, checked it while at work, so hadnt too much time). So, the miss of gold has to come from somewhere else. The misterious gold people was getting now and then for unknow reasons is what we fixed.
 
 Isabo
 
@@ -32,15 +32,16 @@ Isabo
 
 <div class="post" data-post-id="7266" data-author="ds" data-date="2005-06-16T10:38:58+00:00" data-subject="">
 
-I had a problem yesterday with shipping.  I shipped equipment to players and they were charged the correct amount, received their equipment, and I never received any gold in return.  I have continued checking for 24 hours thinking it might just be delayed.  Still no gold for me.  Now I am out the equipment without payment.  Is there a new unintended bug in shipping in the place of the old one?
+I had a problem yesterday with shipping. I shipped equipment to players and they were charged the correct amount, received their equipment, and I never received any gold in return. I have continued checking for 24 hours thinking it might just be delayed. Still no gold for me. Now I am out the equipment without payment. Is there a new unintended bug in shipping in the place of the old one?
 
 </div>
 
 <div class="post" data-post-id="7283" data-author="firebrand" data-date="2005-06-17T00:39:42+00:00" data-subject="">
 
-I had a problem yesterday with shipping.  I shipped equipment to players and they were charged the correct amount, received their equipment, and I never received any gold in return.  I have continued checking for 24 hours thinking it might just be delayed.  Still no gold for me.  Now I am out the equipment without payment.  Is there a new unintended bug in shipping in the place of the old one?[/quote:1158zvud]
+> <strong>ds wrote:</strong>
+> I had a problem yesterday with shipping. I shipped equipment to players and they were charged the correct amount, received their equipment, and I never received any gold in return. I have continued checking for 24 hours thinking it might just be delayed. Still no gold for me. Now I am out the equipment without payment. Is there a new unintended bug in shipping in the place of the old one?
 
-dude i thought i was the only one.  i have never gotten payment back either. not that it really matters all that much to me - i can go pop shipping fees back in a few runs on mobs,  not the point.  just didn't say anything because i thought i was having an rtfm moment.
+dude i thought i was the only one. i have never gotten payment back either. not that it really matters all that much to me - i can go pop shipping fees back in a few runs on mobs, not the point. just didn't say anything because i thought i was having an rtfm moment.
 
 </div>
 
@@ -48,11 +49,11 @@ dude i thought i was the only one.  i have never gotten payment back either. not
 
 Hi, guys (and gals) ...
 
-I have been and still am checking the fix code a bit.  Keep in mind that it is a large piece of code, so will take me a while to find what is going on.
+I have been and still am checking the fix code a bit. Keep in mind that it is a large piece of code, so will take me a while to find what is going on.
 
-So, if anyone know or find a way to reproduce the bugs (shiped items payment being lost, whatever else), please, let me know.  It could speed up the debuging a huge bunch.
+So, if anyone know or find a way to reproduce the bugs (shiped items payment being lost, whatever else), please, let me know. It could speed up the debuging a huge bunch.
 
-For instance, the silly spider (Impzie) found a bug in ship, sent me the log, i could reproduce the error, and got it fixed in a couple hours.  Looking for a bug withouth knowing how to make the bug appear is pretty much like look for anything in my room : quite a pain.
+For instance, the silly spider (Impzie) found a bug in ship, sent me the log, i could reproduce the error, and got it fixed in a couple hours. Looking for a bug withouth knowing how to make the bug appear is pretty much like look for anything in my room : quite a pain.
 
 Thanks for any help you guys can give us ...
 

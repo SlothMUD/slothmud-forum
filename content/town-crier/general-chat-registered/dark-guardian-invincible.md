@@ -16,19 +16,19 @@ Some of you would have heard me ask about the dark guardian several times. But s
 
 This mob pops randomly in the coliseum... He's aggro and evil (Red Aura). He seems to have two annoying procs. 
 
-1)  Phase Door - A dark guardian slowly phases out of existence, reappearing behind you!
+1\) Phase Door - A dark guardian slowly phases out of existence, reappearing behind you!
 
-2)  Regeneration - Your puny weapons barely scratch a dark guardian, and those wounds regenerate almost instantly.
+2\) Regeneration - Your puny weapons barely scratch a dark guardian, and those wounds regenerate almost instantly.
 
-A demon spawned from the astral planes, the dark guardian has come to seek vengeance on the mortal for its twisted fate.  It moves silently and 
+A demon spawned from the astral planes, the dark guardian has come to seek vengeance on the mortal for its twisted fate. It moves silently and 
 
 swiftly towards you, so devoid of sound and form at times that it seems 
 
 like a hole has just opened in reality, and wherever it leads is likely not 
 
-good.  Moaning suddenly, the dark guardian quickens its pace, and raises 
+good. Moaning suddenly, the dark guardian quickens its pace, and raises 
 
-shadowy clawed appendages to attack!  
+shadowy clawed appendages to attack! 
 
 A dark guardian has a few scratches.
 
@@ -60,9 +60,9 @@ It would seem some special weapon is required to take him down. Has this weapon 
 
 Jezer, you're not even 2x40 damnit!
 
-If YOU make this mob BNW with your "grip and few strikes", a 5x40 Th-prime will kick the shit outta this 'invincible' fella in regen mode with a needle in 1 stab (unless this mob is no-stab...), so dont call him 'invincible' and dont scare n00bz :)
+If YOU make this mob BNW with your "grip and few strikes", a 5x40 Th-prime will kick the shit outta this 'invincible' fella in regen mode with a needle in 1 stab (unless this mob is no-stab...), so dont call him 'invincible' and dont scare n00bz <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-Maybe you need more +hand_dam eq (power of Deathgrip is in HAND_dam, not regular dam you see in score), as i see you're Mo/Wa/Th/Cl, so no blasting powers you posess - bring a fella with some offencive spells and 2man him etc.
+Maybe you need more +hand\_dam eq (power of Deathgrip is in HAND\_dam, not regular dam you see in score), as i see you're Mo/Wa/Th/Cl, so no blasting powers you posess - bring a fella with some offencive spells and 2man him etc.
 
 Try to Stun him and hope this will work, as Stun is supposed to prevent mobs from procing.
 
@@ -88,15 +88,15 @@ Ask fella Necro make a nightmare and command it that regen-killah stuff.
 
 <div class="post" data-post-id="9821" data-author="jezer" data-date="2005-12-16T05:40:46+00:00" data-subject="">
 
-1) the mob is only in the 1x40 or less guantlet.
+1\) the mob is only in the 1x40 or less guantlet.
 
-2) he can't be stunned
+2\) he can't be stunned
 
-3) I have +17 to +20 hand dam in eq. I am no nab, but you don't wanna mess with my grip.
+3\) I have +17 to +20 hand dam in eq. I am no nab, but you don't wanna mess with my grip.
 
-4) he has to be killed in two rounds or his proc kicks in. 
+4\) he has to be killed in two rounds or his proc kicks in. 
 
-5) this is the biggest hardest mob in this gauntlet, massacre through -8 and sanct. 
+5\) this is the biggest hardest mob in this gauntlet, massacre through -8 and sanct. 
 
 I really, really, really think there is supposed to be a special weapon sold by the pit master to take this mob out. I am familar with the weapons sold there, and I know what mobs to use them on. The dark guardian behaves like these 'special' mobs, but you can't hurt him nor in anyway with the existing weapons sold by the pit master! I still want to hear from other people! don't consider this post answered!
 
@@ -116,7 +116,7 @@ I think the clue is given...
 
 Your puny weapons barely scratch a dark guardian, and those wounds regenerate almost instantly.
 
-I see this as saying, you need a "special" weapon... *wink*
+I see this as saying, you need a "special" weapon... \*wink\*
 
 Those who know the gauntlet will know that using the conventional weapons on the snails and ghouls yields a similar kind of "hint."
 
@@ -126,11 +126,11 @@ Those who know the gauntlet will know that using the conventional weapons on the
 
 Try to use Flamestrike (spell) instead of Strike.
 
-Deathgrip also has random damage, try to hit this mob few times and maybe you'll succeed to roll max_dam on grip.
+Deathgrip also has random damage, try to hit this mob few times and maybe you'll succeed to roll max\_dam on grip.
 
 No weapons will help you, monks should grip with bare hands.
 
-Check if there is some gauntlets/bracers/etc +hand_dam of that pit master guy of whatever eq that will add more powers to you...
+Check if there is some gauntlets/bracers/etc +hand\_dam of that pit master guy of whatever eq that will add more powers to you...
 
 You sure you wear the best eq available for your levels ?
 
@@ -154,13 +154,13 @@ My grip is not weak, Elite wights and ghouls from cata's die in my grips. What m
 
 <div class="post" data-post-id="9829" data-author="12345" data-date="2005-12-16T13:02:40+00:00" data-subject="">
 
-If I recall Akasha was the one behind the gauntlet.  MUDLer if ever there was one.  You might try contacting him and asking him to check the place out if you think there's an error.
+If I recall Akasha was the one behind the gauntlet. MUDLer if ever there was one. You might try contacting him and asking him to check the place out if you think there's an error.
 
 </div>
 
 <div class="post" data-post-id="9830" data-author="blackmore" data-date="2005-12-16T13:29:24+00:00" data-subject="">
 
-You say none of the existing weapons work on him.  However, the sword is used to kill demons.  They will regen to full nearly every round if you do not use the sword.  He might even be able to get in 1 regen before the proc from the sword kicks in, I'm not quite sure how that works.
+You say none of the existing weapons work on him. However, the sword is used to kill demons. They will regen to full nearly every round if you do not use the sword. He might even be able to get in 1 regen before the proc from the sword kicks in, I'm not quite sure how that works.
 
 If the sword doesn't work, then I'd say it would have to be a bug that needs to be looked at.
 
@@ -176,9 +176,9 @@ I have used the holy sword of the defenders against the dark guardian often, hop
 
 <div class="post" data-post-id="9836" data-author="Akasha2" data-date="2005-12-16T20:39:49+00:00" data-subject="">
 
-I am on my way to work right now, but I will check on this tonight when I get home.  And no Yasik, even at 5x40, unless you can splork him, he will regen full the next round.
+I am on my way to work right now, but I will check on this tonight when I get home. And no Yasik, even at 5x40, unless you can splork him, he will regen full the next round.
 
-So cap this discussion :)  it sounds like a bug... no use beating the poor dead horse now.
+So cap this discussion <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> it sounds like a bug... no use beating the poor dead horse now.
 
 Akasha
 
@@ -186,6 +186,6 @@ Akasha
 
 <div class="post" data-post-id="9837" data-author="Blastem" data-date="2005-12-16T20:55:45+00:00" data-subject="">
 
-GASP!!!! Akasha is still alive  :shock:
+GASP!!!! Akasha is still alive <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>

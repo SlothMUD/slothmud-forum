@@ -12,7 +12,7 @@ post_count: 2
 
 <div class="post" data-post-id="9290" data-author="Grue" data-date="2005-10-28T16:55:34+00:00" data-subject="WTB : Helm of Dwarves comps">
 
-I have a Helm of the Great Old One I'll probably never use, I'd like to try do this forge. Anyone have any of the comps they'd part with? I have coins, mybe some EQ if you are looking for something. And I think I can pop the Marble Helmet myself (barely :))
+I have a Helm of the Great Old One I'll probably never use, I'd like to try do this forge. Anyone have any of the comps they'd part with? I have coins, mybe some EQ if you are looking for something. And I think I can pop the Marble Helmet myself (barely <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">)
 
 Need a small, sharp scale, inscribed dwarf skin and the huge hammer (although I may already have that).
 

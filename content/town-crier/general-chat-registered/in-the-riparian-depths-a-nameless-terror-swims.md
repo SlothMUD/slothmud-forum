@@ -46,7 +46,7 @@ Angzakstigilrash, Giant Carp of Doom : immediately to the north
 
 Airy Cavernous Section of Underground River
 
-Exits: South  
+Exits: South 
 
 A heap of gold coins just lies here.
 
@@ -60,23 +60,23 @@ l carp
 
 The subject of many a terrifying bedtime story for dwarven children, Giant
 
-Carp challenge the mighty elephants for the post of King of Beasts.  Their
+Carp challenge the mighty elephants for the post of King of Beasts. Their
 
 insidious nature and vicious strength provide them with the means to drag a
 
 fully grown dwarf into the aquatic depths, whereupon they proceed to gnaw
 
-at the struggling victim.  And this is not all, for the awful carp can
+at the struggling victim. And this is not all, for the awful carp can
 
 stare at the well-meaning fisherdwarf who for fear at these awful
 
 descendants of the Old Ones, are sent staggering back, too often straight
 
-off a cliff.  To make things worse, they will taunt the hunters, who in
+off a cliff. To make things worse, they will taunt the hunters, who in
 
 hopes of achieving eternal glory, will unload whole quivers towards them,
 
-oblivious to nearby animals walking on land.  Angzakstigilrash has teeth
+oblivious to nearby animals walking on land. Angzakstigilrash has teeth
 
 that can inflict thirty times as much damage as an unarmed dwarf's fist and
 
@@ -88,7 +88,7 @@ Angzakstigilrash, Giant Carp of Doom has quite a few wounds.
 
 Angzakstigilrash, Giant Carp of Doom [target] is using:
 
-<worn on legs>       leggings of the toothy maw
+\<worn on legs\> leggings of the toothy maw
 
 You attempt to peek at the inventory:
 
@@ -228,7 +228,7 @@ on the ground.
 
 There were 1712071 coins.
 
-You split 1712071 coins.  You keep 428020 coins.
+You split 1712071 coins. You keep 428020 coins.
 
 [Godly coinage]
 
@@ -248,11 +248,11 @@ AC-apply is -0.9
 
 Can affect you as:
 
-    Affects: HITROLL by 2
+ Affects: HITROLL by 2
 
-    Affects: MAX_STR by 1
+ Affects: MAX\_STR by 1
 
-    Affects: REGEN_MOVE by 4
+ Affects: REGEN\_MOVE by 4
 
 Only those who are primary supreme thieves, and have attained supremacy in
 
@@ -270,12 +270,12 @@ I think there was a statement that they can't turn in the carp corpse or subdue 
 
 Rob will that update in a little while when it 'refreshes' itself?
 
---D
+\--D
 
 </div>
 
 <div class="post" data-post-id="39818" data-author="Driven" data-date="2021-09-11T19:23:02+00:00" data-subject="Re: in the riparian depths, a nameless terror swims">
 
-No, new mobs added to existing zones don't get automatically added.  New zones do, but not modifications on old zones.  If I get time this week at my computer I might be able to manually add the carp.  The summer is now over, so my available time is drastically reduced.
+No, new mobs added to existing zones don't get automatically added. New zones do, but not modifications on old zones. If I get time this week at my computer I might be able to manually add the carp. The summer is now over, so my available time is drastically reduced.
 
 </div>

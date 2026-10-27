@@ -28,7 +28,7 @@ Karna
 
 <div class="post" data-post-id="13890" data-author="Karna" data-date="2006-09-02T14:33:21+00:00" data-subject="EQ Needed Update">
 
-I wanted to thank Krok, Rodek and the rest of the BH EQ/EXP group for helping me pop the Boots of Molten Lava last night.  So, I no longer need -.5 boots, but could use either
+I wanted to thank Krok, Rodek and the rest of the BH EQ/EXP group for helping me pop the Boots of Molten Lava last night. So, I no longer need -.5 boots, but could use either
 
 Fiery Red Gloves or
 

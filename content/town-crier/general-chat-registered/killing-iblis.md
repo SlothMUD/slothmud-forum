@@ -34,11 +34,11 @@ The Prophet Stone says 'Infidels! Did you think such blasphemy would go unpunish
 
 A Spacious Underground Cavern
 
-   This wide underground cavern seems to be naturally formed.  The ceiling
+ This wide underground cavern seems to be naturally formed. The ceiling
 
-overhead is so high that it disappears into inky blackness.  Around the
+overhead is so high that it disappears into inky blackness. Around the
 
-perimeter of the cavern there appear to be no exits.  The stones underfoot
+perimeter of the cavern there appear to be no exits. The stones underfoot
 
 have been crushed into a fine gravel.
 
@@ -58,7 +58,7 @@ The forboding pressence of a swordwraith chills the air.
 
 Iblis, the Salamisian Lord of darkness stands here, wings spread and ready for combat.
 
-<1053hp 108ma 130mv>
+\<1053hp 108ma 130mv\>
 
 Van utters the words, 'call followers'
 
@@ -66,13 +66,13 @@ A swordwraith suddenly fades into view.
 
 A swordwraith suddenly fades into view.
 
-<1053hp 108ma 131mv>
+\<1053hp 108ma 131mv\>
 
 Madmax utters the words, 'qarr yarhixzfg'
 
 Yinao looks at Iblis.
 
-<1053hp 109ma 132mv>
+\<1053hp 109ma 132mv\>
 
 Van utters the words, 'damnation'
 
@@ -82,7 +82,7 @@ Van skillfully parries the attack of Iblis.
 
 Van's riposte viciously massacres Iblis.
 
-<1053hp 110ma 132mv>
+\<1053hp 110ma 132mv\>
 
 Van skillfully parries the attack of Iblis.
 
@@ -112,7 +112,7 @@ Van massacres Iblis to small fragments with his slash.
 
 Van massacres Iblis to small fragments with his slash.
 
-<1053hp 110ma 132mv>
+\<1053hp 110ma 132mv\>
 
 Ok.
 
@@ -120,47 +120,47 @@ Iblis hates your guts!
 
 You watch in grim satisfaction as your acid blast burns Iblis horribly.
 
-<1053hp 93ma 132mv>
+\<1053hp 93ma 132mv\>
 
 Edd -- 'iblis was blinded'
 
-<1053hp 93ma 133mv>
+\<1053hp 93ma 133mv\>
 
-[b:2s5ia2lu]Yinao utters the words, 'noselacri'[/b:2s5ia2lu]
+<strong>Yinao utters the words, 'noselacri'</strong>
 
-<1053hp 93ma 133mv>
+\<1053hp 93ma 133mv\>
 
 Madmax looks at Iblis.
 
-<1053hp 93ma 133mv>
+\<1053hp 93ma 133mv\>
 
 Lob utters the words, 'frostbolt'
 
-<1053hp 93ma 133mv>
+\<1053hp 93ma 133mv\>
 
 Van -- '---- Owww! -863hp ---- [207/1070] 19% - need 863'
 
 Edd utters the words, 'aque bragh'
 
-<1053hp 94ma 134mv>
+\<1053hp 94ma 134mv\>
 
 Van looks at Iblis.
 
-<1053hp 94ma 134mv>
+\<1053hp 94ma 134mv\>
 
 Madmax utters the words, 'candusghafahuai'
 
 Van briefly glows with a blinding light!
 
-<1053hp 94ma 134mv>
+\<1053hp 94ma 134mv\>
 
 Van -- '++++ Ahhh! +460hp ++++ [671/1070] 62% - need 399'
 
-<1053hp 94ma 134mv>
+\<1053hp 94ma 134mv\>
 
 Stryx issues the order 'kill iblis'.
 
-<1053hp 94ma 134mv>
+\<1053hp 94ma 134mv\>
 
 You brutally massacre Iblis with your slash.
 
@@ -182,13 +182,13 @@ Van is dead! R.I.P.
 
 Notice that even though Yinao has been assigned to keeping the tank alive, he instead is casting a spell called noselacri. This results in a very predictable outcome: tank death.
 
-Not picking on Yinao by any means. I'm just trying to help you all to help me get -12 !  :D
+Not picking on Yinao by any means. I'm just trying to help you all to help me get -12 ! <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="18888" data-author="Mosaix" data-date="2007-06-14T23:57:58+00:00" data-subject="">
 
-Its disgusting to me that out of a whole group of people, you can only find fault in Yinao for not healing as you think he should have.  How stupid.  You absolutely just blamed him, your comment about not doing so is silly.
+Its disgusting to me that out of a whole group of people, you can only find fault in Yinao for not healing as you think he should have. How stupid. You absolutely just blamed him, your comment about not doing so is silly.
 
 Its any wonder i dont play my cleric prime anymore...
 
@@ -202,7 +202,7 @@ Broc, really, I don't see why it's stupid pointing out that a cleric screwed up.
 
 But!
 
-Imho there's no need to point this out right on the crier, you could've talked to your groupmates in the game and explain the tactics there. *shrug* I just mean that Yinao might not like this publicity...
+Imho there's no need to point this out right on the crier, you could've talked to your groupmates in the game and explain the tactics there. \*shrug\* I just mean that Yinao might not like this publicity...
 
 </div>
 
@@ -244,7 +244,7 @@ Brand: i'm going to hit him in the face.
 
 Corwin: yeah right, we're in regen i'll be right back.
 
-Osric:  what are you some kind of pussy version of Brand?
+Osric: what are you some kind of pussy version of Brand?
 
 Brand: ....
 
@@ -254,7 +254,7 @@ Brand: .... ok we're dead... all of us
 
 <div class="post" data-post-id="18893" data-author="Autolycos" data-date="2007-06-15T17:06:38+00:00" data-subject="">
 
-i hope this thread keeps going... i'm grabbing some popcorn!  :twisted:
+i hope this thread keeps going... i'm grabbing some popcorn! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -268,65 +268,71 @@ Mike
 
 <div class="post" data-post-id="18897" data-author="Autolycos" data-date="2007-06-15T21:16:08+00:00" data-subject="">
 
-Why is the leader fleeing?
+> <strong>Medios wrote:</strong>
+> Why is the leader fleeing?
+> 
+> Mike
 
-Mike[/quote:2ij0ntds]
+LMFAO! that's one of my favorites of all time!!!!! <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> 
 
-LMFAO!   that's one of my favorites of all time!!!!!  :lol: 
-
-[b:2ij0ntds]
-
-Minstrel -- 'why is the leader fleeing?' [/b:2ij0ntds][/color:2ij0ntds]
+<strong>Minstrel -- 'why is the leader fleeing?'</strong> 
 
 I had to save it forever and post it on the pirate's funny quotes page along with this one from Weasel.
 
-[b:2ij0ntds]Weasel -- ':: since when did 'give key mage' translate to 'stab that bastard in the face'?[/b:2ij0ntds][/color:2ij0ntds]
+<strong>Weasel -- ':: since when did 'give key mage' translate to 'stab that bastard in the face'?</strong>
 
-We need a write a guide book for *When a Good Group goes Wrong*
+We need a write a guide book for \*When a Good Group goes Wrong\*
 
 </div>
 
 <div class="post" data-post-id="18901" data-author="Weasel" data-date="2007-06-15T22:17:40+00:00" data-subject="">
 
-lol  :D
+lol <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="18904" data-author="12345" data-date="2007-06-16T01:27:28+00:00" data-subject="">
 
-Its not hard to bone a good group.  I can usually keep them going pretty good, but when I bone it, its phenominally bad.  Famous last thoughts:
+Its not hard to bone a good group. I can usually keep them going pretty good, but when I bone it, its phenominally bad. Famous last thoughts:
 
 I've got 70% of the mud following, I should be able to take Smaug...
 
-Well, if they _really_ want to try him again...
+Well, if they \_really\_ want to try him again...
 
 Ok, we have him this time...
 
 Shit, the damner left...
 
-I think Smaug is responsible for a full third of my CFs.  My current policy is that I don't kill him without a group of pros.
+I think Smaug is responsible for a full third of my CFs. My current policy is that I don't kill him without a group of pros.
 
 </div>
 
 <div class="post" data-post-id="18905" data-author="Yinao" data-date="2007-06-16T02:13:14+00:00" data-subject="">
 
-I must say, I was the person that was in control of your "useless" OH MY FUCKING GOD WE ARE GUNNA ALL DIE, SHIT STICK! and I managed to get atleast that off so all you fools coulda corpsed while I recalled myself and laughed. :roll:
+I must say, I was the person that was in control of your "useless" OH MY FUCKING GOD WE ARE GUNNA ALL DIE, SHIT STICK! and I managed to get atleast that off so all you fools coulda corpsed while I recalled myself and laughed. <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="18906" data-author="Gimlet" data-date="2007-06-16T02:21:43+00:00" data-subject="">
 
-Its not hard to bone a good group.  I can usually keep them going pretty good, but when I bone it, its phenominally bad.  Famous last thoughts:
-
-I've got 70% of the mud following, I should be able to take Smaug...
-
-Well, if they _really_ want to try him again...
-
-Ok, we have him this time...
-
-Shit, the damner left...
-
-I think Smaug is responsible for a full third of my CFs.  My current policy is that I don't kill him without a group of pros.[/quote:38vqhz7q]
+> <strong>12345 wrote:</strong>
+> Its not hard to bone a good group. I can usually keep them going pretty good, but when I bone it, its phenominally bad. Famous last thoughts:
+> 
+> 
+> 
+> I've got 70% of the mud following, I should be able to take Smaug...
+> 
+> Well, if they \_really\_ want to try him again...
+> 
+> Ok, we have him this time...
+> 
+> 
+> 
+> Shit, the damner left...
+> 
+> 
+> 
+> I think Smaug is responsible for a full third of my CFs. My current policy is that I don't kill him without a group of pros.
 
 u'll only kill if there are prostitutes in your group?
 
@@ -336,17 +342,17 @@ u'd have to drag auto's ass along every time then
 
 <div class="post" data-post-id="18907" data-author="Autolycos" data-date="2007-06-16T02:25:32+00:00" data-subject="">
 
-Laugh  :twisted:
+Laugh <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="18909" data-author="Mosaix" data-date="2007-06-16T03:34:09+00:00" data-subject="">
 
-Your a major league pole smoker Junglefart.  Take criticism for being a boob instead of trying to insult me further than I need to be.  
+Your a major league pole smoker Junglefart. Take criticism for being a boob instead of trying to insult me further than I need to be. 
 
-I simply dissagreed with your sending Yinao out to fry.  You and your whole group could have healed the tank.  Again why its up to just Yinao, and why you had to pubilcly post it, was stupid.  
+I simply dissagreed with your sending Yinao out to fry. You and your whole group could have healed the tank. Again why its up to just Yinao, and why you had to pubilcly post it, was stupid. 
 
-Your public banter, me liking or not liking what you say, really has nothing to do with being thick skinned on my part.  Having never met me on the other side of a computer monitor you would have no clue as to if I do or not.
+Your public banter, me liking or not liking what you say, really has nothing to do with being thick skinned on my part. Having never met me on the other side of a computer monitor you would have no clue as to if I do or not.
 
 I think I logged on once this week, and again am remined why....
 
@@ -364,29 +370,30 @@ I hope you see the irony in threatening to sell your char and quit because someo
 
 <div class="post" data-post-id="18914" data-author="Autolycos" data-date="2007-06-16T14:36:26+00:00" data-subject="">
 
-*suddenly agrees with Adam that Cthulhu needs to htfu and come back so rub can be eaten*
+\*suddenly agrees with Adam that Cthulhu needs to htfu and come back so rub can be eaten\*
 
-[img:46cm7o75]http://images.wikia.com/uncyclopedia/images/thumb/5/59/Cthulhu-elections.gif/300px-Cthulhu-elections.gif[/img:46cm7o75]
+![](http://images.wikia.com/uncyclopedia/images/thumb/5/59/Cthulhu-elections.gif/300px-Cthulhu-elections.gif)
 
 </div>
 
 <div class="post" data-post-id="18917" data-author="Yinao" data-date="2007-06-16T15:36:53+00:00" data-subject="">
 
-Autolycos, got a spare bag of popcorn? I ran out! :shock:
+Autolycos, got a spare bag of popcorn? I ran out! <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="18918" data-author="Autolycos" data-date="2007-06-16T15:41:47+00:00" data-subject="">
 
-Autolycos, got a spare bag of popcorn? I ran out! :shock:[/quote:3lfogugv]
+> <strong>Yinao wrote:</strong>
+> Autolycos, got a spare bag of popcorn? I ran out! <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
-SURE THING!   i made extra!!!  :twisted:
+SURE THING! i made extra!!! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="18919" data-author="Autolycos" data-date="2007-06-16T15:51:40+00:00" data-subject="">
 
-Rub -- 'MOM!!!  Mosaix stole my sippy cup!!!'
+Rub -- 'MOM!!! Mosaix stole my sippy cup!!!'
 
 Mosaix -- 'did not'
 
@@ -394,13 +401,13 @@ Rub -- 'DID TOO!'
 
 Mosaix -- 'did not'
 
-Rub -- 'MOM!!!  everyones being mean to me'
+Rub -- 'MOM!!! everyones being mean to me'
 
 Yinao-- 'are not, you started it'
 
 Rub -- 'just cause i start a thread pointing out i'm a retard'
 
-Mosaix -- 'well you did point it out...  i dont advertise it.. my friends know i am'
+Mosaix -- 'well you did point it out... i dont advertise it.. my friends know i am'
 
 Rub -- 'but i will blame someone else!'
 
@@ -408,7 +415,7 @@ Mosaix -- '99% will end up being a cleric'
 
 Yinao -- 'figures'
 
-Rub -- 'MOM!!!  everyones being mean to me again!!!'
+Rub -- 'MOM!!! everyones being mean to me again!!!'
 
 Autolycos-- 'this is why some animals eat their young'
 
@@ -418,15 +425,15 @@ Autolycos-- 'this is why some animals eat their young'
 
 Now that my friends, well, thats what you call one hell of a good post!
 
-[b:2ho7zyal][i:2ho7zyal][u:2ho7zyal]May Pirates always be Pirates![/b:2ho7zyal][/u:2ho7zyal][/i:2ho7zyal]
+<strong><em>May Pirates always be Pirates!</strong></em>
 
-[img:2ho7zyal]http://static.howstuffworks.com/gif/pirate-9.jpg[/img:2ho7zyal]
+![](http://static.howstuffworks.com/gif/pirate-9.jpg)
 
 </div>
 
 <div class="post" data-post-id="18921" data-author="Weasel" data-date="2007-06-16T17:17:16+00:00" data-subject="">
 
-[img:e0ghjysu]http://www.cartoonstock.com/lowres/rjo0487l.jpg[/img:e0ghjysu]
+![](http://www.cartoonstock.com/lowres/rjo0487l.jpg)
 
 </div>
 
@@ -434,27 +441,28 @@ Now that my friends, well, thats what you call one hell of a good post!
 
 Autolycos --' Don't cry Mosaix, Rub is just a big meanie. I'll make fun of him for you. '
 
-Mosaix --' *sniff* you're the best Auto'
+Mosaix --' \*sniff\* you're the best Auto'
 
 Autolycos --' anything for my special little first mate '
 
 Yinao --' hey auto, can I be your special little cabin boy?'
 
-[img:2wxlhdij]http://www.geocities.com/saudixpat/stfuauto.jpg[/img:2wxlhdij]
+![](http://www.geocities.com/saudixpat/stfuauto.jpg)
 
 </div>
 
 <div class="post" data-post-id="18923" data-author="Weasel" data-date="2007-06-16T17:42:18+00:00" data-subject="">
 
-[img:24wg3x8u]http://urbanscrawl.net/images/misc/pirateninja.jpg[/img:24wg3x8u]
+![](http://urbanscrawl.net/images/misc/pirateninja.jpg)
 
 </div>
 
 <div class="post" data-post-id="18924" data-author="Atwell" data-date="2007-06-16T17:52:09+00:00" data-subject="">
 
-*suddenly agrees with Adam that Cthulhu needs to htfu and come back so rub can be eaten*
-
-[img:u1ql1x9b]http://images.wikia.com/uncyclopedia/images/thumb/5/59/Cthulhu-elections.gif/300px-Cthulhu-elections.gif[/img:u1ql1x9b][/quote:u1ql1x9b]
+> <strong>Autolycos wrote:</strong>
+> \*suddenly agrees with Adam that Cthulhu needs to htfu and come back so rub can be eaten\*
+> 
+> ![](http://images.wikia.com/uncyclopedia/images/thumb/5/59/Cthulhu-elections.gif/300px-Cthulhu-elections.gif)
 
 What happened to his other two tenactles?
 
@@ -464,104 +472,113 @@ What happened to his other two tenactles?
 
 I knew you'd come around eventually
 
-*suddenly agrees with Adam that Cthulhu needs to htfu and come back so rub can be eaten*
-
-[img:1l4cvh7t]http://images.wikia.com/uncyclopedia/images/thumb/5/59/Cthulhu-elections.gif/300px-Cthulhu-elections.gif[/img:1l4cvh7t][/quote:1l4cvh7t]
+> <strong>Autolycos wrote:</strong>
+> \*suddenly agrees with Adam that Cthulhu needs to htfu and come back so rub can be eaten\*
+> 
+> ![](http://images.wikia.com/uncyclopedia/images/thumb/5/59/Cthulhu-elections.gif/300px-Cthulhu-elections.gif)
 
 </div>
 
 <div class="post" data-post-id="18927" data-author="van" data-date="2007-06-16T19:35:36+00:00" data-subject="Van -- &#x27;target Rub&#x27;">
 
-Yinao --' hey auto, can I be your special little cabin boy?'
+> <strong>juggleblood wrote:</strong>
+> Yinao --' hey auto, can I be your special little cabin boy?'
 
-[/quote:1nlpttr8]
-
-HEY! I'm the <~Pirate~> cabin boy! Just look at my description for confirmation.
+HEY! I'm the \<\~Pirate\~\> cabin boy! Just look at my description for confirmation.
 
 </div>
 
 <div class="post" data-post-id="18928" data-author="brady" data-date="2007-06-16T20:07:10+00:00" data-subject="">
 
-I move that Prozac be added to all fountains.  All those in favor?
+I move that Prozac be added to all fountains. All those in favor?
 
 </div>
 
 <div class="post" data-post-id="18933" data-author="Weasel" data-date="2007-06-16T23:12:36+00:00" data-subject="">
 
-Van gossips-- 'sitting at the scribe's feeling silly... anybody coming? :)'
+Van gossips-- 'sitting at the scribe's feeling silly... anybody coming? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">'
 
 ( O)(o )
 
 last player silly
 
-Silly's last logon was Tue Sep  5 10:12:55 2006
+Silly's last logon was Tue Sep 5 10:12:55 2006
 
-[ 5w  0n  0m  0d] Silly the Untitled
+[ 5w 0n 0m 0d] Silly the Untitled
 
 </div>
 
 <div class="post" data-post-id="18934" data-author="Yinao" data-date="2007-06-17T01:13:02+00:00" data-subject="">
 
-Rub -- '*Rub* this one time at summer school....'
+Rub -- '\*Rub\* this one time at summer school....'
 
-Yinao -- '*Valkyrie* Rub?'
+Yinao -- '\*Valkyrie\* Rub?'
 
-Rub -- '*Rub* Yes?'
+Rub -- '\*Rub\* Yes?'
 
-Yinao -- '*Valkyrie* before you start.... you should probably stop....'
+Yinao -- '\*Valkyrie\* before you start.... you should probably stop....'
 
-Yinao -- '*Valkyrie* just an idea before you embarass yourself...'
+Yinao -- '\*Valkyrie\* just an idea before you embarass yourself...'
 
-Rub -- '*Rub* Ugh, but I wasnt valunteering! He did it when I was unwilling!'
+Rub -- '\*Rub\* Ugh, but I wasnt valunteering! He did it when I was unwilling!'
 
-Yinao -- '*Valkyrie* Rub, your still goin'
+Yinao -- '\*Valkyrie\* Rub, your still goin'
 
-Rub -- '*Rub* well you think I should tell someone?'
+Rub -- '\*Rub\* well you think I should tell someone?'
 
 Autolycos -- 'Rub, its bad enough you hinted the group keep it to yourself and STFU!'
 
-Rub -- '*Rub* ugh alright...'
+Rub -- '\*Rub\* ugh alright...'
 
-Yinao -- '*Valkyrie* its about time..'
+Yinao -- '\*Valkyrie\* its about time..'
 
-Rub can shut up!  :shock:  :shock: 
+Rub can shut up! <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
- 8)
+ <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="18935" data-author="Autolycos" data-date="2007-06-17T02:32:57+00:00" data-subject="">
 
-I knew you'd come around eventually[/quote:13vt9tvv]
+> <strong>Alberich wrote:</strong>
+> I knew you'd come around eventually
 
- 8)
+ <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="18937" data-author="firebrand" data-date="2007-06-17T03:02:40+00:00" data-subject="">
 
-I move that Prozac be added to all fountains.  All those in favor?[/quote:2t0bl4xh]
+> <strong>brady wrote:</strong>
+> I move that Prozac be added to all fountains. All those in favor?
 
 either that or legalize weed and require everyone to start the day baked.
 
-"i ought to drag you out there and FEED you to those things!" -- ben -->night of the living dead
+"i ought to drag you out there and FEED you to those things!" -- ben --\>night of the living dead
 
 </div>
 
 <div class="post" data-post-id="18985" data-author="van" data-date="2007-06-19T18:29:55+00:00" data-subject="">
 
-Van gossips-- 'sitting at the scribe's feeling silly... anybody coming? :)'
-
-( O)(o )
-
-last player silly
-
-Silly's last logon was Tue Sep  5 10:12:55 2006
-
-[ 5w  0n  0m  0d] Silly the Untitled[/quote:ixp2cjul]
+> <strong>Weasel wrote:</strong>
+> Van gossips-- 'sitting at the scribe's feeling silly... anybody coming? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">'
+> 
+> 
+> 
+> ( O)(o )
+> 
+> 
+> 
+> last player silly
+> 
+> Silly's last logon was Tue Sep 5 10:12:55 2006
+> 
+> 
+> 
+> [ 5w 0n 0m 0d] Silly the Untitled
 
 Damn, I can't even pretend Silly was 18...
 
-:shock:
+<img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>

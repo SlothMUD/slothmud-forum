@@ -18,10 +18,10 @@ We will have a Christmas Quest at 9am Pacific time on Sunday December 27th.
 
 The timer link is below:
 
-[<LINK_TEXT text="https://www.tickcounter.com/countdown/2 ... tmas-quest">https://www.tickcounter.com/countdown/2348449/2020-slothmud-christmas-quest</LINK_TEXT>](https://www.tickcounter.com/countdown/2348449/2020-slothmud-christmas-quest)
+[https://www.tickcounter.com/countdown/2348449/2020-slothmud-christmas-quest](https://www.tickcounter.com/countdown/2348449/2020-slothmud-christmas-quest)
 
 See you all there, and happy holidays!
 
---D
+\--D
 
 </div>

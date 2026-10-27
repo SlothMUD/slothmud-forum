@@ -22,9 +22,9 @@ AC-apply is -0.4
 
 Can affect you as:
 
-    Affects: STR by 1
+ Affects: STR by 1
 
-    Affects: INT by -1
+ Affects: INT by -1
 
 Only those who are at least experienced magic users and also experienced 
 

@@ -24,6 +24,6 @@ Enjoy,
 
 Splork
 
- :P
+ <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>

@@ -18,51 +18,51 @@ Stabbing with 30dam (including non prime gods)
 
 Before the +75dam...
 
-Backstab                         2803       461.3
+Backstab 2803 461.3
 
-Pierce                           1681        55.4
+Pierce 1681 55.4
 
-Pound                            1639       151.9
+Pound 1639 151.9
 
-Riposte                          1940        87.7
+Riposte 1940 87.7
 
-Slam                             1348       115.7
+Slam 1348 115.7
 
-Slash                           11432       110.4
+Slash 11432 110.4
 
-Other                            1829        57.6
+Other 1829 57.6
 
 Stabbing with 105dam (including non prime gods)
 
 With the +75dam...
 
-Backstab                           36       993.9
+Backstab 36 993.9
 
-Pierce                             19       122.2
+Pierce 19 122.2
 
-Pound                              15       143.8
+Pound 15 143.8
 
-Riposte                            34       153.7
+Riposte 34 153.7
 
-Slam                               10       143.4
+Slam 10 143.4
 
-Slash                             142       215.1
+Slash 142 215.1
 
-Other                              23        50.0
+Other 23 50.0
 
 Results...
 
-* A single stab seems capped at 1000 damage.
+\* A single stab seems capped at 1000 damage.
 
-* Damage is not limited to +100 as I assumed.
+\* Damage is not limited to +100 as I assumed.
 
-* Riposte wasn't effected.
+\* Riposte wasn't effected.
 
-* Damage was added to pierces and slashes.
+\* Damage was added to pierces and slashes.
 
-* XP Speed increased approx 66% (Note a lot of time gets wasted not fighting)
+\* XP Speed increased approx 66% (Note a lot of time gets wasted not fighting)
 
-* Adding +1 dam to a warrior really adds about 1.5+ dam due to crit/massive multipliers.
+\* Adding +1 dam to a warrior really adds about 1.5+ dam due to crit/massive multipliers.
 
 If a mob has about 5,000hp and I land two stabs then 5 attacks till death...
 

@@ -26,7 +26,7 @@ Also another thing. At the moment, myth and upper ranks are not available. What 
 
 I'm suggesting just to open them up. No quest needed. The hundreds of hours hunting honor points is a task enough imho.
 
----Belrath
+\---Belrath
 
 </div>
 
@@ -62,7 +62,7 @@ It takes about eight billion years to get these clasps already.
 
 So cease and desist about needing a quest please.
 
---D
+\--D
 
 </div>
 
@@ -70,13 +70,13 @@ So cease and desist about needing a quest please.
 
 Remember Cizin left in disgust partly because the rank clasps ended at Power in his time.
 
---D
+\--D
 
 </div>
 
 <div class="post" data-post-id="39538" data-author="*Idjit*" data-date="2020-08-03T07:06:19+00:00" data-subject="Re: Rank Clasps">
 
-I am in concurrence with Bandit that having numerous of the higher clasps have Lesser slots to attach to, goes counter to the fact that by the time you're that rank, you have competing clasps attached to 1/3 to 1/2 of your spots already.  I point to the fact that if the head-slot is the last available spot for say Legend clasp, and you're a Caster class trying to constitution-fix your Emperor's Crown with the star emblem (and before someone mutters a counter-argument let me preempt that by pointing out that it's a nonremovable clasp) in max mana mode, you therefore are stuck with nowhere to put the rank clasp.
+I am in concurrence with Bandit that having numerous of the higher clasps have Lesser slots to attach to, goes counter to the fact that by the time you're that rank, you have competing clasps attached to 1/3 to 1/2 of your spots already. I point to the fact that if the head-slot is the last available spot for say Legend clasp, and you're a Caster class trying to constitution-fix your Emperor's Crown with the star emblem (and before someone mutters a counter-argument let me preempt that by pointing out that it's a nonremovable clasp) in max mana mode, you therefore are stuck with nowhere to put the rank clasp.
 
 I'm sure others could cite other conundrums.
 
@@ -96,7 +96,7 @@ M
 
 fixing the code to give the whatever clasp that doesnt give itself is easy. (forgot which one it was at the moment, but i have a note on my imm board about which one it is and why)
 
-if someone would let me know _before_ they rank gained so i can deep-track it and fix it that way.
+if someone would let me know \_before\_ they rank gained so i can deep-track it and fix it that way.
 
 there should be 1/2/3 posts on the subject on this forum.
 
@@ -108,7 +108,7 @@ i also have nothing against more ranks/clasps etc. it just takes more work than 
 
 <div class="post" data-post-id="39544" data-author="Driven" data-date="2020-08-08T21:54:17+00:00" data-subject="Re: Rank Clasps">
 
-For the time being, I don't think people want additional ranks/clasps... they just want to be able to rank gain beyond Power, get their new clasp, and be able to wear the new clasp.  Breeze, I will email you the details.
+For the time being, I don't think people want additional ranks/clasps... they just want to be able to rank gain beyond Power, get their new clasp, and be able to wear the new clasp. Breeze, I will email you the details.
 
 </div>
 

@@ -34,7 +34,8 @@ I'm on right now
 
 <div class="post" data-post-id="16319" data-author="Corinn" data-date="2007-01-16T18:21:21+00:00" data-subject="">
 
-I'm on right now[/quote:3cwugltg]
+> <strong>13 wrote:</strong>
+> I'm on right now
 
 Addict!
 
@@ -42,11 +43,16 @@ Addict!
 
 <div class="post" data-post-id="16320" data-author="Alberich" data-date="2007-01-16T18:21:34+00:00" data-subject="Re: Are we offline?">
 
-There are 16 anonymous users and 4 registered users online.
-
-Does this mean we're all offline?
-
-Elsie[/quote:31o6xqt9]
+> <strong>Elsie wrote:</strong>
+> There are 16 anonymous users and 4 registered users online.
+> 
+> 
+> 
+> Does this mean we're all offline?
+> 
+> 
+> 
+> Elsie
 
 that refers to the website, nothing to do with the game.
 

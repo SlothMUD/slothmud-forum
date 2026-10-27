@@ -52,11 +52,11 @@ Thanks, I guess I might do damage testing on that some day, but it's not high on
 
 Got another thief question to ask..
 
-Does anyone know if there's a cap on +stab_dam? Even in regengear (wearing about half my stabgear) the message "Even your fiercest foes cringe at the sight of your approaching blade" shows up, so I can't really tell if the rest of it does anything.
+Does anyone know if there's a cap on +stab\_dam? Even in regengear (wearing about half my stabgear) the message "Even your fiercest foes cringe at the sight of your approaching blade" shows up, so I can't really tell if the rest of it does anything.
 
 I've got +34 at the moment, and I'm looking to get more, so I wanted to make sure it was worth it.
 
-If no one knows, I'll be looking to poke a few holes in someone soon! ;)
+If no one knows, I'll be looking to poke a few holes in someone soon! <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 Thanks!
 
@@ -66,7 +66,7 @@ Thanks!
 
 Isn't there a specific message, when you reach a cap in any of your abilities?
 
-I doubt that 34 is the cap ;)
+I doubt that 34 is the cap <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -86,7 +86,7 @@ Not verified. I need to do that someday. The way I got from somewherehere is. +D
 
 example 20hp dam at 5dam could yield 5 x 20 = 100hp damage.
 
-+Stab dam is added on after your stab. So given same circumstances
+\+Stab dam is added on after your stab. So given same circumstances
 
 with 15 stabdam. 5x20=100hp+15 115hp. depending on roll? circle dam added after that if you land one in the first round also.??
 
@@ -96,7 +96,7 @@ with 15 stabdam. 5x20=100hp+15 115hp. depending on roll? circle dam added after 
 
 The way I understood it was this:
 
-stab output = ([damage roll] + [dam]) x [stab multiplier] + [stab_dam]
+stab output = ([damage roll] + [dam]) x [stab multiplier] + [stab\_dam]
 
 Also, I thought stab multiplier was dependent on thief levels and thief class position, and no other dependence had been verified.
 

@@ -18,27 +18,27 @@ Hi, where i can find info about this quest?
 
 <div class="post" data-post-id="39369" data-author="Gorka" data-date="2020-02-03T20:11:34+00:00" data-subject="Re: Monk 30 lvl prime  sleeves of black ice quest">
 
-undertake special_aura
+undertake special\_aura
 
-An ettin monk tells you 'Someone has stolen my sacred aura.  This is very bad, and will effect all
+An ettin monk tells you 'Someone has stolen my sacred aura. This is very bad, and will effect all
 
-monks over a short period of time.  It will have an everlasting affect on 
+monks over a short period of time. It will have an everlasting affect on 
 
-all of our kind.  Without this aura, we will lose power, strength, and 
+all of our kind. Without this aura, we will lose power, strength, and 
 
-endurance.  The aura that binds us to our styles of fighting must be 
+endurance. The aura that binds us to our styles of fighting must be 
 
-found and returned.  When did I have it last?  Well yesterday I was 
+found and returned. When did I have it last? Well yesterday I was 
 
-fine.  I even gave lesses to a new member of our guild.  He was a 
+fine. I even gave lesses to a new member of our guild. He was a 
 
-young elvin, just learning the ways of the monk.  Do you think he could,
+young elvin, just learning the ways of the monk. Do you think he could,
 
-or would have stolen my aura?  Seek him out, confront him, ask him about
+or would have stolen my aura? Seek him out, confront him, ask him about
 
-the aura.  If he knows anything, I am sure he will be willing to tell you.
+the aura. If he knows anything, I am sure he will be willing to tell you.
 
-But if you find that it is he, who stole my aura, kill him!  He don't
+But if you find that it is he, who stole my aura, kill him! He don't
 
 deserve to be part of our guild, and should check into the thieves guild
 

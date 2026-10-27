@@ -20,15 +20,15 @@ I noticed that in all my notes and stuff, I don't have reference to a single cra
 
 Ok... getting towards 40 views of this thread... and no replies... so I guess...
 
-1)   Either there aren't any...
+1\) Either there aren't any...
 
-2)   Your still cycling the mobs, and you want them to yourself :twisted:
+2\) Your still cycling the mobs, and you want them to yourself <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
-3)   You don't know either, and your waiting a day before you get on your high horse and tell me to rudely find them myself.
+3\) You don't know either, and your waiting a day before you get on your high horse and tell me to rudely find them myself.
 
-4)   The russians haven't emailed you there lyme quest list yet, cause lets face it they are the smartest players doing most of the work. The cold war is over, the russians won five to nil! :twisted:
+4\) The russians haven't emailed you there lyme quest list yet, cause lets face it they are the smartest players doing most of the work. The cold war is over, the russians won five to nil! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
-5)   You don't like my list of 5 reasons... and your going to make a 6th.
+5\) You don't like my list of 5 reasons... and your going to make a 6th.
 
 </div>
 
@@ -42,7 +42,7 @@ and caretaker in necropolis..
 
 quest name is azzenon.
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -66,7 +66,7 @@ The man at the entrance room in DoT too.
 
 <div class="post" data-post-id="26630" data-author="Bazilus" data-date="2008-10-09T09:58:01+00:00" data-subject="...">
 
-6) Relax and play the wonderful game: Sloth! :)
+6\) Relax and play the wonderful game: Sloth! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 P.S. Ask Yugoloth in Pyramid Expansion
 

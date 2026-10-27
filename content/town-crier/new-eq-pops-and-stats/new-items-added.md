@@ -12,31 +12,31 @@ post_count: 12
 
 <div class="post" data-post-id="35702" data-author="Hunter" data-date="2015-02-22T03:33:00+00:00" data-subject="New Items Added!">
 
-Some new items have been added to the game.  In addition, half of the previous items I added have not been identified.  I'm including hints for the 4 existing ones plus 8 new ones.
+Some new items have been added to the game. In addition, half of the previous items I added have not been identified. I'm including hints for the 4 existing ones plus 8 new ones.
 
-1. A fairy that's on a boat
+1\. A fairy that's on a boat
 
-2. a 10 foot tall gnome
+2\. a 10 foot tall gnome
 
-3. a dark elf that travels between continents
+3\. a dark elf that travels between continents
 
-4. Something in a room full of noise and confusion
+4\. Something in a room full of noise and confusion
 
-5. a great speaker with a froglike appearance
+5\. a great speaker with a froglike appearance
 
-6. someone who believes that you will not be successful in your endeavor
+6\. someone who believes that you will not be successful in your endeavor
 
-7. A burly man who uses fire to make delicate things
+7\. A burly man who uses fire to make delicate things
 
-8. A studious guest in purple
+8\. A studious guest in purple
 
-9. a massive man covered in soot from creating weapons
+9\. a massive man covered in soot from creating weapons
 
-10. an demon of unspeakable horror in a castle.
+10\. an demon of unspeakable horror in a castle.
 
-11. a pale, out of shape, formerly promising member of the diabolan army
+11\. a pale, out of shape, formerly promising member of the diabolan army
 
-12. a dragon that is, fortunately, under water
+12\. a dragon that is, fortunately, under water
 
 </div>
 
@@ -48,7 +48,7 @@ Some new items have been added to the game.  In addition, half of the previous i
 
 <div class="post" data-post-id="35789" data-author="Teron" data-date="2015-04-01T19:03:16+00:00" data-subject="Re: New Items Added!">
 
-7. is the burly glassblower in Fireworks. Pops a +hit +7hp light.
+7\. is the burly glassblower in Fireworks. Pops a +hit +7hp light.
 
 War also discovered 12, which is the luck dragon in Kuo-Toan, pops +5hp shiftable shield, I think - can't remember stats.
 
@@ -56,7 +56,7 @@ War also discovered 12, which is the luck dragon in Kuo-Toan, pops +5hp shiftabl
 
 <div class="post" data-post-id="35793" data-author="Hung" data-date="2015-04-06T04:34:57+00:00" data-subject="Re: New Items Added!">
 
-1. is Forana on Clipper. She loads a braided band of gold.
+1\. is Forana on Clipper. She loads a braided band of gold.
 
 Object 'braided band gold', Item type: ARMOR
 
@@ -68,9 +68,9 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: REGEN_MANA by 2
+ Affects: REGEN\_MANA by 2
 
-    Affects: CHARISMA by 1
+ Affects: CHARISMA by 1
 
 Only those who are at least supreme bards may use this item.
 
@@ -84,7 +84,7 @@ Dear Hunter, can you tell us how are new items spread on continents?
 
 <div class="post" data-post-id="35796" data-author="Hung" data-date="2015-04-07T13:58:03+00:00" data-subject="Re: New Items Added!">
 
-11 is  Lieutenant Forst at Diabolan Valley Encampment. He loads golden link belt:
+11 is Lieutenant Forst at Diabolan Valley Encampment. He loads golden link belt:
 
 Object 'belt link gold', Item type: ARMOR
 
@@ -96,7 +96,7 @@ AC-apply is -0.2
 
 Can affect you as:
 
-    Affects: HAND_DAMAGE by 2
+ Affects: HAND\_DAMAGE by 2
 
 Only those who are at least supreme monks may use this item.
 
@@ -116,9 +116,9 @@ AC-apply is -0.8
 
 Can affect you as:
 
-    Affects: HITROLL by 2
+ Affects: HITROLL by 2
 
-    Affects: REDUCE_DAMAGE by 1
+ Affects: REDUCE\_DAMAGE by 1
 
 Only those who are at least supreme monks may use this item.
 
@@ -138,7 +138,7 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: REDUCE_DAMAGE by 1
+ Affects: REDUCE\_DAMAGE by 1
 
 Only those who are at least supreme monks may use this item.
 
@@ -178,11 +178,11 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: MANA by 5
+ Affects: MANA by 5
 
-    Affects: REGEN_MANA by 2
+ Affects: REGEN\_MANA by 2
 
-    Affects: UNDEAD_CONTROL by 1
+ Affects: UNDEAD\_CONTROL by 1
 
 Only those who are at least supreme necromancers may use this item.
 
@@ -202,7 +202,7 @@ AC-apply is -0.3
 
 Can affect you as:
 
-    Affects: CHARISMA by 1
+ Affects: CHARISMA by 1
 
 Only those who are at least experienced bards may use this item.
 
@@ -224,9 +224,9 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: CHARISMA by 2
+ Affects: CHARISMA by 2
 
-    Affects: MANA by 10
+ Affects: MANA by 10
 
 Only those who are at least novice avatars and also supreme bards may use
 
@@ -234,9 +234,9 @@ this item.
 
 Two items yet undiscovered:
 
-3. a dark elf that travels between continents (could be drow ambassador at Upper Thal, but he loads a black embroidered shirt already).
+3\. a dark elf that travels between continents (could be drow ambassador at Upper Thal, but he loads a black embroidered shirt already).
 
-4. Something in a room full of noise and confusion (could be chaos elemental at Ogres, but it loads a chaos gem already).
+4\. Something in a room full of noise and confusion (could be chaos elemental at Ogres, but it loads a chaos gem already).
 
 Thanks everyone who helped once again!
 

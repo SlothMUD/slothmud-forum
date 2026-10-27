@@ -14,19 +14,19 @@ post_count: 5
 
 Curious to see how others set theirs up...
 
-[img:13howfd6]http://i209.photobucket.com/albums/bb76/dbscott2034/zmudwindow.jpg[/img:13howfd6]
+![](http://i209.photobucket.com/albums/bb76/dbscott2034/zmudwindow.jpg)
 
 </div>
 
 <div class="post" data-post-id="18943" data-author="Yasik" data-date="2007-06-17T08:14:00+00:00" data-subject="">
 
-[img:3k34446u]http://yasik.kiev.ua/MyMUDClient.jpg[/img:3k34446u]
+![](http://yasik.kiev.ua/MyMUDClient.jpg)
 
 </div>
 
 <div class="post" data-post-id="18946" data-author="Vixn" data-date="2007-06-17T13:57:47+00:00" data-subject="">
 
-Yasik, you're *re-tard*.
+Yasik, you're \*re-tard\*.
 
 I mean nobody can see you crap picture.
 
@@ -36,7 +36,7 @@ I mean nobody can see you crap picture.
 
 Heres how I've got mine right now.
 
-[img:2v9kslfz]http://img79.imageshack.us/img79/4264/screenshotym7.jpg[/img:2v9kslfz]
+![](http://img79.imageshack.us/img79/4264/screenshotym7.jpg)
 
 Various chat windows can be cycled through at top window.
 
@@ -50,6 +50,6 @@ Still working on a pinger chat that will be interchangable with the spelltracker
 
 boy some of you people are spoiled
 
-[img:1hig95b3]http://home.earthlink.net/~althalus/images/mudscreen.jpg[/img:1hig95b3]
+![](http://home.earthlink.net/~althalus/images/mudscreen.jpg)
 
 </div>

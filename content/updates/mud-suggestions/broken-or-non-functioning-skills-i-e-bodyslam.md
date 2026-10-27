@@ -30,7 +30,7 @@ make it auto rebash maybe?
 
 <div class="post" data-post-id="36373" data-author="*teker*" data-date="2015-12-26T03:40:24+00:00" data-subject="Re: Broken or Non-functioning skills (I.E. Bodyslam)">
 
-I can tell you from a code point of view that the skill does do something but it's looks to be quite hard to successfully perform - even at level 40.  I haven't looked at the various melee skills to know if the damage it does is substantial or not, though.  Maybe it's time to build a table of melee skills and rank them based on the damage they do?
+I can tell you from a code point of view that the skill does do something but it's looks to be quite hard to successfully perform - even at level 40. I haven't looked at the various melee skills to know if the damage it does is substantial or not, though. Maybe it's time to build a table of melee skills and rank them based on the damage they do?
 
 </div>
 
@@ -54,7 +54,7 @@ This way, bodyslam can be useful to stomp, if the mob doesnt hit hard, or to red
 
 <div class="post" data-post-id="36383" data-author="*teker*" data-date="2015-12-28T04:06:53+00:00" data-subject="Re: Broken or Non-functioning skills (I.E. Bodyslam)">
 
-The current behavior is to do damage and to affect balance.  The amount of damage is proportional to the combined body weight of the attacker and victim.  The victim takes additional damage if at 100% of max hp.  The current chance of success is proportional to the percentage learned of the spell.  There are no other modifiers.
+The current behavior is to do damage and to affect balance. The amount of damage is proportional to the combined body weight of the attacker and victim. The victim takes additional damage if at 100% of max hp. The current chance of success is proportional to the percentage learned of the spell. There are no other modifiers.
 
 </div>
 

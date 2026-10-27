@@ -26,7 +26,7 @@ Be interested to hear your thoughts on this.
 
 <div class="post" data-post-id="9945" data-author="Gnu" data-date="2005-12-30T10:49:10+00:00" data-subject="">
 
-Even a hen can fly, but look at eagles and u will see what is a real Flight ;)
+Even a hen can fly, but look at eagles and u will see what is a real Flight <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 You can find your place in this MUD with any classo, if u cant solo, if u are useless follower in groups, then become a leader! Are you bored with leading? Become a cheater! Got wiped? Start a new character !
 
@@ -34,11 +34,11 @@ You can find your place in this MUD with any classo, if u cant solo, if u are us
 
 <div class="post" data-post-id="9953" data-author="12345" data-date="2005-12-31T20:15:49+00:00" data-subject="">
 
-My character was designed to maximize damage reduction.  Zukt's also, since he basically has my same classo with Necro instead of Cleric.  With druid quad though, I'll have to become a fairly high avatar before I see the full effects. Damage reduction saves me a few heals and has probably saved my life once or twice, but it's tough to see a difference.
+My character was designed to maximize damage reduction. Zukt's also, since he basically has my same classo with Necro instead of Cleric. With druid quad though, I'll have to become a fairly high avatar before I see the full effects. Damage reduction saves me a few heals and has probably saved my life once or twice, but it's tough to see a difference.
 
-As far as counterattack.  I've nearly gotten killed many many times because I solo with counterattack for the added damage and then forget to switch to parry for groups.  Parry is a lot better at keeping me alive.  Hands down.
+As far as counterattack. I've nearly gotten killed many many times because I solo with counterattack for the added damage and then forget to switch to parry for groups. Parry is a lot better at keeping me alive. Hands down.
 
-My character still needs a lot of work, but from what I've seen monk is much more damage oriented than warrior... and give thieves a run for their money.  Warrior is much more defensive.
+My character still needs a lot of work, but from what I've seen monk is much more damage oriented than warrior... and give thieves a run for their money. Warrior is much more defensive.
 
 </div>
 

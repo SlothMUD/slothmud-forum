@@ -38,7 +38,7 @@ Not on ah or bh or ss... probably not on lyme
 
 <div class="post" data-post-id="5965" data-author="Alberich" data-date="2005-05-04T00:34:45+00:00" data-subject="">
 
-do random cps show up with wealth&glory at all?  Not that I have seen any of the cps load for awhile either...
+do random cps show up with wealth\&glory at all? Not that I have seen any of the cps load for awhile either...
 
 </div>
 

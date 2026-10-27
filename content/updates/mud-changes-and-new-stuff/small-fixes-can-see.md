@@ -14,11 +14,11 @@ post_count: 2
 
 Fixes mostly involve mobs not seeing players:
 
-1) All questers, forgers, innkeepers, and guildmasters should always see a player now.
+1\) All questers, forgers, innkeepers, and guildmasters should always see a player now.
 
-2) Pets should always see their masters now. This does not mean that they won't ignore them once in awhile as that is actually coded to their functionality on the order command. ( This check was already in our code but it was backwards :)
+2\) Pets should always see their masters now. This does not mean that they won't ignore them once in awhile as that is actually coded to their functionality on the order command. ( This check was already in our code but it was backwards <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-3) This was added few days ago: All animates and summons will be born with detect magic now 
+3\) This was added few days ago: All animates and summons will be born with detect magic now 
 
 Changes in next reboot,
 

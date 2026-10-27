@@ -20,10 +20,10 @@ A splendid quest will occur at 9AM on Sunday July 2nd.
 
 A countdown timer is provided below.
 
-[<LINK_TEXT text="https://www.tickcounter.com/countdown/4 ... july-quest">https://www.tickcounter.com/countdown/4255738/2023-slothmud-4th-of-july-quest</LINK_TEXT>](https://www.tickcounter.com/countdown/4255738/2023-slothmud-4th-of-july-quest)
+[https://www.tickcounter.com/countdown/4255738/2023-slothmud-4th-of-july-quest](https://www.tickcounter.com/countdown/4255738/2023-slothmud-4th-of-july-quest)
 
 Good day and Happy Fourth!
 
---Idj
+\--Idj
 
 </div>

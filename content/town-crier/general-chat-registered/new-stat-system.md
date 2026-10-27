@@ -12,7 +12,8 @@ post_count: 10
 
 <div class="post" data-post-id="28838" data-author="Brujah" data-date="2009-04-11T22:09:27+00:00" data-subject="New stat system">
 
-[code:22iaq0m0]You feel incredibly different!
+```
+You feel incredibly different!
 
 Here are five sets of stats for your character.
 
@@ -26,23 +27,24 @@ To pick which set you would like, simply type rolls pick ID#!
 
 Example, 'rolls pick 5'.
 
-   [ID]     STR    INT   WIS   DEX   CON
+ [ID] STR INT WIS DEX CON
 
-[    5]    18    12    17    13    13
+[ 5] 18 12 17 13 13
 
-[    4]    18    11    18    16    11
+[ 4] 18 11 18 16 11
 
-[    3]    17    12    17    14    13
+[ 3] 17 12 17 14 13
 
-[    2]    17    11    15    15    14
+[ 2] 17 11 15 15 14
 
-[    1]    18    11    15    15    13
+[ 1] 18 11 15 15 13
 
 Master Shoda says 'Godmode is ready for the next level'
 
 Saving Godmode.
 
-Saving items.[/code:22iaq0m0]
+Saving items.
+```
 
 Discuss.
 
@@ -80,29 +82,29 @@ What is really good about it - the lowest possible stat is 11, making sure you h
 
 Mine was :
 
-   [ID]     STR    INT   WIS   DEX   CON
+ [ID] STR INT WIS DEX CON
 
-[    5]    13    18    18    14    12
+[ 5] 13 18 18 14 12
 
-[    4]    11    18    17    15    11
+[ 4] 11 18 17 15 11
 
-[    3]    14    16    16    14    13
+[ 3] 14 16 16 14 13
 
-[    2]    14    18    16    15    12
+[ 2] 14 18 16 15 12
 
-[    1]    13    17    17    14    12
+[ 1] 13 17 17 14 12
 
 The most important think they changed I think is the stats total a fixed range of numbers.
 
 Your stats totalled 73 74 73 72 72 respectively while mine were 75 72 73 75 73 respectively.
 
-They just total a small range of numbers and you'll definitely get playable stats that way :)
+They just total a small range of numbers and you'll definitely get playable stats that way <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="28852" data-author="Weasel" data-date="2009-04-12T00:48:47+00:00" data-subject="">
 
-Thanks.   ..and the 18/XX strength is gone now - just 18 max?
+Thanks. ..and the 18/XX strength is gone now - just 18 max?
 
 </div>
 
@@ -110,7 +112,8 @@ Thanks.   ..and the 18/XX strength is gone now - just 18 max?
 
 The max for nat stats now is 18 and the max that items can bring it up to is 25, as was mentioned.
 
-5) stats rolled to 18, reach 25 through eq and levels [/quote:2y8hzc0n]
+> <strong>\*Splork\* wrote:</strong>
+> 5\) stats rolled to 18, reach 25 through eq and levels
 
 </div>
 
@@ -118,11 +121,11 @@ The max for nat stats now is 18 and the max that items can bring it up to is 25,
 
 The interaction between the 18 - 25, equipment, level and your effective stat and it's applicable bonus isn't as straightforward as:
 
-"Me go get +3 perl of rising tide.  me get 21 con.  me get +300 hp"
+"Me go get +3 perl of rising tide. me get 21 con. me get +300 hp"
 
 We've tried to evolve from a cavemanish system.
 
-It's not overly complex either, just possibly different from what you may expect.  But it will be a little bit before a player that experiences it can comment on it.
+It's not overly complex either, just possibly different from what you may expect. But it will be a little bit before a player that experiences it can comment on it.
 
 </div>
 

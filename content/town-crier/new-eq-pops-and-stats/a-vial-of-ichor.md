@@ -30,13 +30,13 @@ Weight: 1, Value: 1500, Worn in: TAKE
 
 <div class="post" data-post-id="13892" data-author="Teron" data-date="2006-09-03T04:13:38+00:00" data-subject="">
 
-It's a cp for the bloodstone ring in the area, as far as I recall. Nothing spectacular ;)
+It's a cp for the bloodstone ring in the area, as far as I recall. Nothing spectacular <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="13893" data-author="12345" data-date="2006-09-03T04:20:16+00:00" data-subject="">
 
-Yeah, I know.  Thinking about forging one for fun.  Only posted cause the eq list has it listed as a potion.
+Yeah, I know. Thinking about forging one for fun. Only posted cause the eq list has it listed as a potion.
 
 </div>
 
@@ -56,7 +56,7 @@ Item is: NOBITS
 
 Weight: 1, Value: 5000, Worn in: TAKE 
 
-found it in shadowkeep,  it isn't listed in eqlist.
+found it in shadowkeep, it isn't listed in eqlist.
 
 </div>
 

@@ -24,7 +24,7 @@ these threads are stupid and desperate, get ICQ or take it like a man.
 
 <div class="post" data-post-id="15193" data-author="Mosaix" data-date="2006-11-14T18:23:30+00:00" data-subject="">
 
-Agreed, ICQ is free, no excuse not to load it.  Or have friends somewhere that want to take the time to raise you.
+Agreed, ICQ is free, no excuse not to load it. Or have friends somewhere that want to take the time to raise you.
 
 </div>
 

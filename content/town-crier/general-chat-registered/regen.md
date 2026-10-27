@@ -12,7 +12,7 @@ post_count: 3
 
 <div class="post" data-post-id="10043" data-author="jezer" data-date="2006-01-10T05:46:51+00:00" data-subject="regen">
 
-Would be nice to see a 2x to regen bonus just like the fargate and group bonuses that are put on. Regen is a bit of a drag.  :cry:
+Would be nice to see a 2x to regen bonus just like the fargate and group bonuses that are put on. Regen is a bit of a drag. <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -24,6 +24,6 @@ Yes, regen bonus day would be nice. And I wonder when the dwarfs and eskimozes a
 
 <div class="post" data-post-id="10062" data-author="Yasik" data-date="2006-01-10T17:43:48+00:00" data-subject="">
 
-Dream on n00bz  :twisted:
+Dream on n00bz <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

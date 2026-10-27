@@ -12,7 +12,7 @@ post_count: 4
 
 <div class="post" data-post-id="16253" data-author="Snugger" data-date="2007-01-14T03:48:39+00:00" data-subject="Chopping Block Question">
 
-I bid and won.  Yay for me.  How do I contact the person selling the item?
+I bid and won. Yay for me. How do I contact the person selling the item?
 
 </div>
 
@@ -20,15 +20,15 @@ I bid and won.  Yay for me.  How do I contact the person selling the item?
 
 generally one or more of the 3 main ways.....get online and talk to them or their friends that are on the mud....Mud mail.....or Icq is the most common forms i use
 
-\
+\\
 
-~M~
+\~M\~
 
 </div>
 
 <div class="post" data-post-id="16255" data-author="Snugger" data-date="2007-01-14T06:04:38+00:00" data-subject="">
 
-Thanks.  That worked.
+Thanks. That worked.
 
 </div>
 

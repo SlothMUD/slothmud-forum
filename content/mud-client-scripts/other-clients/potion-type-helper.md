@@ -18,7 +18,8 @@ used to see: yellow potion
 
 now see: yellow potion (detect invisibility)
 
-[code:3l54d76q]/sub {acrid orange potion} {<829>acrid orange potion (imbuewith 3x flamestrike)<899>}
+```
+/sub {acrid orange potion} {<829>acrid orange potion (imbuewith 3x flamestrike)<899>}
 
 /sub {amethyst potion} {<829>amethyst potion (infravision / detect invis / sense life)<899>}
 
@@ -44,7 +45,7 @@ now see: yellow potion (detect invisibility)
 
 /sub {bubbling maroon potion} {<829>bubbling maroon potion (level 15 armor)<899>}
 
-/sub {bubbling violet potion } {<829>bubbling violet potion  (lvl 40 knock)<899>}
+/sub {bubbling violet potion } {<829>bubbling violet potion (lvl 40 knock)<899>}
 
 /sub {cerise potion} {<829>cerise potion (armor/cure light)<899>}
 
@@ -92,7 +93,7 @@ now see: yellow potion (detect invisibility)
 
 /sub {fizzy ochre potion} {<829>fizzy ochre potion (imbue l40 magic missile x30)<899>}
 
-/sub {flecked gold potion } {<829>flecked gold potion  (bless, strength, stone skin)<899>}
+/sub {flecked gold potion } {<829>flecked gold potion (bless, strength, stone skin)<899>}
 
 /sub {frothy violet potion} {<829>frothy violet potion (lvl 40 corona x1)<899>}
 
@@ -230,7 +231,8 @@ now see: yellow potion (detect invisibility)
 
 /sub {warm coral potion} {<829>warm coral potion (lev 40 resist webs)<899>}
 
-/sub {yellow potion} {<829>yellow potion (detect invisibility)<899>}[/code:3l54d76q]
+/sub {yellow potion} {<829>yellow potion (detect invisibility)<899>}
+```
 
 </div>
 

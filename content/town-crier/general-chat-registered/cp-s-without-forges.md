@@ -32,9 +32,9 @@ I wish I could remember - I made some sort of forge with it many years ago - I r
 
 <div class="post" data-post-id="27488" data-author="firebrand" data-date="2008-12-17T15:53:42+00:00" data-subject="">
 
-as far back as i can remember we have had autoquests, although in the beginning we called them weekly forges where some usually really nice item was available only for a week then the forge mob was taken down.   sometimes the imms would forget to remove the cps or would recycle some of the cps into other forges.    
+as far back as i can remember we have had autoquests, although in the beginning we called them weekly forges where some usually really nice item was available only for a week then the forge mob was taken down. sometimes the imms would forget to remove the cps or would recycle some of the cps into other forges. 
 
-"god, that was a short love scene!" - mabel --> the pirate movie
+"god, that was a short love scene!" - mabel --\> the pirate movie
 
 </div>
 
@@ -48,25 +48,25 @@ Nah don't think it was a weekly - I seem to recall wanting that conch for quite 
 
 Seems Weaselie was onto it. Pity the weapon is fairly crap compared to some others. Also a derivative on the eq list, of the same name suggests that it has been retired.
 
-Knarled Staff of the Warlocks  3d4 +1 +0 +1 Str, Fireball Proc MM MC [AND] Forged
+Knarled Staff of the Warlocks 3d4 +1 +0 +1 Str, Fireball Proc MM MC [AND] Forged
 
----------------------------------------------------------------
+\---------------------------------------------------------------
 
 If you visit a hunter who seeks out witches and warlocks, you may wish
 
-to ask him about his quest.  For he is the one you need to start you on
+to ask him about his quest. For he is the one you need to start you on
 
 your way to making a better tool to fight off witches.
 
 Once you have visited this hunter, you will need a few things to make 
 
-this great mystical staff.  If you combind, a potion that is set on
+this great mystical staff. If you combind, a potion that is set on
 
 fire, a knarled staff used by a warlock, wand with powers of fire, 
 
 and a conch shell that has been sawn off to be used as a horn the 
 
-enchantment can take place.  You must also provide the enchanter
+enchantment can take place. You must also provide the enchanter
 
 with a gown made of flowing red satin as part of the fee.
 
@@ -74,12 +74,12 @@ with a gown made of flowing red satin as part of the fee.
 
 <div class="post" data-post-id="27493" data-author="Weasel" data-date="2008-12-18T02:49:00+00:00" data-subject="">
 
-Ah ok, so it [i:1lo7asza]was[/i:1lo7asza] the gnarled staff of the warlocks   :)
+Ah ok, so it <em>was</em> the gnarled staff of the warlocks <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Yeah, would be nice to have that staff beefed a little bit - from memory, the proc rarely fired, and it's only a fireball when it does fire. Also seemed to always be the first item looted when corpsed.
 
 Can say the same for the enchanted staff of storms (was an autoquest) 2D6 +2dam +1wis +lightning bolt proc, but that proc never seemed to fire. I actually wonder if it's broken?
 
-I might even use them again if they worked a little better.. *HINT*
+I might even use them again if they worked a little better.. \*HINT\*
 
 </div>

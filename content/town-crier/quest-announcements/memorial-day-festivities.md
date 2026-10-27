@@ -18,10 +18,10 @@ There will be epics load tomorrow the 27th at noon server time.
 
 I will post a countdown link in a moment.
 
-[<LINK_TEXT text="https://www.tickcounter.com/countdown/6 ... 2018-quest">https://www.tickcounter.com/countdown/603890/slothmud-memorial-day-2018-quest</LINK_TEXT>](https://www.tickcounter.com/countdown/603890/slothmud-memorial-day-2018-quest)
+[https://www.tickcounter.com/countdown/603890/slothmud-memorial-day-2018-quest](https://www.tickcounter.com/countdown/603890/slothmud-memorial-day-2018-quest)
 
 Thanks
 
---Idjit
+\--Idjit
 
 </div>

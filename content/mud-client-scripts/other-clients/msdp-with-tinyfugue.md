@@ -12,9 +12,9 @@ post_count: 2
 
 <div class="post" data-post-id="33850" data-author="raincrab" data-date="2012-12-19T21:31:01+00:00" data-subject="msdp with tinyfugue">
 
-Using a copy of tf patched with msdp support, http://www.mudbytes.net/file-2875, you can access the msdp variables.  They are automatically updated, and you can grab the msdp variable change events as well.
+Using a copy of tf patched with msdp support, http://www.mudbytes.net/file-2875, you can access the msdp variables. They are automatically updated, and you can grab the msdp variable change events as well.
 
-First request them when connected (run the macro **/enablemsdp** or have it triggered to run when you enter the game):
+First request them when connected (run the macro <strong>/enablemsdp</strong> or have it triggered to run when you enter the game):
 
 ```
 /def enablemsdp = \
@@ -117,7 +117,7 @@ First request them when connected (run the macro **/enablemsdp** or have it trig
 	/msdp REPORT =GROUP_LEADER
 ```
 
-Then access the variable names with the convention **MSDP__<varname>**. for example:
+Then access the variable names with the convention <strong>MSDP\_\_\<varname\></strong>. for example:
 
 ```
 /def whoami = /echo i am %MSDP__CHARACTER_NAME
@@ -129,15 +129,15 @@ Hooking the events is a little different, as hooks are not used as they are for 
 /def -mglob -t"MSDP *" msdp_update = /echo achtung! %{*} was set
 ```
 
-**BUGS**
+<strong>BUGS</strong>
 
-Since there is no native array support in tf, list variables are named with the convention **MSDP__<listname>_<elementname>** which creates unaccessible variable names when <elementname> contains spaces; Spell names like "stone skin" for example are troublesome.
+Since there is no native array support in tf, list variables are named with the convention <strong>MSDP\_\_\<listname\>\_\<elementname\></strong> which creates unaccessible variable names when \<elementname\> contains spaces; Spell names like "stone skin" for example are troublesome.
 
 Direction variables are being set, (their value is zero), i.e. from BH inn north and south get set, after going south, east and west get set, going back north to the inn, all 4 direction variables remain set, as there is no mechanism unsetting the variables.
 
 Also any variable returning -1 should be ignored.
 
-If you're still having trouble, turn on debugging with **/set msdp_dbg 1** and it will spew all msdp variable changes to the world window.
+If you're still having trouble, turn on debugging with <strong>/set msdp\_dbg 1</strong> and it will spew all msdp variable changes to the world window.
 
 </div>
 
@@ -146,13 +146,13 @@ If you're still having trouble, turn on debugging with **/set msdp_dbg 1** and i
 a workaround for the exits, just use a trigger to regex them out
 
 ```
-/def -mregexp -t"^Exits: (.+)  " = /set exits %P1 %; \
-    /test north := regmatch("North", %exits) %; \
-    /test south := regmatch("South", %exits) %; \
-    /test east := regmatch("East", %exits) %; \
-    /test west := regmatch("West", %exits) %; \
-    /test up := regmatch("Up", %exits) %; \
-    /test down := regmatch("Down", %exits)
+/def -mregexp -t"^Exits: (.+) " = /set exits %P1 %; \
+ /test north := regmatch("North", %exits) %; \
+ /test south := regmatch("South", %exits) %; \
+ /test east := regmatch("East", %exits) %; \
+ /test west := regmatch("West", %exits) %; \
+ /test up := regmatch("Up", %exits) %; \
+ /test down := regmatch("Down", %exits)
 ```
 
 </div>

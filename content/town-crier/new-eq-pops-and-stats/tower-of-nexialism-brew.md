@@ -62,7 +62,7 @@ Item desc:
 
 A small vial, carved from a piece of crystal, is full of some mysterious,
 
-eerily glowing liquid that emits a vile smell.  It is surprisingly
+eerily glowing liquid that emits a vile smell. It is surprisingly
 
 cool to the touch, and sometimes bright sparks flash inside, like
 
@@ -72,6 +72,6 @@ In inv:
 
 an eerie-glowing potion..It glows violet!..It has a soft glowing aura!
 
-Enjoy :)
+Enjoy <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

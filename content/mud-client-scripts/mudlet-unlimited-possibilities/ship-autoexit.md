@@ -12,9 +12,9 @@ post_count: 2
 
 <div class="post" data-post-id="33914" data-author="Constin" data-date="2013-01-11T19:03:23+00:00" data-subject="ship autoexit">
 
-perl regex: ^A (.*) gracefully lands and folds its wings at (.*)\.$
+perl regex: ^A (.\*) gracefully lands and folds its wings at (.\*)\\.$
 
-prel regex: ^The ship has arrived at (.*)\!$
+prel regex: ^The ship has arrived at (.\*)\\!$
 
 command:
 
@@ -28,11 +28,11 @@ send("exit")
 
 <div class="post" data-post-id="33915" data-author="Constin" data-date="2013-01-11T21:56:52+00:00" data-subject="Re: ship autoexit">
 
-some lame  extra update for autoenter VK ships to selected destinations
+some lame extra update for autoenter VK ships to selected destinations
 
 Trigger1:
 
-regexp: ^A (.*) gracefully lands and folds its wings.$
+regexp: ^A (.\*) gracefully lands and folds its wings.$
 
 command:
 
@@ -46,9 +46,9 @@ shipto = "null"
 
 Trigger2:
 
-perl regex: ^A (.*) gracefully lands and folds its wings at (.*)\.$
+perl regex: ^A (.\*) gracefully lands and folds its wings at (.\*)\\.$
 
-prel regex: ^The ship has arrived at (.*)\!$
+prel regex: ^The ship has arrived at (.\*)\\!$
 
 command:
 
@@ -62,15 +62,15 @@ shipto = "null"
 
 Alias:
 
-pattern:  ^shipto (.+)$
+pattern: ^shipto (.+)$
 
 command:
 
 shipto = matches[2]
 
-cecho("<light_slate_blue>SHIPPING TO: <red>"..shipto.."\n")
+cecho("\<light\_slate\_blue\>SHIPPING TO: \<red\>"..shipto.."\\n")
 
-----------------
+\----------------
 
 so now all u need is come to dock type: shipto bh( or ah, or ss) and wait for ship w/o looking at screen.
 

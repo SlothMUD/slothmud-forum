@@ -14,13 +14,13 @@ post_count: 2
 
 As I was running a backup, I was idle and voided.. When I came back there is what I saw.
 
-<841hp 638+62ma 200mv> +10 <raining - 2,074,834,788 XP - 0 coins - Aisholm Town - Ah>
+\<841hp 638+62ma 200mv\> +10 \<raining - 2,074,834,788 XP - 0 coins - Aisholm Town - Ah\>
 
 The sun rises in the east.
 
 You have been idle, and are pulled into a void.
 
-<841hp 638+62ma 200mv> +10 <indoors - 2,074,834,788 XP - 0 coins - Godsland - Gd>
+\<841hp 638+62ma 200mv\> +10 \<indoors - 2,074,834,788 XP - 0 coins - Godsland - Gd\>
 
 A woozle panics and bolts for the nearest exit.
 
@@ -66,7 +66,7 @@ A woozle stumbles into a wall to the south.
 
 A woozle looks around nervously and trembles with excitement.
 
-<841hp 638+62ma 200mv> +10 <indoors - 2,074,834,788 XP - 0 coins - Godsland - Gd>
+\<841hp 638+62ma 200mv\> +10 \<indoors - 2,074,834,788 XP - 0 coins - Godsland - Gd\>
 
 A woozle panics and bolts for the nearest exit.
 
@@ -112,7 +112,7 @@ A woozle stumbles over a monument to the east.
 
 A woozle looks around nervously and trembles with excitement.
 
-<841hp 638+62ma 200mv> +10 <indoors - 2,074,834,788 XP - 0 coins - Godsland - Gd>
+\<841hp 638+62ma 200mv\> +10 \<indoors - 2,074,834,788 XP - 0 coins - Godsland - Gd\>
 
 A woozle panics and bolts for the nearest exit.
 
@@ -158,7 +158,7 @@ A woozle jumps up and down on the ground.
 
 A woozle looks around nervously and trembles with excitement.
 
-<841hp 638+62ma 200mv> +10 <indoors - 2,074,834,788 XP - 0 coins - Godsland - Gd>
+\<841hp 638+62ma 200mv\> +10 \<indoors - 2,074,834,788 XP - 0 coins - Godsland - Gd\>
 
 A woozle panics and bolts for the nearest exit.
 
@@ -204,7 +204,7 @@ A woozle stumbles over someones pet to the south.
 
 A woozle looks around nervously and trembles with excitement.
 
-<841hp 638+62ma 200mv> +10 <indoors - 2,074,834,788 XP - 0 coins - Godsland - Gd>
+\<841hp 638+62ma 200mv\> +10 \<indoors - 2,074,834,788 XP - 0 coins - Godsland - Gd\>
 
 A woozle panics and bolts for the nearest exit.
 
@@ -250,7 +250,7 @@ A woozle stumbles over someones pet to the east.
 
 A woozle looks around nervously and trembles with excitement.
 
-<841hp 638+62ma 200mv> +10 <indoors - 2,074,834,788 XP - 0 coins - Godsland - Gd>
+\<841hp 638+62ma 200mv\> +10 \<indoors - 2,074,834,788 XP - 0 coins - Godsland - Gd\>
 
 A woozle panics and bolts for the nearest exit.
 
@@ -298,11 +298,11 @@ A woozle looks around nervously and trembles with excitement.
 
 Shyla gossips-- 'okie i just have entrench left'
 
-<841hp 638+62ma 200mv> +10 <indoors - 2,074,834,788 XP - 0 coins - Godsland - Gd>
+\<841hp 638+62ma 200mv\> +10 \<indoors - 2,074,834,788 XP - 0 coins - Godsland - Gd\>
 
 Shyla gossips-- 'any intrest in it?'
 
-<841hp 638+62ma 200mv> +10 <indoors - 2,074,834,788 XP - 0 coins - Godsland - Gd>
+\<841hp 638+62ma 200mv\> +10 \<indoors - 2,074,834,788 XP - 0 coins - Godsland - Gd\>
 
 A woozle panics and bolts for the nearest exit.
 
@@ -348,7 +348,7 @@ A woozle stumbles over a grave to the south.
 
 A woozle looks around nervously and trembles with excitement.
 
-<841hp 638+62ma 200mv> +10 <indoors - 2,074,834,788 XP - 0 coins - Godsland - Gd>
+\<841hp 638+62ma 200mv\> +10 \<indoors - 2,074,834,788 XP - 0 coins - Godsland - Gd\>
 
 A woozle panics and bolts for the nearest exit.
 
@@ -394,19 +394,19 @@ A woozle bumps into a wall to the south.
 
 A woozle looks around nervously and trembles with excitement.
 
-<841hp 638+62ma 200mv> +10 <indoors - 2,074,834,788 XP - 0 coins - Godsland - Gd>
+\<841hp 638+62ma 200mv\> +10 \<indoors - 2,074,834,788 XP - 0 coins - Godsland - Gd\>
 
 where
 
-You are in Aisholm Town.  Also in this area are:
+You are in Aisholm Town. Also in this area are:
 
-Name                           - Location
+Name - Location
 
------------------------------------------
+\-----------------------------------------
 
-Madmax                         - The Wide Gate
+Madmax - The Wide Gate
 
-<841hp 638+62ma 200mv> +10 <raining - 2,074,834,788 XP - 0 coins - Aisholm Town - Ah>
+\<841hp 638+62ma 200mv\> +10 \<raining - 2,074,834,788 XP - 0 coins - Aisholm Town - Ah\>
 
 Holy SPAM Batman!
 

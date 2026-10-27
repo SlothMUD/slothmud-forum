@@ -14,13 +14,13 @@ post_count: 2
 
 Many thanks Maniac for the many, many hours put into this large new expansion of areas and new forges, thanks Idjit for the setup and herding of cats of the area(s) opener quest, and Riq for being willing to lead us unruly laggards around.
 
-------------------------------------------------
+\------------------------------------------------
 
 Quest group : ( [https://imgur.com/snCbRN5](https://imgur.com/snCbRN5) )
 
-Riq         Leader
+Riq Leader
 
-Linx        Point
+Linx Point
 
 Belrath
 
@@ -66,7 +66,7 @@ Broccoli
 
 Aubec
 
-------------------------------------------------
+\------------------------------------------------
 
 Dark Valk 
 
@@ -82,7 +82,7 @@ Shards of darkness are required for the forges and pop randomly.
 
 Some of areas have timed quests with sceptre - if you complete area mobs in time limit one of the EU epics spawns (Mammon for Dark Mandelbrot Mansion for example)
 
-------------------------------------------------------------
+\------------------------------------------------------------
 
 Dark Valk Forges
 
@@ -94,39 +94,39 @@ list
 
 I can forge:
 
- Cost      Item
+ Cost Item
 
-----------------------
+\----------------------
 
-+1000000   a brilliant chromatic star
+\+1000000 a brilliant chromatic star
 
-+10000000  the ethereal sash of nigi-mitama
+\+10000000 the ethereal sash of nigi-mitama
 
-*10000000  an ivory harp of the davidic covenant
+\*10000000 an ivory harp of the davidic covenant
 
-+10000000  a shimmering belt of nature's wrath
+\+10000000 a shimmering belt of nature's wrath
 
-+10000000  a pair of enchanted demonskin bracers
+\+10000000 a pair of enchanted demonskin bracers
 
-+10000000  a mithril belt of molten earth
+\+10000000 a mithril belt of molten earth
 
-+10000000  a shimmering shield of shadow and pain
+\+10000000 a shimmering shield of shadow and pain
 
-*10000000  the ancient sash of life and death
+\*10000000 the ancient sash of life and death
 
-+10000000  an interwoven belt of fire and ice
+\+10000000 an interwoven belt of fire and ice
 
-+5000000   the pulsating heart of darkness
+\+5000000 the pulsating heart of darkness
 
-----------------------
+\----------------------
 
-* means you need more levels to use it.
+\* means you need more levels to use it.
 
 ! means you are not strong enough to use it.
 
-& means you have studied this spellbook or manual to its max.
+\& means you have studied this spellbook or manual to its max.
 
-+ Means that a list of cps can be viewed.
+\+ Means that a list of cps can be viewed.
 
 Query may also be of use to you, please refer to help query.
 
@@ -144,11 +144,11 @@ Weight: 1, Value: 15000gold, Worn in: TAKE
 
 Requires: 1000000 coins, 1x a small emerald star (0), 
 
-  1x a small sapphire star (0), 1x a small diamond star (0), 1x a small onyx star (0), 
+ 1x a small sapphire star (0), 1x a small diamond star (0), 1x a small onyx star (0), 
 
-  1x a small ruby star (0), 1x a small tiger eye star (0), 1x a small alexandrite star (0), 
+ 1x a small ruby star (0), 1x a small tiger eye star (0), 1x a small alexandrite star (0), 
 
-  1x a small aventurine star (0)
+ 1x a small aventurine star (0)
 
 query master about ethereal
 
@@ -166,11 +166,11 @@ Weight: 3, Value: 15000gold, Worn in: TAKE WAIST
 
 Can affect you as:
 
-    Affects: MAX_CON by 1
+ Affects: MAX\_CON by 1
 
-    Affects: HAND_DAMAGE by 2
+ Affects: HAND\_DAMAGE by 2
 
-    Affects: ARMOR by -2
+ Affects: ARMOR by -2
 
 The item has 2 additional magical abilities.
 
@@ -180,19 +180,19 @@ at least six classes may use this item.
 
 Requires: 10000000 coins, 1x the pulsating heart of darkness (0), 
 
-  1x a dark black scale (0), 1x a small metal clasp (0), 
+ 1x a dark black scale (0), 1x a small metal clasp (0), 
 
-  1x the heart of a majestic beast (0), 1x the heart of a brass dragon (0), 
+ 1x the heart of a majestic beast (0), 1x the heart of a brass dragon (0), 
 
-  1x the heart of a green dragon (0), 1x the heart of an alpha gorilla (0), 
+ 1x the heart of a green dragon (0), 1x the heart of an alpha gorilla (0), 
 
-  1x a treatise on reaching other dimensions (0), 1x a pair of heavy working gloves (0), 
+ 1x a treatise on reaching other dimensions (0), 1x a pair of heavy working gloves (0), 
 
-  1x a brilliant chromatic star (0), 1x a gold link belt (0), 1x a belt of liquid fire (0), 
+ 1x a brilliant chromatic star (0), 1x a gold link belt (0), 1x a belt of liquid fire (0), 
 
-  1x gleaming leg plates (0), 1x a sphere of smoldering plasma (0), 
+ 1x gleaming leg plates (0), 1x a sphere of smoldering plasma (0), 
 
-  1x the ring of the destroyer (0), 1x a hovering circle of rune stones (0)
+ 1x the ring of the destroyer (0), 1x a hovering circle of rune stones (0)
 
 query master about ivory
 
@@ -208,15 +208,15 @@ Weight: 3, Value: 15000gold, Worn in: TAKE INSTRUMENT
 
 This instrument enhances accompanied bard songs.
 
-   Bard effects last 200% longer.
+ Bard effects last 200% longer.
 
-   Bard songs use 28% less mana.
+ Bard songs use 28% less mana.
 
-   Bard songs can be heard by 5 more people.
+ Bard songs can be heard by 5 more people.
 
 Can affect you as:
 
-    Affects: CHARISMA by 3
+ Affects: CHARISMA by 3
 
 The item has 1 additional magical ability.
 
@@ -226,17 +226,17 @@ least six classes may use this item.
 
 Requires: 10000000 coins, 1x the pulsating heart of darkness (0), 
 
-  1x a treatise detailing group theory (0), 1x an old harmonica with ivory inlays (0), 
+ 1x a treatise detailing group theory (0), 1x an old harmonica with ivory inlays (0), 
 
-  1x an ivory carving knife (0), 1x an enchanted ivory sceptre (0), 1x a velvet top hot (0), 
+ 1x an ivory carving knife (0), 1x an enchanted ivory sceptre (0), 1x a velvet top hot (0), 
 
-  1x a jet black blade of power (0), 1x a canvas sack (0), 
+ 1x a jet black blade of power (0), 1x a canvas sack (0), 
 
-  1x silk and deerskin walking boots (0), 1x an ivory horn mouthpiece (0), 
+ 1x silk and deerskin walking boots (0), 1x an ivory horn mouthpiece (0), 
 
-  1x a small ivory pendant (0), 1x a hollowed ram's horn shofar (1), 1x the kithara (0), 
+ 1x a small ivory pendant (0), 1x a hollowed ram's horn shofar (1), 1x the kithara (0), 
 
-  1x a viol (0), 1x a silver leaf tiara (0), 1x the cloak of sacred psalms (0)
+ 1x a viol (0), 1x a silver leaf tiara (0), 1x the cloak of sacred psalms (0)
 
 query master about shimmering
 
@@ -254,33 +254,33 @@ Weight: 3, Value: 15000gold, Worn in: TAKE WAIST
 
 Can affect you as:
 
-    Affects: ARMOR by -2
+ Affects: ARMOR by -2
 
-    Affects: SAVING_BREATH by -2
+ Affects: SAVING\_BREATH by -2
 
-    Affects: SAVING_SPELL by -2
+ Affects: SAVING\_SPELL by -2
 
-    Affects: SAVING_POISON by -2
+ Affects: SAVING\_POISON by -2
 
 The item has 2 additional magical abilities.
 
 Requires: 10000000 coins, 1x the pulsating heart of darkness (0), 
 
-  1x a treatise detailing logic and reason (0), 1x a heavy steel nosering (0), 
+ 1x a treatise detailing logic and reason (0), 1x a heavy steel nosering (0), 
 
-  1x a small emerald leaf (0), 1x a gnarled walking stick (0), 
+ 1x a small emerald leaf (0), 1x a gnarled walking stick (0), 
 
-  1x a bundle of brown moose hair (0), 1x a sharp wooden tooth (0), 
+ 1x a bundle of brown moose hair (0), 1x a sharp wooden tooth (0), 
 
-  1x a bundle of white wool (0), 1x a bundle of glossy centaur hair (0), 
+ 1x a bundle of white wool (0), 1x a bundle of glossy centaur hair (0), 
 
-  1x several strips of dragonhide leather (0), 1x a silver tooth (0), 
+ 1x several strips of dragonhide leather (0), 1x a silver tooth (0), 
 
-  1x a sinuous lavender cincture (0), 1x a soft white sash (1), 1x a clipped feather (0), 
+ 1x a sinuous lavender cincture (0), 1x a soft white sash (1), 1x a clipped feather (0), 
 
-  1x tendrils of kudzu..it glows green! (0), 
+ 1x tendrils of kudzu..it glows green! (0), 
 
-  1x an ember-encrusted shield..it glows green! (0)
+ 1x an ember-encrusted shield..it glows green! (0)
 
 query master about demonskin
 
@@ -298,13 +298,13 @@ Weight: 3, Value: 15000gold, Worn in: TAKE ARMS
 
 Can affect you as:
 
-    Affects: ARMOR by -5
+ Affects: ARMOR by -5
 
-    Affects: REDUCE_DAMAGE by 1
+ Affects: REDUCE\_DAMAGE by 1
 
-    Affects: BONUS_REDUCE_DAMAGE by 1
+ Affects: BONUS\_REDUCE\_DAMAGE by 1
 
-    Affects: MAX_STR by 1
+ Affects: MAX\_STR by 1
 
 The item has 1 additional magical ability.
 
@@ -314,19 +314,19 @@ item.
 
 Requires: 10000000 coins, 1x the pulsating heart of darkness (0), 
 
-  1x a treatise detailing geometric progressions (0), 1x a small diamond leaf (0), 
+ 1x a treatise detailing geometric progressions (0), 1x a small diamond leaf (0), 
 
-  1x a leprous finger (0), 1x an enchanted black sceptre (0), 
+ 1x a leprous finger (0), 1x an enchanted black sceptre (0), 
 
-  1x an emerald-green dragonscale (0), 1x a filthy black robe (0), 
+ 1x an emerald-green dragonscale (0), 1x a filthy black robe (0), 
 
-  1x a small book with a red eye on its cover (0), 1x a filthy loincloth (0), 
+ 1x a small book with a red eye on its cover (0), 1x a filthy loincloth (0), 
 
-  1x a patched black robe (0), 1x a black woolen cowl (0), 1x a black demon-skin bracer (0), 
+ 1x a patched black robe (0), 1x a black woolen cowl (0), 1x a black demon-skin bracer (0), 
 
-  1x a crimson doublet (0), 1x a choker of blue flame (2), 
+ 1x a crimson doublet (0), 1x a choker of blue flame (2), 
 
-  1x a choker of midnight sapphires (2), 1x a purple dragon's claw (0)
+ 1x a choker of midnight sapphires (2), 1x a purple dragon's claw (0)
 
 query master about molten
 
@@ -344,11 +344,11 @@ Weight: 3, Value: 15000gold, Worn in: TAKE WAIST
 
 Can affect you as:
 
-    Affects: ARMOR by -5
+ Affects: ARMOR by -5
 
-    Affects: BONUS_WEAPONDAM by 2
+ Affects: BONUS\_WEAPONDAM by 2
 
-    Affects: MAX_STR by 1
+ Affects: MAX\_STR by 1
 
 The item has 1 additional magical ability.
 
@@ -358,21 +358,21 @@ item.
 
 Requires: 10000000 coins, 1x the pulsating heart of darkness (0), 
 
-  1x a lead flask of molten lava (0), 1x a heavy blacksmith's hammer (0), 
+ 1x a lead flask of molten lava (0), 1x a heavy blacksmith's hammer (0), 
 
-  1x a reinforced leather apron (0), 1x a set of razor-sharp fangs (0), 
+ 1x a reinforced leather apron (0), 1x a set of razor-sharp fangs (0), 
 
-  1x a large igneous rock veined with mithril (0), 1x a dragonskin pouch (0), 
+ 1x a large igneous rock veined with mithril (0), 1x a dragonskin pouch (0), 
 
-  1x a set of silver bicep rings (0), 1x a mithril gauntlet missing two fingers (0), 
+ 1x a set of silver bicep rings (0), 1x a mithril gauntlet missing two fingers (0), 
 
-  1x a thick iron wedding ring (0), 1x a heavy granite pendant (0), 
+ 1x a thick iron wedding ring (0), 1x a heavy granite pendant (0), 
 
-  1x the berserker's girdle (0), 1x gauntlets of ogre power (0), 
+ 1x the berserker's girdle (0), 1x gauntlets of ogre power (0), 
 
-  1x the orb of eternal light (0), 1x smoky sapphire sleeves (0), 
+ 1x the orb of eternal light (0), 1x smoky sapphire sleeves (0), 
 
-  1x a bracer of annihilation (0)
+ 1x a bracer of annihilation (0)
 
 query master about shadow
 
@@ -390,11 +390,11 @@ Weight: 3, Value: 15000gold, Worn in: TAKE SHIELD
 
 Can affect you as:
 
-    Affects: ARMOR by -10
+ Affects: ARMOR by -10
 
-    Affects: REDUCE_DAMAGE by 1
+ Affects: REDUCE\_DAMAGE by 1
 
-    Affects: BONUS_STAB_DAM by 2
+ Affects: BONUS\_STAB\_DAM by 2
 
 The item has 1 additional magical ability.
 
@@ -404,19 +404,19 @@ at least six classes may use this item.
 
 Requires: 10000000 coins, 1x the pulsating heart of darkness (0), 
 
-  1x a wooden abacus (0), 1x a flask of distilled alcohol (0), 1x a vial of black ink (0), 
+ 1x a wooden abacus (0), 1x a flask of distilled alcohol (0), 1x a vial of black ink (0), 
 
-  1x the claw of a massive beast (0), 1x an ebony shard of shadows (0), 
+ 1x the claw of a massive beast (0), 1x an ebony shard of shadows (0), 
 
-  1x a jet black blindfold (0), 1x a large metal spring (0), 1x a vial of chloroform (0), 
+ 1x a jet black blindfold (0), 1x a large metal spring (0), 1x a vial of chloroform (0), 
 
-  1x a shimmering piece of formica (0), 1x a jet black pendant (0), 
+ 1x a shimmering piece of formica (0), 1x a jet black pendant (0), 
 
-  1x a shield of fiendish delights (0), 1x an interwoven band of black onyx (0), 
+ 1x a shield of fiendish delights (0), 1x an interwoven band of black onyx (0), 
 
-  1x an interwoven band of white onyx (0), 1x a silver uchikomi dagger (0), 
+ 1x an interwoven band of white onyx (0), 1x a silver uchikomi dagger (0), 
 
-  1x silver wings of the archon (0)
+ 1x silver wings of the archon (0)
 
 query master about life
 
@@ -434,13 +434,13 @@ Weight: 3, Value: 15000gold, Worn in: TAKE WAIST
 
 Can affect you as:
 
-    Affects: ARMOR by -2
+ Affects: ARMOR by -2
 
-    Affects: HEAL_BONUS by 5
+ Affects: HEAL\_BONUS by 5
 
-    Affects: BONUS_HEAL_BONUS by 5
+ Affects: BONUS\_HEAL\_BONUS by 5
 
-    Affects: SAVING_SPELL by -1
+ Affects: SAVING\_SPELL by -1
 
 The item has 1 additional magical ability.
 
@@ -450,17 +450,17 @@ at least six classes may use this item.
 
 Requires: 10000000 coins, 1x the pulsating heart of darkness (0), 
 
-  1x a thin silk nightgown (0), 1x scriptures about the afterlife (0), 
+ 1x a thin silk nightgown (0), 1x scriptures about the afterlife (0), 
 
-  1x a small golden leaf (0), 1x an electrified scale (0), 1x a bloodstained dagger (0), 
+ 1x a small golden leaf (0), 1x an electrified scale (0), 1x a bloodstained dagger (0), 
 
-  1x a glowing dagger (0), 1x a kingsfoil leaf (0), 1x a crystal vial of healing salve (0), 
+ 1x a glowing dagger (0), 1x a kingsfoil leaf (0), 1x a crystal vial of healing salve (0), 
 
-  1x a thin blue sash (0), 1x a sharp, steel trocar (0), 1x a girdle of frost (0), 
+ 1x a thin blue sash (0), 1x a sharp, steel trocar (0), 1x a girdle of frost (0), 
 
-  1x a brown friar's cowl (0), 1x a ring of life (0), 1x a ring of imminent death (0), 
+ 1x a brown friar's cowl (0), 1x a ring of life (0), 1x a ring of imminent death (0), 
 
-  1x a golden bracelet of the sun (3)
+ 1x a golden bracelet of the sun (3)
 
 query master about fire
 
@@ -478,15 +478,15 @@ Weight: 3, Value: 15000gold, Worn in: TAKE WAIST
 
 Can affect you as:
 
-    Affects: ARMOR by -1
+ Affects: ARMOR by -1
 
-    Affects: SPELL_BONUS by 12
+ Affects: SPELL\_BONUS by 12
 
-    Affects: SAVING_SPELL by -1
+ Affects: SAVING\_SPELL by -1
 
-    Affects: RESIST_FIRE by 10
+ Affects: RESIST\_FIRE by 10
 
-    Affects: RESIST_COLD by 10
+ Affects: RESIST\_COLD by 10
 
 The item has 1 additional magical ability.
 
@@ -496,17 +496,17 @@ supremacy in at least six classes may use this item.
 
 Requires: 10000000 coins, 1x the pulsating heart of darkness (0), 
 
-  1x a lead flask of molten lava (0), 1x a lead flask of liquid nitrogen (0), 
+ 1x a lead flask of molten lava (0), 1x a lead flask of liquid nitrogen (0), 
 
-  1x a small crystal leaf (0), 1x a small shadowdiamond (0), 1x a small moondiamond (0), 
+ 1x a small crystal leaf (0), 1x a small shadowdiamond (0), 1x a small moondiamond (0), 
 
-  1x an interwoven sash of red and blue silk (0), 1x a small crystal acorn (0), 
+ 1x an interwoven sash of red and blue silk (0), 1x a small crystal acorn (0), 
 
-  1x a small crystal wand (0), 1x a small sapphire sceptre (0), 1x an icy blue pendant (0), 
+ 1x a small crystal wand (0), 1x a small sapphire sceptre (0), 1x an icy blue pendant (0), 
 
-  1x a sash of cadaverous flesh (2), 1x a cloak of frozen strands (0), 
+ 1x a sash of cadaverous flesh (2), 1x a cloak of frozen strands (0), 
 
-  1x black robe of the magi (0), 1x a ring of starlight (0), 1x a lightning sceptre (0)
+ 1x black robe of the magi (0), 1x a ring of starlight (0), 1x a lightning sceptre (0)
 
 query master about darkness
 
@@ -534,41 +534,41 @@ I can forge:
 
 Cost Item
 
-----------------------
+\----------------------
 
-+1000000 a brilliant chromatic star
+\+1000000 a brilliant chromatic star
 
-+10000000 the ethereal sash of nigi-mitama
+\+10000000 the ethereal sash of nigi-mitama
 
-*10000000 an ivory harp of the davidic covenant
+\*10000000 an ivory harp of the davidic covenant
 
-+10000000 a shimmering belt of nature's wrath
+\+10000000 a shimmering belt of nature's wrath
 
-+10000000 a pair of enchanted demonskin bracers
+\+10000000 a pair of enchanted demonskin bracers
 
-+10000000 a mithril belt of molten earth
+\+10000000 a mithril belt of molten earth
 
-+10000000 a shimmering shield of shadow and pain
+\+10000000 a shimmering shield of shadow and pain
 
-*10000000 the ancient sash of life and death
+\*10000000 the ancient sash of life and death
 
-+10000000 an interwoven belt of fire and ice
+\+10000000 an interwoven belt of fire and ice
 
-+5000000 the pulsating heart of darkness
+\+5000000 the pulsating heart of darkness
 
-----------------------
+\----------------------
 
-* means you need more levels to use it.
+\* means you need more levels to use it.
 
 ! means you are not strong enough to use it.
 
-& means you have studied this spellbook or manual to its max.
+\& means you have studied this spellbook or manual to its max.
 
-+ Means that a list of cps can be viewed.
+\+ Means that a list of cps can be viewed.
 
 Query may also be of use to you, please refer to help query.
 
-_________________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 query master about brilliant
 
@@ -594,7 +594,7 @@ Locations:
 
 All of these pop on the named mobs-minus Orion- in Dark Star City (on main streets)
 
-________________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 query master about ethereal
 
@@ -612,9 +612,9 @@ Weight: 3, Value: 15000gold, Worn in: TAKE WAIST
 
 Can affect you as:
 
-Affects: MAX_CON by 1
+Affects: MAX\_CON by 1
 
-Affects: HAND_DAMAGE by 2
+Affects: HAND\_DAMAGE by 2
 
 Affects: ARMOR by -2
 
@@ -678,13 +678,13 @@ a hovering circle of rune stones- devilish innkeeper- City of Dis, EU
 
 Notes for any pops from Jack in box in Attics:
 
-- Go down from carpenter in newbie attics. There are 4 mobs (all toys) that spawn there in easternmost room.
+\- Go down from carpenter in newbie attics. There are 4 mobs (all toys) that spawn there in easternmost room.
 
-- Cycle all in room until you get jack in box to spawn (on area repop).
+\- Cycle all in room until you get jack in box to spawn (on area repop).
 
-- There can be 2 jack-in-box, 1 bigger then the other. Small box pops clasp, the other pop metal spring. Loads on death only.
+\- There can be 2 jack-in-box, 1 bigger then the other. Small box pops clasp, the other pop metal spring. Loads on death only.
 
-_________________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 query master about ivory
 
@@ -764,7 +764,7 @@ a silver leaf tiara- the sorceress Karsec'Dyn- Mercurial Woods, AH
 
 the cloak of sacred psalms- Polyhymnia- Temple of Mnemosyne, AH
 
-________________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 query master about shimmering
 
@@ -784,11 +784,11 @@ Can affect you as:
 
 Affects: ARMOR by -2
 
-Affects: SAVING_BREATH by -2
+Affects: SAVING\_BREATH by -2
 
-Affects: SAVING_SPELL by -2
+Affects: SAVING\_SPELL by -2
 
-Affects: SAVING_POISON by -2
+Affects: SAVING\_POISON by -2
 
 The item has 2 additional magical abilities.
 
@@ -846,7 +846,7 @@ tendrils of kudzu..it glows green!- roof inspector- Athenaeum, Island
 
 an ember-encrusted shield..it glows green!- crimson bloodninja- Athenaeum, Island
 
-_____________________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 query master about demonskin
 
@@ -866,11 +866,11 @@ Can affect you as:
 
 Affects: ARMOR by -5
 
-Affects: REDUCE_DAMAGE by 1
+Affects: REDUCE\_DAMAGE by 1
 
-Affects: BONUS_REDUCE_DAMAGE by 1
+Affects: BONUS\_REDUCE\_DAMAGE by 1
 
-Affects: MAX_STR by 1
+Affects: MAX\_STR by 1
 
 The item has 1 additional magical ability.
 
@@ -928,7 +928,7 @@ a choker of midnight sapphires- Poseidon's Realm forge, Lyme
 
 a purple dragon's claw- purple dragon- Chaeston
 
-_________________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 query master about molten
 
@@ -948,9 +948,9 @@ Can affect you as:
 
 Affects: ARMOR by -5
 
-Affects: BONUS_WEAPONDAM by 2
+Affects: BONUS\_WEAPONDAM by 2
 
-Affects: MAX_STR by 1
+Affects: MAX\_STR by 1
 
 The item has 1 additional magical ability.
 
@@ -1010,7 +1010,7 @@ smoky sapphire sleeves- Ehkhak- Plane of Smoke, EU
 
 a bracer of annihilation- Inanna- Phlegethos, EU
 
-________________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 query master about shadow
 
@@ -1030,9 +1030,9 @@ Can affect you as:
 
 Affects: ARMOR by -10
 
-Affects: REDUCE_DAMAGE by 1
+Affects: REDUCE\_DAMAGE by 1
 
-Affects: BONUS_STAB_DAM by 2
+Affects: BONUS\_STAB\_DAM by 2
 
 The item has 1 additional magical ability.
 
@@ -1090,13 +1090,13 @@ silver wings of the archon- archon of dusk- Heliopolis, BH
 
 Notes for any pops from Jack in box in Attics:
 
-- Go down from carpenter in newbie attics. There are 4 mobs (all toys) that spawn there in easternmost room.
+\- Go down from carpenter in newbie attics. There are 4 mobs (all toys) that spawn there in easternmost room.
 
-- Cycle all in room until you get jack in box to spawn (on area repop).
+\- Cycle all in room until you get jack in box to spawn (on area repop).
 
-- There can be 2 jack-in-box, 1 bigger then the other. Small box pops clasp, the other pop metal spring. Loads on death only.
+\- There can be 2 jack-in-box, 1 bigger then the other. Small box pops clasp, the other pop metal spring. Loads on death only.
 
-________________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 query master about life
 
@@ -1116,11 +1116,11 @@ Can affect you as:
 
 Affects: ARMOR by -2
 
-Affects: HEAL_BONUS by 5
+Affects: HEAL\_BONUS by 5
 
-Affects: BONUS_HEAL_BONUS by 5
+Affects: BONUS\_HEAL\_BONUS by 5
 
-Affects: SAVING_SPELL by -1
+Affects: SAVING\_SPELL by -1
 
 The item has 1 additional magical ability.
 
@@ -1176,7 +1176,7 @@ a ring of imminent death- a wraith guard- Darken Wood, BH
 
 a golden bracelet of the sun- the High Priestess of Helios - The Heliopolis, BH
 
-_______________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 query master about fire
 
@@ -1196,13 +1196,13 @@ Can affect you as:
 
 Affects: ARMOR by -1
 
-Affects: SPELL_BONUS by 12
+Affects: SPELL\_BONUS by 12
 
-Affects: SAVING_SPELL by -1
+Affects: SAVING\_SPELL by -1
 
-Affects: RESIST_FIRE by 10
+Affects: RESIST\_FIRE by 10
 
-Affects: RESIST_COLD by 10
+Affects: RESIST\_COLD by 10
 
 The item has 1 additional magical ability.
 
@@ -1258,7 +1258,7 @@ a ring of starlight- spirit of flame- Plane of Fire, EU
 
 a lightning sceptre- Ogoun- Dark Covenant, BH
 
-________________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 query master about darkness
 
@@ -1280,6 +1280,6 @@ pulsating shard of darkness-low chance to pop on all mobs in Dark Valk areas (ra
 
 Thanks to Maniac for building these areas and thanks to all who contributed to helping create this list.
 
--Ezekiel
+\-Ezekiel
 
 </div>

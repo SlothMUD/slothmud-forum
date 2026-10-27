@@ -22,7 +22,7 @@ You recite an identify scroll which dissolves.
 
 You feel informed:
 
-Object 'granite bust stoic dwarf *Ghoul*', Item type: TREASURE
+Object 'granite bust stoic dwarf \*Ghoul\*', Item type: TREASURE
 
 Item is: PERSONAL RESTRUNG 
 

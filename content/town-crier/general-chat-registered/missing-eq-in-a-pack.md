@@ -14,10 +14,10 @@ post_count: 1
 
 Hello guys,
 
-I'm wondering if anyone came across a backpack in BH inn with some ac gear eq recently. If someone did, could you please contact me, as I could use my gear back :)
+I'm wondering if anyone came across a backpack in BH inn with some ac gear eq recently. If someone did, could you please contact me, as I could use my gear back <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Thank you,
 
--Rig
+\-Rig
 
 </div>

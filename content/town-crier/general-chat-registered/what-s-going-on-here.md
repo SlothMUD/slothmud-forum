@@ -14,23 +14,23 @@ post_count: 15
 
 Isolation Chamber
 
-   There are no windows to ventilate this ward, and a single iron door to 
+ There are no windows to ventilate this ward, and a single iron door to 
 
-the west seals the room off from the rest of the hospital.  A single 
+the west seals the room off from the rest of the hospital. A single 
 
-hospital bed sits in the center of the room.  There is not much other 
+hospital bed sits in the center of the room. There is not much other 
 
 furniture, except for two small instrument tables, and a bowl on the floor, 
 
-which is filled with a mixture of blood and mucus.  A stale yet pungent 
+which is filled with a mixture of blood and mucus. A stale yet pungent 
 
 smell hangs in the air.
 
-Exits: West  
+Exits: West 
 
 A burley, middle-aged dwarven miner lies on the floor, retching in his sleep.
 
-<1356hp 582ma 335mv 2645043209xp -10.2ac -%>
+\<1356hp 582ma 335mv 2645043209xp -10.2ac -%\>
 
 dg pox;str
 
@@ -42,7 +42,7 @@ deathgrip pox;release
 
 You yell 'LEEEEEROOOY JEEEENKINS!!!'
 
-<1356hp 583ma 336mv 2645043209xp -10.2ac -%>
+\<1356hp 583ma 336mv 2645043209xp -10.2ac -%\>
 
 A gagging pox victim hates your guts!
 
@@ -54,41 +54,41 @@ You circle around a gagging pox victim and expertly put him in a deathgrip.
 
 @@
 
-<1496hp 583ma 316mv 2645101449xp -10.2ac 28%>
+\<1496hp 583ma 316mv 2645101449xp -10.2ac 28%\>
 
 With a mighty effort, you shake off your exhaustion!
 
 You release a gagging pox victim from your grip.
 
-<1356hp 584ma 302mv 2645101449xp -10.2ac -%>
+\<1356hp 584ma 302mv 2645101449xp -10.2ac -%\>
 
 Strike who?
 
-<1356hp 584ma 302mv 2645101449xp -10.2ac -%>
+\<1356hp 584ma 302mv 2645101449xp -10.2ac -%\>
 
 You aren't even fighting anybody!
 
-<1356hp 584ma 302mv 2645101449xp -10.2ac -%>
+\<1356hp 584ma 302mv 2645101449xp -10.2ac -%\>
 
-<1356hp 584ma 302mv 2645101449xp -10.2ac -%>
+\<1356hp 584ma 302mv 2645101449xp -10.2ac -%\>
 
 l
 
 Isolation Chamber
 
-   There are no windows to ventilate this ward, and a single iron door to 
+ There are no windows to ventilate this ward, and a single iron door to 
 
-the west seals the room off from the rest of the hospital.  A single 
+the west seals the room off from the rest of the hospital. A single 
 
-hospital bed sits in the center of the room.  There is not much other 
+hospital bed sits in the center of the room. There is not much other 
 
 furniture, except for two small instrument tables, and a bowl on the floor, 
 
-which is filled with a mixture of blood and mucus.  A stale yet pungent 
+which is filled with a mixture of blood and mucus. A stale yet pungent 
 
 smell hangs in the air.
 
-Exits: West  
+Exits: West 
 
 A gagging pox victim is standing here.
 
@@ -132,7 +132,7 @@ deathgrip pox;release
 
 You yell 'LEEEEEROOOY JEEEENKINS!!!'
 
-<1356hp 564ma 391mv 681484119xp -10.2ac -%>
+\<1356hp 564ma 391mv 681484119xp -10.2ac -%\>
 
 A gagging pox victim hates your guts!
 
@@ -144,17 +144,17 @@ You circle around a gagging pox victim and expertly put him in a deathgrip.
 
 @@
 
-<1496hp 564ma 371mv 681513759xp -10.2ac 18%>
+\<1496hp 564ma 371mv 681513759xp -10.2ac 18%\>
 
 With a mighty effort, you shake off your exhaustion!
 
 You release a gagging pox victim from your grip.
 
-<1356hp 565ma 357mv 681513759xp -10.2ac -%>
+\<1356hp 565ma 357mv 681513759xp -10.2ac -%\>
 
 Strike who?
 
-<1356hp 565ma 357mv 681513759xp -10.2ac -%>
+\<1356hp 565ma 357mv 681513759xp -10.2ac -%\>
 
 You aren't even fighting anybody!
 
@@ -174,7 +174,7 @@ You circle around lazy lighting stagehand and expertly put him in a deathgrip.
 
 @@
 
-<1473hp 267ma 381mv 1266542942xp -10.2ac 67%>
+\<1473hp 267ma 381mv 1266542942xp -10.2ac 67%\>
 
 With a mighty effort, you shake off your exhaustion!
 
@@ -186,11 +186,11 @@ Lazy lighting stagehand growls at you and attacks!
 
 Lazy lighting stagehand misses you with his hit.
 
-<1473hp 252ma 366mv 1266542942xp -10.2ac 67%>
+\<1473hp 252ma 366mv 1266542942xp -10.2ac 67%\>
 
 You release lazy lighting stagehand from your grip.
 
-<1481hp 255ma 370mv 1266542942xp -10.2ac 67%>
+\<1481hp 255ma 370mv 1266542942xp -10.2ac 67%\>
 
 You land a powerful strike into lazy lighting stagehand's side.
 
@@ -198,25 +198,25 @@ strike
 
 @@
 
-<1484hp 256ma 371mv 1266554915xp -10.2ac 58%>
+\<1484hp 256ma 371mv 1266554915xp -10.2ac 58%\>
 
 You viciously massacre lazy lighting stagehand with your hit.
 
-<1344hp 256ma 371mv 1266559185xp -10.2ac -%>
+\<1344hp 256ma 371mv 1266559185xp -10.2ac -%\>
 
 Impossible to use this so soon after a successful second wind!!!
 
-<1344hp 256ma 371mv 1266559185xp -10.2ac -%>
+\<1344hp 256ma 371mv 1266559185xp -10.2ac -%\>
 
 You get yourself in position to strike with a flurry of blows.
 
-<1351hp 259ma 351mv 1266559185xp -10.2ac -%>
+\<1351hp 259ma 351mv 1266559185xp -10.2ac -%\>
 
 You aren't even fighting anybody!
 
-<1355hp 261ma 353mv 1266559185xp -10.2ac -%>
+\<1355hp 261ma 353mv 1266559185xp -10.2ac -%\>
 
-<1355hp 261ma 353mv 1266559185xp -10.2ac -%>
+\<1355hp 261ma 353mv 1266559185xp -10.2ac -%\>
 
 Strike who?
 
@@ -238,7 +238,7 @@ You circle around lazy lighting stagehand and expertly put him in a deathgrip.
 
 @@
 
-<1488hp 215ma 422mv 943553302xp -10.2ac 68%>
+\<1488hp 215ma 422mv 943553302xp -10.2ac 68%\>
 
 With a mighty effort, you shake off your exhaustion!
 
@@ -250,21 +250,21 @@ Lazy lighting stagehand growls at you and attacks!
 
 Lazy lighting stagehand misses you with his hit.
 
-<1491hp 201ma 408mv 943553302xp -10.2ac 68%>
+\<1491hp 201ma 408mv 943553302xp -10.2ac 68%\>
 
 You maintain your deathgrip on lazy lighting stagehand.
 
-<1499hp 203ma 412mv 943554484xp -10.2ac 52%>
+\<1499hp 203ma 412mv 943554484xp -10.2ac 52%\>
 
 You release lazy lighting stagehand from your grip.
 
-<1499hp 203ma 412mv 943554484xp -10.2ac 52%>
+\<1499hp 203ma 412mv 943554484xp -10.2ac 52%\>
 
 You viciously massacre lazy lighting stagehand with your hit.
 
 Strike who?
 
-<1359hp 203ma 412mv 943561092xp -10.2ac -%>
+\<1359hp 203ma 412mv 943561092xp -10.2ac -%\>
 
 Standing
 
@@ -288,17 +288,17 @@ You circle around lazy lighting stagehand and expertly put him in a deathgrip.
 
 @@
 
-<1415hp 271ma 324mv 898030972xp -13.6ac 87%>
+\<1415hp 271ma 324mv 898030972xp -13.6ac 87%\>
 
 The 'haste' spell on you is about to wear off.
 
-<1418hp 272ma 325mv 898030972xp -13.6ac 87%>
+\<1418hp 272ma 325mv 898030972xp -13.6ac 87%\>
 
 With a mighty effort, you shake off your exhaustion!
 
 You release lazy lighting stagehand from your grip.
 
-<1418hp 272ma 310mv 898030972xp -13.6ac 87%>
+\<1418hp 272ma 310mv 898030972xp -13.6ac 87%\>
 
 Ok.
 
@@ -308,17 +308,17 @@ Lazy lighting stagehand growls at you and attacks!
 
 You are brutally massacred by lazy lighting stagehand's hit.
 
-<1373hp 257ma 310mv 898030972xp -13.6ac 87%>
+\<1373hp 257ma 310mv 898030972xp -13.6ac 87%\>
 
 You deal a critical blow to one of lazy lighting stagehand's vital organs.
 
 You viciously massacre lazy lighting stagehand with your hit.
 
-<1323hp 259ma 312mv 898032772xp -13.6ac -%>
+\<1323hp 259ma 312mv 898032772xp -13.6ac -%\>
 
 You wield Brilliant Sword of Valor.
 
-<1325hp 260ma 313mv 898032772xp -13.6ac -%>
+\<1325hp 260ma 313mv 898032772xp -13.6ac -%\>
 
 Broadside who?
 
@@ -342,19 +342,19 @@ swear victory
 
 A gagging pox victim makes a strange sound, as you place a thunderbolt in his back.
 
-|;remove bolt;strike
+\|;remove bolt;strike
 
 @@
 
 A gagging pox victim makes a strange sound, as you place a thunderbolt in his back.
 
-<1582hp 651ma 485mv 37667871431xp -8.8ac 21%>
+\<1582hp 651ma 485mv 37667871431xp -8.8ac 21%\>
 
 With a mighty effort, you shake off your exhaustion!
 
 You stop using a thunderbolt.
 
-<1582hp 651ma 470mv 37667871431xp -8.8ac 21%>
+\<1582hp 651ma 470mv 37667871431xp -8.8ac 21%\>
 
 You deal a massive blow to one of a gagging pox victim's vital organs.
 
@@ -368,13 +368,13 @@ Strike who?
 
 Sochi thinks the target is getting nulled on these mobs.
 
-He also thinks someone should unpassword him from the crier as he is currently banned. I'm not sure what is worse, him saying nothing, or saying something...  :twisted:
+He also thinks someone should unpassword him from the crier as he is currently banned. I'm not sure what is worse, him saying nothing, or saying something... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="38937" data-author="*teker*" data-date="2018-06-26T15:42:19+00:00" data-subject="Re: What&#x27;s going on here?">
 
-This is fixed now.  It was actually mobs that were sleeping quietly going back to sleep mid-fight.
+This is fixed now. It was actually mobs that were sleeping quietly going back to sleep mid-fight.
 
 </div>
 
@@ -382,6 +382,6 @@ This is fixed now.  It was actually mobs that were sleeping quietly going back t
 
 You rock Teker! I see you fixed the contemplation timer issue as well, thanks very much.
 
-I'm drafting an email to you about some MSDP issues... no rest for the wicked!  :twisted:  :lol:
+I'm drafting an email to you about some MSDP issues... no rest for the wicked! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>

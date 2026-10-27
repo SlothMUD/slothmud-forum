@@ -14,7 +14,7 @@ post_count: 10
 
 I just wanted to let everybody know that we realize there have been some problems recently. Quite a bit of new code, whether it be bug fixes or additions, have been added recently. With all new code comes a few additional bugs. For the most part, Kjartan has been busy fixing the bigger ones and we should be back to running somewhat smoothly.
 
-We realize that one of the bugs possibly removed doors, rooms, vaults, etc from our game.  We are in the process of figuring out what rooms and areas have been effected and once we do, we will bring them back from our backups. 
+We realize that one of the bugs possibly removed doors, rooms, vaults, etc from our game. We are in the process of figuring out what rooms and areas have been effected and once we do, we will bring them back from our backups. 
 
 We are sorry for any problems you guys have had,
 
@@ -24,7 +24,7 @@ Splork
 
 <div class="post" data-post-id="27327" data-author="Weasel" data-date="2008-11-30T16:59:48+00:00" data-subject="">
 
-Thanks for the update. :)
+Thanks for the update. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -32,31 +32,32 @@ Thanks for the update. :)
 
 Is it possible to make bug that will remove Windows too?
 
-Please!!  :roll:
+Please!! <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="27329" data-author="Weasel" data-date="2008-11-30T17:01:52+00:00" data-subject="">
 
-Is it possible to make bug that will remove Windows too?
-
-Please!!  :roll:[/quote:p9fgnex8]
+> <strong>Vixn wrote:</strong>
+> Is it possible to make bug that will remove Windows too?
+> 
+> Please!! <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 Alt + F4
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="27330" data-author="Virus" data-date="2008-12-01T03:15:26+00:00" data-subject="">
 
-oh good, was wondering what happened to my Lyme vault  :?
+oh good, was wondering what happened to my Lyme vault <img src="/images/smilies/icon_e_confused.svg" alt=":?" title=":?" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="27546" data-author="Virus" data-date="2008-12-29T06:13:33+00:00" data-subject="">
 
-bump...anyone still working on this? not having a vault to store temp cps on Lyme kinda suck   :cry:
+bump...anyone still working on this? not having a vault to store temp cps on Lyme kinda suck <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -84,6 +85,6 @@ Splork
 
 Thanks for fixing my vault Splork
 
--V
+\-V
 
 </div>

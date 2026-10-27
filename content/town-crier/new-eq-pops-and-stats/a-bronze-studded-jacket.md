@@ -12,7 +12,7 @@ post_count: 1
 
 <div class="post" data-post-id="16265" data-author="12345" data-date="2007-01-15T04:00:32+00:00" data-subject="a bronze studded jacket">
 
-Popped this on the shadowy spirits in the mage tower in BH.  Never seen it before... not that it's anything sexy.  Its not on the eqlist.  I tried singing wealth and glory around town with my tiny bard to see if it was a regular pop, but everything said they had never heard of it.
+Popped this on the shadowy spirits in the mage tower in BH. Never seen it before... not that it's anything sexy. Its not on the eqlist. I tried singing wealth and glory around town with my tiny bard to see if it was a regular pop, but everything said they had never heard of it.
 
 a bronze studded jacket
 

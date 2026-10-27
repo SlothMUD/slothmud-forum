@@ -12,19 +12,19 @@ post_count: 17
 
 <div class="post" data-post-id="17605" data-author="Yinao" data-date="2007-03-30T14:45:47+00:00" data-subject="thieves">
 
-First of all.....ALL known pthieves should be perma pkillable period. There is no reason they shouldnt...so what they got a successful steal...WOOT... congrats your an ass who cares. If your a known pthief it just makes logical sense that they should be able to be killed and not flee to a puss cont like VK where you cant kill em via charge or anything, thats rediculus if they have stolen with a char less than than level 20 they shouldnt have the chance to hide on a newbie cont. IF or WHEN i get pthieved thats it i am done, period. I have helped mutliple times to kill pthieves or try to etc whether it is a newb they just made or if they are older chars...  :evil: Bennett -- ' that ****** got my jjd' after that the group was done for all i cared it was time to catch that silly ****** that some how got to SS by the time we finished our CF its rediculus that you cant even succeed in a damn CF without getting pthiefed or that you get thieved dead. What in the hell is a dead person gunna do about being dead and getting thieved? I am glad that ppl are posting this pthief rant but i doubt it will accomplish anything just my 2 cents.
+First of all.....ALL known pthieves should be perma pkillable period. There is no reason they shouldnt...so what they got a successful steal...WOOT... congrats your an ass who cares. If your a known pthief it just makes logical sense that they should be able to be killed and not flee to a puss cont like VK where you cant kill em via charge or anything, thats rediculus if they have stolen with a char less than than level 20 they shouldnt have the chance to hide on a newbie cont. IF or WHEN i get pthieved thats it i am done, period. I have helped mutliple times to kill pthieves or try to etc whether it is a newb they just made or if they are older chars... <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom"> Bennett -- ' that \*\*\*\*\*\* got my jjd' after that the group was done for all i cared it was time to catch that silly \*\*\*\*\*\* that some how got to SS by the time we finished our CF its rediculus that you cant even succeed in a damn CF without getting pthiefed or that you get thieved dead. What in the hell is a dead person gunna do about being dead and getting thieved? I am glad that ppl are posting this pthief rant but i doubt it will accomplish anything just my 2 cents.
 
 </div>
 
 <div class="post" data-post-id="17606" data-author="Yinao" data-date="2007-03-30T14:47:09+00:00" data-subject="">
 
-oh and you can move this to the other one if you feel the need idc i clicked the wrong button i dont post enough to know nor care :)
+oh and you can move this to the other one if you feel the need idc i clicked the wrong button i dont post enough to know nor care <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="17610" data-author="brady" data-date="2007-03-30T18:08:48+00:00" data-subject="">
 
-[img:2o8qym91]http://i73.photobucket.com/albums/i238/mslolabola/CORKY.jpg[/img:2o8qym91]
+![](http://i73.photobucket.com/albums/i238/mslolabola/CORKY.jpg)
 
 </div>
 
@@ -42,13 +42,14 @@ Pertinant question for me - would player base decrease in size or quality if pth
 
 <div class="post" data-post-id="17623" data-author="Poolp" data-date="2007-03-31T08:58:15+00:00" data-subject="Re: thieves">
 
-What in the hell is a dead person gunna do about being dead and getting thieved? [/quote:1bj3d5zy]
+> <strong>Yinao wrote:</strong>
+> What in the hell is a dead person gunna do about being dead and getting thieved?
 
-1. Get raised, and hide valuable stuff/run.
+1\. Get raised, and hide valuable stuff/run.
 
-2. Just remain dead until the pthief is taken care of.
+2\. Just remain dead until the pthief is taken care of.
 
-3. Corpse, so the pthief won't be able to ploot.
+3\. Corpse, so the pthief won't be able to ploot.
 
 Why do I say that? Because you obviously weren't equipped with enough MUD knowledge to know that stealing from dead people have a 100% fail rate.
 
@@ -58,7 +59,7 @@ Good thoughts though, cheers.
 
 <div class="post" data-post-id="17641" data-author="brady" data-date="2007-03-31T17:24:46+00:00" data-subject="">
 
-censored again *sigh*
+censored again \*sigh\*
 
 </div>
 
@@ -76,7 +77,7 @@ All heil Yinao, King of the run-on sentence!
 
 <div class="post" data-post-id="17658" data-author="Hades" data-date="2007-03-31T22:40:41+00:00" data-subject="Skill suggestion">
 
-Non-class skill call  *drum roll*
+Non-class skill call \*drum roll\*
 
 Surrender
 
@@ -84,7 +85,7 @@ Level 1
 
 This will not affect normally aggro MOB's but during battle with regular 
 
-MOB's, a PC can type surrender and give up fighting.  He/She will then forfeit any exp gained from fighting and all he/she has to worry about is said MOB gossipping that said PC gave up and took his ball home.
+MOB's, a PC can type surrender and give up fighting. He/She will then forfeit any exp gained from fighting and all he/she has to worry about is said MOB gossipping that said PC gave up and took his ball home.
 
 example
 
@@ -180,7 +181,7 @@ Note-- I left the really humiliating things Yinao did out, to save him face.
 
 <div class="post" data-post-id="17666" data-author="Yinao" data-date="2007-04-01T01:16:33+00:00" data-subject="">
 
-Hades your a peice of sh!t on the bottom of my shoe anyways, its not like I give a dam* what you say. However, I do find your comments to be rather halarious. Your a pthief, thus no one gives a sh!t about you, disregarding myself, and yet you still manage to show your pitiful face around  :roll:. I would think if I went through half the embarassment that you have on this mud that you wouldnt wanna show up anymore (seems I didnt consider your poor personality).  :twisted: The worst part about it is that could be a good skill for newbies that manage to hit stuff that is a little to large for them.
+Hades your a peice of sh!t on the bottom of my shoe anyways, its not like I give a dam\* what you say. However, I do find your comments to be rather halarious. Your a pthief, thus no one gives a sh!t about you, disregarding myself, and yet you still manage to show your pitiful face around <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">. I would think if I went through half the embarassment that you have on this mud that you wouldnt wanna show up anymore (seems I didnt consider your poor personality). <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> The worst part about it is that could be a good skill for newbies that manage to hit stuff that is a little to large for them.
 
 </div>
 
@@ -192,11 +193,11 @@ I swear I'm only gonna do this one last time then I'm through with it.
 
 Your = something belonging to you.
 
-E.g. I want to steal [b:1zecfwbq]your[/b:1zecfwbq] golden sack full of wonderful items. Which I know about by the way. I group with you a lot.
+E.g. I want to steal <strong>your</strong> golden sack full of wonderful items. Which I know about by the way. I group with you a lot.
 
 You're = you are.
 
-E.g. [b:1zecfwbq]You're[/b:1zecfwbq] going to keep your golden sack away now. Damn =(
+E.g. <strong>You're</strong> going to keep your golden sack away now. Damn =(
 
 Anyways, immort warning to stop posting on this spam thread in
 
@@ -214,18 +215,18 @@ Your a pthief, thus no one gives a sh!t about you, disregarding myself
 
 Thank you Yinao.. I knew you cared
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="17681" data-author="13" data-date="2007-04-01T14:10:20+00:00" data-subject="">
 
-You seriously need some engrish lessons orcs.  Spellcheck buddy.
+You seriously need some engrish lessons orcs. Spellcheck buddy.
 
 </div>
 
 <div class="post" data-post-id="17685" data-author="Yinao" data-date="2007-04-01T17:01:19+00:00" data-subject="">
 
-*yawn*
+\*yawn\*
 
 </div>

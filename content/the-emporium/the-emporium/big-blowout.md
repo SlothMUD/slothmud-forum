@@ -12,9 +12,9 @@ post_count: 27
 
 <div class="post" data-post-id="561" data-author="blackmore" data-date="2004-06-07T03:12:32+00:00" data-subject="Big blowout">
 
-I've got a ton of stuff sitting in a vault, with nothing to do.  For now, just getting rid of things where I have multiples, or don't think it will ever be part of another forge/auto ever.
+I've got a ton of stuff sitting in a vault, with nothing to do. For now, just getting rid of things where I have multiples, or don't think it will ever be part of another forge/auto ever.
 
-My first preference is a trade - high level stuff, and newer stuff only - let me know what you'll give me, and what you want.  Anything I can't get rid of with a trade, I will sell.
+My first preference is a trade - high level stuff, and newer stuff only - let me know what you'll give me, and what you want. Anything I can't get rid of with a trade, I will sell.
 
 5x restring
 
@@ -48,7 +48,7 @@ vial of captured shadows - 500k min
 
 shimmering cloak of many colors - 200k min
 
-I'll close the auction when I'm in the mood.  I'm hanging onto the other 3 restrings - I don't need THAT many coins.
+I'll close the auction when I'm in the mood. I'm hanging onto the other 3 restrings - I don't need THAT many coins.
 
 </div>
 
@@ -60,7 +60,7 @@ I'll close the auction when I'm in the mood.  I'm hanging onto the other 3 restr
 
 <div class="post" data-post-id="649" data-author="Weasel" data-date="2004-06-12T05:48:21+00:00" data-subject="">
 
-both restrings  32mil total bid
+both restrings 32mil total bid
 
 </div>
 
@@ -82,7 +82,7 @@ doh Impz just beat me.. ok
 
 mine
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -126,7 +126,7 @@ vial of captured shadows - 500k
 
 <div class="post" data-post-id="669" data-author="Ker_fyp" data-date="2004-06-13T04:08:59+00:00" data-subject="Ker_fyp">
 
-<P>glowing tome of gods 6mil</P>
+\<P\>glowing tome of gods 6mil\</P\>
 
 </div>
 
@@ -192,7 +192,7 @@ glowing tome of gods 8mil
 
 <div class="post" data-post-id="726" data-author="blackmore" data-date="2004-06-15T21:03:30+00:00" data-subject="">
 
-I'll close the auction tonight when I get on.  It will probably be around 10-11pm Eastern.
+I'll close the auction tonight when I get on. It will probably be around 10-11pm Eastern.
 
 Current high bids:
 

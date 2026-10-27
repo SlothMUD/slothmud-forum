@@ -14,11 +14,11 @@ post_count: 2
 
 This might have been addressed elsewhere on the forums, and if so, my apologies!
 
-I've noticed that my lowbie undead (spectres/ghouls) are apparently missing one eye and are almost completely blind in their other eye... i.e. they have trouble hitting a barn from 5 feet away, as long as the barn has some AC to its name.  In catacombs, my spectres with Unholy Aura had a miss rate of about 90%.  Is this intentional?
+I've noticed that my lowbie undead (spectres/ghouls) are apparently missing one eye and are almost completely blind in their other eye... i.e. they have trouble hitting a barn from 5 feet away, as long as the barn has some AC to its name. In catacombs, my spectres with Unholy Aura had a miss rate of about 90%. Is this intentional?
 
-In general, people have been telling me that undead just kind of suck now.  Which sort of blows for me, since I rolled a classo somewhat reliant on them.  Any information on this issue would be much appreciated. :)
+In general, people have been telling me that undead just kind of suck now. Which sort of blows for me, since I rolled a classo somewhat reliant on them. Any information on this issue would be much appreciated. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-Edit:  I should clarify that this refers specifically to fighting the ghouls/ghasts/wights.  Bigger mobs = more ac, sure.  But I'm mainly curious if undead control equipment now provides more hit than previously.
+Edit: I should clarify that this refers specifically to fighting the ghouls/ghasts/wights. Bigger mobs = more ac, sure. But I'm mainly curious if undead control equipment now provides more hit than previously.
 
 Van
 
@@ -26,11 +26,11 @@ Van
 
 <div class="post" data-post-id="31347" data-author="jezer" data-date="2010-07-07T22:48:27+00:00" data-subject="Re: A spectre looks at you with pity.">
 
-> **van wrote:**
+> <strong>van wrote:</strong>
 > I've noticed that my lowbie undead (spectres/ghouls) are apparently missing one eye and are almost completely blind in their other eye...
 
 Van! Your only supposed to put pirate patches on one eye! 
 
-Sounds like Glaucoma. You do have the new sloth undead medical insurance don't you? This could cost a ton.  :?
+Sounds like Glaucoma. You do have the new sloth undead medical insurance don't you? This could cost a ton. <img src="/images/smilies/icon_e_confused.svg" alt=":?" title=":?" width="15" height="15" class="smiley nozoom">
 
 </div>

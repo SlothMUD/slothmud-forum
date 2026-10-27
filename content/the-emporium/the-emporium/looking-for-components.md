@@ -36,7 +36,7 @@ any cps of Tanzanite of Omah
 
 I have...
 
-+shock gears(band of water, oval stone ring, paint-bucket, mailed gloves, dwarven ringmail)
+\+shock gears(band of water, oval stone ring, paint-bucket, mailed gloves, dwarven ringmail)
 
 mystical eye or its all cps
 
@@ -66,7 +66,7 @@ I want we can make a deal...
 
 Catch me online Gnu/Pendalf/Preemus
 
-we'll make a deal :)
+we'll make a deal <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -80,7 +80,7 @@ Have Mithril Guards.
 
 Got Piece of Inscribed Orc Skin 
 
-Thanks :)
+Thanks <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -96,7 +96,7 @@ Thanks
 
 Got a grain of black sand
 
-Thanks :)
+Thanks <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -130,7 +130,7 @@ any cps of Tanzanite of Omah
 
 I have... 
 
-+shock gears(band of water, oval stone ring, paint-bucket, mailed gloves, dwarven ringmail) 
+\+shock gears(band of water, oval stone ring, paint-bucket, mailed gloves, dwarven ringmail) 
 
 mystical eye cps 
 

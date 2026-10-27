@@ -16,43 +16,43 @@ I made some scripts for TamperMonkey on Chrome.
 
 This one aligns the row number with the row data:
 
-    jQuery( "table" ).eq(1).find("td:first").html(" ");
+ jQuery( "table" ).eq(1).find("td:first").html(" ");
 
-    jQuery( "table" ).eq(5).find("td:first").html(" ");
+ jQuery( "table" ).eq(5).find("td:first").html(" ");
 
-    jQuery( "table" ).eq(9).find("td:first").html(" ");
+ jQuery( "table" ).eq(9).find("td:first").html(" ");
 
 This one highlights a row when you mouse over:
 
-            jQuery("table table").find("td:not(:first)").mouseenter( function(){
+ jQuery("table table").find("td:not(:first)").mouseenter( function(){
 
-            var row=jQuery(this).parent("tr").index();
+ var row=jQuery(this).parent("tr").index();
 
-            var col=jQuery(this).parents("td").index();
+ var col=jQuery(this).parents("td").index();
 
-            jQuery(this).parent().css("background", "#f3f3f3");
+ jQuery(this).parent().css("background", "#f3f3f3");
 
-            jQuery(this).parents("table").parents("tr").children("td").eq((col+1)%4).find("tr").eq(row).css("background", "#f3f3f3")
+ jQuery(this).parents("table").parents("tr").children("td").eq((col+1)%4).find("tr").eq(row).css("background", "#f3f3f3")
 
-            jQuery(this).parents("table").parents("tr").children("td").eq((col+2)%4).find("tr").eq(row).css("background", "#f3f3f3")
+ jQuery(this).parents("table").parents("tr").children("td").eq((col+2)%4).find("tr").eq(row).css("background", "#f3f3f3")
 
-            jQuery(this).parents("table").parents("tr").children("td").eq((col+3)%4).find("tr").eq(row).css("background", "#f3f3f3")
+ jQuery(this).parents("table").parents("tr").children("td").eq((col+3)%4).find("tr").eq(row).css("background", "#f3f3f3")
 
-        }).mouseleave( function(){
+ }).mouseleave( function(){
 
-            var row=jQuery(this).parent("tr").index();
+ var row=jQuery(this).parent("tr").index();
 
-            var col=jQuery(this).parents("td").index();
+ var col=jQuery(this).parents("td").index();
 
-            jQuery(this).parent().css("background", 'transparent');
+ jQuery(this).parent().css("background", 'transparent');
 
-            jQuery(this).parents("table").parents("tr").children("td").eq((col+1)%4).find("tr").eq(row).css("background", "transparent")
+ jQuery(this).parents("table").parents("tr").children("td").eq((col+1)%4).find("tr").eq(row).css("background", "transparent")
 
-            jQuery(this).parents("table").parents("tr").children("td").eq((col+2)%4).find("tr").eq(row).css("background", "transparent")
+ jQuery(this).parents("table").parents("tr").children("td").eq((col+2)%4).find("tr").eq(row).css("background", "transparent")
 
-            jQuery(this).parents("table").parents("tr").children("td").eq((col+3)%4).find("tr").eq(row).css("background", "transparent")
+ jQuery(this).parents("table").parents("tr").children("td").eq((col+3)%4).find("tr").eq(row).css("background", "transparent")
 
-        });
+ });
 
 </div>
 

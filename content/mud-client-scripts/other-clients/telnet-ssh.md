@@ -30,7 +30,7 @@ Thraxas
 
 A quick google search brings back this page that has some promise 
 
-[url:1r7ubm7h]http://www.gronmayer.com/n800/repos/show_repos.php[/url:1r7ubm7h] :wink:
+http://www.gronmayer.com/n800/repos/show_repos.php <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -44,7 +44,7 @@ you could accidently learn something
 
 <div class="post" data-post-id="21229" data-author="Thraxas" data-date="2007-11-07T10:57:22+00:00" data-subject="">
 
-Thanks for that Blastem, nice link, not one I'd found though I had found a few similar, contained some nice stuff but sadly no telnet client :(
+Thanks for that Blastem, nice link, not one I'd found though I had found a few similar, contained some nice stuff but sadly no telnet client <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 Guess I'll keep lugging my laptop round
 
@@ -56,14 +56,14 @@ Thraxas
 
 Hrmm listed on that page:
 
-Lancode 	Dls: 215
+Lancode Dls: 215
 
-[http://maemo.lancode.de/](http://maemo.lancode.de/)  
+[http://maemo.lancode.de/](http://maemo.lancode.de/) 
 
-bora | user themes 
+bora \| user themes 
 
 Themes, pptpclient, canoe, dhcp3-client, iproute, ping, traceroute, telnet, wget, xmodmap, pyplucker, maemochron
 
-[url:1zby2paa][http://www.gronmayer.com/n800/repos/dl.php?id=107](http://www.gronmayer.com/n800/repos/dl.php?id=107)[/url:1zby2paa]
+[url=http://www.gronmayer.com/n800/repos/dl.php?id=107]http://www.gronmayer.com/n800/repos/dl.php?id=107
 
 </div>

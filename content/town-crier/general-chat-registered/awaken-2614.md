@@ -12,7 +12,7 @@ post_count: 11
 
 <div class="post" data-post-id="20790" data-author="Thraxas" data-date="2007-10-12T08:22:16+00:00" data-subject="Awaken">
 
-Usage: cast 'awaken' [number] <name>
+Usage: cast 'awaken' [number] \<name\>
 
 Accumulative: No
 
@@ -32,7 +32,7 @@ eqlist does not list a sb as being for awaken
 
 It does however list the Stack of Earthtone Notes teh sb referred to in the awaken help file as:
 
-Stack of Earthtone Notes Wandering Druid Thalassas Town Druid 10   Nature's Familiar 
+Stack of Earthtone Notes Wandering Druid Thalassas Town Druid 10 Nature's Familiar 
 
 I have now hit this mob 35 times over the past week with no pop.
 
@@ -40,11 +40,11 @@ This to my mind seems an excessively low pop rate for a lvl 10 spell, analagous 
 
 Can anyone:
 
-[list:3m79uj0g]confirm that this is the right mob to hit
+- confirm that this is the right mob to hit
 
 let me know if there are other mobs that pop this spellbook
 
-let me know if they've had more luck, i.e. if I've just been incredibly unlucky[/list:u:3m79uj0g]
+let me know if they've had more luck, i.e. if I've just been incredibly unlucky
 
 If as it currently seems to me this is a hard pop, perhaps the pop rate could be reviewed.
 
@@ -86,9 +86,9 @@ try killing irap, it seems like all those mobs pop random tard sbs
 
 <div class="post" data-post-id="20842" data-author="Yinao" data-date="2007-10-13T14:22:32+00:00" data-subject="">
 
-Ahem, awaken                    - Lvl: 10, Mana: 20, Learned  95%.
+Ahem, awaken - Lvl: 10, Mana: 20, Learned 95%.
 
-Not quite a tard spell ;)
+Not quite a tard spell <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -100,15 +100,15 @@ ahh sorry i thought there was a bigger one
 
 <div class="post" data-post-id="20853" data-author="firebrand" data-date="2007-10-14T14:45:20+00:00" data-subject="">
 
-i can understand making an sb a wee bit hard to pop but what i don't understand is putting low-lev spells on impossible (for that lev char) mobs and/or an insanely low-to-never poprate.  let's just suffice it to say that with school, work, family, or whatever non-sloth activities there are in every single player's lives that not everyone has 25 hours a day to sit on those mobs and cycle for them.  besides sb cycling, there are groups to join, autoquests to run, eq to cycle for, cr's and other fun sloth stuff to do.  not only that but there are sometimes other players who want/need that sb too and bottlenecking happens.   viciously low poprates are NOT adding to fun gameplay for anyone except the sadistic imm who decided to see how much carnage, frustration and general dissension he/she can cause by it.
+i can understand making an sb a wee bit hard to pop but what i don't understand is putting low-lev spells on impossible (for that lev char) mobs and/or an insanely low-to-never poprate. let's just suffice it to say that with school, work, family, or whatever non-sloth activities there are in every single player's lives that not everyone has 25 hours a day to sit on those mobs and cycle for them. besides sb cycling, there are groups to join, autoquests to run, eq to cycle for, cr's and other fun sloth stuff to do. not only that but there are sometimes other players who want/need that sb too and bottlenecking happens. viciously low poprates are NOT adding to fun gameplay for anyone except the sadistic imm who decided to see how much carnage, frustration and general dissension he/she can cause by it.
 
-"i have been told that the best crackers in the world can do this under 60 minutes but unfortunately i need someone who can do this under 60 seconds."  -gabriel -->swordfish
+"i have been told that the best crackers in the world can do this under 60 minutes but unfortunately i need someone who can do this under 60 seconds." -gabriel --\>swordfish
 
 </div>
 
 <div class="post" data-post-id="20854" data-author="Tap" data-date="2007-10-14T15:26:29+00:00" data-subject="">
 
-"She is good, isn't she?" -gabriel -->swordfish
+"She is good, isn't she?" -gabriel --\>swordfish
 
 </div>
 

@@ -18,6 +18,6 @@ subj
 
 <div class="post" data-post-id="1063" data-author="Vekna" data-date="2004-07-13T22:15:54+00:00" data-subject="">
 
-got it :)
+got it <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

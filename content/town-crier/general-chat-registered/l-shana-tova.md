@@ -14,9 +14,9 @@ post_count: 3
 
 Have a wonderful 5767
 
-[img:1e1i0zmj]http://www.jewishsiliconvalley.org/pd/images/large/lshana_tova.gif[/img:1e1i0zmj]
+![](http://www.jewishsiliconvalley.org/pd/images/large/lshana_tova.gif)
 
-[img:1e1i0zmj]http://scheinerman.net/judaism/hhd/images/shofar-2.jpg[/img:1e1i0zmj]
+![](http://scheinerman.net/judaism/hhd/images/shofar-2.jpg)
 
 </div>
 
@@ -28,6 +28,6 @@ happy new year yo
 
 <div class="post" data-post-id="14236" data-author="Boojum" data-date="2006-09-22T20:26:49+00:00" data-subject="">
 
-Aye aye, hag sameach and stuff  :D
+Aye aye, hag sameach and stuff <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>

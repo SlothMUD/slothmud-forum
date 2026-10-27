@@ -58,31 +58,31 @@ I want that warm feeling when something dies and the gods of jord award me some 
 
 Find things other than personal maxxing to enjoy.
 
-- Help newbies
+\- Help newbies
 
-- Help people with spellbooks
+\- Help people with spellbooks
 
-- Do some 2 man runs with mid levs to help expedite their leveling.
+\- Do some 2 man runs with mid levs to help expedite their leveling.
 
-- Ask mid-levs if you can help em with a piece of eq or two (as eq groups aren't as readily available as before).
+\- Ask mid-levs if you can help em with a piece of eq or two (as eq groups aren't as readily available as before).
 
-- Get bitten by vampires purposely and see how many sleeping chars you can 'drink' from and turn them.
+\- Get bitten by vampires purposely and see how many sleeping chars you can 'drink' from and turn them.
 
-- Find botters and put flasks/shots of firebreather in their inventory to 'help them out' after gorges.
+\- Find botters and put flasks/shots of firebreather in their inventory to 'help them out' after gorges.
 
-- Log on channel and chat.
+\- Log on channel and chat.
 
-- Quickly follow and group other high-lev, friendly chars and instantly use the group teleport wand from Moria.
+\- Quickly follow and group other high-lev, friendly chars and instantly use the group teleport wand from Moria.
 
-- Start a new char (if wanted).
+\- Start a new char (if wanted).
 
-- Build an area with 1,000,000 more currents than Neptune. 
+\- Build an area with 1,000,000 more currents than Neptune. 
 
-- Go the 'Driven' route and find means of soloing the toughest mobs for your classo.
+\- Go the 'Driven' route and find means of soloing the toughest mobs for your classo.
 
-- Do random trivia on gossip about mud-related or non mud-related stuff for a reward of dusty vault equipment you'll never use or coinage if you have extra.
+\- Do random trivia on gossip about mud-related or non mud-related stuff for a reward of dusty vault equipment you'll never use or coinage if you have extra.
 
-- Listen to Eze whine about second wind (you don't really have a choice in this one).
+\- Listen to Eze whine about second wind (you don't really have a choice in this one).
 
 The imms aren't here to constantly provide us with improving, endless challenge personally as chars. They're here to provide us a great mud with balance and excitement, but inevitably, there will always be a personal ceiling for long-term/hardcore mudders. At that point, it's 'make your own fun' time with a shift of perspective in regards to what you can enjoy. Short of committing to that, might be time to take a break and return later.
 
@@ -98,17 +98,17 @@ Thanks guys, I got this...
 
 Settlestone's Well
 
-   This is an extremely energetic section of the dwarven city of
+ This is an extremely energetic section of the dwarven city of
 
-Settlestone.  Two bustling streets intersect at the site of a ten foot tall
+Settlestone. Two bustling streets intersect at the site of a ten foot tall
 
-statue of the famed Krodar Thunderhammer.  All four sets of city gates can
+statue of the famed Krodar Thunderhammer. All four sets of city gates can
 
-be seen from this vantage and hundreds of people walk about nearby.  There
+be seen from this vantage and hundreds of people walk about nearby. There
 
 is also a large black stone well in the center of the square.
 
-Exits: North  East  South  West  Up  Down  
+Exits: North East South West Up Down 
 
 A slab of meat lies on the ground.
 
@@ -154,7 +154,7 @@ Norks is protected by an aerial servant.
 
 A dwarven animal control officer patrols the area.
 
-<1445hp 14ma 552mv 264158830539xp -3.9ac -%>
+\<1445hp 14ma 552mv 264158830539xp -3.9ac -%\>
 
 of fart norks
 
@@ -186,7 +186,7 @@ Gorka farts in Norks's general direction.
 
 <div class="post" data-post-id="38953" data-author="*Breeze*" data-date="2018-07-21T15:05:13+00:00" data-subject="Re: ZzzZZzzZZ">
 
-> **Gorka wrote:**
+> <strong>Gorka wrote:</strong>
 > I'm without a mission at the moment. Avatar shop and rebirth are long finished... second set of quests almost already done (about 200 hard dr left)... I don't really need gems, coins, vaults... char improvements are down to small improvements in subsidiary eq modes. Nothing on the horizon regarding rebirth shop. Wanted to chuck this idea out there for the imms to consider... 
 > 
 > 

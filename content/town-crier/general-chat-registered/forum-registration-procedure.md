@@ -12,7 +12,7 @@ post_count: 4
 
 <div class="post" data-post-id="34950" data-author="Oboe" data-date="2014-04-01T03:42:42+00:00" data-subject="Forum registration procedure?">
 
-A couple folks have been asking, on gossip, how to register a forum account.  I no longer see a page for doing that.  What's the procedure?
+A couple folks have been asking, on gossip, how to register a forum account. I no longer see a page for doing that. What's the procedure?
 
 </div>
 

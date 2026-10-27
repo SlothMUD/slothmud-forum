@@ -18,7 +18,7 @@ To balance things out, a change could be made whereby evil supplicants are predi
 
 I think this would be a fun change and would not be too much of a discouragement for people to summon evil supplicants.
 
--Juggleblood
+\-Juggleblood
 
 </div>
 
@@ -26,19 +26,20 @@ I think this would be a fun change and would not be too much of a discouragement
 
 Evil supps with evil corpses would be nice, not sure it would be worth the trouble of loosing your xeg or pit fiend or whatever every single time you ran past a small good mob though...
 
-Not to mention some poor level 10 cleric that wanders into the sash guard room with a manes :)
+Not to mention some poor level 10 cleric that wanders into the sash guard room with a manes <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="10568" data-author="Tetsulunathaya" data-date="2006-02-05T16:48:59+00:00" data-subject="Re: Supplicants and Alignments">
 
-Why would the sashes autoattack kobold mercs, but not see any problem with disgusting evil little supplicants running around town?
-
--Juggleblood[/quote:25alfglc]
+> <strong>juggleblood wrote:</strong>
+> Why would the sashes autoattack kobold mercs, but not see any problem with disgusting evil little supplicants running around town?
+> 
+> \-Juggleblood
 
 Because the Kobold Mercs walk around about how they are going to take over Bal Harbor, and I've yet to see someones Manes spout out how Bal Harbor will soon be theirs.
 
-Besides, if your going to go that far, why would they let Ju-Ju zombies in town, or the necromancers that summoned them, or evil charmed mobs, etc?  Would be a bit to much work to go for 'realism'.
+Besides, if your going to go that far, why would they let Ju-Ju zombies in town, or the necromancers that summoned them, or evil charmed mobs, etc? Would be a bit to much work to go for 'realism'.
 
 </div>
 
@@ -56,7 +57,7 @@ thanks what ya get for hiring a psychopath hehe
 
 <div class="post" data-post-id="10571" data-author="*juggleblood*" data-date="2006-02-05T20:34:07+00:00" data-subject="">
 
-They wouldn't attack everything in sight. Just low level town, park, garden type good aligned mobs. It would just require a little more foresight on the part of the player. It's not more than a mere nuisance really and it adds significantly to realism.  
+They wouldn't attack everything in sight. Just low level town, park, garden type good aligned mobs. It would just require a little more foresight on the part of the player. It's not more than a mere nuisance really and it adds significantly to realism. 
 
 Who can possibly have a peaceful regen next to a pile of animated rotting flesh or a warty evil creature from another plane?
 
@@ -76,13 +77,13 @@ All newbs will cry that nothing to kill whan some one will walk trough town with
 
 <div class="post" data-post-id="10581" data-author="Avatar" data-date="2006-02-06T17:50:27+00:00" data-subject="necro pets">
 
-If I'm a necromancer and I summon a Juju, the Juju should be doing what I say, not whatever he wants to do.  He's undead, not a psychopath.
+If I'm a necromancer and I summon a Juju, the Juju should be doing what I say, not whatever he wants to do. He's undead, not a psychopath.
 
-Same with supplication, if I'm calling an extraplanar creature (good or evil) he's hopefully bound by some magic...either my own summoning spells or the power of my god.  =  He kills what I tell him to kill.  That's one reason I can have a peaceful regen sleeping next to a demon, he's controlled.
+Same with supplication, if I'm calling an extraplanar creature (good or evil) he's hopefully bound by some magic...either my own summoning spells or the power of my god. = He kills what I tell him to kill. That's one reason I can have a peaceful regen sleeping next to a demon, he's controlled.
 
-That's why I'd vote to let the necromancers into town.  They're good for the economy and they control their pets.  
+That's why I'd vote to let the necromancers into town. They're good for the economy and they control their pets. 
 
-Besides, if you restrict necromancers now, who will be banned tomorrow?  Thieves?  They're all evil aren't they?  There's no moral excuse for stealing, eh?  Mages?  Firestorm was the leading cause of accidental newbie deaths in Bal Harbor for the last 3 years straight.  Paladins?  By god they'd be the first people I'd ban, always knocking on your door at 8 AM on a Sunday.  ******s!
+Besides, if you restrict necromancers now, who will be banned tomorrow? Thieves? They're all evil aren't they? There's no moral excuse for stealing, eh? Mages? Firestorm was the leading cause of accidental newbie deaths in Bal Harbor for the last 3 years straight. Paladins? By god they'd be the first people I'd ban, always knocking on your door at 8 AM on a Sunday. \*\*\*\*\*\*s!
 
 Charles
 
@@ -90,7 +91,7 @@ Charles
 
 <div class="post" data-post-id="10595" data-author="*Splork*" data-date="2006-02-06T22:39:45+00:00" data-subject="">
 
-We have no intentions of doing anything such as Juggle has suggested, so no worries :twisted: 
+We have no intentions of doing anything such as Juggle has suggested, so no worries <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 Enjoy,
 
@@ -106,15 +107,16 @@ Phew, thanks :)
 
 <div class="post" data-post-id="10600" data-author="Autolycos" data-date="2006-02-07T13:30:27+00:00" data-subject="Re: necro pets">
 
-If I'm a necromancer and I summon a Juju, the Juju should be doing what I say, not whatever he wants to do.  He's undead, not a psychopath.  
-
-Charles[/quote:kvrq1rf7]
+> <strong>Avatar wrote:</strong>
+> If I'm a necromancer and I summon a Juju, the Juju should be doing what I say, not whatever he wants to do. He's undead, not a psychopath. 
+> 
+> Charles
 
 PSYCHOPATH!
 
-WOW!!  a psychopath with a psychopath follower!!  
+WOW!! a psychopath with a psychopath follower!! 
 
-HELL YEA! i'm making a necro!  :twisted:
+HELL YEA! i'm making a necro! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -132,6 +134,6 @@ Madmax
 
 <div class="post" data-post-id="10608" data-author="Aleksey" data-date="2006-02-08T04:00:57+00:00" data-subject="">
 
-I love whan demilich tries weaken mob whole fight  without any result raund after round untill its mana ends:)
+I love whan demilich tries weaken mob whole fight without any result raund after round untill its mana ends:)
 
 </div>

@@ -26,7 +26,7 @@ I tried chkdsk, several undelete software - nothing helped.
 
 Last backup dated Feb 14, 2014 - did it manually; looking inside shows its about for little Ozzy to leave VK.
 
-So I guess the power went off precisely **in exact millisecond** in between world file was opened for writing and actually wrote from memory to disk. Murphy's Law worked out in best way possible.
+So I guess the power went off precisely <strong>in exact millisecond</strong> in between world file was opened for writing and actually wrote from memory to disk. Murphy's Law worked out in best way possible.
 
 Any hints on how to restore the content?
 

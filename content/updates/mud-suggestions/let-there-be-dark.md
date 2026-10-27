@@ -18,6 +18,6 @@ I'd like it if it got dark at night in outdoor sectors.
 
 <div class="post" data-post-id="32199" data-author="Teron" data-date="2010-12-22T21:51:31+00:00" data-subject="Re: Let There Be Dark">
 
-I thought it did :( Was a problem for newbies without light items at night. Maybe it were dark rooms, though. *shrug*
+I thought it did <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom"> Was a problem for newbies without light items at night. Maybe it were dark rooms, though. \*shrug\*
 
 </div>

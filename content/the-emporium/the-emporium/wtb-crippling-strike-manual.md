@@ -12,7 +12,7 @@ post_count: 6
 
 <div class="post" data-post-id="16714" data-author="Marchessa_red_witch" data-date="2007-02-08T13:53:12+00:00" data-subject="wtb: crippling strike manual">
 
-<eom>
+\<eom\>
 
 </div>
 
@@ -22,17 +22,18 @@ I value my neck a lot more than three thousand bucks, chief. I'll find him for t
 
 i know you're doing everything by the books... even have it posted on the emporium... but i'm a trolling... and i used to post books i needed... and well ain't no one gonna help with this one trust me...
 
-brand :twisted: 
+brand <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-postscript:  looking for arms of the abyss, purlion aura, and talshans diablo sauce!
+postscript: looking for arms of the abyss, purlion aura, and talshans diablo sauce!
 
 </div>
 
 <div class="post" data-post-id="16724" data-author="Autolycos" data-date="2007-02-08T21:56:22+00:00" data-subject="">
 
-talshans diablo sauce![/quote:r33x091i]
+> <strong>brand wrote:</strong>
+> talshans diablo sauce!
 
-the whole post was funny... but this just tickled me greatly  :twisted:
+the whole post was funny... but this just tickled me greatly <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -52,7 +53,7 @@ i read it as triple stab sb
 
 ignore
 
- :oops:
+ <img src="/images/smilies/icon_redface.svg" alt=":oops:" title=":oops:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

@@ -16,10 +16,10 @@ Good evening folks and Happy New Year!
 
 Countdown timer is below:
 
-[<LINK_TEXT text="https://www.tickcounter.com/countdown/2 ... -day-quest">https://www.tickcounter.com/countdown/2361874/2021-slothmud-new-years-day-quest</LINK_TEXT>](https://www.tickcounter.com/countdown/2361874/2021-slothmud-new-years-day-quest)
+[https://www.tickcounter.com/countdown/2361874/2021-slothmud-new-years-day-quest](https://www.tickcounter.com/countdown/2361874/2021-slothmud-new-years-day-quest)
 
 See you there.
 
---D
+\--D
 
 </div>

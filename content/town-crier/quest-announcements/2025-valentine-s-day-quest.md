@@ -20,10 +20,10 @@ there will be,,,idk stuff.
 
 a countdown timer is provided below:
 
-[<LINK_TEXT text="https://www.tickcounter.com/countdown/6 ... -day-quest">https://www.tickcounter.com/countdown/6633493/2025-slothmud-valentines-day-quest</LINK_TEXT>](https://www.tickcounter.com/countdown/6633493/2025-slothmud-valentines-day-quest)
+[https://www.tickcounter.com/countdown/6633493/2025-slothmud-valentines-day-quest](https://www.tickcounter.com/countdown/6633493/2025-slothmud-valentines-day-quest)
 
 See you there!
 
---Idj
+\--Idj
 
 </div>

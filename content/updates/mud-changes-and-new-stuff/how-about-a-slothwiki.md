@@ -22,17 +22,17 @@ http://www.slothmud.org/wiki.
 
 Stuff to bear in mind:
 
-- This site is still largely experimental and is a work in progress, so everything is subject to change with or without notice.  
+\- This site is still largely experimental and is a work in progress, so everything is subject to change with or without notice. 
 
-- Editing requires one to have an account, and accounts must be requested/approved by moderators for now.  This is to discourage spamming (number one reason why the old comment section for the old map site was axed)
+\- Editing requires one to have an account, and accounts must be requested/approved by moderators for now. This is to discourage spamming (number one reason why the old comment section for the old map site was axed)
 
-- This is intended purely as an information repository, so try to remain as objective as possible.  Nothing too specific either, e.g. damage tables, exact modifier values, &c.  If you have to ask whether it's okay, it's probably not.
+\- This is intended purely as an information repository, so try to remain as objective as possible. Nothing too specific either, e.g. damage tables, exact modifier values, \&c. If you have to ask whether it's okay, it's probably not.
 
-- Not everything has been added yet.  There was a LOT of information.  Red links will be filled in when time and interest permit, or feel free to add it yourself.  Just be aware that Immortals and moderators have final say.
+\- Not everything has been added yet. There was a LOT of information. Red links will be filled in when time and interest permit, or feel free to add it yourself. Just be aware that Immortals and moderators have final say.
 
-- This is NOT a site replacement, but a supplement.
+\- This is NOT a site replacement, but a supplement.
 
-- Be civil with edits.  Please.  
+\- Be civil with edits. Please. 
 
 Read http://www.slothmud.org/wiki/WikiRules for more.
 
@@ -46,6 +46,6 @@ Chobbs
 
 looks great chobbs!
 
-hopefully we get some willing & able mortals to help out with it :)
+hopefully we get some willing \& able mortals to help out with it <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

@@ -14,27 +14,27 @@ post_count: 1
 
 "AVATAR SIGHT"
 
-Usage:         cast 'avatar sight'
+Usage: cast 'avatar sight'
 
-Cost:          25 mana
+Cost: 25 mana
 
-Level:         3 Avatar
+Level: 3 Avatar
 
-Duration:      7*levels
+Duration: 7\*levels
 
-Accumulative:  -
+Accumulative: -
 
-Save Versus:   -
+Save Versus: -
 
-Damage Type:   -
+Damage Type: -
 
-Stratum:       Enhancement 
+Stratum: Enhancement 
 
-Spellbook:     a mysteriously translucent digest
+Spellbook: a mysteriously translucent digest
 
-Prerequisite:  -
+Prerequisite: -
 
-See Also:      DETECT 
+See Also: DETECT 
 
 Angolistui the elf enchantress spent many years searching for treasure
 
@@ -46,7 +46,7 @@ moments and only one of them could be recharged.
 
 She spent several weeks with the mages of the tower of Nexialism to
 
-devise a spell that was far more useful.  Although they tried there
+devise a spell that was far more useful. Although they tried there
 
 hardest they couldn't guarantee to squeeze in darksight like they
 

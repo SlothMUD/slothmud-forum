@@ -24,29 +24,29 @@ Little did I know my bed was flammable. I had to extinguish the fire. Then I had
 
 I like monkeys.
 
-<Shazuko Roku Ryuu>
+\<Shazuko Roku Ryuu\>
 
-<Shazuko Six Dragons>
+\<Shazuko Six Dragons\>
 
-<~Chaos~>
+\<\~Chaos\~\>
 
 </div>
 
 <div class="post" data-post-id="15720" data-author="Autolycos" data-date="2006-12-22T15:06:42+00:00" data-subject="">
 
-[b:3n3gsvux]and a more important hint for the holidays!![/b:3n3gsvux]
+<strong>and a more important hint for the holidays!!</strong>
 
-[b:3n3gsvux]NO OFFICE GOSSIP!!! [/b:3n3gsvux]
+<strong>NO OFFICE GOSSIP!!!</strong> 
 
-[img:3n3gsvux]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:3n3gsvux]
+![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="15732" data-author="tincts" data-date="2006-12-22T23:45:01+00:00" data-subject="">
 
-I'm a big fan of the monkey story.  And of the picture of the woman punching the other woman.  Good stuff.
+I'm a big fan of the monkey story. And of the picture of the woman punching the other woman. Good stuff.
 
 </div>
 
@@ -54,7 +54,7 @@ I'm a big fan of the monkey story.  And of the picture of the woman punching the
 
 Practice has paid off for your pirate friend!
 
-You da man  :twisted: 
+You da man <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 [http://www.flurl.com/item/Dance_Evolution_u_210187](http://www.flurl.com/item/Dance_Evolution_u_210187)
 
@@ -62,50 +62,50 @@ You da man  :twisted:
 
 <div class="post" data-post-id="15737" data-author="Autolycos" data-date="2006-12-23T12:38:50+00:00" data-subject="">
 
-*yawn*
+\*yawn\*
 
 </div>
 
 <div class="post" data-post-id="15739" data-author="13" data-date="2006-12-23T14:32:46+00:00" data-subject="">
 
-[img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869][img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869][img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869]
+![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)
 
-[img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869][img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869][img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869]
+![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)
 
-[img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869][img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869][img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869]
+![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)
 
-[img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869][img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869][img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869]
+![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)
 
-[img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869][img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869][img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869]
+![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)
 
-[img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869][img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869][img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869]
+![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)
 
-[img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869][img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869][img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869]
+![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)
 
-[img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869][img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869][img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869]
+![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)
 
-[img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869][img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869][img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869]
+![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)
 
-[img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869][img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869][img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869]
+![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)
 
-[img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869][img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869][img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869]
+![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)
 
-[img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869][img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869][img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869]
+![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)
 
-[img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869][img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869][img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869]
+![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)
 
-[img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869][img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869][img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869]
+![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)
 
-[img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869][img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869][img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869]
+![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)
 
-[img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869][img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869][img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869]
+![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)
 
-[img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869][img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869][img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869]
+![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)
 
-[img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869][img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869][img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869]
+![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)
 
-[img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869][img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869][img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869]
+![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)
 
-[img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869][img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869][img:1kpnd869]http://www.xgenco.com/sloth3/HAHAHAHA.gif[/img:1kpnd869]
+![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)![](http://www.xgenco.com/sloth3/HAHAHAHA.gif)
 
 </div>

@@ -52,15 +52,15 @@ bloodninja: No. I'm in hiding.
 
 sweet17: LOL
 
-bloodninja: Don't ******* laugh at me!
+bloodninja: Don't \*\*\*\*\*\*\* laugh at me!
 
-bloodninja: This **** is serious!
+bloodninja: This \*\*\*\* is serious!
 
 sweet17: What are you hiding from?
 
 bloodninja: The cops.
 
-sweet17: gimme a ******* break
+sweet17: gimme a \*\*\*\*\*\*\* break
 
 bloodninja: I'm serious.
 
@@ -80,7 +80,7 @@ bloodninja: I had sex with a turkey.
 
 bloodninja: Hello?
 
-sweet17: You are ******* sick.
+sweet17: You are \*\*\*\*\*\*\* sick.
 
 bloodninja: Send me your picture.
 
@@ -102,7 +102,7 @@ bloodninja: Hurry up.
 
 bloodninja: Are you there?
 
-bloodninja: **** you, cop!
+bloodninja: \*\*\*\* you, cop!
 
 sweet17: Hey sorry
 
@@ -122,7 +122,7 @@ sweet17: I don't want to send you the picture cause I'm not pretty
 
 bloodninja: Most cops aren't
 
-sweet17: IM NOT A ******* COP YOU ********!
+sweet17: IM NOT A \*\*\*\*\*\*\* COP YOU \*\*\*\*\*\*\*\*!
 
 bloodninja: Then send me the picture.
 
@@ -130,7 +130,7 @@ sweet17: fine. What's your e-mail?
 
 bloodninja: Just send it through here.
 
-sweet17: alright *PIC*
+sweet17: alright \*PIC\*
 
 sweet17: Did you get it?
 
@@ -158,7 +158,7 @@ bloodninja: Alright let me find it.
 
 sweet17: kks
 
-bloodninja: Okay here it is. *PIC*
+bloodninja: Okay here it is. \*PIC\*
 
 sweet17: this isn't you.
 
@@ -180,7 +180,7 @@ bloodninja: Well, you look like you ATE the Farm Fresh guy....
 
 bloodninja: Not to mention all the groceries.
 
-sweet17: Go **** yourself
+sweet17: Go \*\*\*\* yourself
 
 bloodninja: I was going to until I saw that picture
 
@@ -202,11 +202,11 @@ sweet17: I can't believe that cops are after you
 
 bloodninja: I can't believe Santa lets you sit on his lap..
 
-sweet17: **** YOU!!!
+sweet17: \*\*\*\* YOU!!!
 
 bloodninja: You'd break both of his legs.
 
-sweet17: You're a ******* *******!
+sweet17: You're a \*\*\*\*\*\*\* \*\*\*\*\*\*\*!
 
 sweet17: I've been teased my whole life because of my weight
 
@@ -326,7 +326,7 @@ bloodninja: You get really juicy thinking about my tounge brushing up against th
 
 bloodninja: I softly begin to tounge your wet kitty.
 
-bloodninja: I run my tounge up and down your smooth ****.
+bloodninja: I run my tounge up and down your smooth \*\*\*\*.
 
 sweet17: mmmm yeah
 
@@ -342,7 +342,7 @@ sweet17: HARRRRRRRRRRRR
 
 bloodninja: Ahhhh. Much better. I feel your kitty get more moist with every stroke.
 
-bloodninja: I softly suck on your **** bringing it in and out of my mouth.
+bloodninja: I softly suck on your \*\*\*\* bringing it in and out of my mouth.
 
 bloodninja: Your juices run down my chin as your scent makes its way to my nose.
 
@@ -350,7 +350,7 @@ bloodninja: I begin to feel empowered by your femininity.
 
 sweet17: mmmmmm you are good
 
-bloodninja: I feel your thighs tighten as I **** harder
+bloodninja: I feel your thighs tighten as I \*\*\*\* harder
 
 bloodninja: going limp
 
@@ -370,7 +370,7 @@ bloodninja: Do it!
 
 sweet17: HARRRRRRRRRRRRR
 
-bloodninja: I turn you around to lick your *******.
+bloodninja: I turn you around to lick your \*\*\*\*\*\*\*.
 
 bloodninja: I pry apart that battleship you call your ass.
 
@@ -388,15 +388,15 @@ bloodninja: I tear off your wooden peg leg.
 
 bloodninja: I ram it up your ass.
 
-sweet17: YOURE A ******* PYSCHO!!
+sweet17: YOURE A \*\*\*\*\*\*\* PYSCHO!!
 
 bloodninja: Then I pour hot carmel over your head.
 
-bloodninja: And turn you into a ******* candy apple...
+bloodninja: And turn you into a \*\*\*\*\*\*\* candy apple...
 
 bloodninja: I kick you in the face!
 
-sweet17: **** YOU *******!!
+sweet17: \*\*\*\* YOU \*\*\*\*\*\*\*!!
 
 bloodninja: The celluloid from your cheeks hits the side of the cabin...
 
@@ -416,19 +416,19 @@ bloodninja: HAARRRRRR!!!!!
 
 I want those 5 minutes of my life back!
 
- :D
+ <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="21969" data-author="gondor" data-date="2008-01-11T04:34:11+00:00" data-subject="">
 
-Auto? Have you commandeered Weasels password? That sounds like something you would post. Ramoth agrees with me on that one too.If not then Weasel, You are one sick F***
+Auto? Have you commandeered Weasels password? That sounds like something you would post. Ramoth agrees with me on that one too.If not then Weasel, You are one sick F\*\*\*
 
 </div>
 
 <div class="post" data-post-id="21970" data-author="Autolycos" data-date="2008-01-11T04:50:06+00:00" data-subject="">
 
-lmfao  :twisted: 
+lmfao <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 NO! It wasnt me.. and YES Weasel r teh syck fuhck
 
@@ -436,13 +436,13 @@ NO! It wasnt me.. and YES Weasel r teh syck fuhck
 
 <div class="post" data-post-id="21971" data-author="Weasel" data-date="2008-01-11T06:21:02+00:00" data-subject="">
 
-:D  Strangely enough, when I was reading it, I instantly thought of Autolycos. HAARRRRRR!!!!!
+<img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> Strangely enough, when I was reading it, I instantly thought of Autolycos. HAARRRRRR!!!!!
 
 </div>
 
 <div class="post" data-post-id="21975" data-author="Autolycos" data-date="2008-01-11T13:43:59+00:00" data-subject="">
 
-:wink:
+<img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -462,7 +462,8 @@ BWAH! ..I thought wild turkeys came in a bottle..
 
 <div class="post" data-post-id="21980" data-author="Autolycos" data-date="2008-01-11T17:26:40+00:00" data-subject="">
 
-BWAH! ..I thought wild turkeys came in a bottle..[/quote:1g7miiyl]
+> <strong>Weasel wrote:</strong>
+> BWAH! ..I thought wild turkeys came in a bottle..
 
 thats disgusting, maybe in France or Japan
 
@@ -484,17 +485,20 @@ HAHAHA thats some funny shit!!!
 
 <div class="post" data-post-id="21989" data-author="Yasik" data-date="2008-01-12T01:41:31+00:00" data-subject="">
 
-thats disgusting, maybe in France or Japan
+> <strong>Autolycos wrote:</strong>
+> thats disgusting, maybe in France or Japan
+> 
+> 
+> 
+> I knew you were sick.. but thats just gross!
 
-I knew you were sick.. but thats just gross![/quote:gp9rikkr]
-
-hey dont touch Japan or i'll divide you by zero!  :twisted:
+hey dont touch Japan or i'll divide you by zero! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="21990" data-author="Alberich" data-date="2008-01-12T01:47:42+00:00" data-subject="">
 
-[img:3tsj7l9r]http://farm2.static.flickr.com/1323/1433529629_4c1f775559.jpg[/img:3tsj7l9r]
+![](http://farm2.static.flickr.com/1323/1433529629_4c1f775559.jpg)
 
 </div>
 
@@ -526,15 +530,15 @@ bloodninja: I meditate to regain my mana, before casting Lvl. 8 chicken of the I
 
 BritneySpears14: Funny I still don't see it.
 
-bloodninja: I spend my mana reserves to cast Mighty F*ck of the Beyondness.
+bloodninja: I spend my mana reserves to cast Mighty F\*ck of the Beyondness.
 
 BritneySpears14: You are the worst cyber partner ever. This is ridiculous.
 
-bloodninja: Don't f*ck with me bitch, I'm the mightiest sorcerer of the lands.
+bloodninja: Don't f\*ck with me bitch, I'm the mightiest sorcerer of the lands.
 
 bloodninja: I steal yo soul and cast Lightning Lvl. 1,000,000 Your body explodes into a fine bloody mist, because you are only a Lvl. 2 Druid.
 
-BritneySpears14: Don't ever message me again you piece of ****.
+BritneySpears14: Don't ever message me again you piece of \*\*\*\*.
 
 bloodninja: Robots are trying to drill my brain but my lightning shield inflicts DOA attack, leaving the robots as flaming piles of metal.
 
@@ -560,13 +564,13 @@ BritneySpears14: I take off your pants, slowly, and massage your muscular physiq
 
 eminemBNJA: Oh I like that Baby. I put on my robe and wizard hat.
 
-BritneySpears14: What the f*ck, I told you not to message me again.
+BritneySpears14: What the f\*ck, I told you not to message me again.
 
-eminemBNJA: Oh ****
+eminemBNJA: Oh \*\*\*\*
 
-BritneySpears14: I swear if you do it one more time I'm gonna report your ISP and say you were sending me kiddie porn you f*ck up.
+BritneySpears14: I swear if you do it one more time I'm gonna report your ISP and say you were sending me kiddie porn you f\*ck up.
 
-eminemBNJA: Oh ****
+eminemBNJA: Oh \*\*\*\*
 
 eminemBNJA: damn I gotta write down your names or something.
 
@@ -580,17 +584,17 @@ Weasel = BNJA?
 
 <div class="post" data-post-id="22024" data-author="13" data-date="2008-01-14T13:49:56+00:00" data-subject="">
 
-welcome to five years ago.  that bninja shit used to slay me.  the one where
+welcome to five years ago. that bninja shit used to slay me. the one where
 
 he pisses in the girls hamper and sneezes on her is great but the rhino bit
 
-is good too.  13 used to have his chest item restrung to a rhinocerus shirt
+is good too. 13 used to have his chest item restrung to a rhinocerus shirt
 
 </div>
 
 <div class="post" data-post-id="22027" data-author="Alberich" data-date="2008-01-14T19:03:48+00:00" data-subject="">
 
-[img:1inorwm1]http://img146.imageshack.us/img146/5384/motivator2284982rv3.jpg[/img:1inorwm1]
+![](http://img146.imageshack.us/img146/5384/motivator2284982rv3.jpg)
 
 </div>
 
@@ -652,13 +656,13 @@ MommyMelissa: whatever.
 
 <div class="post" data-post-id="22032" data-author="tincts" data-date="2008-01-15T06:16:01+00:00" data-subject="">
 
-Where was I five years ago hehe.  That gear is hilarious.
+Where was I five years ago hehe. That gear is hilarious.
 
 </div>
 
 <div class="post" data-post-id="22037" data-author="Yasik" data-date="2008-01-16T15:42:52+00:00" data-subject="">
 
-[img:1eootys7]http://yasik.kiev.ua/JapaneseWomen.jpg[/img:1eootys7]
+![](http://yasik.kiev.ua/JapaneseWomen.jpg)
 
 </div>
 
@@ -670,26 +674,27 @@ wtf has that got to do with anything?
 
 <div class="post" data-post-id="22052" data-author="tincts" data-date="2008-01-17T20:38:44+00:00" data-subject="">
 
-It is a random picture :)  Probably true, too.
+It is a random picture <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> Probably true, too.
 
 </div>
 
 <div class="post" data-post-id="22053" data-author="Alberich" data-date="2008-01-17T21:06:12+00:00" data-subject="">
 
-wtf has that got to do with anything?[/quote:2745vnvb]
+> <strong>Weasel wrote:</strong>
+> wtf has that got to do with anything?
 
-[img:2745vnvb]http://i4.photobucket.com/albums/y119/sincityradio/gaydar.jpg[/img:2745vnvb]
+![](http://i4.photobucket.com/albums/y119/sincityradio/gaydar.jpg)
 
 </div>
 
 <div class="post" data-post-id="22054" data-author="Weasel" data-date="2008-01-17T21:18:58+00:00" data-subject="">
 
-[img:2r8rjjw0]http://somnambulantdigits.com/uploads/posts/pirate-cat.jpg[/img:2r8rjjw0]
+![](http://somnambulantdigits.com/uploads/posts/pirate-cat.jpg)
 
 </div>
 
 <div class="post" data-post-id="32475" data-author="Thraxas" data-date="2011-03-11T14:19:52+00:00" data-subject="Re: Pirate Cyber">
 
-time to resurrect some of the old humour :)
+time to resurrect some of the old humour <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

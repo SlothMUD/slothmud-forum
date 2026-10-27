@@ -12,9 +12,9 @@ post_count: 2
 
 <div class="post" data-post-id="33607" data-author="Shyla" data-date="2012-09-14T00:58:46+00:00" data-subject="shyla hasn&#x27;t quit">
 
-sorry I haven't been on so much just my computer died on me and i didn't have access to email or anything so i could post here b/c i couldn't remember password etc.  I have been very busy with my 2 year old daughter and my medical stuff but I do plan on playing once I get a new computer but not sure when that will be.
+sorry I haven't been on so much just my computer died on me and i didn't have access to email or anything so i could post here b/c i couldn't remember password etc. I have been very busy with my 2 year old daughter and my medical stuff but I do plan on playing once I get a new computer but not sure when that will be.
 
-I will talk more and spellbook peri hunt etc when I finally do get another computer and get everythng moved over.  In the mean time I will get on here and there from my husbands computer as I can
+I will talk more and spellbook peri hunt etc when I finally do get another computer and get everythng moved over. In the mean time I will get on here and there from my husbands computer as I can
 
 Shyla
 
@@ -22,6 +22,6 @@ Shyla
 
 <div class="post" data-post-id="33609" data-author="*juggleblood*" data-date="2012-09-15T01:32:41+00:00" data-subject="Re: shyla hasn&#x27;t quit">
 
-Great to hear from you. :)
+Great to hear from you. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

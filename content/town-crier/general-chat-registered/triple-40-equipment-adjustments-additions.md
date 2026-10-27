@@ -40,9 +40,9 @@ very nice, thanks Krom
 
 <div class="post" data-post-id="24028" data-author="Mosaix" data-date="2008-04-25T03:56:22+00:00" data-subject="">
 
-I really like the changes.  It might have to switch out.
+I really like the changes. It might have to switch out.
 
-One note, consider it, flame it, doesnt matter.  Maybe make the healbonus booties something like boots of a wandering saint instead of what it is called now.
+One note, consider it, flame it, doesnt matter. Maybe make the healbonus booties something like boots of a wandering saint instead of what it is called now.
 
 But thanks for updating the eq, very cool, and much appreciated.
 
@@ -64,13 +64,13 @@ nice changes, one problem and i'm only posting it here cause i'm too lazy to ema
 
 <div class="post" data-post-id="24032" data-author="Mosaix" data-date="2008-04-25T04:57:27+00:00" data-subject="">
 
-No, boots of the weasel doesnt work.  Your right Weasel.
+No, boots of the weasel doesnt work. Your right Weasel.
 
 </div>
 
 <div class="post" data-post-id="24033" data-author="Weasel" data-date="2008-04-25T04:59:30+00:00" data-subject="">
 
-:P lol
+<img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom"> lol
 
 </div>
 

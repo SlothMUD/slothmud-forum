@@ -22,13 +22,13 @@ Feel free to use the arena as normal.
 
 In the meantime, I want to advise against the following:
 
-1. Using the arena with a shaky connection.
+1\. Using the arena with a shaky connection.
 
-2. Voiding out of the game while in the arena.
+2\. Voiding out of the game while in the arena.
 
-3. Dropping link in the arena.
+3\. Dropping link in the arena.
 
-4. Using the quit! command while in the arena.
+4\. Using the quit! command while in the arena.
 
 While not conclusive at this point, it's not unlikely that perhaps a player did one of these
 
@@ -40,6 +40,6 @@ please feel free to comment or mail me at neptune@slothmud.org
 
 Thanks.
 
--Neptune
+\-Neptune
 
 </div>

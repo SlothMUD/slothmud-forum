@@ -16,7 +16,7 @@ Now, I don't know if all of you celebrate this holiday, or whether it's ramifica
 
 Happy Roasted Kobold Day!
 
--Kotetzo
+\-Kotetzo
 
 </div>
 
@@ -42,7 +42,7 @@ S'okay, wish me happy kill the turkey day all you like, I'll take it as its mean
 
 <div class="post" data-post-id="15317" data-author="tincts" data-date="2006-11-24T10:56:36+00:00" data-subject="">
 
-:shock:
+<img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

@@ -14,15 +14,15 @@ post_count: 12
 
 Ok, here are some items, which I don't need, but selling them will clean my vaults.
 
-1. golden choker, cp for yoopers - 2 mils min
+1\. golden choker, cp for yoopers - 2 mils min
 
 Forged None -0.2 +5 Mana, +2 Ma Regen EM EC ENe EDr [OR] Forged 
 
-2. 15 hexes, 2250000
+2\. 15 hexes, 2250000
 
-3. chunk of earth, cp to platemail of planes - 700k min
+3\. chunk of earth, cp to platemail of planes - 700k min
 
-4. iron thick leg plates (not cursed :) - 500k min
+4\. iron thick leg plates (not cursed <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> \- 500k min
 
 Ok.
 
@@ -38,15 +38,15 @@ AC-apply is -1.6
 
 Only those who are at least apprentice thieves and also experienced 
 
-warriors may use this item.  
+warriors may use this item. 
 
-5. blue steel bracelet, 2 mils min
+5\. blue steel bracelet, 2 mils min
 
 Blue Steel Bracelet Dean of Water Elemental School -0.4 -2 BreathSave ET EW EBa EMo [OR]
 
-6. ruby bracelet, 1 mil min
+6\. ruby bracelet, 1 mil min
 
-Ruby Bracelet Drezmir  Diabolan Valley (Far North) -0.0 +10 Mana * EM EC [AND]  
+Ruby Bracelet Drezmir Diabolan Valley (Far North) -0.0 +10 Mana \* EM EC [AND] 
 
 Seems to be all. Post your birds here, or catch me on-line for buyouts. Closing in 2-3 days.
 

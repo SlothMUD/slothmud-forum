@@ -16,7 +16,7 @@ I'm needing two... Don't have lyme vault to store temp cp's and at least one of 
 
 So paying coins I guess... Send me a message or contact Apprentice in game. I don't have much to trade... although I do have chars with mainly monk orientated dam or AC gear. I also potentially have a JDD to trade.
 
-I'd also be interested in buying the cp's if I can get a full set to forge in the same day, so they didn't.... *poof*
+I'd also be interested in buying the cp's if I can get a full set to forge in the same day, so they didn't.... \*poof\*
 
 </div>
 
@@ -44,7 +44,7 @@ And the chances of chopping yourself are slim, I wouldn't worry about that dange
 
 I forgot which char did, but was also a mage prime, Pi was it???
 
-He had ac-10 and was used a nightmare to stop the regen.  I believe on avg
+He had ac-10 and was used a nightmare to stop the regen. I believe on avg
 
 it took him about 3-5 runs.
 
@@ -54,9 +54,9 @@ it took him about 3-5 runs.
 
 I've long gotten my Tiger Fur Cloaks... Thanks to Yasik, Weasel and Assirian for helping me out. What I am chasing now is...
 
-*1 x Inked-Eye Ring (Kalamari - UD2)
+\*1 x Inked-Eye Ring (Kalamari - UD2)
 
-*2 x Signet Ring of the Lost Cross (Chapel)
+\*2 x Signet Ring of the Lost Cross (Chapel)
 
 If you have these available for trade/sale... send me a tell.
 
@@ -64,12 +64,15 @@ If you have these available for trade/sale... send me a tell.
 
 <div class="post" data-post-id="24468" data-author="brady" data-date="2008-05-23T11:32:52+00:00" data-subject="">
 
-I forgot which char did, but was also a mage prime, Pi was it???
+> <strong>Leaf wrote:</strong>
+> I forgot which char did, but was also a mage prime, Pi was it???
+> 
+> 
+> 
+> He had ac-10 and was used a nightmare to stop the regen. I believe on avg
+> 
+> it took him about 3-5 runs.
 
-He had ac-10 and was used a nightmare to stop the regen.  I believe on avg
-
-it took him about 3-5 runs.[/quote:2jq755rv]
-
-Sure, it is soloable.  Instead of a nightmare, I'd bring a few eud corpses with me so it was really just one long run with short breaks.  Sure, I died a few times but I got my own cloak.
+Sure, it is soloable. Instead of a nightmare, I'd bring a few eud corpses with me so it was really just one long run with short breaks. Sure, I died a few times but I got my own cloak.
 
 </div>

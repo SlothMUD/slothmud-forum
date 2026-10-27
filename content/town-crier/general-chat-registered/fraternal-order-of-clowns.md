@@ -46,9 +46,9 @@ AC-apply is 2.0
 
 Can affect you as:
 
-    Affects: CHARISMA by 2
+ Affects: CHARISMA by 2
 
-    Affects: REGEN_MOVE by -3
+ Affects: REGEN\_MOVE by -3
 
 </div>
 
@@ -70,7 +70,7 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: HITPOINT by 20
+ Affects: HITPOINT by 20
 
 Both item's on the lord clown.
 
@@ -96,11 +96,11 @@ AC-apply is -0.5
 
 Can affect you as:
 
-    Affects: HITPOINT by 3
+ Affects: HITPOINT by 3
 
 Only those who are at least adept magic users, clerics, or druids may use 
 
-this item.  
+this item. 
 
 Poped from Dollface
 
@@ -118,23 +118,23 @@ AC-apply is -0.7
 
 Can affect you as:
 
-    Affects: SPELL_BONUS by 5
+ Affects: SPELL\_BONUS by 5
 
-    Affects: MANA by 5
+ Affects: MANA by 5
 
-Only those who are at least adept magic users or bards may use this item.  
+Only those who are at least adept magic users or bards may use this item. 
 
 forger Poor Boy
 
 Requires: 100000 coins,
 
- 1x a roll of white leather  (Dollface)
+ 1x a roll of white leather (Dollface)
 
- 1x bands of gold   (Bonkers)
+ 1x bands of gold (Bonkers)
 
- 1x bands of silver   (Honkey)
+ 1x bands of silver (Honkey)
 
- 1x a pair of rhino horns  (Tex)
+ 1x a pair of rhino horns (Tex)
 
  1x the soul of Rupert McCain (ghoul of Rupert McCain)
 

@@ -12,9 +12,9 @@ post_count: 19
 
 <div class="post" data-post-id="18004" data-author="Dan" data-date="2007-04-17T09:33:36+00:00" data-subject="hey guys">
 
-Idling around to kill some time I suddenly remembered that there used to be a game which at one point occupied a substantial chunk of my time. :P So, how goes it? How are my areas faring, if they are still in? :lol: Did you ever find that secret passage in the Nexia Tower that leads to a 500-room expansion pack?  :P 
+Idling around to kill some time I suddenly remembered that there used to be a game which at one point occupied a substantial chunk of my time. <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom"> So, how goes it? How are my areas faring, if they are still in? <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> Did you ever find that secret passage in the Nexia Tower that leads to a 500-room expansion pack? <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom"> 
 
-I'll go read the crier, I still have some time to kill  :lol: 
+I'll go read the crier, I still have some time to kill <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> 
 
 Dan / Rita
 
@@ -36,7 +36,8 @@ mwahahahaha
 
 I vaguely seem to remember this...Zam creature. I know I had F12 mapped to transfer him to djab!
 
-mwahahahaha[/quote:2j1i9jdx]
+> <strong>Zam wrote:</strong>
+> mwahahahaha
 
 </div>
 
@@ -44,7 +45,7 @@ mwahahahaha[/quote:2j1i9jdx]
 
 Is this the guy who leaked the player ips and passwords?
 
-Someone give the dirt, it was before my time.  :twisted:
+Someone give the dirt, it was before my time. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -52,25 +53,26 @@ Someone give the dirt, it was before my time.  :twisted:
 
 If I'm correct, Dan = Ploo (Mage Char)
 
-If so, HELLO DANNY!!!  I was R Link!
+If so, HELLO DANNY!!! I was R Link!
 
 </div>
 
 <div class="post" data-post-id="18209" data-author="Weasel" data-date="2007-04-27T16:03:49+00:00" data-subject="">
 
-Hey :)
+Hey <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="18210" data-author="13" data-date="2007-04-27T19:57:53+00:00" data-subject="">
 
-I think Dan Ploo != Dann Rita/Dann but hell who knows.  Rita was a cheater that's all I know.
+I think Dan Ploo != Dann Rita/Dann but hell who knows. Rita was a cheater that's all I know.
 
 </div>
 
 <div class="post" data-post-id="18212" data-author="Bazilus" data-date="2007-04-27T21:17:12+00:00" data-subject="...">
 
-I think Dan Ploo != Dann Rita/Dann but hell who knows.  Rita was a cheater that's all I know.[/quote:3gg32apx]
+> <strong>13 wrote:</strong>
+> I think Dan Ploo != Dann Rita/Dann but hell who knows. Rita was a cheater that's all I know.
 
 heh, Rita was good man... Fun autos, zones and quests. =)
 
@@ -88,19 +90,23 @@ Bazilus the Crazy Python
 
 <div class="post" data-post-id="18222" data-author="firebrand" data-date="2007-04-28T15:41:37+00:00" data-subject="">
 
-I was R Link![/quote:1lgp8p6g]
+> <strong>Leaf wrote:</strong>
+> I was R Link!
 
 more like "missing link".....ya damn neanderthal
 
-"a handful of people on a leaky boat are going to save the world" --sonya blade -->mortal kombat
+"a handful of people on a leaky boat are going to save the world" --sonya blade --\>mortal kombat
 
 </div>
 
 <div class="post" data-post-id="18228" data-author="Vixn" data-date="2007-04-28T20:17:52+00:00" data-subject="">
 
-Is this the guy who leaked the player ips and passwords?
-
-Someone give the dirt, it was before my time.  :twisted:[/quote:367jvfbe]
+> <strong>juggleblood wrote:</strong>
+> Is this the guy who leaked the player ips and passwords?
+> 
+> 
+> 
+> Someone give the dirt, it was before my time. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 That was Rei. I doubt I know who Rita is.
 
@@ -114,44 +120,49 @@ Didn't we all drink together, Edd? :)
 
 <div class="post" data-post-id="18232" data-author="Bazilus" data-date="2007-04-29T06:54:37+00:00" data-subject="">
 
-Didn't we all drink together, Edd? :)[/quote:2vu6h8ih]
+> <strong>Krok wrote:</strong>
+> Didn't we all drink together, Edd? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-+1
+\+1
 
 </div>
 
 <div class="post" data-post-id="18233" data-author="Yasik" data-date="2007-04-29T07:04:23+00:00" data-subject="">
 
-[img:3d7mackz]http://yasik.mci.kiev.ua/GreatPost.jpg[/img:3d7mackz]
+![](http://yasik.mci.kiev.ua/GreatPost.jpg)
 
 </div>
 
 <div class="post" data-post-id="18234" data-author="Vixn" data-date="2007-04-29T11:22:10+00:00" data-subject="">
 
-Didn't we all drink together, Edd? :)[/quote:2sipkypd]
+> <strong>Krok wrote:</strong>
+> Didn't we all drink together, Edd? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-Yep, but there were at least 2 different Ritas, eh? :wink:
+Yep, but there were at least 2 different Ritas, eh? <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="18235" data-author="kjartan" data-date="2007-04-29T14:22:07+00:00" data-subject="">
 
-Boy, you must have been drinking a [i:1rn1zeny]lot[/i:1rn1zeny], Vixn!
+Boy, you must have been drinking a <em>lot</em>, Vixn!
 
 </div>
 
 <div class="post" data-post-id="18238" data-author="Vixn" data-date="2007-04-29T16:07:00+00:00" data-subject="">
 
-*blush* yep, i did  :D
+\*blush\* yep, i did <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="18504" data-author="Dan" data-date="2007-05-15T22:44:40+00:00" data-subject="">
 
-Is this the guy who leaked the player ips and passwords?
+> <strong>juggleblood wrote:</strong>
+> Is this the guy who leaked the player ips and passwords?
+> 
+> 
+> 
+> Someone give the dirt, it was before my time. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
-Someone give the dirt, it was before my time.  :twisted:[/quote:37tde8xb]
-
-Oh, so I forget to check back for a month or so, and you pile slander on me?! If you must know, I am merely the guy who violated the sandgorgon and raped the mistress of silence in SS. :P
+Oh, so I forget to check back for a month or so, and you pile slander on me?! If you must know, I am merely the guy who violated the sandgorgon and raped the mistress of silence in SS. <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>

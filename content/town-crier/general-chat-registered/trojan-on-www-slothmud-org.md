@@ -18,7 +18,7 @@ Got a warning from Kaspersky 2010 that [www.slothmud.org/menu/ua.js](http://www.
 
 <div class="post" data-post-id="31880" data-author="mahkra" data-date="2010-10-17T16:28:05+00:00" data-subject="Re: Trojan on www.slothmud.org ?">
 
-Iframes are bad. :(
+Iframes are bad. <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -48,7 +48,7 @@ zzz
 
 someone decode this:
 
->snip< [edited by benq - its a site visit counter] 
+\>snip\< [edited by benq - its a site visit counter] 
 
 it could possible be trojan link
 
@@ -56,7 +56,7 @@ it could possible be trojan link
 
 <div class="post" data-post-id="31887" data-author="Atwell" data-date="2010-10-18T18:22:40+00:00" data-subject="Re: Trojan on www.slothmud.org ?">
 
-I also ran into a brief period where any page of slothmud.org would load, then quickly transfer me to iGoogle.  Seemed highly suspicious.  Hard to discount all this bad behavior in a short window.
+I also ran into a brief period where any page of slothmud.org would load, then quickly transfer me to iGoogle. Seemed highly suspicious. Hard to discount all this bad behavior in a short window.
 
 </div>
 

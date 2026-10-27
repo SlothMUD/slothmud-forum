@@ -12,7 +12,7 @@ post_count: 8
 
 <div class="post" data-post-id="34891" data-author="Shyla" data-date="2014-03-06T04:12:52+00:00" data-subject="paralyzed on lyme">
 
-I logged on and was chatting next thing I knew I was paralyzed and I have no idea why I haven't ate anything funny or hit any mobs in a while or searched any traps etc all I know is I am paralyzed and have been for over 20 minutes and have no idea when or if this is going to fall and no way to tell anyone  to see if someone can help because you can't do anything while paralyzed. Now maybe I am whining for what some think is no reason but if a paralyze should last for more than 20 minutes with no way at all to let anyone know maybe it is just a WEE bit excessive.  I have no interest in quitting and losing a life an no idea even I I did I this would ix it. can this be adjusted to maybe not last as long or at least let us be able to title that we are paralyzed to let someone know to help us?
+I logged on and was chatting next thing I knew I was paralyzed and I have no idea why I haven't ate anything funny or hit any mobs in a while or searched any traps etc all I know is I am paralyzed and have been for over 20 minutes and have no idea when or if this is going to fall and no way to tell anyone to see if someone can help because you can't do anything while paralyzed. Now maybe I am whining for what some think is no reason but if a paralyze should last for more than 20 minutes with no way at all to let anyone know maybe it is just a WEE bit excessive. I have no interest in quitting and losing a life an no idea even I I did I this would ix it. can this be adjusted to maybe not last as long or at least let us be able to title that we are paralyzed to let someone know to help us?
 
 not sure if there is something more I should post or not...thanks
 
@@ -22,13 +22,13 @@ Shyla
 
 <div class="post" data-post-id="34892" data-author="Shyla" data-date="2014-03-06T04:35:49+00:00" data-subject="Re: paralyzed on lyme">
 
-and yes I am still just standing here paraylyzed people are asking me questions but there is anything I can do and no way for anyone to know there is anything the matter with me.. I has been close to 50 minutes that I have been this way now..I love this :)
+and yes I am still just standing here paraylyzed people are asking me questions but there is anything I can do and no way for anyone to know there is anything the matter with me.. I has been close to 50 minutes that I have been this way now..I love this <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="34893" data-author="Shyla" data-date="2014-03-06T04:54:12+00:00" data-subject="Re: paralyzed on lyme">
 
-okie over an hour now and still just paralyzed east of lyme inn and doesn't appear to be wearing off or going away. I can't log in another character because that is illegal.  I can't rent. I can't gossip page emote set title NOTHING I am just stuck here waiting for someone to help me..giggle
+okie over an hour now and still just paralyzed east of lyme inn and doesn't appear to be wearing off or going away. I can't log in another character because that is illegal. I can't rent. I can't gossip page emote set title NOTHING I am just stuck here waiting for someone to help me..giggle
 
 </div>
 

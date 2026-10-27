@@ -52,9 +52,9 @@ Another option is to have a timer just advise after every minute (ie: sanc has b
 
 <div class="post" data-post-id="11055" data-author="Qa" data-date="2006-03-04T13:49:02+00:00" data-subject="">
 
-Being old sch00l, I had a sanc/aegis counter set up for the old tick system.  Being a lazy person, I didn't bother eliminating it when they changed the regen and spell counting methods.  The thing still works quite well.  It is usually a touch short - 30 - 45 seconds.  A masterful will be an extra tick.  It gives me a rough idea of what I have left, and then I can watch for the 60 second warning.  I find that 60 second warning to be accurate to better than 3 seconds.
+Being old sch00l, I had a sanc/aegis counter set up for the old tick system. Being a lazy person, I didn't bother eliminating it when they changed the regen and spell counting methods. The thing still works quite well. It is usually a touch short - 30 - 45 seconds. A masterful will be an extra tick. It gives me a rough idea of what I have left, and then I can watch for the 60 second warning. I find that 60 second warning to be accurate to better than 3 seconds.
 
-I set my counter to fall on the third tick after casting for sanc, and the sixth for aegis.  (Yes, I am still counting ticks.)  My wb and fly counters still work like a charm as well.
+I set my counter to fall on the third tick after casting for sanc, and the sixth for aegis. (Yes, I am still counting ticks.) My wb and fly counters still work like a charm as well.
 
 Not claiming to know how the current sanc or aegis actually works, though.
 
@@ -66,8 +66,8 @@ Qa
 
 "10 times today and results varied from 253 seconds to 298 seconds. "
 
-Basically, that is how it works.  :)
+Basically, that is how it works. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-The help still says '3 ticks' because before spell durations went to seconds, sanctuary would fall after 3 ticks passed.  (Hence, people would cast sanctuary right after a tick making it last ~235 seconds.)
+The help still says '3 ticks' because before spell durations went to seconds, sanctuary would fall after 3 ticks passed. (Hence, people would cast sanctuary right after a tick making it last \~235 seconds.)
 
 </div>

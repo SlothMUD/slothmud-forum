@@ -20,11 +20,11 @@ Ok.
 
 A harem of demoness relaxes to your song and works with efficiency!
 
-->1034hp 28ma 397mv +24/+17 **386,522,364** indoors
+\-\>1034hp 28ma 397mv +24/+17 \*\*386,522,364\*\* indoors
 
 You feel less protected.
 
-->1034hp 29ma 400mv +24/+17 **386,522,364** indoors
+\-\>1034hp 29ma 400mv +24/+17 \*\*386,522,364\*\* indoors
 
 forge boots
 
@@ -50,7 +50,7 @@ I find this so dissapointing adn devastating.
 
 <div class="post" data-post-id="30887" data-author="jezer" data-date="2010-02-12T21:11:03+00:00" data-subject="">
 
-Give Cizin his boots!  :evil: 
+Give Cizin his boots! <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom"> 
 
 If I ask a tradesman to do a job, and he stuffs up... is it right that I pay the damages? Neither should it be on sloth.
 

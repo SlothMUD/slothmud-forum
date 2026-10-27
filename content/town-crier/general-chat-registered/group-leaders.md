@@ -26,9 +26,12 @@ We need punctuation first.
 
 <div class="post" data-post-id="25655" data-author="reboog" data-date="2008-08-06T20:16:11+00:00" data-subject="">
 
-[quote:1h9p3y1j]Hi guys.  Just a lil' something: I am trying to learn to lead groups.  I am thinking we need more exp groups off lyme since there are so many people who are here with and without avatars... maybe other old group leaders would be willing to come lead exp and eq groups off of lyme?
-
-Like I said, I am new so not sure [at] all of what I am doing.   led a MH group, seemed to have gone ok.  No one died lol[/size:1h9p3y1j][/quote:1h9p3y1j]
+> <strong>Quote:</strong>
+> Hi guys. Just a lil' something: I am trying to learn to lead groups. I am thinking we need more exp groups off lyme since there are so many people who are here with and without avatars... maybe other old group leaders would be willing to come lead exp and eq groups off of lyme?
+> 
+> 
+> 
+> Like I said, I am new so not sure [at] all of what I am doing. led a MH group, seemed to have gone ok. No one died lol
 
 </div>
 
@@ -48,7 +51,8 @@ punctuation is for the weak and spelling's for faggots
 
 <div class="post" data-post-id="25667" data-author="Poggle" data-date="2008-08-07T15:24:35+00:00" data-subject="">
 
-punctuation is for the weak and spelling's for faggots[/quote:3ueeyo0v]
+> <strong>13 wrote:</strong>
+> punctuation is for the weak and spelling's for faggots
 
 Your spelling is impeccable, and you used an apostrophe!
 

@@ -14,13 +14,20 @@ post_count: 4
 
 From .net board :
 
-[quote:2p5a1glz]This version adds support for html windows and popoups.
-
-You can use html windows to display web pages, or graphics files etc from your hard drive. You can also use them to make tables populated with information by your scripts.
-
-Support has also been added for sending colour and other formatting stuff to 'ordinary' popups.
-
-See the help documentation for #htmlwindow and #sendtowin for more details.[/quote:2p5a1glz]
+> <strong>Quote:</strong>
+> This version adds support for html windows and popoups.
+> 
+> 
+> 
+> You can use html windows to display web pages, or graphics files etc from your hard drive. You can also use them to make tables populated with information by your scripts.
+> 
+> 
+> 
+> Support has also been added for sending colour and other formatting stuff to 'ordinary' popups.
+> 
+> 
+> 
+> See the help documentation for #htmlwindow and #sendtowin for more details.
 
 Enjoy.
 
@@ -28,7 +35,7 @@ Enjoy.
 
 <div class="post" data-post-id="4943" data-author="Zimm" data-date="2005-03-09T22:35:30+00:00" data-subject="Chat Addon for wintin">
 
-I just was wondering if it was possible to make a chat addon for .NET... If so i will be happy to make it.... Unless you got more time on your hands than i  8)
+I just was wondering if it was possible to make a chat addon for .NET... If so i will be happy to make it.... Unless you got more time on your hands than i <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

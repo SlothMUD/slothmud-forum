@@ -24,6 +24,6 @@ Splork
 
 <div class="post" data-post-id="29980" data-author="Clink" data-date="2009-09-10T14:09:19+00:00" data-subject="">
 
-Splork has turned soft. :shock:
+Splork has turned soft. <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>

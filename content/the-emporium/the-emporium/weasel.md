@@ -50,27 +50,28 @@ As usually, ur useless Jason.
 
 laugh.. 
 
-at least i'm consistent ;)
+at least i'm consistent <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="21865" data-author="Vixn" data-date="2008-01-04T08:09:46+00:00" data-subject="">
 
-I R Weasel and Ferret.. most of my other alts are gathering dust.[/quote:2k465o1j]
+> <strong>Weasel wrote:</strong>
+> I R Weasel and Ferret.. most of my other alts are gathering dust.
 
 last player weasel
 
-Weasel's last logon was Fri Jan  4 00:43:56 2008
+Weasel's last logon was Fri Jan 4 00:43:56 2008
 
 [40w 40m 40c 40t 40a] Weasel looks at you strangely ( O)(o ) =sMAc=
 
 last player ferret
 
-Ferret's last logon was Tue Jan  1 15:11:08 2008
+Ferret's last logon was Tue Jan 1 15:11:08 2008
 
 [40w 40m 40c 21t] Ferret looks at you strangely ( O)(o ) =sMAc=
 
-It seems you are really like such classo :D
+It seems you are really like such classo <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 Man I'm waiting for you to buy items i won on chop-block.
 
@@ -80,9 +81,12 @@ Edd
 
 <div class="post" data-post-id="21866" data-author="Leaf" data-date="2008-01-04T14:59:12+00:00" data-subject="">
 
-laugh.. 
-
-at least i'm consistent ;)[/quote:1z7rilja]
+> <strong>Autolycos wrote:</strong>
+> laugh.. 
+> 
+> 
+> 
+> at least i'm consistent <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 And thats why we love u sooooo much.
 

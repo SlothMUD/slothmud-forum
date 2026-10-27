@@ -14,15 +14,15 @@ post_count: 5
 
 a bracer of flames 3mil
 
-I think it's worth about 3 mil.  That reasonable to start with?
+I think it's worth about 3 mil. That reasonable to start with?
 
-+1 mregen
+\+1 mregen
 
-+3 mana
+\+3 mana
 
-I don't remember the restricts.  Next time I am on-line I'll ID it.
+I don't remember the restricts. Next time I am on-line I'll ID it.
 
--Qa
+\-Qa
 
 </div>
 
@@ -48,8 +48,8 @@ restricts according to eq list are EM EC EDr ENe [OR]
 
 <div class="post" data-post-id="454" data-author="Qa" data-date="2004-06-01T14:31:30+00:00" data-subject="">
 
-Sold to Weasel.  I'll catch you on-line.
+Sold to Weasel. I'll catch you on-line.
 
--Qa.
+\-Qa.
 
 </div>

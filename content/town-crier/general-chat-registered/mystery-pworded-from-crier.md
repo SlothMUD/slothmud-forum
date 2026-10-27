@@ -20,14 +20,14 @@ in other news-- If I lose a tri-40 item that is give for reaching a certain leve
 
 <div class="post" data-post-id="13676" data-author="Autolycos" data-date="2006-08-03T23:37:23+00:00" data-subject="">
 
-nope.. but you can get raped by a goat!  :twisted:
+nope.. but you can get raped by a goat! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="13678" data-author="Malison" data-date="2006-08-04T15:49:03+00:00" data-subject="">
 
-how do you get your 3x40 item in the first place?  is it some location or just talk to an imm?
+how do you get your 3x40 item in the first place? is it some location or just talk to an imm?
 
-and i'm fairly certain it has nothing to do with buggery, so keep the goats off this one :)
+and i'm fairly certain it has nothing to do with buggery, so keep the goats off this one <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

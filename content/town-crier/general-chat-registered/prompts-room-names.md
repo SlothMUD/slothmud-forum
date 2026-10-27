@@ -40,9 +40,9 @@ Sorry, this doesn't answer your question at all.
 
 <div class="post" data-post-id="21472" data-author="firebrand" data-date="2007-11-29T14:24:40+00:00" data-subject="">
 
-ask someone who uses a lloyds beacon/passage reporter.  they usually will  gtell something like "my beacon/passage is set at <roomname>"
+ask someone who uses a lloyds beacon/passage reporter. they usually will gtell something like "my beacon/passage is set at \<roomname\>"
 
-"rick 'em rack 'em ruck 'em rake!  stick that sword into that snake!" --genie -->disney's aladdin
+"rick 'em rack 'em ruck 'em rake! stick that sword into that snake!" --genie --\>disney's aladdin
 
 </div>
 
@@ -66,7 +66,7 @@ Well, I dont recall which client you said you use but I use wintin and in the MX
 
 <div class="post" data-post-id="21476" data-author="Thraxas" data-date="2007-11-29T18:00:08+00:00" data-subject="">
 
-:(
+<img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 I use AL Client ... no mxp support for that 
 
@@ -76,16 +76,17 @@ shame it can't be part of the normal player prompt really.
 
 <div class="post" data-post-id="21868" data-author="*Breeze*" data-date="2008-01-04T16:44:09+00:00" data-subject="">
 
-Even if it had mxp support, the roomname bit doesnt update in certain circumstances due to the way its implemented.  I have talked to various imm's about it and even emailed a few but I never got a reply from the emails.
+Even if it had mxp support, the roomname bit doesnt update in certain circumstances due to the way its implemented. I have talked to various imm's about it and even emailed a few but I never got a reply from the emails.
 
-tbh i think the imms are tired of me pointing out typos/bugs ;)
+tbh i think the imms are tired of me pointing out typos/bugs <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="21871" data-author="Autolycos" data-date="2008-01-04T18:51:18+00:00" data-subject="">
 
-I have talked to various imm's about it and even emailed a few but I never got a reply from the emails.[/quote:1zsrehe7]
+> <strong>Whiff wrote:</strong>
+> I have talked to various imm's about it and even emailed a few but I never got a reply from the emails.
 
-you must have sent it to Splork.   he's useless  :twisted:
+you must have sent it to Splork. he's useless <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

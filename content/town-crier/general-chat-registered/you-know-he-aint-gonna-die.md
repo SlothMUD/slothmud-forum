@@ -258,7 +258,8 @@ if I can find it ill take a picture of it
 
 <div class="post" data-post-id="21402" data-author="Weasel" data-date="2007-11-24T17:05:43+00:00" data-subject="Re: stoners junkies and freaks">
 
-I made a really cool picture thing with the lyrics to this song in high school if I can find it ill take a picture of it[/quote:1nazoat7]
+> <strong>13 wrote:</strong>
+> I made a really cool picture thing with the lyrics to this song in high school if I can find it ill take a picture of it
 
 don't go out of your way to find it or anything...
 
@@ -266,7 +267,7 @@ don't go out of your way to find it or anything...
 
 <div class="post" data-post-id="21403" data-author="brady" data-date="2007-11-24T19:40:13+00:00" data-subject="Re: stoners junkies and freaks">
 
-rofl  :D
+rofl <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -274,13 +275,13 @@ rofl  :D
 
 you hear that Marc... 
 
-Weasel made a funny ;)
+Weasel made a funny <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="21407" data-author="13" data-date="2007-11-25T06:28:22+00:00" data-subject="">
 
-all -> go fuck self
+all -\> go fuck self
 
 </div>
 
@@ -288,13 +289,13 @@ all -> go fuck self
 
 oh stfu Aaron.. this is a happy day...
 
-Weasel made 1 funny comment out of thousands of attempts  :twisted:
+Weasel made 1 funny comment out of thousands of attempts <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="21415" data-author="Weasel" data-date="2007-11-25T23:03:11+00:00" data-subject="">
 
-bwah!  :D
+bwah! <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -386,19 +387,20 @@ I'm gagging myself
 
 I'm brushing out the foul taste you left in my mouth
 
-"welcome to the party, pal" --john mcclane --> die hard
+"welcome to the party, pal" --john mcclane --\> die hard
 
 </div>
 
 <div class="post" data-post-id="21421" data-author="Yinao" data-date="2007-11-26T15:32:48+00:00" data-subject="">
 
-:x not much more needs to be said
+<img src="/images/smilies/icon_mad.svg" alt=":x" title=":x" width="15" height="15" class="smiley nozoom"> not much more needs to be said
 
 </div>
 
 <div class="post" data-post-id="21422" data-author="Thraxas" data-date="2007-11-26T17:54:30+00:00" data-subject="">
 
-:x not much more needs to be said[/quote:1e5ppff9]
+> <strong>Yinao wrote:</strong>
+> <img src="/images/smilies/icon_mad.svg" alt=":x" title=":x" width="15" height="15" class="smiley nozoom"> not much more needs to be said
 
 ... but I'm sure it will be.
 
@@ -412,9 +414,10 @@ One vote for deleting entire thread and pretending it never happened.. do I hear
 
 <div class="post" data-post-id="21427" data-author="Autolycos" data-date="2007-11-26T20:28:25+00:00" data-subject="">
 
-One vote for deleting entire thread and pretending it never happened.. do I hear a second?[/quote:3m9vb8j1]
+> <strong>Weasel wrote:</strong>
+> One vote for deleting entire thread and pretending it never happened.. do I hear a second?
 
-I'll second the vote for deleting Weasel  :twisted: 
+I'll second the vote for deleting Weasel <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 who needs him anyway!
 
@@ -436,13 +439,16 @@ tough call.... probably Workingman's Dead for me... maybe American Beauty...
 
 <div class="post" data-post-id="21442" data-author="Vixn" data-date="2007-11-27T21:01:19+00:00" data-subject="Re: music">
 
-We had a discussion one night, if you could pick 1 CD to listen to before you die, what would you choose.
+> <strong>Avatar wrote:</strong>
+> We had a discussion one night, if you could pick 1 CD to listen to before you die, what would you choose.
+> 
+> 
+> 
+> Alice in Chains - 'Jar of Flies' for me.
 
-Alice in Chains - 'Jar of Flies' for me.[/quote:v0e5k1ex]
+\+1, especially 'Nutshell'
 
-+1, especially 'Nutshell'
-
- 8)
+ <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -472,8 +478,9 @@ steam powered aereo plane by john hartford
 
 <div class="post" data-post-id="21455" data-author="Alberich" data-date="2007-11-28T13:01:55+00:00" data-subject="">
 
-steam powered aereo plane by john hartford[/quote:yp960xnm]
+> <strong>13 wrote:</strong>
+> steam powered aereo plane by john hartford
 
-+1
+\+1
 
 </div>

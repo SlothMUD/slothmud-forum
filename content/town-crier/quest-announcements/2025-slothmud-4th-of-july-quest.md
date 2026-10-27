@@ -18,10 +18,10 @@ The 2025 Fourth Of July Quest is scheduled to be at 10AM Pacific on Saturday Jul
 
 a countdown timer has been provided:
 
-[<LINK_TEXT text="https://www.tickcounter.com/countdown/7 ... july-quest">https://www.tickcounter.com/countdown/7578057/2025-slothmud-4th-of-july-quest</LINK_TEXT>](https://www.tickcounter.com/countdown/7578057/2025-slothmud-4th-of-july-quest)
+[https://www.tickcounter.com/countdown/7578057/2025-slothmud-4th-of-july-quest](https://www.tickcounter.com/countdown/7578057/2025-slothmud-4th-of-july-quest)
 
 See you there.
 
---Idj
+\--Idj
 
 </div>

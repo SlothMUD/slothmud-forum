@@ -12,19 +12,19 @@ post_count: 15
 
 <div class="post" data-post-id="28797" data-author="Medios" data-date="2009-04-11T18:33:34+00:00" data-subject="Ideas (while were at it)">
 
-I was thinking about personal items and how pretty much any time your running big eq groups someone will join and eventually loot another players pop.  These kinds of problems end up falling on the leader and just causing more drama for players.  
+I was thinking about personal items and how pretty much any time your running big eq groups someone will join and eventually loot another players pop. These kinds of problems end up falling on the leader and just causing more drama for players. 
 
 So I am wondering if there is an easy solution.
 
 Big/hard mobs with personal items like acid golem are truly aggravating to be looted by someone not paying attention or behaving maliciously.
 
-I don't know that allowing leader to set someone to loot is a solution either but it may be something to look into.  The only other way is to reduce the number of items that flag *personal* upon looting or make them only personal when you wear or hold them past a certain time of looting.  
+I don't know that allowing leader to set someone to loot is a solution either but it may be something to look into. The only other way is to reduce the number of items that flag \*personal\* upon looting or make them only personal when you wear or hold them past a certain time of looting. 
 
-If personal eq pops were created to keep large players from getting stuff for their lower players then it fails.  Large players can simply cycle a mob until it loads and then beat it down and come in with their other char to collect the item.  They could also cycle the item until it loads and then use a group to help them get it with the lower char.  Either way the *personal* flag only stops someone from trading the item not acquiring it.  
+If personal eq pops were created to keep large players from getting stuff for their lower players then it fails. Large players can simply cycle a mob until it loads and then beat it down and come in with their other char to collect the item. They could also cycle the item until it loads and then use a group to help them get it with the lower char. Either way the \*personal\* flag only stops someone from trading the item not acquiring it. 
 
-I like to propose ideas to help leaders deal with common problems.  Leading is intensive enough without some of the common grievances that the grouping players run into.  
+I like to propose ideas to help leaders deal with common problems. Leading is intensive enough without some of the common grievances that the grouping players run into. 
 
-I hope nobody gets upset about the player wipe.  I applaud the admin for taking action to revive the game.
+I hope nobody gets upset about the player wipe. I applaud the admin for taking action to revive the game.
 
 Good job.
 
@@ -32,19 +32,19 @@ Good job.
 
 <div class="post" data-post-id="28799" data-author="Toxis" data-date="2009-04-11T18:45:11+00:00" data-subject="">
 
-I really like that idea on personal eq.  People should not be allowed to loot if the leader doesn't want them to.
+I really like that idea on personal eq. People should not be allowed to loot if the leader doesn't want them to.
 
-Another thing I hope imms do is make RACES available in the future.  Don't give players stats from races, but perhaps give them a special skill.  Like an elf could have perma infravision, and perhaps the ability to stealth.
+Another thing I hope imms do is make RACES available in the future. Don't give players stats from races, but perhaps give them a special skill. Like an elf could have perma infravision, and perhaps the ability to stealth.
 
-What about professions?  Let a jewler level up and attach items to armor to give them bonuses.  A blacksmith could make some nice armor.  You could go out and collect herbs or mine... and these ore deposits or herbs would randomly pop around the mud from time to time in certain sectors.
+What about professions? Let a jewler level up and attach items to armor to give them bonuses. A blacksmith could make some nice armor. You could go out and collect herbs or mine... and these ore deposits or herbs would randomly pop around the mud from time to time in certain sectors.
 
 Improve riding attacks, add mounted skills, epic mounts.
 
 Will valk be open to everyone, btw?
 
-And how about durability on armor, repair your items... will take money out of the game.  Makes more sense than rent. :)
+And how about durability on armor, repair your items... will take money out of the game. Makes more sense than rent. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
--Tox
+\-Tox
 
 </div>
 
@@ -56,7 +56,7 @@ Right Toxis,
 
 some graphic artists and call it world of slothmud.
 
-cmon brad *sarcasm off*
+cmon brad \*sarcasm off\*
 
 </div>
 
@@ -64,7 +64,7 @@ cmon brad *sarcasm off*
 
 and also
 
-how class positioning in class order will affect things now? :)
+how class positioning in class order will affect things now? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 should we all make dr second chars?
 
@@ -74,7 +74,7 @@ should we all make dr second chars?
 
 can we now get skills like weapon of choice, weapon type specialization, weapon group specialization, weapon proficiencies, weapon mastery.....and of course for other playing types, magic shools/strata proficiencies and mastery?
 
-"we do NOT discharge our weapons in view of the public!" -kay --> men in black
+"we do NOT discharge our weapons in view of the public!" -kay --\> men in black
 
 </div>
 
@@ -86,7 +86,7 @@ You gettin kitchen mastery and dishes mastery
 
 <div class="post" data-post-id="28809" data-author="Ki" data-date="2009-04-11T19:51:08+00:00" data-subject="">
 
-If you want to personalize eq, why don't we have an engraving service either with a blacksmith or jeweler. Pay a fee to have your eq engraved. I had an old mud that did this. Typically when a group got whacked, eventually all the eq ended up on the ground after the corpses rotted. A simple get all.<name> enabled you to grab all your eq and not someone elses. I suppose we can use engrave for what purposes we need it for.
+If you want to personalize eq, why don't we have an engraving service either with a blacksmith or jeweler. Pay a fee to have your eq engraved. I had an old mud that did this. Typically when a group got whacked, eventually all the eq ended up on the ground after the corpses rotted. A simple get all.\<name\> enabled you to grab all your eq and not someone elses. I suppose we can use engrave for what purposes we need it for.
 
 </div>
 
@@ -102,35 +102,37 @@ NPC can not look personalized eq.
 
 <div class="post" data-post-id="28812" data-author="Clink" data-date="2009-04-11T20:10:10+00:00" data-subject="">
 
-Regarding personal Items:  You'll be a lot less likely to have someone who isn't paying attention in your group loot your kill.  It'll be more likely that they are dead if they aren't paying attention.
+Regarding personal Items: You'll be a lot less likely to have someone who isn't paying attention in your group loot your kill. It'll be more likely that they are dead if they aren't paying attention.
 
-Races: We aren't doing races.  We discussed it and we assume that all players are human.  We'd have a more complicated character creation and we are trying to move in the other direction.
+Races: We aren't doing races. We discussed it and we assume that all players are human. We'd have a more complicated character creation and we are trying to move in the other direction.
 
 </div>
 
 <div class="post" data-post-id="28815" data-author="Weasel" data-date="2009-04-11T20:29:23+00:00" data-subject="">
 
-We discussed it and we assume that all players are human.[/quote:3qrruyyi]
+> <strong>Clink wrote:</strong>
+> We discussed it and we assume that all players are human.
 
-That's one hell of an assumption.  :wink:
+That's one hell of an assumption. <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="28816" data-author="Yasik2" data-date="2009-04-11T20:33:40+00:00" data-subject="">
 
-We discussed it and we assume that all players are human.[/quote:2l97e4a7]
+> <strong>Clink wrote:</strong>
+> We discussed it and we assume that all players are human.
 
-[img:2l97e4a7]http://yasik.kiev.ua/CaptainObvious_have_this_rock.jpg[/img:2l97e4a7]
+![](http://yasik.kiev.ua/CaptainObvious_have_this_rock.jpg)
 
- :D  :D  :D
+ <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="28818" data-author="Toxis" data-date="2009-04-11T20:40:13+00:00" data-subject="">
 
-Oh yeah, increase the space for character descriptions. :)~
+Oh yeah, increase the space for character descriptions. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">\~
 
--Tox
+\-Tox
 
 </div>
 
@@ -154,6 +156,6 @@ Apb
 
 what about i get a sword and exp, and u go kill rats forever with ur 1 attack!
 
- :P
+ <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>

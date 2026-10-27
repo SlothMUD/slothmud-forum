@@ -12,7 +12,7 @@ post_count: 1
 
 <div class="post" data-post-id="34233" data-author="*Neptune*" data-date="2013-04-12T15:21:24+00:00" data-subject="Raven&#x27;s Roost Item Updates">
 
-1. Regarding The Dragon Emblem and the Ruby Spider Brooch:
+1\. Regarding The Dragon Emblem and the Ruby Spider Brooch:
 
 No, I didn't change their stats. 
 
@@ -26,8 +26,8 @@ only be attachable to the intended item types. No other changes
 
 to these items were made.
 
-2. For some reason, Envy's items decided to unzone themselves.
+2\. For some reason, Envy's items decided to unzone themselves.
 
-    These items have been rezoned and can now be loaded as normal.
+ These items have been rezoned and can now be loaded as normal.
 
 </div>

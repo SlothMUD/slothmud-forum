@@ -23,23 +23,23 @@ Here's a function i use to format numbers for cecho
 ```
 u = u or {}
 function u.formatNumColor(n)
-  if n >= 10^10 then
-    return string.format("<dark_violet>%.0f<purple>B<reset>", n / 10^9)
-  elseif n >= 10^9 then
-    return string.format("<dark_violet>%.1f<purple>B<reset>", n / 10^9)
-  elseif n >= 10^7 then
-    return string.format("<steel_blue>%.0f<deep_sky_blue>M<reset>", n / 10^6)
-  elseif n >= 10^6 then
-      return string.format("<steel_blue>%.1f<deep_sky_blue>M<reset>", n / 10^6)
-  elseif n >= 10^4 then
-      return string.format("<forest_green>%.0f<lime_green>K<reset>", n / 10^3) 
-  elseif n >= 10^3 then
-      return string.format("<forest_green>%.1f<lime_green>K<reset>", n / 10^3)
-  elseif n >= 10^2 then
-      return string.format("<ansi_yellow>%.0f<reset>", n) 
-  else 
-      return string.format("<ansi_yellow>%.1f<reset>", n)
-  end      
+ if n >= 10^10 then
+ return string.format("<dark_violet>%.0f<purple>B<reset>", n / 10^9)
+ elseif n >= 10^9 then
+ return string.format("<dark_violet>%.1f<purple>B<reset>", n / 10^9)
+ elseif n >= 10^7 then
+ return string.format("<steel_blue>%.0f<deep_sky_blue>M<reset>", n / 10^6)
+ elseif n >= 10^6 then
+ return string.format("<steel_blue>%.1f<deep_sky_blue>M<reset>", n / 10^6)
+ elseif n >= 10^4 then
+ return string.format("<forest_green>%.0f<lime_green>K<reset>", n / 10^3) 
+ elseif n >= 10^3 then
+ return string.format("<forest_green>%.1f<lime_green>K<reset>", n / 10^3)
+ elseif n >= 10^2 then
+ return string.format("<ansi_yellow>%.0f<reset>", n) 
+ else 
+ return string.format("<ansi_yellow>%.1f<reset>", n)
+ end 
 end
 ```
 

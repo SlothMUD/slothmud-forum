@@ -22,7 +22,7 @@ stop sitting and cultivating your piles, go for poi!
 
 Are you one of the participants, or are you one of the photographers?
 
-Some very nice pictures there, I'm sure it must have looked better in real life  :)  Looks cool.
+Some very nice pictures there, I'm sure it must have looked better in real life <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> Looks cool.
 
 </div>
 
@@ -30,6 +30,6 @@ Some very nice pictures there, I'm sure it must have looked better in real life 
 
 those are photos which i shoot yesterday.
 
-as for being a performer, maybe someday.. :D
+as for being a performer, maybe someday.. <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>

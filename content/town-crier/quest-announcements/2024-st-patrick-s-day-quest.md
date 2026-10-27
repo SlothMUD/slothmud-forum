@@ -18,10 +18,10 @@ The Quest will be Sunday March 17th at 10am Pacific (1pm Eastern)
 
 timer link is below:
 
-[<LINK_TEXT text="https://www.tickcounter.com/countdown/5 ... -day-quest">https://www.tickcounter.com/countdown/5007260/2024-slothmud-st-patricks-day-quest</LINK_TEXT>](https://www.tickcounter.com/countdown/5007260/2024-slothmud-st-patricks-day-quest)
+[https://www.tickcounter.com/countdown/5007260/2024-slothmud-st-patricks-day-quest](https://www.tickcounter.com/countdown/5007260/2024-slothmud-st-patricks-day-quest)
 
 See you all there
 
---D
+\--D
 
 </div>

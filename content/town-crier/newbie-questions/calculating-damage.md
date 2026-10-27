@@ -24,9 +24,9 @@ Kick dam, stab dam, circle dam, hand dam - some items of eq have these attribute
 
 <div class="post" data-post-id="38223" data-author="Teron" data-date="2017-04-20T07:00:17+00:00" data-subject="Re: Calculating Damage">
 
-1. You can see your average damage of at least 5 attacks by typing: counters
+1\. You can see your average damage of at least 5 attacks by typing: counters
 
-2. The +dam bonuses you see on eq are added to the damage of the skill, unless it's backstab/circlestab, deathgrip/strike.
+2\. The +dam bonuses you see on eq are added to the damage of the skill, unless it's backstab/circlestab, deathgrip/strike.
 
 Kickdam equals to your prime level+kick dam.
 
@@ -48,20 +48,20 @@ So if you get all the kick dam eq and runes for a valker, then your kick might c
 
 If you want to increase your stab/melee damage you can:
 
-- raise your str (help stre)
+\- raise your str (help stre)
 
-- get raw damage
+\- get raw damage
 
-- increase your hitroll to at least 20
+\- increase your hitroll to at least 20
 
-- get weapon/stab damage eq
+\- get weapon/stab damage eq
 
 </div>
 
 <div class="post" data-post-id="38224" data-author="Gorka" data-date="2017-04-20T08:34:33+00:00" data-subject="Re: Calculating Damage">
 
-> **Teron wrote:**
-> - increase your hitroll to at least 20
+> <strong>Teron wrote:</strong>
+> \- increase your hitroll to at least 20
 
 Although your post is about damage Hermoon, don't underestimate hitroll. What good is any form of damage unless it lands. Physical attacks land at 85%, if you have less than 20 hitroll rest assured it's going to be proportionally less than 85%. When sloth 4 came out there was a lot of problems with newbie hitroll. This is when the sloth brooches and some other changes came about.
 
@@ -71,7 +71,7 @@ A valuable thing you can do, is use a good client such as mudlet to log your ses
 
 <div class="post" data-post-id="38225" data-author="Hermoon" data-date="2017-04-20T10:44:55+00:00" data-subject="Re: Calculating Damage">
 
-Thank you very much for taking the time to share this information. I'm sure it will be helpful to new players who are not familiar with mud (or D&D) mechanics. The guidance on the amount of hitroll to aim for is essential when trying to balance out other enhancers of regen, damage, stats, etc. 
+Thank you very much for taking the time to share this information. I'm sure it will be helpful to new players who are not familiar with mud (or D\&D) mechanics. The guidance on the amount of hitroll to aim for is essential when trying to balance out other enhancers of regen, damage, stats, etc. 
 
 In addition to wearable equipment, there are numerous clasps that attach to equipment which enhance hitroll - these can be obtained through quests, forging or killing mobs. The eqlist can be used to find available clasps for characters of various levels and classes: http://slothmudeq.tk/
 
@@ -95,31 +95,31 @@ As far as avatar hitrolls, having +33 that I have is enough to hit much more, th
 
 <div class="post" data-post-id="38227" data-author="Josiah" data-date="2017-04-21T20:05:52+00:00" data-subject="Re: Calculating Damage">
 
-> **Teron wrote:**
+> <strong>Teron wrote:</strong>
 > Kickdam equals to your prime level+kick dam... So if you get all the kick dam eq and runes for a valker, then your kick might compare to a strike of a well-equipped 20lev monk.
 
-Pretty sure kicks deals half of your warrior or monk level (whichever is higher), plus your kick damage eq.  It can be exceptionally good at low levels if you wear a lot of kickdam clasps and runes.  A perfectly equipped (+33) level 20 can do 43 damage per kick.  A valk monk could strike that hard with a lucky roll, but not every time.  Kick is also faster than strike.
+Pretty sure kicks deals half of your warrior or monk level (whichever is higher), plus your kick damage eq. It can be exceptionally good at low levels if you wear a lot of kickdam clasps and runes. A perfectly equipped (+33) level 20 can do 43 damage per kick. A valk monk could strike that hard with a lucky roll, but not every time. Kick is also faster than strike.
 
-> **Teron wrote:**
+> <strong>Teron wrote:</strong>
 > no idea how strike scales
 
-Strike and circle stabs have a 2 to 3 times multiplier, depending on how high level you are.  A level 40 monk gets 3 strike damage from each 1 handdam.  Similarly 1 damage gives 3 circlestab damage.  I believe weapondam counts towards circle, but I've not tested it.
+Strike and circle stabs have a 2 to 3 times multiplier, depending on how high level you are. A level 40 monk gets 3 strike damage from each 1 handdam. Similarly 1 damage gives 3 circlestab damage. I believe weapondam counts towards circle, but I've not tested it.
 
 Circle damage is added after the multiplier, as is up to 45 damage from the 'master strike' avatar skill.
 
-> **Teron wrote:**
+> <strong>Teron wrote:</strong>
 > If you want to increase your stab/melee damage you can:
 
-The most overwhelming way to increase your damage is to get a big sword.  Going from Teron's suggested 3d4 +2 +2 weapon is a decent start, but 4d5 +4 +4 is a huge upgrade.
+The most overwhelming way to increase your damage is to get a big sword. Going from Teron's suggested 3d4 +2 +2 weapon is a decent start, but 4d5 +4 +4 is a huge upgrade.
 
-Currently the strongest weapon for a lowbie (min level 10) is an 'ogre claymore.'  Enchant and Sharpen it (if you have the money) for the optimal 4d5 +4 +4.  Makes those daggers look pretty silly.  Even low level monks are better off using this sword (and kicking) if they have access to it.  Too expensive for first time newbies.
+Currently the strongest weapon for a lowbie (min level 10) is an 'ogre claymore.' Enchant and Sharpen it (if you have the money) for the optimal 4d5 +4 +4. Makes those daggers look pretty silly. Even low level monks are better off using this sword (and kicking) if they have access to it. Too expensive for first time newbies.
 
-With good strength, gear, and the lion chorus bard song, you can massacre every hit as a level 20.  At that point your biggest problem becomes running out of enemies to fight; they die too fast.
+With good strength, gear, and the lion chorus bard song, you can massacre every hit as a level 20. At that point your biggest problem becomes running out of enemies to fight; they die too fast.
 
-> **Teron wrote:**
+> <strong>Teron wrote:</strong>
 > Spell damage is added to your actual spell damage
 
-Not directly.  I haven't proven it yet, but my best guess is that spelldam adds to the maximum damage rather than the actual damage.  (So with +100 spelldam, a 165-245 firewind, now does 165 to 345 before saves.)  
+Not directly. I haven't proven it yet, but my best guess is that spelldam adds to the maximum damage rather than the actual damage. (So with +100 spelldam, a 165-245 firewind, now does 165 to 345 before saves.) 
 
 The new counters make it a lot easier to test.
 

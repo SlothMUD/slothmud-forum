@@ -12,55 +12,55 @@ post_count: 39
 
 <div class="post" data-post-id="33636" data-author="*juggleblood*" data-date="2012-10-07T22:53:58+00:00" data-subject="coliseum edits">
 
-* Finally, all scores should be saving and persisting through reboots.
+\* Finally, all scores should be saving and persisting through reboots.
 
-*Druid bugs worked out.
+\*Druid bugs worked out.
 
-*Fixed fail to raise bug on exit from coliseum.
+\*Fixed fail to raise bug on exit from coliseum.
 
--keep reporting those bugs
+\-keep reporting those bugs
 
 thx 
 
--J
+\-J
 
 </div>
 
 <div class="post" data-post-id="33638" data-author="*juggleblood*" data-date="2012-10-08T13:00:07+00:00" data-subject="Re: coliseum edits">
 
-*Spear of Azarone fixed/changed and weight reduced.
+\*Spear of Azarone fixed/changed and weight reduced.
 
 </div>
 
 <div class="post" data-post-id="33640" data-author="*juggleblood*" data-date="2012-10-13T14:10:16+00:00" data-subject="Re: coliseum edits">
 
-*Deleveled chars are no longer able to enter lower level arenas in the coliseum.
+\*Deleveled chars are no longer able to enter lower level arenas in the coliseum.
 
-*High score in level 3 and 4 returned to Eve. Josiah buried up to his neck and covered in honey.
+\*High score in level 3 and 4 returned to Eve. Josiah buried up to his neck and covered in honey.
 
 </div>
 
 <div class="post" data-post-id="33641" data-author="*juggleblood*" data-date="2012-10-13T22:10:35+00:00" data-subject="Re: coliseum edits">
 
-*You can now <look scores> at any given arena sign and see all the scores for that level in order of highest to lowest.
+\*You can now \<look scores\> at any given arena sign and see all the scores for that level in order of highest to lowest.
 
 </div>
 
 <div class="post" data-post-id="33642" data-author="*juggleblood*" data-date="2012-10-14T16:28:29+00:00" data-subject="Re: coliseum edits">
 
-*Enhanced the following items and fixed such that can not be used in coliseum:
+\*Enhanced the following items and fixed such that can not be used in coliseum:
 
 potion of accuracy, potion of good intentions, potion of bad intentions, flask of comradery, glimmering green potion, thick green potion, radiant blue potion, sparkling blue potion, goblet of the sacred order, potion crackling with magical energy.
 
-*Added messages on quaff to illustrate affects better.
+\*Added messages on quaff to illustrate affects better.
 
-*Added messages on cast identify.
+\*Added messages on cast identify.
 
 </div>
 
 <div class="post" data-post-id="33644" data-author="*juggleblood*" data-date="2012-10-16T16:06:05+00:00" data-subject="Re: coliseum edits">
 
-*Re-balanced level 2. Reduced mob hp. Reduced poison durations. Minotaur charge is dodgeable (under testing). Reduced bash success rate.
+\*Re-balanced level 2. Reduced mob hp. Reduced poison durations. Minotaur charge is dodgeable (under testing). Reduced bash success rate.
 
 </div>
 
@@ -164,7 +164,7 @@ I'm still actively banging this thing out.
 
 I'm thinking of limiting groupsize by total number of 40's in the group. So lets say 18 total 40's, the equivalent of 2 9x40's or 9 1x40's. Under 40 will not be allowed. 
 
-Score can just be total number of mobs killed. Actually completing the thing, killing all 125 mobs, won't be a common occurrence and will probably warrant a special reward.  
+Score can just be total number of mobs killed. Actually completing the thing, killing all 125 mobs, won't be a common occurrence and will probably warrant a special reward. 
 
 For score tracking / recording, I'm thinking I record the group leader and his highest scoring group. So for example Valiant leads his group of players x, y, and z. It will record Valiant's group of x, y, and z and score. Then Valiant leads a different group of players w, v, and u. It writes over Valiant's previous group and score. 
 
@@ -184,12 +184,12 @@ I wouldn't worry about limiting 40's... already its clear the coliseum is biased
 
 <div class="post" data-post-id="33682" data-author="Magi" data-date="2012-10-27T04:53:30+00:00" data-subject="Re: coliseum edits">
 
-> **jezer wrote:**
+> <strong>jezer wrote:</strong>
 > already its clear the coliseum is biased to warriors... a group of warriors is going to do better...
 
 The champion of the 4x40 arena disputes your muscle-biased allegation!
 
-- Magi the Druid Mage
+\- Magi the Druid Mage
 
 PS: Just wait til the avatar necromasters return from their breaks to claim the higher level scores!
 
@@ -197,15 +197,15 @@ PS: Just wait til the avatar necromasters return from their breaks to claim the 
 
 <div class="post" data-post-id="33683" data-author="jezer" data-date="2012-10-27T05:16:15+00:00" data-subject="Re: coliseum edits">
 
-Oh, come on Magi, all the other arena's have melee classes as top.  :roll: Talk about ignore the elephant in the room.
+Oh, come on Magi, all the other arena's have melee classes as top. <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> Talk about ignore the elephant in the room.
 
 </div>
 
 <div class="post" data-post-id="33687" data-author="*juggleblood*" data-date="2012-10-27T13:36:03+00:00" data-subject="Re: coliseum edits">
 
-* I have removed a slight handicap the coliseum had against players using pets. There should be noticeable score improvements. I had already removed the shifted handicap.
+\* I have removed a slight handicap the coliseum had against players using pets. There should be noticeable score improvements. I had already removed the shifted handicap.
 
-* Fixed level 9 bug with mob hp.
+\* Fixed level 9 bug with mob hp.
 
 The coliseum had incorporated the notion that druids and necros had a minor advantage. That may have been true near the end of S3, but not now. 
 
@@ -221,7 +221,7 @@ Btw: The breakdown of classes that excel at the coliseum is not indicative of ho
 
 <div class="post" data-post-id="33690" data-author="*juggleblood*" data-date="2012-10-27T18:45:04+00:00" data-subject="Re: coliseum edits">
 
-*Mindfroy the Illusionist will no longer be able to penetrate mindbar to paralyze you.
+\*Mindfroy the Illusionist will no longer be able to penetrate mindbar to paralyze you.
 
 </div>
 
@@ -247,7 +247,7 @@ Thanks Pixie for being there to deal w/ problems.
 
 I ran the pit twice last night with Cyprimus, I think Cizin ran with Cyprimus a couple of times before that.
 
-For a beta "mini game" as it were, it's a pretty dam fine attempt. It's hard to even give much constructive criticism when it probably already reaches the mark. Two solid players can reach up to near wave 10 where you start to fight the mobs from arena 6 on mass. The waves around that are nicely difficult and perhaps can only be done with multiple healers at the same time. It's hard for thieves and monks to do opening moves due to some swarming... but this probably is a good thing. There is a good collection of ethers and I found myself wanting every single class to be there for some reason or another... except necro's they smell...  :twisted: 
+For a beta "mini game" as it were, it's a pretty dam fine attempt. It's hard to even give much constructive criticism when it probably already reaches the mark. Two solid players can reach up to near wave 10 where you start to fight the mobs from arena 6 on mass. The waves around that are nicely difficult and perhaps can only be done with multiple healers at the same time. It's hard for thieves and monks to do opening moves due to some swarming... but this probably is a good thing. There is a good collection of ethers and I found myself wanting every single class to be there for some reason or another... except necro's they smell... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 The only thing I'd change about the pit is the way the token's work. It's drachma and it's personal, I'm afraid we are far to greedy to work that one out amongst ourselves and can see that disrupting the harmony of the mud and inter player relationships very easy. Essentially some players will always need "parents" to play nice with the other children and you imms are that.
 
@@ -267,13 +267,13 @@ I've disconnected it for now. Going to work on it this evening.
 
 <div class="post" data-post-id="33696" data-author="*juggleblood*" data-date="2012-10-31T01:29:07+00:00" data-subject="Re: coliseum edits">
 
-*Groupdeath raise / teleport works now even if team member has morted / acquiesced.
+\*Groupdeath raise / teleport works now even if team member has morted / acquiesced.
 
-*Group teleports to entrance now on final victory.
+\*Group teleports to entrance now on final victory.
 
-*Trapezoidal token breaks into hexes instead of personal octs.
+\*Trapezoidal token breaks into hexes instead of personal octs.
 
-*Retrieve corpse function fixed.
+\*Retrieve corpse function fixed.
 
 </div>
 
@@ -287,7 +287,7 @@ How about this. The team who beats this thing with the fewest total levels by a 
 
 How about a scoreboard that lists the group members, and the fastest completion time achieved by that group, with higher rewards for faster completions.
 
-Say you start with a prize pool of 200 drachma, and then you "lose" 5 drachma every minute.  If you win in 30 minutes (which is pretty hard, i think), you'd get 50 drachma.
+Say you start with a prize pool of 200 drachma, and then you "lose" 5 drachma every minute. If you win in 30 minutes (which is pretty hard, i think), you'd get 50 drachma.
 
 If you attempt it again with a better group and win it a minute faster than your previous record, you'd get 5 more drachma.
 
@@ -315,43 +315,43 @@ Chaos pit is functioning pretty well. I added a scoreboard. Go to the entrance a
 
 Here's the board currently. It appears better ingame.
 
-************************************************************************
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
-*                                                                      *
+\* \*
 
-*                 Pit Champions                                        *
+\* Pit Champions \*
 
-*                                                                      *
+\* \*
 
-*    The group:                                         Juggleblood    *
+\* The group: Juggleblood \*
 
-*    Completion time:   60 minutes.               Group levels: 405    *
+\* Completion time: 60 minutes. Group levels: 405 \*
 
-*                                                                      *
+\* \*
 
-*                 Valiant Efforts                                      *
+\* Valiant Efforts \*
 
-*                                                                      *
+\* \*
 
-*    The group:                                         Juggleblood    *
+\* The group: Juggleblood \*
 
-*    Killed  50 opponents in   1 minutes          Group levels: 405    *
+\* Killed 50 opponents in 1 minutes Group levels: 405 \*
 
-*                                                                      *
+\* \*
 
-*    The group:                                     Zuzu Shyla Law     *
+\* The group: Zuzu Shyla Law \*
 
-*    Killed  53 opponents in  26 minutes          Group levels: 935    *
+\* Killed 53 opponents in 26 minutes Group levels: 935 \*
 
-*                                                                      *
+\* \*
 
-*    The group:                                           Cyprimus     *
+\* The group: Cyprimus \*
 
-*    Killed  54 opponents in  20 minutes          Group levels: 360    *
+\* Killed 54 opponents in 20 minutes Group levels: 360 \*
 
-*                                                                      *
+\* \*
 
-************************************************************************
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 </div>
 
@@ -377,11 +377,11 @@ You must now be level 40 in your primary class to enter.
 
 You must now have at least one other person in your group to enter.
 
-Group stats should no longer save if score < 30.
+Group stats should no longer save if score \< 30.
 
 Players who acquiesce or corpse will remain on grouplist on scoreboard, but will not be rewarded or teleported post-match.
 
-**** Now 25 Drachma for Completion ****** 
+\*\*\*\* Now 25 Drachma for Completion \*\*\*\*\*\* 
 
 May only be rewarded once, but may enter as many times as you wish with whomever you wish. No drachma rewarded to players corpsing or acquiescing from the pit.
 

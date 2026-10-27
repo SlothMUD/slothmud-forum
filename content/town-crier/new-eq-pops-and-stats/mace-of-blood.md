@@ -30,9 +30,9 @@ Damage Dice is '4D3'
 
 Can affect you as:
 
-    Affects: HITROLL by 2
+ Affects: HITROLL by 2
 
-    Affects: REGEN_HP by 2
+ Affects: REGEN\_HP by 2
 
 Only those who are at least apprentice clerics or adept warriors, or
 

@@ -28,9 +28,9 @@ So maybe someone could just fix this with an or statement so that mob can be tos
 
 few days ago Yinao was happily flying around AH, no bugs noticed
 
-when you toss someone - he/she/it ends up *sitting*
+when you toss someone - he/she/it ends up \*sitting\*
 
-you cant toss whos NOT *standing*
+you cant toss whos NOT \*standing\*
 
 </div>
 
@@ -44,11 +44,14 @@ Doesn't seem like it.
 
 <div class="post" data-post-id="23643" data-author="Medios" data-date="2008-04-10T00:38:57+00:00" data-subject="">
 
-few days ago I happily tossed Yinao's salad he was flying around AH, no bugs noticed
-
-when you toss someone - he/she/it ends up *sitting* on your face
-
-you can toss?[/quote:12y3xrvk]
+> <strong>Yasik2 wrote:</strong>
+> few days ago I happily tossed Yinao's salad he was flying around AH, no bugs noticed
+> 
+> 
+> 
+> when you toss someone - he/she/it ends up \*sitting\* on your face
+> 
+> you can toss?
 
 I fixed it to relate more to the subject.
 
@@ -60,19 +63,24 @@ This should be fixed now.
 
 Fighting mobs can be tossed again.
 
---
+\--
 
 Jake
 
-when I try to toss someone that i'm fighting I see:
-
-You can't toss someone who isn't standing!
-
-This looks like a bug. If it was intentional (and I can't understand why it would be), then at least the message should make sense. 
-
-It looks to me like someone's intention was to make it so that a resting pc couldn't be tossed. But they forgot that 'fighting' is a separate position.
-
-So maybe someone could just fix this with an or statement so that mob can be tossed if standing or fighting. Pretty please with sugar on top.[/quote:37u5r4rg]
+> <strong>juggleblood wrote:</strong>
+> when I try to toss someone that i'm fighting I see:
+> 
+> You can't toss someone who isn't standing!
+> 
+> 
+> 
+> This looks like a bug. If it was intentional (and I can't understand why it would be), then at least the message should make sense. 
+> 
+> 
+> 
+> It looks to me like someone's intention was to make it so that a resting pc couldn't be tossed. But they forgot that 'fighting' is a separate position.
+> 
+> So maybe someone could just fix this with an or statement so that mob can be tossed if standing or fighting. Pretty please with sugar on top.
 
 </div>
 
@@ -84,12 +92,12 @@ applause jake
 
 You can't applause someone who isn't standing!
 
-Aarrgghh!  :twisted:
+Aarrgghh! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23804" data-author="Rynquald" data-date="2008-04-17T00:30:13+00:00" data-subject="">
 
-Thanks Jake :)
+Thanks Jake <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

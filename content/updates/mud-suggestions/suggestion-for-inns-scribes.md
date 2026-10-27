@@ -32,7 +32,7 @@ Any comments/criticism?
 
 <div class="post" data-post-id="602" data-author="madmax" data-date="2004-06-09T18:50:04+00:00" data-subject="">
 
-Or make all (public) innkeepers rooms to be NODROP similar to Valk.  Then designate a room for all drops to go. I.E. the Bar in Bal Harbor etc.
+Or make all (public) innkeepers rooms to be NODROP similar to Valk. Then designate a room for all drops to go. I.E. the Bar in Bal Harbor etc.
 
 </div>
 
@@ -40,13 +40,13 @@ Or make all (public) innkeepers rooms to be NODROP similar to Valk.  Then design
 
 let's make the boxes like those in resident evil...anything put into one box is able to be taken out of any box...
 
- :twisted:  :idea:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_idea.svg" alt=":idea:" title=":idea:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="608" data-author="Weasel" data-date="2004-06-10T04:39:33+00:00" data-subject="">
 
-now THAT would be REALLY kewl  ..or maybe not due to things like temp Lyme eq and choppers being continent-restricted.
+now THAT would be REALLY kewl ..or maybe not due to things like temp Lyme eq and choppers being continent-restricted.
 
 any coders want to comment on this idea and the feasibility of it?
 
@@ -56,7 +56,7 @@ any coders want to comment on this idea and the feasibility of it?
 
 ...thinks about smuggling problems and other bad uses of the 'universal boxes'...
 
- :twisted: 
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 ...drops a lit barrel of a mixture of oil and alcohol in the box, running out screaming: FIRE IN DA HOLE!...
 
@@ -68,8 +68,8 @@ and so on
 
 Shallah, the innkeeper, looks into the box of lost property box, get curved scimitar and clumsy cut off her own head.
 
-*clap, clap*
+\*clap, clap\*
 
-:roll:
+<img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>

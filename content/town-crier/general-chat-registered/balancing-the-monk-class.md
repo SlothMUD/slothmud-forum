@@ -12,71 +12,71 @@ post_count: 14
 
 <div class="post" data-post-id="11922" data-author="jezer" data-date="2006-04-03T01:02:50+00:00" data-subject="Balancing The Monk Class">
 
-More mage spells! :(
+More mage spells! <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
-I'm starting to feel a little left out being a monk! We have only had a single skill added to our guild in my time at sloth, a chance to don the spandex and use our muscular bodies to crush our opponents! All I need now is a t-shirt with a WWF slogan that gives +2 to bodyslam! Erm, feel free to give me the book too btw ;)
+I'm starting to feel a little left out being a monk! We have only had a single skill added to our guild in my time at sloth, a chance to don the spandex and use our muscular bodies to crush our opponents! All I need now is a t-shirt with a WWF slogan that gives +2 to bodyslam! Erm, feel free to give me the book too btw <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 So I've decided to do a little research in the hope I can persuade the powers that be to add a little to the monk class. Maybe not in the way you expect, so imms, please have an open mind!
 
 I understand the monk class to roughly be centered around these skills...
 
-1) Unarmed Combat
+1\) Unarmed Combat
 
-2) Mental/Physical Immunites and Mental Strength
+2\) Mental/Physical Immunites and Mental Strength
 
-3) Experts In Movement
+3\) Experts In Movement
 
 Unarmed Combat
 
-==============
+\==============
 
-blindfight            - Lvl:  4,           Learned  85%
+blindfight - Lvl: 4, Learned 85%
 
-strike                - Lvl:  8,           Learned  85%
+strike - Lvl: 8, Learned 85%
 
-stun                  - Lvl: 12,           Learned  85%
+stun - Lvl: 12, Learned 85%
 
-dodge                 - Lvl: 15,           Learned  85%
+dodge - Lvl: 15, Learned 85%
 
-deathgrip             - Lvl: 25,           Learned  95%
+deathgrip - Lvl: 25, Learned 95%
 
-flurry                - Lvl: 30,           Learned  85%
+flurry - Lvl: 30, Learned 85%
 
-counterattack         - Lvl: 33,           Learned  85%
+counterattack - Lvl: 33, Learned 85%
 
-wraithtouch           - Lvl: 33,           Learned  85%
+wraithtouch - Lvl: 33, Learned 85%
 
-bodyslam              - Lvl: 35,          Unlearned
+bodyslam - Lvl: 35, Unlearned
 
 Immunities/Strength
 
-===================
+\===================
 
-kensai                - Lvl: 26,           Learned  95%
+kensai - Lvl: 26, Learned 95%
 
-focus                 - Lvl: 23,           Learned  85%
+focus - Lvl: 23, Learned 85%
 
-purity                - Lvl: 18, Mana: 60, Learned  95%
+purity - Lvl: 18, Mana: 60, Learned 95%
 
-feign death           - Lvl: 20,          Unlearned
+feign death - Lvl: 20, Unlearned
 
 Movement
 
-========
+\========
 
-presage               - Lvl: 31,          Unlearned
+presage - Lvl: 31, Unlearned
 
-windrun               - Lvl: 36,           Learned  85%
+windrun - Lvl: 36, Learned 85%
 
-slowfall              - Lvl:  1,           Learned  95%
+slowfall - Lvl: 1, Learned 95%
 
-waterwalk             - Lvl: 11,           Learned  95%
+waterwalk - Lvl: 11, Learned 95%
 
-stalk                 - Lvl: 17,           Learned  50%
+stalk - Lvl: 17, Learned 50%
 
 Our combat skills are pretty nicely done, and are pretty balanced in the game I feel. Thx!
 
-Our movement skills are also not to bad... but I think flurry should be max 20mvs... because most of us grip and flurry thats like 40mvs straight out! Try doing that with n00b mvs! :( Might I also add, I think in the movement area, monks should have higher natural mv regen. I for one treasure all eq that has mv regen, and I try to wear as much as possible. Maybe monks should have higher natural mv regen? I mean they float across the ground right? I consistantly run out of move's on xp runs and its kind of annoying. I'd love to see more monk skills based around improved movement... 
+Our movement skills are also not to bad... but I think flurry should be max 20mvs... because most of us grip and flurry thats like 40mvs straight out! Try doing that with n00b mvs! <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom"> Might I also add, I think in the movement area, monks should have higher natural mv regen. I for one treasure all eq that has mv regen, and I try to wear as much as possible. Maybe monks should have higher natural mv regen? I mean they float across the ground right? I consistantly run out of move's on xp runs and its kind of annoying. I'd love to see more monk skills based around improved movement... 
 
 Now our immunities and mental stratum I think is a little underdone in sloth. This is where I reckon most of the improvement's could be made without upseting Mud balance and other classes etc. Dam reduction is one of those "unreachable" abilities you get just at avatar, I'd like to see that a little more accessible at earlier levels. I mean why do clerics get shield of faith? That should be the kind of skill a monk gets. Monk's should have more skills around saves... I mean a monk getting paralysed should be nearly impossible... and it still happens to me killing ghouls in cata's when I am fixing align! To be honest I haven't checked if having purity up would stop this (60mana! You ever seen a monk with mana?). Maybe purity should be broken down into cheaper sub spells? There are only about 4 or 5 dam reduct items in game of which most are quest. Only one piece accessable to n00b's in the autoquest. I think there has to be more resistant and save type skills for monks. 
 
@@ -134,7 +134,7 @@ The monk is less susceptible to natural and magical charms, with a (17 - L) x 10
 
 9th - Heal Self
 
-Once per day the monk is able to heal damage on his own body, akin to the paladinâ€™s lay on handâ€™s ability. This will account for (1d4 + L - 8) hp of curing.
+Once per day the monk is able to heal damage on his own body, akin to the paladinâ€™s lay on handâ€™s ability. This will account for (1d4 + L - <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> hp of curing.
 
 10th - Immune to Paralysis
 
@@ -212,15 +212,15 @@ Feign Death - feign death
 
 Immune to Falling - slowfall
 
-Immune to disease -Purity & Cleanse
+Immune to disease -Purity \& Cleanse
 
 Blind Fighting - Blind fighting
 
 Heal Self - contemplation
 
-Immune to toxins - Purity & Cleanse
+Immune to toxins - Purity \& Cleanse
 
-Reduce Damage - Sanctity & natural reduce dam
+Reduce Damage - Sanctity \& natural reduce dam
 
 Immune to detection - Stalk
 
@@ -238,25 +238,28 @@ But I like a few of the suggestions...
 
 <div class="post" data-post-id="11929" data-author="12345" data-date="2006-04-03T04:01:14+00:00" data-subject="Re: Balancing The Monk Class">
 
-Our combat skills are pretty nicely done, and are pretty balanced in the game I feel. Thx!
-
-Our movement skills are also not to bad... but I think flurry should be max 20mvs... because most of us grip and flurry thats like 40mvs straight out! Try doing that with n00b mvs! :( Might I also add, I think in the movement area, monks should have higher natural mv regen. I for one treasure all eq that has mv regen, and I try to wear as much as possible. Maybe monks should have higher natural mv regen? I mean they float across the ground right? I consistantly run out of move's on xp runs and its kind of annoying. I'd love to see more monk skills based around improved movement... [/quote:1tb8moyl]
+> <strong>jezer wrote:</strong>
+> Our combat skills are pretty nicely done, and are pretty balanced in the game I feel. Thx!
+> 
+> 
+> 
+> Our movement skills are also not to bad... but I think flurry should be max 20mvs... because most of us grip and flurry thats like 40mvs straight out! Try doing that with n00b mvs! <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom"> Might I also add, I think in the movement area, monks should have higher natural mv regen. I for one treasure all eq that has mv regen, and I try to wear as much as possible. Maybe monks should have higher natural mv regen? I mean they float across the ground right? I consistantly run out of move's on xp runs and its kind of annoying. I'd love to see more monk skills based around improved movement...
 
 Some things you might like to consider which basically make all of the above understatements:
 
-1) Strike is the best non-mana attack in the game.  Its a lot like circle, but it doesn't cost moves and doesn't require you to downgrade to a smaller weapon to be able to use it.  You can strike endlessly.
+1\) Strike is the best non-mana attack in the game. Its a lot like circle, but it doesn't cost moves and doesn't require you to downgrade to a smaller weapon to be able to use it. You can strike endlessly.
 
-2) On movement.  Try being a thief.  Stab sucks down moves pretty quick and circle costs moves to use.  If you're grouping, you're almost always out of moves if you're circling when you run out of mana.  Striking is free.
+2\) On movement. Try being a thief. Stab sucks down moves pretty quick and circle costs moves to use. If you're grouping, you're almost always out of moves if you're circling when you run out of mana. Striking is free.
 
-3) Stabbing/Gripping/Deathblow/Deathtouch are the only attacks really better than strike, but they only work once.  Monks have 2 of them.  Gripping, while weaker than stab, has the advantage of not having to worry about the mob or room you're standing in being NOSTAB.  You don't have to wield a weaker weapon to use it like stab, and you also don't have to worry about wielding the right weapon like you do with stabbing and deathblow.
+3\) Stabbing/Gripping/Deathblow/Deathtouch are the only attacks really better than strike, but they only work once. Monks have 2 of them. Gripping, while weaker than stab, has the advantage of not having to worry about the mob or room you're standing in being NOSTAB. You don't have to wield a weaker weapon to use it like stab, and you also don't have to worry about wielding the right weapon like you do with stabbing and deathblow.
 
-4) Flurry and counter are both easy extra attacks.  Not to mention counter also counts as a parried attack.  Not as effective as parry, but it's always nice to pick up an ability with is essentially a slightly weaker version of another class's prime ability.
+4\) Flurry and counter are both easy extra attacks. Not to mention counter also counts as a parried attack. Not as effective as parry, but it's always nice to pick up an ability with is essentially a slightly weaker version of another class's prime ability.
 
-5) +handdam eq is pretty easy to get compared to +dam.  I dare you to find a +2 dam or +3 dam item anywhere in the game.  Monks have a few that are +5.  Unlike thieves who have +stabdam and +circledam, +handdam works on both grips, strike and the added bonus of normal attacks.  On top of that, it's multiplied for grips and strikes, unlike both +stabdam and +circledam.
+5\) +handdam eq is pretty easy to get compared to +dam. I dare you to find a +2 dam or +3 dam item anywhere in the game. Monks have a few that are +5. Unlike thieves who have +stabdam and +circledam, +handdam works on both grips, strike and the added bonus of normal attacks. On top of that, it's multiplied for grips and strikes, unlike both +stabdam and +circledam.
 
-6) Presage allows a completely different dimension in movement allowing you to get the jump on mobs that are normally agressive or worse... hate you.  If a thief misses a stab, he's stuck unless the mob can't see invis or infra.  Monks just presage and try again... very nice.
+6\) Presage allows a completely different dimension in movement allowing you to get the jump on mobs that are normally agressive or worse... hate you. If a thief misses a stab, he's stuck unless the mob can't see invis or infra. Monks just presage and try again... very nice.
 
-Monk is easily one of the top 3 classes in the game.  Easily.  It currently needs no help whatsoever.
+Monk is easily one of the top 3 classes in the game. Easily. It currently needs no help whatsoever.
 
 </div>
 
@@ -282,7 +285,7 @@ Another idea on this saves/resistance thing I'm harping on about...
 
 There is this mob at the coliseum called mindfroy the illusionist. He has this proc which makes me see this scarey image and I get paralysed totally for 5 rounds or so... (Before I come to my wits an bash his head in... Muhahahaha!) Traditional monk classo's help save against this.
 
-To quote this DnD site... [<LINK_TEXT text="http://www.triskpoli.com/dnd-articles/c ... _class.php">http://www.triskpoli.com/dnd-articles/character-class/Monk_class.php</LINK_TEXT>](http://www.triskpoli.com/dnd-articles/character-class/Monk_class.php)
+To quote this DnD site... [http://www.triskpoli.com/dnd-articles/character-class/Monk_class.php](http://www.triskpoli.com/dnd-articles/character-class/Monk_class.php)
 
 "This natural mental and physical resilience helps her resist most effects that attack her body or her mind."
 
@@ -320,25 +323,25 @@ In the same way wailing monsters that effect your mind, monk's could also have r
 
 Monks at sloth are great! I'm not knocking them! I love how sloth classo's are unique! I mean bard/necro/monk are really unique great classo's. And those funny mage types...
 
-cast 'hurt mob insanely hard with fire attack' <target>
+cast 'hurt mob insanely hard with fire attack' \<target\>
 
-cast 'hurt mob lightly with water attack' <target>
+cast 'hurt mob lightly with water attack' \<target\>
 
-cast 'hurt mob moderately with lightning' <target>
+cast 'hurt mob moderately with lightning' \<target\>
 
 OUT OF MANA...
 
 Lie Still, You Are Dead!
 
-Guess they aren't too bad either! Even though they always get new spells *sniff*
+Guess they aren't too bad either! Even though they always get new spells \*sniff\*
 
-cast 'silence' mage  :twisted:
+cast 'silence' mage <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="11935" data-author="Grue" data-date="2006-04-03T17:40:34+00:00" data-subject="">
 
-Hey Jezer, don't take this as a flame because it's not intended that way, just a realistic comment. Slothmud doesn't follow pure D&D standards, so expecting any class to follow exactly what D&D does is unrealistic. The bottom line is that a lot of time is spent balancing classes, and monk has become what it is after a LOT of gameplay and adjusting by the immortals.
+Hey Jezer, don't take this as a flame because it's not intended that way, just a realistic comment. Slothmud doesn't follow pure D\&D standards, so expecting any class to follow exactly what D\&D does is unrealistic. The bottom line is that a lot of time is spent balancing classes, and monk has become what it is after a LOT of gameplay and adjusting by the immortals.
 
 I think some of your ideas are quite cool, but honestly we all have things we'd like to see added to the classo we have chosen. If all these things were added to monk not only would it radically change the nature of the classo, but it would tip the power of the class way over the top. As it is most folks will tell you it is one of the most powerful primes.
 
@@ -354,7 +357,7 @@ Bottom line is, this isn't going to happen the way you want. I know it would be 
 
 <div class="post" data-post-id="11936" data-author="12345" data-date="2006-04-03T18:20:44+00:00" data-subject="">
 
-Honestly, monk has one of the least noticable shifts in power between prime and anywhere else.  Wraithtouch and Kensai are nice and all, but even with monk second, the class is one of the nicest in the game.
+Honestly, monk has one of the least noticable shifts in power between prime and anywhere else. Wraithtouch and Kensai are nice and all, but even with monk second, the class is one of the nicest in the game.
 
 Prime:
 
@@ -372,13 +375,13 @@ Fourth:
 
 0 mana, slightly lower caps, same handdam as second
 
-Has anyone in the game found a cap for handdam?  Dam_reduction might be useful if you buy every drachma piece in the shops, but unless you have a piece with 2%, it's basically useless.
+Has anyone in the game found a cap for handdam? Dam\_reduction might be useful if you buy every drachma piece in the shops, but unless you have a piece with 2%, it's basically useless.
 
-If you take monk second to Warrior.  You will lose some damage on grips and strikes but deal more with regular attacks... plus you get more regular attacks in addition to flurry and counter.  You also don't have to worry about being in reroll hell for forever because you have Str 1st instead of 3rd or 4th!  So the damage you gain through your natural % Strength makes up for the handdam you lose for not being prime!
+If you take monk second to Warrior. You will lose some damage on grips and strikes but deal more with regular attacks... plus you get more regular attacks in addition to flurry and counter. You also don't have to worry about being in reroll hell for forever because you have Str 1st instead of 3rd or 4th! So the damage you gain through your natural % Strength makes up for the handdam you lose for not being prime!
 
-Taking monk second to Thief, you'll be able to add more damage to stab with focus and can still presage if you miss.  If you find a NOSTAB mob, flee, presage and grip.  Splork the mud!  No getting chased out of an area just because you missed a stab!  Damage reduction also has much more noticable effects on mobs that do 500 damage a round.  50 hps can be the difference between reciting a recall and searching ICQ.
+Taking monk second to Thief, you'll be able to add more damage to stab with focus and can still presage if you miss. If you find a NOSTAB mob, flee, presage and grip. Splork the mud! No getting chased out of an area just because you missed a stab! Damage reduction also has much more noticable effects on mobs that do 500 damage a round. 50 hps can be the difference between reciting a recall and searching ICQ.
 
-Taking monk second to Mage.  You can grip and counter with just one class instead of both warrior and thief!  No worrying about nostab mobs.  Can still strike when you run out of mana and don't have to worry about getting a pesky weapon.  After all, the higher damage weapons are far too troublesome when you can do basically the same damage naturally.
+Taking monk second to Mage. You can grip and counter with just one class instead of both warrior and thief! No worrying about nostab mobs. Can still strike when you run out of mana and don't have to worry about getting a pesky weapon. After all, the higher damage weapons are far too troublesome when you can do basically the same damage naturally.
 
 ....
 
@@ -416,13 +419,13 @@ Asking and giving idea's for monk additions, was always going to be a bit like a
 
 For some reason, I just suck at playing casters but...
 
-...I really like my monk/warrior.  He doesnt have a ton of mana but I only seem to cast sanc, restore and refresh anyway.  I dont think I've cast a single mage spell in an offensive manner.  And I've been so busy playing Xander that I've barely played roadrunr or ana for in long while...
+...I really like my monk/warrior. He doesnt have a ton of mana but I only seem to cast sanc, restore and refresh anyway. I dont think I've cast a single mage spell in an offensive manner. And I've been so busy playing Xander that I've barely played roadrunr or ana for in long while...
 
 I also have a mo/ne/cl/ma and with 16 nat str (runs at 18/10), he does what seems like way less damage than Xander did at his levels.
 
 Anyway, one of the downsides I see to monk is that all the other NC classes get better AC gear...then again, it IS all about the damage.
 
-imho, monk is fine.  besides, I've already got too many books to pop for the 3 chars I surely intend to keep let alone the other 4 that I'm debating about...pretty sad when you give away a char with 17 18 18 16 15 nats just because you dont have time...
+imho, monk is fine. besides, I've already got too many books to pop for the 3 chars I surely intend to keep let alone the other 4 that I'm debating about...pretty sad when you give away a char with 17 18 18 16 15 nats just because you dont have time...
 
 </div>
 
@@ -436,7 +439,7 @@ All good enough things can be extracted only group...
 
 Solo he can beat only small creatures....hehe..
 
-At all I do not understand for what he it is necessary... The Monk is the fighter, the magician, or the doctor? And there can be it androgyne..:)
+At all I do not understand for what he it is necessary... The Monk is the fighter, the magician, or the doctor? And there can be it androgyne..<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 The conclusion: monk is bosh dog.
 
@@ -446,7 +449,7 @@ The conclusion: monk is bosh dog.
 
 nod, I agree. some of new ideas "disrupt the harmony of sloth". so monks and necroses usually run solo although as I know 'sloth' was group oriented mud for a long long time. I don't think any tuning will help to balance new classoes so I believe we should return to 4 real classes: Mages, Clerics, Warriors and Thieves.
 
-thanks :wink:
+thanks <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -454,21 +457,21 @@ thanks :wink:
 
 There seems to be a bit of older player resentment of new classes and idea's going around? Has sloth changed for the worst since it went 8 classo's? Some people seem riveted to old classo, but complain about not having the features of the new classes? Some people just haunt the board to trample suggestions.
 
-My old physic's teacher used to say... be remembered as a builder not a breaker... (That is until we changed it too, be remembered as a builder not a beaker)  :twisted:
+My old physic's teacher used to say... be remembered as a builder not a breaker... (That is until we changed it too, be remembered as a builder not a beaker) <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="11944" data-author="12345" data-date="2006-04-04T13:14:35+00:00" data-subject="">
 
-It's an issue of perspective Jezer.  The new classes are quite a shift in power from the original 4.  Strangely, this mostly happens when combined with the original 4 classes.  The only notable exception is ne/dr which is a topic all it's own.  
+It's an issue of perspective Jezer. The new classes are quite a shift in power from the original 4. Strangely, this mostly happens when combined with the original 4 classes. The only notable exception is ne/dr which is a topic all it's own. 
 
-Warrior and Mage have seen a power shift recently, which helps to put them closer to parr with the new classes, and thief has always been a devestating prime class.  Even clerics have gotten a boost with supplicants.  I've seen Krok take on mobs that I would normally consider outright suicide using supplicants.
+Warrior and Mage have seen a power shift recently, which helps to put them closer to parr with the new classes, and thief has always been a devestating prime class. Even clerics have gotten a boost with supplicants. I've seen Krok take on mobs that I would normally consider outright suicide using supplicants.
 
-So the simple answer is that the new classes represent a shift in the game, and there's been quite a bit of power balancing happening recently.  Now that things are finally starting to balance out a little, no one is really in a hurry to recreate a problem which caused quite a lot of resentment to start with.  Especially when Monk still clearly sits at the high end of the power scale.
+So the simple answer is that the new classes represent a shift in the game, and there's been quite a bit of power balancing happening recently. Now that things are finally starting to balance out a little, no one is really in a hurry to recreate a problem which caused quite a lot of resentment to start with. Especially when Monk still clearly sits at the high end of the power scale.
 
-Saying that monks and necros aren't group characters is a fairly unique opinion though.  I regularly group with both, and frequently actively recruit them.  Weaken has become critical to running some areas and monks do a massive amount of damage without draining the available mana pool, especially if there's a bard in group.  Hitters and debuffers are always needed in groups.
+Saying that monks and necros aren't group characters is a fairly unique opinion though. I regularly group with both, and frequently actively recruit them. Weaken has become critical to running some areas and monks do a massive amount of damage without draining the available mana pool, especially if there's a bard in group. Hitters and debuffers are always needed in groups.
 
-Monks can solo quite well, but even running a 2man grip/blast group opens up some fantastic xp opportunities.  Not to mention that it's common to run faster than the monk can regen movement to grip with.  The safety factor is very handy as well.  Running with Nab and Rajil were some of the most fun groups I've been in.  I've even pretended to be a monk on many occasions and run with a great deal of success.
+Monks can solo quite well, but even running a 2man grip/blast group opens up some fantastic xp opportunities. Not to mention that it's common to run faster than the monk can regen movement to grip with. The safety factor is very handy as well. Running with Nab and Rajil were some of the most fun groups I've been in. I've even pretended to be a monk on many occasions and run with a great deal of success.
 
 I seem to have jumped off topic... time to work.
 

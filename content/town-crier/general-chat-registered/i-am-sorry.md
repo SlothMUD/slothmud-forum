@@ -14,7 +14,7 @@ post_count: 2
 
 For anyone on today when I lost it, I am sorry for my outburst today.
 
-It doesn't matter what happened those that were on know what happened and what I am talking about.  To filk I am REALLY sorry I shouldn't have been rude like that.  Funny I don't post a lot and I find when I am that it is embarrassing and to apologize.  Sigh anyways from the heart of 
+It doesn't matter what happened those that were on know what happened and what I am talking about. To filk I am REALLY sorry I shouldn't have been rude like that. Funny I don't post a lot and I find when I am that it is embarrassing and to apologize. Sigh anyways from the heart of 
 
 Jacinda/shyla I am sorry for my outburst and it was totally uncalled for
 
@@ -30,9 +30,9 @@ shyla/Jacinda
 
 Shyla,
 
-Even though I wasn't on at the time.  We all LOVE U berry much :)
+Even though I wasn't on at the time. We all LOVE U berry much <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-We all have our moments and just the littlest thing piss us off.  We are
+We all have our moments and just the littlest thing piss us off. We are
 
 only human, so I believe everyone would say "It's not a problem Shyla."
 

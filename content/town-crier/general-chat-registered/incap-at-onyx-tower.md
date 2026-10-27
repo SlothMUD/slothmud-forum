@@ -12,7 +12,7 @@ post_count: 4
 
 <div class="post" data-post-id="30951" data-author="jezer" data-date="2010-03-09T05:01:17+00:00" data-subject="Incap at onyx tower...">
 
-*yawn*
+\*yawn\*
 
 </div>
 
@@ -20,7 +20,7 @@ post_count: 4
 
 70+ views...
 
-they all come to watch you die?  :twisted:
+they all come to watch you die? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -32,12 +32,13 @@ lol,stryx u back to s4?
 
 <div class="post" data-post-id="30955" data-author="jezer" data-date="2010-03-11T18:40:02+00:00" data-subject="">
 
-70+ views...
+> <strong>Stryx wrote:</strong>
+> 70+ views...
+> 
+> they all come to watch you die? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
-they all come to watch you die?  :twisted:[/quote:p2ieh14z]
+They certainly didn't come to help! I just sat there for 5mins wondering why my ferret didn't fly... <img src="/images/smilies/icon_redface.svg" alt=":oops:" title=":oops:" width="15" height="15" class="smiley nozoom">
 
-They certainly didn't come to help! I just sat there for 5mins wondering why my ferret didn't fly...  :oops:
-
-Besides I like to look at it as 70 mourners...  :twisted:
+Besides I like to look at it as 70 mourners... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

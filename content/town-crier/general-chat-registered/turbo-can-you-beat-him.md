@@ -12,16 +12,16 @@ post_count: 2
 
 <div class="post" data-post-id="15100" data-author="Leaf" data-date="2006-11-10T17:47:04+00:00" data-subject="Turbo can you beat him!!!">
 
-I wonder if Turbo can beat this guy in bowling :)
+I wonder if Turbo can beat this guy in bowling <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-[<LINK_TEXT text="http://video.google.com/videoplay?docid ... rds+bowler">http://video.google.com/videoplay?docid=4506143269240420002&q=backwards+bowler</LINK_TEXT>](http://video.google.com/videoplay?docid=4506143269240420002&q=backwards+bowler)
+[http://video.google.com/videoplay?docid=4506143269240420002&q=backwards+bowler](http://video.google.com/videoplay?docid=4506143269240420002&q=backwards+bowler)
 
-FYI: [b:3khk2if0]POST TOPIC 600!!![/b:3khk2if0]
+FYI: <strong>POST TOPIC 600!!!</strong>
 
 </div>
 
 <div class="post" data-post-id="15109" data-author="osric" data-date="2006-11-11T20:39:57+00:00" data-subject="">
 
-Al would have to use the sideways or KINGCRAB technique to defeat the backwards bowler! :P
+Al would have to use the sideways or KINGCRAB technique to defeat the backwards bowler! <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>

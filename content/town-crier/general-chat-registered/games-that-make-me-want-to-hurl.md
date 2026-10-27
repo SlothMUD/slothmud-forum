@@ -18,9 +18,9 @@ Does anyone else here experience nausea when playing FPS (first person shooter g
 
 <div class="post" data-post-id="8916" data-author="12345" data-date="2005-10-04T14:14:24+00:00" data-subject="">
 
-It's been known to happen to folks that play Doom, Half Life 2 and other swaying and/or realism type games.  Happened to theaters full of people during the Blair Witch Project.  Nintendo even has warnings on some games saying they may cause nausea in addition to epilepsy and whatnot.
+It's been known to happen to folks that play Doom, Half Life 2 and other swaying and/or realism type games. Happened to theaters full of people during the Blair Witch Project. Nintendo even has warnings on some games saying they may cause nausea in addition to epilepsy and whatnot.
 
-Some games have settings that allow you to shut that kind of motion off.  Other than that, I can only recommend meds :)
+Some games have settings that allow you to shut that kind of motion off. Other than that, I can only recommend meds <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -32,11 +32,11 @@ I get dizzy watching people play counterstrike!
 
 <div class="post" data-post-id="8921" data-author="Avatar" data-date="2005-10-04T18:34:26+00:00" data-subject="Motion sickness">
 
-For me, it was worst with an old racing game called F-Zero on the SNES.  I'd play that game for 20 minutes and have the worst symptoms.  Most first-person shooters don't affect me (thankfully) though I did notice more mild symptoms from Fable on the XBOX.  
+For me, it was worst with an old racing game called F-Zero on the SNES. I'd play that game for 20 minutes and have the worst symptoms. Most first-person shooters don't affect me (thankfully) though I did notice more mild symptoms from Fable on the XBOX. 
 
-My understanding is that basic motion sickness comes from the different signals you get from your eyes vs. your actual motion.  So, in a car your body is swaying to the car and it feels like you are moving.  If you read in a car, your eyes are fixed on this book and don't send the same signals that you're moving.  Video games are similar, where visually you see movement but the rest of your mind doesn't feel movement.  (I suppose that's based on the sense of motion you get from the eardrums?)
+My understanding is that basic motion sickness comes from the different signals you get from your eyes vs. your actual motion. So, in a car your body is swaying to the car and it feels like you are moving. If you read in a car, your eyes are fixed on this book and don't send the same signals that you're moving. Video games are similar, where visually you see movement but the rest of your mind doesn't feel movement. (I suppose that's based on the sense of motion you get from the eardrums?)
 
-For myself, typically if I'm playing a racing game I'll try to often look away from the screen and focus on something static in the room.  Often the loading screen before levels is enough for me to prevent symptoms.  Oddly, my brother makes fun of me sometimes but when playing the FPS games I'll be moving my head when I peek around corners or jump, etc.  That might help, I suppose, though I didn't in the past do it intentionally.
+For myself, typically if I'm playing a racing game I'll try to often look away from the screen and focus on something static in the room. Often the loading screen before levels is enough for me to prevent symptoms. Oddly, my brother makes fun of me sometimes but when playing the FPS games I'll be moving my head when I peek around corners or jump, etc. That might help, I suppose, though I didn't in the past do it intentionally.
 
 </div>
 
@@ -44,7 +44,7 @@ For myself, typically if I'm playing a racing game I'll try to often look away f
 
 Hahahaha
 
-I would have to agree with ur brother and laugh at u Chucky! :)
+I would have to agree with ur brother and laugh at u Chucky! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -58,8 +58,8 @@ get sick at my stomach and have to change games...something really cool I found 
 
 <div class="post" data-post-id="8925" data-author="Leaf" data-date="2005-10-04T23:39:26+00:00" data-subject="">
 
-Doom was a TIGHT Game.  I hope the new movie doesn't fuck it up.
+Doom was a TIGHT Game. I hope the new movie doesn't fuck it up.
 
-Even though the movie looks funny as hell.  1st person movie hahaha.
+Even though the movie looks funny as hell. 1st person movie hahaha.
 
 </div>

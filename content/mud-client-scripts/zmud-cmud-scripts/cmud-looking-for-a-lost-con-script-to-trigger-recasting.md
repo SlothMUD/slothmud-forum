@@ -20,9 +20,9 @@ Anyone have a script that triggers a recasting of a spell when losing concentrat
 
 i may work on it, but you have to describe logics, how you want it to work?
 
-Main thing is spell cast queue and how it will work on masterful cast or '|' used, caster/target death, and other things.
+Main thing is spell cast queue and how it will work on masterful cast or '\|' used, caster/target death, and other things.
 
-Coding is easy, planning and design is everything :P
+Coding is easy, planning and design is everything <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 peace
 

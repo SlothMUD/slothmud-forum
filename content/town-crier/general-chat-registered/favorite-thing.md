@@ -12,13 +12,13 @@ post_count: 17
 
 <div class="post" data-post-id="17781" data-author="13" data-date="2007-04-04T20:33:40+00:00" data-subject="Favorite thing?">
 
-What's your good shit?  I get off on music listening/playing and working in my yard.
+What's your good shit? I get off on music listening/playing and working in my yard.
 
 </div>
 
 <div class="post" data-post-id="17784" data-author="tincts" data-date="2007-04-04T20:37:19+00:00" data-subject="">
 
-Sailing.  Dig it big time.  Other than that, betwixt work, family, study, part time job and mud, that's my time all chewed up  :shock:
+Sailing. Dig it big time. Other than that, betwixt work, family, study, part time job and mud, that's my time all chewed up <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -28,13 +28,13 @@ motorcycles
 
 (mines the black one)
 
-[img:3poij3jl]http://home.earthlink.net/~althalus/images/starvedrock6%202006.jpg[/img:3poij3jl]
+![](http://home.earthlink.net/~althalus/images/starvedrock6%202006.jpg)
 
 </div>
 
 <div class="post" data-post-id="17787" data-author="Medios" data-date="2007-04-04T21:24:26+00:00" data-subject="">
 
-I enjoy everything that pushes the limit of human existence.  Everyone likes to call me a thrill seeker.  I like to do anything that most pussies are afraid of.  I have been sky-diving, rock climbing, raced cars and motorcycles, the list goes on.  I try to conquer my fear by facing it.  I am sure that I put myself in some risk but overall it has taught me to face my problems and overcome them.  I am not afraid to fail.  Fear is the best tool used against us.  It makes us afraid of Muslims, snakes, germs, homos, women in power, etc etc etc.  I try to not allow fear to run my life.  Fear is an emotion and like all emotions it ruins good judgement.
+I enjoy everything that pushes the limit of human existence. Everyone likes to call me a thrill seeker. I like to do anything that most pussies are afraid of. I have been sky-diving, rock climbing, raced cars and motorcycles, the list goes on. I try to conquer my fear by facing it. I am sure that I put myself in some risk but overall it has taught me to face my problems and overcome them. I am not afraid to fail. Fear is the best tool used against us. It makes us afraid of Muslims, snakes, germs, homos, women in power, etc etc etc. I try to not allow fear to run my life. Fear is an emotion and like all emotions it ruins good judgement.
 
 Mike
 
@@ -42,9 +42,9 @@ Mike
 
 <div class="post" data-post-id="17792" data-author="firebrand" data-date="2007-04-05T01:02:28+00:00" data-subject="">
 
-reading.  sci-fi, fantasy, horror, thrillers....bring it on.  i also make bead jewelry.  i love to hang out with my kids (now that they are both taller than i am) and just chill.  i like listening to my son play guitar and going to scary movies.  i love to cook (as is evidenced by my wide ass) and of course i love to mud.  that's my story and i'm stickin to it!
+reading. sci-fi, fantasy, horror, thrillers....bring it on. i also make bead jewelry. i love to hang out with my kids (now that they are both taller than i am) and just chill. i like listening to my son play guitar and going to scary movies. i love to cook (as is evidenced by my wide ass) and of course i love to mud. that's my story and i'm stickin to it!
 
-"I'm ready, goddammit let me at 'em!"--jack burton  --> big trouble in little china
+"I'm ready, goddammit let me at 'em!"--jack burton --\> big trouble in little china
 
 </div>
 
@@ -52,9 +52,9 @@ reading.  sci-fi, fantasy, horror, thrillers....bring it on.  i also make bead j
 
 i'm in the all black. bike # 114 . this is my favorite thing to do
 
-[img:5aw0vyvj]http://www.getyasumminimotos.com/seniorclass/19.jpg[/img:5aw0vyvj]
+![](http://www.getyasumminimotos.com/seniorclass/19.jpg)
 
-[img:5aw0vyvj]http://www.getyasumminimotos.com/seniorclass/44.jpg[/img:5aw0vyvj]
+![](http://www.getyasumminimotos.com/seniorclass/44.jpg)
 
 </div>
 
@@ -88,7 +88,7 @@ less than me can reach same speeds with less
 
 <div class="post" data-post-id="17805" data-author="13" data-date="2007-04-05T15:48:36+00:00" data-subject="">
 
-looks like fun, I had a buddy who raced high performance go carts that sound similar.  had a lot of fun on those.
+looks like fun, I had a buddy who raced high performance go carts that sound similar. had a lot of fun on those.
 
 </div>
 
@@ -128,7 +128,7 @@ By the way, Mike, aren't you afraid to lose your own fear? Have you ever read Os
 
 <div class="post" data-post-id="17818" data-author="Medios" data-date="2007-04-05T21:10:37+00:00" data-subject="">
 
-Why would I be afraid to lose fear.  Thats a funny statement.
+Why would I be afraid to lose fear. Thats a funny statement.
 
 </div>
 
@@ -136,7 +136,7 @@ Why would I be afraid to lose fear.  Thats a funny statement.
 
 Well, it maybe sounds funny, but IMHO it's closely related to the meaning of life issue. I wouldn't even ask you if you didn't mention that fear is an emotion and emotins ruin good judgement. You're just trying to keep your mind clear, okay, there's nothing wrong with it. But would you really be able to enjoy a fearless man's life, or an emotionless man's life?
 
-Sorry, I cannot explain clear enough what I mean due to my poor knowledge of english language... Hope you will understand me :)
+Sorry, I cannot explain clear enough what I mean due to my poor knowledge of english language... Hope you will understand me <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -144,28 +144,28 @@ Sorry, I cannot explain clear enough what I mean due to my poor knowledge of eng
 
 This and Paintball.
 
-[img:2sq6opp2]http://i108.photobucket.com/albums/n19/MasterWolf007/RevoNewbody1.jpg[/img:2sq6opp2]
+![](http://i108.photobucket.com/albums/n19/MasterWolf007/RevoNewbody1.jpg)
 
 </div>
 
 <div class="post" data-post-id="17839" data-author="Leaf" data-date="2007-04-06T17:48:24+00:00" data-subject="">
 
-Yea c Andy, the little RC is gay.  Unless u can mount a paintball gun on
+Yea c Andy, the little RC is gay. Unless u can mount a paintball gun on
 
-top of the hood.  Then u can do a drive by shooting!!!
+top of the hood. Then u can do a drive by shooting!!!
 
-I miss my paintball gear!!! :cry:
+I miss my paintball gear!!! <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="17840" data-author="Ironwolf" data-date="2007-04-06T19:18:28+00:00" data-subject="">
 
-hehe well u can mount a paintball gun to a rc car i seen someone do it too! just don't remember what issue that was in :)
+hehe well u can mount a paintball gun to a rc car i seen someone do it too! just don't remember what issue that was in <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="17841" data-author="Guinex" data-date="2007-04-06T19:58:03+00:00" data-subject="">
 
-[img:1yen7t3f]http://www.jaspercanadianrockies.com/images/downloads/jpg/snowboard.jpg[/img:1yen7t3f]
+![](http://www.jaspercanadianrockies.com/images/downloads/jpg/snowboard.jpg)
 
 </div>

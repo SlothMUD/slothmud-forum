@@ -20,6 +20,6 @@ Maybe it'd be cool if we gain some profits from being prime guilds' members, lik
 
 <div class="post" data-post-id="13646" data-author="Weasel" data-date="2006-07-31T06:42:42+00:00" data-subject="">
 
-[img:17qmcv4a]http://demon.twinflame.org/images/temp/larry_hagman_tard.jpg[/img:17qmcv4a]
+![](http://demon.twinflame.org/images/temp/larry_hagman_tard.jpg)
 
 </div>

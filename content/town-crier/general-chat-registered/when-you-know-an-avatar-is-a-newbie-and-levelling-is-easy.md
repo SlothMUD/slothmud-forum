@@ -14,13 +14,13 @@ post_count: 2
 
 Nomic gossips-- 'where is limbo?'
 
-[40m 40c 40w 40d 13a] Nomic Holywtb AVIAN&DEMON Claw/PaintBucket
+[40m 40c 40w 40d 13a] Nomic Holywtb AVIAN\&DEMON Claw/PaintBucket
 
 </div>
 
 <div class="post" data-post-id="13516" data-author="Leaf" data-date="2006-07-20T16:28:45+00:00" data-subject="">
 
-I have Limbo as my vault :)
+I have Limbo as my vault <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 But I won't tell anyone the location!!!
 

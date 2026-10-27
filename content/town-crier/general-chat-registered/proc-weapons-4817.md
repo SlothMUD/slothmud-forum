@@ -14,13 +14,13 @@ post_count: 12
 
 So there are weapons in the game with procs which do additional things other than roll a dice and hit a mob. Apparently they used to be more of a "thing" back in the days when perhaps the players were a little more hardcore. I've been doing some inquiries and come to these conclusions...
 
-1) There is no listing of proc weapons.
+1\) There is no listing of proc weapons.
 
-2) There is no way to tell from the Eq List is a weapon is a proc weapon.
+2\) There is no way to tell from the Eq List is a weapon is a proc weapon.
 
-3) There is no easy way the immortals can be more transparent about proc weapons, it's complicated.
+3\) There is no easy way the immortals can be more transparent about proc weapons, it's complicated.
 
-4) The information about proc weapons is in the head of some key players, but isn't disseminated widely.
+4\) The information about proc weapons is in the head of some key players, but isn't disseminated widely.
 
 Here is my proposal for players...
 
@@ -54,9 +54,9 @@ Damage Dice is '3D4'
 
 Can affect you as:
 
-    Affects: HITROLL by 1
+ Affects: HITROLL by 1
 
-    Affects: DAMROLL by 1
+ Affects: DAMROLL by 1
 
 Only those who are at least experienced magic users or warriors may use
 
@@ -102,7 +102,7 @@ Damage Dice is '4D4'
 
 Can affect you as:
 
-    Affects: DAMROLL by 2
+ Affects: DAMROLL by 2
 
 Only those who are at least master warriors may use this item.
 
@@ -136,9 +136,9 @@ Damage Dice is '3D5'
 
 Can affect you as:
 
-    Affects: HITROLL by 2
+ Affects: HITROLL by 2
 
-    Affects: DAMROLL by 2
+ Affects: DAMROLL by 2
 
 Only those who are at least supreme magic users or supreme clerics, or
 
@@ -166,7 +166,7 @@ Hi I'm Gorka!
 
 Please accept these cookies before continuing to my post.
 
-(image: /[https://www.meals.com/imagesrecipes/146208lrg.jpg](https://www.meals.com/imagesrecipes/146208lrg.jpg))
+![](https://www.meals.com/imagesrecipes/146208lrg.jpg)
 
 I was on slothazon the other night when I come across this...
 
@@ -202,7 +202,7 @@ Av20 Con 1, Hpr 4
 
 Attaches to: The Flaming Hellblade
 
-KVP_NON_REMOVABLE = Yes
+KVP\_NON\_REMOVABLE = Yes
 
 Forge [3 700 000], Explosion: 0%
 
@@ -302,31 +302,31 @@ A few things:
 
 1.) Hellblade wasn't actually my creation, though I had some input, it ultimately wasn't my idea. 
 
-     So, as far as the clasp goes, I don't actually recall if that was the intention or not.
+ So, as far as the clasp goes, I don't actually recall if that was the intention or not.
 
 2.) I'll look into the Hellblade's ability to be sharpened. There may be more to it than we are seeing, could be
 
-     something acting on it that we couldn't have initially foreseen. We'll see.
+ something acting on it that we couldn't have initially foreseen. We'll see.
 
 3.) Looked around briefly to see what the old proc on the tempered bone hilted sword is, and seems it uses
 
-      an old proc that no longer has an ingame description. I'll see if I can dig up some sort of explanation
+ an old proc that no longer has an ingame description. I'll see if I can dig up some sort of explanation
 
-      of that proc when I have more time. 
+ of that proc when I have more time. 
 
 4.) For those who are interested, you can look forward to other similar weapons appearing in time that will
 
-     likely fit into the above matrix or progress within and from that matrix of sorts. It just takes time, and
+ likely fit into the above matrix or progress within and from that matrix of sorts. It just takes time, and
 
-     we've got a boatload of things brewing that will bring into being several new ideas and items. It is our
+ we've got a boatload of things brewing that will bring into being several new ideas and items. It is our
 
-     intention to expand the options for all classes in these areas in time, but I'd be lying if I didn't say that
+ intention to expand the options for all classes in these areas in time, but I'd be lying if I didn't say that
 
-     some classes have a priority as those classes need more help than others. 
+ some classes have a priority as those classes need more help than others. 
 
-Stay tuned, and thanks for playing! :)
+Stay tuned, and thanks for playing! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -408,7 +408,7 @@ Colour Spray Proc Rate 1/10 - Dam is whatever your Colour Spray is.
 
 <div class="post" data-post-id="39158" data-author="Driven" data-date="2019-04-11T15:07:56+00:00" data-subject="Re: Proc Weapons">
 
-Yea, that seems odd given that the whip is not even a forge and it has 3x damage at a 40% higher proc rate to boot.  Now granted, the mace has -1 spell saves, but I think any rational person doing the math would see that such a tradeoff is simply not worth it.
+Yea, that seems odd given that the whip is not even a forge and it has 3x damage at a 40% higher proc rate to boot. Now granted, the mace has -1 spell saves, but I think any rational person doing the math would see that such a tradeoff is simply not worth it.
 
 </div>
 

@@ -50,13 +50,13 @@ wts crystal teardrop - 10 mils
 
 wts pelt of black panter - 5 mils
 
- 8)
+ <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="21902" data-author="Vixn" data-date="2008-01-08T15:45:44+00:00" data-subject="">
 
-also I will trade teardrop and 4 cps for Sleeves of the Laughing Rogue for just one lil chunk of infernite :P
+also I will trade teardrop and 4 cps for Sleeves of the Laughing Rogue for just one lil chunk of infernite <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -68,6 +68,6 @@ ill trade sleeves cps for some gladiator chain level 70 hunter pvp gear
 
 <div class="post" data-post-id="21906" data-author="Vixn" data-date="2008-01-08T17:43:46+00:00" data-subject="">
 
-be careful - 13 will probably try to pkill you after deal :)
+be careful - 13 will probably try to pkill you after deal <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

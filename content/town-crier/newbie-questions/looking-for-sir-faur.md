@@ -20,11 +20,11 @@ Sir Robin
 
 <div class="post" data-post-id="12734" data-author="12345" data-date="2006-05-26T15:07:19+00:00" data-subject="">
 
-He's in Treasures and Dreams. e2sen of recall.  After you've bought whatever it is that you buy to get in these days (used to be a letter of introduction) for 30 drachma, you can 'sign ledger' and it will take you to the square.  The fountain in the middle room is a bonus regen area that's can be kinda handy, but is sometimes a hangout for pthieves.
+He's in Treasures and Dreams. e2sen of recall. After you've bought whatever it is that you buy to get in these days (used to be a letter of introduction) for 30 drachma, you can 'sign ledger' and it will take you to the square. The fountain in the middle room is a bonus regen area that's can be kinda handy, but is sometimes a hangout for pthieves.
 
 Faur is to the west (low quest shop), the medium quest shop is north and the high quest shop is east.
 
-There's also a very high quest shop which you need to buy a feed bag from the general store in BH for 35k. Chase down the wagon and feed horses(?) to get in.  Generally the stuff in Faurs goes for 333 drach each, med is ~666, high is around 1000+ and the wagon has really freaking expensive stuff.
+There's also a very high quest shop which you need to buy a feed bag from the general store in BH for 35k. Chase down the wagon and feed horses(?) to get in. Generally the stuff in Faurs goes for 333 drach each, med is \~666, high is around 1000+ and the wagon has really freaking expensive stuff.
 
 </div>
 
@@ -40,6 +40,6 @@ Sir Robin
 
 <div class="post" data-post-id="12749" data-author="12345" data-date="2006-05-27T03:18:11+00:00" data-subject="">
 
-No.  The only way to get quest points is through quests...
+No. The only way to get quest points is through quests...
 
 </div>

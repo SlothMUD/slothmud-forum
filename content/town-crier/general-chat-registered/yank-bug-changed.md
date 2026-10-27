@@ -36,7 +36,7 @@ Also, nightmares can not be mounted until we fix it so that they can not be used
 
 <div class="post" data-post-id="13203" data-author="Guinex" data-date="2006-06-29T02:50:09+00:00" data-subject="">
 
-Hey Splork, while were on the topic with those nightmares im going to side track to that genie bottle.  Is it meant to have a 7 hour real time recharge to use again?
+Hey Splork, while were on the topic with those nightmares im going to side track to that genie bottle. Is it meant to have a 7 hour real time recharge to use again?
 
 </div>
 
@@ -52,17 +52,22 @@ Melanthe
 
 <div class="post" data-post-id="13232" data-author="Vixn" data-date="2006-07-01T11:56:33+00:00" data-subject="">
 
-Looks like you have to do something.. not just follow Minstrel.. Yeah, it hurts! :P
+Looks like you have to do something.. not just follow Minstrel.. Yeah, it hurts! <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="13247" data-author="12345" data-date="2006-07-02T21:11:09+00:00" data-subject="">
 
-Can't Splork make it so you can't convoc just into quest areas? No convocation into nogate areas is kinda messed up.
-
-For example, Ebony Tower is nogate (all of it I don't know for sure yet). I remember being in an xp group with Minstrel on Lyme with like 10 group members, and him yanking us in. So are you going to require now that all group members obtain a key to ET, and each use the key, slowing down the group?
-
-Melanthe[/quote:3t088eme]
+> <strong>Melanthe wrote:</strong>
+> Can't Splork make it so you can't convoc just into quest areas? No convocation into nogate areas is kinda messed up.
+> 
+> 
+> 
+> For example, Ebony Tower is nogate (all of it I don't know for sure yet). I remember being in an xp group with Minstrel on Lyme with like 10 group members, and him yanking us in. So are you going to require now that all group members obtain a key to ET, and each use the key, slowing down the group?
+> 
+> 
+> 
+> Melanthe
 
 You might actually have to do it the way we've been doing it all along...
 

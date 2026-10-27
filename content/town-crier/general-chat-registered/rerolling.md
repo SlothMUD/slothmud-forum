@@ -20,22 +20,23 @@ Refer to poll.
 
 <div class="post" data-post-id="3966" data-author="Qa" data-date="2005-01-26T15:47:28+00:00" data-subject="">
 
-Thank goodness it is just one for me.  (And why isn't it ZERO?)  Who could ever stand to be rolling more than one at a time?
+Thank goodness it is just one for me. (And why isn't it ZERO?) Who could ever stand to be rolling more than one at a time?
 
--Qa
+\-Qa
 
 </div>
 
 <div class="post" data-post-id="3967" data-author="Alberich" data-date="2005-01-26T15:57:04+00:00" data-subject="">
 
-you forgot the option for "i have crappy stats but am too lazy to keep going'... i play 2 of those :)
+you forgot the option for "i have crappy stats but am too lazy to keep going'... i play 2 of those <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="3970" data-author="12345" data-date="2005-01-26T16:18:56+00:00" data-subject="">
 
-you forgot the option for "i have crappy stats but am too lazy to keep going'... i play 2 of those :)[/quote:1nh2dsc5]
+> <strong>Alberich wrote:</strong>
+> you forgot the option for "i have crappy stats but am too lazy to keep going'... i play 2 of those <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-I play one myself, but I can live with it, he's got his strong points.  I just wish I could remember what they are more often.
+I play one myself, but I can live with it, he's got his strong points. I just wish I could remember what they are more often.
 
 </div>

@@ -14,14 +14,14 @@ post_count: 11
 
 I noticed there was a JSON file for mobs on the webpage. Though I can't seem to parse it with Mudlet like I can with the eqlist. I recieve a malformed JSON error. I'm familiar with JSON. But not enough so to detect an error it seems. Could anyone lend a hand? Maybe I'm doing something wrong.
 
-The mob JSON file can be found here: <LINK_TEXT text="http://www.slothmud.org/wp/equipment/eq ... a=0&mobs=1">http://www.slothmud.org/wp/equipment/eqlist?dl=07&dlk=9cb66283451c196d54bc117e2c1b369c&lua=0&mobs=1</LINK_TEXT>
+The mob JSON file can be found here: http://www.slothmud.org/wp/equipment/eqlist?dl=07&dlk=9cb66283451c196d54bc117e2c1b369c&lua=0&mobs=1
 
 Here's the error I recieve:
 
 ```
  Lua syntax error:InvalidJSONInput: parse error: trailing garbage
-          ":"Weylyn","AREA_VNUM":"76"} {"MOB_VNUM":"130146","MOB_NAME"
-                     (right here) ------^
+ ":"Weylyn","AREA_VNUM":"76"} {"MOB_VNUM":"130146","MOB_NAME"
+ (right here) ------^
 ```
 
 </div>
@@ -60,8 +60,8 @@ Here's a snippet of what I use to parse the LUA MOBS file within Mudlet if it he
 
 ```
 function initMoblist()
-  dofile(getMudletHomeDir().."/moblist.lua")
-  moblist = yajl.to_value(MOBS)
+ dofile(getMudletHomeDir().."/moblist.lua")
+ moblist = yajl.to_value(MOBS)
 end
 
 initMoblist()
@@ -71,8 +71,8 @@ I do the same with eqlist which seems to work fine...
 
 ```
 function initEqlist()
-  dofile(getMudletHomeDir().."/eqlist.lua")
-  eqlist = yajl.to_value(EQLIST)
+ dofile(getMudletHomeDir().."/eqlist.lua")
+ eqlist = yajl.to_value(EQLIST)
 end
 
 initEqlist()
@@ -86,7 +86,7 @@ try again...
 
 made a small change.
 
-[http://json.parser.online.fr/](http://json.parser.online.fr/) and json decode in php both handle the _huge_ string properly.
+[http://json.parser.online.fr/](http://json.parser.online.fr/) and json decode in php both handle the \_huge\_ string properly.
 
 </div>
 
@@ -110,7 +110,7 @@ Ich werde. Vielen Dank.
 
 <div class="post" data-post-id="37057" data-author="Akaya" data-date="2016-07-14T05:18:34+00:00" data-subject="Re: Moblist">
 
-Now if we could just get the AREA_VNUM added to the MSDP, I can tie this in with a map :)
+Now if we could just get the AREA\_VNUM added to the MSDP, I can tie this in with a map <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

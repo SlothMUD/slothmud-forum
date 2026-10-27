@@ -42,7 +42,7 @@ drachma
 
 Hey 13,
 
-As much as I would love the EQ (Drool), it's a bit out of my league.  However, your post did leave me with a question.  How is someone supposed to use drachma to purchase the item?  As far as I know, you can't exchange/transfer it like you do gold.
+As much as I would love the EQ (Drool), it's a bit out of my league. However, your post did leave me with a question. How is someone supposed to use drachma to purchase the item? As far as I know, you can't exchange/transfer it like you do gold.
 
 Humbly in need of enlightenment,
 

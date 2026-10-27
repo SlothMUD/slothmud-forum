@@ -16,10 +16,10 @@ Max Stat caps were being incorrectly applied to Mage/Necro
 
 ```
 they were being applied as ::
-  Int/Dex/Wis/Str/Con 
+ Int/Dex/Wis/Str/Con 
 
 when in reality they are supposed to be
-  Int/Con/Wis/Dex/Str  
+ Int/Con/Wis/Dex/Str 
 (this is what a player stats get assigned to at level 8)
 ```
 

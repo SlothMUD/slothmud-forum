@@ -18,7 +18,7 @@ wts: red-tassled leggings 2 mil min
 
 <div class="post" data-post-id="893" data-author="Alberich" data-date="2004-07-01T05:29:11+00:00" data-subject="">
 
-don't you like the chopping block? :)
+don't you like the chopping block? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 2mil
 

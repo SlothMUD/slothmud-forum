@@ -12,9 +12,9 @@ post_count: 15
 
 <div class="post" data-post-id="36546" data-author="*juggleblood*" data-date="2016-01-25T20:00:50+00:00" data-subject="MSDPGROUP PARSER">
 
-Apparently mudlet 3.0 has some kind of native variable handler that sposed to let you easily parse msdpgroup.  But I'm using mudlet 2.1 cuz I'm stubborn and don't fully trust the new version ever since it destroyed so many of my scripts. So if you're not using 3.0 or can't figure out how to use the variables, here is how I parsed MSDP group into tables. 
+Apparently mudlet 3.0 has some kind of native variable handler that sposed to let you easily parse msdpgroup. But I'm using mudlet 2.1 cuz I'm stubborn and don't fully trust the new version ever since it destroyed so many of my scripts. So if you're not using 3.0 or can't figure out how to use the variables, here is how I parsed MSDP group into tables. 
 
-The capital "O" which appears throughout is not actually an "O" it's the weird characters that you have to cut and paste, which by the way sometimes appear differently on your screen than when you cut and paste them into notepad.  The weird characters makes this a pain in the ass for people to adopt, so anyone who wants to clean this up and post something people can use, feel free.
+The capital "O" which appears throughout is not actually an "O" it's the weird characters that you have to cut and paste, which by the way sometimes appear differently on your screen than when you cut and paste them into notepad. The weird characters makes this a pain in the ass for people to adopt, so anyone who wants to clean this up and post something people can use, feel free.
 
 When you are done, you will have separate tables for all the data, so to see sochi's mana for example you would use groupMana['Sochi'] or groupMaxMana['Sochi'], etc..
 
@@ -54,15 +54,15 @@ groupString=string.gsub(groupString,"NAMEO","")
 
 groupString=string.gsub(groupString,"HITPOINTSO","")
 
-groupString=string.gsub(groupString,"MAX_HITPOINTSO","")
+groupString=string.gsub(groupString,"MAX\_HITPOINTSO","")
 
 groupString=string.gsub(groupString,"MANAO","")
 
-groupString=string.gsub(groupString,"MAX_MANAO","")
+groupString=string.gsub(groupString,"MAX\_MANAO","")
 
 groupString=string.gsub(groupString,"MOVESO","")
 
-groupString=string.gsub(groupString,"MAX_MOVESO","")
+groupString=string.gsub(groupString,"MAX\_MOVESO","")
 
 groupString=string.gsub(groupString,"POSITIONO","")
 
@@ -72,7 +72,7 @@ groupString=string.gsub(groupString,"CLASSO","")
 
 groupString=string.gsub(groupString,"LEVELSO","")
 
-groupString=string.gsub(groupString,"MAX_","")
+groupString=string.gsub(groupString,"MAX\_","")
 
 groupString=string.cut(groupString,groupString:len()-2)
 
@@ -86,9 +86,9 @@ groupTable=groupString:split("MEMBER")
 
 for i=1,#groupTable do
 
-memberTable=groupTable:split("O")
+memberTable\=groupTable:split("O")
 
---display(memberTable)  
+\--display(memberTable) 
 
 end
 
@@ -96,7 +96,7 @@ groupTable={}
 
 for i=1,#memberTable do
 
-groupTable=memberTable[2]
+groupTable\=memberTable[2]
 
 groupHp[memberTable[2]]=0+memberTable[3]
 
@@ -176,15 +176,15 @@ groupString=string.gsub(groupString,"NAME.",",")
 
 groupString=string.gsub(groupString,"HITPOINTS.",",")
 
-groupString=string.gsub(groupString,"MAX_HITPOINTS.",",")
+groupString=string.gsub(groupString,"MAX\_HITPOINTS.",",")
 
 groupString=string.gsub(groupString,"MANA.",",")
 
-groupString=string.gsub(groupString,"MAX_MANA.",",")
+groupString=string.gsub(groupString,"MAX\_MANA.",",")
 
 groupString=string.gsub(groupString,"MOVES.",",")
 
-groupString=string.gsub(groupString,"MAX_MOVES.",",")
+groupString=string.gsub(groupString,"MAX\_MOVES.",",")
 
 groupString=string.gsub(groupString,"POSITION.",",")
 
@@ -194,7 +194,7 @@ groupString=string.gsub(groupString,"CLASS.",",")
 
 groupString=string.gsub(groupString,"LEVELS.",",")
 
-groupString=string.gsub(groupString,"MAX_","")
+groupString=string.gsub(groupString,"MAX\_","")
 
 groupString=string.cut(groupString,groupString:len()-2)
 
@@ -208,15 +208,15 @@ groupTable=groupString:split("MEMBER")
 
 for i=1,#groupTable do
 
-memberTable=groupTable:split(",")
+memberTable\=groupTable:split(",")
 
 for j=1,#memberTable do
 
-memberTable[j]=string.cut(memberTable[j],memberTable[j]:len()-1)
+memberTable[j]=string.cut(memberTable[j],memberTable[j\]:len()-1)
 
 end
 
---display(memberTable) 
+\--display(memberTable) 
 
 end
 
@@ -224,7 +224,7 @@ groupTable={}
 
 for i=1,#memberTable do
 
-groupTable=memberTable[2]
+groupTable\=memberTable[2]
 
 groupHp[memberTable[2]]=0+memberTable[3]
 
@@ -278,7 +278,7 @@ msdp.GROUP={
 
 MEMBER0={ MANA=1,
 
-                    POSITION=....etc }
+ POSITION=....etc }
 
 MEMBER1={ ... etc
 
@@ -290,7 +290,7 @@ msdp.GROUP={
 
 Sochi={ MANA=1,
 
-               POSITION=... },
+ POSITION=... },
 
 Crumbs={ ... }
 
@@ -298,7 +298,7 @@ Crumbs={ ... }
 
 Or can someone show me how to easily get from msdp.GROUP to a table called groupMana that contains names and mana, so that I can just use groupMana['Name'], etc...
 
-One of the things giving me trouble with this btw is this: Why does "msdp.GROUP[1][1]" not work? With regular tables you can put the number of the value in brackets to identify it. I was going to use this to make a loop that sorts thru msdp.GROUP and puts the value in tables, but there must be some other kind of syntax for these kind of tables for some reason? lua msdp.GROUP[1] shows nothing, as well as lua msdp.GROUP[1][1]. I would thing that lua msdp.GROUP[1][1] should show me "MEMBER0", but it doesn't seem to work like a regular table.
+One of the things giving me trouble with this btw is this: Why does "msdp.GROUP[1\][1]" not work? With regular tables you can put the number of the value in brackets to identify it. I was going to use this to make a loop that sorts thru msdp.GROUP and puts the value in tables, but there must be some other kind of syntax for these kind of tables for some reason? lua msdp.GROUP[1] shows nothing, as well as lua msdp.GROUP[1\][1]. I would thing that lua msdp.GROUP[1\][1] should show me "MEMBER0", but it doesn't seem to work like a regular table.
 
 It's not crucial, so don't spend time on it if you don't know. I've already gotten this far on parsing the atcp string, so I'll get it done one way or another.
 
@@ -356,7 +356,7 @@ According to the MSDP Spec which can be found at http://tintin.sourceforge.net/m
 
 REPORT
 
-"The REPORT command can be used by either side, but should typically be used by the client. After the client has received a list of reportable variables, or already knows which variables are supported, it can request the server to start reporting those variables. **When receiving a REPORT request the server should send the requested variables to the client, and re-send each individual variable whenever it changes. **Instead of sending MSDP_VAR "REPORT" MSDP_VAL "HEALTH" MSDP_VAR "REPORT" MSDP_VAL "HEALTH_MAX" it is allowed to string values together for command-like variables, in this case: MSDP_VAR "REPORT" MSDP_VAL "HEALTH" MSDP_VAL "HEALTH_MAX".
+"The REPORT command can be used by either side, but should typically be used by the client. After the client has received a list of reportable variables, or already knows which variables are supported, it can request the server to start reporting those variables. <strong>When receiving a REPORT request the server should send the requested variables to the client, and re-send each individual variable whenever it changes.</strong> Instead of sending MSDP\_VAR "REPORT" MSDP\_VAL "HEALTH" MSDP\_VAR "REPORT" MSDP\_VAL "HEALTH\_MAX" it is allowed to string values together for command-like variables, in this case: MSDP\_VAR "REPORT" MSDP\_VAL "HEALTH" MSDP\_VAL "HEALTH\_MAX".
 
 Maybe we can figure out a better option when we have tons of data tied to the same variable...
 
@@ -376,21 +376,21 @@ No more subchannel overload for me!
 
 Btw since MSDP varlist is incomplete in helpfiles, here is the full list I was able to retrieve from the server
 
-CHARACTER_NAME
+CHARACTER\_NAME
 
-SERVER_ID
+SERVER\_ID
 
-SERVER_TIME
+SERVER\_TIME
 
-SNIPPET_VERSION
+SNIPPET\_VERSION
 
-WHO_LIST
+WHO\_LIST
 
 AFFECTS
 
-STRING_AFFECTS
+STRING\_AFFECTS
 
-STRING_PERM_AFFECTS
+STRING\_PERM\_AFFECTS
 
 SPELLS
 
@@ -398,59 +398,59 @@ ALIGNMENT
 
 EXPERIENCE
 
-EXPERIENCE_MAX
+EXPERIENCE\_MAX
 
-EXPERIENCE_TNL
+EXPERIENCE\_TNL
 
 HEALTH
 
-HEALTH_MAX
+HEALTH\_MAX
 
-HEALTH_REGEN
+HEALTH\_REGEN
 
 LEVEL
 
-LEVEL_SEC
+LEVEL\_SEC
 
-LEVEL_TER
+LEVEL\_TER
 
-LEVEL_QUA
+LEVEL\_QUA
 
-LEVEL_QUI
+LEVEL\_QUI
 
-LEVEL_HEX
+LEVEL\_HEX
 
-LEVEL_SEP
+LEVEL\_SEP
 
-LEVEL_OCT
+LEVEL\_OCT
 
-LEVEL_AVA
+LEVEL\_AVA
 
 CITIZEN
 
 CLASS
 
-CLASS_SEC
+CLASS\_SEC
 
-CLASS_TER
+CLASS\_TER
 
-CLASS_QUA
+CLASS\_QUA
 
-CLASS_QUI
+CLASS\_QUI
 
-CLASS_HEX
+CLASS\_HEX
 
-CLASS_SEP
+CLASS\_SEP
 
-CLASS_OCT
+CLASS\_OCT
 
-CLASS_AVA
+CLASS\_AVA
 
 MANA
 
-MANA_MAX
+MANA\_MAX
 
-MANA_REGEN
+MANA\_REGEN
 
 BANK
 
@@ -464,9 +464,9 @@ DRACHMA
 
 MOVEMENT
 
-MOVEMENT_MAX
+MOVEMENT\_MAX
 
-MOVEMENT_REGEN
+MOVEMENT\_REGEN
 
 HITROLL
 
@@ -484,101 +484,101 @@ DEX
 
 CON
 
-STR_PERM
+STR\_PERM
 
-INT_PERM
+INT\_PERM
 
-WIS_PERM
+WIS\_PERM
 
-DEX_PERM
+DEX\_PERM
 
-CON_PERM
+CON\_PERM
 
-OPPONENT_HEALTH
+OPPONENT\_HEALTH
 
-OPPONENT_HEALTH_MAX
+OPPONENT\_HEALTH\_MAX
 
-OPPONENT_LEVEL
+OPPONENT\_LEVEL
 
-OPPONENT_NAME
+OPPONENT\_NAME
 
-TANK_HEALTH
+TANK\_HEALTH
 
-TANK_HEALTH_MAX
+TANK\_HEALTH\_MAX
 
-TANK_LEVEL
+TANK\_LEVEL
 
-TANK_NAME
+TANK\_NAME
 
-AREA_NAME
+AREA\_NAME
 
-ROOM_EXITS
+ROOM\_EXITS
 
-STRING_ROOM_EXITS
+STRING\_ROOM\_EXITS
 
-ROOM_NAME
+ROOM\_NAME
 
-ROOM_VNUM
+ROOM\_VNUM
 
-ROOM_RNUM
+ROOM\_RNUM
 
 TERRAIN
 
 CONTINENT
 
-WORLD_TIME
+WORLD\_TIME
 
-CLIENT_ID
+CLIENT\_ID
 
-CLIENT_VERSION
+CLIENT\_VERSION
 
-PLUGIN_ID
+PLUGIN\_ID
 
-ANSI_COLORS
+ANSI\_COLORS
 
-XTERM_256_COLORS
+XTERM\_256\_COLORS
 
-UTF_8
+UTF\_8
 
 SOUND
 
 MXP
 
-WEAPON_DAM
+WEAPON\_DAM
 
-WEAPON_DAM_CAP
+WEAPON\_DAM\_CAP
 
-STAB_DAM
+STAB\_DAM
 
-STAB_DAM_CAP
+STAB\_DAM\_CAP
 
-UNDEAD_CONT
+UNDEAD\_CONT
 
-UNDEAD_CONT_CAP
+UNDEAD\_CONT\_CAP
 
-SPELL_BONUS
+SPELL\_BONUS
 
-SPELL_BONUS_CAP
+SPELL\_BONUS\_CAP
 
-HEAL_BONUS
+HEAL\_BONUS
 
-HEAL_BONUS_CAP
+HEAL\_BONUS\_CAP
 
 CHARISMA
 
-CHARISMA_CAP
+CHARISMA\_CAP
 
 FLAILDAM
 
 KICKDAM
 
-HAND_DAM
+HAND\_DAM
 
-HAND_DAM_CAP
+HAND\_DAM\_CAP
 
-DAM_RED
+DAM\_RED
 
-DAM_RED_CAP
+DAM\_RED\_CAP
 
 SEX
 
@@ -590,7 +590,7 @@ WORSHIPS
 
 POSITION
 
-GROUP_LEADER
+GROUP\_LEADER
 
 COORD1
 
@@ -642,61 +642,61 @@ COORD24
 
 COORD25
 
-ROOM_NORTH
+ROOM\_NORTH
 
-ROOM_EAST
+ROOM\_EAST
 
-ROOM_SOUTH
+ROOM\_SOUTH
 
-ROOM_WEST
+ROOM\_WEST
 
-ROOM_UP
+ROOM\_UP
 
-MSDP_ROOM_DOWN
+MSDP\_ROOM\_DOWN
 
-WEAR_LIGHT
+WEAR\_LIGHT
 
-WEAR_FINGER_R
+WEAR\_FINGER\_R
 
-WEAR_FINGER_L
+WEAR\_FINGER\_L
 
-WEAR_NECK_1
+WEAR\_NECK\_1
 
-WEAR_NECK_2
+WEAR\_NECK\_2
 
-WEAR_BODY
+WEAR\_BODY
 
-WEAR_HEAD
+WEAR\_HEAD
 
-WEAR_LEGS
+WEAR\_LEGS
 
-WEAR_FEET
+WEAR\_FEET
 
-WEAR_HANDS
+WEAR\_HANDS
 
-WEAR_ARMS
+WEAR\_ARMS
 
-WEAR_SHIELD
+WEAR\_SHIELD
 
-WEAR_ABOUT
+WEAR\_ABOUT
 
-WEAR_WAIST
+WEAR\_WAIST
 
-WEAR_WRIST_R
+WEAR\_WRIST\_R
 
-WEAR_WRIST_L
+WEAR\_WRIST\_L
 
-WEAR_WIELD
+WEAR\_WIELD
 
-WEAR_HOLD
+WEAR\_HOLD
 
-WEAR_TWO_HANDED
+WEAR\_TWO\_HANDED
 
-WEAR_LOADED
+WEAR\_LOADED
 
-WEAR_INSTRUMENT
+WEAR\_INSTRUMENT
 
-WEAR_EMBLEM
+WEAR\_EMBLEM
 
 GROUP
 
@@ -706,7 +706,7 @@ GROUP
 
 Great find(Forgot about SEND) and nice list!
 
-We have updated the helpfile. Please remember -> do NOT request variables you are not using!!!
+We have updated the helpfile. Please remember -\> do NOT request variables you are not using!!!
 
 </div>
 

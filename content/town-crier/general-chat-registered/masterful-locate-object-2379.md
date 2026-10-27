@@ -24,7 +24,7 @@ A cerise potion is being used by a small grymlyn
 
 A cerise potion is in use, but the location is unknown.
 
-I used another 700 mana to try and reproduce it with no luck.  I'll try again laster.  Anyone else seen this, or comments.
+I used another 700 mana to try and reproduce it with no luck. I'll try again laster. Anyone else seen this, or comments.
 
 Mike
 
@@ -38,9 +38,9 @@ I tried the same, results -
 
 Seems to me Concentration did nothing this time, since I lost con more than the 95% learned anyway.
 
-Lost Con =  9 times      (92.8% success rate)
+Lost Con = 9 times (92.8% success rate)
 
-Masterful =  1 time       (121st try)   (0.8% success rate)
+Masterful = 1 time (121st try) (0.8% success rate)
 
 lo cerise
 
@@ -62,15 +62,15 @@ A cerise potion is in use, but the location is unknown.
 
 prac concentration
 
-                    Avatar Abilities:
+ Avatar Abilities:
 
-concentration         - Lvl:  9,           Learned  85%
+concentration - Lvl: 9, Learned 85%
 
 prac locate
 
-                    Magic-User Spells:
+ Magic-User Spells:
 
-locate object         - Lvl:  6, Mana: 20, Learned  95%
+locate object - Lvl: 6, Mana: 20, Learned 95%
 
 </div>
 
@@ -146,7 +146,7 @@ Seen it a few times, once in a blue moon when you get a good masterful locate.
 
 <div class="post" data-post-id="17175" data-author="tincts" data-date="2007-03-04T20:39:27+00:00" data-subject="">
 
-Had no idea you guys were so fond of cerise potions.  I'll hold on to the next ones I pop for you.
+Had no idea you guys were so fond of cerise potions. I'll hold on to the next ones I pop for you.
 
 </div>
 

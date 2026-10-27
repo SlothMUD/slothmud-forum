@@ -24,9 +24,9 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: REGEN_MANA by 1
+ Affects: REGEN\_MANA by 1
 
-    Affects: CHARISMA by 2
+ Affects: CHARISMA by 2
 
 Only those who are at least supreme bards, and have attained supremacy in
 
@@ -34,10 +34,10 @@ at least three classes may use this item.
 
 Requires: 5000000 coins, 1x a set of emerald gauntlets,
 
-  1x a ruby bracelet, 1x a flawless ruby ring,
+ 1x a ruby bracelet, 1x a flawless ruby ring,
 
-  1x a very small ruby,
+ 1x a very small ruby,
 
-  1x glowing green gauntlets..it glows green!
+ 1x glowing green gauntlets..it glows green!
 
 </div>

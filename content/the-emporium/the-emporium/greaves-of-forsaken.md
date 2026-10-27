@@ -58,9 +58,9 @@ Elsie
 
 <div class="post" data-post-id="10845" data-author="Medios" data-date="2006-02-22T21:56:12+00:00" data-subject="">
 
-A trade for these is not out of the question.  First youll need to come up with some eq thats not store bought.
+A trade for these is not out of the question. First youll need to come up with some eq thats not store bought.
 
-:)
+<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Mike
 
@@ -114,13 +114,13 @@ Forgot to say I also have to offer :
 
 <div class="post" data-post-id="11201" data-author="12345" data-date="2006-03-13T12:22:37+00:00" data-subject="">
 
-SS is a pretty good place to run xp and equipment.  I generally don't have too much difficulty getting groups started there.
+SS is a pretty good place to run xp and equipment. I generally don't have too much difficulty getting groups started there.
 
-If you can cough up a -9 tank and a healer, most mobs in Theris can be easily run with curse/webs and weakens.  You may need an occasional acid blind or dispel. I usually 3 or 4 man there until I have enough firepower to run Sin's hold.
+If you can cough up a -9 tank and a healer, most mobs in Theris can be easily run with curse/webs and weakens. You may need an occasional acid blind or dispel. I usually 3 or 4 man there until I have enough firepower to run Sin's hold.
 
-The hold is best run with -10 and damn, but you can probably manage it with less.  You'll need dispel for a few of the mobs.  Silence is a nice bonus on the casters if you can manage it.
+The hold is best run with -10 and damn, but you can probably manage it with less. You'll need dispel for a few of the mobs. Silence is a nice bonus on the casters if you can manage it.
 
-Sin is easily the toughest there, and will CF most groups quick, fast and in a hurry.  Even big ones.  Using some fairly basic tactics can drag him down quick enough though.  If you see Bit online, send a tell and I can help walk you through the place.  Don't ask me to pop em for you though because I have a bunch of clannies that all want em too :P
+Sin is easily the toughest there, and will CF most groups quick, fast and in a hurry. Even big ones. Using some fairly basic tactics can drag him down quick enough though. If you see Bit online, send a tell and I can help walk you through the place. Don't ask me to pop em for you though because I have a bunch of clannies that all want em too <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -140,7 +140,7 @@ Elsie
 
 <div class="post" data-post-id="11237" data-author="brady" data-date="2006-03-14T01:18:44+00:00" data-subject="">
 
-Sin is fairly easy with a few healers.  You just want to make sure you hit Kas first.  Attacking Sin with Kas still alive will be ugly and a cf will be likely.  Sin will wait till Kas dies before he starts smacking.
+Sin is fairly easy with a few healers. You just want to make sure you hit Kas first. Attacking Sin with Kas still alive will be ugly and a cf will be likely. Sin will wait till Kas dies before he starts smacking.
 
 </div>
 
@@ -158,16 +158,18 @@ Always someone trying to iceskate uphill..
 
 <div class="post" data-post-id="11259" data-author="Autolycos" data-date="2006-03-14T16:45:50+00:00" data-subject="">
 
-Nope, they both fight the tank, but Kas hits harder, that's why you quickly kill Kas first. So it's cool to damn/blind Sin too, when tank is already attacked.[/quote:3vmy89ao]
+> <strong>Krok wrote:</strong>
+> Nope, they both fight the tank, but Kas hits harder, that's why you quickly kill Kas first. So it's cool to damn/blind Sin too, when tank is already attacked.
 
-which opposed to any other time would be Kas, Sin, AND Krok,  all fighting the tank at the same time.  :evil:
+which opposed to any other time would be Kas, Sin, AND Krok, all fighting the tank at the same time. <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="11260" data-author="brady" data-date="2006-03-14T16:48:17+00:00" data-subject="">
 
-Always someone trying to iceskate uphill..[/quote:r1o45bhn]
+> <strong>12345 wrote:</strong>
+> Always someone trying to iceskate uphill..
 
-That's funny :mrgreen:
+That's funny <img src="/images/smilies/icon_mrgreen.svg" alt=":mrgreen:" title=":mrgreen:" width="15" height="15" class="smiley nozoom">
 
 </div>

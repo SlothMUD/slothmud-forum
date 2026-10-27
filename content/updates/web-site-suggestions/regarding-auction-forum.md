@@ -26,11 +26,13 @@ However, I have seen forums where messages in a certain board will be sent to th
 
 <div class="post" data-post-id="299" data-author="Weasel" data-date="2004-05-24T16:44:27+00:00" data-subject="">
 
-...so maybe they could appoint a moderator in the auction boards or what not.[/quote:f50d71dn]
+> <strong>Hotara wrote:</strong>
+> ...so maybe they could appoint a moderator in the auction boards or what not.
 
 yeah that would work.
 
-...messages in a certain board will be sent to the recycle bin automatically after a designated point of time, maybe a week or two?.[/quote:f50d71dn]
+> <strong>Hotara wrote:</strong>
+> ...messages in a certain board will be sent to the recycle bin automatically after a designated point of time, maybe a week or two?.
 
 yup, that's called pruning and it can be set automatically with phpBB (this forum), although I kind of like being able to look back at past auctions to get a good idea of a particular eq's value if I'm unsure myself what it should be..
 
@@ -38,7 +40,7 @@ yup, that's called pruning and it can be set automatically with phpBB (this foru
 
 <div class="post" data-post-id="300" data-author="Clink" data-date="2004-05-24T17:25:05+00:00" data-subject="PostNuke Auction Script">
 
-Does anyone want to volunteer to code an auction module that will plug into a Post Nuke site?  Ideally it would have some auction functions like eBay, but only about MUD stuff.
+Does anyone want to volunteer to code an auction module that will plug into a Post Nuke site? Ideally it would have some auction functions like eBay, but only about MUD stuff.
 
 If nobody volunteers, I think eventually someone will code one and we will eventually try to customize it to Sloth, but for the forseeable future, we are stuck with message board auctions of some sort.
 

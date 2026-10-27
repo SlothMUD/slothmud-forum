@@ -46,7 +46,7 @@ Nope. Non-coder here. I guess it is that straightforward, red=failed save, but t
 
 <div class="post" data-post-id="37365" data-author="*teker*" data-date="2016-09-29T03:07:38+00:00" data-subject="Re: What does the color red mean on spell messages?">
 
-The special color on the spell (and now song) messages indicates that the victim of the attack successfully saved and didn't die.  The code doesn't specifically say "red" - it looks like it's a user defined color, so maybe it defaults to red.
+The special color on the spell (and now song) messages indicates that the victim of the attack successfully saved and didn't die. The code doesn't specifically say "red" - it looks like it's a user defined color, so maybe it defaults to red.
 
 I have no idea why a skill message (backstab, etc) would have special coloring.
 
@@ -64,10 +64,10 @@ P.S. Did you mean, "the victim of the spell failed the save"?
 
 <div class="post" data-post-id="37367" data-author="*teker*" data-date="2016-09-29T14:22:49+00:00" data-subject="Re: What does the color red mean on spell messages?">
 
-> **Teron wrote:**
+> <strong>Teron wrote:</strong>
 > P.S. Did you mean, "the victim of the spell failed the save"?
 
-Nope.  The code says the color is shown when the victim successfully saves for 1/2 damage and lives.  All other situations (mob dies, victim is immortal, mob fails save) use the default color.
+Nope. The code says the color is shown when the victim successfully saves for 1/2 damage and lives. All other situations (mob dies, victim is immortal, mob fails save) use the default color.
 
 </div>
 
@@ -97,6 +97,6 @@ Tekkers right. It does less damage with red.
 
 <div class="post" data-post-id="37372" data-author="*teker*" data-date="2016-09-30T17:00:02+00:00" data-subject="Re: What does the color red mean on spell messages?">
 
-Yeah, you guys are right.  The variable name was confusing me - but it should be red when the victim fails to save.  It's probably backwards for bard songs right now but I'll get it fixed in the next build.
+Yeah, you guys are right. The variable name was confusing me - but it should be red when the victim fails to save. It's probably backwards for bard songs right now but I'll get it fixed in the next build.
 
 </div>

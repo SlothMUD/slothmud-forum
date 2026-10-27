@@ -24,17 +24,17 @@ I'm hoping this post reaches someone in power and time to do something about it.
 
 Anyway, love the hard work you're doing with the mud, dear Immortals, having a great time. Thank you.
 
----Belrath
+\---Belrath
 
 </div>
 
 <div class="post" data-post-id="39398" data-author="Josiah" data-date="2020-03-19T03:01:13+00:00" data-subject="Re: Macus bug">
 
-A select few chop weapons were upgraded to proc a more intense blind.  I think it is along the lines of -10000 to hit instead of the usual -5.
+A select few chop weapons were upgraded to proc a more intense blind. I think it is along the lines of -10000 to hit instead of the usual -5.
 
-There are also other chop variants, such as choppers with increased chance of suicide/murder.  There is a chopper which pops off of lyme and isn't temp.
+There are also other chop variants, such as choppers with increased chance of suicide/murder. There is a chopper which pops off of lyme and isn't temp.
 
-Macus and Specs have the original chop proc by design.  If you want better choppers, you can cycle for them.  Scimitars are the easiest upgraded choppers to obtain.
+Macus and Specs have the original chop proc by design. If you want better choppers, you can cycle for them. Scimitars are the easiest upgraded choppers to obtain.
 
 If there must be more trivializing of the game, I recommend not simply making all choppers grossly overpowered.
 
@@ -54,42 +54,42 @@ make the more powerful debuff override the effect and duration of the lesser deb
 
 Ok. Understandable that macus aren't that powerfull. I can live with that. What I can't live with is that when macu proc hits in, it prevents the bigger proc from hitting. Its like a shield for a mob. That's why macu is unusable. I dont care if it gives -5 hit or something as long as it can be overwritten when big fellow hits the mob with big sword.
 
----Belrath
+\---Belrath
 
 </div>
 
 <div class="post" data-post-id="39400" data-author="Belrath" data-date="2020-03-19T04:07:26+00:00" data-subject="Re: Macus bug">
 
-Now to think again, perhaps I'm out fo the line here and all are as they should be. Perhaps I was misscarried by the fact that Breeze told me that there is an issue. *shrug*
+Now to think again, perhaps I'm out fo the line here and all are as they should be. Perhaps I was misscarried by the fact that Breeze told me that there is an issue. \*shrug\*
 
 Feel free to let them as they are if they were designed that way and are working perfectly. My bad
 
----Belrath
+\---Belrath
 
 </div>
 
 <div class="post" data-post-id="39401" data-author="Josiah" data-date="2020-03-19T04:22:01+00:00" data-subject="Re: Macus bug">
 
-I don't think you're out of line.  If newbies are being told not to participate, that is a legitimate problem.  Gods know we definitely don't need bored newbies.
+I don't think you're out of line. If newbies are being told not to participate, that is a legitimate problem. Gods know we definitely don't need bored newbies.
 
-Personally, I'd prefer the problem was dealt with by letting everyone chop and spending more mana on healing.  Chop groups were already viable before -10000 hit procs (also before healbonus eq).
+Personally, I'd prefer the problem was dealt with by letting everyone chop and spending more mana on healing. Chop groups were already viable before -10000 hit procs (also before healbonus eq).
 
-If players aren't being newbie friendly and the Immortals want to intervene, this is definitely worth discussing.  Removing the debuff effect from weak choppers is probably the least invasive solution.
+If players aren't being newbie friendly and the Immortals want to intervene, this is definitely worth discussing. Removing the debuff effect from weak choppers is probably the least invasive solution.
 
 </div>
 
 <div class="post" data-post-id="39402" data-author="Gorka" data-date="2020-03-19T06:14:40+00:00" data-subject="Re: Macus bug">
 
-> **Josiah wrote:**
-> I don't think you're out of line.  If newbies are being told not to participate, that is a legitimate problem.  Gods know we definitely don't need bored newbies.
+> <strong>Josiah wrote:</strong>
+> I don't think you're out of line. If newbies are being told not to participate, that is a legitimate problem. Gods know we definitely don't need bored newbies.
 > 
 > 
 > 
-> Personally, I'd prefer the problem was dealt with by letting everyone chop and spending more mana on healing.  Chop groups were already viable before -10000 hit procs (also before healbonus eq).
+> Personally, I'd prefer the problem was dealt with by letting everyone chop and spending more mana on healing. Chop groups were already viable before -10000 hit procs (also before healbonus eq).
 > 
 > 
 > 
-> If players aren't being newbie friendly and the Immortals want to intervene, this is definitely worth discussing.  Removing the debuff effect from weak choppers is probably the least invasive solution.
+> If players aren't being newbie friendly and the Immortals want to intervene, this is definitely worth discussing. Removing the debuff effect from weak choppers is probably the least invasive solution.
 
 I agree with what Josiah says here for the same reasons. If macu's simply didn't block the more powerful blind for now, that should be a solution to the issue, at least short term.
 
@@ -113,7 +113,7 @@ this weekend, Saturday, to give those updated choppers a good run-through.
 
 Enjoy the changes, and we'll see you guys Saturday around noontime central US time.
 
--Neptune
+\-Neptune
 
 </div>
 

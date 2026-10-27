@@ -14,21 +14,21 @@ post_count: 3
 
 Hello everybody!
 
-i do not play much nowdays, but got one spell idea :idea:
+i do not play much nowdays, but got one spell idea <img src="/images/smilies/icon_idea.svg" alt=":idea:" title=":idea:" width="15" height="15" class="smiley nozoom">
 
 think we could name some mobs 'fast' - those who has a decent amount
 
-of attacks in one round ( say >4 ), and name other mobs 'slow' ( attacks <=4 ).
+of attacks in one round ( say \>4 ), and name other mobs 'slow' ( attacks \<=4 ).
 
 since that what about 'slow' spell that could affect only 'fast' mobs and,
 
-if successful,  reduce amount of mob attacks by 1.
+if successful, reduce amount of mob attacks by 1.
 
 well, seems to be little overpower at first sight, but i think we could
 
 tune spell duration, success rate, etc etc to bring some balance here
 
-or even make this spell useless  :twisted:
+or even make this spell useless <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 /falsra
 
@@ -42,6 +42,6 @@ Sounds like a great druid spell, since druids don't get acid blast or weaken thi
 
 <div class="post" data-post-id="8272" data-author="kjartan" data-date="2005-08-12T14:24:22+00:00" data-subject="">
 
-It's a good idea.  I am buried in mob lairs and resectoring right now, but maybe in a month or so I could do it.
+It's a good idea. I am buried in mob lairs and resectoring right now, but maybe in a month or so I could do it.
 
 </div>

@@ -22,7 +22,7 @@ It means that to pop the item again, the players not only need to kill an empty 
 
 Solution 1:
 
-Save the state of items in use on mobs larger, than 5mil, every repop (ideally, all mobs > 1mil)
+Save the state of items in use on mobs larger, than 5mil, every repop (ideally, all mobs \> 1mil)
 
 When a crash occurs, load that state of eq.
 
@@ -40,17 +40,17 @@ Keeping spellbooks in the libraries might be helpful as well.
 
 To demonstrate the problem, I am and will be posting items with:
 
-- which items were lost and how many of them
+\- which items were lost and how many of them
 
-- effort required to pop them
+\- effort required to pop them
 
-- when it happened.
+\- when it happened.
 
 I'll start with:
 
-1. Before June 12th: I spent about 8-12 hours across 3 days to pop 30-40 specs total before they are poofed on crash. I pop another batch, and it crashes again. It crashed 3 times on me, and I kept popping specs, and then it crashed again. I popped them again. I wonder, if this is a sign of a mad addict, than a healthy person.
+1\. Before June 12th: I spent about 8-12 hours across 3 days to pop 30-40 specs total before they are poofed on crash. I pop another batch, and it crashes again. It crashed 3 times on me, and I kept popping specs, and then it crashed again. I popped them again. I wonder, if this is a sign of a mad addict, than a healthy person.
 
-2. June 12th:
+2\. June 12th:
 
 Neptune pre-loaded eq on 150-200mil mobs.
 
@@ -58,7 +58,7 @@ A group of 6-7 spent at least 3-4 hours killing 1 200mil mob per run, which late
 
 There were 5-7 items I knew - about 3 were actually popped, not Neptune-loaded - that were lost in a scheduled reboot 24hr after the quest.
 
-3. June 14th.
+3\. June 14th.
 
 Ezekiel and I have spent at least 4-5 hours popping specs, solo, 2man and in a chop group.
 
@@ -66,11 +66,11 @@ About 20+ specs were lost in a scheduled reboot.
 
 A found shaping peri.
 
-4. Every time a crash/reboot happens, the fargate we enable manually is reset and not renewed.
+4\. Every time a crash/reboot happens, the fargate we enable manually is reset and not renewed.
 
 It takes at least 5-9 min for 2+ 9x40 players to regen for the kill, and after the kill.
 
-5. Countless times, when I have killed a big mob, went to bed, only to find that the MUD has crashed/rebooted, while I slept, leaving it a mystery, whether it loaded.
+5\. Countless times, when I have killed a big mob, went to bed, only to find that the MUD has crashed/rebooted, while I slept, leaving it a mystery, whether it loaded.
 
 Sometimes I wonder, if I should bother with popping specs or enabling fargate.
 
@@ -86,11 +86,11 @@ P.S. If someone wants to tell me that popping eq isn't what we play for: play ho
 
 P.P.S. I'd like to note that some imms do:
 
-- save choppers, if they are on
+\- save choppers, if they are on
 
-- re-enable fargate, if they are present - but not always
+\- re-enable fargate, if they are present - but not always
 
-- enable random extra bonuses.
+\- enable random extra bonuses.
 
 However, this isn't an imm rule, more a whim, and random extra global bonuses - except gempop - don't compensate for lost pops, only for the loss of aged exp on mobs.
 
@@ -100,7 +100,7 @@ However, this isn't an imm rule, more a whim, and random extra global bonuses - 
 
 easy solution:
 
-just make a room, e.g. south from lyme inn, where all specs/choppers saved upon reboot/crash. or reboot atleast ;)
+just make a room, e.g. south from lyme inn, where all specs/choppers saved upon reboot/crash. or reboot atleast <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 thanks in advance
 
@@ -110,7 +110,7 @@ thanks in advance
 
 I sent this is Teker, Jan 4th...
 
-> **Quote:**
+> <strong>Quote:</strong>
 > Teker,
 > 
 > 
@@ -123,9 +123,9 @@ I sent this is Teker, Jan 4th...
 > 
 > 
 > 
-> * Store when a mob is dead (Mob Killed Event).
+> \* Store when a mob is dead (Mob Killed Event).
 > 
-> * Store items loaded by a mob (Mob Spawn Event).
+> \* Store items loaded by a mob (Mob Spawn Event).
 > 
 > 
 > 
@@ -187,17 +187,17 @@ I can't remember what caused that code to stop working or why it stopped working
 
 Gorka, you see, mobs don't pop good eq on crashes/reboots, so what you are talking about is:
 
-- a group kills a large mob
+\- a group kills a large mob
 
-- the tank or a few people leave
+\- the tank or a few people leave
 
-- someone notices a big mob loaded
+\- someone notices a big mob loaded
 
-- they start calling for help
+\- they start calling for help
 
- 1) if they succeed, they get the pop. Hurray!
+ 1\) if they succeed, they get the pop. Hurray!
 
- 2) if they fail or go to sleep, hoping it wouldn't crash, they don't get the item - this happened to me at least twice, because I was dead tired in the early morning.
+ 2\) if they fail or go to sleep, hoping it wouldn't crash, they don't get the item - this happened to me at least twice, because I was dead tired in the early morning.
 
 However, I don't remember anyone calling for help right after crash with, "Help, a mob loaded cool eq on crash, let's get it!" The closest I can think of is Luci, but Luci loads during a house, not with the game.
 
@@ -255,16 +255,16 @@ Yeah, I forgot it was loaded to warn Neptune of it, but then I doubt there was e
 
 <div class="post" data-post-id="38307" data-author="*teker*" data-date="2017-06-27T21:01:23+00:00" data-subject="Re: Save state of loaded EQ to save it through crashes/reboo">
 
-I've written the code to save the list of mobile carried/equipped items at shutdown.  It will go in with the next reboot.  I have not added code to use that list at boot.
+I've written the code to save the list of mobile carried/equipped items at shutdown. It will go in with the next reboot. I have not added code to use that list at boot.
 
-Question: What criteria should I use to repop an item?  I'm not going to repop 100% of what is in the file.
+Question: What criteria should I use to repop an item? I'm not going to repop 100% of what is in the file.
 
 </div>
 
 <div class="post" data-post-id="38308" data-author="Gorka" data-date="2017-06-27T21:15:56+00:00" data-subject="Re: Save state of loaded EQ to save it through crashes/reboo">
 
-> ***teker* wrote:**
-> Question: What criteria should I use to repop an item?  I'm not going to repop 100% of what is in the file.
+> <strong>\*teker\* wrote:</strong>
+> Question: What criteria should I use to repop an item? I'm not going to repop 100% of what is in the file.
 
 I don't follow what you mean here, why not load what was already loaded if the game is going down for reboot?
 
@@ -274,11 +274,11 @@ I don't follow what you mean here, why not load what was already loaded if the g
 
 I'd load:
 
-- held/worn equipment
+\- held/worn equipment
 
-- on mobs, larger than 1mil
+\- on mobs, larger than 1mil
 
-- on valk, on mobs, larger than 50k
+\- on valk, on mobs, larger than 50k
 
 What is the restriction of the load list in your opinion, Teker?
 
@@ -300,7 +300,7 @@ if he reloads everything, then eventually there would be a bunch of junk loaded 
 
 I see what your saying, but find it hard to believe that over time the mud would incrementally load with significantly more items because no one killed since the last reboot, to the point of putting a strain on memory. Is unpopped items on unrun areas really that much of a bigger problem? I mean half the mud hardly gets run, it's not for nothing I am 9x40 and my exploration is on 50%. If it's not being run, it's likely going to be empty anyway. The information in the file will be a good indication of what not to bother loading the first few times, until some filters could be implemented. Why not wait, and see how it pans out so the filters can be properly set. 
 
-The other suggestion is, perhaps there is a way to log  a timestamp when the item loaded... you could clear out the crap by the timestamp if it's a certain age.
+The other suggestion is, perhaps there is a way to log a timestamp when the item loaded... you could clear out the crap by the timestamp if it's a certain age.
 
 </div>
 
@@ -314,17 +314,17 @@ Hundreds to thousands of items can be loaded at any given time. There is no sens
 
 <div class="post" data-post-id="38315" data-author="Teron" data-date="2017-06-29T07:59:50+00:00" data-subject="Re: Save state of loaded EQ to save it through crashes/reboo">
 
-1. I'm not sure, if I was clear.
+1\. I'm not sure, if I was clear.
 
 I meant held/worn items on mobs, larger than 1mil.
 
 It shouldn't be a whole lot, and, like Gorka said, we are not killing the entire MUD. We are killing mostly same mobs - the issue is for items to stay long enough until we go back and kill them.
 
-2. Some good items have low item value, and relative junk has high value, so it's better to go by item type.
+2\. Some good items have low item value, and relative junk has high value, so it's better to go by item type.
 
-3. I'd just start with some settings, go from there and see, if you can add/remove filters without eating tons of memory.
+3\. I'd just start with some settings, go from there and see, if you can add/remove filters without eating tons of memory.
 
-4. Both issues of not getting an item on repop and having tons of items loaded can be solved by loading items on death. What is your opinion on this?
+4\. Both issues of not getting an item on repop and having tons of items loaded can be solved by loading items on death. What is your opinion on this?
 
 The only exception I see is personal quest items, because we need to know, whether it loaded beforehand, so the looters are off/on - or there needs to be a separate load mechanism/message for personal items, so they are not looted immediately.
 
@@ -354,9 +354,9 @@ I think the new code will solve the majority of issues and concerns which have b
 
 <div class="post" data-post-id="38318" data-author="*teker*" data-date="2017-06-29T18:55:32+00:00" data-subject="Re: Save state of loaded EQ to save it through crashes/reboo">
 
-I'm hoping that once we get the code in place I can analyze a sample file and try to build rules based on the data.  I'll know a lot more once I can look at a real sample.  I've had an issue pointed out that I hadn't known about, so I'm still working on making the save function function work properly in all cases.
+I'm hoping that once we get the code in place I can analyze a sample file and try to build rules based on the data. I'll know a lot more once I can look at a real sample. I've had an issue pointed out that I hadn't known about, so I'm still working on making the save function function work properly in all cases.
 
-We can currently pop items on death using procs - the prisoner in Castle Zodiac is an example that pops some items normally and atleast one via proc.  One disadvantage of doing this for all mobs is that Wealth and Glory would have to be rewritten as it doesn't know how to handle proc pops (like Maleficent).  Currently all data for pops is stored on the room in which the pop happens - that would also have to change so that the mob can pop the appropriate items after roaming.  It's a little tricky since we can pop multiple identical mobs in the same room but pop different items on them.
+We can currently pop items on death using procs - the prisoner in Castle Zodiac is an example that pops some items normally and atleast one via proc. One disadvantage of doing this for all mobs is that Wealth and Glory would have to be rewritten as it doesn't know how to handle proc pops (like Maleficent). Currently all data for pops is stored on the room in which the pop happens - that would also have to change so that the mob can pop the appropriate items after roaming. It's a little tricky since we can pop multiple identical mobs in the same room but pop different items on them.
 
 </div>
 
@@ -418,9 +418,9 @@ cps from the Cloud Giant fortress on the ground.
 
 <div class="post" data-post-id="38466" data-author="*teker*" data-date="2017-11-07T19:43:03+00:00" data-subject="Re: Save state of loaded EQ to save it through crashes/reboo">
 
-I've enabled my solution for this in the next reboot.  However, my solution is to the original "problem" which was mobs popping items and then losing them during the reboot.  It is not a "persist items on the ground or in vaults" solution.
+I've enabled my solution for this in the next reboot. However, my solution is to the original "problem" which was mobs popping items and then losing them during the reboot. It is not a "persist items on the ground or in vaults" solution.
 
-That means that the choppers on the ground are going to go away at reboot.  It also means that mobs that normally pop choppers and are carrying one at the reboot are likely to repop with one after the reboot.
+That means that the choppers on the ground are going to go away at reboot. It also means that mobs that normally pop choppers and are carrying one at the reboot are likely to repop with one after the reboot.
 
 </div>
 
@@ -434,9 +434,9 @@ If the reboot is scheduled, will we be able to dump all the choppers on a mob an
 
 <div class="post" data-post-id="38468" data-author="*teker*" data-date="2017-11-08T03:19:29+00:00" data-subject="Re: Save state of loaded EQ to save it through crashes/reboo">
 
-1) Yes.  I think it'll remain this way until the higher ups are confident that people can't intentionally crash the game to get hard mobs to repop item.  Or unless we figure out a way to track how long the game was up before the last crash/reboot and do something based on that.
+1\) Yes. I think it'll remain this way until the higher ups are confident that people can't intentionally crash the game to get hard mobs to repop item. Or unless we figure out a way to track how long the game was up before the last crash/reboot and do something based on that.
 
-2) No.
+2\) No.
 
 </div>
 
@@ -454,13 +454,13 @@ Today I killed an empty chop mob 30 times, only to have to kill another empty af
 
 <div class="post" data-post-id="38499" data-author="*teker*" data-date="2017-11-20T21:53:30+00:00" data-subject="Re: Save state of loaded EQ to save it through crashes/reboo">
 
-Ok, so now I've got code that will log each time the mud boots to the database so I can tell how long it's been since the last boot.  Basically a way to tell if the game has been up a while or if it crashed/rebooted recently.  So now I can do one of two things:
+Ok, so now I've got code that will log each time the mud boots to the database so I can tell how long it's been since the last boot. Basically a way to tell if the game has been up a while or if it crashed/rebooted recently. So now I can do one of two things:
 
-1) Allow mobs to pop equipment normally at boot if the game has been running for a significant amount of time.  I imagine 23hrs is a decent check there.
+1\) Allow mobs to pop equipment normally at boot if the game has been running for a significant amount of time. I imagine 23hrs is a decent check there.
 
 OR
 
-2) Continue saving the equipment at shutdown (if a normal shutdown or the game hasn't crashed too badly) and try repopping equipment from that list at reboot.
+2\) Continue saving the equipment at shutdown (if a normal shutdown or the game hasn't crashed too badly) and try repopping equipment from that list at reboot.
 
 So what should it be?
 
@@ -484,7 +484,7 @@ I don't know how possible it is to keep a list of dead mobs in the same manner y
 
 Option #1 was tried 20 + years ago and led to the game being intentionally crashed. Giving the option for tons of high level equipment to pop, even though the majority of mobs were not cycled or dead at the time of crash/reboot, doesn't make much sense to me!
 
-I actually agree with Gorka,  hidden option #3 would be ideal!
+I actually agree with Gorka, hidden option #3 would be ideal!
 
 </div>
 
@@ -500,14 +500,14 @@ I don't see how this seems to be a satisfying solution.
 
 Now, Gorka suggested
 
-> **Quote:**
+> <strong>Quote:</strong>
 > Mobs that were dead at time of reboot, are respawned with a chance to load.
 > 
 > Mobs that had items at the time of reboot, are reloaded with items they already had.
 
 and Splork said
 
-> **Quote:**
+> <strong>Quote:</strong>
 > I actually agree with Gorka, hidden option #3 would be ideal!
 
 but what actually implemented was:
@@ -516,10 +516,10 @@ Mobs that had items at the time of reboot, are respawned with a chance to load.
 
 This also needs to be improved to be a satisfactory change, in my opinion to the original suggestion:
 
-> **Gorka wrote:**
+> <strong>Gorka wrote:</strong>
 > Mobs that had items at the time of reboot, are reloaded with items they already had.
 
-> **Splork wrote:**
+> <strong>Splork wrote:</strong>
 > I actually agree with Gorka, hidden option #3 would be ideal!
 
 </div>

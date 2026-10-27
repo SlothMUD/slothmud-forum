@@ -16,11 +16,11 @@ I have 10 casts of Talshans tribute on me together with Purity yet when i run wi
 
 PURITY
 
-Usage:         cast 'purity'
+Usage: cast 'purity'
 
-Cost:          60 mana
+Cost: 60 mana
 
-Level:         Monk 18
+Level: Monk 18
 
 This spell cleanses the caster's body of all impurities and renders it
 
@@ -28,9 +28,9 @@ resistant to further disease.
 
 "TALSHANS TRIBUTE"
 
-Usage:         cast 'talshans tribute' <target>
+Usage: cast 'talshans tribute' \<target\>
 
-Cost:          20 mana
+Cost: 20 mana
 
 The spell makes one more resistant to diseases, the more castings
 
@@ -44,7 +44,7 @@ The proc on cacodaemon was only coded to consider Talshan's diablerie. I added t
 
 Try it out.
 
--Cheers
+\-Cheers
 
 </div>
 

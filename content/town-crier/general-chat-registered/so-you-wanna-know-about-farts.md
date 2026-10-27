@@ -14,7 +14,7 @@ post_count: 1
 
 Posted from:
 
-[url:1gvte55r]http://www.thegtb.co.uk/farts.htm[/url:1gvte55r]
+http://www.thegtb.co.uk/farts.htm
 
 Where does fart gas come from ?
 

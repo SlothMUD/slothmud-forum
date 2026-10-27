@@ -14,7 +14,7 @@ post_count: 4
 
 Hi guys,
 
-I hadn't seen anyone give an update lately, but we are currently about 60 votes out of third place.  This means that we have cut the gap in half since taking fourth.  Keep up the good work, and keep VOTING.
+I hadn't seen anyone give an update lately, but we are currently about 60 votes out of third place. This means that we have cut the gap in half since taking fourth. Keep up the good work, and keep VOTING.
 
 Harm
 
@@ -28,7 +28,7 @@ yeah, we are gettin to #3. Hope we will get it before TMC reset.
 
 <div class="post" data-post-id="32563" data-author="Jaid" data-date="2011-04-14T11:32:08+00:00" data-subject="Re: TMC, voting, and you.">
 
-We're only a handful of votes away from #3.  Please make sure you vote today. Sloth's worth it.  :P
+We're only a handful of votes away from #3. Please make sure you vote today. Sloth's worth it. <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -38,6 +38,6 @@ If you check TMC and follow the links:
 
 Listings - Top 10 Muds - All Rankings
 
-We have MOVED into #3 by 3 votes!!  Congrats to us!
+We have MOVED into #3 by 3 votes!! Congrats to us!
 
 </div>

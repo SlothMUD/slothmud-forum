@@ -14,13 +14,13 @@ post_count: 4
 
 I've forged seal of wizard Bomanz (it's key to room with codex of demonic destruction) but when we start to read it codex just fly away. None reading at all. 
 
-Guys who've made it and others who doesn't fix it till now (guess Rita and  others) - you suck. It doesn't funny to collect all this cps again.
+Guys who've made it and others who doesn't fix it till now (guess Rita and others) - you suck. It doesn't funny to collect all this cps again.
 
 </div>
 
 <div class="post" data-post-id="9757" data-author="madmax" data-date="2005-12-10T13:58:16+00:00" data-subject="">
 
-From what I remember, each entry allows 3 reads of the book.  Make sure that you have ate/drank and have all triggers off when reading.  Starting to read counts, not finishing.
+From what I remember, each entry allows 3 reads of the book. Make sure that you have ate/drank and have all triggers off when reading. Starting to read counts, not finishing.
 
 So if you are careful, you can get your 2 reads in and another player can get 1 for each key forged.
 
@@ -38,6 +38,6 @@ It's been a few years since I read it, but back then it gave a random number of 
 
 As it was saying to me there is still 12% chance to poof it on 'read' command. That's why it poofs so often.
 
-  :evil:
+ <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>

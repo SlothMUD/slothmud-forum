@@ -20,21 +20,21 @@ Thx
 
 <div class="post" data-post-id="12021" data-author="tincts" data-date="2006-04-09T09:31:33+00:00" data-subject="Sweet quest, man.">
 
-Just wanna say a big thankyou to Splork and all others involved in today's quest.  I had a great time, and enjoyed the drachma and a nice piece of eq in the subsequent eqpop :)  Just wanna say that these out-of-the-norm mud events add a great piece of variety and interest to sloth, and a sense of community.  I appreciate it.
+Just wanna say a big thankyou to Splork and all others involved in today's quest. I had a great time, and enjoyed the drachma and a nice piece of eq in the subsequent eqpop <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> Just wanna say that these out-of-the-norm mud events add a great piece of variety and interest to sloth, and a sense of community. I appreciate it.
 
 </div>
 
 <div class="post" data-post-id="12022" data-author="*juggleblood*" data-date="2006-04-09T11:13:49+00:00" data-subject="">
 
-:D Nods, It was indeed fun and generous. Thank you Splork for all your effort.
+<img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> Nods, It was indeed fun and generous. Thank you Splork for all your effort.
 
-Was kind of a let down at the end tho, when collecting pops and discover that Alias and crew had run behind the quest group and scooped up pops.  :cry:  
+Was kind of a let down at the end tho, when collecting pops and discover that Alias and crew had run behind the quest group and scooped up pops. <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> 
 
-Of course they feel entirely justified because "We weren't part of the quest. And we were killin that mob (seal guardian) earlier." :shock: 
+Of course they feel entirely justified because "We weren't part of the quest. And we were killin that mob (seal guardian) earlier." <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
- As if they didn't benefit from the eqpop being turned on and as if they didn't realize that the quest group had just killed the mob causing it to pop. I know he wasn't cycling it prior to the quest because he logged in well after quest was underway.   :? And I like Krok's explanation also, "If you wanted some eq, you shouldn't have stuck with the quest group. You should have gone off and cycled eq yourself." (was her advice to Poodle) Ok, advice taken. Next time I won't even bother with the quest, I'll just wait till eq pop comes on and follow behind the quest group and scoop pops. If anyone busts on me for it I'll just say I was cycling that mob during the quest. But grats to them. They can give it to one of their lowbie alts. Or maybe they'd even  have the nerve to sell it to me. :x 
+ As if they didn't benefit from the eqpop being turned on and as if they didn't realize that the quest group had just killed the mob causing it to pop. I know he wasn't cycling it prior to the quest because he logged in well after quest was underway. <img src="/images/smilies/icon_e_confused.svg" alt=":?" title=":?" width="15" height="15" class="smiley nozoom"> And I like Krok's explanation also, "If you wanted some eq, you shouldn't have stuck with the quest group. You should have gone off and cycled eq yourself." (was her advice to Poodle) Ok, advice taken. Next time I won't even bother with the quest, I'll just wait till eq pop comes on and follow behind the quest group and scoop pops. If anyone busts on me for it I'll just say I was cycling that mob during the quest. But grats to them. They can give it to one of their lowbie alts. Or maybe they'd even have the nerve to sell it to me. <img src="/images/smilies/icon_mad.svg" alt=":x" title=":x" width="15" height="15" class="smiley nozoom"> 
 
-I do admit the drachma alone was worth the trouble. But staying up all night anticipating getting .8 shoulders, only to have it ripped away is frustrating. :(  
+I do admit the drachma alone was worth the trouble. But staying up all night anticipating getting .8 shoulders, only to have it ripped away is frustrating. <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom"> 
 
 Cheers,
 
@@ -46,13 +46,13 @@ Rub
 
 Seeing these comments I think id have to come back and play again.
 
-The worst part of a quest was healing and healing and healing, and getting squat at the end.  For cleric prime at least makes no sense to participate in one, unless the leader is your best friend or a clan member.  
+The worst part of a quest was healing and healing and healing, and getting squat at the end. For cleric prime at least makes no sense to participate in one, unless the leader is your best friend or a clan member. 
 
 But even in those conditions I've enjoyed the short end of the stick, as the order always goes something like: leader, tank, 2.tank, 3.tank, runner, runner, runner, and of course by this point everything good is gone.
 
 It seems as though eqpop for a quest or during a quest would definately solve that.
 
-Thank you to whomever created that, its an excellent idea that evens the distribution of prizes, and in general is just fun to play that way!!!!  
+Thank you to whomever created that, its an excellent idea that evens the distribution of prizes, and in general is just fun to play that way!!!! 
 
 Mosaix
 
@@ -80,13 +80,13 @@ About that quotation.. I meant that if you see a group of 30 people (where 20 ha
 
 <div class="post" data-post-id="12027" data-author="Qa" data-date="2006-04-09T17:16:34+00:00" data-subject="Great Quest!  Thank You!">
 
-First I want to say a big thanks to Splork for setting up the quest.  It was well set up, difficult, interesting and really fun.
+First I want to say a big thanks to Splork for setting up the quest. It was well set up, difficult, interesting and really fun.
 
-Thanks to my group members.  Good group, minimal deaths (for a quest) and not too much screwing up (for a quest.)  Good job in attempting to cater to all the needs of the group, Minstrel.  Your leading was great, and quest leading is a very tough job.
+Thanks to my group members. Good group, minimal deaths (for a quest) and not too much screwing up (for a quest.) Good job in attempting to cater to all the needs of the group, Minstrel. Your leading was great, and quest leading is a very tough job.
 
-I must admit I really didn't think I could quest.  My in-laws were supposed to be in town all wekend, but they split yesterday afternoon.  (Apparently the communication between them and us about their departure date was not clear - go figure.)  My spouse wanted to go to bed early, but was kind enough to set me up with a box of crackers, some cheese and a beer.  I said I wouldn't stay up too late, but I did anyway.  Such is the way of quests.
+I must admit I really didn't think I could quest. My in-laws were supposed to be in town all wekend, but they split yesterday afternoon. (Apparently the communication between them and us about their departure date was not clear - go figure.) My spouse wanted to go to bed early, but was kind enough to set me up with a box of crackers, some cheese and a beer. I said I wouldn't stay up too late, but I did anyway. Such is the way of quests.
 
-Thanks for letting me have my item, I have been after a set of vguards for 5 years or so. :D
+Thanks for letting me have my item, I have been after a set of vguards for 5 years or so. <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 Thanks all!
 
@@ -110,18 +110,18 @@ Splork
 
 I really do wonder though-what would of happened if I stayed out of it and watched the quest go unfinished till today or tomorrow because you failed to forge the sword while House of Sun was going on? I bet there would be a ton of flames here...
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="12030" data-author="Harlot" data-date="2006-04-09T21:41:06+00:00" data-subject="RE:Quest">
 
-Flame On! :twisted:
+Flame On! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="12031" data-author="Mystery" data-date="2006-04-09T22:04:12+00:00" data-subject="Re:Quest">
 
-Interesting theory Splork... perhaps we should test it again this friday around 9pm eastern 8)
+Interesting theory Splork... perhaps we should test it again this friday around 9pm eastern <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>

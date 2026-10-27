@@ -14,11 +14,11 @@ post_count: 4
 
 Ping statistics for 209.139.208.64:
 
-    Packets: Sent = 36, Received = 6, Lost = 30 (83% loss),
+ Packets: Sent = 36, Received = 6, Lost = 30 (83% loss),
 
 Approximate round trip times in milli-seconds:
 
-    Minimum = 366ms, Maximum = 420ms, Average = 389ms
+ Minimum = 366ms, Maximum = 420ms, Average = 389ms
 
 </div>
 

@@ -14,7 +14,7 @@ post_count: 18
 
 To Any Willing Adventurer:
 
-We have been secluded for many eons now, hidden away behind the fogs of your world, self-sufficient and able to handle our own problems.  Such times have come to an end by the decree of our lord, Viceroy Argenteus.  He has lifted the veil and opened our arches to your world to test your character, fortitude, and abilities.  It is a test to prove if you can be trusted to help us in our time of crisis.  Should you accomplish two simple feats, finding the location of our small community and opening a text in my collection, you will have earned the right to be called upon in the future.
+We have been secluded for many eons now, hidden away behind the fogs of your world, self-sufficient and able to handle our own problems. Such times have come to an end by the decree of our lord, Viceroy Argenteus. He has lifted the veil and opened our arches to your world to test your character, fortitude, and abilities. It is a test to prove if you can be trusted to help us in our time of crisis. Should you accomplish two simple feats, finding the location of our small community and opening a text in my collection, you will have earned the right to be called upon in the future.
 
 A humble servant,
 
@@ -38,7 +38,7 @@ What day and time Lordmaster Zorinom?
 
 <div class="post" data-post-id="19050" data-author="Destiny" data-date="2007-06-24T16:42:28+00:00" data-subject="">
 
-I am planning on running an area opener on Wednesday, June 27 at 9:30 est.  I am placing a little twist on the typical opener, and as such, I will not run it with less than 20 people or more than 30.  At this junction in time, only 3 people that I know of have solved the necessary Autoquest to participate (refer to original post), and one of those probably cannot make the start on time.  Provided you solve the AQ, email me at destiny@slothmud.org with the command line you used to solve the riddle, who you plan on questing with, class, and your preference for sides (defending or attacking).  You only need to solve it with one character to allow any of your characters to join the quest.  I am not promising you will get your alignment preference, but I will try my best.
+I am planning on running an area opener on Wednesday, June 27 at 9:30 est. I am placing a little twist on the typical opener, and as such, I will not run it with less than 20 people or more than 30. At this junction in time, only 3 people that I know of have solved the necessary Autoquest to participate (refer to original post), and one of those probably cannot make the start on time. Provided you solve the AQ, email me at destiny@slothmud.org with the command line you used to solve the riddle, who you plan on questing with, class, and your preference for sides (defending or attacking). You only need to solve it with one character to allow any of your characters to join the quest. I am not promising you will get your alignment preference, but I will try my best.
 
 Email me or catch me online with any questions.
 
@@ -54,13 +54,13 @@ be prepared for the quest eq whiners!
 
 <div class="post" data-post-id="19062" data-author="brady" data-date="2007-06-25T05:10:52+00:00" data-subject="">
 
-:D Serenity Now! :D
+<img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> Serenity Now! <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="19096" data-author="Destiny" data-date="2007-06-27T16:32:27+00:00" data-subject="">
 
-IF anyone else is planning on attending tonight's opener, I need to receive your e-mail by 5:00 p.m est.  There are several more openings if you find that you can attend.  
+IF anyone else is planning on attending tonight's opener, I need to receive your e-mail by 5:00 p.m est. There are several more openings if you find that you can attend. 
 
 Destiny
 
@@ -68,15 +68,15 @@ Destiny
 
 <div class="post" data-post-id="19097" data-author="Autolycos" data-date="2007-06-27T16:49:26+00:00" data-subject="">
 
-[b:34yedygj]I'm in ur Glade aidin ur Ravenz! :twisted: [/b:34yedygj][/size:34yedygj][/color:34yedygj]
+<strong>I'm in ur Glade aidin ur Ravenz! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"></strong> 
 
-[img:34yedygj]http://www.xgenco.com/sloth3/nevermore.jpg[/img:34yedygj]
+![](http://www.xgenco.com/sloth3/nevermore.jpg)
 
 </div>
 
 <div class="post" data-post-id="19098" data-author="Yinao" data-date="2007-06-27T19:13:40+00:00" data-subject="">
 
-[b:99yctc3x]BUH KAW!!![/b:99yctc3x][/size:99yctc3x]
+<strong>BUH KAW!!!</strong>
 
 </div>
 
@@ -106,63 +106,63 @@ Destiny
 
 Chi is leading 'The Grim Corps' on Godsland:
 
-            (Ma:5.40)   Chi
+ (Ma:5.40) Chi
 
-            (Wa:4.33)   Tremble
+ (Wa:4.33) Tremble
 
-            (Wa:5.40)   Shimbo
+ (Wa:5.40) Shimbo
 
-            (Th:5.40)   Polk
+ (Th:5.40) Polk
 
-            (Wa:2.31)   Calin
+ (Wa:2.31) Calin
 
-            (Ma:4.12)   Resouh
+ (Ma:4.12) Resouh
 
-            (Ma:5.40)   Truth
+ (Ma:5.40) Truth
 
-            (Ma:5.40)   Rynquald
+ (Ma:5.40) Rynquald
 
-            (Ma:4.08)   Kull
+ (Ma:4.08) Kull
 
-            (Ma:5.40)   Ezekiel
+ (Ma:5.40) Ezekiel
 
-            (Ma:2.28)   Truck
+ (Ma:2.28) Truck
 
-            (Ba:4.08)   Jacinda
+ (Ba:4.08) Jacinda
 
-            (Cl:5.40)   Madmax
+ (Cl:5.40) Madmax
 
-           (Immortal)   Tysmiha
+ (Immortal) Tysmiha
 
 Sheng is leading 'we're in ur glade, tearin ur asunderz' on Godsland:
 
-            (Cl:4.04)   Sheng
+ (Cl:4.04) Sheng
 
-            (Wa:5.40)   Van
+ (Wa:5.40) Van
 
-            (Wa:3.33)   Doink
+ (Wa:3.33) Doink
 
-            (Th:5.40)   Autolycos
+ (Th:5.40) Autolycos
 
-            (Ba:5.40)   Minstrel
+ (Ba:5.40) Minstrel
 
-            (Ma:5.40)   Brady
+ (Ma:5.40) Brady
 
-            (Ma:3.29)   Xiao
+ (Ma:3.29) Xiao
 
-            (Ma:3.33)   Trance
+ (Ma:3.33) Trance
 
-            (Cl:5.40)   Yinao
+ (Cl:5.40) Yinao
 
-            (Dr:5.40)   Stryx
+ (Dr:5.40) Stryx
 
-            (Ne:5.40)   Giselle
+ (Ne:5.40) Giselle
 
-            (Dr:5.40)   Daedalus
+ (Dr:5.40) Daedalus
 
-           (Immortal)   Destiny
+ (Immortal) Destiny
 
-Destiny wrote a great quest for us, with two teams competing but not allowed to interfere with each other.  We began by collecting a series of items to forge a key at Loremaster Zorinom.  
+Destiny wrote a great quest for us, with two teams competing but not allowed to interfere with each other. We began by collecting a series of items to forge a key at Loremaster Zorinom. 
 
 Chi -- 'a spark of white fire'
 
@@ -184,13 +184,13 @@ Chi -- 'a luminescent gem'
 
 Zorinom forged us an emerald dragon's eye, which we used to turn a dial and then insert into a tiara to enter Mercurial Woods.
 
-Sheng's group beat Chi's to the Woods due to some issues with acquiring an elemental core, and were hard at work collecting their tokens of carnage.  Despite their lead, Chi and his company infiltrated the castle and collected their tokens of righteousness first.  The final challenge was to kill a mob selected by the other team.  Chi's group chose Inocaes, thinking Sheng's group would have to get to the mob to kill it.  But no, it was transferred to our area, so while Chi and company tried to kill Iblis, Sheng caught up and splorked Inocaes.  Most of Chi's group was also splorked when Baraneth decided to interrupt the party and kill us all instead of them.  Amazingly, this was the ONLY thing anyone could find wrong with the quest.  Great job Destiny!
+Sheng's group beat Chi's to the Woods due to some issues with acquiring an elemental core, and were hard at work collecting their tokens of carnage. Despite their lead, Chi and his company infiltrated the castle and collected their tokens of righteousness first. The final challenge was to kill a mob selected by the other team. Chi's group chose Inocaes, thinking Sheng's group would have to get to the mob to kill it. But no, it was transferred to our area, so while Chi and company tried to kill Iblis, Sheng caught up and splorked Inocaes. Most of Chi's group was also splorked when Baraneth decided to interrupt the party and kill us all instead of them. Amazingly, this was the ONLY thing anyone could find wrong with the quest. Great job Destiny!
 
 Once Baraneth left, Chi returned and we smashed Iblis's face in.
 
 Ezekiel gets a glowing sliver of steel from the corpse of Iblis that's on the ground.
 
-The hot shards of steel slice through your skin.  It burns!
+The hot shards of steel slice through your skin. It burns!
 
 You have gained 30 drachma.
 
@@ -228,9 +228,9 @@ Weight: 6, Value: 32750, Worn in: TAKE NECK
 
 Can affect you as:
 
-    Affects: HITPOINT by 10
+ Affects: HITPOINT by 10
 
-    Affects: CON by 1
+ Affects: CON by 1
 
 Only those who are at least adept thieves and also apprentice warriors, and adept bards, and apprentice monks may use this item.
 
@@ -248,7 +248,7 @@ Grobisk - leather scroll case (size 50)
 
 Ryzen - shadow pauldrons (-0.1 +1 dam +5 mvs) [on shoulders]
 
-          - (she hasn't loaded so far, but Jacinda wealth and gloried)
+ \- (she hasn't loaded so far, but Jacinda wealth and gloried)
 
 Ragnorak - Obsidian Dragon Crest (+0.2 +str) [body clasp]
 
@@ -266,13 +266,13 @@ Sunderian Patrol Leader - crinkled parchment (forge note for scintillating scale
 
 <div class="post" data-post-id="19115" data-author="Sheng" data-date="2007-06-29T17:28:34+00:00" data-subject="What else is there? (Area Opener)">
 
-Adelina Rumar in Raven Glade forges a scintillating scale for 1 million coins.  If anyone successfully forges (cps unknown) please post stats and cps.
+Adelina Rumar in Raven Glade forges a scintillating scale for 1 million coins. If anyone successfully forges (cps unknown) please post stats and cps.
 
 Forge note reads as follows:
 
-Time is of the essence.  Zorinom has informed me of ancient metallurgy using a dragon scale alloy to craft exquisite pieces of armor.  I have implored him to continue his research after he found an archaic recipe for a magical pair of dragonscale boots.  I know of your expertise in such matters and need you to find a way to meld the scales from a great purple dragon, a red scale that has been petrified, a scale from an ancient shadow dragon, a radiant yellow scale, and an orange scale covered in spikes.  When combined, these specimens should form what is called a scintillating scale. 
+Time is of the essence. Zorinom has informed me of ancient metallurgy using a dragon scale alloy to craft exquisite pieces of armor. I have implored him to continue his research after he found an archaic recipe for a magical pair of dragonscale boots. I know of your expertise in such matters and need you to find a way to meld the scales from a great purple dragon, a red scale that has been petrified, a scale from an ancient shadow dragon, a radiant yellow scale, and an orange scale covered in spikes. When combined, these specimens should form what is called a scintillating scale. 
 
------------------------
+\-----------------------
 
 Apparently Zorinom is the forger for the dragonscale sabotons (-.6 AC Warrior prime 3x40)
 
@@ -288,13 +288,13 @@ Maybe the restricts were supposed to be OR, or something.
 
 If anything, I'd suggest the following guards:
 
--0.5 +20hp 20 any non-caster
+\-0.5 +20hp 20 any non-caster
 
--0.6 +dex -str 1x40 any non-caster
+\-0.6 +dex -str 1x40 any non-caster
 
--0.7 +str +2mv regen 2x40 any non-caster
+\-0.7 +str +2mv regen 2x40 any non-caster
 
--0.8 +10hp +2hp regen tri40 any non-caster 
+\-0.8 +10hp +2hp regen tri40 any non-caster 
 
 Cheers.
 
@@ -326,11 +326,11 @@ adelina forges ya new scale for 1mil coins.
 
 the scale is then one of the cps for the gleaming sabatons, in order to get the actual forge note you can poke around in raven glade or here it is:
 
-Kelmorar Du`Eldren tells you, `This is remarkable.  I am not sure I can make
+Kelmorar Du\`Eldren tells you, \`This is remarkable. I am not sure I can make
 
 Such an item, but I will do more research as you collect a few items Zorinom
 
-Found would be necessary to make this magical item.  Please find for me: 
+Found would be necessary to make this magical item. Please find for me: 
 
 A pair of charred and smoldering sandals, an ivory horn from a magical
 
@@ -352,15 +352,15 @@ AC-apply is -0.6
 
 Can affect you as:
 
-    Affects: MOVE by -10
+ Affects: MOVE by -10
 
-    Affects: REGEN_MANA by -1
+ Affects: REGEN\_MANA by -1
 
 Only those who are primary supreme warriors, and have attained supremacy in 
 
 at least three classes may use this item.
 
-<worn on feet>       gleaming dragonscale sabatons..It emits a faint humming sound!
+\<worn on feet\> gleaming dragonscale sabatons..It emits a faint humming sound!
 
 and there you have it, for 2mil coins and some cps you can have your very own pair. enjoy
 

@@ -14,15 +14,15 @@ post_count: 2
 
 The following features are in on crash/reboot ::
 
-Smokey Quartz Rune is now able to be forged without immortal help.  (NO CHANGE IN ITS STATS. YET. IF EVER)
+Smokey Quartz Rune is now able to be forged without immortal help. (NO CHANGE IN ITS STATS. YET. IF EVER)
 
 Code in place for Global Auctioneers (yay)
 
 Auctioneer messages tweaked a little bit
 
-*Slight* bug with auctioneer nobuyout fixed.
+<em>Slight</em> bug with auctioneer nobuyout fixed.
 
-Thanks ****Isabo**** for moving code over & compiling.
+Thanks <em><strong>\*Isabo\*</strong></em> for moving code over \& compiling.
 
 </div>
 
@@ -38,11 +38,11 @@ Settlestone -- The dwarvish Auctioneer
 
 Aisholm -- Allie Skartaris
 
-Valkyre  -- Tibar 
+Valkyre -- Tibar 
 
-Lyme  -- The provisioner
+Lyme -- The provisioner
 
-Island  -- the clerk 2 north of the banker in thal
+Island -- the clerk 2 north of the banker in thal
 
 You can also use the auction commands without the auction preword.
 

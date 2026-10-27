@@ -90,7 +90,7 @@ laugh.
 
 I had to lay down. I get so fatigued way to easily these days - and it's not just tired. It's
 
-like truly, exhausting, bone-tired.  I might have laid down for 3 or 4 hours, but I had
+like truly, exhausting, bone-tired. I might have laid down for 3 or 4 hours, but I had
 
 to get up when I started to feel like it was getting a little difficult to breath -
 
@@ -202,7 +202,7 @@ I am very sorry again.
 
 <div class="post" data-post-id="39549" data-author="Driven" data-date="2020-08-15T01:33:36+00:00" data-subject="Re: A Sudden Loss">
 
-Padme, I am sorry for you and your son's loss.  Roga was an important part of Sloth and he will be missed.  Last fall I took 4 months off to focus on my ministry, and when I came back in the new year, Roga was quick to welcome me back, telling me that he was glad I was back.  He was also tremendously encouraging to me in the work that I do  as an immortal, which mattered a lot to me.  When you said that his coworkers describe him as always friendly, looking to help, that matched exactly my impression of him on Sloth.  Roga will be missed greatly!
+Padme, I am sorry for you and your son's loss. Roga was an important part of Sloth and he will be missed. Last fall I took 4 months off to focus on my ministry, and when I came back in the new year, Roga was quick to welcome me back, telling me that he was glad I was back. He was also tremendously encouraging to me in the work that I do as an immortal, which mattered a lot to me. When you said that his coworkers describe him as always friendly, looking to help, that matched exactly my impression of him on Sloth. Roga will be missed greatly!
 
 </div>
 
@@ -422,7 +422,7 @@ and your family, My condolenses.
 
 Let my good shining thoughts be a light in your dark time.
 
---Belrath--
+\--Belrath--
 
 </div>
 
@@ -470,11 +470,11 @@ What slew the mighty warrior Roga: hypertension and atherosclerotic cardiovascul
 
 <div class="post" data-post-id="39577" data-author="*Idjit*" data-date="2020-09-19T02:52:25+00:00" data-subject="Re: A Sudden Loss">
 
-Padme and I have begun talking a little about a statue or memorial for Roga and that she was basically okay with the idea.  I am looking to gather text captures from groups he was in where he had his chop message scripts and some other things.  Some have heard of my idea that we would have something a little more interactive than a statue, a mob of him that is practicing chopping with a chop weapon.  One possible location is Lyme Volcano (perhaps fairly close to Tyroch).  Gorka do you have some logs of his custom chop messages?
+Padme and I have begun talking a little about a statue or memorial for Roga and that she was basically okay with the idea. I am looking to gather text captures from groups he was in where he had his chop message scripts and some other things. Some have heard of my idea that we would have something a little more interactive than a statue, a mob of him that is practicing chopping with a chop weapon. One possible location is Lyme Volcano (perhaps fairly close to Tyroch). Gorka do you have some logs of his custom chop messages?
 
-Anyway so the ball is finally rolling.  I just wanted to give people some time to reflect.
+Anyway so the ball is finally rolling. I just wanted to give people some time to reflect.
 
---Idj
+\--Idj
 
 </div>
 
@@ -500,6 +500,6 @@ I would like to see Roga roar out his warcry occasionally: KHAAAAAAAAAAAN!!!
 
 I miss that a lot. It was such a perfect warcry reference.
 
-- Battlemint
+\- Battlemint
 
 </div>

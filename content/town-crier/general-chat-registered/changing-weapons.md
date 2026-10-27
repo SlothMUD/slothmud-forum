@@ -16,11 +16,11 @@ There is a game issue I'd like to discuss surrounding switching weapons, because
 
 Generally weapon switching has three important events...
 
-1) Opening Weapon
+1\) Opening Weapon
 
-2) After Opening Weapon
+2\) After Opening Weapon
 
-3) Change of Weapon On Mob Death
+3\) Change of Weapon On Mob Death
 
 Eqmodes don't handle the issue correctly, (I think?) because depending on the mob I may stab, slash, grip, chop or strike the mob while not changing any worn eq, especially if I am tanking in AC.
 
@@ -36,7 +36,7 @@ But also if implementing this idea interfered with rebirth shop, whatever is hap
 
 <div class="post" data-post-id="39127" data-author="*teker*" data-date="2019-03-11T19:32:31+00:00" data-subject="Re: Changing Weapons">
 
-Rather than have the game do things automatically, I would prefer to create a new MSDP variable that would give you a list of mobs (and/or players) in the room with information currently available to you via a LOOK or other command.  So you could tell who is fighting whom, etc.  Then you can choose what to do about it on the client side.
+Rather than have the game do things automatically, I would prefer to create a new MSDP variable that would give you a list of mobs (and/or players) in the room with information currently available to you via a LOOK or other command. So you could tell who is fighting whom, etc. Then you can choose what to do about it on the client side.
 
 </div>
 
@@ -52,9 +52,9 @@ It's messy and I have to handle things in non centralised ways. Not sure how you
 
 <div class="post" data-post-id="39129" data-author="*teker*" data-date="2019-03-11T23:16:11+00:00" data-subject="Re: Changing Weapons">
 
-Modern game architecture runs on a slight delay so that the client and server are both running independent simulations of the same events.  You can script easier on that type of architecture because the client knows the future for a small period of time.
+Modern game architecture runs on a slight delay so that the client and server are both running independent simulations of the same events. You can script easier on that type of architecture because the client knows the future for a small period of time.
 
-If I were to build the list as you suggest, I could include a field to identify which opponent you are currently fighting.  At mob death, you could remove that element from the list (if it still exists due to msdp lag) and look at whether your list is empty.  Not perfect, but would get you closer.
+If I were to build the list as you suggest, I could include a field to identify which opponent you are currently fighting. At mob death, you could remove that element from the list (if it still exists due to msdp lag) and look at whether your list is empty. Not perfect, but would get you closer.
 
 </div>
 
@@ -68,42 +68,42 @@ In any case Teker, I still think even if it didn't solve the multi-fighting weap
 
 <div class="post" data-post-id="39142" data-author="Roga" data-date="2019-03-26T02:54:14+00:00" data-subject="Re: Changing Weapons">
 
-I mostly do this manually with an automated assist.  In Mudlet I use the following to capture my current wielded weapon in VAR.wielded (Item 16 appears to stay constant for me as wielded):
+I mostly do this manually with an automated assist. In Mudlet I use the following to capture my current wielded weapon in VAR.wielded (Item 16 appears to stay constant for me as wielded):
 
-Scripts -> Name ->  Char_Eq
+Scripts -\> Name -\> Char\_Eq
 
-Add user Event Handler -> msdp.CHARACTER_EQUIPMENT
+Add user Event Handler -\> msdp.CHARACTER\_EQUIPMENT
 
 ```
 function Char_Eq()
-  local eq16 = msdp.CHARACTER_EQUIPMENT['16']
-  if eq16['ITEM'] ~= nil then
-    VAR.wielded = eq16['ITEM']['KEYWORDS']
-  else
-    VAR.wielded = ''
-  end
+ local eq16 = msdp.CHARACTER_EQUIPMENT['16']
+ if eq16['ITEM'] ~= nil then
+ VAR.wielded = eq16['ITEM']['KEYWORDS']
+ else
+ VAR.wielded = ''
+ end
 end
 ```
 
 You can then make aliases like...
 
-Alias -> swap_weapon
+Alias -\> swap\_weapon
 
-Pattern -> ^swap$
+Pattern -\> ^swap$
 
 ```
 local prevwield = VAR.wielded
 send('rem ' .. prevwield)
 if string.match(prevwield, 'bolt') then
-  send('wield valor')
+ send('wield valor')
 else
-  send('wield bolt')
+ send('wield bolt')
 end
 ```
 
-Which will swap between valor and bolt.  Or any such combination.  Doesn't solve the 50 different combinations or address issue #3.
+Which will swap between valor and bolt. Or any such combination. Doesn't solve the 50 different combinations or address issue #3.
 
-The main reason I wanted to comment is that I very much like teker's idea about an msdp variable that would list mobs attacking players (available via LOOK) but for an entirely different reason.  This would have the potential to improve rescue scripts.  As some group member engagement events are not reported this might solve that.
+The main reason I wanted to comment is that I very much like teker's idea about an msdp variable that would list mobs attacking players (available via LOOK) but for an entirely different reason. This would have the potential to improve rescue scripts. As some group member engagement events are not reported this might solve that.
 
 Roga
 
@@ -117,15 +117,15 @@ I'd stop short of supporting an MSDP variable that has all the mobs in the room 
 
 Regarding rescue's there are ways to capture everything as far as I know... even silent disengages... that doesn't mean a player like Ezekiel in his best pjyamas won't go splat in a single round though... Good rescue scripts are really what separates the top tanks from each other at the highest level (where essentially we all have the same stats and eqsets, and we are much the same). The following script nearly captures everything that's not a proc special.
 
-(.*) massacres (.*) with  - (Mudlet regex)
+(.\*) massacres (.\*) with - (Mudlet regex)
 
 ```
 if tanking == 1 then
-   for key,value in pairs(msdp.GROUP) do
-      if msdp.GROUP[key]["NAME"] == matches[3] then
-         send("|;rescue "..matches[3]..";@@")
-      end
-   end
+ for key,value in pairs(msdp.GROUP) do
+ if msdp.GROUP[key]["NAME"] == matches[3] then
+ send("|;rescue "..matches[3]..";@@")
+ end
+ end
 end
 ```
 
@@ -133,7 +133,7 @@ end
 
 <div class="post" data-post-id="39144" data-author="Roga" data-date="2019-03-26T10:49:54+00:00" data-subject="Re: Changing Weapons">
 
-Thanks Gorka.  Sometimes I get too focused on a particular solution.  Adding your method should capture the majority of those situations that I was missing.
+Thanks Gorka. Sometimes I get too focused on a particular solution. Adding your method should capture the majority of those situations that I was missing.
 
 Roga
 

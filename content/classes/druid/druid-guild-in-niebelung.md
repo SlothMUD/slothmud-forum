@@ -18,7 +18,7 @@ Were is the guild from Settlestone? Thanks.
 
 <div class="post" data-post-id="6051" data-author="12345" data-date="2005-05-09T10:10:52+00:00" data-subject="">
 
-I don't recall the directions off hand, but they're easy to find.  The recall point for SS is the well.  From the well, go south, west and you'll be in the cartagrapher's shop.  Buy a map of Settlestone.  Go back to the west (east, north) and read the map.  Directions to the Druid guild should be on the bottom.  Follow the directions and it should take you straight there.
+I don't recall the directions off hand, but they're easy to find. The recall point for SS is the well. From the well, go south, west and you'll be in the cartagrapher's shop. Buy a map of Settlestone. Go back to the west (east, north) and read the map. Directions to the Druid guild should be on the bottom. Follow the directions and it should take you straight there.
 
 </div>
 

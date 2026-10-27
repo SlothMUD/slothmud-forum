@@ -16,7 +16,7 @@ Hello,
 
 Tora u won an Ob. Pearl and need to know your char name so we can meet.
 
-Caldrick, same thing as I won Wisp off u and we need to meet :)
+Caldrick, same thing as I won Wisp off u and we need to meet <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -30,11 +30,11 @@ help ship
 
 Help Ship...
 
-Only works when we know the "correct" char name.  If they have a higher
+Only works when we know the "correct" char name. If they have a higher
 
 char that needs the item or a lower char, shipping to them won't do any
 
-good.  Also shipping can only be held for 10 days before anyone can claim it.  So to be on the safer side, I would like to do a personal trade.
+good. Also shipping can only be held for 10 days before anyone can claim it. So to be on the safer side, I would like to do a personal trade.
 
 </div>
 
@@ -46,7 +46,7 @@ Tora's last logon was Thu Dec 22 11:25:10 2005
 
 [20t 20c 20o 20n] Tora WTB:obsidian pearl
 
-*shrugs*
+\*shrugs\*
 
 </div>
 

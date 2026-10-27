@@ -12,7 +12,7 @@ post_count: 2
 
 <div class="post" data-post-id="13901" data-author="Diazz_Dizazter" data-date="2006-09-04T18:17:50+00:00" data-subject="Seeking stuff...">
 
-Need some stuff, a little for trade, mostly offering cash.  
+Need some stuff, a little for trade, mostly offering cash. 
 
 1 Sphinx talisman
 
@@ -28,7 +28,7 @@ embers of the funereal pyre.
 
 thanks
 
-~Diazz
+\~Diazz
 
 </div>
 
@@ -48,7 +48,7 @@ shattered bone gauntlets
 
 pair of iron wings
 
-+1 wis on body chest
+\+1 wis on body chest
 
 3 metallic shards
 

@@ -14,7 +14,7 @@ post_count: 6
 
 Well back in school, my fat ass did pretty well:)
 
-[<LINK_TEXT text="http://readabout.me/achievements/Richar ... ce=emailcc">http://readabout.me/achievements/Richard--Robinson-of--Sidney-Named-To-Fall-2012-President-s-List-at-Hudson-Valley-Community-College/5229531?utm_campaign=cc_emails&utm_medium=email&utm_source=emailcc</LINK_TEXT>](http://readabout.me/achievements/Richard--Robinson-of--Sidney-Named-To-Fall-2012-President-s-List-at-Hudson-Valley-Community-College/5229531?utm_campaign=cc_emails&utm_medium=email&utm_source=emailcc)
+[http://readabout.me/achievements/Richard--Robinson-of--Sidney-Named-To-Fall-2012-President-s-List-at-Hudson-Valley-Community-College/5229531?utm_campaign=cc_emails&utm_medium=email&utm_source=emailcc](http://readabout.me/achievements/Richard--Robinson-of--Sidney-Named-To-Fall-2012-President-s-List-at-Hudson-Valley-Community-College/5229531?utm_campaign=cc_emails&utm_medium=email&utm_source=emailcc)
 
 </div>
 
@@ -26,7 +26,7 @@ Congratulations!
 
 <div class="post" data-post-id="34198" data-author="Ker" data-date="2013-03-28T05:51:30+00:00" data-subject="Re: booya">
 
-We must celebrate in drachma! :D
+We must celebrate in drachma! <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 Dr
 
@@ -40,7 +40,7 @@ Gratz!
 
 <div class="post" data-post-id="34202" data-author="Shyla" data-date="2013-03-30T08:39:03+00:00" data-subject="Re: booya">
 
-I am so proud of you gratz :)
+I am so proud of you gratz <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

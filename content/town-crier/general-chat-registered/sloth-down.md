@@ -14,7 +14,7 @@ post_count: 7
 
 Its down for me, and website and internet are up so...
 
-Also Dynamic World Map doesn't seem to be showing changes of movements so I'm guessing we have crashed... or at least we are plumetting to one  :shock:
+Also Dynamic World Map doesn't seem to be showing changes of movements so I'm guessing we have crashed... or at least we are plumetting to one <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -26,7 +26,7 @@ Down for me too for last 45 mins
 
 <div class="post" data-post-id="11196" data-author="jezer" data-date="2006-03-13T10:01:11+00:00" data-subject="">
 
-Bored... reading website....  :| 
+Bored... reading website.... <img src="/images/smilies/icon_neutral.svg" alt=":|" title=":|" width="15" height="15" class="smiley nozoom"> 
 
 With over 23,500 uniquely described rooms, 8,300 distinct creatures, 12,200 characters, and 7,100 pieces of equipment, charms, trinkets and other items, our world is absolutely enormous and ready to explore.
 
@@ -36,11 +36,12 @@ Question... How many of those 12,200 characters are not Brad's?
 
 <div class="post" data-post-id="11206" data-author="Autolycos" data-date="2006-03-13T13:39:25+00:00" data-subject="">
 
-Question... How many of those 12,200 characters are not Brad's?[/quote:5d0j5pir]
+> <strong>jezer wrote:</strong>
+> Question... How many of those 12,200 characters are not Brad's?
 
 LMFAO
 
-if i recall correctly,  10,000 of the chars can be broken down between Brad, Will, and Blastem  :twisted:
+if i recall correctly, 10,000 of the chars can be broken down between Brad, Will, and Blastem <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

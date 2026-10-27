@@ -16,109 +16,109 @@ post_count: 20
 
 Mud Name Connection Stats Votes Cast 
 
-1. BatMUD  view stats  2822  
+1\. BatMUD view stats 2822 
 
-2. MUME - Multi Users In Middle Earth  view stats  2750  
+2\. MUME - Multi Users In Middle Earth view stats 2750 
 
-3. Medievia  view stats  2367  
+3\. Medievia view stats 2367 
 
-4. ZombieMUD  view stats  2283  
+4\. ZombieMUD view stats 2283 
 
-5. SlothMUD III  view stats  2143 
+5\. SlothMUD III view stats 2143 
 
 25/05/06
 
-1. BatMUD  view stats  2883  
+1\. BatMUD view stats 2883 
 
-2. MUME - Multi Users In Middle Earth  view stats  2801  
+2\. MUME - Multi Users In Middle Earth view stats 2801 
 
-3. Medievia  view stats  2415  
+3\. Medievia view stats 2415 
 
-4. ZombieMUD  view stats  2322  
+4\. ZombieMUD view stats 2322 
 
-5. SlothMUD III  view stats  2215  
+5\. SlothMUD III view stats 2215 
 
 26/05/06
 
-1. BatMUD  view stats  2898  
+1\. BatMUD view stats 2898 
 
-2. MUME - Multi Users In Middle Earth  view stats  2825  
+2\. MUME - Multi Users In Middle Earth view stats 2825 
 
-3. Medievia  view stats  2445  
+3\. Medievia view stats 2445 
 
-4. ZombieMUD  view stats  2342  
+4\. ZombieMUD view stats 2342 
 
-5. SlothMUD III  view stats  2259  
+5\. SlothMUD III view stats 2259 
 
 30/05/06
 
-1. BatMUD  view stats  2953  
+1\. BatMUD view stats 2953 
 
-2. MUME - Multi Users In Middle Earth  view stats  2901  
+2\. MUME - Multi Users In Middle Earth view stats 2901 
 
-3. Medievia  view stats  2536  
+3\. Medievia view stats 2536 
 
-4. ZombieMUD  view stats  2405  
+4\. ZombieMUD view stats 2405 
 
-5. SlothMUD III  view stats  2390 
+5\. SlothMUD III view stats 2390 
 
 31/05/06
 
-1. BatMUD  view stats  2977  
+1\. BatMUD view stats 2977 
 
-2. MUME - Multi Users In Middle Earth  view stats  2925  
+2\. MUME - Multi Users In Middle Earth view stats 2925 
 
-3. Medievia  view stats  2561  
+3\. Medievia view stats 2561 
 
-4. SlothMUD III  view stats  2436  
+4\. SlothMUD III view stats 2436 
 
 05/06/06
 
-1. BatMUD  view stats  3074  
+1\. BatMUD view stats 3074 
 
-2. MUME - Multi Users In Middle Earth  view stats  3027  
+2\. MUME - Multi Users In Middle Earth view stats 3027 
 
-3. Medievia  view stats  2674  
+3\. Medievia view stats 2674 
 
-4. SlothMUD III  view stats  2615  
+4\. SlothMUD III view stats 2615 
 
-5. ZombieMUD  view stats  2505  
+5\. ZombieMUD view stats 2505 
 
 06/06/06
 
-1. BatMUD  view stats  3090  
+1\. BatMUD view stats 3090 
 
-2. MUME - Multi Users In Middle Earth  view stats  3032  
+2\. MUME - Multi Users In Middle Earth view stats 3032 
 
-3. Medievia  view stats  2700  
+3\. Medievia view stats 2700 
 
-4. SlothMUD III  view stats  2655  
+4\. SlothMUD III view stats 2655 
 
-5. ZombieMUD  view stats  2520  
+5\. ZombieMUD view stats 2520 
 
 08/06/06
 
-1. BatMUD  view stats  3151  
+1\. BatMUD view stats 3151 
 
-2. MUME - Multi Users In Middle Earth  view stats  3095  
+2\. MUME - Multi Users In Middle Earth view stats 3095 
 
-3. Medievia  view stats  2760  
+3\. Medievia view stats 2760 
 
-4. SlothMUD III  view stats  2740  
+4\. SlothMUD III view stats 2740 
 
-5. ZombieMUD  view stats  2562  
+5\. ZombieMUD view stats 2562 
 
 12/06/06
 
-1. BatMUD  view stats  3254  
+1\. BatMUD view stats 3254 
 
-2. MUME - Multi Users In Middle Earth  view stats  3202  
+2\. MUME - Multi Users In Middle Earth view stats 3202 
 
-3. SlothMUD III  view stats  2875  
+3\. SlothMUD III view stats 2875 
 
-4. Medievia  view stats  2851  
+4\. Medievia view stats 2851 
 
-5. ZombieMUD  view stats  2641 
+5\. ZombieMUD view stats 2641 
 
 over these 19 days:
 
@@ -146,13 +146,14 @@ Elsie
 
 why not just use the slothmud voting thread instead of starting a new one?
 
-[img:36b5x678]http://futurefeeder.com/wp-content/IImages/elephant.jpg[/img:36b5x678]
+![](http://futurefeeder.com/wp-content/IImages/elephant.jpg)
 
 </div>
 
 <div class="post" data-post-id="12979" data-author="Elsie" data-date="2006-06-12T13:13:41+00:00" data-subject="">
 
-why not just use the slothmud voting thread instead of starting a new one?[/quote:30s672q9]
+> <strong>13 wrote:</strong>
+> why not just use the slothmud voting thread instead of starting a new one?
 
 Thanks for your constructive response ... 
 
@@ -164,7 +165,7 @@ What are you my mother? of all the silly nitpicking comments you could have made
 
 While on the subject of voting...
 
-How can we be outvoting everyone on TMC, but can't even hold onto 18th place on TMS?  There's 2 links people, use them.
+How can we be outvoting everyone on TMC, but can't even hold onto 18th place on TMS? There's 2 links people, use them.
 
 </div>
 
@@ -174,39 +175,39 @@ persnickety
 
 One entry found for persnickety.
 
- 
-
 Main Entry: perÂ·snickÂ·eÂ·ty 
 
-Pronunciation: p&r-'sni-k&-tE
+Pronunciation: p\&r-'sni-k\&-tE
 
 Function: adjective
 
 Etymology: alteration of pernickety
 
-1 a : fussy about small details : FASTIDIOUS <a persnickety teacher> b : having the characteristics of a snob
+1 a : fussy about small details : FASTIDIOUS \<a persnickety teacher\> b : having the characteristics of a snob
 
-2 : requiring great precision <a persnickety job>
+2 : requiring great precision \<a persnickety job\>
 
-That's quite a reaction, Elsie.  Out of refills?
+That's quite a reaction, Elsie. Out of refills?
 
 </div>
 
 <div class="post" data-post-id="12984" data-author="Autolycos" data-date="2006-06-12T20:44:46+00:00" data-subject="">
 
-That's quite a reaction, Elsie.  Out of refills?[/quote:315t9v45]
+> <strong>brady wrote:</strong>
+> That's quite a reaction, Elsie. Out of refills?
 
-nice slap..   and for that... 
+nice slap.. and for that... 
 
-I give you, a standing ovation!  :twisted: 
+I give you, a standing ovation! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-[img:315t9v45]http://www.traditioninaction.org/RevolutionPhotos/Images/064_PVI_UN03.jpg[/img:315t9v45]
+![](http://www.traditioninaction.org/RevolutionPhotos/Images/064_PVI_UN03.jpg)
 
 </div>
 
 <div class="post" data-post-id="12989" data-author="Elsie" data-date="2006-06-14T11:01:42+00:00" data-subject="">
 
-[quote:2lcnma3u] Out of refills? [/quote:2lcnma3u]
+> <strong>Quote:</strong>
+> Out of refills?
 
 sorry I don't understand the reference?
 
@@ -220,13 +221,13 @@ btw nice call on the response Brady ... if I correct your erroneous definition I
 
 BTW the original word was pernickety and not persnickety. Pernickety goes back a few hundred years, persnickety is an early 20th century word.
 
-[i:2jx9h4x2]""Persnickety" was first documented in English in 1915 as an alteration of "pernickety," a word that has the same meaning. "Pernickety" goes back to the early 1800s, but from there, the word's "history" gets messy. Some say "pernickety" might be from a child's version of "particular"; others, that the "nick" part came from association with "knick-knack." But it's all pure conjecture, and no one knows for sure."[/i:2jx9h4x2]
+<em>""Persnickety" was first documented in English in 1915 as an alteration of "pernickety," a word that has the same meaning. "Pernickety" goes back to the early 1800s, but from there, the word's "history" gets messy. Some say "pernickety" might be from a child's version of "particular"; others, that the "nick" part came from association with "knick-knack." But it's all pure conjecture, and no one knows for sure."</em>
 
 </div>
 
 <div class="post" data-post-id="12991" data-author="Alberich" data-date="2006-06-14T13:59:26+00:00" data-subject="">
 
-[img:32sfy24c]http://www.picpop.com/gallery/albums/userpics/10722/parentslied.jpg[/img:32sfy24c]
+![](http://www.picpop.com/gallery/albums/userpics/10722/parentslied.jpg)
 
 </div>
 
@@ -236,7 +237,7 @@ wow I never knew pernickity was such an unusual word that it could cause more co
 
 There are a number of subtlely different definitions on the web, this seems to be the the most common, close to my OED and Chambers dictionaries and exactly the sense in which I used it:
 
-pernickety   
+pernickety 
 
 adjective (US USUALLY persnickety) DISAPPROVING
 
@@ -246,7 +247,7 @@ finical or finicky:
 
 As a writer, he is extremely pernickety about using words correctly.
 
-finicky   
+finicky 
 
 adjective
 
@@ -264,7 +265,7 @@ with this great wealth of knowledge, I have no doubt that you could better serve
 
 live your life to the fullest!
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -276,33 +277,33 @@ I voted
 
 <div class="post" data-post-id="12995" data-author="Avatar" data-date="2006-06-15T13:18:39+00:00" data-subject="voted">
 
-You rock Auto.  If you discount the meanness implied in that comment, the rest of it was quite funny.  :)
+You rock Auto. If you discount the meanness implied in that comment, the rest of it was quite funny. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="12996" data-author="Autolycos" data-date="2006-06-15T13:39:16+00:00" data-subject="">
 
-well charles,   i have to maintain a consistant level of sarcasm and evilness.   i would truly hate for people to get all soft and comfortable just because i am not around much anymore..
+well charles, i have to maintain a consistant level of sarcasm and evilness. i would truly hate for people to get all soft and comfortable just because i am not around much anymore..
 
-(c) Bringing you hate & loathing since 1973.  :twisted:
+(c) Bringing you hate \& loathing since 1973. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="13562" data-author="Falsra" data-date="2006-07-26T09:11:28+00:00" data-subject="">
 
-at last ... less than 200 votes till TMC 2nd place  :twisted:
+at last ... less than 200 votes till TMC 2nd place <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="13635" data-author="brady" data-date="2006-07-30T16:06:19+00:00" data-subject="">
 
-1. BatMUD  view stats  4236  
+1\. BatMUD view stats 4236 
 
-2. MUME - Multi Users In Middle Earth  view stats  4150  
+2\. MUME - Multi Users In Middle Earth view stats 4150 
 
-3. SlothMUD III  view stats  3988  
+3\. SlothMUD III view stats 3988 
 
-4. Medievia  view stats  3697  
+4\. Medievia view stats 3697 
 
 Please vote...
 
@@ -310,21 +311,21 @@ Please vote...
 
 <div class="post" data-post-id="13636" data-author="brady" data-date="2006-07-30T17:40:35+00:00" data-subject="">
 
-censored again!  And no mo Johnny Cochran to call  :x
+censored again! And no mo Johnny Cochran to call <img src="/images/smilies/icon_mad.svg" alt=":x" title=":x" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="14231" data-author="Weasel" data-date="2006-09-22T13:39:17+00:00" data-subject="">
 
-1. BatMUD 	 view stats 	6012
+1\. BatMUD view stats 6012
 
-2. MUME - Multi Users In Middle Earth 	view stats 	6001
+2\. MUME - Multi Users In Middle Earth view stats 6001
 
-3. SlothMUD III 	view stats 	5000
+3\. SlothMUD III view stats 5000
 
-4. Medievia 	view stats 	4435
+4\. Medievia view stats 4435
 
-also have dropped to page 2 on TopMudsites  :(
+also have dropped to page 2 on TopMudsites <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -332,7 +333,7 @@ also have dropped to page 2 on TopMudsites  :(
 
 MUME is on fire. They're definately going to take #1 spot this month.
 
-I try to vote every day for Sloth. Everyone should too! It only takes 5 seconds and you owe it to the game.  :)
+I try to vote every day for Sloth. Everyone should too! It only takes 5 seconds and you owe it to the game. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -342,14 +343,24 @@ He's implying that you are medicated for a mental disorder of some kind.
 
 No thanks necessary.
 
--Rub
+\-Rub
 
-[quote:w3twtk8c] Out of refills? [/quote:w3twtk8c]
-
-sorry I don't understand the reference?
-
-Elsie
-
-btw nice call on the response Brady ... if I correct your erroneous definition I too would be being pernickity ...[/quote:w3twtk8c]
+> <strong>Elsie wrote:</strong>
+> > <strong>Quote:</strong>
+> > Out of refills?
+> 
+> 
+> 
+> 
+> 
+> sorry I don't understand the reference?
+> 
+> 
+> 
+> Elsie
+> 
+> 
+> 
+> btw nice call on the response Brady ... if I correct your erroneous definition I too would be being pernickity ...
 
 </div>

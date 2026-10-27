@@ -20,145 +20,145 @@ skillstats
 
 Skill usage statistics:
 
-               sneak   succ:    4214   fail:     422
+ sneak succ: 4214 fail: 422
 
-                hide   succ:     731   fail:      54
+ hide succ: 731 fail: 54
 
-               steal   succ:      36   fail:      12
+ steal succ: 36 fail: 12
 
-            backstab   succ:    8904   fail:    1144
+ backstab succ: 8904 fail: 1144
 
-          pick locks   succ:     967   fail:     193
+ pick locks succ: 967 fail: 193
 
-                kick   succ:   20680   fail:   24148
+ kick succ: 20680 fail: 24148
 
-                bash   succ:   18245   fail:    9580
+ bash succ: 18245 fail: 9580
 
-              rescue   succ:    1492   fail:     461
+ rescue succ: 1492 fail: 461
 
-       double attack   succ:  187059   fail:   34778
+ double attack succ: 187059 fail: 34778
 
-       triple attack   succ:   51082   fail:    4353
+ triple attack succ: 51082 fail: 4353
 
-               climb   succ:     165   fail:       0
+ climb succ: 165 fail: 0
 
-               throw   succ:      20   fail:       0
+ throw succ: 20 fail: 0
 
-                tail   succ:       1   fail:       0
+ tail succ: 1 fail: 0
 
-              glance   succ:      43   fail:       5
+ glance succ: 43 fail: 5
 
-              squirm   succ:     174   fail:     301
+ squirm succ: 174 fail: 301
 
-       avatar attack   succ:      39   fail:       0
+ avatar attack succ: 39 fail: 0
 
-         double stab   succ:    5399   fail:    1169
+ double stab succ: 5399 fail: 1169
 
-          shadowwalk   succ:      29   fail:       2
+ shadowwalk succ: 29 fail: 2
 
-       concentration   succ:      43   fail:       0
+ concentration succ: 43 fail: 0
 
-          meditation   succ:      15   fail:       1
+ meditation succ: 15 fail: 1
 
-              ambush   succ:       5   fail:       0
+ ambush succ: 5 fail: 0
 
-           disengage   succ:      26   fail:       1
+ disengage succ: 26 fail: 1
 
-              circle   succ:   16142   fail:    2851
+ circle succ: 16142 fail: 2851
 
-               parry   succ:   12254   fail:    3567
+ parry succ: 12254 fail: 3567
 
-        apply poison   succ:    3533   fail:     416
+ apply poison succ: 3533 fail: 416
 
-               flail   succ:      53   fail:      22
+ flail succ: 53 fail: 22
 
-               track   succ:    1923   fail:     506
+ track succ: 1923 fail: 506
 
-          shapeshift   succ:    1170   fail:      64
+ shapeshift succ: 1170 fail: 64
 
-           waterwalk   succ:     160   fail:       4
+ waterwalk succ: 160 fail: 4
 
-       counterattack   succ:    5839   fail:    3595
+ counterattack succ: 5839 fail: 3595
 
-             windrun   succ:       7   fail:       0
+ windrun succ: 7 fail: 0
 
-               stalk   succ:     358   fail:     102
+ stalk succ: 358 fail: 102
 
-           deathgrip   succ:    1172   fail:      39
+ deathgrip succ: 1172 fail: 39
 
-            slowfall   succ:     130   fail:       6
+ slowfall succ: 130 fail: 6
 
-              flurry   succ:    1388   fail:     226
+ flurry succ: 1388 fail: 226
 
-                stun   succ:       0   fail:       2
+ stun succ: 0 fail: 2
 
-              strike   succ:   10078   fail:     518
+ strike succ: 10078 fail: 518
 
-          blindfight   succ:      31   fail:       1
+ blindfight succ: 31 fail: 1
 
-               dodge   succ:    2058   fail:     217
+ dodge succ: 2058 fail: 217
 
-               focus   succ:    1725   fail:     352
+ focus succ: 1725 fail: 352
 
-             presage   succ:      38   fail:       5
+ presage succ: 38 fail: 5
 
-     improved attack   succ:   41393   fail:       0
+ improved attack succ: 41393 fail: 0
 
-             kenning   succ:      12   fail:       0
+ kenning succ: 12 fail: 0
 
-             retreat   succ:       0   fail:       2
+ retreat succ: 0 fail: 2
 
-                 spy   succ:     214   fail:      74
+ spy succ: 214 fail: 74
 
-          spellcraft   succ:   22467   fail: 5249343
+ spellcraft succ: 22467 fail: 5249343
 
-              kensai   succ:    1929   fail:     144
+ kensai succ: 1929 fail: 144
 
-        battle shift   succ:      31   fail:      10
+ battle shift succ: 31 fail: 10
 
-         rapid shift   succ:     197   fail:     133
+ rapid shift succ: 197 fail: 133
 
-*** Press return ***
+\*\*\* Press return \*\*\*
 
-     sleight of hand   succ:       1   fail:       0
+ sleight of hand succ: 1 fail: 0
 
-              frenzy   succ:    5587   fail:    1080
+ frenzy succ: 5587 fail: 1080
 
-        critical hit   succ:   12910   fail:       0
+ critical hit succ: 12910 fail: 0
 
-massive critical hit   succ:      16   fail:       0
+massive critical hit succ: 16 fail: 0
 
-            entrench   succ:      80   fail:      15
+ entrench succ: 80 fail: 15
 
-           deathblow   succ:     855   fail:    1235
+ deathblow succ: 855 fail: 1235
 
-              charge   succ:       5   fail:       4
+ charge succ: 5 fail: 4
 
-                toss   succ:      69   fail:      30
+ toss succ: 69 fail: 30
 
-                palm   succ:    4238   fail:     925
+ palm succ: 4238 fail: 925
 
-    crippling strike   succ:    3590   fail:       0
+ crippling strike succ: 3590 fail: 0
 
-       urban stealth   succ:       7   fail:       1
+ urban stealth succ: 7 fail: 1
 
-              warcry   succ:    2160   fail:     178
+ warcry succ: 2160 fail: 178
 
-           broadside   succ:    1294   fail:     453
+ broadside succ: 1294 fail: 453
 
-           astrology   succ:     225   fail:      12
+ astrology succ: 225 fail: 12
 
-     oath of victory   succ:       1   fail:       0
+ oath of victory succ: 1 fail: 0
 
-         endure pain   succ:      43   fail:       0
+ endure pain succ: 43 fail: 0
 
-               stomp   succ:     956   fail:     507
+ stomp succ: 956 fail: 507
 
-         sixth sense   succ:      26   fail:      19
+ sixth sense succ: 26 fail: 19
 
-   excruciating blow   succ:     240   fail:    2437
+ excruciating blow succ: 240 fail: 2437
 
-    tumbling defense   succ:     129   fail:      10
+ tumbling defense succ: 129 fail: 10
 
 Enjoy,
 
@@ -198,9 +198,9 @@ Rick
 
 Some of these stats just can't be right. Mainly those ones with 0 fails. Kick fail seems to high, strike fail seems to low, and who has avatar attack and why is it working 100% of the time? Rapid shift and Battle Shift aren't as bad generally as these stats make out either.
 
-*confused* I know these are guides, but I think a lot of them are not working right, or taking +hit into account.
+\*confused\* I know these are guides, but I think a lot of them are not working right, or taking +hit into account.
 
-I'd also like to know, who the heck is using dodge?  :shock:
+I'd also like to know, who the heck is using dodge? <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

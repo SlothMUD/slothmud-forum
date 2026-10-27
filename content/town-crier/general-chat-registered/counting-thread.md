@@ -18,15 +18,15 @@ post_count: 196
 
 <div class="post" data-post-id="25615" data-author="Weasel" data-date="2008-08-05T23:52:56+00:00" data-subject="">
 
-[b:2q69vtfs] 0 [/b:2q69vtfs]   
+<strong>0</strong> 
 
-    ..now what?
+ ..now what?
 
 </div>
 
 <div class="post" data-post-id="25616" data-author="jezer" data-date="2008-08-05T23:54:13+00:00" data-subject="">
 
-[img:sgf2mpim]http://www.scalzi.com/whatever/futility0519a.jpg[/img:sgf2mpim]
+![](http://www.scalzi.com/whatever/futility0519a.jpg)
 
 </div>
 
@@ -44,7 +44,8 @@ post_count: 196
 
 <div class="post" data-post-id="25621" data-author="reboog" data-date="2008-08-06T02:06:13+00:00" data-subject="">
 
-2[/quote:usnol4vp]
+> <strong>Poggle wrote:</strong>
+> 2
 
 3
 
@@ -52,9 +53,15 @@ post_count: 196
 
 <div class="post" data-post-id="25623" data-author="Poggle" data-date="2008-08-06T02:17:37+00:00" data-subject="">
 
-2[/quote:8nrxuds2]
-
-3[/quote:8nrxuds2]
+> <strong>reboog wrote:</strong>
+> > <strong>Poggle wrote:</strong>
+> > 2
+> 
+> 
+> 
+> 
+> 
+> 3
 
 4
 
@@ -68,7 +75,8 @@ post_count: 196
 
 <div class="post" data-post-id="25625" data-author="reboog" data-date="2008-08-06T02:19:22+00:00" data-subject="">
 
-4[/quote:2v7scoqr]
+> <strong>Poggle wrote:</strong>
+> 4
 
 5
 
@@ -82,7 +90,7 @@ post_count: 196
 
 <div class="post" data-post-id="25627" data-author="Weasel" data-date="2008-08-06T03:02:38+00:00" data-subject="">
 
--1
+\-1
 
 </div>
 
@@ -112,7 +120,8 @@ V
 
 <div class="post" data-post-id="25634" data-author="reboog" data-date="2008-08-06T04:33:55+00:00" data-subject="">
 
-6[/quote:2k06eopb]
+> <strong>Poggle wrote:</strong>
+> 6
 
 7
 
@@ -120,13 +129,13 @@ V
 
 <div class="post" data-post-id="25635" data-author="Weasel" data-date="2008-08-06T05:14:10+00:00" data-subject="">
 
-[img:2s1dpwg9]http://shogun.shafted.com.au/temp/llama.jpg[/img:2s1dpwg9]
+![](http://shogun.shafted.com.au/temp/llama.jpg)
 
 </div>
 
 <div class="post" data-post-id="25636" data-author="jezer" data-date="2008-08-06T05:30:26+00:00" data-subject="">
 
-[img:1n6w715u]http://loscuatroojos.com/wp-content/uploads/2008/04/bluescreen-bluescreen.jpg[/img:1n6w715u]
+![](http://loscuatroojos.com/wp-content/uploads/2008/04/bluescreen-bluescreen.jpg)
 
 </div>
 
@@ -138,7 +147,7 @@ V
 
 <div class="post" data-post-id="25647" data-author="Weasel" data-date="2008-08-06T15:25:18+00:00" data-subject="">
 
-[img:n13t7d8u]http://www.glenr.com/pic/badger.gif[/img:n13t7d8u]
+![](http://www.glenr.com/pic/badger.gif)
 
 </div>
 
@@ -156,7 +165,7 @@ V
 
 <div class="post" data-post-id="25654" data-author="Yasik2" data-date="2008-08-06T20:14:10+00:00" data-subject="">
 
-[u:2q9t2rjr]1[/u:2q9t2rjr]
+1
 
 0
 
@@ -166,7 +175,7 @@ Eat this!
 
 <div class="post" data-post-id="25656" data-author="reboog" data-date="2008-08-06T20:18:38+00:00" data-subject="">
 
-11[/size:1sv1vg0u]
+11
 
 </div>
 
@@ -178,7 +187,7 @@ Eat this!
 
 <div class="post" data-post-id="25662" data-author="Yasik2" data-date="2008-08-06T23:52:23+00:00" data-subject="">
 
-[img:28eek3uy]http://yasik.kiev.ua/sqrt(-1).jpg[/img:28eek3uy]
+![](http://yasik.kiev.ua/sqrt%28-1%29.jpg)
 
 </div>
 
@@ -210,7 +219,7 @@ Eat this!
 
 70
 
-Its a weird number.  You can google it if you don't believe it.
+Its a weird number. You can google it if you don't believe it.
 
 </div>
 
@@ -270,11 +279,16 @@ Also, 20
 
 <div class="post" data-post-id="25702" data-author="Yasik2" data-date="2008-08-09T23:15:48+00:00" data-subject="">
 
-That's pretty funny coming from someone that's already posted in this thread several times.
-
-If you want to be told what you can and can't say, perhaps you should look for an enforced rp mud.
-
-Also, 20[/quote:uq5mnk1g]
+> <strong>Rynquald wrote:</strong>
+> That's pretty funny coming from someone that's already posted in this thread several times.
+> 
+> 
+> 
+> If you want to be told what you can and can't say, perhaps you should look for an enforced rp mud.
+> 
+> 
+> 
+> Also, 20
 
 My posts in this thread must been logically end it.
 
@@ -304,7 +318,7 @@ Idiots always talk the loudest.
 
 <div class="post" data-post-id="25707" data-author="Weasel" data-date="2008-08-10T18:17:06+00:00" data-subject="">
 
-[img:2huphi3w]http://brightcove.vo.llnwd.net/d3/unsecured/media/1077948594/1077948594_1076715263_4ff18c266cafdd1222c56e2b5234984fe4ea913b.jpg[/img:2huphi3w]
+![](http://brightcove.vo.llnwd.net/d3/unsecured/media/1077948594/1077948594_1076715263_4ff18c266cafdd1222c56e2b5234984fe4ea913b.jpg)
 
 </div>
 
@@ -340,13 +354,13 @@ What is your IQ?
 
 <div class="post" data-post-id="25719" data-author="alias" data-date="2008-08-11T22:46:59+00:00" data-subject="">
 
-slightly higher than        29
+slightly higher than 29
 
 </div>
 
 <div class="post" data-post-id="25720" data-author="jezer" data-date="2008-08-11T23:25:26+00:00" data-subject="">
 
-29 will work... for a tank  :twisted:
+29 will work... for a tank <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -376,7 +390,7 @@ sqrt(1024)
 
 <div class="post" data-post-id="25754" data-author="Tap" data-date="2008-08-16T12:43:30+00:00" data-subject="">
 
-[img:5vomlruc]http://files.funnypictures.tv/lpictures/69gtghh7yhrgthherty778ygg23.jpg[/img:5vomlruc]
+![](http://files.funnypictures.tv/lpictures/69gtghh7yhrgthherty778ygg23.jpg)
 
 69
 
@@ -450,7 +464,7 @@ number 9
 
 <div class="post" data-post-id="25833" data-author="Weasel" data-date="2008-08-19T23:37:45+00:00" data-subject="">
 
-40[/color:1hu6pegj]
+40
 
 </div>
 
@@ -484,7 +498,7 @@ XLII as the romans would say.
 
 <div class="post" data-post-id="25843" data-author="Weasel" data-date="2008-08-20T12:13:52+00:00" data-subject="">
 
-the answer to life, the universe and everything.  42.
+the answer to life, the universe and everything. 42.
 
 </div>
 
@@ -496,13 +510,13 @@ the answer to life, the universe and everything.  42.
 
 <div class="post" data-post-id="25850" data-author="Tap" data-date="2008-08-21T04:57:15+00:00" data-subject="">
 
-[img:1qyoqmph]http://farm4.static.flickr.com/3282/2455248596_c63438cacd.jpg[/img:1qyoqmph]
+![](http://farm4.static.flickr.com/3282/2455248596_c63438cacd.jpg)
 
 </div>
 
 <div class="post" data-post-id="25851" data-author="Jag" data-date="2008-08-21T12:46:37+00:00" data-subject="">
 
-[img:10romyw0]http://i214.photobucket.com/albums/cc229/jagsloth/colt45.jpg[/img:10romyw0]
+![](http://i214.photobucket.com/albums/cc229/jagsloth/colt45.jpg)
 
 Colt 45
 
@@ -516,7 +530,7 @@ Colt 45
 
 <div class="post" data-post-id="25869" data-author="Yasik2" data-date="2008-08-22T20:40:05+00:00" data-subject="">
 
-[img:2h52xdxm]http://yasik.kiev.ua/47_Beavers.jpg[/img:2h52xdxm]
+![](http://yasik.kiev.ua/47_Beavers.jpg)
 
 </div>
 
@@ -528,7 +542,7 @@ Colt 45
 
 <div class="post" data-post-id="25894" data-author="alias" data-date="2008-08-23T16:54:59+00:00" data-subject="">
 
-* During the Manhattan Project, plutonium was also often referred, simply, to as "49". Number 4 was for the last digit in 94 (atomic number of plutonium) and 9 for the last digit in Pu-239, the weapon-grade fissile isotope used in nuclear bombs.
+\* During the Manhattan Project, plutonium was also often referred, simply, to as "49". Number 4 was for the last digit in 94 (atomic number of plutonium) and 9 for the last digit in Pu-239, the weapon-grade fissile isotope used in nuclear bombs.
 
 Courtesy of Wiki
 
@@ -536,25 +550,25 @@ Courtesy of Wiki
 
 <div class="post" data-post-id="25895" data-author="Tap" data-date="2008-08-23T18:45:40+00:00" data-subject="">
 
-[img:2lbs0qj8]http://farm3.static.flickr.com/2295/2234634813_886a90e4d7.jpg[/img:2lbs0qj8]
+![](http://farm3.static.flickr.com/2295/2234634813_886a90e4d7.jpg)
 
 </div>
 
 <div class="post" data-post-id="25896" data-author="Yasik2" data-date="2008-08-23T21:11:09+00:00" data-subject="">
 
-Area 51[/size:2droi9le][/color:2droi9le] is a remote tract of land in the southwestern portion of southern Nevada in the western United States. Situated at its center, on the southern shore of Groom Lake, a dry lakebed (salt lake), is a large military airfield, one of the most secretive places in the world. The base's primary purpose is to support development and testing of experimental aircraft and weapons systems.
+Area 51 is a remote tract of land in the southwestern portion of southern Nevada in the western United States. Situated at its center, on the southern shore of Groom Lake, a dry lakebed (salt lake), is a large military airfield, one of the most secretive places in the world. The base's primary purpose is to support development and testing of experimental aircraft and weapons systems.
 
 </div>
 
 <div class="post" data-post-id="25897" data-author="Yasik2" data-date="2008-08-23T21:17:23+00:00" data-subject="">
 
-[img:21t63x9o]http://yasik.kiev.ua/B52.jpg[/img:21t63x9o]
+![](http://yasik.kiev.ua/B52.jpg)
 
 </div>
 
 <div class="post" data-post-id="25898" data-author="Tap" data-date="2008-08-24T00:15:10+00:00" data-subject="">
 
-[img:16zkxzpd]http://farm1.static.flickr.com/91/237413562_53e93e79da.jpg[/img:16zkxzpd]
+![](http://farm1.static.flickr.com/91/237413562_53e93e79da.jpg)
 
 </div>
 
@@ -566,13 +580,13 @@ Area 51[/size:2droi9le][/color:2droi9le] is a remote tract of land in the southw
 
 <div class="post" data-post-id="25909" data-author="jezer" data-date="2008-08-25T01:10:32+00:00" data-subject="">
 
-[img:3usoyist]http://www.thesunblog.com/sports/archives/seau55.jpg[/img:3usoyist]
+![](http://www.thesunblog.com/sports/archives/seau55.jpg)
 
 </div>
 
 <div class="post" data-post-id="25912" data-author="Tap" data-date="2008-08-25T13:44:22+00:00" data-subject="">
 
-[img:1q5ged9i]http://farm1.static.flickr.com/11/17152632_96e14c1aff.jpg[/img:1q5ged9i]
+![](http://farm1.static.flickr.com/11/17152632_96e14c1aff.jpg)
 
 </div>
 
@@ -584,19 +598,19 @@ Area 51[/size:2droi9le][/color:2droi9le] is a remote tract of land in the southw
 
 <div class="post" data-post-id="25936" data-author="Tap" data-date="2008-08-28T01:34:50+00:00" data-subject="">
 
-[img:hes9h6zv]http://farm3.static.flickr.com/2234/2470629731_d093970e7d.jpg[/img:hes9h6zv]
+![](http://farm3.static.flickr.com/2234/2470629731_d093970e7d.jpg)
 
 </div>
 
 <div class="post" data-post-id="25937" data-author="Alberich" data-date="2008-08-28T02:05:51+00:00" data-subject="">
 
-[img:vpyugvp6]http://www.coinfacts.com/small_cents/lincoln_cents/wheat_ear_cents/1959d_one_cent_wheat_ears_obv.jpg[/img:vpyugvp6]
+![](http://www.coinfacts.com/small_cents/lincoln_cents/wheat_ear_cents/1959d_one_cent_wheat_ears_obv.jpg)
 
 </div>
 
 <div class="post" data-post-id="25939" data-author="Yasik2" data-date="2008-08-28T05:22:20+00:00" data-subject="">
 
-[img:p3230azz]http://yasik.kiev.ua/Psychedelic60's.jpg[/img:p3230azz]
+![](http://yasik.kiev.ua/Psychedelic60's.jpg)
 
 </div>
 
@@ -604,29 +618,29 @@ Area 51[/size:2droi9le][/color:2droi9le] is a remote tract of land in the southw
 
 Yasik's link seems to be broken, so...
 
-[img:2vp227p2]http://upload.wikimedia.org/wikipedia/commons/thumb/1/13/MA_Route_60.svg/600px-MA_Route_60.svg.png[/img:2vp227p2]
+![](http://upload.wikimedia.org/wikipedia/commons/thumb/1/13/MA_Route_60.svg/600px-MA_Route_60.svg.png)
 
 </div>
 
 <div class="post" data-post-id="25942" data-author="Yinao" data-date="2008-08-28T18:34:15+00:00" data-subject="">
 
-[img:3nhwiiqz]http://images.contentreserve.com/ImageType-200/0111-1/%7BAEF0F408-347A-4F41-8CFE-29ED5B64E977%7DImg200.jpg[/img:3nhwiiqz]
+![](http://images.contentreserve.com/ImageType-200/0111-1/%7BAEF0F408-347A-4F41-8CFE-29ED5B64E977%7DImg200.jpg)
 
 </div>
 
 <div class="post" data-post-id="25943" data-author="Tap" data-date="2008-08-28T19:10:50+00:00" data-subject="">
 
-[img:17m8fcac]http://www.olavsplates.com/foto/nl_wt-62-78.jpg[/img:17m8fcac]
+![](http://www.olavsplates.com/foto/nl_wt-62-78.jpg)
 
 Feel free to skip to #79
 
- 8)
+ <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="25944" data-author="Alberich" data-date="2008-08-28T19:17:36+00:00" data-subject="">
 
-[img:1ki7fqxq]http://navysite.de/cvn/patches/cv63patch_2003-1.jpg[/img:1ki7fqxq]
+![](http://navysite.de/cvn/patches/cv63patch_2003-1.jpg)
 
 </div>
 
@@ -634,13 +648,13 @@ Feel free to skip to #79
 
 can't wait to see what kind of pic will come up for 69... 
 
-[img:3txggmn0]http://www.almax.olsztyn.pl/obrazy/P64.jpg[/img:3txggmn0]
+![](http://www.almax.olsztyn.pl/obrazy/P64.jpg)
 
 </div>
 
 <div class="post" data-post-id="25949" data-author="Alberich" data-date="2008-08-28T21:39:38+00:00" data-subject="">
 
-[img:1l4kwxxg]http://img.thesun.co.uk/multimedia/archive/00539/SNF2628FX1-380_539418a.jpg[/img:1l4kwxxg]
+![](http://img.thesun.co.uk/multimedia/archive/00539/SNF2628FX1-380_539418a.jpg)
 
 </div>
 
@@ -650,29 +664,29 @@ get your kicks
 
 on..
 
-[img:xx34cb67]http://www.playinghookyon66.com/images/Sign%20-%20Route%2066.jpg[/img:xx34cb67]
+![](http://www.playinghookyon66.com/images/Sign%20-%20Route%2066.jpg)
 
 </div>
 
 <div class="post" data-post-id="25952" data-author="Alberich" data-date="2008-08-28T21:50:03+00:00" data-subject="">
 
-[img:2xm6a1pm]http://www.sportingcollectibles.com/wPhotos/win26960bro1534model67.jpg[/img:2xm6a1pm]
+![](http://www.sportingcollectibles.com/wPhotos/win26960bro1534model67.jpg)
 
 </div>
 
 <div class="post" data-post-id="25956" data-author="brady" data-date="2008-08-28T23:30:31+00:00" data-subject="">
 
-[img:1wx5gagn]http://z.about.com/d/crime/1/0/a/d/gotti_68.jpg[/img:1wx5gagn]
+![](http://z.about.com/d/crime/1/0/a/d/gotti_68.jpg)
 
 </div>
 
 <div class="post" data-post-id="25958" data-author="jezer" data-date="2008-08-28T23:32:40+00:00" data-subject="">
 
-69! Muhahaha, you missed it Yasik!  :twisted:
+69! Muhahaha, you missed it Yasik! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 I can just see him... sleep deprived for the last 36hrs trying to keep eyes open... must post 69 picture... must post 69 picture...
 
-FAIL!  :twisted:
+FAIL! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -682,23 +696,23 @@ leave it to some noob to spoil the fun
 
 oh well, here we go anyways
 
-[img:3gtos8pn]http://www.popartuk.com/g/l/lgpp30917+sixty-nine-tanya-chalkin-poster.jpg[/img:3gtos8pn]
+![](http://www.popartuk.com/g/l/lgpp30917+sixty-nine-tanya-chalkin-poster.jpg)
 
 </div>
 
 <div class="post" data-post-id="25965" data-author="jezer" data-date="2008-08-29T00:32:08+00:00" data-subject="">
 
-[img:2r3q0hlu]http://fukung.net/images/2118/noob.jpg[/img:2r3q0hlu]
+![](http://fukung.net/images/2118/noob.jpg)
 
-So you were actually the sleep deprived one!  :twisted:
+So you were actually the sleep deprived one! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
-Don't point, it's rude!  :shock:
+Don't point, it's rude! <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="25969" data-author="*juggleblood*" data-date="2008-08-29T01:58:52+00:00" data-subject="">
 
-[img:2gb3djgy]http://www.kungfucultarchive.com/PostersQ/SixtyNinePoster.jpg[/img:2gb3djgy]
+![](http://www.kungfucultarchive.com/PostersQ/SixtyNinePoster.jpg)
 
 68=?
 
@@ -706,7 +720,7 @@ Don't point, it's rude!  :shock:
 
 <div class="post" data-post-id="25970" data-author="jezer" data-date="2008-08-29T02:04:43+00:00" data-subject="">
 
-[img:ybm5eg4y]http://www.watchthat70sshow.com/That_%2770s_Show_logo.png[/img:ybm5eg4y]
+![](http://www.watchthat70sshow.com/That_%2770s_Show_logo.png)
 
 Regarding 68, check out the bottom right digits on the mug shot.
 
@@ -718,15 +732,15 @@ Stfu! You think if 69 is already posted it will stop ME from posting too?
 
 Too bad there's no unnude pics on the Internetz...
 
-Here, have queers instead!  :twisted:  :D 
+Here, have queers instead! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> 
 
-[img:2h9llyic]http://yasik.kiev.ua/Pose_69.jpg[/img:2h9llyic]
+![](http://yasik.kiev.ua/Pose_69.jpg)
 
 </div>
 
 <div class="post" data-post-id="25995" data-author="Tap" data-date="2008-08-29T22:02:46+00:00" data-subject="">
 
-[img:1kpibyv6]http://farm2.static.flickr.com/1120/534475493_b595a55ea0.jpg[/img:1kpibyv6]
+![](http://farm2.static.flickr.com/1120/534475493_b595a55ea0.jpg)
 
 </div>
 
@@ -746,19 +760,19 @@ Here, have queers instead!  :twisted:  :D
 
 1973 Oil Crisis
 
-[img:1v8zeq1j]http://z.about.com/f/wiki/e/en/thumb/c/cc/Energy_crisis_-_oild_sold_out.jpg/350px-Energy_crisis_-_oild_sold_out.jpg[/img:1v8zeq1j]
+![](http://z.about.com/f/wiki/e/en/thumb/c/cc/Energy_crisis_-_oild_sold_out.jpg/350px-Energy_crisis_-_oild_sold_out.jpg)
 
-[img:1v8zeq1j]http://barnhartblog.typepad.com/photos/uncategorized/2008/06/01/gas_shortage_1973.jpg[/img:1v8zeq1j]
+![](http://barnhartblog.typepad.com/photos/uncategorized/2008/06/01/gas_shortage_1973.jpg)
 
-[img:1v8zeq1j]http://upload.wikimedia.org/wikipedia/commons/2/26/Gascoupon.png[/img:1v8zeq1j]
+![](http://upload.wikimedia.org/wikipedia/commons/2/26/Gascoupon.png)
 
-[img:1v8zeq1j]http://www.eoearth.org/media/approved/6/65/Abdel_aziz_al_saud.jpg[/img:1v8zeq1j]
+![](http://www.eoearth.org/media/approved/6/65/Abdel_aziz_al_saud.jpg)
 
 </div>
 
 <div class="post" data-post-id="26071" data-author="Tap" data-date="2008-09-02T03:20:50+00:00" data-subject="">
 
-[img:2dtbs1i1]http://farm3.static.flickr.com/2083/2381156014_ae7fb0dc07.jpg[/img:2dtbs1i1]
+![](http://farm3.static.flickr.com/2083/2381156014_ae7fb0dc07.jpg)
 
 </div>
 
@@ -770,37 +784,37 @@ Here, have queers instead!  :twisted:  :D
 
 <div class="post" data-post-id="26095" data-author="Weasel" data-date="2008-09-02T17:49:59+00:00" data-subject="">
 
-[img:2zs13s6s]http://latimesblogs.latimes.com/thedailymirror/images/2007/07/19/union76_ball.jpg[/img:2zs13s6s]
+![](http://latimesblogs.latimes.com/thedailymirror/images/2007/07/19/union76_ball.jpg)
 
 </div>
 
 <div class="post" data-post-id="26108" data-author="*juggleblood*" data-date="2008-09-02T23:32:58+00:00" data-subject="">
 
-[img:200ycs3g]http://www.gasolinealleyantiques.com/kits/images/Miscellaneous/johnson77a.JPG[/img:200ycs3g]
+![](http://www.gasolinealleyantiques.com/kits/images/Miscellaneous/johnson77a.JPG)
 
 </div>
 
 <div class="post" data-post-id="26112" data-author="Tap" data-date="2008-09-03T01:08:58+00:00" data-subject="">
 
-[img:27n0jhme]http://farm1.static.flickr.com/189/490854627_4d3352f971.jpg[/img:27n0jhme]
+![](http://farm1.static.flickr.com/189/490854627_4d3352f971.jpg)
 
 </div>
 
 <div class="post" data-post-id="26113" data-author="jezer" data-date="2008-09-03T01:34:23+00:00" data-subject="">
 
-[img:7ubyzl4y]http://bp3.blogger.com/_KuaAihD4oVk/R6Pa5JL2wJI/AAAAAAAABaI/C7pRunH3WQw/s400/79+go+cart.jpg[/img:7ubyzl4y]
+![](http://bp3.blogger.com/_KuaAihD4oVk/R6Pa5JL2wJI/AAAAAAAABaI/C7pRunH3WQw/s400/79+go+cart.jpg)
 
 </div>
 
 <div class="post" data-post-id="26114" data-author="Weasel" data-date="2008-09-03T02:23:06+00:00" data-subject="">
 
-[img:1vu01i9j]http://www.britischebotschaft.de/Images/banner_queen_birthday80.jpg[/img:1vu01i9j]
+![](http://www.britischebotschaft.de/Images/banner_queen_birthday80.jpg)
 
 </div>
 
 <div class="post" data-post-id="26115" data-author="jezer" data-date="2008-09-03T02:33:54+00:00" data-subject="">
 
-[img:33gp1hxg]http://thelibrary.springfield.missouri.org/toys/photos/81.jpg[/img:33gp1hxg]
+![](http://thelibrary.springfield.missouri.org/toys/photos/81.jpg)
 
 Can we hurry this along, I have a picture ready for 86.
 
@@ -816,15 +830,15 @@ Can we hurry this along, I have a picture ready for 86.
 
 85
 
-[img:2hbn31ms]http://lh4.ggpht.com/_K-LSP4KeKwU/RWKeOw6SABI/AAAAAAAABpo/NQ-6CBc9JRc/20051614220.jpg[/img:2hbn31ms]
+![](http://lh4.ggpht.com/_K-LSP4KeKwU/RWKeOw6SABI/AAAAAAAABpo/NQ-6CBc9JRc/20051614220.jpg)
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="26135" data-author="*juggleblood*" data-date="2008-09-04T04:52:39+00:00" data-subject="">
 
-[img:3n5yzzom]http://cellar.org/2004/seniorpole.jpg[/img:3n5yzzom]
+![](http://cellar.org/2004/seniorpole.jpg)
 
 82 year old pole vaulter William Bell
 
@@ -832,7 +846,7 @@ Can we hurry this along, I have a picture ready for 86.
 
 <div class="post" data-post-id="26136" data-author="*juggleblood*" data-date="2008-09-04T04:57:44+00:00" data-subject="">
 
-[img:22awos4h]http://afewgoodwords.files.wordpress.com/2007/03/bill-gates-1983.jpg[/img:22awos4h]
+![](http://afewgoodwords.files.wordpress.com/2007/03/bill-gates-1983.jpg)
 
 Bill Gates in 1983
 
@@ -840,13 +854,13 @@ Bill Gates in 1983
 
 <div class="post" data-post-id="26137" data-author="*juggleblood*" data-date="2008-09-04T05:15:17+00:00" data-subject="">
 
-[img:2mstbj51]http://bigrosebang.com/bigbrother1984-2004.jpg[/img:2mstbj51]
+![](http://bigrosebang.com/bigbrother1984-2004.jpg)
 
 </div>
 
 <div class="post" data-post-id="26179" data-author="Tap" data-date="2008-09-06T23:35:48+00:00" data-subject="">
 
-[img:2yunff56]http://www.wisdomportal.com/Numbers/85-Babylonian.jpg[/img:2yunff56]
+![](http://www.wisdomportal.com/Numbers/85-Babylonian.jpg)
 
 Babylonian number for 85
 
@@ -854,7 +868,7 @@ Babylonian number for 85
 
 <div class="post" data-post-id="26180" data-author="jezer" data-date="2008-09-07T02:59:20+00:00" data-subject="">
 
-[img:2xgynesn]http://craighodgkins.files.wordpress.com/2007/08/max86.jpg[/img:2xgynesn]
+![](http://craighodgkins.files.wordpress.com/2007/08/max86.jpg)
 
 86
 
@@ -862,13 +876,13 @@ Babylonian number for 85
 
 <div class="post" data-post-id="26185" data-author="*juggleblood*" data-date="2008-09-08T03:40:27+00:00" data-subject="">
 
-[img:327klcag]http://www.seds.org/MESSIER/Jpg/m87.jpg[/img:327klcag]
+![](http://www.seds.org/MESSIER/Jpg/m87.jpg)
 
 </div>
 
 <div class="post" data-post-id="26186" data-author="Weasel" data-date="2008-09-08T04:41:16+00:00" data-subject="">
 
-[img:bi4we5z8]http://jreightyeight.com/images/number88.jpg[/img:bi4we5z8]
+![](http://jreightyeight.com/images/number88.jpg)
 
 This is all your fault Reboog.
 
@@ -876,9 +890,9 @@ This is all your fault Reboog.
 
 <div class="post" data-post-id="26187" data-author="jezer" data-date="2008-09-08T05:05:53+00:00" data-subject="">
 
-[img:pwfk835u]http://www.princetonhistory.org/89%20rose.JPG[/img:pwfk835u]
+![](http://www.princetonhistory.org/89%20rose.JPG)
 
-Apparently this is 89 Rosedale Rd... But it's now known as App's new GP. Excepting all donations!  :twisted:
+Apparently this is 89 Rosedale Rd... But it's now known as App's new GP. Excepting all donations! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -890,9 +904,9 @@ Apparently this is 89 Rosedale Rd... But it's now known as App's new GP. Excepti
 
 <div class="post" data-post-id="26221" data-author="Jag" data-date="2008-09-10T12:42:16+00:00" data-subject="">
 
-STS-91 Discovery 	  	91th Shuttle Mission
+STS-91 Discovery 91th Shuttle Mission
 
-STS-91 shuttle patches 	Commander
+STS-91 shuttle patches Commander
 
 Charles J. Precourt
 
@@ -918,7 +932,7 @@ Valery Victorovitch Ryumin
 
 Download
 
-Andrew S. W. Thomas 	shuttle patch
+Andrew S. W. Thomas shuttle patch
 
 VEHICLE: Discovery /OV-103 (24th flight)
 
@@ -940,37 +954,37 @@ Cargo Bay Payloads: Mir docking adapter, SPACEHAB (SM), AMS-01
 
 <div class="post" data-post-id="26222" data-author="madmax" data-date="2008-09-10T19:21:36+00:00" data-subject="">
 
-[img:3epmn44u]http://www.ticalc.org/images/calcs/92-big.gif[/img:3epmn44u]
+![](http://www.ticalc.org/images/calcs/92-big.gif)
 
 </div>
 
 <div class="post" data-post-id="26225" data-author="Tap" data-date="2008-09-11T02:04:33+00:00" data-subject="">
 
-[img:42nw3sj1]http://www.fdnytrucks.com/images/manhattan/logos/e93.jpg[/img:42nw3sj1]
+![](http://www.fdnytrucks.com/images/manhattan/logos/e93.jpg)
 
 </div>
 
 <div class="post" data-post-id="26247" data-author="*juggleblood*" data-date="2008-09-11T11:45:04+00:00" data-subject="">
 
-[img:1y8oq8xi]http://www.thunderbaycountrymarket.com/images/Rock%2094.jpg[/img:1y8oq8xi]
+![](http://www.thunderbaycountrymarket.com/images/Rock%2094.jpg)
 
 </div>
 
 <div class="post" data-post-id="26255" data-author="Medios" data-date="2008-09-11T22:13:28+00:00" data-subject="">
 
-[img:2s2442e1]http://www.intelliadmin.com/images/Windows%2095%20Screen%20Shot.jpg[/img:2s2442e1]
+![](http://www.intelliadmin.com/images/Windows%2095%20Screen%20Shot.jpg)
 
 </div>
 
 <div class="post" data-post-id="26256" data-author="Autolycos" data-date="2008-09-11T22:49:52+00:00" data-subject="">
 
-[img:341h93v3]http://www.forevercare.org/images/Caskets/P96-899-ID%20Midnight%20Silver_small.jpg[/img:341h93v3]
+![](http://www.forevercare.org/images/Caskets/P96-899-ID%20Midnight%20Silver_small.jpg)
 
 $1225
 
 Batesville
 
-P96 Midnight Silver  
+P96 Midnight Silver 
 
 Silver Crepe Interior
 
@@ -984,25 +998,25 @@ optional Custom Cap Panel $75 to $175
 
 <div class="post" data-post-id="26272" data-author="Tap" data-date="2008-09-12T10:43:00+00:00" data-subject="">
 
-[img:2pjzj7uh]http://www.visitdanville.com/upload/images/Old-97.jpg[/img:2pjzj7uh]
+![](http://www.visitdanville.com/upload/images/Old-97.jpg)
 
 </div>
 
 <div class="post" data-post-id="26273" data-author="Tap" data-date="2008-09-12T10:44:11+00:00" data-subject="">
 
-[img:1n8y1mi8]http://www.slashgear.com/gallery/data_files_old/1/2/MICROSOFT_WINDOWS_98-FRONT.jpg[/img:1n8y1mi8]
+![](http://www.slashgear.com/gallery/data_files_old/1/2/MICROSOFT_WINDOWS_98-FRONT.jpg)
 
 </div>
 
 <div class="post" data-post-id="26275" data-author="Widow" data-date="2008-09-12T12:50:19+00:00" data-subject="">
 
-[img:34i0sufy]http://www.scvresources.com/highways/us_99/99_old_shield_big.gif[/img:34i0sufy]
+![](http://www.scvresources.com/highways/us_99/99_old_shield_big.gif)
 
 </div>
 
 <div class="post" data-post-id="26276" data-author="jezer" data-date="2008-09-12T13:55:19+00:00" data-subject="">
 
-[img:2pzanl0i]http://cdn.harpercollins.com/harperimages/isbn/large/1/9780061198601.jpg[/img:2pzanl0i]
+![](http://cdn.harpercollins.com/harperimages/isbn/large/1/9780061198601.jpg)
 
 Isn't it strange... I post a controversial picture and you unite together... yet in a time of peace you fight amongst yourselves about politics... What is it about man and his desire to always fight something or someone.
 
@@ -1010,13 +1024,13 @@ Isn't it strange... I post a controversial picture and you unite together... yet
 
 <div class="post" data-post-id="26279" data-author="Weasel" data-date="2008-09-12T14:06:23+00:00" data-subject="">
 
-[img:1f8a8t2h]http://www.dapple.plus.com/002079.jpg[/img:1f8a8t2h]
+![](http://www.dapple.plus.com/002079.jpg)
 
 </div>
 
 <div class="post" data-post-id="26282" data-author="Widow" data-date="2008-09-12T16:51:11+00:00" data-subject="">
 
-[img:39iqqu17]http://www.coverbrowser.com/image/jimmy-olsen/102-1.jpg[/img:39iqqu17]
+![](http://www.coverbrowser.com/image/jimmy-olsen/102-1.jpg)
 
 it doesn't come through very clearly, but check the top left hand corner.
 
@@ -1038,7 +1052,7 @@ I think he meant issue 102.
 
 AK-103 Assult Rifle
 
-[img:6ed1g533]http://club.guns.ru/images/AK100/AK103.JPG[/img:6ed1g533]
+![](http://club.guns.ru/images/AK100/AK103.JPG)
 
 </div>
 
@@ -1046,13 +1060,13 @@ AK-103 Assult Rifle
 
 Lockheed F-104 Starfighter
 
-[img:2g3sj371]http://www.airplanedriver.net/acpix/f104a.jpg[/img:2g3sj371]
+![](http://www.airplanedriver.net/acpix/f104a.jpg)
 
 </div>
 
 <div class="post" data-post-id="26304" data-author="Tap" data-date="2008-09-13T16:24:15+00:00" data-subject="">
 
-[img:1j47kupi]http://www.supermanhomepage.com/images/comic-covers/Post-Crisis-Covers/Superman-2000/mos105.JPG[/img:1j47kupi]
+![](http://www.supermanhomepage.com/images/comic-covers/Post-Crisis-Covers/Superman-2000/mos105.JPG)
 
 In this issue, I totally nerd out!
 
@@ -1060,21 +1074,21 @@ As you know if you read "Adventures of Superman #583", Superman is now a Krypto-
 
 Lois Lane is Joker's pasty-faced unwilling bride, sitting next to him in his Ha-Hacienda.
 
-He sneezes, and complains of his allergies. Jimmy Olsen, Grave Digger Lad, offers to destroy Superman. A fire hydrant falls from the sky, apparently from Joker. Joker scoffs at Jimmy, saying he finds no fun in beating a dumb animal, and calls in clownish Kryptonian Battle Suits who promptly kill Jimmy.[/color:1j47kupi]
+He sneezes, and complains of his allergies. Jimmy Olsen, Grave Digger Lad, offers to destroy Superman. A fire hydrant falls from the sky, apparently from Joker. Joker scoffs at Jimmy, saying he finds no fun in beating a dumb animal, and calls in clownish Kryptonian Battle Suits who promptly kill Jimmy.
 
 Joker hands the orb with Mxy in it to Enigma, aka Riddler, and he gathers his wives, Lex Luthor, and Batman to watch the braincast of Superman's mental breaking, which Joker will accomplish by changing Superman's life to be utterly contradictory. Joker also sends the rest of the JLA back to their previous, Joker-esque silliness.
 
 Superman walks along a deserted alley on a TV screen with his parents. They are promptly robbed and killed while Superman looks on. It's Batman's origin, in Superman form.
 
-Flash to years later: Superman is the illustrator of Krypton Man (who looks like the Eradicator and Jor-El mixed), with Steel. Instead of being happy, he draws the JLA. Outside, a commotion startles them from work. It's Krypton Man, and he blasts Superman verbally for drawing such rabble. Superman is to be taken to Emperor Joker. Superman gets angry, and accidently knocks Steel around the room by raising his hand, killing everyone [/color:1j47kupi]but Krypton Man, who vows to capture Supes.
+Flash to years later: Superman is the illustrator of Krypton Man (who looks like the Eradicator and Jor-El mixed), with Steel. Instead of being happy, he draws the JLA. Outside, a commotion startles them from work. It's Krypton Man, and he blasts Superman verbally for drawing such rabble. Superman is to be taken to Emperor Joker. Superman gets angry, and accidently knocks Steel around the room by raising his hand, killing everyone but Krypton Man, who vows to capture Supes.
 
-Superman comes home, not sure he's done anything. His kids, Supergirl and Superboy, greet him with concern. He hugs Supergirl, and she dies. Superman's heat vision suddenly rages out of control, and he blasts Superboy, killing him.[/color:1j47kupi]
+Superman comes home, not sure he's done anything. His kids, Supergirl and Superboy, greet him with concern. He hugs Supergirl, and she dies. Superman's heat vision suddenly rages out of control, and he blasts Superboy, killing him.
 
 Krypton Man appears, and blames Superman, but Superman refuses. His breaking is failing. The TV screen fuzzes, and Superman is free. His mind is strong enough to fight Joker.
 
 Superman floats through space. Spectre awakens him, and warns him that if Joker isn't stopped soon, all reality will disappear. Then Spectre is taken under Joker's control.
 
-Back into the television Superman goes. Lois comes home, and sees what Superman has done to their children, yelling at him. Krypton Man breaks in, and Superman takes off with Lois... apparently too fast. Her back breaks, and she dies. [/color:1j47kupi]Superman, though sad and reactionary, rejects this reality, and the program dies.
+Back into the television Superman goes. Lois comes home, and sees what Superman has done to their children, yelling at him. Krypton Man breaks in, and Superman takes off with Lois... apparently too fast. Her back breaks, and she dies. Superman, though sad and reactionary, rejects this reality, and the program dies.
 
 The JLA sees this, and rejects their reality as Superman's will manifests. They are back to normal, and ready to assault Joker City.
 
@@ -1082,21 +1096,21 @@ The JLA sees this, and rejects their reality as Superman's will manifests. They 
 
 <div class="post" data-post-id="26305" data-author="Yasik2" data-date="2008-09-13T20:29:01+00:00" data-subject="">
 
-[img:2v5btzca]http://yasik.kiev.ua/Seaborgium_106.gif[/img:2v5btzca]
+![](http://yasik.kiev.ua/Seaborgium_106.gif)
 
 </div>
 
 <div class="post" data-post-id="26306" data-author="Tap" data-date="2008-09-13T21:01:42+00:00" data-subject="">
 
-[img:2galv1nk]http://www.omv.org.uk/photos/Lourdes%202004/The%20Party/photos/107-0752_IMG.JPG[/img:2galv1nk]
+![](http://www.omv.org.uk/photos/Lourdes%202004/The%20Party/photos/107-0752_IMG.JPG)
 
-107[/color:2galv1nk]-0752_IMG.JPG
+107\-0752\_IMG.JPG
 
 </div>
 
 <div class="post" data-post-id="26308" data-author="Medios" data-date="2008-09-14T14:12:02+00:00" data-subject="">
 
-[img:3jizftri]http://www.tvsnob.com/pictures/60566-sharp108.jpg[/img:3jizftri]
+![](http://www.tvsnob.com/pictures/60566-sharp108.jpg)
 
 108" LCD
 
@@ -1104,7 +1118,7 @@ The JLA sees this, and rejects their reality as Superman's will manifests. They 
 
 <div class="post" data-post-id="26311" data-author="Yinao" data-date="2008-09-14T15:53:55+00:00" data-subject="">
 
-[img:3qiz5x8y]http://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Bell_XF-109.jpg/300px-Bell_XF-109.jpg[/img:3qiz5x8y]
+![](http://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Bell_XF-109.jpg/300px-Bell_XF-109.jpg)
 
 XF-109
 
@@ -1114,13 +1128,13 @@ XF-109
 
 Peavey Max 110, combo bass amp.
 
-[img:2dw5knui]http://www.e-av.co.uk/products/BACBASPEAMAX110.jpg[/img:2dw5knui]
+![](http://www.e-av.co.uk/products/BACBASPEAMAX110.jpg)
 
 </div>
 
 <div class="post" data-post-id="26329" data-author="Jag" data-date="2008-09-15T19:10:41+00:00" data-subject="">
 
-[img:gzfwcw55]http://i214.photobucket.com/albums/cc229/jagsloth/patch.gif[/img:gzfwcw55]
+![](http://i214.photobucket.com/albums/cc229/jagsloth/patch.gif)
 
 Boy Scout Troop
 
@@ -1128,7 +1142,7 @@ Boy Scout Troop
 
 <div class="post" data-post-id="26331" data-author="Yinao" data-date="2008-09-15T22:42:57+00:00" data-subject="">
 
-[img:7sfr55s6]http://www.copystars.com/images_products/gallien_krueger_mb150_112_s17448.jpg[/img:7sfr55s6]
+![](http://www.copystars.com/images_products/gallien_krueger_mb150_112_s17448.jpg)
 
 Gallien Krueger MB150 112
 
@@ -1136,7 +1150,7 @@ Gallien Krueger MB150 112
 
 <div class="post" data-post-id="26332" data-author="jezer" data-date="2008-09-15T23:37:12+00:00" data-subject="Post a random amplifier">
 
-[img:1ya9azvb]http://www.tjmusicaz.com/images/amplifiers/D-Amp-113.JPG[/img:1ya9azvb]
+![](http://www.tjmusicaz.com/images/amplifiers/D-Amp-113.JPG)
 
 D-Amp 113
 
@@ -1146,7 +1160,7 @@ D-Amp 113
 
 [http://bttf.wikia.com/wiki/Image:Amplifier.jpg](http://bttf.wikia.com/wiki/Image:Amplifier.jpg)
 
-"you're all worthless and weak.  now drop and give me twenty!" -neidermeyer --> animal house
+"you're all worthless and weak. now drop and give me twenty!" -neidermeyer --\> animal house
 
 </div>
 
@@ -1154,13 +1168,13 @@ D-Amp 113
 
 lets please return you to your regularly scheduled nonsense!
 
-[img:29z47b1x]http://www.rickmcgrath.com/jgballard/jgb_pix/ambit114_300.jpg[/img:29z47b1x]
+![](http://www.rickmcgrath.com/jgballard/jgb_pix/ambit114_300.jpg)
 
 </div>
 
 <div class="post" data-post-id="26358" data-author="Medios" data-date="2008-09-17T00:58:50+00:00" data-subject="">
 
-[img:2m7293vz]http://www.fas.org/man/dod-101/sys/land/m55_115.gif[/img:2m7293vz]
+![](http://www.fas.org/man/dod-101/sys/land/m55_115.gif)
 
 </div>
 
@@ -1200,11 +1214,11 @@ Sonnet 116, William Shakespeare
 
 <div class="post" data-post-id="26360" data-author="Weasel" data-date="2008-09-17T03:17:56+00:00" data-subject="">
 
-[img:16er37m7]http://www.thinkgeek.com/images/products/front/holy_hand_grenade.jpg[/img:16er37m7]
+![](http://www.thinkgeek.com/images/products/front/holy_hand_grenade.jpg)
 
 Then did he raise on high the Holy Hand Grenade of Antioch, saying, â€œBless this, O Lord, that with it thou mayst blow thine enemies to tiny bits, in thy mercy.â€ And the people did rejoice and did feast upon the lambs and toads and tree-sloths and fruit-bats and orangutans and breakfast cereals â€¦ Now did the Lord say, â€œFirst thou pullest the Holy Pin. Then thou must count to one hundred and seventeen. One hundred and seventeen shall be the number of the counting and the number of the counting shall be one hundred and seventeen. One hundred and eighteen shalt thou not count, neither shalt thou count one hundred and sixteen, excepting that thou then proceedeth to one hundred and seventeen. One hundred and nineteen is right out. Once the number one hundred and seventeen, being the number of the counting, be reached, then lobbest thou the Holy Hand Grenade in the direction of thine foe, who, being naughty in my sight, shall snuff it.
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -1230,25 +1244,34 @@ Ni.
 
 <div class="post" data-post-id="26396" data-author="Yasik2" data-date="2008-09-19T05:47:22+00:00" data-subject="">
 
-118[/quote:35um91rd]
+> <strong>reboog wrote:</strong>
+> 118
 
 Pathetic reply is pathetic.
 
-[img:35um91rd]http://yasik.kiev.ua/119.jpg[/img:35um91rd]
+![](http://yasik.kiev.ua/119.jpg)
 
-The Penguin anti-ship missile (U.S. designation AGM-119), made by Kongsberg Defence & Aerospace (KDA) of Norway from the early 1970's and continually upgraded since, is a passive-IR seeker based short-to-medium range naval cruise missile. It was the first AShM of the western world with an IR seeker (contrary to the commonly used active radar technology).
+The Penguin anti-ship missile (U.S. designation AGM-119), made by Kongsberg Defence \& Aerospace (KDA) of Norway from the early 1970's and continually upgraded since, is a passive-IR seeker based short-to-medium range naval cruise missile. It was the first AShM of the western world with an IR seeker (contrary to the commonly used active radar technology).
 
 </div>
 
 <div class="post" data-post-id="26398" data-author="Acedia" data-date="2008-09-19T07:00:48+00:00" data-subject="">
 
-118[/quote:2s98sdc9]
-
-Pathetic reply is pathetic.
-
-[img:2s98sdc9]http://yasik.kiev.ua/119.jpg[/img:2s98sdc9]
-
-The Penguin anti-ship missile (U.S. designation AGM-119), made by Kongsberg Defence & Aerospace (KDA) of Norway from the early 1970's and continually upgraded since, is a passive-IR seeker based short-to-medium range naval cruise missile. It was the first AShM of the western world with an IR seeker (contrary to the commonly used active radar technology).[/quote:2s98sdc9]
+> <strong>Yasik2 wrote:</strong>
+> > <strong>reboog wrote:</strong>
+> > 118
+> 
+> 
+> 
+> Pathetic reply is pathetic.
+> 
+> 
+> 
+> ![](http://yasik.kiev.ua/119.jpg)
+> 
+> 
+> 
+> The Penguin anti-ship missile (U.S. designation AGM-119), made by Kongsberg Defence \& Aerospace (KDA) of Norway from the early 1970's and continually upgraded since, is a passive-IR seeker based short-to-medium range naval cruise missile. It was the first AShM of the western world with an IR seeker (contrary to the commonly used active radar technology).
 
 120
 
@@ -1260,9 +1283,7 @@ Leningrad Museum.
 
 Iskra 121 
 
- 
-
-Year: >1972..
+Year: \>1972..
 
 Display: 16 nixie tubes + sign
 
@@ -1270,13 +1291,13 @@ Features: 2 memory registers, natural comma, square root
 
 Power: AC 220V
 
-[img:2uzmxu7b]http://www.leninburg.com/museum/1/is121-1.jpg[/img:2uzmxu7b]
+![](http://www.leninburg.com/museum/1/is121-1.jpg)
 
 </div>
 
 <div class="post" data-post-id="26406" data-author="Yinao" data-date="2008-09-20T05:00:07+00:00" data-subject="">
 
-[img:2n8yywdn]http://www.fprado.com/armorsite/Leo2_Pics/Stridsvagn122-02.jpg[/img:2n8yywdn]
+![](http://www.fprado.com/armorsite/Leo2_Pics/Stridsvagn122-02.jpg)
 
 The Stridsvagn 122.
 
@@ -1284,13 +1305,13 @@ The Stridsvagn 122.
 
 <div class="post" data-post-id="26407" data-author="jezer" data-date="2008-09-20T05:35:01+00:00" data-subject="">
 
-[img:3ng5nwff]http://www.prolearnuniversity.com/Images/123blocks.jpg[/img:3ng5nwff]
+![](http://www.prolearnuniversity.com/Images/123blocks.jpg)
 
 </div>
 
 <div class="post" data-post-id="26408" data-author="Weasel" data-date="2008-09-20T05:54:33+00:00" data-subject="">
 
-1[/color:s4awghlx]2[/color:s4awghlx]4[/color:s4awghlx]
+124
 
 </div>
 
@@ -1304,33 +1325,33 @@ troublemaker
 
 YZF 125
 
-[img:1jl7q71n]http://www.revistaduasrodas.com.br/upload/testes/yzf-125-7.jpg[/img:1jl7q71n]
+![](http://www.revistaduasrodas.com.br/upload/testes/yzf-125-7.jpg)
 
-[img:1jl7q71n]http://www.automotoconso.com/leblog/IMG/infos5/yamaha-yzf-125-2008-2.jpg[/img:1jl7q71n]
+![](http://www.automotoconso.com/leblog/IMG/infos5/yamaha-yzf-125-2008-2.jpg)
 
 </div>
 
 <div class="post" data-post-id="26411" data-author="Weasel" data-date="2008-09-20T14:54:19+00:00" data-subject="">
 
-[img:1vh611l1]http://www.metaefficient.com/wp-content/uploads/enercon_e126.jpg[/img:1vh611l1]
+![](http://www.metaefficient.com/wp-content/uploads/enercon_e126.jpg)
 
 </div>
 
 <div class="post" data-post-id="26415" data-author="brady" data-date="2008-09-21T02:36:47+00:00" data-subject="">
 
-[img:7lgsoy0z]http://www.saikyopowaa.com/comic/app127.jpg[/img:7lgsoy0z]
+![](http://www.saikyopowaa.com/comic/app127.jpg)
 
 </div>
 
 <div class="post" data-post-id="26416" data-author="jezer" data-date="2008-09-21T06:58:28+00:00" data-subject="">
 
-[img:6n6yv6tc]http://www.commodore.ca/products/128/c128_retail.jpg[/img:6n6yv6tc]
+![](http://www.commodore.ca/products/128/c128_retail.jpg)
 
 </div>
 
 <div class="post" data-post-id="26417" data-author="madmax" data-date="2008-09-21T16:10:04+00:00" data-subject="">
 
-[img:9djr3vf0]http://upload.wikimedia.org/wikipedia/commons/3/35/Hindenburg_at_lakehurst.jpg[/img:9djr3vf0]
+![](http://upload.wikimedia.org/wikipedia/commons/3/35/Hindenburg_at_lakehurst.jpg)
 
 Hindenburg - LZ129
 
@@ -1338,31 +1359,31 @@ Hindenburg - LZ129
 
 <div class="post" data-post-id="26418" data-author="Autolycos" data-date="2008-09-21T16:57:59+00:00" data-subject="">
 
-[b:288u58uf]C-130  Hercules[/b:288u58uf]
+<strong>C-130 Hercules</strong>
 
-[img:288u58uf]http://optionalg.files.wordpress.com/2007/01/c-130flares-1.jpg[/img:288u58uf]
+![](http://optionalg.files.wordpress.com/2007/01/c-130flares-1.jpg)
 
 </div>
 
 <div class="post" data-post-id="26419" data-author="Weasel" data-date="2008-09-21T17:05:12+00:00" data-subject="">
 
-. . . . . . . . . . . . . . . . . . . [/color:36ay1j49]  [img:36ay1j49]http://www.majhost.com/gallery/DanElHombre/smilies/v2/dontknow.gif[/img:36ay1j49]
+. . . . . . . . . . . . . . . . . . . ![](http://www.majhost.com/gallery/DanElHombre/smilies/v2/dontknow.gif)
 
-[img:36ay1j49]http://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Texas_Loop_131.svg/384px-Texas_Loop_131.svg.png[/img:36ay1j49]
+![](http://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Texas_Loop_131.svg/384px-Texas_Loop_131.svg.png)
 
- . . . . . . . . . . . . . . . . . . . [/color:36ay1j49] :shock:
+ . . . . . . . . . . . . . . . . . . . <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="26422" data-author="Tap" data-date="2008-09-21T21:32:46+00:00" data-subject="">
 
-[img:2k25or4p]http://www.celticprogrammesonline.com/PROGRAMME%20COVERS/featured/fanzines/NotTheView/ntv132.jpg[/img:2k25or4p]
+![](http://www.celticprogrammesonline.com/PROGRAMME%20COVERS/featured/fanzines/NotTheView/ntv132.jpg)
 
 </div>
 
 <div class="post" data-post-id="26426" data-author="jezer" data-date="2008-09-22T00:59:36+00:00" data-subject="">
 
-[img:3csjw9tp]http://www.uninova.pt/cimed2005/IEE%20Dark%20Grey.jpg[/img:3csjw9tp]
+![](http://www.uninova.pt/cimed2005/IEE%20Dark%20Grey.jpg)
 
 </div>
 
@@ -1376,9 +1397,9 @@ that's either 331 or IEE you tard LOL
 
 Yes, it's IEE (133 in upside down calculator language)... I'm pushing the boundaries of what is acceptable in this thread! 
 
-You all have a HUGE dilemma now... should we move on to the next number... or repost my one... big decisions...  :twisted: 
+You all have a HUGE dilemma now... should we move on to the next number... or repost my one... big decisions... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-[img:18quux7f]http://content.pyzam.com/funnypics/misc/DoingItWrong6.jpg[/img:18quux7f]
+![](http://content.pyzam.com/funnypics/misc/DoingItWrong6.jpg)
 
 </div>
 
@@ -1386,7 +1407,7 @@ You all have a HUGE dilemma now... should we move on to the next number... or re
 
 compromise.. 
 
-[img:a6krkk5y]http://kitchengifts.com/Merchant2/graphics/00000001/number1.gif[/img:a6krkk5y][img:a6krkk5y]http://kitchengifts.com/Merchant2/graphics/00000001/3.gif[/img:a6krkk5y][img:a6krkk5y]http://kitchengifts.com/Merchant2/graphics/00000001/3.gif[/img:a6krkk5y][img:a6krkk5y]http://www.dicedealer.com/chapte80.jpg[/img:a6krkk5y]
+![](http://kitchengifts.com/Merchant2/graphics/00000001/number1.gif)![](http://kitchengifts.com/Merchant2/graphics/00000001/3.gif)![](http://kitchengifts.com/Merchant2/graphics/00000001/3.gif)![](http://www.dicedealer.com/chapte80.jpg)
 
 </div>
 
@@ -1394,7 +1415,7 @@ compromise..
 
 PC133 memory module
 
-[img:3dfl6kt6]http://yasik.kiev.ua/133.jpg[/img:3dfl6kt6]
+![](http://yasik.kiev.ua/133.jpg)
 
 what dilemma you talking about?
 
@@ -1402,21 +1423,21 @@ what dilemma you talking about?
 
 <div class="post" data-post-id="26431" data-author="Yasik2" data-date="2008-09-22T12:23:23+00:00" data-subject="">
 
-[img:3bl8nyjx]http://yasik.kiev.ua/134.jpg[/img:3bl8nyjx]
+![](http://yasik.kiev.ua/134.jpg)
 
 </div>
 
 <div class="post" data-post-id="26432" data-author="madmax" data-date="2008-09-22T12:49:31+00:00" data-subject="">
 
-[img:ta5dar3y]http://www.boeing.com/defense-space/military/kc135-strat/images/kc-135-RC_KC135_375X300.jpg[/img:ta5dar3y]
+![](http://www.boeing.com/defense-space/military/kc135-strat/images/kc-135-RC_KC135_375X300.jpg)
 
-[b:ta5dar3y]KC-135 Stratotanker[/b:ta5dar3y]
+<strong>KC-135 Stratotanker</strong>
 
 </div>
 
 <div class="post" data-post-id="26582" data-author="Jag" data-date="2008-10-07T17:38:29+00:00" data-subject="">
 
-[img:2smuamvh]http://i214.photobucket.com/albums/cc229/jagsloth/vaq136.jpg[/img:2smuamvh]
+![](http://i214.photobucket.com/albums/cc229/jagsloth/vaq136.jpg)
 
 Naval Electronic Attack Squadron Patch
 
@@ -1424,13 +1445,13 @@ Naval Electronic Attack Squadron Patch
 
 <div class="post" data-post-id="26583" data-author="Weasel" data-date="2008-10-07T18:32:03+00:00" data-subject="">
 
-1[/color:2t2wjcm5]3[/color:2t2wjcm5]7[/color:2t2wjcm5]  <-- the number 137
+137 \<-- the number 137
 
 </div>
 
 <div class="post" data-post-id="26756" data-author="Yasik2" data-date="2008-10-18T02:48:56+00:00" data-subject="">
 
-[img:2blkcv70]http://yasik.kiev.ua/4chan/Dead_Thread.jpg[/img:2blkcv70]
+![](http://yasik.kiev.ua/4chan/Dead_Thread.jpg)
 
 </div>
 
@@ -1460,37 +1481,37 @@ Naval Electronic Attack Squadron Patch
 
 <div class="post" data-post-id="28262" data-author="Clink" data-date="2009-02-23T00:52:46+00:00" data-subject="">
 
-vdB 142[img:7w26d0re]http://www.narrowbandimaging.com/images/vdb142_s2ha03_st10_preview.jpg[/img:7w26d0re]
+vdB 142![](http://www.narrowbandimaging.com/images/vdb142_s2ha03_st10_preview.jpg)
 
 </div>
 
 <div class="post" data-post-id="28271" data-author="Medios" data-date="2009-02-24T01:10:42+00:00" data-subject="">
 
-[img:3md4v2n5]http://www.untamedworlds.com/store/images/143_NC409.jpg[/img:3md4v2n5]
+![](http://www.untamedworlds.com/store/images/143_NC409.jpg)
 
 </div>
 
 <div class="post" data-post-id="28272" data-author="Weasel" data-date="2009-02-24T02:47:11+00:00" data-subject="">
 
-[img:1oumopem]http://ejmas.com/jnc/cptsmith/Fig144.jpg[/img:1oumopem]
+![](http://ejmas.com/jnc/cptsmith/Fig144.jpg)
 
 </div>
 
 <div class="post" data-post-id="28273" data-author="Weasel" data-date="2009-02-24T02:50:47+00:00" data-subject="">
 
-[img:39o56i30]http://world.guns.ru/handguns/taurus_pt145.jpg[/img:39o56i30]
+![](http://world.guns.ru/handguns/taurus_pt145.jpg)
 
 </div>
 
 <div class="post" data-post-id="28300" data-author="Yasik2" data-date="2009-02-26T18:33:08+00:00" data-subject="">
 
-[img:kky3q1cl]http://yasik.kiev.ua/146.jpg[/img:kky3q1cl]
+![](http://yasik.kiev.ua/146.jpg)
 
 </div>
 
 <div class="post" data-post-id="28302" data-author="Yasik2" data-date="2009-02-26T19:48:46+00:00" data-subject="">
 
-[img:1etcwch7]http://yasik.kiev.ua/147.jpg[/img:1etcwch7]
+![](http://yasik.kiev.ua/147.jpg)
 
 </div>
 

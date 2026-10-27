@@ -16,6 +16,6 @@ This page has been updated to include the new class bonuses and inate abilities.
 
 Enjoy,
 
-Splork :twisted:
+Splork <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

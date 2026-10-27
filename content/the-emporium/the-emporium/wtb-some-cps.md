@@ -14,7 +14,7 @@ post_count: 1
 
 looking for:
 
-strap of  leatherlike flesh
+strap of leatherlike flesh
 
 sliver of darkness
 

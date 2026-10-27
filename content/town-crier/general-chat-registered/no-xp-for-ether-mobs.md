@@ -42,7 +42,7 @@ You massacre a green rakasha to small fragments with your pound.
 
 A green rakasha utters the words, 'uqz grul'
 
-ARRGH!  Your body is stiffened by an ice ray, sent by a green rakasha.
+ARRGH! Your body is stiffened by an ice ray, sent by a green rakasha.
 
 768/848hp 597/636mp 77/241mv [-11.0]
 
@@ -74,7 +74,7 @@ You massacre a green rakasha to small fragments with your pound.
 
 A green rakasha utters the words, 'uqz grul'
 
-ARRGH!  Your body is stiffened by an ice ray, sent by a green rakasha.
+ARRGH! Your body is stiffened by an ice ray, sent by a green rakasha.
 
 657/848hp 575/636mp 79/241mv [-11.0]
 
@@ -118,7 +118,7 @@ You massacre the spirit of a patriarch to small fragments with your pound.
 
 The spirit of a patriarch utters the words, 'yufzxuie'
 
-You are blasted by a painful burning wind!!  THAT REALLY HURT!!
+You are blasted by a painful burning wind!! THAT REALLY HURT!!
 
 One of your mirrors wavers from existence!
 
@@ -138,9 +138,9 @@ Everything the spirit of a patriarch was carrying suddenly drops to the ground.
 
 <div class="post" data-post-id="27888" data-author="firebrand" data-date="2009-01-27T21:47:55+00:00" data-subject="">
 
-looks to me like someone might need to re-approve the mob.  perhaps a typo was corrected on it or something.  just send a report using the bugs command or send a list to....either judge or juggleblood.  i think those two are currently working on bugs.  
+looks to me like someone might need to re-approve the mob. perhaps a typo was corrected on it or something. just send a report using the bugs command or send a list to....either judge or juggleblood. i think those two are currently working on bugs. 
 
-"what the hell's that smell?" - capt. steven j. hiller --> independence day
+"what the hell's that smell?" - capt. steven j. hiller --\> independence day
 
 </div>
 
@@ -156,21 +156,21 @@ A blue rakasha briefly glows with a blinding light!
 
 You report 880/1069 hp. Change: -64. Need: 189. Spells: aegis, fluidity.
 
-<880hp 124ma 215mv>
+\<880hp 124ma 215mv\>
 
-You grouptell: '*Rub* d14a blue rakasha is Acid Blind for 1 Minute'
+You grouptell: '\*Rub\* d14a blue rakasha is Acid Blind for 1 Minute'
 
-<880hp 124ma 215mv>
+\<880hp 124ma 215mv\>
 
 A blue flame twice the height of a man pulses and twists in its mystical
 
-prison.  The fires of the Rakasha's form shift like madly boiling waters,
+prison. The fires of the Rakasha's form shift like madly boiling waters,
 
-from within the depths it pulls forth an almost-face.  Small flames reach
+from within the depths it pulls forth an almost-face. Small flames reach
 
-out and its mind screams into yours "Free me,  master, and I will lay the
+out and its mind screams into yours "Free me, master, and I will lay the
 
-world at thy feet!"  Once it thinks you are close enough, the imprisoned
+world at thy feet!" Once it thinks you are close enough, the imprisoned
 
 spirit attacks!
 
@@ -180,13 +180,13 @@ You attempt to peek at the inventory:
 
 You can't see anything.
 
-<882hp 124ma 215mv>
+\<882hp 124ma 215mv\>
 
 Ok.
 
 You form a cone of frost in your hand and launch it at a blue rakasha.
 
-<882hp 99ma 215mv>
+\<882hp 99ma 215mv\>
 
 fbt
 

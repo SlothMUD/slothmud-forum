@@ -34,11 +34,11 @@ Well, the discord server has been running for 4 years.
 
 Here what we got so far:
 
-1. Friendly community consiting of immortals, active players and ex-players who joined just for the chat and the nostalgy.
+1\. Friendly community consiting of immortals, active players and ex-players who joined just for the chat and the nostalgy.
 
-2. Dedicated channel for the mudlet, where Fuligin relentlessy answers any related questions.
+2\. Dedicated channel for the mudlet, where Fuligin relentlessy answers any related questions.
 
-3. The server bot that reports various useful info such as when someone died and when a new group started.
+3\. The server bot that reports various useful info such as when someone died and when a new group started.
 
 Join us.
 

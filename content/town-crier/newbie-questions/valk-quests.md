@@ -12,7 +12,7 @@ post_count: 6
 
 <div class="post" data-post-id="30119" data-author="Zalasta" data-date="2009-10-18T01:15:19+00:00" data-subject="Valk quests">
 
-I was wondering if anyone had a list of quests on valk that are actually worth doing.  Not a list as in how to do them, of course, but in particular it would be nice to know which quests yielded drachma and hence should be done before leaving valk.
+I was wondering if anyone had a list of quests on valk that are actually worth doing. Not a list as in how to do them, of course, but in particular it would be nice to know which quests yielded drachma and hence should be done before leaving valk.
 
 </div>
 
@@ -20,7 +20,7 @@ I was wondering if anyone had a list of quests on valk that are actually worth d
 
 Ask Shelda and cook in town. Also you should check autumnal forest and F.O.C. and Gang Hideout for drachma quests.
 
-I can't post more but you can ask ppl on line. Do not use crier or gossip channel for that. :P
+I can't post more but you can ask ppl on line. Do not use crier or gossip channel for that. <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 Kida
 
@@ -34,7 +34,7 @@ It's perfectly fine to post the name/location of quester mobs; just not details 
 
 <div class="post" data-post-id="30623" data-author="Brayden" data-date="2010-01-10T23:15:04+00:00" data-subject="">
 
-I don't know how you even talk to mobs, they just say 'hi' to me.  What do you say to find a quest?
+I don't know how you even talk to mobs, they just say 'hi' to me. What do you say to find a quest?
 
 </div>
 
@@ -64,6 +64,6 @@ query mobname about sword
 
 btw here's the link to the autoquest forum on the crier. You get to it by clicking the town crier link, then you'll see the full list of forums.
 
-[url:3so02q5f]http://www.slothmud.org/index.php?name=PNphpBB2&file=viewforum&f=32[/url:3so02q5f]
+http://www.slothmud.org/index.php?name=PNphpBB2&file=viewforum&f=32
 
 </div>

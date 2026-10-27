@@ -12,21 +12,21 @@ post_count: 37
 
 <div class="post" data-post-id="37296" data-author="*juggleblood*" data-date="2016-08-28T00:31:36+00:00" data-subject="Monk Prime Arm, thought experiment">
 
-I'm enjoying the banter about various imbalances in the game, so here's an experiment in designing equipment by groupthink.  Let's take one slot for one prime class that is not flushed out, and flush out the rough parameters of what that equipment should look like.
+I'm enjoying the banter about various imbalances in the game, so here's an experiment in designing equipment by groupthink. Let's take one slot for one prime class that is not flushed out, and flush out the rough parameters of what that equipment should look like.
 
 I have chosen monk prime arm for the following reasons: 
 
-1. There is little improvement in the slot from newbie levels. 9x40 prime monks are wearing level 30 prime gear.
+1\. There is little improvement in the slot from newbie levels. 9x40 prime monks are wearing level 30 prime gear.
 
-2. The slot is one of high importance to that class. For example, in this case one would expect that monks should have cool arm gear since they're punching all the time and you can reasonably expect that arm gear would affect hand damage, a monk's most prized stat.
+2\. The slot is one of high importance to that class. For example, in this case one would expect that monks should have cool arm gear since they're punching all the time and you can reasonably expect that arm gear would affect hand damage, a monk's most prized stat.
 
-3. This class can't fully achieve cap for the stat in question, i.e. currently monk's can't achieve max hand dam.
+3\. This class can't fully achieve cap for the stat in question, i.e. currently monk's can't achieve max hand dam.
 
-4. There is better, comparable eq for another similar class available at a higher level, in this case the thief 2x40 sleeves.
+4\. There is better, comparable eq for another similar class available at a higher level, in this case the thief 2x40 sleeves.
 
-5. The best prime gear for this slot+class is little better than non-prime eq that becomes available at a higher level, sleeves of enlightenment.
+5\. The best prime gear for this slot+class is little better than non-prime eq that becomes available at a higher level, sleeves of enlightenment.
 
-So my question to you guys is, how would you outline the linear progression for hand dam on arm for me at various levels? as regards to AC, HD, Hit, Dam?, max_str?... 
+So my question to you guys is, how would you outline the linear progression for hand dam on arm for me at various levels? as regards to AC, HD, Hit, Dam?, max\_str?... 
 
 And what are the other obvious prime+slot equipment for other classes that could be outlined in linear fashion? Would you outline a progression of weap dam arm for war prime for example? I think this type of approach could help organize the effort.
 
@@ -38,13 +38,13 @@ Oh, and regarding drachma equipment. Remember that it is not a problem to introd
 
 Nice post JB. 
 
-First point, MAX_STR already has a linear progression, you can wear more with 40's, and wearing more before that essentially does very little. This already controls the "worth" of how much you can wear and makes it linear, so that's great! Might I add, as I am trying to do a MAX_STR warrior build, there is a workable path currently, it's not all doom and gloom for eq, sometimes there is a path and sometimes it makes sense.
+First point, MAX\_STR already has a linear progression, you can wear more with 40's, and wearing more before that essentially does very little. This already controls the "worth" of how much you can wear and makes it linear, so that's great! Might I add, as I am trying to do a MAX\_STR warrior build, there is a workable path currently, it's not all doom and gloom for eq, sometimes there is a path and sometimes it makes sense.
 
 Second point: Linear progression is easy to design. You need to think about your "ends." The best and worst eq for your monk arms... and then pace out the progression between your best and worst ends.
 
 Case in Point: Monk Arms...
 
-MAX_STR: A prime monk can only wear 6 points, there are about 17 slots. Hence best MAX_STR on any item should be 1.
+MAX\_STR: A prime monk can only wear 6 points, there are about 17 slots. Hence best MAX\_STR on any item should be 1.
 
 AC: Best ac for arms is -0.9. Damage arms comes at an ac penalty... therefore AC for arms with dam is prob -0.6-0.7 at best.
 
@@ -54,7 +54,7 @@ DAM: There are few items with +2 dam. We are making a monk build. +dam items cou
 
 HANDDAM: Most hand dam items are +2. There are about 17 slots. Count in stuff at the shop and runes, and yeah rule of thumb is I wouldn't exceed +2 hand dam, and this gets us close to cap anyway.
 
-In most cases the worst eq is near zero, or just +1 in one particular stat. So put all this together... and I think you have something like -0.6/-0.7 +2 Hand Dam + 1 MAX_STR +hit for a 9x40 arms... reduce the benefit by about half for 4x40... and you get something like -0.5 +2 Hand Dam +2 hit. Etc etc. Hope you see where I am going with these ideas.
+In most cases the worst eq is near zero, or just +1 in one particular stat. So put all this together... and I think you have something like -0.6/-0.7 +2 Hand Dam + 1 MAX\_STR +hit for a 9x40 arms... reduce the benefit by about half for 4x40... and you get something like -0.5 +2 Hand Dam +2 hit. Etc etc. Hope you see where I am going with these ideas.
 
 </div>
 
@@ -72,7 +72,7 @@ Prime-only equipment sucks [citation needed]
 
 The new forge sleeves are superior to prime sleeves, so monks don't have to wear newbie gear anymore.
 
-Regarding #5: Are we assuming now that prime gear should be the ultimate equipment?  Historically speaking, prime gear has very low restrictions and is usually obsolete by the time you reach high levels.
+Regarding #5: Are we assuming now that prime gear should be the ultimate equipment? Historically speaking, prime gear has very low restrictions and is usually obsolete by the time you reach high levels.
 
 (Yes, I hear you saying the sword of valor is never obsolete; I refute that with: 'remove sword')
 
@@ -80,8 +80,8 @@ Regarding #5: Are we assuming now that prime gear should be the ultimate equipme
 
 <div class="post" data-post-id="37314" data-author="*juggleblood*" data-date="2016-08-29T22:42:56+00:00" data-subject="Re: Monk Prime Arm, thought experiment">
 
-> **Josiah wrote:**
-> Regarding #5: Are we assuming now that prime gear should be the ultimate equipment?  Historically speaking, prime gear has very low restrictions and is usually obsolete by the time you reach high levels.
+> <strong>Josiah wrote:</strong>
+> Regarding #5: Are we assuming now that prime gear should be the ultimate equipment? Historically speaking, prime gear has very low restrictions and is usually obsolete by the time you reach high levels.
 
 Ah, yeah I was assuming that, mistakenly I guess.
 
@@ -89,7 +89,7 @@ Ah, yeah I was assuming that, mistakenly I guess.
 
 <div class="post" data-post-id="37316" data-author="*teker*" data-date="2016-08-31T18:48:59+00:00" data-subject="Re: Monk Prime Arm, thought experiment">
 
-I think the best way to achieve balance and scaling would be to assign point values to the variety of bonuses that equipment provides.  Equipment that makes stats or abilities worse would count those as negative point values.  Then compare the various pieces of equipment based on their total points.  Some sort of point range would then be defined for each category of levels (1-7, 8-14, 15-20, 20-39, 1x40, 2x, etc).  Value and rent cost would be based on the points and could be modified up or down at a particular point cost/refund.  Some RPGs use this sort of system (Hero Games in particular) to try to balance PCs, their equipment, and spells/skills.
+I think the best way to achieve balance and scaling would be to assign point values to the variety of bonuses that equipment provides. Equipment that makes stats or abilities worse would count those as negative point values. Then compare the various pieces of equipment based on their total points. Some sort of point range would then be defined for each category of levels (1-7, 8-14, 15-20, 20-39, 1x40, 2x, etc). Value and rent cost would be based on the points and could be modified up or down at a particular point cost/refund. Some RPGs use this sort of system (Hero Games in particular) to try to balance PCs, their equipment, and spells/skills.
 
 </div>
 
@@ -117,15 +117,15 @@ Those who played s2, like why did you even bother... the fails must have been ex
 
 <div class="post" data-post-id="37320" data-author="Teron" data-date="2016-09-01T11:07:32+00:00" data-subject="Re: Monk Prime Arm, thought experiment">
 
-1. In s5, everyone can stab, so everyone has to pay the price for dam. Though I agree that dam is more valuable to thieves/monks, than others, thanks to multipliers.
+1\. In s5, everyone can stab, so everyone has to pay the price for dam. Though I agree that dam is more valuable to thieves/monks, than others, thanks to multipliers.
 
-2. I don't think rent values should depend on stats, because 7x40s+ will have at least 3 eq sets with high stats, making it very, very expensive to rent.
+2\. I don't think rent values should depend on stats, because 7x40s+ will have at least 3 eq sets with high stats, making it very, very expensive to rent.
 
 For example, even with our current rent prices, my daily rent is about 230k, and I bring it down to 170k by wearing high rent stuff - most of which is ac, for some reason.
 
 And don't get me started on the gold grind, I have a draft saved about it and I have yet to finish it (as well as about monk arm suggestions).
 
-3. S2-3 success has nothing to do with changes. Back then, we played on ELT monitors and MUDs offered better graphics and gameplay, than most games. With the coming of high-quality graphical MMORPGs, MUDs became less popular, it's not about changes, at all.
+3\. S2-3 success has nothing to do with changes. Back then, we played on ELT monitors and MUDs offered better graphics and gameplay, than most games. With the coming of high-quality graphical MMORPGs, MUDs became less popular, it's not about changes, at all.
 
 I don't fear changes: the game needs to evolve. However, right now the biggest issue is the number of players, not the game changes, unless they are popular in the MUD world and lacking in Sloth (such as seeing damage numbers for your hits).
 
@@ -133,9 +133,9 @@ I don't fear changes: the game needs to evolve. However, right now the biggest i
 
 <div class="post" data-post-id="37321" data-author="*juggleblood*" data-date="2016-09-02T20:44:34+00:00" data-subject="Re: Monk Prime Arm, thought experiment">
 
-> ***juggleblood* wrote:**
-> > **Josiah wrote:**
-> > Regarding #5: Are we assuming now that prime gear should be the ultimate equipment?  Historically speaking, prime gear has very low restrictions and is usually obsolete by the time you reach high levels.
+> <strong>\*juggleblood\* wrote:</strong>
+> > <strong>Josiah wrote:</strong>
+> > Regarding #5: Are we assuming now that prime gear should be the ultimate equipment? Historically speaking, prime gear has very low restrictions and is usually obsolete by the time you reach high levels.
 > 
 > 
 > 
@@ -153,7 +153,7 @@ I hate this globalized world where everyone is obsessed with being the same as e
 
 It's through our specialties all working together that all is made stronger.
 
-</out>
+\</out\>
 
 </div>
 
@@ -181,11 +181,11 @@ Also, we already have prime spell dam robes and belts and unique 30lev thief sle
 
 So, I suggest we have it all:
 
-- prime gear for lower levels to make players feel good about themselves and get a few powerful items they'll replace later
+\- prime gear for lower levels to make players feel good about themselves and get a few powerful items they'll replace later
 
-- prime gear that's as good as tri40/drachma items or better, because primes need to reach their caps and stack a few others, because we do need more, than one
+\- prime gear that's as good as tri40/drachma items or better, because primes need to reach their caps and stack a few others, because we do need more, than one
 
-- non-prime BIS (best in slot) gear to complement prime/tri40/drachma gear
+\- non-prime BIS (best in slot) gear to complement prime/tri40/drachma gear
 
 It doesn't mean there there need to be 18 prime BIS items, maybe 2-4 at most?
 
@@ -203,13 +203,13 @@ Now that I have a better perspective on this, I'm thinking that if I introduced 
 
 <div class="post" data-post-id="37328" data-author="Gorka" data-date="2016-09-06T05:17:27+00:00" data-subject="Re: Monk Prime Arm, thought experiment">
 
-* Not so sure Taron is on my side, most independent players will be anti-prime eq, esp warriors wanting hand dam.
+\* Not so sure Taron is on my side, most independent players will be anti-prime eq, esp warriors wanting hand dam.
 
-* In the light of recent discussions... What the hell do monks currently need more hand dam for?
+\* In the light of recent discussions... What the hell do monks currently need more hand dam for?
 
-* What about this already existing fairly good item monk prime item? (sleeves of black ice)
+\* What about this already existing fairly good item monk prime item? (sleeves of black ice)
 
-You've lost me!  :shock:
+You've lost me! <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -247,7 +247,7 @@ Now, the question I put to you. Would the game be better off with that piece as 
 
 <div class="post" data-post-id="37332" data-author="alris" data-date="2016-09-06T21:57:15+00:00" data-subject="Re: Monk Prime Arm, thought experiment">
 
-I have to point out that sleeves of black ice are reward for ingame autoquest. One for monks, similar to the others for each class. And while that those quest rewards equipment probably was not intended to be used all the way up to 40 avatar, and some of those probably not good enough to be used at all... The valor sword is a a same type of prime-autoquest-reward item and its decently good, and with attached clasp it is brilliant enough to be used up to 40 av (unless you are Josiah). What I am trying to say - I always felt its a bit unfair that other classes prime aq rewards are not up to par to warrior one.  My idea to maybe revise those autoquests rewards and also add ingame clasps for every item to bring the stats even higher in later game. Of course clasps should be hard to obtain, similarly to valor sword clasp. So if you feel that those sleeves are adequate for their level, you can add clasp to boost them. Can always make those in forge1 clasps, forge2 clasps (emerald gauntlets anyone?), to break it in smaller steps than from 1x40 to 9x40.
+I have to point out that sleeves of black ice are reward for ingame autoquest. One for monks, similar to the others for each class. And while that those quest rewards equipment probably was not intended to be used all the way up to 40 avatar, and some of those probably not good enough to be used at all... The valor sword is a a same type of prime-autoquest-reward item and its decently good, and with attached clasp it is brilliant enough to be used up to 40 av (unless you are Josiah). What I am trying to say - I always felt its a bit unfair that other classes prime aq rewards are not up to par to warrior one. My idea to maybe revise those autoquests rewards and also add ingame clasps for every item to bring the stats even higher in later game. Of course clasps should be hard to obtain, similarly to valor sword clasp. So if you feel that those sleeves are adequate for their level, you can add clasp to boost them. Can always make those in forge1 clasps, forge2 clasps (emerald gauntlets anyone?), to break it in smaller steps than from 1x40 to 9x40.
 
 P.S. I am not monk, but +hp regen on monk sleeves? seriously? 2? make it 20hps or I dont know, 20 moves maybe.
 
@@ -265,15 +265,15 @@ How many players support using 1x40 gear all the way thru to 9x40? Such as valor
 
 I've been drafting this post since the thread started, so it's a bit long.
 
-1. About stats on prime eq
+1\. About stats on prime eq
 
-- mo prime sleeves have -dam reduction, a good stat on its own, so prime sleeves should have -dr too.
+\- mo prime sleeves have -dam reduction, a good stat on its own, so prime sleeves should have -dr too.
 
-- there are gloves of yellow rose prime mo +3hd, which are better for monks, than the 1k drachma Godhand, because they don't cap HD to benefit from +bonus hd.
+\- there are gloves of yellow rose prime mo +3hd, which are better for monks, than the 1k drachma Godhand, because they don't cap HD to benefit from +bonus hd.
 
-  That we have +2hd on mo prime sleeves, doesn't mean we can't have +3hd for a 9x40 prime slot.
+ That we have +2hd on mo prime sleeves, doesn't mean we can't have +3hd for a 9x40 prime slot.
 
-- we measure progress by 40s, there could be items or upgrades (similar to emerald gaunts) for every 40:
+\- we measure progress by 40s, there could be items or upgrades (similar to emerald gaunts) for every 40:
 
 Prime sleeves:
 
@@ -319,15 +319,15 @@ For non-prime:
 
 It also seems that +2hd for the slot as the limit seems low even for non-prime. Please tell me I'm not alone to think this.
 
-2. Adding +2hpr is pointless thanks to contemplation or +100hpr in fights.
+2\. Adding +2hpr is pointless thanks to contemplation or +100hpr in fights.
 
-If you want to add a minor stat, consider +hit, -saves/+3-4  spell bonus or +3mvr.
+If you want to add a minor stat, consider +hit, -saves/+3-4 spell bonus or +3mvr.
 
-3. So, the item stats you shared belongs to non-primes, but there could be a better prime piece.
+3\. So, the item stats you shared belongs to non-primes, but there could be a better prime piece.
 
 Please explain to me, why we can't have both: a powerful non-prime item progression and a more powerful prime eq for the same slot.
 
-4. Drachma items should have at least 2 major stat advantages over ingame eq for the slot, including prime eq. 
+4\. Drachma items should have at least 2 major stat advantages over ingame eq for the slot, including prime eq. 
 
 I'm not sure, how to combine that with prime/non prime eq: we get prime and non-prime items for the same slot/role. Then again, if we do have them, we can filter them in shops by: list prime or list nonprime, or list arms.
 
@@ -335,14 +335,14 @@ I'm not sure, how to combine that with prime/non prime eq: we get prime and non-
 
 <div class="post" data-post-id="37335" data-author="alris" data-date="2016-09-07T14:57:25+00:00" data-subject="Re: Monk Prime Arm, thought experiment">
 
-> ***juggleblood* wrote:**
+> <strong>\*juggleblood\* wrote:</strong>
 > I'd rather see a variety of available clasps for a given slot, rather than taking up the clasp slot to bring lower level equipment up.
 
-That I agree. It could be quite fun to customize item with clasps to fit your own preference. Too bad, what can be a good example of it â€“ daiphanous gown â€“  is not, with non-detachable clasp its something that requires clasp to be of use, just to be an item. Another example, works for caster classes, tanzanite over herbalist clasps(though as I understand, herabalist clasps for casters are too much better than tanzanite even for soloing). Yet, it could be intresting, to play some with clasps. For example: armor clasp versus damage or spell damage for one item, mana versus mana regen etc.
+That I agree. It could be quite fun to customize item with clasps to fit your own preference. Too bad, what can be a good example of it â€“ daiphanous gown â€“ is not, with non-detachable clasp its something that requires clasp to be of use, just to be an item. Another example, works for caster classes, tanzanite over herbalist clasps(though as I understand, herabalist clasps for casters are too much better than tanzanite even for soloing). Yet, it could be intresting, to play some with clasps. For example: armor clasp versus damage or spell damage for one item, mana versus mana regen etc.
 
 About sleeves of black ice. I am not talking about all the prime eq, only eight prime ones from autoquests. Those imho should be a bit more important due to aq origin. Unlike others, those cost drachma after all and could be sold. If not uprgrading with clasp, stats could be buffed with upgrading item itself, with level restricted autoquests, requiring at some step giving up original black ice and receiving improved ones. No?
 
-> **Teron wrote:**
+> <strong>Teron wrote:</strong>
 > Please explain to me, why we can't have both: a powerful non-prime item progression and a more powerful prime eq for the same slot.
 
 As long as there are adequate counterparts, should be all ok.
@@ -357,7 +357,7 @@ About drachma - there is also a matter to consider which item should be drachma 
 
 <div class="post" data-post-id="37336" data-author="*juggleblood*" data-date="2016-09-07T18:23:00+00:00" data-subject="Re: Monk Prime Arm, thought experiment">
 
-> **alris wrote:**
+> <strong>alris wrote:</strong>
 > so how its actually decided which top item is brought by forge and which by shop?
 
 No clue. I think Tox was last to work drachma gear.
@@ -370,73 +370,73 @@ I had tried to add something similar to what teron suggested 3-4 years ago but i
 
 Here is a link to the item stats and all of the items are actually already created...
 
-<LINK_TEXT text="https://drive.google.com/file/d/0Bxlug1 ... sp=sharing">https://drive.google.com/file/d/0Bxlug1EQ2gzNS3l3T2FyNW1zZm5BZVZzc0stX2xTcnRmLUFJ/view?usp=sharing</LINK_TEXT>
+https://drive.google.com/file/d/0Bxlug1EQ2gzNS3l3T2FyNW1zZm5BZVZzc0stX2xTcnRmLUFJ/view?usp=sharing
 
-71580 7259   0  sword brilliant valor autoquest 2x40
+71580 7259 0 sword brilliant valor autoquest 2x40
 
- 71581 7260   0  sword brilliant valor autoquest 3x40
+ 71581 7260 0 sword brilliant valor autoquest 3x40
 
- 71582 7261   0  sword brilliant valor autoquest 4x40
+ 71582 7261 0 sword brilliant valor autoquest 4x40
 
- 71583 7262   0  sword brilliant valor autoquest 5x40
+ 71583 7262 0 sword brilliant valor autoquest 5x40
 
- 71584 7263   0  sword brilliant valor autoquest 6x40
+ 71584 7263 0 sword brilliant valor autoquest 6x40
 
- 71585 7264   0  sword brilliant valor autoquest 7x40
+ 71585 7264 0 sword brilliant valor autoquest 7x40
 
- 71586 7265   0  sword brilliant valor autoquest 8x40
+ 71586 7265 0 sword brilliant valor autoquest 8x40
 
- 71587 7266   0  sword brilliant valor autoquest 9x40
+ 71587 7266 0 sword brilliant valor autoquest 9x40
 
- 71588 7267   0  leggings silk crystalline autoquest 2x40
+ 71588 7267 0 leggings silk crystalline autoquest 2x40
 
- 71589 7268   0  leggings silk crystalline autoquest 3x40
+ 71589 7268 0 leggings silk crystalline autoquest 3x40
 
- 71590 7269   0  leggings silk crystalline autoquest 4x40
+ 71590 7269 0 leggings silk crystalline autoquest 4x40
 
- 71591 7270   0  leggings silk crystalline autoquest 5x40
+ 71591 7270 0 leggings silk crystalline autoquest 5x40
 
- 71592 7271   0  leggings silk crystalline autoquest 6x40
+ 71592 7271 0 leggings silk crystalline autoquest 6x40
 
- 71593 7272   0  leggings silk crystalline autoquest 7x40
+ 71593 7272 0 leggings silk crystalline autoquest 7x40
 
- 71594 7273   0  leggings silk crystalline autoquest 8x40
+ 71594 7273 0 leggings silk crystalline autoquest 8x40
 
- 71595 7274   0  leggings silk crystalline autoquest 9x40
+ 71595 7274 0 leggings silk crystalline autoquest 9x40
 
- 71596 7275   0  sleeves molten lava autoquest 2x40
+ 71596 7275 0 sleeves molten lava autoquest 2x40
 
- 71597 7276   0  sleeves molten lava autoquest 3x40
+ 71597 7276 0 sleeves molten lava autoquest 3x40
 
- 71598 7277   0  sleeves molten lava autoquest 4x40
+ 71598 7277 0 sleeves molten lava autoquest 4x40
 
- 71599 7278   0  sleeves molten lava autoquest 5x40
+ 71599 7278 0 sleeves molten lava autoquest 5x40
 
- 71600 7279   0  sleeves molten lava autoquest 6x40
+ 71600 7279 0 sleeves molten lava autoquest 6x40
 
-*** Press return ***
+\*\*\* Press return \*\*\*
 
- 71601 7280   0  sleeves molten lava autoquest 7x40
+ 71601 7280 0 sleeves molten lava autoquest 7x40
 
- 71602 7281   0  sleeves molten lava autoquest 8x40
+ 71602 7281 0 sleeves molten lava autoquest 8x40
 
- 71603 7282   0  sleeves molten lava autoquest 9x40
+ 71603 7282 0 sleeves molten lava autoquest 9x40
 
- 71604 7283   0  orb magical enhancement autoquest 2x40
+ 71604 7283 0 orb magical enhancement autoquest 2x40
 
- 71605 7284   0  orb magical enhancement autoquest 3x40
+ 71605 7284 0 orb magical enhancement autoquest 3x40
 
- 71606 7285   0  orb magical enhancement autoquest 4x40
+ 71606 7285 0 orb magical enhancement autoquest 4x40
 
- 71607 7286   0  orb magical enhancement autoquest 5x40
+ 71607 7286 0 orb magical enhancement autoquest 5x40
 
- 71608 7287   0  orb magical enhancement autoquest 6x40
+ 71608 7287 0 orb magical enhancement autoquest 6x40
 
- 71609 7288   0  orb magical enhancement autoquest 7x40
+ 71609 7288 0 orb magical enhancement autoquest 7x40
 
- 71610 7289   0  orb magical enhancement autoquest 8x40
+ 71610 7289 0 orb magical enhancement autoquest 8x40
 
- 71611 7290   0  orb magical enhancement autoquest 9x40
+ 71611 7290 0 orb magical enhancement autoquest 9x40
 
 etc etc etc
 
@@ -454,15 +454,15 @@ Splork, where exactly did it get complicated?
 
 To sort out some "basic" values of stats... You need to simulate battles using these variables...
 
-* Number of Rounds to Kill simulated Mob
+\* Number of Rounds to Kill simulated Mob
 
-* Avg Dam taken by Tank Per Round
+\* Avg Dam taken by Tank Per Round
 
-* Average Number of Player Attacks
+\* Average Number of Player Attacks
 
-* Number of Stabs Thief Lands
+\* Number of Stabs Thief Lands
 
-* Total Combat Time in Seconds
+\* Total Combat Time in Seconds
 
 I simulated a battle based on 15 rounds, tank taking 250hp's per round and the thief landing 2 stabs... 
 
@@ -488,15 +488,15 @@ Hp Regen - 4x less valuable than a 1ma regen. (Class dependent value)
 
 1 Dam Reduct - 2x more valuable than 5ma
 
-Value of Saves -> Spell, Breath, Para, Petri (NOTE: Spell Saves is incredibly valuable but difficult to simulate)
+Value of Saves -\> Spell, Breath, Para, Petri (NOTE: Spell Saves is incredibly valuable but difficult to simulate)
 
 Stat Points - STR/DEX/CON/INT/WIS Arguably of equal value.
 
-Max Stat_Points - Arguably double stat point value, however some MAX_STATS are more valuable than others.
+Max Stat\_Points - Arguably double stat point value, however some MAX\_STATS are more valuable than others.
 
 Perm Spells - Need to crunch mana cost, benefit vs time duration.
 
---------------------------------------------------
+\--------------------------------------------------
 
 Now... the difficult comparison between Damage and Mana Regen....
 
@@ -504,9 +504,9 @@ The combat time of my simulation was over a minute, which meant 1ma regen had le
 
 Originally I stated that all stats could be worked back to mana cost in order to calculate a fair price. But on second thoughts, I think it would be better to calculate them back to the base which is either "dam inflicted" or "mana" depending on what the stat is, then set a value for "dam" or "mana" and multiply them out based on their values. In some cases I think shop prices are fine, or more a less correct... other times I feel they are completely outside a margin of error which I think is acceptable. The values don't all have to be different, you could set up groups, like the the tiers in gems... that works more a less ok.
 
-You could cross check your results with common sense... the most expensive stats should be... DAM, HAND_DAM, SPELL_SAVES, MANA_REGEN, MAX_DEX etc
+You could cross check your results with common sense... the most expensive stats should be... DAM, HAND\_DAM, SPELL\_SAVES, MANA\_REGEN, MAX\_DEX etc
 
-SPELL_SAVES is potentially the same value as DAM and HAND_DAM damage multipliers.
+SPELL\_SAVES is potentially the same value as DAM and HAND\_DAM damage multipliers.
 
 </div>
 
@@ -516,7 +516,7 @@ Simulating battle is somewhat lacking approach. Too much of details too easy to 
 
 Imho calculating stat worth, or finding algorithm for it is very unlikely. So far its one at a time approach for every equipment slot, with finding breaks in items stat progression, figuring what equals what. I remember earlier on s3 we did simple things like finding how much 1 dex is worth ac wise, or comparing how much mr usually cost in mana points for different equipment parts.
 
-Yet sorting drachma shop out has to be done someday, question is how. We could go for "10 most desirable items for <insert my prime class> " polls, but seeing how much people involved in this discussion, it would probably fail. Maybe its possible to run search on player base and get statistics on what items were bought? That might give incentive to check ones never bought. As for seeing if some of ingame forges/drops should be made drachma, I am all for it, but i doubt imm team would go for it. Like turning ars magica(and i bet ars magica is still one over the top item, leaving all other mr and mana lows far behind) from in game to drachma item might be logical, but doesn't seem likely.
+Yet sorting drachma shop out has to be done someday, question is how. We could go for "10 most desirable items for \<insert my prime class\> " polls, but seeing how much people involved in this discussion, it would probably fail. Maybe its possible to run search on player base and get statistics on what items were bought? That might give incentive to check ones never bought. As for seeing if some of ingame forges/drops should be made drachma, I am all for it, but i doubt imm team would go for it. Like turning ars magica(and i bet ars magica is still one over the top item, leaving all other mr and mana lows far behind) from in game to drachma item might be logical, but doesn't seem likely.
 
 It seems that discussion is a bit derailed, is it ok?
 
@@ -554,18 +554,18 @@ Non-prime drachma
 
 Incidentally, the stats for non-prime drachma and prime ingame eq are the same, so they could be the same item, except given to monks for a quest forge. The quest can be prime, with the personal reward.
 
-P.S. Alris, please break your new posts in smaller paragraphs, separated by empty lines. Thanks :)
+P.S. Alris, please break your new posts in smaller paragraphs, separated by empty lines. Thanks <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="37343" data-author="alris" data-date="2016-09-08T20:15:25+00:00" data-subject="Re: Monk Prime Arm, thought experiment">
 
-> **Gorka wrote:**
+> <strong>Gorka wrote:</strong>
 > We haven't even discussed issues with TEMP eq either...
 
 Whats an issue with temp eq aside from it being vastly under-powered?
 
-> **Teron wrote:**
+> <strong>Teron wrote:</strong>
 > P.S. Alris, please break your new posts in smaller paragraphs, separated by empty lines
 
 translate: you talk too much!
@@ -578,7 +578,7 @@ Something forge/autoquest for prime and same thing bought with drachma for non-p
 
 <div class="post" data-post-id="37344" data-author="*juggleblood*" data-date="2016-09-08T20:43:58+00:00" data-subject="Re: Monk Prime Arm, thought experiment">
 
-> **alris wrote:**
+> <strong>alris wrote:</strong>
 > That brings a question, what is a main purpose of drachma shops and drachma equipment?
 
 Yup. I can't think of any principle to apply that would make sense. One thought I had is that perhaps elite damage gear that helps in splorking mobs (1 round kill) could be more heavily represented in the drachma eq, i.e. dam, spell dam, and hand dam. That's kind of how it already is for monk I think, yah?
@@ -593,7 +593,7 @@ I would consider buying item similar to one existing in the game if its within c
 
 On other hand items which are one of a kind and heavily overpower ingame eq, could and should cost 500 or 1000+ drachma. Wasn't there some +3 hand damage shield in the shop? And I mean things like extra damage or 1-2 handdamage, not measly .1 ac difference from in the game item (some thief or monk might bring numbers saying that in the end 1dam or hand dam is not very huge difference, but trust me, -13.1 is very small difference from -13.0 on ac).
 
-> ***juggleblood* wrote:**
+> <strong>\*juggleblood\* wrote:</strong>
 > One thought I had is that perhaps elite damage gear that helps in splorking mobs (1 round kill) could be more heavily represented in the drachma eq, i.e. dam, spell dam, and hand dam. That's kind of how it already is for monk I think, yah?
 
 Seems damage reduction and mvreg are not much worth much as indepentant stats, but could be good sidekick addtions too.
@@ -636,7 +636,7 @@ You can calculate how much hps you lose for every -0.1ac, there's a formula for 
 
 Also, in case you haven't noticed, there's ingame eq that allows us to get better stats and we are already discussing linear progression of eq 3x40-9x40 that can be forged, not just for drachma.
 
-Upgrades can be forged/bought for drachma too, I don't see any difference between forging/buying better item in a shop and buying/forging an upgrade that *you* need.
+Upgrades can be forged/bought for drachma too, I don't see any difference between forging/buying better item in a shop and buying/forging an upgrade that \*you\* need.
 
 Of course, there need to be a few limits, but it works out nicely. Maybe I'll write it up later.
 

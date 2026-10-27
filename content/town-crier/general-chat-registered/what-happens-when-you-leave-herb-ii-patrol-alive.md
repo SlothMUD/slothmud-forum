@@ -24,7 +24,7 @@ This trip is rudely interrupted as you are spat out the other side.
 
 Spiral Steps in the Mud
 
-Exits: South  West  
+Exits: South West 
 
 AN OPEN PORTAL IS HERE!
 
@@ -72,25 +72,25 @@ A drider legionary standard bearer glows with a bright light!
 
 A kobold fisherman is here fishing in his boat.
 
-<1151hp 47ma 147mv> 10696788777 792366 - -12.5 +2 raining+0 0 +0
+\<1151hp 47ma 147mv\> 10696788777 792366 - -12.5 +2 raining+0 0 +0
 
 The 'greater fluidity' spell on you is about to wear off.
 
-<1157hp 51ma 149mv> 10696788777 792366 - -12.5 +2 raining+0 0 +0
+\<1157hp 51ma 149mv\> 10696788777 792366 - -12.5 +2 raining+0 0 +0
 
 Dr has materialized here.
 
-<1157hp 51ma 149mv> 10696788777 792366 - -12.5 +2 raining+0 0 +0
+\<1157hp 51ma 149mv\> 10696788777 792366 - -12.5 +2 raining+0 0 +0
 
-Dr splits 1 coins.  Your share is 0 coins.
+Dr splits 1 coins. Your share is 0 coins.
 
-<1158hp 52ma 150mv> 10696788777 792366 - -12.5 +2 raining+0 0 +0
+\<1158hp 52ma 150mv\> 10696788777 792366 - -12.5 +2 raining+0 0 +0
 
 A drider archer impales himself on thorns round Dr!
 
 A drider archer brutally massacres Dr with his pierce.
 
-<1158hp 52ma 150mv> 10696788777 792366 - -12.5 +2 raining+0 0 +0
+\<1158hp 52ma 150mv\> 10696788777 792366 - -12.5 +2 raining+0 0 +0
 
 sca
 
@@ -102,13 +102,13 @@ A drider legionary standard bearer impales himself on thorns round Dr!
 
 A drider legionary standard bearer looks shocked as he cuts himself on Dr's petrified armor!
 
-<1158hp 52ma 150mv> 10696788777 792366 - -12.5 +2 raining+0 0 +0
+\<1158hp 52ma 150mv\> 10696788777 792366 - -12.5 +2 raining+0 0 +0
 
 You can't see so well hidden like this, but you do your best...
 
 You peer intently all around, and see:
 
-                            Dr : right here
+ Dr : right here
 
 a drider legionary standard bearer : right here
 
@@ -118,75 +118,75 @@ a drider legionary standard bearer : right here
 
 a drider legionary standard bearer : right here
 
-              a drow legionary : right here
+ a drow legionary : right here
 
-               a drider archer : right here
-
-a drider legionary standard bearer : right here
+ a drider archer : right here
 
 a drider legionary standard bearer : right here
 
 a drider legionary standard bearer : right here
 
-         a handmaiden of Lolth : right here
+a drider legionary standard bearer : right here
 
-              a drow legionary : right here
+ a handmaiden of Lolth : right here
+
+ a drow legionary : right here
 
 a drider legionary standard bearer : right here
 
-            a kobold fisherman : right here
+ a kobold fisherman : right here
 
-              a drow legionary : immediately to the west
+ a drow legionary : immediately to the west
 
-                a drow warlock : immediately to the west
+ a drow warlock : immediately to the west
 
-               a drider archer : immediately to the west
+ a drider archer : immediately to the west
 
-                a drow warlock : immediately to the west
+ a drow warlock : immediately to the west
 
-              a drow legionary : immediately to the west
+ a drow legionary : immediately to the west
 
-              a drider captain : immediately to the west
+ a drider captain : immediately to the west
 
-               a drider archer : immediately to the west
+ a drider archer : immediately to the west
 
 a drider legionary standard bearer : immediately to the west
 
-                a drow warlock : immediately to the west
+ a drow warlock : immediately to the west
 
-              a drow legionary : immediately to the west
+ a drow legionary : immediately to the west
 
-              a drow legionary : immediately to the west
+ a drow legionary : immediately to the west
 
-              a drider captain : immediately to the west
+ a drider captain : immediately to the west
 
 a drider legionary standard bearer : immediately to the west
 
-  a black-furred razor lemming : immediately to the west
+ a black-furred razor lemming : immediately to the west
 
-<1160hp 53ma 151mv> 10696788777 792366 - -12.5 +2 raining+0 0 +0
+\<1160hp 53ma 151mv\> 10696788777 792366 - -12.5 +2 raining+0 0 +0
 
 A drider legionary standard bearer leaps out of the shadows and attacks Dr!
 
 A drider legionary standard bearer looks shocked as he cuts himself on Dr's petrified armor!
 
-<1160hp 53ma 151mv> 10696788777 792366 - -12.5 +2 raining+0 0 +0
+\<1160hp 53ma 151mv\> 10696788777 792366 - -12.5 +2 raining+0 0 +0
 
 A drider legionary standard bearer leaps out of the shadows and attacks Dr!
 
 A drider legionary standard bearer impales himself on thorns round Dr!
 
-<1161hp 54ma 152mv> 10696788777 792366 - -12.5 +2 raining+0 0 +0
+\<1161hp 54ma 152mv\> 10696788777 792366 - -12.5 +2 raining+0 0 +0
 
 You are unable to maintain the tumbling defense, and pause to catch your breath.
 
 tumbling
 
-<1162hp 55ma 152mv> 10696788777 792366 - -12.5 +2 raining+0 0 +0
+\<1162hp 55ma 152mv\> 10696788777 792366 - -12.5 +2 raining+0 0 +0
 
 A drider legionary standard bearer leaps out of the shadows and attacks Dr!
 
-<1162hp 55ma 152mv> 10696788777 792366 - -12.5 +2 raining+0 0 +0
+\<1162hp 55ma 152mv\> 10696788777 792366 - -12.5 +2 raining+0 0 +0
 
 A drider legionary standard bearer leaps out of the shadows and attacks Dr!
 
@@ -194,7 +194,7 @@ You begin a rapid series of tumbling and evasive maneuvers.
 
 there were 0 tumbles at 2 in 1595.
 
-<1162hp 55ma 117mv> 10696788777 792366 - -12.5 +2 raining+0 0 +0
+\<1162hp 55ma 117mv\> 10696788777 792366 - -12.5 +2 raining+0 0 +0
 
 A drider legionary standard bearer leaps out of the shadows and attacks Dr!
 
@@ -202,7 +202,7 @@ A drider legionary standard bearer impales himself on thorns round Dr!
 
 Dr raises his hands to the sky and rapidly turns into a small nervous tree (Dr)!
 
-<1164hp 56ma 118mv> 10696788777 792366 - -12.5 +2 raining+0 0 +0
+\<1164hp 56ma 118mv\> 10696788777 792366 - -12.5 +2 raining+0 0 +0
 
 gt tree
 
@@ -236,7 +236,7 @@ A drider captain misses you with his cleave.
 
 A drow legionary misses you with his slash.
 
-<1166hp 56ma 119mv> 10696788777 792366 100 -12.5 +2 raining+0 0 +0
+\<1166hp 56ma 119mv\> 10696788777 792366 100 -12.5 +2 raining+0 0 +0
 
 You skillfully parry the attack of a drider archer.
 
@@ -244,15 +244,15 @@ A drider archer hates your guts!
 
 Your riposte viciously massacres a drider archer.
 
-<1166hp 56ma 119mv> 10696789372 792366 100 -12.5 +2 rainingA drider legionary standard bearer jumps about three feet in the air.
+\<1166hp 56ma 119mv\> 10696789372 792366 100 -12.5 +2 rainingA drider legionary standard bearer jumps about three feet in the air.
 
 You grouptell: 'tree'
 
-<1166hp 56ma 119mv> 10696789372 792366 100 -12.5 +2 raining+595 14 +0
+\<1166hp 56ma 119mv\> 10696789372 792366 100 -12.5 +2 raining+595 14 +0
 
 A drider legionary standard bearer says 'What is that voice?'
 
-<1168hp 57ma 119mv> 10696789372 792366 100 -12.5 +2 raining+0 0 +0
+\<1168hp 57ma 119mv\> 10696789372 792366 100 -12.5 +2 raining+0 0 +0
 
 A drider legionary standard bearer leaps out of the shadows and attacks Dr!
 
@@ -260,7 +260,7 @@ A drider legionary standard bearer brutally massacres Dr with his slash.
 
 A drider legionary standard bearer leaps out of the shadows and attacks Dr!
 
-<1171hp 59ma 106mv> 10696789372 792366 83 -12.5 +2 raining+0 0 +0
+\<1171hp 59ma 106mv\> 10696789372 792366 83 -12.5 +2 raining+0 0 +0
 
 You skillfully parry the attack of a drow legionary.
 
@@ -268,7 +268,7 @@ A drow legionary hates your guts!
 
 Your riposte viciously massacres a drow legionary.
 
-<1173hp 60ma 107mv> 10696789627 792366 83 -12.5 +2 raining+255 6 +0
+\<1173hp 60ma 107mv\> 10696789627 792366 83 -12.5 +2 raining+255 6 +0
 
 You skillfully parry the attack of a drow legionary.
 
@@ -276,7 +276,7 @@ A drow legionary hates your guts!
 
 Your riposte viciously massacres a drow legionary.
 
-<1173hp 60ma 107mv> 10696791582 792366 83 -12.5 +2 rainingDr whips a drider legionary standard bearer hard.
+\<1173hp 60ma 107mv\> 10696791582 792366 83 -12.5 +2 rainingDr whips a drider legionary standard bearer hard.
 
 Dr whips a drider legionary standard bearer very hard.
 
@@ -334,7 +334,7 @@ Your riposte viciously massacres a drider archer.
 
 A drider archer misses you with his pierce.
 
-<1069hp 61ma 107mv> 10697761386 792366 - -12.5 +3 raining+0 0 +0
+\<1069hp 61ma 107mv\> 10697761386 792366 - -12.5 +3 raining+0 0 +0
 
 You've got a great feeling about this fight!
 
@@ -342,11 +342,11 @@ Your tumbling partially deflects the oncoming blow!
 
 A drider archer misses you with his pierce.
 
-<1128hp 61ma 107mv> 10697761386 792366 99 -12.5 +3 raining+0 0 +0
+\<1128hp 61ma 107mv\> 10697761386 792366 99 -12.5 +3 raining+0 0 +0
 
 No way! You are fighting for your life!
 
-<1128hp 61ma 107mv> 10697761386 792366 99 -12.5 +3 rainingA drider legionary standard bearer arrives from the west.
+\<1128hp 61ma 107mv\> 10697761386 792366 99 -12.5 +3 rainingA drider legionary standard bearer arrives from the west.
 
 A drider captain arrives from the west.
 
@@ -366,27 +366,27 @@ A drow warlock arrives from the west.
 
 A drider archer misses you with his pierce.
 
-<1130hp 62ma 108mv> 10697761386 792366 99 -12.5 +3 raining+0 0 +0
+\<1130hp 62ma 108mv\> 10697761386 792366 99 -12.5 +3 raining+0 0 +0
 
 A drider captain misses you with his cleave.
 
-<1130hp 62ma 108mv> 10697761386 792366 99 -12.5 +3 raining+0 0 +0
+\<1130hp 62ma 108mv\> 10697761386 792366 99 -12.5 +3 raining+0 0 +0
 
-|
+\|
 
 A drider archer misses you with his pierce.
 
-<1134hp 64ma 109mv> 10697761386 792366 99 -12.5 +3 raining+0 0 +0
+\<1134hp 64ma 109mv\> 10697761386 792366 99 -12.5 +3 raining+0 0 +0
 
 gt wth
 
 A drow legionary misses you with his slash.
 
-<1134hp 64ma 109mv> 10697761386 792366 99 -12.5 +3 raining+0 0 +0
+\<1134hp 64ma 109mv\> 10697761386 792366 99 -12.5 +3 raining+0 0 +0
 
 A drow legionary's slash bounces off your heavy armor.
 
-<1134hp 64ma 109mv> 10697761386 792366 99 -12.5 +3 rainingDr whips a drider legionary standard bearer very hard.
+\<1134hp 64ma 109mv\> 10697761386 792366 99 -12.5 +3 rainingDr whips a drider legionary standard bearer very hard.
 
 Dr whips a drider legionary standard bearer very hard.
 
@@ -488,45 +488,45 @@ You viciously massacre a drider archer with your slash.
 
 You massacre a drider archer to small fragments with your slash.
 
-<819hp 65ma 110mv> 10697780649 792366 69 -12.5 +3 raining+19263 481 +0
+\<819hp 65ma 110mv\> 10697780649 792366 69 -12.5 +3 raining+19263 481 +0
 
 You skillfully parry the attack of a drider archer.
 
 You grouptell: 'wth'
 
-<819hp 65ma 110mv> 10697780649 792366 69 -12.5 +3 rainingA drow legionary misses you with his slash.
+\<819hp 65ma 110mv\> 10697780649 792366 69 -12.5 +3 rainingA drow legionary misses you with his slash.
 
-<819hp 65ma 110mv> 10697780649 792366 69 -12.5 +3 raining+0 0 +0
+\<819hp 65ma 110mv\> 10697780649 792366 69 -12.5 +3 raining+0 0 +0
 
 A drider legionary standard bearer leaps out of the shadows and attacks Dr!
 
-<819hp 65ma 110mv> 10697780649 792366 69 -12.5 +3 rainingA drider legionary standard bearer leaps out of the shadows and attacks Dr!
+\<819hp 65ma 110mv\> 10697780649 792366 69 -12.5 +3 rainingA drider legionary standard bearer leaps out of the shadows and attacks Dr!
 
 A drider legionary standard bearer impales himself on thorns round Dr!
 
-<821hp 66ma 111mv> 10697780649 792366 69 -12.5 +3 raining+0 0 +0
+\<821hp 66ma 111mv\> 10697780649 792366 69 -12.5 +3 raining+0 0 +0
 
-| 
+\| 
 
-|
+\|
 
 defy
 
 Arglebargle, glop-glyf!?!
 
-<821hp 66ma 111mv> 10697780649 792366 69 -12.5 +3 raining+0 0 +0
+\<821hp 66ma 111mv\> 10697780649 792366 69 -12.5 +3 raining+0 0 +0
 
 Your body quickly tightens, as you no longer feel any pain.
 
-<823hp 67ma 82mv> 10697780649 792366 69 -12.5 +3 raining+0 0 +0
+\<823hp 67ma 82mv\> 10697780649 792366 69 -12.5 +3 raining+0 0 +0
 
 tree small nervous Dr -- 'almost got'
 
-<823hp 67ma 82mv> 10697780649 792366 69 -12.5 +3 rainingA drow legionary misses you with his slash.
+\<823hp 67ma 82mv\> 10697780649 792366 69 -12.5 +3 rainingA drow legionary misses you with his slash.
 
 You skillfully parry the attack of a drider captain.
 
-<823hp 67ma 82mv> 10697780649 792366 69 -12.5 +3 raining+0 0 +0
+\<823hp 67ma 82mv\> 10697780649 792366 69 -12.5 +3 raining+0 0 +0
 
 Dr gets a dwarvish recall scroll from magical dwarvish scroll bag.
 
@@ -534,7 +534,7 @@ Dr recites a dwarvish recall scroll.
 
 Dr disappears.
 
-<823hp 67ma 82mv> 10697780649 792366 69 -12.5 +3 rainingA drider archer looks shocked as he cuts himself on your petrified armor!
+\<823hp 67ma 82mv\> 10697780649 792366 69 -12.5 +3 rainingA drider archer looks shocked as he cuts himself on your petrified armor!
 
 A drider archer hates your guts!
 
@@ -542,7 +542,7 @@ You skillfully parry the attack of a drider archer.
 
 Your riposte viciously massacres a drider archer.
 
-<826hp 67ma 82mv> 10697784726 792366 69 -12.5 +3 raining+4077 101 +0
+\<826hp 67ma 82mv\> 10697784726 792366 69 -12.5 +3 raining+4077 101 +0
 
 A drow legionary misses you with his slash.
 
@@ -652,21 +652,21 @@ You brutally massacre a drider archer with your slash.
 
 You brutally massacre a drider archer with your slash.
 
-<828hp 68ma 83mv> 10697793222 792366 56 -12.5 +3 raining+8496 212 +0
+\<828hp 68ma 83mv\> 10697793222 792366 56 -12.5 +3 raining+8496 212 +0
 
 A drider captain misses you with his cleave.
 
-<830hp 69ma 84mv> 10697793222 792366 56 -12.5 +3 raining+0 0 +0
+\<830hp 69ma 84mv\> 10697793222 792366 56 -12.5 +3 raining+0 0 +0
 
 sing 'cry of the avatars'
 
 A drow legionary misses you with his slash.
 
-<830hp 69ma 84mv> 10697793222 792366 56 -12.5 +3 raining+0 0 +0
+\<830hp 69ma 84mv\> 10697793222 792366 56 -12.5 +3 raining+0 0 +0
 
 Dr -- 'raped'
 
-<830hp 69ma 84mv> 10697793222 792366 56 -12.5 +3 rainingYou quickly sing a verse of 'cry of the avatars'.
+\<830hp 69ma 84mv\> 10697793222 792366 56 -12.5 +3 rainingYou quickly sing a verse of 'cry of the avatars'.
 
 Ok.
 
@@ -696,7 +696,7 @@ A drider legionary standard bearer hates your guts!
 
 A drider legionary standard bearer cringes.
 
-<833hp 38ma 85mv> 10697820884 792366 56 -12.5 +3 raining+27662 691 +0
+\<833hp 38ma 85mv\> 10697820884 792366 56 -12.5 +3 raining+27662 691 +0
 
 A drider legionary standard bearer leaps out of the shadows and attacks you!
 
@@ -706,13 +706,13 @@ A drider legionary standard bearer leaps out of the shadows and attacks you!
 
 A drider legionary standard bearer misses you with his slash.
 
-<833hp 38ma 85mv> 10697820884 792366 56 -12.5 +3 raining+0 0 +0
+\<833hp 38ma 85mv\> 10697820884 792366 56 -12.5 +3 raining+0 0 +0
 
 A drider legionary standard bearer leaps out of the shadows and attacks you!
 
 A drider legionary standard bearer misses you with his slash.
 
-<834hp 39ma 85mv> 10697820884 792366 56 -12.5 +3 raining+0 0 +0
+\<834hp 39ma 85mv\> 10697820884 792366 56 -12.5 +3 raining+0 0 +0
 
 sing 'cry of the avatars'
 
@@ -724,7 +724,7 @@ A drider legionary standard bearer hates your guts!
 
 Your riposte viciously massacres a drider legionary standard bearer.
 
-<836hp 40ma 86mv> 10697822134 792366 56 -12.5 +3 raining+1250 31 +0
+\<836hp 40ma 86mv\> 10697822134 792366 56 -12.5 +3 raining+1250 31 +0
 
 A drider legionary standard bearer arrives from the west.
 
@@ -974,7 +974,7 @@ A drider legionary standard bearer hates your guts!
 
 A drider legionary standard bearer cringes.
 
-<838hp 9ma 87mv> 10697899319 792366 34 -12.5 +3 raining+77185 1929 +0
+\<838hp 9ma 87mv\> 10697899319 792366 34 -12.5 +3 raining+77185 1929 +0
 
 A drider legionary standard bearer leaps out of the shadows and attacks you!
 
@@ -988,9 +988,9 @@ A drider legionary standard bearer leaps out of the shadows and attacks you!
 
 A drider legionary standard bearer misses you with his slash.
 
-<838hp 9ma 87mv> 10697901519 792366 34 -12.5 +3 raining+2200 55 +0
+\<838hp 9ma 87mv\> 10697901519 792366 34 -12.5 +3 raining+2200 55 +0
 
-|
+\|
 
 A drider legionary standard bearer leaps out of the shadows and attacks you!
 
@@ -1002,7 +1002,7 @@ Your riposte viciously massacres a drider legionary standard bearer.
 
 A drow legionary misses you with his slash.
 
-<841hp 10ma 87mv> 10697903569 792366 34 -12.5 +3 raining+2050 51 +0
+\<841hp 10ma 87mv\> 10697903569 792366 34 -12.5 +3 raining+2050 51 +0
 
 recite recall
 
@@ -1010,7 +1010,7 @@ A drider legionary standard bearer leaps out of the shadows and attacks you!
 
 A drider legionary standard bearer misses you with his slash.
 
-<843hp 11ma 88mv> 10697903569 792366 34 -12.5 +3 raining+0 0 +0
+\<843hp 11ma 88mv\> 10697903569 792366 34 -12.5 +3 raining+0 0 +0
 
 You skillfully parry the attack of a drow legionary.
 
@@ -1022,23 +1022,23 @@ You recite a major scroll of recall which dissolves.
 
 The Wide Gate
 
-   This is the northern gate of Aisholm, a small human settlement in the
+ This is the northern gate of Aisholm, a small human settlement in the
 
-frozen continent of Thule.  A set of wide double gates opens in the wall,
+frozen continent of Thule. A set of wide double gates opens in the wall,
 
-and there is a building to the south.  The street is unpaved, its loosely
+and there is a building to the south. The street is unpaved, its loosely
 
-packed clay as naked as when the humans first arrived to Thule.  The whole
+packed clay as naked as when the humans first arrived to Thule. The whole
 
-town must turn into a mudhole when the snow melts.  A high walkway runs
+town must turn into a mudhole when the snow melts. A high walkway runs
 
 the length of the stockade.
 
-Exits: North  East  [South]  West  
+Exits: North East [South] West 
 
 In one corner is a small vial filled with a jet black liquid.
 
-Dr ~Dragonsworn~ is standing here.(Faint Red Aura) 
+Dr \~Dragonsworn\~ is standing here.(Faint Red Aura) 
 
 Dr has a steady green aura.
 
@@ -1048,7 +1048,7 @@ A frost giantess is guarding the gate.
 
 A frost giant is guarding the gate.
 
-<845hp 12ma 89mv> 10697908244 792366 - -12.5 +3 raining+4675 116 +0
+\<845hp 12ma 89mv\> 10697908244 792366 - -12.5 +3 raining+4675 116 +0
 
 gt what the duck
 
@@ -1058,12 +1058,12 @@ You grouptell: 'what the duck'
 
 <div class="post" data-post-id="37044" data-author="Josiah" data-date="2016-07-12T14:34:43+00:00" data-subject="Re: What happens when you leave Herb II patrol alive">
 
-> **Quote:**
+> <strong>Quote:</strong>
 > Here's an account of what really happens:
 
-You get attacked by a dozen mobs at the same time, which deal no appreciable damage, but spam you hard enough that you get scared and recall? :)
+You get attacked by a dozen mobs at the same time, which deal no appreciable damage, but spam you hard enough that you get scared and recall? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-Next time just second wind a couple firestorms.  Or tell your dr to shapeshift into something more powerful than a tree!
+Next time just second wind a couple firestorms. Or tell your dr to shapeshift into something more powerful than a tree!
 
 </div>
 

@@ -14,7 +14,7 @@ post_count: 15
 
 Avatar Shop buysâ€¦
 
-I think the reason a lot of avatars quit or get bored at av40 is because thereâ€™s no room for growth, at least anything very signifigant.  I was very disappointed that heal and spell can only be increased by 25, and thatâ€™s with a ton of work.  If you think about it, +25 heal isnâ€™t a lot.  Thatâ€™s not even a cure normal.  I was hoping to see at least +40 that I could buy, but even then that seems a little weak.  I would think that once you get av40, and with a lot of hard work, you could really start becoming powerful.
+I think the reason a lot of avatars quit or get bored at av40 is because thereâ€™s no room for growth, at least anything very signifigant. I was very disappointed that heal and spell can only be increased by 25, and thatâ€™s with a ton of work. If you think about it, +25 heal isnâ€™t a lot. Thatâ€™s not even a cure normal. I was hoping to see at least +40 that I could buy, but even then that seems a little weak. I would think that once you get av40, and with a lot of hard work, you could really start becoming powerful.
 
 Iâ€™ve created a list of items that I think could improve gameplay at avatar levels for the avatar shop.
 
@@ -34,7 +34,7 @@ Iâ€™ve created a list of items that I think could improve gameplay at avata
 
 <div class="post" data-post-id="34476" data-author="Magi" data-date="2013-10-09T15:47:03+00:00" data-subject="Re: Avatar Shop">
 
-To be fair... most people quit or get bored before av 40 :)
+To be fair... most people quit or get bored before av 40 <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -46,7 +46,7 @@ from what i have seen players get overwhelmed with the "to next lvl" xps and dri
 
 <div class="post" data-post-id="34478" data-author="Tuck" data-date="2013-10-10T19:38:30+00:00" data-subject="Re: Avatar Shop">
 
-> **Toxis wrote:**
+> <strong>Toxis wrote:</strong>
 > 1: Healbonus and spell buy cap at 50
 > 
 > 2: Buy hp cap at 200
@@ -119,10 +119,10 @@ breeze
 
 <div class="post" data-post-id="34483" data-author="Burl" data-date="2013-10-11T18:22:53+00:00" data-subject="Re: Avatar Shop">
 
-> **Quote:**
+> <strong>Quote:</strong>
 > As for the cost, I will talk to Juggleblood and see what he thinks of my alternative to paying gold.
 
-Sounds like Breeze is thinking first born child or something   :lol:
+Sounds like Breeze is thinking first born child or something <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -144,7 +144,7 @@ Thanks in advance.
 
 <div class="post" data-post-id="34486" data-author="Tuck" data-date="2013-10-11T19:58:33+00:00" data-subject="Re: Avatar Shop">
 
-Splork, please say something. We puny mortals need your attention :)
+Splork, please say something. We puny mortals need your attention <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -158,19 +158,19 @@ thanks
 
 <div class="post" data-post-id="34494" data-author="*Breeze*" data-date="2013-10-14T20:47:24+00:00" data-subject="Re: Avatar Shop">
 
-avatar shop does not take caps into account.  
+avatar shop does not take caps into account. 
 
 it most likely never will unless i get a bug to rewrite major parts of it.
 
-we cant do _everything_ for ya..
+we cant do \_everything\_ for ya..
 
 </div>
 
 <div class="post" data-post-id="34495" data-author="Tuck" data-date="2013-10-15T18:49:47+00:00" data-subject="Re: Avatar Shop">
 
-> ***Breeze* wrote:**
-> we cant do _everything_ for ya..
+> <strong>\*Breeze\* wrote:</strong>
+> we cant do \_everything\_ for ya..
 
- 8) *pet*
+ <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> \*pet\*
 
 </div>

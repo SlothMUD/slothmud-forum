@@ -24,9 +24,9 @@ T
 
 <div class="post" data-post-id="29952" data-author="Jag" data-date="2009-09-01T13:14:24+00:00" data-subject="">
 
-I don't like registering for things and putting in my email but I gave it a try.  
+I don't like registering for things and putting in my email but I gave it a try. 
 
-They offer a privacy option that will keep your name and email private.  And it really was easy to sign up.  Lets do it.
+They offer a privacy option that will keep your name and email private. And it really was easy to sign up. Lets do it.
 
 </div>
 
@@ -38,7 +38,8 @@ They won't accept free email services like hotmail.
 
 <div class="post" data-post-id="29954" data-author="Thraxas" data-date="2009-09-01T15:16:31+00:00" data-subject="">
 
-[quote:291kbqne]They won't accept free email services like hotmail.[/quote:291kbqne]
+> <strong>Quote:</strong>
+> They won't accept free email services like hotmail.
 
 seems that a few have found this issue.
 
@@ -50,28 +51,25 @@ what a palava this is ...
 
 for interest
 
-[quote:291kbqne]
-
-1. Dark and Shattered Lands (DSL)  view stats  13  
-
-2. New Worlds  view stats  10  
-
-3. Threshold RPG  view stats  10  
-
-4. Geas  view stats  7  
-
-5. Mordor  view stats  6  
-
-6. Aardwolf  view stats  6  
-
-7. SlothMUD  view stats  5  
-
-8. DragonBall: Infinity  view stats  4  
-
-9. BatMUD  view stats  4  
-
-10. Dragon Swords  view stats  4  
-
-[/quote:291kbqne]
+> <strong>Quote:</strong>
+> 1\. Dark and Shattered Lands (DSL) view stats 13 
+> 
+> 2\. New Worlds view stats 10 
+> 
+> 3\. Threshold RPG view stats 10 
+> 
+> 4\. Geas view stats 7 
+> 
+> 5\. Mordor view stats 6 
+> 
+> 6\. Aardwolf view stats 6 
+> 
+> 7\. SlothMUD view stats 5 
+> 
+> 8\. DragonBall: Infinity view stats 4 
+> 
+> 9\. BatMUD view stats 4 
+> 
+> 10\. Dragon Swords view stats 4
 
 </div>

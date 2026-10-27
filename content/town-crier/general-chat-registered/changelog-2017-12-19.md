@@ -14,13 +14,13 @@ post_count: 23
 
 Tomorrow's reboot will have the following:
 
-- Fix for restrung items in the post office
+\- Fix for restrung items in the post office
 
-- Change in algorithm for how spell books show up in shops.  I've deleted all the bugs filed for "xxx book shows wrong restricts in shop" so if you see more of these, start filing them again.
+\- Change in algorithm for how spell books show up in shops. I've deleted all the bugs filed for "xxx book shows wrong restricts in shop" so if you see more of these, start filing them again.
 
-- Cool down timer for "reading"/astrology so you can tell when you can use it again.
+\- Cool down timer for "reading"/astrology so you can tell when you can use it again.
 
-- Teleportation due to convocation or summon spells interrupts studying/teaching/etc.
+\- Teleportation due to convocation or summon spells interrupts studying/teaching/etc.
 
 Outside the code I fixed the ticket sellers in BH so that Wendy shows both Lyme boats and Lars shows none.
 
@@ -32,15 +32,15 @@ Teker, is there something you can do about the avatar shop perma sanct not worki
 
 There is a couple of frustrations with the way it works at the moment...
 
-1) Some areas are unrunnable without darkcloak... mystica caverns, rlyeh, den of thieve to name a few.
+1\) Some areas are unrunnable without darkcloak... mystica caverns, rlyeh, den of thieve to name a few.
 
-2) Some of us preparing for rebirth can't stomach the thought of 75ma sanct again, esp low ma regen types.
+2\) Some of us preparing for rebirth can't stomach the thought of 75ma sanct again, esp low ma regen types.
 
 </div>
 
 <div class="post" data-post-id="38546" data-author="*Breeze*" data-date="2017-12-19T10:20:53+00:00" data-subject="Re: Changelog 2017-12-19">
 
-> **Gorka wrote:**
+> <strong>Gorka wrote:</strong>
 > Teker, is there something you can do about the avatar shop perma sanct not working with darkcloak? The thing we would like to see was dark cloak working with this but on a normal spell timer for 8 mins. (The length of a regular aegis) 
 > 
 > 
@@ -49,9 +49,9 @@ There is a couple of frustrations with the way it works at the moment...
 > 
 > 
 > 
-> 1) Some areas are unrunnable without darkcloak... mystica caverns, rlyeh, den of thieve to name a few.
+> 1\) Some areas are unrunnable without darkcloak... mystica caverns, rlyeh, den of thieve to name a few.
 > 
-> 2) Some of us preparing for rebirth can't stomach the thought of 75ma sanct again, esp low ma regen types.
+> 2\) Some of us preparing for rebirth can't stomach the thought of 75ma sanct again, esp low ma regen types.
 
 yes there is something that can be done, but it was done that way on purpose.
 
@@ -65,7 +65,7 @@ but only after we (he, splork, I) talk about it.
 
 <div class="post" data-post-id="38551" data-author="*teker*" data-date="2017-12-21T16:30:41+00:00" data-subject="Re: Changelog 2017-12-19">
 
-What does it do now?  The cloak just not work?
+What does it do now? The cloak just not work?
 
 </div>
 
@@ -73,9 +73,9 @@ What does it do now?  The cloak just not work?
 
 I don't actually know what happens when you cast dark cloak when you are "Avatar Glowing" you'd have to ask Cyprimus exactly, I just know it doesn't work.
 
-Nearly every avatar I know, except Cyprimus (and I think I saw Surfnazi glowing the other day), will not buy because  it's not compatible with dark cloak. There is probably 10-20 avatars that would buy if it's changed. It would probably stand to be the greatest change to the game since eqset.
+Nearly every avatar I know, except Cyprimus (and I think I saw Surfnazi glowing the other day), will not buy because it's not compatible with dark cloak. There is probably 10-20 avatars that would buy if it's changed. It would probably stand to be the greatest change to the game since eqset.
 
-Either it could be changed to work on a timer with dark cloak (prefered solution) or we would need to toggle the avatar glowing on and off so we could do regular aegis with dark cloak. Basically without dark cloak there simply  is no solution and it's worthless to players, which seems to directly contradict the reason for providing it in the first place. I think there is a logical basis for the change, that's just my opinion.
+Either it could be changed to work on a timer with dark cloak (prefered solution) or we would need to toggle the avatar glowing on and off so we could do regular aegis with dark cloak. Basically without dark cloak there simply is no solution and it's worthless to players, which seems to directly contradict the reason for providing it in the first place. I think there is a logical basis for the change, that's just my opinion.
 
 EDIT: I just asked surfnazi and he says the message is the "Nothing seems to Happen" message. Apparently God lite and potions can override the perm sanct so they can get dark cloak then. 
 
@@ -85,17 +85,17 @@ Seriously though Teker, of all the little gripes about the game, this one has a 
 
 <div class="post" data-post-id="38553" data-author="*teker*" data-date="2017-12-21T18:43:20+00:00" data-subject="Re: Changelog 2017-12-19">
 
-I took a look at the code and I understand why it's not working.  Started immortal discussions... stay tuned.
+I took a look at the code and I understand why it's not working. Started immortal discussions... stay tuned.
 
 </div>
 
 <div class="post" data-post-id="38554" data-author="*Splork*" data-date="2017-12-22T03:23:22+00:00" data-subject="Re: Changelog 2017-12-19">
 
-Its an easy fix and one which was debated time and time again for two decades. Balance used to be an issue and is why the current code is the way it is. Balance is no longer an issue here. I am fine with the change, not that anyone needs my approval :mrgreen: 
+Its an easy fix and one which was debated time and time again for two decades. Balance used to be an issue and is why the current code is the way it is. Balance is no longer an issue here. I am fine with the change, not that anyone needs my approval <img src="/images/smilies/icon_mrgreen.svg" alt=":mrgreen:" title=":mrgreen:" width="15" height="15" class="smiley nozoom"> 
 
 Who doesn't love playing a game where the players are the only things ever gaining power? 
 
-Heck, even I am enjoying the game these days :P 
+Heck, even I am enjoying the game these days <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom"> 
 
 Next year's code:
 
@@ -103,15 +103,15 @@ settings
 
 Verbosity:
 
-   BRIEF:                  off
+ BRIEF: off
 
-   COMPACT:             off
+ COMPACT: off
 
-   PROMPT_CR:         off
+ PROMPT\_CR: off
 
-   CONCISE:              off
+ CONCISE: off
 
-   CAN CORPSE:        off
+ CAN CORPSE: off
 
 </div>
 
@@ -135,15 +135,15 @@ I should have saved 50b by the end of the day, will this change go ahead in the 
 
 <div class="post" data-post-id="38566" data-author="Gorka" data-date="2017-12-27T14:31:47+00:00" data-subject="Re: Changelog 2017-12-19">
 
-So I just brought Pema Sanct, please don't leave me in the lurch on this, as 5+ areas have just become difficult for me to run.  :) 
+So I just brought Pema Sanct, please don't leave me in the lurch on this, as 5+ areas have just become difficult for me to run. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> 
 
-First thing I noticed... other than not being able to cast dark cloak is that it does not appear in my msdp.AFFECTS? Whats your plan for msdp.AFFECTS Teker? Retirement in favour of msdp.CHARACTER_AFFECTS?
+First thing I noticed... other than not being able to cast dark cloak is that it does not appear in my msdp.AFFECTS? Whats your plan for msdp.AFFECTS Teker? Retirement in favour of msdp.CHARACTER\_AFFECTS?
 
 </div>
 
 <div class="post" data-post-id="38567" data-author="*teker*" data-date="2017-12-27T14:58:45+00:00" data-subject="Re: Changelog 2017-12-19">
 
-You should not have bought it.  It does not look like it will be fixed.  If you want a refund let me know.
+You should not have bought it. It does not look like it will be fixed. If you want a refund let me know.
 
 Yes, my plan for MSDP is to retire most of the older values in favor of the newer structures.
 
@@ -157,7 +157,7 @@ I've had a lot of questions about avatar perm sanct, because about 10 people wer
 
 Does it get dispelled in the coliseum? No
 
-Where does it appear in msdp? Only in CHARACTER_AFFECTS
+Where does it appear in msdp? Only in CHARACTER\_AFFECTS
 
 Whats the message when you dark cloak? Nothing seems to happen.
 
@@ -165,7 +165,7 @@ Can you use a dark cloak potion from an honor mob? No
 
 What happens with God lites? You get aegis and dark cloak for 49mins.
 
-What areas can't be run well without dark cloak? The main one is Den of Thieves. Mystica, ET, Crypt, Rlyeh are also effected but other strategies can be employed such as shape shifting. Shape shifting will get you killed in Den of Thieves. Basically the "over powerment" players would enjoy by being able to dark cloak there perm aegis for 8mins (at the cost of there own mana as usual) is running crappy den of thieves.  :lol: 
+What areas can't be run well without dark cloak? The main one is Den of Thieves. Mystica, ET, Crypt, Rlyeh are also effected but other strategies can be employed such as shape shifting. Shape shifting will get you killed in Den of Thieves. Basically the "over powerment" players would enjoy by being able to dark cloak there perm aegis for 8mins (at the cost of there own mana as usual) is running crappy den of thieves. <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> 
 
 Is not being effective in some areas due to lack of dark cloak, worth having perm sanct? In my opinion it probably is.
 
@@ -197,95 +197,93 @@ But appreciate my position for a second...
 
 Search Criteria
 
-File name:        *                                                     
+File name: \* 
 
-Containing text:  "A rat-like beast is dead"                            
+Containing text: "A rat-like beast is dead" 
 
-Look in:          C:\Users\Anonymous\.config\mudlet\profiles\Slothmud\log\  
+Look in: C:\\Users\\Anonymous\\.config\\mudlet\\profiles\\Slothmud\\log\\ 
 
 Search Statistics
 
-Found:     34 items (401.35 MB)  
+Found: 34 items (401.35 MB) 
 
-Text:      651 hits              
+Text: 651 hits 
 
-Searched:  621 items (2.81 GB)   
+Searched: 621 items (2.81 GB) 
 
-Checked:   621 items (2.81 GB)   
+Checked: 621 items (2.81 GB) 
 
-Status:    Completed (23 secs)   
+Status: Completed (23 secs) 
 
-Name                    Location                                             Modified               Size      Type          Hits 
+Name Location Modified Size Type Hits 
 
-                                                                                                                                 
+01-12-2017#05-43-57.txt C:\\Users\\Anonymous\\.config\\mudlet\\profiles\\Slothmud\\log\\ 2/12/2017 12:16:04 AM 14,025 KB Text Document 15 
 
-01-12-2017#05-43-57.txt C:\Users\Anonymous\.config\mudlet\profiles\Slothmud\log\ 2/12/2017 12:16:04 AM  14,025 KB Text Document 15   
+02-12-2017#08-29-54.txt C:\\Users\\Anonymous\\.config\\mudlet\\profiles\\Slothmud\\log\\ 3/12/2017 2:22:57 AM 11,124 KB Text Document 21 
 
-02-12-2017#08-29-54.txt C:\Users\Anonymous\.config\mudlet\profiles\Slothmud\log\ 3/12/2017 2:22:57 AM   11,124 KB Text Document 21   
+03-11-2017#05-53-05.txt C:\\Users\\Anonymous\\.config\\mudlet\\profiles\\Slothmud\\log\\ 4/11/2017 12:34:18 AM 10,159 KB Text Document 7 
 
-03-11-2017#05-53-05.txt C:\Users\Anonymous\.config\mudlet\profiles\Slothmud\log\ 4/11/2017 12:34:18 AM  10,159 KB Text Document 7    
+04-11-2017#07-36-19.txt C:\\Users\\Anonymous\\.config\\mudlet\\profiles\\Slothmud\\log\\ 5/11/2017 12:27:40 AM 8,251 KB Text Document 1 
 
-04-11-2017#07-36-19.txt C:\Users\Anonymous\.config\mudlet\profiles\Slothmud\log\ 5/11/2017 12:27:40 AM  8,251 KB  Text Document 1    
+04-10-2017#06-57-53.txt C:\\Users\\Anonymous\\.config\\mudlet\\profiles\\Slothmud\\log\\ 4/10/2017 11:29:01 PM 12,501 KB Text Document 8 
 
-04-10-2017#06-57-53.txt C:\Users\Anonymous\.config\mudlet\profiles\Slothmud\log\ 4/10/2017 11:29:01 PM  12,501 KB Text Document 8    
+04-12-2017#05-01-07.txt C:\\Users\\Anonymous\\.config\\mudlet\\profiles\\Slothmud\\log\\ 4/12/2017 9:33:44 PM 12,340 KB Text Document 8 
 
-04-12-2017#05-01-07.txt C:\Users\Anonymous\.config\mudlet\profiles\Slothmud\log\ 4/12/2017 9:33:44 PM   12,340 KB Text Document 8    
+04-12-2017#21-33-49.txt C:\\Users\\Anonymous\\.config\\mudlet\\profiles\\Slothmud\\log\\ 6/12/2017 12:26:11 AM 15,719 KB Text Document 36 
 
-04-12-2017#21-33-49.txt C:\Users\Anonymous\.config\mudlet\profiles\Slothmud\log\ 6/12/2017 12:26:11 AM  15,719 KB Text Document 36   
+05-11-2017#05-25-30.txt C:\\Users\\Anonymous\\.config\\mudlet\\profiles\\Slothmud\\log\\ 6/11/2017 12:33:14 AM 9,805 KB Text Document 9 
 
-05-11-2017#05-25-30.txt C:\Users\Anonymous\.config\mudlet\profiles\Slothmud\log\ 6/11/2017 12:33:14 AM  9,805 KB  Text Document 9    
+06-12-2017#04-08-51.txt C:\\Users\\Anonymous\\.config\\mudlet\\profiles\\Slothmud\\log\\ 7/12/2017 12:44:25 AM 15,047 KB Text Document 17 
 
-06-12-2017#04-08-51.txt C:\Users\Anonymous\.config\mudlet\profiles\Slothmud\log\ 7/12/2017 12:44:25 AM  15,047 KB Text Document 17   
+08-01-2017#19-22-12.txt C:\\Users\\Anonymous\\.config\\mudlet\\profiles\\Slothmud\\log\\ 8/01/2017 11:09:49 PM 3,183 KB Text Document 14 
 
-08-01-2017#19-22-12.txt C:\Users\Anonymous\.config\mudlet\profiles\Slothmud\log\ 8/01/2017 11:09:49 PM  3,183 KB  Text Document 14   
+07-11-2017#06-58-44.txt C:\\Users\\Anonymous\\.config\\mudlet\\profiles\\Slothmud\\log\\ 7/11/2017 11:20:16 PM 9,047 KB Text Document 10 
 
-07-11-2017#06-58-44.txt C:\Users\Anonymous\.config\mudlet\profiles\Slothmud\log\ 7/11/2017 11:20:16 PM  9,047 KB  Text Document 10   
+08-11-2017#13-40-15.txt C:\\Users\\Anonymous\\.config\\mudlet\\profiles\\Slothmud\\log\\ 9/11/2017 12:54:51 AM 4,596 KB Text Document 9 
 
-08-11-2017#13-40-15.txt C:\Users\Anonymous\.config\mudlet\profiles\Slothmud\log\ 9/11/2017 12:54:51 AM  4,596 KB  Text Document 9    
+08-11-2017#03-34-22.txt C:\\Users\\Anonymous\\.config\\mudlet\\profiles\\Slothmud\\log\\ 8/11/2017 1:39:33 PM 6,613 KB Text Document 16 
 
-08-11-2017#03-34-22.txt C:\Users\Anonymous\.config\mudlet\profiles\Slothmud\log\ 8/11/2017 1:39:33 PM   6,613 KB  Text Document 16   
+08-12-2017#04-47-50.txt C:\\Users\\Anonymous\\.config\\mudlet\\profiles\\Slothmud\\log\\ 9/12/2017 12:28:27 AM 13,945 KB Text Document 16 
 
-08-12-2017#04-47-50.txt C:\Users\Anonymous\.config\mudlet\profiles\Slothmud\log\ 9/12/2017 12:28:27 AM  13,945 KB Text Document 16   
+09-11-2017#05-24-30.txt C:\\Users\\Anonymous\\.config\\mudlet\\profiles\\Slothmud\\log\\ 10/11/2017 12:14:30 AM 7,427 KB Text Document 11 
 
-09-11-2017#05-24-30.txt C:\Users\Anonymous\.config\mudlet\profiles\Slothmud\log\ 10/11/2017 12:14:30 AM 7,427 KB  Text Document 11   
+09-12-2017#04-20-50.txt C:\\Users\\Anonymous\\.config\\mudlet\\profiles\\Slothmud\\log\\ 10/12/2017 12:05:04 AM 16,124 KB Text Document 16 
 
-09-12-2017#04-20-50.txt C:\Users\Anonymous\.config\mudlet\profiles\Slothmud\log\ 10/12/2017 12:05:04 AM 16,124 KB Text Document 16   
+15-12-2017#08-25-49.txt C:\\Users\\Anonymous\\.config\\mudlet\\profiles\\Slothmud\\log\\ 16/12/2017 12:03:46 AM 9,773 KB Text Document 1 
 
-15-12-2017#08-25-49.txt C:\Users\Anonymous\.config\mudlet\profiles\Slothmud\log\ 16/12/2017 12:03:46 AM 9,773 KB  Text Document 1    
+16-12-2017#06-23-03.txt C:\\Users\\Anonymous\\.config\\mudlet\\profiles\\Slothmud\\log\\ 17/12/2017 1:47:17 AM 12,972 KB Text Document 22 
 
-16-12-2017#06-23-03.txt C:\Users\Anonymous\.config\mudlet\profiles\Slothmud\log\ 17/12/2017 1:47:17 AM  12,972 KB Text Document 22   
+21-12-2017#04-15-40.txt C:\\Users\\Anonymous\\.config\\mudlet\\profiles\\Slothmud\\log\\ 21/12/2017 11:21:42 PM 11,942 KB Text Document 5 
 
-21-12-2017#04-15-40.txt C:\Users\Anonymous\.config\mudlet\profiles\Slothmud\log\ 21/12/2017 11:21:42 PM 11,942 KB Text Document 5    
+22-12-2017#05-55-05.txt C:\\Users\\Anonymous\\.config\\mudlet\\profiles\\Slothmud\\log\\ 22/12/2017 11:42:15 PM 12,849 KB Text Document 32 
 
-22-12-2017#05-55-05.txt C:\Users\Anonymous\.config\mudlet\profiles\Slothmud\log\ 22/12/2017 11:42:15 PM 12,849 KB Text Document 32   
+23-12-2017#07-45-17.txt C:\\Users\\Anonymous\\.config\\mudlet\\profiles\\Slothmud\\log\\ 23/12/2017 11:43:04 PM 9,833 KB Text Document 1 
 
-23-12-2017#07-45-17.txt C:\Users\Anonymous\.config\mudlet\profiles\Slothmud\log\ 23/12/2017 11:43:04 PM 9,833 KB  Text Document 1    
+23-11-2017#05-17-58.txt C:\\Users\\Anonymous\\.config\\mudlet\\profiles\\Slothmud\\log\\ 23/11/2017 11:36:35 PM 13,493 KB Text Document 24 
 
-23-11-2017#05-17-58.txt C:\Users\Anonymous\.config\mudlet\profiles\Slothmud\log\ 23/11/2017 11:36:35 PM 13,493 KB Text Document 24   
+24-11-2017#06-48-34.txt C:\\Users\\Anonymous\\.config\\mudlet\\profiles\\Slothmud\\log\\ 25/11/2017 1:33:36 AM 13,354 KB Text Document 40 
 
-24-11-2017#06-48-34.txt C:\Users\Anonymous\.config\mudlet\profiles\Slothmud\log\ 25/11/2017 1:33:36 AM  13,354 KB Text Document 40   
+24-12-2017#04-27-58.txt C:\\Users\\Anonymous\\.config\\mudlet\\profiles\\Slothmud\\log\\ 25/12/2017 12:05:05 AM 14,926 KB Text Document 8 
 
-24-12-2017#04-27-58.txt C:\Users\Anonymous\.config\mudlet\profiles\Slothmud\log\ 25/12/2017 12:05:05 AM 14,926 KB Text Document 8    
+25-11-2017#07-21-01.txt C:\\Users\\Anonymous\\.config\\mudlet\\profiles\\Slothmud\\log\\ 26/11/2017 12:39:35 AM 12,338 KB Text Document 27 
 
-25-11-2017#07-21-01.txt C:\Users\Anonymous\.config\mudlet\profiles\Slothmud\log\ 26/11/2017 12:39:35 AM 12,338 KB Text Document 27   
+26-11-2017#07-14-17.txt C:\\Users\\Anonymous\\.config\\mudlet\\profiles\\Slothmud\\log\\ 27/11/2017 12:07:01 AM 10,467 KB Text Document 98 
 
-26-11-2017#07-14-17.txt C:\Users\Anonymous\.config\mudlet\profiles\Slothmud\log\ 27/11/2017 12:07:01 AM 10,467 KB Text Document 98   
+25-12-2017#04-02-00.txt C:\\Users\\Anonymous\\.config\\mudlet\\profiles\\Slothmud\\log\\ 26/12/2017 11:20:19 PM 34,044 KB Text Document 16 
 
-25-12-2017#04-02-00.txt C:\Users\Anonymous\.config\mudlet\profiles\Slothmud\log\ 26/12/2017 11:20:19 PM 34,044 KB Text Document 16   
+27-11-2017#05-06-26.txt C:\\Users\\Anonymous\\.config\\mudlet\\profiles\\Slothmud\\log\\ 28/11/2017 12:00:37 AM 9,939 KB Text Document 48 
 
-27-11-2017#05-06-26.txt C:\Users\Anonymous\.config\mudlet\profiles\Slothmud\log\ 28/11/2017 12:00:37 AM 9,939 KB  Text Document 48   
+27-09-2017#06-50-37.txt C:\\Users\\Anonymous\\.config\\mudlet\\profiles\\Slothmud\\log\\ 27/09/2017 11:11:12 PM 12,492 KB Text Document 8 
 
-27-09-2017#06-50-37.txt C:\Users\Anonymous\.config\mudlet\profiles\Slothmud\log\ 27/09/2017 11:11:12 PM 12,492 KB Text Document 8    
+27-12-2017#02-04-09.txt C:\\Users\\Anonymous\\.config\\mudlet\\profiles\\Slothmud\\log\\ 28/12/2017 12:51:52 AM 18,478 KB Text Document 9 
 
-27-12-2017#02-04-09.txt C:\Users\Anonymous\.config\mudlet\profiles\Slothmud\log\ 28/12/2017 12:51:52 AM 18,478 KB Text Document 9    
+28-11-2017#05-50-55.txt C:\\Users\\Anonymous\\.config\\mudlet\\profiles\\Slothmud\\log\\ 29/11/2017 12:26:37 AM 11,451 KB Text Document 48 
 
-28-11-2017#05-50-55.txt C:\Users\Anonymous\.config\mudlet\profiles\Slothmud\log\ 29/11/2017 12:26:37 AM 11,451 KB Text Document 48   
+29-10-2017#06-55-52.txt C:\\Users\\Anonymous\\.config\\mudlet\\profiles\\Slothmud\\log\\ 30/10/2017 12:02:04 AM 10,618 KB Text Document 8 
 
-29-10-2017#06-55-52.txt C:\Users\Anonymous\.config\mudlet\profiles\Slothmud\log\ 30/10/2017 12:02:04 AM 10,618 KB Text Document 8    
+29-11-2017#06-52-54.txt C:\\Users\\Anonymous\\.config\\mudlet\\profiles\\Slothmud\\log\\ 30/11/2017 12:41:46 AM 12,100 KB Text Document 11 
 
-29-11-2017#06-52-54.txt C:\Users\Anonymous\.config\mudlet\profiles\Slothmud\log\ 30/11/2017 12:41:46 AM 12,100 KB Text Document 11   
-
-30-11-2017#06-35-52.txt C:\Users\Anonymous\.config\mudlet\profiles\Slothmud\log\ 30/11/2017 11:55:00 PM 10,022 KB Text Document 31   
+30-11-2017#06-35-52.txt C:\\Users\\Anonymous\\.config\\mudlet\\profiles\\Slothmud\\log\\ 30/11/2017 11:55:00 PM 10,022 KB Text Document 31 
 
 Report generated by Agent Ransack on 29/12/2017 8:26:49 AM
 
@@ -297,13 +295,13 @@ Screwed Over
 
 <div class="post" data-post-id="38572" data-author="*Breeze*" data-date="2017-12-29T16:24:57+00:00" data-subject="Re: Changelog 2017-12-19">
 
-just fyi, the poprate is not that bad.  there are worse.
+just fyi, the poprate is not that bad. there are worse.
 
 its poprate is somewhere between the eternal flame AQ pop and she shadow pauldrons
 
 i just checked and i know exactly why your are having issues.
 
-> **Gorka wrote:**
+> <strong>Gorka wrote:</strong>
 > In regards to the assassins in Den of Thieves, allow me to speculate... but I think the reason they kill ferrets is probably not by design, but poor coding.
 
 that area was in way before there was shapeshift, 
@@ -318,17 +316,17 @@ wont attack shifted players (for future use by the builders)
 
 if they were to request it.
 
-_however_, reading the proc notes,
+\_however\_, reading the proc notes,
 
 ```
 ..snip.. 
 
-upon meeting the shadow_chance percentage, "ambush" the player.  It will
+upon meeting the shadow_chance percentage, "ambush" the player. It will
 keep trying to "ambush" any living player until there are no living
-players left in its zone.  It ignores immortals.
+players left in its zone. It ignores immortals.
 
 The ambusher can either use shadowwalk (to make it instantaneous) or
-hunt.  The default is shadowwalk.  
+hunt. The default is shadowwalk. 
 
 .. snip .. 
 
@@ -339,13 +337,13 @@ it is set to hunt, so whomever coded it, intended players to die..
 
 besides, where is the fun in shapeshifting and just walking through DoT?
 
-:)
+<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="38573" data-author="Gorka" data-date="2017-12-29T17:39:48+00:00" data-subject="Re: Changelog 2017-12-19">
 
-Well it's easy solved then Breeze, make me immortal.  :lol: Or gimme a way to dark cloak...  :twisted:
+Well it's easy solved then Breeze, make me immortal. <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> Or gimme a way to dark cloak... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -369,17 +367,17 @@ Dark cloaking w/ avatar permasanct should be in the code at next reboot.
 
 Also:
 
-- added weather variables in MSDP under CHARACTER_LOCATION if outside.
+\- added weather variables in MSDP under CHARACTER\_LOCATION if outside.
 
-- fixed some issues with clan invites and multi-word clan names
+\- fixed some issues with clan invites and multi-word clan names
 
-- another fix for spellbooks in shops
+\- another fix for spellbooks in shops
 
-- aegis spell now defaults to self if no target specified
+\- aegis spell now defaults to self if no target specified
 
-- some of you already spotted that decaying items show message when sleeping (like dark mace)
+\- some of you already spotted that decaying items show message when sleeping (like dark mace)
 
-- fixed avatar level information is MSDP under CHARACTER_ACHIEVEMENTS
+\- fixed avatar level information is MSDP under CHARACTER\_ACHIEVEMENTS
 
 </div>
 
@@ -397,7 +395,7 @@ The gem/rune/nicked thing isn't a bug..
 
 however the sidhe still being there is, sort of.
 
-The 2 crashes were due to me trusting the mudl manual when it said it was safe to destroy a mob/obj when its script was doing certain things.  
+The 2 crashes were due to me trusting the mudl manual when it said it was safe to destroy a mob/obj when its script was doing certain things. 
 
 Specifically I was fixing the firebird which afaik no one tested yet.
 

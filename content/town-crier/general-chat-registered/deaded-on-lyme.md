@@ -24,13 +24,13 @@ thanks for CR Agemo.
 
 <div class="post" data-post-id="25298" data-author="jezer" data-date="2008-07-08T04:57:08+00:00" data-subject="">
 
-[img:3uv3kw4z]http://farm1.static.flickr.com/47/131925088_bb79b305e1.jpg[/img:3uv3kw4z]
+![](http://farm1.static.flickr.com/47/131925088_bb79b305e1.jpg)
 
 </div>
 
 <div class="post" data-post-id="25299" data-author="Weasel" data-date="2008-07-08T05:17:15+00:00" data-subject="">
 
-( O)(O )   OMIGOD!    .. I CAN'T WATCH!   (><)(><)
+( O)(O ) OMIGOD! .. I CAN'T WATCH! (\>\<)(\>\<)
 
 </div>
 
@@ -38,21 +38,24 @@ thanks for CR Agemo.
 
 relax weezie...it's just an opossum who rolled a crit fail on feign death and made it all the way dead.
 
-"the hospitality in this country is as warm as the weather." -azeem --> robin hood prince of thieves
+"the hospitality in this country is as warm as the weather." -azeem --\> robin hood prince of thieves
 
 </div>
 
 <div class="post" data-post-id="25308" data-author="Mosaix" data-date="2008-07-08T16:34:43+00:00" data-subject="">
 
-Nods relax and no worries about the possum.  The possum was using ICQ.
+Nods relax and no worries about the possum. The possum was using ICQ.
 
 </div>
 
 <div class="post" data-post-id="25309" data-author="brady" data-date="2008-07-08T20:14:55+00:00" data-subject="">
 
-relax weezie...it's just an opossum who rolled a crit fail on feign death and made it all the way dead.
-
-"the hospitality in this country is as warm as the weather." -azeem --> robin hood prince of thieves[/quote:37l8vhbh]
+> <strong>firebrand wrote:</strong>
+> relax weezie...it's just an opossum who rolled a crit fail on feign death and made it all the way dead.
+> 
+> 
+> 
+> "the hospitality in this country is as warm as the weather." -azeem --\> robin hood prince of thieves
 
 Someone is rollin' on suttin.
 
@@ -60,7 +63,7 @@ Someone is rollin' on suttin.
 
 <div class="post" data-post-id="25312" data-author="jezer" data-date="2008-07-08T23:36:55+00:00" data-subject="">
 
-Possum? I'm afraid I dropped out of my squashed animal recognition class at school but I found that google image searching dead weasel. Where I come from... we wouldn't call that a possum, We'd call that dinner.  :twisted:
+Possum? I'm afraid I dropped out of my squashed animal recognition class at school but I found that google image searching dead weasel. Where I come from... we wouldn't call that a possum, We'd call that dinner. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -68,7 +71,7 @@ Possum? I'm afraid I dropped out of my squashed animal recognition class at scho
 
 Roadkill cafe!!!
 
-[url:3tc0cw1r]http://www.route66seligmanarizona.com/The_Roadkill_Cafe.php[/url:3tc0cw1r]
+http://www.route66seligmanarizona.com/The_Roadkill_Cafe.php
 
 </div>
 
@@ -80,7 +83,7 @@ Need help.. R'Lyeh - recalled Virus but I'm dead west of sentry gugs - got jumpe
 
 <div class="post" data-post-id="25678" data-author="Weasel" data-date="2008-08-08T02:41:58+00:00" data-subject="">
 
-thanks for the CR and looted eq retrieval. :)
+thanks for the CR and looted eq retrieval. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -104,7 +107,7 @@ would you believe dead at the entrance to skeep?
 
 <div class="post" data-post-id="25727" data-author="brady" data-date="2008-08-12T20:18:12+00:00" data-subject="">
 
-Push em all together, in regen, no light, blizzard, RIP.  Yeah, I've done that.   :wink:
+Push em all together, in regen, no light, blizzard, RIP. Yeah, I've done that. <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -120,7 +123,7 @@ help
 
 <div class="post" data-post-id="27200" data-author="Weasel" data-date="2008-11-16T05:41:50+00:00" data-subject="">
 
-.[/color:1fkeqhx7]
+.
 
 </div>
 
@@ -128,7 +131,8 @@ help
 
 banedon:
 
-[quote:m75gkdhq] i was gripping a buffalo[/quote:m75gkdhq]
+> <strong>Quote:</strong>
+> i was gripping a buffalo
 
 probably should have quoted this under random comments...
 

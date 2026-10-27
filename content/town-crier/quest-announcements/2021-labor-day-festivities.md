@@ -18,13 +18,13 @@ There will be a Quest for Labor Day on exactly 10am Pacific time on Saturday 9/4
 
 Countdown timer is below:
 
-[<LINK_TEXT text="https://www.tickcounter.com/countdown/2 ... -day-quest">https://www.tickcounter.com/countdown/2720224/2021-slothmud-labor-day-quest</LINK_TEXT>](https://www.tickcounter.com/countdown/2720224/2021-slothmud-labor-day-quest)
+[https://www.tickcounter.com/countdown/2720224/2021-slothmud-labor-day-quest](https://www.tickcounter.com/countdown/2720224/2021-slothmud-labor-day-quest)
 
 I will devise..something
 
 See u there
 
---D
+\--D
 
 </div>
 
@@ -32,6 +32,6 @@ See u there
 
 Thank you, folks. That one kept us busy for quite awhile. And I believe everyone got to die at least once! The bonus runes certainly caused a stir!
 
-:)
+<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

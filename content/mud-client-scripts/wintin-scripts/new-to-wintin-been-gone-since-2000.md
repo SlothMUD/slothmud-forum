@@ -12,9 +12,9 @@ post_count: 5
 
 <div class="post" data-post-id="16498" data-author="Kewl" data-date="2007-01-24T08:55:31+00:00" data-subject="New to wintin(been gone since 2000)">
 
-ok a few people have tried helping me out learning the new wintin( prev i used was wintin 1.73). so alot has changed.  i think you guys have nice fancy scripts, but i am trying to learn the basic by making a simple backstabber for myself.
+ok a few people have tried helping me out learning the new wintin( prev i used was wintin 1.73). so alot has changed. i think you guys have nice fancy scripts, but i am trying to learn the basic by making a simple backstabber for myself.
 
-if somebody don't mind posting a simple script on how to set it up, that would be great, i just want barebones setting up the variable and have an alias such as 'bst' to backstaqb the target.  just learning the ropes so i don't need the extra mumbo jumbo in there. thank you.
+if somebody don't mind posting a simple script on how to set it up, that would be great, i just want barebones setting up the variable and have an alias such as 'bst' to backstaqb the target. just learning the ropes so i don't need the extra mumbo jumbo in there. thank you.
 
 </div>
 
@@ -22,13 +22,13 @@ if somebody don't mind posting a simple script on how to set it up, that would b
 
 a simple script that Iuseto set a target and backstab target.
 
-#alias {tar} {#var target %1}
+\#alias {tar} {#var target %1}
 
-#alias {bst} {backstab $target}
+\#alias {bst} {backstab $target}
 
 If you want an autostabber on follow use
 
-#ac {You follow %1} {bst}
+\#ac {You follow %1} {bst}
 
 I believe that is the correct follow string.
 
@@ -40,7 +40,7 @@ Good luck and welcome back.
 
 <div class="post" data-post-id="16506" data-author="Kewl" data-date="2007-01-24T16:30:27+00:00" data-subject="">
 
-thanks, for some reason yesterday wintin was crashing because i used $ instead of % etc and revered it haha.. thanks though :)
+thanks, for some reason yesterday wintin was crashing because i used $ instead of % etc and revered it haha.. thanks though <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

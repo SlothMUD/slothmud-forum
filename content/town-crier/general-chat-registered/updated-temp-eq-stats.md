@@ -16,7 +16,7 @@ Hi all,
 
 Here are the updated stats for some temp EQ. Please add to this thread if you find more updated temp gear. Thanks to Splork/imms for the changes; it'll be interesting in combination with our new extra.
 
-**ring of replenishing**
+<strong>ring of replenishing</strong>
 
 Object 'ring replenishing', Item type: ARMOR
 
@@ -28,15 +28,15 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: REGEN_MANA by 6
+ Affects: REGEN\_MANA by 6
 
-    Affects: MANA by 10
+ Affects: MANA by 10
 
 Only those who have attained supremacy in at least three classes may use
 
 this item.
 
-**a polished bluish-green ring**
+<strong>a polished bluish-green ring</strong>
 
 Object 'ring polished blue green', Item type: ARMOR
 
@@ -48,15 +48,15 @@ AC-apply is -0.5
 
 Can affect you as:
 
-    Affects: HITPOINT by 20
+ Affects: HITPOINT by 20
 
-    Affects: REGEN_HP by 5
+ Affects: REGEN\_HP by 5
 
 Only those who have attained supremacy in at least three classes may use
 
 this item.
 
-**carborundum plate**
+<strong>carborundum plate</strong>
 
 Object 'plate carborundum', Item type: ARMOR
 
@@ -68,15 +68,15 @@ AC-apply is -2.6
 
 Can affect you as:
 
-    Affects: HITPOINT by 25
+ Affects: HITPOINT by 25
 
-    Affects: MAX_CON by 1
+ Affects: MAX\_CON by 1
 
 Only those who have attained supremacy in at least three classes may use
 
 this item.
 
-**a large blue pearl**
+<strong>a large blue pearl</strong>
 
 Object 'pearl blue glowing cp', Item type: LIGHT
 
@@ -86,13 +86,13 @@ Weight: 2, Value: 90000gold, Worn in: TAKE HOLD
 
 Can affect you as:
 
-    Affects: MAX_WIS by 1
+ Affects: MAX\_WIS by 1
 
-    Affects: REGEN_MANA by 4
+ Affects: REGEN\_MANA by 4
 
 Only those who are at least adept avatars may use this item.
 
-**a black-scaled cloak**
+<strong>a black-scaled cloak</strong>
 
 Object 'cloak black scaled shiny', Item type: ARMOR
 
@@ -104,9 +104,9 @@ AC-apply is -0.7
 
 Can affect you as:
 
-    Affects: REGEN_MANA by 4
+ Affects: REGEN\_MANA by 4
 
-    Affects: MANA by 20
+ Affects: MANA by 20
 
 Only those who are at least adept avatars, and have attained supremacy in
 
@@ -118,13 +118,13 @@ at least three classes may use this item.
 
 Thanks for posting new stats.
 
-*hugs*
+\*hugs\*
 
 </div>
 
 <div class="post" data-post-id="34168" data-author="Burl" data-date="2013-03-20T20:37:01+00:00" data-subject="Re: Updated Temp EQ stats">
 
-**Red Satin Boots**
+<strong>Red Satin Boots</strong>
 
 Object 'boots satin red', Item type: ARMOR
 
@@ -136,9 +136,9 @@ AC-apply is -0.3
 
 Can affect you as:
 
-    Affects: MANA by 15
+ Affects: MANA by 15
 
-    Affects: REGEN_MANA by 3
+ Affects: REGEN\_MANA by 3
 
 Only those who have attained supremacy in at least three classes may use
 
@@ -148,7 +148,7 @@ this item.
 
 <div class="post" data-post-id="34169" data-author="Burl" data-date="2013-03-21T16:47:09+00:00" data-subject="Re: Updated Temp EQ stats">
 
-**Great Black Pearl**
+<strong>Great Black Pearl</strong>
 
 Object 'pearl great black', Item type: LIGHT
 
@@ -158,9 +158,9 @@ Weight: 4, Value: 0gold, Worn in: TAKE HOLD
 
 Can affect you as:
 
-    Affects: MAX_CON by 1
+ Affects: MAX\_CON by 1
 
-    Affects: MAX_STR by 1
+ Affects: MAX\_STR by 1
 
 Only those who have attained supremacy in at least six classes may use this
 
@@ -170,7 +170,7 @@ item.
 
 <div class="post" data-post-id="34171" data-author="Nyx" data-date="2013-03-23T03:51:46+00:00" data-subject="Re: Updated Temp EQ stats">
 
-**Snow Leopard Boots**
+<strong>Snow Leopard Boots</strong>
 
 Object 'boots snow leopard', Item type: ARMOR
 
@@ -182,15 +182,15 @@ AC-apply is -0.5
 
 Can affect you as:
 
-    Affects: MAX_STR by 1
+ Affects: MAX\_STR by 1
 
-    Affects: DAMROLL by 1
+ Affects: DAMROLL by 1
 
 Only those who have attained supremacy in at least three classes may use
 
 this item.
 
-**a set of spiked gauntlets**
+<strong>a set of spiked gauntlets</strong>
 
 Object 'spiked gauntlets', Item type: ARMOR
 
@@ -202,9 +202,9 @@ AC-apply is -0.4
 
 Can affect you as:
 
-    Affects: DAMROLL by 1
+ Affects: DAMROLL by 1
 
-    Affects: MAX_STR by 1
+ Affects: MAX\_STR by 1
 
 Only those who are at least novice avatars, and have attained supremacy in
 

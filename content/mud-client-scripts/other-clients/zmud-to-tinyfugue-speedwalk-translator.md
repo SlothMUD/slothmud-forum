@@ -32,25 +32,25 @@ my $cmd = '';
 
 foreach my $char (@chars) {
 	if ($char =~ /\;/) {
-		if ($iscmd) {
-			print $cmd;
-			print '%;';
-			$cmd = '';
-			$iscmd = 0;
-		} else {
-			$iscmd = 1;
-		}
+ if ($iscmd) {
+ print $cmd;
+ print '%;';
+ $cmd = '';
+ $iscmd = 0;
+ } else {
+ $iscmd = 1;
+ }
 	} elsif ($iscmd) {
-		$cmd = "${cmd}${char}";
+ $cmd = "${cmd}${char}";
 	} elsif ($char =~ /[nsewud]/) {
-		while ($count > 0) {
-			print $char;
-			print '%;';
-			$count--;
-		}
-		$count = 1;
+ while ($count > 0) {
+ print $char;
+ print '%;';
+ $count--;
+ }
+ $count = 1;
 	} elsif ($char =~ /\d+/) {
-		$count = $char;
+ $count = $char;
 	}
 }
 ```
@@ -61,7 +61,7 @@ you can just use the output in a macro definition for your speedwalk
 
 <div class="post" data-post-id="33844" data-author="raincrab" data-date="2012-12-13T10:52:05+00:00" data-subject="Re: zmud to tinyfugue speedwalk translator">
 
-this one fixes bugs where direction count > 10 and consecutive nondirectional commands
+this one fixes bugs where direction count \> 10 and consecutive nondirectional commands
 
 ```
 #!/usr/bin/env perl
@@ -80,22 +80,22 @@ my $count;
 
 foreach my $walk (@walks) {
 	while ($walk ne '') {
-		if ($walk =~ /^([0-9nsewud]+)$/) {
-			if ($walk =~ s/^(\d+)//) {
-				$count = $1;
-			} else {
-				$count = 1;
-			}
-			$walk =~ s/^(.)//;
-			my $char = $1;
-			while ($count > 0) {
-				print "${char}%;";
-				$count--;
-			}
-		} else {
-			print "${walk}%;";
-			$walk = '';
-		}
+ if ($walk =~ /^([0-9nsewud]+)$/) {
+ if ($walk =~ s/^(\d+)//) {
+ $count = $1;
+ } else {
+ $count = 1;
+ }
+ $walk =~ s/^(.)//;
+ my $char = $1;
+ while ($count > 0) {
+ print "${char}%;";
+ $count--;
+ }
+ } else {
+ print "${walk}%;";
+ $walk = '';
+ }
 	}
 }
 print "\n";

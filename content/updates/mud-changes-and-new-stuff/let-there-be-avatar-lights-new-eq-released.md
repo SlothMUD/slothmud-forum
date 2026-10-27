@@ -16,7 +16,7 @@ On the Day of Freedom
 
 The 32nd day of the Month of Nature, year 832,
 
-The creators said, 'Let there be lights.'  And there were many.
+The creators said, 'Let there be lights.' And there were many.
 
 The following new avatar restricted lights are available ingame. Two of them are forges. All the mobs involved are more deadly.
 
@@ -30,11 +30,11 @@ a lightning sceptre
 
 a drop of golden sun
 
-a whirling sphere of  molten lava
+a whirling sphere of molten lava
 
-*a pearl of rhapsody
+\*a pearl of rhapsody
 
-a glowing bloodstone  *CORRECTED*
+a glowing bloodstone \*CORRECTED\*
 
 an enchanted onyx blacklight
 
@@ -68,7 +68,7 @@ a chaos gem
 
 a radiant ball of energy
 
-*a lamp of the learned healer
+\*a lamp of the learned healer
 
 a piece of eight
 
@@ -80,9 +80,9 @@ an orb of mesmerization
 
 a demon eye sceptre
 
-** indicates the item is forged/traded*
+<em>\* indicates the item is forged/traded</em>
 
-** a glowing bloodstone  was mistakenly listed previously as glowing moonstone. apologies.
+\*\* a glowing bloodstone was mistakenly listed previously as glowing moonstone. apologies.
 
 </div>
 
@@ -96,7 +96,7 @@ The Beating Heart of King Glargrm has had its levels increased to 25 Avatar. Due
 
 Note the correction in above list. 
 
-Apologies.  :oops:
+Apologies. <img src="/images/smilies/icon_redface.svg" alt=":oops:" title=":oops:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -120,7 +120,7 @@ Thx!
 
 <div class="post" data-post-id="34199" data-author="*juggleblood*" data-date="2013-03-29T12:45:37+00:00" data-subject="Re: Let there be Avatar Lights! New eq released.">
 
-"I can forge for you a lamp of the learned healer." ~ Prince Tereus
+"I can forge for you a lamp of the learned healer." \~ Prince Tereus
 
 </div>
 
@@ -138,7 +138,7 @@ sorry for any inconvenience.
 
 Sapphire and emerald gems of perfection restricts have changed. They are now Mage and Cleric prime and 6x40.
 
-Demon eye sceptre is now +3 UC,  Supreme Necro 7x40.
+Demon eye sceptre is now +3 UC, Supreme Necro 7x40.
 
 Sorry if anyone is disappointed about the gems of perfection restrict change, stats are extremely nice and needed some restriction.
 

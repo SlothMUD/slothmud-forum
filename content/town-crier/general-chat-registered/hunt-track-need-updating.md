@@ -12,13 +12,13 @@ post_count: 12
 
 <div class="post" data-post-id="16003" data-author="firebrand" data-date="2007-01-05T17:57:52+00:00" data-subject="hunt/track need updating">
 
-hunt and track need to check the current area a char is in, not just stop at 1.pingname of the mob...for instance there are 20 some-odd mobs named chef.  i am in an area trying to  hunt/find chef and i type where chef.  i see that there is indeed a chef in the area.  i type hunt chef, i get Couldn't find it.  i attempt to track the damn thing.  You couldn't find any tracks for the icy chef...and that is NOT THE FUCKING MOB I WANT!!!!!!  and PLEASE don't explain to me how to find the goddamned mob i want.  yes, i DO know how to do it.  still.....hunt/track need updating
+hunt and track need to check the current area a char is in, not just stop at 1.pingname of the mob...for instance there are 20 some-odd mobs named chef. i am in an area trying to hunt/find chef and i type where chef. i see that there is indeed a chef in the area. i type hunt chef, i get Couldn't find it. i attempt to track the damn thing. You couldn't find any tracks for the icy chef...and that is NOT THE FUCKING MOB I WANT!!!!!! and PLEASE don't explain to me how to find the goddamned mob i want. yes, i DO know how to do it. still.....hunt/track need updating
 
 </div>
 
 <div class="post" data-post-id="16004" data-author="Leaf" data-date="2007-01-05T18:18:51+00:00" data-subject="">
 
-Do a hunt name-chef.  The "-" helps.
+Do a hunt name-chef. The "-" helps.
 
 Much Love Reb!!!
 
@@ -26,7 +26,7 @@ Much Love Reb!!!
 
 <div class="post" data-post-id="16007" data-author="firebrand" data-date="2007-01-05T18:42:47+00:00" data-subject="">
 
-what part of "don't explain to me how to find it" do you  not comprehend?  i said i KNOW how.......it's just that the skills themselves need updating...and i have known about the "-" for years now.  i said i was crazy, not stupid
+what part of "don't explain to me how to find it" do you not comprehend? i said i KNOW how.......it's just that the skills themselves need updating...and i have known about the "-" for years now. i said i was crazy, not stupid
 
 btw
 
@@ -36,7 +36,7 @@ Fire at Will!
 
 <div class="post" data-post-id="16010" data-author="Leaf" data-date="2007-01-05T19:20:57+00:00" data-subject="">
 
-The "don't explain to me how to find it" part  :twisted:
+The "don't explain to me how to find it" part <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -44,9 +44,12 @@ The "don't explain to me how to find it" part  :twisted:
 
 I know I'm not the only one who's thinking this.....
 
-btw
-
-Fire at Will![/quote:a5kitsys]
+> <strong>firebrand wrote:</strong>
+> btw
+> 
+> 
+> 
+> Fire at Will!
 
 Which one's Will????
 
@@ -70,7 +73,7 @@ Sir William!
 
 stfu Will..
 
-and this little spat between you and Reb is just a smoke screen to cover up your neverending love for each other... just let go and run with it  :twisted:
+and this little spat between you and Reb is just a smoke screen to cover up your neverending love for each other... just let go and run with it <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -82,7 +85,7 @@ sigh......and here we thought we were being SOOOOO careful
 
 <div class="post" data-post-id="16015" data-author="Leaf" data-date="2007-01-05T20:14:43+00:00" data-subject="">
 
-Yea Reb, but at least we don't have to keep it a secert anymore!  MUAH!!!
+Yea Reb, but at least we don't have to keep it a secert anymore! MUAH!!!
 
 Damn it Jason wheres Tiff to shut ur mouth up?!?
 
@@ -96,16 +99,17 @@ let freedom ring!
 
 <div class="post" data-post-id="16017" data-author="Autolycos" data-date="2007-01-05T20:50:54+00:00" data-subject="">
 
-Damn it Jason wheres Tiff to shut ur mouth up?!?[/quote:3pi13flk]
+> <strong>Leaf wrote:</strong>
+> Damn it Jason wheres Tiff to shut ur mouth up?!?
 
 no-one is that powerful!
 
-muahahahahaha :twisted:
+muahahahahaha <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="16018" data-author="firebrand" data-date="2007-01-05T21:06:44+00:00" data-subject="">
 
-will, when will you ever learn?  just feed him a pb&j sandwich on white bread....he won't be able to talk for hours!
+will, when will you ever learn? just feed him a pb\&j sandwich on white bread....he won't be able to talk for hours!
 
 </div>

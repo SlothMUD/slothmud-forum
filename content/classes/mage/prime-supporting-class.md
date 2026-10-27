@@ -26,9 +26,9 @@ eg. HP and MP per level HP and MP Regen per level?
 
 <div class="post" data-post-id="15451" data-author="Malison" data-date="2006-12-04T22:53:16+00:00" data-subject="">
 
-Your prime and secondary class determine your stat order.  Mage primes' best stat is always Int.
+Your prime and secondary class determine your stat order. Mage primes' best stat is always Int.
 
-There are caps on the amount of spellbonus eq you can wear based on where mage is in your classo.  I believe its 90/70/50/30 but could easily be mistaken on specifics there.
+There are caps on the amount of spellbonus eq you can wear based on where mage is in your classo. I believe its 90/70/50/30 but could easily be mistaken on specifics there.
 
 If mage isn't prime, disregarding issues of HP/MA by levels,
 

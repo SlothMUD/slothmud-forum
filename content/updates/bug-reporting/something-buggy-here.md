@@ -14,15 +14,15 @@ post_count: 8
 
 Killing Missy in Dwarven Mt.
 
-Hmmm the sylph tells you 'I've found Missy in Linen Closet, sir!  she's got something!'
+Hmmm the sylph tells you 'I've found Missy in Linen Closet, sir! she's got something!'
 
-<675hp 444ma 133mv 25276357xp indoors>
+\<675hp 444ma 133mv 25276357xp indoors\>
 
 sc
 
-Wingnut of the Trees.  (level: 40)
+Wingnut of the Trees. (level: 40)
 
-Your levels:  Dr: 40 Cl: 40 Ma: 30 Wa: 20 
+Your levels: Dr: 40 Cl: 40 Ma: 30 Wa: 20 
 
 You are 23 years, 10 months, 21 days old.
 
@@ -60,15 +60,15 @@ You are standing.
 
 You are affected by the following spells:
 
-   Detect Invisible                 
+ Detect Invisible 
 
-   Infravision                      
+ Infravision 
 
-   Bless                            
+ Bless 
 
-   Strength                         
+ Strength 
 
-<675hp 444ma 133mv 25276357xp indoors>
+\<675hp 444ma 133mv 25276357xp indoors\>
 
 cast 'sanctuary' wingnut
 
@@ -76,19 +76,19 @@ Ok.
 
 You start glowing.
 
-<675hp 369ma 133mv 25276357xp indoors>
+\<675hp 369ma 133mv 25276357xp indoors\>
 
 open door n
 
 Ok.
 
-<675hp 372ma 133mv 25276357xp indoors>
+\<675hp 372ma 133mv 25276357xp indoors\>
 
 shapeshift naga
 
 You raise your hands to the sky and slowly shift into a half-human half-snake (Wingnut).
 
-<1409hp 336ma 197mv 25276357xp indoors>
+\<1409hp 336ma 197mv 25276357xp indoors\>
 
 n
 
@@ -100,19 +100,19 @@ l missy
 
 Linen Closet
 
-Exits: South  
+Exits: South 
 
 Missy, the dwarf queen's maid, is here cleaning the closet.
 
 Wingnut's Sylph flits about the room.
 
-<1409hp 325ma 196mv 25276357xp indoors>
+\<1409hp 325ma 196mv 25276357xp indoors\>
 
 Missy hates your guts!
 
 You rear back and spit a stream of acid at Missy, dousing her!
 
-<1409hp 300ma 196mv 25276615xp indoors>
+\<1409hp 300ma 196mv 25276615xp indoors\>
 
 You massacre Missy to small fragments with your hit.
 
@@ -130,13 +130,13 @@ You are brutally massacred by Missy's claw.
 
 Missy makes a nice ballet step which plants a foot a mile above your head.
 
-<1200hp 300ma 196mv 25279460xp indoors>
+\<1200hp 300ma 196mv 25279460xp indoors\>
 
 breathe acid missy
 
 You rear back and spit a stream of acid at Missy, dousing her!
 
-<1203hp 261ma 197mv 25283968xp indoors>
+\<1203hp 261ma 197mv 25283968xp indoors\>
 
 You massacre Missy to small fragments with your hit.
 
@@ -152,11 +152,11 @@ You are brutally massacred by Missy's claw.
 
 You are brutally massacred by Missy's claw.
 
-<991hp 262ma 197mv 25286370xp indoors>
+\<991hp 262ma 197mv 25286370xp indoors\>
 
-This sweet looking young dwarf is the queen's personal maid.  She looks
+This sweet looking young dwarf is the queen's personal maid. She looks
 
-really cute in her maid uniform.  Her long blonde hair cascades down
+really cute in her maid uniform. Her long blonde hair cascades down
 
 just past her shoulders, and her blue eyes sparkle in the light.
 
@@ -164,11 +164,11 @@ Missy is a member of the races of man.
 
 Missy has quite a few wounds.
 
-<993hp 263ma 197mv 25286370xp indoors>
+\<993hp 263ma 197mv 25286370xp indoors\>
 
 You rear back and spit a stream of acid at Missy, dousing her!
 
-<993hp 238ma 197mv 25288806xp indoors>
+\<993hp 238ma 197mv 25288806xp indoors\>
 
 breathe acid missy
 
@@ -186,11 +186,11 @@ You are brutally massacred by Missy's claw.
 
 Missy makes a nice ballet step which plants a foot a mile above your head.
 
-<861hp 239ma 197mv 25291855xp indoors>
+\<861hp 239ma 197mv 25291855xp indoors\>
 
 You rear back and spit a stream of acid at Missy, dousing her!
 
-<862hp 215ma 197mv 25296223xp indoors>
+\<862hp 215ma 197mv 25296223xp indoors\>
 
 You massacre Missy to small fragments with your hit.
 
@@ -200,23 +200,23 @@ Total exp for kill is 485162.
 
 Your blood freezes as you hear Missy's death cry.
 
-<868hp 201ma 197mv 25781775xp indoors>
+\<868hp 201ma 197mv 25781775xp indoors\>
 
 shapeshift return
 
 You slowly return to your natural form.
 
-<417hp 202ma 133mv 25781775xp indoors>
+\<417hp 202ma 133mv 25781775xp indoors\>
 
 get all corpse
 
-Hmmm the sylph tells you 'Missy is gone, sir!  I'll watch for another one.'
+Hmmm the sylph tells you 'Missy is gone, sir! I'll watch for another one.'
 
-<418hp 205ma 133mv 25781775xp indoors>
+\<418hp 205ma 133mv 25781775xp indoors\>
 
 You do not see anything in the corpse.
 
-Can someone take a look at this please...would really like to pop sleeves. :twisted:
+Can someone take a look at this please...would really like to pop sleeves. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -224,15 +224,15 @@ Can someone take a look at this please...would really like to pop sleeves. :twis
 
 You didn't have a corpse in inv did you?
 
-Besides, it was only a piece of ginseng, trust me...  :(
+Besides, it was only a piece of ginseng, trust me... <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="27925" data-author="firebrand" data-date="2009-01-30T17:39:02+00:00" data-subject="">
 
-just another argument in favor of ALL classes being able to inherently see inventory and lot leaving it restricted to thief and bard and ferrets.  but, then again, some other things that also make sense (make heal spells NOT cure blindness so that we can heal SELF while blind - not to mention making the cure blindness spell actually useful since heals currently enjoy the double benefit of not only healing the victim but curing their blindness as well, making cure blindness spell nearly obsolete), being able to dispel a specific spell off self/someone else instead of dispelling everything, and several others are still on the table to get fought for.  in fact, i am betting being able to dispel one spell from target when the target has several spells up would not be too much different than how purloin aura works on the victim.   i am also betting that if the players want something bad enough, admin will listen (i.e. removing pthieving from the game).
+just another argument in favor of ALL classes being able to inherently see inventory and lot leaving it restricted to thief and bard and ferrets. but, then again, some other things that also make sense (make heal spells NOT cure blindness so that we can heal SELF while blind - not to mention making the cure blindness spell actually useful since heals currently enjoy the double benefit of not only healing the victim but curing their blindness as well, making cure blindness spell nearly obsolete), being able to dispel a specific spell off self/someone else instead of dispelling everything, and several others are still on the table to get fought for. in fact, i am betting being able to dispel one spell from target when the target has several spells up would not be too much different than how purloin aura works on the victim. i am also betting that if the players want something bad enough, admin will listen (i.e. removing pthieving from the game).
 
-"I think if you're going to kill somebody, kill them! Don't stand around talking about it!" - anna valerious --> van helsing
+"I think if you're going to kill somebody, kill them! Don't stand around talking about it!" - anna valerious --\> van helsing
 
 </div>
 
@@ -258,9 +258,10 @@ A long time ago using shapeshift acid attacks could destroy objects in a mob's i
 
 <div class="post" data-post-id="27953" data-author="Wingnut" data-date="2009-01-31T08:35:35+00:00" data-subject="">
 
-A long time ago using shapeshift acid attacks could destroy objects in a mob's inv. I'm not sure if it's still the case, but there's quite a bit of acid flying around in that log.[/quote:3rpmg87t]
+> <strong>Rynquald wrote:</strong>
+> A long time ago using shapeshift acid attacks could destroy objects in a mob's inv. I'm not sure if it's still the case, but there's quite a bit of acid flying around in that log.
 
-Musta been the acid, used frost breath on next pop and item was still there.  Thanks.
+Musta been the acid, used frost breath on next pop and item was still there. Thanks.
 
 </div>
 
@@ -268,13 +269,12 @@ Musta been the acid, used frost breath on next pop and item was still there.  Th
 
 Then again with Slothmud not alwaYS being able to count with the numbers of PC's in a group compared to the naming of the group..I suspect the following...
 
-[quote:3rk0l05s]You raise your hands to the sky and slowly shift into a half-human half-snake (Wingnut).
-
-[/quote:3rk0l05s]
+> <strong>Quote:</strong>
+> You raise your hands to the sky and slowly shift into a half-human half-snake (Wingnut).
 
 Now Slothmud probably saw all that spam and caught this instead
 
-You raise your hands to the sky and slowly sh*t into a half-human halfs-nake(d) Wingnut[/color:3rk0l05s]
+You raise your hands to the sky and slowly sh\*t into a half-human halfs-nake(d) Wingnut
 
 which cause the code to panic,hence throwing you the customer for a loop..If I have seen these a thousand times,I've seen it all....
 

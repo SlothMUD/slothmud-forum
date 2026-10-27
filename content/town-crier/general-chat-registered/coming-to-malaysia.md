@@ -12,7 +12,7 @@ post_count: 8
 
 <div class="post" data-post-id="19790" data-author="Lis" data-date="2007-08-21T15:31:56+00:00" data-subject="Coming to Malaysia">
 
-Coming to Malaysia (Kuala-Lumpur) in 26-31 of august helping with malaysian space program (angkasavan science project).  
+Coming to Malaysia (Kuala-Lumpur) in 26-31 of august helping with malaysian space program (angkasavan science project). 
 
 Will be happy to see all sloth guys there: Chi/Ker/Bomb (Marcus) is gonna organize our meeting so welcome everyone.
 
@@ -24,7 +24,7 @@ Lis/Osa/Lisa (Sergey)
 
 <div class="post" data-post-id="19791" data-author="Chainer" data-date="2007-08-21T15:36:29+00:00" data-subject="">
 
-Looking forward to meet you too!  :twisted:
+Looking forward to meet you too! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -78,7 +78,7 @@ We never spoke on the phone nor did we keep in touch via en-route to the city. F
 
 Lis and I had agreed to meet up nearby the water display just a few floors down from where I met the other guys. It wasn't much of a hassle until I actually got there. Place was filled with hundreds of people. So here's the interesting part, I practically went around looking for just about any white guy that could be Lis! After a long winding search, I finally found our Lis and we went up for a late meal with the other guys. 
 
-*From a distance away, Sergey(Lis) actually had a camera strapped on, head facing down, hands on neck, walking up back and forth continously scratching head. Said to myself, yeap that's a Lis right there! Good fluke :)* 
+\*From a distance away, Sergey(Lis) actually had a camera strapped on, head facing down, hands on neck, walking up back and forth continously scratching head. Said to myself, yeap that's a Lis right there! Good fluke <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">\* 
 
 Soon after we left KLCC and went to a nearby bar down the road. Had a few drinks there and talked about sloth as usual. After a few beers, we went to a nearby nightstall just to chill out, and eventually head on more about sloth. Lis had alot of interesting stories to share, which cracked us up through the whole night. It was alot of fun and we all enjoyed Lis's company, such remarkable character with a great sense of humour. 
 
@@ -92,9 +92,9 @@ Chi
 
 <div class="post" data-post-id="21793" data-author="Lis" data-date="2007-12-25T14:01:33+00:00" data-subject="">
 
-Alex(Mech),  KaiChew(Kirdox),  Lis(Sergey),  JeeHong(Syl),  Marcus(Chi),  Sharil(Rith)
+Alex(Mech), KaiChew(Kirdox), Lis(Sergey), JeeHong(Syl), Marcus(Chi), Sharil(Rith)
 
-[img:1hs8b5k6]http://www.ljplus.ru/img3/s/k/sky_ezh/KL1.JPG[/img:1hs8b5k6]
+![](http://www.ljplus.ru/img3/s/k/sky_ezh/KL1.JPG)
 
 </div>
 
@@ -102,6 +102,6 @@ Alex(Mech),  KaiChew(Kirdox),  Lis(Sergey),  JeeHong(Syl),  Marcus(Chi),  Sharil
 
 now that's what i call a beer mug!
 
-look like fun :)
+look like fun <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

@@ -12,7 +12,7 @@ post_count: 3
 
 <div class="post" data-post-id="13936" data-author="Knight" data-date="2006-09-08T07:23:52+00:00" data-subject="TopMudSites Counter Has Reset">
 
-TopMudSites have reset their counter and Sloth is currently laying in 43rd place with only 2 votes.  We are worth a higher place which we can only get by voting for Sloth.  They count the number of homepage requests into the score too, so click on the homepage option to make your vote count twice :)
+TopMudSites have reset their counter and Sloth is currently laying in 43rd place with only 2 votes. We are worth a higher place which we can only get by voting for Sloth. They count the number of homepage requests into the score too, so click on the homepage option to make your vote count twice <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Knight Templar
 
@@ -28,7 +28,7 @@ from TopMudSites. They are our potential new players, arent they ?
 
 Do not forget to vote for slothmud.org @ TopMudSites while you voting
 
-for SlothMUD on TMC  :!:
+for SlothMUD on TMC <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom">
 
 /falsra
 
@@ -36,7 +36,7 @@ for SlothMUD on TMC  :!:
 
 <div class="post" data-post-id="14106" data-author="Falsra" data-date="2006-09-17T14:11:21+00:00" data-subject="">
 
-We are solid N 21 on TMS :evil: 
+We are solid N 21 on TMS <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom"> 
 
 Much better to be N 20 at least to be placed on first page.
 
@@ -46,7 +46,7 @@ Do not forget - TMS allow us to vote EVERY 12 HOURS
 
 so vote twice a day to move Sloth upper a bit.
 
-Sloth needs some fresh blood i believe  :) 
+Sloth needs some fresh blood i believe <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> 
 
 /falsra
 

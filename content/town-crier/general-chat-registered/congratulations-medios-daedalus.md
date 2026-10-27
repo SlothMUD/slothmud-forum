@@ -12,15 +12,15 @@ post_count: 19
 
 <div class="post" data-post-id="23658" data-author="13" data-date="2008-04-10T23:35:52+00:00" data-subject="Congratulations Medios&amp;Daedalus!">
 
-Brand new baby boy for them, around 7 and a half LBs, 21 inches long i think?  Little Mike.  I would post a picture but Mike said the Fisher Penis is
+Brand new baby boy for them, around 7 and a half LBs, 21 inches long i think? Little Mike. I would post a picture but Mike said the Fisher Penis is
 
-too prominent.  Congrats guys...it only gets better :)
+too prominent. Congrats guys...it only gets better <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23659" data-author="Rynquald" data-date="2008-04-11T00:07:34+00:00" data-subject="">
 
-Nice, congratulations :)
+Nice, congratulations <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -32,7 +32,7 @@ Nice pop, gratz!
 
 <div class="post" data-post-id="23661" data-author="Alberich" data-date="2008-04-11T00:30:00+00:00" data-subject="">
 
-congrats mike and chrissy!! :)  
+congrats mike and chrissy!! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> 
 
 (you've figured out where they're coming from now, yes?)
 
@@ -66,7 +66,7 @@ So we have Medios Dogs and Minstrel
 
 And Daedalus and Kail...
 
-Yup, the kid's classo should def be Th Dr Mo Ba :)~
+Yup, the kid's classo should def be Th Dr Mo Ba <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">\~
 
 Glad I could be of help.
 
@@ -88,11 +88,11 @@ Minstrel utters the words 'deafness' Minstrel
 
 Daedalus raises her hands into the sky and...
 
-Well, I can't say a piasa eats Minstrel, heh, that can be taken the wrong way :)~
+Well, I can't say a piasa eats Minstrel, heh, that can be taken the wrong way <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">\~
 
-Gratz on the kid :)
+Gratz on the kid <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
--Brad
+\-Brad
 
 </div>
 
@@ -128,7 +128,7 @@ Mike and Chrissy,
 
 Gratz on the new baby boy.
 
-makita-kim :D
+makita-kim <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -142,7 +142,7 @@ Mike -- 'WTF! I forgot to sing seven luck gods'
 
 Chrissy -- 'It's ok Mike, it loaded'
 
-Congrats you two, on another addition to DoW  :wink:
+Congrats you two, on another addition to DoW <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -150,17 +150,28 @@ Congrats you two, on another addition to DoW  :wink:
 
 Congrats Chrissy!! Congrats Mike!!
 
-Mike -- 'How long until next repop Chrissy?'
+> <strong>Stryx wrote:</strong>
+> Mike -- 'How long until next repop Chrissy?'
+> 
+> 
+> 
+> Chrissy -- 'Too late Mike, you just missed it'
+> 
+> 
+> 
+> Mike -- 'WTF! I forgot to sing seven luck gods'
+> 
+> 
+> 
+> Chrissy -- 'It's ok Mike, it loaded'
+> 
+> 
+> 
+> 
+> 
+> Congrats you two, on another addition to DoW <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
-Chrissy -- 'Too late Mike, you just missed it'
-
-Mike -- 'WTF! I forgot to sing seven luck gods'
-
-Chrissy -- 'It's ok Mike, it loaded'
-
-Congrats you two, on another addition to DoW  :wink:[/quote:302nv3hb]
-
-LoL Stryx *thumbs up*
+LoL Stryx \*thumbs up\*
 
 </div>
 
@@ -172,13 +183,14 @@ Daedalus is a woman???
 
 <div class="post" data-post-id="23688" data-author="banedon" data-date="2008-04-11T22:22:02+00:00" data-subject="">
 
-Gratz you two.  May your young son discover the ability to sleep the whole night soon.
+Gratz you two. May your young son discover the ability to sleep the whole night soon.
 
 </div>
 
 <div class="post" data-post-id="23689" data-author="13" data-date="2008-04-12T00:00:16+00:00" data-subject="">
 
-[quote:23437mag]May your young son discover the ability to sleep the whole night soon.[/quote:23437mag]
+> <strong>Quote:</strong>
+> May your young son discover the ability to sleep the whole night soon.
 
 that's the best wish you could give someone in that position
 
@@ -186,11 +198,17 @@ that's the best wish you could give someone in that position
 
 <div class="post" data-post-id="23694" data-author="banedon" data-date="2008-04-12T05:08:26+00:00" data-subject="">
 
-[quote:22tnz66e]May your young son discover the ability to sleep the whole night soon.[/quote:22tnz66e]
+> <strong>13 wrote:</strong>
+> > <strong>Quote:</strong>
+> > May your young son discover the ability to sleep the whole night soon.
+> 
+> 
+> 
+> 
+> 
+> that's the best wish you could give someone in that position
 
-that's the best wish you could give someone in that position[/quote:22tnz66e]
-
-Comes from having spwned 3 kids of my own.  That was always the first big milestone my ex wife and I celebrated with each little one.
+Comes from having spwned 3 kids of my own. That was always the first big milestone my ex wife and I celebrated with each little one.
 
 </div>
 

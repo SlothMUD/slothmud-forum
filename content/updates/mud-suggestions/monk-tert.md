@@ -12,9 +12,9 @@ post_count: 11
 
 <div class="post" data-post-id="31137" data-author="Toxis" data-date="2010-05-11T16:57:22+00:00" data-subject="Monk Tert?">
 
-[40w 29b 23c 21n 13o 11m 11d  8t] Stun riposte,2ndwind,entrench
+[40w 29b 23c 21n 13o 11m 11d 8t] Stun riposte,2ndwind,entrench
 
-[40w 30b 22o 18c 11m 10n  8t  7d] Addict %s I want it all, and I want it now
+[40w 30b 22o 18c 11m 10n 8t 7d] Addict %s I want it all, and I want it now
 
 Chars with no EQ and at 17 con and 14 int.
 
@@ -22,9 +22,9 @@ Stun: 870 hp, 257 mana (total levels: 156)
 
 Addict: 872 hp, 184 mana (total levels: 146)
 
-I don't even know how much damage reduction I'll get for monk tert, if anything worthwhile.  I was wondering if this was a horrible choice for a group tank if my mana is going to be so much lower but hit points almost the same.  I was wondering if I should remake a tank or is this going to work out?  I'd really like to hear thoughts on this, please.  Thank you.
+I don't even know how much damage reduction I'll get for monk tert, if anything worthwhile. I was wondering if this was a horrible choice for a group tank if my mana is going to be so much lower but hit points almost the same. I was wondering if I should remake a tank or is this going to work out? I'd really like to hear thoughts on this, please. Thank you.
 
--Toxis
+\-Toxis
 
 </div>
 
@@ -34,7 +34,7 @@ Stop complain, make another newbie.
 
 You are really good on it =)
 
-*hugs*
+\*hugs\*
 
 Vixn
 
@@ -56,7 +56,7 @@ If provided with the hp ma mv added for each new level in every class position I
 
 Sure the balances are going to be different because of the class order... but I suspect there could be quite a deviation in the totals... an UNFAIR deviation when the total of the stats is added up.
 
-The proper thing to do would have been to calculate the hp ma mv using a recursive program for all 40,000 classo's (8*7*6*5*4*3*2*1). Copy the data to excel, and sorted them in ascending order. I bet it's deviant beyond the point of being "fair."
+The proper thing to do would have been to calculate the hp ma mv using a recursive program for all 40,000 classo's (8\*7\*6\*5\*4\*3\*2\*1). Copy the data to excel, and sorted them in ascending order. I bet it's deviant beyond the point of being "fair."
 
 When I used to play Apprentice I had just under 1000ma and still had over 800 hit points... I don't call that fair when comparing myself to a warrior classo with 1000hp but only 400 mana.
 
@@ -66,7 +66,8 @@ It would not surprise me if the problem has been stretched with 8 classo's. I do
 
 <div class="post" data-post-id="31141" data-author="jezer" data-date="2010-05-11T20:26:25+00:00" data-subject="">
 
-It would not surprise me if the problem has been stretched with 8 classo's. I doubt any one bothered to programmatically calculated the totals for the 40000 class orders just to make sure the min and max amongst them were not unfairly different.[/quote:1x269hs4]
+> <strong>jezer wrote:</strong>
+> It would not surprise me if the problem has been stretched with 8 classo's. I doubt any one bothered to programmatically calculated the totals for the 40000 class orders just to make sure the min and max amongst them were not unfairly different.
 
 In fact we know they didn't... because if you remember the mv's were wrong and it had to be recalculated, as chars were getting excessive amounts of moves in the back class orders. This was posted on the crier.
 
@@ -76,7 +77,7 @@ At sloth the mechanics of the game code is hidden, but this works against the ga
 
 <div class="post" data-post-id="31142" data-author="Dragoth" data-date="2010-05-11T21:10:15+00:00" data-subject="">
 
-Come on Brad, you are one of the more experienced guys who had played more chars with more hours put into this game than anyone else and you've got to ask questions like that  ?
+Come on Brad, you are one of the more experienced guys who had played more chars with more hours put into this game than anyone else and you've got to ask questions like that ?
 
 </div>
 
@@ -86,13 +87,14 @@ I think the question that I'm aiming at is exactly how much damage reduction I'm
 
 Thanks for adding quality information to this thread, Dragoth.
 
--Brad
+\-Brad
 
 </div>
 
 <div class="post" data-post-id="31144" data-author="jezer" data-date="2010-05-11T22:34:10+00:00" data-subject="">
 
-I think the question that I'm aiming at is exactly how much damage reduction I'm getting for monk tert.[/quote:2o5hlx40]
+> <strong>Toxis wrote:</strong>
+> I think the question that I'm aiming at is exactly how much damage reduction I'm getting for monk tert.
 
 We don't know... I suspect about 16 points cap at tert, which is about 16% if a dam reduct point is still a percentage point.
 
@@ -142,7 +144,7 @@ Anything for you tox!
 
 I agree with everything jezer said, however there is a major problem with his calculations as he doesnt know exactly how much damage is reduced with each point of damage reduct. The best way would be to find a 1d1 weapon ( if its possible at all in this version) and test it in arena to avoid the damage difference from dice roll variation.
 
-Once you know exactly what each point of damage reduction reduces you can come to certain conclusions.  Otherwise this discussion is pretty much useless.
+Once you know exactly what each point of damage reduction reduces you can come to certain conclusions. Otherwise this discussion is pretty much useless.
 
 </div>
 
@@ -150,7 +152,7 @@ Once you know exactly what each point of damage reduction reduces you can come t
 
 According to the last code leak (2004?), 1 dam reduct WAS 1%. Given the ravaging they gave monk hand dam a few years later, the lack of drachma eq, the lack of new skills from s3, I doubt it's changed.
 
-BTW Splork, how about another code leak in time for my birthday?  :twisted: :D You'll think about it? Great! :)
+BTW Splork, how about another code leak in time for my birthday? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> You'll think about it? Great! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 I doubt dam reduct caps change by more than 2-4 points per class position. So monk is simply not worth putting higher for dam reduct alone. 
 

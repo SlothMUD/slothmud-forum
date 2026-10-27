@@ -12,13 +12,13 @@ post_count: 190
 
 <div class="post" data-post-id="26640" data-author="brady" data-date="2008-10-11T02:02:13+00:00" data-subject="Game, set, match.">
 
-[<LINK_TEXT text="http://www.cnn.com/2008/POLITICS/10/10/ ... index.html">http://www.cnn.com/2008/POLITICS/10/10/palin.investigation/index.html</LINK_TEXT>](http://www.cnn.com/2008/POLITICS/10/10/palin.investigation/index.html)
+[http://www.cnn.com/2008/POLITICS/10/10/palin.investigation/index.html](http://www.cnn.com/2008/POLITICS/10/10/palin.investigation/index.html)
 
 </div>
 
 <div class="post" data-post-id="26642" data-author="Tap" data-date="2008-10-11T03:02:10+00:00" data-subject="Check!">
 
-[url:3mqr63qn]http://vodpod.com/watch/1072189-louis-farrakhan-calls-obama-the-messiah[/url:3mqr63qn]
+http://vodpod.com/watch/1072189-louis-farrakhan-calls-obama-the-messiah
 
 </div>
 
@@ -26,31 +26,31 @@ post_count: 190
 
 A radical group Barack Obama used to work for is committing voter-registration fraud in several states, ahead of the election. What does Obama know about this scam?
 
-    Itâ€™s a legitimate question to raise now that the FBI has raided the offices of the nonprofit Association of Community Organizations for Reform Now in Nevada and North Carolina, two states where Obama and John McCain are running neck-and-neck. ACORN has registered bogus voters in both states.
+ Itâ€™s a legitimate question to raise now that the FBI has raided the offices of the nonprofit Association of Community Organizations for Reform Now in Nevada and North Carolina, two states where Obama and John McCain are running neck-and-neck. ACORN has registered bogus voters in both states.
 
-    The groupâ€™s voter-registration fraud is rampant, and authorities plan a nationwide sweep of ACORN offices to collect records.
+ The groupâ€™s voter-registration fraud is rampant, and authorities plan a nationwide sweep of ACORN offices to collect records.
 
-    In Nevada, state officials say the fraudulent registrations included forms for the starting lineup of the Dallas Cowboys football team, including quarterback Tony Romo.
+ In Nevada, state officials say the fraudulent registrations included forms for the starting lineup of the Dallas Cowboys football team, including quarterback Tony Romo.
 
-    â€œRomo is not registered to vote in the state of Nevada,â€ Secretary of State Ross Miller said, â€œand anybody trying to pose as Terrell Owens wonâ€™t be able to cast a ballot on Nov. 4.â€
+ â€œRomo is not registered to vote in the state of Nevada,â€ Secretary of State Ross Miller said, â€œand anybody trying to pose as Terrell Owens wonâ€™t be able to cast a ballot on Nov. 4.â€
 
-    While those names will be flagged on Election Day, felonious voters may have better luck using other cutouts. Nevada, along with several other key battleground states, requires no ID to vote.
+ While those names will be flagged on Election Day, felonious voters may have better luck using other cutouts. Nevada, along with several other key battleground states, requires no ID to vote.
 
-    In North Carolina, where Obama has been running nonstop ads, ACORN has registered a record number of new voters, many of them suspicious. Statewide, Democrats are doing better than the GOP in new converts â€” even in traditionally Republican counties.
+ In North Carolina, where Obama has been running nonstop ads, ACORN has registered a record number of new voters, many of them suspicious. Statewide, Democrats are doing better than the GOP in new converts â€” even in traditionally Republican counties.
 
-    There have been 218,749 newly registered Democrats in North Carolina since January â€” more than five times the 38,337 new Republicans, state records show.
+ There have been 218,749 newly registered Democrats in North Carolina since January â€” more than five times the 38,337 new Republicans, state records show.
 
-    The numbers show a startlingly close political battle even in Republican-dominated Union County, with 4,233 new voters registering as Democrats and 4,362 as Republicans. In previous election years, new Republicans have outnumbered Democrats 2-to-1 in the fast-growing Charlotte-area county.
+ The numbers show a startlingly close political battle even in Republican-dominated Union County, with 4,233 new voters registering as Democrats and 4,362 as Republicans. In previous election years, new Republicans have outnumbered Democrats 2-to-1 in the fast-growing Charlotte-area county.
 
-    In Missouri, one ACORN registrant named Monica Rays showed up on no less than eight forms, all bearing the same signature.
+ In Missouri, one ACORN registrant named Monica Rays showed up on no less than eight forms, all bearing the same signature.
 
-    Suspicious election officials sent letters to some 5,000 ACORN registrants in St. Louis, asking the letter recipients to contact them.
+ Suspicious election officials sent letters to some 5,000 ACORN registrants in St. Louis, asking the letter recipients to contact them.
 
-    Fewer than 40 responded.[/color:2ce3xojk]
+ Fewer than 40 responded.
 
-    In Kansas City, 15,000 registrations have been questioned, and last year four ACORN employees were indicted for fraud.
+ In Kansas City, 15,000 registrations have been questioned, and last year four ACORN employees were indicted for fraud.
 
-**********************************************************
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 ACORN already has it's grubby little paws out to get a nice little chunk of 
 
@@ -62,13 +62,13 @@ change from the bailout. With regards to Sarah Palin, the ex-Brother In law in q
 
 Of course you realize the entire Palin investigation group was 'relived of their duties' and replaced with a bunch of liberal democrats, don't you? This, much like Obama's ACORN, is just more evidence of huge election fraud. In any other state that pig would have been kicked out of the force and probably had some jail time added on as well. Even he knows damn well he got off lightly, and that it was probably because of Palin that he is still a cop today.
 
-Furthermore, if you think a Chicago politician like Obama hasn't done ten times worse than what Palin is accused of, you're blind as well as stupid. Fraudulent donations numbering well into the tens or hundreds of thousands, HUGE voter fraud by a supposedly non-partisan organization that consists of extreme leftist democrats, financially supported by Obama, so huge that in two areas now there are more registered voters than there are people living there! Strong ties to convicted socialist terrorists spanning years, constant completely unfounded accusations of racism (even for things as ridiculous as Palin wearing a white jacket one day), years of membership to socialist political organizations, ties to criminals like Rezko, abuse of position using local authorities to threaten citizens and organizations alike against speaking out against Obama, violation of basic Constitutional rights, long-term membership in an American-hating racist 'church' (and don't dare tell me none of that sunk in after 20 years of ranting sermons), and much much more, and the MSM completely ignores it because they hate Bush so much, and Obama's idiot followers fall over themselves just to lick his boots for no other reason than 'he's a great orator' or some such sh*t.. 
+Furthermore, if you think a Chicago politician like Obama hasn't done ten times worse than what Palin is accused of, you're blind as well as stupid. Fraudulent donations numbering well into the tens or hundreds of thousands, HUGE voter fraud by a supposedly non-partisan organization that consists of extreme leftist democrats, financially supported by Obama, so huge that in two areas now there are more registered voters than there are people living there! Strong ties to convicted socialist terrorists spanning years, constant completely unfounded accusations of racism (even for things as ridiculous as Palin wearing a white jacket one day), years of membership to socialist political organizations, ties to criminals like Rezko, abuse of position using local authorities to threaten citizens and organizations alike against speaking out against Obama, violation of basic Constitutional rights, long-term membership in an American-hating racist 'church' (and don't dare tell me none of that sunk in after 20 years of ranting sermons), and much much more, and the MSM completely ignores it because they hate Bush so much, and Obama's idiot followers fall over themselves just to lick his boots for no other reason than 'he's a great orator' or some such sh\*t.. 
 
 WAKE THE FCUK UP.
 
 If Obama wins and turns this country turns into a socialist regime and all you work for is worth nothing, I would take great pleasure in kicking each and every one of you who voted for this fcukwit right in the balls. Repeatedly.
 
-I'm no longer amazed that so many Americans are stupid enough to repeatedly have the wool pulled over their eyes by politicians like Obama, and the reason I'm no longer amazed is that I've come to the realization that many Americans [i:1p87yyzu]are[/i:1p87yyzu] just plain stupid - that much is clear by the cult of Obama they are following.
+I'm no longer amazed that so many Americans are stupid enough to repeatedly have the wool pulled over their eyes by politicians like Obama, and the reason I'm no longer amazed is that I've come to the realization that many Americans <em>are</em> just plain stupid - that much is clear by the cult of Obama they are following.
 
 BTW, I don't think much at all of McCain, but Obama? Seriously, this is suicide for America, imo.
 
@@ -98,7 +98,7 @@ I'm just pissed at the tiniest thing such as the color of Palin's jacket being s
 
 <div class="post" data-post-id="26648" data-author="brady" data-date="2008-10-11T08:12:32+00:00" data-subject="">
 
-I remember now why I avoid talking politics here.  Oh and I think you're stupid too.
+I remember now why I avoid talking politics here. Oh and I think you're stupid too.
 
 </div>
 
@@ -108,13 +108,13 @@ Laff.
 
 You started a thread bashing Palin, yet don't like the overwhelming negative info on NObama that can be backed up with facts VS your "speculation aka wishful thinking". Stupid is that stupid does, sir.
 
-[img:1afty2xx]http://images.starpulse.com/Photos/Previews/Forrest-Gump-p11.jpg[/img:1afty2xx]
+![](http://images.starpulse.com/Photos/Previews/Forrest-Gump-p11.jpg)
 
 </div>
 
 <div class="post" data-post-id="26651" data-author="brady" data-date="2008-10-11T12:02:33+00:00" data-subject="">
 
-I didn't start a bashing anything.  I posted an article and you can disagree all you like.  I just don't think "you're stupid" is going to win you any arguments.
+I didn't start a bashing anything. I posted an article and you can disagree all you like. I just don't think "you're stupid" is going to win you any arguments.
 
 </div>
 
@@ -122,23 +122,26 @@ I didn't start a bashing anything.  I posted an article and you can disagree all
 
 Weasel, 
 
-1. Obama is not a terrorist. 
+1\. Obama is not a terrorist. 
 
-2. Palin is not qualified to be president of the United States.
+2\. Palin is not qualified to be president of the United States.
 
-3. Critical reasoning is not your strong suit.
+3\. Critical reasoning is not your strong suit.
 
 </div>
 
 <div class="post" data-post-id="26655" data-author="Weasel" data-date="2008-10-11T14:51:39+00:00" data-subject="">
 
-Weasel, 
-
-1. Obama is not a terrorist. 
-
-2. Palin is not qualified to be president of the United States.
-
-3. Critical reasoning is not your strong suit.[/quote:352ed4yz]
+> <strong>juggleblood wrote:</strong>
+> Weasel, 
+> 
+> 
+> 
+> 1\. Obama is not a terrorist. 
+> 
+> 2\. Palin is not qualified to be president of the United States.
+> 
+> 3\. Critical reasoning is not your strong suit.
 
 (1) I stated Obama has strong ties to domestic terrorists, criminals, and other fraudulent and socialist organizations, and have the facts to back it up. You claim he's not a terrorist in response. Prove it.
 
@@ -146,19 +149,19 @@ Weasel,
 
 (3) Judging by your other two responses, I think I'll just mention something about throwing stones and glass houses...
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="26656" data-author="Weasel" data-date="2008-10-11T14:59:54+00:00" data-subject="">
 
-Back to Palin,  the investigation was "a partisan-led inquiry" run by supporters of Democratic presidential candidate Sen. Barack Obama. [b:c8onazvu]The inquiry found that Monegan's firing broke no law.[/b:c8onazvu]
+Back to Palin, the investigation was "a partisan-led inquiry" run by supporters of Democratic presidential candidate Sen. Barack Obama. <strong>The inquiry found that Monegan's firing broke no law.</strong>
 
 Let me repeat that:
 
-[b:c8onazvu]The inquiry found that Monegan's firing broke no law.[/b:c8onazvu]
+<strong>The inquiry found that Monegan's firing broke no law.</strong>
 
-Gov. Palin was [b:c8onazvu]cleared[/b:c8onazvu] of the allegation of an improper firing, which is what this investigation was established to look into.
+Gov. Palin was <strong>cleared</strong> of the allegation of an improper firing, which is what this investigation was established to look into.
 
 However the Legislature exceeded its mandate in finding an ethics violation. Lacking evidence to support the original allegation, the Legislative Council seriously overreached and effectively found that 'Palin did nothing wrong, but we think she's wrong anyway'. 
 
@@ -180,31 +183,33 @@ Try to play and enjoy a slothmud game.
 
 <div class="post" data-post-id="26658" data-author="Medios" data-date="2008-10-11T16:33:46+00:00" data-subject="">
 
-At this point neither side will care what comes out about either candidate.  I will be glad when the election is over with so we can get back to ruining the country with deficit spending and more government.
+At this point neither side will care what comes out about either candidate. I will be glad when the election is over with so we can get back to ruining the country with deficit spending and more government.
 
 </div>
 
 <div class="post" data-post-id="26659" data-author="Weasel" data-date="2008-10-11T19:57:16+00:00" data-subject="">
 
-I will be glad when the election is over with so we can get back to ruining the country with deficit spending and more government.[/quote:tzobzcwj]
+> <strong>Medios wrote:</strong>
+> I will be glad when the election is over with so we can get back to ruining the country with deficit spending and more government.
 
-LOL.. true that.  :D
+LOL.. true that. <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="26660" data-author="Weasel" data-date="2008-10-11T19:58:55+00:00" data-subject="">
 
-I just don't think "you're stupid" is going to win you any arguments.[/quote:2626er3f]
+> <strong>brady wrote:</strong>
+> I just don't think "you're stupid" is going to win you any arguments.
 
 Fair enough, that was a bad call on my part. I'll rephrase it: Obama thinks most Americans are stupid; don't prove him right.
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="26661" data-author="*juggleblood*" data-date="2008-10-11T21:13:59+00:00" data-subject="">
 
-Already been proven...  
+Already been proven... 
 
 edit: prove you aren't.
 
@@ -212,7 +217,8 @@ edit: prove you aren't.
 
 <div class="post" data-post-id="26662" data-author="Weasel" data-date="2008-10-11T21:15:31+00:00" data-subject="">
 
-Already been proven...  [/quote:clmwdgiq]
+> <strong>juggleblood wrote:</strong>
+> Already been proven...
 
 Apparently so, judging by the fact he's currently leading the polls.
 
@@ -220,7 +226,8 @@ Apparently so, judging by the fact he's currently leading the polls.
 
 <div class="post" data-post-id="26664" data-author="Weasel" data-date="2008-10-11T21:24:40+00:00" data-subject="">
 
-edit: prove you aren't.[/quote:20d08yy8]
+> <strong>juggleblood wrote:</strong>
+> edit: prove you aren't.
 
 LOL.. easy - I can see through Obama's BS cultist personality and read the facts about him as they stand.
 
@@ -228,9 +235,9 @@ LOL.. easy - I can see through Obama's BS cultist personality and read the facts
 
 <div class="post" data-post-id="26667" data-author="jezer" data-date="2008-10-12T01:51:35+00:00" data-subject="">
 
-[img:3f8r1ta2]http://www.bboy.org/forums/attachments/general-discussion/20330d1208461064-motivational-posters-superhero.jpg[/img:3f8r1ta2]
+![](http://www.bboy.org/forums/attachments/general-discussion/20330d1208461064-motivational-posters-superhero.jpg)
 
-So whose winning the game... or is this just the first set?  :twisted: 
+So whose winning the game... or is this just the first set? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 Vote Broly, he won't let you down.
 
@@ -242,7 +249,7 @@ This thread needs moar tits!
 
 I deliver.
 
-[img:31kibowd]http://yasik.kiev.ua/4chan/5_tits.jpg[/img:31kibowd]
+![](http://yasik.kiev.ua/4chan/5_tits.jpg)
 
 </div>
 
@@ -250,7 +257,7 @@ I deliver.
 
 From the horse's mouth:
 
-[url:39xvx6pe]http://www.youtube.com/watch?v=wNuqV7N_bj0[/url:39xvx6pe]
+http://www.youtube.com/watch?v=wNuqV7N_bj0
 
 You want socialism? Vote Obama.
 
@@ -258,7 +265,7 @@ You want socialism? Vote Obama.
 
 <div class="post" data-post-id="26683" data-author="*juggleblood*" data-date="2008-10-14T01:10:27+00:00" data-subject="">
 
-[url:o2wgxl5x]http://www.youtube.com/watch?v=V_SPcMJASdk[/url:o2wgxl5x]
+http://www.youtube.com/watch?v=V_SPcMJASdk
 
 pawned
 
@@ -266,17 +273,18 @@ pawned
 
 <div class="post" data-post-id="26684" data-author="Weasel" data-date="2008-10-14T04:39:55+00:00" data-subject="">
 
-[url:1miwyxsf][http://www.youtube.com/watch?v=V_SPcMJASdk](http://www.youtube.com/watch?v=V_SPcMJASdk)[/url:1miwyxsf]
+> <strong>juggleblood wrote:</strong>
+> [url=http://www.youtube.com/watch?v=V_SPcMJASdk]http://www.youtube.com/watch?v=V_SPcMJASdk
+> 
+> pawned
 
-pawned[/quote:1miwyxsf]
+So what are you trying to say here - that Fox news <em>made</em> Obama say that he's going to redistribute your wealth to anyone who earns less than you? Is that it? 
 
-So what are you trying to say here - that Fox news [i:1miwyxsf]made[/i:1miwyxsf] Obama say that he's going to redistribute your wealth to anyone who earns less than you? Is that it? 
-
- :roll: 
+ <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> 
 
 Had a look at Obama's new 'plan' yet? It's so flawed, one could almost believe it's designed to bring America to its knees and behead it.
 
---
+\--
 
 [http://www.youtube.com/watch?v=wNuqV7N_bj0](http://www.youtube.com/watch?v=wNuqV7N_bj0)
 
@@ -286,31 +294,42 @@ You want socialism? Vote Obama.
 
 <div class="post" data-post-id="26685" data-author="tincts" data-date="2008-10-14T05:44:19+00:00" data-subject="">
 
-You want socialism? Vote Obama.[/quote:1fll8ygq]
+> <strong>Weasel wrote:</strong>
+> You want socialism? Vote Obama.
 
-You read the financial press in the months since Bear Stearns?  The Fed and Treasury don't need any help from Obama to socialise the U.S.  In a few short months, all the home mortgages have become U.S. government (read Chinese Government) funded, and all deposits insured.
+You read the financial press in the months since Bear Stearns? The Fed and Treasury don't need any help from Obama to socialise the U.S. In a few short months, all the home mortgages have become U.S. government (read Chinese Government) funded, and all deposits insured.
 
 That's some beautiful socialism there.
 
-(Not that I'm throwing stones from the glass house that is Australia.  Just sayin . . . )
+(Not that I'm throwing stones from the glass house that is Australia. Just sayin . . . )
 
 </div>
 
 <div class="post" data-post-id="26686" data-author="Weasel" data-date="2008-10-14T05:57:22+00:00" data-subject="">
 
-You want socialism? Vote Obama.[/quote:8b9o4ouz]
-
-You read the financial press in the months since Bear Stearns?  The Fed and Treasury don't need any help from Obama to socialise the U.S.  In a few short months, all the home mortgages have become U.S. government (read Chinese Government) funded, and all deposits insured.
-
-That's some beautiful socialism there.
-
-(Not that I'm throwing stones from the glass house that is Australia.  Just sayin . . . )[/quote:8b9o4ouz]
+> <strong>tincts wrote:</strong>
+> > <strong>Weasel wrote:</strong>
+> > You want socialism? Vote Obama.
+> 
+> 
+> 
+> 
+> 
+> You read the financial press in the months since Bear Stearns? The Fed and Treasury don't need any help from Obama to socialise the U.S. In a few short months, all the home mortgages have become U.S. government (read Chinese Government) funded, and all deposits insured.
+> 
+> 
+> 
+> That's some beautiful socialism there.
+> 
+> 
+> 
+> (Not that I'm throwing stones from the glass house that is Australia. Just sayin . . . )
 
 Ah yes, but that bailout vote was pushed by the Democrats through the House of Representatives and Senate - Bush does not just decide to make this stuff up and declare it law, all he does is sign it at the end once Congress have voted on it and decided it should be done. Congress (House and Senate) majority is Democrats, which is what Obama is. It was due to the 'no' votes from Republicans that the first bill didn't make it through. 
 
 Again, I'm not a McCain fan, but Obama is way worse, and Obama himself claimed he was integral to making the bailout bill happen. 
 
-In short, your argument that government is already socialist actually supports what I am saying, so cheers.  :D
+In short, your argument that government is already socialist actually supports what I am saying, so cheers. <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -324,7 +343,7 @@ In short, you are a right wing nutjob, just like the people who have been ruinin
 
 Hello, typical white person here clinging to my gun and Bible. Still doubt NObama is a Marxist?
 
-[url:10wbp3az]http://www.youtube.com/watch?v=CY4K23Y7Qas[/url:10wbp3az]
+http://www.youtube.com/watch?v=CY4K23Y7Qas
 
 </div>
 
@@ -338,7 +357,7 @@ Why do you make people out to be black or white? Can't they be a shade of grey?
 
 I don't trust Greys, they like forcing things up your bum.
 
-[img:zja4o3sx]http://www.alienvideo.net/0702/img/alien_greys.jpg[/img:zja4o3sx]
+![](http://www.alienvideo.net/0702/img/alien_greys.jpg)
 
 </div>
 
@@ -358,19 +377,23 @@ edit: I hate grey people.
 
 <div class="post" data-post-id="26700" data-author="Weasel" data-date="2008-10-15T03:18:09+00:00" data-subject="">
 
-In short, you are a right wing nutjob, just like the people who have been ruining our country for the last 8 years.[/quote:2pr2hg4i]
+> <strong>juggleblood wrote:</strong>
+> In short, you are a right wing nutjob, just like the people who have been ruining our country for the last 8 years.
 
-LOL was wondering when you'd revert to that - always happens when libs can't refute the facts about Obama.. either they get abusive, blame Bush, or they just flat-out lie  :D  ..FYI it was Clinton's 'every American should have a home' plan that removed market regulation, and forced Fannie Mae and Freddie Mac into lowering their mortgage requirements. Bush actually voted against that and tried to since, but democrats always overruled - best you educate yourself on the facts instead of reciting the liberal BS blame game. 
+LOL was wondering when you'd revert to that - always happens when libs can't refute the facts about Obama.. either they get abusive, blame Bush, or they just flat-out lie <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> ..FYI it was Clinton's 'every American should have a home' plan that removed market regulation, and forced Fannie Mae and Freddie Mac into lowering their mortgage requirements. Bush actually voted against that and tried to since, but democrats always overruled - best you educate yourself on the facts instead of reciting the liberal BS blame game. 
 
-Maybe you could label Obama a Marxist, but then what should we call the Republicans? The fascist party?[/quote:2pr2hg4i] 
+> <strong>juggleblood wrote:</strong>
+> Maybe you could label Obama a Marxist, but then what should we call the Republicans? The fascist party?
 
 Again, Congress is democrat majority, and has been for the last 2 years. You want to blame someone for the 'fascism' - blame your democrats.
 
-Even if you don't like blacks or liberals, Obama is the better candidate. Even if McCain wins, he would have divided the country in such a way that would make it ungovernable. [/quote:2pr2hg4i]
+> <strong>juggleblood wrote:</strong>
+> Even if you don't like blacks or liberals, Obama is the better candidate. Even if McCain wins, he would have divided the country in such a way that would make it ungovernable.
 
 Again another liberal defense: accusing people of racism if they don't support Obama. Well Mr Racist, I don't give a flying fcuk what color Obama is, I vote for what's right for the country I live in - or in the case of this election, I will vote against what's worse for this country. I've said before I'm not a McCain fan, so trying to use that as some sort of defense is futile.
 
-Obama is uniquely qualified to lead this country with a mandate from the people and I fail to see how that could be a bad thing, whether Obama likes to read Marx or not.[/quote:2pr2hg4i] 
+> <strong>juggleblood wrote:</strong>
+> Obama is uniquely qualified to lead this country with a mandate from the people and I fail to see how that could be a bad thing, whether Obama likes to read Marx or not.
 
 Explain to me how Obama is qualified to lead this country again? Because you said so, is that your logic again? Great. You know, people have been asking that same question for months of how Obama is qualified, and I've yet to hear an answer, other than:
 
@@ -384,9 +407,8 @@ Explain to me how Obama is qualified to lead this country again? Because you sai
 
 and often in that sequence, and you seem to have come pretty close to it too. Go figure.
 
- 
-
-And to repeat something someone has already pointed out; he couldn't possibly socialize the country more than Bush's administration just has.[/quote:2pr2hg4i] 
+> <strong>juggleblood wrote:</strong>
+> And to repeat something someone has already pointed out; he couldn't possibly socialize the country more than Bush's administration just has.
 
 And again to repeat something many people have said, Congress have approved these socialist measures, and Congress is a democrat majority.
 
@@ -416,9 +438,9 @@ This is like a war over +1 mana regen per tick... sure it's nice, but it's effec
 
 <div class="post" data-post-id="26702" data-author="Weasel" data-date="2008-10-15T03:50:49+00:00" data-subject="">
 
-Yeah it's weird J[b:33fntbwj]ezer[/b:33fntbwj]. When I came here from NZ I was laughing at the 'eww you're a democrat' 'eww you're a republican' bollox that goes on here. I mean seriously, people base their entire group of friends on their political affiliation, it's really bizarre, I just couldn't figure it out. I guess I've lived here long enough now that I've got sucked into it too, because it [i:33fntbwj]will[/i:33fntbwj] effect how we live, way more than it ever did when I lived in NZ. Thanks for the reminder of where I come from though - down under - and that's where we'll be heading when it really turns to custard here. 
+Yeah it's weird J<strong>ezer</strong>. When I came here from NZ I was laughing at the 'eww you're a democrat' 'eww you're a republican' bollox that goes on here. I mean seriously, people base their entire group of friends on their political affiliation, it's really bizarre, I just couldn't figure it out. I guess I've lived here long enough now that I've got sucked into it too, because it <em>will</em> effect how we live, way more than it ever did when I lived in NZ. Thanks for the reminder of where I come from though - down under - and that's where we'll be heading when it really turns to custard here. 
 
-[b:33fntbwj]Juggleblood[/b:33fntbwj] (and anyone else), I'm willing to just drop the subject if you'll not mention it either, it's not like either of us can change it (no pun intended), and I guess what will be will be - it's just Ka. When I say drop it, I really mean not a friggin word [i:33fntbwj]at all[/i:33fntbwj] on the subject. I made a similar agreement with Yasik a while back and we've both stuck to it, and it's made slothmudding more enjoyable as a result. 
+<strong>Juggleblood</strong> (and anyone else), I'm willing to just drop the subject if you'll not mention it either, it's not like either of us can change it (no pun intended), and I guess what will be will be - it's just Ka. When I say drop it, I really mean not a friggin word <em>at all</em> on the subject. I made a similar agreement with Yasik a while back and we've both stuck to it, and it's made slothmudding more enjoyable as a result. 
 
 What say you?
 
@@ -438,41 +460,43 @@ I don't buy the argument that the harmony of the mud is affected by political bi
 
 Wow. I don't appreciate having that olive branch shoved up my a$$ - what an arrogant a$$hole you are.
 
-You have not refuted ONE SINGLE FACT, not a fcuking ONE, and still you stand here saying you're right, without giving one scrap of evidence??? Says it all really. What a c[b:2menzgjb]u[/b:2menzgjb]nt. Go fcuk yourself. 
+You have not refuted ONE SINGLE FACT, not a fcuking ONE, and still you stand here saying you're right, without giving one scrap of evidence??? Says it all really. What a c<strong>u</strong>nt. Go fcuk yourself. 
 
-There - that's probably a response you can relate too huh, d[b:2menzgjb]i[/b:2menzgjb]ckhead.
+There - that's probably a response you can relate too huh, d<strong>i</strong>ckhead.
 
 </div>
 
 <div class="post" data-post-id="26705" data-author="jezer" data-date="2008-10-15T04:18:38+00:00" data-subject="">
 
-ignorant crap they spew on this forum.[/quote:1ax8lil4]
+> <strong>juggleblood wrote:</strong>
+> ignorant crap they spew on this forum.
 
-No one mentioned my name in relation with that statement  :evil: 
+No one mentioned my name in relation with that statement <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom"> 
 
-[img:1ax8lil4]http://www.leapfreak.com/newzealand/Cook.jpg[/img:1ax8lil4]
+![](http://www.leapfreak.com/newzealand/Cook.jpg)
 
-A single small view of New Zealand... my day feels so much better already... I want to go back... but I want my job here in Australia :( Can I have my cake and eat it? No.... oh well...  :cry:
+A single small view of New Zealand... my day feels so much better already... I want to go back... but I want my job here in Australia <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom"> Can I have my cake and eat it? No.... oh well... <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom">
 
-Oh, and btw, we climb up those shingle screes on the side of the mountain and run down them... omg! So much fun, you have to run sideways to slow down, and you can't stop or you get stuck in the ground!  :D
+Oh, and btw, we climb up those shingle screes on the side of the mountain and run down them... omg! So much fun, you have to run sideways to slow down, and you can't stop or you get stuck in the ground! <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="26706" data-author="Weasel" data-date="2008-10-15T04:20:51+00:00" data-subject="">
 
-Nice - Mount Cook I believe.  :)
+Nice - Mount Cook I believe. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="26707" data-author="Tap" data-date="2008-10-15T04:22:45+00:00" data-subject="Time to drop the &quot;F&quot; bomb">
 
-[img:2mz4xq5t]http://www.roflcat.com/images/cats/keyboard.jpg[/img:2mz4xq5t]
+![](http://www.roflcat.com/images/cats/keyboard.jpg)
 
 </div>
 
 <div class="post" data-post-id="26709" data-author="brady" data-date="2008-10-15T12:44:10+00:00" data-subject="">
 
-what an arrogant a$$hole you are.[/quote:3mh5fysb]
+> <strong>Weasel wrote:</strong>
+> what an arrogant a$$hole you are.
 
 That's just hilarious.
 
@@ -480,23 +504,24 @@ That's just hilarious.
 
 <div class="post" data-post-id="26710" data-author="Weasel" data-date="2008-10-15T13:44:06+00:00" data-subject="">
 
-Yeah yeah whatever, make this about me then and call me racist and retarded if that helps you deny the issues with Obama. Still nobody has offered [b:21xhnla1]anything[/b:21xhnla1] to refute the facts about Obama, or to persuade me I'm wrong.
+Yeah yeah whatever, make this about me then and call me racist and retarded if that helps you deny the issues with Obama. Still nobody has offered <strong>anything</strong> to refute the facts about Obama, or to persuade me I'm wrong.
 
 What Juggleblood did say (which I agree with), is that "What we are observing is a not just a political realignment of the parties, but a revaluing of our national priorities as a nation." Very true. Apparently many want to welcome socialism as the new way, and a leader who has given every indication he will take you there. I assumed nobody would want that, and that's been the basis of my arguments. 
 
-[b:21xhnla1]Listen, if you [i:21xhnla1]want[/i:21xhnla1] socialism, then just say so, and we'll have nothing more to argue about.[/b:21xhnla1] That I can accept and respect. It's the complete denial of facts that are right in front of your face that I've had a problem with.
+<strong>Listen, if you <em>want</em> socialism, then just say so, and we'll have nothing more to argue about.</strong> That I can accept and respect. It's the complete denial of facts that are right in front of your face that I've had a problem with.
 
 </div>
 
 <div class="post" data-post-id="26711" data-author="brady" data-date="2008-10-15T13:58:43+00:00" data-subject="">
 
-You're respect isn't important to me.  Neither is this discussion.
+You're respect isn't important to me. Neither is this discussion.
 
 </div>
 
 <div class="post" data-post-id="26712" data-author="Weasel" data-date="2008-10-15T14:17:10+00:00" data-subject="">
 
-You're respect isn't important to me.  Neither is this discussion.[/quote:w80do0wl]
+> <strong>brady wrote:</strong>
+> You're respect isn't important to me. Neither is this discussion.
 
 So why are you responding? You're contradicting yourself by doing so. 
 
@@ -524,11 +549,12 @@ Or at least a link to someone who has that evidence.
 
 <div class="post" data-post-id="26718" data-author="jezer" data-date="2008-10-15T23:49:52+00:00" data-subject="">
 
-I have not seen any evidence, just claims.[/quote:1tkgv05c]
+> <strong>Poggle wrote:</strong>
+> I have not seen any evidence, just claims.
 
-Congratulations Poggle on trying to draw out this thread, with more links to biased and opinionated newspapers and stupid "proof I'm right" pictures. I laugh so hard when I read these things. So lame and focusing on the smallest of details to make infinitely bigger points than they can hold.    
+Congratulations Poggle on trying to draw out this thread, with more links to biased and opinionated newspapers and stupid "proof I'm right" pictures. I laugh so hard when I read these things. So lame and focusing on the smallest of details to make infinitely bigger points than they can hold. 
 
-[img:1tkgv05c]http://www.funxite.com/media/136-fighting-squirrels.jpg[/img:1tkgv05c]
+![](http://www.funxite.com/media/136-fighting-squirrels.jpg)
 
 Republican! Democrat! Socialism! Take that you scurvy dog!
 
@@ -544,13 +570,12 @@ My hope was simply to remove the stupid claims without real evidence, not make s
 
 To Weasel:
 
-[quote:3h00kv0o]
-
-Such a country would be more stable, Bush argued, and more prosperous. "America is a stronger country every single time a family moves into a home of their own," he said in October 2004. To achieve his vision, Bush pushed new policies encouraging homeownership, like the "zero-down-payment initiative," which was much as it soundsâ€”a government-sponsored program that allowed people to get mortgages without a down payment. More exotic mortgages followed, including ones with no monthly payments for the first two years. Other mortgages required no documentation other than the say-so of the borrower. Absurd though these all were, they paled in comparison to the financial innovations that grew out of the mortgagesâ€”derivatives built on other derivatives, packaged and repackaged until no one could identify what they contained and how much they were, in fact, worth.[/quote:3h00kv0o]
+> <strong>Quote:</strong>
+> Such a country would be more stable, Bush argued, and more prosperous. "America is a stronger country every single time a family moves into a home of their own," he said in October 2004. To achieve his vision, Bush pushed new policies encouraging homeownership, like the "zero-down-payment initiative," which was much as it soundsâ€”a government-sponsored program that allowed people to get mortgages without a down payment. More exotic mortgages followed, including ones with no monthly payments for the first two years. Other mortgages required no documentation other than the say-so of the borrower. Absurd though these all were, they paled in comparison to the financial innovations that grew out of the mortgagesâ€”derivatives built on other derivatives, packaged and repackaged until no one could identify what they contained and how much they were, in fact, worth.
 
 [http://www.newsweek.com/id/163451](http://www.newsweek.com/id/163451)
 
-[<LINK_TEXT text="http://www.whitehouse.gov/news/releases ... 809-9.html">http://www.whitehouse.gov/news/releases/2004/08/20040809-9.html</LINK_TEXT>](http://www.whitehouse.gov/news/releases/2004/08/20040809-9.html)
+[http://www.whitehouse.gov/news/releases/2004/08/20040809-9.html](http://www.whitehouse.gov/news/releases/2004/08/20040809-9.html)
 
 Love,
 
@@ -560,7 +585,7 @@ Reboog
 
 <div class="post" data-post-id="26723" data-author="reboog" data-date="2008-10-16T01:03:55+00:00" data-subject="">
 
-Arnold Kling says that there is a huge divide between those who make the policies, and those who actually understand the policies.  I doubt anyone in the house truly understood what they were passing.  He calls it "suits vs. geeks."
+Arnold Kling says that there is a huge divide between those who make the policies, and those who actually understand the policies. I doubt anyone in the house truly understood what they were passing. He calls it "suits vs. geeks."
 
 He also says that there is evidence that the geeks kept warning against these high risk mortgages (which were classified as low risk thanks to regulatory loopholes), but the suits ignored the information/didn't get the information in the first place.
 
@@ -572,7 +597,8 @@ On a side note, take any politician, Republican or Democrat, and find one who wo
 
 Not all banks "participated" but more than enough gave in to loans that shouldn't have to avoid negative publicity ala "that bank is racist" blah, blah, blah. It's a proven fact that the government had policies that penalized banks and pulled funding if said bank didn't "approve" certain loans.
 
-[quote:259tyflz]On a side note, take any politician, Republican or Democrat, and find one who would prefer to say "No, if you can't afford a house, you shouldn't be in one" vs "Every American family should own a house."[/quote:259tyflz]
+> <strong>Quote:</strong>
+> On a side note, take any politician, Republican or Democrat, and find one who would prefer to say "No, if you can't afford a house, you shouldn't be in one" vs "Every American family should own a house."
 
 Every family should have the opportunity to own a home. But they should earn it and not have their hand held out and cry boo-hoo. I can't tolerate people who try to get by in life without having anything to contribute.
 
@@ -598,11 +624,11 @@ How about Obamas 95% tax break? Or is it... have a read:
 
 [http://online.wsj.com/article/SB122385651698727257.html](http://online.wsj.com/article/SB122385651698727257.html)
 
-[img:2ic69rki][<LINK_TEXT text="http://s.wsj.net/public/resources/image ... 232813.gif">http://s.wsj.net/public/resources/images/ED-AI343_1taxcr_NS_20081008232813.gif</LINK_TEXT>](http://s.wsj.net/public/resources/images/ED-AI343_1taxcr_NS_20081008232813.gif)[/img:2ic69rki]
+(image: /[url=http://s.wsj.net/public/resources/images/ED-AI343\_1taxcr\_NS\_20081008232813.gif]http://s.wsj.net/public/resources/images/ED-AI343\_1taxcr\_NS\_20081008232813.gif[/url])
 
 Obama is promoting a 90day foreclosure moratorium. Hillary Clinton proposed the same thing last January, and Obama said it would be disastrous. 
 
-[<LINK_TEXT text="http://agonist.org/tina/20080221/hillar ... e_remedies">http://agonist.org/tina/20080221/hillary_vs_obama_foreclosure_remedies</LINK_TEXT>](http://agonist.org/tina/20080221/hillary_vs_obama_foreclosure_remedies)
+[http://agonist.org/tina/20080221/hillary_vs_obama_foreclosure_remedies](http://agonist.org/tina/20080221/hillary_vs_obama_foreclosure_remedies)
 
 and what happens on day91? Nothing's changed, it's just free rent for 3 months for irresponsible people.
 
@@ -632,7 +658,8 @@ Got pulled over the other day and first thing I told the cop was I have a permit
 
 <div class="post" data-post-id="26729" data-author="*juggleblood*" data-date="2008-10-16T23:33:39+00:00" data-subject="">
 
-[b:i7olmdzp]Listen, if you [i:i7olmdzp]want[/i:i7olmdzp] socialism, then just say so, and we'll have nothing more to argue about.[/b:i7olmdzp] That I can accept and respect. It's the complete denial of facts that are right in front of your face that I've had a problem with.[/quote:i7olmdzp]
+> <strong>Weasel wrote:</strong>
+> <strong>Listen, if you <em>want</em> socialism, then just say so, and we'll have nothing more to argue about.</strong> That I can accept and respect. It's the complete denial of facts that are right in front of your face that I've had a problem with.
 
 Do I want this thing weasel calls socialism? No. I want this thing Obama calls democracy. 
 
@@ -646,7 +673,8 @@ Edit: I feel your pain Todd. This summer I was accused of stealing gutters, of s
 
 <div class="post" data-post-id="26731" data-author="jezer" data-date="2008-10-16T23:52:19+00:00" data-subject="">
 
-Got pulled over the other day and first thing I told the cop was I have a permit for personal protection and my weapon was in my center console of the car. Before I could blink I was jerked out of my vehicle and searched by one officer while another went through my car looking for "stuff". After not finding any "stuff", other than my glock, I was asked to produce my permit and on doing so was given a warning for running a yellow light and told to have a nice day.[/quote:11kf4z95]
+> <strong>alias wrote:</strong>
+> Got pulled over the other day and first thing I told the cop was I have a permit for personal protection and my weapon was in my center console of the car. Before I could blink I was jerked out of my vehicle and searched by one officer while another went through my car looking for "stuff". After not finding any "stuff", other than my glock, I was asked to produce my permit and on doing so was given a warning for running a yellow light and told to have a nice day.
 
 Next time switch out of Undead Control Eq before you leave the house... you will arouse less suspicion.
 
@@ -654,17 +682,19 @@ Next time switch out of Undead Control Eq before you leave the house... you will
 
 <div class="post" data-post-id="26733" data-author="Weasel" data-date="2008-10-17T01:49:31+00:00" data-subject="">
 
-I just want you to admit that the Republican party is a joke and so is candidate McCain and Palin.[/quote:gkobmdmx]
+> <strong>juggleblood wrote:</strong>
+> I just want you to admit that the Republican party is a joke and so is candidate McCain and Palin.
 
 And what would that achieve? It wont change what Obama represents. McCain has almost destroyed the Republican party, and again I will say I am no McCain fan - I don't think I have said otherwise. If I had a choice, it would be neither McCain nor Obama, but realistically that is all there is to choose from. For me this is not a matter of choosing the best candidate, but eliminating the worst of the two candidates. That would be Obama in my book.
 
-My feeling toward the government is that it should work. And it should leave me the hell alone as long as I'm out here working my butt off and feeding my kids. I'm not giving Obama a green light to implement some kind of ideology that requires my participation in any way. If anything, they need to be helping my ass, getting houses fixed up and insulated. If they want anything from me, they know where to find me. I'm here in my house with my gun and my dog. [/quote:gkobmdmx]
+> <strong>juggleblood wrote:</strong>
+> My feeling toward the government is that it should work. And it should leave me the hell alone as long as I'm out here working my butt off and feeding my kids. I'm not giving Obama a green light to implement some kind of ideology that requires my participation in any way. If anything, they need to be helping my ass, getting houses fixed up and insulated. If they want anything from me, they know where to find me. I'm here in my house with my gun and my dog.
 
-Sorry, but Obama is for [i:gkobmdmx]bigger[/i:gkobmdmx] government, so don't count on them leaving you alone. I won't go into detail, but about that gun - Obama rarely gives a straight answer to any question, and his stance on gun control is no exception. His past voting shows he is against gun ownership (despite it being a Constitutional Right). He [i:gkobmdmx]does[/i:gkobmdmx] give some fluff about making sure there are areas (national parks?) set aside for hunters (and anglers too), but he is against any guns within city limits, and unclear beyond that - I'm guessing he's against guns anywhere if he wont give a straight answer. It's not a big issue to me, but it may be for you since you mentioned it. This is not meant as an insult, but you actually sound like a Republican in that paragraph, strangely enough. If I had read that and nothing else from you, I would've assumed you were voting against Obama. Go figure.
+Sorry, but Obama is for <em>bigger</em> government, so don't count on them leaving you alone. I won't go into detail, but about that gun - Obama rarely gives a straight answer to any question, and his stance on gun control is no exception. His past voting shows he is against gun ownership (despite it being a Constitutional Right). He <em>does</em> give some fluff about making sure there are areas (national parks?) set aside for hunters (and anglers too), but he is against any guns within city limits, and unclear beyond that - I'm guessing he's against guns anywhere if he wont give a straight answer. It's not a big issue to me, but it may be for you since you mentioned it. This is not meant as an insult, but you actually sound like a Republican in that paragraph, strangely enough. If I had read that and nothing else from you, I would've assumed you were voting against Obama. Go figure.
 
 Here's a link on his gun control policies, see if you can figure out how it effects you.
 
-[url:gkobmdmx]http://www.ontheissues.org/Celeb/Barack_Obama_Gun_Control.htm[/url:gkobmdmx]
+http://www.ontheissues.org/Celeb/Barack_Obama_Gun_Control.htm
 
 </div>
 
@@ -684,17 +714,17 @@ I try to look at various sources and look for hard evidence or at least corrobor
 
 <div class="post" data-post-id="26736" data-author="Mosaix" data-date="2008-10-17T04:26:50+00:00" data-subject="">
 
-Weasel you give the Bush Administration a free pass on its socialst actions, so your argument about Obama being one goes no-where.  
+Weasel you give the Bush Administration a free pass on its socialst actions, so your argument about Obama being one goes no-where. 
 
-Other than hating democrats I dont see your point.  If you really hated socialism, you would be showing disgust to both parties.  Including recent socialist actions taken by the Bush Administration on banks and bailouts.  Corporate welfare.   Its free market capitalism and deregulation....oh until the rich banking buddies need a government bailout at taxpayer expense.  To hell with that.  
+Other than hating democrats I dont see your point. If you really hated socialism, you would be showing disgust to both parties. Including recent socialist actions taken by the Bush Administration on banks and bailouts. Corporate welfare. Its free market capitalism and deregulation....oh until the rich banking buddies need a government bailout at taxpayer expense. To hell with that. 
 
 So really you wore out liberal, so now you use socialist.
 
-Turn of Rush Limbaugh and think for yourself.  Limbaugh is total poison.  That is no way means like and vote for Obama.  But damit you dont make much sense other than spouting right-wing trash talking points.
+Turn of Rush Limbaugh and think for yourself. Limbaugh is total poison. That is no way means like and vote for Obama. But damit you dont make much sense other than spouting right-wing trash talking points.
 
-I used to enjoy being a fiscal moderate Republican.  Those days are gone.  I registered Independent now.  The Republican party has gone hard right, and left the moderates to fend for themselves.  Neo-Conservatives dominate the party policies.
+I used to enjoy being a fiscal moderate Republican. Those days are gone. I registered Independent now. The Republican party has gone hard right, and left the moderates to fend for themselves. Neo-Conservatives dominate the party policies.
 
-Thus you are seeing why McCain is getting his ass kicked in the polls.  You cant win a major election without the centrist/moderate voters.  There are not enough votes on the right or the left.  Obama has done a better job of connecting with moderates, and thus is getting their support across the entire country.  Obama gets my vote this year.  Good luck cleaning up Bush's mess.
+Thus you are seeing why McCain is getting his ass kicked in the polls. You cant win a major election without the centrist/moderate voters. There are not enough votes on the right or the left. Obama has done a better job of connecting with moderates, and thus is getting their support across the entire country. Obama gets my vote this year. Good luck cleaning up Bush's mess.
 
 </div>
 
@@ -724,15 +754,16 @@ Shrink military spending? I hope so.
 
 <div class="post" data-post-id="26738" data-author="jezer" data-date="2008-10-17T04:59:51+00:00" data-subject="">
 
-A good first start by any government would be to confiscate pooka's glock. Do you trust a necro with a hand gun?... I sure don't. That's got Socibamacainrepdem stamped all over it... and we know what that means... no almonds in the fridge.  :evil:
+A good first start by any government would be to confiscate pooka's glock. Do you trust a necro with a hand gun?... I sure don't. That's got Socibamacainrepdem stamped all over it... and we know what that means... no almonds in the fridge. <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="26741" data-author="Weasel" data-date="2008-10-17T13:46:42+00:00" data-subject="">
 
-Weasel you give the Bush Administration a free pass on its socialst actions, so your argument about Obama being one goes no-where. [/quote:30ftjoqi]
+> <strong>Mosaix wrote:</strong>
+> Weasel you give the Bush Administration a free pass on its socialst actions, so your argument about Obama being one goes no-where.
 
-Are you serious? For a start, Bush will be gone shortly, so ranting about him is pointless. AGAIN you conveniently forget that the Senate and House have been Democrat majority for the last 2 years. All these bailouts are sponsored by Democrats, pushed through by Democrats, and approved by the Democrats in a Congress that is a Democrat majority. If you want to [i:30ftjoqi]blame[/i:30ftjoqi] someone for these socialist bailouts, then put the blame where it belongs - with the Democrats. What part of that is so hard to understand? The evidence could not be more clear.
+Are you serious? For a start, Bush will be gone shortly, so ranting about him is pointless. AGAIN you conveniently forget that the Senate and House have been Democrat majority for the last 2 years. All these bailouts are sponsored by Democrats, pushed through by Democrats, and approved by the Democrats in a Congress that is a Democrat majority. If you want to <em>blame</em> someone for these socialist bailouts, then put the blame where it belongs - with the Democrats. What part of that is so hard to understand? The evidence could not be more clear.
 
 This is not a case of wearing out liberal and using socialist instead.. damn is that the only argument you could come up with? Really grasping at straws in your denial. Democrat party is liberal, that is what it calls itself. Obama is socialist, that is what I call him and so do many others, because he clearly is. I call it how I see it. If you can't even get past that, then there is little point continuing.
 
@@ -784,7 +815,10 @@ Rebog: bad nick length.
 
 <div class="post" data-post-id="26762" data-author="Tap" data-date="2008-10-18T20:11:51+00:00" data-subject="">
 
-Alias wrote a long time ago [quote:33t0v2r5]Got pulled over the other day and first thing I told the cop was I have a permit for personal protection and my weapon was in my center console of the car. Before I could blink I was jerked out of my vehicle and searched by one officer while another went through my car looking for "stuff". After not finding any "stuff", other than my glock, I was asked to produce my permit and on doing so was given a warning for running a yellow light and told to have a nice day.[/quote:33t0v2r5]
+Alias wrote a long time ago 
+
+> <strong>Quote:</strong>
+> Got pulled over the other day and first thing I told the cop was I have a permit for personal protection and my weapon was in my center console of the car. Before I could blink I was jerked out of my vehicle and searched by one officer while another went through my car looking for "stuff". After not finding any "stuff", other than my glock, I was asked to produce my permit and on doing so was given a warning for running a yellow light and told to have a nice day.
 
 Unfortunately, this is become a recurring theme in the not-so-distant future. You will have 4-5 officers show up at YOUR HOME and ask to practice a random search of it for guns. Should you refuse, you will give just cause and they will procurr a warrant and search it anyways, possibly arresting you in the process. Yeah, i'm an Alex Jones junkie.
 
@@ -812,21 +846,33 @@ In the end, power does corrupt. And IMO very, very few leaders wouldn't create a
 
 <div class="post" data-post-id="26784" data-author="Medios" data-date="2008-10-20T21:20:25+00:00" data-subject="">
 
-Alias wrote a long time ago [quote:14498rxj]Got pulled over the other day and first thing I told the cop was I have a permit for personal protection and my weapon was in my center console of the car. Before I could blink I was jerked out of my vehicle and searched by one officer while another went through my car looking for "stuff". After not finding any "stuff", other than my glock, I was asked to produce my permit and on doing so was given a warning for running a yellow light and told to have a nice day.[/quote:14498rxj]
+> <strong>Tap wrote:</strong>
+> Alias wrote a long time ago 
+> 
+> > <strong>Quote:</strong>
+> > Got pulled over the other day and first thing I told the cop was I have a permit for personal protection and my weapon was in my center console of the car. Before I could blink I was jerked out of my vehicle and searched by one officer while another went through my car looking for "stuff". After not finding any "stuff", other than my glock, I was asked to produce my permit and on doing so was given a warning for running a yellow light and told to have a nice day.
+> 
+> 
+> 
+> 
+> 
+> Unfortunately, this is become a recurring theme in the not-so-distant future. You will have 4-5 officers show up at YOUR HOME and ask to practice a random search of it for guns. Should you refuse, you will give just cause and they will procurr a warrant and search it anyways, possibly arresting you in the process. Yeah, i'm an Alex Jones junkie.
+> 
+> 
+> 
+> 
+> 
+> Overall, while I am an optimist, the next 10-15 years are rather bleak. And that's at best, I get depressed when I think about how bad it "can" 
+> 
+> get. Fortunately, we do love in a great country and should any one person
+> 
+> should try to "impose" a total new way of life for all..well..I'm sure someone will step up to the plate and "correct" the problem. These things have a way of working themselves out.
 
-Unfortunately, this is become a recurring theme in the not-so-distant future. You will have 4-5 officers show up at YOUR HOME and ask to practice a random search of it for guns. Should you refuse, you will give just cause and they will procurr a warrant and search it anyways, possibly arresting you in the process. Yeah, i'm an Alex Jones junkie.
+First of all a car and a home are 2 totally different birds. The cops can pretty much do anything they want to you while you are in your car. Your home is another thing all together. There is no way under the current law that they will be able to obtain a just warrant for a home search refusal. Especially random. They will have to make up a bogus domestic call to your home or possibly a fake burglary in progress. Or they can just get DNR to send a forest ranger to your home for supposed poaching. One of these 3 things will allow them to come in to your home for "probable cause". However they aren't going to be able to make up bogus claims for everyone.
 
-Overall, while I am an optimist, the next 10-15 years are rather bleak. And that's at best, I get depressed when I think about how bad it "can" 
+ The problem lies with this. Many people don't take lightly to anyone, including the cops, just busting into their homes. Cops will get shot which will do one of two things. If successful they will use the media to portray guns as the horrible things and try to make these decent homeowners look like vile criminals. If they get that done then guns go away. Otherwise people start to get wary of the law and the govt. They start tightening their belts and getting ready for their house to be next. Then the govt has a big problem. There might be plenty of tax revenue but there is no way in hell they have enough people to enforce something like this.
 
-get. Fortunately, we do love in a great country and should any one person
-
-should try to "impose" a total new way of life for all..well..I'm sure someone will step up to the plate and "correct" the problem. These things have a way of working themselves out.[/quote:14498rxj]
-
-First of all a car and a home are 2 totally different birds.  The cops can pretty much do anything they want to you while you are in your car.  Your home is another thing all together.  There is no way under the current law that they will be able to obtain a just warrant for a home search refusal.  Especially random.  They will have to make up a bogus domestic call to your home or possibly a fake burglary in progress.  Or they can just get DNR to send a forest ranger to your home for supposed poaching.  One of these 3 things will allow them to come in to your home for "probable cause".  However they aren't going to be able to make up bogus claims for everyone.
-
-  The problem lies with this.  Many people don't take lightly to anyone, including the cops, just busting into their homes.  Cops will get shot which will do one of two things.  If successful they will use the media to portray guns as the horrible things and try to make these decent homeowners look like vile criminals.  If they get that done then guns go away.  Otherwise people start to get wary of the law and the govt.  They start tightening their belts and getting ready for their house to be next.  Then the govt has a big problem.  There might be plenty of tax revenue but there is no way in hell they have enough people to enforce something like this.
-
-The only way I see it as a possibility is this scenario.  President declares martial law due to some "terrorist" or otherwise incident.  Martial law would allow the military to be used against civilians.  Systematically they go through the cities first, leaving the country side for last.  Then eventually you got a war like Afghanistan except its a redneck in the smoky mountains that just wants to keep his pistol.
+The only way I see it as a possibility is this scenario. President declares martial law due to some "terrorist" or otherwise incident. Martial law would allow the military to be used against civilians. Systematically they go through the cities first, leaving the country side for last. Then eventually you got a war like Afghanistan except its a redneck in the smoky mountains that just wants to keep his pistol.
 
 </div>
 
@@ -834,9 +880,10 @@ The only way I see it as a possibility is this scenario.  President declares mar
 
 You make valid points however,
 
-With the current database of gunowners..once you are ordered to surrender your weapons within a given time frame, you then go onto a separate list. Most people are sheep and will gladly( and out of fear) turn in their weapons under a false promise of being returned later. Those who don't give up so easily, who are now on a second list, will in fact, have officers coming  to their place of residence and demand for said gun owner to comply immediately or be arrested. If homeowner states gun has been stolen etc..he must immediately have home searched. This has already been loosely passed within past few years. Too tired tonite to list sources but give me a few days..I'll gladly post links.  
+With the current database of gunowners..once you are ordered to surrender your weapons within a given time frame, you then go onto a separate list. Most people are sheep and will gladly( and out of fear) turn in their weapons under a false promise of being returned later. Those who don't give up so easily, who are now on a second list, will in fact, have officers coming to their place of residence and demand for said gun owner to comply immediately or be arrested. If homeowner states gun has been stolen etc..he must immediately have home searched. This has already been loosely passed within past few years. Too tired tonite to list sources but give me a few days..I'll gladly post links. 
 
-[quote:jilhqvw4]Then eventually you got a war like Afghanistan except its a redneck in the smoky mountains that just wants to keep his pistol.[/quote:jilhqvw4]
+> <strong>Quote:</strong>
+> Then eventually you got a war like Afghanistan except its a redneck in the smoky mountains that just wants to keep his pistol.
 
 Well, not only. I don't even own a gun although I do have a license...If NObama wins the election then I most definitely will be making my first purchase. Oh.. and I live surburbs of Atlanta.
 
@@ -870,13 +917,13 @@ It just goes on and on and on... all because selfish people believe in exercisin
 
 <div class="post" data-post-id="26796" data-author="Mosaix" data-date="2008-10-21T04:16:17+00:00" data-subject="">
 
-[img:12hheb3c]http://www.bloops.org/images/weasel_stfu_1.jpg[/img:12hheb3c]
+![](http://www.bloops.org/images/weasel_stfu_1.jpg)
 
 </div>
 
 <div class="post" data-post-id="26798" data-author="Weasel" data-date="2008-10-21T11:48:08+00:00" data-subject="">
 
-[img:2upq3e7f]http://revistes.upc.es/wiki/images/f/f2/Rofl-mao.jpg[/img:2upq3e7f]
+![](http://revistes.upc.es/wiki/images/f/f2/Rofl-mao.jpg)
 
 </div>
 
@@ -914,7 +961,7 @@ Point of View... Tap...
 
 In there case it's the government that's not giving up there rights to control and manipulate things. Sure it's not working, the general population made the sacrifice of there rights, however, the power that comes from laying down there rights has been collected and abused by a corrupt few in government.
 
-Sure the people are worse off, [b:2fxfx5mu]but it's because an elite few running the country did not make the same sacrifice.[/b:2fxfx5mu] So once again it's greed and selfishness at the base of the problem.
+Sure the people are worse off, <strong>but it's because an elite few running the country did not make the same sacrifice.</strong> So once again it's greed and selfishness at the base of the problem.
 
 In communism greed and power works out in totalitarianism, in capitalism it works out through rights and legislation. Both systems become corrupted by greed and selfishness, but the out workings are different.
 
@@ -930,19 +977,19 @@ And we see this in America in a different way, by how everyone is concerned with
 
 <div class="post" data-post-id="26809" data-author="Tap" data-date="2008-10-22T04:21:33+00:00" data-subject="">
 
-[img:1oloa8mt]http://www.punchlinemagazine.com/uploads/images/comedians/Ron%20White/RonWhite_Mid.jpg[/img:1oloa8mt]
+![](http://www.punchlinemagazine.com/uploads/images/comedians/Ron%20White/RonWhite_Mid.jpg)
 
 </div>
 
 <div class="post" data-post-id="26813" data-author="Medios" data-date="2008-10-22T20:14:33+00:00" data-subject="">
 
-Having "rights" and being greedy and/or mean to other people are totally unrelated.  Was Martin Luther King Jr. showing love or anger when he protested for blacks to receive the same "rights" as whites?  Your looking at this all backwards.  You fail to understand that the common denominator in corrupt governments is currency and the military power the currency gives to said leaders.  All forms of government have positive and negative aspects.  There can never be a perfect system as long as humans are involved.  
+Having "rights" and being greedy and/or mean to other people are totally unrelated. Was Martin Luther King Jr. showing love or anger when he protested for blacks to receive the same "rights" as whites? Your looking at this all backwards. You fail to understand that the common denominator in corrupt governments is currency and the military power the currency gives to said leaders. All forms of government have positive and negative aspects. There can never be a perfect system as long as humans are involved. 
 
-That being said.  The problem with America is not the idea of a federal republic with a vote for all.  The problem is with the big business(oil,bank,pharmaceuticals) corrupting the law with money.  It is not capitalism per say, but the loopholes that allow money to control everything.    You need to remember that many politicians were first lawyers.  They work ways to trick us into rooting for something that they know in the end will hurt us.  Meanwhile they make profits.  
+That being said. The problem with America is not the idea of a federal republic with a vote for all. The problem is with the big business(oil,bank,pharmaceuticals) corrupting the law with money. It is not capitalism per say, but the loopholes that allow money to control everything. You need to remember that many politicians were first lawyers. They work ways to trick us into rooting for something that they know in the end will hurt us. Meanwhile they make profits. 
 
-Now I am not against making profits, but when your profiteering is breaking the backs of everyone else then yes it is wrong.  But there is nothing wrong with wanting to work hard and having something nice for yourself.  If you give to someone who doesn't work as hard, or can't work as hard that is your business.  If you want to work an extra 5 hours a week to support a homeless person then go right ahead.  The problem is that the politicians that are in favor of taking your money and giving it to someone else have created tax loopholes and things like trusts to hide their millions.  So they don't care about spending your money, but you damn sure know they don't want you touching theirs.  
+Now I am not against making profits, but when your profiteering is breaking the backs of everyone else then yes it is wrong. But there is nothing wrong with wanting to work hard and having something nice for yourself. If you give to someone who doesn't work as hard, or can't work as hard that is your business. If you want to work an extra 5 hours a week to support a homeless person then go right ahead. The problem is that the politicians that are in favor of taking your money and giving it to someone else have created tax loopholes and things like trusts to hide their millions. So they don't care about spending your money, but you damn sure know they don't want you touching theirs. 
 
-Rights are not the problem.  Ignorance is.  America has been very short sighted in the last 30 years.  We don't teach our kids the values your talking of.  It has all become about who can get the most.  I personally don't live this way, but I never had it easy.  Working for me is just something I have to do to support my family.  I am not worried whether or not the Mercedes is going to get repo'd because I wouldn't want one if I could afford it.  I bought a 50k house even though the bank said I could borrow up to 200k.  My fixed mortgage never fluctuated during the bank crisis.  All the good decisions that I make are swept under the table by the government helping the bastard people who live on credit.  The government is now bailing these people out.  Positive reinforcement for people to be dependent.  The governments position is clear.  Make us dependent.
+Rights are not the problem. Ignorance is. America has been very short sighted in the last 30 years. We don't teach our kids the values your talking of. It has all become about who can get the most. I personally don't live this way, but I never had it easy. Working for me is just something I have to do to support my family. I am not worried whether or not the Mercedes is going to get repo'd because I wouldn't want one if I could afford it. I bought a 50k house even though the bank said I could borrow up to 200k. My fixed mortgage never fluctuated during the bank crisis. All the good decisions that I make are swept under the table by the government helping the bastard people who live on credit. The government is now bailing these people out. Positive reinforcement for people to be dependent. The governments position is clear. Make us dependent.
 
 BTW I am damn sick of having to relog in after 5 min writing a post.
 
@@ -976,7 +1023,8 @@ The right likes to say that this mess was caused by greed, when in reality it wa
 
 <div class="post" data-post-id="26819" data-author="jezer" data-date="2008-10-23T02:55:34+00:00" data-subject="">
 
-I don't think human beings are any more or less greedy than they were 10k years ago.[/quote:21lfm2fy]
+> <strong>juggleblood wrote:</strong>
+> I don't think human beings are any more or less greedy than they were 10k years ago.
 
 There is a saying that I think is true... Times Change, People Don't.
 
@@ -984,11 +1032,17 @@ There is a saying that I think is true... Times Change, People Don't.
 
 <div class="post" data-post-id="26826" data-author="Medios" data-date="2008-10-23T21:01:37+00:00" data-subject="">
 
-I don't think human beings are any more or less greedy than they were 10k years ago.[/quote:idt6fybf]
+> <strong>jezer wrote:</strong>
+> > <strong>juggleblood wrote:</strong>
+> > I don't think human beings are any more or less greedy than they were 10k years ago.
+> 
+> 
+> 
+> 
+> 
+> There is a saying that I think is true... Times Change, People Don't.
 
-There is a saying that I think is true... Times Change, People Don't.[/quote:idt6fybf]
-
-I think this a bit short sighted.  I see progress in every generation.  Whether the progress is against racism, sexism, bigotry or greed.  Sure we go through bad phases and yes it is a direct result of weak leadership.  However overall people have evolved quite a bit in the last 10k years.  The main problem is that the government teaches us to be dependent, which is exclusive of a free society.
+I think this a bit short sighted. I see progress in every generation. Whether the progress is against racism, sexism, bigotry or greed. Sure we go through bad phases and yes it is a direct result of weak leadership. However overall people have evolved quite a bit in the last 10k years. The main problem is that the government teaches us to be dependent, which is exclusive of a free society.
 
 </div>
 
@@ -996,29 +1050,38 @@ I think this a bit short sighted.  I see progress in every generation.  Whether 
 
 I'm no US-citizen, nor am i pro or anti USA.
 
-however, I think most of the problems if american society is the misconstrued idea of "rights".  Blame the smarty pants who decided to name that silly document the "bill of rights".  ok before you start slagging me off, I'm not bashing anyone.
+however, I think most of the problems if american society is the misconstrued idea of "rights". Blame the smarty pants who decided to name that silly document the "bill of rights". ok before you start slagging me off, I'm not bashing anyone.
 
-People need to differentiate between "rights" and "privileges".  I think the only rights human beings have is the right to equality, and the right to survive.  Owning a handgun isn't a right, it's a privilege.  Being able to speak freely without fear of persecuation is a right.  Being able to live without fear of oppression is a right.  Beating the crap out of anyone who calls your mom isn't a right.
+People need to differentiate between "rights" and "privileges". I think the only rights human beings have is the right to equality, and the right to survive. Owning a handgun isn't a right, it's a privilege. Being able to speak freely without fear of persecuation is a right. Being able to live without fear of oppression is a right. Beating the crap out of anyone who calls your mom isn't a right.
 
-People may argue that most crimes are committed with illegal firearms anyway.  I won'ta rgue with the fact.  Why stop at firearms then? hell give us all a nuclear warhead so we can nuke the adjacent neighborhood full of junkies.
+People may argue that most crimes are committed with illegal firearms anyway. I won'ta rgue with the fact. Why stop at firearms then? hell give us all a nuclear warhead so we can nuke the adjacent neighborhood full of junkies.
 
-I admire the panache with which most of you argue about domestic politics.  I only wish half the people in my country had that much passion about the government.  I guess that's the difference between our cultures.  We sacrifice our own liberties/privileges for a comfortable life, as opposed to sacrificing rights of others so that you can boast to be a proud american.
+I admire the panache with which most of you argue about domestic politics. I only wish half the people in my country had that much passion about the government. I guess that's the difference between our cultures. We sacrifice our own liberties/privileges for a comfortable life, as opposed to sacrificing rights of others so that you can boast to be a proud american.
 
 </div>
 
 <div class="post" data-post-id="26844" data-author="Medios" data-date="2008-10-25T16:03:20+00:00" data-subject="">
 
-I'm no US-citizen, nor am i pro or anti USA.
+> <strong>Gimlet wrote:</strong>
+> I'm no US-citizen, nor am i pro or anti USA.
+> 
+> 
+> 
+> however, I think most of the problems if american society is the misconstrued idea of "rights". Blame the smarty pants who decided to name that silly document the "bill of rights". ok before you start slagging me off, I'm not bashing anyone.
+> 
+> 
+> 
+> People need to differentiate between "rights" and "privileges". I think the only rights human beings have is the right to equality, and the right to survive. Owning a handgun isn't a right, it's a privilege. Being able to speak freely without fear of persecuation is a right. Being able to live without fear of oppression is a right. Beating the crap out of anyone who calls your mom isn't a right.
+> 
+> 
+> 
+> People may argue that most crimes are committed with illegal firearms anyway. I won'ta rgue with the fact. <strong>Why stop at firearms then? hell give us all a nuclear warhead so we can nuke the adjacent neighborhood full of junkies.</strong>
+> 
+> 
+> 
+> I admire the panache with which most of you argue about domestic politics. I only wish half the people in my country had that much passion about the government. I guess that's the difference between our cultures. We sacrifice our own liberties/privileges for a comfortable life, as opposed to sacrificing rights of others so that you can boast to be a proud american.
 
-however, I think most of the problems if american society is the misconstrued idea of "rights".  Blame the smarty pants who decided to name that silly document the "bill of rights".  ok before you start slagging me off, I'm not bashing anyone.
-
-People need to differentiate between "rights" and "privileges".  I think the only rights human beings have is the right to equality, and the right to survive.  Owning a handgun isn't a right, it's a privilege.  Being able to speak freely without fear of persecuation is a right.  Being able to live without fear of oppression is a right.  Beating the crap out of anyone who calls your mom isn't a right.
-
-People may argue that most crimes are committed with illegal firearms anyway.  I won'ta rgue with the fact.  [b:er5l0mke]Why stop at firearms then? hell give us all a nuclear warhead so we can nuke the adjacent neighborhood full of junkies.[/b:er5l0mke]
-
-I admire the panache with which most of you argue about domestic politics.  I only wish half the people in my country had that much passion about the government.  I guess that's the difference between our cultures.  We sacrifice our own liberties/privileges for a comfortable life, as opposed to sacrificing rights of others so that you can boast to be a proud american.[/quote:er5l0mke]
-
-So should the government make guns illegal?  How about knives?  How about self defense?  Should Kung Fu be illegal?  Someone could use it to hurt someone else...
+So should the government make guns illegal? How about knives? How about self defense? Should Kung Fu be illegal? Someone could use it to hurt someone else...
 
 </div>
 
@@ -1038,9 +1101,10 @@ ignore me, having a bad day
 
 <div class="post" data-post-id="26848" data-author="Weasel" data-date="2008-10-25T18:44:05+00:00" data-subject="">
 
-ignore me, having a bad day[/quote:26z8rg9k]
+> <strong>Gimlet wrote:</strong>
+> ignore me, having a bad day
 
-Ok, if you insist.    :twisted:
+Ok, if you insist. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -1056,23 +1120,37 @@ The ongoing problem of crime is merely a smokescreen to use as an excuse for eve
 
 <div class="post" data-post-id="26858" data-author="brady" data-date="2008-10-27T00:00:05+00:00" data-subject="">
 
-[img:2fa3pqd9]http://www.voidspace.org.uk/python/articles/images/minority-report.jpg[/img:2fa3pqd9]
+![](http://www.voidspace.org.uk/python/articles/images/minority-report.jpg)
 
 </div>
 
 <div class="post" data-post-id="26860" data-author="v1cious" data-date="2008-10-27T00:59:28+00:00" data-subject="">
 
-I'm no US-citizen, nor am i pro or anti USA.
-
-however, I think most of the problems if american society is the misconstrued idea of "rights".  Blame the smarty pants who decided to name that silly document the "bill of rights".  ok before you start slagging me off, I'm not bashing anyone.
-
-People need to differentiate between "rights" and "privileges".  I think the only rights human beings have is the right to equality, and the right to survive.  Owning a handgun isn't a right, it's a privilege.  Being able to speak freely without fear of persecuation is a right.  Being able to live without fear of oppression is a right.  Beating the crap out of anyone who calls your mom isn't a right.
-
-People may argue that most crimes are committed with illegal firearms anyway.  I won'ta rgue with the fact.  [b:146tyjl4]Why stop at firearms then? hell give us all a nuclear warhead so we can nuke the adjacent neighborhood full of junkies.[/b:146tyjl4]
-
-I admire the panache with which most of you argue about domestic politics.  I only wish half the people in my country had that much passion about the government.  I guess that's the difference between our cultures.  We sacrifice our own liberties/privileges for a comfortable life, as opposed to sacrificing rights of others so that you can boast to be a proud american.[/quote:146tyjl4]
-
-So should the government make guns illegal?  How about knives?  How about self defense?  Should Kung Fu be illegal?  Someone could use it to hurt someone else...[/quote:146tyjl4]
+> <strong>Medios wrote:</strong>
+> > <strong>Gimlet wrote:</strong>
+> > I'm no US-citizen, nor am i pro or anti USA.
+> > 
+> > 
+> > 
+> > however, I think most of the problems if american society is the misconstrued idea of "rights". Blame the smarty pants who decided to name that silly document the "bill of rights". ok before you start slagging me off, I'm not bashing anyone.
+> > 
+> > 
+> > 
+> > People need to differentiate between "rights" and "privileges". I think the only rights human beings have is the right to equality, and the right to survive. Owning a handgun isn't a right, it's a privilege. Being able to speak freely without fear of persecuation is a right. Being able to live without fear of oppression is a right. Beating the crap out of anyone who calls your mom isn't a right.
+> > 
+> > 
+> > 
+> > People may argue that most crimes are committed with illegal firearms anyway. I won'ta rgue with the fact. <strong>Why stop at firearms then? hell give us all a nuclear warhead so we can nuke the adjacent neighborhood full of junkies.</strong>
+> > 
+> > 
+> > 
+> > I admire the panache with which most of you argue about domestic politics. I only wish half the people in my country had that much passion about the government. I guess that's the difference between our cultures. We sacrifice our own liberties/privileges for a comfortable life, as opposed to sacrificing rights of others so that you can boast to be a proud american.
+> 
+> 
+> 
+> 
+> 
+> So should the government make guns illegal? How about knives? How about self defense? Should Kung Fu be illegal? Someone could use it to hurt someone else...
 
 Technological development will one day reach the point where it would be technically and economically feasible for significant portions of the private population to purchase or fund the creation of their own private nuclear weapons, provided that the right to do so is not restricted by government.
 
@@ -1100,9 +1178,10 @@ since it pretty much "limits" your rights
 
 <div class="post" data-post-id="26863" data-author="Tap" data-date="2008-10-27T03:52:44+00:00" data-subject="">
 
-Every man, no matter the nationality, should have the right to defend themselves. Think of all the killings that have occurred because someone didn't have a right to protect themselves. I live by a simple rule, don't F*ck with anyone - don't take no sh*t from anyone. Live and let live for all you kiddies out there.I would agree that their should be a limit of what type of gun one should be allowed to have according to the times at hand. I would not want my neighbor owning a machine gun BUT should the time come when he needed it.. I would be glad he had one to help protect me and vice-versa. I dunno...in these trying time and the way everything seems to be going to shit at an ever=increasing rate, I am both saddened and somewhat comforted that just perhaps...the good Lord is getting ready to make an appearance.
+Every man, no matter the nationality, should have the right to defend themselves. Think of all the killings that have occurred because someone didn't have a right to protect themselves. I live by a simple rule, don't F\*ck with anyone - don't take no sh\*t from anyone. Live and let live for all you kiddies out there.I would agree that their should be a limit of what type of gun one should be allowed to have according to the times at hand. I would not want my neighbor owning a machine gun BUT should the time come when he needed it.. I would be glad he had one to help protect me and vice-versa. I dunno...in these trying time and the way everything seems to be going to shit at an ever=increasing rate, I am both saddened and somewhat comforted that just perhaps...the good Lord is getting ready to make an appearance.
 
-[quote:67rgz5kb]The ongoing problem of crime is merely a smokescreen to use as an excuse for ever tightening controls on our day to day lives.[/quote:67rgz5kb]
+> <strong>Quote:</strong>
+> The ongoing problem of crime is merely a smokescreen to use as an excuse for ever tightening controls on our day to day lives.
 
 Somewhere around Nov. 14, the U.S. and several other countries are meeting to discuss the impending global financial crisis. Already, most are calling for a new 1 world global currency to help reset the problem.
 
@@ -1110,15 +1189,19 @@ Somewhere around Nov. 14, the U.S. and several other countries are meeting to di
 
 <div class="post" data-post-id="26864" data-author="v1cious" data-date="2008-10-27T03:54:53+00:00" data-subject="">
 
-Bringing nuclear weapons into a discussion over the second amendment (and equivalent laws) is a clear strawman argument.
-
-No one is saying that we should be able to buy any of the other weapons with no use outside of the battlefield either. There's landmines, cluster bombs, mortars, missiles armed with conventional warheads, anti-missile weapons, and more, have you ever heard an advocate for gun-owner's rights demand the public sale of any of those things?[/quote:1hksowa0]
+> <strong>Rynquald wrote:</strong>
+> Bringing nuclear weapons into a discussion over the second amendment (and equivalent laws) is a clear strawman argument.
+> 
+> 
+> 
+> No one is saying that we should be able to buy any of the other weapons with no use outside of the battlefield either. There's landmines, cluster bombs, mortars, missiles armed with conventional warheads, anti-missile weapons, and more, have you ever heard an advocate for gun-owner's rights demand the public sale of any of those things?
 
 Did you read my post? 
 
 I'll quote it once again, just for you:
 
-[quote:1hksowa0]anyone using that amendment as their argument must either accept that nuclear weapons should also be legal for unrestricted private use, or qualify their interpretation of that amendment with some guiding principle that distinguishes nuclear weapons from firearms.[/quote:1hksowa0]
+> <strong>Quote:</strong>
+> anyone using that amendment as their argument must either accept that nuclear weapons should also be legal for unrestricted private use, or qualify their interpretation of that amendment with some guiding principle that distinguishes nuclear weapons from firearms.
 
 So let's hear what the guiding principle of yours is.
 
@@ -1126,19 +1209,20 @@ So let's hear what the guiding principle of yours is.
 
 <div class="post" data-post-id="26865" data-author="Weasel" data-date="2008-10-27T11:04:39+00:00" data-subject="">
 
-:roll:
+<img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="26866" data-author="Vixn" data-date="2008-10-27T17:29:00+00:00" data-subject="">
 
-I live by a simple rule, don't F*ck with anyone - don't take no sh*t from anyone.[/quote:2mexybrp]
+> <strong>Tap wrote:</strong>
+> I live by a simple rule, don't F\*ck with anyone - don't take no sh\*t from anyone.
 
 Why do I not believe you? Due to pthieving or for another reason?
 
 If you want someone to listen you try to gain some respect first. 
 
-And don't F*ck my brain with your stupid rules.
+And don't F\*ck my brain with your stupid rules.
 
 Vixn
 
@@ -1146,41 +1230,45 @@ Vixn
 
 <div class="post" data-post-id="26867" data-author="13" data-date="2008-10-27T20:08:03+00:00" data-subject="">
 
-[quote:2wzk36k0] I will be glad when the election is over with so we can get back to ruining the country with deficit spending and more government.[/quote:2wzk36k0]
+> <strong>Quote:</strong>
+> I will be glad when the election is over with so we can get back to ruining the country with deficit spending and more government.
 
-3:16[/size:2wzk36k0]
+3:16
 
 </div>
 
 <div class="post" data-post-id="26868" data-author="13" data-date="2008-10-27T20:15:52+00:00" data-subject="">
 
-While I agree that we should be able to keep and bear arms, I recognize the numbers that Canada and the UK put up every year.  I agree with a little
+While I agree that we should be able to keep and bear arms, I recognize the numbers that Canada and the UK put up every year. I agree with a little
 
 socialism, a little communism, some democracy (occaisionally I think people
 
 are too stupid to choose the right thing for themselves), some libertarianism
 
-and some classic republican values.  I am a liberal that is very conservative
+and some classic republican values. I am a liberal that is very conservative
 
-in some ways.  I hate that we use currency but I realize the need for it.
+in some ways. I hate that we use currency but I realize the need for it.
 
-Where to turn?  Who to trust?  Who can you believe in?
+Where to turn? Who to trust? Who can you believe in?
 
 I believe that the majority of network news is disinformation
 
 and everyone is crooked but I believe in the soul of humanity
 
-and the goodness of man.  What do you think?
+and the goodness of man. What do you think?
 
 </div>
 
 <div class="post" data-post-id="26870" data-author="jezer" data-date="2008-10-27T22:34:23+00:00" data-subject="">
 
-I agree with a little socialism, a little communism, some democracy (occaisionally I think people are too stupid to choose the right thing for themselves), some libertarianism and some classic republican values.  I am a liberal that is very conservative in some ways.  I hate that we use currency but I realize the need for it.
+> <strong>13 wrote:</strong>
+> I agree with a little socialism, a little communism, some democracy (occaisionally I think people are too stupid to choose the right thing for themselves), some libertarianism and some classic republican values. I am a liberal that is very conservative in some ways. I hate that we use currency but I realize the need for it.
+> 
+> 
+> 
+> Where to turn? Who to trust? Who can you believe in? I believe that the majority of network news is disinformation and everyone is crooked but I believe in the soul of humanity and the goodness of man. What do you think?
 
-Where to turn?  Who to trust?  Who can you believe in? I believe that the majority of network news is disinformation and everyone is crooked but I believe in the soul of humanity and the goodness of man.  What do you think?[/quote:f8d70dpa]
-
-You got my vote!  :twisted:
+You got my vote! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -1188,23 +1276,38 @@ You got my vote!  :twisted:
 
 I'm not a pthief. I just hang out with them. Or use too....
 
-[img:3oa3dkxa]http://bestanimations.com/Holidays/Valentines/Lips-01-june.gif[/img:3oa3dkxa]
+![](http://bestanimations.com/Holidays/Valentines/Lips-01-june.gif)
 
 </div>
 
 <div class="post" data-post-id="26874" data-author="Rynquald" data-date="2008-10-28T22:10:21+00:00" data-subject="">
 
-Bringing nuclear weapons into a discussion over the second amendment (and equivalent laws) is a clear strawman argument.
-
-No one is saying that we should be able to buy any of the other weapons with no use outside of the battlefield either. There's landmines, cluster bombs, mortars, missiles armed with conventional warheads, anti-missile weapons, and more, have you ever heard an advocate for gun-owner's rights demand the public sale of any of those things?[/quote:2zs30mv1]
-
-Did you read my post? 
-
-I'll quote it once again, just for you:
-
-[quote:2zs30mv1]anyone using that amendment as their argument must either accept that nuclear weapons should also be legal for unrestricted private use, or qualify their interpretation of that amendment with some guiding principle that distinguishes nuclear weapons from firearms.[/quote:2zs30mv1]
-
-So let's hear what the guiding principle of yours is.[/quote:2zs30mv1]
+> <strong>v1cious wrote:</strong>
+> > <strong>Rynquald wrote:</strong>
+> > Bringing nuclear weapons into a discussion over the second amendment (and equivalent laws) is a clear strawman argument.
+> > 
+> > 
+> > 
+> > No one is saying that we should be able to buy any of the other weapons with no use outside of the battlefield either. There's landmines, cluster bombs, mortars, missiles armed with conventional warheads, anti-missile weapons, and more, have you ever heard an advocate for gun-owner's rights demand the public sale of any of those things?
+> 
+> 
+> 
+> Did you read my post? 
+> 
+> 
+> 
+> I'll quote it once again, just for you:
+> 
+> 
+> 
+> > <strong>Quote:</strong>
+> > anyone using that amendment as their argument must either accept that nuclear weapons should also be legal for unrestricted private use, or qualify their interpretation of that amendment with some guiding principle that distinguishes nuclear weapons from firearms.
+> 
+> 
+> 
+> 
+> 
+> So let's hear what the guiding principle of yours is.
 
 You're right there, I misunderstood your meaning. I guess I've heard the similar-sounding argument that uses nuclear weapons as an shot against the right to keep weapons in general one too many times to take it objectively.
 
@@ -1214,7 +1317,7 @@ As for an actual answer to your question, I don't have a definitive one. The onl
 
 <div class="post" data-post-id="26875" data-author="*juggleblood*" data-date="2008-10-28T22:18:33+00:00" data-subject="">
 
-it is. just requires constant vigilance.  I wish our system had more mechanisms by which the legislative branch could constrain the power of the executive.
+it is. just requires constant vigilance. I wish our system had more mechanisms by which the legislative branch could constrain the power of the executive.
 
 Edit: what do you guys think will happen to the Republican party? I'm thinking it's going to fracture as the moderate fiscal conservatives pull away from the religious fundamentalists. This might pave the way for a real multi-party system, instead of the existing 2 party paradigm. It'll be so surreal to see a unified democratic government and a fractured multi-party right. Who woulda thunk it.
 
@@ -1228,13 +1331,13 @@ Ultimately, I don't think that Obama winning will be the end of the world. I do 
 
 Oh...if Obama somehow receives a head wound and manages to make a miraculous recovery that "WOW's the world.....then...ahh nvm
 
- :roll:
+ <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="26878" data-author="jezer" data-date="2008-10-29T02:08:12+00:00" data-subject="">
 
-Yeah, I reckon if Obama gets taken out by some one while he's president we will see scenes like the LA riots all over again, and this time throughout the entire country. There will be burning, looting and murder. The world will stand by and marvel at the hypocrisy of what America stood for, and what happens in there own back yard. There is a keg, and it's only a matter of time before somehow it explodes... all it needs is some event, some ignition point... KABOOM!  :shock:
+Yeah, I reckon if Obama gets taken out by some one while he's president we will see scenes like the LA riots all over again, and this time throughout the entire country. There will be burning, looting and murder. The world will stand by and marvel at the hypocrisy of what America stood for, and what happens in there own back yard. There is a keg, and it's only a matter of time before somehow it explodes... all it needs is some event, some ignition point... KABOOM! <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -1248,17 +1351,18 @@ look like your daughter's tea party with Carebears and my little pony.
 
 <div class="post" data-post-id="26885" data-author="Medios" data-date="2008-10-30T21:27:38+00:00" data-subject="">
 
-if Obama gets elected and shot it will make Detroit and Oakland in the 60s 
+> <strong>13 wrote:</strong>
+> if Obama gets elected and shot it will make Detroit and Oakland in the 60s 
+> 
+> look like your daughter's tea party with Carebears and my little pony.
 
-look like your daughter's tea party with Carebears and my little pony.[/quote:1tbm463o]
-
-While this might be true the sad fact is that they will burn down their own neighborhoods,  then cry about not being able to eat because the store is in rubble.  Mobs and riots have never proved anything except that the government needs stronger measures against said riots....  This will only speed up the current nanny state mentality.
+While this might be true the sad fact is that they will burn down their own neighborhoods, then cry about not being able to eat because the store is in rubble. Mobs and riots have never proved anything except that the government needs stronger measures against said riots.... This will only speed up the current nanny state mentality.
 
 </div>
 
 <div class="post" data-post-id="26886" data-author="Weasel" data-date="2008-10-30T21:37:11+00:00" data-subject="">
 
-Let 'em riot - heck, Philly just had riots complete with overturned and burned out vehicles, because they [i:1v4sk0w4]won[/i:1v4sk0w4] the world series. Classy town. Any excuse.
+Let 'em riot - heck, Philly just had riots complete with overturned and burned out vehicles, because they <em>won</em> the world series. Classy town. Any excuse.
 
 </div>
 
@@ -1270,13 +1374,13 @@ I heard 2 overturned vehicles. Didn't hear about the fire. As far as riots go, I
 
 <div class="post" data-post-id="26989" data-author="jezer" data-date="2008-11-05T04:26:07+00:00" data-subject="">
 
-So weasel, looking like Obama's won... Any comment...? I want to see what kind of a sore loser you are...  :twisted: Maybe his bags are already packed to head back to NZ!
+So weasel, looking like Obama's won... Any comment...? I want to see what kind of a sore loser you are... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> Maybe his bags are already packed to head back to NZ!
 
 </div>
 
 <div class="post" data-post-id="26990" data-author="Tap" data-date="2008-11-05T04:34:33+00:00" data-subject="">
 
-[img:3b68n7yf]http://farm4.static.flickr.com/3109/2826208369_86c4ffe7b7.jpg[/img:3b68n7yf]
+![](http://farm4.static.flickr.com/3109/2826208369_86c4ffe7b7.jpg)
 
 </div>
 
@@ -1284,7 +1388,7 @@ So weasel, looking like Obama's won... Any comment...? I want to see what kind o
 
 (Bracing for the inevitable flames)
 
-Now that it looks like Osama ... err Obama has won, better get ready to say goodbye to the 2nd amendment.  Also, get ready to say hello to higher crime rates and as funny as it sounds animal overpopulation, leading to more animal attacks on people and more property damage.  Because when our guns get taken away, there goes a big part of our capacity to control predatory animals and animals such as deer that love to wander onto the highway and cause accidents.
+Now that it looks like Osama ... err Obama has won, better get ready to say goodbye to the 2nd amendment. Also, get ready to say hello to higher crime rates and as funny as it sounds animal overpopulation, leading to more animal attacks on people and more property damage. Because when our guns get taken away, there goes a big part of our capacity to control predatory animals and animals such as deer that love to wander onto the highway and cause accidents.
 
 And before anyone comments, no I don't own a gun, but I firmly believe it is every American's right to own one if they choose.
 
@@ -1294,7 +1398,7 @@ OK I've had my $ .02 worth, flame away
 
 <div class="post" data-post-id="26993" data-author="jezer" data-date="2008-11-05T06:32:50+00:00" data-subject="">
 
-If you can't have a gun... and they can't have a gun either... how do you get shot?  :roll:
+If you can't have a gun... and they can't have a gun either... how do you get shot? <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -1302,7 +1406,7 @@ If you can't have a gun... and they can't have a gun either... how do you get sh
 
 First off I didn't say criminals would have guns, there's all kinds of crimes that are prevented by potential victims having guns and their attackers not.
 
-Second, if it became a crime to have a gun, law abiding citizens would turn in their guns, but criminals wouldn't.  Hence the saying, "If it becomes criminal to have a gun, only criminals will have guns."
+Second, if it became a crime to have a gun, law abiding citizens would turn in their guns, but criminals wouldn't. Hence the saying, "If it becomes criminal to have a gun, only criminals will have guns."
 
 </div>
 
@@ -1320,13 +1424,13 @@ If you haven't noticed... every country wants nuke's these days, because another
 
 What makes me kinda think about the country we live in, is everyone is saying
 
-Black this, black that.  Did everyone forget he is also 1/2 white?  What
+Black this, black that. Did everyone forget he is also 1/2 white? What
 
-if he was only 1/4 black?  Would this country still say he is the first black
+if he was only 1/4 black? Would this country still say he is the first black
 
-this and that?  Its really sad that ppl think that way.
+this and that? Its really sad that ppl think that way.
 
-All I say is, who cares.  Bush already pucked this country and guess what ...
+All I say is, who cares. Bush already pucked this country and guess what ...
 
 he is WHITE!!!
 
@@ -1334,7 +1438,8 @@ he is WHITE!!!
 
 <div class="post" data-post-id="26997" data-author="Weasel" data-date="2008-11-05T13:07:42+00:00" data-subject="">
 
-So weasel, looking like Obama's won... Any comment...? I want to see what kind of a sore loser you are...  :twisted: Maybe his bags are already packed to head back to NZ![/quote:t20dewi5]
+> <strong>jezer wrote:</strong>
+> So weasel, looking like Obama's won... Any comment...? I want to see what kind of a sore loser you are... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> Maybe his bags are already packed to head back to NZ!
 
 It's been looking like he was going to win from the start. I was hoping it wouldn't happen, but it did. I don't think it will be safe to make comments against Obama in the future, and perhaps I should go and delete all my previous comments for that reason? Congrats to those who support him, the margins he won by look like they exceed all the fraudulent votes, so he's in at the will of the people.. or at the will of the media more accurately LOL. I guess time will reward you appropriately. Good luck.
 
@@ -1342,7 +1447,8 @@ It's been looking like he was going to win from the start. I was hoping it would
 
 <div class="post" data-post-id="26998" data-author="Weasel" data-date="2008-11-05T13:10:02+00:00" data-subject="">
 
-If you can't have a gun... and they can't have a gun either... how do you get shot?  :roll:[/quote:17ys1i9q]
+> <strong>jezer wrote:</strong>
+> If you can't have a gun... and they can't have a gun either... how do you get shot? <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 LOL come live in NYC where guns are illegal. Almost every criminal has one anyway, and the only difference is that law-abiding people have no means to defend themselves.
 
@@ -1350,15 +1456,15 @@ LOL come live in NYC where guns are illegal. Almost every criminal has one anywa
 
 <div class="post" data-post-id="26999" data-author="jezer" data-date="2008-11-05T13:35:54+00:00" data-subject="">
 
-So when you pull a gun on a crook, you don't get shot and he puts his weapon down right?  :roll:
+So when you pull a gun on a crook, you don't get shot and he puts his weapon down right? <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="27001" data-author="Shazuko" data-date="2008-11-05T16:45:23+00:00" data-subject="">
 
-Don't use this recent trend of universal 'political correctness'  as an excuse to asuage your constitutional rights, INCLUDING the right to protect yourself with a firearm. Everyone who just voted for this guy basically bent over and gave their asses away--and thats what he will do to the first country that wants to take it! As far as the right to bear arms, I dont need a piece of paper to tell me its common sense to keep someone else from causing me physical harm or worse! Get real, do you HONESTLY think the police are going to be there for you at a moments notice? Do you think they are your personal body guards with NOTHING to do but make sure no one attacks you?
+Don't use this recent trend of universal 'political correctness' as an excuse to asuage your constitutional rights, INCLUDING the right to protect yourself with a firearm. Everyone who just voted for this guy basically bent over and gave their asses away--and thats what he will do to the first country that wants to take it! As far as the right to bear arms, I dont need a piece of paper to tell me its common sense to keep someone else from causing me physical harm or worse! Get real, do you HONESTLY think the police are going to be there for you at a moments notice? Do you think they are your personal body guards with NOTHING to do but make sure no one attacks you?
 
----------------------------------------------------------------------------------------
+\---------------------------------------------------------------------------------------
 
 "Do you live in fear? Are you afraid of trouble?"
 
@@ -1366,7 +1472,7 @@ No, I live in common sense. I'm also NOT afraid that my house will burn down, bu
 
 If I were worried about REAL trouble, I'd carry a bazooka..
 
--------------------------------------------------------------------------------------
+\-------------------------------------------------------------------------------------
 
 I'm really tired of this 'punish the whole class for one screw up' mentality.
 
@@ -1376,21 +1482,25 @@ As far as personal protection, remember this:
 
 When SECONDS count...the cops are only MINUTES away...
 
-<Shazuko Roku Ryuu>
+\<Shazuko Roku Ryuu\>
 
-<Shazuko Six Dragons>
+\<Shazuko Six Dragons\>
 
-<~Chaos~>
+\<\~Chaos\~\>
 
-"An armed society, is a polite society."     --Benjamin Franklin
+"An armed society, is a polite society." --Benjamin Franklin
 
 </div>
 
 <div class="post" data-post-id="27004" data-author="Alberich" data-date="2008-11-05T17:43:07+00:00" data-subject="">
 
-So weasel, looking like Obama's won... Any comment...? I want to see what kind of a sore loser you are...  :twisted: Maybe his bags are already packed to head back to NZ![/quote:3akvg0nt]
-
-It's been looking like he was going to win from the start. I was hoping it wouldn't happen, but it did. I don't think it will be safe to make comments against Obama in the future, and perhaps I should go and delete all my previous comments for that reason? Congrats to those who support him, the margins he won by look like they exceed all the fraudulent votes, so he's in at the will of the people.. or at the will of the media more accurately LOL. I guess time will reward you appropriately. Good luck.[/quote:3akvg0nt]
+> <strong>Weasel wrote:</strong>
+> > <strong>jezer wrote:</strong>
+> > So weasel, looking like Obama's won... Any comment...? I want to see what kind of a sore loser you are... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> Maybe his bags are already packed to head back to NZ!
+> 
+> 
+> 
+> It's been looking like he was going to win from the start. I was hoping it wouldn't happen, but it did. I don't think it will be safe to make comments against Obama in the future, and perhaps I should go and delete all my previous comments for that reason? Congrats to those who support him, the margins he won by look like they exceed all the fraudulent votes, so he's in at the will of the people.. or at the will of the media more accurately LOL. I guess time will reward you appropriately. Good luck.
 
 Well, as Mencken said, Democracy is the theory that the common people know what they want, and deserve to get it good and hard.
 
@@ -1416,9 +1526,9 @@ Finally, in general, the world is a safer place for many nations having nuclear 
 
 Yes, the sheeple have spoken.
 
-From a republican perspective, one positive thing about this election is finally democrats will only have themselves to blame for the next four years.  And I imagine with Barrack's policies, there will be a lot of blaming going on.
+From a republican perspective, one positive thing about this election is finally democrats will only have themselves to blame for the next four years. And I imagine with Barrack's policies, there will be a lot of blaming going on.
 
-Sad thing is, most people I know who voted for Barrack did so because he stands for "hope, change, and not Bush!".  Barrack's people certainly get A's for their marketing campaign.
+Sad thing is, most people I know who voted for Barrack did so because he stands for "hope, change, and not Bush!". Barrack's people certainly get A's for their marketing campaign.
 
 I wonder when people will realize that Barrack can't walk on water...
 
@@ -1426,11 +1536,11 @@ I wonder when people will realize that Barrack can't walk on water...
 
 <div class="post" data-post-id="27020" data-author="jezer" data-date="2008-11-05T22:32:26+00:00" data-subject="">
 
-[img:1y37f8nl]http://www.photius.com/rogue_nations/victim.jpg[/img:1y37f8nl]
+![](http://www.photius.com/rogue_nations/victim.jpg)
 
-[img:1y37f8nl]http://www.geocities.com/daveclarkecb/NewPhotos/VictimOfWhitePhos.jpg[/img:1y37f8nl]
+![](http://www.geocities.com/daveclarkecb/NewPhotos/VictimOfWhitePhos.jpg)
 
-[img:1y37f8nl]http://www.japanfocus.org/images/UserFiles/Image/2642.kuznick.tibbets.abomb/Victim.hiro.jpg[/img:1y37f8nl]
+![](http://www.japanfocus.org/images/UserFiles/Image/2642.kuznick.tibbets.abomb/Victim.hiro.jpg)
 
 Yeah, weapons have definitely made the world a safer place. You've convinced me, actually, I might start carrying grenades now... I mean have to look out for number one and all, and because I'm right who gives a stuff about anyone else... I'm just so glad we have invented all these thousands of new ways to kill each other to make the world safer. Maybe if we invent an even bigger killer, yeah, the world will be definitely safer, cause man has shown so much responsibility to use these things wisely... I mean these people deserved it. We were just protecting ourselves... and we were right don't forget... Unfortunate that they got in the way, but who really gives a stuff.
 
@@ -1442,11 +1552,11 @@ You make me really angry... I'm in half a mind to do a weasel.
 
 My opinions:
 
-Violence, murder, armed robbery - these things aren't going to go away by banning firearms.  What you really need is violence control.  
+Violence, murder, armed robbery - these things aren't going to go away by banning firearms. What you really need is violence control. 
 
-You reduce violence by restricting gun sales to criminals or the mentally ill, and punishing those who inflict harm on others.  
+You reduce violence by restricting gun sales to criminals or the mentally ill, and punishing those who inflict harm on others. 
 
-You don't punish people if they haven't performed a crime, and don't plan to.  Restricting sales of firearms makes sense, banning firearms does not.
+You don't punish people if they haven't performed a crime, and don't plan to. Restricting sales of firearms makes sense, banning firearms does not.
 
 </div>
 
@@ -1480,9 +1590,9 @@ I'm out of this argument, you know you can't win when you get lame come backs li
 
 Well, we're willing to think about it, at least.
 
-I own guns, but I didn't shoot any of those people.  I've never shot any person, or animal.  So, should someone take away my guns because someone out there has radiation burns?  Should I take away someone else's rights because I don't like to see people hurt either?  
+I own guns, but I didn't shoot any of those people. I've never shot any person, or animal. So, should someone take away my guns because someone out there has radiation burns? Should I take away someone else's rights because I don't like to see people hurt either? 
 
-So there is looting in Iraq, and people are being shot.  What can we do to protect those people?  Give up our guns and send in unarmed soldiers?
+So there is looting in Iraq, and people are being shot. What can we do to protect those people? Give up our guns and send in unarmed soldiers?
 
 It's not a perfect world, we just do the best we can.
 
@@ -1492,27 +1602,31 @@ It's not a perfect world, we just do the best we can.
 
 Speaking of lame=
 
-[quote:p7y7c9vh]What makes me kinda think about the country we live in, is everyone is saying Black this, black that. Did everyone forget he is also 1/2 white?[/quote:p7y7c9vh]
+> <strong>Quote:</strong>
+> What makes me kinda think about the country we live in, is everyone is saying Black this, black that. Did everyone forget he is also 1/2 white?
 
 Odd...the only person bringing up race is Osama and his co-horts.
 
 More lameness=
 
-[quote:p7y7c9vh]So when you pull a gun on a crook, you don't get shot and he puts his weapon down right?[/quote:p7y7c9vh]
+> <strong>Quote:</strong>
+> So when you pull a gun on a crook, you don't get shot and he puts his weapon down right?
 
-No..Mr. Crook knowing that there is NOT a gun ban might think twice before doing a home invasion. Now, home invasions happen all the time..it's just nice knowing that if someone(s) is looking to come thugging in the middle of the night, I don't have to rely on a butter knife to protect my righteous ass..and as pointed...if it's 2 against 1 then I am pretty much f*cked
+No..Mr. Crook knowing that there is NOT a gun ban might think twice before doing a home invasion. Now, home invasions happen all the time..it's just nice knowing that if someone(s) is looking to come thugging in the middle of the night, I don't have to rely on a butter knife to protect my righteous ass..and as pointed...if it's 2 against 1 then I am pretty much f\*cked
 
 And now a remark regarding Joe the Weasel=
 
-[quote:p7y7c9vh]I don't think it will be safe to make comments against Obama in the future[/quote:p7y7c9vh]
+> <strong>Quote:</strong>
+> I don't think it will be safe to make comments against Obama in the future
 
 He is already doing that and before he was elected...only now he is going to set up a network of spies to "rat" on opponents. Isn't Socialism great?
 
-BTW, his name is Osama. :twisted:
+BTW, his name is Osama. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 Back to more lameness from Jezer=
 
-[quote:p7y7c9vh]so he wasn't shot by a gun... grow a heart. It's ignorant and careless attitudes like that, that let these things happen, all the while making the lamest selfish excuses.[/quote:p7y7c9vh]
+> <strong>Quote:</strong>
+> so he wasn't shot by a gun... grow a heart. It's ignorant and careless attitudes like that, that let these things happen, all the while making the lamest selfish excuses.
 
 Hrm..You try to make an anti-gun argument using pics NOT involving gun injuries blah blah? Hrm Jezer..why don't we ban bridges while we are at it, you know..people still jump off them.
 
@@ -1536,9 +1650,10 @@ That isn't rhetorical, I'm actually curious what you think.
 
 <div class="post" data-post-id="27031" data-author="jezer" data-date="2008-11-06T00:05:16+00:00" data-subject="">
 
-Yes, short retirement... :oops: 
+Yes, short retirement... <img src="/images/smilies/icon_redface.svg" alt=":oops:" title=":oops:" width="15" height="15" class="smiley nozoom"> 
 
-Say a murder is about to be committed by a criminal wielding a knife (not a gun). The victim is cornered, they can't escape, and no one else is nearby. In this scenario someone is going to be killed. Would you seriously argue that if the victim were to produce a weapon and defend themselves with lethal force, they would be "not giving a stuff" or being selfish?[/quote:38vi1c5o] 
+> <strong>Rynquald wrote:</strong>
+> Say a murder is about to be committed by a criminal wielding a knife (not a gun). The victim is cornered, they can't escape, and no one else is nearby. In this scenario someone is going to be killed. Would you seriously argue that if the victim were to produce a weapon and defend themselves with lethal force, they would be "not giving a stuff" or being selfish?
 
 But rynquald just proved my point... Once again... justification of owning weapons based solely on projected fears. Do you want to live your life under that weight? I choose not too.
 
@@ -1562,7 +1677,8 @@ In one post you complain about all the violence and death that occurs every day,
 
 <div class="post" data-post-id="27033" data-author="jezer" data-date="2008-11-06T00:55:19+00:00" data-subject="">
 
-In one post you complain about all the violence and death that occurs every day, while in the next you accuse the people who are concerned about it happening to them of being unduly fearful.[/quote:lgduckso]
+> <strong>Rynquald wrote:</strong>
+> In one post you complain about all the violence and death that occurs every day, while in the next you accuse the people who are concerned about it happening to them of being unduly fearful.
 
 I see that "Fear is too the mind, what violence is to the body." Both are tools that seek to bring down humanity. Same source, different out workings. 
 
@@ -1578,17 +1694,17 @@ I would do all that I could to preserve my survival, while keeping the integrity
 
 I think I understand where Jezer is coming from, he wants to ban people.
 
- :P
+ <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="27035" data-author="Avatar" data-date="2008-11-06T01:24:07+00:00" data-subject="">
 
-You do make a certain sense, and definitely have principles.  I hope the same, that I can get through life without harming others.
+You do make a certain sense, and definitely have principles. I hope the same, that I can get through life without harming others.
 
 I don't think anyone would argue that you're not free to make this decision for yourself, and we would respect you for standing up for these ethics.
 
-The disagreement comes later, when we're talking about the rights of other people.  Do they have the right to make their own decision?  Should we use a law to take away that right?  I think, for myself to take away someone else's ability to make decisions is to harm them.  I'm content to let them make their own decisions, as long as that person doesn't interfere with my rights.
+The disagreement comes later, when we're talking about the rights of other people. Do they have the right to make their own decision? Should we use a law to take away that right? I think, for myself to take away someone else's ability to make decisions is to harm them. I'm content to let them make their own decisions, as long as that person doesn't interfere with my rights.
 
 </div>
 
@@ -1604,7 +1720,8 @@ I think people with our two viewpoints can get along, they always have before. I
 
 <div class="post" data-post-id="27037" data-author="jezer" data-date="2008-11-06T01:43:28+00:00" data-subject="">
 
-I think people with our two viewpoints can get along, they always have before. I'm not about to criticise you for not wanting to physically protect yourself, or even for wanting to put the fact that the world isn't a safe place out of your mind for the betterment of your life. Just don't attempt to stop me and others from being prepared and living life our way.[/quote:szqj4dvt]
+> <strong>Rynquald wrote:</strong>
+> I think people with our two viewpoints can get along, they always have before. I'm not about to criticise you for not wanting to physically protect yourself, or even for wanting to put the fact that the world isn't a safe place out of your mind for the betterment of your life. Just don't attempt to stop me and others from being prepared and living life our way.
 
 I think that is the conclusion I have come to... and Avatar has eluded to as well... although we have strong viewpoints about what we think is right, and we are not afraid to point these out... we can't justify some of the means by which our former counterparts, whose fanaticism for the same ideals, seems to have lead them to do the very type's of things that they said they despised or out of the same heart. Hypocrisy is never far. But seems to keep it's distance from the humble.
 
@@ -1612,7 +1729,8 @@ I think that is the conclusion I have come to... and Avatar has eluded to as wel
 
 <div class="post" data-post-id="27038" data-author="Weasel" data-date="2008-11-06T01:51:10+00:00" data-subject="">
 
-But rynquald just proved my point... Once again... justification of owning weapons based solely on projected fears. Do you want to live your life under that weight? I choose not too.[/quote:11r2kofg]
+> <strong>jezer wrote:</strong>
+> But rynquald just proved my point... Once again... justification of owning weapons based solely on projected fears. Do you want to live your life under that weight? I choose not too.
 
 So I presume you recommend people should not wear a seatbelts while driving a car, because that is clearly an action based on projected fear.
 
@@ -1626,17 +1744,21 @@ LOL.
 
 <div class="post" data-post-id="27039" data-author="jezer" data-date="2008-11-06T02:04:35+00:00" data-subject="">
 
-But rynquald just proved my point... Once again... justification of owning weapons based solely on projected fears. Do you want to live your life under that weight? I choose not too.[/quote:1286gumy]
+> <strong>Weasel wrote:</strong>
+> > <strong>jezer wrote:</strong>
+> > But rynquald just proved my point... Once again... justification of owning weapons based solely on projected fears. Do you want to live your life under that weight? I choose not too.
+> 
+> 
+> 
+> So I presume you recommend people should not wear a seatbelts while driving a car, because that is clearly an action based on projected fear.
+> 
+> Poisons should not be placed in child-proof cupboards, because that is clearly an action based on projected fear.
+> 
+> Shall I continue? 
+> 
+> LOL.
 
-So I presume you recommend people should not wear a seatbelts while driving a car, because that is clearly an action based on projected fear.
-
-Poisons should not be placed in child-proof cupboards, because that is clearly an action based on projected fear.
-
-Shall I continue? 
-
-LOL.[/quote:1286gumy]
-
-There is a point when safety becomes fear... I don't think those things you suggested crosses the lines... although it's a fine line. I have a strange urge to talk about Obama, why is that?  :twisted:
+There is a point when safety becomes fear... I don't think those things you suggested crosses the lines... although it's a fine line. I have a strange urge to talk about Obama, why is that? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -1652,7 +1774,8 @@ But beyond gun control as far as Osama is concerned, it's just not gun control t
 
 <div class="post" data-post-id="27041" data-author="Weasel" data-date="2008-11-06T02:18:08+00:00" data-subject="">
 
-There is a point when safety becomes fear... I don't think those things you suggested crosses the lines... although it's a fine line. I have a strange urge to talk about Obama, why is that?  :twisted:[/quote:30oye6up]
+> <strong>jezer wrote:</strong>
+> There is a point when safety becomes fear... I don't think those things you suggested crosses the lines... although it's a fine line. I have a strange urge to talk about Obama, why is that? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 Ok, let's look at it a different way that will maybe make more sense to you.
 
@@ -1666,7 +1789,8 @@ Your opinion is likely quite valid for your situation (whatever it may be), but 
 
 <div class="post" data-post-id="27042" data-author="jezer" data-date="2008-11-06T02:41:05+00:00" data-subject="">
 
-I can only assume you either don't understand this or have not thought of this because you don't live in an environment where the chances of being faced with violent crime is just an everyday part of life, as much as carrying an umbrella is if you live somewhere where it rains a lot. It's not a matter of fear, it's a matter of fact.[/quote:3clo3ky4]
+> <strong>Weasel wrote:</strong>
+> I can only assume you either don't understand this or have not thought of this because you don't live in an environment where the chances of being faced with violent crime is just an everyday part of life, as much as carrying an umbrella is if you live somewhere where it rains a lot. It's not a matter of fear, it's a matter of fact.
 
 Here we are back to the beginning... a statement eluding to the fact violent crime happens... because people have guns... and here in Australia where there are far less more guns on the street we have less violent crime as proved by some statistics I posted earlier... So why do you think carrying a gun makes it safer, that just pure stupidity! It's because people have them it's unsafe!
 
@@ -1682,37 +1806,40 @@ Living with threats is life, letting it effect you, is a choice.
 
 Hrm..you make the case as far as geography. We can all agree on that. I'd even say you were lucky that your two altercations only managed to bang you up. Personally, while we do have different points of view on gun control, I'd also be against forcing everyone to own a gun. The issue, you shouldn't have anything "forced" on you. Forcing someone to own/not own a gun is slavery..giving them an option (with guidelines/rules) is freedom. As someone who realises just how little freedom I have, my gut feeling is even those I might be deluded into thinking I have, well maybe not so much. I'll say it again, it's one thing to hear it on talk radio but when you hear straight from the horses mouth, hell how can you ignore it?
 
- :?:
+ <img src="/images/smilies/icon_question.svg" alt=":?:" title=":?:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="27044" data-author="Weasel" data-date="2008-11-06T03:01:10+00:00" data-subject="">
 
-So get rid of your guns, if no one has one, no firearm crime, no need to have one, it's really very simple.[/quote:o40xbroz]
+> <strong>jezer wrote:</strong>
+> So get rid of your guns, if no one has one, no firearm crime, no need to have one, it's really very simple.
 
-And that's the problem. You outlaw guns [i:o40xbroz]here[/i:o40xbroz], the people who would otherwise own guns responsibly will not own them, but the criminal element who misuse guns will still have them. IF there were NO guns here whatsoever, then sure, there would be no problem and no need, but the FACT is there are guns here already, and if you outlaw them, you are (again) only taking them out of the hands of those who act responsibly, not the ones who would misuse them. You're dealing with ideals, I'm dealing with reality. I wish things were the way you want, but they aren't - at least not in my neck of the woods. 
+And that's the problem. You outlaw guns <em>here</em>, the people who would otherwise own guns responsibly will not own them, but the criminal element who misuse guns will still have them. IF there were NO guns here whatsoever, then sure, there would be no problem and no need, but the FACT is there are guns here already, and if you outlaw them, you are (again) only taking them out of the hands of those who act responsibly, not the ones who would misuse them. You're dealing with ideals, I'm dealing with reality. I wish things were the way you want, but they aren't - at least not in my neck of the woods. 
 
-After saying all that, I personally do not own a gun as I have no experience with them, because I spent most of my life living in NZ where the situation is very very different, and is more like Aussie. I thought the same as you do when I lived there. I now live here, and have to adjust my attitude accordingly. We can agree to disagree if you wish, but you are projecting your values appropriate to your environment onto others where it may well be inappropriate ..weren't you earlier speaking [i:o40xbroz]against[/i:o40xbroz] projecting?
+After saying all that, I personally do not own a gun as I have no experience with them, because I spent most of my life living in NZ where the situation is very very different, and is more like Aussie. I thought the same as you do when I lived there. I now live here, and have to adjust my attitude accordingly. We can agree to disagree if you wish, but you are projecting your values appropriate to your environment onto others where it may well be inappropriate ..weren't you earlier speaking <em>against</em> projecting?
 
-And yes, as Tap says, gun ownership should not be a [i:o40xbroz]requirement[/i:o40xbroz], but it should remain a choice here, and that choice should remain for [i:o40xbroz]all[/i:o40xbroz], not just those who would misuse guns, which is effectively what you'd achieve by outlawing them here. The guns are already in circulation here, it's too late to ban them.
+And yes, as Tap says, gun ownership should not be a <em>requirement</em>, but it should remain a choice here, and that choice should remain for <em>all</em>, not just those who would misuse guns, which is effectively what you'd achieve by outlawing them here. The guns are already in circulation here, it's too late to ban them.
 
 </div>
 
 <div class="post" data-post-id="27045" data-author="Tap" data-date="2008-11-06T03:05:40+00:00" data-subject="">
 
-[quote:24rhjc84]
-
-I think I understand where Jezer is coming from, he wants to ban people.
-
-Razz[/quote:24rhjc84]
+> <strong>Quote:</strong>
+> I think I understand where Jezer is coming from, he wants to ban people.
+> 
+> 
+> 
+> Razz
 
 </div>
 
 <div class="post" data-post-id="27046" data-author="jezer" data-date="2008-11-06T04:15:29+00:00" data-subject="">
 
-[quote:3h6jquf8]IF there were NO guns here whatsoever, then sure, there would be no problem and no need, but the FACT is there are guns here already, and if you outlaw them, you are (again) only taking them out of the hands of those who act responsibly, not the ones who would misuse them. You're dealing with ideals, I'm dealing with reality. I wish things were the way you want, but they aren't - at least not in my neck of the woods. [/quote:3h6jquf8]
+> <strong>Quote:</strong>
+> IF there were NO guns here whatsoever, then sure, there would be no problem and no need, but the FACT is there are guns here already, and if you outlaw them, you are (again) only taking them out of the hands of those who act responsibly, not the ones who would misuse them. You're dealing with ideals, I'm dealing with reality. I wish things were the way you want, but they aren't - at least not in my neck of the woods.
 
-Oh weasel :( Once again... fear of what might be... your chasing your tail, and your going around in a circle. People think the only way to solve the issue is to be like the 'baddies' and have guns too... it doesn't work... you can't kill people for morality. You can't fart for pleasant smells.
+Oh weasel <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom"> Once again... fear of what might be... your chasing your tail, and your going around in a circle. People think the only way to solve the issue is to be like the 'baddies' and have guns too... it doesn't work... you can't kill people for morality. You can't fart for pleasant smells.
 
 Even on the radio at lunch... with the US Missile shield... Russia making threats, and counter arrangements, as a result of building the missile shield... to solve the problem... someone!... somewhere!... has to back down! 
 
@@ -1728,7 +1855,8 @@ The Right thing to do? You bet!
 
 This seems like a good time to point out that pretty much every freedom we still have was won by people that refused to back down even when it was going to cost lives.
 
-People think the only way to solve the issue is to be like the 'baddies' and have guns too...[/quote:6pjehfhb]
+> <strong>Jezer wrote:</strong>
+> People think the only way to solve the issue is to be like the 'baddies' and have guns too...
 
 That statement relies on the assertion that the initial bearers of arms are "baddies" and everyone that comes after is simply being reactionary. A gun is a tool, an inanimate object, possessing one has no bearing on any moral state.
 
@@ -1740,9 +1868,10 @@ Armed conflict is brutal and at the border of what we know as humanity, but it c
 
 <div class="post" data-post-id="27048" data-author="Weasel" data-date="2008-11-06T04:53:32+00:00" data-subject="">
 
-Oh weasel :( Once again... fear of what might be... [/quote:38m1y2zu]
+> <strong>jezer wrote:</strong>
+> Oh weasel <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom"> Once again... fear of what might be...
 
-Dude you do not live here, I do. This is not what [i:38m1y2zu]might be[/i:38m1y2zu], this is what is. It doesn't bother me, I don't [i:38m1y2zu]fear[/i:38m1y2zu] it, it is what it is and I accept it as part of life and living safely - I'm not walking around in denial. If you insist on telling someone they are wrong about the place they live in, when you've never been there, then that is just plain ignorance or arrogance, take your pick. 
+Dude you do not live here, I do. This is not what <em>might be</em>, this is what is. It doesn't bother me, I don't <em>fear</em> it, it is what it is and I accept it as part of life and living safely - I'm not walking around in denial. If you insist on telling someone they are wrong about the place they live in, when you've never been there, then that is just plain ignorance or arrogance, take your pick. 
 
 "Oh Weasel.." 
 
@@ -1752,7 +1881,8 @@ Keep the moral superiority tone out of it please. If you can't handle this reali
 
 <div class="post" data-post-id="27049" data-author="Tap" data-date="2008-11-06T12:02:43+00:00" data-subject="">
 
-[quote:2p6hx77i]someone!... somewhere!... has to back down![/quote:2p6hx77i]
+> <strong>Quote:</strong>
+> someone!... somewhere!... has to back down!
 
 I wonder what the world would be had everyone backed down from Hitler?
 
@@ -1762,15 +1892,15 @@ Is this your ideal Jezer?
 
 <div class="post" data-post-id="27051" data-author="firebrand" data-date="2008-11-06T16:02:58+00:00" data-subject="">
 
-jezer, one of our "problems" is that too many people like you think that all laws are "for our own good" without taking the time to stop and ask "when did this become a problem and why am i letting someone else think for me?"  
+jezer, one of our "problems" is that too many people like you think that all laws are "for our own good" without taking the time to stop and ask "when did this become a problem and why am i letting someone else think for me?" 
 
-i was born and raised right here in southeast texas - MAJOR redneck country.  i was taught how to use firearms almost as soon as i was steady enough on my feet to point them at the target in my back yard.  it wasn't because i needed to "defend myself".  my family wanted me to know how to safely and properly handle a firearm.  they are not only used to kill/protect other humans.  we also use them to go hunting - for food.  
+i was born and raised right here in southeast texas - MAJOR redneck country. i was taught how to use firearms almost as soon as i was steady enough on my feet to point them at the target in my back yard. it wasn't because i needed to "defend myself". my family wanted me to know how to safely and properly handle a firearm. they are not only used to kill/protect other humans. we also use them to go hunting - for food. 
 
-you are not only asking me to give up a way to defend myself, my peace of mind that the gun is there in case i need it, but also a way to feed myself and my family if the need ever arose.  thanks, but no thanks.  
+you are not only asking me to give up a way to defend myself, my peace of mind that the gun is there in case i need it, but also a way to feed myself and my family if the need ever arose. thanks, but no thanks. 
 
-it's closed-minded, unyielding, "government-knows-best" people like YOU, jezer, that are the threat here.  not because you are breaking into my home.  not because you disagree with me.  it is because you are content to sit back and do nothing, thinking that the laws will protect you while you are getting robbed.  i am sure that that intruder is going to wait for you to grab your phone, open it, dial 911, wait for the operator to answer, get your name and address, wait for you to state your problem and describe your intruder.  HELL NO!  he's going to blow your hand off (at the least) trying to get that phone away from you.  now what, dumbass?  now you have no phone, you are wounded and the intruder is STILL THERE.  where's the cops then?  where is your help?  where is your laws to protect you?  get your head out of the sand and look around you, jezer.  the world is not a pretty little kindergarten classroom that eats their milk and cookies and takes a nap because teacher says so.  
+it's closed-minded, unyielding, "government-knows-best" people like YOU, jezer, that are the threat here. not because you are breaking into my home. not because you disagree with me. it is because you are content to sit back and do nothing, thinking that the laws will protect you while you are getting robbed. i am sure that that intruder is going to wait for you to grab your phone, open it, dial 911, wait for the operator to answer, get your name and address, wait for you to state your problem and describe your intruder. HELL NO! he's going to blow your hand off (at the least) trying to get that phone away from you. now what, dumbass? now you have no phone, you are wounded and the intruder is STILL THERE. where's the cops then? where is your help? where is your laws to protect you? get your head out of the sand and look around you, jezer. the world is not a pretty little kindergarten classroom that eats their milk and cookies and takes a nap because teacher says so. 
 
-"now a real killer, when he picked up the zf-1, would've immediately asked about the little red button on the bottom of the gun." - zorg --> the fifth element
+"now a real killer, when he picked up the zf-1, would've immediately asked about the little red button on the bottom of the gun." - zorg --\> the fifth element
 
 </div>
 
@@ -1790,21 +1920,24 @@ Laws like rules only apply to those who choose to obey them or those who get cau
 
 Oh yeah? Two can play that game!!!!
 
-[url:4x0ypo5e]http://www.youtube.com/watch?v=3AYG4y5et5g[/url:4x0ypo5e]
+http://www.youtube.com/watch?v=3AYG4y5et5g
 
 </div>
 
 <div class="post" data-post-id="27059" data-author="brady" data-date="2008-11-07T02:49:41+00:00" data-subject="">
 
-:twisted:
+<img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="27070" data-author="Weasel" data-date="2008-11-07T16:57:50+00:00" data-subject="">
 
-Oh yeah? Two can play that game!!!!
-
-[url:2ezrdiza]http://www.youtube.com/watch?v=3AYG4y5et5g[/url:2ezrdiza][/quote:2ezrdiza]
+> <strong>Tap wrote:</strong>
+> Oh yeah? Two can play that game!!!!
+> 
+> 
+> 
+> http://www.youtube.com/watch?v=3AYG4y5et5g
 
 ROFL that's fcuking awesome!
 
@@ -1812,15 +1945,19 @@ ROFL that's fcuking awesome!
 
 <div class="post" data-post-id="27075" data-author="Poggle" data-date="2008-11-07T21:18:27+00:00" data-subject="">
 
-But rynquald just proved my point... Once again... justification of owning weapons based solely on projected fears. Do you want to live your life under that weight? I choose not too.[/quote:mmd0s9pv]
-
-So I presume you recommend people should not wear a seatbelts while driving a car, because that is clearly an action based on projected fear.
-
-Poisons should not be placed in child-proof cupboards, because that is clearly an action based on projected fear.
-
-Shall I continue? 
-
-LOL.[/quote:mmd0s9pv]
+> <strong>Weasel wrote:</strong>
+> > <strong>jezer wrote:</strong>
+> > But rynquald just proved my point... Once again... justification of owning weapons based solely on projected fears. Do you want to live your life under that weight? I choose not too.
+> 
+> 
+> 
+> So I presume you recommend people should not wear a seatbelts while driving a car, because that is clearly an action based on projected fear.
+> 
+> Poisons should not be placed in child-proof cupboards, because that is clearly an action based on projected fear.
+> 
+> Shall I continue? 
+> 
+> LOL.
 
 So I presume people should destroy their cars before they get in accidents?
 
@@ -1834,7 +1971,7 @@ These are more relevant comparisons.
 
 <div class="post" data-post-id="27076" data-author="Weasel" data-date="2008-11-07T23:16:10+00:00" data-subject="">
 
-I can't quite figure out if your response is intended to attack me or back me up Poggle, LOL..   
+I can't quite figure out if your response is intended to attack me or back me up Poggle, LOL.. 
 
 No response is required.
 
@@ -1848,7 +1985,8 @@ Reboog is great.
 
 <div class="post" data-post-id="27079" data-author="Weasel" data-date="2008-11-08T00:13:55+00:00" data-subject="">
 
-Reboog is great.[/quote:x3c59wje]
+> <strong>Tap wrote:</strong>
+> Reboog is great.
 
 But Captain Crunch Peanut Butter Cereal is greater. 
 
@@ -1864,7 +2002,7 @@ Obama to use executive orders for immediate impact
 
 By STEPHEN OHLEMACHER, Associated Press Writer 
 
-********************************************
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 WASHINGTON â€“ President-elect Obama plans to use his executive powers to make an immediate impact when he takes office.John Podesta, Obama's transition chief, said Sunday the president can use such orders to move quickly on his own.
 
@@ -1872,7 +2010,7 @@ WASHINGTON â€“ President-elect Obama plans to use his executive powers to m
 
 "Obama's advantage of course is he'll have the House and the Senate working with him, and that makes it easier," said Carl Tobias, a law professor at the University of Richmond. Executive orders "have the power of law and they can cover just about anything," Tobias said in a telephone interview.
 
-********************************************
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 In a completely non-related question, I will be making my first gun purchase this coming Friday. Not because I think a gun ban will soon take effect or anything, that would never happen, but I am curious as too what type of handgun I should go with. I've looked over a .38 special, a 9mm, a 9mm x18 which is a 9mm with a smaller bullet, and something else..just curious if anyone have one and would recommend it over another...for the record..it is strictly for defense..
 
@@ -1880,21 +2018,30 @@ In a completely non-related question, I will be making my first gun purchase thi
 
 <div class="post" data-post-id="27103" data-author="Weasel" data-date="2008-11-10T00:02:31+00:00" data-subject="">
 
-Obama to use executive orders for immediate impact
-
-By STEPHEN OHLEMACHER, Associated Press Writer 
-
-********************************************
-
-WASHINGTON â€“ President-elect Obama plans to use his executive powers to make an immediate impact when he takes office.John Podesta, Obama's transition chief, said Sunday the president can use such orders to move quickly on his own.
-
-"There's a lot that the president can do using his executive authority without waiting for congressional action, and I think we'll see the president do that," Podesta said.
-
-"Obama's advantage of course is he'll have the House and the Senate working with him, and that makes it easier," said Carl Tobias, a law professor at the University of Richmond. Executive orders "have the power of law and they can cover just about anything," Tobias said in a telephone interview.
-
-********************************************
-
-[/quote:1btnftyg]
+> <strong>Tap wrote:</strong>
+> Obama to use executive orders for immediate impact
+> 
+> 
+> 
+> By STEPHEN OHLEMACHER, Associated Press Writer 
+> 
+> \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+> 
+> 
+> 
+> WASHINGTON â€“ President-elect Obama plans to use his executive powers to make an immediate impact when he takes office.John Podesta, Obama's transition chief, said Sunday the president can use such orders to move quickly on his own.
+> 
+> 
+> 
+> "There's a lot that the president can do using his executive authority without waiting for congressional action, and I think we'll see the president do that," Podesta said.
+> 
+> 
+> 
+> "Obama's advantage of course is he'll have the House and the Senate working with him, and that makes it easier," said Carl Tobias, a law professor at the University of Richmond. Executive orders "have the power of law and they can cover just about anything," Tobias said in a telephone interview.
+> 
+> 
+> 
+> \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 So much for checks and balances. Hello authoritarian regime.
 
@@ -1906,7 +2053,7 @@ Weasel your post is again jaded and flawed.
 
 What rock were you living under while Bush has been president?
 
-Never heard a peep out of you about Bush.  You hate Obama we all get that already.
+Never heard a peep out of you about Bush. You hate Obama we all get that already.
 
 </div>
 
@@ -1918,17 +2065,22 @@ word
 
 <div class="post" data-post-id="27107" data-author="jezer" data-date="2008-11-10T06:16:12+00:00" data-subject="">
 
-[img:39c9dxf0]http://www.highwayrobbery.net/TrcImgsAxisEvilNYPost.gif[/img:39c9dxf0]
+![](http://www.highwayrobbery.net/TrcImgsAxisEvilNYPost.gif)
 
 </div>
 
 <div class="post" data-post-id="27110" data-author="Weasel" data-date="2008-11-10T06:39:37+00:00" data-subject="">
 
-Weasel your post is again jaded and flawed.
-
-What rock were you living under while Bush has been president?
-
-Never heard a peep out of you about Bush.  You hate Obama we all get that already.[/quote:3v5gy93w]
+> <strong>Mosaix wrote:</strong>
+> Weasel your post is again jaded and flawed.
+> 
+> 
+> 
+> What rock were you living under while Bush has been president?
+> 
+> 
+> 
+> Never heard a peep out of you about Bush. You hate Obama we all get that already.
 
 You realize I'm quoting Tap's post don't you, which is a quote from AP, which is a quote from one of Obama's own people? Yes? Anything that went through over Bush's term had to be approved by Congress as you well know, and for the last couple of years that was a democrat majority Congress. Obama will have their backing anyway, but even if he doesn't, he apparently intends to override them anyway. Yes Bush vetoed some, and Congress blocked some of his plans too, but he wasn't a law unto himself. It seems Obama has different ideas about that.
 
@@ -1942,7 +2094,7 @@ I sincerely hope I am wrong about Obama, but unfortunately we may all have to fi
 
 Some quick points and then I'm going back to bed.
 
-Bush didn't go into office with a "cult leader" fascination. Any president and I'm sure all have used executive privileges soon AFTER  taking office. It's like any business, the new guy always turn over rocks to make an impression which can either be a good thing or a bad thing. Osama has clearly stated on setting up his "volunteer" force that will rival the military  which you man shrug off however, as Weasel was alluding too...today you can voice an opposition..in 1-2 years, they could come lock you up. I've already heard and can find sources later to show how schools will question your kids to determine if the parent is teaching "hate at home" and if determined to be the case, DEFACS will get involved. In an further measure, you can be arrested by such "thought police" just on the suspicion so that if anyone one has a grudge on you they can claim that you hate Osama blah blah and guess what? It's bye-bye for you as you get "re-educated". It's already happened here once. Right now,thanks to good ole California, they are trying to make it so that a Church can only teach certain things out of the Bible and certain topics will be considered "hate speech" in which case the Church will lose it's tax-status and be labled as a "Hate Orginization".
+Bush didn't go into office with a "cult leader" fascination. Any president and I'm sure all have used executive privileges soon AFTER taking office. It's like any business, the new guy always turn over rocks to make an impression which can either be a good thing or a bad thing. Osama has clearly stated on setting up his "volunteer" force that will rival the military which you man shrug off however, as Weasel was alluding too...today you can voice an opposition..in 1-2 years, they could come lock you up. I've already heard and can find sources later to show how schools will question your kids to determine if the parent is teaching "hate at home" and if determined to be the case, DEFACS will get involved. In an further measure, you can be arrested by such "thought police" just on the suspicion so that if anyone one has a grudge on you they can claim that you hate Osama blah blah and guess what? It's bye-bye for you as you get "re-educated". It's already happened here once. Right now,thanks to good ole California, they are trying to make it so that a Church can only teach certain things out of the Bible and certain topics will be considered "hate speech" in which case the Church will lose it's tax-status and be labled as a "Hate Orginization".
 
 Good Times
 
@@ -1950,9 +2102,10 @@ Good Times
 
 <div class="post" data-post-id="27116" data-author="*juggleblood*" data-date="2008-11-10T15:10:32+00:00" data-subject="">
 
-they are trying to make it so that a Church can only teach certain things out of the Bible and certain topics will be considered "hate speech" in which case the Church will lose it's tax-status and be labled as a "Hate Orginization"
-
-Good Times[/quote:uusmtbmg]
+> <strong>Tap wrote:</strong>
+> they are trying to make it so that a Church can only teach certain things out of the Bible and certain topics will be considered "hate speech" in which case the Church will lose it's tax-status and be labled as a "Hate Orginization"
+> 
+> Good Times
 
 Whats the biggest issue? Churches that preach against homosexuals?
 
@@ -1970,21 +2123,29 @@ I read the story tap mentioned. He forgot to mention that Obama plans on using e
 
 <div class="post" data-post-id="27122" data-author="Weasel" data-date="2008-11-10T22:23:01+00:00" data-subject="">
 
-I read the story tap mentioned. He forgot to mention that Obama plans on using executive orders to UNDO Bush's executive orders.[/quote:32wc45qk] LOL  irony.
+> <strong>juggleblood wrote:</strong>
+> I read the story tap mentioned. He forgot to mention that Obama plans on using executive orders to UNDO Bush's executive orders.
+
+ LOL irony.
 
 </div>
 
 <div class="post" data-post-id="27125" data-author="Tap" data-date="2008-11-10T23:18:00+00:00" data-subject="">
 
-Hey Juggles, I also wrote in same paragraph[quote:7xra94tk]Any president and I'm sure all have used executive privileges soon AFTER taking office. It's like any business, the new guy always turn over rocks to make an impression which can either be a good thing or a bad thing. [/quote:7xra94tk]
+Hey Juggles, I also wrote in same paragraph
 
-Then-[quote:7xra94tk]Whats the biggest issue? Churches that preach against homosexuals? Didn't Cali just outlaw gay marriage? It's hard for me to imagine the government taking on the churches in the way you say. Obama going to take on Rev. Wright and similar churches? Seems unlikely to me.[/quote:7xra94tk]
+> <strong>Quote:</strong>
+> Any president and I'm sure all have used executive privileges soon AFTER taking office. It's like any business, the new guy always turn over rocks to make an impression which can either be a good thing or a bad thing.
+
+Then-
+
+> <strong>Quote:</strong>
+> Whats the biggest issue? Churches that preach against homosexuals? Didn't Cali just outlaw gay marriage? It's hard for me to imagine the government taking on the churches in the way you say. Obama going to take on Rev. Wright and similar churches? Seems unlikely to me.
 
 Not just homosexuality but other issues as well..such as creationism for example. Darwinism isn't necessary making a comeback, it's just the few trying to force their belief on the many. Cali outlaw gay marries? Yeah and in the same breath, the gay community is going to petition the court to OVERRULE the wish of the people. With Schwartzenegger advocating also it's not going to be a shock to anyone if said election is thrown out...same shit different day. 
 
-[quote:7xra94tk]The Republicans still think Obama is a secret Muslim/Commie and many Democrats think Bush is going to declare martial law and stay in office.
-
-[/quote:7xra94tk]
+> <strong>Quote:</strong>
+> The Republicans still think Obama is a secret Muslim/Commie and many Democrats think Bush is going to declare martial law and stay in office.
 
 I couldn't say if that was the case at all. I don't know if Osama is a secret muslim...he certainly isn't a secret Commie..he's been pretty straightforward about that. I also don't think Democrats believe Bush is going to decalre martial law to stay in office? Don't know about that...I don't think that the masses, on both side of the fences, would stand idly by and allow that to happen. Where Osama has went wrong in causing the mistrust is the associations he has along with the backlash against anyone who has voiced any opposition towards him. He has definitely been straightforward in his way of thinking ( for the most part ) but his method of delivery leaves much to be desired. He also seems to be falling into believing the hype surrounding him. It's not pre-madonna, it's pre-osama!!!
 
@@ -1992,7 +2153,8 @@ I couldn't say if that was the case at all. I don't know if Osama is a secret mu
 
 <div class="post" data-post-id="27127" data-author="jezer" data-date="2008-11-10T23:28:05+00:00" data-subject="">
 
-I sincerely hope I am wrong about Obama[/quote:c2kgarlk]
+> <strong>Weasel wrote:</strong>
+> I sincerely hope I am wrong about Obama
 
 What a load of crap... You have both a perception AND an attitude problem. He's not even president yet and your still hacking away at him with your sharp little teeth. If you sincerely believed that, you'd give the guy a chance...
 
@@ -2006,23 +2168,34 @@ I hope Weasel is wrong too. Come on Weasel, give fascism a chance!
 
 <div class="post" data-post-id="27133" data-author="Weasel" data-date="2008-11-11T02:48:14+00:00" data-subject="">
 
-I sincerely hope I am wrong about Obama[/quote:1lvqbp56]What a load of crap... You have both a perception AND an attitude problem. He's not even president yet and your still hacking away at him with your sharp little teeth. If you sincerely believed that, you'd give the guy a chance...[/quote:1lvqbp56]
+> <strong>jezer wrote:</strong>
+> > <strong>Weasel wrote:</strong>
+> > I sincerely hope I am wrong about Obama
+> 
+> What a load of crap... You have both a perception AND an attitude problem. He's not even president yet and your still hacking away at him with your sharp little teeth. If you sincerely believed that, you'd give the guy a chance...
 
-WTF? Because I quote [i:1lvqbp56]Obama's own words[/i:1lvqbp56] which don't happen to sync with your cult image of him, [i:1lvqbp56]I[/i:1lvqbp56] have a perception and attitude problem? LOL! And you see nothing wrong with that picture at all I bet. Thanks for providing a classic example of the ignorance of his followers! Damn, that's too funny, and even more so considering you're sitting down in Aussie aren't you? LOL!
+WTF? Because I quote <em>Obama's own words</em> which don't happen to sync with your cult image of him, <em>I</em> have a perception and attitude problem? LOL! And you see nothing wrong with that picture at all I bet. Thanks for providing a classic example of the ignorance of his followers! Damn, that's too funny, and even more so considering you're sitting down in Aussie aren't you? LOL!
 
 </div>
 
 <div class="post" data-post-id="27134" data-author="Weasel" data-date="2008-11-11T02:55:24+00:00" data-subject="">
 
-I hope Weasel is wrong too. Come on Weasel, give fascism a chance![/quote:1hwutq7n] Yeah, how ignorant of me. Might as well lock me up right now.
+> <strong>Tap wrote:</strong>
+> I hope Weasel is wrong too. Come on Weasel, give fascism a chance!
+
+ Yeah, how ignorant of me. Might as well lock me up right now.
 
 </div>
 
 <div class="post" data-post-id="27135" data-author="jezer" data-date="2008-11-11T03:03:51+00:00" data-subject="">
 
-I hope Weasel is wrong too. Come on Weasel, give fascism a chance![/quote:2gwfzf8k] Yeah, how ignorant of me. Might as well lock me up right now.[/quote:2gwfzf8k]
+> <strong>Weasel wrote:</strong>
+> > <strong>Tap wrote:</strong>
+> > I hope Weasel is wrong too. Come on Weasel, give fascism a chance!
+> 
+> Yeah, how ignorant of me. Might as well lock me up right now.
 
-Then it's all agreed! Tap will keep Weasel company in Jail... we will no longer hear your one eyed "fearing" rants proclaiming the end of the world... and finally the thread ends. :twisted:
+Then it's all agreed! Tap will keep Weasel company in Jail... we will no longer hear your one eyed "fearing" rants proclaiming the end of the world... and finally the thread ends. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -2036,7 +2209,7 @@ bump
 
 You can always tell when someone is blind... everything you say only adds to there point. 
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -2044,23 +2217,23 @@ You can always tell when someone is blind... everything you say only adds to the
 
 It's amazing how someone supporting Osama gets light-headed when he speaks, yet when someone repeats what Osama has said or bring attention to his words, the claws come out. Jezer, you are a perfect example of whats wrong with this country and you are not even from here. Kudos to you. I try to not find fault with you J, it's probably not your fault with the internet filter that you are stuck with so perhaps you don't have the access to information that we Americans do. Then again, you could be a Osamanist.
 
-[img:17eocspi]http://th228.photobucket.com/albums/ee117/TheGloaming990/th_edblinky.gif[/img:17eocspi]
+![](http://th228.photobucket.com/albums/ee117/TheGloaming990/th_edblinky.gif)
 
 </div>
 
 <div class="post" data-post-id="27141" data-author="jezer" data-date="2008-11-11T12:55:58+00:00" data-subject="">
 
-I'm not for or against Obama or McCain... I just play the Obama line because your anti Obama fanaticism amuses me. Like weasel was just this funny guy on the crier before all this... but the passion, attitude, resentment, fear about the future and bitterness that guy can muster over politics, has certainly made me seen him in a new light... he's scary now.  :shock: So what if he's right? Well I think he's lost too much creditability for anyone to care.
+I'm not for or against Obama or McCain... I just play the Obama line because your anti Obama fanaticism amuses me. Like weasel was just this funny guy on the crier before all this... but the passion, attitude, resentment, fear about the future and bitterness that guy can muster over politics, has certainly made me seen him in a new light... he's scary now. <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> So what if he's right? Well I think he's lost too much creditability for anyone to care.
 
-There is a saying, "What good is a man, to gain the whole world, if he loses who he is." That's the pompous paraphrased version... I know you like it Tap...  :twisted: 
+There is a saying, "What good is a man, to gain the whole world, if he loses who he is." That's the pompous paraphrased version... I know you like it Tap... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-[img:397jc7oe]http://nataly.net/wp-content/ice-age-the-meltdown.jpg[/img:397jc7oe]
+![](http://nataly.net/wp-content/ice-age-the-meltdown.jpg)
 
 </div>
 
 <div class="post" data-post-id="27143" data-author="Weasel" data-date="2008-11-11T15:53:52+00:00" data-subject="">
 
-[img:1wsdc81g]http://www.seedsofdoubt.com/images/cheney-fear-me.jpg[/img:1wsdc81g]
+![](http://www.seedsofdoubt.com/images/cheney-fear-me.jpg)
 
 Jezer, please remove the URL from your favorites where you keep getting those little moral cliches from - they completely destroy your credibility, it's almost as bad as quoting from wikipedia.
 
@@ -2076,11 +2249,11 @@ I'm going to give Jezer the benefit of the doubt. He's just ignorant.
 
 <div class="post" data-post-id="27146" data-author="*juggleblood*" data-date="2008-11-12T02:49:16+00:00" data-subject="">
 
-[img:1abu7h5v]http://www.dark-logic.com/images/dale.jpg[/img:1abu7h5v]
+![](http://www.dark-logic.com/images/dale.jpg)
 
 "I'm an Indian. Thats why I love tobacco and hate the federal government."
 
--Dale Gribble
+\-Dale Gribble
 
 </div>
 
@@ -2088,7 +2261,7 @@ I'm going to give Jezer the benefit of the doubt. He's just ignorant.
 
 LMFAO!!! This is awesome:
 
-[url:3m40v5cn]http://www.theonion.com/content/video/obama_win_causes_obsessive[/url:3m40v5cn]
+http://www.theonion.com/content/video/obama_win_causes_obsessive
 
 </div>
 
@@ -2100,7 +2273,7 @@ Jennifer Dudley-Nicholson
 
 Australian Herald Sun
 
-Thursday, November 13, 2008[/color:3artr7cl]
+Thursday, November 13, 2008
 
 FLASHBACK: Australia To Enforce Mandatory Chinese-Style Internet Censorship
 
@@ -2126,21 +2299,22 @@ Electronic Frontiers Australia board member Colin Jacobs said his civil libertie
 
 i prefer this:
 
-[url:15zhtjcx]http://www.youtube.com/watch?v=bqlVtYVSd8g[/url:15zhtjcx]
+http://www.youtube.com/watch?v=bqlVtYVSd8g
 
 </div>
 
 <div class="post" data-post-id="27172" data-author="Weasel" data-date="2008-11-13T23:17:20+00:00" data-subject="">
 
-i prefer this:
-
-[url:39wt9rkd]http://www.youtube.com/watch?v=bqlVtYVSd8g[/url:39wt9rkd][/quote:39wt9rkd]
+> <strong>juggleblood wrote:</strong>
+> i prefer this:
+> 
+> http://www.youtube.com/watch?v=bqlVtYVSd8g
 
 LOL sad - that's amateur hour.
 
 Doesn't hold a candle to 
 
-[url:39wt9rkd]http://www.theonion.com/content/video/obama_win_causes_obsessive[/url:39wt9rkd].
+http://www.theonion.com/content/video/obama_win_causes_obsessive.
 
 </div>
 
@@ -2148,33 +2322,35 @@ Doesn't hold a candle to
 
 Gosh, again I'm agreeing with Jezer?!
 
-It's really incredible that there's this much fear about Obama after all that Bush has done over the last 8 years.  All the stuff our Justice department did?  Alberto Gonzales?  "I don't recall"  All the censoring of scientists?  Appointing Mike Brown as the director of FEMA, which even being generous could only be called a political appointment of someone with no previous experience with disaster management.  The patriot act?  Domestic wiretapping?  You're going to criticize now about "thought police" after you've been spied on, illegally, for the last few years?  You want to give corporations immunity for illegally wiretapping your phones and internet connections?  Torture?  Abu Ghraib? Guantanamo?
+It's really incredible that there's this much fear about Obama after all that Bush has done over the last 8 years. All the stuff our Justice department did? Alberto Gonzales? "I don't recall" All the censoring of scientists? Appointing Mike Brown as the director of FEMA, which even being generous could only be called a political appointment of someone with no previous experience with disaster management. The patriot act? Domestic wiretapping? You're going to criticize now about "thought police" after you've been spied on, illegally, for the last few years? You want to give corporations immunity for illegally wiretapping your phones and internet connections? Torture? Abu Ghraib? Guantanamo?
 
-The president doesn't need executive privelege to exercise the power of his position.  The people he appoints have huge amounts of authority.  Now I guess there's a lot of positions to fill for a new president, but I've got to believe that we'll do better in the future.  
+The president doesn't need executive privelege to exercise the power of his position. The people he appoints have huge amounts of authority. Now I guess there's a lot of positions to fill for a new president, but I've got to believe that we'll do better in the future. 
 
-For Pete's sake, people on Fox are criticizing the 7 page questionnaire that Obama's released for cabinet appointees.  This is a huge step in the right direction!  Someone SHOULD investigate these people that might be appointed!
+For Pete's sake, people on Fox are criticizing the 7 page questionnaire that Obama's released for cabinet appointees. This is a huge step in the right direction! Someone SHOULD investigate these people that might be appointed!
 
-I guess I'm just surprised that there's all this fear of Obama after what we've all experienced with Bush.  At least wait until Obama actually DOES something evil, then post THAT.
+I guess I'm just surprised that there's all this fear of Obama after what we've all experienced with Bush. At least wait until Obama actually DOES something evil, then post THAT.
 
 </div>
 
 <div class="post" data-post-id="27175" data-author="jezer" data-date="2008-11-14T06:02:05+00:00" data-subject="">
 
-It's one thing to have the same opinion... but it's a whole totally different thing to agree with Jezer...  Are you MADDD!  :twisted:
+It's one thing to have the same opinion... but it's a whole totally different thing to agree with Jezer... Are you MADDD! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 Welcome to my group. Forms on the left, uniforms on the right...
 
-[img:19i6jkc9]http://thetripe.files.wordpress.com/2008/08/not-funny-t-shirt.jpg[/img:19i6jkc9]
+![](http://thetripe.files.wordpress.com/2008/08/not-funny-t-shirt.jpg)
 
 </div>
 
 <div class="post" data-post-id="27177" data-author="Tap" data-date="2008-11-14T10:32:19+00:00" data-subject="">
 
-[quote:32ywgbgn]I guess I'm just surprised that there's all this fear of Obama after what we've all experienced with Bush. At least wait until Obama actually DOES something evil, then post THAT.[/quote:32ywgbgn]
+> <strong>Quote:</strong>
+> I guess I'm just surprised that there's all this fear of Obama after what we've all experienced with Bush. At least wait until Obama actually DOES something evil, then post THAT.
 
 Osama standing on the Senate floor, ON 4 DIFFERENT OCCASIONS, making the case for denying medical attention to newborn babies that managed to survive an abortion so as not to make the mother second guess her decision isn't evil enough for you? Setting aside any opinion on abortion itself, to take a living,breathing baby and deny it the care it needed to survive is about as evil as you can get.
 
-[quote:32ywgbgn]For Pete's sake, people on Fox are criticizing the 7 page questionnaire that Obama's released for cabinet appointees. This is a huge step in the right direction! Someone SHOULD investigate these people that might be appointed! [/quote:32ywgbgn]
+> <strong>Quote:</strong>
+> For Pete's sake, people on Fox are criticizing the 7 page questionnaire that Obama's released for cabinet appointees. This is a huge step in the right direction! Someone SHOULD investigate these people that might be appointed!
 
 Funny you should mention that. irony is a fickle bitch indeed. Osama would fail miserably on his own questionnaire.
 

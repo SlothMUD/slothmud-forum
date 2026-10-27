@@ -22,31 +22,42 @@ You gossip-- 'Abraxsis raises his hands to the sky and slowly turns into a large
 
 You gossip-- 'CAUGHT!'
 
-I am here all week, save your applauds for after the introduction ceremony, thank you and enjoy your hunting  :twisted:  :twisted:
+I am here all week, save your applauds for after the introduction ceremony, thank you and enjoy your hunting <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="18947" data-author="Vixn" data-date="2007-06-17T14:04:46+00:00" data-subject="">
 
-*Yinao jeers at cats and Weasels. Have to inform Green Peas*  :twisted:
+\*Yinao jeers at cats and Weasels. Have to inform Green Peas\* <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="18953" data-author="banedon" data-date="2007-06-18T03:56:45+00:00" data-subject="LIES!!">
 
-I have been hearing that Weasel has lost his Corm to some evul cats? Well I am proud to present to you the feef of da CorM!:
+> <strong>Yinao wrote:</strong>
+> I have been hearing that Weasel has lost his Corm to some evul cats? Well I am proud to present to you the feef of da CorM!:
+> 
+> 
+> 
+> You gossip-- 'I found the cat that stole weasels CORM!'
+> 
+> 
+> 
+> Abraxsis raises his hands to the sky and slowly turns into a large orange and white cat (Abraxsis)!
+> 
+> 
+> 
+> You gossip-- 'Abraxsis raises his hands to the sky and slowly turns into a large orange and white cat (Abraxsis)!'
+> 
+> 
+> 
+> You gossip-- 'CAUGHT!'
+> 
+> 
+> 
+> I am here all week, save your applauds for after the introduction ceremony, thank you and enjoy your hunting <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
-You gossip-- 'I found the cat that stole weasels CORM!'
-
-Abraxsis raises his hands to the sky and slowly turns into a large orange and white cat (Abraxsis)!
-
-You gossip-- 'Abraxsis raises his hands to the sky and slowly turns into a large orange and white cat (Abraxsis)!'
-
-You gossip-- 'CAUGHT!'
-
-I am here all week, save your applauds for after the introduction ceremony, thank you and enjoy your hunting  :twisted:  :twisted:[/quote:1gtdej8k]
-
-This is pure misinformation! Yes i shifted, messing with the powers of a new(to me) class.  If anything this will help me hunt the evul katz that haffs the corms.  Weasel knows that i r no thucking corm fief.  
+This is pure misinformation! Yes i shifted, messing with the powers of a new(to me) class. If anything this will help me hunt the evul katz that haffs the corms. Weasel knows that i r no thucking corm fief. 
 
 Maybe we should look at Yinao, considering how quick he was to point the finger, and if im not mistaken, he also has the power to become a kat.
 
@@ -56,7 +67,7 @@ Just food for thought.
 
 <div class="post" data-post-id="18954" data-author="Weasel" data-date="2007-06-18T10:35:25+00:00" data-subject="">
 
-*watches intently with narrowed eyes*
+\*watches intently with narrowed eyes\*
 
 </div>
 
@@ -74,25 +85,28 @@ Pfft, cat shmat. Why shift into a little fur ball when you can shift into one of
 
 <div class="post" data-post-id="18958" data-author="Autolycos" data-date="2007-06-18T16:32:59+00:00" data-subject="">
 
-Pfft, cat shmat. Why shift into a little fur ball when you can shift into one of those huge pizza bird things?[/quote:2ljc4qhd]
+> <strong>Yinao wrote:</strong>
+> Pfft, cat shmat. Why shift into a little fur ball when you can shift into one of those huge pizza bird things?
 
-[img:2ljc4qhd]http://www.auburn-opelika.com/images/dbimages/restaurants/295/large.jpg[/img:2ljc4qhd]
+![](http://www.auburn-opelika.com/images/dbimages/restaurants/295/large.jpg)
 
 </div>
 
 <div class="post" data-post-id="18960" data-author="Weasel" data-date="2007-06-18T21:33:57+00:00" data-subject="">
 
-I has your fuc king corm and you will never getz it back.[/quote:xdvej0qs]
+> <strong>13 wrote:</strong>
+> I has your fuc king corm and you will never getz it back.
 
- :evil: you're just plain evul.
+ <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom"> you're just plain evul.
 
 </div>
 
 <div class="post" data-post-id="18967" data-author="banedon" data-date="2007-06-19T04:31:43+00:00" data-subject="">
 
-I has your fuc king corm and you will never getz it back.[/quote:19861zya]
+> <strong>13 wrote:</strong>
+> I has your fuc king corm and you will never getz it back.
 
-Does this mean that 13 is an evul kat?  or does he just have leigons of nefarious felines at his kommand?
+Does this mean that 13 is an evul kat? or does he just have leigons of nefarious felines at his kommand?
 
 Enquiring minds want to know
 
@@ -106,7 +120,7 @@ The innkeeper of Lyme tells you 'You have 111 items right now'
 
 You are carrying:
 
-a corm [2][/color:1kf38su6]
+a corm [2]
 
 a scroll of recall
 
@@ -114,7 +128,7 @@ macoute straw shoulderbag
 
 a decanter of endless water
 
-I HAFF MY CORM!!![/color:1kf38su6]
+I HAFF MY CORM!!!
 
 cast 'locate' corm
 
@@ -162,8 +176,8 @@ A corm is in The Secret Stair.
 
 You are very confused.
 
-HAPPINESS FILLED[/color:1kf38su6]  :D  
+HAPPINESS FILLED <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> 
 
-thanks Someone! :)
+thanks Someone! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

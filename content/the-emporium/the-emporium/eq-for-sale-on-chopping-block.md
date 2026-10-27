@@ -14,7 +14,7 @@ post_count: 1
 
 Hey All -
 
-I just wanted to let everyone know that in an effort to clear out some vault space I have put a bunch of stuff up on the Chopping Block.  This stuff consists of:
+I just wanted to let everyone know that in an effort to clear out some vault space I have put a bunch of stuff up on the Chopping Block. This stuff consists of:
 
 Frost White Guards
 

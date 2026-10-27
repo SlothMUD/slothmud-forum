@@ -12,9 +12,9 @@ post_count: 7
 
 <div class="post" data-post-id="27215" data-author="Autolycos" data-date="2008-11-19T13:43:00+00:00" data-subject="Holy Krap... The Tarsiers in Irapute are real!!">
 
-[b:1xmjxy0u]Tiny, long-lost primate rediscovered in Indonesia[/b:1xmjxy0u]
+<strong>Tiny, long-lost primate rediscovered in Indonesia</strong>
 
-[img:1xmjxy0u]http://www.xgenco.com/stuff/tar.jpg[/img:1xmjxy0u]
+![](http://www.xgenco.com/stuff/tar.jpg)
 
 WASHINGTON (Reuters) â€“ On a misty mountaintop on the Indonesian island of Sulawesi, scientists for the first time in more than eight decades have observed a living pygmy tarsier, one of the planet's smallest and rarest primates.
 
@@ -22,7 +22,7 @@ Over a two-month period, the scientists used nets to trap three furry, mouse-siz
 
 They spotted a fourth one that got away.
 
-The tarsiers, which some scientists believed were extinct, may not have been overly thrilled to be found. One of them chomped Sharon Gursky-Doyen, a Texas A&M University professor of anthropology who took part in the expedition.
+The tarsiers, which some scientists believed were extinct, may not have been overly thrilled to be found. One of them chomped Sharon Gursky-Doyen, a Texas A\&M University professor of anthropology who took part in the expedition.
 
 "I'm the only person in the world to ever be bitten by a pygmy tarsier," Gursky-Doyen said in a telephone interview.
 
@@ -50,7 +50,7 @@ Her group observed the first live pygmy tarsier in August at an elevation of abo
 
 <div class="post" data-post-id="27216" data-author="Virus" data-date="2008-11-19T13:52:30+00:00" data-subject="">
 
-Aggressive little things, I stab a few of them the other day  :twisted:
+Aggressive little things, I stab a few of them the other day <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -70,13 +70,14 @@ ps- I wonder if it taste like chicken...
 
 <div class="post" data-post-id="27239" data-author="Weasel" data-date="2008-11-20T01:28:37+00:00" data-subject="Re: Holy Krap... The Tarsiers in Irapute are real!!">
 
-Tiny, long-lost primate rediscovered in Indonesia
-
-[img:1f746w9r]http://www.xgenco.com/stuff/tar.jpg[/img:1f746w9r][/quote:1f746w9r]
+> <strong>Autolycos wrote:</strong>
+> Tiny, long-lost primate rediscovered in Indonesia
+> 
+> ![](http://www.xgenco.com/stuff/tar.jpg)
 
 pygmy tarsier? bollockx, that's not a tarsier, that's a FURBY!
 
-[img:1f746w9r]http://ricster.files.wordpress.com/2007/12/800px-furby.jpg[/img:1f746w9r]
+![](http://ricster.files.wordpress.com/2007/12/800px-furby.jpg)
 
 </div>
 
@@ -88,7 +89,7 @@ Nailed it!!!!
 
 <div class="post" data-post-id="27244" data-author="Autolycos" data-date="2008-11-20T03:36:40+00:00" data-subject="">
 
-sure the **** looks like a furby.....
+sure the \*\*\*\* looks like a furby.....
 
 i can see it now.. the toy was only a sneaky part of their plot to take over the world...
 

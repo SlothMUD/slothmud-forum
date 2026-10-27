@@ -16,13 +16,13 @@ We have removed the ability to login to the website CMS due to security concerns
 
 To retrieve your user's password:
 
-1) browse to login button
+1\) browse to login button
 
-2) click resend activation email
+2\) click resend activation email
 
-3) enter username
+3\) enter username
 
-4) enter email address
+4\) enter email address
 
 At this point, you should receive your reactivation for this forum.
 
@@ -36,15 +36,15 @@ Splork
 
 <div class="post" data-post-id="31214" data-author="blackmore" data-date="2010-05-24T20:11:34+00:00" data-subject="Re: Creating your user via forum login">
 
-Speaking of browsers, there's something weird with the display in Chrome.  It causes all the middle frames to show up below the main page.  I can send a screenshot if you like. I'm sure Chrome compatibility isn't the top priority, but it would be nice.  I'm not sure why it's Chrome only, since the rendering engine is supposed to be based on Safari's, and it displays fine with Safari.
+Speaking of browsers, there's something weird with the display in Chrome. It causes all the middle frames to show up below the main page. I can send a screenshot if you like. I'm sure Chrome compatibility isn't the top priority, but it would be nice. I'm not sure why it's Chrome only, since the rendering engine is supposed to be based on Safari's, and it displays fine with Safari.
 
 </div>
 
 <div class="post" data-post-id="31220" data-author="*Breeze*" data-date="2010-05-25T07:37:48+00:00" data-subject="Re: Creating your user via forum login">
 
-> **blackmore wrote:**
-> Speaking of browsers, there's something weird with the display in Chrome.  It causes all the middle frames to show up below the main page.  I can send a screenshot if you like. I'm sure Chrome compatibility isn't the top priority, but it would be nice.  I'm not sure why it's Chrome only, since the rendering engine is supposed to be based on Safari's, and it displays fine with Safari.
+> <strong>blackmore wrote:</strong>
+> Speaking of browsers, there's something weird with the display in Chrome. It causes all the middle frames to show up below the main page. I can send a screenshot if you like. I'm sure Chrome compatibility isn't the top priority, but it would be nice. I'm not sure why it's Chrome only, since the rendering engine is supposed to be based on Safari's, and it displays fine with Safari.
 
-yeah i am not sure what is up with Chrome. It is a nice browser, but no matter what I try I cant get it to render the pages properly.  some quick 'googleing' a few days ago said that Chrome has some serious issues with CSS, so I installed Safari (which i was pleasantly surprised with) and everything worked fine.  This probably should go in the bugs thread but I just got home from night shift so not in the mood to do much.
+yeah i am not sure what is up with Chrome. It is a nice browser, but no matter what I try I cant get it to render the pages properly. some quick 'googleing' a few days ago said that Chrome has some serious issues with CSS, so I installed Safari (which i was pleasantly surprised with) and everything worked fine. This probably should go in the bugs thread but I just got home from night shift so not in the mood to do much.
 
 </div>

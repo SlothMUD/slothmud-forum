@@ -18,7 +18,7 @@ So if you're unsure what to level next and interested in maximum sponge efficien
 
 Link: http://rds1983.github.io/SlothMUD-LevelInfoParser/
 
-Btw, I've got values by parsing this page <LINK_TEXT text="http://www.slothmud.org/wp/welcome-to-s ... old-tables">http://www.slothmud.org/wp/welcome-to-slothmud/the-library/expgold-tables</LINK_TEXT>. I know there are some errors, but they arent important.
+Btw, I've got values by parsing this page http://www.slothmud.org/wp/welcome-to-slothmud/the-library/expgold-tables. I know there are some errors, but they arent important.
 
 </div>
 

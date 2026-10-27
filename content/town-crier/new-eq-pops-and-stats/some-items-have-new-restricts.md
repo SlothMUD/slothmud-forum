@@ -18,7 +18,7 @@ a mace, a blade, a smashing weapon, and some leg plates is the rumour....
 
 <div class="post" data-post-id="12079" data-author="blackmore" data-date="2006-04-12T13:49:26+00:00" data-subject="">
 
-There've been a number of restriction changes lately.  One of these days I need to go through my vaults and chars and check the restricts on all my eq.  I suspect those listed that Clink changed a few days ago were the Runed Mace of Fire, Crystal Blade of Light, and I haven't looked at other stuff.  I think I have the mace vaulted somewhere, I'll have to look.
+There've been a number of restriction changes lately. One of these days I need to go through my vaults and chars and check the restricts on all my eq. I suspect those listed that Clink changed a few days ago were the Runed Mace of Fire, Crystal Blade of Light, and I haven't looked at other stuff. I think I have the mace vaulted somewhere, I'll have to look.
 
 </div>
 
@@ -34,15 +34,15 @@ Damage Dice is '3D4'
 
 Can affect you as:
 
-    Affects: HITROLL by 1
+ Affects: HITROLL by 1
 
-    Affects: DAMROLL by 1
+ Affects: DAMROLL by 1
 
 Only those who are at least experienced magic users or warriors may use
 
 this item.
 
-:) 
+<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> 
 
 Mike
 
@@ -62,9 +62,9 @@ Damage Dice is '3D5'
 
 Can affect you as:
 
-    Affects: HITROLL by 2
+ Affects: HITROLL by 2
 
-    Affects: DAMROLL by 2
+ Affects: DAMROLL by 2
 
 Only those who are at least master warriors or supreme bards may use this 
 

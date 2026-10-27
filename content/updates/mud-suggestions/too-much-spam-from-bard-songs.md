@@ -38,11 +38,11 @@ Tukster
 
 Asked Someone:
 
-TELL>.ME=>Someone... - what do you think about bard song spam that i posted on forum?
+TELL\>.ME=\>Someone... - what do you think about bard song spam that i posted on forum?
 
-TELL>.Someone=>ME... - annoying
+TELL\>.Someone=\>ME... - annoying
 
-TELL>.ME=>Someone... - indeed
+TELL\>.ME=\>Someone... - indeed
 
 </div>
 

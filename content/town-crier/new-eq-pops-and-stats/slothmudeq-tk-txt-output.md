@@ -14,7 +14,7 @@ post_count: 5
 
 Hi there!
 
-is it possible to get txt format (NOT HMTL with <DIV>'s ) response from slothmudeq.tk EQ list?  I'd like to use it in my mudlet scripts.
+is it possible to get txt format (NOT HMTL with \<DIV\>'s ) response from slothmudeq.tk EQ list? I'd like to use it in my mudlet scripts.
 
 </div>
 

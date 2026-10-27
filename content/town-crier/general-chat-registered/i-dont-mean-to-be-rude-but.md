@@ -36,13 +36,13 @@ T
 
 <div class="post" data-post-id="31782" data-author="jezer" data-date="2010-09-23T01:38:54+00:00" data-subject="Re: I dont mean to be rude but ...">
 
-This might sound sexist, but you take objection to everything like a woman!  :twisted:
+This might sound sexist, but you take objection to everything like a woman! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="31783" data-author="jezer" data-date="2010-09-23T03:18:39+00:00" data-subject="Re: I dont mean to be rude but ...">
 
-Thraxas started this topic because of me!  :D  And I do feel honored that some one should give me all this wonderful attention!
+Thraxas started this topic because of me! <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> And I do feel honored that some one should give me all this wonderful attention!
 
 I apologise you stopped by to read, because it's all so childish! They also ranted in this topic, when for a laugh, I scattered 50 half-orc corpses all over each square in BH town as a silent pop rate protest. [http://www.slothmud.org/forum/viewtopic.php?f=28&t=3349](http://www.slothmud.org/forum/viewtopic.php?f=28&t=3349) 
 
@@ -88,13 +88,13 @@ Thraxas tells you 'no I just read your very offensive grouptells'
 
 You tell Thraxas 'well I'm sorry you feel that way, they simply aren't, and the problem is with you'
 
-Thraxas tells you 'and my best friend is  ... is not only a common and demeaning statement but just shows you're as bad as you sound'
+Thraxas tells you 'and my best friend is ... is not only a common and demeaning statement but just shows you're as bad as you sound'
 
 Thraxas tells you 'end of conversation ... '
 
 (Apparently not... now it's on the crier, LOL)
 
-(image: /[<LINK_TEXT text="http://2.bp.blogspot.com/_Q7ObrR7JOq0/S ... e_here.jpg">http://2.bp.blogspot.com/_Q7ObrR7JOq0/SxKE9ec4ZmI/AAAAAAAAA1E/j_vzccCqxio/s1600/nothing_to_see_here.jpg</LINK_TEXT>](http://2.bp.blogspot.com/_Q7ObrR7JOq0/SxKE9ec4ZmI/AAAAAAAAA1E/j_vzccCqxio/s1600/nothing_to_see_here.jpg))
+![](http://2.bp.blogspot.com/_Q7ObrR7JOq0/SxKE9ec4ZmI/AAAAAAAAA1E/j_vzccCqxio/s1600/nothing_to_see_here.jpg)
 
 </div>
 
@@ -108,7 +108,7 @@ http://en.wikipedia.org/wiki/Dalit
 
 @jezer: Odd that you've taken this as an attack on you, it was much more related to my previous post on the subject over a week before your questionable comments in group yesterday. http://www.slothmud.org/forum/viewtopic.php?f=28&t=3515
 
-*Interstingly enough although the subject of the post is relevant to what you said its also equally relevant to 2 others players who in the last week have seen it as ok to say something derogatory as long as its preceeded by an "I dont mean to be ... " statement ... more interesting neither of them saw the need to post partial logs on the crier.*
+<em>Interstingly enough although the subject of the post is relevant to what you said its also equally relevant to 2 others players who in the last week have seen it as ok to say something derogatory as long as its preceeded by an "I dont mean to be ... " statement ... more interesting neither of them saw the need to post partial logs on the crier.</em>
 
 If you so easily perceive this as relating to your behaviour perhaps you may be being prickled by your conscience?
 
@@ -122,13 +122,13 @@ T
 
 Ridiculous illogical arguments.
 
->If you so easily perceive this as relating to your behavior perhaps you may be being prickled by your conscience?
+\>If you so easily perceive this as relating to your behavior perhaps you may be being prickled by your conscience?
 
 Amusing. So if someone disagrees with someone it's because the other person was actually right. It can't just be that the person just thought, hey! that person is completely wrong! That's the trouble with conceited smug and arrogant people like yourself, everything points to their argument being right. How slimy and convenient your suggesting your post was actually based at others.
 
 So your campaigning to make the world a better place by eradicating racism, by berating those who you perceive to be racist. Let me guess... you didn't mean to be rude but... 'look mate just shut up with your racist shit, you could give similar examples about any group.' 
 
-What do you do in your spare time? Kill abortion doctors under the pro life banner?  :roll: Get a grip. 
+What do you do in your spare time? Kill abortion doctors under the pro life banner? <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> Get a grip. 
 
 In your case Thraxas, given the amount of other players you've targeted in similar instances, this is not an isolated incident and I'm not the only one that gets caught off hand by the wild accusations, and I'd encourage the other players on the receiving end of your hypocritical moral crusades to just ignore you.
 
@@ -138,7 +138,7 @@ Peace, Out.
 
 <div class="post" data-post-id="31787" data-author="Thraxas" data-date="2010-09-23T23:02:35+00:00" data-subject="Re: I dont mean to be rude but ...">
 
-I dont mean to laugh at you but ... well no actually I do ...  :lol:
+I dont mean to laugh at you but ... well no actually I do ... <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

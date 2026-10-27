@@ -46,7 +46,7 @@ to break Tuesday's planned 90 minute outage into two shorter outages.
 
 Rather than upgrading bandwidth and power in one window, we are going
 
-to do bandwidth on Tuesday and power several days later.  As a result,
+to do bandwidth on Tuesday and power several days later. As a result,
 
 there is no need for you to turn off your server on Tuesday.
 
@@ -58,7 +58,7 @@ What is happening?
 
 Bandwidth systems are being upgraded with an additional gigE fiber
 
-optic connection which will speed everyone up considerably!  This will
+optic connection which will speed everyone up considerably! This will
 
 result in a brief outage to connectivity on Tuesday morning.
 

@@ -14,9 +14,9 @@ post_count: 10
 
 Hi guys,
 
-Just wondering if the effects of a 'masterful weave' were known for all spells. Some are not too hard to guess (damage spell => more damage ?), but others are less trivial. I'm for exemple wondering what is a " quite blinded" mob. Higher tohit penalty ? Higher duration ?
+Just wondering if the effects of a 'masterful weave' were known for all spells. Some are not too hard to guess (damage spell =\> more damage ?), but others are less trivial. I'm for exemple wondering what is a " quite blinded" mob. Higher tohit penalty ? Higher duration ?
 
-Or is this one of the game's "candies" that I should be glad to discover on my own  8) ?
+Or is this one of the game's "candies" that I should be glad to discover on my own <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> ?
 
 </div>
 
@@ -28,7 +28,7 @@ Quite blinded - extension of the blind spell from 2 ticks to close to 3 or so (n
 
 <div class="post" data-post-id="1915" data-author="blackmore" data-date="2004-09-13T11:26:59+00:00" data-subject="">
 
-There's no record of what the masterful effect is on each spell, but many are known if you ask.  As for being blinded, it wouldn't make sense to be made "more blind" than with a non-masterful spell, so I don't think it's anything more than duration.
+There's no record of what the masterful effect is on each spell, but many are known if you ask. As for being blinded, it wouldn't make sense to be made "more blind" than with a non-masterful spell, so I don't think it's anything more than duration.
 
 </div>
 
@@ -56,13 +56,13 @@ A chromatic spellbook is in use, but the location is unknown. (normal)
 
 A chromatic spellbook is in use, somewhere on Niebelung. (masterful)
 
-Btw...who pops chromatic on SS? I need one more perception book   :P
+Btw...who pops chromatic on SS? I need one more perception book <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="1917" data-author="Ender" data-date="2004-09-13T12:14:43+00:00" data-subject="">
 
-Masterfuls are kinda funny, some seems kinda silly until you find out what they can actually do.  A couple I've heard about, but haven't done personally:
+Masterfuls are kinda funny, some seems kinda silly until you find out what they can actually do. A couple I've heard about, but haven't done personally:
 
 Masterful Word of Recall:
 
@@ -94,7 +94,7 @@ Normal Undead Visage : Your skin shrivels and sags as you take on a hideous unde
 
 Masterful Undead Visage : Your skin becomes beautifully pale as you take on an elegant undead visage.
 
-*Not sure on effect here, but i assume the % of you getting detected by undead being is less.
+\*Not sure on effect here, but i assume the % of you getting detected by undead being is less.
 
 Masterful Stamina : At Avatar 40, gives 75 hp instead of the default 50.
 
@@ -124,7 +124,7 @@ Might Have errors.
 
 Thanks guys !
 
-This masterful thingy certainly adds some spice to the game, even if you can't decently rely on it :)
+This masterful thingy certainly adds some spice to the game, even if you can't decently rely on it <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -140,7 +140,7 @@ Masterful Recall: not confirmed, but rumor says it breaks demonbind.
 
 masterful recall recalls you while demon bound it has been confirmed
 
-:)
+<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Shyla
 

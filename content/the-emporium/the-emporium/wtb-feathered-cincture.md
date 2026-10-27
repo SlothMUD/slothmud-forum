@@ -24,7 +24,8 @@ WTB Feathered Cincture - offering 20mil or restring token
 
 <div class="post" data-post-id="24191" data-author="Vixn" data-date="2008-05-04T16:21:45+00:00" data-subject="Re: WTB Feathered Cincture - for 20mil or restring token">
 
-WTB Feathered Cincture - offering 20mil or restring token[/quote:3v8inljr]
+> <strong>Weasel wrote:</strong>
+> WTB Feathered Cincture - offering 20mil or restring token
 
 Contact me. I have cincture for you.
 
@@ -34,6 +35,6 @@ Vixn aka Edd/Kida
 
 <div class="post" data-post-id="24193" data-author="Weasel" data-date="2008-05-04T18:11:34+00:00" data-subject="">
 
-thanks :)
+thanks <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

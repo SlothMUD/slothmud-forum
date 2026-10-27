@@ -14,11 +14,11 @@ post_count: 3
 
 Using a combination of logged hex and oct token rolls on a test character, and a program I wrote that is a reverse engineer of some old stat rolling source code, I believe I have calculated the probability of achieving stat totals with a good degree of accuracy. This information uses the following assumptions... 
 
-* Four 1d6 die are rolled, the three highest dice are kept and added together. Then 1 is added to the total. If 19 is the total, the total is set to 18.
+\* Four 1d6 die are rolled, the three highest dice are kept and added together. Then 1 is added to the total. If 19 is the total, the total is set to 18.
 
-* The lowest stat that can be rolled on a hex is 5.
+\* The lowest stat that can be rolled on a hex is 5.
 
-* The lowest stat that can be rolled on an oct is 8.
+\* The lowest stat that can be rolled on an oct is 8.
 
 The results show roughly the average number of tokens it will take to roll the total with what type of token. The program was calibrated to roll the total 1000 times in order to calculate the average. However, it's completely possible to roll a total with only 1 token... or it could take thousands more than the average. Multiple executions of the program showed that the deviation between the average tokens grows the higher the total you aim for. It's also an observation that for each extra point in the total you aim for, you effectively about double the number of tokens required to reach that total.
 
@@ -76,17 +76,17 @@ Anecdotally, your 'number of rolls required' figures are close to my own experie
 
 <div class="post" data-post-id="39441" data-author="Gorka" data-date="2020-04-23T11:10:56+00:00" data-subject="Re: The Gorka Guide to Rolling Tokens">
 
-> **Josiah wrote:**
+> <strong>Josiah wrote:</strong>
 > Those are some interesting assumptions, G. 
 > 
 > Why would 4d6 drop lowest + 1 grant a minimum stat of five? I haven't rolled in years, but I did get a three once on Sloth III.
 
 I can say for certain, once upon a time, this was the way rolling worked in sloth... and although holistically the function did change, it doesn't make any sense to tinker with the "4d6 drop lowest" equation part. When I coded my own function, I originally missed the "+1" part... and the number of rolls to get playable was far far higher... For half an hour I was trying to figure out what I'd done wrong in my replication of the old function - as soon as I realized my mistake and added it back in as it originally was, all of a sudden I was replicating the evidence from my tokens rolled in the game. I'm pretty confident about this part.
 
-I recall back in s3 there was a public outcry about re-rolling and something was changed even then. If I was a coder and had to improve things, increase the chances ever so slightly, adjusting that minimum allowable stat code would have been the thing I would have changed, (ie, if roll < 5 then reroll) or the "+1". As you point out  the evidence seems to line up quite well with the formula... although "correlation != causation." 
+I recall back in s3 there was a public outcry about re-rolling and something was changed even then. If I was a coder and had to improve things, increase the chances ever so slightly, adjusting that minimum allowable stat code would have been the thing I would have changed, (ie, if roll \< 5 then reroll) or the "+1". As you point out the evidence seems to line up quite well with the formula... although "correlation != causation." 
 
 Would be interested to know if anyone rolls a stat lower than the minimums I stated... please let me know if you do.
 
-In any case, from the players perspective, the important thing to realize is that the rolling formula produces a typical bell curve when plotted graphically... The probability is that most rolls are are going to be average... ((18 - 5) / 2) + 5 + 1) * 5 = 62ish, and the rarest rolls will be towards both extremes, high or low proportionally. Therefore one can assume that the work to stray away from the mean which is going to have the gravity of the rolls, is an exponential factor. Even if the token min changed, the principal is still the same.
+In any case, from the players perspective, the important thing to realize is that the rolling formula produces a typical bell curve when plotted graphically... The probability is that most rolls are are going to be average... ((18 - 5) / 2) + 5 + 1) \* 5 = 62ish, and the rarest rolls will be towards both extremes, high or low proportionally. Therefore one can assume that the work to stray away from the mean which is going to have the gravity of the rolls, is an exponential factor. Even if the token min changed, the principal is still the same.
 
 </div>

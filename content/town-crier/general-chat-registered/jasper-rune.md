@@ -16,15 +16,15 @@ I'm Necro Prime so enjoy using Undead Control.
 
 I've recently obtained a Jasper Rune:
 
-Jasper 	+1 Undead Control 	cloaks and mantles 
+Jasper +1 Undead Control cloaks and mantles 
 
 I'd realised its a neck rune but not that it was so restrictive.
 
 I have 2 UC neck items already:
 
-<worn around neck>   an ugly decaying ankh (with a clasp of life and death attached to it)
+\<worn around neck\> an ugly decaying ankh (with a clasp of life and death attached to it)
 
-<worn on shoulders>  woven shoulder guards of flesh (with a clasp of life and death attached to it)
+\<worn on shoulders\> woven shoulder guards of flesh (with a clasp of life and death attached to it)
 
 Neither of which are cloaks or mantles so cant socket Jasper Rune.
 
@@ -46,7 +46,7 @@ Try socketing it to something you wear about your body instead, like a Shroud of
 
 Thanks for that.
 
-Seems I must have once known it ... I already have a Jasper on my UC robe :).
+Seems I must have once known it ... I already have a Jasper on my UC robe <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">.
 
 Does anyone want to trade for a Jasper Rune? (Seems I now have a spare)
 

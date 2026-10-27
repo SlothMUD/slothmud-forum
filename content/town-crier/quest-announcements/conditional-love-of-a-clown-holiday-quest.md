@@ -20,13 +20,13 @@ This year the quest will be as follows. Every day from Dec 26th to Jan 1, I will
 
 Terms and Conditions:
 
-As a thank you to our long term players, this quest is only available to players who are at least 3x40 as of Jan 1st.  This quest is limited to 1 prize per human player. Anyone participating is subject to an IP address log check as well as a check of known alts. Anyone caught attempting to receive more than 1, will receive no prize and will be fined 25 drachma. Prize is non-transferrable and must be collected no later than January 8th. Prize must be collected from Juggleblood without exception. Quest details may NOT be discussed on open channels (gossip, auction, newbie, shout, or quest).
+As a thank you to our long term players, this quest is only available to players who are at least 3x40 as of Jan 1st. This quest is limited to 1 prize per human player. Anyone participating is subject to an IP address log check as well as a check of known alts. Anyone caught attempting to receive more than 1, will receive no prize and will be fined 25 drachma. Prize is non-transferrable and must be collected no later than January 8th. Prize must be collected from Juggleblood without exception. Quest details may NOT be discussed on open channels (gossip, auction, newbie, shout, or quest).
 
 </div>
 
 <div class="post" data-post-id="37873" data-author="Gorka" data-date="2016-12-24T04:14:33+00:00" data-subject="Re: Conditional Love of a Clown - Holiday Quest">
 
-Would love to participate, as I socketted GYT's into ashen bracelets a month before the monk bracers were added to the game...  :x but a long haul international flight almost guarantees I will miss one of the days, and therefore the whole thing. I've been looking forward to this opportunity for some time.
+Would love to participate, as I socketted GYT's into ashen bracelets a month before the monk bracers were added to the game... <img src="/images/smilies/icon_mad.svg" alt=":x" title=":x" width="15" height="15" class="smiley nozoom"> but a long haul international flight almost guarantees I will miss one of the days, and therefore the whole thing. I've been looking forward to this opportunity for some time.
 
 I know each year when there are quests there is some whining when people miss it, but I suspect other players might also find it hard to keep the commitment up for 6 consecutive days at this time of year. Could you do something like, run it for 7 days, and accept 6 tokens... thus giving players more of a chance over what is normally a busy period with family commitments.
 
@@ -40,13 +40,13 @@ Let's call it 5/6 then.
 
 <div class="post" data-post-id="37882" data-author="*juggleblood*" data-date="2016-12-26T01:57:46+00:00" data-subject="Re: Conditional Love of a Clown - Holiday Quest">
 
-First one, find Avatar of Juggleblood at Solarian Virintire in Onyx Tower and <say vote for slothmud>. You will receive a personal item.
+First one, find Avatar of Juggleblood at Solarian Virintire in Onyx Tower and \<say vote for slothmud\>. You will receive a personal item.
 
 </div>
 
 <div class="post" data-post-id="37890" data-author="*juggleblood*" data-date="2016-12-27T04:05:28+00:00" data-subject="Re: Conditional Love of a Clown - Holiday Quest">
 
-Next avatar is located at Lolth in Demonweb on Niebelung and the passphrase is <say i voted today>.
+Next avatar is located at Lolth in Demonweb on Niebelung and the passphrase is \<say i voted today\>.
 
 </div>
 
@@ -64,7 +64,7 @@ Stumpy in Lost Cross - "slothmud rocks tmc"
 
 <div class="post" data-post-id="37899" data-author="Josiah" data-date="2016-12-29T07:36:03+00:00" data-subject="Re: Conditional Love of a Clown - Holiday Quest">
 
-For anyone confused, you're actually looking for the Avatar of Juggleblood which is *near* stumpy.
+For anyone confused, you're actually looking for the Avatar of Juggleblood which is <em>near</em> stumpy.
 
 Stumpy wanders.
 

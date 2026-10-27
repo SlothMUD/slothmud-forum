@@ -12,17 +12,15 @@ post_count: 3
 
 <div class="post" data-post-id="8395" data-author="Zam" data-date="2005-08-25T17:52:51+00:00" data-subject="something new ... ?">
 
-<610hp 328ma 106mv>                                                               <20>     <174303078>
+\<610hp 328ma 106mv\> \<20\> \<174303078\>
 
 rea note
 
-The note has some blurred words scrawled over the surface.  
+The note has some blurred words scrawled over the surface. 
 
- 
+ "I once heard tell of a great shield, even more powerful than Jason's legendary mirrored shield that he defeated Medusa with. The shield has been imbued with so much power that only the most stealthy of people can bear to use it. If you bring me a coal-black shard of ebony, a powerful sygil in the shape of s scarab, a powerful kris from a wicked Den, a gods blessing, a demon's soul , the body of greatest thief ever and a burning ball of flame, I may try to make it for you. But hurry up! This powerful enchantment can be made only in Month of the Great Master, Twivel"
 
-  "I once heard tell of a great shield, even more powerful than Jason's legendary mirrored shield that he defeated Medusa with. The shield has been imbued with so much power that only the most stealthy of people can bear to use it.  If you bring me a coal-black shard of ebony, a powerful sygil in the shape of s scarab, a powerful kris from a wicked Den,  a gods blessing, a demon's soul , the body of greatest thief ever and a burning ball of flame, I may try to make it for you. But hurry up! This powerful enchantment can be made only in Month of the Great Master, Twivel"
-
-<610hp 329ma 106mv>
+\<610hp 329ma 106mv\>
 
 </div>
 

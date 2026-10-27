@@ -12,7 +12,7 @@ post_count: 2
 
 <div class="post" data-post-id="26298" data-author="Bazilus" data-date="2008-09-13T09:40:24+00:00" data-subject="Looking for some help...">
 
-Some1 with emerald dragon's eye can help us? This is key for Mercurial Woods. CR. :)
+Some1 with emerald dragon's eye can help us? This is key for Mercurial Woods. CR. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Bazilus the Crazy Python
 

@@ -18,15 +18,15 @@ We will probably also add a who type listing that will show everyone and what it
 
 WANTED
 
-See Also:  FINGER PRIVATE SETTINGS ICQ
+See Also: FINGER PRIVATE SETTINGS ICQ
 
 Examples of usage:
 
 Adding wanted items:
 
-wanted add red_spellbook
+wanted add red\_spellbook
 
-wanted add fargate_spellbook
+wanted add fargate\_spellbook
 
 To see what contact numbers you have listed:
 
@@ -34,7 +34,7 @@ Simply type wanted
 
 To remove a contact:
 
-wanted remove red_spellbook
+wanted remove red\_spellbook
 
 Enjoy,
 

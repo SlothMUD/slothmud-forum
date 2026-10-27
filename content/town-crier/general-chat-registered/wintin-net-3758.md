@@ -18,7 +18,7 @@ Just trying to get online again now that I'm using win7 rather than my trusty ol
 
 2: Do we still need .net 1.1 for the sourceforge version?
 
-Otherwise I guess I'll be switching to cmud :)
+Otherwise I guess I'll be switching to cmud <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 (win7 pro 64bit btw, if it matters)
 
@@ -26,9 +26,9 @@ Otherwise I guess I'll be switching to cmud :)
 
 <div class="post" data-post-id="32683" data-author="*Breeze*" data-date="2011-06-15T05:05:02+00:00" data-subject="Re: Wintin.net">
 
-1. Sourceforge
+1\. Sourceforge
 
-2. I forget :(
+2\. I forget <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -46,13 +46,13 @@ Thanks guys, will give it a go.
 
 <div class="post" data-post-id="32686" data-author="Rynquald" data-date="2011-06-15T06:44:55+00:00" data-subject="Re: Wintin.net">
 
-The Sourceforge one works perfectly. Didn't even need .net 1.1 :)
+The Sourceforge one works perfectly. Didn't even need .net 1.1 <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="32687" data-author="*Breeze*" data-date="2011-06-15T19:16:59+00:00" data-subject="Re: Wintin.net">
 
-explains why i forgot if it needed .net or not :)
+explains why i forgot if it needed .net or not <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 glad you got it sorted
 

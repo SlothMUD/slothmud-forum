@@ -12,7 +12,7 @@ post_count: 4
 
 <div class="post" data-post-id="4815" data-author="Alberich" data-date="2005-03-06T14:02:43+00:00" data-subject="stuff in Kozakura">
 
-cannot add this stuff to eqlist yet, no option for it :)
+cannot add this stuff to eqlist yet, no option for it <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 from pale elegant lady
 
@@ -34,15 +34,15 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: REGEN_MANA by 1
+ Affects: REGEN\_MANA by 1
 
-    Affects: MANA by 5
+ Affects: MANA by 5
 
 Only those who are at least experienced magic users, clerics, druids, or 
 
-necromancers may use this item.  
+necromancers may use this item. 
 
-and no, it's not a container, before you all start drooling too hard :)
+and no, it's not a container, before you all start drooling too hard <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -72,9 +72,9 @@ AC-apply is -0.4
 
 Can affect you as:
 
-    Affects: KICKDAM by 1
+ Affects: KICKDAM by 1
 
-    Affects: REGEN_MOVE by 2
+ Affects: REGEN\_MOVE by 2
 
 Only those who are at least experienced thieves, warriors, bards, or monks 
 
@@ -100,9 +100,9 @@ Damage Dice is '3D4'
 
 Can affect you as:
 
-    Affects: RESIST_POISON by 1
+ Affects: RESIST\_POISON by 1
 
-    Affects: DAMROLL by 1
+ Affects: DAMROLL by 1
 
 Only those who are at least adept magic users, clerics, thieves, warriors, 
 

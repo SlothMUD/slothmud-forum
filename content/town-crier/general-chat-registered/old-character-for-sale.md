@@ -12,9 +12,9 @@ post_count: 10
 
 <div class="post" data-post-id="19805" data-author="Yinao" data-date="2007-08-21T20:24:28+00:00" data-subject="Old Character for Sale.">
 
-Orcs bleah  (level: 40)
+Orcs bleah (level: 40)
 
-Your levels:  Wa: 40 Ma: 40 Cl: 37 Mo: 32
+Your levels: Wa: 40 Ma: 40 Cl: 37 Mo: 32
 
 You are 24 years and 1 month old.
 
@@ -48,7 +48,7 @@ Str: 18 / 94, Int: 18, Wis: 11, Dex: 17, Con: 15
 
 You are standing.
 
-You are affected by the following spells:   None.
+You are affected by the following spells: None.
 
 if your interested send me a tell ingame Yinao/Bombard/Barael
 
@@ -62,19 +62,19 @@ Must you remind us that it was you!!!
 
 <div class="post" data-post-id="19808" data-author="Yinao" data-date="2007-08-21T20:26:19+00:00" data-subject="">
 
-It was that big of a secret?  :shock:
+It was that big of a secret? <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="19809" data-author="Medios" data-date="2007-08-21T20:32:35+00:00" data-subject="">
 
-Nah I'm just trying to forget :)
+Nah I'm just trying to forget <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="19810" data-author="Yinao" data-date="2007-08-21T20:35:50+00:00" data-subject="">
 
-Well as soon as he is gone you can forget faster  :?
+Well as soon as he is gone you can forget faster <img src="/images/smilies/icon_e_confused.svg" alt=":?" title=":?" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -94,18 +94,18 @@ Moderately reliable.
 
 SOLD!!
 
-PS And its not to the poser with the three letter name in the front row  :twisted:
+PS And its not to the poser with the three letter name in the front row <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="19894" data-author="Tap" data-date="2007-08-24T22:43:09+00:00" data-subject="">
 
-Keep telling yourself that.... :twisted:
+Keep telling yourself that.... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="19901" data-author="Yinao" data-date="2007-08-25T03:22:52+00:00" data-subject="">
 
-Telling myself your a poser, or telling myself you got the character, bc im sure you dont have the character  :roll:
+Telling myself your a poser, or telling myself you got the character, bc im sure you dont have the character <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>

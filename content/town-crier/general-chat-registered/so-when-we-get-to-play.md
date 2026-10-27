@@ -12,7 +12,7 @@ post_count: 30
 
 <div class="post" data-post-id="28757" data-author="Sind" data-date="2009-04-11T11:37:17+00:00" data-subject="So when we get to play? :)">
 
-Mybe its been said already, but i couldnt find exact time :)
+Mybe its been said already, but i couldnt find exact time <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -32,9 +32,9 @@ See you on the flip side!
 
 <div class="post" data-post-id="28759" data-author="Virus" data-date="2009-04-11T12:31:13+00:00" data-subject="">
 
-** the Archmage has advanced Testone to oct Level 40 at 8 o'clock am on the Day of the Moon...
+\*\* the Archmage has advanced Testone to oct Level 40 at 8 o'clock am on the Day of the Moon...
 
-Nice, oct level 40....so we get to have 3k hp and 2k mana?  :twisted:
+Nice, oct level 40....so we get to have 3k hp and 2k mana? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -42,7 +42,7 @@ Nice, oct level 40....so we get to have 3k hp and 2k mana?  :twisted:
 
 Crap thieves!
 
-You have 200hp 5ma and no ac... some things will never change! All your manas are belong to me!  :twisted:
+You have 200hp 5ma and no ac... some things will never change! All your manas are belong to me! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -66,7 +66,7 @@ Splork
 
 <div class="post" data-post-id="28779" data-author="Grayfor" data-date="2009-04-11T15:50:03+00:00" data-subject="">
 
-Come 5pm it's gonna be pretty crowded in Newbatia  :P
+Come 5pm it's gonna be pretty crowded in Newbatia <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -78,7 +78,7 @@ Come 5pm it's gonna be pretty crowded in Newbatia  :P
 
 <div class="post" data-post-id="28783" data-author="Weasel" data-date="2009-04-11T16:09:06+00:00" data-subject="">
 
-Dibs on the holy-sword ..then I can kill Jezer and take over wandering-adventurer.  :twisted: 
+Dibs on the holy-sword ..then I can kill Jezer and take over wandering-adventurer. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 Actually that brings up a good point.. what's the story with pthieving and pkilling on this new iteration of SlothMud?
 
@@ -86,7 +86,7 @@ Actually that brings up a good point.. what's the story with pthieving and pkill
 
 <div class="post" data-post-id="28784" data-author="Sind" data-date="2009-04-11T16:16:56+00:00" data-subject="">
 
-so what time is it now? :) and how much left
+so what time is it now? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> and how much left
 
 gief me clues!
 
@@ -102,13 +102,13 @@ It would be rude not to, really.
 
 No, really.
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="28786" data-author="Xerox" data-date="2009-04-11T16:53:20+00:00" data-subject="">
 
-yea, i keep trying to login and getting this wierd wizlocked message :) 
+yea, i keep trying to login and getting this wierd wizlocked message <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> 
 
 looking at the dynamic map and who's online i am aware that the imms
 
@@ -134,9 +134,9 @@ So I'm looking forward to signing in later to see what's new.
 
 RE TITLE
 
-[11w  3o  0   0 | 0   0   0  0 ] Rodek the Untitled
+[11w 3o 0 0 \| 0 0 0 0 ] Rodek the Untitled
 
-You can get to play.. just as soon as the imms get a head start for the 1x40/2x40 prize.  :shock:
+You can get to play.. just as soon as the imms get a head start for the 1x40/2x40 prize. <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -198,21 +198,21 @@ Or maybe I should just take a nap instead of booting the mud up:)
 
 <div class="post" data-post-id="28813" data-author="Sind" data-date="2009-04-11T20:16:39+00:00" data-subject="">
 
-while taking nap, can ya gief us some clues wheres Jake  8)
+while taking nap, can ya gief us some clues wheres Jake <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="28814" data-author="Sind" data-date="2009-04-11T20:29:01+00:00" data-subject="">
 
-EDIT: what the hell, its first day of Slothmud :)
+EDIT: what the hell, its first day of Slothmud <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-*sniff*
+\*sniff\*
 
 due to some stupid day routine i made for self im off to bed,
 
 happy hunting fellas!
 
-ill catch up in next 10 years :)
+ill catch up in next 10 years <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

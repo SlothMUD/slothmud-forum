@@ -82,7 +82,7 @@ Note: whoever added that clan talk channel feature a while backâ€¦rock on. I
 
 Good on ya Eze for having a go at suggesting some ideas. I can't comment on the newer classo's since I don't play them much (if at all) ..in fact I don't even play much anymore at all after the bollocking I got the last few times I tried to make any constructive suggestions, so best of luck with your efforts. Perhaps suggestions ARE welcome from some, but certainly not from everyone.
 
- :shock:
+ <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -98,13 +98,14 @@ As it seems to me I like song of the sea/ocean idea though last time i've tried 
 
 Perception costs a lot but it's ok. And you can reequip yourself in dark room, you just need to chage light source first. You can do it in even in darkness if you know keyword for you light source and container. 
 
-Imho reflection have to be changed.  Hermetic resonance seems much better and it isn't prime spell. And resonance with spell shield do much more protection from spells. So I don't see any advantages of using reflection. I'd prefer to have spectral shield as prime mage spell cause as it seems to me mages are more qualified in draining mana from different spells instead of necroses.
+Imho reflection have to be changed. Hermetic resonance seems much better and it isn't prime spell. And resonance with spell shield do much more protection from spells. So I don't see any advantages of using reflection. I'd prefer to have spectral shield as prime mage spell cause as it seems to me mages are more qualified in draining mana from different spells instead of necroses.
 
 </div>
 
 <div class="post" data-post-id="9528" data-author="Blackguard" data-date="2005-11-16T10:39:10+00:00" data-subject="">
 
-[quote:2d0uikbw]a character should have a much lower percent chance of having something stolen from them no matter how hidden the pthief.[/quote:2d0uikbw]
+> <strong>Quote:</strong>
+> a character should have a much lower percent chance of having something stolen from them no matter how hidden the pthief.
 
 haha comedy gold
 
@@ -112,7 +113,7 @@ haha comedy gold
 
 <div class="post" data-post-id="9532" data-author="Falsra" data-date="2005-11-16T13:12:13+00:00" data-subject="">
 
-LET MAGES STAB WITH MIRRORS!  :twisted:
+LET MAGES STAB WITH MIRRORS! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -128,17 +129,18 @@ Ezekiel
 
 <div class="post" data-post-id="9534" data-author="brand" data-date="2005-11-16T17:23:42+00:00" data-subject="">
 
-not a bad little wish list there E.  imho adding new prime only skills is not only a waste of time for immortals but for players as well, spending time to put in something that is limited to a very few characters is nice, but not as cool as a new skill available to multiple classes (warcry and crip strike for example).  that said putting (prime only) after a skill does give you power to let the mind roam.  why clerics say dark mace not so good it just got a really nice upgrade some time ago and procs a ton(DARKMACE RULES THE MIDNIGHT AIR).  although i dream about the possible thor hammer upgrade that allows a thrown weapon to return to wielders hand next round.  it would be great if blaze could ignite webs, then we could finally have those great moments i remember when a mage casts fire in hallway containing his webbed party.  don't you do that.  I"LL JUST HIT THE MOB. don't you do that. IT WILL WORK. don't do it. WHO MADE YOU LEADER. don't do it... then the party dies.  anyhow lunch time.
+not a bad little wish list there E. imho adding new prime only skills is not only a waste of time for immortals but for players as well, spending time to put in something that is limited to a very few characters is nice, but not as cool as a new skill available to multiple classes (warcry and crip strike for example). that said putting (prime only) after a skill does give you power to let the mind roam. why clerics say dark mace not so good it just got a really nice upgrade some time ago and procs a ton(DARKMACE RULES THE MIDNIGHT AIR). although i dream about the possible thor hammer upgrade that allows a thrown weapon to return to wielders hand next round. it would be great if blaze could ignite webs, then we could finally have those great moments i remember when a mage casts fire in hallway containing his webbed party. don't you do that. I"LL JUST HIT THE MOB. don't you do that. IT WILL WORK. don't do it. WHO MADE YOU LEADER. don't do it... then the party dies. anyhow lunch time.
 
- :twisted: brand
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> brand
 
 </div>
 
 <div class="post" data-post-id="9535" data-author="blackmore" data-date="2005-11-16T17:34:31+00:00" data-subject="">
 
-Imho reflection have to be changed.  Hermetic resonance seems much better and it isn't prime spell. And resonance with spell shield do much more protection from spells. So I don't see any advantages of using reflection. [/quote:31aifaif]
+> <strong>Vixn wrote:</strong>
+> Imho reflection have to be changed. Hermetic resonance seems much better and it isn't prime spell. And resonance with spell shield do much more protection from spells. So I don't see any advantages of using reflection.
 
-There are basically 2 advantages to reflection.  The main one is that to have up hermetic resonance, you have to specify the spell that it reflects, whereas reflection will basically reflect anything specifically targeted at the caster that spellshield blocks, including procs - so from that perspective, reflection is much more versatile.  Also, against a good number of blasting mobs, they won't even try to blast if you have reflection up, making it a pretty cheap defense to prevent being blasted.  
+There are basically 2 advantages to reflection. The main one is that to have up hermetic resonance, you have to specify the spell that it reflects, whereas reflection will basically reflect anything specifically targeted at the caster that spellshield blocks, including procs - so from that perspective, reflection is much more versatile. Also, against a good number of blasting mobs, they won't even try to blast if you have reflection up, making it a pretty cheap defense to prevent being blasted. 
 
 The advantage to hermetic resonance is it almost never fails, making it much more powerful if you are using it against a one mob or a series of mobs that all have 1 predictable blast spell.
 
@@ -148,7 +150,7 @@ I do agree that with changes over the years, reflection has become much less use
 
 <div class="post" data-post-id="9536" data-author="Alberich" data-date="2005-11-16T17:48:59+00:00" data-subject="">
 
-I've gotta agree with blackmore... reflection might leave a bit to be desired, but I still use it far more often than say spellshield (or I use them together).  Haven't gotten motivated enough to go pop that hermetic resonance book yet though, so cannot really make an intelligent comparison there, but from what I've seen/heard, it won't be replacing reflection for any of my runs.
+I've gotta agree with blackmore... reflection might leave a bit to be desired, but I still use it far more often than say spellshield (or I use them together). Haven't gotten motivated enough to go pop that hermetic resonance book yet though, so cannot really make an intelligent comparison there, but from what I've seen/heard, it won't be replacing reflection for any of my runs.
 
 that said... 
 
@@ -158,17 +160,18 @@ i second falsra, let us stab with our mirrors up!
 
 <div class="post" data-post-id="9537" data-author="kjartan" data-date="2005-11-16T18:42:15+00:00" data-subject="">
 
-Theoretically most caster mobs (the ones that are supposed to be smart, but not necessarily other proc mobs that also blast) will realize you have hermetic resonance up and switch to another blast spell after getting one reflected back at them.  (Actually, sometimes it might make sense for it to bounce a few spells to try to bring down the resonance, but they aren't that smart right now).
+Theoretically most caster mobs (the ones that are supposed to be smart, but not necessarily other proc mobs that also blast) will realize you have hermetic resonance up and switch to another blast spell after getting one reflected back at them. (Actually, sometimes it might make sense for it to bounce a few spells to try to bring down the resonance, but they aren't that smart right now).
 
-Because sloth has been around so long, we have accumulated half a dozen different procs that can be used for casters.  I may have missed one (or more) when I set this logic up, or screwed up the implementation in some of them.
+Because sloth has been around so long, we have accumulated half a dozen different procs that can be used for casters. I may have missed one (or more) when I set this logic up, or screwed up the implementation in some of them.
 
-I had really figured hermetic resonance would mostly be useful for things like blocking webs or other stuff that isn't affected by spell shield or reflection.  The intent is that you're better off using spell shield / reflection for general blast stoppage.
+I had really figured hermetic resonance would mostly be useful for things like blocking webs or other stuff that isn't affected by spell shield or reflection. The intent is that you're better off using spell shield / reflection for general blast stoppage.
 
 </div>
 
 <div class="post" data-post-id="9540" data-author="Weasel" data-date="2005-11-16T19:52:36+00:00" data-subject="">
 
-..although i dream about the possible thor hammer upgrade that allows a thrown weapon to return to wielders hand next round.. [/quote:1g251c8n]
+> <strong>brand wrote:</strong>
+> ..although i dream about the possible thor hammer upgrade that allows a thrown weapon to return to wielders hand next round..
 
 Nods, I put that suggestion forward a while ago (with more details about loss conc equivalencies etc), except called it a boomerang. Of course the suggestion never went anywhere. Maybe you'll have more luck with it than I did.
 
@@ -176,11 +179,14 @@ Nods, I put that suggestion forward a while ago (with more details about loss co
 
 <div class="post" data-post-id="9545" data-author="Blackguard" data-date="2005-11-17T10:50:09+00:00" data-subject="">
 
-heh...i like how blackguard picks and chooses the parts of the sentences he like to follow up on...yes...discredit the reason behind the claim that perception heightens overall awareness...then again...i wouldn't expect a pthief who does nothing but sit at the inn all day to know anything about real aspects of the game.
-
-Cheers,
-
-Ezekiel[/quote:3n3zmdjq]
+> <strong>Ezekiel wrote:</strong>
+> heh...i like how blackguard picks and chooses the parts of the sentences he like to follow up on...yes...discredit the reason behind the claim that perception heightens overall awareness...then again...i wouldn't expect a pthief who does nothing but sit at the inn all day to know anything about real aspects of the game.
+> 
+> 
+> 
+> Cheers,
+> 
+> Ezekiel
 
 ahh, the good ole "realism" argument.
 
@@ -198,7 +204,8 @@ i didnt mean to discredit the reason behind the claim btw, i just dislike the id
 
 <div class="post" data-post-id="9546" data-author="Vixn" data-date="2005-11-17T12:23:33+00:00" data-subject="">
 
-how come theres only 2 slots for fingers? last i checked i had 10.[/quote:2acdr3sd]
+> <strong>Blackguard wrote:</strong>
+> how come theres only 2 slots for fingers? last i checked i had 10.
 
 could you wear rings on your toes??
 
@@ -218,21 +225,21 @@ Hence - say a thief wearing lots of dam eq can't splork a big mob, may be able t
 
 Can use your imagination... all its doing is instead of having dam at 50% and hit at 50% effectively allowing you to have a choice and set it at 60%/40% or even 70%/30%!
 
-Hmm, confused?  :shock: 
+Hmm, confused? <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
-Its an idea... I know these things take time to implement etc... just chucking it out there  :D
+Its an idea... I know these things take time to implement etc... just chucking it out there <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="9567" data-author="12345" data-date="2005-11-18T05:45:02+00:00" data-subject="">
 
-Stances are common.  I forget if they were added as part of Merc or Godwars, but both are common codebases for any number of muds.
+Stances are common. I forget if they were added as part of Merc or Godwars, but both are common codebases for any number of muds.
 
 </div>
 
 <div class="post" data-post-id="9581" data-author="kjartan" data-date="2005-11-18T17:09:25+00:00" data-subject="">
 
-We probably aren't going to implement stances here.  It's difficult to make changes to the armor class / hit percent chances in combat without making all existing eq sets suck.  And, if we were going to go through the pain of making some drastic change like that, we'd probably come up with something new rather than implementing a system that's already out there on a bunch of other muds.  I have a combat system based on log tables that I always wanted to try ...
+We probably aren't going to implement stances here. It's difficult to make changes to the armor class / hit percent chances in combat without making all existing eq sets suck. And, if we were going to go through the pain of making some drastic change like that, we'd probably come up with something new rather than implementing a system that's already out there on a bunch of other muds. I have a combat system based on log tables that I always wanted to try ...
 
 </div>
 

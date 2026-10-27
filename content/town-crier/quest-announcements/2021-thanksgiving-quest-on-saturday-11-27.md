@@ -22,11 +22,11 @@ We will hold the Thanksgiving Quest on Saturday 11/27 at 10AM pacific.
 
 A timer link is provided below:
 
-[<LINK_TEXT text="https://www.tickcounter.com/countdown/2 ... ving-quest">https://www.tickcounter.com/countdown/2895738/2021-slothmud-thanksgiving-quest</LINK_TEXT>](https://www.tickcounter.com/countdown/2895738/2021-slothmud-thanksgiving-quest)
+[https://www.tickcounter.com/countdown/2895738/2021-slothmud-thanksgiving-quest](https://www.tickcounter.com/countdown/2895738/2021-slothmud-thanksgiving-quest)
 
 See you there
 
---D
+\--D
 
 </div>
 

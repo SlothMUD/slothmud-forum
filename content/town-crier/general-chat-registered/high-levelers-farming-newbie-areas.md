@@ -14,7 +14,7 @@ post_count: 35
 
 Im a little frustrated right now. We make some nice changes on the player's behalf, just to find out some players are probably going to ruin it for everyone.
 
-It appears that several high level players are farming the lowbie areas for tri  tokens. Why on earth, I do not know since they can not give you great stats or even really good stats.
+It appears that several high level players are farming the lowbie areas for tri tokens. Why on earth, I do not know since they can not give you great stats or even really good stats.
 
 If these high level players can not leave these areas alone we will be forced to return tri tokens to under level 20 to prevent these players from killing mobs that newbies need, especially now with this restart. Tri tokens were meant to give a player playable stats, maybe even keepers, until they can search for hexes. They were also meant to be used as an emergency token- if you rolled something bad with your hex,roll the tri and get playable stats again.
 
@@ -26,9 +26,9 @@ Splork
 
 <div class="post" data-post-id="29001" data-author="Toxis" data-date="2009-04-22T02:41:44+00:00" data-subject="">
 
-I think they're running them for gold.  Gold is very hard to run right now for any type of low level.  My suggestion would be to make some low level gold mobs or give treasures to mid leveled mobs that you can sell for little more than tri tokens.
+I think they're running them for gold. Gold is very hard to run right now for any type of low level. My suggestion would be to make some low level gold mobs or give treasures to mid leveled mobs that you can sell for little more than tri tokens.
 
--tox
+\-tox
 
 </div>
 
@@ -42,11 +42,11 @@ Vixn
 
 <div class="post" data-post-id="29003" data-author="Mosaix" data-date="2009-04-22T03:28:17+00:00" data-subject="">
 
-I agree with Tox about the gold.  Make the gold value of a tri-token 0 or some low amount like 100 coins.  Right now they are about 20k each time you sell one.
+I agree with Tox about the gold. Make the gold value of a tri-token 0 or some low amount like 100 coins. Right now they are about 20k each time you sell one.
 
-Second if the few bad eggs keep farming tokens after the gold value is changed, then id say make the farmers lives hell.  And also return the token to under level 20.
+Second if the few bad eggs keep farming tokens after the gold value is changed, then id say make the farmers lives hell. And also return the token to under level 20.
 
-Good luck, it will be fun to play this summer again.  Good changes.
+Good luck, it will be fun to play this summer again. Good changes.
 
 </div>
 
@@ -62,7 +62,7 @@ I've seen shops with 9 tokens for sale on most continents, it's a gold problem, 
 
 <div class="post" data-post-id="29007" data-author="Shyla" data-date="2009-04-22T10:43:54+00:00" data-subject="">
 
-changing the tokens is NOT the solution....once again we are talking about punishing the whole mud for something some people are doing...they still get what they want and then it is imposed on the rest of us.  It doesn't set the right kind of precedent.  If there is abuse going on stop the abuse at the source.  Trust me if there is a problem the people on the mud will let you know who is the problem.  please stop changing things because we have jerks that are abusing it.   abuse the jerks.
+changing the tokens is NOT the solution....once again we are talking about punishing the whole mud for something some people are doing...they still get what they want and then it is imposed on the rest of us. It doesn't set the right kind of precedent. If there is abuse going on stop the abuse at the source. Trust me if there is a problem the people on the mud will let you know who is the problem. please stop changing things because we have jerks that are abusing it. abuse the jerks.
 
 Love
 
@@ -110,19 +110,19 @@ Splork
 
 <div class="post" data-post-id="29013" data-author="firebrand" data-date="2009-04-22T15:36:43+00:00" data-subject="">
 
-why not make the animal mobs drop vendor trash?  i.e. use the guts slots when building the mobs to make stuff like hides and intestines and a couple other items that are useless for anything but selling for cash.  i.e. a lowbie animal mob could have hides and bones and intestines to sell for 1 - 5 coins, and higher level mob guts could potentially have higher values.  just a thought.  flame on.
+why not make the animal mobs drop vendor trash? i.e. use the guts slots when building the mobs to make stuff like hides and intestines and a couple other items that are useless for anything but selling for cash. i.e. a lowbie animal mob could have hides and bones and intestines to sell for 1 - 5 coins, and higher level mob guts could potentially have higher values. just a thought. flame on.
 
-"Cut down a tree with a herring? It can't be done." -king arthur --> monty python and the holy grail
+"Cut down a tree with a herring? It can't be done." -king arthur --\> monty python and the holy grail
 
 </div>
 
 <div class="post" data-post-id="29014" data-author="Kanae" data-date="2009-04-22T16:15:31+00:00" data-subject="">
 
-Just a simple question.. splork me if you like :P 
+Just a simple question.. splork me if you like <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom"> 
 
 I tend to hit a low level area like kobolds for the potions it pops.. With low ac and low strength and little coin..buying bone armor, resist webs and refresh potions at shops is costly.. I do tend to bow to the little guys already in the area and come back when its free. So am I to be punished for using these potions? Am I to be considered farming a newbie area? 
 
-As I see it.. Changes where made that have been improvements..better group xp for little characters. Change in how much xp you get  for hitting the same mob repeatedly..These things point us in a direction for cooperation as a group. To encourage us to explore more areas.  By nature we are gathering what we know where we know we can.  
+As I see it.. Changes where made that have been improvements..better group xp for little characters. Change in how much xp you get for hitting the same mob repeatedly..These things point us in a direction for cooperation as a group. To encourage us to explore more areas. By nature we are gathering what we know where we know we can. 
 
 Take the time to check and see if anyone is in the area. Offer to run a group with the little guys and split the rewards of selling items. Yes it can be a challenge to keep them alive, but 2 things can and will happen. They will learn more of the skills a group requires.. Man up ...man back..when its safe to bash the mob and not get your casters attacked.. The xp they gain may be small in comparison to their one kill but if you multiply what they get with the number of kills you do in the same time you will see they are gaining more in the group. And you may get a new perspective on sloth as a whole.
 
@@ -132,13 +132,13 @@ Take the time to check and see if anyone is in the area. Offer to run a group wi
 
 Your complaints about limited gold are falling on deaf ears.
 
-Now, I didn't play much yesterday, but I did hit a handful of mobs.  This afternoon, [b:djg3keua]every[/b:djg3keua] mob in my kill list has roughly 18% less gold.
+Now, I didn't play much yesterday, but I did hit a handful of mobs. This afternoon, <strong>every</strong> mob in my kill list has roughly 18% less gold.
 
-It's too early to tell if gold is atrophied like xp (unlikely), or if someone just has a trigger to nerf whatever Magi is cycling :)
+It's too early to tell if gold is atrophied like xp (unlikely), or if someone just has a trigger to nerf whatever Magi is cycling <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-The admin will tell you that they don't remove gold, they just 'move it around'... to mobs that are never hit, and won't ever be hit because they aren't worth hitting (just a guess).  In my mind, gold that no one will ever get is the same thing as no gold.
+The admin will tell you that they don't remove gold, they just 'move it around'... to mobs that are never hit, and won't ever be hit because they aren't worth hitting (just a guess). In my mind, gold that no one will ever get is the same thing as no gold.
 
-If the struggle to get enough gold to level is your idea of fun, then Slothmud IV is definately the place to be.  Apparently it's a major selling point of the new version.
+If the struggle to get enough gold to level is your idea of fun, then Slothmud IV is definately the place to be. Apparently it's a major selling point of the new version.
 
 </div>
 
@@ -190,11 +190,11 @@ Get a clue people. If kobolds is busy, go kill goblins. And if you have a proble
 
 <div class="post" data-post-id="29023" data-author="jezer" data-date="2009-04-22T22:56:08+00:00" data-subject="">
 
-[img:7frlsso5]http://farm1.static.flickr.com/148/388345925_503cb1c158_o.jpg[/img:7frlsso5]
+![](http://farm1.static.flickr.com/148/388345925_503cb1c158_o.jpg)
 
-He's killing [b:7frlsso5]MY[/b:7frlsso5] kobolds!
+He's killing <strong>MY</strong> kobolds!
 
-I just wish I could hit the little tackers  :twisted:
+I just wish I could hit the little tackers <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -202,11 +202,11 @@ I just wish I could hit the little tackers  :twisted:
 
 Quot: Looking at your stats Magi, you are not struggling to gather gold to level.
 
-Grin... my stats are quite misleading :)  During the first week I spent about  4 million coins on potions and scrolls, trying to level solo faster than godmode could sponge.  Potion quaffing is a great way to get xp, but when you spend every coin you get on them, it makes your stats look rather misleading. I once levelled Ditheca at 500 million xp an hour (solo), but got zero gold doing so.
+Grin... my stats are quite misleading <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> During the first week I spent about 4 million coins on potions and scrolls, trying to level solo faster than godmode could sponge. Potion quaffing is a great way to get xp, but when you spend every coin you get on them, it makes your stats look rather misleading. I once levelled Ditheca at 500 million xp an hour (solo), but got zero gold doing so.
 
-To tell the truth, I'm not suprised the ice troll or chubby eskimo were nerfed, in fact I mentioned it the first time we killed them around level 25.  I was a quite surprised that dolphins were knocked down from 3500 to 2914 gold... unless that was a blanket depreciation for all level 40+ mobs, looking at a mob that only one person fights seems like a heavy burden of micromanaging.  (hint: if you raise their poprate, i'll stop cycling them! 70 corpsed and still no boots!)
+To tell the truth, I'm not suprised the ice troll or chubby eskimo were nerfed, in fact I mentioned it the first time we killed them around level 25. I was a quite surprised that dolphins were knocked down from 3500 to 2914 gold... unless that was a blanket depreciation for all level 40+ mobs, looking at a mob that only one person fights seems like a heavy burden of micromanaging. (hint: if you raise their poprate, i'll stop cycling them! 70 corpsed and still no boots!)
 
-I should also say that getting to know Splork through his alts has been quite fun.  I have a large respect for him now that I could never have learned when he was just the 'evil nerfing overlord' of Sloth III :)
+I should also say that getting to know Splork through his alts has been quite fun. I have a large respect for him now that I could never have learned when he was just the 'evil nerfing overlord' of Sloth III <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 My posts on this thread aren't arguments, just observations.
 
@@ -276,7 +276,7 @@ And again, let's not lie. A nosy immort should know all the facts before posting
 
 The situation has been resolved and I really dont see it being an issue anymore.
 
-Its very important that we all try to get along, especially with all the changes and the restart.  This includes me, yesterday was the first day in a very long time that the old splork returned and I got frustrated. 
+Its very important that we all try to get along, especially with all the changes and the restart. This includes me, yesterday was the first day in a very long time that the old splork returned and I got frustrated. 
 
 Enjoy,
 
@@ -286,19 +286,20 @@ Splork
 
 <div class="post" data-post-id="29033" data-author="Weasel" data-date="2009-04-23T18:13:45+00:00" data-subject="">
 
-yesterday was the first day in a very long time that the old splork returned and I got frustrated. [/quote:35u7d41l]
+> <strong>\*Splork\* wrote:</strong>
+> yesterday was the first day in a very long time that the old splork returned and I got frustrated.
 
-*pokes Splork with a pointy stick*
+\*pokes Splork with a pointy stick\*
 
 How about now?
 
-*poke*
+\*poke\*
 
 and now?
 
-*poke*
+\*poke\*
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 BTW, I briefly installed and had a play with phpBB 3.0, and it's really awesome, particularly the admin controls. Apparently with a little work Sloth's current PNphpBB2 board can be imported by changing a few DB table names and a few tweaks.. just thought I'd suggest it being worth a look for use in a revamped future website. Also maybe CM software might be worth a look, even Wordpress might work well for the website. MovableType is really good.. a little bloated, but lots of features. Not sure how to handle the eq list in a practical way though.. MovableType has customefields, that might work.. just thinking out loud here while procrastinating.. I have an exam on Monday. bah.
 
@@ -306,17 +307,17 @@ BTW, I briefly installed and had a play with phpBB 3.0, and it's really awesome,
 
 <div class="post" data-post-id="29034" data-author="Medios" data-date="2009-04-23T20:42:22+00:00" data-subject="">
 
-I hope nobody gets mad about "farming" the fortune hunter on vk.  He never loads and I don't see how anyone will finish the aq with such a long list of people waiting for Acme to get done camping.  After 30 kills I would say he is quite tired of it.  I thought vk was a place to learn, not to cycle one mob for weeks.
+I hope nobody gets mad about "farming" the fortune hunter on vk. He never loads and I don't see how anyone will finish the aq with such a long list of people waiting for Acme to get done camping. After 30 kills I would say he is quite tired of it. I thought vk was a place to learn, not to cycle one mob for weeks.
 
-I don't know if it is just me but it seems like hardcore players get nerfed and players who only know one area get sheltered and helped.  It is understandable that we need new players but I don't understand why the hardcore players seem to be getting hit in the ass at every turn.  From eq to coin nerfs it just seems like there is a thumb on our heads.
+I don't know if it is just me but it seems like hardcore players get nerfed and players who only know one area get sheltered and helped. It is understandable that we need new players but I don't understand why the hardcore players seem to be getting hit in the ass at every turn. From eq to coin nerfs it just seems like there is a thumb on our heads.
 
 </div>
 
 <div class="post" data-post-id="29038" data-author="jezer" data-date="2009-04-23T23:39:08+00:00" data-subject="">
 
-[img:16q6cn0b]http://img21.imageshack.us/img21/7681/koboldk.jpg[/img:16q6cn0b]
+![](http://img21.imageshack.us/img21/7681/koboldk.jpg)
 
-+1 to sharp sticks.  :twisted:
+\+1 to sharp sticks. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -344,15 +345,18 @@ Lone doesn't = John does it? Then I'll feel really stupid...
 
 You'd have thought someone would try to sing out if even loads there nemore. 
 
-I hope nobody gets mad about "farming" the fortune hunter on vk.  He never loads and I don't see how anyone will finish the aq with such a long list of people waiting for Acme to get done camping.  After 30 kills I would say he is quite tired of it.  I thought vk was a place to learn, not to cycle one mob for weeks.
-
-I don't know if it is just me but it seems like hardcore players get nerfed and players who only know one area get sheltered and helped.  It is understandable that we need new players but I don't understand why the hardcore players seem to be getting hit in the ass at every turn.  From eq to coin nerfs it just seems like there is a thumb on our heads.[/quote:mook1pf1]
+> <strong>Medios wrote:</strong>
+> I hope nobody gets mad about "farming" the fortune hunter on vk. He never loads and I don't see how anyone will finish the aq with such a long list of people waiting for Acme to get done camping. After 30 kills I would say he is quite tired of it. I thought vk was a place to learn, not to cycle one mob for weeks.
+> 
+> 
+> 
+> I don't know if it is just me but it seems like hardcore players get nerfed and players who only know one area get sheltered and helped. It is understandable that we need new players but I don't understand why the hardcore players seem to be getting hit in the ass at every turn. From eq to coin nerfs it just seems like there is a thumb on our heads.
 
 </div>
 
 <div class="post" data-post-id="29043" data-author="Medios" data-date="2009-04-24T12:17:50+00:00" data-subject="">
 
-Well since his autoquest says that he has the shovel it would only seem like he still had it.  If the item was moved maybe look at what the fortune hunter says when you talk to him.  It is pretty clear that he has the shovel by his words.  Shrug.
+Well since his autoquest says that he has the shovel it would only seem like he still had it. If the item was moved maybe look at what the fortune hunter says when you talk to him. It is pretty clear that he has the shovel by his words. Shrug.
 
 Anyone talking up wealth and glory hasn't used it.
 
@@ -372,9 +376,9 @@ ask hunter about shovel
 
 You ask the fortune hunter about 'shovel'.
 
-The fortune hunter tells you '[b:5vhs9ph3]Do you see it? Do you see this worthless, useless shovel that[/b:5vhs9ph3]'
+The fortune hunter tells you '<strong>Do you see it? Do you see this worthless, useless shovel that</strong>'
 
-The fortune hunter tells you '[b:5vhs9ph3]I have to use to dig the earth?[/b:5vhs9ph3] I am perfectly sure that if I had a shovel imbued with'
+The fortune hunter tells you '<strong>I have to use to dig the earth?</strong> I am perfectly sure that if I had a shovel imbued with'
 
 The fortune hunter tells you 'magic, I could find my dear treasure. Oh, if only you could convince a talented mage'
 
@@ -430,9 +434,12 @@ Also I thought I'd heard that wealth and glory had changed, but I guess not.
 
 <div class="post" data-post-id="29050" data-author="Medios" data-date="2009-04-24T20:41:27+00:00" data-subject="">
 
-my bad again...I'll change the message.
-
-Also I thought I'd heard that wealth and glory had changed, but I guess not.[/quote:3szkq3wh]
+> <strong>juggleblood wrote:</strong>
+> my bad again...I'll change the message.
+> 
+> 
+> 
+> Also I thought I'd heard that wealth and glory had changed, but I guess not.
 
 I'm not mad, nothing but love.
 
@@ -440,8 +447,9 @@ I'm not mad, nothing but love.
 
 <div class="post" data-post-id="29055" data-author="Autolycos" data-date="2009-04-25T18:08:53+00:00" data-subject="">
 
-I'm not mad, nothing but love.[/quote:34n3hph4]
+> <strong>Medios wrote:</strong>
+> I'm not mad, nothing but love.
 
-Why do I feel that this is more unsettling then if he was mad?  :shock:
+Why do I feel that this is more unsettling then if he was mad? <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>

@@ -108,7 +108,7 @@ You wish that your wounds would stop BLEEDING that much!
 
 You have been KILLED!!
 
-Lie still; you are DEAD!!! :-(
+Lie still; you are DEAD!!! <img src="/images/smilies/icon_e_sad.svg" alt=":-(" title=":-(" width="15" height="15" class="smiley nozoom">
 
 Cackle
 
@@ -116,23 +116,23 @@ Cackle
 
 <div class="post" data-post-id="28571" data-author="Virus" data-date="2009-03-20T15:05:12+00:00" data-subject="">
 
-<1000hp 412ma 355mv>
+\<1000hp 412ma 355mv\>
 
 Widow tells you 'I'll rina, you raise?'
 
-<1000hp 416ma 359mv>
+\<1000hp 416ma 359mv\>
 
 tell widow ok
 
 You tell Widow 'ok'
 
-<1000hp 419ma 362mv>
+\<1000hp 419ma 362mv\>
 
 Widow begins to sing 'rina cruinne'.
 
 Widow's song helps you to concentrate on your prayers for the dead.
 
-<1000hp 421ma 363mv>
+\<1000hp 421ma 363mv\>
 
 raise yinao
 
@@ -144,10 +144,10 @@ You raise Yinao from the dead!
 
 Yinao reports 1/843 hp. Change: -430. Need: 842. Spells: aegis, greater fluidity.
 
-<1000hp 357ma 365mv>[AC:-3.7 AL:-3][+16D +15H][+60hpr +46mr][EXP:2,197,096,357]
+\<1000hp 357ma 365mv\>[AC:-3.7 AL:-3\][+16D +15H\][+60hpr +46mr\][EXP:2,197,096,357]
 
-Yinao -- '*Valkyrie* I'm up, thanks!'
+Yinao -- '\*Valkyrie\* I'm up, thanks!'
 
- :D
+ <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>

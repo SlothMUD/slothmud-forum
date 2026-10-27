@@ -30,7 +30,7 @@ I'll be on and off during the weekend I'll try to catch you or catch me in Virus
 
 <div class="post" data-post-id="28660" data-author="jezer" data-date="2009-04-03T09:05:16+00:00" data-subject="">
 
-This week's hot tip : Suriv is Virus spelt backwards. :shock:
+This week's hot tip : Suriv is Virus spelt backwards. <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 Next week... How to splork kobolds with a holy dagger.
 
@@ -38,6 +38,6 @@ Next week... How to splork kobolds with a holy dagger.
 
 <div class="post" data-post-id="28662" data-author="Virus" data-date="2009-04-03T13:33:01+00:00" data-subject="">
 
-damn, you are smart Jezer, how did you figure it out?  :lol:
+damn, you are smart Jezer, how did you figure it out? <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>

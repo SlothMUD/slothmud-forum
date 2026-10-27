@@ -34,7 +34,7 @@ You get a gold coin from the corpse of Avatar Gnoph-Keh that's on the ground.
 
 There was one whole coin.
 
-You split 1 coins.  You keep 1 coins.
+You split 1 coins. You keep 1 coins.
 
 You get tractate of icy blades from the corpse of Avatar Gnoph-Keh that's on the ground.
 

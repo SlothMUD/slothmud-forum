@@ -12,7 +12,7 @@ post_count: 10
 
 <div class="post" data-post-id="24528" data-author="Shoop" data-date="2008-05-27T03:57:32+00:00" data-subject="Standard xp loss">
 
-Did someone tinker with the xp loss from corpsing? I ended up corpsing twice tonight with another player. He said he lost standard xp (whatever that is) and I lost oooh, ~880mil xp. My first corpse was from 1.731bil to 1.211bil. 520 million xp! I'd rather have that tert level loss, thanks. My second corpse went from 1.225bil to 857mil. That's another 368mil. So total from TWO corpses was 888mil xp. Can someone, who is not Tap or some other smart@sshole, tell me wtf is going on?
+Did someone tinker with the xp loss from corpsing? I ended up corpsing twice tonight with another player. He said he lost standard xp (whatever that is) and I lost oooh, \~880mil xp. My first corpse was from 1.731bil to 1.211bil. 520 million xp! I'd rather have that tert level loss, thanks. My second corpse went from 1.225bil to 857mil. That's another 368mil. So total from TWO corpses was 888mil xp. Can someone, who is not Tap or some other smart@sshole, tell me wtf is going on?
 
 Jayde
 
@@ -30,7 +30,7 @@ Good Luck!
 
 <div class="post" data-post-id="24532" data-author="PolkAdotS" data-date="2008-05-27T04:07:10+00:00" data-subject="">
 
-I'll give you a hint.  Nah, never mind truth is I really dunno either.  I don't play anymore. Leaves me pretty much nothing but time to spare and continue checking this website... good fun.  Hold on a sec Jayde....  Hmmmm wtf is going on?  Shooper shoop....  Although, I now know that one of the toughest Mobiles in the game is the 5 shoops in tel makor.  I made the mistake of firestorming them in regen w/o sanc.  I forgot to Mem then too.. no fun.
+I'll give you a hint. Nah, never mind truth is I really dunno either. I don't play anymore. Leaves me pretty much nothing but time to spare and continue checking this website... good fun. Hold on a sec Jayde.... Hmmmm wtf is going on? Shooper shoop.... Although, I now know that one of the toughest Mobiles in the game is the 5 shoops in tel makor. I made the mistake of firestorming them in regen w/o sanc. I forgot to Mem then too.. no fun.
 
 </div>
 
@@ -50,13 +50,13 @@ Bah! Nevermind. I won't be around much longer to whine effectively anyway.
 
 <div class="post" data-post-id="24663" data-author="PolkAdotS" data-date="2008-06-02T05:31:09+00:00" data-subject="">
 
-Hey Shooper, I think you're alright.  The immorts are all busy walking chickens and stuff.  Yeah, they made chicken collars and gave them to all the immorts.  They started with chicklets, now they're onto roosters and egg-layers.  They're just really very not much happy a lot about being called lazy, like chickens after eating, two, or three times.  Stay off my fencepost, summmauvabitch.  Said one chicken to the rooster, then the rooster was eaten, mistaken for the rest of a ham-sandwich by Nia.  It only bit-off the head of the rooster, making the chickens all quite mislead, into the wood chipper with an accidental fence post mishap. You know what was left after that?  A bloody chicken-stump.  Feathered Stump of Chicken, bones and beaks and all... kinda like wooden balongey.  You dumbasses should re-imb her XP if nothing else... you already ate all my EQ>.
+Hey Shooper, I think you're alright. The immorts are all busy walking chickens and stuff. Yeah, they made chicken collars and gave them to all the immorts. They started with chicklets, now they're onto roosters and egg-layers. They're just really very not much happy a lot about being called lazy, like chickens after eating, two, or three times. Stay off my fencepost, summmauvabitch. Said one chicken to the rooster, then the rooster was eaten, mistaken for the rest of a ham-sandwich by Nia. It only bit-off the head of the rooster, making the chickens all quite mislead, into the wood chipper with an accidental fence post mishap. You know what was left after that? A bloody chicken-stump. Feathered Stump of Chicken, bones and beaks and all... kinda like wooden balongey. You dumbasses should re-imb her XP if nothing else... you already ate all my EQ\>.
 
 </div>
 
 <div class="post" data-post-id="24665" data-author="PolkAdotS" data-date="2008-06-02T06:00:05+00:00" data-subject="">
 
-Sowwy... :arrow:  :lol:
+Sowwy... <img src="/images/smilies/icon_arrow.svg" alt=":arrow:" title=":arrow:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -68,7 +68,7 @@ Polk, you are not helping.
 
 <div class="post" data-post-id="24668" data-author="PolkAdotS" data-date="2008-06-02T06:10:16+00:00" data-subject="">
 
-That I've already apologized.  I am using this thread to test if I'm getting a signature on further posts.  I just made one, on my Profile. :cry:   ...It didn't work.... Oops, I can attach it myself... neat.
+That I've already apologized. I am using this thread to test if I'm getting a signature on further posts. I just made one, on my Profile. <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> ...It didn't work.... Oops, I can attach it myself... neat.
 
 </div>
 

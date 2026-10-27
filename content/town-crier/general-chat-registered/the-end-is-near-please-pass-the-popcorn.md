@@ -12,7 +12,7 @@ post_count: 8
 
 <div class="post" data-post-id="25275" data-author="Tap" data-date="2008-07-06T12:15:33+00:00" data-subject="The end is near...please pass the popcorn">
 
-Can You Hear Country in Snoop Doggâ€™s New Song?[/size:3bvudwg9]
+Can You Hear Country in Snoop Doggâ€™s New Song?
 
 When the rapper Snoop Dogg came backstage at the CMT Music Awards on Monday night, one of my colleagues turned to me and asked, â€œWhat in the world is he doing here?â€ Hereâ€™s the answer - in the words of Snoop Dogg himself:
 
@@ -24,7 +24,7 @@ By the way, what is it about Johnny Cash that appeals to the rapper so much?
 
 Hear it for yourself--
 
-[url:3bvudwg9]http://www.youtube.com/watch?v=flkqQ1H87nc[/url:3bvudwg9]
+http://www.youtube.com/watch?v=flkqQ1H87nc
 
 </div>
 
@@ -42,13 +42,13 @@ Kid rock was doing it for years thought wasnt he. But i guess he's not black.
 
 <div class="post" data-post-id="25279" data-author="Weasel" data-date="2008-07-06T17:14:00+00:00" data-subject="">
 
-JC homeboy??? ROFLMAO..  guess you had a few too many buds there Snoopy.
+JC homeboy??? ROFLMAO.. guess you had a few too many buds there Snoopy.
 
 </div>
 
 <div class="post" data-post-id="25282" data-author="PolkAdotS" data-date="2008-07-06T21:35:49+00:00" data-subject="">
 
-Tap was there, I have proof....  Tap, I want you to set your country music award on fire.  And hit yourself, hard!
+Tap was there, I have proof.... Tap, I want you to set your country music award on fire. And hit yourself, hard!
 
 </div>
 
@@ -56,13 +56,13 @@ Tap was there, I have proof....  Tap, I want you to set your country music award
 
 lame
 
-ps-still waiting for you to make a new character. I truly think we can be 5x40 by Halloween. :twisted:
+ps-still waiting for you to make a new character. I truly think we can be 5x40 by Halloween. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="25300" data-author="PolkAdotS" data-date="2008-07-08T07:39:20+00:00" data-subject="">
 
-Tap, what's this "we" shit all about?  Uhhh when did I ever choose to admit I've ever even spoken to you? ...here's a clue, I didn't, ever.
+Tap, what's this "we" shit all about? Uhhh when did I ever choose to admit I've ever even spoken to you? ...here's a clue, I didn't, ever.
 
 </div>
 

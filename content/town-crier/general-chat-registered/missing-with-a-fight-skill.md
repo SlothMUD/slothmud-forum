@@ -20,19 +20,19 @@ You slash an ivory seagull very hard.
 
 An ivory seagull is incapacitated and will slowly die, if not aided.
 
-<173hp 141ma 83mv>
+\<173hp 141ma 83mv\>
 
 Your beautiful full-circle-kick misses an ivory seagull by a mile.
 
 An ivory seagull is incapacitated and will slowly die, if not aided.
 
-<173hp 141ma 84mv>
+\<173hp 141ma 84mv\>
 
 You massacre an ivory seagull to small fragments with your slash.
 
 An ivory seagull is dead! R.I.P.
 
-The question I have is, how do I manage to miss a kick at a bird lying incapacitated on the ground?  I would think the chances of success on a stunned/incapacitated/whatever mob would be about as close to 100% as you can get.  I've noticed this quite often and it seems the success of a skill is not affected in any way by the status of the mob.
+The question I have is, how do I manage to miss a kick at a bird lying incapacitated on the ground? I would think the chances of success on a stunned/incapacitated/whatever mob would be about as close to 100% as you can get. I've noticed this quite often and it seems the success of a skill is not affected in any way by the status of the mob.
 
 </div>
 

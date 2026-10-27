@@ -12,13 +12,13 @@ post_count: 5
 
 <div class="post" data-post-id="16921" data-author="Toxis" data-date="2007-02-15T20:50:51+00:00" data-subject="Ju-Ju&#x27;s">
 
-<worn about waist>   a leather belt strung with 21 skulls.
+\<worn about waist\> a leather belt strung with 21 skulls.
 
-Is there anyway to get this number saved everytime juju is dismissed, killed, or if you rent?  I think it's cool to see how many skulls my juju has and it's sad to think that when I rent, it's gonna go away.
+Is there anyway to get this number saved everytime juju is dismissed, killed, or if you rent? I think it's cool to see how many skulls my juju has and it's sad to think that when I rent, it's gonna go away.
 
-Also, am I right that the skulls mean nothing?  It would rock if we could get them to do something, like 100 skulls and juju gets a +1 to hit or +10 hit points, whatever.  Just throwing ideas out for the cool belt.
+Also, am I right that the skulls mean nothing? It would rock if we could get them to do something, like 100 skulls and juju gets a +1 to hit or +10 hit points, whatever. Just throwing ideas out for the cool belt.
 
--Brad
+\-Brad
 
 </div>
 
@@ -26,7 +26,7 @@ Also, am I right that the skulls mean nothing?  It would rock if we could get th
 
 I like how they go away my record for skulls is 367. Sure I feed me juju alot and I was on for like 20 hours + but its nice to how much you can get before you rent. 
 
-But it would be cool if it could add up totals like with a notch for every 100 kills like a ju-ju wear a belt with xx notches and xx skulls :)
+But it would be cool if it could add up totals like with a notch for every 100 kills like a ju-ju wear a belt with xx notches and xx skulls <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 SLO BE I nothing comes fast
 
@@ -34,19 +34,19 @@ SLO BE I nothing comes fast
 
 <div class="post" data-post-id="16937" data-author="firebrand" data-date="2007-02-16T00:42:11+00:00" data-subject="">
 
-grin let it build up bonuses similar to the way our warcry does?  that would rock
+grin let it build up bonuses similar to the way our warcry does? that would rock
 
-"i got nothin" -- joey -->friends
+"i got nothin" -- joey --\>friends
 
 </div>
 
 <div class="post" data-post-id="16938" data-author="Leaf" data-date="2007-02-16T01:07:56+00:00" data-subject="">
 
-I think that could be bad, get the JuJu hurt by a bigger mob.  Then go to 
+I think that could be bad, get the JuJu hurt by a bigger mob. Then go to 
 
-smaller areas like Kobolds, Pengiuns, Gnolls etc...  Kill them all and let
+smaller areas like Kobolds, Pengiuns, Gnolls etc... Kill them all and let
 
-JuJu feast.  It would give it a CRAZY number of skulls.
+JuJu feast. It would give it a CRAZY number of skulls.
 
 Brad is there a class that you have NOT created yet??
 

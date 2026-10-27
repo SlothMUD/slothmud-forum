@@ -14,9 +14,9 @@ post_count: 1
 
 I have commited code that will allow autoquesters to teach players skills and spells. 
 
-Hopefully this change, when combined with one that is well on its way to being commited, will reduce the negative aspects of our spellbook system a tad. Sometimes we do actually listen  :twisted: 
+Hopefully this change, when combined with one that is well on its way to being commited, will reduce the negative aspects of our spellbook system a tad. Sometimes we do actually listen <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-Also, the old heightened spell affects for vision were added back because of constant ribbing from Dragonsworn clan. Although, just to be  a thorn in their side, it is not 100%...
+Also, the old heightened spell affects for vision were added back because of constant ribbing from Dragonsworn clan. Although, just to be a thorn in their side, it is not 100%...
 
 Enjoy,
 

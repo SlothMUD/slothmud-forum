@@ -12,6 +12,6 @@ post_count: 1
 
 <div class="post" data-post-id="33234" data-author="cyprimus" data-date="2012-03-18T23:51:59+00:00" data-subject="Avatar Shop">
 
-Would be nice if we could add resist poison, resist disease, Undead visage, and the various saves for sale at the avvie shop.  Would like to see other options too, but those seem the most likely to balance easily.
+Would be nice if we could add resist poison, resist disease, Undead visage, and the various saves for sale at the avvie shop. Would like to see other options too, but those seem the most likely to balance easily.
 
 </div>

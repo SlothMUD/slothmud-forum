@@ -34,26 +34,26 @@ As for consider: it works pretty unclear on low levels. Say, quest succubus in J
 
 We argued with my friend several monthes ago about mage vs cleric (particulary about soloing book mobs). Cleric is much harder: all useful mage books are available at actual level. As for necro, he's like cleric or mebbe harder in books poping. Say, wall of flesh is the most useful spell for high Valker or so, but there is no possibility to pop it. BUT these books are quiet often at island docks or natives village.
 
-It's private cases of your topic. But you're right in your conclusion: Sloth 4 is NOT a newbie friendly MUD. The most problem I see: **the playerbase is simmilary small but it is still group oriented**. Some times you want to make group and see 4-5 players in who list. For example I'll want to make Kladenetz sword at 6*40. But I understand that I need 12 whole evenings *(8cps * 1,5 to cover empty days)* at Lyme *(rare place for groups ATM)* EQ *(doubly rare)* groups *(yeah, groups, 5-6 players or so)*. In fact I may estimate this project in 2-3 monthes of everyday game. For one item... It's also a private example but I think I said what I wanted.
+It's private cases of your topic. But you're right in your conclusion: Sloth 4 is NOT a newbie friendly MUD. The most problem I see: <strong>the playerbase is simmilary small but it is still group oriented</strong>. Some times you want to make group and see 4-5 players in who list. For example I'll want to make Kladenetz sword at 6\*40. But I understand that I need 12 whole evenings <em>(8cps \* 1,5 to cover empty days)</em> at Lyme <em>(rare place for groups ATM)</em> EQ <em>(doubly rare)</em> groups <em>(yeah, groups, 5-6 players or so)</em>. In fact I may estimate this project in 2-3 monthes of everyday game. For one item... It's also a private example but I think I said what I wanted.
 
 And most of changes are made ingame are also group oriented. Why they don't understand: MUD format is totally unpopular and will NOT be popular. Never. It's an entertainment for those who played in 90th or early 00th (like me and 99% of other actual Sloth players). We don't have that much spare time like we had 15 years ago, when we were students / schollars / whatever. I like Sloth. Sometimes I feel myself really happy when I play this game. But alas, I don't have possibility to play several hours every day. So I encountered with the fact of lack of progress. This problem gives me less motivation to play, my progress stops, I enter rarely just for events etc. Sad.
 
 Hmm, I began to write about necro spellbooks and stoped with "global" problems. Heh, let it be.
 
-~Ertai~
+\~Ertai\~
 
 </div>
 
 <div class="post" data-post-id="36713" data-author="Madigan" data-date="2016-03-08T16:08:19+00:00" data-subject="Re: Necro newb friendly?">
 
-> **Ertai wrote:**
+> <strong>Ertai wrote:</strong>
 > Hello.
 > 
->  I don't really remember if i killed them, but I think that you should try. Other mobs-popers of cause aren't soloable for newbie necro. But this book is REALLY often. Newbie necro shouldn't be lazy: check libraries and get this silly book in day or two.
+> I don't really remember if i killed them, but I think that you should try. Other mobs-popers of cause aren't soloable for newbie necro. But this book is REALLY often. Newbie necro shouldn't be lazy: check libraries and get this silly book in day or two.
 
 Surely you don't think I didn't attempt to kill the guy before making this post? I even found a rare 20/20 still on valk and asked him to rock the adept and it was no cakewalk for him. PS - "I shouldn't be lazy"... this is the point I make.Most avatars don't see this as a problem... and assume one is LAZY for not cycling their own books. The point I am making is that a newbie w/o avatar alts CANNOT solo this book.
 
-> **Ertai wrote:**
+> <strong>Ertai wrote:</strong>
 > It's private cases of your topic. But you're right in your conclusion: Sloth 4 is NOT a newbie friendly MUD.
 
  I understand the current meta is probably more based on the population of SLoth 10 years ago... meta's in games change weekly or monthly on MMOs - I just think we should have some serious thoughts to how we refocus on the lack of population and grouping actually affects players trying to advance in 2016 as well as how newbie friendly we actually are. The new newbie college is a good step.. but even the college is not as intuitive as I'd expect it to be. I spent alot of time there, but I've brought 2 new mudders to sloth in the past few months and I couldn't get them to stay and enjoy the college long enough to get anything much out of it.
@@ -62,17 +62,17 @@ Surely you don't think I didn't attempt to kill the guy before making this post?
 
 <div class="post" data-post-id="36714" data-author="Firebrand420" data-date="2016-03-08T16:20:30+00:00" data-subject="Re: Necro newb friendly?">
 
-There's no point to exploring a new class if you can't reasonably hope to learn your prime skills/spells at or near the level the game says you can use them.  If I were brand new to Sloth and found that my prime skill/spellbooks were unavailable to me due to being unable to get help to get the books, I would lose interest in playing here.  I have been here 20 years and know where all the resources are to find something: website, friends, gossip channel, google...but new folks aren't used to the way we play and DEFINITELY don't know our website, how the eqlist works, where the books and eq load, none of that stuff we take for granted.   For those players coming from other muds that are still your basic Wa/Ma/Th/Cl options, it discourages them from exploring the Ba/Mo/Ne/Dr classes if they're expected to "play your bard like a cleric until <x> level and you get your <y> skill/spell. then your character is going to be a lot of fun".  Why can't it be fun NOW?
+There's no point to exploring a new class if you can't reasonably hope to learn your prime skills/spells at or near the level the game says you can use them. If I were brand new to Sloth and found that my prime skill/spellbooks were unavailable to me due to being unable to get help to get the books, I would lose interest in playing here. I have been here 20 years and know where all the resources are to find something: website, friends, gossip channel, google...but new folks aren't used to the way we play and DEFINITELY don't know our website, how the eqlist works, where the books and eq load, none of that stuff we take for granted. For those players coming from other muds that are still your basic Wa/Ma/Th/Cl options, it discourages them from exploring the Ba/Mo/Ne/Dr classes if they're expected to "play your bard like a cleric until \<x\> level and you get your \<y\> skill/spell. then your character is going to be a lot of fun". Why can't it be fun NOW?
 
 </div>
 
 <div class="post" data-post-id="36715" data-author="*teker*" data-date="2016-03-08T21:28:39+00:00" data-subject="Re: Necro newb friendly?">
 
-I'm not sure which mobs you were looking at for this book but I saw a lvl 20 kill the adept in VK quite easily today and the book should pop there.  I found it much harder to get a couple of other (less-vital) low level spellbooks - mass invis and archery.
+I'm not sure which mobs you were looking at for this book but I saw a lvl 20 kill the adept in VK quite easily today and the book should pop there. I found it much harder to get a couple of other (less-vital) low level spellbooks - mass invis and archery.
 
-Can a low level necro make that kill without summon undead?  I don't know - it probably depends on what other classes you've got.  I started writing a guide for cleric in the wiki to give new players an idea as to how to play.   I completely missed the power of supplication when I first started and had I been told earlier how it worked, I would have leveled much faster.  The game would probably benefit from other class guides that include things like how to get important spellbooks relevant to each class.  Who knows if new players would actually read it but it would atleast be something to refer them to.
+Can a low level necro make that kill without summon undead? I don't know - it probably depends on what other classes you've got. I started writing a guide for cleric in the wiki to give new players an idea as to how to play. I completely missed the power of supplication when I first started and had I been told earlier how it worked, I would have leveled much faster. The game would probably benefit from other class guides that include things like how to get important spellbooks relevant to each class. Who knows if new players would actually read it but it would atleast be something to refer them to.
 
-I'd be interested to know what changes people think need to be made to make the game more newbie friendly.  Or single-player friendly for that matter.
+I'd be interested to know what changes people think need to be made to make the game more newbie friendly. Or single-player friendly for that matter.
 
 </div>
 
@@ -84,11 +84,11 @@ While I guess a 10lev ne should do the quest in the attic to get animate dead, i
 
 So, if you want to make this newbie friendly, how about:
 
-- put a hint for the the animate dead quest in the Newbatia town (a 2 step quest, if you want)
+\- put a hint for the the animate dead quest in the Newbatia town (a 2 step quest, if you want)
 
-- make the adept killable with by a 10ne with a claw (the weakest animate)
+\- make the adept killable with by a 10ne with a claw (the weakest animate)
 
-- increase the poprate on adept: it sucks. and for a newbie sb that necros need, it sucks to cycle a mob.
+\- increase the poprate on adept: it sucks. and for a newbie sb that necros need, it sucks to cycle a mob.
 
 Also, do realize that in the first place, the new player has to realize that it is adept that pops the sb. I'm not entirely sure all 10nes go to kill the adept immediately. Maybe do smth about it.
 
@@ -96,7 +96,7 @@ Also, do realize that in the first place, the new player has to realize that it 
 
 <div class="post" data-post-id="36717" data-author="Madigan" data-date="2016-03-09T09:55:57+00:00" data-subject="Re: Necro newb friendly?">
 
-> **Teron wrote:**
+> <strong>Teron wrote:</strong>
 > Also, do realize that in the first place, the new player has to realize that it is adept that pops the sb. I'm not entirely sure all 10nes go to kill the adept immediately. Maybe do smth about it.
 
 Great point. I'll be honest, I thought the adept was a guild npc... it took me quite a while to realize this was actually the adept the eq page was telling me popped that book. The 'You are MAD' con that did not help in my making that connection either I guess.
@@ -105,15 +105,13 @@ Great point. I'll be honest, I thought the adept was a guild npc... it took me q
 
 <div class="post" data-post-id="36718" data-author="Madigan" data-date="2016-03-09T10:12:12+00:00" data-subject="Re: Necro newb friendly?">
 
-> ***teker* wrote:**
+> <strong>\*teker\* wrote:</strong>
 > I'm not sure which mobs you were looking at for this book but I saw a lvl 20 kill the adept in VK quite easily today and the book should pop there.
-
- 
 
 as a 40/40/36 I unsuccessfully tried cycling a young necromancer - Tower of Nexialism [SS], a revenant lesser noble - Temple of Luna [BH] and an undead guard - Ravenloft in Barovia [SS].
 
-> ***teker* wrote:**
-> I'd be interested to know what changes people think need to be made to make the game more newbie friendly.  Or single-player friendly for that matter.
+> <strong>\*teker\* wrote:</strong>
+> I'd be interested to know what changes people think need to be made to make the game more newbie friendly. Or single-player friendly for that matter.
 
 I think successful MMOs and RPGs do this best by basically making prime level progression a bit more "on the rails" teaching the use of the classes core abilities. It seems like a bit of an afterthought in it's current rendition but I attribute that to basically scaling of classes for end game balence/roles/abilities and just sort of backwards retrofitting them down to lower levels as opposed to really looking at how they might progress from lvl 1 to 9x40.
 
@@ -131,10 +129,10 @@ PS - I would be interested in working to implement a change like this if it were
 
 <div class="post" data-post-id="36720" data-author="*teker*" data-date="2016-03-09T21:10:49+00:00" data-subject="Re: Necro newb friendly?">
 
-> **Quote:**
+> <strong>Quote:</strong>
 > Thinking out loud there... but possibly you get your core abilities by completed the quests rather than hunting spellbooks?
 
-I like the idea.  I could see it two ways - either the guildmasters give quests where the books will be found or they give the books as a reward.  We've started internal discussions as to how to improve the quest system in general so I think we'll be able to improve that area of the game as a whole.  I should start another thread for that topic.  Maybe the guildmasters could be improved to answer class related player questions or suggest areas for exploration based on missing skills and/or levels.
+I like the idea. I could see it two ways - either the guildmasters give quests where the books will be found or they give the books as a reward. We've started internal discussions as to how to improve the quest system in general so I think we'll be able to improve that area of the game as a whole. I should start another thread for that topic. Maybe the guildmasters could be improved to answer class related player questions or suggest areas for exploration based on missing skills and/or levels.
 
 </div>
 

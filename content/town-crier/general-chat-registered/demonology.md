@@ -28,7 +28,7 @@ Here might be some of spirits or demons or elementals? :
 
  one that can affect room like casting inferno(or is that one cast on mob?) or fog and such
 
- one that can search for caches? telepathy spell is really useless :(
+ one that can search for caches? telepathy spell is really useless <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 and so on...
 
@@ -100,9 +100,9 @@ left demons for cluriks..
 
 hm.. what else?
 
-ah, and yes, give us 5x40 proc on mace :)
+ah, and yes, give us 5x40 proc on mace <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-and no need that bread :)
+and no need that bread <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -114,19 +114,21 @@ on a simper note: mages should at the very least be able to dispel a particular 
 
 <div class="post" data-post-id="27860" data-author="Weasel" data-date="2009-01-24T17:13:55+00:00" data-subject="">
 
-on a simper note: mages should at the very least be able to dispel a particular spell. U'd think the advanced mysteries of magic would make a mage more knowledgable about auras than thieves who can pull a specific spell off someone else and put it on themselves.[/quote:2e6q2klz]
+> <strong>marge wrote:</strong>
+> on a simper note: mages should at the very least be able to dispel a particular spell. U'd think the advanced mysteries of magic would make a mage more knowledgable about auras than thieves who can pull a specific spell off someone else and put it on themselves.
 
-Yeah, I know it's been said before, but I don't see why there isn't an avatar level mage spell like 'greater dispel magic' where a mage can target a specific spell and remove it..  [i:2e6q2klz]cast 'greater dispel' weasel web [/i:2e6q2klz]...is it a problem to code?
+Yeah, I know it's been said before, but I don't see why there isn't an avatar level mage spell like 'greater dispel magic' where a mage can target a specific spell and remove it.. <em>cast 'greater dispel' weasel web</em> ...is it a problem to code?
 
 </div>
 
 <div class="post" data-post-id="27861" data-author="firebrand" data-date="2009-01-24T18:57:25+00:00" data-subject="">
 
-on a simper note: mages should at the very least be able to dispel a particular spell. U'd think the advanced mysteries of magic would make a mage more knowledgable about auras than thieves who can pull a specific spell off someone else and put it on themselves.[/quote:1jr8bd9t]
+> <strong>marge wrote:</strong>
+> on a simper note: mages should at the very least be able to dispel a particular spell. U'd think the advanced mysteries of magic would make a mage more knowledgable about auras than thieves who can pull a specific spell off someone else and put it on themselves.
 
-i have asked for this for years.  i hope like hell that because someone else besides me is asking for it that it is brought ingame.  
+i have asked for this for years. i hope like hell that because someone else besides me is asking for it that it is brought ingame. 
 
-"i'm here in case you succeed."  col. jack o'neil --> stargate
+"i'm here in case you succeed." col. jack o'neil --\> stargate
 
 </div>
 
@@ -162,31 +164,40 @@ Vixn
 
 <div class="post" data-post-id="27866" data-author="firebrand" data-date="2009-01-25T15:32:30+00:00" data-subject="">
 
-That's because we don't know what spells are up on the mob.
+> <strong>Yasik2 wrote:</strong>
+> That's because we don't know what spells are up on the mob.
+> 
+> And can't know untile masterful dispel.
+> 
+> As for dispelling webs - there's an Reign of the Spider.
 
-And can't know untile masterful dispel.
+think it through, dumbass. the reason we want it is for PERSONAL use or to help another char by dispelling his stone skin and giving him iron skin or dispel sanc so can aegis, etc. or as was noted to dispel fly because of no-fly rooms. and as for not knowing what's up on the mob, you're right, the generic dispel is fine...as is purloin aura. it would only occur to idiots like you to dispel only ONE buff from a mob. 
 
-As for dispelling webs - there's an Reign of the Spider.[/quote:3aq7scul]
-
-think it through, dumbass.  the reason we want it is for PERSONAL use or to help another char by dispelling his stone skin and giving him iron skin or  dispel sanc so can aegis, etc.  or as was noted to dispel fly because of no-fly rooms.  and as for not knowing what's up on the mob, you're right, the generic dispel is fine...as is purloin aura.  it would only occur to idiots like you to dispel only ONE buff from a mob.  
-
-"we're not hit! we're not hit! stop side-seat driving!"  -capt steven hiller -->independence day
+"we're not hit! we're not hit! stop side-seat driving!" -capt steven hiller --\>independence day
 
 </div>
 
 <div class="post" data-post-id="27867" data-author="Yasik2" data-date="2009-01-25T19:34:06+00:00" data-subject="">
 
-That's because we don't know what spells are up on the mob.
+> <strong>firebrand wrote:</strong>
+> > <strong>Yasik2 wrote:</strong>
+> > That's because we don't know what spells are up on the mob.
+> > 
+> > And can't know untile masterful dispel.
+> > 
+> > As for dispelling webs - there's an Reign of the Spider.
+> 
+> 
+> 
+> 
+> 
+> think it through, dumbass. the reason we want it is for PERSONAL use or to help another char by dispelling his stone skin and giving him iron skin or dispel sanc so can aegis, etc. or as was noted to dispel fly because of no-fly rooms. and as for not knowing what's up on the mob, you're right, the generic dispel is fine...as is purloin aura. it would only occur to idiots like you to dispel only ONE buff from a mob. 
+> 
+> 
+> 
+> "we're not hit! we're not hit! stop side-seat driving!" -capt steven hiller --\>independence day
 
-And can't know untile masterful dispel.
-
-As for dispelling webs - there's an Reign of the Spider.[/quote:3fjywffy]
-
-think it through, dumbass.  the reason we want it is for PERSONAL use or to help another char by dispelling his stone skin and giving him iron skin or  dispel sanc so can aegis, etc.  or as was noted to dispel fly because of no-fly rooms.  and as for not knowing what's up on the mob, you're right, the generic dispel is fine...as is purloin aura.  it would only occur to idiots like you to dispel only ONE buff from a mob.  
-
-"we're not hit! we're not hit! stop side-seat driving!"  -capt steven hiller -->independence day[/quote:3fjywffy]
-
-[img:3fjywffy]http://yasik.kiev.ua/Women_know_your_place_Bleach.jpg[/img:3fjywffy]
+![](http://yasik.kiev.ua/Women_know_your_place_Bleach.jpg)
 
 Get back to kitchen and thisnk it through, hysterical woman.
 
@@ -196,7 +207,7 @@ Those Avatars with Iron Skins and Aegises ain't there to spell up newbies.
 
 <div class="post" data-post-id="27870" data-author="Rynquald" data-date="2009-01-25T23:31:38+00:00" data-subject="">
 
-Well, being able to dispel stone skin would be useful if you're about to make a <22 tard char tank and want to get their ac up.
+Well, being able to dispel stone skin would be useful if you're about to make a \<22 tard char tank and want to get their ac up.
 
 Also, a spell (or maybe even a skill) to identify which spells a mob or pc has up would make some sense.
 
@@ -214,17 +225,18 @@ It's A use, not THE use.
 
 I remember back when someone could stop being called a newb before they made 3 5x40s.
 
-And you need a tank to kill flame? Maybe you should stop throwing stones from your glass house? :twisted:
+And you need a tank to kill flame? Maybe you should stop throwing stones from your glass house? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="27873" data-author="Yasik2" data-date="2009-01-26T03:13:09+00:00" data-subject="">
 
-And you need a tank to kill flame? Maybe you should stop throwing stones from your glass house? :twisted:[/quote:3a8f95h1]
+> <strong>Rynquald wrote:</strong>
+> And you need a tank to kill flame? Maybe you should stop throwing stones from your glass house? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
-Shhhhh !.... :D 
+Shhhhh !.... <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> 
 
-(I got relocation sb all alone, this counts as i'm not a newb anymoar?)[/size:3a8f95h1]
+(I got relocation sb all alone, this counts as i'm not a newb anymoar?)
 
 And I still think that there must be a tank on point according to mob's difficulty.
 

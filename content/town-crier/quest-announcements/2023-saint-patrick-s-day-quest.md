@@ -18,10 +18,10 @@ The Quest will be Sunday March 19th at 10am Pacific (1pm Eastern)
 
 timer link is below:
 
-[<LINK_TEXT text="https://www.tickcounter.com/countdown/3 ... -countdown">https://www.tickcounter.com/countdown/3925677/my-countdown</LINK_TEXT>](https://www.tickcounter.com/countdown/3925677/my-countdown)
+[https://www.tickcounter.com/countdown/3925677/my-countdown](https://www.tickcounter.com/countdown/3925677/my-countdown)
 
 See you all there
 
---D
+\--D
 
 </div>

@@ -32,35 +32,35 @@ Example:
 
 I have these modes:
 
-- ac (full set)
+\- ac (full set)
 
-- mana regen (full set)
+\- mana regen (full set)
 
-- max mana (all but a few items are interchangeable)
+\- max mana (all but a few items are interchangeable)
 
-- weapon damage (a few wd items + several dam items)
+\- weapon damage (a few wd items + several dam items)
 
-- stab mode (dam items mostly)
+\- stab mode (dam items mostly)
 
-- hand dam (full hd + a few dam items)
+\- hand dam (full hd + a few dam items)
 
-- raise set
+\- raise set
 
-- uc set (fullish)
+\- uc set (fullish)
 
-- a coliseum set (stab, -saves)
+\- a coliseum set (stab, -saves)
 
 A few sets with only a few items:
 
-- the acid immune clasp
+\- the acid immune clasp
 
-- the lightning resist sleeves
+\- the lightning resist sleeves
 
-- 2 unique charisma items for hymn of an artisan/eye of the beholder
+\- 2 unique charisma items for hymn of an artisan/eye of the beholder
 
-- saves vs para
+\- saves vs para
 
-- 4 +hit items for chop
+\- 4 +hit items for chop
 
 With all this garderobe that I use daily (except those with the few items), I hardly have space for stuff I pop. Whenever I pop more, than a few items, I have to vault or ship them away. 
 
@@ -82,7 +82,7 @@ Thank you.
 
 ![](http://www.self-catering-breaks.com/blog/wp-content/uploads/2009/04/luggage.jpg)
 
-Looks like Taron's landed in Lyme again...  :roll: 
+Looks like Taron's landed in Lyme again... <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> 
 
 Once again I see potential in making changes to "mounts" in the game. You need a pack horse...
 
@@ -106,31 +106,31 @@ Sherpa!
 
 <div class="post" data-post-id="37427" data-author="Teron" data-date="2016-10-22T06:35:10+00:00" data-subject="Re: Double robe capacity, because amount of used classes dou">
 
-One other reason to increase robe and item capacity is **corpse retrievals**.
+One other reason to increase robe and item capacity is <strong>corpse retrievals</strong>.
 
 For example, I can't do a cr by picking up the corpse, if:
 
-- I am already laden from the group
+\- I am already laden from the group
 
-- the corpse decayed, leaving a container and a heavy robe on the ground, so I can't pick up both of them.
+\- the corpse decayed, leaving a container and a heavy robe on the ground, so I can't pick up both of them.
 
-- there are two or more corpses.
+\- there are two or more corpses.
 
 Just yesterday I had to do several trips to my vault to
 
-- put my inv in my sack and drop it there
+\- put my inv in my sack and drop it there
 
-- pick up Sochi's sack (170 weight)
+\- pick up Sochi's sack (170 weight)
 
-- drop it in the vault
+\- drop it in the vault
 
-- pick up Sochi's robe (290 weight)
+\- pick up Sochi's robe (290 weight)
 
-- drop it in the vault
+\- drop it in the vault
 
-- put Sochi's sack on a storage char
+\- put Sochi's sack on a storage char
 
-- go get my sack from the vault
+\- go get my sack from the vault
 
 and that's with 23 strength without anything in the inv.
 
@@ -142,9 +142,9 @@ All this could've been solved by having more item and weight capacity. Robe capa
 
 <div class="post" data-post-id="37429" data-author="Jaid" data-date="2016-10-22T15:40:01+00:00" data-subject="Re: Double robe capacity, because amount of used classes dou">
 
-I would be good with either suggestion, but I'm probably more in favor of increasing our inventory to rent. I have things that I've been wheeled in groups or equipment that I've changed out over time. While I know that I need to clean things out, when I log on and see a group, I would rather play than do an inventory check and figure out what to put up for sale. I know I need to do it eventually.  As of now, I find myself checking my sack to see what I can drop or junk before I rent so I don't go over the 150 item max.
+I would be good with either suggestion, but I'm probably more in favor of increasing our inventory to rent. I have things that I've been wheeled in groups or equipment that I've changed out over time. While I know that I need to clean things out, when I log on and see a group, I would rather play than do an inventory check and figure out what to put up for sale. I know I need to do it eventually. As of now, I find myself checking my sack to see what I can drop or junk before I rent so I don't go over the 150 item max.
 
-I'm sure my choice is because I have so many items that I need to sell/pass on to newer players. I really need to log on, check what's in my robe, sack, etc and not check the who list or see if a group is running. Maybe then I could be more productive getting rid of unneeded equipment.  :lol:
+I'm sure my choice is because I have so many items that I need to sell/pass on to newer players. I really need to log on, check what's in my robe, sack, etc and not check the who list or see if a group is running. Maybe then I could be more productive getting rid of unneeded equipment. <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 Jaid/Rayne
 
@@ -170,7 +170,7 @@ I even found the color pattern to use for the chest: blue, with the sides colore
 
 <div class="post" data-post-id="37454" data-author="*juggleblood*" data-date="2016-10-26T03:44:51+00:00" data-subject="Re: Double robe capacity, because amount of used classes dou">
 
-max_weight -1? does that make the bag and it's contents weigh nothing or does it make it limitless contents?
+max\_weight -1? does that make the bag and it's contents weigh nothing or does it make it limitless contents?
 
 </div>
 
@@ -204,13 +204,13 @@ Thanks Teker for adding +25 to rent and carry item amounts.
 
 I bet I can fill that too, but I'll try to go without carrying more sets and see how it works.
 
-Thanks again :)
+Thanks again <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="37831" data-author="*teker*" data-date="2016-12-14T17:43:41+00:00" data-subject="Re: Double robe capacity, because amount of used classes dou">
 
-You're welcome.  I'm not sure that there is a bullet-proof 100% guaranteed solution to the problem you're discussing.   In order to recover another player's corpse, your items + the dead player's items would need to be less than the cap.  If you're carrying more than half, or the dead player was carrying more than half, there's a good chance you won't be able to recover the corpse.  If we continue to raise the item limits upwards, some players will continue to carry more items until their strength maximums are reached.  That means the corpses will become heavier and heavier to where other players won't be able to handle the weight of their own gear plus the weight of a full corpse.  Similar problem to where we are now.
+You're welcome. I'm not sure that there is a bullet-proof 100% guaranteed solution to the problem you're discussing. In order to recover another player's corpse, your items + the dead player's items would need to be less than the cap. If you're carrying more than half, or the dead player was carrying more than half, there's a good chance you won't be able to recover the corpse. If we continue to raise the item limits upwards, some players will continue to carry more items until their strength maximums are reached. That means the corpses will become heavier and heavier to where other players won't be able to handle the weight of their own gear plus the weight of a full corpse. Similar problem to where we are now.
 
 Perhaps a better option would be to enable recall scrolls (or a scroll of a different type) to be cast on corpses.
 

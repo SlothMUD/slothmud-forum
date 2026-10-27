@@ -66,15 +66,15 @@ Would someone graciously send me a message on this site containing the new addre
 
 Thank you in advance fellow Slothmudian! =)
 
-- Copper
+\- Copper
 
 </div>
 
 <div class="post" data-post-id="33763" data-author="Smitten" data-date="2012-11-16T12:53:19+00:00" data-subject="Re: cant log in">
 
-I am somewhat new to the mud and haven't really made close enough friends with anyone to be able to contact anyone outside of the game. (Given my withdraws, i use the term 'game' loosely)  :shock: 
+I am somewhat new to the mud and haven't really made close enough friends with anyone to be able to contact anyone outside of the game. (Given my withdraws, i use the term 'game' loosely) <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
-I understand the need to keep certain information private so if anyone should see fit to give me the information to connect or point me in the proper direction, i would much appreciate it. Thank you.  :P 
+I understand the need to keep certain information private so if anyone should see fit to give me the information to connect or point me in the proper direction, i would much appreciate it. Thank you. <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom"> 
 
 Smitten
 
@@ -86,7 +86,7 @@ smitten@hush.com
 
 Please mail me actual contact data for the game someone.
 
-My mail vadim_ferrum (at) mail.ru
+My mail vadim\_ferrum (at) mail.ru
 
 Thank you,
 
@@ -108,7 +108,7 @@ Ditto on what Ferrum said, can just IM me here
 
 <div class="post" data-post-id="33771" data-author="Yasik" data-date="2012-11-16T22:47:53+00:00" data-subject="Re: cant log in">
 
-Hello, **POPA**!  :lol:  :lol:  :lol:  :lol:  :lol: Check inbox please.
+Hello, <strong>POPA</strong>! <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> Check inbox please.
 
 </div>
 

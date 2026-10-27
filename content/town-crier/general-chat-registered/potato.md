@@ -12,7 +12,7 @@ post_count: 10
 
 <div class="post" data-post-id="31406" data-author="reboog" data-date="2010-08-03T19:30:39+00:00" data-subject="potato">
 
-How do you pronounce potato?  Do you say potato, or potato?
+How do you pronounce potato? Do you say potato, or potato?
 
 </div>
 
@@ -30,7 +30,7 @@ Potato.
 
 <div class="post" data-post-id="31409" data-author="Jag" data-date="2010-08-04T00:12:49+00:00" data-subject="Re: potato">
 
-Incorrect.  It is potato.
+Incorrect. It is potato.
 
 </div>
 
@@ -42,14 +42,14 @@ Oh! Good point about potato.
 
 <div class="post" data-post-id="31412" data-author="Hitman" data-date="2010-08-04T21:24:25+00:00" data-subject="Re: potato">
 
-:roll:  Just lost umteen millionz brainnnn cellsss reading dissss...  :!:
+<img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> Just lost umteen millionz brainnnn cellsss reading dissss... <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="31413" data-author="reboog" data-date="2010-08-05T05:54:42+00:00" data-subject="Re: potato">
 
-> **Hitman wrote:**
-> :roll:  Just lost umteen millionz brainnnn cellsss reading dissss...  :!:
+> <strong>Hitman wrote:</strong>
+> <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> Just lost umteen millionz brainnnn cellsss reading dissss... <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom">
 
 I don't want to know how you pronounce potato.
 

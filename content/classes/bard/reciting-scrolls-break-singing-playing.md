@@ -62,6 +62,6 @@ It breaks your song when you play too, not just sing.
 
 <div class="post" data-post-id="35939" data-author="Unsub" data-date="2015-06-07T13:16:14+00:00" data-subject="Re: Reciting scrolls break singing/playing">
 
-That is correct, but I believe playing not singing helps with casting spells.  Sorry, I was not clear.
+That is correct, but I believe playing not singing helps with casting spells. Sorry, I was not clear.
 
 </div>

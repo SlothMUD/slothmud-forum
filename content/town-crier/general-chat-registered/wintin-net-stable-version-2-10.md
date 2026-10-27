@@ -24,27 +24,28 @@ Splork, there's one thing I don't like about WinTin.NET. Its that it keeps rewri
 
 <div class="post" data-post-id="18513" data-author="firebrand" data-date="2007-05-16T14:56:11+00:00" data-subject="">
 
-how many different chars do you use in wintin.net?  if you have more than one, you will have a scriptfile for each char.  what you write in one (if you wish for it to save and/or carry over to the other chars) you have to also do in the others.  
+how many different chars do you use in wintin.net? if you have more than one, you will have a scriptfile for each char. what you write in one (if you wish for it to save and/or carry over to the other chars) you have to also do in the others. 
 
-"you MUST be joking" --damodar --> dungeons & dragons
+"you MUST be joking" --damodar --\> dungeons \& dragons
 
 </div>
 
 <div class="post" data-post-id="18514" data-author="java" data-date="2007-05-16T16:07:17+00:00" data-subject="">
 
-Splork, there's one thing I don't like about WinTin.NET. Its that it keeps rewriting my scriptfile. I'd rather it didn't. Any chance making it optional?[/quote:3qpjse6t] 
+> <strong>Messiaen wrote:</strong>
+> Splork, there's one thing I don't like about WinTin.NET. Its that it keeps rewriting my scriptfile. I'd rather it didn't. Any chance making it optional?
 
 Look in the drop menu for file and go to options.
 
 then uncheck the box to save script changes.. Dont forget to save
 
-script before you logout to maintain things you want to keep.. :) Gater
+script before you logout to maintain things you want to keep.. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> Gater
 
 </div>
 
 <div class="post" data-post-id="18523" data-author="Messiaen" data-date="2007-05-17T05:33:40+00:00" data-subject="">
 
-Ohh, thank you! :) Thats exactly what I wanted.
+Ohh, thank you! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> Thats exactly what I wanted.
 
 Rebel, I use over 10 chars I think, and theres another problem about how it all works when too many windows are open. And I write all my scripts in a text editor, thats why I don't like wintin rewrinting em.
 

@@ -16,6 +16,6 @@ Has anyone done any testing for this spell? I did a quick bit and was having tro
 
 thanks
 
--doug
+\-doug
 
 </div>

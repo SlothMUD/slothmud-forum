@@ -16,7 +16,7 @@ My personal favorites for tri's are the beach... everything on it can and will p
 
 Penguins are another good source of tri's especially in the tower.
 
-it basicly comes down to anything you can kill fast and keep killing works  :twisted: 
+it basicly comes down to anything you can kill fast and keep killing works <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 Blastem
 

@@ -12,7 +12,7 @@ post_count: 20
 
 <div class="post" data-post-id="36596" data-author="*teker*" data-date="2016-02-15T16:04:43+00:00" data-subject="Equipment sets">
 
-So we've been running a few days without any problems in the equipment set code, so I figured I'd announce it to the general public.  The basic idea is that each player can design custom sets of equipment and then change between them in an easy fashion.  HELP EQSET has all the information regarding the new command and how it works.  I do have some debugging in there to try to catch the hang we were seeing so if you see some weird output as a result of the command, please let me know.
+So we've been running a few days without any problems in the equipment set code, so I figured I'd announce it to the general public. The basic idea is that each player can design custom sets of equipment and then change between them in an easy fashion. HELP EQSET has all the information regarding the new command and how it works. I do have some debugging in there to try to catch the hang we were seeing so if you see some weird output as a result of the command, please let me know.
 
 </div>
 
@@ -30,27 +30,27 @@ I changed my mind, this is not just very good, this is INSANELY good!
 
 This script:
 
-#SW (@mode=Regen AND @heal=off AND @charisma=off) {rem all;#if (@darkmace>0) {wie dark-mace};#if (@gaunts=mana) {detach lord tendon;attach lord banded};detach righteous lotus-blossom;detach righteous 2.lotus-blossom;detach iolite ars;detach golden-charm 1.green-claw;detach golden-charm 2.green-claw;detach emerald ring-radiance;detach emerald 2.ring-radiance;get wereraven robe-healer;get all.ring-spider wereraven;get adamantium-sceptre wereraven;get strip-bloody wereraven;get guards wereraven;attach golden-charm darksteel-guards;attach iolite adamantium;attach righteous-cause strip-bloody;attach righteous-cause bracer-order;attach emerald-insight spider-ring;attach lord banded-sleeves;attach emerald-insight 2.spider-ring;wear strip-bloody adamantium-sceptre darksteel-guards banded thunder gown bracer-order spider-ring spider-ring;put all robe-healer;get sack robe-healer;get wereraven robe-healer;detach brooch robe-healer;attach brooch wereraven;get @water robe-healer;get all wereraven;put robe-healer wereraven;put vest wereraven;wear all;#if (@darkmace>0) {rem dark-mace};#var mode Armor} (@mode=Armor AND @charisma=off) {rem all;detach iolite adamantium-sceptre;detach righteous strip-bloody;detach righteous bracer-order;detach golden-charm darksteel-guards;#if (@darkmace>0) {wie dark-mace};detach emerald-insight 1.spider-ring;detach emerald-insight 2.spider-ring;put all wereraven-cloak;get iolite wereraven-cloak;get all.emerald-insight wereraven-cloak;get golden-charm wereraven;get all.righteous-cause wereraven;get banded-sleeves wereraven-cloak;detach lord banded-sleeves;get bracer-order wereraven-cloak;get gown wereraven-cloak;get thunder-gauntlets wereraven-cloak;get robe-healer wereraven-cloak;detach brooch wereraven;attach brooch robe-healer;get @water wereraven-cloak;get sack wereraven-cloak;get all robe-healer;attach righteous-cause blossom;attach righteous-cause 2.blossom;attach iolite ars;attach golden-charm green-claw;put wereraven-cloak robe-healer;attach lord tendon;attach emerald-insight ring-radiance;attach emerald-insight 2.ring-radiance;wear all;#var mode Regen}
+\#SW (@mode=Regen AND @heal=off AND @charisma=off) {rem all;#if (@darkmace\>0) {wie dark-mace};#if (@gaunts=mana) {detach lord tendon;attach lord banded};detach righteous lotus-blossom;detach righteous 2.lotus-blossom;detach iolite ars;detach golden-charm 1.green-claw;detach golden-charm 2.green-claw;detach emerald ring-radiance;detach emerald 2.ring-radiance;get wereraven robe-healer;get all.ring-spider wereraven;get adamantium-sceptre wereraven;get strip-bloody wereraven;get guards wereraven;attach golden-charm darksteel-guards;attach iolite adamantium;attach righteous-cause strip-bloody;attach righteous-cause bracer-order;attach emerald-insight spider-ring;attach lord banded-sleeves;attach emerald-insight 2.spider-ring;wear strip-bloody adamantium-sceptre darksteel-guards banded thunder gown bracer-order spider-ring spider-ring;put all robe-healer;get sack robe-healer;get wereraven robe-healer;detach brooch robe-healer;attach brooch wereraven;get @water robe-healer;get all wereraven;put robe-healer wereraven;put vest wereraven;wear all;#if (@darkmace\>0) {rem dark-mace};#var mode Armor} (@mode=Armor AND @charisma=off) {rem all;detach iolite adamantium-sceptre;detach righteous strip-bloody;detach righteous bracer-order;detach golden-charm darksteel-guards;#if (@darkmace\>0) {wie dark-mace};detach emerald-insight 1.spider-ring;detach emerald-insight 2.spider-ring;put all wereraven-cloak;get iolite wereraven-cloak;get all.emerald-insight wereraven-cloak;get golden-charm wereraven;get all.righteous-cause wereraven;get banded-sleeves wereraven-cloak;detach lord banded-sleeves;get bracer-order wereraven-cloak;get gown wereraven-cloak;get thunder-gauntlets wereraven-cloak;get robe-healer wereraven-cloak;detach brooch wereraven;attach brooch robe-healer;get @water wereraven-cloak;get sack wereraven-cloak;get all robe-healer;attach righteous-cause blossom;attach righteous-cause 2.blossom;attach iolite ars;attach golden-charm green-claw;put wereraven-cloak robe-healer;attach lord tendon;attach emerald-insight ring-radiance;attach emerald-insight 2.ring-radiance;wear all;#var mode Regen}
 
 just became this : 
 
-#SW (@mode=Regen AND @heal=off AND @charisma=off) {eqset switch armor;#var mode Armor} (@mode=Armor AND @charisma=off) {eqset switch regen;#var mode Regen}
+\#SW (@mode=Regen AND @heal=off AND @charisma=off) {eqset switch armor;#var mode Armor} (@mode=Armor AND @charisma=off) {eqset switch regen;#var mode Regen}
 
 And it's only 1 example of many eq changers i had, and it takes 1 seconds to switch..
 
-*Bow* Teker
+\*Bow\* Teker
 
 </div>
 
 <div class="post" data-post-id="36601" data-author="*teker*" data-date="2016-02-16T15:15:41+00:00" data-subject="Re: Equipment sets">
 
-You may not have been able to tell before, but there's always been a small amount of lag when wearing and removing items.  The eqset command just adds them up - there's no extra lag involved.
+You may not have been able to tell before, but there's always been a small amount of lag when wearing and removing items. The eqset command just adds them up - there's no extra lag involved.
 
-I received a couple tells while I was AFK about some issues people were having - please post them here.  I recall seeing the following in my buffer:
+I received a couple tells while I was AFK about some issues people were having - please post them here. I recall seeing the following in my buffer:
 
-1) Something regarding switches with rose oil not working.  Probably something related to it being non-removable.  If someone can show me what's going on during a "switch" or "wear" with the "debug" flag set I can take a look at it.
+1\) Something regarding switches with rose oil not working. Probably something related to it being non-removable. If someone can show me what's going on during a "switch" or "wear" with the "debug" flag set I can take a look at it.
 
-2) Someone had their containers reset at rent.  One thing to keep in mind is that the container is set to a particular instance of an item - not the type.  This means that if you designate "a golden sack" as your default container, it saves the hidden id associated with that sack.  If you pop another one, it will have a different id and the code will not confuse the two.  It also means that if you lose your original sack (or deposit in vault, or sell, etc) the code will decide that the container is missing and will leave items in inventory.
+2\) Someone had their containers reset at rent. One thing to keep in mind is that the container is set to a particular instance of an item - not the type. This means that if you designate "a golden sack" as your default container, it saves the hidden id associated with that sack. If you pop another one, it will have a different id and the code will not confuse the two. It also means that if you lose your original sack (or deposit in vault, or sell, etc) the code will decide that the container is missing and will leave items in inventory.
 
 </div>
 
@@ -74,13 +74,13 @@ Dr
 
 <div class="post" data-post-id="36603" data-author="*teker*" data-date="2016-02-16T18:47:41+00:00" data-subject="Re: Equipment sets">
 
-Ok, I've reproduced the "rose oil" issue which is really an issue for any clasp that has a maximum number that can be worn at one time.  Affects runes also.  You've been experiencing this if you've seen something like:
+Ok, I've reproduced the "rose oil" issue which is really an issue for any clasp that has a maximum number that can be worn at one time. Affects runes also. You've been experiencing this if you've seen something like:
 
-<A rune or clasp> is preventing you from using the item...
+\<A rune or clasp\> is preventing you from using the item...
 
-You can't wear <something>.
+You can't wear \<something\>.
 
-Most people are seeing this when attempting to switch between 2 items that have the same clasp/rune that is limited by a maximum number.  I have a fix for this but it will require another build/reboot.
+Most people are seeing this when attempting to switch between 2 items that have the same clasp/rune that is limited by a maximum number. I have a fix for this but it will require another build/reboot.
 
 There's another bug which is displaying an "ERROR!" message which I think I have tracked down, but will require another build/reboot to verify.
 
@@ -90,7 +90,7 @@ I will check into whether or not it's safe to perform eqset actions while shifte
 
 <div class="post" data-post-id="36604" data-author="*teker*" data-date="2016-02-16T23:51:21+00:00" data-subject="Re: Equipment sets">
 
-I've uploaded a guide to the wiki.  It includes some scenarios that I think people will find useful.  If there are other "frequently asked questions" please let me know.
+I've uploaded a guide to the wiki. It includes some scenarios that I think people will find useful. If there are other "frequently asked questions" please let me know.
 
 [http://www.slothmud.org/wiki/Guide:Eqset](http://www.slothmud.org/wiki/Guide:Eqset)
 
@@ -100,19 +100,19 @@ I've uploaded a guide to the wiki.  It includes some scenarios that I think peop
 
 Ok, I think i did everything as explained by the wiki:
 
-1) Save my regen set as eqset preset 1
+1\) Save my regen set as eqset preset 1
 
-2) While wearing my regen set, assign all my regen items to use radiant-robe as container (eqset setcontainer raven-robe all)
+2\) While wearing my regen set, assign all my regen items to use radiant-robe as container (eqset setcontainer raven-robe all)
 
-3) Save my solo set as eqset preset 2
+3\) Save my solo set as eqset preset 2
 
-4) While wearing my solo set, assign all solo items to use wereraven-cloak as container
+4\) While wearing my solo set, assign all solo items to use wereraven-cloak as container
 
-5) So that my wereraven cloak is not stored in inventory when I switch to regen set, I assign radiant-robe as default container for wereraven-cloak (while wearing weraraven-cloak, eqset setcontainer radiant-robe wereraven-cloak)
+5\) So that my wereraven cloak is not stored in inventory when I switch to regen set, I assign radiant-robe as default container for wereraven-cloak (while wearing weraraven-cloak, eqset setcontainer radiant-robe wereraven-cloak)
 
 Now when I switch from solo to regen, all my solo items are put into wereraven cloak and wereraven cloak is put into radiant-robe
 
-6) While in regen mode I now assign radiant-robe to use wereraven-cloak as it's container (eqset setcontainer wereraven-cloak radiant-robe)
+6\) While in regen mode I now assign radiant-robe to use wereraven-cloak as it's container (eqset setcontainer wereraven-cloak radiant-robe)
 
 Now when i switch from regen to solo, all my regen items are put into radiant-robe and my radiant-robe is put into wereraven-cloak
 
@@ -122,213 +122,213 @@ Here is an example with Anrok, added a divider "-" before container, so it's eas
 
 Equipment Set 'armor':
 
-Position        Item                            -Container
+Position Item -Container
 
-Light           a tiger eye stone               - an elven cloak of agility
+Light a tiger eye stone - an elven cloak of agility
 
-   Clasp        a flawed glowing gem            - an elven cloak of agility
+ Clasp a flawed glowing gem - an elven cloak of agility
 
-Left Finger     an enchanted band of hematite   - an elven cloak of agility
+Left Finger an enchanted band of hematite - an elven cloak of agility
 
-   Clasp        an emerald of insight           - Shroud of the Undead Spiritcharmer
+ Clasp an emerald of insight - Shroud of the Undead Spiritcharmer
 
-Right Finger    a heavy iron ring               - an elven cloak of agility
+Right Finger a heavy iron ring - an elven cloak of agility
 
-   Clasp        an emerald of insight           - Shroud of the Undead Spiritcharmer
+ Clasp an emerald of insight - Shroud of the Undead Spiritcharmer
 
-Shoulders       darksteel shoulder guards       - an elven cloak of agility
+Shoulders darksteel shoulder guards - an elven cloak of agility
 
-   Clasp        a purple minidemon brooch       - an elven cloak of agility
+ Clasp a purple minidemon brooch - an elven cloak of agility
 
-Neck 2          a thief's shadow bending half-  - an elven cloak of agility
+Neck 2 a thief's shadow bending half- - an elven cloak of agility
 
-   Clasp        a red minidemon brooch          - an elven cloak of agility
+ Clasp a red minidemon brooch - an elven cloak of agility
 
-Body            Adamantine Cuirass of the Anci  - an elven cloak of agility
+Body Adamantine Cuirass of the Anci - an elven cloak of agility
 
-Head            a crimson tri-cornered hat      - an elven cloak of agility
+Head a crimson tri-cornered hat - an elven cloak of agility
 
-   Clasp        the crest of the crimson bucca  - an elven cloak of agility
+ Clasp the crest of the crimson bucca - an elven cloak of agility
 
-Legs            chiseled granite greaves        - an elven cloak of agility
+Legs chiseled granite greaves - an elven cloak of agility
 
-   Clasp        a polished spectrolite charm    - an elven cloak of agility
+ Clasp a polished spectrolite charm - an elven cloak of agility
 
-Feet            black orcskin boots             - an elven cloak of agility
+Feet black orcskin boots - an elven cloak of agility
 
-Hands           Talons of the Dragon Lords      - an elven cloak of agility
+Hands Talons of the Dragon Lords - an elven cloak of agility
 
-Arms            amethyst-inlaid mithril bracer  - an elven cloak of agility
+Arms amethyst-inlaid mithril bracer - an elven cloak of agility
 
-Shield          a crystal greatshield           - an elven cloak of agility
+Shield a crystal greatshield - an elven cloak of agility
 
-About           - an elven cloak of agility       - Shroud of the Undead Spiritcharmer
+About - an elven cloak of agility - Shroud of the Undead Spiritcharmer
 
-   Clasp        a golden, four-pointed star (M  - Shroud of the Undead Spiritcharmer
+ Clasp a golden, four-pointed star (M - Shroud of the Undead Spiritcharmer
 
-Waist           a feathered cincture            - an elven cloak of agility
+Waist a feathered cincture - an elven cloak of agility
 
-Left Wrist      the Bracelet of the High Orc    - an elven cloak of agility
+Left Wrist the Bracelet of the High Orc - an elven cloak of agility
 
-Right Wrist     the Bracelet of the High Orc    - an elven cloak of agility
+Right Wrist the Bracelet of the High Orc - an elven cloak of agility
 
-Wielded         a jeweled saber                 - an elven cloak of agility
+Wielded a jeweled saber - an elven cloak of agility
 
-Held            an obsidian pearl               - an elven cloak of agility
+Held an obsidian pearl - an elven cloak of agility
 
 Equipment Set 'undead':
 
-Position        Item                            -Container
+Position Item -Container
 
-Light           eye of the undead               - Shroud of the Undead Spiritcharmer
+Light eye of the undead - Shroud of the Undead Spiritcharmer
 
-Left Finger     a ring of imminent death        - Shroud of the Undead Spiritcharmer
+Left Finger a ring of imminent death - Shroud of the Undead Spiritcharmer
 
-   Clasp        an emerald of insight           - Shroud of the Undead Spiritcharmer
+ Clasp an emerald of insight - Shroud of the Undead Spiritcharmer
 
-Right Finger    a ring of imminent death        - Shroud of the Undead Spiritcharmer
+Right Finger a ring of imminent death - Shroud of the Undead Spiritcharmer
 
-   Clasp        an emerald of insight           - Shroud of the Undead Spiritcharmer
+ Clasp an emerald of insight - Shroud of the Undead Spiritcharmer
 
-Shoulders       woven shoulder guards of flesh  - Shroud of the Undead Spiritcharmer
+Shoulders woven shoulder guards of flesh - Shroud of the Undead Spiritcharmer
 
-   Clasp        a clasp of life and death       - Shroud of the Undead Spiritcharmer
+ Clasp a clasp of life and death - Shroud of the Undead Spiritcharmer
 
-Neck 2          an ugly decaying ankh           - Shroud of the Undead Spiritcharmer
+Neck 2 an ugly decaying ankh - Shroud of the Undead Spiritcharmer
 
-Body            a blackened, corrupted rose     - Shroud of the Undead Spiritcharmer
+Body a blackened, corrupted rose - Shroud of the Undead Spiritcharmer
 
-Head            a ruby-inlaid crown             - Shroud of the Undead Spiritcharmer
+Head a ruby-inlaid crown - Shroud of the Undead Spiritcharmer
 
-Legs            a set of polished bone legging  - Shroud of the Undead Spiritcharmer
+Legs a set of polished bone legging - Shroud of the Undead Spiritcharmer
 
-Feet            boots of radiance               - Shroud of the Undead Spiritcharmer
+Feet boots of radiance - Shroud of the Undead Spiritcharmer
 
-Hands           arcane gauntlets of the moon    - Shroud of the Undead Spiritcharmer
+Hands arcane gauntlets of the moon - Shroud of the Undead Spiritcharmer
 
-Arms            a set of ruby studded vambrace  - Shroud of the Undead Spiritcharmer
+Arms a set of ruby studded vambrace - Shroud of the Undead Spiritcharmer
 
-Shield          a shield of stolen souls        - Shroud of the Undead Spiritcharmer
+Shield a shield of stolen souls - Shroud of the Undead Spiritcharmer
 
-About           Shroud of the Undead Spiritcha  - an elven cloak of agility
+About Shroud of the Undead Spiritcha - an elven cloak of agility
 
-   Clasp        a golden, four-pointed star (M  - Shroud of the Undead Spiritcharmer
+ Clasp a golden, four-pointed star (M - Shroud of the Undead Spiritcharmer
 
-Waist           a golden-feathered girth        - Shroud of the Undead Spiritcharmer
+Waist a golden-feathered girth - Shroud of the Undead Spiritcharmer
 
-Left Wrist      a strand of opalescent silk     - Shroud of the Undead Spiritcharmer
+Left Wrist a strand of opalescent silk - Shroud of the Undead Spiritcharmer
 
-Right Wrist     a strand of opalescent silk     - Shroud of the Undead Spiritcharmer
+Right Wrist a strand of opalescent silk - Shroud of the Undead Spiritcharmer
 
-Wielded         a staff of entwined serpents    - Shroud of the Undead Spiritcharmer
+Wielded a staff of entwined serpents - Shroud of the Undead Spiritcharmer
 
-Held            Grey Tome with Silver Runes     - Shroud of the Undead Spiritcharmer
+Held Grey Tome with Silver Runes - Shroud of the Undead Spiritcharmer
 
 And now as soon as i rent and come back this happens:
 
 Equipment Set 'armor':
 
-Position        Item                            Container
+Position Item Container
 
-Light           a tiger eye stone               an elven cloak of agility
+Light a tiger eye stone an elven cloak of agility
 
-   Clasp        a flawed glowing gem            [ Default ]
+ Clasp a flawed glowing gem [ Default ]
 
-Left Finger     an enchanted band of hematite   [ Default ]
+Left Finger an enchanted band of hematite [ Default ]
 
-   Clasp        an emerald of insight           [ Default ]
+ Clasp an emerald of insight [ Default ]
 
-Right Finger    a heavy iron ring               [ Default ]
+Right Finger a heavy iron ring [ Default ]
 
-   Clasp        an emerald of insight           [ Default ]
+ Clasp an emerald of insight [ Default ]
 
-Shoulders       darksteel shoulder guards       [ Default ]
+Shoulders darksteel shoulder guards [ Default ]
 
-   Clasp        a purple minidemon brooch       [ Default ]
+ Clasp a purple minidemon brooch [ Default ]
 
-Neck 2          a thief's shadow bending half-  [ Default ]
+Neck 2 a thief's shadow bending half- [ Default ]
 
-   Clasp        a red minidemon brooch          [ Default ]
+ Clasp a red minidemon brooch [ Default ]
 
-Body            Adamantine Cuirass of the Anci  [ Default ]
+Body Adamantine Cuirass of the Anci [ Default ]
 
-Head            a crimson tri-cornered hat      [ Default ]
+Head a crimson tri-cornered hat [ Default ]
 
-   Clasp        the crest of the crimson bucca  [ Default ]
+ Clasp the crest of the crimson bucca [ Default ]
 
-Legs            chiseled granite greaves        [ Default ]
+Legs chiseled granite greaves [ Default ]
 
-   Clasp        a polished spectrolite charm    [ Default ]
+ Clasp a polished spectrolite charm [ Default ]
 
-Feet            black orcskin boots             [ Default ]
+Feet black orcskin boots [ Default ]
 
-Hands           Talons of the Dragon Lords      [ Default ]
+Hands Talons of the Dragon Lords [ Default ]
 
-Arms            amethyst-inlaid mithril bracer  [ Default ]
+Arms amethyst-inlaid mithril bracer [ Default ]
 
-Shield          a crystal greatshield           [ Default ]
+Shield a crystal greatshield [ Default ]
 
-About           an elven cloak of agility       [ Default ]
+About an elven cloak of agility [ Default ]
 
-   Clasp        a golden, four-pointed star (M  [ Default ]
+ Clasp a golden, four-pointed star (M [ Default ]
 
-Waist           a feathered cincture            [ Default ]
+Waist a feathered cincture [ Default ]
 
-Left Wrist      the Bracelet of the High Orc    [ Default ]
+Left Wrist the Bracelet of the High Orc [ Default ]
 
-Right Wrist     the Bracelet of the High Orc    [ Default ]
+Right Wrist the Bracelet of the High Orc [ Default ]
 
-Wielded         a jeweled saber                 [ Default ]
+Wielded a jeweled saber [ Default ]
 
-Held            an obsidian pearl               [ Default ]
+Held an obsidian pearl [ Default ]
 
 Equipment Set 'undead':
 
-Position        Item                            Container
+Position Item Container
 
-Light           eye of the undead               Shroud of the Undead Spiritcharmer
+Light eye of the undead Shroud of the Undead Spiritcharmer
 
-Left Finger     a ring of imminent death        Shroud of the Undead Spiritcharmer
+Left Finger a ring of imminent death Shroud of the Undead Spiritcharmer
 
-   Clasp        an emerald of insight           [ Default ]
+ Clasp an emerald of insight [ Default ]
 
-Right Finger    a ring of imminent death        Shroud of the Undead Spiritcharmer
+Right Finger a ring of imminent death Shroud of the Undead Spiritcharmer
 
-   Clasp        an emerald of insight           [ Default ]
+ Clasp an emerald of insight [ Default ]
 
-Shoulders       woven shoulder guards of flesh  [ Default ]
+Shoulders woven shoulder guards of flesh [ Default ]
 
-   Clasp        a clasp of life and death       [ Default ]
+ Clasp a clasp of life and death [ Default ]
 
-Neck 2          an ugly decaying ankh           [ Default ]
+Neck 2 an ugly decaying ankh [ Default ]
 
-Body            a blackened, corrupted rose     [ Default ]
+Body a blackened, corrupted rose [ Default ]
 
-Head            a ruby-inlaid crown             [ Default ]
+Head a ruby-inlaid crown [ Default ]
 
-Legs            a set of polished bone legging  [ Default ]
+Legs a set of polished bone legging [ Default ]
 
-Feet            boots of radiance               [ Default ]
+Feet boots of radiance [ Default ]
 
-Hands           arcane gauntlets of the moon    [ Default ]
+Hands arcane gauntlets of the moon [ Default ]
 
-Arms            a set of ruby studded vambrace  [ Default ]
+Arms a set of ruby studded vambrace [ Default ]
 
-Shield          a shield of stolen souls        [ Default ]
+Shield a shield of stolen souls [ Default ]
 
-About           Shroud of the Undead Spiritcha  [ Default ]
+About Shroud of the Undead Spiritcha [ Default ]
 
-   Clasp        a golden, four-pointed star (M  [ Default ]
+ Clasp a golden, four-pointed star (M [ Default ]
 
-Waist           a golden-feathered girth        [ Default ]
+Waist a golden-feathered girth [ Default ]
 
-Left Wrist      a strand of opalescent silk     [ Default ]
+Left Wrist a strand of opalescent silk [ Default ]
 
-Right Wrist     a strand of opalescent silk     [ Default ]
+Right Wrist a strand of opalescent silk [ Default ]
 
-Wielded         a staff of entwined serpents    [ Default ]
+Wielded a staff of entwined serpents [ Default ]
 
-Held            Grey Tome with Silver Runes     [ Default ]
+Held Grey Tome with Silver Runes [ Default ]
 
 </div>
 
@@ -344,87 +344,87 @@ Here is a set before rent:
 
 Equipment Set 'regen':
 
-Position        Item                            Container
+Position Item Container
 
-Light           a philosopher's stone          - a robe of raven's feathers
+Light a philosopher's stone - a robe of raven's feathers
 
-Left Finger     a basalt ring                  - a robe of raven's feathers
+Left Finger a basalt ring - a robe of raven's feathers
 
-Right Finger    a basalt ring                  - a robe of raven's feathers
+Right Finger a basalt ring - a robe of raven's feathers
 
-Neck 1          an onyx necklace of demons     - a robe of raven's feathers
+Neck 1 an onyx necklace of demons - a robe of raven's feathers
 
-Neck 2          an onyx necklace of demons     - a robe of raven's feathers
+Neck 2 an onyx necklace of demons - a robe of raven's feathers
 
-Body            an octiron cuirass             - a robe of raven's feathers
+Body an octiron cuirass - a robe of raven's feathers
 
-Head            a wolf head hat                - a robe of raven's feathers
+Head a wolf head hat - a robe of raven's feathers
 
-Legs            a pair of pitch black greaves  - a robe of raven's feathers
+Legs a pair of pitch black greaves - a robe of raven's feathers
 
-Feet            a pair of dolphin skin boots   - a robe of raven's feathers
+Feet a pair of dolphin skin boots - a robe of raven's feathers
 
-Hands           a set of emerald gauntlets     - a robe of raven's feathers
+Hands a set of emerald gauntlets - a robe of raven's feathers
 
-Arms            flowing sleeves of the wind    - a robe of raven's feathers
+Arms flowing sleeves of the wind - a robe of raven's feathers
 
-Waist           Sash of Swirling Colors        - a robe of raven's feathers
+Waist Sash of Swirling Colors - a robe of raven's feathers
 
-Left Wrist      a band of ether                - a robe of raven's feathers
+Left Wrist a band of ether - a robe of raven's feathers
 
-Right Wrist     ribbons of the vernal equinox  - a robe of raven's feathers
+Right Wrist ribbons of the vernal equinox - a robe of raven's feathers
 
-Wielded         hidden mace of the underworld  - a robe of raven's feathers
+Wielded hidden mace of the underworld - a robe of raven's feathers
 
-   Clasp        a repulsive yellow eye         - a robe of raven's feathers
+ Clasp a repulsive yellow eye - a robe of raven's feathers
 
-Held            a moss-covered pebble          - a robe of raven's feathers
+Held a moss-covered pebble - a robe of raven's feathers
 
 Here is what happens after rent:
 
 Equipment Set 'regen':
 
-Position        Item                            Container
+Position Item Container
 
-Light           a philosopher's stone          - a robe of raven's feathers
+Light a philosopher's stone - a robe of raven's feathers
 
-Left Finger     a basalt ring                  - a robe of raven's feathers
+Left Finger a basalt ring - a robe of raven's feathers
 
-Right Finger    a basalt ring                  - a robe of raven's feathers
+Right Finger a basalt ring - a robe of raven's feathers
 
-Neck 1          an onyx necklace of demons     - a robe of raven's feathers
+Neck 1 an onyx necklace of demons - a robe of raven's feathers
 
-Neck 2          an onyx necklace of demons     - a robe of raven's feathers
+Neck 2 an onyx necklace of demons - a robe of raven's feathers
 
-Body            an octiron cuirass             - a robe of raven's feathers
+Body an octiron cuirass - a robe of raven's feathers
 
-Head            a wolf head hat                - a robe of raven's feathers
+Head a wolf head hat - a robe of raven's feathers
 
-Legs            a pair of pitch black greaves  - a robe of raven's feathers
+Legs a pair of pitch black greaves - a robe of raven's feathers
 
-Feet            a pair of dolphin skin boots   - a robe of raven's feathers
+Feet a pair of dolphin skin boots - a robe of raven's feathers
 
-Hands           a set of emerald gauntlets     - a robe of raven's feathers
+Hands a set of emerald gauntlets - a robe of raven's feathers
 
-Arms            flowing sleeves of the wind    - a robe of raven's feathers
+Arms flowing sleeves of the wind - a robe of raven's feathers
 
-Waist           Sash of Swirling Colors        - a robe of raven's feathers
+Waist Sash of Swirling Colors - a robe of raven's feathers
 
-Left Wrist      a band of ether                - a robe of raven's feathers
+Left Wrist a band of ether - a robe of raven's feathers
 
-Right Wrist     ribbons of the vernal equinox  - a robe of raven's feathers
+Right Wrist ribbons of the vernal equinox - a robe of raven's feathers
 
-Wielded         hidden mace of the underworld  - a robe of raven's feathers
+Wielded hidden mace of the underworld - a robe of raven's feathers
 
-   Clasp        a repulsive yellow eye          [ Inventory ]
+ Clasp a repulsive yellow eye [ Inventory ]
 
-Held            a moss-covered pebble           [ Inventory ]
+Held a moss-covered pebble [ Inventory ]
 
 </div>
 
 <div class="post" data-post-id="36607" data-author="*teker*" data-date="2016-02-17T15:39:32+00:00" data-subject="Re: Equipment sets">
 
-Ok, I've figured out the container issue and committed a fix.  I'm hoping we'll reboot tomorrow to get all these fixes in place.
+Ok, I've figured out the container issue and committed a fix. I'm hoping we'll reboot tomorrow to get all these fixes in place.
 
 </div>
 
@@ -442,7 +442,7 @@ Of course, an alternate solution is to remove the lag from using these commands 
 
 Good day,
 
-Err where did Splork's post go? :-)
+Err where did Splork's post go? <img src="/images/smilies/icon_e_smile.svg" alt=":-)" title=":-)" width="15" height="15" class="smiley nozoom">
 
 We had an issue with choppers being transferred around in robes without assigned value.
 
@@ -456,7 +456,7 @@ Dr
 
 <div class="post" data-post-id="36615" data-author="*Splork*" data-date="2016-02-18T18:18:29+00:00" data-subject="Re: Equipment sets">
 
-I deleted my post and sent an email instead 8) 
+I deleted my post and sent an email instead <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> 
 
 However, eqset should have the same amount of lag as a player using their client to switch all of their eq!
 
@@ -512,7 +512,7 @@ Thanks.
 
 <div class="post" data-post-id="36619" data-author="Josiah" data-date="2016-02-19T14:56:54+00:00" data-subject="Re: Equipment sets">
 
-Taron (and others) use a clever workaround to game the system and change eq faster than intended.  He wants the lag from eqset to be based on the optimal equipment change method rather than the obvious one.
+Taron (and others) use a clever workaround to game the system and change eq faster than intended. He wants the lag from eqset to be based on the optimal equipment change method rather than the obvious one.
 
 Cutting out the word 'all' and using two remove and wear commands shaves off about 5 seconds of lag.
 
@@ -522,7 +522,7 @@ Cutting out the word 'all' and using two remove and wear commands shaves off abo
 
 I will run some tests to compare the lag.
 
-I've added documentation for EQSET DEPOSIT and EQSET WITHDRAW which work with the new vaults.  I need to work on WITHDRAW a little - the items are coming out correct but they're being left in inventory rather than placed into their proper containers.
+I've added documentation for EQSET DEPOSIT and EQSET WITHDRAW which work with the new vaults. I need to work on WITHDRAW a little - the items are coming out correct but they're being left in inventory rather than placed into their proper containers.
 
 I'm also starting to test the code on shapeshifted characters.
 
@@ -534,19 +534,19 @@ I am not so sure I would call it a work around because it was added intentionall
 
 Here is the write-up regarding the changes:
 
-**Added wait state  to remove all/wear all dependent on what you wear and remove (some will hate this!)
+<strong>Added wait state to remove all/wear all dependent on what you wear and remove (some will hate this!)</strong>
 
-Severly lowered the wait state on wear/remove single items (some will love this!)
+<strong>Severly lowered the wait state on wear/remove single items (some will love this!)</strong>
 
-Basically this is much fairer**
+<strong>Basically this is much fairer</strong>
 
-We will let Teker decide what to do :mrgreen: but its definitely a Slothy feature, as JB likes to say!
+We will let Teker decide what to do <img src="/images/smilies/icon_mrgreen.svg" alt=":mrgreen:" title=":mrgreen:" width="15" height="15" class="smiley nozoom"> but its definitely a Slothy feature, as JB likes to say!
 
 </div>
 
 <div class="post" data-post-id="36622" data-author="*teker*" data-date="2016-02-19T18:05:40+00:00" data-subject="Re: Equipment sets">
 
-I'll make the lag more consistent with "wear many" + "remove many".  I'm not seeing any issues with shifted players using eqset so I will enable that also.  These both require a new build so you'll see the changes then.
+I'll make the lag more consistent with "wear many" + "remove many". I'm not seeing any issues with shifted players using eqset so I will enable that also. These both require a new build so you'll see the changes then.
 
 </div>
 

@@ -28,19 +28,26 @@ Is this a bug?
 
 <div class="post" data-post-id="5139" data-author="Vixn" data-date="2005-03-17T10:32:47+00:00" data-subject="Re: Bugs?">
 
-Hi!
+> <strong>achazia wrote:</strong>
+> Hi!
+> 
+> 
+> 
+> I have noticed that often when I try to "order" my follower something
+> 
+> I get the answer that there is noone loyal to me there? But my follower
+> 
+> IS there....and if I try 2-3 times it follows the orders....
+> 
+> 
+> 
+> Is this a bug?
+> 
+> 
+> 
+> /Achazia
 
-I have noticed that often when I try to "order" my follower something
-
-I get the answer that there is noone loyal to me there? But my follower
-
-IS there....and if I try 2-3 times it follows the orders....
-
-Is this a bug?
-
-/Achazia[/quote:1724yip4]
-
-Don't think so, I guess it's just special way to make life of necromancers hard. Other thing is that troops u summoned randomly stop attacking mobs while you still fighting them. I guess it'd been added in code by Blaster or someone even more evil :))
+Don't think so, I guess it's just special way to make life of necromancers hard. Other thing is that troops u summoned randomly stop attacking mobs while you still fighting them. I guess it'd been added in code by Blaster or someone even more evil <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">)
 
 And i don't sure but i hope +control undead items could make this things much rarely.
 
@@ -48,7 +55,7 @@ And i don't sure but i hope +control undead items could make this things much ra
 
 <div class="post" data-post-id="5145" data-author="ds" data-date="2005-03-17T13:49:29+00:00" data-subject="Shipping Bug">
 
-Since we are on the subject of bugs I should mention a shipping bug.  Recently I shipped 5 pieces of eq to a bunch of different players and I got paid for the first piece of eq while two more were claimed by recipients and I never got any gold back for them.  In a panic I reclaimed the last two pieces of eq still unclaimed and I had to pay a huge fee to get my own stuff back.  (it said the reclaim fee was 1000 but I got charged 201000 which was the fee I had asked the recipient to pay instead as if I was the recipeint instead of the sender)  Has anything been wrong with 'ship' recently?  I am out some serious gold.  I would recommend not to use ship for now for anyone.  Comments?
+Since we are on the subject of bugs I should mention a shipping bug. Recently I shipped 5 pieces of eq to a bunch of different players and I got paid for the first piece of eq while two more were claimed by recipients and I never got any gold back for them. In a panic I reclaimed the last two pieces of eq still unclaimed and I had to pay a huge fee to get my own stuff back. (it said the reclaim fee was 1000 but I got charged 201000 which was the fee I had asked the recipient to pay instead as if I was the recipeint instead of the sender) Has anything been wrong with 'ship' recently? I am out some serious gold. I would recommend not to use ship for now for anyone. Comments?
 
 </div>
 

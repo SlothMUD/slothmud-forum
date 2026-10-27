@@ -12,7 +12,7 @@ post_count: 5
 
 <div class="post" data-post-id="31236" data-author="Murkyn" data-date="2010-05-27T15:18:16+00:00" data-subject="Cartography Section">
 
-I was just wondering if there are plans to put the difficulty ratings back with the map listings - as a fairly new player I don't know most of the areas off the top of my head and it was really helpful to know which areas I could venture into and which ones would be insta-death.  :twisted:
+I was just wondering if there are plans to put the difficulty ratings back with the map listings - as a fairly new player I don't know most of the areas off the top of my head and it was really helpful to know which areas I could venture into and which ones would be insta-death. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -22,9 +22,9 @@ I understand your comment. However that information often doesn't mean very much
 
 Xp areas - in a general sense go something like this for new players... 
 
-VK Town (lvl < 10
+VK Town (lvl \< 10
 
-Blasters (lvl < 20)
+Blasters (lvl \< 20)
 
 Catacombs (20+)
 
@@ -64,7 +64,7 @@ Clear as mud?
 
 <div class="post" data-post-id="31245" data-author="*Breeze*" data-date="2010-05-28T04:41:04+00:00" data-subject="Re: Cartography Section">
 
-> **jezer wrote:**
+> <strong>jezer wrote:</strong>
 > I understand your comment. However that information often doesn't mean very much, and a lot of that information was wrong in my opinion.
 
 exactly my reasoning for not putting it there in the first place.
@@ -83,15 +83,15 @@ Not sure I agree with all that Jezer says, particularly on the specifics of whic
 
 What would be interesting is some way of querying by area what level players are killing stuff there e.g.
 
-*(excuse the formatting please)*
+<em>(excuse the formatting please)</em>
 
 Cont.Area.....Prime............Number of kills by level...............Number of deaths by level
 
-..................................1x40  2x40  3x40 4x40 5x40............1x40  2x40  3x40 4x40 5x40
+..................................1x40 2x40 3x40 4x40 5x40............1x40 2x40 3x40 4x40 5x40
 
-AH    Penguins  Wa...............20 ....10....10....5....1..................1.....0.... 0....0....0                 
+AH Penguins Wa...............20 ....10....10....5....1..................1.....0.... 0....0....0 
 
-AH    Penguins  Ma ...............80.....40....45....20....10 .............34....21....0....0....0 
+AH Penguins Ma ...............80.....40....45....20....10 .............34....21....0....0....0 
 
 etc.
 
@@ -105,10 +105,10 @@ T
 
 <div class="post" data-post-id="31251" data-author="Murkyn" data-date="2010-05-28T15:18:25+00:00" data-subject="Re: Cartography Section">
 
-Makes sense, I guess I'll just go back to the hit and miss method.  :) I know that overall zone level is not necessarily an accurate thing, but since there's no list of mobs and their relative strength it doesn't leave many options for us newbs who don't want to stay on VK forever.
+Makes sense, I guess I'll just go back to the hit and miss method. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> I know that overall zone level is not necessarily an accurate thing, but since there's no list of mobs and their relative strength it doesn't leave many options for us newbs who don't want to stay on VK forever.
 
 Don't get me wrong, it's not that I'm lazy or don't want to explore, in fact I really enjoy finding new areas and knowing my way around a world, however I find myself very reluctant to do so in this game. It's not the dying part that bothers me, it's the possibility that my corpse will be looted by a mob that's way beyond my level, causing me to have to totally re-gear my toon or beg for help to get my stuff back that I find discouraging. 
 
-Maybe I should just leave all my eq in the vault and start exploring naked instead lol. :oops:
+Maybe I should just leave all my eq in the vault and start exploring naked instead lol. <img src="/images/smilies/icon_redface.svg" alt=":oops:" title=":oops:" width="15" height="15" class="smiley nozoom">
 
 </div>

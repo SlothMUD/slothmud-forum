@@ -30,7 +30,7 @@ go fuck yourself jim!
 
 <div class="post" data-post-id="12925" data-author="Medios" data-date="2006-06-08T22:03:46+00:00" data-subject="">
 
-Your encouraging him Aaron.  He loves to so of course he will.  Its like throwing out bread crumbs to pigeons.  
+Your encouraging him Aaron. He loves to so of course he will. Its like throwing out bread crumbs to pigeons. 
 
 Mike
 
@@ -38,9 +38,9 @@ Mike
 
 <div class="post" data-post-id="12926" data-author="Leaf" data-date="2006-06-08T23:55:52+00:00" data-subject="">
 
-Come on Mikey, get it right!  It's like giving a can of re-fried beans to a 
+Come on Mikey, get it right! It's like giving a can of re-fried beans to a 
 
-dog, and see what kinda of shit will come out.   :shock:
+dog, and see what kinda of shit will come out. <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

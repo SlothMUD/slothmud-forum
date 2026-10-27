@@ -22,7 +22,7 @@ Here is what I have for Mage/Monk:
 
 Ma/Moâ€” Int/Con/Wis/Dex/Str 
 
--Qa
+\-Qa
 
 </div>
 

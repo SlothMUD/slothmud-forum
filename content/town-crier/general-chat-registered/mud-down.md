@@ -18,13 +18,13 @@ no joy connecting for last 10mins or so here...
 
 <div class="post" data-post-id="10268" data-author="deralte" data-date="2006-01-22T01:35:57+00:00" data-subject="">
 
-:(  I have been SOL trying the same thing for longer than 10 mins
+<img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom"> I have been SOL trying the same thing for longer than 10 mins
 
 </div>
 
 <div class="post" data-post-id="10270" data-author="madmax" data-date="2006-01-22T01:40:15+00:00" data-subject="">
 
-Mud went down at about 7:50 pm (EST).  Currently 8:40 pm (EST) Still no go here either.
+Mud went down at about 7:50 pm (EST). Currently 8:40 pm (EST) Still no go here either.
 
 Madmax
 
@@ -32,19 +32,19 @@ Madmax
 
 <div class="post" data-post-id="10271" data-author="deralte" data-date="2006-01-22T01:47:21+00:00" data-subject="">
 
-web page still shows peole on line, including Abrahms who I was playing :(
+web page still shows peole on line, including Abrahms who I was playing <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="10272" data-author="brady" data-date="2006-01-22T01:50:04+00:00" data-subject="">
 
-Mud up, ISP down.   *shiver*
+Mud up, ISP down. \*shiver\*
 
 </div>
 
 <div class="post" data-post-id="10273" data-author="Weasel" data-date="2006-01-22T01:54:42+00:00" data-subject="">
 
-[img:nld4sutz]http://ancientclan.com/forums/images/cranpics/blame_canada.jpg[/img:nld4sutz]
+![](http://ancientclan.com/forums/images/cranpics/blame_canada.jpg)
 
 </div>
 
@@ -56,7 +56,7 @@ We have a service call in, asking "Where'd our machine go?"
 
 <div class="post" data-post-id="10275" data-author="madmax" data-date="2006-01-22T01:56:51+00:00" data-subject="">
 
-Look at the bright side, we can talk about it on the website since it is no longer on the same server  8)
+Look at the bright side, we can talk about it on the website since it is no longer on the same server <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -74,7 +74,7 @@ They stole the server box?!?
 
 <div class="post" data-post-id="10278" data-author="Clink" data-date="2006-01-22T02:25:33+00:00" data-subject="Mud link back up.">
 
-I was afk for the whole thing and never lost link... Anyway, it's back up now.  Kin, I have your stuff, come find me.
+I was afk for the whole thing and never lost link... Anyway, it's back up now. Kin, I have your stuff, come find me.
 
 </div>
 

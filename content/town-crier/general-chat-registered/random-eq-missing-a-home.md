@@ -34,17 +34,17 @@ Did a newbie corpse west of BH West Gate at around 1600 GMT -5:00?
 
 A lot of plus low level +DEX stuff, seems caster oriented.
 
-Someone tells me it may belong to Nisse?  Contact me online or post here if you know about either batch of eq.
+Someone tells me it may belong to Nisse? Contact me online or post here if you know about either batch of eq.
 
-What is the proper protocol when this happens?  
+What is the proper protocol when this happens? 
 
-Are we just supposed to leave the eq lying around?  
+Are we just supposed to leave the eq lying around? 
 
-Or do we pick it all up and wait until someone claims it?  
+Or do we pick it all up and wait until someone claims it? 
 
 What's the usual wait time before one gives up and vendors everything to cover rent cost?
 
-And why are all these people quiting and leaving their stuff lying everywhere?!  Two in two days...
+And why are all these people quiting and leaving their stuff lying everywhere?! Two in two days...
 
 </div>
 

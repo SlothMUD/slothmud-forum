@@ -18,9 +18,9 @@ The first is a list of runs by class / damage type. The second is better difficu
 
 Starting at the beginning, I am interested in finding out what players would find most useful.
 
-1. What would be a good list of run types? The two different methods I can come up with is (a) based on prime class, or (b) based on play style - blast, stab, follower, sustain. What would your suggestion be on good categorization.
+1\. What would be a good list of run types? The two different methods I can come up with is (a) based on prime class, or (b) based on play style - blast, stab, follower, sustain. What would your suggestion be on good categorization.
 
-2. We currently use the following designations for level difficulties - newbie, lowbie, mid, high, and very high. There is also a group, small group and large group modifier that is optionally used. 
+2\. We currently use the following designations for level difficulties - newbie, lowbie, mid, high, and very high. There is also a group, small group and large group modifier that is optionally used. 
 
 Is this the best system to use? If so could we define some level ranges for these designations. Newbie = 1 to 2x20, lowbie = 2x20 to 1x40, etc,.
 
@@ -92,7 +92,7 @@ The messages barely hit, hit, hard, extremely, massacre etc relate to ranges of 
 
 While improving the consider command would IMHO be a great boon for the MUD, that is outside of my control.
 
-I have spoken with Breeze about the consider issue. It is something he would like to see fixed, but it is  not exactly as easy as logical comparison due to the way MUDL works.
+I have spoken with Breeze about the consider issue. It is something he would like to see fixed, but it is not exactly as easy as logical comparison due to the way MUDL works.
 
 What I can do is facilitate the creation of some lists that could help newer players figure out the areas within the mud that would be beneficial for them to explore.
 
@@ -104,7 +104,7 @@ I do not think that it is the 3x40+ that will be the ones who get a benefit from
 
 Good on you for putting your hand up to do it Strago. As the saying goes... if it's to be, it's up to me.
 
-I'll put forward to you that hive is an exceptional place for newbie monks or low level players with a reasonable deathgrip. Just watch walking past the sentries, and be careful at the bottom. Don't forget to bank before you bonk... bonk heads... *cough*
+I'll put forward to you that hive is an exceptional place for newbie monks or low level players with a reasonable deathgrip. Just watch walking past the sentries, and be careful at the bottom. Don't forget to bank before you bonk... bonk heads... \*cough\*
 
 </div>
 
@@ -118,13 +118,13 @@ Some people also prefer reading a guide to the dubious prospect of asking for he
 
 I can't imagine any reason for that really, the internet is such a friendly place.
 
-I've also found study to be pretty useful for scoping out new areas to stab, as terrifying as it is to use in some places.  Thievin is all about terror though!
+I've also found study to be pretty useful for scoping out new areas to stab, as terrifying as it is to use in some places. Thievin is all about terror though!
 
 </div>
 
 <div class="post" data-post-id="33060" data-author="*juggleblood*" data-date="2011-12-08T13:30:09+00:00" data-subject="Re: Runs and Area Difficulties">
 
-I like your plan to put some zone info up on the wiki. My 2 cents is this, you only need to describe the mobs along a spectrum of hit points versus damage. There's many classes but pretty much just 2 play styles. You either go for the fast damage approach, in which case you want mobs that have low hp and higher damage, or you go for the slower approach of mobs that have more hit points and do less damage.  Trying to describe how the mobs are for each class of solo, is an over-complication imo, e.g. a zone that is good for solo thieves, will also be good for anyone who can put out a lot of fast damage one way or another.
+I like your plan to put some zone info up on the wiki. My 2 cents is this, you only need to describe the mobs along a spectrum of hit points versus damage. There's many classes but pretty much just 2 play styles. You either go for the fast damage approach, in which case you want mobs that have low hp and higher damage, or you go for the slower approach of mobs that have more hit points and do less damage. Trying to describe how the mobs are for each class of solo, is an over-complication imo, e.g. a zone that is good for solo thieves, will also be good for anyone who can put out a lot of fast damage one way or another.
 
 I also happen to think the consider command works sufficiently enough, mob difficulty is a very subjective thing. Just my opinion.
 
@@ -134,33 +134,33 @@ I also happen to think the consider command works sufficiently enough, mob diffi
 
 So for example:
 
-**Land of the Firenewts**
+<strong>Land of the Firenewts</strong>
 
 This is a good area to solo for a damage dealer between 1x20 and 1x40.
 
-**Mob Name | Health | Damage**
+<strong>Mob Name \| Health \| Damage</strong>
 
-Firenewt Worker |  Low | Low
+Firenewt Worker \| Low \| Low
 
-Firenewt Guard | Low | Low
+Firenewt Guard \| Low \| Low
 
-Firenewt Sergeant | Medium | Low
+Firenewt Sergeant \| Medium \| Low
 
-Firenewt Raider | Medium | Low
+Firenewt Raider \| Medium \| Low
 
-Firenewt Commando | Medium | Medium
+Firenewt Commando \| Medium \| Medium
 
-Firenewt Leader | Medium | Medium
+Firenewt Leader \| Medium \| Medium
 
 Or would you group the mobs into something like:
 
-**Land of the Firenewts**
+<strong>Land of the Firenewts</strong>
 
 This is a good area to solo for a damage dealer between 1x20 and 1x40. Mobs in this area are aggressive. Caster mobs in this area can deal a huge amount of damage, and it might be worth avoiding until after 1x40.
 
-**Mob Damage:** Medium
+<strong>Mob Damage:</strong> Medium
 
-**Mob Health:** Low
+<strong>Mob Health:</strong> Low
 
 </div>
 
@@ -174,7 +174,7 @@ I do like what you have there. Hopefully it will encourage more newbies to look 
 
 <div class="post" data-post-id="33063" data-author="jezer" data-date="2011-12-09T01:07:02+00:00" data-subject="Re: Runs and Area Difficulties">
 
-You've missed Kzartaxen!  :twisted:
+You've missed Kzartaxen! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -182,7 +182,7 @@ You've missed Kzartaxen!  :twisted:
 
 I have made a little example for newbatia
 
-[<LINK_TEXT text="http://www.slothmud.org/wiki/Difficulti ... e#Newbatia">http://www.slothmud.org/wiki/Difficulties:Valkyre#Newbatia</LINK_TEXT>](http://www.slothmud.org/wiki/Difficulties:Valkyre#Newbatia)
+[http://www.slothmud.org/wiki/Difficulties:Valkyre#Newbatia](http://www.slothmud.org/wiki/Difficulties:Valkyre#Newbatia)
 
 Let me know of anything you might want to see differently.
 
@@ -192,17 +192,17 @@ Thanks for the assistance.
 
 <div class="post" data-post-id="33065" data-author="Oboe" data-date="2011-12-09T18:09:54+00:00" data-subject="Re: Runs and Area Difficulties">
 
-Strago, I really like this.  Thanks for writing it.
+Strago, I really like this. Thanks for writing it.
 
 </div>
 
 <div class="post" data-post-id="33067" data-author="Toxis" data-date="2011-12-10T00:31:31+00:00" data-subject="Re: Runs and Area Difficulties">
 
-Dude... SWEEET! :)~
+Dude... SWEEET! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">\~
 
 Wish we had this for every area.
 
--Toxis
+\-Toxis
 
 </div>
 
@@ -230,13 +230,13 @@ or are close but not exact.
 
 I would be interested in getting some feedback on my ratings for the burbalangs. I did not have a newbie character to run this area, and did not run it as a newbie, my numbers may be off.
 
-[<LINK_TEXT text="http://www.slothmud.org/wiki/Difficulti ... Burbalangs">http://www.slothmud.org/wiki/Difficulties:Valkyre#Burbalangs</LINK_TEXT>](http://www.slothmud.org/wiki/Difficulties:Valkyre#Burbalangs)
+[http://www.slothmud.org/wiki/Difficulties:Valkyre#Burbalangs](http://www.slothmud.org/wiki/Difficulties:Valkyre#Burbalangs)
 
 </div>
 
 <div class="post" data-post-id="33083" data-author="Atwell" data-date="2011-12-11T21:06:28+00:00" data-subject="Re: Runs and Area Difficulties">
 
-> ***Breeze* wrote:**
+> <strong>\*Breeze\* wrote:</strong>
 > this would probably be a good time to update the runs on the wiki
 > 
 > 
@@ -245,7 +245,7 @@ I would be interested in getting some feedback on my ratings for the burbalangs.
 > 
 > or are close but not exact.
 
-Hmmm.  I compared the runs against ones from my records (records do not include all areas), and that led to updates for these areas:
+Hmmm. I compared the runs against ones from my records (records do not include all areas), and that led to updates for these areas:
 
 Asheron
 

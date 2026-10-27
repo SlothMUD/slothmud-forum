@@ -32,13 +32,13 @@ Akasha
 
 <div class="post" data-post-id="14462" data-author="osric" data-date="2006-10-03T03:15:24+00:00" data-subject="">
 
-That bag of endless food is a great idea, even I would autoquest for that.  Another cool one would be a jewel or something that you can use to set a second lloyds beacon in effect.  A cloak you can use to stealth another character might rock too (ie hide them under your cloak).  An armbad or ring ribbon for clan (no stats just clan specific item), or any kinda vanity thing like that!
+That bag of endless food is a great idea, even I would autoquest for that. Another cool one would be a jewel or something that you can use to set a second lloyds beacon in effect. A cloak you can use to stealth another character might rock too (ie hide them under your cloak). An armbad or ring ribbon for clan (no stats just clan specific item), or any kinda vanity thing like that!
 
 </div>
 
 <div class="post" data-post-id="14463" data-author="Rynquald" data-date="2006-10-03T03:24:21+00:00" data-subject="">
 
-Endless food would be well worth doing an aq for, and as Os said, we still need clan clasps :)
+Endless food would be well worth doing an aq for, and as Os said, we still need clan clasps <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -50,7 +50,7 @@ A special container for the shards, like keychain for the keys or flux for the i
 
 <div class="post" data-post-id="14466" data-author="Gimlet" data-date="2006-10-03T03:34:49+00:00" data-subject="">
 
-i wouldn't mind a stock market :P
+i wouldn't mind a stock market <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 actually what I would really love to see is a store that sells supplies or trades eq, where the prices fluctuate according to supply and demand.
 
@@ -72,7 +72,7 @@ lil bumpin action b4 bed.
 
 Hum... what is the clan Clasps called?
 
-~DRAGONSWORN~
+\~DRAGONSWORN\~
 
 </div>
 
@@ -84,9 +84,10 @@ Oops, haven't checked the elite shop for a long time :)
 
 <div class="post" data-post-id="14481" data-author="Alberich" data-date="2006-10-03T13:43:21+00:00" data-subject="">
 
-Clan clasps have been ingame for months, just have to buy them:P[/quote:2cj1dxu4]
+> <strong>\*Splork\* wrote:</strong>
+> Clan clasps have been ingame for months, just have to buy them:P
 
-first i've heard of this.  Who do we have to see/how much they cost?
+first i've heard of this. Who do we have to see/how much they cost?
 
 </div>
 

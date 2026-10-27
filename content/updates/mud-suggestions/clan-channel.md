@@ -12,13 +12,13 @@ post_count: 16
 
 <div class="post" data-post-id="9500" data-author="Alberich" data-date="2005-11-13T15:09:05+00:00" data-subject="Clan channel">
 
-channels are cool, and clan channels are very cool.  however, one of the best things about channels, is going ld so people know you're dead.  any way we could get like a 'so-and-so has died!' message added to clan channel (far fetched, i know) or just at least have person leave channel when they drop link?
+channels are cool, and clan channels are very cool. however, one of the best things about channels, is going ld so people know you're dead. any way we could get like a 'so-and-so has died!' message added to clan channel (far fetched, i know) or just at least have person leave channel when they drop link?
 
 </div>
 
 <div class="post" data-post-id="9501" data-author="Autolycos" data-date="2005-11-13T19:33:21+00:00" data-subject="">
 
-i think thats a good idea.  i get alot of use out my are you dead pinger from ctalk leavers
+i think thats a good idea. i get alot of use out my are you dead pinger from ctalk leavers
 
 </div>
 
@@ -30,7 +30,7 @@ That feature of channels is basically a bug; I know you guys love it so I manage
 
 <div class="post" data-post-id="9503" data-author="Autolycos" data-date="2005-11-13T19:57:13+00:00" data-subject="">
 
-*crosses fingers*  quick someone distract KJ
+\*crosses fingers\* quick someone distract KJ
 
 </div>
 
@@ -42,7 +42,7 @@ Huh huh, nice weather today, isn't it? :P
 
 <div class="post" data-post-id="9505" data-author="Autolycos" data-date="2005-11-13T20:53:40+00:00" data-subject="">
 
-oh absolutely lovely,  have you seen the birds around here?  Norwegian Blues,  beautiful plumage.
+oh absolutely lovely, have you seen the birds around here? Norwegian Blues, beautiful plumage.
 
 </div>
 
@@ -54,21 +54,22 @@ I see Tennesy mountain goats... errrrrr... yes, nice birdies!
 
 <div class="post" data-post-id="9508" data-author="Weasel" data-date="2005-11-14T04:45:02+00:00" data-subject="">
 
-[img:1dutfh72]http://demon.twinflame.org/images/temp/ninjaseverywhere.jpg[/img:1dutfh72]
+![](http://demon.twinflame.org/images/temp/ninjaseverywhere.jpg)
 
 </div>
 
 <div class="post" data-post-id="9509" data-author="Autolycos" data-date="2005-11-14T04:57:58+00:00" data-subject="">
 
-you know...  i never get tired of seeing that...  I still think its friggin hilarious!  :twisted:
+you know... i never get tired of seeing that... I still think its friggin hilarious! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="9511" data-author="Argeos" data-date="2005-11-14T21:24:10+00:00" data-subject="">
 
-I see Tennesy mountain goats... errrrrr... yes, nice birdies![/quote:3j9ocs1e]
+> <strong>Krok wrote:</strong>
+> I see Tennesy mountain goats... errrrrr... yes, nice birdies!
 
-You`re seeing mountain goats in St-Petersburgs downtown ? Nice !
+You\`re seeing mountain goats in St-Petersburgs downtown ? Nice !
 
 I think it was your birthday last weekend......so HAPPY BIRTHDAY !
 
@@ -78,11 +79,13 @@ Argeos
 
 <div class="post" data-post-id="9526" data-author="Vixn" data-date="2005-11-16T06:43:13+00:00" data-subject="">
 
-You`re seeing mountain goats in St-Petersburgs downtown ? Nice ![/quote:2sa1lj8z]
+> <strong>Argeos wrote:</strong>
+> You\`re seeing mountain goats in St-Petersburgs downtown ? Nice !
 
 there aren't any mountain goats in St-Petersburg but proly polar bears are, I believe.
 
-I think it was your birthday last weekend......so HAPPY BIRTHDAY ![/quote:2sa1lj8z]
+> <strong>Argeos wrote:</strong>
+> I think it was your birthday last weekend......so HAPPY BIRTHDAY !
 
 mwahahaha!! you're damn right! happy birthday Krok!!
 
@@ -90,11 +93,15 @@ mwahahaha!! you're damn right! happy birthday Krok!!
 
 <div class="post" data-post-id="9529" data-author="Lacie" data-date="2005-11-16T10:56:12+00:00" data-subject="">
 
-You`re seeing mountain goats in St-Petersburgs downtown ? Nice ![/quote:29b5jq0j]
-
-there aren't any mountain goats in St-Petersburg but proly polar bears are, I believe.
-
-[/quote:29b5jq0j]
+> <strong>Vixn wrote:</strong>
+> > <strong>Argeos wrote:</strong>
+> > You\`re seeing mountain goats in St-Petersburgs downtown ? Nice !
+> 
+> 
+> 
+> 
+> 
+> there aren't any mountain goats in St-Petersburg but proly polar bears are, I believe.
 
 Is it truth, that they drink vodka?
 
@@ -118,13 +125,13 @@ Pretty difficult to articulate, huh? And now get ready for a translation.
 
 "Ohkroshka" means "oh baby!" 
 
- :D
+ <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="9538" data-author="kjartan" data-date="2005-11-16T18:44:48+00:00" data-subject="">
 
-You can get kvass in Texas at spots - there are a lot of russians there, I guess.  It seemed to me halfway between beer and coke.  I just drank it straight; can't say I enjoyed it.
+You can get kvass in Texas at spots - there are a lot of russians there, I guess. It seemed to me halfway between beer and coke. I just drank it straight; can't say I enjoyed it.
 
 </div>
 

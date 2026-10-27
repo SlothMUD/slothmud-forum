@@ -24,13 +24,13 @@ I now only have 625hp.
 
 What causes this loss? There are two theories...
 
-1,   The characters nat con is used to determine the returning hp's and because mine is 15 I loose hp's.
+1, The characters nat con is used to determine the returning hp's and because mine is 15 I loose hp's.
 
-2,   This theory which I believe was put forward by Medios, the game is programmed to remove a little hp automatically when you unshift.
+2, This theory which I believe was put forward by Medios, the game is programmed to remove a little hp automatically when you unshift.
 
 I need to know which one it is, because if it is infact the first theory, then I will be buying con points as 5x40... otherwise... I would be wasting my time.
 
-The easiest way to check this, is for somebody who is at least lvl 40 druid, with 18 [b:3j7j2mpw]NAT[/b:3j7j2mpw] con, shift dragon, unshift and then report back there hp before and after the shifting... If you could do that, it would be much appreciated.
+The easiest way to check this, is for somebody who is at least lvl 40 druid, with 18 <strong>NAT</strong> con, shift dragon, unshift and then report back there hp before and after the shifting... If you could do that, it would be much appreciated.
 
 </div>
 
@@ -40,7 +40,7 @@ It would seem to make sense that when shifted you only get your nat Con (or any 
 
 If you buy stats once you're 5x40, they become your new nat stats afaik (they aren't attached to eq for example, unless you get them as part of your avatar light), so presumably they would come through when shifted too. That's at least what I would imagine, but hey, I'm just a dumb tank.
 
-  :P
+ <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -52,7 +52,7 @@ no matter what your con is if you shift into somethin at max hps, then shift bac
 
 <div class="post" data-post-id="24351" data-author="jezer" data-date="2008-05-15T05:40:53+00:00" data-subject="">
 
-Thanks for clearing that up... :)
+Thanks for clearing that up... <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Ok, this is painful... because the difference between a full shift, and a shift return and then a shift is as much as 200hp off the total form!
 

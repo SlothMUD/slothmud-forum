@@ -34,7 +34,7 @@ to the OLC. Good Job but I'm still not upgrading till '06.
 
 Even though he's a code-warrior......
 
-I still blame Splork :twisted:
+I still blame Splork <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

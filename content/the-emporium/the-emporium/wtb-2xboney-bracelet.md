@@ -24,7 +24,7 @@ Also interesting on a Crimsion BLood Claw.
 
 Will pay good $$$$
 
-You can also catch me on-line as:  Neji or Fable
+You can also catch me on-line as: Neji or Fable
 
 </div>
 
@@ -42,7 +42,7 @@ might wanna try the right forum for it (emporium) and see if that helps..
 
 <div class="post" data-post-id="5995" data-author="guest" data-date="2005-05-05T14:35:59+00:00" data-subject="">
 
-Moved the topic to the right forum.   :)
+Moved the topic to the right forum. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

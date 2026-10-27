@@ -24,12 +24,12 @@ Anyone any idea why this isn't working?
 
 <div class="post" data-post-id="8749" data-author="12345" data-date="2005-09-20T10:32:43+00:00" data-subject="">
 
-From what I understood, neither char should be able to mem, since it only works for mages.  Only guess I would have is that perhaps bards can mem.
+From what I understood, neither char should be able to mem, since it only works for mages. Only guess I would have is that perhaps bards can mem.
 
 </div>
 
 <div class="post" data-post-id="8750" data-author="13" data-date="2005-09-20T12:09:06+00:00" data-subject="">
 
-Bard's may memorize the spells they share with the Mage class.  Your other character has no such skills.  This is why.
+Bard's may memorize the spells they share with the Mage class. Your other character has no such skills. This is why.
 
 </div>

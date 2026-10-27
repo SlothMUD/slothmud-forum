@@ -40,7 +40,7 @@ A run consists of me using 900 mana shifted (2300hp, -12ac, 7 attacks @ +26dam)
 
 Any eq I agree to pop, but is not paid for in full, remains my property to do with whatsoever I see fit.
 
-For Example, you want to pop gloves of the yellow rose, it's going to be about <.5 of a run. If I pop him first time, it's going to cost 1m, if it takes me 20 cycles it's going to cost, 3m.
+For Example, you want to pop gloves of the yellow rose, it's going to be about \<.5 of a run. If I pop him first time, it's going to cost 1m, if it takes me 20 cycles it's going to cost, 3m.
 
 Speak to Apprentice in game if you want me to try for something.
 
@@ -68,15 +68,15 @@ Ok.
 
 Kull shows his approval by clapping his small hands together.
 
-I'm awesome! :twisted:
+I'm awesome! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
-<688hp 149ma 125mv -1.8ac -2al 1324152700xp +67mr>
+\<688hp 149ma 125mv -1.8ac -2al 1324152700xp +67mr\>
 
 e
 
-Alas, you cannot go that way...[/color:2owxxc9n]
+Alas, you cannot go that way...
 
-Did I just walk into the wall? Maybe...  :oops:  :evil:
+Did I just walk into the wall? Maybe... <img src="/images/smilies/icon_redface.svg" alt=":oops:" title=":oops:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -112,7 +112,7 @@ Apprentice
 
 <div class="post" data-post-id="27085" data-author="jezer" data-date="2008-11-08T09:09:22+00:00" data-subject="">
 
-Just to clarify for the priority people... prices haven't changed, I'm just changing the system for all those who want stuff but don't want to pay... :twisted:
+Just to clarify for the priority people... prices haven't changed, I'm just changing the system for all those who want stuff but don't want to pay... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 Might I add... within 24hrs one priority person had all the cp's to the tome of the ancients and another a potion of mystical powers. There is a chance you could end up paying more... but so far turn around on orders has been less than 24hrs... subject to demand, fast repop, and random numbers of course!
 
@@ -142,19 +142,20 @@ The politics of this are already starting to threaten what was always just meant
 
 <div class="post" data-post-id="27100" data-author="Tap" data-date="2008-11-09T22:49:17+00:00" data-subject="">
 
-Iâ€™m finding â€œcontemptâ€ amongst other players for my new found wealth, and because you are doing something for someone else... there is this power thing going on... and it makes people desperate.
+> <strong>jezer wrote:</strong>
+> Iâ€™m finding â€œcontemptâ€ amongst other players for my new found wealth, and because you are doing something for someone else... there is this power thing going on... and it makes people desperate.
+> 
+> 
+> 
+> People I didnâ€™t think too much of have proved to be great and fair customers, and Iâ€™ll treat them in the same way... other people who always seemed to be the people who helped others and I thought were legends in a morality sense, can actually be quite demanding and envious.
 
-People I didnâ€™t think too much of have proved to be great and fair customers, and Iâ€™ll treat them in the same way... other people who always seemed to be the people who helped others and I thought were legends in a morality sense, can actually be quite demanding and envious.
-
-[/quote:1dux98k1]
-
-[img:1dux98k1]http://www.sherv.net/cm/emo/laughing/crying.gif[/img:1dux98k1]
+![](http://www.sherv.net/cm/emo/laughing/crying.gif)
 
 </div>
 
 <div class="post" data-post-id="27101" data-author="jezer" data-date="2008-11-09T22:52:22+00:00" data-subject="">
 
-Did daddy hit you again Tap?  :twisted:
+Did daddy hit you again Tap? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -162,13 +163,13 @@ Did daddy hit you again Tap?  :twisted:
 
 Hey I like you, even though you are a pompous ass.
 
- 8)
+ <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="27108" data-author="*juggleblood*" data-date="2008-11-10T06:23:48+00:00" data-subject="">
 
-The rise of the piasa has been the death of eq groups. Popping eq for people for coins just accentuates that point I suppose. I don't see a problem with it tho. People been cycling eq for sale for a long time. I imagine once you get enough coins for your vaults etc, you'll get bored with it. So until then there will just be some happy players who picked up some good eq at a decent price. It's a win win.  Big eq groups were really doomed from the moment they put in 2 classes that can bring so much force to bear against a single mob. People moan about druids being overpowered, but I don't see it. Druid and Necro are challenging classes.
+The rise of the piasa has been the death of eq groups. Popping eq for people for coins just accentuates that point I suppose. I don't see a problem with it tho. People been cycling eq for sale for a long time. I imagine once you get enough coins for your vaults etc, you'll get bored with it. So until then there will just be some happy players who picked up some good eq at a decent price. It's a win win. Big eq groups were really doomed from the moment they put in 2 classes that can bring so much force to bear against a single mob. People moan about druids being overpowered, but I don't see it. Druid and Necro are challenging classes.
 
 </div>
 
@@ -178,27 +179,29 @@ laff
 
 it has nothing to do with necros or druwids or whoever
 
-just remove mare, and welcome back eq groups :)
+just remove mare, and welcome back eq groups <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="27114" data-author="brady" data-date="2008-11-10T12:09:56+00:00" data-subject="">
 
-laff
+> <strong>Sind wrote:</strong>
+> laff
+> 
+> it has nothing to do with necros or druwids or whoever
+> 
+> just remove mare, and welcome back eq groups <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-it has nothing to do with necros or druwids or whoever
-
-just remove mare, and welcome back eq groups :)[/quote:1tsf906u]
-
-Who cares if someone wants to make 3 runs at something to get it dead?  It is boring and a little silly.  Coins are about as easy to get as xp though so have at it.  I wish there was such an enterprise when I didn't know how to play.
+Who cares if someone wants to make 3 runs at something to get it dead? It is boring and a little silly. Coins are about as easy to get as xp though so have at it. I wish there was such an enterprise when I didn't know how to play.
 
 </div>
 
 <div class="post" data-post-id="27115" data-author="brady" data-date="2008-11-10T12:18:12+00:00" data-subject="">
 
-Big eq groups were really doomed from the moment they put in 2 classes that can bring so much force to bear against a single mob. [/quote:33ydq4v8]
+> <strong>juggleblood wrote:</strong>
+> Big eq groups were really doomed from the moment they put in 2 classes that can bring so much force to bear against a single mob.
 
-How many years ago was that?  I don't think that's the problem.
+How many years ago was that? I don't think that's the problem.
 
 </div>
 
@@ -212,27 +215,29 @@ Damn, did someone teach Brady how to play? :/
 
 doubt it
 
-*hey krok* =)
+\*hey krok\* =)
 
 </div>
 
 <div class="post" data-post-id="27124" data-author="brady" data-date="2008-11-10T22:27:20+00:00" data-subject="">
 
-Damn, did someone teach Brady how to play? :/[/quote:6oq35d31]
+> <strong>Krok wrote:</strong>
+> Damn, did someone teach Brady how to play? :/
 
-Go kick a bear.  Heeeey Widow :)
+Go kick a bear. Heeeey Widow <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="27126" data-author="jezer" data-date="2008-11-10T23:22:20+00:00" data-subject="">
 
-Brady, I've popped the Green Glass Jar of Bubbly Fluids like you asked, see me in game for pickup. Good thing you got me to pop it to... I don't think you could have taken him  :twisted:
+Brady, I've popped the Green Glass Jar of Bubbly Fluids like you asked, see me in game for pickup. Good thing you got me to pop it to... I don't think you could have taken him <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="27128" data-author="brady" data-date="2008-11-10T23:37:33+00:00" data-subject="">
 
-Brady, I've popped the Green Glass Jar of Bubbly Fluids like you asked, see me in game for pickup. Good thing you got me to pop it to... I don't think you could have taken him  :twisted:[/quote:3hnm9r5y]
+> <strong>jezer wrote:</strong>
+> Brady, I've popped the Green Glass Jar of Bubbly Fluids like you asked, see me in game for pickup. Good thing you got me to pop it to... I don't think you could have taken him <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 uhhh...what?
 
@@ -246,7 +251,7 @@ Haaaai, Sind! I can't belive you are playing Sloth again :)
 
 <div class="post" data-post-id="27132" data-author="Krok" data-date="2008-11-11T02:22:32+00:00" data-subject="">
 
-*believe.. where's the edit button? oO
+\*believe.. where's the edit button? oO
 
 </div>
 
@@ -258,7 +263,7 @@ Pobody's Nerfect.
 
 <div class="post" data-post-id="27204" data-author="jezer" data-date="2008-11-16T12:29:17+00:00" data-subject="">
 
-Looking for Xev, Fable and Kull and more work... preferably nothing multirun at the moment... I've just come off 31 cycles of a 2 run mob... need a little break from bigger work for a bit.  :roll:
+Looking for Xev, Fable and Kull and more work... preferably nothing multirun at the moment... I've just come off 31 cycles of a 2 run mob... need a little break from bigger work for a bit. <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -266,7 +271,7 @@ Looking for Xev, Fable and Kull and more work... preferably nothing multirun at 
 
 A few questions I kept getting asked...
 
-[b:3tbv48yn]How much would it cost to pop .... ? It's still the same.[/b:3tbv48yn]
+<strong>How much would it cost to pop .... ? It's still the same.</strong>
 
 .25 of a run = 75k per cycle (min 500k)
 
@@ -284,15 +289,15 @@ etc...
 
 Payment is only ever payable, if I deliver the item.
 
-[b:3tbv48yn]How much to forge Ars Magica?[/b:3tbv48yn]
+<strong>How much to forge Ars Magica?</strong>
 
 Pick one cp, rates are as above, then I'll do another cp afterward etc.
 
-[b:3tbv48yn]Can you withdraw your auction and sell the item to me?[/b:3tbv48yn]
+<strong>Can you withdraw your auction and sell the item to me?</strong>
 
 No, and count yourself lucky if I ever deal with you again...
 
-[b:3tbv48yn]Can you pop me item... blah blah... no coins... boo hoo... your expensive![/b:3tbv48yn]
+<strong>Can you pop me item... blah blah... no coins... boo hoo... your expensive!</strong>
 
 Sure I'll pop your item, it's going on the block.
 
@@ -312,7 +317,7 @@ Thanks to all the good customers I've delt with, I'm still enjoying it.
 
 Ok so I tried Joraine... and he's not too bad, trouble is a few rounds later, when all his mates have rocked up...
 
-<1177hp 203ma 200mv>
+\<1177hp 203ma 200mv\>
 
 You brutally massacre King Joraine with your beat.
 
@@ -370,7 +375,7 @@ You stagger but manage to keep your feet.
 
 You wish that your wounds would stop BLEEDING that much!
 
-<96hp 208ma 200mv>
+\<96hp 208ma 200mv\>
 
 So no Joraine... You'd need two people. One to piasa Joraine, with a nightmare over multiple runs, and another lackie to jump in there, toss a guard south so the piasa can eat him outside.
 
@@ -380,7 +385,8 @@ Or you could lead a group... and get your own crap... now there's an idea.
 
 <div class="post" data-post-id="27455" data-author="Yinao" data-date="2008-12-15T02:08:16+00:00" data-subject="">
 
-Or you could lead a group... and get your own crap... now there's an idea.[/quote:1888czuw]
+> <strong>jezer wrote:</strong>
+> Or you could lead a group... and get your own crap... now there's an idea.
 
 Can you really say that since you pretty much prostituted yourself out to pop the eq for people in the first place?
 
@@ -406,7 +412,7 @@ I'll consider doing specific work for people if they want, but probably on a les
 
 <div class="post" data-post-id="27459" data-author="Mosaix" data-date="2008-12-15T15:26:37+00:00" data-subject="">
 
-Maybe stfu already.  Pop stuff for coins or dont.
+Maybe stfu already. Pop stuff for coins or dont.
 
 </div>
 
@@ -420,7 +426,7 @@ Anyone that can identify the relatively few mobs that are impossible from the dr
 
 <div class="post" data-post-id="27495" data-author="Evergreen" data-date="2008-12-18T10:25:54+00:00" data-subject="">
 
-Joraine is 2man pretty easy - Shival and Evergreen took him down few times with not much cf's :) need a tosser and a body and a blast
+Joraine is 2man pretty easy - Shival and Evergreen took him down few times with not much cf's <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> need a tosser and a body and a blast
 
 </div>
 
@@ -430,6 +436,6 @@ Whats up your ass Jezer ?
 
 I didnt ask for any favours. 
 
-You say you are soloing this and that for money, so you cant solo the mob i asked for - no biggie,  i just thought you were stronger, possibly  since you were strutting this and that, i hope i  didnt hurt your pride or anything.
+You say you are soloing this and that for money, so you cant solo the mob i asked for - no biggie, i just thought you were stronger, possibly since you were strutting this and that, i hope i didnt hurt your pride or anything.
 
 </div>

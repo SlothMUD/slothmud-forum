@@ -12,9 +12,9 @@ post_count: 9
 
 <div class="post" data-post-id="9221" data-author="kjartan" data-date="2005-10-27T13:52:28+00:00" data-subject="who additions">
 
-We've received some "idea" requests to let you do a who by class.  That feature has actually been there all along, although I didn't know it until I looked at the code.  I rewrote the help for "who" so that the feature is now documented.
+We've received some "idea" requests to let you do a who by class. That feature has actually been there all along, although I didn't know it until I looked at the code. I rewrote the help for "who" so that the feature is now documented.
 
-Also, I have added "clan who" which lists everybody in your clan who is logged on.  (This was also a request from the ideas file.)
+Also, I have added "clan who" which lists everybody in your clan who is logged on. (This was also a request from the ideas file.)
 
 </div>
 
@@ -44,9 +44,12 @@ Thx good idea... Maybe add command 'friends who'? Many ppl got friends list, but
 
 <div class="post" data-post-id="9266" data-author="firebrand" data-date="2005-10-28T09:33:25+00:00" data-subject="Re: who additions">
 
-We've received some "idea" requests to let you do a who by class.  That feature has actually been there all along, although I didn't know it until I looked at the code.  I rewrote the help for "who" so that the feature is now documented.
-
-Also, I have added "clan who" which lists everybody in your clan who is logged on.  (This was also a request from the ideas file.)[/quote:qq5dp9gz]
+> <strong>\*kjartan\* wrote:</strong>
+> We've received some "idea" requests to let you do a who by class. That feature has actually been there all along, although I didn't know it until I looked at the code. I rewrote the help for "who" so that the feature is now documented.
+> 
+> 
+> 
+> Also, I have added "clan who" which lists everybody in your clan who is logged on. (This was also a request from the ideas file.)
 
 thx for reading the ideas files, guys.
 
@@ -68,6 +71,6 @@ I can do some sort of "friends who", sure.
 
 <div class="post" data-post-id="9307" data-author="Bazilus" data-date="2005-10-29T18:04:25+00:00" data-subject="">
 
-*bow*
+\*bow\*
 
 </div>

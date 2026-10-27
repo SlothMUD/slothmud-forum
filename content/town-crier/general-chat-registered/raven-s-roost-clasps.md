@@ -12,8 +12,8 @@ post_count: 3
 
 <div class="post" data-post-id="34246" data-author="Magi" data-date="2013-04-19T04:14:21+00:00" data-subject="Raven&#x27;s Roost clasps">
 
-> **Quote:**
-> 1. Regarding The Dragon Emblem and the Ruby Spider Brooch:
+> <strong>Quote:</strong>
+> 1\. Regarding The Dragon Emblem and the Ruby Spider Brooch:
 > 
 > 
 > 
@@ -33,7 +33,7 @@ post_count: 3
 > 
 > 
 > 
-> - Neptune
+> \- Neptune
 
 Good fix, it was kind of funny to have multiple dragon emblems equipped. 
 
@@ -77,26 +77,26 @@ number of items that either don't appear on the eq list, haven't been loaded
 
 and identified yet, or both.
 
--Neptune
+\-Neptune
 
 </div>
 
 <div class="post" data-post-id="34248" data-author="Magi" data-date="2013-04-19T21:56:41+00:00" data-subject="Re: Raven&#x27;s Roost clasps">
 
-> ***Neptune* wrote:**
+> <strong>\*Neptune\* wrote:</strong>
 > For example, what good would shield of stolen souls be if you could just apply UC to any shield?
 
 Clasp bonuses stack with whatever they are placed on; a brooch on a shield of stolen souls would be worth +2 UC.
 
-The real risk might be obsoleting drachma gear.  If you add so much undead control to  the game that no drachma items are required to cap it, then what is the point of the drachma gear? :)
+The real risk might be obsoleting drachma gear. If you add so much undead control to the game that no drachma items are required to cap it, then what is the point of the drachma gear? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-As necro 2nd, I currently need either the tier 3 Undead Control rune, a single  drachma item, or a new eq slot/clasp in order to hit my cap.  I'm not sure what the situation is for primes, who have higher caps but also can access a few prime-only options.
+As necro 2nd, I currently need either the tier 3 Undead Control rune, a single drachma item, or a new eq slot/clasp in order to hit my cap. I'm not sure what the situation is for primes, who have higher caps but also can access a few prime-only options.
 
 Also, I'm not certain if my cap will increase between 26 avatar and 40 avatar.
 
-I forged your blade this afternoon.  It looks fancy.
+I forged your blade this afternoon. It looks fancy.
 
-The Blade of Eternal Damnation..It glows red! ..It emits a faint humming sound!  (slices, allows deathblow, no obvious proc)
+The Blade of Eternal Damnation..It glows red! ..It emits a faint humming sound! (slices, allows deathblow, no obvious proc)
 
 You feel informed:
 
@@ -110,13 +110,13 @@ Damage Dice is '3D6'
 
 Can affect you as:
 
-    Affects: HITROLL by 2
+ Affects: HITROLL by 2
 
-    Affects: DAMROLL by 2
+ Affects: DAMROLL by 2
 
-    Affects: CON by 1
+ Affects: CON by 1
 
-    Affects: REGEN_HP by 2
+ Affects: REGEN\_HP by 2
 
 Only those who are at least novice avatars may use this item.
 

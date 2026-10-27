@@ -32,7 +32,7 @@ Whatta is right, take this evil from us. It's already bringing out the dark side
 
 <div class="post" data-post-id="38713" data-author="Sam" data-date="2018-03-22T19:58:10+00:00" data-subject="Re: We need to talk about reboots...">
 
-+1
+\+1
 
 i agree with gorka 
 
@@ -42,11 +42,11 @@ i agree with gorka
 
 <div class="post" data-post-id="38714" data-author="Teron" data-date="2018-03-23T16:22:51+00:00" data-subject="Re: We need to talk about reboots...">
 
-I wasn't aware *all* eq was being loaded on crashes/reboots, I did locate some cps, but recently they stopped loading.
+I wasn't aware \*all\* eq was being loaded on crashes/reboots, I did locate some cps, but recently they stopped loading.
 
-However, the point of the thread I started was to keep the eq that *was already on the mob* during the crash/reboot. This was done half-assedly: not by reloading it 100%, but by giving it another chance to load - which is a lot less.
+However, the point of the thread I started was to keep the eq that \*was already on the mob\* during the crash/reboot. This was done half-assedly: not by reloading it 100%, but by giving it another chance to load - which is a lot less.
 
-Practically, I agree that no *new* eq should load on crashes/reboots - just reload the one already in use at the time of the crash/reboot.
+Practically, I agree that no \*new\* eq should load on crashes/reboots - just reload the one already in use at the time of the crash/reboot.
 
 Thank you.
 
@@ -54,6 +54,6 @@ Thank you.
 
 <div class="post" data-post-id="38725" data-author="Driven" data-date="2018-04-09T16:52:26+00:00" data-subject="Re: We need to talk about reboots...">
 
-It would appear that the gravy train is over.  This morning had a manual reboot (i.e. not crash) and I couldn't find a single pop... of course that's not proof, but that's how it appears.
+It would appear that the gravy train is over. This morning had a manual reboot (i.e. not crash) and I couldn't find a single pop... of course that's not proof, but that's how it appears.
 
 </div>

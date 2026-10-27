@@ -20,7 +20,7 @@ Is all I get ??am I toast in subpalace?
 
 <div class="post" data-post-id="21260" data-author="slobe" data-date="2007-11-10T05:36:44+00:00" data-subject="">
 
-I ment to name post mud crashed or* is it me. Damn typos
+I ment to name post mud crashed or\* is it me. Damn typos
 
 </div>
 
@@ -64,11 +64,11 @@ while you're waiting, please vote.. as ironic as that may sound.
 
 <div class="post" data-post-id="22084" data-author="Toxis" data-date="2008-01-20T19:59:16+00:00" data-subject="">
 
-The Archmage Lazaren shouts across the land, "My minions have reported your plots to invade my homeland!  Hah!  You think me a fool!  You think me weak!  Ah, but I am smarter than you!  I have taken hostage of your server, and the people controlling it...
+The Archmage Lazaren shouts across the land, "My minions have reported your plots to invade my homeland! Hah! You think me a fool! You think me weak! Ah, but I am smarter than you! I have taken hostage of your server, and the people controlling it...
 
 ...now if I can only break the codes so that I can make myself more powerful..."
 
-The archmage Lazaren utters the words, 'knock'.... :)
+The archmage Lazaren utters the words, 'knock'.... <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -76,7 +76,7 @@ The archmage Lazaren utters the words, 'knock'.... :)
 
 Ooh, Rita is back!?
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -110,7 +110,7 @@ p.s. I voted already
 
 <div class="post" data-post-id="22100" data-author="Evergreen" data-date="2008-01-21T16:33:21+00:00" data-subject="">
 
-any soon time mud coming up? Or its special vacation for addicts so they get more addicted? :)
+any soon time mud coming up? Or its special vacation for addicts so they get more addicted? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -122,7 +122,7 @@ still down? wtf 9 hours on a holiday. good one.
 
 <div class="post" data-post-id="22105" data-author="Assirian" data-date="2008-01-21T17:43:23+00:00" data-subject="">
 
-is it a new record of the time sloth down? Have it ever lying so long? :)
+is it a new record of the time sloth down? Have it ever lying so long? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -134,7 +134,7 @@ Posted: Jan 20, 2008 - 04:52 PM
 
 Latest Post:
 
-Posted: Jan 21, 2008 - 03:43 PM    
+Posted: Jan 21, 2008 - 03:43 PM 
 
 Coming upto the 24hour mark ... last time this happened (and I only remember one such time) they re-opened SlothII for us to have a play on.
 
@@ -146,29 +146,40 @@ Any chance of something similar so we can whinge to each other and start rumors 
 
 I blame Toxis, he's overloaded the server with all his alt's in a big come back.
 
-BTW, welcome back buddy. :roll:
+BTW, welcome back buddy. <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="22108" data-author="Alberich" data-date="2008-01-21T17:51:41+00:00" data-subject="">
 
-Any chance of something similar so we can whinge to each other and start rumors that this is an unexpected launch of SlothIV and all our chars will need restarting?[/quote:2028addf]
+> <strong>Thraxas wrote:</strong>
+> Any chance of something similar so we can whinge to each other and start rumors that this is an unexpected launch of SlothIV and all our chars will need restarting?
 
 as much fun as that might be, I kinda doubt it
 
-might make me start playing again if they did though :)
+might make me start playing again if they did though <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="22109" data-author="Thraxas" data-date="2008-01-21T17:56:12+00:00" data-subject="Sloth IV Launch">
 
-Any chance of something similar so we can whinge to each other and start rumors that this is an unexpected launch of SlothIV and all our chars will need restarting?[/quote:2jpi7bpx]
+> <strong>Alberich wrote:</strong>
+> > <strong>Thraxas wrote:</strong>
+> > Any chance of something similar so we can whinge to each other and start rumors that this is an unexpected launch of SlothIV and all our chars will need restarting?
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> as much fun as that might be, I kinda doubt it
+> 
+> 
+> 
+> might make me start playing again if they did though <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-as much fun as that might be, I kinda doubt it
-
-might make me start playing again if they did though :)[/quote:2jpi7bpx]
-
-ok lets start the rumor here instead then :)
+ok lets start the rumor here instead then <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -176,7 +187,7 @@ ok lets start the rumor here instead then :)
 
 Give 'em a couple hours to get it fixed.
 
---goose
+\--goose
 
 </div>
 
@@ -192,7 +203,7 @@ Brian
 
 <div class="post" data-post-id="22114" data-author="Clink" data-date="2008-01-21T20:14:53+00:00" data-subject="">
 
-Confirmed.  There is an issue and Jake is working with our hosting company to fix it.  We'll get back up as soon as it is resolved.
+Confirmed. There is an issue and Jake is working with our hosting company to fix it. We'll get back up as soon as it is resolved.
 
 Clink
 
@@ -208,7 +219,7 @@ Hard disk failure? Will that affect my char in anyway? Just asking thanks
 
 Toxis, Malek, Addict, Conquest, Toxic, Unicorn, Darkmyth, Stelios, and Everist charge at the server and attack with their +5 swords of destroy hardrives...RAAAAAAWWWRRR!!!!!!
 
-Just kiddin, I'm goin through withdraws... when do these shakes stop? :P
+Just kiddin, I'm goin through withdraws... when do these shakes stop? <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 Two weeks back online, and now mud goes down. 
 
@@ -216,7 +227,7 @@ Two weeks back online, and now mud goes down.
 
 Thanks for working so hard on the mud and trying to get it back online.
 
--Toxis/Addict/Brad
+\-Toxis/Addict/Brad
 
 </div>
 
@@ -228,19 +239,20 @@ It may be a couple more hours.
 
 Love,
 
---goose
+\--goose
 
 </div>
 
 <div class="post" data-post-id="22119" data-author="jezer" data-date="2008-01-21T22:28:59+00:00" data-subject="">
 
-Toxis, Malek, Addict, Conquest, Toxic, Unicorn, Darkmyth, Stelios, and Everist charge at the server and attack with their +5 swords of destroy hardrives...RAAAAAAWWWRRR!!!!!![/quote:o1tnpd0n]
+> <strong>Toxis wrote:</strong>
+> Toxis, Malek, Addict, Conquest, Toxic, Unicorn, Darkmyth, Stelios, and Everist charge at the server and attack with their +5 swords of destroy hardrives...RAAAAAAWWWRRR!!!!!!
 
 Server's excuse when it comes back online...
 
-1) Sanct dropped
+1\) Sanct dropped
 
-2) Accidently Running in regen
+2\) Accidently Running in regen
 
 My all time favourites... yeah I run with stabbers a lot...
 
@@ -248,13 +260,13 @@ My all time favourites... yeah I run with stabbers a lot...
 
 <div class="post" data-post-id="22120" data-author="*Krom*" data-date="2008-01-21T23:54:32+00:00" data-subject="">
 
-pfile backups are good till almost 1am lastnight.  Jake suspects hard drive failure, hopefully not much longer for the hosting company to fix.
+pfile backups are good till almost 1am lastnight. Jake suspects hard drive failure, hopefully not much longer for the hosting company to fix.
 
 </div>
 
 <div class="post" data-post-id="22123" data-author="alias" data-date="2008-01-22T00:54:31+00:00" data-subject="">
 
-On a plus side this might be the cause of the small bits of lag that come and go. if the subsystem was failing then its [u:2x10kb7o]Possible[/u:2x10kb7o] we will be lag free again.
+On a plus side this might be the cause of the small bits of lag that come and go. if the subsystem was failing then its Possible we will be lag free again.
 
 Alias
 
@@ -274,7 +286,7 @@ Check back in the morning.
 
 Love,
 
---goose
+\--goose
 
 </div>
 
@@ -288,9 +300,9 @@ Nice to see Jake around...
 
 "The Sloth server has experienced hardware failures and will be repaired
 
-the morning some time.  I apologize for the troubles.
+the morning some time. I apologize for the troubles.
 
---
+\--
 
 Jake"
 
@@ -302,7 +314,7 @@ Who's goose btw? Which imm is this that we are hearing from?
 
 You don't know who Goose is? shame on you, since mud is down, go back to web's wizlist and see if that refreshes your memory...
 
-Goose -- *Greater God* -- "The Chairman of the Board"
+Goose -- \*Greater God\* -- "The Chairman of the Board"
 
 heehee
 
@@ -314,7 +326,7 @@ Virus
 
 I noticed that the name above Goose's is Wilde...
 
-Which makes me wonder... is this all just a [b:250ik4ei]Wilde Goose[/b:250ik4ei] Chase?  :twisted:
+Which makes me wonder... is this all just a <strong>Wilde Goose</strong> Chase? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -326,7 +338,7 @@ clearly people are getting desperate...
 
 <div class="post" data-post-id="22135" data-author="jezer" data-date="2008-01-22T06:29:33+00:00" data-subject="">
 
-Ah! so that's why your avatar is a weasel!!!  :twisted:
+Ah! so that's why your avatar is a weasel!!! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -356,7 +368,7 @@ Cheers
 
 Any news or e1 asleep ?
 
- :shock:
+ <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -372,15 +384,15 @@ need my fix ... must mud must mud must mud ... gah!!!
 
 Test of willpower ?
 
-  8)
+ <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="22142" data-author="nomic" data-date="2008-01-22T13:28:41+00:00" data-subject="">
 
-This is really exciting....it's more than morning now...it's afternoon right?  not that i can complain....
+This is really exciting....it's more than morning now...it's afternoon right? not that i can complain....
 
-but clicking on the connect...and waiting to see CONNECTED and then waiting to see all the ***** is really spuring me on! 
+but clicking on the connect...and waiting to see CONNECTED and then waiting to see all the \*\*\*\*\* is really spuring me on! 
 
 too bad....i'm addicted! (Suffering from withdrawal symptoms already!)
 
@@ -390,9 +402,9 @@ too bad....i'm addicted! (Suffering from withdrawal symptoms already!)
 
 I have to admit, I must be a sloth addict... I've found it really hard to come home from work and to not be able to play sloth. It's my "me time" for the day, and I really look forward to it. I read old posts on the crier, I studied the eq list... It's all been really quite sad. 
 
-I tried to figure out from crier posts, why most of the DoW clan members seem to have a chip on there shoulder about something that happened with some old player 8 years ago... and who the heck are Alberich and 13, and who do they currently play at all? Why is autolycos such a nasty piece of work, or is he just a faker, and is he in fact married to weasel? Where the heck is splork? If blaster went back to the army for 3 years in 2005, isn't he out now? Oh my goodness... the crier is a regular gossip magazine.  
+I tried to figure out from crier posts, why most of the DoW clan members seem to have a chip on there shoulder about something that happened with some old player 8 years ago... and who the heck are Alberich and 13, and who do they currently play at all? Why is autolycos such a nasty piece of work, or is he just a faker, and is he in fact married to weasel? Where the heck is splork? If blaster went back to the army for 3 years in 2005, isn't he out now? Oh my goodness... the crier is a regular gossip magazine. 
 
-I even checked out DSL and MUME to try and figure out why people vote for those MUD's... I honestly have no idea... maybe there is something I'm not seeing in them... But I thought they were...  :!:
+I even checked out DSL and MUME to try and figure out why people vote for those MUD's... I honestly have no idea... maybe there is something I'm not seeing in them... But I thought they were... <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom">
 
 Playing sloth is a far better option than reading most of the crier... please, come back soon!
 
@@ -406,7 +418,7 @@ I had'nt realized how addicted I've become til this. It's given me a great chanc
 
 <div class="post" data-post-id="22146" data-author="13" data-date="2008-01-22T14:40:13+00:00" data-subject="">
 
-Cocaine is my main character Jezer.  Alberich plays Alberich and Althalus.
+Cocaine is my main character Jezer. Alberich plays Alberich and Althalus.
 
 Chips because crap happened and we cared.
 
@@ -436,9 +448,12 @@ IMHO recession is unavoidable, and perhaps the Fed would be better off just sayi
 
 <div class="post" data-post-id="22149" data-author="Thraxas" data-date="2008-01-22T15:58:49+00:00" data-subject="">
 
-AT least there's the crashing stockmarket to watch in the meantime ..omg what a mess, and the Fed dropped the base rate down to 3.5% wow are they panicking or what? 
-
-IMHO recession is unavoidable, and perhaps the Fed would be better off just saying suck.it.up. to all those subprime borrowers and lenders.[/quote:2wezodw7]
+> <strong>Weasel wrote:</strong>
+> AT least there's the crashing stockmarket to watch in the meantime ..omg what a mess, and the Fed dropped the base rate down to 3.5% wow are they panicking or what? 
+> 
+> 
+> 
+> IMHO recession is unavoidable, and perhaps the Fed would be better off just saying suck.it.up. to all those subprime borrowers and lenders.
 
 It'd be nice if the rest of the world wasn't also being dragged down by your governments weak managment of the economy, but then I suppose its unavoidable with the US being the only world super power right now. Roll on China becoming a second superpower to rival USA ... it even has a civil rights record as bad as the USA to boot so it can't be long now ... 
 
@@ -448,11 +463,11 @@ oops am I getting tetchy due to my withdrawal symptoms ... bring back Sloth!
 
 <div class="post" data-post-id="22150" data-author="Mosaix" data-date="2008-01-22T16:34:02+00:00" data-subject="">
 
-Im currently working on the process of winning a audition with an orchestra in Japan.  The U.S. orchestra jobs are rough, and with house, stocks and everything else.  I can make more money and have a better life in a foriegn country as it is right now.  And i see it only getting better earning Yen as time goes on with the current economy.
+Im currently working on the process of winning a audition with an orchestra in Japan. The U.S. orchestra jobs are rough, and with house, stocks and everything else. I can make more money and have a better life in a foriegn country as it is right now. And i see it only getting better earning Yen as time goes on with the current economy.
 
-I tried playing DSL, logged in made a char.  They stick you in this room with a rope, and it instructs you to pull it every 30 seconds until an immortal lets you enter the game and start playing.  I waited and pulled the rope about 10 mins before I quit.  
+I tried playing DSL, logged in made a char. They stick you in this room with a rope, and it instructs you to pull it every 30 seconds until an immortal lets you enter the game and start playing. I waited and pulled the rope about 10 mins before I quit. 
 
-I have no idea why 92 people who were lucky enough to be allowed on playing it, the screen sucked as it was.  Sloth 3 should seriously advertise or something.
+I have no idea why 92 people who were lucky enough to be allowed on playing it, the screen sucked as it was. Sloth 3 should seriously advertise or something.
 
 Mosaix
 
@@ -474,9 +489,9 @@ SLOTH MUD PLAY MUD SLOTH MUD PLAY MUD SLOTH
 
 SLLOOOOOOOOOOOOOOOOOOOOOOTTTTHHH!!!!!!!!!!!!!!!!
 
-:)~
+<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">\~
 
--Addict
+\-Addict
 
 </div>
 
@@ -488,15 +503,15 @@ started a char on one of the other tmc top 10 to while away the wait to sloths r
 
 <div class="post" data-post-id="22159" data-author="Alberich" data-date="2008-01-22T19:10:12+00:00" data-subject="">
 
-since we're rehashing all the tired old mud addict jokes anyways, why not just c&p from one of the threads from the last time something like this happened and save yourselves the typing?
+since we're rehashing all the tired old mud addict jokes anyways, why not just c\&p from one of the threads from the last time something like this happened and save yourselves the typing?
 
-[url:2tcd3fck]http://www.slothmud.org/index.php?name=PNphpBB2&file=viewtopic&t=1858&postdays=0&postorder=dec&highlight=mud&start=75[/url:2tcd3fck]
+http://www.slothmud.org/index.php?name=PNphpBB2&file=viewtopic&t=1858&postdays=0&postorder=dec&highlight=mud&start=75
 
 </div>
 
 <div class="post" data-post-id="22160" data-author="Apollo" data-date="2008-01-22T19:17:53+00:00" data-subject="">
 
-I come back to say "Hi" and the mud is down.  Oh well, guess its back to work for me.  Hope all of you are doing well.
+I come back to say "Hi" and the mud is down. Oh well, guess its back to work for me. Hope all of you are doing well.
 
 </div>
 
@@ -528,11 +543,12 @@ and thanks to Pat... I think that hamster died.....
 
 Now I know how Robinson Crusoe felt, although I'm not going anywhere near good man friday.
 
-[quote:9w8w6wbj]I tried playing DSL, logged in made a char. They stick you in this room with a rope, and it instructs you to pull it every 30 seconds until an immortal lets you enter the game and start playing. I waited and pulled the rope about 10 mins before I quit.[/quote:9w8w6wbj]
+> <strong>Quote:</strong>
+> I tried playing DSL, logged in made a char. They stick you in this room with a rope, and it instructs you to pull it every 30 seconds until an immortal lets you enter the game and start playing. I waited and pulled the rope about 10 mins before I quit.
 
 Yeah, I tried DSL too, pull rope - wait 30 secs... pull rope again, and i'm in. Guess they don't llike Kluriks!
 
-You could always ask Toxis if he's tried DSL, prob got 10 alts on it  already. Mebbe he'll let you have one.
+You could always ask Toxis if he's tried DSL, prob got 10 alts on it already. Mebbe he'll let you have one.
 
 </div>
 
@@ -544,13 +560,14 @@ Update: It seems the backup files were somewhat corrupt as well, so characters b
 
 <div class="post" data-post-id="22170" data-author="Tap" data-date="2008-01-22T22:29:35+00:00" data-subject="">
 
-Nooooooooooooooooooooo :evil:  :evil:  :evil:
+Nooooooooooooooooooooo <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="22171" data-author="Tap" data-date="2008-01-22T22:44:27+00:00" data-subject="">
 
-[quote:33nmbn31]WinSock error 10061: Connection refused[/quote:33nmbn31]
+> <strong>Quote:</strong>
+> WinSock error 10061: Connection refused
 
 Bah
 
@@ -558,9 +575,10 @@ Bah
 
 <div class="post" data-post-id="22172" data-author="Thraxas" data-date="2008-01-22T22:52:02+00:00" data-subject="">
 
-Update: It seems the backup files were somewhat corrupt as well, so characters beginning with the letters T thru Z have been lost.[/quote:2op6ewrc]
+> <strong>juggleblood wrote:</strong>
+> Update: It seems the backup files were somewhat corrupt as well, so characters beginning with the letters T thru Z have been lost.
 
-nice one :)
+nice one <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -578,19 +596,17 @@ Yah, high risk = high return, unless you're a low-doc American home borrower, th
 
 <div class="post" data-post-id="22176" data-author="Tap" data-date="2008-01-23T00:31:30+00:00" data-subject="">
 
-DUMBASS[/size:3dmkucw7][/color:3dmkucw7]
+DUMBASS
 
- 
-
- [img:3dmkucw7]http://animations.fg-a.com/arr_ani_04e.gif[/img:3dmkucw7]
+ ![](http://animations.fg-a.com/arr_ani_04e.gif)
 
 </div>
 
 <div class="post" data-post-id="22180" data-author="Tap" data-date="2008-01-23T01:50:34+00:00" data-subject="">
 
-DUMBASS[/color:14mcd0yo][/size:14mcd0yo]
+DUMBASS
 
-[img:14mcd0yo]http://animations.fg-a.com/arr_ani_04e.gif[/img:14mcd0yo]
+![](http://animations.fg-a.com/arr_ani_04e.gif)
 
 </div>
 
@@ -598,7 +614,7 @@ DUMBASS[/color:14mcd0yo][/size:14mcd0yo]
 
 We appreciate your efforts to get the mud going, and understand that being an immortal today is probably quite trying. 
 
-Any chance you can give us a guess about an ETU?  (Estimated time till up)
+Any chance you can give us a guess about an ETU? (Estimated time till up)
 
 Thanks
 
@@ -632,7 +648,8 @@ Yea yea please tell us something. I need me some sloth action! The pain of it al
 
 <div class="post" data-post-id="22191" data-author="Enoch" data-date="2008-01-23T05:57:58+00:00" data-subject="">
 
-[quote:1r0kyq9z]I thought foxmud was a straight up ripoff of old sloth code?[/quote:1r0kyq9z]
+> <strong>Quote:</strong>
+> I thought foxmud was a straight up ripoff of old sloth code?
 
 Really? No wonder some parts look almost the same
 
@@ -640,7 +657,7 @@ Really? No wonder some parts look almost the same
 
 <div class="post" data-post-id="22193" data-author="bellafea" data-date="2008-01-23T06:11:07+00:00" data-subject="">
 
-Bouncing back and foorth through all the muds i have played in the past, tried out DSL, not very newbie friendly, where is the Deb of all chars in muds! i Miss my sloth!  The 3 hours i have spent i am level 3 with over 300k in xp, in most muds that would be lvl 10 or higher, sometimes lower, makes you wonder how a mud like that makes the number one spot, no one talks to newbies, or even offers help...
+Bouncing back and foorth through all the muds i have played in the past, tried out DSL, not very newbie friendly, where is the Deb of all chars in muds! i Miss my sloth! The 3 hours i have spent i am level 3 with over 300k in xp, in most muds that would be lvl 10 or higher, sometimes lower, makes you wonder how a mud like that makes the number one spot, no one talks to newbies, or even offers help...
 
 come back sloth!
 
@@ -654,9 +671,9 @@ Any bard and cleric around? rina and raise sloth please...
 
 <div class="post" data-post-id="22195" data-author="**Jake**" data-date="2008-01-23T07:09:07+00:00" data-subject="SOON!">
 
-Sorry for all of the delays  First there was a Hard Drive crash, then to restore the OS, we chose Fedora 8.  As it turns out, Fedora 8 doesn't work so well with the slightly older server hardware we have - it would lock up and have all sorts of problems.
+Sorry for all of the delays First there was a Hard Drive crash, then to restore the OS, we chose Fedora 8. As it turns out, Fedora 8 doesn't work so well with the slightly older server hardware we have - it would lock up and have all sorts of problems.
 
-At the moment, I'm copying all of the data back out to the server, which is no longer running Fedora 8.  This will take some time because the copy has to go across the internet.  I'll try to provide more frequent updates.
+At the moment, I'm copying all of the data back out to the server, which is no longer running Fedora 8. This will take some time because the copy has to go across the internet. I'll try to provide more frequent updates.
 
 </div>
 
@@ -680,23 +697,23 @@ P.S. Suffering from withdrawal symptoms....ignore me if i sounded offensive in a
 
 <div class="post" data-post-id="22197" data-author="**Jake**" data-date="2008-01-23T07:15:23+00:00" data-subject="Oh Yea!">
 
-BTW, you guys have been bored, we've almost moved up 3 slots on TMC since we've been down.  You guys rock, you even vote when it might not be deserved.  
+BTW, you guys have been bored, we've almost moved up 3 slots on TMC since we've been down. You guys rock, you even vote when it might not be deserved. 
 
 [http://www.mudconnect.com/cgi-bin/all_rankings.cgi](http://www.mudconnect.com/cgi-bin/all_rankings.cgi)
 
-I didn't expect it to take nearly this long to recover, so I apologize for that.  In the 14+ years I've been an admin on Sloth, this is in the top 3 worst downtime events we've had.
+I didn't expect it to take nearly this long to recover, so I apologize for that. In the 14+ years I've been an admin on Sloth, this is in the top 3 worst downtime events we've had.
 
 </div>
 
 <div class="post" data-post-id="22198" data-author="**Jake**" data-date="2008-01-23T07:20:52+00:00" data-subject="Hrm...">
 
-Time estimates?  Ugh, if you asked me for a time estimate when it first went down, I would have said 3 hours!  So let me say 1-2 hours, but that's just a guess at this point.  If anyone has the energy to do some easy math.  2GB@98KB/second
+Time estimates? Ugh, if you asked me for a time estimate when it first went down, I would have said 3 hours! So let me say 1-2 hours, but that's just a guess at this point. If anyone has the energy to do some easy math. 2GB@98KB/second
 
 </div>
 
 <div class="post" data-post-id="22199" data-author="Cizin" data-date="2008-01-23T07:23:20+00:00" data-subject="ETU">
 
-Umm  .. 5h and 30 mins ?!
+Umm .. 5h and 30 mins ?!
 
 </div>
 
@@ -710,17 +727,18 @@ As to the down time....i believe u have heard this term before "Shit Happens!"
 
 So dun be hard on yrself...we are pretty sure u guys are trying hard already. Prehaps, like u said, we are too bored and thus contemplating with the possibilities that can occur...and hoping (with fingers crossed) that it'll come back up asap. 
 
-On the lighter mode....thanks for trying.....bet u guys must be working tireless on it already....Have a break...Have a kitkat!  
+On the lighter mode....thanks for trying.....bet u guys must be working tireless on it already....Have a break...Have a kitkat! 
 
 Or even better....take a menthos! 
 
-:)
+<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="22201" data-author="nomic" data-date="2008-01-23T07:28:54+00:00" data-subject="Re: ETU">
 
-Umm  .. 5h and 30 mins ?![/quote:oov9vkv4]
+> <strong>Cizin wrote:</strong>
+> Umm .. 5h and 30 mins ?!
 
 A quick mental calculation also suggest 5 hours plus.....guess i can go take a nap already....
 
@@ -736,7 +754,8 @@ Ae you saying Jake has bad breath? Muahahah j/k.
 
 <div class="post" data-post-id="22203" data-author="nomic" data-date="2008-01-23T07:32:19+00:00" data-subject="">
 
-Ae you saying Jake has bad breath? Muahahah j/k.[/quote:2trnstfg]
+> <strong>slobe wrote:</strong>
+> Ae you saying Jake has bad breath? Muahahah j/k.
 
 PI! Must u rub salt to the wound? I was thinking of the fact that Jake must really be tired out given the continuous hours of getting the system up and also for the fact that if it's really 2am now...would u be tired too?
 
@@ -752,9 +771,10 @@ Oh...btw, the hypothesis that those with char names from T to Z are unable to be
 
 <div class="post" data-post-id="22205" data-author="**Jake**" data-date="2008-01-23T07:46:34+00:00" data-subject="">
 
-Oh...btw, the hypothesis that those with char names from T to Z are unable to be retrieved....is this true?[/quote:20mmwrih]
+> <strong>nomic wrote:</strong>
+> Oh...btw, the hypothesis that those with char names from T to Z are unable to be retrieved....is this true?
 
-No, fortunately it was only those characters that start with 'no'.  All others should be fine.
+No, fortunately it was only those characters that start with 'no'. All others should be fine.
 
 </div>
 
@@ -766,7 +786,7 @@ Apparently player names with T to Z are ok... apparently there is some doubt abo
 
 <div class="post" data-post-id="22207" data-author="jezer" data-date="2008-01-23T07:53:58+00:00" data-subject="">
 
-pipped at the post!  :twisted:
+pipped at the post! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -774,7 +794,8 @@ pipped at the post!  :twisted:
 
 It wasn't drachma corruption, it was stats being rerolled - at least that's what someone told me.
 
-Apparently player names with T to Z are ok... apparently there is some doubt about those that start with N though. Apparently, all there drachma totals got corrupted, or so someone told me.[/quote:1g39upb7]
+> <strong>jezer wrote:</strong>
+> Apparently player names with T to Z are ok... apparently there is some doubt about those that start with N though. Apparently, all there drachma totals got corrupted, or so someone told me.
 
 </div>
 
@@ -804,7 +825,7 @@ So long nomic! we appreciate your time at sloth, have a nice life... you can alw
 
 <div class="post" data-post-id="22212" data-author="jezer" data-date="2008-01-23T08:17:22+00:00" data-subject="">
 
-I feel bad...  :(
+I feel bad... <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -834,21 +855,21 @@ But have to admit that i'm not as strong as i wished....if not...i would had qui
 
 <div class="post" data-post-id="22215" data-author="**Jake**" data-date="2008-01-23T09:03:35+00:00" data-subject="">
 
-Yea, we're all kidding.  I expect 100% recovery from this, no-one should lose their characters, stats or drachma over this.
+Yea, we're all kidding. I expect 100% recovery from this, no-one should lose their characters, stats or drachma over this.
 
 </div>
 
 <div class="post" data-post-id="22216" data-author="jezer" data-date="2008-01-23T09:10:36+00:00" data-subject="">
 
-Except those who.... *looks around the room*
+Except those who.... \*looks around the room\*
 
-Cure light the world!!  :twisted:
+Cure light the world!! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="22217" data-author="**Jake**" data-date="2008-01-23T09:45:40+00:00" data-subject="Time to play!">
 
-Well, at least for you.  For me it's time to sleep.
+Well, at least for you. For me it's time to sleep.
 
 </div>
 
@@ -856,7 +877,7 @@ Well, at least for you.  For me it's time to sleep.
 
 I'm IN! Thanks Jake...
 
-You hit the heron hard! By golly this is good stuff!!!  :twisted:
+You hit the heron hard! By golly this is good stuff!!! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -868,13 +889,13 @@ Welcome to the land of Sloth III. May your visit here be... Interesting.
 
 The Ancient Mariner
 
-   The interior of this inn is dark and smoky.  Thick oak beams, blackened
+ The interior of this inn is dark and smoky. Thick oak beams, blackened
 
-with age, run across the ceiling.  A large fireplace at one end holds a few
+with age, run across the ceiling. A large fireplace at one end holds a few
 
 smoking logs: blackened kettles and pans nearby suggest that it is used for
 
-cooking.  At the other end is a narrow bar, on which stand wooden kegs of
+cooking. At the other end is a narrow bar, on which stand wooden kegs of
 
 various sizes and a selection of pewter tankards.
 
@@ -882,7 +903,7 @@ Exits: East
 
 A board titled 'Most Famous Explorers' hangs on the wall here.
 
-[b:2qxftm27]The corpse of Yinao is lying here.[/b:2qxftm27]
+<strong>The corpse of Yinao is lying here.</strong>
 
 Lyme's innkeeper smiles at you and offers to put you up for the night.
 
@@ -910,9 +931,9 @@ Come on in pple! make it worth it's ranking!
 
 <div class="post" data-post-id="22223" data-author="Clink" data-date="2008-01-23T13:00:14+00:00" data-subject="Mud is back up and restored">
 
-It will take a little bit to get the "live" data back up on the website.  For example, the who list, player stats and server info are going to be stale for a few days until we get it reconfigured.
+It will take a little bit to get the "live" data back up on the website. For example, the who list, player stats and server info are going to be stale for a few days until we get it reconfigured.
 
-I hope that the game is still playable for you without these features.  :wink: 
+I hope that the game is still playable for you without these features. <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom"> 
 
 Clink
 
@@ -928,17 +949,17 @@ Hah nice one Hayward.
 
 Interesting that when Sloth is down it jumped up on the ranking:
 
-1. Dark and Shattered Lands (DSL)  view stats  2946  
+1\. Dark and Shattered Lands (DSL) view stats 2946 
 
-2. MUME - Multi Users In Middle Earth  view stats  1370  
+2\. MUME - Multi Users In Middle Earth view stats 1370 
 
-3. Waterdeep  view stats  1339  
+3\. Waterdeep view stats 1339 
 
-4. Star Wars: Dark Forces RPG  view stats  1320  
+4\. Star Wars: Dark Forces RPG view stats 1320 
 
-5. SlothMUD III  view stats  1318  
+5\. SlothMUD III view stats 1318 
 
-Three more votes and we will be in 4th place.  FYI CRASH SLOTH AGAIN!
+Three more votes and we will be in 4th place. FYI CRASH SLOTH AGAIN!
 
 </div>
 
@@ -980,13 +1001,13 @@ Vixn
 
 Yep Brian it's a close one!!
 
-1. Dark and Shattered Lands (DSL)  view stats  2964  
+1\. Dark and Shattered Lands (DSL) view stats 2964 
 
-2. MUME - Multi Users In Middle Earth  view stats  1376  
+2\. MUME - Multi Users In Middle Earth view stats 1376 
 
-3. Waterdeep  view stats  1342  
+3\. Waterdeep view stats 1342 
 
-4. SlothMUD III  view stats  1330
+4\. SlothMUD III view stats 1330
 
 </div>
 
@@ -994,6 +1015,7 @@ Yep Brian it's a close one!!
 
 CentOS 5
 
-so what distro did you end up deciding on?[/quote:29r3jt6b]
+> <strong>alias wrote:</strong>
+> so what distro did you end up deciding on?
 
 </div>

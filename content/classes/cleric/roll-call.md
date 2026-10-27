@@ -18,6 +18,6 @@ It will have to be next month at my place...
 
 Cleric primes only...
 
- :!:  :twisted:
+ <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

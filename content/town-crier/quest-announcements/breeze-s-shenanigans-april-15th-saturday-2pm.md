@@ -16,7 +16,7 @@ Hello.
 
 Breeze asked me to announce his next planned quest, which will happen on 15th of April, Saturday, at 2pm server time or 8pm GMT.
 
-'we will do a "from the hip" quest. meaning kill stuff, collect bits, do something with them and i randomly decide reward :P'
+'we will do a "from the hip" quest. meaning kill stuff, collect bits, do something with them and i randomly decide reward <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">'
 
 Cheers,
 

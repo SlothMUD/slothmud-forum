@@ -24,7 +24,7 @@ Nomic
 
 <div class="post" data-post-id="22333" data-author="Jag" data-date="2008-01-28T13:28:21+00:00" data-subject="Chop Block Bid">
 
-Hey Nom, you really do want that torch, don't you?   :lol:
+Hey Nom, you really do want that torch, don't you? <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -38,7 +38,7 @@ So the owner told me to bid maximum!
 
 <div class="post" data-post-id="22391" data-author="brady" data-date="2008-01-30T00:15:41+00:00" data-subject="">
 
-Or you could tell the seller to change the auction name to *CLOSED* and change closing time to one hour.
+Or you could tell the seller to change the auction name to \*CLOSED\* and change closing time to one hour.
 
 </div>
 

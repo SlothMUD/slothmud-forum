@@ -16,35 +16,35 @@ This will make a counter at the lower right of your wintin terminal that counts 
 
 This is useful for making spell counters because the variable time2next updates every 2 seconds, so you can make sanc counters that are completely accurate, which I will post next by the way.
 
-#defgroup ticker
+\#defgroup ticker
 
-#nop These help keep it accurate...you probably want to add more
+\#nop These help keep it accurate...you probably want to add more
 
-#action  {^It starts to rain} {#tickset} {G|ticker}
+\#action {^It starts to rain} {#tickset} {G\|ticker}
 
-#action  {^The day has begun} {tickset} {G|ticker}
+\#action {^The day has begun} {tickset} {G\|ticker}
 
-#action  {^The eastern sky starts to brighten} {tickset} {G|ticker}
+\#action {^The eastern sky starts to brighten} {tickset} {G\|ticker}
 
-#action  {^Your fly spell just} {tickset} {G|ticker}
+\#action {^Your fly spell just} {tickset} {G\|ticker}
 
-#alias  {subtick} {#math {timesincetick} {$timesincetick-60};tickcheck} {G|ticker}
+\#alias {subtick} {#math {timesincetick} {$timesincetick-60};tickcheck} {G\|ticker}
 
-#alias  {tick} {timesincetick;tickcheck} {G|ticker}
+\#alias {tick} {timesincetick;tickcheck} {G\|ticker}
 
-#alias  {tickcheck} {#if {$timesincetick>59}{subtick} else {#math {time2next} {60-$timesincetick}}} {G|ticker}
+\#alias {tickcheck} {#if {$timesincetick\>59}{subtick} else {#math {time2next} {60-$timesincetick}}} {G\|ticker}
 
-#alias  {tickrep} {tick;#showme  {Next tick in $time2next seconds}} {G|ticker}
+\#alias {tickrep} {tick;#showme {Next tick in $time2next seconds}} {G\|ticker}
 
-#alias  {tickset} {#var lastticktime $time} {G|ticker}
+\#alias {tickset} {#var lastticktime $time} {G\|ticker}
 
-#alias  {timesincetick} {#math timesincetick {$time-$lastticktime}} {G|ticker}
+\#alias {timesincetick} {#math timesincetick {$time-$lastticktime}} {G\|ticker}
 
-#timer {ticker} {*:*:*2} {tick} {G|ticker}
+\#timer {ticker} {\*:\*:\*2} {tick} {G\|ticker}
 
-#panel 1 {Time to Tick}
+\#panel 1 {Time to Tick}
 
-#pvar 2 time2next
+\#pvar 2 time2next
 
 </div>
 
@@ -52,15 +52,15 @@ This is useful for making spell counters because the variable time2next updates 
 
 Make this correction
 
-#al {tickcheck} {#if {$timesincetick>59}{subtick} else {#math {time2next} {60-$timesincetick}[b:3rci5p5b];#if {$time2next=60}{tickset}[/b:3rci5p5b]}
+\#al {tickcheck} {#if {$timesincetick\>59}{subtick} else {#math {time2next} {60-$timesincetick}<strong>;#if {$time2next=60}{tickset}</strong>}
 
 and add these
 
-#al tickstop {#untimer ticker}
+\#al tickstop {#untimer ticker}
 
-#al tickstart {#timer ticker {*:*:*2} {tick}}
+\#al tickstart {#timer ticker {\*:\*:\*2} {tick}}
 
-*don't forget to add more triggers to automatically set the tick, for example, weather, daylight, spells ending, etc.. Just don't use hunger or thirst because they display in your score.
+\*don't forget to add more triggers to automatically set the tick, for example, weather, daylight, spells ending, etc.. Just don't use hunger or thirst because they display in your score.
 
 Cheers
 
@@ -76,9 +76,9 @@ TICK IN 10!!! CATCH!!
 
 Ok... I was learned a few things, such as:
 
-1. spells don't end on tick...don't trigger them to tickset
+1\. spells don't end on tick...don't trigger them to tickset
 
-2. sanc has a variable duration...counter past 1 min is useless
+2\. sanc has a variable duration...counter past 1 min is useless
 
 Question:
 
@@ -104,21 +104,24 @@ Splork
 
 <div class="post" data-post-id="11064" data-author="12345" data-date="2006-03-04T19:34:32+00:00" data-subject="">
 
-The mini ticks were designed to make ticks useless, yes.  A real quick search of my memory seems to think that boats still come and go on actual ticks.  Don't recall if areas repop on ticks or not.  The game operates on about 6 different tick systems though, so trying to wrap your head around everything is pretty difficult.
+The mini ticks were designed to make ticks useless, yes. A real quick search of my memory seems to think that boats still come and go on actual ticks. Don't recall if areas repop on ticks or not. The game operates on about 6 different tick systems though, so trying to wrap your head around everything is pretty difficult.
 
-The messages that say whatever spell is about to fall is your best measurement.  If it didn't fail occasionally, it'd be perfect.
+The messages that say whatever spell is about to fall is your best measurement. If it didn't fail occasionally, it'd be perfect.
 
 </div>
 
 <div class="post" data-post-id="11065" data-author="Weasel" data-date="2006-03-04T20:38:53+00:00" data-subject="">
 
-Actually mob actions no longer work according to the old tick system. Mob actions are mostly random now...
+> <strong>\*Splork\* wrote:</strong>
+> Actually mob actions no longer work according to the old tick system. Mob actions are mostly random now...
+> 
+> 
+> 
+> Enjoy,
+> 
+> Splork
 
-Enjoy,
-
-Splork[/quote:36r0lan2]
-
-oop ok, thanks for the info.. guess my tick counter is completely useless now :)
+oop ok, thanks for the info.. guess my tick counter is completely useless now <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 I have a heap of tick message triggers like weather and area sounds etc.. deleting all those will cut out about half of my triggers hehe.
 

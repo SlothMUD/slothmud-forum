@@ -12,15 +12,15 @@ post_count: 5
 
 <div class="post" data-post-id="6821" data-author="nevulae" data-date="2005-06-05T18:47:56+00:00" data-subject="glowing magical rod of fusing">
 
-As you can see it seems quite valuable but what can i do with it? noone seems to know and i know only very little after some informing so a lot of info required on this one :)
+As you can see it seems quite valuable but what can i do with it? noone seems to know and i know only very little after some informing so a lot of info required on this one <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-where can i use it for?  where are other cps? what are other cps? etc.
+where can i use it for? where are other cps? what are other cps? etc.
 
 You recite a scroll of identify which dissolves.
 
 You feel informed:
 
-Object 'rod fusing glowing magical quest_cp *Nevulae*', Item type: COMPONENT
+Object 'rod fusing glowing magical quest\_cp \*Nevulae\*', Item type: COMPONENT
 
 Item is: GLOW PERSONAL RESTRUNG 
 
@@ -32,13 +32,13 @@ Tnx!!
 
 <div class="post" data-post-id="6824" data-author="brand" data-date="2005-06-05T20:33:38+00:00" data-subject="">
 
-i got one too... no clues yet... :evil:
+i got one too... no clues yet... <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="6825" data-author="Avatar" data-date="2005-06-05T20:53:39+00:00" data-subject="forge">
 
-Wasn't this a forge for one of Blaster's quests?  Why doesn't anyone remember these?  They went in but the quest never happened, so pops were turned off for awhile.  I assume the quest plans are back in.
+Wasn't this a forge for one of Blaster's quests? Why doesn't anyone remember these? They went in but the quest never happened, so pops were turned off for awhile. I assume the quest plans are back in.
 
 </div>
 
@@ -50,7 +50,7 @@ There were 3 cps to make up a weapon (altho no mob ever found that actually forg
 
 <div class="post" data-post-id="6827" data-author="Blaster" data-date="2005-06-05T22:56:45+00:00" data-subject="">
 
-Yes the code seems to have been fixed to they will all pop again.  As to the quest, I am trying to tie these items into my quest area so they will be used in time I guess you could say.  As for having several sets of the cps, it is useless since you only need one set.
+Yes the code seems to have been fixed to they will all pop again. As to the quest, I am trying to tie these items into my quest area so they will be used in time I guess you could say. As for having several sets of the cps, it is useless since you only need one set.
 
 Blaster
 

@@ -16,7 +16,7 @@ Hey,
 
 Been playing about a month now, and had a few issues i think might be able to be brought up.
 
-The main thing I would like to see would be some sort of comment to show songs are acutally working. 1/2 of the songs give no hint whether they take effect or not, you sing and hope it works. Most other abilities that effect mobs had some sort of comment to say wheather they work or not (blind, curse, web, weaken, silence, etc.)  it would be good to know whether you songs are taking effect too 
+The main thing I would like to see would be some sort of comment to show songs are acutally working. 1/2 of the songs give no hint whether they take effect or not, you sing and hope it works. Most other abilities that effect mobs had some sort of comment to say wheather they work or not (blind, curse, web, weaken, silence, etc.) it would be good to know whether you songs are taking effect too 
 
 Something like:" the mob starts to sing along " or something for Sanctuary of the soul, "the mob is soothed by your song" for sacred reprieve...etc.
 
@@ -32,7 +32,7 @@ Tetsu
 
 <div class="post" data-post-id="13894" data-author="*juggleblood*" data-date="2006-09-03T06:53:25+00:00" data-subject="">
 
-*Bump*
+\*Bump\*
 
 Pretty pls at least implement a change to gods so that the bard sees something like:
 

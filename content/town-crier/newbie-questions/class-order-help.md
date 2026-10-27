@@ -14,7 +14,7 @@ post_count: 25
 
 Hi,
 
-I'm looking to start playing again after an absence.  I'm trying to decide what sort of character to try.  I'll be playing solo most the time so I've been looking at combinations that would hopefully be fairly strong for that.
+I'm looking to start playing again after an absence. I'm trying to decide what sort of character to try. I'll be playing solo most the time so I've been looking at combinations that would hopefully be fairly strong for that.
 
 Tankish: Wa/Mo/Cl/Ne
 
@@ -40,7 +40,7 @@ ne/mo is a good choice, though, I'd make ne/ma/cl/mo instead, cause ne/mo will s
 
 <div class="post" data-post-id="18851" data-author="tincts" data-date="2007-06-12T06:13:18+00:00" data-subject="">
 
-Correct me if I'm wrong (as I'm sure you will) but I think Mo 2nd is pretty much the same as Mo 4th.  Ne first, you probably want another caster second, as Messiaen is saying.
+Correct me if I'm wrong (as I'm sure you will) but I think Mo 2nd is pretty much the same as Mo 4th. Ne first, you probably want another caster second, as Messiaen is saying.
 
 </div>
 
@@ -50,7 +50,7 @@ The positioning of cleric in your classo will affect the range of supplicants at
 
 Ne/Dr = Great mregen and fluidity spell but note you can't order your undeads while shifted.
 
-Mo/Ne vs Ne/Mo - Having a non-caster class as second will hurt your mregen but it works for some people. That said, as a necro you consume a chunk of mana to summon and prep your pets. Regen gets tedious ;)
+Mo/Ne vs Ne/Mo - Having a non-caster class as second will hurt your mregen but it works for some people. That said, as a necro you consume a chunk of mana to summon and prep your pets. Regen gets tedious <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 Also, the order lag will be shorter for a Necro prime.
 
@@ -60,7 +60,8 @@ I haven't played a tank in ages but that classo is pretty popular for tanks beca
 
 <div class="post" data-post-id="18853" data-author="Messiaen" data-date="2007-06-12T06:31:34+00:00" data-subject="">
 
-Correct me if I'm wrong (as I'm sure you will) but I think Mo 2nd is pretty much the same as Mo 4th.  Ne first, you probably want another caster second, as Messiaen is saying.[/quote:3rrayu4x]
+> <strong>tincts wrote:</strong>
+> Correct me if I'm wrong (as I'm sure you will) but I think Mo 2nd is pretty much the same as Mo 4th. Ne first, you probably want another caster second, as Messiaen is saying.
 
 Well, monk secondary has more base damage reduction and more hp ofcourse, but imho it doesn't make it worth placing monk secondary
 
@@ -68,17 +69,18 @@ Well, monk secondary has more base damage reduction and more hp ofcourse, but im
 
 <div class="post" data-post-id="18854" data-author="Messiaen" data-date="2007-06-12T06:34:04+00:00" data-subject="">
 
-By the way, I think that any classo with no mage in it cannot be a good soloer. Try to evaluate the damage dealt by pets/melee/blast and you'll see why I say that *wink*.
+By the way, I think that any classo with no mage in it cannot be a good soloer. Try to evaluate the damage dealt by pets/melee/blast and you'll see why I say that \*wink\*.
 
 </div>
 
 <div class="post" data-post-id="18865" data-author="Medios" data-date="2007-06-13T20:56:14+00:00" data-subject="">
 
-By the way, I think that any classo with no mage in it cannot be a good soloer. Try to evaluate the damage dealt by pets/melee/blast and you'll see why I say that *wink*.[/quote:z7iuz04z]
+> <strong>Messiaen wrote:</strong>
+> By the way, I think that any classo with no mage in it cannot be a good soloer. Try to evaluate the damage dealt by pets/melee/blast and you'll see why I say that \*wink\*.
 
 Ridiculous
 
-Minstrel has 0 mage.  
+Minstrel has 0 mage. 
 
 Mike
 
@@ -88,7 +90,7 @@ Mike
 
 yeah mike but we all know Mins is the weak
 
- :roll:
+ <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -102,7 +104,8 @@ Alias
 
 <div class="post" data-post-id="18868" data-author="13" data-date="2007-06-13T21:08:43+00:00" data-subject="">
 
-[quote:1o8q5dxq]By the way, I think that any classo with no mage in it cannot be a good soloer.[/quote:1o8q5dxq]
+> <strong>Quote:</strong>
+> By the way, I think that any classo with no mage in it cannot be a good soloer.
 
 Now here is another quote I'm fond of.
 
@@ -114,19 +117,20 @@ Mark Twain
 
 <div class="post" data-post-id="18869" data-author="Autolycos" data-date="2007-06-13T22:00:26+00:00" data-subject="">
 
-It all boils down to how you like to play.  If you are a good player it won't matter what classo you pick you will make it work.   Alias[/quote:2kk6355a]
+> <strong>alias wrote:</strong>
+> It all boils down to how you like to play. If you are a good player it won't matter what classo you pick you will make it work. Alias
 
 aye, indeed.
 
-class means nothing..  a good player is a good player.  (period)  
+class means nothing.. a good player is a good player. (period) 
 
-A unexperienced player however is common.   
+A unexperienced player however is common. 
 
-If you look over the majority of posts like this in the last 10+ years.  Many of the "great" players have offered advice but never press the issue.  The good players try to help and even offer suggestions on known char designs.  The bad or unseasoned players are the first to jump and say "you're wrong" or "you HAVE to do it like this" .   
+If you look over the majority of posts like this in the last 10+ years. Many of the "great" players have offered advice but never press the issue. The good players try to help and even offer suggestions on known char designs. The bad or unseasoned players are the first to jump and say "you're wrong" or "you HAVE to do it like this" . 
 
-As Acme, Atwell, Minstrel, Alias, Mandos and many others can offer you the same advice.  
+As Acme, Atwell, Minstrel, Alias, Mandos and many others can offer you the same advice. 
 
-Play "how" you want to.  Play the "char" you want to.    
+Play "how" you want to. Play the "char" you want to. 
 
 Classo is not near as important as knowing how to use it.
 
@@ -138,7 +142,7 @@ First off, your'e wrong and you have to do it like this.
 
 Don't pick a classo that sucks. If you can do that, then you,too, CAN succeed.
 
- :roll:
+ <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -146,7 +150,7 @@ Don't pick a classo that sucks. If you can do that, then you,too, CAN succeed.
 
 Thanks for the advice all.
 
-I decided to go for a tank character since that is what I'm most familiar with.  If that goes well maybe I'll try a more charm based or blaster based char later.  I'd agree that a great player would be good with any character.  I'd settle for being a good player, but the challenge is starting somewhere and finding the opportunities to learn.
+I decided to go for a tank character since that is what I'm most familiar with. If that goes well maybe I'll try a more charm based or blaster based char later. I'd agree that a great player would be good with any character. I'd settle for being a good player, but the challenge is starting somewhere and finding the opportunities to learn.
 
 </div>
 
@@ -158,7 +162,8 @@ Welcome. Glad I could help.
 
 <div class="post" data-post-id="18875" data-author="Gimlet" data-date="2007-06-14T06:05:36+00:00" data-subject="">
 
-By the way, I think that any classo with no mage in it cannot be a good soloer. Try to evaluate the damage dealt by pets/melee/blast and you'll see why I say that *wink*.[/quote:afknm7ri]
+> <strong>Messiaen wrote:</strong>
+> By the way, I think that any classo with no mage in it cannot be a good soloer. Try to evaluate the damage dealt by pets/melee/blast and you'll see why I say that \*wink\*.
 
 any classo can be a great soloer like messiaen.
 
@@ -176,7 +181,7 @@ Mike, is Minstrel a good solo char? What are his best mobs soloed?
 
 <div class="post" data-post-id="18877" data-author="Messiaen" data-date="2007-06-14T06:21:32+00:00" data-subject="">
 
-By the way, I agree with ppl saying that you probably should fit the classo that fits you the best. Cause its a game after all, you are to have fun playing... :-)
+By the way, I agree with ppl saying that you probably should fit the classo that fits you the best. Cause its a game after all, you are to have fun playing... <img src="/images/smilies/icon_e_smile.svg" alt=":-)" title=":-)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -188,9 +193,10 @@ Solo is fer Wankers
 
 <div class="post" data-post-id="18880" data-author="brady" data-date="2007-06-14T18:13:35+00:00" data-subject="">
 
-Solo is fer Wankers[/quote:qmjm6s9z]
+> <strong>juggleblood wrote:</strong>
+> Solo is fer Wankers
 
-Grouping is for Fluffers  :x
+Grouping is for Fluffers <img src="/images/smilies/icon_mad.svg" alt=":x" title=":x" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -212,9 +218,9 @@ because all i want to know is when does brand get the girl?
 
 <div class="post" data-post-id="18885" data-author="Medios" data-date="2007-06-14T20:46:36+00:00" data-subject="">
 
-I do not enjoy soloing very much.  I like having someone to at least talk to.  
+I do not enjoy soloing very much. I like having someone to at least talk to. 
 
-I soloed half the desert, some pyramid mobs, Hun, countess denuva, soloed gabriel without even fighting him, The list goes on and on, of course I never soloed maragore or overlord but thats mainly due to the fact that I cannot stand having to 2-3 run stuff.  The things I solo I do it in one run or I dont do it.  Using a few tricks I am pretty sure I can solo just about anything that anyone else can.  Never tried it but im 100% that I can solo Krimeah with a few runs.
+I soloed half the desert, some pyramid mobs, Hun, countess denuva, soloed gabriel without even fighting him, The list goes on and on, of course I never soloed maragore or overlord but thats mainly due to the fact that I cannot stand having to 2-3 run stuff. The things I solo I do it in one run or I dont do it. Using a few tricks I am pretty sure I can solo just about anything that anyone else can. Never tried it but im 100% that I can solo Krimeah with a few runs.
 
 Mike
 
@@ -234,6 +240,6 @@ I'll play, what's yours?
 
 <div class="post" data-post-id="18892" data-author="13" data-date="2007-06-15T15:51:23+00:00" data-subject="">
 
-I like to solo middy eq mobs, drachma mobs and spellbook junk for my newbs in Ghost sometimes but I get bored easily.  Coins are ok too.  On the whole I find it a lot more fun to two-man with a good buddy though.
+I like to solo middy eq mobs, drachma mobs and spellbook junk for my newbs in Ghost sometimes but I get bored easily. Coins are ok too. On the whole I find it a lot more fun to two-man with a good buddy though.
 
 </div>

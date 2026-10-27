@@ -14,13 +14,13 @@ post_count: 13
 
 hey whats up! im checking out your MUD! actually im in FireBrand's networking class and i heard her talking about the MUD in class so i thought I'd come check it out! I haven't MUDed in years though! but it seems pretty cool and has a bigger player base than ive played on, although, i havent actually logged on and played.
 
-firebrand: im the kid in the back of your class! heheh! k laters!  8)
+firebrand: im the kid in the back of your class! heheh! k laters! <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="7501" data-author="Alberich" data-date="2005-06-23T16:50:33+00:00" data-subject="">
 
-It will suck away most of your free time.  It will make you unreasonably upset about a rather small amount of data on a computer in someone elses house.  You may begin to think of smaller creatures and people on the train as "mobs", and have overwhelming desires to poke them with sharp objects.
+It will suck away most of your free time. It will make you unreasonably upset about a rather small amount of data on a computer in someone elses house. You may begin to think of smaller creatures and people on the train as "mobs", and have overwhelming desires to poke them with sharp objects.
 
 If this sounds appealing, by all means, play!
 
@@ -28,13 +28,13 @@ If this sounds appealing, by all means, play!
 
 <div class="post" data-post-id="7503" data-author="Leaf" data-date="2005-06-23T16:57:11+00:00" data-subject="">
 
-Hahahaha yes yes, Sloth is fun.  Been mudding for like ~7 yrs on and off.
+Hahahaha yes yes, Sloth is fun. Been mudding for like \~7 yrs on and off.
 
-I had to quit Diablo2 cause I was dreaming I was playing.  I would wake up
+I had to quit Diablo2 cause I was dreaming I was playing. I would wake up
 
-at times, and check the game to make sure my chars are still alive.  I played
+at times, and check the game to make sure my chars are still alive. I played
 
-the Hardcore, so if ur chars dies.  U lose EVERYTHING, and I've lost a few
+the Hardcore, so if ur chars dies. U lose EVERYTHING, and I've lost a few
 
 chars so I was always thinking I was getting killed hahaha.
 
@@ -42,7 +42,7 @@ chars so I was always thinking I was getting killed hahaha.
 
 <div class="post" data-post-id="7512" data-author="Dandelo" data-date="2005-06-23T18:14:26+00:00" data-subject="It&#x27;s addicting">
 
-I also MUDed a lot when I was in college ~12 years ago.  I had the itch almost a year ago when my company put me on mandatory vacation over July 4th week.  I looked around for the coolest MUDs around and came here because I played Sloth I very minimally back then.  It's been a great place to come and drown out the pressures of everyday life.
+I also MUDed a lot when I was in college \~12 years ago. I had the itch almost a year ago when my company put me on mandatory vacation over July 4th week. I looked around for the coolest MUDs around and came here because I played Sloth I very minimally back then. It's been a great place to come and drown out the pressures of everyday life.
 
 If you don't mind your work/school life suffering over a bunch of 1s and 0s on a computer screen, jump aboard and play.
 
@@ -54,13 +54,13 @@ Just don't forget to take a time out every once in a while and get back in touch
 
 Reality is just a crutch for people who can't cope with drugs.
 
-  - Robin Williams
+ \- Robin Williams
 
 </div>
 
 <div class="post" data-post-id="7524" data-author="WetBert" data-date="2005-06-24T10:41:58+00:00" data-subject="addiction">
 
-shit yeah, i was addicted to all different kinds of MUDs from like 6th grade til i was like 19 years old. I'm 21 now, and i feel the urge coming back! lol! im sick of reality already! I need MUDality!!!! muahaha  :twisted:  :P
+shit yeah, i was addicted to all different kinds of MUDs from like 6th grade til i was like 19 years old. I'm 21 now, and i feel the urge coming back! lol! im sick of reality already! I need MUDality!!!! muahaha <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -74,44 +74,46 @@ Well this is certainly a great place to ruin your life.
 
 well hell, avatar/plato got me addicted when i was 23, i'm friggin 32 now.. and i still cant stay away for long amounts of time.. 
 
- CURSE YOU CHARLES!!!!!!  :twisted:
+ CURSE YOU CHARLES!!!!!! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="7529" data-author="firebrand" data-date="2005-06-24T11:25:43+00:00" data-subject="">
 
-yes, precioussss.  come to the dark side and be corrupted!  mwahahaha.  *gollum*  nassty hobbitses!
+yes, precioussss. come to the dark side and be corrupted! mwahahaha. \*gollum\* nassty hobbitses!
 
 </div>
 
 <div class="post" data-post-id="7539" data-author="Medios" data-date="2005-06-24T12:42:11+00:00" data-subject="">
 
-Firebrand. last time i recall you was on the good side :)
+Firebrand. last time i recall you was on the good side <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="7542" data-author="12345" data-date="2005-06-24T12:51:42+00:00" data-subject="">
 
-[i:jx7tvmsu]Good, bad, I'm the guy with the gun.[/i:jx7tvmsu] -Ash
+<em>Good, bad, I'm the guy with the gun.</em> \-Ash
 
 </div>
 
 <div class="post" data-post-id="7554" data-author="firebrand" data-date="2005-06-24T14:20:04+00:00" data-subject="">
 
-Firebrand. last time i recall you was on the good side :)[/quote:2aof6ka2]
+> <strong>Medios wrote:</strong>
+> Firebrand. last time i recall you was on the good side <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-i was spying on them to learn all their secret plans.  
+i was spying on them to learn all their secret plans. 
 
-[i:2aof6ka2]Evil will always triumph over good because good is dumb. -Dark Helmet, Spaceballs[/i:2aof6ka2]
+<em>Evil will always triumph over good because good is dumb. -Dark Helmet, Spaceballs</em>
 
 </div>
 
 <div class="post" data-post-id="7555" data-author="firebrand" data-date="2005-06-24T14:21:56+00:00" data-subject="Re: NEW">
 
-hey whats up! im checking out your MUD! actually im in FireBrand's networking class and i heard her talking about the MUD in class so i thought I'd come check it out! I haven't MUDed in years though! but it seems pretty cool and has a bigger player base than ive played on, although, i havent actually logged on and played.
+> <strong>WetBert wrote:</strong>
+> hey whats up! im checking out your MUD! actually im in FireBrand's networking class and i heard her talking about the MUD in class so i thought I'd come check it out! I haven't MUDed in years though! but it seems pretty cool and has a bigger player base than ive played on, although, i havent actually logged on and played.
+> 
+> firebrand: im the kid in the back of your class! heheh! k laters! <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
-firebrand: im the kid in the back of your class! heheh! k laters!  8)[/quote:2vj5fsyx]
-
-yet another one i have infected with sloth!  MWAHAHAHAHA.  *gollum*
+yet another one i have infected with sloth! MWAHAHAHAHA. \*gollum\*
 
 </div>

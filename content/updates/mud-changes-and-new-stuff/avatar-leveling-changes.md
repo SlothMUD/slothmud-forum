@@ -14,17 +14,17 @@ post_count: 1
 
 Starting at 4x40, a player can level the avatar class. Every 40th in a class there after gains an additional 5 possible avatar levels.
 
-Levels   Avatar levels that you can level
+Levels Avatar levels that you can level
 
-4x40     1-5
+4x40 1-5
 
-5x40     6-10
+5x40 6-10
 
-6x40     11-15
+6x40 11-15
 
-7x40     16-20
+7x40 16-20
 
-8x40     20-40
+8x40 20-40
 
 Enjoy,
 

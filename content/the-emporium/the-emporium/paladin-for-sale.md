@@ -12,9 +12,9 @@ post_count: 2
 
 <div class="post" data-post-id="35175" data-author="Hung" data-date="2014-05-25T04:17:39+00:00" data-subject="Paladin for Sale">
 
-Arthas Menethil  (level: 18)
+Arthas Menethil (level: 18)
 
-Your levels:  Wa: 18 Cl: 8 Mo: 3 Ne: 1 
+Your levels: Wa: 18 Cl: 8 Mo: 3 Ne: 1 
 
 You are 17 years, 1 month, 24 days old.
 
@@ -42,7 +42,7 @@ Str: 18[18], Int: 13[13], Wis: 17[17], Dex: 18[17], Con: 16[16]
 
 You are standing.
 
-You are affected by the following spells:   None.
+You are affected by the following spells: None.
 
 Some drachma(36 exactly) has been spent on octagonal tokens.
 

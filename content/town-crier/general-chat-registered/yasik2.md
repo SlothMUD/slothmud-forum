@@ -14,7 +14,7 @@ post_count: 2
 
 yo, you won bid on greaves of war if you wanna come on give me a shout 
 
-  :)
+ <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

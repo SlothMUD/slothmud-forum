@@ -12,7 +12,7 @@ post_count: 2
 
 <div class="post" data-post-id="38056" data-author="*teker*" data-date="2017-02-13T00:28:44+00:00" data-subject="Changelog 2017-02-12">
 
-The MSDP LOCATION variable should be synced better - give it a try.  I moved it into the look code so it won't update on blind teleports.
+The MSDP LOCATION variable should be synced better - give it a try. I moved it into the look code so it won't update on blind teleports.
 
 I changed the counters code again - I think people were seeing issues when capping that are hopefully fixed.
 

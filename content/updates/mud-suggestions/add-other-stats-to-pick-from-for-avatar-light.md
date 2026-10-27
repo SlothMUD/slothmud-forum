@@ -14,11 +14,11 @@ post_count: 3
 
 Since personalization adds interest to the game and the avatar light is the one eq, which we can pick without compromising tons of other stats, I suggest adding all the other stats to the light choices:
 
-- hit/hand dam/weap dam
+\- hit/hand dam/weap dam
 
-- undead control/charisma/heal bonus/spell bonus
+\- undead control/charisma/heal bonus/spell bonus
 
-- saves vs spells, petri, para, breath, poison.
+\- saves vs spells, petri, para, breath, poison.
 
 Max stats would rock here, so maybe 1 max stat for 2 slots or all but max dex for 1 slot? Though we can discuss max stats later, lest it slow down this straightforward improvement. 
 
@@ -40,15 +40,15 @@ Instead, I'm comparing to existing light options.
 
 Anyway, for 1 slot, we should be able to choose from:
 
-- +2 hit/+2 hand dam/+2 weap dam/-2 dam reduction (+1 dam > all these except for specialized classes, and == +2hit)
+\- +2 hit/+2 hand dam/+2 weap dam/-2 dam reduction (+1 dam \> all these except for specialized classes, and == +2hit)
 
-- +2 undead control/+2 charisma/+10 heal bonus/+10 spell bonus/+10 stab bonus (in fact, +15 stab bonus is  closer to and less in value than +1dam, let alone +10 stab bonus)
+\- +2 undead control/+2 charisma/+10 heal bonus/+10 spell bonus/+10 stab bonus (in fact, +15 stab bonus is closer to and less in value than +1dam, let alone +10 stab bonus)
 
-- -2 saves vs anything: spells, petri, para, breath, poison (compared to 10 spell bonus)
+\- -2 saves vs anything: spells, petri, para, breath, poison (compared to 10 spell bonus)
 
-- +1 max stat except max dex
+\- +1 max stat except max dex
 
-- max dex takes 2 slots, because it gives 0.5ac.
+\- max dex takes 2 slots, because it gives 0.5ac.
 
 Notice how 2 max str gives +hit +dam, compared to 2 slots of 2 dam. It's only worth picking 1 max str, if you have 21 or 24 str. Max wiz is probably useless.
 
@@ -56,7 +56,7 @@ Max dex is the most controversial here, because it trumps -0.4ac out of the gate
 
 Others are less useful.
 
-Perhaps, bonus stats can be *increased*, if someone does the math to make the damage/healing stuff more precise, because 10 stab bonus doesn't compare to 1 dam.
+Perhaps, bonus stats can be \*increased\*, if someone does the math to make the damage/healing stuff more precise, because 10 stab bonus doesn't compare to 1 dam.
 
 Then there's an argument into making the stats bonus stats, ie 10 bonus spell bonus, because at least half classes and more classos can already cap their stats with ingame gear and the previous stats, except for +str/int/wis/etc, were uncapped, eg +dam/ac/regen/mana/hp.
 

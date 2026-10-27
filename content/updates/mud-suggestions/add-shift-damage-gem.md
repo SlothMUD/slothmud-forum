@@ -14,15 +14,15 @@ post_count: 10
 
 Hello,
 
-Right now, the hand_dam gem (golden yellow topaz) affects druid shifted damage. That makes the gy topaz extremely valuable gem. As both monks and druids want it. Right now, I think, it's price is comparable to some tier3 gems. While it is only tier2.
+Right now, the hand\_dam gem (golden yellow topaz) affects druid shifted damage. That makes the gy topaz extremely valuable gem. As both monks and druids want it. Right now, I think, it's price is comparable to some tier3 gems. While it is only tier2.
 
 I propose to do following:
 
-1. Introduce a new damage type called shift_dam. Make it affect shifted damage instead of hand_dam.
+1\. Introduce a new damage type called shift\_dam. Make it affect shifted damage instead of hand\_dam.
 
-2. Introduce a new tier2 shift_dam gem.
+2\. Introduce a new tier2 shift\_dam gem.
 
-3. For a while(say 6 months) allow people to trade their gy topazs for the new gems.
+3\. For a while(say 6 months) allow people to trade their gy topazs for the new gems.
 
 </div>
 
@@ -30,9 +30,9 @@ I propose to do following:
 
 It would be nice if gems that are used in two slots (neck/neck, wrist/wrist) have a higher droprate than other gems.
 
-Still, the gytopaz has obviously earned its place as one of the more elite of gems.  Others, like Star Rubies, get their accolades merely by being rediculously rare.  Gytopaz reins supreme among gems by being the most powerful.  I think that might be worth the premium.
+Still, the gytopaz has obviously earned its place as one of the more elite of gems. Others, like Star Rubies, get their accolades merely by being rediculously rare. Gytopaz reins supreme among gems by being the most powerful. I think that might be worth the premium.
 
-Admittedly, I purchased mine when they were selling for 8 mil each rather than the 25-30 million they cost now, so perhaps I just don't feel your pain.  Its always been a struggle to find people selling/trading them.
+Admittedly, I purchased mine when they were selling for 8 mil each rather than the 25-30 million they cost now, so perhaps I just don't feel your pain. Its always been a struggle to find people selling/trading them.
 
 Immediately after a huge buff to gem drops might not have been the ideal time to complain about the system.
 
@@ -44,15 +44,15 @@ Thanks for the recent gem update Breeze!
 
 I totally agree: thanks, Breeze!
 
-However pain of not having gy topazs isn't only mine. :)
+However pain of not having gy topazs isn't only mine. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Also my proposition isn't only about gems. But about introducing completely new type of damage. 
 
-I think that hand_dam affecting shifted damage is quite unintuitive feature. Many players simply dont know about it.
+I think that hand\_dam affecting shifted damage is quite unintuitive feature. Many players simply dont know about it.
 
-Moreover the new damage type would be cool addition to the game mechanics. Right now, we have wide variety of different specific damages: weapon_dam, hand_dam, spell_bonus, heal_bonus(which is also damage against special type of monsters), etc. There are even kick_dam and flail_dam. 
+Moreover the new damage type would be cool addition to the game mechanics. Right now, we have wide variety of different specific damages: weapon\_dam, hand\_dam, spell\_bonus, heal\_bonus(which is also damage against special type of monsters), etc. There are even kick\_dam and flail\_dam. 
 
-Introducing shift_dam would solve previously mentioned issues. Also it would provide honorable area builders with whole new dimension in the eq creation sphere.
+Introducing shift\_dam would solve previously mentioned issues. Also it would provide honorable area builders with whole new dimension in the eq creation sphere.
 
 </div>
 
@@ -72,11 +72,11 @@ But it just needs to be said that making this change will screw some druids... a
 
 <div class="post" data-post-id="37902" data-author="Filk" data-date="2016-12-29T14:07:31+00:00" data-subject="Re: Add shift damage gem">
 
-1. Bad and crude idea. You totally missing that its not only about that rune. You gonna change whole class vector of development just because you dont get enough gems. 
+1\. Bad and crude idea. You totally missing that its not only about that rune. You gonna change whole class vector of development just because you dont get enough gems. 
 
-2. Your problem isnt in druids. Your problem is hand dam is the stat that almost all classes could use. And alot do: monks, warriors, bards, clerics, necromancers, druids. Only thiefs and mages prefer another things, though i am not sure even about mages.
+2\. Your problem isnt in druids. Your problem is hand dam is the stat that almost all classes could use. And alot do: monks, warriors, bards, clerics, necromancers, druids. Only thiefs and mages prefer another things, though i am not sure even about mages.
 
-But you pointing at druids and offer to change them...  :lol:
+But you pointing at druids and offer to change them... <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -84,19 +84,19 @@ But you pointing at druids and offer to change them...  :lol:
 
 Again, it's not only about gems.
 
-First and foremost, it's about nonobviousness of the current system, where hand_dam affects shifted damage. I've met even experienced players, who didnt know about that.
+First and foremost, it's about nonobviousness of the current system, where hand\_dam affects shifted damage. I've met even experienced players, who didnt know about that.
 
 </div>
 
 <div class="post" data-post-id="37904" data-author="Filk" data-date="2016-12-29T15:22:24+00:00" data-subject="Re: Add shift damage gem">
 
-Its actually strictly logical. SInce hand dam should called unarmed dam first and foremost :)
+Its actually strictly logical. SInce hand dam should called unarmed dam first and foremost <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 You dont fight with hands as a monk. You just fight without external weapon. So do forms.
 
 Its unobvious though, i agree.
 
-So we should add notes about this to shapeshift and hand dam help files. Problem solved? :)
+So we should add notes about this to shapeshift and hand dam help files. Problem solved? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

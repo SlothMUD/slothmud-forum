@@ -20,9 +20,9 @@ Weight: 3, Value: 350000
 
 Can affect you as:
 
-    Affects: SPELL_BONUS by 10
+ Affects: SPELL\_BONUS by 10
 
-    Affects: HEAL_BONUS by 10
+ Affects: HEAL\_BONUS by 10
 
 Only those who are at least supreme magic users, clerics, druids, 
 
@@ -44,18 +44,18 @@ subj
 
 i got it,so subj.
 
-enjoy :)
+enjoy <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="314" data-author="Eagle" data-date="2004-05-25T06:14:22+00:00" data-subject="5mil">
 
-5mil<BR>
+5mil\<BR\>
 
 </div>
 
 <div class="post" data-post-id="355" data-author="Deju" data-date="2004-05-26T04:15:39+00:00" data-subject="Closed">
 
-Closed.  Eagle wins for 5mil
+Closed. Eagle wins for 5mil
 
 </div>

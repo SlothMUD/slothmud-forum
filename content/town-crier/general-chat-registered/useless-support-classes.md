@@ -16,12 +16,12 @@ There is discussion in the neighbour topic on how to keep newbies in the game. A
 
 I am gonna list support classes that I consider useless and propose some ways to fix that:
 
-- **Thief.** Probably number in "useless support classes" rating. Experienced players prefer to put it to the 6+ position in the class order. Maybe it would be good idea to introduce stab damage bonus depending on the thief position. Same way as there is damage reduction bonus for monk.
-- **Warrior.** The hp bonus of that support class doesnt worth spending precious class position. So experienced players prefer to put the warrior class as far as possible. While many newbie monks choose mo/wa. And they often regret later in the game. As it is painful to live without mana and manaregen. I propose to introduce innate ac bonus depending on the warrior class position. Or maybe weapon damage bonus. Or maybe both (ac and weapon dam bonuses). It'll definitely ease pain of warriors second (that also applies to ba/wa which is also popular newbie choice).
-- **Cleric.** Frankly it's not that useless. However benefits of that choice end after gaining eudaemon. So experienced players prefer to put it 4th or even 5th. One of the ways to fix it would be to add some heal bonus depending on the cleric position. Another original solution would be add bonus melee damage against undead and demons. Finally supplications after eudaemon could be reviewed and made more useful. Making choosing 2nd cleric class sensible will make the game easier for newbies.
-- **Bard.** Having bard at 3rd+ position makes sense. Because bard adds both hp & mana. However some newbies put it second and lose mana regen bonus they could get from caster. We have several wa/ba who have tons of mana they'll never be able to regen. Therefore I think it would be cool to give secondary bards some manaregen.
+- <strong>Thief.</strong> Probably number in "useless support classes" rating. Experienced players prefer to put it to the 6+ position in the class order. Maybe it would be good idea to introduce stab damage bonus depending on the thief position. Same way as there is damage reduction bonus for monk.
+- <strong>Warrior.</strong> The hp bonus of that support class doesnt worth spending precious class position. So experienced players prefer to put the warrior class as far as possible. While many newbie monks choose mo/wa. And they often regret later in the game. As it is painful to live without mana and manaregen. I propose to introduce innate ac bonus depending on the warrior class position. Or maybe weapon damage bonus. Or maybe both (ac and weapon dam bonuses). It'll definitely ease pain of warriors second (that also applies to ba/wa which is also popular newbie choice).
+- <strong>Cleric.</strong> Frankly it's not that useless. However benefits of that choice end after gaining eudaemon. So experienced players prefer to put it 4th or even 5th. One of the ways to fix it would be to add some heal bonus depending on the cleric position. Another original solution would be add bonus melee damage against undead and demons. Finally supplications after eudaemon could be reviewed and made more useful. Making choosing 2nd cleric class sensible will make the game easier for newbies.
+- <strong>Bard.</strong> Having bard at 3rd+ position makes sense. Because bard adds both hp \& mana. However some newbies put it second and lose mana regen bonus they could get from caster. We have several wa/ba who have tons of mana they'll never be able to regen. Therefore I think it would be cool to give secondary bards some manaregen.
 
-Thank you for reading so messy post. :)
+Thank you for reading so messy post. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -73,9 +73,9 @@ I was talking only about choosing a class order for an individual character(not 
 
 My two points were:
 
-1. Sloth class order system isn't newbie friendly. As many popular newbie choices(i.e. wa/cl, mo/wa, wa/ba, ba/wa) aren't really good. And when they become experienced players they might regret their choices. I dont think it is right.
+1\. Sloth class order system isn't newbie friendly. As many popular newbie choices(i.e. wa/cl, mo/wa, wa/ba, ba/wa) aren't really good. And when they become experienced players they might regret their choices. I dont think it is right.
 
-2. There's no real difference in the class order position for many support classes(ones that I listed in the original post) and therefore experienced players tend to put thief, bard and warrior to the end. Of course, skills of those classes are useful. However, is there a single reason to make, say, thief 2nd?
+2\. There's no real difference in the class order position for many support classes(ones that I listed in the original post) and therefore experienced players tend to put thief, bard and warrior to the end. Of course, skills of those classes are useful. However, is there a single reason to make, say, thief 2nd?
 
 </div>
 
@@ -83,13 +83,13 @@ My two points were:
 
 I'm skeptical of your logic. I don't know if "Is there a single reason to put thief 2nd?" is a useful question or not. The question implies a lot and I'm not sure I concur with any of the implications.
 
-Cl/Th...why not? Mo/Th....sure  Wa/Th....ok
+Cl/Th...why not? Mo/Th....sure Wa/Th....ok
 
 There is no reason why these classo's can't work. I'm not a big fan of the logic that druid should be 2nd to all caster class for mana regen either. It's a miserable 5 mana while standing, outdoors only. Yawn! The reason to take druid 2nd is to have access to the higher forms. And the reason to take thief 2nd would be because you want to stab things or because you really like shadowwalk.
 
-I'm not against ideas to improve the classes. I just don't buy into your assertions that so many classos are complete bunk. And as to this issue of people regretting their classos, it's really not as big a deal as you think. Eventually every player starts to feel pretty damn powerful (even Sochi). I do get many requests to delevel people, so they can reorder which is no problem. They don't really care about the lost xp, cuz at some point they end up in a big group and get a huge chunk of xp and they're happy. If this were really such a problem we would see people quitting over it or complaining more.  You are a unique case because you are an experienced player who likes making all these different unique mid-level alts, which is cool, but I don't see a widespread problem here.
+I'm not against ideas to improve the classes. I just don't buy into your assertions that so many classos are complete bunk. And as to this issue of people regretting their classos, it's really not as big a deal as you think. Eventually every player starts to feel pretty damn powerful (even Sochi). I do get many requests to delevel people, so they can reorder which is no problem. They don't really care about the lost xp, cuz at some point they end up in a big group and get a huge chunk of xp and they're happy. If this were really such a problem we would see people quitting over it or complaining more. You are a unique case because you are an experienced player who likes making all these different unique mid-level alts, which is cool, but I don't see a widespread problem here.
 
-@Taron This bard does care very much about bonus charisma, because luck gods and cry of the avatar. And charisma does matter for reign of confusion and reprieve, the 2 most important bard skills. So please stop saying it doesn't. And it's really fine that charisma doesn't matter for some group bonus skills like valor and gods.  It could be argued that luck gods is the most powerful skill in the game and it doesn't work so good without bonus charisma.
+@Taron This bard does care very much about bonus charisma, because luck gods and cry of the avatar. And charisma does matter for reign of confusion and reprieve, the 2 most important bard skills. So please stop saying it doesn't. And it's really fine that charisma doesn't matter for some group bonus skills like valor and gods. It could be argued that luck gods is the most powerful skill in the game and it doesn't work so good without bonus charisma.
 
 </div>
 
@@ -99,28 +99,28 @@ I'm not against ideas to improve the classes. I just don't buy into your asserti
 
 Here's a glimpse of what it was, because stats have been reset:
 
-> **Taron wrote:**
+> <strong>Taron wrote:</strong>
 > This brings us to songs that should be also affected by charisma:
 > 
-> - gods of war, 3d most used song (tho if we sum up gods and lions, they come up first)
+> \- gods of war, 3d most used song (tho if we sum up gods and lions, they come up first)
 > 
-> - song of the mist (added: since it's a prime song, can scratch it off the list)
+> \- song of the mist (added: since it's a prime song, can scratch it off the list)
 > 
-> - knight's blessing/prayer (added: since it's a prime song, can scratch it off the list)
+> \- knight's blessing/prayer (added: since it's a prime song, can scratch it off the list)
 > 
 > 
 > 
-> - brothers in arms/valor, the 2nd most used song
+> \- brothers in arms/valor, the 2nd most used song
 > 
-> - lion chorus - 4th most popular
+> \- lion chorus - 4th most popular
 > 
-> - dreams of the castle
+> \- dreams of the castle
 > 
-> - rina cruinne
+> \- rina cruinne
 > 
-> - march of the heroes, the most used song ever
+> \- march of the heroes, the most used song ever
 > 
-> - fare thee well, #5th most popular
+> \- fare thee well, #5th most popular
 > 
 > 
 > 
@@ -130,11 +130,11 @@ It's very odd to see someone in 15 charisma providing a lesser gods bonus, than 
 
 While luck gods was the primary reason for making a bard, it isn't used as often as I'd like for several reasons:
 
-- it's troublesome to get a bard out for every repop
+\- it's troublesome to get a bard out for every repop
 
-- the bard needs 25 charisma for a good chance of success, so he needs 5x40
+\- the bard needs 25 charisma for a good chance of success, so he needs 5x40
 
-- luck gods don't work in "won't repop with people" areas.
+\- luck gods don't work in "won't repop with people" areas.
 
 I bet you can count times you used it per week on one hand. Compare it to march or valor.
 
@@ -142,7 +142,7 @@ I bet you can count times you used it per week on one hand. Compare it to march 
 
 <div class="post" data-post-id="37636" data-author="Gorka" data-date="2016-12-04T06:45:56+00:00" data-subject="Re: Useless support classes">
 
-Hung, where are you going with this?  :shock: 
+Hung, where are you going with this? <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
 My favourite part is the part that lists cleric as a useless support class.
 
@@ -176,11 +176,11 @@ I do agree that new players make shoddy classo decisions, mostly on their past e
 
 What would help is:
 
-- brief class info and how it fits in the class order, when players pick a class
+\- brief class info and how it fits in the class order, when players pick a class
 
-- ability to "help class" during prime class selection
+\- ability to "help class" during prime class selection
 
-- a pointer towards "help classo" and "help classes", etc when your "isnewbie" flag is turned on and you try to level the 1st level in a secondary class.
+\- a pointer towards "help classo" and "help classes", etc when your "isnewbie" flag is turned on and you try to level the 1st level in a secondary class.
 
 Also, warrior does play a big role in the first 4 classes, as does monk. Afterwards, their place in classo doesn't matter that much.
 
@@ -236,7 +236,7 @@ If one really wants to get it faster, he'd better put warrior 5th. It's not real
 
 But I dont think there's a reason to spend on it precious spot from 2 to 4.
 
-Yes, it gives hp boost. But caster in that position gives like 100 mana(don't remember the exact amount). Which is about 1.5 restores ~ 300 hps. And 300 hps is far more than any warrior hp addition. And it could be even more with healing attunement and avatar heal bonus/eq.
+Yes, it gives hp boost. But caster in that position gives like 100 mana(don't remember the exact amount). Which is about 1.5 restores \~ 300 hps. And 300 hps is far more than any warrior hp addition. And it could be even more with healing attunement and avatar heal bonus/eq.
 
 And Mage is exception. Most of experienced players avoid to put warrior from 2 to 4. And even if they did, in most case it happened in the old days when they werent such experienced.
 
@@ -248,39 +248,39 @@ Since we're just riffing on the classes, here's my fantasy suggestions for each 
 
 Wa: broadside only knock you down when u use it on too big a mob or on a critical fail. not on a normal fail.
 
-      high level warrior weapons that supercede valor
+ high level warrior weapons that supercede valor
 
 Ma: gets a mirror at level 1
 
-      gets a selective dispel skill, advanced aura management, or some such, ava 1 or something
+ gets a selective dispel skill, advanced aura management, or some such, ava 1 or something
 
 Cl: make lowbie/mid-level combat supps auto assist, reduce order lag 
 
 Ne: same, for necropets
 
-      also improve infuse soul a bit to make it the dominate healing strategy for necros
+ also improve infuse soul a bit to make it the dominate healing strategy for necros
 
 Ba: add creative success messages similar to the high armor proficiency message
 
-      the "who i'm singing to" list wouldn't foul up when moving from room to room
+ the "who i'm singing to" list wouldn't foul up when moving from room to room
 
-      make oghams give a boost to grip/stab/strike/ etc... (success rate, not damage)
+ make oghams give a boost to grip/stab/strike/ etc... (success rate, not damage)
 
-      rethink all the instruments. increase variety and specialization.
+ rethink all the instruments. increase variety and specialization.
 
 Th: add fail messages that indicate the stab would have been successful if the mob had not seen the player, 
 
-i.e.  something like, X sees you coming and engages you!   ..to give us a feel for how sneak, invis is helping us.
+i.e. something like, X sees you coming and engages you! ..to give us a feel for how sneak, invis is helping us.
 
-    eliminate circle dam altogether, just apply stabdam as +mod to the circle (not multiplied).
+ eliminate circle dam altogether, just apply stabdam as +mod to the circle (not multiplied).
 
 Dr: apply many more minor abilities to the forms, such as giving many of them infravision or darksight
 
 Mo: reduce the number of actions which can be performed while gripping drastically
 
-      add prime monk forges/quests comparable to the hand dam gear in drachma shop
+ add prime monk forges/quests comparable to the hand dam gear in drachma shop
 
-      increase the amount of dam reduction gear in game
+ increase the amount of dam reduction gear in game
 
 </div>
 
@@ -314,7 +314,7 @@ Along the lines of Hung's last post, I feel like classes like bard or thief woul
 
 8: 10%
 
-Caps would scale similarly.  This would be a major deviation from where we are now and would probably nerf a bunch of currently players.
+Caps would scale similarly. This would be a major deviation from where we are now and would probably nerf a bunch of currently players.
 
 </div>
 
@@ -330,9 +330,9 @@ Caps do the work fine as it is, imho.
 
 For example, I'm a mage 7th, so:
 
-- I have a spell bonus cap of 45, which I got to 78% in my stab mode without buying a lot of drachma sb gear or avatar shop bonus. Especially that the amount of sb gear for non-mage primes is abysmally low.
+\- I have a spell bonus cap of 45, which I got to 78% in my stab mode without buying a lot of drachma sb gear or avatar shop bonus. Especially that the amount of sb gear for non-mage primes is abysmally low.
 
-- I fill half of my -saves cap with runes
+\- I fill half of my -saves cap with runes
 
 All this means that my blasts are far inferior to the blasts of those with mage in 1-4 position (let alone mana amount).
 
@@ -354,7 +354,7 @@ Still, though, if we are digging in the class choosing process, we need to infor
 
 <div class="post" data-post-id="37660" data-author="Hung" data-date="2016-12-05T07:06:01+00:00" data-subject="Re: Useless support classes">
 
-Agree with JB & Taron. Such radical change wont fix things.
+Agree with JB \& Taron. Such radical change wont fix things.
 
 I think the solution lies in another area.
 
@@ -362,7 +362,7 @@ If we compare "good" classes with "bad" then we'll see that every "good" class h
 
 necromancer - pets
 
-mage - spell_saves cap & huge mana bonus
+mage - spell\_saves cap \& huge mana bonus
 
 druid - outdoors mana regen bonus
 
@@ -380,7 +380,7 @@ So I think the solution is to add something to the underappreciated classes. So 
 
 10% spell/skill efficiency means 8th cleric will heal 18hp with restoration.
 
-I think it's not what we want to get :)
+I think it's not what we want to get <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 I guess most old class bonuses works for first 2 positions only. New ones, like caps, works fine.
 
@@ -474,19 +474,15 @@ and so on...
 
 I can see what you are coming from with your original post. Yes, most classes in class order wont end up as what you expected them to be. And that wont change much even with reworking classes, or adding more explanation of class in-working for newbies. Even experienced players probably wont understand hundred percent what they are getting into when creating new character. I don't know how much of joke it was - but Katie said that 4xnc char was created as class order with less incentive to play as possible. Yet it worked in the end. 
 
- 
-
  Now about the classes. Prime thief is very different from non prime thief. I understand why it goes low in classo, I got it 7th myself (darn, had to check hall of fame as i did not remember if its 7th or 8th!). I used backstab a lot, made quite good damage set, even bought golden dagger from drachma shop. Even so, adjusting stab damage wont do a thing for me. Aside from thief primes, secondary to eight thieves do not care about stab damage that much; sure there some points here and there, but not to the point of hard calculating whole eq set. I would suggest breaking stab multi according to thief position in class order, but that might have too much implications on game play i dont want to consider.
 
- Again, warrior is too damn awesome as prime compared to all other positions in classo. But that done with by a single skill - second wind. It is only my not very humble opinion, but that skill is one very powerful and very cool even after nerf from s3. As for non-prime warriors, there are plenty of benefits for having it high (second for example) and not low. It is not only about some healing/spell caps after all. For end game you might consider your max_str cap, for mid-low game, you will have some equipment easier to use if you have warrior in second or third. It is not as problem as there are alternatives for other non-casters, yet there are still some nice pieces for warriors.
+ Again, warrior is too damn awesome as prime compared to all other positions in classo. But that done with by a single skill - second wind. It is only my not very humble opinion, but that skill is one very powerful and very cool even after nerf from s3. As for non-prime warriors, there are plenty of benefits for having it high (second for example) and not low. It is not only about some healing/spell caps after all. For end game you might consider your max\_str cap, for mid-low game, you will have some equipment easier to use if you have warrior in second or third. It is not as problem as there are alternatives for other non-casters, yet there are still some nice pieces for warriors.
 
  I agree with the sentiment that supplication need some reworking. If you are not cleric prime, the healing cap probably is not an issue for you to worry about. So its mostly supplications to consider when you position your cleric in classo, and aside from mare/rabbit, even fighting supps are not worth it. If its about picking 20+ more mana regen / or potential swordwraithes at 40 av versus extra 20 heal bonus / thunderbird, then I would pick druid or necro over cleric for secondary. But even then it still makes good third or quad class.
 
  Nothing to comment about bard. Again, and similarly to other classes, what works for main class focus when its prime, like caps on something, is not that much of issue when its not prime. You just learn(and you do it all the way to 40 av!) to play with what you have, and whine sometimes, about how everything is unfair.
 
  For Jb infuse soul idea - make infuse souls heal undeads (yes, pets included) and also add some incentive to necromancer to become undead. We have undead visage already, we have vampirism disease, why not actual turning into undead? That could make for interesting benefits/penalties for a player.
-
- 
 
  Supplication/undead pets. I dont have much of idea how to improve those, but let me remark on smth once again: it always struck me odd that we have a lot of pets type spread on levels which are fastest to pass(level) up. So if later pets are intended to be better than earlier ones, we are to use some type of pet for about 10 levels, quickest ones at that, only to never use again. And later we get new pets only on very grand occasions such as new 40 level. 
 
@@ -498,11 +494,11 @@ Alris is out!
 
 <div class="post" data-post-id="37675" data-author="Josiah" data-date="2016-12-05T22:05:21+00:00" data-subject="Re: Useless support classes">
 
-There was a rumor at some point that excruciating blow chance was affected by thief position.  I never tested it though.
+There was a rumor at some point that excruciating blow chance was affected by thief position. I never tested it though.
 
-Getting the prime skill(s) of a secondary class would add some nice drama to the selection of classos.  
+Getting the prime skill(s) of a secondary class would add some nice drama to the selection of classos. 
 
-Thief second might be attractive if it comes with Poison.  I could see some mages going warrior second, sucking up the huge mana and regen penalty to get second wind, parry, and a nice warcry.  Why turn into a piasa when you can cast mirror image and turn into six piasa with reflection!  Would love to see a warrior cleric tearing into ethereal mobs with a dark mace and a pet pit fiend, or a necromancer walking around playing the bagpipes for his minions.
+Thief second might be attractive if it comes with Poison. I could see some mages going warrior second, sucking up the huge mana and regen penalty to get second wind, parry, and a nice warcry. Why turn into a piasa when you can cast mirror image and turn into six piasa with reflection! Would love to see a warrior cleric tearing into ethereal mobs with a dark mace and a pet pit fiend, or a necromancer walking around playing the bagpipes for his minions.
 
 Warrior/Necro might be a better tank than warrior/monk though, which might be awkward... but the warrior monks would have focus, prediction, and wraithtouch.
 
@@ -524,7 +520,7 @@ What I like about the idea is it opens up amazing combinations... it extends the
 
 <div class="post" data-post-id="37678" data-author="*juggleblood*" data-date="2016-12-05T23:15:52+00:00" data-subject="Re: Useless support classes">
 
-Hung part of your suggestion already exists.  Your 2nd class choice affects your innate hitroll. The highest being warrior, then thief and monk. I know you don't see it, but it's there. I keep trying to tell people this, that th/wa and wa/th make some sense for this reason. Perhaps it should not be invisible.
+Hung part of your suggestion already exists. Your 2nd class choice affects your innate hitroll. The highest being warrior, then thief and monk. I know you don't see it, but it's there. I keep trying to tell people this, that th/wa and wa/th make some sense for this reason. Perhaps it should not be invisible.
 
 </div>
 
@@ -532,7 +528,7 @@ Hung part of your suggestion already exists.  Your 2nd class choice affects your
 
 Thanks everyone for sharing their opinions.
 
-Well, I agree probably someone may see it is worth putting warrior to 2-4 class order slot. Because of hp bonus, invisible hitroll and max_str cap. However personally I would never do it. As trading order position for 100 more mana seems much better investment for me.
+Well, I agree probably someone may see it is worth putting warrior to 2-4 class order slot. Because of hp bonus, invisible hitroll and max\_str cap. However personally I would never do it. As trading order position for 100 more mana seems much better investment for me.
 
 Anyway the question persists for at least thief and bard. As almost everyone agreed that there's no point of spending high class order positions on it unless it is prime.
 
@@ -550,9 +546,9 @@ Well to me the thing that makes it not overpowered is that the bard is expending
 
 <div class="post" data-post-id="37699" data-author="Josiah" data-date="2016-12-08T05:39:32+00:00" data-subject="Re: Useless support classes">
 
-I love having bards on my grip xp runs!  I can never keep my own songs going.  And I want you singing and striking, not blasting.
+I love having bards on my grip xp runs! I can never keep my own songs going. And I want you singing and striking, not blasting.
 
-The only problem is that 1x40 bards are amazing and 8x40 bards are... identical.  All things equal, I want the one that doesn't take all the xps.
+The only problem is that 1x40 bards are amazing and 8x40 bards are... identical. All things equal, I want the one that doesn't take all the xps.
 
 </div>
 
@@ -624,23 +620,23 @@ Okay, let's continue discussing the necro/bard example.
 
 Normally, you get:
 
-- 3 wraiths
+\- 3 wraiths
 
-- with 3 attacks
+\- with 3 attacks
 
-- +6 gods of war non-prime in any charisma
+\- +6 gods of war non-prime in any charisma
 
-=54 damage per round, if they all hit (that's a big if)
+\=54 damage per round, if they all hit (that's a big if)
 
 What I'm suggesting, a necro can wear ac +charisma eq and runes to get +10 charisma, so he can use:
 
-- +3 wraiths
+\- +3 wraiths
 
-- with 3 attacks
+\- with 3 attacks
 
-- with +7dam from gods of war from higher charisma
+\- with +7dam from gods of war from higher charisma
 
-=63 damage per round, if they all hit.
+\=63 damage per round, if they all hit.
 
 As a high level bard, you wear about +12-15 charisma in your gear, so you'd get some increase. If you need to wear a heal set, that'd be a tradeoff for between heals and damage, like everyone else does now.
 
@@ -652,15 +648,15 @@ And yes, it is a nerf for those, who don't wear charisma gear. You don't expect 
 
 <div class="post" data-post-id="37718" data-author="Josiah" data-date="2016-12-09T11:55:47+00:00" data-subject="Re: Useless support classes">
 
-What if we gave second wind to everyone, but increased the movement cost for non primes?  That would give everyone the quality of life improvements from the skill (weblag sucks) while making it it too expensive for mages to go crazy spamming it.
+What if we gave second wind to everyone, but increased the movement cost for non primes? That would give everyone the quality of life improvements from the skill (weblag sucks) while making it it too expensive for mages to go crazy spamming it.
 
-Right now it costs 30 mv until avatar 1, and then costs 15 mvs.  I'd support everyone getting it for 30 mvs, and the cost reduction to 15 being the warrior prime benefit.
+Right now it costs 30 mv until avatar 1, and then costs 15 mvs. I'd support everyone getting it for 30 mvs, and the cost reduction to 15 being the warrior prime benefit.
 
 </div>
 
 <div class="post" data-post-id="37719" data-author="Filk" data-date="2016-12-09T12:25:39+00:00" data-subject="Re: Useless support classes">
 
-Better we should add rebirth within prime skills variant , get 9x40, reborn, pick warior second and viola! :)
+Better we should add rebirth within prime skills variant , get 9x40, reborn, pick warior second and viola! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -672,11 +668,11 @@ That's not a bad idea Filk, but 2nd wind would still be better non-prime. I'm no
 
 <div class="post" data-post-id="37721" data-author="Josiah" data-date="2016-12-09T12:51:27+00:00" data-subject="Re: Useless support classes">
 
-I think warriors are near the top in coliseum because Alris, Taron, and I play warriors.. not because warriors are inherently superior.  Warriors run out of mvs really fast in the coliseum and if you stop to cast refresh you aren't killing things.
+I think warriors are near the top in coliseum because Alris, Taron, and I play warriors.. not because warriors are inherently superior. Warriors run out of mvs really fast in the coliseum and if you stop to cast refresh you aren't killing things.
 
 Back when coliseum was first put in, I led the rankings with my druid/mage and people claimed druid was overpowered.
 
-Cizin did amazing things as a thief in the coliseum despite all the ethereals and nostabs.  I think it's more players optimizing their characters rather than it being biased against specific classes.  Although I admit, I'm not sure how to do well as a bard prime.
+Cizin did amazing things as a thief in the coliseum despite all the ethereals and nostabs. I think it's more players optimizing their characters rather than it being biased against specific classes. Although I admit, I'm not sure how to do well as a bard prime.
 
 </div>
 
@@ -702,13 +698,13 @@ Haha, that's funny...him disappointed by us arguing! Seriously funny. I love the
 
 <div class="post" data-post-id="37742" data-author="Josiah" data-date="2016-12-09T23:07:51+00:00" data-subject="Re: Useless support classes">
 
-I have no argument against everyone getting access to second wind.  I would be happy if there were far less prime skills.  Casters, monks, and perhaps thieves can use the skill better than warrior primes, but not dramatically so.
+I have no argument against everyone getting access to second wind. I would be happy if there were far less prime skills. Casters, monks, and perhaps thieves can use the skill better than warrior primes, but not dramatically so.
 
-My suggestion that second wind be more expensive for non warriors was a simple attempt to compromise directed at a problem that may not exist.  Cheaper second winds would be adequate for warriors to not cry about the loss of their best prime benefit.
+My suggestion that second wind be more expensive for non warriors was a simple attempt to compromise directed at a problem that may not exist. Cheaper second winds would be adequate for warriors to not cry about the loss of their best prime benefit.
 
-The question is, what else would you give warriors to replace the loss of their most powerful prime skill?  Giving full access to second wind to everyone would be a dramatic buff to all other classes, and is effectively a big nerf to warriors.
+The question is, what else would you give warriors to replace the loss of their most powerful prime skill? Giving full access to second wind to everyone would be a dramatic buff to all other classes, and is effectively a big nerf to warriors.
 
-Is there a valid case that warrior is so good that everyone else needs a dramatic buff?  If not, warriors will need a new skill, or every class should mainstream one of its prime skills.
+Is there a valid case that warrior is so good that everyone else needs a dramatic buff? If not, warriors will need a new skill, or every class should mainstream one of its prime skills.
 
 </div>
 
@@ -724,7 +720,7 @@ Can't say I support the resonator idea. Here I tend to agree with you that if so
 
 <div class="post" data-post-id="37746" data-author="*juggleblood*" data-date="2016-12-09T23:42:38+00:00" data-subject="Re: Useless support classes">
 
-I am coming around to the idea, within such reasonable limits as you just said. Ideally also this damage would fully tie into stab and grip, to achieve your desired end of greater diversity of viable class orders.  I like that the damage would scale with class placement, but not with charisma. I'm thinking if you want to put charisma more properly into play, then make it affect the number of people you can sing to. I think that's more logical than trying to scale gods of war to it.
+I am coming around to the idea, within such reasonable limits as you just said. Ideally also this damage would fully tie into stab and grip, to achieve your desired end of greater diversity of viable class orders. I like that the damage would scale with class placement, but not with charisma. I'm thinking if you want to put charisma more properly into play, then make it affect the number of people you can sing to. I think that's more logical than trying to scale gods of war to it.
 
 @Josiah...scale warcry bonus health to class order placement?
 
@@ -740,17 +736,17 @@ Funny, just today I've thought that buying quest +charisma eq likely wouldn't be
 
 <div class="post" data-post-id="37749" data-author="Gorka" data-date="2016-12-10T01:30:13+00:00" data-subject="Re: Useless support classes">
 
-> **Josiah wrote:**
+> <strong>Josiah wrote:</strong>
 > I would be happy if there were far less prime skills.
 
-*hissing* *jeering* *throwing fish*  :twisted: 
+\*hissing\* \*jeering\* \*throwing fish\* <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-> **Josiah wrote:**
-> The question is, what else would you give warriors to replace the loss of their most powerful prime skill?  Giving full access to second wind to everyone would be a dramatic buff to all other classes, and is effectively a big nerf to warriors.
+> <strong>Josiah wrote:</strong>
+> The question is, what else would you give warriors to replace the loss of their most powerful prime skill? Giving full access to second wind to everyone would be a dramatic buff to all other classes, and is effectively a big nerf to warriors.
 > 
 > 
 > 
-> Is there a valid case that warrior is so good that everyone else needs a dramatic buff?  If not, warriors will need a new skill, or every class should mainstream one of its prime skills.
+> Is there a valid case that warrior is so good that everyone else needs a dramatic buff? If not, warriors will need a new skill, or every class should mainstream one of its prime skills.
 
 Totally agree with Josiah here. I'm not against others having second wind, but seriously I would not have chosen warrior prime if I knew this was going to be the case and therefore I'd feel like my investment in Gorka was a waste of time. I'd be totally bummed to become effectively a "useless support class" (sic).
 
@@ -762,9 +758,9 @@ Prime classes and skills give players identity, it's a mistake to mess with this
 
 <div class="post" data-post-id="37756" data-author="*Splork*" data-date="2016-12-10T02:50:09+00:00" data-subject="Re: Useless support classes">
 
-Second Wind should have never gone in-game for warriors  :)
+Second Wind should have never gone in-game for warriors <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-Its safe to say we moved it and nerfed it for a reason :|
+Its safe to say we moved it and nerfed it for a reason <img src="/images/smilies/icon_neutral.svg" alt=":|" title=":|" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -776,13 +772,13 @@ Though I agree allowing some blast benefit to make up for warriors outblasting m
 
 I'll give you an example...say, hypothetically, all classes had frostbolt opened to them at a higher mana cost. That doesn't affect the fact that I have a whole set of spellbonus and saves eq and higher caps for both to make my bolts still stronger. It also would only make an incremental difference for non-primes using it, as frostbolt is not that much greater in base power than firewind (especially with all the heat and sun houses and lack of winters). The mana cost would likely lead them to continue to use firewind. The difference in the strength of the spell does not go down for me, and it minimally increases the power of those around me. That is balance.
 
-Now take a skill like heavy armor proficiency...same thing. You could open up endless ac to say mages, but likely goes against their play style and they wouldn't be able to incorporate enough ac and maintain a decent level of spellbonus and spell dam which their chars are more geared for. It wouldn't make any difference to your power, since you will innately be structured more for ac anyway and hit your restricts faster even...and those  who newly had it opened up to them likely will only see minimal, if any, benefit in chasing the max ac beyond what was previously allowed for their classo. That is balance.
+Now take a skill like heavy armor proficiency...same thing. You could open up endless ac to say mages, but likely goes against their play style and they wouldn't be able to incorporate enough ac and maintain a decent level of spellbonus and spell dam which their chars are more geared for. It wouldn't make any difference to your power, since you will innately be structured more for ac anyway and hit your restricts faster even...and those who newly had it opened up to them likely will only see minimal, if any, benefit in chasing the max ac beyond what was previously allowed for their classo. That is balance.
 
 With second wind, that is not the case. The use of it by warrior primes doesn't take a whole eq set to manufacture strength over other classes in or use stat caps over other classes in. It allows you to use any secondary skill (order lag, winds, shifting, strike, anything) and do it faster than a prime can, simply by learning the second wind skill. If you opened it up, even at a greater cost to non-primes, they would likely use it to affect the tactics/skills they should more likely be using faster as primes (but you are using at an increased rate). This is where I think your objection comes in, as there is no measureable comparative difference at the point which it would be changed, even if at an increased mv rate, since the skill can be used on any spell/skill. That shows you how unbalanced this skill is.
 
 Do you think you should strike faster than a monk, shift faster than a druid, order faster than a necro, blast faster than a mage, all because you read a book at lev 32 prime? Sorry if you based char design on an overpowered skill, but if it is to remain..it's only sensible to fix what's broken and at least try to come up with a means for balance where you're not outdoing primes at their own class skills.
 
--Zeke
+\-Zeke
 
 </div>
 
@@ -808,11 +804,11 @@ I don't think the change would be popular... cue follow up posts from power play
 
 I think a proper solution would look something like this...
 
-* Second wind removed...
+\* Second wind removed...
 
-* New warrior prime skill added... or improved riposte frequency/broadside/berserk...
+\* New warrior prime skill added... or improved riposte frequency/broadside/berserk...
 
-* New avatar skill called "improved speed" which enables specific spells or skills depending on their prime to be second winded at avatar level in a more balanced and fair way.
+\* New avatar skill called "improved speed" which enables specific spells or skills depending on their prime to be second winded at avatar level in a more balanced and fair way.
 
 </div>
 
@@ -820,7 +816,7 @@ I think a proper solution would look something like this...
 
 Awww more peaceful. 
 
-We should keep it that way, see ya when I see ya :)
+We should keep it that way, see ya when I see ya <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Sends my love to Pixie!
 
@@ -832,7 +828,7 @@ M
 
 <div class="post" data-post-id="37770" data-author="*juggleblood*" data-date="2016-12-10T15:40:55+00:00" data-subject="Re: Useless support classes">
 
-I think I'm on the losing side of this argument so I won't elaborate much, other than say I think Warrior is OP, they shouldn't get more actions. Second wind is **fun **and awesome, and we should all have it, for about 50 moves a pop. Warrior prime doesn't need compensated apart from maybe giving them back their ripostes on berserk (yes, it works from a realism sense...he's berserk...no it doesn't work from our skill balance sense). That's my parting shot on it.
+I think I'm on the losing side of this argument so I won't elaborate much, other than say I think Warrior is OP, they shouldn't get more actions. Second wind is <strong>fun</strong> and awesome, and we should all have it, for about 50 moves a pop. Warrior prime doesn't need compensated apart from maybe giving them back their ripostes on berserk (yes, it works from a realism sense...he's berserk...no it doesn't work from our skill balance sense). That's my parting shot on it.
 
 Ah..and as Gorka pointed out, yes second wind is bugged. You should not be able to 2nd wind order lag, although I realize it would be a lot of work to create lag categories.
 

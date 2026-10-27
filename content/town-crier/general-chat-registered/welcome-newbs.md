@@ -32,11 +32,11 @@ Cheers
 
 <div class="post" data-post-id="12744" data-author="Rynquald" data-date="2006-05-26T23:15:00+00:00" data-subject="">
 
-Nice info over all, but I must protest (again :)) suggesting to newbs who want to play a caster that they should start a nc prime. Yes, casters aren't quite as strong as non-casters in the very early levels, but imho if a caster is the style char a newb wants to play they'll find it less frustrating than playing a nc that at early levs is totally devoid of spells (not to mention mana).
+Nice info over all, but I must protest (again <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">) suggesting to newbs who want to play a caster that they should start a nc prime. Yes, casters aren't quite as strong as non-casters in the very early levels, but imho if a caster is the style char a newb wants to play they'll find it less frustrating than playing a nc that at early levs is totally devoid of spells (not to mention mana).
 
 Personally I started my first char on this mud or any other just over a year ago, a ma/dr/wa/cl that I've never found to be anything less than a joy to play.
 
-And a lev 1 mage is totally capable of blasting a ferret down with magic missile :)
+And a lev 1 mage is totally capable of blasting a ferret down with magic missile <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

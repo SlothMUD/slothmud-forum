@@ -20,6 +20,6 @@ Thanks
 
 Shyla
 
-p.s thanks for all of the help I have gotten since I have been here :)
+p.s thanks for all of the help I have gotten since I have been here <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

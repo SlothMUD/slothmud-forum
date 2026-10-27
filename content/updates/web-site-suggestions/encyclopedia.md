@@ -20,7 +20,7 @@ Also, it is bad that terms arent being auto-linked in wiki fashion.
 
 <div class="post" data-post-id="379" data-author="Clink" data-date="2004-05-27T16:14:55+00:00" data-subject="Encyclopedia">
 
-If it was that easy, it would be done.  However, we are working on fixing it up to work with this version of Nuke and plan to use it for Help Files.   Do you have any other suggested content?
+If it was that easy, it would be done. However, we are working on fixing it up to work with this version of Nuke and plan to use it for Help Files. Do you have any other suggested content?
 
 </div>
 
@@ -34,9 +34,9 @@ Perhaps bring Kirin's sloth photo site over to here if she'd like to get it off 
 
 I know you guys have a lot of work and this may be on your list of things to get to, but I'm gonna mention it anyway.
 
-If you use the Class Abilities menu on the left and pick a class you get a list of the abilities for that class.  If you select one of those abilities, you get a new window, that looks like it queries straight out of the help files in sloth.
+If you use the Class Abilities menu on the left and pick a class you get a list of the abilities for that class. If you select one of those abilities, you get a new window, that looks like it queries straight out of the help files in sloth.
 
-If you go through the Royal Library to 'Game Play Help', you can pick an ability out of that listing, and you get the same information, or more, see stamina (not available from Class Abilities -Avatar, but in the game play help).  The information is presented within the main body of the web page and not a seperate new window.
+If you go through the Royal Library to 'Game Play Help', you can pick an ability out of that listing, and you get the same information, or more, see stamina (not available from Class Abilities -Avatar, but in the game play help). The information is presented within the main body of the web page and not a seperate new window.
 
 This difference strikes me as something that should, and can be, more consistent.
 

@@ -50,9 +50,9 @@ Fallen
 
 <div class="post" data-post-id="30919" data-author="Gimlet" data-date="2010-02-24T11:26:47+00:00" data-subject="">
 
-i feel for ya, but if you lost eq due to no fault of the mud, then  you won't get reimbursed by the imms
+i feel for ya, but if you lost eq due to no fault of the mud, then you won't get reimbursed by the imms
 
-might wanna check the mobs for looting, coz if u were ld and blasted, u'll flee out of that "safe room".  and continued blasting from mobs wil kill u outside
+might wanna check the mobs for looting, coz if u were ld and blasted, u'll flee out of that "safe room". and continued blasting from mobs wil kill u outside
 
 i'll go check the mobs for u when i get some time
 
@@ -70,7 +70,7 @@ Fallen
 
 <div class="post" data-post-id="30922" data-author="Gimlet" data-date="2010-02-24T18:48:33+00:00" data-subject="">
 
-gratz :)
+gratz <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 i know how painful it can be to be naked!
 

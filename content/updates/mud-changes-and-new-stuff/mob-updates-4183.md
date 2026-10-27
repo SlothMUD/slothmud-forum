@@ -38,7 +38,7 @@ neptune@slothmud.org
 
 Thanks.
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -50,7 +50,7 @@ about the quest, the message was truncated. This should now be remedied.
 
 Thanks to goes to Cizin who found this error.
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -74,7 +74,7 @@ difficulty. No other mobs in the Catacombs were affected.
 
 Thanks for the heads up goes to Kimchee and Yasik. Thanks guys!
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -102,7 +102,7 @@ is not something I foresee becoming a regular occurrence.
 
 Thanks and Enjoy.
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -118,7 +118,7 @@ and their corpses as normal allowing you to loot their corpses as normal:
 
 Arboretum I:
 
-------------------
+\------------------
 
 Orchid
 
@@ -128,13 +128,13 @@ Lily
 
 Temple of the Wind:
 
-------------------------
+\------------------------
 
 Swarm of Bats
 
 Farmstead
 
--------------
+\-------------
 
 Swarm of Bees
 
@@ -146,7 +146,7 @@ I'll take care of it.
 
 Thanks!
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -162,7 +162,7 @@ any fear of addressing this mob as anyone who knows this mob would normally
 
 do otherwise. 
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -178,7 +178,7 @@ with the other quests that this mob offers. Secondly, each of the Overseer's que
 
 now require a minimum level. 
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -198,7 +198,7 @@ single player.
 
 Thanks.
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -242,7 +242,7 @@ the fantasy aspect of our world. Keep 'em coming! We'll get to them
 
 as quickly as we can.
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -254,19 +254,19 @@ however, as it's apparent I forgot to save in a few places. No matter. That's wh
 
 to view the updates to the Formian Colony and its mobs.
 
-1. The formian mystic should now properly show its forge and components.
+1\. The formian mystic should now properly show its forge and components.
 
-2. The formian mystic's forged item is no longer prime required.
+2\. The formian mystic's forged item is no longer prime required.
 
-3. For those of you who participated in the opener, please see me about Honor that you
+3\. For those of you who participated in the opener, please see me about Honor that you
 
-    should have gotten from the quest version of the Ant Queen. 
+ should have gotten from the quest version of the Ant Queen. 
 
-4. The heart of the silent hunter now behaves like a light as intended rather than a robe.
+4\. The heart of the silent hunter now behaves like a light as intended rather than a robe.
 
 Thanks, and enjoy.
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -290,9 +290,9 @@ angry about it. His behavior may persist; adventurers beware. I shall neither
 
 confirm nor deny his demeanor at this moment. You may, however, notice an
 
-increase n his experience yield....maybe. :)
+increase n his experience yield....maybe. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -320,15 +320,15 @@ parts of the game that were never intended to be passed over. It is our intentio
 
 across the World of Jord that gives our players a diverse, dynamic world to explore and adventure 
 
-while giving an equally diverse  set of goals for each player to achieve. The focus was never supposed
+while giving an equally diverse set of goals for each player to achieve. The focus was never supposed
 
-to be and, in our minds, *should* never be to concentrate our focus on a single mob, area, etc. 
+to be and, in our minds, \*should\* never be to concentrate our focus on a single mob, area, etc. 
 
 Xerxes will now load only during the Houses of the Grand Struggle and Battle.
 
 Thanks.
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -348,7 +348,7 @@ of bard instruments on each continent.
 
 Enjoy.
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -368,7 +368,7 @@ Any problems, let us know.
 
 Thanks.
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -392,7 +392,7 @@ Thanks.
 
 Feedback appreciated.
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -418,7 +418,7 @@ that these changes are minimal, and are only reflected in key mobs throughout th
 
 Thanks.
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -442,7 +442,7 @@ on aforementioned mobs.
 
 Hope that helps guys.
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -456,13 +456,13 @@ in the long run, but if any of you feel as if the following changes affect you n
 
 1.) The teach percentage of this autoquest was raised from a default of 25% to 95%. This means that
 
-      reward will only require one completion to receive max base percentage. 
+ reward will only require one completion to receive max base percentage. 
 
 2.) While this isn't a change, per se, I will mention that the autoquest can only be done once.
 
 Hope that helps. Thanks!
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -478,7 +478,7 @@ I've also simplified her procs' keywords a bit and given her a bit more flavor.
 
 Enjoy.
 
--N
+\-N
 
 </div>
 
@@ -498,7 +498,7 @@ Thanks.
 
 Enjoy.
 
--N
+\-N
 
 </div>
 
@@ -522,7 +522,7 @@ Hope that helps.
 
 Enjoy.
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -548,7 +548,7 @@ We will try to let you know when the additions have been made.
 
 Thanks!
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -560,6 +560,6 @@ He's now a caster of more appropriate level.
 
 Hope that helps.
 
--Neptune
+\-Neptune
 
 </div>

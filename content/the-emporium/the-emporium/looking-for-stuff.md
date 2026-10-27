@@ -18,6 +18,6 @@ Looking for
 
 dolphinskin boots
 
-Catch me online or post here.  Have a bunch of stuff for trade.
+Catch me online or post here. Have a bunch of stuff for trade.
 
 </div>

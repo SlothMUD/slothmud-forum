@@ -12,25 +12,25 @@ post_count: 33
 
 <div class="post" data-post-id="20786" data-author="Yinao" data-date="2007-10-12T05:10:36+00:00" data-subject="Sloth Lagging">
 
-So, um, can anyone reboot us? :)
+So, um, can anyone reboot us? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="20787" data-author="Assirian" data-date="2007-10-12T07:00:18+00:00" data-subject="">
 
-lags still here :(
+lags still here <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="20788" data-author="Kynde" data-date="2007-10-12T07:04:04+00:00" data-subject="">
 
-I'm laggin' so hard I cannot even connect at this point :(
+I'm laggin' so hard I cannot even connect at this point <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="20789" data-author="smig1o" data-date="2007-10-12T08:07:34+00:00" data-subject="">
 
-Seems it was some kind of backup... or maby kernel recompilation   :P  Anyways its gone now
+Seems it was some kind of backup... or maby kernel recompilation <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom"> Anyways its gone now
 
 </div>
 
@@ -38,7 +38,7 @@ Seems it was some kind of backup... or maby kernel recompilation   :P  Anyways i
 
 ok.. who broke the mud?
 
-<-- unimpressed weaselface.
+\<-- unimpressed weaselface.
 
 </div>
 
@@ -52,13 +52,13 @@ err.. anyone else unable to login for the last 10-15mins or so?
 
 Yes... Barol the blacksmith.
 
-Oh and me :)
+Oh and me <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="21067" data-author="Hotara" data-date="2007-10-25T22:03:57+00:00" data-subject="">
 
-If you were underwater, with water breathing casted, and mud goes offline like this! Are you gonna drown? ;)
+If you were underwater, with water breathing casted, and mud goes offline like this! Are you gonna drown? <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -102,7 +102,7 @@ Even builders port is down.
 
 <div class="post" data-post-id="21076" data-author="Tap" data-date="2007-10-26T01:51:23+00:00" data-subject="">
 
-Disregard previous post. 8)
+Disregard previous post. <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -126,7 +126,7 @@ Any admin feel like throwing us a bone please?
 
 <div class="post" data-post-id="21080" data-author="Akasha" data-date="2007-10-26T03:06:30+00:00" data-subject="">
 
-Trying to contact someone who has machine access.  I just got home, we'll see.
+Trying to contact someone who has machine access. I just got home, we'll see.
 
 Akasha
 
@@ -154,7 +154,7 @@ Sorry folks.
 
 <div class="post" data-post-id="21085" data-author="rease" data-date="2007-10-26T03:40:30+00:00" data-subject="">
 
-all good.  at least I still have my cigare... WTF, who took my SMOKES!  
+all good. at least I still have my cigare... WTF, who took my SMOKES! 
 
 oh god, now I'm really jones'n
 
@@ -162,7 +162,7 @@ oh god, now I'm really jones'n
 
 <div class="post" data-post-id="21086" data-author="Virus" data-date="2007-10-26T04:05:51+00:00" data-subject="">
 
-Hrmm, since the mud is down, I guess that gives me time to go vote... :idea:
+Hrmm, since the mud is down, I guess that gives me time to go vote... <img src="/images/smilies/icon_idea.svg" alt=":idea:" title=":idea:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -176,7 +176,7 @@ Down down down... Can you stop playing with that wire?? and with those plugs!!
 
 It's my guess that there is a network problem. cable out/server down...who knows.
 
-I just got up so am looking into getting a chaos MUD set up, but I haven't done this before :)
+I just got up so am looking into getting a chaos MUD set up, but I haven't done this before <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 I Will post back if I succeed with connection details.
 
@@ -186,13 +186,13 @@ Judge
 
 <div class="post" data-post-id="21091" data-author="tincts" data-date="2007-10-26T10:53:43+00:00" data-subject="">
 
-I'm not emotionally strong enough to cope with a night without the mud up.  Someone do something. . .
+I'm not emotionally strong enough to cope with a night without the mud up. Someone do something. . .
 
 </div>
 
 <div class="post" data-post-id="21092" data-author="Medios" data-date="2007-10-26T10:59:23+00:00" data-subject="">
 
-Still down ... :(
+Still down ... <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -206,37 +206,37 @@ FYI, the mud is still down.
 
 Connect to: 
 
-      lotus.slothmud.org 6102[/size:m6r3xcq1][/color:m6r3xcq1]
+ lotus.slothmud.org 6102
 
-Some important things to note:[/size:m6r3xcq1][/color:m6r3xcq1]
+Some important things to note:
 
-1) This is a limited world![/size:m6r3xcq1]
+1\) This is a limited world!
 
-[list:m6r3xcq1]       Limited Areas
+- Limited Areas
 
-       Limited Player files
+ Limited Player files
 
-       Possibly no equipment
+ Possibly no equipment
 
-       Possibly your old passwords
+ Possibly your old passwords
 
-       You will lose nothing from the main game, when it comes back
+ You will lose nothing from the main game, when it comes back
 
-       The game may well shutdown unexpectedly
+ The game may well shutdown unexpectedly
 
-       If the game shuts down it may take me time to notice[/list:u:m6r3xcq1]
+ If the game shuts down it may take me time to notice
 
-2) Chaos is switched on[/size:m6r3xcq1]
+2\) Chaos is switched on
 
- [list:m6r3xcq1]      Feel free to slaughter each other
+- Feel free to slaughter each other
 
-       If dead use [b:m6r3xcq1]"Quit!"[/b:m6r3xcq1]
+ If dead use <strong>"Quit!"</strong>
 
-       Chat[/list:u:m6r3xcq1]
+ Chat
 
-3) No one is paying attention[/size:m6r3xcq1]
+3\) No one is paying attention
 
-[list:m6r3xcq1]        [b:m6r3xcq1]All requests for assistance will most likely be ignored[/b:m6r3xcq1][/list:u:m6r3xcq1]
+- <strong>All requests for assistance will most likely be ignored</strong>
 
 Judge
 
@@ -250,19 +250,19 @@ What a bummer, chaos not workin' for me either.
 
 <div class="post" data-post-id="21099" data-author="Autolycos" data-date="2007-10-26T12:54:55+00:00" data-subject="">
 
-oh krap.... Yinao brokeded teh internetz  :x
+oh krap.... Yinao brokeded teh internetz <img src="/images/smilies/icon_mad.svg" alt=":x" title=":x" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="21100" data-author="Jag" data-date="2007-10-26T13:17:56+00:00" data-subject="">
 
-Glad I didn't wait up last night.  Went to bed at 11 local time, wife asked who I was.
+Glad I didn't wait up last night. Went to bed at 11 local time, wife asked who I was.
 
 </div>
 
 <div class="post" data-post-id="21105" data-author="Judge" data-date="2007-10-26T14:35:01+00:00" data-subject="">
 
-[b:252wd0w6]WE ARE BACK UP[/size:252wd0w6][/b:252wd0w6][/color:252wd0w6]
+<strong>WE ARE BACK UP</strong>
 
 Judge
 
@@ -270,6 +270,6 @@ Judge
 
 <div class="post" data-post-id="21106" data-author="Yinao" data-date="2007-10-26T14:35:34+00:00" data-subject="">
 
-See, I go to work and boom down goes the internet, im retiring from work.  :wink:
+See, I go to work and boom down goes the internet, im retiring from work. <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>

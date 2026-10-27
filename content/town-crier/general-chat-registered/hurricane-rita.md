@@ -18,13 +18,13 @@ If anyone lives near the lower part of Texas, best of luck and take care.
 
 <div class="post" data-post-id="8812" data-author="kjartan" data-date="2005-09-23T20:06:42+00:00" data-subject="">
 
-Firebrand and Vanyel both do.  I know this because I did too up until a year ago.
+Firebrand and Vanyel both do. I know this because I did too up until a year ago.
 
 </div>
 
 <div class="post" data-post-id="8813" data-author="firebrand" data-date="2005-09-24T00:26:09+00:00" data-subject="">
 
-no right now me and my younger cub live in florida, but my older cub still lives in southeast part of houston and right now he's up in palestine, texas (yes that is the town that the shuttle blew up over).  i am just worried about the rest of my family that has nowhere else to go - they all live in southeast texas and southwest louisiana.  one bad strike there and poof my entire family is gone
+no right now me and my younger cub live in florida, but my older cub still lives in southeast part of houston and right now he's up in palestine, texas (yes that is the town that the shuttle blew up over). i am just worried about the rest of my family that has nowhere else to go - they all live in southeast texas and southwest louisiana. one bad strike there and poof my entire family is gone
 
 </div>
 

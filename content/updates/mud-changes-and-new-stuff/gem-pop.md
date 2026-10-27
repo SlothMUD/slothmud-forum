@@ -26,17 +26,17 @@ changes go in whenever someone pulls over code / reboots.
 
 <div class="post" data-post-id="37776" data-author="*teker*" data-date="2016-12-11T21:51:52+00:00" data-subject="Re: GEM POP">
 
-Code has been pulled over.  Reboot scheduled for it's usual time on Monday.
+Code has been pulled over. Reboot scheduled for it's usual time on Monday.
 
 </div>
 
 <div class="post" data-post-id="37839" data-author="*Breeze*" data-date="2016-12-14T21:41:05+00:00" data-subject="Re: GEM POP">
 
-2016-12-12 23:25:35 ** [GEM_POP] :: Will Upgrade Gem [1dX=Y] **
+2016-12-12 23:25:35 \*\* [GEM\_POP] :: Will Upgrade Gem [1dX=Y] \*\*
 
-2016-12-12 23:25:35 ** [GEM_POP] GENERATE_GEM: [Light Blue Iolite]  **
+2016-12-12 23:25:35 \*\* [GEM\_POP] GENERATE\_GEM: [Light Blue Iolite] \*\*
 
-2016-12-12 23:25:35 ** [GEM_POP] ::  [a Light Blue Iolite] Tier 3 Gem loaded on mob vnum [44188] by Sochi [Master: Paka] ::  **
+2016-12-12 23:25:35 \*\* [GEM\_POP] :: [a Light Blue Iolite] Tier 3 Gem loaded on mob vnum [44188] by Sochi [Master: Paka] :: \*\*
 
 congrats on being the first to poop a t3. on lyme at that..
 
@@ -48,7 +48,7 @@ adjusted tier 3 upgrade rate
 
 (in favor of the player)
 
-live whenever teker pulls  compiles and reboots.
+live whenever teker pulls compiles and reboots.
 
 i am not sure if the code it pulled from teker when i updated my tree is safe for live game
 
@@ -58,7 +58,7 @@ so not pushing/rebooting.
 
 <div class="post" data-post-id="37939" data-author="*teker*" data-date="2017-01-06T22:27:36+00:00" data-subject="Re: GEM POP">
 
-Starting at next reboot, gem upgrades to T2 will be possible.  Basically:
+Starting at next reboot, gem upgrades to T2 will be possible. Basically:
 
 A T1 gem pop can upgrade to T2 or T3
 

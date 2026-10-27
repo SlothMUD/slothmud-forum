@@ -12,13 +12,13 @@ post_count: 2
 
 <div class="post" data-post-id="18804" data-author="Medios" data-date="2007-06-06T00:00:32+00:00" data-subject="Form like Voltron!">
 
-Stryx[Clan:The Dogs of War]> 'oh hes looted'
+Stryx[Clan:The Dogs of War]\> 'oh hes looted'
 
-Mojo[Clan:The Dogs of War]> 'nod'
+Mojo[Clan:The Dogs of War]\> 'nod'
 
-Mojo[Clan:The Dogs of War]> 'lets do the DoW thing'
+Mojo[Clan:The Dogs of War]\> 'lets do the DoW thing'
 
-Mojo[Clan:The Dogs of War]> 'form like voltron etc.'
+Mojo[Clan:The Dogs of War]\> 'form like voltron etc.'
 
 </div>
 
@@ -26,6 +26,6 @@ Mojo[Clan:The Dogs of War]> 'form like voltron etc.'
 
 laugh ... 
 
-only Keith 8)
+only Keith <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>

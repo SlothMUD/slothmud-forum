@@ -20,11 +20,12 @@ If so I in common with most players I think have probably looked on this website
 
 I fully accept that playing Sloth is a priviledge not a right, and am not complaining or whining that it is currently down, I think all reasonable people would understand that not everything will work 100% all the time, however could I make a plee that when extended outages happen, even one short simple sentence on the website saying something like:
 
-[quote:39g5399z]Mud currently down: expected back up 13:00 GMT (or whatever time basis is used in US)
-
-or 
-
-Mud currently down: expected back up in unknown time[/quote:39g5399z]
+> <strong>Quote:</strong>
+> Mud currently down: expected back up 13:00 GMT (or whatever time basis is used in US)
+> 
+> or 
+> 
+> Mud currently down: expected back up in unknown time
 
 would be very much appreciated.
 
@@ -46,13 +47,13 @@ what an excellent idea ...
 
 <div class="post" data-post-id="9678" data-author="Yasik" data-date="2005-11-29T16:23:15+00:00" data-subject="">
 
-Hmmm, i like the idea. That way i can get rid of that 400+ contacts in my icq only related to muds after 5 yrs of playin  :roll:
+Hmmm, i like the idea. That way i can get rid of that 400+ contacts in my icq only related to muds after 5 yrs of playin <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="9679" data-author="Autolycos" data-date="2005-11-29T17:03:05+00:00" data-subject="">
 
-*snicker* Yasik...  you just spend your down time spamming my ICQ with funny links anyway  :twisted:
+\*snicker\* Yasik... you just spend your down time spamming my ICQ with funny links anyway <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -64,11 +65,11 @@ ONLY YOUR ICQ? nah , he's spamming everyone , trust me ))
 
 <div class="post" data-post-id="9681" data-author="Autolycos" data-date="2005-11-29T18:51:37+00:00" data-subject="">
 
-*smirk*  thanx Zam...
+\*smirk\* thanx Zam...
 
-Somehow that feels less comforting then it was intended  :shock: 
+Somehow that feels less comforting then it was intended <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
-*cackle
+\*cackle
 
 Yasik utters the words 'spam nonsense' ICQ
 

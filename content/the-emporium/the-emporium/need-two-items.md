@@ -14,7 +14,7 @@ post_count: 1
 
 I need two items from Olympus, chances are someone someone has the shit
 
-taking up space in a vault.  I'll pay or trade, talk to me ingame or post here.
+taking up space in a vault. I'll pay or trade, talk to me ingame or post here.
 
 need the tongs and a drop of rain
 

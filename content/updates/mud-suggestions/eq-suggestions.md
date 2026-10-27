@@ -16,18 +16,18 @@ I saw that immortals post EQ stats requests when they are working on new areas a
 
 I'll start us off:
 
-+2handdam +2hitroll +.5ac sleeves please
+\+2handdam +2hitroll +.5ac sleeves please
 
 </div>
 
 <div class="post" data-post-id="36429" data-author="Josiah" data-date="2016-01-07T04:46:40+00:00" data-subject="Re: EQ suggestions">
 
-Monk sleeves are my sore point too.  The problem, most likely, is that sleeves are the monk prime autoquest eq.
+Monk sleeves are my sore point too. The problem, most likely, is that sleeves are the monk prime autoquest eq.
 
 Unfortunately that leaves all unarmed non-primes wearing banded leather sleeves all the way from newbatia to 9x40 (and beyond).
 
-There is precedent for drachma and high avatar/forge eq to eclipse autoquest gear.  (orb of magical enhancement and sleeves of molten lava are both abandoned at high levels)
+There is precedent for drachma and high avatar/forge eq to eclipse autoquest gear. (orb of magical enhancement and sleeves of molten lava are both abandoned at high levels)
 
-I would be the first to sign up for any improvement in that slot, whether via drachma or epic forge.  I still get my hopes up every time a new area goes in.  Xerxes 'sleeves of dawnfire' came so close!
+I would be the first to sign up for any improvement in that slot, whether via drachma or epic forge. I still get my hopes up every time a new area goes in. Xerxes 'sleeves of dawnfire' came so close!
 
 </div>

@@ -30,11 +30,11 @@ AC-apply is -1.2
 
 Can affect you as:
 
-    Affects: DEX by 1
+ Affects: DEX by 1
 
 Only those who are at least master clerics and also experienced warriors 
 
-may use this item.  
+may use this item. 
 
 You feel informed:
 
@@ -46,11 +46,11 @@ Weight: 5, Value: 279000, Worn in: TAKE HOLD
 
 Can affect you as:
 
-    Affects: INT by 1
+ Affects: INT by 1
 
-    Affects: MANA by 15
+ Affects: MANA by 15
 
-Only those who are at least master magic users may use this item.  
+Only those who are at least master magic users may use this item. 
 
 Object 'gimlet sable', Item type: WEAPON
 
@@ -62,9 +62,9 @@ Damage Dice is '2D5'
 
 Can affect you as:
 
-    Affects: HITROLL by 1
+ Affects: HITROLL by 1
 
-    Affects: DAMROLL by 3
+ Affects: DAMROLL by 3
 
 Only those who are at least master thieves and also adept warriors may use 
 

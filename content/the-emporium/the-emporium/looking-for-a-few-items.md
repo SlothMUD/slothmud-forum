@@ -46,7 +46,7 @@ Your not the first valker I've seen wanting a turtle girdle... but given the agg
 
 Low pop rates and 30m big thick mobs... Your only real chance is an eq group.
 
-Just pointing it out, cause a lot of < 20 seems to be chasing that item... and it's simply not worth the effort of a few mill coins, nor are there many in circulation.
+Just pointing it out, cause a lot of \< 20 seems to be chasing that item... and it's simply not worth the effort of a few mill coins, nor are there many in circulation.
 
 </div>
 

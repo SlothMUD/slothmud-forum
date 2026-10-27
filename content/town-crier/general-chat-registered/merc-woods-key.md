@@ -30,7 +30,7 @@ ultimately, use of junk is on players I think. I have autojunk but it's 2 step p
 
 if an item has overly short number of handles that should be fixed.
 
-speaking of which - can we add the keyword plain to teleport green potions. please :)
+speaking of which - can we add the keyword plain to teleport green potions. please <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

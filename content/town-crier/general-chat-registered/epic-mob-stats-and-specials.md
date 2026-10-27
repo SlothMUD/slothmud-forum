@@ -12,7 +12,7 @@ post_count: 3
 
 <div class="post" data-post-id="38934" data-author="Josiah" data-date="2018-06-24T02:20:21+00:00" data-subject="Epic mob stats and specials">
 
-Spent the last month collecting data (and dying a lot.)  Enjoy!
+Spent the last month collecting data (and dying a lot.) Enjoy!
 
 Uhhhl
 

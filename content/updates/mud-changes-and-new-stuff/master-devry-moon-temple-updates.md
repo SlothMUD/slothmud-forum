@@ -18,7 +18,7 @@ A bit of update to the quests regarding the Moon Temple so you guys won't be
 
 flying completely blind looking for something that doesn't exist.
 
-Devry's moon_temple quest has been renamed to finding_moon_temple . This
+Devry's moon\_temple quest has been renamed to finding\_moon\_temple . This
 
 was done because there was a conflict between sets of code for an object or
 
@@ -30,6 +30,6 @@ not be affected by these changes.
 
 Thanks for your patience, and enjoy.
 
--Neptune
+\-Neptune
 
 </div>

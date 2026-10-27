@@ -12,15 +12,15 @@ post_count: 10
 
 <div class="post" data-post-id="38785" data-author="Filk" data-date="2018-05-21T14:13:53+00:00" data-subject="slothmud.org mail server isnt working correctly">
 
-slothmud.org   mail   server is kinda broken. Rejecting incoming emails with error:
+slothmud.org mail server is kinda broken. Rejecting incoming emails with error:
 
-550 Please turn on SMTP Authentication in your mail client. mail-lf0-f42.google.com [209.85.215.42]:45364 is not permitted to relay through this server without authentication.
+550 Please turn on SMTP Authentication in your mail client. mail-lf0-f42.google.com [209.85.215.42\]:45364 is not permitted to relay through this server without authentication.
 
 Tried also from other then google mail system with same error. Doesnt matter which client i use, local or web version. And i heard about the same thing from Stun several weeks ago, so its not sudden problem kinda.
 
 Maybe its other way to contact immortals atm?
 
-ps: And while here, Breeze, when its posible to catch you ingame for rebirth?  :)
+ps: And while here, Breeze, when its posible to catch you ingame for rebirth? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -28,7 +28,7 @@ ps: And while here, Breeze, when its posible to catch you ingame for rebirth?  :
 
 hmm..
 
-RE: eMail's -  [http://www.slothmud.org/forum/viewtopic.php?f=12&t=4840](http://www.slothmud.org/forum/viewtopic.php?f=12&t=4840)
+RE: eMail's - [http://www.slothmud.org/forum/viewtopic.php?f=12&t=4840](http://www.slothmud.org/forum/viewtopic.php?f=12&t=4840)
 
 as for rebirth, i talked to Teker about doing an in game proc to actually rebirth a person.
 
@@ -64,7 +64,7 @@ Thank you.
 
 <div class="post" data-post-id="38795" data-author="*Breeze*" data-date="2018-05-23T07:50:19+00:00" data-subject="Re: slothmud.org mail server isnt working correctly">
 
-if you take the no reroll option of rebirth (class 1 & 2 stay the same)
+if you take the no reroll option of rebirth (class 1 \& 2 stay the same)
 
 you dont lose bought stats.
 
@@ -102,10 +102,10 @@ Then I'm finishing quests and rebirthing.
 
 <div class="post" data-post-id="38822" data-author="Teron" data-date="2018-05-24T14:06:29+00:00" data-subject="Re: slothmud.org mail server isnt working correctly">
 
-> **Teker wrote:**
+> <strong>Teker wrote:</strong>
 > I don't think stat purchase up to 18 is saved anywhere so I believe going to lose those purchases.
 
-[<LINK_TEXT text="http://slothmud.org/forum/viewtopic.php ... 819#p38819">http://slothmud.org/forum/viewtopic.php?f=28&p=38819#p38819</LINK_TEXT>](http://slothmud.org/forum/viewtopic.php?f=28&p=38819#p38819)
+[http://slothmud.org/forum/viewtopic.php?f=28&p=38819#p38819](http://slothmud.org/forum/viewtopic.php?f=28&p=38819#p38819)
 
 Breeze, is there a way for you to check which stats players bought?
 

@@ -54,7 +54,7 @@ If that is the way you think Jezer then its absolutely you right to do so.
 
 However, I did not really mean to start the "i dont like Splork's way of running sloth" thread because i genuinely think he's done a good job so far by pulling this huge project practically all by himself and judging by the prime time numbers it seems like it's been a success, even though there might be some disgruntled users somewhere, he can pretty much afford to ignore certain whines. 
 
-However, the issue of death penalizing is the one that will come back up over and over again as sooner or later absolutely everyone is bound to experience its stinky breath and once it happens the decision time is on, is this game really as fun of a pastime as it seems ?  Some walk away, others will struggle on keeping their anger inside untill their next screw up. What i need to know is why this ugly side of sloth's life still there despite hundreds of complains over the years. 
+However, the issue of death penalizing is the one that will come back up over and over again as sooner or later absolutely everyone is bound to experience its stinky breath and once it happens the decision time is on, is this game really as fun of a pastime as it seems ? Some walk away, others will struggle on keeping their anger inside untill their next screw up. What i need to know is why this ugly side of sloth's life still there despite hundreds of complains over the years. 
 
 As i have already mentioned, i would feel much better if after every death the char would get banned from the game for 2 hours if you feel that dying should actually carry a penalty of slowing my progress in this game, but taking away my hard earned and making me do the same repetitive task for x more hours is sadistic.
 
@@ -82,7 +82,7 @@ There is some truth to what you speak, but i'll tell you what - your class order
 
 Choosing your class order is the most important part of the game, sadly you need to have alot of experience in the game to choose it right. It sucks that there is still no way for those people who made bad choice when they started the game to change their class order later in the game but c'est la vie.
 
-What develops your char ? Firstly its the damage you do, secondly its the armor class, then its available mana hp and regen, let call a combination of those - power.  It takes a certain wisdom to choose a class order that will allow you to continually and gradually experience boosts to all of those. You really need to know every class and how it will work with your classes to achieve a perfect combo. 
+What develops your char ? Firstly its the damage you do, secondly its the armor class, then its available mana hp and regen, let call a combination of those - power. It takes a certain wisdom to choose a class order that will allow you to continually and gradually experience boosts to all of those. You really need to know every class and how it will work with your classes to achieve a perfect combo. 
 
 Think of a Wa/ne/cl/ma/ba/mo/th/dr, due to being nc/3xca gets a huge bonus to mana so its practically a mage in heavy armor with parry and riposte
 
@@ -90,11 +90,9 @@ You get armor from your prime class levels so mobs hit you less as you get more 
 
 Now think of druid/monk/cleric/war/mage, as a Ca/nc you get less mana and less mana regen than say a Dr/cleric/monk/mage and yet your deathgrips are just as weak/strong, so you gave up loads of mana and regen for some hp and to get deathgrips, then.
 
-Up to level 40 you are relying on your weak forms to solo, when  you start leveling 2x40 your deathgrip increases a bit and you can deathgrip and then shapeshift, however you need to wear damage eq, that means you cant wear your shapeshift eq AND you need to wait at least 2 rounds untill deathgrip has done its full damage, so because you are wearing damage eq you will get pounded in those 2 rounds pretty badly and if you wear AC eq your grip will be weak and useless. So you have really shot yourself in the foot with the first 2 classes. If you really did have to make a druid stabber It would be a bit better if you chose DR/th or better yet TH/dr as you could stab and immediately shapeshift bypassing the need to wait and get pounded for 2 rounds. Cleric third would give you the heals but if you are still using shapeshift with this combo as a dr/NC you will be running of mana way before you can flee shapeshift back, heal yourself and shapeshift into a form
+Up to level 40 you are relying on your weak forms to solo, when you start leveling 2x40 your deathgrip increases a bit and you can deathgrip and then shapeshift, however you need to wear damage eq, that means you cant wear your shapeshift eq AND you need to wait at least 2 rounds untill deathgrip has done its full damage, so because you are wearing damage eq you will get pounded in those 2 rounds pretty badly and if you wear AC eq your grip will be weak and useless. So you have really shot yourself in the foot with the first 2 classes. If you really did have to make a druid stabber It would be a bit better if you chose DR/th or better yet TH/dr as you could stab and immediately shapeshift bypassing the need to wait and get pounded for 2 rounds. Cleric third would give you the heals but if you are still using shapeshift with this combo as a dr/NC you will be running of mana way before you can flee shapeshift back, heal yourself and shapeshift into a form
 
-to continue fighting so cleric third is only good for healing in groups. War quad is not bad as you will be getting your non form AC and things like tripple attack, at 40 war you can have -10ac with quad attack from your monk's flurry with a weak grip, good hp, average mana and semi-good mana regen. As your mana and mage levels grows you can start doing semi decent exp with grip/blast mobs that dont hit AC,   then when you get your necro up you can start relying on undeads to split damage while you chop in minotaur form or blast away, when you get gods of war at 7x40 you'll be able to increase your undead pets damage and rely on that. 
-
- 
+to continue fighting so cleric third is only good for healing in groups. War quad is not bad as you will be getting your non form AC and things like tripple attack, at 40 war you can have -10ac with quad attack from your monk's flurry with a weak grip, good hp, average mana and semi-good mana regen. As your mana and mage levels grows you can start doing semi decent exp with grip/blast mobs that dont hit AC, then when you get your necro up you can start relying on undeads to split damage while you chop in minotaur form or blast away, when you get gods of war at 7x40 you'll be able to increase your undead pets damage and rely on that. 
 
 So obviously your prime and secondary class choice has slowed down your progresss immensly you really did not get any prime class bonuses like almost any other class gets, and you paired it up with a monk that doesnt really work well with shapeshift. However im pretty sure that later in the game your char will certainly become interesting to play as a sort of good mana regen warrior mage that can shapeshift to kill big mobs. However, soloing being a bitch at your levels with your class and huge amounts of exp needed to get to some reasonable amount of class power you'll need to be very dedicated to get there! 
 
@@ -126,23 +124,23 @@ Howdy,
 
 Regarding the original topic, death and its consequences:
 
-   What role should death play in sloth?  Impediment?  Inconvenience?  Inconsequential?  Achievement?  Currently the feel is that death is infracting upon one's enjoyment since there is a heavy perceived loss associated with it.  Usually this is brought about by the mindset that exp is everything, or something like that, so a loss towards acheiving this primary objective is taken a lot harder than it should be.  Try staying at 3x40 for a few months and not caring a whit about exp.
+ What role should death play in sloth? Impediment? Inconvenience? Inconsequential? Achievement? Currently the feel is that death is infracting upon one's enjoyment since there is a heavy perceived loss associated with it. Usually this is brought about by the mindset that exp is everything, or something like that, so a loss towards acheiving this primary objective is taken a lot harder than it should be. Try staying at 3x40 for a few months and not caring a whit about exp.
 
-   It is genuinely good to see someone actually try to propose a solution rather than just post a generic whine.
+ It is genuinely good to see someone actually try to propose a solution rather than just post a generic whine.
 
-   A 2 hour login ban would be incredibly harsh, especially for those who really want to unwind for several hours.  Then there are the inevitable gossips querying who just died within the last two hours and left all their stuff on the kobold sage.  Furthermore, looting mobs will wreak havoc upon your corpse and its contents, unless you have a secondary character to save your corpse for you for the next two hours.  And heaven forbid if that character perishes as well.
+ A 2 hour login ban would be incredibly harsh, especially for those who really want to unwind for several hours. Then there are the inevitable gossips querying who just died within the last two hours and left all their stuff on the kobold sage. Furthermore, looting mobs will wreak havoc upon your corpse and its contents, unless you have a secondary character to save your corpse for you for the next two hours. And heaven forbid if that character perishes as well.
 
-   The main concern I see here with death and its penalties is memory.  We remember each exp loss, and each successive one, particularly when met in rapid succession.  The game however, doesn't.  Each time we die, there is the same chance for exp/level loss.  Given the 'streakiness' of our beloved random number generator, this can lead to some fairly frustrating consequences (i.e. lost concentration).  
+ The main concern I see here with death and its penalties is memory. We remember each exp loss, and each successive one, particularly when met in rapid succession. The game however, doesn't. Each time we die, there is the same chance for exp/level loss. Given the 'streakiness' of our beloved random number generator, this can lead to some fairly frustrating consequences (i.e. lost concentration). 
 
-   A solution, not necessarily the solution, would to be add some form of death/cast history.  For instance, if you die once, there is a fair chance of exp loss.  However, with each successive death, the chance diminishes.  Or perhaps you're immune to level/exp loss for the next hour or so following the first death.  
+ A solution, not necessarily the solution, would to be add some form of death/cast history. For instance, if you die once, there is a fair chance of exp loss. However, with each successive death, the chance diminishes. Or perhaps you're immune to level/exp loss for the next hour or so following the first death. 
 
-   There would have to be measures to counteract folks just blasting out, dying, recovering their corpse via ferret, outregen the mob, and just repeating this over and over again, basically the nightmare method but more time consuming.  A temporary regen penalty could be applied after the second death, increasing once or twice and then capping based on the number of times you die in quick succession, to discourage those enthusiasts who enjoy floating upwards or seeing nothing but stars.  A temporary move regen bonus could help pcs get to their corpse quicker too.
+ There would have to be measures to counteract folks just blasting out, dying, recovering their corpse via ferret, outregen the mob, and just repeating this over and over again, basically the nightmare method but more time consuming. A temporary regen penalty could be applied after the second death, increasing once or twice and then capping based on the number of times you die in quick succession, to discourage those enthusiasts who enjoy floating upwards or seeing nothing but stars. A temporary move regen bonus could help pcs get to their corpse quicker too.
 
-   This could also be applied to lost conc as well, albeit on a smaller scale, to make losing concentration more than 4 times a feat to be achieved rather than an every day occurrence.  The mechanism can be akin to the current arcane/divine focus (although I believe that just rerolls the spell at the same rate).  Roll the spell normally.  If you lose concentration once, add a focus benefit (i.e.+1% concentration).  Twice, double the focus benefit.  And so forth (so 5 casts guarantees one cast, less if you did some teaching).  A successful cast would return the benefit to 0.
+ This could also be applied to lost conc as well, albeit on a smaller scale, to make losing concentration more than 4 times a feat to be achieved rather than an every day occurrence. The mechanism can be akin to the current arcane/divine focus (although I believe that just rerolls the spell at the same rate). Roll the spell normally. If you lose concentration once, add a focus benefit (i.e.+1% concentration). Twice, double the focus benefit. And so forth (so 5 casts guarantees one cast, less if you did some teaching). A successful cast would return the benefit to 0.
 
-   An alternative method would be to recoup some of the lost exp upon corpse retrieval, say 80% of what was lost.  This would only work if you get the corpse yourself, although the mechanism to determine 'getting it yourself' could be impossible to code.  And this could discourage asking for help or self crs with other characters, resulting in possibly more deaths and more frustration.  Yes, this idea would have to be given more thought, if it is to have any merit.
+ An alternative method would be to recoup some of the lost exp upon corpse retrieval, say 80% of what was lost. This would only work if you get the corpse yourself, although the mechanism to determine 'getting it yourself' could be impossible to code. And this could discourage asking for help or self crs with other characters, resulting in possibly more deaths and more frustration. Yes, this idea would have to be given more thought, if it is to have any merit.
 
-   Of course, implementing any of these things is another matter, since it seems the coders who can actually code something of this nature, Splork in particular, are busy nowadays with that pesky 'real-life' thing that people keep alluding to.
+ Of course, implementing any of these things is another matter, since it seems the coders who can actually code something of this nature, Splork in particular, are busy nowadays with that pesky 'real-life' thing that people keep alluding to.
 
 Nobody has ideas!
 
@@ -154,7 +152,7 @@ I really feel like the mud could benefit from a change of the death penalty ways
 
 It is obvious to me that if the exp loss death penalty was to be removed completely people would feel free enjoy the mud by exploring new areas, trying new mobs and areas for exp and gold without being ever so scared of losing their hard earned exp. It would also eliminate the negative feelings we all have when we lose what was already ours and make the whole process of playing more enjoyable.
 
-However, it would also cause certain people to die mindlessly without being scared of any repercussions  and perhaps even abuse the system. So no penalty at all is out of the question.
+However, it would also cause certain people to die mindlessly without being scared of any repercussions and perhaps even abuse the system. So no penalty at all is out of the question.
 
 There are a few ways of how the penalties could be organized depending on the intention of the immortals. 
 
@@ -182,7 +180,7 @@ Splork
 
 <div class="post" data-post-id="31440" data-author="Dragoth" data-date="2010-08-10T15:51:34+00:00" data-subject="Re: Curious case of death and penalties">
 
-But how often do you die twice in a row  ? As far as i am aware, its not a matter of consequential deaths that piss people off, its the matter of losing exp.
+But how often do you die twice in a row ? As far as i am aware, its not a matter of consequential deaths that piss people off, its the matter of losing exp.
 
 And doesnt it just open up the possibility of people taking advantage of this by constantly dying to kill a mob when they are on a timer ?
 
@@ -246,21 +244,21 @@ And I'm not attacking your PERSON splork, I'm criticising your work. Taking it p
 
 I do like the idea of a timer somebody (or was it nobody?) floated above, reducing the amount lost on successive fails (either of raises or of players).
 
-Of course, we all know the REAL problem here is that clerics suck at raising me.  Two shocks in 10 minutes the other night -- WOO!  I'm way overdue for level-loss.
+Of course, we all know the REAL problem here is that clerics suck at raising me. Two shocks in 10 minutes the other night -- WOO! I'm way overdue for level-loss.
 
 </div>
 
 <div class="post" data-post-id="31448" data-author="reboog" data-date="2010-08-10T20:38:25+00:00" data-subject="Re: Curious case of death and penalties">
 
-Who is your daddy, and what does he do?  You lack discipline.  Stop whining!
+Who is your daddy, and what does he do? You lack discipline. Stop whining!
 
 </div>
 
 <div class="post" data-post-id="31452" data-author="Stab" data-date="2010-08-11T17:01:24+00:00" data-subject="Re: Curious case of death and penalties">
 
-I liked a hint at an amiable solution Splork had "Yes, this game is planned for the long term but its probably time to add some time '(type)'? of a totol level bonus to xp gains."  I think cap was raised at 240 levels for me.
+I liked a hint at an amiable solution Splork had "Yes, this game is planned for the long term but its probably time to add some time '(type)'? of a totol level bonus to xp gains." I think cap was raised at 240 levels for me.
 
-Lotta levels! Lower cap levels or adjusted level caps sounds like an area for wiggle room. Lower total levels for cap increase  while lowering percentage.
+Lotta levels! Lower cap levels or adjusted level caps sounds like an area for wiggle room. Lower total levels for cap increase while lowering percentage.
 
 Add a percentage at incrementally higher total levels. say ?% at 200 levels then ?% at 300 levels. or.. anyway it's a good thread and someone KEEP their foot in the door.! "probably time"
 
@@ -270,7 +268,7 @@ Stab
 
 <div class="post" data-post-id="31472" data-author="Acedia" data-date="2010-08-12T10:43:21+00:00" data-subject="Re: Curious case of death and penalties">
 
-Hi Jezer, your posts are idiotic.  
+Hi Jezer, your posts are idiotic. 
 
 And I'm not attacking your PERSON jezer, I'm criticising your work. Taking it personally is your choice, since singling you out specifically isn't personal at all.
 
@@ -278,7 +276,7 @@ And I'm not attacking your PERSON jezer, I'm criticising your work. Taking it pe
 
 <div class="post" data-post-id="34834" data-author="mrwarhammer" data-date="2014-01-28T01:14:47+00:00" data-subject="Re: Curious case of death and penalties">
 
-Reading this, make me take pause before I start to play.  Just wondering if there was ever any change after this?  I certainly don't want to invest months and years to get to a point where all I do is walk around talking to people, and die without being able to level up or work new areas/challenges.  So few people that have made it to 4x40, seems concerning.  Is that still the case?
+Reading this, make me take pause before I start to play. Just wondering if there was ever any change after this? I certainly don't want to invest months and years to get to a point where all I do is walk around talking to people, and die without being able to level up or work new areas/challenges. So few people that have made it to 4x40, seems concerning. Is that still the case?
 
 </div>
 
@@ -294,25 +292,25 @@ Splork
 
 <div class="post" data-post-id="34840" data-author="*Neptune*" data-date="2014-01-29T17:30:25+00:00" data-subject="Re: Curious case of death and penalties">
 
-As Splork said, there are plenty of people - a significant portion of the playerbase - that have achieved Quad 40 or better. This is evident in the way that we've tried to address more EQ options for levels in those ranges moreso  than in the past. New features such as the spirit token have also gone in to address issues that avatars may have. Sometimes it's easier to set small goals rather than trying to beeline towards an ultimate endpoint several years in the future. It helps to keep the overall picture from becoming a daunting task to one of several very manageable milestones, however personal or not.
+As Splork said, there are plenty of people - a significant portion of the playerbase - that have achieved Quad 40 or better. This is evident in the way that we've tried to address more EQ options for levels in those ranges moreso than in the past. New features such as the spirit token have also gone in to address issues that avatars may have. Sometimes it's easier to set small goals rather than trying to beeline towards an ultimate endpoint several years in the future. It helps to keep the overall picture from becoming a daunting task to one of several very manageable milestones, however personal or not.
 
--Neptune
+\-Neptune
 
 </div>
 
 <div class="post" data-post-id="34841" data-author="DarkArtist" data-date="2014-01-29T23:53:57+00:00" data-subject="Re: Curious case of death and penalties">
 
-Van is one of the few players to make the dubious achievement of dying more than 100 times in a single week. He's looking ahead to what his losses are going to be. Hopefully 2014 won't be as deadly as 2007 van :)
+Van is one of the few players to make the dubious achievement of dying more than 100 times in a single week. He's looking ahead to what his losses are going to be. Hopefully 2014 won't be as deadly as 2007 van <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="34843" data-author="Acedia" data-date="2014-01-31T13:54:36+00:00" data-subject="Re: Curious case of death and penalties">
 
-Van?  Is that you, man?
+Van? Is that you, man?
 
 Welcome back to the struggle!
 
-Cast "raise dead' Van.  Oops.
+Cast "raise dead' Van. Oops.
 
 If you are not Van,
 
@@ -324,26 +322,26 @@ Moving right along!
 
 <div class="post" data-post-id="34845" data-author="van" data-date="2014-01-31T21:45:30+00:00" data-subject="Re: Curious case of death and penalties">
 
-Lol yep, I'm back.  Still in the single digits for deaths this week, though!
+Lol yep, I'm back. Still in the single digits for deaths this week, though!
 
 </div>
 
 <div class="post" data-post-id="34846" data-author="*Idjit*" data-date="2014-02-01T00:25:07+00:00" data-subject="Re: Curious case of death and penalties">
 
-Not for want of me trying to kill him.  Honestly.
+Not for want of me trying to kill him. Honestly.
 
---Zuzu
+\--Zuzu
 
 </div>
 
 <div class="post" data-post-id="34860" data-author="reboog" data-date="2014-02-11T20:55:00+00:00" data-subject="Re: Curious case of death and penalties">
 
-> **Acedia wrote:**
-> Van?  Is that you, man?
+> <strong>Acedia wrote:</strong>
+> Van? Is that you, man?
 > 
 > Welcome back to the struggle!
 > 
-> Cast "raise dead' Van.  Oops.
+> Cast "raise dead' Van. Oops.
 > 
 > 
 > 

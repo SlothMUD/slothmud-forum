@@ -16,13 +16,13 @@ While it isnt 100% complete, it is getting there.
 
 If you have a facebook page, please click the following url and click to authorize application just below the Slothmud picture. Send it to your friends, advertise, get people playing, lets go!
 
-[<LINK_TEXT text="http://www.facebook.com/apps/applicatio ... 8496818161">http://www.facebook.com/apps/application.php?id=58496818161</LINK_TEXT>](http://www.facebook.com/apps/application.php?id=58496818161)
+[http://www.facebook.com/apps/application.php?id=58496818161](http://www.facebook.com/apps/application.php?id=58496818161)
 
 There is also a SlothMUD group, join if you'd like to please...
 
-[<LINK_TEXT text="http://www.facebook.com/developers/#/gr ... 5263108330">http://www.facebook.com/developers/#/group.php?sid=206c0c6265ea3b4e93f04d09f5a27835&gid=15263108330</LINK_TEXT>](http://www.facebook.com/developers/#/group.php?sid=206c0c6265ea3b4e93f04d09f5a27835&gid=15263108330)
+[http://www.facebook.com/developers/#/group.php?sid=206c0c6265ea3b4e93f04d09f5a27835&gid=15263108330](http://www.facebook.com/developers/#/group.php?sid=206c0c6265ea3b4e93f04d09f5a27835&gid=15263108330)
 
-  Enjoy,
+ Enjoy,
 
 Splork
 
@@ -52,7 +52,7 @@ i just tryed the myspace one. totaly awsome! u guys got a format for multiply.co
 
 <div class="post" data-post-id="28047" data-author="reboog" data-date="2009-02-11T04:43:42+00:00" data-subject="">
 
-slothbook.  faceMUD.
+slothbook. faceMUD.
 
 </div>
 
@@ -60,15 +60,18 @@ slothbook.  faceMUD.
 
 ps I thought of that myself
 
-^______^
+^\_\_\_\_\_\_^
 
 </div>
 
 <div class="post" data-post-id="28049" data-author="Weasel" data-date="2009-02-11T05:58:25+00:00" data-subject="">
 
-ps I thought of that myself
-
-^______^[/quote:1xvsn0y1]
+> <strong>reboog wrote:</strong>
+> ps I thought of that myself
+> 
+> 
+> 
+> ^\_\_\_\_\_\_^
 
 reboog is great.
 

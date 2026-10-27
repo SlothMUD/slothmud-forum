@@ -14,14 +14,14 @@ post_count: 2
 
 so has this option ever been considered. even at an outragous cost in mana it could be a hit!
 
- :idea:  :twisted: 
+ <img src="/images/smilies/icon_idea.svg" alt=":idea:" title=":idea:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-brand :!:
+brand <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="9291" data-author="Grue" data-date="2005-10-28T16:57:08+00:00" data-subject="">
 
-Be nice for my prime cleric :)
+Be nice for my prime cleric <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

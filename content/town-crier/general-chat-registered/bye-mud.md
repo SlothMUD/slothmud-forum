@@ -24,7 +24,7 @@ al
 
 <div class="post" data-post-id="15247" data-author="Autolycos" data-date="2006-11-21T15:24:03+00:00" data-subject="">
 
-that sucks man  :(
+that sucks man <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -38,7 +38,7 @@ and i'm not gonna post the conversation i had with clink
 
 <div class="post" data-post-id="15249" data-author="Keirin" data-date="2006-11-21T15:28:51+00:00" data-subject="">
 
-And I've got plocked for no apparent reason that I can think of.. *sigh* so I guess it's goodbye (by default) for me as well. Thanks for the fun and the help to everyone who taught me what mudding is about the last few months. 
+And I've got plocked for no apparent reason that I can think of.. \*sigh\* so I guess it's goodbye (by default) for me as well. Thanks for the fun and the help to everyone who taught me what mudding is about the last few months. 
 
 Cheers, 
 
@@ -48,7 +48,7 @@ Keirin/Quinte
 
 <div class="post" data-post-id="15251" data-author="*juggleblood*" data-date="2006-11-21T15:54:09+00:00" data-subject="">
 
-:shock: 
+<img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
 Clink, will you please explain what's up? I play with Gimlet and Keirin all the time and I hate to see em go. Why are they being ask to play somewhere else?
 
@@ -88,7 +88,7 @@ did, done, resolved.
 
 you'll get your eviction notice soon Will.. we all signed it.. I was the last and I used a big purple crayon.
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -106,7 +106,8 @@ Hum.. does this mean ur not coming back Jason???
 
 <div class="post" data-post-id="15265" data-author="Autolycos" data-date="2006-11-21T19:42:58+00:00" data-subject="">
 
-Hum.. does this mean ur not coming back Jason???[/quote:3su963b3]
+> <strong>Leaf wrote:</strong>
+> Hum.. does this mean ur not coming back Jason???
 
 not in your wildest dreams... 
 
@@ -114,23 +115,35 @@ one of my most important goals in life is to harass the hell out of you and Brad
 
 i'm not leaving (yet)
 
-Gimlet is leaving..  he was wronged.. and is being punished far too extreme..
+Gimlet is leaving.. he was wronged.. and is being punished far too extreme..
 
 </div>
 
 <div class="post" data-post-id="15268" data-author="*Krom*" data-date="2006-11-21T20:28:58+00:00" data-subject="">
 
-Hum.. does this mean ur not coming back Jason???[/quote:30g7oj2m]
+> <strong>Autolycos wrote:</strong>
+> > <strong>Leaf wrote:</strong>
+> > Hum.. does this mean ur not coming back Jason???
+> 
+> 
+> 
+> 
+> 
+> not in your wildest dreams... 
+> 
+> 
+> 
+> one of my most important goals in life is to harass the hell out of you and Brad.
+> 
+> 
+> 
+> i'm not leaving (yet)
+> 
+> 
+> 
+> Gimlet is leaving.. he was wronged.. and is being punished far too extreme..
 
-not in your wildest dreams... 
-
-one of my most important goals in life is to harass the hell out of you and Brad.
-
-i'm not leaving (yet)
-
-Gimlet is leaving..  he was wronged.. and is being punished far too extreme..[/quote:30g7oj2m]
-
-Although I put in a good word for him based on recent behavior, Al was actually banned for life from the mud a while back for disruptive behavior to the mud and driving away other players.  It has nothing to do with the recent activity other than it brought out who he was.
+Although I put in a good word for him based on recent behavior, Al was actually banned for life from the mud a while back for disruptive behavior to the mud and driving away other players. It has nothing to do with the recent activity other than it brought out who he was.
 
 </div>
 
@@ -138,9 +151,9 @@ Although I put in a good word for him based on recent behavior, Al was actually 
 
 honestly i have to interject something.
 
-for many times over the last few years when imm's have been asked to "do something" about a player that is constantly causing problems in groups or harassing others..   We are usually told "we cannot get involved with mortal player affairs"  and "you are going to have to find a way to deal with it amongst yourselves"  
+for many times over the last few years when imm's have been asked to "do something" about a player that is constantly causing problems in groups or harassing others.. We are usually told "we cannot get involved with mortal player affairs" and "you are going to have to find a way to deal with it amongst yourselves" 
 
-well i think along that lines it should be OUR choice on whether or not gimlet should be banned..  WE have had to deal with him, WE have had to sort through his antics and boredom.   And guess what?  A large part of us really like gimlet and enjoy playing with him.
+well i think along that lines it should be OUR choice on whether or not gimlet should be banned.. WE have had to deal with him, WE have had to sort through his antics and boredom. And guess what? A large part of us really like gimlet and enjoy playing with him.
 
 I think the playerbase should have the ability to make our own educated descisions on this matter.
 
@@ -148,7 +161,7 @@ I think the playerbase should have the ability to make our own educated descisio
 
 <div class="post" data-post-id="15272" data-author="alias" data-date="2006-11-21T23:02:45+00:00" data-subject="">
 
-You Can't ban Gimlet, he owes me like 500k for recall scrolls Ive used on him when hes dead. I was just gonna let the total rack up till he could buy me a mansion somewhere. Man I'm off the mud for 2 days and people get banned and crap?  Sorry to see u go Al, but Ill see ya on Icq I guess.
+You Can't ban Gimlet, he owes me like 500k for recall scrolls Ive used on him when hes dead. I was just gonna let the total rack up till he could buy me a mansion somewhere. Man I'm off the mud for 2 days and people get banned and crap? Sorry to see u go Al, but Ill see ya on Icq I guess.
 
 Alias
 
@@ -168,7 +181,7 @@ Splork
 
 <div class="post" data-post-id="15274" data-author="Medios" data-date="2006-11-22T00:28:41+00:00" data-subject="">
 
-I have to say that Al has been a good active member of sloth since hes been in DoW.  I dont know what has happened to bring back this former trouble but was it deserving of a ban?  Hes not a grief player, does have a foul mouth sometimes but I never knew that was a problem.  From what I know about Al hes childish about his temper and some players push him and he retaliates and is punished.  I dont see him going out and starting problems.  If I wrong please interject. 
+I have to say that Al has been a good active member of sloth since hes been in DoW. I dont know what has happened to bring back this former trouble but was it deserving of a ban? Hes not a grief player, does have a foul mouth sometimes but I never knew that was a problem. From what I know about Al hes childish about his temper and some players push him and he retaliates and is punished. I dont see him going out and starting problems. If I wrong please interject. 
 
 MikeI
 
@@ -196,7 +209,7 @@ Splork
 
 <div class="post" data-post-id="15277" data-author="Medios" data-date="2006-11-22T02:20:39+00:00" data-subject="">
 
-:!:
+<img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -206,7 +219,7 @@ Gimlet has been found guilty of being a prime instigator in a truly heinous seri
 
 ...beware Autolycos, your possible complicity in this serious matter is being strongly investigated. You too Damsel.
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -228,9 +241,9 @@ Hotara
 
 <div class="post" data-post-id="15282" data-author="Hades" data-date="2006-11-22T11:15:00+00:00" data-subject="Nothing to see here">
 
-""" "" """" "" """"  """" "
+""" "" """" "" """" """" "
 
-"" """" """"  """" """   """"
+"" """" """" """" """ """"
 
  """ """" "" """ " """
 
@@ -238,7 +251,7 @@ Hotara
 
  """"""""
 
-      :roll:
+ <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -248,13 +261,13 @@ this issue has been resolved and settled, I hope everyone would just let it die 
 
 I realized this morning what Clink meant when he said "I'm sure you felt it was right, which is why your argument carries no weight"
 
-I've committed  many many many many offences durin my stay on sloth, and abusin newbies is definitely one of them.  It's easy to say I've been good lately so they should let it slide.  The point isn't whether i felt webbing kotetzo was justified.  The point is that I felt compelled to do so in the first place.  It probably showed to Clink that I was still agressive towards noobs, and was a dormant volcano waitin to erupt and he didn't want to take that chance.
+I've committed many many many many offences durin my stay on sloth, and abusin newbies is definitely one of them. It's easy to say I've been good lately so they should let it slide. The point isn't whether i felt webbing kotetzo was justified. The point is that I felt compelled to do so in the first place. It probably showed to Clink that I was still agressive towards noobs, and was a dormant volcano waitin to erupt and he didn't want to take that chance.
 
-I've been a total bunghole in the past, and even if they did siteban me, I would've left.  I owe it to them not to create a big fuss.
+I've been a total bunghole in the past, and even if they did siteban me, I would've left. I owe it to them not to create a big fuss.
 
-Sure, when this first happened, without knowing why clink did what he did, it's easy to criticize.  But let me be the first to say, Clink was absolutely right to do what he did, so stop pointing fingers plz.
+Sure, when this first happened, without knowing why clink did what he did, it's easy to criticize. But let me be the first to say, Clink was absolutely right to do what he did, so stop pointing fingers plz.
 
-Anyways, thanks rub, jason, tiff, and the DoW gang for being such wonderful people the past few days :)
+Anyways, thanks rub, jason, tiff, and the DoW gang for being such wonderful people the past few days <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Al
 
@@ -264,61 +277,61 @@ Al
 
 I have the same sort of anger and it doesn't have anything to do with 
 
-"newbies" it has to do with people being stupid fkcing turds.  I don't think,
+"newbies" it has to do with people being stupid fkcing turds. I don't think,
 
 that just because someone is in the form of a smaller character, that they
 
-should get any leeway.   Asking questions about sloth, dying a lot, those
+should get any leeway. Asking questions about sloth, dying a lot, those
 
 are offenses that newbies commit that have to do with their being newbs.
 
-Running your mouth has nothing to do with what level you are.  Screw that.
+Running your mouth has nothing to do with what level you are. Screw that.
 
-I have said it before and I will say it again.  Your best bet is to act as though
+I have said it before and I will say it again. Your best bet is to act as though
 
-the person you're talking to is within striking distance in rl.  Otherwise people
+the person you're talking to is within striking distance in rl. Otherwise people
 
-get up on their internet horses and start running off at themouth.  Kotetzo
+get up on their internet horses and start running off at themouth. Kotetzo
 
 knew what he was doing was stupid and detrimental in general, so he should
 
-pay the consequences.  His level in Sloth has nothing to do with being a 
+pay the consequences. His level in Sloth has nothing to do with being a 
 
-mouthy fcking turd who wants to push the envelope.  As far as I'm concerned
+mouthy fcking turd who wants to push the envelope. As far as I'm concerned
 
-Kotetzo is the same as Fyrstenheart.  I blame myself, mostly, for the way Al
+Kotetzo is the same as Fyrstenheart. I blame myself, mostly, for the way Al
 
-is/was as far as his conduct on sloth.  When we met, I acted that way myself
+is/was as far as his conduct on sloth. When we met, I acted that way myself
 
-was apthief, a nuisance and 20 years old.  I ended up becoming a (shitty)
+was apthief, a nuisance and 20 years old. I ended up becoming a (shitty)
 
-part of Sloth with a couple minor changes.  Al has followed suit with the 
+part of Sloth with a couple minor changes. Al has followed suit with the 
 
 stealing and lying and ignorant useless vulgar comments I feel, because I
 
-was able to get away with it.  The thing is, we are two different people and
+was able to get away with it. The thing is, we are two different people and
 
-that dress doesn't look very good on him.  What it boils down to is that he
+that dress doesn't look very good on him. What it boils down to is that he
 
 will give you the shirt off his back and do whatever he can to help his true
 
-friends.  I have done my best to stick up for him at every turn.  This includes threatening Corwin with Elwood, inviting him to enjoy the aegis
+friends. I have done my best to stick up for him at every turn. This includes threatening Corwin with Elwood, inviting him to enjoy the aegis
 
-of the Dogs of W(hore)ar, giving him eq, characters and so forth.  With
+of the Dogs of W(hore)ar, giving him eq, characters and so forth. With
 
 this, comes the fact that I'm probably harder and more exacting on Al
 
 than anyone else on sloth, because I think I probably know him better.
 
-I *know* he can do right and is smart etc, so when I see bullshit, he gets
+I \*know\* he can do right and is smart etc, so when I see bullshit, he gets
 
-it that much harder.  Before you say 'well he hasnt done such and such
+it that much harder. Before you say 'well he hasnt done such and such
 
-to you', just shut up, because he has.  We have had our go-rounds many
+to you', just shut up, because he has. We have had our go-rounds many
 
-times before.  And just like BillyBob and I became close buddies after a
+times before. And just like BillyBob and I became close buddies after a
 
-couple 'disputes' I feel the same way towards Al.   As far as I know the
+couple 'disputes' I feel the same way towards Al. As far as I know the
 
 sentence imposed is a 2 month ban from sloth, correct?
 
@@ -330,7 +343,7 @@ Jo Momma
 
 <div class="post" data-post-id="15286" data-author="tincts" data-date="2006-11-22T21:18:54+00:00" data-subject="">
 
-Bummer  :( 
+Bummer <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom"> 
 
 See ya Gimlet dude.
 
@@ -338,17 +351,17 @@ See ya Gimlet dude.
 
 <div class="post" data-post-id="15287" data-author="12345" data-date="2006-11-22T21:36:30+00:00" data-subject="">
 
-I think Aa has it right.  Al is a smart guy that's a little rough around the edges.  Sometimes people have to take a couple rough knocks to get straightened out.  That's just life. I think Al is taking this with a great deal of maturity, especially considering his character.
+I think Aa has it right. Al is a smart guy that's a little rough around the edges. Sometimes people have to take a couple rough knocks to get straightened out. That's just life. I think Al is taking this with a great deal of maturity, especially considering his character.
 
-I've been known to be more tolerant than most...  However, I think the fact that Kotetzo has gotten himself banned from a few groups shows that he suffers from a similiar sort of immaturity.  I know that he doesn't have Al's history, but I hope he's taking notes all the same.
+I've been known to be more tolerant than most... However, I think the fact that Kotetzo has gotten himself banned from a few groups shows that he suffers from a similiar sort of immaturity. I know that he doesn't have Al's history, but I hope he's taking notes all the same.
 
 </div>
 
 <div class="post" data-post-id="15292" data-author="Dikus" data-date="2006-11-23T10:27:20+00:00" data-subject="Gimlets Ban">
 
-I am not gunna point fingers or say it is justified or anything like that. But i will say that i have put up with gimlet harrassing tossing pkilling and everything but i must say that as much as i hated him I still wouldnt want to see him go like this but i dont know what all went on in the past seeing how i just started about a yr or so ago if that. I was furious when he pkilled me and someone had to raise me at the time but now that he is gone where is that gunna come from :( but i wont say i am gunna miss that but i will miss ya Al sorry it ended like this :(
+I am not gunna point fingers or say it is justified or anything like that. But i will say that i have put up with gimlet harrassing tossing pkilling and everything but i must say that as much as i hated him I still wouldnt want to see him go like this but i dont know what all went on in the past seeing how i just started about a yr or so ago if that. I was furious when he pkilled me and someone had to raise me at the time but now that he is gone where is that gunna come from <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom"> but i wont say i am gunna miss that but i will miss ya Al sorry it ended like this <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
-One of the newbs gimlet disliked :)
+One of the newbs gimlet disliked <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Orcs/ his alts
 
@@ -362,7 +375,7 @@ Regardless, on a seperate note. Gimlet, I wish we had met under other circumstan
 
 Respectfully,
 
--Kotetzo.
+\-Kotetzo.
 
 </div>
 
@@ -370,7 +383,7 @@ Respectfully,
 
 Yup Kotetzo
 
-No hard feelings here.  I was too rash in deciding to dish out silly actions.
+No hard feelings here. I was too rash in deciding to dish out silly actions.
 
 see ya all in 2 mths
 

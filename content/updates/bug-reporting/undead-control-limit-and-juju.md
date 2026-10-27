@@ -18,7 +18,7 @@ w/ no juju: i can summon a spectre and a ghost, and later summon a juju.
 
 w/ juju already summoned: i can only summon a spectre, when i try to summon a ghost, it says i can't control such a large horde.
 
-I'd like juju thing not count towards undead control :)
+I'd like juju thing not count towards undead control <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -30,9 +30,10 @@ if a juju zombie is not undead, what, exactly, is it?
 
 <div class="post" data-post-id="4822" data-author="Falados" data-date="2005-03-06T21:41:42+00:00" data-subject="">
 
-if a juju zombie is not undead, what, exactly, is it?[/quote:2k1fcnrn]
+> <strong>Alberich wrote:</strong>
+> if a juju zombie is not undead, what, exactly, is it?
 
-its a Pokemon... more of a friend :)... haha...
+its a Pokemon... more of a friend <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">... haha...
 
 But either make it so that juju have a control #, or make it like a sup summon, where it isn't counted towards undead control, i'm basically asking for consistency, either make sure i can't summon juju after i summon a spectre and a ghost, or make the juju summoning something like familiar or sup summoning where it doesn't go towards undead control limit, not half and half as the bug/problem i described eariler.
 
@@ -42,11 +43,11 @@ But either make it so that juju have a control #, or make it like a sup summon, 
 
 okay just found something else w/ juju, w/ juju summoned:
 
-1) i summon peri, i can now summon a poltergist
+1\) i summon peri, i can now summon a poltergist
 
-2) i summon a poltergist, when i summon peri, i get i have enough followers msg
+2\) i summon a poltergist, when i summon peri, i get i have enough followers msg
 
-(this didn't happen before XD, well it did, but it was fixed, now its back T_t)
+(this didn't happen before XD, well it did, but it was fixed, now its back T\_t)
 
 </div>
 

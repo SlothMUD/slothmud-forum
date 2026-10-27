@@ -20,11 +20,11 @@ If the owner tells me the details to verify ownership, I'll give it back.
 
 You can tell me some of these:
 
-- a unique item it has
+\- a unique item it has
 
-- a more or less full list of the items
+\- a more or less full list of the items
 
-- the room you dropped it at (area, room name, dirs from entrance preferrable)
+\- the room you dropped it at (area, room name, dirs from entrance preferrable)
 
 Contact Taron ingame (mudmail) or PM here.
 

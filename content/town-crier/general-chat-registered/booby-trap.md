@@ -14,13 +14,13 @@ post_count: 4
 
 Large Components Classroom
 
-   A handful of student desks stand in two rows in front of the teacher's
+ A handful of student desks stand in two rows in front of the teacher's
 
-desk at the north end of the room.  On each desk including the teacher's
+desk at the north end of the room. On each desk including the teacher's
 
-are a few large wooden body parts: legs, arms, torsos.  A few chunks of
+are a few large wooden body parts: legs, arms, torsos. A few chunks of
 
-shaved wood and small piles of sawdust litter the floor.  Several of the
+shaved wood and small piles of sawdust litter the floor. Several of the
 
 discarded pieces are shaped like genitalia.
 
@@ -162,13 +162,13 @@ A disembodied ceramic hand scuttles across the floor.
 
 A disembodied pair of ceramic eyes floats freely through the air.
 
-[b:2iyhlmsc]Teron wtt/wtb aegis, wants to teach skills is lying here, dead.[/b:2iyhlmsc]
+<strong>Teron wtt/wtb aegis, wants to teach skills is lying here, dead.</strong>
 
 </div>
 
 <div class="post" data-post-id="18511" data-author="Atwell" data-date="2007-05-16T14:02:40+00:00" data-subject="">
 
-Operator-induced condition ;)
+Operator-induced condition <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -182,6 +182,6 @@ funny
 
 Thanks, Atwell.
 
-And Chi for getting the corpse :)
+And Chi for getting the corpse <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

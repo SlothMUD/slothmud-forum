@@ -26,7 +26,7 @@ AC-apply is -0.5
 
 Can affect you as:
 
-    Affects: HITPOINT by 15
+ Affects: HITPOINT by 15
 
 Only those who are at least adept clerics and also experienced warriors may 
 

@@ -12,67 +12,67 @@ post_count: 1
 
 <div class="post" data-post-id="14440" data-author="*Splork*" data-date="2006-10-01T21:29:15+00:00" data-subject="Quest day!">
 
-*Immortals of SlothMUD III*
+\*Immortals of SlothMUD III\*
 
------------------
+\-----------------
 
-[   *Creator*   ] (AFK) Splork [www.wintin.org](http://www.wintin.org)
+[ \*Creator\* ] (AFK) Splork [www.wintin.org](http://www.wintin.org)
 
-[   *Supremo*   ] Judge {AFK}
+[ \*Supremo\* ] Judge {AFK}
 
-[   *Builder*   ] Akasha (null)
+[ \*Builder\* ] Akasha (null)
 
-[   *Colonel*   ] Clink is a factor of 10
+[ \*Colonel\* ] Clink is a factor of 10
 
-[   * Blonde *  ] Seda .
+[ \* Blonde \* ] Seda .
 
 [pri sec ter qua] Players
 
------------------
+\-----------------
 
-[  *Assassin*   ] Osric =sMAc=
+[ \*Assassin\* ] Osric =sMAc=
 
-[  *Hierarch*   ] Krok is your goddess. ~[DoW]~
+[ \*Hierarch\* ] Krok is your goddess. \~[DoW]\~
 
-[   *Wizard*    ] Rynquald ~Dragonsworn~
+[ \*Wizard\* ] Rynquald \~Dragonsworn\~
 
-[  *Overlord*   ] Agemo asks: Have you voted for slothmud today?
+[ \*Overlord\* ] Agemo asks: Have you voted for slothmud today?
 
-[   *Wizard*    ] Lis  *Battle Mage* ~[DoW]~
+[ \*Wizard\* ] Lis \*Battle Mage\* \~[DoW]\~
 
-[  *Hierarch*   ] Avatar .
+[ \*Hierarch\* ] Avatar .
 
-[   *Wizard*    ] Brady <~Pirate~>
+[ \*Wizard\* ] Brady \<\~Pirate\~\>
 
-[  *Overlord*   ] Atwell @
+[ \*Overlord\* ] Atwell @
 
-[  *Archmage*   ] Edd ..is happy now..
+[ \*Archmage\* ] Edd ..is happy now..
 
-[  *Cutthroat*  ] Polk -a- dot <~Knights~>
+[ \*Cutthroat\* ] Polk -a- dot \<\~Knights\~\>
 
-[ *Juggernaut*  ] Alias ~Dragonsworn~
+[ \*Juggernaut\* ] Alias \~Dragonsworn\~
 
-[  *Champion*   ] Caldrick
+[ \*Champion\* ] Caldrick
 
-[  *Conjurer*   ] Grapenut ICQ# 258214484
+[ \*Conjurer\* ] Grapenut ICQ# 258214484
 
-[   *Knight*    ] Tin
+[ \*Knight\* ] Tin
 
-[   *Bishop*    ] Draco *Wyrmkin*
+[ \*Bishop\* ] Draco \*Wyrmkin\*
 
-[  *Guardian*   ] Toxis ~[DoW]~
+[ \*Guardian\* ] Toxis \~[DoW]\~
 
-[  *Guardian*   ] Rub is your crazy next door neighbor.
+[ \*Guardian\* ] Rub is your crazy next door neighbor.
 
-[  *Herbalist*  ] Vilux Hunting Spellbooks & Teachers
+[ \*Herbalist\* ] Vilux Hunting Spellbooks \& Teachers
 
-[  *Cabalist*   ] Cicada is your delusions of grandeur.
+[ \*Cabalist\* ] Cicada is your delusions of grandeur.
 
-[  *Herbalist*  ] Stryx Druid Mana Bag
+[ \*Herbalist\* ] Stryx Druid Mana Bag
 
-[   *Healer*    ] Alexus doesn't want to play with you either!
+[ \*Healer\* ] Alexus doesn't want to play with you either!
 
-[40b 40d 40c 39n] Jacinda is looking for shards :)
+[40b 40d 40c 39n] Jacinda is looking for shards <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 [40m 40c 40w 35t] Pisces - Nobody makes me bleed my own blood! -
 
@@ -80,7 +80,7 @@ post_count: 1
 
 [40w 40c 40m 33b] Igorvas {Paladin}
 
-[40n 40d 40c 31b] Adagio I hate when I'm ld :(
+[40n 40d 40c 31b] Adagio I hate when I'm ld <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 [40m 40d 40n 26c] Clue !
 
@@ -96,7 +96,7 @@ post_count: 1
 
 [40w 40o 27n 20c] Mistweaver /SCOURGE/
 
-[40m 38w 20n 20d] Koios smiles. :-) (Jabber: marcel@koios.de)
+[40m 38w 20n 20d] Koios smiles. <img src="/images/smilies/icon_e_smile.svg" alt=":-)" title=":-)" width="15" height="15" class="smiley nozoom"> (Jabber: marcel@koios.de)
 
 [40m 34d 27c 22w] Gwiem needs frostbolt spellbook please donate kindly
 
@@ -104,15 +104,15 @@ post_count: 1
 
 [40m 24d 20c 10o] Absu needs Frostbolt
 
-[38d 25c 22n 17t] Jennifer ~Dragonsworn~
+[38d 25c 22n 17t] Jennifer \~Dragonsworn\~
 
-[37c 25w 21m  8t] Dzirt .
+[37c 25w 21m 8t] Dzirt .
 
 [34b 18o 10w 11m] Pito the Untitled
 
 [32w 21n 20t 20c] Broeggle left vk finally!
 
-[27m 20d 17c  5o] Hakon 15 18 18 16 13
+[27m 20d 17c 5o] Hakon 15 18 18 16 13
 
 [20w 20n 20t 19c] Runic arms, regeneration, bloodrage
 
@@ -120,15 +120,15 @@ post_count: 1
 
 [20m 20c 15t 10n] Makita the power tool
 
-[20w 15o 13c  4d] Matrim needs orange and bloodstained
+[20w 15o 13c 4d] Matrim needs orange and bloodstained
 
-[20w 14m  9n  3t] Naiti Thugkilla
+[20w 14m 9n 3t] Naiti Thugkilla
 
-[20w 12d  8o  5b] Drahku -
+[20w 12d 8o 5b] Drahku -
 
-[13n  6w  3m  3d] Worm the Untitled
+[13n 6w 3m 3d] Worm the Untitled
 
-[ 8m  2c  1w  0t] Samantha the Untitled
+[ 8m 2c 1w 0t] Samantha the Untitled
 
 There are 55 visible players.
 
@@ -138,86 +138,86 @@ These are the groups:
 
 Polk is leading 'Quest' on The Island:
 
-            (Th 4.35)   Polk
+ (Th 4.35) Polk
 
-            (Wa 4.33)   Alias
+ (Wa 4.33) Alias
 
-            (Wa 5.00)   Atwell
+ (Wa 5.00) Atwell
 
-            (Wa 4.24)   Tin
+ (Wa 4.24) Tin
 
-            (Wa 4.29)   Caldrick
+ (Wa 4.29) Caldrick
 
-            (Wa 4.18)   Toxis
+ (Wa 4.18) Toxis
 
-            (Wa 4.16)   Rub
+ (Wa 4.16) Rub
 
-            (Wa 2.33)   Karna
+ (Wa 2.33) Karna
 
-            (Th 5.00)   Osric
+ (Th 5.00) Osric
 
-            (Ba 3.39)   Jacinda
+ (Ba 3.39) Jacinda
 
-            (Ma 5.00)   Brady
+ (Ma 5.00) Brady
 
-            (Ma 5.00)   Lis
+ (Ma 5.00) Lis
 
-            (Ma 4.36)   Edd
+ (Ma 4.36) Edd
 
-            (Ma 5.00)   Rynquald
+ (Ma 5.00) Rynquald
 
-            (Cl 5.00)   Avatar
+ (Cl 5.00) Avatar
 
-            (Cl 5.00)   Krok
+ (Cl 5.00) Krok
 
-            (Cl 4.24)   Draco
+ (Cl 4.24) Draco
 
-            (Cl 2.32)   Jag
+ (Cl 2.32) Jag
 
-            (Ma 3.35)   Pisces
+ (Ma 3.35) Pisces
 
-            (Ma 4.24)   Grapenut
+ (Ma 4.24) Grapenut
 
-            (Wa 2.27)   Mistweaver
+ (Wa 2.27) Mistweaver
 
-            (Ne 3.31)   Adagio
+ (Ne 3.31) Adagio
 
-            (Cl 2.37)   Evelyn
+ (Cl 2.37) Evelyn
 
-            (Wa 3.35)   Crunchy
+ (Wa 3.35) Crunchy
 
-            (Wa 0.32)   Broeggle
+ (Wa 0.32) Broeggle
 
-            (Ma 1.34)   Gwiem
+ (Ma 1.34) Gwiem
 
-            (Ma 0.20)   Makita
+ (Ma 0.20) Makita
 
-            (Wa 0.20)   Matrim
+ (Wa 0.20) Matrim
 
-            (Wa 0.20)   Drahku
+ (Wa 0.20) Drahku
 
-            (Ne 0.20)   Ne
+ (Ne 0.20) Ne
 
-            (Ma 0.27)   Hakon
+ (Ma 0.27) Hakon
 
-            (Wa 3.33)   Igorvas
+ (Wa 3.33) Igorvas
 
-            (Dr 4.06)   Stryx
+ (Dr 4.06) Stryx
 
-            (Ne 4.09)   Cicada
+ (Ne 4.09) Cicada
 
-            (Ma 3.26)   Clue
+ (Ma 3.26) Clue
 
-            (Ma 1.24)   Absu
+ (Ma 1.24) Absu
 
-            (Ma 2.35)   Trupik
+ (Ma 2.35) Trupik
 
-            (Wa 5.00)   Agemo
+ (Wa 5.00) Agemo
 
 Koios is leading 'The Fearful Twosome' on Niebelung:
 
-            (Ma 1.38)   Koios
+ (Ma 1.38) Koios
 
-            (Ne 1.30)   Hurensohn
+ (Ne 1.30) Hurensohn
 
 </div>

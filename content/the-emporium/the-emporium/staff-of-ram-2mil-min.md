@@ -24,9 +24,9 @@ Weight: 5, Value: 279000
 
 Can affect you as:
 
-    Affects: INT by 1
+ Affects: INT by 1
 
-    Affects: MANA by 15
+ Affects: MANA by 15
 
 Only those who are at least master magic users may use this item.
 

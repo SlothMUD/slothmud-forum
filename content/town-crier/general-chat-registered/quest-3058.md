@@ -14,81 +14,81 @@ post_count: 27
 
 I will be running a quest approximately around 5pm central USA time.
 
-Meet on Bal Harbor.  All welcome, but I'd advise newbies don't join.  (under level 21)
+Meet on Bal Harbor. All welcome, but I'd advise newbies don't join. (under level 21)
 
-Drachma, EXP, Gold... gluck! :)~
+Drachma, EXP, Gold... gluck! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">\~
 
--Tox
+\-Tox
 
 </div>
 
 <div class="post" data-post-id="28443" data-author="Toxis" data-date="2009-03-11T01:33:43+00:00" data-subject="">
 
-*Immortals of SlothMUD III* 
+\*Immortals of SlothMUD III\* 
 
------------------
+\-----------------
 
-[   *Creator*   ] Splork [<LINK_TEXT text="http://www.mudconnect.com/cgi-bin/vote_ ... othMUD+III">http://www.mudconnect.com/cgi-bin/vote_rank.cgi?mud=SlothMUD+III</LINK_TEXT>](http://www.mudconnect.com/cgi-bin/vote_rank.cgi?mud=SlothMUD+III)
+[ \*Creator\* ] Splork [http://www.mudconnect.com/cgi-bin/vote_rank.cgi?mud=SlothMUD+III](http://www.mudconnect.com/cgi-bin/vote_rank.cgi?mud=SlothMUD+III)
 
-[  *DaHealAh*   ] Tox QUEST STARTS VERY SOON...
+[ \*DaHealAh\* ] Tox QUEST STARTS VERY SOON...
 
-[  *Immortal*   ] Ziva ---
+[ \*Immortal\* ] Ziva ---
 
 [pri sec ter qua] Players
 
------------------
+\-----------------
 
-[  *Assassin*   ] Restive ~DS~
+[ \*Assassin\* ] Restive \~DS\~
 
-[  *Arch-Lich*  ] Zero ..
+[ \*Arch-Lich\* ] Zero ..
 
-[  *Assassin*   ] Virus [[[CSK]]] need immortal help with buying stat.
+[ \*Assassin\* ] Virus [[[CSK]]] need immortal help with buying stat.
 
-[  *Hierarch*   ] Assirian {Greedy} teach rdead
+[ \*Hierarch\* ] Assirian {Greedy} teach rdead
 
-[  *Overlord*   ] Agemo -- Vote for Slothmud!
+[ \*Overlord\* ] Agemo -- Vote for Slothmud!
 
-[ *Grand Druid* ] Stryx ~[DoW]~ 
+[ \*Grand Druid\* ] Stryx \~[DoW]\~ 
 
-[  *Arch-Lich*  ] Aston [Legends]
+[ \*Arch-Lich\* ] Aston [Legends]
 
-[  *Overlord*   ] Bazilus the Crazy Python {Greedy}
+[ \*Overlord\* ] Bazilus the Crazy Python {Greedy}
 
-[   *Wizard*    ] Truth {Greedy} little teapot
+[ \*Wizard\* ] Truth {Greedy} little teapot
 
-[  *Overlord*   ] Strider {GAIDIN} Had a great time at Nationals
+[ \*Overlord\* ] Strider {GAIDIN} Had a great time at Nationals
 
-[  *Assassin*   ] Cizin wtb/wtt a purple stinger [[[CSK]]]
+[ \*Assassin\* ] Cizin wtb/wtt a purple stinger [[[CSK]]]
 
-[  *Hierarch*   ] Madmax <GoldenTigers>
+[ \*Hierarch\* ] Madmax \<GoldenTigers\>
 
-[  *Overlord*   ] Sa [Legends] 
+[ \*Overlord\* ] Sa [Legends] 
 
-[   *Villain*   ] Ferrum {Greedy} teach nothing just now
+[ \*Villain\* ] Ferrum {Greedy} teach nothing just now
 
-[ *Juggernaut*  ] Yasik watching anime, DND.
+[ \*Juggernaut\* ] Yasik watching anime, DND.
 
-[    *Magus*    ] Norks the Untitled
+[ \*Magus\* ] Norks the Untitled
 
-[  *Champion*   ] Rovena ____
+[ \*Champion\* ] Rovena \_\_\_\_
 
-[  *Enchanter*  ] Kull Island school coin ~Dragonsworn~
+[ \*Enchanter\* ] Kull Island school coin \~Dragonsworn\~
 
-[   *Brigand*   ] Stab ** [Legends]
+[ \*Brigand\* ] Stab \*\* [Legends]
 
-[   *Prelate*   ] Xamak [Legends]
+[ \*Prelate\* ] Xamak [Legends]
 
-[   *Burglar*   ] Inra .
+[ \*Burglar\* ] Inra .
 
-[ *Troubadour*  ] Kanae [Legends]
+[ \*Troubadour\* ] Kanae [Legends]
 
-[ *Skinwalker*  ] Dubbs * wea u at Kroldor/Ewari?! [[[CSK]]]
+[ \*Skinwalker\* ] Dubbs \* wea u at Kroldor/Ewari?! [[[CSK]]]
 
-[   *Ranger*    ] Crunchy [Legends] needs master strike, flesh golem sbs
+[ \*Ranger\* ] Crunchy [Legends] needs master strike, flesh golem sbs
 
-[   *Ranger*    ] Josiah <~PIRATE~> is in his new house!
+[ \*Ranger\* ] Josiah \<\~PIRATE\~\> is in his new house!
 
-[40w 40o 40c 37d] Rerabbiter :)
+[40w 40o 40c 37d] Rerabbiter <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 [40m 40w 40c 25d] Strauss [Legends] mfly mwater slow haste icestorm sandstorm grease
 
@@ -96,7 +96,7 @@ Drachma, EXP, Gold... gluck! :)~
 
 [40t 40o 31c 15m] Concept feast,succor,mwb,massinv,windrun,closingweave,chronosinc(1)
 
-[40w 35b 25n 22c] Morn reign_confus|wall_sleep|passage|rina|condemnation
+[40w 35b 25n 22c] Morn reign\_confus\|wall\_sleep\|passage\|rina\|condemnation
 
 [34t 25m 15w 10c] Hounds wtb ivroy hiltted dagger
 
@@ -108,23 +108,23 @@ Drachma, EXP, Gold... gluck! :)~
 
 [20d 20n 20o 13b] Unmace the Unfathomable
 
-[20w 20m 12c  5t] Xerox the copier
+[20w 20m 12c 5t] Xerox the copier
 
-[20t 19m 10w  6c] Apb >.
+[20t 19m 10w 6c] Apb \>.
 
-[20c 18w  9m  3t] Minga the drunkard
+[20c 18w 9m 3t] Minga the drunkard
 
-[19m 11c  8w  4t] Vooder the Untitled
+[19m 11c 8w 4t] Vooder the Untitled
 
-[ 8w  4c  0o  1m] Tigga the Untitled
+[ 8w 4c 0o 1m] Tigga the Untitled
 
-[ 4c  2o  0m  0b] Renix the Untitled
+[ 4c 2o 0m 0b] Renix the Untitled
 
-[ 4n  1d  0w  0m] Solanum the Untitled
+[ 4n 1d 0w 0m] Solanum the Untitled
 
-[ 2n  0w  0c  0t] Rumaheim the Untitled
+[ 2n 0w 0c 0t] Rumaheim the Untitled
 
-[ 2w  0m  0d  0o] Ottical the Untitled
+[ 2w 0m 0d 0o] Ottical the Untitled
 
 There are 47 visible players.
 
@@ -134,59 +134,59 @@ And before the end:
 
 Josiah is leading 'Josiah's Fearless Adventurers' on Niebelung:
 
-            (Wa:4.07)   Josiah
+ (Wa:4.07) Josiah
 
-            (Wa:5.40)   Strider
+ (Wa:5.40) Strider
 
-            (Wa:5.40)   Sa
+ (Wa:5.40) Sa
 
-            (Wa:5.40)   Bazilus
+ (Wa:5.40) Bazilus
 
-            (Wa:5.40)   Agemo
+ (Wa:5.40) Agemo
 
-            (Wa:4.30)   Rovena
+ (Wa:4.30) Rovena
 
-            (Wa:4.33)   Yasik
+ (Wa:4.33) Yasik
 
-            (Wa:3.37)   Rerabbiter
+ (Wa:3.37) Rerabbiter
 
-            (Wa:1.35)   Morn
+ (Wa:1.35) Morn
 
-            (Ba:4.23)   Kanae
+ (Ba:4.23) Kanae
 
-            (Th:4.23)   Inra
+ (Th:4.23) Inra
 
-            (Th:5.40)   Virus
+ (Th:5.40) Virus
 
-            (Th:4.36)   Ferrum
+ (Th:4.36) Ferrum
 
-            (Th:5.40)   Restive
+ (Th:5.40) Restive
 
-            (Th:2.31)   Concept
+ (Th:2.31) Concept
 
-            (Cl:5.40)   Assirian
+ (Cl:5.40) Assirian
 
-            (Ma:5.40)   Truth
+ (Ma:5.40) Truth
 
-            (Ma:4.31)   Norks
+ (Ma:4.31) Norks
 
-            (Ma:4.29)   Kull
+ (Ma:4.29) Kull
 
-            (Dr:2.31)   Wingnut
+ (Dr:2.31) Wingnut
 
-            (Th:0.30)   Jueltr
+ (Th:0.30) Jueltr
 
-            (Dr:4.21)   Dubbs
+ (Dr:4.21) Dubbs
 
-            (Ne:5.40)   Aston
+ (Ne:5.40) Aston
 
-            (Dr:5.40)   Stryx
+ (Dr:5.40) Stryx
 
-            (Ma:3.25)   Strauss
+ (Ma:3.25) Strauss
 
-We had quite a few leave durring that time.  Expect more quests in the future.  Thank you all who joined.
+We had quite a few leave durring that time. Expect more quests in the future. Thank you all who joined.
 
--Tox
+\-Tox
 
 </div>
 
@@ -194,15 +194,15 @@ We had quite a few leave durring that time.  Expect more quests in the future.  
 
 I, personally, enjoyed the massacra.
 
-What else a good quest needs anyway?!  8)
+What else a good quest needs anyway?! <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="28447" data-author="Toxis" data-date="2009-03-11T03:35:00+00:00" data-subject="">
 
-This was a rare and unusual quest with lots of eq.  It won't happen for quite some time, but I felt is was overdue.
+This was a rare and unusual quest with lots of eq. It won't happen for quite some time, but I felt is was overdue.
 
-Josiah got Ruby Sceptre 5d5 1 marg +3  hit
+Josiah got Ruby Sceptre 5d5 1 marg +3 hit
 
 Astone undead crown from jorraine
 
@@ -248,7 +248,7 @@ inra shadow paldrons
 
 ferrum rerolled his newbie, he only got playable stats.. sorry.
 
--Tox
+\-Tox
 
 </div>
 
@@ -266,17 +266,18 @@ nice stuff,make more of these quests:) very enjoyable
 
 <div class="post" data-post-id="28493" data-author="Toxis" data-date="2009-03-14T22:30:10+00:00" data-subject="">
 
-I'm glad you all liked it.  I will try to run more quests more often and at different times.  I will also be trying to find different ways to run quests.
+I'm glad you all liked it. I will try to run more quests more often and at different times. I will also be trying to find different ways to run quests.
 
 Next quest will be monday 10 AM central.
 
--Tox
+\-Tox
 
 </div>
 
 <div class="post" data-post-id="28496" data-author="Weasel" data-date="2009-03-14T23:10:18+00:00" data-subject="">
 
-Next quest will be monday 10 AM central. -Tox[/quote:265ux7ar]
+> <strong>Toxis wrote:</strong>
+> Next quest will be monday 10 AM central. -Tox
 
 Bah. I'll be picking up my pen and starting a 2 hour midterm exam on Consolidated and Not-For-Profit Entities at precisely that time (11am EST).
 
@@ -332,7 +333,7 @@ King Lucius DeGrance II quests-- 'seek out the seer in the gypsies'
 
 King Lucius DeGrance II quests-- 'she might know a way to defeat the devil'
 
-*moving to gypsey*
+\*moving to gypsey\*
 
 The gypsy seer says 'oh my!'
 
@@ -408,7 +409,7 @@ The gypsy seer says 'as he attempted to last time'
 
 The gypsy seer says 'One moment please'
 
-*seems she very old and got tired from us* :)
+\*seems she very old and got tired from us\* <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 The gypsy seer says 'Find these scrolls, and bring them to me'
 
@@ -434,7 +435,7 @@ Truth found one ot Lolth and one on Demogorgon.
 
 Got some dr from Lolth.
 
-*we come back to seer*
+\*we come back to seer\*
 
 The gypsy seer says 'do you have the scrolls?'
 
@@ -448,7 +449,7 @@ The gypsy seer says 'drop them pls'
 
 The gypsy seer says 'give me one moment'
 
-*You feel power rush through your body.*
+\*You feel power rush through your body.\*
 
 The gypsy seer says 'Now go back to the Fractal Lair'
 
@@ -460,7 +461,7 @@ We move to new Dweb to Asmodeus, many lizards trying blocked a way.
 
 Asmodeus was very fat, after some runs his lite was droped by our world Gods. +)
 
-Finaly we punished him down with some reward: dr, *hehe* 0 exp and Rod of Asmodeus (5d5 +1maregen +3hit).
+Finaly we punished him down with some reward: dr, \*hehe\* 0 exp and Rod of Asmodeus (5d5 +1maregen +3hit).
 
 The gypsy seer quests-- 'Leave me be!'
 
@@ -470,7 +471,7 @@ King Lucius DeGrance II quests-- 'come to me, and I shall give rewards for your 
 
 We move to King for take our rewards.
 
-----
+\----
 
 Tox gives you the Rock of the Ages.
 
@@ -536,45 +537,45 @@ wow.. that's a lot of impressive eq given out. nice.
 
 <div class="post" data-post-id="28526" data-author="Toxis" data-date="2009-03-17T00:42:21+00:00" data-subject="">
 
-I took those silk pants back from concept since he got something on the first quest and it was a part two to the first one for people who couldn't join.  I'm sorry for those who couldn't come for both, but there'll be more quests in the future.
+I took those silk pants back from concept since he got something on the first quest and it was a part two to the first one for people who couldn't join. I'm sorry for those who couldn't come for both, but there'll be more quests in the future.
 
-Another thing I think needs mentioned is the reason why Sa was able to give his cp back and trade for something else.  When he joined the first time, he came in late, so I told him he could have a small cp.  When he tanked the second quest and was there for the whole thing, I felt he was jipped especially when he died so much... wow did he die :)  So I took back the cp from the first quest and gave him a new prize.
+Another thing I think needs mentioned is the reason why Sa was able to give his cp back and trade for something else. When he joined the first time, he came in late, so I told him he could have a small cp. When he tanked the second quest and was there for the whole thing, I felt he was jipped especially when he died so much... wow did he die <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> So I took back the cp from the first quest and gave him a new prize.
 
-I'll be changing the way quest eq is given out from me in the future.  Don't even bother asking, I'm not going to say.  But I'm planning to make it as fair as possible.
+I'll be changing the way quest eq is given out from me in the future. Don't even bother asking, I'm not going to say. But I'm planning to make it as fair as possible.
 
-By the way, Bazilus.. that was amazing summary of the quest.  Standing ovation to you.
+By the way, Bazilus.. that was amazing summary of the quest. Standing ovation to you.
 
--Tox
+\-Tox
 
 </div>
 
 <div class="post" data-post-id="28527" data-author="brady" data-date="2009-03-17T00:50:13+00:00" data-subject="">
 
-It was a good time and I would have been happy with just the drachma.  I'm certainly not complaining but I'm of the opinion that quest eq should be given out based on merit.  Just my two cents.
+It was a good time and I would have been happy with just the drachma. I'm certainly not complaining but I'm of the opinion that quest eq should be given out based on merit. Just my two cents.
 
 </div>
 
 <div class="post" data-post-id="28534" data-author="Sheng" data-date="2009-03-17T13:19:53+00:00" data-subject="">
 
-And by merit, I think he's referring to the fact that when the quest became not 'check epics for scrolls', but 'search all the big mobs on the entire mud for scrolls, and by the way immort is afk', Brady was the one that came through and found the Krakken for us :)
+And by merit, I think he's referring to the fact that when the quest became not 'check epics for scrolls', but 'search all the big mobs on the entire mud for scrolls, and by the way immort is afk', Brady was the one that came through and found the Krakken for us <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-Also notable was Ferret Truth, who risked (and encountered) certain death dancing with the demons and lizards in dweb to find scrolls on lolth and demo.  Truth was also MVP of last week's quest, but received no special reward for bravely and general usefulness.
+Also notable was Ferret Truth, who risked (and encountered) certain death dancing with the demons and lizards in dweb to find scrolls on lolth and demo. Truth was also MVP of last week's quest, but received no special reward for bravely and general usefulness.
 
-Finally, though I was 2.tank and my 'Sa is dead!' trigger fired upwards of a dozen times, I rarely bit it.  I was kept alive in large part by quick typing, potions, and the great healing skills of Suriv, who was consistently  the fastest healer to notice that 2.tank was up for heals.  I might vote for Suriv as MVP, except that (like everyone else), he always had mana when Sa died.  On one of the few occasions that I did croak, it was discouraging to watch 5x40s pouring huge heals into the corpse of Sa while I sat at 200 hp.
+Finally, though I was 2.tank and my 'Sa is dead!' trigger fired upwards of a dozen times, I rarely bit it. I was kept alive in large part by quick typing, potions, and the great healing skills of Suriv, who was consistently the fastest healer to notice that 2.tank was up for heals. I might vote for Suriv as MVP, except that (like everyone else), he always had mana when Sa died. On one of the few occasions that I did croak, it was discouraging to watch 5x40s pouring huge heals into the corpse of Sa while I sat at 200 hp.
 
-If immorts and quest leaders don't want to take the responsibility of choosing who is mvp and/or who is most deserving of reward, groups have been known to handle picking MVPs well in the past.  Have each person in the group gjob three people, and let the top three fight/trade/random over the epic loot.  My picks would have been truth brady and baz.  When someone can be in the quest group and do nothing other than enter portal timely and random well, the system needs an upgrade.
+If immorts and quest leaders don't want to take the responsibility of choosing who is mvp and/or who is most deserving of reward, groups have been known to handle picking MVPs well in the past. Have each person in the group gjob three people, and let the top three fight/trade/random over the epic loot. My picks would have been truth brady and baz. When someone can be in the quest group and do nothing other than enter portal timely and random well, the system needs an upgrade.
 
 </div>
 
 <div class="post" data-post-id="28536" data-author="OldTower" data-date="2009-03-17T14:16:07+00:00" data-subject="">
 
-I bet Kjar is up to the task of writing a contribution system for you guys.  It could be attached to the group descriptor and used for quests or really any applicable time.  The group leader could start it up with something like "gcontrib enable" then "gcontrib clear".  Then something like "gcontrib report" can report relative contribution since the last clear to the group.  Assign contribution for healing (successful, not overhealing), damage dealt, damage taken (again actual, not overkill), debuffs applied, etc.  The trick would be to allow (and regulate) additional bonus contribution points for those things in quests like finding the hidden mob/item/room or coming up with the winning strategy.  But I think a group leader (or an immort member of the group) could run "gcontrib bonus <player>", and said bonuses were always displayed to the group, would be sufficient.
+I bet Kjar is up to the task of writing a contribution system for you guys. It could be attached to the group descriptor and used for quests or really any applicable time. The group leader could start it up with something like "gcontrib enable" then "gcontrib clear". Then something like "gcontrib report" can report relative contribution since the last clear to the group. Assign contribution for healing (successful, not overhealing), damage dealt, damage taken (again actual, not overkill), debuffs applied, etc. The trick would be to allow (and regulate) additional bonus contribution points for those things in quests like finding the hidden mob/item/room or coming up with the winning strategy. But I think a group leader (or an immort member of the group) could run "gcontrib bonus \<player\>", and said bonuses were always displayed to the group, would be sufficient.
 
 There ya go, fair and impartial (mostly) contribution tracking for quests and other group events.
 
 Tower
 
-Edit: By the way, this idea is totally ripped from Warhammer: Online.  If they ripped it from somewhere else, I wouldn't know. :)
+Edit: By the way, this idea is totally ripped from Warhammer: Online. If they ripped it from somewhere else, I wouldn't know. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -582,17 +583,16 @@ Edit: By the way, this idea is totally ripped from Warhammer: Online.  If they r
 
 So by that system I could get quest eq by sleeping during combat, healing the heck out of the tank during regen, and randomly wandering off to run stab xp when no one was looking.
 
-Merit is quests is not about damage dealt or number of deaths.  It's about things that actually contribute.  It's the heal that keeps a tank alive when you aren't "IN" for heals.  It's finding the quest mobs so the group doesn't sit around and do nothing.  It's the roleplaying that convinces immorts to lend assistance to speed things up.  It's the person in the group that figures out that you're looking for four red-epic-flag in mob inventory on SS before the questor is even done talking.  It's leading a bunch of noobs who pay less attention than a bh xp group and whine about rewards.
+Merit is quests is not about damage dealt or number of deaths. It's about things that actually contribute. It's the heal that keeps a tank alive when you aren't "IN" for heals. It's finding the quest mobs so the group doesn't sit around and do nothing. It's the roleplaying that convinces immorts to lend assistance to speed things up. It's the person in the group that figures out that you're looking for four red-epic-flag in mob inventory on SS before the questor is even done talking. It's leading a bunch of noobs who pay less attention than a bh xp group and whine about rewards.
 
-It's the people who pay attention the whole quest and go above and beyond blasting a mob or spending their mana in the healo and then going afk for a drink.  It's definately not the warriors who auto assist and never think that their mana might keep the tank alive.  It isn't nine thieves who do nothing but stab target on follow, and don't even try to take out swarms of splork mobs pouring into a room.  Slothmud isn't an MMO designed for eight year olds.  We can figure out who contributed the most without some bogus formula.
+It's the people who pay attention the whole quest and go above and beyond blasting a mob or spending their mana in the healo and then going afk for a drink. It's definately not the warriors who auto assist and never think that their mana might keep the tank alive. It isn't nine thieves who do nothing but stab target on follow, and don't even try to take out swarms of splork mobs pouring into a room. Slothmud isn't an MMO designed for eight year olds. We can figure out who contributed the most without some bogus formula.
 
 </div>
 
 <div class="post" data-post-id="28538" data-author="OldTower" data-date="2009-03-17T16:01:46+00:00" data-subject="">
 
-So by that system I could get quest eq by sleeping during combat, healing the heck out of the tank during regen, and randomly wandering off to run stab xp when no one was looking.
-
-[/quote:14pq6kj4]
+> <strong>Sheng wrote:</strong>
+> So by that system I could get quest eq by sleeping during combat, healing the heck out of the tank during regen, and randomly wandering off to run stab xp when no one was looking.
 
 I haven't been around for a while, but I didn't realize that tanks required that much healing during regen (remember I said don't count overheals), or that you could sleep during combat and do as much damage as if you weren't.
 
@@ -624,7 +624,8 @@ I think quest eq giveaways should just be eliminated entirely and quest rewards 
 
 <div class="post" data-post-id="28543" data-author="Bazilus" data-date="2009-03-17T22:30:20+00:00" data-subject="Quest">
 
-I think quest eq giveaways should just be eliminated entirely and quest rewards should just be drachma based. Instead of having an mvp, there could just be bonus drachma given for accomplishing certain tasks for the group during the quest.[/quote:1qo9f2ob]
+> <strong>juggleblood wrote:</strong>
+> I think quest eq giveaways should just be eliminated entirely and quest rewards should just be drachma based. Instead of having an mvp, there could just be bonus drachma given for accomplishing certain tasks for the group during the quest.
 
 Got much dr, but i dont know what to buy, dont see any good stuff in elite shop. But quest items is good.
 
@@ -634,9 +635,9 @@ Bazilus the Crazy Python
 
 <div class="post" data-post-id="28544" data-author="Medios" data-date="2009-03-17T23:00:36+00:00" data-subject="">
 
-Quest giveaways are cool but not two quests within a few days.  Also quest eq is valuable and we don't want to inflate everything by passing out 5 pieces every week.
+Quest giveaways are cool but not two quests within a few days. Also quest eq is valuable and we don't want to inflate everything by passing out 5 pieces every week.
 
-Juggleblood wants drachma to cover everything except the eq in shops is getting outdated and some players have everything they need.  There are small improvements they could make but most don't want to spend for 5 mana when they can run xp.
+Juggleblood wants drachma to cover everything except the eq in shops is getting outdated and some players have everything they need. There are small improvements they could make but most don't want to spend for 5 mana when they can run xp.
 
 Keep up the good work Brad.
 
@@ -644,11 +645,11 @@ Keep up the good work Brad.
 
 <div class="post" data-post-id="28545" data-author="Sheng" data-date="2009-03-17T23:41:22+00:00" data-subject="">
 
-Just in case there was confusion (baz) I wasn't slamming on any immorts in my post.  I was suggesting that we don't need or want a mathmatical formula that calculates who the 'best contributor' is.
+Just in case there was confusion (baz) I wasn't slamming on any immorts in my post. I was suggesting that we don't need or want a mathmatical formula that calculates who the 'best contributor' is.
 
-I've often thought about immorting, but I'm a little worried about it.  There's no secret that there was once some bad blood between Splork and myself -- I was somewhat abusive and exceptionally mouthy, and he gave me a rediculously heavy punishment as a result.  Now, I'm not sure if some of the high ups would appreciate me as an immort contributor.
+I've often thought about immorting, but I'm a little worried about it. There's no secret that there was once some bad blood between Splork and myself -- I was somewhat abusive and exceptionally mouthy, and he gave me a rediculously heavy punishment as a result. Now, I'm not sure if some of the high ups would appreciate me as an immort contributor.
 
-Secondly, a lot of the fun I have on sloth is based on knowing how things work behind the scenes.  You don't spend hours in the arena testing how much damage strike does at different handdam/focus levels, or find out that average  monk unarmed base damage is 11.2 unless you pay a ton of attention to that kind of thing.
+Secondly, a lot of the fun I have on sloth is based on knowing how things work behind the scenes. You don't spend hours in the arena testing how much damage strike does at different handdam/focus levels, or find out that average monk unarmed base damage is 11.2 unless you pay a ton of attention to that kind of thing.
 
 Since I don't have an immort, I can get away with things that would possibly be punishable if I was doing the exact same thing -- but presumed to be using 'immort info.'
 
@@ -656,7 +657,7 @@ Since I don't have an immort, I can get away with things that would possibly be 
 
 <div class="post" data-post-id="28547" data-author="*Splork*" data-date="2009-03-18T01:10:28+00:00" data-subject="">
 
-I agree, my punishment may of been slightly overboard. At the time, I was simply fed up with with constant abuse by a few players.  Our mud was changing monthly and our Immortal staff was adding projects and code at a record pace. Some of additions obviously had holes:)
+I agree, my punishment may of been slightly overboard. At the time, I was simply fed up with with constant abuse by a few players. Our mud was changing monthly and our Immortal staff was adding projects and code at a record pace. Some of additions obviously had holes:)
 
 Either way, the abuse for the most part stopped and players started reporting our mistakes. Some may still exist to this day but that is life.
 
@@ -672,10 +673,10 @@ Splork@slothmud.org
 
 <div class="post" data-post-id="28548" data-author="Virus" data-date="2009-03-18T01:26:36+00:00" data-subject="">
 
-> **Sheng wrote:**
+> <strong>Sheng wrote:</strong>
 > except that (like everyone else), he always had mana when Sa died.
 
- ....Hey I was saving my mana to heal you, who care about Sa  :twisted:
+ ....Hey I was saving my mana to heal you, who care about Sa <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

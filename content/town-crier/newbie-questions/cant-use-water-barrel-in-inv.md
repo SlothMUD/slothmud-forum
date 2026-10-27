@@ -12,13 +12,13 @@ post_count: 5
 
 <div class="post" data-post-id="34367" data-author="Yasik" data-date="2013-07-30T08:47:59+00:00" data-subject="Cant use water barrel in Inv">
 
-**drink water-barrel
+<strong>drink water-barrel</strong>
 
-drink water-barrel
+<strong>drink water-barrel</strong>
 
-You can't find it!**
+<strong>You can't find it!</strong>
 
-<193hp 113ma 172mv>  [-10]  AC: 4.2  EXP: 17107  COINS: 57299  [raining] [Bal Harbor Town]
+\<193hp 113ma 172mv\> [-10] AC: 4.2 EXP: 17107 COINS: 57299 [raining] [Bal Harbor Town]
 
 i
 
@@ -26,7 +26,7 @@ You are carrying:
 
 a transparent spellbook..It emits a faint humming sound!
 
-**a water barrel**
+<strong>a water barrel</strong>
 
 a damp moldy scroll [3]
 
@@ -38,13 +38,13 @@ a forest green wreath
 
 a backpack
 
-<193hp 113ma 174mv>  [-10]  AC: 4.2  EXP: 17107  COINS: 57299  [raining] [Bal Harbor Town]
+\<193hp 113ma 174mv\> [-10] AC: 4.2 EXP: 17107 COINS: 57299 [raining] [Bal Harbor Town]
 
-**fill water-barrel
+<strong>fill water-barrel</strong>
 
-You don't have that!**
+<strong>You don't have that!</strong>
 
-<193hp 113ma 174mv>  [-10]  AC: 4.2  EXP: 17107  COINS: 57299  [raining] [Bal Harbor Town]
+\<193hp 113ma 174mv\> [-10] AC: 4.2 EXP: 17107 COINS: 57299 [raining] [Bal Harbor Town]
 
 i
 
@@ -52,7 +52,7 @@ You are carrying:
 
 a transparent spellbook..It emits a faint humming sound!
 
-**a water barrel**
+<strong>a water barrel</strong>
 
 a damp moldy scroll [3]
 
@@ -64,13 +64,13 @@ a forest green wreath
 
 a backpack
 
-<193hp 113ma 176mv>  [-10]  AC: 4.2  EXP: 17107  COINS: 57299  [raining] [Bal Harbor Town]
+\<193hp 113ma 176mv\> [-10] AC: 4.2 EXP: 17107 COINS: 57299 [raining] [Bal Harbor Town]
 
 score
 
-Beavis the Untitled  (level: 13)
+Beavis the Untitled (level: 13)
 
-Your levels:  Mo: 13 Ne: 1 Cl: 1 
+Your levels: Mo: 13 Ne: 1 Cl: 1 
 
 You are 23 years, 3 months, 4 days old.
 
@@ -98,9 +98,9 @@ SUM: 74
 
 You are standing.
 
-You are affected by the following spells:   None.
+You are affected by the following spells: None.
 
-<193hp 113ma 176mv>  [-10]  AC: 4.2  EXP: 17107  COINS: 55799  [raining] [Bal Harbor Town]
+\<193hp 113ma 176mv\> [-10] AC: 4.2 EXP: 17107 COINS: 55799 [raining] [Bal Harbor Town]
 
 recite identify barrel
 
@@ -108,7 +108,7 @@ You recite a scroll of identify which dissolves.
 
 You feel informed:
 
-**Object 'water barrel'**, Item type: LIQUID CONTAINER
+<strong>Object 'water barrel'</strong>, Item type: LIQUID CONTAINER
 
 Item is: NOBITS
 
@@ -122,17 +122,17 @@ drink water-barrel
 
 You can't find it!
 
-<193hp 113ma 183mv>  [-10]  AC: 4.2  EXP: 17107  COINS: 45799  [raining] [Bal Harbor Town]
+\<193hp 113ma 183mv\> [-10] AC: 4.2 EXP: 17107 COINS: 45799 [raining] [Bal Harbor Town]
 
 You can't find it!
 
-<193hp 113ma 183mv>  [-10]  AC: 4.2  EXP: 17107  COINS: 45799  [raining] [Bal Harbor Town]
+\<193hp 113ma 183mv\> [-10] AC: 4.2 EXP: 17107 COINS: 45799 [raining] [Bal Harbor Town]
 
 fill barrel
 
 You fill a water barrel with water.
 
-<193hp 113ma 184mv>  [-10]  AC: 4.2  EXP: 17107  COINS: 45799  [raining] [Bal Harbor Town]
+\<193hp 113ma 184mv\> [-10] AC: 4.2 EXP: 17107 COINS: 45799 [raining] [Bal Harbor Town]
 
 drink water-barrel
 
@@ -140,7 +140,7 @@ drink water-barrel
 
 You do not feel thirsty.
 
-<193hp 113ma 184mv>  [-10]  AC: 4.2  EXP: 17107  COINS: 45799  [raining] [Bal Harbor Town]
+\<193hp 113ma 184mv\> [-10] AC: 4.2 EXP: 17107 COINS: 45799 [raining] [Bal Harbor Town]
 
 You do not feel thirsty.
 
@@ -154,7 +154,7 @@ my guess is your using "barrel" to use identify/fill it but your using "water-ba
 
 <div class="post" data-post-id="34369" data-author="Oboe" data-date="2013-07-31T02:22:09+00:00" data-subject="Re: Cant use water barrel in Inv">
 
-Water containers pick up a keyword from whatever liquid they hold.  It's just "barrel" when empty, but it's "water barrel" when it contains water.  Filling with milk would probably yield "milk barrel".
+Water containers pick up a keyword from whatever liquid they hold. It's just "barrel" when empty, but it's "water barrel" when it contains water. Filling with milk would probably yield "milk barrel".
 
 </div>
 

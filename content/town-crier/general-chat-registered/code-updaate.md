@@ -12,7 +12,7 @@ post_count: 3
 
 <div class="post" data-post-id="40194" data-author="*teker*" data-date="2025-07-28T18:23:13+00:00" data-subject="Code updaate">
 
-Today's reboot has some fixes based on some performance metrics we saw during previous lag.  Today's fixes reduce the number of calls to retrieve system time information that is used throughout the code for things like spell affect/cooldown timing and internal metrics we use to measure lag.
+Today's reboot has some fixes based on some performance metrics we saw during previous lag. Today's fixes reduce the number of calls to retrieve system time information that is used throughout the code for things like spell affect/cooldown timing and internal metrics we use to measure lag.
 
 </div>
 
@@ -28,6 +28,6 @@ that's excellent in a way
 
 Something tells me Idjit will appreciate this...
 
-[<LINK_TEXT text="https://www.youtube.com/watch?v=Jne9t8s ... 0JAYcqIYzv">https://www.youtube.com/watch?v=Jne9t8sHpUc&pp=ygUYaXJvbmljIGFsYW5pcyBtb3Jpc3NldHRl0gcJCa0JAYcqIYzv</LINK_TEXT>](https://www.youtube.com/watch?v=Jne9t8sHpUc&pp=ygUYaXJvbmljIGFsYW5pcyBtb3Jpc3NldHRl0gcJCa0JAYcqIYzv)
+[https://www.youtube.com/watch?v=Jne9t8sHpUc&pp=ygUYaXJvbmljIGFsYW5pcyBtb3Jpc3NldHRl0gcJCa0JAYcqIYzv](https://www.youtube.com/watch?v=Jne9t8sHpUc&pp=ygUYaXJvbmljIGFsYW5pcyBtb3Jpc3NldHRl0gcJCa0JAYcqIYzv)
 
 </div>

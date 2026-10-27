@@ -20,12 +20,12 @@ Will not pay well for it.
 
 <div class="post" data-post-id="2429" data-author="Qa" data-date="2004-10-25T13:16:02+00:00" data-subject="Re: Wtb Crystal Helm">
 
-> **Hotara wrote:**
+> <strong>Hotara wrote:</strong>
 > Will not pay well for it.
 
 NOT pay well?!?
 
-Good luck finding one.  *wink*
+Good luck finding one. \*wink\*
 
 </div>
 

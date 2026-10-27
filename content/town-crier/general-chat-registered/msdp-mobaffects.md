@@ -22,25 +22,25 @@ s sneak;backstab ryzen
 
 You yell 'LEEEEEROOOY JEEEENKINS!!!'
 
-<1334hp 762ma 407mv 1182776640xp -11.9ac -%>
+\<1334hp 762ma 407mv 1182776640xp -11.9ac -%\>
 
 Guarding the Portcullis
 
-   Below narrow arrow-loops in the south wall, six defenders clutch stout 
+ Below narrow arrow-loops in the south wall, six defenders clutch stout 
 
-bows in lifeless hands.  Identical ear-to-ear slits viciously expose their 
+bows in lifeless hands. Identical ear-to-ear slits viciously expose their 
 
-soft arterial membranes.  On the west wall are bloodied, unmanned hand 
+soft arterial membranes. On the west wall are bloodied, unmanned hand 
 
 crossbows staggered at different heights to defend the entrance point of 
 
-the keep.  From the central ladder, a seventh elf, the left side of his 
+the keep. From the central ladder, a seventh elf, the left side of his 
 
-head missing, dangles upside down from a wedged ankle.  An archway leads 
+head missing, dangles upside down from a wedged ankle. An archway leads 
 
 north onto the main thoroughfare.
 
-Exits: North  Up  
+Exits: North Up 
 
 A very small crystal flask containing a cerise liquid sits here.
 
@@ -48,7 +48,7 @@ You sense a hidden life form in the room.
 
 You sneak through the shadows.
 
-<1334hp 762ma 406mv 1182776640xp -11.9ac -%>
+\<1334hp 762ma 406mv 1182776640xp -11.9ac -%\>
 
 Ryzen whispers in your ear, 'I'll see you on the other side.'
 
@@ -56,13 +56,13 @@ You have been killed!!
 
 You have been KILLED!! 
 
-Lie still; you are DEAD!!! :-(
+Lie still; you are DEAD!!! <img src="/images/smilies/icon_e_sad.svg" alt=":-(" title=":-(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="38651" data-author="*teker*" data-date="2018-01-30T20:01:32+00:00" data-subject="Re: MSDP.MobAffects">
 
-OPPONENT.STATUS has this.  It is a comma separated list of debuffs and other items.  If there are none, the value is "Ok".  I have non-perfected code in mudlet that looks at changes to this value and prints out things like "Mob no longer blind".  But you have to be fighting the mob - you can't just walk into rooms and get the values on the mobs there.
+OPPONENT.STATUS has this. It is a comma separated list of debuffs and other items. If there are none, the value is "Ok". I have non-perfected code in mudlet that looks at changes to this value and prints out things like "Mob no longer blind". But you have to be fighting the mob - you can't just walk into rooms and get the values on the mobs there.
 
 The following values may be present:
 
@@ -82,11 +82,11 @@ I wondered what the effect of "disintegrate" was on a mob, is it possible to tel
 
 G'day,
 
-Shadow pauldrons, a highly desired shoulder piece for the damage dealers that is barely equivalent, in fact better, to a shattered bone shoulder guards (high_quest item) was introduced along with the area Mercurial Woods. Likewise continued the policy of it's predecessor, with certain modifications suggested by the change of circumstances, is what brought it to exist. To reflect on it's power and value, severe circumstances were made present and yes that includes death - even on entry.
+Shadow pauldrons, a highly desired shoulder piece for the damage dealers that is barely equivalent, in fact better, to a shattered bone shoulder guards (high\_quest item) was introduced along with the area Mercurial Woods. Likewise continued the policy of it's predecessor, with certain modifications suggested by the change of circumstances, is what brought it to exist. To reflect on it's power and value, severe circumstances were made present and yes that includes death - even on entry.
 
-Now at the time Mercurial Woods was introduced; we had 2 massive groups, led by me and Josiah separately on its opening debut. Back in the day, there lived a high % of mages which contributed heavily in dropping Ryzen within 4 rounds. Times have changed. Given how the value of a shadow pauldrons has since improved drastically (high_quest shattered bone shoulder guards had a -wisdom penalty, thief_prime restrictions removed from the AQ upgrade, improved stats with stab_dam, potential conversion of drachma), one would think Ryzen needs a major overhaul. Fortunately, that is not the case.
+Now at the time Mercurial Woods was introduced; we had 2 massive groups, led by me and Josiah separately on its opening debut. Back in the day, there lived a high % of mages which contributed heavily in dropping Ryzen within 4 rounds. Times have changed. Given how the value of a shadow pauldrons has since improved drastically (high\_quest shattered bone shoulder guards had a -wisdom penalty, thief\_prime restrictions removed from the AQ upgrade, improved stats with stab\_dam, potential conversion of drachma), one would think Ryzen needs a major overhaul. Fortunately, that is not the case.
 
-Ryzen was never meant to be solo material. I am not saying it isn't solo, it can be done. However your risking and substantial power which led you to overcome this thought and the final outcome of it has resulted to some very undeserving remarks. There are many ways to deal with your "so many problems" - MSDP and this attitude does not factor in a slight bit. Dr on wintin95 with 0 MSDP, >100 Actions kills Ryzen easily. Did it ever occur to you that your approach is "dumb" instead of flaming the game?
+Ryzen was never meant to be solo material. I am not saying it isn't solo, it can be done. However your risking and substantial power which led you to overcome this thought and the final outcome of it has resulted to some very undeserving remarks. There are many ways to deal with your "so many problems" - MSDP and this attitude does not factor in a slight bit. Dr on wintin95 with 0 MSDP, \>100 Actions kills Ryzen easily. Did it ever occur to you that your approach is "dumb" instead of flaming the game?
 
 But hey, you got a reply from Teker at least in regards to a problem. Perhaps that was the intention. 
 
@@ -110,15 +110,15 @@ You're just totally out of line, and I don't understand your bias to demonize me
 
 Kindly enlighten me.
 
-1) Which part of your attempt in killing this said mob, whatever the outcome may be, justifies a label to the game as being 'stupid' and 'dumb' on the public forums? 
+1\) Which part of your attempt in killing this said mob, whatever the outcome may be, justifies a label to the game as being 'stupid' and 'dumb' on the public forums? 
 
-2) The conversation and challenges faced in the undertaking of said mob, which you deemed 'impossible' is vague. Simply put - there is no feedback from the mud to client if any mob is not engaged, specifically MSDP.MobAffects speaking and especially something that is on a timer. If I had some sort of counter which does that whenever I walk into a room, I'll hook you up personally ;) Hence, your follow up comments based on this 'impossible' is unwarranted.
+2\) The conversation and challenges faced in the undertaking of said mob, which you deemed 'impossible' is vague. Simply put - there is no feedback from the mud to client if any mob is not engaged, specifically MSDP.MobAffects speaking and especially something that is on a timer. If I had some sort of counter which does that whenever I walk into a room, I'll hook you up personally <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom"> Hence, your follow up comments based on this 'impossible' is unwarranted.
 
-Acid blinds got reduced sometime ago iirc ~40 seconds to 60 seconds. As of late, data shows a full 60. Not entirely sure if its a random % for it to range min/max.
+Acid blinds got reduced sometime ago iirc \~40 seconds to 60 seconds. As of late, data shows a full 60. Not entirely sure if its a random % for it to range min/max.
 
-To further clarify - should they remove the shadow pauldrons, (now this is 'out of line') go back to old school methods, force one to die 20+ times to attain a high_quest item which only gets produced once a year(if lucky) make it any better and having said that be the reverse along the lines of 'smart'? Death proc or not, one will certainly die plentiful on the basis of a high_quest item leading to a ton of exp loss etc - does that make it stupid and dumb? Ryzen in particular has been that way since it's inception, there were no changes as you adequately put. To me, this is brilliant since the item itself grew immensely in value.
+To further clarify - should they remove the shadow pauldrons, (now this is 'out of line') go back to old school methods, force one to die 20+ times to attain a high\_quest item which only gets produced once a year(if lucky) make it any better and having said that be the reverse along the lines of 'smart'? Death proc or not, one will certainly die plentiful on the basis of a high\_quest item leading to a ton of exp loss etc - does that make it stupid and dumb? Ryzen in particular has been that way since it's inception, there were no changes as you adequately put. To me, this is brilliant since the item itself grew immensely in value.
 
-3) This is no public demonisation. It is feedback - ideally feedback's are neutral. You took it public, I attend to it public. Whichever way you want to react to it is the conversation you are having. Personally though, I have chosen to ignore most of what happens on the forums in this nature. But really, I care for you and anybody in this manner.  You are a good friend and a long time Sloth patron dear Apprentice. Had it been just MSDP.Mobaffects like the title actually says without the label, the entirety of this page would have been very different. 
+3\) This is no public demonisation. It is feedback - ideally feedback's are neutral. You took it public, I attend to it public. Whichever way you want to react to it is the conversation you are having. Personally though, I have chosen to ignore most of what happens on the forums in this nature. But really, I care for you and anybody in this manner. You are a good friend and a long time Sloth patron dear Apprentice. Had it been just MSDP.Mobaffects like the title actually says without the label, the entirety of this page would have been very different. 
 
  I sincerely hope you get my point, or we can talk personally in game for that matter.
 
@@ -128,9 +128,9 @@ M
 
 <div class="post" data-post-id="38656" data-author="*teker*" data-date="2018-01-31T16:54:54+00:00" data-subject="Re: MSDP.MobAffects">
 
-Disintegrate affects constitution - what should I call that?  Chill touch affects strength which I can call "weakened".
+Disintegrate affects constitution - what should I call that? Chill touch affects strength which I can call "weakened".
 
-I should have also mentioned that the structure within GROUP2 contains a STATUS field for each member that shows similar values.  It also includes values for "Dead", "Mortally wounded", "Incapacitated", "Stunned", "Sleeping", "Resting", "Sitting" so that group leaders can see if the group is ready to move.
+I should have also mentioned that the structure within GROUP2 contains a STATUS field for each member that shows similar values. It also includes values for "Dead", "Mortally wounded", "Incapacitated", "Stunned", "Sleeping", "Resting", "Sitting" so that group leaders can see if the group is ready to move.
 
 </div>
 
@@ -144,7 +144,7 @@ lacking physical strength, especially as a result of age or illness.
 
 synonyms:	weak, weakly, weakened, puny, wasted, frail, infirm, delicate, sickly, ailing, unwell, poorly, failing, helpless, powerless, impotent, enfeebled, enervated, debilitated, incapacitated, effete
 
-If it's minus Con, how about constipated...  :shock:  :twisted:
+If it's minus Con, how about constipated... <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -158,33 +158,33 @@ Hey Teker, just realised Faerie Fire is missing and might be useful to add if it
 
 Ok, I've added some and changed others to match the spell name:
 
-    "Arms of the Abyss",
+ "Arms of the Abyss",
 
-    "Blind",
+ "Blind",
 
-    "Chill Touch",
+ "Chill Touch",
 
-    "Curse",
+ "Curse",
 
-    "Deafness",
+ "Deafness",
 
-    "Demon Bind",
+ "Demon Bind",
 
-    "Disintegrate",
+ "Disintegrate",
 
-    "Drowning",
+ "Drowning",
 
-    "Deathgrip",
+ "Deathgrip",
 
-    "Faerie Fire",
+ "Faerie Fire",
 
-    "Paralyze",
+ "Paralyze",
 
-    "Petrify",
+ "Petrify",
 
-    "Silence",
+ "Silence",
 
-    "Web"
+ "Web"
 
 Should be in next reboot.
 

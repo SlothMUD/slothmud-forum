@@ -16,7 +16,7 @@ can someone plz send me a tank reporter, as mine nolonger works
 
 with the removal of the tick.
 
-emal to rye_bread80@msn.com
+emal to rye\_bread80@msn.com
 
 Thanks to anyone who replies
 
@@ -24,6 +24,6 @@ Thanks to anyone who replies
 
 <div class="post" data-post-id="38" data-author="lex" data-date="2004-02-13T15:22:02+00:00" data-subject="">
 
-thats rye_bread80
+thats rye\_bread80
 
 </div>

@@ -14,7 +14,7 @@ post_count: 1
 
 Greeting mortals.
 
-- For some reason, double attack was skill level 3 for bards, instead level 14 as it was supposed to be.  Changed it to the correct level.  Also completed the help file on double attack.
+- For some reason, double attack was skill level 3 for bards, instead level 14 as it was supposed to be. Changed it to the correct level. Also completed the help file on double attack.
 
 Thanks Chobbs and Benq for reporting.
 

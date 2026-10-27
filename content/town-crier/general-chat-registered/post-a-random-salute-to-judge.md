@@ -18,13 +18,13 @@ Sincere thanks for all the bug fixes, little changes and things just to make pla
 
 <div class="post" data-post-id="26452" data-author="Jag" data-date="2008-09-24T11:58:14+00:00" data-subject="">
 
-OMG that is an amazing number of fixes.  Many thanks for your hard work.
+OMG that is an amazing number of fixes. Many thanks for your hard work.
 
 </div>
 
 <div class="post" data-post-id="26454" data-author="Rynquald" data-date="2008-09-24T12:44:10+00:00" data-subject="">
 
-So many of those have annoyed or amused me in the past. Thanks for all the work :)
+So many of those have annoyed or amused me in the past. Thanks for all the work <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 It's also nice to see a published list of changes, helps to know what you can start using or stop avoiding.
 
@@ -32,15 +32,16 @@ It's also nice to see a published list of changes, helps to know what you can st
 
 <div class="post" data-post-id="26455" data-author="jezer" data-date="2008-09-24T12:59:38+00:00" data-subject="">
 
-fixed: increased alcohol level for the spirit drinks[/quote:54dzn95f]
+> <strong>Judge wrote:</strong>
+> fixed: increased alcohol level for the spirit drinks
 
-This fix was the best. I've never seen the ~pirates~ so plastered.
+This fix was the best. I've never seen the \~pirates\~ so plastered.
 
 </div>
 
 <div class="post" data-post-id="26456" data-author="Autolycos" data-date="2008-09-24T18:00:10+00:00" data-subject="">
 
-*snicker
+\*snicker
 
 </div>
 
@@ -52,7 +53,7 @@ We're just not built for it, sorry.
 
 ...so I put on my bunny ears instead. 
 
-[img:1n5cf0yo]http://www.fstopcamerashop.com/easter_ferret.jpg[/img:1n5cf0yo]
+![](http://www.fstopcamerashop.com/easter_ferret.jpg)
 
 weee!
 
@@ -60,15 +61,15 @@ weee!
 
 <div class="post" data-post-id="26458" data-author="Tap" data-date="2008-09-24T23:27:38+00:00" data-subject="">
 
-[img:j1pft9hs]http://www.thehollywoodgossip.com/images/gallery/a-sexy-salute.jpg[/img:j1pft9hs]
+![](http://www.thehollywoodgossip.com/images/gallery/a-sexy-salute.jpg)
 
 </div>
 
 <div class="post" data-post-id="26459" data-author="jezer" data-date="2008-09-24T23:33:52+00:00" data-subject="">
 
-[img:3ri01h6q]http://content.ytmnd.com/content/7/7/b/77bb6f93468f613c6910354fbb021308.jpg[/img:3ri01h6q]
+![](http://content.ytmnd.com/content/7/7/b/77bb6f93468f613c6910354fbb021308.jpg)
 
-Weaselâ€¦ give the kid back his bunny earsâ€¦  :roll:
+Weaselâ€¦ give the kid back his bunny earsâ€¦ <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -80,7 +81,7 @@ oops. I eated them.
 
 <div class="post" data-post-id="26461" data-author="*juggleblood*" data-date="2008-09-25T00:36:37+00:00" data-subject="">
 
-i had to laugh when i saw how much effort you put into coding drinking and getting drunk :)
+i had to laugh when i saw how much effort you put into coding drinking and getting drunk <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 cheers Judge!
 
@@ -90,7 +91,7 @@ cheers Judge!
 
 Kudos to Judge,
 
-Many times us mortals wonder what changes have been made.  We understand that changes take time, documenting them takes time as well.  
+Many times us mortals wonder what changes have been made. We understand that changes take time, documenting them takes time as well. 
 
 Thanks again to Judge!
 
@@ -98,7 +99,7 @@ Thanks again to Judge!
 
 <div class="post" data-post-id="26468" data-author="jezer" data-date="2008-09-25T05:18:05+00:00" data-subject="">
 
-[img:231osf9s]http://imagecache2.allposters.com/images/pic/CCcard/FN-391-200~Short-Tailed-Weasel-Posters.jpg[/img:231osf9s]
+![](http://imagecache2.allposters.com/images/pic/CCcard/FN-391-200~Short-Tailed-Weasel-Posters.jpg)
 
 YA SHAKE IT TO THE LEFT! 
 

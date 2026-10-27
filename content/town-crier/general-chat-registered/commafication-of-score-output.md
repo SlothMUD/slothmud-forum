@@ -12,7 +12,7 @@ post_count: 11
 
 <div class="post" data-post-id="9624" data-author="bubba" data-date="2005-11-24T23:05:38+00:00" data-subject="&quot;commafication&quot; of score output">
 
-I'm pretty sure tintin can't parse commafied numbers (e.g. 2,246,231) into numbers for later manipulation.  Thus, I'm hoping to see that change reverted (or toggleable would be cool).  Plus, there are many people who play this game that don't use commas as thousands separators in real life.
+I'm pretty sure tintin can't parse commafied numbers (e.g. 2,246,231) into numbers for later manipulation. Thus, I'm hoping to see that change reverted (or toggleable would be cool). Plus, there are many people who play this game that don't use commas as thousands separators in real life.
 
 </div>
 
@@ -28,7 +28,7 @@ Thanks for the toggle addition Splork.
 
 Some other good changes too for those who haven't read the post yet:
 
-[<LINK_TEXT text="http://slothmud.org/index.php?name=PNph ... pic&t=1570">http://slothmud.org/index.php?name=PNphpBB2&file=viewtopic&t=1570</LINK_TEXT>](http://slothmud.org/index.php?name=PNphpBB2&file=viewtopic&t=1570)
+[http://slothmud.org/index.php?name=PNphpBB2&file=viewtopic&t=1570](http://slothmud.org/index.php?name=PNphpBB2&file=viewtopic&t=1570)
 
 thanks again.
 
@@ -44,7 +44,7 @@ thanks.
 
 <div class="post" data-post-id="9631" data-author="bubba" data-date="2005-11-25T22:30:26+00:00" data-subject="">
 
-looks like that got fixed too.  Thanks for the toggle Splork.
+looks like that got fixed too. Thanks for the toggle Splork.
 
 </div>
 
@@ -76,17 +76,20 @@ You have 7,000,000 unused experience points.
 
 919 hit points? +6 damage... ac of 6!
 
-Wanna fight huh splork? huh? Just me and you pal! *dances around punching the air wildly*  :P 
+Wanna fight huh splork? huh? Just me and you pal! \*dances around punching the air wildly\* <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom"> 
 
-Umm why do you worship blaster?!?  :shock:
+Umm why do you worship blaster?!? <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="9636" data-author="Yasik" data-date="2005-11-26T14:45:46+00:00" data-subject="">
 
-Your levels: Ma: 46 Wa: 46 Th: 46 Mo: 46 Cl: 46 Dr: 46 Ne: 46 Ba: 46 Av: 46
-
-You have (919/919+24) hit, (299/299+39) mana and (289/289+29) movement points. [/quote:1xzfth51]
+> <strong>jezer wrote:</strong>
+> Your levels: Ma: 46 Wa: 46 Th: 46 Mo: 46 Cl: 46 Dr: 46 Ne: 46 Ba: 46 Av: 46
+> 
+> 
+> 
+> You have (919/919+24) hit, (299/299+39) mana and (289/289+29) movement points.
 
 He still has mana and avatar winds upgrades.
 
@@ -100,13 +103,12 @@ Who cares about that, just look at all the gold he's holding! Let's mug him!
 
 <div class="post" data-post-id="9638" data-author="Autolycos" data-date="2005-11-26T15:54:14+00:00" data-subject="">
 
-Wanna fight huh splork? huh? Just me and you pal! *dances around punching the air wildly*  :P 
+> <strong>jezer wrote:</strong>
+> Wanna fight huh splork? huh? Just me and you pal! \*dances around punching the air wildly\* <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
-[/quote:uh7egda9]
+\*cough\*
 
-*cough*
-
-does anyone want to mention to jeezer just what splork means?   or maybe why that word has been used for generations for killing things in 1 hit  :twisted:
+does anyone want to mention to jeezer just what splork means? or maybe why that word has been used for generations for killing things in 1 hit <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -118,11 +120,11 @@ immortals are ethereal
 
 <div class="post" data-post-id="9649" data-author="jezer" data-date="2005-11-27T13:22:54+00:00" data-subject="">
 
-wraithtouch splork  :wink: 
+wraithtouch splork <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom"> 
 
 Yes, splork has some major coins... in fact by the look of that number isn't that as high as the "long int" variable holds?
 
-I still reckon we can take him! Who's in?  :twisted: 
+I still reckon we can take him! Who's in? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 target splork!
 
@@ -132,6 +134,6 @@ set healo someone-else
 
 autoloot on
 
- :twisted:  :twisted:  :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

@@ -24,7 +24,7 @@ T
 
 <div class="post" data-post-id="31868" data-author="Thraxas" data-date="2010-10-14T16:35:27+00:00" data-subject="Re: mxp Variables RoomName AreaName">
 
-> **Thraxas wrote:**
+> <strong>Thraxas wrote:</strong>
 > Did we ever get the mxp Variables RoomName AreaName working?
 > 
 > 
@@ -47,34 +47,34 @@ T
 
 Good day, dark necromancer.
 
-When we added them, mxp started to give problems all around related to bad output, showing extra mxp codes, etc.  So we removed them until we can find the cause.
+When we added them, mxp started to give problems all around related to bad output, showing extra mxp codes, etc. So we removed them until we can find the cause.
 
-Problem is that we cant reproduce the error to fix it, seems to give random problems to random people.  Non related to client, language, connection, etc.
+Problem is that we cant reproduce the error to fix it, seems to give random problems to random people. Non related to client, language, connection, etc.
 
-Those vars are there, just commented in code.  If/once we can find the problem and fix it, will be back available to your clients.
+Those vars are there, just commented in code. If/once we can find the problem and fix it, will be back available to your clients.
 
 Best regards.
 
-Pd. Readt your post and was going to answer the day you posted it, but for some reason I didnt do it (prolly my attention went anywhere).  My apologies, Thraxas.
+Pd. Readt your post and was going to answer the day you posted it, but for some reason I didnt do it (prolly my attention went anywhere). My apologies, Thraxas.
 
 </div>
 
 <div class="post" data-post-id="31872" data-author="Thraxas" data-date="2010-10-14T20:49:31+00:00" data-subject="Re: mxp Variables RoomName AreaName">
 
-> ***Isabo* wrote:**
+> <strong>\*Isabo\* wrote:</strong>
 > Good day, dark necromancer.
 > 
 > 
 > 
-> When we added them, mxp started to give problems all around related to bad output, showing extra mxp codes, etc.  So we removed them until we can find the cause.
+> When we added them, mxp started to give problems all around related to bad output, showing extra mxp codes, etc. So we removed them until we can find the cause.
 > 
 > 
 > 
-> Problem is that we cant reproduce the error to fix it, seems to give random problems to random people.  Non related to client, language, connection, etc.
+> Problem is that we cant reproduce the error to fix it, seems to give random problems to random people. Non related to client, language, connection, etc.
 > 
 > 
 > 
-> Those vars are there, just commented in code.  If/once we can find the problem and fix it, will be back available to your clients.
+> Those vars are there, just commented in code. If/once we can find the problem and fix it, will be back available to your clients.
 > 
 > 
 > 
@@ -82,8 +82,8 @@ Pd. Readt your post and was going to answer the day you posted it, but for some 
 > 
 > 
 > 
-> Pd. Readt your post and was going to answer the day you posted it, but for some reason I didnt do it (prolly my attention went anywhere).  My apologies, Thraxas.
+> Pd. Readt your post and was going to answer the day you posted it, but for some reason I didnt do it (prolly my attention went anywhere). My apologies, Thraxas.
 
-np and thanks for the reply :) sorry if I was being impatient
+np and thanks for the reply <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> sorry if I was being impatient
 
 </div>

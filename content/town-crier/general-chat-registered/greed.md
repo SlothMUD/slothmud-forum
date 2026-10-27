@@ -14,7 +14,7 @@ post_count: 6
 
 This is disgusting. Tragic, and disgusting.
 
-[url:vo4pbwu4]http://www.nydailynews.com/ny_local/2008/11/28/2008-11-28_worker_dies_at_long_island_walmart_after.html[/url:vo4pbwu4]
+http://www.nydailynews.com/ny_local/2008/11/28/2008-11-28_worker_dies_at_long_island_walmart_after.html
 
 </div>
 
@@ -28,19 +28,19 @@ Obviously it's not likely to be possible to work out much from security camera f
 
 <div class="post" data-post-id="27311" data-author="Leaf" data-date="2008-11-28T23:51:36+00:00" data-subject="">
 
-Alot of stores now give out tickets for certain items.  Ppl usually line up
+Alot of stores now give out tickets for certain items. Ppl usually line up
 
 early to get one (Best Buy had ppl lined up at 10am on Turkey Day), and
 
-only received one of the item(s).  I went to a store and staied up late but
+only received one of the item(s). I went to a store and staied up late but
 
-was able to get a great deal on a labtop and a 46in :)
+was able to get a great deal on a labtop and a 46in <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 WalMart, Target, Kmart, and other stores that doesn't have a "line" or
 
-"order" doesn't help, because ppl just end up all huddled by the door.  N
+"order" doesn't help, because ppl just end up all huddled by the door. N
 
-just like what happened, when the door opened, its a "free for all".  Pushing,
+just like what happened, when the door opened, its a "free for all". Pushing,
 
 kicking, punching their way thru....
 
@@ -50,7 +50,7 @@ kicking, punching their way thru....
 
 this related event happened when i was living in riyadh
 
-[url:10okrlpp]http://www.arabnews.com/?page=1&section=0&article=50867&d=2&m=9&y=2004[/url:10okrlpp]
+http://www.arabnews.com/?page=1&section=0&article=50867&d=2&m=9&y=2004
 
 </div>
 

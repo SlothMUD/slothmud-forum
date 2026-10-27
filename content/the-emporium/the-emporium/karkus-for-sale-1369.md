@@ -14,15 +14,15 @@ post_count: 3
 
 Heya guys,
 
-   I'm looking to get either killer equipment or huge gold outta this.  Karkus is a badass necro, and if you throw some armor gear on him, he'll be able to solo somethin' fierce.  If you wanna shapeshift, that's fine too.  His dragon really kicks ass.
+ I'm looking to get either killer equipment or huge gold outta this. Karkus is a badass necro, and if you throw some armor gear on him, he'll be able to solo somethin' fierce. If you wanna shapeshift, that's fine too. His dragon really kicks ass.
 
 Email me with serious offers at brad@linsner.us
 
 He comes with everything you see here:
 
-Karkus <~Knights~>  (level: 40)
+Karkus \<\~Knights\~\> (level: 40)
 
-Your levels:  Ne: 40 Dr: 40 Mo: 40 Cl: 31 
+Your levels: Ne: 40 Dr: 40 Mo: 40 Cl: 31 
 
 You are 21 years and 12 months old.
 
@@ -50,7 +50,7 @@ Str: 15 / 0, Int: 18, Wis: 17, Dex: 15, Con: 17
 
 You are standing.
 
-You are affected by the following spells:   None.
+You are affected by the following spells: None.
 
 You are carrying:
 
@@ -142,6 +142,6 @@ So how bout we start the bidding at 40 mil gold?
 
 <div class="post" data-post-id="7953" data-author="Taki" data-date="2005-07-20T05:18:07+00:00" data-subject="">
 
-I think it'd be good to see the spells and skills list too, it surely is valuable info about a character... even if I personally wouldn't trade a character myself - isn't the best part of the game the struggle to get your levels up there? ;)
+I think it'd be good to see the spells and skills list too, it surely is valuable info about a character... even if I personally wouldn't trade a character myself - isn't the best part of the game the struggle to get your levels up there? <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 </div>

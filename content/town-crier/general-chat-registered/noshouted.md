@@ -20,7 +20,7 @@ You gossip-- 'thucking fiefs'
 
 The gods take away your ability to shout for the next 1 hours.
 
-Good one. I don't mind being noshouted when it's deserved, but it's a bit pathetic noshouting for that, yet you don't treat everyone the same way - particularly when others say 'f*ck' and 'shit' repeatedly on gos and nothing happens.
+Good one. I don't mind being noshouted when it's deserved, but it's a bit pathetic noshouting for that, yet you don't treat everyone the same way - particularly when others say 'f\*ck' and 'shit' repeatedly on gos and nothing happens.
 
 If what I gossiped there is considered noshoutable without any warning, then you better start noshoting everyone who gossips WTF as well (afaik I'm one of the few whom have been noshouted for that as well), which is just about every player who has been on slothmud.
 
@@ -38,7 +38,7 @@ A real man would have just cussed.
 
 Talk to me when your wrap is 5 pages + and I might feel bad for you.
 
-*high* Zam
+\*high\* Zam
 
 hugs,
 
@@ -48,21 +48,21 @@ Aaron
 
 <div class="post" data-post-id="14107" data-author="*Splork*" data-date="2006-09-17T14:34:36+00:00" data-subject="">
 
-I must admit, I am so tempted to post that wrap sheet :twisted:
+I must admit, I am so tempted to post that wrap sheet <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="14108" data-author="Toxis" data-date="2006-09-17T14:56:07+00:00" data-subject="GOOD LUCK!">
 
-Good luck hunting down every character he's played. :)~
+Good luck hunting down every character he's played. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">\~
 
--Brad
+\-Brad
 
 </div>
 
 <div class="post" data-post-id="14110" data-author="Diazz_Dizazter" data-date="2006-09-17T17:11:36+00:00" data-subject="">
 
-Hmm post of our wraps.  
+Hmm post of our wraps. 
 
 Aarons is far more devious im sure, but I probably wouldnt want to count
 
@@ -76,7 +76,7 @@ Ramirez 2x20
 
 Kali - 40 prime to tard 15
 
-Luna -> Elwood
+Luna -\> Elwood
 
 Falsra - owned for a while didnt level much, gave to eagle who sold to falsra(now)
 

@@ -26,6 +26,6 @@ thanks for the answer....
 
 Hi, Achazia!
 
-When you post a message following a thread, use the PostReply link instead the NewTopic link, please.  If not, you just create a new thread.   :)
+When you post a message following a thread, use the PostReply link instead the NewTopic link, please. If not, you just create a new thread. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

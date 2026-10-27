@@ -30,18 +30,18 @@ almost any iolite of tanzanite cps
 
 contact me online or by mudmail.
 
-cheers  :wink:
+cheers <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="3642" data-author="Weasel" data-date="2005-01-06T19:41:33+00:00" data-subject="">
 
-*tap*
+\*tap\*
 
 </div>
 
 <div class="post" data-post-id="3878" data-author="Weasel" data-date="2005-01-22T15:25:20+00:00" data-subject="">
 
-*bump*  ..still looking :)
+\*bump\* ..still looking <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

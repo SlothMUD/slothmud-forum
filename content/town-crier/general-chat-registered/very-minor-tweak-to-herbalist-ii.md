@@ -24,6 +24,6 @@ And these fellows can now actually shoot from their positions into the lake belo
 
 That's all the news that's fit to print,
 
---Idjit
+\--Idjit
 
 </div>

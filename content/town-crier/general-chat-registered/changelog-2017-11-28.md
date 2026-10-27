@@ -12,29 +12,29 @@ post_count: 4
 
 <div class="post" data-post-id="38506" data-author="*teker*" data-date="2017-11-28T15:48:43+00:00" data-subject="Changelog 2017-11-28">
 
-Today's boot popped items normally since the game had been running for a significant amount of time.  It also popped additional items based on what was in game before the reboot.  Hopefully this is the best of both worlds for everyone.
+Today's boot popped items normally since the game had been running for a significant amount of time. It also popped additional items based on what was in game before the reboot. Hopefully this is the best of both worlds for everyone.
 
 More work on cleaning up spells on bad arguments:
 
-- Mantra of the Ancient Tribes
+\- Mantra of the Ancient Tribes
 
-- Force Field
+\- Force Field
 
-- Lloyds Beacon
+\- Lloyds Beacon
 
-- Greater Lloyds Beacon
+\- Greater Lloyds Beacon
 
-- Passage
+\- Passage
 
-- There and Back Again
+\- There and Back Again
 
-There was some incomplete code regarding the use of Lloyds and Passage at the same time.  I've cleaned up the code to what I think the original intent was:
+There was some incomplete code regarding the use of Lloyds and Passage at the same time. I've cleaned up the code to what I think the original intent was:
 
-- "Lesser" Lloyds can not be used at the same time as Passage or There and Back Again.
+\- "Lesser" Lloyds can not be used at the same time as Passage or There and Back Again.
 
-- Passage and There and Back Again use the same variable to store data so setting one overwrites the other.
+\- Passage and There and Back Again use the same variable to store data so setting one overwrites the other.
 
-- Greater Lloyds can be used at the same time as any of the other spells.
+\- Greater Lloyds can be used at the same time as any of the other spells.
 
 Mantra of the Ancient Tribes was draining 2x the listed mana - I have changed this to drain mana normally.
 
@@ -44,7 +44,7 @@ Mantra of the Ancient Tribes was draining 2x the listed mana - I have changed th
 
 Could you explain how this works?
 
-> **Quote:**
+> <strong>Quote:</strong>
 > It also popped additional items based on what was in game before the reboot.
 
 </div>
@@ -53,7 +53,7 @@ Could you explain how this works?
 
 At shutdown, we save a list of items that mobiles have popped.
 
-At boot, if an item doesn't pop via normal rules, we check the saved list to see if the item is in there.  If it is, there's an additional chance the item will pop.  We see something in our logs like:
+At boot, if an item doesn't pop via normal rules, we check the saved list to see if the item is in there. If it is, there's an additional chance the item will pop. We see something in our logs like:
 
 REPOP: a sea green spellbook (#8102) on a green-robed acolyte (#10409) in room #98358
 

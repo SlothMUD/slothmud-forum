@@ -24,7 +24,7 @@ GLOW MAGIC
 
 Wa21
 
--1.9
+\-1.9
 
 Dex 1, Con 1
 

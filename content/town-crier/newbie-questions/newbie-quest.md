@@ -28,32 +28,37 @@ You'll get obsidian pearl as a reward...
 
 Good Luck
 
-Pi, the >.............< one
+Pi, the \>.............\< one
 
 </div>
 
 <div class="post" data-post-id="7703" data-author="smig1o" data-date="2005-07-01T04:48:12+00:00" data-subject="Re: Newbie Quest">
 
-Hi
-
-If you still on VK...
-
-If you still want to forge JJD...
-
-I think i can help you...
-
-All you have to do is to get all JJD cps from autumnal forest...
-
-If you get them, call me...
-
-You'll get obsidian pearl as a reward...
-
-Good Luck
-
-Pi, the >.............< one[/quote:66zef5l7]
+> <strong>smig1o wrote:</strong>
+> Hi
+> 
+> 
+> 
+> If you still on VK...
+> 
+> If you still want to forge JJD...
+> 
+> I think i can help you...
+> 
+> All you have to do is to get all JJD cps from autumnal forest...
+> 
+> If you get them, call me...
+> 
+> You'll get obsidian pearl as a reward...
+> 
+> Good Luck
+> 
+> 
+> 
+> Pi, the \>.............\< one
 
 So, Cudid, the brave is the winner
 
-Gratz cudid :)
+Gratz cudid <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

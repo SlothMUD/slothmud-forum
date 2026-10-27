@@ -26,9 +26,9 @@ Damage Dice is '1D5'
 
 Can affect you as:
 
-    Affects: ARMOR by -1
+ Affects: ARMOR by -1
 
-    Affects: DAMROLL by 1
+ Affects: DAMROLL by 1
 
 Only those who are primary experienced warriors may use this item.
 

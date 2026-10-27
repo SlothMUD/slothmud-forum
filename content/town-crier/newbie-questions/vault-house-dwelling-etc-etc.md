@@ -26,9 +26,9 @@ Thanks in advance.
 
 Building Cost: 10M gold
 
-Availability:  Everyone
+Availability: Everyone
 
-A hovel is the starting point for our housing system.  It consists
+A hovel is the starting point for our housing system. It consists
 
 of one room with a vault. You may purchase a hovel on any continent
 
@@ -64,13 +64,13 @@ and stores. This will be done buy using the house command which was
 
 referred to earlier in this help file.
 
-1) A hovel consists of a room and a vault
+1\) A hovel consists of a room and a vault
 
-2) Once you have purchases your hovel, you may describe it using help
+2\) Once you have purchases your hovel, you may describe it using help
 
 house as a guide
 
-3) You must purchase a key inside your first room purchase, make sure
+3\) You must purchase a key inside your first room purchase, make sure
 
 you bring a million gold with you, do this by typing house buy key
 
@@ -78,13 +78,13 @@ inside your hovel. This key will be used to open all locks to entrance
 
 rooms on any continents you have purchased houses on.
 
-4) Once this is complete, to initiate the vault, you must type:
+4\) Once this is complete, to initiate the vault, you must type:
 
 unlock vault comboyouwant
 
-5) Type unlock vault comboyouset once more to open the vault
+5\) Type unlock vault comboyouset once more to open the vault
 
-6) Now give an immortal a tell and let them know you are ready for them
+6\) Now give an immortal a tell and let them know you are ready for them
 
 to connect it
 
@@ -98,7 +98,7 @@ the purchase was made in, so please be careful when using house 'buy'
 
 command.
 
-Usage:: house <arg1> <arg2>
+Usage:: house \<arg1\> \<arg2\>
 
 arg1: name, description sector, extra, extra kill
 
@@ -118,7 +118,7 @@ At the end of the list, it also gives you the command syntax which
 
 will help with your hovel construction.
 
-Usage: house name <room name>
+Usage: house name \<room name\>
 
 This will give your building a name. Do not include brackets.
 
@@ -130,29 +130,29 @@ End the room description with @ on a new line.
 
 Example:
 
-  house desc<cr>
+ house desc\<cr\>
 
-  ]   This inn is quite lavishly furnished.  The walls are made of a rich<cr>
+ ] This inn is quite lavishly furnished. The walls are made of a rich\<cr\>
 
-  ]walnut wood and the floor is covered with a fine, hand made red carpet.<cr>
+ ]walnut wood and the floor is covered with a fine, hand made red carpet.\<cr\>
 
-  ]Comfortable chairs rest behind a large table in one corner while the<cr>
+ ]Comfortable chairs rest behind a large table in one corner while the\<cr\>
 
-  ]reception desk rests in another.  A large chandelier made of elegant<cr>
+ ]reception desk rests in another. A large chandelier made of elegant\<cr\>
 
-  ]crystals hangs overhead providing the room with light.  Several pictures<cr>
+ ]crystals hangs overhead providing the room with light. Several pictures\<cr\>
 
-  ]hang on the wall above the desk.  Sounds of laughter and music can be<cr>
+ ]hang on the wall above the desk. Sounds of laughter and music can be\<cr\>
 
-  ]heard from the north.<cr>
+ ]heard from the north.\<cr\>
 
-  ]@<cr>
+ ]@\<cr\>
 
-Usage: house EXTRA <keywords><cr>
+Usage: house EXTRA \<keywords\>\<cr\>
 
 Adding extras to a room helps a great deal to create a well-rounded room.
 
-Use 'string mode' to enter the description.  The keywords are the words
+Use 'string mode' to enter the description. The keywords are the words
 
 that can be used to look at.
 
@@ -160,7 +160,7 @@ Example:
 
 house extra door
 
-]The oak door has large bent iron nails hammered deep into it.  Once upon
+]The oak door has large bent iron nails hammered deep into it. Once upon
 
 ]a time a sign was nailed here, the edge of the sign spells the words
 
@@ -168,7 +168,7 @@ house extra door
 
 ]@
 
-Usage: house EXTRA kill <keywords>
+Usage: house EXTRA kill \<keywords\>
 
 Occasionaly you'll want to delete an existing extra, enter the keywords
 
@@ -180,7 +180,7 @@ house extra kill door
 
 house extra kill (will kill all the options in the room.)
 
-Usage: house buy <option>
+Usage: house buy \<option\>
 
 You may purchase extra options for placement on the property you own.
 
@@ -194,13 +194,13 @@ In your home you may have one or more vaults, each one can be
 
 accessed using the following commands.
 
-********
+\*\*\*\*\*\*\*\*
 
 Vault Commands:
 
-===============
+\===============
 
-1.  Unlock Vault XXXXXX
+1\. Unlock Vault XXXXXX
 
 You must choose a secret 6-digit combination, with no leading zero.
 
@@ -208,81 +208,81 @@ Then the very first time you use your vault you will need to do use
 
 this command twice, initially to set the combination, then again to
 
-unlock it.  Aftwards it will always unlock and open on the first use.
+unlock it. Aftwards it will always unlock and open on the first use.
 
-2.  List
+2\. List
 
 When your vault is unlocked you can display a list of the contents by
 
 using this command.
 
-3.  Deposit <item>
+3\. Deposit \<item\>
 
 This command will allow you to deposit an item from your inventory to
 
-be stored till a later date.  There are certain items that can't be
+be stored till a later date. There are certain items that can't be
 
 stored in vaults like spellbooks/holy items/restrung items/personal items.
 
 Example: deposit barrel
 
-4.  Withdraw <#>
+4\. Withdraw \<#\>
 
 When you use the List command you will see the items in the vault
 
-with an index to the left.  Use the number to remove a single item.
+with an index to the left. Use the number to remove a single item.
 
 Example: withdraw 2
 
-Note:  If you withdraw item 2, then all the indexs of the items in the list
+Note: If you withdraw item 2, then all the indexs of the items in the list
 
 after the one you removed will change.
 
-5.  Close Vault
+5\. Close Vault
 
 When you have finished shuffling your items you'll want to close your vault
 
 when you do this it automatically locks.
 
-**********
+\*\*\*\*\*\*\*\*\*\*
 
 Further Room Bonuses:
 
-=====================
+\=====================
 
- 1M  Key              (Sold to vault owner)
+ 1M Key (Sold to vault owner)
 
-    To give access to your home to a friend, a second character or to
+ To give access to your home to a friend, a second character or to
 
-    replace a lost key.
+ replace a lost key.
 
-10M  Additional Room
+10M Additional Room
 
-    These rooms come with a vault, please follow instructions on how to build
+ These rooms come with a vault, please follow instructions on how to build
 
-    the room and how to initialize the vault with help housing .
+ the room and how to initialize the vault with help housing .
 
-10M  board
+10M board
 
-    A board to post notes to.
+ A board to post notes to.
 
-********
+\*\*\*\*\*\*\*\*
 
 Room Regen Bonuses:
 
-===================
+\===================
 
-               | 1xBonus | Maximum   |Cost
+ \| 1xBonus \| Maximum \|Cost
 
----------------+---------+-----------+-----
+\---------------+---------+-----------+-----
 
-Mana regen     | +1ma    | 5ma (5x) | 10M
+Mana regen \| +1ma \| 5ma (5x) \| 10M
 
-Move regen.    | +2mv    | 10mv (5x) | 5M
+Move regen. \| +2mv \| 10mv (5x) \| 5M
 
-Hitpoint regen | +3hp    | 15hp (5x) | 8M
+Hitpoint regen \| +3hp \| 15hp (5x) \| 8M
 
-********
+\*\*\*\*\*\*\*\*
 
 HDIR
 
@@ -296,17 +296,17 @@ connect to must be one of the ones listed when you type house with
 
 no arguments.
 
-*******
+\*\*\*\*\*\*\*
 
-Other Homes:   Dwelling, House, Mansion, Palace, Grand Palace
+Other Homes: Dwelling, House, Mansion, Palace, Grand Palace
 
 Castle
 
 Building Cost: 75M gold
 
-Availability:  Only to those who are at least tri40.
+Availability: Only to those who are at least tri40.
 
-Castles have 6 rooms total with 4 of the being vault rooms.  They also
+Castles have 6 rooms total with 4 of the being vault rooms. They also
 
 come with a fountain, a board, and your choice of two room bonuses.
 
@@ -360,7 +360,7 @@ find the vault seller on the continent where you want to buy a vault.
 
 <div class="post" data-post-id="33425" data-author="Yasik" data-date="2012-08-06T20:42:49+00:00" data-subject="Re: Vault, house, dwelling etc etc">
 
-> ***Breeze* wrote:**
+> <strong>\*Breeze\* wrote:</strong>
 > find the vault seller on the continent where you want to buy a vault.
 
 Is this seller a new addition, or olde well-known vendors?
@@ -401,7 +401,7 @@ so you can buy a vault in bh if you wanted to, but whatever.
 
 <div class="post" data-post-id="33439" data-author="Tuck" data-date="2012-08-12T02:23:11+00:00" data-subject="Re: Vault, house, dwelling etc etc">
 
-nice imm trolling, good job yasik! :P
+nice imm trolling, good job yasik! <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 

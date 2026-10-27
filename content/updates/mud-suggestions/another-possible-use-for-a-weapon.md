@@ -18,7 +18,7 @@ As long as it remains wielded, by a live bearer, members of that bearers group, 
 
 Because this battle flag wipes out a player weapon ability, the most sensible use for it would be to give one to some small fry, to carry around for you. The intent is to provide such small fry with a useful 'role' in large groups, as the groups standard bearer(s).
 
-Of course, says he, reverting back to evil-dm mode, any group that allows its standard bearer(s) to die, aka  falling in battle, gets severely penalised,
+Of course, says he, reverting back to evil-dm mode, any group that allows its standard bearer(s) to die, aka falling in battle, gets severely penalised,
 
 so it's not necessarily a job for a bot. The standard will probably 'break' ( ie. go poof) if/when its bearer dies, making replacement suitably awkward.
 
@@ -26,15 +26,15 @@ so it's not necessarily a job for a bot. The standard will probably 'break' ( ie
 
 <div class="post" data-post-id="13565" data-author="Leaf" data-date="2006-07-26T16:29:27+00:00" data-subject="">
 
-Thats not too bad of an idea.  The newbie/lowbie can be waving a Flag with
+Thats not too bad of an idea. The newbie/lowbie can be waving a Flag with
 
-a crest on it or something.  Giving the group a +1hit or something.  But will
+a crest on it or something. Giving the group a +1hit or something. But will
 
 not allow the holder to fight (fighting exp).
 
 Or we can have different members of Clans to wield a different crest,
 
-~DS~ FOREVER!!!
+\~DS\~ FOREVER!!!
 
 </div>
 
@@ -54,7 +54,7 @@ wasn't that one of the signs of the coming Apocalypse?
 
 hell.. if Clink says he cares about someones opinion then we are surely doomed.
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -70,6 +70,6 @@ http://www.boimagazine.com/04.06/00/Images/strange-pic2.jpg
 
 damn, what happened to edit?
 
-[img:1yw1zpx7]http://www.boimagazine.com/04.06/00/Images/strange-pic2.jpg[/img:1yw1zpx7]
+![](http://www.boimagazine.com/04.06/00/Images/strange-pic2.jpg)
 
 </div>

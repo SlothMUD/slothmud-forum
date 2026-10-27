@@ -18,7 +18,7 @@ Wednesday, May 27, 2009
 
 Final Scheduled Downtime for Power Upgrades
 
-This is the last outage of our current upgrade schedule.  After this
+This is the last outage of our current upgrade schedule. After this
 
 upgrade of power, we have no further outages scheduled or anticipated.
 
@@ -32,23 +32,23 @@ What do you need to do?
 
 Clients should shut down their servers remotely prior to 10:00 AM PDT
 
-on Wednesday.  Any servers still running at 10:00 AM PDT will be
+on Wednesday. Any servers still running at 10:00 AM PDT will be
 
-powered off.  Due to the volume of servers affected, no special
+powered off. Due to the volume of servers affected, no special
 
-arrangements can be made that involve our staff.  Please power off
+arrangements can be made that involve our staff. Please power off
 
-your server prior to 10:00 AM PDT on Wednesday.  You should test
+your server prior to 10:00 AM PDT on Wednesday. You should test
 
 connectivity prior to Wednesday to make sure you are able to power
 
 your server off on Wednesday.
 
-After power is restored, your server will be brought back up.  Please
+After power is restored, your server will be brought back up. Please
 
 test your server's connectivity after noon PDT and alert us by email
 
-if you are unable to connect.  We will respond as quickly as possible.
+if you are unable to connect. We will respond as quickly as possible.
 
 We are actually hopeful this upgrade will only take one hour, but we
 
@@ -56,15 +56,15 @@ prefer to keep our quoted times conservative.
 
 What should you not do?
 
-Please don't phone us.  Due to anticipated activity levels, telephones
+Please don't phone us. Due to anticipated activity levels, telephones
 
-will not be answered on Wednesday.  Messages left on the phone system
+will not be answered on Wednesday. Messages left on the phone system
 
-will not be responded to on Wednesday.  All communications will be
+will not be responded to on Wednesday. All communications will be
 
 done by email and every effort will be made to respond to those emails
 
-promptly.  Please also note that, due to the number of servers
+promptly. Please also note that, due to the number of servers
 
 affected, we are unable to make special arrangements for individual
 
@@ -72,7 +72,7 @@ servers.
 
 We at eSecureData.com will make every effort to ensure these outages
 
-remain rare.  After this upgrade of power, we have no further outages
+remain rare. After this upgrade of power, we have no further outages
 
 scheduled or anticipated.
 

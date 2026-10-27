@@ -14,9 +14,9 @@ post_count: 2
 
 found this one
 
-Thu Nov 2 01:47:20 2006	** Banedon wasted Banedon at 5 o'clock pm on the Day of the Deception
+Thu Nov 2 01:47:20 2006	\*\* Banedon wasted Banedon at 5 o'clock pm on the Day of the Deception
 
-had been fighting man intent on a climb, then was incap.  & died of bloodloss
+had been fighting man intent on a climb, then was incap. \& died of bloodloss
 
 </div>
 

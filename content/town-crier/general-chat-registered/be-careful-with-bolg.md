@@ -14,7 +14,7 @@ post_count: 8
 
 looks like it changed, hitting harder , more exp and something more:
 
-<740/872hp 115/497ma 269/286mv -7.8ac Align:+9 Wea:indoors Money:228444 Exp:32582056>
+\<740/872hp 115/497ma 269/286mv -7.8ac Align:+9 Wea:indoors Money:228444 Exp:32582056\>
 
 Changes: 31hp 0ma 1mv
 
@@ -56,7 +56,7 @@ Your lung fills with blood, sapping you of life.
 
 You have been KILLED!! 
 
-<-188/872hp 116/497ma 269/286mv -3.8ac Align:+9 Wea:indoors Money:228444 Exp:32584173>
+\<-188/872hp 116/497ma 269/286mv -3.8ac Align:+9 Wea:indoors Money:228444 Exp:32584173\>
 
 Your breathing suddenly becomes more labored...
 
@@ -66,13 +66,13 @@ Your breathing suddenly becomes more labored...
 
 not sure if it work as intended, but happened twice out of 3 times I tried it.
 
-<862/862hp 323/497ma 274/296mv -5.0ac Align:+9 Wea:indoors Money:265163 Exp:31238409>
+\<862/862hp 323/497ma 274/296mv -5.0ac Align:+9 Wea:indoors Money:265163 Exp:31238409\>
 
 Bolg, Goblin King hates your guts!
 
 You circle around Bolg, Goblin King and expertly put him in a deathgrip.
 
-<862/862hp 323/497ma 259/296mv -5.0ac Align:+9 Wea:indoors Money:265163 Exp:31261929>
+\<862/862hp 323/497ma 259/296mv -5.0ac Align:+9 Wea:indoors Money:265163 Exp:31261929\>
 
 Bolg, Goblin King misses you with his pound.
 
@@ -88,9 +88,9 @@ Your lung fills with blood, sapping you of life.
 
 You have been KILLED!! 
 
-<-98/862hp 324/497ma 260/296mv -1.0ac Align:+9 Wea:indoors Money:265163 Exp:31261929>
+\<-98/862hp 324/497ma 260/296mv -1.0ac Align:+9 Wea:indoors Money:265163 Exp:31261929\>
 
-Lie still; you are DEAD!!! :-(
+Lie still; you are DEAD!!! <img src="/images/smilies/icon_e_sad.svg" alt=":-(" title=":-(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -114,7 +114,7 @@ Good call.
 
 <div class="post" data-post-id="34190" data-author="Sleeping Forest" data-date="2013-03-26T22:02:56+00:00" data-subject="Re: be careful with Bolg">
 
--1
+\-1
 
 </div>
 
@@ -122,9 +122,9 @@ Good call.
 
 Death proc in a newbie area... let's just think about this.
 
-This is sad because bolg and baen sidhes and raiders were a fun way to get honor.  This only penalizes the people who can't join groups often because of where they live or what time their work schedule is.
+This is sad because bolg and baen sidhes and raiders were a fun way to get honor. This only penalizes the people who can't join groups often because of where they live or what time their work schedule is.
 
--Toxis
+\-Toxis
 
 </div>
 

@@ -14,11 +14,11 @@ post_count: 17
 
 I think the IDs for the new mobs in Newbatia may need some adjustment. The three I’m speaking of are:
 
-1) an evil thug
+1\) an evil thug
 
-2) a young gang member
+2\) a young gang member
 
-3) a gang leader
+3\) a gang leader
 
 These, of course, are their ‘scanned’ names.
 
@@ -32,7 +32,7 @@ Thug #1 seems to be the easiest of the three, so I’d like to be able to target
 
 Hi, Sir ...
 
-Next time you visit one of those evil thug (#1, the one you want) type names thug.  It will show you all keywords the mob has.  So, from there, you can use target evil-thug-whatever-whatever.
+Next time you visit one of those evil thug (#1, the one you want) type names thug. It will show you all keywords the mob has. So, from there, you can use target evil-thug-whatever-whatever.
 
 </div>
 
@@ -58,17 +58,26 @@ As you can see, there is no one word that references the Evil Thug that does not
 
 <div class="post" data-post-id="6646" data-author="Akasha2" data-date="2005-05-29T01:31:07+00:00" data-subject="Re: Still a problem targeting the Evil Thug">
 
-Ok, I used the Names command to see what each thug would respond too:
+> <strong>SirRobin wrote:</strong>
+> Ok, I used the Names command to see what each thug would respond too:
+> 
+> 
+> 
+> Evil thug: thug gang member evil
+> 
+> 
+> 
+> Young gang member: thug gang young member 
+> 
+> 
+> 
+> Gang leader: leader thug gang evil
+> 
+> 
+> 
+> As you can see, there is no one word that references the Evil Thug that does not also reference another one of the thugs. How about adding the name â€˜bullyâ€™ to the list of names for the Evil Thug?
 
-Evil thug: thug gang member evil
-
-Young gang member: thug gang young member 
-
-Gang leader: leader thug gang evil
-
-As you can see, there is no one word that references the Evil Thug that does not also reference another one of the thugs. How about adding the name â€˜bullyâ€™ to the list of names for the Evil Thug?[/quote:16r1ipim]
-
-Evil thug:  member-evil-gang
+Evil thug: member-evil-gang
 
 Young gang member: member-thug-gang
 
@@ -84,9 +93,9 @@ Thanks, Evil-member seems to work great!
 
 <div class="post" data-post-id="6673" data-author="blackmore" data-date="2005-05-30T12:03:06+00:00" data-subject="">
 
-I'm a bit confused as to why you would need to worry about this, but I think I can guess.  You are spamming a spell or skill that requires a target, causing you to hit a 2nd mob after the first has died.
+I'm a bit confused as to why you would need to worry about this, but I think I can guess. You are spamming a spell or skill that requires a target, causing you to hit a 2nd mob after the first has died.
 
-You can stop spamming commands, but there's a more reliable way.  All attack skills and songs only require a target if you are not in combat.  If you are already in combat, you can cast/do your skill without specifying a target, and it will hit the one that you are currently fighting.
+You can stop spamming commands, but there's a more reliable way. All attack skills and songs only require a target if you are not in combat. If you are already in combat, you can cast/do your skill without specifying a target, and it will hit the one that you are currently fighting.
 
 </div>
 
@@ -118,55 +127,55 @@ Turn autokill on. It'll help to kill mortally wounded mobs w/o retargeting.
 
 Regarding the need to target mobs for the final blow, here is an example below (with autokill on):
 
-# <153hp 194ma 119mv>
+\# \<153hp 194ma 119mv\>
 
-# 
+\# 
 
-# You hit an evil thug.
+\# You hit an evil thug.
 
-# A ghost pounds an evil thug hard.
+\# A ghost pounds an evil thug hard.
 
-# A ghost bites an evil thug hard.
+\# A ghost bites an evil thug hard.
 
-# An evil thug misses you with his hit.
+\# An evil thug misses you with his hit.
 
-# An evil thug misses a ghost with his crush.
+\# An evil thug misses a ghost with his crush.
 
-# A ghost pounds an evil thug hard.
+\# A ghost pounds an evil thug hard.
 
-# A ghost bites an evil thug hard.
+\# A ghost bites an evil thug hard.
 
-# An evil thug is incapacitated and will slowly die, if not aided.
+\# An evil thug is incapacitated and will slowly die, if not aided.
 
-# A calico kitten leaves south.
+\# A calico kitten leaves south.
 
-# You are hungry.
+\# You are hungry.
 
-# An evil thug lies immobile on the ground, suffering...
+\# An evil thug lies immobile on the ground, suffering...
 
-# An evil thug is mortally wounded, and will die soon, if not aided.
+\# An evil thug is mortally wounded, and will die soon, if not aided.
 
-# 
+\# 
 
-# <154hp 195ma 119mv>
+\# \<154hp 195ma 119mv\>
 
-# 
+\# 
 
-# Strike
+\# Strike
 
-# You don't see that person.
+\# You don't see that person.
 
-# 
+\# 
 
-# <154hp 195ma 119mv>
+\# \<154hp 195ma 119mv\>
 
-# 
+\# 
 
-# Strike evil-member
+\# Strike evil-member
 
-# An evil thug looks shocked as he sees your fist embedded in his abdomen, then collapses.
+\# An evil thug looks shocked as he sees your fist embedded in his abdomen, then collapses.
 
-# An evil thug is dead! R.I.P.
+\# An evil thug is dead! R.I.P.
 
 This was happening to attacks like Strike and Kick, and to spells. I’m no longer sure how frequently this occurs because I’ve gotten into the habit of using a targeted attack for the final blow when the mob is down. I seem to recall it happening mostly when the mob was mortally wounded instead of stunned or incapacitated, but maybe that was because the mobs sometimes bleed to death if you don’t finish them soon enough, so maybe it’s the same for all three modes. 
 
@@ -176,7 +185,7 @@ If it’s a bug it must not be a big deal for anyone, since it looks like I’m 
 
 <div class="post" data-post-id="6846" data-author="12345" data-date="2005-06-06T14:10:05+00:00" data-subject="">
 
-It would seem to be a bug with autokill.  I can tell you from past experience that blindly striking a mob can be dangerous if you're in a place like Blaster's temple where mobs with the same name wander in and out during battle.  For safety, I will normally look at the mob prior to finishing it off to make sure I'm targeting the correct one.  If it's in excellent condition.. it's not the right one.
+It would seem to be a bug with autokill. I can tell you from past experience that blindly striking a mob can be dangerous if you're in a place like Blaster's temple where mobs with the same name wander in and out during battle. For safety, I will normally look at the mob prior to finishing it off to make sure I'm targeting the correct one. If it's in excellent condition.. it's not the right one.
 
 </div>
 
@@ -192,7 +201,7 @@ The pet? Interesting possibility. I was going to say that the same thing is happ
 
 Typical pattern:
 
-----------------
+\----------------
 
 Necro hits
 
@@ -212,7 +221,7 @@ Necro hits
 
 Interrupted pattern:
 
---------------------
+\--------------------
 
 Necro hits
 
@@ -234,7 +243,7 @@ Again my solution was to do a targeted attack after the mob is wounded.
 
 <div class="post" data-post-id="6852" data-author="Weasel" data-date="2005-06-06T17:27:27+00:00" data-subject="">
 
-thuck'n fugs  :evil:
+thuck'n fugs <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -248,16 +257,19 @@ If a pet/follower is the one who strikes the morting hit, then the fight stops -
 
 <div class="post" data-post-id="7960" data-author="Wintersdark" data-date="2005-07-21T07:21:07+00:00" data-subject="">
 
-It's the pet thing.   If a pet morts a mob, then the fight stops.  I've lost a good number of kills to bloodloss that way, on both of my chars.
+It's the pet thing. If a pet morts a mob, then the fight stops. I've lost a good number of kills to bloodloss that way, on both of my chars.
 
 It happens, reliably, with animated, summons, supplications, familairs, charmies, everything.
 
 However, if a follower leaves a mob unconcious but NOT mortally wounded, the fight will continue as normal.
 
-It's really rather annoying - the time it takes to look at the target, find the correct one if new mobs have come into the room ect., often leads to death VIA bloodloss - always a piss off when you've worked really hard to kill something big.  
+It's really rather annoying - the time it takes to look at the target, find the correct one if new mobs have come into the room ect., often leads to death VIA bloodloss - always a piss off when you've worked really hard to kill something big. 
 
-I am supporting the 'pet-theory' since i noticed the same, and even worse annoyances related to pets/followers (cleric's supplicants and necro's undeads, not sure about mage's familiars).
-
-If a pet/follower is the one who strikes the morting hit, then the fight stops - as if everyone else had autokill off. Thus the need to issue a new targeted command to finish the kill. This is even worse if it happens in a group since then the xp is not shared correctly - need to experiment more to see which are the cases.[/quote:3h1tr0gn]
+> <strong>Taki wrote:</strong>
+> I am supporting the 'pet-theory' since i noticed the same, and even worse annoyances related to pets/followers (cleric's supplicants and necro's undeads, not sure about mage's familiars).
+> 
+> 
+> 
+> If a pet/follower is the one who strikes the morting hit, then the fight stops - as if everyone else had autokill off. Thus the need to issue a new targeted command to finish the kill. This is even worse if it happens in a group since then the xp is not shared correctly - need to experiment more to see which are the cases.
 
 </div>

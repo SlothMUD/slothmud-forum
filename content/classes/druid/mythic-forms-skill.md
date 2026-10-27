@@ -50,7 +50,7 @@ Maybe make that skill 9x40 with hard to get book allowing shifting into somethin
 
 Maybe allow orders to druids awaken summons while in forms(And guess add new creatures tier behind 6x40).
 
-Maybe just remove it from the game, or make it 8x40 allowing use of  8x40+ forms. Maybe with buffing these 
+Maybe just remove it from the game, or make it 8x40 allowing use of 8x40+ forms. Maybe with buffing these 
 
 worms at same time.
 

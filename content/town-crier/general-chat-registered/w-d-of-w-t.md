@@ -18,7 +18,7 @@ Anyone playing Slothmud and it by chance?
 
 <div class="post" data-post-id="26765" data-author="Weasel" data-date="2008-10-18T21:10:02+00:00" data-subject="">
 
-Never played WoW. Does it cost much now (subscription to their server I mean)?  - and is there any point starting this late in the game - I imagine there's like millions of players with very advanced level characters, so I'm thinking a noobie wouldn't stand a whelk's chance in a supernova there.
+Never played WoW. Does it cost much now (subscription to their server I mean)? - and is there any point starting this late in the game - I imagine there's like millions of players with very advanced level characters, so I'm thinking a noobie wouldn't stand a whelk's chance in a supernova there.
 
 </div>
 
@@ -36,9 +36,9 @@ I no longer play there as I cant justify the $14 a month to play it when I have 
 
 <div class="post" data-post-id="26767" data-author="Tap" data-date="2008-10-18T21:27:03+00:00" data-subject="">
 
-You can get a 2 week trial at your local Walmart for $1.00. If you like it, 20 bucks will buy the original game and extra 20 if you want the Burning crusade expansion. I never played a MMORPG before so i'm not sure if it was like Everquest but perhaps they were similiar in nature. Maybe it's based on taste but as a newbie, it's been fun...least all the "clues" I need to help with quests in the game are online. They had a huge update last weekend that added alot of stuff and I'm still on the original..haven't forked out 20 for the expansion yet. Not sure how it compares to G _ _ _d W_ _ _s
+You can get a 2 week trial at your local Walmart for $1.00. If you like it, 20 bucks will buy the original game and extra 20 if you want the Burning crusade expansion. I never played a MMORPG before so i'm not sure if it was like Everquest but perhaps they were similiar in nature. Maybe it's based on taste but as a newbie, it's been fun...least all the "clues" I need to help with quests in the game are online. They had a huge update last weekend that added alot of stuff and I'm still on the original..haven't forked out 20 for the expansion yet. Not sure how it compares to G \_ \_ \_d W\_ \_ \_s
 
-or W_ _h_mm_r. I think someone has posted about becoming addicted to WOW..I can see why...
+or W\_ \_h\_mm\_r. I think someone has posted about becoming addicted to WOW..I can see why...
 
 </div>
 
@@ -48,15 +48,15 @@ or W_ _h_mm_r. I think someone has posted about becoming addicted to WOW..I can 
 
 (might be unavailable very soon)
 
-1. My experience of WOW was playing the free trial, rolling a human Paladin, having "buffs plz" being the only kind of communication anybody ever used on me, and then basically having a party form, only for the members to all quickly leave as they finished their induvidual objectives, with no thought of helping anybody else out. I don't particularly mind playing alone, since it gives me time to do things at my own pace, but if you're going to form a party you should have the common courtesy to stay until the party has fulfilled its objective to the satisfaction of each member. The sheer rudeness and selfishness of the average WoW player was what turned me off that game.
+1\. My experience of WOW was playing the free trial, rolling a human Paladin, having "buffs plz" being the only kind of communication anybody ever used on me, and then basically having a party form, only for the members to all quickly leave as they finished their induvidual objectives, with no thought of helping anybody else out. I don't particularly mind playing alone, since it gives me time to do things at my own pace, but if you're going to form a party you should have the common courtesy to stay until the party has fulfilled its objective to the satisfaction of each member. The sheer rudeness and selfishness of the average WoW player was what turned me off that game.
 
-2. The problem with WoW (indeed, most MMOs) is that the player base is shit. You'll be hard pressed to find even a single decent player, and it's close to impossible to find a group consisting of only decent people. I mean, all the grindan and all that is one thing, but the players themselves, that's the biggest issue by far. It's like some of them co-op games: Shit when played by yourself, fun if you get someone to play with you, even worse than shit if the one you're playing with is a f*ing idiot. The players are the true cancer on MMOs.
+2\. The problem with WoW (indeed, most MMOs) is that the player base is shit. You'll be hard pressed to find even a single decent player, and it's close to impossible to find a group consisting of only decent people. I mean, all the grindan and all that is one thing, but the players themselves, that's the biggest issue by far. It's like some of them co-op games: Shit when played by yourself, fun if you get someone to play with you, even worse than shit if the one you're playing with is a f\*ing idiot. The players are the true cancer on MMOs.
 
-3. Endless dungeon crawl full of brain-dead AI mobs. Spam whatever your class spams, spend 30 seconds reading WoW Wiki to find out what to do on the bosses, and don't be retarded.
+3\. Endless dungeon crawl full of brain-dead AI mobs. Spam whatever your class spams, spend 30 seconds reading WoW Wiki to find out what to do on the bosses, and don't be retarded.
 
-4. I play WoW but I am going to stop soon. The funny thing is whenever I play it, I feel half-asleep. Not kidding, I feel like falling asleep on my keyboard whenever I play it.
+4\. I play WoW but I am going to stop soon. The funny thing is whenever I play it, I feel half-asleep. Not kidding, I feel like falling asleep on my keyboard whenever I play it.
 
-5. Being a noob in wow is probly the most fun one can have in this game cause there are so many areas to explore and it all looks cool, but once that's over it all devolves into repetitive grinding and drudgery, the idea of raiding the same place over and over and over and over and over for some faggot charm to make me 0.5% better and joining a guild, who requires all your waking time and dedication to get said charm just makes me sick to think that someone would actually make a game like this.
+5\. Being a noob in wow is probly the most fun one can have in this game cause there are so many areas to explore and it all looks cool, but once that's over it all devolves into repetitive grinding and drudgery, the idea of raiding the same place over and over and over and over and over for some faggot charm to make me 0.5% better and joining a guild, who requires all your waking time and dedication to get said charm just makes me sick to think that someone would actually make a game like this.
 
 And so on.
 
@@ -64,7 +64,7 @@ That's what ppl say.
 
 All those MMORPG is just timesink.
 
-And btw, Lineage has better overall design and character design in particular and BIGGER BOUNCY DARK ELVEN BOOBS !  :D
+And btw, Lineage has better overall design and character design in particular and BIGGER BOUNCY DARK ELVEN BOOBS ! <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -78,13 +78,14 @@ it was fun till that stupid incident happnd where it killed south east asia's in
 
 <div class="post" data-post-id="26775" data-author="Weasel" data-date="2008-10-20T11:02:31+00:00" data-subject="">
 
-Informative reviews, thanks all :)
+Informative reviews, thanks all <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="26787" data-author="Tap" data-date="2008-10-20T22:27:38+00:00" data-subject="">
 
-[quote:lxmil3kv]BIGGER BOUNCY DARK ELVEN BOOBS ! [/quote:lxmil3kv]
+> <strong>Quote:</strong>
+> BIGGER BOUNCY DARK ELVEN BOOBS !
 
 target Lineage
 
@@ -106,13 +107,13 @@ New continent and eq is cool, but i wish Blizzard add to themselves moar brane a
 
 Pic related.
 
-[img:2cecl2ho]http://yasik.kiev.ua/Wow_Lineage_Dwarf.jpg[/img:2cecl2ho]
+![](http://yasik.kiev.ua/Wow_Lineage_Dwarf.jpg)
 
 </div>
 
 <div class="post" data-post-id="26834" data-author="Weasel" data-date="2008-10-24T16:28:31+00:00" data-subject="">
 
-LOL.. WoW are bushpigs next to Lineage..  are those pics a true reflection of the games in general though (as far as graphics go) or is it the best graphics of Lineage being compared against the worst of Wow?
+LOL.. WoW are bushpigs next to Lineage.. are those pics a true reflection of the games in general though (as far as graphics go) or is it the best graphics of Lineage being compared against the worst of Wow?
 
 </div>
 
@@ -128,15 +129,15 @@ But if Google Images, YouTube and official WoW site can be treated as reliable s
 
 Well..I think I am going to check L2 out..not bashing WOW but sheesh..following video says it all
 
-[url:16hh0bbo]http://www.youtube.com/watch?v=vAXmnjjolNc[/url:16hh0bbo]
+http://www.youtube.com/watch?v=vAXmnjjolNc
 
 </div>
 
 <div class="post" data-post-id="26838" data-author="Weasel" data-date="2008-10-25T01:10:55+00:00" data-subject="">
 
-[url:2y780egp]http://www.youtube.com/watch?v=qDeMdjTmKck[/url:2y780egp]
+http://www.youtube.com/watch?v=qDeMdjTmKck
 
-[url:2y780egp]http://www.youtube.com/watch?v=kQaLrLUMDbg[/url:2y780egp]
+http://www.youtube.com/watch?v=kQaLrLUMDbg
 
 </div>
 
@@ -144,7 +145,7 @@ Well..I think I am going to check L2 out..not bashing WOW but sheesh..following 
 
 I don't think I'll be trying this one out
 
-++++++++++++++++++++++++
+\++++++++++++++++++++++++
 
 Woman arrested for killing virtual husband
 
@@ -196,7 +197,7 @@ it only takes a couple weeks to get to 70 if you put a little bit of time in
 
 expansion is coming out soon so cap will be 80 then and everyone will be
 
-on equal footing again more or less.  it's a really fun game if you have a few guys in your guild that are on the same page as you.
+on equal footing again more or less. it's a really fun game if you have a few guys in your guild that are on the same page as you.
 
 </div>
 
@@ -224,15 +225,15 @@ How much 'addons' it has? Two? Lineage has about 9 or so and counting, it has sa
 
 You can also find a friends and play it together.
 
-About fatass dwarf 'woman' - there you have L2 dwarfette and WoW one. If you want to compare elves - let's do it! 8)
+About fatass dwarf 'woman' - there you have L2 dwarfette and WoW one. If you want to compare elves - let's do it! <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 [http://www.youtube.com/watch?v=xC-p53nBmW8](http://www.youtube.com/watch?v=xC-p53nBmW8)
 
-Character models are picked from the client, which means you'll see *exactly* the same when you log in to teh game.
+Character models are picked from the client, which means you'll see \*exactly\* the same when you log in to teh game.
 
-Oh,btw. You have to *BUY* WoW addons, then *PAY* to play it, while all of L2 addons are free.
+Oh,btw. You have to \*BUY\* WoW addons, then \*PAY\* to play it, while all of L2 addons are free.
 
-And stop struggling and throw an insignificant arguments, just admit silently that you play a shit and pay your money for it.  :D
+And stop struggling and throw an insignificant arguments, just admit silently that you play a shit and pay your money for it. <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 PS. The only thing both those MMO's lack is gore and viscera, a level of Bloodrayne-2 would be nice.
 
@@ -240,7 +241,8 @@ PS. The only thing both those MMO's lack is gore and viscera, a level of Bloodra
 
 <div class="post" data-post-id="27193" data-author="Tap" data-date="2008-11-15T19:48:09+00:00" data-subject="">
 
-[quote:c3tg15o8]Oh,btw. You have to *BUY* WoW addons, then *PAY* to play it, while all of L2 addons are free. [/quote:c3tg15o8]
+> <strong>Quote:</strong>
+> Oh,btw. You have to \*BUY\* WoW addons, then \*PAY\* to play it, while all of L2 addons are free.
 
 Free doesn't equal quality. Having said that, I haven't played Lineage just yet..but it is on my to-do list. I'm looking forward to comparing the 2.
 
@@ -250,13 +252,15 @@ From what I hear, Age of Conan blows major chunks and Warhammer doesn't quite li
 
 <div class="post" data-post-id="27194" data-author="Yasik2" data-date="2008-11-15T22:27:06+00:00" data-subject="">
 
-Free doesn't equal quality. Having said that, I haven't played Lineage just yet..but it is on my to-do list. I'm looking forward to comparing the 2.[/quote:1q97287u]
+> <strong>Tap wrote:</strong>
+> Free doesn't equal quality. Having said that, I haven't played Lineage just yet..but it is on my to-do list. I'm looking forward to comparing the 2.
 
 You lie. (c) House
 
 You ain't goin to play Lineage. You admitted that you're afraid of a japanese woman living on the opposite side of the globe, who killed her ex-husband.
 
-From what I hear, Age of Conan blows major chunks and Warhammer doesn't quite live up to the hype but to each his own.[/quote:1q97287u]
+> <strong>Tap wrote:</strong>
+> From what I hear, Age of Conan blows major chunks and Warhammer doesn't quite live up to the hype but to each his own.
 
 Can't say anything about these two, have not checked out and probably will not.
 
@@ -268,7 +272,7 @@ i did play L2 and while the graphics are pretty decent..the mechanics suck,
 
 the quest-system sucks and the pvp is an outright fuckin' joke.
 
-the expansion that WoW just put in is crazy.  It will be like the 6th or higher.
+the expansion that WoW just put in is crazy. It will be like the 6th or higher.
 
 There have been quite a few that we never had to pay for, the only ones that cost were BC and this new one WotLK.
 
@@ -290,9 +294,10 @@ Yes, graphics in L2 is OK, and if all you need from a game is cute female elves 
 
 <div class="post" data-post-id="27220" data-author="Yasik2" data-date="2008-11-19T21:14:48+00:00" data-subject="">
 
-if all you need from a game is cute female elves with tits, sure play it. But WoW is sooo much more complicated, has so much more to offer[/quote:37fgbdiy]
+> <strong>Krok wrote:</strong>
+> if all you need from a game is cute female elves with tits, sure play it. But WoW is sooo much more complicated, has so much more to offer
 
-[img:37fgbdiy]http://yasik.kiev.ua/4chan/Tits2.jpg[/img:37fgbdiy]
+![](http://yasik.kiev.ua/4chan/Tits2.jpg)
 
 TITS AINT SHIT ! Its important !
 
@@ -300,7 +305,7 @@ About 'so much more to offer' - can you enumerate plix?
 
 Yeah, in WoW you can jump and perform stupid dances with hips thrusts just like this fella did when he (it?) was younger:
 
-[img:37fgbdiy]http://yasik.kiev.ua/4chan/Michael_Jackson_Zombie.jpg[/img:37fgbdiy]
+![](http://yasik.kiev.ua/4chan/Michael_Jackson_Zombie.jpg)
 
 Anyway, this is goin to nowhere. What matters is personal preferences. I choose big bouncy dark elven boobies.
 
@@ -326,20 +331,21 @@ well said tap
 
 <div class="post" data-post-id="27315" data-author="Tap" data-date="2008-11-29T22:40:40+00:00" data-subject="">
 
-[url:3m0097zq]http://videogames.yahoo.com/events/playback/playback-24/1269537[/url:3m0097zq]
+http://videogames.yahoo.com/events/playback/playback-24/1269537
 
 </div>
 
 <div class="post" data-post-id="27316" data-author="Yasik2" data-date="2008-11-30T04:20:14+00:00" data-subject="">
 
-I usually have scripts blocked so first i saw Failout-3 banner to the right, so i think i'm goin to use the opportunity to grumble one more time about how those Bethesda faggots ruined all the hopes of Fallout series fans. :evil:  :evil:  :evil:  :evil:  :evil:
+I usually have scripts blocked so first i saw Failout-3 banner to the right, so i think i'm goin to use the opportunity to grumble one more time about how those Bethesda faggots ruined all the hopes of Fallout series fans. <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="27319" data-author="Vixn" data-date="2008-11-30T06:06:25+00:00" data-subject="">
 
-I usually have scripts blocked so first i saw Failout-3 banner to the right, so i think i'm goin to use the opportunity to grumble one more time about how those Bethesda faggots ruined all the hopes of Fallout series fans. :evil:  :evil:  :evil:  :evil:  :evil:[/quote:2ufshfk6]
+> <strong>Yasik2 wrote:</strong>
+> I usually have scripts blocked so first i saw Failout-3 banner to the right, so i think i'm goin to use the opportunity to grumble one more time about how those Bethesda faggots ruined all the hopes of Fallout series fans. <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
-+1
+\+1
 
 </div>

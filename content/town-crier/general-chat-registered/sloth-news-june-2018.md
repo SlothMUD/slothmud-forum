@@ -50,43 +50,43 @@ Now! Over to our correspondent on Lyme. We have news of a player who has been at
 
 “What can you tell us?”
 
- 27 Jun 2018 23:41	skeletal knight of fire obliterated Xxx.  
+ 27 Jun 2018 23:41	skeletal knight of fire obliterated Xxx. 
 
- 27 Jun 2018 13:11	Xxx was beaten down by a harpy.  
+ 27 Jun 2018 13:11	Xxx was beaten down by a harpy. 
 
- 27 Jun 2018 12:54	a rogue thief handidly dispatched Xxx to to the next world.  
+ 27 Jun 2018 12:54	a rogue thief handidly dispatched Xxx to to the next world. 
 
- 27 Jun 2018 00:10	Xxx naively fought a male guest and lost.  
+ 27 Jun 2018 00:10	Xxx naively fought a male guest and lost. 
 
- 26 Jun 2018 14:34	a minotaur guard wasted Xxx.  
+ 26 Jun 2018 14:34	a minotaur guard wasted Xxx. 
 
- 26 Jun 2018 00:33	Uhhhl slew Xxx.  
+ 26 Jun 2018 00:33	Uhhhl slew Xxx. 
 
- 26 Jun 2018 00:23	Xxx was slain by Klklklpa.  
+ 26 Jun 2018 00:23	Xxx was slain by Klklklpa. 
 
- 26 Jun 2018 00:09	Xxx was defeated by Klklklpa.  
+ 26 Jun 2018 00:09	Xxx was defeated by Klklklpa. 
 
- 25 Jun 2018 23:31	Xxx naively fought a beast with a huge gaping maw and lost.  
+ 25 Jun 2018 23:31	Xxx naively fought a beast with a huge gaping maw and lost. 
 
- 25 Jun 2018 20:35	a male guest wasted Xxx.  
+ 25 Jun 2018 20:35	a male guest wasted Xxx. 
 
- 25 Jun 2018 15:20	a sahaguin patrol obliterated Xxx.  
+ 25 Jun 2018 15:20	a sahaguin patrol obliterated Xxx. 
 
- 25 Jun 2018 15:12	a foot soldier crushed Xxx to a liveless pulp of blood and offals.  
+ 25 Jun 2018 15:12	a foot soldier crushed Xxx to a liveless pulp of blood and offals. 
 
- 25 Jun 2018 13:02	Xxx was messily dispatched by a gargoyle.  
+ 25 Jun 2018 13:02	Xxx was messily dispatched by a gargoyle. 
 
- 25 Jun 2018 12:25	an elite guard slew Xxx.  
+ 25 Jun 2018 12:25	an elite guard slew Xxx. 
 
- 25 Jun 2018 12:18	a cloudgiant tower guard slew Xxx.  
+ 25 Jun 2018 12:18	a cloudgiant tower guard slew Xxx. 
 
- 24 Jun 2018 19:49	Xxx was slain by a royal guard.  
+ 24 Jun 2018 19:49	Xxx was slain by a royal guard. 
 
- 24 Jun 2018 15:59	a silver dragon spy defeated Xxx.  
+ 24 Jun 2018 15:59	a silver dragon spy defeated Xxx. 
 
- 24 Jun 2018 13:36	Xxx was slain by the Black Angel.  
+ 24 Jun 2018 13:36	Xxx was slain by the Black Angel. 
 
- 24 Jun 2018 13:20	Xxx fought against a temple guard and lost.  
+ 24 Jun 2018 13:20	Xxx fought against a temple guard and lost. 
 
 “Well we interviewed the player who wished to only be known anonymously as Xxx about his record breaking run attempt. Here’s what he had to say…
 
@@ -118,7 +118,7 @@ This has been Sloth news for the last week of June, I’m your host Gorka, gimme
 
 <div class="post" data-post-id="38941" data-author="Sam" data-date="2018-06-28T21:15:56+00:00" data-subject="Re: Sloth News - June 2018">
 
-good one, thx :)
+good one, thx <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Whats coming next?! (it was The late "mudders" hours news)
 
@@ -126,7 +126,7 @@ Whats coming next?! (it was The late "mudders" hours news)
 
 03:15 The great bard songs of the past performed by Toxis and the Many Chicks band.
 
-03:45 Slothmud museum society presents: Zarf, Ghost, Slice and other newbies back in the '97, guest narrators -  Unmace, Whatta and Strider.
+03:45 Slothmud museum society presents: Zarf, Ghost, Slice and other newbies back in the '97, guest narrators - Unmace, Whatta and Strider.
 
 04:30 Basics of the munchkinism - Taron and Gorka listening and commenting on the retro records of Cizin and Sa
 
@@ -142,6 +142,6 @@ Whats coming next?! (it was The late "mudders" hours news)
 
 02:15 The late "mudders" hours news by Gorka and guests
 
-*cheers*
+\*cheers\*
 
 </div>

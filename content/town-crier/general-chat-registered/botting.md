@@ -12,9 +12,9 @@ post_count: 34
 
 <div class="post" data-post-id="22351" data-author="Seda" data-date="2008-01-29T07:51:07+00:00" data-subject="Botting">
 
-Botting is breaking the rules...  
+Botting is breaking the rules... 
 
-Sloth Mud RULE # 4)   No Robotting. [/size:r60d36dz] 
+Sloth Mud RULE # 4) No Robotting. 
 
 (rule from slothmud.org site)
 
@@ -24,17 +24,17 @@ its own. Playing a 'robot' character is forbidden, and will be punished.
 
 If you are observed killing and are not at the keyboard to answer an 
 
-immortal's message, you are a robot and subject to harsh penalties. [/color:r60d36dz]
+immortal's message, you are a robot and subject to harsh penalties. 
 
 You ARE NOT allowed to program your MUD client to allow your buddy 
 
-to have full control over your character.  (this also means a leader)[/color:r60d36dz]
+to have full control over your character. (this also means a leader)
 
 Allowing the leader to set your targets, and "all up" triggers are fine. 
 
 Cleric Bots are illegal if you are away from keyboard. You will be 
 
-considered a robot [u:r60d36dz]even if your actions are not benefiting yourself. [/u:r60d36dz][/color:r60d36dz]
+considered a robot even if your actions are not benefiting yourself. 
 
 You MAY create actions/triggers that perform otherwise repetitive actions 
 
@@ -44,49 +44,49 @@ If you need to AFK to get a drink or answer the phone, that is one thing,
 
 being AFK in a group for 10-15 minutes while still â€œmagically entering 
 
-portals and blinding Mobsâ€, WILL NOT be tolerated.[/color:r60d36dz] If your leader believes 
+portals and blinding Mobsâ€, WILL NOT be tolerated. If your leader believes 
 
 you are botting, good chances you are!!! 
 
---------------------------------------------------------------------------------[/color:r60d36dz]
+\--------------------------------------------------------------------------------
 
 Regarding group LEADERS.....
 
-   At one point in the past leaders were subject to punishment if they
+ At one point in the past leaders were subject to punishment if they
 
- intentionally drug around a player (or players) who botted.   Does this
+ intentionally drug around a player (or players) who botted. Does this
 
- have to be enforced again?   Botters slow a group down, steal experience 
+ have to be enforced again? Botters slow a group down, steal experience 
 
 from players who are at the keyboard, and break the rules.
 
-   If a person has not told you (or grouptelled) that they would be afk for 
+ If a person has not told you (or grouptelled) that they would be afk for 
 
-a short period of time OR a group member is not  responding within a 
+a short period of time OR a group member is not responding within a 
 
-reasonable amount of time, recall them! [/color:r60d36dz]
+reasonable amount of time, recall them! 
 
 Regarding group MEMBERS.....
 
-   All botters are breaking RULE 4.   Do not think that your scripts are so
+ All botters are breaking RULE 4. Do not think that your scripts are so
 
- perfect to where you won't get caught botting.  The better the scripts,
+ perfect to where you won't get caught botting. The better the scripts,
 
- the harder to be found out, and the harsher the punsishment in the end.[/color:r60d36dz]
+ the harder to be found out, and the harsher the punsishment in the end.
 
 Regarding IMMs....
 
-    Imms will be watching for bptters, sending tells, using says, and using
+ Imms will be watching for bptters, sending tells, using says, and using
 
-other means to enforce this rule.   Punishment will enforced.
+other means to enforce this rule. Punishment will enforced.
 
-Seda[/color:r60d36dz]
+Seda
 
 </div>
 
 <div class="post" data-post-id="22352" data-author="jezer" data-date="2008-01-29T08:02:52+00:00" data-subject="">
 
-*Hides from the ensuing worn out botting jokes."
+\*Hides from the ensuing worn out botting jokes."
 
 BTW, is having a script set up like tell me iron, or tell me aegis... are they considered botting scripts? or only if your afk?
 
@@ -96,7 +96,7 @@ If I set at recall, and people are "abusing" my scripts... whats the rule there?
 
 <div class="post" data-post-id="22353" data-author="tincts" data-date="2008-01-29T08:41:00+00:00" data-subject="">
 
-Essentially, you can have fancy scripts that do the work for you, but you must be at the keyboard and able to answer questions, take over from your scripts etc.  Iron triggers etc are fine.  Sitting at recall, while a bit spammy for everyone else, is fine, although sitting at recall so that people can use your triggers to heal up, iron up etc would probably be frowned upon.
+Essentially, you can have fancy scripts that do the work for you, but you must be at the keyboard and able to answer questions, take over from your scripts etc. Iron triggers etc are fine. Sitting at recall, while a bit spammy for everyone else, is fine, although sitting at recall so that people can use your triggers to heal up, iron up etc would probably be frowned upon.
 
 </div>
 
@@ -112,9 +112,9 @@ btw: Seda ... only 1 post? really?
 
 <div class="post" data-post-id="22357" data-author="jezer" data-date="2008-01-29T12:55:45+00:00" data-subject="">
 
-Botting is GOOD?  :shock: 
+Botting is GOOD? <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
-Target Thraxas!  :twisted:
+Target Thraxas! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -132,13 +132,17 @@ Marge runs largely automated in groups, so I consider myself a bot and I like to
 
 <div class="post" data-post-id="22374" data-author="Thraxas" data-date="2008-01-29T17:28:22+00:00" data-subject="">
 
-Botting is GOOD?  :shock: 
-
-Target Thraxas!  :twisted:[/quote:4r5oycjh]
+> <strong>jezer wrote:</strong>
+> Botting is GOOD? <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
+> 
+> 
+> 
+> Target Thraxas! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 Fair enough ... I normally play as Copra these days when around target her too
 
-At least Seda is patriotic. Any word on when pthieving is coming back? [/quote:4r5oycjh]
+> <strong>tap wrote:</strong>
+> At least Seda is patriotic. Any word on when pthieving is coming back?
 
 Is this a dig at me? I'm patriotic to my own country ... dosen't mean I have to have any respect for yours.
 
@@ -164,17 +168,24 @@ according to text color Seda is patriot of Russia... or Holland... hm.. or Franc
 
 <div class="post" data-post-id="22378" data-author="Alberich" data-date="2008-01-29T18:03:05+00:00" data-subject="">
 
-I'm patriotic to my own country ... dosen't mean I have to have any respect for yours.[/quote:2ylgf8ti]
+> <strong>Thraxas wrote:</strong>
+> I'm patriotic to my own country ... dosen't mean I have to have any respect for yours.
 
-nice of you to list your alts along with that.  will keep it in mind.
+nice of you to list your alts along with that. will keep it in mind.
 
 </div>
 
 <div class="post" data-post-id="22379" data-author="Thraxas" data-date="2008-01-29T18:39:48+00:00" data-subject="">
 
-I'm patriotic to my own country ... dosen't mean I have to have any respect for yours.[/quote:2uhaod74]
-
-nice of you to list your alts along with that.  will keep it in mind.[/quote:2uhaod74]
+> <strong>Alberich wrote:</strong>
+> > <strong>Thraxas wrote:</strong>
+> > I'm patriotic to my own country ... dosen't mean I have to have any respect for yours.
+> 
+> 
+> 
+> 
+> 
+> nice of you to list your alts along with that. will keep it in mind.
 
 fair enough, I don't hide behind alts or aliases on crier that don't relate to my chars names, judge me by my actions and I'll be happy.
 
@@ -184,11 +195,11 @@ Anyone fancy bringing this thread back onto topic? ... nah I thought not
 
 <div class="post" data-post-id="22383" data-author="Seda" data-date="2008-01-29T19:53:43+00:00" data-subject="To lighten the air....">
 
-[u:1nqkg18r]Remembering the Past - Botting[/u:1nqkg18r]
+Remembering the Past - Botting
 
-[b:1nqkg18r]Who is  the char XXX  below?[/b:1nqkg18r][/color:1nqkg18r]
+<strong>Who is the char XXX below?</strong>
 
-------------------------------------------------------------
+\------------------------------------------------------------
 
 Grouped with two to six, and sometimes many more.
 
@@ -212,7 +223,7 @@ Could it be that XXX was really on the phone?
 
 The reason for his afk was so hard to believe
 
-He group telled the same words each time...  
+He group telled the same words each time... 
 
 Sorry, Emergency
 
@@ -220,7 +231,7 @@ Sorry, Emergency
 
 <div class="post" data-post-id="22387" data-author="jezer" data-date="2008-01-29T22:54:38+00:00" data-subject="">
 
-Pink Cherry Donuts for Everybody!!!  :twisted:
+Pink Cherry Donuts for Everybody!!! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -228,7 +239,7 @@ Pink Cherry Donuts for Everybody!!!  :twisted:
 
 Why does some people take me to be so negative..it was a reference to the red white and blue text...but whatever..if that offends you I'll change it to...
 
-At Least Seda is a Denis Rodman fan :twisted:
+At Least Seda is a Denis Rodman fan <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -238,9 +249,9 @@ Here's my 2 cents on botting.
 
 I can't stand botters, and recall them on sight.
 
-However, the ppl who have been whinning about botters (not pointing at Seda) have usually been the ones most nonchalant about it when I point out to them so-and-so are botting in their groups.  They usually say "so?" or tell me to shut up.
+However, the ppl who have been whinning about botters (not pointing at Seda) have usually been the ones most nonchalant about it when I point out to them so-and-so are botting in their groups. They usually say "so?" or tell me to shut up.
 
-So please, do not take the thou-art-holier attitude.  You all know you welcome botters if they help u kill bigger mobs in your group.
+So please, do not take the thou-art-holier attitude. You all know you welcome botters if they help u kill bigger mobs in your group.
 
 </div>
 
@@ -250,7 +261,7 @@ So?
 
 Shut up...
 
- 8)
+ <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -268,15 +279,16 @@ help rule 4
 
 Seda wrote:
 
-[quote:23ft80d9]About an hour later, XXX sees heâ€™s alone.
-
-Could it be that XXX was really on the phone?
-
-The reason for his afk was so hard to believe
-
-He group telled the same words each time...
-
-Sorry, Emergency[/quote:23ft80d9]
+> <strong>Quote:</strong>
+> About an hour later, XXX sees heâ€™s alone.
+> 
+> Could it be that XXX was really on the phone?
+> 
+> The reason for his afk was so hard to believe
+> 
+> He group telled the same words each time...
+> 
+> Sorry, Emergency
 
 I didn't catch your rhyme
 
@@ -298,9 +310,12 @@ peace out
 
 <div class="post" data-post-id="22919" data-author="Vixn" data-date="2008-02-24T14:33:45+00:00" data-subject="Re: To lighten the air....">
 
-[u:3lpugn6y]Remembering the Past - Botting[/u:3lpugn6y]
-
-[b:3lpugn6y]Who is  the char XXX  below?[/b:3lpugn6y][/color:3lpugn6y][/quote:3lpugn6y]
+> <strong>Seda wrote:</strong>
+> Remembering the Past - Botting
+> 
+> 
+> 
+> <strong>Who is the char XXX below?</strong>
 
 Lis probably. If not then it's Splork for sure!
 
@@ -310,7 +325,7 @@ Lis probably. If not then it's Splork for sure!
 
 I blame Splork
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -322,7 +337,7 @@ Really? I blame Dot.
 
 <div class="post" data-post-id="22922" data-author="Autolycos" data-date="2008-02-24T14:55:31+00:00" data-subject="">
 
-Dot loves Dybt  :twisted:
+Dot loves Dybt <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -330,27 +345,28 @@ Dot loves Dybt  :twisted:
 
 You junk the transsubstantiated tail of the mana gater.
 
-So now that Madmax has looted 2 of my personal cps should I glock my groups?  I realize regardless of what I do someone will say I am unfair.  So here is the predicament.  Leaders cannot enforce certain rules in a group.  It is really impossible.  Then you have these big mobs that you muster the whole game for and somebody loots for you.  So from now on if you loot some personal cp that is not yours I will personally junk it every time.  If you refuse to give me the cp, I will lose some levels after I piasa, shock, loot, and junk the item.  I haven't ran eternal flame for quite some time because I don't play Sloth to get mad.  I play to have fun.  If you can't control your triggers or botting I will take it to the next level.  I honestly don't care.
+So now that Madmax has looted 2 of my personal cps should I glock my groups? I realize regardless of what I do someone will say I am unfair. So here is the predicament. Leaders cannot enforce certain rules in a group. It is really impossible. Then you have these big mobs that you muster the whole game for and somebody loots for you. So from now on if you loot some personal cp that is not yours I will personally junk it every time. If you refuse to give me the cp, I will lose some levels after I piasa, shock, loot, and junk the item. I haven't ran eternal flame for quite some time because I don't play Sloth to get mad. I play to have fun. If you can't control your triggers or botting I will take it to the next level. I honestly don't care.
 
 </div>
 
 <div class="post" data-post-id="22928" data-author="Toxis" data-date="2008-02-24T21:37:42+00:00" data-subject="">
 
-I left because I felt the whole ordeal was a mess, and I had a horrible headache and had only gotten less than 4 hours sleep.  I was in no shape to group for something like that and that is why I left.
+I left because I felt the whole ordeal was a mess, and I had a horrible headache and had only gotten less than 4 hours sleep. I was in no shape to group for something like that and that is why I left.
 
-As for botting and bad scripts... Avatars should know better.  I appreciate a nice person and friend who likes to help out but there has to be a line drawn somewhere.  The immortals have stated it loud and clear, you are responsible for your client.  You are the one who should go out and test it on solo mobs.  You are the one who should pay the concenquences for screwing up.
+As for botting and bad scripts... Avatars should know better. I appreciate a nice person and friend who likes to help out but there has to be a line drawn somewhere. The immortals have stated it loud and clear, you are responsible for your client. You are the one who should go out and test it on solo mobs. You are the one who should pay the concenquences for screwing up.
 
-Now on the other hand, there really could be some leader commands set up to prevent unwanted looting of personal items.  I realize that imms might not want too much control over groups, but this isn't a pkill mud.  We can't punish people except for not allowing them in groups, and that is pretty mean since there aren't that many good groups to choose from.
+Now on the other hand, there really could be some leader commands set up to prevent unwanted looting of personal items. I realize that imms might not want too much control over groups, but this isn't a pkill mud. We can't punish people except for not allowing them in groups, and that is pretty mean since there aren't that many good groups to choose from.
 
-I would like to see leader "corpse guard".  The corpse would be noloot until leader gave command for someone else to loot.  Items that have just fallen off of astral mobs could not be picked up for at least 3 ticks unless leader gave the command.  I think this would help a lot vs big group looting of personal items.  Unless someone has a better idea...
+I would like to see leader "corpse guard". The corpse would be noloot until leader gave command for someone else to loot. Items that have just fallen off of astral mobs could not be picked up for at least 3 ticks unless leader gave the command. I think this would help a lot vs big group looting of personal items. Unless someone has a better idea...
 
--Toxis
+\-Toxis
 
 </div>
 
 <div class="post" data-post-id="22929" data-author="Yasik" data-date="2008-02-24T21:47:30+00:00" data-subject="">
 
-this isn't a pkill mud[/quote:3diwrnyw]
+> <strong>Toxis wrote:</strong>
+> this isn't a pkill mud
 
 no, it is
 
@@ -366,9 +382,12 @@ I'm not sure what I missed last night, but I'm sure glad I missed it.
 
 <div class="post" data-post-id="22933" data-author="*juggleblood*" data-date="2008-02-24T23:19:23+00:00" data-subject="">
 
-I Unless someone has a better idea...
-
--Toxis[/quote:2nceb2f3]
+> <strong>Toxis wrote:</strong>
+> I Unless someone has a better idea...
+> 
+> 
+> 
+> \-Toxis
 
 Can just add a proc to room that prevents anyone from executing the 'get all' command. From floor or corpse. I think that would suffice, cuz then someone would have to type get objname intentionally.
 
@@ -382,17 +401,19 @@ That works... but maybe a better idea is for group leaders to be able to set aut
 
 <div class="post" data-post-id="22935" data-author="Yasik" data-date="2008-02-25T00:07:18+00:00" data-subject="">
 
-a bunch of dead corpses[/quote:77gxvrug]
+> <strong>jezer wrote:</strong>
+> a bunch of dead corpses
 
 dead corpses, right
 
-now who's teh psycho here now?  :D
+now who's teh psycho here now? <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="22936" data-author="tincts" data-date="2008-02-25T01:40:29+00:00" data-subject="">
 
-That works... but maybe a better idea is for group leaders to be able to set autoloot off for people in groups? Say for example... there are a bunch of dead corpses in a room with an aggro... the get all command is useful in that case... it could be bad to block it to get round an autoloot problem. Better to treat the cause instead of the symptom.[/quote:2us09w2h]
+> <strong>jezer wrote:</strong>
+> That works... but maybe a better idea is for group leaders to be able to set autoloot off for people in groups? Say for example... there are a bunch of dead corpses in a room with an aggro... the get all command is useful in that case... it could be bad to block it to get round an autoloot problem. Better to treat the cause instead of the symptom.
 
 I think the game's autoloot function is only half the problem, the other half being that people have looters built into their script that they're not turning off.
 
@@ -400,7 +421,8 @@ I think the game's autoloot function is only half the problem, the other half be
 
 <div class="post" data-post-id="22938" data-author="jezer" data-date="2008-02-25T02:00:11+00:00" data-subject="">
 
-people have looters built into their script.[/quote:2cga34nr]
+> <strong>tincts wrote:</strong>
+> people have looters built into their script.
 
 Does anyone do this? Why would you?
 
@@ -422,6 +444,6 @@ Only solution I can see if immediate dis-membering of offender and next time lea
 
 Sometimes mistakes happen, but as Bush says, fool me once, shame on you, fool me again and ..and ..you can't get fooled again ..or something ..err ..THROW THE HEATHEN SCUM TO DEMOGORGON!
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

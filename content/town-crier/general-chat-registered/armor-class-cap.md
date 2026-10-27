@@ -14,23 +14,23 @@ post_count: 4
 
 I've done some calculations, and theoretically, it should be possible to get -19ac. This makes the gap between warriors and other classes a bit... unbalanced? How about making the AC cap depend on the position of warrior in class order? Something like this:
 
-Cap  / wa in classo
+Cap / wa in classo
 
-* -20 wa prime
+\* -20 wa prime
 
-* -16 wa secondary
+\* -16 wa secondary
 
-* -15 wa third
+\* -15 wa third
 
-* -14 wa quad
+\* -14 wa quad
 
-* -13 wa fifth
+\* -13 wa fifth
 
-* -12 wa sixth
+\* -12 wa sixth
 
-* -11 wa seventh
+\* -11 wa seventh
 
-* -10 wa eighth
+\* -10 wa eighth
 
 Or something along this logic.
 
@@ -42,9 +42,9 @@ I am a mage/warrior, and warrior second gives literally nothing to me. I will mo
 
 Warrior is giving you a lot more than you can imagine.
 
-But I agree, we need to bump up ac cap for non warrior primes. Think Josiah brought this up moons ago :-)
+But I agree, we need to bump up ac cap for non warrior primes. Think Josiah brought this up moons ago <img src="/images/smilies/icon_e_smile.svg" alt=":-)" title=":-)" width="15" height="15" class="smiley nozoom">
 
--20 to -10 is pretty whack though. .5ac down the order sounds fair.
+\-20 to -10 is pretty whack though. .5ac down the order sounds fair.
 
 M
 
@@ -52,11 +52,11 @@ M
 
 <div class="post" data-post-id="39737" data-author="Gorka" data-date="2021-06-18T04:47:03+00:00" data-subject="Re: Armor class cap">
 
-Care to show how -19 is possible? How much of that is potions? You should base your post on warrior MAX_AC without potions (which is currently -16) - but -15 is more intellectually honest, because -16 comes with too many disadvantages.
+Care to show how -19 is possible? How much of that is potions? You should base your post on warrior MAX\_AC without potions (which is currently -16) - but -15 is more intellectually honest, because -16 comes with too many disadvantages.
 
 Although I also think the cap should be better for the other classes, I also suspect (but haven't proven) at some point having lower AC probably has limited returns... a bit like 30 +hit and 40 +hit show little difference. I also suspect that this would be mainly because most of the mobs on the mud were created for a day when -10 to -12 was the best - unless the mob was designed to always hit - but I have some doubt -19 would even negate that.
 
-The difference between me running at -15 or -17 with a potion... is already negligible for most mobs. They were either already missing, or continue to hit in most cases. **For instance I suspect that going from -11 to -12 is worth far more than going -15 to -16. **
+The difference between me running at -15 or -17 with a potion... is already negligible for most mobs. They were either already missing, or continue to hit in most cases. <strong>For instance I suspect that going from -11 to -12 is worth far more than going -15 to -16. </strong>
 
 Although I know other classes can "over cap" -11 by a stupid amount... I also suspect at some point the sacrifice to loose something to gain ac would also have limited returns. For example, for Gorka to go to -16 without potion effects, from -15 would appear to sacrifice too many other important variables, so that although this move is possible - it's mostly a disadvantage.
 

@@ -20,15 +20,15 @@ Cheers.
 
 <div class="post" data-post-id="13671" data-author="Anubis" data-date="2006-08-03T12:12:52+00:00" data-subject="">
 
-sorry old man,  I have been quite busy embalming people lately.   Seems to be a wide spread plague of retardedness ensuring purification of the gene pool.
+sorry old man, I have been quite busy embalming people lately. Seems to be a wide spread plague of retardedness ensuring purification of the gene pool.
 
-see mudmail.  :twisted:
+see mudmail. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="13672" data-author="Weasel" data-date="2006-08-03T14:14:30+00:00" data-subject="">
 
-heh.. that's nothing new. :)
+heh.. that's nothing new. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

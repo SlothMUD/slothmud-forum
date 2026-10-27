@@ -16,12 +16,12 @@ Greetings, mortals.
 
 Like most of you already noticed, we have been lately making little fixes to boats here and there.
 
-Some are somewhat important, like enabling The Envy of Phlegyas or Charon's Grief.  Others are just cosmetic, like fixing the order of boats for schedulers and stuff.
+Some are somewhat important, like enabling The Envy of Phlegyas or Charon's Grief. Others are just cosmetic, like fixing the order of boats for schedulers and stuff.
 
-Either way, it is all done now.  From the moment of you read this post, if you see something odd about boats, please, let us know so we can fix it.
+Either way, it is all done now. From the moment of you read this post, if you see something odd about boats, please, let us know so we can fix it.
 
 Best regards.
 
-Pd : Before some lovely cleric start whinning, the summon boat spell was not part of this project ...  :twisted:
+Pd : Before some lovely cleric start whinning, the summon boat spell was not part of this project ... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

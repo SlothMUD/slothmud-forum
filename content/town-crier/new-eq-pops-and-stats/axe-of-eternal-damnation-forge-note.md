@@ -14,41 +14,42 @@ post_count: 2
 
 Axe of Eternal Damnation has no cps and no forge note listed. Think we popped it off of some silly mob in Kendermore... either way, I tried adding the note text to forge and it wouldn't let me, so I'm adding it here:
 
-It has been told through legend and fable that once, eons ago, a demon lord
-
-walked the land with a mighty axe that could call forth the spawns of
-
-hell.  The demon lord struck terror into the hearts of the innocent
-
-throughout the world until a legendary immortal drove the demon lord into
-
-oblivion and freed the world from misery.  To prevent the rebirth of this
-
-great evil, the immortal destroyed the axe.  I have found evidence in my
-
-research to lead me to believe that this great axe can be reconstructed.
-
-However, the components required to forge this mighty weapon are rare and
-
-strewn across the world.  The primary ingredient, the template for this
-
-evil weapon, was left in the guard of the dwarven nation in the form of a
-
-powerful broad axe.  The blade of the axe requires a huge gem that is hard
-
-enough to pierce the skin of the gods.  Somewhere in the land there is an
-
-ancient tablet fashioned from onyx that can be melted down and used to coat
-
-the weapon with pure onyx.  The entire weapon must be wrapped in the thick
-
-hide of a great beholder-kin in order to harness the magic needed to
-
-enchant the axe.  Finally, a sturdy metal file is needed to sharpen the
-
-gemstone-covered edge of the blade.  Bring me these, and I will attempt to
-
-reconstruct the legendary weapon.  ------ Preva[/quote:14cd237l]
+> <strong>a parchment being consumed by black flames wrote:</strong>
+> It has been told through legend and fable that once, eons ago, a demon lord
+> 
+> walked the land with a mighty axe that could call forth the spawns of
+> 
+> hell. The demon lord struck terror into the hearts of the innocent
+> 
+> throughout the world until a legendary immortal drove the demon lord into
+> 
+> oblivion and freed the world from misery. To prevent the rebirth of this
+> 
+> great evil, the immortal destroyed the axe. I have found evidence in my
+> 
+> research to lead me to believe that this great axe can be reconstructed.
+> 
+> However, the components required to forge this mighty weapon are rare and
+> 
+> strewn across the world. The primary ingredient, the template for this
+> 
+> evil weapon, was left in the guard of the dwarven nation in the form of a
+> 
+> powerful broad axe. The blade of the axe requires a huge gem that is hard
+> 
+> enough to pierce the skin of the gods. Somewhere in the land there is an
+> 
+> ancient tablet fashioned from onyx that can be melted down and used to coat
+> 
+> the weapon with pure onyx. The entire weapon must be wrapped in the thick
+> 
+> hide of a great beholder-kin in order to harness the magic needed to
+> 
+> enchant the axe. Finally, a sturdy metal file is needed to sharpen the
+> 
+> gemstone-covered edge of the blade. Bring me these, and I will attempt to
+> 
+> reconstruct the legendary weapon. ------ Preva
 
 </div>
 

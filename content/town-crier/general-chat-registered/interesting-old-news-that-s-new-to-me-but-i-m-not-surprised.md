@@ -52,7 +52,7 @@ This is another hallmark tactic of the president. It's not just that the Bush te
 
 <div class="post" data-post-id="15988" data-author="Medios" data-date="2007-01-05T01:06:34+00:00" data-subject="">
 
-I am not surprised that the media is reporting this as all President Bush's fault.  If America only has one vote in the U.N. and the U.N. is constantly against us, how in the hell is the president running anyhing.  Whenever the war in Iraq started President Bush sure didnt have this much pull.  If the countries are having a meek and weak time passing this stuff then I have to ask whats up with the other 119 votes or whatever.  The United States cant force them to do anything they dont want.  Everyone needs to realize that big business controls the politicians.  You think oil companies and chemical companies want these laws to pass.  GW has become the scapegoat for everything from global warming to homosexuality.  What do you think is really going on, thats being distracted from by everyones hatred for Bush.  I have come to realize that both sides are fighting for the same goals, and eventually by tricking us into believing they work for us they will strip everything we have.  
+I am not surprised that the media is reporting this as all President Bush's fault. If America only has one vote in the U.N. and the U.N. is constantly against us, how in the hell is the president running anyhing. Whenever the war in Iraq started President Bush sure didnt have this much pull. If the countries are having a meek and weak time passing this stuff then I have to ask whats up with the other 119 votes or whatever. The United States cant force them to do anything they dont want. Everyone needs to realize that big business controls the politicians. You think oil companies and chemical companies want these laws to pass. GW has become the scapegoat for everything from global warming to homosexuality. What do you think is really going on, thats being distracted from by everyones hatred for Bush. I have come to realize that both sides are fighting for the same goals, and eventually by tricking us into believing they work for us they will strip everything we have. 
 
 Fight the Power
 
@@ -62,7 +62,7 @@ Mike
 
 <div class="post" data-post-id="15989" data-author="13" data-date="2007-01-05T01:11:48+00:00" data-subject="">
 
-I just thought it was interesting.  No question about big business being in charge.   Money is mighty.
+I just thought it was interesting. No question about big business being in charge. Money is mighty.
 
 </div>
 
@@ -80,6 +80,6 @@ Kyoto was a bad treaty sure, but an easy one to comply to if you streamline nucl
 
 "According to a report by the Union of Concerned Scientists, oil company ExxonMobil 'has funneled nearly $16 million between 1998 and 2005 to a network of 43 advocacy organizations that seek to confuse the public on global warming science.' The report compares the tactics employed by the oil giant to those used by the tobacco industry in previous decades, and identifies key individuals who have worked on both campaigns. Would a 'global warming controversy' exist without the millions of dollars spent by fossil fuel companies to discredit scientific conclusions?"
 
-[<LINK_TEXT text="http://science.slashdot.org/science/07/ ... 7216.shtml">http://science.slashdot.org/science/07/01/05/1827216.shtml</LINK_TEXT>](http://science.slashdot.org/science/07/01/05/1827216.shtml)
+[http://science.slashdot.org/science/07/01/05/1827216.shtml](http://science.slashdot.org/science/07/01/05/1827216.shtml)
 
 </div>

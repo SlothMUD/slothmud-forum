@@ -20,19 +20,19 @@ It seems search skill doesn't work fine anymore. I can't find a lair in Irda San
 
 I've had problems using it too, but I'm not real sure how it's supposed to work, so I've pretty much left it alone.
 
-I have to search with Druid.  From what I can tell, I can only search outdoors.  Since it's my last class, I also have problems finding things that require a 40 to find. At least I thought I read somewhere that some lairs are level dependant...
+I have to search with Druid. From what I can tell, I can only search outdoors. Since it's my last class, I also have problems finding things that require a 40 to find. At least I thought I read somewhere that some lairs are level dependant...
 
-Splork created the bloodhound a while back, which seems to allow you to search at lower levels, but I've never found anything with it.  I'm not sure if this is because it's a level 8 mob, or because it's affected by searching indoors as well. 
+Splork created the bloodhound a while back, which seems to allow you to search at lower levels, but I've never found anything with it. I'm not sure if this is because it's a level 8 mob, or because it's affected by searching indoors as well. 
 
-Or maybe I'm just crazy and need to learn how to search.  I usually end up asking someone else to find caches for me though.
+Or maybe I'm just crazy and need to learn how to search. I usually end up asking someone else to find caches for me though.
 
 </div>
 
 <div class="post" data-post-id="10059" data-author="brand" data-date="2006-01-10T17:20:48+00:00" data-subject="">
 
-spirit watchers also tell you if a mob has something in a lair.  those little guys are getting better all the time.  next up finding my keys for me...
+spirit watchers also tell you if a mob has something in a lair. those little guys are getting better all the time. next up finding my keys for me...
 
-brand :twisted:
+brand <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -40,6 +40,6 @@ brand :twisted:
 
 Funny you should mention that...
 
-You have no idea how annoying it is to have a spirit watcher chatter at you that there's a cache... then not be able to find it.  I haven't found the feature that makes it spit out a name yet.
+You have no idea how annoying it is to have a spirit watcher chatter at you that there's a cache... then not be able to find it. I haven't found the feature that makes it spit out a name yet.
 
 </div>

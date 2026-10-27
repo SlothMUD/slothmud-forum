@@ -30,7 +30,8 @@ the next person to post on this thread is a dirty pedophile.
 
 <div class="post" data-post-id="9375" data-author="Blackguard" data-date="2005-11-05T21:48:06+00:00" data-subject="">
 
-WAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA  PTHIEVES MAKE MY UTERUS HURTS :(((((((((((((([/quote:1sz76xgy]
+> <strong>Weasel wrote:</strong>
+> WAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA PTHIEVES MAKE MY UTERUS HURTS <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">(((((((((((((
 
 haha
 
@@ -44,7 +45,7 @@ it was "Holy Chalice of Ra"
 
 <div class="post" data-post-id="9376" data-author="Medios" data-date="2005-11-05T21:49:08+00:00" data-subject="">
 
-Doesnt leaving items in your inventory and having 500k in coins and sleeping in non safe rooms constitute aiding a pthief?  I mean you are helping them.
+Doesnt leaving items in your inventory and having 500k in coins and sleeping in non safe rooms constitute aiding a pthief? I mean you are helping them.
 
 Mike
 
@@ -64,7 +65,7 @@ Lmao, couldn't "Weasel" your way out of that one so you had to edit your posts?
 
 <div class="post" data-post-id="9379" data-author="Weasel" data-date="2005-11-05T22:24:41+00:00" data-subject="">
 
-*snicker* well hello?
+\*snicker\* well hello?
 
 </div>
 
@@ -78,7 +79,7 @@ No more than driving a car through an unsafe area of town helps carjackers.
 
 <div class="post" data-post-id="9383" data-author="Medios" data-date="2005-11-06T02:14:14+00:00" data-subject="">
 
-Doesnt help carjackers when u got a loaded 357 magnum blasting em.  Just like firestorm blasts the pthieves.
+Doesnt help carjackers when u got a loaded 357 magnum blasting em. Just like firestorm blasts the pthieves.
 
 Mike
 
@@ -96,6 +97,6 @@ Didn't think so..so much for being a lowbie.. If your ptheived your S.O.L.
 
 Good day and please....
 
-Vote or Die :roll:
+Vote or Die <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>

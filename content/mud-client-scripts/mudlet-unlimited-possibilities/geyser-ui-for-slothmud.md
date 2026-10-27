@@ -26,35 +26,35 @@ Update: Update ver 1.1
 
 script:
 
-[<LINK_TEXT text="https://dl.dropbox.com/u/10038339/mudle ... er.xml.zip">https://dl.dropbox.com/u/10038339/mudlet/Constin.GUI.1.2.trigger.xml.zip</LINK_TEXT>](https://dl.dropbox.com/u/10038339/mudlet/Constin.GUI.1.2.trigger.xml.zip)
+[https://dl.dropbox.com/u/10038339/mudlet/Constin.GUI.1.2.trigger.xml.zip](https://dl.dropbox.com/u/10038339/mudlet/Constin.GUI.1.2.trigger.xml.zip)
 
-(image: /[https://dl.dropbox.com/u/10038339/mudlet/mudletGUI2.png](https://dl.dropbox.com/u/10038339/mudlet/mudletGUI2.png))
+![](https://dl.dropbox.com/u/10038339/mudlet/mudletGUI2.png)
 
 Some aliases:
 
-tg <mobname> will set target. 
+tg \<mobname\> will set target. 
 
 example tg rat
 
---
+\--
 
 ht 
 
 hunt $target
 
---
+\--
 
 bt
 
 backstab $target
 
---
+\--
 
 lt
 
 look $target
 
---
+\--
 
 etc u can find it in target folder
 
@@ -66,7 +66,7 @@ Update ver 1.1
 
 script:
 
-[<LINK_TEXT text="https://dl.dropbox.com/u/10038339/mudle ... er.xml.zip">https://dl.dropbox.com/u/10038339/mudlet/Constin.GUI.1.2.trigger.xml.zip</LINK_TEXT>](https://dl.dropbox.com/u/10038339/mudlet/Constin.GUI.1.2.trigger.xml.zip)
+[https://dl.dropbox.com/u/10038339/mudlet/Constin.GUI.1.2.trigger.xml.zip](https://dl.dropbox.com/u/10038339/mudlet/Constin.GUI.1.2.trigger.xml.zip)
 
 </div>
 

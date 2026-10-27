@@ -14,15 +14,13 @@ post_count: 1
 
 Hi Folks,
 
-  I am looking for some EQ for my lvl 20 ma/cl. If anyone can help me out, please post here or catch me online. The price following each item is the money that I can afford to pay for them...
+ I am looking for some EQ for my lvl 20 ma/cl. If anyone can help me out, please post here or catch me online. The price following each item is the money that I can afford to pay for them...
 
-Amulet of the Sanguineous Magi ~ 500k
+Amulet of the Sanguineous Magi \~ 500k
 
-Large Stone Medallion ~ 1M (need x2)
+Large Stone Medallion \~ 1M (need x2)
 
-Blue Steel Gorget ~ 500k
-
- 
+Blue Steel Gorget \~ 500k
 
 Thank you!
 

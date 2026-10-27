@@ -18,9 +18,9 @@ Hello Denizens of Sloth,
 
  Christmas Quest have been
 
- a little more challenging than normal.  Throughout the world of Jord,
+ a little more challenging than normal. Throughout the world of Jord,
 
- all the Christmas Stockings have vanished.  To restore them to their
+ all the Christmas Stockings have vanished. To restore them to their
 
  rightful places, we must recover them from Satan Claws' demonic army
 
@@ -64,7 +64,7 @@ Hello Denizens of Sloth,
 
  See you there,
 
- --Idjit
+ \--Idjit
 
 </div>
 
@@ -78,7 +78,7 @@ Er... General Josiah is available to take back Christmas!
 
 <div class="post" data-post-id="36367" data-author="Teron" data-date="2015-12-24T18:36:44+00:00" data-subject="Re: Christmas Quest 2015">
 
-+1
+\+1
 
 </div>
 
@@ -86,7 +86,7 @@ Er... General Josiah is available to take back Christmas!
 
 4am moscow time, cries
 
-Merry Christmas everyone :)
+Merry Christmas everyone <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -94,20 +94,20 @@ Merry Christmas everyone :)
 
 In previous year you've made two quests with 12 hours difference. Ah, whatever!
 
-> **Sam wrote:**
+> <strong>Sam wrote:</strong>
 > 4am moscow time, cries
 > 
 > 
 > 
-> Merry Christmas everyone :)
+> Merry Christmas everyone <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Lucky one, 7 am of Saturday morning at Novosibirsk...
 
 Will try to join as a private to an undefeatable army. 
 
-Or at least as a semi-sobber squad jester.  :mrgreen: 
+Or at least as a semi-sobber squad jester. <img src="/images/smilies/icon_mrgreen.svg" alt=":mrgreen:" title=":mrgreen:" width="15" height="15" class="smiley nozoom"> 
 
-> **Josiah wrote:**
+> <strong>Josiah wrote:</strong>
 > Er... General Josiah is available to take back Christmas!
 
 Sir, yes sir!

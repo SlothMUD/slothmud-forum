@@ -16,7 +16,7 @@ When I first started the game I forged two instances of the clasp of life and de
 
 Next I forged a flawed glowing gem and realised it worked on both light and held low item. So I forged another one, however when you try to hold the second item (e.g. the torch or the held low), the clasp falls off, you cannot have two of the clasps in use at once.
 
-The emerald of insight clasp bought from T&D shop (+1 Max_int, attach to ring) is a great item. Can I have two like the clasp of life and death or only have one like the flawed glowing gem? 200 dr would be a lot to waste on a second copy I could not use.
+The emerald of insight clasp bought from T\&D shop (+1 Max\_int, attach to ring) is a great item. Can I have two like the clasp of life and death or only have one like the flawed glowing gem? 200 dr would be a lot to waste on a second copy I could not use.
 
 Futhermore, in general how does one find out the rules of a clasp?
 
@@ -36,14 +36,14 @@ a quick check shows a few things also have a limit of 1 but they seem to be thin
 
 <div class="post" data-post-id="35593" data-author="Oboe" data-date="2014-12-27T19:28:24+00:00" data-subject="Re: Emerald of Insight Clasp">
 
-> **Edwin wrote:**
-> The emerald of insight clasp bought from T&D shop (+1 Max_int, attach to ring) is a great item. Can I have two like the clasp of life and death or only have one like the flawed glowing gem? 200 dr would be a lot to waste on a second copy I could not use.
+> <strong>Edwin wrote:</strong>
+> The emerald of insight clasp bought from T\&D shop (+1 Max\_int, attach to ring) is a great item. Can I have two like the clasp of life and death or only have one like the flawed glowing gem? 200 dr would be a lot to waste on a second copy I could not use.
 > 
 > 
 > 
 > Futhermore, in general how does one find out the rules of a clasp?
 
-Testing.  Iolite of Omah and flawed glowing gem are two clasps confirmed to have this restriction; I recall no reports of other quantity-limited clasps.  It would be interesting to know, and painful to test, whether these clasps are quantity-limited:
+Testing. Iolite of Omah and flawed glowing gem are two clasps confirmed to have this restriction; I recall no reports of other quantity-limited clasps. It would be interesting to know, and painful to test, whether these clasps are quantity-limited:
 
 shoop-shearing device
 

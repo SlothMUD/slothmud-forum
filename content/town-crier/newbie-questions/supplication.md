@@ -52,17 +52,17 @@ Daisy
 
 The help file says that all supplications disappear after 30 hours, so I guess that's 30 ticks?
 
-They also disappear if they die (Yup!) or if you kill a mob that has the same alignment they are.  Like, if I had a peri and I killed a good mob, the peri would disapprove and float away :(
+They also disappear if they die (Yup!) or if you kill a mob that has the same alignment they are. Like, if I had a peri and I killed a good mob, the peri would disapprove and float away <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
-Peris can cast spells!  They cure you! :D
+Peris can cast spells! They cure you! <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
-I dunno, I'm not a very good cleric myself, so I can't tell you much :(
+I dunno, I'm not a very good cleric myself, so I can't tell you much <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="9325" data-author="brand" data-date="2005-11-01T21:08:20+00:00" data-subject="">
 
-there was a list going around at some point, also rumored help file or book or both... let me ask SPG the Eudaemon if he knows anything about what he can do... nope he ain't talking... :evil:
+there was a list going around at some point, also rumored help file or book or both... let me ask SPG the Eudaemon if he knows anything about what he can do... nope he ain't talking... <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -78,7 +78,7 @@ Further edit: the seraph, djinn, and valkyrie entries describe what those mobs a
 
 <div class="post" data-post-id="9335" data-author="12345" data-date="2005-11-02T13:51:02+00:00" data-subject="">
 
-*blink*  Did hell finally freeze?
+\*blink\* Did hell finally freeze?
 
 </div>
 
@@ -92,23 +92,32 @@ Seems pretty frequent.
 
 <div class="post" data-post-id="9346" data-author="Weasel" data-date="2005-11-02T20:05:22+00:00" data-subject="">
 
-*blink*  Did hell finally freeze?[/quote:39dv52gf]
+> <strong>12345 wrote:</strong>
+> \*blink\* Did hell finally freeze?
 
 apparently, yes.
 
-[img:39dv52gf]http://www.freeenergynews.com/newstuff/images/hell_freeze_300.jpg[/img:39dv52gf]
+![](http://www.freeenergynews.com/newstuff/images/hell_freeze_300.jpg)
 
 </div>
 
 <div class="post" data-post-id="9348" data-author="Blaster" data-date="2005-11-02T20:36:37+00:00" data-subject="">
 
-*blink*  Did hell finally freeze?[/quote:2a97zo9n]
+> <strong>Weasel wrote:</strong>
+> > <strong>12345 wrote:</strong>
+> > \*blink\* Did hell finally freeze?
+> 
+> 
+> 
+> 
+> 
+> apparently, yes.
+> 
+> 
+> 
+> ![](http://www.freeenergynews.com/newstuff/images/hell_freeze_300.jpg)
 
-apparently, yes.
-
-[img:2a97zo9n]http://www.freeenergynews.com/newstuff/images/hell_freeze_300.jpg[/img:2a97zo9n][/quote:2a97zo9n]
-
-Oh wow, that's located in my home state for anyone that wonders if there is really a hell town.  They have one kick ass bike ralley every year.  Oh btw, heya all, still no computer at home but able to log on from work and read up on things.  
+Oh wow, that's located in my home state for anyone that wonders if there is really a hell town. They have one kick ass bike ralley every year. Oh btw, heya all, still no computer at home but able to log on from work and read up on things. 
 
 Blaster
 
@@ -116,9 +125,9 @@ Blaster
 
 <div class="post" data-post-id="9351" data-author="Avatar" data-date="2005-11-03T01:48:01+00:00" data-subject="Yo">
 
-Heya Blaster!  I haven't been on much, travelling some again, but it's nice to see that you still connect to the crier and check up on us every once in awhile.
+Heya Blaster! I haven't been on much, travelling some again, but it's nice to see that you still connect to the crier and check up on us every once in awhile.
 
-:)
+<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Charles
 
@@ -126,7 +135,7 @@ Charles
 
 <div class="post" data-post-id="9354" data-author="Roadrunr" data-date="2005-11-03T23:35:41+00:00" data-subject="">
 
-From my perspective, Hell has always been frozen.  Then again, I hate cold.
+From my perspective, Hell has always been frozen. Then again, I hate cold.
 
 </div>
 
@@ -150,41 +159,46 @@ oooh fancy new avatar mike!
 
 <div class="post" data-post-id="9512" data-author="brand" data-date="2005-11-14T21:51:13+00:00" data-subject="">
 
-Ok, I will try to get the book about the good-aligned supplication mobs in shops tonight or tomorrow.
-
-Edit: Urdas has them now.
-
-Further edit: the seraph, djinn, and valkyrie entries describe what those mobs are intended to do; they don't do it yet,[/quote:10gl8qt9]
+> <strong>\*kjartan\* wrote:</strong>
+> Ok, I will try to get the book about the good-aligned supplication mobs in shops tonight or tomorrow.
+> 
+> 
+> 
+> Edit: Urdas has them now.
+> 
+> 
+> 
+> Further edit: the seraph, djinn, and valkyrie entries describe what those mobs are intended to do; they don't do it yet,
 
 Bottom of the Stairs
 
-Exits: East  South  Up
+Exits: East South Up
 
 Urdas, head scribe of the Guild of Merchants, glares at his ale.
 
 You can buy:
 
- Price     Item
+ Price Item
 
-----------------------
+\----------------------
 
- 3000      scroll of homing
+ 3000 scroll of homing
 
- 3000      a greasy scroll
+ 3000 a greasy scroll
 
- 3000      a scroll of knowledge
+ 3000 a scroll of knowledge
 
- 50000     a red and white staff
+ 50000 a red and white staff
 
 You ask Urdas the scribe about supplication.
 
 Urdas the scribe tells you 'I don't know what you're talking about.'
 
-You ask Urdas the scribe about King_Brand.
+You ask Urdas the scribe about King\_Brand.
 
 Urdas the scribe tells you 'I don't know what you're talking about.'
 
- :evil: brand
+ <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom"> brand
 
 </div>
 
@@ -196,25 +210,32 @@ I will put it back tonight; I don't know where it could have gone.
 
 Maybe somebody has one you can borrow, til then.
 
-EDIT: ok, it's back.  Hopefully it will stay this time.
+EDIT: ok, it's back. Hopefully it will stay this time.
 
 </div>
 
 <div class="post" data-post-id="9516" data-author="firebrand" data-date="2005-11-15T18:03:56+00:00" data-subject="">
 
-*grumble* fix the bite social while yer at it :P it went back to bitenails :(
+\*grumble\* fix the bite social while yer at it <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom"> it went back to bitenails <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="9517" data-author="Yasik" data-date="2005-11-15T18:50:31+00:00" data-subject="">
 
-Weird.
-
-I will put it back tonight; I don't know where it could have gone.
-
-Maybe somebody has one you can borrow, til then.
-
-EDIT: ok, it's back.  Hopefully it will stay this time.[/quote:3222v1vx]
+> <strong>\*kjartan\* wrote:</strong>
+> Weird.
+> 
+> 
+> 
+> I will put it back tonight; I don't know where it could have gone.
+> 
+> 
+> 
+> Maybe somebody has one you can borrow, til then.
+> 
+> 
+> 
+> EDIT: ok, it's back. Hopefully it will stay this time.
 
 Pls add another monograph describin evil supplicants
 
@@ -242,7 +263,7 @@ Yay supplicants!
 
 Xag/Xeg at cleric 40
 
-Umm, what's the next one, eudaemon?  Cleric 40, next class down 34.
+Umm, what's the next one, eudaemon? Cleric 40, next class down 34.
 
 Kachina is 40/40 I think!
 
@@ -252,12 +273,12 @@ That's all I got!
 
 <div class="post" data-post-id="9722" data-author="kjartan" data-date="2005-12-03T14:49:35+00:00" data-subject="">
 
-It's been a mystery long enough (and anyway I know at least some mortals figured them all out).  The levels are now in 'help supplication'.
+It's been a mystery long enough (and anyway I know at least some mortals figured them all out). The levels are now in 'help supplication'.
 
 </div>
 
 <div class="post" data-post-id="9725" data-author="Rynquald" data-date="2005-12-03T22:56:25+00:00" data-subject="">
 
-*gasp* thanks KJ :)
+\*gasp\* thanks KJ <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

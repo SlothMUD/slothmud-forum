@@ -28,7 +28,7 @@ Trying to change your info has been a bit of a hit and miss process for quite so
 
 Personally, I've managed to alter it at times, but had no luck at others. Unless someone's made a breakthrough that I haven't heard about, I'd suggest trying again in a day or two. Not much help I know, but still.
 
-And welcome to the Crier :)
+And welcome to the Crier <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -44,6 +44,6 @@ I've mostly just been doing other things. I definitely want to get back involved
 
 I still lurk on the Crier too, just not much to post about when I'm out of the game.
 
-And thanks for asking :)
+And thanks for asking <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

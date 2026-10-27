@@ -12,11 +12,11 @@ post_count: 6
 
 <div class="post" data-post-id="23418" data-author="Alberich" data-date="2008-03-25T23:14:42+00:00" data-subject="wth is this">
 
-mxp: Error : Received undefined tag ~pirate~!
+mxp: Error : Received undefined tag \~pirate\~!
 
 mxp: Error : Received undefined tag goldentigers!
 
-mxp: Error : Received undefined tag ~pirate~!
+mxp: Error : Received undefined tag \~pirate\~!
 
 this has been turning up in my debug window every time i check 'who' (i've been redoing all my scripts so yes, i keep the debug window open all the time these days).
 
@@ -26,15 +26,15 @@ anyone else seen this/know what the hell it means?
 
 <div class="post" data-post-id="23419" data-author="jezer" data-date="2008-03-25T23:19:41+00:00" data-subject="">
 
-I think the "!" or the "~" symbol causes a syntax error in the MXP protocol. Maybe because those symbols are reserved in the protocol?!? Nothing to worry about, apart from the spam it causes in your debug window.
+I think the "!" or the "\~" symbol causes a syntax error in the MXP protocol. Maybe because those symbols are reserved in the protocol?!? Nothing to worry about, apart from the spam it causes in your debug window.
 
-I like to have my debug window open too. :)
+I like to have my debug window open too. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23420" data-author="Rynquald" data-date="2008-03-25T23:23:41+00:00" data-subject="">
 
-mxp doesn't seem to handle <> well, apparently it thinks anything enclosed in them is something to do with mxp.
+mxp doesn't seem to handle \<\> well, apparently it thinks anything enclosed in them is something to do with mxp.
 
 Personally, Pirate titles (and presumably GT, haven't noticed though) always get stripped out of the who list when I check.
 
@@ -46,7 +46,7 @@ I'm not sure if it's client-specific, or if it happens to anything using mxp.
 
 huh
 
-good thing i don't look at who list all that often ;)
+good thing i don't look at who list all that often <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 thanks guys
 
@@ -54,7 +54,7 @@ thanks guys
 
 <div class="post" data-post-id="23423" data-author="jezer" data-date="2008-03-25T23:30:01+00:00" data-subject="">
 
-If it's the <>, then maybe the MXP language is a bit like HTML. Tags are enclosed between the <>, and if it can't identify the tag you get the error.
+If it's the \<\>, then maybe the MXP language is a bit like HTML. Tags are enclosed between the \<\>, and if it can't identify the tag you get the error.
 
 </div>
 

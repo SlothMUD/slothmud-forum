@@ -18,7 +18,7 @@ post_count: 10
 
 <div class="post" data-post-id="21526" data-author="12345" data-date="2007-12-03T23:05:10+00:00" data-subject="">
 
---
+\--
 
 </div>
 
@@ -36,19 +36,19 @@ post_count: 10
 
 <div class="post" data-post-id="21530" data-author="Yinao" data-date="2007-12-04T04:10:55+00:00" data-subject="">
 
-**
+\*\*
 
 </div>
 
 <div class="post" data-post-id="21531" data-author="Weasel" data-date="2007-12-04T07:11:50+00:00" data-subject="">
 
-[img:y77aspo8]http://www.clarksfurniture.com/images/serta_sheep.jpg[/img:y77aspo8]
+![](http://www.clarksfurniture.com/images/serta_sheep.jpg)
 
 </div>
 
 <div class="post" data-post-id="21532" data-author="Hotara" data-date="2007-12-04T08:50:04+00:00" data-subject="">
 
-/  /  (   *   )   Y   (   *   )   \  \
+/ / ( \* ) Y ( \* ) \\ \\
 
 </div>
 
@@ -56,9 +56,7 @@ post_count: 10
 
 Sigh silly fonts oh well here ya go
 
- 
-
-[url:2nln5i10]http://dow.slothmud.org/images/weasel1.htm[/url:2nln5i10]
+http://dow.slothmud.org/images/weasel1.htm
 
 </div>
 
@@ -72,6 +70,6 @@ Hahaha!!!
 
 funny stuff
 
-[url:3b7veto6]http://www.associatedcontent.com/article/465027/the_rednecks_guide_to_holiday_etiquette.html[/url:3b7veto6]
+http://www.associatedcontent.com/article/465027/the_rednecks_guide_to_holiday_etiquette.html
 
 </div>

@@ -24,7 +24,7 @@ A slime monster is in excellent condition.
 
 a slime monster is using:
 
-<held>               a grease-stained spellbook..It emits a faint humming sound!
+\<held\> a grease-stained spellbook..It emits a faint humming sound!
 
 You attempt to peek at the inventory:
 
@@ -62,7 +62,7 @@ PS: You have Autoloot turned on or off?
 
 Loot on - not that it matters because there's no corpse.
 
-Always have masterful avatar sight up :)
+Always have masterful avatar sight up <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

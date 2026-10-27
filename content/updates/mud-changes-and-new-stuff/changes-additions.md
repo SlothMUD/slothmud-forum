@@ -14,13 +14,13 @@ post_count: 1
 
 We don't use this as much because live information now has running news available but the addition of #3 here is quite noteworthy so...
 
-1) New and old players are now grouped upon logging in
+1\) New and old players are now grouped upon logging in
 
-2) Webpage who list cleaned up and couple bugs fixed
+2\) Webpage who list cleaned up and couple bugs fixed
 
-3) Another great helpfile addition has been added; typo detection. This should result in the viewing of mispelled helpfiles. This goes with MXP helps and the addition of several hundred helpfiles this year. These changes have greatly enhanced our game.
+3\) Another great helpfile addition has been added; typo detection. This should result in the viewing of mispelled helpfiles. This goes with MXP helps and the addition of several hundred helpfiles this year. These changes have greatly enhanced our game.
 
-4) Another protect message has been added to the person above the one who was moved.
+4\) Another protect message has been added to the person above the one who was moved.
 
 Splork
 

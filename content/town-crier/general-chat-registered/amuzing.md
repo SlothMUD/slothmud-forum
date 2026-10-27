@@ -18,21 +18,21 @@ bt
 
 Eastern Hall
 
-   A set of large iron doors stand menacingly to the north, as strange 
+ A set of large iron doors stand menacingly to the north, as strange 
 
-beings shutter in and out of sight from that very same direction.  An odd 
+beings shutter in and out of sight from that very same direction. An odd 
 
 whisper quickly emanates from the western wall, as a loud slamming noise 
 
-reverberates from the east.  The hallway leads north into the darkness or 
+reverberates from the east. The hallway leads north into the darkness or 
 
-east towards the guard tower.  
+east towards the guard tower. 
 
-Exits: North  East  
+Exits: North East 
 
 You sense a hidden life form in the room.
 
-<944hp 219ma 247mv> 1510943679xp
+\<944hp 219ma 247mv\> 1510943679xp
 
 A Shuggoth guard hates your guts!
 
@@ -40,29 +40,29 @@ A Shuggoth guard quickly avoids your backstab, and you nearly cut your finger!
 
 A Shuggoth guard quickly avoids your backstab, and you nearly cut your finger!
 
-<945hp 219ma 233mv> 1510943679xp
+\<945hp 219ma 233mv\> 1510943679xp
 
 retr e
 
 Eastern Hall
 
-   The furniture is sparse in comparison with the size of the hall.  This 
+ The furniture is sparse in comparison with the size of the hall. This 
 
 room appears to have been used for gala dinners, balls, receptions and 
 
-special events.  Now it is desolate and empty of desire.  Huge and valuable 
+special events. Now it is desolate and empty of desire. Huge and valuable 
 
-silver ornaments adorn the walls.  There is a massive gilt bronze and 
+silver ornaments adorn the walls. There is a massive gilt bronze and 
 
 porcelain vase, it is about seven feet tall, and stands in the center of 
 
-the Semi-Circular Hall.  
+the Semi-Circular Hall. 
 
-Exits: East  West  
+Exits: East West 
 
 You make a hasty retreat.
 
-<950hp 221ma 234mv> 1510943679xp
+\<950hp 221ma 234mv\> 1510943679xp
 
 invis popa
 
@@ -70,7 +70,7 @@ focusOk.
 
 You vanish.
 
-<950hp 212ma 235mv> 1510943679xp
+\<950hp 212ma 235mv\> 1510943679xp
 
 focus
 
@@ -80,15 +80,15 @@ apb
 
 You begin to focus your strength.
 
-<950hp 213ma 237mv> 1510943679xp
+\<950hp 213ma 237mv\> 1510943679xp
 
 That object already has two doses of poison applied to it.
 
-<950hp 213ma 237mv> 1510943679xp
+\<950hp 213ma 237mv\> 1510943679xp
 
 That object already has two doses of poison applied to it.
 
-<950hp 213ma 238mv> 1510943679xp
+\<950hp 213ma 238mv\> 1510943679xp
 
 w
 
@@ -98,21 +98,21 @@ You continue to focus your strength.
 
 Eastern Hall
 
-   A set of large iron doors stand menacingly to the north, as strange 
+ A set of large iron doors stand menacingly to the north, as strange 
 
-beings shutter in and out of sight from that very same direction.  An odd 
+beings shutter in and out of sight from that very same direction. An odd 
 
 whisper quickly emanates from the western wall, as a loud slamming noise 
 
-reverberates from the east.  The hallway leads north into the darkness or 
+reverberates from the east. The hallway leads north into the darkness or 
 
-east towards the guard tower.  
+east towards the guard tower. 
 
-Exits: North  East  
+Exits: North East 
 
 You sense a hidden life form in the room.
 
-<950hp 214ma 238mv> 1510943679xp
+\<950hp 214ma 238mv\> 1510943679xp
 
 A Shuggoth guard quickly avoids your backstab, and you nearly cut your finger!
 
@@ -120,7 +120,7 @@ A Shuggoth guard quickly avoids your backstab, and you nearly cut your finger!
 
 A Shuggoth guard quickly avoids your backstab, and you nearly cut your finger!
 
-<950hp 214ma 223mv> 1510943679xp
+\<950hp 214ma 223mv\> 1510943679xp
 
 retr You massacre a Shuggoth guard to small fragments with your pierce.
 
@@ -140,7 +140,8 @@ A Shuggoth guard grows a short, grey tube from his belly!
 
 <div class="post" data-post-id="16915" data-author="Weasel" data-date="2007-02-15T19:18:13+00:00" data-subject="Re: Amuzing">
 
-A Shuggoth guard grows a short, grey tube from his belly![/quote:2zcjlhos]
+> <strong>Popa wrote:</strong>
+> A Shuggoth guard grows a short, grey tube from his belly!
 
 He's got a hard-on for ya Popa!
 

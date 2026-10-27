@@ -12,7 +12,7 @@ post_count: 5
 
 <div class="post" data-post-id="688" data-author="Clink" data-date="2004-06-15T00:43:27+00:00" data-subject="Chopping Block upgraded">
 
-Please note that the Chopping Block[/url:3aj9r9q9] has been upgraded and you may use this to post auctions.
+Please note that the [Chopping Block](http://slothmud.org/index.php?module=pnAuction&func=view:3aj9r9q9) has been upgraded and you may use this to post auctions.
 
 </div>
 
@@ -30,7 +30,7 @@ Weasel, you're the only one I know of that would say 'Thanks' 2.5 years after th
 
 <div class="post" data-post-id="16437" data-author="Weasel" data-date="2007-01-21T19:16:04+00:00" data-subject="">
 
-lol, didn't look at the date.. but hey, better late than never. *grin*
+lol, didn't look at the date.. but hey, better late than never. \*grin\*
 
 </div>
 

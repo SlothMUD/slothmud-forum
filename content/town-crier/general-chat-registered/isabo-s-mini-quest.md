@@ -44,7 +44,7 @@ Total exp for kill is 86903389.
 
 A glowing sliver of steel explodes in a blinding blue light, scattering shards of steel about the room.
 
-The hot shards of steel slice through your skin.  It burns!
+The hot shards of steel slice through your skin. It burns!
 
 You have gained thirty-four drachma.
 
@@ -70,7 +70,7 @@ Thanks Isabo!
 
 <div class="post" data-post-id="30884" data-author="Toxis" data-date="2010-02-12T11:50:06+00:00" data-subject="">
 
-I'm on for how many hours in the game and I miss this? I hope more will be run various times of the day pls, thank you.  Gratz to those who got the drachma.
+I'm on for how many hours in the game and I miss this? I hope more will be run various times of the day pls, thank you. Gratz to those who got the drachma.
 
 </div>
 
@@ -84,9 +84,9 @@ This is the second unplanned quest by Isabo that instead of cutting across the g
 
 I've really enjoyed them... more for the thought that's gone quickly into them than the reward. This is the 2nd time Isabo has kind of gauged "whats going on" at the time and suited the quest around it to go with the flow. Both ideas have been quite different.
 
-I guess it's a bit like father with many children. He can create an appointment and spend time with all of them together, or he can take a impromptu  moment to spend quality time with one of them... which time do you think is more special to the child? The one on one quality time of course. It's not like the father loves one child more than the other he just understands sometimes small and unplanned quality time is better.
+I guess it's a bit like father with many children. He can create an appointment and spend time with all of them together, or he can take a impromptu moment to spend quality time with one of them... which time do you think is more special to the child? The one on one quality time of course. It's not like the father loves one child more than the other he just understands sometimes small and unplanned quality time is better.
 
-Kind of reminds me of the times when my father bought me an ice-cream but didn't get one for my sister, as she was not with us at the time. I felt great, and my sister was upset when she caught me putting the wrapper in the rubbish bin at home... she wanted hers  :evil: 
+Kind of reminds me of the times when my father bought me an ice-cream but didn't get one for my sister, as she was not with us at the time. I felt great, and my sister was upset when she caught me putting the wrapper in the rubbish bin at home... she wanted hers <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom"> 
 
 Surely our maturity is greater than this now we are older? Would you rather get something because you demanded it in "fairness", or because someone really wanted you to have it? I guess it's a question we each have to come to peace about in ourselves. Can I choose to believe that sometimes intentions are more special than the rewards. Can I feel happy for the success of others and not feel sorry for myself.
 
@@ -94,8 +94,8 @@ Surely our maturity is greater than this now we are older? Would you rather get 
 
 <div class="post" data-post-id="30888" data-author="resouh" data-date="2010-02-12T21:55:07+00:00" data-subject="">
 
-*Resouh quickly smashes every soap box in sight with a 6d5 +5 +5 sledgehammer*
+\*Resouh quickly smashes every soap box in sight with a 6d5 +5 +5 sledgehammer\*
 
-Since I'm just coming back to Sloth after several years on hiatus, good to know Imms still surprise us players with fun things.  Thank you Isabo.
+Since I'm just coming back to Sloth after several years on hiatus, good to know Imms still surprise us players with fun things. Thank you Isabo.
 
 </div>

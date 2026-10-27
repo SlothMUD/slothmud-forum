@@ -44,7 +44,7 @@ what was the question?
 
 <div class="post" data-post-id="7974" data-author="Mace" data-date="2005-07-23T22:15:17+00:00" data-subject="">
 
-Hint: potions can be quaffed during battle and demon bind is a spell. :)
+Hint: potions can be quaffed during battle and demon bind is a spell. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

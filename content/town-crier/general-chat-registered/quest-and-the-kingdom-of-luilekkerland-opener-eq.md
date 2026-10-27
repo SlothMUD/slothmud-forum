@@ -28,7 +28,7 @@ Weight: 0, Value: 500gold, Worn in: TAKE
 
 Clasp can only be attached to:
 
-   belts
+ belts
 
 Clasp gives the user +20 MOVE
 
@@ -44,7 +44,7 @@ Weight: 1, Value: 30gold, Worn in: TAKE HOLD
 
 Can affect you as:
 
-    Affects: CHAR_HEIGHT by -10
+ Affects: CHAR\_HEIGHT by -10
 
 Only those who are at least novice magic users, clerics, thieves, warriors,
 
@@ -60,11 +60,11 @@ Damage Dice is '2D6'
 
 Can affect you as:
 
-    Affects: STR by 1
+ Affects: STR by 1
 
-    Affects: HITROLL by 2
+ Affects: HITROLL by 2
 
-    Affects: DAMROLL by 1
+ Affects: DAMROLL by 1
 
 Only those who are at least adept thieves, warriors, bards, or monks may
 
@@ -84,7 +84,7 @@ colour spray
 
 Can affect you as:
 
-    Affects: MANA by 5
+ Affects: MANA by 5
 
 Only those who are at least adept magic users, clerics, druids,
 
@@ -102,7 +102,7 @@ AC-apply is -0.6
 
 Can affect you as:
 
-    Affects: CHARISMA by 1
+ Affects: CHARISMA by 1
 
 Only those who are at least adept warriors, bards, or monks may use this
 
@@ -118,9 +118,9 @@ AC-apply is -0.3
 
 Can affect you as:
 
-    Affects: HITPOINT by 5
+ Affects: HITPOINT by 5
 
-    Affects: SAVING_POISON by -1
+ Affects: SAVING\_POISON by -1
 
 Only those who are at least adept magic users, clerics, thieves, warriors,
 
@@ -136,9 +136,9 @@ AC-apply is -0.1
 
 Can affect you as:
 
-    Affects: WIS by 1
+ Affects: WIS by 1
 
-    Affects: HITROLL by 1
+ Affects: HITROLL by 1
 
 Only those who are at least experienced clerics and warriors may use this
 
@@ -154,9 +154,9 @@ AC-apply is -1.0
 
 Can affect you as:
 
-    Affects: HITROLL by 1
+ Affects: HITROLL by 1
 
-    Affects: CHARISMA by 1
+ Affects: CHARISMA by 1
 
 Only those who are at least experienced thieves, warriors, bards, or monks
 
@@ -172,9 +172,9 @@ AC-apply is -0.3
 
 Can affect you as:
 
-    Affects: HITPOINT by 5
+ Affects: HITPOINT by 5
 
-    Affects: SAVING_POISON by -1
+ Affects: SAVING\_POISON by -1
 
 Only those who are at least adept magic users, clerics, thieves, warriors,
 
@@ -190,9 +190,9 @@ Weight: 0, Value: 1500gold, Worn in: TAKE ABOUT
 
 Can affect you as:
 
-    Affects: RESIST_FIRE by 10
+ Affects: RESIST\_FIRE by 10
 
-    Affects: ARMOR by -3
+ Affects: ARMOR by -3
 
 Only those who are at least adept magic users, clerics, thieves, warriors,
 
@@ -208,9 +208,9 @@ Damage Dice is '1D2'
 
 Can affect you as:
 
-    Affects: HITROLL by 1
+ Affects: HITROLL by 1
 
-    Affects: DAMROLL by 1
+ Affects: DAMROLL by 1
 
 Object 'kol apple poisoned poison red', Item type: LIGHT
 
@@ -220,9 +220,9 @@ Weight: 0, Value: 15000gold, Worn in: TAKE HOLD
 
 Can affect you as:
 
-    Affects: DEX by 1
+ Affects: DEX by 1
 
-    Affects: MANA by 10
+ Affects: MANA by 10
 
 Only those who are at least experienced magic users, clerics, druids,
 
@@ -248,7 +248,7 @@ If you have any problems, let me know.
 
 Thanks.
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -268,7 +268,7 @@ AC-apply is -0.9
 
 Can affect you as:
 
-    Affects: HITROLL by 1
+ Affects: HITROLL by 1
 
 Only those who are at least adept magic users, clerics, thieves, warriors,
 
@@ -290,9 +290,9 @@ AC-apply is -0.2
 
 Can affect you as:
 
-    Affects: RESIST_COLD by 10
+ Affects: RESIST\_COLD by 10
 
-    Affects: DEX by 1
+ Affects: DEX by 1
 
 Only those who are at least adept magic users, clerics, thieves, warriors,
 

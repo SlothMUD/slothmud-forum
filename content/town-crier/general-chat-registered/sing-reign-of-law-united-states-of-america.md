@@ -14,21 +14,21 @@ post_count: 13
 
 Supreme Court Restores Habeas Corpus
 
-[<LINK_TEXT text="http://news.google.com/news?ned=us&hl=e ... eas+corpus">http://news.google.com/news?ned=us&hl=en&ned=us&q=scotus+habeas+corpus</LINK_TEXT>](http://news.google.com/news?ned=us&hl=en&ned=us&q=scotus+habeas+corpus)
+[http://news.google.com/news?ned=us&hl=en&ned=us&q=scotus+habeas+corpus](http://news.google.com/news?ned=us&hl=en&ned=us&q=scotus+habeas+corpus)
 
-[<LINK_TEXT text="http://www.nytimes.com/2008/06/13/washi ... ted=1&_r=1">http://www.nytimes.com/2008/06/13/washington/13scotus.html?pagewanted=1&_r=1</LINK_TEXT>](http://www.nytimes.com/2008/06/13/washington/13scotus.html?pagewanted=1&_r=1)
+[http://www.nytimes.com/2008/06/13/washington/13scotus.html?pagewanted=1&_r=1](http://www.nytimes.com/2008/06/13/washington/13scotus.html?pagewanted=1&_r=1)
 
-The first thing I want to say is: it's about time.  
+The first thing I want to say is: it's about time. 
 
-The time will soon come to choose between the presidential candidates.  If McCain criticizes this decision, I'll have to count that as a mark against voting for him.  
+The time will soon come to choose between the presidential candidates. If McCain criticizes this decision, I'll have to count that as a mark against voting for him. 
 
-Another consideration, for me, will be the possibility that two, maybe three Justices from the Supreme Court will probably retire during the coming presidential term.  My decision about any candidate will definitely be influenced by the type of person these candidates would nominate for a position on the Supreme Court.
+Another consideration, for me, will be the possibility that two, maybe three Justices from the Supreme Court will probably retire during the coming presidential term. My decision about any candidate will definitely be influenced by the type of person these candidates would nominate for a position on the Supreme Court.
 
-[u:2ns760ck][b:2ns760ck]I can't say how strongly I disagree with Justice Scalia.  [/b:2ns760ck][/u:2ns760ck]
+<strong>I can't say how strongly I disagree with Justice Scalia.</strong> 
 
-[<LINK_TEXT text="http://thinkprogress.org/2008/06/12/sca ... be-killed/">http://thinkprogress.org/2008/06/12/scalia-courts-decision-restoring-habeas-will-almost-certainly-cause-more-americans-to-be-killed/</LINK_TEXT>](http://thinkprogress.org/2008/06/12/scalia-courts-decision-restoring-habeas-will-almost-certainly-cause-more-americans-to-be-killed/)
+[http://thinkprogress.org/2008/06/12/scalia-courts-decision-restoring-habeas-will-almost-certainly-cause-more-americans-to-be-killed/](http://thinkprogress.org/2008/06/12/scalia-courts-decision-restoring-habeas-will-almost-certainly-cause-more-americans-to-be-killed/)
 
-Well, this is historic.  This is definitely one case that will be talked about for years.  My opinion:  it doesn't matter if these detainees are citizens of the US, not citizens, or citizens of any other country.  These are 'people' whose status is controlled by the US government, through our chain of command.  Our government has only the powers that are specifically given to it by the Constitution, by us.  We have not given anyone the authority to imprison people without cause.  Our handling of these detainees so far is illegal, simply because we haven't been following our own laws.  Time after time, our representatives in the government have decided not to follow our Constitution.
+Well, this is historic. This is definitely one case that will be talked about for years. My opinion: it doesn't matter if these detainees are citizens of the US, not citizens, or citizens of any other country. These are 'people' whose status is controlled by the US government, through our chain of command. Our government has only the powers that are specifically given to it by the Constitution, by us. We have not given anyone the authority to imprison people without cause. Our handling of these detainees so far is illegal, simply because we haven't been following our own laws. Time after time, our representatives in the government have decided not to follow our Constitution.
 
 Best Regards,
 
@@ -44,13 +44,14 @@ isn't it ridiculous that it would come down to this: the supreme court forcing t
 
 <div class="post" data-post-id="24976" data-author="Weasel" data-date="2008-06-14T03:04:52+00:00" data-subject="Re: sing &#x27;reign of law&#x27; united-states-of-america">
 
-My opinion:  it doesn't matter if these detainees are citizens of the US, not citizens, or citizens of any other country.  These are 'people' whose status is controlled by the US government, through our chain of command.  Our government has only the powers that are specifically given to it by the Constitution, by us.  We have not given anyone the authority to imprison people without cause.  Our handling of these detainees so far is illegal, simply because we haven't been following our own laws.  Time after time, our representatives in the government have decided not to follow our Constitution.
+> <strong>Avatar wrote:</strong>
+> My opinion: it doesn't matter if these detainees are citizens of the US, not citizens, or citizens of any other country. These are 'people' whose status is controlled by the US government, through our chain of command. Our government has only the powers that are specifically given to it by the Constitution, by us. We have not given anyone the authority to imprison people without cause. Our handling of these detainees so far is illegal, simply because we haven't been following our own laws. Time after time, our representatives in the government have decided not to follow our Constitution.
+> 
+> Best Regards,
+> 
+> Charles
 
-Best Regards,
-
-Charles[/quote:dh1ef87p]
-
-The whole "do as I say, not as I do" attitude from the US govt really bugs me, so in that sense it's about time something was done. The Constitution however [i:dh1ef87p]does[/i:dh1ef87p] allow for the removal of habeas rights when the country faces rebellion or invasion. This isn't yet an invasion, however in the case of detainees that were captured on American soil, that point is certainly debatable. 
+The whole "do as I say, not as I do" attitude from the US govt really bugs me, so in that sense it's about time something was done. The Constitution however <em>does</em> allow for the removal of habeas rights when the country faces rebellion or invasion. This isn't yet an invasion, however in the case of detainees that were captured on American soil, that point is certainly debatable. 
 
 I wonder though, will it end up being the American taxpayers who foot the bill for detainee legal representation? Interesting twist if so.
 
@@ -60,13 +61,13 @@ I wonder though, will it end up being the American taxpayers who foot the bill f
 
 The Constitution does allow for -Congress- to suspend Habeas Corpus, it never allowed for the -Executive- branch to do so.
 
-We should pay for the legal representation.  We've held these people for 6 years.
+We should pay for the legal representation. We've held these people for 6 years.
 
 </div>
 
 <div class="post" data-post-id="24981" data-author="Weasel" data-date="2008-06-14T07:16:42+00:00" data-subject="">
 
-You do realize that [i:3fofv6yw]many[/i:3fofv6yw] are there because they would kill you given the opportunity? Not saying they don't deserve a trial, but I have little pity for any human who thinks it's ok to chop someone's head off for not agreeing with them, and kill women and children indiscriminately for the same reason.
+You do realize that <em>many</em> are there because they would kill you given the opportunity? Not saying they don't deserve a trial, but I have little pity for any human who thinks it's ok to chop someone's head off for not agreeing with them, and kill women and children indiscriminately for the same reason.
 
 Actually please don't respond, I really don't want to get into it. I have a tendency to try to argue either side heh.
 
@@ -74,7 +75,7 @@ Actually please don't respond, I really don't want to get into it. I have a tend
 
 <div class="post" data-post-id="24985" data-author="Tap" data-date="2008-06-14T10:12:15+00:00" data-subject="">
 
-This is a fine line that US is walking. On one hand, I'm sure there are plenty of prisoners who are indeed "guilty" and need imprisonment. Like our own country, people can and have been falsely accused and imprisoned for a crime they didn't commit.  But it is difficult, if not impossible, to weed out those of less influence. I'm certain there was one guy who got released, went back and blew himself up at a police station killing 15-20 officers a couple of months ago. I'm not as opposed as to the imprisonment as I am to how they are treated. No-one actually knows the level of mental/physical abuse that goes on but I wouldn't be surprised. Having said that, we are only at the tip of the iceberg. Bush isn't really worried about  what the High Courts, Obama, McCain etc etc say or threaten to do publicly. The man is sitting on martial law. I'm still waiting for the other shoe to drop. It's coming.
+This is a fine line that US is walking. On one hand, I'm sure there are plenty of prisoners who are indeed "guilty" and need imprisonment. Like our own country, people can and have been falsely accused and imprisoned for a crime they didn't commit. But it is difficult, if not impossible, to weed out those of less influence. I'm certain there was one guy who got released, went back and blew himself up at a police station killing 15-20 officers a couple of months ago. I'm not as opposed as to the imprisonment as I am to how they are treated. No-one actually knows the level of mental/physical abuse that goes on but I wouldn't be surprised. Having said that, we are only at the tip of the iceberg. Bush isn't really worried about what the High Courts, Obama, McCain etc etc say or threaten to do publicly. The man is sitting on martial law. I'm still waiting for the other shoe to drop. It's coming.
 
 </div>
 
@@ -108,9 +109,10 @@ We have been in a pseudo dictatorship for a long time now.
 
 <div class="post" data-post-id="25027" data-author="Roadrunr" data-date="2008-06-15T23:20:13+00:00" data-subject="">
 
-We have been in a pseudo dictatorship for a long time now.[/quote:3sd0hkj1]
+> <strong>alias wrote:</strong>
+> We have been in a pseudo dictatorship for a long time now.
 
-just remember, congress writes and passes the laws, the president does not.  if you really think a democrat will be any better, I've got a bridge to sell you.  Not only have they not changed a thing since they took control of congress, they also bragged that they had a 'secret plan' to lower gas prices (which have risen 60% since they took over).
+just remember, congress writes and passes the laws, the president does not. if you really think a democrat will be any better, I've got a bridge to sell you. Not only have they not changed a thing since they took control of congress, they also bragged that they had a 'secret plan' to lower gas prices (which have risen 60% since they took over).
 
 the president has a lot less power than most people seem to think.
 
@@ -118,19 +120,18 @@ the president has a lot less power than most people seem to think.
 
 <div class="post" data-post-id="25028" data-author="Tap" data-date="2008-06-16T00:06:01+00:00" data-subject="">
 
-[quote:105zmavv]just remember, congress writes and passes the laws, the president does not. [/color:105zmavv][/quote:105zmavv]
+> <strong>Quote:</strong>
+> just remember, congress writes and passes the laws, the president does not.
 
 These were recently passed giving Bush total authority at his whim. Don't take my word for it...look around the web..plenty of proof
 
-[url:105zmavv]http://www.whitehouse.gov/news/releases/2007/05/20070509-12.html[/url:105zmavv]
+http://www.whitehouse.gov/news/releases/2007/05/20070509-12.html
 
-[url:105zmavv]http://www.prisonplanet.com/articles/may2007/230507martiallaw.htm[/url:105zmavv]
+http://www.prisonplanet.com/articles/may2007/230507martiallaw.htm
 
-[url:105zmavv]http://infowars.com/articles/ps/martial_law_bush_plan_so_shocking_congress_cant_see_it.htm[/url:105zmavv]
+http://infowars.com/articles/ps/martial_law_bush_plan_so_shocking_congress_cant_see_it.htm
 
-[url:105zmavv]http://www.towardfreedom.com/home/content/view/911[/url:105zmavv]
-
-[/color:105zmavv]
+http://www.towardfreedom.com/home/content/view/911
 
 Just a few small links...plenty more with little effort to find....basically Bush is/has been bragging about instituting martial law. Not an advocate for violence but I have extreme prejudice towards self-perservation. Stock up now before Nov..... no telling what might go down
 
@@ -138,8 +139,9 @@ Just a few small links...plenty more with little effort to find....basically Bus
 
 <div class="post" data-post-id="25032" data-author="Weasel" data-date="2008-06-16T03:11:25+00:00" data-subject="">
 
-We have been in a pseudo dictatorship for a long time now.[/quote:1olnsrp5]
+> <strong>alias wrote:</strong>
+> We have been in a pseudo dictatorship for a long time now.
 
-LOL ..you should travel more ..outside the US that is :)
+LOL ..you should travel more ..outside the US that is <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

@@ -18,13 +18,13 @@ A quick trawl of other muds shows that they are commonly part of the rules of a 
 
 AArdwolf Code of Conduct:
 
-[<LINK_TEXT text="http://www.aardwolf.com/wiki/index.php/ ... pPolicies3">http://www.aardwolf.com/wiki/index.php/Category/HelpPolicies3</LINK_TEXT>](http://www.aardwolf.com/wiki/index.php/Category/HelpPolicies3)
+[http://www.aardwolf.com/wiki/index.php/Category/HelpPolicies3](http://www.aardwolf.com/wiki/index.php/Category/HelpPolicies3)
 
 Help Policies3
 
 We simply ask for people to follow basic standards of civil conduct on
 
-public forums, including boards, channels, and populated areas.  We would
+public forums, including boards, channels, and populated areas. We would
 
 prefer that players act in a mature fashion under their own free will, but
 
@@ -38,27 +38,27 @@ Sexual harassment of any kind is not acceptable.
 
 If you have a problem with somebody, we ask that you just try to avoid
 
-contact with them.  Taking an argument to tells might help, but harassment
+contact with them. Taking an argument to tells might help, but harassment
 
-can be private just as well as public.  If somebody asks you to stop doing
+can be private just as well as public. If somebody asks you to stop doing
 
 something, generally, the best advice is to stop.
 
 The 'ignore' command exists precisely to help deal with this situation,
 
-so please use it before you ask for Immortal intervention.  This will stop
+so please use it before you ask for Immortal intervention. This will stop
 
 you from seeing tells from the ignored player, as well as seeing them on
 
-channels.  
+channels. 
 
 Use some common sense- if you can avoid the situation via your own methods,
 
-do so.  More often than not, you will find they stop  harassing you when
+do so. More often than not, you will find they stop harassing you when
 
-you stop giving them your attention.  If someone has you on ignore, leave
+you stop giving them your attention. If someone has you on ignore, leave
 
-them alone.  Posting personal notes or creating alts to get around ignore
+them alone. Posting personal notes or creating alts to get around ignore
 
 will not be tolerated by either party.
 
@@ -116,7 +116,7 @@ Lensmoor
 
 [http://lensmoor.org/](http://lensmoor.org/)
 
-1) Respect other's rights to have fun. This includes, but is not limited 
+1\) Respect other's rights to have fun. This includes, but is not limited 
 
 to: No profanity on open channels. Don't harrass someone. If asked to leave 
 
@@ -146,27 +146,27 @@ including obscenities censored with obfuscating characters such as "@" or "#".
 
 Do not create characters, zombies, groups, etc. with names that would be
 
-considered foul or indecent.  Do not create insultive or graphic character
+considered foul or indecent. Do not create insultive or graphic character
 
 descriptions for yourself or a zombie, etc.
 
 [http://www.darkerrealms.org/dark/help/harassment.shtml](http://www.darkerrealms.org/dark/help/harassment.shtml)
 
-Do not harass other players.  Harassment may include, but is not limited
+Do not harass other players. Harassment may include, but is not limited
 
 to:
 
-   - Commands such as 'kiss', 'hug', 'french', etc., where not wanted.
+ \- Commands such as 'kiss', 'hug', 'french', etc., where not wanted.
 
-   - Following a player around against their will.
+ \- Following a player around against their will.
 
-   - Sending tells to a player against their will.
+ \- Sending tells to a player against their will.
 
 If a player asks you to stop doing something, stop doing it.
 
-The Darker Realms administration takes harassment seriously.  If you feel
+The Darker Realms administration takes harassment seriously. If you feel
 
-someone is harassing you, tell them so, and ask them to stop.  If they persist,
+someone is harassing you, tell them so, and ask them to stop. If they persist,
 
 please contact a wizard immediately.
 

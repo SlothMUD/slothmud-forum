@@ -28,7 +28,7 @@ I could find a link to version 2.06 ?
 
 <div class="post" data-post-id="16367" data-author="*Splork*" data-date="2007-01-19T15:02:17+00:00" data-subject="">
 
-[www.wintin.org](http://www.wintin.org) - download newest beta version from web on the left hand side of the website.
+[www.wintin.org](http://www.wintin.org) \- download newest beta version from web on the left hand side of the website.
 
 Splork
 
@@ -36,7 +36,7 @@ Splork
 
 <div class="post" data-post-id="16501" data-author="*Splork*" data-date="2007-01-24T13:53:05+00:00" data-subject="Wintin.NET version 2.07">
 
-[www.wintin.org](http://www.wintin.org) - download newest beta version from web on the left hand side of the website.
+[www.wintin.org](http://www.wintin.org) \- download newest beta version from web on the left hand side of the website.
 
 More crash/bug fixes.
 
@@ -140,6 +140,6 @@ host: intel based Linux
 
 <div class="post" data-post-id="16634" data-author="Weasel" data-date="2007-02-03T02:50:23+00:00" data-subject="">
 
-I use MUSHclient :)   it's pretty damn good.
+I use MUSHclient <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> it's pretty damn good.
 
 </div>

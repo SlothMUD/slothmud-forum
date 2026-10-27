@@ -14,7 +14,7 @@ post_count: 4
 
 It's been a long time since I was first introduced to SLoth. Jake, Chris, Kenny... doubt any of you are still around, but HEY if so. I like to drop in every 10 years or so and say HEY, lol... The last time a few years ago I think I rolled some newbs and got lost in triangle reroll hell and left yet again. 
 
-Reading all of these posts makes me want to do that again. Doubt I can even install zMud on windows 10, but I might try WinTin since i've been meaning to do that for 20 years now, but i'd lose all my old zmud triggers/aliases :)
+Reading all of these posts makes me want to do that again. Doubt I can even install zMud on windows 10, but I might try WinTin since i've been meaning to do that for 20 years now, but i'd lose all my old zmud triggers/aliases <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Anyway - Hope all is well here, and it fills me with pride to see this community still alive and well. 
 

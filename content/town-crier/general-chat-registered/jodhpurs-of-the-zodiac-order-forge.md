@@ -22,37 +22,37 @@ Good luck adventurers!
 
 List at Cheiron -
 
-------------------------------------------------------------------------------------
+\------------------------------------------------------------------------------------
 
 I can forge:
 
- Cost      Item
+ Cost Item
 
-----------------------
+\----------------------
 
-+850000    a map of the constellation Ursa Major
+\+850000 a map of the constellation Ursa Major
 
-+850000    a map of the constellation Cygnus
+\+850000 a map of the constellation Cygnus
 
-+850000    a map of the constellation Draco
+\+850000 a map of the constellation Draco
 
-+950000    a book of constellations
+\+950000 a book of constellations
 
-+5000000   Jodhpurs of The Zodiac Order
+\+5000000 Jodhpurs of The Zodiac Order
 
-----------------------
+\----------------------
 
-* means you need more levels to use it.	
+\* means you need more levels to use it.	
 
 ! means you are not strong enough to use it.
 
-& means you have studied this spellbook or manual to its max.
+\& means you have studied this spellbook or manual to its max.
 
-+ Means that a list of cps can be viewed.
+\+ Means that a list of cps can be viewed.
 
 Query may also be of use to you, please refer to help query.
 
-******************************************************************
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 query cheiron about map
 
@@ -68,15 +68,15 @@ Weight: 1, Value: 15000gold, Worn in: TAKE
 
 Requires: 850,000 coins
 
-1x three sheaves of wheat*				 - Lyme
+1x three sheaves of wheat\* - Lyme
 
-1x a silver fish trinket*				 - Lyme
+1x a silver fish trinket\* - Lyme
 
-1x a black dart* 					 - BH
+1x a black dart\* - BH
 
-1x a black lock of centaur hair* 			                 - SS
+1x a black lock of centaur hair\* - SS
 
-******************************************************************
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 query cheiron about cygnus
 
@@ -92,15 +92,15 @@ Weight: 1, Value: 15000gold, Worn in: TAKE
 
 Requires: 850,000 coins
 
-1x a fleece of golden threads*				 - SS
+1x a fleece of golden threads\* - SS
 
-1x a thick brass hoop* 		  	                 - AH 
+1x a thick brass hoop\* - AH 
 
-1x a string of lion claws*				 - BH
+1x a string of lion claws\* - BH
 
-1x a scale of the glass dragon* 			                 - Island
+1x a scale of the glass dragon\* - Island
 
-******************************************************************
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 query cheiron about draco
 
@@ -116,15 +116,15 @@ Weight: 1, Value: 15000gold, Worn in: TAKE
 
 Requires: 850,000 coins 
 
-1x a string of crab claws*				 - Lyme
+1x a string of crab claws\* - Lyme
 
-1x balance scales*					 - AH
+1x balance scales\* - AH
 
-1x a vial of salt water*				 - SS
+1x a vial of salt water\* - SS
 
-1x a vial of scorpion venom*				 - SS
+1x a vial of scorpion venom\* - SS
 
-*******************************************************************
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 query cheiron about book
 
@@ -140,7 +140,7 @@ Weight: 5, Value: 20000gold, Worn in: TAKE
 
 Requires: 950,000 coins 
 
-1x a blank spellbook template*   		- AH
+1x a blank spellbook template\* - AH
 
 1x a map of the constellation Ursa Major 
 
@@ -148,7 +148,7 @@ Requires: 950,000 coins
 
 1x a map of the constellation Draco
 
-********************************************************************
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 query cheiron about jodhpurs
 
@@ -166,11 +166,11 @@ AC-apply is -1.0
 
 Can affect you as:
 
-    Affects: MANA by 5
+ Affects: MANA by 5
 
-    Affects: SPELL_BONUS by 8
+ Affects: SPELL\_BONUS by 8
 
-    Affects: MAX_STR by 1
+ Affects: MAX\_STR by 1
 
 Only those who have attained supremacy in at least six classes may use this
 
@@ -180,59 +180,59 @@ Requires: 5,000,000 coins
 
 1x a book of the zodiac constellations 
 
-1x the shield of the zodiac order* 		- AH
+1x the shield of the zodiac order\* - AH
 
-1x a set of silver wire leggings* 		                - Island
+1x a set of silver wire leggings\* - Island
 
-1x the symbol of zodiac magic			- AH
+1x the symbol of zodiac magic - AH
 
-*************************************************************************************************
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 forge Ursa
 
-* Cheiron, King of The Centaurs combines the components.
+\* Cheiron, King of The Centaurs combines the components.
 
 receive Ursa
 
-*Cheiron, King of The Centaurs finishes up a map of the constellation Ursa Major 
+\*Cheiron, King of The Centaurs finishes up a map of the constellation Ursa Major 
 
 and hands it to you!
 
 forge Cygnus
 
-*Cheiron, King of The Centaurs starts to craft (null).
+\*Cheiron, King of The Centaurs starts to craft (null).
 
 receive Cygnus
 
-*Cheiron, King of The Centaurs finishes up a map of the constellation Cygnus and 
+\*Cheiron, King of The Centaurs finishes up a map of the constellation Cygnus and 
 
 hands it to you!
 
 forge draco
 
-*Cheiron, King of The Centaurs combines the items you handed to him!
+\*Cheiron, King of The Centaurs combines the items you handed to him!
 
 receive draco
 
-*Cheiron, King of The Centaurs finishes up a map of the constellation Draco and 
+\*Cheiron, King of The Centaurs finishes up a map of the constellation Draco and 
 
 hands it to you!
 
-********************************************************************************************************
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 forge constellation
 
-*Cheiron, King of The Centaurs starts combining the objects you handed to him, 
+\*Cheiron, King of The Centaurs starts combining the objects you handed to him, 
 
 this may take a few minutes!
 
 receive constellation
 
-*Cheiron, King of The Centaurs adds the finishing touches to a book of 
+\*Cheiron, King of The Centaurs adds the finishing touches to a book of 
 
 constellations and hands it to you!
 
-- Complete directions by JB from Cassiopeia.
+\- Complete directions by JB from Cassiopeia.
 
 You are carrying:
 
@@ -256,7 +256,7 @@ Cheiron, King of The Centaurs finishes the last touches on jodhpurs of the zodia
 
 order and hands it to you!
 
-*************************************************************************************************
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 Ok.
 
@@ -272,17 +272,17 @@ AC-apply is -1.0
 
 Can affect you as:
 
-    Affects: MANA by 5
+ Affects: MANA by 5
 
-    Affects: SPELL_BONUS by 8
+ Affects: SPELL\_BONUS by 8
 
-    Affects: MAX_STR by 1
+ Affects: MAX\_STR by 1
 
 Only those who have attained supremacy in at least six classes may use this
 
 item.
 
-*****************************************************************************************************
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 I have not listed particular mobs to the item itself because all of this evolves around a quest by Cassiopeia. I have included the continents as a heads up, so good luck.
 
@@ -308,11 +308,11 @@ Dr
 
 1x a book of the zodiac constellations 
 
-1x the shield of the zodiac order* - AH
+1x the shield of the zodiac order\* - AH
 
-1x a set of silver wire leggings* - Island
+1x a set of silver wire leggings\* - Island
 
-1x the symbol of zodiac magic	 - AH
+1x the symbol of zodiac magic - AH
 
 all show up in the eqlist. whats not showing up?
 
@@ -326,7 +326,7 @@ The cp's - E.g wheat, trinket etc etc -
 
 <div class="post" data-post-id="34687" data-author="*Breeze*" data-date="2013-12-24T15:30:44+00:00" data-subject="Re: Jodhpurs of the Zodiac Order Forge">
 
-sloth has different types of forges.  old style, new style, quest, etc.
+sloth has different types of forges. old style, new style, quest, etc.
 
 due to this, the only way to update the forge database is manually.
 
@@ -338,8 +338,8 @@ in the end, the forge creator has to get with me so i can give him/her a data fo
 
 Congratz Marcus!
 
-I am glad to see my forges being forged.  Even if they seem to be getting harder and harder.
+I am glad to see my forges being forged. Even if they seem to be getting harder and harder.
 
-If I ever get around to the next one it will probably be the hardest by far that I will make available for you guys to attempt to forge :P
+If I ever get around to the next one it will probably be the hardest by far that I will make available for you guys to attempt to forge <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>

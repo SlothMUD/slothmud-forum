@@ -12,29 +12,29 @@ post_count: 4
 
 <div class="post" data-post-id="34306" data-author="Yasik" data-date="2013-05-30T11:18:47+00:00" data-subject="Spell checks for enough mana and max # of followers">
 
-**<425hp 20ma 184mv>  [+9]  AC: -7.1  EXP: 17,194,242  COINS: 398,284  [indoors]
+<strong>\<425hp 20ma 184mv\> [+9] AC: -7.1 EXP: 17,194,242 COINS: 398,284 [indoors]</strong>
 
-cast 'Summon Undead' spectre
+<strong>cast 'Summon Undead' spectre</strong>
 
-Ok.
+<strong>Ok.</strong>
 
-You don't have enough mana.
+<strong>You don't have enough mana.</strong>
 
-<428hp 1ma 184mv>  [+9]  AC: -7.1  EXP: 17,194,242  COINS: 398,284  [indoors]
+<strong>\<428hp 1ma 184mv\> [+9] AC: -7.1 EXP: 17,194,242 COINS: 398,284 [indoors]</strong>
 
-You calm down and return to a peaceful state of mind.**
+<strong>You calm down and return to a peaceful state of mind.</strong>
 
 I think many of us would agree that it would be much better if it wouldn't reduce mana if check is unsuccessful. This happens to some other spells, not only summon/animate, and to some other checks - mana deducted if I try to summon more undead than I supposed to have at this level (max legion something blah blah).
 
-**<475hp 71ma 184mv>  [+9]  AC: -7.1  EXP: 20,086,419  COINS: 465,685  [raining]
+<strong>\<475hp 71ma 184mv\> [+9] AC: -7.1 EXP: 20,086,419 COINS: 465,685 [raining]</strong>
 
-cast 'Banish Undead'
+<strong>cast 'Banish Undead'</strong>
 
-Ok.
+<strong>Ok.</strong>
 
-You attempt to banish your undead followers, but seem to lack any.
+<strong>You attempt to banish your undead followers, but seem to lack any.</strong>
 
-<475hp 51ma 184mv>  [+9]  AC: -7.1  EXP: 20,086,419  COINS: 465,685  [raining]**
+<strong>\<475hp 51ma 184mv\> [+9] AC: -7.1 EXP: 20,086,419 COINS: 465,685 [raining]</strong>
 
 </div>
 
@@ -52,8 +52,8 @@ To be honest, I can't figure out why its happening. Its not all spells but a few
 
 <div class="post" data-post-id="34310" data-author="blackmore" data-date="2013-06-01T01:39:28+00:00" data-subject="Re: Spell checks for enough mana and max # of followers">
 
-I'm pretty sure it's spells that have a base cost, plus a cost depending on the parameter added.  It succeeds casting the base spell, but the added cost causes it to fail.
+I'm pretty sure it's spells that have a base cost, plus a cost depending on the parameter added. It succeeds casting the base spell, but the added cost causes it to fail.
 
-Also, successfully casting banish undead should cost mana.  Just because there wasn't anything to banish doesn't mean the spell failed.
+Also, successfully casting banish undead should cost mana. Just because there wasn't anything to banish doesn't mean the spell failed.
 
 </div>

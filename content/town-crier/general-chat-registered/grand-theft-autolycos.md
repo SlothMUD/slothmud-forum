@@ -28,7 +28,7 @@ Perhaps there could even be rewards for catching miscreants and so on, but that 
 
 i like that idea.. 
 
-you feeling ok?  that made sense  :twisted:
+you feeling ok? that made sense <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -44,15 +44,14 @@ Someone has pointed out to me that the outlaw system has been in place for 15 ye
 
 <div class="post" data-post-id="16579" data-author="kjartan" data-date="2007-01-29T23:07:56+00:00" data-subject="">
 
-I will look into it.  Any problems with purloin aura are probably my fault.
+I will look into it. Any problems with purloin aura are probably my fault.
 
 </div>
 
 <div class="post" data-post-id="16581" data-author="Marchessa_red_witch" data-date="2007-01-30T00:10:20+00:00" data-subject="">
 
-Maybe the imms could tell us what they had in mind when they coded purloin aura. How did they anticipate the players using it? I'm trying to make use of it, but being wanted is such a hassle with your inventory that it doesn't seem to be worthwhile to use at all.
-
-[/quote:cavtthqw]
+> <strong>juggleblood wrote:</strong>
+> Maybe the imms could tell us what they had in mind when they coded purloin aura. How did they anticipate the players using it? I'm trying to make use of it, but being wanted is such a hassle with your inventory that it doesn't seem to be worthwhile to use at all.
 
 The reason behind the inv problems is to that the penalty for getting caught and killed as pthief is that your corpse can be looted. What you are suggesting would allow someone to pthief with good eq, vault the good stuff. OK he gets killed and loses some xp, ho hum, rub died 51 times last week.
 
@@ -64,11 +63,11 @@ The only way inv fixes would be reasonable is if there is a difference between b
 
 What were we thinking?
 
-Who knows, but we have changed our minds.  We were trying to limit abuse of the skill beyond its original impact.
+Who knows, but we have changed our minds. We were trying to limit abuse of the skill beyond its original impact.
 
-We will be making some changes soon to the skill and the net is it will have a different drawbacks.  You will no longer be boarded for using it, but it will be limited by other things.  
+We will be making some changes soon to the skill and the net is it will have a different drawbacks. You will no longer be boarded for using it, but it will be limited by other things. 
 
-If these don't work out (either too tough or too easy) we, of course, reserve the right to change it again all the way up to making it completely ineffective or impossible to use.   Your patience with us is always appreciated.
+If these don't work out (either too tough or too easy) we, of course, reserve the right to change it again all the way up to making it completely ineffective or impossible to use. Your patience with us is always appreciated.
 
 Clink
 
@@ -76,13 +75,13 @@ Clink
 
 <div class="post" data-post-id="16601" data-author="osric" data-date="2007-01-31T19:04:28+00:00" data-subject="">
 
-Remember gang, you dont get boarded for stealing from mobs :)
+Remember gang, you dont get boarded for stealing from mobs <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="16609" data-author="Guinex" data-date="2007-02-01T04:24:08+00:00" data-subject="">
 
-I still <3 you Clinkem.
+I still \<3 you Clinkem.
 
 </div>
 

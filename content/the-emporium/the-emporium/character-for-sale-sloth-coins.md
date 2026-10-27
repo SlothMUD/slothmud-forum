@@ -16,9 +16,9 @@ So I barely play... and I need coins to level up Novel.
 
 Here's the character up for auction. (if nobody else bids, Belion will get him for 10M coins) - char will be naked:
 
-Core of the problem  (level: 26)
+Core of the problem (level: 26)
 
-Your levels:  Ma: 26 Mo: 20 Cl: 13 Dr: 8 Ne: 5 Wa: 2 Th: 1 Ba: 1 
+Your levels: Ma: 26 Mo: 20 Cl: 13 Dr: 8 Ne: 5 Wa: 2 Th: 1 Ba: 1 
 
 You are 17 years, 11 months, 26 days old.
 
@@ -52,65 +52,63 @@ You are standing.
 
 You are affected by the following spells:
 
-   Detect Invisible                 
+ Detect Invisible 
 
-   Resist Cold                      
+ Resist Cold 
 
-   Water Breathing  
-
-   
+ Water Breathing 
 
 prac unl
 
-                    Mage Abilities:
+ Mage Abilities:
 
-mass invisibility             - Lvl: 11, Mana: 20, Learned  50% [-45]
+mass invisibility - Lvl: 11, Mana: 20, Learned 50% [-45]
 
-knock                         - Lvl: 12, Mana:  5, Unlearned
+knock - Lvl: 12, Mana: 5, Unlearned
 
-charm person                  - Lvl: 14, Mana: 50, Learned  50% [-45]
+charm person - Lvl: 14, Mana: 50, Learned 50% [-45]
 
-sleep                         - Lvl: 14, Mana: 35, Learned  50% [-45]
+sleep - Lvl: 14, Mana: 35, Learned 50% [-45]
 
-water breathing               - Lvl: 16, Mana: 10, Unlearned
+water breathing - Lvl: 16, Mana: 10, Unlearned
 
-dowsing                       - Lvl: 20,           Learned  50% [-45]
+dowsing - Lvl: 20, Learned 50% [-45]
 
-battle focus                  - Lvl: 20,           Unlearned
+battle focus - Lvl: 20, Unlearned
 
-chronos incantation           - Lvl: 22, Mana: 30, Unlearned
+chronos incantation - Lvl: 22, Mana: 30, Unlearned
 
-ice storm                     - Lvl: 26, Mana: 50, Unlearned
+ice storm - Lvl: 26, Mana: 50, Unlearned
 
-                    Cleric Abilities:
+ Cleric Abilities:
 
-detect disease                - Lvl:  5, Mana: 10, Unlearned
+detect disease - Lvl: 5, Mana: 10, Unlearned
 
-water breathing               - Lvl:  9, Mana: 10, Unlearned
+water breathing - Lvl: 9, Mana: 10, Unlearned
 
-cure deafness                 - Lvl: 12, Mana: 16, Unlearned
+cure deafness - Lvl: 12, Mana: 16, Unlearned
 
-                    Thief Abilities:
+ Thief Abilities:
 
-                    Warrior Abilities:
+ Warrior Abilities:
 
-                    Druid Abilities:
+ Druid Abilities:
 
-                    Necromancer Abilities:
+ Necromancer Abilities:
 
-                    Bard Abilities:
+ Bard Abilities:
 
-                    Monk Abilities:
+ Monk Abilities:
 
-barehanded accuracy           - Lvl:  5,           Unlearned
+barehanded accuracy - Lvl: 5, Unlearned
 
-purity                        - Lvl: 18, Mana: 60, Unlearned
+purity - Lvl: 18, Mana: 60, Unlearned
 
-feign death                   - Lvl: 20,           Unlearned
+feign death - Lvl: 20, Unlearned
 
 Good luck learning the rest!
 
-==============
+\==============
 
 Post bids here, please.
 
@@ -118,7 +116,7 @@ Auction ends 1/20/11 assuming any interest exists within 2 days.
 
 Thanks!
 
--Nick
+\-Nick
 
 </div>
 

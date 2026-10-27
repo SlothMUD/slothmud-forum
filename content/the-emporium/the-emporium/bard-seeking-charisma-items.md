@@ -36,7 +36,7 @@ Tetsu
 
 <div class="post" data-post-id="2310" data-author="Avatar" data-date="2004-10-14T10:54:01+00:00" data-subject="White Silk Sleeves">
 
-I don't know if you know this already, but the white silk sleeves are restricted to cleric primes only.  No bards allowed!
+I don't know if you know this already, but the white silk sleeves are restricted to cleric primes only. No bards allowed!
 
 Charles
 
@@ -54,8 +54,6 @@ Nod, cp for Jovian, which I've gotten (Thanks Riro!)
 
 Also need song parts
 
- 
-
 Song of Fukurokuju
 
 Song of Daikokuten
@@ -64,13 +62,13 @@ Song of Bishamonten
 
 Song of Benzaiten
 
-all of which i am unable to pop solo. (and having a third bard with Dance of seven gods certainly cant be a bad thing, can it? ;)
+all of which i am unable to pop solo. (and having a third bard with Dance of seven gods certainly cant be a bad thing, can it? <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="2318" data-author="Avatar" data-date="2004-10-14T16:51:54+00:00" data-subject="Sleeves">
 
-My bad then.  I've never heard of these armaments.  If anyone else needs some sleeves, I think I have a spare set.
+My bad then. I've never heard of these armaments. If anyone else needs some sleeves, I think I have a spare set.
 
 Charles
 

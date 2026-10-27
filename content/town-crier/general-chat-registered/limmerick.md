@@ -38,15 +38,16 @@ Was H2SO4.
 
 <div class="post" data-post-id="30438" data-author="Thraxas" data-date="2009-12-06T23:47:01+00:00" data-subject="Re: limmerick">
 
-A mosquito was heard to complain
-
-That a chemist had poisoned his brain
-
-The cause of his sorrow
-
-Was para-dichloro-
-
-diphenyltrichloroethane[/quote:h05uquj8]
+> <strong>juggleblood wrote:</strong>
+> A mosquito was heard to complain
+> 
+> That a chemist had poisoned his brain
+> 
+> The cause of his sorrow
+> 
+> Was para-dichloro-
+> 
+> diphenyltrichloroethane
 
 What did the CIA agent do when he found his room was bugged? 
 
@@ -66,13 +67,14 @@ shove it up your arse
 
 <div class="post" data-post-id="30441" data-author="jezer" data-date="2009-12-07T02:48:39+00:00" data-subject="">
 
-limericks not only
+> <strong>reboog wrote:</strong>
+> limericks not only
+> 
+> require rhythm, but rhyme
+> 
+> shove it up your arse
 
-require rhythm, but rhyme
-
-shove it up your arse[/quote:526rp7nx]
-
-Your my hero Reboog!  :D
+Your my hero Reboog! <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 

@@ -30,9 +30,9 @@ Max xp = xxxxxx
 
 Var yy = xxx
 
-If class == y; max ??? += max ??? * ( 0.10 * classPosition)
+If class == y; max ??? += max ??? \* ( 0.10 \* classPosition)
 
-Is this what you want? No mystery? A simple  class is better than another?
+Is this what you want? No mystery? A simple class is better than another?
 
 I can easily do that. I can restrict my immortals from implementing what they see fit. I can say email me before changing anything.
 
@@ -58,7 +58,7 @@ Post Deleted.
 
 <div class="post" data-post-id="39478" data-author="Hung" data-date="2020-05-09T13:17:27+00:00" data-subject="Re: Balance Bugs Features Etc">
 
-> Is this what you want? No mystery? A simple class is better than another?
+\> Is this what you want? No mystery? A simple class is better than another?
 
 While I definitely dont mind more transparency on how different things work.
 
@@ -82,11 +82,11 @@ Still I want that playing a bard(as I own one 6x40 bard) in charisma set made se
 
 <div class="post" data-post-id="39479" data-author="*Breeze*" data-date="2020-05-09T17:49:24+00:00" data-subject="Re: Balance Bugs Features Etc">
 
-Anyone who actually knows me would have  used a nazi instead of kim jung asshat.. or whatever....
+Anyone who actually knows me would have used a nazi instead of kim jung asshat.. or whatever....
 
 I refuse to delete Gorka response because i seriously give less than a shit about people insulting me.
 
-Am not that petty but save the right to be a  asshole as I see fit
+Am not that petty but save the right to be a asshole as I see fit
 
 </div>
 

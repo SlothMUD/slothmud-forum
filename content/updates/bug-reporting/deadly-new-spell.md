@@ -32,13 +32,13 @@ Ahhhhh oh no!
 
 <div class="post" data-post-id="11263" data-author="Autolycos" data-date="2006-03-14T17:52:45+00:00" data-subject="">
 
-LMFAO!   :twisted: 
+LMFAO! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-that rocks!  
+that rocks! 
 
 now all we need, is a mob to have a weapon that proc's purge socket or drop ip#
 
-that would really kick ass  :twisted:
+that would really kick ass <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

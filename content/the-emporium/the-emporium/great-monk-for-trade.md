@@ -34,9 +34,9 @@ Dirty Lunch Pail / Scarab of Rotting Flesh
 
 Staff of Entwined Serpents
 
-Sanosuke tiny fists of DOOM!!!   ~DS~  (level: 40)
+Sanosuke tiny fists of DOOM!!! \~DS\~ (level: 40)
 
-Your levels:  Mo: 40 Wa: 40 Ba: 34 Cl: 20 
+Your levels: Mo: 40 Wa: 40 Ba: 34 Cl: 20 
 
 You are 18 years and 15 months old.
 
@@ -74,17 +74,17 @@ You are resting.
 
 Your song can affect as many as six people.
 
-You are affected by the following spells:   None.
+You are affected by the following spells: None.
 
 </div>
 
 <div class="post" data-post-id="22595" data-author="Leaf" data-date="2008-02-07T05:08:46+00:00" data-subject="">
 
-If some didn't guess, those are his nat stats.  With Bard being in the class
+If some didn't guess, those are his nat stats. With Bard being in the class
 
-+4str spell is gained, so basically 18/100 14 16 17 18 Naked.
+\+4str spell is gained, so basically 18/100 14 16 17 18 Naked.
 
-Also not trading for one eq of UC :)  Can throw in gold to, if not enough UC
+Also not trading for one eq of UC <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> Can throw in gold to, if not enough UC
 
 eq is available.
 

@@ -22,10 +22,10 @@ Weight: 2, Value: 5, Worn in: TAKE HOLD
 
 Can affect you as:
 
-    Affects: UNDEAD_CONTROL by 1
+ Affects: UNDEAD\_CONTROL by 1
 
-Only those who are at least adept necromancers may use this item.  
+Only those who are at least adept necromancers may use this item. 
 
-pops on the souffle zombie... i didn't check to see what size container it was, oops :)
+pops on the souffle zombie... i didn't check to see what size container it was, oops <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

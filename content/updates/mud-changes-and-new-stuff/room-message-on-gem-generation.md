@@ -14,7 +14,7 @@ post_count: 1
 
 Greetings, mortals.
 
-Added a little room message on gem generation, so morons will stop stealing them from their groups. :evil:
+Added a little room message on gem generation, so morons will stop stealing them from their groups. <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 Change available on crash/reboot.
 

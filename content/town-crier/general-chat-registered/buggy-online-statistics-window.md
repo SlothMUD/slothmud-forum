@@ -22,17 +22,17 @@ There are 8 anonymous users and 1 registered user online.
 
 You are logged-in as firebrand.
 
-"you can even put a stopper in death" --professor snape -->harry potter
+"you can even put a stopper in death" --professor snape --\>harry potter
 
 </div>
 
 <div class="post" data-post-id="16989" data-author="Autolycos" data-date="2007-02-18T18:18:58+00:00" data-subject="">
 
-HA!  :twisted: 
+HA! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 even the website is ignoring you!!!
 
-I see this  :twisted: 
+I see this <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 There are 9 anonymous 
 
@@ -42,7 +42,7 @@ users online.
 
 You are logged-in as 
 
-[b:sxgc2vk6]Autolycos.[/b:sxgc2vk6]
+<strong>Autolycos.</strong>
 
 It is an honor to have 
 

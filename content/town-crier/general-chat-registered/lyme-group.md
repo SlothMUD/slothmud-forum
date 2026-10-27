@@ -12,19 +12,19 @@ post_count: 12
 
 <div class="post" data-post-id="14273" data-author="Rynquald" data-date="2006-09-25T07:45:25+00:00" data-subject="Lyme group">
 
-Would like to thank Blaster (and any other imms who might have been involved behind the scenes) for opening Lyme to everyone today, made for a great chop group. And the restrings for Atwell and myself rocked too :)
+Would like to thank Blaster (and any other imms who might have been involved behind the scenes) for opening Lyme to everyone today, made for a great chop group. And the restrings for Atwell and myself rocked too <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="14279" data-author="Jag" data-date="2006-09-25T14:31:06+00:00" data-subject="">
 
-Figures!  The one day I don't log on.
+Figures! The one day I don't log on.
 
 </div>
 
 <div class="post" data-post-id="14282" data-author="brady" data-date="2006-09-25T15:39:40+00:00" data-subject="">
 
-And thanks Rynq, for his patience and Atwell for his many, many heads.  It was a lot of fun, Blaster.  Thanks for mixing it up.
+And thanks Rynq, for his patience and Atwell for his many, many heads. It was a lot of fun, Blaster. Thanks for mixing it up.
 
 </div>
 
@@ -38,13 +38,13 @@ It's not a big deal to me, 3 of the 5 chars I've decided to keep are already on 
 
 <div class="post" data-post-id="14286" data-author="Absu" data-date="2006-09-25T16:27:05+00:00" data-subject="">
 
-Yeah, was a lot of fun. Lots of exp, too... for a newbie anyway. :P I think I went from level 27-34 or something around that.
+Yeah, was a lot of fun. Lots of exp, too... for a newbie anyway. <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom"> I think I went from level 27-34 or something around that.
 
 </div>
 
 <div class="post" data-post-id="14290" data-author="Gimlet" data-date="2006-09-26T01:32:20+00:00" data-subject="">
 
-not to be a dampener or anything, coz it was pretty fun :), but please please do not let this be a regular event.  It's easy enuff to level on sloth as it is, we don't need more newbies sponging their way to lyme and not knowing where the LIMBO is
+not to be a dampener or anything, coz it was pretty fun <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">, but please please do not let this be a regular event. It's easy enuff to level on sloth as it is, we don't need more newbies sponging their way to lyme and not knowing where the LIMBO is
 
 </div>
 
@@ -56,9 +56,10 @@ Is that AFK land?
 
 <div class="post" data-post-id="14293" data-author="Blaster" data-date="2006-09-26T05:03:27+00:00" data-subject="">
 
-not to be a dampener or anything, coz it was pretty fun :), but please please do not let this be a regular event.  It's easy enuff to level on sloth as it is, we don't need more newbies sponging their way to lyme and not knowing where the LIMBO is[/quote:s5fputba]
+> <strong>Gimlet wrote:</strong>
+> not to be a dampener or anything, coz it was pretty fun <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">, but please please do not let this be a regular event. It's easy enuff to level on sloth as it is, we don't need more newbies sponging their way to lyme and not knowing where the LIMBO is
 
-Been a long time since I did one of these and figured I would be nice and do something for the players since I won't bother with quests now days.  But I guess I can make it a long time again before I bother with another one since I have also recieved emails bitching about it from players.  Try to be nice and do something, and well you know, go figure, no big deal to me.   Enjoy!!!!
+Been a long time since I did one of these and figured I would be nice and do something for the players since I won't bother with quests now days. But I guess I can make it a long time again before I bother with another one since I have also recieved emails bitching about it from players. Try to be nice and do something, and well you know, go figure, no big deal to me. Enjoy!!!!
 
 </div>
 
@@ -80,7 +81,7 @@ errr
 
 I really wasn't bitching about the group, it was fun, and real nice of the imm's part....
 
-I was just saying no no no to rr's post of having it as a monthly occurance...i think it defeats the purpose of it :P
+I was just saying no no no to rr's post of having it as a monthly occurance...i think it defeats the purpose of it <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -92,7 +93,7 @@ The entire group stayed together the whole time. We weren't even allowed to pick
 
 Sure us lowbies got some nice exp (I think I got about 70 million in the full 2 1/2 hours), but because of the level gap it was pretty much the same that I got when partied in the huge nocap exp groups off Lyme. Not sure if you guys know or not but you get a huge penalty when killing monsters that are insanely higher than you. It doesn't matter what continent you're on: if you're a low level player in a big group that is killing huge monsters, you're going to get squat exp compared to an avatar character.
 
-I've been playing pretty heavily for the past 3 weeks or so, and the Lyme group was some of the most fun I've had. Pretty exciting getting massacred by monsters 200 levels higher than you in one round after you accidently behead the tank.  :lol:
+I've been playing pretty heavily for the past 3 weeks or so, and the Lyme group was some of the most fun I've had. Pretty exciting getting massacred by monsters 200 levels higher than you in one round after you accidently behead the tank. <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

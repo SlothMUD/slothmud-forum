@@ -12,7 +12,7 @@ post_count: 1
 
 <div class="post" data-post-id="23527" data-author="Yinao" data-date="2008-04-01T06:17:44+00:00" data-subject="Karma STRIKES AGAIN!">
 
-Toxis -- '*DaWarriAh* god damn I'm a good tank'
+Toxis -- '\*DaWarriAh\* god damn I'm a good tank'
 
 Yinao utters the words, 'yfaghbarh'
 
@@ -48,19 +48,19 @@ Toxis brutally massacres the sandgorgon with his slash.
 
 You massacre the sandgorgon to small fragments with your hit.
 
-Toxis -- ': Hp [  896  /  1222  ]  >> Damage -326 hp << AEGIS DOWN!!! AEGIS
+Toxis -- ': Hp [ 896 / 1222 ] \>\> Damage -326 hp \<\< AEGIS DOWN!!! AEGIS
 
 DOWN!!!'
 
-Toxis -- '*DaWarriAh* defied'
+Toxis -- '\*DaWarriAh\* defied'
 
-Yinao -- '*Valkyrie* dont flatter yourself'
+Yinao -- '\*Valkyrie\* dont flatter yourself'
 
 Yinao utters the words, 'ofzahzf pzar'
 
 Toxis's wounds seem to vanish!
 
-Toxis -- ': Hp [  1214  /  1222  ] >> Healing + 314 hp << AEGIS DOWN!!! AEGIS
+Toxis -- ': Hp [ 1214 / 1222 ] \>\> Healing + 314 hp \<\< AEGIS DOWN!!! AEGIS
 
 DOWN!!!'
 
@@ -96,7 +96,7 @@ Toxis massacres the sandgorgon to small fragments with his slash.
 
 You hit the sandgorgon extremely hard.
 
-Toxis -- ': Hp [  712  /  1222  ]  >> Damage -505 hp << AEGIS DOWN!!! AEGIS
+Toxis -- ': Hp [ 712 / 1222 ] \>\> Damage -505 hp \<\< AEGIS DOWN!!! AEGIS
 
 DOWN!!!'
 
@@ -130,7 +130,7 @@ Toxis massacres the sandgorgon to small fragments with his slash.
 
 Toxis massacres the sandgorgon to small fragments with his slash.
 
-Toxis -- ': Hp [  435  /  1222  ]  >> Damage -284 hp << AEGIS DOWN!!! AEGIS
+Toxis -- ': Hp [ 435 / 1222 ] \>\> Damage -284 hp \<\< AEGIS DOWN!!! AEGIS
 
 DOWN!!!'
 
@@ -176,11 +176,11 @@ Giselle -- 'doh'
 
 Zukt falls down laughing.
 
-Yinao -- '*Valkyrie* doh'
+Yinao -- '\*Valkyrie\* doh'
 
 Schroeder -- 'ahahahahahaha'
 
-Yinao -- '*Valkyrie* lag'
+Yinao -- '\*Valkyrie\* lag'
 
 Sa -- 'Whiner On.'
 
@@ -196,7 +196,7 @@ Schroeder gets gold coins from the corpse of the sandgorgon that's on the
 
 ground.
 
-Schroeder splits 247 coins.  Your share is 22 coins.
+Schroeder splits 247 coins. Your share is 22 coins.
 
 Yinao begins to sing 'rina cruinne'.
 
@@ -212,16 +212,16 @@ Nakita's hands begin to glow very brightly!
 
 Toxis has been raised from the dead!
 
-Toxis -- ': Hp [  221  /  1222  ] >> Healing + 433 hp << AEGIS DOWN!!! AEGIS
+Toxis -- ': Hp [ 221 / 1222 ] \>\> Healing + 433 hp \<\< AEGIS DOWN!!! AEGIS
 
 DOWN!!!'
 
-Toxis -- '*DaWarriAh* god damn you fuckers'
+Toxis -- '\*DaWarriAh\* god damn you fuckers'
 
-Toxis -- '*DaWarriAh* it's not bad enough you didn't lite me, you won't heal
+Toxis -- '\*DaWarriAh\* it's not bad enough you didn't lite me, you won't heal
 
-Yinao -- '*Valkyrie* love you too brad :)'
+Yinao -- '\*Valkyrie\* love you too brad <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">'
 
-Oh man this is funny :)
+Oh man this is funny <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

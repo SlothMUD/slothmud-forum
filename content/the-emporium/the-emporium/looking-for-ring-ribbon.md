@@ -16,7 +16,7 @@ have coins/eq.
 
 if ya got any i bet we can make deal.
 
-thanks :)
+thanks <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

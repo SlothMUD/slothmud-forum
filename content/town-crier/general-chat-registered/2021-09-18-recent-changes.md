@@ -14,9 +14,9 @@ post_count: 9
 
 Hopefully you're seeing MXP back to where it was previously.
 
-I've made some updates to EQSET to try to get clasps into containers and to handle situations better when a clasp changes position.  Let me know if you're still seeing equipment left in inventory that shouldn't be there.
+I've made some updates to EQSET to try to get clasps into containers and to handle situations better when a clasp changes position. Let me know if you're still seeing equipment left in inventory that shouldn't be there.
 
-Some changes were made to EYE OF THE BEHOLDER to prevent shopkeepers and guild masters from being moved around (especially those in safe rooms).  I tried not to nerf legitimate uses.  Let us know if you think you have a legitimate use that doesn't work any more.
+Some changes were made to EYE OF THE BEHOLDER to prevent shopkeepers and guild masters from being moved around (especially those in safe rooms). I tried not to nerf legitimate uses. Let us know if you think you have a legitimate use that doesn't work any more.
 
 </div>
 
@@ -30,7 +30,7 @@ Eqset in general is really awesome, it was complete game changer when I learned 
 
 There is another weirdness on eqset that seems it may be just a display issue I will mention because it may be indicative of some other problem. I went through all my eqsets and set the same container (black and red robes) using eqset setcontainer black-red all - but if I use eqset show it lists half the items as having container as [ Inventory ] now. BUT - it still stows them in the correct container (black and red robes). They only started displaying like this after I had rented and returned at least once, when I first set them I'm pretty sure they all showed the correct container. 
 
-Regarding the eye of the beholder change, I suppose it's an impossible task being an imm but my feedback on this is that I don't see this as a change that should be fixed. Moving guildmasters around isn't a big deal nor is the occasional attempt to snipe a shopkeeper game-breaking in my opinion, unless we're talking about drachma shopkeepers. It'll just be one less interesting thing to do. Maybe there's some kind of rampant abuse I'm not aware of, or perhaps my idea of rampant abuse just differs from yours :)
+Regarding the eye of the beholder change, I suppose it's an impossible task being an imm but my feedback on this is that I don't see this as a change that should be fixed. Moving guildmasters around isn't a big deal nor is the occasional attempt to snipe a shopkeeper game-breaking in my opinion, unless we're talking about drachma shopkeepers. It'll just be one less interesting thing to do. Maybe there's some kind of rampant abuse I'm not aware of, or perhaps my idea of rampant abuse just differs from yours <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 thanks
 
@@ -48,7 +48,7 @@ Thanks- Zeke
 
 <div class="post" data-post-id="39825" data-author="*teker*" data-date="2021-09-19T16:16:49+00:00" data-subject="Re: 2021.09.18 recent changes">
 
-I was more concerned with shopkeepers and guildmasters being moved and not killed.  That will break some shops and make it difficult for new players to figure out where to level.
+I was more concerned with shopkeepers and guildmasters being moved and not killed. That will break some shops and make it difficult for new players to figure out where to level.
 
 </div>
 
@@ -82,9 +82,9 @@ kind of odd. in the past I've ended up with other clasps in inventory and couldn
 
 I do use wear extensively to assemble sets out of incomplete parts. Wear is awesome, especially to allow different weapons to be used with the same set of armor.
 
-Personally the way I get around this is when I change eqsets I flag a var eqset_unresolved = true, then as part of same routine as non-combat spell maintenance will do eqset stow until I hit "You're not carrying anything that has a set container." which will flag it as resolved. I override sell/drop with aliases so that i can't sell/drop until eqsets are resolved as well. No accidents so far. :) 
+Personally the way I get around this is when I change eqsets I flag a var eqset\_unresolved = true, then as part of same routine as non-combat spell maintenance will do eqset stow until I hit "You're not carrying anything that has a set container." which will flag it as resolved. I override sell/drop with aliases so that i can't sell/drop until eqsets are resolved as well. No accidents so far. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> 
 
-I suppose it's possible the changes aren't deployed as well :)
+I suppose it's possible the changes aren't deployed as well <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -102,9 +102,9 @@ To me the eqset deposit command isn't useful because it deposits items used in o
 
 It's kind of a kludge and would be a maintenance headache, but you could create an eqset that has just the items you want to store sans any clasps etc.
 
-so you have your "extra_saves" set, but also a stripped down "extra_saves_storage" set which only contains items that will be vaulted and has all clasps etc removed from it.
+so you have your "extra\_saves" set, but also a stripped down "extra\_saves\_storage" set which only contains items that will be vaulted and has all clasps etc removed from it.
 
-Then you would first eqset switch extra_saves_storage and then deposit it to "clean" the eqset before storage.
+Then you would first eqset switch extra\_saves\_storage and then deposit it to "clean" the eqset before storage.
 
 I imagine at your level eq sets don't change that often so should be doable if not ideal.
 
@@ -116,12 +116,12 @@ So can we get a different fix for whatever you tried to fix with changing eye of
 
 I am working on new game maps, for which I want to collect as much information about mobs as possible, and the changes prevent me from doing it... not that knowing the exp/coins/number of attacks/procs of guildmasters is of any real use, but it's exactly what Ezekiel and Fuligin said – I think that the very idea that someone collected this data will further motivate other players to explore new things, try new strategies, and eventually get more fun from the game.
 
-> **Quote:**
+> <strong>Quote:</strong>
 > Ultimately it's more an achievement than a way to get xp or gold since there's more efficient ways to get either or both
 
 Totally agree with this!
 
-> **Quote:**
+> <strong>Quote:</strong>
 > even if someone, say moved a guildmaster and killed it... it would show back up on repop no? That's not really game breaking.
 
 Not only this – eye of the beholder is level 33, and cannot be used on Valkyre. So I don't think there is any real problem for newbies...

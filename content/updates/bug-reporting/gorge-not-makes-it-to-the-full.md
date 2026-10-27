@@ -16,19 +16,19 @@ This looks like a bug to me.
 
 Please consider looking into it when have time. Thanks in advance.
 
-<1052hp 558ma 318mv>   +9   -1.4   1,553,116,988   433,357   indoors   Hellwell
+\<1052hp 558ma 318mv\> +9 -1.4 1,553,116,988 433,357 indoors Hellwell
 
 You are hungry.
 
-<1052hp 558ma 318mv>   +9   -1.4   1,553,116,988   433,357   indoors   Hellwell
+\<1052hp 558ma 318mv\> +9 -1.4 1,553,116,988 433,357 indoors Hellwell
 
 You are hungry.
 
-<1052hp 558ma 318mv>   +9   -1.4   1,553,116,988   433,357   indoors   Hellwell
+\<1052hp 558ma 318mv\> +9 -1.4 1,553,116,988 433,357 indoors Hellwell
 
 You are hungry.
 
-<1052hp 558ma 318mv>   +9   -1.4   1,553,116,988   433,357   indoors   Hellwell
+\<1052hp 558ma 318mv\> +9 -1.4 1,553,116,988 433,357 indoors Hellwell
 
 cast 'Feast'
 
@@ -36,7 +36,7 @@ Ok.
 
 A feast is spread out before you!
 
-<1052hp 523ma 318mv>   +9   -1.4   1,553,116,988   433,357   indoors   Hellwell
+\<1052hp 523ma 318mv\> +9 -1.4 1,553,116,988 433,357 indoors Hellwell
 
 cast 'Feast'
 
@@ -44,19 +44,19 @@ Ok.
 
 A feast is spread out before you!
 
-<1052hp 489ma 318mv>   +9   -1.4   1,553,116,988   433,357   indoors   Hellwell
+\<1052hp 489ma 318mv\> +9 -1.4 1,553,116,988 433,357 indoors Hellwell
 
 gorge
 
 Your stomach is still full, maybe empty it a little!
 
-<1052hp 491ma 318mv>   +9   -1.4   1,553,116,988   433,357   indoors   Hellwell
+\<1052hp 491ma 318mv\> +9 -1.4 1,553,116,988 433,357 indoors Hellwell
 
 score
 
-Ozzy   (level: 40)
+Ozzy (level: 40)
 
-Your levels:  Wa: 40 Cl: 40 Ma: 40 Ne: 40 Mo: 32 Dr: 21 Ba: 12 Th: 10 Av: 14 
+Your levels: Wa: 40 Cl: 40 Ma: 40 Ne: 40 Mo: 32 Dr: 21 Ba: 12 Th: 10 Av: 14 
 
 You are 33 years, 15 months, 29 days old.
 
@@ -100,35 +100,35 @@ You will parry.
 
 You are affected by the following spells:
 
-   Detect Invisible                 
+ Detect Invisible 
 
-   Sense Life                       
+ Sense Life 
 
-   Infravision                      
+ Infravision 
 
-   Darksight                        
+ Darksight 
 
-   Stone Skin                       
+ Stone Skin 
 
-   Greater Fluidity                 
+ Greater Fluidity 
 
-   An Unknown Blessing              
+ An Unknown Blessing 
 
-<1052hp 492ma 318mv>   +9   -1.4   1,553,116,988   433,357   indoors   Hellwell
+\<1052hp 492ma 318mv\> +9 -1.4 1,553,116,988 433,357 indoors Hellwell
 
 l
 
 Strange Cell
 
-   The walls of the cell are made of some strange glistening volcanic rock.  
+ The walls of the cell are made of some strange glistening volcanic rock. 
 
 They are smoothed and glazed as though made to entrap something of great energy
 
-or heat.  The walls of the cell have been hammered by blows beyond the strength
+or heat. The walls of the cell have been hammered by blows beyond the strength
 
-of man.  The inhabitant of the cell must have been trapped in torment for ages.
+of man. The inhabitant of the cell must have been trapped in torment for ages.
 
-Exits: [South]  
+Exits: [South] 
 
 There is a pitcher on the ground. [2]
 
@@ -158,19 +158,19 @@ A tormented spectre tests the limits of its master's control.
 
 A white-robed maiden with tiny white swan-like wings lounges here.
 
-<1052hp 493ma 318mv>   +9   -1.4   1,553,116,988   433,357   indoors   Hellwell
+\<1052hp 493ma 318mv\> +9 -1.4 1,553,116,988 433,357 indoors Hellwell
 
 gorge
 
 Your stomach is still full, maybe empty it a little!
 
-<1052hp 494ma 318mv>   +9   -1.4   1,553,116,988   433,357   indoors   Hellwell
+\<1052hp 494ma 318mv\> +9 -1.4 1,553,116,988 433,357 indoors Hellwell
 
 score
 
-Ozzy   (level: 40)
+Ozzy (level: 40)
 
-Your levels:  Wa: 40 Cl: 40 Ma: 40 Ne: 40 Mo: 32 Dr: 21 Ba: 12 Th: 10 Av: 14 
+Your levels: Wa: 40 Cl: 40 Ma: 40 Ne: 40 Mo: 32 Dr: 21 Ba: 12 Th: 10 Av: 14 
 
 You are 33 years, 15 months, 29 days old.
 
@@ -214,25 +214,25 @@ You will parry.
 
 You are affected by the following spells:
 
-   Detect Invisible                 
+ Detect Invisible 
 
-   Sense Life                       
+ Sense Life 
 
-   Infravision                      
+ Infravision 
 
-   Darksight                        
+ Darksight 
 
-   Stone Skin                       
+ Stone Skin 
 
-   Greater Fluidity                 
+ Greater Fluidity 
 
-   An Unknown Blessing              
+ An Unknown Blessing 
 
-<1052hp 530ma 318mv>   +9   -1.4   1,553,116,988   433,357   indoors   Hellwell
+\<1052hp 530ma 318mv\> +9 -1.4 1,553,116,988 433,357 indoors Hellwell
 
 You are hungry.
 
-<1052hp 533ma 318mv>   +9   -1.4   1,553,116,988   433,357   indoors   Hellwell
+\<1052hp 533ma 318mv\> +9 -1.4 1,553,116,988 433,357 indoors Hellwell
 
 cast 'Detect Disease' Ozzy
 
@@ -240,13 +240,13 @@ Ok.
 
 You aren't infected with any known disease.
 
-<1052hp 548ma 318mv>   +9   -1.4   1,553,116,988   433,357   indoors   Hellwell
+\<1052hp 548ma 318mv\> +9 -1.4 1,553,116,988 433,357 indoors Hellwell
 
 take food
 
 You deftly snatch a pie.
 
-<1052hp 558ma 318mv>   +9   -1.4   1,553,116,988   433,357   indoors   Hellwell
+\<1052hp 558ma 318mv\> +9 -1.4 1,553,116,988 433,357 indoors Hellwell
 
 eat food
 
@@ -290,7 +290,7 @@ At this moment it seems I cant reproduce the situation for 2 days already, eithe
 
 No one has done anything, it's just a rare occurrence because there is plenty of food present usually when you gorge, so your food level is usually higher than your water level. This issue would be more likely to occur if you gorge when there is plenty of water, but not much food, thus raising your water level higher than your food. 
 
-I'd say it's as much a feature as a bug. You can't gorge if your still bursting at the seems with water. Issue occurs rarely, can be fixed by puking, and by only gorging when there's plenty of food around. Nothing to fix really, other than user behavior. Unless perhaps u want breeze to add a message that clarifies what the problem is: if thirst>maxThirst then msg_player Your belly is too full of water at the moment. Wait for nature to take its course.
+I'd say it's as much a feature as a bug. You can't gorge if your still bursting at the seems with water. Issue occurs rarely, can be fixed by puking, and by only gorging when there's plenty of food around. Nothing to fix really, other than user behavior. Unless perhaps u want breeze to add a message that clarifies what the problem is: if thirst\>maxThirst then msg\_player Your belly is too full of water at the moment. Wait for nature to take its course.
 
 </div>
 
@@ -316,7 +316,7 @@ homes and businesses. Otherwise, it should empty your
 
 stomach quite effectively.
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -336,21 +336,21 @@ Gorge
 
 The gods refuse to protect the evil ones.
 
-<1081hp 416ma 287mv>   >> - <<   -10   -10.4   1,221,123,000   129,956   raining   Centaurs' Domain
+\<1081hp 416ma 287mv\> \>\> - \<\< -10 -10.4 1,221,123,000 129,956 raining Centaurs' Domain
 
-You quaff from a decanter of endless water.  It tastes like water.
+You quaff from a decanter of endless water. It tastes like water.
 
 You are absolutely stuffed.
 
 You found nothing to eat!
 
-<1083hp 417ma 288mv>   >> - <<   -10   -10.4   1,221,123,000   129,956   raining   Centaurs' Domain
+\<1083hp 417ma 288mv\> \>\> - \<\< -10 -10.4 1,221,123,000 129,956 raining Centaurs' Domain
 
 score
 
-Ozzy :)  (level: 40)
+Ozzy <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> (level: 40)
 
-Your levels:  Wa: 40 Cl: 40 Ma: 40 Ne: 40 Mo: 40 Dr: 21 Ba: 20 Th: 20 Av: 17 
+Your levels: Wa: 40 Cl: 40 Ma: 40 Ne: 40 Mo: 40 Dr: 21 Ba: 20 Th: 20 Av: 17 
 
 You are 28 years, 5 months, 29 days old.
 
@@ -394,33 +394,33 @@ You will parry.
 
 You are affected by the following spells:
 
-   Detect Invisible                 
+ Detect Invisible 
 
-   Sense Life                       
+ Sense Life 
 
-   Infravision                      
+ Infravision 
 
-   Darksight                        
+ Darksight 
 
-   Resist Cold                      
+ Resist Cold 
 
-   Stone Skin                       
+ Stone Skin 
 
-   Greater Fluidity                 
+ Greater Fluidity 
 
-   Rejuvenation                     
+ Rejuvenation 
 
-   Corona                           
+ Corona 
 
-   Greater Mobility                 
+ Greater Mobility 
 
-   Undead Visage
+ Undead Visage
 
 </div>
 
 <div class="post" data-post-id="36278" data-author="cyprimus" data-date="2015-12-09T08:35:40+00:00" data-subject="Re: Gorge not makes it to the full">
 
-You did not eat anything.  Need to have room in inventory to pick up food, and be able to see it etc..
+You did not eat anything. Need to have room in inventory to pick up food, and be able to see it etc..
 
 </div>
 
@@ -456,8 +456,8 @@ It seems being able to gorge, while either hungry or thirsty, would be the right
 
 <div class="post" data-post-id="36285" data-author="Yasik" data-date="2015-12-09T15:54:12+00:00" data-subject="Re: Gorge not makes it to the full">
 
-> **cyprimus wrote:**
-> You did not eat anything.  Need to have room in inventory to pick up food, and be able to see it etc..
+> <strong>cyprimus wrote:</strong>
+> You did not eat anything. Need to have room in inventory to pick up food, and be able to see it etc..
 
 We can grab food from the ground durking gorging process, no?
 
@@ -477,7 +477,7 @@ I thought the food goes right into my stomach bypassing inventory...
 
 <div class="post" data-post-id="36289" data-author="cyprimus" data-date="2015-12-10T20:09:08+00:00" data-subject="Re: Gorge not makes it to the full">
 
-Nope, still gotta be able to pick it up just like if you were doing it manually.  So need to be able to hold it, see it etc..
+Nope, still gotta be able to pick it up just like if you were doing it manually. So need to be able to hold it, see it etc..
 
 </div>
 
@@ -493,15 +493,15 @@ A feast is spread out before you!
 
 Gorge
 
-<1089hp 460ma 404mv>   >> - <<   +9   -0.3   1,382,764,662   544,847   indoors   Hellwell
+\<1089hp 460ma 404mv\> \>\> - \<\< +9 -0.3 1,382,764,662 544,847 indoors Hellwell
 
-You quaff from a decanter of endless water.  It tastes like water.
+You quaff from a decanter of endless water. It tastes like water.
 
 You are absolutely stuffed.
 
 You found nothing to eat!
 
-<1089hp 462ma 404mv>   >> - <<   +9   -0.3   1,382,764,662   544,847   indoors   Hellwell
+\<1089hp 462ma 404mv\> \>\> - \<\< +9 -0.3 1,382,764,662 544,847 indoors Hellwell
 
 east
 
@@ -509,11 +509,11 @@ As you step through the protective wall of flesh, it disintegrates into a pile o
 
 Twisting down into the Night
 
-Exits: North  West  
+Exits: North West 
 
 Bliss the peri arrives from the west.
 
-<1089hp 462ma 403mv>   >> - <<   +9   -0.3   1,382,764,662   544,847   indoors   Hellwell
+\<1089hp 462ma 403mv\> \>\> - \<\< +9 -0.3 1,382,764,662 544,847 indoors Hellwell
 
 i
 
@@ -529,13 +529,13 @@ swirling black and red robes
 
 a decanter of endless water
 
-<1089hp 422ma 404mv>   >> - <<   +9   -0.3   1,382,764,662   544,847   indoors   Hellwell
+\<1089hp 422ma 404mv\> \>\> - \<\< +9 -0.3 1,382,764,662 544,847 indoors Hellwell
 
 w
 
 Descending into The Dark
 
-Exits: North  East  [South]  West  
+Exits: North East [South] West 
 
 There is a pitcher on the ground.
 
@@ -555,61 +555,61 @@ A wedge of cheese is sitting on the ground.
 
 Bliss the peri arrives from the east.
 
-<1089hp 425ma 403mv>   >> - <<   +9   -0.3   1,382,764,662   544,847   indoors   Hellwell
+\<1089hp 425ma 403mv\> \>\> - \<\< +9 -0.3 1,382,764,662 544,847 indoors Hellwell
 
 take food
 
 You deftly snatch a date.
 
-<1089hp 427ma 404mv>   >> - <<   +9   -0.3   1,382,764,662   544,847   indoors   Hellwell
+\<1089hp 427ma 404mv\> \>\> - \<\< +9 -0.3 1,382,764,662 544,847 indoors Hellwell
 
 take food
 
 You deftly snatch assorted nuts.
 
-<1089hp 427ma 404mv>   >> - <<   +9   -0.3   1,382,764,662   544,847   indoors   Hellwell
+\<1089hp 427ma 404mv\> \>\> - \<\< +9 -0.3 1,382,764,662 544,847 indoors Hellwell
 
 take food
 
 You deftly snatch a pastry.
 
-<1089hp 427ma 404mv>   >> - <<   +9   -0.3   1,382,764,662   544,847   indoors   Hellwell
+\<1089hp 427ma 404mv\> \>\> - \<\< +9 -0.3 1,382,764,662 544,847 indoors Hellwell
 
 take food
 
 You deftly snatch assorted sweetmeats.
 
-<1089hp 428ma 404mv>   >> - <<   +9   -0.3   1,382,764,662   544,847   indoors   Hellwell
+\<1089hp 428ma 404mv\> \>\> - \<\< +9 -0.3 1,382,764,662 544,847 indoors Hellwell
 
 take food
 
 You deftly snatch an apple.
 
-<1089hp 428ma 404mv>   >> - <<   +9   -0.3   1,382,764,662   544,847   indoors   Hellwell
+\<1089hp 428ma 404mv\> \>\> - \<\< +9 -0.3 1,382,764,662 544,847 indoors Hellwell
 
 take food
 
 You pick up a wedge of cheese.
 
-<1089hp 429ma 404mv>   >> - <<   +9   -0.3   1,382,764,662   544,847   indoors   Hellwell
+\<1089hp 429ma 404mv\> \>\> - \<\< +9 -0.3 1,382,764,662 544,847 indoors Hellwell
 
 take food
 
 You deftly snatch a pastry.
 
-<1089hp 429ma 404mv>   >> - <<   +9   -0.3   1,382,764,662   544,847   indoors   Hellwell
+\<1089hp 429ma 404mv\> \>\> - \<\< +9 -0.3 1,382,764,662 544,847 indoors Hellwell
 
 take food
 
 You do not see a food here.
 
-<1089hp 430ma 404mv>   >> - <<   +9   -0.3   1,382,764,662   544,847   indoors   Hellwell
+\<1089hp 430ma 404mv\> \>\> - \<\< +9 -0.3 1,382,764,662 544,847 indoors Hellwell
 
 take food
 
 You do not see a food here.
 
-<1089hp 430ma 404mv>   >> - <<   +9   -0.3   1,382,764,662   544,847   indoors   Hellwell
+\<1089hp 430ma 404mv\> \>\> - \<\< +9 -0.3 1,382,764,662 544,847 indoors Hellwell
 
 gorge
 
@@ -617,7 +617,7 @@ Your stomach is still full, maybe empty it a little!
 
 put all.food swirling-black-red-robes
 
-<1089hp 432ma 404mv>   >> - <<   +9   -0.3   1,382,764,662   544,847   indoors   Hellwell
+\<1089hp 432ma 404mv\> \>\> - \<\< +9 -0.3 1,382,764,662 544,847 indoors Hellwell
 
 A pastry: Ok.
 
@@ -633,17 +633,17 @@ Assorted nuts: Ok.
 
 A date: Ok.
 
-<1089hp 432ma 404mv>   >> - <<   +9   -0.3   1,382,764,662   544,847   indoors   Hellwell
+\<1089hp 432ma 404mv\> \>\> - \<\< +9 -0.3 1,382,764,662 544,847 indoors Hellwell
 
 east
 
 Twisting down into the Night
 
-Exits: North  West  
+Exits: North West 
 
 Bliss the peri arrives from the west.
 
-<1089hp 434ma 401mv>   >> - <<   +9   -0.3   1,382,764,662   544,847   indoors   Hellwell
+\<1089hp 434ma 401mv\> \>\> - \<\< +9 -0.3 1,382,764,662 544,847 indoors Hellwell
 
 puke
 
@@ -651,7 +651,7 @@ You puke up the contents of your stomach.
 
 You are hungry.
 
-<1089hp 435ma 401mv>   >> - <<   +9   -0.3   1,382,764,662   544,847   indoors   Hellwell
+\<1089hp 435ma 401mv\> \>\> - \<\< +9 -0.3 1,382,764,662 544,847 indoors Hellwell
 
 puke
 
@@ -659,7 +659,7 @@ You puke up the contents of your stomach.
 
 You are hungry.
 
-<1089hp 435ma 401mv>   >> - <<   +9   -0.3   1,382,764,662   544,847   indoors   Hellwell
+\<1089hp 435ma 401mv\> \>\> - \<\< +9 -0.3 1,382,764,662 544,847 indoors Hellwell
 
 puke
 
@@ -667,7 +667,7 @@ You puke up the contents of your stomach.
 
 You are hungry.
 
-<1089hp 436ma 401mv>   >> - <<   +9   -0.3   1,382,764,662   544,847   indoors   Hellwell
+\<1089hp 436ma 401mv\> \>\> - \<\< +9 -0.3 1,382,764,662 544,847 indoors Hellwell
 
 puke
 
@@ -675,7 +675,7 @@ You puke up the contents of your stomach.
 
 You are hungry.
 
-<1089hp 436ma 401mv>   >> - <<   +9   -0.3   1,382,764,662   544,847   indoors   Hellwell
+\<1089hp 436ma 401mv\> \>\> - \<\< +9 -0.3 1,382,764,662 544,847 indoors Hellwell
 
 puke
 
@@ -685,19 +685,19 @@ You are thirsty.
 
 You are hungry.
 
-<1089hp 436ma 401mv>   >> - <<   +9   -0.3   1,382,764,662   544,847   indoors   Hellwell
+\<1089hp 436ma 401mv\> \>\> - \<\< +9 -0.3 1,382,764,662 544,847 indoors Hellwell
 
 puke
 
 You wretch, but your stomach is now empty.
 
-<1089hp 437ma 402mv>   >> - <<   +9   -0.3   1,382,764,662   544,847   indoors   Hellwell
+\<1089hp 437ma 402mv\> \>\> - \<\< +9 -0.3 1,382,764,662 544,847 indoors Hellwell
 
 w
 
 Descending into The Dark
 
-Exits: North  East  [South]  West  
+Exits: North East [South] West 
 
 There is a pitcher on the ground.
 
@@ -705,7 +705,7 @@ A glass of water is standing here. [3]
 
 Bliss the peri arrives from the east.
 
-<1089hp 437ma 401mv>   >> - <<   +9   -0.3   1,382,764,662   544,847   indoors   Hellwell
+\<1089hp 437ma 401mv\> \>\> - \<\< +9 -0.3 1,382,764,662 544,847 indoors Hellwell
 
 get all.food swirling-black-red-robes
 
@@ -723,13 +723,13 @@ You get a wedge of cheese from swirling black and red robes.
 
 You get a pastry from swirling black and red robes.
 
-<1089hp 441ma 402mv>   >> - <<   +9   -0.3   1,382,764,662   544,847   indoors   Hellwell
+\<1089hp 441ma 402mv\> \>\> - \<\< +9 -0.3 1,382,764,662 544,847 indoors Hellwell
 
 You are hungry.
 
 You are thirsty.
 
-<1089hp 442ma 403mv>   >> - <<   +9   -0.3   1,382,764,662   544,847   indoors   Hellwell
+\<1089hp 442ma 403mv\> \>\> - \<\< +9 -0.3 1,382,764,662 544,847 indoors Hellwell
 
 drop all.food
 
@@ -747,7 +747,7 @@ You drop assorted nuts.
 
 You drop a date.
 
-<1089hp 443ma 403mv>   >> - <<   +9   -0.3   1,382,764,662   544,847   indoors   Hellwell
+\<1089hp 443ma 403mv\> \>\> - \<\< +9 -0.3 1,382,764,662 544,847 indoors Hellwell
 
 cast 'Feast'
 
@@ -755,7 +755,7 @@ Ok.
 
 A feast is spread out before you!
 
-<1089hp 409ma 403mv>   >> - <<   +9   -0.3   1,382,764,662   544,847   indoors   Hellwell
+\<1089hp 409ma 403mv\> \>\> - \<\< +9 -0.3 1,382,764,662 544,847 indoors Hellwell
 
 cast 'Feast'
 
@@ -763,11 +763,11 @@ Ok.
 
 A feast is spread out before you!
 
-<1089hp 375ma 404mv>   >> - <<   +9   -0.3   1,382,764,662   544,847   indoors   Hellwell
+\<1089hp 375ma 404mv\> \>\> - \<\< +9 -0.3 1,382,764,662 544,847 indoors Hellwell
 
 gorge
 
-You quaff from a decanter of endless water.  It tastes like water.
+You quaff from a decanter of endless water. It tastes like water.
 
 You snatch assorted sweetmeats from the ground.
 

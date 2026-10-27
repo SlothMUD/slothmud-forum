@@ -24,7 +24,7 @@ But the above at a minimum will take place.
 
 Happy Fourth upcoming,
 
---Idjit
+\--Idjit
 
 </div>
 

@@ -14,18 +14,18 @@ post_count: 1
 
 Mudlet Chop Counter Attached.
 
-1) Load the Trigger and Alias files into Mudlet using the package manager.
+1\) Load the Trigger and Alias files into Mudlet using the package manager.
 
-2) Join a group and type "chopon" to clear and activate the counter and "chopoff" to deactive the counter.
+2\) Join a group and type "chopon" to clear and activate the counter and "chopoff" to deactive the counter.
 
 NOTES:
 
-* Head chops are counted as regular chops.
+\* Head chops are counted as regular chops.
 
-* Chop report only occurs on mob death.
+\* Chop report only occurs on mob death.
 
-* Members in a group are automatically added to the chop counter.
+\* Members in a group are automatically added to the chop counter.
 
-* Only chops from group members are counted.
+\* Only chops from group members are counted.
 
 </div>

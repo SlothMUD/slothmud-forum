@@ -76,6 +76,6 @@ I could help out, but not until I finish my degree.. which isn't that far away..
 
 I think you've accidently left wizlock on... let me in!
 
-How much longer?  :twisted:
+How much longer? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

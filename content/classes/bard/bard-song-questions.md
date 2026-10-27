@@ -24,11 +24,11 @@ Oh, a message to the immorts: Give Bards the ability to build off one another! I
 
 <div class="post" data-post-id="21921" data-author="Leaf" data-date="2008-01-09T18:33:17+00:00" data-subject="">
 
-If another Bard is playing the same song, urs wouldn't work.  Also Lions
+If another Bard is playing the same song, urs wouldn't work. Also Lions
 
 and Gods ... Gods adds more dam so it takes effect and then Lions if any
 
-needs it.  Ooo same with Brothers and Valor too.
+needs it. Ooo same with Brothers and Valor too.
 
 </div>
 
@@ -46,7 +46,7 @@ peace out
 
 Would like sanct for the soul and body, and 7 luck to work more. There are very few higher bards that play and they definitely help the group dynamic.
 
-A good bard will usually sing more than one song at a time, I learned this from Mike and when I play mine I try to keep Oghams up for the tank and Gods up for the rest of the group. I used to try to keep brothers up for the stabber but since its been changed not much point in that. Bard primes get an advantage of using good instruments that let the song last  longer for less mana and have greater affects and add to the number of people they affect. Also attunement to mental is awesome for bards as almost if not all songs are mental.
+A good bard will usually sing more than one song at a time, I learned this from Mike and when I play mine I try to keep Oghams up for the tank and Gods up for the rest of the group. I used to try to keep brothers up for the stabber but since its been changed not much point in that. Bard primes get an advantage of using good instruments that let the song last longer for less mana and have greater affects and add to the number of people they affect. Also attunement to mental is awesome for bards as almost if not all songs are mental.
 
 Alias (Fez)
 
@@ -54,7 +54,8 @@ Alias (Fez)
 
 <div class="post" data-post-id="21937" data-author="Assirian" data-date="2008-01-10T07:58:25+00:00" data-subject="Re: Bard song questions">
 
-There are several instances where I'd target the leader of the group and only affect two people (out of 6) or sometimes even 1, maybe not even the intended target![/quote:1imlqhze]
+> <strong>Widow wrote:</strong>
+> There are several instances where I'd target the leader of the group and only affect two people (out of 6) or sometimes even 1, maybe not even the intended target!
 
 This may happen if the group is already affected by ur song, but u start sing again, without waiting of effect fading out. 
 
@@ -66,11 +67,11 @@ About charisma infuence.. don't know - i can sing gods for maximum allowed with 
 
 <div class="post" data-post-id="21945" data-author="Vixn" data-date="2008-01-10T19:01:37+00:00" data-subject="">
 
-1. Charisma helps for cry to make more damage. This is only 1 purpose I have noticed. Though it should help for other songs but you'd better test it yourself. As for me I prefer to have charisma on max level when I play my bard.
+1\. Charisma helps for cry to make more damage. This is only 1 purpose I have noticed. Though it should help for other songs but you'd better test it yourself. As for me I prefer to have charisma on max level when I play my bard.
 
-2. About targeting songs - last time I played 'brothers in arms' for poker I noticed it plays his name right after me in the list of affected people. But it was like  half year ago. Then I learned 'brothers in valor' and found targeting is screwed for that song or just works different. Since I don't play my bard much I don't tested it yet.
+2\. About targeting songs - last time I played 'brothers in arms' for poker I noticed it plays his name right after me in the list of affected people. But it was like half year ago. Then I learned 'brothers in valor' and found targeting is screwed for that song or just works different. Since I don't play my bard much I don't tested it yet.
 
-3. About oghams psalm - does it really help to parry? I didn't see tanks parry  more then once per round and as for me I didn't notice they fail it much w/o psalm.
+3\. About oghams psalm - does it really help to parry? I didn't see tanks parry more then once per round and as for me I didn't notice they fail it much w/o psalm.
 
 </div>
 
@@ -110,9 +111,8 @@ Thnx
 
 <div class="post" data-post-id="21974" data-author="Assirian" data-date="2008-01-11T12:04:35+00:00" data-subject="">
 
-Does it matter if those ppl in the group are full or not? Will it automatically target those ppl who need the mana regen?
-
-[/quote:q7xjmjf2]
+> <strong>Widow wrote:</strong>
+> Does it matter if those ppl in the group are full or not? Will it automatically target those ppl who need the mana regen?
 
 My expirience said it target everybody sleeping. Full or not.
 

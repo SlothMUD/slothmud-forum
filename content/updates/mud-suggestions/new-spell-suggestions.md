@@ -14,11 +14,11 @@ post_count: 8
 
 Got a couple of spell suggestions that I think some form of may have been called for with the new traps/cache stuff and those of us without th or bard in classo.
 
-#1 How about a spell like the lev 2 cleric find traps with a higher lev remove traps.
+\#1 How about a spell like the lev 2 cleric find traps with a higher lev remove traps.
 
-#2 maybe add the ability to perception to look at a cache and spot a trap this would definately be an improvement to that spell.
+\#2 maybe add the ability to perception to look at a cache and spot a trap this would definately be an improvement to that spell.
 
-#3 An avatar version of perception that allows the player to see inventory/caches this would be a very large help in spotting things.
+\#3 An avatar version of perception that allows the player to see inventory/caches this would be a very large help in spotting things.
 
 Just some thoughts
 
@@ -30,7 +30,7 @@ Blastem
 
 oh forgot one...
 
-#4 cleric spell cure paralysis
+\#4 cleric spell cure paralysis
 
 </div>
 
@@ -42,7 +42,7 @@ oh forgot one...
 
 <div class="post" data-post-id="9885" data-author="kjartan" data-date="2005-12-20T17:07:57+00:00" data-subject="">
 
-#4 is a good idea; I'll add it.
+\#4 is a good idea; I'll add it.
 
 The other ones are encroaching an awful lot on thief skills, I don't like them so much.
 
@@ -50,7 +50,7 @@ The other ones are encroaching an awful lot on thief skills, I don't like them s
 
 <div class="post" data-post-id="9893" data-author="Weasel" data-date="2005-12-20T23:02:22+00:00" data-subject="">
 
-can you cast cure paralysis on yourself?   :twisted:  ..had to try..
+can you cast cure paralysis on yourself? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> ..had to try..
 
 </div>
 
@@ -62,7 +62,7 @@ Sort of; wait and see.
 
 <div class="post" data-post-id="9897" data-author="Weasel" data-date="2005-12-21T01:11:01+00:00" data-subject="">
 
-hmm.. resist paralysis?  :shock:
+hmm.. resist paralysis? <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -72,10 +72,10 @@ Are 'resist acid' and 'resist electricity' on the list by any chance?
 
 Shazuko Roku Ryuu 
 
-<Shazuko Six Dragons>
+\<Shazuko Six Dragons\>
 
-<~Chaos~>
+\<\~Chaos\~\>
 
-ps--Seasons Beatings to all   :twisted:
+ps--Seasons Beatings to all <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

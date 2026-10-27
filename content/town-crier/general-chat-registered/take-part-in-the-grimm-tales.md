@@ -32,7 +32,7 @@ AC-apply is -0.1
 
 Can affect you as:
 
-    Affects: MANA by 5
+ Affects: MANA by 5
 
 Only those who are at least adept magic users, clerics, druids,
 
@@ -50,9 +50,9 @@ AC-apply is -0.2
 
 Can affect you as:
 
-    Affects: STR by 1
+ Affects: STR by 1
 
-    Affects: HITROLL by 1
+ Affects: HITROLL by 1
 
 Only those who are at least adept magic users, clerics, thieves, warriors,
 
@@ -70,9 +70,9 @@ AC-apply is -0.2
 
 Can affect you as:
 
-    Affects: CON by 1
+ Affects: CON by 1
 
-    Affects: RESIST_COLD by 10
+ Affects: RESIST\_COLD by 10
 
 Only those who are at least adept thieves, warriors, bards, or monks may
 
@@ -90,11 +90,11 @@ Damage Dice is '2D5'
 
 Can affect you as:
 
-    Affects: HITROLL by 1
+ Affects: HITROLL by 1
 
-    Affects: DAMROLL by 1
+ Affects: DAMROLL by 1
 
-    Affects: INFRAVISION by 1
+ Affects: INFRAVISION by 1
 
 Only those who are at least apprentice magic users, clerics, thieves,
 
@@ -112,9 +112,9 @@ Weight: 3, Value: 2000gold, Worn in: TAKE LEGS
 
 Can affect you as:
 
-    Affects: ARMOR by -7
+ Affects: ARMOR by -7
 
-    Affects: RESIST_FIRE by 10
+ Affects: RESIST\_FIRE by 10
 
 Only those who are at least apprentice magic users, clerics, thieves,
 
@@ -132,7 +132,7 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: INT by 1
+ Affects: INT by 1
 
 Only those who are at least apprentice magic users, druids, or necromancers
 
@@ -150,9 +150,9 @@ Weight: 3, Value: 5000gold, Worn in: TAKE ABOUT
 
 Can affect you as:
 
-    Affects: UNDEAD_CONTROL by 1
+ Affects: UNDEAD\_CONTROL by 1
 
-    Affects: ARMOR by -2
+ Affects: ARMOR by -2
 
 Only those who are at least adept necromancers may use this item.
 
@@ -166,9 +166,9 @@ Weight: 0, Value: 0gold, Worn in: TAKE HOLD
 
 Can affect you as:
 
-    Affects: HITROLL by 1
+ Affects: HITROLL by 1
 
-    Affects: STR by 1
+ Affects: STR by 1
 
 Only those who are at least apprentice magic users, clerics, thieves,
 
@@ -186,9 +186,9 @@ AC-apply is -0.1
 
 Can affect you as:
 
-    Affects: SAVING_POISON by -1
+ Affects: SAVING\_POISON by -1
 
-    Affects: MOVE by 10
+ Affects: MOVE by 10
 
 Only those who are at least apprentice magic users, clerics, thieves,
 
@@ -204,7 +204,7 @@ Weight: 1, Value: 100gold, Worn in: TAKE HOLD
 
 Can affect you as:
 
-    Affects: HITROLL by 1
+ Affects: HITROLL by 1
 
 the sheep:
 
@@ -228,7 +228,7 @@ Humpty Dumpty pops eggshells.
 
 There's a forge note that reads:
 
-> **Quote:**
+> <strong>Quote:</strong>
 > "high above the trails of snow,
 > 
 > in caverns deep where fires blow
@@ -255,7 +255,7 @@ Thanks everyone for following me.
 
 <div class="post" data-post-id="36759" data-author="Yasik" data-date="2016-03-21T07:46:09+00:00" data-subject="Re: Take part in the Grimm Tales">
 
-Area seems ok for lowbies to hunt and pop spellbooks, with one exception IIRC - small fleeing mobs breaking Mage 20 webs >> players will have to bring moldy-scrolls >> which cost ~500 coins (cheaper on VK) >> quite a lot for a lowbie to spend on kobold-size mob; I see it can be adjusted by removing 'flee' option from mobs at all, or make them weak enough not to break 20- webs.
+Area seems ok for lowbies to hunt and pop spellbooks, with one exception IIRC - small fleeing mobs breaking Mage 20 webs \>\> players will have to bring moldy-scrolls \>\> which cost \~500 coins (cheaper on VK) \>\> quite a lot for a lowbie to spend on kobold-size mob; I see it can be adjusted by removing 'flee' option from mobs at all, or make them weak enough not to break 20- webs.
 
 Also, I think I should mention this to Neptune, that personalized drachma tokens was not the best idea and how leader and looter failed to redistribute those between participants and just kept for themselves - this is definitely olde good Sloth 3 style we hated so much and thought to finally got rid of, but it seems no.
 
@@ -263,7 +263,7 @@ As "Yasik" character, I dont need drachma at all, bc I cant buy and wear drachma
 
 You two, Taron and Pushkin (Juggleblood), your greed is disgustingly repulsive. There is no way I'm joining any activity you lead or perform in the future, ever, bc I dont want to be used by you for your personal gain, others should consider this as well - low moral and ethical standarts of this two guys and greed beyond measure as if there is no tomorrow.
 
-It is hard for me to believe that you two choose silly ~10 drachmas over reputation.
+It is hard for me to believe that you two choose silly \~10 drachmas over reputation.
 
 </div>
 
@@ -273,7 +273,7 @@ Thank you for the new area Neptune! Also Taron/Tiron for leading!
 
 On top of the list here are some additional items:-
 
-Jack & Jill:
+Jack \& Jill:
 
 Object 'grimm crown jack copper', Item type: ARMOR
 
@@ -285,7 +285,7 @@ AC-apply is -0.7
 
 Can affect you as:
 
-    Affects: MANA by 10
+ Affects: MANA by 10
 
 Only those who are at least adept magic users, druids, necromancers, or
 
@@ -303,9 +303,9 @@ AC-apply is -0.2
 
 Can affect you as:
 
-    Affects: HITROLL by 1
+ Affects: HITROLL by 1
 
-    Affects: HITPOINT by 5
+ Affects: HITPOINT by 5
 
 Only those who are at least apprentice clerics, thieves, warriors, bards,
 
@@ -323,15 +323,15 @@ Weight: 1, Value: 2500gold, Worn in: TAKE INSTRUMENT
 
 This instrument enhances accompanied bard songs.
 
-   Bard effects last 28% longer.
+ Bard effects last 28% longer.
 
-   Bard songs use 5% less mana.
+ Bard songs use 5% less mana.
 
-   Bard songs can be heard by 1 more people.
+ Bard songs can be heard by 1 more people.
 
 Can affect you as:
 
-    Affects: CHARISMA by 1
+ Affects: CHARISMA by 1
 
 Only those who are primary adept bards may use this item.
 
@@ -347,9 +347,9 @@ AC-apply is -0.3
 
 Can affect you as:
 
-    Affects: MANA by 5
+ Affects: MANA by 5
 
-    Affects: MOVE by 10
+ Affects: MOVE by 10
 
 Only those who are at least apprentice magic users, clerics, thieves,
 
@@ -375,9 +375,9 @@ AC-apply is -0.2
 
 Can affect you as:
 
-    Affects: HITPOINT by 10
+ Affects: HITPOINT by 10
 
-    Affects: RESIST_DISEASE by 10
+ Affects: RESIST\_DISEASE by 10
 
 Only those who are at least apprentice magic users, clerics, thieves,
 
@@ -395,9 +395,9 @@ AC-apply is -1.4
 
 Can affect you as:
 
-    Affects: CON by 1
+ Affects: CON by 1
 
-    Affects: RESIST_COLD by 10
+ Affects: RESIST\_COLD by 10
 
 Only those who are at least adept magic users, clerics, thieves, warriors,
 
@@ -405,7 +405,7 @@ druids, necromancers, bards, or monks may use this item.
 
 Also, tons of random newbie spellbooks popped from all the mobs in the area. 
 
-***************EDIT**************************
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*EDIT\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 Solomon Grundy:
 
@@ -419,9 +419,9 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: MANA by 5
+ Affects: MANA by 5
 
-    Affects: HITPOINT by 10
+ Affects: HITPOINT by 10
 
 Only those who are at least adept magic users, clerics, thieves, warriors,
 
@@ -449,7 +449,7 @@ In the end, I think 4 ppl looted.
 
 If you haven't gotten any drachma out of the quest (my log doesn't show it), please contact Neptune, I'm sure he'll provide you a reasonable retribution, as he personally gave ducats to Uly and Gandalf at the end of the quest.
 
-If you aren't satisfied with the reward, feel free to demand from Neptune 10dr at **Tiron**'s expense - I'll provide confirmation and drachma to Neptune online.
+If you aren't satisfied with the reward, feel free to demand from Neptune 10dr at <strong>Tiron</strong>'s expense - I'll provide confirmation and drachma to Neptune online.
 
 Cheers.
 

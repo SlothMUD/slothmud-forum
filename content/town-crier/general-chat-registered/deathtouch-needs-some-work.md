@@ -14,7 +14,7 @@ post_count: 6
 
 Most avatar monks look forward and are disapointed by deathtouch. I tracked 500 deathtouches and landed 378... You miss an entire 1/4th the time.
 
-Theres some funky logic in there because grip lands 90% of the time (at least for the 500 trys of deathgrip I tried) which makes sense when you calculate the .95 chance of hitting * the .95 chance of deathgrip. But dtouch is practiced up to 85%... .85 *.95 should be an 80% hit rate but it isnt, its 75, and thats still pretty big.
+Theres some funky logic in there because grip lands 90% of the time (at least for the 500 trys of deathgrip I tried) which makes sense when you calculate the .95 chance of hitting \* the .95 chance of deathgrip. But dtouch is practiced up to 85%... .85 \*.95 should be an 80% hit rate but it isnt, its 75, and thats still pretty big.
 
 Now sure, you can touch nostab mobs, but so what? You do less damage than a single stab and you only get one touch, and you fail 1/4th the time and you have a full round of lag, so if you miss you cant disengage or retreat... and you miss a lot. With grip its 1/10th... you miss less than half as often, and do almost as much as a touch. Never mind that monks dont like music like thieves do, and arent hit by any of the brothers songs.
 
@@ -28,7 +28,7 @@ If you want to keep dtouch more risky than grip, fine, but make it slightly more
 
 <div class="post" data-post-id="16365" data-author="13" data-date="2007-01-19T12:35:25+00:00" data-subject="">
 
-You don't do less than a single unless you're running +10 and comparing vs Medios or something.  The rest is garbage though.  I agree with Z.
+You don't do less than a single unless you're running +10 and comparing vs Medios or something. The rest is garbage though. I agree with Z.
 
 </div>
 
@@ -44,11 +44,11 @@ Alias
 
 <div class="post" data-post-id="16387" data-author="12345" data-date="2007-01-20T02:12:18+00:00" data-subject="">
 
-The part about bros is off I think.  Deathtouch is definately not affected by bros, but I'm more or less certain that grip is.  You won't get as much benefit as a thief stabbing though.
+The part about bros is off I think. Deathtouch is definately not affected by bros, but I'm more or less certain that grip is. You won't get as much benefit as a thief stabbing though.
 
 If I remember correctly, I use grip and touch interchangably depending what I'm hitting.
 
-If I were to suggest an improvement though, it would be to focus/kensai.  Seems if you're spending all that time focusing on your target, you should have a slightly better idea how to hit it.
+If I were to suggest an improvement though, it would be to focus/kensai. Seems if you're spending all that time focusing on your target, you should have a slightly better idea how to hit it.
 
 </div>
 
@@ -62,7 +62,7 @@ Splork
 
 <div class="post" data-post-id="16417" data-author="alias" data-date="2007-01-21T02:32:15+00:00" data-subject="">
 
-thanx much. :D 
+thanx much. <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> 
 
 Alias
 

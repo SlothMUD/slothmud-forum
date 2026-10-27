@@ -26,7 +26,7 @@ here you go..
 
 I got tired of trying to find it also, so I hosted it on my site a few years back.
 
-[img:2e1tegf7]http://pirates.xgenco.com/avatarlist.gif[/img:2e1tegf7]
+![](http://pirates.xgenco.com/avatarlist.gif)
 
 </div>
 
@@ -44,12 +44,12 @@ Helpful Auto is helpful !
 
 <div class="post" data-post-id="26800" data-author="Yasik2" data-date="2008-10-21T19:42:22+00:00" data-subject="">
 
-Since noone understood teh irony - Captain Obvious to the rescue![/color:12plar3v]
+Since noone understood teh irony - Captain Obvious to the rescue!
 
-Avatar bonuses are located in the first thread from the top[/color:12plar3v] on this phorum, always, marked :
+Avatar bonuses are located in the first thread from the top on this phorum, always, marked :
 
-Sticky: Avatar Guide[/color:12plar3v][/size:12plar3v].
+Sticky: Avatar Guide.
 
-All thank Captain Obvious![/color:12plar3v]
+All thank Captain Obvious!
 
 </div>

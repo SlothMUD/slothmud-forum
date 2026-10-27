@@ -14,9 +14,9 @@ post_count: 29
 
 Might be some kind of bug - I'm not getting any credit for mapping Matterhorn Caverns
 
-You have not explored this area at all.  -- keeps saying that although I went through a large amount of the area.
+You have not explored this area at all. -- keeps saying that although I went through a large amount of the area.
 
-Anyone succeeded in mapping 100% of Settlestone area?  Damned if I know what I'm missing. been through town, air, citadel, e and w of town, vault area...
+Anyone succeeded in mapping 100% of Settlestone area? Damned if I know what I'm missing. been through town, air, citadel, e and w of town, vault area...
 
 </div>
 
@@ -24,21 +24,21 @@ Anyone succeeded in mapping 100% of Settlestone area?  Damned if I know what I'm
 
 use perception and wall bumping and read room descs to see if there are perhaps trig traps....
 
-"they don't advertise for killers in the newspaper" -- deckard --> blade runner
+"they don't advertise for killers in the newspaper" -- deckard --\> blade runner
 
 </div>
 
 <div class="post" data-post-id="18375" data-author="Malison" data-date="2007-05-07T15:04:18+00:00" data-subject="">
 
-In several areas I've been through every room I can find, gone on maproom, read room descripts, and done look <direction>, and still gotten no or partial credit.  Matterhorn Cavern, DoT, and ET for example all are giving the You have not explored this area at all.  I've got this thought that notrack areas might not give credit or that several areas were left out, whether on purpose or not.
+In several areas I've been through every room I can find, gone on maproom, read room descripts, and done look \<direction\>, and still gotten no or partial credit. Matterhorn Cavern, DoT, and ET for example all are giving the You have not explored this area at all. I've got this thought that notrack areas might not give credit or that several areas were left out, whether on purpose or not.
 
-I still haven't figured out what the one BH town room is that I looked for for an hour and then randomly went through two days later.  It's probably not even in town, like how the AH ticket guy is "in" Castle Zodiac for some reason.
+I still haven't figured out what the one BH town room is that I looked for for an hour and then randomly went through two days later. It's probably not even in town, like how the AH ticket guy is "in" Castle Zodiac for some reason.
 
 </div>
 
 <div class="post" data-post-id="18380" data-author="kjartan" data-date="2007-05-07T16:15:42+00:00" data-subject="">
 
-Yes, there are some areas that are counted off-map due to a bug.  I have been out of town for the last week with no mud access, but I'll have a look at them tonight.
+Yes, there are some areas that are counted off-map due to a bug. I have been out of town for the last week with no mud access, but I'll have a look at them tonight.
 
 </div>
 
@@ -46,11 +46,11 @@ Yes, there are some areas that are counted off-map due to a bug.  I have been ou
 
 Here are a couple rooms to think about Malison -
 
-SS - Room East of the Stables (where the horses spawn)  it can not be accessed w/o teleport, etc.  I know of one vault area that is technically in Settlestone too.
+SS - Room East of the Stables (where the horses spawn) it can not be accessed w/o teleport, etc. I know of one vault area that is technically in Settlestone too.
 
 BH - Stables maybe the same way.
 
-Also it seems that any area with a trig trap to enter has issues.  I have personally explored every room within Tarot and The Maze, both of which do not give any credit for exploration.
+Also it seems that any area with a trig trap to enter has issues. I have personally explored every room within Tarot and The Maze, both of which do not give any credit for exploration.
 
 I have not confirmed this, but was told that there is the same issue for all of Lyme.
 
@@ -62,7 +62,7 @@ Madmax
 
 <div class="post" data-post-id="18416" data-author="kjartan" data-date="2007-05-08T05:41:22+00:00" data-subject="">
 
-It turns out I need a reboot before I can fix this stuff.  So, hopefully tomorrow.  Also, I am still working on the world's-best-explorers board.
+It turns out I need a reboot before I can fix this stuff. So, hopefully tomorrow. Also, I am still working on the world's-best-explorers board.
 
 </div>
 
@@ -72,13 +72,13 @@ minor suggestion..
 
 possibly add the (% world explored) to player finger
 
-maybe even add xp loss too.. I know Yinao's and mine would be amusing  :shock:
+maybe even add xp loss too.. I know Yinao's and mine would be amusing <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="18820" data-author="Yinao" data-date="2007-06-09T16:08:19+00:00" data-subject="">
 
-Pfft, you make it sound as if it would be close Auto.... I will always win the -xps column! 10 con for the win or loss depending how you look at it :oops:
+Pfft, you make it sound as if it would be close Auto.... I will always win the -xps column! 10 con for the win or loss depending how you look at it <img src="/images/smilies/icon_redface.svg" alt=":oops:" title=":oops:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -90,7 +90,7 @@ the pyramid expansion is one of these
 
 <div class="post" data-post-id="18822" data-author="Autolycos" data-date="2007-06-09T18:16:14+00:00" data-subject="">
 
-one of these what?  
+one of these what? 
 
 can you be a little more vague?
 
@@ -100,7 +100,7 @@ can you be a little more vague?
 
 I thought this was about areas that don't count or get 'explored' in your %, come on jason..
 
-[img:1h3eorw3]http://www.bradleysalmanac.com/pictures/dec-2004/ketchup.jpg[/img:1h3eorw3]
+![](http://www.bradleysalmanac.com/pictures/dec-2004/ketchup.jpg)
 
 </div>
 
@@ -112,7 +112,7 @@ i'll take burger-licious for 200 Alex
 
 <div class="post" data-post-id="18826" data-author="12345" data-date="2007-06-10T00:20:09+00:00" data-subject="">
 
-The answer:  At eleven, this actress made her motion picture debut by playing both twins in Disney's 1998 remake of The Parent Trap.
+The answer: At eleven, this actress made her motion picture debut by playing both twins in Disney's 1998 remake of The Parent Trap.
 
 </div>
 
@@ -162,7 +162,7 @@ what is 'the birth of the pirate clan' alex
 
 <div class="post" data-post-id="18840" data-author="Autolycos" data-date="2007-06-11T18:24:18+00:00" data-subject="">
 
-since i have the death covered, then i guess that would make you the pile of feces sitting next to us  :twisted:
+since i have the death covered, then i guess that would make you the pile of feces sitting next to us <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -184,7 +184,7 @@ Mike
 
 <div class="post" data-post-id="18843" data-author="Leaf" data-date="2007-06-11T21:48:43+00:00" data-subject="">
 
-Please do Mike, I don't ever recalling the whole situation.  And I believe it's actually you and AA's story for each other :)
+Please do Mike, I don't ever recalling the whole situation. And I believe it's actually you and AA's story for each other <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -198,9 +198,9 @@ i know you remember crying and calling me
 
 <div class="post" data-post-id="18856" data-author="firebrand" data-date="2007-06-12T13:00:07+00:00" data-subject="">
 
-oh don't worry about will crying.  he told me that he was crying because that was HIS dildo - not his mom's and he was sad because she wouldn't strap it on and use it on him
+oh don't worry about will crying. he told me that he was crying because that was HIS dildo - not his mom's and he was sad because she wouldn't strap it on and use it on him
 
-"first you want to kill me, then you want to kiss me.  blow" --ash -->army of darkness
+"first you want to kill me, then you want to kiss me. blow" --ash --\>army of darkness
 
 </div>
 
@@ -208,11 +208,11 @@ oh don't worry about will crying.  he told me that he was crying because that wa
 
 Actually Reb, the "story" is that the dildo was "stuck" up my ass when I called
 
-AA.  Now I don't know why they like this "story" so much, and the fact AA
+AA. Now I don't know why they like this "story" so much, and the fact AA
 
 lives about 6hrs away from me doesn't help.
 
-But I like your "story" to Reb.  What ever turns you guys/gals on.  
+But I like your "story" to Reb. What ever turns you guys/gals on. 
 
 "Do I make you horny baby?"
 
@@ -220,9 +220,9 @@ But I like your "story" to Reb.  What ever turns you guys/gals on.
 
 <div class="post" data-post-id="18858" data-author="firebrand" data-date="2007-06-12T14:10:47+00:00" data-subject="">
 
-oh so you were crying because the batteries ran down and there was no one to replace them for you.  i see.  next time use duracell, not those generic dollar store batteries.
+oh so you were crying because the batteries ran down and there was no one to replace them for you. i see. next time use duracell, not those generic dollar store batteries.
 
-"come and get it!  it's a running buffet!" --shaun --> shaun of the dead
+"come and get it! it's a running buffet!" --shaun --\> shaun of the dead
 
 </div>
 
@@ -238,6 +238,6 @@ don't be coy will
 
 <div class="post" data-post-id="18860" data-author="Leaf" data-date="2007-06-12T15:18:13+00:00" data-subject="">
 
-Ooo so this story was 9yrs ago?  ok didn't know it was that far ago :)
+Ooo so this story was 9yrs ago? ok didn't know it was that far ago <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

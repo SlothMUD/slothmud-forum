@@ -18,7 +18,7 @@ I hope everyone is well and healthy!
 
 I have to say, that is one great addition - the Quest page and I could not help but notice this :
 
-" satan	  Major Payne	  Four Towers Arena	 	Enable Special: Fargate"
+" satan Major Payne Four Towers Arena Enable Special: Fargate"
 
 Now of course I know for a fact this skill or say spell has been around for many many years and we also have perhaps a replica of it's feature but help fargate says this " This spell is restricted for immortal use and cannot be learned by players."
 
@@ -48,7 +48,7 @@ AFAIK noone ever completed it.
 
 <div class="post" data-post-id="35502" data-author="Ker" data-date="2014-11-11T08:09:22+00:00" data-subject="Re: Fargate Skill/Spell">
 
-Yay, thank you for the clarification Breeze ;)
+Yay, thank you for the clarification Breeze <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 Kind regards,
 

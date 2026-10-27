@@ -12,7 +12,7 @@ post_count: 9
 
 <div class="post" data-post-id="30124" data-author="jezer" data-date="2009-10-18T21:18:06+00:00" data-subject="Your thoughts on class orders...">
 
-I started an experimental classo on this new mud... Dr Mo... I wanted to give it a go, also another part of me didn't want to make a too powerful classo that might trap me into playing this game more than I should (at this stage in life). How many times have I justified playing an extra hour just because times were ripe  :twisted: 
+I started an experimental classo on this new mud... Dr Mo... I wanted to give it a go, also another part of me didn't want to make a too powerful classo that might trap me into playing this game more than I should (at this stage in life). How many times have I justified playing an extra hour just because times were ripe <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 I've had a few comments about my classo, not surprised there... my reasoning was that druid can solo the eq I need... it's good regen, and shield of thorns works unshifted to minimise my damage if I played monk... combined with deathgrip for faster xp and damage reduction extra hp's... (It was obvious the new sloth was slow requiring twice the xp than the old one) I hoped for a platform which was "more balanced" could run faster and longer, could take a beating with sanct/fluid/shield of thorns/dam reduct stacking.
 
@@ -36,7 +36,7 @@ Seems to me that at 8x40 the biggest impact your classo will have on you is your
 
 Second to this of course your second class will have a big influence on your max hp / max mana.
 
-[i:3tgrm7bp]For some the stato affected by prime / second may also be some influence.[/i:3tgrm7bp]
+<em>For some the stato affected by prime / second may also be some influence.</em>
 
 Other than these as far as I can see classo only really affects when you get things not what you get, so, for example, I chose WA at 3 not because I think its best there in the long run, but just to get wa eq earlier.
 
@@ -70,7 +70,8 @@ T
 
 <div class="post" data-post-id="30130" data-author="Thraxas" data-date="2009-10-18T23:23:00+00:00" data-subject="">
 
-Solo xp is rough though. Don't know why you'd want to do it.[/quote:25rvivta]
+> <strong>juggleblood wrote:</strong>
+> Solo xp is rough though. Don't know why you'd want to do it.
 
 True, but its more fun and groups are a painfully boring necessity.
 
@@ -90,15 +91,16 @@ EDIT: What I am getting at here... is Druid although it was God's wrath with goo
 
 <div class="post" data-post-id="30134" data-author="sirrico1" data-date="2009-10-19T03:09:40+00:00" data-subject="">
 
-personaly I think if you take and get some monk grip items you would have a good character, but I am bias since my wife runs a monk prime. but I've seen what a good grip can do *shrugs*
+personaly I think if you take and get some monk grip items you would have a good character, but I am bias since my wife runs a monk prime. but I've seen what a good grip can do \*shrugs\*
 
 </div>
 
 <div class="post" data-post-id="30136" data-author="Tap" data-date="2009-10-19T09:54:27+00:00" data-subject="">
 
-[quote:2z6hko00]I've seen what a good grip can do *shrugs*[/quote:2z6hko00]
+> <strong>Quote:</strong>
+> I've seen what a good grip can do \*shrugs\*
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -106,7 +108,7 @@ personaly I think if you take and get some monk grip items you would have a good
 
 Don't take my opinions on this too seriously, because I haven't been playing much and there's a lot I don't know about the new game.
 
-I think you're right about druid.  As far as mage prime goes, I'm a little unimpressed. There's not a whole lot of mage style stuff in game and mage prime abilities don't impress me much. I would say that warrior prime is awesome.  Thief prime still pretty awesome. Necro still the best soloer.  Cleric will always be good. Monk and bard I don't know much about.
+I think you're right about druid. As far as mage prime goes, I'm a little unimpressed. There's not a whole lot of mage style stuff in game and mage prime abilities don't impress me much. I would say that warrior prime is awesome. Thief prime still pretty awesome. Necro still the best soloer. Cleric will always be good. Monk and bard I don't know much about.
 
 It's almost impossible to know how they will play out though because of the hidden things. Each class has certain benefits that they don't tell us about. So really we won't know how the classes will play out, until they are played out.
 

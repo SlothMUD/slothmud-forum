@@ -20,12 +20,12 @@ UPDATE: THE COUNTER was WRONG it had like 3AM pacific i have fixed it.
 
 A REVISED countdown timer link has been provided below:
 
-[<LINK_TEXT text="https://www.tickcounter.com/countdown/7 ... st-revised">https://www.tickcounter.com/countdown/7366555/2025-slothmud-memorial-day-quest-revised</LINK_TEXT>](https://www.tickcounter.com/countdown/7366555/2025-slothmud-memorial-day-quest-revised)
+[https://www.tickcounter.com/countdown/7366555/2025-slothmud-memorial-day-quest-revised](https://www.tickcounter.com/countdown/7366555/2025-slothmud-memorial-day-quest-revised)
 
 see you all there.
 
 Cheers
 
---Idj
+\--Idj
 
 </div>

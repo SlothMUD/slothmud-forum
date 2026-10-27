@@ -26,11 +26,11 @@ AC-apply is -1.0
 
 Can affect you as:
 
-    Affects: CON by 1
+ Affects: CON by 1
 
 Only those who are at least adept clerics, thieves, warriors, druids, bards
 
-, or monks may use this item.  
+, or monks may use this item. 
 
 Cost is 80,000 coins to forge, not 50 like the page says.
 

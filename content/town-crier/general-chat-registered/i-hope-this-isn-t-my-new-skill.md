@@ -26,7 +26,7 @@ apparently i am the blue-robed lord! is happening everytime i try and toss those
 
 <div class="post" data-post-id="24346" data-author="*Krom*" data-date="2008-05-15T03:19:27+00:00" data-subject="">
 
-Yep I broke it, I have been trying to get to it this week, just have not had a chance yet.  The initial goal was to have the game try evade capture before resist webs, so you could still use the skill while you had resist webs as a backup plan.  This makes the skill far more useful.  However, at some point it reverses the target, so I have to go back through and find that point to fix it.
+Yep I broke it, I have been trying to get to it this week, just have not had a chance yet. The initial goal was to have the game try evade capture before resist webs, so you could still use the skill while you had resist webs as a backup plan. This makes the skill far more useful. However, at some point it reverses the target, so I have to go back through and find that point to fix it.
 
 </div>
 

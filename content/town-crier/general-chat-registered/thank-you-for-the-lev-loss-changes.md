@@ -46,12 +46,12 @@ All three of those, in fact, Jezer. And seizure robots.
 
 <div class="post" data-post-id="33311" data-author="jezer" data-date="2012-05-22T20:34:59+00:00" data-subject="Re: Thank you for the lev loss changes">
 
-:shock:
+<img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="33312" data-author="Tuck" data-date="2012-05-25T12:26:37+00:00" data-subject="Re: Thank you for the lev loss changes">
 
-Dear gods, please return level loss to the game, but please stop deleveling me :P
+Dear gods, please return level loss to the game, but please stop deleveling me <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>

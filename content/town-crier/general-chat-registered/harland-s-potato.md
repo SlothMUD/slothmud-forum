@@ -20,37 +20,37 @@ We got zip.
 
 Here is a quest grp that fought vicious killing potato:
 
-(Ldr/Ft)            Cizin [Th:5.21 1000hp 337ma 399mv] ---
+(Ldr/Ft) Cizin [Th:5.21 1000hp 337ma 399mv] ---
 
-  (Point)           Rogue [Wa:4.33 1088hp 381ma 332mv] ---
+ (Point) Rogue [Wa:4.33 1088hp 381ma 332mv] ---
 
-  (Front)           Badden [Wa:3.32 1087hp 192ma 407mv] ---
+ (Front) Badden [Wa:3.32 1087hp 192ma 407mv] ---
 
-  (Front)           Stab [Th:1.39  818hp 161ma 298mv] ---
+ (Front) Stab [Th:1.39 818hp 161ma 298mv] ---
 
-  (Front)           Kanae [Ba:3.30  695hp 512ma 321mv] ---
+ (Front) Kanae [Ba:3.30 695hp 512ma 321mv] ---
 
-  (Front)           Wimpy [Ne:4.22  723hp 681ma 259mv] ---
+ (Front) Wimpy [Ne:4.22 723hp 681ma 259mv] ---
 
-                   Alexus [Cl:0.20  290hp 248ma 153mv] ---
+ Alexus [Cl:0.20 290hp 248ma 153mv] ---
 
-                   Scarlet [Th:2.34  751hp 348ma 274mv] ---
+ Scarlet [Th:2.34 751hp 348ma 274mv] ---
 
-                   Katie [Wa:0.20  554hp 130ma 221mv] ---           
+ Katie [Wa:0.20 554hp 130ma 221mv] --- 
 
-                   Gelding [Ne:2.32  684hp 545ma 230mv] 
+ Gelding [Ne:2.32 684hp 545ma 230mv] 
 
-                   Shidra [Cl:0.19  381hp 285ma 212mv] ---
+ Shidra [Cl:0.19 381hp 285ma 212mv] ---
 
-                   Kilgore [Ne:0.20  323hp 256ma 129mv]                        
+ Kilgore [Ne:0.20 323hp 256ma 129mv] 
 
-                   Acme [Ne:3.29  787hp 432ma 202mv] ---
+ Acme [Ne:3.29 787hp 432ma 202mv] ---
 
 </div>
 
 <div class="post" data-post-id="30375" data-author="jezer" data-date="2009-11-25T03:36:52+00:00" data-subject="">
 
-[img:10kqnavc]http://davidrudnick.com/carrot.png[/img:10kqnavc]
+![](http://davidrudnick.com/carrot.png)
 
 Wait till ya meet Harland's Carrot! Sounds like you got mashed.
 
@@ -60,11 +60,11 @@ Wait till ya meet Harland's Carrot! Sounds like you got mashed.
 
 Mornin' folks,
 
-Sorry about that.  Seems potato_group != quest_group, so Harland rewarded an empty array.  
+Sorry about that. Seems potato\_group != quest\_group, so Harland rewarded an empty array. 
 
-Folks are being tracked down and rewarded accordingly + a bit extra.  
+Folks are being tracked down and rewarded accordingly + a bit extra. 
 
-And I was worried about the potato being too tough for a small group!  Next fellow will be more respectable!
+And I was worried about the potato being too tough for a small group! Next fellow will be more respectable!
 
 Chobbs!
 
@@ -72,9 +72,10 @@ Chobbs!
 
 <div class="post" data-post-id="30377" data-author="jezer" data-date="2009-11-25T04:50:31+00:00" data-subject="">
 
-Next fellow will be more respectable![/quote:wp7ah9fe]
+> <strong>Chobbs wrote:</strong>
+> Next fellow will be more respectable!
 
-Ok, Harland's Yam then. :twisted:
+Ok, Harland's Yam then. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -96,11 +97,11 @@ Some answers:
 
 Minor automation involved, but this is a one time deal for the Thanksgiving holiday.
 
-Largely being run by me, coding a lot of it just a few hours before setting it loose, so I'm doing a lot of on-the-fly fixes.  Was afk last night else I'd have responded to the potato snafu quicker.
+Largely being run by me, coding a lot of it just a few hours before setting it loose, so I'm doing a lot of on-the-fly fixes. Was afk last night else I'd have responded to the potato snafu quicker.
 
 So far alternating Solo/Group/Solo/Group, with the last two miniquests being Solo/Minigroup followed by Very Large Group.
 
-Left/leaving the solo ones open for hours to try to maximize opportunity to try them.  I think the phaseberries were around for 12 hours or so with more added periodically, although folks stopped hunting them after 6ish.
+Left/leaving the solo ones open for hours to try to maximize opportunity to try them. I think the phaseberries were around for 12 hours or so with more added periodically, although folks stopped hunting them after 6ish.
 
 Chobbs!
 
@@ -108,10 +109,10 @@ Chobbs!
 
 <div class="post" data-post-id="30382" data-author="jezer" data-date="2009-11-26T08:15:57+00:00" data-subject="">
 
-[img:32xf2t3l]http://www.missginsu.com/images/bring_the_pain.jpg[/img:32xf2t3l]
+![](http://www.missginsu.com/images/bring_the_pain.jpg)
 
-[img:32xf2t3l]http://www.thespoof.com/sitepics/misc/ACFE45.jpg[/img:32xf2t3l]
+![](http://www.thespoof.com/sitepics/misc/ACFE45.jpg)
 
-[img:32xf2t3l]http://resources.toolwi.com/resource/preview:2/3670e4795632cd87403d49cb6620f601.gif[/img:32xf2t3l]
+![](http://resources.toolwi.com/resource/preview:2/3670e4795632cd87403d49cb6620f601.gif)
 
 </div>

@@ -956,9 +956,9 @@ Str: [16], Int: [14], Wis: [10], Dex: [14], Con: [13]
 
 <div class="post" data-post-id="34239" data-author="Magi" data-date="2013-04-16T13:21:38+00:00" data-subject="Re: Roll log for the number crunches">
 
-Nice graph!  Looks like exceptionally poor rolls appear more frequently than exceptionally good ones.
+Nice graph! Looks like exceptionally poor rolls appear more frequently than exceptionally good ones.
 
-I'm sure my crazy good token is around here somewhere :)
+I'm sure my crazy good token is around here somewhere <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -1000,7 +1000,7 @@ They were almost all hexes, about 20 were octs.
 
 Final after 480ish rolls: 18 17 15 17 16
 
--1 int, -1 con, +3 wisdom over starting
+\-1 int, -1 con, +3 wisdom over starting
 
 </div>
 
@@ -1011,14 +1011,14 @@ Str: 4[4], Int: 17[16], Wis: 16[16], Dex: 15[15], Con: 16[15]
 SUM: 66
 You are standing.
 You are affected by the following spells:
-   Detect Invisible                 
-   Sense Life                       
-   Infravision                      
-   Darksight                        
-   Stone Skin                       
-   Bless                            
+ Detect Invisible 
+ Sense Life 
+ Infravision 
+ Darksight 
+ Stone Skin 
+ Bless 
 
-<265hp 246ma 111mv>  [-1]  AC: 3.5  EXP: 1078904  COINS: 81768  [indoors]  [Aisholm Town]
+<265hp 246ma 111mv> [-1] AC: 3.5 EXP: 1078904 COINS: 81768 [indoors] [Aisholm Town]
 buy lutefisk
 lutefisk : You can't carry that much weight.
 ```
@@ -1031,17 +1031,17 @@ And yes, it CAN be even worse.
 
 <div class="post" data-post-id="34351" data-author="jezer" data-date="2013-07-12T20:57:47+00:00" data-subject="Re: Roll log for the number crunches">
 
-You could buy McDonalds Yasik near AH scribe, they just opened, and get the girl to put the tray on the table for you...  :twisted:
+You could buy McDonalds Yasik near AH scribe, they just opened, and get the girl to put the tray on the table for you... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="34364" data-author="Yasik" data-date="2013-07-27T15:17:16+00:00" data-subject="Re: Roll log for the number crunches">
 
-**use oct**
+<strong>use oct</strong>
 
 You feel different!
 
-<283hp 238ma 130mv>  [+0]  AC: 8.5  EXP: 625754  COINS: 158249  [indoors]  [Newbatia]
+\<283hp 238ma 130mv\> [+0] AC: 8.5 EXP: 625754 COINS: 158249 [indoors] [Newbatia]
 
 score
 
@@ -1049,17 +1049,17 @@ score
 
 Str: 9[9], Int: 14[13], Wis: 13[13], Dex: 11[11], Con: 10[9]
 
-**SUM: 55**
+<strong>SUM: 55</strong>
 
 You are standing.
 
 You are affected by the following spells:
 
-   Detect Invisible                 
+ Detect Invisible 
 
-   Infravision                      
+ Infravision 
 
-   Mobility                         
+ Mobility 
 
 I told it can get worse. Reroll is THE worst aspect of the game.
 
@@ -1075,6 +1075,6 @@ some players are getting 84 on 5-10 reroll token
 
 haters gonna hate
 
-p.s. note to self read this message before i'll roll again :)
+p.s. note to self read this message before i'll roll again <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

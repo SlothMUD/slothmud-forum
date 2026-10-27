@@ -14,9 +14,9 @@ post_count: 2
 
 date reported in the finger return seems bugged:
 
-Last login:  Sun Dec 22 09:02:00 1935
+Last login: Sun Dec 22 09:02:00 1935
 
-... (taken on Sat Nov 26 2005) :P
+... (taken on Sat Nov 26 2005) <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 

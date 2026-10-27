@@ -20,7 +20,7 @@ So when are you gonna start playing a Monk prime Splork :p
 
 Actually I play a cleric, 2 warriors, bard, thief, necro and a mage prime.
 
-   Thieves and warriors have 2 avatar skills each atm compared to 8-10 for the other classes and we will be adding more for them . I said this a very long time ago. If you dont like the changes we're making stay where your at currently.
+ Thieves and warriors have 2 avatar skills each atm compared to 8-10 for the other classes and we will be adding more for them . I said this a very long time ago. If you dont like the changes we're making stay where your at currently.
 
 Splork
 
@@ -40,7 +40,7 @@ Hmm, guess druids should be scared.. apparently they're not a class anymore.
 
 <div class="post" data-post-id="5303" data-author="Driven" data-date="2005-03-29T14:32:42+00:00" data-subject="">
 
-Yea, having a -11 ac 2k hps form is useless.  No one could ever use that.
+Yea, having a -11 ac 2k hps form is useless. No one could ever use that.
 
 </div>
 

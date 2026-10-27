@@ -30,12 +30,12 @@ Also, I heard rumors - a legend, even - of a certain berserk warrior, who had so
 
 P.S. Despite sounding like a broken record, and while hiding behind a disclaimer that there must've been reasons to do this quest this way, and no other, and that I accept them, I should say that an immort can get many more people to his quest, if he/she/they:
 
-- chooses the time that works well both(?) for the US/EU/Asia/Aus people, such as 8-10am/7-9pm PST on Saturday
+\- chooses the time that works well both(?) for the US/EU/Asia/Aus people, such as 8-10am/7-9pm PST on Saturday
 
-- announces at least a week or two in advance
+\- announces at least a week or two in advance
 
-- specifies the precise server time in the announcement
+\- specifies the precise server time in the announcement
 
-- promotes the announcement using various methods: ingame messages, titles, general forum, inviting the quest mob with the announcement to the inns, [the Telegram channel](http://www.slothmud.org/forum/viewtopic.php?f=28&t=4629), etc.
+\- promotes the announcement using various methods: ingame messages, titles, general forum, inviting the quest mob with the announcement to the inns, [the Telegram channel](http://www.slothmud.org/forum/viewtopic.php?f=28&t=4629), etc.
 
 </div>

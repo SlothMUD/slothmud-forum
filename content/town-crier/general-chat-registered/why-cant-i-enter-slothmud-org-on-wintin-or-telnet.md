@@ -74,7 +74,7 @@ Not a smart move trying to hack Jake's account of all people.
 
 <div class="post" data-post-id="15003" data-author="*Splork*" data-date="2006-11-05T14:59:10+00:00" data-subject="">
 
-I didn't respond to Dikus last post Weasel but I was wondering the exact same thing... How many times it was attempted it completely irrelevant. It is very easy to tell a mistaken login to a hack.  Especially when it involved fifty plus failed logins before I decided to email Jake and ban this IP.
+I didn't respond to Dikus last post Weasel but I was wondering the exact same thing... How many times it was attempted it completely irrelevant. It is very easy to tell a mistaken login to a hack. Especially when it involved fifty plus failed logins before I decided to email Jake and ban this IP.
 
 Splork
 
@@ -94,15 +94,15 @@ We all use the same pc and there is no telling who was on the pc before I was.
 
 <div class="post" data-post-id="15006" data-author="Diazz_Dizazter" data-date="2006-11-05T17:15:40+00:00" data-subject="">
 
-It doesnt matter which of you did it.  It happened.  
+It doesnt matter which of you did it. It happened. 
 
 Since all of you use the same pc, I suggest a code red on who ever
 
-it was that did the stunt.  Maybe, just maybe, if you send the admin a
+it was that did the stunt. Maybe, just maybe, if you send the admin a
 
 picture of a broken, bruised and beat person, they would accept this
 
-as ample reason to unban you.  How ever, getting a ban lifted is damn
+as ample reason to unban you. How ever, getting a ban lifted is damn
 
 near improbable.
 
@@ -124,7 +124,7 @@ I dont think that I said that he lives at his dads which is 15 mins away but he 
 
 Dikus, 
 
-Means how I don't know the particulars of what is happening, or the future outcome of your current situation, I would ask that u please don't bid on the items I have up on chop.  Simply because #1 in case u remain banned I wouldn't be able to get the coins from u, #2 if someone else wants the item it wouldn't be fair to them to be bid up by a player unable to pay what they are bidding.  if no one else bids on it and item closes, I will hold for a reasonable amount of time, in case u can come back.  but please refrain from continuing to bid.  
+Means how I don't know the particulars of what is happening, or the future outcome of your current situation, I would ask that u please don't bid on the items I have up on chop. Simply because #1 in case u remain banned I wouldn't be able to get the coins from u, #2 if someone else wants the item it wouldn't be fair to them to be bid up by a player unable to pay what they are bidding. if no one else bids on it and item closes, I will hold for a reasonable amount of time, in case u can come back. but please refrain from continuing to bid. 
 
 Thank You
 
@@ -142,7 +142,7 @@ Thank you Resouh I am sorry and I will not bid on the items anymore and I believ
 
 I feel as though my avatar has been compromised! Not that I dislike you Dikus but is there any chance you might choose a different one? Thanks in advance!
 
-Osric :)
+Osric <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -154,13 +154,13 @@ There you go Osric anyone else wanna ask something of me?
 
 <div class="post" data-post-id="15015" data-author="osric" data-date="2006-11-05T19:11:54+00:00" data-subject="">
 
-Thanks dude :)
+Thanks dude <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="15016" data-author="Dikus" data-date="2006-11-05T19:14:23+00:00" data-subject="No problem">
 
-I just want unbanned :) I love this game so what ever helps I guess :)
+I just want unbanned <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> I love this game so what ever helps I guess <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -178,9 +178,10 @@ Splork
 
 <div class="post" data-post-id="15029" data-author="13" data-date="2006-11-06T13:37:24+00:00" data-subject="">
 
-[quote:1w8it6hw]There you go Osric anyone else wanna ask something of me?[/quote:1w8it6hw]
+> <strong>Quote:</strong>
+> There you go Osric anyone else wanna ask something of me?
 
-[img:1w8it6hw]http://www.dack.com/images/weblog/go-fuck-yourself.jpg[/img:1w8it6hw]
+![](http://www.dack.com/images/weblog/go-fuck-yourself.jpg)
 
 Sorry, couldn't pass it up.
 

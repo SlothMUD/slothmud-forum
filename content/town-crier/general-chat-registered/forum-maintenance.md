@@ -22,6 +22,6 @@ If you believe your account was deactivated in error, please email me or find me
 
 <div class="post" data-post-id="32382" data-author="jezer" data-date="2011-01-26T07:15:30+00:00" data-subject="Re: Forum Maintenance">
 
-Test Troll, nope all ok here!  :twisted:
+Test Troll, nope all ok here! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

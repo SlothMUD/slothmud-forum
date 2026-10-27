@@ -34,15 +34,15 @@ Im not completely sure what the purpose of your post is here?
 
 Are you trying to say that thieves should be able to stab more then once? This would be entirely unbalanced, as Avatar theives with a stab/disengage combo would be far to broken. THAT is solely the purpose of the 'Is to alert' message. Balance, to keep stabbing in check.
 
-The other thing I can see that you might be complaining about is 'realism' of mobs detecting the stab. Sure, in all honest, a thief shouldn't be able to sneak up on someone singing away. But nor should a thief thats brightly glowing with a sanctuary spell up. Or a tank heavily laden with armor should be able to sneak up on someone.  So if your complaining about realism, then lets make is so that only thieves, unsanced, under a certain armor class, with no one else in the room, while sneaking/hiding, can stab. To go for realism. Singing isn't the only thing.
+The other thing I can see that you might be complaining about is 'realism' of mobs detecting the stab. Sure, in all honest, a thief shouldn't be able to sneak up on someone singing away. But nor should a thief thats brightly glowing with a sanctuary spell up. Or a tank heavily laden with armor should be able to sneak up on someone. So if your complaining about realism, then lets make is so that only thieves, unsanced, under a certain armor class, with no one else in the room, while sneaking/hiding, can stab. To go for realism. Singing isn't the only thing.
 
 </div>
 
 <div class="post" data-post-id="10580" data-author="Avatar" data-date="2006-02-06T17:26:21+00:00" data-subject="sing stab">
 
-I don't know why I'm even replying, but each of those other options would be easy to explain away.  Sanc -> dark cloak.  Armor -> minor silence cantrip would take care of it.  Other people present -> sneaking is easier, not harder.
+I don't know why I'm even replying, but each of those other options would be easy to explain away. Sanc -\> dark cloak. Armor -\> minor silence cantrip would take care of it. Other people present -\> sneaking is easier, not harder.
 
-In my opinion, I just think of the bard as singing along to Metallica in his head while he's getting ready to stab.  If you want to affect yourself only, there's no reason the bard song need be necessarily audible.  It's as easy to rationalize as all the others.
+In my opinion, I just think of the bard as singing along to Metallica in his head while he's getting ready to stab. If you want to affect yourself only, there's no reason the bard song need be necessarily audible. It's as easy to rationalize as all the others.
 
 </div>
 
@@ -52,7 +52,7 @@ I agree avatar, and only mentioned such to show that the suggestion (was there e
 
 Another alternative solution to why the bard isn't noticed, but the 'stabbed mob' is alert is that when they are wounded, they are alert! Someone hurt them, so they are being careful. Along comes happy tune th/ba, singing along a happy melody, and 'wham' out of no where, stabs the mob. He noticed the th/ba, but just not the blade getting stabbed in his side/back/face/whatever.
 
-I think the current system is fine as it is. :)
+I think the current system is fine as it is. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -64,9 +64,9 @@ Low lvl VK, but Nats are 18/05 18 12 18 15
 
 Not a problem on getting him 18/100 with Bard's Str and other stats just
 
-too good to pass up.  
+too good to pass up. 
 
-PS.  8 MORE POST FOR [b:21bm0y9f]500[/b:21bm0y9f]!!!
+PS. 8 MORE POST FOR <strong>500</strong>!!!
 
 </div>
 
@@ -86,13 +86,13 @@ BRING IT BITCH
 
 <div class="post" data-post-id="10592" data-author="Autolycos" data-date="2006-02-06T20:15:18+00:00" data-subject="">
 
-me bring it?  if your present, the bitch has already been brought.  :twisted:
+me bring it? if your present, the bitch has already been brought. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="10601" data-author="Shazuko" data-date="2006-02-07T14:58:52+00:00" data-subject="eating and spellcasting">
 
-*munch*utters the words*munch*crunch* 'fire*chomp*wind'
+\*munch\*utters the words\*munch\*crunch\* 'fire\*chomp\*wind'
 
 a demon appears from a puff of smoke
 

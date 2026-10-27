@@ -28,6 +28,6 @@ Choong
 
 <div class="post" data-post-id="3560" data-author="Gnu" data-date="2004-12-28T11:36:45+00:00" data-subject="">
 
-I am looking for the group to cycle eternal flame in Hellwell... it may be a AH eq group, Metatron will be yours :)
+I am looking for the group to cycle eternal flame in Hellwell... it may be a AH eq group, Metatron will be yours <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

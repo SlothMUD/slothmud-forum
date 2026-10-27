@@ -14,9 +14,9 @@ post_count: 5
 
 held high
 
-+15 healbonus
+\+15 healbonus
 
-+15 mana
+\+15 mana
 
 20 mils min
 
@@ -28,7 +28,7 @@ have dskin bracelet for trade + coins...
 
 any instrest...
 
-brand :twisted:
+brand <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

@@ -14,17 +14,17 @@ post_count: 2
 
 WTB/T:
 
-Thick Leather Belt           Wight/Moria
+Thick Leather Belt Wight/Moria
 
-[2] Luminirferous Rings   Magician/Tower of Nexalism
+[2] Luminirferous Rings Magician/Tower of Nexalism
 
-[2] Silken Cuffs              Enea's Tree Tender/Enea's Temple
+[2] Silken Cuffs Enea's Tree Tender/Enea's Temple
 
 Have to trade:
 
-Cloak of infinite Shadows   -.7ac Mw Mba [OR]
+Cloak of infinite Shadows -.7ac Mw Mba [OR]
 
-[2] crystal pendants           -.4ac +1int
+[2] crystal pendants -.4ac +1int
 
 1 hex token
 
@@ -42,15 +42,15 @@ Got Luminiferous Rings
 
 Need:
 
-Thick Leather Belt  ---         Wight/Moria
+Thick Leather Belt --- Wight/Moria
 
-[2] Silken Cuffs              Enea's Tree Tender/Enea's Temple
+[2] Silken Cuffs Enea's Tree Tender/Enea's Temple
 
 Have to trade:
 
-Cloak of infinite Shadows   -.7ac Mw Mba [OR]
+Cloak of infinite Shadows -.7ac Mw Mba [OR]
 
-[2] crystal pendants           -.4ac +1int
+[2] crystal pendants -.4ac +1int
 
 1 hex token
 

@@ -28,7 +28,7 @@ thanks for the heal, Sheng
 
 <div class="post" data-post-id="20274" data-author="Widow" data-date="2007-09-13T19:03:45+00:00" data-subject="-">
 
--blanked-
+\-blanked-
 
 </div>
 

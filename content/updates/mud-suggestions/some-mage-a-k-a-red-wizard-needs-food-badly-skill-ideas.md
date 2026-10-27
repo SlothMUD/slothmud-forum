@@ -16,12 +16,12 @@ so while i was fishing, i caught a fever for some mage skills (and a little cowb
 
 i really love the 2-1-2-1-2-1 as much as the next wizard but how about
 
-Doublecast - this has been the staple of true monster stompers since i can remember.  works like doublestab or whatever.  and it really is fun to type.  doublecast 'magic missle' osric.  doublecast 'firewind' dog. wow i could do that all day. and it would only work for mage spells.
+Doublecast - this has been the staple of true monster stompers since i can remember. works like doublestab or whatever. and it really is fun to type. doublecast 'magic missle' osric. doublecast 'firewind' dog. wow i could do that all day. and it would only work for mage spells.
 
-Identify Tome - wondering what that crazy spinning spellbook is for? i know i sure am.  even though this is nothing more then an inverse 'help gate' command it seems like it could be useful.
+Identify Tome - wondering what that crazy spinning spellbook is for? i know i sure am. even though this is nothing more then an inverse 'help gate' command it seems like it could be useful.
 
-Ultima - yeah it's bigger and badder then firewind. all that great blackness and multi-elemental stuff...the pipe dream to end them all.  i should have posted it on april 1st but if i wait another year i'll forget about it.
+Ultima - yeah it's bigger and badder then firewind. all that great blackness and multi-elemental stuff...the pipe dream to end them all. i should have posted it on april 1st but if i wait another year i'll forget about it.
 
-brand :twisted:  :idea:
+brand <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_idea.svg" alt=":idea:" title=":idea:" width="15" height="15" class="smiley nozoom">
 
 </div>

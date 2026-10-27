@@ -14,7 +14,7 @@ post_count: 7
 
 How bout a command that interrupts all the commands on the que and dumps them... for instance:
 
-#8 kick
+\#8 kick
 
 hmm crap hp is getting low
 
@@ -24,7 +24,7 @@ interrupt;recite recall
 
 <div class="post" data-post-id="3398" data-author="madmax" data-date="2004-12-18T00:51:39+00:00" data-subject="">
 
-I think you are more talking about a client command.  The mud dosent recognize #8, only kick.
+I think you are more talking about a client command. The mud dosent recognize #8, only kick.
 
 Madmax
 
@@ -34,7 +34,7 @@ Madmax
 
 This would mostly depend on how your client is written whether it would even work on the client or not, but most likely it won't.
 
-If you type #8 kick, meaning kick 8 times, your client sends the command 'kick' 8 times.  If you then type interrupt, it's too late - you've already sent 8 kicks to the server, it's just waiting for the commands to make it through.  From that point, it's too late to stop anything because it's all in the server's queue waiting for its turn to be processed.
+If you type #8 kick, meaning kick 8 times, your client sends the command 'kick' 8 times. If you then type interrupt, it's too late - you've already sent 8 kicks to the server, it's just waiting for the commands to make it through. From that point, it's too late to stop anything because it's all in the server's queue waiting for its turn to be processed.
 
 From the server, there would have to be some command that takes precedence over all other commands, no matter how many have been queued up, and I'm betting this is much harder than you would imagine, if not completely impossible.
 
@@ -46,25 +46,25 @@ It might be a good idea for you to set up a triiger on the client to do the foll
 
 Command: getmykickon
 
-- Send first kick command
+\- Send first kick command
 
-- set variable kickvar to true
+\- set variable kickvar to true
 
-- Start a tick timer
+\- Start a tick timer
 
-- When timer hits the time between kicks and kickvar is true send the next kick
+\- When timer hits the time between kicks and kickvar is true send the next kick
 
 Commad: stopkicking
 
-- stop tick timer and set kickvar false
+\- stop tick timer and set kickvar false
 
 so you could type
 
->getmykickon
+\>getmykickon
 
->stopkicking
+\>stopkicking
 
->next command
+\>next command
 
 You could then modify this to accept an arguement for the max number of times to kick.
 

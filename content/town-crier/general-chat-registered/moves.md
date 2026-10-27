@@ -18,7 +18,7 @@ Monks get boosted hpr resting.
 
 What do thieves get?
 
-:)
+<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Mike
 
@@ -28,7 +28,7 @@ Mike
 
 webbed, blinded, silenced and idol dived.
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

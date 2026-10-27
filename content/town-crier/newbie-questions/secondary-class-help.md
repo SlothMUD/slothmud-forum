@@ -14,15 +14,15 @@ post_count: 8
 
 Hello,
 
-  Not sure if anyone really posts or reads here anymore, seems to be very minimal posts :)
+ Not sure if anyone really posts or reads here anymore, seems to be very minimal posts <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-  Anyhow- I know I asked in game the other day About a Secondary Class and the popular choice was Druid....
+ Anyhow- I know I asked in game the other day About a Secondary Class and the popular choice was Druid....
 
-  I am a Cleric Prime - and yes, I do want to be a good healer later on, for some grouping, but I do like to Solo as well.
+ I am a Cleric Prime - and yes, I do want to be a good healer later on, for some grouping, but I do like to Solo as well.
 
-  People say to take Druid 2nd for the Mana Regen, which I guess is good, but everyone seems to have Druid 2nd, well seems to be a lot- and well I like to be different - but as long as it will be fun, and I do not gimp myself in the higher lvls - because most likely I am not going to start over at that point :(
+ People say to take Druid 2nd for the Mana Regen, which I guess is good, but everyone seems to have Druid 2nd, well seems to be a lot- and well I like to be different - but as long as it will be fun, and I do not gimp myself in the higher lvls - because most likely I am not going to start over at that point <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
-   I was really thinking of doing Warrior or Bard for my Secondary .... and I wanted to get some feedback on what peoples thoughts are........
+ I was really thinking of doing Warrior or Bard for my Secondary .... and I wanted to get some feedback on what peoples thoughts are........
 
  Thanks!!
 
@@ -54,7 +54,7 @@ At the end of the day, do what you want to do and enjoy it. Don't be afraid to p
 
 <div class="post" data-post-id="31465" data-author="Jag" data-date="2010-08-12T00:26:27+00:00" data-subject="Re: Secondary Class Help">
 
-I recomend mage second and war third.  Blasting and various useful spells for solo and warr still pretty high in the class order for a little toughness and eq.
+I recomend mage second and war third. Blasting and various useful spells for solo and warr still pretty high in the class order for a little toughness and eq.
 
 With 8 classes most anything will be playable and everything will have a few rough spots while working your way to avatar.
 
@@ -66,17 +66,17 @@ Glad to see people are alive and responding - Thank you both for the insight...
 
  I do kind of like Warrior 2nd, for some versatility.....
 
- Cleric/Mage/War/(Probably Druid) seems good - but the Cleric/Mage seems like it would be common too :) Not that I am against common......
+ Cleric/Mage/War/(Probably Druid) seems good - but the Cleric/Mage seems like it would be common too <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> Not that I am against common......
 
  But I still kind of like
 
-  Cleric/Warr/Druid/Mage or Cleric/War/Mage/Druid
+ Cleric/Warr/Druid/Mage or Cleric/War/Mage/Druid
 
-  Or
+ Or
 
-  Cleric/Bard ....  Bard has songs(which burn mana fast tho), but they also have some offensive spells I noticed....
+ Cleric/Bard .... Bard has songs(which burn mana fast tho), but they also have some offensive spells I noticed....
 
-   Still... tough to decide ....
+ Still... tough to decide ....
 
  On another note - Cleric/Thief may be interesting - but not sure Cleric/War may be better if i go non caster
 
@@ -108,7 +108,7 @@ or Possibly
 
 Cleric/Mage/Warrior/Druid
 
--- Not sure I have a preference on any - they all seem unique in their own way - Any advice on those?
+\-- Not sure I have a preference on any - they all seem unique in their own way - Any advice on those?
 
 </div>
 
@@ -130,12 +130,12 @@ Cleric/Druid/Mage/Warrior; Cleric/Druid/Warrior/Mage
 
 Warrior 2nd/3rd/4th doesn't make to much difference. 5th is a bit too slow, but some people do it, so they get more mana. The main adavntage of warrior is being able to wear ac, which is important for solo. It also gives a 3rd attack... however mage gives an extra attack 5 levels earlier.
 
-I'm not going to say what I'd pick ;)
+I'm not going to say what I'd pick <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="31475" data-author="Jag" data-date="2010-08-12T12:53:07+00:00" data-subject="Re: Secondary Class Help">
 
-Bards are definitely cool, but I agree with Jeezer (slap self) that it isn't a great second class with prime cleric.  Bard is great and so is cleric but in both cases they are most powerful as players that make groups work well.  And if you are a big bard singing for the group, you won't be healing and vice versa.
+Bards are definitely cool, but I agree with Jeezer (slap self) that it isn't a great second class with prime cleric. Bard is great and so is cleric but in both cases they are most powerful as players that make groups work well. And if you are a big bard singing for the group, you won't be healing and vice versa.
 
 </div>

@@ -34,11 +34,11 @@ Wintin uses XML to store the settings from memory. If you reinstall wintin and i
 
 These setting files that need to be hunted down normally reside in your...
 
-*C:\Documents and Settings\<username>\Local Settings\Application Data\Wintin.Net folder
+\*C:\\Documents and Settings\\\<username\>\\Local Settings\\Application Data\\Wintin.Net folder
 
 OR
 
-*C:\Program Files\Wintin.Net
+\*C:\\Program Files\\Wintin.Net
 
 If depends if your using Windows XP, where you installed wintin and a bunch of other factors. Without getting technical, I think your best bet is too install wintin.net to a different place and point the setting paths to a different place as well. Then copy your scripts across to the new place. (Totally Fresh Copy)
 

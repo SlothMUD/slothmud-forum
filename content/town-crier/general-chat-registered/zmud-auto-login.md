@@ -22,7 +22,7 @@ You're not locked out, just type your name and password.
 
 I was having the same problems, too but they mysteriously disappeared.
 
-I went into the settings for my char and unchecked the box for autologin, logged in my char manually, closed the connection, re-checked the autologin box, and re-logged in.  I did that 2 times and the second time seemed to "stick".
+I went into the settings for my char and unchecked the box for autologin, logged in my char manually, closed the connection, re-checked the autologin box, and re-logged in. I did that 2 times and the second time seemed to "stick".
 
 I don't know - but all I can say is that the problem has not recurred.
 

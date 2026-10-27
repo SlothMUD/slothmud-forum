@@ -26,9 +26,9 @@ AC-apply is -0.4
 
 Can affect you as:
 
-    Affects: DEX by -1
+ Affects: DEX by -1
 
-    Affects: HITPOINT by 10
+ Affects: HITPOINT by 10
 
 Only those who are at least supreme magic users or experienced clerics, or
 
@@ -44,7 +44,7 @@ Damage Dice is '4D3'
 
 Can affect you as:
 
-    Affects: HITROLL by 1
+ Affects: HITROLL by 1
 
 Only those who are at least apprentice magic users or novice clerics, or
 
@@ -62,9 +62,9 @@ AC-apply is -0.3
 
 Can affect you as:
 
-    Affects: HITROLL by 1
+ Affects: HITROLL by 1
 
-    Affects: SAVING_SPELL by -1
+ Affects: SAVING\_SPELL by -1
 
 Only those who are at least apprentice magic users, clerics, druids, or
 
@@ -86,7 +86,7 @@ Weight: 1, Value: 78200, Worn in: TAKE
 
 Clasp can only be attached to:
 
-   body armor
+ body armor
 
 Clasp gives the user +1 STR
 
@@ -106,9 +106,9 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: MANA by 5
+ Affects: MANA by 5
 
-    Affects: REGEN_MANA by 1
+ Affects: REGEN\_MANA by 1
 
 Only those who are at least adept magic users, clerics, necromancers, or
 
@@ -124,9 +124,9 @@ AC-apply is -0.1
 
 Can affect you as:
 
-    Affects: REGEN_HP by 1
+ Affects: REGEN\_HP by 1
 
-    Affects: RESIST_FIRE by 10
+ Affects: RESIST\_FIRE by 10
 
 Only those who are at least adept clerics, thieves, warriors, bards, or
 

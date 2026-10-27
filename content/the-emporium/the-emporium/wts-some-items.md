@@ -14,7 +14,7 @@ post_count: 2
 
 wts:
 
-frosty white shoulder guards (-0.8 -5 Years, Resist Cold) * SW SM [AND]
+frosty white shoulder guards (-0.8 -5 Years, Resist Cold) \* SW SM [AND]
 
 2x an obsidian bracer (-0.3 +15 HP) EC EW [AND]
 

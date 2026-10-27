@@ -14,18 +14,18 @@ post_count: 1
 
 5pm Pacific / 8pm Eastern:
 
-1. smallish load of Epics (all epics loaded but low chance of tokens)
+1\. smallish load of Epics (all epics loaded but low chance of tokens)
 
-2. Simplistic drach scatter (not as lavish as was just done)
+2\. Simplistic drach scatter (not as lavish as was just done)
 
 Timer Link Below
 
-[<LINK_TEXT text="https://www.tickcounter.com/countdown/2 ... estivities">https://www.tickcounter.com/countdown/2965493/2022-slothmud-new-years-festivities</LINK_TEXT>](https://www.tickcounter.com/countdown/2965493/2022-slothmud-new-years-festivities)
+[https://www.tickcounter.com/countdown/2965493/2022-slothmud-new-years-festivities](https://www.tickcounter.com/countdown/2965493/2022-slothmud-new-years-festivities)
 
 Happy New Year!
 
 Cheers
 
---D
+\--D
 
 </div>

@@ -46,7 +46,7 @@ They have a spot for that its called the emporium and its about 6 links down fro
 
 wow they really did think of everything.
 
-  :roll:
+ <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

@@ -24,30 +24,30 @@ Previously you would see this..
 
 ```
 The following bonuses affect you:
-   Hit Roll      :      ( 23) [|||||||||||                                       ]
-   Damage        :      ( 19) [|||||||||                                         ]
-   Damage Red.   : 100% ( 29) [||||||||||||||||||||||||||||||||||||||||||||||||||]
-   System Shock  :      (  1) [                                                  ]
-   Spell Saves   :  28% ( -6) [||||||||||||||                                    ]
-   Hand Damage   :  78% ( 26) [|||||||||||||||||||||||||||||||||||||||           ]
+ Hit Roll : ( 23) [||||||||||| ]
+ Damage : ( 19) [||||||||| ]
+ Damage Red. : 100% ( 29) [||||||||||||||||||||||||||||||||||||||||||||||||||]
+ System Shock : ( 1) [ ]
+ Spell Saves : 28% ( -6) [|||||||||||||| ]
+ Hand Damage : 78% ( 26) [||||||||||||||||||||||||||||||||||||||| ]
 ```
 
 now you will see this
 
 ```
 The following bonuses affect you:
-   Hit Roll      :      ( 22) [|||||||||||                                       ]
-   Damage        :      ( 17) [||||||||                                          ]
-   Damage Red.   :  48% ( 14) [||||||||||||||||||||||||                          ]
-  +Damage Red.   :  16 of NOCAP
-   System Shock  :      (  1) [                                                  ]
-   Spell Saves   :  28% ( -6) [||||||||||||||                                    ]
-   Hand Damage   :  78% ( 26) [|||||||||||||||||||||||||||||||||||||||           ]
+ Hit Roll : ( 22) [||||||||||| ]
+ Damage : ( 17) [|||||||| ]
+ Damage Red. : 48% ( 14) [|||||||||||||||||||||||| ]
+ +Damage Red. : 16 of NOCAP
+ System Shock : ( 1) [ ]
+ Spell Saves : 28% ( -6) [|||||||||||||| ]
+ Hand Damage : 78% ( 26) [||||||||||||||||||||||||||||||||||||||| ]
 ```
 
-the + means bonus.  so in this case, bonus_damage_reduction.
+the + means bonus. so in this case, bonus\_damage\_reduction.
 
-the only ones that will show up at the moment are +Damage Red.  (bonus damage reduction)
+the only ones that will show up at the moment are +Damage Red. (bonus damage reduction)
 
 and +Heal Bonus (bonus heal bonus) the reason is that i have to add them in manually and have to research them manually.
 
@@ -67,11 +67,11 @@ do a poll or something.
 
 score all2 / score stats2
 
- - added missing bonus_X_applies
+ \- added missing bonus\_X\_applies
 
- - changed the format a little for the bonus_X_applies
+ \- changed the format a little for the bonus\_X\_applies
 
- - no input from the mortals taken into account since none replied.
+ \- no input from the mortals taken into account since none replied.
 
 ![](http://www.slothmud.org/images/sco_all2.png)
 

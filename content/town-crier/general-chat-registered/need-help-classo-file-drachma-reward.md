@@ -32,12 +32,12 @@ Splork
 
 <div class="post" data-post-id="33337" data-author="Acedia" data-date="2012-06-20T04:54:24+00:00" data-subject="Re: Need help classo  file ( drachma reward )">
 
-This rather fit the bill, if not horribly malformatted.  
+This rather fit the bill, if not horribly malformatted. 
 
-[<LINK_TEXT text="http://www.slothmud.org/wiki/Guide:Nove ... on_Classes">http://www.slothmud.org/wiki/Guide:Novel%27s_Newbie_Guide#Advice_on_Classes</LINK_TEXT>](http://www.slothmud.org/wiki/Guide:Novel%27s_Newbie_Guide#Advice_on_Classes)
+[http://www.slothmud.org/wiki/Guide:Novel%27s_Newbie_Guide#Advice_on_Classes](http://www.slothmud.org/wiki/Guide:Novel%27s_Newbie_Guide#Advice_on_Classes)
 
 Individual class pages also seemed to do alright in delineating Prime benefits too.
 
-*cough*
+\*cough\*
 
 </div>

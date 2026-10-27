@@ -42,6 +42,6 @@ help rule 1
 
 Asking for help while one of your other characters is dead IS NOT permitted.
 
--Bel
+\-Bel
 
 </div>

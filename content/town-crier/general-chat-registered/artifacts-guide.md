@@ -22,41 +22,39 @@ Type look goblet...
 
 The crystal goblet of fiery nightmares is not yet full of nightmares to pour.
 
-Expected full time:  12am in 2 day(s).
+Expected full time: 12am in 2 day(s).
 
- 
+ \-------------------------------------------------------------
 
-  -------------------------------------------------------------
+ \* Goblet level: 3
 
-  * Goblet level:  3
+ \* Goblet xp: 221
 
-  * Goblet xp:     221
+ \* Next level: 120
 
-  * Next level:    120
+ \-------------------------------------------------------------
 
-  -------------------------------------------------------------
+ \* [x] Level 1: 4-hour charm \*
 
-  * [x] Level 1:  4-hour charm                                *
+ \* [x] Level 2: Full restoration on charmed mob \*
 
-  * [x] Level 2:  Full restoration on charmed mob             *
+ \* [x] Level 3: Aegis on charmed mob (30m) \*
 
-  * [x] Level 3:  Aegis on charmed mob (30m)                  *
+ \* [ ] Level 4: Enhanced hitpoints (x1.33) on charmed mob \*
 
-  * [ ] Level 4:  Enhanced hitpoints (x1.33) on charmed mob   *
+ \* [ ] Level 5: Demonic Aura on charmed mob (4hr) \*
 
-  * [ ] Level 5:  Demonic Aura on charmed mob (4hr)           *
+ \* [ ] Level 6: Iron Skin on charmed mob (4hr) \*
 
-  * [ ] Level 6:  Iron Skin on charmed mob (4hr)              *
+ \* [ ] Level 7: Reflection on charmed mob (3hr) \*
 
-  * [ ] Level 7:  Reflection on charmed mob (3hr)             *
+ \* [ ] Level 8: Enhanced Hitroll (+1) on goblet \*
 
-  * [ ] Level 8:  Enhanced Hitroll (+1) on goblet             *
+ \* [ ] Level 9: Enhanced AC (-0.1) on goblet \*
 
-  * [ ] Level 9:  Enhanced AC (-0.1) on goblet                *
+ \* [ ] Level 10: Enhanced damage reduction (+1) on goblet \*
 
-  * [ ] Level 10: Enhanced damage reduction (+1) on goblet    *
-
-  -------------------------------------------------------------
+ \-------------------------------------------------------------
 
 As you can see, you can overfeed your goblet and that xp will count for the next level.
 
@@ -64,69 +62,61 @@ Type ask goblet...
 
 You look at the crystal goblet of fiery nightmares and, feeling
 
-  a little foolish, you speak to it.  To your surprise, the goblet speaks back.
+ a little foolish, you speak to it. To your surprise, the goblet speaks back.
 
- 
+ 'Master, I am at your service. I am a goblet of many talents. First and
 
-    'Master, I am at your service.  I am a goblet of many talents.  First and
+ foremost, I collect nightmares from the world around me over time. When
 
-     foremost, I collect nightmares from the world around me over time.  When
+ I am half-full or full, you can pour me into the mouths of whoever you
 
-     I am half-full or full, you can pour me into the mouths of whoever you
+ wish, though it is likely they will need to be incapacitated before they
 
-     wish, though it is likely they will need to be incapacitated before they
+ will allow such a thing to happen. The results will be... interesting.
 
-     will allow such a thing to happen.  The results will be... interesting.
+ And be aware, I am a powerful goblet, but there are limits to my power.
 
-     And be aware, I am a powerful goblet, but there are limits to my power.
+ My nightmares will only affect creatures at or below your own power level.
 
-     My nightmares will only affect creatures at or below your own power level.
+ The following is a list of useful commands that I honor: 
 
-     The following is a list of useful commands that I honor: 
+ ask goblet \<anything\>: I will repeat this message.
 
- 
+ look goblet: I will report my xp and level, plus capabilities.
 
-       ask goblet <anything>:  I will repeat this message.
+ consider \<mob\>: Using the mob's full name (i.e. xerxes instead of xerx),
 
-       look goblet:            I will report my xp and level, plus capabilities.
+ I will give you an idea of how much xp a mob is worth.
 
-       consider <mob>:         Using the mob's full name (i.e. xerxes instead of xerx),
+ pour goblet \<mob\>: If I am either full or half-full and the mob is mortally
 
-                               I will give you an idea of how much xp a mob is worth.
+ wounded, then this is where the party starts! Note that
 
-       pour goblet <mob>:      If I am either full or half-full and the mob is mortally
+ the effects (and xp) are halved if I am only half-full.
 
-                               wounded, then this is where the party starts!  Note that
+ offer \<object\> goblet: When I am ready to level, I will require you to offer
 
-                               the effects (and xp) are halved if I am only half-full.
+ me the specified object for me to gain level.
 
-       offer &lt;object> goblet:  When I am ready to level, I will require you to offer
+ One final note to consider is that not all creatures have the same degree of
 
-                               me the specified object for me to gain level.
+ difficulty. The stronger the creature, the more experience I am able to gain.
 
- 
+ I think you will find that it is not wise to spend our time trying to
 
-     One final note to consider is that not all creatures have the same degree of
+ dominate kobolds to gain xp. Use the consider command liberally. Last, but
 
-     difficulty.  The stronger the creature, the more experience I am able to gain.
+ not least, I look forward to the mischief you and I will get into!'
 
-     I think you will find that it is not wise to spend our time trying to
-
-     dominate kobolds to gain xp.  Use the consider command liberally.  Last, but
-
-     not least, I look forward to the mischief you and I will get into!'
-
- 
-
-  As you end your query, it seems to you that the goblet is laughing to itself.
+ As you end your query, it seems to you that the goblet is laughing to itself.
 
 Type offer goblet...
 
 The crystal goblet of fiery nightmares tells you respectfully
 
-  'I'm sorry, master, but you don't seem to have the object I require for level 4.
+ 'I'm sorry, master, but you don't seem to have the object I require for level 4.
 
-   Remember, I need a very small ruby [offer goblet ruby].'
+ Remember, I need a very small ruby [offer goblet ruby].'
 
 Regarding the charms... when the mob is incapacitated and it's offered to the artifact the mob begins to follow you, hence you now have the same mob as a follower. This follower can be used to fight in your battles. Obviously the usefulness of that depends on what mob you fed it. I don't find the charmed mobs very useful simply because mobs have low mobility even if they are meat shields or do a lot of damage. Then there is the order lag... Which warriors just second wind, but a consideration for non necro's...
 
@@ -140,7 +130,7 @@ The item ID's as this...
 
 You feel informed:
 
-Object 'crystal goblet fiery nightmares *Gorka*', Item type: CONTAINER
+Object 'crystal goblet fiery nightmares \*Gorka\*', Item type: CONTAINER
 
 Maxweight: 500
 
@@ -150,11 +140,11 @@ Weight: 1, Value: 2000000gold, Worn in: TAKE HOLD
 
 Can affect you as:
 
-    Affects: MAX_CON by 1
+ Affects: MAX\_CON by 1
 
-    Affects: REDUCE_DAMAGE by 2
+ Affects: REDUCE\_DAMAGE by 2
 
-    Affects: ARMOR by -4
+ Affects: ARMOR by -4
 
 Only those who have attained supremacy in at least six classes may use this
 
@@ -170,20 +160,20 @@ I do wonder what happens at level 10, can I still get charms? Perhaps that's the
 
 <div class="post" data-post-id="39072" data-author="Josiah" data-date="2019-01-22T15:56:52+00:00" data-subject="Re: Artifacts Guide">
 
-For me, the artifact is superior to the relic.  It coincidentally was released the day I planned to buy a relic, which was awfully nice!
+For me, the artifact is superior to the relic. It coincidentally was released the day I planned to buy a relic, which was awfully nice!
 
-I think the only thing left out of your guide is that holding the artifact (low or in inventory) upgrades your 'consider' command to tell you if a mob is 41+ or not.  This helps you know if a mob has potential to be charmable, or if they are particularly vulnerable to wraithform, etc.
+I think the only thing left out of your guide is that holding the artifact (low or in inventory) upgrades your 'consider' command to tell you if a mob is 41+ or not. This helps you know if a mob has potential to be charmable, or if they are particularly vulnerable to wraithform, etc.
 
 Rumor has it that more artifacts (catered towards various prime classes) are under development.
 
-The Powers What Is don't seem to enjoy alternative play-styles like making mobs fight each other.  I don't think your uncharmed mob will strike the phoenix unless he is native to Arbo.  Even if a mob is in their spawning area, they will still attempt to flee rather than fight.  Those protections are disabled while the mob is actually charmed, of course.
+The Powers What Is don't seem to enjoy alternative play-styles like making mobs fight each other. I don't think your uncharmed mob will strike the phoenix unless he is native to Arbo. Even if a mob is in their spawning area, they will still attempt to flee rather than fight. Those protections are disabled while the mob is actually charmed, of course.
 
 </div>
 
 <div class="post" data-post-id="39073" data-author="Gorka" data-date="2019-01-22T17:51:07+00:00" data-subject="Re: Artifacts Guide">
 
-> **Josiah wrote:**
-> The Powers What Is don't seem to enjoy alternative play-styles like making mobs fight each other.  I don't think your uncharmed mob will strike the phoenix unless he is native to Arbo.  Even if a mob is in their spawning area, they will still attempt to flee rather than fight.  Those protections are disabled while the mob is actually charmed, of course.
+> <strong>Josiah wrote:</strong>
+> The Powers What Is don't seem to enjoy alternative play-styles like making mobs fight each other. I don't think your uncharmed mob will strike the phoenix unless he is native to Arbo. Even if a mob is in their spawning area, they will still attempt to flee rather than fight. Those protections are disabled while the mob is actually charmed, of course.
 
 Tested and this is true. I'm sure I remember older days when it wasn't. Seems an interesting decision to block that alternative play style, would have thought it added a dimension to the game, not taken something away from it. There are only so many things you can do in a MUD, you can fight the mob, be the mob, get other mobs to fight other mobs... seems an odd decision to limit that.
 
@@ -191,22 +181,22 @@ Tested and this is true. I'm sure I remember older days when it wasn't. Seems an
 
 <div class="post" data-post-id="39146" data-author="Gorka" data-date="2019-04-03T07:48:17+00:00" data-subject="Re: Artifacts Guide">
 
-> **Quote:**
+> <strong>Quote:</strong>
 > You pour the crystal goblet of fiery nightmares into X's mouth.
 > 
 > As you step back, X starts to follow you!
 > 
->   The crystal goblet of fiery nightmares receives 50 xp!
+> The crystal goblet of fiery nightmares receives 50 xp!
 > 
->  
+> 
 > 
 > As you finish pouring the crystal goblet of fiery nightmares,
 > 
->   it begins to glow with a radiant light and screams as loud as it can--
+> it begins to glow with a radiant light and screams as loud as it can--
 > 
->   'I hunger for a diamond chip!!!  Offer me one!!!'
+> 'I hunger for a diamond chip!!! Offer me one!!!'
 
-Umm, no. Cost of the diamond chip is 175 drachma. Artifacts was/is a great idea Maniac. Items that increase in power, because you earn it. All to often, elite items even botters can score in groups these days. At least with this method the item is earned. Leveling the goblet got laborious... but that is sloth. Unfortunately the item is not terribly useful as it doesn't replace -0.7 2 WD or the Scarab of Destruction. In my opinion this item should be elite... no other item takes 3 months minimum to level and unfortunately it's only... almost elite. I really hope more levels are added to it, and the drachma cost is replaced with other items or reduced, or saved till the item really is elite. At this level perhaps it could be a diamond bracer, not a diamond chip. I really hope to see more of these item types, but they are FAR more work than traditional forges and need to reflect that in there intrinsic value or I feel players will not bother. I would also like to see them for VK'ers, maybe only 4 or 5 levels, but it could enable perm valkers to get items slightly higher in value than regular items... and it would be worth it, if they were perm valkers. Example -0.7ac neck item, limited to levels <= 20.
+Umm, no. Cost of the diamond chip is 175 drachma. Artifacts was/is a great idea Maniac. Items that increase in power, because you earn it. All to often, elite items even botters can score in groups these days. At least with this method the item is earned. Leveling the goblet got laborious... but that is sloth. Unfortunately the item is not terribly useful as it doesn't replace -0.7 2 WD or the Scarab of Destruction. In my opinion this item should be elite... no other item takes 3 months minimum to level and unfortunately it's only... almost elite. I really hope more levels are added to it, and the drachma cost is replaced with other items or reduced, or saved till the item really is elite. At this level perhaps it could be a diamond bracer, not a diamond chip. I really hope to see more of these item types, but they are FAR more work than traditional forges and need to reflect that in there intrinsic value or I feel players will not bother. I would also like to see them for VK'ers, maybe only 4 or 5 levels, but it could enable perm valkers to get items slightly higher in value than regular items... and it would be worth it, if they were perm valkers. Example -0.7ac neck item, limited to levels \<= 20.
 
 Level Items...
 

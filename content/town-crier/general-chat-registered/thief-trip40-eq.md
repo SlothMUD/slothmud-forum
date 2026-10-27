@@ -26,15 +26,15 @@ Anyone got any Ideas?
 
 <div class="post" data-post-id="23448" data-author="Alberich" data-date="2008-03-26T18:51:27+00:00" data-subject="">
 
-well, the crown is nice for the manaregen as much as for the str - it's one place we seriously hurt :)   The +2 hit belt is kinda nice i suppose, but there's another +hit belt that is just a regular pop, and +hit really doesn't seem to help a whole lot above +20 anyways.  I'd say get the spelldam leggings and wear opals instead of circles of energy, sell those circles and use the drach towards some spinning razors when you have the levels to wear 'em.
+well, the crown is nice for the manaregen as much as for the str - it's one place we seriously hurt <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> The +2 hit belt is kinda nice i suppose, but there's another +hit belt that is just a regular pop, and +hit really doesn't seem to help a whole lot above +20 anyways. I'd say get the spelldam leggings and wear opals instead of circles of energy, sell those circles and use the drach towards some spinning razors when you have the levels to wear 'em.
 
 </div>
 
 <div class="post" data-post-id="23449" data-author="Leaf" data-date="2008-03-26T19:04:55+00:00" data-subject="">
 
-Go with the belt, crown, or rings.  Everyone needs mana the the rings are
+Go with the belt, crown, or rings. Everyone needs mana the the rings are
 
-a good place if you don't need anything else.  Also I think Strider stated
+a good place if you don't need anything else. Also I think Strider stated
 
 the more +hit the better, and he runs +27hit.
 
@@ -76,7 +76,7 @@ mage quad maybe shroud instead of leggings I guess
 
 Use shroud instead of body dam?
 
--.4 +2mr +25ma x2 = +50mana, two bolts or at least an aegis.
+\-.4 +2mr +25ma x2 = +50mana, two bolts or at least an aegis.
 
 Since he doesn't "need" anything else why not go with some mana?
 
@@ -98,11 +98,11 @@ as a double non-caster the shroud benefits him for regen gear
 
 dumbass, as would the crown...having an AC set for a thief prime
 
-is sort of cool but really a waste of time and money.  i tried it
+is sort of cool but really a waste of time and money. i tried it
 
 and -8 with spelldmg and dmg and stabdmg is the way to fly
 
-imo.  he can get ac from different rings and margn/mana from
+imo. he can get ac from different rings and margn/mana from
 
 different rings..he doesnt need them at the same time taking up both
 
@@ -128,23 +128,23 @@ Well Aa, I'm glad ur so fired up!
 
 Like u stated as a Th/Mo he doesn't really need two "faggoty" rings for 
 
-regen.  Sure he doesn't but then what use would Shroud do?  Since he
+regen. Sure he doesn't but then what use would Shroud do? Since he
 
-isn't going to regen that much on ma.  Since he stated he doesn't really
+isn't going to regen that much on ma. Since he stated he doesn't really
 
-need the str items, what else can help him on him runs.  Hence why I 
+need the str items, what else can help him on him runs. Hence why I 
 
-suggested rings.  If he is stab/blast and can have +4mr and +70ma its
+suggested rings. If he is stab/blast and can have +4mr and +70ma its
 
-going to help him alot more then shroud!  Same with the crown, being ac-1.2
+going to help him alot more then shroud! Same with the crown, being ac-1.2
 
-+3mr and +2str  He can use a firey helm with same ac and +30hp.  Ooo I
+\+3mr and +2str He can use a firey helm with same ac and +30hp. Ooo I
 
 guess I was wrong on ring, it has been changed to -.4 +2mr +35ma.
 
-Back to the topic :P
+Back to the topic <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
-Another item that might help is the leg clasp.  Just +40hp more is always a
+Another item that might help is the leg clasp. Just +40hp more is always a
 
 plus.
 
@@ -176,61 +176,65 @@ nats: 18/81 11 13 18 18
 
 dam eq setup is:
 
-<used as light>      an old copper lantern
+\<used as light\> an old copper lantern
 
-<worn on finger>     a man's diamond ring..It glows violet!..It has a soft glowing aura!
+\<worn on finger\> a man's diamond ring..It glows violet!..It has a soft glowing aura!
 
-<worn on finger>     a man's diamond ring..It glows violet!..It has a soft glowing aura!
+\<worn on finger\> a man's diamond ring..It glows violet!..It has a soft glowing aura!
 
-<worn on shoulders>  shadow pauldrons..It glows violet!
+\<worn on shoulders\> shadow pauldrons..It glows violet!
 
-<worn around neck>   a white cloak..It glows violet! (with a red minidemon brooch attached to it)
+\<worn around neck\> a white cloak..It glows violet! (with a red minidemon brooch attached to it)
 
-<worn on body>       a black suit of dwarven platemail..It glows violet!
+\<worn on body\> a black suit of dwarven platemail..It glows violet!
 
-<worn on head>       a prison guard helmet (with a reddish-colored glass eye attached to it)
+\<worn on head\> a prison guard helmet (with a reddish-colored glass eye attached to it)
 
-<worn on legs>       the greaves of war..It glows violet!..It emits a faint humming sound!
+\<worn on legs\> the greaves of war..It glows violet!..It emits a faint humming sound!
 
-<worn on feet>       diabolan military boots..It glows violet!
+\<worn on feet\> diabolan military boots..It glows violet!
 
-<worn on hands>      a pair of silver gauntlets
+\<worn on hands\> a pair of silver gauntlets
 
-<worn on arms>       sleeves of molten lava..It has a soft glowing aura!
+\<worn on arms\> sleeves of molten lava..It has a soft glowing aura!
 
-<worn as shield>     a large ancient greatshield..It glows violet!..It emits a faint humming sound!
+\<worn as shield\> a large ancient greatshield..It glows violet!..It emits a faint humming sound!
 
-<worn about body>    Cloak of Specialization..It emits a faint humming sound! (with a single-striped white sash (Private) attached to it)
+\<worn about body\> Cloak of Specialization..It emits a faint humming sound! (with a single-striped white sash (Private) attached to it)
 
-<worn about waist>   belt of vitality..It glows violet!
+\<worn about waist\> belt of vitality..It glows violet!
 
-<worn around wrist>  a black opal bracelet..It glows violet!
+\<worn around wrist\> a black opal bracelet..It glows violet!
 
-<worn around wrist>  a black opal bracelet..It glows violet!
+\<worn around wrist\> a black opal bracelet..It glows violet!
 
-<wielded>            a sable gimlet..It glows violet!..It has a soft glowing aura!
+\<wielded\> a sable gimlet..It glows violet!..It has a soft glowing aura!
 
-<held>               Arcane Tome of Power..It glows violet!..It emits a faint humming sound!
+\<held\> Arcane Tome of Power..It glows violet!..It emits a faint humming sound!
 
 </div>
 
 <div class="post" data-post-id="23465" data-author="Weasel" data-date="2008-03-27T08:57:13+00:00" data-subject="">
 
-the problem here is that there isn't any good 3x40 items for thieves!![/quote:39abvxch]
+> <strong>strider wrote:</strong>
+> the problem here is that there isn't any good 3x40 items for thieves!!
 
-There's a sh*tload of good Thief eq in drachma shops, including a number of clasps..
+There's a sh\*tload of good Thief eq in drachma shops, including a number of clasps..
 
 </div>
 
 <div class="post" data-post-id="23468" data-author="*juggleblood*" data-date="2008-03-27T13:22:57+00:00" data-subject="">
 
-the problem here is that there isn't any good 3x40 items for thieves!!!
-
-early on tome and dagger is fine, but once ya forge scarab and kris they
-
-just aren't any fun. leg clasp is nice, more so for the hp regen than the hps, especially when ya add it in w/ the monk's contemplation and what not. since ya need this wis anyway the +hit belt is a solid choice. leggings would probly work well for you also, anyway you go you can make work, that's the fun and whole point to the variety.
-
-one thing i will say about the rings is you don't wanna waste two slots where a thief can add +hit and generally not add dmg, from +2 to +4 if ya don't care about the ac. hit those stabs and ya don't need to worry bout blasting!![/quote:1uhvxdw6]
+> <strong>strider wrote:</strong>
+> the problem here is that there isn't any good 3x40 items for thieves!!!
+> 
+> early on tome and dagger is fine, but once ya forge scarab and kris they
+> 
+> just aren't any fun. leg clasp is nice, more so for the hp regen than the hps, especially when ya add it in w/ the monk's contemplation and what not. since ya need this wis anyway the +hit belt is a solid choice. leggings would probly work well for you also, anyway you go you can make work, that's the fun and whole point to the variety.
+> 
+> 
+> 
+> one thing i will say about the rings is you don't wanna waste two slots where a thief can add +hit and generally not add dmg, from +2 to +4 if ya don't care about the ac. hit those stabs and ya don't need to worry bout blasting!!
 
 I think you are seriously over estimating the benefit of +hit. AC is a much better bet imho.
 
@@ -238,13 +242,13 @@ I think you are seriously over estimating the benefit of +hit. AC is a much bett
 
 <div class="post" data-post-id="23469" data-author="13" data-date="2008-03-27T13:27:18+00:00" data-subject="">
 
-Not for a Thief prime Jon.  Everyone else...yes.
+Not for a Thief prime Jon. Everyone else...yes.
 
 </div>
 
 <div class="post" data-post-id="23470" data-author="Leaf" data-date="2008-03-27T14:13:48+00:00" data-subject="">
 
-For Copra, I would say either the belt for the +2hit, wis, and more ac.  Or
+For Copra, I would say either the belt for the +2hit, wis, and more ac. Or
 
 the leg clasp.
 
@@ -268,25 +272,25 @@ just buy your cap in stabdmg with tokens. the robe is a solid item to round out 
 
 <div class="post" data-post-id="23477" data-author="jezer" data-date="2008-03-27T22:40:04+00:00" data-subject="">
 
-*With 20+ area's being made specifically for them.
+\*With 20+ area's being made specifically for them.
 
-*For insane damage.
+\*For insane damage.
 
-*For doing in one round, whats requires me to do in a run.
+\*For doing in one round, whats requires me to do in a run.
 
-*For insane amounts of xp and coins available in a second.
+\*For insane amounts of xp and coins available in a second.
 
-*For being sloth's most insanely over powered xp class.
+\*For being sloth's most insanely over powered xp class.
 
 I thought I'd observe a moments silence for the poor little thief class...
 
-That ought to do it.  :evil:
+That ought to do it. <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23478" data-author="Weasel" data-date="2008-03-27T23:12:00+00:00" data-subject="">
 
-^5  :twisted:
+^5 <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -294,21 +298,21 @@ That ought to do it.  :evil:
 
 I went to the eq list and filtered Worn EQ by class restriction... 
 
-Mage Restricted EQ List Lines		1165 (Maybe Less, Would include M restrict)
+Mage Restricted EQ List Lines 1165 (Maybe Less, Would include M restrict)
 
 Warrior Restricted EQ List Lines	927
 
-Cleric Restricted EQ List Lines		866
+Cleric Restricted EQ List Lines 866
 
-Thief Restricted EQ List Lines		837
+Thief Restricted EQ List Lines 837
 
-Necro Restricted EQ List Lines		594
+Necro Restricted EQ List Lines 594
 
-Bard Restricted EQ List Lines		498
+Bard Restricted EQ List Lines 498
 
-Druid Restricted EQ List Lines		450
+Druid Restricted EQ List Lines 450
 
-Monk Restricted EQ List Lines		438
+Monk Restricted EQ List Lines 438
 
 In all fairness, if eq was to be looked at... shouldn't new classo eq be looked at first? I mean you may have found a legit hole in thief eq between levels 3 x 40 and 4 x 40, but get a grip on the monk, druid and bard situation. In the grand scheme of things... mute point.
 
@@ -324,29 +328,34 @@ Again monks are getting screwed!!!
 
 <div class="post" data-post-id="23483" data-author="Medios" data-date="2008-03-28T12:59:31+00:00" data-subject="">
 
-*With 20+ area's being made specifically for them.
-
-*For insane damage.
-
-*For doing in one round, whats requires me to do in a run.
-
-*For insane amounts of xp and coins available in a second.
-
-*For being sloth's most insanely over powered xp class.
-
-I thought I'd observe a moments silence for the poor little thief class...
-
-That ought to do it.  :evil:[/quote:12ggkchv]
+> <strong>jezer wrote:</strong>
+> \*With 20+ area's being made specifically for them.
+> 
+> \*For insane damage.
+> 
+> \*For doing in one round, whats requires me to do in a run.
+> 
+> \*For insane amounts of xp and coins available in a second.
+> 
+> \*For being sloth's most insanely over powered xp class.
+> 
+> 
+> 
+> I thought I'd observe a moments silence for the poor little thief class...
+> 
+> 
+> 
+> That ought to do it. <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 last player stryx
 
-Maybe you need to look around before you bitch and moan.  I got 5 dollars dave can anything a thief can.  How many thieves are soloing Dracolich?  Medios won't dare.
+Maybe you need to look around before you bitch and moan. I got 5 dollars dave can anything a thief can. How many thieves are soloing Dracolich? Medios won't dare.
 
 </div>
 
 <div class="post" data-post-id="23484" data-author="*juggleblood*" data-date="2008-03-28T13:36:13+00:00" data-subject="">
 
-I'm of the opinion that the balance between the classes is as good as it has EVER been. The price you pay for being a stabber is spending a lot of time in the dead position. Also keep in mind that excrutiating blow doesn't occur nearly as often in solo or small group stab. It's either tied somehow to group size, probably the number of people who joined the warcry.  You'd have a hard time convincing me that thief is owerpowered as a solo char.
+I'm of the opinion that the balance between the classes is as good as it has EVER been. The price you pay for being a stabber is spending a lot of time in the dead position. Also keep in mind that excrutiating blow doesn't occur nearly as often in solo or small group stab. It's either tied somehow to group size, probably the number of people who joined the warcry. You'd have a hard time convincing me that thief is owerpowered as a solo char.
 
 Do you really think that you can't run island gold without thief in classo? Most of the coin mobs drop on 1 or 2 blasts and elemental school is largely nostab. As for XP, solo is inefficient. Grab yourself a stabber or gripper and run 2 man lyme xp. With your mana regen, you'll go far. 
 
@@ -358,17 +367,19 @@ think that druids lack some essential piece of gear, build an area and put the e
 
 <div class="post" data-post-id="23485" data-author="Autolycos" data-date="2008-03-28T13:57:31+00:00" data-subject="">
 
-I'm of the opinion that the balance between the classes is as good as it has EVER been. The price you pay for being a stabber is spending a lot of time in the dead position. Also keep in mind that excrutiating blow doesn't occur nearly as often in solo or small group stab. It's either tied somehow to group size, probably the number of people who joined the warcry.  You'd have a hard time convincing me that thief is owerpowered as a solo char.[/quote:1ulmtc5n]
+> <strong>juggleblood wrote:</strong>
+> I'm of the opinion that the balance between the classes is as good as it has EVER been. The price you pay for being a stabber is spending a lot of time in the dead position. Also keep in mind that excrutiating blow doesn't occur nearly as often in solo or small group stab. It's either tied somehow to group size, probably the number of people who joined the warcry. You'd have a hard time convincing me that thief is owerpowered as a solo char.
 
-I agree.  I was always under the assumption that the reason there are different classes is because people are different and it requires "different people" to comprise a group.  If you balance everyone, then everyone is equally useless and skilless.  Leave shit alone, let all classes and players retain their individuality.
+I agree. I was always under the assumption that the reason there are different classes is because people are different and it requires "different people" to comprise a group. If you balance everyone, then everyone is equally useless and skilless. Leave shit alone, let all classes and players retain their individuality.
 
-ps.  Dave (stryx) is plain nuts....
+ps. Dave (stryx) is plain nuts....
 
 </div>
 
 <div class="post" data-post-id="23486" data-author="jezer" data-date="2008-03-28T14:32:40+00:00" data-subject="">
 
-Maybe you need to look around before you bitch and moan.  I got 5 dollars dave can anything a thief can.  How many thieves are soloing Dracolich?  Medios won't dare.[/quote:5b4u7di7]
+> <strong>Medios wrote:</strong>
+> Maybe you need to look around before you bitch and moan. I got 5 dollars dave can anything a thief can. How many thieves are soloing Dracolich? Medios won't dare.
 
 Give me a break Mike, You've worked me into a stereotype. I never mentioned the word druid once in that quoted post, nor did I say thieves were good at solo, nor did I state that they could kill some huge mob better than a necro or a druid or stryx. So what the heck are you going on about?
 
@@ -382,7 +393,8 @@ I'm out to cool off.
 
 <div class="post" data-post-id="23491" data-author="Thraxas" data-date="2008-03-28T18:04:29+00:00" data-subject="">
 
-but I still say... thiefs stab better than clerics heal, mages blast, monks grip and bards sing.[/quote:2oryty38]
+> <strong>jezer wrote:</strong>
+> but I still say... thiefs stab better than clerics heal, mages blast, monks grip and bards sing.
 
 yeah they die better too especially solo
 
@@ -390,7 +402,8 @@ yeah they die better too especially solo
 
 <div class="post" data-post-id="23493" data-author="*juggleblood*" data-date="2008-03-28T21:15:34+00:00" data-subject="">
 
-You've just decided I'm a whiner. [/quote:1cqyaa5l]
+> <strong>jezer wrote:</strong>
+> You've just decided I'm a whiner.
 
 me too...
 
@@ -398,7 +411,7 @@ me too...
 
 <div class="post" data-post-id="23495" data-author="brady" data-date="2008-03-28T21:25:15+00:00" data-subject="">
 
-:twisted:
+<img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -410,13 +423,13 @@ thucking fiefs
 
 <div class="post" data-post-id="23497" data-author="Alberich" data-date="2008-03-29T04:35:16+00:00" data-subject="">
 
-The price you pay for being a stabber is spending a lot of time in the dead position. 
+> <strong>juggleblood wrote:</strong>
+> The price you pay for being a stabber is spending a lot of time in the dead position.
 
-[/quote:2uiog82b]
+i would submit this has at least as much to do with the mindset of people who play thief prime as it does the actual class <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
-i would submit this has at least as much to do with the mindset of people who play thief prime as it does the actual class  ;)
-
-You've just decided I'm a whiner. [/quote:2uiog82b]
+> <strong>jezer wrote:</strong>
+> You've just decided I'm a whiner.
 
 ^^this
 
@@ -432,27 +445,29 @@ thieves can only stab a mob once and mages can continue to stab it witbh their m
 
 sometimes not even that..... 
 
-[quote:ez70fcni]A ghoul cityguard hates your guts!
-
-A ghoul cityguard quickly avoids your backstab, and you nearly cut your finger!
-
-A ghoul cityguard quickly avoids your backstab, and you nearly cut your finger!
-
-A ghoul cityguard quickly avoids your backstab, and you nearly cut your finger![/quote:ez70fcni]
+> <strong>Quote:</strong>
+> A ghoul cityguard hates your guts!
+> 
+> A ghoul cityguard quickly avoids your backstab, and you nearly cut your finger!
+> 
+> A ghoul cityguard quickly avoids your backstab, and you nearly cut your finger!
+> 
+> A ghoul cityguard quickly avoids your backstab, and you nearly cut your finger!
 
 </div>
 
 <div class="post" data-post-id="23534" data-author="Weasel" data-date="2008-04-01T22:00:36+00:00" data-subject="">
 
-[quote:1g98iu1r]A ghoul cityguard hates your guts!
+> <strong>Quote:</strong>
+> A ghoul cityguard hates your guts!
+> 
+> A ghoul cityguard quickly avoids your backstab, and you nearly cut your finger!
+> 
+> A ghoul cityguard quickly avoids your backstab, and you nearly cut your finger!
+> 
+> A ghoul cityguard quickly avoids your backstab, and you nearly cut your finger!
 
-A ghoul cityguard quickly avoids your backstab, and you nearly cut your finger!
-
-A ghoul cityguard quickly avoids your backstab, and you nearly cut your finger!
-
-A ghoul cityguard quickly avoids your backstab, and you nearly cut your finger![/quote:1g98iu1r]
-
-you mean that's not normal?  :shock:  
+you mean that's not normal? <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
 I must be doing it wrong...
 
@@ -484,9 +499,9 @@ Necro seems the worst choice to pair with thief to me. Well, maybe tied with dru
 
 <div class="post" data-post-id="23540" data-author="Autolycos" data-date="2008-04-02T13:26:12+00:00" data-subject="">
 
-if we ever had the ability to add a specialty class..  
+if we ever had the ability to add a specialty class.. 
 
-I would add necro for sure.  Not only for the followers and wraith, but for spectral too. 
+I would add necro for sure. Not only for the followers and wraith, but for spectral too. 
 
 good stuff!
 
@@ -504,13 +519,13 @@ Pooka
 
 I say go and live by the most damage or at least die trying ... Th/Ba/Ne/Mo
 
-With a Th/Ba you get more mana and slightly less hp then a Th/Mo.  You will
+With a Th/Ba you get more mana and slightly less hp then a Th/Mo. You will
 
-also have a ton of mov points so you can run around and stab things.  Just
+also have a ton of mov points so you can run around and stab things. Just
 
-have to wait for focus and by then you will be on Lyme.  Higher charisma 
+have to wait for focus and by then you will be on Lyme. Higher charisma 
 
-cap, so if it really comes down to a whiff, you can sing "cry".  
+cap, so if it really comes down to a whiff, you can sing "cry". 
 
 Necro to use wraith, spec shield, and summons.
 
@@ -530,7 +545,8 @@ if you want to make a "group" thief, nice to two man w/ etc. i'ld probly drop ma
 
 <div class="post" data-post-id="23544" data-author="*juggleblood*" data-date="2008-04-02T20:40:36+00:00" data-subject="">
 
-Th/Ba/Ne/Mo[/quote:goc06f0h]
+> <strong>Leaf wrote:</strong>
+> Th/Ba/Ne/Mo
 
 What on Jorg are you talking about Will?
 
@@ -544,23 +560,24 @@ Would you sacrifice Warrior for ac, eq, disengage, massive critical hit, etc?
 
 Sacrifice cleric? r u nuts?
 
-The only benefit I see to adding bard nemore are beacon of fortune and there and back again and of course being able to make those whatchamacallit things from the magical shardy things.  Bard is cool, just possibly over rated when it comes to stabbing.
+The only benefit I see to adding bard nemore are beacon of fortune and there and back again and of course being able to make those whatchamacallit things from the magical shardy things. Bard is cool, just possibly over rated when it comes to stabbing.
 
 </div>
 
 <div class="post" data-post-id="23545" data-author="Autolycos" data-date="2008-04-02T21:46:44+00:00" data-subject="">
 
-crazy people. unfortunately if you want a "solo" thief you have to have cleric. .[/quote:2q8z78tz]
+> <strong>strider wrote:</strong>
+> crazy people. unfortunately if you want a "solo" thief you have to have cleric. .
 
-tru dat ;)
+tru dat <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23546" data-author="jezer" data-date="2008-04-02T23:40:02+00:00" data-subject="">
 
-This is the thing about classo, when you choose your four, it feels like your always leaving one good class out... we need 5!  :twisted: 
+This is the thing about classo, when you choose your four, it feels like your always leaving one good class out... we need 5! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-Bring on Sloth IV!  :D 
+Bring on Sloth IV! <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> 
 
 And yes... to those who said using wraithform and necro pets on stab mobs doesn't work, that's true! I'd still rather have that class added to solo though. 
 
@@ -584,11 +601,12 @@ i have paid 2200 drachma 30bil xp and 30mil gold to just add +39 to each stab. (
 
 <div class="post" data-post-id="23550" data-author="jezer" data-date="2008-04-03T05:13:10+00:00" data-subject="">
 
-i have paid 2200 drachma 30bil xp and 30mil gold to just add +39 to each stab. [/quote:1229tvhi]
+> <strong>strider wrote:</strong>
+> i have paid 2200 drachma 30bil xp and 30mil gold to just add +39 to each stab.
 
-Wait till he starts telling ya about how much he paid for +1 Mana Regen!   :shock: 
+Wait till he starts telling ya about how much he paid for +1 Mana Regen! <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
-Strides is king!  :twisted:
+Strides is king! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -602,11 +620,12 @@ Can we please have Akasha or who's in charge update info about what we can buy i
 
 <div class="post" data-post-id="23554" data-author="Autolycos" data-date="2008-04-03T10:41:11+00:00" data-subject="">
 
-any dmg is good dmg!![/quote:1xqwdncp]
+> <strong>strider wrote:</strong>
+> any dmg is good dmg!!
 
 teh king is right 
 
-i'm right behind ya sparky  8)
+i'm right behind ya sparky <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -614,7 +633,7 @@ i'm right behind ya sparky  8)
 
 Can I just say that Gods of War costs mana to sing and that focus is free.
 
-I still think the Cocaine/Lox style of thief is the strongest.  Good blasting, counterattack, dmg reduc, and you still get your aegis and rabbit.  Bard for thieves is the suxor now.  You can't rely on cry for blasting and the songs don't do that much considering the mana cost involved.
+I still think the Cocaine/Lox style of thief is the strongest. Good blasting, counterattack, dmg reduc, and you still get your aegis and rabbit. Bard for thieves is the suxor now. You can't rely on cry for blasting and the songs don't do that much considering the mana cost involved.
 
 </div>
 
@@ -632,15 +651,15 @@ if you keep singing it adds +7dam to each attack.
 
 <div class="post" data-post-id="23565" data-author="Weasel" data-date="2008-04-03T19:02:37+00:00" data-subject="">
 
-frenzy and berserk now add damage to backstab, deathgrip, deathtouch, wraithtouch, strike and circlestab - frenzy at ~50% of what its regular damage bonus is, and berserk roughly twice that (berserk still has 2ac penalty though).. worth keeping in mind for Thief primes when considering classo. Also increased hp for tert or quad Warrior (particularly quad). Duration of frenzy increased at higher levels too.
+frenzy and berserk now add damage to backstab, deathgrip, deathtouch, wraithtouch, strike and circlestab - frenzy at \~50% of what its regular damage bonus is, and berserk roughly twice that (berserk still has 2ac penalty though).. worth keeping in mind for Thief primes when considering classo. Also increased hp for tert or quad Warrior (particularly quad). Duration of frenzy increased at higher levels too.
 
 </div>
 
 <div class="post" data-post-id="23566" data-author="Leaf" data-date="2008-04-03T19:12:28+00:00" data-subject="">
 
-I know thiefs with warriors can use frenzy/bersek.  But I never really notice
+I know thiefs with warriors can use frenzy/bersek. But I never really notice
 
-that much of a stab.  When my thief bersek there are times i can't splork
+that much of a stab. When my thief bersek there are times i can't splork
 
 a mob that I could have splork without bersek.
 
@@ -648,11 +667,13 @@ a mob that I could have splork without bersek.
 
 <div class="post" data-post-id="23567" data-author="Weasel" data-date="2008-04-03T19:17:02+00:00" data-subject="">
 
-I know thiefs with warriors can use frenzy/bersek.  But I never really notice that much of a stab.[/quote:2gmloajq]
+> <strong>Leaf wrote:</strong>
+> I know thiefs with warriors can use frenzy/bersek. But I never really notice that much of a stab.
 
-Well yeah, up to now, frenzy/berserk shouldn't have had an effect on stab. :)
+Well yeah, up to now, frenzy/berserk shouldn't have had an effect on stab. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-When my thief bersek there are times i can't splork a mob that I could have splork without bersek.[/quote:2gmloajq]
+> <strong>Leaf wrote:</strong>
+> When my thief bersek there are times i can't splork a mob that I could have splork without bersek.
 
 Hope berserk doesn't override added stabdam or something..
 
@@ -660,9 +681,9 @@ Hope berserk doesn't override added stabdam or something..
 
 <div class="post" data-post-id="23568" data-author="Leaf" data-date="2008-04-03T19:22:52+00:00" data-subject="">
 
-Naw my thief runs at like -10 +23dam +15stab.  I don't have stab max,
+Naw my thief runs at like -10 +23dam +15stab. I don't have stab max,
 
-but I guess I could use my 7 exp tokens on something ...  (God I wish u can
+but I guess I could use my 7 exp tokens on something ... (God I wish u can
 
 trans exp tokens to other chars!!!)
 
@@ -682,25 +703,26 @@ addon: apparently frenzy / berserk don't add as much damage as focus, but they w
 
 Well i guess frenzy/bersek "could" be better in the sense of focus time.
 
-You can just type "frenzy/bersek" and can go stabbing.  Without Ki, reg
+You can just type "frenzy/bersek" and can go stabbing. Without Ki, reg
 
 focus does take awhile to charge up.
 
-I do like the class order of th/ma/cl/mo.  Since it does do a great amount
+I do like the class order of th/ma/cl/mo. Since it does do a great amount
 
-of damage from focus, stab, & blast.  But if u can two man all the time n
+of damage from focus, stab, \& blast. But if u can two man all the time n
 
-just to have the most damage th/ma/ba/mo.  Would need a cleric type with
+just to have the most damage th/ma/ba/mo. Would need a cleric type with
 
-that class order of course :)
+that class order of course <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23571" data-author="*juggleblood*" data-date="2008-04-03T20:39:34+00:00" data-subject="">
 
-"
-
-i have paid 2200 drachma 30bil xp and 30mil gold to just add +39 to each stab. (two razors and 9 stabdmg)[/quote:3i3fygou]
+> <strong>strider wrote:</strong>
+> "
+> 
+> i have paid 2200 drachma 30bil xp and 30mil gold to just add +39 to each stab. (two razors and 9 stabdmg)
 
 A fool and his money....
 
@@ -718,35 +740,36 @@ with the new warrior changes it's time for someone to step forward and make that
 
 <div class="post" data-post-id="23578" data-author="jezer" data-date="2008-04-04T00:20:59+00:00" data-subject="">
 
-with the new warrior changes it's time for someone to step forward and make that th/mo/ba/wa!!! someone step up and give it a go![/quote:2yg4bzh7]
+> <strong>strider wrote:</strong>
+> with the new warrior changes it's time for someone to step forward and make that th/mo/ba/wa!!! someone step up and give it a go!
 
 Hey can I bum an aegis!
 
-*running across the road*
+\*running across the road\*
 
 Any chance at a sanct?
 
-*in group later that day*
+\*in group later that day\*
 
 Can you wall me please?
 
-*to some n00b in group*
+\*to some n00b in group\*
 
 Lite me please!
 
-I nominate strides!  :twisted:
+I nominate strides! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23579" data-author="13" data-date="2008-04-04T00:26:56+00:00" data-subject="">
 
-I'm perfectly happy with th/ma/cl/mo.  You will whiff, it's inevitable, and frostbolt makes shit go away when you do.  Cleric...well..the worst prime class yet the most necessary supporting class.  Monk for all the monk gravy, mostly focus.
+I'm perfectly happy with th/ma/cl/mo. You will whiff, it's inevitable, and frostbolt makes shit go away when you do. Cleric...well..the worst prime class yet the most necessary supporting class. Monk for all the monk gravy, mostly focus.
 
 </div>
 
 <div class="post" data-post-id="23580" data-author="13" data-date="2008-04-04T00:29:01+00:00" data-subject="">
 
-Just saw the new change with warrior supporting class.  Medios will 
+Just saw the new change with warrior supporting class. Medios will 
 
 be stoked.
 
@@ -766,16 +789,17 @@ primes still need some luv...
 
 <div class="post" data-post-id="23584" data-author="jezer" data-date="2008-04-04T03:24:51+00:00" data-subject="">
 
-primes still need some luv...[/quote:3kmp4jpv]
+> <strong>Weasel wrote:</strong>
+> primes still need some luv...
 
-[img:3kmp4jpv]http://www.filmtrips.com/roadkill/roadkill_pictures/roadkill_pictures_04.jpg[/img:3kmp4jpv]
+![](http://www.filmtrips.com/roadkill/roadkill_pictures/roadkill_pictures_04.jpg)
 
-Here you go... now where were we?  :twisted:
+Here you go... now where were we? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23586" data-author="Weasel" data-date="2008-04-04T05:38:02+00:00" data-subject="">
 
-:shock:     :cry:
+<img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom">
 
 </div>

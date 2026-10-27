@@ -12,7 +12,7 @@ post_count: 64
 
 <div class="post" data-post-id="25513" data-author="reboog" data-date="2008-08-01T06:15:16+00:00" data-subject="reboog is great">
 
-This is a thread documenting the deeds of greatness that I am doing and am will be achieving.  Consider it a privilege to witness my am achieving the acts of greatness.
+This is a thread documenting the deeds of greatness that I am doing and am will be achieving. Consider it a privilege to witness my am achieving the acts of greatness.
 
 get all
 
@@ -26,7 +26,7 @@ You pick up a pie.
 
 OK.
 
-<333hp 403ma 92mv> 11:35 am, fair
+\<333hp 403ma 92mv\> 11:35 am, fair
 
 gt owned.
 
@@ -42,11 +42,11 @@ ent barnacle
 
 Poggle boards The Barnacle.
 
-<336hp 201ma 46mv> 10:59 pm, fair
+\<336hp 201ma 46mv\> 10:59 pm, fair
 
 The Barnacle shoves off and heads for the open seas.
 
-The ship captain shouts 'All aboard.  Ship leaving in one hour.'
+The ship captain shouts 'All aboard. Ship leaving in one hour.'
 
 There is no barnacle here.
 
@@ -54,19 +54,19 @@ There is no barnacle here.
 
 <div class="post" data-post-id="25515" data-author="jezer" data-date="2008-08-01T08:08:27+00:00" data-subject="">
 
-Ohhhhhhh master, where hast thou been!  :twisted:
+Ohhhhhhh master, where hast thou been! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="25516" data-author="Yasik2" data-date="2008-08-01T09:07:18+00:00" data-subject="">
 
-ALL HAIL REBOOG !!! [/size:385yml14][/color:385yml14]
+ALL HAIL REBOOG !!!
 
 </div>
 
 <div class="post" data-post-id="25517" data-author="jezer" data-date="2008-08-01T10:36:08+00:00" data-subject="">
 
-[img:2pvvx4hd]http://www.leapfreak.com/images/Sign.jpg[/img:2pvvx4hd]
+![](http://www.leapfreak.com/images/Sign.jpg)
 
 </div>
 
@@ -78,7 +78,7 @@ According to Dictionary.com Reboog is just a re-bent rod... In Dutch of course.
 
 <div class="post" data-post-id="25526" data-author="jezer" data-date="2008-08-02T07:06:47+00:00" data-subject="">
 
-If you swing it around it spells goober...  :wink:
+If you swing it around it spells goober... <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -88,11 +88,11 @@ press kalene
 
 You press down on her.
 
-<437hp 426ma 94mv> 1:36 am, indoors
+\<437hp 426ma 94mv\> 1:36 am, indoors
 
 Kalene sits down and rests.
 
-<437hp 426ma 94mv> 1:38 am, indoors
+\<437hp 426ma 94mv\> 1:38 am, indoors
 
 gti caused that.
 
@@ -118,27 +118,27 @@ i caused that.
 
 You try flexing to impress the ladies.
 
-<217hp 63ma 83mv> 6:13 am, overcast
+\<217hp 63ma 83mv\> 6:13 am, overcast
 
 Poggle flexes his body in a very masculine way.
 
-<218hp 64ma 84mv> 6:14 am, overcast
+\<218hp 64ma 84mv\> 6:14 am, overcast
 
 flex
 
 You try flexing to impress the ladies.
 
-<219hp 66ma 85mv> 6:17 am, overcast
+\<219hp 66ma 85mv\> 6:17 am, overcast
 
 Poggle flexes his body in a very masculine way.
 
-<219hp 67ma 85mv> 6:19 am, overcast
+\<219hp 67ma 85mv\> 6:19 am, overcast
 
 flex
 
 You try flexing to impress the ladies.
 
-<219hp 69ma 86mv> 6:20 am, overcast
+\<219hp 69ma 86mv\> 6:20 am, overcast
 
 Poggle flexes his body in a very masculine way.
 
@@ -154,7 +154,7 @@ WE R GREAT
 
 <div class="post" data-post-id="25661" data-author="Acedia" data-date="2008-08-06T23:08:48+00:00" data-subject="">
 
-*bump*
+\*bump\*
 
 </div>
 
@@ -162,7 +162,7 @@ WE R GREAT
 
 Poggle says 'reboog is great.'
 
-<450hp 447ma 94mv> 7:06 pm, indoors
+\<450hp 447ma 94mv\> 7:06 pm, indoors
 
 You put your hand out, and Poggle slaps it.
 
@@ -172,13 +172,13 @@ You put your hand out, and Poggle slaps it.
 
 u shuld start your clan;
 
-Reboog - Leader Clan Reboog: <~Reboog~>
+Reboog - Leader Clan Reboog: \<\~Reboog\~\>
 
 hrm
 
 or maybe 
 
-Clan Great: ~G~
+Clan Great: \~G\~
 
 </div>
 
@@ -208,13 +208,13 @@ Acedia utters the words, 'qfzahz yaae'
 
 A banana suddenly appears.
 
-<437hp 372ma 82mv> 10:09 pm, indoors
+\<437hp 372ma 82mv\> 10:09 pm, indoors
 
 get food
 
 You pick up a banana.
 
-<437hp 375ma 83mv> 10:12 pm, indoors
+\<437hp 375ma 83mv\> 10:12 pm, indoors
 
 say OWMNED
 
@@ -254,9 +254,10 @@ how awesome is my awesomeness.
 
 <div class="post" data-post-id="25751" data-author="tincts" data-date="2008-08-15T05:29:16+00:00" data-subject="">
 
-tincts: your nick is the correct length[/quote:3qg08h4i]
+> <strong>reboog wrote:</strong>
+> tincts: your nick is the correct length
 
-Yah.  I pluralised it just to fit in :)
+Yah. I pluralised it just to fit in <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -264,7 +265,7 @@ Yah.  I pluralised it just to fit in :)
 
 Dude's Awesome
 
-[img:2y3n9x0t]http://s192.photobucket.com/albums/z34/JS08_photos/th_1178464078121.gif[/img:2y3n9x0t]
+![](http://s192.photobucket.com/albums/z34/JS08_photos/th_1178464078121.gif)
 
 </div>
 
@@ -278,13 +279,13 @@ Tincts is great
 
 Weasel is great
 
-WE SURE ARE GREAT!  srsly, i'm so srs.
+WE SURE ARE GREAT! srsly, i'm so srs.
 
 </div>
 
 <div class="post" data-post-id="25762" data-author="jezer" data-date="2008-08-17T01:39:00+00:00" data-subject="">
 
-Oh man! I want the awesomeness too!  :cry: From now on I will be known as Jezers.
+Oh man! I want the awesomeness too! <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> From now on I will be known as Jezers.
 
 </div>
 
@@ -304,21 +305,22 @@ jezers is excellent, and so is his nick length
 
 <div class="post" data-post-id="25764" data-author="Weasel" data-date="2008-08-17T04:01:46+00:00" data-subject="">
 
-.[/color:2ixu6ntl]
+.
 
-corm is great.[/color:2ixu6ntl]
+corm is great.
 
-.[/color:2ixu6ntl]
+.
 
-[img:2ixu6ntl]http://www.wisemouseboy.com/gallery2/d/3774-2/gentlemen_corm_framed.jpg[/img:2ixu6ntl]
+![](http://www.wisemouseboy.com/gallery2/d/3774-2/gentlemen_corm_framed.jpg)
 
 </div>
 
 <div class="post" data-post-id="25766" data-author="Yasik2" data-date="2008-08-17T07:19:18+00:00" data-subject="">
 
-*demotivator*[/quote:3ganw573]
+> <strong>Weasel wrote:</strong>
+> \*demotivator\*
 
-[img:3ganw573]http://yasik.kiev.ua/4chan/Yoda_troll_side.jpg[/img:3ganw573]
+![](http://yasik.kiev.ua/4chan/Yoda_troll_side.jpg)
 
 </div>
 
@@ -328,7 +330,7 @@ teach fat kalene
 
 You begin teaching feast to Kalene from a fat spellbook.
 
-<636hp 567ma 178mv 1:42 pm raining -5>
+\<636hp 567ma 178mv 1:42 pm raining -5\>
 
 Your lesson to Kalene about feast gets rudely interupted.
 
@@ -348,7 +350,7 @@ omg i kno rite
 
 Stream gossips-- 'u're great indeed'
 
-<477hp 504ma 89mv> 2:53 am, indoors
+\<477hp 504ma 89mv\> 2:53 am, indoors
 
 gos I sure am great.
 
@@ -360,7 +362,7 @@ You gossip-- 'I sure am great.'
 
 Reboog is good but there is only one great.
 
-[img:igarsuyu]http://farm1.static.flickr.com/113/286042232_1b6eb8d877.jpg[/img:igarsuyu]
+![](http://farm1.static.flickr.com/113/286042232_1b6eb8d877.jpg)
 
 </div>
 
@@ -390,7 +392,7 @@ Virus (gossip): Reboog the Great
 
 Apprentice (gossip): to be precise Reboog is great.
 
-Dubbs (gossip): i agree :)
+Dubbs (gossip): i agree <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -402,21 +404,21 @@ Reboog for President!
 
 <div class="post" data-post-id="26364" data-author="jezer" data-date="2008-09-17T11:54:34+00:00" data-subject="">
 
-<448hp 292ma 199mv 1.3ac +7al 1124047679xp +141mr>
+\<448hp 292ma 199mv 1.3ac +7al 1124047679xp +141mr\>
 
 reboot now or later?
 
-<485hp 356ma 199mv -1.7ac +7al 1124047679xp +98mr>
+\<485hp 356ma 199mv -1.7ac +7al 1124047679xp +98mr\>
 
 You gossip-- 'reboog is great'
 
-<494hp 367ma 199mv -1.7ac +7al 1124047679xp +98mr>
+\<494hp 367ma 199mv -1.7ac +7al 1124047679xp +98mr\>
 
 You gossip-- 'ohhh... reboot'
 
-<499hp 374ma 199mv -1.7ac +7al 1124047679xp +98mr>
+\<499hp 374ma 199mv -1.7ac +7al 1124047679xp +98mr\>
 
-Judge gossips-- 'goober is not great :P'
+Judge gossips-- 'goober is not great <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">'
 
 </div>
 
@@ -436,11 +438,11 @@ Weasel: i sure am greating
 
 <div class="post" data-post-id="26425" data-author="reboog" data-date="2008-09-21T23:38:09+00:00" data-subject="">
 
------{   Settlestone Pony Deluxe  }-----
+\-----{ Settlestone Pony Deluxe }-----
 
 Date: Sun Sep 21 16:09:24 2008
 
-  To: Reboog
+ To: Reboog
 
 From: Poggle
 
@@ -460,7 +462,7 @@ Poggle
 
 I wrote a love poem for everyone I am being in love with
 
-What's in a name?  that which we call a rose
+What's in a name? that which we call a rose
 
 by any other name, would smell as sweet
 
@@ -480,19 +482,19 @@ hi
 
 <div class="post" data-post-id="26694" data-author="jezer" data-date="2008-10-14T23:46:15+00:00" data-subject="">
 
-I think reboog could have been greater if he kept his greatness charade up longer. It's run out... I'm disppointed... reboog was just good...  :evil:
+I think reboog could have been greater if he kept his greatness charade up longer. It's run out... I'm disppointed... reboog was just good... <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="26699" data-author="reboog" data-date="2008-10-15T02:38:28+00:00" data-subject="">
 
-Reboog is great.  Don't worry, I checked.
+Reboog is great. Don't worry, I checked.
 
 </div>
 
 <div class="post" data-post-id="26708" data-author="tincts" data-date="2008-10-15T06:21:14+00:00" data-subject="">
 
-I'm thinking of playing sloth again.  I know that Reboog is great, but I need to experience it.  To FEEL it.
+I'm thinking of playing sloth again. I know that Reboog is great, but I need to experience it. To FEEL it.
 
 He's great, Reboog.
 
@@ -518,7 +520,10 @@ Dear bear boys, the man in the moon is hammering his tin face, the stars are pin
 
 <div class="post" data-post-id="27123" data-author="Weasel" data-date="2008-11-10T22:24:48+00:00" data-subject="">
 
-Dear bear boys, the man in the moon is hammering his tin face, the stars are pins in the voodoo doll of the universe, the happiness tastes of blueberry and orange pancakes! cheers[/quote:phvyywmn] blueberry and orange... [i:phvyywmn]together[/i:phvyywmn] ?  Not sure about that one, but I guess if it's smothered with enough maple syrup it'll work. Cheers to you too.
+> <strong>Poggle wrote:</strong>
+> Dear bear boys, the man in the moon is hammering his tin face, the stars are pins in the voodoo doll of the universe, the happiness tastes of blueberry and orange pancakes! cheers
+
+ blueberry and orange... <em>together</em> ? Not sure about that one, but I guess if it's smothered with enough maple syrup it'll work. Cheers to you too.
 
 </div>
 
@@ -552,7 +557,7 @@ go get one
 
 <div class="post" data-post-id="28062" data-author="reboog" data-date="2009-02-11T19:52:55+00:00" data-subject="">
 
-Gimlet: your nick is the correct length.  The correct length is your nick length.  You nick length is correct.
+Gimlet: your nick is the correct length. The correct length is your nick length. You nick length is correct.
 
 </div>
 
@@ -564,13 +569,13 @@ Gimlet: your nick is the correct length.  The correct length is your nick length
 
 <div class="post" data-post-id="28173" data-author="reboog" data-date="2009-02-18T06:40:51+00:00" data-subject="">
 
-1.  ...d5
+1\. ...d5
 
 </div>
 
 <div class="post" data-post-id="28174" data-author="jezer" data-date="2009-02-18T09:29:24+00:00" data-subject="reboog is grape">
 
-[img:94st2pky]http://assets.kaboose.com/media/00/00/00/d7/ed4881bff7b0bf72969572043831b4e8acfc3673/476x357/grape-guy_476x357.jpg[/img:94st2pky]
+![](http://assets.kaboose.com/media/00/00/00/d7/ed4881bff7b0bf72969572043831b4e8acfc3673/476x357/grape-guy_476x357.jpg)
 
 reboog is grape
 
@@ -578,9 +583,12 @@ reboog is grape
 
 <div class="post" data-post-id="28179" data-author="reboog" data-date="2009-02-18T09:59:23+00:00" data-subject="Re: reboog is grape">
 
-[img:205kbqn9]http://assets.kaboose.com/media/00/00/00/d7/ed4881bff7b0bf72969572043831b4e8acfc3673/476x357/grape-guy_476x357.jpg[/img:205kbqn9]
-
-reboog is grape[/quote:205kbqn9]
+> <strong>jezer wrote:</strong>
+> ![](http://assets.kaboose.com/media/00/00/00/d7/ed4881bff7b0bf72969572043831b4e8acfc3673/476x357/grape-guy_476x357.jpg)
+> 
+> 
+> 
+> reboog is grape
 
 reboog: hi
 
@@ -594,7 +602,7 @@ reboog: hi
 
 <div class="post" data-post-id="28187" data-author="reboog" data-date="2009-02-18T19:04:42+00:00" data-subject="">
 
-2. ...1-0
+2\. ...1-0
 
 </div>
 
@@ -606,6 +614,6 @@ everyone: shutup
 
 <div class="post" data-post-id="28321" data-author="reboog" data-date="2009-02-27T10:42:27+00:00" data-subject="">
 
-jezer: i'm glad we had  this conversation
+jezer: i'm glad we had this conversation
 
 </div>

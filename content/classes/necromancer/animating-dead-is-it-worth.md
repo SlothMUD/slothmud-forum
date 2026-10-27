@@ -12,15 +12,15 @@ post_count: 9
 
 <div class="post" data-post-id="457" data-author="Kambal" data-date="2004-06-01T17:53:47+00:00" data-subject="Animating Dead is it worth?">
 
-Sorry for long post, but i was schocked  :shock: .
+Sorry for long post, but i was schocked <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> .
 
 Since when animated followers don't assist?
 
-When it was changed? Or it's another keyword for animated followers now? Anyone has any clues? Or vampires can't assist only or there's something else? Anyone knows? I just ....  :shock: 
+When it was changed? Or it's another keyword for animated followers now? Anyone has any clues? Or vampires can't assist only or there's something else? Anyone knows? I just .... <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
 The Smuggler's Gold Cache
 
-Exits: West   
+Exits: West 
 
 A small mesh of tightly intertwined threads lies flat on the ground.
 
@@ -32,11 +32,11 @@ A vampire arrives from the west.
 
 A vampire arrives from the west.
 
-<725hp 157ma 197mv>
+\<725hp 157ma 197mv\>
 
 You would need a lot of luck!
 
-<725hp 157ma 197mv>
+\<725hp 157ma 197mv\>
 
 cast 'wall of flesh' Kovar
 
@@ -44,7 +44,7 @@ Ok.
 
 You are surrounded by a wall of rotting flesh.
 
-<725hp 123ma 197mv>
+\<725hp 123ma 197mv\>
 
 backstab smuggler
 
@@ -60,9 +60,9 @@ The Gold Smuggler makes a strange sound, as you place trocar of the demilich in 
 
 The wound turns black from the poison on your blade.
 
-<725hp 124ma 183mv>
+\<725hp 124ma 183mv\>
 
-<725hp 125ma 184mv>
+\<725hp 125ma 184mv\>
 
 You massacre the Gold Smuggler to small fragments with your pierce.
 
@@ -90,7 +90,7 @@ Your face burns as the saliva eats into it!
 
 The Gold Smuggler writhes in agony as the saliva eats into his face!
 
-<586hp 125ma 185mv>
+\<586hp 125ma 185mv\>
 
 You pierce the Gold Smuggler extremely hard.
 
@@ -118,7 +118,7 @@ Your face burns as the saliva eats into it!
 
 The Gold Smuggler writhes in agony as the saliva eats into his face!
 
-<424hp 126ma 186mv>
+\<424hp 126ma 186mv\>
 
 You pierce the Gold Smuggler extremely hard.
 
@@ -134,11 +134,11 @@ You are brutally massacred by the Gold Smuggler's hit.
 
 You pierce the Gold Smuggler extremely hard.
 
-<272hp 128ma 188mv>
+\<272hp 128ma 188mv\>
 
 A door starts banging in a sudden wind.
 
-<274hp 129ma 190mv>
+\<274hp 129ma 190mv\>
 
 You pierce the Gold Smuggler extremely hard.
 
@@ -164,7 +164,7 @@ Your face burns as the saliva eats into it!
 
 The Gold Smuggler writhes in agony as the saliva eats into his face!
 
-<147hp 129ma 190mv>
+\<147hp 129ma 190mv\>
 
 fle
 
@@ -176,7 +176,7 @@ The Demolished Room
 
 <div class="post" data-post-id="460" data-author="Avatar" data-date="2004-06-02T00:21:02+00:00" data-subject="vampires">
 
-Odd, they even took damage from the acid spit.  That should have drawn them into the fight too.
+Odd, they even took damage from the acid spit. That should have drawn them into the fight too.
 
 </div>
 
@@ -184,49 +184,63 @@ Odd, they even took damage from the acid spit.  That should have drawn them into
 
 This is how i do it,
 
-#al ov1 {order 1.vampire assist $tank}
+\#al ov1 {order 1.vampire assist $tank}
 
-#al ov2 {order 2.vampire assist $tank}
+\#al ov2 {order 2.vampire assist $tank}
 
-#al ov3 {order 3.vampire assist $tank}
+\#al ov3 {order 3.vampire assist $tank}
 
 and the same for liches, ol1,ol2,ol3....etc
 
-just set yourself as tank in solo mode. :)
+just set yourself as tank in solo mode. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="478" data-author="impz" data-date="2004-06-02T16:53:08+00:00" data-subject="Re: followers">
 
-This is how i do it,
+> <strong>Eagle wrote:</strong>
+> This is how i do it,
+> 
+> 
+> 
+> \#al ov1 {order 1.vampire assist $tank}
+> 
+> \#al ov2 {order 2.vampire assist $tank}
+> 
+> \#al ov3 {order 3.vampire assist $tank}
+> 
+> 
+> 
+> and the same for liches, ol1,ol2,ol3....etc
+> 
+> 
+> 
+> just set yourself as tank in solo mode. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-#al ov1 {order 1.vampire assist $tank}
-
-#al ov2 {order 2.vampire assist $tank}
-
-#al ov3 {order 3.vampire assist $tank}
-
-and the same for liches, ol1,ol2,ol3....etc
-
-just set yourself as tank in solo mode. :)[/quote:3m3bxhi8]
-
-why not just order followers assist $tank..easier :)
+why not just order followers assist $tank..easier <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="483" data-author="Kambal" data-date="2004-06-02T18:59:39+00:00" data-subject="Re: followers">
 
-This is how i do it,
-
-#al ov1 {order 1.vampire assist $tank}
-
-#al ov2 {order 2.vampire assist $tank}
-
-#al ov3 {order 3.vampire assist $tank}
-
-and the same for liches, ol1,ol2,ol3....etc
-
-just set yourself as tank in solo mode. :)[/quote:2tjq54l5]
+> <strong>Eagle wrote:</strong>
+> This is how i do it,
+> 
+> 
+> 
+> \#al ov1 {order 1.vampire assist $tank}
+> 
+> \#al ov2 {order 2.vampire assist $tank}
+> 
+> \#al ov3 {order 3.vampire assist $tank}
+> 
+> 
+> 
+> and the same for liches, ol1,ol2,ol3....etc
+> 
+> 
+> 
+> just set yourself as tank in solo mode. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 This should suck, couse every order command ads lag.
 
@@ -234,9 +248,9 @@ This should suck, couse every order command ads lag.
 
 <div class="post" data-post-id="489" data-author="Calim" data-date="2004-06-02T21:57:55+00:00" data-subject="">
 
-I was under the impression that order followerS (note the s) assist kambal would work.  
+I was under the impression that order followerS (note the s) assist kambal would work. 
 
-I don't use them very often, so, try it first on a safe mob :)
+I don't use them very often, so, try it first on a safe mob <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -252,12 +266,12 @@ That is odd indeed. In the begining, I use to order 1.zombie, order 2.zombie etc
 
 With Juju and wraith and liches, 'order followers assist nomis' seems to work fine. Only when I ask the to flee, they don't respond 100% and I have to do it a few times to get all of the to flee (is this a bug?) 
 
-Anyway, I understand how painful it is for the order followers lag, luckily for me, they reduced the time lag for prime necro's, that is very nice :)
+Anyway, I understand how painful it is for the order followers lag, luckily for me, they reduced the time lag for prime necro's, that is very nice <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="554" data-author="Next" data-date="2004-06-06T03:52:22+00:00" data-subject="">
 
-The reason they don't always flee is because when anyone tries to flee the mud picks a direction in which they try to do it, if that direction doesn't have an exit then you fail the flee. I could be totaly wrong, since i don't know the code here, but the point is the same - sometimes mobs and players fail their flee :)
+The reason they don't always flee is because when anyone tries to flee the mud picks a direction in which they try to do it, if that direction doesn't have an exit then you fail the flee. I could be totaly wrong, since i don't know the code here, but the point is the same - sometimes mobs and players fail their flee <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

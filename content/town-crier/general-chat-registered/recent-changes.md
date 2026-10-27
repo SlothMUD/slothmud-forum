@@ -16,7 +16,7 @@ post_count: 1
 
 Thanks for all this changes you posted. Can't wait to test them all.
 
-Maybe we need ability to comment on them(in same thread)? Or most of us (with 50 forum posts for example)? :D 
+Maybe we need ability to comment on them(in same thread)? Or most of us (with 50 forum posts for example)? <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> 
 
 Cheers,
 

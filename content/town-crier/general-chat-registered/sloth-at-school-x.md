@@ -12,7 +12,7 @@ post_count: 5
 
 <div class="post" data-post-id="30744" data-author="ciphersoft" data-date="2010-01-25T20:33:06+00:00" data-subject="Sloth at School :X">
 
-So it appears my university has blocked Sloth somehow. I can access the website I just can't connect to the game.  Anybody know any clever ways around this problem? :P
+So it appears my university has blocked Sloth somehow. I can access the website I just can't connect to the game. Anybody know any clever ways around this problem? <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -44,8 +44,8 @@ The first option has the advantage of being able to run your tintin/wintin/zmud 
 
 <div class="post" data-post-id="30748" data-author="ciphersoft" data-date="2010-01-26T17:08:35+00:00" data-subject="">
 
-Splork: Thanks, tried that but it was a no go :(
+Splork: Thanks, tried that but it was a no go <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
-Redcross: Thank you much for the info, I'll have to give it a try one of these days  :D
+Redcross: Thank you much for the info, I'll have to give it a try one of these days <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>

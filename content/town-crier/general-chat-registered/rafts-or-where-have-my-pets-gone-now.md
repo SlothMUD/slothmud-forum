@@ -22,15 +22,15 @@ This effectively means that raft areas are off limits to necros ... except on ss
 
 Could I therefore suggest one of the following:
 
-1. make rafts smaller / weight less
+1\. make rafts smaller / weight less
 
-2. make pets get in their owners rafts
+2\. make pets get in their owners rafts
 
-3. give all/some pets waterwalk
+3\. give all/some pets waterwalk
 
-4. add rafts to shop inventory on all continents
+4\. add rafts to shop inventory on all continents
 
-5. give necros a waterwalk spell to cast on their pets
+5\. give necros a waterwalk spell to cast on their pets
 
 any one of these would work well and solve this niggling annoyance and thats what it is, its not a big issue I know but one that could easily be fixed.
 
@@ -42,17 +42,20 @@ T
 
 <div class="post" data-post-id="30571" data-author="*juggleblood*" data-date="2010-01-05T21:56:01+00:00" data-subject="Re: rafts - or where have my pets gone now?">
 
-1. make rafts smaller / weight less
-
-2. make pets get in their owners rafts
-
-3. give all/some pets waterwalk
-
-4. add rafts to shop inventory on all continents
-
-5. give necros a waterwalk spell to cast on their pets
-
-T[/quote:w0v5plo5]
+> <strong>Thraxas wrote:</strong>
+> 1\. make rafts smaller / weight less
+> 
+> 2\. make pets get in their owners rafts
+> 
+> 3\. give all/some pets waterwalk
+> 
+> 4\. add rafts to shop inventory on all continents
+> 
+> 5\. give necros a waterwalk spell to cast on their pets
+> 
+> 
+> 
+> T
 
 Your best bet for raft is a ruddy scale. I think it's the lightest one. I concur that rafts should be available in all the towns. The other suggestions are beyond me.
 

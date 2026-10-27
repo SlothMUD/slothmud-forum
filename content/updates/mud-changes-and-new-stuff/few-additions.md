@@ -12,13 +12,13 @@ post_count: 1
 
 <div class="post" data-post-id="10702" data-author="*Splork*" data-date="2006-02-14T00:16:18+00:00" data-subject="Few additions">
 
-1) New level 40 druid spell-chill bane.
+1\) New level 40 druid spell-chill bane.
 
-2) New level 40 druid spell-fire bane.
+2\) New level 40 druid spell-fire bane.
 
-  ** please thank Bit who coded the majority of these
+ \*\* please thank Bit who coded the majority of these
 
-3) New Avatar warrior skill Riposte.
+3\) New Avatar warrior skill Riposte.
 
 Please refer to the ingame helpfiles.
 

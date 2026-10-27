@@ -20,6 +20,6 @@ Do not make an drama.
 
 <div class="post" data-post-id="29721" data-author="Akasha" data-date="2009-07-25T03:18:32+00:00" data-subject="">
 
-I actually unbanned "Yaski" from crier also.  SO you can post with that name again.  I was waiting to catch you on line to tell you, but alas, you are no more! :P
+I actually unbanned "Yaski" from crier also. SO you can post with that name again. I was waiting to catch you on line to tell you, but alas, you are no more! <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>

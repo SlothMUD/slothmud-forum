@@ -24,8 +24,8 @@ which is
 
 I will make a timer link when i remember how.
 
-[<LINK_TEXT text="https://www.tickcounter.com/countdown/8 ... ving-quest">https://www.tickcounter.com/countdown/833870/slothmud-2018-thanksgiving-quest</LINK_TEXT>](https://www.tickcounter.com/countdown/833870/slothmud-2018-thanksgiving-quest)
+[https://www.tickcounter.com/countdown/833870/slothmud-2018-thanksgiving-quest](https://www.tickcounter.com/countdown/833870/slothmud-2018-thanksgiving-quest)
 
---Idj
+\--Idj
 
 </div>

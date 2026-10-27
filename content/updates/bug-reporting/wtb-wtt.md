@@ -22,7 +22,7 @@ Silver Gauntlets
 
 coral rings
 
-yooper guards :)
+yooper guards <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 orcskin boots
 

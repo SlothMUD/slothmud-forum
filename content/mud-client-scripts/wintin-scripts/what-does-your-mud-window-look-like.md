@@ -14,7 +14,7 @@ post_count: 7
 
 Hi ...
 
-Im curious in what people mud window looks like.  Part is curiosity, part is to extract new ideas about what i could do with mine.  :)
+Im curious in what people mud window looks like. Part is curiosity, part is to extract new ideas about what i could do with mine. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Mine is like this (Wintin.net beta 0.72) :
 
@@ -24,7 +24,7 @@ If you can, include an screenshot and what your client is.
 
 Linsey
 
-P.d. : Thanks to Shivie for hosting the image.   :)
+P.d. : Thanks to Shivie for hosting the image. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -38,7 +38,7 @@ bleh
 
 <div class="post" data-post-id="4036" data-author="Kulum" data-date="2005-01-30T03:14:43+00:00" data-subject="">
 
-Sorry, that was an old one, ignore that Bot OFF button :P
+Sorry, that was an old one, ignore that Bot OFF button <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 [http://www.angelfire.com/games5/hotara/leslie.JPG](http://www.angelfire.com/games5/hotara/leslie.JPG)
 
@@ -54,13 +54,13 @@ Very nice screen shots, both of them.
 
 Silly Kulum! 
 
-Linsey's post was a ruse to find illegal botters and you fell for it! :twisted:
+Linsey's post was a ruse to find illegal botters and you fell for it! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="4043" data-author="Akasha2" data-date="2005-01-30T04:53:02+00:00" data-subject="It&#x27;s zmud, but its a screenshot ;)">
 
-[<LINK_TEXT text="http://ibite.fateback.com/Xandora/ZmudS ... enshot.htm">http://ibite.fateback.com/Xandora/ZmudScripts/Screenshot.htm</LINK_TEXT>](http://ibite.fateback.com/Xandora/ZmudScripts/Screenshot.htm)
+[http://ibite.fateback.com/Xandora/ZmudScripts/Screenshot.htm](http://ibite.fateback.com/Xandora/ZmudScripts/Screenshot.htm)
 
 </div>
 
@@ -70,6 +70,6 @@ anyone mind posting their scripts for a status window for spells here?
 
 i've been messin with it, still can't figure out how to do it
 
-thanks :)
+thanks <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

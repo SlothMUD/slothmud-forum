@@ -50,7 +50,7 @@ Thanks, and have a pleasant stay!
 
 The light's always on!
 
-------------------------------
+\------------------------------
 
 Kveldulfr, Owner and Operator
 
@@ -70,21 +70,21 @@ Damage Dice is '3D6'
 
 Can affect you as:
 
-    Affects: HITROLL by 2
+ Affects: HITROLL by 2
 
-    Affects: DAMROLL by 2
+ Affects: DAMROLL by 2
 
-    Affects: CON by 1
+ Affects: CON by 1
 
-    Affects: REGEN_HP by 2
+ Affects: REGEN\_HP by 2
 
 Only those who are at least novice avatars may use this item.
 
 Requires: 1000000 coins, 1x an abyssal containment gem, 
 
-  1x a blood-soaked blade, 1x a ruby spider brooch, 
+ 1x a blood-soaked blade, 1x a ruby spider brooch, 
 
-  1x a dragon emblem
+ 1x a dragon emblem
 
 Alris salutes smartly.
 
@@ -102,16 +102,16 @@ AC-apply is -0.2
 
 Can affect you as:
 
-    Affects: CIRCLE_DAMAGE by 10
+ Affects: CIRCLE\_DAMAGE by 10
 
-    Affects: STAB_DAMAGE by 10
+ Affects: STAB\_DAMAGE by 10
 
-    Affects: RESIST_FIRE by 5
+ Affects: RESIST\_FIRE by 5
 
 Only those who are primary master thieves may use this item.
 
 Requires: 1000000 coins, 1x the forearm of a broken billiards cue, 
 
-  1x the shaft of a broken billiards cue
+ 1x the shaft of a broken billiards cue
 
 </div>

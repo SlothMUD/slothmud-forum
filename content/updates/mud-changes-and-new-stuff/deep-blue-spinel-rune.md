@@ -18,7 +18,7 @@ Due to a discrepancy in the naming convention of the Deep Blue Spinel Rune, the 
 
 altered to fit in with the other runes of similar nature. PReviously, the rune had following name:
 
-Deep_Blue_Spinel Rune
+Deep\_Blue\_Spinel Rune
 
 This name caused some confusion on how the rune might be created using the normal means.
 
@@ -26,7 +26,7 @@ The rune's name has been changed to the following:
 
 Deep Blue Spinel Rune
 
-This means that previously you would have likely needed to use deep_blue_spinel-rune or somesuch
+This means that previously you would have likely needed to use deep\_blue\_spinel-rune or somesuch
 
 in order to create the rune previously. Now, you need only use a variation of deep-blue-spinel-rune .
 

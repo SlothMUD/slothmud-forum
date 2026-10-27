@@ -30,13 +30,13 @@ It kind of reminds me of small kids playing with bigger kids at a playground... 
 
 <div class="post" data-post-id="23904" data-author="Dragoth" data-date="2008-04-22T09:08:00+00:00" data-subject="">
 
-So, are you telling me the whole honor thing was a crap idea that only worked because of drachma  :roll:
+So, are you telling me the whole honor thing was a crap idea that only worked because of drachma <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23905" data-author="Dragoth" data-date="2008-04-22T09:14:30+00:00" data-subject="">
 
-So, are you telling me the whole honor thing was a crap idea that only worked because of drachma  :roll:
+So, are you telling me the whole honor thing was a crap idea that only worked because of drachma <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -44,13 +44,13 @@ So, are you telling me the whole honor thing was a crap idea that only worked be
 
 think we just temporary out of epic leaders and epic tanks..
 
-im up for epics anyway :)
+im up for epics anyway <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23907" data-author="jezer" data-date="2008-04-22T10:58:04+00:00" data-subject="">
 
-Well there you go, Assirian killed them with his awesomeness!  :twisted: Next question!
+Well there you go, Assirian killed them with his awesomeness! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> Next question!
 
 </div>
 

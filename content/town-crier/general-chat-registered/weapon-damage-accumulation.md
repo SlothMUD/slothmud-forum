@@ -12,7 +12,7 @@ post_count: 10
 
 <div class="post" data-post-id="13946" data-author="Atwell" data-date="2006-09-09T07:36:02+00:00" data-subject="Weapon Damage Accumulation">
 
-I purchased a unit of permanent weapon damage (+3) from the Mayor of Lyme.  I wasn't noticing the extra damage with my normal combat equipment, so I did some measurements with a 1d1 weapon.  With no other sources of +wdam, I dealt 22 damage per hit.  With the +5 wdam gauntlets that I usually wear, I dealt 24 per hit, an increase of 2 rather than 5.  Another player with no permanent +wdam did see the expected increase of 5 upon wearing the same gauntlets.  It appears that the +wdam from the gauntlets shadowed my permanent wdam rather than stacking with it.  Is this analysis accurate?  If so, would an admin look at fixing this?
+I purchased a unit of permanent weapon damage (+3) from the Mayor of Lyme. I wasn't noticing the extra damage with my normal combat equipment, so I did some measurements with a 1d1 weapon. With no other sources of +wdam, I dealt 22 damage per hit. With the +5 wdam gauntlets that I usually wear, I dealt 24 per hit, an increase of 2 rather than 5. Another player with no permanent +wdam did see the expected increase of 5 upon wearing the same gauntlets. It appears that the +wdam from the gauntlets shadowed my permanent wdam rather than stacking with it. Is this analysis accurate? If so, would an admin look at fixing this?
 
 Thanks very much.
 
@@ -26,9 +26,10 @@ bought weapon dmg instead of spelldam ?
 
 <div class="post" data-post-id="13949" data-author="Atwell" data-date="2006-09-09T19:16:13+00:00" data-subject="">
 
-bought weapon dmg instead of spelldam ?[/quote:25cau7gm]
+> <strong>13 wrote:</strong>
+> bought weapon dmg instead of spelldam ?
 
-Yes.  Among other reasons, in-game equipment +crystalline silk robe is enough for a tert mage to cap spell bonus and maintain -11 ac.
+Yes. Among other reasons, in-game equipment +crystalline silk robe is enough for a tert mage to cap spell bonus and maintain -11 ac.
 
 </div>
 
@@ -40,7 +41,7 @@ whats the spelldam bonus for a secondary mage.
 
 <div class="post" data-post-id="13951" data-author="Medios" data-date="2006-09-09T22:18:42+00:00" data-subject="">
 
-Did you test this right after the purchase, or had you logged in and out previously.  I had a few bugs buying charisma with minstrel, but when i logged off it fixed itself.
+Did you test this right after the purchase, or had you logged in and out previously. I had a few bugs buying charisma with minstrel, but when i logged off it fixed itself.
 
 Mike
 
@@ -54,7 +55,8 @@ Mike
 
 <div class="post" data-post-id="13953" data-author="Atwell" data-date="2006-09-09T23:35:42+00:00" data-subject="">
 
-Did you test this right after the purchase, or had you logged in and out previously.  I had a few bugs buying charisma with minstrel, but when i logged off it fixed itself.[/quote:34lu4q3h]
+> <strong>Medios wrote:</strong>
+> Did you test this right after the purchase, or had you logged in and out previously. I had a few bugs buying charisma with minstrel, but when i logged off it fixed itself.
 
 I tested again after renting and returning, and the results were the same.
 
@@ -70,7 +72,7 @@ flaming shield of midnight -20
 
 1 Ring of Dark Light -15 
 
-She wears another wiedzmin for 60 but removing it shes still capped, however if you remove a runed onyx she wont be capped at 50.  Unless the cap is 51, but I dont know how to arrive at these odd numbers.
+She wears another wiedzmin for 60 but removing it shes still capped, however if you remove a runed onyx she wont be capped at 50. Unless the cap is 51, but I dont know how to arrive at these odd numbers.
 
 Mike
 
@@ -86,6 +88,6 @@ tail of the necrophidius would be 5+1
 
 Well, got the same problem. Bought 3 weapondam recently and noticed that i started to massacre more often than before and brutally less often.
 
-Ok, then I did mode - 21 damage + 5wdam (gaunts) + 3wdam (bought) + 2d6 weapon (bolt), so damage should be 2d6 + 29, which gives the attack of 31-41 - so even at min damage i should brutally massacre, but i still massacred pretty often :x
+Ok, then I did mode - 21 damage + 5wdam (gaunts) + 3wdam (bought) + 2d6 weapon (bolt), so damage should be 2d6 + 29, which gives the attack of 31-41 - so even at min damage i should brutally massacre, but i still massacred pretty often <img src="/images/smilies/icon_mad.svg" alt=":x" title=":x" width="15" height="15" class="smiley nozoom">
 
 </div>

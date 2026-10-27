@@ -16,67 +16,67 @@ About a year ago, I added continental bonuses based off of our world bonuses. Th
 
 The new list is below, it starts the next time the mud reboots.
 
-1) World -> Fargate
+1\) World -\> Fargate
 
-2) Island
+2\) Island
 
-3) Thordfalan
+3\) Thordfalan
 
-4) Niebelung
+4\) Niebelung
 
-5) Thule
+5\) Thule
 
-6) World-> Exp Bonus
+6\) World-\> Exp Bonus
 
-7) Island
+7\) Island
 
-8) Thordfalan
+<img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> Thordfalan
 
-9) Niebelung
+9\) Niebelung
 
-10) Thule
+10\) Thule
 
-11) World -> NoCap
+11\) World -\> NoCap
 
-12) Island
+12\) Island
 
-13) Thordfalan
+13\) Thordfalan
 
-14) Niebelung
+14\) Niebelung
 
-15) Thule
+15\) Thule
 
-16) World -> Fast Repop
+16\) World -\> Fast Repop
 
-17) Island
+17\) Island
 
-18) Thordfalan
+18\) Thordfalan
 
-19) Niebelung
+19\) Niebelung
 
-20) Thule
+20\) Thule
 
-21) World -> No Kill History
+21\) World -\> No Kill History
 
-22) Island
+22\) Island
 
-23) Thordfalan
+23\) Thordfalan
 
-24) Niebelung
+24\) Niebelung
 
-25) Thule
+25\) Thule
 
-26) World -> Regen
+26\) World -\> Regen
 
-27) Island
+27\) Island
 
-28) Thordfalan
+28\) Thordfalan
 
-29) Niebelung
+29\) Niebelung
 
-30) Thule
+30\) Thule
 
-31) World -> Gem Pop
+31\) World -\> Gem Pop
 
 Enjoy,
 

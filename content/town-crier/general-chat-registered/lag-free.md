@@ -22,6 +22,6 @@ Splork
 
 <div class="post" data-post-id="13379" data-author="Yasik" data-date="2006-07-08T06:48:01+00:00" data-subject="">
 
-7h4nx Bl4573r ! >:]
+7h4nx Bl4573r ! \>:]
 
 </div>

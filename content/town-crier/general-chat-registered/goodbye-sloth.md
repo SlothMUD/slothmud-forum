@@ -52,9 +52,9 @@ Vixn
 
 <div class="post" data-post-id="28077" data-author="Sheng" data-date="2009-02-12T18:17:12+00:00" data-subject="">
 
-Good luck!  My brothers and I have all quit many times.  Only my older brother has ever intentionally left forever -- and he hasn't been back.  It can be done!
+Good luck! My brothers and I have all quit many times. Only my older brother has ever intentionally left forever -- and he hasn't been back. It can be done!
 
-I got lucky and married a wife that likes to stab things, so MUD-ing isn't very likely to wreck my relationship with her :roll:
+I got lucky and married a wife that likes to stab things, so MUD-ing isn't very likely to wreck my relationship with her <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 I just have to worry about getting stabbed... one of her favorite classes in college was called 'knife skills.'
 
@@ -64,13 +64,14 @@ I just have to worry about getting stabbed... one of her favorite classes in col
 
 gimme ur eq, i will save it till better times
 
-and take care :)
+and take care <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="28080" data-author="Weasel" data-date="2009-02-12T21:56:53+00:00" data-subject="Re: Goodbye Sloth">
 
-wish me luck[/quote:2wfo4v98]
+> <strong>Gimlet wrote:</strong>
+> wish me luck
 
 luck
 
@@ -84,13 +85,14 @@ Good luck Al. The mud was a better place for having you around.
 
 <div class="post" data-post-id="28084" data-author="Leaf" data-date="2009-02-12T23:51:14+00:00" data-subject="">
 
-Good luck Al. The mud was a better place for having you around.[/quote:8drjuyst]
+> <strong>Rynquald wrote:</strong>
+> Good luck Al. The mud was a better place for having you around.
 
 What kind of weed laced cocaine u smoking there Joe?
 
-Anyways, take care Al.  I know u have quit several times, like the most/
+Anyways, take care Al. I know u have quit several times, like the most/
 
-best of us.  So see u around :)
+best of us. So see u around <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -102,7 +104,7 @@ good luck.
 
 <div class="post" data-post-id="28092" data-author="Medios" data-date="2009-02-13T20:35:29+00:00" data-subject="">
 
-I'm damn glad I gave you those boots and tried to help with your eq.  There are others things I could say, but in light of the situation I will keep my mouth shut.
+I'm damn glad I gave you those boots and tried to help with your eq. There are others things I could say, but in light of the situation I will keep my mouth shut.
 
 </div>
 
@@ -126,17 +128,28 @@ Gimlet: hi
 
 <div class="post" data-post-id="28155" data-author="Yasik2" data-date="2009-02-17T10:06:31+00:00" data-subject="Re: Goodbye Sloth">
 
-anyone who knows me knows that I've been having rl problems of late
+> <strong>Gimlet wrote:</strong>
+> anyone who knows me knows that I've been having rl problems of late
+> 
+> 
+> 
+> I've decided that I can no longer mud... I just wish I'd decided on it years or months ago... nothing against the ppl here, i've made some great friends from here
+> 
+> 
+> 
+> but there're things I need to do with my life, and I cannot allow myself to come back to the mud
+> 
+> 
+> 
+> 
+> 
+> wish me luck
+> 
+> 
+> 
+> g'bye mud
 
-I've decided that I can no longer mud... I just wish I'd decided on it years or months ago... nothing against the ppl here, i've made some great friends from here
-
-but there're things I need to do with my life, and I cannot allow myself to come back to the mud
-
-wish me luck
-
-g'bye mud[/quote:bppaymxu]
-
-[img:bppaymxu]http://yasik.kiev.ua/4chan/Kthxbai.jpg[/img:bppaymxu]
+![](http://yasik.kiev.ua/4chan/Kthxbai.jpg)
 
 </div>
 
@@ -144,6 +157,6 @@ g'bye mud[/quote:bppaymxu]
 
 what's wrong with trading a couple items for a case of beer?
 
-real shit > 1's and 0's....hellO?
+real shit \> 1's and 0's....hellO?
 
 </div>

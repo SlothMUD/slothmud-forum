@@ -12,7 +12,7 @@ post_count: 3
 
 <div class="post" data-post-id="7635" data-author="fowlon" data-date="2005-06-28T04:41:39+00:00" data-subject="Armor shop in BH">
 
-How can I buy something from the BH armor shop. The BS's kid keepse telling me that he's fired :)
+How can I buy something from the BH armor shop. The BS's kid keepse telling me that he's fired <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 I've tried the newbie channel but didn't get any answer.
 
@@ -26,6 +26,6 @@ Master Jordan 1esw of west gate
 
 <div class="post" data-post-id="7637" data-author="fowlon" data-date="2005-06-28T04:51:58+00:00" data-subject="">
 
-thank you for this quick anser  akasha
+thank you for this quick anser akasha
 
 </div>

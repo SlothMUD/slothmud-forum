@@ -18,7 +18,7 @@ Is it just me or has the map to the Far North gone missing?
 
 <div class="post" data-post-id="18214" data-author="Malison" data-date="2007-04-27T21:42:37+00:00" data-subject="">
 
-It's just you.  It's labeled as Diabolan Valley (Far North), and can be found here:
+It's just you. It's labeled as Diabolan Valley (Far North), and can be found here:
 
 [http://www.slothmud.org/eqlist/maproom.php?rnum=52](http://www.slothmud.org/eqlist/maproom.php?rnum=52)
 

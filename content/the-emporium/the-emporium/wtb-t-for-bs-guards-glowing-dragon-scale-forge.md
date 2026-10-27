@@ -18,6 +18,6 @@ Catch me online as ash or avatar, or reply here.
 
 thanks
 
--doug
+\-doug
 
 </div>

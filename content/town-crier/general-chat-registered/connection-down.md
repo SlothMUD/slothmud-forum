@@ -12,7 +12,7 @@ post_count: 9
 
 <div class="post" data-post-id="15121" data-author="Dikus" data-date="2006-11-12T21:26:34+00:00" data-subject="Connection Down">
 
-I called Brian and he said that we need to get ahold of Rick. He Said that he doesnt know what is wrong with it but he said that he would check it out. :twisted:  :oops:
+I called Brian and he said that we need to get ahold of Rick. He Said that he doesnt know what is wrong with it but he said that he would check it out. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_redface.svg" alt=":oops:" title=":oops:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -30,7 +30,8 @@ Just connection checking... mud seems down ...
 
 <div class="post" data-post-id="15203" data-author="Medios" data-date="2006-11-15T22:43:57+00:00" data-subject="">
 
-wow cool thanx a million!!!! (I wanna play on my veterance day 4 day weekend!!!!)[/quote:3nlt3uad]
+> <strong>Talo/Ulrich wrote:</strong>
+> wow cool thanx a million!!!! (I wanna play on my veterance day 4 day weekend!!!!)
 
 Coming from a veteran I really dont know what to say.
 
@@ -62,7 +63,7 @@ Coming from a veteran I really dont know what to say.
 
 Mike
 
-_________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Fight the Good Fight! 
 
@@ -82,9 +83,9 @@ I didn't even know there was a 'dumb vet game', my bad.
 
 <div class="post" data-post-id="15228" data-author="Weasel" data-date="2006-11-20T03:01:54+00:00" data-subject="">
 
-[img:4ou6nxwf]http://michellemalkin.com/archives/images/bannerkerry.jpg[/img:4ou6nxwf]
+![](http://michellemalkin.com/archives/images/bannerkerry.jpg)
 
-fulll size version [url:4ou6nxwf]http://hotair.com/wp/wp-content/uploads/2006/11/carry-large.jpg[/url:4ou6nxwf]
+fulll size version http://hotair.com/wp/wp-content/uploads/2006/11/carry-large.jpg
 
 </div>
 

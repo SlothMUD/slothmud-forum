@@ -14,11 +14,11 @@ post_count: 1
 
 Clicked on the crier for info on Christmas Quest, read the info, then clicked on the "more on quests" link to the right, and got the following errors:
 
-Warning: open_basedir restriction in effect. File is in wrong directory in /home/httpd/vhosts/slothmud.org/httpdocs/includes/search/dq_helpdesk.php on line 30
+Warning: open\_basedir restriction in effect. File is in wrong directory in /home/httpd/vhosts/slothmud.org/httpdocs/includes/search/dq\_helpdesk.php on line 30
 
-Warning: Failed opening 'modules//pnlang/eng/dq_helpdesk.php' for inclusion (include_path='.:/usr/share/pear') in /home/httpd/vhosts/slothmud.org/httpdocs/includes/search/dq_helpdesk.php on line 30
+Warning: Failed opening 'modules//pnlang/eng/dq\_helpdesk.php' for inclusion (include\_path='.:/usr/share/pear') in /home/httpd/vhosts/slothmud.org/httpdocs/includes/search/dq\_helpdesk.php on line 30
 
-Fatal error: Call to a member function on a non-object in /home/httpd/vhosts/slothmud.org/httpdocs/includes/search/dq_helpdesk.php on line 114
+Fatal error: Call to a member function on a non-object in /home/httpd/vhosts/slothmud.org/httpdocs/includes/search/dq\_helpdesk.php on line 114
 
 Resouh:)
 

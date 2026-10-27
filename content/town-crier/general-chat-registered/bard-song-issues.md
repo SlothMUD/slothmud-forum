@@ -16,7 +16,7 @@ I just wanted to mention that it would be useful if some of the new bard songs h
 
 Currently I know 
 
-**"Song of the Mist"** and **"Knights Blessing"** both give:
+<strong>"Song of the Mist"</strong> and <strong>"Knights Blessing"</strong> both give:
 
 "You are inspired by %0's song!", 
 

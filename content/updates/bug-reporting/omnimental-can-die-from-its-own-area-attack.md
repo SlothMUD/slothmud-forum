@@ -24,16 +24,16 @@ Everything An Omnimental was carrying suddenly drops to the ground.
 look
 <890/1149hp 2091/1153ma 375/423mv -%>
 Room 83222: In a Plume of Smoke and Fire
-   Sulfuric smoke billows upward from the massive crater below.  Hot
+ Sulfuric smoke billows upward from the massive crater below. Hot
 currents of air spiral upward making vortexes of black and yellow hues.
 The bright sun overhead illuminates the smoke from above in ever-shifting
 patterns.
-Exits: Down  
+Exits: Down 
 A flask filled with murky, black liquid oozes on the ground...It glows red!..It glows violet!
 <890/1149hp 2091/1153ma 375/423mv -%>
 A voice in your head says 'My victim no longer inhabits this mortal coil.'
 ```
 
-Looks like Omnimental can suicide from its own area attack, stealing your exp and honor. :(
+Looks like Omnimental can suicide from its own area attack, stealing your exp and honor. <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>

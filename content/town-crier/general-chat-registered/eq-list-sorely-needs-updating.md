@@ -12,15 +12,15 @@ post_count: 9
 
 <div class="post" data-post-id="18377" data-author="firebrand" data-date="2007-05-07T15:19:28+00:00" data-subject="eq list sorely needs updating">
 
-since it seems that our esteemed eqmaster has taken a vacation from sloth, is there anyone who is updating our eqlist with the new items and forges and new sbs?  we have a lotta players who want to know where to find these things and what stats are on them and what mobs to hit to forge new stuff (like genie bottle and pendulum and others).   
+since it seems that our esteemed eqmaster has taken a vacation from sloth, is there anyone who is updating our eqlist with the new items and forges and new sbs? we have a lotta players who want to know where to find these things and what stats are on them and what mobs to hit to forge new stuff (like genie bottle and pendulum and others). 
 
-"go do that voodoo that you do so well" --hedley lamarr -->blazing saddles
+"go do that voodoo that you do so well" --hedley lamarr --\>blazing saddles
 
 </div>
 
 <div class="post" data-post-id="18378" data-author="Autolycos" data-date="2007-05-07T15:35:39+00:00" data-subject="">
 
-some of us do submit things to the eq-list..   it is self sufficient..  just some people are too damn lazy to recite an ident and post it.
+some of us do submit things to the eq-list.. it is self sufficient.. just some people are too damn lazy to recite an ident and post it.
 
 </div>
 
@@ -28,7 +28,7 @@ some of us do submit things to the eq-list..   it is self sufficient..  just som
 
 it mayhap be submitted to dean or is posted here to the crier but as far as in the eqlist itself and searchable, not -all- items are there yet.
 
-"you flunked flank?  get the flunk out of here!" -- marcus vindictus --> history of the world pt. 1
+"you flunked flank? get the flunk out of here!" -- marcus vindictus --\> history of the world pt. 1
 
 </div>
 
@@ -46,15 +46,15 @@ and i thought submittals had to be approved to be posted, i know that you can't 
 
 <div class="post" data-post-id="18387" data-author="firebrand" data-date="2007-05-07T19:45:41+00:00" data-subject="">
 
-either way........it still needs updating.  
+either way........it still needs updating. 
 
-"i'm not dying in a fucking rat maze!" --quentin --> the cube
+"i'm not dying in a fucking rat maze!" --quentin --\> the cube
 
 </div>
 
 <div class="post" data-post-id="18997" data-author="blackmore" data-date="2007-06-20T13:26:52+00:00" data-subject="">
 
-Yes, it does sorely need updating.  It's something I know I need to do, it just never seems to make the top of my list of things I want to do at night when I'm sitting around after the wife and kids are asleep, and I have time to spend on my own interests.  I will get to it, though it might have to wait until school is back in.  The odds of me having time to work on it are much greater when the kids are in school.
+Yes, it does sorely need updating. It's something I know I need to do, it just never seems to make the top of my list of things I want to do at night when I'm sitting around after the wife and kids are asleep, and I have time to spend on my own interests. I will get to it, though it might have to wait until school is back in. The odds of me having time to work on it are much greater when the kids are in school.
 
 </div>
 

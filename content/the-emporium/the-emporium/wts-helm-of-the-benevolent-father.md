@@ -34,7 +34,7 @@ Grue's greediness, hehe
 
 Only head ac with 1.2ac and wiz. Plus no-one runs CoP, so the chances of this being forged unless someone decides to make a concerted effort are low. Of course that may mean no-one wants it!
 
-I co-own these vaults with a more established player, he set the price as a minimum, maybe he wants to make sure it's not sold :)
+I co-own these vaults with a more established player, he set the price as a minimum, maybe he wants to make sure it's not sold <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 I gather he paid about that for it, which is probably why he set the price there.
 
@@ -130,6 +130,6 @@ And I must say I have never had a need to use it. But hey, if it stays in the va
 
 <div class="post" data-post-id="8637" data-author="Blastem" data-date="2005-09-12T19:02:24+00:00" data-subject="">
 
-you forgot weapons ;)
+you forgot weapons <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 </div>

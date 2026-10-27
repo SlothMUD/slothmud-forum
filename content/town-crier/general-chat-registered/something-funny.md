@@ -12,7 +12,7 @@ post_count: 3
 
 <div class="post" data-post-id="10228" data-author="Shara" data-date="2006-01-19T20:22:06+00:00" data-subject="Something funny">
 
-For us mudders :D
+For us mudders <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 [http://www.defectiveyeti.com/archives/001561.html](http://www.defectiveyeti.com/archives/001561.html)
 
@@ -20,11 +20,11 @@ For us mudders :D
 
 <div class="post" data-post-id="10229" data-author="Autolycos" data-date="2006-01-19T20:29:47+00:00" data-subject="">
 
-omg... now thats some funny stuff!!  
+omg... now thats some funny stuff!! 
 
-reminds me of the Hitchihikers Guide to the Galaxy game on Commodore/Apple back in the 80's  minus the smacking your head bit...
+reminds me of the Hitchihikers Guide to the Galaxy game on Commodore/Apple back in the 80's minus the smacking your head bit...
 
-i love it!  you get a cookie... :twisted:
+i love it! you get a cookie... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

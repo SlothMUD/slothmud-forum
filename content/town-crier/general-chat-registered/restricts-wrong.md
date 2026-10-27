@@ -12,7 +12,7 @@ post_count: 3
 
 <div class="post" data-post-id="16865" data-author="Toxis" data-date="2007-02-13T16:58:20+00:00" data-subject="restricts wrong?">
 
-Is this an item that never got changed?  It's still got the old restricts on it.  I've got a warrior prime that could probably use it, at least for a little while until I can get better eq...
+Is this an item that never got changed? It's still got the old restricts on it. I've got a warrior prime that could probably use it, at least for a little while until I can get better eq...
 
 Object 'hooked fauchard', Item type: WEAPON
 
@@ -24,9 +24,9 @@ Damage Dice is '1D5'
 
 Can affect you as:
 
-    Affects: ARMOR by -1
+ Affects: ARMOR by -1
 
-    Affects: DAMROLL by 1
+ Affects: DAMROLL by 1
 
 Only those who are at least novice magic users and also novice clerics, and 
 

@@ -22,39 +22,39 @@ Proc:
 
 if matches[2] == " spear" then
 
-   echo("DO NOT JUNK!!")
+ echo("DO NOT JUNK!!")
 
 elseif matches[2] == " winter" then
 
-   echo("DO NOT JUNK!!")
+ echo("DO NOT JUNK!!")
 
 elseif matches[2] == " hell" then
 
-   echo("DO NOT JUNK!!")
+ echo("DO NOT JUNK!!")
 
 elseif matches[2] == " blade" then
 
-   echo("DO NOT JUNK!!")
+ echo("DO NOT JUNK!!")
 
 elseif matches[2] == " sword" then
 
-   echo("DO NOT JUNK!!")
+ echo("DO NOT JUNK!!")
 
 elseif matches[2] == " souls" then
 
-   echo("DO NOT JUNK!!")
+ echo("DO NOT JUNK!!")
 
 elseif matches[2] == " elite" then
 
-   echo("DO NOT JUNK!!")
+ echo("DO NOT JUNK!!")
 
 elseif matches[2] == " sphairai" then
 
-   echo("DO NOT JUNK!!")
+ echo("DO NOT JUNK!!")
 
 else
 
-   send("junk"..matches[2])
+ send("junk"..matches[2])
 
 end
 
@@ -80,58 +80,58 @@ Maybe a "junk!" command for personal items? Just like some other things require 
 
 So thinking along these lines, would it also make sense to protect against:
 
-- drop
+\- drop
 
-- give
+\- give
 
-- sell
+\- sell
 
 What items should be protected?
 
-- personal
+\- personal
 
-- items with clasps/runes
+\- items with clasps/runes
 
-- items in eqsets
+\- items in eqsets
 
-- containers with any of the above items inside
+\- containers with any of the above items inside
 
 </div>
 
 <div class="post" data-post-id="39379" data-author="Gorka" data-date="2020-03-03T06:36:16+00:00" data-subject="Re: Junk protection">
 
-> ***teker* wrote:**
+> <strong>\*teker\* wrote:</strong>
 > So thinking along these lines, would it also make sense to protect against:
 > 
-> - drop
+> \- drop
 > 
-> - give
+> \- give
 > 
-> - sell
+> \- sell
 > 
 > 
 > 
 > What items should be protected?
 > 
-> - personal
+> \- personal
 > 
-> - items with clasps/runes
+> \- items with clasps/runes
 > 
-> - items in eqsets
+> \- items in eqsets
 > 
-> - containers with any of the above items inside
+> \- containers with any of the above items inside
 
 Not sure about protecting against, drop, give and sell... and these options don't destroy the item anyway, so they are less harmful. How else would one drop the bag of merchandise from quickling king for example, while trying to load a haste book. Would need to allow giving personal items anyway for quests. Sell is already blocked if I recall correctly, unless it's a drachma item. So I'd suggest nothing here.
 
->What items should be protected?
+\>What items should be protected?
 
-- personal - YES
+\- personal - YES
 
-- items with clasps/runes - YES
+\- items with clasps/runes - YES
 
-- items in eqsets - Hmm, bare in mind some items you don't want to junk aren't in eq sets.
+\- items in eqsets - Hmm, bare in mind some items you don't want to junk aren't in eq sets.
 
-- containers with any of the above items inside - Already can't junk containers with items inside.
+\- containers with any of the above items inside - Already can't junk containers with items inside.
 
 Just stopping the junking of items with clasps / runes or personal items would go 95% of the way. Not sure the other 5% (eqset items) is worth the work and most valuable eqset items would be covered with runes or clasps anyway. The benefit is, once coded, imms don't have to be involved with reimbursement which must be a bit of a nuisance.
 
@@ -141,7 +141,7 @@ Implementing a confirmation to junk for certain items, isn't a bad idea, but see
 
 <div class="post" data-post-id="39380" data-author="*teker*" data-date="2020-03-03T17:24:04+00:00" data-subject="Re: Junk protection">
 
-> **Gorka wrote:**
+> <strong>Gorka wrote:</strong>
 > Not sure about protecting against, drop, give and sell... and these options don't destroy the item anyway, so they are less harmful. How else would one drop the bag of merchandise from quickling king for example, while trying to load a haste book.
 
 I'm thinking we'd implement drop!, give!, sell!, etc just like junk! that would bypass protection (if protection is desired).
@@ -156,13 +156,13 @@ Good idea teker
 
 <div class="post" data-post-id="39413" data-author="*teker*" data-date="2020-04-01T14:14:09+00:00" data-subject="Re: Junk protection">
 
-Version 1 of this feature went live with the reboot yesterday.  Help IPROTECT.
+Version 1 of this feature went live with the reboot yesterday. Help IPROTECT.
 
 </div>
 
 <div class="post" data-post-id="39414" data-author="Gorka" data-date="2020-04-01T15:53:29+00:00" data-subject="Re: Junk protection">
 
->IPROTECT
+\>IPROTECT
 
 ILIKEIT Teker!
 

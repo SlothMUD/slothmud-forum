@@ -18,41 +18,41 @@ We will hold the Thanksgiving Quest on Saturday 11/26 at 10AM pacific.
 
 A timer link is provided below:
 
-[<LINK_TEXT text="https://www.tickcounter.com/countdown/3 ... ving-quest">https://www.tickcounter.com/countdown/3624438/2022-slothmud-thanksgiving-quest</LINK_TEXT>](https://www.tickcounter.com/countdown/3624438/2022-slothmud-thanksgiving-quest)
+[https://www.tickcounter.com/countdown/3624438/2022-slothmud-thanksgiving-quest](https://www.tickcounter.com/countdown/3624438/2022-slothmud-thanksgiving-quest)
 
 See you there
 
---D
+\--D
 
 </div>
 
 <div class="post" data-post-id="39986" data-author="Driven" data-date="2022-11-21T16:14:16+00:00" data-subject="Re: 2022 Thanksgiving Quest on Saturday 11/26">
 
-One additional comment on this quest--this will be the opener for Dark Valkyre, where your fond memories of being a newbie turn into a terrible nightmare.  Some ground rules for the quest:
+One additional comment on this quest--this will be the opener for Dark Valkyre, where your fond memories of being a newbie turn into a terrible nightmare. Some ground rules for the quest:
 
 (1) Do not go into Dark Star City until the very end.
 
 (2) It will be in your best interest to use the Ancient Sceptre of Dominion to make the following zones Legendary before killing a single mob in them:
 
-* Dark Mandelbrot's Mansion
+\* Dark Mandelbrot's Mansion
 
-* Dark Farmstead
+\* Dark Farmstead
 
-* Dark Daar Tempest
+\* Dark Daar Tempest
 
-* Dark Tiger Glen
+\* Dark Tiger Glen
 
-* Dark Mystical Fens
+\* Dark Mystical Fens
 
-* Dark Medieval Circus
+\* Dark Medieval Circus
 
-* Dark Autumnal Forest
+\* Dark Autumnal Forest
 
-* Dark Smurf Village
+\* Dark Smurf Village
 
-(3) Each prime class in the game will be receiving a new forge from Dark Valk, so you probably don't want to hand out items collected from mobs until the end of the quest, as they will be the components for the forges.  
+(3) Each prime class in the game will be receiving a new forge from Dark Valk, so you probably don't want to hand out items collected from mobs until the end of the quest, as they will be the components for the forges. 
 
-(4) Dark Valk is officially on the Valkyre continent, so you cannot simply gate there.  Once there, if you recall, you will find yourself at Newbatia's South Gate.  This is the South Gate of the real Newbatia.  For anyone > level 20 prime, the only spells you are permitted to cast are singing 'rina cruinne' or 'raise dead'.  Besides that, you will likely get thrown into Dark Newbatia.  Once on Dark Valk, you should be able to move your group around with convocation, but you won't be able to gate within the continent of Valkyre for the same reason higher level players can't gate to Valkyre today.  
+(4) Dark Valk is officially on the Valkyre continent, so you cannot simply gate there. Once there, if you recall, you will find yourself at Newbatia's South Gate. This is the South Gate of the real Newbatia. For anyone \> level 20 prime, the only spells you are permitted to cast are singing 'rina cruinne' or 'raise dead'. Besides that, you will likely get thrown into Dark Newbatia. Once on Dark Valk, you should be able to move your group around with convocation, but you won't be able to gate within the continent of Valkyre for the same reason higher level players can't gate to Valkyre today. 
 
 Enjoy!
 

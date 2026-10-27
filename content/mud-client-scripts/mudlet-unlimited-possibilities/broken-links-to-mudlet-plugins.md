@@ -12,7 +12,7 @@ post_count: 2
 
 <div class="post" data-post-id="39581" data-author="cnl" data-date="2020-10-21T03:48:14+00:00" data-subject="broken links to mudlet plugins">
 
-The links on this page ( [<LINK_TEXT text="http://www.slothmud.org/wp/welcome-to-s ... om-plugins">http://www.slothmud.org/wp/welcome-to-slothmud/the-library/game-clients/custom-plugins</LINK_TEXT>](http://www.slothmud.org/wp/welcome-to-slothmud/the-library/game-clients/custom-plugins) ) don't seem to work - does anyone have these files and/or can the page be fixed?
+The links on this page ( [http://www.slothmud.org/wp/welcome-to-slothmud/the-library/game-clients/custom-plugins](http://www.slothmud.org/wp/welcome-to-slothmud/the-library/game-clients/custom-plugins) ) don't seem to work - does anyone have these files and/or can the page be fixed?
 
 </div>
 

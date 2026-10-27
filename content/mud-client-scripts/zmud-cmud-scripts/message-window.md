@@ -24,7 +24,7 @@ speaking to a separate window? Anyone knows how to do that?
 
 <div class="post" data-post-id="5148" data-author="Blastem" data-date="2005-03-17T15:20:02+00:00" data-subject="">
 
-#TRIG {tells you} {#cap tells;#beep;#gag} tells
+\#TRIG {tells you} {#cap tells;#beep;#gag} tells
 
 This will open a window called tells and put the lines in it and beeps when someone tells you something. 
 
@@ -48,10 +48,9 @@ and "say" also?
 
 <div class="post" data-post-id="5168" data-author="karl" data-date="2005-03-18T11:44:53+00:00" data-subject="">
 
-Here is the script that I use.  It doesn't capture 'says' but you should be able to do that from this example.
+Here is the script that I use. It doesn't capture 'says' but you should be able to do that from this example.
 
-[code:36lzwdo2]
-
+```
 #CLASS {CaptureChannels}
 
 #TRIGGER {^(%w) tells you '} {#PLAY C:\Windows\System32\oobe\images\clickerx.wav;#SUBSTITUTE {~[%time("hh:mm:ss")~] %1 tells you '};#CAPTURE Channels;#GAG;#CLASS GrabChannel 1}
@@ -61,8 +60,7 @@ Here is the script that I use.  It doesn't capture 'says' but you should be able
 #TRIGGER {^(%w)[chat]> '*'} {#CW "[chat]>" 159}
 
 #CLASS 0
-
-[/code:36lzwdo2]
+```
 
 </div>
 
@@ -70,9 +68,10 @@ Here is the script that I use.  It doesn't capture 'says' but you should be able
 
 This is what i use for my capture, it's also useful for immortals as well.
 
-I also deliberately don't capture says & grouptells by choice.  But you could easily add those if you wished.  I like Karl's idea of adding the time of the tell as well that'd be useful
+I also deliberately don't capture says \& grouptells by choice. But you could easily add those if you wished. I like Karl's idea of adding the time of the tell as well that'd be useful
 
-[code:2r1w4pn8]#CLASS {talk} {enable}
+```
+#CLASS {talk} {enable}
 
 #TRIGGER {BEEPS} {#PLAY ChatBeep.wav} "" {case|notrig}
 
@@ -108,7 +107,8 @@ I also deliberately don't capture says & grouptells by choice.  But you could ea
 
 #TRIGGER {^(*) pages with '*'$} {#CAPTURE tell;#GAG}
 
-#CLASS 0[/code:2r1w4pn8]
+#CLASS 0
+```
 
 </div>
 
@@ -124,7 +124,7 @@ Anyway to fix this?
 
 If there's still anyone using zMUD ...
 
-Using the channel splitter, I can only log one window.  :( 
+Using the channel splitter, I can only log one window. <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom"> 
 
 It's either the main window where the room descriptions are or the channels window where i direct all channels. How can I log both windows?
 
@@ -134,7 +134,7 @@ It's either the main window where the room descriptions are or the channels wind
 
 do you want them to log to the same file or diff files?
 
-#ali log {:tell:#LOG {%time(mm-dd-yy)tell.txt};:channel:#LOG {%time(mm-dd-yy)CHANNEL.txt}}
+\#ali log {:tell:#LOG {%time(mm-dd-yy)tell.txt};:channel:#LOG {%time(mm-dd-yy)CHANNEL.txt}}
 
 This will log tell window and channel window to tell.txt and channel.txt
 
@@ -146,6 +146,6 @@ Blastem
 
 <div class="post" data-post-id="11860" data-author="Rajil" data-date="2006-03-29T00:13:25+00:00" data-subject="">
 
-Thanks! :D
+Thanks! <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>

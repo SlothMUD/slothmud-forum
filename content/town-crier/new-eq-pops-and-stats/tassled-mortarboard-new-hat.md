@@ -26,9 +26,9 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: INT by 1
+ Affects: INT by 1
 
-    Affects: WIS by 1
+ Affects: WIS by 1
 
 Only those who are no more than adept magic users, clerics, druids, 
 
@@ -40,13 +40,13 @@ popped it while cycling ur-baal
 
 <div class="post" data-post-id="6978" data-author="brand" data-date="2005-06-09T12:38:13+00:00" data-subject="">
 
-Ur-Baal now whatever could you want off that goon! :twisted:
+Ur-Baal now whatever could you want off that goon! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="6983" data-author="blackmore" data-date="2005-06-09T13:08:44+00:00" data-subject="">
 
-I've seen this listed on several mobs now.  Also, some people have loaded titanium chunks.  I suspect there's a new random auto out there that we don't know details on.  Does anyone have any more information than this?
+I've seen this listed on several mobs now. Also, some people have loaded titanium chunks. I suspect there's a new random auto out there that we don't know details on. Does anyone have any more information than this?
 
 </div>
 
@@ -72,11 +72,11 @@ Clasp imbues no magical properties.
 
 Can affect you as:
 
-    Affects: STR by 2
+ Affects: STR by 2
 
 Only those who are no more than adept thieves, warriors, bards, and monks 
 
-may use this item.  
+may use this item. 
 
 Very hell good stuff, if u ask me for newbies
 
@@ -90,6 +90,6 @@ popped a mortar board on soul thief in hades.
 
 <div class="post" data-post-id="7016" data-author="Shyla" data-date="2005-06-10T00:17:48+00:00" data-subject="">
 
-Enea I think it was did make a comment that he randomized more of the spellbooks off lyme and added random miscellaneous stuff so it is possible that  is what this is from
+Enea I think it was did make a comment that he randomized more of the spellbooks off lyme and added random miscellaneous stuff so it is possible that is what this is from
 
 </div>

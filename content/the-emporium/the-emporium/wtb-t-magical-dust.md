@@ -18,7 +18,7 @@ have coins or other cp for trade
 
 <div class="post" data-post-id="6046" data-author="Deju" data-date="2005-05-08T14:50:40+00:00" data-subject="">
 
-I'm assuming you are looking for the magical enchanting dust -- a cp for the flawed gem clasp?  
+I'm assuming you are looking for the magical enchanting dust -- a cp for the flawed gem clasp? 
 
 I have one of those, catch me online.
 

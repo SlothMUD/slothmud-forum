@@ -18,7 +18,7 @@ A suggestion for an item - be it a forge item or a drachma item or whatever - a 
 
 <div class="post" data-post-id="15573" data-author="Bazilus" data-date="2006-12-10T11:00:19+00:00" data-subject="Nice idea...">
 
-+1
+\+1
 
 Bazilus the Crayz Python
 
@@ -28,7 +28,7 @@ Bazilus the Crayz Python
 
 while we're at it, we could make a no-death clasp, no-xp loss clasp, no-loot clasp too...and why not a no-lag clasp.
 
-seriously though, it's easy enough to take care of your belongings.  For all the whinging about pthieving, you'd think ppl would be more alert.  I'm not advocating pthieving, I'm just saying, since it's here for the foreseeable future, take care of your stuff if u don't want them stolen.
+seriously though, it's easy enough to take care of your belongings. For all the whinging about pthieving, you'd think ppl would be more alert. I'm not advocating pthieving, I'm just saying, since it's here for the foreseeable future, take care of your stuff if u don't want them stolen.
 
 </div>
 
@@ -42,6 +42,6 @@ I'm not sure I even need to say anything.
 
 I always thought that a belt clasp keychain would be a good idea.
 
-[img:29vqw4bw]http://www.drinkatwork.com/One%20Day%20at%20a%20Time.jpg[/img:29vqw4bw]
+![](http://www.drinkatwork.com/One%20Day%20at%20a%20Time.jpg)
 
 </div>

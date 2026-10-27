@@ -44,6 +44,6 @@ Squares with shadow contain named mobs of relative importance.
 
 Savanna is the area you walk through to get to Roost.
 
-Map isn't intended to be polished work, or it'd be posted in the cartography section.  Feel free to finish it and claim the drachma rewards, if you can find an immort to post it for you :)
+Map isn't intended to be polished work, or it'd be posted in the cartography section. Feel free to finish it and claim the drachma rewards, if you can find an immort to post it for you <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

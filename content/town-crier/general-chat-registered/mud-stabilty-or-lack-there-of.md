@@ -52,7 +52,7 @@ Splork
 
 <div class="post" data-post-id="28230" data-author="sirrico1" data-date="2009-02-20T17:28:34+00:00" data-subject="">
 
-seems the lag is alot less, I've been on almost an hour and no lost link yay :) still a little laggy though
+seems the lag is alot less, I've been on almost an hour and no lost link yay <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> still a little laggy though
 
 </div>
 

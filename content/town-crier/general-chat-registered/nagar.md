@@ -14,7 +14,7 @@ post_count: 1
 
 Anyone knowing "Nagar" or playing that char:
 
-he won the bid for an item on Chopping Block though he hasn`t been online for more than 8 days.
+he won the bid for an item on Chopping Block though he hasn\`t been online for more than 8 days.
 
 Please contact me ASAP to reclaim your item.
 

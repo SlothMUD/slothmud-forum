@@ -36,7 +36,7 @@ Behemoth gossips-- 'any problems?'
 
 Dr gossips-- 'fight fight fight!'
 
-Behemoth gossips-- 'nah, don't wanna get smacked by imms atm :)'
+Behemoth gossips-- 'nah, don't wanna get smacked by imms atm <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">'
 
 Breezewood tells you 'best to offer the item to any newbies that are on then ship them'
 
@@ -48,7 +48,7 @@ Never understood the mentality of such players.
 
 <div class="post" data-post-id="33314" data-author="*juggleblood*" data-date="2012-05-30T01:12:43+00:00" data-subject="Re: The attitude of 1 particular player">
 
-I don't understand the point. If you put it on auction, anybody can buy it.  
+I don't understand the point. If you put it on auction, anybody can buy it. 
 
 You're mad because Behemoth bought them? 
 

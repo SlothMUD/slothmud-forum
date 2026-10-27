@@ -20,13 +20,13 @@ Minor fix to counters so that leveling doesn't mess them up.
 
 Minor changes to counter formatting.
 
-Added some new counters that I think some of you will find valuable.  It's a first attempt so feel free to suggest improvements/changes.  I'm going to go update the help files now...
+Added some new counters that I think some of you will find valuable. It's a first attempt so feel free to suggest improvements/changes. I'm going to go update the help files now...
 
 </div>
 
 <div class="post" data-post-id="38099" data-author="*teker*" data-date="2017-03-07T18:33:38+00:00" data-subject="Re: Changelog 2017-03-07">
 
-Forgot to mention that I added "score affects2" which shows spells and how much time they have left.  For people that don't use MSDP to pull that information.
+Forgot to mention that I added "score affects2" which shows spells and how much time they have left. For people that don't use MSDP to pull that information.
 
 </div>
 
@@ -56,17 +56,17 @@ PS msdp.LOCATION still stuffed, ran all the way to coliseum without it updating.
 
 <div class="post" data-post-id="38101" data-author="Gorka" data-date="2017-03-07T22:04:23+00:00" data-subject="Re: Changelog 2017-03-07">
 
-5 hours now playing with stats  :lol: 
+5 hours now playing with stats <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> 
 
-I've come to the conclusion that the long debated difference in "power" between monks and warriors and warrior playing monks is negligible, and actually it mostly comes down to play style and the size of the mobs you hit. The differences between, riposte, counterattack, deathblow, flurry, strike, firewind, ac difference, weapons vs hands, caps more a less cancel each other out. The advantage coming down to monks being better for smaller mobs, and warrior being better for larger mobs. I have 5hrs of calculating numbers... but not sharing here, you can run them yourselves, besides... strong numerical evidence has proven to be ineffective on most players opinions anyway, if past experience is anything to go by.  :P 
+I've come to the conclusion that the long debated difference in "power" between monks and warriors and warrior playing monks is negligible, and actually it mostly comes down to play style and the size of the mobs you hit. The differences between, riposte, counterattack, deathblow, flurry, strike, firewind, ac difference, weapons vs hands, caps more a less cancel each other out. The advantage coming down to monks being better for smaller mobs, and warrior being better for larger mobs. I have 5hrs of calculating numbers... but not sharing here, you can run them yourselves, besides... strong numerical evidence has proven to be ineffective on most players opinions anyway, if past experience is anything to go by. <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom"> 
 
 A couple of requests for consideration...
 
-* Can you count hit point damage to the character as a counter. (So we can calculate AC effectiveness - can't wait to calculate how much ac sacrifice is worth a damage point)
+\* Can you count hit point damage to the character as a counter. (So we can calculate AC effectiveness - can't wait to calculate how much ac sacrifice is worth a damage point)
 
-* I suspect the counter for deathblow shows more damage than what was required to kill the mob?
+\* I suspect the counter for deathblow shows more damage than what was required to kill the mob?
 
-* Do we get a counter for damage from our pets?
+\* Do we get a counter for damage from our pets?
 
 What a night..! Off to bed...
 
@@ -74,18 +74,18 @@ What a night..! Off to bed...
 
 <div class="post" data-post-id="38102" data-author="*teker*" data-date="2017-03-07T23:13:49+00:00" data-subject="Re: Changelog 2017-03-07">
 
-> **Gorka wrote:**
-> * Can you count hit point damage to the character as a counter. (So we can calculate AC effectiveness - can't wait to calculate how much ac sacrifice is worth a damage point)
+> <strong>Gorka wrote:</strong>
+> \* Can you count hit point damage to the character as a counter. (So we can calculate AC effectiveness - can't wait to calculate how much ac sacrifice is worth a damage point)
 
 I'll probably build a similar table for damage received and add totals at the bottom for both tables.
 
-> **Quote:**
-> * I suspect the counter for deathblow shows more damage than what was required to kill the mob?
+> <strong>Quote:</strong>
+> \* I suspect the counter for deathblow shows more damage than what was required to kill the mob?
 
-I'm not capping the damage on death because that would drop your average if a mob is at -9 before the last strike.  That being said, the numbers do get inflated since you get bonus damage against targets that aren't standing.
+I'm not capping the damage on death because that would drop your average if a mob is at -9 before the last strike. That being said, the numbers do get inflated since you get bonus damage against targets that aren't standing.
 
-> **Quote:**
-> * Do we get a counter for damage from our pets?
+> <strong>Quote:</strong>
+> \* Do we get a counter for damage from our pets?
 
 We could probably do a singular counter that totals all pet damage dealt.
 
@@ -97,19 +97,19 @@ Great addition with counters. Highly appreciate that, Teker.
 
 Some bugs about it.
 
-1. Missing average when amount of hits lower then 5. Guess thats working as intended to not reveal exact value of each attack. 
+1\. Missing average when amount of hits lower then 5. Guess thats working as intended to not reveal exact value of each attack. 
 
-2. Some skills missing in counters. For example piasa blasts(both), or makara chomp, or bear maul. Some other forms works fine though. Not tested much of them yet.
+2\. Some skills missing in counters. For example piasa blasts(both), or makara chomp, or bear maul. Some other forms works fine though. Not tested much of them yet.
 
-3. Thorns, petrified armor, and other such kind of damage also not counting
+3\. Thorns, petrified armor, and other such kind of damage also not counting
 
 Just some blank ideas about that addition.
 
-1. Maybe critical hits of any different kind should be count as separate source of damage. I mean separate basic, critical and massive critical. Same for spell saves. Same for any kind of dots - like poison, deathgrip cycles, solar blast ticks and so on. To not mix damage of main strike and it dot.
+1\. Maybe critical hits of any different kind should be count as separate source of damage. I mean separate basic, critical and massive critical. Same for spell saves. Same for any kind of dots - like poison, deathgrip cycles, solar blast ticks and so on. To not mix damage of main strike and it dot.
 
 Also basic attacks with same name of different forms should be list separated. Ie Bite(Chimaera), Bite(Makara)
 
-2. Make specaial "dummy" mob. With zero attack power, but infinite hps(or it could just heal up each round). And each minute that mob reports, how much damage you made on it from start of the fight. And also showing dps value. Fighting it for several minutes will be good way to know your real combat dps.
+2\. Make specaial "dummy" mob. With zero attack power, but infinite hps(or it could just heal up each round). And each minute that mob reports, how much damage you made on it from start of the fight. And also showing dps value. Fighting it for several minutes will be good way to know your real combat dps.
 
 There could be several such dummies actually with different ac/damage reduce value. Like low level mob, mid level mob, huge epic and so on.
 
@@ -125,7 +125,7 @@ Counters/new housing/levels and counting. Very good job.
 
 <div class="post" data-post-id="38105" data-author="*Breeze*" data-date="2017-03-09T09:27:34+00:00" data-subject="Re: Changelog 2017-03-07">
 
-> **Filk wrote:**
+> <strong>Filk wrote:</strong>
 > Great addition with counters. Highly appreciate that, Teker.
 > 
 > 
@@ -134,15 +134,15 @@ Counters/new housing/levels and counting. Very good job.
 > 
 > 
 > 
-> 1. Missing average when amount of hits lower then 5. Guess thats working as intended to not reveal exact value of each attack. 
+> 1\. Missing average when amount of hits lower then 5. Guess thats working as intended to not reveal exact value of each attack. 
 > 
 > 
 > 
-> 2. Some skills missing in counters. For example piasa blasts(both), or makara chomp, or bear maul. Some other forms works fine though. Not tested much of them yet.
+> 2\. Some skills missing in counters. For example piasa blasts(both), or makara chomp, or bear maul. Some other forms works fine though. Not tested much of them yet.
 > 
 > 
 > 
-> 3. Thorns, petrified armor, and other such kind of damage also not counting
+> 3\. Thorns, petrified armor, and other such kind of damage also not counting
 > 
 > 
 > 
@@ -152,17 +152,17 @@ Counters/new housing/levels and counting. Very good job.
 > 
 > 
 > 
-> 1. Maybe critical hits of any different kind should be count as separate source of damage. I mean separate basic, critical and massive critical. Same for spell saves. Same for any kind of dots - like poison, deathgrip cycles, solar blast ticks and so on. To not mix damage of main strike and it dot.
+> 1\. Maybe critical hits of any different kind should be count as separate source of damage. I mean separate basic, critical and massive critical. Same for spell saves. Same for any kind of dots - like poison, deathgrip cycles, solar blast ticks and so on. To not mix damage of main strike and it dot.
 > 
 > Also basic attacks with same name of different forms should be list separated. Ie Bite(Chimaera), Bite(Makara)
 > 
 > 
 > 
-> 2. Make specaial "dummy" mob. With zero attack power, but infinite hps(or it could just heal up each round). And each minute that mob reports, how much damage you made on it from start of the fight. And also showing dps value. Fighting it for several minutes will be good way to know your real combat dps.
+> 2\. Make specaial "dummy" mob. With zero attack power, but infinite hps(or it could just heal up each round). And each minute that mob reports, how much damage you made on it from start of the fight. And also showing dps value. Fighting it for several minutes will be good way to know your real combat dps.
 > 
 > There could be several such dummies actually with different ac/damage reduce value. Like low level mob, mid level mob, huge epic and so on.
 
-1- not a bug.  its a design choice that we 3 agreed on.
+1- not a bug. its a design choice that we 3 agreed on.
 
 2- not a bug. that damage is added in a different place. can be considered a lets get it in game for now and tweak it later.
 
@@ -176,16 +176,16 @@ re: blank ideas
 
 <div class="post" data-post-id="38106" data-author="Filk" data-date="2017-03-09T13:53:17+00:00" data-subject="Re: Changelog 2017-03-07">
 
-> ***Breeze* wrote:**
+> <strong>\*Breeze\* wrote:</strong>
 > 2- not a bug. that damage is added in a different place. can be considered a lets get it in game for now and tweak it later.
 > 
 > 
 > 
 > 3- not a bug. that damage is added in a different place. can be considered a lets get it in game for now and tweak it later.
 
-Well. Its all about definitions for sure :)
+Well. Its all about definitions for sure <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-But i consider it as a bug, since damage source dont appears in counters in any way. So in defined new functionality of counters it could be counted as bug. Imho for sure :)
+But i consider it as a bug, since damage source dont appears in counters in any way. So in defined new functionality of counters it could be counted as bug. Imho for sure <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 ```
 counters
@@ -216,12 +216,12 @@ There were 350 coins.
 counters
 Solo counters:
 You have gained 5,871 experience points in 41 seconds.
-    Average = 143.2 xp/second.
+ Average = 143.2 xp/second.
 You have gained 350 gold coins in 41 seconds.
-    Average = 8.5 gold/second.
+ Average = 8.5 gold/second.
 You have gained 0 honor points in 41 seconds.
 1 kill, 5.9k xp/kill, 350.0 gold/kill.
-    87.8 kills/hour, 1.5 kills/minute.
+ 87.8 kills/hour, 1.5 kills/minute.
 
 Your counters are currently in solo mode.
 
@@ -248,7 +248,7 @@ A fix for the score affects2 crash went live during the last crash reboot.
 
 Next reboot will have the "other" counter, a total at the bottom, and a counter for pet damage.
 
-I changed the script for the piasa arctic blast so that it treats the damage internally as "frost breath" and uses the counter for it.  This is live now.  As a positive, it changes it to work with resist cold as all normal spells do rather than a hacked solution in the script.  It does display an extra message on the attack - let me know how this looks and I'll try to find a way to proceed from there.
+I changed the script for the piasa arctic blast so that it treats the damage internally as "frost breath" and uses the counter for it. This is live now. As a positive, it changes it to work with resist cold as all normal spells do rather than a hacked solution in the script. It does display an extra message on the attack - let me know how this looks and I'll try to find a way to proceed from there.
 
 EDIT: Fixed spelling
 
@@ -256,7 +256,7 @@ EDIT: Fixed spelling
 
 <div class="post" data-post-id="38109" data-author="Filk" data-date="2017-03-10T02:10:14+00:00" data-subject="Re: Changelog 2017-03-07">
 
-> ***teker* wrote:**
+> <strong>\*teker\* wrote:</strong>
 > I changed the script for the piasa arctic blast so that it treats the damage internally as "frost breath"
 
 I used piasa only as example of not displayed source. That form is rarely used anyway - its heavy unbalanced.
@@ -281,13 +281,13 @@ Sorry,
 
 <div class="post" data-post-id="38114" data-author="*teker*" data-date="2017-03-13T14:18:11+00:00" data-subject="Re: Changelog 2017-03-07">
 
-Sorry guys - I had put in a fix for GAG_FIGHT and a condition showed up that I didn't see on the test server.  I've committed a fix so next reboot everything should be put back in.
+Sorry guys - I had put in a fix for GAG\_FIGHT and a condition showed up that I didn't see on the test server. I've committed a fix so next reboot everything should be put back in.
 
 </div>
 
 <div class="post" data-post-id="38115" data-author="Josiah" data-date="2017-03-14T16:58:52+00:00" data-subject="Re: Changelog 2017-03-07">
 
-> **Gorka wrote:**
+> <strong>Gorka wrote:</strong>
 > Wow, very nice change to counters.
 > 
 > 
@@ -320,7 +320,7 @@ Sorry guys - I had put in a fix for GAG_FIGHT and a condition showed up that I d
 
 Yep, it was all calculated previously, but with enormous amounts of effort. I'm happy that the numbers are now available to everyone without the need to reverse engineer the game.
 
-Also, either your strikes are weaksauce or your firewinds are unexpectedly strong.  Strike maxes out at about 230 average damage.
+Also, either your strikes are weaksauce or your firewinds are unexpectedly strong. Strike maxes out at about 230 average damage.
 
 Nerdy numbers are awesome.
 

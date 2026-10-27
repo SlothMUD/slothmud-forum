@@ -16,37 +16,37 @@ This is a continuation of a single point from another thread.
 
 Here's how I propose to scale bard songs with charisma, with gods of war as an example:
 
-- 10 charisma: gods of war is 8 damage, 0 ppl bonus
+\- 10 charisma: gods of war is 8 damage, 0 ppl bonus
 
-- 12 charisma: gods of war is 9 damage, 0 ppl bonus
+\- 12 charisma: gods of war is 9 damage, 0 ppl bonus
 
-- 14 charisma: gods of war is 10 damage, 1 ppl bonus
+\- 14 charisma: gods of war is 10 damage, 1 ppl bonus
 
-- 16 charisma: gods of war is 11 damage, 1 ppl bonus
+\- 16 charisma: gods of war is 11 damage, 1 ppl bonus
 
-- 18 charisma: gods of war is 12 damage, 2 ppl bonus
+\- 18 charisma: gods of war is 12 damage, 2 ppl bonus
 
-- 20 charisma: gods of war is 13 damage, 2 ppl bonus (current cap at 1x40)
+\- 20 charisma: gods of war is 13 damage, 2 ppl bonus (current cap at 1x40)
 
-- 22 charisma: gods of war is 14 damage, 3 ppl bonus
+\- 22 charisma: gods of war is 14 damage, 3 ppl bonus
 
-- 24 charisma: gods of war is 15 damage, 3 ppl bonus (bard cap at 5x40)
+\- 24 charisma: gods of war is 15 damage, 3 ppl bonus (bard cap at 5x40)
 
-- 26 charisma: gods of war is 16 damage, 4 ppl bonus
+\- 26 charisma: gods of war is 16 damage, 4 ppl bonus
 
-- 28 charisma: gods of war is 17 damage, 4 ppl bonus (supposed 9x40 cap)
+\- 28 charisma: gods of war is 17 damage, 4 ppl bonus (supposed 9x40 cap)
 
-- 30 charisma: gods of war is 18 damage, 5 ppl bonus 
+\- 30 charisma: gods of war is 18 damage, 5 ppl bonus 
 
-- 32 charisma: gods of war is 19 damage, 5 ppl bonus
+\- 32 charisma: gods of war is 19 damage, 5 ppl bonus
 
-- 32 charisma: gods of war is 20 damage, +6 ppl bonus
+\- 32 charisma: gods of war is 20 damage, +6 ppl bonus
 
-- 34 charisma: gods of war is 21 damage, +6 ppl bonus (33charisma= all ingame charisma eq, runes and +3char robe)
+\- 34 charisma: gods of war is 21 damage, +6 ppl bonus (33charisma= all ingame charisma eq, runes and +3char robe)
 
-- 36 charisma: gods of war is 22 damage, +7 ppl bonus (+3 bonus charisma)
+\- 36 charisma: gods of war is 22 damage, +7 ppl bonus (+3 bonus charisma)
 
-You can only hit overcap charisma you can only get with  +bonus charisma drachma eq. 
+You can only hit overcap charisma you can only get with +bonus charisma drachma eq. 
 
 Also do remember that bards may want to use any other charisma to replace low ac items, such as the lillies wreath or jovian armplates or a held low +charisma item, with high ac or other items (damage/healbonus).
 
@@ -104,7 +104,7 @@ Dark mace is also very helpful in magestyle xp as many of such mobs are ether an
 
 Not mentioning special cleric mobs that are damaged by healing.
 
-Finally cl/drs (and druid second is very popular choice among clerics) have  access to makara too.
+Finally cl/drs (and druid second is very popular choice among clerics) have access to makara too.
 
 Certainly druid forms are powerful. However bard prime skills can't offer much to empower it even more. Also not all bards have druid close in the class order. There are multiple ba/wa. And I wanted to suggest something that all prime bards will benefit from.
 
@@ -124,7 +124,7 @@ I also have to side with Sochi here: bard is an exclusively group character, so 
 
 As it turns out, their [blasting powers increase](http://www.slothmud.org/forum/viewtopic.php?f=28&t=4654&p=37144#p37097). Can bards affect more people, if they level their 40s without changing their instrument?
 
-How many people can *you* affect at the moment? Pretty sure a 1x40bard can affect 11 nat.
+How many people can \*you\* affect at the moment? Pretty sure a 1x40bard can affect 11 nat.
 
 </div>
 
@@ -150,41 +150,41 @@ Altho...I could see using the damage numbers suggested in his chart above, but m
 
 <div class="post" data-post-id="37148" data-author="Teron" data-date="2016-07-28T07:15:09+00:00" data-subject="Re: Make bard songs (not just blast) scale with charisma">
 
-1. The damage chart is great, but so is damage of 9x40 mage avatars or any 9x40 pumped up avatar. Yet all bards get from 9x40 is their powered up cry of the avatars.
+1\. The damage chart is great, but so is damage of 9x40 mage avatars or any 9x40 pumped up avatar. Yet all bards get from 9x40 is their powered up cry of the avatars.
 
 I know that some songs, such as sanc for body and reign, are already affected by charisma, but not others. Basically, anything that's not affected by charisma is removed from the "perks" list or is heavily diminished.
 
 Let's try to test these assumptions of mine:
 
-0. Charisma helps cry, sanc for body, reign, oghams, reprieve, luck gods, hymn of an artisan, haunted dirge, eye of the beholder.
+0\. Charisma helps cry, sanc for body, reign, oghams, reprieve, luck gods, hymn of an artisan, haunted dirge, eye of the beholder.
 
-1. Bards rarely use blast spells in groups (even if the mob is alone in the room).
+1\. Bards rarely use blast spells in groups (even if the mob is alone in the room).
 
-2. Bards rarely use songs that require charisma in groups: sanc for body and reign are situational - still helpful, ofc. I have seen dirge used maybe 3 times, 1 myself. I don't see bards playing oghams either.
+2\. Bards rarely use songs that require charisma in groups: sanc for body and reign are situational - still helpful, ofc. I have seen dirge used maybe 3 times, 1 myself. I don't see bards playing oghams either.
 
-3. 15-20 charisma is enough to make the bard save against most mobs, you don't need 35 charisma to do it.
+3\. 15-20 charisma is enough to make the bard save against most mobs, you don't need 35 charisma to do it.
 
 So what does it leave us with? Bards rarely use their charisma in groups, yet it's their primary stat. Imagine thieves rarely using stab dam or circle damage in groups.
 
 This brings us to songs that should be also affected by charisma:
 
-- gods of war, 3d most used song (tho if we sum up gods and lions, they come up first)
+\- gods of war, 3d most used song (tho if we sum up gods and lions, they come up first)
 
-- song of the mist
+\- song of the mist
 
-- knight's blessing/prayer
+\- knight's blessing/prayer
 
-- brothers in arms/valor, the 2nd most used song
+\- brothers in arms/valor, the 2nd most used song
 
-- lion chorus - 4th most popular
+\- lion chorus - 4th most popular
 
-- dreams of the castle
+\- dreams of the castle
 
-- rina cruinne
+\- rina cruinne
 
-- march of the heroes, the most used song ever
+\- march of the heroes, the most used song ever
 
-- fare thee well, #5th most popular
+\- fare thee well, #5th most popular
 
 For the last 5, you don't even have to be a bard to sing those - that's why anyone sings rina or march, and doesn't even ask the only bard in the group to do it.
 
@@ -196,36 +196,36 @@ Song statistics:
 
 Essentially, find a way to boost those songs with scaling charisma.
 
-2. Regarding gods of war and stab.
+2\. Regarding gods of war and stab.
 
-You could create the same sliding scale for stab bonus (as far as I know, it gives about 3-4 damage before multiplier atm). You could grant 1 dam that helps stab every 5 charisma or something, nothing to kill for, but it'll give bards a reason to wear charisma eq instead of -saves for blasting *with wind* in stab groups.
+You could create the same sliding scale for stab bonus (as far as I know, it gives about 3-4 damage before multiplier atm). You could grant 1 dam that helps stab every 5 charisma or something, nothing to kill for, but it'll give bards a reason to wear charisma eq instead of -saves for blasting \*with wind\* in stab groups.
 
 Though, I'll welcome any song that helps the stab as much as gods and arms do, and is cheaper.
 
-3. I didn't say bard was weak, so maybe you are talking to Yang.
+3\. I didn't say bard was weak, so maybe you are talking to Yang.
 
 Bard does, however, lack a single-target damage move that'd make it more useful in solo, but bard isn't a monk or a thief, so there can't be any physical skill. Maybe a 15 avatar skill that'd allow the bard to focus an area song at a single target?
 
 Such as:
 
-- a skill that forms [a parametric array](https://en.wikipedia.org/wiki/Parametric_array) that allows sending the waves precisely. Expert singers can do it and not damage everyone in the room:
+\- a skill that forms [a parametric array](https://en.wikipedia.org/wiki/Parametric_array) that allows sending the waves precisely. Expert singers can do it and not damage everyone in the room:
 
-[<LINK_TEXT text="http://www.discovery.com/tv-shows/mythb ... ing-glass/">http://www.discovery.com/tv-shows/mythbusters/videos/adam-savage-on-breaking-glass/</LINK_TEXT>](http://www.discovery.com/tv-shows/mythbusters/videos/adam-savage-on-breaking-glass/)
+[http://www.discovery.com/tv-shows/mythbusters/videos/adam-savage-on-breaking-glass/](http://www.discovery.com/tv-shows/mythbusters/videos/adam-savage-on-breaking-glass/)
 
 You can name it a resonant frequency or resonant focus.
 
-- a complex bard instrument, [an acoustic lense](http://blogs.scientificamerican.com/observations/acoustic-lens-generates-bullets-of-sound-that-may-lead-to-sonic-scalpels/):
+\- a complex bard instrument, [an acoustic lense](http://blogs.scientificamerican.com/observations/acoustic-lens-generates-bullets-of-sound-that-may-lead-to-sonic-scalpels/):
 
-> **Scientific American wrote:**
+> <strong>Scientific American wrote:</strong>
 > Instead of using glass and mirrors, the researchers designed an acoustic lens made of 21 rows of stainless-steel spheres, with each row having 21 spheres.
 
 a 5x40 forge, +1 charisma, -15% mana cost, -3 person affected, single-target.
 
 I wonder, if you could set the number of ppl affected to 1 with an instrument, that'd achieve the goal.
 
-- a held low item [a parabolic reflector](https://en.wikipedia.org/wiki/Parabolic_reflector), basically a deep dish
+\- a held low item [a parabolic reflector](https://en.wikipedia.org/wiki/Parabolic_reflector), basically a deep dish
 
-6x40 & 40ba to use, +5ma, single target.
+6x40 \& 40ba to use, +5ma, single target.
 
 More info:
 
@@ -239,11 +239,11 @@ My concern is that if it's only an instrument, it won't be known to new players,
 
 <div class="post" data-post-id="37160" data-author="Oboe" data-date="2016-08-02T04:32:30+00:00" data-subject="Re: Make bard songs (not just blast) scale with charisma">
 
-Regarding the original idea, no, thanks.  The songs have worked in their present
+Regarding the original idea, no, thanks. The songs have worked in their present
 
-manner from the earliest days of the bard class.  It's not a bug.  Find the
+manner from the earliest days of the bard class. It's not a bug. Find the
 
-optimal strategy and play that way.  It's unsportmanlike to lobby for game
+optimal strategy and play that way. It's unsportmanlike to lobby for game
 
 changes that would make your preferred strategy become the optimal one.
 
@@ -261,7 +261,7 @@ The original concern of Taron(please, T, correct me if I am wrong) is charisma b
 
 Oboe, what original idea are you talking about?
 
-If it's about -saves, then I've already conceded on that one (and also [post in that thread](http://www.slothmud.org/forum/viewtopic.php?f=28&t=4654&p=37149), not here :p). I agree that I need to change my coliseum strategy, though the original stimulus was that it felt weird that -saves vs spells don't affect *channelling* songs. (help saves) It affecting a coliseum strategy would've been a consequence, not the desired result, especially that it wouldn't have been coded that -saves would have only added to the bard -saves.
+If it's about -saves, then I've already conceded on that one (and also [post in that thread](http://www.slothmud.org/forum/viewtopic.php?f=28&t=4654&p=37149), not here :p). I agree that I need to change my coliseum strategy, though the original stimulus was that it felt weird that -saves vs spells don't affect \*channelling\* songs. (help saves) It affecting a coliseum strategy would've been a consequence, not the desired result, especially that it wouldn't have been coded that -saves would have only added to the bard -saves.
 
 If it's about the idea that some songs should scale with charisma, which this thread is about and is why I separated them, what strategies should I change? This is about nothing else, but making bard primes more useful in groups and slightly more powerful in solo. What is it here that you don't like?
 
@@ -271,17 +271,17 @@ P.S. This thread is precisely why I'm not buying the book of tales with +3charis
 
 <div class="post" data-post-id="37165" data-author="Oboe" data-date="2016-08-03T05:12:16+00:00" data-subject="Re: Make bard songs (not just blast) scale with charisma">
 
-> **Teron wrote:**
+> <strong>Teron wrote:</strong>
 > Oboe, what original idea are you talking about?
 
 The one given in the original post of this thread, namely:
 
-> **Teron wrote:**
+> <strong>Teron wrote:</strong>
 > If it's about the idea that some songs should scale with charisma, which this thread is about and is why I separated them, what strategies should I change?
 
 You should wear +cha eq if and only if it already brings commensurate benefits for the songs you will use.
 
-> **Teron wrote:**
+> <strong>Teron wrote:</strong>
 > This is about nothing else, but making bard primes more useful in groups and slightly more powerful in solo. What is it here that you don't like?
 
 The part about making bard primes more powerful, anywhere.
@@ -306,9 +306,9 @@ I.e. I dont mind parting with the whole stash of prime bard skills: knight's ble
 
 Another way to look at it is, 
 
-1. You're right. Really high charisma is not essential most of the time. The big perks in my opinion is for the success rates on reign of chaos, sacred reprieve, luck gods. Especially reign, you really want it to be reliable, which means running in the 20's at least in groups.
+1\. You're right. Really high charisma is not essential most of the time. The big perks in my opinion is for the success rates on reign of chaos, sacred reprieve, luck gods. Especially reign, you really want it to be reliable, which means running in the 20's at least in groups.
 
-2. You're right. Charisma gear is fairly well flushed out and it's not that hard to achieve a decent charisma on a limited number of slots.
+2\. You're right. Charisma gear is fairly well flushed out and it's not that hard to achieve a decent charisma on a limited number of slots.
 
 But where you see this as a flawed design, I see that I'm able to play around with my eq and use a variety of equipment. I don't have to focus explicitly on charisma, and wear that 1 same max charisma set that eveyrone else uses. I can be quirky and wear handdam in groups or work on getting my ac and being a 2.tank, or wear a combination of charisma and healbonus or spellbonus/saves in group. No one cares whether my charisma is 30 or 20 and I kinda like it this way.
 
@@ -320,9 +320,9 @@ It seems like what you're mostly interested in is combat damage / coliseum score
 
 Yes, we do need reign occasionally, and it means that bards still need to put on near-max charisma on runs, when they don't need reign or they need to:
 
-- learn rapid shift for 50 drachma total
+\- learn rapid shift for 50 drachma total
 
-- make an alias to tree, switch to max charisma, and reign.
+\- make an alias to tree, switch to max charisma, and reign.
 
 This could be viable, but like I said, why shouldn't bards wear charisma in their group runs? Sounds completely pointless to be a bard then, other than to sing for forges or 7 luck.
 
@@ -336,7 +336,7 @@ If I didn't understand you, please clarify.
 
 <div class="post" data-post-id="37191" data-author="*juggleblood*" data-date="2016-08-07T13:55:07+00:00" data-subject="Re: Make bard songs (not just blast) scale with charisma">
 
-Because to me 20 is not close to max charisma. I can get like 28 or 30 (I'm not 100% sure about charisma cap, but I can make score2 say 30).  So for example in dino group I can wear saves gear and still have enough charisma to reign/reprieve reliably. Or if front row is light, I can put on AC and still have enough charisma. Or if healo is light, I can put on regen gear and still have enough charisma. I don't run in groups in max charisma much, and would rather not have to. If gods damage was based on charisma for example, everyone in the group would be concerned about whether or not I was running in max charisma because they like seeing that damage bonus. It would be annoying/not as fun.
+Because to me 20 is not close to max charisma. I can get like 28 or 30 (I'm not 100% sure about charisma cap, but I can make score2 say 30). So for example in dino group I can wear saves gear and still have enough charisma to reign/reprieve reliably. Or if front row is light, I can put on AC and still have enough charisma. Or if healo is light, I can put on regen gear and still have enough charisma. I don't run in groups in max charisma much, and would rather not have to. If gods damage was based on charisma for example, everyone in the group would be concerned about whether or not I was running in max charisma because they like seeing that damage bonus. It would be annoying/not as fun.
 
 Oh and regarding Rina, yes I don't care that charisma doesn't affect the success of the raise. Why should I? It's fine the way it is. I'm more annoyed that the raisers don't just rina for themselves instead of waiting for the bard to do it, because it costs me mana to break my current song and resing it, whereas they could just rina for themselves. They have better mana regen anyway. Let them sing for their raise xp.
 
@@ -348,9 +348,9 @@ I am not interesting in coliseum score, but in the xp solo. And to excel in that
 
 The problem is a bard is the only one of 8 classes who lacks any of those.
 
-Of course, no one expects a bard to be strong like monk. However, again, I think it is wrong that it is weaker than even a cleric. So I am proposing giving bard's something either offensive or defensive. And  I am even ready to part with 3 previously mentioned prime songs in exchange.
+Of course, no one expects a bard to be strong like monk. However, again, I think it is wrong that it is weaker than even a cleric. So I am proposing giving bard's something either offensive or defensive. And I am even ready to part with 3 previously mentioned prime songs in exchange.
 
-**p.s. **Recently I've found that gods of war seems to not empower grip. Kid's grip empowered by lion chorus does more damage than empowered by gods of war. I am pretty sure stab is not affected by gods as well. 
+<strong>p.s.</strong> Recently I've found that gods of war seems to not empower grip. Kid's grip empowered by lion chorus does more damage than empowered by gods of war. I am pretty sure stab is not affected by gods as well. 
 
 So gods is a song only for groups. Therefore I am now against original Taron's suggestion. As it'll keep bards being purely group class and will prevent them receiving any useful solo skill in the observable future.
 
@@ -360,7 +360,7 @@ So gods is a song only for groups. Therefore I am now against original Taron's s
 
 Isn't helping the group kinda the whole point of the bard class tho? No class can have it all. For example, necro's are virtually useless in group (refer to debuff thread for reasons), but get to have strong solo skills.
 
-Who cares if bard prime isn't great at solo xp, there are 7 other classes to draw skills from. The logical thing to me seems to be for bards to take Druid 2nd, then they can solo using forms. I'm using myrmecoleon currently, and I can't imagine what bard skills you could possibly offer me that would make my unshifted combat superior to shifted.  Also there's nothing stopping someone from being a bard that grip/blasts.  So while I agree that lower level bard primes are crap at solo xp,  I don't see a problem with that. 
+Who cares if bard prime isn't great at solo xp, there are 7 other classes to draw skills from. The logical thing to me seems to be for bards to take Druid 2nd, then they can solo using forms. I'm using myrmecoleon currently, and I can't imagine what bard skills you could possibly offer me that would make my unshifted combat superior to shifted. Also there's nothing stopping someone from being a bard that grip/blasts. So while I agree that lower level bard primes are crap at solo xp, I don't see a problem with that. 
 
 If I had one complaint about the bard class it's that songs get broken in some circumstances where they should not and intel should have a greater influence over the frequency of song breakage. Sometimes singing can feel quite futile and irritating. Also, is it me or does the 'you are singing to' list seem to get messed up often, including everytime the group moves rooms. 
 
@@ -376,7 +376,7 @@ And regarding gods damage not multiplying into stab/grip damage, I can confirm I
 
 <div class="post" data-post-id="37203" data-author="Teron" data-date="2016-08-08T11:52:00+00:00" data-subject="Re: Make bard songs (not just blast) scale with charisma">
 
-**JB**, if the group is large enough, we can afford you to move to back row and switch to max charisma.
+<strong>JB</strong>, if the group is large enough, we can afford you to move to back row and switch to max charisma.
 
 If the group is small and you need to go to front row and blast/heal, then no one will object to you wearing less charisma.
 
@@ -388,17 +388,17 @@ If one day you get to sing a more powerful rina, why not swap songs? You are the
 
 This charisma disbalance can be shown that people can choose to get the following eq sets:
 
-- -saves
+\- -saves
 
-- + heal
+\- + heal
 
-- ac
+\- ac
 
-- +damage
+\- +damage
 
-- +weapon damage
+\- +weapon damage
 
-- -sys shock
+\- -sys shock
 
 but not charisma.
 
@@ -406,21 +406,21 @@ That's because charisma is not useful to non-bards.
 
 Yang, I've already suggested a skill (resonant focus)/instrument (an accoustic lense)/held low item that allows a bard to concentrate their blast on a single mob in the room:
 
-[<LINK_TEXT text="http://www.slothmud.org/forum//viewtopi ... 659#p37148">http://www.slothmud.org/forum//viewtopic.php?f=30&t=4659#p37148</LINK_TEXT>](http://www.slothmud.org/forum//viewtopic.php?f=30&t=4659#p37148)
+[http://www.slothmud.org/forum//viewtopic.php?f=30&t=4659#p37148](http://www.slothmud.org/forum//viewtopic.php?f=30&t=4659#p37148)
 
 I don't see how making charisma more useful will affect the skill above, because:
 
-- the skill is used for soloing
+\- the skill is used for soloing
 
-- the charisma suggestions above are used for groups
+\- the charisma suggestions above are used for groups
 
-- ideas to make bard more viable by making charisma useful and by adding the single-target skill aren't mutually exclusive.
+\- ideas to make bard more viable by making charisma useful and by adding the single-target skill aren't mutually exclusive.
 
 </div>
 
 <div class="post" data-post-id="37204" data-author="Teron" data-date="2016-08-08T11:55:49+00:00" data-subject="Re: Make bard songs (not just blast) scale with charisma">
 
-> ***juggleblood* wrote:**
+> <strong>\*juggleblood\* wrote:</strong>
 > And regarding gods damage not multiplying into stab/grip damage, I can confirm It's contribution to stab or grip is underwhelming. It is apparently intentionally so, not a bug. Might be a good thing to mention in the wiki or something.
 
 Still, isn't gods' bonus larger, than the bonus from the lion chorus?
@@ -447,7 +447,7 @@ Also there's another issue with charisma being useless.
 
 I think both issues(bard being weakest solo xp class and charisma being useless) could be addressed by one fix. I.e. by adding some real usefulness to knight's blessing and knight's prayer songs.
 
-Also I like Taron's suggestion about resonant focus. However I have some doubts there'll be a coder having slightlest desire to implement it. :)
+Also I like Taron's suggestion about resonant focus. However I have some doubts there'll be a coder having slightlest desire to implement it. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

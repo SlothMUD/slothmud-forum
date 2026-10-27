@@ -24,8 +24,8 @@ Alias
 
 <div class="post" data-post-id="14348" data-author="Avatar" data-date="2006-09-28T02:31:12+00:00" data-subject="quest">
 
-Well, it's like a lottery except that your skill can play a part in whether you win or lose.  If you don't like the odds, don't join.  The other players might still have a good time participating.
+Well, it's like a lottery except that your skill can play a part in whether you win or lose. If you don't like the odds, don't join. The other players might still have a good time participating.
 
-I won't be joining either, but it's an interesting quest idea.  It's nice to break away from the routine.
+I won't be joining either, but it's an interesting quest idea. It's nice to break away from the routine.
 
 </div>

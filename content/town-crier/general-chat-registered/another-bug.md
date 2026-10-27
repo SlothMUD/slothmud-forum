@@ -14,47 +14,47 @@ post_count: 50
 
 Pannalal has had enough: he attacks you!
 
-1-> 1025/1025/+43hp 164/375/+25ma 109/205/+28mv +8/+9 
+1-\> 1025/1025/+43hp 164/375/+25ma 109/205/+28mv +8/+9 
 
-2-> -11.0ac  1211069576xp 44786gp +10align 8:28 am fair Ah.Hellwell
+2-\> -11.0ac 1211069576xp 44786gp +10align 8:28 am fair Ah.Hellwell
 
 bs pan
 
 You can't backstab a fighting person, too alert!
 
-1-> 1025/1025/+43hp 164/375/+25ma 110/205/+28mv +8/+9 
+1-\> 1025/1025/+43hp 164/375/+25ma 110/205/+28mv +8/+9 
 
-2-> -11.0ac  1211069576xp 44786gp +10align 8:28 am fair Ah.Hellwell
+2-\> -11.0ac 1211069576xp 44786gp +10align 8:28 am fair Ah.Hellwell
 
 rem bolt
 
 You stop using a thunderbolt.
 
-1-> 1025/1025/+43hp 164/375/+25ma 110/205/+28mv +6/+6 
+1-\> 1025/1025/+43hp 164/375/+25ma 110/205/+28mv +6/+6 
 
-2-> -11.0ac  1211069576xp 44786gp +10align 8:28 am fair Ah.Hellwell
+2-\> -11.0ac 1211069576xp 44786gp +10align 8:28 am fair Ah.Hellwell
 
 wield sword
 
 You wield Brilliant Sword of Valor.
 
-1-> 1025/1025/+43hp 165/375/+25ma 110/205/+28mv +7/+8 
+1-\> 1025/1025/+43hp 165/375/+25ma 110/205/+28mv +7/+8 
 
-2-> -11.0ac  1211069576xp 44786gp +10align 8:29 am fair Ah.Hellwell
+2-\> -11.0ac 1211069576xp 44786gp +10align 8:29 am fair Ah.Hellwell
 
 Ok.
 
-1-> 1025/1025/+43hp 165/375/+25ma 110/205/+28mv +7/+8 
+1-\> 1025/1025/+43hp 165/375/+25ma 110/205/+28mv +7/+8 
 
-2-> -11.0ac  1211069576xp 44786gp +10align 8:29 am fair Ah.Hellwell
+2-\> -11.0ac 1211069576xp 44786gp +10align 8:29 am fair Ah.Hellwell
 
 dise
 
 You don't seem to be fighting anyone right now.
 
-1-> 1025/1025/+43hp 165/375/+25ma 110/205/+28mv +7/+8 
+1-\> 1025/1025/+43hp 165/375/+25ma 110/205/+28mv +7/+8 
 
-2-> -11.0ac  1211069576xp 44786gp +10align 8:30 am fair Ah.Hellwell
+2-\> -11.0ac 1211069576xp 44786gp +10align 8:30 am fair Ah.Hellwell
 
 The bug here is that backstab bounces because I am in combat, but combat hasn't actually started for the purposes of the disengage. 
 
@@ -74,29 +74,31 @@ That prompt is scary...
 
 This isn't actually a bug.
 
-Pannalal has had enough: he attacks you!
-
-1-> 1025/1025/+43hp 164/375/+25ma 109/205/+28mv +8/+9 
-
-2-> -11.0ac  1211069576xp 44786gp +10align 8:28 am fair Ah.Hellwell
-
-bs pan
-
-You can't backstab a fighting person, too alert![/quote:3i45ksaq]
+> <strong>Marchessa\_red\_witch wrote:</strong>
+> Pannalal has had enough: he attacks you!
+> 
+> 1-\> 1025/1025/+43hp 164/375/+25ma 109/205/+28mv +8/+9 
+> 
+> 2-\> -11.0ac 1211069576xp 44786gp +10align 8:28 am fair Ah.Hellwell
+> 
+> bs pan
+> 
+> You can't backstab a fighting person, too alert!
 
 As the message says: he is fighting someone, specifically you, but...
 
-dise
+> <strong>Marchessa\_red\_witch wrote:</strong>
+> dise
+> 
+> You don't seem to be fighting anyone right now.
 
-You don't seem to be fighting anyone right now.[/quote:3i45ksaq]
-
-you are not yet fighting him.  After the first round, you will be fighting him as well.  The game is working as designed here.
+you are not yet fighting him. After the first round, you will be fighting him as well. The game is working as designed here.
 
 </div>
 
 <div class="post" data-post-id="17476" data-author="Medios" data-date="2007-03-26T03:23:57+00:00" data-subject="">
 
-The same thing occurs if you try to dispel.  Sometimes the mob will attack you but it pauses for a few seconds before the first round.  You cannot stab or disengage, only flee.  The mob does not hate because you haven't hit it yet.  I believe one of the monk skills will still work, possibly death touch.
+The same thing occurs if you try to dispel. Sometimes the mob will attack you but it pauses for a few seconds before the first round. You cannot stab or disengage, only flee. The mob does not hate because you haven't hit it yet. I believe one of the monk skills will still work, possibly death touch.
 
 Mike
 
@@ -104,7 +106,8 @@ Mike
 
 <div class="post" data-post-id="17478" data-author="Marchessa_red_witch" data-date="2007-03-26T10:59:27+00:00" data-subject="Re: Another bug">
 
-This isn't actually a bug.  The game is working as designed here.[/quote:2am1n9vd]
+> <strong>Atwell wrote:</strong>
+> This isn't actually a bug. The game is working as designed here.
 
 I will wait for a immort to say that before writing script that exploit the behavior.
 
@@ -112,7 +115,8 @@ I will wait for a immort to say that before writing script that exploit the beha
 
 <div class="post" data-post-id="17479" data-author="Marchessa_red_witch" data-date="2007-03-26T11:23:36+00:00" data-subject="All the information I need">
 
-That prompt is scary...[/quote:5byikbqc]
+> <strong>Rynquald wrote:</strong>
+> That prompt is scary...
 
 in one place.
 
@@ -120,13 +124,13 @@ in one place.
 
 <div class="post" data-post-id="17481" data-author="Shazuko" data-date="2007-03-26T15:46:34+00:00" data-subject="">
 
-I was recently cycling crimson appie, and after my dispel, i was always able to get a curse in...didn't try to grip though, but it seems theres a few seconds there to do something if your quick...never got that 'you are already in combat' mssg until he was actually on me...*shrug*
+I was recently cycling crimson appie, and after my dispel, i was always able to get a curse in...didn't try to grip though, but it seems theres a few seconds there to do something if your quick...never got that 'you are already in combat' mssg until he was actually on me...\*shrug\*
 
-<Shazuko Roku Ryuu>
+\<Shazuko Roku Ryuu\>
 
-<Shazuko Six Dragons>
+\<Shazuko Six Dragons\>
 
-<~Chaos~>
+\<\~Chaos\~\>
 
 </div>
 
@@ -144,9 +148,12 @@ Alias
 
 <div class="post" data-post-id="17486" data-author="Marchessa_red_witch" data-date="2007-03-26T19:20:55+00:00" data-subject="">
 
-You cant backstab a wounded mob, most people would have actually hit the mob in the first round and made it wounded so as not to be able to backstab,
-
-Alias[/quote:1gp6w8r8]
+> <strong>alias wrote:</strong>
+> You cant backstab a wounded mob, most people would have actually hit the mob in the first round and made it wounded so as not to be able to backstab,
+> 
+> 
+> 
+> Alias
 
 Read the excerpt again, there was no backstab, let alone a whiff.
 
@@ -154,17 +161,18 @@ Read the excerpt again, there was no backstab, let alone a whiff.
 
 <div class="post" data-post-id="17487" data-author="Autolycos" data-date="2007-03-26T19:55:36+00:00" data-subject="">
 
-Marchessa, damn no wonder u miss a lot of the game that prompt is almost as long as the list of brads alts.[/color:vw7l7k7r]Alias[/quote:vw7l7k7r]
+> <strong>alias wrote:</strong>
+> Marchessa, damn no wonder u miss a lot of the game that prompt is almost as long as the list of brads alts.Alias
 
-come on todd... thats silly..  that prompt would have to print out on 125 pages of standard 8 1/2 x 11.
+come on todd... thats silly.. that prompt would have to print out on 125 pages of standard 8 1/2 x 11.
 
-but seriously.. that prompt is friggen whacked   :x
+but seriously.. that prompt is friggen whacked <img src="/images/smilies/icon_mad.svg" alt=":x" title=":x" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="17489" data-author="Marchessa_red_witch" data-date="2007-03-26T20:10:37+00:00" data-subject="prompt score bug">
 
-1-> $h/$H/$Bhp $m/$M/$Rma $v/$V/$bmv $I/$D $n2-> $aac  $xxp $ggp $Aalign $Q $w $c.$Z
+1-\> $h/$H/$Bhp $m/$M/$Rma $v/$V/$bmv $I/$D $n2-\> $aac $xxp $ggp $Aalign $Q $w $c.$Z
 
 Just for the record.
 
@@ -180,15 +188,16 @@ I have read that about six times, and i am unable to see anything wrong with it.
 
 <div class="post" data-post-id="17491" data-author="tincts" data-date="2007-03-26T20:14:08+00:00" data-subject="">
 
-With regards to "has had enough; he attacks!!".  There are plenty of dispel mobs.  Ya go dispel dispel south. North.  Dispel dispel south.  North.  and so on as long as you feel like it.  He'll "have enough" each time, but as long as you get out before he hits you, you can wonder back in again and keep teasing him without being smacked.
+With regards to "has had enough; he attacks!!". There are plenty of dispel mobs. Ya go dispel dispel south. North. Dispel dispel south. North. and so on as long as you feel like it. He'll "have enough" each time, but as long as you get out before he hits you, you can wonder back in again and keep teasing him without being smacked.
 
 </div>
 
 <div class="post" data-post-id="17493" data-author="Marchessa_red_witch" data-date="2007-03-26T20:39:35+00:00" data-subject="Script">
 
-With regards to "has had enough; he attacks!!".  There are plenty of dispel mobs.  Ya go dispel dispel south. North.  Dispel dispel south.  North.  and so on as long as you feel like it.  He'll "have enough" each time, but as long as you get out before he hits you, you can wonder back in again and keep teasing him without being smacked.[/quote:sin21tp5]
+> <strong>tincts wrote:</strong>
+> With regards to "has had enough; he attacks!!". There are plenty of dispel mobs. Ya go dispel dispel south. North. Dispel dispel south. North. and so on as long as you feel like it. He'll "have enough" each time, but as long as you get out before he hits you, you can wonder back in again and keep teasing him without being smacked.
 
-I've written a script that  does |; $exit if the mob attacks, and recycles to the backstab proc. Am testing it on poor old pannalal.
+I've written a script that does \|; $exit if the mob attacks, and recycles to the backstab proc. Am testing it on poor old pannalal.
 
 If that's what the game is supposed to do... might as well automate it.
 
@@ -204,7 +213,7 @@ As far as I know the only way mobs hate you is if you try to do them some damage
 
 <div class="post" data-post-id="17497" data-author="Marchessa_red_witch" data-date="2007-03-26T21:42:10+00:00" data-subject="Sneak doesn&#x27;t">
 
-avoid mobs that hate you, stealth is much higher level and has a 40mv cost - that is, as it stands, recycling costs almost nothing - no backstab happened merely the cost of walking out and back in again - which is all most always trivial.  Which is why I now have a script that checks whether I want to recycle in the event of a blown dispel, and walks back out leaving me to decide how to go back in.  
+avoid mobs that hate you, stealth is much higher level and has a 40mv cost - that is, as it stands, recycling costs almost nothing - no backstab happened merely the cost of walking out and back in again - which is all most always trivial. Which is why I now have a script that checks whether I want to recycle in the event of a blown dispel, and walks back out leaving me to decide how to go back in. 
 
 Presage has a chance to fail, and grip isn't as good as stab, so having the ability to recycle at a lower level makes sense.
 
@@ -216,7 +225,7 @@ If this is the intention - that is, have people write a trigger - ok. But someho
 
 <div class="post" data-post-id="17499" data-author="Medios" data-date="2007-03-26T22:14:56+00:00" data-subject="">
 
-So Marchessa is saying that sneak does not work against hated mobs?  I would have to disagree, the rate of sneakiness might be lower but it still works afaik.  Stealth is surefire, sneak is not.  Bot scripts are lame, playing sloth has made my hand eye coordination go way up with the keyboard.  My typing has improved greatly in the last 5 years.  The only triggers I use have to do with irritating stuff like eating food, grouptells about aegis down, prot order, exiting boats, etc.  Using scripts all the time would take away from my gaming experience.  Its sad you guys script every command.
+So Marchessa is saying that sneak does not work against hated mobs? I would have to disagree, the rate of sneakiness might be lower but it still works afaik. Stealth is surefire, sneak is not. Bot scripts are lame, playing sloth has made my hand eye coordination go way up with the keyboard. My typing has improved greatly in the last 5 years. The only triggers I use have to do with irritating stuff like eating food, grouptells about aegis down, prot order, exiting boats, etc. Using scripts all the time would take away from my gaming experience. Its sad you guys script every command.
 
 Mike
 
@@ -224,7 +233,8 @@ Mike
 
 <div class="post" data-post-id="17500" data-author="Autolycos" data-date="2007-03-26T22:46:01+00:00" data-subject="">
 
-Using scripts all the time would take away from my gaming experience.  Its sad you guys script every command.[/[/color:360bnibo]quote]
+> <strong>Medios wrote:</strong>
+> Using scripts all the time would take away from my gaming experience. Its sad you guys script every command.
 
 i absofuckinlutely agree..
 
@@ -232,25 +242,28 @@ i absofuckinlutely agree..
 
 <div class="post" data-post-id="17503" data-author="Marchessa_red_witch" data-date="2007-03-27T00:14:48+00:00" data-subject="Scripts Work">
 
-Its sad you guys script every command.
-
-Mike[/quote:1wmfyf2e]
+> <strong>Medios wrote:</strong>
+> Its sad you guys script every command.
+> 
+> 
+> 
+> Mike
 
 Ok, you'll try to move silently for a while.
 
-1-> 987/987/+43hp 339/346/+25ma 117/206/+28mv +7/+9 
+1-\> 987/987/+43hp 339/346/+25ma 117/206/+28mv +7/+9 
 
-2-> -11.0ac  39268958xp 597821gp +10align 4:53 pm overcast Ah.Hellwell
+2-\> -11.0ac 39268958xp 597821gp +10align 4:53 pm overcast Ah.Hellwell
 
 Inside the Hut of a Madman!
 
-Exits: West  
+Exits: West 
 
 You see Pannalal here.
 
-1-> 987/987/+43hp 339/346/+25ma 114/206/+28mv +7/+9 
+1-\> 987/987/+43hp 339/346/+25ma 114/206/+28mv +7/+9 
 
-2-> -11.0ac  39268958xp 597821gp +10align 4:53 pm overcast Ah.Hellwell
+2-\> -11.0ac 39268958xp 597821gp +10align 4:53 pm overcast Ah.Hellwell
 
 Ok.
 
@@ -260,43 +273,43 @@ You feel a spell unravel! Success!
 
 Pannalal has had enough: he attacks you!
 
-1-> 987/987/+43hp 334/346/+25ma 114/206/+28mv +7/+9 
+1-\> 987/987/+43hp 334/346/+25ma 114/206/+28mv +7/+9 
 
-2-> -11.0ac  39268958xp 597821gp +10align 4:53 pm overcast Ah.Hellwell
+2-\> -11.0ac 39268958xp 597821gp +10align 4:53 pm overcast Ah.Hellwell
 
 You can't backstab a fighting person, too alert!
 
-1-> 987/987/+43hp 334/346/+25ma 114/206/+28mv +7/+9 
+1-\> 987/987/+43hp 334/346/+25ma 114/206/+28mv +7/+9 
 
-2-> -11.0ac  39268958xp 597821gp +10align 4:54 pm overcast Ah.Hellwell
+2-\> -11.0ac 39268958xp 597821gp +10align 4:54 pm overcast Ah.Hellwell
 
 Outside a Small Hut
 
-Exits: East  West  Up  
+Exits: East West Up 
 
 Standing upright in a corner is a granite tablet. [2]..It emits a faint humming sound!
 
-1-> 987/987/+43hp 334/346/+25ma 112/206/+28mv +7/+9 
+1-\> 987/987/+43hp 334/346/+25ma 112/206/+28mv +7/+9 
 
-2-> -11.0ac  39268958xp 597821gp +10align 4:54 pm overcast Ah.Hellwell
+2-\> -11.0ac 39268958xp 597821gp +10align 4:54 pm overcast Ah.Hellwell
 
 sneak;e;bs pan
 
 Ok, you'll try to move silently for a while.
 
-1-> 987/987/+43hp 344/346/+25ma 123/206/+28mv +7/+9 
+1-\> 987/987/+43hp 344/346/+25ma 123/206/+28mv +7/+9 
 
-2-> -11.0ac  39268958xp 597821gp +10align 5:18 pm overcast Ah.Hellwell
+2-\> -11.0ac 39268958xp 597821gp +10align 5:18 pm overcast Ah.Hellwell
 
 Inside the Hut of a Madman!
 
-Exits: West  
+Exits: West 
 
 You see Pannalal here.
 
-1-> 987/987/+43hp 344/346/+25ma 120/206/+28mv +7/+9 
+1-\> 987/987/+43hp 344/346/+25ma 120/206/+28mv +7/+9 
 
-2-> -11.0ac  39268958xp 597821gp +10align 5:18 pm overcast Ah.Hellwell
+2-\> -11.0ac 39268958xp 597821gp +10align 5:18 pm overcast Ah.Hellwell
 
 Pannalal hates your guts!
 
@@ -304,9 +317,9 @@ Pannalal makes a strange sound, as you place a thunderbolt in his back.
 
 Pannalal makes a strange sound, as you place a thunderbolt in his back.
 
-1-> 987/987/+43hp 344/346/+25ma 100/206/+28mv +7/+9 
+1-\> 987/987/+43hp 344/346/+25ma 100/206/+28mv +7/+9 
 
-2-> -11.0ac  39278358xp 597821gp +10align 5:18 pm overcast Ah.Hellwell
+2-\> -11.0ac 39278358xp 597821gp +10align 5:18 pm overcast Ah.Hellwell
 
 "Attacks you means"... ummm nothing in most cases
 
@@ -314,9 +327,9 @@ In fact to show you how lame not hating is...
 
 You see Pannalal here.
 
-1-> 987/987/+43hp 365/376/+25ma 114/206/+28mv +9/+9 
+1-\> 987/987/+43hp 365/376/+25ma 114/206/+28mv +9/+9 
 
-2-> -11.0ac  50964341xp 93280gp +10align 12:29 am overcast Ah.Hellwell
+2-\> -11.0ac 50964341xp 93280gp +10align 12:29 am overcast Ah.Hellwell
 
 Ok.
 
@@ -334,85 +347,85 @@ You feel a spell unravel! Success!
 
 Pannalal has had enough: he attacks you!
 
-1-> 987/987/+43hp 361/376/+25ma 114/206/+28mv +9/+9 
+1-\> 987/987/+43hp 361/376/+25ma 114/206/+28mv +9/+9 
 
-2-> -11.0ac  50964341xp 93280gp +10align 12:29 am overcast Ah.Hellwell
+2-\> -11.0ac 50964341xp 93280gp +10align 12:29 am overcast Ah.Hellwell
 
 You can't backstab a fighting person, too alert!
 
-1-> 987/987/+43hp 361/376/+25ma 114/206/+28mv +9/+9 
+1-\> 987/987/+43hp 361/376/+25ma 114/206/+28mv +9/+9 
 
-2-> -11.0ac  50964341xp 93280gp +10align 12:29 am overcast Ah.Hellwell
+2-\> -11.0ac 50964341xp 93280gp +10align 12:29 am overcast Ah.Hellwell
 
 Outside a Small Hut
 
-Exits: East  West  Up  
+Exits: East West Up 
 
 Standing upright in a corner is a granite tablet. [2]..It emits a faint humming sound!
 
-1-> 987/987/+43hp 361/376/+25ma 111/206/+28mv +9/+9 
+1-\> 987/987/+43hp 361/376/+25ma 111/206/+28mv +9/+9 
 
-2-> -11.0ac  50964341xp 93280gp +10align 12:29 am overcast Ah.Hellwell
+2-\> -11.0ac 50964341xp 93280gp +10align 12:29 am overcast Ah.Hellwell
 
 You calm down and return to a peaceful state of mind.
 
-1-> 987/987/+43hp 376/376/+25ma 136/206/+28mv +9/+9 
+1-\> 987/987/+43hp 376/376/+25ma 136/206/+28mv +9/+9 
 
-2-> -11.0ac  50964341xp 93280gp +10align 1:23 am overcast Ah.Hellwell
+2-\> -11.0ac 50964341xp 93280gp +10align 1:23 am overcast Ah.Hellwell
 
 killpan
 
 Parry mode is now on.
 
-1-> 987/987/+43hp 376/376/+25ma 155/206/+28mv +9/+9 
+1-\> 987/987/+43hp 376/376/+25ma 155/206/+28mv +9/+9 
 
-2-> -11.0ac  50964341xp 93280gp +10align 2:02 am overcast Ah.Hellwell
+2-\> -11.0ac 50964341xp 93280gp +10align 2:02 am overcast Ah.Hellwell
 
 You yell 'SANGREAL!'
 
-1-> 987/987/+43hp 376/376/+25ma 155/206/+28mv +9/+9 
+1-\> 987/987/+43hp 376/376/+25ma 155/206/+28mv +9/+9 
 
-2-> -11.0ac  50964341xp 93280gp +10align 2:02 am overcast Ah.Hellwell
+2-\> -11.0ac 50964341xp 93280gp +10align 2:02 am overcast Ah.Hellwell
 
 You begin to channel your anger and enter a state of frenzy.
 
-1-> 987/987/+43hp 376/376/+25ma 155/206/+28mv +9/+9 
+1-\> 987/987/+43hp 376/376/+25ma 155/206/+28mv +9/+9 
 
-2-> -11.0ac  50964341xp 93280gp +10align 2:02 am overcast Ah.Hellwell
+2-\> -11.0ac 50964341xp 93280gp +10align 2:02 am overcast Ah.Hellwell
 
 You are not using it.
 
-1-> 987/987/+43hp 376/376/+25ma 157/206/+28mv +9/+9 
+1-\> 987/987/+43hp 376/376/+25ma 157/206/+28mv +9/+9 
 
-2-> -11.0ac  50964341xp 93280gp +10align 2:07 am overcast Ah.Hellwell
+2-\> -11.0ac 50964341xp 93280gp +10align 2:07 am overcast Ah.Hellwell
 
 You do not seem to have the 'thunderbolt'.
 
-1-> 987/987/+43hp 376/376/+25ma 157/206/+28mv +9/+9 
+1-\> 987/987/+43hp 376/376/+25ma 157/206/+28mv +9/+9 
 
-2-> -11.0ac  50964341xp 93280gp +10align 2:07 am overcast Ah.Hellwell
+2-\> -11.0ac 50964341xp 93280gp +10align 2:07 am overcast Ah.Hellwell
 
 It's already open!
 
-1-> 987/987/+43hp 376/376/+25ma 157/206/+28mv +9/+9 
+1-\> 987/987/+43hp 376/376/+25ma 157/206/+28mv +9/+9 
 
-2-> -11.0ac  50964341xp 93280gp +10align 2:07 am overcast Ah.Hellwell
+2-\> -11.0ac 50964341xp 93280gp +10align 2:07 am overcast Ah.Hellwell
 
 Ok, you'll try to move silently for a while.
 
-1-> 987/987/+43hp 376/376/+25ma 157/206/+28mv +9/+9 
+1-\> 987/987/+43hp 376/376/+25ma 157/206/+28mv +9/+9 
 
-2-> -11.0ac  50964341xp 93280gp +10align 2:08 am overcast Ah.Hellwell
+2-\> -11.0ac 50964341xp 93280gp +10align 2:08 am overcast Ah.Hellwell
 
 Inside the Hut of a Madman!
 
-Exits: West  
+Exits: West 
 
 You see Pannalal here.
 
-1-> 987/987/+43hp 376/376/+25ma 154/206/+28mv +9/+9 
+1-\> 987/987/+43hp 376/376/+25ma 154/206/+28mv +9/+9 
 
-2-> -11.0ac  50964341xp 93280gp +10align 2:08 am overcast Ah.Hellwell
+2-\> -11.0ac 50964341xp 93280gp +10align 2:08 am overcast Ah.Hellwell
 
 You weave the threads of magic masterfully!
 
@@ -432,9 +445,9 @@ You managed to dispel the '' spell!
 
 You are slapped by Pannalal.
 
-1-> 987/987/+43hp 371/376/+25ma 154/206/+28mv +9/+9 
+1-\> 987/987/+43hp 371/376/+25ma 154/206/+28mv +9/+9 
 
-2-> -11.0ac  50964341xp 93280gp +10align 2:08 am overcast Ah.Hellwell
+2-\> -11.0ac 50964341xp 93280gp +10align 2:08 am overcast Ah.Hellwell
 
 Pannalal hates your guts!
 
@@ -450,9 +463,8 @@ That's right, he slaps me the second time in. The mobs are bringing an emote to 
 
 <div class="post" data-post-id="17504" data-author="Rynquald" data-date="2007-03-27T00:54:25+00:00" data-subject="">
 
-[quote:e4nz9o9i]Had the attack trigger simply had him swing his claw, then walking out would not have worked.
-
-[/quote:e4nz9o9i]
+> <strong>Quote:</strong>
+> Had the attack trigger simply had him swing his claw, then walking out would not have worked.
 
 Would it really matter if you had to flee instead of walk out to have the mob not hate you?
 
@@ -484,11 +496,11 @@ I never left the room, even when it 'had enough'...once i actually counted the s
 
 On a side note, presage added to sneak/stealth can help alot...its worked for me several times on some very hateful mobs...
 
-<Shazuko Roku Ryuu>
+\<Shazuko Roku Ryuu\>
 
-<Shazuko Six Dragons>
+\<Shazuko Six Dragons\>
 
-<~Chaos~>
+\<\~Chaos\~\>
 
 </div>
 
@@ -502,15 +514,16 @@ Its so good you start notice things like that after becoming tard, but spaming c
 
 <div class="post" data-post-id="17511" data-author="13" data-date="2007-03-27T12:32:53+00:00" data-subject="">
 
-Fleeing isn't necessary.  What you need to do is type w.  Then go back in after like 1/2 seconds and start the fight as you wish.  No-one's guts are hated until someone gets hit.   That prompt plus all this talk of scripting just confirms my already-formed opinion.  You kids today rely too much on clients and shit..it's sad.
+Fleeing isn't necessary. What you need to do is type w. Then go back in after like 1/2 seconds and start the fight as you wish. No-one's guts are hated until someone gets hit. That prompt plus all this talk of scripting just confirms my already-formed opinion. You kids today rely too much on clients and shit..it's sad.
 
 </div>
 
 <div class="post" data-post-id="17512" data-author="Marchessa_red_witch" data-date="2007-03-27T13:07:01+00:00" data-subject="Improve the odds">
 
-March, soon enough you will find out that it is not 100% garantee that your bot trigger will work. If you cast dispel at the end of the round, mob will hit you right after you dispel him, so all you'll get is a few Its not impossible messages. 
-
-Its so good you start notice things like that after becoming tard, but spaming crier with such things is just silly. Do you really think imms dont play mortal chars and dont know about "bugs" like that? Maybe you start whine about dispel doesnt have cast lag or clearing mobs hated list?[/quote:2rfjteni]
+> <strong>Mike wrote:</strong>
+> March, soon enough you will find out that it is not 100% garantee that your bot trigger will work. If you cast dispel at the end of the round, mob will hit you right after you dispel him, so all you'll get is a few Its not impossible messages. 
+> 
+> Its so good you start notice things like that after becoming tard, but spaming crier with such things is just silly. Do you really think imms dont play mortal chars and dont know about "bugs" like that? Maybe you start whine about dispel doesnt have cast lag or clearing mobs hated list?
 
 Sync starting you attack run with the mud. I learned that ages ago.
 
@@ -524,7 +537,7 @@ I've reported the behavior, others have confirmed it, I've written and tested an
 
 <div class="post" data-post-id="17513" data-author="Avatar" data-date="2007-03-27T13:43:26+00:00" data-subject="summary?">
 
-This is all opinion, of course.  This isn't a bug, it's the way the game works.  If you have better ideas, there's an IDEAS command in-game.  I guess that most of us would rather see more people use the in-game commands for bugs and ideas rather than posting to the crier.  Again, just an opinion.
+This is all opinion, of course. This isn't a bug, it's the way the game works. If you have better ideas, there's an IDEAS command in-game. I guess that most of us would rather see more people use the in-game commands for bugs and ideas rather than posting to the crier. Again, just an opinion.
 
 Charles
 
@@ -532,13 +545,13 @@ Charles
 
 <div class="post" data-post-id="17514" data-author="Marchessa_red_witch" data-date="2007-03-27T13:51:44+00:00" data-subject="Summary">
 
-1. it is exploitable, and is widely exploited.
+1\. it is exploitable, and is widely exploited.
 
-2. It is a very minor, rather than major bug
+2\. It is a very minor, rather than major bug
 
-3. It is easily fixable by just having the mob react in this case the way it would react to blind or other non-combat ending spells.
+3\. It is easily fixable by just having the mob react in this case the way it would react to blind or other non-combat ending spells.
 
-4. Whether the immorts want to do something about it is up to them.
+4\. Whether the immorts want to do something about it is up to them.
 
 I will also note that the "ideas" line is nowhere near large enough to post an example of the bug, the exploit, and proof the exploit works in the wild.
 
@@ -582,7 +595,7 @@ Mudder - ok we know the sky is blue
 
 Marchessa - no really the sky is blue and you guys dont realize it, i dont want to be the one getting wiped for finding out the sky is blue.
 
-Mudder -  well the imms know the sky is blue, and dont worry about it.
+Mudder - well the imms know the sky is blue, and dont worry about it.
 
 Marchessa - well again the sky is blue, and you need to pay attention to it, dont say i didnt warn you about the sky being blue, and until you realize that the sky is blue its your own undoing, and it needs to be fixed, just because I said so.
 
@@ -590,7 +603,7 @@ So........Essesntially its an argument in circles about stuff that the objective
 
 After reading this thread is about all I can begin to comprehend about Marchessa's thought process.
 
-Really cut it out i think, and have fun and just mud.  Put all that energy into finishing drachma autos or something.
+Really cut it out i think, and have fun and just mud. Put all that energy into finishing drachma autos or something.
 
 Mosaix
 
@@ -598,13 +611,14 @@ Mosaix
 
 <div class="post" data-post-id="17522" data-author="Weasel" data-date="2007-03-27T17:51:27+00:00" data-subject="">
 
-:shock:     OMG the sky is blue???
+<img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> OMG the sky is blue???
 
 </div>
 
 <div class="post" data-post-id="17523" data-author="Marchessa_red_witch" data-date="2007-03-27T17:57:14+00:00" data-subject="Obviously">
 
-:shock:     OMG the sky is blue???[/quote:i72326y6]
+> <strong>Weasel wrote:</strong>
+> <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> OMG the sky is blue???
 
 You haven't been to China much recently, the sky isn't often blue in the major cities.
 
@@ -612,7 +626,8 @@ You haven't been to China much recently, the sky isn't often blue in the major c
 
 <div class="post" data-post-id="17525" data-author="Autolycos" data-date="2007-03-27T18:14:43+00:00" data-subject="Re: Obviously">
 
-You haven't been to China much recently, the sky isn't often blue in the major cities.[/quote:qk77911s]
+> <strong>Marchessa\_red\_witch wrote:</strong>
+> You haven't been to China much recently, the sky isn't often blue in the major cities.
 
 Marchessa messages are typically boring, cryptic, and often undecypherable snippets of geek code that are used to inform another mudder that he or she has screwed something up. Often, this is completely and incorrectly viewed as the fault more often than not, that it lies with the immorts for failing to check said codes on his or her reports, and or had been checked, doublechecked, signed in triplicate, sent in, sent back, queried, lost, found, subjected to public inquiry, lost again, and finally buried in soft peat and recycled as firelighters.
 
@@ -620,7 +635,7 @@ Marchessa messages are typically boring, cryptic, and often undecypherable snipp
 
 "Your first option: Panic, which as we all know is not entirely always a good idea.
 
-RIP  (c) Douglas Adams
+RIP (c) Douglas Adams
 
 </div>
 
@@ -650,7 +665,7 @@ It was only then that we realized that marchessa was a dreadful shade of burnt u
 
 <div class="post" data-post-id="17535" data-author="Medios" data-date="2007-03-27T21:01:39+00:00" data-subject="">
 
-To put it simply.  Most of the smart mudders knew about this years ago.  It is not a bug, its a feature.  A long time ago mobs would do nothing if you dispelled them.  This slap and attack proc was put in to keep players on their toes.  You cannot just go in and spam 100 dispels and the backstab.  Now you need to pay attn or write a bot script to mud for you.
+To put it simply. Most of the smart mudders knew about this years ago. It is not a bug, its a feature. A long time ago mobs would do nothing if you dispelled them. This slap and attack proc was put in to keep players on their toes. You cannot just go in and spam 100 dispels and the backstab. Now you need to pay attn or write a bot script to mud for you.
 
 Mike
 
@@ -658,7 +673,7 @@ Mike
 
 <div class="post" data-post-id="17538" data-author="12345" data-date="2007-03-27T21:33:58+00:00" data-subject="">
 
-In other news, I've discovered that you can put stuff in your robe and wear it.  This is great, because it allows you to pick up more stuff!  I picked up all kinds of stuff today... like iron rations, regen gear, Auto's viginity, and cps!  They're in my robe!  I even wrote a script to take things out of my robe and wear them, and put other stuff in the robe!  I've found this makes the game much easier.  The imms should take a look at this.
+In other news, I've discovered that you can put stuff in your robe and wear it. This is great, because it allows you to pick up more stuff! I picked up all kinds of stuff today... like iron rations, regen gear, Auto's viginity, and cps! They're in my robe! I even wrote a script to take things out of my robe and wear them, and put other stuff in the robe! I've found this makes the game much easier. The imms should take a look at this.
 
 I think we can let this die...
 
@@ -666,13 +681,13 @@ I think we can let this die...
 
 <div class="post" data-post-id="17541" data-author="13" data-date="2007-03-27T22:32:53+00:00" data-subject="">
 
-You guys rock :)
+You guys rock <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="17547" data-author="Weasel" data-date="2007-03-27T23:26:08+00:00" data-subject="">
 
-:shock:   You can put stuff in your robe??? AND the sky is blue??? This is all just a little too much for me to take in one day - I think I'd better find some nice quiet corner and go whimper in it for a while.
+<img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> You can put stuff in your robe??? AND the sky is blue??? This is all just a little too much for me to take in one day - I think I'd better find some nice quiet corner and go whimper in it for a while.
 
 </div>
 
@@ -686,15 +701,16 @@ No way you found Auto's virginity, I took that from him a long time ago.
 
 hey marchessa wrote scripts to travel back in time to chop in 1984 before choppers even existed, who are we to argue with her?
 
-on another note,  why the hell do ppl need to be informed of the continent and area they are in via their prompt?  If u can't even remember what area/continent you're on, maybe you have bigger issues than mobs hating your guts
+on another note, why the hell do ppl need to be informed of the continent and area they are in via their prompt? If u can't even remember what area/continent you're on, maybe you have bigger issues than mobs hating your guts
 
 </div>
 
 <div class="post" data-post-id="17560" data-author="banedon" data-date="2007-03-28T03:35:44+00:00" data-subject="">
 
-on another note,  why the hell do ppl need to be informed of the continent and area they are in via their prompt? [/quote:2lxwvkcz]
+> <strong>Gimlet wrote:</strong>
+> on another note, why the hell do ppl need to be informed of the continent and area they are in via their prompt?
 
-The one reason I can think of is the occasional transcontinental group that forms sometimes during a fargate.  It can get a lil confusing after the 4th or 5th intercontinental convo.
+The one reason I can think of is the occasional transcontinental group that forms sometimes during a fargate. It can get a lil confusing after the 4th or 5th intercontinental convo.
 
 Just my $.02, flame away
 
@@ -726,7 +742,8 @@ Well personaly I love knowing where I am. I don't know why but I seem to take th
 
 <div class="post" data-post-id="18290" data-author="Gimlet" data-date="2007-05-05T00:36:06+00:00" data-subject="">
 
-Well personaly I love knowing where I am. I don't know why but I seem to take the wrong turn all the time and I end up in some realy stupid places. Or ill phase door or cast 'fortune' and get teleported somewhere. Yep, that was funny. Buffing up for battle. About to go in.. The next thing I new a dragon was eating me. Where did all the zombie's go? Oh shit! So yes very usful for asking for a sos.[/quote:2fub0bbh]
+> <strong>freakna wrote:</strong>
+> Well personaly I love knowing where I am. I don't know why but I seem to take the wrong turn all the time and I end up in some realy stupid places. Or ill phase door or cast 'fortune' and get teleported somewhere. Yep, that was funny. Buffing up for battle. About to go in.. The next thing I new a dragon was eating me. Where did all the zombie's go? Oh shit! So yes very usful for asking for a sos.
 
 That's coz you're a friggin noob
 

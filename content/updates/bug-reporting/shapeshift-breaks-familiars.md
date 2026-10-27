@@ -24,7 +24,7 @@ Can anyone check this?
 
 <div class="post" data-post-id="12613" data-author="13" data-date="2006-05-21T10:10:07+00:00" data-subject="">
 
-Shifted folks cant order followers to do stuff anymore I think.  Tough luck
+Shifted folks cant order followers to do stuff anymore I think. Tough luck
 
 for Necro/Druids.
 
@@ -46,7 +46,7 @@ Maybe they blood cousins or sumthing...
 
 <div class="post" data-post-id="12629" data-author="kjartan" data-date="2006-05-22T16:24:15+00:00" data-subject="">
 
-Theoretically, we could make it so once you shifted back you could still order.  It would be a lot of work, and it seems like it doesn't have a big effect on gameplay, so it is not a high priority for me at the moment.  
+Theoretically, we could make it so once you shifted back you could still order. It would be a lot of work, and it seems like it doesn't have a big effect on gameplay, so it is not a high priority for me at the moment. 
 
 If this is really affecting your play style, explain why and if I'm convinced I will make it a high priority.
 

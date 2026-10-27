@@ -12,9 +12,9 @@ post_count: 20
 
 <div class="post" data-post-id="19879" data-author="Leaf" data-date="2007-08-24T04:25:22+00:00" data-subject="Thalassan Royal EQ Set">
 
-Ok I have a little question regarding this set of eq.  Armor, Shield, and Plates
+Ok I have a little question regarding this set of eq. Armor, Shield, and Plates
 
-all say a bonus is -1 if the set is complete.  So does this means if the
+all say a bonus is -1 if the set is complete. So does this means if the
 
 whole set is completed it will add -3.0 or does it mean it only adds-.3?
 
@@ -28,19 +28,17 @@ AC-apply is -2.5
 
 Part of the set 'Thalassan Royal':
 
-   With 0 other pieces: affects ARMOR by 0
+ With 0 other pieces: affects ARMOR by 0
 
-   With 0 other pieces: affects REGEN_HP by 2
+ With 0 other pieces: affects REGEN\_HP by 2
 
-   With 4 other pieces: affects ARMOR by 0
+ With 4 other pieces: affects ARMOR by 0
 
-   With 5 other pieces: affects ARMOR by -1
+ With 5 other pieces: affects ARMOR by -1
 
-   With 5 other pieces: affects HITPOINT by 4
+ With 5 other pieces: affects HITPOINT by 4
 
 Only those who are primary supreme warriors may use this item.
-
- 
 
 Object 'guards royal thalassan elite low', Item type: ARMOR
 
@@ -52,19 +50,17 @@ AC-apply is -0.8
 
 Part of the set 'Thalassan Royal':
 
-   With 0 other pieces: affects HITPOINT by 25
+ With 0 other pieces: affects HITPOINT by 25
 
-   With 0 other pieces: affects ARMOR by 0
+ With 0 other pieces: affects ARMOR by 0
 
-   With 1 other pieces: affects ARMOR by 0
+ With 1 other pieces: affects ARMOR by 0
 
-   With 5 other pieces: affects REGEN_HP by 3
+ With 5 other pieces: affects REGEN\_HP by 3
 
 Only those who are at least supreme thieves, warriors, bards, or monks, and 
 
-have attained supremacy in at least two classes may use this item.  
-
- 
+have attained supremacy in at least two classes may use this item. 
 
 Object 'bracers royal thalassan low elite', Item type: ARMOR
 
@@ -76,17 +72,15 @@ AC-apply is -0.8
 
 Part of the set 'Thalassan Royal':
 
-   With 0 other pieces: affects HITPOINT by 10
+ With 0 other pieces: affects HITPOINT by 10
 
-   With 1 other pieces: affects ARMOR by 0
+ With 1 other pieces: affects ARMOR by 0
 
-   With 5 other pieces: affects HITPOINT by 4
+ With 5 other pieces: affects HITPOINT by 4
 
 Only those who are at least master thieves, warriors, bards, or monks may 
 
-use this item.  
-
- 
+use this item. 
 
 Object 'legplates royal thalassan low elite', Item type: ARMOR
 
@@ -98,19 +92,17 @@ AC-apply is -1.7
 
 Part of the set 'Thalassan Royal':
 
-   With 0 other pieces: affects REGEN_HP by 2
+ With 0 other pieces: affects REGEN\_HP by 2
 
-   With 1 other pieces: affects ARMOR by 0
+ With 1 other pieces: affects ARMOR by 0
 
-   With 5 other pieces: affects ARMOR by -1
+ With 5 other pieces: affects ARMOR by -1
 
-   With 5 other pieces: affects HITPOINT by 4
+ With 5 other pieces: affects HITPOINT by 4
 
 Only those who are at least supreme thieves, warriors, bards, or monks may 
 
-use this item.  
-
- 
+use this item. 
 
 Object 'shield thalassan royal elite low', Item type: ARMOR
 
@@ -122,15 +114,15 @@ AC-apply is -1.1
 
 Part of the set 'Thalassan Royal':
 
-   With 0 other pieces: affects HITPOINT by 15
+ With 0 other pieces: affects HITPOINT by 15
 
-   With 0 other pieces: affects RESIST_FIRE by 10
+ With 0 other pieces: affects RESIST\_FIRE by 10
 
-   With 1 other pieces: affects ARMOR by 0
+ With 1 other pieces: affects ARMOR by 0
 
-   With 5 other pieces: affects ARMOR by -1
+ With 5 other pieces: affects ARMOR by -1
 
-   With 5 other pieces: affects HITPOINT by 4
+ With 5 other pieces: affects HITPOINT by 4
 
 Only those who are at least supreme thieves, warriors, bards, or monks may 
 
@@ -162,7 +154,7 @@ How can you beat this eq honestly.
 
 .8 guards 25hp 3hpr
 
-This set has every piece with the highest possible ac and also 1.8 leggings which are unheard of.  Not only that you get 95hp and about 10hpr from the set.  Which eq are you wearing thats better than this.  I can't think of any.
+This set has every piece with the highest possible ac and also 1.8 leggings which are unheard of. Not only that you get 95hp and about 10hpr from the set. Which eq are you wearing thats better than this. I can't think of any.
 
 </div>
 
@@ -174,21 +166,28 @@ It's tight I'm gonna get some.
 
 <div class="post" data-post-id="19892" data-author="Weasel" data-date="2007-08-24T22:05:52+00:00" data-subject="">
 
-You forgot the hat.
-
-How can you beat this eq honestly.
-
-1.2 shield 18hp +10 resist fire
-
-1.8 leggings +4hp +2hpr
-
-1.3 hat 34hp 5hpr
-
-.8 bracers 14hp
-
-.8 guards 25hp 3hpr
-
-This set has every piece with the highest possible ac and also 1.8 leggings which are unheard of.  Not only that you get 95hp and about 10hpr from the set.  Which eq are you wearing thats better than this.  I can't think of any.[/quote:d3hh3vh1]
+> <strong>Medios wrote:</strong>
+> You forgot the hat.
+> 
+> 
+> 
+> How can you beat this eq honestly.
+> 
+> 
+> 
+> 1.2 shield 18hp +10 resist fire
+> 
+> 1.8 leggings +4hp +2hpr
+> 
+> 1.3 hat 34hp 5hpr
+> 
+> .8 bracers 14hp
+> 
+> .8 guards 25hp 3hpr
+> 
+> 
+> 
+> This set has every piece with the highest possible ac and also 1.8 leggings which are unheard of. Not only that you get 95hp and about 10hpr from the set. Which eq are you wearing thats better than this. I can't think of any.
 
 OK since you asked, it's an interesting result.. but for the end product, not worth 1900+ drachma.. at least not with my current stats. Here's why:
 
@@ -238,15 +237,15 @@ polished spectrolite charm (leg clasp) +20hp +5hpRegen
 
 but I am still down 1con, which comes out to 34hp for me.. so here's what I get for 1925 drachma:
 
--0.1ac (good)
+\-0.1ac (good)
 
--4hp (bad)
+\-4hp (bad)
 
--waterbreathing (bad)
+\-waterbreathing (bad)
 
--sytemshock (bad)
+\-sytemshock (bad)
 
-+23hpRegen (good)
+\+23hpRegen (good)
 
 Worth 1925 drachma? Hell no.
 
@@ -262,39 +261,46 @@ You could spend some extra drachma on fish scale buckles and gain +waterbreath a
 
 <div class="post" data-post-id="19895" data-author="12345" data-date="2007-08-25T00:11:06+00:00" data-subject="">
 
-+23 hp regen?  Hmmm...
+\+23 hp regen? Hmmm...
 
 </div>
 
 <div class="post" data-post-id="19896" data-author="Weasel" data-date="2007-08-25T01:00:02+00:00" data-subject="">
 
-+23 hp regen?  Hmmm...[/quote:3ksm4epw]
+> <strong>12345 wrote:</strong>
+> \+23 hp regen? Hmmm...
 
-yeah it sounds pretty good, but 23hp per *minute* doesn't make that much of a difference when tanking and mobs are hitting you for 600hp a *round*, and clerics are healing you for 300+ hp a *round*..
+yeah it sounds pretty good, but 23hp per \*minute\* doesn't make that much of a difference when tanking and mobs are hitting you for 600hp a \*round\*, and clerics are healing you for 300+ hp a \*round\*..
 
 </div>
 
 <div class="post" data-post-id="19897" data-author="Avatar" data-date="2007-08-25T01:32:47+00:00" data-subject="HP Regen">
 
-Besides that, it's almost 100 dr per +1 hp regen.  No thanks!
+Besides that, it's almost 100 dr per +1 hp regen. No thanks!
 
-The thal gear would be nice if you had -12.9 and needed that last .1.  Otherwise, meh...
+The thal gear would be nice if you had -12.9 and needed that last .1. Otherwise, meh...
 
 </div>
 
 <div class="post" data-post-id="19898" data-author="Medios" data-date="2007-08-25T01:51:18+00:00" data-subject="">
 
-You only need 5 pieces.  There is no reason to trade in your Cuirass or buy the thal body armor.  Geesh.  As far as needing dex and con all I can offer is *comfort*.
+You only need 5 pieces. There is no reason to trade in your Cuirass or buy the thal body armor. Geesh. As far as needing dex and con all I can offer is \*comfort\*.
 
 </div>
 
 <div class="post" data-post-id="19899" data-author="12345" data-date="2007-08-25T03:16:13+00:00" data-subject="">
 
-+23 hp regen?  Hmmm...[/quote:ip7nyz30]
+> <strong>Weasel wrote:</strong>
+> > <strong>12345 wrote:</strong>
+> > \+23 hp regen? Hmmm...
+> 
+> 
+> 
+> 
+> 
+> yeah it sounds pretty good, but 23hp per \*minute\* doesn't make that much of a difference when tanking and mobs are hitting you for 600hp a \*round\*, and clerics are healing you for 300+ hp a \*round\*..
 
-yeah it sounds pretty good, but 23hp per *minute* doesn't make that much of a difference when tanking and mobs are hitting you for 600hp a *round*, and clerics are healing you for 300+ hp a *round*..[/quote:ip7nyz30]
-
-I have a regen of 129 standing, 172 in battle and 322 resting.  Another 23 would be right up my alley.  Having the extra 23 would equal a restore a minute in battle and would give me a resting regen time of 3 minutes flat.  I wouldn't call that trivial.
+I have a regen of 129 standing, 172 in battle and 322 resting. Another 23 would be right up my alley. Having the extra 23 would equal a restore a minute in battle and would give me a resting regen time of 3 minutes flat. I wouldn't call that trivial.
 
 </div>
 
@@ -314,7 +320,8 @@ You don't have the slightest idea what you're talking about do you?
 
 <div class="post" data-post-id="19903" data-author="Weasel" data-date="2007-08-25T04:11:26+00:00" data-subject="">
 
-You only need 5 pieces.  There is no reason to trade in your Cuirass or buy the thal body armor.  Geesh.  As far as needing dex and con all I can offer is *comfort*.[/quote:nmrhxih0]
+> <strong>Medios wrote:</strong>
+> You only need 5 pieces. There is no reason to trade in your Cuirass or buy the thal body armor. Geesh. As far as needing dex and con all I can offer is \*comfort\*.
 
 Actually no, go check it yourself. For maximum bonus, look at the ID again, eg:
 
@@ -328,17 +335,17 @@ AC-apply is -2.5
 
 Part of the set 'Thalassan Royal':
 
-   With 0 other pieces: affects ARMOR by 0
+ With 0 other pieces: affects ARMOR by 0
 
-   With 0 other pieces: affects REGEN_HP by 2
+ With 0 other pieces: affects REGEN\_HP by 2
 
-   With 4 other pieces: affects ARMOR by 0
+ With 4 other pieces: affects ARMOR by 0
 
-   With 5 other pieces: affects ARMOR by -1
+ With 5 other pieces: affects ARMOR by -1
 
-   With 5 other pieces: affects HITPOINT by 4
+ With 5 other pieces: affects HITPOINT by 4
 
-Only those who are primary supreme warriors may use this item.  
+Only those who are primary supreme warriors may use this item. 
 
 Note that says "with five OTHER pieces", meaning itself and 5 others, which is 6 in total, which means you lose the cuirass.
 
@@ -354,25 +361,25 @@ math is tough
 
 I'm like, mad at numbers and stuff.
 
-[img:1yzu2lfw]http://cristal.inria.fr/~harley/ecdl3/pics/beavis.gif[/img:1yzu2lfw]
+![](http://cristal.inria.fr/~harley/ecdl3/pics/beavis.gif)
 
 </div>
 
 <div class="post" data-post-id="19907" data-author="Tap" data-date="2007-08-25T22:06:10+00:00" data-subject="">
 
-From personal expereince, I find numbers to be a pain in the ass. :lol:
+From personal expereince, I find numbers to be a pain in the ass. <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="19910" data-author="banedon" data-date="2007-08-26T03:56:32+00:00" data-subject="">
 
-Sadly, numbers are gonna be my life.  I'm an accounting major - haven't decided on a specialty yet (if I even decide to specialize)
+Sadly, numbers are gonna be my life. I'm an accounting major - haven't decided on a specialty yet (if I even decide to specialize)
 
 </div>
 
 <div class="post" data-post-id="19911" data-author="Weasel" data-date="2007-08-26T04:28:51+00:00" data-subject="">
 
-Ditto..  :shock:
+Ditto.. <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

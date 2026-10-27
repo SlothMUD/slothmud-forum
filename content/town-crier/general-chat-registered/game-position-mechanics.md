@@ -60,13 +60,13 @@ You massacre a vampire follower to small fragments with your hit.
 
 You massacre a vampire follower to small fragments with your hit.
 
-<1330hp 547ma 190mv 2122098348xp -13.9ac 82%>
+\<1330hp 547ma 190mv 2122098348xp -13.9ac 82%\>
 
 score
 
-Gorka has a hairy mole.  (level: 40)
+Gorka has a hairy mole. (level: 40)
 
-Your levels:  Wa: 40 Mo: 40 Cl: 40 Ma: 40 Dr: 40 Ne: 40 Ba: 40 Th: 40 Av: 40 
+Your levels: Wa: 40 Mo: 40 Cl: 40 Ma: 40 Dr: 40 Ne: 40 Ba: 40 Th: 40 Av: 40 
 
 You are 134 years, 1 month, 4 days old.
 
@@ -106,37 +106,37 @@ You are well-attuned to the channelling stratum.
 
 Str: 22[19], Int: 20[19], Wis: 20[19], Dex: 21[19], Con: 20[19] (103[95])
 
-**You are resting.**
+<strong>You are resting.</strong>
 
 Your song can affect as many as nine people.
 
 You are affected by the following spells:
 
-   Avatar Sight                     
+ Avatar Sight 
 
-   Darksight                        
+ Darksight 
 
-   God Sanctuary                    
+ God Sanctuary 
 
-   Resist Fire                      
+ Resist Fire 
 
-   Avatar Blessing                  
+ Avatar Blessing 
 
-   Resist Cold                      
+ Resist Cold 
 
-   Resist Webs                      
+ Resist Webs 
 
-   Petrified Armor                  
+ Petrified Armor 
 
-   Greater Fluidity                 
+ Greater Fluidity 
 
-   Grace                            
+ Grace 
 
-   Nature's Restoral                
+ Nature's Restoral 
 
-   Undead Visage                    
+ Undead Visage 
 
-<1338hp 549ma 192mv 2122098348xp -13.9ac 82%>
+\<1338hp 549ma 192mv 2122098348xp -13.9ac 82%\>
 
 You deal a massive blow to one of a vampire follower's vital organs.
 
@@ -168,7 +168,7 @@ You massacre a vampire follower to small fragments with your hit.
 
 You brutally massacre a vampire follower with your hit.
 
-<1305hp 552ma 196mv 2122101909xp -13.9ac 66%>
+\<1305hp 552ma 196mv 2122101909xp -13.9ac 66%\>
 
 rise;n
 
@@ -176,33 +176,33 @@ wake;stand
 
 You are already awake...
 
-<1317hp 554ma 198mv 2122101909xp -13.9ac 66%>
+\<1317hp 554ma 198mv 2122101909xp -13.9ac 66%\>
 
 @@
 
 You stop resting, and stand up.
 
-<1317hp 554ma 198mv 2122101909xp -13.9ac 66%>
+\<1317hp 554ma 198mv 2122101909xp -13.9ac 66%\>
 
 Upon the Shore
 
-   Firm white sand and small rocks make walking upon this shoreline rather
+ Firm white sand and small rocks make walking upon this shoreline rather
 
-easy.  The bluish-green salt water gently kisses the sand, causing a ripple
+easy. The bluish-green salt water gently kisses the sand, causing a ripple
 
-effect to be visible upon the beach.  Nearby to the north, a set of massive
+effect to be visible upon the beach. Nearby to the north, a set of massive
 
 gates can be seen, while strange sounds of suffering and pain can be heard
 
-echoing throughout the area.  A densely growing forest is visible nearby to
+echoing throughout the area. A densely growing forest is visible nearby to
 
 the west.
 
-Exits: North  South  West  
+Exits: North South West 
 
 The Asheron is docked here.
 
-<1320hp 555ma 198mv 2122101909xp -13.9ac -%>
+\<1320hp 555ma 198mv 2122101909xp -13.9ac -%\>
 
 NOTE: Contemplation does work while "Fight Resting."
 
@@ -210,13 +210,13 @@ NOTE: When the first vampire follower dies, I can also leave the room even thoug
 
 I have a few proposals...
 
-1) Don't set my position by default when a mob dies... check if I am engaged with other mobs, update target.
+1\) Don't set my position by default when a mob dies... check if I am engaged with other mobs, update target.
 
-2) Set my position as fighting/sitting whenever I am **first engaged**, auto-stand/sit me.
+2\) Set my position as fighting/sitting whenever I am <strong>first engaged</strong>, auto-stand/sit me.
 
-3) Review the role of the sitting position. Maybe fighting while resting, should be sitting... until I stand... also it needs to be noted that sitting also gets contemplation, I checked. It's possible to throw hammers at mobs and rest to gain better regen during the fight. Probably that's not what was intended.
+3\) Review the role of the sitting position. Maybe fighting while resting, should be sitting... until I stand... also it needs to be noted that sitting also gets contemplation, I checked. It's possible to throw hammers at mobs and rest to gain better regen during the fight. Probably that's not what was intended.
 
-4) I don't understand the point of the sit position outside of fighting, do we need the sit command? Sit command should maybe only be possible while fighting, otherwise it should be resting... it's a bit confusing what these positions are for and what there benefits are. Sit seems redundant outside of fighting off my feet.
+4\) I don't understand the point of the sit position outside of fighting, do we need the sit command? Sit command should maybe only be possible while fighting, otherwise it should be resting... it's a bit confusing what these positions are for and what there benefits are. Sit seems redundant outside of fighting off my feet.
 
 </div>
 
@@ -250,11 +250,11 @@ You are knocked off your feet!
 
 rest
 
-<1475hp 676ma 383mv 2396801911xp -13.9ac 73%>
+\<1475hp 676ma 383mv 2396801911xp -13.9ac 73%\>
 
 You rest your tired bones.
 
-<1476hp 680ma 387mv 2396801911xp -13.9ac 73%>
+\<1476hp 680ma 387mv 2396801911xp -13.9ac 73%\>
 
 You are viciously massacred by an elder citizen's hit.
 
@@ -276,7 +276,7 @@ You viciously massacre an elder citizen with your slash.
 
 An elder citizen wipes his boots in your face.
 
-My suggestion is to fix this by stopping broadside "ass dumping" so it's not so easy to do this...  :twisted:  :twisted:  :twisted:  :twisted: 
+My suggestion is to fix this by stopping broadside "ass dumping" so it's not so easy to do this... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 Players effectively have a free disengage, when in the sitting position, because they can rest then leave the room within that round.
 
@@ -298,42 +298,42 @@ You sure that's not bloodrage? I'm not sure how it would be possible to separate
 
 <div class="post" data-post-id="38726" data-author="*teker*" data-date="2018-04-10T22:01:04+00:00" data-subject="Re: Game Position Mechanics">
 
-I think position fighting was originally designed to be a "fighting stance" rather than a simple indication that you are fighting.  The game automatically switches you into this stance if you attack or if you're standing and something attacks you.
+I think position fighting was originally designed to be a "fighting stance" rather than a simple indication that you are fighting. The game automatically switches you into this stance if you attack or if you're standing and something attacks you.
 
-Sitting and resting allow for better regen but you take more damage when hit in these positions.  You could choose to sit instead of rest if you're afraid an aggressive mob might wander in and you don't want to take the full damage penalty of resting.  The only other purpose for sit that I can think of is to put you at a disadvantage when bashed or you fail a skill really badly.  That seems to be what we're using it for.  Sloth also has a "crawling" position but I'm not sure what it's useful for.
+Sitting and resting allow for better regen but you take more damage when hit in these positions. You could choose to sit instead of rest if you're afraid an aggressive mob might wander in and you don't want to take the full damage penalty of resting. The only other purpose for sit that I can think of is to put you at a disadvantage when bashed or you fail a skill really badly. That seems to be what we're using it for. Sloth also has a "crawling" position but I'm not sure what it's useful for.
 
-So, you can be fighting someone but not in your "fighting stance".  I believe the MSDP variable updates are timely (atleast the CHARACTER_XXX ones).  
+So, you can be fighting someone but not in your "fighting stance". I believe the MSDP variable updates are timely (atleast the CHARACTER\_XXX ones). 
 
 Simple changes I can make:
 
-- No longer allowed to sit or rest while fighting - even if not in fighting stance.
+\- No longer allowed to sit or rest while fighting - even if not in fighting stance.
 
-- Fix standing from resting so that you can't walk out of a fight afterwards.
+\- Fix standing from resting so that you can't walk out of a fight afterwards.
 
-- No regen bonuses related to position/contemplation while fighting.
+\- No regen bonuses related to position/contemplation while fighting.
 
-- Include regen bonuses for bloodrage while fighting but not in fighting position.
+\- Include regen bonuses for bloodrage while fighting but not in fighting position.
 
-Do you want me to look at the situation where you're not fighting if you kill a mob at the end of the round?  It seems like this gives you an opportunity to engage the mob of your choice.
+Do you want me to look at the situation where you're not fighting if you kill a mob at the end of the round? It seems like this gives you an opportunity to engage the mob of your choice.
 
-Potential "wild" fluctuations in regen may be a result of bloodrage.  The "calculate regen" functions get called in quite a few places in the code and if you have bloodrage the server is performing a skill roll at a non-predictable but fairly frequent interval.  So if you've got your regen in your prompt, it's performing a skill roll every time that prompt shows.  Or when you type score.  Or when the game needs that regen calculation for something else.
+Potential "wild" fluctuations in regen may be a result of bloodrage. The "calculate regen" functions get called in quite a few places in the code and if you have bloodrage the server is performing a skill roll at a non-predictable but fairly frequent interval. So if you've got your regen in your prompt, it's performing a skill roll every time that prompt shows. Or when you type score. Or when the game needs that regen calculation for something else.
 
-I don't see a warcry regen bonus so I'm not sure what you guys are talking about there.  Warcry seems to give bonus HP which allow you to go over your normal HP maximum.
+I don't see a warcry regen bonus so I'm not sure what you guys are talking about there. Warcry seems to give bonus HP which allow you to go over your normal HP maximum.
 
 </div>
 
 <div class="post" data-post-id="38727" data-author="Gorka" data-date="2018-04-11T05:39:26+00:00" data-subject="Re: Game Position Mechanics">
 
-> **Quote:**
+> <strong>Quote:</strong>
 > Do you want me to look at the situation where you're not fighting if you kill a mob at the end of the round? It seems like this gives you an opportunity to engage the mob of your choice.
 
 Personally, I think so, I want to keep blasting after a mob dies. The game is already making the switch just not fast enough. If players wish to do as you say, most will already have engage. I don't consider this waiting round a feature ... just annoying... a classic example being collections of guards which swarm in most areas, once the first dies, you can't blast the second without specifying the target again for a round.
 
-Im not sure how it's possible to get into the crawling position... but suspect it's used xp'ing between 6-8x40... :lol: I tried typing crawl but it behaved like a social which isn't on the socials list. Is it used for rooms where it says you are too big to squeeze through there?
+Im not sure how it's possible to get into the crawling position... but suspect it's used xp'ing between 6-8x40... <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> I tried typing crawl but it behaved like a social which isn't on the socials list. Is it used for rooms where it says you are too big to squeeze through there?
 
-Your list of things you could look at, looks good, but fixing broadside was strangely absent...  :lol:  :twisted: 
+Your list of things you could look at, looks good, but fixing broadside was strangely absent... <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-Could the list of what you get from warcry at each level be publicised... in help warcry or the command usage. I didn't expect we got hp regen from warcry as zuzu thought, however if we did we wouldn't know because of bloodrage...  For some unknown reason this information is kept hidden like it's the nuclear launch codes. It doesn't matter if it's public... look at all the concern the counters function created... nothing happened. Same could be said for knowing stat caps for classes. Extremely useful and eventually known anyway.
+Could the list of what you get from warcry at each level be publicised... in help warcry or the command usage. I didn't expect we got hp regen from warcry as zuzu thought, however if we did we wouldn't know because of bloodrage... For some unknown reason this information is kept hidden like it's the nuclear launch codes. It doesn't matter if it's public... look at all the concern the counters function created... nothing happened. Same could be said for knowing stat caps for classes. Extremely useful and eventually known anyway.
 
 </div>
 
@@ -349,11 +349,11 @@ I call this a positive experience, rather than a neutral experience. Then again,
 
 More tables for:
 
-- warcry brackets and stats
+\- warcry brackets and stats
 
-- bonus caps
+\- bonus caps
 
-- mana/hp/regen per class per position stats (there used to be one in S3, but now we have 4 more classes. Some players level dozens of chars to test this)
+\- mana/hp/regen per class per position stats (there used to be one in S3, but now we have 4 more classes. Some players level dozens of chars to test this)
 
 would be helpful.
 
@@ -373,7 +373,7 @@ Yes, and I said about the opposite: it inspired a player to looked into how the 
 
 <div class="post" data-post-id="38737" data-author="Gorka" data-date="2018-04-19T05:13:45+00:00" data-subject="Re: Game Position Mechanics">
 
-I see I can't rest while fighting anymore since reboot, so I suspect some changes have gone in... But the targeting thing is still annoying... In the following example I have a script for msdp.CHARACTER_HEALTH. Each time this variable changes I am echoing my position... In this example I am fighting two mobs at the same time, but when the one I am engaged with dies... my position is set to Standing... when in fact I should be Fighting. The issue for me is I want to swap weapons when a mob dies... but not if I am still fighting... and I have no way to do this... as the position is not correct. Also if I output the position immediately on mob death,in 50% of cases it will be Standing and the other 50% will be Fighting. Basically, this position variable is slow to update and nearly always filled with an unusable value.
+I see I can't rest while fighting anymore since reboot, so I suspect some changes have gone in... But the targeting thing is still annoying... In the following example I have a script for msdp.CHARACTER\_HEALTH. Each time this variable changes I am echoing my position... In this example I am fighting two mobs at the same time, but when the one I am engaged with dies... my position is set to Standing... when in fact I should be Fighting. The issue for me is I want to swap weapons when a mob dies... but not if I am still fighting... and I have no way to do this... as the position is not correct. Also if I output the position immediately on mob death,in 50% of cases it will be Standing and the other 50% will be Fighting. Basically, this position variable is slow to update and nearly always filled with an unusable value.
 
 FightingFighting
 
@@ -383,11 +383,11 @@ strike
 
 @@
 
-<1291hp 801ma 484mv 1640483851xp -10.2ac 9%>
+\<1291hp 801ma 484mv 1640483851xp -10.2ac 9%\>
 
 A giant white shark misses you with his bite.
 
-<1291hp 801ma 484mv 1640483851xp -10.2ac 9%>
+\<1291hp 801ma 484mv 1640483851xp -10.2ac 9%\>
 
 With a mighty effort, you shake off your exhaustion!
 
@@ -405,15 +405,15 @@ You get a flask of human blood from the corpse of a vampire follower that's on t
 
 You get gold coins from the corpse of a vampire follower that's on the ground.
 
-There were 666 coins.   :twisted:  :twisted:  :twisted: 
+There were 666 coins. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-<1294hp 800ma 470mv 1642101403xp -10.2ac -%>
+\<1294hp 800ma 470mv 1642101403xp -10.2ac -%\>
 
 Standing
 
 The 'petrified armor' spell on you is about to wear off.
 
-<1296hp 800ma 471mv 1642101403xp -10.2ac -%>
+\<1296hp 800ma 471mv 1642101403xp -10.2ac -%\>
 
 StandingStanding
 
@@ -455,9 +455,9 @@ You brutally massacre a vampire follower with your hit.
 
 A giant white shark tears off a large chunk of flesh with his mighty jaws!
 
-|;recall
+\|;recall
 
-<1095hp 800ma 474mv 1642117491xp -10.2ac 74%>
+\<1095hp 800ma 474mv 1642117491xp -10.2ac 74%\>
 
 FightingFighting
 
@@ -465,17 +465,17 @@ Ok.
 
 Settlestone's Well
 
-   This is an extremely energetic section of the dwarven city of
+ This is an extremely energetic section of the dwarven city of
 
-Settlestone.  Two bustling streets intersect at the site of a ten foot tall
+Settlestone. Two bustling streets intersect at the site of a ten foot tall
 
-statue of the famed Krodar Thunderhammer.  All four sets of city gates can
+statue of the famed Krodar Thunderhammer. All four sets of city gates can
 
-be seen from this vantage and hundreds of people walk about nearby.  There
+be seen from this vantage and hundreds of people walk about nearby. There
 
 is also a large black stone well in the center of the square.
 
-Exits: North  East  South  West  Up  Down  
+Exits: North East South West Up Down 
 
 A small figurine of a bunny made of chocolate stands here, tempting you.
 

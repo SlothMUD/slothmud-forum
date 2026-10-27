@@ -12,7 +12,7 @@ post_count: 11
 
 <div class="post" data-post-id="37962" data-author="Garrick" data-date="2017-01-15T21:38:51+00:00" data-subject="An unfortunate Sunday">
 
-So today I woke up to hearing my friend on voice chat trying to get my attention, a chop group was happening on Sloth and he sounded excited and wanted me to come. He went on to tell me about how he planned on playing the rest of the day, which I was quite happy to hear as it's hard for me to get any of my  friends to play Sloth at all.
+So today I woke up to hearing my friend on voice chat trying to get my attention, a chop group was happening on Sloth and he sounded excited and wanted me to come. He went on to tell me about how he planned on playing the rest of the day, which I was quite happy to hear as it's hard for me to get any of my friends to play Sloth at all.
 
 When we joined the group, without much he could do to fix the problem, he was harassed until he felt so angry that he decided to stop. And that was not just leave the group, but he stopped playing for the rest of the day. He was simply having trouble getting his triggers for entering archways working, and had no chopper, but was given quite a hard time. In a game where it seems people want to encourage new players to stick around this is exactly the opposite kind of behavior that should be shown, especially by those in positions of power of those who are staples in the community. Below I have copy/pasted the chat from group, removing messages like 'SANC IS DOWN' but no actual messages of content. This is conversation happening amidst grouping, which I assure you, was going at a modest pace, even when Forky missed an archway or two. I would always mention it to him in Voice Chat (Which I am always in with him). I also left in a couple of relevant times people looked at his gear or I checked the group for things. ((I also added things in double parenthesis to add notes))
 
@@ -48,7 +48,7 @@ Paka -- 'fork?'
 
 You grouptell: '? He didn't have a trigger for a long time'
 
-You grouptell: 'or a chopper*'
+You grouptell: 'or a chopper\*'
 
 Paka -- 'wield your chopper fork' 
 
@@ -74,43 +74,43 @@ Forky is in excellent condition.
 
 Forky is using:
 
-<used as light>      a sphere of bioluminescence..It has a soft glowing aura!
+\<used as light\> a sphere of bioluminescence..It has a soft glowing aura!
 
-<worn on finger>     a ring of braided vipers..It has a soft glowing aura!
+\<worn on finger\> a ring of braided vipers..It has a soft glowing aura!
 
-<worn on finger>     a spiked, golden ring
+\<worn on finger\> a spiked, golden ring
 
-<worn around neck>   a steel torc
+\<worn around neck\> a steel torc
 
-<worn around neck>   a scarlet half-cloak
+\<worn around neck\> a scarlet half-cloak
 
-<worn on body>       a suit of mystic chainmail
+\<worn on body\> a suit of mystic chainmail
 
-<worn on head>       a crimson visored helm
+\<worn on head\> a crimson visored helm
 
-<worn on legs>       a pair of denim overalls..It has a soft glowing aura!
+\<worn on legs\> a pair of denim overalls..It has a soft glowing aura!
 
-<worn on feet>       a pair of field armor boots
+\<worn on feet\> a pair of field armor boots
 
-<worn on hands>      a pair of sharkskin gloves
+\<worn on hands\> a pair of sharkskin gloves
 
-<worn on arms>       Sleeves of the Clown Lord Marshall
+\<worn on arms\> Sleeves of the Clown Lord Marshall
 
-<worn as shield>     a shield of yawning death
+\<worn as shield\> a shield of yawning death
 
-<worn about body>    a serpent skin robe (with a single-striped white sash (Private) attached to it)
+\<worn about body\> a serpent skin robe (with a single-striped white sash (Private) attached to it)
 
-<worn about waist>   a dull red belt
+\<worn about waist\> a dull red belt
 
-<worn around wrist>  an enchanted elven wristguard (with a little dancing star attached to it)
+\<worn around wrist\> an enchanted elven wristguard (with a little dancing star attached to it)
 
-<worn around wrist>  a platinum bracer (with a little dancing star attached to it)
+\<worn around wrist\> a platinum bracer (with a little dancing star attached to it)
 
-<wielded>            an elven short blade..It emits a faint humming sound!
+\<wielded\> an elven short blade..It emits a faint humming sound!
 
-<held>               an ivory scarab..It has a soft glowing aura!
+\<held\> an ivory scarab..It has a soft glowing aura!
 
-<instrument>         ebony wood castanets
+\<instrument\> ebony wood castanets
 
 You attempt to peek at the inventory:
 
@@ -134,41 +134,41 @@ Eq
 
 You are using:
 
-<used as light>      a star shaped crystal..It emits a faint humming sound!
+\<used as light\> a star shaped crystal..It emits a faint humming sound!
 
-<worn on finger>     a ring of clouded glass
+\<worn on finger\> a ring of clouded glass
 
-<worn on finger>     a ring of clouded glass
+\<worn on finger\> a ring of clouded glass
 
-<worn around neck>   an amulet of protection (with a purple minidemon brooch attached to it)
+\<worn around neck\> an amulet of protection (with a purple minidemon brooch attached to it)
 
-<worn around neck>   an amulet of protection (with a red minidemon brooch attached to it)
+\<worn around neck\> an amulet of protection (with a red minidemon brooch attached to it)
 
-<worn on body>       a spiked battle tunic..It has a soft glowing aura!
+\<worn on body\> a spiked battle tunic..It has a soft glowing aura!
 
-<worn on head>       a prison guard helmet (with a reddish-colored glass eye attached to it)
+\<worn on head\> a prison guard helmet (with a reddish-colored glass eye attached to it)
 
-<worn on legs>       red-tassled leggings..It has a soft glowing aura!
+\<worn on legs\> red-tassled leggings..It has a soft glowing aura!
 
-<worn on feet>       old viking boots
+\<worn on feet\> old viking boots
 
-<worn on hands>      fingerless leather gloves
+\<worn on hands\> fingerless leather gloves
 
-<worn on arms>       spiked vambraces of dho-tou (with a black arm band attached to it)
+\<worn on arms\> spiked vambraces of dho-tou (with a black arm band attached to it)
 
-<worn as shield>     the shield of the ram..It has a soft glowing aura!
+\<worn as shield\> the shield of the ram..It has a soft glowing aura!
 
-<worn about body>    a wolfskin robe (with a single-striped white sash (Private) attached to it)
+\<worn about body\> a wolfskin robe (with a single-striped white sash (Private) attached to it)
 
-<worn about waist>   an ebony sash (with a hummingbird buckle attached to it)
+\<worn about waist\> an ebony sash (with a hummingbird buckle attached to it)
 
-<worn around wrist>  a celestial bracelet..It has a soft glowing aura!
+\<worn around wrist\> a celestial bracelet..It has a soft glowing aura!
 
-<worn around wrist>  a celestial bracelet..It has a soft glowing aura!
+\<worn around wrist\> a celestial bracelet..It has a soft glowing aura!
 
-<wielded>            Macuahuitl
+\<wielded\> Macuahuitl
 
-<held>               a banner of the nineteenth Drow legion
+\<held\> a banner of the nineteenth Drow legion
 
 ((Oh, he thought he gave Forky the thing he gave me!! I see))
 
@@ -188,17 +188,17 @@ Imoen enters the archway and disappears from sight.
 
 Crumbs enters the archway and disappears from sight.
 
-<953/953 Life|264/264 Spirit|245/267 Energy||-||-1.5|144221561|264128|-6|+16/+7|20|Mount Olympus>
+\<953/953 Life\|264/264 Spirit\|245/267 Energy\|\|-\|\|-1.5\|144221561\|264128\|-6\|+16/+7\|20\|Mount Olympus\>
 
 Fluffy enters the archway and disappears from sight.
 
 Taron enters the archway and disappears from sight.
 
-<953/953 Life|264/264 Spirit|245/267 Energy||-||-1.5|144221561|264128|-6|+16/+7|20|Mount Olympus>
+\<953/953 Life\|264/264 Spirit\|245/267 Energy\|\|-\|\|-1.5\|144221561\|264128\|-6\|+16/+7\|20\|Mount Olympus\>
 
 Fandral enters the archway and disappears from sight.
 
-<953/953 Life|264/264 Spirit|245/267 Energy||-||-1.5|144221561|264128|-6|+16/+7|20|Mount Olympus>
+\<953/953 Life\|264/264 Spirit\|245/267 Energy\|\|-\|\|-1.5\|144221561\|264128\|-6\|+16/+7\|20\|Mount Olympus\>
 
 You enter the archway and find yourself elsewhere!
 
@@ -254,27 +254,27 @@ group
 
 Group 'chopee chops' is led by Paka and consists of:
 
-  (Point)            Taron [Wa:9.40 1055hp 229ma 364mv] jacinth/tomb jade tyroch/clam
+ (Point) Taron [Wa:9.40 1055hp 229ma 364mv] jacinth/tomb jade tyroch/clam
 
-  (Front)             Suna [Dr:9.40 1012hp 1065ma 348mv] rhodo/ruby
+ (Front) Suna [Dr:9.40 1012hp 1065ma 348mv] rhodo/ruby
 
-  (Front)            Sochi [Ba:8.35 1068hp 740ma 365mv] sb pearl|avent|old pike
+ (Front) Sochi [Ba:8.35 1068hp 740ma 365mv] sb pearl\|avent\|old pike
 
-  (Front)            Gorka [Wa:6.39 1223hp 512ma 397mv] csapphire/rcquartz
+ (Front) Gorka [Wa:6.39 1223hp 512ma 397mv] csapphire/rcquartz
 
-  (Front)           Crumbs [Cl:7.20  942hp 914ma 372mv] ---
+ (Front) Crumbs [Cl:7.20 942hp 914ma 372mv] ---
 
- (Leader)             Paka [Ma:9.40  985hp 802ma 348mv] Tourm | Sapphire
+ (Leader) Paka [Ma:9.40 985hp 802ma 348mv] Tourm \| Sapphire
 
-                     Imoen [Ma:2.37  609hp 453ma  71mv] eye agate|chryso|deacon
+ Imoen [Ma:2.37 609hp 453ma 71mv] eye agate\|chryso\|deacon
 
-                    Fluffy [Dr:9.40  907hp 1116ma 330mv] GY Topaz / S.Ruby / Zeus
+ Fluffy [Dr:9.40 907hp 1116ma 330mv] GY Topaz / S.Ruby / Zeus
 
-                   Fandral [Dr:3.39  842hp 638ma 267mv] sapphire/tourmaline
+ Fandral [Dr:3.39 842hp 638ma 267mv] sapphire/tourmaline
 
-                    Knifey [Wa:1.39  953hp 264ma 261mv] Jet / Obsid
+ Knifey [Wa:1.39 953hp 264ma 261mv] Jet / Obsid
 
- (Absent)            Forky [Ba:0.32  540hp  57ma 184mv] malachite
+ (Absent) Forky [Ba:0.32 540hp 57ma 184mv] malachite
 
 Paka -- 'target spawn'
 
@@ -284,29 +284,29 @@ Sochi -- 'on'
 
 Paka -- 'target ares'
 
-Imoen -- 'i guess mirrors don't reduce chances of being chopped :('
+Imoen -- 'i guess mirrors don't reduce chances of being chopped <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">'
 
 Group 'chopee chops' is led by Paka and consists of:
 
-  (Point)            Taron [Wa:9.40  989hp 187ma 389mv] jacinth/tomb jade tyroch/clam
+ (Point) Taron [Wa:9.40 989hp 187ma 389mv] jacinth/tomb jade tyroch/clam
 
-  (Front)             Suna [Dr:9.40 1082hp 1065ma 265mv] rhodo/ruby
+ (Front) Suna [Dr:9.40 1082hp 1065ma 265mv] rhodo/ruby
 
-  (Front)            Sochi [Ba:8.35 1064hp 740ma 370mv] sb pearl|avent|old pike
+ (Front) Sochi [Ba:8.35 1064hp 740ma 370mv] sb pearl\|avent\|old pike
 
-  (Front)            Gorka [Wa:6.39 1363hp 512ma 401mv] csapphire/rcquartz
+ (Front) Gorka [Wa:6.39 1363hp 512ma 401mv] csapphire/rcquartz
 
-  (Front)           Crumbs [Cl:7.20 1012hp 872ma 290mv] ---
+ (Front) Crumbs [Cl:7.20 1012hp 872ma 290mv] ---
 
- (Leader)             Paka [Ma:9.40 1085hp 816ma 351mv] Tourm | Sapphire
+ (Leader) Paka [Ma:9.40 1085hp 816ma 351mv] Tourm \| Sapphire
 
-                     Imoen [Ma:2.37  617hp 486ma  65mv] eye agate|chryso|deacon
+ Imoen [Ma:2.37 617hp 486ma 65mv] eye agate\|chryso\|deacon
 
-                    Fluffy [Dr:9.40  977hp 1125ma 341mv] GY Topaz / S.Ruby / Zeus
+ Fluffy [Dr:9.40 977hp 1125ma 341mv] GY Topaz / S.Ruby / Zeus
 
-                   Fandral [Dr:3.39  842hp 684ma 259mv] sapphire/tourmaline
+ Fandral [Dr:3.39 842hp 684ma 259mv] sapphire/tourmaline
 
-                    Knifey [Wa:1.39  953hp 264ma 256mv] Jet / Obsid
+ Knifey [Wa:1.39 953hp 264ma 256mv] Jet / Obsid
 
 The group goes on, and he rents. That's the end. IF you guys want players to keep playing, this will never work. It doesn't matter how nice you are to someone when they create their character is after they play for a short amount of time you take out your aggression on them or treat them poorly for whatever other reasons you may have. Hopefully next time you'll spend 5 minutes helping a new player in your group instead of potentially driving him away from the game for good, or at least have a less aggressive attitude. The way you act may be 'no big deal' to you, but I assure you, it is a big deal to others.
 
@@ -350,19 +350,19 @@ Hey, Garrick.
 
 There were a few problems at hand:
 
-- Paka had lots of items on him, couldn't carry specs - [the item/weight issue](http://www.slothmud.org/forum/viewtopic.php?f=30&t=4678)
+\- Paka had lots of items on him, couldn't carry specs - [the item/weight issue](http://www.slothmud.org/forum/viewtopic.php?f=30&t=4678)
 
-- We didn't get all the choppers from the start - leader's fault.
+\- We didn't get all the choppers from the start - leader's fault.
 
-- You or your friend didn't communicate enough the issues Forky faced, such as archways or choppers - lack of requests for trigger help or choppers from Forky made us think he was more afk, than he really was.
+\- You or your friend didn't communicate enough the issues Forky faced, such as archways or choppers - lack of requests for trigger help or choppers from Forky made us think he was more afk, than he really was.
 
-- We usually are accomodating to new players, so they enter archways and wield choppers. Usually, this is leader's job, or he can appoint someone to do it. Partly this was on you to fix, since you brought the new player. This didn't happen - he had no chopper for a while regardless of archways.
+\- We usually are accomodating to new players, so they enter archways and wield choppers. Usually, this is leader's job, or he can appoint someone to do it. Partly this was on you to fix, since you brought the new player. This didn't happen - he had no chopper for a while regardless of archways.
 
 Eg, when I invite my friend to a chop group, I make sure to give him a chopper myself.
 
 And the archway trigger is as easy as making a "@leader enters the" trigger.
 
-- one or more players didn't like lack of attention from you two.
+\- one or more players didn't like lack of attention from you two.
 
 I have to admit that I usually help lowbies, but this time I was eating or reading something in the other part of the window.
 
@@ -374,29 +374,29 @@ I'd suggest passing a multiplaying test with an immort, if you are sharing an IP
 
 Also, I have to agree with Gorka somewhat that tagging lowbies is a liability for us:
 
-- we have to wait for them, lowering our exp/hr
+\- we have to wait for them, lowering our exp/hr
 
-- we need to stop and heal and/or spell shield them 
+\- we need to stop and heal and/or spell shield them 
 
-- we need to help them fix the triggers, and usually that's on leader, so he has to stop too
+\- we need to help them fix the triggers, and usually that's on leader, so he has to stop too
 
-- newbies do get gems, and if they leave, the gem is lost. It's a sad fact.
+\- newbies do get gems, and if they leave, the gem is lost. It's a sad fact.
 
 However, I do tend to take newbies in, and if they don't enter archways, that's fine by me. Waiting for one newbie at the archways taught me that.
 
 That being said:
 
-- more players to the group supposedly increases the value of the gem (more chances to get a t3 than a t2)
+\- more players to the group supposedly increases the value of the gem (more chances to get a t3 than a t2)
 
-- Lyme's gem pop rate is abyssmal, so I wouldn't count on it despite us having popped two Jets.
+\- Lyme's gem pop rate is abyssmal, so I wouldn't count on it despite us having popped two Jets.
 
-- since immorts painstakingly make grouping as the cornerstone of the gameplay, we just have to invite newbies to the only exp group, otherwise they are left to meander alone.
+\- since immorts painstakingly make grouping as the cornerstone of the gameplay, we just have to invite newbies to the only exp group, otherwise they are left to meander alone.
 
 So if we want to fix the issue of hospitality, maybe we need to:
 
-- make [an anti-gravity armory chest](http://www.slothmud.org/forum/viewtopic.php?f=30&t=4678#p37449) with -1 weight to accomodate lots of eq sets per character, so leaders can haul additional 30 items. Adding 25 items to carry did help me carry pops and I like it, but sometimes there are more specs, than 20-25. And yes, adding more item count is like widening the roads - the traffic always fills it.
+\- make [an anti-gravity armory chest](http://www.slothmud.org/forum/viewtopic.php?f=30&t=4678#p37449) with -1 weight to accomodate lots of eq sets per character, so leaders can haul additional 30 items. Adding 25 items to carry did help me carry pops and I like it, but sometimes there are more specs, than 20-25. And yes, adding more item count is like widening the roads - the traffic always fills it.
 
-- be more forgiving to newbies, not like they sponge a lot like a 1x40 bard with 191 levels does. At the same time, I don't like restricting gems for newbies.
+\- be more forgiving to newbies, not like they sponge a lot like a 1x40 bard with 191 levels does. At the same time, I don't like restricting gems for newbies.
 
 </div>
 
@@ -416,7 +416,7 @@ So ok, let me address several things, since you all attacked me instead of reali
 
 Yes, I do play from work! On my phone. I check my phone quite often and try to have triggers running because MOST of the time, my work is very relaxed. I also ALWAYS tell the group when this is happening. I'm only slow to respond because at work? I don't have a desk job or anything so it's a phone. I'm sorry guys but I'm new to Iphones still and I just can't type very fast! I have constant errors and have to retype things, especially given that at times I'm wearing gloves and most of the glove(s) are very dirty. So as I ALWAYS state this, you can always choose to tell me no, I'd rather not. If you accept then stress out and regret it later, that's on you.
 
- --- Note: I also watch television while I play this game, so if sometimes you expect me to be looking at my screen 100% of the time, I won't be. I don't expect you to be either! This is a video game, not a surveillance job. 
+ \--- Note: I also watch television while I play this game, so if sometimes you expect me to be looking at my screen 100% of the time, I won't be. I don't expect you to be either! This is a video game, not a surveillance job. 
 
 You guys spam people with text and say they aren't communicative enough? Have you considered that you guys, being veterans of the game, are VERY intimidating to low level/new people? Have you considered different people respond differently to aggression than you do? That not every person is you? These are basic people skills you are lacking, just think about how the other person feels.
 
@@ -446,7 +446,7 @@ I do agree with you being a newbie in a group and trying to figure out the right
 
 Yesterday I kicked you out of my group for not paying attention. In this case specifically... because after already some minutes passing, you expected all of us to wait for you while you changed your connection/battery, well we were entering portals and moving onto new mobs. I called you and again you did not respond... I don't think I was unjustified... 
 
-> **Quote:**
+> <strong>Quote:</strong>
 > Knifey tells you 'man fuck you and read messages. im so sick of your shit attitude. '
 
 No Knifey, I'm sick of your attitude, and so were others. I've tried to get you newbie choppers, I've offered you advice, I've let you join my eq groups... and look where that got me? The world does not revolve around Knifey, so don't join my groups expecting it to either.
@@ -455,7 +455,7 @@ No Knifey, I'm sick of your attitude, and so were others. I've tried to get you 
 
 <div class="post" data-post-id="37992" data-author="Tuck" data-date="2017-01-23T13:37:55+00:00" data-subject="Re: An unfortunate Sunday">
 
-<irony> wtf he was blasting  8)
+\<irony\> wtf he was blasting <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -465,83 +465,81 @@ Knifey accused me openly in a group last night of attempting to steal a call. Bu
 
 Group 'XP Open' is led by Vege and consists of:
 
- (Ldr/Ft)             Vege [Wa:8.33  341hp 370ma 246mv] alex/avent                    
+ (Ldr/Ft) Vege [Wa:8.33 341hp 370ma 246mv] alex/avent 
 
-  (Point)            Gorka [Wa:6.39 1148hp 170ma 217mv] rhodo/csapphire shadow        
+ (Point) Gorka [Wa:6.39 1148hp 170ma 217mv] rhodo/csapphire shadow 
 
-  (Front)           Tomato [Ma:5.30  525hp  64ma 287mv] crysop/rc quartz              
+ (Front) Tomato [Ma:5.30 525hp 64ma 287mv] crysop/rc quartz 
 
-  (Front)            Sochi [Ba:8.36  310hp 495ma 359mv] sb pearl|gyt                  
+ (Front) Sochi [Ba:8.36 310hp 495ma 359mv] sb pearl\|gyt 
 
-  (Front)           Knifey [Wa:3.29    2hp 303ma 261mv] bonyx / obsid                 
+ (Front) Knifey [Wa:3.29 2hp 303ma 261mv] bonyx / obsid 
 
-                  Mirakoli [Dr:2.33  341hp 451ma 208mv] GYT|tigerEye                  
+ Mirakoli [Dr:2.33 341hp 451ma 208mv] GYT\|tigerEye 
 
-                      Zuzu [Cl:3.35  838hp  11ma 227mv] TJade|SRuby                   
+ Zuzu [Cl:3.35 838hp 11ma 227mv] TJade\|SRuby 
 
-   (Dead)           Vooder [Th:0.39 -130hp 250ma 142mv] water opal / jade             
+ (Dead) Vooder [Th:0.39 -130hp 250ma 142mv] water opal / jade 
 
-                       Tuk [Ma:2.39  592hp  58ma 120mv] Tourmaline Sapphire       
+ Tuk [Ma:2.39 592hp 58ma 120mv] Tourmaline Sapphire 
 
-   (Dead)             Tinx [Ma:4.36  -72hp 471ma 315mv] Jet Ruby                      
+ (Dead) Tinx [Ma:4.36 -72hp 471ma 315mv] Jet Ruby 
 
-   (Dead)            Conan [Wa:0.38 -139hp  60ma 193mv] V Garnet/ Pink Diamond        
-
-   
+ (Dead) Conan [Wa:0.38 -139hp 60ma 193mv] V Garnet/ Pink Diamond 
 
 You grouptell: 'iblis!'
 
 You grouptell: 'iblis!'
 
-Knifey -- 'erm Gorka...I saw you were calling shadow earlier so I called Iblis >>'
+Knifey -- 'erm Gorka...I saw you were calling shadow earlier so I called Iblis \>\>'
 
 Group 'XP Open' is led by Vege and consists of:
 
- (Ldr/Ft)             Vege [Wa:8.33 1009hp 317ma 404mv] alex/avent                    
+ (Ldr/Ft) Vege [Wa:8.33 1009hp 317ma 404mv] alex/avent 
 
-  (Point)            Gorka [Wa:6.39 1079hp 218ma 148mv] rhodo/csapphire shadow        
+ (Point) Gorka [Wa:6.39 1079hp 218ma 148mv] rhodo/csapphire shadow 
 
-  (Front)            Sochi [Ba:8.36  846hp 134ma 372mv] sb pearl|gyt                  
+ (Front) Sochi [Ba:8.36 846hp 134ma 372mv] sb pearl\|gyt 
 
-  (Front)           Knifey [Wa:3.29  861hp 145ma 291mv] Bonyx / Obsid / Iblis         
+ (Front) Knifey [Wa:3.29 861hp 145ma 291mv] Bonyx / Obsid / Iblis 
 
-  (Front)             Suna [Dr:9.40  775hp 536ma 351mv] rhodo/malachite               
+ (Front) Suna [Dr:9.40 775hp 536ma 351mv] rhodo/malachite 
 
-                  Mirakoli [Dr:2.33  673hp 357ma 208mv] GYT|tigerEye                  
+ Mirakoli [Dr:2.33 673hp 357ma 208mv] GYT\|tigerEye 
 
-                      Zuzu [Cl:3.35  844hp 264ma 227mv] TJade|SRuby                   
+ Zuzu [Cl:3.35 844hp 264ma 227mv] TJade\|SRuby 
 
-                    Vooder [Th:0.39  845hp 335ma 283mv] water opal / jade             
+ Vooder [Th:0.39 845hp 335ma 283mv] water opal / jade 
 
-                       Tuk [Ma:2.39  581hp 296ma 120mv] Tourmaline Sapphire       
+ Tuk [Ma:2.39 581hp 296ma 120mv] Tourmaline Sapphire 
 
-                      Tinx [Ma:4.36  715hp 248ma 315mv] Jet Ruby                      
+ Tinx [Ma:4.36 715hp 248ma 315mv] Jet Ruby 
 
-                     Conan [Wa:0.38  597hp  66ma 193mv] Rose Quaartz / Pink Dia       
+ Conan [Wa:0.38 597hp 66ma 193mv] Rose Quaartz / Pink Dia 
 
 By the way Knifey, I don't think the forum is big enough to list all the mobs we saw you botting through... but have included just 4 so you can remember what happened last night.
 
-<1137hp 267ma 69mv 7366047314xp -11.2ac 41%>
+\<1137hp 267ma 69mv 7366047314xp -11.2ac 41%\>
 
 Quie'ra's Abode
 
-   Strange elven trinkets are scattered throughout this tiny bedroom area.  
+ Strange elven trinkets are scattered throughout this tiny bedroom area. 
 
 A soft feather-filled bed that sits against the western wall has a black 
 
-birch end table on either side at its head.  A vanity dresser is the only 
+birch end table on either side at its head. A vanity dresser is the only 
 
-other furnishing in the room.  In front of it stands a thick-cushioned 
+other furnishing in the room. In front of it stands a thick-cushioned 
 
-stool.  Exotic, spicy perfume lingers in the air, and the bed appears to 
+stool. Exotic, spicy perfume lingers in the air, and the bed appears to 
 
-have been used recently.  An opening in the west wall glows with a faint 
+have been used recently. An opening in the west wall glows with a faint 
 
-red aura that casts a crimson aura across this room.  A doorway to the 
+red aura that casts a crimson aura across this room. A doorway to the 
 
 north leads out into a bright hallway.
 
-Exits: North  West  
+Exits: North West 
 
 Mirakoli still is a complete newbie is standing here. (Brilliant Blue Aura)
 
@@ -557,13 +555,13 @@ Zuzu is protected by an aerial servant.
 
 Vooder [Legends] need a bloodstained manual is here, fighting Qui'era Rynliyan (Brilliant Blue Aura)
 
-(Reborn) Tuk Thanks Ozzy/Yasik  is standing here. (Brilliant Blue Aura)
+(Reborn) Tuk Thanks Ozzy/Yasik is standing here. (Brilliant Blue Aura)
 
 Tuk glows with a bright light!
 
 Tuk has a strong red aura.
 
-Sochi The Dancing Bear  is here, fighting Qui'era Rynliyan (Brilliant Blue Aura)
+Sochi The Dancing Bear is here, fighting Qui'era Rynliyan (Brilliant Blue Aura)
 
 Sochi glows with a bright light!
 
@@ -581,7 +579,7 @@ Tinx has a strong red aura.
 
 Conan the barbarian! is here, fighting Qui'era Rynliyan (Brilliant Blue Aura)
 
-Suna ~Dragonsworn~ is standing here. (Brilliant Blue Aura)
+Suna \~Dragonsworn\~ is standing here. (Brilliant Blue Aura)
 
 Suna glows with a bright light!
 
@@ -597,11 +595,11 @@ Cyprimus glows with a bright light!
 
 Cyprimus has a steady blue aura.
 
-Tomato sauce of ~Dragonsworn~ is here, fighting Qui'era Rynliyan (Brilliant Blue Aura)
+Tomato sauce of \~Dragonsworn\~ is here, fighting Qui'era Rynliyan (Brilliant Blue Aura)
 
 Tomato has a strong red aura.
 
-Vege ~Dragonsworn~ afk is here, fighting Qui'era Rynliyan (Brilliant Blue Aura)
+Vege \~Dragonsworn\~ afk is here, fighting Qui'era Rynliyan (Brilliant Blue Aura)
 
 Vege glows with a bright light!
 
@@ -609,31 +607,31 @@ Vege has a steady blue aura.
 
 A chambermaid wanders around aimlessly searching for her missing featherduster.
 
-A drow acolyte is here, fighting  YOU! (Faint Red Aura)
+A drow acolyte is here, fighting YOU! (Faint Red Aura)
 
 A drow acolyte glows with a bright light!
 
 A drow acolyte is covered in sticky webs!
 
-Qui'era Rynliyan is here, fighting  YOU! (Brilliant Red Aura)
+Qui'era Rynliyan is here, fighting YOU! (Brilliant Red Aura)
 
 Qui'era Rynliyan glows with a bright light!
 
 Qui'era Rynliyan is covered in sticky webs!
 
-<1151hp 174ma 239mv 7405799313xp -11.2ac 51%>
+\<1151hp 174ma 239mv 7405799313xp -11.2ac 51%\>
 
 Lair of the Night Serpent
 
-   Large, reptilian scales lie scattered across the straw covered floor.  
+ Large, reptilian scales lie scattered across the straw covered floor. 
 
 Torches sculpted of bone have been jammed into holes chipped into the 
 
-voidstone.  Several broken bones and skulls litter the floor and a stench 
+voidstone. Several broken bones and skulls litter the floor and a stench 
 
 of decaying matter fills the chamber.
 
-Exits: West  
+Exits: West 
 
 Mirakoli still is a complete newbie is here, fighting Dendar, the Night Serpent (Brilliant Blue Aura)
 
@@ -651,13 +649,13 @@ Vooder [Legends] need a bloodstained manual is here, fighting Dendar, the Night 
 
 Aura)
 
-(Reborn) Tuk Thanks Ozzy/Yasik  is here, fighting Dendar, the Night Serpent (Brilliant Blue Aura)
+(Reborn) Tuk Thanks Ozzy/Yasik is here, fighting Dendar, the Night Serpent (Brilliant Blue Aura)
 
 Tuk glows with a bright light!
 
 Tuk has a strong red aura.
 
-Sochi The Dancing Bear  is here, fighting Dendar, the Night Serpent (Brilliant Blue Aura)
+Sochi The Dancing Bear is here, fighting Dendar, the Night Serpent (Brilliant Blue Aura)
 
 Sochi glows with a bright light!
 
@@ -677,7 +675,7 @@ Tinx is surrounded by an undulating spectral shield.
 
 Conan the barbarian! is here, fighting Dendar, the Night Serpent (Brilliant Blue Aura)
 
-Suna ~Dragonsworn~ is here, fighting Dendar, the Night Serpent (Brilliant Blue Aura)
+Suna \~Dragonsworn\~ is here, fighting Dendar, the Night Serpent (Brilliant Blue Aura)
 
 Suna glows with a bright light!
 
@@ -693,37 +691,37 @@ Cyprimus glows with a bright light!
 
 Cyprimus has a steady blue aura.
 
-Tomato sauce of ~Dragonsworn~ is here, fighting Dendar, the Night Serpent (Brilliant Blue Aura)
+Tomato sauce of \~Dragonsworn\~ is here, fighting Dendar, the Night Serpent (Brilliant Blue Aura)
 
 Tomato has a strong red aura.
 
-Vege ~Dragonsworn~ afk (hidden) is standing here. (Brilliant Blue Aura)
+Vege \~Dragonsworn\~ afk (hidden) is standing here. (Brilliant Blue Aura)
 
 Vege has a steady blue aura.
 
-Dendar, the Night Serpent is here, fighting  YOU! (Red Aura)
+Dendar, the Night Serpent is here, fighting YOU! (Red Aura)
 
 Dendar, the Night Serpent is covered in sticky webs!
 
-<924hp 84ma 256mv 7429277064xp -11.2ac 15%>
+\<924hp 84ma 256mv 7429277064xp -11.2ac 15%\>
 
 The Throne of Bone
 
-   Crafted skillfully from humanoid remains, the throne rests atop a carpet 
+ Crafted skillfully from humanoid remains, the throne rests atop a carpet 
 
-of human scalps.  A pair of crossed onyx swords, one set with a ruby, the 
+of human scalps. A pair of crossed onyx swords, one set with a ruby, the 
 
-other with a diamond, hang uneasily above the macabre chair.  Dried blood 
+other with a diamond, hang uneasily above the macabre chair. Dried blood 
 
 dots the walls of the alcove, and similar stains mar the pearly appearance 
 
-of the throne.  A grinning skull hangs from overhead, attached to a thick 
+of the throne. A grinning skull hangs from overhead, attached to a thick 
 
-chain.  The sound of trickling fluids flows in from the west, along with 
+chain. The sound of trickling fluids flows in from the west, along with 
 
 the scent of freshly spilled blood.
 
-Exits: [East]  West  
+Exits: [East] West 
 
 Mirakoli still is a complete newbie is standing here. (Brilliant Blue Aura)
 
@@ -741,13 +739,13 @@ Vooder [Legends] need a bloodstained manual is here, fighting The Slaad Lord, Yg
 
 Aura)
 
-(Reborn) Tuk Thanks Ozzy/Yasik  is here, fighting The Slaad Lord, Ygorl (Brilliant Blue Aura)
+(Reborn) Tuk Thanks Ozzy/Yasik is here, fighting The Slaad Lord, Ygorl (Brilliant Blue Aura)
 
 Tuk glows with a bright light!
 
 Tuk has a strong red aura.
 
-Sochi The Dancing Bear  is here, fighting The Slaad Lord, Ygorl (Brilliant Blue Aura)
+Sochi The Dancing Bear is here, fighting The Slaad Lord, Ygorl (Brilliant Blue Aura)
 
 Sochi glows with a bright light!
 
@@ -763,7 +761,7 @@ Tinx has a strong red aura.
 
 Conan the barbarian! is here, fighting The Slaad Lord, Ygorl (Brilliant Blue Aura)
 
-Suna ~Dragonsworn~ is here, fighting The Slaad Lord, Ygorl (Brilliant Blue Aura)
+Suna \~Dragonsworn\~ is here, fighting The Slaad Lord, Ygorl (Brilliant Blue Aura)
 
 Suna glows with a bright light!
 
@@ -779,39 +777,39 @@ Cyprimus glows with a bright light!
 
 Cyprimus has a steady blue aura.
 
-Tomato sauce of ~Dragonsworn~ is here, fighting The Slaad Lord, Ygorl (Brilliant Blue Aura)
+Tomato sauce of \~Dragonsworn\~ is here, fighting The Slaad Lord, Ygorl (Brilliant Blue Aura)
 
 Tomato has a strong red aura.
 
-Vege ~Dragonsworn~ afk is here, fighting The Slaad Lord, Ygorl (Brilliant Blue Aura)
+Vege \~Dragonsworn\~ afk is here, fighting The Slaad Lord, Ygorl (Brilliant Blue Aura)
 
 Vege glows with a bright light!
 
 Vege has a steady blue aura.
 
-The Slaad Lord, Ygorl is here, fighting  YOU! (Brilliant Red Aura)
+The Slaad Lord, Ygorl is here, fighting YOU! (Brilliant Red Aura)
 
 The Slaad Lord, Ygorl is covered in sticky webs!
 
-<1171hp 17ma 96mv 7466335457xp -11.2ac 56%>
+\<1171hp 17ma 96mv 7466335457xp -11.2ac 56%\>
 
 Apex of Dissolution
 
-   Bear skin rugs cover the floor of this disheveled cavern.  Corpses 
+ Bear skin rugs cover the floor of this disheveled cavern. Corpses 
 
 belonging to numerous species have been unceremoniously stacked into 
 
-unkempt piles according to age and level of decomposition.  A ceramic 
+unkempt piles according to age and level of decomposition. A ceramic 
 
 figurine depicting the coupling of an unclad female human and a lich rests 
 
-pristinely atop a crude stone altar.  The cross-sectioned heads of a 
+pristinely atop a crude stone altar. The cross-sectioned heads of a 
 
 baal'tzu and a t'annari have been preserved and mounted on lacquered oak 
 
 slabs, their features locked in a feral grimace for all eternity.
 
-Exits: West  
+Exits: West 
 
 Mirakoli still is a complete newbie is here, fighting Mot (Brilliant Blue Aura)
 
@@ -825,13 +823,13 @@ Zuzu is protected by an aerial servant.
 
 Vooder [Legends] need a bloodstained manual is here, fighting Mot (Brilliant Blue Aura)
 
-(Reborn) Tuk Thanks Ozzy/Yasik  is standing here. (Brilliant Blue Aura)
+(Reborn) Tuk Thanks Ozzy/Yasik is standing here. (Brilliant Blue Aura)
 
 Tuk glows with a bright light!
 
 Tuk has a strong red aura.
 
-Sochi The Dancing Bear  is here, fighting Mot (Brilliant Blue Aura)
+Sochi The Dancing Bear is here, fighting Mot (Brilliant Blue Aura)
 
 Sochi glows with a bright light!
 
@@ -845,7 +843,7 @@ Tinx has a strong red aura.
 
 Conan the barbarian! is here, fighting Mot (Brilliant Blue Aura)
 
-Suna ~Dragonsworn~ is here, fighting Mot (Brilliant Blue Aura)
+Suna \~Dragonsworn\~ is here, fighting Mot (Brilliant Blue Aura)
 
 Suna glows with a bright light!
 
@@ -859,17 +857,17 @@ Cyprimus glows with a bright light!
 
 Cyprimus has a steady blue aura.
 
-Tomato sauce of ~Dragonsworn~ is here, fighting Mot (Brilliant Blue Aura)
+Tomato sauce of \~Dragonsworn\~ is here, fighting Mot (Brilliant Blue Aura)
 
 Tomato has a strong red aura.
 
-Vege ~Dragonsworn~ afk is here, fighting Mot (Brilliant Blue Aura)
+Vege \~Dragonsworn\~ afk is here, fighting Mot (Brilliant Blue Aura)
 
 Vege glows with a bright light!
 
 Vege has a steady blue aura.
 
-Mot is here, fighting  YOU! (Brilliant Red Aura)
+Mot is here, fighting YOU! (Brilliant Red Aura)
 
 Mot is covered in sticky webs!
 
@@ -881,7 +879,7 @@ Don't you dare come to this mud, and cast dispersion's on other players, and our
 
 Ugh, I hate this thread. Can we let it die and stop having petty fights on the crier? I don't see any point to expand in-game arguments to a wider forum. It just makes everyone look bad. 
 
-Here's what happened by my perspective... We were getting into the habit of killing Iblis for Gorka during some exp runs, because we realize some of the tanks are rebirthing and we want to make sure we have some max-AC tanks.  
+Here's what happened by my perspective... We were getting into the habit of killing Iblis for Gorka during some exp runs, because we realize some of the tanks are rebirthing and we want to make sure we have some max-AC tanks. 
 
 Knifey, another tank, sees Gorka calling eq mob in group and thinks 'well, I'm a tank too, I'll call Iblis since Gorka isn't here', reasonably so.
 

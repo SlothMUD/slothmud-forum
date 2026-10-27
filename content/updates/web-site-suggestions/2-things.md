@@ -14,7 +14,7 @@ post_count: 5
 
 Hi!
 
-Guess I should do my first post in the forum of the mud IÂ´m in love with  :shock: 
+Guess I should do my first post in the forum of the mud IÂ´m in love with <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
 There are two things I would like to see on the homepage. The first
 
@@ -28,7 +28,7 @@ character in the mud to the user on the homepage? Would require that
 
 all had the same name on the site. But many of us I guess have that....
 
-Thanks for a great MUD!  :wink: 
+Thanks for a great MUD! <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom"> 
 
 /Achazia
 
@@ -64,7 +64,7 @@ Hi again!
 
 Thanks for the quick answers =)
 
-I am looking forward to these webupdates  :D 
+I am looking forward to these webupdates <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> 
 
 Would be great to look at my own stats on the web. More easy
 

@@ -12,7 +12,7 @@ post_count: 8
 
 <div class="post" data-post-id="30456" data-author="harik" data-date="2009-12-08T22:39:22+00:00" data-subject="Autumnal forest - where DOES the elf get all those vials?">
 
-Is he really supposed to proc teleport every round of combat starting from round 1?  The only way to hold him down really feels like an exploit, but at the same time he seems really broken.   Is there any way for a non-druid to get him?
+Is he really supposed to proc teleport every round of combat starting from round 1? The only way to hold him down really feels like an exploit, but at the same time he seems really broken. Is there any way for a non-druid to get him?
 
 I asked on gossip and people have said "He's always been that way", but man that's one really freaking annoying critter.
 
@@ -24,7 +24,7 @@ l maimed
 
 A maimed elf is in excellent condition.
 
-<6:00 445h 172m 203v 9054114x 65182g -1.8AC /storm Autumnal Forest/Vk>
+\<6:00 445h 172m 203v 9054114x 65182g -1.8AC /storm Autumnal Forest/Vk\>
 
 cast 'blind' maimed
 
@@ -36,7 +36,7 @@ A maimed elf hates your guts!
 
 A maimed elf pounds you hard.
 
-<6:00 437h 167m 203v 9054114x 65182g -1.8AC /storm Autumnal Forest/Vk>
+\<6:00 437h 167m 203v 9054114x 65182g -1.8AC /storm Autumnal Forest/Vk\>
 
 You pierce a maimed elf very hard.
 
@@ -54,7 +54,7 @@ The maimed elf produces a small vial of colored liquid.
 
 He smashes it with his mace, and is gone in a puff of orange smoke!
 
-<6:00 425h 170m 203v 9055106x 65182g -1.8AC /storm Autumnal Forest/Vk>
+\<6:00 425h 170m 203v 9055106x 65182g -1.8AC /storm Autumnal Forest/Vk\>
 
 </div>
 
@@ -104,7 +104,7 @@ He will also teach name of every single location in The forest.
 
 Be patient and run fast.
 
----
+\---
 
 Pi, the unfinished one
 
@@ -130,9 +130,8 @@ T
 
 <div class="post" data-post-id="30463" data-author="*juggleblood*" data-date="2009-12-09T14:23:10+00:00" data-subject="">
 
-then you'll have the fun of his low pop rate.
-
-[/quote:2kfhsouf]
+> <strong>Thraxas wrote:</strong>
+> then you'll have the fun of his low pop rate.
 
 hrm, you were right, it was real low. made it a bit more reasonable. enjoy.
 
@@ -140,7 +139,7 @@ hrm, you were right, it was real low. made it a bit more reasonable. enjoy.
 
 <div class="post" data-post-id="30475" data-author="harik" data-date="2009-12-11T04:19:19+00:00" data-subject="">
 
-Cool, thanks for all the advice. :)
+Cool, thanks for all the advice. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 I'll try some different things on him and see how well I can drop him now.
 

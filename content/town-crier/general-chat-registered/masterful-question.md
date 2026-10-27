@@ -26,7 +26,7 @@ be worth a whole lot more than just a few exp tokens imho.. a LOT more..
 
 <div class="post" data-post-id="16665" data-author="kjartan" data-date="2007-02-06T17:36:35+00:00" data-subject="">
 
-No and no.  If we did anything along these we might give you a further bonus for something like that, but we wouldn't just make it so you always get the masterful spell.  We don't currently have plans for that, either.
+No and no. If we did anything along these we might give you a further bonus for something like that, but we wouldn't just make it so you always get the masterful spell. We don't currently have plans for that, either.
 
 </div>
 
@@ -36,7 +36,7 @@ but but but KJ!!!!
 
 with masterful create food... 
 
-we all give you a fine roasted goose!   :)
+we all give you a fine roasted goose! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -56,13 +56,13 @@ Example: epic mob pops a spellbook that allows masterful fly. To read requires x
 
 <div class="post" data-post-id="16669" data-author="Autolycos" data-date="2007-02-06T18:27:56+00:00" data-subject="">
 
-forget masterful.. i'd just like to get silence to work once and a while..  then i could help everyone stfu  :twisted:
+forget masterful.. i'd just like to get silence to work once and a while.. then i could help everyone stfu <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="16670" data-author="Trupik" data-date="2007-02-06T21:56:58+00:00" data-subject="">
 
-If im not mistaken there is a drachma item, which make next  cast 100% masterful... if it worth it - buy it
+If im not mistaken there is a drachma item, which make next cast 100% masterful... if it worth it - buy it
 
 </div>
 

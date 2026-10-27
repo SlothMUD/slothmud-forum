@@ -14,7 +14,7 @@ post_count: 2
 
 Due to the chopping block not showing the bids that people were bidding, I moved the item to here. 
 
-4 mil min :P
+4 mil min <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 

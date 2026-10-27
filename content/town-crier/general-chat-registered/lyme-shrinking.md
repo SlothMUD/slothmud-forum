@@ -18,13 +18,13 @@ The number of avatars is only going to increase and lyme stab-blast has complete
 
 So I would just ask that everyone be diplomatic when these conflicts arise. Be kind to newbie leaders and lay off cg/irap if you see newer players in there. There's no hard and fast rule about who gets to call what mobs or what areas. We just have to try to be fair.
 
-If you already know the cg/irap run by heart, learn something new. There's also plenty of xp in ebony grove, ebony tower, den of thieves, poseidon's realm, the pyramid expansion, and now mount mystica. Mnm has a lot of potential for xp.  If you have questions about which mobs to run, post em. I'm sure peeps will help you out.
+If you already know the cg/irap run by heart, learn something new. There's also plenty of xp in ebony grove, ebony tower, den of thieves, poseidon's realm, the pyramid expansion, and now mount mystica. Mnm has a lot of potential for xp. If you have questions about which mobs to run, post em. I'm sure peeps will help you out.
 
 I kinda wish alignment weren't such a serious game mechanic. There's plenty of good aligned xp mobs (Pagoda mobs for instance) that no one wants to bother with, because being good aligned is so essential for a successful xp run. 
 
 peace out
 
- 8)
+ <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -34,7 +34,7 @@ IMHO, this matter kinda of settles, when players run areas, where they can get t
 
 Newbies (skillwise, not levelwise) stick to the easiest (prongs, Tony, Ira), while others seek more exp in more dangerous areas, such as higher levels of ET, Pyramid, etc. It also depends on the group size and classo, but not by a big margin.
 
-Perhaps, if you want others (esp newbies) to stick to areas you are not hitting, maybe you should let them know of the possibilities :)
+Perhaps, if you want others (esp newbies) to stick to areas you are not hitting, maybe you should let them know of the possibilities <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 As such, I think a list of stab/grip blast areas might be helpful, with comments regarding difficulties and a suitable group size/classos.
 
@@ -44,9 +44,9 @@ To those thinking "Bah, learn the game!", I should say that you have to be patie
 
 <div class="post" data-post-id="27561" data-author="Toxis" data-date="2008-12-31T03:27:01+00:00" data-subject="">
 
-It was bad enough without mystica, and now it's still not big enough.  Facts are we just need more areas on Lyme to deal with the tri40's and powerful avatars.  So get those imm apps in.
+It was bad enough without mystica, and now it's still not big enough. Facts are we just need more areas on Lyme to deal with the tri40's and powerful avatars. So get those imm apps in.
 
--Tox
+\-Tox
 
 </div>
 
@@ -58,9 +58,9 @@ There are many good places to visit, the problem is, if you are a Lyme newbie, y
 
 So maybe it'd help if experienced players showed areas to newbies (like some stabbers (Shiv, Vaire, Auto and others) showed me less run stab areas. It does help, to an extent.
 
-Another way to keep newbies welcome, I guess :)
+Another way to keep newbies welcome, I guess <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-And yes, more Lyme areas wouldn't hurt, at least it'll get ppl active for a few months :)
+And yes, more Lyme areas wouldn't hurt, at least it'll get ppl active for a few months <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -90,7 +90,7 @@ How can we be surprised by the 'shrinking' problem though? I mean it really is a
 
 Why don't you lift lyme cap a little, put in leader/tank xp, and make the macu's 10k at the shop. Another 4-5 areas become viable for players again... old classo tanks want to chop, new leaders want to lead, chop areas get run... 
 
-I'm not looking forward to new stabbers learning to run crypt... more cr's at the looting crypt guardians...  :roll:
+I'm not looking forward to new stabbers learning to run crypt... more cr's at the looting crypt guardians... <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -138,15 +138,15 @@ Why is chop dead? aren't there some alarm bells ringing? I'd join a chop group i
 
 <div class="post" data-post-id="27614" data-author="Toxis" data-date="2009-01-04T23:18:52+00:00" data-subject="">
 
-I've always thought chop groups were borring, but some like them.  I dunno.  
+I've always thought chop groups were borring, but some like them. I dunno. 
 
-Thanks for all the good comments on mystica, I do think it rounds out Lyme a little.  I believe that more areas need to be designed to low tri40 solo and two man that aren't thieves, warriors, or mages.  If only we didn't have to make those silly descriptions, I could make 100 areas in a year. :)~
+Thanks for all the good comments on mystica, I do think it rounds out Lyme a little. I believe that more areas need to be designed to low tri40 solo and two man that aren't thieves, warriors, or mages. If only we didn't have to make those silly descriptions, I could make 100 areas in a year. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">\~
 
-By the way, I don't think anything needs nerfed.  I do believe that some classes need to be evened out, monks prob the most.  More things need to be able to be bought at lyme mayor.
+By the way, I don't think anything needs nerfed. I do believe that some classes need to be evened out, monks prob the most. More things need to be able to be bought at lyme mayor.
 
-Sloth's come a long way from start of Sloth 3.  Pretty cool game, I might add.  A lot of work has gone into this mud, I'm pretty proud to be a builder here.  We still have a long way to go, and better changes are to come I'm sure.
+Sloth's come a long way from start of Sloth 3. Pretty cool game, I might add. A lot of work has gone into this mud, I'm pretty proud to be a builder here. We still have a long way to go, and better changes are to come I'm sure.
 
--Tox
+\-Tox
 
 </div>
 
@@ -156,15 +156,15 @@ I don't see a shortage on tanks, really.
 
 The problems with chop are:
 
-- it takes a while (1-2hrs) to gather a group and get specs. People don't join, if there are no specs,  because of the delay.
+\- it takes a while (1-2hrs) to gather a group and get specs. People don't join, if there are no specs, because of the delay.
 
-- it takes a while to get macus, other specs just plain suck. And yes, it even takes time to get those, too.
+\- it takes a while to get macus, other specs just plain suck. And yes, it even takes time to get those, too.
 
-- with the cap, it doesn't make sense to spend several minutes to get 5mil, when you can get that in 15 seconds with blast/xp
+\- with the cap, it doesn't make sense to spend several minutes to get 5mil, when you can get that in 15 seconds with blast/xp
 
-- add to that a larger group, where a potential for botting/screwing up rises and you get a picture of chop
+\- add to that a larger group, where a potential for botting/screwing up rises and you get a picture of chop
 
-- there aren't many players on for a long period of time to make chopping fast and easy (nonshop, killing mobs in 10 rounds).
+\- there aren't many players on for a long period of time to make chopping fast and easy (nonshop, killing mobs in 10 rounds).
 
 I have to second the idea that instead of adding more areas, they need to fix current areas. Make them appealing for exp, eq, gold or whatever.
 
@@ -178,13 +178,13 @@ I hope imms will make revision of old areas any time soon. We have great amount 
 
 Probably those areas shouldn't have such exp as shadowkeep or dweb but there should be something else that'll make it interesting for people (coins, EQ, more quests etc). You can just re-zone few cps or EQ to force ppl run in different areas.
 
-We have same trouble with spells/skills. A lot of them were designed for old Sloth and aren't usable atm. We got masterful casting but now we only have 1-2 spells that has different effects on usual/masterful casting. We have charm person that was screwed to prevent ppl from tricking (though we have pets). We have control weather spell but have you ever used it except for autoquest?  Have you ever use enchant weapon, telepathy, energy drain, sleep, chronos incantation, sandstorm? Probably it's just a matter of my personal lack of sloth experience but hell I don't even use mindbar, scrybite, even reflection.
+We have same trouble with spells/skills. A lot of them were designed for old Sloth and aren't usable atm. We got masterful casting but now we only have 1-2 spells that has different effects on usual/masterful casting. We have charm person that was screwed to prevent ppl from tricking (though we have pets). We have control weather spell but have you ever used it except for autoquest? Have you ever use enchant weapon, telepathy, energy drain, sleep, chronos incantation, sandstorm? Probably it's just a matter of my personal lack of sloth experience but hell I don't even use mindbar, scrybite, even reflection.
 
 </div>
 
 <div class="post" data-post-id="27622" data-author="surfnazi" data-date="2009-01-05T12:58:52+00:00" data-subject="">
 
-i agree with marge, a little civility makes the game go smoother.  a bigger issue is people who join up without asking then bot the run...lately i lock groups cause i get tired of leading exp for friends with bots, or groups that are doing stab blast -  understand i dont need 3 stabbers in a group if you cant at least blast or heal...its nothing personal just keeping group small and effecient, if this rubs you the wrong way then dont follow up, its that simple
+i agree with marge, a little civility makes the game go smoother. a bigger issue is people who join up without asking then bot the run...lately i lock groups cause i get tired of leading exp for friends with bots, or groups that are doing stab blast - understand i dont need 3 stabbers in a group if you cant at least blast or heal...its nothing personal just keeping group small and effecient, if this rubs you the wrong way then dont follow up, its that simple
 
 </div>
 
@@ -196,11 +196,11 @@ i don't know if this is a heretical suggestion or not, but perhaps the way to ge
 
 <div class="post" data-post-id="27627" data-author="Toxis" data-date="2009-01-05T16:22:44+00:00" data-subject="">
 
-Thing is chop xp isn't bad and you get good gold out of it too.  The problem is you sit there and heal and fall asleep waiting for "auto chops" to occur.
+Thing is chop xp isn't bad and you get good gold out of it too. The problem is you sit there and heal and fall asleep waiting for "auto chops" to occur.
 
-Mobs die in a minute or two, which is boring.  I've tried to think how to make chop more fun and it's very hard to add something to that without destroying the balance of chop with normal game play.  The only thing I could think of to make it better would be to slightly increase the chop rate.  If anyone else has any suggestions, pls say.
+Mobs die in a minute or two, which is boring. I've tried to think how to make chop more fun and it's very hard to add something to that without destroying the balance of chop with normal game play. The only thing I could think of to make it better would be to slightly increase the chop rate. If anyone else has any suggestions, pls say.
 
--Tox
+\-Tox
 
 </div>
 
@@ -210,15 +210,15 @@ IMHO, increasing the chop rate (to x1.5-2 of a macu) should make chop faster and
 
 Another way is to increase the cap to 15mil (or so).
 
-Possibly, one of the above should be sufficient, but if it doesn't work, both of them should surely ignite the people to chop :)
+Possibly, one of the above should be sufficient, but if it doesn't work, both of them should surely ignite the people to chop <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 P.S. We do need more people online. Maybe we should let newcomers give a taste of Lyme for 2 weeks by giving them access to a char with basic non-transferrable gear for their classo, so they'd:
 
-- see what waits them on Lyme and have fun instead of hunting kittens
+\- see what waits them on Lyme and have fun instead of hunting kittens
 
-- see what they can and can not do in their classo (though for a newbie, nothing is killable on Lyme)
+\- see what they can and can not do in their classo (though for a newbie, nothing is killable on Lyme)
 
-Or, better yet, ask imms to chop themselves and compare it to other ways of making exp (stab blast xp, solo, Desert *chuckle*, etc). If they see how much it sucks, they'll probably agree to increase chop rate.
+Or, better yet, ask imms to chop themselves and compare it to other ways of making exp (stab blast xp, solo, Desert \*chuckle\*, etc). If they see how much it sucks, they'll probably agree to increase chop rate.
 
 P.P.S. Choirmaster is a 4man chop mob, unless it was changed since I popped the sb for Teron. Poseidons was a good starting chop area back in the days.
 
@@ -232,17 +232,22 @@ Lyme is a gift to devoted players, giving them more challenges and more rewards 
 
 Sloth is hard to get started for the average person, but I think once you get stats and past level 20 the game is more fun and easier overall.
 
--Tox
+\-Tox
 
 </div>
 
 <div class="post" data-post-id="27634" data-author="Vixn" data-date="2009-01-05T18:22:57+00:00" data-subject="">
 
-Thing is chop xp isn't bad and you get good gold out of it too.  The problem is you sit there and heal and fall asleep waiting for "auto chops" to occur.
-
-Mobs die in a minute or two, which is boring.  I've tried to think how to make chop more fun and it's very hard to add something to that without destroying the balance of chop with normal game play.  The only thing I could think of to make it better would be to slightly increase the chop rate.  If anyone else has any suggestions, pls say.
-
--Tox[/quote:1gep3tvh]
+> <strong>Toxis wrote:</strong>
+> Thing is chop xp isn't bad and you get good gold out of it too. The problem is you sit there and heal and fall asleep waiting for "auto chops" to occur.
+> 
+> 
+> 
+> Mobs die in a minute or two, which is boring. I've tried to think how to make chop more fun and it's very hard to add something to that without destroying the balance of chop with normal game play. The only thing I could think of to make it better would be to slightly increase the chop rate. If anyone else has any suggestions, pls say.
+> 
+> 
+> 
+> \-Tox
 
 ppl usually don't bot (no, they do but do it less rude) in desert because you must pay attention to stay alive. probably it would work if chop mobs will have powerful procs like Tiamat's toss or mass blast or some epic's procs.
 
@@ -252,7 +257,7 @@ just my 2 cents
 
 <div class="post" data-post-id="27636" data-author="Medios" data-date="2009-01-05T20:55:06+00:00" data-subject="">
 
-Only increasing the +chop rate will help.  As it is we have a hard time sitting around meleeing something for 3 ticks for 5m xp.  I personally don't like to mix temp and no temp areas which makes lyme eq a hard task.  You usually have half the group who wants desert/mnm and the other half who wants Sailor Bill, Zeus and Hermes.
+Only increasing the +chop rate will help. As it is we have a hard time sitting around meleeing something for 3 ticks for 5m xp. I personally don't like to mix temp and no temp areas which makes lyme eq a hard task. You usually have half the group who wants desert/mnm and the other half who wants Sailor Bill, Zeus and Hermes.
 
 </div>
 
@@ -272,7 +277,7 @@ When I cycled hun for my parchment, I ran a couple of tests... I found that it w
 
 In fact a couple of times I got a friend to help, and with both of us chopping it still took two runs.
 
-I think chop probably stills works... for large groups > 15 players maybe... but the point is, we just don't see that these days... and when we do... there are now better area's and rewards to be run.
+I think chop probably stills works... for large groups \> 15 players maybe... but the point is, we just don't see that these days... and when we do... there are now better area's and rewards to be run.
 
 I think chop would be easy to improve... increase chop rate, don't make the specs poof, improve spec pop rate... sit back wait a few weeks... see what happens, take things from there.
 
@@ -284,35 +289,38 @@ Yeah it's a shame chop died the way it did.. I think it was initially nerfed to 
 
 If an area is popular, I would have thought that was a clear indication to make other less-popular areas more like it, not screw that one popular area up so nobody runs it anymore.. I've never understood this backwards mentality that has seemingly always been the rule with SlothMUD, and have questioned it a number of times over the years without a logical response.
 
- 
-
 Chopping maul titans, giant lizards and maws in semester I think made a great chop run once upon a time.. how many years has it been since anyone ran those repeatedly?
 
-As far as macus go, can usually score a few off the elites in CG as well, but would be nice to have an option to buy them maybe... perhaps if the mud has been up less than 24 hours, the shops can sell, and after that, no more selling? That kind of resolves the crashing issue removing all the choppers..  although it would still help that the choppers actually work.. seeing the previous example that it's easier to piasa a chop mob than chop it is a classic illustration of just how badly chop was nerfed.. but using Sloth logic, we'll probably end up having piasas nerfed instead now...
+As far as macus go, can usually score a few off the elites in CG as well, but would be nice to have an option to buy them maybe... perhaps if the mud has been up less than 24 hours, the shops can sell, and after that, no more selling? That kind of resolves the crashing issue removing all the choppers.. although it would still help that the choppers actually work.. seeing the previous example that it's easier to piasa a chop mob than chop it is a classic illustration of just how badly chop was nerfed.. but using Sloth logic, we'll probably end up having piasas nerfed instead now...
 
 </div>
 
 <div class="post" data-post-id="27646" data-author="brady" data-date="2009-01-06T01:57:32+00:00" data-subject="">
 
-When I cycled hun for my parchment, I ran a couple of tests... I found that it was easier for me to piasa the mob over two runs, than put on all my ac gear haste and wait for chops to happen with a macu. 
+> <strong>jezer wrote:</strong>
+> When I cycled hun for my parchment, I ran a couple of tests... I found that it was easier for me to piasa the mob over two runs, than put on all my ac gear haste and wait for chops to happen with a macu. 
+> 
+> 
+> 
+> In fact a couple of times I got a friend to help, and with both of us chopping it still took two runs.
 
-In fact a couple of times I got a friend to help, and with both of us chopping it still took two runs.[/quote:2sqqo88r]
-
-Sort of off topic, but really?  I solo'd Hun with a rabbit many times...in one run (sometimes a very short second run).  Possible he was changed but I thought you were supposed to be tough.   :evil:
+Sort of off topic, but really? I solo'd Hun with a rabbit many times...in one run (sometimes a very short second run). Possible he was changed but I thought you were supposed to be tough. <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="27649" data-author="jezer" data-date="2009-01-06T04:46:37+00:00" data-subject="">
 
-Sort of off topic, but really?  I solo'd Hun with a rabbit many times...in one run (sometimes a very short second run).  Possible he was changed but I thought you were supposed to be tough.   :evil:[/quote:2rlgcu4k]
+> <strong>brady wrote:</strong>
+> Sort of off topic, but really? I solo'd Hun with a rabbit many times...in one run (sometimes a very short second run). Possible he was changed but I thought you were supposed to be tough. <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
-You got more attacks than me... warriors built in damage reduction, higher ac, more hps and possibly higher heal bonus? I'm not that tough... hope that doesn't effect my chances at winning druid of the year or the price of my sloth rookie card.  :twisted:  If you feel the need to take down my picture off ya wall, I'll understand...  :oops:
+You got more attacks than me... warriors built in damage reduction, higher ac, more hps and possibly higher heal bonus? I'm not that tough... hope that doesn't effect my chances at winning druid of the year or the price of my sloth rookie card. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> If you feel the need to take down my picture off ya wall, I'll understand... <img src="/images/smilies/icon_redface.svg" alt=":oops:" title=":oops:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="27650" data-author="Teron" data-date="2009-01-06T16:49:13+00:00" data-subject="">
 
-As far as macus go, can usually score a few off the elites in CG as well, but would be nice to have an option to buy them maybe... perhaps if the mud has been up less than 24 hours, the shops can sell, and after that, no more selling?[/quote:29brtcti]
+> <strong>Weasel wrote:</strong>
+> As far as macus go, can usually score a few off the elites in CG as well, but would be nice to have an option to buy them maybe... perhaps if the mud has been up less than 24 hours, the shops can sell, and after that, no more selling?
 
 IMHO, it'd be pretty impressive, if all the specs that poofed on the crash/reboot, no more and no less, were sold in a shop after the reboot. At least it'd remove the crash/reboot problem.
 
@@ -328,19 +336,21 @@ While I find it somewhat plausible, it shouldn't be made intolerable. For exampl
 
 <div class="post" data-post-id="27651" data-author="jezer" data-date="2009-01-06T22:43:56+00:00" data-subject="">
 
-Oh, btw, the reason for the nerfing attitude that prevails is that Slothers must feel pain to enjoy the game.[/quote:w4e3id6m]
+> <strong>Teron wrote:</strong>
+> Oh, btw, the reason for the nerfing attitude that prevails is that Slothers must feel pain to enjoy the game.
 
 I don't agree... if that were true we'd all be doing chop because we were morons and loved popping specs for 2 hours and getting 5m caps for 3 minutes of work.
 
-Most players I think prefer balance... We don't mind desert and mystica forges... and yes they are hard work... but there is this point where things cross over and players just simply will avoid certain parts of the game.... like me and herbalist isle for instance... :twisted: Nothing says don't come back like swarming looting aggro's in no recall zones.
+Most players I think prefer balance... We don't mind desert and mystica forges... and yes they are hard work... but there is this point where things cross over and players just simply will avoid certain parts of the game.... like me and herbalist isle for instance... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> Nothing says don't come back like swarming looting aggro's in no recall zones.
 
-For all the try-hards and morons, there is always soloing lyme chicken in ferret form... it's yet to be done... you could be famous... we will think your awesome... give it a try. *nodding*
+For all the try-hards and morons, there is always soloing lyme chicken in ferret form... it's yet to be done... you could be famous... we will think your awesome... give it a try. \*nodding\*
 
 </div>
 
 <div class="post" data-post-id="27655" data-author="Teron" data-date="2009-01-07T08:04:06+00:00" data-subject="">
 
-I don't agree... if that were true we'd all be doing chop because we were morons and loved popping specs for 2 hours and getting 5m caps for 3 minutes of work.[/quote:10mxkz5h]
+> <strong>Jezer wrote:</strong>
+> I don't agree... if that were true we'd all be doing chop because we were morons and loved popping specs for 2 hours and getting 5m caps for 3 minutes of work.
 
 The fact that you or any player on this MUD doesn't agree doesn't make it a valid point for the imms, as far as facts go.
 

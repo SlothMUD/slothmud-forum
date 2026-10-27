@@ -20,10 +20,10 @@ It will involve..turkeys, at the very least. That's all I can say for now.
 
 I will get a timer link going shortly,
 
-[<LINK_TEXT text="https://www.tickcounter.com/countdown/2 ... ving-quest">https://www.tickcounter.com/countdown/2301681/2020-slothmud-thanksgiving-quest</LINK_TEXT>](https://www.tickcounter.com/countdown/2301681/2020-slothmud-thanksgiving-quest)
+[https://www.tickcounter.com/countdown/2301681/2020-slothmud-thanksgiving-quest](https://www.tickcounter.com/countdown/2301681/2020-slothmud-thanksgiving-quest)
 
 See you there,
 
---D
+\--D
 
 </div>

@@ -26,7 +26,7 @@ I have a few suggestions to make your crapma shop better.
 
 Sorry but I closed my shop due to abuse of bugs
 
- :lol: 
+ <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> 
 
 re-done this damn town map 8 times now... harder than I thought to keep everything in scale
 

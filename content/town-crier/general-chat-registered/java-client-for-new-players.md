@@ -40,6 +40,6 @@ That's not a bad little client if you got JRE6 installed. Couldn't find the opti
 
 <div class="post" data-post-id="27969" data-author="tincts" data-date="2009-02-02T02:52:11+00:00" data-subject="">
 
-Oh thankyou sweet lord (meaning Splork) the java client gets through the firewall at work!!  Hello sloth, goodbye productivity!
+Oh thankyou sweet lord (meaning Splork) the java client gets through the firewall at work!! Hello sloth, goodbye productivity!
 
 </div>

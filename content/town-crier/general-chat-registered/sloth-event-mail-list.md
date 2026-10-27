@@ -16,7 +16,7 @@ I'm pondering some small quest events. If you would like to receive an email not
 
 Email breeze @ slothmud.org and put event list in the subject line to get added.
 
-** Note from Breeze : Please include  your character name in the email!
+\*\* Note from Breeze : Please include your character name in the email!
 
 </div>
 

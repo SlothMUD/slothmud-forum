@@ -18,6 +18,6 @@ The one that pops on Witch Doctor in Dark Covenant. Will pay well..coins.
 
 <div class="post" data-post-id="7131" data-author="Weasel" data-date="2005-06-13T14:30:11+00:00" data-subject="">
 
-got one, thanks Mosaix :)
+got one, thanks Mosaix <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

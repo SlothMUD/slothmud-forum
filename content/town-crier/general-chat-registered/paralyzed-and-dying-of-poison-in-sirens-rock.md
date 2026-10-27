@@ -12,7 +12,7 @@ post_count: 2
 
 <div class="post" data-post-id="18038" data-author="bubba" data-date="2007-04-18T17:14:49+00:00" data-subject="paralyzed and dying of poison in sirens rock">
 
-help :-)
+help <img src="/images/smilies/icon_e_smile.svg" alt=":-)" title=":-)" width="15" height="15" class="smiley nozoom">
 
 Bubba
 

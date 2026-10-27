@@ -40,7 +40,7 @@ please send the amulet of sanguinous magic (sp) to me, Rodek, with fee.
 
 indeed... who's this getting sent to?
 
-[20c 10d  8m  7b] Nurse Goodbody
+[20c 10d 8m 7b] Nurse Goodbody
 
 can u ship please? if it cost extra coinage, I'll cover charges.. also
 

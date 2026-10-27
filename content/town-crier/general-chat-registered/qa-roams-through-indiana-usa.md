@@ -14,10 +14,10 @@ post_count: 1
 
 Hey all.
 
-Touring Inidana top to bottom (I-65) on Sunday.  Wondering if anyone wants to meet up to say hi.
+Touring Inidana top to bottom (I-65) on Sunday. Wondering if anyone wants to meet up to say hi.
 
-I am in New Buffalo (MI) for the weekend, then off to another wonderful buisness week in Louisville.  Post here or mudmail, but as I am not very mud-active these days, posting may be a better bet.  :D
+I am in New Buffalo (MI) for the weekend, then off to another wonderful buisness week in Louisville. Post here or mudmail, but as I am not very mud-active these days, posting may be a better bet. <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
--Qa
+\-Qa
 
 </div>

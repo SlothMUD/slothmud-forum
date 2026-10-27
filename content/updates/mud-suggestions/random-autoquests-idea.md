@@ -30,11 +30,11 @@ next time player will be able to ask about random autoquest only in NN
 
 minutes ( 30 minutes? ).
 
-The tasks may be various, for  example, quester offers to kill a certain 
+The tasks may be various, for example, quester offers to kill a certain 
 
 mob on currect continent ( player might have solve a little puzzle to figure 
 
-out  which mob required ). Also quester may ask player to bring him a 
+out which mob required ). Also quester may ask player to bring him a 
 
 certain item, or number of items ( remember slices quests ? :).
 

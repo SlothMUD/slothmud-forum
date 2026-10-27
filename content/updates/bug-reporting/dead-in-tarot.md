@@ -16,17 +16,17 @@ resolved, thanks
 
 sometimes you just kick yourself...for not having a recall...
 
-<89/722hp+26hr26/576ma+41mr170/214mv indoors at 6 o'clock am -10.0ac+7hit+12dam+4morals>
+\<89/722hp+26hr26/576ma+41mr170/214mv indoors at 6 o'clock am -10.0ac+7hit+12dam+4morals\>
 
 Ok.
 
 You form a cone of frost in your hand and launch it at the Lovers.
 
-<89/722hp+26hr2/576ma+41mr170/214mv indoors at 6 o'clock am -10.0ac+7hit+12dam+4morals>
+\<89/722hp+26hr2/576ma+41mr170/214mv indoors at 6 o'clock am -10.0ac+7hit+12dam+4morals\>
 
 You do not have that item.
 
-<90/722hp+26hr4/576ma+41mr172/214mv indoors at 6 o'clock am -10.0ac+7hit+12dam+4morals>
+\<90/722hp+26hr4/576ma+41mr172/214mv indoors at 6 o'clock am -10.0ac+7hit+12dam+4morals\>
 
 You pierce the Lovers extremely hard.
 
@@ -54,12 +54,13 @@ You have been KILLED!!
 
 <div class="post" data-post-id="10904" data-author="Autolycos" data-date="2006-02-24T18:39:57+00:00" data-subject="Re: dead in tarot!">
 
-dear god man....  :shock: 
+dear god man.... <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
-with that prompt spam,  its no wonder how you died..
+with that prompt spam, its no wonder how you died..
 
-i personally like to die due to good old fashioned stupidity.. :twisted: 
+i personally like to die due to good old fashioned stupidity.. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-<89/722hp+26hr26/576ma+41mr170/214mv indoors at 6 o'clock am -10.0ac+7hit+12dam+4morals>[/quote:3iev9noh]
+> <strong>brand wrote:</strong>
+> \<89/722hp+26hr26/576ma+41mr170/214mv indoors at 6 o'clock am -10.0ac+7hit+12dam+4morals\>
 
 </div>

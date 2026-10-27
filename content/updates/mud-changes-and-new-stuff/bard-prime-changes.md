@@ -14,21 +14,21 @@ post_count: 2
 
 Two key changes for bard primes to go with the already implemented new slot for instrument....
 
-1) Bard primes now gain natural charisma with bard levels(similar to monks and damage reduction).
+1\) Bard primes now gain natural charisma with bard levels(similar to monks and damage reduction).
 
-2) A new level 20 bard prime skill, allows playing an instrument and casting at the same time. Help file below.
+2\) A new level 20 bard prime skill, allows playing an instrument and casting at the same time. Help file below.
 
 help adaptation
 
 ADAPTATION TO CIRCUMSTANCES
 
-See Also:     cast play sing
+See Also: cast play sing
 
-Level:        Bard prime 20
+Level: Bard prime 20
 
-Manual:       a guide to adaptation of circumstances
+Manual: a guide to adaptation of circumstances
 
-Duration:     Immediate
+Duration: Immediate
 
 After years of practice, Jacinto has mastered the art of casting spells while
 
@@ -50,7 +50,7 @@ Splork
 
 <div class="post" data-post-id="29184" data-author="*Splork*" data-date="2009-05-16T13:20:47+00:00" data-subject="Bard mana regen">
 
-1) Bard prime and secondary have had their mana regen increased. 
+1\) Bard prime and secondary have had their mana regen increased. 
 
 We will not be making anymore changes to bards until we see where we are with this week's changes. We should be pretty close to where we want to be.
 

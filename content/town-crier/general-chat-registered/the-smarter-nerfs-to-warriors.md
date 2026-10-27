@@ -32,7 +32,7 @@ Another smarter idea would have been to not discharge the warcry until a mob die
 
 <div class="post" data-post-id="39246" data-author="*teker*" data-date="2019-07-11T17:37:05+00:00" data-subject="Re: The Smarter Nerfs To Warriors...">
 
-I'm slammed right now but I'll take a look at the suggestions.  The current change made sense to me based on the contents of the help file.  It specifically mentions "other people in your group..."
+I'm slammed right now but I'll take a look at the suggestions. The current change made sense to me based on the contents of the help file. It specifically mentions "other people in your group..."
 
 </div>
 
@@ -40,19 +40,19 @@ I'm slammed right now but I'll take a look at the suggestions.  The current chan
 
 I'll live with what ever you decide Teker. The change has hurt me quite a bit... probably 25 damage less per round all things considered, factoring in the 5 hits -3dam, the stab, and the spell save.
 
-As far as I know the damage has always been applied to a warrior solo for just as long as the help file has suggested it applied it to the group. Could argue that point either way.  
+As far as I know the damage has always been applied to a warrior solo for just as long as the help file has suggested it applied it to the group. Could argue that point either way. 
 
 There are numerous existing issues with it...
 
-* Deathblows don't count. (Think Splork may have even admitted this was a mistake in old posts)
+\* Deathblows don't count. (Think Splork may have even admitted this was a mistake in old posts)
 
-* Small stabs mobs count just as much as large group mobs.
+\* Small stabs mobs count just as much as large group mobs.
 
-* I don't know what the cap is, but suspect most of us are WAY over it.
+\* I don't know what the cap is, but suspect most of us are WAY over it.
 
-* It can be re-cried when the mob is not dead yet.
+\* It can be re-cried when the mob is not dead yet.
 
-* It's benefits could be layered better to maybe include hit or ac, or different for solo or group.
+\* It's benefits could be layered better to maybe include hit or ac, or different for solo or group.
 
 I know your not one to change things radically, you prefer to stick to original intentions, but just floating those ideas. The good thing about warcry... it's that it's actually a skill that's earned, and so it hurts to have some of that benefit lost if in fact it wasn't even the target of the change.
 
@@ -60,6 +60,6 @@ I know your not one to change things radically, you prefer to stick to original 
 
 <div class="post" data-post-id="39253" data-author="Roga" data-date="2019-07-12T20:01:26+00:00" data-subject="Re: The Smarter Nerfs To Warriors...">
 
-I second Gorka's suggestions and would add that a portion of larger groups start with two-person groups.  Perhaps a scaling/layering or some benefits retained for those.
+I second Gorka's suggestions and would add that a portion of larger groups start with two-person groups. Perhaps a scaling/layering or some benefits retained for those.
 
 </div>

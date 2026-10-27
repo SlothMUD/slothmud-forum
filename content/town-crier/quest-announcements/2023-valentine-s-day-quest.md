@@ -18,10 +18,10 @@ There will be a smallish quest for Valentines on Sunday February 19th at 10AM Pa
 
 A timer link has been provided below:
 
-[<LINK_TEXT text="https://www.tickcounter.com/countdown/3 ... -day-quest">https://www.tickcounter.com/countdown/3844866/2023-slothmud-valentines-day-quest</LINK_TEXT>](https://www.tickcounter.com/countdown/3844866/2023-slothmud-valentines-day-quest)
+[https://www.tickcounter.com/countdown/3844866/2023-slothmud-valentines-day-quest](https://www.tickcounter.com/countdown/3844866/2023-slothmud-valentines-day-quest)
 
 See you there.
 
---D
+\--D
 
 </div>

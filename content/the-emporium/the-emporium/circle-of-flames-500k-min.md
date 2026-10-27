@@ -22,9 +22,9 @@ Weight: 1, Value: 480000, Worn in: TAKE WAIST
 
 Can affect you as:
 
-    Affects: ARMOR by -3
+ Affects: ARMOR by -3
 
-    Affects: REGEN_MANA by 1
+ Affects: REGEN\_MANA by 1
 
 Only those who are at least master magic users and also experienced clerics 
 

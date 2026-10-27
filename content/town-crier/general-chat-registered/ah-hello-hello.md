@@ -16,7 +16,7 @@ so i battled the wolrd of warcraft..... and the hell with it....
 
 glad eveyone held down the fort... back soon...
 
-brand :twisted:
+brand <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -24,17 +24,17 @@ brand :twisted:
 
 wow cool brand glad you're back and all!
 
-Brand :!:  :twisted:
+Brand <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23820" data-author="jezer" data-date="2008-04-17T05:29:19+00:00" data-subject="">
 
-I guess Weasel hasn't told you how he lost all the SMAC resources in a poker game with the ~pirates~... 
+I guess Weasel hasn't told you how he lost all the SMAC resources in a poker game with the \~pirates\~... 
 
 Vaults... Gone... 
 
-Favourite fishing rods... *poof* 
+Favourite fishing rods... \*poof\* 
 
 Last we saw of Weasel, he was drunk in the gutter begging for something to eat outside the Lyme Candy Vendor. It's real sad...
 
@@ -52,9 +52,9 @@ can i have some of what you guys smoking?
 
 LOL Jezer!
 
-wb Brand  :) 
+wb Brand <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> 
 
-Sorry Yasik, you couldn't handle what we smoke - it's a =sMAc= ~pirates~ hybrid bud that is roughly equivalent to a pan galactic gargle blaster.. which is what we usually use as a chaser. Arrrr.
+Sorry Yasik, you couldn't handle what we smoke - it's a =sMAc= \~pirates\~ hybrid bud that is roughly equivalent to a pan galactic gargle blaster.. which is what we usually use as a chaser. Arrrr.
 
 </div>
 
@@ -68,11 +68,16 @@ wb brandholio
 
 <div class="post" data-post-id="23838" data-author="Medios" data-date="2008-04-18T01:01:42+00:00" data-subject="">
 
-LOL Jezer!
-
-wb Brand  :) 
-
-Sorry Yasik, you couldn't handle what we smoke - [b:2q0tgx2a]it's a =sMAc= ~pirates~[/b:2q0tgx2a] hybrid bud that is roughly equivalent to a pan galactic gargle blaster.. which is what we usually use as a chaser. Arrrr.[/quote:2q0tgx2a]
+> <strong>Weasel wrote:</strong>
+> LOL Jezer!
+> 
+> 
+> 
+> wb Brand <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> 
+> 
+> 
+> 
+> Sorry Yasik, you couldn't handle what we smoke - <strong>it's a =sMAc= \~pirates\~</strong> hybrid bud that is roughly equivalent to a pan galactic gargle blaster.. which is what we usually use as a chaser. Arrrr.
 
 Sounds like babbish to me.
 

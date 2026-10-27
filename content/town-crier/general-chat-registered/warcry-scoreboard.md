@@ -40,9 +40,10 @@ Think they'd probably want to reset everyone first, seeing as how when the skill
 
 <div class="post" data-post-id="17051" data-author="Autolycos" data-date="2007-02-22T01:14:33+00:00" data-subject="">
 
-Think they'd probably want to reset everyone first[/quote:1pvq5p1q]
+> <strong>Weasel wrote:</strong>
+> Think they'd probably want to reset everyone first
 
-spoken like a true loser with only 6 warcries!  :twisted:
+spoken like a true loser with only 6 warcries! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

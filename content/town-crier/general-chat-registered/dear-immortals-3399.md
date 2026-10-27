@@ -22,9 +22,9 @@ Your an idiot
 
 <div class="post" data-post-id="30983" data-author="Toxis" data-date="2010-03-24T21:29:40+00:00" data-subject="">
 
-If you make changes in an area that's been run one billion times and don't tell the players, expect a shitstorm headed directly at you.  I think you owe Rogue some exp.  66 deaths wasn't enough last week?
+If you make changes in an area that's been run one billion times and don't tell the players, expect a shitstorm headed directly at you. I think you owe Rogue some exp. 66 deaths wasn't enough last week?
 
--Toxis
+\-Toxis
 
 </div>
 
@@ -40,107 +40,118 @@ Splork
 
 <div class="post" data-post-id="30986" data-author="Gandolf" data-date="2010-03-24T22:41:55+00:00" data-subject="Apologies">
 
-I've apologized he changed it back, regardless we know about the change and I could have just announced it on here instead of blaming imms etc... Shit happens, Shit changes.. I'm not a common leader on sloth4 and I was on sloth3... I led alot on sloth 3 and it was fun, I've led twice or so on sloth4 and its harder, yes you get more rewards etc.. but that doesnt make the leading part of it any easier. I could have just gone back and killed that stupid worm that charged us instead :)... Regardless its done flags removed move on... I apologized for personally attacking Splork, wasn't my intentions I was just pissed and trying to make a point and made it the wrong way... Thanks Rick for the changes you make in the mud good bad / etc... I'll probably end up leading regardless anyway, but its hard to encourage new leaders :)
+I've apologized he changed it back, regardless we know about the change and I could have just announced it on here instead of blaming imms etc... Shit happens, Shit changes.. I'm not a common leader on sloth4 and I was on sloth3... I led alot on sloth 3 and it was fun, I've led twice or so on sloth4 and its harder, yes you get more rewards etc.. but that doesnt make the leading part of it any easier. I could have just gone back and killed that stupid worm that charged us instead <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">... Regardless its done flags removed move on... I apologized for personally attacking Splork, wasn't my intentions I was just pissed and trying to make a point and made it the wrong way... Thanks Rick for the changes you make in the mud good bad / etc... I'll probably end up leading regardless anyway, but its hard to encourage new leaders <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="30987" data-author="Toxis" data-date="2010-03-24T23:12:26+00:00" data-subject="">
 
-Here, let me stitch those on back between your legs, Gandolf. :)
+Here, let me stitch those on back between your legs, Gandolf. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="30988" data-author="Bennett" data-date="2010-03-24T23:34:16+00:00" data-subject="">
 
-Sounds like fun to me.   I would say put them back in Splork, only it seems that the low risk / high return group xp is still not enough for some people.
+Sounds like fun to me. I would say put them back in Splork, only it seems that the low risk / high return group xp is still not enough for some people.
 
-If I fly off the handle, will you raise solo xp ? ;)
+If I fly off the handle, will you raise solo xp ? <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="30989" data-author="Gandolf" data-date="2010-03-25T00:24:03+00:00" data-subject="">
 
-Regardless its fixed, and either way, face it your gonna still lead, and so are whoever ends up leading in the future of this game... If you were leading in the first place we would have had more joiners and we wouldnt have cf'd in the first place :)
+Regardless its fixed, and either way, face it your gonna still lead, and so are whoever ends up leading in the future of this game... If you were leading in the first place we would have had more joiners and we wouldnt have cf'd in the first place <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="30991" data-author="Bennett" data-date="2010-03-25T01:40:00+00:00" data-subject="">
 
-Desert xp is low risk? 
+> <strong>jezer wrote:</strong>
+> Desert xp is low risk? 
+> 
+> 
+> 
+> Deaths last week...
+> 
+> 
+> 
+> Rogue	66
+> 
+> Godz 63
+> 
+> Scarlet	27
+> 
+> Dsfren	17
+> 
+> Stab 17
+> 
+> Tuk 14
+> 
+> Whiff 13
+> 
+> Paka 19
+> 
+> Chelle	17
+> 
+> Jex 17
+> 
+> Necro	16
+> 
+> Cozy 13
+> 
+> Nova 11
+> 
+> Poit 9
 
-Deaths last week...
-
-Rogue	66
-
-Godz	        63
-
-Scarlet	27
-
-Dsfren	17
-
-Stab	        17
-
-Tuk	        14
-
-Whiff 	13
-
-Paka	        19
-
-Chelle	17
-
-Jex	        17
-
-Necro	16
-
-Cozy	        13
-
-Nova	        11
-
-Poit	        9
-
-[/quote:28wdxt2a]
-
-And most likely someone was right there to throw a raise on or grab their corpse.   A count of the # shocks would be a lot more relevant if you want to make a statement about risk.
+And most likely someone was right there to throw a raise on or grab their corpse. A count of the # shocks would be a lot more relevant if you want to make a statement about risk.
 
 </div>
 
 <div class="post" data-post-id="30992" data-author="jezer" data-date="2010-03-25T01:46:15+00:00" data-subject="">
 
-Desert xp is low risk? 
-
-Deaths last week...
-
-Rogue	66
-
-Godz	        63
-
-Scarlet	27
-
-Dsfren	17
-
-Stab	        17
-
-Tuk	        14
-
-Whiff 	13
-
-Paka	        19
-
-Chelle	17
-
-Jex	        17
-
-Necro	16
-
-Cozy	        13
-
-Nova	        11
-
-Poit	        9
-
-[/quote:3m8x74g2]
-
-And most likely someone was right there to throw a raise on or grab their corpse.   A count of the # shocks would be a lot more relevant if you want to make a statement about risk.[/quote:3m8x74g2]
+> <strong>Bennett wrote:</strong>
+> > <strong>jezer wrote:</strong>
+> > Desert xp is low risk? 
+> > 
+> > 
+> > 
+> > Deaths last week...
+> > 
+> > 
+> > 
+> > Rogue	66
+> > 
+> > Godz 63
+> > 
+> > Scarlet	27
+> > 
+> > Dsfren	17
+> > 
+> > Stab 17
+> > 
+> > Tuk 14
+> > 
+> > Whiff 13
+> > 
+> > Paka 19
+> > 
+> > Chelle	17
+> > 
+> > Jex 17
+> > 
+> > Necro	16
+> > 
+> > Cozy 13
+> > 
+> > Nova 11
+> > 
+> > Poit 9
+> 
+> 
+> 
+> 
+> 
+> And most likely someone was right there to throw a raise on or grab their corpse. A count of the # shocks would be a lot more relevant if you want to make a statement about risk.
 
 Ok, chat to whiff about today.
 
@@ -152,43 +163,56 @@ seriously, xp risk shouldn't be directly linked to the number of deaths.
 
 stupidly run groups will result in 66 deaths a week even in kobolds
 
-Desert xp is low risk? 
-
-Deaths last week...
-
-Rogue	66
-
-Godz	        63
-
-Scarlet	27
-
-Dsfren	17
-
-Stab	        17
-
-Tuk	        14
-
-Whiff 	13
-
-Paka	        19
-
-Chelle	17
-
-Jex	        17
-
-Necro	16
-
-Cozy	        13
-
-Nova	        11
-
-Poit	        9
-
-[/quote:20w2gzcv]
-
-And most likely someone was right there to throw a raise on or grab their corpse.   A count of the # shocks would be a lot more relevant if you want to make a statement about risk.[/quote:20w2gzcv]
-
-Ok, chat to whiff about today.[/quote:20w2gzcv]
+> <strong>jezer wrote:</strong>
+> > <strong>Bennett wrote:</strong>
+> > > <strong>jezer wrote:</strong>
+> > > Desert xp is low risk? 
+> > > 
+> > > 
+> > > 
+> > > Deaths last week...
+> > > 
+> > > 
+> > > 
+> > > Rogue	66
+> > > 
+> > > Godz 63
+> > > 
+> > > Scarlet	27
+> > > 
+> > > Dsfren	17
+> > > 
+> > > Stab 17
+> > > 
+> > > Tuk 14
+> > > 
+> > > Whiff 13
+> > > 
+> > > Paka 19
+> > > 
+> > > Chelle	17
+> > > 
+> > > Jex 17
+> > > 
+> > > Necro	16
+> > > 
+> > > Cozy 13
+> > > 
+> > > Nova 11
+> > > 
+> > > Poit 9
+> > 
+> > 
+> > 
+> > 
+> > 
+> > And most likely someone was right there to throw a raise on or grab their corpse. A count of the # shocks would be a lot more relevant if you want to make a statement about risk.
+> 
+> 
+> 
+> 
+> 
+> Ok, chat to whiff about today.
 
 </div>
 
@@ -196,9 +220,9 @@ Ok, chat to whiff about today.[/quote:20w2gzcv]
 
 Mornin' folks,
 
-Wow.  Those death counts really are high.  But let's really look at them for a sec.  We'll take the top three and analyze them a bit instead of immediately taking everything out of context.
+Wow. Those death counts really are high. But let's really look at them for a sec. We'll take the top three and analyze them a bit instead of immediately taking everything out of context.
 
-For simplicity's sake, let's say all these deaths were from desert and mystica.  Let's assume the worse case scenario, and that each death was a shock, with enough exp to lose a prime level (40mil).
+For simplicity's sake, let's say all these deaths were from desert and mystica. Let's assume the worse case scenario, and that each death was a shock, with enough exp to lose a prime level (40mil).
 
 63 deaths 2.52 bil
 
@@ -206,7 +230,7 @@ For simplicity's sake, let's say all these deaths were from desert and mystica. 
 
 27 deaths 1.08 bil
 
-Now let's take that from the exp that was gained.  
+Now let's take that from the exp that was gained. 
 
 5.667 bil - 2.52 bil = 3.147 bil
 
@@ -214,7 +238,7 @@ Now let's take that from the exp that was gained.
 
 2.049 bil - 1.08 bil = 969 mil
 
-Looking at these figures, the top two deaths still have more exp than every other person below them save one (Tuk at 2.8bil).  Third place still has an impressive gain with nearly a billion.  Remember, this is assuming EVERY death ended in a shock/corpse, which I'm sure is exactly what happened last week.
+Looking at these figures, the top two deaths still have more exp than every other person below them save one (Tuk at 2.8bil). Third place still has an impressive gain with nearly a billion. Remember, this is assuming EVERY death ended in a shock/corpse, which I'm sure is exactly what happened last week.
 
 Now let's look at some of those who did NOT die 60+ times, and do the same thing.
 
@@ -230,13 +254,13 @@ Remember, this is assuming EVERY death resulted in a shock/corpse.
 
 Wait, I'm sorry, what exactly are folks complaining about?
 
-The exp gained in these two areas alone is absurd.  Despite the daunting damage in desert, it's remarkably safe, largely due to the fact that, as Toxis says, it's been run 'one billion times'.  Leaders know exactly what to expect, it just becomes automatic after a point.  The groups that run there are enormous, almost quest size.  To really screw up, you'd have to either really try, push the group to its absolute limit, or afk the entire time, all of which I'm sure is the imms fault.  
+The exp gained in these two areas alone is absurd. Despite the daunting damage in desert, it's remarkably safe, largely due to the fact that, as Toxis says, it's been run 'one billion times'. Leaders know exactly what to expect, it just becomes automatic after a point. The groups that run there are enormous, almost quest size. To really screw up, you'd have to either really try, push the group to its absolute limit, or afk the entire time, all of which I'm sure is the imms fault. 
 
-Folks die, they get raised or shocked, they log back in, some gripe, others don't, Sloth moves on.  If there's a CF, folks go and get the corpses back, or someone staffs, and raise exp aplenty for clerics.
+Folks die, they get raised or shocked, they log back in, some gripe, others don't, Sloth moves on. If there's a CF, folks go and get the corpses back, or someone staffs, and raise exp aplenty for clerics.
 
-I'm sure if I chat with whiff or 95% of the other folks who have shocked or corpsed, some might gripe for a bit, but all just pick themselves up and move on.  At that exp rate in desert and mystica, the experience will be recouped in an hour or two, tops.  Even the folks here eventually collected themselves, which is good.
+I'm sure if I chat with whiff or 95% of the other folks who have shocked or corpsed, some might gripe for a bit, but all just pick themselves up and move on. At that exp rate in desert and mystica, the experience will be recouped in an hour or two, tops. Even the folks here eventually collected themselves, which is good.
 
-So please, instead of immediately lashing out, please just take a second and take a deep breath, relax, step away from the screen for a sec and then just ask someone.  Imms are more inclined to listen and help if it's a real discussion instead of a tirade against how evil/stupid/bad they are.  I mean, how would you react if the imms publicly decry players for ruining the mud and calling them 'retarded, ruining areas, &c'.  Remember, we're still people too.
+So please, instead of immediately lashing out, please just take a second and take a deep breath, relax, step away from the screen for a sec and then just ask someone. Imms are more inclined to listen and help if it's a real discussion instead of a tirade against how evil/stupid/bad they are. I mean, how would you react if the imms publicly decry players for ruining the mud and calling them 'retarded, ruining areas, \&c'. Remember, we're still people too.
 
 Chobbs!
 
@@ -244,9 +268,10 @@ Chobbs!
 
 <div class="post" data-post-id="30999" data-author="Gandolf" data-date="2010-03-25T08:38:56+00:00" data-subject="">
 
-[quote:1wlwbxai]Leaders know exactly what to expect, it just becomes automatic after a point. The groups that run there are enormous, almost quest size. To really screw up, you'd have to either really try, push the group to its absolute limit[/quote:1wlwbxai]
+> <strong>Quote:</strong>
+> Leaders know exactly what to expect, it just becomes automatic after a point. The groups that run there are enormous, almost quest size. To really screw up, you'd have to either really try, push the group to its absolute limit
 
-Now this would have been a correct statement, however the group that was running was not epic size nor was it a very *quick moving* desert swiping group, it was a small group, with 3 front liners, and maybe 8 back liners, if that... So yes, if it had been one of those so called quest size group, I would have been fine... However it wasn't we had just a couple mages a couple clerics 2-3 thieves and 1 front line warrior or so... We had died to the bloated mobs of aged Exp a few times starting the run, typical, first run is always the worst... I definately didn't need the help of 2 charging mobs that have never charged in any version of sloth :)
+Now this would have been a correct statement, however the group that was running was not epic size nor was it a very \*quick moving\* desert swiping group, it was a small group, with 3 front liners, and maybe 8 back liners, if that... So yes, if it had been one of those so called quest size group, I would have been fine... However it wasn't we had just a couple mages a couple clerics 2-3 thieves and 1 front line warrior or so... We had died to the bloated mobs of aged Exp a few times starting the run, typical, first run is always the worst... I definately didn't need the help of 2 charging mobs that have never charged in any version of sloth <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -258,7 +283,7 @@ I was getting 800k for a stone giant in that group, so it wasn't really great xp
 
 We need extraordinary amounts of xp to get stronger in this new game... if you seriously think that making this journey harder is going to impress us, grow a brain. 
 
-Do you really think this "oh but it's too easy, lets chuck in crazy stuff to chuck them out" wins us over? Do you really think you do these changes for a greater good? Are not the players the reason for the game?!  do ya think we are going to jump around and say, hey! this is too easy, ethically I am now going to solo kobolds to earn my way there? If we thought this way, we wouldn't run desert would we! We want there and we want there fast. What you did was such a stupid change, it was only going to get us once... and we would change tactics for the next time. 
+Do you really think this "oh but it's too easy, lets chuck in crazy stuff to chuck them out" wins us over? Do you really think you do these changes for a greater good? Are not the players the reason for the game?! do ya think we are going to jump around and say, hey! this is too easy, ethically I am now going to solo kobolds to earn my way there? If we thought this way, we wouldn't run desert would we! We want there and we want there fast. What you did was such a stupid change, it was only going to get us once... and we would change tactics for the next time. 
 
 So grouping and xp was too good in your opinion, and all the imms can come up with as a think tank is to make two mobs charge and catch us out once?!? It's that kind of stupidity that really annoys me as a player. It makes me realize I am going to be very disappointed if i let myself get attached too much to this game. It was completely small minded. No better than tripping up a baby. Satisfied? Justified?
 
@@ -298,19 +323,22 @@ T
 
 <div class="post" data-post-id="31027" data-author="Medios" data-date="2010-04-06T22:00:18+00:00" data-subject="">
 
-The only problem I see here is that Minstrel wasn't leading.  When people get comfortable running around in castles and MH they don't need to step up to the desert.  I always personally thought it was crap that the mobs were the same every time and that I could run thru desert and necropolis without regen non stop.  Believe me if it was still fun running around and doing the same crap I would still be playing.  I had way more fun killing epics than desert (some of which were near impossible to defeat).  Some people play for the elite part of the game, the risky part, the nobody else has crystal sleeves part.  The other 99.9% expect everything to be easy and handed to them.  They think if they bot in enough that one day they will just magically learn the ability to actually play the game.  Sure levels help but the game is much more than levels.  This game is so slow paced compared to other video games that its ridiculous that people whine.  Especially when you consider the fact that they "follow" someone else.  
+The only problem I see here is that Minstrel wasn't leading. When people get comfortable running around in castles and MH they don't need to step up to the desert. I always personally thought it was crap that the mobs were the same every time and that I could run thru desert and necropolis without regen non stop. Believe me if it was still fun running around and doing the same crap I would still be playing. I had way more fun killing epics than desert (some of which were near impossible to defeat). Some people play for the elite part of the game, the risky part, the nobody else has crystal sleeves part. The other 99.9% expect everything to be easy and handed to them. They think if they bot in enough that one day they will just magically learn the ability to actually play the game. Sure levels help but the game is much more than levels. This game is so slow paced compared to other video games that its ridiculous that people whine. Especially when you consider the fact that they "follow" someone else. 
 
 I honestly don't think about sloth much, but when I do I am sad that the elite part of the game has turned into this.
 
-PS Anyone who doesn't like Rick can kiss my ass.  He kept this game going while you been crying like bitches.
+PS Anyone who doesn't like Rick can kiss my ass. He kept this game going while you been crying like bitches.
 
 </div>
 
 <div class="post" data-post-id="31030" data-author="Gimlet" data-date="2010-04-07T11:11:23+00:00" data-subject="">
 
-I honestly don't think about sloth much, but when I do I am sad that the elite part of the game has turned into this.
-
-PS Anyone who doesn't like Rick can kiss my ass.  He kept this game going while you been crying like bitches.[/quote:1stakzi2]
+> <strong>Medios wrote:</strong>
+> I honestly don't think about sloth much, but when I do I am sad that the elite part of the game has turned into this.
+> 
+> 
+> 
+> PS Anyone who doesn't like Rick can kiss my ass. He kept this game going while you been crying like bitches.
 
 amen bro
 
@@ -320,9 +348,12 @@ amen bro
 
 To Medios, Gimlet and all other legends in their own minds who want to perpetuate this nonsensical and out of date thread,
 
-There are a lot of good players here, and a lot of good imms, most the time we work together well this sort of thread is just quite frankly unhelpful.
-
-T[/quote:xo54dvc9]
+> <strong>Thraxas wrote:</strong>
+> There are a lot of good players here, and a lot of good imms, most the time we work together well this sort of thread is just quite frankly unhelpful.
+> 
+> 
+> 
+> T
 
 Thanks for stirring up mud that had settled, given that you dont seem to be playing anymore I do wonder what exactly your motives are in doing this. Nice play boys keep it up and we'll all lol you til our sides split with the entertainment you bring to us with the incisive and witty truth you seem to think you bring us.
 

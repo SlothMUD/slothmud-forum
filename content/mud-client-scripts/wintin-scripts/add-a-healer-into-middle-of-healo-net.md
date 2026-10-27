@@ -14,19 +14,19 @@ post_count: 1
 
 Usage:
 
-add <new healer's name>
+add \<new healer's name\>
 
-addafter <previous healer's name>
+addafter \<previous healer's name\>
 
 Script:
 
-#alias  {add} {#var newhealer %0} 
+\#alias {add} {#var newhealer %0} 
 
-#alias  {addafter} {#loop {$healo}{#if {[%%0]=[%%%0]}{#showme found %%%0;#push healotemp $$$0, $newhealer} else {#push healotemp %%0}};#loop {$@healo}{#cr};#loop {$@healotemp}{#push healo %0};#showme {Healo is now $healo}} 
+\#alias {addafter} {#loop {$healo}{#if {[%%0]=[%%%0]}{#showme found %%%0;#push healotemp $$$0, $newhealer} else {#push healotemp %%0}};#loop {$@healo}{#cr};#loop {$@healotemp}{#push healo %0};#showme {Healo is now $healo}} 
 
 I think u need to make a null variable for healotemp first tho b4 u start using it.
 
-#var healotemp
+\#var healotemp
 
 Its kind of ugly, but it works well.
 

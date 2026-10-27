@@ -28,11 +28,11 @@ Zuuul tells you 'necro'
 
 Ryvrals tells you 'Mage'
 
-Edd tells you 'ma/cl/wa/th :))'
+Edd tells you 'ma/cl/wa/th <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">)'
 
-Merlin tells you 'thief :)'
+Merlin tells you 'thief <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">'
 
-Crush tells you 'my classo 8*)'
+Crush tells you 'my classo 8\*)'
 
 Spud tells you 'heh damn not played many'
 
@@ -56,9 +56,9 @@ Woody tells you 'prolly add some necro now tho'
 
 Wally tells you 'don't have one really, depends on the purpose i guess'
 
-Zuuul tells you 'i dont even need to think about that :P'
+Zuuul tells you 'i dont even need to think about that <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">'
 
-Greensleeves tells you 'all depends on what I'm doing ... :)'
+Greensleeves tells you 'all depends on what I'm doing ... <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">'
 
 Diku tells you 'heyas brad, hmm probabl flight was'
 
@@ -70,11 +70,11 @@ Brady tells you 'this is the only one i know'
 
 Shyla tells you 'i do know i would hav ecleric in everythning i play'
 
-Cicada tells you 'ne/dr/cl/ba :)'
+Cicada tells you 'ne/dr/cl/ba <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">'
 
-Zing tells you 'Still giguring it out.  I do like this one, CL ma wa th'
+Zing tells you 'Still giguring it out. I do like this one, CL ma wa th'
 
-Van tells you 'i don't know if i have played enough to hav ea favorite :)'
+Van tells you 'i don't know if i have played enough to hav ea favorite <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">'
 
 Scrugg has joined channel: hosers.
 
@@ -82,13 +82,13 @@ Cami tells you 'I haven't tried enough of them, you?'
 
 Acme tells you 'nothing in partiular, really'
 
-Scrugg[hosers]> 'ARRG'
+Scrugg[hosers]\> 'ARRG'
 
-Spud tells you 'doh :P'
+Spud tells you 'doh <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">'
 
 Shyla tells you 'i enjoy shyla and i enjoy jacinda'
 
-Marushu tells you 'its always been a mage :)'
+Marushu tells you 'its always been a mage <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">'
 
 Brady tells you 'but necro druid is crazy'
 
@@ -124,7 +124,7 @@ Zing tells you 'I move slow and like to help, hence the cl prim is nice'
 
 Acme tells you 'for me it is trying to guess which will be ruined the least in the future 
 
-:)'
+<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">'
 
 Shyla tells you 'jacinda has confusion which is sweet and shyla has disengage and 
 
@@ -134,13 +134,13 @@ Farfalla tells you 'Hmmmm... I'm partial to Mage I think... for the item locatin
 
 alone... I haven't even tried it, but it seems awesome.'
 
-> Clink is beeping you.
+\> Clink is beeping you.
 
-Zing tells you 'but I also solo a lot, which cl prim is not so good for...  Sorry you 
+Zing tells you 'but I also solo a lot, which cl prim is not so good for... Sorry you 
 
 asked yet?'
 
-Clink tells you 'lot's of interesting tells.  thought you'd be interested :)'
+Clink tells you 'lot's of interesting tells. thought you'd be interested <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">'
 
 Aife gossips-- 'yes'
 
@@ -158,21 +158,21 @@ Wally auctions-- ' bleh'
 
 Brady tells you 'there?'
 
-In response.... No, Brady, I wasn't there. :)~
+In response.... No, Brady, I wasn't there. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">\~
 
--Toxis
+\-Toxis
 
 </div>
 
 <div class="post" data-post-id="8820" data-author="13" data-date="2005-09-25T11:04:28+00:00" data-subject="">
 
-Good one Clink :)
+Good one Clink <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="8821" data-author="Yasik" data-date="2005-09-25T17:07:21+00:00" data-subject="">
 
-[img:lnu6vrid]http://yasik.mci.kiev.ua/phun/LOL.jpg[/img:lnu6vrid]
+![](http://yasik.mci.kiev.ua/phun/LOL.jpg)
 
 </div>
 
@@ -186,7 +186,7 @@ Zarf tells you 'know any good solo exp runs for a wa prime?'
 
 Slice tells you 'can I borrow a few gold coins to buy some iron ration?'
 
-Pal  tells you 'can you wake and feast for the group?'
+Pal tells you 'can you wake and feast for the group?'
 
 Blade tells you 'Should I level quad 3 now or wait to 4,000 exp to level 40 prime?' 
 
@@ -196,9 +196,9 @@ Jake tells you 'any suggestions for making the mud better?'
 
 (I can only assume this one was successful since Jake winded me.)
 
-There have been many more, but I like to recycle them. :)
+There have been many more, but I like to recycle them. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-Also, please keep in mind I do this only to have fun at the expense of the echoed.  The more outrageous answers the better, for everyone!
+Also, please keep in mind I do this only to have fun at the expense of the echoed. The more outrageous answers the better, for everyone!
 
 Cheers
 
@@ -214,20 +214,21 @@ And what is YOUR favorite classo?
 
 <div class="post" data-post-id="8827" data-author="guest" data-date="2005-09-26T08:48:04+00:00" data-subject="">
 
-[quote:2abvxrsd]And what is YOUR favorite classo?[/quote:2abvxrsd]
+> <strong>Quote:</strong>
+> And what is YOUR favorite classo?
 
-For Clinker?  Easy one : Immortal/AFK/AFK/AFK    :twisted:
+For Clinker? Easy one : Immortal/AFK/AFK/AFK <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="8829" data-author="Autolycos" data-date="2005-09-26T11:32:19+00:00" data-subject="">
 
-now that is pretty damn funny!   :twisted:
+now that is pretty damn funny! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="8841" data-author="Ironwolf" data-date="2005-09-26T16:12:16+00:00" data-subject="">
 
-hehe that was funny i like that :)
+hehe that was funny i like that <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

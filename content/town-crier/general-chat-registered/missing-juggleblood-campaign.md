@@ -24,7 +24,7 @@ thank you.
 
 <div class="post" data-post-id="38270" data-author="Tuck" data-date="2017-05-31T17:38:44+00:00" data-subject="Re: Missing Juggleblood campaign.">
 
-Screen ;-)
+Screen <img src="/images/smilies/icon_e_wink.svg" alt=";-)" title=";-)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

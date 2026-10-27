@@ -18,7 +18,7 @@ list them here
 
 <div class="post" data-post-id="10664" data-author="Weasel" data-date="2006-02-11T18:14:51+00:00" data-subject="">
 
-Name of quest: Bal_Harbor
+Name of quest: Bal\_Harbor
 
 Starting creature: Mayor of Drexel (Drexel)
 
@@ -30,7 +30,7 @@ Reward: 15 drachma and 250k gold
 
 <div class="post" data-post-id="10665" data-author="Weasel" data-date="2006-02-11T18:19:48+00:00" data-subject="">
 
-Name of quest: sacred_wine
+Name of quest: sacred\_wine
 
 Starting creature: Pholus (Greek Forest) -restricted newbie area
 
@@ -54,7 +54,7 @@ Reward: 5 drachma and a powerfull scroll of enchantments (for this first part of
 
 <div class="post" data-post-id="10667" data-author="Weasel" data-date="2006-02-11T18:26:03+00:00" data-subject="">
 
-Name of quest: mine_canary
+Name of quest: mine\_canary
 
 Starting creature: Jeweler (BH Town)
 
@@ -88,7 +88,7 @@ reward : 30 drachma
 
 <div class="post" data-post-id="10718" data-author="Weasel" data-date="2006-02-14T19:22:08+00:00" data-subject="">
 
-Name of quest: beautiful_girl
+Name of quest: beautiful\_girl
 
 Starting creature: Gypsy Lad (BH Town)
 
@@ -100,7 +100,7 @@ Reward: 5 drachma and 25k experience
 
 <div class="post" data-post-id="10719" data-author="Weasel" data-date="2006-02-14T19:24:10+00:00" data-subject="">
 
-Name of quest: health_of_my_forest
+Name of quest: health\_of\_my\_forest
 
 Starting creature: Forest Guardian (Greek Forest) -restricted newbie area 
 
@@ -112,7 +112,7 @@ Reward: 2 drachma
 
 <div class="post" data-post-id="10720" data-author="Weasel" data-date="2006-02-14T19:26:32+00:00" data-subject="">
 
-Name of quest: exotic_weapon
+Name of quest: exotic\_weapon
 
 Starting creature: Pit Master (Coliseum)
 
@@ -162,7 +162,7 @@ Reward: 2 drachma, about 50k coin and 2mil exp.
 
 <div class="post" data-post-id="13120" data-author="marchessa_the_red_witch" data-date="2006-06-24T04:59:39+00:00" data-subject="Witch Hunter Autoquest">
 
-Name:witch_hunting
+Name:witch\_hunting
 
 Mob:Witch hunter in Bar/Trogs
 
@@ -172,11 +172,12 @@ You must be of good alignment for this
 
 <div class="post" data-post-id="13455" data-author="Zing" data-date="2006-07-12T18:31:40+00:00" data-subject="">
 
-name of auto : bugs
-
-name of mobile to ask : Innkeeper
-
-reward : 30 drachma[/quote:2vz2lkiu]
+> <strong>Mustang wrote:</strong>
+> name of auto : bugs
+> 
+> name of mobile to ask : Innkeeper
+> 
+> reward : 30 drachma
 
 I believe this is currently 20 drachma - great for an easy quest!
 

@@ -30,7 +30,7 @@ Shift Return Human Form = 600hp
 
 On a few occasions I have quaffed potions in inv, like mobs do? I've checked my scripts for quaff scripts and I have none.
 
-Sometimes mobs suddenly die, IE, in 5-10 rounds shorter than the duration you'd expect. I once killed the pale lantern fish in murkwood in 1 round without using breath weapons. *flex*
+Sometimes mobs suddenly die, IE, in 5-10 rounds shorter than the duration you'd expect. I once killed the pale lantern fish in murkwood in 1 round without using breath weapons. \*flex\*
 
 There is a strength bug on occasions, when you shift and unshift, all of a sudden you can't pick stuff up anymore. You have to rent and re-enter the game.
 
@@ -38,19 +38,19 @@ There is a strength bug on occasions, when you shift and unshift, all of a sudde
 
 <div class="post" data-post-id="22090" data-author="brady" data-date="2008-01-21T01:24:49+00:00" data-subject="">
 
-Sure it isn't an afk bug/feature?  I get that a lot and it gets spendy.
+Sure it isn't an afk bug/feature? I get that a lot and it gets spendy.
 
 </div>
 
 <div class="post" data-post-id="22099" data-author="Jag" data-date="2008-01-21T15:30:21+00:00" data-subject="">
 
-I also find another shift bug.  
+I also find another shift bug. 
 
-After shifting, mid-fight I will no longer be able to see my inventory or anything on the ground, like the mob's corpse.  Seems to be a random occurrence.  I can fight the same mob, with the same eq and spells, 10 times and it might happen two or three times.
+After shifting, mid-fight I will no longer be able to see my inventory or anything on the ground, like the mob's corpse. Seems to be a random occurrence. I can fight the same mob, with the same eq and spells, 10 times and it might happen two or three times.
 
 This of course has killed me a number of times.
 
-The fix is easy enough, change rooms after you shift return to human.  However, it is not a good fix in the middle of aggros or in no exit rooms
+The fix is easy enough, change rooms after you shift return to human. However, it is not a good fix in the middle of aggros or in no exit rooms
 
 Switcher
 
@@ -70,27 +70,28 @@ Too bad switcher went bard instead of necro.
 
 <div class="post" data-post-id="22122" data-author="Elwin" data-date="2008-01-22T00:37:16+00:00" data-subject="">
 
-A bug I have noticed is that if the normal fly spell drops on you while shifted into a form that can fly innately, you still fall.  You shouldn't fall unless you return from flying form.  I've almost died a couple times because of this.
+A bug I have noticed is that if the normal fly spell drops on you while shifted into a form that can fly innately, you still fall. You shouldn't fall unless you return from flying form. I've almost died a couple times because of this.
 
-Regarding not being able to see inventory:  remember that when you shift your light drops into your inventory.  With infravision alone, you can't see inanimate objects like those in your inventory or corpses.  You can see will o wisp for shiftable light.  
+Regarding not being able to see inventory: remember that when you shift your light drops into your inventory. With infravision alone, you can't see inanimate objects like those in your inventory or corpses. You can see will o wisp for shiftable light. 
 
-Regarding strength issues:  My guess is that you might just be noticing the difference between shifted strength and human form strength.  I don't know, I've never had a problem with it or had to rent.  I can of course carry a lot with above 18/100 strength when shifted, so when I return I often can't carry anything because I'm already overloaded.
+Regarding strength issues: My guess is that you might just be noticing the difference between shifted strength and human form strength. I don't know, I've never had a problem with it or had to rent. I can of course carry a lot with above 18/100 strength when shifted, so when I return I often can't carry anything because I'm already overloaded.
 
-Regarding ferret hp:  That one is really annoying.
+Regarding ferret hp: That one is really annoying.
 
-Regarding dragon hp:  You probably have eq that bestows +50hp .  When you shift, eq drops into inventory and your max is no longer 650, but 600 because you aren't wearing the EQ that gives you the extra 50.  So when you shift back, your max hp is 600, then you immediately wear the other eq again and your maxhp jumps up, but you have to regen those hp now.  Hopefully that made sense.
+Regarding dragon hp: You probably have eq that bestows +50hp . When you shift, eq drops into inventory and your max is no longer 650, but 600 because you aren't wearing the EQ that gives you the extra 50. So when you shift back, your max hp is 600, then you immediately wear the other eq again and your maxhp jumps up, but you have to regen those hp now. Hopefully that made sense.
 
 </div>
 
 <div class="post" data-post-id="22127" data-author="Atwell" data-date="2008-01-22T02:02:13+00:00" data-subject="">
 
-After shifting, mid-fight I will no longer be able to see my inventory or anything on the ground, like the mob's corpse.  Seems to be a random occurrence.  I can fight the same mob, with the same eq and spells, 10 times and it might happen two or three times.[/quote:19thnsy2]
+> <strong>Jag wrote:</strong>
+> After shifting, mid-fight I will no longer be able to see my inventory or anything on the ground, like the mob's corpse. Seems to be a random occurrence. I can fight the same mob, with the same eq and spells, 10 times and it might happen two or three times.
 
-This symptomizes a situation in which you have infravision but not darksight or an equipped light.  Few lights have  CAN-SHAPESHIFT, so unless you happen to use one, expect to see these symptoms in any dark room while shifted.
+This symptomizes a situation in which you have infravision but not darksight or an equipped light. Few lights have CAN-SHAPESHIFT, so unless you happen to use one, expect to see these symptoms in any dark room while shifted.
 
 If you truly saw these symptoms inconsistently despite holding the factors you mentioned constant, this must be a mob that wanders from room to room, some dark and some not.
 
-Sloth does have an actual bug with non-CAN-SHAPESHIFT lights and shapeshift.  If you grab such a light, shift, and then return, the light will appear in your equipped items list, but it will not illuminate the room.  Removing the light and grabbing it again fixes the problem.
+Sloth does have an actual bug with non-CAN-SHAPESHIFT lights and shapeshift. If you grab such a light, shift, and then return, the light will appear in your equipped items list, but it will not illuminate the room. Removing the light and grabbing it again fixes the problem.
 
 </div>
 
@@ -110,7 +111,7 @@ My mana regen varies by 1-2 points from time to time as well. I'm wearing the sa
 
 I have found that while shifted and then returning, half my drachma keeps disappearing, to the point that I have now only got 1 drachma from a total of 1865.
 
-Could I please be reimbursed for this.  :roll: 
+Could I please be reimbursed for this. <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> 
 
 Also, paid a visit to Posiedon's Realm. While there I forgot to cast water breath, so I shifted into a sea dragon. Guess sea dragons are like boats, being as they are not able to water breath.
 
@@ -118,9 +119,10 @@ Also, paid a visit to Posiedon's Realm. While there I forgot to cast water breat
 
 <div class="post" data-post-id="22168" data-author="jezer" data-date="2008-01-22T22:24:19+00:00" data-subject="">
 
-I have found that while shifted and then returning, half my drachma keeps disappearing[/quote:34mthnko]
+> <strong>Stryx wrote:</strong>
+> I have found that while shifted and then returning, half my drachma keeps disappearing
 
-Yeah? You too!  :shock:
+Yeah? You too! <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -128,13 +130,13 @@ Yeah? You too!  :shock:
 
 Was shifted ferret, with near full health only to return to 61hp...
 
-<31hp 314ma 15mv ac -4al 68721041xp mr>
+\<31hp 314ma 15mv ac -4al 68721041xp mr\>
 
 sr
 
 You slowly return to your natural form.
 
-<61hp 316ma 15mv -3.0ac -4al 68721041xp +56mr>
+\<61hp 316ma 15mv -3.0ac -4al 68721041xp +56mr\>
 
 restore
 
@@ -142,7 +144,7 @@ Ok.
 
 The cleansing fires of healing fill your body!
 
-<259hp 258ma 16mv -3.0ac -4al 68721041xp +56mr>
+\<259hp 258ma 16mv -3.0ac -4al 68721041xp +56mr\>
 
 restore
 
@@ -150,7 +152,7 @@ Ok.
 
 The cleansing fires of healing fill your body!
 
-<460hp 202ma 19mv -3.0ac -4al 68721041xp +56mr>
+\<460hp 202ma 19mv -3.0ac -4al 68721041xp +56mr\>
 
 restore
 
@@ -158,7 +160,7 @@ Ok.
 
 The cleansing fires of healing fill your body!
 
-<662hp 143ma 20mv -3.0ac -4al 68721041xp +56mr>
+\<662hp 143ma 20mv -3.0ac -4al 68721041xp +56mr\>
 
 </div>
 
@@ -166,19 +168,19 @@ The cleansing fires of healing fill your body!
 
 Losing 60hp on any shift I do...
 
-<662hp 203ma 130mv -3.0ac -4al 68902309xp +74mr>
+\<662hp 203ma 130mv -3.0ac -4al 68902309xp +74mr\>
 
 shift ferret
 
 You raise your hands to the sky and slowly shift into a small brown ferret (Apprentice).
 
-<35hp 204ma 130mv ac -4al 68902309xp mr>
+\<35hp 204ma 130mv ac -4al 68902309xp mr\>
 
 score
 
-Apprentice STOP nerfs! FIX bugs! BRING BACK Coliseum!  (level: 40)
+Apprentice STOP nerfs! FIX bugs! BRING BACK Coliseum! (level: 40)
 
-Your levels:  Dr: 40 Cl: 40 Ne: 40 Ma: 38
+Your levels: Dr: 40 Cl: 40 Ne: 40 Ma: 38
 
 You are 25 years and 8 months old.
 
@@ -210,31 +212,31 @@ You are standing.
 
 You are affected by the following spells:
 
-   Detect Invisible
+ Detect Invisible
 
-   Sense Life
+ Sense Life
 
-   Infravision
+ Infravision
 
-   Darksight
+ Darksight
 
-   Stone Skin
+ Stone Skin
 
-   Shapeshift
+ Shapeshift
 
-<35hp 203ma 130mv ac -4al 68902309xp mr>
+\<35hp 203ma 130mv ac -4al 68902309xp mr\>
 
 sr
 
 You slowly return to your natural form.
 
-<606hp 204ma 130mv -3.0ac -4al 68902309xp +74mr>
+\<606hp 204ma 130mv -3.0ac -4al 68902309xp +74mr\>
 
 score
 
-Apprentice STOP nerfs! FIX bugs! BRING BACK Coliseum!  (level: 40)
+Apprentice STOP nerfs! FIX bugs! BRING BACK Coliseum! (level: 40)
 
-Your levels:  Dr: 40 Cl: 40 Ne: 40 Ma: 38
+Your levels: Dr: 40 Cl: 40 Ne: 40 Ma: 38
 
 You are 25 years and 8 months old.
 
@@ -268,13 +270,13 @@ You are standing.
 
 You are affected by the following spells:
 
-   Detect Invisible
+ Detect Invisible
 
-   Darksight
+ Darksight
 
-   Stone Skin
+ Stone Skin
 
-<607hp 215ma 130mv -3.0ac -4al 68902309xp +74mr>
+\<607hp 215ma 130mv -3.0ac -4al 68902309xp +74mr\>
 
 </div>
 
@@ -288,7 +290,7 @@ The gray sash hates your guts!
 
 You claw the gray sash extremely hard.
 
-<1450hp 102ma 142mv -10.0ac -2al 69197837xp +60mr>
+\<1450hp 102ma 142mv -10.0ac -2al 69197837xp +60mr\>
 
 You miss the gray sash with your claw.
 
@@ -304,7 +306,7 @@ The gray sash misses you with his bite.
 
 The gray sash misses you with his crush.
 
-<1450hp 103ma 142mv -10.0ac -2al 69199457xp +60mr>
+\<1450hp 103ma 142mv -10.0ac -2al 69199457xp +60mr\>
 
 You massacre the gray sash to small fragments with your claw.
 
@@ -324,7 +326,7 @@ The gray sash patrol leader leaves north.
 
 The gray sash leaves north.
 
-<1445hp 88ma 146mv -10.0ac -2al 69202137xp +60mr>
+\<1445hp 88ma 146mv -10.0ac -2al 69202137xp +60mr\>
 
 You massacre the gray sash to small fragments with your claw.
 
@@ -340,13 +342,11 @@ The gray sash misses you with his bite.
 
 The gray sash misses you with his crush.
 
-[u:1vzoorr0]You quaff a red potion which dissolves.
+You quaff a red potion which dissolves.
 
 Nothing seems to happen.
 
-[/u:1vzoorr0]
-
-<1450hp 92ma 149mv -10.0ac -2al 69204497xp +60mr>
+\<1450hp 92ma 149mv -10.0ac -2al 69204497xp +60mr\>
 
 You massacre the gray sash to small fragments with your claw.
 
@@ -412,7 +412,7 @@ Willow, the wanderer utters the words, 'stone skin'
 
 The skin of Willow, the wanderer becomes much thicker and slightly orange.
 
-<1175hp 255ma 85mv -10.0ac -1al 69338083xp +44mr>
+\<1175hp 255ma 85mv -10.0ac -1al 69338083xp +44mr\>
 
 You massacre Willow, the wanderer to small fragments with your claw.
 
@@ -430,11 +430,11 @@ Willow, the wanderer's blow passes right through you with no effect!
 
 Willow, the wanderer's blow passes right through you with no effect!
 
-[b:yi11b2br]You quaff a red potion which dissolves.
+<strong>You quaff a red potion which dissolves.</strong>
 
-Nothing seems to happen.
+<strong>Nothing seems to happen.</strong>
 
-[/b:yi11b2br][/color:yi11b2br]You massacre Willow, the wanderer to small fragments with your claw.
+You massacre Willow, the wanderer to small fragments with your claw.
 
 Willow, the wanderer utters the words, 'demon touch'
 
@@ -448,71 +448,55 @@ Whats a reasonable amount of times for a cobra to fail climb?
 
 You raise your hands to the sky and slowly shift into a venomous-looking snake (Apprentice).
 
-<450hp 596ma 58mv -3.0ac -3al 68219185xp mr>
+\<450hp 596ma 58mv -3.0ac -3al 68219185xp mr\>
 
 climb up
 
 You start to climb, but lose your grip and fall!
 
-[/color:mv8nca8i]
-
-<450hp 598ma 59mv -3.0ac -3al 68219185xp mr>
+\<450hp 598ma 59mv -3.0ac -3al 68219185xp mr\>
 
 climb up
 
 You start to climb, but lose your grip and fall!
 
-[/color:mv8nca8i]
-
-<450hp 599ma 60mv -3.0ac -3al 68219185xp mr>
+\<450hp 599ma 60mv -3.0ac -3al 68219185xp mr\>
 
 climb up
 
 You start to climb, but lose your grip and fall!
 
-[/color:mv8nca8i]
-
-<450hp 599ma 60mv -3.0ac -3al 68219185xp mr>
+\<450hp 599ma 60mv -3.0ac -3al 68219185xp mr\>
 
 climb up
 
 You start to climb, but lose your grip and fall!
 
-[/color:mv8nca8i]
-
-<450hp 600ma 61mv -3.0ac -3al 68219185xp mr>
+\<450hp 600ma 61mv -3.0ac -3al 68219185xp mr\>
 
 climb up
 
 You start to climb, but lose your grip and fall!
 
-[/color:mv8nca8i]
-
-<450hp 600ma 61mv -3.0ac -3al 68219185xp mr>
+\<450hp 600ma 61mv -3.0ac -3al 68219185xp mr\>
 
 climb up
 
 You start to climb, but lose your grip and fall!
 
-[/color:mv8nca8i]
-
-<450hp 600ma 62mv -3.0ac -3al 68219185xp mr>
+\<450hp 600ma 62mv -3.0ac -3al 68219185xp mr\>
 
 climb up
 
 You start to climb, but lose your grip and fall!
 
-[/color:mv8nca8i]
-
-<450hp 591ma 62mv -3.0ac -3al 68219185xp mr>
+\<450hp 591ma 62mv -3.0ac -3al 68219185xp mr\>
 
 climb up
 
 You start to climb, but lose your grip and fall!
 
-[/color:mv8nca8i]
-
-<450hp 591ma 62mv -3.0ac -3al 68219185xp mr>
+\<450hp 591ma 62mv -3.0ac -3al 68219185xp mr\>
 
 climb up
 
@@ -522,15 +506,11 @@ climb up
 
 You start to climb, but lose your grip and fall!
 
-[/color:mv8nca8i]
-
-<450hp 592ma 63mv -3.0ac -3al 68219185xp mr>
+\<450hp 592ma 63mv -3.0ac -3al 68219185xp mr\>
 
 You start to climb, but lose your grip and fall!
 
-[/color:mv8nca8i]
-
-<450hp 592ma 63mv -3.0ac -3al 68219185xp mr>
+\<450hp 592ma 63mv -3.0ac -3al 68219185xp mr\>
 
 You made it.
 
@@ -538,7 +518,7 @@ You made it.
 
 <div class="post" data-post-id="22679" data-author="Medios" data-date="2008-02-12T17:24:32+00:00" data-subject="">
 
-The reason you lose hp when you shift return is simple.  Ferrets only have 31 hp and it would be possible to shift into a ferret when hurt, then regen up to 31 hp and then shift return for full hp.  To stop that they made it where you lose some hps when you shift return(I am not sure if its time related or what).  Granted it sucks to have to heal yourself but I don't know of any other way to stop ppl from abusing ferret hps.
+The reason you lose hp when you shift return is simple. Ferrets only have 31 hp and it would be possible to shift into a ferret when hurt, then regen up to 31 hp and then shift return for full hp. To stop that they made it where you lose some hps when you shift return(I am not sure if its time related or what). Granted it sucks to have to heal yourself but I don't know of any other way to stop ppl from abusing ferret hps.
 
 </div>
 
@@ -550,7 +530,8 @@ The climb probably fails because cobra form is relatively low level.
 
 <div class="post" data-post-id="22682" data-author="jezer" data-date="2008-02-12T22:26:18+00:00" data-subject="">
 
-The reason you lose hp when you shift return is simple.  Ferrets only have 31 hp and it would be possible to shift into a ferret when hurt, then regen up to 31 hp and then shift return for full hp.  To stop that they made it where you lose some hps when you shift return(I am not sure if its time related or what).  Granted it sucks to have to heal yourself but I don't know of any other way to stop ppl from abusing ferret hps.[/quote:3gaitze9]
+> <strong>Medios wrote:</strong>
+> The reason you lose hp when you shift return is simple. Ferrets only have 31 hp and it would be possible to shift into a ferret when hurt, then regen up to 31 hp and then shift return for full hp. To stop that they made it where you lose some hps when you shift return(I am not sure if its time related or what). Granted it sucks to have to heal yourself but I don't know of any other way to stop ppl from abusing ferret hps.
 
 I'm not sure I agree with ya here Mike, but one way we could check... can someone with 18 nat con, fully heal up, shift ferret and shift back and tell me if your at max hp's?
 
@@ -560,39 +541,50 @@ The fact that I have 606hp with 15 con... and I lose exactly 56 hp's which is th
 
 <div class="post" data-post-id="22686" data-author="Medios" data-date="2008-02-12T23:44:24+00:00" data-subject="">
 
-Was shifted ferret, with near full health only to return to 61hp...
-
-<31hp 314ma 15mv ac -4al 68721041xp mr>
-
-sr
-
-You slowly return to your natural form.
-
-<61hp 316ma 15mv -3.0ac -4al 68721041xp +56mr>
-
-restore
-
-Ok.
-
-The cleansing fires of healing fill your body!
-
-<259hp 258ma 16mv -3.0ac -4al 68721041xp +56mr>
-
-restore
-
-Ok.
-
-The cleansing fires of healing fill your body!
-
-<460hp 202ma 19mv -3.0ac -4al 68721041xp +56mr>
-
-restore
-
-Ok.
-
-The cleansing fires of healing fill your body!
-
-<662hp 143ma 20mv -3.0ac -4al 68721041xp +56mr>[/quote:j81ou2ro]
+> <strong>jezer wrote:</strong>
+> Was shifted ferret, with near full health only to return to 61hp...
+> 
+> 
+> 
+> \<31hp 314ma 15mv ac -4al 68721041xp mr\>
+> 
+> sr
+> 
+> You slowly return to your natural form.
+> 
+> 
+> 
+> \<61hp 316ma 15mv -3.0ac -4al 68721041xp +56mr\>
+> 
+> restore
+> 
+> Ok.
+> 
+> The cleansing fires of healing fill your body!
+> 
+> 
+> 
+> \<259hp 258ma 16mv -3.0ac -4al 68721041xp +56mr\>
+> 
+> restore
+> 
+> Ok.
+> 
+> The cleansing fires of healing fill your body!
+> 
+> 
+> 
+> \<460hp 202ma 19mv -3.0ac -4al 68721041xp +56mr\>
+> 
+> restore
+> 
+> Ok.
+> 
+> The cleansing fires of healing fill your body!
+> 
+> 
+> 
+> \<662hp 143ma 20mv -3.0ac -4al 68721041xp +56mr\>
 
 662-61 is not quite 56
 
@@ -616,45 +608,45 @@ Possibly the one stryx mentioned... I was shifted dragon, fly dropped, and I los
 
 Crystal Waterfall
 
-   A waterfall cascades from high above into a small rippling pool.
+ A waterfall cascades from high above into a small rippling pool.
 
 A light wind rustles the trees, bringing the faint scent of pine with it.
 
 Along the east bank of the pool lies a brush and moss covered cavern.
 
-Exits: North  Up  Down
+Exits: North Up Down
 
-<1141hp 275ma 150mv -10.0ac -5al 115413128xp +60mr>
+\<1141hp 275ma 150mv -10.0ac -5al 115413128xp +60mr\>
 
 u
 
 You can't fly!
 
-<1145hp 278ma 150mv -10.0ac -5al 115413128xp +60mr>
+\<1145hp 278ma 150mv -10.0ac -5al 115413128xp +60mr\>
 
 sr
 
 You slowly return to your natural form.
 
-<480hp 281ma 150mv -3.0ac -5al 115413128xp +79mr>
+\<480hp 281ma 150mv -3.0ac -5al 115413128xp +79mr\>
 
 shift dragon
 
 You raise your hands to the sky and slowly shift into a huge black dragon (Apprentice).
 
-<1053hp 257ma 149mv -10.0ac -5al 115413128xp +44mr>
+\<1053hp 257ma 149mv -10.0ac -5al 115413128xp +44mr\>
 
 u
 
 Above Pool
 
-   Above the pool where the waterfall flows into, the pressure of the down
+ Above the pool where the waterfall flows into, the pressure of the down
 
-speeding water is at its greatest.  Water spray makes it difficult to see
+speeding water is at its greatest. Water spray makes it difficult to see
 
 much more than water, water, and more water.
 
-Exits: Up  Down
+Exits: Up Down
 
 </div>
 
@@ -664,19 +656,19 @@ This one is pretty annoying... some people spend 500 drachma for +1 mana regen, 
 
 Rutted Road
 
-   A wagon-rutted road runs through the forest.  Several areas to both
+ A wagon-rutted road runs through the forest. Several areas to both
 
 sides of the road have been cleared and appear to function as temporary
 
-campsites from time to time.  The marsh grass alongside the road is bent
+campsites from time to time. The marsh grass alongside the road is bent
 
 and the embers in a few recently abandoned fire pits smolder still.
 
-Exits: North  East  South
+Exits: North East South
 
 A wagoneer is here strolling through the forest.
 
-<662hp 19ma 75mv -3.0ac +1al 134622628xp +78mr[/color:1ijtj7qn]>
+\<662hp 19ma 75mv -3.0ac +1al 134622628xp +78mr\>
 
 sw stab
 
@@ -684,7 +676,7 @@ Ok.
 
 You whistle, and stab the sylph flutters out of the greenery.
 
-<662hp 1ma 75mv -3.0ac +1al 134622628xp +75mr[/color:1ijtj7qn]>
+\<662hp 1ma 75mv -3.0ac +1al 134622628xp +75mr\>
 
 tell stab watch prince
 
@@ -696,25 +688,25 @@ Stab the sylph tells you 'I'm on it, sir!'
 
 <div class="post" data-post-id="22779" data-author="jezer" data-date="2008-02-17T00:19:04+00:00" data-subject="">
 
-Ok, scrub that last post... Learn something new every day :)
+Ok, scrub that last post... Learn something new every day <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 "SPIRIT WATCHER"
 
-See also:     SPIRITS DISMISS
+See also: SPIRITS DISMISS
 
-Usage:        cast 'spirit watcher' [nickname]
+Usage: cast 'spirit watcher' [nickname]
 
-Duration:     permanent, until dismissed or slain
+Duration: permanent, until dismissed or slain
 
-Level:        Mage 20, Cleric 20, Druid 20, Bard 20, Necromancer 20
+Level: Mage 20, Cleric 20, Druid 20, Bard 20, Necromancer 20
 
-Spellbook:    cheaply bound spellbook
+Spellbook: cheaply bound spellbook
 
-Stratum:      Summoning
+Stratum: Summoning
 
-Min mana:     20
+Min mana: 20
 
-Mana regen:   -1 while spirit is around[/color:wkr7latj]
+Mana regen: -1 while spirit is around
 
 This easy spell summons the least powerful sort of spirit, a watcher spirit.
 
@@ -726,13 +718,13 @@ with beatific or infernal powers.
 
 In addition to the usual tasks that all spirits can perform, watcher spirits
 
-can keenly follow and guard a target.  This is especially useful for monsters
+can keenly follow and guard a target. This is especially useful for monsters
 
-that you (the caster) intend to kill as soon as you get around to it.  A
+that you (the caster) intend to kill as soon as you get around to it. A
 
 watcher will follow the target around and warn off anybody else who looks
 
-as if they are considering poaching it.  If someone has the gall to attack
+as if they are considering poaching it. If someone has the gall to attack
 
 anyway after receiving this warning, the watcher will let you know so you can
 
@@ -740,7 +732,7 @@ visit upon the interloper a suitable vengeance.
 
 When you have conjured a horde of spirits, it can become a burden to tell
 
-them apart.  To aid with this, you can give each spirit a nickname when
+them apart. To aid with this, you can give each spirit a nickname when
 
 conjured.
 
@@ -748,7 +740,7 @@ conjured.
 
 <div class="post" data-post-id="22931" data-author="jezer" data-date="2008-02-24T22:32:56+00:00" data-subject="">
 
-A little birdy told me Kjartan deals mostly with the druid stuff? Where is he atm, that I may string him up by his heels!   :twisted:
+A little birdy told me Kjartan deals mostly with the druid stuff? Where is he atm, that I may string him up by his heels! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -758,7 +750,7 @@ You get a potion of greater healing from the corpse of a terracotta soldier that
 
 A terracotta soldier stops following the terracotta patrol leader.
 
-<1199hp 564ma 150mv>
+\<1199hp 564ma 150mv\>
 
 quaff potion
 
@@ -766,7 +758,7 @@ You quaff a potion of greater healing which dissolves.
 
 You feel much, much better.
 
-<607hp 545ma 150mv>
+\<607hp 545ma 150mv\>
 
 The other night, someone restored me shifted and the same thing happened... and also my eudaemon stopped healing me shifted, although I heard it was being fixed... 
 
@@ -784,7 +776,7 @@ I've noticed that as well. In the last several months, being healed while in for
 
 Crier won't let me edit...
 
-I'm assuming that the unshifted hp returns on heal because of something to do with the chunk of code that checks your max hp to prevent heals giving you >maxhp. My guess would be that it's checking your unshifted hp rather than shifted, and somehow resetting max at the same time.
+I'm assuming that the unshifted hp returns on heal because of something to do with the chunk of code that checks your max hp to prevent heals giving you \>maxhp. My guess would be that it's checking your unshifted hp rather than shifted, and somehow resetting max at the same time.
 
 None of that's based on actual evidence though, just conjecture.
 
@@ -792,69 +784,80 @@ None of that's based on actual evidence though, just conjecture.
 
 <div class="post" data-post-id="24336" data-author="Yinao" data-date="2008-05-14T07:18:50+00:00" data-subject="">
 
-Eh? Real shifters use Pit Fiends anyways  :wink:
+Eh? Real shifters use Pit Fiends anyways <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="24337" data-author="jezer" data-date="2008-05-14T07:25:08+00:00" data-subject="">
 
-Eh? Real shifters use Pit Fiends anyways  :wink:[/quote:2qqe4l4z]
+> <strong>Yinao wrote:</strong>
+> Eh? Real shifters use Pit Fiends anyways <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
-REAL shifters play druid prime!  :twisted: None of this half baked stuff...
+REAL shifters play druid prime! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> None of this half baked stuff...
 
 </div>
 
 <div class="post" data-post-id="24339" data-author="Yinao" data-date="2008-05-14T15:44:34+00:00" data-subject="">
 
-I'd like to think that having a Pit Fiend that does 5 massacres/brutal massacres is more fun to have than 20 more mana regen + the extra % for being druid. Assuming they fix this healing problem a 4 attack valkyre with 300 mana for heals and 300 hp heals would be more useful, but perhaps that necro class would be a nice addition  :?... Oh not to mention those druid primes that get 100 extra hp in shift? Booo... Unless your Dave or Daedalus your not a real druid  :wink: , now their mana regen is to die for :)
+I'd like to think that having a Pit Fiend that does 5 massacres/brutal massacres is more fun to have than 20 more mana regen + the extra % for being druid. Assuming they fix this healing problem a 4 attack valkyre with 300 mana for heals and 300 hp heals would be more useful, but perhaps that necro class would be a nice addition <img src="/images/smilies/icon_e_confused.svg" alt=":?" title=":?" width="15" height="15" class="smiley nozoom">... Oh not to mention those druid primes that get 100 extra hp in shift? Booo... Unless your Dave or Daedalus your not a real druid <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom"> , now their mana regen is to die for <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="24340" data-author="Rynquald" data-date="2008-05-14T20:22:29+00:00" data-subject="">
 
-Yinao wrote:
-
-Eh? Real shifters use Pit Fiends anyways :wink:[/quote:37e50tse]
-
-REAL shifters play druid prime! :twisted: None of this half baked stuff...[/quote:37e50tse]
+> <strong>Jezer wrote:</strong>
+> > <strong>Yinao wrote:</strong>
+> > Yinao wrote:
+> > 
+> > Eh? Real shifters use Pit Fiends anyways <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> REAL shifters play druid prime! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> None of this half baked stuff...
 
 Nah, real shifters have mirrors up for accidental infight unshifts.
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="24348" data-author="Yinao" data-date="2008-05-15T04:02:59+00:00" data-subject="">
 
-Eh? Aerial Servant gives me enough time to type FLEE BYTCH FLEE!!!! 8)
+Eh? Aerial Servant gives me enough time to type FLEE BYTCH FLEE!!!! <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="24352" data-author="Rynquald" data-date="2008-05-15T05:49:34+00:00" data-subject="">
 
-Eh? Aerial Servant gives me enough time to type FLEE BYTCH FLEE!!!! 8)[/quote:14345qqm]
+> <strong>Yinao wrote:</strong>
+> Eh? Aerial Servant gives me enough time to type FLEE BYTCH FLEE!!!! <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 Ahh, you're right.
 
-I guess we've figured it out then, only the prime druid shifters really suck :D
+I guess we've figured it out then, only the prime druid shifters really suck <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="24353" data-author="jezer" data-date="2008-05-15T05:52:44+00:00" data-subject="">
 
-Hey!  :twisted: 
+Hey! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 There you have it, Yinao and Rynquald agree prime druids suck... and hence forth I declare we are open to new prime overpowerments!
 
-Wait, you meant only I suck?  :shock:  :( *sneef*
+Wait, you meant only I suck? <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom"> \*sneef\*
 
 </div>
 
 <div class="post" data-post-id="24354" data-author="Stryx" data-date="2008-05-15T14:14:09+00:00" data-subject="">
 
-[quote:1kquxctn]Wait, you meant only I suck?   *sneef*[/quote:1kquxctn]
+> <strong>Quote:</strong>
+> Wait, you meant only I suck? \*sneef\*
 
-No, that would mean I suck too... I just don't whine about it like you do! :twisted:
+No, that would mean I suck too... I just don't whine about it like you do! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -868,25 +871,26 @@ If everyone advocated, explored, plundered, exposed, pilfered and cajoled their 
 
 Keep up the great work Jezer and when I play more, expect to see similar rants from the Necro prime side.
 
--fin
+\-fin
 
 </div>
 
 <div class="post" data-post-id="24361" data-author="Yinao" data-date="2008-05-15T19:32:03+00:00" data-subject="">
 
-NO! This is fantasy life, there are no mistakes, we are all perfect! So take your negative comments away!  :evil: 
+NO! This is fantasy life, there are no mistakes, we are all perfect! So take your negative comments away! <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom"> 
 
- :wink:
+ <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="24365" data-author="jezer" data-date="2008-05-15T23:34:29+00:00" data-subject="">
 
-Ok, I gotta come to Jezer's defense. Etc Etc[/quote:esod1c8v]
+> <strong>Widow wrote:</strong>
+> Ok, I gotta come to Jezer's defense. Etc Etc
 
-Geahs Widow  :oops: I'm all choked up!  :twisted: 
+Geahs Widow <img src="/images/smilies/icon_redface.svg" alt=":oops:" title=":oops:" width="15" height="15" class="smiley nozoom"> I'm all choked up! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-You really do want me to help with your clipped feather don't you!  :twisted: Thanks all the same.  :D
+You really do want me to help with your clipped feather don't you! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> Thanks all the same. <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -896,9 +900,9 @@ Bump!
 
 Shifted HP's is still set wrong so... 
 
-*Any form of healing sets me back down to human form HP's
+\*Any form of healing sets me back down to human form HP's
 
-*Eudaemons think I'm fully healed up and do nothing
+\*Eudaemons think I'm fully healed up and do nothing
 
 Should be easy fix. To see the bug, just shapeshift dragon and report... it will say something like 1200/600 hp.
 
@@ -906,7 +910,7 @@ Should be easy fix. To see the bug, just shapeshift dragon and report... it will
 
 <div class="post" data-post-id="24540" data-author="jezer" data-date="2008-05-27T09:11:06+00:00" data-subject="">
 
-<841hp 273ma 153mv -11.1ac -2al 35377671xp +54mr>
+\<841hp 273ma 153mv -11.1ac -2al 35377671xp +54mr\>
 
 cry app
 
@@ -914,13 +918,13 @@ The cleansing fires of healing fill your body!
 
 You cry to yourself.
 
-<607hp 214ma 152mv -11.1ac -2al 35377671xp +54mr>
+\<607hp 214ma 152mv -11.1ac -2al 35377671xp +54mr\>
 
 </div>
 
 <div class="post" data-post-id="27176" data-author="jezer" data-date="2008-11-14T06:26:05+00:00" data-subject="">
 
-Nearly my entire shifting eq mode has had it's CAN_SHAPESHIFT flag removed... Everything apart from my twisted thorn necklaces, diamond bracers and maple leaf brooch.
+Nearly my entire shifting eq mode has had it's CAN\_SHAPESHIFT flag removed... Everything apart from my twisted thorn necklaces, diamond bracers and maple leaf brooch.
 
 I was on during a crash a couple of days ago.
 

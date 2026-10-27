@@ -32,9 +32,9 @@ Generally speaking items poped by mobs follow the following pattern:
 
 Mob A pops item A with a certain pop rate. For example 1D20. The amount of items is not limited but whether an item is rare or not will depend on 2 things:
 
-1. How difficult the mob which pops the item is and how often it is killed
+1\. How difficult the mob which pops the item is and how often it is killed
 
-2. The poprate
+2\. The poprate
 
 The lower the poprate and the harder the mob, the rarer the item is likely to be.
 
@@ -60,19 +60,19 @@ Thanks for the answer NExt.
 
 Yep exactly. With lower end items, which you'll mostly likely be using at the moment it normally takes between 3-10 kills to get something, later on tho' you may well find yourself killing the same mob 50-60 times before you get your pop. My personal record of bad luck was 210+
 
- kills on a mob, that poped a cp to a forge which had like 9 other cps :)
+ kills on a mob, that poped a cp to a forge which had like 9 other cps <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="1652" data-author="Evergreen" data-date="2004-08-30T06:36:18+00:00" data-subject="">
 
-and my experience with that mob was like 3 pops from 5-6 kills  :D
+and my experience with that mob was like 3 pops from 5-6 kills <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="1656" data-author="Next" data-date="2004-08-30T09:48:34+00:00" data-subject="">
 
-You cycled Mother Mu ever? :)
+You cycled Mother Mu ever? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -80,7 +80,7 @@ You cycled Mother Mu ever? :)
 
 ghmm, sorry...
 
-was completely sure you talking bout lava-mage :D
+was completely sure you talking bout lava-mage <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -88,6 +88,6 @@ was completely sure you talking bout lava-mage :D
 
 ghmm, sorry...
 
-was completely sure you talking bout lava-mage :D
+was completely sure you talking bout lava-mage <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>

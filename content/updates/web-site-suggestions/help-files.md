@@ -12,7 +12,7 @@ post_count: 2
 
 <div class="post" data-post-id="15206" data-author="Jag" data-date="2006-11-16T14:14:49+00:00" data-subject="Help Files">
 
-The Game play helps in the library are great, but the online help files in game have much more recent spells, skills, etc and really awesome.  
+The Game play helps in the library are great, but the online help files in game have much more recent spells, skills, etc and really awesome. 
 
 Could the online help files be added to the web site as well?
 

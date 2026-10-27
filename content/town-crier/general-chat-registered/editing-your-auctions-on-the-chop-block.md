@@ -14,7 +14,7 @@ post_count: 4
 
 I put a shield up and meant to set the min at 150k but just put 150. Then I tried to edit it but couldn't. I clicked the close auction button and it just says the item hasn't been submitted for sale. What the heck does that mean?
 
--Juggleblood
+\-Juggleblood
 
 BTW: The item is not for sale nemore, I sold it to the Bal Harbor Auctioneer
 
@@ -22,7 +22,7 @@ BTW: The item is not for sale nemore, I sold it to the Bal Harbor Auctioneer
 
 <div class="post" data-post-id="10585" data-author="Leaf" data-date="2006-02-06T19:09:58+00:00" data-subject="">
 
-Because someone bidded on item.  Once anyone bids on an item, you can't
+Because someone bidded on item. Once anyone bids on an item, you can't
 
 edit the auction.
 

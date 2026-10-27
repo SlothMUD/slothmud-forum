@@ -22,6 +22,6 @@ luke
 
 <div class="post" data-post-id="16207" data-author="kjartan" data-date="2007-01-11T21:00:53+00:00" data-subject="">
 
-Sure.  Fixed, in next time someone moves the code over (meaning, I am not scheduling a reboot for this.)
+Sure. Fixed, in next time someone moves the code over (meaning, I am not scheduling a reboot for this.)
 
 </div>

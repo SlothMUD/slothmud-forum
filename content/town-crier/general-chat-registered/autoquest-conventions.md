@@ -34,7 +34,7 @@ The grandmaster thug yells 'You fools, I'll take my secrets with me to the under
 
 The grandmaster thug immolates himself! His corpse is reduced to ash.
 
-...and yes I see that he is technically yelling while dead. There is no killer on every_corpse if that makes any sense / matters. It works.
+...and yes I see that he is technically yelling while dead. There is no killer on every\_corpse if that makes any sense / matters. It works.
 
 </div>
 
@@ -68,10 +68,10 @@ Here comes the Newbie Patrol! Ruuuun!
 
 <div class="post" data-post-id="34234" data-author="Oboe" data-date="2013-04-13T02:21:07+00:00" data-subject="Re: autoquest conventions">
 
-> ***juggleblood* wrote:**
+> <strong>\*juggleblood\* wrote:</strong>
 > Putting 30 drachma and 2 elite newbie items all the same mob is undesirable to me.
 
-The items aren't elite.  People cycle for those items to get the experience of doing so.
+The items aren't elite. People cycle for those items to get the experience of doing so.
 
 </div>
 

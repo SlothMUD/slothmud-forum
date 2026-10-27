@@ -38,18 +38,18 @@ So for 30m he'll live with nuts but no bolt? Ouch.
 
 ..not like he knew how to use it anyway, so I hear.
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="26160" data-author="Virus" data-date="2008-09-05T15:23:43+00:00" data-subject="">
 
-> **Weasel wrote:**
+> <strong>Weasel wrote:</strong>
 > ..not like he knew how to use it anyway, so I hear.
 > 
->  :twisted:
+> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
-Sa better get rid of those bolts, he'll probably cut off his own fingers if he keeps play with them... :twisted:
+Sa better get rid of those bolts, he'll probably cut off his own fingers if he keeps play with them... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

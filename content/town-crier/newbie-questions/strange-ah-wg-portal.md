@@ -12,23 +12,23 @@ post_count: 6
 
 <div class="post" data-post-id="34346" data-author="Yasik" data-date="2013-07-10T16:34:48+00:00" data-subject="Strange AH WG portal">
 
-**look**
+<strong>look</strong>
 
 The Wide Gate
 
-   This is the northern gate of Aisholm, a small human settlement in the
+ This is the northern gate of Aisholm, a small human settlement in the
 
-frozen continent of Thule.  A set of wide double gates opens in the wall,
+frozen continent of Thule. A set of wide double gates opens in the wall,
 
-and there is a building to the south.  The street is unpaved, its loosely
+and there is a building to the south. The street is unpaved, its loosely
 
-packed clay as naked as when the humans first arrived to Thule.  The whole
+packed clay as naked as when the humans first arrived to Thule. The whole
 
-town must turn into a mudhole when the snow melts.  A high walkway runs
+town must turn into a mudhole when the snow melts. A high walkway runs
 
 the length of the stockade.
 
-Exits: North  East  West  
+Exits: North East West 
 
 A stalk of celery grows in a patch of well-kept soil. [2]
 
@@ -42,7 +42,7 @@ A soiled sheet from some notebook shifts here in the wind.
 
 A hastily wrapped brown parcel lies here on the floor.
 
-**AN OPEN PORTAL IS HERE!**
+<strong>AN OPEN PORTAL IS HERE!</strong>
 
 Fallen Looking for 1x Chrysoprase is sleeping here.
 
@@ -50,21 +50,21 @@ A frost giantess is guarding the gate.
 
 A frost giant is guarding the gate.
 
-<209hp 197ma 62mv>  [+0]  AC: 4.5  EXP: 1717582  COINS: 76082  [raining]  [Aisholm Town]
+\<209hp 197ma 62mv\> [+0] AC: 4.5 EXP: 1717582 COINS: 76082 [raining] [Aisholm Town]
 
-**enter portal**
+<strong>enter portal</strong>
 
-**There are no visible portals here.**
+<strong>There are no visible portals here.</strong>
 
-<210hp 200ma 63mv>  [+0]  AC: 4.5  EXP: 1717582  COINS: 76082  [raining]  [Aisholm Town]
+\<210hp 200ma 63mv\> [+0] AC: 4.5 EXP: 1717582 COINS: 76082 [raining] [Aisholm Town]
 
-**look portal**
+<strong>look portal</strong>
 
-**There's no portal to look through here!**
+<strong>There's no portal to look through here!</strong>
 
-=====
+\=====
 
-**How's that possible?**
+<strong>How's that possible?</strong>
 
 </div>
 
@@ -72,7 +72,7 @@ A frost giant is guarding the gate.
 
 Confirmed.
 
-Cursed and invised ;-)
+Cursed and invised <img src="/images/smilies/icon_e_wink.svg" alt=";-)" title=";-)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -102,6 +102,6 @@ That was not the question. The question is why it is even there, who opened it a
 
 <div class="post" data-post-id="34357" data-author="Tuck" data-date="2013-07-16T15:29:27+00:00" data-subject="Re: Strange AH WG portal">
 
-it's magic :P
+it's magic <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>

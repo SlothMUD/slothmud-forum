@@ -18,7 +18,7 @@ pls helps
 
 <div class="post" data-post-id="23679" data-author="Weasel" data-date="2008-04-11T18:23:40+00:00" data-subject="">
 
-Never mind, I got a little duck to help me  :D
+Never mind, I got a little duck to help me <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 I must remember not to take on Hebe in regen eq.. bad move.
 

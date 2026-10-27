@@ -18,7 +18,7 @@ Please see help prompts for more information.
 
 Enjoy,
 
-Splork :twisted: 
+Splork <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 A big thanks to Kjartan for throwing this together so quickly.
 

@@ -42,6 +42,6 @@ A vicious Ju-Ju Zombie starts moaning.
 
 <div class="post" data-post-id="11017" data-author="Leaf" data-date="2006-03-03T04:50:03+00:00" data-subject="">
 
-I kinda liked the fact the that JuJu moaned after death :)
+I kinda liked the fact the that JuJu moaned after death <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

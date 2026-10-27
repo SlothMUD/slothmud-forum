@@ -18,7 +18,7 @@ oops!
 
 <div class="post" data-post-id="33243" data-author="Mug" data-date="2012-03-26T01:35:32+00:00" data-subject="Re: crash?">
 
-well now i know why we got  bronto today ;)
+well now i know why we got bronto today <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -32,7 +32,7 @@ shyla
 
 <div class="post" data-post-id="33245" data-author="war" data-date="2012-03-26T02:22:55+00:00" data-subject="Re: crash?">
 
-this is a long 1  :shock:
+this is a long 1 <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -54,13 +54,13 @@ Shyla
 
 <div class="post" data-post-id="33248" data-author="war" data-date="2012-03-26T03:29:30+00:00" data-subject="Re: crash?">
 
-I just noticed how boring sunday nite TV is :cry:
+I just noticed how boring sunday nite TV is <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="33249" data-author="Nyx" data-date="2012-03-26T03:31:14+00:00" data-subject="Re: crash?">
 
-I just pictured War's wife sitting next to the game server with a microwave. :lol: 
+I just pictured War's wife sitting next to the game server with a microwave. <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> 
 
 (and thanks for the update Shyla!)
 

@@ -26,7 +26,7 @@ thank you
 
 <div class="post" data-post-id="7821" data-author="Wintersdark" data-date="2005-07-11T03:57:55+00:00" data-subject="">
 
-You can buy it in the magic shop (attached to the mage guild) in Settlestone, easier than popping it :)
+You can buy it in the magic shop (attached to the mage guild) in Settlestone, easier than popping it <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Check the settlestone map if you need directions
 
@@ -34,22 +34,22 @@ Check the settlestone map if you need directions
 
 <div class="post" data-post-id="7822" data-author="Vixn" data-date="2005-07-11T03:59:12+00:00" data-subject="">
 
-Nope, you could only win this book if you'll be best in the Tourney this year. It is neither in magic shop in SS nor in eqlist on this site. :wink:
+Nope, you could only win this book if you'll be best in the Tourney this year. It is neither in magic shop in SS nor in eqlist on this site. <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="7823" data-author="Wintersdark" data-date="2005-07-11T04:03:02+00:00" data-subject="">
 
-What?   Remove curse?   Huh?  Why?  It's just a standard little lowbie spell...?
+What? Remove curse? Huh? Why? It's just a standard little lowbie spell...?
 
-*confused*
+\*confused\*
 
 </div>
 
 <div class="post" data-post-id="7826" data-author="Vixn" data-date="2005-07-11T04:17:47+00:00" data-subject="">
 
-*wink-wink-wink*
+\*wink-wink-wink\*
 
- :D
+ <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>

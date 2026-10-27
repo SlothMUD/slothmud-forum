@@ -16,7 +16,7 @@ just a friendly (or not so) request... if you are going to idle/afk in any Inn
 
 do NOT set your trigger to gorge instead of a simple eat.
 
-Stealing other people's edible components to feed your afk hunger isn't very nice.  If I catch someone else doing this I'll do more than force them to rent.
+Stealing other people's edible components to feed your afk hunger isn't very nice. If I catch someone else doing this I'll do more than force them to rent.
 
 Akasha
 
@@ -26,13 +26,13 @@ Akasha
 
 non-afk gorge at inn is OK?
 
-8)
+<img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="21400" data-author="Autolycos" data-date="2007-11-24T15:10:48+00:00" data-subject="">
 
-ooooh... maybe the innkeeper can kill them for stealing!!  :twisted:
+ooooh... maybe the innkeeper can kill them for stealing!! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -68,6 +68,6 @@ as i notice skills/spells pass through 4 steps: idea, coding, aprobation and ner
 
 gorge skill is just completly ingame now 
 
- 8)
+ <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>

@@ -12,10 +12,10 @@ post_count: 5
 
 <div class="post" data-post-id="35072" data-author="Oboe" data-date="2014-04-23T01:15:42+00:00" data-subject="Re: Wiki Updates">
 
-> **Neptune wrote:**
-> 7. Updated the map for Rita's Temple.
+> <strong>Neptune wrote:</strong>
+> 7\. Updated the map for Rita's Temple.
 
-This new map covers less than half the area, and it lacks the artistry of the previous map.  Please revert.
+This new map covers less than half the area, and it lacks the artistry of the previous map. Please revert.
 
 </div>
 
@@ -27,7 +27,7 @@ We are currently working on getting that map updated to properly represent the a
 
 On the other hand, I've been toying with the idea of making any previous maps of
 
-areas available  on those area pages. I'm curious as to what the consensus on that
+areas available on those area pages. I'm curious as to what the consensus on that
 
 idea may be. What do you guys think?
 
@@ -41,30 +41,30 @@ would of course invite any of you with old maps to the areas to send them in if 
 
 decide to add that feature to the area pages. 
 
--Neptune
+\-Neptune
 
 </div>
 
 <div class="post" data-post-id="35082" data-author="Oboe" data-date="2014-04-25T00:34:48+00:00" data-subject="Re: Wiki Updates">
 
-> ***Neptune* wrote:**
+> <strong>\*Neptune\* wrote:</strong>
 > I admit, any errors in the current map is my fault, so I will take the blame for that.
 
-It's cool.  Again, please make us whole by reverting the change.
+It's cool. Again, please make us whole by reverting the change.
 
-> ***Neptune* wrote:**
+> <strong>\*Neptune\* wrote:</strong>
 > We are currently working on getting that map updated to properly represent the area.
 
 A future submission can be considered on its own merits.
 
-> ***Neptune* wrote:**
+> <strong>\*Neptune\* wrote:</strong>
 > On the other hand, I've been toying with the idea of making any previous maps of
 > 
-> areas available  on those area pages. I'm curious as to what the consensus on that
+> areas available on those area pages. I'm curious as to what the consensus on that
 > 
 > idea may be. What do you guys think?
 
-I'm in favor.  The more facts kept accessible, the better.
+I'm in favor. The more facts kept accessible, the better.
 
 </div>
 
@@ -90,19 +90,19 @@ very much on which versions of the map were submitted. But
 
 it would be a work in progress as are many things we do here.
 
--Neptune
+\-Neptune
 
 </div>
 
 <div class="post" data-post-id="35108" data-author="Oboe" data-date="2014-05-08T12:57:55+00:00" data-subject="Rita&#x27;s Temple Map">
 
-> **Oboe wrote:**
-> > ***Neptune* wrote:**
+> <strong>Oboe wrote:</strong>
+> > <strong>\*Neptune\* wrote:</strong>
 > > I admit, any errors in the current map is my fault, so I will take the blame for that.
 > 
 > 
 > 
-> It's cool.  Again, please make us whole by reverting the change.
+> It's cool. Again, please make us whole by reverting the change.
 
 Bump.
 

@@ -48,7 +48,7 @@ Be careful what you wish for... That ugly stick your pulling on, just might be t
 
 <div class="post" data-post-id="26515" data-author="Tap" data-date="2008-10-01T09:49:17+00:00" data-subject="">
 
-[img:1tul23m9]http://images.cafepress.com/product/14387583v1_350x350_Front.jpg[/img:1tul23m9]
+![](http://images.cafepress.com/product/14387583v1_350x350_Front.jpg)
 
 </div>
 
@@ -80,7 +80,7 @@ The government will slide? No great loss there, especially if the alternative is
 
 <div class="post" data-post-id="26556" data-author="Tap" data-date="2008-10-04T21:01:10+00:00" data-subject="">
 
-700 bil was automatically dismissed just as soon as it was announced. For those who listen to talk radio, the more "real" figure was upwards around 2 trillion dollars with an accurate prediction that as soon as the bill was passed, that within days, a new "magical number" would be announced needed  for the bailout. I'm getting into the mindset that I shall just sit back and watch the apocalypse on TV,
+700 bil was automatically dismissed just as soon as it was announced. For those who listen to talk radio, the more "real" figure was upwards around 2 trillion dollars with an accurate prediction that as soon as the bill was passed, that within days, a new "magical number" would be announced needed for the bailout. I'm getting into the mindset that I shall just sit back and watch the apocalypse on TV,
 
 </div>
 
@@ -88,9 +88,9 @@ The government will slide? No great loss there, especially if the alternative is
 
 And now the floodgates open...
 
-California are already asking for a $7billion bailout or they'll go bankrupt (seriously, who cares?), Illinois another $2billion just to cover their next 3 months.. just watch as all these pricks start lining up for their handouts.. this is NOT what this bill was meant for, neither was it meant for $100billion of earmarks.  
+California are already asking for a $7billion bailout or they'll go bankrupt (seriously, who cares?), Illinois another $2billion just to cover their next 3 months.. just watch as all these pricks start lining up for their handouts.. this is NOT what this bill was meant for, neither was it meant for $100billion of earmarks. 
 
-I was actually pro the bailout originally as it was intended, as it was just a reallocation of debt AND NOTHING MORE - there were no earmarks, and there was even a possibility the taxpayer may gain from it, but now..  forget it, it's turned into a politician's free-for-all every-man-for-himself scam, and the entire population of working-class America is being taken for a ride. Socialism is running rampant through the streets and half of the dim-witted Americans are waving their flags for it.. 
+I was actually pro the bailout originally as it was intended, as it was just a reallocation of debt AND NOTHING MORE - there were no earmarks, and there was even a possibility the taxpayer may gain from it, but now.. forget it, it's turned into a politician's free-for-all every-man-for-himself scam, and the entire population of working-class America is being taken for a ride. Socialism is running rampant through the streets and half of the dim-witted Americans are waving their flags for it.. 
 
 Obama's Amerika. We're so screwed.
 
@@ -98,7 +98,8 @@ Obama's Amerika. We're so screwed.
 
 <div class="post" data-post-id="26558" data-author="jezer" data-date="2008-10-05T01:52:06+00:00" data-subject="">
 
-The government will slide? No great loss there, especially if the alternative is Obama's socialist republic of amerika.[/quote:3nytun01]
+> <strong>Weasel wrote:</strong>
+> The government will slide? No great loss there, especially if the alternative is Obama's socialist republic of amerika.
 
 I'm not American, so I don't care about obama or mccain... although, I do follow what is happening daily just out of interests sake.
 
@@ -108,7 +109,7 @@ My point was simply this... when a government gets involved in bailing out the e
 
 <div class="post" data-post-id="26559" data-author="Weasel" data-date="2008-10-05T07:23:24+00:00" data-subject="">
 
-Yeah I understand :)
+Yeah I understand <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Funny thing, Pelosi came marching out afterwards and made this big claim that, "we democrats believe in the free market".. how utterly clueless is that? She just finished pushing through a bill that flies in the face of what a free market is supposed to do and then says that!! ..and half the bloody country swallows it!! Must be something in the water..
 
@@ -126,7 +127,7 @@ I blame Auto
 
 <div class="post" data-post-id="26562" data-author="Leaf" data-date="2008-10-05T15:24:46+00:00" data-subject="">
 
-[url:3viil9nh]http://www.youtube.com/watch?v=7DIc8jdra0o#[/url:3viil9nh]
+http://www.youtube.com/watch?v=7DIc8jdra0o#
 
 Sad but true!
 
@@ -134,7 +135,7 @@ Sad but true!
 
 <div class="post" data-post-id="26563" data-author="Tap" data-date="2008-10-05T18:11:36+00:00" data-subject="">
 
-[url:1ogam43l]http://www.youtube.com/watch?v=AHcxzBwjYHg[/url:1ogam43l]
+http://www.youtube.com/watch?v=AHcxzBwjYHg
 
 Not true and yet, not unlikely
 
@@ -148,9 +149,9 @@ I switched off after they started making accusations of bookburning.. the video 
 
 If you want to see something truly alarming, check out the following videos from Obama's Hitler Youth movement.. if this doesn't scare the bejesus out of you, then nothing will.. this is a true socialist-dictatorship in the making.
 
-[url:32ppcnc6]http://www.youtube.com/watch?v=rUEQz5dltmI[/url:32ppcnc6]
+http://www.youtube.com/watch?v=rUEQz5dltmI
 
-[url:32ppcnc6]http://www.youtube.com/watch?v=QTb5EFZmgbs[/url:32ppcnc6]
+http://www.youtube.com/watch?v=QTb5EFZmgbs
 
 be afraid, be VERY afraid.
 
@@ -158,9 +159,12 @@ be afraid, be VERY afraid.
 
 <div class="post" data-post-id="26565" data-author="Weasel" data-date="2008-10-05T18:18:38+00:00" data-subject="">
 
-[url:1rj3c1pn]http://www.youtube.com/watch?v=AHcxzBwjYHg[/url:1rj3c1pn]
-
-Not true and yet, not unlikely[/quote:1rj3c1pn]
+> <strong>Tap wrote:</strong>
+> http://www.youtube.com/watch?v=AHcxzBwjYHg
+> 
+> 
+> 
+> Not true and yet, not unlikely
 
 damn, that is awesome. expect it.
 
@@ -168,29 +172,31 @@ damn, that is awesome. expect it.
 
 <div class="post" data-post-id="26566" data-author="Autolycos" data-date="2008-10-05T19:32:14+00:00" data-subject="Re: Oppose Pirates">
 
-trying to watch FOX News and I keep seeing news about pirates becoming more aggressive.
+> <strong>Tap wrote:</strong>
+> trying to watch FOX News and I keep seeing news about pirates becoming more aggressive.
+> 
+> 
+> 
+> I blame Auto
 
-I blame Auto[/quote:2h46dk13]
-
-*snicker
+\*snicker
 
 </div>
 
 <div class="post" data-post-id="26571" data-author="Leaf" data-date="2008-10-06T19:05:12+00:00" data-subject="">
 
-It's amazing how scared Palin has made the left.. heck, she's going for #2, I'd be far more concerned about Obama being #1 if I were you..
+> <strong>Weasel wrote:</strong>
+> It's amazing how scared Palin has made the left.. heck, she's going for #2, I'd be far more concerned about Obama being #1 if I were you..
 
-[/quote:3mp5uec6]
-
-Got to look at the whole picture.  #1 and #2 for this country.  Since I have
+Got to look at the whole picture. #1 and #2 for this country. Since I have
 
 a feeling that if Obama becomes Pres, then some KKK red-neck will try and
 
-kill him.  Then it will be Binden as #2.  
+kill him. Then it will be Binden as #2. 
 
 And from a great quote from SNL... Palin is a heart beat away to become #1.
 
-I'm not trying to change anyone's mind on who to vote for.  Since most
+I'm not trying to change anyone's mind on who to vote for. Since most
 
 ppl have made up their mind, and only 15% actually ever change it.
 
@@ -202,13 +208,13 @@ ppl have made up their mind, and only 15% actually ever change it.
 
 Btw, California going bankrupt is a rather big deal, they produce a very large portion of the nation's gross domestic product.
 
-[<LINK_TEXT text="http://www.calchamber.com/BusinessResou ... stics.aspx">http://www.calchamber.com/BusinessResources/InternationalResources/AllAboutInternationalTrade/Pages/TradeStatistics.aspx</LINK_TEXT>](http://www.calchamber.com/BusinessResources/InternationalResources/AllAboutInternationalTrade/Pages/TradeStatistics.aspx)
+[http://www.calchamber.com/BusinessResources/InternationalResources/AllAboutInternationalTrade/Pages/TradeStatistics.aspx](http://www.calchamber.com/BusinessResources/InternationalResources/AllAboutInternationalTrade/Pages/TradeStatistics.aspx)
 
 Illinois also produces quite a bit, and both of these states have huge population centers.
 
-[<LINK_TEXT text="http://www2.illinoisbiz.biz/oti/toptrad ... ntries.xls">http://www2.illinoisbiz.biz/oti/toptrade/top100countries.xls</LINK_TEXT>](http://www2.illinoisbiz.biz/oti/toptrade/top100countries.xls)
+[http://www2.illinoisbiz.biz/oti/toptrade/top100countries.xls](http://www2.illinoisbiz.biz/oti/toptrade/top100countries.xls)
 
-[<LINK_TEXT text="http://findarticles.com/p/articles/mi_m ... 34566/pg_4">http://findarticles.com/p/articles/mi_m3SUR/is_7_80/ai_64334566/pg_4</LINK_TEXT>](http://findarticles.com/p/articles/mi_m3SUR/is_7_80/ai_64334566/pg_4)
+[http://findarticles.com/p/articles/mi_m3SUR/is_7_80/ai_64334566/pg_4](http://findarticles.com/p/articles/mi_m3SUR/is_7_80/ai_64334566/pg_4)
 
 So yea, if your goal is to prevent as much hardship as possible, these states should not go bankrupt.
 
@@ -216,7 +222,7 @@ So yea, if your goal is to prevent as much hardship as possible, these states sh
 
 <div class="post" data-post-id="26573" data-author="Weasel" data-date="2008-10-06T21:50:31+00:00" data-subject="">
 
-They're going bankrupt because they can't control their spending.. and if those states in particular produce so much relative to others, then their spending must [i:16zbhuwz]really[/i:16zbhuwz] be out of control..  Gee, aren't all three of those states democrat states? What a coincidence! Spend spend spend, much like the $105billion in earmarks added to this bailout, and much like Obama wants to do - spend money we don't have, at the expense of responsible taxpayers. Lovely.
+They're going bankrupt because they can't control their spending.. and if those states in particular produce so much relative to others, then their spending must <em>really</em> be out of control.. Gee, aren't all three of those states democrat states? What a coincidence! Spend spend spend, much like the $105billion in earmarks added to this bailout, and much like Obama wants to do - spend money we don't have, at the expense of responsible taxpayers. Lovely.
 
 California in particular need to suck it in.
 
@@ -224,27 +230,27 @@ California in particular need to suck it in.
 
 <div class="post" data-post-id="26577" data-author="Mosaix" data-date="2008-10-07T03:54:39+00:00" data-subject="">
 
-So yeah I hate the bailout, I really hate it.  Something needed to happen, but I disagree with this bailout.  Though the AMT tax reduction will be nice come tax time in April 2009.  
+So yeah I hate the bailout, I really hate it. Something needed to happen, but I disagree with this bailout. Though the AMT tax reduction will be nice come tax time in April 2009. 
 
-Weasel, California has a Republican Governor.  
+Weasel, California has a Republican Governor. 
 
 Also Weasel, President Bush a Republican president for the last 8 years, created the bailout plan, got on TV and asked congress to pass it, and Republican president George Bush signed it into law.
 
-So is Bush a socialist then too?  Cause he signed the bailout into law.
+So is Bush a socialist then too? Cause he signed the bailout into law.
 
 A bailout that is more money than the national budget of the Netherlands.
 
-The Republican Bush presidency took office in 2000 with $5.7 trillion of national debt.  Today that stands at $10.2 trillion on his watch.   Its the single greatest increase under any president in US history.
+The Republican Bush presidency took office in 2000 with $5.7 trillion of national debt. Today that stands at $10.2 trillion on his watch. Its the single greatest increase under any president in US history.
 
-Yet not a peep from you about any of that.  Though im sure if Bush was a Democrat you would rant endlessly about this stuff too.
+Yet not a peep from you about any of that. Though im sure if Bush was a Democrat you would rant endlessly about this stuff too.
 
-The banking industry was deregulated which caused wall-street to run free.  Deregulation while nice, does not always work in all cases.
+The banking industry was deregulated which caused wall-street to run free. Deregulation while nice, does not always work in all cases.
 
-Sometimes you need to regulate.  As we can live and see right now, deregulation doesnt always work.  
+Sometimes you need to regulate. As we can live and see right now, deregulation doesnt always work. 
 
-They deregulated utilites here in Maryland.  My electric and gas bill went up 70% that very year and another 8% this year.  Baltimore Gas and Electric(constellation energy) to no suprise started to post record profits each quarter to boost its stock price.  So between that and the wall street crap, I pretty much hate deregulation at this point.  Do I want Socialism? No.  Some thought out regulation when needed?  Yes.
+They deregulated utilites here in Maryland. My electric and gas bill went up 70% that very year and another 8% this year. Baltimore Gas and Electric(constellation energy) to no suprise started to post record profits each quarter to boost its stock price. So between that and the wall street crap, I pretty much hate deregulation at this point. Do I want Socialism? No. Some thought out regulation when needed? Yes.
 
-Google and look up what a Credit Default Swap is, and how it got out of control.  Its a main reason right now why the banks are all messed up, and are going to get even worse.  The banks are not lending money because they dont know what is going on from one bank to another.  Because CDS's are not regulated, when they are bought nothing needs to be disclosed.  So no one in the bank world knows who actually has what.  
+Google and look up what a Credit Default Swap is, and how it got out of control. Its a main reason right now why the banks are all messed up, and are going to get even worse. The banks are not lending money because they dont know what is going on from one bank to another. Because CDS's are not regulated, when they are bought nothing needs to be disclosed. So no one in the bank world knows who actually has what. 
 
 Below is the definition of a CDS to start to help you get more educated.
 
@@ -254,21 +260,21 @@ From Wikipedia,
 
 Originally used as a form of insurance against bad debts, these instruments became a tool for financial speculation when the US Commodity Futures Modernization Act of 2000 specifically barred regulation of these trades."
 
-Also CDS's started to get oversold and out of control in 2003.  There are about 5 trillion dollars worth of equity backed by 40 trillion dollars worth of bogus CDS's.  So if everyone gets to hedge their bets there is a 35 trillion dollar shortage.   Thats a big financial time bomb headed our way.  The more things that fail like Lehman Brothers, the more these CDS's get claimed, and the bigger and badder this financial mess will fall like dominos.  The bulk of the reason AIG Insurance failed was they had backed a ton of these CDS's and didnt have the equity to pay for it.  
+Also CDS's started to get oversold and out of control in 2003. There are about 5 trillion dollars worth of equity backed by 40 trillion dollars worth of bogus CDS's. So if everyone gets to hedge their bets there is a 35 trillion dollar shortage. Thats a big financial time bomb headed our way. The more things that fail like Lehman Brothers, the more these CDS's get claimed, and the bigger and badder this financial mess will fall like dominos. The bulk of the reason AIG Insurance failed was they had backed a ton of these CDS's and didnt have the equity to pay for it. 
 
-Its a real and serious financial mess out there.  Good luck.
+Its a real and serious financial mess out there. Good luck.
 
 </div>
 
 <div class="post" data-post-id="26578" data-author="jezer" data-date="2008-10-07T04:23:31+00:00" data-subject="">
 
-[img:1yhg79dp]http://www.crabwalk.com/pix/rodent.jpg[/img:1yhg79dp]
+![](http://www.crabwalk.com/pix/rodent.jpg)
 
 </div>
 
 <div class="post" data-post-id="26580" data-author="Weasel" data-date="2008-10-07T11:21:15+00:00" data-subject="">
 
-Exactly Jezer :)
+Exactly Jezer <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Arnold got voted in because he's Arnold, not because he's Republican. The state itself boasts the biggest concentration of the most extreme liberals in the country.
 
@@ -282,9 +288,9 @@ Credit swaps (and mark-to-market, which is also a big factor imho) is a differen
 
 After doing some reading, I see that california is asking for a loan, not a handout, to mitigate short-term damage caused by investors calling in municipal debts to cover their losses from the credit CF.
 
-[<LINK_TEXT text="http://www.reuters.com/article/bondsNew ... 4620081007">http://www.reuters.com/article/bondsNews/idUSN0738644620081007</LINK_TEXT>](http://www.reuters.com/article/bondsNews/idUSN0738644620081007)
+[http://www.reuters.com/article/bondsNews/idUSN0738644620081007](http://www.reuters.com/article/bondsNews/idUSN0738644620081007)
 
-[<LINK_TEXT text="http://financial-dictionary.thefreedict ... cipal+Debt">http://financial-dictionary.thefreedictionary.com/Municipal+Debt</LINK_TEXT>](http://financial-dictionary.thefreedictionary.com/Municipal+Debt)
+[http://financial-dictionary.thefreedictionary.com/Municipal+Debt](http://financial-dictionary.thefreedictionary.com/Municipal+Debt)
 
 So in fact, this request is not a result of excessive spending.
 
@@ -318,7 +324,7 @@ Ok. AIG is being called a bailout by pretty much everyone, yet it is a $85billio
 
 The actual 'bailout' portion of The Bill is not really a bailout strictly speaking - the government will effectively buy loans (or credit card debt etc etc) from banks etc, but pay maybe 30cents on the dollar (that will vary depending on risk, but still a hard pill to swallow for the businesses concerned) - this is where current mark-to-market rate comes in on unrealized assets, which is pretty harsh with the economy as it is - a consequence of SOX laws. If the businesses concerned had enough liquidity to sit out the current downturn in the economy, they'd be much better off in the long run, however they've overextended themselves, much like California has. The government will sit on those loans for several years and wait for the economy to improve, and then sell them back to the market when it is more liquid, making a substantial profit in the process. 
 
-Now if you believe that the government will not be able to make a profit (and possibly double their money in some cases), then that means you do not believe the economy will improve. If you believe the economy will not improve, then California will not be receiving sufficient tax revenues to repay their $7billion [i:1sgeksy9]bailout[/i:1sgeksy9] (or loan, whatever), especially if they don't have enough tax revenue to meet their blown-out budget right now. Had California been operating within their budget, they would not require this 'loan' in the first place, so what makes you think they will suddenly change their habits and not only operate within their budget but below it in order to repay the 'loan', particularly as the economy worsens. It doesn't make sense. Both the 'Wall St bailout' and State bailouts depend on the same thing - an improving economy in the future. If you believe in one, then you must believe in the other. 
+Now if you believe that the government will not be able to make a profit (and possibly double their money in some cases), then that means you do not believe the economy will improve. If you believe the economy will not improve, then California will not be receiving sufficient tax revenues to repay their $7billion <em>bailout</em> (or loan, whatever), especially if they don't have enough tax revenue to meet their blown-out budget right now. Had California been operating within their budget, they would not require this 'loan' in the first place, so what makes you think they will suddenly change their habits and not only operate within their budget but below it in order to repay the 'loan', particularly as the economy worsens. It doesn't make sense. Both the 'Wall St bailout' and State bailouts depend on the same thing - an improving economy in the future. If you believe in one, then you must believe in the other. 
 
 Do you get what I mean by double standard? Actually I don't think you said one way or the other if you think the (so called) Wall St bailout is a good idea or not... My comment re double standards is not really aimed at you personally, but at many people in general who seem to think in contradictory terms... if you follow..
 
@@ -328,21 +334,30 @@ Sorry if this is a little disjointed.. coming down with some nasty bug at the mo
 
 <div class="post" data-post-id="26588" data-author="Medios" data-date="2008-10-07T21:42:02+00:00" data-subject="">
 
-It is really funny to me that Republicans say that its both parties fault, and Democrats say that it is GW Bush's fault.  So here is my question.  Did GW Bush force banks to make sub prime loans?  Did GW Bush force lenders to make 120% loans on properties?  If the answer is no then why would all the blame fall on him.  There is a reason this country has checks and balances.  We are not a dictatorship(yet).  If the Democrats want to sit on their hands and play the blame game all day that is fine were used to it.  Meanwhile I hope you don't have any money in the stock market, that evil GW Bush is out to take it all.
+It is really funny to me that Republicans say that its both parties fault, and Democrats say that it is GW Bush's fault. So here is my question. Did GW Bush force banks to make sub prime loans? Did GW Bush force lenders to make 120% loans on properties? If the answer is no then why would all the blame fall on him. There is a reason this country has checks and balances. We are not a dictatorship(yet). If the Democrats want to sit on their hands and play the blame game all day that is fine were used to it. Meanwhile I hope you don't have any money in the stock market, that evil GW Bush is out to take it all.
 
 </div>
 
 <div class="post" data-post-id="26589" data-author="Medios" data-date="2008-10-07T21:44:39+00:00" data-subject="">
 
-Ok. AIG is being called a bailout by pretty much everyone, yet it is a $85billion loan, w[b:34ex69yu]ith a very high 11% interest rate on it. Somehow I doubt California expect to pay interest like that[/b:34ex69yu], but that's beside the point. There are also short term loans available to businesses (new program announced today), yet that is also being termed as a bailout throughout the MSM. Call a spade a spade - either they're loans or they're bailouts, as long as you're consistent. 
-
-The actual 'bailout' portion of The Bill is not really a bailout strictly speaking - the government will effectively buy loans (or credit card debt etc etc) from banks etc, but pay maybe 30cents on the dollar (that will vary depending on risk, but still a hard pill to swallow for the businesses concerned) - this is where current mark-to-market rate comes in on unrealized assets, which is pretty harsh with the economy as it is - a consequence of SOX laws. If the businesses concerned had enough liquidity to sit out the current downturn in the economy, they'd be much better off in the long run, however they've overextended themselves, much like California has. The government will sit on those loans for several years and wait for the economy to improve, and then sell them back to the market when it is more liquid, making a substantial profit in the process. 
-
-Now if you believe that the government will not be able to make a profit (and possibly double their money in some cases), then that means you do not believe the economy will improve. If you believe the economy will not improve, then California will not be receiving sufficient tax revenues to repay their $7billion [i:34ex69yu]bailout[/i:34ex69yu] (or loan, whatever), especially if they don't have enough tax revenue to meet their blown-out budget right now. Had California been operating within their budget, they would not require this 'loan' in the first place, so what makes you think they will suddenly change their habits and not only operate within their budget but below it in order to repay the 'loan', particularly as the economy worsens. It doesn't make sense. Both the 'Wall St bailout' and State bailouts depend on the same thing - an improving economy in the future. If you believe in one, then you must believe in the other. 
-
-Do you get what I mean by double standard? Actually I don't think you said one way or the other if you think the (so called) Wall St bailout is a good idea or not... My comment re double standards is not really aimed at you personally, but at many people in general who seem to think in contradictory terms... if you follow..
-
-Sorry if this is a little disjointed.. coming down with some nasty bug at the moment and am feeling sick as a dog, shaky and feverish but chilled to the bone at the same time... not much fun.[/quote:34ex69yu]
+> <strong>Weasel wrote:</strong>
+> Ok. AIG is being called a bailout by pretty much everyone, yet it is a $85billion loan, w<strong>ith a very high 11% interest rate on it. Somehow I doubt California expect to pay interest like that</strong>, but that's beside the point. There are also short term loans available to businesses (new program announced today), yet that is also being termed as a bailout throughout the MSM. Call a spade a spade - either they're loans or they're bailouts, as long as you're consistent. 
+> 
+> 
+> 
+> The actual 'bailout' portion of The Bill is not really a bailout strictly speaking - the government will effectively buy loans (or credit card debt etc etc) from banks etc, but pay maybe 30cents on the dollar (that will vary depending on risk, but still a hard pill to swallow for the businesses concerned) - this is where current mark-to-market rate comes in on unrealized assets, which is pretty harsh with the economy as it is - a consequence of SOX laws. If the businesses concerned had enough liquidity to sit out the current downturn in the economy, they'd be much better off in the long run, however they've overextended themselves, much like California has. The government will sit on those loans for several years and wait for the economy to improve, and then sell them back to the market when it is more liquid, making a substantial profit in the process. 
+> 
+> 
+> 
+> Now if you believe that the government will not be able to make a profit (and possibly double their money in some cases), then that means you do not believe the economy will improve. If you believe the economy will not improve, then California will not be receiving sufficient tax revenues to repay their $7billion <em>bailout</em> (or loan, whatever), especially if they don't have enough tax revenue to meet their blown-out budget right now. Had California been operating within their budget, they would not require this 'loan' in the first place, so what makes you think they will suddenly change their habits and not only operate within their budget but below it in order to repay the 'loan', particularly as the economy worsens. It doesn't make sense. Both the 'Wall St bailout' and State bailouts depend on the same thing - an improving economy in the future. If you believe in one, then you must believe in the other. 
+> 
+> 
+> 
+> Do you get what I mean by double standard? Actually I don't think you said one way or the other if you think the (so called) Wall St bailout is a good idea or not... My comment re double standards is not really aimed at you personally, but at many people in general who seem to think in contradictory terms... if you follow..
+> 
+> 
+> 
+> Sorry if this is a little disjointed.. coming down with some nasty bug at the moment and am feeling sick as a dog, shaky and feverish but chilled to the bone at the same time... not much fun.
 
 If I had to pay 8.5% on an education loan from the Fed than I fully expect California to take one in the pooper.
 
@@ -352,21 +367,22 @@ If I had to pay 8.5% on an education loan from the Fed than I fully expect Calif
 
 According to the LA Times, "It's customary for California to borrow billions of dollars at the start of the fiscal year to fill its coffers until the usual flood of sales tax receipts comes in after Christmas and income tax receipts arrive in the spring."
 
-Source: [<LINK_TEXT text="http://www.latimes.com/business/la-fi-c ... ?track=rss">http://www.latimes.com/business/la-fi-calif3-2008oct03,0,5726760.story?track=rss</LINK_TEXT>](http://www.latimes.com/business/la-fi-calif3-2008oct03,0,5726760.story?track=rss)
+Source: [http://www.latimes.com/business/la-fi-calif3-2008oct03,0,5726760.story?track=rss](http://www.latimes.com/business/la-fi-calif3-2008oct03,0,5726760.story?track=rss)
 
 Due to the credit crunch, CA is unable to do this.
 
-Banks and insurers defaulted because they took huge risks.  If what the LA Times says about CA's expenditure behavior is true, then California is operating the way it always has, and this emergency is an aftereffect of the credit crunch triggered from the subprime mortgaging.
+Banks and insurers defaulted because they took huge risks. If what the LA Times says about CA's expenditure behavior is true, then California is operating the way it always has, and this emergency is an aftereffect of the credit crunch triggered from the subprime mortgaging.
 
-If CA were able to pay the banks back (since allegedly this is normal behavior), then they should be able to pay back the government (eventually).  You use the term "economy" as if it applies the same way to California as it does to the huge failed corporations.  They took huge risks.  Their mark-to-market assets could not realistically have been achieved, because there was no way for homeowners (home investors) to meet their mortgages.  The homeowners default, the housing bubble finally collapses, and all of the lenders and insurers CANNOT realize their mark-to-market.
+If CA were able to pay the banks back (since allegedly this is normal behavior), then they should be able to pay back the government (eventually). You use the term "economy" as if it applies the same way to California as it does to the huge failed corporations. They took huge risks. Their mark-to-market assets could not realistically have been achieved, because there was no way for homeowners (home investors) to meet their mortgages. The homeowners default, the housing bubble finally collapses, and all of the lenders and insurers CANNOT realize their mark-to-market.
 
-Assuming that CA did not play this financial game and are just operating within normal procedure, then CA is just caught up in the aftershock of this disaster.  Whether or not they should've accounted for that is another matter, but it is not comparable to the huge risks that AIG and Bear Stearns and Lehman and Fannie/Freddie took.
+Assuming that CA did not play this financial game and are just operating within normal procedure, then CA is just caught up in the aftershock of this disaster. Whether or not they should've accounted for that is another matter, but it is not comparable to the huge risks that AIG and Bear Stearns and Lehman and Fannie/Freddie took.
 
 </div>
 
 <div class="post" data-post-id="26594" data-author="jezer" data-date="2008-10-07T23:47:13+00:00" data-subject="">
 
-[quote:1ggm3svp]It is really funny to me that Republicans say that its both parties fault, and Democrats say that it is GW Bush's fault.[/quote:1ggm3svp]
+> <strong>Quote:</strong>
+> It is really funny to me that Republicans say that its both parties fault, and Democrats say that it is GW Bush's fault.
 
 It's no political parties fault. It's humanity! Stupid twits filled by greed, they are both Republican and Democrat! This is not really a political issue... Rich people over extended themselves to try and get richer and it's causing consequences for the economy... that's not politics, that's GREED.
 
@@ -384,13 +400,13 @@ But people have always been greedy.
 
 Well... I think trying to make money from poorer people, with money you don't REALLY have... has taken things to new heights... Not to mention the amount of people that "got on board" this train...
 
-You know what they say about momentum... mass x acceleration... but don't quote me on that... physics was my worst subject...  :evil:
+You know what they say about momentum... mass x acceleration... but don't quote me on that... physics was my worst subject... <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="26597" data-author="reboog" data-date="2008-10-08T00:12:24+00:00" data-subject="">
 
-The problem is that the government constructed this train in the first place.  They built the means to buy houses with no down payment, and people hopped on.
+The problem is that the government constructed this train in the first place. They built the means to buy houses with no down payment, and people hopped on.
 
 If people could not have bought houses like this, then obviously the housing bubble would not have happened, at least at this magnitude.
 
@@ -414,25 +430,29 @@ Reminds me of a bunch of movies I've seen about wars. How some people groups are
 
 If you are suggesting that the fix is to change all of humanity, then, uh, yeah.
 
-I blame the government.  I blame the Demoblicans.  Or is the Republicrats?
+I blame the government. I blame the Demoblicans. Or is the Republicrats?
 
 </div>
 
 <div class="post" data-post-id="26601" data-author="Weasel" data-date="2008-10-08T00:36:41+00:00" data-subject="">
 
-Maybe we should take some responsibility instead of blaming whatever/whomever we don't like. (Except if it's weasel, then it's ok)[/quote:1ri3sskc]
+> <strong>jezer wrote:</strong>
+> Maybe we should take some responsibility instead of blaming whatever/whomever we don't like. (Except if it's weasel, then it's ok)
 
-  :P
+ <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="26603" data-author="jezer" data-date="2008-10-08T00:51:27+00:00" data-subject="">
 
-If you are suggesting that the fix is to change all of humanity, then, uh, yeah.
+> <strong>reboog wrote:</strong>
+> If you are suggesting that the fix is to change all of humanity, then, uh, yeah.
+> 
+> 
+> 
+> I blame the government. I blame the Demoblicans. Or is the Republicrats?
 
-I blame the government.  I blame the Demoblicans.  Or is the Republicrats?[/quote:f23nwfp3]
-
-I'm simply suggesting we stop attacking each other, because of politics. Small men blame someone else.  :?
+I'm simply suggesting we stop attacking each other, because of politics. Small men blame someone else. <img src="/images/smilies/icon_e_confused.svg" alt=":?" title=":?" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -442,7 +462,7 @@ Anyone watch the McCain-Obama debate? What a snooze-fest.. boring as hell. McCai
 
 They saved the worst for last though. Six million questions to choose from, and what question does Tom Brokaw choose? :
 
-[b:274bwu1q] "What don't you know and how will you learn it?â€[/b:274bwu1q]
+ <strong>"What don't you know and how will you learn it?â€</strong>
 
 Gratz Tom for picking the most stupid question of all time. You win the debate.
 
@@ -450,9 +470,10 @@ Gratz Tom for picking the most stupid question of all time. You win the debate.
 
 <div class="post" data-post-id="26619" data-author="Yasik2" data-date="2008-10-08T11:17:08+00:00" data-subject="">
 
-By the way, Force = mass x acceleration
-
-momentum = mass x velocity[/quote:c3t3hj3o]
+> <strong>reboog wrote:</strong>
+> By the way, Force = mass x acceleration
+> 
+> momentum = mass x velocity
 
 I sense teh massive greatness in this psto
 
@@ -486,6 +507,6 @@ Pelosi said a stimulus package would create jobs by investing in public works, i
 
 <div class="post" data-post-id="26726" data-author="Dragoth" data-date="2008-10-16T11:33:14+00:00" data-subject="">
 
-[<LINK_TEXT text="http://video.google.com/videosearch?q=z ... ovie&emb=0">http://video.google.com/videosearch?q=zeitgeist+addendum&emb=0&aq=0&oq=zeitgeist+adde#q=zeitgeist%20addendum%20full%20movie&emb=0</LINK_TEXT>](http://video.google.com/videosearch?q=zeitgeist+addendum&emb=0&aq=0&oq=zeitgeist+adde#q=zeitgeist%20addendum%20full%20movie&emb=0)
+[http://video.google.com/videosearch?q=zeitgeist+addendum&emb=0&aq=0&oq=zeitgeist+adde#q=zeitgeist%20addendum%20full%20movie&emb=0](http://video.google.com/videosearch?q=zeitgeist+addendum&emb=0&aq=0&oq=zeitgeist+adde#q=zeitgeist%20addendum%20full%20movie&emb=0)
 
 </div>

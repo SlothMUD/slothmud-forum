@@ -14,7 +14,7 @@ post_count: 1
 
 sorry, one more item..
 
-Aura of Midnight  -0.1	+10 Mana, +1 Con	MM MC MDr MNe [OR]
+Aura of Midnight -0.1	+10 Mana, +1 Con	MM MC MDr MNe [OR]
 
 4 mils min,
 

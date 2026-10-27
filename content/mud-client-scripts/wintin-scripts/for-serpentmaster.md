@@ -20,7 +20,7 @@ post_count: 3
 
 <div class="post" data-post-id="29708" data-author="filariel" data-date="2009-07-21T04:04:30+00:00" data-subject="">
 
-#action {leader %1} {#var leader $1}
+\#action {leader %1} {#var leader $1}
 
 </div>
 

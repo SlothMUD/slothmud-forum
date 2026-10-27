@@ -32,7 +32,7 @@ The nerdy kid who kissed that hot chick on that superbowl commercial.
 
 And, of course, A TORNADO!!!
 
-Ok, FOUR ideas for now, I'm done :)
+Ok, FOUR ideas for now, I'm done <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 I'm not gonna say who should be which.
 
@@ -40,7 +40,7 @@ I'm not gonna say who should be which.
 
 <div class="post" data-post-id="34015" data-author="Yasik" data-date="2013-02-08T11:22:19+00:00" data-subject="Re: Forum avatar suggestions for Breeze and Splork">
 
-**Splork and Breeze, you say... Let's see...**
+<strong>Splork and Breeze, you say... Let's see...</strong>
 
 ![](http://dl.dropbox.com/u/72105811/Pics/Splork_Breeze.jpg)
 

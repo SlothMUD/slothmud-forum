@@ -14,7 +14,7 @@ post_count: 4
 
 Sneak peek: Draft map of Lair of the Succubi
 
-This map has been long in coming; I've had a few versions of it sitting around a year or so.  Happy autoquesting.
+This map has been long in coming; I've had a few versions of it sitting around a year or so. Happy autoquesting.
 
 ![](http://vip.mccuistions.com/slothmud/lair.png)
 

@@ -12,7 +12,7 @@ post_count: 8
 
 <div class="post" data-post-id="26039" data-author="jezer" data-date="2008-08-31T10:06:56+00:00" data-subject="Random XP Loss">
 
-<1599hp 319ma 142mv -11.1ac +3al 1807450251[/color:308fmoju]xp +54mr>
+\<1599hp 319ma 142mv -11.1ac +3al 1807450251xp +54mr\>
 
 You massacre a lammasu temple militia to small fragments with your rake.
 
@@ -30,7 +30,7 @@ A lammasu temple militia's weapon cuts right through one of your limbs!!!
 
 A lammasu temple militia massacres you to small fragments with his cleave.
 
-<1573hp 323ma 145mv -11.1ac +3al 1769803618xp +54mr>
+\<1573hp 323ma 145mv -11.1ac +3al 1769803618xp +54mr\>
 
 You brutally massacre a lammasu temple militia with your rake.
 
@@ -46,23 +46,23 @@ You get gold coins from the corpse of a lammasu temple militia that's on the gro
 
 There were 5500 coins.
 
-<1572hp 312ma 150mv -11.1ac +3al 1771561775[/color:308fmoju]xp +54mr>
+\<1572hp 312ma 150mv -11.1ac +3al 1771561775xp +54mr\>
 
 e
 
 Hallowed Walkway
 
-   The grounds are well manicured, with trimmed bushes, and stone walkways.
+ The grounds are well manicured, with trimmed bushes, and stone walkways.
 
 Numerous granite columns are evenly spaced along this path, leading to a
 
-small temple to the south.  This cloister is quite serene and secluded.
+small temple to the south. This cloister is quite serene and secluded.
 
 A gentle breeze blows in from above, making this a perfect spot to sit and
 
 ponder the meaning of life.
 
-Exits: South  West
+Exits: South West
 
 Only 90m from level too... after mudding for 8hrs... really sucks.
 
@@ -80,13 +80,13 @@ I've ran into this problem too and I have gotten an explination for this once ap
 
 Once apon a time chop was overpowered... and so to balance it out apparently they made each chop lower the xp on a mob by a certain amount or percentage... and of course if your shifted you become a mob and if your chopped your obviously gunna lose exp as well due to the same "feature".
 
-Hope that helps my suggestion is dont kill mobs with choppers shifted :)
+Hope that helps my suggestion is dont kill mobs with choppers shifted <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="26049" data-author="jezer" data-date="2008-08-31T23:51:57+00:00" data-subject="">
 
-Oh it's a feature!...  :roll:
+Oh it's a feature!... <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -106,7 +106,7 @@ However... I think it would be nice is this code was removed/changed. Some mobs 
 
 <div class="post" data-post-id="26053" data-author="Yinao" data-date="2008-09-01T03:00:27+00:00" data-subject="">
 
-Don't worry I lost over 180 mil chopping apirana and the lyme mayor :)
+Don't worry I lost over 180 mil chopping apirana and the lyme mayor <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

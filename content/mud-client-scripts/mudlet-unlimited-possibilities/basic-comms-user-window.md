@@ -20,9 +20,9 @@ openUserWindow("gossip")
 
 Then make a trigger for gossip with the following regex triggers:
 
-^(\w+) (gossips|newbies)--(.*) 
+^(\\w+) (gossips\|newbies)--(.\*) 
 
-^You (gossip|newbie)-- (.*)
+^You (gossip\|newbie)-- (.\*)
 
 That does the following:
 

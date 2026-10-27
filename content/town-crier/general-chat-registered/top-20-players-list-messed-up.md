@@ -24,15 +24,16 @@ heh i am clueless as to whether or not they are messed up, but i wanna know if w
 
 <div class="post" data-post-id="7361" data-author="13" data-date="2005-06-20T12:10:35+00:00" data-subject="">
 
-The stats are one of the most important features of the website, to me.  I would like to see the warcry stat too.  I know it takes someone's personal time to update the weekly stats stuff.  I would like to say thank you.
+The stats are one of the most important features of the website, to me. I would like to see the warcry stat too. I know it takes someone's personal time to update the weekly stats stuff. I would like to say thank you.
 
 </div>
 
 <div class="post" data-post-id="7362" data-author="12345" data-date="2005-06-20T12:17:11+00:00" data-subject="">
 
-I would like to say thank you.[/quote:nadoi340]
+> <strong>13 wrote:</strong>
+> I would like to say thank you.
 
-*speechless*
+\*speechless\*
 
 </div>
 
@@ -46,13 +47,13 @@ Did I just say that out loud...
 
 <div class="post" data-post-id="7377" data-author="osric" data-date="2005-06-20T16:20:35+00:00" data-subject="">
 
-It does sound odd to day doesn't it?  Well it had to happen once  :D
+It does sound odd to day doesn't it? Well it had to happen once <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="7378" data-author="osric" data-date="2005-06-20T16:21:01+00:00" data-subject="">
 
-It does sound odd to say doesn't it?  Well it had to happen once  :D
+It does sound odd to say doesn't it? Well it had to happen once <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -90,7 +91,7 @@ hahahaha
 
 <div class="post" data-post-id="7382" data-author="*Splork*" data-date="2005-06-20T19:16:55+00:00" data-subject="">
 
-Yes Corwin is right for once, June 15th stats are fucked up, they are actually the same as May 15th. Until it gets automatated, which I can not do,  they will continue to be fucked up here and there when I update them. Its either that or I yank them entirely until it gets automated :twisted: 
+Yes Corwin is right for once, June 15th stats are fucked up, they are actually the same as May 15th. Until it gets automatated, which I can not do, they will continue to be fucked up here and there when I update them. Its either that or I yank them entirely until it gets automated <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 Enjoy,
 

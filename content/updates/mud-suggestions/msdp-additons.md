@@ -14,15 +14,15 @@ post_count: 19
 
 I keep coming across ideas for MSDP variables. Figured I'd start a topic to keep them organized...
 
-1. Hunger and thirst level
+1\. Hunger and thirst level
 
 </div>
 
 <div class="post" data-post-id="34660" data-author="DarkArtist" data-date="2013-12-20T14:04:14+00:00" data-subject="Re: MSDP additons">
 
-2. Character Position
+2\. Character Position
 
-3. Spell Affects
+3\. Spell Affects
 
 </div>
 
@@ -42,7 +42,7 @@ Separate would be a ton of new vars. I will just take the string and do a patter
 
 So thanks for putting those in, that's pretty awesome. I'll post the pattern match script when I get it worked out. I didn't get around to trying Akaya's after he told me how to input the characters, so I don't know if that works or not. He said something about linux or Ubuntu being different? I'm not even sure what that means with regard to mudlet. I need to muscle thru it anyway as a learning exercise. 
 
-It would be pretty cool too btw if msdpexits added a prefix or suffix that indicates door status.  Since we have to pattern match anyway, it wouldn't make it any harder.
+It would be pretty cool too btw if msdpexits added a prefix or suffix that indicates door status. Since we have to pattern match anyway, it wouldn't make it any harder.
 
 Here is how I currently parse the room exits that I pull from regular output, to take out the brackets. It's a crude first step to parsing them for door status as well.
 
@@ -56,7 +56,7 @@ function parseExits()
 
 parsedExits={}
 
-for k,v in pairs(exits) do  --print(k,v) --for testing
+for k,v in pairs(exits) do --print(k,v) --for testing
 
 if string.findPattern(v, "North") then
 
@@ -80,7 +80,7 @@ table.insert(parsedExits, "Up")
 
 elseif string.findPattern(v, "Down") then
 
-table.insert(parsedExits, "Down")  end end
+table.insert(parsedExits, "Down") end end
 
 Then to test an exit against the parsed table:
 
@@ -96,46 +96,46 @@ else return(false) end end
 
 Here's my exits trigger in case someone needs it too
 
-^Exits:(\s+)(.*)(\s\s\s)$
+^Exits:(\\s+)(.\*)(\\s\\s\\s)$
 
 exitString=matches[3]
 
-exits=exitString:split("  ")    ---TWO SPACES
+exits=exitString:split(" ") ---TWO SPACES
 
---display(exits)...for testing
+\--display(exits)...for testing
 
 parseExits()
 
 selectCurrentLine()
 
-deleteLine()  --I don't care to see the exits.
+deleteLine() --I don't care to see the exits.
 
 This should work for the msdp output too. Haven't done it yet tho. I'm working on parsing door status (open/closed) brackets to make a key val pair of valid exits / status. This stuff probably exits in the mapper scripts somewhere, but it's too obtuse for my limited skills as of yet. The advantage of the above scripts is that a newb like me can understand whats going on.
 
-edit: maybe instead of a prefix or suffix for door status, just have the output in pairs? i.e. North closed South open East locked.  Just a thought.
+edit: maybe instead of a prefix or suffix for door status, just have the output in pairs? i.e. North closed South open East locked. Just a thought.
 
 </div>
 
 <div class="post" data-post-id="34663" data-author="*Splork*" data-date="2013-12-20T20:17:53+00:00" data-subject="Re: MSDP additons">
 
-> **DarkArtist wrote:**
+> <strong>DarkArtist wrote:</strong>
 > It would be pretty cool too btw if msdpexits added a prefix or suffix that indicates door status. Since we have to pattern match anyway, it wouldn't make it any harder.
 
-I probably should document some of these variables better. The room_exits table includes W for Window, C for Closed exit ( door ), and O for an Open door. So if you call MSDP Room_EXits and see North O South C it means there is a north exit which is clear or open and a south exit with a door which is closed. I can extend this once we figure out what is going on with the parsing.
+I probably should document some of these variables better. The room\_exits table includes W for Window, C for Closed exit ( door ), and O for an Open door. So if you call MSDP Room\_EXits and see North O South C it means there is a north exit which is clear or open and a south exit with a door which is closed. I can extend this once we figure out what is going on with the parsing.
 
 I got extremely frustrated before with the odd characters from the msdpTable stuff ( exits and affects ) that I created the following msdp variables were added long ago but never mentioned ( they are in-game, just need to call for them ):
 
-Room_Up
+Room\_Up
 
-Room_Down
+Room\_Down
 
-Room_East
+Room\_East
 
-Room_West
+Room\_West
 
-Room_South
+Room\_South
 
-Room_North
+Room\_North
 
 These variables will either read the direction or none, meaning there is no exit to that direction. I am not sure how useful these are but they will read clearly and not need any pattern matching:)
 
@@ -143,59 +143,57 @@ Also, I started a larger project with Akaya which never got finished but the bas
 
 RoomVnum, possible rooms in each direction, pcs and mobs in each of those rooms. 
 
-This code may or may not be in-game currently but to try to  mess around with this code, you need to ask for the following variables:
+This code may or may not be in-game currently but to try to mess around with this code, you need to ask for the following variables:
 
  COORD1,
 
-   COORD2,
+ COORD2,
 
-   COORD3,
+ COORD3,
 
-   COORD4,
+ COORD4,
 
-   COORD5,
+ COORD5,
 
-   COORD6,
+ COORD6,
 
-   COORD7,
+ COORD7,
 
-   COORD8,
+ COORD8,
 
-   COORD9,
+ COORD9,
 
-   COORD10,
+ COORD10,
 
-   COORD11,
+ COORD11,
 
-   COORD12,
+ COORD12,
 
-   COORD13,
+ COORD13,
 
-   COORD14,
+ COORD14,
 
-   COORD15,
+ COORD15,
 
-   COORD16,
+ COORD16,
 
-   COORD17,
+ COORD17,
 
-   COORD18,
+ COORD18,
 
-   COORD19,
+ COORD19,
 
-   COORD20,
+ COORD20,
 
-   COORD21,
+ COORD21,
 
-   COORD22,
+ COORD22,
 
-   COORD23,
+ COORD23,
 
-   COORD24,
+ COORD24,
 
-   COORD25,
-
- 
+ COORD25,
 
 If this is not working please let me know and I can look into it.
 
@@ -207,37 +205,35 @@ Splork
 
 I figured the issue out with the above mentioned variables:
 
-Here is the output for splork, only tested coord1-3 and the room_Dir variables, its leaving out the odd characters seperating everything. I will have to tinker with this some more. Atm, the variables are not Room_East but MSDP_ROOM_EAST:) I removed the msdp part on next reboot.
+Here is the output for splork, only tested coord1-3 and the room\_Dir variables, its leaving out the odd characters seperating everything. I will have to tinker with this some more. Atm, the variables are not Room\_East but MSDP\_ROOM\_EAST:) I removed the msdp part on next reboot.
 
-  
+MSDPGROUP\_LEADER = "Splork",
 
-MSDPGROUP_LEADER = "Splork",
+ MSDPMSDP\_COORD2 = "12199619560199721192050000",
 
-  MSDPMSDP_COORD2 = "12199619560199721192050000",
+ MSDPMSDP\_ROOM\_WEST = "West",
 
-  MSDPMSDP_ROOM_WEST = "West",
+ MSDPMSDP\_COORD3 = "13196101962000002",
 
-  MSDPMSDP_COORD3 = "13196101962000002",
+ MSDPAFFECTS = "bought-1bought-1bought-1bought-1bought-1bought-1bought-1class-1",
 
-  MSDPAFFECTS = "bought-1bought-1bought-1bought-1bought-1bought-1bought-1class-1",
+ MSDPMSDP\_ROOM\_EAST = "East",
 
-  MSDPMSDP_ROOM_EAST = "East",
+ MSDPMSDP\_ROOM\_DOWN = "None",
 
-  MSDPMSDP_ROOM_DOWN = "None",
+ MSDPMSDP\_ROOM\_SOUTH = "South",
 
-  MSDPMSDP_ROOM_SOUTH = "South",
+ MSDPMSDP\_ROOM\_NORTH = "North",
 
-  MSDPMSDP_ROOM_NORTH = "North",
+ MSDPMSDP\_COORD1 = "22199719962044199820162051000",
 
-  MSDPMSDP_COORD1 = "22199719962044199820162051000",
-
-  MSDPROOM_EXITS = "NorthOEastOSouthOWestOUpO",
+ MSDPROOM\_EXITS = "NorthOEastOSouthOWestOUpO",
 
 </div>
 
 <div class="post" data-post-id="34665" data-author="DarkArtist" data-date="2013-12-20T23:06:30+00:00" data-subject="Re: MSDP additons">
 
-So the new format for MSDPROOM_EXITS goes in on reboot too? You have it printed there as output but I still get the old format ingame.
+So the new format for MSDPROOM\_EXITS goes in on reboot too? You have it printed there as output but I still get the old format ingame.
 
 I wrote a parser for the new format, using only the functions that I know, so yeah it's probably needlessly complex, but then needlessly complex is my forte.
 
@@ -245,13 +241,13 @@ I think the above should give a key val pair of Dir / Status. Am I on the right 
 
 exits=exits or {}
 
-----parse mspdroom_exits into a list of elements
+\----parse mspdroom\_exits into a list of elements
 
 function getExits()
 
 dirMatch={"NorthO","SouthO","EastO","WestO","UpO","DownO","NorthC","SouthC","EastC","WestC","UpC","DownC"}
 
---exitString=atcp.MSDPROOM_EXITS 
+\--exitString=atcp.MSDPROOM\_EXITS 
 
 exitString={"NorthOSouthCWestO"} --testing
 
@@ -267,7 +263,7 @@ table.insert(rawExits, v)
 
 end end
 
----now parse it into a new key val table of Dir/Status
+\---now parse it into a new key val table of Dir/Status
 
 for k,v in pairs(rawExits) do
 
@@ -353,9 +349,9 @@ end
 
 <div class="post" data-post-id="34666" data-author="*Splork*" data-date="2013-12-21T01:30:37+00:00" data-subject="Re: MSDP additons">
 
-My post was missing the odd characters, they wouldn't paste for some reason. Room_exits and affects output has not changed and the current in-game outputs are the same. Sorry for the confusion.
+My post was missing the odd characters, they wouldn't paste for some reason. Room\_exits and affects output has not changed and the current in-game outputs are the same. Sorry for the confusion.
 
-I am going to spend tonight and try to figure out a better output, it wont meet the msdp specification but who really cares. Ill call it something like mudlet_room_exits and mudlet_affects.
+I am going to spend tonight and try to figure out a better output, it wont meet the msdp specification but who really cares. Ill call it something like mudlet\_room\_exits and mudlet\_affects.
 
 Ill post any updates as they come.
 
@@ -371,22 +367,22 @@ Any chance to add aerial servant %hp to MSDP
 
 DarkArtist had a good idea....
 
-Here's a parser for MSDPROOM_EXITS that will work regardless of the OS.
+Here's a parser for MSDPROOM\_EXITS that will work regardless of the OS.
 
-It simply checks MSDPROOM_EXITS against a table of possible directions and returns a key-value table of room exits AND door status.
+It simply checks MSDPROOM\_EXITS against a table of possible directions and returns a key-value table of room exits AND door status.
 
 ```
 function parseExits()
-  local exits = {}
-  local str = atcp.MSDPROOM_EXITS
-  local dirs = {"North","South","East","West","Up","Down"}
-  for k,v in pairs(dirs) do
-    if string.findPattern(str, v) then
-      local len = string.cut(string.reverse(string.cut(atcp.MSDPROOM_EXITS, string.find(str,v) + string.len(v) + 1)), 1)
-      exits[v] = len
-    end
-  end
-  return exits
+ local exits = {}
+ local str = atcp.MSDPROOM_EXITS
+ local dirs = {"North","South","East","West","Up","Down"}
+ for k,v in pairs(dirs) do
+ if string.findPattern(str, v) then
+ local len = string.cut(string.reverse(string.cut(atcp.MSDPROOM_EXITS, string.find(str,v) + string.len(v) + 1)), 1)
+ exits[v] = len
+ end
+ end
+ return exits
 end
 ```
 
@@ -395,9 +391,9 @@ Sample Usage:
 ```
 -- use this function to run away to the direction specified returned and open the door (if there is one):
 function runAway(dir)
-  if parseExits()[dir] == "O" then
-    send(dir)
-  end
+ if parseExits()[dir] == "O" then
+ send(dir)
+ end
 end
 ```
 
@@ -415,10 +411,10 @@ Update the parseExits() function. It now returns a key-value table of each exit 
 
 ```
 {
-  West = "O",
-  South = "C",
-  East = "O",
-  North = "W"
+ West = "O",
+ South = "C",
+ East = "O",
+ North = "W"
 }
 ```
 
@@ -430,7 +426,7 @@ Best part: All the 'weird characters' are avoided.
 
 <div class="post" data-post-id="34679" data-author="*Splork*" data-date="2013-12-23T20:13:42+00:00" data-subject="Re: MSDP additons">
 
-Please check the following format for MSDPJSON_AFFECTS AND MSDPJSON_ROOM_EXITS and see if this will be easier to parse.  I do realize this is not JSON format but its close which is why its named that. The odd characters are pushed outside the brackets and only show at the front and back of the entire line. Is this good or any ideas how to make it easier for you guys?
+Please check the following format for MSDPJSON\_AFFECTS AND MSDPJSON\_ROOM\_EXITS and see if this will be easier to parse. I do realize this is not JSON format but its close which is why its named that. The odd characters are pushed outside the brackets and only show at the front and back of the entire line. Is this good or any ideas how to make it easier for you guys?
 
 NewMSDPFormat.PNG
 
@@ -450,11 +446,11 @@ I know the weird characters at the beginning and end are unavoidable but they ca
 
 <div class="post" data-post-id="34681" data-author="*Splork*" data-date="2013-12-23T23:14:24+00:00" data-subject="Re: MSDP additons">
 
-Variable Names :STRING_AFFECTS and STRING_PERM_AFFECTS -> Affect name followed by affect modifier
-string_affects.PNG
+Variable Names :STRING\_AFFECTS and STRING\_PERM\_AFFECTS -\> Affect name followed by affect modifier
+string\_affects.PNG
 
-Variable Name: STRING_EXITS -> exit direction followed by open, closed, window, etc.
-string_exits.PNG
+Variable Name: STRING\_EXITS -\> exit direction followed by open, closed, window, etc.
+string\_exits.PNG
 
 I can't seem to figure out why certain affects duplicate. Very odd and I will keep looking into it.
 
@@ -472,9 +468,9 @@ this is beautiful. Im on my phone right now but ill write a parser for this in t
 
 <div class="post" data-post-id="34743" data-author="DarkArtist" data-date="2013-12-30T17:42:41+00:00" data-subject="Re: MSDP additons">
 
-Spell affects output looks good since it can be parsed with the same algorithm as string_exits.
+Spell affects output looks good since it can be parsed with the same algorithm as string\_exits.
 
-Since you've got string exits in, maybe ROOM_EAST, ..WEST, etc could be repurposed to return the room sector, exit flags, and room flags for the attached room? Sector would be good for knowing if you're about to walk off a cliff or underwater. Some handy room flags would be Dark and Indoors, I wouldn't expect any that couldn't be reasonably determined from an adjacent room, e.g. NoFlee. Some handy exit flags would be NoMount, Locked,  NoMob. They could just be a colon separated list without categories that could be split into a simple table. Wouldn't need to specify if it was the sector or room flag or exit flag. Just test ROOM_X for MidAir or wutever and you'd be good to go. It seems this would be pretty handy for automated mapping features, once more people get into that.
+Since you've got string exits in, maybe ROOM\_EAST, ..WEST, etc could be repurposed to return the room sector, exit flags, and room flags for the attached room? Sector would be good for knowing if you're about to walk off a cliff or underwater. Some handy room flags would be Dark and Indoors, I wouldn't expect any that couldn't be reasonably determined from an adjacent room, e.g. NoFlee. Some handy exit flags would be NoMount, Locked, NoMob. They could just be a colon separated list without categories that could be split into a simple table. Wouldn't need to specify if it was the sector or room flag or exit flag. Just test ROOM\_X for MidAir or wutever and you'd be good to go. It seems this would be pretty handy for automated mapping features, once more people get into that.
 
 Not a priority, just a thought.
 
@@ -482,19 +478,19 @@ Not a priority, just a thought.
 
 <div class="post" data-post-id="34824" data-author="Akaya" data-date="2014-01-24T20:10:40+00:00" data-subject="Re: MSDP additons">
 
-Here's a parser for the new MSDPWEAR_<slot> additions.
+Here's a parser for the new MSDPWEAR\_\<slot\> additions.
 
 ```
 function parseEQ(event,msdp)
-  local EQ = {}
-  msdp = string.split(msdp,",")
-  for k,v in pairs(msdp) do
-    msdp[k] = string.split(msdp[k],":")
-  end
-  for k,v in pairs(msdp) do
-    EQ[v[1]] = v[2]
-  end
-  return EQ
+ local EQ = {}
+ msdp = string.split(msdp,",")
+ for k,v in pairs(msdp) do
+ msdp[k] = string.split(msdp[k],":")
+ end
+ for k,v in pairs(msdp) do
+ EQ[v[1]] = v[2]
+ end
+ return EQ
 end
 ```
 

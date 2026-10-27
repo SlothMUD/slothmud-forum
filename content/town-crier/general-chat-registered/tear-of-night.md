@@ -32,9 +32,9 @@ Item Name Found on Mobile In Area
 
 Speck of Heavenly Light Spectral Ball Tower of Nexialism 
 
-Symbol of the Dark Lord Goat-Faced Troll  Westwood 
+Symbol of the Dark Lord Goat-Faced Troll Westwood 
 
-Obsidian Jewel of Souls Ygol  Matterhorn 
+Obsidian Jewel of Souls Ygol Matterhorn 
 
 Flaming Ankh Silance Tower of Nexialism 
 
@@ -58,7 +58,7 @@ A mad sorcerer tells you 'You don't have all of the elements needed.'
 
 <div class="post" data-post-id="28611" data-author="Sheng" data-date="2009-03-25T16:20:40+00:00" data-subject="">
 
-Maybe the forge note is required.  Just stab that sorcerer in the face a few times and see if he behaves.
+Maybe the forge note is required. Just stab that sorcerer in the face a few times and see if he behaves.
 
 </div>
 
@@ -70,7 +70,7 @@ Symbol of the Dark Lord [Goat Faced Troll, Westwood]
 
 A flaming ankh [Silance, Tower of Nexialism]
 
-A flagon of naga ichor	 [Salazar Godbane, Tower of Nexialism]
+A flagon of naga ichor [Salazar Godbane, Tower of Nexialism]
 
 A potion of clairvoyance [Gynosphinx, Tower of Nexialism]
 

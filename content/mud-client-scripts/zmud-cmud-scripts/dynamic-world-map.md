@@ -14,7 +14,8 @@ post_count: 1
 
 Here is a global where alias using the 'Dynamic World Map' on the website-
 
-[code:1l8vg3b0]#alias worldmap {
+```
+#alias worldmap {
 
 #script {strHTML = ~"~"}
 
@@ -26,7 +27,8 @@ Here is a global where alias using the 'Dynamic World Map' on the website-
 
 #mss {FormatWorldMap}
 
-#if (%1 = %null) {#show %mss(strHTML)} {#show %replace(%mss(strHTML),%proper(%1),%ansi(3)%proper(%1)%ansi(7))}}[/code:1l8vg3b0]
+#if (%1 = %null) {#show %mss(strHTML)} {#show %replace(%mss(strHTML),%proper(%1),%ansi(3)%proper(%1)%ansi(7))}}
+```
 
 Tis useful to help find dead players... or check if a zone if being cycled.
 
@@ -36,7 +38,7 @@ commands-
 
 worldmap
 
-worldmap <keyword to color>
+worldmap \<keyword to color\>
 
 example-
 
@@ -60,7 +62,8 @@ Valkyre Guilds: Faleral
 
 Here is the basic vbscript for other clients that use the language-
 
-[code:1l8vg3b0]strHTML = ""
+```
+strHTML = ""
 
 Sub GetWorldMap
 
@@ -94,15 +97,15 @@ Sub FormatWorldMap
 
  objRegExp.Pattern = "<(.|n)+?>"
 
-  strHTML = objRegExp.Replace(strHTML, "")
+ strHTML = objRegExp.Replace(strHTML, "")
 
  objRegExp.Pattern = "\n(\n|$)"
 
-  strHTML = objRegExp.Replace(strHTML, "")
+ strHTML = objRegExp.Replace(strHTML, "")
 
  objRegExp.Pattern = ":\n"
 
-  strHTML = objRegExp.Replace(strHTML, ": ")
+ strHTML = objRegExp.Replace(strHTML, ": ")
 
  Set objRegExp = Nothing
 
@@ -112,6 +115,7 @@ GetWorldMap
 
 FormatWorldMap
 
-WScript.Echo strHTML[/code:1l8vg3b0]
+WScript.Echo strHTML
+```
 
 </div>

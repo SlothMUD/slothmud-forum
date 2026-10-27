@@ -16,9 +16,9 @@ Zukt brutally guts Seraph!
 
 Seraph looks down in terror as his intestines spill out!
 
-<851hp
+\<851hp
 
-168ma 228mv>
+168ma 228mv\>
 
 Sita utters the words, 'yufzxuie'
 
@@ -34,6 +34,6 @@ Seraph breaks free of the tentacles!
 
 <div class="post" data-post-id="7352" data-author="12345" data-date="2005-06-20T10:08:15+00:00" data-subject="">
 
-From what I can tell, there's an actual flag that allows builders to make mobs like that.  There's at least one area filled with mobs like this. Mostly it just makes autoloot useless.
+From what I can tell, there's an actual flag that allows builders to make mobs like that. There's at least one area filled with mobs like this. Mostly it just makes autoloot useless.
 
 </div>

@@ -12,9 +12,9 @@ post_count: 1
 
 <div class="post" data-post-id="36272" data-author="*Splork*" data-date="2015-12-07T21:34:05+00:00" data-subject="Couple Fixes (flash client/msdp)">
 
-1) flash client displays custom maps again
+1\) flash client displays custom maps again
 
-2) msdp COORD1-25 now displays vnum.
+2\) msdp COORD1-25 now displays vnum.
 
 Splork
 

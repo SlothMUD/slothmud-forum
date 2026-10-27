@@ -14,7 +14,7 @@ post_count: 5
 
 Got private message spam today. Private message on sloth forum attached below. Maybe it's bug in new theme so crooks exploiting it to spam private messages.
 
-> **Quote:**
+> <strong>Quote:</strong>
 > Tuck, hello, I need your advice!... 
 > 
 > Do you know where I can purchase with discount XRumer 12.0 Elite??? 

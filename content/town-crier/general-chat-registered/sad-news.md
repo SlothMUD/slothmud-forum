@@ -36,7 +36,7 @@ I can't really accept this fact still as we were in contact for last 20 years bl
 
 Funny that he was first player I met on my very first day in Slothmud, it was fall of '97. 
 
-He was playing char Tr at that time, he was lvl 20 already and could solo a madman in Asylum (ofcourse he showed off) and that was impressive! That day we had a bh castle group, it was quite different from today.It was huge fun and I was totally captivated by Sloth :)
+He was playing char Tr at that time, he was lvl 20 already and could solo a madman in Asylum (ofcourse he showed off) and that was impressive! That day we had a bh castle group, it was quite different from today.It was huge fun and I was totally captivated by Sloth <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 He was one of the best players in every aspect of game you can think of, great leader, true muchkin at his best, hardore player.
 
@@ -60,9 +60,9 @@ Very sad to hear that. Rest In Peace T.
 
 <div class="post" data-post-id="39116" data-author="Gorka" data-date="2019-03-05T03:09:35+00:00" data-subject="Re: Sad news">
 
-I'm really sad to hear about this. Taron helped me the most, I thought of him not just as a friend in the game but a real friend. I felt I understood the way he was, and could see myself in that reflection sometimes. The last time I saw him playing I asked him how he was and he said he was trying to play less. I regret we never talked longer. If only I knew that would be the last time we talked. He will always be in my thoughts when I play sloth. Rest in Peace Taron!  :(  :( 
+I'm really sad to hear about this. Taron helped me the most, I thought of him not just as a friend in the game but a real friend. I felt I understood the way he was, and could see myself in that reflection sometimes. The last time I saw him playing I asked him how he was and he said he was trying to play less. I regret we never talked longer. If only I knew that would be the last time we talked. He will always be in my thoughts when I play sloth. Rest in Peace Taron! <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom"> 
 
-I don't know what else to say...  :(  :( 
+I don't know what else to say... <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom"> 
 
 Keep us informed Sam.
 
@@ -86,49 +86,49 @@ l tombstone would display the commemorative message.
 
 <div class="post" data-post-id="39119" data-author="*Idjit*" data-date="2019-03-05T06:33:30+00:00" data-subject="Re: Sad news">
 
-We do have statues for Doink (on the Island someplace) and Quins (in nortwestern SS town), Gorka, and i was seeking your feedback this evening concerning the memorial for Taron, you just happened not to be logged in tonight.  We just need to gather the details in one place and go from there.  Both description text for it, and where to actually place the statue (some ideas have been, Moria, Mercurial Woods, or rather where he liked to get charmed pets from either hate-filled soldiers in Phantom Creek or Zelkham Zombies on the way to Ravenloft).
+We do have statues for Doink (on the Island someplace) and Quins (in nortwestern SS town), Gorka, and i was seeking your feedback this evening concerning the memorial for Taron, you just happened not to be logged in tonight. We just need to gather the details in one place and go from there. Both description text for it, and where to actually place the statue (some ideas have been, Moria, Mercurial Woods, or rather where he liked to get charmed pets from either hate-filled soldiers in Phantom Creek or Zelkham Zombies on the way to Ravenloft).
 
 Best to continue that discussion online rather than on the forum however probably.
 
---D
+\--D
 
 </div>
 
 <div class="post" data-post-id="39120" data-author="Gorka" data-date="2019-03-05T09:42:16+00:00" data-subject="Re: Sad news">
 
 ```
-                              _,-'_,-----------._`-._   
-                            ,'_,-'  ___________  `-._`.
-                          ,','  _,-'___________`-._  `.`.
-                        ,','  ,'_,-'     .     `-._`.  `.`.
-                       /,'  ,','        >|<        `.`.  `.\
-                      //  ,','      ><  ,^.  ><      `.`.  \\
-                     //  /,'      ><   / | \   ><      `.\  \\
-                    //  //      ><    \/\^/\/    ><      \\  \\
-                   ;;  ;;              `---'              ::  ::
-                   ||  ||              (____              ||  ||
-                  _||__||_            ,'----.            _||__||_
-                 (o.____.o)            `---'            (o.____.o)
-                   |    |                                 |    |
-                   |    |   In memory of Yuri Filimonov   |    |
-                   |    |                                 |    |
-                   |    |           aka Taron             |    |
-                   |    |         d. 03/03/2019           |    |
-                   |    |                                 |    |
-                   |    |    "Forever in our memories"    |    |
-                   |    |                                 |    |
-                   |    |      _____________________      |    |
-                   |    ||  _,'                     ',_  ||    |
-                   |    ||  |                         |  ||    |
-                   |    ||  |                         |  ||    |
-                   |    |'  |                         |  `|    |
-                   |    |   |                         |   |    |
-                   ;____:   `._                     _,'   ;____:
-                  {______}     \___________________/     {______}
-                  |______|_______________________________|______|
+ _,-'_,-----------._`-._ 
+ ,'_,-' ___________ `-._`.
+ ,',' _,-'___________`-._ `.`.
+ ,',' ,'_,-' . `-._`. `.`.
+ /,' ,',' >|< `.`. `.\
+ // ,',' >< ,^. >< `.`. \\
+ // /,' >< / | \ >< `.\ \\
+ // // >< \/\^/\/ >< \\ \\
+ ;; ;; `---' :: ::
+ || || (____ || ||
+ _||__||_ ,'----. _||__||_
+ (o.____.o) `---' (o.____.o)
+ | | | |
+ | | In memory of Yuri Filimonov | |
+ | | | |
+ | | aka Taron | |
+ | | d. 03/03/2019 | |
+ | | | |
+ | | "Forever in our memories" | |
+ | | | |
+ | | _____________________ | |
+ | || _,' ',_ || |
+ | || | | || |
+ | || | | || |
+ | |' | | `| |
+ | | | | | |
+ ;____: `._ _,' ;____:
+ {______} \___________________/ {______}
+ |______|_______________________________|______|
 ```
 
-I'm thinking something like this... I think somewhere near the Zelkham Zombies is best appropriate. Miss you already Taron, thanks for everything.  :cry:
+I'm thinking something like this... I think somewhere near the Zelkham Zombies is best appropriate. Miss you already Taron, thanks for everything. <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -136,15 +136,15 @@ I'm thinking something like this... I think somewhere near the Zelkham Zombies i
 
 Is this him?
 
-[<LINK_TEXT text="https://handofmoscow.com/2019/03/05/the ... -and-died/">https://handofmoscow.com/2019/03/05/the-russians-could-not-in-time-to-see-the-doctor-and-died/</LINK_TEXT>](https://handofmoscow.com/2019/03/05/the-russians-could-not-in-time-to-see-the-doctor-and-died/)
+[https://handofmoscow.com/2019/03/05/the-russians-could-not-in-time-to-see-the-doctor-and-died/](https://handofmoscow.com/2019/03/05/the-russians-could-not-in-time-to-see-the-doctor-and-died/)
 
-Sad :(
+Sad <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="39122" data-author="Josiah" data-date="2019-03-05T18:57:00+00:00" data-subject="Re: Sad news">
 
-Thank you for the news, although I'm sorry to hear it.  He'll be missed.
+Thank you for the news, although I'm sorry to hear it. He'll be missed.
 
 </div>
 
@@ -166,6 +166,6 @@ Anyway it's deployed into the game now.
 
 Respectfully,
 
---Idj
+\--Idj
 
 </div>

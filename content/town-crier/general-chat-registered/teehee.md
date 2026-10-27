@@ -16,7 +16,7 @@ steal token keadral
 
 Oops..
 
-<805hp 388ma 239mv 10:05 pm>
+\<805hp 388ma 239mv 10:05 pm\>
 
 steal token keadral
 
@@ -26,17 +26,17 @@ steal token keadral
 
 Oops..
 
-<806hp 388ma 239mv 10:06 pm>
+\<806hp 388ma 239mv 10:06 pm\>
 
 Edd utters the words, 'eugszr waouq'
 
 Keadral isn't taking any more: he attacks Edd!
 
-<806hp 388ma 239mv 10:07 pm>
+\<806hp 388ma 239mv 10:07 pm\>
 
 Rynquald -- 'perhaps we have to wait for it to corpse'
 
-<807hp 389ma 239mv 10:08 pm>
+\<807hp 389ma 239mv 10:08 pm\>
 
 Oops..
 
@@ -54,6 +54,6 @@ Everything Keadral was carrying suddenly drops to the ground.
 
 <div class="post" data-post-id="10914" data-author="Razorguy" data-date="2006-02-25T01:59:33+00:00" data-subject="">
 
-Thats enough exp for me to level to 2x40! :o
+Thats enough exp for me to level to 2x40! <img src="/images/smilies/icon_e_surprised.svg" alt=":o" title=":o" width="15" height="15" class="smiley nozoom">
 
 </div>

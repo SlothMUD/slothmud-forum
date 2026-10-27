@@ -26,12 +26,12 @@ I got dust and embers, what are they for ?
 
 cps for flawed glowing gem - a +5mana clasp that attaches to held high OR held low. Required cps are:
 
--a large glowing green emerald
+\-a large glowing green emerald
 
--a small gem hammer
+\-a small gem hammer
 
--some magical enchanting dust
+\-some magical enchanting dust
 
--a small golden ember of flames
+\-a small golden ember of flames
 
 </div>

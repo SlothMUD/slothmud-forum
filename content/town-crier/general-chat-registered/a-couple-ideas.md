@@ -12,9 +12,9 @@ post_count: 2
 
 <div class="post" data-post-id="14911" data-author="banedon" data-date="2006-11-02T05:47:32+00:00" data-subject="A couple ideas">
 
-1) How about some kind of rapid transport ala gate or teleport for those of us poor schlubs that don't have those spells.  Maybe have it cost a flat x gold or even x gold pre prime level
+1\) How about some kind of rapid transport ala gate or teleport for those of us poor schlubs that don't have those spells. Maybe have it cost a flat x gold or even x gold pre prime level
 
-2) What about a couple Monk or maybe mo/wa specific oriental style weapons, like nunchaku, tonfa, or sai.  possibly give the chucks or tonfa the ability to be used w/strike.
+2\) What about a couple Monk or maybe mo/wa specific oriental style weapons, like nunchaku, tonfa, or sai. possibly give the chucks or tonfa the ability to be used w/strike.
 
 just my 2 cents worth., so pls dont flame me too much.
 

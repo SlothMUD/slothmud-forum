@@ -18,8 +18,8 @@ DO NOT USE BUGS/TYPOS/IDEAS COMMAND TO SEND ME PRIVATE QUESTIONS. THATS JUST PLA
 
 <div class="post" data-post-id="33379" data-author="*Breeze*" data-date="2012-07-14T12:48:53+00:00" data-subject="Re: Questions for Breeze">
 
-> **Quote:**
-> 2012-07-10 16:24:23 ** 7000 ** Tuk ** breeze e.g. diamond sleeves loads on Melephus or Gargantuan, how the list sorted? or random?
+> <strong>Quote:</strong>
+> 2012-07-10 16:24:23 \*\* 7000 \*\* Tuk \*\* breeze e.g. diamond sleeves loads on Melephus or Gargantuan, how the list sorted? or random?
 
 totally random (random 5 poppers iirc)
 
@@ -43,7 +43,7 @@ bugs Why is a maimed elf so hard to kill?
 
 <div class="post" data-post-id="33381" data-author="*Breeze*" data-date="2012-07-14T19:44:57+00:00" data-subject="Re: Questions for Breeze">
 
-> ***juggleblood* wrote:**
+> <strong>\*juggleblood\* wrote:</strong>
 > bugs Who do you think would win in a fight, Faur or the junk dealer?
 > 
 > 
@@ -66,17 +66,17 @@ bugs Why is a maimed elf so hard to kill?
 > 
 > bugs Why is a maimed elf so hard to kill?
 
-1) faur (better protection procs)
+1\) faur (better protection procs)
 
-2) the wolf at the end of the line. pronounced zee-wolf
+2\) the wolf at the end of the line. pronounced zee-wolf
 
-3) One furlong per fortnight is very nearly 1 centimetre per minute (to within 1 part in 400).  [thanks wikipedia]
+3\) One furlong per fortnight is very nearly 1 centimetre per minute (to within 1 part in 400). [thanks wikipedia]
 
-4) House of the Shadows
+4\) House of the Shadows
 
-5) some slacker immt didnt boost him ;)
+5\) some slacker immt didnt boost him <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
-smart ass :)
+smart ass <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -90,15 +90,15 @@ Watch out, don't give away imminfo!
 
 Too Funny:)
 
-2012-07-18 18:09:10 ** 1025 ** Breeze ** rick or splork pls look into +hit
+2012-07-18 18:09:10 \*\* 1025 \*\* Breeze \*\* rick or splork pls look into +hit
 
 </div>
 
 <div class="post" data-post-id="33385" data-author="Tuck" data-date="2012-07-19T21:51:21+00:00" data-subject="Re: Questions for Breeze">
 
-> ***Breeze* wrote:**
-> > **Quote:**
-> > 2012-07-10 16:24:23 ** 7000 ** Tuk ** breeze e.g. diamond sleeves loads on Melephus or Gargantuan, how the list sorted? or random?
+> <strong>\*Breeze\* wrote:</strong>
+> > <strong>Quote:</strong>
+> > 2012-07-10 16:24:23 \*\* 7000 \*\* Tuk \*\* breeze e.g. diamond sleeves loads on Melephus or Gargantuan, how the list sorted? or random?
 > 
 > 
 > 

@@ -22,7 +22,7 @@ AC-apply is -0.5
 
 Can affect you as:
 
-    Affects: CON by 1
+ Affects: CON by 1
 
 Only those who are at least apprentice magic users and also apprentice 
 
@@ -34,6 +34,6 @@ clerics, and adept warriors may use this item.
 
 <div class="post" data-post-id="348" data-author="Deju" data-date="2004-05-26T04:07:31+00:00" data-subject="Closed">
 
-Closed.  No winners.
+Closed. No winners.
 
 </div>

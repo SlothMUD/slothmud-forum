@@ -84,7 +84,7 @@ Tetsu
 
 probably will end it sooner if i get a good price...
 
-Happy bidding :D
+Happy bidding <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 

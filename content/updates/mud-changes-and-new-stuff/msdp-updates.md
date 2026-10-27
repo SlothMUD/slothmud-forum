@@ -14,21 +14,21 @@ post_count: 3
 
 MSDP Changes after reboot
 
-â€¢	MSDP_Coord1-25 variables changed to just Coord1, coord2, etc to 25 ( I will flush this out better after       Christmast, similar to the new string variables
+â€¢	MSDP\_Coord1-25 variables changed to just Coord1, coord2, etc to 25 ( I will flush this out better after Christmast, similar to the new string variables
 
-â€¢	MSDP_ROOM_DIR variables changed to just ROOM_SOUTH, ROOM_NORTH, etc
+â€¢	MSDP\_ROOM\_DIR variables changed to just ROOM\_SOUTH, ROOM\_NORTH, etc
 
-â€¢	STAT_PERM variables now read correctly, wonâ€™t mimic Str, Int, and other MSDP stat variables
+â€¢	STAT\_PERM variables now read correctly, wonâ€™t mimic Str, Int, and other MSDP stat variables
 
 â€¢	HUNGER added
 
 â€¢	THIRST added
 
-â€¢	STRING_AFFECTS added,  in string format, easier parsing
+â€¢	STRING\_AFFECTS added, in string format, easier parsing
 
-â€¢	STRING_PERM_AFFECTS added, in string format, easier parsing, permanent and innate affects
+â€¢	STRING\_PERM\_AFFECTS added, in string format, easier parsing, permanent and innate affects
 
-â€¢	STRING_EXITS added, in string format, easier parsing
+â€¢	STRING\_EXITS added, in string format, easier parsing
 
 These go in on reboot or crash,
 
@@ -56,49 +56,49 @@ The following MSDP string variables have been added. The variables are set upon 
 
 Examples:
 
-MSDPWEAR_LIGHT = "VNUM:4,DESC:a hexagonal shaped token",
+MSDPWEAR\_LIGHT = "VNUM:4,DESC:a hexagonal shaped token",
 
- MSDPWEAR_FINGER_R = "VNUM:2103,DESC:a small topaz ring,AC-apply:-0.1, SPELL_BONUS:100, HITPOINT:3",
+ MSDPWEAR\_FINGER\_R = "VNUM:2103,DESC:a small topaz ring,AC-apply:-0.1, SPELL\_BONUS:100, HITPOINT:3",
 
 As with ALL MSDP variables, please do not request the data if you are not going to use it.
 
-WEAR_LIGHT,
+WEAR\_LIGHT,
 
-WEAR_FINGER_R,
+WEAR\_FINGER\_R,
 
-WEAR_FINGER_L,
+WEAR\_FINGER\_L,
 
-WEAR_NECK_1,
+WEAR\_NECK\_1,
 
-WEAR_NECK_2,
+WEAR\_NECK\_2,
 
-WEAR_BODY,
+WEAR\_BODY,
 
-WEAR_HEAD,
+WEAR\_HEAD,
 
-WEAR_LEGS,
+WEAR\_LEGS,
 
-WEAR_FEET,
+WEAR\_FEET,
 
-WEAR_HANDS,
+WEAR\_HANDS,
 
-WEAR_ARMS,
+WEAR\_ARMS,
 
-WEAR_SHIELD,
+WEAR\_SHIELD,
 
-WEAR_ABOUT,
+WEAR\_ABOUT,
 
-WEAR_WAIST,
+WEAR\_WAIST,
 
-WEAR_WRIST_R,
+WEAR\_WRIST\_R,
 
-WEAR_WRIST_L,
+WEAR\_WRIST\_L,
 
-WEAR_WIELD,
+WEAR\_WIELD,
 
-WEAR_HOLD,
+WEAR\_HOLD,
 
-WEAR_TWO_HANDED,
+WEAR\_TWO\_HANDED,
 
 I will add these to the helpfile soon.
 

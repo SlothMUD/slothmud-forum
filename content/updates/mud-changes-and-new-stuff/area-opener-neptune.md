@@ -22,8 +22,8 @@ Central time so that we may commence.
 
 Thanks and happy hunting.
 
--Neptune
+\-Neptune
 
-____________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 </div>

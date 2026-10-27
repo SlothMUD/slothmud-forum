@@ -14,9 +14,9 @@ post_count: 22
 
 i'm sick of slothmud. I'm sick of all the stupid fucking changes that makes the game too real. and i'm sick of playing.. time to concentrate on my life and stop playing games. will sell popa with all eq and everything worn.
 
-Popa <~Knights~> stay here folks,something to see here!  (level: 40)
+Popa \<\~Knights\~\> stay here folks,something to see here! (level: 40)
 
-Your levels:  Th: 40 Mo: 40 Cl: 40 Dr: 40 Av: 24 
+Your levels: Th: 40 Mo: 40 Cl: 40 Dr: 40 Av: 24 
 
 You are 36 years and 11 months old.
 
@@ -42,15 +42,15 @@ You have 399067684 unused experience points.
 
 You have been playing for 151 days and 0 hours.
 
-Str: 18 / 67, Int: 13, Wis: 11, Dex: 18, Con: 18  <---- nats
+Str: 18 / 67, Int: 13, Wis: 11, Dex: 18, Con: 18 \<---- nats
 
 You are standing.
 
 You are affected by the following spells:
 
-   Detect Invisible                 
+ Detect Invisible 
 
-   Sense Life 
+ Sense Life 
 
 You are carrying:
 
@@ -190,429 +190,429 @@ sash of forgotten souls..It has a soft glowing aura!
 
 a golden choker
 
-                    Cleric Spells:
+ Cleric Spells:
 
-armor                - Lvl:  1, Mana:  5, Learned  95%
+armor - Lvl: 1, Mana: 5, Learned 95%
 
-cure light           - Lvl:  1, Mana:  8, Learned  95%
+cure light - Lvl: 1, Mana: 8, Learned 95%
 
-turn undead          - Lvl:  1, Mana: 20, Learned  95%
+turn undead - Lvl: 1, Mana: 20, Learned 95%
 
-create water         - Lvl:  2, Mana:  5, Learned  95%
+create water - Lvl: 2, Mana: 5, Learned 95%
 
-detect poison        - Lvl:  2, Mana:  5, Learned  95%
+detect poison - Lvl: 2, Mana: 5, Learned 95%
 
-magic lantern        - Lvl:  2, Mana:  5, Learned  95%
+magic lantern - Lvl: 2, Mana: 5, Learned 95%
 
-create food          - Lvl:  3, Mana:  5, Learned  95%
+create food - Lvl: 3, Mana: 5, Learned 95%
 
-detect magic         - Lvl:  3, Mana:  5, Learned  95%
+detect magic - Lvl: 3, Mana: 5, Learned 95%
 
-resist fire          - Lvl:  3, Mana: 12, Learned  95%
+resist fire - Lvl: 3, Mana: 12, Learned 95%
 
-resist cold          - Lvl:  3, Mana: 12, Learned  95%
+resist cold - Lvl: 3, Mana: 12, Learned 95%
 
-cure blind           - Lvl:  4, Mana:  5, Learned  95%
+cure blind - Lvl: 4, Mana: 5, Learned 95%
 
-detect evil          - Lvl:  4, Mana:  5, Learned  95%
+detect evil - Lvl: 4, Mana: 5, Learned 95%
 
-spiritual hammer     - Lvl:  4, Mana: 10, Learned  95%
+spiritual hammer - Lvl: 4, Mana: 10, Learned 95%
 
-cure minor           - Lvl:  4, Mana:  8, Learned  95%
+cure minor - Lvl: 4, Mana: 8, Learned 95%
 
-bless                - Lvl:  5, Mana:  5, Learned  95%
+bless - Lvl: 5, Mana: 5, Learned 95%
 
-detect invisibility  - Lvl:  5, Mana:  5, Learned  95%
+detect invisibility - Lvl: 5, Mana: 5, Learned 95%
 
-detect disease       - Lvl:  5, Mana: 10, Learned  45%
+detect disease - Lvl: 5, Mana: 10, Learned 45%
 
-spellcraft           - Lvl:  5, Learned  85%
+spellcraft - Lvl: 5, Learned 85%
 
-detect good          - Lvl:  5, Mana:  5, Learned  95%
+detect good - Lvl: 5, Mana: 5, Learned 95%
 
-blindness            - Lvl:  6, Mana:  5, Learned  95%
+blindness - Lvl: 6, Mana: 5, Learned 95%
 
-protection from evil - Lvl:  6, Mana:  5, Learned  95%
+protection from evil - Lvl: 6, Mana: 5, Learned 95%
 
-dispel magic         - Lvl:  6, Mana:  5, Learned  95%
+dispel magic - Lvl: 6, Mana: 5, Learned 95%
 
-shield of faith      - Lvl:  6, Mana: 35, Learned  95%
+shield of faith - Lvl: 6, Mana: 35, Learned 95%
 
-earthquake           - Lvl:  7, Mana: 15, Learned  95%
+earthquake - Lvl: 7, Mana: 15, Learned 95%
 
-sense life           - Lvl:  7, Mana:  5, Learned  95%
+sense life - Lvl: 7, Mana: 5, Learned 95%
 
-faerie fire          - Lvl:  7, Mana:  5, Learned  95%
+faerie fire - Lvl: 7, Mana: 5, Learned 95%
 
-summon               - Lvl:  8, Mana: 50, Learned  95%
+summon - Lvl: 8, Mana: 50, Learned 95%
 
-remove poison        - Lvl:  9, Mana:  5, Learned  95%
+remove poison - Lvl: 9, Mana: 5, Learned 95%
 
-water breathing      - Lvl:  9, Mana: 10, Learned  95%
+water breathing - Lvl: 9, Mana: 10, Learned 95%
 
-dispel evil          - Lvl: 10, Mana: 15, Learned  95%
+dispel evil - Lvl: 10, Mana: 15, Learned 95%
 
-cure normal          - Lvl: 10, Mana: 12, Learned  95%
+cure normal - Lvl: 10, Mana: 12, Learned 95%
 
-embalm               - Lvl: 10, Mana: 20, Learned  95%
+embalm - Lvl: 10, Mana: 20, Learned 95%
 
-supplication         - Lvl: 10, Mana: 20, Learned  95%
+supplication - Lvl: 10, Mana: 20, Learned 95%
 
-word of recall       - Lvl: 11, Mana: 35, Learned  95%
+word of recall - Lvl: 11, Mana: 35, Learned 95%
 
-stone skin           - Lvl: 11, Mana: 15, Learned  95%
+stone skin - Lvl: 11, Mana: 15, Learned 95%
 
-remove disease       - Lvl: 11, Mana: 25, Learned  95%
+remove disease - Lvl: 11, Mana: 25, Learned 95%
 
-call lightning       - Lvl: 12, Mana: 15, Learned  95%
+call lightning - Lvl: 12, Mana: 15, Learned 95%
 
-*** Press return ***
+\*\*\* Press return \*\*\*
 
-remove curse         - Lvl: 12, Mana:  5, Learned  95%
+remove curse - Lvl: 12, Mana: 5, Learned 95%
 
-mindbar              - Lvl: 12, Mana: 20, Learned  95%
+mindbar - Lvl: 12, Mana: 20, Learned 95%
 
-cure deafness        - Lvl: 12, Mana:  5, Learned  95%
+cure deafness - Lvl: 12, Mana: 5, Learned 95%
 
-control weather      - Lvl: 13, Mana: 25, Learned  95%
+control weather - Lvl: 13, Mana: 25, Learned 95%
 
-silence              - Lvl: 13, Mana: 15, Learned  95%
+silence - Lvl: 13, Mana: 15, Learned 95%
 
-flame strike         - Lvl: 14, Mana: 12, Learned  95%
+flame strike - Lvl: 14, Mana: 12, Learned 95%
 
-cure serious         - Lvl: 15, Mana: 14, Learned  95%
+cure serious - Lvl: 15, Mana: 14, Learned 95%
 
-fortune              - Lvl: 15, Mana: 30, Unlearned
+fortune - Lvl: 15, Mana: 30, Unlearned
 
-necrology            - Lvl: 15, Learned  50%
+necrology - Lvl: 15, Learned 50%
 
-refresh              - Lvl: 16, Mana: 20, Learned  95%
+refresh - Lvl: 16, Mana: 20, Learned 95%
 
-curse                - Lvl: 17, Mana: 20, Learned  95%
+curse - Lvl: 17, Mana: 20, Learned 95%
 
-sanctuary            - Lvl: 17, Mana: 75, Learned  95%
+sanctuary - Lvl: 17, Mana: 75, Learned 95%
 
-fly                  - Lvl: 17, Mana: 12, Learned  95%
+fly - Lvl: 17, Mana: 12, Learned 95%
 
-regeneration         - Lvl: 17, Mana: 25, Learned  95%
+regeneration - Lvl: 17, Mana: 25, Learned 95%
 
-web                  - Lvl: 18, Mana: 15, Learned  95%
+web - Lvl: 18, Mana: 15, Learned 95%
 
-vision               - Lvl: 19, Mana: 20, Learned  95%
+vision - Lvl: 19, Mana: 20, Learned 95%
 
-banish undead        - Lvl: 19, Mana: 20, Learned  95%
+banish undead - Lvl: 19, Mana: 20, Learned 95%
 
-cure critic          - Lvl: 20, Mana: 16, Unlearned
+cure critic - Lvl: 20, Mana: 16, Unlearned
 
-demon bind           - Lvl: 20, Mana: 35, Learned  95%
+demon bind - Lvl: 20, Mana: 35, Learned 95%
 
-talshans tribute     - Lvl: 20, Mana: 20, Unlearned
+talshans tribute - Lvl: 20, Mana: 20, Unlearned
 
-reign of the spider  - Lvl: 20, Mana: 35, Learned  95%
+reign of the spider - Lvl: 20, Mana: 35, Learned 95%
 
-spirit watcher       - Lvl: 20, Mana: 20, Unlearned
+spirit watcher - Lvl: 20, Mana: 20, Unlearned
 
-gate                 - Lvl: 21, Mana: 90, Learned  95%
+gate - Lvl: 21, Mana: 90, Learned 95%
 
-mobility             - Lvl: 22, Mana: 15, Learned  95%
+mobility - Lvl: 22, Mana: 15, Learned 95%
 
-chronos incantation  - Lvl: 22, Mana: 30, Learned  45%
+chronos incantation - Lvl: 22, Mana: 30, Learned 45%
 
-dream talk           - Lvl: 24, Mana: 40, Unlearned
+dream talk - Lvl: 24, Mana: 40, Unlearned
 
-closing weave        - Lvl: 24, Mana: 15, Learned  50%
+closing weave - Lvl: 24, Mana: 15, Learned 50%
 
-heal                 - Lvl: 25, Mana: 42, Learned  95%
+heal - Lvl: 25, Mana: 42, Learned 95%
 
-stone to flesh       - Lvl: 26, Mana: 25, Learned  95%
+stone to flesh - Lvl: 26, Mana: 25, Learned 95%
 
-lloyds beacon        - Lvl: 27, Mana: 20, Learned  95%
+lloyds beacon - Lvl: 27, Mana: 20, Learned 95%
 
-hellstrike           - Lvl: 27, Mana: 25, Learned  95%
+hellstrike - Lvl: 27, Mana: 25, Learned 95%
 
-force field          - Lvl: 28, Mana: 35, Learned  95%
+force field - Lvl: 28, Mana: 35, Learned 95%
 
-feast                - Lvl: 29, Mana: 35, Learned  95%
+feast - Lvl: 29, Mana: 35, Learned 95%
 
 mass water breathing - Lvl: 29, Mana: 55, Unlearned
 
-greater heal         - Lvl: 30, Mana: 55, Learned  95%
+greater heal - Lvl: 30, Mana: 55, Learned 95%
 
-enchant weapon       - Lvl: 31, Mana:100, Learned  95%
+enchant weapon - Lvl: 31, Mana:100, Learned 95%
 
-spell shield         - Lvl: 31, Mana: 12, Learned  95%
+spell shield - Lvl: 31, Mana: 12, Learned 95%
 
-invisibility         - Lvl: 32, Mana: 10, Learned  95%
+invisibility - Lvl: 32, Mana: 10, Learned 95%
 
-*** Press return ***
+\*\*\* Press return \*\*\*
 
-locate object        - Lvl: 33, Mana: 20, Learned  95%
+locate object - Lvl: 33, Mana: 20, Learned 95%
 
-winds of fortune     - Lvl: 34, Mana: 60, Learned  95%
+winds of fortune - Lvl: 34, Mana: 60, Learned 95%
 
-restoration          - Lvl: 35, Mana: 62, Learned  95%
+restoration - Lvl: 35, Mana: 62, Learned 95%
 
-raise dead           - Lvl: 36, Mana: 65, Learned  95%
+raise dead - Lvl: 36, Mana: 65, Learned 95%
 
-scrybite             - Lvl: 37, Mana: 25, Unlearned
+scrybite - Lvl: 37, Mana: 25, Unlearned
 
-mass invisibility    - Lvl: 38, Mana: 25, Unlearned
+mass invisibility - Lvl: 38, Mana: 25, Unlearned
 
-dark cloak           - Lvl: 38, Mana: 30, Learned  95%
+dark cloak - Lvl: 38, Mana: 30, Learned 95%
 
-mass fly             - Lvl: 39, Mana: 40, Learned  95%
+mass fly - Lvl: 39, Mana: 40, Learned 95%
 
-walk of the cheetah  - Lvl: 40, Mana: 60, Unlearned
+walk of the cheetah - Lvl: 40, Mana: 60, Unlearned
 
-                    Thief Skills:
+ Thief Skills:
 
-sneak                - Lvl:  1, Learned  85%
+sneak - Lvl: 1, Learned 85%
 
-steal                - Lvl:  1, Learned  85%
+steal - Lvl: 1, Learned 85%
 
-backstab             - Lvl:  1, Learned  85%
+backstab - Lvl: 1, Learned 85%
 
-pick locks           - Lvl:  1, Learned  85%
+pick locks - Lvl: 1, Learned 85%
 
-tail                 - Lvl:  1, Learned  85%
+tail - Lvl: 1, Learned 85%
 
-glance               - Lvl:  1, Learned  85%
+glance - Lvl: 1, Learned 85%
 
-protect              - Lvl:  1, Learned  85%
+protect - Lvl: 1, Learned 85%
 
-archery              - Lvl:  4, Unlearned
+archery - Lvl: 4, Unlearned
 
-palm                 - Lvl:  5, Learned  85%
+palm - Lvl: 5, Learned 85%
 
-track                - Lvl:  7, Learned  85%
+track - Lvl: 7, Learned 85%
 
-trip                 - Lvl:  8, Learned  85%
+trip - Lvl: 8, Learned 85%
 
-double attack        - Lvl: 10, Learned  85%
+double attack - Lvl: 10, Learned 85%
 
-climb                - Lvl: 10, Learned  85%
+climb - Lvl: 10, Learned 85%
 
-hide                 - Lvl: 12, Learned  85%
+hide - Lvl: 12, Learned 85%
 
-spy                  - Lvl: 13, Learned  85%
+spy - Lvl: 13, Learned 85%
 
-squirm               - Lvl: 15, Learned  85%
+squirm - Lvl: 15, Learned 85%
 
-circle               - Lvl: 15, Learned  85%
+circle - Lvl: 15, Learned 85%
 
-throw                - Lvl: 20, Learned  85%
+throw - Lvl: 20, Learned 85%
 
-double stab          - Lvl: 25, Learned  65%
+double stab - Lvl: 25, Learned 65%
 
-apply poison         - Lvl: 31, Learned  85%
+apply poison - Lvl: 31, Learned 85%
 
-shadowwalk           - Lvl: 36, Learned  85%
+shadowwalk - Lvl: 36, Learned 85%
 
-                    Druid Spells/Skills:
+ Druid Spells/Skills:
 
-shapeshift           - Lvl:  1, Learned  95%
+shapeshift - Lvl: 1, Learned 95%
 
-preserve food        - Lvl:  1, Mana:  5, Learned  95%
+preserve food - Lvl: 1, Mana: 5, Learned 95%
 
-detect poison        - Lvl:  2, Mana:  5, Learned  95%
+detect poison - Lvl: 2, Mana: 5, Learned 95%
 
-will o the wisp      - Lvl:  3, Mana:  5, Learned  95%
+will o the wisp - Lvl: 3, Mana: 5, Learned 95%
 
-freshwater           - Lvl:  4, Mana: 10, Learned  95%
+freshwater - Lvl: 4, Mana: 10, Learned 95%
 
-*** Press return ***
+\*\*\* Press return \*\*\*
 
-cure light           - Lvl:  5, Mana:  8, Learned  95%
+cure light - Lvl: 5, Mana: 8, Learned 95%
 
-remove poison        - Lvl:  5, Mana:  5, Learned  95%
+remove poison - Lvl: 5, Mana: 5, Learned 95%
 
-goodberry            - Lvl:  6, Mana:  5, Learned  95%
+goodberry - Lvl: 6, Mana: 5, Learned 95%
 
-resist cold          - Lvl:  7, Mana: 12, Learned  95%
+resist cold - Lvl: 7, Mana: 12, Learned 95%
 
-track                - Lvl:  7, Learned  85%
+track - Lvl: 7, Learned 85%
 
-resist fire          - Lvl:  8, Mana: 12, Learned  95%
+resist fire - Lvl: 8, Mana: 12, Learned 95%
 
-cure minor           - Lvl:  8, Mana:  8, Learned  95%
+cure minor - Lvl: 8, Mana: 8, Learned 95%
 
-control weather      - Lvl:  9, Mana: 25, Learned  95%
+control weather - Lvl: 9, Mana: 25, Learned 95%
 
-natures familiar     - Lvl: 10, Mana: 20, Learned  95%
+natures familiar - Lvl: 10, Mana: 20, Learned 95%
 
-spellcraft           - Lvl: 10, Learned  85%
+spellcraft - Lvl: 10, Learned 85%
 
-infravision          - Lvl: 11, Mana: 10, Learned  95%
+infravision - Lvl: 11, Mana: 10, Learned 95%
 
-dispel magic         - Lvl: 12, Mana:  5, Learned  95%
+dispel magic - Lvl: 12, Mana: 5, Learned 95%
 
-water breathing      - Lvl: 12, Mana: 10, Learned  95%
+water breathing - Lvl: 12, Mana: 10, Learned 95%
 
-stone to flesh       - Lvl: 13, Mana: 25, Learned  95%
+stone to flesh - Lvl: 13, Mana: 25, Learned 95%
 
-cure normal          - Lvl: 14, Mana: 12, Learned  95%
+cure normal - Lvl: 14, Mana: 12, Learned 95%
 
-call lightning       - Lvl: 15, Mana: 15, Learned  95%
+call lightning - Lvl: 15, Mana: 15, Learned 95%
 
-regeneration         - Lvl: 15, Mana: 25, Learned  95%
+regeneration - Lvl: 15, Mana: 25, Learned 95%
 
-equanimity           - Lvl: 15, Learned  85%
+equanimity - Lvl: 15, Learned 85%
 
-refresh              - Lvl: 16, Mana: 20, Learned  95%
+refresh - Lvl: 16, Mana: 20, Learned 95%
 
-fog                  - Lvl: 17, Mana: 10, Learned  95%
+fog - Lvl: 17, Mana: 10, Learned 95%
 
-fly                  - Lvl: 19, Mana: 12, Learned  95%
+fly - Lvl: 19, Mana: 12, Learned 95%
 
-cure serious         - Lvl: 19, Mana: 14, Learned  95%
+cure serious - Lvl: 19, Mana: 14, Learned 95%
 
-fluidity             - Lvl: 20, Mana: 37, Learned  95%
+fluidity - Lvl: 20, Mana: 37, Learned 95%
 
-reign of the spider  - Lvl: 20, Mana: 35, Learned  95%
+reign of the spider - Lvl: 20, Mana: 35, Learned 95%
 
-spirit watcher       - Lvl: 20, Mana: 20, Unlearned
+spirit watcher - Lvl: 20, Mana: 20, Unlearned
 
-battle shift         - Lvl: 20, Learned  50%
+battle shift - Lvl: 20, Learned 50%
 
-resist poison        - Lvl: 20, Mana: 40, Unlearned
+resist poison - Lvl: 20, Mana: 40, Unlearned
 
-elemental resistance - Lvl: 23, Mana: 12, Learned  95%
+elemental resistance - Lvl: 23, Mana: 12, Learned 95%
 
-cure critic          - Lvl: 25, Mana: 16, Unlearned
+cure critic - Lvl: 25, Mana: 16, Unlearned
 
-sunbeam              - Lvl: 25, Mana: 30, Learned  95%
+sunbeam - Lvl: 25, Mana: 30, Learned 95%
 
-rapid shift          - Lvl: 25, Learned  85%
+rapid shift - Lvl: 25, Learned 85%
 
-hedge maze           - Lvl: 25, Mana: 27, Learned  95%
+hedge maze - Lvl: 25, Mana: 27, Learned 95%
 
-brambles             - Lvl: 27, Mana: 35, Learned  95%
+brambles - Lvl: 27, Mana: 35, Learned 95%
 
-garden               - Lvl: 29, Mana: 35, Learned  95%
+garden - Lvl: 29, Mana: 35, Learned 95%
 
-heal                 - Lvl: 30, Mana: 42, Learned  95%
+heal - Lvl: 30, Mana: 42, Learned 95%
 
-twister              - Lvl: 30, Mana: 35, Learned  95%
+twister - Lvl: 30, Mana: 35, Learned 95%
 
-walk of the cheetah  - Lvl: 30, Mana: 60, Unlearned
+walk of the cheetah - Lvl: 30, Mana: 60, Unlearned
 
-cover tracks         - Lvl: 31, Unlearned
+cover tracks - Lvl: 31, Unlearned
 
-*** Press return ***
+\*\*\* Press return \*\*\*
 
-natures revival      - Lvl: 32, Mana: 40, Learned  95%
+natures revival - Lvl: 32, Mana: 40, Learned 95%
 
-willow wind          - Lvl: 33, Mana: 25, Learned  95%
+willow wind - Lvl: 33, Mana: 25, Learned 95%
 
-winds of fortune     - Lvl: 34, Mana: 60, Learned  95%
+winds of fortune - Lvl: 34, Mana: 60, Learned 95%
 
-avalanche            - Lvl: 35, Mana: 40, Learned  95%
+avalanche - Lvl: 35, Mana: 40, Learned 95%
 
-dawnfire             - Lvl: 35, Mana: 25, Learned  95%
+dawnfire - Lvl: 35, Mana: 25, Learned 95%
 
-                    Monk Skills:
+ Monk Skills:
 
-kick                 - Lvl:  1, Learned  85%
+kick - Lvl: 1, Learned 85%
 
-protect              - Lvl:  1, Learned  85%
+protect - Lvl: 1, Learned 85%
 
-slowfall             - Lvl:  1, Learned  95%
+slowfall - Lvl: 1, Learned 95%
 
-improved attack      - Lvl:  1, Learned  85%
+improved attack - Lvl: 1, Learned 85%
 
-blindfight           - Lvl:  4, Learned  85%
+blindfight - Lvl: 4, Learned 85%
 
-double attack        - Lvl:  6, Learned  85%
+double attack - Lvl: 6, Learned 85%
 
-track                - Lvl:  7, Learned  85%
+track - Lvl: 7, Learned 85%
 
-strike               - Lvl:  8, Learned  85%
+strike - Lvl: 8, Learned 85%
 
-waterwalk            - Lvl: 11, Learned  85%
+waterwalk - Lvl: 11, Learned 85%
 
-climb                - Lvl: 12, Learned  85%
+climb - Lvl: 12, Learned 85%
 
-stun                 - Lvl: 12, Learned  85%
+stun - Lvl: 12, Learned 85%
 
-dodge                - Lvl: 15, Learned  85%
+dodge - Lvl: 15, Learned 85%
 
-stalk                - Lvl: 17, Learned  85%
+stalk - Lvl: 17, Learned 85%
 
-purity               - Lvl: 18, Mana: 60, Learned  95%
+purity - Lvl: 18, Mana: 60, Learned 95%
 
-feign death          - Lvl: 20, Learned  50%
+feign death - Lvl: 20, Learned 50%
 
-focus                - Lvl: 23, Learned  85%
+focus - Lvl: 23, Learned 85%
 
-deathgrip            - Lvl: 25, Learned  95%
+deathgrip - Lvl: 25, Learned 95%
 
-squirm               - Lvl: 30, Learned  85%
+squirm - Lvl: 30, Learned 85%
 
-trip                 - Lvl: 30, Learned  85%
+trip - Lvl: 30, Learned 85%
 
-flurry               - Lvl: 30, Learned  85%
+flurry - Lvl: 30, Learned 85%
 
-presage              - Lvl: 31, Learned  85%
+presage - Lvl: 31, Learned 85%
 
-counterattack        - Lvl: 33, Learned  85%
+counterattack - Lvl: 33, Learned 85%
 
-windrun              - Lvl: 36, Learned  85%
+windrun - Lvl: 36, Learned 85%
 
-                    Avatar Abilities:
+ Avatar Abilities:
 
-aegis                - Lvl:  1, Mana: 40, Learned  95%
+aegis - Lvl: 1, Mana: 40, Learned 95%
 
-greater fluidity     - Lvl:  1, Mana: 42, Learned  50%
+greater fluidity - Lvl: 1, Mana: 42, Learned 50%
 
-sanctity             - Lvl:  1, Learned  95%
+sanctity - Lvl: 1, Learned 95%
 
-crippling strike     - Lvl:  1, Learned  85%
+crippling strike - Lvl: 1, Learned 85%
 
-identify             - Lvl:  2, Mana: 25, Learned  95%
+identify - Lvl: 2, Mana: 25, Learned 95%
 
-ambush               - Lvl:  2, Learned  85%
+ambush - Lvl: 2, Learned 85%
 
-resist webs          - Lvl:  4, Mana: 22, Learned  95%
+resist webs - Lvl: 4, Mana: 22, Learned 95%
 
 Pendalf arrives from the east.
 
-*** Press return ***
+\*\*\* Press return \*\*\*
 
-mobility             - Lvl:  5, Mana: 15, Learned  95%
+mobility - Lvl: 5, Mana: 15, Learned 95%
 
-damnation            - Lvl:  7, Mana:  7, Learned  95%
+damnation - Lvl: 7, Mana: 7, Learned 95%
 
-master strike        - Lvl:  7, Learned  85%
+master strike - Lvl: 7, Learned 85%
 
-call followers       - Lvl:  7, Mana: 12, Learned  95%
+call followers - Lvl: 7, Mana: 12, Learned 95%
 
-grace                - Lvl:  8, Mana:  7, Learned  95%
+grace - Lvl: 8, Mana: 7, Learned 95%
 
-mythic form          - Lvl:  8, Learned  85%
+mythic form - Lvl: 8, Learned 85%
 
-urban stealth        - Lvl:  8, Learned  85%
+urban stealth - Lvl: 8, Learned 85%
 
-stamina              - Lvl:  9, Mana: 20, Learned  95%
+stamina - Lvl: 9, Mana: 20, Learned 95%
 
-greater refresh      - Lvl: 11, Mana: 20, Learned  95%
+greater refresh - Lvl: 11, Mana: 20, Learned 95%
 
-retreat              - Lvl: 11, Learned  85%
+retreat - Lvl: 11, Learned 85%
 
-rejuvenation         - Lvl: 12, Mana: 25, Learned  95%
+rejuvenation - Lvl: 12, Mana: 25, Learned 95%
 
-corona               - Lvl: 13, Mana: 20, Learned  95%
+corona - Lvl: 13, Mana: 20, Learned 95%
 
-contemplation        - Lvl: 14, Learned  85%
+contemplation - Lvl: 14, Learned 85%
 
-sleight of hand      - Lvl: 14, Learned  85%
+sleight of hand - Lvl: 14, Learned 85%
 
-vitality             - Lvl: 16, Mana: 18, Learned  95%
+vitality - Lvl: 16, Mana: 18, Learned 95%
 
-aptitude             - Lvl: 19, Mana: 18, Learned  95%
+aptitude - Lvl: 19, Mana: 18, Learned 95%
 
-iron skin            - Lvl: 22, Mana: 25, Learned  95%
+iron skin - Lvl: 22, Mana: 25, Learned 95%
 
-prediction           - Lvl: 22, Learned  85%
+prediction - Lvl: 22, Learned 85%
 
 i have a two room vault with vairous stuff in it as well.
 
@@ -624,7 +624,7 @@ popa has +17 dam -8.4 ac and also a -10 ac tank mode.
 
 <div class="post" data-post-id="6055" data-author="Avatar" data-date="2005-05-09T21:07:05+00:00" data-subject="Bleah">
 
-I think I know how you feel.  I died twice and corpsed twice in a nocast room today thanks to some bugged necromancer summons.
+I think I know how you feel. I died twice and corpsed twice in a nocast room today thanks to some bugged necromancer summons.
 
 Hate to see you leave, though.
 
@@ -634,57 +634,57 @@ Hate to see you leave, though.
 
 Sorry to see u leave there Steve.
 
-This is Will the old Link that we chatted awhile ago.  U don't have to quit,
+This is Will the old Link that we chatted awhile ago. U don't have to quit,
 
-and sell ur char.  I mean Reb is going to start "another" flame on how ur
+and sell ur char. I mean Reb is going to start "another" flame on how ur
 
-setting Lyme up for another pthief (hehehe jk).  Just keep Popa on the 
+setting Lyme up for another pthief (hehehe jk). Just keep Popa on the 
 
-side, and let him rent a bit, unless u need the money.  Which in all case,
+side, and let him rent a bit, unless u need the money. Which in all case,
 
-go a head.  Nice meeting yea, and peace out.
+go a head. Nice meeting yea, and peace out.
 
->: )-~
+\>: )-\~
 
 </div>
 
 <div class="post" data-post-id="6059" data-author="Gnu" data-date="2005-05-10T06:09:50+00:00" data-subject="">
 
-It's sad to see you leaving, Popa. You was the first one who offered me help when I asked for it (and dead/corpsed twice after that). And it will be even worse to see someone else playing your char... I still remember the time when you was a small thief with funny title about how do you know about what does your name mean :) 
+It's sad to see you leaving, Popa. You was the first one who offered me help when I asked for it (and dead/corpsed twice after that). And it will be even worse to see someone else playing your char... I still remember the time when you was a small thief with funny title about how do you know about what does your name mean <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> 
 
-Good luck, and be happy. See you soon :)
+Good luck, and be happy. See you soon <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="6060" data-author="firebrand" data-date="2005-05-10T10:59:41+00:00" data-subject="">
 
-hate to see you leave, steve.  i agree - just keep your char in storage or smth like that though.  you may once in a while wanna come back and at least harrass the hell outta splork.  although like avatar, i am quite pissed about shocking back to back even though i was running at 18 con and the raiser was wearing +raise gear.  and then the next day corsping out after only 3 ticks, which has happened like 3 times before.  but that's a mumble grumble for another day.  don't sell popa....you'll calm down and wish you hadn't
+hate to see you leave, steve. i agree - just keep your char in storage or smth like that though. you may once in a while wanna come back and at least harrass the hell outta splork. although like avatar, i am quite pissed about shocking back to back even though i was running at 18 con and the raiser was wearing +raise gear. and then the next day corsping out after only 3 ticks, which has happened like 3 times before. but that's a mumble grumble for another day. don't sell popa....you'll calm down and wish you hadn't
 
 </div>
 
 <div class="post" data-post-id="6061" data-author="firebrand" data-date="2005-05-10T11:04:33+00:00" data-subject="">
 
-and as far as starting a flame about steve opening the door for a lyme pth....i seriously doubt that dude.  i think steve has better sense and would not let just *anyone* buy popa.  although flaming YOU is quite fun, ya phreak *wickedgrin*
+and as far as starting a flame about steve opening the door for a lyme pth....i seriously doubt that dude. i think steve has better sense and would not let just \*anyone\* buy popa. although flaming YOU is quite fun, ya phreak \*wickedgrin\*
 
 </div>
 
 <div class="post" data-post-id="6062" data-author="Autolycos" data-date="2005-05-10T11:38:42+00:00" data-subject="">
 
-blah,  real life sucks...  i have retired too many times, and i still am in my original skin, i got a better idea,  how about you sell me some of your *uneeded crap*  and keep a ton of coins on you for rent and such,  then just retire for a bit..  believe me, you dont want to sell, everyone comes back eventually, and starting over again blows..   take care bro..
+blah, real life sucks... i have retired too many times, and i still am in my original skin, i got a better idea, how about you sell me some of your \*uneeded crap\* and keep a ton of coins on you for rent and such, then just retire for a bit.. believe me, you dont want to sell, everyone comes back eventually, and starting over again blows.. take care bro..
 
-{~*~  Loyal Order of Thieves~*~}
+{\~\*\~ Loyal Order of Thieves\~\*\~}
 
-honestly.. how loyal could an order of thieves be?  :twisted:
+honestly.. how loyal could an order of thieves be? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="6063" data-author="Autolycos" data-date="2005-05-10T11:40:56+00:00" data-subject="">
 
-btw if you got that,  its pretty damn funny...
+btw if you got that, its pretty damn funny...
 
-{~*~ Loyal Order of Thieves~*~} 
+{\~\*\~ Loyal Order of Thieves\~\*\~} 
 
-LOOT   :lol: 
+LOOT <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> 
 
 muahahahahaa
 
@@ -692,9 +692,9 @@ muahahahahaa
 
 <div class="post" data-post-id="6064" data-author="12345" data-date="2005-05-10T12:45:08+00:00" data-subject="">
 
-I retired quite a few times, never lost anything, even coins.  If you stay logged off long enough, rent is waived.  I think it's protection for college students on summer break.  I don't know exactly how long you have to be logged off for it to work, but it's not hard to strip all your stray equipment from your other characters onto your main to perm-rent. Or even the other way around.  That will leave you one to chat with if you want to drop by and one to hibernate to avoid paying rent.  Then if you want to come back, you just have to straighten it all out :)
+I retired quite a few times, never lost anything, even coins. If you stay logged off long enough, rent is waived. I think it's protection for college students on summer break. I don't know exactly how long you have to be logged off for it to work, but it's not hard to strip all your stray equipment from your other characters onto your main to perm-rent. Or even the other way around. That will leave you one to chat with if you want to drop by and one to hibernate to avoid paying rent. Then if you want to come back, you just have to straighten it all out <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-I don't think this has changed, but hopefully one of the admin can correct me if I'm wrong.  I've been away for a bit, so I'm not sure what's changed to upset everyone... but hopefully it doesn't end up with you leaving.
+I don't think this has changed, but hopefully one of the admin can correct me if I'm wrong. I've been away for a bit, so I'm not sure what's changed to upset everyone... but hopefully it doesn't end up with you leaving.
 
 Best wishes.
 
@@ -722,7 +722,7 @@ Yahoo Messenger: zx9rstv
 
 The time away used to be set for two weeks, beyond that the Rent would be waived.
 
-I agree, it's good to rent and hibernate even if you decide to just hibernate for a few weeks.  That might be enough time away that you might be able to imagine coming back.
+I agree, it's good to rent and hibernate even if you decide to just hibernate for a few weeks. That might be enough time away that you might be able to imagine coming back.
 
 </div>
 
@@ -742,11 +742,11 @@ but don't do what i've done and get wiped when ya quit!!
 
 <div class="post" data-post-id="6086" data-author="Autolycos" data-date="2005-05-11T15:19:44+00:00" data-subject="">
 
-LMAO  that was funny too... i laughed at you for a while.. 
+LMAO that was funny too... i laughed at you for a while.. 
 
 Wench was a pretty good char too..
 
-I always thought that was a dumb move. :twisted:
+I always thought that was a dumb move. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -760,7 +760,7 @@ Only non-tard dam light or something like that... without a - Wis.
 
 <div class="post" data-post-id="6088" data-author="12345" data-date="2005-05-11T16:04:53+00:00" data-subject="">
 
-Rent is capped at 7 days.  If you rent for over a month, it is waived.  Would explain why I haven't gone broke yet.
+Rent is capped at 7 days. If you rent for over a month, it is waived. Would explain why I haven't gone broke yet.
 
 </div>
 
@@ -776,11 +776,11 @@ oddly it is the only real quest item i have ever been awarded
 
 <div class="post" data-post-id="6131" data-author="Autolycos" data-date="2005-05-13T11:26:37+00:00" data-subject="">
 
-WTF?  onyx staff....  how in the hell did i miss that...
+WTF? onyx staff.... how in the hell did i miss that...
 
 shadis ole buddy ole pal.. whe need to talk...
 
-hehe :twisted:
+hehe <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -788,17 +788,17 @@ hehe :twisted:
 
 Yea Auto is already jealous.
 
-I've been award like 2-3 quest items.  In the old days, Tanks would get
+I've been award like 2-3 quest items. In the old days, Tanks would get
 
-the #1 pick :)  Now a days, it's either random or voted.  
+the #1 pick <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> Now a days, it's either random or voted. 
 
-But who didn't LOVE LINK!!!  (6 yrs ago Best tank in Game!!!)
+But who didn't LOVE LINK!!! (6 yrs ago Best tank in Game!!!)
 
 </div>
 
 <div class="post" data-post-id="6134" data-author="Weasel" data-date="2005-05-13T14:18:18+00:00" data-subject="">
 
-One day I'll get a quest item. Never had one.. yet  :)
+One day I'll get a quest item. Never had one.. yet <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -808,7 +808,7 @@ damn right i'm jealous!
 
 You get an Onyx Staff from the corpse of Shadis that is on the ground.
 
-if only!!   :twisted:
+if only!! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

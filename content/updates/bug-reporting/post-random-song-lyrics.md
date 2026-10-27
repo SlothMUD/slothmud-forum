@@ -12,13 +12,11 @@ post_count: 3
 
 <div class="post" data-post-id="29225" data-author="Toxis" data-date="2009-05-19T19:09:34+00:00" data-subject="Post Random Song Lyrics">
 
-Who here remembers Wasted Youth by Meatloaf?  It was actually the start of another song, not really a song, but the end is funnier than hell.
+Who here remembers Wasted Youth by Meatloaf? It was actually the start of another song, not really a song, but the end is funnier than hell.
 
--Tox
+\-Tox
 
 Wasted Youth
-
-   
 
  
 
@@ -170,7 +168,7 @@ Leonid Brezhnev - General Secretary of the Communist Party of the Soviet Union 1
 
 Josepth McCarthy - US Senator claimed to have a list of Communists working for the US State Dept.
 
-Richard Nixon - US President 1969-1974.  Resigned to avoid impeachment due to Watergate scandal.
+Richard Nixon - US President 1969-1974. Resigned to avoid impeachment due to Watergate scandal.
 
 glitterati - wealthy or famous people who conspicuously or ostentatiously attend fashionable events.([http://dictionary.reference.com/browse/Glitterati](http://dictionary.reference.com/browse/Glitterati))
 

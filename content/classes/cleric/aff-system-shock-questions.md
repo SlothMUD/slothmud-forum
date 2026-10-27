@@ -14,7 +14,7 @@ post_count: 3
 
 In my raise gear I have Wis 22 (which is the max I can have at 4x40)
 
-and AFF_SYSTEM_SHOCK = 14.
+and AFF\_SYSTEM\_SHOCK = 14.
 
 I have made a Champagne Pearl rune but have not socketed it to
 
@@ -22,15 +22,15 @@ anything yet.
 
 I could socket the rune to my raise gear bracelet, bringing
 
-AFF_SYSTEM_SHOCK to 15, or I could socket the rune to my heal bonus
+AFF\_SYSTEM\_SHOCK to 15, or I could socket the rune to my heal bonus
 
-bracelet, keeping AFF_SYSTEM_SHOCK at 14 but requiring me to cart
+bracelet, keeping AFF\_SYSTEM\_SHOCK at 14 but requiring me to cart
 
 around one less piece of equipment.
 
-Is there a cap to AFF_SYSTEM_SHOCK and if so how does it work? 
+Is there a cap to AFF\_SYSTEM\_SHOCK and if so how does it work? 
 
-i.e. is there any marginal benefit of increasing AFF_SYSTEM_SHOCK to 15?
+i.e. is there any marginal benefit of increasing AFF\_SYSTEM\_SHOCK to 15?
 
 </div>
 

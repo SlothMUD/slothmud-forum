@@ -32,7 +32,7 @@ nexus..i can oppose whom ever i feel like...i think you should just mind your ow
 
 <div class="post" data-post-id="7220" data-author="Medios" data-date="2005-06-15T05:14:59+00:00" data-subject="">
 
-People with fishing guilds rock.  Mud downtime just means less walleyes for Corwin.
+People with fishing guilds rock. Mud downtime just means less walleyes for Corwin.
 
 Mike
 
@@ -46,6 +46,6 @@ May be immortals were busy because of updating top-20 page? hm... let me check..
 
 <div class="post" data-post-id="7227" data-author="Leaf" data-date="2005-06-15T09:58:25+00:00" data-subject="">
 
-Hum... Nope nothing has been changed Gnu just FYI :)
+Hum... Nope nothing has been changed Gnu just FYI <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

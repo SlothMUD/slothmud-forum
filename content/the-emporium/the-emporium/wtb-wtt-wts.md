@@ -28,7 +28,7 @@ I also have an obsidian pearl to sell. 2 mills and it's yours.
 
 <div class="post" data-post-id="26084" data-author="jezer" data-date="2008-09-02T11:27:56+00:00" data-subject="">
 
-Yinao gave me a symbol of the obsidian knight. That was kinda nice of him. I also sold my obsidian pearl... I'm cycling kalamari, but I'm still up for trading for the rings.  BTW no I don't want to sell my Band of Ether.
+Yinao gave me a symbol of the obsidian knight. That was kinda nice of him. I also sold my obsidian pearl... I'm cycling kalamari, but I'm still up for trading for the rings. BTW no I don't want to sell my Band of Ether.
 
 </div>
 
@@ -44,9 +44,9 @@ Regarding the tard lite, I chose 4mreg +dam. The mreg is a nice bonus while shif
 
 Chi looks at Kalamari the giant squid.
 
-<1501hp 82ma 200mv -11.1ac -4al 310335347xp +40mr>
+\<1501hp 82ma 200mv -11.1ac -4al 310335347xp +40mr\>
 
-<1501hp 82ma 200mv -11.1ac -4al 310335347xp +40mr>
+\<1501hp 82ma 200mv -11.1ac -4al 310335347xp +40mr\>
 
 bf
 
@@ -86,7 +86,7 @@ I'll also interested in hydra, p-worm or cobra if it's out there for trade... bu
 
 <div class="post" data-post-id="27396" data-author="Weasel" data-date="2008-12-09T22:51:23+00:00" data-subject="">
 
-I have 1 horns spare, and I need bottle of hatred..  so if you're keen, I am too.
+I have 1 horns spare, and I need bottle of hatred.. so if you're keen, I am too.
 
 </div>
 
@@ -160,13 +160,13 @@ Get some real trades dude.
 
 I think what medios is saying... is my stuff is crap and you should trade with him first.
 
-Don't you hate it when your buying fast food, and that rude person who thinks he's better than everyone else pushes in front of you in the line and orders?  :twisted:
+Don't you hate it when your buying fast food, and that rude person who thinks he's better than everyone else pushes in front of you in the line and orders? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="27537" data-author="Evergreen" data-date="2008-12-26T10:45:23+00:00" data-subject="">
 
-it is a crap, offer infernite ring and it will work :) or cobra fangs for pworm
+it is a crap, offer infernite ring and it will work <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> or cobra fangs for pworm
 
 </div>
 
@@ -188,7 +188,8 @@ have had 3/3 or 3/4 rings, time ago
 
 <div class="post" data-post-id="27541" data-author="Vixn" data-date="2008-12-27T09:29:42+00:00" data-subject="">
 
-Infernite ring is worth far more than any desert cp imho. I popped firenze 1/48... none of the iolite mobs get even close to that pop rate.[/quote:2gmskh6m]
+> <strong>jezer wrote:</strong>
+> Infernite ring is worth far more than any desert cp imho. I popped firenze 1/48... none of the iolite mobs get even close to that pop rate.
 
 Nod, infernite have worth pop-rate I've ever seen. Plus some mobs there aren't solo even for druids or necroses, ie mf queen. There were а few tricks that ppl used but as I know it was removed.
 
@@ -218,6 +219,6 @@ Offering gnarled bone or arachnids dagger if you can get me a sharks dagger.
 
 I no longer require any daggers, nor do I have any girdle cp's for trade...
 
-I am looking to get an "Adamantite Greatshield" now which is chop.... crap!  :evil: So if you have one you wish to trade... hehe, yeah... or you got cp's see me in game.
+I am looking to get an "Adamantite Greatshield" now which is chop.... crap! <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom"> So if you have one you wish to trade... hehe, yeah... or you got cp's see me in game.
 
 </div>

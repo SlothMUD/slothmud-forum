@@ -22,7 +22,7 @@ Just needs clearing up, cheers.
 
 <div class="post" data-post-id="29054" data-author="Dragoth" data-date="2009-04-25T13:08:52+00:00" data-subject="">
 
-Well sorry, had a better think about it, obviously it doesnt make it useless as people with war second will be able to get -11ac sooner than someone with warrior quad etc. :idea:
+Well sorry, had a better think about it, obviously it doesnt make it useless as people with war second will be able to get -11ac sooner than someone with warrior quad etc. <img src="/images/smilies/icon_idea.svg" alt=":idea:" title=":idea:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -38,11 +38,11 @@ Because everyone has the same things these days... and people tend to use only t
 
 <div class="post" data-post-id="29058" data-author="Leaf" data-date="2009-04-26T06:08:47+00:00" data-subject="">
 
-I posted a long message, but I must of timed out.  Basically I thought the
+I posted a long message, but I must of timed out. Basically I thought the
 
-exact samething.  Since this is the new Sloth, Imm will keep making changes
+exact samething. Since this is the new Sloth, Imm will keep making changes
 
-to make this game better.  My opinion would to limit everyone's spells/skills
+to make this game better. My opinion would to limit everyone's spells/skills
 
 after their 4th class they pick. example
 
@@ -60,13 +60,13 @@ This will make everyone think what classes they will pick.
 
 <div class="post" data-post-id="29059" data-author="Toxis" data-date="2009-04-26T08:00:22+00:00" data-subject="">
 
-Some of the coolest skills/spells are prime only, do we really have to nerf everyone?  I mean why even bother leveling past 4th class?  The beauty of this sloth is that if you work hard enough for it you can get almost every skill and spell, which is what drew me to sloth in the first place.
+Some of the coolest skills/spells are prime only, do we really have to nerf everyone? I mean why even bother leveling past 4th class? The beauty of this sloth is that if you work hard enough for it you can get almost every skill and spell, which is what drew me to sloth in the first place.
 
-I'm not sure how I feel about ferret being so low level, but heavy armor is pretty high on the warrior levels.  I have a feeling it is going to take a person a long time to get -11 even with a lot of eq.  And remember, there are a lot of changes going on, we don't even know what is going to happen in the coming months, but so far the creators have done some pretty nice things.
+I'm not sure how I feel about ferret being so low level, but heavy armor is pretty high on the warrior levels. I have a feeling it is going to take a person a long time to get -11 even with a lot of eq. And remember, there are a lot of changes going on, we don't even know what is going to happen in the coming months, but so far the creators have done some pretty nice things.
 
-It's been pretty hard on everyone starting over, but I was losing interest.  This is probably the best thing the creators could have done at this point to revive the lifeblood within the game and I say good job to you all, keep up the good work.
+It's been pretty hard on everyone starting over, but I was losing interest. This is probably the best thing the creators could have done at this point to revive the lifeblood within the game and I say good job to you all, keep up the good work.
 
--Brad
+\-Brad
 
 </div>
 
@@ -74,7 +74,7 @@ It's been pretty hard on everyone starting over, but I was losing interest.  Thi
 
 Since how restoration, frostbolt and wraithform is prime only, it would only make sense if HAP is set to Wa Prime only.
 
--Rig
+\-Rig
 
 </div>
 

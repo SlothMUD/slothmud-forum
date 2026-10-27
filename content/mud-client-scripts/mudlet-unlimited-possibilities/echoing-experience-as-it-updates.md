@@ -28,7 +28,7 @@ and change it to:
 
 function updateExperience()
 
-if atcp.MSDPEXPERIENCE+0~=xp then
+if atcp.MSDPEXPERIENCE+0\~=xp then
 
 lastXp=xp
 
@@ -36,11 +36,11 @@ xp=atcp.MSDPEXPERIENCE+0
 
 xpDelta=xp-lastXp
 
-cecho("<cyan>"..xpDelta.."<reset>") end
+cecho("\<cyan\>"..xpDelta.."\<reset\>") end
 
 end
 
-*don't forget to put xp, lastXp, and xpDelta in definitions, i.e. xp=xp or 0, etc...
+\*don't forget to put xp, lastXp, and xpDelta in definitions, i.e. xp=xp or 0, etc...
 
 Now you are seeing your exp increases and can use xpDelta in triggers to track various statistics and such.
 

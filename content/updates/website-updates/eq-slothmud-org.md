@@ -20,11 +20,11 @@ Fluffy can no longer host the site so it has been move to a new server but the s
 
 Some minor changes:
 
-- styling on ac sort (default) was fixed
+\- styling on ac sort (default) was fixed
 
-- additional filtering to exclude Marclair trades from results
+\- additional filtering to exclude Marclair trades from results
 
-- continents now show for listed forge mobs
+\- continents now show for listed forge mobs
 
 Flit
 

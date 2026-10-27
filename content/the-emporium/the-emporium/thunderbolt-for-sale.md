@@ -40,6 +40,6 @@ catch me ig lonce as 13 or slipknot
 
 <div class="post" data-post-id="4215" data-author="Weasel" data-date="2005-02-08T15:54:07+00:00" data-subject="">
 
-bah.. didn't leave it up for long ..I would've bid on this had I seen it sooner :P
+bah.. didn't leave it up for long ..I would've bid on this had I seen it sooner <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>

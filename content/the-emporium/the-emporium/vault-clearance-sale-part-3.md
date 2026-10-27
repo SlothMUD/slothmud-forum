@@ -34,7 +34,7 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: ARMOR by -4
+ Affects: ARMOR by -4
 
 Only those who are at least experienced warriors may use this item.
 
@@ -48,9 +48,9 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: REGEN_MANA by 1
+ Affects: REGEN\_MANA by 1
 
-    Affects: REGEN_HP by 1
+ Affects: REGEN\_HP by 1
 
 Only those who are at least experienced magic users and clerics may use 
 
@@ -66,7 +66,7 @@ AC-apply is -0.4
 
 Can affect you as:
 
-    Affects: HITPOINT by 15
+ Affects: HITPOINT by 15
 
 Only those who are at least supreme warriors or monks, and have attained 
 
@@ -82,9 +82,9 @@ AC-apply is -1.6
 
 Can affect you as:
 
-    Affects: REGEN_HP by 1
+ Affects: REGEN\_HP by 1
 
-    Affects: HITPOINT by 6
+ Affects: HITPOINT by 6
 
 Only those who are at least supreme warriors, and have attained supremacy 
 

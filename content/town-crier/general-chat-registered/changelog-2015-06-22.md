@@ -18,9 +18,9 @@ Remove all.keyword works now
 
 Remove #.keyword works now
 
-To remove ambiguity between players and mobiles, using 0.keyword should always look for/find the player.  This should keep players from sanc'ing/healing mobs when they don't mean to.
+To remove ambiguity between players and mobiles, using 0.keyword should always look for/find the player. This should keep players from sanc'ing/healing mobs when they don't mean to.
 
-I've also done some performance tuning with a particularly active part of the code.  It should help _if_ the recent lag issues have been CPU related.  More tweaks to come once I am able to analyze the counters from the current boot cycle.
+I've also done some performance tuning with a particularly active part of the code. It should help \_if\_ the recent lag issues have been CPU related. More tweaks to come once I am able to analyze the counters from the current boot cycle.
 
 </div>
 
@@ -28,7 +28,7 @@ I've also done some performance tuning with a particularly active part of the co
 
 Forgot to mention that I updated greater refresh - it should default to self if no target is specified.
 
-I'm also working on memorize and ioun stones.  Would be curious to know what spells people typically memorize other than damage spells and gate.  That way I can test the new code before the rest of you do.
+I'm also working on memorize and ioun stones. Would be curious to know what spells people typically memorize other than damage spells and gate. That way I can test the new code before the rest of you do.
 
 </div>
 
@@ -52,12 +52,12 @@ Dr
 
 <div class="post" data-post-id="35961" data-author="*Breeze*" data-date="2015-06-23T20:03:05+00:00" data-subject="Re: Changelog 2015-06-22">
 
-> **Ker wrote:**
+> <strong>Ker wrote:</strong>
 > Would be great if we could check spells memorized asleep. 
 > 
 > 
 > 
-> -snip-
+> \-snip-
 > 
 > 
 > 
@@ -69,16 +69,16 @@ Teker already added that. Should be live
 
 <div class="post" data-post-id="35962" data-author="*teker*" data-date="2015-06-23T20:18:52+00:00" data-subject="Re: Changelog 2015-06-22">
 
-> ***Breeze* wrote:**
+> <strong>\*Breeze\* wrote:</strong>
 > Teker already added that. Should be live
 
-Ooops, it is live accidentally.  "mem" and "mem clear" will both work while sleeping.
+Ooops, it is live accidentally. "mem" and "mem clear" will both work while sleeping.
 
 </div>
 
 <div class="post" data-post-id="35963" data-author="Ker" data-date="2015-06-24T12:35:07+00:00" data-subject="Re: Changelog 2015-06-22">
 
-Awesomeeeeeeeee <3
+Awesomeeeeeeeee \<3
 
 Dr
 

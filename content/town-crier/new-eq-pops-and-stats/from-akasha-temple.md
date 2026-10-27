@@ -26,7 +26,7 @@ Weight: 1, Value: 3500, Worn in: TAKE BODY
 
 Can affect you as:
 
-    Affects: CHARISMA by 1
+ Affects: CHARISMA by 1
 
 Only those who are at least adept bards may use this item.
 

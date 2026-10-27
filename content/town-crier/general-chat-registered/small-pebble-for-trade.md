@@ -24,7 +24,7 @@ Vixn.
 
 I'll pay 2.5m for it.
 
--Auri
+\-Auri
 
 </div>
 
@@ -36,6 +36,6 @@ OK, I'll be on-line in about 12 hours. So I'll try to catch you on-line or ship 
 
 <div class="post" data-post-id="9131" data-author="13" data-date="2005-10-24T11:39:06+00:00" data-subject="">
 
-I have a flaming sash for 2.5mil :)
+I have a flaming sash for 2.5mil <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

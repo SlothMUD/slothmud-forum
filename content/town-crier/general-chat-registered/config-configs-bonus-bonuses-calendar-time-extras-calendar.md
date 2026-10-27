@@ -18,69 +18,69 @@ Someone can post the one with Eu days below it.
 
 For some reason i couldn't find this with the keywords that i thought could reference it, so i'm adding it here
 
-to add the keywords.  So we can find the thing.
+to add the keywords. So we can find the thing.
 
-1) World -> Fargate
+1\) World -\> Fargate
 
-2) Island
+2\) Island
 
-3) Thordfalan
+3\) Thordfalan
 
-4) Niebelung
+4\) Niebelung
 
-5) Thule
+5\) Thule
 
-6) World-> Exp Bonus
+6\) World-\> Exp Bonus
 
-7) Island
+7\) Island
 
 8 ) Thordfalan
 
-9) Niebelung
+9\) Niebelung
 
-10) Thule
+10\) Thule
 
-11) World -> NoCap
+11\) World -\> NoCap
 
-12) Island
+12\) Island
 
-13) Thordfalan
+13\) Thordfalan
 
-14) Niebelung
+14\) Niebelung
 
-15) Thule
+15\) Thule
 
-16) World -> Fast Repop, Offlyme Chop
+16\) World -\> Fast Repop, Offlyme Chop
 
-17) Island
+17\) Island
 
-18) Thordfalan
+18\) Thordfalan
 
-19) Niebelung
+19\) Niebelung
 
-20) Thule
+20\) Thule
 
-21) World -> No Kill History
+21\) World -\> No Kill History
 
-22) Island
+22\) Island
 
-23) Thordfalan
+23\) Thordfalan
 
-24) Niebelung
+24\) Niebelung
 
-25) Thule
+25\) Thule
 
-26) World -> Regen
+26\) World -\> Regen
 
-27) Island
+27\) Island
 
-28) Thordfalan
+28\) Thordfalan
 
-29) Niebelung
+29\) Niebelung
 
-30) Thule
+30\) Thule
 
-31) World -> Gem Pop
+31\) World -\> Gem Pop
 
 The Surgeon General has determined that Mudding can cause Cancer, Liver and
 
@@ -110,9 +110,9 @@ Unsuccessful Barbecuing, Gargling, BONKing, Mavisms, Talking-in-Third-Person
 
 Syndrome, Limosine Overcrowding, Elevator Stalling, Messianism, Low Scoring on
 
-Standardized Tests, PBS Pledging, PTA Joining, PTL Propaganda, S&L Bailouts,
+Standardized Tests, PBS Pledging, PTA Joining, PTL Propaganda, S\&L Bailouts,
 
-Deficit Spending, BL&T Indigestion, Armpit Enlargement, Proletarianization,
+Deficit Spending, BL\&T Indigestion, Armpit Enlargement, Proletarianization,
 
 Antidisestablismenterianism, Panic, Disillusionment, Asymmetrical Twins, 
 
@@ -122,7 +122,7 @@ Clogging, Eviction, Infant Mortality, Cryptorchitis, Shistosomaisis, Nepotism,
 
 Baldness, Bad Spelling, Maximum Verbosity, and General Failure in Life.
 
---Mud list at rec.games.mud
+\--Mud list at rec.games.mud
 
 </div>
 
@@ -138,7 +138,7 @@ Gem pop day doesn't happen. Neither does Lyme day. Could we trade some Euridyce 
 
 <div class="post" data-post-id="38487" data-author="*teker*" data-date="2017-11-17T15:12:51+00:00" data-subject="Re: config Calendar time Extras  Calendar">
 
-The schedule is in the code so only people with access to the code can see it directly.  It breaks down like this:
+The schedule is in the code so only people with access to the code can see it directly. It breaks down like this:
 
 1, 7, 13, 19, 25: EU Days
 

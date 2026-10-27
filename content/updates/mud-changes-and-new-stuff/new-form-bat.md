@@ -16,12 +16,12 @@ This form requires an object to aid transformation
 
 "FORM BAT" BAT
 
-Level:     13
+Level: 13
 
 Abilities: Echolocation
 
-Skills:    -
+Skills: -
 
-Attacks:   -
+Attacks: -
 
 </div>

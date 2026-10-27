@@ -24,9 +24,9 @@ usage example:
 
  echo(msdp.CONTINENT)
 
-  or
+ or
 
-lua  echo(msdp.CONTINENT)
+lua echo(msdp.CONTINENT)
 
  from the commandline
 

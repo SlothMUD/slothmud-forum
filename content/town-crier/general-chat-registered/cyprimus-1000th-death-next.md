@@ -16,29 +16,29 @@ Did you know...
 
 Cyprimus
 
-enchanted 3 items  
+enchanted 3 items 
 
-traded for 2 items  
+traded for 2 items 
 
-blew 21 forges  
+blew 21 forges 
 
-forged 85 items  
+forged 85 items 
 
-solved 60 quests  
+solved 60 quests 
 
-brewed 13 potions  
+brewed 13 potions 
 
-died 999 times  
+died 999 times 
 
 Is it that the counter thing stops at 999 or is he really exactly at 999 deaths?
 
---Idjit
+\--Idjit
 
 </div>
 
 <div class="post" data-post-id="33833" data-author="*Breeze*" data-date="2012-12-10T08:08:21+00:00" data-subject="Re: Cyprimus 1000th death next?">
 
-max deaths the web can handle is like 4.3bil :)
+max deaths the web can handle is like 4.3bil <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

@@ -16,9 +16,9 @@ Popa is for sale. Looking for cash offer. I'm hanging up my mudding days. I've g
 
 The teller tells you 'You have 63426883 coins in the bank.'
 
-Popa <~KNIGHTS~> P cubed (pimp,playa,pranksta)  (level: 40)
+Popa \<\~KNIGHTS\~\> P cubed (pimp,playa,pranksta) (level: 40)
 
-Your levels:  Th: 40 Mo: 40 Cl: 40 Dr: 40 Av: 35 
+Your levels: Th: 40 Mo: 40 Cl: 40 Dr: 40 Av: 35 
 
 You are 42 years and 5 months old.
 
@@ -50,101 +50,101 @@ You have been playing for 202 days and 15 hours.
 
 You are a member of The Knights of Sloth.
 
-Str: 18 / 67, Int: 13, Wis: 11, Dex: 18, Con: 18  <--- NATURAL
+Str: 18 / 67, Int: 13, Wis: 11, Dex: 18, Con: 18 \<--- NATURAL
 
 You are standing.
 
-You are affected by the following spells:   None
+You are affected by the following spells: None
 
 REGEN MODE:
 
 You are using:
 
-<used as light>      The Staff of Ra..It has a soft glowing aura!
+\<used as light\> The Staff of Ra..It has a soft glowing aura!
 
-<worn on finger>     a ruby ring..It has a soft glowing aura!
+\<worn on finger\> a ruby ring..It has a soft glowing aura!
 
-<worn on finger>     a ruby ring..It has a soft glowing aura!
+\<worn on finger\> a ruby ring..It has a soft glowing aura!
 
-<worn around neck>   a ruby choker..It has a soft glowing aura!
+\<worn around neck\> a ruby choker..It has a soft glowing aura!
 
-<worn around neck>   a golden choker
+\<worn around neck\> a golden choker
 
-<worn on body>       cobalt blue armor (with an emerald serpent brooch attached to 
+\<worn on body\> cobalt blue armor (with an emerald serpent brooch attached to 
 
 it)
 
-<worn on head>       the crown of serpents..It emits a faint humming sound!
+\<worn on head\> the crown of serpents..It emits a faint humming sound!
 
-<worn on legs>       bamboo shin guards
+\<worn on legs\> bamboo shin guards
 
-<worn on feet>       black demonskin boots..It emits a faint humming sound!
+\<worn on feet\> black demonskin boots..It emits a faint humming sound!
 
-<worn on hands>      a pair of silver gauntlets
+\<worn on hands\> a pair of silver gauntlets
 
-<worn on arms>       sleeves of molten lava..It has a soft glowing aura! (with a 
+\<worn on arms\> sleeves of molten lava..It has a soft glowing aura! (with a 
 
 leather phylactery attached to it)
 
-<worn as shield>     a rusty shield
+\<worn as shield\> a rusty shield
 
-<worn about body>    a black robe of persecution..It emits a faint humming sound!
+\<worn about body\> a black robe of persecution..It emits a faint humming sound!
 
-<worn about waist>   a clipped feather
+\<worn about waist\> a clipped feather
 
-<worn around wrist>  a band of ether
+\<worn around wrist\> a band of ether
 
-<worn around wrist>  a bracer of flames..It has a soft glowing aura!
+\<worn around wrist\> a bracer of flames..It has a soft glowing aura!
 
-<wielded>            a gem cutter..It has a soft glowing aura!
+\<wielded\> a gem cutter..It has a soft glowing aura!
 
-<held>               a small pebble (with a flawed glowing gem attached to it)
+\<held\> a small pebble (with a flawed glowing gem attached to it)
 
 NORMAL MODE:
 
 You are using:
 
-<used as light>      The Staff of Ra..It has a soft glowing aura!
+\<used as light\> The Staff of Ra..It has a soft glowing aura!
 
-<worn on finger>     ring of orc flesh..It emits a faint humming sound!
+\<worn on finger\> ring of orc flesh..It emits a faint humming sound!
 
-<worn on finger>     ring of orc flesh..It emits a faint humming sound!
+\<worn on finger\> ring of orc flesh..It emits a faint humming sound!
 
-<worn around neck>   a dark black cloak
+\<worn around neck\> a dark black cloak
 
-<worn on shoulders>  guards of the maul titans
+\<worn on shoulders\> guards of the maul titans
 
-<worn on body>       cobalt blue armor (with an emerald serpent brooch attached to 
+\<worn on body\> cobalt blue armor (with an emerald serpent brooch attached to 
 
 it)
 
-<worn on head>       the crown of serpents..It emits a faint humming sound!
+\<worn on head\> the crown of serpents..It emits a faint humming sound!
 
-<worn on legs>       bamboo shin guards
+\<worn on legs\> bamboo shin guards
 
-<worn on feet>       black demonskin boots..It emits a faint humming sound!
+\<worn on feet\> black demonskin boots..It emits a faint humming sound!
 
-<worn on hands>      a pair of silver gauntlets
+\<worn on hands\> a pair of silver gauntlets
 
-<worn on arms>       sleeves of molten lava..It has a soft glowing aura! (with a 
+\<worn on arms\> sleeves of molten lava..It has a soft glowing aura! (with a 
 
 leather phylactery attached to it)
 
-<worn as shield>     a glinting shield of silver..It emits a faint humming sound!
+\<worn as shield\> a glinting shield of silver..It emits a faint humming sound!
 
-<worn about body>    a black robe of persecution..It emits a faint humming sound!
+\<worn about body\> a black robe of persecution..It emits a faint humming sound!
 
-<worn about waist>   Tooled Girdle of Ogre Kings (with a single-striped white sash 
+\<worn about waist\> Tooled Girdle of Ogre Kings (with a single-striped white sash 
 
 (Private) attached to it)
 
-<worn around wrist>  a black opal bracelet
+\<worn around wrist\> a black opal bracelet
 
-<worn around wrist>  an onyx bracelet
+\<worn around wrist\> an onyx bracelet
 
-<wielded>            a thunderbolt..It emits a faint humming sound!
+\<wielded\> a thunderbolt..It emits a faint humming sound!
 
-<held>               a jing-jit disk (with a flawed glowing gem attached to it)
+\<held\> a jing-jit disk (with a flawed glowing gem attached to it)
 
 black (carried):
 
@@ -198,9 +198,9 @@ Not to mention a ton of stuff in my other containers. I have two non clan vaults
 
 Also included is char Siam
 
-Siam <~KNIGHTS~>  (level: 40)
+Siam \<\~KNIGHTS\~\> (level: 40)
 
-Your levels:  Ne: 40 Dr: 40 Ba: 32 Cl: 20 
+Your levels: Ne: 40 Dr: 40 Ba: 32 Cl: 20 
 
 You are 23 years and 16 months old.
 
@@ -240,49 +240,49 @@ You are standing.
 
 Your song can affect as many as six people.
 
-You are affected by the following spells:   None.
+You are affected by the following spells: None.
 
 You are using:
 
-<used as light>      eye of the undead..It has a soft glowing aura! (with a 
+\<used as light\> eye of the undead..It has a soft glowing aura! (with a 
 
 flawed glowing gem attached to it)
 
-<worn on finger>     a carved wooden ring..It has a soft glowing aura!
+\<worn on finger\> a carved wooden ring..It has a soft glowing aura!
 
-<worn on finger>     a carved wooden ring..It has a soft glowing aura!
+\<worn on finger\> a carved wooden ring..It has a soft glowing aura!
 
-<worn around neck>   an emblem of the sun
+\<worn around neck\> an emblem of the sun
 
-<worn around neck>   an emblem of the sun
+\<worn around neck\> an emblem of the sun
 
-<worn on body>       scaled plate mail
+\<worn on body\> scaled plate mail
 
-<worn on head>       a pith helmet..It emits a faint humming sound!
+\<worn on head\> a pith helmet..It emits a faint humming sound!
 
-<worn on legs>       a pair of silver leg plates
+\<worn on legs\> a pair of silver leg plates
 
-<worn on feet>       boots of the elvenkind
+\<worn on feet\> boots of the elvenkind
 
-<worn on hands>      a set of shadow gauntlets
+\<worn on hands\> a set of shadow gauntlets
 
-<worn on arms>       thick leather sleeves
+\<worn on arms\> thick leather sleeves
 
-<worn as shield>     a shield of stolen souls..It emits a faint humming sound!
+\<worn as shield\> a shield of stolen souls..It emits a faint humming sound!
 
-<worn about body>    a forest green cape
+\<worn about body\> a forest green cape
 
-<worn about waist>   sash of forgotten souls..It has a soft glowing aura!
+\<worn about waist\> sash of forgotten souls..It has a soft glowing aura!
 
-<worn around wrist>  a band of ether
+\<worn around wrist\> a band of ether
 
-<worn around wrist>  a band of ether
+\<worn around wrist\> a band of ether
 
-<wielded>            a staff of entwined serpents..It emits a faint humming 
+\<wielded\> a staff of entwined serpents..It emits a faint humming 
 
 sound!
 
-<held>               a runed taffeta pouch..It has a soft glowing aura!
+\<held\> a runed taffeta pouch..It has a soft glowing aura!
 
 cape (carried):
 
@@ -304,9 +304,9 @@ a saffron robe
 
 With eq and some spells
 
-Popa <~KNIGHTS~> P cubed (pimp,playa,pranksta)  (level: 40)
+Popa \<\~KNIGHTS\~\> P cubed (pimp,playa,pranksta) (level: 40)
 
-Your levels:  Th: 40 Mo: 40 Cl: 40 Dr: 40 Av: 35 
+Your levels: Th: 40 Mo: 40 Cl: 40 Dr: 40 Av: 35 
 
 You are 42 years and 5 months old.
 
@@ -342,517 +342,517 @@ You are resting.
 
 You are affected by the following spells:
 
-   Detect Invisible                 
+ Detect Invisible 
 
-   Sense Life                       
+ Sense Life 
 
-   Infravision                      
+ Infravision 
 
-   Iron Skin                        
+ Iron Skin 
 
-   Rejuvenation                     
+ Rejuvenation 
 
-   Stamina                          
+ Stamina 
 
-   Grace
+ Grace
 
-   Corona                           
+ Corona 
 
-   Strength                         
+ Strength 
 
-   Aptitude                         
+ Aptitude 
 
-   Insight                          
+ Insight 
 
-   Nature's Restoral         
+ Nature's Restoral 
 
-                   Cleric Spells:
+ Cleric Spells:
 
-armor                     - Lvl:  1, Mana:  5, Learned  95%
+armor - Lvl: 1, Mana: 5, Learned 95%
 
-cure light                - Lvl:  1, Mana:  8, Learned  95%
+cure light - Lvl: 1, Mana: 8, Learned 95%
 
-turn undead               - Lvl:  1, Mana: 20, Learned  95%
+turn undead - Lvl: 1, Mana: 20, Learned 95%
 
-create water              - Lvl:  2, Mana:  4, Learned  95%
+create water - Lvl: 2, Mana: 4, Learned 95%
 
-detect poison             - Lvl:  2, Mana:  5, Learned  95%
+detect poison - Lvl: 2, Mana: 5, Learned 95%
 
-magic lantern             - Lvl:  2, Mana:  4, Learned  95%
+magic lantern - Lvl: 2, Mana: 4, Learned 95%
 
-create food               - Lvl:  3, Mana:  4, Learned  95%
+create food - Lvl: 3, Mana: 4, Learned 95%
 
-detect magic              - Lvl:  3, Mana:  5, Learned  95%
+detect magic - Lvl: 3, Mana: 5, Learned 95%
 
-resist fire               - Lvl:  3, Mana: 12, Learned  95%
+resist fire - Lvl: 3, Mana: 12, Learned 95%
 
-resist cold               - Lvl:  3, Mana: 12, Learned  95%
+resist cold - Lvl: 3, Mana: 12, Learned 95%
 
-cure blind                - Lvl:  4, Mana:  5, Learned  95%
+cure blind - Lvl: 4, Mana: 5, Learned 95%
 
-detect evil               - Lvl:  4, Mana:  5, Learned  95%
+detect evil - Lvl: 4, Mana: 5, Learned 95%
 
-spiritual hammer          - Lvl:  4, Mana:  8, Learned  95%
+spiritual hammer - Lvl: 4, Mana: 8, Learned 95%
 
-cure minor                - Lvl:  4, Mana:  8, Learned  95%
+cure minor - Lvl: 4, Mana: 8, Learned 95%
 
-bless                     - Lvl:  5, Mana:  5, Learned  95%
+bless - Lvl: 5, Mana: 5, Learned 95%
 
-detect invisibility       - Lvl:  5, Mana:  5, Learned  95%
+detect invisibility - Lvl: 5, Mana: 5, Learned 95%
 
-detect disease            - Lvl:  5, Mana: 10, Learned  45%
+detect disease - Lvl: 5, Mana: 10, Learned 45%
 
-spellcraft                - Lvl:  5,           Learned  85%
+spellcraft - Lvl: 5, Learned 85%
 
-detect good               - Lvl:  5, Mana:  5, Learned  95%
+detect good - Lvl: 5, Mana: 5, Learned 95%
 
-blindness                 - Lvl:  6, Mana:  4, Learned  95%
+blindness - Lvl: 6, Mana: 4, Learned 95%
 
-protection from evil      - Lvl:  6, Mana:  5, Learned  95%
+protection from evil - Lvl: 6, Mana: 5, Learned 95%
 
-dispel magic              - Lvl:  6, Mana:  5, Learned  95%
+dispel magic - Lvl: 6, Mana: 5, Learned 95%
 
-shield of faith           - Lvl:  6, Mana: 35, Learned  95%
+shield of faith - Lvl: 6, Mana: 35, Learned 95%
 
-earthquake                - Lvl:  7, Mana: 15, Learned  95%
+earthquake - Lvl: 7, Mana: 15, Learned 95%
 
-sense life                - Lvl:  7, Mana:  5, Learned  95%
+sense life - Lvl: 7, Mana: 5, Learned 95%
 
-faerie fire               - Lvl:  7, Mana:  4, Learned  95%
+faerie fire - Lvl: 7, Mana: 4, Learned 95%
 
-summon                    - Lvl:  8, Mana: 40, Learned  95%
+summon - Lvl: 8, Mana: 40, Learned 95%
 
-atonement                 - Lvl:  8, Mana: 50, Learned  95%
+atonement - Lvl: 8, Mana: 50, Learned 95%
 
-remove poison             - Lvl:  9, Mana:  5, Learned  95%
+remove poison - Lvl: 9, Mana: 5, Learned 95%
 
-water breathing           - Lvl:  9, Mana: 10, Learned  95%
+water breathing - Lvl: 9, Mana: 10, Learned 95%
 
-astrology                 - Lvl:  9,           Learned  50%
+astrology - Lvl: 9, Learned 50%
 
-dispel evil               - Lvl: 10, Mana: 15, Learned  95%
+dispel evil - Lvl: 10, Mana: 15, Learned 95%
 
-cure normal               - Lvl: 10, Mana: 12, Learned  95%
+cure normal - Lvl: 10, Mana: 12, Learned 95%
 
-embalm                    - Lvl: 10, Mana: 16, Learned  95%
+embalm - Lvl: 10, Mana: 16, Learned 95%
 
-supplication              - Lvl: 10, Mana: 16, Learned  95%
+supplication - Lvl: 10, Mana: 16, Learned 95%
 
-word of recall            - Lvl: 11, Mana: 35, Learned  95%
+word of recall - Lvl: 11, Mana: 35, Learned 95%
 
-stone skin                - Lvl: 11, Mana: 15, Learned  95%
+stone skin - Lvl: 11, Mana: 15, Learned 95%
 
-*** Press return ***
+\*\*\* Press return \*\*\*
 
-remove disease            - Lvl: 11, Mana: 25, Learned  95%
+remove disease - Lvl: 11, Mana: 25, Learned 95%
 
-call lightning            - Lvl: 12, Mana: 15, Learned  95%
+call lightning - Lvl: 12, Mana: 15, Learned 95%
 
-remove curse              - Lvl: 12, Mana:  5, Learned  95%
+remove curse - Lvl: 12, Mana: 5, Learned 95%
 
-mindbar                   - Lvl: 12, Mana: 20, Learned  95%
+mindbar - Lvl: 12, Mana: 20, Learned 95%
 
-cure deafness             - Lvl: 12, Mana:  5, Learned  95%
+cure deafness - Lvl: 12, Mana: 5, Learned 95%
 
-control weather           - Lvl: 13, Mana: 25, Learned  95%
+control weather - Lvl: 13, Mana: 25, Learned 95%
 
-silence                   - Lvl: 13, Mana: 15, Learned  95%
+silence - Lvl: 13, Mana: 15, Learned 95%
 
-flame strike              - Lvl: 14, Mana: 12, Learned  95%
+flame strike - Lvl: 14, Mana: 12, Learned 95%
 
-cure serious              - Lvl: 15, Mana: 14, Learned  95%
+cure serious - Lvl: 15, Mana: 14, Learned 95%
 
-fortune                   - Lvl: 15, Mana: 30, Unlearned
+fortune - Lvl: 15, Mana: 30, Unlearned
 
-necrology                 - Lvl: 15,           Learned  85%
+necrology - Lvl: 15, Learned 85%
 
-refresh                   - Lvl: 16, Mana: 20, Learned  95%
+refresh - Lvl: 16, Mana: 20, Learned 95%
 
-curse                     - Lvl: 17, Mana: 16, Learned  95%
+curse - Lvl: 17, Mana: 16, Learned 95%
 
-sanctuary                 - Lvl: 17, Mana: 75, Learned  95%
+sanctuary - Lvl: 17, Mana: 75, Learned 95%
 
-fly                       - Lvl: 17, Mana: 12, Learned  95%
+fly - Lvl: 17, Mana: 12, Learned 95%
 
-regeneration              - Lvl: 17, Mana: 25, Learned  95%
+regeneration - Lvl: 17, Mana: 25, Learned 95%
 
-web                       - Lvl: 18, Mana: 12, Learned  95%
+web - Lvl: 18, Mana: 12, Learned 95%
 
-vision                    - Lvl: 19, Mana: 20, Learned  95%
+vision - Lvl: 19, Mana: 20, Learned 95%
 
-banish undead             - Lvl: 19, Mana: 16, Learned  95%
+banish undead - Lvl: 19, Mana: 16, Learned 95%
 
-cure critic               - Lvl: 20, Mana: 16, Learned  95%
+cure critic - Lvl: 20, Mana: 16, Learned 95%
 
-demon bind                - Lvl: 20, Mana: 28, Learned  95%
+demon bind - Lvl: 20, Mana: 28, Learned 95%
 
-talshans tribute          - Lvl: 20, Mana: 20, Unlearned
+talshans tribute - Lvl: 20, Mana: 20, Unlearned
 
-reign of the spider       - Lvl: 20, Mana: 35, Learned  95%
+reign of the spider - Lvl: 20, Mana: 35, Learned 95%
 
-spirit watcher            - Lvl: 20, Mana: 16, Learned  95%
+spirit watcher - Lvl: 20, Mana: 16, Learned 95%
 
-spirit marker             - Lvl: 20, Mana: 40, Learned  95%
+spirit marker - Lvl: 20, Mana: 40, Learned 95%
 
-gate                      - Lvl: 21, Mana: 90, Learned  95%
+gate - Lvl: 21, Mana: 90, Learned 95%
 
-mobility                  - Lvl: 22, Mana: 15, Learned  95%
+mobility - Lvl: 22, Mana: 15, Learned 95%
 
-chronos incantation       - Lvl: 22, Mana: 30, Learned  45%
+chronos incantation - Lvl: 22, Mana: 30, Learned 45%
 
-dream talk                - Lvl: 24, Mana: 40, Unlearned
+dream talk - Lvl: 24, Mana: 40, Unlearned
 
-closing weave             - Lvl: 24, Mana: 15, Learned  50%
+closing weave - Lvl: 24, Mana: 15, Learned 50%
 
-heal                      - Lvl: 25, Mana: 42, Learned  95%
+heal - Lvl: 25, Mana: 42, Learned 95%
 
-stone to flesh            - Lvl: 26, Mana: 25, Learned  95%
+stone to flesh - Lvl: 26, Mana: 25, Learned 95%
 
-lloyds beacon             - Lvl: 27, Mana: 20, Learned  95%
+lloyds beacon - Lvl: 27, Mana: 20, Learned 95%
 
-hellstrike                - Lvl: 27, Mana: 25, Learned  95%
+hellstrike - Lvl: 27, Mana: 25, Learned 95%
 
-force field               - Lvl: 28, Mana: 35, Learned  95%
+force field - Lvl: 28, Mana: 35, Learned 95%
 
-feast                     - Lvl: 29, Mana: 28, Learned  95%
+feast - Lvl: 29, Mana: 28, Learned 95%
 
-mass water breathing      - Lvl: 29, Mana: 55, Unlearned
+mass water breathing - Lvl: 29, Mana: 55, Unlearned
 
-greater heal              - Lvl: 30, Mana: 55, Learned  95%
+greater heal - Lvl: 30, Mana: 55, Learned 95%
 
-*** Press return ***
+\*\*\* Press return \*\*\*
 
-succor                    - Lvl: 30, Mana: 32, Unlearned
+succor - Lvl: 30, Mana: 32, Unlearned
 
-enchant weapon            - Lvl: 31, Mana:100, Learned  95%
+enchant weapon - Lvl: 31, Mana:100, Learned 95%
 
-spell shield              - Lvl: 31, Mana: 12, Learned  95%
+spell shield - Lvl: 31, Mana: 12, Learned 95%
 
-invisibility              - Lvl: 32, Mana: 10, Learned  95%
+invisibility - Lvl: 32, Mana: 10, Learned 95%
 
-locate object             - Lvl: 33, Mana: 20, Learned  95%
+locate object - Lvl: 33, Mana: 20, Learned 95%
 
-winds of fortune          - Lvl: 34, Mana: 60, Learned  95%
+winds of fortune - Lvl: 34, Mana: 60, Learned 95%
 
-restiveness               - Lvl: 34, Mana: 30, Unlearned
+restiveness - Lvl: 34, Mana: 30, Unlearned
 
-restoration               - Lvl: 35, Mana: 62, Learned  95%
+restoration - Lvl: 35, Mana: 62, Learned 95%
 
-raise dead                - Lvl: 36, Mana: 65, Learned  95%
+raise dead - Lvl: 36, Mana: 65, Learned 95%
 
-scrybite                  - Lvl: 37, Mana: 20, Unlearned
+scrybite - Lvl: 37, Mana: 20, Unlearned
 
-mass invisibility         - Lvl: 38, Mana: 25, Learned  95%
+mass invisibility - Lvl: 38, Mana: 25, Learned 95%
 
-dark cloak                - Lvl: 38, Mana: 30, Learned  95%
+dark cloak - Lvl: 38, Mana: 30, Learned 95%
 
-condemnation              - Lvl: 38, Mana: 20, Unlearned
+condemnation - Lvl: 38, Mana: 20, Unlearned
 
-mass fly                  - Lvl: 39, Mana: 40, Learned  95%
+mass fly - Lvl: 39, Mana: 40, Learned 95%
 
-walk of the cheetah       - Lvl: 40, Mana: 60, Unlearned
+walk of the cheetah - Lvl: 40, Mana: 60, Unlearned
 
-                    Thief Skills:
+ Thief Skills:
 
-sneak                     - Lvl:  1,           Learned  85%
+sneak - Lvl: 1, Learned 85%
 
-steal                     - Lvl:  1,           Learned  85%
+steal - Lvl: 1, Learned 85%
 
-backstab                  - Lvl:  1,           Learned  85%
+backstab - Lvl: 1, Learned 85%
 
-pick locks                - Lvl:  1,           Learned  85%
+pick locks - Lvl: 1, Learned 85%
 
-tail                      - Lvl:  1,           Learned  85%
+tail - Lvl: 1, Learned 85%
 
-glance                    - Lvl:  1,           Learned  85%
+glance - Lvl: 1, Learned 85%
 
-protect                   - Lvl:  1,           Learned  85%
+protect - Lvl: 1, Learned 85%
 
-search                    - Lvl:  1,           Learned  95%
+search - Lvl: 1, Learned 95%
 
-palm                      - Lvl:  5,           Learned  85%
+palm - Lvl: 5, Learned 85%
 
-track                     - Lvl:  7,           Learned  85%
+track - Lvl: 7, Learned 85%
 
-trip                      - Lvl:  8,           Learned  85%
+trip - Lvl: 8, Learned 85%
 
-disarm traps              - Lvl:  9,           Learned  95%
+disarm traps - Lvl: 9, Learned 95%
 
-double attack             - Lvl: 10,           Learned  85%
+double attack - Lvl: 10, Learned 85%
 
-climb                     - Lvl: 10,           Learned  85%
+climb - Lvl: 10, Learned 85%
 
-hide                      - Lvl: 12,           Learned  85%
+hide - Lvl: 12, Learned 85%
 
-spy                       - Lvl: 13,           Learned  85%
+spy - Lvl: 13, Learned 85%
 
-squirm                    - Lvl: 15,           Learned  85%
+squirm - Lvl: 15, Learned 85%
 
-circle                    - Lvl: 15,           Learned  85%
+circle - Lvl: 15, Learned 85%
 
-throw                     - Lvl: 20,           Learned  85%
+throw - Lvl: 20, Learned 85%
 
-sixth sense               - Lvl: 22,           Learned  85%
+sixth sense - Lvl: 22, Learned 85%
 
-double stab               - Lvl: 25,           Learned  65%
+double stab - Lvl: 25, Learned 65%
 
-apply poison              - Lvl: 31,           Learned  85%
+apply poison - Lvl: 31, Learned 85%
 
-*** Press return ***
+\*\*\* Press return \*\*\*
 
-study                     - Lvl: 35,           Learned  90%
+study - Lvl: 35, Learned 90%
 
-shadowwalk                - Lvl: 36,           Learned  85%
+shadowwalk - Lvl: 36, Learned 85%
 
-excruciating blow         - Lvl: 40,           Learned  80%
+excruciating blow - Lvl: 40, Learned 80%
 
-                    Druid Spells/Skills:
+ Druid Spells/Skills:
 
-shapeshift                - Lvl:  1,           Learned  95%
+shapeshift - Lvl: 1, Learned 95%
 
-preserve food             - Lvl:  1, Mana:  5, Learned  95%
+preserve food - Lvl: 1, Mana: 5, Learned 95%
 
-detect poison             - Lvl:  2, Mana:  5, Learned  95%
+detect poison - Lvl: 2, Mana: 5, Learned 95%
 
-will o the wisp           - Lvl:  3, Mana:  4, Learned  95%
+will o the wisp - Lvl: 3, Mana: 4, Learned 95%
 
-freshwater                - Lvl:  4, Mana:  8, Learned  95%
+freshwater - Lvl: 4, Mana: 8, Learned 95%
 
-cure light                - Lvl:  5, Mana:  8, Learned  95%
+cure light - Lvl: 5, Mana: 8, Learned 95%
 
-remove poison             - Lvl:  5, Mana:  5, Learned  95%
+remove poison - Lvl: 5, Mana: 5, Learned 95%
 
-goodberry                 - Lvl:  6, Mana:  4, Learned  95%
+goodberry - Lvl: 6, Mana: 4, Learned 95%
 
-resist cold               - Lvl:  7, Mana: 12, Learned  95%
+resist cold - Lvl: 7, Mana: 12, Learned 95%
 
-track                     - Lvl:  7,           Learned  85%
+track - Lvl: 7, Learned 85%
 
-resist fire               - Lvl:  8, Mana: 12, Learned  95%
+resist fire - Lvl: 8, Mana: 12, Learned 95%
 
-cure minor                - Lvl:  8, Mana:  8, Learned  95%
+cure minor - Lvl: 8, Mana: 8, Learned 95%
 
-control weather           - Lvl:  9, Mana: 25, Learned  95%
+control weather - Lvl: 9, Mana: 25, Learned 95%
 
-astrology                 - Lvl:  9,           Learned  50%
+astrology - Lvl: 9, Learned 50%
 
-awaken                    - Lvl: 10, Mana: 20, Learned  95%
+awaken - Lvl: 10, Mana: 20, Learned 95%
 
-spellcraft                - Lvl: 10,           Learned  85%
+spellcraft - Lvl: 10, Learned 85%
 
-infravision               - Lvl: 11, Mana: 10, Learned  95%
+infravision - Lvl: 11, Mana: 10, Learned 95%
 
-dispel magic              - Lvl: 12, Mana:  5, Learned  95%
+dispel magic - Lvl: 12, Mana: 5, Learned 95%
 
-water breathing           - Lvl: 12, Mana: 10, Learned  95%
+water breathing - Lvl: 12, Mana: 10, Learned 95%
 
-stone to flesh            - Lvl: 13, Mana: 25, Learned  95%
+stone to flesh - Lvl: 13, Mana: 25, Learned 95%
 
-cure normal               - Lvl: 14, Mana: 12, Learned  95%
+cure normal - Lvl: 14, Mana: 12, Learned 95%
 
-call lightning            - Lvl: 15, Mana: 15, Learned  95%
+call lightning - Lvl: 15, Mana: 15, Learned 95%
 
-regeneration              - Lvl: 15, Mana: 25, Learned  95%
+regeneration - Lvl: 15, Mana: 25, Learned 95%
 
-equanimity                - Lvl: 15,           Learned  85%
+equanimity - Lvl: 15, Learned 85%
 
-refresh                   - Lvl: 16, Mana: 20, Learned  95%
+refresh - Lvl: 16, Mana: 20, Learned 95%
 
-fog                       - Lvl: 17, Mana: 10, Learned  95%
+fog - Lvl: 17, Mana: 10, Learned 95%
 
-morning glory             - Lvl: 18, Mana: 35, Unlearned
+morning glory - Lvl: 18, Mana: 35, Unlearned
 
-fly                       - Lvl: 19, Mana: 12, Learned  95%
+fly - Lvl: 19, Mana: 12, Learned 95%
 
-cure serious              - Lvl: 19, Mana: 14, Learned  95%
+cure serious - Lvl: 19, Mana: 14, Learned 95%
 
-fluidity                  - Lvl: 20, Mana: 37, Learned  95%
+fluidity - Lvl: 20, Mana: 37, Learned 95%
 
-reign of the spider       - Lvl: 20, Mana: 35, Learned  95%
+reign of the spider - Lvl: 20, Mana: 35, Learned 95%
 
-spirit watcher            - Lvl: 20, Mana: 16, Learned  95%
+spirit watcher - Lvl: 20, Mana: 16, Learned 95%
 
-battle shift              - Lvl: 20,           Learned  85%
+battle shift - Lvl: 20, Learned 85%
 
-*** Press return ***
+\*\*\* Press return \*\*\*
 
-resist poison             - Lvl: 20, Mana: 40, Unlearned
+resist poison - Lvl: 20, Mana: 40, Unlearned
 
-spirit marker             - Lvl: 20, Mana: 40, Learned  95%
+spirit marker - Lvl: 20, Mana: 40, Learned 95%
 
-search                    - Lvl: 22,           Learned  95%
+search - Lvl: 22, Learned 95%
 
-elemental resistance      - Lvl: 23, Mana: 12, Learned  95%
+elemental resistance - Lvl: 23, Mana: 12, Learned 95%
 
-cure critic               - Lvl: 25, Mana: 16, Learned  95%
+cure critic - Lvl: 25, Mana: 16, Learned 95%
 
-sunbeam                   - Lvl: 25, Mana: 30, Learned  95%
+sunbeam - Lvl: 25, Mana: 30, Learned 95%
 
-rapid shift               - Lvl: 25,           Learned  85%
+rapid shift - Lvl: 25, Learned 85%
 
-hedge maze                - Lvl: 25, Mana: 21, Learned  95%
+hedge maze - Lvl: 25, Mana: 21, Learned 95%
 
-brambles                  - Lvl: 27, Mana: 28, Learned  95%
+brambles - Lvl: 27, Mana: 28, Learned 95%
 
-garden                    - Lvl: 29, Mana: 28, Learned  95%
+garden - Lvl: 29, Mana: 28, Learned 95%
 
-heal                      - Lvl: 30, Mana: 42, Learned  95%
+heal - Lvl: 30, Mana: 42, Learned 95%
 
-twister                   - Lvl: 30, Mana: 28, Learned  95%
+twister - Lvl: 30, Mana: 28, Learned 95%
 
-walk of the cheetah       - Lvl: 30, Mana: 60, Unlearned
+walk of the cheetah - Lvl: 30, Mana: 60, Unlearned
 
-cover tracks              - Lvl: 31,          Unlearned
+cover tracks - Lvl: 31, Unlearned
 
-natures revival           - Lvl: 32, Mana: 40, Learned  95%
+natures revival - Lvl: 32, Mana: 40, Learned 95%
 
-willow wind               - Lvl: 33, Mana: 25, Learned  95%
+willow wind - Lvl: 33, Mana: 25, Learned 95%
 
-winds of fortune          - Lvl: 34, Mana: 60, Learned  95%
+winds of fortune - Lvl: 34, Mana: 60, Learned 95%
 
-avalanche                 - Lvl: 35, Mana: 32, Learned  95%
+avalanche - Lvl: 35, Mana: 32, Learned 95%
 
-dawnfire                  - Lvl: 35, Mana: 25, Learned  95%
+dawnfire - Lvl: 35, Mana: 25, Learned 95%
 
-chill bane                - Lvl: 39, Mana: 33, Learned  40%
+chill bane - Lvl: 39, Mana: 33, Learned 40%
 
-fire bane                 - Lvl: 39, Mana: 33, Learned  95%
+fire bane - Lvl: 39, Mana: 33, Learned 95%
 
-                    Monk Skills:
+ Monk Skills:
 
-kick                      - Lvl:  1,           Learned  85%
+kick - Lvl: 1, Learned 85%
 
-protect                   - Lvl:  1,           Learned  85%
+protect - Lvl: 1, Learned 85%
 
-slowfall                  - Lvl:  1,           Learned  95%
+slowfall - Lvl: 1, Learned 95%
 
-improved attack           - Lvl:  1,           Learned  85%
+improved attack - Lvl: 1, Learned 85%
 
-blindfight                - Lvl:  4,           Learned  85%
+blindfight - Lvl: 4, Learned 85%
 
-double attack             - Lvl:  6,           Learned  85%
+double attack - Lvl: 6, Learned 85%
 
-track                     - Lvl:  7,           Learned  85%
+track - Lvl: 7, Learned 85%
 
-strike                    - Lvl:  8,           Learned  85%
+strike - Lvl: 8, Learned 85%
 
-waterwalk                 - Lvl: 11,           Learned  85%
+waterwalk - Lvl: 11, Learned 85%
 
-climb                     - Lvl: 12,           Learned  85%
+climb - Lvl: 12, Learned 85%
 
-stun                      - Lvl: 12,           Learned  85%
+stun - Lvl: 12, Learned 85%
 
-dodge                     - Lvl: 15,           Learned  85%
+dodge - Lvl: 15, Learned 85%
 
-stalk                     - Lvl: 17,           Learned  85%
+stalk - Lvl: 17, Learned 85%
 
-purity                    - Lvl: 18, Mana: 60, Learned  95%
+purity - Lvl: 18, Mana: 60, Learned 95%
 
-feign death               - Lvl: 20,           Learned  50%
+feign death - Lvl: 20, Learned 50%
 
-focus                     - Lvl: 23,           Learned  85%
+focus - Lvl: 23, Learned 85%
 
-*** Press return ***
+\*\*\* Press return \*\*\*
 
-deathgrip                 - Lvl: 25,           Learned  95%
+deathgrip - Lvl: 25, Learned 95%
 
-squirm                    - Lvl: 30,           Learned  85%
+squirm - Lvl: 30, Learned 85%
 
-trip                      - Lvl: 30,           Learned  85%
+trip - Lvl: 30, Learned 85%
 
-flurry                    - Lvl: 30,           Learned  85%
+flurry - Lvl: 30, Learned 85%
 
-presage                   - Lvl: 31,           Learned  85%
+presage - Lvl: 31, Learned 85%
 
-counterattack             - Lvl: 33,           Learned  85%
+counterattack - Lvl: 33, Learned 85%
 
-bodyslam                  - Lvl: 35,           Learned  80%
+bodyslam - Lvl: 35, Learned 80%
 
-windrun                   - Lvl: 36,           Learned  85%
+windrun - Lvl: 36, Learned 85%
 
-                    Avatar Abilities:
+ Avatar Abilities:
 
-aegis                     - Lvl:  1, Mana: 40, Learned  95%
+aegis - Lvl: 1, Mana: 40, Learned 95%
 
-greater fluidity          - Lvl:  1, Mana: 42, Learned  95%
+greater fluidity - Lvl: 1, Mana: 42, Learned 95%
 
-sanctity                  - Lvl:  1,           Learned  95%
+sanctity - Lvl: 1, Learned 95%
 
-crippling strike          - Lvl:  1,           Learned  85%
+crippling strike - Lvl: 1, Learned 85%
 
-identify                  - Lvl:  2, Mana: 25, Learned  95%
+identify - Lvl: 2, Mana: 25, Learned 95%
 
-ambush                    - Lvl:  2,           Learned  85%
+ambush - Lvl: 2, Learned 85%
 
-resist webs               - Lvl:  4, Mana: 22, Learned  95%
+resist webs - Lvl: 4, Mana: 22, Learned 95%
 
-moon aura                 - Lvl:  5, Mana:  3, Unlearned
+moon aura - Lvl: 5, Mana: 3, Unlearned
 
-evade capture             - Lvl:  5,           Learned  85%
+evade capture - Lvl: 5, Learned 85%
 
-damnation                 - Lvl:  7, Mana:  5, Learned  95%
+damnation - Lvl: 7, Mana: 5, Learned 95%
 
-master strike             - Lvl:  7,           Learned  85%
+master strike - Lvl: 7, Learned 85%
 
-call followers            - Lvl:  7, Mana: 12, Learned  95%
+call followers - Lvl: 7, Mana: 12, Learned 95%
 
-wellberry                 - Lvl:  7, Mana:  8, Learned  95%
+wellberry - Lvl: 7, Mana: 8, Learned 95%
 
-grace                     - Lvl:  8, Mana:  7, Learned  95%
+grace - Lvl: 8, Mana: 7, Learned 95%
 
-mythic form               - Lvl:  8,           Learned  85%
+mythic form - Lvl: 8, Learned 85%
 
-improved stun             - Lvl:  8,           Learned  85%
+improved stun - Lvl: 8, Learned 85%
 
-urban stealth             - Lvl:  8,           Learned  85%
+urban stealth - Lvl: 8, Learned 85%
 
-stamina                   - Lvl:  9, Mana: 20, Learned  95%
+stamina - Lvl: 9, Mana: 20, Learned 95%
 
-greater refresh           - Lvl: 11, Mana: 20, Learned  95%
+greater refresh - Lvl: 11, Mana: 20, Learned 95%
 
-retreat                   - Lvl: 11,           Learned  85%
+retreat - Lvl: 11, Learned 85%
 
-rejuvenation              - Lvl: 12, Mana: 25, Learned  95%
+rejuvenation - Lvl: 12, Mana: 25, Learned 95%
 
-corona                    - Lvl: 13, Mana: 20, Learned  95%
+corona - Lvl: 13, Mana: 20, Learned 95%
 
-tiger endurance           - Lvl: 13, Mana: 90, Unlearned
+tiger endurance - Lvl: 13, Mana: 90, Unlearned
 
-contemplation             - Lvl: 14,           Learned  85%
+contemplation - Lvl: 14, Learned 85%
 
-sleight of hand           - Lvl: 14,           Learned  85%
+sleight of hand - Lvl: 14, Learned 85%
 
-vitality                  - Lvl: 16, Mana: 18, Learned  95%
+vitality - Lvl: 16, Mana: 18, Learned 95%
 
-insight                   - Lvl: 18, Mana: 18, Learned  95%
+insight - Lvl: 18, Mana: 18, Learned 95%
 
-aptitude                  - Lvl: 19, Mana: 18, Learned  95%
+aptitude - Lvl: 19, Mana: 18, Learned 95%
 
-*** Press return ***
+\*\*\* Press return \*\*\*
 
-purloin aura              - Lvl: 20,           Learned  50%
+purloin aura - Lvl: 20, Learned 50%
 
-iron skin                 - Lvl: 22, Mana: 18, Learned  95%
+iron skin - Lvl: 22, Mana: 18, Learned 95%
 
-prediction                - Lvl: 22,           Learned  85%
+prediction - Lvl: 22, Learned 85%
 
-meditation                - Lvl: 23,           Learned  50%
+meditation - Lvl: 23, Learned 50%
 
-shapeshift mastery        - Lvl: 24,           Learned  85%
+shapeshift mastery - Lvl: 24, Learned 85%
 
-mass web                  - Lvl: 25, Mana: 24, Learned  95%
+mass web - Lvl: 25, Mana: 24, Learned 95%
 
-quicken                   - Lvl: 27, Mana: 18, Learned  95%
+quicken - Lvl: 27, Mana: 18, Learned 95%
 
-talshans diablerie        - Lvl: 28, Mana: 80, Unlearned
+talshans diablerie - Lvl: 28, Mana: 80, Unlearned
 
-cleanse                   - Lvl: 28, Mana: 65, Learned  95%
+cleanse - Lvl: 28, Mana: 65, Learned 95%
 
-natures restoral          - Lvl: 28, Mana: 45, Learned  95%
+natures restoral - Lvl: 28, Mana: 45, Learned 95%
 
-relocation                - Lvl: 32, Mana: 70, Learned  95%
+relocation - Lvl: 32, Mana: 70, Learned 95%
 
-swiftkick                 - Lvl: 33,           Learned  50%
+swiftkick - Lvl: 33, Learned 50%
 
 </div>
 
@@ -866,7 +866,7 @@ Best of luck Steveo!!!
 
 hmm...
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -880,9 +880,8 @@ Alias
 
 <div class="post" data-post-id="21742" data-author="Popa" data-date="2007-12-20T04:58:55+00:00" data-subject="">
 
-[quote:ncl3wv13]Sorry to see anyone hang up the gloves, but you have a pm. 
-
-[/quote:ncl3wv13]
+> <strong>Quote:</strong>
+> Sorry to see anyone hang up the gloves, but you have a pm.
 
 Something is wrong with my mail box. I keep getting an error when sending the reply. 
 

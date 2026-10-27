@@ -14,9 +14,9 @@ post_count: 1
 
 Sat Apr 11 18:55:15 2009	
 
-** Ress the Fighter has advanced Strider to prime Level 40 at 12 o'clock am on the Day of the Deception
+\*\* Ress the Fighter has advanced Strider to prime Level 40 at 12 o'clock am on the Day of the Deception
 
-Check the live info, we all saw it :)  Congrats!
+Check the live info, we all saw it <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> Congrats!
 
 Unfortunately there was a pwipe about 30 seconds later... he'll have to do it again.
 

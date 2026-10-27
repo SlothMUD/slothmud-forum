@@ -14,7 +14,7 @@ post_count: 4
 
 3 mils min.
 
-Eye of the Deep  -0.0  +1 Int, +3 Ma Regen  AdM AdC AdT AdW AdNe AdDr AdBa AdMo [OR] - held high
+Eye of the Deep -0.0 +1 Int, +3 Ma Regen AdM AdC AdT AdW AdNe AdDr AdBa AdMo [OR] - held high
 
 Closing whenever i like to, as always.
 

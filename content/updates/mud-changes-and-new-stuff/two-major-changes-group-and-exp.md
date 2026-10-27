@@ -14,7 +14,7 @@ post_count: 2
 
 1)Chobbs found an exp bug that was affecting most higher level mobs. On reboot players should notice the change.
 
-2) front to back ratio is now 1:1 for groups with more than 5 players. For groups with below 5 it remains the same at 2:1(which there was a bug preventing this from working which has been fixed)
+2\) front to back ratio is now 1:1 for groups with more than 5 players. For groups with below 5 it remains the same at 2:1(which there was a bug preventing this from working which has been fixed)
 
 Splork
 

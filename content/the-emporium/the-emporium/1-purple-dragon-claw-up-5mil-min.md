@@ -22,9 +22,9 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: MANA by 10
+ Affects: MANA by 10
 
-    Affects: REGEN_MANA by 2
+ Affects: REGEN\_MANA by 2
 
 Only those who are at least experienced magic users and clerics may use 
 
@@ -48,7 +48,7 @@ hmm. ok 5mil
 
 <div class="post" data-post-id="239" data-author="Weasel" data-date="2004-05-22T07:32:59+00:00" data-subject="">
 
-6mil  :D
+6mil <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -60,6 +60,6 @@ hmm. ok 5mil
 
 <div class="post" data-post-id="352" data-author="Deju" data-date="2004-05-26T04:12:23+00:00" data-subject="Closed">
 
-Closed.  Roadrunr wins for 7mil
+Closed. Roadrunr wins for 7mil
 
 </div>

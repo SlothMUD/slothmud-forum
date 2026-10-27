@@ -14,7 +14,7 @@ post_count: 2
 
 Damn. I was just going to add my weasel avatar (80x80, 7kb) and find that option has been removed again. 
 
-I guess someone started abusing it again. Thanks [img:1vqcnbac]http://forum.twinflame.org/images/smiles/097.gif[/img:1vqcnbac]
+I guess someone started abusing it again. Thanks ![](http://forum.twinflame.org/images/smiles/097.gif)
 
 </div>
 

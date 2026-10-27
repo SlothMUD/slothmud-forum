@@ -40,7 +40,7 @@ Actually someone rolled 12 7 9 11 8 last week sometime, I forget who.
 
 <div class="post" data-post-id="7747" data-author="Mosaix" data-date="2005-07-05T23:48:00+00:00" data-subject="">
 
-I can remember at  least 2 times over the gossip channel, that a player has gossiped all single digit stats.  example 9 7 9 6 5
+I can remember at least 2 times over the gossip channel, that a player has gossiped all single digit stats. example 9 7 9 6 5
 
 </div>
 
@@ -62,15 +62,16 @@ Biff
 
 <div class="post" data-post-id="7750" data-author="Vixn" data-date="2005-07-06T05:06:07+00:00" data-subject="">
 
-I 'own' Illich (although others also roll him for me). After over 700 rolls I have a few single all stats rolls. My worst (on a th/ma) 6 8 5 9 6. he still has sucky stats, BTW, I think he a no-stats flag set on him.
-
-Pete[/quote:1s3gpbsx]
+> <strong>wasp wrote:</strong>
+> I 'own' Illich (although others also roll him for me). After over 700 rolls I have a few single all stats rolls. My worst (on a th/ma) 6 8 5 9 6. he still has sucky stats, BTW, I think he a no-stats flag set on him.
+> 
+> Pete
 
 bah, 700 rolls... i'm shocked
 
 try 'remove curse' token, 'remove curse' illich, pray jake, make some donation to meditation master (pair of runed onyx bracelets should be good), vote on TMC... then use token. maybe it'll help
 
- :evil:
+ <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -82,11 +83,12 @@ hm... nice results, lets also include: lowest stats, lowest regen, slowest level
 
 <div class="post" data-post-id="7753" data-author="firebrand" data-date="2005-07-06T14:12:15+00:00" data-subject="">
 
-bah, 700 rolls... i'm shocked try 'remove curse' token, 'remove curse' illich, pray jake, make some donation to meditation master (pair of runed onyx bracelets should be good), vote on TMC... then use token. maybe it'll help
-
- :evil:[/quote:148b3h5r]
-
- 
+> <strong>Vixn wrote:</strong>
+> bah, 700 rolls... i'm shocked try 'remove curse' token, 'remove curse' illich, pray jake, make some donation to meditation master (pair of runed onyx bracelets should be good), vote on TMC... then use token. maybe it'll help
+> 
+> 
+> 
+> <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 i will accept those donations and make sure they get routed to the proper channels.....like my pocket!
 
@@ -94,12 +96,13 @@ i will accept those donations and make sure they get routed to the proper channe
 
 <div class="post" data-post-id="7760" data-author="Blastem" data-date="2005-07-07T01:00:51+00:00" data-subject="">
 
-the most stupid mistakes, [/quote:2k1uvldf]
+> <strong>Gnu wrote:</strong>
+> the most stupid mistakes,
 
 two words ...... kick priest...
 
 do not kick the high priest in the drachma shop
 
-*grin* Blastem
+\*grin\* Blastem
 
 </div>

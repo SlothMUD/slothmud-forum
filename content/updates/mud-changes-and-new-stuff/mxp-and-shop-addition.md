@@ -14,7 +14,7 @@ post_count: 2
 
 I've created a small compass for mxp users. Its rather basic and can be toggled on using mxpcompass. It is positioned near the upper right hand corner. Mostly it just adds some flavor but it looks pretty cool.
 
-Also, Tsabu handed in a what I thought was a good idea so I've added it. Now, when typing list at a shop which holds spellbooks, they will list a spellbook you have learned with an &. This should help keep you from buying spellbooks you do not need.
+Also, Tsabu handed in a what I thought was a good idea so I've added it. Now, when typing list at a shop which holds spellbooks, they will list a spellbook you have learned with an \&. This should help keep you from buying spellbooks you do not need.
 
 We are still looking for good ideas for an mxp prompt and any useful ideas for that matter...
 
@@ -28,7 +28,7 @@ Splork
 
 Newly created characters will now log on with mxp enabled, thats if their client allows it.
 
-Also, remember the mxpsettings command. Players need to toggle on most mxp additions and its rather hard to do if you forget or dont know about this comment :twisted: 
+Also, remember the mxpsettings command. Players need to toggle on most mxp additions and its rather hard to do if you forget or dont know about this comment <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 Enjoy,
 

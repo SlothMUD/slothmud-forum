@@ -24,20 +24,20 @@ Stop trying to hack someone's char?
 
 <div class="post" data-post-id="24496" data-author="topaz" data-date="2008-05-24T23:16:54+00:00" data-subject="">
 
-Are you getting the message, I don't know of [character name].  Do you wish to create a new character (Y/N)?
+Are you getting the message, I don't know of [character name]. Do you wish to create a new character (Y/N)?
 
-If not, then someone already has a character with that name.  Good luck logging in & hope you enjoy slothmud! :)
+If not, then someone already has a character with that name. Good luck logging in \& hope you enjoy slothmud! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="24499" data-author="Toxis" data-date="2008-05-25T02:50:12+00:00" data-subject="">
 
-That was always one thing I thought was annoying for new players, but was never "that_important" to be addressed for someone that plays SlothMUD or any mud for that matter.  People new to mudding can get confused very easily.
+That was always one thing I thought was annoying for new players, but was never "that\_important" to be addressed for someone that plays SlothMUD or any mud for that matter. People new to mudding can get confused very easily.
 
 It would be nice if said:
 
 "Please enter the password for the pre-existing character or type "redo" to try a different name for your hero."
 
--Toxis
+\-Toxis
 
 </div>

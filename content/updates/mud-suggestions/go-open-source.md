@@ -36,27 +36,27 @@ Secondly Open-Source SlothMUD will make possible competely different methodology
 
 Part II: Code Contribution Methodology
 
-**Prerequisites**
+<strong>Prerequisites</strong>
 
 - The SlothMUD source code with some content(3-4 areas) released on the corresponding platform such as github
 - Coding Conventions Guide(describes how the new code should be written)
 - Deployment Guide (describes how the SlothMUD should be deployed on the local environment)
 
-**Step I: Application**
+<strong>Step I: Application</strong>
 
 A developer contacts an admin with the application to fix a bug or implement some feature. It could be either his own idea or something already registered in the bug-tracker. The admin gives the green light and provides access to the repository.
 
-**Step II: Development**
+<strong>Step II: Development</strong>
 
 The developer fetches the latest source and deploys the game on the local environment. The he creates new working branch where he implements the proposed changes.
 
-**Step III: Review**
+<strong>Step III: Review</strong>
 
 The developer joins his changes in the one commit and merges it in the main branch. The admin asks one of the staff coders to review the changes. The staff coder check whether the changes correspond to the coding conventions, is the code clean, understandable, etc. He may reject changes. Then the commit gets reverted and the developer returns to the Step II.
 
 If the staff coder accepts changes then we go to the Step IV.
 
-**Step IV: Testing**
+<strong>Step IV: Testing</strong>
 
 Changes are deployed on the test shard. Where they are throughfully tested. Btw, testers could be simple players and their work could be rewarded with drachma/gems. If testing fails, then the commit reverted and the developer returns to the Step II.
 
@@ -66,7 +66,7 @@ If testing succeeds then the binaries from the test shards are copied to product
 
 <div class="post" data-post-id="35823" data-author="Teron" data-date="2015-04-17T07:56:37+00:00" data-subject="Re: Go Open-Source?">
 
-1. I believe the reason why imms keep everything a secret is that they want us to learn things on our own. At least that's what I heard way before the code was shared by Tower.
+1\. I believe the reason why imms keep everything a secret is that they want us to learn things on our own. At least that's what I heard way before the code was shared by Tower.
 
 However, not everyone has the patience to test everything.
 
@@ -80,7 +80,7 @@ I'd too prefer the background mechanics to be known for me to make educated deci
 
 Wiki is supposed to help here, of course, but I think the open-source code and the wiki can work togethether: not everyone is a developer and not everyone wants to write lots of articles for the wiki. Each to his own.
 
-2. As anyone running any project knows, to take it off the ground requirse immense time and effort resources, as well as perseverence. I hardly doubt anyone is able to pull off starting another MUD on their own. So I wouldn't put this as the #1 reason for not making the code open-source.
+2\. As anyone running any project knows, to take it off the ground requirse immense time and effort resources, as well as perseverence. I hardly doubt anyone is able to pull off starting another MUD on their own. So I wouldn't put this as the #1 reason for not making the code open-source.
 
 Besides, there are hundreds MUDs out there. Another new, which is a copy, wouldn't make it any different. If they don't like Sloth, players wouldn't go there and I'd stay away from it, because it'd mean the new MUD is even more buggy and less maintained, than the current one, due to lack of developers.
 
@@ -88,11 +88,11 @@ Also, each MUD is unique and that's what makes it worthwhile. If imms are confid
 
 If anything, the code can be distributed through any type of the Creative Commons license that requires attribution and/or limits the changes that can be done without permission.
 
-3. I do believe that making the code open source will open the code for peer review, which will:
+3\. I do believe that making the code open source will open the code for peer review, which will:
 
-- allow player developers help with fixing bugs
+\- allow player developers help with fixing bugs
 
-- let player developers help with minor things and learn the code, so they can help with larger things.
+\- let player developers help with minor things and learn the code, so they can help with larger things.
 
 I think the latter is what the MUD could really use to get more hands, given the lack of developers - that's how big projects get some of their inhouse developers, too. People start small and then develop great stuff. But they do need to start with something.
 
@@ -102,7 +102,7 @@ Honestly, if we are comparing the idea that players should test stuff themselves
 
 <div class="post" data-post-id="35825" data-author="*juggleblood*" data-date="2015-04-17T10:45:50+00:00" data-subject="Re: Go Open-Source?">
 
-If there are any talented coders who want to join the development team they are free to do so. They have to show some commitment to the game, vision,  and the ability to carry out the intended reforms. This is the way things get done. 
+If there are any talented coders who want to join the development team they are free to do so. They have to show some commitment to the game, vision, and the ability to carry out the intended reforms. This is the way things get done. 
 
 Even though you are talking in an abstract, third person sense. I read this more as your personal desire for more serious involvement with the game. I suggest you think about it and contact Splork about how you might participate. 
 
@@ -120,11 +120,11 @@ For some of these, players don't ever have to become an Immortal. However, if on
 
 Ten or Fifteen years ago if an Immortal wanted to code they were forced to build an area. I changed that when I brought in Isabo and Breeze. Both started out helping with the website and moved on to our code. Teker, our newest programmer, helped out with the wiki and coding( we gave him access to only the MUDL files ) additional MUDL procs on the builder's port. Within a couple of months, he was given an account on our coding port and away he went. Honestly, it only takes someone to show a bit of dedication and desire and it should be quite obvious we will create room for that person. On that point, we just brought back Toxis again! Enough said.
 
-We will not be going open source any time soon. We may eventually, who knows. Claiming that because we are closed source stunts development or labels us "archaic" is simply ignorant.  Our methods have changed as the times have and we will continue to do so. We have opened up plenty of avenues to allow players to contribute and to be quite honest, for the most part, they have chosen not to. Its good enough for me that the players are playing and I applaud those who step up and help...
+We will not be going open source any time soon. We may eventually, who knows. Claiming that because we are closed source stunts development or labels us "archaic" is simply ignorant. Our methods have changed as the times have and we will continue to do so. We have opened up plenty of avenues to allow players to contribute and to be quite honest, for the most part, they have chosen not to. Its good enough for me that the players are playing and I applaud those who step up and help...
 
-In terms of our stability or lack there of, we experienced a two month blip of being unstable due to upgrading our server ( we had to, all linux environments had a major security flaw ). We fought through that, fixed the issues, and came out on the other side. For years before that, and up until yesterday, we have been extremely stable. In the past 1 1/2 months we fixed over 1300 compiler warnings, fixed quite a few memory leaks, redid a great deal of the backbone regarding our game procs/engine  and yesterday's reboot prompted two crashes which were both fixed within hours. Honestly, for making the mass amount of changes we did, that is pretty incredible.
+In terms of our stability or lack there of, we experienced a two month blip of being unstable due to upgrading our server ( we had to, all linux environments had a major security flaw ). We fought through that, fixed the issues, and came out on the other side. For years before that, and up until yesterday, we have been extremely stable. In the past 1 1/2 months we fixed over 1300 compiler warnings, fixed quite a few memory leaks, redid a great deal of the backbone regarding our game procs/engine and yesterday's reboot prompted two crashes which were both fixed within hours. Honestly, for making the mass amount of changes we did, that is pretty incredible.
 
-One of the comments is that open source brings a more stable environment and in some rare cases this may be true, in a case like ours, that would not be remotely close to the truth. We have hundreds of thousands of lines of code and probably close to the same amount in in-game procs. Take for example the changes Teker just made in regards to giving us the ability to add room procs and the ability to use MUDL in rooms: no amount of testing with our code and 3-4 areas worth of objects and mobs would of prevented the crash from yesterday. Matter of fact, quite possible that even with a full world of mobiles and objects that all testing would of been fine.  We have thousands of events triggering every few seconds, its impossible to test for everything, even for those of us who know our code inside and out.
+One of the comments is that open source brings a more stable environment and in some rare cases this may be true, in a case like ours, that would not be remotely close to the truth. We have hundreds of thousands of lines of code and probably close to the same amount in in-game procs. Take for example the changes Teker just made in regards to giving us the ability to add room procs and the ability to use MUDL in rooms: no amount of testing with our code and 3-4 areas worth of objects and mobs would of prevented the crash from yesterday. Matter of fact, quite possible that even with a full world of mobiles and objects that all testing would of been fine. We have thousands of events triggering every few seconds, its impossible to test for everything, even for those of us who know our code inside and out.
 
 Anyone who thinks that allowing dozens of untrained programmers access to make changes is helping stability really needs to step back and rethink the situation. Arguing that more testing would be done and people walking each other's code would prevent that simply has not been in this type of environment. When I first began coding, all of my code was walked and tested by Frobisher ( wintin developer ) and we still had crashes and bugs. While comments like that read great in text its simply not the reality.
 
@@ -146,19 +146,19 @@ As for immorting. I feel it's quite wrong to immort mainly to find out how final
 
 I can't figure out if the motivation is:
 
-1) I want to know how all the numbers are crunched so I want to see the source
+1\) I want to know how all the numbers are crunched so I want to see the source
 
-Which could be remedied by printing out all the formulas next to the answer.  Personally I'm against this kind of number crunching and think that it's more fun to just play the game.  I would like some additional documentation to know if a fireball does more damage than a flamestrike - but I prefer language that gives me some kind of x is slightly/double/way more powerful than y.  We've talked about putting together a wiki article for class order that gives some details but no specific numbers.
+Which could be remedied by printing out all the formulas next to the answer. Personally I'm against this kind of number crunching and think that it's more fun to just play the game. I would like some additional documentation to know if a fireball does more damage than a flamestrike - but I prefer language that gives me some kind of x is slightly/double/way more powerful than y. We've talked about putting together a wiki article for class order that gives some details but no specific numbers.
 
-2) I want to learn game development
+2\) I want to learn game development
 
-Diku/Sloth is not really a good example of modern-day game development.  Moving that direction is something I'm fond of thinking about, but you'd have to go with a custom protocol and either build a custom client or build a protocol stack for one of the existing clients.  Client-server applications have changed quite a bit in the last 20 years (along with most people's processor speeds, bandwidth, etc).
+Diku/Sloth is not really a good example of modern-day game development. Moving that direction is something I'm fond of thinking about, but you'd have to go with a custom protocol and either build a custom client or build a protocol stack for one of the existing clients. Client-server applications have changed quite a bit in the last 20 years (along with most people's processor speeds, bandwidth, etc).
 
-3) Changes/updates are too slow and/or unstable - need more people
+3\) Changes/updates are too slow and/or unstable - need more people
 
-In my short experience "working" here, I can tell you that there's been no shortage of ideas that people have for moving forward with new features.  Some of them aren't too hard to implement.  But they often lack specific details on how the game would be affected, balance issues, etc.  You can't code something without the details and you really shouldn't code something until the idea is hashed out and everyone is confident that it won't mess up the game.  
+In my short experience "working" here, I can tell you that there's been no shortage of ideas that people have for moving forward with new features. Some of them aren't too hard to implement. But they often lack specific details on how the game would be affected, balance issues, etc. You can't code something without the details and you really shouldn't code something until the idea is hashed out and everyone is confident that it won't mess up the game. 
 
-4) Something else
+4\) Something else
 
 ??.
 
@@ -166,15 +166,15 @@ In my short experience "working" here, I can tell you that there's been no short
 
 <div class="post" data-post-id="35838" data-author="Teron" data-date="2015-04-20T11:09:27+00:00" data-subject="Re: Go Open-Source?">
 
-1. Splork, I believe you should be familiar with how Git works. Programmers don't contribute the code directly to the live server, they show it to you and you make the decision, whether to merge it with the live server or not.
+1\. Splork, I believe you should be familiar with how Git works. Programmers don't contribute the code directly to the live server, they show it to you and you make the decision, whether to merge it with the live server or not.
 
-2. I don't think there will be many onlookers from behind your shoulders. As long as the feedback is structured, it shouldn't be a problem - more ideas is always better.
+2\. I don't think there will be many onlookers from behind your shoulders. As long as the feedback is structured, it shouldn't be a problem - more ideas is always better.
 
 Then again, I can't tell you how to feel regarding your development. If open-source doesn't cut it, alright, but that's the now old trend in web development that makes projects better.
 
-3. As for an easy way for developers to join you, I am talking about an easy way to start with small things. There should be an open invitation to developers to join the coding team and a list of things to fix, which they can see before getting an immort.
+3\. As for an easy way for developers to join you, I am talking about an easy way to start with small things. There should be an open invitation to developers to join the coding team and a list of things to fix, which they can see before getting an immort.
 
-4. Teker, on a number of my suggestions Juggleblood told me that anything that isn't coding can be changed quickly. Anything that's related to coding is a no go, because the developers are busy.
+4\. Teker, on a number of my suggestions Juggleblood told me that anything that isn't coding can be changed quickly. Anything that's related to coding is a no go, because the developers are busy.
 
 Is this not true now?
 
@@ -186,7 +186,7 @@ I can take a reason that there are other priorities or that my suggestion needs 
 
 I am quite familiar with how GIT and other repositories work. 
 
-I am not sure why JB would say anything code related is a no-go because that hasn't been the case that I am aware of. We do work on our own projects but whenever something someone else needs is requested, we sure try to get it as quickly as possible. We do have what we feel is a priority list and we also banter the ideas around before they are actually coded. For the past year, we have been working extremely hard on stuff which players don't really see much of. Its all  back-end related but eventually we hope it leads to some great stuff. I've personally been spending probably 30-40 hours a week for the last 5-6 months working on this project. 
+I am not sure why JB would say anything code related is a no-go because that hasn't been the case that I am aware of. We do work on our own projects but whenever something someone else needs is requested, we sure try to get it as quickly as possible. We do have what we feel is a priority list and we also banter the ideas around before they are actually coded. For the past year, we have been working extremely hard on stuff which players don't really see much of. Its all back-end related but eventually we hope it leads to some great stuff. I've personally been spending probably 30-40 hours a week for the last 5-6 months working on this project. 
 
 I use the idea command several times a day and add the ones I/we like. 
 
@@ -200,7 +200,7 @@ Thanks!
 
 Teker, just to give you real, current examples:
 
-1. One thief and I are not sure, whether buying the max dex drachma item is worth it for a thief right now, or we should rather save for nekodes/crystal sleeves.
+1\. One thief and I are not sure, whether buying the max dex drachma item is worth it for a thief right now, or we should rather save for nekodes/crystal sleeves.
 
 We were told by two different people that max dex matters and doesn't matter, even if it says so in the files.
 
@@ -208,9 +208,9 @@ Even if it does, does it lead to more damage, compared to standard damage?
 
 As you can see, the items in question cost lots of drachma, so it's a decision one makes once in a life of a character and yet, there's no definitive answer and it probably can not be found in the help files, even if they were updated to the limit.
 
-2. Should one buy +dam or +5stab dam for a thief? EQlist suggests they are equally weighted, but are they equal in final damage? Drachma costs suggest otherwise, as well as arena testing. But testing was done by one person, should every thief test it before arriving at his own conclusions?
+2\. Should one buy +dam or +5stab dam for a thief? EQlist suggests they are equally weighted, but are they equal in final damage? Drachma costs suggest otherwise, as well as arena testing. But testing was done by one person, should every thief test it before arriving at his own conclusions?
 
-3. Weapon dam for charge: does it help? It should, but I was told it doesn't.
+3\. Weapon dam for charge: does it help? It should, but I was told it doesn't.
 
 So I do agree that there should be answers. They can be written in a normal language, not formulas. But like I said, previously, imms were reluctant to give out any information regarding inner game mechanics, insisting on tests. Has this changed? Do you only need writing hands to update the help files?
 
@@ -220,36 +220,36 @@ Thanks.
 
 <div class="post" data-post-id="35843" data-author="*teker*" data-date="2015-04-21T14:50:46+00:00" data-subject="Re: Go Open-Source?">
 
-> **Quote:**
-> 4. Teker, on a number of my suggestions Juggleblood told me that anything that isn't coding can be changed quickly. Anything that's related to coding is a no go, because the developers are busy.
+> <strong>Quote:</strong>
+> 4\. Teker, on a number of my suggestions Juggleblood told me that anything that isn't coding can be changed quickly. Anything that's related to coding is a no go, because the developers are busy.
 > 
 > 
 > 
 > Is this not true now?
 
-I'm not going to say that we're not busy - but I don't think that coding suggestions are no-gos.  Since I'm new, I'm not going to work on things that change gameplay or balance without hearing from the others whether it should be done or not.  But I'm open to working on new features or fixing old things that don't work right.
+I'm not going to say that we're not busy - but I don't think that coding suggestions are no-gos. Since I'm new, I'm not going to work on things that change gameplay or balance without hearing from the others whether it should be done or not. But I'm open to working on new features or fixing old things that don't work right.
 
-> **Quote:**
+> <strong>Quote:</strong>
 > Teker, just to give you real, current examples
 
-Yes, I think there should be some documentation to aid you in your questions.  I'm happy to look at the code to see if things matter - but I have to run it by the others before I can reveal it to you.  So are your questions equivalent to:
+Yes, I think there should be some documentation to aid you in your questions. I'm happy to look at the code to see if things matter - but I have to run it by the others before I can reveal it to you. So are your questions equivalent to:
 
-1. Does max-dex matter or is it just dex that matters with regard to damage?
+1\. Does max-dex matter or is it just dex that matters with regard to damage?
 
-2. What's better +1dam or +5stab-damage for a thief?
+2\. What's better +1dam or +5stab-damage for a thief?
 
-3. Does weapon damage affect the charge skill in any way?
+3\. Does weapon damage affect the charge skill in any way?
 
 </div>
 
 <div class="post" data-post-id="35845" data-author="Filk" data-date="2015-04-21T17:46:26+00:00" data-subject="Re: Go Open-Source?">
 
-> ***teker* wrote:**
+> <strong>\*teker\* wrote:</strong>
 > But I'm open to working on new features or fixing old things that don't work right.
 
-Could you be so kind and put up a discussion about max stats not working while shifted  8) 
+Could you be so kind and put up a discussion about max stats not working while shifted <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> 
 
-To at least be decided, will it ever be implemented or not. So i could stop to ask about that.  :lol: 
+To at least be decided, will it ever be implemented or not. So i could stop to ask about that. <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> 
 
 Also, would be lovely to see all forms damage rolls somewhere. Since now its unbalanced at higher levels and probably should be changed in some ways. Revealing damage rolls could help alot to make some offers to balance forms.
 
@@ -263,20 +263,20 @@ Could you also please take away the code that adds a timer on aerial servant rec
 
 <div class="post" data-post-id="35848" data-author="*teker*" data-date="2015-04-22T13:59:26+00:00" data-subject="Re: Go Open-Source?">
 
-> **Quote:**
-> 1. Does max-dex matter or is it just dex that matters with regard to damage?
+> <strong>Quote:</strong>
+> 1\. Does max-dex matter or is it just dex that matters with regard to damage?
 
-Max-Dex does not appear to do anything other than let you get a higher Dex.  I did notice that items marked AFF_MAX_DEX add to MAX_DEX and DEX.
+Max-Dex does not appear to do anything other than let you get a higher Dex. I did notice that items marked AFF\_MAX\_DEX add to MAX\_DEX and DEX.
 
-> **Quote:**
-> 2. What's better +1dam or +5stab-damage for a thief?
+> <strong>Quote:</strong>
+> 2\. What's better +1dam or +5stab-damage for a thief?
 
-From the looks of things, +dam is better.  Stab-damage only applies when using the backstab skill.  Damage applies to each physical attack each round.  Unless the mob dies in less than 5 hits, damage will be better.
+From the looks of things, +dam is better. Stab-damage only applies when using the backstab skill. Damage applies to each physical attack each round. Unless the mob dies in less than 5 hits, damage will be better.
 
 That being said, I know there are damage caps and if you've hit yours, +stab-damage might be a bonus on top of that - not really sure.
 
-> **Quote:**
-> 3. Does weapon damage affect the charge skill in any way?
+> <strong>Quote:</strong>
+> 3\. Does weapon damage affect the charge skill in any way?
 
 No.
 
@@ -286,15 +286,15 @@ No.
 
 Teker, thanks for replying.
 
-1. "Help dex" says max dex helps with attack skills:
+1\. "Help dex" says max dex helps with attack skills:
 
 "The reaction bonus helps with things such as palming, squirm, stalk, deathgrip, wraithtouch, flurry, dodge, focus, presage, prediction, evade capture, and deathtouch."
 
 It also shows max dex of 25 adds 6 reaction bonus. Is it there or it's just in the help files?
 
-2. Weapon damage is added to the total damage of charge - I've tested this in the arena. I think there should be a multiplier for weapon damage for an opening attack and I've ideased it.
+2\. Weapon damage is added to the total damage of charge - I've tested this in the arena. I think there should be a multiplier for weapon damage for an opening attack and I've ideased it.
 
-Interestingly, standard damage (+1 damroll) does *not* affect the charge damage in any way.
+Interestingly, standard damage (+1 damroll) does \*not\* affect the charge damage in any way.
 
 As you can see, even with your input there's contradiction between what you know and what's in the help files, so there should be clearer information, either in a form of correct help files or open source code for those willing to know. Though I agree that opening the code just to learn the mechanics isn't really helpful to most players.
 
@@ -306,11 +306,11 @@ What might work is opening the code for (individual?) players, who wish to resea
 
 Taron, 
 
-You are asking somebody who is new to our code, has spent less than 2 weeks inside of it,and hasn't even  broken its surface.
+You are asking somebody who is new to our code, has spent less than 2 weeks inside of it,and hasn't even broken its surface.
 
-He has not really had a chance to even get his feet wet and you expect the poor guy's answers to be remotely correct. Honesty, you get what you asked for, accuracy in a situation like this wasn't going to be the case. He was most likely looking at what affects MAX_DEX has and there are none. However, there is a dex structure ( there is this for all stats )which gives bonuses based on what your current stats are. He most likely didn't notice this, After all, our code is hundreds of thousands of lines and you have to know where to look. I've been inside our code for nearly 17-18 years and I still can't find quick and accurate answers to some questions.
+He has not really had a chance to even get his feet wet and you expect the poor guy's answers to be remotely correct. Honesty, you get what you asked for, accuracy in a situation like this wasn't going to be the case. He was most likely looking at what affects MAX\_DEX has and there are none. However, there is a dex structure ( there is this for all stats )which gives bonuses based on what your current stats are. He most likely didn't notice this, After all, our code is hundreds of thousands of lines and you have to know where to look. I've been inside our code for nearly 17-18 years and I still can't find quick and accurate answers to some questions.
 
-Technically speaking, he is correct though. Max_Stat items simply increases that statistic...
+Technically speaking, he is correct though. Max\_Stat items simply increases that statistic...
 
 Max dex does exactly what is says in the helpfile, as does all the max stats and their helpfiles, which I spent hours on creating and back tracing through the code.
 
@@ -350,14 +350,14 @@ If you want documentation to have acceptable quality, you have to be an imm and 
 
 I.e. damage reduction help:
 
-> **Quote:**
+> <strong>Quote:</strong>
 > Damage reduction is an innate ability the monk class has to absorb damage
 > 
-> from monsters they are fighting.  With each point of damage reduction 
+> from monsters they are fighting. With each point of damage reduction 
 > 
 > achieved, the monk will absorb more damage than previously till they have
 > 
-> reached the maximum amount allowed.  The amount of damage absorbed depends
+> reached the maximum amount allowed. The amount of damage absorbed depends
 > 
 > on the difficulty and how hard the monster a player is fighting.
 
@@ -383,7 +383,7 @@ We used to have a "Stars" program for our Immortals and we have debated adding t
 
 Here is the actual helpfile:
 
-> **Quote:**
+> <strong>Quote:</strong>
 > Stars are awarded for immortal contributions to the game. They can be
 > 
 > exchanged for certain items that can be handed to mortals.
@@ -442,7 +442,7 @@ As for the damage reduction helpfile, it gave exactly the amount of information 
 
 As for the issue regarding the Monk discrepancy on the Wiki, I will take a look today or tomorrow and if its incorrect, we will fix it.
 
-I feel the majority of our documentation more than meets the requirements to be labeled 'acceptable quality' when considering the fact this is a hobby, its free, nobody gets paid or makes money.  In fact, many of us have contributed to the nearly $20,000 it has taken to keep this game afloat. 
+I feel the majority of our documentation more than meets the requirements to be labeled 'acceptable quality' when considering the fact this is a hobby, its free, nobody gets paid or makes money. In fact, many of us have contributed to the nearly $20,000 it has taken to keep this game afloat. 
 
 As you said, you won't help unless you are rewarded. Well, we aren't rewarded and we will help when we have time and we will help in whatever manner we choose to help. At least we are helping...
 
@@ -472,7 +472,7 @@ Motivations are different but result is same. Everyone benefits.
 
 I will agree with you, we do not meet your criteria in terms of acceptable documentation and neither does any other game of our kind that I am aware of. Actually, most games would not. 
 
-Your not offending or hurting anyone with your opinion.  Just as I should not be offending anyone when I say that we will run this game however we choose to and see fit.
+Your not offending or hurting anyone with your opinion. Just as I should not be offending anyone when I say that we will run this game however we choose to and see fit.
 
 You can either play and live with what you see as our faults or you can go find a game which is open sourced and has documentation to your liking. 
 
@@ -518,7 +518,7 @@ Meanwhile, I've found several commercial(!) MMORPGS that have their engines open
 
 I am sure there are examples of open-sourced projects for most all types of games available today. 
 
-I find the discussion rather predictable :lol:  There are plenty more threads on TMC/Mudbytes regarding open-sourced vs closed, which follow a similar path to the one you started. People are basically simply regurgitating what they have already discussed before.
+I find the discussion rather predictable <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> There are plenty more threads on TMC/Mudbytes regarding open-sourced vs closed, which follow a similar path to the one you started. People are basically simply regurgitating what they have already discussed before.
 
 The reasons given to remain closed-source on TMC are extremely accurate in today's MUD world. 
 

@@ -40,6 +40,6 @@ Only those who are at least experienced thieves, warriors, bards, or monks may u
 
 <div class="post" data-post-id="350" data-author="Deju" data-date="2004-05-26T04:10:04+00:00" data-subject="Closed">
 
-Closed.  Polk wins for 500k
+Closed. Polk wins for 500k
 
 </div>

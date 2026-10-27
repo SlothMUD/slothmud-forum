@@ -30,7 +30,7 @@ Damage Dice is '2D4'
 
 Can affect you as:
 
-    Affects: REGEN_MANA by 2
+ Affects: REGEN\_MANA by 2
 
 Only those who are at least apprentice avatars may use this item.
 
@@ -38,7 +38,7 @@ Only those who are at least apprentice avatars may use this item.
 
 <div class="post" data-post-id="38530" data-author="Driven" data-date="2017-12-08T14:37:33+00:00" data-subject="Re: Ogres EQ">
 
-Woah, gimme.  How big is the Elemental?
+Woah, gimme. How big is the Elemental?
 
 </div>
 

@@ -12,7 +12,7 @@ post_count: 2
 
 <div class="post" data-post-id="14601" data-author="angel" data-date="2006-10-11T03:23:27+00:00" data-subject="some assistance required">
 
-could someone mail me a tank reporter file :) thx 
+could someone mail me a tank reporter file <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> thx 
 
 blurjosh@gmail.com
 

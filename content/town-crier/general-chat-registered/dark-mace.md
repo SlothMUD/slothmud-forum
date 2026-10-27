@@ -12,15 +12,15 @@ post_count: 25
 
 <div class="post" data-post-id="17047" data-author="Toxis" data-date="2007-02-22T00:07:59+00:00" data-subject="dark mace">
 
-There's a lot of people who don't like the fact clerics can't use dark maces in groups.  Some people like the fact dark mace makes mobs flee, but I honestly don't see how that is a good thing.  I hate chasing down mobs.  Couldn't we make a second mace, one that wouldn't make mobs flee?  Maybe we can call it a Gleaming Mace.
+There's a lot of people who don't like the fact clerics can't use dark maces in groups. Some people like the fact dark mace makes mobs flee, but I honestly don't see how that is a good thing. I hate chasing down mobs. Couldn't we make a second mace, one that wouldn't make mobs flee? Maybe we can call it a Gleaming Mace.
 
--Brad
+\-Brad
 
 </div>
 
 <div class="post" data-post-id="17055" data-author="Leaf" data-date="2007-02-22T02:14:55+00:00" data-subject="">
 
-I believe there is an eq out there called Gleaming Mace.  Or maybe just take
+I believe there is an eq out there called Gleaming Mace. Or maybe just take
 
 the flee proc off the mace or change the proc.
 
@@ -44,7 +44,7 @@ Alias
 
 <div class="post" data-post-id="17059" data-author="12345" data-date="2007-02-22T03:04:10+00:00" data-subject="">
 
-Sanc buster doesn't dispel sanctuary.  It just does full damage through sanc.
+Sanc buster doesn't dispel sanctuary. It just does full damage through sanc.
 
 </div>
 
@@ -58,17 +58,18 @@ We'd better have that 5x40 proc we've been promised to achieve. :)
 
 <div class="post" data-post-id="17063" data-author="Yasik" data-date="2007-02-22T20:58:45+00:00" data-subject="">
 
-[img:2bhrsjgf]http://yasik.mci.kiev.ua/GreatestThread.jpg[/img:2bhrsjgf]
+![](http://yasik.mci.kiev.ua/GreatestThread.jpg)
 
 </div>
 
 <div class="post" data-post-id="17121" data-author="Assirian" data-date="2007-02-27T16:32:33+00:00" data-subject="">
 
-It seems odd that a mob suddenly gains the strength to break webs that it couldn't break before when in the presence of a dark mace anyway.[/quote:2uv7vftg]
+> <strong>Rynquald wrote:</strong>
+> It seems odd that a mob suddenly gains the strength to break webs that it couldn't break before when in the presence of a dark mace anyway.
 
 I agree. 
 
-But there can be another solution then code another dark mace.. It would be nice to have spell which makes the existing webs harder to broke and casted like slow (with, maybe some side effects :) )
+But there can be another solution then code another dark mace.. It would be nice to have spell which makes the existing webs harder to broke and casted like slow (with, maybe some side effects <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> )
 
 </div>
 
@@ -82,7 +83,7 @@ I've always thought that the mace making mobs flee was bullshit.
 
 The dark mace is the only one with a negative aspect to what should be a plus for the classo.
 
-Mirrors, flail, and poisons dont do that.  
+Mirrors, flail, and poisons dont do that. 
 
 Maybe when mirrors break they should have a percentage chance of injuring the mage from the flying glass.
 
@@ -90,9 +91,9 @@ Flail should have a percentage chance to chop off a warriors head.
 
 Poison after many uses should cause perm-disease to a thief from touching the vials and poison so many times.
 
-Dark mace is a fun weapon, but i dont even use it anymore.  Tired of group leaders asking me to get rid of it.  Whats the point of having a skill if you can use it.
+Dark mace is a fun weapon, but i dont even use it anymore. Tired of group leaders asking me to get rid of it. Whats the point of having a skill if you can use it.
 
-Sill waiting for the 5 X 40 avatar bonus its supposed to have.  If it was added I cant tell what it was.
+Sill waiting for the 5 X 40 avatar bonus its supposed to have. If it was added I cant tell what it was.
 
 Mosaix
 
@@ -106,7 +107,7 @@ Saying that poison doesn't have a negative side effect is just silly.
 
 Mirrors don't have many side effects, but you can't stab with them.
 
-Flail I don't think is prime only anymore, and its an area attack, so if you use it in the wrong place you get to fight everything in the room.  Improper use of flail has cfed quite a few of the groups I've led.
+Flail I don't think is prime only anymore, and its an area attack, so if you use it in the wrong place you get to fight everything in the room. Improper use of flail has cfed quite a few of the groups I've led.
 
 </div>
 
@@ -116,15 +117,15 @@ sometimes i won't even bend down to pick up 5k coins...
 
 dark mace is kool. no need to change it. i use it all the time...
 
-if i'm in a certain kind of group i just use this item called 'spare weapon' or 'other spare weapon'  that i always seem to have on me... :twisted:
+if i'm in a certain kind of group i just use this item called 'spare weapon' or 'other spare weapon' that i always seem to have on me... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="17127" data-author="Mosaix" data-date="2007-02-27T18:28:27+00:00" data-subject="">
 
-didnt know about the ability for a thief to poison itself.  However the 5k coins cost...boo hoo.  Run hellwell for an hour and youll have all the potentially evaporating potions one could need.  The dark mace poofs as well after so many ticks, but that really is not a major problem.
+didnt know about the ability for a thief to poison itself. However the 5k coins cost...boo hoo. Run hellwell for an hour and youll have all the potentially evaporating potions one could need. The dark mace poofs as well after so many ticks, but that really is not a major problem.
 
-Also the stab damage from that slop far outweighs the negative aspects you list.  That and ive yet to see a thief not use it because of the listed disadvantages.
+Also the stab damage from that slop far outweighs the negative aspects you list. That and ive yet to see a thief not use it because of the listed disadvantages.
 
 Yet to hear of warriors not using flail because of its attributes. 
 
@@ -146,7 +147,7 @@ maybe take a hint from that and just deal?
 
 Also instead of "flee" they should "try" to flee and trip over their own feet
 
-and fall.  (Not sure if the mobs every1 is talking about are ether or not)
+and fall. (Not sure if the mobs every1 is talking about are ether or not)
 
 </div>
 
@@ -158,17 +159,18 @@ Well u now know a warrior who doesnt use flail. Me. I personally feel its worthl
 
 <div class="post" data-post-id="17131" data-author="firebrand" data-date="2007-02-27T21:22:35+00:00" data-subject="">
 
-Also instead of "flee" they should "try" to flee and trip over their own feet and fall.[/quote:3mi27snl]
+> <strong>Leaf wrote:</strong>
+> Also instead of "flee" they should "try" to flee and trip over their own feet and fall.
 
-will you trip over your own feet just trying to brush your tooth in the mornings.  
+will you trip over your own feet just trying to brush your tooth in the mornings. 
 
-"15 bucks, little man, put that shit in my hand"  --jay --> jay and silent bob strike back
+"15 bucks, little man, put that shit in my hand" --jay --\> jay and silent bob strike back
 
 </div>
 
 <div class="post" data-post-id="17132" data-author="Medios" data-date="2007-02-27T21:53:41+00:00" data-subject="">
 
-Dark mace hits for full damage thru sanctuary, procs on undead, and also hits ethereal mobs.  The only problem is that it makes undeads flee when webbed (which I alsways thought was dumb, if a mob cant break webs normally why would this proc do it).  I can think of many times when the usefulness way overpowers the negative aspect.  If you want to bring up a useless skill lets talk about demonic strength.
+Dark mace hits for full damage thru sanctuary, procs on undead, and also hits ethereal mobs. The only problem is that it makes undeads flee when webbed (which I alsways thought was dumb, if a mob cant break webs normally why would this proc do it). I can think of many times when the usefulness way overpowers the negative aspect. If you want to bring up a useless skill lets talk about demonic strength.
 
 Mike
 
@@ -184,17 +186,19 @@ If you don't like using it in the groups, hell, just remove it and use another w
 
 <div class="post" data-post-id="17134" data-author="brand" data-date="2007-02-28T16:48:06+00:00" data-subject="">
 
-:)[/quote:45mjhxf1]
+> <strong>Krok wrote:</strong>
+> <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-YEAH!!! i agree with the krok :twisted:
+YEAH!!! i agree with the krok <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="17136" data-author="13" data-date="2007-03-01T13:40:10+00:00" data-subject="">
 
-[quote:1zl593p1]However the 5k coins cost...boo hoo.[/quote:1zl593p1]
+> <strong>Quote:</strong>
+> However the 5k coins cost...boo hoo.
 
-Yeah try summoning a dark mace 200+ x a day for 5k.  It gets old fast.
+Yeah try summoning a dark mace 200+ x a day for 5k. It gets old fast.
 
 </div>
 
@@ -210,13 +214,13 @@ mosaix
 
 <div class="post" data-post-id="17140" data-author="13" data-date="2007-03-01T16:48:28+00:00" data-subject="">
 
-Yeah well that shit lasts like 20 minutes or something, poison goes away right off the bat.  Apples and oranges.  I'm not even sure that the making of mobs to flee is a proc on the mace, but more a side-affect from a made save on whatever spell is being casted(procced).  I mean to say that I think the spell could just be cast and if Lutann fails he would flee maybe.  Shit who knows.
+Yeah well that shit lasts like 20 minutes or something, poison goes away right off the bat. Apples and oranges. I'm not even sure that the making of mobs to flee is a proc on the mace, but more a side-affect from a made save on whatever spell is being casted(procced). I mean to say that I think the spell could just be cast and if Lutann fails he would flee maybe. Shit who knows.
 
 </div>
 
 <div class="post" data-post-id="17142" data-author="Alberich" data-date="2007-03-01T21:06:27+00:00" data-subject="">
 
-no, no, it's a good idea.  also, you have to make DM poof every time you hit a mob, and recast :)
+no, no, it's a good idea. also, you have to make DM poof every time you hit a mob, and recast <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 add lag, too....
 
@@ -224,10 +228,11 @@ add lag, too....
 
 <div class="post" data-post-id="17143" data-author="12345" data-date="2007-03-01T22:07:27+00:00" data-subject="">
 
-no, no, it's a good idea.  also, you have to make DM poof every time you hit a mob, and recast :)
+> <strong>Alberich wrote:</strong>
+> no, no, it's a good idea. also, you have to make DM poof every time you hit a mob, and recast <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
+> 
+> add lag, too....
 
-add lag, too....[/quote:1h0ikfyt]
-
-Whee! That'd be cool :)
+Whee! That'd be cool <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

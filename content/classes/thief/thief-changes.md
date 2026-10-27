@@ -14,8 +14,8 @@ post_count: 1
 
 As of next reboot:
 
-- if you spy and also have the sixth sense skill, you might get a warning of aggros in the other room when spying
+\- if you spy and also have the sixth sense skill, you might get a warning of aggros in the other room when spying
 
-- new thief skill, study: kind of like a much more detailed consider; see the help.  We'll place the manual shortly, it's not in-game yet.
+\- new thief skill, study: kind of like a much more detailed consider; see the help. We'll place the manual shortly, it's not in-game yet.
 
 </div>

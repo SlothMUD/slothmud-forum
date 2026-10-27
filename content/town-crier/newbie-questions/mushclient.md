@@ -36,15 +36,15 @@ ok this is pointless but weasel, you signed up on this game on my birthday
 
 <div class="post" data-post-id="4790" data-author="Weasel" data-date="2005-03-04T22:48:47+00:00" data-subject="">
 
-muahahah  :twisted:
+muahahah <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="4792" data-author="Autolycos" data-date="2005-03-04T23:57:24+00:00" data-subject="">
 
-knowing weasel like i do,  he probably did it on purpose with malicious intent, and it is all part of a much bigger diabolical conspiracy joined with the evil dark minions from hell to dominate the known galaxy!
+knowing weasel like i do, he probably did it on purpose with malicious intent, and it is all part of a much bigger diabolical conspiracy joined with the evil dark minions from hell to dominate the known galaxy!
 
-but then again,  could have been a coincedence
+but then again, could have been a coincedence
 
 heh
 
@@ -52,7 +52,7 @@ heh
 
 <div class="post" data-post-id="4793" data-author="Weasel" data-date="2005-03-05T07:09:08+00:00" data-subject="">
 
-..and all that before breakfast  :twisted:
+..and all that before breakfast <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -66,23 +66,28 @@ How do you find the port number for these things?
 
 It's listed all over...
 
-To connect to SlothMUD III (slothmud.org port:6101 - 69.64.36.225:6101), click on the "Play SlothMUD" link on the top left of the page.[/quote:6x9e4cg6]
+> <strong>SlothMUD Homepage wrote:</strong>
+> To connect to SlothMUD III (slothmud.org port:6101 - 69.64.36.225:6101), click on the "Play SlothMUD" link on the top left of the page.
 
-You have clicked the Telnet Link for the mud SlothMUD III, located at telnet://slothmud.org:6101.[/quote:6x9e4cg6]
+> <strong>Play SlothMUD Link wrote:</strong>
+> You have clicked the Telnet Link for the mud SlothMUD III, located at telnet://slothmud.org:6101.
 
-SlothMUD III 
+> <strong>Mudconnector wrote:</strong>
+> SlothMUD III 
+> 
+> 
+> 
+> TMC Ranking: 1 
+> 
+> Last Updated: June 14, 2004
+> 
+> Mud Created: January, 1989
+> 
+> Code Base: Dikumud Heavily Modified 
+> 
+> Site: slothmud.org 6101 [69.64.36.225]
 
-TMC Ranking: 1 
-
-Last Updated: June 14, 2004
-
-Mud Created: January, 1989
-
-Code Base: Dikumud Heavily Modified 
-
-Site: slothmud.org 6101 [69.64.36.225][/quote:6x9e4cg6]
-
-Since you can't connect without knowing the correct port, any mud will make sure that the port number is included in any direct link to the mud and that it's fairly obvious if it's referred to in a text context.  Look around for half a second and you're almost sure to find it.
+Since you can't connect without knowing the correct port, any mud will make sure that the port number is included in any direct link to the mud and that it's fairly obvious if it's referred to in a text context. Look around for half a second and you're almost sure to find it.
 
 </div>
 

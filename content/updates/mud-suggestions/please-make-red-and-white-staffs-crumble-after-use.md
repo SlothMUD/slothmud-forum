@@ -42,13 +42,13 @@ or do they only crumble if it's made from succor?
 
 You viciously flog marchessa with a red and white staff!! 
 
- :x
+ <img src="/images/smilies/icon_mad.svg" alt=":x" title=":x" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="17313" data-author="Weasel" data-date="2007-03-16T16:16:33+00:00" data-subject="">
 
-hmm .. I posted this after Shyla commented about the red&white staffs left laying around and having probs locating something else as a result.. perhaps used ones DO crumble, and the ones laying around are still fully charged?
+hmm .. I posted this after Shyla commented about the red\&white staffs left laying around and having probs locating something else as a result.. perhaps used ones DO crumble, and the ones laying around are still fully charged?
 
 </div>
 
@@ -56,11 +56,11 @@ hmm .. I posted this after Shyla commented about the red&white staffs left layin
 
 yep..
 
-a masterful succor gives you a staff...  so most often i'll keep one on me.. but if i get extras when trying for recalls i just leave them in the inn or scribes for other people...
+a masterful succor gives you a staff... so most often i'll keep one on me.. but if i get extras when trying for recalls i just leave them in the inn or scribes for other people...
 
 most likely others are doing similar.. 
 
- :roll:
+ <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -72,7 +72,7 @@ It's been like what... 2 years of crumbling staves already? :)
 
 <div class="post" data-post-id="17318" data-author="Weasel" data-date="2007-03-16T21:19:20+00:00" data-subject="">
 
-I'm a tank, not the cleric at the other end hosting the panic stick.  :wink: 
+I'm a tank, not the cleric at the other end hosting the panic stick. <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom"> 
 
 ..come to think of it, although I've purchased a staff or two occasionally for a group, I haven't actually used one for at least 3 or 4 years.. heh.
 
@@ -98,6 +98,6 @@ I have an idea what you do with the extras...
 
 <div class="post" data-post-id="17326" data-author="Autolycos" data-date="2007-03-17T04:44:52+00:00" data-subject="">
 
-now that you mention it.. i did see Brad buy a tub of ky the other day at the supplies store  :shock:
+now that you mention it.. i did see Brad buy a tub of ky the other day at the supplies store <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>

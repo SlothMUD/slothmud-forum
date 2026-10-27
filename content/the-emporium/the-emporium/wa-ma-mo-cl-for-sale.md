@@ -12,9 +12,9 @@ post_count: 2
 
 <div class="post" data-post-id="3885" data-author="Roadrunr" data-date="2005-01-23T04:15:34+00:00" data-subject="wa ma mo cl for sale">
 
-Disciple .  (level: 30)
+Disciple . (level: 30)
 
-Your levels:  Wa: 30 Ma: 20 Mo: 11 Cl: 2 
+Your levels: Wa: 30 Ma: 20 Mo: 11 Cl: 2 
 
 You are 17 years and 13 months old.
 
@@ -38,7 +38,7 @@ You are standing.
 
 You are affected by the following spells:
 
-   Detect Invisible                 
+ Detect Invisible 
 
 looking for tokens or coins...
 

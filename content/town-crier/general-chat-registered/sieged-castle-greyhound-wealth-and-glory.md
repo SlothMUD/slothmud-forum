@@ -12,7 +12,7 @@ post_count: 15
 
 <div class="post" data-post-id="9543" data-author="Guinex" data-date="2005-11-17T05:12:22+00:00" data-subject="Sieged Castle (greyhound) &amp; wealth and glory">
 
-I am just curious if this mob is still loading jeweled collar.  I have been cycling him for weeks and decided to have a bard wealth and glory to see what it said, and the collar is showing up as not loading.  So either he isn't loading or the song wealth and glory is not.
+I am just curious if this mob is still loading jeweled collar. I have been cycling him for weeks and decided to have a bard wealth and glory to see what it said, and the collar is showing up as not loading. So either he isn't loading or the song wealth and glory is not.
 
 Thanks
 
@@ -26,7 +26,7 @@ Nods I've cycled greyhound for weeks too and no load! I basically cycle it when 
 
 <div class="post" data-post-id="9550" data-author="Leaf" data-date="2005-11-17T17:21:01+00:00" data-subject="">
 
-Use your Bard Ken!  You lazy bastard :)
+Use your Bard Ken! You lazy bastard <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -38,7 +38,7 @@ Leaf, just out of curiosity, what makes you think singing luck gods would work i
 
 <div class="post" data-post-id="9552" data-author="Leaf" data-date="2005-11-17T18:42:54+00:00" data-subject="">
 
-Not much, but i like picking on Ken :)
+Not much, but i like picking on Ken <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -52,9 +52,9 @@ Yea, I guess if everyone played with barbi they would get picked on like Ken.
 
 Hi all ...
 
-Checked greyhound and efectively he wasnt poping.  So, made him pop it and, to compensate you guys a little, at a pretty decent pop rate.
+Checked greyhound and efectively he wasnt poping. So, made him pop it and, to compensate you guys a little, at a pretty decent pop rate.
 
-Pop rate will go back to what it was before in a month or so, so hurry up and get yout pops.   :)
+Pop rate will go back to what it was before in a month or so, so hurry up and get yout pops. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 No clue how the pop was lost, sorry about it, guys.
 
@@ -64,7 +64,7 @@ Isabo
 
 <div class="post" data-post-id="9555" data-author="Guinex" data-date="2005-11-17T20:01:50+00:00" data-subject="">
 
-:twisted:  Thanks Isabo
+<img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> Thanks Isabo
 
 </div>
 
@@ -72,15 +72,15 @@ Isabo
 
 Is the item for a forge or what?
 
-Doesn't look so great for 2 tards to be cycling the mob :)
+Doesn't look so great for 2 tards to be cycling the mob <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="9557" data-author="Guinex" data-date="2005-11-17T20:22:20+00:00" data-subject="">
 
-*smoke* While were at it, how about Narmer I have had a bard wealth and glory him as well, has key to volcano moved to a different mob or.....?
+\*smoke\* While were at it, how about Narmer I have had a bard wealth and glory him as well, has key to volcano moved to a different mob or.....?
 
- :?
+ <img src="/images/smilies/icon_e_confused.svg" alt=":?" title=":?" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -88,34 +88,35 @@ Doesn't look so great for 2 tards to be cycling the mob :)
 
 How did you sing wealth and glory to the hound?
 
-I tried, and he doesn't listen :(
+I tried, and he doesn't listen <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="9559" data-author="Guinex" data-date="2005-11-17T20:27:27+00:00" data-subject="">
 
-Silly bards *smoke*
+Silly bards \*smoke\*
 
 </div>
 
 <div class="post" data-post-id="9560" data-author="Shara" data-date="2005-11-17T20:32:40+00:00" data-subject="">
 
-I'm a sucky bard :(
+I'm a sucky bard <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="9563" data-author="ken" data-date="2005-11-18T03:09:21+00:00" data-subject="Thanks Isabo!">
 
-Thanks for fixing it! And Leaf stop stalking my bard!^_^
+Thanks for fixing it! And Leaf stop stalking my bard!^\_^
 
 </div>
 
 <div class="post" data-post-id="9569" data-author="Vixn" data-date="2005-11-18T06:53:50+00:00" data-subject="">
 
-Is the item for a forge or what?
+> <strong>Leaf wrote:</strong>
+> Is the item for a forge or what?
+> 
+> Doesn't look so great for 2 tards to be cycling the mob <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-Doesn't look so great for 2 tards to be cycling the mob :)[/quote:2bv49814]
-
-nah, just stylish item for sado-maso mode :twisted:
+nah, just stylish item for sado-maso mode <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

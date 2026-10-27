@@ -24,11 +24,11 @@ not that i hate, but...
 
 3x40 and 4x38 is the point at which them Gods Themselves admit teh perseverance and persistence of mortals and grant them Items of POWER personnaly.
 
-I never forget my 1st 3x40 Item of Power, given to me by my Goddess of Worship, Seda the Blonde && Proud!
+I never forget my 1st 3x40 Item of Power, given to me by my Goddess of Worship, Seda the Blonde \&\& Proud!
 
 Its a historical event ! Mortals deserved teh attention of them Gods!
 
-(btw pls add my new UIN to your visible-list) :)
+(btw pls add my new UIN to your visible-list) <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -44,23 +44,22 @@ Bazilus the Crazy Python
 
 <div class="post" data-post-id="13707" data-author="Autolycos" data-date="2006-08-12T13:38:52+00:00" data-subject="">
 
-Don't make our imms so lazy![/quote:318dde2f]
+> <strong>Bazilus wrote:</strong>
+> Don't make our imms so lazy!
 
-[i:318dde2f][b:318dde2f]
-
-ALL YOUR IMMS ARE BELONG TO US!!!![/b:318dde2f][/i:318dde2f][/color:318dde2f][/size:318dde2f]
+<em><strong>ALL YOUR IMMS ARE BELONG TO US!!!!</strong></em>
 
 </div>
 
 <div class="post" data-post-id="13708" data-author="firebrand" data-date="2006-08-13T00:47:50+00:00" data-subject="">
 
-i did not mean to make the guildmasters give the eq automatically....i meant to give the guildmasters a list command so that the player could choose to get the eq from the guildmaster him or herself IF there is no available imm to pass down the eq...there are some players who are simply not able to wait around for however long it takes for the imms logged in to be able to pass down the eq.  and some players (like vanyel) are solo artists and may simply want the option of getting the eq....and some players choose to switch out their 3x eq....at which point i still think the guildmasters should be able to handle it as an option.  i don't want to force it on the players for eq to be automated.   i know that as ember i actually like interacting with mortals and letting them know that i honestly DO give a shit....and there have been several imms upstairs that have pointed out that they like the personalization of giving out the eq to the players themselves so don't despair guys and gals....i'm just offering a suggestion - hence the poll.
+i did not mean to make the guildmasters give the eq automatically....i meant to give the guildmasters a list command so that the player could choose to get the eq from the guildmaster him or herself IF there is no available imm to pass down the eq...there are some players who are simply not able to wait around for however long it takes for the imms logged in to be able to pass down the eq. and some players (like vanyel) are solo artists and may simply want the option of getting the eq....and some players choose to switch out their 3x eq....at which point i still think the guildmasters should be able to handle it as an option. i don't want to force it on the players for eq to be automated. i know that as ember i actually like interacting with mortals and letting them know that i honestly DO give a shit....and there have been several imms upstairs that have pointed out that they like the personalization of giving out the eq to the players themselves so don't despair guys and gals....i'm just offering a suggestion - hence the poll.
 
 </div>
 
 <div class="post" data-post-id="13709" data-author="Medios" data-date="2006-08-13T02:53:31+00:00" data-subject="">
 
-Vanyel doesnt have or want any trip40 or 40 av eq :P
+Vanyel doesnt have or want any trip40 or 40 av eq <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 Mike
 

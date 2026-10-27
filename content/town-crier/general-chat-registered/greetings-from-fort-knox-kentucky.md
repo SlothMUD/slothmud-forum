@@ -14,9 +14,9 @@ post_count: 5
 
 Hey all,
 
-How are things going on sloth these days?  I sure miss being able to be on and can't wait until I reach Hawaii and get my system set up to do some playing. 
+How are things going on sloth these days? I sure miss being able to be on and can't wait until I reach Hawaii and get my system set up to do some playing. 
 
-So what's new with everyone?  Send me an email if you want to talk more then what I can do on  here due to time.  dustin.feigel@us.army.mil
+So what's new with everyone? Send me an email if you want to talk more then what I can do on here due to time. dustin.feigel@us.army.mil
 
 Blaster
 
@@ -36,7 +36,7 @@ hia blaster.
 
 <div class="post" data-post-id="8330" data-author="13" data-date="2005-08-17T11:46:37+00:00" data-subject="">
 
-Knox is mostly tanks from what I remem.  Was stationed at 1/187inf
+Knox is mostly tanks from what I remem. Was stationed at 1/187inf
 
 at Ft Campbell for 2 yr.
 
@@ -48,6 +48,6 @@ hoooah!
 
 It's the army's armored (tank) training base.
 
-Hope you're doing well B.  Good Luck.
+Hope you're doing well B. Good Luck.
 
 </div>

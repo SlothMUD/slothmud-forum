@@ -12,6 +12,6 @@ post_count: 1
 
 <div class="post" data-post-id="926" data-author="Eagle" data-date="2004-07-05T04:00:27+00:00" data-subject="new to lyme">
 
-fellow mages, know any good mage solo o­n lyme? looking to improve o­n 5-7mil runs, thanks :)
+fellow mages, know any good mage solo o­n lyme? looking to improve o­n 5-7mil runs, thanks <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

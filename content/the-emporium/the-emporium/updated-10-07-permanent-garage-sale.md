@@ -16,7 +16,7 @@ Hail,
 
 Contact me directly ingame with offers or price check. Do not reply in this topic please!!!
 
-**List of gems/runes that I need:**
+<strong>List of gems/runes that I need:</strong>
 
 - Tomb Jade x3
 - Sapphire x3
@@ -26,13 +26,13 @@ Contact me directly ingame with offers or price check. Do not reply in this topi
 - Chrysoprase
 - ... most t3 gems
 
-**Items for sale/trade:**
+<strong>Items for sale/trade:</strong>
 
 - 2x a wiedzmin ring ()socketed Chrysoprase Rune()
 - a ring of blue ice ()socketed Chrysoprase Rune()
 - darksteel shoulder guards ()socketed Tourmaline Rune()
-- Brown-Red Spinel Rune [ T:2, <body armor> Mana 5]
-- Dark-Green Spinel Rune [ T:1, <body armor> Hp 5]
+- Brown-Red Spinel Rune [ T:2, \<body armor\> Mana 5]
+- Dark-Green Spinel Rune [ T:1, \<body armor\> Hp 5]
 - malachite shoulderguards
 - Talons of the Dragon Lords
 - marble sceptre

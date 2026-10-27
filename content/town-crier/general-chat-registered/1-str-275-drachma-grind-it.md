@@ -40,7 +40,7 @@ drachma is (mostly)finite and boring
 
 <div class="post" data-post-id="20334" data-author="brady" data-date="2007-09-20T16:14:11+00:00" data-subject="">
 
-275 drachma for one Strenth point?  Don't! Do! It!
+275 drachma for one Strenth point? Don't! Do! It!
 
 </div>
 
@@ -50,7 +50,7 @@ you can list at lyme mayor to see what token + coin cost is for purchaseables
 
 rebs
 
-"behind every successful man is a woman rolling her eyes" -- bruce --> bruce almighty
+"behind every successful man is a woman rolling her eyes" -- bruce --\> bruce almighty
 
 </div>
 

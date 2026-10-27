@@ -20,10 +20,10 @@ There will be Things.
 
 a timer link is below:
 
-[<LINK_TEXT text="https://www.tickcounter.com/countdown/3 ... -day-quest">https://www.tickcounter.com/countdown/3262986/2022-slothmud-memorial-day-quest</LINK_TEXT>](https://www.tickcounter.com/countdown/3262986/2022-slothmud-memorial-day-quest)
+[https://www.tickcounter.com/countdown/3262986/2022-slothmud-memorial-day-quest](https://www.tickcounter.com/countdown/3262986/2022-slothmud-memorial-day-quest)
 
 See you all there
 
---Idj
+\--Idj
 
 </div>

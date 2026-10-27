@@ -16,7 +16,7 @@ Greetings, mortals.
 
 Hollow wooden cornett restricts have been fixed.
 
-And in this matter ... instruments (and for extension, instrument slot) are supposed to be bard only.  So, if you find an instrument that you can use not being bard prime, its a bug, please, report it.
+And in this matter ... instruments (and for extension, instrument slot) are supposed to be bard only. So, if you find an instrument that you can use not being bard prime, its a bug, please, report it.
 
 Best regards.
 

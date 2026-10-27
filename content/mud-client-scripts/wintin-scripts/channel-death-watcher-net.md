@@ -14,13 +14,13 @@ post_count: 1
 
 Heaps simple death checker script for channel droppers.
 
-#defgroup {Deathcheck}
+\#defgroup {Deathcheck}
 
-#action  {%1 has left this channel} {tell $1 Just checking to see if ur ok :)} {G|Deathcheck}
+\#action {%1 has left this channel} {tell $1 Just checking to see if ur ok <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">} {G\|Deathcheck}
 
-#action  {%1 is unable to respond right now.} {ct $1 IS DOWN!!!} {G|Deathcheck}
+\#action {%1 is unable to respond right now.} {ct $1 IS DOWN!!!} {G\|Deathcheck}
 
-#defgroup {}
+\#defgroup {}
 
 Assumes ct is alias for channeltalk.
 

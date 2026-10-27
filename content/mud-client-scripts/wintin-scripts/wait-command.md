@@ -16,11 +16,11 @@ I'm having some trouble using the #wait command. Rather, it doesn't seem to be w
 
 I tried:
 
-#wait {5};#showme 5 seconds elapsed.
+\#wait {5};#showme 5 seconds elapsed.
 
 and (had to try)
 
-#wait {5000};#showme 5000 miliseconds elapsed.
+\#wait {5000};#showme 5000 miliseconds elapsed.
 
 But neither worked- the messages showed up immediately.
 
@@ -44,8 +44,8 @@ anyways why yours doesn't work is prob because all # commands are executed immed
 
 u could try this, might work
 
-#alias xxx {#showme 5 seconds has lapsed}
+\#alias xxx {#showme 5 seconds has lapsed}
 
-#wait {5};xxx
+\#wait {5};xxx
 
 </div>

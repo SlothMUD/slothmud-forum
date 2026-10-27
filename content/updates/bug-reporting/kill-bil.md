@@ -12,10 +12,10 @@ post_count: 3
 
 <div class="post" data-post-id="40040" data-author="cnl" data-date="2023-03-15T23:14:45+00:00" data-subject="Kill Bil">
 
-From mud change log many moons ago : [<LINK_TEXT text="http://www.slothmud.org/forum/viewtopic ... 932#p36672">http://www.slothmud.org/forum/viewtopic.php?t=4439&p=37932#p36672</LINK_TEXT>](http://www.slothmud.org/forum/viewtopic.php?t=4439&p=37932#p36672)
+From mud change log many moons ago : [http://www.slothmud.org/forum/viewtopic.php?t=4439&p=37932#p36672](http://www.slothmud.org/forum/viewtopic.php?t=4439&p=37932#p36672)
 
-> **Quote:**
-> *Greater Moon Avatar in moon temple will now only spawn during house of the Frost Giant and the Lesser Moon Avatar will only spawn during the house of the Winter Wolf. Killing greater/female avatar still summons Selene epic and lesser/male summons Bil, it's just that now those avatars are astrology based. Blue moonstone still loads on both avatars. Yes both could spawn at the same time. No I haven't yet figured out anything cool to trigger when that happens.
+> <strong>Quote:</strong>
+> \*Greater Moon Avatar in moon temple will now only spawn during house of the Frost Giant and the Lesser Moon Avatar will only spawn during the house of the Winter Wolf. Killing greater/female avatar still summons Selene epic and lesser/male summons Bil, it's just that now those avatars are astrology based. Blue moonstone still loads on both avatars. Yes both could spawn at the same time. No I haven't yet figured out anything cool to trigger when that happens.
 
 This appears to be broken - for both lesser and greater only Selene spawns on death. I have been unable to spawn Bil
 
@@ -23,13 +23,13 @@ This appears to be broken - for both lesser and greater only Selene spawns on de
 
 <div class="post" data-post-id="40041" data-author="Driven" data-date="2023-03-22T01:51:26+00:00" data-subject="Re: Kill Bil">
 
-There is a typo in the code.  I fixed it... let me know if the fix works.
+There is a typo in the code. I fixed it... let me know if the fix works.
 
 </div>
 
 <div class="post" data-post-id="40042" data-author="cnl" data-date="2023-03-22T03:32:10+00:00" data-subject="Re: Kill Bil">
 
-> **Quote:**
+> <strong>Quote:</strong>
 > Bil [target] is reduced to a pile of dust.
 > 
 > Bil [target] has been banished to the astral plane!
@@ -52,7 +52,7 @@ There is a typo in the code.  I fixed it... let me know if the fix works.
 > 
 > 
 > 
-> The Spirit of Conquest tells you 'Huzzah!  You have earned 22219 conquest points!'
+> The Spirit of Conquest tells you 'Huzzah! You have earned 22219 conquest points!'
 > 
 > Everything Bil [target] was carrying suddenly drops to the ground.
 

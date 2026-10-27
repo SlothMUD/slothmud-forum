@@ -12,11 +12,11 @@ post_count: 2
 
 <div class="post" data-post-id="34714" data-author="*Splork*" data-date="2013-12-29T00:47:26+00:00" data-subject="New Page and some Fixes">
 
-1) Fixed Avatar Hall of Fame to be current with exact order of players and day which the 9x40 level was reached
+1\) Fixed Avatar Hall of Fame to be current with exact order of players and day which the 9x40 level was reached
 
-2) Added in a Mudlet Plugins page with screenshots of the two plugins we currently offer
+2\) Added in a Mudlet Plugins page with screenshots of the two plugins we currently offer
 
-<LINK_TEXT text="http://www.slothmud.org/wp/welcome-to-s ... om-plugins">http://www.slothmud.org/wp/welcome-to-slothmud/the-library/game-clients/custom-plugins</LINK_TEXT>
+http://www.slothmud.org/wp/welcome-to-slothmud/the-library/game-clients/custom-plugins
 
 Splork
 

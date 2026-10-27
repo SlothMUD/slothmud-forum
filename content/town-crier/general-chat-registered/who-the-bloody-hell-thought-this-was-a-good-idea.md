@@ -12,7 +12,7 @@ post_count: 28
 
 <div class="post" data-post-id="30003" data-author="Thraxas" data-date="2009-09-17T22:30:58+00:00" data-subject="who the bloody hell thought this was a good idea">
 
-<rant>
+\<rant\>
 
 died today ... lost a lot of xp ... xp gained through hours of play ... it happens ... its tough ... we live with it and move on
 
@@ -26,13 +26,10 @@ Hmmm ... thinking some more theres a better solution ... we all set up icq accou
 
 Perhaps just for the sake of arguement we could assume that we've all got icq running and can talk to each other whether dead or not ... this would mean that letting us talk in channels when dead does not disrupt or change the balance of the mud at all ... it would just make life so much easier for us all.
 
-</rant>
+\</rant\>
 
-[quote:2zb2i1in]
-
-The name "Sloth" was chosen to embody the original philosophy of the mud, which was to make everybody's lives as easy as possible. 
-
-[/quote:2zb2i1in]
+> <strong>Quote:</strong>
+> The name "Sloth" was chosen to embody the original philosophy of the mud, which was to make everybody's lives as easy as possible.
 
 </div>
 
@@ -40,7 +37,7 @@ The name "Sloth" was chosen to embody the original philosophy of the mud, which 
 
 I agree. When instant chat programs, phone numbers, mobile phones, SMS/Texting, Email and even the crier its self can work to communicate someones death outside of the game... whats the point in trying to restrict it in game?
 
-All you old farts need to switch your ICQ to Skype as well btw... Nothing says old computer user who doesn't keep up like a person who uses ICQ. :twisted: 
+All you old farts need to switch your ICQ to Skype as well btw... Nothing says old computer user who doesn't keep up like a person who uses ICQ. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 If modern day people can sense spirits... imagine how much better the power of sensing the departed might be in a fantasty magic game... I don't know why you bother restricting it.
 
@@ -50,11 +47,8 @@ If modern day people can sense spirits... imagine how much better the power of s
 
 As an alternative to icq perhaps we should all log into an alternate mud as well as sloth ... and use that purely for channel talking .... if we chose a mud with very few players (bottom of the TMC list thing) then conversation would be unlikely to disturb their players ... then comms could be within a separate window in the same client ... hmmm gives me another idea ... lets have a sloth outing to another mud holiday style ... actually that could even be a quest idea that requires little work from imms ... pick a mud at random, all log on, the player who can find the most coins and pass to an imm at the end of an hour gets a reward in sloth.
 
-[quote:1thnqntb]
-
-The name "Sloth" was chosen to embody the original philosophy of the mud, which was to make everybody's lives as easy as possible. 
-
-[/quote:1thnqntb]
+> <strong>Quote:</strong>
+> The name "Sloth" was chosen to embody the original philosophy of the mud, which was to make everybody's lives as easy as possible.
 
 </div>
 
@@ -86,7 +80,7 @@ In the old days there used to be 1-3 active channels at most times and almost ev
 
 I think the channel drop 'glitch' may well have been a glitch or a bug and from a purest point of view should have been fixed / removed, but its had the unforseen consequence of killing a large part of the sloth social society.
 
-[b:3e0hux0q]I previously raised the arguement that you should let us talk in channel when dead because we can anyway if only we all joined the same chat window / icq, but we play sloth for a reason, we like things simple. Why not add an extra feature to the game, set up a website channel, link to a chat window on the website so we can talk in game whether dead or not, and even join in the channel from the website when not even in the game (logged in to the website of course). [/b:3e0hux0q]
+<strong>I previously raised the arguement that you should let us talk in channel when dead because we can anyway if only we all joined the same chat window / icq, but we play sloth for a reason, we like things simple. Why not add an extra feature to the game, set up a website channel, link to a chat window on the website so we can talk in game whether dead or not, and even join in the channel from the website when not even in the game (logged in to the website of course).</strong> 
 
 Encourage us all to work ad socialise together by building communication tools into the game rather than this silly situation that (even though not the intention) stops us working together, leads to frustration and bad feeling and silly sods like me posting inflammatory and emotive messages on the forum that while in hindsight were probably not the best approach are a true refelction of how I felt at the time.
 
@@ -102,7 +96,7 @@ Excellent idea Thraxis
 
 <div class="post" data-post-id="30024" data-author="Toxis" data-date="2009-09-23T07:49:29+00:00" data-subject="">
 
-Thraxas has a great point.  People joined channels for chat/safety.  Chat promoted friendship and unity and instead of people dropping link to tell people they die, just let it be said in channels from now on.  I think it would promote more people to join together, to talk, to interract.  Why should we be forced to use programs like ICQ and other programs?  I think we need to keep it more "in-house" and not rely on other programs (like the phone, the webpage, and other programs).
+Thraxas has a great point. People joined channels for chat/safety. Chat promoted friendship and unity and instead of people dropping link to tell people they die, just let it be said in channels from now on. I think it would promote more people to join together, to talk, to interract. Why should we be forced to use programs like ICQ and other programs? I think we need to keep it more "in-house" and not rely on other programs (like the phone, the webpage, and other programs).
 
 Good point, Thraxas,
 
@@ -120,7 +114,7 @@ p.s. Is there some sort of 'monotype' opposite to 'stereotypes'?
 
 p.p.s. To those who never get it right: I'm NEVER serious! (well at least not on this site).
 
-p.p.p.s. Nice ideas Thraxas & Juggleblood.
+p.p.p.s. Nice ideas Thraxas \& Juggleblood.
 
 Kida
 
@@ -128,7 +122,7 @@ Kida
 
 <div class="post" data-post-id="30030" data-author="Ezekiel" data-date="2009-09-23T20:48:34+00:00" data-subject="">
 
-I agree with Thraxas' second post, and Brad's follow up as well. There is no point in not allowing us to speak to each other on channels when dead. We, of course, can communicate through some other fashion like ICQ, but from how I see it,  having more people on channels more often leads to communication about more than just death...which is why the channels were integrated in the first place.
+I agree with Thraxas' second post, and Brad's follow up as well. There is no point in not allowing us to speak to each other on channels when dead. We, of course, can communicate through some other fashion like ICQ, but from how I see it, having more people on channels more often leads to communication about more than just death...which is why the channels were integrated in the first place.
 
 </div>
 
@@ -136,23 +130,26 @@ I agree with Thraxas' second post, and Brad's follow up as well. There is no poi
 
 I agree with...
 
-* post #4, paragraph 2, words 2-5
+\* post #4, paragraph 2, words 2-5
 
-* post #2
+\* post #2
 
-* post #2, except paragraph 2, word 4
+\* post #2, except paragraph 2, word 4
 
-* post #9, except the pps
+\* post #9, except the pps
 
- :shock:  :twisted:
+ <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="30032" data-author="*juggleblood*" data-date="2009-09-24T04:10:07+00:00" data-subject="">
 
-I personally enjoyed the previous issue when you had to suffer all these Russian transliterations in exchange for small chance to get raised. Well now it's gone and frankly speaking I'm almost sure it was a racist anti-Russian decision.
-
-Kida[/quote:1ustw47q]
+> <strong>Vixn wrote:</strong>
+> I personally enjoyed the previous issue when you had to suffer all these Russian transliterations in exchange for small chance to get raised. Well now it's gone and frankly speaking I'm almost sure it was a racist anti-Russian decision.
+> 
+> 
+> 
+> Kida
 
 lol, you caught us!
 
@@ -166,7 +163,8 @@ I'll keep you posted.
 
 <div class="post" data-post-id="30033" data-author="Thraxas" data-date="2009-09-24T14:07:43+00:00" data-subject="">
 
-I agree with...[/quote:26w4xjte]
+> <strong>jezer wrote:</strong>
+> I agree with...
 
 I worry when jezer agrees with anything I write 
 
@@ -206,15 +204,17 @@ Splork
 
 <div class="post" data-post-id="30037" data-author="Thraxas" data-date="2009-09-24T21:53:59+00:00" data-subject="">
 
-ct -- Im dead at the spectral guardian
-
-splork -- where is that?
-
-ct -- run is 12wsd4e;open portculis;3edwesn12w;enter mist;en[/quote:1dj5aecf]
+> <strong>\*Splork\* wrote:</strong>
+> ct -- Im dead at the spectral guardian
+> 
+> splork -- where is that?
+> 
+> ct -- run is 12wsd4e;open portculis;3edwesn12w;enter mist;en
 
 Good point, and very true that would add inbalance ... how about your god announcing to those in your channel that you've died?
 
-Corpus Severance will be level 13 necro and 38 cleric on reboot, same as S3, also the percentages of it working have been increased. [/quote:1dj5aecf]
+> <strong>\*Splork\* wrote:</strong>
+> Corpus Severance will be level 13 necro and 38 cleric on reboot, same as S3, also the percentages of it working have been increased.
 
 Nice and very welcome, thankyou. Hopefully its a significant increase in %, and that most players will keep it up constantly, up until now the % success rate has been quite frankly appalling (maybe 1 report a week from 60 or so hours logged in) so much so that I've stopped casting.
 
@@ -234,17 +234,16 @@ Splork
 
 <div class="post" data-post-id="30043" data-author="Clink" data-date="2009-09-25T13:01:54+00:00" data-subject="">
 
-...Encourage us all to work and socialise... 
+> <strong>Thraxas wrote:</strong>
+> ...Encourage us all to work and socialise...
 
-[/quote:3dmb0n8f]
+So here is my take on it. I do think you should use channels to avoid death and corpsing. But the way you should do it is less like an automated safety net and rather more socially.
 
-So here is my take on it.  I do think you should use channels to avoid death and corpsing.  But the way you should do it is less like an automated safety net and rather more socially.
-
-The issues we have with the old implementation is it was silly how easy it was to write a script to alert, ping, and vision immediately upon channel drop.  Joining a channel was almost an automatic guarantee there is no danger to soloing.
+The issues we have with the old implementation is it was silly how easy it was to write a script to alert, ping, and vision immediately upon channel drop. Joining a channel was almost an automatic guarantee there is no danger to soloing.
 
 There should be some danger to soloing.
 
-My encouragement is this:  when you are soloing and about to try something dangerous, tell the people on your channel.
+My encouragement is this: when you are soloing and about to try something dangerous, tell the people on your channel.
 
 "About to stab silver dragon," says Clink
 
@@ -254,7 +253,7 @@ My encouragement is this:  when you are soloing and about to try something dange
 
 "let us know when you are safe..."
 
-<silence>
+\<silence\>
 
 So, as obvious as it is to do this, it is actual socialization on channels that obviate the need for the automatic alerting (not wrapped up in circular logic about newbies and automated rescues).
 
@@ -272,13 +271,13 @@ Kida
 
 <div class="post" data-post-id="30045" data-author="Thraxas" data-date="2009-09-25T16:29:46+00:00" data-subject="">
 
-...Encourage us all to work and socialise... 
-
-[/quote:1wx5ftwh]
-
-There should be some danger to soloing.
-
-[/quote:1wx5ftwh]
+> <strong>Clink wrote:</strong>
+> > <strong>Thraxas wrote:</strong>
+> > ...Encourage us all to work and socialise...
+> 
+> 
+> 
+> There should be some danger to soloing.
 
 Yes there should be the same danger as there is when grouping, groupees already get enough bonuses in terms of greater xp rate and bigger equipment available, but they currently are almost guaranteed someone casting a raise at them where soloists have virtually no chance of this.
 
@@ -296,7 +295,7 @@ T
 
 <div class="post" data-post-id="30046" data-author="*Splork*" data-date="2009-09-25T17:08:09+00:00" data-subject="">
 
-Actually, I disagree wholeheartedly that channel usage is way down because the drop channel bug was removed.  There are several reasons for this and one of them includes the removal of it.
+Actually, I disagree wholeheartedly that channel usage is way down because the drop channel bug was removed. There are several reasons for this and one of them includes the removal of it.
 
 Channel usage has been down since the inception of this Sloth and I believe the major reason is the majority of players are now new to our game and most of them 1)don't know they exist or 2) have a hard time introducing themselves into a channel of strangers...
 
@@ -364,7 +363,7 @@ T
 
 <div class="post" data-post-id="30084" data-author="Stab" data-date="2009-10-04T14:48:04+00:00" data-subject="">
 
-That's great,  I sense an aura of surrender. somewhere. Channels are an excellent enhancement. Um.. The altruistic value of one mudder helping another. Thanks for the great improvements, channels back sets it apart. Especially for those who only spend a few hours a day, die and lose two days solo xp.! whiff
+That's great, I sense an aura of surrender. somewhere. Channels are an excellent enhancement. Um.. The altruistic value of one mudder helping another. Thanks for the great improvements, channels back sets it apart. Especially for those who only spend a few hours a day, die and lose two days solo xp.! whiff
 
 stab
 

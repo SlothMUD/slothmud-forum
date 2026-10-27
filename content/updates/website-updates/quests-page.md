@@ -20,13 +20,13 @@ this page is updated dynamically (that is, if you have set your wwwpass inside t
 
 side note: 
 
-  if you log into the website you can :: 
+ if you log into the website you can :: 
 
-    bookmark pages (link at bottom of each page)
+ bookmark pages (link at bottom of each page)
 
-    see your current auctions on the live auctions page
+ see your current auctions on the live auctions page
 
-    etc
+ etc
 
 </div>
 

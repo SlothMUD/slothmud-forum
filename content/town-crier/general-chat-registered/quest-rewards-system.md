@@ -42,7 +42,7 @@ Thats why i stay away from all quests where rewards are distributed by human bei
 
 <div class="post" data-post-id="18338" data-author="brady" data-date="2007-05-06T16:21:31+00:00" data-subject="">
 
-There are going to be the dissappointed regardless of how eq is distributed.  Personally, I think randoming rewards the complacent but that's just my opinion.  In the end, we were all rewarded.
+There are going to be the dissappointed regardless of how eq is distributed. Personally, I think randoming rewards the complacent but that's just my opinion. In the end, we were all rewarded.
 
 Thanks Akasha...very impressive and appreciated!
 
@@ -60,25 +60,25 @@ Thanks Akasha, Atwell etc.
 
 <div class="post" data-post-id="18343" data-author="Yinao" data-date="2007-05-06T18:42:35+00:00" data-subject="">
 
-I was in the same boat as many others with the ring of the assassin, however, I stayed till the end of the system where some people got what they wanted and some got what they didnt want. Did I mind that some other players characters got rewards after the Immortal directly didnt want to repersonallize a thief prime set of personal sleeves for their alt but anther char scores a ring of the assassin for their thief? There isn't ever going to be a "right" or "fair" way to pick eq out of a bag. The only way to make it fair is make duplicates and if you want one you get one which is never gunna happen.... I got eq that I coulda solo'd to pop but who cares I enjoyed the quest and got drachma I'm happy :D. I dont plan on not entering a quest just because of the quest eq handing out. Handing out any eq is better than just drachma for all and no eq :).
+I was in the same boat as many others with the ring of the assassin, however, I stayed till the end of the system where some people got what they wanted and some got what they didnt want. Did I mind that some other players characters got rewards after the Immortal directly didnt want to repersonallize a thief prime set of personal sleeves for their alt but anther char scores a ring of the assassin for their thief? There isn't ever going to be a "right" or "fair" way to pick eq out of a bag. The only way to make it fair is make duplicates and if you want one you get one which is never gunna happen.... I got eq that I coulda solo'd to pop but who cares I enjoyed the quest and got drachma I'm happy <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">. I dont plan on not entering a quest just because of the quest eq handing out. Handing out any eq is better than just drachma for all and no eq <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">.
 
 </div>
 
 <div class="post" data-post-id="18344" data-author="Akasha" data-date="2007-05-06T19:27:14+00:00" data-subject="">
 
-There is no quote unquote fair system of handling eq distribution in quests.  This is one reason I have stayed away from running any quests for several years.  I said it last night, and I'll say it here, I would have uesd the same method as Atwell to distribute eq, random rolling for want and need.  
+There is no quote unquote fair system of handling eq distribution in quests. This is one reason I have stayed away from running any quests for several years. I said it last night, and I'll say it here, I would have uesd the same method as Atwell to distribute eq, random rolling for want and need. 
 
-Much the same sytem is used in MMORPGs, and much of the same protests arrise with those games as do here, so I fully expect ppl to not be pleased and others to be peachy-keen happy.  
+Much the same sytem is used in MMORPGs, and much of the same protests arrise with those games as do here, so I fully expect ppl to not be pleased and others to be peachy-keen happy. 
 
-My next quest (whenever that might be) might use an alternate method, but I think a lot of people would be highly pissed, but maybe not.  It would require a lot more work on my part, esp if the mud decides to go boom every 5 mnutes again :)  
+My next quest (whenever that might be) might use an alternate method, but I think a lot of people would be highly pissed, but maybe not. It would require a lot more work on my part, esp if the mud decides to go boom every 5 mnutes again <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> 
 
-Have each mob pop a piece of eq, then on the spot roll for it... period.  Afterwhich, if you leave without further contributing to the quest, the item can just go poof and you can be blocked from the rest of the quest,  This method would only allow for 4 or 5 pieces of good eq to be given out and the rest would be drachma or eq that most people wouldn't want anyway.
+Have each mob pop a piece of eq, then on the spot roll for it... period. Afterwhich, if you leave without further contributing to the quest, the item can just go poof and you can be blocked from the rest of the quest, This method would only allow for 4 or 5 pieces of good eq to be given out and the rest would be drachma or eq that most people wouldn't want anyway.
 
-Another method is to have a numbered list of items that only I know the order to, ask each person in the group from top to bottom to pick a number between 1 to X and give them the item that corresponds with that number.  This is an evil method, but it prevents anyone from saying it was unfair.
+Another method is to have a numbered list of items that only I know the order to, ask each person in the group from top to bottom to pick a number between 1 to X and give them the item that corresponds with that number. This is an evil method, but it prevents anyone from saying it was unfair.
 
-All in all, the quest was a success.. I was disappointed that a couple of my primary toys were disabled because of group size, and the story got kinda smashed with the crashes ( I got tired of resetting the story-line mobs after the 5th or 6th time).  
+All in all, the quest was a success.. I was disappointed that a couple of my primary toys were disabled because of group size, and the story got kinda smashed with the crashes ( I got tired of resetting the story-line mobs after the 5th or 6th time). 
 
-Overall I prolly wont be holding another quest of that size for some time (not because of anything that happened or didn't happen, just because its stressful for everyone involved - not matter how fun it is).  I have some in-promto quests that I might run over the next few months (similiar to the mini quests), but we'll see what happens ;)
+Overall I prolly wont be holding another quest of that size for some time (not because of anything that happened or didn't happen, just because its stressful for everyone involved - not matter how fun it is). I have some in-promto quests that I might run over the next few months (similiar to the mini quests), but we'll see what happens <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 Glad you enjoyed,
 
@@ -88,23 +88,23 @@ Akasha
 
 <div class="post" data-post-id="18346" data-author="brady" data-date="2007-05-06T19:56:28+00:00" data-subject="">
 
-Or you could just up the drachma, and screw the eq.  People are going to either gripe that the eq always go to the same people (even though they probably brought the most to the table) or they are going to gripe because randoming for quest eq is bullshit.  Up the drachma so everyone can get something that they actually want and maybe throw in something extra for the leader.
+Or you could just up the drachma, and screw the eq. People are going to either gripe that the eq always go to the same people (even though they probably brought the most to the table) or they are going to gripe because randoming for quest eq is bullshit. Up the drachma so everyone can get something that they actually want and maybe throw in something extra for the leader.
 
 </div>
 
 <div class="post" data-post-id="18347" data-author="12345" data-date="2007-05-06T21:01:36+00:00" data-subject="">
 
-When you got 60+ people in a quest group there's really not much you can do besides random.  It gets really hard to keep track of who contributed what.
+When you got 60+ people in a quest group there's really not much you can do besides random. It gets really hard to keep track of who contributed what.
 
-I've been messing around with an idea that I'm hoping works a little better.  Probably won't, we'll see.
+I've been messing around with an idea that I'm hoping works a little better. Probably won't, we'll see.
 
 </div>
 
 <div class="post" data-post-id="18348" data-author="brady" data-date="2007-05-06T21:23:36+00:00" data-subject="">
 
-In a large group like yesterday's, it would make sense to vote on the top 6 or so pieces and random for the rest.  There are going to be people that go the extra mile and people that hardly even pay attention.  The rewards should really be a reflection of that.
+In a large group like yesterday's, it would make sense to vote on the top 6 or so pieces and random for the rest. There are going to be people that go the extra mile and people that hardly even pay attention. The rewards should really be a reflection of that.
 
-Alas, it was Atwell's call and he did a great job under less than ideal circumstances.  Just my 1.5 cents...
+Alas, it was Atwell's call and he did a great job under less than ideal circumstances. Just my 1.5 cents...
 
 </div>
 
@@ -120,31 +120,31 @@ Also thanks to the people that replied for not merely telling me to stfu, and ac
 
 <div class="post" data-post-id="18350" data-author="Atwell" data-date="2007-05-06T21:38:49+00:00" data-subject="">
 
-I attempted to distribute equipment in a just manner.  The system I used was certainly not egalitarian; I did not intend it to be such.  I used the following principles to guide my decisions:
+I attempted to distribute equipment in a just manner. The system I used was certainly not egalitarian; I did not intend it to be such. I used the following principles to guide my decisions:
 
-1) We should reward those who make unusual contributions with greater priority than those who participate indistinctively.  For this reason, I allowed three people to pick their item and skip the random process.
+1\) We should reward those who make unusual contributions with greater priority than those who participate indistinctively. For this reason, I allowed three people to pick their item and skip the random process.
 
-2) Equipment belongs on characters played earnestly moreso than on players played casually.  When a player values one of his characters above all his others, he brings that character to quests.  It is by this judgement that I restricted a roll to prime thieves actually present.
+2\) Equipment belongs on characters played earnestly moreso than on players played casually. When a player values one of his characters above all his others, he brings that character to quests. It is by this judgement that I restricted a roll to prime thieves actually present.
 
-3) Equipment belongs in the hands of those for whom it effects the largest proportional gain in power versus optimal play with in-game equipment.  I considered this principle in similarly restricting a roll on a piece of necromancer-oriented equipment.
+3\) Equipment belongs in the hands of those for whom it effects the largest proportional gain in power versus optimal play with in-game equipment. I considered this principle in similarly restricting a roll on a piece of necromancer-oriented equipment.
 
-I list these in rough order of priority; they do conflict at times.  I also applied principles 2 and 3 inconsistently, and this much was a mistake.  I should have placed classo restrictions on all the out-of-game equipment, or on none of it.  Furthermore, I would have announced this when asking for gjobs.
+I list these in rough order of priority; they do conflict at times. I also applied principles 2 and 3 inconsistently, and this much was a mistake. I should have placed classo restrictions on all the out-of-game equipment, or on none of it. Furthermore, I would have announced this when asking for gjobs.
 
-A purely egalitarian system, such as randoming for everything or junking everything, certainly would have been simpler and less contentious.  I do find a lack of justice in random rolls.  So far they appear to be a necessary evil, but I attempted to mitigate their influence by applying the above principles.
+A purely egalitarian system, such as randoming for everything or junking everything, certainly would have been simpler and less contentious. I do find a lack of justice in random rolls. So far they appear to be a necessary evil, but I attempted to mitigate their influence by applying the above principles.
 
-I would love to find an equipment distribution scheme that everyone can find contentment with.  So far, I haven't seen or imagined one.  Here are some of the systems I have seen used, with the number of times I recall witnessing their use:
+I would love to find an equipment distribution scheme that everyone can find contentment with. So far, I haven't seen or imagined one. Here are some of the systems I have seen used, with the number of times I recall witnessing their use:
 
-1) Leader picks, then the "star player" (person who found many clues or such), then tank and down the prot order.
+1\) Leader picks, then the "star player" (person who found many clues or such), then tank and down the prot order.
 
-2) Each player gjobs a vote for the player who will pick next.  In practice, this works very much like method (1) for the first several picks.
+2\) Each player gjobs a vote for the player who will pick next. In practice, this works very much like method (1) for the first several picks.
 
-3) Each player randoms; highest roller picks one item and leaves.  Repeat until all items are distributed.
+3\) Each player randoms; highest roller picks one item and leaves. Repeat until all items are distributed.
 
-4) Only one notable piece of equipment; leader takes it.
+4\) Only one notable piece of equipment; leader takes it.
 
-The third method attracted the least murmuring.  I do not know which was regarded as most just.  I didn't particularly like any of them, so I used a hybrid of (1) and (3), but with the controversial classo constraints.  I also did things in the wrong order; even assuming no either changes to the method, it would have been better to have all three priority pickers choose before asking everyone else to gjob their interests.
+The third method attracted the least murmuring. I do not know which was regarded as most just. I didn't particularly like any of them, so I used a hybrid of (1) and (3), but with the controversial classo constraints. I also did things in the wrong order; even assuming no either changes to the method, it would have been better to have all three priority pickers choose before asking everyone else to gjob their interests.
 
-I regret that you regard my actions as disgustingly mocking fairness, Rynquald.  I welcome discussion on the validity of my principles. the soundness of my implementation, and proposals for a better system.
+I regret that you regard my actions as disgustingly mocking fairness, Rynquald. I welcome discussion on the validity of my principles. the soundness of my implementation, and proposals for a better system.
 
 </div>
 
@@ -158,65 +158,65 @@ I do appreciate the difficult position a leader is placed in at the end of a que
 
 <div class="post" data-post-id="18352" data-author="Mosaix" data-date="2007-05-06T22:10:42+00:00" data-subject="">
 
-Thanks Akasha for what was a ton of fun the last 2 weeks.  The build up, mini quests and end quest were all fun.
+Thanks Akasha for what was a ton of fun the last 2 weeks. The build up, mini quests and end quest were all fun.
 
 I especially enjoyed the mobs, some of which did new stuff that was fun to die to and figure out how to defeat the mob etc.
 
-The drachma was excellent.  Without a doubt the most ive ever seen in a quest series.
+The drachma was excellent. Without a doubt the most ive ever seen in a quest series.
 
-The eq at the end, was the most good stuff ive seen ever.  The total of the bag of goodies was quite pleantiful.
+The eq at the end, was the most good stuff ive seen ever. The total of the bag of goodies was quite pleantiful.
 
 Now to comment to this thread.
 
 Ive posted already in another thread recently about things that I think could be done to fix the quest eq system.
 
-1.)  Cap players ability to take quest eq say at 2-3 pieces.  
+1.) Cap players ability to take quest eq say at 2-3 pieces. 
 
-"flag" a player each time they take quest eq.  If a player wants to trade in a piece to take another piece they can do so, and the traded in piece goes to the pile for the group to pick.
+"flag" a player each time they take quest eq. If a player wants to trade in a piece to take another piece they can do so, and the traded in piece goes to the pile for the group to pick.
 
-2.) Each time you take quest eq you have to donate "something" to the group pile.  Everyone here has enough junk its time to step up to the plate for those below you.
+2.) Each time you take quest eq you have to donate "something" to the group pile. Everyone here has enough junk its time to step up to the plate for those below you.
 
-3.) Keep using drachma.  Its the "fairest" system that exist and everyone benefits equally.  Perhaps simply add more/all quest eq to the shops and thats that except on truly exceptional occasions.
+3.) Keep using drachma. Its the "fairest" system that exist and everyone benefits equally. Perhaps simply add more/all quest eq to the shops and thats that except on truly exceptional occasions.
 
-4.) the leader and tank are important and fairly rewarded.  At what point does the cleric and mage get rewarded for all their work in quests?
+4.) the leader and tank are important and fairly rewarded. At what point does the cleric and mage get rewarded for all their work in quests?
 
-After all the raising and healing my ass is always thrown to the back of the line each quest.  Make up some mage/necro/druid/cleric PRIME quest eq.
+After all the raising and healing my ass is always thrown to the back of the line each quest. Make up some mage/necro/druid/cleric PRIME quest eq.
 
-5.) As a quest ends, those who participate in a quest can ONLY pick for the character that performed in the quest.  Example a tank couldnt pull the clericky eq cause it was the best available and put it on his alt lowbie that he/she is working on.  
+5.) As a quest ends, those who participate in a quest can ONLY pick for the character that performed in the quest. Example a tank couldnt pull the clericky eq cause it was the best available and put it on his alt lowbie that he/she is working on. 
 
-6.) at the end of a major quest, let each player "select" quest eq.  As a specific piece of eq is requested to the immortal it goes off the board.
+6.) at the end of a major quest, let each player "select" quest eq. As a specific piece of eq is requested to the immortal it goes off the board.
 
-Nekode for example would only be awarded once.  I like this the most because all could pick quest eq for the "quest" they participated in.
+Nekode for example would only be awarded once. I like this the most because all could pick quest eq for the "quest" they participated in.
 
-Cap it at 10-20 pieces and then only let players "select"  ingame eq or something if that is too generous.
+Cap it at 10-20 pieces and then only let players "select" ingame eq or something if that is too generous.
 
 Now Atwell....
 
-You led what was a chaotic mess and got quest eq.  Great. 
+You led what was a chaotic mess and got quest eq. Great. 
 
-Though for example why are chars like Madmax/Brady and Myself any less important?  Why do we not get the pathetically fair chance to at least random for quest eq.  We all did tons of work to keep the tank alive and move the process forward.  Hey its OK to reward Clerics and Mages it really is, we do tons of work most of you could give a shit about as long as your paid out.
+Though for example why are chars like Madmax/Brady and Myself any less important? Why do we not get the pathetically fair chance to at least random for quest eq. We all did tons of work to keep the tank alive and move the process forward. Hey its OK to reward Clerics and Mages it really is, we do tons of work most of you could give a shit about as long as your paid out.
 
-You system of giving out eq sucked for one main reason.  You kept altering the terms of reward.
+You system of giving out eq sucked for one main reason. You kept altering the terms of reward.
 
-You picked, toxis picked.  Fine.
+You picked, toxis picked. Fine.
 
 You then said to Gjob the eq you wanted and the rest would be randomed.
 
-Some people who were the only ones to request a prize got that prize.  Thats fine and quite fair.
+Some people who were the only ones to request a prize got that prize. Thats fine and quite fair.
 
-About 4-5 pieces in, you decide to hand some high prizes to people who maybe led but 1 of the mini's.  
+About 4-5 pieces in, you decide to hand some high prizes to people who maybe led but 1 of the mini's. 
 
-Bulllllshiiiittttt.  Those mini's first of all were seperate and everyone was rewarded for them at that time.
+Bulllllshiiiittttt. Those mini's first of all were seperate and everyone was rewarded for them at that time.
 
-What should of happend is those high pieces should have been randomed as stipulated by you in the beginning of the hand outs as the way to distribute the eq.  This way I and other who work their asses of for leaders like you can at least dream the chance of getting quest eq.
+What should of happend is those high pieces should have been randomed as stipulated by you in the beginning of the hand outs as the way to distribute the eq. This way I and other who work their asses of for leaders like you can at least dream the chance of getting quest eq.
 
-Maybe cause you leaders get quest eq everytime you lead, you cant see that far ahead for the others doing the work for you.  
+Maybe cause you leaders get quest eq everytime you lead, you cant see that far ahead for the others doing the work for you. 
 
-You created reward terms you should have sticked to it cause its what the group agreed to do.  You couldnt have finished the quest without the group so really it is unfair to stand up like a dictator and willy nilly the prizes away.  
+You created reward terms you should have sticked to it cause its what the group agreed to do. You couldnt have finished the quest without the group so really it is unfair to stand up like a dictator and willy nilly the prizes away. 
 
-The quest prize system is truly screwed up.  And while it will never be 100% fair, it does need to be tweaked so those who do all the actual work, can see the daylight of quest eq once in a while.
+The quest prize system is truly screwed up. And while it will never be 100% fair, it does need to be tweaked so those who do all the actual work, can see the daylight of quest eq once in a while.
 
-I say during the next major quest, both the tank and the leader have to random for quest eq.  So they can see what it feels like to walk away with flop after 5 hours burning mana for pigs.
+I say during the next major quest, both the tank and the leader have to random for quest eq. So they can see what it feels like to walk away with flop after 5 hours burning mana for pigs.
 
 Mosaix/Broc
 
@@ -224,9 +224,9 @@ Mosaix/Broc
 
 <div class="post" data-post-id="18353" data-author="Elwood" data-date="2007-05-06T23:25:32+00:00" data-subject="">
 
-I've run a million of them and there really is no way to make everyone happy Dave.  I've even just created items that people needed on a personal basis as the quest reward and still had people cry.  Sounds like you did a great job and put a lot of effort into it.  Good job.
+I've run a million of them and there really is no way to make everyone happy Dave. I've even just created items that people needed on a personal basis as the quest reward and still had people cry. Sounds like you did a great job and put a lot of effort into it. Good job.
 
--Elwood
+\-Elwood
 
 </div>
 
@@ -242,9 +242,10 @@ Let the random function and the voice of the group take the blame for being at f
 
 <div class="post" data-post-id="18355" data-author="Akasha" data-date="2007-05-07T00:21:04+00:00" data-subject="">
 
-You picked, toxis picked.  Fine.
-
-Mosaix/Broc[/quote:2cmaljct]
+> <strong>Mosaix wrote:</strong>
+> You picked, toxis picked. Fine.
+> 
+> Mosaix/Broc
 
 Actually no, I picked Toxis
 
@@ -252,19 +253,19 @@ Actually no, I picked Toxis
 
 <div class="post" data-post-id="18356" data-author="madmax" data-date="2007-05-07T01:12:36+00:00" data-subject="">
 
-I enjoyed the miniquests and the final one, it was becoming difficult to stay awake through the eq mess at the end thougt, since it was 3:30 am.  Kudos to Akasha, Atwell, Toxis, etc.  Like Mosaix, I have participated in many quests.  Only once have I ever received any decent items of the handed out variety.  The only reason I got that one was the item was Cleric Prime restricted.  I lost count of how many raises I did, I only shocked one player as I remember.  I was basically constantly out of mana from the heals, raises, etc.  
+I enjoyed the miniquests and the final one, it was becoming difficult to stay awake through the eq mess at the end thougt, since it was 3:30 am. Kudos to Akasha, Atwell, Toxis, etc. Like Mosaix, I have participated in many quests. Only once have I ever received any decent items of the handed out variety. The only reason I got that one was the item was Cleric Prime restricted. I lost count of how many raises I did, I only shocked one player as I remember. I was basically constantly out of mana from the heals, raises, etc. 
 
-I can san truely say there are problems with the current system, however fixing them is a very difficult problem.  I have a thought for some quest prizes that I hope may help the situation.
+I can san truely say there are problems with the current system, however fixing them is a very difficult problem. I have a thought for some quest prizes that I hope may help the situation.
 
-Create a Golden Token.  The this token would allow the user transfer one piece of personal equipment from one player to another.  The only restriction would be that the equipment going to the other player must be useable by the player the equipment is sent to.
+Create a Golden Token. The this token would allow the user transfer one piece of personal equipment from one player to another. The only restriction would be that the equipment going to the other player must be useable by the player the equipment is sent to.
 
-For us middle of the pack kind of players that do alot, but are never high enough to get any good eq, this would be a nice option.  I wouldn't like to see alot of these given out, but I could see maybe 1 token per 10 participants in a give quest. 
+For us middle of the pack kind of players that do alot, but are never high enough to get any good eq, this would be a nice option. I wouldn't like to see alot of these given out, but I could see maybe 1 token per 10 participants in a give quest. 
 
-Another idea, Create a Diamond Token.  This token would permenantly remove the personal restriction from a given item.  This would allow iit to be fully traded, sold, etc.  Since there are already quest eq that is given out without the restrictions, this is just an extention of the already given out eq system.  This token would be very similar to any Medium or High eq, i.e. 1 to 2 per quest.
+Another idea, Create a Diamond Token. This token would permenantly remove the personal restriction from a given item. This would allow iit to be fully traded, sold, etc. Since there are already quest eq that is given out without the restrictions, this is just an extention of the already given out eq system. This token would be very similar to any Medium or High eq, i.e. 1 to 2 per quest.
 
-Personally I appreciate the drachma that I gained in the quests.  However, there is not really any items that are sold in the drachma shops that would be beneficial to Madmax.  The only real use of drachma that I could think of would be for restring tokens.   I know ther are other players with the same troubles.  Yes, I could bring a different on for the quest, but my thought is to bring the character that is most useful that I can play.  
+Personally I appreciate the drachma that I gained in the quests. However, there is not really any items that are sold in the drachma shops that would be beneficial to Madmax. The only real use of drachma that I could think of would be for restring tokens. I know ther are other players with the same troubles. Yes, I could bring a different on for the quest, but my thought is to bring the character that is most useful that I can play. 
 
-The use of tokens such as these, in my opinion, would add to the drachma system, not hinder it.  
+The use of tokens such as these, in my opinion, would add to the drachma system, not hinder it. 
 
 The humble cleric,
 
@@ -274,11 +275,13 @@ Madmax
 
 <div class="post" data-post-id="18357" data-author="Malison" data-date="2007-05-07T01:16:28+00:00" data-subject="">
 
-[quote:2dqspbeo]2) Equipment belongs on characters played earnestly moreso than on players played casually. When a player values one of his characters above all his others, he brings that character to quests. It is by this judgement that I restricted a roll to prime thieves actually present.[/quote:2dqspbeo]
+> <strong>Quote:</strong>
+> 2\) Equipment belongs on characters played earnestly moreso than on players played casually. When a player values one of his characters above all his others, he brings that character to quests. It is by this judgement that I restricted a roll to prime thieves actually present.
 
-It's certainly right for eq to go to a char that will use it more often.  But it's not necesarily true that you bring your most-valued character to quests.  For example, I quest with Aviendha because she's in sore need of drachma and is still useful in a group, but in truth I much prefer playing Verin.  And I think you'd agree it's better to have several high-level warriors and/or casters instead of their level 20 thieves in the quest group trying to get the gear they want instead of being useful.
+It's certainly right for eq to go to a char that will use it more often. But it's not necesarily true that you bring your most-valued character to quests. For example, I quest with Aviendha because she's in sore need of drachma and is still useful in a group, but in truth I much prefer playing Verin. And I think you'd agree it's better to have several high-level warriors and/or casters instead of their level 20 thieves in the quest group trying to get the gear they want instead of being useful.
 
-[quote:2dqspbeo]About 4-5 pieces in, you decide to hand some high prizes to people who maybe led but 1 of the mini's. [/quote:2dqspbeo]
+> <strong>Quote:</strong>
+> About 4-5 pieces in, you decide to hand some high prizes to people who maybe led but 1 of the mini's.
 
 The only person I saw get anything for the leading of minis was Minstrel.
 
@@ -296,17 +299,18 @@ Minstrel again (Plate and Standard)
 
 I don't see an issue with giving a reward to the person responsible for leading half of the introductory questing (and remember these miniquests were so that we didn't have to do them all at the same time as the main event, so they're still a part of it)
 
-[quote:2dqspbeo]Those mini's first of all were seperate and everyone was rewarded for them at that time.[/quote:2dqspbeo]
+> <strong>Quote:</strong>
+> Those mini's first of all were seperate and everyone was rewarded for them at that time.
 
-Again, the minis were only separate so we didn't have to be questing for 24 hours straight, only 7.  And the reward was a flat drachma rate, which is strictly contrary to the idea that the leader actually matters..
+Again, the minis were only separate so we didn't have to be questing for 24 hours straight, only 7. And the reward was a flat drachma rate, which is strictly contrary to the idea that the leader actually matters..
 
-Atwell's method of distribution was very near ideal.  The main downside in my opinion was that people could freely change their call.  Calling item in gjob was fine, it's a good way to see if there's uncontested items, and giving them out right away is good too.  But when, for example, about 6 people changed their calls to the Ring of Assassin after they lost the random for their item, it cheapens the fact that several people had been trying the whole time for it and hadn't gotten to random for what might have been their second choice.
+Atwell's method of distribution was very near ideal. The main downside in my opinion was that people could freely change their call. Calling item in gjob was fine, it's a good way to see if there's uncontested items, and giving them out right away is good too. But when, for example, about 6 people changed their calls to the Ring of Assassin after they lost the random for their item, it cheapens the fact that several people had been trying the whole time for it and hadn't gotten to random for what might have been their second choice.
 
-The fix for this would be everyone gjobs one item, and then no one changes it until all randoming and giving-out is done for all those items.  Only after everyone's first call is gone should you be given a second shot.
+The fix for this would be everyone gjobs one item, and then no one changes it until all randoming and giving-out is done for all those items. Only after everyone's first call is gone should you be given a second shot.
 
-On the other hand, I would like to see the most-valuable caster get to pick when leader and tank do.  They really are that important...if you doubt that watch Toxis try to tank these quest mobs without any casters around to heal or blast.  He's an amazing tank, but you really need the Madmax's, Mosaix's, and Laman's to keep him (and thus the group) alive.
+On the other hand, I would like to see the most-valuable caster get to pick when leader and tank do. They really are that important...if you doubt that watch Toxis try to tank these quest mobs without any casters around to heal or blast. He's an amazing tank, but you really need the Madmax's, Mosaix's, and Laman's to keep him (and thus the group) alive.
 
-Although I have doubts about the validity of a MVP or MVcaster system ever since noticing clan groups.  Nuff said.
+Although I have doubts about the validity of a MVP or MVcaster system ever since noticing clan groups. Nuff said.
 
 And once again thanks to Akasha and Atwell for great quest, good prizes, and great drachma.
 
@@ -314,11 +318,11 @@ And once again thanks to Akasha and Atwell for great quest, good prizes, and gre
 
 <div class="post" data-post-id="18358" data-author="tincts" data-date="2007-05-07T01:17:53+00:00" data-subject="">
 
-My one suggestion would be that leader comes up with whatever system they choose (assuming they can guess roughly what form the rewards will be in) and posts this system before the quest.  Again, this will only work for preannounced quests, but then people know what is involved, and there can be no accusations.  
+My one suggestion would be that leader comes up with whatever system they choose (assuming they can guess roughly what form the rewards will be in) and posts this system before the quest. Again, this will only work for preannounced quests, but then people know what is involved, and there can be no accusations. 
 
-I'm inclined to agree with the complaints of the clerics - myself for example, did all I could to contribute for the duration of the quest.  But if I suddenly vanished, it wouldn't have made a great difference.  Loose a few clerics, however . . . 
+I'm inclined to agree with the complaints of the clerics - myself for example, did all I could to contribute for the duration of the quest. But if I suddenly vanished, it wouldn't have made a great difference. Loose a few clerics, however . . . 
 
-Was a great quest, I thought the reward handout was at least attempted to be fair.  As Atwell said, a change in the rules part way through will always call problems.  Inconsistency in leadership is the major cause of lowered morale :)  Atwell, well done in trying circumstances.
+Was a great quest, I thought the reward handout was at least attempted to be fair. As Atwell said, a change in the rules part way through will always call problems. Inconsistency in leadership is the major cause of lowered morale <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> Atwell, well done in trying circumstances.
 
 </div>
 
@@ -326,7 +330,7 @@ Was a great quest, I thought the reward handout was at least attempted to be fai
 
 To akasha
 
-on that specific quote i really just meant the record of what occured.  They went, then it was decided to random.
+on that specific quote i really just meant the record of what occured. They went, then it was decided to random.
 
 </div>
 
@@ -340,7 +344,8 @@ Nekode/Gauntlets were gjobbed by a lot of people, they had to do something.
 
 <div class="post" data-post-id="18362" data-author="Weasel" data-date="2007-05-07T01:48:36+00:00" data-subject="">
 
-In a large group like yesterday's, it would make sense to vote on the top 6 or so pieces and random for the rest.[/quote:3dgglu4d]
+> <strong>brady wrote:</strong>
+> In a large group like yesterday's, it would make sense to vote on the top 6 or so pieces and random for the rest.
 
 While I agree on the idea of majority vote, a quest I was in last year consisted of about 60 or 70% members from one specific clan, and they used their clan channel to agree to vote for a different member of their clan each time a new piece of eq came up until all the decent eq was gone, regardless of who actually deserved it. Ever since then I am against the voting method, purely for that reason. If it weren't for that abuse, I'd still be totally for it.
 
@@ -400,9 +405,9 @@ al
 
 I got Jet-Black Shoulder Guards
 
--0.7ac, +1 Con, +1 Ma Regen
+\-0.7ac, +1 Con, +1 Ma Regen
 
-Not too shabby   :D
+Not too shabby <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -410,29 +415,30 @@ Not too shabby   :D
 
 this was one of the most intricate storyline-based quests I've seen on the mud in a long time...I can't believe this thread even exists...even though I wasn't in it, I followed the events -my compliments--you guys need to except the intrinsic fact that giving out eq at the end of the quest is NEVER going to be perfect, or satisfy everyone all the time. by trying to find a coded 'system' for it, your only going to make it worse! 
 
-In situations like this, human judgement and spontineity will always be the best to decide--from the key positions of the group on down from the most to the least usefull--in my opinion, that works best every time...also, you guys need to realize that several new,  intermediate, (and older) players got eq they not only never had, but some have never seen! Akasha gave sloth a shot in the arm it hasn't had in a while and re-circulated some nice pieces back into the game--look at the big picture!
+In situations like this, human judgement and spontineity will always be the best to decide--from the key positions of the group on down from the most to the least usefull--in my opinion, that works best every time...also, you guys need to realize that several new, intermediate, (and older) players got eq they not only never had, but some have never seen! Akasha gave sloth a shot in the arm it hasn't had in a while and re-circulated some nice pieces back into the game--look at the big picture!
 
-<Shazuko Roku Ryuu>
+\<Shazuko Roku Ryuu\>
 
-<Shazuko Six Dragons>
+\<Shazuko Six Dragons\>
 
-<~Chaos~>
+\<\~Chaos\~\>
 
----
+\---
 
 INGENIUM RES ADVERSAE NUDARE SOLENT, CELARE SECUNDAE.
 
-          (Adversity reveals genius, prosperity conceals it.)
+ (Adversity reveals genius, prosperity conceals it.)
 
-                                         ~Horace
+ \~Horace
 
 </div>
 
 <div class="post" data-post-id="18373" data-author="Autolycos" data-date="2007-05-07T14:44:41+00:00" data-subject="">
 
-what else did I miss?  fess up folks what did everyone else get[/quote:y2cn1u7s]
+> <strong>13 wrote:</strong>
+> what else did I miss? fess up folks what did everyone else get
 
-Akasha Rockz..  A huge ROGL to you Akasha.
+Akasha Rockz.. A huge ROGL to you Akasha.
 
 You feel informed:
 
@@ -446,9 +452,9 @@ AC-apply is -0.1
 
 Can affect you as:
 
-    Affects: DAMROLL by 1
+ Affects: DAMROLL by 1
 
-    Affects: DEX by -1
+ Affects: DEX by -1
 
 Only those who are at least master thieves and supreme warriors may use this item.
 
@@ -456,13 +462,14 @@ Only those who are at least master thieves and supreme warriors may use this ite
 
 <div class="post" data-post-id="18374" data-author="banedon" data-date="2007-05-07T15:04:06+00:00" data-subject="">
 
-something went wrong with the inital post.  This is how it was supposed to look
+something went wrong with the inital post. This is how it was supposed to look
 
-and some drachma for all, what else did I miss?
+> <strong>13 wrote:</strong>
+> and some drachma for all, what else did I miss?
+> 
+> fess up folks what did everyone else get
 
-fess up folks what did everyone else get[/quote:3h9re53b]
-
-I got the Shirt of Mithril Rings -2.5ac   +5 HP, +1 HP Regen	ST SW SBa SMo [OR] 2x40 Forged
+I got the Shirt of Mithril Rings -2.5ac +5 HP, +1 HP Regen	ST SW SBa SMo [OR] 2x40 Forged
 
 </div>
 
@@ -470,9 +477,9 @@ I got the Shirt of Mithril Rings -2.5ac   +5 HP, +1 HP Regen	ST SW SBa SMo [OR] 
 
 I can only see 2 fair methods of distributing quest eq:
 
-1) Immortal that runs a quest announces the order in which ppl pick items
+1\) Immortal that runs a quest announces the order in which ppl pick items
 
-2) Leader does the same
+2\) Leader does the same
 
 I received a few tells after I got my reward, ppl were wondering what "special" kind of job I did. Well, I think that could happen in two cases. Either they didn't pay enough attention to what is happening or there was some other reason they didn't get it, like I didn't report on grouptell each time I was doing something useful.
 
@@ -484,7 +491,7 @@ Also I think that blaming leader for anything isn't just right. You don't like y
 
 Now please quit your silly moping and turn your heart to the creator. Amen.
 
-:-)
+<img src="/images/smilies/icon_e_smile.svg" alt=":-)" title=":-)" width="15" height="15" class="smiley nozoom">
 
 P.S. Grand respect to Atwell and Akasha.
 
@@ -494,9 +501,9 @@ P.S. Grand respect to Atwell and Akasha.
 
 I can only see 2 fair methods of distributing quest eq:
 
-1) Immortal that runs a quest announces the order in which ppl pick items
+1\) Immortal that runs a quest announces the order in which ppl pick items
 
-2) Leader does the same
+2\) Leader does the same
 
 I received a few tells after I got my reward, ppl were wondering what "special" kind of job I did. Well, I think that could happen in two cases. Either they didn't pay enough attention to what is happening or there was some other reason they didn't get it, like I didn't report on grouptell each time I was doing something useful.
 
@@ -508,7 +515,7 @@ Also I think that blaming leader for anything isn't just right. You don't like y
 
 Now please quit your silly moping and turn your heart to the creator. Amen.
 
-:-)
+<img src="/images/smilies/icon_e_smile.svg" alt=":-)" title=":-)" width="15" height="15" class="smiley nozoom">
 
 P.S. Grand respect to Atwell and Akasha.
 
@@ -534,13 +541,13 @@ what did you get?
 
 I agree Messiaen is gay!
 
-Yinao confirmed it! :twisted:
+Yinao confirmed it! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="18391" data-author="Messiaen" data-date="2007-05-07T20:45:44+00:00" data-subject="">
 
-Object 'gauntlets black despair quest low limit given_out ', Item type: UNDEFINED
+Object 'gauntlets black despair quest low limit given\_out ', Item type: UNDEFINED
 
 Item is: GLOW CAN-SHAPESHIFT
 
@@ -548,9 +555,9 @@ Weight: 0, Value: 50000000, Worn in: TAKE HANDS
 
 Can affect you as:
 
-    Affects: MANA by 20
+ Affects: MANA by 20
 
-    Affects: REGEN_MANA by 1
+ Affects: REGEN\_MANA by 1
 
 Only those who are at least adept magic users, clerics, druids,
 
@@ -560,9 +567,9 @@ necromancers, or monks may use this item.
 
 <div class="post" data-post-id="18392" data-author="Avalon" data-date="2007-05-07T21:55:30+00:00" data-subject="">
 
-The only true fair method I've ever seen for distributing quest equipment was  done by Kjartan a few years ago.  He created an unique item (soapstone rose) and gave every member in the quest party a rose.  That's probably the only method that would be totally fair.  (There are only 7 of those roses in the game... and I gave mine away)
+The only true fair method I've ever seen for distributing quest equipment was done by Kjartan a few years ago. He created an unique item (soapstone rose) and gave every member in the quest party a rose. That's probably the only method that would be totally fair. (There are only 7 of those roses in the game... and I gave mine away)
 
-Create an unique item for each quest and give that same item to every member, and never hand it out again.  It has the double bonus of making every quest memorable and unique.
+Create an unique item for each quest and give that same item to every member, and never hand it out again. It has the double bonus of making every quest memorable and unique.
 
 Thoughts?
 
@@ -576,7 +583,8 @@ Okay, whats the motivation to be useful for a group then?
 
 <div class="post" data-post-id="18396" data-author="brady" data-date="2007-05-07T23:31:53+00:00" data-subject="">
 
-Now please quit your silly moping and turn your heart to the creator. Amen.[/quote:599ehfan]
+> <strong>Messiaen wrote:</strong>
+> Now please quit your silly moping and turn your heart to the creator. Amen.
 
 Point me in the direction of Jake.
 
@@ -584,9 +592,9 @@ Point me in the direction of Jake.
 
 <div class="post" data-post-id="18397" data-author="Avalon" data-date="2007-05-07T23:56:20+00:00" data-subject="">
 
-If you need motivation for questing, then you've already lost the spirit of questing itself wouldn't you say?  And there's always the option of having the quest item for the group being improved or decreased based on the group's abilities.
+If you need motivation for questing, then you've already lost the spirit of questing itself wouldn't you say? And there's always the option of having the quest item for the group being improved or decreased based on the group's abilities.
 
-As an example, take the Celestials Quest that we just completed.  What if instead of the rewards that were given out at the end, we were all given this:
+As an example, take the Celestials Quest that we just completed. What if instead of the rewards that were given out at the end, we were all given this:
 
 Object 'Celestial Shroud Quest', Item type: ARMOR
 
@@ -598,19 +606,19 @@ AC-apply is -0.7
 
 Can affect you as:
 
-Affects: RESIST_CHEMICAL by 10
+Affects: RESIST\_CHEMICAL by 10
 
-I'm just proffering ideas.  There could also be another set of unique items given out by the immortal's discretion to deserving members of the quest group - in addition to the regular prize everybody got.
+I'm just proffering ideas. There could also be another set of unique items given out by the immortal's discretion to deserving members of the quest group - in addition to the regular prize everybody got.
 
 </div>
 
 <div class="post" data-post-id="18398" data-author="Medios" data-date="2007-05-08T00:14:20+00:00" data-subject="">
 
-After reading some of these posts I decided to hand my thorny vine bracelet down to Rynquald.  I know he was wanting something for his thief.  Although it is only a weekly thief item it is still out of game eq.  There you go Broc I passed down some "quest" eq for what I received.  It is sad that the only alternative you guys think of is "not handing out quest eq".  Somebody try leading a 20 man group then get back to me.  Good job Atwell I know how much of a pain these guys can be.  Much thanks to Akasha for running this well thought out quest.
+After reading some of these posts I decided to hand my thorny vine bracelet down to Rynquald. I know he was wanting something for his thief. Although it is only a weekly thief item it is still out of game eq. There you go Broc I passed down some "quest" eq for what I received. It is sad that the only alternative you guys think of is "not handing out quest eq". Somebody try leading a 20 man group then get back to me. Good job Atwell I know how much of a pain these guys can be. Much thanks to Akasha for running this well thought out quest.
 
 Mike
 
-PS 130 drachma just for the finale, Good God.  I remember Zarc killing us for 3 hours with tarrasque then letting some of our eq get looted and renting.
+PS 130 drachma just for the finale, Good God. I remember Zarc killing us for 3 hours with tarrasque then letting some of our eq get looted and renting.
 
 </div>
 
@@ -618,25 +626,25 @@ PS 130 drachma just for the finale, Good God.  I remember Zarc killing us for 3 
 
 Messiaen's post is written through some sort of rose colored glasses.
 
-The system of prize giving was altered mid-stream so you could pluck a high item, id say thats rather special.  
+The system of prize giving was altered mid-stream so you could pluck a high item, id say thats rather special. 
 
-Shame on you Messiaen.  I implore all clerics to not heal or raise during the next quest.  See how well you do with a 15wis warrior with cleric quad doing the raises and heals.  Madmax and I heal for over 400 per restore, i fully guarantee with him I and whoever else healing, was the only reason the tank even stayed alive when it was loosing 800-1000hps a round.  Good luck completing this last style of quest with tert and quad cleric restores with no healbonus eq. 
+Shame on you Messiaen. I implore all clerics to not heal or raise during the next quest. See how well you do with a 15wis warrior with cleric quad doing the raises and heals. Madmax and I heal for over 400 per restore, i fully guarantee with him I and whoever else healing, was the only reason the tank even stayed alive when it was loosing 800-1000hps a round. Good luck completing this last style of quest with tert and quad cleric restores with no healbonus eq. 
 
 Just because those who do the work are taken for granted, doesnt give Messiaens the ground to stand on to try to keep us quiet when we get loud about it.
 
-Im going to ask the question again, what makes the leader and tank so important that in EVERY quest they get the highest prizes.  At what point do those actually doing work for the group during a quest get rewards?
+Im going to ask the question again, what makes the leader and tank so important that in EVERY quest they get the highest prizes. At what point do those actually doing work for the group during a quest get rewards?
 
-Why on earth cant blasters and healers get good prizes on at least a semi-regular basis?  Questing as a group should yield proper quest rewards.  The leader and tank cant do it on their own, yet are reaping the highest eq on a regular basis of the work of the group as a whole.
+Why on earth cant blasters and healers get good prizes on at least a semi-regular basis? Questing as a group should yield proper quest rewards. The leader and tank cant do it on their own, yet are reaping the highest eq on a regular basis of the work of the group as a whole.
 
-Set limits to what an individual can horde in quest eq.  That quest eq is vaulted on this game is point enough to prove the prior sentence.  
+Set limits to what an individual can horde in quest eq. That quest eq is vaulted on this game is point enough to prove the prior sentence. 
 
-Hold a quest with all the eq thats been vaulted for over 2 years.  Id bet the eq bag would be legendary.
+Hold a quest with all the eq thats been vaulted for over 2 years. Id bet the eq bag would be legendary.
 
 Akashas quest was fantastic and im going to say it again and again.
 
-The eq given out was impressive, let alone the reward of group drachma during the 2 weeks.  Never in my 14 years of playing have i been in a group with that much stuff at the end.  
+The eq given out was impressive, let alone the reward of group drachma during the 2 weeks. Never in my 14 years of playing have i been in a group with that much stuff at the end. 
 
-My rant in this thread is for when the quests dont have this level of fun and stuff, and or to correct the leader and tank always getting the highest prizes each time.  They do good work and make it fun, but so do the rest of us.
+My rant in this thread is for when the quests dont have this level of fun and stuff, and or to correct the leader and tank always getting the highest prizes each time. They do good work and make it fun, but so do the rest of us.
 
 Mosaix
 
@@ -644,9 +652,10 @@ Mosaix
 
 <div class="post" data-post-id="18400" data-author="brady" data-date="2007-05-08T01:04:42+00:00" data-subject="">
 
-It is sad that the only alternative you guys think of is "not handing out quest eq".  [/quote:3d077306]
+> <strong>Medios wrote:</strong>
+> It is sad that the only alternative you guys think of is "not handing out quest eq".
 
-I don't think it's a GOOD alternative.  I think it is really unfortunate that these conversations are almost a guarantee after every major quest where eq is given out.  I think it minimzes the effort that EVERYBODY put forth and I think it discourages future quests.  
+I don't think it's a GOOD alternative. I think it is really unfortunate that these conversations are almost a guarantee after every major quest where eq is given out. I think it minimzes the effort that EVERYBODY put forth and I think it discourages future quests. 
 
 I don't like randoming for quest eq so I left (after one brief expletive)-- I'd rather be picked last. I was only around for one 3-part mini and the final and I got 200 drachma for my effort--I was satisfied.
 
@@ -658,21 +667,22 @@ What you failed to offer was a reasonable alternative that would stop everybody 
 
 how bout doing this --
 
-next time after quest when rewards are handing out, if you feel u deserve a piece of eq or a high pick, state your feelings there and then.  argue your case,  say your worth, fight for your rights.
+next time after quest when rewards are handing out, if you feel u deserve a piece of eq or a high pick, state your feelings there and then. argue your case, say your worth, fight for your rights.
 
 but for god sakes posting about it on the crier over and over again (this happens after every single quest) is getting lame.
 
-there's always the argument on being useful and outshinning the rest.  Sure, blasters and clerics are well worth their weight in gold, I've always argued they deserve some good stuff in quests.  But then again, is it the player that benefitted the group, or the classo?  If the char would've made the same impact (or more) if someone else was playing it, then his usefulness is just limited to his spells, etc.  It's when someone thinks/helps outside of his char does he/she deserve a high reward.  It's not hard typing HEAL or RAISE DEAD, however indispensible they are.
+there's always the argument on being useful and outshinning the rest. Sure, blasters and clerics are well worth their weight in gold, I've always argued they deserve some good stuff in quests. But then again, is it the player that benefitted the group, or the classo? If the char would've made the same impact (or more) if someone else was playing it, then his usefulness is just limited to his spells, etc. It's when someone thinks/helps outside of his char does he/she deserve a high reward. It's not hard typing HEAL or RAISE DEAD, however indispensible they are.
 
-Same thing with tanking.  Why on earth does a tank deserve a piece of quest eq?  (No disrespect to Toxis)  But they die 90% of the time anyway, and most just have their tank scripts set up to autorescue, and whine their hp's.  They're just there to die over and over and over.  Isn't that what a tank is suppose to do?  They argue that they run the risk of losing lots of xp during a quest coz they die so often.  Well, DUH.  Which char in group isn't at risk for death?  Besides, if the tank goes down, more often than not, the following 50% of the group follows.
+Same thing with tanking. Why on earth does a tank deserve a piece of quest eq? (No disrespect to Toxis) But they die 90% of the time anyway, and most just have their tank scripts set up to autorescue, and whine their hp's. They're just there to die over and over and over. Isn't that what a tank is suppose to do? They argue that they run the risk of losing lots of xp during a quest coz they die so often. Well, DUH. Which char in group isn't at risk for death? Besides, if the tank goes down, more often than not, the following 50% of the group follows.
 
-atwell did a great job.. he didn't panic, he didnt scream at people.  level-headed leadin is what we really need in mass-death quests like the one akasha ran :)
+atwell did a great job.. he didn't panic, he didnt scream at people. level-headed leadin is what we really need in mass-death quests like the one akasha ran <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="18403" data-author="Autolycos" data-date="2007-05-08T02:45:47+00:00" data-subject="">
 
-What you failed to offer was a reasonable alternative that would stop everybody from taking a dump on what should be a postive thing for the mud.[/quote:1zrjraoa]
+> <strong>brady wrote:</strong>
+> What you failed to offer was a reasonable alternative that would stop everybody from taking a dump on what should be a postive thing for the mud.
 
 never gonna happen.. 
 
@@ -686,7 +696,8 @@ it's as inevitable as Brad buying another char..
 
 Mosaix, these are my rose colored glasses:
 
-[quote:1jqwg9lc]But then again, is it the player that benefitted the group, or the classo? If the char would've made the same impact (or more) if someone else was playing it, then his usefulness is just limited to his spells, etc. It's when someone thinks/helps outside of his char does he/she deserve a high reward. It's not hard typing HEAL or RAISE DEAD, however indispensible they are.[/quote:1jqwg9lc]
+> <strong>Quote:</strong>
+> But then again, is it the player that benefitted the group, or the classo? If the char would've made the same impact (or more) if someone else was playing it, then his usefulness is just limited to his spells, etc. It's when someone thinks/helps outside of his char does he/she deserve a high reward. It's not hard typing HEAL or RAISE DEAD, however indispensible they are.
 
 (C) Gimlet.
 
@@ -694,11 +705,11 @@ Mosaix, these are my rose colored glasses:
 
 <div class="post" data-post-id="18405" data-author="Ezekiel" data-date="2007-05-08T04:50:39+00:00" data-subject="">
 
-1. people can be tired of the bitching all they want...til it is them who gets shafted when a leader abandons his said system midstream...as i said before...this bitching would not be here if the said system from the start had been followed. i completely agree with mosaix.
+1\. people can be tired of the bitching all they want...til it is them who gets shafted when a leader abandons his said system midstream...as i said before...this bitching would not be here if the said system from the start had been followed. i completely agree with mosaix.
 
-2. as my earlier statement...what makes one set of eyes better than 40, such as in messaien's case...messaien led one mini just like verin and avi...where was their hand out from atwell for 'special work'? Funny how Messaien is the only one that felt the need to toot his own horn to justify the handing of his quest eq. Always the guilty that speak the most.
+2\. as my earlier statement...what makes one set of eyes better than 40, such as in messaien's case...messaien led one mini just like verin and avi...where was their hand out from atwell for 'special work'? Funny how Messaien is the only one that felt the need to toot his own horn to justify the handing of his quest eq. Always the guilty that speak the most.
 
-3. i'm so tired of people saying the system has always been this way...stop bitching, it's not gonna change.
+3\. i'm so tired of people saying the system has always been this way...stop bitching, it's not gonna change.
 
 Examples in contradiction: slavery, pthieving, etc...nuff said. These posts have yielded suggestions on how to make this flawed system more manageable. Maybe take a look at those instead of telling everyone to stfu, Nazis.
 
@@ -706,11 +717,13 @@ Examples in contradiction: slavery, pthieving, etc...nuff said. These posts have
 
 <div class="post" data-post-id="18406" data-author="Messiaen" data-date="2007-05-08T04:56:19+00:00" data-subject="">
 
-1. people can be tired of the bitching all they want...til it is them who gets shafted when a leader abandons his said system midstream...as i said before...this bitching would not be here if the said system from the start had been followed. i completely agree with mosaix.[/quote:36jlym4p]
+> <strong>Ezekiel wrote:</strong>
+> 1\. people can be tired of the bitching all they want...til it is them who gets shafted when a leader abandons his said system midstream...as i said before...this bitching would not be here if the said system from the start had been followed. i completely agree with mosaix.
 
 Have you ever led anything with over 10 ppl in it?
 
-[quote:36jlym4p]2. as my earlier statement...what makes one set of eyes better than 40, such as in messaien's case...messaien led one mini just like verin and avi...where was their hand out for 'special work'?[/quote:36jlym4p]
+> <strong>Quote:</strong>
+> 2\. as my earlier statement...what makes one set of eyes better than 40, such as in messaien's case...messaien led one mini just like verin and avi...where was their hand out for 'special work'?
 
 I still have my logfile, its just 5.5 MB, want me to send it to you so you could figure out how the quest looked from my point of view?
 
@@ -734,7 +747,7 @@ Lets get it straight - Atwell didn't say he rewarded me for leading miniq.
 
 Ezekiel wrote: 
 
-1. people can be tired of the bitching all they want...til it is them who gets shafted when a leader abandons his said system midstream...as i said before...this bitching would not be here if the said system from the start had been followed. i completely agree with mosaix. 
+1\. people can be tired of the bitching all they want...til it is them who gets shafted when a leader abandons his said system midstream...as i said before...this bitching would not be here if the said system from the start had been followed. i completely agree with mosaix. 
 
 Messaien wrote:
 
@@ -746,7 +759,8 @@ You were the one that said it...not me
 
 <div class="post" data-post-id="18410" data-author="Messiaen" data-date="2007-05-08T05:09:08+00:00" data-subject="">
 
-I love how you assume just from your perspective that you did more than other 2 leaders who led minis...doesn't matter how many were under you anyway...there was a said system and your eq hand out came by defying it. A more noble soul would have hesitation being granted eq in such a way. Your 5.5 gigs means nothing...why don't you take a look at how well you'd done without clerics...look at their files and then tell me you deserve a hand out, egotist.[/quote:3oz04qo5]
+> <strong>Ezekiel wrote:</strong>
+> I love how you assume just from your perspective that you did more than other 2 leaders who led minis...doesn't matter how many were under you anyway...there was a said system and your eq hand out came by defying it. A more noble soul would have hesitation being granted eq in such a way. Your 5.5 gigs means nothing...why don't you take a look at how well you'd done without clerics...look at their files and then tell me you deserve a hand out, egotist.
 
 This is only a good illustration to what I said earlier.
 
@@ -762,15 +776,22 @@ funny how the tone changes when you start hearing the patronizing tone of your e
 
 <div class="post" data-post-id="18412" data-author="Messiaen" data-date="2007-05-08T05:14:58+00:00" data-subject="">
 
-Ezekiel wrote: 
-
-1. people can be tired of the bitching all they want...til it is them who gets shafted when a leader abandons his said system midstream...as i said before...this bitching would not be here if the said system from the start had been followed. i completely agree with mosaix. 
-
-Messaien wrote:
-
-Have you ever led anything with over 10 ppl in it? 
-
-You were the one that said it...not me[/quote:19x3be4i]
+> <strong>Ezekiel wrote:</strong>
+> Ezekiel wrote: 
+> 
+> 1\. people can be tired of the bitching all they want...til it is them who gets shafted when a leader abandons his said system midstream...as i said before...this bitching would not be here if the said system from the start had been followed. i completely agree with mosaix. 
+> 
+> 
+> 
+> Messaien wrote:
+> 
+> Have you ever led anything with over 10 ppl in it? 
+> 
+> 
+> 
+> 
+> 
+> You were the one that said it...not me
 
 Okay, how do you conclude that I assume I led miniq's better than others?
 
@@ -786,11 +807,12 @@ Wow...did you take a class on spinning? Funny that you wouldn't include that in 
 
 <div class="post" data-post-id="18414" data-author="Messiaen" data-date="2007-05-08T05:19:12+00:00" data-subject="">
 
-Wow...did you take a class on spinning? Funny that you wouldn't include that in the previous post if that were the truth...nice delayed save.[/quote:1sr2kekq]
+> <strong>Ezekiel wrote:</strong>
+> Wow...did you take a class on spinning? Funny that you wouldn't include that in the previous post if that were the truth...nice delayed save.
 
 I don't understand that joke, english isn't my native, sorry.
 
-I thought it was clear to anybody who read the whole thread carefully. *shrug*
+I thought it was clear to anybody who read the whole thread carefully. \*shrug\*
 
 Can't see any reasons to keep this conversation going.
 
@@ -804,7 +826,7 @@ Please chill out - keep it up and we may not get any more quests.
 
 <div class="post" data-post-id="18421" data-author="Alberich" data-date="2007-05-08T14:02:03+00:00" data-subject="">
 
-[img:3jyr0tlw]http://www.carmenyuen.com/images/albums/photoblog/07/167_whine.jpg[/img:3jyr0tlw]
+![](http://www.carmenyuen.com/images/albums/photoblog/07/167_whine.jpg)
 
 </div>
 
@@ -812,7 +834,7 @@ Please chill out - keep it up and we may not get any more quests.
 
 As always, 
 
-We can count on Adam to bring things back into perspective!  8)
+We can count on Adam to bring things back into perspective! <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -824,11 +846,12 @@ This is like watching the special olympics.
 
 <div class="post" data-post-id="18433" data-author="Autolycos" data-date="2007-05-08T17:52:13+00:00" data-subject="">
 
-This is like watching the special olympics.[/quote:2ifhqea5]
+> <strong>13 wrote:</strong>
+> This is like watching the special olympics.
 
-[b:2ifhqea5]And Aaron gets the GOLD!!![/b:2ifhqea5]
+<strong>And Aaron gets the GOLD!!!</strong>
 
-[img:2ifhqea5]http://www.ulster.ac.uk/news/images/special-olympics.jpg[/img:2ifhqea5]
+![](http://www.ulster.ac.uk/news/images/special-olympics.jpg)
 
 </div>
 
@@ -836,6 +859,6 @@ This is like watching the special olympics.[/quote:2ifhqea5]
 
 Lmfao that was good auto and here goes to you.
 
-[img:3sfd4ma8]http://www.nada.kth.se/~alun/Beer/images/arne1.gif[/img:3sfd4ma8]
+![](http://www.nada.kth.se/~alun/Beer/images/arne1.gif)
 
 </div>

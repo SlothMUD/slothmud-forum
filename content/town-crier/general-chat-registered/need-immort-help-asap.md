@@ -14,7 +14,7 @@ post_count: 2
 
 Hi -
 
-I am having trouble with an autoquest.  The problem is that i cannot leave the mud, rent, or recall until the problem is fixed.
+I am having trouble with an autoquest. The problem is that i cannot leave the mud, rent, or recall until the problem is fixed.
 
 There seems to be no immorts currently logged in.... If one of you guys reads this and has a couple mins to help me, I would greatly appreciate you logging in and sending me a tell.
 

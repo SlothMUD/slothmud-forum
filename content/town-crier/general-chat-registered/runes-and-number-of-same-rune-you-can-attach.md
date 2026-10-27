@@ -14,8 +14,8 @@ post_count: 8
 
 When runes first went in we where told you could only attach one of a given max stat. That is one rhodo or one emerald etc...
 
-> **element wrote:**
-> I think socketing shouldn't be "reversible", but you should be able to destroy the socketed rune at a fee.  
+> <strong>element wrote:</strong>
+> I think socketing shouldn't be "reversible", but you should be able to destroy the socketed rune at a fee. 
 > 
 > 
 > 
@@ -29,11 +29,11 @@ so in my opinion anyone able to socket two of the same rune should be posting it
 
 I'm somewhat confused by this post. What's the purpose of the quote you used? Is that your being 'told you could only attach one of a given max stat.' that you mentioned? If so, there are a couple of flaws with using that quote.
 
-1. I'm pretty sure that was just a suggestion from element(sorry if I'm mistaken, but I'm pretty sure element has nothing to do with the inner workings of runes) on how to make people start socketing more runes.
+1\. I'm pretty sure that was just a suggestion from element(sorry if I'm mistaken, but I'm pretty sure element has nothing to do with the inner workings of runes) on how to make people start socketing more runes.
 
-2. I'm pretty sure that element's statement of '(of course you can't socket 2 of the same runes)' was only talking about the suggestion of being able to put two runes in one piece of gear(because two of the same rune could double the amount of a specific bonus potentially), and not some sort of generalized statement about not being able to use more than one of a given rune.
+2\. I'm pretty sure that element's statement of '(of course you can't socket 2 of the same runes)' was only talking about the suggestion of being able to put two runes in one piece of gear(because two of the same rune could double the amount of a specific bonus potentially), and not some sort of generalized statement about not being able to use more than one of a given rune.
 
-3. Seeing as players aren't required to read the entire forum history before they start playing, I would hope there were some sort of in game documentation of any rules the game has. You might be better off quoting that documentation instead of a forum post that(as far as I can tell) doesn't have anything to do with your claim.
+3\. Seeing as players aren't required to read the entire forum history before they start playing, I would hope there were some sort of in game documentation of any rules the game has. You might be better off quoting that documentation instead of a forum post that(as far as I can tell) doesn't have anything to do with your claim.
 
 Anyway, I've never put very much effort into leveling, so I've only gotten to pretty low max levels. Because of that I've not looked into runes too much, and could be completely wrong about the whole thing. I would think that one of the many immortals I've seen posting on rune related topics would have said something if there was a rule about only having one of a given max stat from a rune at any time, seeing as people have obviously not been following that rule.
 
@@ -87,15 +87,15 @@ Q 2) Is it allowed (by the code)
 
 So the answers are :
 
-A 1) When Splork put in the rune code, he never intended any MAX_STAT to be doubled.
+A 1) When Splork put in the rune code, he never intended any MAX\_STAT to be doubled.
 
-     and he stated that somewhere (which I am not searching for at this time)
+ and he stated that somewhere (which I am not searching for at this time)
 
 A 2) The code allows it due to a slight bug which is now fixed.
 
 When an mob/object is created, the immortal who created the mob/object has the 
 
-option to add premade PROC's which allow the mob/object to do fun things.  
+option to add premade PROC's which allow the mob/object to do fun things. 
 
 Probably the most well known Object PROCs are Vorpal (aka Choppers) and
 
@@ -103,15 +103,15 @@ MUDL (used everywhere!).
 
 Runes and Clasps are unique in that they are equipped onto other objects rather
 
-than worn.  As such, they are handled a bit differently.
+than worn. As such, they are handled a bit differently.
 
 What was happening is, the code was checking if the object was a clasp and if
 
-it was a clasp then it would execute the clasp PROC and then finish.  If it
+it was a clasp then it would execute the clasp PROC and then finish. If it
 
-wasn't a clasp, then it would stop there.  The code was never checking to see
+wasn't a clasp, then it would stop there. The code was never checking to see
 
-if the object was a Rune.  This is now fixed.
+if the object was a Rune. This is now fixed.
 
 As to limits per rune/per character, that is solely up to Splork, and is
 
@@ -125,19 +125,19 @@ The PROC now executes, so said limits are enforced.
 
 Having said that, AFAIK, the only Runes that have per rune/per character limits 
 
-are the MAX_STATS ones.
+are the MAX\_STATS ones.
 
-After this code goes live, those of you who socketed 2 MAX_STATS runes of the same
+After this code goes live, those of you who socketed 2 MAX\_STATS runes of the same
 
 kind can go to any Mob that forges and unsocket the rune from the equipment, assuming
 
-the equipment is x40/drachma.  Otherwise contact a **45+** immortal and they may be
+the equipment is x40/drachma. Otherwise contact a <strong>45+</strong> immortal and they may be
 
 able to help you.
 
 Regards,
 
-  ***Breeze***
+ <em><strong>Breeze</strong></em>
 
 </div>
 

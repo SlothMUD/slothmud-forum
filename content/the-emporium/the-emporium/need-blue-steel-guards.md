@@ -14,9 +14,9 @@ post_count: 3
 
 Hi all -
 
-I am looking for a set of blue steel guards.  
+I am looking for a set of blue steel guards. 
 
-I have coins, plus a few items we might be able to work into a trade (thunderbolt, runed onyx bracelet to name a couple).  Track me down online if you are interested.
+I have coins, plus a few items we might be able to work into a trade (thunderbolt, runed onyx bracelet to name a couple). Track me down online if you are interested.
 
 Thanks,
 
@@ -26,9 +26,9 @@ Deju
 
 <div class="post" data-post-id="2374" data-author="Ender" data-date="2004-10-18T16:10:25+00:00" data-subject="">
 
-*blink*
+\*blink\*
 
-[<LINK_TEXT text="http://slothmud.org/index.php?name=PNph ... opic&t=525">http://slothmud.org/index.php?name=PNphpBB2&file=viewtopic&t=525</LINK_TEXT>](http://slothmud.org/index.php?name=PNphpBB2&file=viewtopic&t=525)
+[http://slothmud.org/index.php?name=PNphpBB2&file=viewtopic&t=525](http://slothmud.org/index.php?name=PNphpBB2&file=viewtopic&t=525)
 
 </div>
 

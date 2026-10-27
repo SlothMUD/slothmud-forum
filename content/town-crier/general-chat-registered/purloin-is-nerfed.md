@@ -16,9 +16,9 @@ Well its not included in the help files and the immorts never posted any info ab
 
 Purloin does in fact cause you to accumulate failed steal attempts as if you were pthiefing. Even tho they are invisible to the finger command. So you are subject to being splorked on sight by innkeepers. Even if you corpse out, this flag will remain and you are subject to being splorked again by innkeepers. However after you have corpsed, there will be no way for you to know how much longer is on your punishment flag, because you will be able to drop eq like normal and you won't appear on the outlaw board. So you will never know when its safe to rent again. 
 
-Clink --> It's not a bug, it's a feature.  
+Clink --\> It's not a bug, it's a feature. 
 
-[img:1k1in85m]http://www.cbttape.org/funny/bug3.jpg[/img:1k1in85m]
+![](http://www.cbttape.org/funny/bug3.jpg)
 
 Below are some suggestions for new game features:
 
@@ -54,7 +54,7 @@ I agree with Rub on this one...I understand reasoning for stacks...but can't see
 
 <div class="post" data-post-id="17567" data-author="13" data-date="2007-03-28T12:55:44+00:00" data-subject="">
 
-I think goes a long way towards making sure people don't use this skill.  Good work whomever!
+I think goes a long way towards making sure people don't use this skill. Good work whomever!
 
 </div>
 
@@ -62,7 +62,7 @@ I think goes a long way towards making sure people don't use this skill.  Good w
 
 Yet to learn it heh... 
 
-Good way to pkill someone though - steal their lite and ironskin midfight. Wonder if that would get you in trouble. Mind you, just dispelling them would be easier ..then web and bind them..  :twisted:
+Good way to pkill someone though - steal their lite and ironskin midfight. Wonder if that would get you in trouble. Mind you, just dispelling them would be easier ..then web and bind them.. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -76,7 +76,7 @@ Nice Feature
 
 <div class="post" data-post-id="17574" data-author="Medios" data-date="2007-03-28T21:00:38+00:00" data-subject="">
 
-The fix that I see best is to only allow 3 spells to be stacked.  If you steal more than 3 they don't register.  This would stop players from "abusing" purloin by stealing a spell 20 times.  The whole thing about innkeepers killing you and Scar charming and stuff really does make the skill useless.  Most of us cannot sit around and wait for hours before we rent, sometimes we need to rent in a hurry.  This is why I do not use purloin.  I would like to see it useful to help out the old school thieves.
+The fix that I see best is to only allow 3 spells to be stacked. If you steal more than 3 they don't register. This would stop players from "abusing" purloin by stealing a spell 20 times. The whole thing about innkeepers killing you and Scar charming and stuff really does make the skill useless. Most of us cannot sit around and wait for hours before we rent, sometimes we need to rent in a hurry. This is why I do not use purloin. I would like to see it useful to help out the old school thieves.
 
 Mike
 
@@ -84,17 +84,17 @@ Mike
 
 <div class="post" data-post-id="17576" data-author="Hades" data-date="2007-03-29T02:56:24+00:00" data-subject="overpowered purloiners">
 
-It is easily overbalanced and for one, I'm glad to see some balance restored.  
+It is easily overbalanced and for one, I'm glad to see some balance restored. 
 
 There are ways around the negatives if you just use your noodle.
 
- :roll:
+ <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="17577" data-author="13" data-date="2007-03-29T03:10:00+00:00" data-subject="">
 
-I wish there was an easy way around your dumb ass.  Just fucking go away, no-one is interested in your shit or wants to waste their time on you.
+I wish there was an easy way around your dumb ass. Just fucking go away, no-one is interested in your shit or wants to waste their time on you.
 
 </div>
 
@@ -102,7 +102,7 @@ I wish there was an easy way around your dumb ass.  Just fucking go away, no-one
 
 Yest, you chose to respond..
 
-You are ####### awesome 12345/13 :lol:
+You are ####### awesome 12345/13 <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -110,11 +110,11 @@ You are ####### awesome 12345/13 :lol:
 
 You find offense just because I fail to see eye to eye with you on this issue?
 
-Perhaps you've become a bit wrapped up and need to take a few days... maybe a new hobby or some gym time to take care of those 'love handles' will refresh you.  Sloth is great  because different idea's and philosophies here helps the community here thrive. I don't see how berating someone because they don't agree with you accomplishes anything positive.  Sleep on it and get back to me.
+Perhaps you've become a bit wrapped up and need to take a few days... maybe a new hobby or some gym time to take care of those 'love handles' will refresh you. Sloth is great because different idea's and philosophies here helps the community here thrive. I don't see how berating someone because they don't agree with you accomplishes anything positive. Sleep on it and get back to me.
 
 Love,
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -126,13 +126,14 @@ deleted
 
 <div class="post" data-post-id="17662" data-author="banedon" data-date="2007-03-31T23:53:02+00:00" data-subject="NEWS FLASH">
 
-You are ####### awesome 12345/13 :lol:[/quote:3i0hb1l9]
+> <strong>Hades wrote:</strong>
+> You are ####### awesome 12345/13 <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
-I checked my logs and I hate to burst your bubble, but 12345 and 13 are in fact two, 2, dos, zwei, dvuh (sorry if i forgot a language players use) different people!  
+I checked my logs and I hate to burst your bubble, but 12345 and 13 are in fact two, 2, dos, zwei, dvuh (sorry if i forgot a language players use) different people! 
 
 I simply paid attention to gossip and auction chatter and was easily able to figure out that 13/12345 are not the same person.
 
-Once again, just my  $.02
+Once again, just my $.02
 
 </div>
 
@@ -140,7 +141,7 @@ Once again, just my  $.02
 
 Nice try 12345/13
 
-I know it's you 8)
+I know it's you <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -152,17 +153,18 @@ I concur with anything Hades says, on any topic for any reason. What can I say? 
 
 <div class="post" data-post-id="17670" data-author="banedon" data-date="2007-04-01T05:31:52+00:00" data-subject="Re: re: NEWS FLASH">
 
-Nice try 12345/13
+> <strong>Hades wrote:</strong>
+> Nice try 12345/13
+> 
+> I know it's you <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
-I know it's you 8)[/quote:3ni7z61a]
-
-Ok, now I know you're either brain damaged or on drugs.  Anyone that currently plays will tell you that I am neither 13 nor am I 12345 and that they are two separate people.  Not that they are not both great guys who have each pulled my chestnuts out of the fire more than once on Sloth.
+Ok, now I know you're either brain damaged or on drugs. Anyone that currently plays will tell you that I am neither 13 nor am I 12345 and that they are two separate people. Not that they are not both great guys who have each pulled my chestnuts out of the fire more than once on Sloth.
 
 </div>
 
 <div class="post" data-post-id="17672" data-author="12345" data-date="2007-04-01T05:55:46+00:00" data-subject="">
 
-Let it go banedon, its a continuation of a running gag I started a while back.  I declared Hades and Weasel the same person and he declared 12345 and 13 to be the same person (along with half the rest of the board).
+Let it go banedon, its a continuation of a running gag I started a while back. I declared Hades and Weasel the same person and he declared 12345 and 13 to be the same person (along with half the rest of the board).
 
 Hades exists only to be ridiculed, he's useless in any other regard.
 
@@ -170,7 +172,7 @@ Hades exists only to be ridiculed, he's useless in any other regard.
 
 <div class="post" data-post-id="17673" data-author="banedon" data-date="2007-04-01T06:13:25+00:00" data-subject="">
 
-OK will do, seems I missed all that during one of my not having a  computer periods.
+OK will do, seems I missed all that during one of my not having a computer periods.
 
 My humble apologies to all involved.
 

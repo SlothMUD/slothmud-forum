@@ -24,9 +24,9 @@ Weight: 2, Value: 43000
 
 Can affect you as:
 
-    Affects: REGEN_MANA by 3
+ Affects: REGEN\_MANA by 3
 
-    Affects: WIS by 1
+ Affects: WIS by 1
 
 Only those who are at least adept magic users, clerics, thieves, warriors, 
 
@@ -42,6 +42,6 @@ Doesn't that pop in Nega?
 
 <div class="post" data-post-id="428" data-author="impz" data-date="2004-05-31T01:19:43+00:00" data-subject="">
 
-yes, avatar..the poper is MOt in negative planes...Probably price is jacked up cos it's such a irritating place to get to  :roll:
+yes, avatar..the poper is MOt in negative planes...Probably price is jacked up cos it's such a irritating place to get to <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>

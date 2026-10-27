@@ -22,9 +22,9 @@ AC-apply is -0.2
 
 Can affect you as:
 
-    Affects: STR by 1
+ Affects: STR by 1
 
-    Affects: MOVE by 30
+ Affects: MOVE by 30
 
 Only those who are at least apprentice magic users, clerics, thieves, and 
 
@@ -36,6 +36,6 @@ warriors may use this item.
 
 <div class="post" data-post-id="347" data-author="Deju" data-date="2004-05-26T04:07:02+00:00" data-subject="">
 
-Closed.  No Winner.
+Closed. No Winner.
 
 </div>

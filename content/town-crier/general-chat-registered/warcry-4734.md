@@ -24,7 +24,7 @@ In a previous group about a week ago, we also ended up discussing this. I don't 
 
 Not sure about this but what I noticed was you need at least 5 people to join your warcry (so you + 5 members = 6 people in the group at least) for it to count. Mob size seems not to matter much on this.
 
-- V
+\- V
 
 </div>
 
@@ -32,51 +32,51 @@ Not sure about this but what I noticed was you need at least 5 people to join yo
 
 Gorka,
 
-I know you aren't new here, so I'm surprised you are expecting immortals to provide a breakdown of exactly how a skill works.  I can think of exactly zero times that has ever happened in the last two decades.
+I know you aren't new here, so I'm surprised you are expecting immortals to provide a breakdown of exactly how a skill works. I can think of exactly zero times that has ever happened in the last two decades.
 
 Fortunately, us lowly mortals can figure things out.
 
 To increment warcry, you need:
 
-1) To warcry (harder than you might think)
+1\) To warcry (harder than you might think)
 
- - Like any other skill, there's a 15% chance of failure.
+ \- Like any other skill, there's a 15% chance of failure.
 
- - Failure looks like a success.
+ \- Failure looks like a success.
 
-2) 4 players in your group must join your warcry
+2\) 4 players in your group must join your warcry
 
- - A player who is already part of your cry may not display the 'joins the warcry' message, but they still count.
+ \- A player who is already part of your cry may not display the 'joins the warcry' message, but they still count.
 
- - For example, a player who previously joined your warcry but never engaged an enemy.
+ \- For example, a player who previously joined your warcry but never engaged an enemy.
 
-3) Engage an enemy
+3\) Engage an enemy
 
- - You can use any form of engaging: backstab, kill, fireball, rescue, get aggroed, etc.
+ \- You can use any form of engaging: backstab, kill, fireball, rescue, get aggroed, etc.
 
- - Only the warcrier has to engage in order to increment the counter.
+ \- Only the warcrier has to engage in order to increment the counter.
 
-4) The combat must end with the monster dying.  
+4\) The combat must end with the monster dying. 
 
- - If the monster disengages onto someone else
+ \- If the monster disengages onto someone else
 
- - If you flee, disengage, shapeshift into a tree
+ \- If you flee, disengage, shapeshift into a tree
 
- - If you get procced out of the fight or out of the room
+ \- If you get procced out of the fight or out of the room
 
- - the warcry is over you won't get credit.
+ \- the warcry is over you won't get credit.
 
-5) There is no five.
+5\) There is no five.
 
- - mob level and difficulty is irrelevant
+ \- mob level and difficulty is irrelevant
 
- - the other criers don't even need to be in the same room as you during the fight
+ \- the other criers don't even need to be in the same room as you during the fight
 
 I've often tanked for groups where it seemed like warcry was broken... but in many tests I've never documented it failing, when steps 1-4 were followed.
 
-If your counter isn't incrementing in a large group, the most frequent problem is that too many players aren't joining the cry.  This happens surprisingly often.
+If your counter isn't incrementing in a large group, the most frequent problem is that too many players aren't joining the cry. This happens surprisingly often.
 
-Also, large groups kill surprisingly low numbers of enemies.  Try leading four warcry-joining players on a lyme stab/blast run and you'll level it quickly.
+Also, large groups kill surprisingly low numbers of enemies. Try leading four warcry-joining players on a lyme stab/blast run and you'll level it quickly.
 
 </div>
 
@@ -108,7 +108,7 @@ warcry LEEEEEROOOY JEEEENKINS!!!
 
 You yell 'LEEEEEROOOY JEEEENKINS!!!'
 
-<1229hp 306ma 244mv 1759107373xp -11.2ac -%>
+\<1229hp 306ma 244mv 1759107373xp -11.2ac -%\>
 
 Mirakoli joins in the war-cry!
 
@@ -128,27 +128,27 @@ Sochi joins in the war-cry!
 
 You report 1230/1258 hp. Change: +6. Need: 28. Spells: aegis, greater fluidity.
 
-<1230hp 306ma 245mv 1759107373xp -11.2ac -%>
+\<1230hp 306ma 245mv 1759107373xp -11.2ac -%\>
 
 Tuk joins in the war-cry!
 
 Songster drinks from a bottle of aqua minerale.
 
-<1230hp 306ma 245mv 1759107373xp -11.2ac -%>
+\<1230hp 306ma 245mv 1759107373xp -11.2ac -%\>
 
 Songster puts a bottle of aqua minerale in a golden sack.
 
-<1230hp 306ma 245mv 1759107373xp -11.2ac -%>
+\<1230hp 306ma 245mv 1759107373xp -11.2ac -%\>
 
 Songster joins in the war-cry!
 
-<1232hp 307ma 246mv 1759107373xp -11.2ac -%>
+\<1232hp 307ma 246mv 1759107373xp -11.2ac -%\>
 
 Suna raises his hands to the sky and rapidly turns into a cruel makara (Suna)!
 
 You warily lead the way ahead of Songster.
 
-|
+\|
 
 deathgrip drake
 
@@ -156,15 +156,15 @@ cast 'web' drake
 
 Floating in Pure Energy
 
-   Blinding white light emanates from everything.  The overwhelming 
+ Blinding white light emanates from everything. The overwhelming 
 
-radiation fills the unprotected with more energy than can be tolerated.  
+radiation fills the unprotected with more energy than can be tolerated. 
 
-Pathways seem to flow through the positive energy plane.  The constantly 
+Pathways seem to flow through the positive energy plane. The constantly 
 
 changing trails do not have the intensity of rest of the plane.
 
-Exits: North  East  South  Down  
+Exits: North East South Down 
 
 A large, serpentine drake glides effortlessly through the energy fields.
 
@@ -184,7 +184,7 @@ Jagon arrives from the east.
 
 Curate arrives from the east.
 
-<1233hp 308ma 245mv 1759107373xp -11.2ac -%>
+\<1233hp 308ma 245mv 1759107373xp -11.2ac -%\>
 
 An energy drake hates your guts!
 
@@ -194,31 +194,31 @@ You circle around an energy drake and expertly put him in a deathgrip.
 
 You report 1294/1258 hp. Change: +64. Need: 0. Spells: aegis, greater fluidity.
 
-<1294hp 308ma 226mv 1759118553xp -11.2ac 96%>
+\<1294hp 308ma 226mv 1759118553xp -11.2ac 96%\>
 
 Crumbs utters the words, 'eawiahuai'
 
 An energy drake screams in agony as red tendrils of mist infuse his body.
 
-<1294hp 308ma 226mv 1759118553xp -11.2ac 93%>
+\<1294hp 308ma 226mv 1759118553xp -11.2ac 93%\>
 
 Tuk utters the words, 'yfaghbarh'
 
-<1297hp 309ma 227mv 1759118553xp -11.2ac 91%>
+\<1297hp 309ma 227mv 1759118553xp -11.2ac 91%\>
 
 Songster utters the words, 'aque bragh'
 
 You report 1301/1258 hp. Change: +7. Need: 0. Spells: greater fluidity, aegis.
 
-<1301hp 310ma 228mv 1759118553xp -11.2ac 90%>
+\<1301hp 310ma 228mv 1759118553xp -11.2ac 90%\>
 
 Crumbs has turned his attacks toward an energy drake!
 
-<1301hp 310ma 228mv 1759118553xp -11.2ac 90%>
+\<1301hp 310ma 228mv 1759118553xp -11.2ac 90%\>
 
 You maintain your deathgrip on an energy drake.
 
-<1303hp 310ma 229mv 1759119840xp -11.2ac 88%>
+\<1303hp 310ma 229mv 1759119840xp -11.2ac 88%\>
 
 A fireball flies from Tuk's weapon and lands on an energy drake!
 
@@ -232,35 +232,35 @@ An energy drake misses you with his claw.
 
 An energy drake misses you with his bite.
 
-An energy drake breathes a stream of fire at you!  You are engulfed in flames!
+An energy drake breathes a stream of fire at you! You are engulfed in flames!
 
 You resist a bit of the damage...
 
-An energy drake breathes a stream of fire at you!  You are engulfed in flames!
+An energy drake breathes a stream of fire at you! You are engulfed in flames!
 
 You report 1129/1258 hp. Change: -172. Need: 129. Spells: aegis, greater fluidity.
 
-<1129hp 310ma 229mv 1759119840xp -11.2ac 80%>
+\<1129hp 310ma 229mv 1759119840xp -11.2ac 80%\>
 
 Ok.
 
 An energy drake is enmeshed in thick webs!
 
-<1131hp 296ma 229mv 1759119840xp -11.2ac 80%>
+\<1131hp 296ma 229mv 1759119840xp -11.2ac 80%\>
 
 Songster utters the words, 'aque bragh'
 
-<1132hp 297ma 230mv 1759119840xp -11.2ac 77%>
+\<1132hp 297ma 230mv 1759119840xp -11.2ac 77%\>
 
 Suna tears a sizeable chunk out of an energy drake with his chomp.
 
-<1134hp 297ma 231mv 1759119840xp -11.2ac 75%>
+\<1134hp 297ma 231mv 1759119840xp -11.2ac 75%\>
 
 You maintain your deathgrip on an energy drake.
 
 You report 1137/1258 hp. Change: +8. Need: 121. Spells: aegis, greater fluidity.
 
-<1137hp 298ma 231mv 1759125923xp -11.2ac 74%>
+\<1137hp 298ma 231mv 1759125923xp -11.2ac 74%\>
 
 A blazing inferno reaches out from Tuk's weapon and engulfs an energy drake!
 
@@ -270,41 +270,41 @@ An energy drake misses you with his claw.
 
 An energy drake misses you with his bite.
 
-An energy drake breathes a stream of fire at you!  You are engulfed in flames!
+An energy drake breathes a stream of fire at you! You are engulfed in flames!
 
 You resist a bit of the damage...
 
-An energy drake breathes a stream of fire at you!  You are engulfed in flames!
+An energy drake breathes a stream of fire at you! You are engulfed in flames!
 
 You report 1116/1258 hp. Change: -21. Need: 142. Spells: aegis, greater fluidity.
 
-<1116hp 298ma 232mv 1759125923xp -11.2ac 64%>
+\<1116hp 298ma 232mv 1759125923xp -11.2ac 64%\>
 
 tell iblis .
 
 No-one by that name here..
 
-<1119hp 299ma 233mv 1759125923xp -11.2ac 60%>
+\<1119hp 299ma 233mv 1759125923xp -11.2ac 60%\>
 
 Mirakoli raises his hands to the sky, his body shudders, but nothing happens.
 
-<1121hp 299ma 233mv 1759125923xp -11.2ac 60%>
+\<1121hp 299ma 233mv 1759125923xp -11.2ac 60%\>
 
 Suna tears a sizeable chunk out of an energy drake with his chomp.
 
 Songster utters the words, 'aque bragh'
 
-<1121hp 299ma 233mv 1759125923xp -11.2ac 58%>
+\<1121hp 299ma 233mv 1759125923xp -11.2ac 58%\>
 
 You maintain your deathgrip on an energy drake.
 
 You report 1124/1258 hp. Change: +8. Need: 134. Spells: greater fluidity, aegis.
 
-<1124hp 300ma 234mv 1759129311xp -11.2ac 58%>
+\<1124hp 300ma 234mv 1759129311xp -11.2ac 58%\>
 
 An energy drake screams out as he is burned!!!
 
-<1125hp 301ma 235mv 1759129311xp -11.2ac 58%>
+\<1125hp 301ma 235mv 1759129311xp -11.2ac 58%\>
 
 You skillfully parry the attack of an energy drake.
 
@@ -312,27 +312,27 @@ An energy drake misses you with his claw.
 
 An energy drake misses you with his claw.
 
-An energy drake breathes a stream of fire at you!  You are engulfed in flames!
+An energy drake breathes a stream of fire at you! You are engulfed in flames!
 
 You resist a bit of the damage...
 
-An energy drake breathes a stream of fire at you!  You are engulfed in flames!
+An energy drake breathes a stream of fire at you! You are engulfed in flames!
 
 You report 1100/1258 hp. Change: -24. Need: 158. Spells: greater fluidity, aegis.
 
-<1100hp 301ma 235mv 1759129311xp -11.2ac 48%>
+\<1100hp 301ma 235mv 1759129311xp -11.2ac 48%\>
 
 Mirakoli raises his hands to the sky and rapidly turns into a savage lion (Mirakoli)!
 
-<1105hp 302ma 236mv 1759129311xp -11.2ac 44%>
+\<1105hp 302ma 236mv 1759129311xp -11.2ac 44%\>
 
 Mirakoli swipes at an energy drake, lacerating him horribly with his sharpened claws.
 
-<1105hp 302ma 236mv 1759129311xp -11.2ac 44%>
+\<1105hp 302ma 236mv 1759129311xp -11.2ac 44%\>
 
 Suna's teeth snap shut just inches from an energy drake's face!
 
-<1105hp 302ma 236mv 1759129311xp -11.2ac 44%>
+\<1105hp 302ma 236mv 1759129311xp -11.2ac 44%\>
 
 You release your grip on an energy drake.
 
@@ -340,11 +340,11 @@ wear axe
 
 You report 1107/1258 hp. Change: +7. Need: 151. Spells: greater fluidity, aegis.
 
-<1107hp 302ma 237mv 1759132181xp -11.2ac 43%>
+\<1107hp 302ma 237mv 1759132181xp -11.2ac 43%\>
 
 You wield Axe of Dwarvish Lords.
 
-<1107hp 302ma 237mv 1759132181xp -11.2ac 43%>
+\<1107hp 302ma 237mv 1759132181xp -11.2ac 43%\>
 
 An energy drake misses you with his claw.
 
@@ -370,15 +370,15 @@ You brutally massacre an energy drake with your slash.
 
 You report 940/1258 hp. Change: -167. Need: 318. Spells: aegis, greater fluidity.
 
-<940hp 303ma 238mv 1759150970xp -11.2ac 26%>
+\<940hp 303ma 238mv 1759150970xp -11.2ac 26%\>
 
 Mirakoli swipes at an energy drake, lacerating him horribly with his sharpened claws.
 
-<943hp 304ma 239mv 1759150970xp -11.2ac 26%>
+\<943hp 304ma 239mv 1759150970xp -11.2ac 26%\>
 
 Suna tears a sizeable chunk out of an energy drake with his chomp.
 
-<943hp 304ma 239mv 1759150970xp -11.2ac 21%>
+\<943hp 304ma 239mv 1759150970xp -11.2ac 21%\>
 
 An energy drake struggles weakly within the pile of sticky webs.
 
@@ -404,19 +404,19 @@ You brutally massacre an energy drake with your slash.
 
 You brutally massacre an energy drake with your slash.
 
-An energy drake breathes a stream of fire at you!  You are engulfed in flames!
+An energy drake breathes a stream of fire at you! You are engulfed in flames!
 
 You resist a bit of the damage...
 
-An energy drake breathes a stream of fire at you!  You are engulfed in flames!
+An energy drake breathes a stream of fire at you! You are engulfed in flames!
 
 Mirakoli swipes at an energy drake, lacerating him horribly with his sharpened claws.
 
 You report 850/1258 hp. Change: -90. Need: 408. Spells: greater fluidity, aegis.
 
-<850hp 306ma 241mv 1759163068xp -11.2ac 6%>
+\<850hp 306ma 241mv 1759163068xp -11.2ac 6%\>
 
-|;deathblow;@@
+\|;deathblow;@@
 
 An energy drake screams out as he is burned!!!
 
@@ -426,7 +426,7 @@ The cleansing fires of healing fill your body!
 
 You report 1222/1258 hp. Change: +372. Need: 36. Spells: greater fluidity, aegis.
 
-<1222hp 306ma 242mv 1759163068xp -11.2ac 6%>
+\<1222hp 306ma 242mv 1759163068xp -11.2ac 6%\>
 
 With a mighty effort, you shake off your exhaustion!
 
@@ -448,7 +448,7 @@ You are buffeted by waves of remorse! ... it passes.
 
 Total exp for kill is 33294480.
 
-----------
+\----------
 
 MOB : energy dragon drake beast
 
@@ -458,7 +458,7 @@ XP : 33294480
 
 LVL : 41
 
-----------
+\----------
 
 remove axe
 
@@ -476,11 +476,11 @@ Songster gets a Hematite from the corpse of an energy drake that's on the ground
 
 Songster gets gold coins from the corpse of an energy drake that's on the ground.
 
-Songster splits 9512 coins.  Your share is 731 coins.
+Songster splits 9512 coins. Your share is 731 coins.
 
 Your target is no longer with us.
 
-<1222hp 306ma 177mv 1767340798xp -11.2ac -%>
+\<1222hp 306ma 177mv 1767340798xp -11.2ac -%\>
 
 Your war-cry is 'LEEEEEROOOY JEEEENKINS!!!'
 
@@ -514,7 +514,7 @@ Killing a mob using 'deathblow' doesn't increment warcry.
 
 <div class="post" data-post-id="38051" data-author="Gorka" data-date="2017-02-08T22:39:16+00:00" data-subject="Re: Warcry">
 
-Really?  :| 
+Really? <img src="/images/smilies/icon_neutral.svg" alt=":|" title=":|" width="15" height="15" class="smiley nozoom"> 
 
 Ok, no more deathblows when tanking. Thanks.
 
@@ -524,7 +524,7 @@ Erm, just when I deathblow, or when anyone deathblows? Is this by design or can 
 
 <div class="post" data-post-id="38063" data-author="Gorka" data-date="2017-02-14T10:11:59+00:00" data-subject="Re: Warcry">
 
-> **Quote:**
+> <strong>Quote:</strong>
 > I tried out deathblow on warcry count last week. It worked for me. I got kill count for deathblow kill. Had only about 6 people in group that time iirc.
 
 Now I am confused... Because from my tests there does seem to be a link between war cry not counting and deathblow. 
@@ -536,8 +536,6 @@ Can an immortal at least comment on what counts and what doesn't? Is it differen
 <div class="post" data-post-id="38066" data-author="*Splork*" data-date="2017-02-15T00:48:30+00:00" data-subject="Re: Warcry">
 
 I checked my emails last week and found a conversation between Breeze and myself on this topic...
-
- 
 
 The warcry count does not increase if the final strike is a deathblow. 
 
@@ -561,19 +559,19 @@ If we ever get another immortal like teker, who has the time and ability to work
 
 I agree that usage may slip a bit but I bet it still gets used quite often.
 
-I think groups will quickly realize that having the ability to remove thousands of hit points worth  of a mob's health in a single blow is quite worth it...
+I think groups will quickly realize that having the ability to remove thousands of hit points worth of a mob's health in a single blow is quite worth it...
 
 </div>
 
 <div class="post" data-post-id="38069" data-author="Josiah" data-date="2017-02-15T19:37:44+00:00" data-subject="Re: Warcry">
 
-Deathblow is no joke... I think it does up to 5000ish damage, although I never tested for the exact amount.  The mob health percentages show that it works whenever a mob is at 14% or less.
+Deathblow is no joke... I think it does up to 5000ish damage, although I never tested for the exact amount. The mob health percentages show that it works whenever a mob is at 14% or less.
 
 If their max hp are extraordinary, like Lucifer, you'll have to wait until that number gets lower.
 
 The only reason I even carry a blade is because this skill exists!
 
-In a mid-size group, deathblow is very much worth using.  It saves a round or two of combat and of course all the mana that would've been used on blasting and healing during those rounds.  A bargain for 50 mvs.
+In a mid-size group, deathblow is very much worth using. It saves a round or two of combat and of course all the mana that would've been used on blasting and healing during those rounds. A bargain for 50 mvs.
 
 But if I needed to build my warcry points I'd definitely ask people to refrain.
 
@@ -587,13 +585,13 @@ Well, I will definitely stop in group, because warcry hit points are awesome for
 
 <div class="post" data-post-id="38072" data-author="*Splork*" data-date="2017-02-16T02:07:36+00:00" data-subject="Re: Warcry">
 
-Actually, most tanks worth their salt already have reached quite high levels regarding the warcry structure bonuses.  They have already gained these bonuses which means you will receive them no matter what you do in their group...
+Actually, most tanks worth their salt already have reached quite high levels regarding the warcry structure bonuses. They have already gained these bonuses which means you will receive them no matter what you do in their group...
 
-By not using the skill in question, you are simply giving these creatures thousands of hit points worth of fight rounds. Whether that is a smart choice is entirely up to you guys but I certainly know what my opinion is  :oops:
+By not using the skill in question, you are simply giving these creatures thousands of hit points worth of fight rounds. Whether that is a smart choice is entirely up to you guys but I certainly know what my opinion is <img src="/images/smilies/icon_redface.svg" alt=":oops:" title=":oops:" width="15" height="15" class="smiley nozoom">
 
 For newbie/lowbie tanks, that will be a tough question. Are players honestly going to pass up good exp by not using deathblow to help build a tanks warcry stats? I would be quite impressed if that happened because most players quit groups when the exp sucks...
 
-Personally, I hope you guys choose to stop using it :lol:
+Personally, I hope you guys choose to stop using it <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -613,7 +611,7 @@ People are quick to point out the advantage of deathblow, but warcry to a warrio
 
 <div class="post" data-post-id="38075" data-author="*Splork*" data-date="2017-02-16T12:21:09+00:00" data-subject="Re: Warcry">
 
-I don't think anyone disagrees that it is ass backwards. As I said in my initial post, we chose not to change the game mechanics because we are simply too deep into the game to fix it correctly. For us to fix it, the way it should be fixed, it would actually be harder(much harder) to advance your Warcry count.  Sometimes it just not worth fixing an issue which would cause all sorts of complaints and leave new players at an extreme disadvantage and this turned out to be one of those.
+I don't think anyone disagrees that it is ass backwards. As I said in my initial post, we chose not to change the game mechanics because we are simply too deep into the game to fix it correctly. For us to fix it, the way it should be fixed, it would actually be harder(much harder) to advance your Warcry count. Sometimes it just not worth fixing an issue which would cause all sorts of complaints and leave new players at an extreme disadvantage and this turned out to be one of those.
 
 You aren't artificially building or abusing anything, that is the way every other tank has built their warcry numbers...
 
@@ -623,7 +621,7 @@ You aren't artificially building or abusing anything, that is the way every othe
 
 Suggested "fix:"
 
-Edit 'help warcry' to suggest that deathblow is a sleazy move and only dishonorable warriors use it.  (So it won't add to your prestige.)
+Edit 'help warcry' to suggest that deathblow is a sleazy move and only dishonorable warriors use it. (So it won't add to your prestige.)
 
 Even though it's a little silly, I think it's better to have an in-game explanation than a known bug that will never be addressed.
 
@@ -637,18 +635,18 @@ So not everyone uses this way to build the count, then again I may be not worth 
 
 For one, I'll be using deathblow in groups, because it's useful. If everyone wants to complain that it sucks, ideas it. Though if I ever want to exp on Taron again, I will probably change my opinion. Perhaps it depends on who's tanking.
 
-Also, fixing deathblow count and making it "actually be harder(much harder) to advance your Warcry count" wouldn't be fair, considering on big mobs it's only a round or two or <10% mob hp. Make deathblow count and make it 10% harder to count? Sure. 50% harder? Why?
+Also, fixing deathblow count and making it "actually be harder(much harder) to advance your Warcry count" wouldn't be fair, considering on big mobs it's only a round or two or \<10% mob hp. Make deathblow count and make it 10% harder to count? Sure. 50% harder? Why?
 
 </div>
 
 <div class="post" data-post-id="38078" data-author="*Breeze*" data-date="2017-02-16T22:30:08+00:00" data-subject="Re: Warcry">
 
-> **Josiah wrote:**
+> <strong>Josiah wrote:</strong>
 > Suggested "fix:"
 > 
 > 
 > 
-> Edit 'help warcry' to suggest that deathblow is a sleazy move and only dishonorable warriors use it.  (So it won't add to your prestige.)
+> Edit 'help warcry' to suggest that deathblow is a sleazy move and only dishonorable warriors use it. (So it won't add to your prestige.)
 > 
 > 
 > 

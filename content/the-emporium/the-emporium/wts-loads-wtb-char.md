@@ -48,9 +48,9 @@ First of all, my items. Sorry if they aren't of any worth, I haven't played in a
 
 Secondly, my character.
 
-Gemynd ~  (level: 40)
+Gemynd \~ (level: 40)
 
-Your levels:  Ne: 40 Ba: 40 Cl: 40 Mo: 27 
+Your levels: Ne: 40 Ba: 40 Cl: 40 Mo: 27 
 
 You are 21 years and 16 months old.
 
@@ -94,7 +94,7 @@ Argh, one last thing I forgot to add. Please don't post to ask for the price of 
 
 <div class="post" data-post-id="17622" data-author="slobe" data-date="2007-03-31T08:57:16+00:00" data-subject="">
 
-4mils for one of your jjd  :)
+4mils for one of your jjd <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -102,7 +102,7 @@ Argh, one last thing I forgot to add. Please don't post to ask for the price of 
 
 4mils for second JJD
 
----
+\---
 
 Bazilus the Crazy Python
 
@@ -202,20 +202,21 @@ An extremely generous offer has caused me to sell this entire character off alon
 
 Gemynd is now under new ownership.
 
-Cya guys :)
+Cya guys <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="17703" data-author="Yinao" data-date="2007-04-01T23:17:58+00:00" data-subject="">
 
-Dam*, I knew if you gave Brad the chance he would buy another character. :twisted:
+Dam\*, I knew if you gave Brad the chance he would buy another character. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="17747" data-author="kenny" data-date="2007-04-03T11:39:18+00:00" data-subject="">
 
-Erm forgot to add, decanter of endless water.[/quote:ll8hbshn]
+> <strong>Gemynd2 wrote:</strong>
+> Erm forgot to add, decanter of endless water.
 
-hi poolp. ;-)
+hi poolp. <img src="/images/smilies/icon_e_wink.svg" alt=";-)" title=";-)" width="15" height="15" class="smiley nozoom">
 
 </div>

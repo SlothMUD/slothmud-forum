@@ -14,7 +14,7 @@ post_count: 3
 
 guys i'm out of the game for several weeks due 3.12.13 road accident.
 
-wrecked bmw 645, but it saved my life ;-)
+wrecked bmw 645, but it saved my life <img src="/images/smilies/icon_e_wink.svg" alt=";-)" title=";-)" width="15" height="15" class="smiley nozoom">
 
 brb.
 

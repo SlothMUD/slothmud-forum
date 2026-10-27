@@ -24,11 +24,11 @@ T
 
 <div class="post" data-post-id="35358" data-author="*Breeze*" data-date="2014-06-28T10:01:37+00:00" data-subject="Re: Sloth Up / Down?">
 
-Start time was:    Sun Jun 15 14:38:40 2014 (local)
+Start time was: Sun Jun 15 14:38:40 2014 (local)
 
-Current time is:   Sat Jun 28 04:59:55 2014 (local)
+Current time is: Sat Jun 28 04:59:55 2014 (local)
 
-Uptime:            12 days, 14 hours, 21 minutes.
+Uptime: 12 days, 14 hours, 21 minutes.
 
 if anyone else has trouble i can reboot it later if someone emails me.
 

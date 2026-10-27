@@ -16,7 +16,7 @@ This isn't the only place in the game where procs don't check for shifted non-ag
 
 You raise your hands to the sky and rapidly shift into a small nervous tree (Tonedeaf).
 
-<113hp 383ma 39mv 5.6ac Dark Chasm -%>
+\<113hp 383ma 39mv 5.6ac Dark Chasm -%\>
 
 A captive assassin suddenly leaps out of the shadows and attacks Tonedeaf!
 
@@ -24,11 +24,11 @@ Suddenly a captive assassin stabs you in the back, RIP...
 
 You have been KILLED!! 
 
-<-116hp 383ma 436mv -6.3ac Dark Chasm -%>
+\<-116hp 383ma 436mv -6.3ac Dark Chasm -%\>
 
 You feel yourself floating upward...
 
-<-116hp 383ma 436mv -6.3ac Dark Chasm -%>
+\<-116hp 383ma 436mv -6.3ac Dark Chasm -%\>
 
 The vulture cackles madly and starts chewing on your body!
 

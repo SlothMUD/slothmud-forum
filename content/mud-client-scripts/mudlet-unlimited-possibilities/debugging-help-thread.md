@@ -18,9 +18,9 @@ I'm starting this thread for people like me who need help with triggers and scri
 
 <div class="post" data-post-id="35532" data-author="abraxsis" data-date="2014-12-01T04:52:04+00:00" data-subject="Re: Debugging Help Thread">
 
-Ok, I'm trying to set up a trigger named Ticket to set my destination when I buy a boat ticket.  Eventually I will have an entry for all the boat trips, but this is what I have so far:
+Ok, I'm trying to set up a trigger named Ticket to set my destination when I buy a boat ticket. Eventually I will have an entry for all the boat trips, but this is what I have so far:
 
-trigger statement  - 
+trigger statement - 
 
 ```
 ^You now have a (.*) boat ticket.$ 
@@ -48,7 +48,7 @@ if matches[2] == "black"
 end
 ```
 
-I'm getting the following error:  Trying to activate trigger *Ticket* failed, reason: Lua syntax error:[string "function Trigger17(}..."]:11: "expected near 'end'.
+I'm getting the following error: Trying to activate trigger <em>Ticket</em> failed, reason: Lua syntax error:[string "function Trigger17(}..."\]:11: "expected near 'end'.
 
 Any ideas/suggestions?
 
@@ -68,7 +68,7 @@ end
 
 <div class="post" data-post-id="35536" data-author="abraxsis" data-date="2014-12-01T07:30:51+00:00" data-subject="Re: Debugging Help Thread">
 
-Thanks, that got it.  Looked back at the trigger I got the idea from and realized it had a second if-then nested inside the first, hence the need for 2 end statements.  It just didn't click when I was first setting this up.
+Thanks, that got it. Looked back at the trigger I got the idea from and realized it had a second if-then nested inside the first, hence the need for 2 end statements. It just didn't click when I was first setting this up.
 
 </div>
 
@@ -98,6 +98,6 @@ One other thing to note is that the . in your regex pattern means any single cha
 
 <div class="post" data-post-id="35547" data-author="*Breeze*" data-date="2014-12-06T16:34:11+00:00" data-subject="Re: Debugging Help Thread">
 
-Thought it was \. not /.
+Thought it was \\. not /.
 
 </div>

@@ -14,19 +14,19 @@ post_count: 11
 
 Our newbies will see a modest amount of changes.
 
--Newbatia town now has a higher mob population, triple in some cases.
+\-Newbatia town now has a higher mob population, triple in some cases.
 
--Newbatia mobs on an infrequent basis, will now drop hints about nearby areas on Valkyre.
+\-Newbatia mobs on an infrequent basis, will now drop hints about nearby areas on Valkyre.
 
--in each town (not just VK), the Cleric guildmasters slowly drop hints about the location of the temples on that continent.
+\-in each town (not just VK), the Cleric guildmasters slowly drop hints about the location of the temples on that continent.
 
--in each town (not just VK), the Warrior guildmasters slowly drop hints about Degrance's Army and how to join up.
+\-in each town (not just VK), the Warrior guildmasters slowly drop hints about Degrance's Army and how to join up.
 
 The chats are set to a low percentage so it takes a fair number of minutes (if only one mob is in a room, almost 15 minutes) before a hint is dropped.
 
 The idea was to have just enough to pique newbies' interest and not have a stream of spam.
 
-In each town, the town quester now gives a scrolling lecture about what drachma IS and WHY we would want to spend it.  (In BH, Regis gives the lecture but Hawthorn doesn't.  I wanted to see how well this was received first, and it seemd odd to put the lecture on both of them).
+In each town, the town quester now gives a scrolling lecture about what drachma IS and WHY we would want to spend it. (In BH, Regis gives the lecture but Hawthorn doesn't. I wanted to see how well this was received first, and it seemd odd to put the lecture on both of them).
 
 </div>
 
@@ -48,13 +48,13 @@ It won't let me level restrict them AND give a random-order like I want.
 
 <div class="post" data-post-id="36933" data-author="*Idjit*" data-date="2016-05-20T03:11:54+00:00" data-subject="Re: Newbatia Changes">
 
-In response to these comments the quester lectures, which -are- in a rigid order, have been set to max-level 20.  I am currently pondering what i'll do for the wandering town mobs in BH.
+In response to these comments the quester lectures, which -are- in a rigid order, have been set to max-level 20. I am currently pondering what i'll do for the wandering town mobs in BH.
 
 </div>
 
 <div class="post" data-post-id="36934" data-author="*Idjit*" data-date="2016-05-20T03:37:26+00:00" data-subject="Re: Newbatia Changes">
 
-I have applied myself to the problem and written an every_arrival() function in MUDL that functions as follows:
+I have applied myself to the problem and written an every\_arrival() function in MUDL that functions as follows:
 
 If character level 19 and below enters the room, the thinker is turned on.
 
@@ -62,17 +62,17 @@ If character level 20 and higher enters the room, the thinker is turned off.
 
 So, Taron, it may be just your misfortune if a newbie happens to come sailing through your room while you're standing there.
 
-But I think that will be kind of rare?  Your initial arrival will have turned it off though, to start with...
+But I think that will be kind of rare? Your initial arrival will have turned it off though, to start with...
 
-(also, when you're actively running a group such that you'd have a last person arriving that's lower than 20, asserting that you'd have a newbie in tow in the back line which is also not that common, you tend to be the kind of leader anyway who convocates direct from area to area and doesn't stop in town to be spammed in the first place -- if you're in town -alone- preparing to run from recall to an area, your arrival --should-- shut off the thinker of something standing at West gate. I'm not entirely certain recall teleports will count as directional arrivals though within the every_arrival calling form.  Breeze would know more than I would on this subject..but you tend to run from recall to your next area within 3 seconds anyway?...).  
+(also, when you're actively running a group such that you'd have a last person arriving that's lower than 20, asserting that you'd have a newbie in tow in the back line which is also not that common, you tend to be the kind of leader anyway who convocates direct from area to area and doesn't stop in town to be spammed in the first place -- if you're in town -alone- preparing to run from recall to an area, your arrival --should-- shut off the thinker of something standing at West gate. I'm not entirely certain recall teleports will count as directional arrivals though within the every\_arrival calling form. Breeze would know more than I would on this subject..but you tend to run from recall to your next area within 3 seconds anyway?...). 
 
 So, at any rate, this will be a significant improvement if not exactly perfect.
 
-Due to the number of mobs that now drop hints (five or six? in BH now), I may miss adding the every_arrival to some of them.
+Due to the number of mobs that now drop hints (five or six? in BH now), I may miss adding the every\_arrival to some of them.
 
 Just incrementally remind me which ones and ill add it.
 
---D
+\--D
 
 </div>
 
@@ -88,7 +88,7 @@ Other areas are somewhat too dangerous for a while.
 
 Now newbs can hunt exp in town, then explore away when they feel ready. Olde good days have returned.
 
-Also, and I **MUST** outline this especially : spelling, grammar, and punctuation is fine, which is quite rare nowadays. The Comma Thief is pleased.
+Also, and I \*\*MUST\*\* outline this especially : spelling, grammar, and punctuation is fine, which is quite rare nowadays. The Comma Thief is pleased.
 
 </div>
 
@@ -98,7 +98,7 @@ Also, and I **MUST** outline this especially : spelling, grammar, and punctuatio
 
 I forget which.
 
---D
+\--D
 
 </div>
 
@@ -114,7 +114,7 @@ It's fine, if mobs start talking, when a newb walks into a room, where I'm stand
 
 <div class="post" data-post-id="36946" data-author="Firebrand420" data-date="2016-06-01T18:01:25+00:00" data-subject="Re: Newbatia Changes">
 
-So why not have the thinker proc tied to the Is_newbie flag? Folks can turn off the messages by turning off the Is_newbie flag.
+So why not have the thinker proc tied to the Is\_newbie flag? Folks can turn off the messages by turning off the Is\_newbie flag.
 
 </div>
 
@@ -124,7 +124,7 @@ That would require New Hardcoded Code.
 
 The thinker procs by themselves do not.
 
---D
+\--D
 
 </div>
 

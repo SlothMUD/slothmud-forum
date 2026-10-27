@@ -18,13 +18,13 @@ I added a trigger to make a clickable link in the output of locate:
 
 perl-regex pattern (probably too wide, but it works):
 
-^.* is in (.*).$
+^.\* is in (.\*).$
 
 lua:
 
-  selectString(matches[2], 1)
+ selectString(matches[2], 1)
 
-  setLink([[map.roomFind("]]..matches[2]..[[")]], matches[2])
+ setLink([[map.roomFind("]]..matches[2]..[[")]], matches[2])
 
 Then you can just click on the room name in the locate result! e.g.
 
@@ -34,13 +34,13 @@ Ok.
 
 The horn of Gnoph-Keh is in The Bamboo Copse.
 
-*click*
+\*click\*
 
 You know the following relevant rooms:
 
- ROOM ID   ROOM NAME                               ROOM AREA
+ ROOM ID ROOM NAME ROOM AREA
 
- 74039     The Bamboo Copse                        Herbalist Isle II
+ 74039 The Bamboo Copse Herbalist Isle II
 
 1 rooms found.
 
@@ -55,23 +55,23 @@ In the Generic Mapper - Mapso, iScript the function map.roomFind(query, lines) a
 replace:
 
 ```
-      cechoLink(
-        string.format("<cyan> %-10s", roomid),
-        'gotoRoom(' .. roomid .. ')',
-        string.format("Go to %s (%s)", roomid, tostring(roomname)),
-        true
-      )
+ cechoLink(
+ string.format("<cyan> %-10s", roomid),
+ 'gotoRoom(' .. roomid .. ')',
+ string.format("Go to %s (%s)", roomid, tostring(roomname)),
+ true
+ )
 ```
 
 with:
 
 ```
-      cechoLink(
-        string.format("<cyan> %-10s", roomid),
-        'centerview(' .. roomid .. ')',
-        string.format("Center view on %s (%s)", roomid, tostring(roomname)),
-        true
-      )
+ cechoLink(
+ string.format("<cyan> %-10s", roomid),
+ 'centerview(' .. roomid .. ')',
+ string.format("Center view on %s (%s)", roomid, tostring(roomname)),
+ true
+ )
 ```
 
 Then the Room ID click will load the right map and centre on the room you are interested in!

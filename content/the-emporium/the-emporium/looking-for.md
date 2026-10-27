@@ -18,6 +18,6 @@ I know its quest piece,but still if ya got em I would
 
 like to work out a deal.
 
-Thanks :)
+Thanks <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

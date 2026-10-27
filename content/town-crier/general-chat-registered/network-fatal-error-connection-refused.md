@@ -32,7 +32,7 @@ My char is reading a drachma book too... hrm anyone else not able to log in?
 
 For a moment there I though it was just me! Anyways, my eq is going to be okay, right?
 
---
+\--
 
 Samie
 
@@ -60,9 +60,9 @@ ok well I guess that I am gunna email splork the info incase he doesnt know but 
 
 Actually, just to clear it up for all you new guys/gals...
 
-You lose no eq during a crash.  The only way you lose eq during a crash is if your corpse was looted by a mob.  
+You lose no eq during a crash. The only way you lose eq during a crash is if your corpse was looted by a mob. 
 
-As far as the crash goes... all the coders are currently in bed or at work.  I have no way of fixing it.  Go smell the real roses for a while ;)  
+As far as the crash goes... all the coders are currently in bed or at work. I have no way of fixing it. Go smell the real roses for a while <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom"> 
 
 Akasha
 
@@ -76,7 +76,7 @@ Ok thank you Akasha much appriciated will it act as a void? And start out with 1
 
 <div class="post" data-post-id="15077" data-author="Blaster" data-date="2006-11-08T09:22:06+00:00" data-subject="">
 
-There seems to be an issue with the mud booting up correctly.  Both judge and myself have emailed the coders hoping Kjartan is still up at least to fix it but havn't heard a thing back yet.
+There seems to be an issue with the mud booting up correctly. Both judge and myself have emailed the coders hoping Kjartan is still up at least to fix it but havn't heard a thing back yet.
 
 All you can do is wait this one out, it may be awhile before it is fixed.
 

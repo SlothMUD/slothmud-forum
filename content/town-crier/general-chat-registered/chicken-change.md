@@ -14,7 +14,7 @@ post_count: 3
 
 In the course of my meanderings, I removed the Lyme chicken gag. 
 
-Having a newb deathtrap on the Lyme dock was funny to Blaster and I, but alas, we all mature eventually. So now, the lyme chicken is a fairly useful mob. Drops quick,  handy corpse, very evil aligned, decent xp, enuff gold to buy a ticket. No more hex load and no more fake consider proc.
+Having a newb deathtrap on the Lyme dock was funny to Blaster and I, but alas, we all mature eventually. So now, the lyme chicken is a fairly useful mob. Drops quick, handy corpse, very evil aligned, decent xp, enuff gold to buy a ticket. No more hex load and no more fake consider proc.
 
 </div>
 

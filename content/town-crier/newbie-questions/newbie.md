@@ -18,7 +18,7 @@ how do i start this???? I'm trying to learn something new. (this game) My husban
 
 <div class="post" data-post-id="11928" data-author="Shyla" data-date="2006-04-03T02:27:55+00:00" data-subject="">
 
-Kitty if it says wrong password and you are trying to make a new character that means that char name has been taken you will have to try new names til you find one that doesn't say wrong password.  after you type in the name it should say I don't know of "insert name here" .  Do you wish to create a new character (Y/N) if you don't get that message and you are trying to make a new character then a different name til you do.  I am shyla or jacinda and you can reach me at shyla@slothmud.org or 8828114 icq if you have more questions I can help you with 
+Kitty if it says wrong password and you are trying to make a new character that means that char name has been taken you will have to try new names til you find one that doesn't say wrong password. after you type in the name it should say I don't know of "insert name here" . Do you wish to create a new character (Y/N) if you don't get that message and you are trying to make a new character then a different name til you do. I am shyla or jacinda and you can reach me at shyla@slothmud.org or 8828114 icq if you have more questions I can help you with 
 
 HUGS
 

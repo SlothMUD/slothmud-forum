@@ -16,21 +16,21 @@ Frobisher has released version 1.09 of Wintin.Net. Here is his post on [www.wint
 
 Changes in this release: 
 
-- various MXP fixes 
+\- various MXP fixes 
 
-- full support for non-optional elements of the MXP specification 
+\- full support for non-optional elements of the MXP specification 
 
-- MXP variables and Attributes accessible as Wintin variables 
+\- MXP variables and Attributes accessible as Wintin variables 
 
-- Actions can be created to fire when variables change 
+\- Actions can be created to fire when variables change 
 
-- urls displayed as clickable links 
+\- urls displayed as clickable links 
 
-- revised Options screen 
+\- revised Options screen 
 
-- display performance improvements 
+\- display performance improvements 
 
-- various other fixes listed in the bugtracker
+\- various other fixes listed in the bugtracker
 
 Enjoy,
 
@@ -44,7 +44,7 @@ There is one small bug that ha been found, apparently the tick messages were lef
 
 Is the link to download under beta downloads?
 
-I clicked on the downloads page, and I didn't know which one would give me the version I want :(
+I clicked on the downloads page, and I didn't know which one would give me the version I want <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -52,7 +52,7 @@ I clicked on the downloads page, and I didn't know which one would give me the v
 
 Yeah, the wintin site isn't exactly clear about what version you're getting, but 1.09 will be in the beta section at the bottom of the page.
 
-EDIT: On a side note, anyone else notice just now that my avatar is posed allmost exactly the same as Splork's, but for facing the oppisate direction, or is it just me? :)
+EDIT: On a side note, anyone else notice just now that my avatar is posed allmost exactly the same as Splork's, but for facing the oppisate direction, or is it just me? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -60,12 +60,12 @@ EDIT: On a side note, anyone else notice just now that my avatar is posed allmos
 
 yeah ..it's just you.
 
- :lol:
+ <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="9244" data-author="Rynquald" data-date="2005-10-27T19:28:38+00:00" data-subject="">
 
-heh, figured :)
+heh, figured <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

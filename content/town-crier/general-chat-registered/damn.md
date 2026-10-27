@@ -20,7 +20,7 @@ Chainer is going to be 1 rich MOFO!!
 
 <div class="post" data-post-id="7260" data-author="rith" data-date="2005-06-15T23:25:46+00:00" data-subject="">
 
-My preeeeeciousssssssss......... :twisted: 
+My preeeeeciousssssssss......... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 One pebble to rule them all!
 
@@ -36,12 +36,12 @@ I'll sell you one for 1mil right now.
 
 Great, catch me online. Im on Heavell mostly these days.
 
-Thanks  :D
+Thanks <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="7269" data-author="Leaf" data-date="2005-06-16T12:08:43+00:00" data-subject="">
 
-Look at Aa, cutting into Chainer's profit.  BAD AA, BAD!!!
+Look at Aa, cutting into Chainer's profit. BAD AA, BAD!!!
 
 </div>

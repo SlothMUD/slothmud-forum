@@ -20,10 +20,10 @@ Come one come all.
 
 Countdown timer link is below:
 
-[<LINK_TEXT text="https://www.tickcounter.com/countdown/2 ... -day-quest">https://www.tickcounter.com/countdown/2162977/2020-slothmud-labor-day-quest</LINK_TEXT>](https://www.tickcounter.com/countdown/2162977/2020-slothmud-labor-day-quest)
+[https://www.tickcounter.com/countdown/2162977/2020-slothmud-labor-day-quest](https://www.tickcounter.com/countdown/2162977/2020-slothmud-labor-day-quest)
 
 Cheers
 
---Idj
+\--Idj
 
 </div>

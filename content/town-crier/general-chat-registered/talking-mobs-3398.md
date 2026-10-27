@@ -16,17 +16,17 @@ I am posting this again because the masses have no clue this feature exists and 
 
 We are extremely excited to officially announce phase one of our talking mob code. This code will make mobs respond to players using say, tell, and ask to make statements and questions in plain English. It works like this:
 
-1. A player says something aloud in presence of a mob
+1\. A player says something aloud in presence of a mob
 
-usually in the form of a greeting, such as "Hi <mobname>" or "Hey <mobname"
+usually in the form of a greeting, such as "Hi \<mobname\>" or "Hey \<mobname"
 
-2. The mob decides if it's being addressed
+2\. The mob decides if it's being addressed
 
-3. If yes, the mob translates what the player says to one of a long list of possible things a player might say, like "how are you?" or "where is <person>?".
+3\. If yes, the mob translates what the player says to one of a long list of possible things a player might say, like "how are you?" or "where is \<person\>?".
 
-4. Custom code generates the best response . Each question has many logical responses, such as "East", "Never heard of him" or "That's you."
+4\. Custom code generates the best response . Each question has many logical responses, such as "East", "Never heard of him" or "That's you."
 
-5. Grammar generator creates a unique phrasing, so the mob might actually say "I think he lives to the east of here." or "I heard he was off to the east." It's quite possible to ask the very same question ten times in a row and get ten different answers.
+5\. Grammar generator creates a unique phrasing, so the mob might actually say "I think he lives to the east of here." or "I heard he was off to the east." It's quite possible to ask the very same question ten times in a row and get ten different answers.
 
 We have put in some careful checking so that the mob can decide whether you are talking to it or to someone else, so it shouldn't butt into conversations between players.
 

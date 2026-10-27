@@ -40,7 +40,7 @@ The status quo affords sound opportunities to teach new players how to use the a
 
 (Hi Atwell!)
 
-P.S. Handing out holy swords without any work done would create an impression that it's easy to get exp here. They should learn to solo for hours and die to get levels from lev 1 ;) What stops them from being hooked is most probably not knowing what to do or how to do things (dying on 1-3 lev, not knowing what to do, and thinking they'd lose everything is 2nd). Old Diku/EnvyMUD schools existed for a reason, IMHO.
+P.S. Handing out holy swords without any work done would create an impression that it's easy to get exp here. They should learn to solo for hours and die to get levels from lev 1 <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom"> What stops them from being hooked is most probably not knowing what to do or how to do things (dying on 1-3 lev, not knowing what to do, and thinking they'd lose everything is 2nd). Old Diku/EnvyMUD schools existed for a reason, IMHO.
 
 I wonder what the conversion rate of visitor to player on Aadvark and other muds are.
 

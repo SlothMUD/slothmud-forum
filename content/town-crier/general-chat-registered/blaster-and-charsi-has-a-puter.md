@@ -14,7 +14,7 @@ post_count: 11
 
 Hello everyone,
 
-We just bought a laptop comuter and will be playing sloth once again. I tell ya I was going crazy without playing sloth for a while. It was driving me nuts of course I am nuts but that is beside the point.  :D    I thought I would let everyone know that we have a puter and can't wait to play sloth again. I hope all is well and we sure did miss you guys alot.
+We just bought a laptop comuter and will be playing sloth once again. I tell ya I was going crazy without playing sloth for a while. It was driving me nuts of course I am nuts but that is beside the point. <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> I thought I would let everyone know that we have a puter and can't wait to play sloth again. I hope all is well and we sure did miss you guys alot.
 
 Blaster and Charsi
 
@@ -22,7 +22,7 @@ Blaster and Charsi
 
 <div class="post" data-post-id="9470" data-author="Weasel" data-date="2005-11-11T01:55:05+00:00" data-subject="">
 
-welcome back  :twisted:
+welcome back <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -32,13 +32,13 @@ Blaster...Charsi...
 
 I do remember those names from somewhere...
 
- :twisted: brand
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> brand
 
 </div>
 
 <div class="post" data-post-id="9474" data-author="Yasik" data-date="2005-11-11T07:12:37+00:00" data-subject="">
 
-HAHA! I told you! The time has come for all weak and stupid feel the wrath of Greater Evil once more! The skies shall rain fire and seas will become as blood! Let all creation tremble before the Dark One and let the cleansing scythe of Death purify this world!  :twisted:
+HAHA! I told you! The time has come for all weak and stupid feel the wrath of Greater Evil once more! The skies shall rain fire and seas will become as blood! Let all creation tremble before the Dark One and let the cleansing scythe of Death purify this world! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -46,7 +46,7 @@ HAHA! I told you! The time has come for all weak and stupid feel the wrath of Gr
 
 Yasik, you're so sentimental like a girl.
 
- :lol:
+ <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -68,13 +68,13 @@ Paul
 
 <div class="post" data-post-id="9479" data-author="Autolycos" data-date="2005-11-11T14:45:35+00:00" data-subject="">
 
-Yasik, you are such a damn goober!  :twisted:
+Yasik, you are such a damn goober! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="9480" data-author="Qa" data-date="2005-11-11T15:05:21+00:00" data-subject="">
 
-Good to hear, bud.  Looking forward to seeing you.
+Good to hear, bud. Looking forward to seeing you.
 
 Qa
 
@@ -82,18 +82,23 @@ Qa
 
 <div class="post" data-post-id="9481" data-author="firebrand" data-date="2005-11-11T15:09:32+00:00" data-subject="Re: blaster and charsi has a puter">
 
-Hello everyone,
+> <strong>Charsi wrote:</strong>
+> Hello everyone,
+> 
+> 
+> 
+> We just bought a laptop comuter and will be playing sloth once again. I tell ya I was going crazy without playing sloth for a while. It was driving me nuts of course I am nuts but that is beside the point. <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> I thought I would let everyone know that we have a puter and can't wait to play sloth again. I hope all is well and we sure did miss you guys alot.
+> 
+> 
+> 
+> Blaster and Charsi
 
-We just bought a laptop comuter and will be playing sloth once again. I tell ya I was going crazy without playing sloth for a while. It was driving me nuts of course I am nuts but that is beside the point.  :D    I thought I would let everyone know that we have a puter and can't wait to play sloth again. I hope all is well and we sure did miss you guys alot.
-
-Blaster and Charsi[/quote:2l23usxy]
-
-*grin* good to see you two coming back darlin....but we already knew you were crazy for marrying that blaster guy.  *wink*
+\*grin\* good to see you two coming back darlin....but we already knew you were crazy for marrying that blaster guy. \*wink\*
 
 </div>
 
 <div class="post" data-post-id="9489" data-author="osric" data-date="2005-11-12T04:00:55+00:00" data-subject="">
 
-Is it April first already? Damn I didn't think I'd missed Thanksgiving, oh well  8)
+Is it April first already? Damn I didn't think I'd missed Thanksgiving, oh well <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>

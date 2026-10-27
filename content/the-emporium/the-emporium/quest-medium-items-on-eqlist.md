@@ -12,7 +12,7 @@ post_count: 4
 
 <div class="post" data-post-id="13870" data-author="Mog" data-date="2006-09-01T08:16:24+00:00" data-subject="Quest Medium items on Eqlist">
 
-Eqlist has items marked "Quest Medium".  Looking for anyone that can tell me if any of the following items are available in-game via quests or if they were given to mortals by the imms for one reason or another.
+Eqlist has items marked "Quest Medium". Looking for anyone that can tell me if any of the following items are available in-game via quests or if they were given to mortals by the imms for one reason or another.
 
 Mithril Knight's Helmet
 

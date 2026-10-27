@@ -14,13 +14,14 @@ post_count: 8
 
 Looking for Tri, Hex, or even Octs.
 
-Well pay well :)
+Well pay well <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="8850" data-author="firebrand" data-date="2005-09-28T22:01:21+00:00" data-subject="Re: WTB TOKENS!!!">
 
-Will pay well :)[/quote:1fxgkli7]
+> <strong>Leaf wrote:</strong>
+> Will pay well <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 i bet you say that to all the girls...
 
@@ -28,9 +29,10 @@ i bet you say that to all the girls...
 
 <div class="post" data-post-id="8851" data-author="Leaf" data-date="2005-09-29T00:50:53+00:00" data-subject="Re: WTB TOKENS!!!">
 
-i bet you say that to all the girls...[/quote:17bv97iy]
+> <strong>firebrand wrote:</strong>
+> i bet you say that to all the girls...
 
-Whatever it takes to get a nice warm slice of american apple pie  :twisted:
+Whatever it takes to get a nice warm slice of american apple pie <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -44,7 +46,7 @@ you need to finish Fable or Leaf off dork, no tokens for you bitch!
 
 Aa, u know for a fact I like to get my chars to lvl 3x40 and start a newbie.
 
-Hell I might just sell off Leaf or Fable.  Both great chars thats just sitting
+Hell I might just sell off Leaf or Fable. Both great chars thats just sitting
 
 around in rent.
 
@@ -58,22 +60,29 @@ all proceeds from will's char sales will go to the "get will a REAL life" fund
 
 <div class="post" data-post-id="8856" data-author="firebrand" data-date="2005-09-29T11:35:05+00:00" data-subject="Re: WTB TOKENS!!!">
 
-i bet you say that to all the girls...[/quote:1nh29azv]
+> <strong>Leaf wrote:</strong>
+> > <strong>firebrand wrote:</strong>
+> > i bet you say that to all the girls...
+> 
+> 
+> 
+> 
+> 
+> Whatever it takes to get a nice warm slice of american apple pie <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
-Whatever it takes to get a nice warm slice of american apple pie  :twisted:[/quote:1nh29azv]
-
-hey look everyone!  it's the pie fucker from american pie!!!
+hey look everyone! it's the pie fucker from american pie!!!
 
 </div>
 
 <div class="post" data-post-id="8857" data-author="Leaf" data-date="2005-09-29T11:45:14+00:00" data-subject="Re: WTB TOKENS!!!">
 
-hey look everyone!  it's the pie fucker from american pie!!![/quote:ja8u2w7c]
+> <strong>firebrand wrote:</strong>
+> hey look everyone! it's the pie fucker from american pie!!!
 
 Hey who wouldn't want to stick their dick into something warm, moist, and
 
-sweet?  
+sweet? 
 
-Ooo Reb how's your mouth this morning  :twisted:
+Ooo Reb how's your mouth this morning <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

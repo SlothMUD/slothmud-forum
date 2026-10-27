@@ -14,13 +14,13 @@ post_count: 2
 
 I need one of these: 
 
-Spiked Helm of Black Steel 	Lord Toocha	Dalina's Castle	-1.3 ST SW SBa [OR] 2x40
+Spiked Helm of Black Steel Lord Toocha	Dalina's Castle	-1.3 ST SW SBa [OR] 2x40
 
 Will pay well or offer up reasonable trade bait for it.
 
 thanks
 
--doug
+\-doug
 
 </div>
 

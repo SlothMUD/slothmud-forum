@@ -44,6 +44,6 @@ There were 79 coins.
 
 You get a wiedzmin ring from the corpse of a girl in azure robes that's on the ground.
 
-You get an Invitation to Castle Black from the corpse of a girl in azure robes that's on the ground. :oops:
+You get an Invitation to Castle Black from the corpse of a girl in azure robes that's on the ground. <img src="/images/smilies/icon_redface.svg" alt=":oops:" title=":oops:" width="15" height="15" class="smiley nozoom">
 
 </div>

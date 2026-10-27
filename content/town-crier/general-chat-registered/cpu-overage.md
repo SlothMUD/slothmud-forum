@@ -14,10 +14,10 @@ post_count: 1
 
 sloth page pulled up an admin warning this morning for cpu overage, for a few minutes...maybe a hung process or something..seems to be up now, maybe someone might want to check the logs for this morning
 
-<Shazuko Roku Ryuu>
+\<Shazuko Roku Ryuu\>
 
-<Shazuko Six Dragons>
+\<Shazuko Six Dragons\>
 
-<~Chaos~>
+\<\~Chaos\~\>
 
 </div>

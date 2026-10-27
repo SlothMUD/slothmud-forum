@@ -26,7 +26,8 @@ and btw.. stfu
 
 <div class="post" data-post-id="18591" data-author="brady" data-date="2007-05-22T17:15:10+00:00" data-subject="Re: WELCOME BACK TO SLOTH DITHECA/THECA!">
 
-Thought you were banned or something for being a cheater..my bad.[/quote:17yca051]
+> <strong>13 wrote:</strong>
+> Thought you were banned or something for being a cheater..my bad.
 
 If there was a morality check before signing on to Sloth, I do believe you would be shocked into last Tuesday.
 
@@ -34,7 +35,7 @@ If there was a morality check before signing on to Sloth, I do believe you would
 
 <div class="post" data-post-id="18592" data-author="13" data-date="2007-05-22T17:34:33+00:00" data-subject="">
 
-:)
+<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

@@ -12,7 +12,7 @@ post_count: 3
 
 <div class="post" data-post-id="14623" data-author="Emerald" data-date="2006-10-13T23:51:26+00:00" data-subject="Where was he the last 6 years?  Don&#x27;t know but he&#x27;s back...">
 
-[img:q5rbofen]http://pictureserver.funnyjunk.com/pics2/supersquirrel.jpg[/img:q5rbofen]
+![](http://pictureserver.funnyjunk.com/pics2/supersquirrel.jpg)
 
 </div>
 
@@ -20,7 +20,7 @@ post_count: 3
 
 asked this one?
 
-[img:2aujkto1]http://static.flickr.com/21/37505253_fb818800b4_m.jpg[/img:2aujkto1]
+![](http://static.flickr.com/21/37505253_fb818800b4_m.jpg)
 
 </div>
 

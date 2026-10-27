@@ -16,13 +16,13 @@ Since global bonuses are a difference between an area being good or bad exp for 
 
 Also, since some people have to wait weeks or months for suitable major houses to compete in coliseum in 1 level, it'd also help to do quests to boost incoming houses, ie:
 
-- boost fire or channelling houses, make a minor house major for killing a wizard in salamis
+\- boost fire or channelling houses, make a minor house major for killing a wizard in salamis
 
-- boost a thief/monk/warrior house - make it major for killing Ares
+\- boost a thief/monk/warrior house - make it major for killing Ares
 
-- turn on global group exp for submitting corpses of 5 black/red/green/blue/white dragons
+\- turn on global group exp for submitting corpses of 5 black/red/green/blue/white dragons
 
-- turn on global regen by killing a few pests in Herbalist/Arboretum and giving the corpses/slices to Selenia
+\- turn on global regen by killing a few pests in Herbalist/Arboretum and giving the corpses/slices to Selenia
 
 There can be quests for all extras, if someone wants to bother enough to enable them for a group.
 

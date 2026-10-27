@@ -44,17 +44,17 @@ You hand the components over to the peaceful monk.
 
 The monk cringes back from the fleeting essence of death, but manages 
 
-to use the bloodstained garment to neutralize its effect.  Applying the 
+to use the bloodstained garment to neutralize its effect. Applying the 
 
-essence to the grimoire, the book swings open.  Turning near the back, 
+essence to the grimoire, the book swings open. Turning near the back, 
 
 the monk reads a chapter on using negative energy to create the wraith 
 
-undead.  Nodding to himself, the monk grabs hold of the claws and speaks 
+undead. Nodding to himself, the monk grabs hold of the claws and speaks 
 
 an advanced incantation of the dead while pouring the affliction of a
 
-thousand souls onto the claws.  Suddenly, the diffusion of negative 
+thousand souls onto the claws. Suddenly, the diffusion of negative 
 
 energy weakens on the claws, leaving only a few traces.
 
@@ -62,9 +62,9 @@ The monk places the remaining elements into a bowl-shaped rock at his feet.
 
 Rolling his sleeves up, he wields the shadow hammer and forges the items 
 
-into a precious metal.  Speaking another incantation from the book of the 
+into a precious metal. Speaking another incantation from the book of the 
 
-dead, the monk imbues the claws.  
+dead, the monk imbues the claws. 
 
 Smiling with exhaustion and pride, the monk hands you a set of moonstone 
 
@@ -80,11 +80,11 @@ AC-apply is -0.2
 
 Can affect you as:
 
-    Affects: DAMROLL by 1
+ Affects: DAMROLL by 1
 
-    Affects: MANA by 15
+ Affects: MANA by 15
 
-Only those who are at least adept avatars may use this item.  
+Only those who are at least adept avatars may use this item. 
 
 Gratz to Zam with these and thanks to Maniac, we had a lot of fun running this area.
 

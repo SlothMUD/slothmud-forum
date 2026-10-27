@@ -12,7 +12,7 @@ post_count: 9
 
 <div class="post" data-post-id="15979" data-author="13" data-date="2007-01-04T23:28:50+00:00" data-subject="Lis is a fatty">
 
-<618hp 9ma 160mv><173730687xp>
+\<618hp 9ma 160mv\>\<173730687xp\>
 
 Lis grabs an apple off the ground.
 
@@ -46,7 +46,7 @@ Lis scarfs assorted sweetmeats.
 
 <div class="post" data-post-id="15986" data-author="Lis" data-date="2007-01-05T00:18:21+00:00" data-subject="">
 
-FAT MAGE - HAPPY MAGE!!!!!! :twisted:
+FAT MAGE - HAPPY MAGE!!!!!! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -84,7 +84,7 @@ Good mage - dead mage.
 
 <div class="post" data-post-id="15997" data-author="resouh" data-date="2007-01-05T09:08:01+00:00" data-subject="">
 
-*slowly moves toward nearest exit*
+\*slowly moves toward nearest exit\*
 
 </div>
 
@@ -106,6 +106,6 @@ wtf.. stab him again!
 
 kill him til he dies from it!
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

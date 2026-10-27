@@ -14,7 +14,7 @@ post_count: 1
 
 I would like to support good but dying tradition of making a forum topic about each past quest event.
 
-Christmas Quest 2015 was very fun. At the beginning we decided that we aren't in the competing mood. Therefore we had one team instead of two. Our quest was to destroy elves and their generators in the special quest area. It was quite fun because generators were quite big mobs standing in the rooms with currents that dragged us off. :)
+Christmas Quest 2015 was very fun. At the beginning we decided that we aren't in the competing mood. Therefore we had one team instead of two. Our quest was to destroy elves and their generators in the special quest area. It was quite fun because generators were quite big mobs standing in the rooms with currents that dragged us off. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 However we won and got some drachma. We had epic group afterwards.
 

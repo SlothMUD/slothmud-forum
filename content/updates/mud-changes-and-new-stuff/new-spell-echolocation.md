@@ -14,38 +14,38 @@ post_count: 1
 
 "ECHOLOCATION"
 
-Usage:         sing 'echolocation' [<target>]
+Usage: sing 'echolocation' [\<target\>]
 
-Cost:          22 mana
+Cost: 22 mana
 
-Level:         Bard 18
+Level: Bard 18
 
-Duration:      Length of Song
+Duration: Length of Song
 
-Accumulative:  -
+Accumulative: -
 
-Save Versus:   -
+Save Versus: -
 
-Damage Type:   -
+Damage Type: -
 
-Stratum:       Mental 
+Stratum: Mental 
 
-Spellbook:     an exposition of high pitched sounds
+Spellbook: an exposition of high pitched sounds
 
-Prerequisite:  -
+Prerequisite: -
 
-See Also:      BLIND 
+See Also: BLIND 
 
 This unusual song is a made up of a series of rapidly repeating beats, and
 
-mimicks the call of many bats.  It is usually performed at a high frequency
+mimicks the call of many bats. It is usually performed at a high frequency
 
 almost inaudbile to humans.
 
 Anyone suffering from the effects of the song will notice a very faint
 
-super-imposed shadow image.  But will also be able to find anything hidden
+super-imposed shadow image. But will also be able to find anything hidden
 
-or obscured.  Another side effect is to give partial sight whilst blind.
+or obscured. Another side effect is to give partial sight whilst blind.
 
 </div>

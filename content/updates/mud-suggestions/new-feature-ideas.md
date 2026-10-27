@@ -12,7 +12,7 @@ post_count: 14
 
 <div class="post" data-post-id="36422" data-author="*teker*" data-date="2016-01-06T17:37:53+00:00" data-subject="New feature ideas">
 
-As I mentioned in the "fastrun" thread, I thought a different thread would be better for discussing high level feature requests/improvements rather than cramming it into that one.  There are currently 235 ideas in the database, so I thought I'd throw out some as a conversation started.  But feel free to suggest others.  In general I tend to pass on ideas involving game-balance (due to my lack of playtime) and I especially ignore things containing the phrase "remort bonus".
+As I mentioned in the "fastrun" thread, I thought a different thread would be better for discussing high level feature requests/improvements rather than cramming it into that one. There are currently 235 ideas in the database, so I thought I'd throw out some as a conversation started. But feel free to suggest others. In general I tend to pass on ideas involving game-balance (due to my lack of playtime) and I especially ignore things containing the phrase "remort bonus".
 
 Daily/Weekly autoquests with random reward exp/coins/drachma/items, with announcement, like Mathor but reward is not honor
 
@@ -32,7 +32,7 @@ send messages to auction channel from consign in batches every 30-60 seconds, co
 
 show exits with spy
 
-Adding a visage effect to one of the holy items would help newbs in groups  I have had to tell them no when we ran roberts
+Adding a visage effect to one of the holy items would help newbs in groups I have had to tell them no when we ran roberts
 
 have replay show the last comments even if you just logged on
 
@@ -86,10 +86,10 @@ the auction timer is there because I didn't want to spam auction channel with 90
 
 <div class="post" data-post-id="36426" data-author="Dragoth" data-date="2016-01-06T23:21:42+00:00" data-subject="Re: New feature ideas">
 
-> ***Breeze* wrote:**
+> <strong>\*Breeze\* wrote:</strong>
 > the auction timer is there because I didn't want to spam auction channel with 90 auctions ending at the same time but I am open to discuss it if you come up with a reasonable solution
 
-Make the auctioneer accept all the items you give him for consignment, but make him automatically add any time interval you desire between **actually** consigning them. 
+Make the auctioneer accept all the items you give him for consignment, but make him automatically add any time interval you desire between <strong>actually</strong> consigning them. 
 
 We do not care when the item goes up for sale, as long as we dont have to stand there for minutes on end to consign a few items.
 
@@ -97,19 +97,19 @@ We do not care when the item goes up for sale, as long as we dont have to stand 
 
 <div class="post" data-post-id="36427" data-author="Ker" data-date="2016-01-06T23:57:34+00:00" data-subject="Re: New feature ideas">
 
-1) add cool aura for chars running at 25max stat, since its not easy until later levels
+1\) add cool aura for chars running at 25max stat, since its not easy until later levels
 
 Me really like this one. Give some cool bonus too thanks! 
 
-2) make list available online for those who've made av40
+2\) make list available online for those who've made av40
 
 Permanently.
 
-3) add weapon dam, stab dam, circle stab, sys shock and other stats to score stats2
+3\) add weapon dam, stab dam, circle stab, sys shock and other stats to score stats2
 
 Time to welcome them into the list.
 
-4) show exits with spy
+4\) show exits with spy
 
 This could be the finisher for this cool skill.
 
@@ -137,9 +137,9 @@ affects duration would be nice.. this is only mud i have seen that does not have
 
 self variable would definitely help
 
-library vaults would be nice.  as would other specialty vaults like shards 
+library vaults would be nice. as would other specialty vaults like shards 
 
-spells for cash.... don't seem to fit here, but giving the number of permanent effects, stackable potions etc.. why not?  Took me years to get -13.7 ac.. now you can quaff a few potions and be there at level 20.
+spells for cash.... don't seem to fit here, but giving the number of permanent effects, stackable potions etc.. why not? Took me years to get -13.7 ac.. now you can quaff a few potions and be there at level 20.
 
 i agree on groupwho and pendulum..
 
@@ -159,9 +159,9 @@ Basically, we want to consign any number of items at once and we don't really ca
 
 You can time like this:
 
-- player consigns 10 items: auctioneer takes all the items immediately
+\- player consigns 10 items: auctioneer takes all the items immediately
 
-- internally schedule items for submission in batches, 3 items every 15-30 seconds.
+\- internally schedule items for submission in batches, 3 items every 15-30 seconds.
 
 This way, you get notifications of auctions ending for 3 items every 15-30 seconds, which seems acceptable. You can tweak it for faster/slower and more/less items, if you or players find it acceptable.
 
@@ -175,11 +175,11 @@ About weekly quests. I suggest not making a single week quest for whole mud. But
 
 So player can come and ask for random quest of desired difficulty once a week.
 
-Somehow similiar to the system that  World of Warcraft has.
+Somehow similiar to the system that World of Warcraft has.
 
 I bet player could help with ideas or even exact patterns(including text) for a lot of quests, if you will ask for that to make list of weekly quests really big.
 
-Not a problem, that quest gonna cycle at some point. The whole that game is about cycling things, why not that could be done with quests :)
+Not a problem, that quest gonna cycle at some point. The whole that game is about cycling things, why not that could be done with quests <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 No sure, if quest could be abbandoned before week ends. Maybe one chance to get another. Or better just pick one of 2-3 choices at the begining with no posibility to change during the week.
 
@@ -193,21 +193,21 @@ Fluffy, that's what I had in mind about the weekly quests.
 
 I really like the WoW daily quest system:
 
-- there's a daily quest mob that gives out a quest for 1 out of 5 daily quests for a week
+\- there's a daily quest mob that gives out a quest for 1 out of 5 daily quests for a week
 
-- you can undertake a quest and cycle mobs at your speed
+\- you can undertake a quest and cycle mobs at your speed
 
-- your quest doesn't get reset, you can keep cycling mobs for items for several weeks, if you are slow
+\- your quest doesn't get reset, you can keep cycling mobs for items for several weeks, if you are slow
 
-- you can undertake another daily quest the next week and keep cycling 2 sets of mobs, if you haven't finished the earlier quest.
+\- you can undertake another daily quest the next week and keep cycling 2 sets of mobs, if you haven't finished the earlier quest.
 
-This way, everyone has to log in every week to undertake a quest and the overlap of mobs is minimal, because active players hit different mobs. If we add level *and* difficulty difference here, then the mobs to be killed won't be camped as much.
+This way, everyone has to log in every week to undertake a quest and the overlap of mobs is minimal, because active players hit different mobs. If we add level \*and\* difficulty difference here, then the mobs to be killed won't be camped as much.
 
 </div>
 
 <div class="post" data-post-id="36436" data-author="*Splork*" data-date="2016-01-07T16:30:01+00:00" data-subject="Re: New feature ideas">
 
-> **Quote:**
+> <strong>Quote:</strong>
 > library vaults would be nice. as would other specialty vaults like shards
 
 We have discussed this before and we all mostly like the idea of spellbooks being popped when they are needed. Its why they are on the no-vault list. It gets people grouping:)
@@ -218,7 +218,7 @@ We have discussed this before and we all mostly like the idea of spellbooks bein
 
 Vault libraries while sounding cool are indeed somewhat off balance. Even if you were able to vault only crumble-read or books with some other restriction. Nowdays we have library-stores, which are already enough.
 
-  Spells for cash worth considering, but will have to think through what spells and what duration you can get. Right now, we have purloin aura you can get god sanc and wraithform from mobs (for free!), but i never see people using it.
+ Spells for cash worth considering, but will have to think through what spells and what duration you can get. Right now, we have purloin aura you can get god sanc and wraithform from mobs (for free!), but i never see people using it.
 
  Regen on proper rent, sending coins to offline, daily-weekly quests and auctioneer tweak all look nice and interesting improvements.
 
@@ -228,7 +228,7 @@ Add some items player can buy with honor points. Time-limited (similar to grenad
 
 Sword which hits ethers (on par with cleric dark mace, but it costs honor to get and it is time limited);
 
-Shield with ~10% dam reduct, stacks with fluidity and sanc;
+Shield with \~10% dam reduct, stacks with fluidity and sanc;
 
 Weapons dealing double damage to dragons/undead and other creatures and so on.
 
@@ -242,9 +242,9 @@ Also way to make monks(and maybe thieves) more real monks like - add some sort o
 
 <div class="post" data-post-id="36438" data-author="cyprimus" data-date="2016-01-08T05:10:31+00:00" data-subject="Re: New feature ideas">
 
-ok, how about shard vaults?  huge capacity but only holds shards ...as a stack... having one slot for each type of shard for example.. just tracking quantity as they are added or removed.
+ok, how about shard vaults? huge capacity but only holds shards ...as a stack... having one slot for each type of shard for example.. just tracking quantity as they are added or removed.
 
-Oh the weekly quests,, sounds to me like you want a weekly group quest... maybe just keep adding them?  why make a one time quest when you can make it a permanent?  But either way.. unless its open all week to small groups will just leave a lot of ppl even further behind..
+Oh the weekly quests,, sounds to me like you want a weekly group quest... maybe just keep adding them? why make a one time quest when you can make it a permanent? But either way.. unless its open all week to small groups will just leave a lot of ppl even further behind..
 
 Far as i know there are no standing group quests.. or at least few..
 
@@ -252,33 +252,33 @@ Far as i know there are no standing group quests.. or at least few..
 
 <div class="post" data-post-id="36442" data-author="*teker*" data-date="2016-01-08T23:34:25+00:00" data-subject="Re: New feature ideas">
 
-Just as a heads-up, I am going to be working on vaults more now that the equipment set code is almost finished (announcement coming soon).  If you have other ideas regarding the vaults, now would be the time to let me know.
+Just as a heads-up, I am going to be working on vaults more now that the equipment set code is almost finished (announcement coming soon). If you have other ideas regarding the vaults, now would be the time to let me know.
 
 The new vault code will allow players to:
 
-- Build/connect without immortal intervention (already done)
+\- Build/connect without immortal intervention (already done)
 
-- Purchase and configure keyless entry without immortal intervention (already done)
+\- Purchase and configure keyless entry without immortal intervention (already done)
 
-- Purchase regen affects without immortal intervention (already done)
+\- Purchase regen affects without immortal intervention (already done)
 
-- Purchase additional vault storage slots (alerady done)
+\- Purchase additional vault storage slots (alerady done)
 
-- Store items with attached clasps and/or runes (not done yet)
+\- Store items with attached clasps and/or runes (not done yet)
 
-- Store containers with contents (not done yet)
+\- Store containers with contents (not done yet)
 
-- View contents of the vaults from the web site (not done yet)
+\- View contents of the vaults from the web site (not done yet)
 
 I'm especially curious about clan vaults - what do clan leaders want different in their vaults?
 
-- Should the clan have it's own unique key?  Or require keyless entry?
+\- Should the clan have it's own unique key? Or require keyless entry?
 
-- Who can purchase keys (if applicable)?  Officers or anyone in the clan?
+\- Who can purchase keys (if applicable)? Officers or anyone in the clan?
 
-- Who can add members to keyless entry?  Officers or anyone in the clan?
+\- Who can add members to keyless entry? Officers or anyone in the clan?
 
-- I'm assuming the clan won't care if a member decides to purchase regen or vault storage.
+\- I'm assuming the clan won't care if a member decides to purchase regen or vault storage.
 
 What else?
 
@@ -298,9 +298,9 @@ a player viewable ideas list with an ability to cast their vote for a particular
 
 would be helpful to:
 
-- let players rate the ideas, so the imms know, what the players want more
+\- let players rate the ideas, so the imms know, what the players want more
 
-- let ppl discuss separate ideas in separate threads to make this readable and more useful.
+\- let ppl discuss separate ideas in separate threads to make this readable and more useful.
 
 A thread per an idea might work, except I don't see rating yet and I don't think 50 or so threads will be readable in a list due to extra info (author, date, etc).
 

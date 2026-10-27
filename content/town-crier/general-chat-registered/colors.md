@@ -20,7 +20,7 @@ Why?
 
 Here's what I use to set my title if it will help fix the problem:
 
-**title %s ^RM^OU^YD^GL^CE^BT ^GUI**
+<strong>title %s ^RM^OU^YD^GL^CE^BT ^GUI</strong>
 
 </div>
 
@@ -38,7 +38,7 @@ Splork
 
 Greetings Mortals,
 
-I've corrected a bug in this thread name. Americans...  :roll: 
+I've corrected a bug in this thread name. Americans... <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> 
 
 Enjoy!
 

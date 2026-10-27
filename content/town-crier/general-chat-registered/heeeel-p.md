@@ -12,6 +12,6 @@ post_count: 1
 
 <div class="post" data-post-id="30859" data-author="Lenzra" data-date="2010-02-07T05:03:25+00:00" data-subject="Heeeel:[p">
 
-OHHHH goood lord help me please I can't even get to the site it says security somethin or other HHHHHHeeeelloppp.... this is Midge...:(  K It says java.lang.NullPointerException  ??? I'm no comp genius...:(
+OHHHH goood lord help me please I can't even get to the site it says security somethin or other HHHHHHeeeelloppp.... this is Midge...<img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom"> K It says java.lang.NullPointerException ??? I'm no comp genius...<img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>

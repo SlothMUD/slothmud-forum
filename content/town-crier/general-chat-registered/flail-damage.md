@@ -20,11 +20,11 @@ You've got a great feeling about this fight!
 
 A wereshark is incapacitated and will slowly die, if not aided.
 
-<1083hp 254ma 349mv> -11.8ac | Lycanthropia
+\<1083hp 254ma 349mv\> -11.8ac \| Lycanthropia
 
 flail
 
-<1083hp 257ma 349mv> -11.8ac | Lycanthropia
+\<1083hp 257ma 349mv\> -11.8ac \| Lycanthropia
 
 You flail your weapon around you in a flurry of motion!
 
@@ -32,11 +32,11 @@ You've got a great feeling about this fight!
 
 A wereshark is incapacitated and will slowly die, if not aided.
 
-<1083hp 257ma 349mv> -11.8ac | Lycanthropia
+\<1083hp 257ma 349mv\> -11.8ac \| Lycanthropia
 
 flail
 
-<1083hp 260ma 349mv> -11.8ac | Lycanthropia
+\<1083hp 260ma 349mv\> -11.8ac \| Lycanthropia
 
 You flail your weapon around you in a flurry of motion!
 
@@ -44,7 +44,7 @@ You've got a great feeling about this fight!
 
 A wereshark is incapacitated and will slowly die, if not aided.
 
-<1083hp 260ma 349mv> -11.8ac | Lycanthropia
+\<1083hp 260ma 349mv\> -11.8ac \| Lycanthropia
 
 @@
 
@@ -52,7 +52,7 @@ A wereshark is incapacitated and will slowly die, if not aided.
 
 The 'darkness' spell on you is about to wear off.
 
-<1083hp 262ma 349mv> -11.8ac | Lycanthropia
+\<1083hp 262ma 349mv\> -11.8ac \| Lycanthropia
 
 With a mighty effort, you shake off your exhaustion!
 
@@ -62,7 +62,7 @@ You've got a great feeling about this fight!
 
 A wereshark is incapacitated and will slowly die, if not aided.
 
-<1083hp 262ma 329mv> -11.8ac | Lycanthropia
+\<1083hp 262ma 329mv\> -11.8ac \| Lycanthropia
 
 With a mighty effort, you shake off your exhaustion!
 
@@ -88,7 +88,7 @@ There were 1500 coins.
 
 <div class="post" data-post-id="32688" data-author="Insomniac" data-date="2011-06-16T09:56:29+00:00" data-subject="Re: flail damage">
 
-Nerf it, warriors are overpowered! :evil:
+Nerf it, warriors are overpowered! <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -96,7 +96,7 @@ Nerf it, warriors are overpowered! :evil:
 
 Or....
 
-You could make JuJu's damage = flail damage :)
+You could make JuJu's damage = flail damage <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Xamak
 

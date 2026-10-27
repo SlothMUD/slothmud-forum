@@ -24,7 +24,7 @@ Thanks Splork and thx Krok.
 
 <div class="post" data-post-id="11908" data-author="brand" data-date="2006-04-02T03:45:30+00:00" data-subject="">
 
-i really got to stop going out on fridays :twisted:
+i really got to stop going out on fridays <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

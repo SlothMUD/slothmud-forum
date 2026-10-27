@@ -14,6 +14,6 @@ post_count: 1
 
 (Since the news seems to be down today)
 
-There's a new warrior skill, oaths and vows.  Right now there's only one oath, but we have plans for several others.  See the in-game help.  (Due to popular demand, you don't have to pop a manual for this one.)
+There's a new warrior skill, oaths and vows. Right now there's only one oath, but we have plans for several others. See the in-game help. (Due to popular demand, you don't have to pop a manual for this one.)
 
 </div>

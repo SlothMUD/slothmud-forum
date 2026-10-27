@@ -16,21 +16,21 @@ help oath
 
 OATH VOW "OATHS AND VOWS" SWEAR OATHS VOWS VICTORY PROTECTION
 
- Usage:        swear <oath> [target]
+ Usage: swear \<oath\> [target]
 
  Accumulative: no
 
- Duration:     it ain't over til it's over
+ Duration: it ain't over til it's over
 
- Level:        Warrior 35 (oath of victory)
+ Level: Warrior 35 (oath of victory)
 
-               Warrior 37 (oath of protection)
+ Warrior 37 (oath of protection)
 
- Save:         -
+ Save: -
 
- Manual:       passed down through oral lore
+ Manual: passed down through oral lore
 
-A warrior's honor has value beyond that of jewels and spices.  One man
+A warrior's honor has value beyond that of jewels and spices. One man
 
 perhaps regards his own honor highly, another treats his as so much dross.
 
@@ -46,19 +46,19 @@ of good and evil; a cruel warlord may reliably keep his word, while a
 
 helpful, kindly, charismatic bard might have no measurable honor at all.
 
-(My daughter made the acquaintance of one such.  If you see him, I'd like
+(My daughter made the acquaintance of one such. If you see him, I'd like
 
 to have a word with him - I'll make it worth your while.)
 
-Swearing properly is an art and a science.  The oath must be worded
+Swearing properly is an art and a science. The oath must be worded
 
 impressively to impact your friends and foes, but also must contain the
 
-right formulae to impress the gods with your gravity.  The secrets of
+right formulae to impress the gods with your gravity. The secrets of
 
 such oaths and vows can only be mastered by the world's more puissant
 
-*** Press return ***
+\*\*\* Press return \*\*\*
 
 fighters.
 
@@ -74,17 +74,17 @@ achieve victory, both gods and men are bound to hear of it, and that
 
 reputation will walk with you for all the days of your lives.
 
-A somewhat more difficult oath is that of protection.  You may only
+A somewhat more difficult oath is that of protection. You may only
 
 swear this vow to one you are protecting in combat; it will greatly
 
-increase your ability to carry out this duty.  (It also improves your
+increase your ability to carry out this duty. (It also improves your
 
 chances of rescuing your ward, should she come into harm's way in spite
 
-of your protection.)  The oath of protection lasts as long as you are
+of your protection.) The oath of protection lasts as long as you are
 
-protecting the person.  While guarding is not as romantic-sounding as
+protecting the person. While guarding is not as romantic-sounding as
 
 swearing victory, and so this oath will not contribute to the list of
 

@@ -14,27 +14,27 @@ post_count: 5
 
 You are using:
 
-<worn on finger>     a fiery ring of light..
+\<worn on finger\> a fiery ring of light..
 
-<worn on finger>     a fiery ring of light..
+\<worn on finger\> a fiery ring of light..
 
-<worn on body>       a dwarven ringmail shirt
+\<worn on body\> a dwarven ringmail shirt
 
-<worn on hands>      mailed gloves..
+\<worn on hands\> mailed gloves..
 
-<worn on arms>       a pair of white silk sleeves..
+\<worn on arms\> a pair of white silk sleeves..
 
-<worn about waist>   an ethereal sash..
+\<worn about waist\> an ethereal sash..
 
-<worn around wrist>  a band of water..
+\<worn around wrist\> a band of water..
 
-<held>               a paint-bucket..
+\<held\> a paint-bucket..
 
 so +10 shock
 
 with 18 wis and 18 con
 
- :twisted:  :!:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -42,41 +42,41 @@ with 18 wis and 18 con
 
 You are using:
 
-<used as light>      an ivory torch..It emits a faint humming sound! (with a flawed glowing gem attached to it)
+\<used as light\> an ivory torch..It emits a faint humming sound! (with a flawed glowing gem attached to it)
 
-<worn on finger>     an oval stone ring..It has a soft glowing aura!
+\<worn on finger\> an oval stone ring..It has a soft glowing aura!
 
-<worn on finger>     an oval stone ring..It has a soft glowing aura!
+\<worn on finger\> an oval stone ring..It has a soft glowing aura!
 
-<worn on shoulders>  malachite shoulderguards..It has a soft glowing aura!
+\<worn on shoulders\> malachite shoulderguards..It has a soft glowing aura!
 
-<worn around neck>   a ruby brooch..It has a soft glowing aura!
+\<worn around neck\> a ruby brooch..It has a soft glowing aura!
 
-<worn on body>       a dwarven ringmail shirt
+\<worn on body\> a dwarven ringmail shirt
 
-<worn on head>       a Large Demon Skull..It has a soft glowing aura!
+\<worn on head\> a Large Demon Skull..It has a soft glowing aura!
 
-<worn on legs>       carborundum greaves
+\<worn on legs\> carborundum greaves
 
-<worn on feet>       Diamond Encrusted Sandals..It has a soft glowing aura!
+\<worn on feet\> Diamond Encrusted Sandals..It has a soft glowing aura!
 
-<worn on hands>      mailed gloves..It emits a faint humming sound!
+\<worn on hands\> mailed gloves..It emits a faint humming sound!
 
-<worn on arms>       a pair of white silk sleeves
+\<worn on arms\> a pair of white silk sleeves
 
-<worn as shield>     an aura of midnight..It emits a faint humming sound!
+\<worn as shield\> an aura of midnight..It emits a faint humming sound!
 
-<worn about body>    the shroud of the dark arts
+\<worn about body\> the shroud of the dark arts
 
-<worn about waist>   an ethereal sash..It has a soft glowing aura!
+\<worn about waist\> an ethereal sash..It has a soft glowing aura!
 
-<worn around wrist>  a band of water
+\<worn around wrist\> a band of water
 
-<worn around wrist>  a band of water
+\<worn around wrist\> a band of water
 
-<wielded>            a diamond studded mithril staff..It has a soft glowing aura!
+\<wielded\> a diamond studded mithril staff..It has a soft glowing aura!
 
-<held>               a paint-bucket..It has a soft glowing aura!
+\<held\> a paint-bucket..It has a soft glowing aura!
 
 think i'm still missin a piece or two, but +17 aint bad, just wish i didn't still shock half the people i try and raise!!
 
@@ -84,7 +84,7 @@ think i'm still missin a piece or two, but +17 aint bad, just wish i didn't stil
 
 <div class="post" data-post-id="983" data-author="Evergreen" data-date="2004-07-08T05:58:14+00:00" data-subject="">
 
-Gratz on shroud, Heck  :D 
+Gratz on shroud, Heck <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> 
 
 im still not done with it, just few the most easy cps left...
 
@@ -96,7 +96,7 @@ nice + 17 rulez...
 
 can it be beaten??? 
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

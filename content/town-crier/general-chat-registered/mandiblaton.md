@@ -26,7 +26,7 @@ I walk out of my room, and come back in a few minutes later, and itâ€™s rec
 
 So we have a small warrior - Sirrico, a necro - Tisna, a thief Virus and a me. Now Mandiblaton tends to eat 1000hp in 3 rounds through -11 sanc. It was wasteful to heal tank, when he would be dead in 2 rounds flat. So I shifted, used my hp as a meat shield, then the others came in healing self and blasting. After 5 fairly epic runs and about 3 deathsâ€¦ we got him! 
 
-Itâ€™s now 12.30am the next day, heheâ€¦ I trundle off to BH where the only peri marked happens to be the one that I need at WEST GATEâ€¦ :shock: oh how my luck had changedâ€¦ I was pumped, and I still canâ€™t believe I finally got my vigor bookâ€¦ because Iâ€™d been wishing I could get one for like 2 months and not done much about itâ€¦ and after a complete disaster everything worked out so sweetly.
+Itâ€™s now 12.30am the next day, heheâ€¦ I trundle off to BH where the only peri marked happens to be the one that I need at WEST GATEâ€¦ <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> oh how my luck had changedâ€¦ I was pumped, and I still canâ€™t believe I finally got my vigor bookâ€¦ because Iâ€™d been wishing I could get one for like 2 months and not done much about itâ€¦ and after a complete disaster everything worked out so sweetly.
 
 Big thanks to clannies, Virus, Tisna and Sirrico. There was nothing in it really for them, but it was important to me and they helped for what turned out to be about an hour.
 
@@ -36,7 +36,7 @@ The End
 
 <div class="post" data-post-id="25582" data-author="Virus" data-date="2008-08-05T01:38:31+00:00" data-subject="">
 
-Didn't want to but I guess I had to help caz Adagio said I get the clan if he dies  :D .....j/k
+Didn't want to but I guess I had to help caz Adagio said I get the clan if he dies <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> .....j/k
 
 Gratz on the book!
 
@@ -54,11 +54,11 @@ Cousin Juggleblood and his new found wealth.
 
 Uncle Mandos and his collections of exotic items and characters.
 
-Who could forget my sister Weasel, she'd make a nice pair of slippers! :shock:
+Who could forget my sister Weasel, she'd make a nice pair of slippers! <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 Maybe even young Yasik and his collection of sparta memorabilia could fetch a quarter at the junk store.
 
-Hmm, where is my telephone book... where is h... h for hitmen, ohh here we go...!  :twisted:
+Hmm, where is my telephone book... where is h... h for hitmen, ohh here we go...! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -70,9 +70,10 @@ won't read, too much l3tt3rz
 
 <div class="post" data-post-id="25585" data-author="jezer" data-date="2008-08-05T05:29:27+00:00" data-subject="">
 
-won't read, too much l3tt3rz[/quote:37el8ej4]
+> <strong>Yasik2 wrote:</strong>
+> won't read, too much l3tt3rz
 
-Strange... and you play a text based game!?! Guess you just watch the numbers  :) High is awesomer.
+Strange... and you play a text based game!?! Guess you just watch the numbers <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> High is awesomer.
 
 </div>
 
@@ -84,8 +85,9 @@ i wanna be in strider's will
 
 <div class="post" data-post-id="25600" data-author="Yasik2" data-date="2008-08-05T16:08:05+00:00" data-subject="">
 
-Strange... and you play a text based game!?! Guess you just watch the numbers  :) High is awesomer.[/quote:1zvugl9p]
+> <strong>jezer wrote:</strong>
+> Strange... and you play a text based game!?! Guess you just watch the numbers :) High is awesomer.
 
-Rhinoceruses don't playe games. They f***ing charge your a55! (c)
+Rhinoceruses don't playe games. They f\*\*\*ing charge your a55! (c)
 
 </div>

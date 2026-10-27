@@ -16,7 +16,7 @@ Greeting mortals.
 
 - Changed messages on masterful succor, when it creates two scrolls, to correctly reflect the number of scrolls created ("a couple" instead of "several").
 
-Thanks to the picky Mug for reporting. :lol:
+Thanks to the picky Mug for reporting. <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 Changes will be available on crash/reboot (after someone recompiles the code).
 

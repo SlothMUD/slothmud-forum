@@ -12,9 +12,9 @@ post_count: 2
 
 <div class="post" data-post-id="19852" data-author="Toxis" data-date="2007-08-23T11:43:44+00:00" data-subject="Angus">
 
-Angus You've seen 0.0107% of the world.  (level: 40)
+Angus You've seen 0.0107% of the world. (level: 40)
 
-Your levels:  Dr: 40 Ne: 36 Cl: 24 Ba: 16 
+Your levels: Dr: 40 Ne: 36 Cl: 24 Ba: 16 
 
 You are 18 years and 8 months old.
 
@@ -44,14 +44,14 @@ You have been playing for 4 days and 20 hours.
 
 Str: 8 / 0, Int: 18, Wis: 18, Dex: 17, Con: 17
 
-I was wondering if anyone would pay 8 mil for this character.  Someone offered me a druid that I would rather have, and I could use the gold.  If interested, contact Toxis/Brad ingame.
+I was wondering if anyone would pay 8 mil for this character. Someone offered me a druid that I would rather have, and I could use the gold. If interested, contact Toxis/Brad ingame.
 
--Toxis/Brad
+\-Toxis/Brad
 
 </div>
 
 <div class="post" data-post-id="19869" data-author="Tap" data-date="2007-08-23T21:35:51+00:00" data-subject="">
 
-Lemme know if you find someone. I have several char's/items to part with as well. :twisted:
+Lemme know if you find someone. I have several char's/items to part with as well. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

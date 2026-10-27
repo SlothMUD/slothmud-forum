@@ -84,7 +84,7 @@ great beast reached its zenith, it paused and began to speak.
 
 fearlessly and without regards to your own life, selflessly 
 
-bringing your people  from the dangers and sensing the changes
+bringing your people from the dangers and sensing the changes
 
 that the gods have decreed upon the world, are spared. My lord,
 
@@ -234,7 +234,7 @@ Neptune, looking out over the bay at the reminder of their
 
 insolence, and the power of the gods.
 
--Gemellus the Observant,
+\-Gemellus the Observant,
 
  Excerpt from "The Galavan Migration",
 
@@ -244,95 +244,95 @@ insolence, and the power of the gods.
 
 <div class="post" data-post-id="31717" data-author="*Splork*" data-date="2010-09-06T19:49:22+00:00" data-subject="Re: The Legend of the Thalassian Pirates">
 
-*Immortals of SlothMUD*
+\*Immortals of SlothMUD\*
 
---------------------------------
+\--------------------------------
 
-[   *Creator*   ] Splork [http://www.slothmud.org](http://www.slothmud.org)
+[ \*Creator\* ] Splork [http://www.slothmud.org](http://www.slothmud.org)
 
-[ *Greater God* ] Isabo
+[ \*Greater God\* ] Isabo
 
-[ *Greater God* ] Chobbs strongly attuned to the afk stratum.
+[ \*Greater God\* ] Chobbs strongly attuned to the afk stratum.
 
-[  *WebMaster*  ] Benq the AFK
+[ \*WebMaster\* ] Benq the AFK
 
-[     *God*     ] Neptune [JAFO]
+[ \*God\* ] Neptune [JAFO]
 
-[pri sec ter qua qui hex sep oct]  Players
+[pri sec ter qua qui hex sep oct] Players
 
---------------------------------
+\--------------------------------
 
-[      *Scoundrel*  Th:7.38      ] Cizin [Legends] blah Apirana.
+[ \*Scoundrel\* Th:7.38 ] Cizin [Legends] blah Apirana.
 
-[     *Hierophant*  Cl:6.39      ] Toxis [Legends] Clan open for new members.
+[ \*Hierophant\* Cl:6.39 ] Toxis [Legends] Clan open for new members.
 
-[     *Hierophant*  Cl:6.31      ] Zuzu has paid off Tuk!
+[ \*Hierophant\* Cl:6.31 ] Zuzu has paid off Tuk!
 
-[        *Seer*  Ma:5.39         ] Tuk <<M.A.G.I>> Shemale stolen my title. Blame her.
+[ \*Seer\* Ma:5.39 ] Tuk \<\<M.A.G.I\>\> Shemale stolen my title. Blame her.
 
-[      *Cabalist*  Ne:5.30       ] Acme -
+[ \*Cabalist\* Ne:5.30 ] Acme -
 
-[      *Initiate*  Mo:5.26       ] Skyv ~Dragonsworn~
+[ \*Initiate\* Mo:5.26 ] Skyv \~Dragonsworn\~
 
-[       *Ranger*  Wa:4.35        ] Katie voted today, did you?!?
+[ \*Ranger\* Wa:4.35 ] Katie voted today, did you?!?
 
-[40d 40o 40c 40w|31m 14n 12b 10t ] Jezer WTB/WTT Golden Yellow Topaz
+[40d 40o 40c 40w\|31m 14n 12b 10t ] Jezer WTB/WTT Golden Yellow Topaz
 
-[        *Seer*  Ma:4.16         ] Belion collecting tokens...
+[ \*Seer\* Ma:4.16 ] Belion collecting tokens...
 
-[40w 40n 40c 40m| 0   0   0   0  ] Nobody nobody but you!  *clap**clap**clap*
+[40w 40n 40c 40m\| 0 0 0 0 ] Nobody nobody but you! \*clap\*\*clap\*\*clap\*
 
-[40c 40d 40w 23m|10b  9n  8o  5t ] Norks ~Dragonsworn~ afk a lot today
+[40c 40d 40w 23m\|10b 9n 8o 5t ] Norks \~Dragonsworn\~ afk a lot today
 
-[40t 40m 40c 23n|14b 15w 10o  8d ] Xxx xxX
+[40t 40m 40c 23n\|14b 15w 10o 8d ] Xxx xxX
 
-[40t 40m 38w 20c|11n  8o  8b  5d ] Ferrum {Greedy} clan open for new members :)
+[40t 40m 38w 20c\|11n 8o 8b 5d ] Ferrum {Greedy} clan open for new members <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-[40w 38o 25c 23m|15b 12d 11t 11n ] Loew .
+[40w 38o 25c 23m\|15b 12d 11t 11n ] Loew .
 
-[40m 23d 14w 11c| 8t  4n  2o  1b ] Koios [Legends]
+[40m 23d 14w 11c\| 8t 4n 2o 1b ] Koios [Legends]
 
-[39c 31m 24n 17d|15t 11w  9b  6o ] Tbg thanks norks
+[39c 31m 24n 17d\|15t 11w 9b 6o ] Tbg thanks norks
 
-[30d 24m 20c 12n|10o  9w  7b  7t ] Mercy 84
+[30d 24m 20c 12n\|10o 9w 7b 7t ] Mercy 84
 
-[30w 20t 20c 14d| 7o  4m  5n  2b ] Lite [Legends]
+[30w 20t 20c 14d\| 7o 4m 5n 2b ] Lite [Legends]
 
-[28c 20d 20n 11m| 8o  5w  5t  4b ] Yinao catchy toon, [http://pi.ytmnd.com/](http://pi.ytmnd.com/)
+[28c 20d 20n 11m\| 8o 5w 5t 4b ] Yinao catchy toon, [http://pi.ytmnd.com/](http://pi.ytmnd.com/)
 
-[20n 20d 20c 20m|20b 20o 20w 14t ] Mud is the name and the game.
+[20n 20d 20c 20m\|20b 20o 20w 14t ] Mud is the name and the game.
 
-[20w 20m 20c 20n|10t  8d  6o  5b ] Aslan wandering around town...
+[20w 20m 20c 20n\|10t 8d 6o 5b ] Aslan wandering around town...
 
-[20w 20d 20c 20o|17m 12n 10b  9t ] Mahkra [Legends] Cow and Chicken
+[20w 20d 20c 20o\|17m 12n 10b 9t ] Mahkra [Legends] Cow and Chicken
 
-[20n 20c 20m 19w| 1d  1b  1t  1o ] Rayne thunder and lightning
+[20n 20c 20m 19w\| 1d 1b 1t 1o ] Rayne thunder and lightning
 
-[20m 20c 20w 10o| 0   0   0   0  ] Kelgar eats tokens...
+[20m 20c 20w 10o\| 0 0 0 0 ] Kelgar eats tokens...
 
-[20m 18c 10w  8d| 5n  3b  2o  2t ] Fergus the bold
+[20m 18c 10w 8d\| 5n 3b 2o 2t ] Fergus the bold
 
-[20w 18c  8t  0 | 0   0   0   0  ] Kmo the Untitled
+[20w 18c 8t 0 \| 0 0 0 0 ] Kmo the Untitled
 
-[16d  6c  1n  1m| 2w  0   0   0  ] Madeline the Untitled
+[16d 6c 1n 1m\| 2w 0 0 0 ] Madeline the Untitled
 
-[13d  6m  2c  0 | 0   0   0   0  ] Effigia the Untitled
+[13d 6m 2c 0 \| 0 0 0 0 ] Effigia the Untitled
 
-[13t  3b  1c  1w| 0   0   0   0  ] Nicolai the wetboy apprentice
+[13t 3b 1c 1w\| 0 0 0 0 ] Nicolai the wetboy apprentice
 
-[10w  5c  2t  2n| 0   0   0   0  ] Marvin prototype
+[10w 5c 2t 2n\| 0 0 0 0 ] Marvin prototype
 
-[ 8n  2d  2c  0 | 0   0   0   0  ] Fire and Ice
+[ 8n 2d 2c 0 \| 0 0 0 0 ] Fire and Ice
 
-[ 8w  2t  0   0 | 0   0   0   0  ] Trymunx the Untitled
+[ 8w 2t 0 0 \| 0 0 0 0 ] Trymunx the Untitled
 
-[ 3t  2w  0   0 | 0   0   0   0  ] Naugh the Untitled
+[ 3t 2w 0 0 \| 0 0 0 0 ] Naugh the Untitled
 
-[ 2m  1d  0   0 | 0   0   0   0  ] Tiachel the Untitled
+[ 2m 1d 0 0 \| 0 0 0 0 ] Tiachel the Untitled
 
-[ 1t  0   0   0 | 0   0   0   0  ] Lillith the Untitled
+[ 1t 0 0 0 \| 0 0 0 0 ] Lillith the Untitled
 
-[ 1b  0   0   0 | 0   0   0   0  ] Uruz the Untitled
+[ 1b 0 0 0 \| 0 0 0 0 ] Uruz the Untitled
 
 There are 41 visible players.
 
@@ -340,45 +340,45 @@ Highest total since last bootup: 41.
 
 Neptune is leading 'The Fierce Fellowship' on The Island:
 
-           (Immortal)   Neptune
+ (Immortal) Neptune
 
-           (Immortal)   Splork
+ (Immortal) Splork
 
 Cizin is leading 'Cizin's Unstoppable Council' on The Island:
 
-            (Th:7.38)   Cizin
+ (Th:7.38) Cizin
 
-            (Cl:6.31)   Zuzu
+ (Cl:6.31) Zuzu
 
-            (Ma:1.23)   Koios
+ (Ma:1.23) Koios
 
-            (Ne:0.20)   Rayne
+ (Ne:0.20) Rayne
 
-            (Th:2.38)   Ferrum
+ (Th:2.38) Ferrum
 
-            (Ne:0.20)   Mud
+ (Ne:0.20) Mud
 
-            (Wa:4.35)   Katie
+ (Wa:4.35) Katie
 
-            (Th:3.23)   Xxx
+ (Th:3.23) Xxx
 
-            (Cl:3.23)   Norks
+ (Cl:3.23) Norks
 
-            (Ne:5.30)   Acme
+ (Ne:5.30) Acme
 
-            (Mo:5.26)   Skyv
+ (Mo:5.26) Skyv
 
-            (Wa:0.30)   Lite
+ (Wa:0.30) Lite
 
-            (Wa:0.20)   Mahkra
+ (Wa:0.20) Mahkra
 
-            (Cl:6.39)   Toxis
+ (Cl:6.39) Toxis
 
-            (Wa:4.40)   Nobody
+ (Wa:4.40) Nobody
 
-            (Ma:5.39)   Tuk
+ (Ma:5.39) Tuk
 
-            (Th:0.13)   Nicolai
+ (Th:0.13) Nicolai
 
 </div>
 
@@ -394,17 +394,17 @@ Splork
 
 <div class="post" data-post-id="31725" data-author="blackmore" data-date="2010-09-07T03:05:15+00:00" data-subject="Re: The Legend of the Thalassian Pirates">
 
-The max_con helm was very nice.  I'm curious how it relates to the other 1.2ac +con helm ingame (dark helm), since nobody's popped it in S4 yet.  It was one of the items I expected to find had been changed to max_con, but now there's a 1.2 +max_con helm ingame already, and probably on a mob much more likely to be run.
+The max\_con helm was very nice. I'm curious how it relates to the other 1.2ac +con helm ingame (dark helm), since nobody's popped it in S4 yet. It was one of the items I expected to find had been changed to max\_con, but now there's a 1.2 +max\_con helm ingame already, and probably on a mob much more likely to be run.
 
-The dam reduce robe is...odd.  What good does damage reduction do if it causes your AC to go up?  I don't think getting hit more often is a good tradeoff for taking less damage per hit.  It would depend on the mob, but I wouldn't go after it.
+The dam reduce robe is...odd. What good does damage reduction do if it causes your AC to go up? I don't think getting hit more often is a good tradeoff for taking less damage per hit. It would depend on the mob, but I wouldn't go after it.
 
-None of the others were the kind of item that you would intentionally run an area to get, though some of it was worth having if you were in an xp group that happened to hit the mob.  The rest was pure filler eq.
+None of the others were the kind of item that you would intentionally run an area to get, though some of it was worth having if you were in an xp group that happened to hit the mob. The rest was pure filler eq.
 
 </div>
 
 <div class="post" data-post-id="31726" data-author="jezer" data-date="2010-09-07T05:34:34+00:00" data-subject="Re: The Legend of the Thalassian Pirates">
 
-I'm unsure how much hp MAX_CON adds... but would like to point out there are plenty of good -1.2 helmets out there with +hp and in this respect I wonder if they are better than a MAX_CON helmet.
+I'm unsure how much hp MAX\_CON adds... but would like to point out there are plenty of good -1.2 helmets out there with +hp and in this respect I wonder if they are better than a MAX\_CON helmet.
 
 Its difficult to crunch the numbers, but I suspect a -0.5 ac robe is better than -0.3 with dam reduct.
 
@@ -430,15 +430,15 @@ Cizin
 
 <div class="post" data-post-id="31732" data-author="Skyv" data-date="2010-09-07T12:55:50+00:00" data-subject="Re: The Legend of the Thalassian Pirates">
 
-It was definitely a fun group (thanks for leading Cizin) and I was given a few options for equipment at the end which was much appreciated.  I ended up with the tri-cornered hat.  I have to admit, I was hoping for a little more than a 23 hitpoint bump for the MAX_CON when that's my primary stat (maybe has something to do with my classo being all caster after monk?) but am happy with what I got.
+It was definitely a fun group (thanks for leading Cizin) and I was given a few options for equipment at the end which was much appreciated. I ended up with the tri-cornered hat. I have to admit, I was hoping for a little more than a 23 hitpoint bump for the MAX\_CON when that's my primary stat (maybe has something to do with my classo being all caster after monk?) but am happy with what I got.
 
-I have the same question as Blackmore about a 0.3AC robe with +1 dam_reduction, seems like the ac would help more?  
+I have the same question as Blackmore about a 0.3AC robe with +1 dam\_reduction, seems like the ac would help more? 
 
-I also think the gloves are an interesting item.  I can't remember the restrictions, but I wouldn't give up the hand-dam to switch to those from yellow-rose gloves.  Might be good lowbie equipment as Jezer said.
+I also think the gloves are an interesting item. I can't remember the restrictions, but I wouldn't give up the hand-dam to switch to those from yellow-rose gloves. Might be good lowbie equipment as Jezer said.
 
-The new equipment opens up a question for me that's been brought up before in terms of runes.  As of now, socketing is permanent, which means there could be some serious remorse if you socket a hard-earned rune into what seems like the best choice at the time, and then some new equipment is introduced that would be a better fit.  Is it within the realm of possibility to get some sort of rune unsocketing mob that charges an appropriately hefty amount (something similar to switching 3x40 equipment) set up to address situations like this?
+The new equipment opens up a question for me that's been brought up before in terms of runes. As of now, socketing is permanent, which means there could be some serious remorse if you socket a hard-earned rune into what seems like the best choice at the time, and then some new equipment is introduced that would be a better fit. Is it within the realm of possibility to get some sort of rune unsocketing mob that charges an appropriately hefty amount (something similar to switching 3x40 equipment) set up to address situations like this?
 
-Again, thanks again for the new area/equipment.  All of us monks... well, at least all 1 of us on yesterday, enjoy the monk-type equipment :) and the drachma was a nice  bonus for all.
+Again, thanks again for the new area/equipment. All of us monks... well, at least all 1 of us on yesterday, enjoy the monk-type equipment <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> and the drachma was a nice bonus for all.
 
 Skyv
 
@@ -446,7 +446,7 @@ Skyv
 
 <div class="post" data-post-id="31733" data-author="Thraxas" data-date="2010-09-07T15:03:33+00:00" data-subject="Re: The Legend of the Thalassian Pirates">
 
-> **Skyv wrote:**
+> <strong>Skyv wrote:</strong>
 > Is it within the realm of possibility to get some sort of rune unsocketing mob that charges an appropriately hefty amount (something similar to switching 3x40 equipment) set up to address situations like this?
 
 well said
@@ -457,15 +457,15 @@ well said
 
 A couple more thoughts...
 
-+water_walk is an attribute that adds nothing, since it's a low level monk skill that pretty much every character has, and it's used innately.
+\+water\_walk is an attribute that adds nothing, since it's a low level monk skill that pretty much every character has, and it's used innately.
 
-One item said it was resist_light and another said it was resist_water.  None of us understood what benefits either of those would give us.  Can we get a little clarification?
+One item said it was resist\_light and another said it was resist\_water. None of us understood what benefits either of those would give us. Can we get a little clarification?
 
 </div>
 
 <div class="post" data-post-id="31736" data-author="blackmore" data-date="2010-09-08T00:47:43+00:00" data-subject="Re: The Legend of the Thalassian Pirates">
 
-2 new forges just announced  at Fornax.
+2 new forges just announced at Fornax.
 
 Fornax, The Galavan Blacksmith tells you 'Ahh yes, the crest of the crimson buccaneer...Here is a little bit of information for you:'
 
@@ -477,7 +477,7 @@ Weight: 1, Value: 75354gold, Worn in: TAKE
 
 Clasp can only be attached to:
 
-   a crimson tri-cornered hat
+ a crimson tri-cornered hat
 
 Clasp is non-removable once attached.
 
@@ -487,9 +487,9 @@ Only those who are primary supreme monks may use this item.
 
 Requires: 250000 coins, 1x a gold hoop earring, 
 
-  1x an argosian treasure chest, 1x an argosian cutlass, 
+ 1x an argosian treasure chest, 1x an argosian cutlass, 
 
-  2x A bar of gold
+ 2x A bar of gold
 
 Fornax, The Galavan Blacksmith tells you 'Ahh yes, the crest of the pirate king...Here is a little bit of information for you:'
 
@@ -501,7 +501,7 @@ Weight: 1, Value: 75354gold, Worn in: TAKE
 
 Clasp can only be attached to:
 
-   a crimson tri-cornered hat
+ a crimson tri-cornered hat
 
 Clasp is non-removable once attached.
 
@@ -511,10 +511,10 @@ Only those who are primary supreme monks may use this item.
 
 Requires: 250000 coins, 1x the physician's mirror, 
 
-  1x an argosian treasure chest, 1x an argosian cutlass, 
+ 1x an argosian treasure chest, 1x an argosian cutlass, 
 
-  2x a bar of platinum
+ 2x a bar of platinum
 
-The crimson tri-cornered hat is 1.2ac +max_con.
+The crimson tri-cornered hat is 1.2ac +max\_con.
 
 </div>

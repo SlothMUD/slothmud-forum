@@ -14,7 +14,7 @@ post_count: 14
 
 Thanks Alias for helping with CR
 
-and all who noticed the post    :oops:  :P
+and all who noticed the post <img src="/images/smilies/icon_redface.svg" alt=":oops:" title=":oops:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -46,7 +46,7 @@ and dead again.. Moria slug - bash lagged
 
 <div class="post" data-post-id="20036" data-author="Autolycos" data-date="2007-08-31T18:47:53+00:00" data-subject="">
 
-*viciously massacres Weasel with ICQ*
+\*viciously massacres Weasel with ICQ\*
 
 </div>
 
@@ -66,7 +66,7 @@ entrench?
 
 did it again... help pls if anyone sees this.. CG
 
-btw, when they bash and bounce off, how come I still get lagged?  :evil:
+btw, when they bash and bounce off, how come I still get lagged? <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -84,7 +84,8 @@ need to learn the new one too - think it's @@ and it counters bash lag.. somethi
 
 <div class="post" data-post-id="20227" data-author="banedon" data-date="2007-09-08T05:11:36+00:00" data-subject="">
 
-need to learn the new one too - think it's @@ and it counters bash lag.. something like that..[/quote:t7uqookb]
+> <strong>Weasel wrote:</strong>
+> need to learn the new one too - think it's @@ and it counters bash lag.. something like that..
 
 That sounds like second wind to me, and if it is, i think it pops in midgaard
 
@@ -94,18 +95,21 @@ That sounds like second wind to me, and if it is, i think it pops in midgaard
 
 yeah that's the one. thanks
 
-..oh DOH I have it learned already!   :?
+..oh DOH I have it learned already! <img src="/images/smilies/icon_e_confused.svg" alt=":?" title=":?" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="20229" data-author="banedon" data-date="2007-09-08T05:26:42+00:00" data-subject="">
 
-yeah that's the one. thanks
-
-..oh DOH I have it learned already!   :?[/quote:3ccoafef]
+> <strong>Weasel wrote:</strong>
+> yeah that's the one. thanks
+> 
+> 
+> 
+> ..oh DOH I have it learned already! <img src="/images/smilies/icon_e_confused.svg" alt=":?" title=":?" width="15" height="15" class="smiley nozoom">
 
 silly little fuzzy critter
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

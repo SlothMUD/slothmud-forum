@@ -12,7 +12,7 @@ post_count: 23
 
 <div class="post" data-post-id="14388" data-author="Medios" data-date="2006-09-29T21:57:04+00:00" data-subject="Going to Chicago">
 
-Aaron, his wife, Mike and Chrissy will be in town this weekend.  My cell is (618)889-0069 if anyone in town wants to hook up, or get that ass whooped.  Will if you call, better have some money. :P
+Aaron, his wife, Mike and Chrissy will be in town this weekend. My cell is (618)889-0069 if anyone in town wants to hook up, or get that ass whooped. Will if you call, better have some money. <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 Mike
 
@@ -34,7 +34,7 @@ probably morted somewhere..
 
 <div class="post" data-post-id="14391" data-author="Leaf" data-date="2006-09-30T00:17:52+00:00" data-subject="">
 
-How long u guys staying for?  I'll be busy on Sat, but free Sunday morning!
+How long u guys staying for? I'll be busy on Sat, but free Sunday morning!
 
 </div>
 
@@ -48,19 +48,17 @@ oh yeah ya'll should definantly call me
 
 HO HO!!
 
-We are back, and it was a blast.  I have full pictures, but I want to wait
+We are back, and it was a blast. I have full pictures, but I want to wait
 
 until later when I'm enjoying the birthday beer to give the full report.
-
- 
 
 but here's a little taste
 
 Two-Fisting Single malt Scotch and Goose Island Oktoberfest, let the games begin!
 
--More to come-
+\-More to come-
 
-[img:10jorr0v]http://i83.photobucket.com/albums/j286/greendevil74/chicago/100_0390.jpg[/img:10jorr0v]
+![](http://i83.photobucket.com/albums/j286/greendevil74/chicago/100_0390.jpg)
 
 </div>
 
@@ -68,43 +66,43 @@ Two-Fisting Single malt Scotch and Goose Island Oktoberfest, let the games begin
 
 So Mike and I went to Chicago last year for a weekend because I+1 was on
 
-the guest-list for a Moistboyz show.  We drove up and stayed with Adam/Alth.
+the guest-list for a Moistboyz show. We drove up and stayed with Adam/Alth.
 
-This year we decided to do it again for the birthday weekend.  This time we
+This year we decided to do it again for the birthday weekend. This time we
 
-took the wives (Chrissy/Daedalus and Lesley).  There had been much
+took the wives (Chrissy/Daedalus and Lesley). There had been much
 
 speculation as to whether Blastem would gather his crew of Yooper Guards
 
-and meet up with us or not.  Finally it was decided that they *might* be able
+and meet up with us or not. Finally it was decided that they \*might\* be able
 
 to get there on Sunday morning at about 4am, so I pretty much wrote them
 
-off and forgot about it.  Well we loaded up the Honda and set out for the 
+off and forgot about it. Well we loaded up the Honda and set out for the 
 
-land of Cub-fans and various other scooty shitheels.  The drive up was pretty
+land of Cub-fans and various other scooty shitheels. The drive up was pretty
 
-uneventful.  We left at about 630 and arrived at around midnight with sore
+uneventful. We left at about 630 and arrived at around midnight with sore
 
-knees.  We had a doob to smoke on the way up so that helped considerably.
+knees. We had a doob to smoke on the way up so that helped considerably.
 
-When we arrived Adam had the garage open so parking wasn't an issue, thank god.  We all made our little introductions and shook hands all-around,
+When we arrived Adam had the garage open so parking wasn't an issue, thank god. We all made our little introductions and shook hands all-around,
 
-unpacked our shit and hauled it up the stairs to Adam's pad.  The apartment
+unpacked our shit and hauled it up the stairs to Adam's pad. The apartment
 
-was pretty much the way I remembered it except there were some weiners posted up on the couch and chairs.  There were quite a few bottles
+was pretty much the way I remembered it except there were some weiners posted up on the couch and chairs. There were quite a few bottles
 
-laying around and the air was pretty smoky so I figured it was some friends of Adam's from town.  So I walk in like 'hey whats up I'm Aaron.'
+laying around and the air was pretty smoky so I figured it was some friends of Adam's from town. So I walk in like 'hey whats up I'm Aaron.'
 
 They say 'hey I'm Paul this other dude is Paul and old sourpuss on the
 
-couch is Steve.'  I had just ridden in the car for six hours so I wasn't too
+couch is Steve.' I had just ridden in the car for six hours so I wasn't too
 
-quick on the uptake.  Turns out that Paul/Paul/Steve are really Blastem
+quick on the uptake. Turns out that Paul/Paul/Steve are really Blastem
 
-and Stump/Dorrin and Wruk.  Right off the bat old Wrukus is glaring at me
+and Stump/Dorrin and Wruk. Right off the bat old Wrukus is glaring at me
 
-from under the bill of his Miller High-Life hat.  I guess I should have expected that.  We had previously had a couple conversations that went like this:
+from under the bill of his Miller High-Life hat. I guess I should have expected that. We had previously had a couple conversations that went like this:
 
 Wruk: We might come and visit
 
@@ -122,13 +120,13 @@ Wruk: whatever fag i can drink you under the table
 
 Me: heh, ok I doubt that
 
-So you can see there was a little testosterone in the air already.  We all
+So you can see there was a little testosterone in the air already. We all
 
-made our introductions again and sat down to shoot the shit.  I had 
+made our introductions again and sat down to shoot the shit. I had 
 
 brought a few beers with me which we burned through pretty fast along
 
-with a few joints.  
+with a few joints. 
 
 Adam mentioned that he had some good single-malt
 
@@ -136,87 +134,87 @@ scotch on hand and I knew right then we'd better make a beer run (1.beer-run if 
 
 So Paul and Adam and I volunteer to walk (we'll call the other Paul Stump
 
-for the sake of telling ease) to the liquor store, which is closed.  So is the
+for the sake of telling ease) to the liquor store, which is closed. So is the
 
-next one.  We get to one that is open finally.  It was a weird store, triangle
+next one. We get to one that is open finally. It was a weird store, triangle
 
-shaped and full of people.  I was stoked to see that they carried 3-Floyds
+shaped and full of people. I was stoked to see that they carried 3-Floyds
 
 beers so I got a 6r of Alpha King (almost got Hazed and Infused, I don't
 
-know why I didn't.)  Got a 6r of Modelo Especial and a 6r of Corona for 
+know why I didn't.) Got a 6r of Modelo Especial and a 6r of Corona for 
 
-Fisher (medios).  It was the last 6 pack of Modelo and Adam promptly
+Fisher (medios). It was the last 6 pack of Modelo and Adam promptly
 
-dropped it on the floor, busting two of the bottles.  The store was full of
+dropped it on the floor, busting two of the bottles. The store was full of
 
-laughing thugs.  Paul got a 6r of Goose Island's seasonal Oktoberfest.
+laughing thugs. Paul got a 6r of Goose Island's seasonal Oktoberfest.
 
 The guy let us have the 4 remaining especials for 6 bucks and we started
 
-the trek back to his pad.  We returned we the beers and broke out the 
+the trek back to his pad. We returned we the beers and broke out the 
 
 Scotch.
 
-[img:fcsnfxvv]http://i83.photobucket.com/albums/j286/greendevil74/chicago/100_0390.jpg[/img:fcsnfxvv]
+![](http://i83.photobucket.com/albums/j286/greendevil74/chicago/100_0390.jpg)
 
 While opening a bottle of Maudite Trappist Ale I had brought for Adam,
 
-I must have cut my thumb.  I didn't feel it but when I looked I had blood
+I must have cut my thumb. I didn't feel it but when I looked I had blood
 
-running down my arm.  So I fashioned what would come to be known as
+running down my arm. So I fashioned what would come to be known as
 
 the Thumb-Turban(tm) out of a foot of toilet-paper and one of Adam's 
 
-hair-tie rubberbands.  
+hair-tie rubberbands. 
 
-[img:fcsnfxvv]http://i83.photobucket.com/albums/j286/greendevil74/chicago/100_0405.jpg[/img:fcsnfxvv]
+![](http://i83.photobucket.com/albums/j286/greendevil74/chicago/100_0405.jpg)
 
 Turban applied, we continued to drink and talk
 
-trash.  
+trash. 
 
-[img:fcsnfxvv]http://i83.photobucket.com/albums/j286/greendevil74/chicago/100_0389.jpg[/img:fcsnfxvv]
+![](http://i83.photobucket.com/albums/j286/greendevil74/chicago/100_0389.jpg)
 
 Adam and me and Devil, the small cat. (The big cat, Pixel weighs 20lbs)
 
-[img:fcsnfxvv]http://i83.photobucket.com/albums/j286/greendevil74/chicago/100_0392.jpg[/img:fcsnfxvv]
+![](http://i83.photobucket.com/albums/j286/greendevil74/chicago/100_0392.jpg)
 
 Daedalus and one of the uncompromised Modelos. ^^
 
-[img:fcsnfxvv]http://i83.photobucket.com/albums/j286/greendevil74/chicago/100_0397.jpg[/img:fcsnfxvv]
+![](http://i83.photobucket.com/albums/j286/greendevil74/chicago/100_0397.jpg)
 
-Mike and Steve and Chrissy's legs.  ^^
+Mike and Steve and Chrissy's legs. ^^
 
-The night goes on and whattayaknow, Wruk passes out.  Joy.  I knew it
+The night goes on and whattayaknow, Wruk passes out. Joy. I knew it
 
 would happen, regardless of his vehement denials.
 
-[img:fcsnfxvv]http://i83.photobucket.com/albums/j286/greendevil74/chicago/100_0391.jpg[/img:fcsnfxvv]
+![](http://i83.photobucket.com/albums/j286/greendevil74/chicago/100_0391.jpg)
 
-So it's a good thing Adam and the other two Yoopers are nice guys.  I
+So it's a good thing Adam and the other two Yoopers are nice guys. I
 
 had my nuts out ready to nestle in his eyesockets when they all started
 
 yelling at him to wake the fuck up.
 
-[img:fcsnfxvv]http://i83.photobucket.com/albums/j286/greendevil74/chicago/100_0395.jpg[/img:fcsnfxvv]
+![](http://i83.photobucket.com/albums/j286/greendevil74/chicago/100_0395.jpg)
 
 Coming out of the coma slowly. ^^
 
-[img:fcsnfxvv]http://i83.photobucket.com/albums/j286/greendevil74/chicago/100_0396.jpg[/img:fcsnfxvv]
+![](http://i83.photobucket.com/albums/j286/greendevil74/chicago/100_0396.jpg)
 
 "You weren't really gonna do that were you?" ^^
 
-[img:fcsnfxvv]http://i83.photobucket.com/albums/j286/greendevil74/chicago/100_0406.jpg[/img:fcsnfxvv]
+![](http://i83.photobucket.com/albums/j286/greendevil74/chicago/100_0406.jpg)
 
 Daedalus regenning on Alberich's couch.
 
-Then we get to this part of the evening.  It always happens.
+Then we get to this part of the evening. It always happens.
 
-[img:fcsnfxvv]http://i83.photobucket.com/albums/j286/greendevil74/chicago/100_0402.jpg[/img:fcsnfxvv]
+![](http://i83.photobucket.com/albums/j286/greendevil74/chicago/100_0402.jpg)
 
-At about 4am the yooper guards departed for their Hotel.  We all got up
+At about 4am the yooper guards departed for their Hotel. We all got up
 
 at about 9 or 10 the next morning and proceeded to do a lot of walking.
 
@@ -224,75 +222,75 @@ Adam had to work so Les and the Fisher/Vickers and I all headed up town
 
 and went to a couple museums and got caught walking on Mich. Ave in a
 
-thunderstorm.  I bitched, Fisher whined, Chrissy moaned and Lesley laughed at us all.
+thunderstorm. I bitched, Fisher whined, Chrissy moaned and Lesley laughed at us all.
 
-[img:fcsnfxvv]http://i83.photobucket.com/albums/j286/greendevil74/chicago/100_0415.jpg[/img:fcsnfxvv]
+![](http://i83.photobucket.com/albums/j286/greendevil74/chicago/100_0415.jpg)
 
 I like to call this "Farts in the Car". ^^
 
-[img:fcsnfxvv]http://i83.photobucket.com/albums/j286/greendevil74/chicago/100_0428.jpg[/img:fcsnfxvv]
+![](http://i83.photobucket.com/albums/j286/greendevil74/chicago/100_0428.jpg)
 
 We all met up again and went to the Goose Island Brewery for dinner.
 
 I had the blackened chicken and Adam choked down the biggest damn
 
-sausage I've ever seen.  I wish I had a picture.  Old Wrukus was in
+sausage I've ever seen. I wish I had a picture. Old Wrukus was in
 
 considerably better spirits and actually appeared to be a really nice
 
-guy when we dipped off to smoke at the bar for a while.  My bad.
+guy when we dipped off to smoke at the bar for a while. My bad.
 
 Lesley and I stopped to get gas on the way back to Adam's from the
 
 brewery and she took this picture, I have no clue why I can't get a picture
 
-taken of me with my mouth closed and my eyes open.  They always look
+taken of me with my mouth closed and my eyes open. They always look
 
 like this shit.
 
-[img:fcsnfxvv]http://i83.photobucket.com/albums/j286/greendevil74/chicago/100_0430.jpg[/img:fcsnfxvv]
+![](http://i83.photobucket.com/albums/j286/greendevil74/chicago/100_0430.jpg)
 
 We all drank a lot more beer and got stoned and lectured on mud theory
 
-and Slothmud history.  I have to say Stump is one funny motherfcker.
+and Slothmud history. I have to say Stump is one funny motherfcker.
 
-he had me crackin' up telling the cat and rat stories.  Familiar wars.
+he had me crackin' up telling the cat and rat stories. Familiar wars.
 
-[img:fcsnfxvv]http://i83.photobucket.com/albums/j286/greendevil74/chicago/100_0401.jpg[/img:fcsnfxvv]
+![](http://i83.photobucket.com/albums/j286/greendevil74/chicago/100_0401.jpg)
 
-That night was fairly uneventful.  We got drunk, Adam and Mike and I took
+That night was fairly uneventful. We got drunk, Adam and Mike and I took
 
-off walking to the 24hr taco joint.  We got back, there was some drama
+off walking to the 24hr taco joint. We got back, there was some drama
 
-between M and C.  It always cracks me up when someone is fighting with
+between M and C. It always cracks me up when someone is fighting with
 
-their old lady and it's not me.  We got up next morning and said our good-
+their old lady and it's not me. We got up next morning and said our good-
 
 byes just in case we missed each other later. 
 
-[img:fcsnfxvv]http://i83.photobucket.com/albums/j286/greendevil74/chicago/100_0431.jpg[/img:fcsnfxvv]
+![](http://i83.photobucket.com/albums/j286/greendevil74/chicago/100_0431.jpg)
 
 L to R: Stump(Paul) Me Blastem(2.Paul) Daedalus(Chrissy) Medios(Mike) Althalus (Adam, our gracious host) The Wrukster (Steve)
 
 Les and Adam and the Fisher/Vickers and I decided to head down town for
 
-a nice ethnic meal.  We ended up at this italian joint.  It was the single
+a nice ethnic meal. We ended up at this italian joint. It was the single
 
-most gaudily-decorated place I;ve ever been, but it was nice.  The food
+most gaudily-decorated place I;ve ever been, but it was nice. The food
 
 was the best italian food I've ever had.
 
-[img:fcsnfxvv]http://i83.photobucket.com/albums/j286/greendevil74/chicago/100_0438.jpg[/img:fcsnfxvv]
+![](http://i83.photobucket.com/albums/j286/greendevil74/chicago/100_0438.jpg)
 
 "pour me another beer or I claw your eyes out."
 
 We went back to Adam's and collected our shit and rolled out pretty much.
 
-Chrissy and Lesley were in the front this time.  I may as well have just
+Chrissy and Lesley were in the front this time. I may as well have just
 
-punched myself in the balls a couple times.  We were all tired, about 6
+punched myself in the balls a couple times. We were all tired, about 6
 
-hours of sleep for the whole weekend, and hung-over.  The drama
+hours of sleep for the whole weekend, and hung-over. The drama
 
 ensued, Chrissy unloaded on Mike and I and we started yelling at each
 
@@ -316,29 +314,29 @@ I still say its a finger clasp and not a thumb-turban(tm).
 
 I forgot to mention that on Saturday we went to SuperDawg, which is like
 
-the BEST hotdog joint ever.  I had seen it featured on the food channel
+the BEST hotdog joint ever. I had seen it featured on the food channel
 
-and felt like I needed to go if it was at all feasible.  We got there and it was
+and felt like I needed to go if it was at all feasible. We got there and it was
 
-everything I had hoped for pretty much.  The dogs come on poppyseed
+everything I had hoped for pretty much. The dogs come on poppyseed
 
 buns that are soft and they come with jalapenos and some crazy cucumber
 
-relish.  I ate about 60 hotdogs and around 12 lbs of fries.  The dogs come
+relish. I ate about 60 hotdogs and around 12 lbs of fries. The dogs come
 
-with a pickled green tomato too, that shit is soo good.  
+with a pickled green tomato too, that shit is soo good. 
 
 !!!
 
-[img:jl2tmaa2]http://i83.photobucket.com/albums/j286/greendevil74/chicago/100_0410.jpg[/img:jl2tmaa2]
+![](http://i83.photobucket.com/albums/j286/greendevil74/chicago/100_0410.jpg)
 
-[img:jl2tmaa2]http://i83.photobucket.com/albums/j286/greendevil74/chicago/100_0411.jpg[/img:jl2tmaa2]
+![](http://i83.photobucket.com/albums/j286/greendevil74/chicago/100_0411.jpg)
 
-[img:jl2tmaa2]http://i83.photobucket.com/albums/j286/greendevil74/chicago/100_0412.jpg[/img:jl2tmaa2]
+![](http://i83.photobucket.com/albums/j286/greendevil74/chicago/100_0412.jpg)
 
 "It's just a hotdog man, chill out."
 
-[img:jl2tmaa2]http://i83.photobucket.com/albums/j286/greendevil74/chicago/100_0409.jpg[/img:jl2tmaa2]
+![](http://i83.photobucket.com/albums/j286/greendevil74/chicago/100_0409.jpg)
 
 Mmmmmmm
 
@@ -346,9 +344,9 @@ Mmmmmmm
 
 <div class="post" data-post-id="14492" data-author="Avatar" data-date="2006-10-03T22:03:55+00:00" data-subject="Missing Pics">
 
-The case of the missing pics.  I take it there's another person there, Leslie, aren't you two married now?  She's not in any of the pictures - is that by choice or accident?
+The case of the missing pics. I take it there's another person there, Leslie, aren't you two married now? She's not in any of the pictures - is that by choice or accident?
 
-Hi guys, it's nice to see a face to go with the names  :)
+Hi guys, it's nice to see a face to go with the names <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Charles
 
@@ -370,13 +368,14 @@ She was holding the camera a lot of the time, it's her camera.
 
 <div class="post" data-post-id="14504" data-author="osric" data-date="2006-10-04T18:53:45+00:00" data-subject="">
 
-That looks like a hell of a road trip, you guys should do that again next year, I'll venture forth across the boarder from the Land of Cheese and show you ladies how to drink!  Great photos!
+That looks like a hell of a road trip, you guys should do that again next year, I'll venture forth across the boarder from the Land of Cheese and show you ladies how to drink! Great photos!
 
 </div>
 
 <div class="post" data-post-id="14506" data-author="13" data-date="2006-10-04T19:07:06+00:00" data-subject="">
 
-[quote:1h6ng7h2]and show you ladies how to drink![/quote:1h6ng7h2]
+> <strong>Quote:</strong>
+> and show you ladies how to drink!
 
 Oh god here we go again.
 
@@ -390,13 +389,14 @@ don't try that with the pros
 
 don't you know what happens when cheeseheads come to chicago??
 
-[img:1n0cthhl]http://graphics.jsonline.com/graphics/packer/img/rev/dec05/1pack1204.jpg[/img:1n0cthhl]
+![](http://graphics.jsonline.com/graphics/packer/img/rev/dec05/1pack1204.jpg)
 
 </div>
 
 <div class="post" data-post-id="14514" data-author="13" data-date="2006-10-04T21:10:33+00:00" data-subject="">
 
-[quote:7lutjub5]don't you know what happens when cheeseheads come to chicago?? [/quote:7lutjub5]
+> <strong>Quote:</strong>
+> don't you know what happens when cheeseheads come to chicago??
 
 That's my dog!
 
@@ -426,7 +426,7 @@ no respect i tell ya
 
 <div class="post" data-post-id="14525" data-author="osric" data-date="2006-10-05T02:43:58+00:00" data-subject="">
 
-Well it may be true that the bears have finally got their act together, but I seem to remember a day not too long ago, I think that day was the unveillng of the "new" Soldier Field, I seem to remember a certain team named after a certain animal that smells like the dumps the so frequently inhabit losing that day, oh yes the Packers owned the Bears that day my friends, lets not forget it! :twisted:
+Well it may be true that the bears have finally got their act together, but I seem to remember a day not too long ago, I think that day was the unveillng of the "new" Soldier Field, I seem to remember a certain team named after a certain animal that smells like the dumps the so frequently inhabit losing that day, oh yes the Packers owned the Bears that day my friends, lets not forget it! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -448,7 +448,7 @@ Aaron and Mike -
 
 I'm probably gonna be down for this on the 19th or something to see cornmeal
 
-[url:3upwa7kv]http://www.cavefest.fws1.com/[/url:3upwa7kv]
+http://www.cavefest.fws1.com/
 
 ya'll gonna be around?
 

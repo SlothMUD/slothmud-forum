@@ -46,31 +46,29 @@ Blackmore expertly strums some chords on lyre.
 
 A skilled ghost artisan relaxes to your song and works with efficiency!
 
-<705hp 821ma 269mv> +4
+\<705hp 821ma 269mv\> +4
 
 forge shirt-mithril
 
-**There is a tremendous explosion!**
+<strong>There is a tremendous explosion!</strong>
 
-<705hp 821ma 269mv> +4
+\<705hp 821ma 269mv\> +4
 
 A skilled ghost artisan says 'Yes, yes, I can also forge...but please wait.'
 
-<705hp 821ma 269mv> +4
+\<705hp 821ma 269mv\> +4
 
 Blackmore sighs loudly.
 
-<705hp 821ma 269mv> +4
+\<705hp 821ma 269mv\> +4
 
 A skilled ghost artisan says 'Oh, deary deary me, just one more cog to put in.'
 
-<705hp 821ma 269mv> +4
+\<705hp 821ma 269mv\> +4
 
 say thanks for trying
 
 You say 'thanks for trying'
-
- 
 
 32 cp and 3.5 mil coins later...i end up with absolutely nothing.
 

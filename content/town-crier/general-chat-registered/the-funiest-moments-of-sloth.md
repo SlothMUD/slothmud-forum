@@ -16,33 +16,33 @@ d
 
 Meditatorium
 
-   The atmosphere in this small room is full of dust, which renders
+ The atmosphere in this small room is full of dust, which renders
 
-breathing difficult and gives the meditatorium an oneiric quality.  The
+breathing difficult and gives the meditatorium an oneiric quality. The
 
 chamber has been upholstered with steel plates as if to make sure nothing
 
-and nobody intrudes (or escapes from) the tiny room.  A glowing orb floats
+and nobody intrudes (or escapes from) the tiny room. A glowing orb floats
 
 inches beneath the ceiling, casting the area in a mass of flickering light.
 
 A rocking-chair, its gnarled oaken skis quietly creaking, moves back and
 
-forth by a small table, upon which a book sits.  All in all, this place
+forth by a small table, upon which a book sits. All in all, this place
 
 is a congruous environment for reading and research.
 
-Exits: Up  
+Exits: Up 
 
 The codex of demonic destruction is chained to the table, ready to be read.
 
-<725hp 296ma 226mv -2.1ac -3al>
+\<725hp 296ma 226mv -2.1ac -3al\>
 
 r
 
 You sit down and rest your tired bones.
 
-<726hp 298ma 227mv -2.1ac -3al>
+\<726hp 298ma 227mv -2.1ac -3al\>
 
 read codex
 
@@ -56,7 +56,7 @@ Ah, FUN! That's SO F@-ck-In hilarious to start again with all this crap for the 
 
 <div class="post" data-post-id="13539" data-author="madmax" data-date="2006-07-24T02:39:52+00:00" data-subject="">
 
-BTW, you can (or used to be able to) continue the reading even after it poofs :) Just make sure u dont stop due to eating, etc.
+BTW, you can (or used to be able to) continue the reading even after it poofs <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> Just make sure u dont stop due to eating, etc.
 
 Madmax
 

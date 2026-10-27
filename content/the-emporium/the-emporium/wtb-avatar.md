@@ -18,7 +18,8 @@ let me know if you have an avatar for sale msg me ingame or here ty
 
 <div class="post" data-post-id="26591" data-author="sirrico1" data-date="2008-10-07T22:10:34+00:00" data-subject="Re: WTB avatar">
 
-let me know if you have an avatar for sale msg me ingame or here ty[/quote:1pc2whqi]
+> <strong>sirrico1 wrote:</strong>
+> let me know if you have an avatar for sale msg me ingame or here ty
 
 please remove this post for me since I can't seem to find where to do it at
 

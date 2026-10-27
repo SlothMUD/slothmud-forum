@@ -20,13 +20,13 @@ there will be....stuff.
 
 a countdown timer is provided below:
 
-[<LINK_TEXT text="https://www.tickcounter.com/countdown/5 ... ween-quest">https://www.tickcounter.com/countdown/5995606/2024-slothmud-halloween-quest</LINK_TEXT>](https://www.tickcounter.com/countdown/5995606/2024-slothmud-halloween-quest)
+[https://www.tickcounter.com/countdown/5995606/2024-slothmud-halloween-quest](https://www.tickcounter.com/countdown/5995606/2024-slothmud-halloween-quest)
 
 Be there!
 
 Cheers
 
---Idj
+\--Idj
 
 </div>
 

@@ -12,7 +12,7 @@ post_count: 11
 
 <div class="post" data-post-id="1852" data-author="Original-Pixie" data-date="2004-09-07T22:57:52+00:00" data-subject="small sale">
 
-Rainbow shield  300K
+Rainbow shield 300K
 
 mithril wristband 50K
 
@@ -56,7 +56,7 @@ a multicolored mantle 300K
 
 The item listed below was won on the chopping block but due to noshow/no reply from the winner the item is for sale one more time:
 
-A golden Choker  Min: 1mil
+A golden Choker Min: 1mil
 
 </div>
 
@@ -104,7 +104,7 @@ golden choker 2.4 mil
 
 <div class="post" data-post-id="1870" data-author="Ki" data-date="2004-09-09T05:49:09+00:00" data-subject="">
 
-I will give you 500k for both diamond pendants.  See Ki for payment.
+I will give you 500k for both diamond pendants. See Ki for payment.
 
 </div>
 

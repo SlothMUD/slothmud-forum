@@ -12,7 +12,7 @@ post_count: 2
 
 <div class="post" data-post-id="5282" data-author="Methyx" data-date="2005-03-27T21:19:48+00:00" data-subject="WTB +dex EQ">
 
-Hello all :)
+Hello all <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 I am in the market for one of two items:
 
@@ -22,7 +22,7 @@ or
 
 Gleaming Shield
 
-I know that the greaves are an extremely rare item and the forge is rather difficult.  I am prepared to pay very well for either the item or perhaps to have someone run the forge for me.  If anyone can help me out on this, please post or send a tell online to either this char or to Ryuken.
+I know that the greaves are an extremely rare item and the forge is rather difficult. I am prepared to pay very well for either the item or perhaps to have someone run the forge for me. If anyone can help me out on this, please post or send a tell online to either this char or to Ryuken.
 
 Methyx,
 
@@ -42,7 +42,7 @@ Jing Jit Disk
 
 Staff Of The Glass Dragon
 
-All help is appreciated ;)
+All help is appreciated <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 Methyx
 

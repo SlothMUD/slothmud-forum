@@ -26,25 +26,25 @@ Everyone's welcome, prepare a list of 2-3 items to call.
 
 A few rules:
 
-- no afk in fights
+\- no afk in fights
 
-- warn, if you go afk other than on regen
+\- warn, if you go afk other than on regen
 
-- no wandering, while on the run
+\- no wandering, while on the run
 
-- debuff large mobs
+\- debuff large mobs
 
-- we kill mobs that a) we can kill b) have beacons to (I can run once for a beacon, but don't over use it). Ask others to run or set a beacon/passage for you, if you can't run or set beacon.
+\- we kill mobs that a) we can kill b) have beacons to (I can run once for a beacon, but don't over use it). Ask others to run or set a beacon/passage for you, if you can't run or set beacon.
 
-- remind me, if your mob hasn't been hit, I might've missed it (or put it at the end of the runs, likewise)
+\- remind me, if your mob hasn't been hit, I might've missed it (or put it at the end of the runs, likewise)
 
-- you call items, not mobs
+\- you call items, not mobs
 
-- me and you can call 2 items at a time, but we kill second-call mobs, when the first-call ones are dead (unless the 2nd call is really easy, like the master-monk in Crypt).
+\- me and you can call 2 items at a time, but we kill second-call mobs, when the first-call ones are dead (unless the 2nd call is really easy, like the master-monk in Crypt).
 
-- you can't call something if you can't use it immediately (no newbie chars calling tri40 eq)
+\- you can't call something if you can't use it immediately (no newbie chars calling tri40 eq)
 
-- we use pets, so this isn't an exp group
+\- we use pets, so this isn't an exp group
 
 I usually give the tank a priority over my call.
 
@@ -60,7 +60,7 @@ Meet you at the Wide Gate at 1am EST and 7pm EST Tuesday, 14th Dec.
 
 <div class="post" data-post-id="32096" data-author="Teron" data-date="2010-11-21T19:04:43+00:00" data-subject="Re: Thule EQ Group Planning">
 
-After a crash, we decided to take a break (lost a pop, too :P).
+After a crash, we decided to take a break (lost a pop, too <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">).
 
 I'll try to get back before the bonus runs out at about 10-11am EST.
 
@@ -84,7 +84,7 @@ The decision is always on the leader.
 
 <div class="post" data-post-id="32122" data-author="jezer" data-date="2010-12-07T03:19:11+00:00" data-subject="Re: Thule EQ Group Planning">
 
-I plan not to be there, and since I'm calling it, you can't call it too!  :twisted:
+I plan not to be there, and since I'm calling it, you can't call it too! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -94,7 +94,7 @@ I plan to lead AH EQ once again this Tuesday, 14th Dec.
 
 From 1am EST to 11am EST and from 7pm to 1am EST.
 
-If there's anyone that'd be willing to lead from 11am to 7pm EST on Tuesday, I'll be grateful :)
+If there's anyone that'd be willing to lead from 11am to 7pm EST on Tuesday, I'll be grateful <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -102,19 +102,19 @@ If there's anyone that'd be willing to lead from 11am to 7pm EST on Tuesday, I'l
 
 Going to lead till eq pop drops tonight.
 
-Fol up :)
+Fol up <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="32160" data-author="Tuck" data-date="2010-12-14T17:29:54+00:00" data-subject="Re: Thule EQ Group Planning">
 
-Taron is leading '<Thule> EQ (Open)' on Thule:
+Taron is leading '\<Thule\> EQ (Open)' on Thule:
 
-            (Wa:3.38)   Taron
+ (Wa:3.38) Taron
 
-            (Ne:4.21)   Anrok
+ (Ne:4.21) Anrok
 
-Too bad that Taron do not allow bots in his group :P
+Too bad that Taron do not allow bots in his group <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 

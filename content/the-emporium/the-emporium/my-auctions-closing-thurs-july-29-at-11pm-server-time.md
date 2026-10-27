@@ -12,6 +12,6 @@ post_count: 1
 
 <div class="post" data-post-id="1165" data-author="Deju" data-date="2004-07-23T15:16:38+00:00" data-subject="My auctions closing Thurs July 29 at 11pm server time.">
 
-forgot to put that in my posts :)
+forgot to put that in my posts <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

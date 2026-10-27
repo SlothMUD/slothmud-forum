@@ -18,6 +18,6 @@ can someone get me please
 
 <div class="post" data-post-id="15857" data-author="13" data-date="2006-12-30T15:57:04+00:00" data-subject="">
 
-[img:2qlex1q3]http://img172.imageshack.us/img172/1434/awesomethread9kn.jpg[/img:2qlex1q3]
+![](http://img172.imageshack.us/img172/1434/awesomethread9kn.jpg)
 
 </div>

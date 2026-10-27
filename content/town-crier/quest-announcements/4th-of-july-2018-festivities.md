@@ -22,14 +22,14 @@ King George III will make his appearance with other July-4th related epics, on a
 
 I'll get a countdown link going soon:
 
-[<LINK_TEXT text="https://www.tickcounter.com/countdown/6 ... est-part-1">https://www.tickcounter.com/countdown/648932/slothmud-4th-of-july-quest-part-1</LINK_TEXT>](https://www.tickcounter.com/countdown/648932/slothmud-4th-of-july-quest-part-1)
+[https://www.tickcounter.com/countdown/648932/slothmud-4th-of-july-quest-part-1](https://www.tickcounter.com/countdown/648932/slothmud-4th-of-july-quest-part-1)
 
 And then on the weekend following (7/7) we will do some sort of normal epics load with a bit of drachma, also at noon server:
 
-[<LINK_TEXT text="https://www.tickcounter.com/countdown/6 ... est-part-2">https://www.tickcounter.com/countdown/648934/2018-slothmud-july-4th-quest-part-2</LINK_TEXT>](https://www.tickcounter.com/countdown/648934/2018-slothmud-july-4th-quest-part-2)
+[https://www.tickcounter.com/countdown/648934/2018-slothmud-july-4th-quest-part-2](https://www.tickcounter.com/countdown/648934/2018-slothmud-july-4th-quest-part-2)
 
 Happy fourth!
 
---Idjit
+\--Idjit
 
 </div>

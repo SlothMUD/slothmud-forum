@@ -14,12 +14,9 @@ post_count: 1
 
 I made a few adjustments to the stables:
 
-[*:21etaya6]You can sell your mounts back to the stable man at 50% of what you paid[/*:m:21etaya6]
-
-[*:21etaya6]When you buy a mount it will follow you until you mount it, when you dismount it will follow you again.[/*:m:21etaya6]
-
-[*:21etaya6]You can only buy a maximum of 2 mounts[/*:m:21etaya6]
-
-[*:21etaya6]dismiss <mount> will cause the mount to stop following you, and if possible the mount will attempt to return to the stable.[/*:m:21etaya6][/list:o:21etaya6]
+1. You can sell your mounts back to the stable man at 50% of what you paid
+2. When you buy a mount it will follow you until you mount it, when you dismount it will follow you again.
+3. You can only buy a maximum of 2 mounts
+4. dismiss \<mount\> will cause the mount to stop following you, and if possible the mount will attempt to return to the stable.
 
 </div>

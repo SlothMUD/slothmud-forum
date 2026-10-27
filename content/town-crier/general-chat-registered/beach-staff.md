@@ -14,7 +14,7 @@ post_count: 3
 
 query high about beach-staff
 
-High Priest of Wisdom tells you 'Certainly, Sir!  Let me tell you about a knotted beach staff:'
+High Priest of Wisdom tells you 'Certainly, Sir! Let me tell you about a knotted beach staff:'
 
 Object 'staff beach knotted elite', Item type: WEAPON
 
@@ -26,7 +26,7 @@ Damage Dice is '0D0'
 
 Can affect you as:
 
-    Affects: MANA by 10
+ Affects: MANA by 10
 
 Only those who are at least adept magic users, clerics, druids, or
 
@@ -56,16 +56,16 @@ AC-apply is -0.7
 
 Can affect you as: 
 
-Affects: MAX_CON by 1 
+Affects: MAX\_CON by 1 
 
 Only those who are at least supreme warriors or monks may use this item.
 
-Who would use them instead of -0.8 +10hp sleeves and *pay* drachma for losing -0.1 and using the max con stat on the hp slot?
+Who would use them instead of -0.8 +10hp sleeves and \*pay\* drachma for losing -0.1 and using the max con stat on the hp slot?
 
 I'd suggest either of the following stats:
 
--0.8 +max con +10hp
+\-0.8 +max con +10hp
 
--0.9 +20 hp
+\-0.9 +20 hp
 
 </div>

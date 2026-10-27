@@ -12,6 +12,6 @@ post_count: 1
 
 <div class="post" data-post-id="137" data-author="Ironwolf" data-date="2004-04-03T07:51:16+00:00" data-subject="WTB thick iron gauntlets">
 
-catch me online or pm me :)
+catch me online or pm me <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

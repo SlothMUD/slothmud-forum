@@ -12,7 +12,7 @@ post_count: 9
 
 <div class="post" data-post-id="37907" data-author="Josiah" data-date="2016-12-29T20:13:13+00:00" data-subject="Slothmud Mobile App">
 
-What would be useful or cool in a slothmud phone app?  Don't worry about how hard to code it might be.  
+What would be useful or cool in a slothmud phone app? Don't worry about how hard to code it might be. 
 
 I'll start with the easy ones, convenient access to the eqlist and maps.
 
@@ -20,7 +20,7 @@ I'll start with the easy ones, convenient access to the eqlist and maps.
 
 <div class="post" data-post-id="37908" data-author="Teron" data-date="2016-12-29T21:39:11+00:00" data-subject="Re: Slothmud Mobile App">
 
-1. This isn't popular for many, but it might be: a check of who is online and what the groups are.
+1\. This isn't popular for many, but it might be: a check of who is online and what the groups are.
 
 If there's a group, I log in to join.
 
@@ -30,9 +30,9 @@ If neither, I don't log in.
 
 I check this mostly on the weekend, but also during the US evening (cuz I've just woke up early and I can go to the browser on my smartphone to check the online instead of crawling out of my warm bed, and starting up a computer).
 
-2. New posts on the forum.
+2\. New posts on the forum.
 
-3. Auction list
+3\. Auction list
 
 How having a map on a mobile phone is useful?
 
@@ -48,7 +48,7 @@ Cheers.
 
 I also was thinking about telegram bot instead of mobile app. Its api is quite simple tbh.
 
-I doubt eq list or maps worth doing tbh. Both are available at usual browser. And its way simpllier to just make few changes on these pages to make them adaptive :)
+I doubt eq list or maps worth doing tbh. Both are available at usual browser. And its way simpllier to just make few changes on these pages to make them adaptive <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Special mobile mud client would be interesting on other hand. But i cant imaging how to make it playble even if sharp it for sloth only.
 
@@ -58,7 +58,7 @@ Special mobile mud client would be interesting on other hand. But i cant imaging
 
 Is there anything not currently available at slothmud.org that would be useful?
 
-Would you like to be able to chat in game from your phone while logged out?  That might be nicer than a third party chatroom that's incompatible with either of my phone numbers.  It would definitely be a stretch goal though...
+Would you like to be able to chat in game from your phone while logged out? That might be nicer than a third party chatroom that's incompatible with either of my phone numbers. It would definitely be a stretch goal though...
 
 </div>
 
@@ -84,29 +84,29 @@ Nothing of that would be really usefull on their own. But maybe in single applic
 
 <div class="post" data-post-id="37916" data-author="Teron" data-date="2016-12-30T08:36:19+00:00" data-subject="Re: Slothmud Mobile App">
 
-1. Fluffy, search for playrpgbot on telegram and play around with it. There you can at least wander around and kill some mobs. While it's hard to swap eq there, it may still be possible to play with the limited commands and farm easy/gold mobs.
+1\. Fluffy, search for playrpgbot on telegram and play around with it. There you can at least wander around and kill some mobs. While it's hard to swap eq there, it may still be possible to play with the limited commands and farm easy/gold mobs.
 
-2. I've thought about the "I'm dead button" - it could also pull your area location from the dynamic map. Or, if you can pull info from the mud, area, room name and mob short descs in the room as well. 
+2\. I've thought about the "I'm dead button" - it could also pull your area location from the dynamic map. Or, if you can pull info from the mud, area, room name and mob short descs in the room as well. 
 
-3. The idea of making the website responsive/adaptive is great, because, mostly, we'd use it if we could on mobile phones. The "I'm dead" button and alerts is precisely what the website lacks. And mass broadcast alerts in case of groups/quests, though websites now can mass-alert people too, if it is enabled.
+3\. The idea of making the website responsive/adaptive is great, because, mostly, we'd use it if we could on mobile phones. The "I'm dead" button and alerts is precisely what the website lacks. And mass broadcast alerts in case of groups/quests, though websites now can mass-alert people too, if it is enabled.
 
-4. WoW has a mobile app and it enables one to chat ingame in the guild. Here's how it works:
+4\. WoW has a mobile app and it enables one to chat ingame in the guild. Here's how it works:
 
-- you launch the app
+\- you launch the app
 
-- you appear online in your guild chat/friends list under Name (mobile_icon)
+\- you appear online in your guild chat/friends list under Name (mobile\_icon)
 
-- you can chat with your guild, and ppl would see your messages
+\- you can chat with your guild, and ppl would see your messages
 
-- if you login, your session is replaced with your desktop client (and you might still receive messages in your app, but I don't remember this)
+\- if you login, your session is replaced with your desktop client (and you might still receive messages in your app, but I don't remember this)
 
-- you can also buy stuff from auction or sell stuff from anywhere on your character (bags, banks = inv, robes, vaults)
+\- you can also buy stuff from auction or sell stuff from anywhere on your character (bags, banks = inv, robes, vaults)
 
 All in all, it can be seamless, no need to age the character ingame.
 
 I'd personally use the app to chat ingame and stuff, but my primary use of website via mobile is to check the online presence, as I've described earlier. 
 
-5. As for eq, in my chatting experience, I seldomly need to look up eq, while I'm in bed or in the mobile chat. 
+5\. As for eq, in my chatting experience, I seldomly need to look up eq, while I'm in bed or in the mobile chat. 
 
 Perhaps, we need to identify use cases for what people actually need in a mobile app specifically. I've listed my priorities, an i'm dead button is good as well. I'd use the "raise the dead" button more, though.
 
@@ -114,21 +114,21 @@ Fluffy, "is available in the usual browser" is not a reason not to do it in mobi
 
 So:
 
-- ingame chat
+\- ingame chat
 
-- i'm dead button
+\- i'm dead button
 
-- mass group alerts
+\- mass group alerts
 
-- check online + groups
+\- check online + groups
 
-- new forum posts
+\- new forum posts
 
-- auction
+\- auction
 
-- eq
+\- eq
 
-- map
+\- map
 
 what else might we need?
 
@@ -148,7 +148,7 @@ Which raid mobs and epics are up.
 
 <div class="post" data-post-id="37925" data-author="*Breeze*" data-date="2016-12-31T16:55:45+00:00" data-subject="Re: Slothmud Mobile App">
 
-> ***juggleblood* wrote:**
+> <strong>\*juggleblood\* wrote:</strong>
 > Which raid mobs and epics are up.
 
 iirc that's already XML which he can parse out. I can tell him where to find it if he wants

@@ -30,6 +30,6 @@ Id consider selling you some of it, but no idea who you are online.
 
 <div class="post" data-post-id="16612" data-author="*juggleblood*" data-date="2007-02-01T20:03:44+00:00" data-subject="">
 
-Rub :D
+Rub <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>

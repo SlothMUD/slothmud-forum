@@ -14,6 +14,6 @@ post_count: 1
 
 [http://www.youtube.com/watch?v=eG6X-xtVask](http://www.youtube.com/watch?v=eG6X-xtVask)
 
-This cracks me up.  One guy votes for another guy who is running to his seat.  You have to wonder since they were different parties what is going on.
+This cracks me up. One guy votes for another guy who is running to his seat. You have to wonder since they were different parties what is going on.
 
 </div>

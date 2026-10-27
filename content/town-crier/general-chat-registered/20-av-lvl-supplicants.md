@@ -16,7 +16,7 @@ Anyone noticed any use of deva/asura?
 
 As for me, Asura is worse then Ghoul(10 Av. lvl), and Deva is totally no use... 
 
-Or my brains are too weak? :)
+Or my brains are too weak? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -24,13 +24,13 @@ Or my brains are too weak? :)
 
 they have pretty nice descriptions. what else do you want?
 
- 8)
+ <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="21514" data-author="brady" data-date="2007-12-02T05:09:53+00:00" data-subject="">
 
-Deva kisses male opponenents.  I've been meaning to check the effect in the arena but i never got around to it.
+Deva kisses male opponenents. I've been meaning to check the effect in the arena but i never got around to it.
 
 </div>
 
@@ -42,7 +42,7 @@ seems u can use high level supplicants for cyber orgies
 
 but be careful - don't summon behemoth for that!
 
- 8)
+ <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -50,9 +50,9 @@ but be careful - don't summon behemoth for that!
 
 thanks for response, Brady, Vixn
 
-will surely check this kissing :)
+will surely check this kissing <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-and, unfortunetly, can't summon behemoth yet 8)
+and, unfortunetly, can't summon behemoth yet <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -60,13 +60,14 @@ and, unfortunetly, can't summon behemoth yet 8)
 
 np, pirates always glad to help
 
- 8)
+ <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="21520" data-author="Blastem" data-date="2007-12-02T15:05:08+00:00" data-subject="">
 
-[quote:b1fofh8s]Deva kisses male opponenents. I've been meaning to check the effect in the arena but i never got around to it.[/quote:b1fofh8s]
+> <strong>Quote:</strong>
+> Deva kisses male opponenents. I've been meaning to check the effect in the arena but i never got around to it.
 
 Yeah sure thats alllll ya wanna test with it in the arena......
 

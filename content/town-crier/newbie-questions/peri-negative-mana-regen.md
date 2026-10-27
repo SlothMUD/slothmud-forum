@@ -12,29 +12,29 @@ post_count: 5
 
 <div class="post" data-post-id="33576" data-author="Yasik" data-date="2012-09-06T12:32:45+00:00" data-subject="peri negative mana regen">
 
-<278hp 132ma 280mv>  [+9]   AC: -7.0   EXP: 11,579,056   COINS: 41,700
+\<278hp 132ma 280mv\> [+9] AC: -7.0 EXP: 11,579,056 COINS: 41,700
 
 order followers report
 
-Titania the peri reports 212/212 hp. Need: 0. 8/120 ma.  306/306 mv.
+Titania the peri reports 212/212 hp. Need: 0. 8/120 ma. 306/306 mv.
 
-<280hp 133ma 280mv>  [+9]   AC: -7.0   EXP: 11,579,056   COINS: 41,700
+\<280hp 133ma 280mv\> [+9] AC: -7.0 EXP: 11,579,056 COINS: 41,700
 
 The 'fluidity' spell on you is about to wear off.
 
-<288hp 137ma 280mv>  [+9]   AC: -7.0   EXP: 11,579,056   COINS: 41,700
+\<288hp 137ma 280mv\> [+9] AC: -7.0 EXP: 11,579,056 COINS: 41,700
 
 A thoughtful elf arrives from the south.
 
-<290hp 138ma 280mv>  [+9]   AC: -7.0   EXP: 11,579,056   COINS: 41,700
+\<290hp 138ma 280mv\> [+9] AC: -7.0 EXP: 11,579,056 COINS: 41,700
 
 A thoughtful elf leaves south.
 
-<298hp 142ma 280mv>  [+9]   AC: -7.0   EXP: 11,579,056   COINS: 41,700
+\<298hp 142ma 280mv\> [+9] AC: -7.0 EXP: 11,579,056 COINS: 41,700
 
 order followers report
 
-Titania the peri reports 212/212 hp. Need: 0. 7/120 ma.  306/306 mv.
+Titania the peri reports 212/212 hp. Need: 0. 7/120 ma. 306/306 mv.
 
 She casts something on herself so we don't see, or room with mana drain? If so, then why my own mana still increases?
 
@@ -56,29 +56,29 @@ It seems the peri can lose concentration on healing, and there is no message whe
 
 order followers report
 
-Celia the peri reports 245/245 hp. Need: 0. 50/120 ma.  306/306 mv.
+Celia the peri reports 245/245 hp. Need: 0. 50/120 ma. 306/306 mv.
 
-<336hp 72ma 280mv>  [+8]   AC: -7.0   EXP: 6,957,975   COINS: 306,649
+\<336hp 72ma 280mv\> [+8] AC: -7.0 EXP: 6,957,975 COINS: 306,649
 
 You calm down and return to a peaceful state of mind.
 
-<342hp 75ma 280mv>  [+8]   AC: -7.0   EXP: 6,957,975   COINS: 306,649
+\<342hp 75ma 280mv\> [+8] AC: -7.0 EXP: 6,957,975 COINS: 306,649
 
 order followers report
 
-Celia the peri reports 245/245 hp. Need: 0. 40/120 ma.  306/306 mv.
+Celia the peri reports 245/245 hp. Need: 0. 40/120 ma. 306/306 mv.
 
-<342hp 75ma 280mv>  [+8]   AC: -7.0   EXP: 6,957,975   COINS: 306,649
+\<342hp 75ma 280mv\> [+8] AC: -7.0 EXP: 6,957,975 COINS: 306,649
 
 order followers report
 
 There are no loyal subjects of yours here!
 
-<348hp 78ma 280mv>  [+8]   AC: -7.0   EXP: 6,957,975   COINS: 306,649
+\<348hp 78ma 280mv\> [+8] AC: -7.0 EXP: 6,957,975 COINS: 306,649
 
 order followers report
 
-Celia the peri reports 245/245 hp. Need: 0. 49/120 ma.  306/306 mv.
+Celia the peri reports 245/245 hp. Need: 0. 49/120 ma. 306/306 mv.
 
 It seems "order" command is a spell too, and can lost concentration as well... Strange.
 

@@ -14,7 +14,7 @@ post_count: 1
 
 Yeah I know. Almost certainly futile. 
 
-Anyhow. Tons of primo in game eq, 1 weekly mage forge, characters, nice forges, and perhaps I will even trans you a few dollars in my pokerstars account if that's your thing. :)
+Anyhow. Tons of primo in game eq, 1 weekly mage forge, characters, nice forges, and perhaps I will even trans you a few dollars in my pokerstars account if that's your thing. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Gimme!
 

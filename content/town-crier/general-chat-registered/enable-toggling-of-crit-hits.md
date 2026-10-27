@@ -42,7 +42,7 @@ You might be able to further limit damage by using a sidhe charm of greater flui
 
 While I also have a problem with critical hits from time to time, I'm not sure it really needs to be fixed.
 
-I mean... from what I see, items matter a lot more than mobs, and in most areas they correspond to about 80% of all conquest points. If this ratio is correct, we can expect to get roughly 240M cp from items and 60M cp from mobs, right? Getting items doesn't depend on your ability to subdue, so sooner or later pretty much everyone will get their 240M cp. Which means that the main competition will happen around these final 60M cp – and I think it should *not* be easy. Leave it hard. Accept the fact that it is not for everyone.
+I mean... from what I see, items matter a lot more than mobs, and in most areas they correspond to about 80% of all conquest points. If this ratio is correct, we can expect to get roughly 240M cp from items and 60M cp from mobs, right? Getting items doesn't depend on your ability to subdue, so sooner or later pretty much everyone will get their 240M cp. Which means that the main competition will happen around these final 60M cp – and I think it should \*not\* be easy. Leave it hard. Accept the fact that it is not for everyone.
 
 </div>
 
@@ -66,10 +66,10 @@ I've nearly finished subduing all of ether, fire, water, earth planes today. The
 
 <div class="post" data-post-id="39753" data-author="Gorka" data-date="2021-07-01T15:06:55+00:00" data-subject="Re: Enable Toggling of Crit Hits.">
 
-> **Insomnia wrote:**
+> <strong>Insomnia wrote:</strong>
 > While I also have a problem with critical hits from time to time, I'm not sure it really needs to be fixed.
 > 
-> I mean... from what I see, items matter a lot more than mobs, and in most areas they correspond to about 80% of all conquest points. If this ratio is correct, we can expect to get roughly 240M cp from items and 60M cp from mobs, right? Getting items doesn't depend on your ability to subdue, so sooner or later pretty much everyone will get their 240M cp. Which means that the main competition will happen around these final 60M cp – and I think it should *not* be easy. Leave it hard. Accept the fact that it is not for everyone.
+> I mean... from what I see, items matter a lot more than mobs, and in most areas they correspond to about 80% of all conquest points. If this ratio is correct, we can expect to get roughly 240M cp from items and 60M cp from mobs, right? Getting items doesn't depend on your ability to subdue, so sooner or later pretty much everyone will get their 240M cp. Which means that the main competition will happen around these final 60M cp – and I think it should \*not\* be easy. Leave it hard. Accept the fact that it is not for everyone.
 
 Insomnia you don't have Massive Critical Hit. From memory it's 3x damage, and it can't be turned off, unless you berserk (which adds damage) or shift. You also don't have Gorka's damage from the shops.
 
@@ -77,7 +77,7 @@ Insomnia you don't have Massive Critical Hit. From memory it's 3x damage, and it
 
 <div class="post" data-post-id="39754" data-author="Insomnia" data-date="2021-07-01T16:02:03+00:00" data-subject="Re: Enable Toggling of Crit Hits.">
 
-Yes, I don't have massive critical hit, and I also don't have high damage, armor class, or second wind. And if I get bashed, I die... So I really don't feel that warriors are the ones in a weak position here, sorry. :)
+Yes, I don't have massive critical hit, and I also don't have high damage, armor class, or second wind. And if I get bashed, I die... So I really don't feel that warriors are the ones in a weak position here, sorry. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 At the same time so far I haven't had any big problems with subduing mobs. Yes, it takes a lot of time and a lot of magic missiles. But I've made about 6-7M with subdues, and I can't say it was super hard. Challenging, yes. But not as frustrating as you say. Of course, recent lags made it worse, but they seem to be fixed now.
 
@@ -87,9 +87,9 @@ I also may be mistaken, but I think you can get 80% of conquest points from 20% 
 
 <div class="post" data-post-id="39755" data-author="Gorka" data-date="2021-07-01T16:37:24+00:00" data-subject="Re: Enable Toggling of Crit Hits.">
 
-We are just not going to agree about critical hits. The lore of the game is that you advance forward, gathering greater rewards... when those rewards are then turned against you to become a disadvantage it's really a big "f*** you for playing" to the player. The immortals have to decide if that's the message they want to give out. Players should also be in control of all skills that are "automatic." Because automatic removes a skill element for players, a main reason to play. Tossing webs for example should also be a toggle amongst any of the other skills which are automatic. There are places I don't want my mob webbed!
+We are just not going to agree about critical hits. The lore of the game is that you advance forward, gathering greater rewards... when those rewards are then turned against you to become a disadvantage it's really a big "f\*\*\* you for playing" to the player. The immortals have to decide if that's the message they want to give out. Players should also be in control of all skills that are "automatic." Because automatic removes a skill element for players, a main reason to play. Tossing webs for example should also be a toggle amongst any of the other skills which are automatic. There are places I don't want my mob webbed!
 
-> **Insomnia wrote:**
+> <strong>Insomnia wrote:</strong>
 > I also may be mistaken, but I think you can get 80% of conquest points from 20% of mobs – so you don't really have to subdue the entire MUD, maybe 50% will do it. Feels like it's designed to allow most players to get to level 10 of the Spirit, and also leaves some place for competition on the high end.
 
 I do agree with this. But I also think that subdue's aren't worth the conquest points. When the main rewards are rushed to (item trading), the system won't be worth continuing with. For example I've spent 6 cycles trying to subdue a 20m mob today - got it to 0% every time then failed due to a critical hit or too much damage. That's 3hrs wasted on a mob for 55k conquest points. When someone is near the end, improvements will cost incrementaly more, to the point that it probably won't be worth trying. Although we do expect things to get harder as things progress, when the grind is being effected over something the player has no control over... the system starts to become counter productive rather than productive. 
@@ -98,11 +98,11 @@ We must also take into account the 12hp that is the difference between a mob cor
 
 So to summarize, my main arguments are...
 
-1) Sloth has changed, but the subdue system hasn't kept up with player power increments.
+1\) Sloth has changed, but the subdue system hasn't kept up with player power increments.
 
-2) Not being able to toggle "Automatic" skills removes options and skill from players.
+2\) Not being able to toggle "Automatic" skills removes options and skill from players.
 
-3) Making the whole game about advancement, then turning that against the player is a slap in the face.
+3\) Making the whole game about advancement, then turning that against the player is a slap in the face.
 
 I have tried shifting, but I didn't find it superior than my subdue mode unshifted for mobs over 5m.
 
@@ -120,9 +120,9 @@ No, I just traded my chains for conquest points, and I don't have the gos rings 
 
 The frustrating thing is this Driven...
 
-***You can't win... the less damage you do, the longer you fight, the more rounds it takes, and therefore the more likely a critical or massive will fire in a round and kill it... It's just not workable, in that the less damage you do, you effectively are also increasing your probability of getting a crit hit when it's near death.***
+<em><strong>You can't win... the less damage you do, the longer you fight, the more rounds it takes, and therefore the more likely a critical or massive will fire in a round and kill it... It's just not workable, in that the less damage you do, you effectively are also increasing your probability of getting a crit hit when it's near death.</strong></em>
 
-A quick solution would be a potion of weakness, or perhaps a cheap drachma sword item that negates crit hit through MUDL if that's possible. Adding -damage eq probably would only interfer with wearing the elite items we need to  stay alive during the subdue process that give us dam reduct, max con, heal bonus, ac etc. I can't afford to wear too much crap when the subdue mob is Iblis for example... I'm going to need my regular gear... just less damage. I accept that the subdue process is designed not to be 100% - but at the moment, it's increasingly unworkable with the damage we buy from rebirth shops and critical hits.
+A quick solution would be a potion of weakness, or perhaps a cheap drachma sword item that negates crit hit through MUDL if that's possible. Adding -damage eq probably would only interfer with wearing the elite items we need to stay alive during the subdue process that give us dam reduct, max con, heal bonus, ac etc. I can't afford to wear too much crap when the subdue mob is Iblis for example... I'm going to need my regular gear... just less damage. I accept that the subdue process is designed not to be 100% - but at the moment, it's increasingly unworkable with the damage we buy from rebirth shops and critical hits.
 
 </div>
 
@@ -154,7 +154,7 @@ M
 
 <div class="post" data-post-id="39763" data-author="Gorka" data-date="2021-07-04T10:01:44+00:00" data-subject="Re: Enable Toggling of Crit Hits.">
 
-> **Ker wrote:**
+> <strong>Ker wrote:</strong>
 > Many of us run autokill off and would like to enjoy our crits.
 > 
 > Some of us have zero problems subduing.
@@ -253,7 +253,7 @@ Both me and Stun strongly disagree with your bullshit "calculations". Either use
 
 Other players do not need to suffer from the loss of crit from autokill flag. As if the margin for error to fail the subdue isn't great enough, now we need to police players into making sure autokill flag is off so we can't crit and succeed a subdue? Does this at all sound counter productive to you?
 
-Full of shit Gorka. Cheat your way through the whole game and come crying on the crier because you got too strong. What a fucking _loser_.
+Full of shit Gorka. Cheat your way through the whole game and come crying on the crier because you got too strong. What a fucking \_loser\_.
 
 Oh right, now I remember why i stay away from the crier. My bad.
 
@@ -265,50 +265,50 @@ M
 
 <div class="post" data-post-id="39768" data-author="Gorka" data-date="2021-07-05T14:20:05+00:00" data-subject="Re: Enable Toggling of Crit Hits.">
 
-> **Ker wrote:**
+> <strong>Ker wrote:</strong>
 > Both me and Stun strongly disagree with your bullshit "calculations"
 
 Old Sloth Code for every one to see...
 
 ```
 	if (dam > 0 && !IS_MOB(ch) && 
-	   (attacktype >= TYPE_HIT && attacktype < TYPE_SLAM) &&
-           !is_list_affected(ch, APPLY_BERSERK))
+ (attacktype >= TYPE_HIT && attacktype < TYPE_SLAM) &&
+ !is_list_affected(ch, APPLY_BERSERK))
 	{
-	    if ((number(1,100) < IS_LEARNED(ch, SKILL_MASSIVE_CRIT_HIT)))
-            {
-                 if(number(1, 100) <= 10)
-                 {
-                        act_c("$n's delivers a massive blow to one of $N's vital organs.", 
-                             FALSE, ch, 0, victim, TO_FNOTVICT, CLR_MOB);
-                        act_c("You deal a massive blow to one of $N's vital organs.", 
-                             FALSE, ch, 0, victim, TO_CHAR, CLR_EMOTE);
-                        act_c("$n cripples you with a blow to your organs.", 
-                             FALSE, ch, 0, victim, TO_VICT, CLR_MOB);
-                     dam *= 3;
-                 }
-            }
-	    else if ((number(1,100) < IS_LEARNED(ch, SKILL_CRIT_HIT)))
-            {
-                 if(number(1, 100) <= 10)
-                 {
-                        act_c("$n's delivers a critical blow to one of $N's vital organs.", 
-                             FALSE, ch, 0, victim, TO_FNOTVICT, CLR_MOB);
-                        act_c("You deal a critical blow to one of $N's vital organs.", 
-                             FALSE, ch, 0, victim, TO_CHAR, CLR_EMOTE);
-                        act_c("$n cripples you with a blow to your organs.", 
-                             FALSE, ch, 0, victim, TO_VICT, CLR_MOB);
-                     dam *= 2;
-                 }
-            }
-        }
+ if ((number(1,100) < IS_LEARNED(ch, SKILL_MASSIVE_CRIT_HIT)))
+ {
+ if(number(1, 100) <= 10)
+ {
+ act_c("$n's delivers a massive blow to one of $N's vital organs.", 
+ FALSE, ch, 0, victim, TO_FNOTVICT, CLR_MOB);
+ act_c("You deal a massive blow to one of $N's vital organs.", 
+ FALSE, ch, 0, victim, TO_CHAR, CLR_EMOTE);
+ act_c("$n cripples you with a blow to your organs.", 
+ FALSE, ch, 0, victim, TO_VICT, CLR_MOB);
+ dam *= 3;
+ }
+ }
+ else if ((number(1,100) < IS_LEARNED(ch, SKILL_CRIT_HIT)))
+ {
+ if(number(1, 100) <= 10)
+ {
+ act_c("$n's delivers a critical blow to one of $N's vital organs.", 
+ FALSE, ch, 0, victim, TO_FNOTVICT, CLR_MOB);
+ act_c("You deal a critical blow to one of $N's vital organs.", 
+ FALSE, ch, 0, victim, TO_CHAR, CLR_EMOTE);
+ act_c("$n cripples you with a blow to your organs.", 
+ FALSE, ch, 0, victim, TO_VICT, CLR_MOB);
+ dam *= 2;
+ }
+ }
+ }
 ```
 
 </div>
 
 <div class="post" data-post-id="39770" data-author="Insomnia" data-date="2021-07-05T19:04:10+00:00" data-subject="Re: Enable Toggling of Crit Hits.">
 
-<1088/1088hp 700/900ma 199/393mv -%>
+\<1088/1088hp 700/900ma 199/393mv -%\>
 
 Ok.
 
@@ -316,15 +316,15 @@ You watch with self-pride as the magic missile hits Roedrig, Troll Champion.
 
 Roedrig, Troll Champion is stunned, but will probably regain consciousness again.
 
-<1088/1088hp 695/900ma 199/393mv -%>
+\<1088/1088hp 695/900ma 199/393mv -%\>
 
-|
+\|
 
 sub roedrig;get all
 
 Fluffy clouds scud across the sky.
 
-<1088/1088hp 698/900ma 201/393mv -%>
+\<1088/1088hp 698/900ma 201/393mv -%\>
 
 You expertly bind the unconscious form of Roedrig, Troll Champion.
 
@@ -334,7 +334,7 @@ Total exp for kill is 262515862.
 
 You have gained an ungodly amount of honor.
 
-<1088/1088hp 880/900ma 439/443mv -%>
+\<1088/1088hp 880/900ma 439/443mv -%\>
 
 Ok.
 
@@ -342,9 +342,9 @@ You watch with self-pride as the magic missile hits Klklklpa.
 
 Klklklpa is stunned, but will probably regain consciousness again.
 
-<1088/1088hp 875/900ma 439/443mv -%>
+\<1088/1088hp 875/900ma 439/443mv -%\>
 
-|
+\|
 
 sub klkl;get all
 
@@ -356,7 +356,7 @@ Total exp for kill is 416222046.
 
 You have gained an ungodly amount of honor.
 
-<1088/1088hp 1120/900ma 167/443mv -%>
+\<1088/1088hp 1120/900ma 167/443mv -%\>
 
 Ok.
 
@@ -364,9 +364,9 @@ You watch with self-pride as the magic missile hits Tasha the Blade Mistress.
 
 Tasha the Blade Mistress is incapacitated and will slowly die, if not aided.
 
-<1088/1088hp 1115/900ma 167/443mv -%>
+\<1088/1088hp 1115/900ma 167/443mv -%\>
 
-|
+\|
 
 sub tasha;get all
 
@@ -378,7 +378,7 @@ Total exp for kill is 377995401.
 
 You have gained an ungodly amount of honor.
 
-<1088/1088hp 898/900ma 442/443mv -%>
+\<1088/1088hp 898/900ma 442/443mv -%\>
 
 Ok.
 
@@ -386,9 +386,9 @@ You watch with self-pride as the magic missile hits Helios, the Sun God.
 
 Helios, the Sun God is incapacitated and will slowly die, if not aided.
 
-<1088/1088hp 893/900ma 442/443mv -%>
+\<1088/1088hp 893/900ma 442/443mv -%\>
 
-|;sub helios;get all
+\|;sub helios;get all
 
 You expertly bind the unconscious form of Helios, the Sun God.
 
@@ -404,7 +404,7 @@ You watch with self-pride as the magic missile hits Vouhx-t.
 
 Vouhx-t is incapacitated and will slowly die, if not aided.
 
-<1098/1098hp 1774/912ma 392/393mv -%>
+\<1098/1098hp 1774/912ma 392/393mv -%\>
 
 subdue vouhx
 
@@ -416,7 +416,7 @@ Total exp for kill is 250238285.
 
 You have gained an ungodly amount of honor.
 
-<1098/1098hp 580/912ma 205/443mv -%>
+\<1098/1098hp 580/912ma 205/443mv -%\>
 
 Ok.
 
@@ -424,7 +424,7 @@ You watch with self-pride as the magic missile hits Skerrit, the centaur god.
 
 Skerrit, the centaur god is incapacitated and will slowly die, if not aided.
 
-<1098/1098hp 575/912ma 205/443mv -%>
+\<1098/1098hp 575/912ma 205/443mv -%\>
 
 subdue skerrit
 
@@ -436,7 +436,7 @@ Total exp for kill is 389570599.
 
 You have gained an ungodly amount of honor.
 
-<1042/1098hp 935/913ma 442/443mv -%>
+\<1042/1098hp 935/913ma 442/443mv -%\>
 
 Ok.
 
@@ -444,9 +444,9 @@ You watch with self-pride as the magic missile hits The Dread Pirate Roberts.
 
 The Dread Pirate Roberts is stunned, but will probably regain consciousness again.
 
-<1042/1098hp 930/913ma 442/443mv -%>
+\<1042/1098hp 930/913ma 442/443mv -%\>
 
-|;sub rob;get all
+\|;sub rob;get all
 
 You expertly bind the unconscious form of The Dread Pirate Roberts.
 
@@ -456,7 +456,7 @@ Total exp for kill is 325023466.
 
 You have gained an ungodly amount of honor.
 
-<1098/1098hp 657/913ma 442/443mv -%>
+\<1098/1098hp 657/913ma 442/443mv -%\>
 
 Ok.
 
@@ -464,7 +464,7 @@ You watch with self-pride as the magic missile hits Commodore Higgins.
 
 Commodore Higgins is stunned, but will probably regain consciousness again.
 
-<1098/1098hp 652/913ma 442/443mv -%>
+\<1098/1098hp 652/913ma 442/443mv -%\>
 
 subdue higgins
 
@@ -476,7 +476,7 @@ Total exp for kill is 280618058.
 
 You have gained an ungodly amount of honor.
 
-<1098/1098hp 1647/913ma 355/443mv -%>
+\<1098/1098hp 1647/913ma 355/443mv -%\>
 
 Ok.
 
@@ -484,9 +484,9 @@ You watch with self-pride as the magic missile hits Baraneth, the avatar dragone
 
 Baraneth, the avatar dragoness is stunned, but will probably regain consciousness again.
 
-<1098/1098hp 1642/913ma 355/443mv -%>
+\<1098/1098hp 1642/913ma 355/443mv -%\>
 
-|;sub bara
+\|;sub bara
 
 You expertly bind the unconscious form of Baraneth, the avatar dragoness.
 
@@ -496,7 +496,7 @@ Total exp for kill is 1028892776.
 
 You have gained an ungodly amount of honor.
 
-<1088/1088hp 1855/905ma 124/443mv -%>
+\<1088/1088hp 1855/905ma 124/443mv -%\>
 
 Ok.
 
@@ -504,9 +504,9 @@ You watch with self-pride as the magic missile hits Kzartaxen, firenewt God of W
 
 Kzartaxen, firenewt God of War is mortally wounded, and will die soon, if not aided.
 
-<1088/1088hp 1850/905ma 125/443mv -%>
+\<1088/1088hp 1850/905ma 125/443mv -%\>
 
-|;sub kzar
+\|;sub kzar
 
 You expertly bind the unconscious form of Kzartaxen, firenewt God of War.
 
@@ -516,7 +516,7 @@ Total exp for kill is 281537070.
 
 You have gained an ungodly amount of honor.
 
-<1088/1088hp 1740/908ma 443/446mv -%>
+\<1088/1088hp 1740/908ma 443/446mv -%\>
 
 Ok.
 
@@ -524,9 +524,9 @@ You watch with self-pride as the magic missile hits The Were-Lord Lupine.
 
 The Were-Lord Lupine is stunned, but will probably regain consciousness again.
 
-<1088/1088hp 1735/908ma 443/446mv -%>
+\<1088/1088hp 1735/908ma 443/446mv -%\>
 
-|;sub lupine;get all
+\|;sub lupine;get all
 
 You expertly bind the unconscious form of The Were-Lord Lupine.
 
@@ -536,7 +536,7 @@ Total exp for kill is 481321261.
 
 You have gained an ungodly amount of honor.
 
-<868/1098hp 1200/906ma 119/446mv -%>
+\<868/1098hp 1200/906ma 119/446mv -%\>
 
 Ok.
 
@@ -544,9 +544,9 @@ You watch with self-pride as the magic missile hits Icebeast Kezthall.
 
 Icebeast Kezthall is incapacitated and will slowly die, if not aided.
 
-<869/1098hp 1195/906ma 120/446mv -%>
+\<869/1098hp 1195/906ma 120/446mv -%\>
 
-|;sub kez;get all
+\|;sub kez;get all
 
 You expertly bind the unconscious form of Icebeast Kezthall.
 
@@ -556,7 +556,7 @@ Total exp for kill is 604456894.
 
 You have gained an ungodly amount of honor.
 
-<1098/1098hp 1145/923ma 445/446mv -%>
+\<1098/1098hp 1145/923ma 445/446mv -%\>
 
 Ok.
 
@@ -564,9 +564,9 @@ You watch with self-pride as the magic missile hits a snow lion.
 
 A snow lion is stunned, but will probably regain consciousness again.
 
-<1098/1098hp 1140/923ma 445/446mv -%>
+\<1098/1098hp 1140/923ma 445/446mv -%\>
 
-|;sub lion;get all
+\|;sub lion;get all
 
 You expertly bind the unconscious form of a snow lion.
 
@@ -576,7 +576,7 @@ Total exp for kill is 317206976.
 
 You have gained an ungodly amount of honor.
 
-<1088/1088hp 2394/914ma 372/446mv 0%>
+\<1088/1088hp 2394/914ma 372/446mv 0%\>
 
 You pierce an acid golem very hard.
 
@@ -600,7 +600,7 @@ You pierce an acid golem very hard.
 
 An acid golem is stunned, but will probably regain consciousness again.
 
-<1088/1088hp 2394/914ma 376/446mv -%>
+\<1088/1088hp 2394/914ma 376/446mv -%\>
 
 sub acid
 
@@ -612,15 +612,15 @@ Total exp for kill is 383508903.
 
 You have gained an ungodly amount of honor.
 
-<1088/1088hp 519/918ma 396/396mv 0%>
+\<1088/1088hp 519/918ma 396/396mv 0%\>
 
 You pierce General Oth hard.
 
 General Oth is incapacitated and will slowly die, if not aided.
 
-<1088/1088hp 519/918ma 396/396mv 0%>
+\<1088/1088hp 519/918ma 396/396mv 0%\>
 
-|;sub oth
+\|;sub oth
 
 You expertly bind the unconscious form of General Oth.
 
@@ -630,7 +630,7 @@ Total exp for kill is 394503510.
 
 You have gained an ungodly amount of honor.
 
-<1023/1023hp 1004/870ma 167/446mv -%>
+\<1023/1023hp 1004/870ma 167/446mv -%\>
 
 Ok.
 
@@ -638,9 +638,9 @@ You watch with self-pride as the magic missile hits Uhhhl.
 
 Uhhhl is stunned, but will probably regain consciousness again.
 
-<1023/1023hp 999/870ma 167/446mv -%>
+\<1023/1023hp 999/870ma 167/446mv -%\>
 
-|;sub uhh
+\|;sub uhh
 
 You expertly bind the unconscious form of Uhhhl.
 
@@ -668,7 +668,7 @@ If I recall correctly, druids can see mob hp through MSDP while the other classe
 
 <div class="post" data-post-id="39774" data-author="Driven" data-date="2021-07-11T11:37:00+00:00" data-subject="Re: Enable Toggling of Crit Hits.">
 
-Three new potions are in the game now.  I have also committed a change that disables massive critical hit on piercing weapons.  One new (relevent to this issue) forge has been approved, but I won't be able to code it until next week.
+Three new potions are in the game now. I have also committed a change that disables massive critical hit on piercing weapons. One new (relevent to this issue) forge has been approved, but I won't be able to code it until next week.
 
 </div>
 
@@ -694,7 +694,7 @@ Apply broken magic to the drinker...
 
 The item has 1 additional magical ability.
 
-<1666hp 290ma 450mv -4.9ac SS VAULTS DO_NOT_TOUCH 37086799831xp -%>
+\<1666hp 290ma 450mv -4.9ac SS VAULTS DO\_NOT\_TOUCH 37086799831xp -%\>
 
 quaff swirling
 
@@ -724,7 +724,7 @@ Crits were still firing with the potion, hence I believe the solution in play is
 
 Rather than verbally kicking the crap out of each other, why not figure out what the difference between Gorka and everybody else is?
 
-It *appears* to entail a couple things, one being playstyle (partnership/solo). But I think Gorka may have some attribute that crosses a threshold and truly does make it difficult to subdue. That doesn't necessitate implementation of a toggle or what-have-you, but if a difference is discovered, would justify tweaking the effects of that difference.
+It \*appears\* to entail a couple things, one being playstyle (partnership/solo). But I think Gorka may have some attribute that crosses a threshold and truly does make it difficult to subdue. That doesn't necessitate implementation of a toggle or what-have-you, but if a difference is discovered, would justify tweaking the effects of that difference.
 
 Generally speaking, the cost of upgrades should not entail making anything onerously more difficult than it was before the upgrade; particularly in this case, since the Conquest system is targeted predominantly toward post-9x40 characters.
 
@@ -756,7 +756,7 @@ Belrath (gossip): for some reason I'm thinking we are approuching this whole sub
 
 making poisons etc to make us weaker to be able to subdue better.
 
-Whatta (gossip): yeah.  should group with weaker hitters instead.
+Whatta (gossip): yeah. should group with weaker hitters instead.
 
 Belrath (gossip): 'oh no - I'm too strong to subdue this spider - I must take some poison to get disease
 
@@ -820,7 +820,7 @@ Gorka (gossip): yet I agree, probably harder to do than a bigger mob
 
 <div class="post" data-post-id="39791" data-author="Gorka" data-date="2021-07-20T17:40:59+00:00" data-subject="Re: Enable Toggling of Crit Hits.">
 
-Although it was me that originally suggested placing in game "a potion of weakness" - it's been added to the game in such a way even I doubt I will even use them. The potion was meant to complement the setting I wanted to turn off all critical hitting. I firmly believe that fighters should be able to adjust their power level. I mean we do it when playing with children... when sparring in boxing... but in sloth it's like it's just all hardcoded to be max damage - and really that's all we needed until the subdue thing came into the game. Sorry Zuzu, no one cares much about 4th of July redcoats...  :lol: 
+Although it was me that originally suggested placing in game "a potion of weakness" - it's been added to the game in such a way even I doubt I will even use them. The potion was meant to complement the setting I wanted to turn off all critical hitting. I firmly believe that fighters should be able to adjust their power level. I mean we do it when playing with children... when sparring in boxing... but in sloth it's like it's just all hardcoded to be max damage - and really that's all we needed until the subdue thing came into the game. Sorry Zuzu, no one cares much about 4th of July redcoats... <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> 
 
 I mean I'm not complaining about the new bandaids that have at least levelled the playing field, I'm thankful for them, but all the same, the way the subdue system is working isn't perhaps optimal. I don't mind technical solutions as a player... what I don't like is when the game doesn't give me options... like the way xp is currently stacked towards grouping when I just want to solo and avoid all the crappy clan/player politics, or inability to control my power when subduing... I don't like it when the game makes dumb decisions for me... making dumb decisions should be a player privilege. You take the ability to make decisions out of a game, you take the skill and the fun out of it. I want to be able to control my hitting power. I want to control when I use evade capture and chuck back webs... etc
 
@@ -870,23 +870,23 @@ The item has 1 additional magical ability.
 
 Puts player hp to 1, subtracts 12 to damage. Last for about 2 mins.
 
-Looks like another item for my vault floor.  :roll: 
+Looks like another item for my vault floor. <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> 
 
-Next time I get my hands on one, gonna see if I can get a mob to quaff it...  :twisted:
+Next time I get my hands on one, gonna see if I can get a mob to quaff it... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
-EDIT: Hey guys, might have found a good use for the potions afterall...  :lol:  :roll: 
+EDIT: Hey guys, might have found a good use for the potions afterall... <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> 
 
 give potion skeleton
 
 Ok.
 
-<390hp 131ma 655mv -15.0ac The Castle of the Family Degrance 28804975689xp -%>
+\<390hp 131ma 655mv -15.0ac The Castle of the Family Degrance 28804975689xp -%\>
 
 of rep
 
-A skeleton of an elite guardsman reports 100/100 hp. Need: 0. 0/0 ma.  63/80 mv.
+A skeleton of an elite guardsman reports 100/100 hp. Need: 0. 0/0 ma. 63/80 mv.
 
-<425hp 143ma 655mv -15.0ac The Castle of the Family Degrance 28804975689xp -%>
+\<425hp 143ma 655mv -15.0ac The Castle of the Family Degrance 28804975689xp -%\>
 
 of quaff swirling
 
@@ -912,13 +912,13 @@ After some testing with Idjit, it appears that if mobs quaffed the new potions, 
 
 Mobs quaffing potions in inv has a pretty low chance when I checked my logs, so you would need a fair bit of luck to see it happen. But all the same, a pretty disappointing implementation - even when it's fixed, which it will be quickly I suspect. I doubt the -6 dam is useful, if the regular crits are still going to happen... and the hp penalty on the elixir just makes me laugh out loud. I doubt I will use them. Having to heal 1900hp for a -12 dam 2 min weakness potion, when I can still reg crit a mob, probably isn't worth it. It's going to take 25% of the two minutes to heal myself back up... and waste like 360 mana. Thanks, but no thanks.
 
-The "give but take approach" (MAX_DEX), the "not giving players the ability to manipulate aspects of there character because of automation," (Non Toggle Skills) The preference to let RNG decide outcomes as opposed to player work and decisions... The lack of consistency where powerful procs are given out almost for "free" compared to the work needed to harvest the benefits of rebirth shop... This level of thinking doesn't enrich the game, it's just sad.
+The "give but take approach" (MAX\_DEX), the "not giving players the ability to manipulate aspects of there character because of automation," (Non Toggle Skills) The preference to let RNG decide outcomes as opposed to player work and decisions... The lack of consistency where powerful procs are given out almost for "free" compared to the work needed to harvest the benefits of rebirth shop... This level of thinking doesn't enrich the game, it's just sad.
 
 </div>
 
 <div class="post" data-post-id="39874" data-author="Gorka" data-date="2021-12-16T09:53:41+00:00" data-subject="Re: Enable Toggling of Crit Hits.">
 
-> **Quote:**
+> <strong>Quote:</strong>
 > I have also committed a change that disables massive critical hit on piercing weapons.
 
 You deal a massive blow to one of a fluffy calico's vital organs.
@@ -939,65 +939,65 @@ You get gold coins from the corpse of a fluffy calico that's on the ground.
 
 There were 150 coins.
 
-Jez the homunculus tells you 'calico is gone, sir!  I'll watch for another one.'
+Jez the homunculus tells you 'calico is gone, sir! I'll watch for another one.'
 
 eq
 
 You are using:
 
-<used as light>      a glowing bauble with `Gorka` engraved upon on it ()socketed Rhodochrosite Rune()
+\<used as light\> a glowing bauble with \`Gorka\` engraved upon on it ()socketed Rhodochrosite Rune()
 
 (with the Spirit of Conquest attached to it)
 
-<worn on finger>     a basalt ring..It has a soft glowing aura!
+\<worn on finger\> a basalt ring..It has a soft glowing aura!
 
-<worn on finger>     a basalt ring..It has a soft glowing aura!
+\<worn on finger\> a basalt ring..It has a soft glowing aura!
 
-<worn around neck>   ankh of purity ()socketed Tourmaline Rune() (with a golden oak tree charm attached
+\<worn around neck\> ankh of purity ()socketed Tourmaline Rune() (with a golden oak tree charm attached
 
 to it)
 
-<worn on shoulders>  Epaulets of the Holy Order..It emits a faint humming sound!
+\<worn on shoulders\> Epaulets of the Holy Order..It emits a faint humming sound!
 
-<worn on body>       a diaphanous gown ()socketed Alexandrite Rune() (with a vial of ashen powder
+\<worn on body\> a diaphanous gown ()socketed Alexandrite Rune() (with a vial of ashen powder
 
 attached to it)
 
-<worn on head>       an Olthoi Great Helm ()socketed Sapphire Rune() (with a fish-scale buckle attached
+\<worn on head\> an Olthoi Great Helm ()socketed Sapphire Rune() (with a fish-scale buckle attached
 
 to it)
 
-<worn on legs>       midnight greaves of black ice..It emits a faint humming sound!
+\<worn on legs\> midnight greaves of black ice..It emits a faint humming sound!
 
-<worn on feet>       a pair of diamond-encrusted demonskin boots ()socketed Moonstone Rune()
+\<worn on feet\> a pair of diamond-encrusted demonskin boots ()socketed Moonstone Rune()
 
-<worn on hands>      Godhand ()socketed Silvery Blue Pearl Rune() (with an aura of disciplined
+\<worn on hands\> Godhand ()socketed Silvery Blue Pearl Rune() (with an aura of disciplined
 
 retribution attached to it)
 
-<worn on arms>       the sleeves of enlightenment (with ethereal runes of the arch-magi attached to it)
+\<worn on arms\> the sleeves of enlightenment (with ethereal runes of the arch-magi attached to it)
 
-<worn as shield>     shield of black ice (with an emblem of a rose attached to it)
+\<worn as shield\> shield of black ice (with an emblem of a rose attached to it)
 
-<worn about body>    Cloak of Shadows ()socketed Eye Agate Rune()
+\<worn about body\> Cloak of Shadows ()socketed Eye Agate Rune()
 
-<worn about waist>   a gold link belt (with charm of the demon mage attached to it)
+\<worn about waist\> a gold link belt (with charm of the demon mage attached to it)
 
-<worn around wrist>  Sacred Bracer of the Dark Order ()socketed Golden-Yellow Topaz Rune() (with some
-
-stardust attached to it)
-
-<worn around wrist>  Sacred Bracer of the Dark Order ()socketed Golden-Yellow Topaz Rune() (with some
+\<worn around wrist\> Sacred Bracer of the Dark Order ()socketed Golden-Yellow Topaz Rune() (with some
 
 stardust attached to it)
 
-<wielded>            a dagger
+\<worn around wrist\> Sacred Bracer of the Dark Order ()socketed Golden-Yellow Topaz Rune() (with some
 
-<held>               Scriptures of Disciplined Wrath ()socketed Malachite Rune() (with the seal of
+stardust attached to it)
+
+\<wielded\> a dagger
+
+\<held\> Scriptures of Disciplined Wrath ()socketed Malachite Rune() (with the seal of
 
 asmodeus attached to it)
 
-<instrument>         a hollowed ram's horn shofar
+\<instrument\> a hollowed ram's horn shofar
 
 Has some code been accidentally reverted or something?
 
@@ -1005,7 +1005,7 @@ Has some code been accidentally reverted or something?
 
 <div class="post" data-post-id="39880" data-author="Driven" data-date="2022-01-03T14:43:30+00:00" data-subject="Re: Enable Toggling of Crit Hits.">
 
-Fix has been committed to the vault.  Once Teker/Breeze push to the game machine and mud is rebuilt/rebooted, it will go live.
+Fix has been committed to the vault. Once Teker/Breeze push to the game machine and mud is rebuilt/rebooted, it will go live.
 
 </div>
 

@@ -16,7 +16,7 @@ Cant seem to get anything out of my robe for some reason ??
 
 It just skips lines and nothing happens..
 
-<840hp 809ma 336mv><[-35]md>
+\<840hp 809ma 336mv\>\<[-35]md\>
 
 exa shroud undead
 
@@ -50,19 +50,19 @@ a burnished steel shield..It glows violet!..It has a soft glowing aura!
 
 Ars Magica
 
-<840hp 808ma 336mv>get all shroud-undead
+\<840hp 808ma 336mv\>get all shroud-undead
 
-<840hp 808ma 336mv>A vicious Ju-Ju Zombie utters the words, 'candusgugh qare'
+\<840hp 808ma 336mv\>A vicious Ju-Ju Zombie utters the words, 'candusgugh qare'
 
-<840hp 808ma 336mv>get robe shroud undead
+\<840hp 808ma 336mv\>get robe shroud undead
 
 get robe shroud undead
 
-<840hp 808ma 336mv>get robe shroud undead
+\<840hp 808ma 336mv\>get robe shroud undead
 
-<840hp 808ma 336mv>
+\<840hp 808ma 336mv\>
 
-<840hp 808ma 336mv>inv
+\<840hp 808ma 336mv\>inv
 
 You are carrying:
 
@@ -86,11 +86,11 @@ Ok it seems that its not limited to my robe now
 
 I tried renting and coming back, not helping, cant get anything out of my containers..
 
-850hp 759ma 336mv>exa bag
+850hp 759ma 336mv\>exa bag
 
 The ornate bag is closed by a large tongue of leather that's fastened by a
 
-brass clasp.  The entire bag is embroidered with incredible stitch
+brass clasp. The entire bag is embroidered with incredible stitch
 
 patterns, mostly archaic symbols and a few pictures.
 
@@ -118,15 +118,15 @@ a gate key [3]..It glows violet!
 
 a fragile bone key
 
-<850hp 764ma 336mv>get key bag
+\<850hp 764ma 336mv\>get key bag
 
 get key bag
 
-<850hp 767ma 336mv>get key bag
+\<850hp 767ma 336mv\>get key bag
 
-<850hp 767ma 336mv>
+\<850hp 767ma 336mv\>
 
-<850hp 767ma 336mv>inv
+\<850hp 767ma 336mv\>inv
 
 You are carrying:
 
@@ -144,7 +144,7 @@ a flawed glowing gem..It has a soft glowing aura!
 
 <div class="post" data-post-id="34103" data-author="Dragoth" data-date="2013-02-28T09:29:15+00:00" data-subject="Re: Another interesting bug">
 
-<850hp 834ma 336mv> A pile of plundered gold explodes and gold rains from the sky!
+\<850hp 834ma 336mv\> A pile of plundered gold explodes and gold rains from the sky!
 
 Thanks to Alris for explaining, anywhere that there is a plunder on the ground, you cant seem to get anything out of containers or pick anything up .. nice
 

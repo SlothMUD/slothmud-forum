@@ -14,12 +14,12 @@ post_count: 2
 
 So are these spellbooks in game, or would I be wasting my time if I went looking for them?
 
-:)
+<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="11245" data-author="osric" data-date="2006-03-14T05:17:41+00:00" data-subject="">
 
-It is usually a waste of time to have to go looking for books, thats why they put it in game, so that we wont all spend our time leveling :twisted:
+It is usually a waste of time to have to go looking for books, thats why they put it in game, so that we wont all spend our time leveling <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

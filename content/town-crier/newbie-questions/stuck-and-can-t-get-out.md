@@ -26,6 +26,6 @@ Newbie HELP I'm STUCK!!!
 
 Gos Help I'm Stuck!
 
-Shout Help I'm STUCK!!!  (Try not to use shout alot).
+Shout Help I'm STUCK!!! (Try not to use shout alot).
 
 </div>

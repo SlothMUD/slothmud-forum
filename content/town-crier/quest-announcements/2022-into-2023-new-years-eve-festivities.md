@@ -18,10 +18,10 @@ Keeping it smaller than Christmas for obvious reasons.
 
 Timer link is below:
 
-[<LINK_TEXT text="https://www.tickcounter.com/countdown/3 ... -eve-quest">https://www.tickcounter.com/countdown/3716876/slothmud-2023-new-years-eve-quest</LINK_TEXT>](https://www.tickcounter.com/countdown/3716876/slothmud-2023-new-years-eve-quest)
+[https://www.tickcounter.com/countdown/3716876/slothmud-2023-new-years-eve-quest](https://www.tickcounter.com/countdown/3716876/slothmud-2023-new-years-eve-quest)
 
-See you there.  Happy New Year!
+See you there. Happy New Year!
 
---D
+\--D
 
 </div>

@@ -12,7 +12,7 @@ post_count: 1
 
 <div class="post" data-post-id="7067" data-author="impz" data-date="2005-06-11T12:43:29+00:00" data-subject="Sob, i felt so loved">
 
-Isabo gossips-- '* sorry about it, guys'
+Isabo gossips-- '\* sorry about it, guys'
 
 Lemonfaire gossips-- 'spiders sucks!'
 

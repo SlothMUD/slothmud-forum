@@ -12,7 +12,7 @@ post_count: 2
 
 <div class="post" data-post-id="29104" data-author="Guinex" data-date="2009-05-07T06:54:09+00:00" data-subject="Last Player and Time System">
 
-It seems that lasp player * is not matching up with time s, correct me if im worng but i don't think it is working properly.
+It seems that lasp player \* is not matching up with time s, correct me if im worng but i don't think it is working properly.
 
 </div>
 

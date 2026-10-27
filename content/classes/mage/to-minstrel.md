@@ -18,7 +18,7 @@ Mike, I like you.
 
 <div class="post" data-post-id="20652" data-author="Weasel" data-date="2007-10-08T22:53:03+00:00" data-subject="">
 
-:shock:  get a room yo.
+<img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> get a room yo.
 
 </div>
 
@@ -50,12 +50,12 @@ Everything Will has said in about the last week has had something to do with hom
 
 Where you been? He's been out since Sloth 2.5
 
- :P
+ <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="20659" data-author="Yinao" data-date="2007-10-09T00:29:36+00:00" data-subject="">
 
-Damn, I only started playing during Sloth III. :x
+Damn, I only started playing during Sloth III. <img src="/images/smilies/icon_mad.svg" alt=":x" title=":x" width="15" height="15" class="smiley nozoom">
 
 </div>

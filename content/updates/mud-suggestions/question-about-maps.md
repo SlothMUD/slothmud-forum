@@ -22,7 +22,7 @@ would be a nice thing, then all maps would automatically be updated
 
 when an area is updated.
 
-Just a thought....  :wink: 
+Just a thought.... <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom"> 
 
 /Achazia
 

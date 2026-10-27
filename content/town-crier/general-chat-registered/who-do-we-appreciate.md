@@ -12,11 +12,11 @@ post_count: 24
 
 <div class="post" data-post-id="16996" data-author="Chasm" data-date="2007-02-19T01:32:39+00:00" data-subject="Who do we appreciate?">
 
-Just thought it would be nice to throw out a topic of appreciation to those who help others all over the lands of Sloth.  Most of us do not go looking for the love but it still feels nice every once in a while.  Please follow up with anyone you'd like to say thanks to.  
+Just thought it would be nice to throw out a topic of appreciation to those who help others all over the lands of Sloth. Most of us do not go looking for the love but it still feels nice every once in a while. Please follow up with anyone you'd like to say thanks to. 
 
-For me, I'd like to show my gratitude to Deb (Shyla) for all that she puts herself through gathering spellbooks, marking peristratas, and teaching anyone and everyone.  She plays in a much different way than most of us, and I for one am grateful for her efforts.  I also want to thank all those that go out of their way to save each and every one of us from our own stupid mistakes.  "You are dead" is very lonely, but it is nice to know someone will try to get you if they can.
+For me, I'd like to show my gratitude to Deb (Shyla) for all that she puts herself through gathering spellbooks, marking peristratas, and teaching anyone and everyone. She plays in a much different way than most of us, and I for one am grateful for her efforts. I also want to thank all those that go out of their way to save each and every one of us from our own stupid mistakes. "You are dead" is very lonely, but it is nice to know someone will try to get you if they can.
 
-Smile and be happy :)
+Smile and be happy <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -42,7 +42,7 @@ Without whome we'd all be getting lots more shock therapy for our mud addiction.
 
 hmm, i have these badges here that say i am animal hero rank 1 and rank 2.
 
-can't remember who gave them to me. must have been someone who was very grateful :twisted:  :!:
+can't remember who gave them to me. must have been someone who was very grateful <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -52,7 +52,7 @@ According to my Brand-to-English Dictionary:
 
 "I thought about saying 'You're welcome' but decided not to."
 
-I appreciate all the wonderful folks in DS, the people that let me follow them without gsetting me to leader, the folks that join my groups, and my Brand-to-English Dictionary. And of course the many people that come to rescue me when dead, even Auto. :)
+I appreciate all the wonderful folks in DS, the people that let me follow them without gsetting me to leader, the folks that join my groups, and my Brand-to-English Dictionary. And of course the many people that come to rescue me when dead, even Auto. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -80,13 +80,13 @@ Yinao - For showing that the gay community does have a presence on sloth.
 
 I will admit that i got a bad habbit of calling people gay as a insult or a bad comment etc but truthfully irl i got no problem with gays. Here lies my policy:
 
-1) Dont hit on me and there wont be a problem.
+1\) Dont hit on me and there wont be a problem.
 
 Personally i have met gay people infact i have even had a girlfriend and her brother was gay and there never seemed to be any conflict there.
 
 But i would say that i deserve that comment and thumbs up resouh
 
-bring on the pain :twisted:  :twisted:  :twisted:
+bring on the pain <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -106,15 +106,15 @@ Van: Same deal as rub leads a hell of alot of xps and eq groups lyme bh ss etc s
 
 If i didnt mention you and you think that you deserve a thanks sorry i have taken up enough of this post already but it's not like i forgot you 
 
-Bring on the Pain :twisted:  :twisted:  :twisted:
+Bring on the Pain <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="17011" data-author="Medios" data-date="2007-02-19T20:23:47+00:00" data-subject="">
 
-Don't confuse appreciation with survival.  If your kissing ass thats another thing.  
+Don't confuse appreciation with survival. If your kissing ass thats another thing. 
 
-Id like to appreciate Rynquald for not getting mentioned. I would also appreciate all those who dont post. :P
+Id like to appreciate Rynquald for not getting mentioned. I would also appreciate all those who dont post. <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 Mike
 
@@ -122,7 +122,7 @@ Mike
 
 <div class="post" data-post-id="17012" data-author="resouh" data-date="2007-02-19T22:37:02+00:00" data-subject="">
 
-[i:2niich0k]This response is not intended as a personal slight against anyone blah blah blah[/i:2niich0k] My reason for posting on this thread is the fact that it is one of the few positive threads I have seen on the crier.  I'm a firm believer that regardless of level, how you act on the net still reflects on you as an individual irl.  I do appreciate the people I mentioned, the last couple were smart-a$$ comments since I have a hard time staying serious for more than 30 seconds straight, but I still appreciate auto and yinao and the elements they bring to the mud.  I am in no way a crier junkie, post prob an average of once every 3-4 months but saw this and thought 'hmmm......an opportunity to show people that they are noticed' so went w/ it.
+<em>This response is not intended as a personal slight against anyone blah blah blah</em> My reason for posting on this thread is the fact that it is one of the few positive threads I have seen on the crier. I'm a firm believer that regardless of level, how you act on the net still reflects on you as an individual irl. I do appreciate the people I mentioned, the last couple were smart-a$$ comments since I have a hard time staying serious for more than 30 seconds straight, but I still appreciate auto and yinao and the elements they bring to the mud. I am in no way a crier junkie, post prob an average of once every 3-4 months but saw this and thought 'hmmm......an opportunity to show people that they are noticed' so went w/ it.
 
 Resouh
 
@@ -130,13 +130,13 @@ Resouh
 
 <div class="post" data-post-id="17013" data-author="Hades" data-date="2007-02-20T00:37:12+00:00" data-subject="We appreciate who?">
 
-Get a room already :roll:
+Get a room already <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="17022" data-author="tincts" data-date="2007-02-20T09:28:40+00:00" data-subject="">
 
-I'd like to take the chance to thank Tinct.  Man, that guy will bend over backwards for anyone who needs it.  Any tiime I need cash he's given it to me without expecting a reward.  Also, he's a very good looking young man.  Peace out Tinct bro.  Love ya man.
+I'd like to take the chance to thank Tinct. Man, that guy will bend over backwards for anyone who needs it. Any tiime I need cash he's given it to me without expecting a reward. Also, he's a very good looking young man. Peace out Tinct bro. Love ya man.
 
 </div>
 
@@ -166,21 +166,21 @@ all the fleeing casters for relite when it drops midfight
 
 yeah there are specific classes i left out - but i think i pretty much have my thanks covered.
 
-oh yeah.  thx shyla for being our beloved librarian.  don't know what we'd do without you
+oh yeah. thx shyla for being our beloved librarian. don't know what we'd do without you
 
-and thx imms and admin for supporting our mud habit and paying the rl coinage to keep this game FREE.  
+and thx imms and admin for supporting our mud habit and paying the rl coinage to keep this game FREE. 
 
-"that's all i got to say about that" --forrest gump -->forrest gump
+"that's all i got to say about that" --forrest gump --\>forrest gump
 
 </div>
 
 <div class="post" data-post-id="17035" data-author="Rodek" data-date="2007-02-20T22:52:41+00:00" data-subject="">
 
-I apreciate everybody who plays, except botters...I dont like those ;)
+I apreciate everybody who plays, except botters...I dont like those <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 Special thanks today from me:
 
-Shyla -- of course, for helping me get spellbooks with all my chars and attuning several of em :)
+Shyla -- of course, for helping me get spellbooks with all my chars and attuning several of em <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Minstrel -- for leading some great desert groups and some nice salamis stuff too so we could all check it out 
 
@@ -198,7 +198,7 @@ and tons more, but thats all I got time for right now.
 
 <div class="post" data-post-id="17041" data-author="13" data-date="2007-02-21T14:03:44+00:00" data-subject="">
 
-I would like to say that I appreciate the fact that Balrog actually plays this mud with mortal characters.  That really helps an Imm appreciate the depth of the changes that are implemented and also helps gauge how high the general populace's frustration level will be, and whether it's warranted or just whining.
+I would like to say that I appreciate the fact that Balrog actually plays this mud with mortal characters. That really helps an Imm appreciate the depth of the changes that are implemented and also helps gauge how high the general populace's frustration level will be, and whether it's warranted or just whining.
 
 Go Erik.
 
@@ -212,19 +212,19 @@ A special thanx to everyone that makes this game fun. Which is pretty much every
 
 <div class="post" data-post-id="17046" data-author="Toxis" data-date="2007-02-21T23:56:26+00:00" data-subject="">
 
-I want to thank the countless people who have ever helped me do anything on this mud, especially all my DoW members.  There's a lot of cool people on here, you know who you are, and there's so many to list I would hate to leave anyone out.
+I want to thank the countless people who have ever helped me do anything on this mud, especially all my DoW members. There's a lot of cool people on here, you know who you are, and there's so many to list I would hate to leave anyone out.
 
-And I want to thank all the cool imms who work hard.  Overall, I think being admin is pretty thankless and stressful.
+And I want to thank all the cool imms who work hard. Overall, I think being admin is pretty thankless and stressful.
 
-Thanks to Shyla with her countless teachings.  I think I have personally given her max learned for more than one spell. :)~
+Thanks to Shyla with her countless teachings. I think I have personally given her max learned for more than one spell. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">\~
 
 I guess I can thank myself for being so damn cool...
 
 Toxis struts and then flexes like a body builder.
 
-It ain't easy, being cheesy :)~
+It ain't easy, being cheesy <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">\~
 
--Brad
+\-Brad
 
 </div>
 
@@ -232,58 +232,59 @@ It ain't easy, being cheesy :)~
 
 There are truly a ton of people that I am thankful for in the Sloth community. I'll do my best here by limiting myself.
 
-1. My fellow administrators/immortals for taking the time to reteach someone how to be an imm again.
+1\. My fellow administrators/immortals for taking the time to reteach someone how to be an imm again.
 
-2. The Golden Tigers for giving me a reason to want to play again. I can't believe Madmax is silly enough to still allow me to get him killed!
+2\. The Golden Tigers for giving me a reason to want to play again. I can't believe Madmax is silly enough to still allow me to get him killed!
 
-3. Shyla for being herself and an invaluable friend.
+3\. Shyla for being herself and an invaluable friend.
 
-4. Yinao for being my "hero".
+4\. Yinao for being my "hero".
 
-5. Blade for giving me something to laugh at pretty much every time I login.
+5\. Blade for giving me something to laugh at pretty much every time I login.
 
-6. Those fearless leaders that allow a 4x caster like me to tag along and sponge crazy amounts of xp. You all know them!
+6\. Those fearless leaders that allow a 4x caster like me to tag along and sponge crazy amounts of xp. You all know them!
 
-7. And finally, I would like to thank those of you that go out of their way to assist people in learning the game and enjoying themselves. There are far too many to list here!
+7\. And finally, I would like to thank those of you that go out of their way to assist people in learning the game and enjoying themselves. There are far too many to list here!
 
 </div>
 
 <div class="post" data-post-id="17065" data-author="Akasha" data-date="2007-02-22T23:47:19+00:00" data-subject="">
 
-Wow, noone thanks Jake?  Jeesh, you should all thank the guy who makes sure that the game you love (or love to hate) is there when you click LoGiN.
+Wow, noone thanks Jake? Jeesh, you should all thank the guy who makes sure that the game you love (or love to hate) is there when you click LoGiN.
 
-That's not just sucking up either  :P Seeing as how I have nothing to gain in doing so.
+That's not just sucking up either <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom"> Seeing as how I have nothing to gain in doing so.
 
 </div>
 
 <div class="post" data-post-id="17066" data-author="Akasha" data-date="2007-02-22T23:49:35+00:00" data-subject="">
 
-Oh, and you should also take a moment to show appreciation to Splork too for getting up at 4am when the mud crashes to reboot it for you addicts :P
+Oh, and you should also take a moment to show appreciation to Splork too for getting up at 4am when the mud crashes to reboot it for you addicts <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="17067" data-author="Autolycos" data-date="2007-02-23T01:41:13+00:00" data-subject="">
 
-Oh, and you should also take a moment to show appreciation to Splork too for getting up at 4am when the mud crashes to reboot it for you addicts :P[/quote:2xrps5oc]
+> <strong>\*Akasha\* wrote:</strong>
+> Oh, and you should also take a moment to show appreciation to Splork too for getting up at 4am when the mud crashes to reboot it for you addicts <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
- :shock: 
+ <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
 I thought he was connected via firewire?
 
-Splork....  The Matrix has you.....
+Splork.... The Matrix has you.....
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="17100" data-author="Morkeleb" data-date="2007-02-25T03:50:41+00:00" data-subject="">
 
-I appreciate anyone who remembers who I was.  Who I am now is yet to be decided, as some of you may have noticed with my latest character name choice. ;)  Hello all!  Long time no mud!
+I appreciate anyone who remembers who I was. Who I am now is yet to be decided, as some of you may have noticed with my latest character name choice. <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom"> Hello all! Long time no mud!
 
 </div>
 
 <div class="post" data-post-id="17104" data-author="Yasik" data-date="2007-02-25T08:23:48+00:00" data-subject="">
 
-I appreciate Splork not to wipe/delev me again a week ago when i got drunk and was messin up w/ players  :D  :twisted:
+I appreciate Splork not to wipe/delev me again a week ago when i got drunk and was messin up w/ players <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

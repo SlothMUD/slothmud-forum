@@ -16,15 +16,15 @@ I know the string, and need to "analyze" next one. Depends of what following str
 
 Let me explain in example:
 
-Leizu is a druid prime.   <- this string comes from the mud and never changes. I need to check next, rigth after this one.
+Leizu is a druid prime. \<- this string comes from the mud and never changes. I need to check next, rigth after this one.
 
 next string may contain 3 variants:
 
-1.  druid  <- zmud should say cool
+1\. druid \<- zmud should say cool
 
-2.  mage <- zmud should say comfort
+2\. mage \<- zmud should say comfort
 
-3.           <- (empty string) zmud should be silent
+3\. \<- (empty string) zmud should be silent
 
 P.S. atm I use zMUD 4.62
 
@@ -34,37 +34,33 @@ P.S. atm I use zMUD 4.62
 
 I don't use zMUD, but probably works the same way as my client.. or can be adjusted accordingly.. trigger on
 
-[code:27v4zwxl]
-
+```
 * is a * prime.
-
-[/code:27v4zwxl]
+```
 
 which sends %2 to the subroutine script (zMUD has scripting, right?) that says
 
-[code:27v4zwxl]
-
+```
 sub Leizuscript (strTriggerName, trig_line, arrWildCards)
 
-  dim class
+ dim class
 
-      class = arrWildCards (1)
+ class = arrWildCards (1)
 
-          if class = ("druid") then
+ if class = ("druid") then
 
-              World.send "say cool"
+ World.send "say cool"
 
-          end if
+ end if
 
-          if class = ("mage") than
+ if class = ("mage") than
 
-              World.send "say comfort"
+ World.send "say comfort"
 
-          end if
+ end if
 
 end sub
-
-[/code:27v4zwxl]
+```
 
 or something like that anyway heh
 
@@ -86,7 +82,7 @@ I'm using zMUd 5.55 here.
 
 Lets say mud output is like so:
 
-<726hp 350ma 177mv>
+\<726hp 350ma 177mv\>
 
 cast 'Aegis' Zenkai
 
@@ -94,11 +90,12 @@ You weave the threads of magic masterfully!
 
 You are surrounded by a radiant light.
 
-<726hp 311ma 177mv>[/color:5xkxx084]
+\<726hp 311ma 177mv\>
 
 And you want to trigger a command if you cast a masterful aegis.
 
-[code:5xkxx084]trigger:
+```
+trigger:
 
 ^~<*hp*ma*mv~>
 
@@ -120,7 +117,8 @@ trigger:
 
 command:
 
-#if (@magic = 1) {say Alright! Masterful Aegis!}[/code:5xkxx084]
+#if (@magic = 1) {say Alright! Masterful Aegis!}
+```
 
 Is that something like what you want to script?
 
@@ -148,21 +146,21 @@ class: checkstring1
 
 pattern: string1
 
-#T+ checkstring2;#t- checkstring1
+\#T+ checkstring2;#t- checkstring1
 
 class: checkstring2
 
 pattern: %1
 
-#IF {%1=@variant1} {command1;#T- checkstring2;#T+ checkstring1};
+\#IF {%1=@variant1} {command1;#T- checkstring2;#T+ checkstring1};
 
-#IF {%1=@variant2} {command2;#T- checkstring2;#T+ checkstring1};
+\#IF {%1=@variant2} {command2;#T- checkstring2;#T+ checkstring1};
 
-#IF {%1<>''} {#T- checkstring2;#T+ checkstring1}
+\#IF {%1\<\>''} {#T- checkstring2;#T+ checkstring1}
 
 Can turn off the checkstring2 trigger on prompt,
 
-like: Pattern: <prompt>, command: #T- checkstring2
+like: Pattern: \<prompt\>, command: #T- checkstring2
 
 I know it looks ugly, it smells bad, but its about to work..similiar code has worked for me..in the recasting spells trigger, I think.
 
@@ -184,13 +182,13 @@ You can set up multiline triggers. It can be done this way:
 
 Trigger pattern: ^Leizu is a druid prime$^Leizu is a druid
 
-Trigger text:      #say cool
+Trigger text: #say cool
 
 2nd trigger:
 
 Trigger pattern: ^Leizu is a druid prime$^Leizu is a mage
 
-Trigger text:      #say crap
+Trigger text: #say crap
 
 This is it. It should work oÂ­n zmud 4.62 as well.
 

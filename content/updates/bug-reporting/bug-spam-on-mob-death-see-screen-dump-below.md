@@ -18,115 +18,115 @@ You received 1105908 experience points.
 
 Your blood freezes as you hear a stout bakemono's death cry.
 
-the corpse of a stout bakemono intones 'One is mfn_split (2).'
+the corpse of a stout bakemono intones 'One is mfn\_split (2).'
 
-the corpse of a stout bakemono intones 'One is mfn_split (1).'
+the corpse of a stout bakemono intones 'One is mfn\_split (1).'
 
-the corpse of a stout bakemono intones 'One is mfn_split (2).'
+the corpse of a stout bakemono intones 'One is mfn\_split (2).'
 
-the corpse of a stout bakemono intones 'One is mfn_split (2).'
+the corpse of a stout bakemono intones 'One is mfn\_split (2).'
 
-the corpse of a stout bakemono intones 'One is mfn_split (2).'
+the corpse of a stout bakemono intones 'One is mfn\_split (2).'
 
-the corpse of a stout bakemono intones 'One is mfn_split (2).'
+the corpse of a stout bakemono intones 'One is mfn\_split (2).'
 
-the corpse of a stout bakemono intones 'One is mfn_split (2).'
+the corpse of a stout bakemono intones 'One is mfn\_split (2).'
 
-the corpse of a stout bakemono intones 'One is mfn_split (2).'
+the corpse of a stout bakemono intones 'One is mfn\_split (2).'
 
-the corpse of a stout bakemono intones 'One is mfn_split (1).'
+the corpse of a stout bakemono intones 'One is mfn\_split (1).'
 
-the corpse of a stout bakemono intones 'One is mfn_split (2).'
+the corpse of a stout bakemono intones 'One is mfn\_split (2).'
 
-the corpse of a stout bakemono intones 'One is mfn_split (2).'
+the corpse of a stout bakemono intones 'One is mfn\_split (2).'
 
-the corpse of a stout bakemono intones 'One is mfn_split (2).'
+the corpse of a stout bakemono intones 'One is mfn\_split (2).'
 
-the corpse of a stout bakemono intones 'One is mfn_split (2).'
+the corpse of a stout bakemono intones 'One is mfn\_split (2).'
 
-the corpse of a stout bakemono intones 'One is mfn_split (2).'
+the corpse of a stout bakemono intones 'One is mfn\_split (2).'
 
-the corpse of a stout bakemono intones 'One is mfn_split (2).'
+the corpse of a stout bakemono intones 'One is mfn\_split (2).'
 
-the corpse of a stout bakemono intones 'One is mfn_split (1).'
+the corpse of a stout bakemono intones 'One is mfn\_split (1).'
 
-the corpse of a stout bakemono intones 'One is mfn_split (2).'
+the corpse of a stout bakemono intones 'One is mfn\_split (2).'
 
-the corpse of a stout bakemono intones 'One is mfn_split (2).'
+the corpse of a stout bakemono intones 'One is mfn\_split (2).'
 
-the corpse of a stout bakemono intones 'One is mfn_split (2).'
+the corpse of a stout bakemono intones 'One is mfn\_split (2).'
 
-the corpse of a stout bakemono intones 'One is mfn_split (2).'
+the corpse of a stout bakemono intones 'One is mfn\_split (2).'
 
-the corpse of a stout bakemono intones 'One is mfn_split (2).'
+the corpse of a stout bakemono intones 'One is mfn\_split (2).'
 
-the corpse of a stout bakemono intones 'One is mfn_split (2).'
+the corpse of a stout bakemono intones 'One is mfn\_split (2).'
 
-the corpse of a stout bakemono intones 'One is mfn_split (2).'
+the corpse of a stout bakemono intones 'One is mfn\_split (2).'
 
-the corpse of a stout bakemono intones 'One is mfn_split (1).'
+the corpse of a stout bakemono intones 'One is mfn\_split (1).'
 
-the corpse of a stout bakemono intones 'One is mfn_range.'
+the corpse of a stout bakemono intones 'One is mfn\_range.'
 
-the corpse of a stout bakemono intones 'One is mfn_range.'
+the corpse of a stout bakemono intones 'One is mfn\_range.'
 
-the corpse of a stout bakemono intones 'One is mfn_range.'
+the corpse of a stout bakemono intones 'One is mfn\_range.'
 
-the corpse of a stout bakemono intones 'One is mfn_split (2).'
+the corpse of a stout bakemono intones 'One is mfn\_split (2).'
 
-the corpse of a stout bakemono intones 'One is mfn_split (2).'
+the corpse of a stout bakemono intones 'One is mfn\_split (2).'
 
-the corpse of a stout bakemono intones 'One is mfn_split (2).'
+the corpse of a stout bakemono intones 'One is mfn\_split (2).'
 
-the corpse of a stout bakemono intones 'One is mfn_split (2).'
+the corpse of a stout bakemono intones 'One is mfn\_split (2).'
 
-the corpse of a stout bakemono intones 'One is mfn_split (2).'
+the corpse of a stout bakemono intones 'One is mfn\_split (2).'
 
-the corpse of a stout bakemono intones 'One is mfn_split (2).'
+the corpse of a stout bakemono intones 'One is mfn\_split (2).'
 
-the corpse of a stout bakemono intones 'One is mfn_split (1).'
+the corpse of a stout bakemono intones 'One is mfn\_split (1).'
 
-the corpse of a stout bakemono intones 'One is CDW: a_ival.'
+the corpse of a stout bakemono intones 'One is CDW: a\_ival.'
 
-the corpse of a stout bakemono intones 'One is mfn_obj_in_world.'
+the corpse of a stout bakemono intones 'One is mfn\_obj\_in\_world.'
 
-the corpse of a stout bakemono intones 'One is CDW: a_ival.'
+the corpse of a stout bakemono intones 'One is CDW: a\_ival.'
 
-the corpse of a stout bakemono intones 'One is mfn_range.'
+the corpse of a stout bakemono intones 'One is mfn\_range.'
 
-the corpse of a stout bakemono intones 'One is mfn_range.'
+the corpse of a stout bakemono intones 'One is mfn\_range.'
 
-the corpse of a stout bakemono intones 'One is mfn_range.'
+the corpse of a stout bakemono intones 'One is mfn\_range.'
 
-the corpse of a stout bakemono intones 'One is mfn_split (2).'
+the corpse of a stout bakemono intones 'One is mfn\_split (2).'
 
-the corpse of a stout bakemono intones 'One is mfn_split (2).'
+the corpse of a stout bakemono intones 'One is mfn\_split (2).'
 
-the corpse of a stout bakemono intones 'One is mfn_split (2).'
+the corpse of a stout bakemono intones 'One is mfn\_split (2).'
 
-the corpse of a stout bakemono intones 'One is mfn_split (2).'
+the corpse of a stout bakemono intones 'One is mfn\_split (2).'
 
-the corpse of a stout bakemono intones 'One is mfn_split (2).'
+the corpse of a stout bakemono intones 'One is mfn\_split (2).'
 
-the corpse of a stout bakemono intones 'One is mfn_split (2).'
+the corpse of a stout bakemono intones 'One is mfn\_split (2).'
 
-the corpse of a stout bakemono intones 'One is mfn_split (1).'
+the corpse of a stout bakemono intones 'One is mfn\_split (1).'
 
-the corpse of a stout bakemono intones 'One is mfn_range.'
+the corpse of a stout bakemono intones 'One is mfn\_range.'
 
-the corpse of a stout bakemono intones 'One is people_in_room.'
+the corpse of a stout bakemono intones 'One is people\_in\_room.'
 
-the corpse of a stout bakemono intones 'One is mfn_range.'
+the corpse of a stout bakemono intones 'One is mfn\_range.'
 
-the corpse of a stout bakemono intones 'One is mfn_split (2).'
+the corpse of a stout bakemono intones 'One is mfn\_split (2).'
 
-the corpse of a stout bakemono intones 'One is mfn_split (2).'
+the corpse of a stout bakemono intones 'One is mfn\_split (2).'
 
-the corpse of a stout bakemono intones 'One is mfn_split (2).'
+the corpse of a stout bakemono intones 'One is mfn\_split (2).'
 
-the corpse of a stout bakemono intones 'One is mfn_split (2).'
+the corpse of a stout bakemono intones 'One is mfn\_split (2).'
 
-the corpse of a stout bakemono intones 'One is mfn_split (2).'
+the corpse of a stout bakemono intones 'One is mfn\_split (2).'
 
 the corpse of a stout bak#SESSION 'sloth' DIED.
 
@@ -140,6 +140,6 @@ MOB's should stick to being MOB's and let coders be coders.
 
 <div class="post" data-post-id="26576" data-author="jezer" data-date="2008-10-07T01:03:59+00:00" data-subject="">
 
-I noticed a bug on wurragurr in nexialism last night as well. One of his actions with his staff had the word "(null)" in it. Seemed like a variable or printf gone wrong. Probably been there for ages.. *shrug*
+I noticed a bug on wurragurr in nexialism last night as well. One of his actions with his staff had the word "(null)" in it. Seemed like a variable or printf gone wrong. Probably been there for ages.. \*shrug\*
 
 </div>

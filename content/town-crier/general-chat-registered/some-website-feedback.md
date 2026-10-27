@@ -28,7 +28,7 @@ If you click anywhere on the top "Slothmud III" image, it links to the home page
 
 <div class="post" data-post-id="10170" data-author="Clink" data-date="2006-01-17T19:00:31+00:00" data-subject="">
 
-What version of ie?  I use 6.0.29 and don't see what you describe.
+What version of ie? I use 6.0.29 and don't see what you describe.
 
 </div>
 
@@ -36,15 +36,15 @@ What version of ie?  I use 6.0.29 and don't see what you describe.
 
 I have 6.0.28000....
 
-I get it to.  When you mouseover the panorama.jpg it flashes white for a second.  It doesn't do it just once either, it happens every time the mouse is over it.
+I get it to. When you mouseover the panorama.jpg it flashes white for a second. It doesn't do it just once either, it happens every time the mouse is over it.
 
 I'm also using my work machine, which is Windows 2000, but the resources are good enough that it shouldn't be speed, memory or connection related.
 
-I scanned the source and from my meager understanding, didn't see anything that might account for it.  The header on the old site never gave me this type of affect though.
+I scanned the source and from my meager understanding, didn't see anything that might account for it. The header on the old site never gave me this type of affect though.
 
 Of interesting note, if you move the cursor off the banner while it's flashing, the message that appears in the status bar at the bottom says:
 
-Downloading picture [<LINK_TEXT text="http://www.slothmud.org/themes/Andergas ... norama.jpg">http://www.slothmud.org/themes/Andergast/images/panorama.jpg</LINK_TEXT>](http://www.slothmud.org/themes/Andergast/images/panorama.jpg)
+Downloading picture [http://www.slothmud.org/themes/Andergast/images/panorama.jpg](http://www.slothmud.org/themes/Andergast/images/panorama.jpg)
 
 Again, not sure why a mouseover would cause a complete refresh of that window... but that appears to be exactly what it does.
 
@@ -52,13 +52,13 @@ Again, not sure why a mouseover would cause a complete refresh of that window...
 
 <div class="post" data-post-id="10172" data-author="blackmore" data-date="2006-01-17T21:16:41+00:00" data-subject="">
 
-I'm not seeing the flashing image, though when I mouse over the image, I do get a series of hyphens that go across the center of the image.  One shows up under the dragon's tail, the others are across horizontally from that one.  They're not a big deal, I just thought I'd point it out.
+I'm not seeing the flashing image, though when I mouse over the image, I do get a series of hyphens that go across the center of the image. One shows up under the dragon's tail, the others are across horizontally from that one. They're not a big deal, I just thought I'd point it out.
 
 </div>
 
 <div class="post" data-post-id="10174" data-author="12345" data-date="2006-01-17T21:40:22+00:00" data-subject="">
 
-Yeah, at home and using IE 6.0.29, I got the same thing as blackmore.  Probably wouldn't have noticed if Blackmore hadn't mentioned it :)
+Yeah, at home and using IE 6.0.29, I got the same thing as blackmore. Probably wouldn't have noticed if Blackmore hadn't mentioned it <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -74,25 +74,23 @@ Also notice if I try log in at teh forum it fails still, have to log in from the
 
 ditto here.. looking at coding.. using a mix of css and tables might be the issue.. IE is a friggin pain at times with css..
 
-[code:svjhofla]
-
+```
 <td colspan="5">
 
-&lt;div id="header" onclick="location.href='http://www.slothmud.org'"title="SlothMUD's Home";><a href="http://www.slothmud.org/">
+<div id="header" onclick="location.href='http://www.slothmud.org'"title="SlothMUD's Home";><a href="http://www.slothmud.org/">
 
 <table width="100%" class="panorama" height="140">
 
-&lt;STYLE>
+<STYLE>
 
 .panorama{ cursor:pointer; }
 
-&lt;/STYLE>
+</STYLE>
 
-						<tr>
+ <tr>
 
 ....etc
-
-[/code:svjhofla]
+```
 
 Just use a normal html href tag for the link should solve it ...also didn't see a closing tag for that td colspan, but was only a quick look..
 
@@ -110,7 +108,7 @@ Also, I am using IE 6.028 sp1 because sp2 screwed up my dual core system. Maybe 
 
 <div class="post" data-post-id="10195" data-author="12345" data-date="2006-01-18T13:34:16+00:00" data-subject="">
 
-Ok, I'm back at work again.  IE 6.0.28 and SP1 to boot.  Still flashing, and now I notice the dashes as well... though on an interesting note, they appear to be colored to blend into the background.
+Ok, I'm back at work again. IE 6.0.28 and SP1 to boot. Still flashing, and now I notice the dashes as well... though on an interesting note, they appear to be colored to blend into the background.
 
 So all I can really say is that it doesn't seem to be a SP2 issue.
 
@@ -128,8 +126,7 @@ Maybe just set that area as a div id with the background as the panarama.jpg in 
 
 in the css place something like this:
 
-[code:2guj48p3]
-
+```
 #headspace {
 
 	margin: 0px auto;
@@ -139,20 +136,17 @@ in the css place something like this:
 	background: url("http://path_to/panarama.gif");
 
 	}
-
-[/code:2guj48p3]
+```
 
 and in the page code place this:
 
-[code:2guj48p3]
-
+```
 <div id="headspace">
 
 <a href="http://www.slothmud.org"><img src="http://path_to/transparent.gif" width="100%" height="142" border="0" alt="home" /></a>
 
 </div>
-
-[/code:2guj48p3]
+```
 
 yes?
 
@@ -172,7 +166,7 @@ Splork
 
 <div class="post" data-post-id="10212" data-author="12345" data-date="2006-01-18T20:31:42+00:00" data-subject="">
 
-My work computer shows perfect.  Nice!  :D
+My work computer shows perfect. Nice! <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -184,23 +178,23 @@ Fixed for me. Thanks muchly Splork.
 
 <div class="post" data-post-id="10217" data-author="12345" data-date="2006-01-18T23:18:55+00:00" data-subject="">
 
-Shows perfect at home as well, very nice :)
+Shows perfect at home as well, very nice <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="10225" data-author="Blastem" data-date="2006-01-19T19:20:57+00:00" data-subject="">
 
-[<LINK_TEXT text="http://www.slothmud.org/index.php?modul ... unc=search">http://www.slothmud.org/index.php?module=pnAuction&func=search</LINK_TEXT>](http://www.slothmud.org/index.php?module=pnAuction&func=search)
+[http://www.slothmud.org/index.php?module=pnAuction&func=search](http://www.slothmud.org/index.php?module=pnAuction&func=search)
 
-Error! Called unknown function: pnAuction_user_search()
+Error! Called unknown function: pnAuction\_user\_search()
 
-search broke :)
+search broke <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="10230" data-author="Clink" data-date="2006-01-19T20:45:42+00:00" data-subject="">
 
-Search never worked, but it didn't quite give this ugly of a response.  I'll just take the links with missing features off the site when I get home.
+Search never worked, but it didn't quite give this ugly of a response. I'll just take the links with missing features off the site when I get home.
 
 Clink
 

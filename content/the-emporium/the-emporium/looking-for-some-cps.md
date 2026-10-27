@@ -30,7 +30,7 @@ Fangs of a Dracolich
 
 Razor Sharp Tail
 
-If you have any of these items, i will buy them, or i have lots of eq for trade including War Greaves, Demonskin Boots, and other stuff.  Catch me online.
+If you have any of these items, i will buy them, or i have lots of eq for trade including War Greaves, Demonskin Boots, and other stuff. Catch me online.
 
 Thanks,
 

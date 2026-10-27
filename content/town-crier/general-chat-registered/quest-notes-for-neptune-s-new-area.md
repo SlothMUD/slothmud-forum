@@ -36,7 +36,7 @@ with Neptune's grace we feel we will be successful in our neverending search
 
 for truth and knowledge.
 
----Baelrach, Galavan Archaeologist
+\---Baelrach, Galavan Archaeologist
 
 </div>
 

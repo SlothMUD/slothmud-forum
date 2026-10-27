@@ -30,7 +30,7 @@ Have Fun Bidding.
 
 <div class="post" data-post-id="401" data-author="Dragoth" data-date="2004-05-29T00:23:40+00:00" data-subject="">
 
-<P>bid for everything you have.</P>
+\<P\>bid for everything you have.\</P\>
 
 </div>
 
@@ -48,7 +48,7 @@ hammer 2.7 mil
 
 <div class="post" data-post-id="408" data-author="Sind" data-date="2004-05-29T10:23:36+00:00" data-subject="">
 
-hrm nah,withdrawn :)
+hrm nah,withdrawn <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -60,7 +60,7 @@ actually im confused,tell us when u going to over it .
 
 <div class="post" data-post-id="411" data-author="Dragoth" data-date="2004-05-29T13:46:44+00:00" data-subject="">
 
-pinch 5m<BR>stick 2m
+pinch 5m\<BR\>stick 2m
 
 </div>
 

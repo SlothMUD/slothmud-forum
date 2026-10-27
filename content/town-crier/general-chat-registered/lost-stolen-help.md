@@ -12,13 +12,13 @@ post_count: 10
 
 <div class="post" data-post-id="11269" data-author="Guinex" data-date="2006-03-14T21:10:26+00:00" data-subject="Lost/Stolen HELP!">
 
-I seem to have either lost or had my leather gloves pthieved! :( If you have them or know how I may acquire another pair please let me know at any cost.
+I seem to have either lost or had my leather gloves pthieved! <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom"> If you have them or know how I may acquire another pair please let me know at any cost.
 
 </div>
 
 <div class="post" data-post-id="11270" data-author="Autolycos" data-date="2006-03-14T21:23:53+00:00" data-subject="">
 
-oh no! *comf guinex...    who would do such a terrible thing?...   my barrel is missing too... 
+oh no! \*comf guinex... who would do such a terrible thing?... my barrel is missing too... 
 
 You are carrying:
 
@@ -36,17 +36,17 @@ a small cloth sack
 
 <div class="post" data-post-id="11271" data-author="Guinex" data-date="2006-03-14T21:25:10+00:00" data-subject="">
 
-Gdamn fockers, well i guess were on a quest to reequip J. :(
+Gdamn fockers, well i guess were on a quest to reequip J. <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="11272" data-author="jezer" data-date="2006-03-14T23:46:38+00:00" data-subject="">
 
-Haha, thats great!  :D
+Haha, thats great! <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 My services are offered, if you want to form a possie and go after these pthiefing tyrants! Rumour has it the shopkeeper has seen to be dealing in barrels... target shopkeeper... who is with me! 
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -62,7 +62,7 @@ oh geeeez... didnt anyone notice?
 
 my barrel is invis, and i have guinex's gloves in my inv...
 
-cmon guys!  i laid a good one out in the open :evil:
+cmon guys! i laid a good one out in the open <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -72,7 +72,7 @@ Yes auto we got ur joke... it was a classic...
 
 What I don't get is why it wasn't obvious to you that we got?
 
-I mean kill the shopkeeper? come on!  :roll:
+I mean kill the shopkeeper? come on! <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -84,11 +84,12 @@ Besides it's more fun to sit back and pretend we didn't see it. That way we can 
 
 <div class="post" data-post-id="11301" data-author="Autolycos" data-date="2006-03-15T14:20:29+00:00" data-subject="">
 
-I mean kill the shopkeeper? come on![/quote:2hhkixtt]
+> <strong>jezer wrote:</strong>
+> I mean kill the shopkeeper? come on!
 
 speaking of trying to kill the shopkeeps... 
 
-Hey Blastem,  care to elaborate on what happens when you kick a drach shopkeeper?  :twisted:
+Hey Blastem, care to elaborate on what happens when you kick a drach shopkeeper? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

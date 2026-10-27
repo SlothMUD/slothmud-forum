@@ -24,6 +24,6 @@ Akasha
 
 <div class="post" data-post-id="6104" data-author="guest" data-date="2005-05-12T09:47:47+00:00" data-subject="">
 
-Thanks, Kasha :)
+Thanks, Kasha <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

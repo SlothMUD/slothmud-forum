@@ -12,7 +12,7 @@ post_count: 4
 
 <div class="post" data-post-id="21825" data-author="Tap" data-date="2007-12-31T23:02:55+00:00" data-subject="Happy New Year - Year of the Tap">
 
-8)
+<img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -24,7 +24,7 @@ happy new year
 
 <div class="post" data-post-id="21827" data-author="kraz" data-date="2008-01-01T08:18:10+00:00" data-subject="New Years Greetings and Salutations">
 
-:P 
+<img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom"> 
 
  Happy New Years from El Paso, Texas
 

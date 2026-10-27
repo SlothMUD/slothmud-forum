@@ -14,13 +14,13 @@ post_count: 1
 
 We have fixed several bugs which centered around shifted druids. A few examples;
 
-1) gwho  and where will now show shifted druids
+1\) gwho and where will now show shifted druids
 
-2) last player, autoloot, autosplit can be toggled in form
+2\) last player, autoloot, autosplit can be toggled in form
 
-3) Areas which have rooms on fire,acid rain rooms,  push 
+3\) Areas which have rooms on fire,acid rain rooms, push 
 
-rooms, etc will now  affect shifted druids as well
+rooms, etc will now affect shifted druids as well
 
 There are quite a few others but I will leave some of them for you to discover on the run.
 
@@ -28,7 +28,7 @@ Enjoy,
 
 Splork
 
- :twisted: 
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 If players have others feel free to email them to us or post them.
 

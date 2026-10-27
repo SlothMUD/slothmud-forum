@@ -12,7 +12,7 @@ post_count: 3
 
 <div class="post" data-post-id="33516" data-author="kalidor" data-date="2012-08-26T16:12:41+00:00" data-subject="cmud maps">
 
-Anyone have some cmud maps they can export to here? seems that would be most beneficial :)
+Anyone have some cmud maps they can export to here? seems that would be most beneficial <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

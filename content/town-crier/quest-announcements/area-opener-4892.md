@@ -48,9 +48,9 @@ you don't discover it during the quest.
 
 Thanks for playing, and we hope to see you guys at the quest! And remember: Not all challenges
 
-shall require the use of a sword or spell :)
+shall require the use of a sword or spell <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -64,11 +64,11 @@ Weight: 4, Value: 584748gold, Worn in: TAKE HOLD
 
 Can affect you as:
 
-    Affects: REGEN_MANA by 3
+ Affects: REGEN\_MANA by 3
 
-    Affects: SAVING_SPELL by -3
+ Affects: SAVING\_SPELL by -3
 
-    Affects: MANA by 15
+ Affects: MANA by 15
 
 Only those who are at least supreme magic users and also apprentice avatars
 
@@ -86,9 +86,9 @@ Weight: 1, Value: 54673gold, Worn in: TAKE
 
 Clasp can only be attached to:
 
-   torches and other held items
+ torches and other held items
 
-Clasp gives the user +2 BONUS_HAND_DAM
+Clasp gives the user +2 BONUS\_HAND\_DAM
 
 Only those who have attained supremacy in at least six classes may use this
 
@@ -106,9 +106,9 @@ Damage Dice is '4D3'
 
 Can affect you as:
 
-    Affects: HITROLL by 2
+ Affects: HITROLL by 2
 
-    Affects: DAMROLL by 2
+ Affects: DAMROLL by 2
 
 Only those who have attained supremacy in at least three classes may use
 
@@ -124,7 +124,7 @@ Weight: 1, Value: 15000gold, Worn in: TAKE
 
 Clasp can only be attached to:
 
-   Macuahuitl
+ Macuahuitl
 
 Clasp is non-removable once attached.
 
@@ -150,9 +150,9 @@ AC-apply is -0.2
 
 Can affect you as:
 
-    Affects: MANA by 12
+ Affects: MANA by 12
 
-    Affects: REGEN_MANA by 1
+ Affects: REGEN\_MANA by 1
 
 Only those who are primary supreme druids, and have attained supremacy in
 
@@ -170,9 +170,9 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: HITROLL by 2
+ Affects: HITROLL by 2
 
-    Affects: SPELL_BONUS by 5
+ Affects: SPELL\_BONUS by 5
 
 Only those who are at least supreme magic users and also novice avatars,
 
@@ -180,11 +180,11 @@ and supreme druids, and supreme necromancers, and supreme bards may use
 
 this item.
 
-From  Countess Fierna
+From Countess Fierna
 
-<worn on feet>       the boots of unholy promises ..It has a soft glowing aura!
+\<worn on feet\> the boots of unholy promises ..It has a soft glowing aura!
 
--0.4 ac hit +2  spellbonus 8
+\-0.4 ac hit +2 spellbonus 8
 
 The Arch-Devil, Mephistopheles (Caina)
 
@@ -200,15 +200,13 @@ AC-apply is -1.1
 
 Can affect you as:
 
-    Affects: RESIST_FIRE by 10
+ Affects: RESIST\_FIRE by 10
 
-    Affects: FLY by 1
+ Affects: FLY by 1
 
 Only those who have attained supremacy in at least two classes may use this
 
 item.
-
- 
 
 from obsidian devil
 
@@ -222,15 +220,15 @@ AC-apply is -0.3
 
 Can affect you as:
 
-    Affects: WEAPON_DAMAGE by 1
+ Affects: WEAPON\_DAMAGE by 1
 
-    Affects: HITROLL by 1
+ Affects: HITROLL by 1
 
 Only those who are at least supreme thieves and warriors, and have attained
 
 supremacy in at least three classes may use this item.
 
- - Bileth, Duke of Hell
+ \- Bileth, Duke of Hell
 
 Object 'medallion snow flake snowflake hell', Item type: COMPONENT
 
@@ -242,23 +240,23 @@ From The Archomental, Prince Cryonax
 
 Object 'emblem eternal night clasp ice', Item type: CLASP
 
-Item is: GLOW MAGIC **INVENTORY**
+Item is: GLOW MAGIC \*\*INVENTORY\*\*
 
 Weight: 1, Value: 36475gold, Worn in: TAKE
 
 Clasp can only be attached to:
 
-   one-handed weapons
+ one-handed weapons
 
-Clasp gives the user +2 REGEN_MANA
+Clasp gives the user +2 REGEN\_MANA
 
-Clasp gives the user +2 REGEN_HP
+Clasp gives the user +2 REGEN\_HP
 
 Only those who have attained supremacy in at least six classes may use this
 
 item.
 
- - Unknown
+ \- Unknown
 
 Risky claims frostmare pops a +hit +dam armor.
 
@@ -272,15 +270,15 @@ AC-apply is -1.5
 
 Can affect you as:
 
-    Affects: REGEN_MOVE by 5
+ Affects: REGEN\_MOVE by 5
 
-    Affects: HITROLL by 1
+ Affects: HITROLL by 1
 
 Only those who are at least supreme thieves, warriors, or monks may use
 
 this item.
 
- -  mezzoloth fighter
+ \- mezzoloth fighter
 
 Object 'bracelet burning embers', Item type: ARMOR
 
@@ -292,15 +290,15 @@ AC-apply is -0.1
 
 Can affect you as:
 
-    Affects: RESIST_FIRE by 5
+ Affects: RESIST\_FIRE by 5
 
-    Affects: SAVING_POISON by -2
+ Affects: SAVING\_POISON by -2
 
 Only those who are at least experienced magic users, clerics, thieves,
 
 warriors, druids, necromancers, bards, or monks may use this item.
 
- - dergholoth brute
+ \- dergholoth brute
 
 Object 'katana serrated sword chopper hell', Item type: WEAPON
 
@@ -312,15 +310,15 @@ Damage Dice is '4D3'
 
 Can affect you as:
 
-    Affects: HITROLL by 2
+ Affects: HITROLL by 2
 
-    Affects: DAMROLL by 1
+ Affects: DAMROLL by 1
 
 Only those who have attained supremacy in at least three classes may use
 
 this item.
 
- - General Adramelech
+ \- General Adramelech
 
 Object 'sword bastard unholy chopper hell', Item type: WEAPON
 
@@ -332,15 +330,15 @@ Damage Dice is '4D3'
 
 Can affect you as:
 
-    Affects: HITROLL by 1
+ Affects: HITROLL by 1
 
-    Affects: DAMROLL by 1
+ Affects: DAMROLL by 1
 
 Only those who have attained supremacy in at least three classes may use
 
 this item.
 
-  - unknown
+ \- unknown
 
 crown twisted tongues 3x40 item 76648 coins head -0.9 ac -1 saving spells mana +10 from blasphemer'
 
@@ -350,11 +348,11 @@ crown twisted tongues 3x40 item 76648 coins head -0.9 ac -1 saving spells mana +
 
 The counter for the secondary quest deadline is here:
 
-[<LINK_TEXT text="https://www.tickcounter.com/countdown/1 ... t-deadline">https://www.tickcounter.com/countdown/1001348/slothmud-lower-planes-opener-quest-deadline</LINK_TEXT>](https://www.tickcounter.com/countdown/1001348/slothmud-lower-planes-opener-quest-deadline)
+[https://www.tickcounter.com/countdown/1001348/slothmud-lower-planes-opener-quest-deadline](https://www.tickcounter.com/countdown/1001348/slothmud-lower-planes-opener-quest-deadline)
 
 Respectfully
 
---Idj
+\--Idj
 
 </div>
 
@@ -368,7 +366,7 @@ Neptune gossips-- 'the forger is someone named Moradin hidden in the bowels of t
 
 Neptune gossips-- 'There are five cps to find throughout the 11 new zones'
 
-	Note:  Forger is in: The Lower Planes - Maladomini.
+	Note: Forger is in: The Lower Planes - Maladomini.
 
 </div>
 
@@ -384,11 +382,11 @@ Weight: 1, Value: 36475gold, Worn in: TAKE
 
 Clasp can only be attached to:
 
-   one-handed weapons
+ one-handed weapons
 
-Clasp gives the user +2 REGEN_MANA
+Clasp gives the user +2 REGEN\_MANA
 
-Clasp gives the user +2 REGEN_HP
+Clasp gives the user +2 REGEN\_HP
 
 Only those who have attained supremacy in at least six classes may use this
 
@@ -410,9 +408,9 @@ Weight: 3, Value: 100000gold, Worn in: TAKE HOLD
 
 Can affect you as:
 
-    Affects: HITROLL by 1
+ Affects: HITROLL by 1
 
-    Affects: SPELL_BONUS by 5
+ Affects: SPELL\_BONUS by 5
 
 Only those who are at least supreme magic users, clerics, druids,
 
@@ -426,35 +424,35 @@ FOUND DA FORGES!!! Thanks to Padme, Swarv, and Cy for exploring area with meh la
 
 City of Dis is trackable off Maladomini level (can track elite-malebranch, or forger by name, etc)
 
-You are in The Lower Planes - City of Dis.  Also in this area are:
+You are in The Lower Planes - City of Dis. Also in this area are:
 
-Name                           - Location
+Name - Location
 
------------------------------------------
+\-----------------------------------------
 
-Swarvenstein                   - Brimstone and Dispater's Highway
+Swarvenstein - Brimstone and Dispater's Highway
 
-Cyprimus                        - Brimstone and Dispater's Highway
+Cyprimus - Brimstone and Dispater's Highway
 
-Padme                          - Brimstone and Dispater's Highway
+Padme - Brimstone and Dispater's Highway
 
 The Hellforge
 
-   Smoke fills the foundry where rings the hammer strikes of the smith.  A
+ Smoke fills the foundry where rings the hammer strikes of the smith. A
 
 bright glow covers the ground around a large, magnificent anvil of
 
-undeterminable properties.  A great pit of dirty water stands beside the
+undeterminable properties. A great pit of dirty water stands beside the
 
 anvil and a large array of various implements and smithin tools hang about
 
-the area.  Every so often, a flaring plume of flame rises momentarily
+the area. Every so often, a flaring plume of flame rises momentarily
 
 flooding the entire foundry with bright light, causing the eyes to tear up
 
 and smaller hairs to singe.
 
-Exits: East  
+Exits: East 
 
 A glowing anvil lights the ground with its glow...It has a soft glowing aura!
 
@@ -464,23 +462,23 @@ forge
 
 I can forge:
 
- Cost      Item
+ Cost Item
 
-----------------------
+\----------------------
 
-+4000000   the mark of the black mass
+\+4000000 the mark of the black mass
 
-+4000000   a bundle of connective tissue
+\+4000000 a bundle of connective tissue
 
-+4000000   a winged emblem
+\+4000000 a winged emblem
 
-+4000000   a bracer of the black heart
+\+4000000 a bracer of the black heart
 
-+5000000   the gem of souls
+\+5000000 the gem of souls
 
-+3000000   The Winterblade
+\+3000000 The Winterblade
 
-*5000000   a seal of the dying flame
+\*5000000 a seal of the dying flame
 
 Object 'mark black mass clasp dis', Item type: CLASP
 
@@ -490,21 +488,21 @@ Weight: 1, Value: 100000gold, Worn in: TAKE
 
 Clasp can only be attached to:
 
-   the gloves of the unholy rite
+ the gloves of the unholy rite
 
 Clasp gives the user +5 MANA
 
-Clasp gives the user +5 BONUS_SPELL_BONUS
+Clasp gives the user +5 BONUS\_SPELL\_BONUS
 
 Only those who are at least adept avatars may use this item.
 
 Requires: 4000000 coins, 1x a flask of ghostly whispers (0), 
 
-  1x a vial of spent virgin's blood (0), 1x a pouch of unholy sacrament (0), 
+ 1x a vial of spent virgin's blood (0), 1x a pouch of unholy sacrament (0), 
 
-  1x an unholy sacrificial dagger (0), 1x a vial of demon's blood (0), 
+ 1x an unholy sacrificial dagger (0), 1x a vial of demon's blood (0), 
 
-  1x a pinch of brimstone (0)
+ 1x a pinch of brimstone (0)
 
 Object 'bundle connective tissue dis', Item type: CLASP
 
@@ -514,9 +512,9 @@ Weight: 1, Value: 100000gold, Worn in: TAKE
 
 Clasp can only be attached to:
 
-   a necklace of broken bones
+ a necklace of broken bones
 
-Clasp gives the user +1 HAND_DAMAGE
+Clasp gives the user +1 HAND\_DAMAGE
 
 Only those who have attained supremacy in at least six classes may use this
 
@@ -524,9 +522,9 @@ item.
 
 Requires: 4000000 coins, 1x a glob of ectoplasm (0), 1x a hellfire ember (0), 
 
-  1x a horned devil skull (0), 1x a bar of cold iron (0), 1x a rot grub larva (0), 
+ 1x a horned devil skull (0), 1x a bar of cold iron (0), 1x a rot grub larva (0), 
 
-  1x a rotten eyeball (0)
+ 1x a rotten eyeball (0)
 
 Object 'emblem winged wing dis', Item type: CLASP
 
@@ -536,11 +534,11 @@ Weight: 1, Value: 100000gold, Worn in: TAKE
 
 Clasp can only be attached to:
 
-   the mail of the red death
+ the mail of the red death
 
 Clasp gives the user +10 MANA
 
-Clasp gives the user +1 REGEN_MANA
+Clasp gives the user +1 REGEN\_MANA
 
 Only those who have attained supremacy in at least five classes may use
 
@@ -548,9 +546,9 @@ this item.
 
 Requires: 4000000 coins, 1x a black devil's wing (0), 
 
-  1x a red devil's wing (0), 1x a blue devil's wing (0), 1x a white devil's wing (0), 
+ 1x a red devil's wing (0), 1x a blue devil's wing (0), 1x a white devil's wing (0), 
 
-  1x a voodoo doll (0), 1x an erinye feather (0)
+ 1x a voodoo doll (0), 1x an erinye feather (0)
 
 Object 'bracer black heart ice', Item type: ARMOR
 
@@ -562,11 +560,11 @@ AC-apply is -0.1
 
 Can affect you as:
 
-    Affects: STAB_DAMAGE by 5
+ Affects: STAB\_DAMAGE by 5
 
-    Affects: DAMROLL by 1
+ Affects: DAMROLL by 1
 
-    Affects: RESIST_FIRE by -5
+ Affects: RESIST\_FIRE by -5
 
 Only those who are at least supreme thieves, and have attained supremacy in
 
@@ -574,9 +572,9 @@ at least two classes may use this item.
 
 Requires: 4000000 coins, 1x a black opal bracelet (0), 
 
-  1x a demonic wristband (0), 1x the hellwasp's stinger (0), 1x a flask of dying breath (1), 
+ 1x a demonic wristband (0), 1x the hellwasp's stinger (0), 1x a flask of dying breath (1), 
 
-  1x a selenium rod (0)
+ 1x a selenium rod (0)
 
 Object 'gem souls clasp ice', Item type: CLASP
 
@@ -586,11 +584,11 @@ Weight: 2, Value: 127645gold, Worn in: TAKE
 
 Clasp can only be attached to:
 
-   a shield of fiendish delights
+ a shield of fiendish delights
 
 Clasp is non-removable once attached.
 
-Clasp gives the user +1 REDUCE_DAMAGE
+Clasp gives the user +1 REDUCE\_DAMAGE
 
 Clasp gives the user +15 HITPOINT
 
@@ -602,9 +600,9 @@ may use this item.
 
 Requires: 5000000 coins, 1x filigree of platinum (0), 
 
-  1x a huge yellow diamond (0), 1x the heart of a vampire (0), 
+ 1x a huge yellow diamond (0), 1x the heart of a vampire (0), 
 
-  1x an abyssal containment gem (0), 1x the tears of a fallen angel (0)
+ 1x an abyssal containment gem (0), 1x the tears of a fallen angel (0)
 
 Object 'blade winter winterblade sword hell', Item type: WEAPON
 
@@ -616,9 +614,9 @@ Damage Dice is '3D6'
 
 Can affect you as:
 
-    Affects: DAMROLL by 2
+ Affects: DAMROLL by 2
 
-    Affects: MAX_CON by 1
+ Affects: MAX\_CON by 1
 
 Only those who have attained supremacy in at least three classes may use
 
@@ -626,9 +624,9 @@ this item.
 
 Requires: 3000000 coins, 1x a broken blade of ice (0), 
 
-  1x a frost-covered hilt (0), 1x a snowflake medallion (0), 1x a large winter opal (0), 
+ 1x a frost-covered hilt (0), 1x a snowflake medallion (0), 1x a large winter opal (0), 
 
-  1x a blue demon's eye (0)
+ 1x a blue demon's eye (0)
 
 Object 'seal dying flame hell', Item type: CLASP
 
@@ -638,7 +636,7 @@ Weight: 0, Value: 25000gold, Worn in: TAKE
 
 Clasp can only be attached to:
 
-   The Winterblade
+ The Winterblade
 
 Only those who are primary supreme warriors, and have attained supremacy in
 
@@ -646,13 +644,13 @@ at least five classes may use this item.
 
 Requires: 5000000 coins, 1x Brilliant Sword of Vengeance (0), 
 
-  1x Raven's Fire (0), 1x a torturing tool (0), 1x magical ball of flames (0),
+ 1x Raven's Fire (0), 1x a torturing tool (0), 1x magical ball of flames (0),
 
-  1x a bar of cold iron (0)
+ 1x a bar of cold iron (0)
 
 This city also has a storekeeper, forger is an armor trader, there is an innkeeper to rent at, etc.
 
-North-west then up to room that seems it *might* be an epic spawning room.
+North-west then up to room that seems it \*might\* be an epic spawning room.
 
 </div>
 
@@ -688,9 +686,9 @@ AC-apply is -0.3
 
 Can affect you as:
 
-    Affects: WEAPON_DAMAGE by 3
+ Affects: WEAPON\_DAMAGE by 3
 
-    Affects: STR by 1
+ Affects: STR by 1
 
 Popped on Baalzephon in Caina... I think.
 
@@ -704,9 +702,9 @@ AC-apply is -1.0
 
 Can affect you as:
 
-    Affects: HAND_DAMAGE by 1
+ Affects: HAND\_DAMAGE by 1
 
-    Affects: HITROLL by 1
+ Affects: HITROLL by 1
 
 Only those who are at least novice avatars and also supreme monks may use
 
@@ -728,9 +726,9 @@ AC-apply is -1.1
 
 Can affect you as:
 
-    Affects: CON by 1
+ Affects: CON by 1
 
-    Affects: HITROLL by 1
+ Affects: HITROLL by 1
 
 Only those who have attained supremacy in at least three classes may use
 
@@ -774,7 +772,7 @@ elsewhere on the forum.
 
 I hope that helps. Thanks.
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -794,7 +792,7 @@ It should forge the correct item now.
 
 Hope that helps.
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -808,7 +806,7 @@ EDIT: Beware Maniac may have identified some issues last night that may mean the
 
 <div class="post" data-post-id="39132" data-author="*teker*" data-date="2019-03-13T19:55:57+00:00" data-subject="Re: Area Opener">
 
-I posted in the changelog thread that the algorithm has been changed for mobs that pop in multiple rooms that should "fix" this problem.  I put fix in quotes because there was an obscure way a player could beat the algorithm and get the pop you're looking for but it'd be hard to figure it out without access to the code.
+I posted in the changelog thread that the algorithm has been changed for mobs that pop in multiple rooms that should "fix" this problem. I put fix in quotes because there was an obscure way a player could beat the algorithm and get the pop you're looking for but it'd be hard to figure it out without access to the code.
 
 It should be straightforward now.
 
@@ -846,7 +844,7 @@ Weight: 0, Value: 25000gold, Worn in: TAKE
 
 Clasp can only be attached to:
 
-   The Winterblade
+ The Winterblade
 
 Only those who are primary supreme warriors, and have attained supremacy in
 
@@ -872,9 +870,9 @@ Damage Dice is '6D4'
 
 Can affect you as:
 
-    Affects: DAMROLL by 2
+ Affects: DAMROLL by 2
 
-    Affects: MAX_CON by 1
+ Affects: MAX\_CON by 1
 
 Only those who have attained supremacy in at least three classes may use
 
@@ -904,7 +902,7 @@ I'm looking for the key to get to Arioch in City of Dis, if someone knows what t
 
 <div class="post" data-post-id="39167" data-author="Driven" data-date="2019-04-15T12:13:35+00:00" data-subject="Re: Area Opener">
 
-I know every time we killed him, we either ambushed Arioch directly or we ambushed a watcher, and everyone else shadowwalked in.  In other words,  don't think anyone found the key.
+I know every time we killed him, we either ambushed Arioch directly or we ambushed a watcher, and everyone else shadowwalked in. In other words, don't think anyone found the key.
 
 </div>
 

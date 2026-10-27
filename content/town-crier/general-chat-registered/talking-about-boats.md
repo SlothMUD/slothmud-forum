@@ -24,15 +24,15 @@ What do you think?
 
 <div class="post" data-post-id="32700" data-author="Sleeping Forest" data-date="2011-06-27T21:10:36+00:00" data-subject="Re: Talking about boats">
 
-Shyla has been pushing for a summon boat spell now for about a decade :)
+Shyla has been pushing for a summon boat spell now for about a decade <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-But other than that who wouldn't like the idea? :)
+But other than that who wouldn't like the idea? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="32710" data-author="Tuck" data-date="2011-07-01T22:53:13+00:00" data-subject="Re: Talking about boats">
 
-Albatross ftw. just get enuff levels to  use it
+Albatross ftw. just get enuff levels to use it
 
 </div>
 

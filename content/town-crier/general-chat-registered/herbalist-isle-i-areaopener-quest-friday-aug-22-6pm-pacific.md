@@ -28,11 +28,11 @@ That will be the fallback.
 
 Location on the MUD where the quest will start: Wide Gate, AH
 
-All levels welcome.  Spread the word!
+All levels welcome. Spread the word!
 
 hope to see you there,
 
---Ulmo
+\--Ulmo
 
 </div>
 
@@ -56,7 +56,7 @@ Bob Marley glows with a bright green light!
 
 cool, i like herbs
 
-[img:etirrep3]http://yasik.kiev.ua/4chan/McRijuana.jpg[/img:etirrep3]
+![](http://yasik.kiev.ua/4chan/McRijuana.jpg)
 
 </div>
 
@@ -82,9 +82,8 @@ You are hungry.
 
 <div class="post" data-post-id="25791" data-author="*juggleblood*" data-date="2008-08-18T01:21:37+00:00" data-subject="">
 
-cool, i like herbs
-
-[/quote:3rogz631]
+> <strong>Yasik2 wrote:</strong>
+> cool, i like herbs
 
 thc soluble in trans-fat? You think we have an obesity problem now!
 
@@ -98,37 +97,37 @@ I'll be in Vegas, sorry.
 
 <div class="post" data-post-id="25805" data-author="jezer" data-date="2008-08-18T06:26:23+00:00" data-subject="">
 
-The last quest (Dorky Dorrin) I realized how little I actually know about this game.  :cry:  I had big intentions of impressing people with my smarts, and taking more of an active roll, and stupid Rynquald was far to smart for me to keep up! He even knew what Dorrin lost and where to find it before Dorrin himself could explain it all. I'm also expecting great things from reboog. With a name like goober spelt backwards that is definately the awesomeness.
+The last quest (Dorky Dorrin) I realized how little I actually know about this game. <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> I had big intentions of impressing people with my smarts, and taking more of an active roll, and stupid Rynquald was far to smart for me to keep up! He even knew what Dorrin lost and where to find it before Dorrin himself could explain it all. I'm also expecting great things from reboog. With a name like goober spelt backwards that is definately the awesomeness.
 
-It seems most of the smart players in sloth are mages, maybe it's the 18 int, maybe it rubs off in real life!  :shock:  Or maybe Rynquald reads room descriptions... yeah that might be it. I play a bit like Yasik... I read nothing... and recall when I see red text. :twisted:
+It seems most of the smart players in sloth are mages, maybe it's the 18 int, maybe it rubs off in real life! <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> Or maybe Rynquald reads room descriptions... yeah that might be it. I play a bit like Yasik... I read nothing... and recall when I see red text. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
-Hope there is some drooid eq's to fight over... since herbs are from nature right... and herbs is druid stuffs... *nods*  :wink: told ya i smart!
+Hope there is some drooid eq's to fight over... since herbs are from nature right... and herbs is druid stuffs... \*nods\* <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom"> told ya i smart!
 
 </div>
 
 <div class="post" data-post-id="25807" data-author="Stryx" data-date="2008-08-18T09:01:15+00:00" data-subject="">
 
-Lets not forget. Big THANKS :D  to Ulmo, and all those who helped Ulmo, to continue to make SlothMud bigger and better for the rest of us lot to enjoy. Keeping SlothMud one of the top muds on TMC.
+Lets not forget. Big THANKS <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> to Ulmo, and all those who helped Ulmo, to continue to make SlothMud bigger and better for the rest of us lot to enjoy. Keeping SlothMud one of the top muds on TMC.
 
 </div>
 
 <div class="post" data-post-id="25809" data-author="Jag" data-date="2008-08-18T13:45:26+00:00" data-subject="">
 
-Yeah, what he said.  Thanks!
+Yeah, what he said. Thanks!
 
 </div>
 
 <div class="post" data-post-id="25813" data-author="Yinao" data-date="2008-08-18T18:12:47+00:00" data-subject="">
 
-Whoa, wait... A reason to log on?  :shock: 
+Whoa, wait... A reason to log on? <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
-I'll try to show :)
+I'll try to show <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="25818" data-author="Mosaix" data-date="2008-08-18T21:35:36+00:00" data-subject="">
 
-The work on the new area is much appreciated.  
+The work on the new area is much appreciated. 
 
 A reason to log on for sure, if Yinaos in then im in!!!
 
@@ -144,13 +143,13 @@ Thanks much to Ulmo and all others who have been working diligently to make upda
 
 <div class="post" data-post-id="25858" data-author="jezer" data-date="2008-08-21T23:25:27+00:00" data-subject="">
 
-My internet is broke at home... waiting for tel co to fix the line at the exchange :( I may miss the opener if it's not fixed today. Have a good one.
+My internet is broke at home... waiting for tel co to fix the line at the exchange <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom"> I may miss the opener if it's not fixed today. Have a good one.
 
 </div>
 
 <div class="post" data-post-id="25862" data-author="Shyla" data-date="2008-08-22T02:29:01+00:00" data-subject="">
 
-I won't get home from work til probably about 1030 pm est is there anyway I will be allowed to quest? or should i just plan on not getting on at all b/c you will have the mud tied up :)
+I won't get home from work til probably about 1030 pm est is there anyway I will be allowed to quest? or should i just plan on not getting on at all b/c you will have the mud tied up <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 shyla
 
@@ -158,9 +157,10 @@ shyla
 
 <div class="post" data-post-id="25865" data-author="Tap" data-date="2008-08-22T02:45:11+00:00" data-subject="">
 
-I won't get home from work til probably about 1030 pm est is there anyway I will be allowed to quest? or should i just plan on not getting on at all b/c you will have the mud tied up :)
-
-shyla[/quote:2w6auap8]
+> <strong>shyla wrote:</strong>
+> I won't get home from work til probably about 1030 pm est is there anyway I will be allowed to quest? or should i just plan on not getting on at all b/c you will have the mud tied up <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
+> 
+> shyla
 
 Bondage theme quest? Break out the leather-wear!!!
 
@@ -232,9 +232,10 @@ The kobold skiff captain is referred to by the words 'kobold male dog skiff comm
 
 <div class="post" data-post-id="25877" data-author="Rynquald" data-date="2008-08-23T05:02:24+00:00" data-subject="">
 
-Thanks for the quest and new area. It was a very good opener :)
+Thanks for the quest and new area. It was a very good opener <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-Sorry if the skiff destruction was somewhat anticlimatic. The messages for the skiff sinking got lost in the insane spam of everyone attacking it. Look for a new and improved skiff that sinks better in future autoquests with features like status indicator and better success proc.[/quote:e5ebyt62]
+> <strong>juggleblood wrote:</strong>
+> Sorry if the skiff destruction was somewhat anticlimatic. The messages for the skiff sinking got lost in the insane spam of everyone attacking it. Look for a new and improved skiff that sinks better in future autoquests with features like status indicator and better success proc.
 
 May I suggest adding a little lag to 'kill skiff', it might keep the spam rate down.
 
@@ -242,7 +243,7 @@ May I suggest adding a little lag to 'kill skiff', it might keep the spam rate d
 
 <div class="post" data-post-id="25879" data-author="Liar" data-date="2008-08-23T05:17:47+00:00" data-subject="">
 
-Going to say same thing, thanks for the quest and new area :)
+Going to say same thing, thanks for the quest and new area <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 As someone asked to post what rewards were, here are 2 sacks i seen:
 
@@ -288,7 +289,7 @@ an ogre claymore
 
 a green dragon's claw..It glows violet!..It has a soft glowing aura!
 
-after some time i was looking and thinking ankh of purity and woven shoulder guards of  flesh dissapeared. Probably becaus they were unclaimed personal items, dunno. Juggleblood wasnt around, so we stick with those rewards. Other sack:
+after some time i was looking and thinking ankh of purity and woven shoulder guards of flesh dissapeared. Probably becaus they were unclaimed personal items, dunno. Juggleblood wasnt around, so we stick with those rewards. Other sack:
 
 sack (carried):
 
@@ -372,13 +373,13 @@ AC-apply is -0.4
 
 Can affect you as:
 
-    Affects: REGEN_MANA by 2
+ Affects: REGEN\_MANA by 2
 
-    Affects: UNDEAD_CONTROL by 3
+ Affects: UNDEAD\_CONTROL by 3
 
 Only those who are at least adept necromancers may use this item. 
 
-Pair of Metal Scaled Leggings  -- '-1.6 +con +15hp', no more than master warriors
+Pair of Metal Scaled Leggings -- '-1.6 +con +15hp', no more than master warriors
 
 Gauntlets of Swirling Colors -- '-.2 +dex +5ma'
 

@@ -42,7 +42,7 @@ Tanra - elite pirate?
 
 My feeling on the issue of raids is that this should be upper level content aimed at avatar level players or for small groups of smaller players. 
 
-I also feel the raids should be more dangerous and more rewarding. As a fan of Wheel of Time, it galls me that an invading horde of Trollocs in the westwood would be passive, not attacking npcs or players. You shouldn't be able to walk up to a hungry trolloc and take a selfie with it. But I also realize that we don't want to have deathtraps lurking about for unsuspecting adventurers. I'm wondering if we could make the raiders aggro, but them keep them off the main pathways that lead to other zones or if in some cases we could add rooms that the raiders load in and then make the raiders wandering aggro. So fight a dozen wandering aggro raiders in a 2x2 pen for example.  Thoughts?
+I also feel the raids should be more dangerous and more rewarding. As a fan of Wheel of Time, it galls me that an invading horde of Trollocs in the westwood would be passive, not attacking npcs or players. You shouldn't be able to walk up to a hungry trolloc and take a selfie with it. But I also realize that we don't want to have deathtraps lurking about for unsuspecting adventurers. I'm wondering if we could make the raiders aggro, but them keep them off the main pathways that lead to other zones or if in some cases we could add rooms that the raiders load in and then make the raiders wandering aggro. So fight a dozen wandering aggro raiders in a 2x2 pen for example. Thoughts?
 
 I plan to reinstall the 3 defunct raids, and then might entertain adding more. I'm thinking for these three that maybe the mobs could be larger and more dangerous than existing raids. 
 
@@ -98,7 +98,7 @@ The above link is a list of demon's according to cultural societies... (I realis
 
 That's pretty much what I'm suggesting when I say I'd like the raids to be bigger and more rewarding. But they would not be flagged epic, they would be flagged raid, the difference being the honor calculation and gem calculations. Tripping configs for victory is possible like hades priest (anyone else think luci should be aggro?).
 
-"I Prefer the raids are off main roads if aggro... I don't want to get splorked running to dmount..."  Yes, but what do you think about them being aggro otherwise, i.e. not on the main path? 
+"I Prefer the raids are off main roads if aggro... I don't want to get splorked running to dmount..." Yes, but what do you think about them being aggro otherwise, i.e. not on the main path? 
 
 As to making the content more interesting, i.e. raiders killing villagers, threatening to storm the castle, etc... It's all possible. For example there could be some gate in the westwood that the trolls load on the other side of and there could be villager mobs that load along with the epic mob on village side of the gate and the villagers could be shouting and advising people not to open the gate, and then cheering on pcs when they do go thru gate, or getting devoured when troll enters room, etc...
 
@@ -116,17 +116,17 @@ Just a thought - if you wanna agro mobs, you cant let them wander and make group
 
 <div class="post" data-post-id="37940" data-author="*juggleblood*" data-date="2017-01-06T22:29:38+00:00" data-subject="Re: Raid Mobs, Opinions Welcome">
 
-Yes obviously it would have to be balanced out... The process would be to try something new with the 3 that are not in game....and then maybe work on the others, one at a time, making sure it was playable and enjoyable.  
+Yes obviously it would have to be balanced out... The process would be to try something new with the 3 that are not in game....and then maybe work on the others, one at a time, making sure it was playable and enjoyable. 
 
-Another idea that I had today was that if you die to a raid mob, that Mathor announces it.  "Fluffy has died at the hands of the furies in service to the kingdom! He must be avenged!"
+Another idea that I had today was that if you die to a raid mob, that Mathor announces it. "Fluffy has died at the hands of the furies in service to the kingdom! He must be avenged!"
 
 </div>
 
 <div class="post" data-post-id="37941" data-author="Filk" data-date="2017-01-07T04:17:05+00:00" data-subject="Re: Raid Mobs, Opinions Welcome">
 
-Not like i do that often. I mean dying on them. But still think its too spammy :)
+Not like i do that often. I mean dying on them. But still think its too spammy <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-Though its innate corpse report for sure. Make it for every death, not only honor  :lol:
+Though its innate corpse report for sure. Make it for every death, not only honor <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -136,23 +136,23 @@ It's been a while since I suggested an idea for a honor shop, where you can spen
 
 eg:
 
--2.5 plate, wa prime, 25k honor
+\-2.5 plate, wa prime, 25k honor
 
--1.6 greaves, 20k
+\-1.6 greaves, 20k
 
--0.2 +7sb ring 20k
+\-0.2 +7sb ring 20k
 
--0.5 +4hb helm +mr 20k
+\-0.5 +4hb helm +mr 20k
 
--1.4 +hd body 20k
+\-1.4 +hd body 20k
 
--1.5 +hd body -dam reduction 30k
+\-1.5 +hd body -dam reduction 30k
 
--0.1  +dam +2hit +5 circle gauntlets 25k
+\-0.1 +dam +2hit +5 circle gauntlets 25k
 
--0.2 shield, shiftable 20k
+\-0.2 shield, shiftable 20k
 
--0.7 +2charisma arms 20k.
+\-0.7 +2charisma arms 20k.
 
 Of course, if there are items that are as good as drachma or tri40 items, then they can be worth 150k.
 
@@ -182,7 +182,7 @@ JB, I understand that this sounds too useful, but tell me. My next rank is in 7.
 
 <div class="post" data-post-id="37946" data-author="*juggleblood*" data-date="2017-01-07T19:25:46+00:00" data-subject="Re: Raid Mobs, Opinions Welcome">
 
-If I can't get someone to redo the drachma gear even, then why would I want to to have to develop a whole new store that would have to be balanced against existing forges, drachma gear, 3x40 gear, and autoquest gear. No thanks. It's a non-starter.  I'd be more open to the idea of an armory or something where maybe you could draw out elite choppers or temp gear or something, but I'm not interested in coding such a thing at this time because I have other projects. I'm still not even that up to date with the existing honor stuff, I'm trying familiarize myself with what exists already, I have a package of Akasha's old files and stuff to help.
+If I can't get someone to redo the drachma gear even, then why would I want to to have to develop a whole new store that would have to be balanced against existing forges, drachma gear, 3x40 gear, and autoquest gear. No thanks. It's a non-starter. I'd be more open to the idea of an armory or something where maybe you could draw out elite choppers or temp gear or something, but I'm not interested in coding such a thing at this time because I have other projects. I'm still not even that up to date with the existing honor stuff, I'm trying familiarize myself with what exists already, I have a package of Akasha's old files and stuff to help.
 
 As to the question of why bother... Yes that's what I'm asking you, what do you want, what would it take. I'm sorry that I'm not open to your idea of using honor as a currency in a store. But I'm sure we can find sufficient rewards within the existing structure. That's why I'm opening it up to suggestion.
 
@@ -236,9 +236,9 @@ We had started on redoing the clasps but it got lost in the shuffle a year or tw
 
 <div class="post" data-post-id="37955" data-author="Gorka" data-date="2017-01-09T08:58:35+00:00" data-subject="Re: Raid Mobs, Opinions Welcome">
 
-* So, I think players in general like options, and probably wouldn't mind having another currency...
+\* So, I think players in general like options, and probably wouldn't mind having another currency...
 
-* Implementing another currency is time and work, thankless etc etc
+\* Implementing another currency is time and work, thankless etc etc
 
 But here is a thought...
 
@@ -262,11 +262,11 @@ However, since Splork insists that the current honor system already attracts pla
 
 It's just in a number of MMORPGs that I played there are numerous eq systems in place that let you:
 
-- play with different aspects of the game: solo, group dungeons, raids, PVP
+\- play with different aspects of the game: solo, group dungeons, raids, PVP
 
-- have fun doing a variety of things, preventing boredom and burnout
+\- have fun doing a variety of things, preventing boredom and burnout
 
-- catch up with minimum eq to contribute to groups quickly.
+\- catch up with minimum eq to contribute to groups quickly.
 
 At the current stats of epics, they are rarely better exp, than group areas, but they often demand more effort and attention. While they may be fun, but surely not because they give honor.
 

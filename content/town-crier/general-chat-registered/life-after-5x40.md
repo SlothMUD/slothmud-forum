@@ -60,7 +60,8 @@ You start a new char!
 
 <div class="post" data-post-id="22480" data-author="Yasik" data-date="2008-02-03T06:03:30+00:00" data-subject="Re: Life After 5x40">
 
-Whats there to do, when your 5x40, you have your vault, your eq and stats sorted?[/quote:30f6joua]
+> <strong>jezer wrote:</strong>
+> Whats there to do, when your 5x40, you have your vault, your eq and stats sorted?
 
 you get a life
 
@@ -74,7 +75,7 @@ So things do die when u reach 5x40. All of a sudden the challenge is gone and yo
 
 <div class="post" data-post-id="22484" data-author="Bazilus" data-date="2008-02-03T10:05:05+00:00" data-subject="">
 
-Heh nod iam "die" already 4 years... :) and so strange i still have what to do... :)
+Heh nod iam "die" already 4 years... <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> and so strange i still have what to do... <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Bazilus the Crazy Python
 
@@ -84,13 +85,14 @@ Bazilus the Crazy Python
 
 Doing nothing but sitting in groups gaining exp is not much of a challenge imho, whether you're aiming for 5x40 or already there, so if that's all you're into, then I suggest your life here was already 'over' when you started.
 
- :)
+ <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="22490" data-author="Autolycos" data-date="2008-02-03T17:32:16+00:00" data-subject="">
 
-then I suggest your life here was already 'over' when you started.   :)[/quote:5fp0aqnj]
+> <strong>Weasel wrote:</strong>
+> then I suggest your life here was already 'over' when you started. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 so true... so true...
 
@@ -98,9 +100,15 @@ so true... so true...
 
 <div class="post" data-post-id="22491" data-author="*juggleblood*" data-date="2008-02-03T18:32:21+00:00" data-subject="">
 
-then I suggest your life here was already 'over' when you started.   :)[/quote:3gq9mvd0]
-
-so true... so true...[/quote:3gq9mvd0]
+> <strong>Autolycos wrote:</strong>
+> > <strong>Weasel wrote:</strong>
+> > then I suggest your life here was already 'over' when you started. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
+> 
+> 
+> 
+> 
+> 
+> so true... so true...
 
 sadly...
 
@@ -120,7 +128,7 @@ Has anyone spent tokens on Hp, Mana or Moves? Do you think they are overpriced?
 
 <div class="post" data-post-id="22497" data-author="brady" data-date="2008-02-03T23:23:08+00:00" data-subject="">
 
-Like Weasel said, most will work on capping stats and weapon damage, etc.  Some people do purchase mana and hps but that really isn't my style.
+Like Weasel said, most will work on capping stats and weapon damage, etc. Some people do purchase mana and hps but that really isn't my style.
 
 And the fun starts at 5x40 imo, not the other way around.
 
@@ -134,11 +142,12 @@ What happens when you die say as 5x40, and your standard xp loss is like 90mill 
 
 <div class="post" data-post-id="22499" data-author="Autolycos" data-date="2008-02-04T00:55:44+00:00" data-subject="">
 
-What happens when you die say as 5x40, and your standard xp loss is like 90mill right? What happens if you only have 50mill xp on you at the time? Do you lose a level? Or are xp losses percentages?[/quote:uxfhap1c]
+> <strong>jezer wrote:</strong>
+> What happens when you die say as 5x40, and your standard xp loss is like 90mill right? What happens if you only have 50mill xp on you at the time? Do you lose a level? Or are xp losses percentages?
 
-HAHAHAHAHAHAHA!!!   good luck!
+HAHAHAHAHAHAHA!!! good luck!
 
-I usually lose tert lev, or 150 to 300mil xp.....   
+I usually lose tert lev, or 150 to 300mil xp..... 
 
 I think the game has an AI that factors in how stupid of a death it is
 
@@ -196,7 +205,8 @@ And buying mana with tokens is worth it if you don't need stats imho, it's what 
 
 <div class="post" data-post-id="22508" data-author="jezer" data-date="2008-02-04T06:46:18+00:00" data-subject="">
 
-Perm res fire/cold still poof until you rent if someone banes you (or you cast res fire/cold on yourself for some reason).[/quote:rj38yzg0]
+> <strong>Rynquald wrote:</strong>
+> Perm res fire/cold still poof until you rent if someone banes you (or you cast res fire/cold on yourself for some reason).
 
 Sounds like the same problem as the waterbreathing/fly bug when your shifted and a spell wears off, when it is a perm mob ability. If the sloth code is written how I imagine it could be written, I would have thought a few lines would fix all the "spell is perm" problems people have been mentioning.
 
@@ -212,7 +222,7 @@ Say I have 18 str. If I buy a str point from the mayor at 5x40... do I go to 18/
 
 <div class="post" data-post-id="22511" data-author="Autolycos" data-date="2008-02-04T13:59:36+00:00" data-subject="">
 
-strength goes up in clusters of 10's  respectively, same as wearing +str eq
+strength goes up in clusters of 10's respectively, same as wearing +str eq
 
 </div>
 
@@ -234,7 +244,7 @@ LOL
 
 Well, nothing of use here...
 
-Have good lives Slothers. :)  Been great wasting what otherwise could have been productive time with you!
+Have good lives Slothers. :) Been great wasting what otherwise could have been productive time with you!
 
 </div>
 
@@ -246,9 +256,9 @@ Patty r u leaving too?
 
 <div class="post" data-post-id="22562" data-author="Weasel" data-date="2008-02-06T02:34:40+00:00" data-subject="">
 
-*a crumpled van limps off into the sunset, rusted suspension squeaking slightly*
+\*a crumpled van limps off into the sunset, rusted suspension squeaking slightly\*
 
-[img:1rxpjqi7]http://surfcore.co.uk/files/images/van_sunset.img_assist_view.JPG[/img:1rxpjqi7]
+![](http://surfcore.co.uk/files/images/van_sunset.img_assist_view.JPG)
 
 </div>
 
@@ -260,15 +270,16 @@ Can you buy more than one vault on each cont? Can you up size vaults? Do you get
 
 <div class="post" data-post-id="22584" data-author="Autolycos" data-date="2008-02-06T22:42:58+00:00" data-subject="">
 
-Can you buy more than one vault on each cont? Can you up size vaults? Do you get refunds on the old vaults?[/quote:2yzbirwc]
+> <strong>jezer wrote:</strong>
+> Can you buy more than one vault on each cont? Can you up size vaults? Do you get refunds on the old vaults?
 
-[url:2yzbirwc]http://www.slothmud.org/index.php?name=PagEd&page_id=43[/url:2yzbirwc]
+http://www.slothmud.org/index.php?name=PagEd&page_id=43
 
 </div>
 
 <div class="post" data-post-id="22586" data-author="jezer" data-date="2008-02-06T23:05:37+00:00" data-subject="">
 
-Thanks! I did read that topic, but for some random reason I totally missed the paragraph at the top of the table... :oops: 
+Thanks! I did read that topic, but for some random reason I totally missed the paragraph at the top of the table... <img src="/images/smilies/icon_redface.svg" alt=":oops:" title=":oops:" width="15" height="15" class="smiley nozoom"> 
 
 Target Mansion! 
 
@@ -284,13 +295,14 @@ AFAIK you can have as many vault dwellings as you like on as many continents as 
 
 <div class="post" data-post-id="22588" data-author="Autolycos" data-date="2008-02-07T01:58:48+00:00" data-subject="">
 
-Can I have more than one dwelling on a continent? I didn't catch how that question was covered.[/quote:2bzoj6if]
+> <strong>jezer wrote:</strong>
+> Can I have more than one dwelling on a continent? I didn't catch how that question was covered.
 
-Splork and Deimos told me that you can only have one dwelling per continent and no more then 5 total.  
+Splork and Deimos told me that you can only have one dwelling per continent and no more then 5 total. 
 
 Basically to make you upgrade to save space rather then then spending so much time making hundreds of little dwellings.
 
-PS.  ignore Weasel, he's a tosser.
+PS. ignore Weasel, he's a tosser.
 
 </div>
 
@@ -300,13 +312,13 @@ later, from the dank dungeons of Auto's vault, feverish grunting can be heard, a
 
 fap fap fap fap fap fap fap thwap kachunk badong clunk ..sproingggg!
 
-Auto, I [i:2q1zyuyd]told[/i:2q1zyuyd] you if you didn't leave it alone you'd break it.
+Auto, I <em>told</em> you if you didn't leave it alone you'd break it.
 
 </div>
 
 <div class="post" data-post-id="22590" data-author="jezer" data-date="2008-02-07T03:11:10+00:00" data-subject="">
 
-Does anyone speak Weasel-esse?  :? Is this what happens when you reach 5x40? Total loss of coherency?  :shock: Good thing Van got out when he did.
+Does anyone speak Weasel-esse? <img src="/images/smilies/icon_e_confused.svg" alt=":?" title=":?" width="15" height="15" class="smiley nozoom"> Is this what happens when you reach 5x40? Total loss of coherency? <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> Good thing Van got out when he did.
 
 </div>
 
@@ -318,7 +330,7 @@ I believe Weasel was saying Jason was Master-Baiting!!!
 
 <div class="post" data-post-id="22592" data-author="Autolycos" data-date="2008-02-07T04:07:40+00:00" data-subject="">
 
-so?  I'm just happy I found my scrapbook of Nia pics  ;)
+so? I'm just happy I found my scrapbook of Nia pics <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -332,9 +344,12 @@ Fight Club, Tyler Durden - "Self improvement is masterbation"
 
 <div class="post" data-post-id="22596" data-author="*juggleblood*" data-date="2008-02-07T05:29:05+00:00" data-subject="">
 
-Nothing wrong with it Jason.
-
-Fight Club, Tyler Durden - "Self improvement is masterbation"[/quote:25skv9uw]
+> <strong>Leaf wrote:</strong>
+> Nothing wrong with it Jason.
+> 
+> 
+> 
+> Fight Club, Tyler Durden - "Self improvement is masterbation"
 
 Doesn't mean masturbation is self-improvement tho...
 
@@ -344,7 +359,7 @@ But seriously...I can't just tack another room and a vault onto my dwelling in l
 
 <div class="post" data-post-id="22597" data-author="jezer" data-date="2008-02-07T06:04:10+00:00" data-subject="">
 
-That is a [b:1u3wa6nz]brillant[/b:1u3wa6nz] idea Juggleblood... imagine if you could add to your vault by the room... 
+That is a <strong>brillant</strong> idea Juggleblood... imagine if you could add to your vault by the room... 
 
 You can purchase new rooms, regen, furniture, vaults...
 
@@ -366,7 +381,7 @@ It's pretty trivial for someone with the edit range to add a single room to a va
 
 <div class="post" data-post-id="22600" data-author="13" data-date="2008-02-07T14:14:33+00:00" data-subject="">
 
-you  could do it by room when I bought my shit on lyme in like 98 99
+you could do it by room when I bought my shit on lyme in like 98 99
 
 it cost a lot more then though
 
@@ -374,9 +389,9 @@ it cost a lot more then though
 
 <div class="post" data-post-id="22611" data-author="Autolycos" data-date="2008-02-08T19:19:11+00:00" data-subject="">
 
-yes you can *add* as many rooms as you want.  I do it all the time to the pirates GP's.   They are 10mil each with a vault.  You are not limited to rooms, just physical dwellings.   It would be ridiculous to build 20 one room shacks when you could build a Grand Palace.   
+yes you can \*add\* as many rooms as you want. I do it all the time to the pirates GP's. They are 10mil each with a vault. You are not limited to rooms, just physical dwellings. It would be ridiculous to build 20 one room shacks when you could build a Grand Palace. 
 
-Unless aaron wanted to build those shacks out by the lake and rent them.. i hear there is good fishing out there ;)
+Unless aaron wanted to build those shacks out by the lake and rent them.. i hear there is good fishing out there <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

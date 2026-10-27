@@ -22,7 +22,7 @@ Could vault regen purchase limits also be increased as well?
 
 <div class="post" data-post-id="39884" data-author="jayclimbs" data-date="2022-02-04T22:17:51+00:00" data-subject="Re: EU Vaults">
 
-This seems like a good item for uber-chars. Make it exclusive to reborns? Or characters >X years on Sloth? Provide some hp/mana/move regen in the original package? Or auto-remove disease/poison/vampirism? Something to set it above 'normal' hovel properties. An invisible servant? A few extra vault spaces? Something along those lines.
+This seems like a good item for uber-chars. Make it exclusive to reborns? Or characters \>X years on Sloth? Provide some hp/mana/move regen in the original package? Or auto-remove disease/poison/vampirism? Something to set it above 'normal' hovel properties. An invisible servant? A few extra vault spaces? Something along those lines.
 
 </div>
 

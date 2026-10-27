@@ -24,11 +24,11 @@ Thank you William!
 
 <div class="post" data-post-id="37476" data-author="*Idjit*" data-date="2016-10-29T20:03:17+00:00" data-subject="Re: Wintin 95(quick and easy client)">
 
-If you like to mud in crazy truetype fonts, wintin95 is great if you can still get it to work :)
+If you like to mud in crazy truetype fonts, wintin95 is great if you can still get it to work <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 It was a faithful client for many years.
 
---Idj
+\--Idj
 
 </div>
 
@@ -38,6 +38,6 @@ His download link is to v1.73
 
 has he got access to 1.80 anyplace?
 
---D
+\--D
 
 </div>

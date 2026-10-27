@@ -12,7 +12,7 @@ post_count: 8
 
 <div class="post" data-post-id="28595" data-author="Virus" data-date="2009-03-23T06:06:18+00:00" data-subject="Mud down?">
 
-Is the mud down? I keep getting timeout when trying to connect.  :cry:
+Is the mud down? I keep getting timeout when trying to connect. <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -30,7 +30,7 @@ PWIPE!!! rofl
 
 <div class="post" data-post-id="28598" data-author="Virus" data-date="2009-03-23T08:10:34+00:00" data-subject="">
 
-Yeah, wipe Sa  :evil:
+Yeah, wipe Sa <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -38,7 +38,7 @@ Yeah, wipe Sa  :evil:
 
 BTW vote if you have nothing better to do
 
--V
+\-V
 
 </div>
 

@@ -20,13 +20,13 @@ Is something a miss with this forge... the name for instance... isn't this the s
 
 <div class="post" data-post-id="39302" data-author="*Breeze*" data-date="2019-09-26T17:24:52+00:00" data-subject="Re: a golden skeleton key">
 
-yeah thats wrong .. vnum 0 is the immortal master key.  i hope thats not a broke forge *cough*
+yeah thats wrong .. vnum 0 is the immortal master key. i hope thats not a broke forge \*cough\*
 
 </div>
 
 <div class="post" data-post-id="39303" data-author="Gorka" data-date="2019-09-27T05:56:11+00:00" data-subject="Re: a golden skeleton key">
 
-Oh dear, the immortal skeleton key!  :shock:
+Oh dear, the immortal skeleton key! <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 2458 coins in locked cache with no key and the lutefisk in Breeze's office drawers at risk. Trying to resist the temptation...
 
@@ -36,6 +36,6 @@ Oh dear, the immortal skeleton key!  :shock:
 
 actually, pretty sure that key unlocks even unlockable doors... and all vault entrances with keys..
 
-and yes..  keep yar grubby hands from my lutefisk!
+and yes.. keep yar grubby hands from my lutefisk!
 
 </div>

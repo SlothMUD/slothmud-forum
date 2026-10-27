@@ -14,21 +14,21 @@ post_count: 3
 
 If anybody missed it, there are three things going on:
 
-1) a drachma scatter was done at midnight Eastern time last night.
+1\) a drachma scatter was done at midnight Eastern time last night.
 
-2) a do it yourself solo quest was started at the same time.
+2\) a do it yourself solo quest was started at the same time.
 
 Kill redcoats or subdue them and turn them in at George Washington at any Inn.
 
 You get more for a subdue than you do for a kill.
 
-3) Lastly, 5 custom epics have been created and released.
+3\) Lastly, 5 custom epics have been created and released.
 
 They have crystal drachma tokens on them.
 
 Enjoy, and Happy Fourth!
 
---Idjit
+\--Idjit
 
 </div>
 

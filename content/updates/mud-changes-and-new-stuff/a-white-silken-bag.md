@@ -14,11 +14,11 @@ post_count: 1
 
 Greetings mortals.
 
-Got several prays about this item from some of you, puny mortals.  Its just a custom bag, for those little shiny shards.  There are more useful custom bags that can be found around the world, like those for keys.  And yet, this one cost drachma.
+Got several prays about this item from some of you, puny mortals. Its just a custom bag, for those little shiny shards. There are more useful custom bags that can be found around the world, like those for keys. And yet, this one cost drachma.
 
-So, made this one slightly better :  a bit bigger and now it is closable.  Hope this small changes somewhat justify its high cost.
+So, made this one slightly better : a bit bigger and now it is closable. Hope this small changes somewhat justify its high cost.
 
-Change is in game already.  If you have a bag, you may need to rent/come back for change to be applied.
+Change is in game already. If you have a bag, you may need to rent/come back for change to be applied.
 
 Best regards.
 

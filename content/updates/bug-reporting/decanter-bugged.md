@@ -44,13 +44,13 @@ hmm. When I ID'ed now, the weight is 0, but am still unable to fill it.
 
 BUT yay! I can drink out of it even though I emptied it. OK I guess that's it.. it is perma-full now (which I believe was the intention way back in the day anyway), so thanks!
 
-:)
+<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="26479" data-author="Weasel" data-date="2008-09-27T04:59:14+00:00" data-subject="">
 
-oh.. and sorry about leaving little piles of puke around Lyme while checking it out..  :oops:
+oh.. and sorry about leaving little piles of puke around Lyme while checking it out.. <img src="/images/smilies/icon_redface.svg" alt=":oops:" title=":oops:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -58,7 +58,7 @@ oh.. and sorry about leaving little piles of puke around Lyme while checking it 
 
 Just theorising here, but I imagine that if you could pick up any of the town fountains they'd behave the same with with emptying. I guess it's part of what allows you to drink from them.
 
-Also thanks to whoever changed the decanters, much nicer this way :)
+Also thanks to whoever changed the decanters, much nicer this way <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -68,12 +68,12 @@ i'm still supprised why the "keg" keyword was removed....
 
 that innocent little keyword wasnt hurting anyone!!!!!
 
- :evil:
+ <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="26487" data-author="Vixn" data-date="2008-09-28T07:55:36+00:00" data-subject="">
 
-nah.. if you play via telnet (all cool guys do this way) it's a bit longer to type 'drink crystal-water' instead of 'drink keg'. good nerfing, thanks!  :)
+nah.. if you play via telnet (all cool guys do this way) it's a bit longer to type 'drink crystal-water' instead of 'drink keg'. good nerfing, thanks! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

@@ -32,13 +32,13 @@ what Diazz said.
 
 <div class="post" data-post-id="14168" data-author="Weasel" data-date="2006-09-19T19:39:58+00:00" data-subject="">
 
-[img:2uejy8n3]http://homepage.eircom.net/~ojk/tt/brian/wassup.jpg[/img:2uejy8n3]
+![](http://homepage.eircom.net/~ojk/tt/brian/wassup.jpg)
 
 </div>
 
 <div class="post" data-post-id="14169" data-author="Weasel" data-date="2006-09-19T19:42:07+00:00" data-subject="">
 
-[img:3hgdj68d]http://impulzus.sch.bme.hu/galaxy/tmp/corpsebride/wassup.gif[/img:3hgdj68d]
+![](http://impulzus.sch.bme.hu/galaxy/tmp/corpsebride/wassup.gif)
 
 </div>
 

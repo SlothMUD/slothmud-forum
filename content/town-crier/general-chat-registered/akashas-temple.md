@@ -30,11 +30,12 @@ Whats this "bonus" are you talking about?
 
 Probably you mean this kind of bonus:
 
-Akasha rewards you for your loyalty!
+> <strong>Autolycos wrote:</strong>
+> Akasha rewards you for your loyalty!
+> 
+> A pile of dung assembles itself into your inventory.
 
-A pile of dung assembles itself into your inventory.[/quote:18azogmt]
-
- :P
+ <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -58,13 +59,13 @@ Akasha's Temple got bought out and was converted into HUD housing for low income
 
 Krom's Temple is now a trailer court.
 
-Nia's is still a cathouse  :twisted:
+Nia's is still a cathouse <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="20539" data-author="Mosaix" data-date="2007-10-01T20:53:33+00:00" data-subject="">
 
-Nia's temple is in compton.  Next to a plexiglass windowed liquor store.
+Nia's temple is in compton. Next to a plexiglass windowed liquor store.
 
 </div>
 
@@ -90,6 +91,6 @@ Temple Found... I think
 
 <div class="post" data-post-id="20586" data-author="Thraxas" data-date="2007-10-05T12:48:11+00:00" data-subject="">
 
-Thankyou :)
+Thankyou <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

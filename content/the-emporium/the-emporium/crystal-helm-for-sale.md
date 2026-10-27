@@ -28,9 +28,9 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: MANA by 10
+ Affects: MANA by 10
 
-    Affects: REGEN_MANA by 1
+ Affects: REGEN\_MANA by 1
 
 Only those who are at least supreme magic users, clerics, druids, or 
 
@@ -52,7 +52,7 @@ necromancers may use this item.
 
 <div class="post" data-post-id="417" data-author="Polk" data-date="2004-05-29T20:30:08+00:00" data-subject="">
 
-12mil :)
+12mil <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

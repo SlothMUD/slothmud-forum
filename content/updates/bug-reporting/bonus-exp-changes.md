@@ -14,7 +14,7 @@ post_count: 9
 
 It seems, that bonus exp is still broken. And heavily lowered. Instead of anounced increase.
 
-**Few days before:**
+<strong>Few days before:</strong>
 
 The king horsefly has been banished to the astral plane!
 
@@ -22,7 +22,7 @@ You gain 1Â 235Â 941 bonus experience!
 
 Total exp for kill is 3Â 484Â 110.
 
-**Today**
+<strong>Today</strong>
 
 The king horsefly has been banished to the astral plane!
 

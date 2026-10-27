@@ -14,7 +14,7 @@ post_count: 2
 
 selling Hooded wool cape
 
--0.6 +5 Mana. 59 Cont EM EC ET EW [OR 
+\-0.6 +5 Mana. 59 Cont EM EC ET EW [OR 
 
 Min 1mil
 

@@ -22,37 +22,37 @@ I've vaulted the eq with the intent to hand it back to an immortal... Breeze has
 
 Let me tell you everything that is wrong with the gauntlets from a power perspective.
 
-* You can build seemingly unlimited procs.
+\* You can build seemingly unlimited procs.
 
-* Procs can do about 5000 damage. 
+\* Procs can do about 5000 damage. 
 
-* Because the mobs are often blinded they don't see you on reentry.
+\* Because the mobs are often blinded they don't see you on reentry.
 
-* There is no lag associated with using a proc.
+\* There is no lag associated with using a proc.
 
-* You can fairly easily work out how the gauntlets work and build procs to kill big targets.
+\* You can fairly easily work out how the gauntlets work and build procs to kill big targets.
 
-* You can proc in no cast rooms.
+\* You can proc in no cast rooms.
 
 The Treasure Chest
 
-   The interior of this quaint shop is shaped just like the interior of a
+ The interior of this quaint shop is shaped just like the interior of a
 
-treasure chest.  Old planking was used to cover the floor, walls, and
+treasure chest. Old planking was used to cover the floor, walls, and
 
-ceiling, and offers a rustic look to the shop.  A shiny clasp has been
+ceiling, and offers a rustic look to the shop. A shiny clasp has been
 
 placed low on the southern part of the ceiling and was designed to look
 
 like a lock on a normal chest.
 
-Exits: South  
+Exits: South 
 
 A distinguished gentleman paces back and forth about the room.
 
 High Priest of Wisdom glows with a bright light!
 
-<1470hp 769ma 527mv -6.9ac Bal Harbor Town #indoors# 8:35 am -%>
+\<1470hp 769ma 527mv -6.9ac Bal Harbor Town #indoors# 8:35 am -%\>
 
 You unleash a massive pyroclasm on High Priest of Wisdom!!
 
@@ -64,11 +64,11 @@ You gain 10000000 extra bonus experience!
 
 Total exp for kill is 950719212.
 
--------------
+\-------------
 
 MOB : Priest High Wisdom man	LVL : 42	AREA : Bal Harbor Town	XP : 950719212
 
--------------
+\-------------
 
 war
 
@@ -80,17 +80,17 @@ l
 
 The Treasure Chest
 
-   The interior of this quaint shop is shaped just like the interior of a
+ The interior of this quaint shop is shaped just like the interior of a
 
-treasure chest.  Old planking was used to cover the floor, walls, and
+treasure chest. Old planking was used to cover the floor, walls, and
 
-ceiling, and offers a rustic look to the shop.  A shiny clasp has been
+ceiling, and offers a rustic look to the shop. A shiny clasp has been
 
 placed low on the southern part of the ceiling and was designed to look
 
 like a lock on a normal chest.
 
-Exits: South  
+Exits: South 
 
 A fortune in gold rests here invitingly.
 
@@ -136,11 +136,11 @@ A jeweled girdle has been left on the ground here...It glows violet!..It has a s
 
 A small shiny diamond piece has been dropped here by mistake.
 
-<1470hp 769ma 527mv -6.9ac Bal Harbor Town #indoors# 8:39 am -%>
+\<1470hp 769ma 527mv -6.9ac Bal Harbor Town #indoors# 8:39 am -%\>
 
 A voice in your head says 'My victim no longer inhabits this mortal coil.'
 
-<1470hp 769ma 528mv -6.9ac Bal Harbor Town #indoors# 8:40 am -%>
+\<1470hp 769ma 528mv -6.9ac Bal Harbor Town #indoors# 8:40 am -%\>
 
 get all
 
@@ -184,29 +184,29 @@ You deftly snatch Jeweled Girdle of the Black Wizard.
 
 You deftly snatch a diamond chip.
 
-<1470hp 769ma 529mv -6.9ac Bal Harbor Town #indoors# 8:42 am -%>
+\<1470hp 769ma 529mv -6.9ac Bal Harbor Town #indoors# 8:42 am -%\>
 
 l
 
 The Treasure Chest
 
-   The interior of this quaint shop is shaped just like the interior of a
+ The interior of this quaint shop is shaped just like the interior of a
 
-treasure chest.  Old planking was used to cover the floor, walls, and
+treasure chest. Old planking was used to cover the floor, walls, and
 
-ceiling, and offers a rustic look to the shop.  A shiny clasp has been
+ceiling, and offers a rustic look to the shop. A shiny clasp has been
 
 placed low on the southern part of the ceiling and was designed to look
 
 like a lock on a normal chest.
 
-Exits: South  
+Exits: South 
 
 A miniature skull, mounted to a bone ring, grins up at you...It glows red!..It glows violet!..It has a 
 
 soft glowing aura!
 
-<1470hp 769ma 529mv -6.9ac Bal Harbor Town #indoors# 8:49 am -%>
+\<1470hp 769ma 529mv -6.9ac Bal Harbor Town #indoors# 8:49 am -%\>
 
 get skull
 
@@ -222,11 +222,11 @@ BTW: The simple solution to this new problem is to give all shop keepers reflect
 
 <div class="post" data-post-id="39270" data-author="Driven" data-date="2019-07-15T21:09:38+00:00" data-subject="Re: High Priest of Wisdom has been banished to the ethereal">
 
-The gauntlets should not be usable in a safe room... I will fix.  The gauntlets themselves are a couple thousand lines of code... anything this complicated is going to have some bugs sneak through.  In the future please just let me know what the bugs are right away so I can fix them, or the powers that be will simply stop allowing cool stuff like this to be put into the game.
+The gauntlets should not be usable in a safe room... I will fix. The gauntlets themselves are a couple thousand lines of code... anything this complicated is going to have some bugs sneak through. In the future please just let me know what the bugs are right away so I can fix them, or the powers that be will simply stop allowing cool stuff like this to be put into the game.
 
-And yes, you can build up energy against mobs to take them down, but the amount of work to do so is insane, as you have shown.  For cycling a mob, this is not a particularly reasonable pursuit as there are much easier ways to cycle large mobs.
+And yes, you can build up energy against mobs to take them down, but the amount of work to do so is insane, as you have shown. For cycling a mob, this is not a particularly reasonable pursuit as there are much easier ways to cycle large mobs.
 
-What other loopholes have you found?  In the context of our prior conversation, I don't see the gauntlets as a major boost in power... can they be used to do some pretty cool stuff?  Sure, that's kind of the point.
+What other loopholes have you found? In the context of our prior conversation, I don't see the gauntlets as a major boost in power... can they be used to do some pretty cool stuff? Sure, that's kind of the point.
 
 And I will lock down the item so it can't be unleashed in the coliseum.
 
@@ -236,7 +236,7 @@ And I will lock down the item so it can't be unleashed in the coliseum.
 
 I had informed Breeze of the exploit, because I had asked him if I would be able to try and kill the keeper under his supervision... as it's every players dream. We kept missing each other online and getting a chance to talk about it and test it. Usually I would have just told you... Because this discussion happened on the forum, I took the liberty and then emailed Breeze and Nep. Breeze has been busy in r/l. I've being waiting over 2 weeks to do it. I figured the other players were way off getting there gaunts to lvl 10, and also probably hadn't thought about it.
 
-Anyone gets a chance to be a great warrior, not everyone gets a chance to kill a drachma shop keeper, and even if it was the last thing I did... the smile on my face in bed that night after killing one of those over priced bastages was gonna be a comeuppance for all the players! It really came down to the comedy of the situation being the reason to hold up on the solutions. :twisted:  :)
+Anyone gets a chance to be a great warrior, not everyone gets a chance to kill a drachma shop keeper, and even if it was the last thing I did... the smile on my face in bed that night after killing one of those over priced bastages was gonna be a comeuppance for all the players! It really came down to the comedy of the situation being the reason to hold up on the solutions. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 In a perfect world, shop keepers shouldn't really be mobs in the first place... it's always going to make them vulnerable to death and looting. Secondly, there protections aren't so great for the modern sloth.
 
@@ -244,18 +244,18 @@ In a perfect world, shop keepers shouldn't really be mobs in the first place... 
 
 <div class="post" data-post-id="39274" data-author="Gorka" data-date="2019-07-15T23:05:44+00:00" data-subject="Re: High Priest of Wisdom has been banished to the ethereal">
 
-> **Quote:**
-> * You can build seemingly unlimited procs.
+> <strong>Quote:</strong>
+> \* You can build seemingly unlimited procs.
 > 
-> * Procs can do about 5000 damage.
+> \* Procs can do about 5000 damage.
 > 
-> * Because the mobs are often blinded they don't see you on reentry.
+> \* Because the mobs are often blinded they don't see you on reentry.
 > 
-> * There is no lag associated with using a proc.
+> \* There is no lag associated with using a proc.
 > 
-> * You can fairly easily work out how the gauntlets work and build procs to kill big targets.
+> \* You can fairly easily work out how the gauntlets work and build procs to kill big targets.
 > 
-> * You can proc in no cast rooms.
+> \* You can proc in no cast rooms.
 > 
 > 
 > 
@@ -275,7 +275,7 @@ I just don't see, how you can not see how powerful these things are. Why people 
 
 <div class="post" data-post-id="39275" data-author="Driven" data-date="2019-07-16T00:09:57+00:00" data-subject="Re: High Priest of Wisdom has been banished to the ethereal ">
 
-Gauntlets are fixed for both safe rooms and the coliseum.  Please let me know if the fixes look incomplete or you think of any other loopholes.
+Gauntlets are fixed for both safe rooms and the coliseum. Please let me know if the fixes look incomplete or you think of any other loopholes.
 
 </div>
 
@@ -285,17 +285,17 @@ Yes, i agree gorka. mages are evil.
 
 Oh, and that other stuff too.
 
-Seems like changes are being made without consideration of long term effects or without knowledge of current game.   However, it is how ppl learn.   Eggs will be broken!
+Seems like changes are being made without consideration of long term effects or without knowledge of current game. However, it is how ppl learn. Eggs will be broken!
 
 Don't be an egg!
 
-I worldwalked too hundreds of muds over the years, and in all of them, the only thing that seemed to matter is offence.  Sloth was the only one i found that allowed you to play other styles and did not force you to do rp, forges, quests, or be all offense... we  have lost that, anyone not playing a damage character gets low drac from pit, slow exp solo. Chop is all that is left for 'weak' characters now.
+I worldwalked too hundreds of muds over the years, and in all of them, the only thing that seemed to matter is offence. Sloth was the only one i found that allowed you to play other styles and did not force you to do rp, forges, quests, or be all offense... we have lost that, anyone not playing a damage character gets low drac from pit, slow exp solo. Chop is all that is left for 'weak' characters now.
 
 Please let other play styles catch up!
 
 Oh, and ban all mage primes!!!!
 
-Thanks for reporting the bug Gorka!  I have seen to many times over the years when ppl exploit bugs, and never report them.  Myself i got in trouble for reporting one ages ago too.  Hopefully they will not treat you like rancid pond scum for years like they did me..
+Thanks for reporting the bug Gorka! I have seen to many times over the years when ppl exploit bugs, and never report them. Myself i got in trouble for reporting one ages ago too. Hopefully they will not treat you like rancid pond scum for years like they did me..
 
 GL
 
@@ -307,7 +307,7 @@ Congrats, brave sir Gorka.
 
 I did a proof of concept with several methods of drachma vendor slaying, but I never took them past small wounds and bruises because I was asked not to.
 
-The easiest fix for every method I can think of is to add ethereal and the Arcane Ooze's "immune to nightmare" property to all the vendors.  (Along with the safe room fix).
+The easiest fix for every method I can think of is to add ethereal and the Arcane Ooze's "immune to nightmare" property to all the vendors. (Along with the safe room fix).
 
 </div>
 

@@ -12,47 +12,47 @@ post_count: 28
 
 <div class="post" data-post-id="2100" data-author="p1x1e" data-date="2004-10-03T07:05:25+00:00" data-subject="Eq sale *since block not working for me*">
 
--->helm of earth power (-1.2 +1 Hit , perm WaterBreath EM EC ET EW EDr ENe EMo EBa [OR] )  5mil min
+\--\>helm of earth power (-1.2 +1 Hit , perm WaterBreath EM EC ET EW EDr ENe EMo EBa [OR] ) 5mil min
 
--->ring of blue ice 2mil min
+\--\>ring of blue ice 2mil min
 
--->ring of white fire 2mil min
+\--\>ring of white fire 2mil min
 
--->temple livery 10k min
+\--\>temple livery 10k min
 
--->Bs gorget 300k min
+\--\>Bs gorget 300k min
 
--->sable gimlet 1mil min
+\--\>sable gimlet 1mil min
 
--->ruby leg plates (1.2 +1 Str, +1 Con 3x40)  3mil min
+\--\>ruby leg plates (1.2 +1 Str, +1 Con 3x40) 3mil min
 
--->symbol of the dark lord (-0.0 +1 Con , +3 Ma Regen ApM ApC ApT ApW ApDr ApNe ApBa ApMo [OR] ) 300K min
+\--\>symbol of the dark lord (-0.0 +1 Con , +3 Ma Regen ApM ApC ApT ApW ApDr ApNe ApBa ApMo [OR] ) 300K min
 
--->a pair of rock boots (-0.3 +1 Str, +3 KickDam AdT AdW AdBa AdMo [OR])  500K min
+\--\>a pair of rock boots (-0.3 +1 Str, +3 KickDam AdT AdW AdBa AdMo [OR]) 500K min
 
--->silver gauntlets (-0.2 +1 Dam, +1 Hit AdW AdC AdBa AdMo [OR] ) 300K min
+\--\>silver gauntlets (-0.2 +1 Dam, +1 Hit AdW AdC AdBa AdMo [OR] ) 300K min
 
--->snakeskin belt (-0.2 +1 Wis EM EC EDr ENe [OR])  500K min
+\--\>snakeskin belt (-0.2 +1 Wis EM EC EDr ENe [OR]) 500K min
 
--->shield of lightning (-0.8 +1 Dex NM ApT AdW [AND] ) 500K min
+\--\>shield of lightning (-0.8 +1 Dex NM ApT AdW [AND] ) 500K min
 
--->Diamond Sleeves (-0.5 +1 Dam, +2 Hit * AdT AdW [AND]) 5mil min
+\--\>Diamond Sleeves (-0.5 +1 Dam, +2 Hit \* AdT AdW [AND]) 5mil min
 
--->2XDiamond Bracer (-0.0 +1 Dam, +1 Mana Regen * SM Forged) 5mil Each
+\--\>2XDiamond Bracer (-0.0 +1 Dam, +1 Mana Regen \* SM Forged) 5mil Each
 
--->black robe (-0.5 499 Cont * ET ApW ApM ApC [AND]-from mage tower now retired area) 1mil min
+\--\>black robe (-0.5 499 Cont \* ET ApW ApM ApC [AND]-from mage tower now retired area) 1mil min
 
--->Mongoose skin bag ( -0.4 +1 Con, Container 3x40)  500K min
+\--\>Mongoose skin bag ( -0.4 +1 Con, Container 3x40) 500K min
 
----Misc cps:---
+\---Misc cps:---
 
--a dripping icicle
+\-a dripping icicle
 
--the scalp of a dwarven sentry
+\-the scalp of a dwarven sentry
 
--sphinx talisman..It emits a faint humming sound!
+\-sphinx talisman..It emits a faint humming sound!
 
----min 50K per cp
+\---min 50K per cp
 
 </div>
 
@@ -98,7 +98,7 @@ snakeskin belt 500k
 
 <div class="post" data-post-id="2110" data-author="Virus" data-date="2004-10-04T05:38:42+00:00" data-subject="">
 
-Ring of White fire  --- 2mil
+Ring of White fire --- 2mil
 
 Rock Boots --- 800k
 
@@ -170,7 +170,7 @@ silver gaunts 400k
 
 <div class="post" data-post-id="2141" data-author="Virus" data-date="2004-10-05T05:55:00+00:00" data-subject="Rock Boots 3.5mil">
 
-Rock Boots 3.5mil :twisted:
+Rock Boots 3.5mil <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -202,57 +202,57 @@ winning bids are as follows (from both my chopping block bidders and forum bidde
 
 Ranger - 4,250,013
 
- -sheep shears
+ \-sheep shears
 
- -mujen doll
+ \-mujen doll
 
- -2 x mystical rings
+ \-2 x mystical rings
 
- -rock boots
+ \-rock boots
 
 Biff - 800K
 
- -silver gauntlets
+ \-silver gauntlets
 
- - snakeskin belt
+ \- snakeskin belt
 
 Falsra - 3K
 
- - mask
+ \- mask
 
 Wampire - 100K
 
--swirling robes
+\-swirling robes
 
 Doug - 302,520
 
- - 2x band of defense
+ \- 2x band of defense
 
 Weed - 1,412,101
 
- -BS Bracelet
+ \-BS Bracelet
 
 Rith - 2Mil
 
- - ring of blue flame
+ \- ring of blue flame
 
 Virus - 2mil
 
- -ring of white fire
+ \-ring of white fire
 
 Mosaix - 5Mil
 
- -helm of earthen power
+ \-helm of earthen power
 
 Beagle - 5Mil
 
- - diamond sleeves
+ \- diamond sleeves
 
 Phiilip - 1,500,000
 
- -black robe
+ \-black robe
 
- -shield of lightning
+ \-shield of lightning
 
 please contact me either through the forums
 
@@ -266,13 +266,13 @@ Thank you for your purchases!!
 
 <div class="post" data-post-id="2169" data-author="Phillip" data-date="2004-10-06T13:55:31+00:00" data-subject="">
 
-Umm just to make sure.. what does the * beside ET mean?
+Umm just to make sure.. what does the \* beside ET mean?
 
 </div>
 
 <div class="post" data-post-id="2172" data-author="Ender" data-date="2004-10-06T15:29:12+00:00" data-subject="">
 
-I believe * is what Blackmore uses to indicate that he's verified the restricts on the item since the implementation of the new classes.
+I believe \* is what Blackmore uses to indicate that he's verified the restricts on the item since the implementation of the new classes.
 
 </div>
 
@@ -286,7 +286,8 @@ Phew so that doesnt mean i have to be theif prime rite?
 
 Prime is indicated by Prime being listed in the restricts
 
-White Silk Sleeves Missy  Dwarven Mountain -0.0 +5 Mana, +2 SysShock AdC Prime[/quote:3iosfl6i]
+> <strong>Sloth III Eq List wrote:</strong>
+> White Silk Sleeves Missy Dwarven Mountain -0.0 +5 Mana, +2 SysShock AdC Prime
 
 </div>
 

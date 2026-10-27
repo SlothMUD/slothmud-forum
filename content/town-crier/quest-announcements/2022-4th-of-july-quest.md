@@ -20,10 +20,10 @@ An effort will be made to repel the barbarians at 10am on Sunday July 3rd.
 
 A timer link is provided below:
 
-[<LINK_TEXT text="https://www.tickcounter.com/countdown/3 ... july-quest">https://www.tickcounter.com/countdown/3319480/2022-slothmud-4th-of-july-quest</LINK_TEXT>](https://www.tickcounter.com/countdown/3319480/2022-slothmud-4th-of-july-quest)
+[https://www.tickcounter.com/countdown/3319480/2022-slothmud-4th-of-july-quest](https://www.tickcounter.com/countdown/3319480/2022-slothmud-4th-of-july-quest)
 
 See you there.
 
---Idj
+\--Idj
 
 </div>

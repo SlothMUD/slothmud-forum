@@ -26,7 +26,7 @@ min bid 3mil
 
 3M
 
--Calim
+\-Calim
 
 </div>
 

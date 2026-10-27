@@ -14,15 +14,15 @@ post_count: 16
 
 Posted this in the wrong forum but got quite a bit of response from people that seemed to be in the same boat as me as a zmud/cmud user for many years that wants desperately to try and migrate to mudlet, so reposting here in hopes to get some assistance.
 
----------------------------------------------------------
+\---------------------------------------------------------
 
-I know sochi, linx, and and several others (especially akayan) are guru's of the  mudlet client... I've been asking around for someone to share a basic mudlet config to no avail, but I wonder if we could convince them to maybe host a 30 minute -1 hour websession (i have hosting capabilities if needed) on Mudlet 101 with the following agenda:
+I know sochi, linx, and and several others (especially akayan) are guru's of the mudlet client... I've been asking around for someone to share a basic mudlet config to no avail, but I wonder if we could convince them to maybe host a 30 minute -1 hour websession (i have hosting capabilities if needed) on Mudlet 101 with the following agenda:
 
-1) basic client install including required addons (vysor, etc) - very little documentation online for this, but what does exist is out of date and does NOT work as documented.
+1\) basic client install including required addons (vysor, etc) - very little documentation online for this, but what does exist is out of date and does NOT work as documented.
 
-2) brief overview of basic scripting for aliases/triggers etc. (i have looked at the online videos of this and have a very basic understanding of it) Would be nice to get some useful feedback using examples specific to sloth that we use daily.
+2\) brief overview of basic scripting for aliases/triggers etc. (i have looked at the online videos of this and have a very basic understanding of it) Would be nice to get some useful feedback using examples specific to sloth that we use daily.
 
-3) configuration of core features/scripts (ie targeter, xp tracker, paths, chat captures to window, group necesities etc)
+3\) configuration of core features/scripts (ie targeter, xp tracker, paths, chat captures to window, group necesities etc)
 
 I would volunteer to document the discussion and post it to the forums for future reference.
 
@@ -36,9 +36,9 @@ Blix
 
 <div class="post" data-post-id="36655" data-author="Madigan" data-date="2016-02-27T08:57:55+00:00" data-subject="Re: Mudlet for newbies?">
 
-[<LINK_TEXT text="http://www.aardwolf.com/wiki/index.php/ ... ardwolfGUI">http://www.aardwolf.com/wiki/index.php/Clients/MudletAardwolfGUI</LINK_TEXT>](http://www.aardwolf.com/wiki/index.php/Clients/MudletAardwolfGUI)
+[http://www.aardwolf.com/wiki/index.php/Clients/MudletAardwolfGUI](http://www.aardwolf.com/wiki/index.php/Clients/MudletAardwolfGUI)
 
-or something like that would be tits :) but it's wayyy overkill.
+or something like that would be tits <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> but it's wayyy overkill.
 
 </div>
 
@@ -54,7 +54,7 @@ seen it. there is an outdated vysor mpackager and 2 working ui's but the only re
 
 I can't get the mudlettxt layout to work, it looks like it might be the most helpful.
 
-Come on folks, share your knowledge. Why spend all that time perfecting your scripts if you can't show it off by helping others ;)
+Come on folks, share your knowledge. Why spend all that time perfecting your scripts if you can't show it off by helping others <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -82,7 +82,7 @@ I will update this post as I find issues or resolve them
 
 Here are issues I have found:
 
-1) Must use Mudlet 3 beta. I'm using delta release now. The 2.1 version I had did not have an MSDP enable feature in options.
+1\) Must use Mudlet 3 beta. I'm using delta release now. The 2.1 version I had did not have an MSDP enable feature in options.
 
 </div>
 
@@ -98,9 +98,9 @@ somewhere I also have code to generate aliases easier.
 
 something like
 
-#ac rr %1;recite recall %1
+\#ac rr %1;recite recall %1
 
-#ac rr;recite recall 
+\#ac rr;recite recall 
 
 generates the aliases for rr $1 and rr and outputs to a file you load into mudlet.
 
@@ -118,13 +118,13 @@ Oh, hey, Breeze, writing the aliases on the fly is what prevented me from switch
 
 Can you create a script, where you
 
-- type in a name of an alias, say, ws
+\- type in a name of an alias, say, ws
 
-- press tab
+\- press tab
 
-- the script outputs the alias in the command prompt: wake;stand
+\- the script outputs the alias in the command prompt: wake;stand
 
-- you can rewrite the alias on the fly?
+\- you can rewrite the alias on the fly?
 
 If you do, I'll play around w/ switching to Mudlet, which is a very promising client.
 
@@ -144,20 +144,20 @@ The hack described above is pretty weak compared to taking full advantage of mud
 
 <div class="post" data-post-id="36675" data-author="Madigan" data-date="2016-02-29T22:44:58+00:00" data-subject="Re: Mudlet for newbies?">
 
-> **Teron wrote:**
+> <strong>Teron wrote:</strong>
 > Oh, hey, Breeze, writing the aliases on the fly is what prevented me from switching anywhere.
 > 
 > 
 > 
 > Can you create a script, where you
 > 
-> - type in a name of an alias, say, ws
+> \- type in a name of an alias, say, ws
 > 
-> - press tab
+> \- press tab
 > 
-> - the script outputs the alias in the command prompt: wake;stand
+> \- the script outputs the alias in the command prompt: wake;stand
 > 
-> - you can rewrite the alias on the fly?
+> \- you can rewrite the alias on the fly?
 > 
 > 
 > 
@@ -181,7 +181,7 @@ I ran a couple groups yesterday and I can tell it for me, its MUCH faster... lik
 
 <div class="post" data-post-id="36686" data-author="*Breeze*" data-date="2016-03-01T18:19:56+00:00" data-subject="Re: Mudlet for newbies?">
 
-that was its intended purpose :)
+that was its intended purpose <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

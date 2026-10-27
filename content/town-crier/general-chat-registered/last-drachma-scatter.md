@@ -16,15 +16,15 @@ This happened in Dark Dreams:
 
 l masked
 
-Even death has not limited this man's greed.  He walks through the streets,
+Even death has not limited this man's greed. He walks through the streets,
 
-looting the corpses, scooping the coins.  The emanations from the man
+looting the corpses, scooping the coins. The emanations from the man
 
-suggest he is undead.  He looks solid, not quite rotten, and must be either
+suggest he is undead. He looks solid, not quite rotten, and must be either
 
-a fresh zombie, or a vampire.  The lower part of his face is concealed
+a fresh zombie, or a vampire. The lower part of his face is concealed
 
-behind a black velvet mask.  He seems friendly, but too cold are those
+behind a black velvet mask. He seems friendly, but too cold are those
 
 piercing gray eyes and too sharp is that knife in his hand.
 
@@ -34,13 +34,13 @@ You attempt to peek at the inventory:
 
 a small drachma token
 
-Just so you know :)
+Just so you know <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="9850" data-author="Alberich" data-date="2005-12-17T06:50:21+00:00" data-subject="">
 
-gee, a looting mob picked something up off the ground?  whoever would have thought..
+gee, a looting mob picked something up off the ground? whoever would have thought..
 
 </div>
 
@@ -60,43 +60,43 @@ Blaster once went through a lot of effort to try to make it so tokens couldn't b
 
 The same day, the same place:
 
-<674hp 120ma 74mv>look
+\<674hp 120ma 74mv\>look
 
 Humiliated Armor Shop
 
-   Many tables are filled with varying types of helmets, shirts, and other 
+ Many tables are filled with varying types of helmets, shirts, and other 
 
-armor.  Some of the tabletops lean askew, but most are still intact.  The 
+armor. Some of the tabletops lean askew, but most are still intact. The 
 
-rest of the battered armor has been stacked along the walls of this room.  
+rest of the battered armor has been stacked along the walls of this room. 
 
 Some plain, homemade tapestries hang on the walls above the tables, their 
 
-coloring eaten by time.  The floor is simply the hard ground sticky with 
+coloring eaten by time. The floor is simply the hard ground sticky with 
 
-old blood, and the ceiling is made of a cheap wood.  
+old blood, and the ceiling is made of a cheap wood. 
 
-Exits: North  West  
+Exits: North West 
 
 The bloodless kid clutches his hands, looking for a sword and a revenge.
 
 A bloodless kid glows with a bright light!
 
-<674hp 122ma 77mv>list
+\<674hp 122ma 77mv\>list
 
 You can buy:
 
- Price     Item
+ Price Item
 
-----------------------
+\----------------------
 
- 12650     a set of sleeves of crystal [2]
+ 12650 a set of sleeves of crystal [2]
 
- 15000     a shiny steel ring
+ 15000 a shiny steel ring
 
- 18562     the Ring of Heavens
+ 18562 the Ring of Heavens
 
- 39000     shifting sleeves
+ 39000 shifting sleeves
 
 </div>
 
@@ -104,9 +104,9 @@ You can buy:
 
 !!! now thats a deal at twice the price.
 
-nice score Gnu.  i'm gonna dust off a space on the floor and wait for the next shipment.
+nice score Gnu. i'm gonna dust off a space on the floor and wait for the next shipment.
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -116,6 +116,6 @@ youGOTTAbekiddin...
 
 Shazuko Roku Ryuu (Shazuko Six Dragons)
 
-<~Chaos~>
+\<\~Chaos\~\>
 
 </div>

@@ -22,25 +22,25 @@ Additionally, cosmetic changes have been made to the higher level dark maces so 
 
 For more detailed information, identify your maces after the game reboots tomorrow!
 
---Idjit
+\--Idjit
 
 </div>
 
 <div class="post" data-post-id="35366" data-author="Dragoth" data-date="2014-07-03T17:09:19+00:00" data-subject="Re: Dark Mace Reform">
 
-Your levels:  Cl: 40 Dr: 40 Mo: 40 Ne: 40 Ba: 21 Ma: 26 Wa: 15 Th: 10 Av: 10 
+Your levels: Cl: 40 Dr: 40 Mo: 40 Ne: 40 Ba: 21 Ma: 26 Wa: 15 Th: 10 Av: 10 
 
-<820hp 689ma 306mv>rem mace
+\<820hp 689ma 306mv\>rem mace
 
 You stop using a large, dark mace.
 
-<822hp 697ma 305mv>cast 'identify' mace
+\<822hp 697ma 305mv\>cast 'identify' mace
 
 Ok.discarded identify as its not on the list..
 
 You feel informed:
 
-Object 'dark mace large 4x40 *Crumbs*', Item type: WEAPON
+Object 'dark mace large 4x40 \*Crumbs\*', Item type: WEAPON
 
 Item is: HUM PERSONAL MAGIC RESTRUNG SANCBUSTER 
 
@@ -50,9 +50,9 @@ Damage Dice is '3D6'
 
 Can affect you as:
 
-    Affects: HITROLL by 3
+ Affects: HITROLL by 3
 
-    Affects: HEAL_BONUS by 2
+ Affects: HEAL\_BONUS by 2
 
 Only those who are primary experienced clerics may use this item.
 

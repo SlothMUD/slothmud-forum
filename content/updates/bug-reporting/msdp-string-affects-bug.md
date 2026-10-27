@@ -12,7 +12,7 @@ post_count: 3
 
 <div class="post" data-post-id="37966" data-author="Tuck" data-date="2017-01-16T12:13:47+00:00" data-subject="MSDP.STRING_AFFECTS bug">
 
-** problem fixed **
+\*\* problem fixed \*\*
 
 Here is mudlet code to parse MSDPAFFECTS correctly:
 
@@ -41,16 +41,16 @@ function get_affects()
 	affectsTable=stringAffects:split(",")
 	affects={}
 	for i,v in ipairs(affectsTable) do
-		if not (v:split(": ")[2]=="-1") then
-			affects[v:split(": ")[1]]=v:split(": ")[2]+0
-		end
+ if not (v:split(": ")[2]=="-1") then
+ affects[v:split(": ")[1]]=v:split(": ")[2]+0
+ end
 	end
 end
 function checkSpell(spell)	
 	if table.contains(affects,spell) then 
-		return true
+ return true
 	else
-		return false
+ return false
 	end
 end
 ```
@@ -59,7 +59,7 @@ end
 
 <div class="post" data-post-id="37967" data-author="*juggleblood*" data-date="2017-01-16T13:55:07+00:00" data-subject="Re: MSDP.STRING_AFFECTS bug">
 
-I told you string_affects is obsolete.  MSDPAFFECTS is the newer one.
+I told you string\_affects is obsolete. MSDPAFFECTS is the newer one.
 
 </div>
 

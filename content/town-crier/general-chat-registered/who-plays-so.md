@@ -24,7 +24,7 @@ Do not think of the first, I have already overlooked about it.
 
 Simply send the goods by mail.
 
-Thanks  :D
+Thanks <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 

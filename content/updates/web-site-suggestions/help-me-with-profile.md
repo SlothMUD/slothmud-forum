@@ -12,7 +12,7 @@ post_count: 4
 
 <div class="post" data-post-id="23184" data-author="Bazilus" data-date="2008-03-11T10:06:09+00:00" data-subject="help me with profile">
 
-Any moderator can respond, why i can't change info in my profile and can't change password (need always use copypast from mail). I want set something by myself.  :P  Thanks.
+Any moderator can respond, why i can't change info in my profile and can't change password (need always use copypast from mail). I want set something by myself. <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom"> Thanks.
 
 Bazilus the Crazy Python
 
@@ -34,7 +34,7 @@ I have the same prob. So if someone could post a fix, that'd be great.
 
 <div class="post" data-post-id="24443" data-author="Weasel" data-date="2008-05-21T16:48:13+00:00" data-subject="">
 
-*bump*
+\*bump\*
 
 Currently my profile has an email addy and website URL that no longer exist.
 

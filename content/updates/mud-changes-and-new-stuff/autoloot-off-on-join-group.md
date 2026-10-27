@@ -14,9 +14,9 @@ post_count: 4
 
 Good day, adventurers.
 
-I have been observing a silly problem lately.  Newbies join a group, then later loot something (like a key).  When they fail to pass the pop to the leader quickly, its disgusting for everyone, and often ends with the newbie been kicked out. :cry:
+I have been observing a silly problem lately. Newbies join a group, then later loot something (like a key). When they fail to pass the pop to the leader quickly, its disgusting for everyone, and often ends with the newbie been kicked out. <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom">
 
-To help a bit with this, I've changed the follow command so it automatically turns the autolooter off.  I know its going to be annoying for people with good habits, but overall I think its going to be a good measure for our world.
+To help a bit with this, I've changed the follow command so it automatically turns the autolooter off. I know its going to be annoying for people with good habits, but overall I think its going to be a good measure for our world.
 
 Will be active on next crash or reboot (if Splork has the time to move the code over).
 
@@ -26,7 +26,7 @@ Best regards.
 
 <div class="post" data-post-id="31246" data-author="*Breeze*" data-date="2010-05-28T04:43:53+00:00" data-subject="Re: Autoloot off on join group">
 
-thanks!  how about turning on autosplit also ? :)
+thanks! how about turning on autosplit also ? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -34,7 +34,7 @@ thanks!  how about turning on autosplit also ? :)
 
 Good day, Immortal.
 
-If they are not looting, what is the need of they spliting? :?:
+If they are not looting, what is the need of they spliting? <img src="/images/smilies/icon_question.svg" alt=":?:" title=":?:" width="15" height="15" class="smiley nozoom">
 
 Best regards.
 

@@ -16,21 +16,21 @@ We are going to have people vote for who is going to lead the Halloween Quest.
 
 But I need volunteers for who wants to lead the quest group in the first place to see who is put in the poll as options before we vote.
 
-Please submit your candidacy to this thread.  The poll will be put up in a day or two once I see a list of people.
+Please submit your candidacy to this thread. The poll will be put up in a day or two once I see a list of people.
 
 Thanks
 
---Idjit
+\--Idjit
 
-P.S. we will not tolerate excluding anyone from the quest group.  People who want to do that need not apply.
+P.S. we will not tolerate excluding anyone from the quest group. People who want to do that need not apply.
 
 </div>
 
 <div class="post" data-post-id="36121" data-author="Josiah" data-date="2015-10-25T21:59:29+00:00" data-subject="Re: 2015 Halloween Quest Leaders">
 
-I'd be happy to drive the bus.  It's been awhile, might need an oil change first.
+I'd be happy to drive the bus. It's been awhile, might need an oil change first.
 
-- Josiah
+\- Josiah
 
 </div>
 
@@ -44,7 +44,7 @@ I think we all could use an oil change.
 
 <div class="post" data-post-id="36123" data-author="Ker" data-date="2015-10-26T06:00:04+00:00" data-subject="Re: 2015 Halloween Quest Leaders">
 
-Come back J , last player check on you crashed my wintin95 :-)
+Come back J , last player check on you crashed my wintin95 <img src="/images/smilies/icon_e_smile.svg" alt=":-)" title=":-)" width="15" height="15" class="smiley nozoom">
 
 Dr
 
@@ -52,7 +52,7 @@ Dr
 
 <div class="post" data-post-id="36124" data-author="cyprimus" data-date="2015-10-26T07:59:46+00:00" data-subject="Re: 2015 Halloween Quest Leaders">
 
-Ok.  wiling to lead with ip.  but not tank and lead..
+Ok. wiling to lead with ip. but not tank and lead..
 
 Or ...if we can nominate others.. make surf do it!
 
@@ -72,7 +72,7 @@ I post this completely on my own free will.
 
 <div class="post" data-post-id="36126" data-author="war" data-date="2015-10-27T00:46:34+00:00" data-subject="Re: 2015 Halloween Quest Leaders">
 
-My vote is for Josiah but if for some reason he isn't aval it sounds fun :)
+My vote is for Josiah but if for some reason he isn't aval it sounds fun <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -82,6 +82,6 @@ The search for new candidates is now closed, please go vote at the poll on the o
 
 Thanks
 
---Idjit
+\--Idjit
 
 </div>

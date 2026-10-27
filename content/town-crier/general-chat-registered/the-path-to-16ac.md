@@ -16,75 +16,75 @@ I've been working on creating max modes... max ac, max damreduct, max hp, max sa
 
 You are using:
 
-<used as light>      a glowing bauble with `Gorka` engraved upon on it ()socketed Rhodochrosite Rune()
+\<used as light\> a glowing bauble with \`Gorka\` engraved upon on it ()socketed Rhodochrosite Rune()
 
-<worn on finger>     the titanium ring of power ()socketed Chrysoprase Rune() (with an emerald of
-
-insight attached to it)
-
-<worn on finger>     the titanium ring of power ()socketed Chrysoprase Rune() (with an emerald of
+\<worn on finger\> the titanium ring of power ()socketed Chrysoprase Rune() (with an emerald of
 
 insight attached to it)
 
-<worn on shoulders>  Hiddenite-Encrusted Guards ()socketed Tourmaline Rune() (with a golden oak tree
+\<worn on finger\> the titanium ring of power ()socketed Chrysoprase Rune() (with an emerald of
+
+insight attached to it)
+
+\<worn on shoulders\> Hiddenite-Encrusted Guards ()socketed Tourmaline Rune() (with a golden oak tree
 
 charm attached to it)
 
-<worn around neck>   ankh of purity ()socketed Tourmaline Rune() (with a golden oak tree charm attached
+\<worn around neck\> ankh of purity ()socketed Tourmaline Rune() (with a golden oak tree charm attached
 
 to it)
 
-<worn on body>       Ancient Cuirass of the War Gods ()socketed Alexandrite Rune() (with a fish-scale
+\<worn on body\> Ancient Cuirass of the War Gods ()socketed Alexandrite Rune() (with a fish-scale
 
 buckle attached to it)
 
-<worn on head>       an Olthoi Great Helm ()socketed Sapphire Rune() (with a reddish-colored glass eye
+\<worn on head\> an Olthoi Great Helm ()socketed Sapphire Rune() (with a reddish-colored glass eye
 
 attached to it)
 
-<worn on legs>       Redsteel Legplates of Hades ()socketed Sardonyx Rune() (with essence of a
+\<worn on legs\> Redsteel Legplates of Hades ()socketed Sardonyx Rune() (with essence of a
 
 quickling's soul attached to it)
 
-<worn on feet>       a pair of diamond-encrusted demonskin boots ()socketed Moonstone Rune() (with
+\<worn on feet\> a pair of diamond-encrusted demonskin boots ()socketed Moonstone Rune() (with
 
 Adamantine Chains of Vigor attached to it)
 
-<worn on hands>      devilskin gauntlets ()socketed Jet Rune() (with shadow spikes attached to it)
+\<worn on hands\> devilskin gauntlets ()socketed Jet Rune() (with shadow spikes attached to it)
 
-<worn on arms>       Mithril Sleeves of Molten Earth ()socketed Amethyst Rune() (with ethereal runes of
+\<worn on arms\> Mithril Sleeves of Molten Earth ()socketed Amethyst Rune() (with ethereal runes of
 
 the arch-magi attached to it)
 
-<worn as shield>     Mithril Shield of Molten Earth ()socketed Red Spinel Rune() (with an emblem of a
+\<worn as shield\> Mithril Shield of Molten Earth ()socketed Red Spinel Rune() (with an emblem of a
 
 rose attached to it)
 
-<worn about body>    Cloak of Shadows ()socketed Eye Agate Rune() (with a string of fallen stars (Fable)
+\<worn about body\> Cloak of Shadows ()socketed Eye Agate Rune() (with a string of fallen stars (Fable)
 
 attached to it)
 
-<worn about waist>   a feathered cincture ()socketed Jacinth Rune() (with charm of the demon mage
+\<worn about waist\> a feathered cincture ()socketed Jacinth Rune() (with charm of the demon mage
 
 attached to it)
 
-<worn around wrist>  Braided Hemp Bracelet ()socketed Tomb Jade Rune() (with some stardust attached to
+\<worn around wrist\> Braided Hemp Bracelet ()socketed Tomb Jade Rune() (with some stardust attached to
 
 it)
 
-<worn around wrist>  Braided Hemp Bracelet ()socketed Tomb Jade Rune() (with some stardust attached to
+\<worn around wrist\> Braided Hemp Bracelet ()socketed Tomb Jade Rune() (with some stardust attached to
 
 it)
 
-<wielded>            The Winterblade ()socketed Black Onyx Rune() (with a seal of the dying flame
+\<wielded\> The Winterblade ()socketed Black Onyx Rune() (with a seal of the dying flame
 
 attached to it)
 
-<held>               Sacred Relic of the High Paladin ()socketed Obsidian Rune() (with the Iolite of
+\<held\> Sacred Relic of the High Paladin ()socketed Obsidian Rune() (with the Iolite of
 
 Omah attached to it)
 
-<instrument>         a hollowed ram's horn shofar
+\<instrument\> a hollowed ram's horn shofar
 
 Changes required for -16ac... Choose your POISON...
 
@@ -114,7 +114,7 @@ a polished spectrolite charm -0.1
 
 Have I missed anything?
 
-----------------------------------------
+\----------------------------------------
 
 So -16 is possible, but it's arguably a lot weaker than a more balanced -14/-15 form. Regarding 3x40 eq system... the 8x40 eq pieces are not good value for money in an AC sense, but more value in a stat sense. It's probably true that 6 3x40 pieces are better than 2 8x40 pieces in most cases.
 

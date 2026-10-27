@@ -12,11 +12,11 @@ post_count: 3
 
 <div class="post" data-post-id="39673" data-author="*teker*" data-date="2021-01-18T19:18:13+00:00" data-subject="Changelog 2021-01-18">
 
-Fixed a crash in get if you mistyped the container name.  Not sure how we went on for so long with this in place, but it's fixed now.
+Fixed a crash in get if you mistyped the container name. Not sure how we went on for so long with this in place, but it's fixed now.
 
-Put in some overflow protection regarding number of eqsets.  It should now prevent you from creating new sets if you're going to overflow the buffer.  The max number of sets is related to the length of all the set names added together in a string.  If you make the names shorter, you can have more.  I'm guessing the limit is around 300 if all of the sets have 1-2 character names.
+Put in some overflow protection regarding number of eqsets. It should now prevent you from creating new sets if you're going to overflow the buffer. The max number of sets is related to the length of all the set names added together in a string. If you make the names shorter, you can have more. I'm guessing the limit is around 300 if all of the sets have 1-2 character names.
 
-Maniac put in a fix for reading - we're hoping this solves the crash in there.  The command has been enabled again.
+Maniac put in a fix for reading - we're hoping this solves the crash in there. The command has been enabled again.
 
 </div>
 

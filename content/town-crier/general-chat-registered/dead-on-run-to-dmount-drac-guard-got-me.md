@@ -18,7 +18,7 @@ Any help would be greatly appreciated
 
 <div class="post" data-post-id="20401" data-author="Weasel" data-date="2007-09-27T18:03:05+00:00" data-subject="">
 
-dead at cursed-treants in forsaken swamp (island).. bash lagged to hell.. and wtf is wrong with entrench? it doesn't work :P
+dead at cursed-treants in forsaken swamp (island).. bash lagged to hell.. and wtf is wrong with entrench? it doesn't work <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 better get that ICQ on huh..
 
@@ -44,25 +44,26 @@ who was the first person you ICQ'd?
 
 <div class="post" data-post-id="20482" data-author="Weasel" data-date="2007-09-30T07:06:14+00:00" data-subject="">
 
-who was the first person you ICQ'd?[/quote:3cpvz6j4]
+> <strong>13 wrote:</strong>
+> who was the first person you ICQ'd?
 
 Not exactly a big who list at the time.. about 10 people, nearly all of whom were afk it seems.
 
-ICQ's for weaks.. solo with no ICQ and no channel - puts hairs on yer chest.   
+ICQ's for weaks.. solo with no ICQ and no channel - puts hairs on yer chest. 
 
-:twisted:
+<img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="20493" data-author="Atwell" data-date="2007-09-30T19:00:56+00:00" data-subject="">
 
-Entrench works fine, but it only lasts about 45 seconds, and there is no message when it wears off.  Keep track of when it falls so you don't get bash lagged.
+Entrench works fine, but it only lasts about 45 seconds, and there is no message when it wears off. Keep track of when it falls so you don't get bash lagged.
 
 </div>
 
 <div class="post" data-post-id="20499" data-author="Weasel" data-date="2007-09-30T22:38:07+00:00" data-subject="">
 
-hmm..  entrench  - Lvl: 28,  Learned  85%
+hmm.. entrench - Lvl: 28, Learned 85%
 
 but no matter how many times I spam entrench, this is what I get every time:
 
@@ -76,7 +77,7 @@ same message before or during fights (although not much chance to try it during 
 
 DOH! Ok now I know why, thanks to Someone.. I needed to be on point.. even though I was running solo. ..will have to add 'point' to my logon trigger. 
 
-Thanks Someone. :)
+Thanks Someone. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

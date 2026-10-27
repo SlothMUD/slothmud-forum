@@ -12,7 +12,7 @@ post_count: 2
 
 <div class="post" data-post-id="14210" data-author="Aprex" data-date="2006-09-21T21:43:29+00:00" data-subject="WTT">
 
-I would like to trade a Sable Gimlet for a Gold Pommeled Stiletto...  Just contact me in game on Aprex if interested.  Thanks
+I would like to trade a Sable Gimlet for a Gold Pommeled Stiletto... Just contact me in game on Aprex if interested. Thanks
 
 </div>
 

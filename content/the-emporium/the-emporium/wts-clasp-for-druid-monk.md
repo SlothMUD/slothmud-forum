@@ -22,7 +22,7 @@ Weight: 3, Value: 310050
 
 Clasp can only be attached to:
 
-   necklaces, amulets, and gorgets
+ necklaces, amulets, and gorgets
 
 Clasp imbues item with: CAN-SHAPESHIFT
 
@@ -30,7 +30,7 @@ Clasp gives the user +1 STR
 
 Clasp gives the user +5 ARMOR
 
-Only those who are at least master druids may use this item.  
+Only those who are at least master druids may use this item. 
 
 min 8 mil
 
@@ -46,13 +46,13 @@ Weight: 6, Value: 145250
 
 Clasp can only be attached to:
 
-   a diaphanous gown
+ a diaphanous gown
 
 Clasp is non-removable once attached.
 
-Clasp gives the user +2 HAND_DAMAGE
+Clasp gives the user +2 HAND\_DAMAGE
 
-Only those who are at least master monks may use this item.  
+Only those who are at least master monks may use this item. 
 
 min 8 mil
 
@@ -76,7 +76,7 @@ sorry Abone... (catch me online.. please)
 
 <div class="post" data-post-id="645" data-author="Eternity2" data-date="2004-06-12T01:26:29+00:00" data-subject="">
 
-8 mil for the vial :lol:
+8 mil for the vial <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -94,6 +94,6 @@ whats the stats o­n that gown and how hard is it to get and how hard is the via
 
 <div class="post" data-post-id="747" data-author="Eternity2" data-date="2004-06-16T11:50:12+00:00" data-subject="">
 
-Nice..trying to catch you Gul...will make exchange asap! :roll:
+Nice..trying to catch you Gul...will make exchange asap! <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>

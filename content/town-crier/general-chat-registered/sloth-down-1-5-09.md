@@ -18,11 +18,8 @@ logged in lagged out over and over...limbo seems to be the hot spot for those wh
 
 <div class="post" data-post-id="27628" data-author="java" data-date="2009-01-05T16:23:39+00:00" data-subject="RE: Sloth down 1-5-09">
 
-[quote:2wn1y6g7]
-
-logged in lagged out over and over
-
-[/quote:2wn1y6g7]
+> <strong>Quote:</strong>
+> logged in lagged out over and over
 
 I had the same happen. Came back later, ran to demonweb, and that has been it.
 

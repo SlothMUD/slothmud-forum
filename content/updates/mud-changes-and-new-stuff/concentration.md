@@ -14,7 +14,7 @@ post_count: 2
 
 Greetings, mortals.
 
-Concentration had firewind as prereq spell, remains of the days when we only had 4 classes.  Removed it.
+Concentration had firewind as prereq spell, remains of the days when we only had 4 classes. Removed it.
 
 Best regards.
 

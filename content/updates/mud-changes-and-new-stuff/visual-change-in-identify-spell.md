@@ -18,7 +18,7 @@ Added a missing carriage return to restricts in identify spell/scroll.
 
 Before :
 
-<8000rm 0wz 0sv>
+\<8000rm 0wz 0sv\>
 
 Ok.
 
@@ -34,17 +34,17 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: MANA by 10
+ Affects: MANA by 10
 
-    Affects: REGEN_MANA by 3
+ Affects: REGEN\_MANA by 3
 
 Only those who are at least experienced magic users, clerics, druids, or
 
-necromancers may use this item.<8000rm 0wz 0sv>
+necromancers may use this item.\<8000rm 0wz 0sv\>
 
 Now :
 
-<8000rm 0wz 0sv>
+\<8000rm 0wz 0sv\>
 
 Ok.
 
@@ -60,15 +60,15 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: MANA by 10
+ Affects: MANA by 10
 
-    Affects: REGEN_MANA by 3
+ Affects: REGEN\_MANA by 3
 
 Only those who are at least experienced magic users, clerics, druids, or
 
 necromancers may use this item.
 
-<8000rm 0wz 0sv>
+\<8000rm 0wz 0sv\>
 
 Now Mace can stop taunting me.
 

@@ -18,7 +18,7 @@ holy ring
 
 holy halo
 
--1.2 ac 1 con 1 max str
+\-1.2 ac 1 con 1 max str
 
 holy symbol
 

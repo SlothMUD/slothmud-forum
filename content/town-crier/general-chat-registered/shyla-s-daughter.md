@@ -12,9 +12,9 @@ post_count: 13
 
 <div class="post" data-post-id="31166" data-author="Shyla" data-date="2010-05-19T22:52:11+00:00" data-subject="shyla&#x27;s daughter">
 
-Little Elizabeth Grace Snavley entered the world on 5-17-10 weighing in at 7lbs 4 oz 20 inches long with a full head of black hair at 8:02 am.  She has one very MINOR glitch...she is tongue tied so will be getting her tongue cut tomorrow so she can properly extend it .  She is so very perfect.  My husband and daugther are at home and I am still stuck in the hospital.  I should be getting my gall bladder removed Fri and home by Sat if all goes well which it had better b/c I have been here since the 7th and just want to be home with my daugter and loving husband.  I probably won't be on as much as my life is taking a new direction, but I am not quitting just taking a child raising sabbatical.  I will be on from time to time as I can however, b/c I know I will want breaks at times.  I will keep you informed on how things are going.  Thanks all and I love you all
+Little Elizabeth Grace Snavley entered the world on 5-17-10 weighing in at 7lbs 4 oz 20 inches long with a full head of black hair at 8:02 am. She has one very MINOR glitch...she is tongue tied so will be getting her tongue cut tomorrow so she can properly extend it . She is so very perfect. My husband and daugther are at home and I am still stuck in the hospital. I should be getting my gall bladder removed Fri and home by Sat if all goes well which it had better b/c I have been here since the 7th and just want to be home with my daugter and loving husband. I probably won't be on as much as my life is taking a new direction, but I am not quitting just taking a child raising sabbatical. I will be on from time to time as I can however, b/c I know I will want breaks at times. I will keep you informed on how things are going. Thanks all and I love you all
 
-Deb aka shyla now with new mommy powers :)
+Deb aka shyla now with new mommy powers <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -36,7 +36,7 @@ Simon
 
 <div class="post" data-post-id="31168" data-author="Rynquald" data-date="2010-05-19T23:05:30+00:00" data-subject="">
 
-Congratulations Deb :)
+Congratulations Deb <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -50,7 +50,7 @@ If your time on sloth is anything to go on, it would seem your highly qualified 
 
 <div class="post" data-post-id="31171" data-author="Jag" data-date="2010-05-20T02:28:12+00:00" data-subject="">
 
-Congratulations, I am so happy for you.  I think back to when my second daughter was born, almost 16 years ago, and I'm a little jealous of all you have in front of you.  There is no joy like seeing a happy child.
+Congratulations, I am so happy for you. I think back to when my second daughter was born, almost 16 years ago, and I'm a little jealous of all you have in front of you. There is no joy like seeing a happy child.
 
 I'll look forward to "seeing" you occasionally, when you get a break, and hearing about your wonderful daughters.
 
@@ -74,7 +74,7 @@ Grats Deb!
 
 <div class="post" data-post-id="31185" data-author="*Splork*" data-date="2010-05-20T21:56:42+00:00" data-subject="">
 
-A huge congratulations Shyla,  extremely happy for you!
+A huge congratulations Shyla, extremely happy for you!
 
 Rick
 
@@ -82,7 +82,7 @@ Rick
 
 <div class="post" data-post-id="31191" data-author="smblackburn" data-date="2010-05-22T03:08:02+00:00" data-subject="">
 
-:D Congrats Deb.  Hopefully you sabbatical doesn't last as long as mine (about 4 years).  You all have an awesome time even through you don't think so at times.  Hope to see you soon. Need pictures.
+<img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> Congrats Deb. Hopefully you sabbatical doesn't last as long as mine (about 4 years). You all have an awesome time even through you don't think so at times. Hope to see you soon. Need pictures.
 
 Scott
 
@@ -90,7 +90,7 @@ Scott
 
 <div class="post" data-post-id="31192" data-author="Gladavar" data-date="2010-05-22T03:30:49+00:00" data-subject="">
 
-Best of wishes to you and your family Shyla.  Hope you can get home to your family very soon and your recovery is swift.
+Best of wishes to you and your family Shyla. Hope you can get home to your family very soon and your recovery is swift.
 
 Mike
 
@@ -110,7 +110,7 @@ Edd aka Kida
 
 Congrats Deb,
 
-Enjoy the newborn, they don't stay that small and cute for long.  Just remember, the first two years you teach them to walk and talk.  Then you spend the next 18 telling them to sit down and shut up.
+Enjoy the newborn, they don't stay that small and cute for long. Just remember, the first two years you teach them to walk and talk. Then you spend the next 18 telling them to sit down and shut up.
 
 Blessings to you and your new family,
 
@@ -124,7 +124,7 @@ Congratulations Deb and Fam.!!!
 
 You will be a great MOM. Enjoy your lastest Blessing. Hope to see
 
-you back soon. :)
+you back soon. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 John Sr,/Stab
 

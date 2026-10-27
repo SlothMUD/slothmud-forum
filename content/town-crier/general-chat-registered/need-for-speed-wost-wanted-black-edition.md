@@ -24,13 +24,13 @@ i have it for PS2 and really really like it
 
 <div class="post" data-post-id="9926" data-author="Ironwolf" data-date="2005-12-26T16:34:01+00:00" data-subject="">
 
-i got the regular one for xbox 360 :) :) it looks awesome on my hdtv :)
+i got the regular one for xbox 360 <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> it looks awesome on my hdtv <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="9927" data-author="Roadrunr" data-date="2005-12-26T19:58:18+00:00" data-subject="">
 
-Hey Weas, what do you have for a system and how does it run for you.  I was considering picking it up but I want to be sure I can run with most detail on.
+Hey Weas, what do you have for a system and how does it run for you. I was considering picking it up but I want to be sure I can run with most detail on.
 
 I've got a p4-2.8 and an ATi Radeon AiW 9600XT (or something like that)
 
@@ -40,11 +40,16 @@ Thanks.
 
 <div class="post" data-post-id="9951" data-author="Weasel" data-date="2005-12-31T16:14:10+00:00" data-subject="">
 
-Hey Weas, what do you have for a system and how does it run for you.  I was considering picking it up but I want to be sure I can run with most detail on.
-
-I've got a p4-2.8 and an ATi Radeon AiW 9600XT (or something like that)
-
-Thanks.[/quote:veemk98h]
+> <strong>Roadrunr wrote:</strong>
+> Hey Weas, what do you have for a system and how does it run for you. I was considering picking it up but I want to be sure I can run with most detail on.
+> 
+> 
+> 
+> I've got a p4-2.8 and an ATi Radeon AiW 9600XT (or something like that)
+> 
+> 
+> 
+> Thanks.
 
 No worries. Got a P4 2.66GHz with 1.5GB ram and a NVIDIA GeForce FX5200 and it runs pretty sweet on the default settings.
 
@@ -58,7 +63,7 @@ ahh here we go - from the help file -
 
 MINIMUM SYSTEM REQUIREMENTS
 
-===========================
+\===========================
 
 Windows 2000 Professional, Windows XP Professional, or Windows XP Home operating system
 

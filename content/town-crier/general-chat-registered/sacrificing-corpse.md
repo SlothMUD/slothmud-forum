@@ -22,9 +22,9 @@ I know I should keep those corpses in a safe place but I can't carry all of them
 
 <div class="post" data-post-id="13106" data-author="Roadrunr" data-date="2006-06-23T16:27:37+00:00" data-subject="">
 
-I like sacing corpses...moreso if it pisses off those dirty little necros and you  :twisted: 
+I like sacing corpses...moreso if it pisses off those dirty little necros and you <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-j/k, I can see your point.  I sac my own kills still out of habit though.
+j/k, I can see your point. I sac my own kills still out of habit though.
 
 </div>
 
@@ -54,17 +54,17 @@ Elsie
 
 <div class="post" data-post-id="13567" data-author="Mosaix" data-date="2006-07-26T17:44:28+00:00" data-subject="">
 
-Seriously you are an idiot Elsie.  Socially.
+Seriously you are an idiot Elsie. Socially.
 
 You made a statement on gossip proclaming your woes about corpses.
 
-Leaving corpses in the warrior guild is fair game to anyone, and frankly is a pretty poor place to leave them if you actually want them.   People need corpses for sac tables, supplication, whatever.
+Leaving corpses in the warrior guild is fair game to anyone, and frankly is a pretty poor place to leave them if you actually want them. People need corpses for sac tables, supplication, whatever.
 
 You then chose to call it a form of stealing at which point inbetween several rants from multiple players, you have singled me out for "stfu elsie"
 
 Elsie please do make some sense before you open your mouth.
 
-No-one owes you anything.  Stop crying all the time.
+No-one owes you anything. Stop crying all the time.
 
 Mosaix
 
@@ -82,7 +82,7 @@ You gossip-- 'I left them in warriors guild'
 
 Mosaix gossips-- 'shrug most will interepet that as fair game to take'
 
-***** gossips-- 'I am sorry - thought they were fighting there by acident, sorry elsie'
+\*\*\*\*\* gossips-- 'I am sorry - thought they were fighting there by acident, sorry elsie'
 
 Mosaix gossips-- 'hide them in a place no-one goes if you want them'
 
@@ -92,7 +92,7 @@ You gossip-- 'why would someone see a stack of 20 embalmed corpses and just assu
 
 Falca gossips-- 'you probably dont want to know, WHAT they did to forementioned corpses.'
 
-***** gossips-- 'i was leveling when i saw those corpses there...and I am no necrophile:P'
+\*\*\*\*\* gossips-- 'i was leveling when i saw those corpses there...and I am no necrophile:P'
 
 Falca gossips-- 'sac points!'
 
@@ -118,17 +118,17 @@ Falca gossips-- 'elsie vsegda takaya?'
 
 Zam gossips-- 'nod'
 
-***** gossips-- 'Elsie u had to leave a sign or a big note that those are YOUR CORPSES'
+\*\*\*\*\* gossips-- 'Elsie u had to leave a sign or a big note that those are YOUR CORPSES'
 
 Falca gossips-- 'ebanucco'
 
-Mosaix tells you 'its cool, honestly just done leave stuff on the ground, people do what they wish then :)'
+Mosaix tells you 'its cool, honestly just done leave stuff on the ground, people do what they wish then <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">'
 
 One gossips-- 'nda..negde bez mata:D'
 
 Falca gossips-- 'ponaehali tut'
 
-Kim gossips-- 'NIgde :)'
+Kim gossips-- 'NIgde <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">'
 
 Falca gossips-- 'sloth ne rezinoviy'
 
@@ -154,7 +154,7 @@ Falca gossips-- 'if you dont like it, you always can turn it off'
 
 Zam gossips-- 'shiver russian lemmings invasion'
 
-Mosaix gossips-- 'so if i gossip the f-word 400 times nothing will happen? :)'
+Mosaix gossips-- 'so if i gossip the f-word 400 times nothing will happen? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">'
 
 Falca gossips-- 'a to ish, policy emu podavay.. i cenzuru'
 
@@ -196,9 +196,10 @@ leaving corpses in a public room and expecting them to be there is reasonable? S
 
 <div class="post" data-post-id="13571" data-author="Elsie" data-date="2006-07-26T18:12:54+00:00" data-subject="">
 
-leaving corpses in a public room and expecting them to be there is reasonable? Stick 'em in a vault or something.[/quote:1zczg8z5]
+> <strong>Alberich wrote:</strong>
+> leaving corpses in a public room and expecting them to be there is reasonable? Stick 'em in a vault or something.
 
-no I think you misunderstand ... I thought my language, tone, questions  and objection to Mosiax were reasonable ... 
+no I think you misunderstand ... I thought my language, tone, questions and objection to Mosiax were reasonable ... 
 
 ... I fully accept that the warriors guild is not the best place to leave corpses ... we live and learn ... just because I wouldn't sac any corpse I hadn't killed dosen't mean everyone else would understand why this isn't necessarily the best thing to do.
 
@@ -224,15 +225,24 @@ Mosaix
 
 <div class="post" data-post-id="13574" data-author="Autolycos" data-date="2006-07-26T19:41:43+00:00" data-subject="">
 
-Falca gossips-- 'you know, this world is full of necrophiles'
-
-Falca gossips-- 'you probably dont want to know, WHAT they did to forementioned corpses.'
-
-Zam gossips-- 'shiver russian lemmings invasion'
-
-Truth gossips-- 'you at last can expect blizzard from me'
-
-Zam gossips-- 'force all t elsie stfu'[/quote:hm5qnvp2]
+> <strong>Elsie wrote:</strong>
+> Falca gossips-- 'you know, this world is full of necrophiles'
+> 
+> 
+> 
+> Falca gossips-- 'you probably dont want to know, WHAT they did to forementioned corpses.'
+> 
+> 
+> 
+> Zam gossips-- 'shiver russian lemmings invasion'
+> 
+> 
+> 
+> Truth gossips-- 'you at last can expect blizzard from me'
+> 
+> 
+> 
+> Zam gossips-- 'force all t elsie stfu'
 
 i'm sorry I missed the fun... but the highlights made me laff at least.
 
@@ -240,7 +250,7 @@ i'm sorry I missed the fun... but the highlights made me laff at least.
 
 <div class="post" data-post-id="13577" data-author="Medios" data-date="2006-07-26T20:44:34+00:00" data-subject="">
 
-Elsie stfu isnt as bad as you think.  Some of us pride ourselves on being told this daily *poke Autolycos*.  I think the discussion turned sour after you said its like stealing.  OK lets get this right.  I drop an item on the ground then leave.  Somone comes along and picks it up.  Now they are stealing?  This is truly an ignorant thing to say and thats why they said these words to you.  Nobody hates you or wants you to die, just shut up about the corpses :).
+Elsie stfu isnt as bad as you think. Some of us pride ourselves on being told this daily \*poke Autolycos\*. I think the discussion turned sour after you said its like stealing. OK lets get this right. I drop an item on the ground then leave. Somone comes along and picks it up. Now they are stealing? This is truly an ignorant thing to say and thats why they said these words to you. Nobody hates you or wants you to die, just shut up about the corpses <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">.
 
 DoW has vault rooms where we store corpses and in the past I have placed them in spots to keep, but obviously not in high traffic town rooms.
 
@@ -250,7 +260,7 @@ Mike
 
 <div class="post" data-post-id="13579" data-author="12345" data-date="2006-07-26T21:05:51+00:00" data-subject="">
 
-No, not everyone has a vault... however, you can count the number of times someone passes over the inn a month on one hand.  Someone finding a corpse there (other than a sparrow) would know almost immediately that they were being collected by someone.
+No, not everyone has a vault... however, you can count the number of times someone passes over the inn a month on one hand. Someone finding a corpse there (other than a sparrow) would know almost immediately that they were being collected by someone.
 
 STFU might have been offensive until Autolycos adopted it as a universal term meaning any of the following:
 
@@ -286,7 +296,7 @@ Hello Guinex!
 
 My supplicant hasn't been molested recently.
 
-<~Pirates~>!
+\<\~Pirates\~\>!
 
 I would like Elsie's phone number and/or personal address.
 
@@ -298,29 +308,30 @@ etc.
 
 <div class="post" data-post-id="13580" data-author="Autolycos" data-date="2006-07-26T21:23:44+00:00" data-subject="">
 
-I respect and value your opinion!
+> <strong>12345 wrote:</strong>
+> I respect and value your opinion!
+> 
+> I'm still here!
+> 
+> I'll have to give that some serious thought...
+> 
+> Why don't color codes work in gossip?
+> 
+> I'm not dead this particular second!
+> 
+> I'd like you better without fingers.
+> 
+> Please utilize the 'rent' feature at the earliest possible opportunity.
+> 
+> My supplicant hasn't been molested recently.
+> 
+> \<\~Pirates\~\>! etc.
 
-I'm still here!
+OMG <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> thats the funniest damn thing i have seen in a while... wow you put alot of thought into that too.. i applaud you especially the repeating (I'm still here) but my favorite by far is..
 
-I'll have to give that some serious thought...
+<em><strong>I'm not dead this particular second!</strong></em>
 
-Why don't color codes work in gossip?
-
-I'm not dead this particular second!
-
-I'd like you better without fingers.
-
-Please utilize the 'rent' feature at the earliest possible opportunity.
-
-My supplicant hasn't been molested recently.
-
-<~Pirates~>! etc.[/quote:2xrl2aqh]
-
-OMG  :lol:  thats the funniest damn thing i have seen in a while... wow you put alot of thought into that too.. i applaud you especially the repeating (I'm still here)  but my favorite by far is..
-
-[i:2xrl2aqh][b:2xrl2aqh]I'm not dead this particular second![/b:2xrl2aqh][/i:2xrl2aqh]
-
-thanks alot,  you made my day   :twisted:
+thanks alot, you made my day <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -332,23 +343,26 @@ Next time drop some eq, please :)
 
 <div class="post" data-post-id="13590" data-author="Avatar" data-date="2006-07-27T14:14:20+00:00" data-subject="Autlolycos-- &#x27;STFU  :(&#x27;">
 
-I initially agreed with Elsie that "stfu" is a pretty rude term, and feels like an insult.  The way it's used around this group though doesn't usually include the harsh edges of the term.  I guess like many situations the word - acronym - is used in a context.  In this situation, I believe they were not trying to insult Elsie, they were just trying to get her to stop talking.
+I initially agreed with Elsie that "stfu" is a pretty rude term, and feels like an insult. The way it's used around this group though doesn't usually include the harsh edges of the term. I guess like many situations the word - acronym - is used in a context. In this situation, I believe they were not trying to insult Elsie, they were just trying to get her to stop talking.
 
-Still, if people continue to use the STFU we should remember that it includes a curse word.  People may get offended if they feel that you're cursing at them.  
+Still, if people continue to use the STFU we should remember that it includes a curse word. People may get offended if they feel that you're cursing at them. 
 
-We should find a more polite way of communicating the:  "please, you sound silly.  stop talking before you make everyone here think you're a newbie.  the mud doesn't work the way you expect.  we're not going to change our behaviour just because we don't play the way you want us to.  besides, your request is silly and illogical.  figure out how to interact with other people before you try to change their behavior."
+We should find a more polite way of communicating the: "please, you sound silly. stop talking before you make everyone here think you're a newbie. the mud doesn't work the way you expect. we're not going to change our behaviour just because we don't play the way you want us to. besides, your request is silly and illogical. figure out how to interact with other people before you try to change their behavior."
 
 Elsie's first line in her paste of the gossip:
 
-[quote:136ra50s]You gossip-- 'who took my embalmed corpses from BH town?' [/quote:136ra50s]
+> <strong>Quote:</strong>
+> You gossip-- 'who took my embalmed corpses from BH town?'
 
-That's almost guaranteed to annoy people here because the tone is accusing people of stealing.  Elsie implies ownership of something that everyone here would regard as free items.  That's a very insulting way to start a conversation, and she shouldn't be surprised if people get offended.
+That's almost guaranteed to annoy people here because the tone is accusing people of stealing. Elsie implies ownership of something that everyone here would regard as free items. That's a very insulting way to start a conversation, and she shouldn't be surprised if people get offended.
 
-[quote:136ra50s]Elsie:  no I think you misunderstand ... I thought my language, tone, questions and objection to Mosiax were reasonable ... [/quote:136ra50s]
+> <strong>Quote:</strong>
+> Elsie: no I think you misunderstand ... I thought my language, tone, questions and objection to Mosiax were reasonable ...
 
-Here Elsie still doesn't realize that she insulted anyone, and doesn't understand why people don't agree with her.  Let me point out to Elsie that you're starting with an action that everyone here thinks is acceptable (using corpses in public areas however we want).  You later associate this activity with stealing, which in essence is accusing everyone who has done this in the past of being a thief.
+Here Elsie still doesn't realize that she insulted anyone, and doesn't understand why people don't agree with her. Let me point out to Elsie that you're starting with an action that everyone here thinks is acceptable (using corpses in public areas however we want). You later associate this activity with stealing, which in essence is accusing everyone who has done this in the past of being a thief.
 
-[quote:136ra50s]You gossip-- 'yes I can see that they'd want the sac points but its a bit like stealing'[/quote:136ra50s]
+> <strong>Quote:</strong>
+> You gossip-- 'yes I can see that they'd want the sac points but its a bit like stealing'
 
 Unless you can understand why Mosaix would at this point ask you to "stfu", you won't ever understand why the rest of us agrees with Mosaix.
 

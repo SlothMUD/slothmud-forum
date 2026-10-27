@@ -16,9 +16,9 @@ Help clan and help clan commands have been updated.
 
 Additions
 
-1) clan banking accounts, help clan bank
+1\) clan banking accounts, help clan bank
 
-2) two new clan ranks, general and treasurer, help clan and clan commands for more info
+2\) two new clan ranks, general and treasurer, help clan and clan commands for more info
 
 Clan costs:
 
@@ -58,7 +58,7 @@ Also, Brad came up with some pretty cool ideas regarding clan points and areas, 
 
 Clan clasps, shopkeepers, innkeepers, recall spots, etc are all kept in memory now which means we can do some pretty fun things with clans in the near future.
 
-Also, exciting new announcement, the clan clasp/object will have its very own wear location which has been determined by an online poll. The wear location will be named <emblem> and wear slot will be below the loaded spot.
+Also, exciting new announcement, the clan clasp/object will have its very own wear location which has been determined by an online poll. The wear location will be named \<emblem\> and wear slot will be below the loaded spot.
 
 Sloth doesnt want players to have to join clans to be on equal footing but after discussing and putting forth some effort lately in this area, I definately agree with Tox and feel some players will love concentrating on this area of game player, similar to that of those players who concentrate on honor system.
 

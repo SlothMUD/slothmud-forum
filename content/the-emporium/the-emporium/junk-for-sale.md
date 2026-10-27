@@ -12,7 +12,7 @@ post_count: 10
 
 <div class="post" data-post-id="13812" data-author="Diazz" data-date="2006-08-28T03:46:22+00:00" data-subject="Junk for sale">
 
-Sup, my prices are always negotiable.  
+Sup, my prices are always negotiable. 
 
 As in, post offers on this stuff, if I like the offer then its SOLD!
 
@@ -34,11 +34,11 @@ AC-apply is -0.7
 
 Can affect you as:
 
-    Affects: REGEN_HP by 2
+ Affects: REGEN\_HP by 2
 
 Only those who are at least experienced thieves, warriors, bards, or monks 
 
-may use this item.  
+may use this item. 
 
 You feel informed:
 
@@ -52,11 +52,11 @@ AC-apply is -1.0
 
 Can affect you as:
 
-    Affects: DEX by 1
+ Affects: DEX by 1
 
 Only those who are at least apprentice magic users and also adept warriors 
 
-may use this item.  
+may use this item. 
 
 You feel informed:
 
@@ -70,13 +70,13 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: MANA by 15
+ Affects: MANA by 15
 
-    Affects: INT by 1
+ Affects: INT by 1
 
 Only those who are at least experienced magic users and clerics may use 
 
-this item.  
+this item. 
 
 You feel informed:
 
@@ -90,13 +90,13 @@ Damage Dice is '3D5'
 
 Can affect you as:
 
-    Affects: STR by 1
+ Affects: STR by 1
 
-    Affects: DAMROLL by 2
+ Affects: DAMROLL by 2
 
 Only those who are at least supreme in all of the starting classes may use 
 
-this item.  
+this item. 
 
 You feel informed:
 
@@ -110,7 +110,7 @@ AC-apply is -2.4
 
 Only those who are at least experienced warriors or bards may use this 
 
-item.  
+item. 
 
 You feel informed:
 
@@ -122,9 +122,9 @@ Weight: 5, Value: 279000, Worn in: TAKE HOLD
 
 Can affect you as:
 
-    Affects: INT by 1
+ Affects: INT by 1
 
-    Affects: MANA by 15
+ Affects: MANA by 15
 
 Only those who are at least master magic users may use this item.
 
@@ -132,7 +132,7 @@ Only those who are at least master magic users may use this item.
 
 <div class="post" data-post-id="13813" data-author="Karna" data-date="2006-08-28T04:52:17+00:00" data-subject="durs hide shirt">
 
-I'll give you $1,000,000 for the durs hide shirt.  If interested, let me or Tripper know.
+I'll give you $1,000,000 for the durs hide shirt. If interested, let me or Tripper know.
 
 Karna
 
@@ -140,19 +140,19 @@ Karna
 
 <div class="post" data-post-id="13820" data-author="Diazz" data-date="2006-08-28T20:07:51+00:00" data-subject="">
 
-sure find me in game :)
+sure find me in game <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="13821" data-author="13" data-date="2006-08-28T23:02:45+00:00" data-subject="">
 
-nice katana :)
+nice katana <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="13823" data-author="Diazz" data-date="2006-08-28T23:46:46+00:00" data-subject="">
 
-Yeah I like the katana for death blows.  I may keep it actually...
+Yeah I like the katana for death blows. I may keep it actually...
 
 </div>
 
@@ -194,7 +194,7 @@ AC-apply is -0.3
 
 Can affect you as:
 
-    Affects: INT by 1
+ Affects: INT by 1
 
 Only those who are at least adept magic users may use this item.
 
@@ -210,9 +210,9 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: MANA by 15
+ Affects: MANA by 15
 
-    Affects: INT by 1
+ Affects: INT by 1
 
 Only those who are at least experienced magic users and clerics may use
 
@@ -230,9 +230,9 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: STR by 1
+ Affects: STR by 1
 
-    Affects: MANA by 5
+ Affects: MANA by 5
 
 Only those who are at least experienced magic users and also master clerics
 
@@ -250,7 +250,7 @@ AC-apply is -0.3
 
 Can affect you as:
 
-    Affects: HITPOINT by 5
+ Affects: HITPOINT by 5
 
 Only those who are at least experienced thieves, warriors, bards, or monks
 
@@ -266,9 +266,9 @@ Weight: 1, Value: 54000, Worn in: TAKE HOLD
 
 Can affect you as:
 
-    Affects: MANA by 7
+ Affects: MANA by 7
 
-    Affects: REGEN_MANA by 3
+ Affects: REGEN\_MANA by 3
 
 Only those who are primary master magic users may use this item.
 

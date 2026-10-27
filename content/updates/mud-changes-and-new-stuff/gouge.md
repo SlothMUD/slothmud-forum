@@ -16,6 +16,6 @@ New command for druids shapeshifted into hawk form:
 
 'Gouge'
 
-Try it out, enjoy :)
+Try it out, enjoy <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

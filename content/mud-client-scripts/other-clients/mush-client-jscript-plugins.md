@@ -14,7 +14,7 @@ post_count: 4
 
 Hey guys,
 
-I am not sure how many of you guys use Mush client or not, but I just wanted to post up that I have quite a few plugins, and I am willing to make them available if anyone is interested.  I will be cleaning them up over the next week or so, and I will start posting links for them.  Let me know what kind of stuff you are looking for, and I will try to post it :)
+I am not sure how many of you guys use Mush client or not, but I just wanted to post up that I have quite a few plugins, and I am willing to make them available if anyone is interested. I will be cleaning them up over the next week or so, and I will start posting links for them. Let me know what kind of stuff you are looking for, and I will try to post it <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Also, these plugins are Jscript.
 
@@ -22,7 +22,7 @@ Also, these plugins are Jscript.
 
 <div class="post" data-post-id="49" data-author="Avatar" data-date="2004-02-21T03:33:09+00:00" data-subject="Mushclient">
 
-Can you mix Jscript with VBscript?  I've been using VBS for my script file, not sure if I'd be able to add Jscript plug-ins.
+Can you mix Jscript with VBscript? I've been using VBS for my script file, not sure if I'd be able to add Jscript plug-ins.
 
 Mushclient is very nice btw, I like it.
 

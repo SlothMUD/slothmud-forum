@@ -12,9 +12,9 @@ post_count: 47
 
 <div class="post" data-post-id="23716" data-author="jezer" data-date="2008-04-14T00:26:20+00:00" data-subject="Hitting teh Big Mobs">
 
-Ok, all you _experts_... Iâ€™d like advice on how to solo some bigger/thicker/harder hitting mobsâ€¦ for instance Pheonix in Arbo and Mayor Galio. Yes, I know how to use a nightmareâ€¦ but more specifically to the pointâ€¦ Iâ€™m wondering how to get better effective use of my mana.
+Ok, all you \_experts\_... Iâ€™d like advice on how to solo some bigger/thicker/harder hitting mobsâ€¦ for instance Pheonix in Arbo and Mayor Galio. Yes, I know how to use a nightmareâ€¦ but more specifically to the pointâ€¦ Iâ€™m wondering how to get better effective use of my mana.
 
-Last  night I spent probably the greater part of 30-40mins killing Galio. At first I tried to run him like I do Solarian and Morrigan. I create slime molds, give them potions, stone them, aegis them, and cast demonic aura. I then shift into a mean tarantula and we do the deal in two runs.
+Last night I spent probably the greater part of 30-40mins killing Galio. At first I tried to run him like I do Solarian and Morrigan. I create slime molds, give them potions, stone them, aegis them, and cast demonic aura. I then shift into a mean tarantula and we do the deal in two runs.
 
 However when a mob like Galio dispatches my pets in the first few rounds, I wondered about the real benefit of wasting 200 mana and 2k coins on them.
 
@@ -30,9 +30,9 @@ For the recordâ€¦ I am NOT a cleric, I am NOT a mage, I am a 4x Caster, Drui
 
 I donâ€™t know the answers, but I do suspect that there needs to be a shift in strategy for me when a mob is more than two runs with pets. Donâ€™t tell me play a necro or whatever either. Stryx is mean, and you all know it! I just want to be the best that a druid my level can be.
 
-* Should I bother with debuffs... baring in mind at -8, gonna have to heal self a lot before they land.
+\* Should I bother with debuffs... baring in mind at -8, gonna have to heal self a lot before they land.
 
-* What spells should I have up? Is wraith a waste of time for big mobs? etc
+\* What spells should I have up? Is wraith a waste of time for big mobs? etc
 
 Ok, Fire at will! (no Aaronâ€¦ Iâ€™m not inviting you to abuse Leaf, more than what you already do.)
 
@@ -62,27 +62,27 @@ Edit:As you fight bigger and bigger mobs, and get more mana, you will start runn
 
 Thanks Ryn, it's nice to get specific information on the questions.
 
->Debuffs
+\>Debuffs
 
 I'll try fog and damn tonight and see how they go. Shield of Thorns is practically the "only" redeeming feature of being prime druid, besides the nice regen. If a mob is hitting me less, it has less chance to break, and this means I could possibly stay in 3-5 rounds more per round, if it's up. Will give this a shot tonight. I rate Shield of Thorns one of the best spells in game... Pity it breaks so easy.
 
 I remember trying to dispel Solarian before runs... It landed but seem to have little to no consequence on how long the fight took. I didn't bother after then... Maybe nothing good came off him. 
 
->Drop The Pets
+\>Drop The Pets
 
 Nod, thought this might be the case for these mobs.
 
->Blast/No Blast balance
+\>Blast/No Blast balance
 
 So there is a balance, and it's best gauged by how long you stay in battle. Good to know. I'm in for about 6-8 rounds on galio. I'm still really unsure at what ratio I should be blasting him. It probably changes per mob, but gauging that will come with experience that will come with time...
 
->What spells to have up
+\>What spells to have up
 
 I dropped the wraith, good move on gailo... Greater Fluid... pointless when shield is up. Haste... for the win. Aegis and Stone... givens.
 
->Keep a stopwatch with you
+\>Keep a stopwatch with you
 
-Swatch or Casio? :twisted:
+Swatch or Casio? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 Hmm, be nice to hear from king strides or stryx...
 
@@ -90,9 +90,10 @@ Hmm, be nice to hear from king strides or stryx...
 
 <div class="post" data-post-id="23719" data-author="brady" data-date="2008-04-14T02:03:31+00:00" data-subject="">
 
-I remember trying to dispel Solarian before runs... It landed but seem to have little to no consequence on how long the fight took. I didn't bother after then... Maybe nothing good came off him. [/quote:3nw6d53v]
+> <strong>jezer wrote:</strong>
+> I remember trying to dispel Solarian before runs... It landed but seem to have little to no consequence on how long the fight took. I didn't bother after then... Maybe nothing good came off him.
 
-The Solarian has a spellshield that won't dispel fully with a single casting.  Use something like {e;disp solarian;w;e;disp solarion, etc} until there is a list of dispelled spells (whether you can tell what they are or not).  You have a better shot of keeping mobs friendly that way.
+The Solarian has a spellshield that won't dispel fully with a single casting. Use something like {e;disp solarian;w;e;disp solarion, etc} until there is a list of dispelled spells (whether you can tell what they are or not). You have a better shot of keeping mobs friendly that way.
 
 </div>
 
@@ -132,11 +133,9 @@ V = Very Hard
 
 I = Miss
 
-Mayor Galio (With Haste - 5 Attacks - Tarantula - -10 - No Wraith)					
+Mayor Galio (With Haste - 5 Attacks - Tarantula - -10 - No Wraith) 
 
-					
-
-B	M	 E	 V	 I	
+B	M E V I	
 
 0	22	4	0	4	
 
@@ -182,9 +181,9 @@ Jezer did I read right ... You do not user Greater Fluid if u have shield of tho
 
 Unless something have changed, I was informed that thorns and fluid stack 
 
-with each other.  If it did not, then thorns would be one of the biggest waste
+with each other. If it did not, then thorns would be one of the biggest waste
 
-as a prime spell only.  Since anyone that has druid in 2-4 can cast fluid.
+as a prime spell only. Since anyone that has druid in 2-4 can cast fluid.
 
 </div>
 
@@ -196,23 +195,26 @@ I use greater fluid almost perm... but sometimes I'm scratching my head why. I d
 
 <div class="post" data-post-id="23729" data-author="Autolycos" data-date="2008-04-14T14:38:31+00:00" data-subject="">
 
-if sloth was a bit more free with information.[/quote:1nnfmhmr]
+> <strong>jezer wrote:</strong>
+> if sloth was a bit more free with information.
 
-The main reason sloth is not free with information is due to that most players now days are more familiar with calculations and variables then the past coders were.  If they made info available, everyone would pick out the inconsistencies and bad coding.
+The main reason sloth is not free with information is due to that most players now days are more familiar with calculations and variables then the past coders were. If they made info available, everyone would pick out the inconsistencies and bad coding.
 
 </div>
 
 <div class="post" data-post-id="23731" data-author="Vixn" data-date="2008-04-14T18:36:25+00:00" data-subject="">
 
-If they made info available, everyone would pick out the inconsistencies and bad coding.[/quote:1a99s50u]
+> <strong>Autolycos wrote:</strong>
+> If they made info available, everyone would pick out the inconsistencies and bad coding.
 
-ROGL!  :twisted:
+ROGL! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23734" data-author="*juggleblood*" data-date="2008-04-14T23:36:03+00:00" data-subject="">
 
-galio has damn good saves, sometimes you need 10x to land a damnation on him[/quote:639ag09n]
+> <strong>Evergreen wrote:</strong>
+> galio has damn good saves, sometimes you need 10x to land a damnation on him
 
 Heh, try dispelling him first. He's prolly just got prot from evil up, like the lammasus and semielves in elemental school. I always get the damn on one try after a dispel.
 
@@ -224,31 +226,35 @@ Galio is a pretty weak chop mob. You should be able to debuff him easily after u
 
 It could be quite a laugh, to run some tests on some spells to gauge there effectiveness... A bit like "myth busters" on sloth. Yeah, people been doing it for ages I guess... but would be cool to start like a journal or newspaper on the crier about them.
 
-Need to find like a practice dummy type mob, cast faerie fly on it like 50 times and then see there is any effect, and write a satirical post back with the results. Sounds right up my alley! :twisted:
+Need to find like a practice dummy type mob, cast faerie fly on it like 50 times and then see there is any effect, and write a satirical post back with the results. Sounds right up my alley! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 I swear some of the lesser used spells are probably completely broke. Things do get broken through obscurity. 
 
-But then again, some players have tried to warn me off my little "activist" type tendency in case things get nerfed or broken or changed. Yeap, some people are serious... but I've never been much of a "people pleaser" :twisted: 
+But then again, some players have tried to warn me off my little "activist" type tendency in case things get nerfed or broken or changed. Yeap, some people are serious... but I've never been much of a "people pleaser" <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 I might try faerie fly tonight and write a post, it caught my eye last night... cause I had to cast it 20 times to get 2 to stick on galio last night. (I bet he was a goal keeper in another life.)
 
-I also tried that fog spell and it disappeared in like two ticks, and that's about how long it takes to shift tarantula when rapid shift doesn't work! :twisted: and I'm thinking... debuffs are such a group thing... be cool if some were a little more for solo. Two spells to test straight up I guess.
+I also tried that fog spell and it disappeared in like two ticks, and that's about how long it takes to shift tarantula when rapid shift doesn't work! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> and I'm thinking... debuffs are such a group thing... be cool if some were a little more for solo. Two spells to test straight up I guess.
 
 </div>
 
 <div class="post" data-post-id="23736" data-author="jezer" data-date="2008-04-14T23:53:36+00:00" data-subject="">
 
-Heh, try dispelling him first. He's prolly just got prot from evil up, like the lammasus and semielves in elemental school. I always get the damn on one try after a dispel.
+> <strong>juggleblood wrote:</strong>
+> Heh, try dispelling him first. He's prolly just got prot from evil up, like the lammasus and semielves in elemental school. I always get the damn on one try after a dispel.
+> 
+> 
+> 
+> Galio is a pretty weak chop mob. You should be able to debuff him easily after u dispel and damn him. Then shift and chop him down with a rabbit healing u. Might be 1 run.
 
-Galio is a pretty weak chop mob. You should be able to debuff him easily after u dispel and damn him. Then shift and chop him down with a rabbit healing u. Might be 1 run.[/quote:1r800w9p]
-
-Hmm, thanks, I'll give this a shot too... is his sanct perm? Cause if I could have dispelled it, I really have been a doofus haven't I  :twisted:  :oops:
+Hmm, thanks, I'll give this a shot too... is his sanct perm? Cause if I could have dispelled it, I really have been a doofus haven't I <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_redface.svg" alt=":oops:" title=":oops:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23737" data-author="Zukt" data-date="2008-04-14T23:54:43+00:00" data-subject="">
 
-I use greater fluid almost perm... but sometimes I'm scratching my head why. I don't see much difference. It would be the first thing I'd want to know about, if sloth was a bit more free with information.[/quote:2sqc7cf5]
+> <strong>jezer wrote:</strong>
+> I use greater fluid almost perm... but sometimes I'm scratching my head why. I don't see much difference. It would be the first thing I'd want to know about, if sloth was a bit more free with information.
 
 Greater fluidity is 20% reduced damage from hits. Its a pretty major difference.
 
@@ -256,21 +262,33 @@ Greater fluidity is 20% reduced damage from hits. Its a pretty major difference.
 
 <div class="post" data-post-id="23738" data-author="jezer" data-date="2008-04-14T23:57:09+00:00" data-subject="">
 
-I use greater fluid almost perm... but sometimes I'm scratching my head why. I don't see much difference. It would be the first thing I'd want to know about, if sloth was a bit more free with information.[/quote:2ebbnwdo]
+> <strong>Zukt wrote:</strong>
+> > <strong>jezer wrote:</strong>
+> > I use greater fluid almost perm... but sometimes I'm scratching my head why. I don't see much difference. It would be the first thing I'd want to know about, if sloth was a bit more free with information.
+> 
+> 
+> 
+> Greater fluidity is 20% reduced damage from hits. Its a pretty major difference.
 
-Greater fluidity is 20% reduced damage from hits. Its a pretty major difference.[/quote:2ebbnwdo]
-
-*scratching head* I'll try look harder for that difference... it was wearing off when I was fighting mayor, and I saw no noticeable increase in damage... Looks like I have a 3rd spell to test.
+\*scratching head\* I'll try look harder for that difference... it was wearing off when I was fighting mayor, and I saw no noticeable increase in damage... Looks like I have a 3rd spell to test.
 
 </div>
 
 <div class="post" data-post-id="23746" data-author="jezer" data-date="2008-04-15T08:29:39+00:00" data-subject="">
 
-galio has damn good saves, sometimes you need 10x to land a damnation on him[/quote:vkg52ncr]
-
-Heh, try dispelling him first. He's prolly just got prot from evil up, like the lammasus and semielves in elemental school. I always get the damn on one try after a dispel.
-
-Galio is a pretty weak chop mob. You should be able to debuff him easily after u dispel and damn him. Then shift and chop him down with a rabbit healing u. Might be 1 run.[/quote:vkg52ncr]
+> <strong>juggleblood wrote:</strong>
+> > <strong>Evergreen wrote:</strong>
+> > galio has damn good saves, sometimes you need 10x to land a damnation on him
+> 
+> 
+> 
+> 
+> 
+> Heh, try dispelling him first. He's prolly just got prot from evil up, like the lammasus and semielves in elemental school. I always get the damn on one try after a dispel.
+> 
+> 
+> 
+> Galio is a pretty weak chop mob. You should be able to debuff him easily after u dispel and damn him. Then shift and chop him down with a rabbit healing u. Might be 1 run.
 
 Masterful dispels do nothing to Galio. Damn went awry. Maybe your just lucky.
 
@@ -288,13 +306,14 @@ Druid-prime spell.
 
 Nodz I'm not sure the exact % for Shield of Thorns, but I believe it does 
 
-stack.  So this does help you Jezer!
+stack. So this does help you Jezer!
 
 </div>
 
 <div class="post" data-post-id="23766" data-author="*juggleblood*" data-date="2008-04-15T22:21:57+00:00" data-subject="">
 
-Masterful dispels do nothing to Galio. Damn went awry. Maybe your just lucky.[/quote:1t9go8ui]
+> <strong>jezer wrote:</strong>
+> Masterful dispels do nothing to Galio. Damn went awry. Maybe your just lucky.
 
 OOps. You're right, it's not dispellable.
 
@@ -304,21 +323,22 @@ OOps. You're right, it's not dispellable.
 
 I havent had much time lately to play but I am still voting.
 
-So you think we are going to give all the secrets away?  Be happy that you can 4 run him :P
+So you think we are going to give all the secrets away? Be happy that you can 4 run him <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23775" data-author="jezer" data-date="2008-04-16T02:47:34+00:00" data-subject="">
 
-So you think we are going to give all the secrets away?  Be happy that you can 4 run him :P[/quote:2mibbgu4]
+> <strong>Medios wrote:</strong>
+> So you think we are going to give all the secrets away? Be happy that you can 4 run him <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 No I don't expect the DoW Clan to help me with info at all. My experience with DoW has been 50% (Haha your a n00b you suck) 40% (Indifference) and 10% help when I needed it!
 
-At least with the pirates, everyone sucks, and everyone's a n00b, but they help you anyways :twisted:
+At least with the pirates, everyone sucks, and everyone's a n00b, but they help you anyways <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
-Feel free to work to increase the 10%.  :) So, I'm still a n00b avatar, and I don't know everything, don't laugh at me! help me! So your clan has a lot of elite players... get over it!
+Feel free to work to increase the 10%. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> So, I'm still a n00b avatar, and I don't know everything, don't laugh at me! help me! So your clan has a lot of elite players... get over it!
 
-I've been hitting polar bear in Dark Chasm, a fraction easier than mayor for me. I seen cicada, a mid avatar practically kill it one run. I think the secret is necro ;) Definitely more than -10ac would help. 
+I've been hitting polar bear in Dark Chasm, a fraction easier than mayor for me. I seen cicada, a mid avatar practically kill it one run. I think the secret is necro <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom"> Definitely more than -10ac would help. 
 
 I've heard avatar warriors talk about mayor being two runs... I'm not at the height of my powers yet...
 
@@ -326,37 +346,37 @@ I've heard avatar warriors talk about mayor being two runs... I'm not at the hei
 
 <div class="post" data-post-id="23780" data-author="brady" data-date="2008-04-16T13:04:10+00:00" data-subject="">
 
-At least with the pirates, everyone sucks, and everyone's a n00b, but they help you anyways :twisted:
+> <strong>jezer wrote:</strong>
+> At least with the pirates, everyone sucks, and everyone's a n00b, but they help you anyways <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
-[/quote:3egxlchs]
-
-Oh yeah?  I wouldn't expect much help now, Corky.
+Oh yeah? I wouldn't expect much help now, Corky.
 
 </div>
 
 <div class="post" data-post-id="23781" data-author="jezer" data-date="2008-04-16T13:29:40+00:00" data-subject="">
 
-Hmm, I just realised they are two ways to take my remark, and you took it the wrong way :) Oh, man, I dug myself a hole there didn't I.  :oops:
+Hmm, I just realised they are two ways to take my remark, and you took it the wrong way <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> Oh, man, I dug myself a hole there didn't I. <img src="/images/smilies/icon_redface.svg" alt=":oops:" title=":oops:" width="15" height="15" class="smiley nozoom">
 
-I meant the pirates think everyone ELSE is a noob, not directly the pirates themselves. And it was all in jest... bah... forget it...  :oops: 
+I meant the pirates think everyone ELSE is a noob, not directly the pirates themselves. And it was all in jest... bah... forget it... <img src="/images/smilies/icon_redface.svg" alt=":oops:" title=":oops:" width="15" height="15" class="smiley nozoom"> 
 
-You play with fire, you get burned...  :oops: I'm sorry. How embarrassing...
+You play with fire, you get burned... <img src="/images/smilies/icon_redface.svg" alt=":oops:" title=":oops:" width="15" height="15" class="smiley nozoom"> I'm sorry. How embarrassing...
 
 </div>
 
 <div class="post" data-post-id="23787" data-author="Avatar" data-date="2008-04-16T17:27:49+00:00" data-subject="Helping others">
 
-[quote:2qayhsr5]My experience with DoW has been 50% (Haha your a n00b you suck) 40% (Indifference) and 10% help when I needed it! [/quote:2qayhsr5]
+> <strong>Quote:</strong>
+> My experience with DoW has been 50% (Haha your a n00b you suck) 40% (Indifference) and 10% help when I needed it!
 
-I've been pretty absent lately, so I'm not taking this personally.  I think I can speak for a lot of the long-term players who have been here awhile...it's fun to see someone trying to learn.  
+I've been pretty absent lately, so I'm not taking this personally. I think I can speak for a lot of the long-term players who have been here awhile...it's fun to see someone trying to learn. 
 
-I think we have a mis-understanding when you say "10% help when you needed it"...  If you're dead, and Galio has looted your corpse, I expect a lot of people would come to help.  That number, when you actually NEED help, I hope is closer to 80%.  On the other hand, when you're trying diferent tactics to solo Galio but you're not dying, then you don't really NEED help.  You're doing what you're supposed to do.
+I think we have a mis-understanding when you say "10% help when you needed it"... If you're dead, and Galio has looted your corpse, I expect a lot of people would come to help. That number, when you actually NEED help, I hope is closer to 80%. On the other hand, when you're trying diferent tactics to solo Galio but you're not dying, then you don't really NEED help. You're doing what you're supposed to do.
 
-I guess it comes down to telling someone how to hit one mob, vs teaching someone how to think about things for yourself.  If you tried to cycle Galio without even attempting to dispel him the first run, just assuming that he's permalit without testing it, we'll all call you a newbie and hope you learn from it.  
+I guess it comes down to telling someone how to hit one mob, vs teaching someone how to think about things for yourself. If you tried to cycle Galio without even attempting to dispel him the first run, just assuming that he's permalit without testing it, we'll all call you a newbie and hope you learn from it. 
 
-These things you're learning now are a lot more valuable than someone just saying 'for Galio, you do step 1, then step 2, then step 3'.  If you learn your character and your abilities, you can come up with the steps by yourself much better than we can guess your abilities.
+These things you're learning now are a lot more valuable than someone just saying 'for Galio, you do step 1, then step 2, then step 3'. If you learn your character and your abilities, you can come up with the steps by yourself much better than we can guess your abilities.
 
-Most of us don't remember the damage that a Tarantula blast does, and how much mana it costs, or the damage he does just fighting.  You have to balance those out and figure out whether it's better to blast or just fight and use the mana for heals.  These kinds of decisions change for each mob, and change as you gain each level or put on another bit of new eq.
+Most of us don't remember the damage that a Tarantula blast does, and how much mana it costs, or the damage he does just fighting. You have to balance those out and figure out whether it's better to blast or just fight and use the mana for heals. These kinds of decisions change for each mob, and change as you gain each level or put on another bit of new eq.
 
 Charles
 
@@ -364,13 +384,18 @@ Charles
 
 <div class="post" data-post-id="23792" data-author="Yinao" data-date="2008-04-16T19:06:20+00:00" data-subject="">
 
-Hmm, I just realised they are two ways to take my remark, and you took it the wrong way :) Oh, man, I dug myself a hole there didn't I.  :oops:
+> <strong>jezer wrote:</strong>
+> Hmm, I just realised they are two ways to take my remark, and you took it the wrong way <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> Oh, man, I dug myself a hole there didn't I. <img src="/images/smilies/icon_redface.svg" alt=":oops:" title=":oops:" width="15" height="15" class="smiley nozoom">
+> 
+> 
+> 
+> I meant the pirates think everyone ELSE is a noob, not directly the pirates themselves. And it was all in jest... bah... forget it... <img src="/images/smilies/icon_redface.svg" alt=":oops:" title=":oops:" width="15" height="15" class="smiley nozoom"> 
+> 
+> 
+> 
+> You play with fire, you get burned... <img src="/images/smilies/icon_redface.svg" alt=":oops:" title=":oops:" width="15" height="15" class="smiley nozoom"> I'm sorry. How embarrassing...
 
-I meant the pirates think everyone ELSE is a noob, not directly the pirates themselves. And it was all in jest... bah... forget it...  :oops: 
-
-You play with fire, you get burned...  :oops: I'm sorry. How embarrassing...[/quote:gf3llm1r]
-
-Dont worry Jezer, Nancy just has a short fuse is all, rub her belly and she'll be on your good side again :)
+Dont worry Jezer, Nancy just has a short fuse is all, rub her belly and she'll be on your good side again <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -404,15 +429,15 @@ Not too many other people Ive seen solo djab there ryn, I Would call you one of 
 
 <div class="post" data-post-id="23814" data-author="jezer" data-date="2008-04-17T03:49:31+00:00" data-subject="">
 
-Hehe, I'll be checking sloth blog to see how many avatars die at djab in the next few days, trying to figure out if they are as good as ryn.  :D
+Hehe, I'll be checking sloth blog to see how many avatars die at djab in the next few days, trying to figure out if they are as good as ryn. <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
-$5 says Yinao has a shot  :twisted:
+$5 says Yinao has a shot <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23815" data-author="Rynquald" data-date="2008-04-17T04:38:30+00:00" data-subject="">
 
-Yinao's already done Djab :)
+Yinao's already done Djab <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Thanks btw Alias.
 
@@ -420,7 +445,7 @@ Thanks btw Alias.
 
 <div class="post" data-post-id="23816" data-author="jezer" data-date="2008-04-17T04:51:38+00:00" data-subject="">
 
-Has Yinao done eternal flame yet Ryn? It was just a couple of runs for you right? :lol:  :wink:
+Has Yinao done eternal flame yet Ryn? It was just a couple of runs for you right? <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -428,7 +453,7 @@ Has Yinao done eternal flame yet Ryn? It was just a couple of runs for you right
 
 Neither Yin nor me have soloed flame, but we two manned it once.
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 Edit: Couldn't resist looking this up. Yin wasn't there for the killing blow, so we get to see solo xp:
 
@@ -444,9 +469,9 @@ Everything The eternal flame was carrying suddenly drops to the ground.
 
 <div class="post" data-post-id="23837" data-author="Medios" data-date="2008-04-18T00:59:05+00:00" data-subject="">
 
-First of all, just because DoW doesn't pop your spellbooks or tell you what eq you need and then help you pop it doesn't mean were all a bunch of dicks.  I spend quite a bit of time rescuing people that I could otherwise be using to horde these hidden coin runs.  I refuse to show everyone every step of the way.  Like Ryn says if your looted or need a cr I am sure you can find someone.  If your looking for someone to hold your hand or wipe your ass, I am sorry for you.
+First of all, just because DoW doesn't pop your spellbooks or tell you what eq you need and then help you pop it doesn't mean were all a bunch of dicks. I spend quite a bit of time rescuing people that I could otherwise be using to horde these hidden coin runs. I refuse to show everyone every step of the way. Like Ryn says if your looted or need a cr I am sure you can find someone. If your looking for someone to hold your hand or wipe your ass, I am sorry for you.
 
-Secondly what do we owe you?  The game is meant for you to learn.  Not for us to tell you.  I know a bushel of avatars that suck.  Why you ask?  Because they run xp in dmount or they beg Shyla to pop the sbs and they have no idea where anything is because their clan runs to eq mobs for them.  So don't talk trash about my clan that knows the runs, and works for what they got.  There is a reason were called The Dogs of War and not the Pussys of Thordfalen.
+Secondly what do we owe you? The game is meant for you to learn. Not for us to tell you. I know a bushel of avatars that suck. Why you ask? Because they run xp in dmount or they beg Shyla to pop the sbs and they have no idea where anything is because their clan runs to eq mobs for them. So don't talk trash about my clan that knows the runs, and works for what they got. There is a reason were called The Dogs of War and not the Pussys of Thordfalen.
 
 </div>
 
@@ -466,13 +491,13 @@ Not many blocking mobs will block ferret, and very, very few block-aggro mobs wi
 
 <div class="post" data-post-id="23850" data-author="Stryx" data-date="2008-04-18T12:03:51+00:00" data-subject="">
 
-[quote:j831la3c]No I don't expect the DoW Clan to help me with info at all. My experience with DoW has been 50% (Haha your a n00b you suck) 40% (Indifference) and 10% help when I needed it! 
-
-[/quote:j831la3c]
+> <strong>Quote:</strong>
+> No I don't expect the DoW Clan to help me with info at all. My experience with DoW has been 50% (Haha your a n00b you suck) 40% (Indifference) and 10% help when I needed it!
 
 It's a pity Cocaine has been playing WoW. I'm sure he would have taken you under his wing.
 
-[quote:j831la3c] because I want to learn and be the best that I can be[/quote:j831la3c]
+> <strong>Quote:</strong>
+> because I want to learn and be the best that I can be
 
 Like what Medios is saying... do you want to learn... or do you want to be taught. To me theres a big difference. Even myself, being in DoW, was encouraged to learn for myself which I am more grateful for, than being given all the eq i needed from clan members.
 
@@ -482,27 +507,32 @@ My advice to you is to get 5x40, mana eq and ac shift eq, then go out and 'learn
 
 <div class="post" data-post-id="23853" data-author="Yinao" data-date="2008-04-18T13:53:22+00:00" data-subject="">
 
-[quote:11vy8fll]A thick beam of frost sprays forth from your body, hitting The eternal flame square in the chest.
+> <strong>Quote:</strong>
+> A thick beam of frost sprays forth from your body, hitting The eternal flame square in the chest.
+> 
+> The eternal flame has been banished to the ethereal plane!
+> 
+> You received 143495184 experience points.
+> 
+> Everything The eternal flame was carrying suddenly drops to the ground.
 
-The eternal flame has been banished to the ethereal plane!
+Ahh, now those were the good ol' days. We gotta do it again sometime on nocap <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-You received 143495184 experience points.
+> <strong>Quote:</strong>
+> Last night I was shifted ferret, and tried to get past a blocking mob. The Tarantula in Gosseriuertjertj-on-the-somethingarather.
+> 
+> 
+> 
+> It attacked and killed me in a round. Ok, lessoned learned, block mobs block ferrets too... How can I get past these mobs safely? Will flee direction nearly always work...? Can the flee fail, and it will kill me anyway, or is this the exception to the rule?
 
-Everything The eternal flame was carrying suddenly drops to the ground.[/quote:11vy8fll]
+I found that mobs that block and such in this manner normally wouldnt if you try to flee passed possibly or hunt passed normally works too. If neither work just have a good flee hand, when you solo like me and ryn you'll learn to type flee pretty fast <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom"> Sometimes probably too fast for your own good lol
 
-Ahh, now those were the good ol' days. We gotta do it again sometime on nocap :)
-
-[quote:11vy8fll]Last night I was shifted ferret, and tried to get past a blocking mob. The Tarantula in Gosseriuertjertj-on-the-somethingarather.
-
-It attacked and killed me in a round. Ok, lessoned learned, block mobs block ferrets too... How can I get past these mobs safely? Will flee direction nearly always work...? Can the flee fail, and it will kill me anyway, or is this the exception to the rule?[/quote:11vy8fll]
-
-I found that mobs that block and such in this manner normally wouldnt if you try to flee passed possibly or hunt passed normally works too. If neither work just have a good flee hand, when you solo like me and ryn you'll learn to type flee pretty fast  :P Sometimes probably too fast for your own good lol
-
-[quote:11vy8fll]Has Yinao done eternal flame yet Ryn? It was just a couple of runs for you right? Laughing Wink[/quote:11vy8fll] 
+> <strong>Quote:</strong>
+> Has Yinao done eternal flame yet Ryn? It was just a couple of runs for you right? Laughing Wink
 
 However I haven't tried the eternal flame solo, I do beleive my biggest solo mob was probably Ithiqua or Guardian Daemon xp wise anyways, most difficult was probably lyme chicken unshifted. Alot of those solos came from learning and dying plenty of times however, and beleive it or not Mike saved me a few of those times I'm sure.
 
-Solo'ings fun but its difficult unless your at 5x40 or alot closer to it, I don't think I started soloing till about when I got the seadragon form, it had decent ac fairly decent blasting, and quite a bit of hp to take some damage, now It wasnt -12 but it was -11 and almost did as good, but now I wouldnt go back ever. I'm not telling you dont do it now bc its always fun to see what you could kill and how you could kill it, but it deffinately gets easier if your char is at their prime :)
+Solo'ings fun but its difficult unless your at 5x40 or alot closer to it, I don't think I started soloing till about when I got the seadragon form, it had decent ac fairly decent blasting, and quite a bit of hp to take some damage, now It wasnt -12 but it was -11 and almost did as good, but now I wouldnt go back ever. I'm not telling you dont do it now bc its always fun to see what you could kill and how you could kill it, but it deffinately gets easier if your char is at their prime <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Hope this helps
 
@@ -520,7 +550,7 @@ heh.. I tried to solo eternal flame ..bad move.
 
 It was 197 mil when I soloed it... mud must have been up longer.
 
-Took me 8 runs though, ouch!  Also, it was during a house of major frost.  Always good to make sure the stars shine in favor of your epic battles :)
+Took me 8 runs though, ouch! Also, it was during a house of major frost. Always good to make sure the stars shine in favor of your epic battles <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -552,7 +582,7 @@ in the case of your previous group, u and the tank split dam....necro debuff and
 
 <div class="post" data-post-id="23997" data-author="Weasel" data-date="2008-04-24T02:35:51+00:00" data-subject="">
 
-'supposed to' being the operative words..  :wink:
+'supposed to' being the operative words.. <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -570,13 +600,14 @@ seriously, just learn to play instead of spamming the board with your retarded c
 
 <div class="post" data-post-id="24004" data-author="brady" data-date="2008-04-24T03:27:08+00:00" data-subject="">
 
-:twisted:
+<img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="24006" data-author="jezer" data-date="2008-04-24T03:40:57+00:00" data-subject="">
 
-seriously, just learn to play instead of spamming the board with your retarded crap[/quote:2fc4143u]
+> <strong>Gimlet wrote:</strong>
+> seriously, just learn to play instead of spamming the board with your retarded crap
 
 I'm already well aware of how a few people like yourself feel...
 

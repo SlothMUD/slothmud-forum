@@ -12,89 +12,89 @@ post_count: 13
 
 <div class="post" data-post-id="39741" data-author="Gorka" data-date="2021-06-22T07:36:30+00:00" data-subject="Conquest Points">
 
-"There are just shy of 300 million Conquest Points available  in the game, some harder to obtain than others."
+"There are just shy of 300 million Conquest Points available in the game, some harder to obtain than others."
 
 Starting Costs (Costs grow with each purchase...)
 
 XP / Coins / Conquest Points
 
-1) +1 Max Strength - 1 of 2 - 73.50 B / 36.75 M / 3.67 M
+1\) +1 Max Strength - 1 of 2 - 73.50 B / 36.75 M / 3.67 M
 
-2) +1 Max Intelligence - 1 of 2 - 73.50 B / 36.75 M / 3.67 M
+2\) +1 Max Intelligence - 1 of 2 - 73.50 B / 36.75 M / 3.67 M
 
-3) +1 Max Wisdom - 1 of 2 - 73.50 B / 36.75 M / 3.67 M
+3\) +1 Max Wisdom - 1 of 2 - 73.50 B / 36.75 M / 3.67 M
 
-4) +1 Max Dexterity - 1 of 1
+4\) +1 Max Dexterity - 1 of 1
 
-5) +1 Max Constitution - 1 of 2 - 73.50 B / 36.75 M / 3.67
+5\) +1 Max Constitution - 1 of 2 - 73.50 B / 36.75 M / 3.67
 
-6) +1 Hit Points
+6\) +1 Hit Points
 
-7) +1 Mana Points
+7\) +1 Mana Points
 
 8 ) +1 Movement Points
 
-9) +1 Hit Point Regen - 40 of 80 - 26.73 B / 13.37 M / 1.34 M
+9\) +1 Hit Point Regen - 40 of 80 - 26.73 B / 13.37 M / 1.34 M
 
-10) +1 Mana Point Regen - 10 of 20 - 154.79 B / 77.40 M / 7.74 M
+10\) +1 Mana Point Regen - 10 of 20 - 154.79 B / 77.40 M / 7.74 M
 
-11) +1 Movement Point Regen - 30 of 60 - 24.78 B / 12.39 M / 1.24 M
+11\) +1 Movement Point Regen - 30 of 60 - 24.78 B / 12.39 M / 1.24 M
 
-12) +1 Hit Roll - 3 of 6 - 119.12 B / 59.56 M / 5.96 M
+12\) +1 Hit Roll - 3 of 6 - 119.12 B / 59.56 M / 5.96 M
 
-13) +1 Damage Roll - 3 of 6 - 158.83 B / 79.41 M / 7.94 M
+13\) +1 Damage Roll - 3 of 6 - 158.83 B / 79.41 M / 7.94 M
 
-14) +1 Bonus Circle Damage - 30 of 60 - 14.87 B / 7.44 M / 743.54 k
+14\) +1 Bonus Circle Damage - 30 of 60 - 14.87 B / 7.44 M / 743.54 k
 
-15) +1 Flail Damage - 30 of 60 - 14.87 B / 7.44 M / 743.54 k
+15\) +1 Flail Damage - 30 of 60 - 14.87 B / 7.44 M / 743.54 k
 
-16) +1 Bonus Hand Damage - 6 of 12 - 74.65 B / 37.32 M / 3.73 M
+16\) +1 Bonus Hand Damage - 6 of 12 - 74.65 B / 37.32 M / 3.73 M
 
-17) +1 Kick Damage - 30 of 60 - 14.96 B / 7.48 M / 747.85 k
+17\) +1 Kick Damage - 30 of 60 - 14.96 B / 7.48 M / 747.85 k
 
-18) +1 Bonus Spell Damage - 30 of 60 - 14.87 B / 7.44 M / 743.54 k
+18\) +1 Bonus Spell Damage - 30 of 60 - 14.87 B / 7.44 M / 743.54 k
 
-19) +1 Bonus Stab Damage - 60 of 120 - 7.29 B / 3.65 M / 364.57 k
+19\) +1 Bonus Stab Damage - 60 of 120 - 7.29 B / 3.65 M / 364.57 k
 
-20) +1 Bonus Weapon Damage - 6 of 12 - 74.65 B / 37.32 M / 3.73 M
+20\) +1 Bonus Weapon Damage - 6 of 12 - 74.65 B / 37.32 M / 3.73 M
 
-21) -0.1 Armor Class - 3 of 6 - 43.20 B / 21.60 M / 3.09 M
+21\) -0.1 Armor Class - 3 of 6 - 43.20 B / 21.60 M / 3.09 M
 
-22) +1 Bonus Charisma - 3 of 6 - 5.58 B / 2.79 M / 278.79 k
+22\) +1 Bonus Charisma - 3 of 6 - 5.58 B / 2.79 M / 278.79 k
 
-23) +1 Bonus Damage Reduction - 3 of 6 - 43.20 B / 21.60 M / 3.09 M
+23\) +1 Bonus Damage Reduction - 3 of 6 - 43.20 B / 21.60 M / 3.09 M
 
-24) +1 Bonus Heal Bonus - 30 of 60 - 14.87 B / 7.44 M / 1.06 M
+24\) +1 Bonus Heal Bonus - 30 of 60 - 14.87 B / 7.44 M / 1.06 M
 
-25) +1 System Shock - 3 of 6 - 5.58 B / 2.79 M / 278.79 k
+25\) +1 System Shock - 3 of 6 - 5.58 B / 2.79 M / 278.79 k
 
-26) +1 Bonus Undead Control - 3 of 6 - 5.58 B / 2.79 M / 278.79 k
+26\) +1 Bonus Undead Control - 3 of 6 - 5.58 B / 2.79 M / 278.79 k
 
-27) -1 Save Breath - 3 of 6 - 5.58 B / 2.79 M / 278.79 k
+27\) -1 Save Breath - 3 of 6 - 5.58 B / 2.79 M / 278.79 k
 
-28) -1 Save Paralyzation - 3 of 3
+28\) -1 Save Paralyzation - 3 of 3
 
-29) -1 Save Petrification - 3 of 6 - 2.79 B / 1.39 M / 139.39 k
+29\) -1 Save Petrification - 3 of 6 - 2.79 B / 1.39 M / 139.39 k
 
-30) -1 Save Poison - 3 of 6 - 2.79 B / 1.39 M / 139.39 k
+30\) -1 Save Poison - 3 of 6 - 2.79 B / 1.39 M / 139.39 k
 
-31) -1 Save Spell - 3 of 6 - 43.20 B / 21.60 M / 2.16 M
+31\) -1 Save Spell - 3 of 6 - 43.20 B / 21.60 M / 2.16 M
 
 With a budget of around 300m Conquest points, this would appear to allow a warrior type to currently buy all of the following stats with perhaps a couple of other purchases to spare...
 
-+3 Damage Roll - 3 of 6 - 158.83 B / 79.41 M / 7.94 M
+\+3 Damage Roll - 3 of 6 - 158.83 B / 79.41 M / 7.94 M
 
-+30 Bonus Spell Damage - 30 of 60 - 14.87 B / 7.44 M / 743.54 k
+\+30 Bonus Spell Damage - 30 of 60 - 14.87 B / 7.44 M / 743.54 k
 
-+60 Bonus Stab Damage - 60 of 120 - 7.29 B / 3.65 M / 364.57 k
+\+60 Bonus Stab Damage - 60 of 120 - 7.29 B / 3.65 M / 364.57 k
 
-+6 Bonus Weapon Damage - 6 of 12 - 74.65 B / 37.32 M / 3.73 M
+\+6 Bonus Weapon Damage - 6 of 12 - 74.65 B / 37.32 M / 3.73 M
 
--0.3 Armor Class - 3 of 6 - 43.20 B / 21.60 M / 3.09 M
+\-0.3 Armor Class - 3 of 6 - 43.20 B / 21.60 M / 3.09 M
 
-+3 Bonus Damage Reduction - 3 of 6 - 43.20 B / 21.60 M / 3.09 M
+\+3 Bonus Damage Reduction - 3 of 6 - 43.20 B / 21.60 M / 3.09 M
 
--3 Save Spell - 3 of 6 - 43.20 B / 21.60 M / 2.16 M
+\-3 Save Spell - 3 of 6 - 43.20 B / 21.60 M / 2.16 M
 
 Personally, I think the mana regen cost is a bit unreasonable, or at least not good value. Rebirth shop costs were just xp and coins originally - so the high cost of mana regen didn't matter so much - however when that ratio got transferred to conquest points which are finite - it becomes a little unreasonable. Buying 10 mana regen would use about a third of the available conquest points. Perhaps the cost of all the regen's are a bit high and conquest points would be better spent on the other stats in my opinion.
 
@@ -128,7 +128,7 @@ The cards also give away all items and mobs in an area (even if the items are hi
 
 There are certainly areas that have new eq that is at least not on the eqlist. Dalina's on SS for example appears to have at least two items that don't appear on the eq list.
 
-Lastly, I don't see the system as a competition, given the fact due to bugs and resets, some people will get considerably higher total maximum conquest points than others. Also the system may seem like a sprint by the way it kicked off, but trust me, **it will end in endurance**.
+Lastly, I don't see the system as a competition, given the fact due to bugs and resets, some people will get considerably higher total maximum conquest points than others. Also the system may seem like a sprint by the way it kicked off, but trust me, <strong>it will end in endurance</strong>.
 
 I'll post other stuff as I find them.
 
@@ -138,19 +138,19 @@ I'll post other stuff as I find them.
 
 What I don't like is that there are many mobs on the Spirit list that are just not supposed to be killed:
 
-<1098/1098hp 1949/931ma 324/446mv -%>
+\<1098/1098hp 1949/931ma 324/446mv -%\>
 
 ambush kelsier
 
 You sneak through the shadows of Court of Sages.
 
-<1098hp 1949ma 293mv>
+\<1098hp 1949ma 293mv\>
 
 Your botched ambush attempt greatly annoys Kelsier, the Survivor of Hathsin.
 
 You have been KILLED!! 
 
-<-9126/1098hp 1949/931ma 293/446mv -%>
+\<-9126/1098hp 1949/931ma 293/446mv -%\>
 
 (that's one attack, not even one round)
 
@@ -184,17 +184,17 @@ I can only conclude that in the first instances, perhaps my progress wasn't bein
 
 <div class="post" data-post-id="39781" data-author="Driven" data-date="2021-07-15T03:41:23+00:00" data-subject="Re: Conquest Points">
 
-Level 10 is 270 million conquest points, so you won't need mobs like Yuluk to get there.  There is no straightforward way of removing such mobs, plus they present an interesting challenge for the most aspiring conquerors.
+Level 10 is 270 million conquest points, so you won't need mobs like Yuluk to get there. There is no straightforward way of removing such mobs, plus they present an interesting challenge for the most aspiring conquerors.
 
-Has anyone else run into the same issue Gorka is having?  I have not on Razyr.  Every variable in every data structure  is doubly protected against such weirdness--(1) every variable is *on your character*, and (2) every variable *has your player name* in the name of the variable.
+Has anyone else run into the same issue Gorka is having? I have not on Razyr. Every variable in every data structure is doubly protected against such weirdness--(1) every variable is \*on your character\*, and (2) every variable \*has your player name\* in the name of the variable.
 
-Short of bugs in the basecode that has been in place for more than 5 years, there should be no way this could happen.  I will double and triple check the code when I get back in town.
+Short of bugs in the basecode that has been in place for more than 5 years, there should be no way this could happen. I will double and triple check the code when I get back in town.
 
 </div>
 
 <div class="post" data-post-id="39782" data-author="Driven" data-date="2021-07-15T12:59:28+00:00" data-subject="Re: Conquest Points">
 
-Can you be more precise on which areas screwed up and how?  For example, have you only seen total area wipes/switches in UD2 and it was only a few mobs lost in Ether Plane?  UD2 is one of the few zones with an actual # in the zone name.
+Can you be more precise on which areas screwed up and how? For example, have you only seen total area wipes/switches in UD2 and it was only a few mobs lost in Ether Plane? UD2 is one of the few zones with an actual # in the zone name.
 
 </div>
 
@@ -202,191 +202,191 @@ Can you be more precise on which areas screwed up and how?  For example, have yo
 
 Here is the Rlyeh glitch, I'll see if I can dig up the others...
 
-----------------------------------------------------------------------
+\----------------------------------------------------------------------
 
 The Spirit of Conquest shows you your progress for 
 
-  Valley of R'Lyeh.
+ Valley of R'Lyeh.
 
-----------------------------------------------------------------------
+\----------------------------------------------------------------------
 
-        Indicates corpse turn-in ---v v--- Indicates subdue turn-in
+ Indicates corpse turn-in ---v v--- Indicates subdue turn-in
 
- [ Mob name                      ] [C/S] (####### conquest points) 
+ [ Mob name ] [C/S] (####### conquest points) 
 
-----------------------------------------------------------------------
+\----------------------------------------------------------------------
 
- [ A Spectral Hunter             ] [ / ] (1254    conquest points) 
+ [ A Spectral Hunter ] [ / ] (1254 conquest points) 
 
- [ a spider of leng              ] [ / ] (5801    conquest points) 
+ [ a spider of leng ] [ / ] (5801 conquest points) 
 
- [ a hunting horror              ] [ / ] (6807    conquest points) 
+ [ a hunting horror ] [ / ] (6807 conquest points) 
 
- [ a shambler                    ] [ / ] (1363    conquest points) 
+ [ a shambler ] [ / ] (1363 conquest points) 
 
- [ a dimensional shambler        ] [ / ] (1185    conquest points) 
+ [ a dimensional shambler ] [ / ] (1185 conquest points) 
 
- [ a fire vampire                ] [ / ] (5690    conquest points) 
+ [ a fire vampire ] [ / ] (5690 conquest points) 
 
- [ a formless spawn              ] [ / ] (4507    conquest points) 
+ [ a formless spawn ] [ / ] (4507 conquest points) 
 
- [ a sentry gug                  ] [ / ] (2245    conquest points) 
+ [ a sentry gug ] [ / ] (2245 conquest points) 
 
- [ Mi-Go Yuggoth                 ] [ / ] (3322    conquest points) 
+ [ Mi-Go Yuggoth ] [ / ] (3322 conquest points) 
 
- [ Lloigor                       ] [ / ] (7179    conquest points) 
+ [ Lloigor ] [ / ] (7179 conquest points) 
 
- [ a shaman gug                  ] [ / ] (1560    conquest points) 
+ [ a shaman gug ] [ / ] (1560 conquest points) 
 
- [ a crawling one                ] [C/-] (143     conquest points) 
+ [ a crawling one ] [C/-] (143 conquest points) 
 
- [ A Spectral Hunter             ] [ / ] (441     conquest points) 
+ [ A Spectral Hunter ] [ / ] (441 conquest points) 
 
- [ Cthulga                       ] [ / ] (8280    conquest points) 
+ [ Cthulga ] [ / ] (8280 conquest points) 
 
- [ chthonian guard               ] [ / ] (1838    conquest points) 
+ [ chthonian guard ] [ / ] (1838 conquest points) 
 
- [ Dark Young of Shub-Niggurath  ] [ / ] (6696    conquest points) 
+ [ Dark Young of Shub-Niggurath ] [ / ] (6696 conquest points) 
 
- [ spectral guard                ] [C/S] (2479    conquest points) 
+ [ spectral guard ] [C/S] (2479 conquest points) 
 
- [ Shuggoth Lord                 ] [ / ] (5117    conquest points) 
+ [ Shuggoth Lord ] [ / ] (5117 conquest points) 
 
- [ a Shuggoth guard              ] [C/ ] (1922    conquest points) 
+ [ a Shuggoth guard ] [C/ ] (1922 conquest points) 
 
-----------------------------------------------------------------------
+\----------------------------------------------------------------------
 
-         Indicates object turn-in ---v                             
+ Indicates object turn-in ---v 
 
- [ Object name                    ] [E] (####### conquest points)  
+ [ Object name ] [E] (####### conquest points) 
 
-----------------------------------------------------------------------
+\----------------------------------------------------------------------
 
- [ * **** ******                  ] [ ] (*****   conquest points)  
+ [ \* \*\*\*\* \*\*\*\*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ a golden rune                  ] [E] (39864   conquest points)  
+ [ a golden rune ] [E] (39864 conquest points) 
 
- [ * ****** ***                   ] [ ] (*****   conquest points)  
+ [ \* \*\*\*\*\*\* \*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ ** ***** ***                   ] [ ] (****    conquest points)  
+ [ \*\* \*\*\*\*\* \*\*\* ] [ ] (\*\*\*\* conquest points) 
 
- [ a small golden chain           ] [E] (19710   conquest points)  
+ [ a small golden chain ] [E] (19710 conquest points) 
 
- [ * ****** ** ******** ******    ] [ ] (******  conquest points)  
+ [ \* \*\*\*\*\*\* \*\* \*\*\*\*\*\*\*\* \*\*\*\*\*\* ] [ ] (\*\*\*\*\*\* conquest points) 
 
- [ a torn page from a forgers man ] [E] (39954   conquest points)  
+ [ a torn page from a forgers man ] [E] (39954 conquest points) 
 
- [ * ****** ** **** *******       ] [ ] (******  conquest points)  
+ [ \* \*\*\*\*\*\* \*\* \*\*\*\* \*\*\*\*\*\*\* ] [ ] (\*\*\*\*\*\* conquest points) 
 
- [ * ******** ********            ] [ ] (*****   conquest points)  
+ [ \* \*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ a small hammer                 ] [E] (1144    conquest points)  
+ [ a small hammer ] [E] (1144 conquest points) 
 
- [ a set of prongs                ] [E] (24986   conquest points)  
+ [ a set of prongs ] [E] (24986 conquest points) 
 
- [ * ***** ****** ******* ** **** ] [ ] (*****   conquest points)  
+ [ \* \*\*\*\*\* \*\*\*\*\*\* \*\*\*\*\*\*\* \*\* \*\*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ a flicker of flame             ] [E] (89392   conquest points)  
+ [ a flicker of flame ] [E] (89392 conquest points) 
 
- [ * ****** ***                   ] [ ] (*****   conquest points)  
+ [ \* \*\*\*\*\*\* \*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ a hexagonal shaped token       ] [E] (19952   conquest points)  
+ [ a hexagonal shaped token ] [E] (19952 conquest points) 
 
-----------------------------------------------------------------------
+\----------------------------------------------------------------------
 
 The next time I looked at the area it looked like this...
 
-----------------------------------------------------------------------
+\----------------------------------------------------------------------
 
 The Spirit of Conquest shows you your progress for 
 
-  Valley of R'Lyeh.
+ Valley of R'Lyeh.
 
-----------------------------------------------------------------------
+\----------------------------------------------------------------------
 
-        Indicates corpse turn-in ---v v--- Indicates subdue turn-in
+ Indicates corpse turn-in ---v v--- Indicates subdue turn-in
 
- [ Mob name                      ] [C/S] (####### conquest points) 
+ [ Mob name ] [C/S] (####### conquest points) 
 
-----------------------------------------------------------------------
+\----------------------------------------------------------------------
 
- [ A Spectral Hunter             ] [ / ] (1254    conquest points) 
+ [ A Spectral Hunter ] [ / ] (1254 conquest points) 
 
- [ a spider of leng              ] [ / ] (5490    conquest points) 
+ [ a spider of leng ] [ / ] (5490 conquest points) 
 
- [ a hunting horror              ] [ / ] (6807    conquest points) 
+ [ a hunting horror ] [ / ] (6807 conquest points) 
 
- [ a shambler                    ] [ / ] (1396    conquest points) 
+ [ a shambler ] [ / ] (1396 conquest points) 
 
- [ a dimensional shambler        ] [ / ] (1285    conquest points) 
+ [ a dimensional shambler ] [ / ] (1285 conquest points) 
 
- [ a fire vampire                ] [ / ] (5690    conquest points) 
+ [ a fire vampire ] [ / ] (5690 conquest points) 
 
- [ a formless spawn              ] [ / ] (4507    conquest points) 
+ [ a formless spawn ] [ / ] (4507 conquest points) 
 
- [ a sentry gug                  ] [ / ] (2245    conquest points) 
+ [ a sentry gug ] [ / ] (2245 conquest points) 
 
- [ Mi-Go Yuggoth                 ] [ / ] (3322    conquest points) 
+ [ Mi-Go Yuggoth ] [ / ] (3322 conquest points) 
 
- [ Lloigor                       ] [ / ] (7179    conquest points) 
+ [ Lloigor ] [ / ] (7179 conquest points) 
 
- [ a shaman gug                  ] [ / ] (1560    conquest points) 
+ [ a shaman gug ] [ / ] (1560 conquest points) 
 
- [ a crawling one                ] [C/-] (143     conquest points) 
+ [ a crawling one ] [C/-] (143 conquest points) 
 
- [ A Spectral Hunter             ] [ / ] (441     conquest points) 
+ [ A Spectral Hunter ] [ / ] (441 conquest points) 
 
- [ Cthulga                       ] [ / ] (7077    conquest points) 
+ [ Cthulga ] [ / ] (7077 conquest points) 
 
- [ chthonian guard               ] [C/ ] (2137    conquest points) 
+ [ chthonian guard ] [C/ ] (2137 conquest points) 
 
- [ Dark Young of Shub-Niggurath  ] [ / ] (6696    conquest points) 
+ [ Dark Young of Shub-Niggurath ] [ / ] (6696 conquest points) 
 
- [ spectral guard                ] [C/S] (2536    conquest points) 
+ [ spectral guard ] [C/S] (2536 conquest points) 
 
- [ Shuggoth Lord                 ] [ / ] (4422    conquest points) 
+ [ Shuggoth Lord ] [ / ] (4422 conquest points) 
 
- [ a Shuggoth guard              ] [ / ] (1922    conquest points) 
+ [ a Shuggoth guard ] [ / ] (1922 conquest points) 
 
-----------------------------------------------------------------------
+\----------------------------------------------------------------------
 
-         Indicates object turn-in ---v                             
+ Indicates object turn-in ---v 
 
- [ Object name                    ] [E] (####### conquest points)  
+ [ Object name ] [E] (####### conquest points) 
 
-----------------------------------------------------------------------
+\----------------------------------------------------------------------
 
- [ * **** ******                  ] [ ] (*****   conquest points)  
+ [ \* \*\*\*\* \*\*\*\*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ a golden rune                  ] [E] (39864   conquest points)  
+ [ a golden rune ] [E] (39864 conquest points) 
 
- [ a silver bar                   ] [E] (44505   conquest points)  
+ [ a silver bar ] [E] (44505 conquest points) 
 
- [ an ivory key                   ] [E] (1971    conquest points)  
+ [ an ivory key ] [E] (1971 conquest points) 
 
- [ a small golden chain           ] [E] (19710   conquest points)  
+ [ a small golden chain ] [E] (19710 conquest points) 
 
- [ a potion of mystical powers    ] [E] (110422  conquest points)  
+ [ a potion of mystical powers ] [E] (110422 conquest points) 
 
- [ * **** **** **** * ******* *** ] [ ] (*****   conquest points)  
+ [ \* \*\*\*\* \*\*\*\* \*\*\*\* \* \*\*\*\*\*\*\* \*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ a strand of silk webbing       ] [E] (102546  conquest points)  
+ [ a strand of silk webbing ] [E] (102546 conquest points) 
 
- [ a ranger's handbook            ] [E] (23640   conquest points)  
+ [ a ranger's handbook ] [E] (23640 conquest points) 
 
- [ a small hammer                 ] [E] (1144    conquest points)  
+ [ a small hammer ] [E] (1144 conquest points) 
 
- [ a set of prongs                ] [E] (24986   conquest points)  
+ [ a set of prongs ] [E] (24986 conquest points) 
 
- [ * ***** ****** ******* ** **** ] [ ] (*****   conquest points)  
+ [ \* \*\*\*\*\* \*\*\*\*\*\* \*\*\*\*\*\*\* \*\* \*\*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ * ******* ** *****             ] [ ] (*****   conquest points)  
+ [ \* \*\*\*\*\*\*\* \*\* \*\*\*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ * ****** ***                   ] [ ] (*****   conquest points)  
+ [ \* \*\*\*\*\*\* \*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ * ********* ****** *****       ] [ ] (*****   conquest points)  
+ [ \* \*\*\*\*\*\*\*\*\* \*\*\*\*\*\* \*\*\*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
-----------------------------------------------------------------------
+\----------------------------------------------------------------------
 
 Leng and Cthulga's pops started showing on my area card even though the items had not been submitted, and the flicker of flame was lost.
 
@@ -396,355 +396,355 @@ Leng and Cthulga's pops started showing on my area card even though the items ha
 
 Here is the Underdark one...
 
-----------------------------------------------------------------------
+\----------------------------------------------------------------------
 
 The Spirit of Conquest shows you your progress for 
 
-  The Underdark.
+ The Underdark.
 
-----------------------------------------------------------------------
+\----------------------------------------------------------------------
 
-        Indicates corpse turn-in ---v v--- Indicates subdue turn-in
+ Indicates corpse turn-in ---v v--- Indicates subdue turn-in
 
- [ Mob name                      ] [C/S] (####### conquest points) 
+ [ Mob name ] [C/S] (####### conquest points) 
 
-----------------------------------------------------------------------
+\----------------------------------------------------------------------
 
- [ a giant purple fungus         ] [ / ] (3283    conquest points) 
+ [ a giant purple fungus ] [ / ] (3283 conquest points) 
 
- [ a young gnomish girl          ] [ / ] (165     conquest points) 
+ [ a young gnomish girl ] [ / ] (165 conquest points) 
 
- [ the lab team leader           ] [ / ] (441     conquest points) 
+ [ the lab team leader ] [ / ] (441 conquest points) 
 
- [ the fire machine              ] [ / ] (5351    conquest points) 
+ [ the fire machine ] [ / ] (5351 conquest points) 
 
- [ the head inventor             ] [ /S] (636     conquest points) 
+ [ the head inventor ] [ /S] (636 conquest points) 
 
- [ the fire marshal              ] [ / ] (286     conquest points) 
+ [ the fire marshal ] [ / ] (286 conquest points) 
 
- [ the crazy gnomish overseer    ] [C/S] (816     conquest points) 
+ [ the crazy gnomish overseer ] [C/S] (816 conquest points) 
 
- [ a purple fungus               ] [C/-] (125     conquest points) 
+ [ a purple fungus ] [C/-] (125 conquest points) 
 
- [ the Dread                     ] [C/-] (4409    conquest points) 
+ [ the Dread ] [C/-] (4409 conquest points) 
 
- [ a gigantic green dragon       ] [C/ ] (6922    conquest points) 
+ [ a gigantic green dragon ] [C/ ] (6922 conquest points) 
 
- [ an eye of the deep            ] [C/ ] (2485    conquest points) 
+ [ an eye of the deep ] [C/ ] (2485 conquest points) 
 
- [ a beholder                    ] [ / ] (2730    conquest points) 
+ [ a beholder ] [ / ] (2730 conquest points) 
 
- [ a water naga                  ] [C/ ] (4321    conquest points) 
+ [ a water naga ] [C/ ] (4321 conquest points) 
 
- [ a giant kelp plant            ] [C/ ] (1164    conquest points) 
+ [ a giant kelp plant ] [C/ ] (1164 conquest points) 
 
- [ a giant clam                  ] [C/ ] (5547    conquest points) 
+ [ a giant clam ] [C/ ] (5547 conquest points) 
 
- [ a sea turtle                  ] [C/ ] (6216    conquest points) 
+ [ a sea turtle ] [C/ ] (6216 conquest points) 
 
- [ a sea lion                    ] [C/ ] (2960    conquest points) 
+ [ a sea lion ] [C/ ] (2960 conquest points) 
 
- [ a sea hag                     ] [C/ ] (6780    conquest points) 
+ [ a sea hag ] [C/ ] (6780 conquest points) 
 
- [ the megalodon                 ] [C/ ] (7101    conquest points) 
+ [ the megalodon ] [C/ ] (7101 conquest points) 
 
- [ Kalamari the giant squid      ] [ / ] (8373    conquest points) 
+ [ Kalamari the giant squid ] [ / ] (8373 conquest points) 
 
- [ a sea cow                     ] [ / ] (4916    conquest points) 
+ [ a sea cow ] [ / ] (4916 conquest points) 
 
- [ a giant octopus               ] [ /S] (3120    conquest points) 
+ [ a giant octopus ] [ /S] (3120 conquest points) 
 
- [ an unemployed gnomish invento ] [C/S] (343     conquest points) 
+ [ an unemployed gnomish invento ] [C/S] (343 conquest points) 
 
- [ a sea serpent                 ] [C/ ] (6459    conquest points) 
+ [ a sea serpent ] [C/ ] (6459 conquest points) 
 
- [ the dreaded rear admiral      ] [C/ ] (6567    conquest points) 
+ [ the dreaded rear admiral ] [C/ ] (6567 conquest points) 
 
- [ a felis canicula              ] [ / ] (261     conquest points) 
+ [ a felis canicula ] [ / ] (261 conquest points) 
 
- [ a canicular felidae           ] [ / ] (101     conquest points) 
+ [ a canicular felidae ] [ / ] (101 conquest points) 
 
- [ a Svirneblin village guard    ] [ /S] (308     conquest points) 
+ [ a Svirneblin village guard ] [ /S] (308 conquest points) 
 
- [ the Svirneblin storekeeper    ] [ / ] (365     conquest points) 
+ [ the Svirneblin storekeeper ] [ / ] (365 conquest points) 
 
- [ the Svirneblin chocolate make ] [ / ] (320     conquest points) 
+ [ the Svirneblin chocolate make ] [ / ] (320 conquest points) 
 
- [ the Svirneblin mayor          ] [ /S] (885     conquest points) 
+ [ the Svirneblin mayor ] [ /S] (885 conquest points) 
 
-----------------------------------------------------------------------
+\----------------------------------------------------------------------
 
-         Indicates object turn-in ---v                             
+ Indicates object turn-in ---v 
 
- [ Object name                    ] [E] (####### conquest points)  
+ [ Object name ] [E] (####### conquest points) 
 
-----------------------------------------------------------------------
+\----------------------------------------------------------------------
 
- [ a piece of purple fungus       ] [E] (9849    conquest points)  
+ [ a piece of purple fungus ] [E] (9849 conquest points) 
 
- [ Revelations of the Beholder Or ] [E] (56440   conquest points)  
+ [ Revelations of the Beholder Or ] [E] (56440 conquest points) 
 
- [ an eye of the beholder         ] [E] (36686   conquest points)  
+ [ an eye of the beholder ] [E] (36686 conquest points) 
 
- [ a glowing short sword          ] [E] (4620    conquest points)  
+ [ a glowing short sword ] [E] (4620 conquest points) 
 
- [ guide to abetment              ] [E] (4802    conquest points)  
+ [ guide to abetment ] [E] (4802 conquest points) 
 
- [ some soft metal string         ] [E] (5145    conquest points)  
+ [ some soft metal string ] [E] (5145 conquest points) 
 
- [ a gnomish scroll of recall     ] [E] (3430    conquest points)  
+ [ a gnomish scroll of recall ] [E] (3430 conquest points) 
 
- [ a gnomish travelling cloak     ] [E] (5488    conquest points)  
+ [ a gnomish travelling cloak ] [E] (5488 conquest points) 
 
- [ a Svirneblin lab key           ] [E] (343     conquest points)  
+ [ a Svirneblin lab key ] [E] (343 conquest points) 
 
- [ a cat dancer                   ] [E] (606     conquest points)  
+ [ a cat dancer ] [E] (606 conquest points) 
 
- [ a piece of a propeller         ] [E] (6615    conquest points)  
+ [ a piece of a propeller ] [E] (6615 conquest points) 
 
- [ a strange tool                 ] [E] (5733    conquest points)  
+ [ a strange tool ] [E] (5733 conquest points) 
 
- [ a whirling sphere of molten la ] [E] (90032   conquest points)  
+ [ a whirling sphere of molten la ] [E] (90032 conquest points) 
 
- [ a Black Marble Sceptre of Blac ] [E] (84405   conquest points)  
+ [ a Black Marble Sceptre of Blac ] [E] (84405 conquest points) 
 
- [ * **** ** ******               ] [ ] (******  conquest points)  
+ [ \* \*\*\*\* \*\* \*\*\*\*\*\* ] [ ] (\*\*\*\*\*\* conquest points) 
 
- [ a treatise on fire protection  ] [E] (8580    conquest points)  
+ [ a treatise on fire protection ] [E] (8580 conquest points) 
 
- [ * ******* ********* ******     ] [ ] (*****   conquest points)  
+ [ \* \*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\* \*\*\*\*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ a small metal flute            ] [E] (825     conquest points)  
+ [ a small metal flute ] [E] (825 conquest points) 
 
- [ a cup of tea                   ] [E] (2655    conquest points)  
+ [ a cup of tea ] [E] (2655 conquest points) 
 
- [ a battered metal shield        ] [E] (13275   conquest points)  
+ [ a battered metal shield ] [E] (13275 conquest points) 
 
- [ * ***** ** **** ***** ****     ] [ ] (****    conquest points)  
+ [ \* \*\*\*\*\* \*\* \*\*\*\* \*\*\*\*\* \*\*\*\* ] [ ] (\*\*\*\* conquest points) 
 
- [ * **** ** *****                ] [ ] (*****   conquest points)  
+ [ \* \*\*\*\* \*\* \*\*\*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ * ********** ********          ] [ ] (******  conquest points)  
+ [ \* \*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\* ] [ ] (\*\*\*\*\*\* conquest points) 
 
- [ a dragon's tooth               ] [E] (68211   conquest points)  
+ [ a dragon's tooth ] [E] (68211 conquest points) 
 
- [ *** *** ** *** *******         ] [ ] (*****   conquest points)  
+ [ \*\*\* \*\*\* \*\* \*\*\* \*\*\*\*\*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ * ******* **** ****            ] [ ] (*****   conquest points)  
+ [ \* \*\*\*\*\*\*\* \*\*\*\* \*\*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ a coral torc                   ] [E] (53768   conquest points)  
+ [ a coral torc ] [E] (53768 conquest points) 
 
- [ a cow tongue                   ] [E] (4916    conquest points)  
+ [ a cow tongue ] [E] (4916 conquest points) 
 
- [ a strand of kelp               ] [E] (1173    conquest points)  
+ [ a strand of kelp ] [E] (1173 conquest points) 
 
- [ * ***** **** *****             ] [ ] (*****   conquest points)  
+ [ \* \*\*\*\*\* \*\*\*\* \*\*\*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ a turtle girdle                ] [E] (74592   conquest points)  
+ [ a turtle girdle ] [E] (74592 conquest points) 
 
- [ a pair of sharkskin gloves     ] [E] (26640   conquest points)  
+ [ a pair of sharkskin gloves ] [E] (26640 conquest points) 
 
- [ a vial of salt water           ] [E] (104715  conquest points)  
+ [ a vial of salt water ] [E] (104715 conquest points) 
 
- [ a shrunken head                ] [E] (104715  conquest points)  
+ [ a shrunken head ] [E] (104715 conquest points) 
 
- [ water moccasins                ] [E] (49399   conquest points)  
+ [ water moccasins ] [E] (49399 conquest points) 
 
- [ an inked-eye ring              ] [E] (181839  conquest points)  
+ [ an inked-eye ring ] [E] (181839 conquest points) 
 
- [ a vial of squids ink           ] [E] (8659    conquest points)  
+ [ a vial of squids ink ] [E] (8659 conquest points) 
 
- [ * ***** *****                  ] [ ] (*****   conquest points)  
+ [ \* \*\*\*\*\* \*\*\*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ a set of pearly bracers        ] [E] (20678   conquest points)  
+ [ a set of pearly bracers ] [E] (20678 conquest points) 
 
- [ * ****** ****                  ] [ ] (*****   conquest points)  
+ [ \* \*\*\*\*\*\* \*\*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ * ***** ** ****** *******      ] [ ] (*****   conquest points)  
+ [ \* \*\*\*\*\* \*\* \*\*\*\*\*\* \*\*\*\*\*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ belt of vitality               ] [E] (85371   conquest points)  
+ [ belt of vitality ] [E] (85371 conquest points) 
 
- [ a staff of black flame         ] [E] (26444   conquest points)  
+ [ a staff of black flame ] [E] (26444 conquest points) 
 
- [ * ***** ****** *******         ] [ ] (*****   conquest points)  
+ [ \* \*\*\*\*\* \*\*\*\*\*\* \*\*\*\*\*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
-----------------------------------------------------------------------
+\----------------------------------------------------------------------
 
 Then the next time I looked at the area card...
 
-----------------------------------------------------------------------
+\----------------------------------------------------------------------
 
 The Spirit of Conquest shows you your progress for 
 
-  The Underdark.
+ The Underdark.
 
-----------------------------------------------------------------------
+\----------------------------------------------------------------------
 
-        Indicates corpse turn-in ---v v--- Indicates subdue turn-in
+ Indicates corpse turn-in ---v v--- Indicates subdue turn-in
 
- [ Mob name                      ] [C/S] (####### conquest points) 
+ [ Mob name ] [C/S] (####### conquest points) 
 
-----------------------------------------------------------------------
+\----------------------------------------------------------------------
 
- [ a giant purple fungus         ] [ / ] (2930    conquest points) 
+ [ a giant purple fungus ] [ / ] (2930 conquest points) 
 
- [ a young gnomish girl          ] [ / ] (165     conquest points) 
+ [ a young gnomish girl ] [ / ] (165 conquest points) 
 
- [ the lab team leader           ] [ / ] (507     conquest points) 
+ [ the lab team leader ] [ / ] (507 conquest points) 
 
- [ the fire machine              ] [ / ] (5351    conquest points) 
+ [ the fire machine ] [ / ] (5351 conquest points) 
 
- [ the head inventor             ] [ / ] (828     conquest points) 
+ [ the head inventor ] [ / ] (828 conquest points) 
 
- [ the fire marshal              ] [ / ] (266     conquest points) 
+ [ the fire marshal ] [ / ] (266 conquest points) 
 
- [ the crazy gnomish overseer    ] [ /S] (816     conquest points) 
+ [ the crazy gnomish overseer ] [ /S] (816 conquest points) 
 
- [ a purple fungus               ] [C/-] (125     conquest points) 
+ [ a purple fungus ] [C/-] (125 conquest points) 
 
- [ the Dread                     ] [C/-] (4153    conquest points) 
+ [ the Dread ] [C/-] (4153 conquest points) 
 
- [ a gigantic green dragon       ] [ / ] (6879    conquest points) 
+ [ a gigantic green dragon ] [ / ] (6879 conquest points) 
 
- [ an eye of the deep            ] [ / ] (2605    conquest points) 
+ [ an eye of the deep ] [ / ] (2605 conquest points) 
 
- [ a beholder                    ] [ / ] (2730    conquest points) 
+ [ a beholder ] [ / ] (2730 conquest points) 
 
- [ a water naga                  ] [ / ] (3950    conquest points) 
+ [ a water naga ] [ / ] (3950 conquest points) 
 
- [ a giant kelp plant            ] [ / ] (1173    conquest points) 
+ [ a giant kelp plant ] [ / ] (1173 conquest points) 
 
- [ a giant clam                  ] [ / ] (5738    conquest points) 
+ [ a giant clam ] [ / ] (5738 conquest points) 
 
- [ a sea turtle                  ] [ / ] (6216    conquest points) 
+ [ a sea turtle ] [ / ] (6216 conquest points) 
 
- [ a sea lion                    ] [ / ] (3115    conquest points) 
+ [ a sea lion ] [ / ] (3115 conquest points) 
 
- [ a sea hag                     ] [ / ] (9600    conquest points) 
+ [ a sea hag ] [ / ] (9600 conquest points) 
 
- [ the megalodon                 ] [ / ] (7057    conquest points) 
+ [ the megalodon ] [ / ] (7057 conquest points) 
 
- [ Kalamari the giant squid      ] [ / ] (6996    conquest points) 
+ [ Kalamari the giant squid ] [ / ] (6996 conquest points) 
 
- [ a sea cow                     ] [ / ] (5046    conquest points) 
+ [ a sea cow ] [ / ] (5046 conquest points) 
 
- [ a giant octopus               ] [ / ] (2954    conquest points) 
+ [ a giant octopus ] [ / ] (2954 conquest points) 
 
- [ an unemployed gnomish invento ] [ / ] (343     conquest points) 
+ [ an unemployed gnomish invento ] [ / ] (343 conquest points) 
 
- [ a sea serpent                 ] [ / ] (6419    conquest points) 
+ [ a sea serpent ] [ / ] (6419 conquest points) 
 
- [ the dreaded rear admiral      ] [ / ] (6611    conquest points) 
+ [ the dreaded rear admiral ] [ / ] (6611 conquest points) 
 
- [ a felis canicula              ] [ / ] (252     conquest points) 
+ [ a felis canicula ] [ / ] (252 conquest points) 
 
- [ a canicular felidae           ] [ / ] (116     conquest points) 
+ [ a canicular felidae ] [ / ] (116 conquest points) 
 
- [ a Svirneblin village guard    ] [ / ] (286     conquest points) 
+ [ a Svirneblin village guard ] [ / ] (286 conquest points) 
 
- [ the Svirneblin storekeeper    ] [ / ] (304     conquest points) 
+ [ the Svirneblin storekeeper ] [ / ] (304 conquest points) 
 
- [ the Svirneblin chocolate make ] [ / ] (320     conquest points) 
+ [ the Svirneblin chocolate make ] [ / ] (320 conquest points) 
 
- [ the Svirneblin mayor          ] [ /S] (885     conquest points) 
+ [ the Svirneblin mayor ] [ /S] (885 conquest points) 
 
-----------------------------------------------------------------------
+\----------------------------------------------------------------------
 
-         Indicates object turn-in ---v                             
+ Indicates object turn-in ---v 
 
- [ Object name                    ] [E] (####### conquest points)  
+ [ Object name ] [E] (####### conquest points) 
 
-----------------------------------------------------------------------
+\----------------------------------------------------------------------
 
- [ * ***** ** ****** ******       ] [ ] (****    conquest points)  
+ [ \* \*\*\*\*\* \*\* \*\*\*\*\*\* \*\*\*\*\*\* ] [ ] (\*\*\*\* conquest points) 
 
- [ *********** ** *** ******** ** ] [ ] (*****   conquest points)  
+ [ \*\*\*\*\*\*\*\*\*\*\* \*\* \*\*\* \*\*\*\*\*\*\*\* \*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ ** *** ** *** ********         ] [ ] (*****   conquest points)  
+ [ \*\* \*\*\* \*\* \*\*\* \*\*\*\*\*\*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ * ******* ***** *****          ] [ ] (****    conquest points)  
+ [ \* \*\*\*\*\*\*\* \*\*\*\*\* \*\*\*\*\* ] [ ] (\*\*\*\* conquest points) 
 
- [ ***** ** ********              ] [ ] (****    conquest points)  
+ [ \*\*\*\*\* \*\* \*\*\*\*\*\*\*\* ] [ ] (\*\*\*\* conquest points) 
 
- [ **** **** ***** ******         ] [ ] (****    conquest points)  
+ [ \*\*\*\* \*\*\*\* \*\*\*\*\* \*\*\*\*\*\* ] [ ] (\*\*\*\* conquest points) 
 
- [ * ******* ****** ** ******     ] [ ] (****    conquest points)  
+ [ \* \*\*\*\*\*\*\* \*\*\*\*\*\* \*\* \*\*\*\*\*\* ] [ ] (\*\*\*\* conquest points) 
 
- [ * ******* ********** *****     ] [ ] (****    conquest points)  
+ [ \* \*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\* \*\*\*\*\* ] [ ] (\*\*\*\* conquest points) 
 
- [ * ********** *** ***           ] [ ] (***     conquest points)  
+ [ \* \*\*\*\*\*\*\*\*\*\* \*\*\* \*\*\* ] [ ] (\*\*\* conquest points) 
 
- [ * *** ******                   ] [ ] (***     conquest points)  
+ [ \* \*\*\* \*\*\*\*\*\* ] [ ] (\*\*\* conquest points) 
 
- [ * ***** ** * *********         ] [ ] (****    conquest points)  
+ [ \* \*\*\*\*\* \*\* \* \*\*\*\*\*\*\*\*\* ] [ ] (\*\*\*\* conquest points) 
 
- [ * ******* ****                 ] [ ] (****    conquest points)  
+ [ \* \*\*\*\*\*\*\* \*\*\*\* ] [ ] (\*\*\*\* conquest points) 
 
- [ * ******** ****** ** ****** ** ] [ ] (*****   conquest points)  
+ [ \* \*\*\*\*\*\*\*\* \*\*\*\*\*\* \*\* \*\*\*\*\*\* \*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ * ***** ****** ******* ** **** ] [ ] (*****   conquest points)  
+ [ \* \*\*\*\*\* \*\*\*\*\*\* \*\*\*\*\*\*\* \*\* \*\*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ * **** ** ******               ] [ ] (******  conquest points)  
+ [ \* \*\*\*\* \*\* \*\*\*\*\*\* ] [ ] (\*\*\*\*\*\* conquest points) 
 
- [ * ******** ** **** **********  ] [ ] (****    conquest points)  
+ [ \* \*\*\*\*\*\*\*\* \*\* \*\*\*\* \*\*\*\*\*\*\*\*\*\* ] [ ] (\*\*\*\* conquest points) 
 
- [ * ******* ********* ******     ] [ ] (*****   conquest points)  
+ [ \* \*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\* \*\*\*\*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ * ***** ***** *****            ] [ ] (***     conquest points)  
+ [ \* \*\*\*\*\* \*\*\*\*\* \*\*\*\*\* ] [ ] (\*\*\* conquest points) 
 
- [ * *** ** ***                   ] [ ] (****    conquest points)  
+ [ \* \*\*\* \*\* \*\*\* ] [ ] (\*\*\*\* conquest points) 
 
- [ * ******** ***** ******        ] [ ] (*****   conquest points)  
+ [ \* \*\*\*\*\*\*\*\* \*\*\*\*\* \*\*\*\*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ * ***** ** **** ***** ****     ] [ ] (****    conquest points)  
+ [ \* \*\*\*\*\* \*\* \*\*\*\* \*\*\*\*\* \*\*\*\* ] [ ] (\*\*\*\* conquest points) 
 
- [ * **** ** *****                ] [ ] (*****   conquest points)  
+ [ \* \*\*\*\* \*\* \*\*\*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ * ********** ********          ] [ ] (******  conquest points)  
+ [ \* \*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\* ] [ ] (\*\*\*\*\*\* conquest points) 
 
- [ * ******** *****               ] [ ] (*****   conquest points)  
+ [ \* \*\*\*\*\*\*\*\* \*\*\*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ *** *** ** *** *******         ] [ ] (*****   conquest points)  
+ [ \*\*\* \*\*\* \*\* \*\*\* \*\*\*\*\*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ * ******* **** ****            ] [ ] (*****   conquest points)  
+ [ \* \*\*\*\*\*\*\* \*\*\*\* \*\*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ * ***** ****                   ] [ ] (*****   conquest points)  
+ [ \* \*\*\*\*\* \*\*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ * *** ******                   ] [ ] (****    conquest points)  
+ [ \* \*\*\* \*\*\*\*\*\* ] [ ] (\*\*\*\* conquest points) 
 
- [ * ****** ** ****               ] [ ] (****    conquest points)  
+ [ \* \*\*\*\*\*\* \*\* \*\*\*\* ] [ ] (\*\*\*\* conquest points) 
 
- [ * ***** **** *****             ] [ ] (*****   conquest points)  
+ [ \* \*\*\*\*\* \*\*\*\* \*\*\*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ * ****** ******                ] [ ] (*****   conquest points)  
+ [ \* \*\*\*\*\*\* \*\*\*\*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ * **** ** ********* ******     ] [ ] (*****   conquest points)  
+ [ \* \*\*\*\* \*\* \*\*\*\*\*\*\*\*\* \*\*\*\*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ * **** ** **** *****           ] [ ] (******  conquest points)  
+ [ \* \*\*\*\* \*\* \*\*\*\* \*\*\*\*\* ] [ ] (\*\*\*\*\*\* conquest points) 
 
- [ * ******** ****                ] [ ] (******  conquest points)  
+ [ \* \*\*\*\*\*\*\*\* \*\*\*\* ] [ ] (\*\*\*\*\*\* conquest points) 
 
- [ ***** *********                ] [ ] (*****   conquest points)  
+ [ \*\*\*\*\* \*\*\*\*\*\*\*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ ** ********* ****              ] [ ] (******  conquest points)  
+ [ \*\* \*\*\*\*\*\*\*\*\* \*\*\*\* ] [ ] (\*\*\*\*\*\* conquest points) 
 
- [ * **** ** ****** ***           ] [ ] (****    conquest points)  
+ [ \* \*\*\*\* \*\* \*\*\*\*\*\* \*\*\* ] [ ] (\*\*\*\* conquest points) 
 
- [ * ***** *****                  ] [ ] (*****   conquest points)  
+ [ \* \*\*\*\*\* \*\*\*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ * *** ** ****** *******        ] [ ] (*****   conquest points)  
+ [ \* \*\*\* \*\* \*\*\*\*\*\* \*\*\*\*\*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ * ****** ****                  ] [ ] (*****   conquest points)  
+ [ \* \*\*\*\*\*\* \*\*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ a sheet of molded papyrus      ] [E] (65670   conquest points)  
+ [ a sheet of molded papyrus ] [E] (65670 conquest points) 
 
- [ **** ** ********               ] [ ] (*****   conquest points)  
+ [ \*\*\*\* \*\* \*\*\*\*\*\*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ * ***** ** ***** *****         ] [ ] (*****   conquest points)  
+ [ \* \*\*\*\*\* \*\* \*\*\*\*\* \*\*\*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ * ***** ****** *******         ] [ ] (*****   conquest points)  
+ [ \* \*\*\*\*\* \*\*\*\*\*\* \*\*\*\*\*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
-----------------------------------------------------------------------
+\----------------------------------------------------------------------
 
 </div>
 
@@ -752,179 +752,179 @@ The Spirit of Conquest shows you your progress for
 
 Here is the Ether Plane one...
 
-----------------------------------------------------------------------
+\----------------------------------------------------------------------
 
 The Spirit of Conquest shows you your progress for 
 
-  Ethereal Plane.
+ Ethereal Plane.
 
-----------------------------------------------------------------------
+\----------------------------------------------------------------------
 
-        Indicates corpse turn-in ---v v--- Indicates subdue turn-in
+ Indicates corpse turn-in ---v v--- Indicates subdue turn-in
 
- [ Mob name                      ] [C/S] (####### conquest points) 
+ [ Mob name ] [C/S] (####### conquest points) 
 
-----------------------------------------------------------------------
+\----------------------------------------------------------------------
 
- [ the essence vortex            ] [C/-] (1873    conquest points) 
+ [ the essence vortex ] [C/-] (1873 conquest points) 
 
- [ An Ether Eel                  ] [C/-] (2040    conquest points) 
+ [ An Ether Eel ] [C/-] (2040 conquest points) 
 
- [ the ether dragon              ] [C/-] (2665    conquest points) 
+ [ the ether dragon ] [C/-] (2665 conquest points) 
 
- [ The Elementalist              ] [ / ] (5545    conquest points) 
+ [ The Elementalist ] [ / ] (5545 conquest points) 
 
- [ an ether wind                 ] [C/-] (698     conquest points) 
+ [ an ether wind ] [C/-] (698 conquest points) 
 
- [ a brass golem                 ] [ / ] (3664    conquest points) 
+ [ a brass golem ] [ / ] (3664 conquest points) 
 
- [ the ether cyclone             ] [C/-] (1491    conquest points) 
+ [ the ether cyclone ] [C/-] (1491 conquest points) 
 
- [ Pazuzu                        ] [C/ ] (4043    conquest points) 
+ [ Pazuzu ] [C/ ] (4043 conquest points) 
 
- [ the ether bandit              ] [C/-] (2151    conquest points) 
+ [ the ether bandit ] [C/-] (2151 conquest points) 
 
- [ A Solar                       ] [ / ] (4850    conquest points) 
+ [ A Solar ] [ / ] (4850 conquest points) 
 
- [ The XYa                       ] [C/-] (2803    conquest points) 
+ [ The XYa ] [C/-] (2803 conquest points) 
 
- [ The XYi                       ] [C/-] (3051    conquest points) 
+ [ The XYi ] [C/-] (3051 conquest points) 
 
- [ a banished Jann               ] [C/-] (3247    conquest points) 
+ [ a banished Jann ] [C/-] (3247 conquest points) 
 
- [ an ether wind                 ] [C/-] (462     conquest points) 
+ [ an ether wind ] [C/-] (462 conquest points) 
 
- [ The Guardian of the Ether     ] [ /-] (2231    conquest points) 
+ [ The Guardian of the Ether ] [ /-] (2231 conquest points) 
 
-----------------------------------------------------------------------
+\----------------------------------------------------------------------
 
-         Indicates object turn-in ---v                             
+ Indicates object turn-in ---v 
 
- [ Object name                    ] [E] (####### conquest points)  
+ [ Object name ] [E] (####### conquest points) 
 
-----------------------------------------------------------------------
+\----------------------------------------------------------------------
 
- [ ** ******* ****                ] [ ] (****    conquest points)  
+ [ \*\* \*\*\*\*\*\*\* \*\*\*\* ] [ ] (\*\*\*\* conquest points) 
 
- [ * ******* ***** *********      ] [ ] (****    conquest points)  
+ [ \* \*\*\*\*\*\*\* \*\*\*\*\* \*\*\*\*\*\*\*\*\* ] [ ] (\*\*\*\* conquest points) 
 
- [ * ******* ** ****              ] [ ] (****    conquest points)  
+ [ \* \*\*\*\*\*\*\* \*\* \*\*\*\* ] [ ] (\*\*\*\* conquest points) 
 
- [ * **** ** ******               ] [ ] (*****   conquest points)  
+ [ \* \*\*\*\* \*\* \*\*\*\*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ * **** ** **** ******          ] [ ] (*****   conquest points)  
+ [ \* \*\*\*\* \*\* \*\*\*\* \*\*\*\*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ a Black Marble Sceptre of Blac ] [E] (47170   conquest points)  
+ [ a Black Marble Sceptre of Blac ] [E] (47170 conquest points) 
 
- [ the godly shield of light      ] [E] (56604   conquest points)  
+ [ the godly shield of light ] [E] (56604 conquest points) 
 
- [ a spectral cloak               ] [E] (79000   conquest points)  
+ [ a spectral cloak ] [E] (79000 conquest points) 
 
- [ the gem of the ether           ] [E] (21540   conquest points)  
+ [ the gem of the ether ] [E] (21540 conquest points) 
 
- [ a sparkling-green emerald      ] [E] (21540   conquest points)  
+ [ a sparkling-green emerald ] [E] (21540 conquest points) 
 
- [ the fang of the ether          ] [E] (19790   conquest points)  
+ [ the fang of the ether ] [E] (19790 conquest points) 
 
- [ an ethereal talon              ] [E] (40065   conquest points)  
+ [ an ethereal talon ] [E] (40065 conquest points) 
 
- [ ethereal gauntlets             ] [E] (32052   conquest points)  
+ [ ethereal gauntlets ] [E] (32052 conquest points) 
 
- [ the breath of the ether        ] [E] (40065   conquest points)  
+ [ the breath of the ether ] [E] (40065 conquest points) 
 
- [ * ******** ******* ********    ] [ ] (*****   conquest points)  
+ [ \* \*\*\*\*\*\*\*\* \*\*\*\*\*\*\* \*\*\*\*\*\*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ wand of wizardry               ] [E] (68712   conquest points)  
+ [ wand of wizardry ] [E] (68712 conquest points) 
 
-----------------------------------------------------------------------
+\----------------------------------------------------------------------
 
 Then the next time I looked at the area card...
 
-----------------------------------------------------------------------
+\----------------------------------------------------------------------
 
 The Spirit of Conquest shows you your progress for 
 
-  Ethereal Plane.
+ Ethereal Plane.
 
-----------------------------------------------------------------------
+\----------------------------------------------------------------------
 
-        Indicates corpse turn-in ---v v--- Indicates subdue turn-in
+ Indicates corpse turn-in ---v v--- Indicates subdue turn-in
 
- [ Mob name                      ] [C/S] (####### conquest points) 
+ [ Mob name ] [C/S] (####### conquest points) 
 
-----------------------------------------------------------------------
+\----------------------------------------------------------------------
 
- [ the essence vortex            ] [ /-] (1938    conquest points) 
+ [ the essence vortex ] [ /-] (1938 conquest points) 
 
- [ An Ether Eel                  ] [ /-] (1979    conquest points) 
+ [ An Ether Eel ] [ /-] (1979 conquest points) 
 
- [ the ether dragon              ] [ /-] (2671    conquest points) 
+ [ the ether dragon ] [ /-] (2671 conquest points) 
 
- [ The Elementalist              ] [ / ] (5545    conquest points) 
+ [ The Elementalist ] [ / ] (5545 conquest points) 
 
- [ an ether wind                 ] [ /-] (604     conquest points) 
+ [ an ether wind ] [ /-] (604 conquest points) 
 
- [ a brass golem                 ] [ / ] (3664    conquest points) 
+ [ a brass golem ] [ / ] (3664 conquest points) 
 
- [ the ether cyclone             ] [C/-] (1622    conquest points) 
+ [ the ether cyclone ] [C/-] (1622 conquest points) 
 
- [ Pazuzu                        ] [ / ] (3857    conquest points) 
+ [ Pazuzu ] [ / ] (3857 conquest points) 
 
- [ the ether bandit              ] [ /-] (2154    conquest points) 
+ [ the ether bandit ] [ /-] (2154 conquest points) 
 
- [ A Solar                       ] [ / ] (4850    conquest points) 
+ [ A Solar ] [ / ] (4850 conquest points) 
 
- [ The XYa                       ] [ /-] (2812    conquest points) 
+ [ The XYa ] [ /-] (2812 conquest points) 
 
- [ The XYi                       ] [ /-] (3040    conquest points) 
+ [ The XYi ] [ /-] (3040 conquest points) 
 
- [ a banished Jann               ] [ /-] (3546    conquest points) 
+ [ a banished Jann ] [ /-] (3546 conquest points) 
 
- [ an ether wind                 ] [ /-] (462     conquest points) 
+ [ an ether wind ] [ /-] (462 conquest points) 
 
- [ The Guardian of the Ether     ] [ /-] (2231    conquest points) 
+ [ The Guardian of the Ether ] [ /-] (2231 conquest points) 
 
-----------------------------------------------------------------------
+\----------------------------------------------------------------------
 
-         Indicates object turn-in ---v                             
+ Indicates object turn-in ---v 
 
- [ Object name                    ] [E] (####### conquest points)  
+ [ Object name ] [E] (####### conquest points) 
 
-----------------------------------------------------------------------
+\----------------------------------------------------------------------
 
- [ ** ******* ****                ] [ ] (****    conquest points)  
+ [ \*\* \*\*\*\*\*\*\* \*\*\*\* ] [ ] (\*\*\*\* conquest points) 
 
- [ * ******* ***** *********      ] [ ] (****    conquest points)  
+ [ \* \*\*\*\*\*\*\* \*\*\*\*\* \*\*\*\*\*\*\*\*\* ] [ ] (\*\*\*\* conquest points) 
 
- [ * ******* ** ****              ] [ ] (****    conquest points)  
+ [ \* \*\*\*\*\*\*\* \*\* \*\*\*\* ] [ ] (\*\*\*\* conquest points) 
 
- [ * **** ** ******               ] [ ] (*****   conquest points)  
+ [ \* \*\*\*\* \*\* \*\*\*\*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ * **** ** **** ******          ] [ ] (*****   conquest points)  
+ [ \* \*\*\*\* \*\* \*\*\*\* \*\*\*\*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ * ***** ****** ******* ** **** ] [ ] (*****   conquest points)  
+ [ \* \*\*\*\*\* \*\*\*\*\*\* \*\*\*\*\*\*\* \*\* \*\*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ *** ***** ****** ** *****      ] [ ] (*****   conquest points)  
+ [ \*\*\* \*\*\*\*\* \*\*\*\*\*\* \*\* \*\*\*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ * ******** *****               ] [ ] (*****   conquest points)  
+ [ \* \*\*\*\*\*\*\*\* \*\*\*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ *** *** ** *** *****           ] [ ] (*****   conquest points)  
+ [ \*\*\* \*\*\* \*\* \*\*\* \*\*\*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ * *************** *******      ] [ ] (*****   conquest points)  
+ [ \* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ *** **** ** *** *****          ] [ ] (*****   conquest points)  
+ [ \*\*\* \*\*\*\* \*\* \*\*\* \*\*\*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ ** ******** *****              ] [ ] (*****   conquest points)  
+ [ \*\* \*\*\*\*\*\*\*\* \*\*\*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ ******** *********             ] [ ] (*****   conquest points)  
+ [ \*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ the breath of the ether        ] [E] (40065   conquest points)  
+ [ the breath of the ether ] [E] (40065 conquest points) 
 
- [ * ******** ******* ********    ] [ ] (*****   conquest points)  
+ [ \* \*\*\*\*\*\*\*\* \*\*\*\*\*\*\* \*\*\*\*\*\*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
- [ **** ** ********               ] [ ] (*****   conquest points)  
+ [ \*\*\*\* \*\* \*\*\*\*\*\*\*\* ] [ ] (\*\*\*\*\* conquest points) 
 
-----------------------------------------------------------------------
+\----------------------------------------------------------------------
 
 </div>
 
@@ -940,7 +940,7 @@ I've tried making it happen without success.
 
 <div class="post" data-post-id="39787" data-author="Driven" data-date="2021-07-15T22:28:04+00:00" data-subject="Re: Conquest Points">
 
-Just taking the R'lyeh as an example, what occured between your two 'look area's?  Were any items turned in?  Did you leave the area between those two reports?  I will try to reproduce/debug, but I need as much info as possible to make debug possible.  You have my email address if you want to send me a log.  I am happy to crawl through your log to see if you did something unexpected.
+Just taking the R'lyeh as an example, what occured between your two 'look area's? Were any items turned in? Did you leave the area between those two reports? I will try to reproduce/debug, but I need as much info as possible to make debug possible. You have my email address if you want to send me a log. I am happy to crawl through your log to see if you did something unexpected.
 
 </div>
 
@@ -948,7 +948,7 @@ Just taking the R'lyeh as an example, what occured between your two 'look area's
 
 Very little occurred between looking at the card, and the card being modified. Here is a quick run down...
 
-----------------------------------------------
+\----------------------------------------------
 
 Card was Working in Ether plane.
 
@@ -980,13 +980,13 @@ Started to Kill Solar.
 
 Looked Area (In Ether Plane) - Saw it was bugged.
 
-----------------------------------------------
+\----------------------------------------------
 
 I parsed this list of conquest commands for the 3 scenarios... so I could get the order of all conquest system commands between a good/bad "look area."
 
 Underdark Bug
 
-------------------
+\------------------
 
 look area UD (Good)
 
@@ -1000,7 +1000,7 @@ look area UD (Bugged)
 
 Ether Bug
 
-------------
+\------------
 
 look area Ether (Good)
 
@@ -1010,7 +1010,7 @@ look area Ether (Bugged)
 
 Rlyeh Bug
 
-------------
+\------------
 
 look area Rlyeh (Good)
 

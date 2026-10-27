@@ -12,15 +12,15 @@ post_count: 2
 
 <div class="post" data-post-id="11086" data-author="bubba" data-date="2006-03-07T18:07:19+00:00" data-subject="familiar can&#x27;t get to necropolis firemage">
 
-Not sure if this is a bug or what but I croaked at the firemage in the necropolis.  So I got a lyme duck for a familiar and went back to get my corpse.  When I ordered the familiar to 'pry coffin' to get in to the firemage's room here is what I saw:
+Not sure if this is a bug or what but I croaked at the firemage in the necropolis. So I got a lyme duck for a familiar and went back to get my corpse. When I ordered the familiar to 'pry coffin' to get in to the firemage's room here is what I saw:
 
 of pry coffin
 
 Ok.
 
-__ You pry the lid from the coffin to reveal a staircase spiraling downward
+\_\_ You pry the lid from the coffin to reveal a staircase spiraling downward
 
-into a secret room.  Climbing into the coffin, you descend the stairs.
+into a secret room. Climbing into the coffin, you descend the stairs.
 
 You are wizinvis 42 or more, so you got left behind!
 

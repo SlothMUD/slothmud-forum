@@ -16,11 +16,11 @@ Good day,
 
 I have here:
 
-A) Full set of a Tanzanite of Omah clasp from desert(1) *+9Hp +2HP_regen .3x40 , wrist attachment*
+A) Full set of a Tanzanite of Omah clasp from desert(1) \*+9Hp +2HP\_regen .3x40 , wrist attachment\*
 
-B) Full set of a Tanzanite of Omah clasp from desert(2) *+9Hp +2HP_regen .3x40 , wrist attachment*
+B) Full set of a Tanzanite of Omah clasp from desert(2) \*+9Hp +2HP\_regen .3x40 , wrist attachment\*
 
-C) Full set of an Iolite of Omah clasp from desert *+8mana +1mana_regen, held .3x40 high/low attachment*
+C) Full set of an Iolite of Omah clasp from desert \*+8mana +1mana\_regen, held .3x40 high/low attachment\*
 
 D) Pirate Roberts hat with clasp attachment (-.1ac)
 
@@ -30,7 +30,7 @@ E) Banded Agate Rune (+1 Str to LOW or HIGH)
 
 F) Eye Agate Rune (-2 Saving Spell to ROBES)
 
-G) Orange Zircon Rune (+20 flail_damage to ARMS)
+G) Orange Zircon Rune (+20 flail\_damage to ARMS)
 
 H) Brilliant Green Garnet (-1 saving breath)
 
@@ -46,15 +46,15 @@ M) Deep-Blue Spinel Rune (+5hp regen LEGS)
 
 N) hematite rune (+1 wisdom to LOW or HIGH)
 
-O) Pale Golden Pearl Rune (+20 flail_damage to WRIST)
+O) Pale Golden Pearl Rune (+20 flail\_damage to WRIST)
 
-P) Fire Opal Rune (+15 circle_bonus to WEAPON)
+P) Fire Opal Rune (+15 circle\_bonus to WEAPON)
 
-Q) Amber Rune (+15 circle_bonus to ARMS)
+Q) Amber Rune (+15 circle\_bonus to ARMS)
 
 R) Water Opal Rune (+15 Stab Damage to 1-HANDED WEAPON)
 
-I am willing to trade ANY of the listed above _PER_ Jet gem.
+I am willing to trade ANY of the listed above \_PER\_ Jet gem.
 
 Should you choose A) B) or C) attachments, kindly bear the cost to forge/enchant them.
 

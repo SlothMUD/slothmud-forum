@@ -12,9 +12,9 @@ post_count: 5
 
 <div class="post" data-post-id="35005" data-author="Hung" data-date="2014-04-18T17:00:11+00:00" data-subject="Another Char For Sale">
 
-Yang Lee  (level: 8)
+Yang Lee (level: <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
-Your levels:  Mo: 8 Dr: 1 Cl: 1 
+Your levels: Mo: 8 Dr: 1 Cl: 1 
 
 You are 17 years, 28 days old.
 
@@ -44,7 +44,7 @@ Str: 17[17], Int: 15[15], Wis: 18[18], Dex: 17[17], Con: 18[18]
 
 You are standing.
 
-You are affected by the following spells:   None.
+You are affected by the following spells: None.
 
 Starting price: 40m
 
@@ -74,6 +74,6 @@ How much more manaregen would that character have over a monk/cleric or monk/mag
 
 Not sure. Anyway there's no point having cleric secondary. Mandatory supplications are peri and xag(on low levels), mare and eudaemon(on higher). So cleric can be even fifth. But it's really hard to start when it is so far away. So I placed it third.
 
-Secondary options are warrior(hitpoints, better max_str, early entrench and triple attack), druid(manaregen) or necro(better pets). I'd went with second.
+Secondary options are warrior(hitpoints, better max\_str, early entrench and triple attack), druid(manaregen) or necro(better pets). I'd went with second.
 
 </div>

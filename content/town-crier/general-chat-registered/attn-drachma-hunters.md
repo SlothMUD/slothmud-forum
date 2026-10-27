@@ -18,7 +18,7 @@ the aq beginning at the ghostly priest in Dark Chasm on Ah is back up.
 
 <div class="post" data-post-id="26140" data-author="Stryx" data-date="2008-09-04T08:39:28+00:00" data-subject="">
 
-Nice work, thanks. :D
+Nice work, thanks. <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -26,7 +26,7 @@ Nice work, thanks. :D
 
 Thanks for fixing that!
 
-Could someone take a look at the westwood-cook also?  
+Could someone take a look at the westwood-cook also? 
 
 Thanks
 
@@ -60,12 +60,13 @@ You sure about this aquest Jug ?
 
 Tried it tday and got smashed by mean Jabberwock.
 
-Jabberwock quest repaired also[/quote:1ilkmn1e]
+> <strong>juggleblood wrote:</strong>
+> Jabberwock quest repaired also
 
 </div>
 
 <div class="post" data-post-id="29541" data-author="Akasha" data-date="2009-06-16T16:17:29+00:00" data-subject="">
 
-I'd like to thank Jugs for repairing what seems to be all my AQs. <blush>
+I'd like to thank Jugs for repairing what seems to be all my AQs. \<blush\>
 
 </div>

@@ -12,7 +12,7 @@ post_count: 2
 
 <div class="post" data-post-id="21908" data-author="Autolycos" data-date="2008-01-08T18:56:15+00:00" data-subject="funny funny stuff!">
 
-[b:2mp3jv4t]in light of reading shipping restrictions to Isreal on the usps.com site...[/b:2mp3jv4t]
+<strong>in light of reading shipping restrictions to Isreal on the usps.com site...</strong>
 
 Country Conditions for Mailing â€” Israel - Prohibitions 
 
@@ -32,7 +32,7 @@ Fresh fruits and vegetables.
 
 Games of chance. 
 
-[b:2mp3jv4t]Indecent or obscene marks, paintings, photographs, books, cards, lithographs, or engravings. [/b:2mp3jv4t][/color:2mp3jv4t]
+<strong>Indecent or obscene marks, paintings, photographs, books, cards, lithographs, or engravings.</strong> 
 
 Infectious perishable biological substances. 
 
@@ -50,15 +50,16 @@ Spices exceeding 1 kg.
 
 Tobacco, in various forms, exceeding 600 grams. 
 
-[b:2mp3jv4t]Used beehives.[/b:2mp3jv4t][/color:2mp3jv4t]
+<strong>Used beehives.</strong>
 
-[b:2mp3jv4t]So... they have a problem with p0rn and used beehives?  Dare I even wonder about the connection or reasons? [/b:2mp3jv4t] :shock:
+<strong>So... they have a problem with p0rn and used beehives? Dare I even wonder about the connection or reasons?</strong> <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="21909" data-author="Rynquald" data-date="2008-01-08T23:51:37+00:00" data-subject="">
 
-Infectious perishable biological substances. [/quote:2i18o66w]
+> <strong>Autolycos wrote:</strong>
+> Infectious perishable biological substances.
 
 So they don't mind if you ship NON-perishable infectious biological substances?
 

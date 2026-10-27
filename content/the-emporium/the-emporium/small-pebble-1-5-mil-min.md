@@ -30,9 +30,9 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: REGEN_MANA by 2
+ Affects: REGEN\_MANA by 2
 
-    Affects: MANA by 5
+ Affects: MANA by 5
 
 Only those who are at least adept magic users, clerics, druids, or 
 

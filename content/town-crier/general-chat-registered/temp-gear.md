@@ -14,7 +14,8 @@ post_count: 10
 
 I know there's a big thing about making sure that temp gear stays on Lyme, but this seemed a little extreme:
 
-[code:3dlwmn5t]The day has begun.
+```
+The day has begun.
 
 You have been idle, and are pulled into a void.
 
@@ -24,9 +25,10 @@ A potion of greater strength vanishes out of existence.
 
 A potion of greater strength vanishes out of existence.
 
-A potion of greater strength vanishes out of existence.[/code:3dlwmn5t]
+A potion of greater strength vanishes out of existence.
+```
 
-Any chance of getting the void flagged as a temp zone?  I can't think of any real way you could smuggle gear there.
+Any chance of getting the void flagged as a temp zone? I can't think of any real way you could smuggle gear there.
 
 </div>
 
@@ -34,15 +36,15 @@ Any chance of getting the void flagged as a temp zone?  I can't think of any rea
 
 Hm.. well there's a cute new bug.
 
-Assuming someone gets around to fixing that, *there's also a bug where temp stuff vanishes when a shifted druid picks it up. (or a corpse containing stuff..)
+Assuming someone gets around to fixing that, \*there's also a bug where temp stuff vanishes when a shifted druid picks it up. (or a corpse containing stuff..)
 
-* not using a druid, I assume it still does this
+\* not using a druid, I assume it still does this
 
 </div>
 
 <div class="post" data-post-id="15637" data-author="brand" data-date="2006-12-15T05:08:58+00:00" data-subject="">
 
-i was putting all my temp gear on my horse the other day getting ready to go on a big adventure.  i looked down and saw my horse only had three legs.
+i was putting all my temp gear on my horse the other day getting ready to go on a big adventure. i looked down and saw my horse only had three legs.
 
 i started to unload my temp gear... but i stopped and just walked away... who knows maybe Corwin would want all that fancy old timer temp eq... but me i think i'm gonna go digital
 
@@ -70,35 +72,38 @@ I think I could forge an extra oly shield from the cps I poofed when I was losin
 
 <div class="post" data-post-id="15980" data-author="12345" data-date="2007-01-04T23:56:29+00:00" data-subject="">
 
-This is annoying.  Went afk for a little bit to eat some pizza.  After a while I realize that I'm not carrying half the stuff I thought I was.  Scrolling back...
+This is annoying. Went afk for a little bit to eat some pizza. After a while I realize that I'm not carrying half the stuff I thought I was. Scrolling back...
 
-[quote:2620ud7r]<1114/1114hp+285 332/332 229/229 +9 -9.3 2 Quite a Few Down>
-
-You have been idle, and are pulled into a void.
-
-Macuahuitl vanishes out of existence.
-
-A glass collection tray vanishes out of existence.
-
-A potion of greater healing vanishes out of existence.
-
-Macuahuitl vanishes out of existence.
-
-A razor sharp tiger claw vanishes out of existence.
-
-A razor sharp tiger claw vanishes out of existence.
-
-A razor sharp tiger claw vanishes out of existence.
-
-A razor sharp tiger claw vanishes out of existence.
-
-A razor sharp tiger claw vanishes out of existence.
-
-Macuahuitl vanishes out of existence.
-
-You are hungry.
-
-<1114/1114hp+92 332/332 229/229 +9 -9.3 3 Quite a Few Down>[/quote:2620ud7r]
+> <strong>Quote:</strong>
+> \<1114/1114hp+285 332/332 229/229 +9 -9.3 2 Quite a Few Down\>
+> 
+> You have been idle, and are pulled into a void.
+> 
+> Macuahuitl vanishes out of existence.
+> 
+> A glass collection tray vanishes out of existence.
+> 
+> A potion of greater healing vanishes out of existence.
+> 
+> Macuahuitl vanishes out of existence.
+> 
+> A razor sharp tiger claw vanishes out of existence.
+> 
+> A razor sharp tiger claw vanishes out of existence.
+> 
+> A razor sharp tiger claw vanishes out of existence.
+> 
+> A razor sharp tiger claw vanishes out of existence.
+> 
+> A razor sharp tiger claw vanishes out of existence.
+> 
+> Macuahuitl vanishes out of existence.
+> 
+> You are hungry.
+> 
+> 
+> 
+> \<1114/1114hp+92 332/332 229/229 +9 -9.3 3 Quite a Few Down\>
 
 Any chance we can fix this please?
 
@@ -118,6 +123,6 @@ This should be fixed after the next crash or reboot.
 
 <div class="post" data-post-id="16027" data-author="12345" data-date="2007-01-06T00:17:56+00:00" data-subject="">
 
-Thanks! :)
+Thanks! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

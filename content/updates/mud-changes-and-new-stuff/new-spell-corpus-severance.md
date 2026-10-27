@@ -14,27 +14,27 @@ post_count: 1
 
 "CORPUS SEVERANCE"
 
-Usage:         cast 'corpus severance'
+Usage: cast 'corpus severance'
 
-Cost:          30 mana
+Cost: 30 mana
 
-Level:         32 Cleric, 13 Necro
+Level: 32 Cleric, 13 Necro
 
-Duration:      level dependent
+Duration: level dependent
 
-Accumulative:  -
+Accumulative: -
 
-Save Versus:   -
+Save Versus: -
 
-Damage Type:   -
+Damage Type: -
 
-Stratum:       Necromancy 
+Stratum: Necromancy 
 
-Spellbook:     a black book edged in bone
+Spellbook: a black book edged in bone
 
-Prerequisite:  -
+Prerequisite: -
 
-See Also:      CHIRONS LINK DEATH 
+See Also: CHIRONS LINK DEATH 
 
 While Bekorath the necromancer was young he was quite vigorous and
 

@@ -14,21 +14,21 @@ post_count: 4
 
 Looking for the stuff below
 
--Cincture
+\-Cincture
 
--Blood covered boots (other ones are welcomed too)
+\-Blood covered boots (other ones are welcomed too)
 
--Adamantine gloves/ heavy iron gaunts
+\-Adamantine gloves/ heavy iron gaunts
 
 Got a couple of stuff to trade 
 
--Yooper guards
+\-Yooper guards
 
--Crystal teardrop
+\-Crystal teardrop
 
--Ruby brooch
+\-Ruby brooch
 
--String of yellow tendon, etc etc
+\-String of yellow tendon, etc etc
 
 Catch me online you you any of the above. Thanks
 

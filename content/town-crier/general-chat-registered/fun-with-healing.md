@@ -14,9 +14,9 @@ post_count: 2
 
 Eskimo Store
 
-   This is a general store of some type.  Rows of heavy jackets and furs are
+ This is a general store of some type. Rows of heavy jackets and furs are
 
-arranged on hangars and shelves.  Boots of various types are also on display.
+arranged on hangars and shelves. Boots of various types are also on display.
 
 The store sells to eskimos and adventurers alike.
 
@@ -30,11 +30,11 @@ A chubby eskimo is lying here, stunned.
 
 A chubby eskimo is covered in sticky webs!
 
-<762hp 525ma 303mv>
+\<762hp 525ma 303mv\>
 
 A chubby eskimo really needs a good bath! Phew!
 
-<767hp 529ma 303mv>
+\<767hp 529ma 303mv\>
 
 cast 'heal' eskimo
 
@@ -62,6 +62,6 @@ Someone's skin is charred by your healing touch.
 
 <div class="post" data-post-id="26334" data-author="Tap" data-date="2008-09-16T03:11:04+00:00" data-subject="">
 
-[img:215mujcy]http://www.filmtotaal.nl/images/newscontent/019299e.jpg[/img:215mujcy]
+![](http://www.filmtotaal.nl/images/newscontent/019299e.jpg)
 
 </div>

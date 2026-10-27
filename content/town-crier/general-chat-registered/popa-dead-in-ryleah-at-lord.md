@@ -26,8 +26,8 @@ thanks Zukt for helping with looting.
 
 <div class="post" data-post-id="21275" data-author="Autolycos" data-date="2007-11-11T22:23:09+00:00" data-subject="">
 
-weas... i love ya man... but for fuks sake... get an IM already.. this has been goin on a few years now..  
+weas... i love ya man... but for fuks sake... get an IM already.. this has been goin on a few years now.. 
 
-*STAB!*  :evil:
+\*STAB!\* <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>

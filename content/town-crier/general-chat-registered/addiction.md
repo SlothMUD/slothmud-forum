@@ -12,9 +12,9 @@ post_count: 2
 
 <div class="post" data-post-id="16804" data-author="Weasel" data-date="2007-02-11T11:15:49+00:00" data-subject="addiction">
 
-Weasel   =sMAc=   ( O)(o )  (level: 40)
+Weasel =sMAc= ( O)(o ) (level: 40)
 
-Your levels:  Wa: 40 Ma: 40 Cl: 40 Th: 40 Av: 40 
+Your levels: Wa: 40 Ma: 40 Cl: 40 Th: 40 Av: 40 
 
 You are 30 years and 4 months old.
 
@@ -38,7 +38,7 @@ You have one thousand and ten drachma.
 
 You have 1258414439 unused experience points.
 
-You have been playing for 500 days and 0 hours.[/color:1npjewq0]
+You have been playing for 500 days and 0 hours.
 
 You are a member of Sloth Mud Anglers' Club.
 
@@ -62,8 +62,8 @@ although a significant part of that was due to a bug a few years back where a ti
 
 <div class="post" data-post-id="16896" data-author="Avatar" data-date="2007-02-14T22:23:15+00:00" data-subject="addiction">
 
-Hrmm, I remember that bug.  I guess I can use that excuse as well, now my xxx days online don't seem so bad!
+Hrmm, I remember that bug. I guess I can use that excuse as well, now my xxx days online don't seem so bad!
 
-:)
+<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

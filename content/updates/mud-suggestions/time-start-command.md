@@ -20,6 +20,6 @@ like: Fargate enabled, or Fastrepop enabled, etc..Not many of us know when exact
 
 <div class="post" data-post-id="789" data-author="Calim" data-date="2004-06-18T11:56:40+00:00" data-subject="">
 
-Time started is also something I would like to see available from the web.  Not sure why, I just think it would be something I would like to know, same as groups, before logging in.  Anyone else?
+Time started is also something I would like to see available from the web. Not sure why, I just think it would be something I would like to know, same as groups, before logging in. Anyone else?
 
 </div>

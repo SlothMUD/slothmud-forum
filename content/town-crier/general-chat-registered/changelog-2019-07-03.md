@@ -14,7 +14,7 @@ post_count: 3
 
 The rebirth shop is now live in-game.
 
-Warcry has been *modified* for solo and 2-person groups.
+Warcry has been <em>modified</em> for solo and 2-person groups.
 
 Bard charms and other magic items that cast "self-only" spells are fixed so they can be cast on others again.
 
@@ -22,7 +22,7 @@ Bard charms and other magic items that cast "self-only" spells are fixed so they
 
 <div class="post" data-post-id="39228" data-author="Gorka" data-date="2019-07-03T17:22:50+00:00" data-subject="Re: Changelog 2019-07-03">
 
-Good news! Thanks Teker.  :) 
+Good news! Thanks Teker. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> 
 
 Zhanna can now also be relo'ed to.
 

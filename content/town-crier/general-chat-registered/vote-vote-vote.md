@@ -18,15 +18,15 @@ We are ranked #5!!!
 
 <div class="post" data-post-id="10583" data-author="Leaf" data-date="2006-02-06T18:32:26+00:00" data-subject="">
 
-[b:2rq10z0y]RATED NUMBER EIGHT!!![/b:2rq10z0y]
+<strong>RATED NUMBER EIGHT!!!</strong>
 
 </div>
 
 <div class="post" data-post-id="10587" data-author="Autolycos" data-date="2006-02-06T19:45:30+00:00" data-subject="">
 
-yeah,   
+yeah, 
 
-the guys at TMC said they will keep lowering our score everytime Will posts something or opens that rat hole of a mouth... stfu already! :twisted:
+the guys at TMC said they will keep lowering our score everytime Will posts something or opens that rat hole of a mouth... stfu already! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -34,19 +34,19 @@ the guys at TMC said they will keep lowering our score everytime Will posts some
 
 At the rate people are voting we should be booted off the top ten list before the week is over. I realise that the 30 seconds spent voting a day is a bit to much for some people, but for gods sake step it up and make a few clicks.
 
-Also on a side note i think that the forum admins should remove every post from Leaf that don't have any relevance to the subject.  I bet we could get him back down to a Prime Poster.
+Also on a side note i think that the forum admins should remove every post from Leaf that don't have any relevance to the subject. I bet we could get him back down to a Prime Poster.
 
- :evil: *smoke*
+ <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom"> \*smoke\*
 
 </div>
 
 <div class="post" data-post-id="10594" data-author="Autolycos" data-date="2006-02-06T21:39:16+00:00" data-subject="">
 
-*sniff sniff
+\*sniff sniff
 
-[img:2cft7snd]http://www.xgenco.com/sloth3/vote.jpg[/img:2cft7snd]
+![](http://www.xgenco.com/sloth3/vote.jpg)
 
-what a meanie!!! :twisted:
+what a meanie!!! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -54,7 +54,7 @@ what a meanie!!! :twisted:
 
 Walking brownies!
 
-*chomp*
+\*chomp\*
 
 </div>
 
@@ -84,11 +84,11 @@ Keep it up guys, lets get back to 1 ST PLACE!!!
 
 hmm. We're 7th on the 'vote' ranking, but 5th overall (includes telnet and homepage votes)
 
-[url:2wajuwd2]http://www.mudconnect.com/cgi-bin/all_rankings.cgi[/url:2wajuwd2]
+http://www.mudconnect.com/cgi-bin/all_rankings.cgi
 
 Although it seems they use the vote ranking as the main indicator..
 
-[url:2wajuwd2]http://www.mudconnect.com/mud-bin/adv_search.cgi?Mode=MUD&mud=SlothMUD+III[/url:2wajuwd2]
+http://www.mudconnect.com/mud-bin/adv_search.cgi?Mode=MUD&mud=SlothMUD+III
 
 </div>
 
@@ -96,7 +96,7 @@ Although it seems they use the vote ranking as the main indicator..
 
 Just an fyi i have smoked 142 kittens in the last 2 days.
 
-*smoke*
+\*smoke\*
 
 </div>
 
@@ -130,9 +130,9 @@ new players. So, vote every day! It only takes less than a minute!
 
 <div class="post" data-post-id="10612" data-author="Autolycos" data-date="2006-02-08T12:42:23+00:00" data-subject="">
 
-C'mon people,   Falsra asked you nicely.
+C'mon people, Falsra asked you nicely.
 
-now vote :!: 
+now vote <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom"> 
 
 if you wont do it to save the kittens from their terrible fate, 
 
@@ -144,7 +144,7 @@ od it for Falsra.
 
 Wow we are kicking ass, from a low 8th to 7th in a day. 
 
-NOW we are in 5[/size:3jg0cwoa] place.  Two spot jump, lets get us back in
+NOW we are in 5 place. Two spot jump, lets get us back in
 
 the game to #1 by weekend!!!
 
@@ -164,9 +164,9 @@ do it for the kittens!!!
 
 <div class="post" data-post-id="10616" data-author="12345" data-date="2006-02-08T17:10:43+00:00" data-subject="">
 
-[img:3ljunxg8]http://oregonstate.edu/~tellerit/Pirate4x4%20Chops/kitten-die.jpg[/img:3ljunxg8]
+![](http://oregonstate.edu/~tellerit/Pirate4x4%20Chops/kitten-die.jpg)
 
-Er... I mean Vote!  Yeah, that's it... vote....
+Er... I mean Vote! Yeah, that's it... vote....
 
 </div>
 
@@ -174,21 +174,21 @@ Er... I mean Vote!  Yeah, that's it... vote....
 
 GUYS! STFU AND STOP THIS HYSTERIC, PLEASE!
 
-JUST GO AND VOTE FOR SLOTH :!: 
+JUST GO AND VOTE FOR SLOTH <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom"> 
 
-p.s. Got my spam point for today. Good! 8)
+p.s. Got my spam point for today. Good! <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="10620" data-author="Autolycos" data-date="2006-02-08T19:52:34+00:00" data-subject="">
 
-You have been caught :!: 
+You have been caught <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom"> 
 
-You have been cornered :!: 
+You have been cornered <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom"> 
 
-NOW VOTE, OR MR. TINKLES GETS IT :!:  :twisted: 
+NOW VOTE, OR MR. TINKLES GETS IT <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-[img:aoah0nd7]http://www.xgenco.com/sloth3/kittengun.jpeg[/img:aoah0nd7]
+![](http://www.xgenco.com/sloth3/kittengun.jpeg)
 
 </div>
 
@@ -196,7 +196,7 @@ NOW VOTE, OR MR. TINKLES GETS IT :!:  :twisted:
 
 Sensing that #1 rank might still be a ways away and with the killing of untold numbers of cats, the furballs retaliate by mass producing.
 
-[img:2n8efhu1]http://www.xgenco.com/sloth3/slothcat.jpg[/img:2n8efhu1]
+![](http://www.xgenco.com/sloth3/slothcat.jpg)
 
 </div>
 
@@ -210,6 +210,6 @@ wow.. now we've dropped to 8th.. but there's only a small margin between 4th and
 
 VOTE or this may be you soon!
 
-[img:7md8u89a]http://www.cartoonstock.com/lowres/rni0106l.jpg[/img:7md8u89a]
+![](http://www.cartoonstock.com/lowres/rni0106l.jpg)
 
 </div>

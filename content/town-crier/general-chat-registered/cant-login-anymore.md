@@ -12,7 +12,7 @@ post_count: 3
 
 <div class="post" data-post-id="37396" data-author="gearsgod" data-date="2016-10-12T12:42:11+00:00" data-subject="Cant login anymore.">
 
-my username in game was gearsgod, but now no matter what password I use I cant login to the game anymore! *cries*
+my username in game was gearsgod, but now no matter what password I use I cant login to the game anymore! \*cries\*
 
 </div>
 

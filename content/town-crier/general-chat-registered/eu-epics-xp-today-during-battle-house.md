@@ -27,12 +27,12 @@ Thanks Guys!
 ```
 Grouped counters elapsed time: 4 hours, 30 minutes, 16 seconds
 
-                   Total Earned    Per Hour    Minute    Second     Per Kill
-                   ------------    --------    ------    ------     --------
-Kills                       332      73.7        1.2       0.0 
-Experience Points    7038946549       1.6B      26.0M    434.1k       21.2M
-Gold Coins              2935071     651.6k      10.9k    181.0         8.8k
-Honor Points             562281     124.8k       2.1k     34.7         1.7k
+ Total Earned Per Hour Minute Second Per Kill
+ ------------ -------- ------ ------ --------
+Kills 332 73.7 1.2 0.0 
+Experience Points 7038946549 1.6B 26.0M 434.1k 21.2M
+Gold Coins 2935071 651.6k 10.9k 181.0 8.8k
+Honor Points 562281 124.8k 2.1k 34.7 1.7k
 ```
 
 2 Asmodeus
@@ -41,8 +41,8 @@ Honor Points             562281     124.8k       2.1k     34.7         1.7k
 
 1 Adramalech
 
--34838348 choppers 
+\-34838348 choppers 
 
-+ misc cp's
+\+ misc cp's
 
 </div>

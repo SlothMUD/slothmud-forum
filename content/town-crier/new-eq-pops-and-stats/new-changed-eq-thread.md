@@ -24,7 +24,7 @@ AC-apply is -1.0
 
 Can affect you as:
 
-    Affects: CON by 1
+ Affects: CON by 1
 
 Only those who are at least adept clerics, warriors, necromancers, or bards
 
@@ -40,7 +40,7 @@ AC-apply is -0.1
 
 Can affect you as:
 
-    Affects: DEX by 1
+ Affects: DEX by 1
 
 Only those who are at least novice magic users, clerics, thieves, warriors,
 
@@ -60,15 +60,15 @@ AC-apply is -0.7
 
 Can affect you as:
 
-    Affects: STR by 1
+ Affects: STR by 1
 
-    Affects: MOVE by 5
+ Affects: MOVE by 5
 
 Only those who are at least adept magic users or apprentice clerics, or
 
 apprentice thieves, or apprentice warriors, or apprentice druids, or adept
 
-necromancers, or apprentice bards, or apprentice monks may use this item.<151hp 31ma 215mv>
+necromancers, or apprentice bards, or apprentice monks may use this item.\<151hp 31ma 215mv\>
 
 black knight 
 
@@ -82,7 +82,7 @@ AC-apply is -1.0
 
 Can affect you as:
 
-    Affects: HITROLL by 1
+ Affects: HITROLL by 1
 
 Only those who are at least novice thieves, warriors, or bards may use this
 
@@ -120,7 +120,7 @@ AC-apply is -0.4
 
 Can affect you as:
 
-    Affects: WIS by 1
+ Affects: WIS by 1
 
 Only those who are at least adept magic users and also apprentice clerics
 
@@ -146,9 +146,9 @@ Damage Dice is '4D3'
 
 Can affect you as:
 
-Â Â Â  Affects: HITROLL by 2
+Â Â Â Affects: HITROLL by 2
 
-Â Â Â  Affects: REGEN_HP by 2
+Â Â Â Affects: REGEN\_HP by 2
 
 Only those who are at least apprentice clerics or adept warriors, or
 
@@ -168,13 +168,13 @@ Weight: 1, Value: 5500gold, Worn in: TAKE
 
 Clasp can only be attached to:
 
-   necklaces, amulets, and gorgets
+ necklaces, amulets, and gorgets
 
-   ABOUT
+ ABOUT
 
-   ENCHANTED
+ ENCHANTED
 
-   NO_HUNT
+ NO\_HUNT
 
 Clasp gives the user +1 HITROLL
 
@@ -216,9 +216,9 @@ AC-apply is -0.1
 
 Can affect you as:
 
-    Affects: INT by 1
+ Affects: INT by 1
 
-    Affects: REGEN_MANA by 2
+ Affects: REGEN\_MANA by 2
 
 Only those who are at least adept magic users, clerics, druids, or
 
@@ -276,9 +276,9 @@ Weight: 3, Value: 350000gold, Worn in: TAKE WRIST
 
 Can affect you as:
 
-    Affects: SPELL_BONUS by 5
+ Affects: SPELL\_BONUS by 5
 
-    Affects: HEAL_BONUS by 5
+ Affects: HEAL\_BONUS by 5
 
 Only those who are at least supreme magic users, clerics, druids,
 
@@ -292,7 +292,7 @@ may use this item.
 
 A little snudiss cringes.
 
-<619hp 196ma 215mv>
+\<619hp 196ma 215mv\>
 
 Lob utters the words, 'uqz grul'
 
@@ -312,77 +312,77 @@ Your blood freezes as you hear a little snudiss's death cry.
 
 Lob gets gold coins from the corpse of a little snudiss that's on the ground.
 
-Lob splits 12307 coins.  Your share is 4102 coins.
+Lob splits 12307 coins. Your share is 4102 coins.
 
 Lob gets an emerald bracelet from the corpse of a little snudiss that's on the ground.
 
-<619hp 196ma 215mv>
+\<619hp 196ma 215mv\>
 
 crys
 
 Shutdown by Splork.
 
-<619hp 197ma 215mv>
+\<619hp 197ma 215mv\>
 
 Stryx has left this channel: dow.
 
 Stryx has lost his link.
 
-  5756174 bytes received in total, compressed to 225913 bytes by MCCP (96 % saving)
+ 5756174 bytes received in total, compressed to 225913 bytes by MCCP (96 % saving)
 
 </div>
 
 <div class="post" data-post-id="29093" data-author="Medios" data-date="2009-05-05T14:33:44+00:00" data-subject="">
 
-#CONNECTED.
+\#CONNECTED.
 
-                       Based on DikuMUD created by:
+ Based on DikuMUD created by:
 
-              Hans Henrik Staerfeldt, Katja Nyboe, Tom Madsen,
+ Hans Henrik Staerfeldt, Katja Nyboe, Tom Madsen,
 
-                   Michael Seifert, and Sebastian Hammer
+ Michael Seifert, and Sebastian Hammer
 
-         ***
+ \*\*\*
 
-      *********          *              ***   *************** *          *
+ \*\*\*\*\*\*\*\*\* \* \*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \* \*
 
-     ***     ****        **          **     ** *************  **        **
+ \*\*\* \*\*\*\* \*\* \*\* \*\* \*\*\*\*\*\*\*\*\*\*\*\*\* \*\* \*\*
 
-   *****      ****  *    ***        **       **     ***       **        **
+ \*\*\*\*\* \*\*\*\* \* \*\*\* \*\* \*\* \*\*\* \*\* \*\*
 
-   *****         ***     ***       ***       ***    ***       ***      ***
+ \*\*\*\*\* \*\*\* \*\*\* \*\*\* \*\*\* \*\*\* \*\*\* \*\*\*
 
-    ******        *      ***      ****       ****   ***       ************
+ \*\*\*\*\*\* \* \*\*\* \*\*\*\* \*\*\*\* \*\*\* \*\*\*\*\*\*\*\*\*\*\*\*
 
-       *****             ***       ***       ***    ***       ***      ***
+ \*\*\*\*\* \*\*\* \*\*\* \*\*\* \*\*\* \*\*\* \*\*\*
 
-           *****         **         **       **     ***       **        **
+ \*\*\*\*\* \*\* \*\* \*\* \*\*\* \*\* \*\*
 
-               *****     **********  **     **      ***       **        **
+ \*\*\*\*\* \*\*\*\*\*\*\*\*\*\* \*\* \*\* \*\*\* \*\* \*\*
 
-                 *****   *********      ***          *        *          *
+ \*\*\*\*\* \*\*\*\*\*\*\*\*\* \*\*\* \* \* \*
 
-                   ****
+ \*\*\*\*
 
-                  *****
+ \*\*\*\*\*
 
-   *              *****
+ \* \*\*\*\*\*
 
-    ***          ****
+ \*\*\* \*\*\*\*
 
-       ***********
+ \*\*\*\*\*\*\*\*\*\*\*
 
-         *****
+ \*\*\*\*\*
 
 By what name do you wish to be known?
 
 Password:
 
-Password accepted.  Press return to continue...
+Password accepted. Press return to continue...
 
--------------------------------------------------------------------------------
+\-------------------------------------------------------------------------------
 
-Welcome to SlothMUD III!  This version of Sloth has been running since 1997.
+Welcome to SlothMUD III! This version of Sloth has been running since 1997.
 
 For more information, please visit our website at [http://www.slothmud.org/](http://www.slothmud.org/)
 
@@ -396,41 +396,41 @@ done by yourself or with your friends. This game enables you to be online, in a
 
 game communicating with one another, having fun.
 
--------------------------------------------------------------------------------
+\-------------------------------------------------------------------------------
 
-*** PRESS RETURN:
+\*\*\* PRESS RETURN:
 
 Welcome to the Sloth DikuMUD at UKANS
 
-0) Exit from DikuMud.
+0\) Exit from DikuMud.
 
-1) Enter the game.
+1\) Enter the game.
 
-2) Enter description.
+2\) Enter description.
 
-3) Read the background story
+3\) Read the background story
 
-4) Change password.
+4\) Change password.
 
-5) Delete this character. [Level 9 or less only]
+5\) Delete this character. [Level 9 or less only]
 
-   Make your choice: 1
+ Make your choice: 1
 
 Welcome to the land of SlothMUD. May your visit here be... Interesting.
 
 Settlestone's Well
 
-   This is an extremely energetic section of the dwarven city of Settlestone.
+ This is an extremely energetic section of the dwarven city of Settlestone.
 
 Two bustling streets intersect here at the site of a ten foot tall statue of
 
-the famed Krodar Thunderhammer.  All four sets of city gates can be seen from
+the famed Krodar Thunderhammer. All four sets of city gates can be seen from
 
-this vantage and hundreds of people walk about nearby.  There is also a large
+this vantage and hundreds of people walk about nearby. There is also a large
 
 black stone well in the center of the square.
 
-Exits: North  East  South  West  Up  Down
+Exits: North East South West Up Down
 
 Settlestone's newbie sign is here next to the well saying 'Look at me.'
 
@@ -450,11 +450,11 @@ Brandishing a long pike, a member of the dwarven militia stands ready.
 
 A dwarven citizen walks around you as he goes about his business.
 
-<619hp 302ma 215mv>
+\<619hp 302ma 215mv\>
 
 Assir has entered the game.
 
-<619hp 302ma 215mv>
+\<619hp 302ma 215mv\>
 
 l lob
 
@@ -464,39 +464,39 @@ Lob is in excellent condition.
 
 Lob is using:
 
-<used as light>      a glowing oyster's pearl
+\<used as light\> a glowing oyster's pearl
 
-<worn on finger>     a swirling red and blue ring
+\<worn on finger\> a swirling red and blue ring
 
-<worn on finger>     a swirling red and blue ring
+\<worn on finger\> a swirling red and blue ring
 
-<worn around neck>   a steel torc..It glows violet! (with a sloth-shaped brooch attached to it)
+\<worn around neck\> a steel torc..It glows violet! (with a sloth-shaped brooch attached to it)
 
-<worn around neck>   a steel torc..It glows violet!
+\<worn around neck\> a steel torc..It glows violet!
 
-<worn on body>       a suit of mystic chainmail..It glows violet!
+\<worn on body\> a suit of mystic chainmail..It glows violet!
 
-<worn on head>       a large spangelhelm
+\<worn on head\> a large spangelhelm
 
-<worn on legs>       chainmail leggings
+\<worn on legs\> chainmail leggings
 
-<worn on feet>       a pair of rotted cloth boots..It glows violet!
+\<worn on feet\> a pair of rotted cloth boots..It glows violet!
 
-<worn on hands>      a pair of leather gloves
+\<worn on hands\> a pair of leather gloves
 
-<worn on arms>       Sleeves of the Clown Lord Marshall..It glows violet!
+\<worn on arms\> Sleeves of the Clown Lord Marshall..It glows violet!
 
-<worn as shield>     a white scaly shield (with a single-striped white sash (Private) attached to it)
+\<worn as shield\> a white scaly shield (with a single-striped white sash (Private) attached to it)
 
-<worn about body>    a grey robe..It glows violet!
+\<worn about body\> a grey robe..It glows violet!
 
-<worn about waist>   a black silver belt..It glows violet!
+\<worn about waist\> a black silver belt..It glows violet!
 
-<worn around wrist>  a string of icy blue beads..It glows violet!
+\<worn around wrist\> a string of icy blue beads..It glows violet!
 
-<worn around wrist>  a shiny charm
+\<worn around wrist\> a shiny charm
 
-<held>               a blue rose..It glows violet!..It has a soft glowing aura!
+\<held\> a blue rose..It glows violet!..It has a soft glowing aura!
 
 You attempt to peek at the inventory:
 
@@ -532,7 +532,7 @@ AC-apply is -0.3
 
 Can affect you as:
 
-    Affects: INT by 1
+ Affects: INT by 1
 
 Only those who are at least adept magic users may use this item.
 
@@ -558,7 +558,7 @@ druids, necromancers, bards, or monks may use this item.
 
 eqlist:
 
-Shield of Yawning Death Mummy Sash Lieutenant  Dark Dreams -1.0   AdM AdC AdT AdW AdDr AdNe AdBa AdMo [OR]  
+Shield of Yawning Death Mummy Sash Lieutenant Dark Dreams -1.0 AdM AdC AdT AdW AdDr AdNe AdBa AdMo [OR] 
 
 Mob is also wrong pops on:
 
@@ -580,7 +580,7 @@ AC-apply is -1.2
 
 Can affect you as:
 
-    Affects: HITPOINT by 25
+ Affects: HITPOINT by 25
 
 Only those who are at least experienced thieves, warriors, bards, or monks,
 
@@ -604,9 +604,9 @@ use this item.
 
 <div class="post" data-post-id="29097" data-author="Toxis" data-date="2009-05-06T08:45:23+00:00" data-subject="">
 
-Soon, I will be fixing the new found eq.  Please keep posting in this thread, or repost eq in submitted eq.  If submiting eq, please submit eq fully, do not leave out mob area or any other info.  Thank you.
+Soon, I will be fixing the new found eq. Please keep posting in this thread, or repost eq in submitted eq. If submiting eq, please submit eq fully, do not leave out mob area or any other info. Thank you.
 
--Tox
+\-Tox
 
 </div>
 
@@ -636,9 +636,9 @@ AC-apply is -0.1
 
 Can affect you as:
 
-    Affects: STR by 1
+ Affects: STR by 1
 
-    Affects: CON by 1
+ Affects: CON by 1
 
 Only those who are at least apprentice magic users or clerics may use this
 
@@ -664,7 +664,7 @@ Only those who are at least experienced warriors may use this item.
 
 eqlist:
 
-Thick Iron Gauntlets -0.4   AdW
+Thick Iron Gauntlets -0.4 AdW
 
 </div>
 
@@ -684,13 +684,13 @@ Damage Dice is '2D5'
 
 Can affect you as:
 
-    Affects: DAMROLL by 1
+ Affects: DAMROLL by 1
 
-    Affects: HITROLL by 1
+ Affects: HITROLL by 1
 
 Only those who are at least adept thieves or monks may use this item.
 
-I personally love these thieves [OR] [b:16iht59k]monks[/color:16iht59k][/b:16iht59k] restrictions for daggers.
+I personally love these thieves [OR] <strong>monks</strong> restrictions for daggers.
 
 Vixn
 
@@ -712,7 +712,7 @@ Weight: 20, Value: 3000gold, Worn in: TAKE HOLD
 
 Can affect you as:
 
-    Affects: HITROLL by 1
+ Affects: HITROLL by 1
 
 Only those who are at least apprentice magic users, clerics, thieves,
 
@@ -754,7 +754,7 @@ AC-apply is -0.2
 
 Can affect you as:
 
-    Affects: DEX by 1
+ Affects: DEX by 1
 
 Only those who are at least apprentice magic users, thieves, necromancers,
 
@@ -814,7 +814,7 @@ Golden Pentagram is now known as Mithril Pentagram however the stats are retaine
 
 I'll post more as I find them.
 
--Rig
+\-Rig
 
 </div>
 
@@ -822,7 +822,7 @@ I'll post more as I find them.
 
 They cut the mr on the torch!!!?!?
 
-Why would you do that? *shaking head*
+Why would you do that? \*shaking head\*
 
 </div>
 
@@ -838,11 +838,11 @@ Edit: Avian claw has retained it's same stats, however the restricts are now 3X4
 
 Finally managed the moria shield forge, it has been changed a bit.
 
-Ruddy Scale Shield, -1.1 +3 HPR and [b:1xuavg06]Resist Fire by 20.[/b:1xuavg06]
+Ruddy Scale Shield, -1.1 +3 HPR and <strong>Resist Fire by 20.</strong>
 
 Restricts are the same, 2X40 with SWA or Ba or Mo.
 
--Rig
+\-Rig
 
 </div>
 
@@ -862,7 +862,7 @@ Weight: 1, Value: 15000gold, Worn in: TAKE FINGER
 
 Can affect you as:
 
-    Affects: HEAL_BONUS by 3
+ Affects: HEAL\_BONUS by 3
 
 Only those who are at least adept clerics or master druids, or master bards
 
@@ -880,7 +880,7 @@ Wow, what a bright idea to cut HB on rings from +5 to +3.
 
 Make it +1 so to be sure no one will even try to cycle it.
 
-So it seems there is no way to get cap on heal_bonus or spell_dam even if you buy all drachma EQ. Should we expect any new HB/SD eq anytime soon or what?
+So it seems there is no way to get cap on heal\_bonus or spell\_dam even if you buy all drachma EQ. Should we expect any new HB/SD eq anytime soon or what?
 
 Kida.
 
@@ -900,15 +900,15 @@ Weight: 0, Value: 3501gold, Worn in: TAKE INSTRUMENT
 
 This instrument enhances accompanied bard songs.
 
-   Bard effects last 116% longer.
+ Bard effects last 116% longer.
 
-   Bard songs use 21% less mana.
+ Bard songs use 21% less mana.
 
-   Bard songs can be heard by 3 more people.
+ Bard songs can be heard by 3 more people.
 
 Can affect you as:
 
-    Affects: CHARISMA by 1
+ Affects: CHARISMA by 1
 
 Only those who are at least supreme bards, and have attained supremacy in
 
@@ -916,7 +916,7 @@ at least seven classes may use this item.
 
 Good news is that now everybody can use viol.
 
-Kida*!bard*
+Kida\*!bard\*
 
 </div>
 
@@ -936,9 +936,9 @@ AC-apply is -0.2
 
 Can affect you as:
 
-    Affects: HITROLL by 1
+ Affects: HITROLL by 1
 
-    Affects: REGEN_MOVE by 1
+ Affects: REGEN\_MOVE by 1
 
 Only those who are at least master thieves or monks may use this item.
 
@@ -962,9 +962,9 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: MANA by 12
+ Affects: MANA by 12
 
-    Affects: CON by 1
+ Affects: CON by 1
 
 Only those who are primary supreme magic users, and have attained supremacy
 
@@ -976,7 +976,7 @@ in at least two classes may use this item.
 
 You feel informed:
 
-Object 'circle power interwoven elite auto_quest forge *Cizin*', Item type: ARMOR
+Object 'circle power interwoven elite auto\_quest forge \*Cizin\*', Item type: ARMOR
 
 Item is: PERSONAL RESTRUNG 
 
@@ -986,9 +986,9 @@ AC-apply is -0.1
 
 Can affect you as:
 
-    Affects: DAMROLL by 1
+ Affects: DAMROLL by 1
 
-    Affects: SPELL_BONUS by 5
+ Affects: SPELL\_BONUS by 5
 
 Only those who are at least adept magic users, clerics, thieves, warriors,
 
@@ -1006,7 +1006,7 @@ You recite an identify scroll which dissolves.
 
 You feel informed:
 
-Object 'book ars magica multi tower forge *Kulum*', Item type: ARMOR
+Object 'book ars magica multi tower forge \*Kulum\*', Item type: ARMOR
 
 Item is: PERSONAL MAGIC RESTRUNG CAN-SHAPESHIFT 2x40-ITEM 
 
@@ -1016,11 +1016,11 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: MANA by 20
+ Affects: MANA by 20
 
-    Affects: REGEN_MANA by 3
+ Affects: REGEN\_MANA by 3
 
-    Affects: MAX_INT by 1
+ Affects: MAX\_INT by 1
 
 Only those who are at least supreme magic users, clerics, druids,
 
@@ -1038,15 +1038,15 @@ FYI ring of life is 5 heal bonus again, I am not sure how that one slipped throu
 
 <div class="post" data-post-id="29979" data-author="Nyx" data-date="2009-09-10T02:53:08+00:00" data-subject="">
 
-Thanks Krom, much appreciated!! :)
+Thanks Krom, much appreciated!! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
--- Tabitha
+\-- Tabitha
 
 </div>
 
 <div class="post" data-post-id="30462" data-author="Jag" data-date="2009-12-09T13:00:48+00:00" data-subject="">
 
-Is the "correct" database of equipment still an active project?  
+Is the "correct" database of equipment still an active project? 
 
 I haven't heard anything and I think people stopped posting eq here,thinking the compete DB would be available soon.
 
@@ -1054,11 +1054,14 @@ I haven't heard anything and I think people stopped posting eq here,thinking the
 
 <div class="post" data-post-id="30491" data-author="harik" data-date="2009-12-15T09:00:45+00:00" data-subject="">
 
-Is the "correct" database of equipment still an active project?  
+> <strong>Jag wrote:</strong>
+> Is the "correct" database of equipment still an active project? 
+> 
+> 
+> 
+> I haven't heard anything and I think people stopped posting eq here,thinking the compete DB would be available soon.
 
-I haven't heard anything and I think people stopped posting eq here,thinking the compete DB would be available soon.[/quote:37g40yc4]
-
-If nothing else, I'm making one.   Already have the automatic identify parser done so you just paste in items, as soon as I get searching finished I'll put it up and start filling it in (225+ lowlevel items in the DB already)
+If nothing else, I'm making one. Already have the automatic identify parser done so you just paste in items, as soon as I get searching finished I'll put it up and start filling it in (225+ lowlevel items in the DB already)
 
 I'll go ahead and include everything in this thread (and the drachma shop thread) as well.
 

@@ -48,7 +48,7 @@ Playerstats auto-updated this week, as it should have.
 
 Also, the blog is back to working after taking a short vacation from recording all of your data from year's past!
 
- :idea: 
+ <img src="/images/smilies/icon_idea.svg" alt=":idea:" title=":idea:" width="15" height="15" class="smiley nozoom"> 
 
 Splork
 

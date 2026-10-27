@@ -12,25 +12,25 @@ post_count: 15
 
 <div class="post" data-post-id="15881" data-author="tincts" data-date="2007-01-01T05:07:16+00:00" data-subject="Spirit marker">
 
-This spell is cool, though I havn't found many practical applications for it.  Any chance of being able to vis your marker?
+This spell is cool, though I havn't found many practical applications for it. Any chance of being able to vis your marker?
 
 </div>
 
 <div class="post" data-post-id="15903" data-author="kjartan" data-date="2007-01-02T18:23:16+00:00" data-subject="">
 
-Well, maybe.  Why do you want to do that?
+Well, maybe. Why do you want to do that?
 
 </div>
 
 <div class="post" data-post-id="15904" data-author="gondor" data-date="2007-01-02T19:01:16+00:00" data-subject="">
 
-If we could vis the marker perhaps we could use to mark areas we might wish to check in on from time to time.  i.e. a location that spellbooks are generally dropped we could vis the marker and see if a spellbook we might need is there.
+If we could vis the marker perhaps we could use to mark areas we might wish to check in on from time to time. i.e. a location that spellbooks are generally dropped we could vis the marker and see if a spellbook we might need is there.
 
 </div>
 
 <div class="post" data-post-id="15905" data-author="kjartan" data-date="2007-01-02T19:11:30+00:00" data-subject="">
 
-Yeah, that sounds reasonable.  I shall ask a second opinion from some other imms but probably I shall make it so you can vis markers.  If I do, the price is going up to 2 drachma per book.
+Yeah, that sounds reasonable. I shall ask a second opinion from some other imms but probably I shall make it so you can vis markers. If I do, the price is going up to 2 drachma per book.
 
 </div>
 
@@ -52,7 +52,7 @@ i can't even see you way out there on that limb!
 
 whats syntax for getting rid of these things?
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -60,15 +60,18 @@ whats syntax for getting rid of these things?
 
 cast 'dispel magic' brand
 
-errr i mean rune  :evil:
+errr i mean rune <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="15910" data-author="kjartan" data-date="2007-01-02T20:44:40+00:00" data-subject="">
 
-but what about being able to relocate to your markers? 
-
-or at least 1 per continent?[/quote:15fr3mp4]
+> <strong>Autolycos wrote:</strong>
+> but what about being able to relocate to your markers? 
+> 
+> 
+> 
+> or at least 1 per continent?
 
 That I can answer without a second opinion: no.
 
@@ -78,13 +81,13 @@ That I can answer without a second opinion: no.
 
 sniff sniff.....
 
-ok i'm over it  :twisted:
+ok i'm over it <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="15915" data-author="tincts" data-date="2007-01-03T00:45:35+00:00" data-subject="">
 
-Yeah, reason = what Gondor said.  Monitor an area, not necessarily a mob (ie. different use to spirit watcher.)  Could see uses in quests especially.  Thanks for considering :)
+Yeah, reason = what Gondor said. Monitor an area, not necessarily a mob (ie. different use to spirit watcher.) Could see uses in quests especially. Thanks for considering <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -98,7 +101,7 @@ Actually, how about being able to vis your spirit watchers?
 
 Being able to vis MOB repop without using a spirit watcher is gonna be cool.
 
-I can't wait to see the many ways this will be ,how you say, resourceful :twisted:
+I can't wait to see the many ways this will be ,how you say, resourceful <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -110,11 +113,11 @@ i.e. i created a rune 'Trupik wants to eat' and a rune 'Trupik wants to drink'. 
 
 You get a very clear reading: a glowing blue rune labeled 'Trupik wants to drink' is at Main Street in Bal Harbor Town somewhere on Thordfalan. 
 
-if it fixed we can create on-mud chopping block :P
+if it fixed we can create on-mud chopping block <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 i.e. we can create a rune 'WTB or WTS blablabla for xxx coins'
 
-oh just found out.... we can locate 2.wtb :)
+oh just found out.... we can locate 2.wtb <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -122,13 +125,14 @@ oh just found out.... we can locate 2.wtb :)
 
 or i could make a rune thats called
 
-STFU_Trupik  for which it could babble incoherently
+STFU\_Trupik for which it could babble incoherently
 
 </div>
 
 <div class="post" data-post-id="15967" data-author="firebrand" data-date="2007-01-04T14:16:36+00:00" data-subject="">
 
-Actually, how about being able to vis your spirit watchers?[/quote:gwictzkw]
+> <strong>tincts wrote:</strong>
+> Actually, how about being able to vis your spirit watchers?
 
 help spirit
 
@@ -146,25 +150,25 @@ deity, and a bard might enchant a muse into the work with his song.
 
 Spirits take on a limited substance by draining the magician's magical power;
 
-this is felt by the magician as a reduced rate of mana regeneration.  The
+this is felt by the magician as a reduced rate of mana regeneration. The
 
 less puissant spirits don't have enough substance to interact with solid
 
-objects, but can still serve as scouts and messengers.  A magician controls
+objects, but can still serve as scouts and messengers. A magician controls
 
-his spirits by telling them to do things.  All spirits can obey some simple
+his spirits by telling them to do things. All spirits can obey some simple
 
 commands:
 
-   "come here"         return to the spirit's master
+ "come here" return to the spirit's master
 
-   "where are you?"    tell the master where you are
+ "where are you?" tell the master where you are
 
-   "dismissed"         dissipate, and stop draining the master's mana
+ "dismissed" dissipate, and stop draining the master's mana
 
 Spirits can also do other more specific tasks associated with the particular
 
-type of spirits.  For example, watcher spirits (one of the least powerful
+type of spirits. For example, watcher spirits (one of the least powerful
 
 species) can be told to "watch bob" and will report back on Bob.
 

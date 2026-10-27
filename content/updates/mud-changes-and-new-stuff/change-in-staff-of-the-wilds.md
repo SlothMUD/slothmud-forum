@@ -14,7 +14,7 @@ post_count: 2
 
 Greeting mortals.
 
-- Gave Staff of the Wilds some charges.  Not that it really matter due its autoquest nature, but still.
+- Gave Staff of the Wilds some charges. Not that it really matter due its autoquest nature, but still.
 
 Thanks Taron for reporting.
 

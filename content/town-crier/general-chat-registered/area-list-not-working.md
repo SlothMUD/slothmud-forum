@@ -12,7 +12,7 @@ post_count: 2
 
 <div class="post" data-post-id="37270" data-author="celerra7" data-date="2016-08-22T23:21:16+00:00" data-subject="Area List Not Working?">
 
-I apologize if I missed it, but is the Area file (on the EQLIST page) broken?  Was going to do some cross referencing with Forges, but found the file only contains "UNKNOWN".  Thanks.
+I apologize if I missed it, but is the Area file (on the EQLIST page) broken? Was going to do some cross referencing with Forges, but found the file only contains "UNKNOWN". Thanks.
 
 </div>
 

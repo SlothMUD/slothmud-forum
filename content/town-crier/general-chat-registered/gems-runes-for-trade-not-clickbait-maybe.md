@@ -24,7 +24,7 @@ A few times I've suggested to Breeze that rebirths should be able to trade spare
 
 So my next problem was that not all runes were created equal. So I spent a bit of time sorting them into 8 groups rather than the 3 tiers to organise their value a bit better. It's still not perfect but here is what I came up with...
 
-----------------------------------------------
+\----------------------------------------------
 
 GEM VALUE CONSIDERATIONS:
 
@@ -38,7 +38,7 @@ IS THE ITEM PRACTICALLY JUNK? Points-
 
 WHAT IS THE TIER VALUE? Points+
 
-----------------------------------------------
+\----------------------------------------------
 
 Group 1
 
@@ -98,7 +98,7 @@ Banded Agate - STR LIGHT
 
 Blue Quartz - INT LIGHT
 
-Lapus Lazuli - CON LIGHT    
+Lapus Lazuli - CON LIGHT 
 
 Hematite - WIS LIGHT
 
@@ -156,13 +156,13 @@ Group 6
 
 Aventurine - 1 DR WAIST
 
-Emerald - MAX_WIS LIGHT
+Emerald - MAX\_WIS LIGHT
 
 Jacinth - 0.1 AC WAIST
 
-Obsidian - MAX_CON LIGHT
+Obsidian - MAX\_CON LIGHT
 
-Tiger Eye - MAX_INT LIGHT
+Tiger Eye - MAX\_INT LIGHT
 
 Golden Yellow Topaz - 1 HD WRIST
 
@@ -170,7 +170,7 @@ Colorless Sapphire - 2 WD WEAPON
 
 Group 7
 
-Malachite - MAX_STR LIGHT
+Malachite - MAX\_STR LIGHT
 
 Rose Quartz - 4 SB WAIST
 
@@ -190,19 +190,19 @@ Star Ruby - 1 MR NECK
 
 Tomb Jade - 2 WD WRIST 
 
-Rhodochrosite - MAX_DEX LIGHT
+Rhodochrosite - MAX\_DEX LIGHT
 
-------------------------------------------------
+\------------------------------------------------
 
 Now there is a forge in the game for white cloaks... it has the following cp's... 1 x a hematite ankh, 1 x a glowing sun symbol, 1 x a grey robe, 1 x a long grey cloak. The ankh is essentially 2 grey robes, so basically it is 3 grey robes, a long grey cloak, and a sun symbol. Now this forge gives 3 drachma each time, and it's renewable. I think it's the only renewable drachma in the game but as far as I know, no one farms it because 3 drachma just isn't enough to make it worth it, and the mob which pops the long grey robe isn't solo for everyone. Everyone kind of expects about 150 drachma+ from a holiday quest, so the 3 renewable dr remained in the game for years, un-abused as far as I know.
 
 Now the 3 grey robes and the sun symbol are newbie mobs, they require an item from the sun priestess which is somewhat stingy and 12 strips of cloths from juniors which have a very good pop rate (but are annoying). My idea is to trade these items for RUNES/GEMS. This way, all desirable outcomes can be met...
 
-- I can source drachma and fulfill a certain amount of responsibility I have.
+\- I can source drachma and fulfill a certain amount of responsibility I have.
 
-- A player (even a Newbie!) can source something they can not get through cycling, and often even gem trading.
+\- A player (even a Newbie!) can source something they can not get through cycling, and often even gem trading.
 
-- The culture (that builds better players) who seek reward through work (not whining) is protected. 
+\- The culture (that builds better players) who seek reward through work (not whining) is protected. 
 
 GROUP 1 GEM - I don't wish to trade at this level...
 
@@ -234,13 +234,13 @@ NOTE: Sometimes I will accept a trade for a gem in the same group... or less of 
 
 FOR COINS!
 
-** I will buy long grey cloaks for 3m coins.
+\*\* I will buy long grey cloaks for 3m coins.
 
-** I will sell spell saves runes for 10m each.
+\*\* I will sell spell saves runes for 10m each.
 
-** I will sell completed white cloak's for 5m after I have skimmed the drachma.
+\*\* I will sell completed white cloak's for 5m after I have skimmed the drachma.
 
-** I will buy Grey Robe's or Sun Symbols for 500k coins.
+\*\* I will buy Grey Robe's or Sun Symbols for 500k coins.
 
 NOTE: This entire scheme is subject to change at any point. If you wish to get involved, you need to come to an agreement with me FIRST, and I will put the GEM/RUNE to one side. So tell me what you are are working towards FIRST. I promise that if the scheme changes, that what we agreed on before it changed, will be honored.
 

@@ -22,7 +22,7 @@ The enemy turned out to be a colony of ant-like creatures, ranging from relative
 
 The medium ants turned out to be splork mobs - for Reality - with some gold. While killing them, we popped:
 
-1. a set of riveted steel shoulderguards from the formian soldier
+1\. a set of riveted steel shoulderguards from the formian soldier
 
 Object 'ant riveted steel shoulder guards shoulderguards', Item type: ARMOR
 
@@ -34,15 +34,15 @@ AC-apply is -0.6
 
 Can affect you as:
 
-    Affects: CON by 1
+ Affects: CON by 1
 
-    Affects: HITROLL by 1
+ Affects: HITROLL by 1
 
 Only those who are at least supreme thieves, warriors, bards, or monks, and
 
 have attained supremacy in at least two classes may use this item.
 
-2. the poleyns of the thunderous pounce from the giant lynx spider
+2\. the poleyns of the thunderous pounce from the giant lynx spider
 
 Object 'poleyns pol thunderous pounce legs leg', Item type: ARMOR
 
@@ -54,15 +54,15 @@ AC-apply is -0.9
 
 Can affect you as:
 
-    Affects: SAVING_SPELL by -1
+ Affects: SAVING\_SPELL by -1
 
-    Affects: HITROLL by 1
+ Affects: HITROLL by 1
 
 Only those who are at least supreme magic users and thieves, and have
 
 attained supremacy in at least two classes may use this item.
 
-3. the heart of the silent hunter from the ant lion (a 100mil mob)
+3\. the heart of the silent hunter from the ant lion (a 100mil mob)
 
 Object 'heart silent hunter', Item type: LIGHT
 
@@ -72,19 +72,19 @@ Weight: 0, Value: 59687gold, Worn in: TAKE ABOUT
 
 Can affect you as:
 
-    Affects: REGEN_MANA by 2
+ Affects: REGEN\_MANA by 2
 
-    Affects: REGEN_HP by 2
+ Affects: REGEN\_HP by 2
 
-    Affects: REGEN_MOVE by 2
+ Affects: REGEN\_MOVE by 2
 
 Only those who have attained supremacy in at least three classes may use
 
 this item.
 
-The item seemed to be a robe at first, but it really is a light. Way to raise and crush our hopes, Neptune ;)
+The item seemed to be a robe at first, but it really is a light. Way to raise and crush our hopes, Neptune <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
-4.  the centipede's stinger from the giant centipede
+4\. the centipede's stinger from the giant centipede
 
 Object 'stinger centipede cent', Item type: WEAPON
 
@@ -96,9 +96,9 @@ Damage Dice is '3D3'
 
 Can affect you as:
 
-    Affects: HITROLL by 1
+ Affects: HITROLL by 1
 
-    Affects: DAMROLL by 2
+ Affects: DAMROLL by 2
 
 Only those who are at least supreme thieves, and have attained supremacy in
 
@@ -110,7 +110,7 @@ When we were searching for the queen, a few people died from falling to aggro mo
 
 When we did find her, we popped:
 
-5. the crown of the queen mother from The Formian Queen Mother 
+5\. the crown of the queen mother from The Formian Queen Mother 
 
 Object 'crown queen mother', Item type: ARMOR
 
@@ -122,9 +122,9 @@ AC-apply is -1.2
 
 Can affect you as:
 
-    Affects: REDUCE_DAMAGE by 1
+ Affects: REDUCE\_DAMAGE by 1
 
-    Affects: STR by 1
+ Affects: STR by 1
 
 Only those who are at least novice avatars may use this item.
 
@@ -146,9 +146,9 @@ AC-apply is -0.5
 
 Can affect you as:
 
-    Affects: HAND_DAMAGE by 2
+ Affects: HAND\_DAMAGE by 2
 
-    Affects: HITROLL by 1
+ Affects: HITROLL by 1
 
 Only those who are at least supreme monks, and have attained supremacy in
 
@@ -156,9 +156,9 @@ at least two classes may use this item.
 
 Requires: 1000000 coins, 1x banded leather sleeves (1), 
 
-  1x the sleeves of shadow flame (0), 1x the breath of the ether (0), 
+ 1x the sleeves of shadow flame (0), 1x the breath of the ether (0), 
 
-  1x diamond sleeves (0)
+ 1x diamond sleeves (0)
 
 (Cps were edited)
 
@@ -188,7 +188,7 @@ please let me know.
 
 Thanks.
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -198,9 +198,9 @@ Right, the correct cps are:
 
 Requires: 1000000 coins, 1x banded leather sleeves (1), 
 
-  1x the sleeves of shadow flame (0), 1x the breath of the ether (0), 
+ 1x the sleeves of shadow flame (0), 1x the breath of the ether (0), 
 
-  1x diamond sleeves (0)
+ 1x diamond sleeves (0)
 
 Also, whoever was present for the kill of the mother queen (sorry, Josiah), contact Neptune to get your honor.
 

@@ -50,7 +50,7 @@ All chop mobs have around 3d4 limbs.
 
 Interesting stuff... what Yinao said sounds about right. I remember when we hit spiritualist in tony's the first chops seemed to do more damage than the later ones, which suggests a percentage. 
 
-Wish there was a way shifted forms or pets could wield specs... but yeah, I doubt that's going to happen. :)
+Wish there was a way shifted forms or pets could wield specs... but yeah, I doubt that's going to happen. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 It's a pity identifying the specs doesn't give us a little more information about there hit rates etc. It would also be nice to identify the mobs, see how thick they really are, or how many limbs they have... if that is the case.
 
@@ -60,11 +60,11 @@ Oh, BTW, can't you throw the spec at the mob, doing a large amount of damage... 
 
 <div class="post" data-post-id="26141" data-author="brady" data-date="2008-09-04T12:40:58+00:00" data-subject="">
 
-Master Thief is a pretty easy chop.  He can be a one run solo, provided you don't chop off your own head.
+Master Thief is a pretty easy chop. He can be a one run solo, provided you don't chop off your own head.
 
 Hermes is an easy 4 man but can be done with fewer.
 
-And chop is just boring, I think.  I've been wanting 2 of those schmancy rings of the flaming serpent but I don't have the constitution.
+And chop is just boring, I think. I've been wanting 2 of those schmancy rings of the flaming serpent but I don't have the constitution.
 
 </div>
 

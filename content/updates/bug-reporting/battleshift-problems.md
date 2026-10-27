@@ -16,7 +16,7 @@ Battleshift failed 4 times. Someone please look into this, fix this maybe?
 
 The Cook's Office
 
-Exits: East  
+Exits: East 
 
 The head cook is going over her lists.
 
@@ -104,7 +104,7 @@ sso
 
 Your mind is not serene enough to shift, what with this ONGOING BATTLE!
 
-|
+\|
 
 You miss the cook with your pierce.
 
@@ -130,7 +130,7 @@ sso
 
 You lose your concentration!
 
-|
+\|
 
 sso
 

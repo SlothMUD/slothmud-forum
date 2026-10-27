@@ -24,7 +24,7 @@ Can affect you as:
 
 Affects: HITROLL by 1
 
-Affects: REGEN_MOVE by 1
+Affects: REGEN\_MOVE by 1
 
 Only those who have attained supremacy in at least three classes may use
 
@@ -44,7 +44,7 @@ Can affect you as:
 
 Affects: MANA by 5
 
-Affects: REGEN_HP by 1
+Affects: REGEN\_HP by 1
 
 Only those who have attained supremacy in at least three classes may use
 
@@ -78,9 +78,9 @@ AC-apply is -1.2
 
 Can affect you as:
 
-Affects: REDUCE_DAMAGE by 1
+Affects: REDUCE\_DAMAGE by 1
 
-Affects: REGEN_MOVE by 2
+Affects: REGEN\_MOVE by 2
 
 Only those who are primary supreme monks, and have attained supremacy in at
 
@@ -98,7 +98,7 @@ belts
 
 Clasp gives the user +5 MANA
 
-Clasp gives the user +1 REGEN_MANA
+Clasp gives the user +1 REGEN\_MANA
 
 Only those who have attained supremacy in at least three classes may use
 
@@ -114,13 +114,13 @@ Awesome thanks for posting. I like that demon mage charm - hard pop?
 
 <div class="post" data-post-id="24894" data-author="angel" data-date="2008-06-11T17:16:55+00:00" data-subject="">
 
-thats the result of forging 4 forges :) good luck :)
+thats the result of forging 4 forges <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> good luck <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="25048" data-author="angel" data-date="2008-06-16T18:57:35+00:00" data-subject="">
 
-:)
+<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -128,7 +128,7 @@ thats the result of forging 4 forges :) good luck :)
 
 Posting cps list on demand. 4 forge items (trade) can be traded for clasp
 
-Merik is gathering components for the staff.  
+Merik is gathering components for the staff. 
 
 on rats in caverns
 
@@ -148,7 +148,7 @@ The dagger of lizards
 
 The dagger of arachnids
 
-Benotaur went off gathering components for the arm plates.  The bracers can be made with
+Benotaur went off gathering components for the arm plates. The bracers can be made with
 
 the skull of a troll, (ugly troll)
 
@@ -164,13 +164,13 @@ the chieftain's bone sceptre, (Chieftian Hemdahr)
 
 and three razor pelts of various conditions. 
 
-excellent razor pelt  (great mystical razor) 
+excellent razor pelt (great mystical razor) 
 
-average razor pelt   (slow razor)
+average razor pelt (slow razor)
 
-good razor pelt       (angry razor )
+good razor pelt (angry razor )
 
-Galvin has been gathering the components for the girdle.  He reports all that is needed is 
+Galvin has been gathering the components for the girdle. He reports all that is needed is 
 
 a purple tentacle, (marinac)
 
@@ -194,7 +194,7 @@ a purple tentacle, (marinac)
 
 Aromin forged a few of the breast plates and is looking for more of the
 
-components.  For the breast plate the 
+components. For the breast plate the 
 
 paw of a lion (wise lion)
 
@@ -252,7 +252,7 @@ Damage Dice is '3D4'
 
 Can affect you as:
 
-    Affects: MANA by 10
+ Affects: MANA by 10
 
 Only those who have attained supremacy in at least three classes may use
 
@@ -382,7 +382,7 @@ The icy-beast popped some prime cleric heal bonus eq.
 
 The zeridan beast pops some prime druid shift legplates...
 
-Maybe Aromin pops prime necro eq?... wish more groups tried to make it too the top... :)
+Maybe Aromin pops prime necro eq?... wish more groups tried to make it too the top... <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Thanks to Sa, Lis and Stryx who did all the pioneering work, and Tox for making the cool area.
 

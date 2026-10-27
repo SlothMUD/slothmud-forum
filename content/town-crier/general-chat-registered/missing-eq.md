@@ -12,11 +12,11 @@ post_count: 3
 
 <div class="post" data-post-id="9323" data-author="Shara" data-date="2005-11-01T19:48:24+00:00" data-subject="Missing eq">
 
-I recently lost some eq.  I'm not sure what happened... it coulda been pthieved, but I don't really know :(
+I recently lost some eq. I'm not sure what happened... it coulda been pthieved, but I don't really know <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 Missing: 2 carved wooden rings, bone shattered gauntlets, gem cutter, ether band, ruby choker
 
-If you come across this or pthieved it from me, could you send me a tell in the game?  I'm willing to buy it back if it was pthieved.
+If you come across this or pthieved it from me, could you send me a tell in the game? I'm willing to buy it back if it was pthieved.
 
 Thanks!
 
@@ -30,6 +30,6 @@ do you have the container they were in still ?
 
 <div class="post" data-post-id="9326" data-author="Shara" data-date="2005-11-01T22:50:32+00:00" data-subject="">
 
-nod nod, I still have all my containers.  It's a lot to lose at once, so either I REALLY dropped the ball and someone pthieved me like crazy, or something weird happened :(
+nod nod, I still have all my containers. It's a lot to lose at once, so either I REALLY dropped the ball and someone pthieved me like crazy, or something weird happened <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>

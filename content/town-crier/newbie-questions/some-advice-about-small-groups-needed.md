@@ -14,7 +14,7 @@ post_count: 9
 
 When in a small group (2,3 man) should everyone use man back triggers?
 
-I was point in a 2 man group with the other member in the back line. I often get the message 'Your front line collapses!  Your group is thrown into chaos!' usually followed by 'You can't fall back, you're being attacked!' so I stay on point. However sometimes the front line collapses completely and I lose point, end up in the back line with the other member in the front line being attacked.
+I was point in a 2 man group with the other member in the back line. I often get the message 'Your front line collapses! Your group is thrown into chaos!' usually followed by 'You can't fall back, you're being attacked!' so I stay on point. However sometimes the front line collapses completely and I lose point, end up in the back line with the other member in the front line being attacked.
 
 Is there anything I can do to stop this and stay on point? Would it be better not to use man back triggers at all in small groups? If so what size group should they be used for? Should all members of a small group turn them off or only the one on point?
 
@@ -22,9 +22,9 @@ Is there anything I can do to stop this and stay on point? Would it be better no
 
 <div class="post" data-post-id="32081" data-author="blackmore" data-date="2010-11-19T14:09:08+00:00" data-subject="Re: Some advice about small groups needed">
 
-A first suggestion would be that you should never use a man back trigger if you're point.  Ever.
+A first suggestion would be that you should never use a man back trigger if you're point. Ever.
 
-Otherwise, make it easy enough to turn off and on that you can make your own decision based on the group you're in.  A trigger does nothing but performs a function for you so you don't have to do it yourself.  If it's doing something you wouldn't want to be doing manually, then shut it off.
+Otherwise, make it easy enough to turn off and on that you can make your own decision based on the group you're in. A trigger does nothing but performs a function for you so you don't have to do it yourself. If it's doing something you wouldn't want to be doing manually, then shut it off.
 
 </div>
 
@@ -50,7 +50,7 @@ I can turn them off when I'm on point in future easily enough.
 
 <div class="post" data-post-id="32084" data-author="jess" data-date="2010-11-19T16:57:18+00:00" data-subject="Re: Some advice about small groups needed">
 
-> **Quote:**
+> <strong>Quote:</strong>
 > Surely everyone has a toggle on their man back scripts depending on whether they want to be in the front row or back?
 
 Hmm - no I don't! Not sure how to do this. Do you mean to have it automatically do man up after a man back if you want to be in the front row?
@@ -83,7 +83,7 @@ This alias works a treat:
 
 E.g.: tank Katie would set Katie as the tank.
 
-(a cooler variant would be to grab the name of the (Point), but I set this variable manually ;) )
+(a cooler variant would be to grab the name of the (Point), but I set this variable manually <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom"> )
 
 Another way to do it is this:
 

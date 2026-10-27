@@ -44,29 +44,29 @@ It's empty already.
 
 cast 'create water' keg
 
-<495hp 416ma 19mv 709919030xp -9.5ac -%>
+\<495hp 416ma 19mv 709919030xp -9.5ac -%\>
 
 Ok.
 
 The cleansing fires of healing fill your body!
 
-<703hp 354ma 19mv 709919030xp -9.5ac -%>
+\<703hp 354ma 19mv 709919030xp -9.5ac -%\>
 
-You lost your concentration!  You failed to cast 'restoration'.
+You lost your concentration! You failed to cast 'restoration'.
 
 @@
 
 cast 'restoration'
 
-------------------------------
+\------------------------------
 
-Thank you for implementing! That could seriously be the best game improvement since eqset...  :mrgreen:
+Thank you for implementing! That could seriously be the best game improvement since eqset... <img src="/images/smilies/icon_mrgreen.svg" alt=":mrgreen:" title=":mrgreen:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="37462" data-author="*juggleblood*" data-date="2016-10-26T22:11:53+00:00" data-subject="Re: Lost concentration">
 
-In this same vein, something else script heavy people would really appreciate is seeing spell down messages while asleep. :)
+In this same vein, something else script heavy people would really appreciate is seeing spell down messages while asleep. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -96,13 +96,13 @@ Hi Yasik. I miss you.
 
 <div class="post" data-post-id="37490" data-author="Yasik" data-date="2016-11-01T08:56:16+00:00" data-subject="Re: Lost concentration">
 
-Yeah, I knew you'll answer something like that :)
+Yeah, I knew you'll answer something like that <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Missed commas and other punctuation marks, non-capitalized beginning of sentences, capitalized words in the middle of sentence while being non names or geographic locations, etc - it all does not look ugly, indeed. /irony
 
 Its called 'esthetics', it tells players that coders and builders approach their job with care and love.
 
-Anyway, do whatever you think is right, its "your" game after all :)
+Anyway, do whatever you think is right, its "your" game after all <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

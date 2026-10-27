@@ -26,11 +26,9 @@ Bid increment: 50000
 
 You must bid at least: 5050000
 
-Place New Bid:  
+Place New Bid: 
 
- 
-
-*********************
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 11 str not playable as a druid prime, you will not hit worth a shit unless u can get like a 15 16 str
 
@@ -66,6 +64,6 @@ not tryin to be shitty just pointing out darling
 
 strength shifted doesnt use your natural strength man, your stats have absolutely no relations to your shifted stats, you might have noticed how wurm has all 16 nat stats, naga has 17 nat stats and dragon has all 18 nat stats, your strength shifted uses dragons natural strength + strength spell + strength eq you are using when shifted = 18+ 4=22/100 strength in form with no eq on
 
-Hope that clears a few things for ya :)
+Hope that clears a few things for ya <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

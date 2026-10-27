@@ -22,7 +22,7 @@ Now we the players must make research and script client-side this event.
 
 Really I dont know why there is no message yet. If there is solid reason NOT to, then could you say so we not raise this matter anymore? 
 
-Entrench duration is about 40 seconds, defy pain cooldown - 40 min or so, its not hard to code our own info_msg, but I can see the trend to make players less code and more play, by moving lots of tasks on server-side (eq sets, for example), so why not give us what we really need long time? Actually, it can save lives being able to re-entrench in time:
+Entrench duration is about 40 seconds, defy pain cooldown - 40 min or so, its not hard to code our own info\_msg, but I can see the trend to make players less code and more play, by moving lots of tasks on server-side (eq sets, for example), so why not give us what we really need long time? Actually, it can save lives being able to re-entrench in time:
 
 You feel relaxed again. //entrench off
 
@@ -60,7 +60,7 @@ Also, yesterday I was bashed while being totally entrenched, so I guess this ski
 
 <div class="post" data-post-id="36664" data-author="*Splork*" data-date="2016-02-28T15:43:57+00:00" data-subject="Re: Entrench / Defy">
 
-This is normal behavior and we will pass on removing the lag :mrgreen:
+This is normal behavior and we will pass on removing the lag <img src="/images/smilies/icon_mrgreen.svg" alt=":mrgreen:" title=":mrgreen:" width="15" height="15" class="smiley nozoom">
 
 The down message is a good idea though...
 
@@ -68,7 +68,7 @@ The down message is a good idea though...
 
 <div class="post" data-post-id="36681" data-author="*juggleblood*" data-date="2016-03-01T01:06:12+00:00" data-subject="Re: Entrench / Defy">
 
-> **Teron wrote:**
+> <strong>Teron wrote:</strong>
 > Btw, the defy cooldown is definitely not 24 hours it is said in the help. So helpfiles or the cooldown timer need to be fixed as well.
 
 24 hours = 24 game minutes no?
@@ -87,6 +87,6 @@ I've tried it many times after the timer has run, so I don't consider that it ha
 
 <div class="post" data-post-id="36688" data-author="*Splork*" data-date="2016-03-01T19:53:58+00:00" data-subject="Re: Entrench / Defy">
 
-We will adjust the helpfile, the skill is plenty powerful enough :lol:
+We will adjust the helpfile, the skill is plenty powerful enough <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>

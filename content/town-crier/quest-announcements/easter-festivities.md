@@ -20,11 +20,11 @@ And I will do the easter present thing scatter After we've killed reasonable amo
 
 URL for the countdown is below.
 
-<LINK_TEXT text="https://www.tickcounter.com/countdown/5 ... ster-quest">https://www.tickcounter.com/countdown/532238/slothmud-easter-quest</LINK_TEXT>
+https://www.tickcounter.com/countdown/532238/slothmud-easter-quest
 
 Respectfully,
 
---Idjit
+\--Idjit
 
 </div>
 

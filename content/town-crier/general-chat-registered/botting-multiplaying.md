@@ -30,13 +30,13 @@ This has lead to that we have less and less players online in overall since atle
 
 Multiplaying.
 
-Since most immortals are gone nowadays and nobody keeping order and see that the rules are followed, people has started multiplaying. Needless to say this is just bad. I really don't understand why people have to resort into such behavior. "No cops! No rules! wohoo! lets go crazy!" Perhaps it's just the human nature. *shrug* If everyone would start multiplaying, that would kill the mud really fast.
+Since most immortals are gone nowadays and nobody keeping order and see that the rules are followed, people has started multiplaying. Needless to say this is just bad. I really don't understand why people have to resort into such behavior. "No cops! No rules! wohoo! lets go crazy!" Perhaps it's just the human nature. \*shrug\* If everyone would start multiplaying, that would kill the mud really fast.
 
 I really love this game and the people in it. Always makes me happy and lifts my spirit after a hard day to get into relaxing group and do stuffs together. And just really having fun. Nowadays I feel like the fun is totally gone from groups. Anyone can solo all day long but to me it's not the point, I want to group with people. And now I'm sad.
 
 Take care.
 
----Bel
+\---Bel
 
 </div>
 
@@ -64,7 +64,7 @@ And on to multiplaying- I, too, support Fuligin's stance with it. Multiplaying h
 
 I, too, agree with Fuligin about the botting experience being overbearing. I have been run over by multiple people solo before. I explain in tells 'Hey, I'm in this area", and their bot script just keeps on killing with no response. Is that the game we want- AI killing for your character with no regard to creating a negative experience in the global, open environment? Doesn't seem like much fun to only meander back a few times a day and see what your script netted you (how does that feel like an earned process in any aspect and is that what we're encouraging)? And if that IS enough for you, should that come at the cost of knowing that gain may have run over someone who was at the keys, maybe causing their log off, etc. when frustrated?
 
-I understand power creep has made it easier to solo, and caused group OP even larger. This means in a typical group setting (and often in solo settings even), anything can be killed. This means there is little to no risk while grouped while having a half proficient group leader. No risk means that people are less likely to feel the need to pay attention while grouped and that their contribution to killing the mob (burning mana, circling, etc). will be less noticed because the mob is dying at fast pace anyway. So the end game being beefed up would definitely help. ***The problem has gotten so rampant (bot runs with people both solo and grouped)- I would recommend imms raising sceptre in each area to legendary and saving state and making that the default. Before the power creep, that was about the power balance. It may seem harsh by 'current' standards, but it certainly was not then before the power creep. That level of difficulty was spot on. It was why we needed people to be in groups and flourish and learn the game- not bot.***
+I understand power creep has made it easier to solo, and caused group OP even larger. This means in a typical group setting (and often in solo settings even), anything can be killed. This means there is little to no risk while grouped while having a half proficient group leader. No risk means that people are less likely to feel the need to pay attention while grouped and that their contribution to killing the mob (burning mana, circling, etc). will be less noticed because the mob is dying at fast pace anyway. So the end game being beefed up would definitely help. <strong><em>The problem has gotten so rampant (bot runs with people both solo and grouped)- I would recommend imms raising sceptre in each area to legendary and saving state and making that the default. Before the power creep, that was about the power balance. It may seem harsh by 'current' standards, but it certainly was not then before the power creep. That level of difficulty was spot on. It was why we needed people to be in groups and flourish and learn the game- not bot.</em></strong>
 
 I understand with power creep, people get older and have less availability as we age, etc.- all the reasons that cause people to bot more. Hell, the game is called Sloth for a reason. That being said, I do not just want to take a 'personal' stance on this and have to be the hall monitor for who is actually at the keys and who I need to ungroup. That is similarly demotivating. The difficulty of the game and group necessity that followed allowed for this botter weeding out process naturally for group leaders because lack of participation stood out. Now, leading just feels like a community tax with no reward (or community tax penalty if you're leading around botters), since I can kill just as fast- if not faster- due to power creep.
 
@@ -78,9 +78,9 @@ This isn't a long diatribe about what's wrong and yelling into the void. I love 
 
 some random additional personal opinions on the state of sloth. feel free to malign them, me, or both. 
 
---
+\--
 
-# bot groups, leaders and players - aka take some personal responsibility
+\# bot groups, leaders and players - aka take some personal responsibility
 
 the current state of bot groups in sloth is directly the result of what has been tolerated by both the group leaders and the players in them.
 
@@ -92,37 +92,37 @@ players should play.
 
 grabbing a glass of water, replying to an email or taking a phone call is one thing. getting in your car and driving off somewhere, leaving your computer at home botting sloth for you is another.
 
-# afk tank bots shouldn’t be a thing
+\# afk tank bots shouldn’t be a thing
 
 this is boring as heck and lazy. play with the people present even if that means you have to work harder than grabbing an afk bot with join triggers. or grab some corpses for mares and go pry that abyssal cloak from the jaws of the shadow dragon even if you have to crawl out on the stumps of your arms and legs.
 
-# power creep
+\# power creep
 
 power creep is real and people underestimate how much more powerful a fully upgraded and equipped 9x40 reborn is vs a regular 9x40. one of the reasons i don’t join as many groups with fuligin as i once did is because it trivializes the battle for others. almost any area that groups run for xp i can run solo for xp - and a fair amount of the epics at that. but even a non-reborn 6x40 char with some drachma eq seems more powerful than the mud is balanced for.
 
 i don’t have a good solution to this. zeke suggests upgrading the entire mud equivalent to legendary. maybe? legendary often feels like a slog to me rather than more dangerous but it could make some areas more interesting esp for hard hitting / thin mobs. something needs to happen but i fear what it really needs is quite a lot of involved and probably unpopular balancing work to get right.
 
-# chop
+\# chop
 
 i don’t have any real suggestions here. i just wanted to say i don’t like chop.
 
-# quests
+\# quests
 
 i really really really appreciate the work put into running quests. thank you idjit
 
 that said, i personally think quests should be smaller/shorter but harder, have less drachma and the occasional unique item. uniqueish. i haven’t been able to attend them much lately, maybe they have gone this direction.
 
-# death xp loss should be much, much greater
+\# death xp loss should be much, much greater
 
-if i die and shock my xp loss is about 100 mil~ that’s like 2 minutes xp for me if i’m being lazy, normally less. most of the time it actually costs me more potential xp to wait for a raise than to quit out, grab my eq, and get back to killing. i will repeat that - it costs me more potential xp to wait for a raise than to quit out, grab my eq, and get back to killing.
+if i die and shock my xp loss is about 100 mil\~ that’s like 2 minutes xp for me if i’m being lazy, normally less. most of the time it actually costs me more potential xp to wait for a raise than to quit out, grab my eq, and get back to killing. i will repeat that - it costs me more potential xp to wait for a raise than to quit out, grab my eq, and get back to killing.
 
 this should be like 1.5B xp loss for a 9x40 char, 3B xp loss for a 9x40 reborn char imo. honestly even 3B / 6B seems reasonable to me but i admit that several sequential deaths at this rate may be hard for some to stomach.
 
-# mud bonuses
+\# mud bonuses
 
 far-gate and no-cap xp have been on basically since i started playing. let’s just accept reality and have these turned on permanently by default. it’s become the defacto standard years ago. why pretend otherwise. people just wait and won’t play while they wait for things to go back to normal if they’re not up - and i like having the option of hitting large mobs instead of competing with newbies to run an area like seam.
 
-# hypocrisy 
+\# hypocrisy 
 
 a lot of players have benefitted from the way things have been and i think there is real validity to the complaint of those coming in later of why we can’t do that too.
 
@@ -130,7 +130,7 @@ i have benefited in small and large ways from some of the things listed above.
 
 all said, sloth is still a fun game with a lot of content to get through and if it's a bit unbalanced in the end-game maybe so what? - didn’t we strive to become grossly overpowered?
 
-# groups
+\# groups
 
 back on the topic of groups - i think the heart of sloth has always been its community and players. if there's one thing we should figure out how to get right it's groups
 
@@ -158,9 +158,9 @@ perhaps we need a test instance of sloth running for limited time windows where 
 
 <div class="post" data-post-id="40133" data-author="Ezekiel" data-date="2024-11-08T23:00:32+00:00" data-subject="Re: Botting, Multiplaying">
 
-> **Quote:**
+> <strong>Quote:</strong>
 
-# hypocrisy
+\# hypocrisy
 
 a lot of players have benefitted from the way things have been and i think there is real validity to the complaint of those coming in later of why we can’t do that too.
 
@@ -168,11 +168,11 @@ i have benefited in small and large ways from some of the things listed above.
 
 all said, sloth is still a fun game with a lot of content to get through and if it's a bit unbalanced in the end-game maybe so what? - didn’t we strive to become grossly overpowered?
 
-# groups
+\# groups
 
 back on the topic of groups - i think the heart of sloth has always been its community and players. if there's one thing we should figure out how to get right it's groups
 
-> **Quote:**
+> <strong>Quote:</strong>
 
 While I acknowledge both of these are very valid at the same time, both of these are contradictory by nature. To fix groups, you have to make balancing moves somehow, and difficulty wise that will seem unfairly oppressive to those when installed. This goes for changes in any mud. The balance on the weight always should favor what keeps groups alive, even if at the cost of some solo struggles, even though it's just a hard spot either way.
 
@@ -182,7 +182,7 @@ And it's not about 'eh, allow for some unbalance in the end, you worked for it'.
 
 <div class="post" data-post-id="40136" data-author="Gorka" data-date="2024-11-29T21:49:54+00:00" data-subject="Re: Botting, Multiplaying">
 
-Stopped past and saw an opportunity to give my unwanted opinion!   :shock: :twisted: 
+Stopped past and saw an opportunity to give my unwanted opinion! <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 I think the game got too placid. Free mana, free drachma, afk xp, no work eq. Think of it like sugar, the body craves it, we want it desperately and we know it's bad for us - but we still want it, and the more we have the MORE the body wants it. Sugar is short term strength and long term weakness. Welcome to the sugar crash of the late years of Sloth. I think that mentality also characterized my playing. Kind of proud to have walked away and got out of that trap, but of course still fond of the memories.
 
@@ -194,11 +194,9 @@ PS Hi Zozo.
 
 <div class="post" data-post-id="40137" data-author="Driven" data-date="2024-12-01T17:33:57+00:00" data-subject="Re: Botting, Multiplaying">
 
-Advancement and challenge, by definition, oppose each other.  The more you advance, the easier stuff gets, the less of a challenge stuff becomes.  Stacked on top of that, the mud was unaware of really powerful things for a long time, such as sanctuary for the soul.  Such an absurdly powerful song that turns a dragon into a mouse.  The knowledge of the game itself is 10x where it was 10 years ago, and my suspicion is that if we wiped, it wouldn't take long to get back to where we are.
+Advancement and challenge, by definition, oppose each other. The more you advance, the easier stuff gets, the less of a challenge stuff becomes. Stacked on top of that, the mud was unaware of really powerful things for a long time, such as sanctuary for the soul. Such an absurdly powerful song that turns a dragon into a mouse. The knowledge of the game itself is 10x where it was 10 years ago, and my suspicion is that if we wiped, it wouldn't take long to get back to where we are.
 
- 
-
- I will be introducing something new sooner than later, something that hopefully reintroduces challenge, while at the same time prevent mindless play in groups.  Isn't going to be perfect, but hopefully it will be fun.
+ I will be introducing something new sooner than later, something that hopefully reintroduces challenge, while at the same time prevent mindless play in groups. Isn't going to be perfect, but hopefully it will be fun.
 
 </div>
 
@@ -224,7 +222,7 @@ I mean many years ago even maxed out character couldn't solo whatever they wante
 
 So players had to unite with each other in order to take down those guys. And that is what made the game - group oriented.
 
-Unfortunately players gained more and more power over the years. And now - it seems like - they gained so much  so there is no need in groups anymore. Hence the sloth is pretty much solo game today. So groups are in crisis.
+Unfortunately players gained more and more power over the years. And now - it seems like - they gained so much so there is no need in groups anymore. Hence the sloth is pretty much solo game today. So groups are in crisis.
 
 As for solution, apparently the major game rebalance is long due. There should be many mobiles no reborn 9x40 could defeat. At least epics should be way beyond reach of any maxed out character.
 

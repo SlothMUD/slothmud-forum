@@ -12,7 +12,7 @@ post_count: 5
 
 <div class="post" data-post-id="25613" data-author="reboog" data-date="2008-08-05T23:28:39+00:00" data-subject="town crier issue">
 
-I am unable to change my password.  I log in with the generated password, put in my new stuff in Edit Info, hit save changes, and it takes me back to the page with 4 buttons.
+I am unable to change my password. I log in with the generated password, put in my new stuff in Edit Info, hit save changes, and it takes me back to the page with 4 buttons.
 
 When I log out, my password remains unchanged.
 
@@ -32,7 +32,8 @@ write the shit down noob
 
 <div class="post" data-post-id="25652" data-author="reboog" data-date="2008-08-06T20:02:26+00:00" data-subject="">
 
-write the shit down noob[/quote:3ipoknij]
+> <strong>13 wrote:</strong>
+> write the shit down noob
 
 k no u omg lol omg lol
 

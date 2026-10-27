@@ -44,13 +44,13 @@ Most of them quit, so about hum... 5-8 plays from time to time.
 
 <div class="post" data-post-id="5202" data-author="Autolycos" data-date="2005-03-21T12:20:31+00:00" data-subject="">
 
-hey Will, i wonder why they quit... what did you do to them? are they in a box somewhere? is there a restraining order?   :twisted: 
+hey Will, i wonder why they quit... what did you do to them? are they in a box somewhere? is there a restraining order? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-i have met only 9 irl,  
+i have met only 9 irl, 
 
 only one really cool one... the same one that got me addicted to sloth...
 
-CURSE YOU CHARLES!!!!!  :twisted: 
+CURSE YOU CHARLES!!!!! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 heh
 
@@ -72,15 +72,15 @@ Veta - Marina
 
 Siona - Hannah
 
-*Forgot* - Shawn
+\*Forgot\* - Shawn
 
-Redcross - *Forgot*
+Redcross - \*Forgot\*
 
 Old Ghost - Paul
 
-Foogy - *Forgot*
+Foogy - \*Forgot\*
 
-*Forgot* - Brian (Not Jake)
+\*Forgot\* - Brian (Not Jake)
 
 Aria ?? - Met at Jar-Jar get together in 2002.
 
@@ -98,7 +98,7 @@ j/k
 
 <div class="post" data-post-id="5208" data-author="Aria" data-date="2005-03-22T00:30:47+00:00" data-subject="">
 
-Just responding to Leaf;  Nope, wasn't me.  I've never been to any meets  :)
+Just responding to Leaf; Nope, wasn't me. I've never been to any meets <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -166,7 +166,7 @@ luap
 
 alvie
 
-eva :)
+eva <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 lace (original lace..played agox too)
 
@@ -180,13 +180,13 @@ galatea
 
 oh god probably some others but i cant remember
 
-**EDIT  hehe i forgot i met young william as well aka LINK AND LEAF!
+\*\*EDIT hehe i forgot i met young william as well aka LINK AND LEAF!
 
 </div>
 
 <div class="post" data-post-id="5211" data-author="Leaf" data-date="2005-03-22T11:58:44+00:00" data-subject="">
 
-Was going to be hurt if u didn't say u met me :)
+Was going to be hurt if u didn't say u met me <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 I just listed the ppl that doesn't play anymore, because of Auto :p
 
@@ -208,6 +208,6 @@ I think thats all that I met, and still plays.
 
 <div class="post" data-post-id="5212" data-author="12345" data-date="2005-03-22T12:22:41+00:00" data-subject="">
 
-I've met close to 20 I think... but I'm pretty sure that Duncan is the only one that's still around.  Perhaps Pohl is still playing Beowolf, dunno, haven't seen him since he left Germany.
+I've met close to 20 I think... but I'm pretty sure that Duncan is the only one that's still around. Perhaps Pohl is still playing Beowolf, dunno, haven't seen him since he left Germany.
 
 </div>

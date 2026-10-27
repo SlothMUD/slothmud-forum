@@ -16,25 +16,25 @@ Curious if anyone druid prime has noticed any difference from being attuned duri
 
 Before, after shifting, I would drop 10 mana then regain 3 mana before dropping 10 again. Afterwords, I would drop 9 mana regain 2 before re-dropping 9. Seems innocent enough however... by number crunching it seems that in fact nothing is different.. still dropping at same rate to arrive at the same results. Example below:
 
-Before           After
+Before After
 
-300                300
+300 300
 
-290 drop 10    291  drop 9
+290 drop 10 291 drop 9
 
-293 gain  3     293  gain  2
+293 gain 3 293 gain 2
 
-283 drop 10    284  drop  9
+283 drop 10 284 drop 9
 
-286 gain  3     286   gain  2
+286 gain 3 286 gain 2
 
-Shyla wasn't sure but she didn't think being attuned tp House of Nature affected druids shifted since  shapeshifting isn't considered shaping magic.
+Shyla wasn't sure but she didn't think being attuned tp House of Nature affected druids shifted since shapeshifting isn't considered shaping magic.
 
-The only thing that I thought they would be affected while shifted is in the help file under houses for House of Nature--->These conjunctions smile on shapeshifters and are a strong time for shaping magic.
+The only thing that I thought they would be affected while shifted is in the help file under houses for House of Nature---\>These conjunctions smile on shapeshifters and are a strong time for shaping magic.
 
 Anyone able to add anything or point out what I may be overlooking please post. And if you MUST flame, please direct at Autolycos, he's been much to quite here lately.
 
-post :twisted:
+post <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -44,7 +44,7 @@ Could be wrong, but isn't attunement supposed to be done for a strata and not fo
 
 The strata are Mental, Channelling, Necromastery, Enhancement, Summoning, and Healing.
 
-When you attune to these you get very specific, usually very powerful benefits.  I suggest more attuning to useful things and less house of natureness... The only good thing about nature is fast repop! :)
+When you attune to these you get very specific, usually very powerful benefits. I suggest more attuning to useful things and less house of natureness... The only good thing about nature is fast repop! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -66,7 +66,7 @@ fly,
 
 willow wind and others
 
-Shaping     :  duration of your shaping spells is improved
+Shaping : duration of your shaping spells is improved
 
 Nothing has to do with your mana...
 

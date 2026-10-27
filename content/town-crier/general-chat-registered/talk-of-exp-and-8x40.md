@@ -16,15 +16,15 @@ hi last night splork asked if we would like to go back to a 4 class system
 
 the people that spoke said no i agree but i would like to see people level faster
 
-me excluded  :lol: . that said heres my thoughts double exps and remove caps
+me excluded <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> . that said heres my thoughts double exps and remove caps
 
-or half all exp for levels (what happened to levels capping at 2.1 bil  :mrgreen:  )
+or half all exp for levels (what happened to levels capping at 2.1 bil <img src="/images/smilies/icon_mrgreen.svg" alt=":mrgreen:" title=":mrgreen:" width="15" height="15" class="smiley nozoom"> )
 
 either of these would help people level quicker.
 
 also remove aged from game it is a sweet bonus when u hit something aged but then sucks to rerun the area for hours after and mud to small for this.
 
-i can clear most of lyme's grip/blast with 2 or 3 mages behind me so make runnings hard if 2 groups or more is up. i miss the days when i could just cycle one area and other groups could just do there one area i know it sounds boring but it works out :). i like s4's eight class system and wouldnt wanna see it go away.
+i can clear most of lyme's grip/blast with 2 or 3 mages behind me so make runnings hard if 2 groups or more is up. i miss the days when i could just cycle one area and other groups could just do there one area i know it sounds boring but it works out <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">. i like s4's eight class system and wouldnt wanna see it go away.
 
 any thoughts nows the time to hear em!!!
 
@@ -48,21 +48,21 @@ Some ideas I had:
 
 Iâ€™d gladly and rapidly create the first two ideas I had if I were allowed.
 
-My Vote:  No more wipes and stay with 8x40 system.
+My Vote: No more wipes and stay with 8x40 system.
 
 </div>
 
 <div class="post" data-post-id="32743" data-author="blackmore" data-date="2011-07-20T03:05:19+00:00" data-subject="Re: talk of exp and 8x40">
 
-I'd get rid of caps at 4x40, or 5x40 at most (or double them).  The grind that starts at 4x40 is horrible.  The grind before 4x40 is the same with s3, and it's bad, but you can see the light with avatar bonuses.
+I'd get rid of caps at 4x40, or 5x40 at most (or double them). The grind that starts at 4x40 is horrible. The grind before 4x40 is the same with s3, and it's bad, but you can see the light with avatar bonuses.
 
-I'd create new top end eq for 5x40 and up.  There's almost nothing with more than 2x40 restrictions, and it takes so long to level, there's not much to do but endlessly run xp for years and years.
+I'd create new top end eq for 5x40 and up. There's almost nothing with more than 2x40 restrictions, and it takes so long to level, there's not much to do but endlessly run xp for years and years.
 
-I'd have ways of giving hints at where the eq is.  Nobody bothers to cycle anything that's out of their way these days, especially not with groups.
+I'd have ways of giving hints at where the eq is. Nobody bothers to cycle anything that's out of their way these days, especially not with groups.
 
-Here's an idea, randomly double xp in one area a week.  It would get people hitting areas that aren't usually hit.  Much of the EQ would get found one way or another over time.
+Here's an idea, randomly double xp in one area a week. It would get people hitting areas that aren't usually hit. Much of the EQ would get found one way or another over time.
 
-I'd brainstorm ways to make it easier to remember and/or use all of the skills you have.  I love having all 8 classes, but quite frankly I forget about half of the spells and skills I've got, and I probably use more than most.  I can't even remember names of the songs I've got and I'm a bard prime.  I don't have any suggestions here, I just know most people find 1 thing that works and they stick with it, when it's possible they could be more efficient if they only knew how.
+I'd brainstorm ways to make it easier to remember and/or use all of the skills you have. I love having all 8 classes, but quite frankly I forget about half of the spells and skills I've got, and I probably use more than most. I can't even remember names of the songs I've got and I'm a bard prime. I don't have any suggestions here, I just know most people find 1 thing that works and they stick with it, when it's possible they could be more efficient if they only knew how.
 
 Finally, I'd give me enough money to be set for life, so I could quit my job and find ways to code on sloth.
 
@@ -70,7 +70,7 @@ Finally, I'd give me enough money to be set for life, so I could quit my job and
 
 <div class="post" data-post-id="32744" data-author="Yasik" data-date="2011-07-20T04:54:45+00:00" data-subject="Re: talk of exp and 8x40">
 
-Don't give them anything, people alway whine and are unhappy with what they got and demand moar and making excuses etc. You sold your lives to Sloth, deal with it, now shut up and grind on  :P
+Don't give them anything, people alway whine and are unhappy with what they got and demand moar and making excuses etc. You sold your lives to Sloth, deal with it, now shut up and grind on <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -98,7 +98,7 @@ By giving monk a big damage reduction bonus you can make this a multi-gamestyle 
 
 The exact numbers need to be calculated but If monks were given a huge reduction that scales back 20% with every late position you are making a huge distinction between group tanks with both AC and damage reduction and solo warrior classes that chose mana instead of damage mitigation.
 
-If AC is made less abundant by scaling and reducing its availability to non prime warriors and monk's damage mitigation is comparable to AC in its reductions then you can make people choose a playstyle that suits them just by choosing between monk and warrior. Some would like mobs to miss them and others like to mitigate that damage instead ( for example thief mobs rarely miss AC so it would be better to pair thief prime with monk and wear dam_reduction eq to get reduced damaged and mages would work better with warrior and AC eq as mage mobs usually miss AC alot ), others like to have both at the cost of reduced mana and regen and blasting and healing (remember that restores and firewinds scale back now too ). I think an 8 class mud can use double tanking standards. There is plenty of dam reduction EQ on the mud to make damage reduction work the same way as AC, the more dam_reduction EQ you get the more damage you mitigate ( same it is currently, but make it comparable to AC, if a monk has capped his damage reduction he has about the same tanking ability as a warrior with -12)
+If AC is made less abundant by scaling and reducing its availability to non prime warriors and monk's damage mitigation is comparable to AC in its reductions then you can make people choose a playstyle that suits them just by choosing between monk and warrior. Some would like mobs to miss them and others like to mitigate that damage instead ( for example thief mobs rarely miss AC so it would be better to pair thief prime with monk and wear dam\_reduction eq to get reduced damaged and mages would work better with warrior and AC eq as mage mobs usually miss AC alot ), others like to have both at the cost of reduced mana and regen and blasting and healing (remember that restores and firewinds scale back now too ). I think an 8 class mud can use double tanking standards. There is plenty of dam reduction EQ on the mud to make damage reduction work the same way as AC, the more dam\_reduction EQ you get the more damage you mitigate ( same it is currently, but make it comparable to AC, if a monk has capped his damage reduction he has about the same tanking ability as a warrior with -12)
 
 By combining all these scalings you can create a truly multi-class mud with a huge emphasis on your class positions that will affect absolutely everything you do - from how you behave in solo situations to how you behave in groups. This will make people want to try out different characters and this will create the much needed diversity while making every class important and unique.
 
@@ -122,7 +122,7 @@ SPlork
 
 <div class="post" data-post-id="32760" data-author="Insomniac" data-date="2011-07-24T10:52:39+00:00" data-subject="Re: talk of exp and 8x40">
 
-> ***Splork* wrote:**
+> <strong>\*Splork\* wrote:</strong>
 > I want to increase experience for everybody, make leveling quicker, and ultimately scale damage of skills/spells per position of class order. 
 > 
 > 
@@ -135,13 +135,13 @@ SPlork
 
 Sounds good! 
 
-I guess it all depends on how exactly scaling will take place. If you take existing maximum damage and scale it *up*, then it's great :)
+I guess it all depends on how exactly scaling will take place. If you take existing maximum damage and scale it \*up\*, then it's great <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="32761" data-author="blackmore" data-date="2011-07-24T15:33:19+00:00" data-subject="Re: talk of exp and 8x40">
 
-> ***Splork* wrote:**
+> <strong>\*Splork\* wrote:</strong>
 > I want to increase experience for everybody, make leveling quicker, and ultimately scale damage of skills/spells per position of class order. 
 > 
 > 
@@ -152,16 +152,16 @@ I guess it all depends on how exactly scaling will take place. If you take exist
 > 
 > SPlork
 
-That's only 3 things, I don't see  the problem.  You've got 3 coders, each of you code one and you're done.  It shouldn't take more than a few days.  Anything that can be described in so few words shouldn't take more than a few days to do.
+That's only 3 things, I don't see the problem. You've got 3 coders, each of you code one and you're done. It shouldn't take more than a few days. Anything that can be described in so few words shouldn't take more than a few days to do.
 
 </div>
 
 <div class="post" data-post-id="32768" data-author="Thraxas" data-date="2011-07-27T12:07:32+00:00" data-subject="Re: talk of exp and 8x40">
 
-> **blackmore wrote:**
+> <strong>blackmore wrote:</strong>
 > Anything that can be described in so few words shouldn't take more than a few days to do.
 
-roflmao ... not sure I ever heard anything quite so ridiculously untrue :)
+roflmao ... not sure I ever heard anything quite so ridiculously untrue <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Best of luck to you all, nice to stop by and see you're all still stuck in the grind, maybe I'll come join you again some day.
 
@@ -169,7 +169,7 @@ Best of luck to you all, nice to stop by and see you're all still stuck in the g
 
 <div class="post" data-post-id="32772" data-author="Shyla" data-date="2011-07-28T03:12:15+00:00" data-subject="Re: talk of exp and 8x40">
 
-please do I miss you thraxas :(
+please do I miss you thraxas <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 shyla
 
@@ -177,13 +177,13 @@ shyla
 
 <div class="post" data-post-id="32773" data-author="blackmore" data-date="2011-07-28T04:57:12+00:00" data-subject="Re: talk of exp and 8x40">
 
-> **Thraxas wrote:**
-> > **blackmore wrote:**
+> <strong>Thraxas wrote:</strong>
+> > <strong>blackmore wrote:</strong>
 > > Anything that can be described in so few words shouldn't take more than a few days to do.
 > 
 > 
 > 
-> roflmao ... not sure I ever heard anything quite so ridiculously untrue :)
+> roflmao ... not sure I ever heard anything quite so ridiculously untrue <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Good, because sometimes people are silly enough to take me seriously.
 
@@ -191,23 +191,23 @@ Good, because sometimes people are silly enough to take me seriously.
 
 <div class="post" data-post-id="32786" data-author="Stark" data-date="2011-08-03T22:05:31+00:00" data-subject="Re: talk of exp and 8x40">
 
-**Caution: Wall of text.  Preemptive tl/dr: ***Slothmud requires too much time investment for anyone but the most hardcore of players (which most people don't have the time commitment for).  Recommended dropping exp requirements dramatically.*
+<strong>Caution: Wall of text. Preemptive tl/dr:</strong> <em>Slothmud requires too much time investment for anyone but the most hardcore of players (which most people don't have the time commitment for). Recommended dropping exp requirements dramatically.</em>
 
-Just one person's personal preference, but I thought I'd throw it out there.  First, some background.  I've played in short bursts over the course of the last 10 years.  I think the game is great, but the amount of time commitment that this game demands to get anywhere is just INSANE.  In fact, for most non-hardcore characters, it's downright intimidating.  I think it took me about 6-7 years (with breaks counted in years between playing sessions counted in months) to finally get my healer Stark to 3x40 and running in some chop groups.  Not long after that, of course, 8x40 was introduced and a playerwipe executed.  Pretty depressing.  But hey, I gave it a shot.  Came to find out that it will take even LONGER for my character to now even THINK about getting near to max level.  
+Just one person's personal preference, but I thought I'd throw it out there. First, some background. I've played in short bursts over the course of the last 10 years. I think the game is great, but the amount of time commitment that this game demands to get anywhere is just INSANE. In fact, for most non-hardcore characters, it's downright intimidating. I think it took me about 6-7 years (with breaks counted in years between playing sessions counted in months) to finally get my healer Stark to 3x40 and running in some chop groups. Not long after that, of course, 8x40 was introduced and a playerwipe executed. Pretty depressing. But hey, I gave it a shot. Came to find out that it will take even LONGER for my character to now even THINK about getting near to max level. 
 
-Slothmud has been around a long time, and during its existence, at least as far as leveling is concerned, it's catered much more to the core group of people who have the time and desire to spend hours after hours after hours on this game every week of every year.  They seem to be the only ones with a chance at getting to 8x40 (or even 5x40).  This focus on being "hard" and requiring such a long time commitment is the opposite direction that most games in the genre (and the people playing them) have headed during sloth's existence.  Back in the day, it was common for most RPG games to do their best to kill you and require long hours of tedious grinding.  As the genre has progressed, they've moved away from that model because most people really don't think it's fun.  World of Warcraft, for an example of the most popular online rpg out there now, takes about a week of gametime to level one character to max level.  Yes, I just cited world of warcraft as an example.  I'm not saying I want Sloth to be like WoW, but you can take some queues from them.  Every time they add some levels to the max character level, they make the lower levels quicker to get through to even things out.  I couldn't even begin to guess how many weeks of gametime it would take to get a slothmud character to max level, but I would guess that if you even halved the time it took to get there, it would still be far beyond how long it takes to level a WoW character.  And even World of Warcraft has evolved itself in its 6 years from a more hardcore (even though it wasn't really that hardcore) to a much more relaxed playstyle.
+Slothmud has been around a long time, and during its existence, at least as far as leveling is concerned, it's catered much more to the core group of people who have the time and desire to spend hours after hours after hours on this game every week of every year. They seem to be the only ones with a chance at getting to 8x40 (or even 5x40). This focus on being "hard" and requiring such a long time commitment is the opposite direction that most games in the genre (and the people playing them) have headed during sloth's existence. Back in the day, it was common for most RPG games to do their best to kill you and require long hours of tedious grinding. As the genre has progressed, they've moved away from that model because most people really don't think it's fun. World of Warcraft, for an example of the most popular online rpg out there now, takes about a week of gametime to level one character to max level. Yes, I just cited world of warcraft as an example. I'm not saying I want Sloth to be like WoW, but you can take some queues from them. Every time they add some levels to the max character level, they make the lower levels quicker to get through to even things out. I couldn't even begin to guess how many weeks of gametime it would take to get a slothmud character to max level, but I would guess that if you even halved the time it took to get there, it would still be far beyond how long it takes to level a WoW character. And even World of Warcraft has evolved itself in its 6 years from a more hardcore (even though it wasn't really that hardcore) to a much more relaxed playstyle.
 
-I really want to experience as much of the sloth world as I can.  I want to try this type of character and that one.  This weird classo and that one.  But whenever I've logged in and start playing, the insane amount of time commitment required of me crushes my soul and I log off.  Maybe some of the time I've spent playing WoW has made me soft.  But I've *enjoyed* being able to get the full experience of multiple classes across different characters in WoW.  Is it such a bad thing to deny of the players of sloth?  To allow people with less time on their hands to have high level characters, or even multiple high level characters?
+I really want to experience as much of the sloth world as I can. I want to try this type of character and that one. This weird classo and that one. But whenever I've logged in and start playing, the insane amount of time commitment required of me crushes my soul and I log off. Maybe some of the time I've spent playing WoW has made me soft. But I've <em>enjoyed</em> being able to get the full experience of multiple classes across different characters in WoW. Is it such a bad thing to deny of the players of sloth? To allow people with less time on their hands to have high level characters, or even multiple high level characters?
 
-If the speed of leveling was doubled in this game, I'd probably come back for an extended period of time.  I know the culture of this game probably won't allow for that to actually happen, but it would take something drastic like that for me to come back and stay awhile.
+If the speed of leveling was doubled in this game, I'd probably come back for an extended period of time. I know the culture of this game probably won't allow for that to actually happen, but it would take something drastic like that for me to come back and stay awhile.
 
 </div>
 
 <div class="post" data-post-id="32787" data-author="Stark" data-date="2011-08-03T22:16:46+00:00" data-subject="Re: talk of exp and 8x40">
 
-Also, slightly off topic, but I thought I'd throw it in.  Dying and losing extremely hard earned equipment has more than once caused me to quit the game for years at a time.  I'd have a lot more fun exploring the world if I didn't risk literally losing my shirt.  Yes, I know, I could get the server to help track down and kill the mobs that looted my corpse.  But I always felt like a jerk when I had to get the whole server to band together to kill a huge mob that looted me.  Or even if it was just one person who had to help me take on something smaller to claim my stuff back.  Ugh.  And I know I can talk to immorts to have equipment granted back in extreme circumstances, but nobody wants to have to do that either.  It's extremely offputting.  Half of this game is building equipment, and it's entirely too easy to lose that whole half of your character.  It's a huge potential loss to any character.  Long time veterans know best how to avoid getting killed and looted, and where to avoid it.  But not so much for those of us who don't have the game memorized.   Losing a level can't have nearly the same impact.
+Also, slightly off topic, but I thought I'd throw it in. Dying and losing extremely hard earned equipment has more than once caused me to quit the game for years at a time. I'd have a lot more fun exploring the world if I didn't risk literally losing my shirt. Yes, I know, I could get the server to help track down and kill the mobs that looted my corpse. But I always felt like a jerk when I had to get the whole server to band together to kill a huge mob that looted me. Or even if it was just one person who had to help me take on something smaller to claim my stuff back. Ugh. And I know I can talk to immorts to have equipment granted back in extreme circumstances, but nobody wants to have to do that either. It's extremely offputting. Half of this game is building equipment, and it's entirely too easy to lose that whole half of your character. It's a huge potential loss to any character. Long time veterans know best how to avoid getting killed and looted, and where to avoid it. But not so much for those of us who don't have the game memorized. Losing a level can't have nearly the same impact.
 
-Sorry.  I kind of got into rant mode.  But I really don't think the potential for such loss makes the game any fun.  Especially when it actually happens.
+Sorry. I kind of got into rant mode. But I really don't think the potential for such loss makes the game any fun. Especially when it actually happens.
 
 </div>
 
@@ -227,7 +227,7 @@ Norks
 
 <div class="post" data-post-id="32790" data-author="jezer" data-date="2011-08-03T23:25:18+00:00" data-subject="Re: talk of exp and 8x40">
 
-> **norks wrote:**
+> <strong>norks wrote:</strong>
 > I agree with most of what Stark says. The huge amount of XP required to progress in S4 has always been apparent but I have only just realised the major difference between S3 and S4 is that the latest incantation of this game is that it is aimed squarely at the best and most hardcore gamers. And that is not me. Neither do I have the time to spend all night in a chop group just to get a level. The lack of progression is now channelling me in the direction of a break. Probably a long one. Iâ€™ll be back of course because I love Sloth and have many friends here. But it is a game after all and one should enjoy playing. When it feels like work or stops being fun, itâ€™s time to do something else.
 
 Thumbs Up. Me too.
@@ -236,7 +236,7 @@ Thumbs Up. Me too.
 
 <div class="post" data-post-id="32796" data-author="Insomniac" data-date="2011-08-04T11:38:15+00:00" data-subject="Re: talk of exp and 8x40">
 
-> **norks wrote:**
+> <strong>norks wrote:</strong>
 > The huge amount of XP required to progress in S4 has always been apparent but I have only just realised the major difference between S3 and S4 is that the latest incantation of this game is that it is aimed squarely at the best and most hardcore gamers.
 
 Yep, I agree with Norks. I am one of those "hardcore" gamers but even I'm struggling to maintain my motivation for playing because of the EXP you need to level. 
@@ -253,7 +253,7 @@ Nonetheless, I don't feel good about leading groups like I've been doing because
 
 <div class="post" data-post-id="32797" data-author="Cizin" data-date="2011-08-04T12:46:25+00:00" data-subject="Re: talk of exp and 8x40">
 
-I have no idea what you are talking about  :P 
+I have no idea what you are talking about <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom"> 
 
 Exping is boring ? No benefits ? This whining always remind me on 'i want ALL and I want it NOW!'.
 
@@ -299,7 +299,7 @@ You're really cool, Cizin.
 
 <div class="post" data-post-id="32799" data-author="Ezekiel" data-date="2011-08-05T18:07:58+00:00" data-subject="Re: talk of exp and 8x40">
 
-I like the positive attitude you hold toward the game, Ciz, It's just that the eq and the rate at which you leveled have allowed you to enjoy the game's progression at a different rate than the rest. It is clear, by people's motivations to post here, that it seems more like a struggle/grind than enjoyment...not because people are not 'handed' things while botting...but because they put out a lot of time and effort and gain/enjoy progression of their char very minimally, maybe not having the amount of time to earn that quick progression in skill that you did.  I'm not saying I don't want to put in time to be rewarded...i'm saying that many people played S3 here and have general perceptions of reward/gain per time that they put in....and general observations from other games that they've played...and the grind is simply overreaching here. 
+I like the positive attitude you hold toward the game, Ciz, It's just that the eq and the rate at which you leveled have allowed you to enjoy the game's progression at a different rate than the rest. It is clear, by people's motivations to post here, that it seems more like a struggle/grind than enjoyment...not because people are not 'handed' things while botting...but because they put out a lot of time and effort and gain/enjoy progression of their char very minimally, maybe not having the amount of time to earn that quick progression in skill that you did. I'm not saying I don't want to put in time to be rewarded...i'm saying that many people played S3 here and have general perceptions of reward/gain per time that they put in....and general observations from other games that they've played...and the grind is simply overreaching here. 
 
 Of course, between our comments, it would be a matter of perception...i'm just trying to make you see that people play because they want to enjoy it and feel like it's a struggle at the same time, but there needs to be a balance between the two...for you, one of the hardcore mudders being referenced, the mud may seem like it has enough balance. 
 
@@ -313,7 +313,7 @@ Just my perspective. -Ezekiel
 
 <div class="post" data-post-id="32800" data-author="Shyla" data-date="2011-08-05T19:43:46+00:00" data-subject="Re: talk of exp and 8x40">
 
-move your tushy back here norks :(
+move your tushy back here norks <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 shyla
 
@@ -321,7 +321,7 @@ shyla
 
 <div class="post" data-post-id="32801" data-author="Bennett" data-date="2011-08-06T00:07:20+00:00" data-subject="Re: talk of exp and 8x40">
 
-Hats off to Cizin. Clearly he understands how to play the game in a way that I just couldn't figure out.   I tried pretty hard for a while to level my char up by soloing, but I just couldn't get anywhere.   Sloth is a great game, but I don't think it is a game for the casual player like me who just wants to pop in every few nights and run an hour of xp while I drink a beer.   As far as I can tell, you have to be pretty hard-core to feel like you are getting anywhere.  At the very least, you certainly need some skills that I don't know where to acquire --- the way I run my char I don't see how I could ever make it anywhere near 9x40.
+Hats off to Cizin. Clearly he understands how to play the game in a way that I just couldn't figure out. I tried pretty hard for a while to level my char up by soloing, but I just couldn't get anywhere. Sloth is a great game, but I don't think it is a game for the casual player like me who just wants to pop in every few nights and run an hour of xp while I drink a beer. As far as I can tell, you have to be pretty hard-core to feel like you are getting anywhere. At the very least, you certainly need some skills that I don't know where to acquire --- the way I run my char I don't see how I could ever make it anywhere near 9x40.
 
 </div>
 
@@ -339,13 +339,13 @@ Splork and team
 
 <div class="post" data-post-id="32806" data-author="Sleeping Forest" data-date="2011-08-07T10:23:00+00:00" data-subject="Re: talk of exp and 8x40">
 
-Thank you ever so much   :mrgreen:
+Thank you ever so much <img src="/images/smilies/icon_mrgreen.svg" alt=":mrgreen:" title=":mrgreen:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="32807" data-author="Insomniac" data-date="2011-08-07T10:48:56+00:00" data-subject="Re: talk of exp and 8x40">
 
-Thanks Rick, I'll lead some desert over the next couple of weeks and report back :)
+Thanks Rick, I'll lead some desert over the next couple of weeks and report back <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -371,7 +371,7 @@ Cizin in particular made me chuckle, you're absolutely right in everything you s
 
 You did however really hit the nail on the head with your question:
 
-> **Cizin wrote:**
+> <strong>Cizin wrote:</strong>
 > Do you really expect get 9x40 in a couple of months ?
 
 I think the answer to that is yes I think most people do ... and why not? level to 9x40 in 6 months playing 5 hours a week then move on to another classo or refine the equipment (that is so central to sloth) ... casual players then get the opportunity to gain a sense of progression.

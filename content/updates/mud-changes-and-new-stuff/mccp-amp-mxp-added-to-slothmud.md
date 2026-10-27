@@ -20,7 +20,7 @@ When you connect to a world that supports MCCP, text sent from the world to you 
 
 MXP
 
-Traditionally, MUDs have used raw Telnet.  MUD sessions have been enhanced using standard terminal protocols, such as ANSI and VT100 to add color and cursor control.  However, there is no higher-level command protocol used by MUDs to enhance the game session.  The MUD eXtension Protocol (MXP) attempts to fill this gap by providing a markup language based loosely upon HTML and XML that allows better communication between the MUD Server and Client.
+Traditionally, MUDs have used raw Telnet. MUD sessions have been enhanced using standard terminal protocols, such as ANSI and VT100 to add color and cursor control. However, there is no higher-level command protocol used by MUDs to enhance the game session. The MUD eXtension Protocol (MXP) attempts to fill this gap by providing a markup language based loosely upon HTML and XML that allows better communication between the MUD Server and Client.
 
 MCCP is invisible to the users, although many of our players will notice a considerably quicker link.
 
@@ -28,12 +28,12 @@ MXP needs to be toggled on by typing mxp, hoever, there is not much use of it at
 
 Use your settings command to see the results of mccp if your client supports it.
 
-TTYPE, NAWS, and  a few others are also supported now.
+TTYPE, NAWS, and a few others are also supported now.
 
 Enjoy,
 
 Splork and Isabo
 
-As well, I have heard through the grapevine that wintin.net will most likely be adding these also :twisted:
+As well, I have heard through the grapevine that wintin.net will most likely be adding these also <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

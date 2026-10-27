@@ -20,17 +20,17 @@ I log on and go to my personnal account page. I click on edit your information a
 
 <div class="post" data-post-id="14055" data-author="Sashka" data-date="2006-09-15T17:37:43+00:00" data-subject="">
 
-I have the same problem too. Everytime I want to log in I have to paste the password from the e-mail that was sent to me initially. Password wouldn't change just like any other stuff (including the avatar). Also I can't send messages to other website users. I hope someone could look into it and fix the annoying problem... Thanks in advance. :(
+I have the same problem too. Everytime I want to log in I have to paste the password from the e-mail that was sent to me initially. Password wouldn't change just like any other stuff (including the avatar). Also I can't send messages to other website users. I hope someone could look into it and fix the annoying problem... Thanks in advance. <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="14056" data-author="Diazz_Dizazter" data-date="2006-09-15T17:46:27+00:00" data-subject="">
 
-Yeah thats the only password that seems to work.  Nothing in the profiles
+Yeah thats the only password that seems to work. Nothing in the profiles
 
 actually save when updated (the forums profiles, not the profile on the main
 
-page).   :!:
+page). <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

@@ -32,15 +32,15 @@ A bit dated, but still good:
 
 Shyla is leading 'a bunch of slackers' on Thordfalan:
 
-            (Cl:5.40)   Shyla
+ (Cl:5.40) Shyla
 
-            (Ma:3.20)   Hakon
+ (Ma:3.20) Hakon
 
-            (Wa:5.40)   Bit
+ (Wa:5.40) Bit
 
-            (Ma:5.40)   Rynquald
+ (Ma:5.40) Rynquald
 
-            (Cl:2.30)   Yinao
+ (Cl:2.30) Yinao
 
 </div>
 
@@ -50,21 +50,20 @@ Stolen from the Pirate's site:
 
 Acme is leading 'Truth and Reason shall win the day' on The Island:
 
-            (Ne:5.40)   Acme
+ (Ne:5.40) Acme
 
-            (Ma:5.40)   Truth
+ (Ma:5.40) Truth
 
-            (Ne:1.35)   Reason
+ (Ne:1.35) Reason
 
 </div>
 
 <div class="post" data-post-id="18245" data-author="Autolycos" data-date="2007-04-30T03:12:05+00:00" data-subject="">
 
-Stolen from the Pirate's site:
+> <strong>12345 wrote:</strong>
+> Stolen from the Pirate's site:
 
-[/quote:30fulzh4]
-
-THIEF!!!!!!!   :x
+THIEF!!!!!!! <img src="/images/smilies/icon_mad.svg" alt=":x" title=":x" width="15" height="15" class="smiley nozoom">
 
 you have to admit... was pretty damn funny....
 
@@ -74,7 +73,7 @@ you have to admit... was pretty damn funny....
 
 check ghost/shival's wrap for the two best gname's ever
 
-:)
+<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 peace
 
@@ -84,21 +83,26 @@ peace
 
 Jian is leading 'Jian's Dandy Duo' somewhere:
 
-            (Cl:0.15)   Jian
+ (Cl:0.15) Jian
 
-            (Wa:0.14)   Xiaomai
+ (Wa:0.14) Xiaomai
 
-aint that just dandy? :P
+aint that just dandy? <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="18269" data-author="Akasha" data-date="2007-05-02T21:44:39+00:00" data-subject="">
 
-check ghost/shival's wrap for the two best gname's ever
-
-:)
-
-peace[/quote:2kb5kbiu]
+> <strong>13 wrote:</strong>
+> check ghost/shival's wrap for the two best gname's ever
+> 
+> 
+> 
+> <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
+> 
+> 
+> 
+> peace
 
 nice one
 

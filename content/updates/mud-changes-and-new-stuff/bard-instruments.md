@@ -16,7 +16,7 @@ The bard prime avatar instruments have been fixed so that those who do not meet 
 
 Obviously it took us awhile to notice the error and we apologize for any problems it is going to cause. However, these instruments were never meant to be held by a prime 40 bard without the appropriate Avatar levels.
 
-We will work on creating some instruments for > then 40 prime bards to Avatar 1 prime bards in a small attempt to make things right.
+We will work on creating some instruments for \> then 40 prime bards to Avatar 1 prime bards in a small attempt to make things right.
 
 Splork
 

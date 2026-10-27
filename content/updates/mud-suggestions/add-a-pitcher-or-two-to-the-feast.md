@@ -14,7 +14,7 @@ post_count: 8
 
 As you know, if thirsty, you can't gorge.
 
-> **Quote:**
+> <strong>Quote:</strong>
 > You are thirsty.
 > 
 > 
@@ -27,8 +27,8 @@ As you know, if thirsty, you can't gorge.
 
 If you do gorge a feast, you can still be thirsty. Or, if you are not, you'll get thirsty earlier, than you get hungry.
 
-> **Quote:**
-> <1136hp 179ma 203mv> 3091123617 - 5.9 -10 indoors+0, 0
+> <strong>Quote:</strong>
+> \<1136hp 179ma 203mv\> 3091123617 - 5.9 -10 indoors+0, 0
 > 
 > puke
 > 
@@ -38,31 +38,31 @@ If you do gorge a feast, you can still be thirsty. Or, if you are not, you'll ge
 > 
 > 
 > 
-> <1136hp 182ma 204mv> 3091123617 - 5.9 -10 indoors+0, 0
+> \<1136hp 182ma 204mv\> 3091123617 - 5.9 -10 indoors+0, 0
 > 
 > gor
 > 
 > You snatch a pitcher of icewater from the ground.
 > 
-> You quaff from a pitcher of icewater.  It tastes like water.
+> You quaff from a pitcher of icewater. It tastes like water.
 > 
 > You are thirsty.
 > 
 > You snatch a glass of water from the ground.
 > 
-> You quaff from a glass of water.  It tastes like water.
+> You quaff from a glass of water. It tastes like water.
 > 
 > You are thirsty.
 > 
 > You snatch a glass of water from the ground.
 > 
-> You quaff from a glass of water.  It tastes like water.
+> You quaff from a glass of water. It tastes like water.
 > 
 > You are thirsty.
 > 
 > You snatch a glass of water from the ground.
 > 
-> You quaff from a glass of water.  It tastes like water.
+> You quaff from a glass of water. It tastes like water.
 > 
 > You are thirsty.
 > 
@@ -116,7 +116,7 @@ feel free.
 
 Thanks.
 
-It is really troublesome not to puke at the group's regen spot, being a leader and having to sneak around more, than you should :)
+It is really troublesome not to puke at the group's regen spot, being a leader and having to sneak around more, than you should <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -124,7 +124,7 @@ It is really troublesome not to puke at the group's regen spot, being a leader a
 
 Ok done.
 
-Doubled water pitcher, tea cup, mug coffee,  cup of lemonade contents. Increased pint of milk by about 1/3.
+Doubled water pitcher, tea cup, mug coffee, cup of lemonade contents. Increased pint of milk by about 1/3.
 
 Cheers.
 

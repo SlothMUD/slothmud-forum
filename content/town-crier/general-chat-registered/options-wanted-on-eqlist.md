@@ -12,9 +12,9 @@ post_count: 8
 
 <div class="post" data-post-id="24724" data-author="firebrand" data-date="2008-06-03T14:44:14+00:00" data-subject="options wanted on eqlist">
 
-although i have only one option i want to see added to eq list options, i am sure there are other things we would like to see on eq page.  i still wish we had the dressing room again, but that didn't make it to the poll.  feel free to reply, flame, add own option requests.  
+although i have only one option i want to see added to eq list options, i am sure there are other things we would like to see on eq page. i still wish we had the dressing room again, but that didn't make it to the poll. feel free to reply, flame, add own option requests. 
 
-"come and get it!  it's a running buffet!" -shaun --> shaun of the dead
+"come and get it! it's a running buffet!" -shaun --\> shaun of the dead
 
 </div>
 
@@ -36,9 +36,10 @@ Make a list yourself and post to crier?
 
 <div class="post" data-post-id="24731" data-author="Yasik2" data-date="2008-06-04T07:36:52+00:00" data-subject="">
 
-I think sloth mud will need more active coders and fresh ideas[/quote:259817do]
+> <strong>jezer wrote:</strong>
+> I think sloth mud will need more active coders and fresh ideas
 
-1) Longer passwords. 8 characters it's like 20th century, c'mon! I vote for 64 char max pwds.
+1\) Longer passwords. 8 characters it's like 20th century, c'mon! I vote for 64 char max pwds.
 
 </div>
 
@@ -46,7 +47,7 @@ I think sloth mud will need more active coders and fresh ideas[/quote:259817do]
 
 We all know your password probably has something to do with that 300 movie with the spartans!
 
-You might want to change it!  :twisted:
+You might want to change it! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -60,36 +61,44 @@ B) I don't have access to edit the code, the html or the database
 
 C) I don't have the time or desire for A, so don't want B.
 
-When I was miserable at work many years ago, I enjoyed wasting my day cycling the mud trying to clean up the list, but that time is long gone.  I'm now running a small development organization that might not be small for much longer, and would rather further the company than spend time working on the list.
+When I was miserable at work many years ago, I enjoyed wasting my day cycling the mud trying to clean up the list, but that time is long gone. I'm now running a small development organization that might not be small for much longer, and would rather further the company than spend time working on the list.
 
-I'd be more than happy to talk to someone if they want to take over the management of the list, as long as they understand that virtually nobody submits anything, and when they do it's usually treasure or a spellbook that was a random pop.  Most of the rest of it, you have to pop yourself if you want it added to the list.
+I'd be more than happy to talk to someone if they want to take over the management of the list, as long as they understand that virtually nobody submits anything, and when they do it's usually treasure or a spellbook that was a random pop. Most of the rest of it, you have to pop yourself if you want it added to the list.
 
 </div>
 
 <div class="post" data-post-id="24735" data-author="Yasik2" data-date="2008-06-04T16:04:30+00:00" data-subject="">
 
-We all know your password probably has something to do with that 300 movie with the spartans!
+> <strong>jezer wrote:</strong>
+> We all know your password probably has something to do with that 300 movie with the spartans!
+> 
+> 
+> 
+> You might want to change it! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
-You might want to change it!  :twisted:[/quote:1p599q1d]
-
-You're awrong, my friend. My password is unrelated to the "300", setting up such easy-to-guess password is just madness!!!  :D  :D  :D
+You're awrong, my friend. My password is unrelated to the "300", setting up such easy-to-guess password is just madness!!! <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="24740" data-author="jezer" data-date="2008-06-04T23:20:47+00:00" data-subject="">
 
-I vote for C, especially since:
+> <strong>blackmore wrote:</strong>
+> I vote for C, especially since:
+> 
+> A) I have the password to manage the contents of the list
+> 
+> B) I don't have access to edit the code, the html or the database
+> 
+> C) I don't have the time or desire for A, so don't want B.
+> 
+> 
+> 
+> When I was miserable at work many years ago, I enjoyed wasting my day cycling the mud trying to clean up the list, but that time is long gone. I'm now running a small development organization that might not be small for much longer, and would rather further the company than spend time working on the list.
+> 
+> 
+> 
+> I'd be more than happy to talk to someone if they want to take over the management of the list, as long as they understand that virtually nobody submits anything, and when they do it's usually treasure or a spellbook that was a random pop. Most of the rest of it, you have to pop yourself if you want it added to the list.
 
-A) I have the password to manage the contents of the list
-
-B) I don't have access to edit the code, the html or the database
-
-C) I don't have the time or desire for A, so don't want B.
-
-When I was miserable at work many years ago, I enjoyed wasting my day cycling the mud trying to clean up the list, but that time is long gone.  I'm now running a small development organization that might not be small for much longer, and would rather further the company than spend time working on the list.
-
-I'd be more than happy to talk to someone if they want to take over the management of the list, as long as they understand that virtually nobody submits anything, and when they do it's usually treasure or a spellbook that was a random pop.  Most of the rest of it, you have to pop yourself if you want it added to the list.[/quote:28roje74]
-
-Thanks for doing the list for so long.  :)
+Thanks for doing the list for so long. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

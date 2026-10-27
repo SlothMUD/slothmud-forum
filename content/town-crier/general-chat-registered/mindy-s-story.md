@@ -12,7 +12,7 @@ post_count: 5
 
 <div class="post" data-post-id="8181" data-author="blackmore" data-date="2005-08-07T21:50:33+00:00" data-subject="Mindy&#x27;s Story">
 
-[url:cfpfn4yo]http://www.taliant.com/index.asp?page=stories[/url:cfpfn4yo]
+http://www.taliant.com/index.asp?page=stories
 
 </div>
 
@@ -30,12 +30,12 @@ The kind invented by an insurance company to sell insurance!
 
 <div class="post" data-post-id="8184" data-author="12345" data-date="2005-08-08T03:17:00+00:00" data-subject="">
 
-I wasn't able to find the part where they say what was actually causing her headaches.  Gotta love the hospital though... they kept her for observation and barely did that.
+I wasn't able to find the part where they say what was actually causing her headaches. Gotta love the hospital though... they kept her for observation and barely did that.
 
 </div>
 
 <div class="post" data-post-id="8210" data-author="Avatar" data-date="2005-08-10T11:42:07+00:00" data-subject="Wow">
 
-That Taliant page is pretty impressive.  It's good to know that there is help available to people when they get injured like this.  It's a sad story though, it's crazy how events like that can be so random.
+That Taliant page is pretty impressive. It's good to know that there is help available to people when they get injured like this. It's a sad story though, it's crazy how events like that can be so random.
 
 </div>

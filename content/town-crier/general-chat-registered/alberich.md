@@ -26,9 +26,9 @@ So the next person that bids on it, u can sell to him/her.
 
 hrm, fishy
 
-[img:10kppham]http://amethyst-angel.com/propcloset/catalog_goldgauntlets.jpg[/img:10kppham]
+![](http://amethyst-angel.com/propcloset/catalog_goldgauntlets.jpg)
 
-These are LINK's golden gauntlets.  You know you meant to bid on them.
+These are LINK's golden gauntlets. You know you meant to bid on them.
 
 </div>
 
@@ -36,13 +36,13 @@ These are LINK's golden gauntlets.  You know you meant to bid on them.
 
 Haha Link had Mosiac Gloves or something -.2 +dam +hp
 
-I wish I still had Link  :cry:
+I wish I still had Link <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="15712" data-author="13" data-date="2006-12-22T05:17:39+00:00" data-subject="">
 
-Link, from Zelda dork.  It's a play on your old character..nvm.
+Link, from Zelda dork. It's a play on your old character..nvm.
 
 </div>
 
@@ -54,21 +54,21 @@ Ooo didnt know u was being sarcastic (sp)
 
 <div class="post" data-post-id="15715" data-author="Autolycos" data-date="2006-12-22T13:35:44+00:00" data-subject="">
 
-OMFG  Will  ...    :shock: 
+OMFG Will ... <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
 you must be retawduhd
 
 its easier to say you have a mal-functioning brainpan... 
 
-everyone remebers the equation.  
+everyone remebers the equation. 
 
 Aaron 
 
 95% sarcastic
 
- 5%  serious
+ 5% serious
 
-it's the 5% you should watch out for.   :twisted:
+it's the 5% you should watch out for. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -76,15 +76,18 @@ it's the 5% you should watch out for.   :twisted:
 
 you mean you don't want my newbie gloves?
 
-*pout*
+\*pout\*
 
 </div>
 
 <div class="post" data-post-id="15719" data-author="Autolycos" data-date="2006-12-22T15:01:40+00:00" data-subject="">
 
-you mean you don't want my newbie gloves?
-
-*pout*[/quote:3f9w6q3s]
+> <strong>Alberich wrote:</strong>
+> you mean you don't want my newbie gloves?
+> 
+> 
+> 
+> \*pout\*
 
 dear god Adam.... 
 
@@ -92,29 +95,31 @@ wtf you gotta make this all about you?
 
 c'mon man.. 
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="15733" data-author="Corinn" data-date="2006-12-23T01:42:07+00:00" data-subject="">
 
-OMFG  Will  ...    :shock: 
-
-you must be retawduhd[/quote:uzur8tzn]
+> <strong>Autolycos wrote:</strong>
+> OMFG Will ... <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
+> 
+> 
+> 
+> you must be retawduhd
 
 OMFG Jason, 
 
-How many times do I have to tell you its "retaahdid"  ?!?!
+How many times do I have to tell you its "retaahdid" ?!?!
 
- :P
+ <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="15734" data-author="Weasel" data-date="2006-12-23T02:35:27+00:00" data-subject="">
 
-How many times do I have to tell you its "retaahdid"  ?!?!
-
-[/quote:3hk9klz1]
+> <strong>Corinn wrote:</strong>
+> How many times do I have to tell you its "retaahdid" ?!?!
 
 That's how Arnold would say it... although he'd add "aahsohl" to it..
 

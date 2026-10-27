@@ -18,17 +18,17 @@ r
 
 You sit down and rest your tired bones.
 
-**read portfolio**
+<strong>read portfolio</strong>
 
 You begin reading a portfolio of lunging sketches ... it has 3 pages.
 
 pra wa
 
-                    Warrior Abilities:
+ Warrior Abilities:
 
-[...]                    
+[...] 
 
-riposte                       - Lvl: 40,           Learned  **75% [-10]** (Prime Warrior)
+riposte - Lvl: 40, Learned <strong>75% [-10]</strong> (Prime Warrior)
 
 Good luck learning the rest!
 
@@ -36,17 +36,17 @@ You turn to the next page in a portfolio of lunging sketches ... there is one si
 
 You turn to the next page in a portfolio of lunging sketches ... you are on the last page.
 
-**You finish reading a portfolio of lunging sketches, and close the cover.**
+<strong>You finish reading a portfolio of lunging sketches, and close the cover.</strong>
 
 A portfolio of lunging sketches crumbles in your hands.
 
 pra wa
 
-                    Warrior Abilities:
+ Warrior Abilities:
 
 [...]
 
-riposte                       - Lvl: 40,           Learned  **25% [-60]** (Prime Warrior)
+riposte - Lvl: 40, Learned <strong>25% [-60]</strong> (Prime Warrior)
 
 Also, it always visiously massacred mobs when check passed, but never was a finishing blow, not a single time. I suspect it actually did not any damage at all.
 
@@ -60,7 +60,7 @@ In Sloth 5 you work backwards from 9x40 to level 1. Congratulations on unlearnin
 
 <div class="post" data-post-id="33980" data-author="Yasik" data-date="2013-02-05T19:20:50+00:00" data-subject="Re: Riposte percentage">
 
-:lol:  :lol:  :lol: Jezer, come back already!
+<img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> Jezer, come back already!
 
 </div>
 
@@ -80,9 +80,9 @@ I have never seen this happen, I don't believe its been reported before, and the
 
 <div class="post" data-post-id="34000" data-author="Toxis" data-date="2013-02-07T01:55:30+00:00" data-subject="Re: Riposte percentage">
 
-I know the damage was reduced at start of s4, although I don't know why.  And on s4 I have gotten many a kill with riposte.  Nothing has changed about that.
+I know the damage was reduced at start of s4, although I don't know why. And on s4 I have gotten many a kill with riposte. Nothing has changed about that.
 
--Tox
+\-Tox
 
 </div>
 
@@ -104,6 +104,6 @@ I would have reported it when it happened, but was told just wait and % will ret
 
 <div class="post" data-post-id="34576" data-author="*juggleblood*" data-date="2013-11-23T12:51:05+00:00" data-subject="Re: Riposte percentage">
 
-Catching up on posts from Februrary? :)
+Catching up on posts from Februrary? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

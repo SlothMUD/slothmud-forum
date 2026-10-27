@@ -22,7 +22,7 @@ If you -do- surrender, will we still see you logging in from time to time from a
 
 I'd hate to see you go.
 
---D
+\--D
 
 </div>
 

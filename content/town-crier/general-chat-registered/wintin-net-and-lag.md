@@ -24,6 +24,6 @@ Thanks
 
 I am running P4....30 gig of wide open space and Wintin's lastest. DSL 100k.. Recently I started expirencing the same thing.. It really stalls just before a crash. Maybe that's normal.. ? I'll say sh... here comes a crash and sure enough..CRASH..
 
-The "Putty" errors are mine but the lag thing started about 2 weeks ago..My 'eqlist' C++  script has been on again off again once or twice of late as well. ?...Bugs. Last week it's been worse. Other than that..it runs as smooth as my silk robes.. Gater loves the mud.
+The "Putty" errors are mine but the lag thing started about 2 weeks ago..My 'eqlist' C++ script has been on again off again once or twice of late as well. ?...Bugs. Last week it's been worse. Other than that..it runs as smooth as my silk robes.. Gater loves the mud.
 
 </div>

@@ -24,11 +24,11 @@ AC-apply is -1.2
 
 Can affect you as:
 
-    Affects: DEX by 1
+ Affects: DEX by 1
 
 Only those who are at least master clerics and also experienced warriors 
 
-may use this item.  
+may use this item. 
 
 coif min 4 mil
 
@@ -36,7 +36,7 @@ You feel informed:
 
 Object 'bone bracer', Item type: ARMOR
 
-Item is: GLOW **INVENTORY** 
+Item is: GLOW \*\*INVENTORY\*\* 
 
 Weight: 2, Value: 250000
 
@@ -44,13 +44,13 @@ AC-apply is -0.2
 
 Can affect you as:
 
-    Affects: DAMROLL by 1
+ Affects: DAMROLL by 1
 
-    Affects: STR by -1
+ Affects: STR by -1
 
 Only those who are at least supreme thieves, warriors, bards, or monks may 
 
-use this item.  
+use this item. 
 
 bone bracer ( 2 of them ) min 1 mil each
 
@@ -66,11 +66,11 @@ AC-apply is -0.4
 
 Can affect you as:
 
-    Affects: SAVING_BREATH by -2
+ Affects: SAVING\_BREATH by -2
 
 Only those who are at least experienced thieves, warriors, bards, or monks 
 
-may use this item.  
+may use this item. 
 
 blue steel bracelets ( 2 of them) min 600k each
 
@@ -84,13 +84,13 @@ Weight: 7, Value: 175000
 
 Can affect you as:
 
-    Affects: MANA by 5
+ Affects: MANA by 5
 
-    Affects: HITPOINT by 15
+ Affects: HITPOINT by 15
 
 Only those who are at least supreme magic users, clerics, or necromancers 
 
-may use this item.  
+may use this item. 
 
 ash covered tarab min 300k 
 
@@ -106,13 +106,13 @@ Damage Dice is '2D5'
 
 Can affect you as:
 
-    Affects: HITROLL by 3
+ Affects: HITROLL by 3
 
-    Affects: DAMROLL by 2
+ Affects: DAMROLL by 2
 
 Only those who are at least apprentice thieves or adept warriors, or adept 
 
-bards may use this item.  
+bards may use this item. 
 
 gold pommeled stiletto min 500k
 
@@ -128,7 +128,7 @@ AC-apply is -1.6
 
 Only those who are at least apprentice thieves and also experienced 
 
-warriors may use this item.  
+warriors may use this item. 
 
 thick iron leg plates min 600 k
 
@@ -142,17 +142,17 @@ Weight: 6, Value: 120000
 
 Can affect you as:
 
-    Affects: ARMOR by -6
+ Affects: ARMOR by -6
 
-    Affects: HITPOINT by 8
+ Affects: HITPOINT by 8
 
 Only those who are at least supreme warriors or bards, and have attained 
 
-supremacy in at least three classes may use this item.  
+supremacy in at least three classes may use this item. 
 
 ermine cloak min 400k
 
-happy bidding  :lol: 
+happy bidding <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> 
 
 chi
 
@@ -172,7 +172,7 @@ blue steel bracelet - 1.2mil for both
 
 <div class="post" data-post-id="615" data-author="Sian" data-date="2004-06-10T07:04:58+00:00" data-subject="">
 
-<SPAN class=postbody>blue steel bracelet - 1.6mil for both</SPAN><SPAN class=gensmall></SPAN>
+\<SPAN class=postbody\>blue steel bracelet - 1.6mil for both\</SPAN\>\<SPAN class=gensmall\>\</SPAN\>
 
 </div>
 
@@ -190,13 +190,13 @@ blue steel bracelet - 1.8mil for both
 
 <div class="post" data-post-id="637" data-author="Grapenut" data-date="2004-06-11T19:49:34+00:00" data-subject="">
 
-<P>500k for the gold stilleto :)</P>
+\<P\>500k for the gold stilleto <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">\</P\>
 
 </div>
 
 <div class="post" data-post-id="641" data-author="Gippal" data-date="2004-06-11T20:26:21+00:00" data-subject="">
 
-600k for gold pommeled stiletto :D
+600k for gold pommeled stiletto <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 

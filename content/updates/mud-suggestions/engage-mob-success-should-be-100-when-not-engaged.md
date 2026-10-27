@@ -26,13 +26,13 @@ thanks
 
 <div class="post" data-post-id="39948" data-author="Driven" data-date="2022-05-28T15:29:25+00:00" data-subject="Re: engage mob success should be 100% when not engaged">
 
-I know failing engage is somewhat annoying, but there is no lag on a failed engage, which means you can just do #3 engage target.  Is there some reason why this doesn't work?  You can build this into your client.  Maybe I'm missing something other than the annoyance factor?
+I know failing engage is somewhat annoying, but there is no lag on a failed engage, which means you can just do #3 engage target. Is there some reason why this doesn't work? You can build this into your client. Maybe I'm missing something other than the annoyance factor?
 
 </div>
 
 <div class="post" data-post-id="39949" data-author="cnl" data-date="2022-05-28T19:03:39+00:00" data-subject="Re: engage mob success should be 100% when not engaged">
 
-#3 engage is a good idea, i'll try that.
+\#3 engage is a good idea, i'll try that.
 
 </div>
 

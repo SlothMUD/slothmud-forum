@@ -14,13 +14,13 @@ post_count: 37
 
 Quote:VATICAN CITY -- Lawyers for Pope Benedict XVI have asked President Bush to declare the pontiff immune from liability in a lawsuit that accuses him of conspiring to cover up the molestation of three boys by a seminarian in Texas, court records show.
 
-    The Vatican's embassy in Washington sent a diplomatic memo to the State Department on May 20 requesting the U.S. government grant the pope immunity because he is a head of state, according to a May 26 motion submitted by the pope's lawyers in U.S. District Court for the Southern Division of Texas in Houston.
+ The Vatican's embassy in Washington sent a diplomatic memo to the State Department on May 20 requesting the U.S. government grant the pope immunity because he is a head of state, according to a May 26 motion submitted by the pope's lawyers in U.S. District Court for the Southern Division of Texas in Houston.
 
-    Joseph Ratzinger is named as a defendant in the civil lawsuit. Now Benedict XVI, he's accused of conspiring with the Archdiocese of Galveston-Houston to cover up the abuse during the mid-1990s.
+ Joseph Ratzinger is named as a defendant in the civil lawsuit. Now Benedict XVI, he's accused of conspiring with the Archdiocese of Galveston-Houston to cover up the abuse during the mid-1990s.
 
-    In Washington, State Department spokeswoman Gerry Keener, said Tuesday that the pope is considered a head of state and automatically has diplomatic immunity.
+ In Washington, State Department spokeswoman Gerry Keener, said Tuesday that the pope is considered a head of state and automatically has diplomatic immunity.
 
-    Lawyers for abuse victims say the case is significant because previous attempts to implicate the Vatican, the pope or other church officials in U.S. sex abuse proceedings have failed -- primarily because of immunity claims and the difficulty serving Vatican officials with U.S. lawsuits.
+ Lawyers for abuse victims say the case is significant because previous attempts to implicate the Vatican, the pope or other church officials in U.S. sex abuse proceedings have failed -- primarily because of immunity claims and the difficulty serving Vatican officials with U.S. lawsuits.
 
 </div>
 
@@ -36,9 +36,7 @@ More broadcast and print journalists have been killed during the Iraq war than d
 
 That's truly fascinating. My take on these statistics (my bias is that of a U.S. citizen and Marine Corps veteran) is that they indicate a complete change from U.S. Vietnam Era policies concerning journalists, i.e. "You'll see what we want you to see, when we want you to see it. Oh, on second thought, just take this wire from our internal Public Affairs Office."
 
-   
-
-   Not commenting on the war at all, just media coverage of it.  Only a free press can hold a true democracy accountable.
+ Not commenting on the war at all, just media coverage of it. Only a free press can hold a true democracy accountable.
 
 </div>
 
@@ -128,7 +126,7 @@ Jan Walther, spokeswoman for the Louisville Area chapter of the Red Cross, said 
 
 Walther also said the number of suspicious hurricane claims, two as of Wednesday, was low compared with the more than 2,300 people receiving aid.
 
-FEMA/Red Cross Kill Katrina Debit Card Program; Cite Red Tape & Abuse
+FEMA/Red Cross Kill Katrina Debit Card Program; Cite Red Tape \& Abuse
 
 link
 
@@ -160,51 +158,76 @@ WE KNOW. You've done some stupid things while drunk. You may have slept with som
 
 Forget it. You're an amateur. You can tear your clothes off in public, pee on national monuments, and tattoo death threats against the president on your forehead, and you'll still be nowhere near the level of misbehavior some drunks demonstrate. Don't believe us? Then read the following list for just a sampling of the sorts of outrageous evil achieved by really bad drunks. Next time you wake up in a puddle of your own sick next to an ugly stranger, you'll have some perspective. Things could be worse. Much, much worse. At least you didn't:
 
-1. Trash an entire town: Forget your drunken movie stars and their trashed hotel rooms -- in 1946 a group of motorcyclists actually trashed an entire town. The location was Hollister, California, a nondescript farming town that was the site of a road rally that attracted 4,000 cyclists. Many of these bikers got drunk and disorderly, according to witnesses. Some rode their motorcycles directly into bars, some spun doughnuts on the pavement, some engaged in impromptu drag races down the city's main street. Time ran a posed photo from the weekend showing a burly, almost bare-chested man with a sideways-turned cap sitting astride a stripped down Harley while holding a bottle of beer in each hand. "There were a bunch of guys up on the Elks Lodge Balcony dropping full highball glasses on the sidewalk below," one witness reminisced in the Bay Area's Metroactive Magazine. Such reports, along with the presence of thousands of leather-clad motorcyclists, made the local police nervous. They jailed several of the motorcyclists, hassled others, and called in the State police as reinforcements. A riot followed, during which the police resorted to tear gas. Come morning, the town's chief of police would survey the damage and declare: "It's just one hell of a mess." The Hollister riot inspired the development of the American outlaw biker, as well as inspiring one famous film: Marlon Brando's The Wild One.
+1\. Trash an entire town: Forget your drunken movie stars and their trashed hotel rooms -- in 1946 a group of motorcyclists actually trashed an entire town. The location was Hollister, California, a nondescript farming town that was the site of a road rally that attracted 4,000 cyclists. Many of these bikers got drunk and disorderly, according to witnesses. Some rode their motorcycles directly into bars, some spun doughnuts on the pavement, some engaged in impromptu drag races down the city's main street. Time ran a posed photo from the weekend showing a burly, almost bare-chested man with a sideways-turned cap sitting astride a stripped down Harley while holding a bottle of beer in each hand. "There were a bunch of guys up on the Elks Lodge Balcony dropping full highball glasses on the sidewalk below," one witness reminisced in the Bay Area's Metroactive Magazine. Such reports, along with the presence of thousands of leather-clad motorcyclists, made the local police nervous. They jailed several of the motorcyclists, hassled others, and called in the State police as reinforcements. A riot followed, during which the police resorted to tear gas. Come morning, the town's chief of police would survey the damage and declare: "It's just one hell of a mess." The Hollister riot inspired the development of the American outlaw biker, as well as inspiring one famous film: Marlon Brando's The Wild One.
 
-2. Eat another person: A popular story on the Internet a few years ago was that of F.A. Boldyshev and N.V. Ostanin of Berezniki, Russia, who got drunk with a third man and then decided to eat him. They had their mother cook the tastier bits and then sold the remainder on the streets, but for the victim's head, hands, and feet, which they hid in an attic. Unfortunately, a customer became suspicious when she discovered skin on one of the cuts of meat she purchased from the men. Suspecting that she was in possession of human flesh, she turned the men in. They later confessed that their cannibalism was inspired by rising costs of non-human meat.
+2\. Eat another person: A popular story on the Internet a few years ago was that of F.A. Boldyshev and N.V. Ostanin of Berezniki, Russia, who got drunk with a third man and then decided to eat him. They had their mother cook the tastier bits and then sold the remainder on the streets, but for the victim's head, hands, and feet, which they hid in an attic. Unfortunately, a customer became suspicious when she discovered skin on one of the cuts of meat she purchased from the men. Suspecting that she was in possession of human flesh, she turned the men in. They later confessed that their cannibalism was inspired by rising costs of non-human meat.
 
-3. Have sex with family members: According to the account of the destruction of Sodom and Gomorrah found in Genesis, upon escaping the burning of the Bible's famously wicked pair of cities and subsequently watching their mother turn into a pillar of salt, Lot's daughters believed that the world was ending. So they did what any reasonable person would do: They attempted to single-handedly repopulate the earth with the only remaining living male. Unfortunately, the only living male they knew about was their father. So they got him drunk on wine and slept with him.
+3\. Have sex with family members: According to the account of the destruction of Sodom and Gomorrah found in Genesis, upon escaping the burning of the Bible's famously wicked pair of cities and subsequently watching their mother turn into a pillar of salt, Lot's daughters believed that the world was ending. So they did what any reasonable person would do: They attempted to single-handedly repopulate the earth with the only remaining living male. Unfortunately, the only living male they knew about was their father. So they got him drunk on wine and slept with him.
 
-4. Kill a princess: Conspiracy theorists dream up complicated causes for the untimely death of Diana Frances Mountbatten-Windsor, the former Princess of Wales. However, her 1997 car crash in Parisian tunnel (which also killed her then-lover, Dodi Fayed, a film producer whose credits included Chariots of Fire) had a quotidian cause: a drunk driver. Blood tests in Henri Paul, Dodi Fayed's limo driver, found that he had a blood-alcohol content three times the legal limit. Paul had attempted to elude nine pursuing French photographers looking to snap pictures of Diana and Dodi. He smashed the limo into a support pillar in an underpass, killing himself and Fayed immediately. Diana died two hours later of massive internal injuries.
+4\. Kill a princess: Conspiracy theorists dream up complicated causes for the untimely death of Diana Frances Mountbatten-Windsor, the former Princess of Wales. However, her 1997 car crash in Parisian tunnel (which also killed her then-lover, Dodi Fayed, a film producer whose credits included Chariots of Fire) had a quotidian cause: a drunk driver. Blood tests in Henri Paul, Dodi Fayed's limo driver, found that he had a blood-alcohol content three times the legal limit. Paul had attempted to elude nine pursuing French photographers looking to snap pictures of Diana and Dodi. He smashed the limo into a support pillar in an underpass, killing himself and Fayed immediately. Diana died two hours later of massive internal injuries.
 
-5. Execute Che Guevara: Revolutionary leader Dr. Ernesto Rafael Guevara de la Serna, popularly known as Che Guevara, who had helped lead the revolution in Cuba, met a violent death in 1967. The handsome guerilla theorist had left Cuba to train a revolutionary army in Bolivia, where he was captured and executed. According to one account, the Bolivian sergeant who had been assigned the task of shooting the revolutionary was so nervous about the prospect that he got himself drunk in advance: Witnesses describe him stumbling and vomiting outside the schoolhouse where guevara was being held. This may help explain why the Guevara killing was so grotesque: the best account has Guevara shot repeatedly in the legs and his throat before a bullet to his lungs ended his life. The Bolivian government then claimed that Guevara had been killed in a gunfight with local authorities.
+5\. Execute Che Guevara: Revolutionary leader Dr. Ernesto Rafael Guevara de la Serna, popularly known as Che Guevara, who had helped lead the revolution in Cuba, met a violent death in 1967. The handsome guerilla theorist had left Cuba to train a revolutionary army in Bolivia, where he was captured and executed. According to one account, the Bolivian sergeant who had been assigned the task of shooting the revolutionary was so nervous about the prospect that he got himself drunk in advance: Witnesses describe him stumbling and vomiting outside the schoolhouse where guevara was being held. This may help explain why the Guevara killing was so grotesque: the best account has Guevara shot repeatedly in the legs and his throat before a bullet to his lungs ended his life. The Bolivian government then claimed that Guevara had been killed in a gunfight with local authorities.
 
-6. Burn down a national forest: Country singer Johnny Cash had trouble with pills and alcohol. The recently deceased Man in Black was legendarily wild on the road, and was once arrested in Texas for attempting to smuggle amphetamines in from Mexico in his guitar case. In 1964, Johnny Cash drunkenly set fire to the Los Padres National Wildlife Refuge in California, burning the foliage off three mountains, destroying 500 acres, and killing 49 of the refuge's 53 endangered condors. Cash was unrepentant -- "I don't care about your damn yellow buzzards," he sneered at his judge. The judge responded by fining Cash $85,000. Cash's explanation as to the cause of the fire? "I was high." (Max Sparber)
+6\. Burn down a national forest: Country singer Johnny Cash had trouble with pills and alcohol. The recently deceased Man in Black was legendarily wild on the road, and was once arrested in Texas for attempting to smuggle amphetamines in from Mexico in his guitar case. In 1964, Johnny Cash drunkenly set fire to the Los Padres National Wildlife Refuge in California, burning the foliage off three mountains, destroying 500 acres, and killing 49 of the refuge's 53 endangered condors. Cash was unrepentant -- "I don't care about your damn yellow buzzards," he sneered at his judge. The judge responded by fining Cash $85,000. Cash's explanation as to the cause of the fire? "I was high." (Max Sparber)
 
 </div>
 
 <div class="post" data-post-id="9167" data-author="Alberich" data-date="2005-10-25T18:15:10+00:00" data-subject="">
 
-[quote:30hwlije]Protecting the Presidential Seal. No Joke.
+> <strong>Quote:</strong>
+> Protecting the Presidential Seal. No Joke.
+> 
+> 
+> 
+> KATHARINE Q. SEELYE
+> 
+> Published: October 24, 2005
+> 
+> 
+> 
+> You might have thought that the White House had enough on its plate late last month, what with its search for a new Supreme Court nominee, the continuing war in Iraq and the C.I.A. leak investigation. But it found time to add another item to its agenda - stopping The Onion, the satirical newspaper, from using the presidential seal.
+> 
+> 
+> 
+> The newspaper regularly produces a parody of President Bush's weekly radio address on its Web site ([www.theonion.com/content/node/40121](http://www.theonion.com/content/node/40121)), where it has a picture of President Bush and the official insignia.
+> 
+> 
+> 
+> "It has come to my attention that The Onion is using the presidential seal on its Web site," Grant M. Dixton, associate counsel to the president, wrote to The Onion on Sept. 28. (At the time, Mr. Dixton's office was also helping Mr. Bush find a Supreme Court nominee; days later his boss, Harriet E. Miers, was nominated.)
+> 
+> 
+> 
+> Citing the United States Code, Mr. Dixton wrote that the seal "is not to be used in connection with commercial ventures or products in any way that suggests presidential support or endorsement." Exceptions may be made, he noted, but The Onion had never applied for such an exception.
+> 
+> 
+> 
+> The Onion was amused. "I'm surprised the president deems it wise to spend taxpayer money for his lawyer to write letters to The Onion," Scott Dikkers, editor in chief, wrote to Mr. Dixton. He suggested the money be used instead for tax breaks for satirists.
+> 
+> 
+> 
+> More formally, The Onion's lawyers responded that the paper's readers - it prints about 500,000 copies weekly, and three million people read it online - are well aware that The Onion is a joke.
+> 
+> 
+> 
+> "It is inconceivable that anyone would think that, by using the seal, The Onion intends to 'convey... sponsorship or approval' by the president," wrote Rochelle H. Klaskin, the paper's lawyer, who went on to note that a headline in the current issue made the point: "Bush to Appoint Someone to Be in Charge of Country."
+> 
+> 
+> 
+> Moreover, she wrote, The Onion and its Web site are free, so the seal is not being used for commercial purposes. That said, The Onion asked that its letter be considered a formal application to use the seal.
+> 
+> 
+> 
+> No answer yet. But Trent Duffy, a White House spokesman, said that "you can't pick and choose where you want to enforce the rules surrounding the use of official government insignia, whether it's for humor or fraud."
+> 
+> 
+> 
+> O.K. But just between us, Mr. Duffy, how did they find out about it?
+> 
+> 
+> 
+> "Despite the seriousness of the Bush White House, more than one Bush staffer reads The Onion and enjoys it thoroughly," he said. "We do have a sense of humor, believe it or not."
 
-KATHARINE Q. SEELYE
-
-Published: October 24, 2005
-
-You might have thought that the White House had enough on its plate late last month, what with its search for a new Supreme Court nominee, the continuing war in Iraq and the C.I.A. leak investigation. But it found time to add another item to its agenda - stopping The Onion, the satirical newspaper, from using the presidential seal.
-
-The newspaper regularly produces a parody of President Bush's weekly radio address on its Web site ([www.theonion.com/content/node/40121](http://www.theonion.com/content/node/40121)), where it has a picture of President Bush and the official insignia.
-
-"It has come to my attention that The Onion is using the presidential seal on its Web site," Grant M. Dixton, associate counsel to the president, wrote to The Onion on Sept. 28. (At the time, Mr. Dixton's office was also helping Mr. Bush find a Supreme Court nominee; days later his boss, Harriet E. Miers, was nominated.)
-
-Citing the United States Code, Mr. Dixton wrote that the seal "is not to be used in connection with commercial ventures or products in any way that suggests presidential support or endorsement." Exceptions may be made, he noted, but The Onion had never applied for such an exception.
-
-The Onion was amused. "I'm surprised the president deems it wise to spend taxpayer money for his lawyer to write letters to The Onion," Scott Dikkers, editor in chief, wrote to Mr. Dixton. He suggested the money be used instead for tax breaks for satirists.
-
-More formally, The Onion's lawyers responded that the paper's readers - it prints about 500,000 copies weekly, and three million people read it online - are well aware that The Onion is a joke.
-
-"It is inconceivable that anyone would think that, by using the seal, The Onion intends to 'convey... sponsorship or approval' by the president," wrote Rochelle H. Klaskin, the paper's lawyer, who went on to note that a headline in the current issue made the point: "Bush to Appoint Someone to Be in Charge of Country."
-
-Moreover, she wrote, The Onion and its Web site are free, so the seal is not being used for commercial purposes. That said, The Onion asked that its letter be considered a formal application to use the seal.
-
-No answer yet. But Trent Duffy, a White House spokesman, said that "you can't pick and choose where you want to enforce the rules surrounding the use of official government insignia, whether it's for humor or fraud."
-
-O.K. But just between us, Mr. Duffy, how did they find out about it?
-
-"Despite the seriousness of the Bush White House, more than one Bush staffer reads The Onion and enjoys it thoroughly," he said. "We do have a sense of humor, believe it or not."[/quote:30hwlije]
-
-so, have you paid your taxes this year?  You know, it's very important, so whatever is leftover from paying for the war can go to banning pron and those nasty humorists
+so, have you paid your taxes this year? You know, it's very important, so whatever is leftover from paying for the war can go to banning pron and those nasty humorists
 
 </div>
 
@@ -230,9 +253,9 @@ steakandcheese.com too
 
 Fark.com
 
-<~Chaos~>
+\<\~Chaos\~\>
 
---
+\--
 
 When caught between two evils, I choose the one I've never tried.
 
@@ -330,8 +353,6 @@ Hanging Mistaken for Halloween Decoration
 
 Thursday, October 27, 2005
 
- 
-
 (10-27) 10:55 PDT Frederica, Del. (AP) --
 
 The apparent suicide of a woman found hanging from a tree went unreported for hours because passers-by thought the body was a Halloween decoration, authorities said.
@@ -350,29 +371,29 @@ State police spokesman Cpl. Jeff Oldham and neighbors said people noticed the bo
 
 <div class="post" data-post-id="9358" data-author="Alberich" data-date="2005-11-04T06:18:34+00:00" data-subject="">
 
-New Rule:  The more complicated the Starbucks order, the bigger the  asshole. 
+New Rule: The more complicated the Starbucks order, the bigger the asshole. 
 
 If you walk into a Starbucks and order a "decaf grande half-soy, half-low 
 
 fat, iced vanilla, double-shot, gingerbread cappuccino, extra dry, light 
 
-ice, with one Sweet-n'-Low and one NutraSweet," ooh, you're a huge  asshole. 
+ice, with one Sweet-n'-Low and one NutraSweet," ooh, you're a huge asshole. 
 
-New Rule:  Just because your tattoo has Chinese characters in it doesn't 
+New Rule: Just because your tattoo has Chinese characters in it doesn't 
 
-make you spiritual.  It's right above the crack of your ass.  And it 
+make you spiritual. It's right above the crack of your ass. And it 
 
-translates to "beef with broccoli."  The last time you did anything 
+translates to "beef with broccoli." The last time you did anything 
 
 spiritual, you were hoping to goodness you weren't pregnant. You're not 
 
-spiritual.  You're just high.
+spiritual. You're just high.
 
 </div>
 
 <div class="post" data-post-id="9361" data-author="Weasel" data-date="2005-11-04T12:41:15+00:00" data-subject="">
 
-heh.. sounds like something Denis Leary would say :)
+heh.. sounds like something Denis Leary would say <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -400,27 +421,29 @@ Don't just sit there, heteros. Defend your rights! Don't shop at Target; write '
 
 <div class="post" data-post-id="9366" data-author="kjartan" data-date="2005-11-04T20:32:32+00:00" data-subject="">
 
-My former state of Texas is now trying to pass a constitutional amendment (in Texas, for reasons related to the problems the state had with carpetbaggers from the North passing crappy laws during Reconstruction after the Civil War, you have to pass a constitutional amendment if you want to change almost any law) to ban gay marriage.  I don't think they wrote the text of it very well:
+My former state of Texas is now trying to pass a constitutional amendment (in Texas, for reasons related to the problems the state had with carpetbaggers from the North passing crappy laws during Reconstruction after the Civil War, you have to pass a constitutional amendment if you want to change almost any law) to ban gay marriage. I don't think they wrote the text of it very well:
 
-[quote:myjikoe8]SECTION 1. Article I, Texas Constitution, is amended by adding Section 32 to read as follows:
+> <strong>Quote:</strong>
+> SECTION 1. Article I, Texas Constitution, is amended by adding Section 32 to read as follows:
+> 
+> 
+> 
+> Sec. 32. (a) Marriage in this state shall consist only of the union of one man and one woman.
+> 
+> (b) This state or a political subdivision of this state may not create or recognize any legal status identical or similar to marriage.
 
-Sec. 32. (a) Marriage in this state shall consist only of the union of one man and one woman.
-
-(b) This state or a political subdivision of this state may not create or recognize any legal status identical or similar to marriage. 
-
-[/quote:myjikoe8]
-
-It looks to me like 32. (b) actually bans [i:myjikoe8]any[/i:myjikoe8] marriage, not just gay marriage.  Because isn't marriage itself a legal status identical to marriage?
+It looks to me like 32. (b) actually bans <em>any</em> marriage, not just gay marriage. Because isn't marriage itself a legal status identical to marriage?
 
 </div>
 
 <div class="post" data-post-id="9426" data-author="Alberich" data-date="2005-11-09T14:33:05+00:00" data-subject="">
 
-Why do trolls troll?  Pretty interesting discussion, actually
+Why do trolls troll? Pretty interesting discussion, actually
 
-[quote:1daonyzq]My own theory is that persistent trolls are the online equivalent of people who do not (or cannot) distinguish between positive attention (praise, approval) and negative attention (criticism, disapproval), but simply perceive attention = good.[/quote:1daonyzq]
+> <strong>Quote:</strong>
+> My own theory is that persistent trolls are the online equivalent of people who do not (or cannot) distinguish between positive attention (praise, approval) and negative attention (criticism, disapproval), but simply perceive attention = good.
 
-[url:1daonyzq]http://www.barbelith.com/topic/22769[/url:1daonyzq]
+http://www.barbelith.com/topic/22769
 
 </div>
 
@@ -432,7 +455,7 @@ Yup dead right - and that behavior is reinforced because they get the attention 
 
 <div class="post" data-post-id="9433" data-author="12345" data-date="2005-11-09T19:49:33+00:00" data-subject="">
 
-I compare it more to rolling a snowball downhill.  It doesn't take much effort, and it's fun to watch. Keyword being fun, of course.
+I compare it more to rolling a snowball downhill. It doesn't take much effort, and it's fun to watch. Keyword being fun, of course.
 
 </div>
 
@@ -446,15 +469,22 @@ oh my
 
 <div class="post" data-post-id="12140" data-author="13" data-date="2006-04-18T18:42:24+00:00" data-subject="">
 
-[quote:2bii3rdv]April 18, 2006â€” Remains of an enormous species of carnivorous dinosaur, which was longer than all other previously identified meat-eating dinos, have been found in western Patagonia, according to a news conference held there on Monday.
+> <strong>Quote:</strong>
+> April 18, 2006â€” Remains of an enormous species of carnivorous dinosaur, which was longer than all other previously identified meat-eating dinos, have been found in western Patagonia, according to a news conference held there on Monday.
+> 
+> 
+> 
+> Researchers announced that the newly discovered meat muncher, Mapusaurus roseae, belongs to a group of gigantic carnivorous dinosaurs called carcharodontosaurids. This group includes Giganotosaurus, the largest meat-eating dinosaur to ever walk the earth.
+> 
+> 
+> 
+> The discovery is published in the latest issue of the journal Geodiversitas.
+> 
+> 
+> 
+> Paleontologists say Mapusaurus exceeded 41 feet in length and had a shinbone that was longer than that of Giganotosaurus. The current record-holder, however, retains its "largest" title because Giganotosaurus would have been wider and heavier than Mapusaurus.
 
-Researchers announced that the newly discovered meat muncher, Mapusaurus roseae, belongs to a group of gigantic carnivorous dinosaurs called carcharodontosaurids. This group includes Giganotosaurus, the largest meat-eating dinosaur to ever walk the earth.
-
-The discovery is published in the latest issue of the journal Geodiversitas.
-
-Paleontologists say Mapusaurus exceeded 41 feet in length and had a shinbone that was longer than that of Giganotosaurus. The current record-holder, however, retains its "largest" title because Giganotosaurus would have been wider and heavier than Mapusaurus. [/quote:2bii3rdv]
-
-[img:2bii3rdv]http://dsc.discovery.com/news/briefs/20060417/meatdino_din_zoom0.html[/img:2bii3rdv]
+![](http://dsc.discovery.com/news/briefs/20060417/meatdino_din_zoom0.html)
 
 </div>
 
@@ -472,7 +502,8 @@ While I could in fact make this stuff up, it is unfortunately true. Tom Cruise p
 
 <div class="post" data-post-id="12144" data-author="Weasel" data-date="2006-04-19T07:30:52+00:00" data-subject="Re: Truly disturbing....">
 
-While I could in fact make this stuff up, it is unfortunately true. Tom Cruise plans on eating Katie Holmes placenta.[/quote:38j1rac8]
+> <strong>Mystery wrote:</strong>
+> While I could in fact make this stuff up, it is unfortunately true. Tom Cruise plans on eating Katie Holmes placenta.
 
 ewwww
 
@@ -482,7 +513,7 @@ ewwww
 
 <div class="post" data-post-id="12145" data-author="jezer" data-date="2006-04-19T07:35:35+00:00" data-subject="">
 
-I agree with Weasel, eating her placenta is such a waste, when it could be used as a better brain than he currently has.  :roll:
+I agree with Weasel, eating her placenta is such a waste, when it could be used as a better brain than he currently has. <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -490,49 +521,76 @@ I agree with Weasel, eating her placenta is such a waste, when it could be used 
 
 This is a year old but messed up on so many levels....
 
-[<LINK_TEXT text="http://www.timesonline.co.uk/article/0, ... 92,00.html">http://www.timesonline.co.uk/article/0,,3-1644792,00.html</LINK_TEXT>](http://www.timesonline.co.uk/article/0,,3-1644792,00.html)
+[http://www.timesonline.co.uk/article/0,,3-1644792,00.html](http://www.timesonline.co.uk/article/0,,3-1644792,00.html)
 
-The Times June 08, 2005 
-
-Anti-rape device must be banned, say women
-
-From Jonathan Clayton in Johannesburg
-
- 
-
- 
-
- 
-
-FURIOUS South African women have called for a controversial new anti-rape device, dubbed a â€œrat trapâ€, to be banned by the Government. 
-
-The tampon-like device, invented by a woman, supposedly protects women from rapists by cutting into a manâ€™s penis. 
-
- 
-
- 
-
-It has sparked an empassioned debate over the high number of rapes committed each day in the country and the authoritiesâ€™ apparent failure to tackle the issue. 
-
-Activists are outraged and want to stop it going on sale alongside tampons in chemists and supermarkets next month. 
-
-Charlene Smith, a leading anti-rape campaigner, said: â€œThis is a medieval instrument, based on male-hating notions and fundamentally misunderstands the nature of rape and violence against women in this society. It is vengeful, horrible, and disgusting. The woman who invented this needs help.â€ 
-
-The device, which Sonette Ehlers, its inventor, has patented, is worn like a tampon but is hollow. In the event of a rape, she said that it would fold around the rapistâ€™s penis and attach itself with microscopic hooks. It is impossible to remove the clamped device without medical intervention. 
-
-â€œWe have to do something to protect ourselves. While this will not prevent rape, it will help identify attackers and secure convictions,â€ Ms Ehlers told the Johannesburg Star. 
-
-Womenâ€™s groups disputed her claims, which have reopened a debate over violence against women in South Africa. The country has been called the rape capital of the world. Lisa Vetten, of the Centre of Violence and Reconciliation, said: â€œThis is like going back to the days when women were forced to wear chastity belts. It is a terrifying thought that women are being made to adapt to rape.â€ 
-
-The South African Law Commission recently estimated that 1.69 million women a year were raped in the country but that only 52,000 cases a year are reported. Other estimates put the rate even higher. 
-
-Ms Smith said: â€œMore than 40 per cent of those raped are children and nationally more than 65 per cent are gang rapes. Whether this translates as a woman raped every 26 seconds or more is irrelevant. It is far too many and not enough is being done to tackle it. This is not a male-only problem, it is a societal problem.â€ 
-
-The activistâ€™s views were echoed by Jenny Crwys- William, the host of a popular radio talk show, who described the device as a â€œprofoundly disturbingâ€ development that underlined how society was in danger of accepting rape as a reality of everyday life. â€œWe need more police and more sensitive police responses to rape. When more rapists go behind bars, rape rates will go down,â€ she told listeners. 
-
-Many callers criticised the Government for a â€œhead in the sandâ€ approach similar to its well-known reluctance to accept the gravity of the HIV/Aids epidemic in the country. 
-
-â€œThis will increase the danger to women, who are already in great danger during a rape. The Government must not allow this to go on sale,â€ one rape victim, who was stabbed twice during an attack, said.[/quote:3986egmu]
+> <strong>Times Online wrote:</strong>
+> The Times June 08, 2005 
+> 
+> 
+> 
+> 
+> 
+> Anti-rape device must be banned, say women
+> 
+> From Jonathan Clayton in Johannesburg
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> FURIOUS South African women have called for a controversial new anti-rape device, dubbed a â€œrat trapâ€, to be banned by the Government. 
+> 
+> The tampon-like device, invented by a woman, supposedly protects women from rapists by cutting into a manâ€™s penis. 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> It has sparked an empassioned debate over the high number of rapes committed each day in the country and the authoritiesâ€™ apparent failure to tackle the issue. 
+> 
+> 
+> 
+> Activists are outraged and want to stop it going on sale alongside tampons in chemists and supermarkets next month. 
+> 
+> 
+> 
+> Charlene Smith, a leading anti-rape campaigner, said: â€œThis is a medieval instrument, based on male-hating notions and fundamentally misunderstands the nature of rape and violence against women in this society. It is vengeful, horrible, and disgusting. The woman who invented this needs help.â€ 
+> 
+> 
+> 
+> The device, which Sonette Ehlers, its inventor, has patented, is worn like a tampon but is hollow. In the event of a rape, she said that it would fold around the rapistâ€™s penis and attach itself with microscopic hooks. It is impossible to remove the clamped device without medical intervention. 
+> 
+> 
+> 
+> â€œWe have to do something to protect ourselves. While this will not prevent rape, it will help identify attackers and secure convictions,â€ Ms Ehlers told the Johannesburg Star. 
+> 
+> 
+> 
+> Womenâ€™s groups disputed her claims, which have reopened a debate over violence against women in South Africa. The country has been called the rape capital of the world. Lisa Vetten, of the Centre of Violence and Reconciliation, said: â€œThis is like going back to the days when women were forced to wear chastity belts. It is a terrifying thought that women are being made to adapt to rape.â€ 
+> 
+> 
+> 
+> The South African Law Commission recently estimated that 1.69 million women a year were raped in the country but that only 52,000 cases a year are reported. Other estimates put the rate even higher. 
+> 
+> 
+> 
+> Ms Smith said: â€œMore than 40 per cent of those raped are children and nationally more than 65 per cent are gang rapes. Whether this translates as a woman raped every 26 seconds or more is irrelevant. It is far too many and not enough is being done to tackle it. This is not a male-only problem, it is a societal problem.â€ 
+> 
+> 
+> 
+> The activistâ€™s views were echoed by Jenny Crwys- William, the host of a popular radio talk show, who described the device as a â€œprofoundly disturbingâ€ development that underlined how society was in danger of accepting rape as a reality of everyday life. â€œWe need more police and more sensitive police responses to rape. When more rapists go behind bars, rape rates will go down,â€ she told listeners. 
+> 
+> 
+> 
+> Many callers criticised the Government for a â€œhead in the sandâ€ approach similar to its well-known reluctance to accept the gravity of the HIV/Aids epidemic in the country. 
+> 
+> 
+> 
+> â€œThis will increase the danger to women, who are already in great danger during a rape. The Government must not allow this to go on sale,â€ one rape victim, who was stabbed twice during an attack, said.
 
 </div>
 
@@ -546,13 +604,13 @@ Wow.. you're right about being messed up on so many levels.. I kind of support t
 
 The views expressed are just mind blowing.
 
-A rape every 26 seconds.  40% are children, 65% are gang rapes.  Despite this, women are saying this shouldn't be used. 
+A rape every 26 seconds. 40% are children, 65% are gang rapes. Despite this, women are saying this shouldn't be used. 
 
-Rough translation:  I would rather have my child gang raped than use this device.
+Rough translation: I would rather have my child gang raped than use this device.
 
-An anti-rape campaigner, someone who should be sympathetic to rape victims, says that the person who invented it "...fundamentally misunderstands the nature of rape and violence against women in this society..."  WHAT?!?  What is rape and violence supposed to mean in your society?  Is it a status symbol? How do you misunderstand rape and violence?
+An anti-rape campaigner, someone who should be sympathetic to rape victims, says that the person who invented it "...fundamentally misunderstands the nature of rape and violence against women in this society..." WHAT?!? What is rape and violence supposed to mean in your society? Is it a status symbol? How do you misunderstand rape and violence?
 
-Granted, the things isn't cool, it must be surgically removed... but can you imagine that trip to the doc?  You can either keep it on and live with the pain, or you can have a doc remove it and basically go directly to jail.
+Granted, the things isn't cool, it must be surgically removed... but can you imagine that trip to the doc? You can either keep it on and live with the pain, or you can have a doc remove it and basically go directly to jail.
 
 Moral? Stay the hell out of South Africa...
 
@@ -570,7 +628,7 @@ Sick. And I wonder how many of those gets AIDS as a result of the rape too.. 'ti
 
 <div class="post" data-post-id="12600" data-author="Medios" data-date="2006-05-19T21:11:54+00:00" data-subject="">
 
-The main problem I see with our society is this type of thinking.  People will probably say that its not the rapists fault, his mom called him fat when he was a kid.  Nobody takes responsibility for their actions anymore.  The really sad thing is that if someone raped my family, I would be the one going to jail.
+The main problem I see with our society is this type of thinking. People will probably say that its not the rapists fault, his mom called him fat when he was a kid. Nobody takes responsibility for their actions anymore. The really sad thing is that if someone raped my family, I would be the one going to jail.
 
 Mike
 
@@ -590,7 +648,7 @@ U kill 2-3 ppl with a gun, we should shoot the arms, legs, and then stomach.
 
 <div class="post" data-post-id="12602" data-author="13" data-date="2006-05-19T21:39:51+00:00" data-subject="">
 
-I'll kill a motherf ucker who includes my loved ones in some rapage.  You
+I'll kill a motherf ucker who includes my loved ones in some rapage. You
 
 can take that shit to the bank.
 

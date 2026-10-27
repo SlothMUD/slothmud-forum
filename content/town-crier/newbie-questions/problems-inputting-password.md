@@ -18,7 +18,7 @@ I know this sounds extremely newbish of me but whenever I input my character nam
 
 <div class="post" data-post-id="7674" data-author="kjartan" data-date="2005-06-29T17:58:39+00:00" data-subject="">
 
-You can't see what you type at the password prompt.  That's so people looking over your shoulder or scrolling through your back window can't see your password.  So, you are probably successfully inputting your password and just don't see it.
+You can't see what you type at the password prompt. That's so people looking over your shoulder or scrolling through your back window can't see your password. So, you are probably successfully inputting your password and just don't see it.
 
 </div>
 
@@ -42,14 +42,21 @@ But like Kjartan said, people may want to hijack your char if they can see your 
 
 <div class="post" data-post-id="8437" data-author="BlackRaindrops" data-date="2005-08-26T19:25:41+00:00" data-subject="Re: Local Echo issue?">
 
-This may be an issue with local echo.
+> <strong>BlackRaindrops wrote:</strong>
+> This may be an issue with local echo.
+> 
+> 
+> 
+> For the XP telnet, this can be fixed with:
+> 
+> 
+> 
+> Disconnect then go to Start/Run and type in Telnet then SET LOCALECHO, then OPEN SLOTHMUD.ORG 4444
+> 
+> 
+> 
+> But like Kjartan said, people may want to hijack your char if they can see your password, so keep it safe.
 
-For the XP telnet, this can be fixed with:
-
-Disconnect then go to Start/Run and type in Telnet then SET LOCALECHO, then OPEN SLOTHMUD.ORG 4444
-
-But like Kjartan said, people may want to hijack your char if they can see your password, so keep it safe.[/quote:177atdvj]
-
-Duh, the port's 6101, bah, that's what I get for staying away so long. I miss my boy Blaster. :( Hope he comes back soon.
+Duh, the port's 6101, bah, that's what I get for staying away so long. I miss my boy Blaster. <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom"> Hope he comes back soon.
 
 </div>

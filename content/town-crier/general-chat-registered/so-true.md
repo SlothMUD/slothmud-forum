@@ -26,13 +26,13 @@ Design Rules
 
 The secrets to a really long-lived, goal-oriented, online game of wide appeal
 
-    * have multiple paths of advancement (individual features are nice, but making them ladders is better)
+ \* have multiple paths of advancement (individual features are nice, but making them ladders is better)
 
-    * make it easy to switch between paths of advancementt (ideally, without having to start over)
+ \* make it easy to switch between paths of advancementt (ideally, without having to start over)
 
-    * make sure the milestones in the path of advancement are clear and visible and significant (having 600 meaningless milestones doesn't help)
+ \* make sure the milestones in the path of advancement are clear and visible and significant (having 600 meaningless milestones doesn't help)
 
-    * ideally, make your game not have a sense of running out of significant milestones (try to make your ladder not feel finite) 
+ \* ideally, make your game not have a sense of running out of significant milestones (try to make your ladder not feel finite) 
 
 Modes of expression
 
@@ -96,7 +96,7 @@ The expectations are higher than of similar actions in the real world. For examp
 
 Online game economies are hard
 
-A faucet->drain economy is one where you spawn new stuff, let it pool in the "sink" that is the game, and then have a concomitant drain. Players will hate having this drain, but if you do not enforce ongoing expenditures, you will have Monty Haul syndrome, infinite accumulation of wealth, overall rise in the "standard of living" and capabilities of the average player, and thus unbalance in the game design and poor game longevity.
+A faucet-\>drain economy is one where you spawn new stuff, let it pool in the "sink" that is the game, and then have a concomitant drain. Players will hate having this drain, but if you do not enforce ongoing expenditures, you will have Monty Haul syndrome, infinite accumulation of wealth, overall rise in the "standard of living" and capabilities of the average player, and thus unbalance in the game design and poor game longevity.
 
 Ownership is key
 
@@ -108,13 +108,13 @@ Your game design must be expansive. Even the coolest game mechanic becomes tires
 
 Lambert's Laws:
 
-    * As a virtual world's "realism" increases, the pool of possible character actions increase.
+ \* As a virtual world's "realism" increases, the pool of possible character actions increase.
 
-    * The opportunities for exploitation and subversion are directly proportional to the pool size of possible character actions.
+ \* The opportunities for exploitation and subversion are directly proportional to the pool size of possible character actions.
 
-    * A bored player is a potential and willing subversive.
+ \* A bored player is a potential and willing subversive.
 
-    * Players will eventually find the shortest path to the cheese. 
+ \* Players will eventually find the shortest path to the cheese. 
 
 Featuritis
 
@@ -142,15 +142,15 @@ The basic medium of multiplayer games is communication.
 
 Hanarra's Laws
 
-    * Over time, your playerbase will come to be the group of people who most enjoy the style of play that your world offers. The others will eventually move to another game.
+ \* Over time, your playerbase will come to be the group of people who most enjoy the style of play that your world offers. The others will eventually move to another game.
 
-    * It is very hard to attract players of different gaming styles after the playerbase has been established. Any changes to promote different styles of play almost always conflict with the established desires of the current playerbase.
+ \* It is very hard to attract players of different gaming styles after the playerbase has been established. Any changes to promote different styles of play almost always conflict with the established desires of the current playerbase.
 
-    * The ultimate goal of a virtual world is to create a place where people of all styles of play can contribute to the world in a manner that makes the game more satisfying for everyone.
+ \* The ultimate goal of a virtual world is to create a place where people of all styles of play can contribute to the world in a manner that makes the game more satisfying for everyone.
 
-    * The new players who enter the world for the first time are the best critics of it.
+ \* The new players who enter the world for the first time are the best critics of it.
 
-    * The opinions of those who leave are the hardest to obtain, but give the best indication of what changes need to be made to reach that ultimate goal. 
+ \* The opinions of those who leave are the hardest to obtain, but give the best indication of what changes need to be made to reach that ultimate goal. 
 
 Elmqvist's Law
 
@@ -264,7 +264,7 @@ The less disruption that occurs in a community, the less able the community is a
 
 Rickey's Law
 
-People don't want "A story". They want *their* story.
+People don't want "A story". They want \*their\* story.
 
 Socialization requires downtime
 
@@ -272,21 +272,21 @@ Whatever the rewarded activity in your game is, it has to give people time to br
 
 Darklock's First Law
 
-Cheating is an apparently advantageous violation of player assumptions about the game. When those assumptions are satisfied, all apparently advantageous methods are fair. When they are violated, no apparently advantageous methods are fair. "Using exterior means to influence the play of a game is not necessarily cheating. It is only cheating if it violates the assumptions of other players *and* provides an advantage. When a player expects that gaining levels in a game takes a long period of time, he will call any method of gaining them rapidly "cheating" -- even if it is an intentional feature of the game. When he expects that gaining levels is a rapid process, however, he will not think the people gaining them slowly are cheating... because that is not an apparently advantageous situation. It does not matter whether this actually *is* an advantageous situation, only whether it *appears* advantageous."
+Cheating is an apparently advantageous violation of player assumptions about the game. When those assumptions are satisfied, all apparently advantageous methods are fair. When they are violated, no apparently advantageous methods are fair. "Using exterior means to influence the play of a game is not necessarily cheating. It is only cheating if it violates the assumptions of other players \*and\* provides an advantage. When a player expects that gaining levels in a game takes a long period of time, he will call any method of gaining them rapidly "cheating" -- even if it is an intentional feature of the game. When he expects that gaining levels is a rapid process, however, he will not think the people gaining them slowly are cheating... because that is not an apparently advantageous situation. It does not matter whether this actually \*is\* an advantageous situation, only whether it \*appears\* advantageous."
 
 Corollary to Darklock's First Law
 
-A bug is an apparently *disadvantageous* violation of player assumptions about the game. "This may be viewed as a specific application of Dundee's Law, "Fighting the battle for nomenclature with your players is a futile act. Whatever they want to call things is what they will be called." It does not matter whether "cheating" or a "bug" was an intentional part of the game design; it only matters whether the players *assumed* they were intentional."
+A bug is an apparently \*disadvantageous\* violation of player assumptions about the game. "This may be viewed as a specific application of Dundee's Law, "Fighting the battle for nomenclature with your players is a futile act. Whatever they want to call things is what they will be called." It does not matter whether "cheating" or a "bug" was an intentional part of the game design; it only matters whether the players \*assumed\* they were intentional."
 
 Darklock's Second Law
 
-Any violation of player assumptions is bad. "This follows from the first law because allowing violation of player assumptions is -- pathologically -- a unilateral "license to cheat". When you license any player to violate the assumptions of others, you imply a right for ALL players to violate the assumptions of others, and they will attempt to do so in an apparently advantageous fashion. This turns your playerbase into a society of cheaters, under the umbrella of truths we hold to be self-evident. (Which is, of course, a "slippery slope" argument. It does not logically follow that *any* such playerbase MUST degenerate into a society of cheaters; only that human nature and psychology make some degree of such degeneration likely. Your mileage, as they say, may vary.)"
+Any violation of player assumptions is bad. "This follows from the first law because allowing violation of player assumptions is -- pathologically -- a unilateral "license to cheat". When you license any player to violate the assumptions of others, you imply a right for ALL players to violate the assumptions of others, and they will attempt to do so in an apparently advantageous fashion. This turns your playerbase into a society of cheaters, under the umbrella of truths we hold to be self-evident. (Which is, of course, a "slippery slope" argument. It does not logically follow that \*any\* such playerbase MUST degenerate into a society of cheaters; only that human nature and psychology make some degree of such degeneration likely. Your mileage, as they say, may vary.)"
 
 J C Lawrence on Utopias
 
 Don't strive for perfection, strive for expressive fertility. You can't create utopia, and if you did nobody would want to live there.
 
-Author:  [http://www.raphkoster.com/bio.shtml](http://www.raphkoster.com/bio.shtml)
+Author: [http://www.raphkoster.com/bio.shtml](http://www.raphkoster.com/bio.shtml)
 
 Link to original essay: [http://www.raphkoster.com/gaming/laws.shtml](http://www.raphkoster.com/gaming/laws.shtml)
 
@@ -294,16 +294,16 @@ Link to original essay: [http://www.raphkoster.com/gaming/laws.shtml](http://www
 
 <div class="post" data-post-id="23375" data-author="jezer" data-date="2008-03-23T05:54:02+00:00" data-subject="">
 
-Ok, made it too the bottom of all this... (I recommend you read with good music, food and a drink if you hope to make it :wink: )
+Ok, made it too the bottom of all this... (I recommend you read with good music, food and a drink if you hope to make it <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom"> )
 
 It started off ok, and then slowly deteriorated into what I sensed was slightly off comments by "want to be" deep thinkers. You know those people who think second... kind of unoriginal... like to pass off other people's work as there's, but with a selfish angle. The kind of people who whine about whiners... Yeah, them.
 
-Also sensed a bunch of the comments were probably made by old immortals who seemed a little bitter and twisted by past experiences.  :twisted: 
+Also sensed a bunch of the comments were probably made by old immortals who seemed a little bitter and twisted by past experiences. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 Whether an online game works or not is such a subjective topic, it's more personal opinion than probably having laws that are always right. Like some of these laws contradict each other... so...
 
 I thought sloth is pretty awesome after reading all that. It seems to have walked the fine lines nicely, and it's survived. Good job Jake and the team!
 
-+1 to what tickles your fancy.
+\+1 to what tickles your fancy.
 
 </div>

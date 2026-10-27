@@ -18,15 +18,15 @@ Been speaking with some people about man back lag, bots, the sense of the life a
 
 Just a couple of random toughts :
 
- :!: Man back lag showed up as a need due to people that sit on back row and bot.  People still bot, man back lag is still there.
+ <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom"> Man back lag showed up as a need due to people that sit on back row and bot. People still bot, man back lag is still there.
 
- :!: Wanna the mud to be a diferent scenario where man back lag could be removed?  Do not support bots.
+ <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom"> Wanna the mud to be a diferent scenario where man back lag could be removed? Do not support bots.
 
- :!: Im leading and a bot follow.  I ungroup him but later (or another day) he do it again.  And again.  And again.  What can I do?  If you are sure he is boting, just push him to an agro mob and then ungroup him.  Problem solved.
+ <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom"> Im leading and a bot follow. I ungroup him but later (or another day) he do it again. And again. And again. What can I do? If you are sure he is boting, just push him to an agro mob and then ungroup him. Problem solved.
 
- :!: Will I be punished as pkiller if I do it?  Of course, you have to be sure he is boting with no doubt.  In the past, that kind of actions have been tolerated.
+ <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom"> Will I be punished as pkiller if I do it? Of course, you have to be sure he is boting with no doubt. In the past, that kind of actions have been tolerated.
 
- :!: And, as a personal note (not speaking in the name of all immortals now), I will fully support you if you have problems due to this.  Support to the point of being wiped if needed before acepting any punishment to you because of it.
+ <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom"> And, as a personal note (not speaking in the name of all immortals now), I will fully support you if you have problems due to this. Support to the point of being wiped if needed before acepting any punishment to you because of it.
 
 Best regard.
 
@@ -46,7 +46,7 @@ Splork
 
 <div class="post" data-post-id="32024" data-author="Dragoth" data-date="2010-11-14T00:07:22+00:00" data-subject="Re: Bots">
 
-leave us bots alone!  :evil:
+leave us bots alone! <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -58,17 +58,17 @@ it's not uncommon to see a group fighting a mob, with half the members just stan
 
 but just one question...
 
-how does man back lag deter bots?  if anything it gives them even more excuses.  "HEY I WAS MAN-BACK-LAGGED!" ....kinda along the lines of "WTF I was blasting"
+how does man back lag deter bots? if anything it gives them even more excuses. "HEY I WAS MAN-BACK-LAGGED!" ....kinda along the lines of "WTF I was blasting"
 
-I know sometimes we all have situations which crop up in RL that require our immediate attention, which may make us appear to be botting.   I offer a few suggestions hence:
+I know sometimes we all have situations which crop up in RL that require our immediate attention, which may make us appear to be botting. I offer a few suggestions hence:
 
-(1)  If you join a group, and know that you're about to be called to do some work, inform leader at point of joining that you might suddenly be non-responsive and ask to be recalled if found in such a state
+(1) If you join a group, and know that you're about to be called to do some work, inform leader at point of joining that you might suddenly be non-responsive and ask to be recalled if found in such a state
 
-(2)  If you need to afk for more than a few seconds, best to recall and lurk.  It's bad form to hang around and sponge xp when you're not even at the computer for an extended period.
+(2) If you need to afk for more than a few seconds, best to recall and lurk. It's bad form to hang around and sponge xp when you're not even at the computer for an extended period.
 
-(3)  Best advice is to simply not join a group if u know/think that you're not going to be able to partake in group activities 
+(3) Best advice is to simply not join a group if u know/think that you're not going to be able to partake in group activities 
 
-On a similar note, I've always felt that the convocation spell just encourages bots.  People even complain about not having an "all up" when a portal is opened....are they THAT lazy that they can't even type wake/stand on their own?  Portal bots....let's not mention those.
+On a similar note, I've always felt that the convocation spell just encourages bots. People even complain about not having an "all up" when a portal is opened....are they THAT lazy that they can't even type wake/stand on their own? Portal bots....let's not mention those.
 
 </div>
 
@@ -90,7 +90,7 @@ Make exclusions for those who inform the leader they are briefly afk and return 
 
 List the penalties that can be inflicted when the rules are broken.
 
-Splork has stated he doesn't want to deal with it, and neither do you other imms mostly... you want players to sort it out... but there are no guidelines, and no boundaries, so if a player does really deal with it, he has absolutely no protection against a botters lies when they go whining to an imm. I was just getting a drink, someone was at the door, i lost connection, dog was eating my homework.  :roll: 
+Splork has stated he doesn't want to deal with it, and neither do you other imms mostly... you want players to sort it out... but there are no guidelines, and no boundaries, so if a player does really deal with it, he has absolutely no protection against a botters lies when they go whining to an imm. I was just getting a drink, someone was at the door, i lost connection, dog was eating my homework. <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> 
 
 You must be able to query the logs if necessary so a leader has a back stop for his actions. Sorry... they show you didn't inform your leader you were going afk, the leader questioned if you were there, you didn't respond. End of story. Botters aren't stupid, they do as much or as little as they can to ride things to the limit, knowing what they can and can't possibly get away with. This is why it's important to cut out the "grey areas" they hide in to try and get themselves off.
 
@@ -114,14 +114,14 @@ Splork
 
 <div class="post" data-post-id="32035" data-author="jezer" data-date="2010-11-14T23:18:06+00:00" data-subject="Re: Bots">
 
-> ***Splork* wrote:**
+> <strong>\*Splork\* wrote:</strong>
 > Why do leaders, on a consistent basis, let these players join their groups? If groups would start policing themselves and making these players outcasts, they will either change their behavior or they will be playing by themselves.
 
 Bah! Splork! You can't figure this out? Botters help groups with their auto scripts! If faced with these options what would you do?
 
-1)  Leave botter in group restoring and firewinding or auto assisting
+1\) Leave botter in group restoring and firewinding or auto assisting
 
-2)  Recall them and watch group run time and power drop so people leave
+2\) Recall them and watch group run time and power drop so people leave
 
 What if the botter is the only tank in the group? You going to recall the tank and fight on?
 
@@ -131,26 +131,26 @@ The truth is we LOVE powerful botters, we just wish they would pay attention. (T
 
 <div class="post" data-post-id="32038" data-author="element" data-date="2010-11-15T03:31:00+00:00" data-subject="Re: Bots">
 
-This is one of the reasons I stopped leading/grouping almost entirely.  
+This is one of the reasons I stopped leading/grouping almost entirely. 
 
-I make it a point to sift out the bots/afkers by constantly seeing who's not fighting mobs, and who's not casting anything.  I've been kicked out of groups for pointing them out, because leaders just want to run run run without paying much attention themselves.
+I make it a point to sift out the bots/afkers by constantly seeing who's not fighting mobs, and who's not casting anything. I've been kicked out of groups for pointing them out, because leaders just want to run run run without paying much attention themselves.
 
 Once i pointed out some "worshipped" leader/tank who was tagging his own healbot around, and some people actually tried to pkill me when said player was busted by an imm.
 
-Here's the problem, Splork.  There aren't any real "botters" anymore.  Just people who join a group, and pay attention maybe 1% of the time.  Their excuse is always the same..."I'm lagging" "sorry dog needed attention" "wife kicked me off the computer"  alwyas the same players over and over and over, but people still seem to welcome them into groups because it's "better to have them 1% of the time then never"
+Here's the problem, Splork. There aren't any real "botters" anymore. Just people who join a group, and pay attention maybe 1% of the time. Their excuse is always the same..."I'm lagging" "sorry dog needed attention" "wife kicked me off the computer" alwyas the same players over and over and over, but people still seem to welcome them into groups because it's "better to have them 1% of the time then never"
 
-I have pointed out bots to several imms many times as it happens, and only once have i ever seen action taken.  Most of time they just say they don't wanna get into a conversation with said player.
+I have pointed out bots to several imms many times as it happens, and only once have i ever seen action taken. Most of time they just say they don't wanna get into a conversation with said player.
 
 </div>
 
 <div class="post" data-post-id="32040" data-author="Teron" data-date="2010-11-15T09:09:55+00:00" data-subject="Re: Bots">
 
-**Splork**, you've just said:
+<strong>Splork</strong>, you've just said:
 
-> **Quote:**
+> <strong>Quote:</strong>
 > The main emphasis for patrolling bots falls on the leader and the group itself. If a player is botting, he should be kicked out of the group and made an outcast.
 
-> **Quote:**
+> <strong>Quote:</strong>
 > As we all know, its really impossible for a good bot to be proven to be botting. This is the main reason the Immortals try to stay out of the situations and put the burden of situation on the leaders and groups. Prove to us a player is botting and we will do something. Its easier to prevent the botters from grouping then it is to prove they are botting...
 
 It means that the group's going to be doing all the work of detecting bots, not the imms - especially, as it's hard to do, as you said.
@@ -165,16 +165,16 @@ My strategy would be not to prevent grouping ([with bots] - your words), but to 
 
 Would you suggest a way to punish botters without any imm presence besides ungrouping them? My inclination is that once you deal with them when they are at the keyboard, it'll be harder for you to see that they were botting.
 
-**Jezer**, I am in the process of creating a list of ways to detect bots in groups and punishing them and running the rules against imms to see how punishable (for me) they are, **unless imms actually suggest legal ways to do that here** before i do publish them here.
+<strong>Jezer</strong>, I am in the process of creating a list of ways to detect bots in groups and punishing them and running the rules against imms to see how punishable (for me) they are, <strong>unless imms actually suggest legal ways to do that here</strong> before i do publish them here.
 
-**Element**, can you PM me a list of repeat bots? Thanks.
+<strong>Element</strong>, can you PM me a list of repeat bots? Thanks.
 
 </div>
 
 <div class="post" data-post-id="32041" data-author="jezer" data-date="2010-11-15T10:18:45+00:00" data-subject="Re: Bots">
 
-> **Teron wrote:**
-> **Jezer**, I am in the process of creating a list of ways to detect bots in groups and punishing them and running the rules against imms to see how punishable (for me) they are, **unless imms actually suggest legal ways to do that here** before i do publish them here.
+> <strong>Teron wrote:</strong>
+> <strong>Jezer</strong>, I am in the process of creating a list of ways to detect bots in groups and punishing them and running the rules against imms to see how punishable (for me) they are, <strong>unless imms actually suggest legal ways to do that here</strong> before i do publish them here.
 
 As long as bot scripting is allowed... if you are at the keyboard and paying attention, I don't see how bot detection is possible. I am reminded of an old story about the American and Russian space programs. Apparently the Americans spent a large amount of resource inventing a pen that would write in zero gravity... the Russians just used a pencil. What I'm saying is, maybe just the old grouptell 'enter portal go north and sit' is all the detection you really need, rather than a 1000 lines of automatic scripting detecting repetitions of bot scripts - which are permitted anyways if you are at the keyboard and paying attention.
 
@@ -222,9 +222,9 @@ This is not a new situation to S4 or unique in anyway to this game in general. T
 
 I really do not want to see people pkilling one another and using this as an excuse. Its not worth the risk. The simple solution is to kick someone out of the group if you feel they are botting and you do not want them to, or attempt to report them to an Immortal and see if further action can be taken.
 
-There are tons of  ways to grab a players attention though. In s3, Annie and I would kick people out of the group and not let them back in for weeks, even if it was only suspected. If one of the players was below Flight with full mana, I would "accidentally" remove my protect and they would either die or be forced to heal them-self, either way they used their mana and were normally brought back to the screen. If they were not below Flight, Annie would place the bot there.  If an Immortal ever wanted to say something to me, I could of easily justified the removal of the protect as an accidental key bump( pushing someone to an aggressive mob is a little harder to justify ). Instead of announcing "enter archway" in grouptells or other key things in grouptells, use say or yell. Those left behind are obviously not paying attention, kick them of the group or do this when you are about to enter a freezing room and then they are "accidently" left in a room they can die or be seriously hurt in.  There are hundreds of clever ways to deter botting by the leaders in groups, if they have such an issue with it.
+There are tons of ways to grab a players attention though. In s3, Annie and I would kick people out of the group and not let them back in for weeks, even if it was only suspected. If one of the players was below Flight with full mana, I would "accidentally" remove my protect and they would either die or be forced to heal them-self, either way they used their mana and were normally brought back to the screen. If they were not below Flight, Annie would place the bot there. If an Immortal ever wanted to say something to me, I could of easily justified the removal of the protect as an accidental key bump( pushing someone to an aggressive mob is a little harder to justify ). Instead of announcing "enter archway" in grouptells or other key things in grouptells, use say or yell. Those left behind are obviously not paying attention, kick them of the group or do this when you are about to enter a freezing room and then they are "accidently" left in a room they can die or be seriously hurt in. There are hundreds of clever ways to deter botting by the leaders in groups, if they have such an issue with it.
 
-As I have said, the Immortals would rather see most of the burden placed on the players to deal with the situation or at least notify us when it occurs and we can do our best to deal with it. The problem is any good botter most likely has a million beeps go off on their screen if one of us ( Immortals ) does anything to try to grab their attention such as transing to jail, transing to an office, spoken to, etc.  
+As I have said, the Immortals would rather see most of the burden placed on the players to deal with the situation or at least notify us when it occurs and we can do our best to deal with it. The problem is any good botter most likely has a million beeps go off on their screen if one of us ( Immortals ) does anything to try to grab their attention such as transing to jail, transing to an office, spoken to, etc. 
 
 Players continue to claim that the Immortals should check logs however once a bot is transed to my office, they can simply say they were ignoring the leader and not answering their or anyone else grouptells, tells, etc. There is nothing to prove otherwise which is exactly why its easier for an unofficial channel to kick them out of the group then it is an Immortal to remove levels or wipe someone. 
 
@@ -250,7 +250,7 @@ Yes players that are botting 90% of their time are a problem and if you dont lik
 
 <div class="post" data-post-id="32045" data-author="Dragoth" data-date="2010-11-15T13:47:44+00:00" data-subject="Re: Bots">
 
-And no, i dont care if the player is physically present at the keyboard. If a bot joins my group and does his job a 100%, but is not responding to tells or grouptells I will not ungroup him and i will not report him.  Why ? Because i would rather have a good bot instead of a bad player in my group. 
+And no, i dont care if the player is physically present at the keyboard. If a bot joins my group and does his job a 100%, but is not responding to tells or grouptells I will not ungroup him and i will not report him. Why ? Because i would rather have a good bot instead of a bad player in my group. 
 
 As Thraxas said, a good bot always does his job a 100% and in a mud where people join groups and think that they can do what they wish just because they are "here" i.e just sit and watch the screen - i would gladly ungroup and ignore people like that and will always welcome a fully working professionally scripted bot because it works out best for the group. But if i do find a poorly executed script that seldomly works and disrupts the progress of the group rather than help it, i will recall him and ungroup him and if i see him doing that again, i will report him
 
@@ -260,7 +260,7 @@ As Thraxas said, a good bot always does his job a 100% and in a mud where people
 
 If it's the group leader 'accidentally' letting them die, there's not much I can do. But I strongly discourage anyone using botting as an excuse to pkill someone. Remember the 'harmony of the mud' rule.
 
-The thing about botters is that they get more flagrant over time. They do get caught and the consequences are significant.  Just recall them and report it on page or mudmail or email or tell. Don't expect a personal reply and don't expect immediate action. If you want immediate action recall them yourself or ask the group leader to do it.
+The thing about botters is that they get more flagrant over time. They do get caught and the consequences are significant. Just recall them and report it on page or mudmail or email or tell. Don't expect a personal reply and don't expect immediate action. If you want immediate action recall them yourself or ask the group leader to do it.
 
 And by the way, if you are a troublemaker/troll as noted in your pfile, and you pkill someone for any reason, you will be punished as a pkiller regardless of the situation (even if it's your group). You know who you are.
 
@@ -268,7 +268,7 @@ And by the way, if you are a troublemaker/troll as noted in your pfile, and you 
 
 <div class="post" data-post-id="32047" data-author="Thraxas" data-date="2010-11-15T15:42:38+00:00" data-subject="Re: Bots">
 
-> **juggleblood wrote:**
+> <strong>juggleblood wrote:</strong>
 > And by the way, if you are a troublemaker/troll as noted in your pfile, and you pkill someone for any reason, you will be punished as a pkiller regardless of the situation (even if it's your group). You know who you are.
 
 How can you find out if you've been flagged in this way?
@@ -279,28 +279,28 @@ T
 
 <div class="post" data-post-id="32048" data-author="Teron" data-date="2010-11-15T17:37:45+00:00" data-subject="Re: Bots">
 
-> **Quote:**
+> <strong>Quote:</strong>
 > Although even if they are are completely away, how are they different from someone who just types follow leader and sits there doing nothing because what he does is not important, and why should one be punished because he has a script that does something important for the group and the other should not be punished because he doesnt have any scripts but is just sponging ?
 
 The general sense of rules is do not exp while afk. That's how they are different. For all I know, being afk with a spell bot at WG is illegal for this very reason - you help people make exp, while being AFK (even though you are not actually making any exp, unless you are a cl prime and raise people).
 
 Personally, I meant botting as being afk, while the group is running. Nothing more, nothing less. I guess I do use a colloquial meaning of the word "to be afk, when the group needs you", rather than it's direct meaning, "to run scripts".
 
-If there's a script running that does all the work **without disrupting how the group runs** and the player responds to tells/gt, then fine, be present at the keyboard and do your work (whether if it's a script or not, I don't care. Sometimes, a script works better, than an ignorant mage, who blasts wrong targets).
+If there's a script running that does all the work <strong>without disrupting how the group runs</strong> and the player responds to tells/gt, then fine, be present at the keyboard and do your work (whether if it's a script or not, I don't care. Sometimes, a script works better, than an ignorant mage, who blasts wrong targets).
 
 I too appreciate well written scripts. Sometimes, however, direct interaction helps a lot, when something bad happens, this is what people need to pay attention for. For example:
 
-- tanks need to rescue shy people with pets, who don't sing (though it could be scripted as well, I presume)
+\- tanks need to rescue shy people with pets, who don't sing (though it could be scripted as well, I presume)
 
-- mages need to blast incoming aggro or summoned mobs
+\- mages need to blast incoming aggro or summoned mobs
 
-- front line needs to blast stab/blast mobs, when the back row is low on mana (I've had a full front line of warriors not cast a thing on elites recently: we kicked it to death - a shuddering experience.)
+\- front line needs to blast stab/blast mobs, when the back row is low on mana (I've had a full front line of warriors not cast a thing on elites recently: we kicked it to death - a shuddering experience.)
 
-- a newbie is dying and needs a restore/shield/light (and not a soul has scripts that are as good as Thraxas's).
+\- a newbie is dying and needs a restore/shield/light (and not a soul has scripts that are as good as Thraxas's).
 
 Heck, there are more situations, than I can remember.
 
-> **Quote:**
+> <strong>Quote:</strong>
 > This situation is just ridiculous - Making scripts to find out bots, pushing them to aggro mobs ? You wouldnt push a player to an aggro mob if he joined your group to sponge and went afk, you just recall him or ungroup him, if you realise that he's not doing anything that is - which unless a player is important you never actually notice. But if he has a script that helps a group at the right time by doing his job you are justified to pkill him ?
 
 I never said I'd be writing scripts to detect bots. I was thinking in the line of jumping through hoops portals. 
@@ -309,7 +309,7 @@ I'd be very much inclined to go to a dangerous spot and recall, so the repeat, 1
 
 Though it is easier to leave afkers alone, which is what I was and will definitely be doing. This solution or similar is also very friendly to false positives.
 
-As for people, who do nothing, but are present, I try to find work for everyone (blind/weaken as the minimum). There are a few newbies that I didn't get to do anything, because their levels and/or classo didn't allow them to sanc or gate. I have nothing against these people, as long as they help the group: they have to get xp somewhere. And two attacks with a spec are worth something (especially, if the newbie spec wielder takes 1/2 exp of any tri40 ;) ).
+As for people, who do nothing, but are present, I try to find work for everyone (blind/weaken as the minimum). There are a few newbies that I didn't get to do anything, because their levels and/or classo didn't allow them to sanc or gate. I have nothing against these people, as long as they help the group: they have to get xp somewhere. And two attacks with a spec are worth something (especially, if the newbie spec wielder takes 1/2 exp of any tri40 <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom"> ).
 
 Personally, I've decided to do only one change in my groups: I'll ask people, who go afk for more, than 1 tick, while the group is running, to announce that via gt or tell (or gossip/shout/yell). Afk announcement on regens is welcome, but not obligatory, unless you are not or may not be going back before the group runs.
 
@@ -347,7 +347,7 @@ What Element failed to post from p2:
 
 p2 -- 'I had p1 gagged since yesterday.'
 
-No, p1 wasn't the leader.  It was pretty damn funny though.  Someone was auto-assisting instead of helping to debuff, and didn't even know they'd been called out on it because they had gagged the person calling them out.
+No, p1 wasn't the leader. It was pretty damn funny though. Someone was auto-assisting instead of helping to debuff, and didn't even know they'd been called out on it because they had gagged the person calling them out.
 
 </div>
 
@@ -357,19 +357,19 @@ if he had me "gagged" how was he responding to my grouptells?
 
 and iirc, his words were that he had me on notell, which is funny since I was saying it over grouptell.
 
-this was the 2nd time he's done in the the past 2 groups I was in.  the previous time, leader  spotted and recalled him for being non-responsive for 5 minutes.  he claims to have "auto-assist" scripts.  yet i spotted him just standing there not engaging mobs for a whole 2 minutes.
+this was the 2nd time he's done in the the past 2 groups I was in. the previous time, leader spotted and recalled him for being non-responsive for 5 minutes. he claims to have "auto-assist" scripts. yet i spotted him just standing there not engaging mobs for a whole 2 minutes.
 
-It's funny how as soon as he is recalled, he's responsive.  probably has some #bell trigger for being recalled
+It's funny how as soon as he is recalled, he's responsive. probably has some #bell trigger for being recalled
 
 Why do I want these little characters to help debuff?
 
-It's ridiculous to have the only 2 level 40 mages in the group (paka and myself) blinding and weakening when we could be dealing big damage to the mobs.  Just like you wouldn't want your clerics in the healo to be cast lagged because they have to help debuffing.  besides, a thief/warrior with 200mana should put his mana to good use.
+It's ridiculous to have the only 2 level 40 mages in the group (paka and myself) blinding and weakening when we could be dealing big damage to the mobs. Just like you wouldn't want your clerics in the healo to be cast lagged because they have to help debuffing. besides, a thief/warrior with 200mana should put his mana to good use.
 
-I am not on a witchhunt here.  People do suddenly get distracted while playing the mud, either due to kids or phonecall.  But if you KNOW that you can't pay attention because you're at work, then please don't be in a group.  It misleads the leader into thinking that the group has more useable mana than it actually has, and more often than not group has to wait around for you to enter portals or whatever.  
+I am not on a witchhunt here. People do suddenly get distracted while playing the mud, either due to kids or phonecall. But if you KNOW that you can't pay attention because you're at work, then please don't be in a group. It misleads the leader into thinking that the group has more useable mana than it actually has, and more often than not group has to wait around for you to enter portals or whatever. 
 
 There's something I've been mauling over with a few people on the mud, I don't know how it could be implemented.
 
-I think XP given for kill could be lowered, and more bonus given to actual damage dealt to the mobs.  Of course I'm not talking about increasing the xp u get from damaging the mob exponentially, just in a way such that in the end, it evens out.  Of course then healers would need more xp for healing.  A small frostbolting lvl 37 mage shouldn't be getting less xp just because he/she has less total levels than a 4x40 monk or thief who is just standing there hitting the mob.
+I think XP given for kill could be lowered, and more bonus given to actual damage dealt to the mobs. Of course I'm not talking about increasing the xp u get from damaging the mob exponentially, just in a way such that in the end, it evens out. Of course then healers would need more xp for healing. A small frostbolting lvl 37 mage shouldn't be getting less xp just because he/she has less total levels than a 4x40 monk or thief who is just standing there hitting the mob.
 
 </div>
 
@@ -377,7 +377,7 @@ I think XP given for kill could be lowered, and more bonus given to actual damag
 
 and just to clarify, I was not out to get botters/afkers.
 
-we were running a smallish eq group, and there were only 2 blasters in group, paka and myself.  We were not fighting efficiently coz both of us were the only ones debuffing.  So I asked that group members help out too.  One other smallish player started helping.  others were healing so I didn't bother them.  then I noticed one other player just standing there.  So I asked him to help debuff, and to assist after that.  one mob later, same deal.  2 mobs later, no reply.  3 mobs later, still just standing there.  leader asks "are you here?"  no response.  countdown, 5 4 3 2 1.  he is recalled.  Suddenly, P2 -- 'wtf?'
+we were running a smallish eq group, and there were only 2 blasters in group, paka and myself. We were not fighting efficiently coz both of us were the only ones debuffing. So I asked that group members help out too. One other smallish player started helping. others were healing so I didn't bother them. then I noticed one other player just standing there. So I asked him to help debuff, and to assist after that. one mob later, same deal. 2 mobs later, no reply. 3 mobs later, still just standing there. leader asks "are you here?" no response. countdown, 5 4 3 2 1. he is recalled. Suddenly, P2 -- 'wtf?'
 
 do the math
 
@@ -387,7 +387,7 @@ do the math
 
 wtf element was blasting
 
-peace :lol:
+peace <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -401,11 +401,11 @@ hehehe silly tuckette
 
 Actually this is pretty much a which hunt. It seems you have a target and you are doing everything you can to drive him out. Both in public channels and private. 
 
-Something I think that is being missed here is this guy is pretty much a true nub and sometimes isn't the only true nuwbie in the group when the game cops show up and start crapping on the harmony of the group. This last incident pissed me off because i was having a good time even though I had corpsed.  The group was running pretty much harmoniously and the leader was doing all the anti bot stuff what seems to have become the norm (which has had the side affect of leaving me behind on regens because I chose to do things like read forums and fix things in my client). Then the game cops show up. start yelling at this person and an argument ensues. Now I am not having a good time. The focus is now on gamecop and his target. Never mind that apparently target had game cop notelled and didn't respond until someone other than gamecop was bitching at him. 
+Something I think that is being missed here is this guy is pretty much a true nub and sometimes isn't the only true nuwbie in the group when the game cops show up and start crapping on the harmony of the group. This last incident pissed me off because i was having a good time even though I had corpsed. The group was running pretty much harmoniously and the leader was doing all the anti bot stuff what seems to have become the norm (which has had the side affect of leaving me behind on regens because I chose to do things like read forums and fix things in my client). Then the game cops show up. start yelling at this person and an argument ensues. Now I am not having a good time. The focus is now on gamecop and his target. Never mind that apparently target had game cop notelled and didn't respond until someone other than gamecop was bitching at him. 
 
-Does they guy bot in groups. Yeah probably, I have recalled him myself. Does that mean he should be driven out of the game? Seems like it. Never mind all he can bring to a group is blind and a stab that no one will let him use because he is a new has no gear and no experience.  Apparently OPEN in group titles just means "open if you know what you are doing and we like you." 
+Does they guy bot in groups. Yeah probably, I have recalled him myself. Does that mean he should be driven out of the game? Seems like it. Never mind all he can bring to a group is blind and a stab that no one will let him use because he is a new has no gear and no experience. Apparently OPEN in group titles just means "open if you know what you are doing and we like you." 
 
-For a game slim on players it would seem to me a lynch mob of game cops is as big a problem as a guy autoassisting.  The other target of the lynch mob seems to be straightening up lately.
+For a game slim on players it would seem to me a lynch mob of game cops is as big a problem as a guy autoassisting. The other target of the lynch mob seems to be straightening up lately.
 
 </div>
 
@@ -415,7 +415,7 @@ interesting post.
 
 how is "Rasufe please don't autoassist and help blind" considered yelling?
 
-if he's a true n00b he should be learning, and not afking while the group is fighting.  in the previous group teron, myself, and paka, advised him not to use autoassists and to help debuff.  his reply was he'll do what he wants to.  and if he doesn't want to debuff and choose to autoassist, that's his right.
+if he's a true n00b he should be learning, and not afking while the group is fighting. in the previous group teron, myself, and paka, advised him not to use autoassists and to help debuff. his reply was he'll do what he wants to. and if he doesn't want to debuff and choose to autoassist, that's his right.
 
 </div>
 
@@ -427,9 +427,9 @@ All fair points tbh, just dont get overzealous and drive away players.
 
 <div class="post" data-post-id="32071" data-author="Stab" data-date="2010-11-18T00:20:34+00:00" data-subject="Re: Bots">
 
-Agreed, don't be too critical of newb play. Sometimes one good tell or honest assistance is worth all the thread stuffs you can muster. Hope he reads the threads.  8) BM. I watched that one too but P1 and P2 will never stop that stuff. It did feel like a wet blanket had been throw over things for a moment. As I've seen elsewhere.. some just do not play well with others.
+Agreed, don't be too critical of newb play. Sometimes one good tell or honest assistance is worth all the thread stuffs you can muster. Hope he reads the threads. <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> BM. I watched that one too but P1 and P2 will never stop that stuff. It did feel like a wet blanket had been throw over things for a moment. As I've seen elsewhere.. some just do not play well with others.
 
-I think Rasufe is a true newb and group spam can be overwhelming until one get the right gags in place or extra windows up. Coloring my tells red and capturing a few popups helped alot. Botting and good scripting has been well covered in this one. It's somewhat reassuring to others frustration at the few things that bug  me too sometime.
+I think Rasufe is a true newb and group spam can be overwhelming until one get the right gags in place or extra windows up. Coloring my tells red and capturing a few popups helped alot. Botting and good scripting has been well covered in this one. It's somewhat reassuring to others frustration at the few things that bug me too sometime.
 
 </div>
 
@@ -439,7 +439,7 @@ apparently, he's still doing it so I wouldn't bet the house mortgage on him lear
 
 I don't get it sometimes....
 
-players bitch and whine about certain aspects of the game.  The admin has now come out to say that the reason it was put in, and the reason it will not be removed anytime soon, is because players bot/afk in groups.  They've also clarified that we have to police it ourselves, because we're not going to like what happens if they have to do it.
+players bitch and whine about certain aspects of the game. The admin has now come out to say that the reason it was put in, and the reason it will not be removed anytime soon, is because players bot/afk in groups. They've also clarified that we have to police it ourselves, because we're not going to like what happens if they have to do it.
 
 yet players say "hey, don't mess with bots as long as it doesn't ruin my xp gain!"
 
@@ -485,23 +485,23 @@ Just sayin'..no bell no message just a random recall mid fight
 
 Just bringing this up, because:
 
-- my friend was left to die and corpse, because the ISP (that we share, btw) lost link - happens once in 1-3 weeks for 20 seconds - 3 hours
+\- my friend was left to die and corpse, because the ISP (that we share, btw) lost link - happens once in 1-3 weeks for 20 seconds - 3 hours
 
-- he wasn't botting, but was accused of botting by a number of people, some even said that he always bots, even though before he lost link, he had less, than 50% of his max mana (I know he doesn't bot, just doesn't talk a lot)
+\- he wasn't botting, but was accused of botting by a number of people, some even said that he always bots, even though before he lost link, he had less, than 50% of his max mana (I know he doesn't bot, just doesn't talk a lot)
 
 This struck me as weird: a few people - deliberately or not - have wrongfully accused a player of a punishable/wipable offense and let him corpse. From what I understand, no checks were done to see, if the person, indeed, was present (i.e, his scripts were working, but he wasn't responding). Not only I'm surprised at the viciousness of such attacks from people I respected before the case, but that such checks weren't done as well.
 
 To debunk a few moments, which were brought up in that accident
 
-- when your ISP loses link, you aren't disconnected (at least, as far as I understand)
+\- when your ISP loses link, you aren't disconnected (at least, as far as I understand)
 
-- autoassist happens, when you are in the front and are perceived as playing by the MUD
+\- autoassist happens, when you are in the front and are perceived as playing by the MUD
 
 With that in mind, I guess it'd be safe to:
 
-- identify the botter, if he doesn't respond, but his scripts are working (portals, food, all up, warcry assist, etc)
+\- identify the botter, if he doesn't respond, but his scripts are working (portals, food, all up, warcry assist, etc)
 
-- recall bots
+\- recall bots
 
 Not getting exp from the group while not responding, when on the run, seems adequate enough.
 
@@ -513,7 +513,7 @@ So, to clarify this once more, I consider botting as not responding or doing wha
 
 <div class="post" data-post-id="32154" data-author="*juggleblood*" data-date="2010-12-13T22:24:34+00:00" data-subject="Re: Bots">
 
-This thread shows why this is such a difficult issue. Maybe Teron's standard of botting as failure to follow instructions is the only one that could possibly be enforceable by the leader. And maybe calling out botters should be left for the leader or designated persons only.  Otherwise it's going to be a contentious argument every time.  
+This thread shows why this is such a difficult issue. Maybe Teron's standard of botting as failure to follow instructions is the only one that could possibly be enforceable by the leader. And maybe calling out botters should be left for the leader or designated persons only. Otherwise it's going to be a contentious argument every time. 
 
 By Teron's standard if the leader asked said-newb to stop auto-assist and debuff, then said-newb should, or leader can choose to recall them. In this case if other party members get mad that he's not debuffing, they can take it up with the leader or just suck it up, rather than start a big fight. Just a suggestion.
 
@@ -521,7 +521,7 @@ By Teron's standard if the leader asked said-newb to stop auto-assist and debuff
 
 <div class="post" data-post-id="32155" data-author="Teron" data-date="2010-12-14T01:44:07+00:00" data-subject="Re: Bots">
 
-Well, as far as forbidden botting is concerned, the only immortal problem is if whether the person is at the keyboard - as far as I understand. So that's what I'm sticking with and it's not my definition. Maybe the imm staff would like to clarify it here, if it's different from the one I presented, since clearly there probably is an **immortal standard of botting**?
+Well, as far as forbidden botting is concerned, the only immortal problem is if whether the person is at the keyboard - as far as I understand. So that's what I'm sticking with and it's not my definition. Maybe the imm staff would like to clarify it here, if it's different from the one I presented, since clearly there probably is an <strong>immortal standard of botting</strong>?
 
 I agree that it's mostly up to the leader, but other players can bring attention to a specific player as well. In that particular incident, the leader chose to leave the person die and corpse, all the while the person was drowning and wasn't able to shift to frog (under druid levels), so that he couldn't have responded. Maybe leaving a person in an underwater area counts as a check, but it is prone to errors, obviously. One of the safest ways is to ask the person to do something, do prompt visible triggers and observe for food triggers (apart from walking on their own).
 

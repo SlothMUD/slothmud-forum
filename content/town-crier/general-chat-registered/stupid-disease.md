@@ -20,7 +20,7 @@ Now this may be a bug, but I suspect it's just another one of these 'features' t
 
 <div class="post" data-post-id="21869" data-author="Mosaix" data-date="2008-01-04T17:07:03+00:00" data-subject="">
 
-sounds like a good solution. :)
+sounds like a good solution. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -42,7 +42,7 @@ Vixn aka Edd
 
 Thanks Vixn. Anyone know any more about it (panacea) - I've got it again... gonna rent and come back tomorrow and see if it's gone.. sucks.
 
-p.s. the resist disease clasp doesn't work very well does it...  :roll:
+p.s. the resist disease clasp doesn't work very well does it... <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 p.p.s. was also mentioned that 'cleanse' might be worth trying.. but no monks were on of that level, so again.. stupid fapping disease! I wanted to keep mudding, but this just killed it. Nice one.
 
@@ -50,7 +50,7 @@ p.p.s. was also mentioned that 'cleanse' might be worth trying.. but no monks we
 
 <div class="post" data-post-id="21873" data-author="Alberich" data-date="2008-01-05T13:48:06+00:00" data-subject="">
 
-the only panacea i remember is a quest given by sangoma in farlorne infirmary.  from what i recall it's pretty easy to complete
+the only panacea i remember is a quest given by sangoma in farlorne infirmary. from what i recall it's pretty easy to complete
 
 </div>
 
@@ -88,19 +88,20 @@ Maybe the disease thing as a whole needs a look at? Why not have healer mobs tha
 
 How about an infirmary? What about having mobs in towns run away screaming from you if you have disease? How about making them contagious! How about being kicked out of town until your cured... I don't know... use your imaginations, there are a lot of good gags that could be had with diseases instead of this pointless one dimensional gameplay punishment.
 
-There is a whole "social" side of having a disease that could really be exploited... I'd find it funny to see Bal Harbor citzins running with AFFECT_FEAR when a diseased ~PIRATE~ walks down the street. It gives me something to gossip, someone to heckle. Something to make us laugh, instead of cry when we have a disease. How about a leper colony for lepers? Nice area idea I guess. You must be a leper to enter, and you can't regen while you're there... Get what I'm saying?... having a disease can be worked to ADD to game play instead of just being mostly pointless like it is now.
+There is a whole "social" side of having a disease that could really be exploited... I'd find it funny to see Bal Harbor citzins running with AFFECT\_FEAR when a diseased \~PIRATE\~ walks down the street. It gives me something to gossip, someone to heckle. Something to make us laugh, instead of cry when we have a disease. How about a leper colony for lepers? Nice area idea I guess. You must be a leper to enter, and you can't regen while you're there... Get what I'm saying?... having a disease can be worked to ADD to game play instead of just being mostly pointless like it is now.
 
 </div>
 
 <div class="post" data-post-id="21931" data-author="van" data-date="2008-01-10T00:33:03+00:00" data-subject="">
 
-How about making them contagious! [/quote:1mnsdj9c]
+> <strong>jezer wrote:</strong>
+> How about making them contagious!
 
-You've clearly never been in a group that has hack.  Players infect players, it's fun. :) So is watching 10 people cough simultaneously.
+You've clearly never been in a group that has hack. Players infect players, it's fun. :) So is watching 10 people cough simultaneously.
 
-I don't understand why people are kvetching about diseases.  They're a hassle, yes, but they add some flavor to the experience.  Personally, I enjoy finding out I have a disease by teleporting to some random mob in a hostile area.
+I don't understand why people are kvetching about diseases. They're a hassle, yes, but they add some flavor to the experience. Personally, I enjoy finding out I have a disease by teleporting to some random mob in a hostile area.
 
-And personally, I laugh when someone doesn't write a drink trigger to account for solstark.  Noobs!
+And personally, I laugh when someone doesn't write a drink trigger to account for solstark. Noobs!
 
 </div>
 
@@ -112,10 +113,11 @@ Just an FYI - the disease I had was buggy and has been removed for the time bein
 
 <div class="post" data-post-id="21933" data-author="jezer" data-date="2008-01-10T00:52:03+00:00" data-subject="">
 
-You've clearly never been in a group that has hack.[/quote:2onitb9h]
+> <strong>van wrote:</strong>
+> You've clearly never been in a group that has hack.
 
-True! I don't group much, I don't believe I have the knowledge (yet) of the game required to lead people to kill mobs that I can't run myself! All to often I find I can get xp faster solo, because of afker's, botters and well meaning leaders who pick wrong mobs for the group. Perfect scenario is to make friends with a > 3x40 and run along for a bit get there sanct, heals and refreshes, or get a lvl 20 from vk to do the same to me. Seems pointless to join a clan... I don't think I've seen a "Clan Group" since I've returned to the game.
+True! I don't group much, I don't believe I have the knowledge (yet) of the game required to lead people to kill mobs that I can't run myself! All to often I find I can get xp faster solo, because of afker's, botters and well meaning leaders who pick wrong mobs for the group. Perfect scenario is to make friends with a \> 3x40 and run along for a bit get there sanct, heals and refreshes, or get a lvl 20 from vk to do the same to me. Seems pointless to join a clan... I don't think I've seen a "Clan Group" since I've returned to the game.
 
-I don't claim to know that much about sloth, but I don't let that stop me making suggestions or ideas for improvement... it does get embarrasing when they are already in game and I didn't realise though...  :oops: Thx Van. I'm not against diseases either, just think weasel got a raw deal, and some diseases are just silly and pointless.
+I don't claim to know that much about sloth, but I don't let that stop me making suggestions or ideas for improvement... it does get embarrasing when they are already in game and I didn't realise though... <img src="/images/smilies/icon_redface.svg" alt=":oops:" title=":oops:" width="15" height="15" class="smiley nozoom"> Thx Van. I'm not against diseases either, just think weasel got a raw deal, and some diseases are just silly and pointless.
 
 </div>

@@ -16,7 +16,7 @@ Our server is being moved to a better facility this Friday.
 
 If everything goes as plans, we will only be down between 1 and 2 hours starting May 15, 2015 @ 7:00PM PDT.
 
-This change will result in a huge improvement in your service.  You will benefit from a 1 Gbps port, full 1 Gbps internal networking, even better multiple redundant fiber optic internet feeds, and full dual-conversion N+1 power systems.
+This change will result in a huge improvement in your service. You will benefit from a 1 Gbps port, full 1 Gbps internal networking, even better multiple redundant fiber optic internet feeds, and full dual-conversion N+1 power systems.
 
 Splork
 
@@ -26,7 +26,7 @@ Splork
 
 Wow, thats cool. Do we really use so much bandwich now, to see any difference? I had feeling that whole server could fit into 10mbps, with type of content mud uses(and its ability to compress).
 
-Though still, better not worse anyway :)
+Though still, better not worse anyway <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -72,7 +72,7 @@ Then again, thanks for the move - if it's better, so much the better.
 
 <div class="post" data-post-id="35899" data-author="*Splork*" data-date="2015-05-14T13:25:15+00:00" data-subject="Re: Server update/move-&amp;gt;downtime">
 
-We are not switching hosts, our host is simply moving us to their  new Tier 4 Date Center which was recently finished.
+We are not switching hosts, our host is simply moving us to their new Tier 4 Date Center which was recently finished.
 
 </div>
 

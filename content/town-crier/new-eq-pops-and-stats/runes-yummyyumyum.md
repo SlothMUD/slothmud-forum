@@ -12,17 +12,17 @@ post_count: 39
 
 <div class="post" data-post-id="30668" data-author="Hitman" data-date="2010-01-13T20:32:11+00:00" data-subject="RUNES! yummyyumyum :)">
 
-Hello everyone! :) hope yer all having fun collecting gems and making runes...
+Hello everyone! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> hope yer all having fun collecting gems and making runes...
 
 Here's a rune I got and would like to share the stats with everyone.
 
-Hope this gets the ball rolling. Please post up stats on whichever rune u come across.. thank you :)
+Hope this gets the ball rolling. Please post up stats on whichever rune u come across.. thank you <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 You recite a scroll of identify which dissolves.
 
 You feel informed:
 
-Object 'Golden_Yellow_Topaz rune', Item type: CLASP
+Object 'Golden\_Yellow\_Topaz rune', Item type: CLASP
 
 Item is: NOBITS
 
@@ -30,17 +30,17 @@ Weight: 0, Value: 25000gold, Worn in: TAKE
 
 Clasp can only be attached to:
 
-   bracers, bracelets, and wrist-bands
+ bracers, bracelets, and wrist-bands
 
-   (null)
+ (null)
 
-   ZAP-GET
+ ZAP-GET
 
 Clasp is non-removable once attached.
 
-Clasp gives the user +1 HAND_DAMAGE
+Clasp gives the user +1 HAND\_DAMAGE
 
-~H-Man
+\~H-Man
 
 </div>
 
@@ -98,19 +98,19 @@ Splork
 
 <div class="post" data-post-id="30704" data-author="Toxis" data-date="2010-01-19T23:14:14+00:00" data-subject="">
 
-obsidian - max_con - high or low
+obsidian - max\_con - high or low
 
-rhodochrosite - max_dex - high or low
+rhodochrosite - max\_dex - high or low
 
-blue quartz - max_int - high or low
+blue quartz - max\_int - high or low
 
 aquamarine - 5 mana- cloaks and mantles
 
 golden yellow topaz - 1 hand dam - bracers, bracelets, wrist-bands
 
-Anyone can post any other stats, please do.  I'm so curious on gems.
+Anyone can post any other stats, please do. I'm so curious on gems.
 
-With the amount of eq, and sets of eq we would go through in our lives with just one character, seems the poprates on gems seems a bit small.  I have a lot of gems, 1 three of a kind, and several pair.  Think the poprates on these are a tad too low?
+With the amount of eq, and sets of eq we would go through in our lives with just one character, seems the poprates on gems seems a bit small. I have a lot of gems, 1 three of a kind, and several pair. Think the poprates on these are a tad too low?
 
 Toxis
 
@@ -132,9 +132,8 @@ Splork
 
 <div class="post" data-post-id="30714" data-author="Tuck" data-date="2010-01-20T15:52:46+00:00" data-subject="">
 
-To be quite honest, if each player ends up with 1 rune Ill be happy. This isnt meant for each player to have an entire set of runes.
-
-[/quote:31cjjwgq]
+> <strong>\*Splork\* wrote:</strong>
+> To be quite honest, if each player ends up with 1 rune Ill be happy. This isnt meant for each player to have an entire set of runes.
 
 nah, all your runes are belongs to 3-4 players.
 
@@ -166,27 +165,41 @@ Thanks in advance
 
 <div class="post" data-post-id="30719" data-author="jezer" data-date="2010-01-20T19:17:39+00:00" data-subject="">
 
-Hey Splork,
+> <strong>Cizin wrote:</strong>
+> Hey Splork,
+> 
+> 
+> 
+> Show us your mercy and post all rune stats and their wear location please.
+> 
+> 
+> 
+> We don't want you to post their names.
+> 
+> 
+> 
+> Thanks in advance
 
-Show us your mercy and post all rune stats and their wear location please.
-
-We don't want you to post their names.
-
-Thanks in advance[/quote:1toimab2]
-
-This might be bad, people might start sharing and selling gems they realise they don't need... ohh the humanity  :evil:
+This might be bad, people might start sharing and selling gems they realise they don't need... ohh the humanity <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="30720" data-author="Tuck" data-date="2010-01-20T19:53:29+00:00" data-subject="">
 
-seriously tuk, will you just STFU already?
-
-gems are random pops
-
-there's no way of cycling for them, so what're u talking about them belonging to just 3-4 players?
-
-you don't get gems by sponging and botting in groups all day long[/quote:2dqjwc3s]
+> <strong>Gimlet wrote:</strong>
+> seriously tuk, will you just STFU already?
+> 
+> 
+> 
+> gems are random pops
+> 
+> 
+> 
+> there's no way of cycling for them, so what're u talking about them belonging to just 3-4 players?
+> 
+> 
+> 
+> you don't get gems by sponging and botting in groups all day long
 
 stfu Poit, illicit dealer, go find and cheat someone else.
 
@@ -196,9 +209,10 @@ all runes are belongs to several to top5 players, that lead current xps/eq group
 
 <div class="post" data-post-id="30721" data-author="Tuck" data-date="2010-01-20T19:55:30+00:00" data-subject="">
 
-This might be bad, people might start sharing and selling gems they realise they don't need... ohh the humanity  :evil:[/quote:pt6lpuhb]
+> <strong>jezer wrote:</strong>
+> This might be bad, people might start sharing and selling gems they realise they don't need... ohh the humanity <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
-+1, 
+\+1, 
 
 share runes names and stats, so runes will spread around players
 
@@ -216,25 +230,36 @@ he paid me for chars on sl3, i gave him passwords which he conveniently forgot, 
 
 how's that cheating?
 
-seriously, you're making yourself out to be a bigger moron on a daily basis with your silly posts about ppl hoarding runes.   I guess ppl should just give them to you when they pop gems
+seriously, you're making yourself out to be a bigger moron on a daily basis with your silly posts about ppl hoarding runes. I guess ppl should just give them to you when they pop gems
 
 </div>
 
 <div class="post" data-post-id="30729" data-author="Tuck" data-date="2010-01-21T10:01:58+00:00" data-subject="">
 
-put your money where your mouth is tuk
+> <strong>Gimlet wrote:</strong>
+> put your money where your mouth is tuk
+> 
+> 
+> 
+> name me one person on the mud i've cheated in a deal
+> 
+> 
+> 
+> if u're talking about nomic aka dsfren
+> 
+> 
+> 
+> he paid me for chars on sl3, i gave him passwords which he conveniently forgot, and the mud got wipe
+> 
+> 
+> 
+> how's that cheating?
+> 
+> 
+> 
+> seriously, you're making yourself out to be a bigger moron on a daily basis with your silly posts about ppl hoarding runes. I guess ppl should just give them to you when they pop gems
 
-name me one person on the mud i've cheated in a deal
-
-if u're talking about nomic aka dsfren
-
-he paid me for chars on sl3, i gave him passwords which he conveniently forgot, and the mud got wipe
-
-how's that cheating?
-
-seriously, you're making yourself out to be a bigger moron on a daily basis with your silly posts about ppl hoarding runes.   I guess ppl should just give them to you when they pop gems[/quote:22bzcyiy]
-
-stop crying and stfu ;-)
+stop crying and stfu <img src="/images/smilies/icon_e_wink.svg" alt=";-)" title=";-)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -264,13 +289,13 @@ traded with others close
 
 bought from others
 
-i personally have seen several players that are 3x40 and lower that have several gems.. nothing to make a set with yet.  I have seen gems pop in smallish areas.. sun temples larger mobs,  Honor mobs, and in general just random pops.  Rather than squabble over who has gems..who's not posting stats.. why not take the step forward. Accept that gems are a random pop. There are what 65-75 different gems.. that can be made into runes and you expect to find out what all these  are within a year of them being put in. If you forge one.. please post its stats.. 
+i personally have seen several players that are 3x40 and lower that have several gems.. nothing to make a set with yet. I have seen gems pop in smallish areas.. sun temples larger mobs, Honor mobs, and in general just random pops. Rather than squabble over who has gems..who's not posting stats.. why not take the step forward. Accept that gems are a random pop. There are what 65-75 different gems.. that can be made into runes and you expect to find out what all these are within a year of them being put in. If you forge one.. please post its stats.. 
 
 People may trade away a gem they don't know what it Does for one they know they can use.
 
-anyway..  Here is the information on the Moss Agate one
+anyway.. Here is the information on the Moss Agate one
 
-Object 'Moss_Agate rune', Item type: CLASP
+Object 'Moss\_Agate rune', Item type: CLASP
 
 Item is: NOBITS
 
@@ -278,29 +303,29 @@ Weight: 0, Value: 25000gold, Worn in: TAKE
 
 Clasp can only be attached to:
 
-   gloves and gauntlets
+ gloves and gauntlets
 
-   THROW
+ THROW
 
-   FLOAT
+ FLOAT
 
 Clasp gives the user +1 CHARISMA
 
-I got lucky and made one a bard could use. Now if anyone has ideas on gauntlets an av bard might want.. give me tell in game.. something i can work for in the future.. until then this will be in my inventory :P
+I got lucky and made one a bard could use. Now if anyone has ideas on gauntlets an av bard might want.. give me tell in game.. something i can work for in the future.. until then this will be in my inventory <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="30734" data-author="jezer" data-date="2010-01-22T00:40:49+00:00" data-subject="">
 
-Did you know Moss_Agate was charisma before hand... or do you always have good luck guessing the right number out of 1 to 30ish?  :shock:
+Did you know Moss\_Agate was charisma before hand... or do you always have good luck guessing the right number out of 1 to 30ish? <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="30737" data-author="Kanae" data-date="2010-01-23T04:11:35+00:00" data-subject="">
 
-I had no idea what it was going to turn out to be. Had it been something I couldn't use.. well guess I'ld be collecting more runes. :P
+I had no idea what it was going to turn out to be. Had it been something I couldn't use.. well guess I'ld be collecting more runes. <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
-1 in 30? lol ..there are more than 30 gems out there :)
+1 in 30? lol ..there are more than 30 gems out there <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -314,19 +339,19 @@ Weight: 0, Value: 25000gold, Worn in: TAKE
 
 Clasp can only be attached to:
 
-   rings
+ rings
 
-   SHIELD
+ SHIELD
 
-   CRUMBLE-READ
+ CRUMBLE-READ
 
-   NO_BROADCAST
+ NO\_BROADCAST
 
 Clasp is non-removable once attached.
 
-Clasp gives the user +1 SAVING_SPELL
+Clasp gives the user +1 SAVING\_SPELL
 
-Only cost me 4m!  anyone want to trade? 8)
+Only cost me 4m! anyone want to trade? <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -340,21 +365,21 @@ Weight: 0, Value: 25000gold, Worn in: TAKE
 
 Clasp can only be attached to:
 
-   rings
+ rings
 
-   SHIELD
+ SHIELD
 
-   CRUMBLE-READ
+ CRUMBLE-READ
 
-   NO_BROADCAST
+ NO\_BROADCAST
 
 Clasp is non-removable once attached.
 
-Clasp gives the user -1 SAVING_PETRI
+Clasp gives the user -1 SAVING\_PETRI
 
-Clasp gives the user +2 REGEN_HP
+Clasp gives the user +2 REGEN\_HP
 
--Toxis
+\-Toxis
 
 </div>
 
@@ -372,7 +397,7 @@ Fire Opal and Colorless Sapphire appear twice together in the list, possibly sho
 
 They are grouped in help gems oddly... leading me to speculate...
 
-STATS AND MAX_STATS
+STATS AND MAX\_STATS
 
 "Banded Agate", "Eye Agate", "Moss Agate", "Azurite", "Blue Quartz", "Hematite", "Lapus Lazuli", "Malachite", "Obsidian", "Rhodochrosite", "Tiger Eye", "Freshwater Pearl"
 
@@ -400,11 +425,11 @@ NEW CLASSO RUNES? HD, DAM REDUCT, UC ??? ETC
 
 "Bright Green Emerald", "Gray White Diamond", "Pink Diamond", "Black Onyx", "Aventurine","Jade", "Jet", "Jacinth", "Sapphire", "Ruby", "Star Ruby", "Blue Star Sapphire", "Purple Star Sapphire"
 
-It also appears that with the "save" runes identified so far there is a predisposition to make them attach to the same eq slot, so I expect to see some form of "slot" grouping for the ruins in play. This may mean you may have to make some hard choices about what eq to attach a rune to in relation to trying to wear as many max_stats as possible. Wisdom would say to wait before attaching ruins at the moment.
+It also appears that with the "save" runes identified so far there is a predisposition to make them attach to the same eq slot, so I expect to see some form of "slot" grouping for the ruins in play. This may mean you may have to make some hard choices about what eq to attach a rune to in relation to trying to wear as many max\_stats as possible. Wisdom would say to wait before attaching ruins at the moment.
 
-I didn't even see a gem before I was 3x40, however I have now popped a few myself soloing mobs. I think there pop rate is quite acceptable for there value, and should increase as your char power increases. Gems will come to you through solo, prob more than groups. All in all I think it's a fantastic edition to the game. The only problems I see coming are related to stats ruins and wear locations, but without the eq list and a heck of a lot more mudding it's to hard to tell yet. I can't see myself finding +7 MAX_WIS for my regen mode... unless it's able to be purchased at avatar. It's too early to say. 
+I didn't even see a gem before I was 3x40, however I have now popped a few myself soloing mobs. I think there pop rate is quite acceptable for there value, and should increase as your char power increases. Gems will come to you through solo, prob more than groups. All in all I think it's a fantastic edition to the game. The only problems I see coming are related to stats ruins and wear locations, but without the eq list and a heck of a lot more mudding it's to hard to tell yet. I can't see myself finding +7 MAX\_WIS for my regen mode... unless it's able to be purchased at avatar. It's too early to say. 
 
-All will be revealed :)
+All will be revealed <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -430,17 +455,17 @@ INT
 
 CHA
 
-MAX_STR
+MAX\_STR
 
-MAX_INT
+MAX\_INT
 
-MAX_DEX
+MAX\_DEX
 
-MAX_CON
+MAX\_CON
 
-MAX_WIS
+MAX\_WIS
 
-MAX_CHA???
+MAX\_CHA???
 
 Stab Dam
 
@@ -454,11 +479,11 @@ Kick Dam
 
 Circle Dam
 
-+5 Mana
+\+5 Mana
 
-+5 Moves???
+\+5 Moves???
 
-+5 Hitpoints???
+\+5 Hitpoints???
 
 Save spells
 
@@ -514,17 +539,17 @@ Protection From Evil???
 
 Sneak?
 
-+To Hit???
+\+To Hit???
 
-+To Dam???
+\+To Dam???
 
--0.1 AC???
+\-0.1 AC???
 
 </div>
 
 <div class="post" data-post-id="30805" data-author="Medios" data-date="2010-02-02T23:20:52+00:00" data-subject="">
 
-It cracks me up when people get on here and whine about players having all the eq.  It reminds me of socialism.  People work hard to get stuff, then others who don't work so hard complain that it is unfair that the hard workers have everything.  Then they try to get the rules changed so that they can benefit just as much as people who work harder than them.
+It cracks me up when people get on here and whine about players having all the eq. It reminds me of socialism. People work hard to get stuff, then others who don't work so hard complain that it is unfair that the hard workers have everything. Then they try to get the rules changed so that they can benefit just as much as people who work harder than them.
 
 I got an idea.
 
@@ -550,17 +575,17 @@ Weight: 0, Value: 25000gold, Worn in: TAKE
 
 Clasp can only be attached to:
 
-   rings
+ rings
 
-   SHIELD
+ SHIELD
 
-   CRUMBLE-READ
+ CRUMBLE-READ
 
-   NO_BROADCAST
+ NO\_BROADCAST
 
 Clasp is non-removable once attached.
 
-Clasp gives the user -2 SAVING_SPELL
+Clasp gives the user -2 SAVING\_SPELL
 
 Also, Splork says this increases your spell damage by making it harder for mobs to save AND it lowers damage against you by making it easier to save against spells.
 
@@ -578,7 +603,7 @@ You recite a scroll of identify which dissolves.
 
 You feel informed:
 
-Object 'Blue_Quartz rune', Item type: RUNE
+Object 'Blue\_Quartz rune', Item type: RUNE
 
 Item is: NOBITS
 
@@ -586,15 +611,15 @@ Weight: 0, Value: 25000gold, Worn in: TAKE
 
 Rune can only be attached to:
 
-   torches and other held items
+ torches and other held items
 
-   (null)
+ (null)
 
-   UNDER-2x40
+ UNDER-2x40
 
 Rune gives the user +1 INT
 
-Ummm....yea :) so can i get imms to check this one out, seems like a waste if its -2x40 restricts...
+Ummm....yea <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> so can i get imms to check this one out, seems like a waste if its -2x40 restricts...
 
 ....thanks Ta
 
@@ -608,7 +633,7 @@ You recite a scroll of identify which dissolves.
 
 You feel informed:
 
-Object 'Blue_Quartz rune', Item type: RUNE
+Object 'Blue\_Quartz rune', Item type: RUNE
 
 Item is: NOBITS
 
@@ -616,15 +641,15 @@ Weight: 0, Value: 25000gold, Worn in: TAKE
 
 Rune can only be attached to:
 
-   torches and other held items
+ torches and other held items
 
-   (null)
+ (null)
 
-   UNDER-2x40
+ UNDER-2x40
 
 Rune gives the user +1 INT
 
-Ummm....yea :) so can i get imms to check this one out, seems like a waste if its -2x40 restricts...
+Ummm....yea <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> so can i get imms to check this one out, seems like a waste if its -2x40 restricts...
 
 ....thanks Ta
 
@@ -632,7 +657,7 @@ Ummm....yea :) so can i get imms to check this one out, seems like a waste if it
 
 <div class="post" data-post-id="30980" data-author="jezer" data-date="2010-03-20T20:30:27+00:00" data-subject="">
 
-With runes like these maybe my prayer for a +5 to fishing rune is not completely unfounded.  :twisted: But such an awesome item would prob have to be 8x40~9x40. Can't have them having too much fish early on in the game.
+With runes like these maybe my prayer for a +5 to fishing rune is not completely unfounded. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> But such an awesome item would prob have to be 8x40\~9x40. Can't have them having too much fish early on in the game.
 
 </div>
 
@@ -646,13 +671,13 @@ Weight: 0, Value: 25000gold, Worn in: TAKE
 
 Rune can only be attached to:
 
-   torches and other held items
+ torches and other held items
 
-   (null)
+ (null)
 
-   UNDER-2x40
+ UNDER-2x40
 
-Rune gives the user +1 MAX_CON
+Rune gives the user +1 MAX\_CON
 
 I think the UNDER-2x40 is being addressed somewhere.
 
@@ -688,13 +713,13 @@ Weight: 0, Value: 25000gold, Worn in: TAKE
 
 Rune can only be attached to:
 
-   torches and other held items
+ torches and other held items
 
-   (null)
+ (null)
 
-   UNDER-2x40
+ UNDER-2x40
 
-Rune gives the user +1 MAX_STR
+Rune gives the user +1 MAX\_STR
 
 Ok.
 
@@ -708,17 +733,17 @@ Weight: 0, Value: 25000gold, Worn in: TAKE
 
 Rune can only be attached to:
 
-   rings
+ rings
 
-   SHIELD
+ SHIELD
 
-   CRUMBLE-READ
+ CRUMBLE-READ
 
-   NO_BROADCAST
+ NO\_BROADCAST
 
-Rune gives the user -1 SAVING_PETRI
+Rune gives the user -1 SAVING\_PETRI
 
-Rune gives the user +2 REGEN_HP
+Rune gives the user +2 REGEN\_HP
 
 </div>
 
@@ -736,21 +761,21 @@ Recently changed, so I assume this will now be its stats:
 
 Sun 05 Sep 2010 08:20:17 AM CDT
 
-Object 'Freshwater_Pearl rune', Item type: RUNE
+Object 'Freshwater\_Pearl rune', Item type: RUNE
 
 Weight: 0, Value: 25000gold, Worn in: TAKE 
 
 Rune can only be attached to:
 
-   rings
+ rings
 
-Rune gives the user -3 SAVING_PARA
+Rune gives the user -3 SAVING\_PARA
 
 </div>
 
 <div class="post" data-post-id="31712" data-author="jezer" data-date="2010-09-05T20:01:30+00:00" data-subject="Re: RUNES! yummyyumyum :)">
 
-Gratz Mace!  :twisted:
+Gratz Mace! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -760,34 +785,34 @@ I seem to be cursed with identifying nothing but silly saves runes.
 
 Thu 09 Sep 2010 03:27:43 AM CDT
 
-Object 'Eye_Agate rune', Item type: RUNE
+Object 'Eye\_Agate rune', Item type: RUNE
 
 Weight: 0, Value: 25000gold, Worn in: TAKE
 
 Rune can only be attached to:
 
-   cloaks and mantles
+ cloaks and mantles
 
-Rune gives the user -2 SAVING_SPELL
+Rune gives the user -2 SAVING\_SPELL
 
 </div>
 
 <div class="post" data-post-id="31742" data-author="jezer" data-date="2010-09-09T08:35:53+00:00" data-subject="Re: RUNES! yummyyumyum :)">
 
-So what rune you working on next? I need to know so I don't collect it.  :D
+So what rune you working on next? I need to know so I don't collect it. <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="31744" data-author="Mace" data-date="2010-09-09T11:06:15+00:00" data-subject="eye agate">
 
-Jacinth.  Stay away everyone, it's probably save vs. petrification!
+Jacinth. Stay away everyone, it's probably save vs. petrification!
 
 </div>
 
 <div class="post" data-post-id="31745" data-author="Thraxas" data-date="2010-09-10T14:01:35+00:00" data-subject="Re: eye agate">
 
-> **Mace wrote:**
-> Jacinth.  Stay away everyone, it's probably save vs. petrification!
+> <strong>Mace wrote:</strong>
+> Jacinth. Stay away everyone, it's probably save vs. petrification!
 
 Yin and Yang - maybe so but the one after that will be PermaLite
 

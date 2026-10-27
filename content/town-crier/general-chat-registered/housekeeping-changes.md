@@ -18,7 +18,7 @@ There is a stray dog in Lyme town, gobbling up scraps. The Lyme ticket girl is n
 
 The native shopkeepers on the island are now restocking items on the ground. They only restock items they sell. Other items remain.
 
-That's about it for my mud time today. :| 
+That's about it for my mud time today. <img src="/images/smilies/icon_neutral.svg" alt=":|" title=":|" width="15" height="15" class="smiley nozoom"> 
 
 On my todo list is a Lyme armory where specs can be deposited by an assistant patrolling Lyme town.
 
@@ -28,16 +28,16 @@ Some players mentioned that garbage was in abundance, so I thought I'd clean it 
 
 <div class="post" data-post-id="34094" data-author="Jecka" data-date="2013-02-27T12:15:16+00:00" data-subject="Re: housekeeping changes">
 
-> ***juggleblood* wrote:**
+> <strong>\*juggleblood\* wrote:</strong>
 > The Ah library is where it has always been, but has a librarian now.
 
-And now it has not  :lol:
+And now it has not <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="34095" data-author="Yasik" data-date="2013-02-27T18:16:06+00:00" data-subject="Re: housekeeping changes">
 
-Also, the 'Emma' person needs to be looked upon; its says she's **he** when I try to hug **her**.
+Also, the 'Emma' person needs to be looked upon; its says she's <strong>he</strong> when I try to hug <strong>her</strong>.
 
 </div>
 

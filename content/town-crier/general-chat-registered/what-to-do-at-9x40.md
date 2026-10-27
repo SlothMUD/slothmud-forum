@@ -26,7 +26,7 @@ T
 
 <div class="post" data-post-id="35241" data-author="DarkArtist" data-date="2014-06-14T04:43:37+00:00" data-subject="Re: what to do at 9x40">
 
-We have this now :)
+We have this now <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 ...hrm my smiley aint showin
 
@@ -34,7 +34,7 @@ We have this now :)
 
 <div class="post" data-post-id="35243" data-author="Thraxas" data-date="2014-06-14T12:49:14+00:00" data-subject="Re: what to do at 9x40">
 
-hmm thanks :) didnt realise we had 9x40s walking round with prime abilities of more than one class ... thanks - something to look forward to.
+hmm thanks <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> didnt realise we had 9x40s walking round with prime abilities of more than one class ... thanks - something to look forward to.
 
 T
 
@@ -60,33 +60,33 @@ Splork
 
 Re: what to do at 9x40
 
-- finish forges
+\- finish forges
 
-- clad in drachma eq
+\- clad in drachma eq
 
-- insert all best runes
+\- insert all best runes
 
-- buy stats
+\- buy stats
 
-- buy perma-spells
+\- buy perma-spells
 
-- hoard eq in vaults
+\- hoard eq in vaults
 
-- solo huge mobs
+\- solo huge mobs
 
-- bully newbs
+\- bully newbs
 
-- annoy imms
+\- annoy imms
 
-- troll
+\- troll
 
-- bot and get away with it
+\- bot and get away with it
 
-- your choice
+\- your choice
 
 PS.
 
-- get exploration 100%
+\- get exploration 100%
 
 </div>
 
@@ -96,21 +96,21 @@ Would love to see it.
 
 We have a 'super newbie' program, but its not working well.... the bonus always seems to fail before 1x40, and for others has been sporadic after.
 
-Presently you can purchase about 1.3 trillion exp worth of stuff from the avvie shop.  most avvies will want at least half of this.
+Presently you can purchase about 1.3 trillion exp worth of stuff from the avvie shop. most avvies will want at least half of this.
 
-Mosly max avvies support teaching and are the engines for small groups.  For example, even with a small tank, if you have a large caster ...zuzu for example, you can lead a group thru matterhorn ... 
+Mosly max avvies support teaching and are the engines for small groups. For example, even with a small tank, if you have a large caster ...zuzu for example, you can lead a group thru matterhorn ... 
 
-Bullying newbies will not go well for any max avvie... or any not so max avvie...  maybe not instantly fatal, but generally will result in shunning.  If you see a max avvie that is never invited to be grouped, you may consider this.  Same with botting.  
+Bullying newbies will not go well for any max avvie... or any not so max avvie... maybe not instantly fatal, but generally will result in shunning. If you see a max avvie that is never invited to be grouped, you may consider this. Same with botting. 
 
-Newbies that stay long enough eventually realize who to ignore.  Imm will never ignore... p
+Newbies that stay long enough eventually realize who to ignore. Imm will never ignore... p
 
-Essentially, max avvie allows me to forget the required, and become custom in whatever way i want.  For cy i chose ac tank... others do damage, blast... mana regen... whatever... pick something and abuse it.
+Essentially, max avvie allows me to forget the required, and become custom in whatever way i want. For cy i chose ac tank... others do damage, blast... mana regen... whatever... pick something and abuse it.
 
-Soloing large mobs is more fun before max avvie, that is  more of a persons choice, and build... some ppl like the challenge, others just want efficient exp.. 
+Soloing large mobs is more fun before max avvie, that is more of a persons choice, and build... some ppl like the challenge, others just want efficient exp.. 
 
 Well, i am at the limit of my grammar and spellchecker memory, so... best go.
 
-Hope to see this feature added, or improvements on the super newbie program.  And more tanks... and more cute woman.. and and and..
+Hope to see this feature added, or improvements on the super newbie program. And more tanks... and more cute woman.. and and and..
 
 </div>
 

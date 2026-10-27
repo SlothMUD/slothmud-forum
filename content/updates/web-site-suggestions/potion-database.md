@@ -20,15 +20,15 @@ I am not the least bit talented enough to build such a database but if we had on
 
 This is just to stoke discussion.
 
-would we pull from a JSON but pull different fields than the ones the EQlist is interested in, or would we manually craft with player submissions?  What are the nuts and bolts.
+would we pull from a JSON but pull different fields than the ones the EQlist is interested in, or would we manually craft with player submissions? What are the nuts and bolts.
 
---Idj
+\--Idj
 
 </div>
 
 <div class="post" data-post-id="39703" data-author="*Idjit*" data-date="2021-03-25T02:21:08+00:00" data-subject="Re: Potion Database">
 
-This can go two routes.  One where it's a true sister project to the EQlist where it imports real mud data or:
+This can go two routes. One where it's a true sister project to the EQlist where it imports real mud data or:
 
 Players hand-building a list.
 
@@ -38,7 +38,7 @@ By whomever constitutes a safe pair of hands.
 
 Instead of building a dynamic database asset (which could malfunction)
 
---D
+\--D
 
 </div>
 
@@ -153,7 +153,7 @@ A fang of venom	Level 15:poison, (none), (none)
 
 A flask full of mist	Imbue:wraithform 3x (Lev 40)	
 
-A flask of comradery		
+A flask of comradery 
 
 A flask of human blood	Level 40:regeneration, infravision, (none)	
 
@@ -165,7 +165,7 @@ A frothy violet potion	Level 40:corona, (none), (none)
 
 A glimmering green potion	Level 40:restoration, restoration, rejuvenation	
 
-A goblet of the sacred order		
+A goblet of the sacred order 
 
 A goo-encrusted stone jar	Level 40:resist cold, (none), (none)	
 
@@ -207,17 +207,17 @@ A pale rose potion	Level 15:resist fire, resist cold, (none)
 
 A pale violet potion	Level 15:infravision, (none), (none)	
 
-A potion filled with evil intentions		
+A potion filled with evil intentions 
 
-A potion filled with good intentions		
+A potion filled with good intentions 
 
-A potion of accuracy		
+A potion of accuracy 
 
 A potion of cleansing	Level 12:remove poison, (none), (none)	
 
 A potion of cure critical	Level 20:cure critic, (none), (none)	
 
-A potion of endurance	+2 MAX_CON (45 hr)	
+A potion of endurance	+2 MAX\_CON (45 hr)	
 
 A potion of greater healing	Level 40:greater heal, (none), (none)	
 
@@ -255,7 +255,7 @@ A potion of transmutation	Level 46:relocation, (none), (none)
 
 A potion of turn undead	Level 40:turn undead, cure normal, cure normal	
 
-A potion of wispy prayers	+2 MAX_INT (45 hr)	
+A potion of wispy prayers	+2 MAX\_INT (45 hr)	
 
 A pungent indigo potion	Level 25:fly, (none), (none)	
 
@@ -273,7 +273,7 @@ A roiling blue potion	Level 25:regeneration, (none), (none)
 
 A ruby-red potion	Level 35:sanctuary, (none), (none)	
 
-A russet potion	+0 IMMUNE_MAGIC (5 hr)	
+A russet potion	+0 IMMUNE\_MAGIC (5 hr)	
 
 A sea-green potion	Level 35:remove disease, remove poison, (none)	
 
@@ -325,7 +325,7 @@ A vial of squids ink	Level 41:(none), (none), (none)
 
 A vial of troll blood	Disease: hack, hack	
 
-A vial of vitreous humor	+25 RESIST_POISON (5 hr)	
+A vial of vitreous humor	+25 RESIST\_POISON (5 hr)	
 
 A viscous blue potion	Level 40:heal, heal, (none)	
 
@@ -353,9 +353,9 @@ An olive potion	Level 10:dispel evil, curse, heal
 
 An orange potion	Level 24:detect magic, (none), (none)	
 
-Potion of the essence of a mindflayer	+2 MAX_WIS (45 hr)	
+Potion of the essence of a mindflayer	+2 MAX\_WIS (45 hr)	
 
-Potion of the strength of the gods	+1 MAX_STR (45 hr)	
+Potion of the strength of the gods	+1 MAX\_STR (45 hr)	
 
 Some yellow dust	Level 15:curse, (none), (none)
 
@@ -364,144 +364,144 @@ Some yellow dust	Level 15:curse, (none), (none)
 <div class="post" data-post-id="39715" data-author="cnl" data-date="2021-05-03T05:18:52+00:00" data-subject="Re: Potion Database">
 
 ```
-| Name                                    | Effect                                   |
+| Name | Effect |
 |-----------------------------------------|------------------------------------------|
-| A beaker of bubbling orange liquid      | L30:stone skin                           |
-| A beaker of iridescent liquid           | L30:sanctuary                            |
-| A beaker of milky blue liquid           | L40:dispel magic                         |
-| A beaker of thick orange syrup          | L30:haste                                |
-| A black heart jewel                     | L40:darkness, dark cloak, tenebrous claw |
-| A black potion with a red glowing center| L40:dispel magic                         |
-| A blue-green potion                     | L25:cure serious                         |
-| A bright blue potion                    | L40:greater heal                         |
-| A bright-orange potion                  | +6 DAMROLL (10 hr)                       |
-| A brilliant white potion                | L17:sanctuary                            |
-| A bubbling maroon potion                | L15:armor                                |
-| A cerise potion                         | L15:armor, cure light                    |
-| A chartreuse potion                     | L40:remove disease                       |
-| A chilled black potion                  | L15:telepathy                            |
-| A chunky yellow and brown potion        | L45:fortune *TEMP*                       |
-| A clear potion                          | Imbue:vision 7x (L25)                    |
-| A cloudy purple potion                  | L30:remove curse                         |
-| A cloudy red potion                     | L35:stone skin                           |
-| A coconut of analgesic draught          | L30:natures revival                      |
-| A coconut of emetic draught             | L30:dispel magic                         |
-| A coconut of restorative draught        | L30:cure critic                          |
-| A coconut of soothing draught           | L30:fluidity                             |
-| A cold blue potion                      | +40 MANA (1 hr)                          |
-| A cracked stone jar                     | L40:stone skin                           |
-| A creamy pink potion                    | L25:mindbar                              |
-| A crimson potion                        | L40:aegis                                |
-| A dark yellow potion                    | Imbue:magic missile 5x (L15)             |
-| A deep purple potion                    | L35:mobility                             |
-| A dull copper potion                    | +5 HITROLL (10 hr)                       |
-| A dull gold potion                      | L12:cure light                           |
-| A dull gray potion                      | Imbue:lloyds beacon 2x (L35)             |
-| A fang of venom                         | L15:poison                               |
-| A flask full of mist                    | Imbue:wraithform 3x (L40)                |
-| A flask of comradery                    | GROUP bless:4hitroll, -2saving_spell 120h|
-| A flask of human blood                  | L40:regeneration, infravision            |
-| A flask of transparent liquid           | L40:fluidity                             |
-| A frosty blue potion                    | L40:greater heal x3                      |
-| A frothy violet potion                  | L40:corona                               |
-| A glimmering green potion               | L40:restoration x2, rejuvenation         |
-| A goblet of the sacred order            | ? bless, ac ?                            |
-| A goo-encrusted stone jar               | L40:resist cold                          |
-| A grainy black potion                   | L35:teleport                             |
-| A green glass jar of bubbly fluid       | L20:bone armor                           |
-| A green glass jar of cloudy liquid      | L20:cure critic                          |
-| A green glass jar of glowing liquid     | L20:bless                                |
-| A green glass jar of milky liquid       | L20:regeneration                         |
-| A green glass jar of oil                | L20:resist fire                          |
-| A green glass jar of roiling fluid      | L20:resist cold                          |
-| A green glass jar of viscous goo        | L20:armor                                |
-| A green potion                          | L20:blindness, teleport, cure blind      |
-| A hissing blue potion                   | +20 MANA (1 hr)                          |
-| A jar of molasses                       | L5:silence                               |
-| A metallic red potion                   | L40:iron skin                            |
-| A midnight-blue potion                  | L15:cure normal                          |
-| A milky lavender potion                 | L35:perception                           |
-| A milky white potion                    | L14:word of recall                       |
-| A moldy orange potion                   | +3 DAMROLL (10 hr)                       |
-| A pale purple potion                    | L25:water breathing                      |
-| A pale rose potion                      | L15:resist fire, resist cold             |
-| A pale violet potion                    | L15:infravision                          |
-| A potion filled with evil intentions    | Set alignment -1000                      |
-| A potion filled with good intentions    | Set alignment 1000                       |
-| A potion of accuracy                    | bless:-1ac, -2saving_spell 120h          |
-| A potion of cleansing                   | L12:remove poison                        |
-| A potion of cure critical               | L20:cure critic *TEMP*                   |
-| A potion of endurance                   | +2 MAX_CON (45 hr)                       |
-| A potion of greater healing             | L40:greater heal *TEMP*                  |
-| A potion of greater refresh             | L40:refresh x2, refresh *TEMP*           |
-| A potion of greater refreshment         | L40:greater refresh x2, rejuvenation     |
-| A potion of greater restoration         | L40:restoration x2, restoration *TEMP*   |
-| A potion of greater strength            | L40:strength *TEMP*                      |
-| A potion of healing                     | L40:heal *TEMP*                          |
-| A potion of insight                     | L12:det invis                            |
-| A potion of invulnerability             | L0:spell shield                          |
-| A potion of knitting                    | L12:cure light                           |
-| A potion of lesser refresh              | L40:refresh *TEMP*                       |
-| A potion of lesser restoration          | L40:restoration *TEMP*                   |
-| A potion of lesser sanctuary            | L17:sanctuary *TEMP*                     |
-| A potion of pure darkness               | L40:aegis, prot from evil, dark cloak    |
-| A potion of remove poison               | L12:remove poison *TEMP*                 |
-| A potion of stones                      | L43:dispel fly                           |
-| A potion of the frozen heart            | L45:petrified armor, chill touch *TEMP*  |
-| A potion of transmutation               | L46:relocation                           |
-| A potion of turn undead                 | L40:turn undead, cure normal x2          |
-| A potion of wispy prayers               | +2 MAX_INT (45 hr)                       |
-| A pungent indigo potion                 | L25:fly                                  |
-| A purple potion                         | L12:remove poison                        |
-| A radiant blue potion                   | +300 MANA (0 hr)                         |
-| A radiant white potion                  | Imbue:raise dead 1x (L40)                |
-| A red herbal infusion                   | L40:wraithform                           |
-| A red potion                            | L12:armor                                |
-| A roiling blue potion                   | L25:regeneration                         |
-| A ruby-red potion                       | L35:sanctuary                            |
-| A russet potion                         | +0 IMMUNE_MAGIC (5 hr)                   |
-| A sea-green potion                      | L35:remove disease, remove poison        |
-| A shiny golden potion                   | +20 HITROLL (10 hr)                      |
-| A silky white potion                    | L45:reign of the spider, curse *TEMP*    |
-| A silver potion                         | L17:call lightning, cure critic          |
-| A sizzling yellow potion                | Imbue:lightning bolt 8x (L40)            |
-| A slate-grey potion                     | L25:word of recall                       |
-| A sloshing blue potion                  | +150 MANA (1 hr)                         |
-| A smelly herbal infusion                | L40:resist fire                          |
-| A smoky green potion                    | L40:remove poison                        |
-| A sparking yellow potion                | Imbue:call lightning 3x (L25)            |
-| A sparkling blue potion                 | +150 MANA (0 hr)                         |
-| A sparkling green potion                | L10:det evil, det invis, det magic       |
-| A steaming black potion                 | Imbue:demon bind 4x (L35)                |
-| A stone jar of orange paste             | L40:haste                                |
-| A thick green potion                    | L40:greater heal x2, rejuvenation        |
-| A translucent purple potion             | L25:det invis                            |
-| A vaporous white potion                 | L20:cure critic x3                       |
-| A vial of alcohol                       | L41:blindness                            |
-| A vial of blood                         | Disease: hack x2                         |
-| A vial of citric acid                   | L0:(none)                                |
-| A vial of firedrake spittle             | L14:(none)                               |
-| A vial of quickling sweat               | L0:(none)                                |
-| A vial of slime                         | L41:poison x2                            |
-| A vial of squids ink                    | L41:(none)                               |
-| A vial of troll blood                   | Disease: hack x2                         |
-| A vial of vitreous humor                | +25 RESIST_POISON (5 hr) *TEMP*          |
-| A viscous blue potion                   | L40:heal x2                              |
-| A viscous purple potion                 | L25:demon bind                           |
-| A warm coral potion                     | L40:resist webs                          |
-| A wineskin dripping green liquid        | L40:heal                                 |
-| A wineskin leaking milky blue fluid     | L40:dispel magic                         |
-| A wineskin leaking viscous black liquid | L40:armor                                |
-| A yellow potion                         | L12:det invis                            |
-| An acrid orange potion                  | Imbue:flame strike 3x (L25)              |
-| An amethyst potion                      | L35:infravision, det invis, sense life   |
-| An effervescent golden potion           | +10 DAMROLL (7 hr)                       |
-| An effervescent potion                  | L16:det evil, det invis, det magic       |
-| An olive potion                         | L10:dispel evil, curse, heal             |
-| An orange potion                        | L24:det magic                            |
-| Potion of the essence of a mindflayer   | +2 MAX_WIS (45 hr)                       |
-| Potion of the strength of the gods      | +1 MAX_STR (45 hr)                       |
-| Some yellow dust                        | L15:curse                                |
+| A beaker of bubbling orange liquid | L30:stone skin |
+| A beaker of iridescent liquid | L30:sanctuary |
+| A beaker of milky blue liquid | L40:dispel magic |
+| A beaker of thick orange syrup | L30:haste |
+| A black heart jewel | L40:darkness, dark cloak, tenebrous claw |
+| A black potion with a red glowing center| L40:dispel magic |
+| A blue-green potion | L25:cure serious |
+| A bright blue potion | L40:greater heal |
+| A bright-orange potion | +6 DAMROLL (10 hr) |
+| A brilliant white potion | L17:sanctuary |
+| A bubbling maroon potion | L15:armor |
+| A cerise potion | L15:armor, cure light |
+| A chartreuse potion | L40:remove disease |
+| A chilled black potion | L15:telepathy |
+| A chunky yellow and brown potion | L45:fortune *TEMP* |
+| A clear potion | Imbue:vision 7x (L25) |
+| A cloudy purple potion | L30:remove curse |
+| A cloudy red potion | L35:stone skin |
+| A coconut of analgesic draught | L30:natures revival |
+| A coconut of emetic draught | L30:dispel magic |
+| A coconut of restorative draught | L30:cure critic |
+| A coconut of soothing draught | L30:fluidity |
+| A cold blue potion | +40 MANA (1 hr) |
+| A cracked stone jar | L40:stone skin |
+| A creamy pink potion | L25:mindbar |
+| A crimson potion | L40:aegis |
+| A dark yellow potion | Imbue:magic missile 5x (L15) |
+| A deep purple potion | L35:mobility |
+| A dull copper potion | +5 HITROLL (10 hr) |
+| A dull gold potion | L12:cure light |
+| A dull gray potion | Imbue:lloyds beacon 2x (L35) |
+| A fang of venom | L15:poison |
+| A flask full of mist | Imbue:wraithform 3x (L40) |
+| A flask of comradery | GROUP bless:4hitroll, -2saving_spell 120h|
+| A flask of human blood | L40:regeneration, infravision |
+| A flask of transparent liquid | L40:fluidity |
+| A frosty blue potion | L40:greater heal x3 |
+| A frothy violet potion | L40:corona |
+| A glimmering green potion | L40:restoration x2, rejuvenation |
+| A goblet of the sacred order | ? bless, ac ? |
+| A goo-encrusted stone jar | L40:resist cold |
+| A grainy black potion | L35:teleport |
+| A green glass jar of bubbly fluid | L20:bone armor |
+| A green glass jar of cloudy liquid | L20:cure critic |
+| A green glass jar of glowing liquid | L20:bless |
+| A green glass jar of milky liquid | L20:regeneration |
+| A green glass jar of oil | L20:resist fire |
+| A green glass jar of roiling fluid | L20:resist cold |
+| A green glass jar of viscous goo | L20:armor |
+| A green potion | L20:blindness, teleport, cure blind |
+| A hissing blue potion | +20 MANA (1 hr) |
+| A jar of molasses | L5:silence |
+| A metallic red potion | L40:iron skin |
+| A midnight-blue potion | L15:cure normal |
+| A milky lavender potion | L35:perception |
+| A milky white potion | L14:word of recall |
+| A moldy orange potion | +3 DAMROLL (10 hr) |
+| A pale purple potion | L25:water breathing |
+| A pale rose potion | L15:resist fire, resist cold |
+| A pale violet potion | L15:infravision |
+| A potion filled with evil intentions | Set alignment -1000 |
+| A potion filled with good intentions | Set alignment 1000 |
+| A potion of accuracy | bless:-1ac, -2saving_spell 120h |
+| A potion of cleansing | L12:remove poison |
+| A potion of cure critical | L20:cure critic *TEMP* |
+| A potion of endurance | +2 MAX_CON (45 hr) |
+| A potion of greater healing | L40:greater heal *TEMP* |
+| A potion of greater refresh | L40:refresh x2, refresh *TEMP* |
+| A potion of greater refreshment | L40:greater refresh x2, rejuvenation |
+| A potion of greater restoration | L40:restoration x2, restoration *TEMP* |
+| A potion of greater strength | L40:strength *TEMP* |
+| A potion of healing | L40:heal *TEMP* |
+| A potion of insight | L12:det invis |
+| A potion of invulnerability | L0:spell shield |
+| A potion of knitting | L12:cure light |
+| A potion of lesser refresh | L40:refresh *TEMP* |
+| A potion of lesser restoration | L40:restoration *TEMP* |
+| A potion of lesser sanctuary | L17:sanctuary *TEMP* |
+| A potion of pure darkness | L40:aegis, prot from evil, dark cloak |
+| A potion of remove poison | L12:remove poison *TEMP* |
+| A potion of stones | L43:dispel fly |
+| A potion of the frozen heart | L45:petrified armor, chill touch *TEMP* |
+| A potion of transmutation | L46:relocation |
+| A potion of turn undead | L40:turn undead, cure normal x2 |
+| A potion of wispy prayers | +2 MAX_INT (45 hr) |
+| A pungent indigo potion | L25:fly |
+| A purple potion | L12:remove poison |
+| A radiant blue potion | +300 MANA (0 hr) |
+| A radiant white potion | Imbue:raise dead 1x (L40) |
+| A red herbal infusion | L40:wraithform |
+| A red potion | L12:armor |
+| A roiling blue potion | L25:regeneration |
+| A ruby-red potion | L35:sanctuary |
+| A russet potion | +0 IMMUNE_MAGIC (5 hr) |
+| A sea-green potion | L35:remove disease, remove poison |
+| A shiny golden potion | +20 HITROLL (10 hr) |
+| A silky white potion | L45:reign of the spider, curse *TEMP* |
+| A silver potion | L17:call lightning, cure critic |
+| A sizzling yellow potion | Imbue:lightning bolt 8x (L40) |
+| A slate-grey potion | L25:word of recall |
+| A sloshing blue potion | +150 MANA (1 hr) |
+| A smelly herbal infusion | L40:resist fire |
+| A smoky green potion | L40:remove poison |
+| A sparking yellow potion | Imbue:call lightning 3x (L25) |
+| A sparkling blue potion | +150 MANA (0 hr) |
+| A sparkling green potion | L10:det evil, det invis, det magic |
+| A steaming black potion | Imbue:demon bind 4x (L35) |
+| A stone jar of orange paste | L40:haste |
+| A thick green potion | L40:greater heal x2, rejuvenation |
+| A translucent purple potion | L25:det invis |
+| A vaporous white potion | L20:cure critic x3 |
+| A vial of alcohol | L41:blindness |
+| A vial of blood | Disease: hack x2 |
+| A vial of citric acid | L0:(none) |
+| A vial of firedrake spittle | L14:(none) |
+| A vial of quickling sweat | L0:(none) |
+| A vial of slime | L41:poison x2 |
+| A vial of squids ink | L41:(none) |
+| A vial of troll blood | Disease: hack x2 |
+| A vial of vitreous humor | +25 RESIST_POISON (5 hr) *TEMP* |
+| A viscous blue potion | L40:heal x2 |
+| A viscous purple potion | L25:demon bind |
+| A warm coral potion | L40:resist webs |
+| A wineskin dripping green liquid | L40:heal |
+| A wineskin leaking milky blue fluid | L40:dispel magic |
+| A wineskin leaking viscous black liquid | L40:armor |
+| A yellow potion | L12:det invis |
+| An acrid orange potion | Imbue:flame strike 3x (L25) |
+| An amethyst potion | L35:infravision, det invis, sense life |
+| An effervescent golden potion | +10 DAMROLL (7 hr) |
+| An effervescent potion | L16:det evil, det invis, det magic |
+| An olive potion | L10:dispel evil, curse, heal |
+| An orange potion | L24:det magic |
+| Potion of the essence of a mindflayer | +2 MAX_WIS (45 hr) |
+| Potion of the strength of the gods | +1 MAX_STR (45 hr) |
+| Some yellow dust | L15:curse |
 ```
 
 </div>
@@ -538,7 +538,7 @@ This one is tied up in an auto-quest - if memory serves me it relocates you to a
 
 <div class="post" data-post-id="39718" data-author="Gorka" data-date="2021-05-07T02:44:00+00:00" data-subject="Re: Potion Database">
 
-> **cnl wrote:**
+> <strong>cnl wrote:</strong>
 > if memory serves me it relocates you to a fixed special location, it is not an imbue.
 
 There are times and situations in the game where being relocated to a fixed special location, actually provides an exploit to regular game mechanics. It can also cause some rooms that use MUDL to glitch. Doing so at Lvl 46 could potentially provide an even bigger exploit. In this specific case it would depend on what continent the special room is located, if it's possible to recall from, and where it returns you to. Would have to check my logs, but in any case, it's a classic exploit possibility in a seemingly over privileged item. Like I said, I've never tested, but it's where one would start looking for sure.

@@ -12,7 +12,7 @@ post_count: 19
 
 <div class="post" data-post-id="28706" data-author="Shyla" data-date="2009-04-11T01:30:59+00:00" data-subject="I will miss you all HUGS">
 
-I have been playing here since 91 and probably would have been til I died snicker, but I just don't have the ability to level someone up again.  Ever since i got the optic neuritis in 06 my eyes have bothered me so much that I just can't really group anymore because I get headaches from it.  What I enjoyed was doing spellbooks and minor eq and stuff like that for newbies.  There really isn't a person on the mud that I haven't helped at one time or another.  But with this resetting of the mud I will not be able to do that which I loved.  I will miss you all dearly.  I still plan on logging on but just to talk really I don't have the ability to do much more.  Please know that it really was a lot of fun and I spent way too many hours doing this anyway.   
+I have been playing here since 91 and probably would have been til I died snicker, but I just don't have the ability to level someone up again. Ever since i got the optic neuritis in 06 my eyes have bothered me so much that I just can't really group anymore because I get headaches from it. What I enjoyed was doing spellbooks and minor eq and stuff like that for newbies. There really isn't a person on the mud that I haven't helped at one time or another. But with this resetting of the mud I will not be able to do that which I loved. I will miss you all dearly. I still plan on logging on but just to talk really I don't have the ability to do much more. Please know that it really was a lot of fun and I spent way too many hours doing this anyway. 
 
 if you want to talk my icq is 562319582
 
@@ -36,9 +36,10 @@ Game over man.
 
 <div class="post" data-post-id="28710" data-author="brady" data-date="2009-04-11T02:07:23+00:00" data-subject="Re: I will miss you all HUGS">
 
-What I enjoyed was doing spellbooks and minor eq and stuff like that for newbies.  There really isn't a person on the mud that I haven't helped at one time or another.  But with this resetting of the mud I will not be able to do that which I loved. [/quote:2dcjg6mb]
+> <strong>shyla wrote:</strong>
+> What I enjoyed was doing spellbooks and minor eq and stuff like that for newbies. There really isn't a person on the mud that I haven't helped at one time or another. But with this resetting of the mud I will not be able to do that which I loved.
 
-You were the kind mother of slothmud.  I'm with ya.  Best of luck to the players that remain and to the admin that has given so much of their time.
+You were the kind mother of slothmud. I'm with ya. Best of luck to the players that remain and to the admin that has given so much of their time.
 
 </div>
 
@@ -52,7 +53,7 @@ Either if you choose to continue to play or not - i wish you all the luck and ac
 
 You are the most shiny example of our race in Universe' terms.
 
-~Sincerelly yours, Yasik.
+\~Sincerelly yours, Yasik.
 
 </div>
 
@@ -64,7 +65,7 @@ Shyla.. if you come back, I will.
 
 Maybe this pathetic kid will do it for you:
 
-[img:ba2oqonr]http://www.adherents.com/lit/comics/collage/NoHero.jpg[/img:ba2oqonr]
+![](http://www.adherents.com/lit/comics/collage/NoHero.jpg)
 
 </div>
 
@@ -82,7 +83,7 @@ hugs deb, im retiring as u are:) gl hf and all the best to upcoming sloth
 
 <div class="post" data-post-id="28728" data-author="Medios" data-date="2009-04-11T03:03:09+00:00" data-subject="">
 
-If Ba Dr stats give me another 9 str I will prob be retiring as well :)
+If Ba Dr stats give me another 9 str I will prob be retiring as well <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -114,15 +115,16 @@ I vote Shyla for Sloth player hall of fame....hope to see you around Deb.
 
 <div class="post" data-post-id="28766" data-author="Turbo" data-date="2009-04-11T13:44:53+00:00" data-subject="">
 
-Hey Deb I am out too, can't keep starting over.  Maybe we can start a mud for retirees :-)
+Hey Deb I am out too, can't keep starting over. Maybe we can start a mud for retirees <img src="/images/smilies/icon_e_smile.svg" alt=":-)" title=":-)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="28771" data-author="Sind" data-date="2009-04-11T14:52:34+00:00" data-subject="">
 
-I vote Shyla for Sloth player hall of fame....hope to see you around Deb.[/quote:19hqrds2]
+> <strong>Virus wrote:</strong>
+> I vote Shyla for Sloth player hall of fame....hope to see you around Deb.
 
-gief back sloth museum :)
+gief back sloth museum <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -146,7 +148,7 @@ I'll probably stop by and skim the forums from time to time, but that's about it
 
 Bonus: you won't have to put up with me whining about [perceived] Warrior prime issues any more either! 
 
-A special adios to the [b:3p2bx3h4]=[/color:3p2bx3h4]sMAc=[/color:3p2bx3h4][/b:3p2bx3h4] clan members (the Sloth Mud Anglers Club), although it seems most of us had moved on to other fishing grounds before the reset anyway. Keep it real guys. 
+A special adios to the <strong>\=sMAc\=</strong> clan members (the Sloth Mud Anglers Club), although it seems most of us had moved on to other fishing grounds before the reset anyway. Keep it real guys. 
 
 So long, and thanks for all the fish.
 
@@ -176,9 +178,9 @@ Yes, she may cut down on her time but...
 
 Ranni is leading 'The Apalling Crew' on Thordfalan:
 
-            (Wa:0.13)   Ranni
+ (Wa:0.13) Ranni
 
-            (Cl:0.06)   Shyla
+ (Cl:0.06) Shyla
 
 Enjoy,
 
@@ -208,9 +210,9 @@ Yes, she may cut down on her time but...
 
 Ranni is leading 'The Apalling Crew' on Thordfalan:
 
-            (Wa:0.13)   Ranni
+ (Wa:0.13) Ranni
 
-            (Cl:0.06)   Shyla
+ (Cl:0.06) Shyla
 
 Enjoy,
 
@@ -220,13 +222,13 @@ Splork
 
 <div class="post" data-post-id="28929" data-author="Shyla" data-date="2009-04-16T00:26:07+00:00" data-subject="">
 
-Oh i am getting on and doing a very little, but my problem isn't about time I have time at least for the next week while I am still on medical leave.  My problem is I can't do big groups b/c my eyes can't take it it gives me headaches.  And because of that I will never have the levels to do what I really loved doing which was popping spellbooks relocating them to newbies...moving newbies and dowsing and teaching.
+Oh i am getting on and doing a very little, but my problem isn't about time I have time at least for the next week while I am still on medical leave. My problem is I can't do big groups b/c my eyes can't take it it gives me headaches. And because of that I will never have the levels to do what I really loved doing which was popping spellbooks relocating them to newbies...moving newbies and dowsing and teaching.
 
 I still plan on being on, but it will never be fun like it was to ME.
 
-I know everyone is different about what they like and things had to be done and that is life.  But everytime i get on i am just depressed.  I have yet to have any fun other than talking to my friends like ranni and stuff.
+I know everyone is different about what they like and things had to be done and that is life. But everytime i get on i am just depressed. I have yet to have any fun other than talking to my friends like ranni and stuff.
 
-I will probably never totally leave b/c I just have no life with no kids and all but shrug.please by no means use what I am saying as a reflexion whether you should play or not. I am one of the few people depressed everyone else seems really happy about the changes and i am not just saying that I have heard what they say.  Now if anyone wants to get me the levels I need to do what i love........cackle
+I will probably never totally leave b/c I just have no life with no kids and all but shrug.please by no means use what I am saying as a reflexion whether you should play or not. I am one of the few people depressed everyone else seems really happy about the changes and i am not just saying that I have heard what they say. Now if anyone wants to get me the levels I need to do what i love........cackle
 
 HUGS
 

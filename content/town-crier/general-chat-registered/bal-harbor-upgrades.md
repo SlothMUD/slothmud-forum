@@ -12,9 +12,9 @@ post_count: 9
 
 <div class="post" data-post-id="20275" data-author="Akasha" data-date="2007-09-14T08:22:39+00:00" data-subject="Bal Harbor upgrades">
 
-Just to inform you all, there are some changes taking place in BH currently.  There are some new mobs being added and some additions being made.  Be careful challenging these new mobs (mostly a warning for newbies).  They are not huge mobs, but may be a bit more than most normal newbies can handle.
+Just to inform you all, there are some changes taking place in BH currently. There are some new mobs being added and some additions being made. Be careful challenging these new mobs (mostly a warning for newbies). They are not huge mobs, but may be a bit more than most normal newbies can handle.
 
-Don't be surprised by these changes, they will be explained in the near future.  Do expect them to be permanent.  
+Don't be surprised by these changes, they will be explained in the near future. Do expect them to be permanent. 
 
 Just a friendly warning. 
 
@@ -24,7 +24,7 @@ Akasha
 
 <div class="post" data-post-id="20276" data-author="13" data-date="2007-09-14T12:21:35+00:00" data-subject="">
 
-Always nice to have more dr going in.  Thanks for your diligence
+Always nice to have more dr going in. Thanks for your diligence
 
 Dave.
 
@@ -44,11 +44,14 @@ sounds more like setting up for a quest - particularly since they're not permane
 
 <div class="post" data-post-id="20281" data-author="Alberich" data-date="2007-09-14T17:19:56+00:00" data-subject="Re: Bal Harbor upgrades">
 
-Don't be surprised by these changes, they will be explained in the near future.  Do expect them to be permanent.  
+> <strong>\*Akasha\* wrote:</strong>
+> Don't be surprised by these changes, they will be explained in the near future. Do expect them to be permanent. 
+> 
+> 
+> 
+> Akasha
 
-Akasha[/quote:16el3334]
-
-you sure about that Weasel?  :)
+you sure about that Weasel? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 hopefully some new areas, BH needs more solo stuff, everythings either for noobs or groups.
 
@@ -68,9 +71,9 @@ No new areas.
 
 Prolly no new solo mobs.
 
-Quest?  You could say that.  Time will tell ;)
+Quest? You could say that. Time will tell <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
-For now, I'll just keep you apprised of anything going in that will throw off the normal  course of play.
+For now, I'll just keep you apprised of anything going in that will throw off the normal course of play.
 
 Akasha
 
@@ -78,18 +81,18 @@ Akasha
 
 <div class="post" data-post-id="20287" data-author="Ferrum" data-date="2007-09-14T20:40:53+00:00" data-subject="">
 
->Prolly no new solo mobs.
+\>Prolly no new solo mobs.
 
-Of course. I need dstab and 2 bolts to kill sash who is only 50 k exps and 0 gold. Where are solo mobs here?  :) 
+Of course. I need dstab and 2 bolts to kill sash who is only 50 k exps and 0 gold. Where are solo mobs here? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> 
 
 But now i understand better what happened with red sash repop a few weeks ago. Anyway, thank you Akasha for many changes in sloth. Great job!
 
- And forgive me if i try to pick door to your private appartments today  :D .
+ And forgive me if i try to pick door to your private appartments today <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> .
 
 </div>
 
 <div class="post" data-post-id="20288" data-author="Weasel" data-date="2007-09-14T20:53:21+00:00" data-subject="">
 
-Oops my bad for misreading.. DO expect them to be perm.  :oops:
+Oops my bad for misreading.. DO expect them to be perm. <img src="/images/smilies/icon_redface.svg" alt=":oops:" title=":oops:" width="15" height="15" class="smiley nozoom">
 
 </div>

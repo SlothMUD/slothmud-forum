@@ -14,27 +14,21 @@ post_count: 53
 
 LOVE IN A MENTAL HOSPITAL
 
- 
-
 Just because someone doesn't love you the way you want them to, doesn't mean they don't love you with all they have. Leaf and Autolycos were both patients in a mental hospital. One day while they were walking past the hospital swimming pool, Leaf suddenly jumped into the deep end. He sank to the bottom of the pool and stayed there. Autolycos promptly jumped in to save him. He swam to the bottom and pulled Leaf out.
-
- 
 
 When the Head Nurse Director became aware of Autolycos's heroic act, she immediately ordered him to be discharged from the hospital, as she now considered him to be mentally stable. When she went to tell Autolycos the news she said, "Autolycos, I have good news and bad news. The good news is you're being discharged; since you were able to rationally respond to a crisis by jumping in and saving the life of another patient, I have concluded that your act displays sound judgement and that you have a sound mind. The bad news is, Leaf, the patient you saved, hung himself in the bathroom with his bathrobe belt right after you saved him. I am so sorry, but he's dead."
 
- 
-
 Autolycos replied, "He didn't hang himself, I put him there to dry. How soon can I go home?
 
-"i'm sorry! did i break your concentration?" --jules --> pulp fiction
+"i'm sorry! did i break your concentration?" --jules --\> pulp fiction
 
 </div>
 
 <div class="post" data-post-id="17526" data-author="Autolycos" data-date="2007-03-27T18:16:20+00:00" data-subject="">
 
-that is pretty damn funny..  :twisted: 
+that is pretty damn funny.. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-but everyone knows i would never have saved him in the first place.   :x
+but everyone knows i would never have saved him in the first place. <img src="/images/smilies/icon_mad.svg" alt=":x" title=":x" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -42,9 +36,9 @@ but everyone knows i would never have saved him in the first place.   :x
 
 I may not mud anymore, but still great to know Reb and Jason remembers
 
-me  :twisted: 
+me <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-Plus Jason is too weak to rescue anyone.  He would drown in a 2 inch pool.
+Plus Jason is too weak to rescue anyone. He would drown in a 2 inch pool.
 
 </div>
 
@@ -52,13 +46,14 @@ Plus Jason is too weak to rescue anyone.  He would drown in a 2 inch pool.
 
 no but the hanging him out to dry is completely believable about you hehehe
 
-"bark bark bark woof woof" --tiger --> fievel goes west
+"bark bark bark woof woof" --tiger --\> fievel goes west
 
 </div>
 
 <div class="post" data-post-id="17529" data-author="Autolycos" data-date="2007-03-27T18:23:50+00:00" data-subject="">
 
-Plus Jason is too weak to rescue anyone.  He would drown in a 2 inch pool.[/quote:2u34zuo2]
+> <strong>Leaf wrote:</strong>
+> Plus Jason is too weak to rescue anyone. He would drown in a 2 inch pool.
 
 you keep on believing that Susie.
 
@@ -68,39 +63,39 @@ you keep on believing that Susie.
 
 THE CREATION OF A VAGINA
 
-   Seven wise men with knowledge so fine
+ Seven wise men with knowledge so fine
 
-   Created a pussy to their design.
+ Created a pussy to their design.
 
-   First was a butcher, smart with wit,
+ First was a butcher, smart with wit,
 
-   Using a knife, he gave it a slit.
+ Using a knife, he gave it a slit.
 
-   Second was a carpenter, strong and bold,
+ Second was a carpenter, strong and bold,
 
-   With a hammer and chisel, he gave it a hole.
+ With a hammer and chisel, he gave it a hole.
 
-   Third was a tailor, tall and thin,
+ Third was a tailor, tall and thin,
 
-   By using red velvet, he lined it within.
+ By using red velvet, he lined it within.
 
-   Fourth was a hunter, short and stout,
+ Fourth was a hunter, short and stout,
 
-   With a piece of fox fur, he lined it without.
+ With a piece of fox fur, he lined it without.
 
-   Fifth was a fisherman, nasty as hell,
+ Fifth was a fisherman, nasty as hell,
 
-   He threw in a fish and gave it a smell.
+ He threw in a fish and gave it a smell.
 
-   Sixth was a preacher whose name was McGee,
+ Sixth was a preacher whose name was McGee,
 
-   He touched it and blessed it and said it could pee.
+ He touched it and blessed it and said it could pee.
 
-   Last came a sailor, a dirty little runt,
+ Last came a sailor, a dirty little runt,
 
-   He sucked it and fucked it and called it a cunt
+ He sucked it and fucked it and called it a cunt
 
-"why couldn't you just put the bunny back in the box?"--poe --> con air
+"why couldn't you just put the bunny back in the box?"--poe --\> con air
 
 </div>
 
@@ -108,33 +103,21 @@ THE CREATION OF A VAGINA
 
 It was entertainment day at the Senior Center and the amazing Claude was topping the bill. People came from miles around to see the famed hypnotist do his stuff.
 
- 
-
  As Claude went to the front of the meeting room, he announced, "Unlike most hypnotists who invite two or three people up here to be put into a trance, I intend to hypnotize each and every member of the audience."
-
- 
 
  The excitement was almost electric as Claude withdrew a beautiful antique pocket watch from his coat pocket. "I want you each to keep your eye on this antique watch. It's a very special watch. It's been in my family for six generations."
 
- 
-
  He began to swing the watch gently back and forth while quietly chanting. "Watch the watch, watch the watch, watch the watch."
 
- 
-
  The crowd became mesmerized as the watch swayed back and forth, light gleaming off its polished surface. Hundreds of pairs of eyes followed the swaying watch, until suddenly it slipped from the hypnotist's fingers and fell to the floor, breaking into a hundred pieces.
-
- 
 
  "SHIT", said the hypnotist.
 
  
 
- 
-
  It took three days to clean up the Senior Center.
 
-"there's a monster outside my door.  can i have some water? --bo -->signs
+"there's a monster outside my door. can i have some water? --bo --\>signs
 
 </div>
 
@@ -146,31 +129,27 @@ It was entertainment day at the Senior Center and the amazing Claude was topping
 
 <div class="post" data-post-id="17733" data-author="13" data-date="2007-04-02T22:11:17+00:00" data-subject="">
 
-A cabbie picks up a Nun. She gets into the cab, and notices that the VERY handsome cab driver won't stop staring at her.   She asks him why he is staring.
+A cabbie picks up a Nun. She gets into the cab, and notices that the VERY handsome cab driver won't stop staring at her. She asks him why he is staring.
 
 He replies: "I have a question to ask you, but I don't want to offend you"
 
 She answers, "My son, you cannot offend me.
 
-When you're as old as I am and have been a nun as long as I have, you get a chance to see and hear  just about everything.
-
- 
+When you're as old as I am and have been a nun as long as I have, you get a chance to see and hear just about everything.
 
 I'm sure that there's nothing you could say or ask that I would find offensive."
-
- 
 
 "Well, I've always had a fantasy to have a nun kiss me."
 
 She responds, "Well, let's see what we can do about that:
 
-#1, you have to be single and #2, you must be Catholic."
+\#1, you have to be single and #2, you must be Catholic."
 
 The cab driver is very excited and says,
 
 "Yes, I'm single and Catholic!
 
-"OK" the nun says.   "Pull into the next alley."
+"OK" the nun says. "Pull into the next alley."
 
 The nun fulfills his fantasy with a kiss that would make a hooker blush.
 
@@ -178,11 +157,11 @@ But when they get back on the road, the cab driver starts crying.
 
 "My dear child," said the nun, why are you crying?"
 
-"Forgive me but I've sinned.  I lied and I must confess,
+"Forgive me but I've sinned. I lied and I must confess,
 
 I'm married and I'm Jewish."
 
-The nun says, "That's OK.  My name is Kevin and I'm going to a Halloween party."
+The nun says, "That's OK. My name is Kevin and I'm going to a Halloween party."
 
 </div>
 
@@ -192,11 +171,11 @@ nun halloween costume: $50
 
 cab fare to the party: $25
 
-getting kissed by a gay man in your cab wearing a nun costume:  priceless
+getting kissed by a gay man in your cab wearing a nun costume: priceless
 
 rebs
 
-"well color me happy there's a sofa in here for two!" --vivian -->pretty woman
+"well color me happy there's a sofa in here for two!" --vivian --\>pretty woman
 
 </div>
 
@@ -226,7 +205,7 @@ walking up to the 3rd guy. Jesus offers to heal him from the wheel chair, and gu
 
 I guess that joke could be funny if you obsess about religion 24/7
 
-Unhealthy, get out there and travel to another country or something.  There is more out there than bible study.
+Unhealthy, get out there and travel to another country or something. There is more out there than bible study.
 
 When your posting Jesus jokes to a slothmud crier its time for help and intervention.
 
@@ -236,11 +215,11 @@ Mosaix
 
 <div class="post" data-post-id="17782" data-author="firebrand" data-date="2007-04-04T20:35:45+00:00" data-subject="">
 
-hey mosaix chill and leave steve alone.  he's posting a joke, so let him.....besides, here's another one:
+hey mosaix chill and leave steve alone. he's posting a joke, so let him.....besides, here's another one:
 
 jesus walks into an inn, hands the innkeeper three nails and says "can you put me up for the night?"
 
-"i'm jay and this is my hetero lifemate silent bob" --jay --> jay and silent bob strike back
+"i'm jay and this is my hetero lifemate silent bob" --jay --\> jay and silent bob strike back
 
 </div>
 
@@ -254,13 +233,13 @@ Also, Mosaix gotta chill, man
 
 <div class="post" data-post-id="17788" data-author="Medios" data-date="2007-04-04T21:28:42+00:00" data-subject="">
 
-Damn Broc whats up.  Did you get handled by a priest as a young boy?  
+Damn Broc whats up. Did you get handled by a priest as a young boy? 
 
-A priest is in confession and badly needs to use the bathroom.  He asks an altar boy to take his place for a few minutes.  He tells the boy to offer forgiveness and ask for penance.
+A priest is in confession and badly needs to use the bathroom. He asks an altar boy to take his place for a few minutes. He tells the boy to offer forgiveness and ask for penance.
 
 A woman enters the confessional and quickly tells the boy she has sinned.
 
-"I gave a blowjob last night" she says.  The altar boy confused pokes his head out and asks his friend.  "What does the priest give for a blowjob?"
+"I gave a blowjob last night" she says. The altar boy confused pokes his head out and asks his friend. "What does the priest give for a blowjob?"
 
 "Well he usually gives me a coke and a snickers" the other boy replies.
 
@@ -298,7 +277,7 @@ The next day the girl came skipping home from school. "Mommy, Mommy", she yelled
 
 "No, it's because you're 25." 
 
-"one and one is two, two and two is four and five will get you ten if you know how to work it." --flower belle lee --> my little chickadee
+"one and one is two, two and two is four and five will get you ten if you know how to work it." --flower belle lee --\> my little chickadee
 
 </div>
 
@@ -312,7 +291,7 @@ Press "1" for English.
 
 Press "2" to disconnect until you learn to speak English. 
 
-"i think i bent my b-b-b-b-beak!" --boomer --> fox and the hound
+"i think i bent my b-b-b-b-beak!" --boomer --\> fox and the hound
 
 </div>
 
@@ -322,7 +301,7 @@ Thats not a Joke Reb, that should be a FACT!!!
 
 I hate calling some company (Cable, Phone, Drs) and they say press 1
 
-for English.  They shouldn't even offer that option!
+for English. They shouldn't even offer that option!
 
 </div>
 
@@ -330,7 +309,7 @@ for English.  They shouldn't even offer that option!
 
 agreed. 
 
-"dude!  where's my car?" -->jesse --> dude, where's my car?
+"dude! where's my car?" --\>jesse --\> dude, where's my car?
 
 </div>
 
@@ -360,21 +339,26 @@ Shazuko Roku Ryuu
 
 Shazuko Six Dragons
 
-<~Chaos~>
+\<\~Chaos\~\>
 
 </div>
 
 <div class="post" data-post-id="17933" data-author="tincts" data-date="2007-04-14T03:16:42+00:00" data-subject="">
 
-How all American business phones SHOULD be answered! 
-
-GOOD MORNING, WELCOME TO THE UNITED STATES OF AMERICA . 
-
-Press "1" for English. 
-
-Press "2" to disconnect until you learn to speak English. 
-
-[/quote:3n4t7ogp]
+> <strong>firebrand wrote:</strong>
+> How all American business phones SHOULD be answered! 
+> 
+> 
+> 
+> GOOD MORNING, WELCOME TO THE UNITED STATES OF AMERICA . 
+> 
+> 
+> 
+> Press "1" for English. 
+> 
+> 
+> 
+> Press "2" to disconnect until you learn to speak English.
 
 Shouldn't you all be speaking American Indian then? (Like we aussies should be speaking Australian Aboriginal?)
 
@@ -388,121 +372,83 @@ blame the destruction of the tower of babel.
 
 <div class="post" data-post-id="17936" data-author="firebrand" data-date="2007-04-14T14:35:43+00:00" data-subject="">
 
-*sigh* obviously no one noticed the title of this thread, which happens to be post a random JOKE.  jeez, ppl lighten up.
+\*sigh\* obviously no one noticed the title of this thread, which happens to be post a random JOKE. jeez, ppl lighten up.
 
 Autolycos: 
 
 Will you please state your age? 
 
- 
-
 Leaf: 
 
 I am 86 years old. 
-
- 
 
 Autolycos: 
 
 Will you tell us, in your own words, what happened the night of April 1st? 
 
- 
-
 Leaf: 
 
 There I was, sitting there in my swing on my front porch on a warm spring evening, when a young man comes creeping up on the porch and sat down beside me. 
-
- 
 
 Autolycos: 
 
 What happened after he sat down? 
 
- 
-
 Leaf: 
 
 He started to rub my thigh. 
-
- 
 
 Autolycos: 
 
 Did you stop him? 
 
- 
-
 Leaf: 
 
 No, I didn't stop him. 
 
- 
-
 Autolycos: 
 
 Why not? 
-
- 
 
 Leaf: 
 
 It felt good. Nobody had done that since my Albert died some 30 years ago. 
 
- 
-
 Autolycos: 
 
 What happened next? 
-
- 
 
 Leaf: 
 
 He began to rub my breasts. 
 
- 
-
 Autolycos: 
 
 Did you stop him then? 
-
- 
 
 Leaf: 
 
 No, I did not stop him. 
 
- 
-
 Autolycos: 
 
 Why not? 
-
- 
 
 Leaf: 
 
 His rubbing made me feel all alive and excited. I haven't felt that good in years! 
 
- 
-
 Autolycos: 
 
 What happened next? 
-
- 
 
 Leaf: 
 
 Well, by then, I was feeling so "spicy" that I just laid down and told him "Take me, young man. Take me now!" 
 
- 
-
 Autolycos: 
 
 Did he take you? 
-
- 
 
 Leaf: 
 
@@ -526,9 +472,9 @@ after a few minutes, will escapes and runs back to uncle autolycos.
 
 "tell me!" cries autolycos. "what is it?"
 
-"well," says will, "they said, `we will find out everything at the autopsy!'"[/color:22tkwa9r]
+"well," says will, "they said, \`we will find out everything at the autopsy!'"
 
-"are you a politician, or does lying just run in your family?"  -idgie threadgoode --> fried green tomatoes
+"are you a politician, or does lying just run in your family?" -idgie threadgoode --\> fried green tomatoes
 
 </div>
 
@@ -540,41 +486,47 @@ snore
 
 <div class="post" data-post-id="19013" data-author="firebrand" data-date="2007-06-21T04:51:20+00:00" data-subject="">
 
-snore[/quote:mj4jp3g0] darlin, if you find this one unfunny, perhaps you can post a better one......after all, that is why i started this thread in the first place!  
+> <strong>Corinn wrote:</strong>
+> snore
 
-"it's like your aunt edna's ass.  it goes on forever and it's just as frightening."  --frank -->parenthood
+ darlin, if you find this one unfunny, perhaps you can post a better one......after all, that is why i started this thread in the first place! 
+
+"it's like your aunt edna's ass. it goes on forever and it's just as frightening." --frank --\>parenthood
 
 </div>
 
 <div class="post" data-post-id="19014" data-author="12345" data-date="2007-06-21T08:30:40+00:00" data-subject="">
 
-[quote:25oixfk6][b:25oixfk6]Hades[/b:25oixfk6]
-
-Double 40 Poster[/size:25oixfk6]
-
-[img:25oixfk6]http://www.slothmud.org/images/avatar/26.jpg[/img:25oixfk6]
-
-Joined: May 30, 2005
-
-Posts: 210[/size:25oixfk6][/quote:25oixfk6]
+> <strong>Quote:</strong>
+> <strong>Hades</strong>
+> 
+> Double 40 Poster
+> 
+> ![](http://www.slothmud.org/images/avatar/26.jpg)
+> 
+> 
+> 
+> Joined: May 30, 2005
+> 
+> Posts: 210
 
 </div>
 
 <div class="post" data-post-id="19016" data-author="Autolycos" data-date="2007-06-21T12:32:47+00:00" data-subject="">
 
-now THAT is funny!  :twisted:
+now THAT is funny! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="19018" data-author="Leaf" data-date="2007-06-21T14:28:22+00:00" data-subject="">
 
-its funny how much love Jason and I share!  Reb is jealous!
+its funny how much love Jason and I share! Reb is jealous!
 
 </div>
 
 <div class="post" data-post-id="19019" data-author="brady" data-date="2007-06-21T14:37:30+00:00" data-subject="">
 
-A jubilant group of minstrels, mages and morphers gathered behind the fierce Firebrand.  It seems she needed at least 30 to explore the forboding land of Theris.  Afer slaying the Forgiveness Juggernaut a silence fell heavy across the land, much like a wet blanket.  It seemed the intrepid leader fell victim to a bowl of chicken soup.  The end.
+A jubilant group of minstrels, mages and morphers gathered behind the fierce Firebrand. It seems she needed at least 30 to explore the forboding land of Theris. Afer slaying the Forgiveness Juggernaut a silence fell heavy across the land, much like a wet blanket. It seemed the intrepid leader fell victim to a bowl of chicken soup. The end.
 
 </div>
 
@@ -582,7 +534,7 @@ A jubilant group of minstrels, mages and morphers gathered behind the fierce Fir
 
 lmfao... that was funny!
 
-of course the joke is that there is NFW way firebrand's group could kill a mob, she normally cf's in theris  :shock:
+of course the joke is that there is NFW way firebrand's group could kill a mob, she normally cf's in theris <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -594,17 +546,11 @@ fathers made a bet -- in a year's time whichever family had become more
 
 Americanized would win. 
 
- 
-
 A year later they meet. 
 
- 
-
-The first man says, "My son is playing baseball, I had McDonald's for  breakfast, 
+The first man says, "My son is playing baseball, I had McDonald's for breakfast, 
 
 and I'm on my way to pick up a case of Bud. How about you?" 
-
- 
 
 The second man replies, "Fuck you, towel head."
 
@@ -612,11 +558,11 @@ The second man replies, "Fuck you, towel head."
 
 <div class="post" data-post-id="19323" data-author="resouh" data-date="2007-07-21T15:55:23+00:00" data-subject="">
 
-Three men were hiking when they came upon a raging river.  Not knowing how to get across the first one raises his arms and prays 'Dear god, Please give me the strength to cross this river'.  Poof, his arms and legs grow strong and muscular and he proceeds to swim across the river.  After 2 hours and almost drowning twice he makes it across.
+Three men were hiking when they came upon a raging river. Not knowing how to get across the first one raises his arms and prays 'Dear god, Please give me the strength to cross this river'. Poof, his arms and legs grow strong and muscular and he proceeds to swim across the river. After 2 hours and almost drowning twice he makes it across.
 
-The second man seeing what happened, raised his arms to the sky and prayed 'Dear god, Please give me the strength and tools to cross the river'.  Poof, a rowboat appears and the man makes it across the river in an hour after almost capsizing once. 
+The second man seeing what happened, raised his arms to the sky and prayed 'Dear god, Please give me the strength and tools to cross the river'. Poof, a rowboat appears and the man makes it across the river in an hour after almost capsizing once. 
 
-The third man having seen what his partners have done raises his arms to the sky and prays 'Dear god, please give me the strength, tools, and intellegence to cross the river'.  Poof, he turns in to a woman, reads the map, and hikes the 200 yards up river to the bridge.
+The third man having seen what his partners have done raises his arms to the sky and prays 'Dear god, please give me the strength, tools, and intellegence to cross the river'. Poof, he turns in to a woman, reads the map, and hikes the 200 yards up river to the bridge.
 
 Resouh
 
@@ -648,65 +594,53 @@ Pirate: No, it was the day after I got me hook.
 
 Subject: Dr. Appt.
 
-  Last week, my wife and I went to the Doctor for our annual physical. After
+ Last week, my wife and I went to the Doctor for our annual physical. After
 
-  the doctor examined me he said, 'You appear to be in good health Bob. Do you
+ the doctor examined me he said, 'You appear to be in good health Bob. Do you
 
-  have any medical concerns you would like to ask me about?'
+ have any medical concerns you would like to ask me about?'
 
- 
+ 'In fact, I do,' I said, 'After I have sex with Jane my wife, the first time
 
-  'In fact, I do,' I said, 'After I have sex with Jane my wife, the first time
+ I am usually hot and sweaty, and then, after I have sex with her the second
 
-  I am usually hot and sweaty, and then, after I have sex with her the second
+ time, I am usually cold and chilly.'
 
-  time, I am usually cold and chilly.'
+ The Doctor said that he had never heard of those symptoms even though he was
 
- 
+ impressed with my ability to perform twice at my late age, but that he would
 
-  The Doctor said that he had never heard of those symptoms even though he was
+ research in his medical books.
 
-  impressed with my ability to perform twice at my late age, but that he would
+ He then called in Jane and after examining her he said,'Everything appears to
 
-  research in his medical books.
+ be fine. Do you have any medical concerns that you would like to discuss
 
- 
+ with me?'
 
-  He then called in Jane and after examining her he said,'Everything appears to
+ Jane replied that she had no questions or concerns.
 
-  be fine. Do you have any medical concerns that you would like to discuss
+ The doctor then asked her, 'You know Bob has an unusual concern. He tells me
 
-  with me?'
+ that he is usually hot and sweaty when he has sex with you the first time,
 
- 
+ and then cold and chilly after the second time. Do you have any idea of why
 
-  Jane replied that she had no questions or concerns.
+ this is happening?'
 
- 
+ 'Oh that crazy old fellow' Jane replied. 'That's because the first time is
 
-  The doctor then asked her, 'You know Bob has an unusual concern.  He tells me
-
-  that he is usually hot and sweaty when he has sex with you the first time,
-
-  and then cold and chilly after the second time. Do you have any idea of why
-
-  this is happening?'
-
- 
-
-  'Oh that crazy old fellow' Jane replied. 'That's because the first time is
-
-  usually in July and the second time is in December !!'
+ usually in July and the second time is in December !!'
 
 </div>
 
 <div class="post" data-post-id="24647" data-author="firebrand" data-date="2008-06-01T16:08:25+00:00" data-subject="">
 
-WARNING FROM THE MIDDLE EAST! This morning, from a cave somewhere in Pakistan, Taliban Minister of Migration, Mohammed Omar, warned the United States, "that if military action against Iraq continues, Taliban authorities will":  
+WARNING FROM THE MIDDLE EAST! This morning, from a cave somewhere in Pakistan, Taliban Minister of Migration, Mohammed Omar, warned the United States, "that if military action against Iraq continues, Taliban authorities will": 
 
-1. Cut off America 's supply of convenience store managers, and  possible candidates for President of the United States . 
+1\. Cut off America 's supply of convenience store managers, and possible candidates for President of the United States . 
 
-2.  If this action does not yield sufficient results, cab drivers will be next, followed by Dell and AOL customer service reps, and then Motel 6 managers. 
+2\. If this action does not yield sufficient results, cab drivers will be next, followed by Dell and AOL customer service reps, and then Motel 6 managers. 
 
 It's getting ugly out there....
 
@@ -716,7 +650,7 @@ It's getting ugly out there....
 
 Why is it, lightning never strikes in the same place twice?
 
- :arrow: ignorant answer here>
+ <img src="/images/smilies/icon_arrow.svg" alt=":arrow:" title=":arrow:" width="15" height="15" class="smiley nozoom"> ignorant answer here\>
 
 </div>
 
@@ -726,21 +660,21 @@ Funny Joke:
 
 Polk quit! in his vault and lost his eq...
 
- :arrow: Post ignorant comment from PolkADotS above ^^
+ <img src="/images/smilies/icon_arrow.svg" alt=":arrow:" title=":arrow:" width="15" height="15" class="smiley nozoom"> Post ignorant comment from PolkADotS above ^^
 
 </div>
 
 <div class="post" data-post-id="24671" data-author="PolkAdotS" data-date="2008-06-02T06:42:22+00:00" data-subject="">
 
-So there's this morom cab driver, picks up his fair.  The man he picks up says something to the effect of a religious discussion topic.  You all know how cab drivers are, so the cabbie pipes up, says to the guy... 
+So there's this morom cab driver, picks up his fair. The man he picks up says something to the effect of a religious discussion topic. You all know how cab drivers are, so the cabbie pipes up, says to the guy... 
 
-Hey, what religion are you?  I'm personally a mormon, I used to be part of the hierarchy of that religion but I had to start driving this cab because I lost my standing with it.  
+Hey, what religion are you? I'm personally a mormon, I used to be part of the hierarchy of that religion but I had to start driving this cab because I lost my standing with it. 
 
-   The fair says 'Why?' ::
+ The fair says 'Why?' ::
 
 The mormon cab-driver simply says, well in the religion the Men believe the women aren't allowed to enter heaven without their approval so, I started driving this cab after I bumped off my wife.
 
-  The fair decides 'Man you are nuts, why would you do that?'
+ The fair decides 'Man you are nuts, why would you do that?'
 
 The driver just nods, says 'No reason really, I just figured I should let her wait outside until I had the chance to die, so when I get there I can tell her well I really just didn't like you that much.'
 
@@ -758,25 +692,15 @@ Dam
 
 A fleeing Taliban, desperate for water, was plodding through the Afghanistan desert when he saw something far off in the distance. Hoping to find water, he hurried toward the object only to find a little old Jew at a small stand selling neckties. 
 
-The Taliban asked, 'Do you have water?' The Jew replied, 'I have no water. Would you like to buy a tie?  They are only $5.00.
-
-  
+The Taliban asked, 'Do you have water?' The Jew replied, 'I have no water. Would you like to buy a tie? They are only $5.00.
 
  The Taliban shouted, 'Idiot! I do not need an overpriced tie. I need water! I should kill you, but I must find water first.' 
 
- 
-
  'OK,' said the old Jew, 'it does not matter that you don't want to buy a tie and that you hate me. I will show you that I am bigger than that. If you continue over that hill to the east for about two miles, you will find a lovely restaurant. It has all the ice cold water you need. Shalom.' 
-
- 
 
  Muttering, the Taliban staggered away over the hill. 
 
- 
-
  Several hours later he staggered back. 
-
- 
 
  'Your fucking brother won't let me in without a tie.'
 
@@ -788,8 +712,6 @@ Subject: Mississippi Wal-Marts Run Out of Ammo!!!
 
 This just in...
 
- 
-
 All of the Wal-Marts across Mississippi sold out of ammunition 
 
 as of late yesterday. 
@@ -800,27 +722,23 @@ gentleman from Yazoo City who would only give his first name
 
 as 'Bubba', commented that while Russia may have invaded
 
-Georgia, they sure as heck better not mess with Mississippi.[/color:3src2tap]
+Georgia, they sure as heck better not mess with Mississippi.
 
-"i'll bet you twenty dollars i can get you gambling before the day is out!" -lloyd --> dumb & dumber
+"i'll bet you twenty dollars i can get you gambling before the day is out!" -lloyd --\> dumb \& dumber
 
 </div>
 
 <div class="post" data-post-id="26297" data-author="*juggleblood*" data-date="2008-09-13T05:14:53+00:00" data-subject="">
 
-Smoking in the Rain   
+Smoking in the Rain 
 
- 
-
-  Two old ladies were waiting for a bus and one of them was smoking a cigarette. It started to rain, so the old lady reached into her purse, took out a condom, cut off the tip and slipped it over her cigarette and continued to smoke.
+ Two old ladies were waiting for a bus and one of them was smoking a cigarette. It started to rain, so the old lady reached into her purse, took out a condom, cut off the tip and slipped it over her cigarette and continued to smoke.
 
 Her friend saw this and said, "Hey that's a good idea! But, what is that thing you put over your cigarette?"
 
 The other old lady said, "It's a condom."
 
 "A condom? Where do you get those?"
-
- 
 
 The lady with the cigarette told her friend that you could purchase condoms at the pharmacy. When the two old ladies arrived downtown, the old lady with all the questions went into the pharmacy and asked the pharmacist if he sold condoms. The pharmacist said yes, but looked a little surprised that this old woman was interested in condoms, so he asked her, "What size do you want?"
 
@@ -850,13 +768,13 @@ whoops that was supposed to be with 13
 
 <div class="post" data-post-id="27733" data-author="firebrand" data-date="2009-01-15T15:54:13+00:00" data-subject="">
 
-Grandma's letter.  She is eighty-eight years old and still drives her own car.
+Grandma's letter. She is eighty-eight years old and still drives her own car.
 
-She  writes:
+She writes:
 
 Dear Grand-daughter,
 
- The other day I went up to our local Christian book store and saw a Honk if you love Jesus bumper  sticker.  I  was feeling particularly sassy that day because I had just come from a  thrilling choir performance, followed by  a thunderous prayer meeting.. So,  I bought the sticker and put it on my bumper. Boy, am I glad I did, what an uplifting  experience that followed.   I was stopped at a red light at a busy intersection, just lost in thought about the Lord and how good he is, and I didn't notice that the light had changed.. It is a good thing someone else loves Jesus because if he hadn't honked, I'd never have noticed.  I found that lots of people love Jesus!  While I was sitting there, the guy behind started honking like crazy, and then he leaned out of his window and screamed, 'For the love of God!  Go! Go! Go! Jesus Christ, GO!'  What an exuberant cheerleader he was for Jesus!  Everyone started honking!  I just leaned out my window and started waving and smiling at all those loving people.  I even honked my horn a few times to share in the love! !  There must have been a man from Florida back there because I heard him yelling something about a sunny beach.  I saw another guy waving in a funny way with only his middle finger  stuck up in the air.  I asked my young teenage grandson in the back seat what that meant. He said it was probably a Hawaiian good luck sign or something.  Well, I have never met anyone from Hawaii, so I leaned out the window and gave him the good luck sign right back.  My grandson burst out laughing.  Why even he was enjoying this religious experience!!   A couple of the people were so caught up in the joy of the moment that they got out of their cars and started walking towards me.  I bet they wanted to pray or ask what church I attended, but this is when I noticed the light had changed.  So, I waved at all my brothers and sisters grinning, and drove on through the intersection.  I noticed that I was the only car that got through the intersection before the light changed again and felt kind of sad that I had to leave them after all the love we had shared.  So I slowed the car down, leaned out the window and gave them all the Hawaiian good luck sign one last time as I drove away.  Praise the Lord for such wonderful folks!!
+ The other day I went up to our local Christian book store and saw a Honk if you love Jesus bumper sticker. I was feeling particularly sassy that day because I had just come from a thrilling choir performance, followed by a thunderous prayer meeting.. So, I bought the sticker and put it on my bumper. Boy, am I glad I did, what an uplifting experience that followed. I was stopped at a red light at a busy intersection, just lost in thought about the Lord and how good he is, and I didn't notice that the light had changed.. It is a good thing someone else loves Jesus because if he hadn't honked, I'd never have noticed. I found that lots of people love Jesus! While I was sitting there, the guy behind started honking like crazy, and then he leaned out of his window and screamed, 'For the love of God! Go! Go! Go! Jesus Christ, GO!' What an exuberant cheerleader he was for Jesus! Everyone started honking! I just leaned out my window and started waving and smiling at all those loving people. I even honked my horn a few times to share in the love! ! There must have been a man from Florida back there because I heard him yelling something about a sunny beach. I saw another guy waving in a funny way with only his middle finger stuck up in the air. I asked my young teenage grandson in the back seat what that meant. He said it was probably a Hawaiian good luck sign or something. Well, I have never met anyone from Hawaii, so I leaned out the window and gave him the good luck sign right back. My grandson burst out laughing. Why even he was enjoying this religious experience!! A couple of the people were so caught up in the joy of the moment that they got out of their cars and started walking towards me. I bet they wanted to pray or ask what church I attended, but this is when I noticed the light had changed. So, I waved at all my brothers and sisters grinning, and drove on through the intersection. I noticed that I was the only car that got through the intersection before the light changed again and felt kind of sad that I had to leave them after all the love we had shared. So I slowed the car down, leaned out the window and gave them all the Hawaiian good luck sign one last time as I drove away. Praise the Lord for such wonderful folks!!
 
 Will write again soon,
 
@@ -864,7 +782,7 @@ Love,
 
 Grandma
 
-"if you give me a headstart i can beat you." -copper --> the fox and the hound
+"if you give me a headstart i can beat you." -copper --\> the fox and the hound
 
 </div>
 
@@ -882,15 +800,14 @@ Both woodpeckers were now terribly confused. How is it that the Canadian woodpec
 
 After much woodpecker pondering, they both came to the same conclusion:
 
- 
-
 Apparently, your pecker gets harder when you're away from home
 
 </div>
 
 <div class="post" data-post-id="27745" data-author="Yasik2" data-date="2009-01-16T07:30:05+00:00" data-subject="">
 
-almost without brea king[/quote:3ndz283e]
+> <strong>Alberich wrote:</strong>
+> almost without brea king
 
 You meant BRA KING?
 

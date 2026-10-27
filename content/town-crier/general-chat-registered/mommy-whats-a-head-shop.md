@@ -12,19 +12,20 @@ post_count: 7
 
 <div class="post" data-post-id="13052" data-author="Autolycos" data-date="2006-06-20T22:54:40+00:00" data-subject="Mommy whats a head shop?">
 
-I shopped but I didn't inhale..   :shock: 
+I shopped but I didn't inhale.. <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
 OMG.. this is the funniest damn thing I have ever read!!!
 
-[url:2w89ay3k]http://www.associatedcontent.com/article/40491/vacation_horror_story.html[/url:2w89ay3k]
+http://www.associatedcontent.com/article/40491/vacation_horror_story.html
 
 </div>
 
 <div class="post" data-post-id="13053" data-author="12345" data-date="2006-06-21T00:51:47+00:00" data-subject="">
 
-That's the least horrifying horror story ever.  Let me sum it up for those that want to save some time...
+That's the least horrifying horror story ever. Let me sum it up for those that want to save some time...
 
-[quote:eah55h8o]I'm a moron and walked into a head shop with my kids.  Absolutely nothing happened but I freaked out anyway and left.  I then decided that I hadn't handled the situation badly enough yet so I wrote a 2 page article on how stupid I am and post it to the internet.[/quote:eah55h8o]
+> <strong>Quote:</strong>
+> I'm a moron and walked into a head shop with my kids. Absolutely nothing happened but I freaked out anyway and left. I then decided that I hadn't handled the situation badly enough yet so I wrote a 2 page article on how stupid I am and post it to the internet.
 
 </div>
 
@@ -34,7 +35,7 @@ let me sum up 12345's post..
 
 i'm a douchebag that refuses to let anyone read something and form their own opinion.
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -50,7 +51,7 @@ Since when was STFU an opinion though?
 
 STFU is always an option!... 
 
-i encourage it!  :twisted:
+i encourage it! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

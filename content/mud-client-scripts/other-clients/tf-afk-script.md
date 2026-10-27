@@ -20,20 +20,20 @@ defines a /afk macro that toggles afk, updates title, and auto lurks.
 
 /def afk = \
 	/if ({isafk} == 0) \
-		/set isafk 1 %; \
-		lurk on %; \
-		title %title \\d10<<\\d09A.F.K\\d10>> %; \
+ /set isafk 1 %; \
+ lurk on %; \
+ title %title \\d10<<\\d09A.F.K\\d10>> %; \
 	/elseif ({isafk} == 1) \
-		/set isafk 0 %; \
-		lurk off %; \
-		title %title %; \
+ /set isafk 0 %; \
+ lurk off %; \
+ title %title %; \
 	/endif
 
 /def doafk = \
 	/if ({connected} == 1) \
-		/if ({isafk} == 1) \
-			yawn %; \
-		/endif %; \
+ /if ({isafk} == 1) \
+ yawn %; \
+ /endif %; \
 	/endif
 
 /repeat -60 i /doafk
@@ -43,6 +43,6 @@ defines a /afk macro that toggles afk, updates title, and auto lurks.
 
 <div class="post" data-post-id="33841" data-author="jezer" data-date="2012-12-12T23:47:14+00:00" data-subject="Re: tf afk script">
 
-Can you post your Ruby dropping script?  :P  :shock:  :twisted:
+Can you post your Ruby dropping script? <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

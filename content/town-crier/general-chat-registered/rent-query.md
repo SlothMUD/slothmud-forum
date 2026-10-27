@@ -14,10 +14,10 @@ post_count: 1
 
 My question is are these too high rent costs?
 
-37120           a belt of sparkling emeralds
+37120 a belt of sparkling emeralds
 
-32911           a dragonskin bracelet
+32911 a dragonskin bracelet
 
-12500           a crystal teardrop
+12500 a crystal teardrop
 
 </div>

@@ -14,7 +14,7 @@ post_count: 2
 
 Sup ppl I'll be flying to Orange County tomorrow and flying out on
 
-Thursday.  Any mudders around the area?
+Thursday. Any mudders around the area?
 
 </div>
 
@@ -24,7 +24,7 @@ I from northern Cali not south California
 
 and I say it's time to make them into
 
-two different states :)
+two different states <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Just my 2cents
 

@@ -26,7 +26,7 @@ Strap of Leather Like Flesh
 
 Diamond Sleeves
 
-Gem of Musing (*sigh*)
+Gem of Musing (\*sigh\*)
 
 and here is what i have to trade...
 

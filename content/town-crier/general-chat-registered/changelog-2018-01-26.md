@@ -14,8 +14,8 @@ post_count: 1
 
 Made further changes to spectral shield - let me know if it's working better now.
 
-List <keyword> at vaults should be fixed.
+List \<keyword\> at vaults should be fixed.
 
-ktalk can now be muted similarly to other channels.  The catch here is that by default it's disabled on existing players so I am enabling the channel for all clan members at logon.  At some point I'll remove that so that if you have it turned off at rent, you'll come back in with it disabled.
+ktalk can now be muted similarly to other channels. The catch here is that by default it's disabled on existing players so I am enabling the channel for all clan members at logon. At some point I'll remove that so that if you have it turned off at rent, you'll come back in with it disabled.
 
 </div>

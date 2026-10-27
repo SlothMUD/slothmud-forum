@@ -16,10 +16,10 @@ We will do a very -minimal- Valentines Day Quest at 10AM pacific on Saturday Feb
 
 A counter link is provided below:
 
-[<LINK_TEXT text="https://www.tickcounter.com/countdown/4 ... -day-quest">https://www.tickcounter.com/countdown/4900112/2024-slothmud-valentines-day-quest</LINK_TEXT>](https://www.tickcounter.com/countdown/4900112/2024-slothmud-valentines-day-quest)
+[https://www.tickcounter.com/countdown/4900112/2024-slothmud-valentines-day-quest](https://www.tickcounter.com/countdown/4900112/2024-slothmud-valentines-day-quest)
 
 See you all there
 
---Idj
+\--Idj
 
 </div>

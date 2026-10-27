@@ -24,7 +24,7 @@ Damage Dice is '0D0'
 
 Can affect you as:
 
-    Affects: STR by 1
+ Affects: STR by 1
 
 Object 'ethereal shield elite medium', Item type: ARMOR
 
@@ -36,13 +36,13 @@ AC-apply is -1.1
 
 Can affect you as:
 
-    Affects: MANA by 20
+ Affects: MANA by 20
 
 Only those who are at least master magic users, clerics, druids,
 
 necromancers, or bards may use this item.
 
-Object 'chip diamond small clasp for_Interwoven_Circle_Power elite medium', Item type: CLASP
+Object 'chip diamond small clasp for\_Interwoven\_Circle\_Power elite medium', Item type: CLASP
 
 Item is: PERSONAL 
 
@@ -50,7 +50,7 @@ Weight: 1, Value: 175drachma, Worn in: TAKE
 
 Clasp can only be attached to:
 
-   Interwoven Circle of Power.......it has an elite hum to it!
+ Interwoven Circle of Power.......it has an elite hum to it!
 
 Clasp gives the user -1 ARMOR
 
@@ -64,9 +64,9 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: MANA by 20
+ Affects: MANA by 20
 
-    Affects: REGEN_MANA by 2
+ Affects: REGEN\_MANA by 2
 
 Only those who are at least supreme magic users, clerics, druids, or
 
@@ -82,9 +82,9 @@ Damage Dice is '2D6'
 
 Can affect you as:
 
-    Affects: HITROLL by 2
+ Affects: HITROLL by 2
 
-    Affects: DAMROLL by 3
+ Affects: DAMROLL by 3
 
 Only those who are at least supreme avatars may use this item.
 
@@ -98,9 +98,9 @@ AC-apply is -0.4
 
 Can affect you as:
 
-    Affects: SYSTEM_SHOCK by 2
+ Affects: SYSTEM\_SHOCK by 2
 
-    Affects: REGEN_MANA by 1
+ Affects: REGEN\_MANA by 1
 
 Only those who are at least master magic users, clerics, druids, or
 
@@ -116,9 +116,9 @@ AC-apply is -0.3
 
 Can affect you as:
 
-    Affects: STR by 1
+ Affects: STR by 1
 
-    Affects: CIRCLE_DAMAGE by 10
+ Affects: CIRCLE\_DAMAGE by 10
 
 Only those who are at least master thieves may use this item.
 
@@ -132,9 +132,9 @@ AC-apply is -0.4
 
 Can affect you as:
 
-    Affects: REGEN_HP by 2
+ Affects: REGEN\_HP by 2
 
-    Affects: FLAIL_DAMAGE by 5
+ Affects: FLAIL\_DAMAGE by 5
 
 Only those who are at least master warriors or supreme monks, and have
 
@@ -150,9 +150,9 @@ AC-apply is -0.3
 
 Can affect you as:
 
-    Affects: UNDEAD_CONTROL by 1
+ Affects: UNDEAD\_CONTROL by 1
 
-    Affects: MANA by 14
+ Affects: MANA by 14
 
 Only those who are at least master necromancers, and have attained
 
@@ -168,9 +168,9 @@ AC-apply is -0.6
 
 Can affect you as:
 
-    Affects: HITPOINT by 10
+ Affects: HITPOINT by 10
 
-    Affects: CHARISMA by 3
+ Affects: CHARISMA by 3
 
 Only those who are at least master bards may use this item.
 
@@ -184,13 +184,13 @@ Damage Dice is '0D0'
 
 Can affect you as:
 
-    Affects: MANA by 10
+ Affects: MANA by 10
 
 Only those who are at least adept magic users, clerics, druids, or
 
 necromancers may use this item.
 
-Object 'emblem rose clasp elite high shield_clasp', Item type: CLASP
+Object 'emblem rose clasp elite high shield\_clasp', Item type: CLASP
 
 Item is: PERSONAL 
 
@@ -198,11 +198,11 @@ Weight: 0, Value: 200drachma, Worn in: TAKE
 
 Clasp can only be attached to:
 
-   shields
+ shields
 
-   INSTRUMENT
+ INSTRUMENT
 
-   4x40-ITEM
+ 4x40-ITEM
 
 Clasp gives the user +1 STR
 
@@ -216,9 +216,9 @@ AC-apply is -0.7
 
 Can affect you as:
 
-    Affects: WEAPON_DAMAGE by 2
+ Affects: WEAPON\_DAMAGE by 2
 
-    Affects: HITPOINT by 10
+ Affects: HITPOINT by 10
 
 Only those who are at least supreme warriors or bards, and have attained
 
@@ -234,9 +234,9 @@ AC-apply is -0.1
 
 Can affect you as:
 
-    Affects: REGEN_MANA by 1
+ Affects: REGEN\_MANA by 1
 
-    Affects: MANA by 5
+ Affects: MANA by 5
 
 Only those who are at least supreme magic users, clerics, druids, and
 
@@ -248,13 +248,11 @@ Item is: HUM PERSONAL 2x40-ITEM
 
 Weight: 2, Value: 825drachma, Worn in: TAKE SHIELD 
 
-	
-
 Can affect you as:
 
-    Affects: HITPOINT by 20
+ Affects: HITPOINT by 20
 
-    Affects: HAND_DAMAGE by 2
+ Affects: HAND\_DAMAGE by 2
 
 Only those who are at least supreme monks, and have attained supremacy in
 
@@ -270,9 +268,9 @@ AC-apply is 0.1
 
 Can affect you as:
 
-    Affects: MANA by 15
+ Affects: MANA by 15
 
-    Affects: SPELL_BONUS by 10
+ Affects: SPELL\_BONUS by 10
 
 Only those who are at least supreme magic users, and have attained
 
@@ -288,7 +286,7 @@ AC-apply is -0.5
 
 Can affect you as:
 
-    Affects: REGEN_HP by 2
+ Affects: REGEN\_HP by 2
 
 Only those who are primary supreme warriors, and have attained supremacy in
 
@@ -304,9 +302,9 @@ AC-apply is -0.3
 
 Can affect you as:
 
-    Affects: STAB_DAMAGE by 8
+ Affects: STAB\_DAMAGE by 8
 
-    Affects: STR by 1
+ Affects: STR by 1
 
 Only those who are at least master thieves, and have attained supremacy in
 
@@ -336,13 +334,13 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: ARMOR by -2
+ Affects: ARMOR by -2
 
-    Affects: REGEN_MANA by 1
+ Affects: REGEN\_MANA by 1
 
-    Affects: HITROLL by 1
+ Affects: HITROLL by 1
 
-    Affects: MANA by 10
+ Affects: MANA by 10
 
 Only those who are at least supreme druids may use this item.
 
@@ -354,15 +352,15 @@ Weight: 0, Value: 200drachma, Worn in: TAKE
 
 Clasp can only be attached to:
 
-   rings
+ rings
 
-   SHIELD
+ SHIELD
 
-   CRUMBLE-READ
+ CRUMBLE-READ
 
-   NO_BROADCAST
+ NO\_BROADCAST
 
-Clasp gives the user +1 MAX_INT
+Clasp gives the user +1 MAX\_INT
 
 Object 'bracers mithril amethyst dwarf lords elite', Item type: ARMOR
 
@@ -374,7 +372,7 @@ AC-apply is -0.7
 
 Can affect you as:
 
-    Affects: MAX_CON by 1
+ Affects: MAX\_CON by 1
 
 Only those who are at least supreme warriors or monks may use this item.
 
@@ -388,11 +386,11 @@ AC-apply is -0.3
 
 Can affect you as:
 
-    Affects: MAX_DEX by 1
+ Affects: MAX\_DEX by 1
 
-    Affects: HITROLL by 1
+ Affects: HITROLL by 1
 
-    Affects: CIRCLE_DAMAGE by 5
+ Affects: CIRCLE\_DAMAGE by 5
 
 FAUR SHOP
 
@@ -406,9 +404,9 @@ Weight: 8, Value: 350drachma, Worn in: TAKE ABOUT
 
 Can affect you as:
 
-    Affects: ARMOR by -5
+ Affects: ARMOR by -5
 
-    Affects: HEAL_BONUS by 10
+ Affects: HEAL\_BONUS by 10
 
 Only those who are at least experienced clerics may use this item.
 
@@ -422,9 +420,9 @@ Weight: 3, Value: 350drachma, Worn in: TAKE ABOUT
 
 Can affect you as:
 
-    Affects: ARMOR by -5
+ Affects: ARMOR by -5
 
-    Affects: SPELL_BONUS by 10
+ Affects: SPELL\_BONUS by 10
 
 Only those who are at least experienced magic users may use this item.
 
@@ -438,13 +436,13 @@ Weight: 8, Value: 190drachma, Worn in: TAKE ABOUT
 
 Can affect you as:
 
-    Affects: ARMOR by -5
+ Affects: ARMOR by -5
 
-    Affects: STAB_DAMAGE by 7
+ Affects: STAB\_DAMAGE by 7
 
 Only those who are at least adept thieves may use this item.
 
-Object 'head staff_head ice blue crystal elite low', Item type: CLASP
+Object 'head staff\_head ice blue crystal elite low', Item type: CLASP
 
 Item is: PERSONAL 
 
@@ -452,7 +450,7 @@ Weight: 0, Value: 100drachma, Worn in: TAKE
 
 Clasp can only be attached to:
 
-   a knotted beach staff
+ a knotted beach staff
 
 Clasp gives the user +3 HITROLL
 
@@ -468,9 +466,9 @@ AC-apply is -0.7
 
 Can affect you as:
 
-    Affects: WIS by 1
+ Affects: WIS by 1
 
-    Affects: SAVING_SPELL by -1
+ Affects: SAVING\_SPELL by -1
 
 Only those who are at least master clerics, warriors, or bards may use this
 
@@ -486,9 +484,9 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: MANA by 15
+ Affects: MANA by 15
 
-    Affects: REGEN_MANA by 2
+ Affects: REGEN\_MANA by 2
 
 Only those who are at least adept magic users or experienced clerics may
 
@@ -508,13 +506,13 @@ raise dead
 
 Can affect you as:
 
-    Affects: SYSTEM_SHOCK by 2
+ Affects: SYSTEM\_SHOCK by 2
 
-    Affects: HEAL_BONUS by 10
+ Affects: HEAL\_BONUS by 10
 
 Only those who are at least master clerics may use this item.
 
-Object 'mana force cp essence_of_life_recharge', Item type: COMPONENT
+Object 'mana force cp essence\_of\_life\_recharge', Item type: COMPONENT
 
 Item is: PERSONAL 
 
@@ -528,7 +526,7 @@ Weight: 2, Value: 130drachma, Worn in: TAKE
 
 Clasp can only be attached to:
 
-   a golden hilt
+ a golden hilt
 
 Clasp imbues item with: 
 
@@ -546,13 +544,13 @@ Weight: 8, Value: 225drachma, Worn in: TAKE ABOUT
 
 Can affect you as:
 
-    Affects: ARMOR by -5
+ Affects: ARMOR by -5
 
-    Affects: REDUCE_DAMAGE by 1
+ Affects: REDUCE\_DAMAGE by 1
 
 Only those who are at least adept monks may use this item.
 
-Object 'robe forbidden ceremonies elite_low', Item type: CONTAINER
+Object 'robe forbidden ceremonies elite\_low', Item type: CONTAINER
 
 Maxweight: 500
 
@@ -562,13 +560,13 @@ Weight: 8, Value: 275drachma, Worn in: TAKE ABOUT
 
 Can affect you as:
 
-    Affects: ARMOR by -5
+ Affects: ARMOR by -5
 
-    Affects: UNDEAD_CONTROL by 3
+ Affects: UNDEAD\_CONTROL by 3
 
 Only those who are at least adept necromancers may use this item.
 
-Object 'cloak rose tainted elite_low', Item type: CONTAINER
+Object 'cloak rose tainted elite\_low', Item type: CONTAINER
 
 Maxweight: 399
 
@@ -578,9 +576,9 @@ Weight: 3, Value: 320drachma, Worn in: TAKE ABOUT
 
 Can affect you as:
 
-    Affects: MANA by 7
+ Affects: MANA by 7
 
-    Affects: REGEN_MANA by 2
+ Affects: REGEN\_MANA by 2
 
 Only those who are primary supreme druids may use this item.
 
@@ -594,9 +592,9 @@ Weight: 2, Value: 300drachma, Worn in: TAKE ABOUT
 
 Can affect you as:
 
-    Affects: ARMOR by -5
+ Affects: ARMOR by -5
 
-    Affects: HITPOINT by 25
+ Affects: HITPOINT by 25
 
 Only those who are at least adept warriors may use this item.
 
@@ -612,33 +610,33 @@ Weight: 1, Value: 225drachma, Worn in: TAKE
 
 Clasp can only be attached to:
 
-   body armor
+ body armor
 
-   greaves and leggings
+ greaves and leggings
 
-   vambraces, brassards, and phylacteries
+ vambraces, brassards, and phylacteries
 
-   belts
+ belts
 
-   WAIST
+ WAIST
 
-   WIELD
+ WIELD
 
-   TWO-HANDED
+ TWO-HANDED
 
-   SHOULDER
+ SHOULDER
 
-   TEMPORARY
+ TEMPORARY
 
-   2x40-ITEM
+ 2x40-ITEM
 
-   NO-FIND
+ NO-FIND
 
-   UNDEFINED2
+ UNDEFINED2
 
-Clasp gives the user +1 WATER_BREATHING
+Clasp gives the user +1 WATER\_BREATHING
 
-Clasp gives the user +2 REGEN_HP
+Clasp gives the user +2 REGEN\_HP
 
 Object 'cloak tales forgotten elite low', Item type: CONTAINER
 
@@ -650,9 +648,9 @@ Weight: 3, Value: 275drachma, Worn in: TAKE ABOUT
 
 Can affect you as:
 
-    Affects: CHARISMA by 3
+ Affects: CHARISMA by 3
 
-    Affects: ARMOR by -5
+ Affects: ARMOR by -5
 
 Only those who are at least experienced bards may use this item.
 
@@ -666,9 +664,9 @@ Weight: 8, Value: 275drachma, Worn in: TAKE ABOUT
 
 Can affect you as:
 
-    Affects: MANA by 25
+ Affects: MANA by 25
 
-    Affects: UNDEAD_CONTROL by 3
+ Affects: UNDEAD\_CONTROL by 3
 
 Only those who are at least adept necromancers may use this item.
 
@@ -682,9 +680,9 @@ Weight: 8, Value: 350drachma, Worn in: TAKE ABOUT
 
 Can affect you as:
 
-    Affects: MANA by 25
+ Affects: MANA by 25
 
-    Affects: HEAL_BONUS by 10
+ Affects: HEAL\_BONUS by 10
 
 Only those who are at least experienced clerics may use this item.
 
@@ -698,9 +696,9 @@ Weight: 3, Value: 350drachma, Worn in: TAKE ABOUT
 
 Can affect you as:
 
-    Affects: MANA by 25
+ Affects: MANA by 25
 
-    Affects: SPELL_BONUS by 10
+ Affects: SPELL\_BONUS by 10
 
 Only those who are at least experienced magic users may use this item.
 
@@ -728,9 +726,9 @@ Weight: 43, Value: 150drachma, Worn in: TAKE ABOUT
 
 Can affect you as:
 
-    Affects: ARMOR by -5
+ Affects: ARMOR by -5
 
-    Affects: DEX by 1
+ Affects: DEX by 1
 
 Only those who are at least adept magic users, clerics, thi
 
@@ -744,9 +742,9 @@ Weight: 43, Value: 150drachma, Worn in: TAKE ABOUT
 
 Can affect you as:
 
-    Affects: ARMOR by -5
+ Affects: ARMOR by -5
 
-    Affects: CON by 1
+ Affects: CON by 1
 
 Only those who are at least adept magic users, clerics, thieves, warriors,
 
@@ -762,7 +760,7 @@ AC-apply is -1.0
 
 Can affect you as:
 
-    Affects: CHARISMA by 1
+ Affects: CHARISMA by 1
 
 Only those who are at least experienced bards may use this item.
 
@@ -774,17 +772,17 @@ Weight: 0, Value: 180drachma, Worn in: TAKE
 
 Clasp can only be attached to:
 
-   rings
+ rings
 
-   SHIELD
+ SHIELD
 
-   CRUMBLE-READ
+ CRUMBLE-READ
 
-   NO_BROADCAST
+ NO\_BROADCAST
 
-Clasp gives the user +2 STAB_DAMAGE
+Clasp gives the user +2 STAB\_DAMAGE
 
-Clasp gives the user +4 CIRCLE_DAMAGE
+Clasp gives the user +4 CIRCLE\_DAMAGE
 
 Object 'tunic healer elite mystic', Item type: CONTAINER
 
@@ -796,9 +794,9 @@ Weight: 43, Value: 315drachma, Worn in: TAKE ABOUT
 
 Can affect you as:
 
-    Affects: HEAL_BONUS by 13
+ Affects: HEAL\_BONUS by 13
 
-    Affects: ARMOR by -1
+ Affects: ARMOR by -1
 
 Only those who are at least master clerics may use this item.
 
@@ -810,13 +808,13 @@ Weight: 0, Value: 200drachma, Worn in: TAKE
 
 Clasp can only be attached to:
 
-   necklaces, amulets, and gorgets
+ necklaces, amulets, and gorgets
 
-   ABOUT
+ ABOUT
 
-   ENCHANTED
+ ENCHANTED
 
-   NO_HUNT
+ NO\_HUNT
 
 Clasp imbues item with: GLOW PERSONAL MAGIC
 
@@ -832,9 +830,9 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: MANA by 10
+ Affects: MANA by 10
 
-    Affects: REGEN_MANA by 1
+ Affects: REGEN\_MANA by 1
 
 Only those who are at least supreme magic users or supreme clerics, or
 
@@ -850,9 +848,9 @@ AC-apply is -0.4
 
 Can affect you as:
 
-    Affects: WIS by 1
+ Affects: WIS by 1
 
-    Affects: HITPOINT by 5
+ Affects: HITPOINT by 5
 
 Only those who are at least experienced bards may use this item.
 
@@ -866,9 +864,9 @@ AC-apply is -1.6
 
 Can affect you as:
 
-    Affects: REGEN_HP by 2
+ Affects: REGEN\_HP by 2
 
-    Affects: CON by 1
+ Affects: CON by 1
 
 Only those who are at least master warriors may use this item.
 
@@ -882,9 +880,9 @@ AC-apply is -0.4
 
 Can affect you as:
 
-    Affects: STR by 1
+ Affects: STR by 1
 
-    Affects: REDUCE_DAMAGE by 1
+ Affects: REDUCE\_DAMAGE by 1
 
 Only those who are at least supreme monks may use this item.
 
@@ -898,9 +896,9 @@ Weight: 3, Value: 350drachma, Worn in: TAKE ABOUT
 
 Can affect you as:
 
-    Affects: MANA by 25
+ Affects: MANA by 25
 
-    Affects: SPELL_BONUS by 10
+ Affects: SPELL\_BONUS by 10
 
 Only those who are at least experienced magic users may use this item.
 
@@ -914,9 +912,9 @@ AC-apply is -0.4
 
 Can affect you as:
 
-    Affects: INT by 1
+ Affects: INT by 1
 
-    Affects: HITPOINT by 5
+ Affects: HITPOINT by 5
 
 Only those who are at least experienced bards may use this item.
 
@@ -924,13 +922,13 @@ Only those who are at least experienced bards may use this item.
 
 <div class="post" data-post-id="29724" data-author="Vixn" data-date="2009-07-27T17:24:53+00:00" data-subject="">
 
-====>> Affects: ARMOR by -1 <<====
+\====\>\> Affects: ARMOR by -1 \<\<====
 
 Does it mean -0.1ac? Or -1.0ac?
 
 p.s. Thanks Cizin!!!
 
-p.p.s. *What a noob! doesn't have even 900 drachma!*  :P
+p.p.s. \*What a noob! doesn't have even 900 drachma!\* <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 Kida
 
@@ -940,53 +938,67 @@ Kida
 
 Somebody was bored!!
 
-Excellent post tho Cizin  :D
+Excellent post tho Cizin <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="29726" data-author="Jag" data-date="2009-07-27T22:31:35+00:00" data-subject="">
 
-thanks man.  It will be a long time before I have the drachma, but i like to plan.  :)  Anticipation is part of the fun.
+thanks man. It will be a long time before I have the drachma, but i like to plan. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> Anticipation is part of the fun.
 
 </div>
 
 <div class="post" data-post-id="29727" data-author="Rigwarl" data-date="2009-07-28T02:51:09+00:00" data-subject="">
 
-====>> Affects: ARMOR by -1 <<====
+> <strong>Vixn wrote:</strong>
+> \====\>\> Affects: ARMOR by -1 \<\<====
+> 
+> 
+> 
+> Does it mean -0.1ac? Or -1.0ac?
+> 
+> 
+> 
+> 
+> 
+> p.s. Thanks Cizin!!!
+> 
+> 
+> 
+> p.p.s. \*What a noob! doesn't have even 900 drachma!\* <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
+> 
+> 
+> 
+> 
+> 
+> Kida
 
-Does it mean -0.1ac? Or -1.0ac?
-
-p.s. Thanks Cizin!!!
-
-p.p.s. *What a noob! doesn't have even 900 drachma!*  :P
-
-Kida[/quote:32u0osv3]
-
--0.1. Nod, nice robe, good luck Kida!
+\-0.1. Nod, nice robe, good luck Kida!
 
 P.S. Thanks for the list Borat,
 
--Rig
+\-Rig
 
 </div>
 
 <div class="post" data-post-id="29731" data-author="Vixn" data-date="2009-07-28T12:43:50+00:00" data-subject="">
 
--0.1. Nod, nice robe, good luck Kida![/quote:2tu83nez]
+> <strong>Rigwarl wrote:</strong>
+> \-0.1. Nod, nice robe, good luck Kida!
 
 Nah, it doesn't seem to be so nice for me.
 
-I need heal_bonus to help group run so I don't need ac and I do need mana/ma regen on my heal_bonus eq. So I'd better buy radiant white robes of healer that is -0.0ac +25ma +10hb.
+I need heal\_bonus to help group run so I don't need ac and I do need mana/ma regen on my heal\_bonus eq. So I'd better buy radiant white robes of healer that is -0.0ac +25ma +10hb.
 
 Let's see what I can do to increase my heal bonus:
 
-[list:2tu83nez]15 HB = grey gemstone shard
+- 15 HB = grey gemstone shard
 
 10 HB = 2x rings of life (5 for each)
 
 15 HB = shoulder guards of divinity
 
-10 HB = radiant white robes of healer (*drachma)
+10 HB = radiant white robes of healer (\*drachma)
 
 10 HB = trip40 boots
 
@@ -998,21 +1010,21 @@ Let's see what I can do to increase my heal bonus:
 
 10 HB = heart of sheolian
 
-110 HB = TOTAL[/list:u:2tu83nez]
+110 HB = TOTAL
 
 So is it max for clerics nowdays? Or is there another way to get more HB?
 
-[b:2tu83nez]Kida *Evil Cleric*[/b:2tu83nez]
+<strong>Kida \*Evil Cleric\*</strong>
 
 </div>
 
 <div class="post" data-post-id="29733" data-author="Rigwarl" data-date="2009-07-28T14:56:20+00:00" data-subject="">
 
-Looks like you've  your plan all set..
+Looks like you've your plan all set..
 
 Please get it soon so we can cycle contagion.
 
--Rig
+\-Rig
 
 </div>
 
@@ -1030,7 +1042,7 @@ AC-apply is -0.2
 
 Can affect you as:
 
-    Affects: DAMROLL by 2
+ Affects: DAMROLL by 2
 
 Only those who are at least supreme thieves, warriors, bards, or monks may
 
@@ -1046,9 +1058,9 @@ AC-apply is 0.1
 
 Can affect you as:
 
-    Affects: RESIST_COLD by 5
+ Affects: RESIST\_COLD by 5
 
-    Affects: MAX_STR by 3
+ Affects: MAX\_STR by 3
 
 Only those who are at least supreme thieves, warriors, bards, or monks may
 
@@ -1064,9 +1076,9 @@ Weight: 4, Value: 575drachma, Worn in: TAKE WAIST
 
 Can affect you as:
 
-    Affects: REGEN_HP by 1
+ Affects: REGEN\_HP by 1
 
-    Affects: MAX_STR by 2
+ Affects: MAX\_STR by 2
 
 Only those who are at least adept thieves, warriors, bards, or monks may
 
@@ -1082,9 +1094,9 @@ AC-apply is -1.3
 
 Can affect you as:
 
-    Affects: FLAIL_DAMAGE by 20
+ Affects: FLAIL\_DAMAGE by 20
 
-    Affects: REGEN_HP by 3
+ Affects: REGEN\_HP by 3
 
 Only those who are at least supreme warriors, and have attained supremacy
 

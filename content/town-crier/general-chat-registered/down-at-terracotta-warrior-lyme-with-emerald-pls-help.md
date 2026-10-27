@@ -18,7 +18,7 @@ Anyone who sees this..kindly pls come to our rescue
 
 <div class="post" data-post-id="15462" data-author="13" data-date="2006-12-06T13:44:34+00:00" data-subject="I suck here&#x27;s why">
 
-Are you guys that short on nuts, that you can't just take what's coming?  All of you who post your whiny "I'm dead at lyme duck" threads.  Use ICQ like everyone else, don't mud when there are only 4 people on, and die like a man for christ's sake.
+Are you guys that short on nuts, that you can't just take what's coming? All of you who post your whiny "I'm dead at lyme duck" threads. Use ICQ like everyone else, don't mud when there are only 4 people on, and die like a man for christ's sake.
 
 </div>
 
@@ -28,19 +28,19 @@ It is better to live and fight another day blah blah blah..
 
 Why does it bother you so much anyway 13? If people want to at least try to get raised then what's the the big issue? 
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="15467" data-author="12345" data-date="2006-12-06T18:19:43+00:00" data-subject="">
 
-Deaths just don't mean as much to Aaron.  He does have a point though... you should leave the high risk kills for when you have more backup.  Generally the folks on Sloth are cool enough that if you don't have any, you can scrounge some up somewhere.  ie. channels, asking for icq numbers, etc.
+Deaths just don't mean as much to Aaron. He does have a point though... you should leave the high risk kills for when you have more backup. Generally the folks on Sloth are cool enough that if you don't have any, you can scrounge some up somewhere. ie. channels, asking for icq numbers, etc.
 
 </div>
 
 <div class="post" data-post-id="15468" data-author="13" data-date="2006-12-06T18:33:24+00:00" data-subject="">
 
-I top the death list consistantly too.  What's worth more, xp or pride?
+I top the death list consistantly too. What's worth more, xp or pride?
 
 </div>
 
@@ -60,13 +60,14 @@ crash the mud and beg your puffed stuff from immorts.
 
 that's the way of TRU HIRO!
 
- 8)
+ <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="15471" data-author="Weasel" data-date="2006-12-06T22:03:10+00:00" data-subject="">
 
-I top the death list consistantly too.  What's worth more, xp or pride?[/quote:1frx983l]
+> <strong>13 wrote:</strong>
+> I top the death list consistantly too. What's worth more, xp or pride?
 
 heh, I find little to be proud of in needless death - life is about how you live, not how you die, imho. I guess I'd make a really bad suicide bomber.
 
@@ -76,7 +77,7 @@ A couple of us saved someone just recently purely as a result of their posting o
 
 Good on you if that is how you wish to play though - I'm not going to fault you for it, however I choose a different path, and the choice is mine to make, not anybody elses, just as your choice is yours.
 
- :D
+ <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -88,6 +89,6 @@ That's cool, I'm gonna continue to razz you guys about it too.
 
 <div class="post" data-post-id="15485" data-author="Weasel" data-date="2006-12-07T03:54:39+00:00" data-subject="">
 
-heh kewl  :twisted:
+heh kewl <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

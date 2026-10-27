@@ -14,7 +14,7 @@ post_count: 28
 
 WOOT, now the question is ... does my title change after 500?
 
-Yes ... Yes it did >: )-~
+Yes ... Yes it did \>: )-\~
 
 </div>
 
@@ -26,7 +26,7 @@ I wonder if there's an immort level..
 
 <div class="post" data-post-id="10691" data-author="Clink" data-date="2006-02-12T20:44:18+00:00" data-subject="">
 
-At the risk of encouraging more spam, I will tell you that there is another level after a ridiculous amount of posts.  Should you reach this level, I will immediately remove your username from the system and make you start over.
+At the risk of encouraging more spam, I will tell you that there is another level after a ridiculous amount of posts. Should you reach this level, I will immediately remove your username from the system and make you start over.
 
 Cheers,
 
@@ -36,7 +36,7 @@ Clink
 
 <div class="post" data-post-id="10692" data-author="Weasel" data-date="2006-02-12T21:10:07+00:00" data-subject="">
 
-[img:2oy8ryrz]http://www.watchmen.nl.amnesty.org/images/smileys/zwijg.gif[/img:2oy8ryrz]
+![](http://www.watchmen.nl.amnesty.org/images/smileys/zwijg.gif)
 
 </div>
 
@@ -48,7 +48,7 @@ at that point you should probably wipe their characters and make those start ove
 
 <div class="post" data-post-id="10696" data-author="Autolycos" data-date="2006-02-13T16:49:18+00:00" data-subject="">
 
-now thats just really damn funny..  :twisted:
+now thats just really damn funny.. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -70,13 +70,13 @@ light your face on fire...
 
 then put it out with a shovel..
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="10727" data-author="Weasel" data-date="2006-02-15T02:36:05+00:00" data-subject="">
 
-roflmao damn that's graphic  :lol:
+roflmao damn that's graphic <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -84,7 +84,7 @@ roflmao damn that's graphic  :lol:
 
 KISS MY ASS JASON!!!
 
-Not the left one, or the right one.  But right down the middle!!!
+Not the left one, or the right one. But right down the middle!!!
 
 Just like how you do it with your cousins!
 
@@ -96,7 +96,7 @@ laff...
 
 i already beat them to a fiery death with thier respective shovels...
 
-now its your turn!  :twisted:
+now its your turn! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -110,27 +110,30 @@ anyone can get 500 posts if all they do is post about their butt fetishes like y
 
 <div class="post" data-post-id="10731" data-author="dt" data-date="2006-02-15T11:42:42+00:00" data-subject="Incoming !!!">
 
-[img:3r27z0ny]http://www.virob.com/images/hawk.jpg[/img:3r27z0ny]
+![](http://www.virob.com/images/hawk.jpg)
 
 </div>
 
 <div class="post" data-post-id="10732" data-author="Weasel" data-date="2006-02-15T12:19:45+00:00" data-subject="">
 
-[img:y483dw6x]http://demon.twinflame.org/images/temp/weaselscream.jpg[/img:y483dw6x]
+![](http://demon.twinflame.org/images/temp/weaselscream.jpg)
 
 </div>
 
 <div class="post" data-post-id="10733" data-author="Leaf" data-date="2006-02-15T15:01:38+00:00" data-subject="">
 
-Hey Al, you can also Kiss my Ass ... bitch :)
+Hey Al, you can also Kiss my Ass ... bitch <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 How about creating a Crier Name on a char that you ACTUALLY OWN!
 
-*wave to Mustang*
+\*wave to Mustang\*
 
-stfu will
-
-anyone can get 500 posts if all they do is post about their butt fetishes like you do[/quote:13y1ptvt]
+> <strong>Mustang wrote:</strong>
+> stfu will
+> 
+> 
+> 
+> anyone can get 500 posts if all they do is post about their butt fetishes like you do
 
 </div>
 
@@ -150,7 +153,7 @@ Charles
 
 ! 
 
-:)
+<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -158,7 +161,7 @@ Charles
 
 snicker.. 
 
-if Will logged in all his noobs,  all the ports would be so full, no real players could log on.
+if Will logged in all his noobs, all the ports would be so full, no real players could log on.
 
 </div>
 
@@ -166,7 +169,7 @@ if Will logged in all his noobs,  all the ports would be so full, no real player
 
 From what I've heard, u never OWNED Mustang.
 
-Do a last player Leaf and there you go :)
+Do a last player Leaf and there you go <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Auto, I only own hum... 8-10 Chars, and play about 3 of them.
 
@@ -178,9 +181,9 @@ geeez i feel so ashamed.. me and my 2 chars....
 
 guess i should make a bunch more so they can rot too..
 
-maybe i should find the guy that owns Link,  i bet i could get him..
+maybe i should find the guy that owns Link, i bet i could get him..
 
-that would be fun to watch you cry....  :twisted:
+that would be fun to watch you cry.... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -190,17 +193,17 @@ Dude if u can get Link and don't sell to me I'll be sad, maybe a little teary...
 
 I should have never sold him, but then again I was young and needed the
 
-money to fix my speaker :(
+money to fix my speaker <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="10758" data-author="Autolycos" data-date="2006-02-16T18:27:12+00:00" data-subject="">
 
-hmmmm..  
+hmmmm.. 
 
 and here i thought it was because you were a dumbass..
 
-Link would make a great pthief  :twisted:
+Link would make a great pthief <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -214,7 +217,7 @@ Go make Autolycos as a pthief :p
 
 <div class="post" data-post-id="10761" data-author="Autolycos" data-date="2006-02-16T21:46:27+00:00" data-subject="">
 
-nah..  
+nah.. 
 
 wouldnt be fair to anyone..
 
@@ -222,7 +225,7 @@ could be fun tho..
 
 i would easily be able to pkill 95% of the dummies coming after me.
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -236,41 +239,41 @@ I know you have enough vault space for that!
 
 <div class="post" data-post-id="10763" data-author="Autolycos" data-date="2006-02-17T01:53:45+00:00" data-subject="">
 
-**MUAHAHAHAHAHA**
+\*\*MUAHAHAHAHAHA\*\*
 
 You sneak through the shadows of Hero's Lane.
 
-<1034hp 313ma 259mv>
+\<1034hp 313ma 259mv\>
 
 You sneak through the shadows of Intersection of Hero's Lane and Raldor Street.
 
-<1034hp 313ma 253mv>
+\<1034hp 313ma 253mv\>
 
 You sneak through the shadows of Raldor Street.
 
-<1034hp 313ma 247mv>
+\<1034hp 313ma 247mv\>
 
 Raldor Street
 
-   You are standing in the center of a busy street within the dwarven city of 
+ You are standing in the center of a busy street within the dwarven city of 
 
-Settlestone.  This particular concourse is named after the famed hero Raldor 
+Settlestone. This particular concourse is named after the famed hero Raldor 
 
-Firerock and is composed of large crafted cobblestones.   Two exceedingly 
+Firerock and is composed of large crafted cobblestones. Two exceedingly 
 
 busy buildings lie to the east and west and the street continues to the north 
 
-and south.  The echoed sounds of price haggling fills the air.
+and south. The echoed sounds of price haggling fills the air.
 
-Exits: North  East  South  West  Up  
+Exits: North East South West Up 
 
 A guide entitled 'Ten easy steps to disarming a trap' lay here. [2]
 
-Rojak ~Dragonsworn~ is standing here.
+Rojak \~Dragonsworn\~ is standing here.
 
 A grizzled old deckhand wanders around looking for a berth for the night.
 
-<1034hp 313ma 247mv>
+\<1034hp 313ma 247mv\>
 
 Ok.
 
@@ -284,7 +287,7 @@ Bastard ...
 
 Caught me out of in for only 3 seconds casting spells!!!
 
-U were lucky I was mt!  Would have fuked u UP!!!
+U were lucky I was mt! Would have fuked u UP!!!
 
 </div>
 

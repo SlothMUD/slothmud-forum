@@ -14,49 +14,49 @@ post_count: 3
 
 I was hitting shadow playground trying to forge a raise wand and I notice all the mobs went into hiding. Could someone give me a tell online or enlighten me on how to release them from the dungeon. Tried phasing and can't get into that room. Hunt don't work. Seems like its a disjointed room that mobs may repop in
 
-You are in Shadow Playground.  Also in this area are:
+You are in Shadow Playground. Also in this area are:
 
-Name                           - Location
+Name - Location
 
------------------------------------------
+\-----------------------------------------
 
-a tiny shadow                  - The Shadow Dungeon
+a tiny shadow - The Shadow Dungeon
 
-<388hp 107ma 147mv indoors -6.0>
+\<388hp 107ma 147mv indoors -6.0\>
 
-You are in Shadow Playground.  Also in this area are:
+You are in Shadow Playground. Also in this area are:
 
-Name                           - Location
+Name - Location
 
------------------------------------------
+\-----------------------------------------
 
-a curious shadow               - The Shadow Dungeon
+a curious shadow - The Shadow Dungeon
 
-<388hp 109ma 149mv indoors -6.0>
+\<388hp 109ma 149mv indoors -6.0\>
 
-You are in Shadow Playground.  Also in this area are:
+You are in Shadow Playground. Also in this area are:
 
-Name                           - Location
+Name - Location
 
------------------------------------------
+\-----------------------------------------
 
-an apprentice of shadows       - The Shadow Dungeon
+an apprentice of shadows - The Shadow Dungeon
 
-<388hp 110ma 150mv indoors -6.0>
+\<388hp 110ma 150mv indoors -6.0\>
 
-You are in Shadow Playground.  Also in this area are:
+You are in Shadow Playground. Also in this area are:
 
-Name                           - Location
+Name - Location
 
------------------------------------------
+\-----------------------------------------
 
-Shadow of Zodiac               - The Shadow Dungeon
+Shadow of Zodiac - The Shadow Dungeon
 
 </div>
 
 <div class="post" data-post-id="30013" data-author="*juggleblood*" data-date="2009-09-21T02:21:41+00:00" data-subject="">
 
-Well, you are correct. There are unattached rooms where some mobs are loading.  In fact at least one mob only loads there.
+Well, you are correct. There are unattached rooms where some mobs are loading. In fact at least one mob only loads there.
 
 I'm thinking there is sposed to be some proc that moves the around somehow. I'm not seeing it yet. Will poke around some later.
 
@@ -66,6 +66,6 @@ Perhaps you can send me a pm and tell me what you know about the area. Give me s
 
 <div class="post" data-post-id="30017" data-author="*Chobbs*" data-date="2009-09-21T15:56:25+00:00" data-subject="">
 
-Resolved.  99% sure anyhoo.
+Resolved. 99% sure anyhoo.
 
 </div>

@@ -16,12 +16,12 @@ Sorry for the short notice.
 
 Someone pointed out Easter is tomorrow.
 
-In -three- hours  (Noon pacific) we will hold a quest.  Maybe not full size.
+In -three- hours (Noon pacific) we will hold a quest. Maybe not full size.
 
 But there will be...stuff
 
 See you there.
 
---D
+\--D
 
 </div>

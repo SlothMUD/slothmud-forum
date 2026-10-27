@@ -14,9 +14,9 @@ post_count: 1
 
 Some time ago i saw an interesting thing on Thule. 
 
-I have a prompt with a weather in it, but when the snow begins a furry,  prompt showed to me that it was just raining...
+I have a prompt with a weather in it, but when the snow begins a furry, prompt showed to me that it was just raining...
 
-----
+\----
 
 K'eth Hennia the Elven Bard.
 

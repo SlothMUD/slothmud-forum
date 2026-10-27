@@ -12,39 +12,39 @@ post_count: 24
 
 <div class="post" data-post-id="14399" data-author="Jother" data-date="2006-10-01T02:12:47+00:00" data-subject="Assistance Needed">
 
-Greetings, great adventurers!  I am Jother, son of Nothus.  I post this message here to enlist your assistance in searching for some lost relics.  I am only a shoemaker and not a strong warrior, so I am using this means of communication only to hide my identity from any attacks that these actions may bring forth.  
+Greetings, great adventurers! I am Jother, son of Nothus. I post this message here to enlist your assistance in searching for some lost relics. I am only a shoemaker and not a strong warrior, so I am using this means of communication only to hide my identity from any attacks that these actions may bring forth. 
 
 I have found some notes and a pair of rods in an old purse in a false bottom of a chest that had been passed down through my father's side of the family. One note implies to me that the story of the City of Cannactum (also known as the City of the Longest Struggle) is true.
 
----
+\---
 
-The story says that city was wedged in a valley between two mountain ranges.  The one on the north was inhabited by Baraneth's dragon pride and the southern by Vouhx-t's orc clan.  The city was under constant raids by the orcs and dragons and was on the verge of being wiped out until the emergence of King Norythen.
+The story says that city was wedged in a valley between two mountain ranges. The one on the north was inhabited by Baraneth's dragon pride and the southern by Vouhx-t's orc clan. The city was under constant raids by the orcs and dragons and was on the verge of being wiped out until the emergence of King Norythen.
 
-King Norythen had acquired through unknown means (a story for another time) two powerful items that helped keep his enemies at bay.  He wielded the Spear of the DragonSlayer (since named Lytharen after his descendent) which can pierce the hardest of dragonscales when wielded with proper technique.
+King Norythen had acquired through unknown means (a story for another time) two powerful items that helped keep his enemies at bay. He wielded the Spear of the DragonSlayer (since named Lytharen after his descendent) which can pierce the hardest of dragonscales when wielded with proper technique.
 
 When fighting Orcs and other degenerates, he swung at them with the
 
-hammer orginally named after him and which now bears the name Morylthen. These items not only allowed the town to beat back attacks, but also allowed them to perform raids on the dragon pride and orc clan which weakened them enough to allow the city to flourish.  Norythen passed these keys to his kingdom down to his son, Pynarintha as he grew old and too weak to wield them.
+hammer orginally named after him and which now bears the name Morylthen. These items not only allowed the town to beat back attacks, but also allowed them to perform raids on the dragon pride and orc clan which weakened them enough to allow the city to flourish. Norythen passed these keys to his kingdom down to his son, Pynarintha as he grew old and too weak to wield them.
 
-This tradition continued for 23 generations, and the city had grown into a small kingdom presided over by King Tanaraythen.  He was the only son in a straight line of only-child sons decending direcly from King Norythen.  This King was also fortunate to have a son, Lytharen, with his young Queen Mardanya.  However, she mysteriously fell ill and quickly died.
+This tradition continued for 23 generations, and the city had grown into a small kingdom presided over by King Tanaraythen. He was the only son in a straight line of only-child sons decending direcly from King Norythen. This King was also fortunate to have a son, Lytharen, with his young Queen Mardanya. However, she mysteriously fell ill and quickly died.
 
-For the first time, a young King remarried after falling in love with a maid named Iosanya.  There was much resentment harbored between Lytharen and Iosanya when she gave birth to his half-brother Morylthen.
+For the first time, a young King remarried after falling in love with a maid named Iosanya. There was much resentment harbored between Lytharen and Iosanya when she gave birth to his half-brother Morylthen.
 
-King Tanaraythen, for his part, loved each of his sons equally and gave them each one of his prized weapons as he aged.  His sons, however, did not share the same love for each other. During his reign, the Princes fought side-by-side as their father had requested of them, but after his death, they quickly went their own ways.
+King Tanaraythen, for his part, loved each of his sons equally and gave them each one of his prized weapons as he aged. His sons, however, did not share the same love for each other. During his reign, the Princes fought side-by-side as their father had requested of them, but after his death, they quickly went their own ways.
 
-Lytharen was the first son, so he became King, but Prince Morylthen was not satifisfied with his lot and left Cannactum with his great hammer.  He was not heard from again within the city walls and rumors swirl today about what happened to him.
+Lytharen was the first son, so he became King, but Prince Morylthen was not satifisfied with his lot and left Cannactum with his great hammer. He was not heard from again within the city walls and rumors swirl today about what happened to him.
 
 Cannactum was not overrun by the orcs during Lytharen's reign, but without the hammer, the tide slowly turned back to the orcs, whom eventually took Cannactum and possibly possession of Lytharen's spear.
 
 Today, there are no traces of Cannactum, only the story of the longest struggle. But it is believed that the weapons, Lytharen and Morylthen (spear and hammer) exist today, but are well hidden.
 
---
+\--
 
-Though I believe I may be a descendent of Lytahren, I do not wish to cause trouble for my wife and children.  The first note says the rod contained within the purse can help leader someone searching on the path to the weapons.  I have given it to the great wizard in the ether as I do not wish to show my face directly.  
+Though I believe I may be a descendent of Lytahren, I do not wish to cause trouble for my wife and children. The first note says the rod contained within the purse can help leader someone searching on the path to the weapons. I have given it to the great wizard in the ether as I do not wish to show my face directly. 
 
-I believe you will need to do some digging to unearth the chests.  It may require some tools that are common (typical mining instruments), but you may have as of yet not discovered in your previous adventures.
+I believe you will need to do some digging to unearth the chests. It may require some tools that are common (typical mining instruments), but you may have as of yet not discovered in your previous adventures.
 
-The rod and digging instruments should help you find some chests along the way.  Leave me messages here as you progress and I will attempt to help you further.
+The rod and digging instruments should help you find some chests along the way. Leave me messages here as you progress and I will attempt to help you further.
 
 Jother
 
@@ -106,7 +106,7 @@ Mandiblaton died, and Lis started to dig.
 
 Lis uncovers an old iron-bound chest.
 
-  An enormous creature appears and begins to survey the area. .
+ An enormous creature appears and begins to survey the area. .
 
 Karagh the Serpent brutally massacres Atwell with his crush.
 
@@ -116,9 +116,9 @@ Well, the mob died too. We unlocked the chest and found the next rod and the sil
 
 <div class="post" data-post-id="14407" data-author="Jother" data-date="2006-10-01T05:34:37+00:00" data-subject="">
 
-Great news!  You have found another rod.  I believe that the first two that I passed to you may have been damaged with all of the travels that they had gone through in the many years they were stashed in the bottom of that trunk.
+Great news! You have found another rod. I believe that the first two that I passed to you may have been damaged with all of the travels that they had gone through in the many years they were stashed in the bottom of that trunk.
 
-I believe that we must continue looking for more chests and the location of the first is also somehow a clue to the location of the second.  I shall ponder this some in context of the notes I have in front of me.  It will likely take me 8-10 hours to contemplate fully.  I shall communicate with you then.  If you are not able to continue your journey at that time, please leave the rods with other adventurers who can.
+I believe that we must continue looking for more chests and the location of the first is also somehow a clue to the location of the second. I shall ponder this some in context of the notes I have in front of me. It will likely take me 8-10 hours to contemplate fully. I shall communicate with you then. If you are not able to continue your journey at that time, please leave the rods with other adventurers who can.
 
 Jother
 
@@ -126,7 +126,7 @@ Jother
 
 <div class="post" data-post-id="14408" data-author="Jother" data-date="2006-10-01T13:12:36+00:00" data-subject="">
 
-After much consideration and deliberation, I'm no longer certain that the location of the chests are correlated.  In fact, I believe they are meant to be unrelated.  Another chest is not likely near Mandiblaton.
+After much consideration and deliberation, I'm no longer certain that the location of the chests are correlated. In fact, I believe they are meant to be unrelated. Another chest is not likely near Mandiblaton.
 
 I think your search must begin again with only the information that the next chest is also well hidden underground.
 
@@ -136,7 +136,8 @@ Jother
 
 <div class="post" data-post-id="14409" data-author="Vixn" data-date="2006-10-01T14:06:06+00:00" data-subject="">
 
-Suddenly, one of 2 rods spoke to Polk and asked to be give to me, Krok, the silly cleric.[/quote:lda8idxu]
+> <strong>Krok wrote:</strong>
+> Suddenly, one of 2 rods spoke to Polk and asked to be give to me, Krok, the silly cleric.
 
 So rod was talking to you? Or maybe that was jus bad mushrooms?
 
@@ -144,7 +145,7 @@ So rod was talking to you? Or maybe that was jus bad mushrooms?
 
 <div class="post" data-post-id="14421" data-author="12345" data-date="2006-10-01T15:12:34+00:00" data-subject="">
 
-The rod only glows in the exact room of the item you're searching for.  SS is a smaller continent, but searching every possible room with 2 rods was a bit daunting.  So after a while, the rod got frustrated with our progress and decided to give us more blatant hints.
+The rod only glows in the exact room of the item you're searching for. SS is a smaller continent, but searching every possible room with 2 rods was a bit daunting. So after a while, the rod got frustrated with our progress and decided to give us more blatant hints.
 
 We were hoping that the staff had a few more settings than barely glowing and second sun... we were wrong.
 
@@ -152,7 +153,7 @@ We were hoping that the staff had a few more settings than barely glowing and se
 
 <div class="post" data-post-id="14423" data-author="Jother" data-date="2006-10-01T15:22:42+00:00" data-subject="">
 
-The information being passed below is grossly incorrect! The rod has several settings, if I remember correctly(which I believe I do).  This item has a tendency to become irritated, one might say moody. Simply running to the first rooms of an area may not work!
+The information being passed below is grossly incorrect! The rod has several settings, if I remember correctly(which I believe I do). This item has a tendency to become irritated, one might say moody. Simply running to the first rooms of an area may not work!
 
 Jother
 
@@ -184,7 +185,7 @@ Adagio gets a glowing sliver of steel from an old iron-bound chest that's on the
 
 A glowing sliver of steel explodes in a blinding red light, scattering shards of steel about the room.
 
-The hot shards of steel slice through your skin.  It burns!
+The hot shards of steel slice through your skin. It burns!
 
 You have gained 20 drachma.
 
@@ -194,9 +195,9 @@ So, Jother, we have 5 (sorry, 3 old ones disappeared) rods now, and we are ready
 
 <div class="post" data-post-id="14435" data-author="Jother" data-date="2006-10-01T19:53:49+00:00" data-subject="">
 
-Great work on finding those chests so far.  It is a shame that
+Great work on finding those chests so far. It is a shame that
 
-Morylthen and Lytharen were not in them.  Perhaps we will have better
+Morylthen and Lytharen were not in them. Perhaps we will have better
 
 luck soon!
 
@@ -218,19 +219,19 @@ You receive 1540365 experience points as your share.
 
 Lis uncovers an old iron-bound chest.
 
-  An enormous creature appears and begins to survey the area. .
+ An enormous creature appears and begins to survey the area. .
 
 the guardian of the chest : immediately to the east
 
 He stand nearly one hundred feet tall and looks to weigh about one thousand 
 
-pounds.  He has two beady little eyes that peer from side to side watching 
+pounds. He has two beady little eyes that peer from side to side watching 
 
-over his master's pile of riches.  His main weapon is his fists of rock, 
+over his master's pile of riches. His main weapon is his fists of rock, 
 
-and he strikes with the force of lightning.  He stands guard over all the 
+and he strikes with the force of lightning. He stands guard over all the 
 
-rich items placed within this chamber.  
+rich items placed within this chamber. 
 
 The guardian of the chest has some small wounds and bruises.
 
@@ -246,7 +247,7 @@ Your blood freezes as you hear the guardian of the chest's death cry.
 
 Hakon gets gold coins from the corpse of the guardian of the chest that's on the ground.
 
-Hakon splits 150000 coins.  Your share is 5000 coins.
+Hakon splits 150000 coins. Your share is 5000 coins.
 
 Hakon gets a glinting shield of silver from the corpse of the guardian of the chest that's on the ground.
 
@@ -270,7 +271,7 @@ Cicada slowly fades into existence.
 
 Trupik slowly fades into existence.
 
-The hot shards of steel slice through your skin.  It burns!
+The hot shards of steel slice through your skin. It burns!
 
 You have gained 20 drachma.
 
@@ -282,9 +283,9 @@ So far we finally found Morylthen, Jother! :)
 
 <div class="post" data-post-id="14437" data-author="Jother" data-date="2006-10-01T20:38:29+00:00" data-subject="">
 
-Again, spectacular work finding and opening the chests.  Congratulations on finding Morylthen!  I fear it is in dire need these days.
+Again, spectacular work finding and opening the chests. Congratulations on finding Morylthen! I fear it is in dire need these days.
 
-I believe this is where the jouney becomes significantly more perilous.  I believe the next chest may well contain Lytharen!  However, the only decryption I can make of the notes is that it's likely hidden among the polar opposite of the dragon pride.
+I believe this is where the jouney becomes significantly more perilous. I believe the next chest may well contain Lytharen! However, the only decryption I can make of the notes is that it's likely hidden among the polar opposite of the dragon pride.
 
 Good luck and keep me informed!
 
@@ -296,11 +297,11 @@ Jother
 
 We went to the Orc Mines. Few weird mobs met us there:
 
-     the digal clan chief : immediately to the north
+ the digal clan chief : immediately to the north
 
-      Bahgtru, the Leg Breaker : immediately to the north
+ Bahgtru, the Leg Breaker : immediately to the north
 
-                  a digal hero : immediately to the north
+ a digal hero : immediately to the north
 
 After we killed them, we noticed a monster, who was sure looking dangerous. 
 
@@ -312,7 +313,7 @@ Blood hails down upon you, as Polk crushes Vouhx-t of the Bloody Head tribe with
 
 Avatar uncovers an old iron-bound chest.
 
-  An enormous creature appears and begins to survey the area. .
+ An enormous creature appears and begins to survey the area. .
 
 and here is another massive black doggie :)
 
@@ -332,7 +333,7 @@ Your blood freezes as you hear a massive black dog's death cry.
 
 Polk gets gold coins from the corpse of a massive black dog that's on the ground.
 
-Polk splits 2500 coins.  Your share is 67 coins.
+Polk splits 2500 coins. Your share is 67 coins.
 
 Polk gets a glinting shield of silver from the corpse of a massive black dog that's on the ground.
 
@@ -340,7 +341,7 @@ Polk gets a glinting shield of silver from the corpse of a massive black dog tha
 
 <div class="post" data-post-id="14439" data-author="Jother" data-date="2006-10-01T21:24:44+00:00" data-subject="">
 
-You are now well armed!  However, I fear that Baraneth and her pride are alerted to your actions.  Slay her and perhaps there will be some small redeption for Cannactum.  Perhaps she even has a nice hoard gathered from the remains of the city.
+You are now well armed! However, I fear that Baraneth and her pride are alerted to your actions. Slay her and perhaps there will be some small redeption for Cannactum. Perhaps she even has a nice hoard gathered from the remains of the city.
 
 Jother
 
@@ -358,7 +359,7 @@ Osric gets a horned helmet from the corpse of a massive black dog that's on the 
 
 Osric gets gold coins from the corpse of a massive black dog that's on the ground.
 
-Osric splits 2500 coins.  Your share is 71 coins.
+Osric splits 2500 coins. Your share is 71 coins.
 
 Here's an example round of a fight with Baraneth.
 
@@ -426,19 +427,19 @@ Your blood freezes as you hear Baraneth, the golden scaled dragoness's death cry
 
 Lis gets gold coins from the corpse of Baraneth, the golden scaled dragoness that's on the ground.
 
-Lis splits 1000000 coins.  Your share is 29411 coins.
+Lis splits 1000000 coins. Your share is 29411 coins.
 
 Lis gets a glowing sliver of steel from the corpse of Baraneth, the golden scaled dragoness that's on the ground.
 
 A glowing sliver of steel explodes in a blinding purple light, scattering shards of steel about the room.
 
-The hot shards of steel slice through your skin.  It burns!
+The hot shards of steel slice through your skin. It burns!
 
 You have gained 50 drachma.
 
 Avatar uncovers an old iron-bound chest.
 
-  An enormous creature appears and begins to survey the area. .
+ An enormous creature appears and begins to survey the area. .
 
 And here is another chest..
 
@@ -506,7 +507,7 @@ titan boots..It emits a faint humming sound!
 
 <div class="post" data-post-id="14442" data-author="Jother" data-date="2006-10-01T22:34:54+00:00" data-subject="">
 
-Congratulations!!  Even though I am a descendent of the throne and
+Congratulations!! Even though I am a descendent of the throne and
 
 perhaps rightful heir to the weapons, I trust you will make better us
 
@@ -514,7 +515,7 @@ of them for now.
 
 I feel satisfied at uncovering the truth about Cannactum for the world
 
-to see.  Perhaps we will meet again some time, as I believe I will now
+to see. Perhaps we will meet again some time, as I believe I will now
 
 endeavor to discover the story behind how these great weapons came to
 
@@ -526,7 +527,7 @@ Jother the Archeologist
 
 <div class="post" data-post-id="14444" data-author="Shyla" data-date="2006-10-01T22:46:33+00:00" data-subject="">
 
-<697hp 490ma 195mv>
+\<697hp 490ma 195mv\>
 
 l in chest
 
@@ -592,7 +593,7 @@ titan boots..It emits a faint humming sound!
 
 <div class="post" data-post-id="14451" data-author="osric" data-date="2006-10-02T03:42:06+00:00" data-subject="">
 
-This was a great quest guys, I really enjoyed it, group ran smooth, a few good deaths, great rewards, etc.  Great leadership from Polk, deadly tanking skills from Alias, Atwell, Tin, etc.  Nonstop posting from Krok (not to mention some area running). Great detective skills from the group as a whole, Lis did some good running too as I recall.  And it was all tied into the new look for the website, great way to get everyone involved! Thanks Leaders! Thanks Imms!
+This was a great quest guys, I really enjoyed it, group ran smooth, a few good deaths, great rewards, etc. Great leadership from Polk, deadly tanking skills from Alias, Atwell, Tin, etc. Nonstop posting from Krok (not to mention some area running). Great detective skills from the group as a whole, Lis did some good running too as I recall. And it was all tied into the new look for the website, great way to get everyone involved! Thanks Leaders! Thanks Imms!
 
 </div>
 
@@ -608,15 +609,15 @@ Is there any idea when the next one will be run? or is there a time / day when y
 
 <div class="post" data-post-id="14488" data-author="Avatar" data-date="2006-10-03T15:30:32+00:00" data-subject="quest etc">
 
-There were several things I really enjoyed about the quest.  I don't need to list them all here for discussion, maybe I'll post more thoughts later, but it was really fun and everyone involved seemed to have a good time.
+There were several things I really enjoyed about the quest. I don't need to list them all here for discussion, maybe I'll post more thoughts later, but it was really fun and everyone involved seemed to have a good time.
 
-Of course, we had technical difficulties with the connection, so some people weren't able to play when the quest resumed.  It's understandable to be discouraged by that, but it seems pretty unavoidable - there's always the possibility that something will break and we can't play.  It was down for several hours, but a lot of people reconnected within minutes of it being back up.
+Of course, we had technical difficulties with the connection, so some people weren't able to play when the quest resumed. It's understandable to be discouraged by that, but it seems pretty unavoidable - there's always the possibility that something will break and we can't play. It was down for several hours, but a lot of people reconnected within minutes of it being back up.
 
-One of the things that I liked was that the quest activities were broken up into multiple tasks, and the tasks didn't have to be completed in one 10 or 12 hour session.  It's hard for some people to dedicate that amount of time to one sloth session for whatever reasons.  I always felt sorry for people who (for example) participated for 8 hours but then couldn't stay for that last 2 hours of a quest.  Since they had to leave, they wouldn't be able to see the completion or get rewards.  The current quest, we participated over two days and got some dr for each of the subtasks.  If you only participated the first night, at least you still got some partial reward - and if you participated the next day for some part of the quest you still had very good chances of being included when we found a chest or two - and got rewarded for those.
+One of the things that I liked was that the quest activities were broken up into multiple tasks, and the tasks didn't have to be completed in one 10 or 12 hour session. It's hard for some people to dedicate that amount of time to one sloth session for whatever reasons. I always felt sorry for people who (for example) participated for 8 hours but then couldn't stay for that last 2 hours of a quest. Since they had to leave, they wouldn't be able to see the completion or get rewards. The current quest, we participated over two days and got some dr for each of the subtasks. If you only participated the first night, at least you still got some partial reward - and if you participated the next day for some part of the quest you still had very good chances of being included when we found a chest or two - and got rewarded for those.
 
-On the same subject, the total dr awarded depended on the number of players in the group.  This encourages us to gather as many players as possible...if the dr rewarded per chest was set to a specific amount (ex. 100) then if we recruited additional players our individual reward would have decreased.  I think the dr amount per player works better.
+On the same subject, the total dr awarded depended on the number of players in the group. This encourages us to gather as many players as possible...if the dr rewarded per chest was set to a specific amount (ex. 100) then if we recruited additional players our individual reward would have decreased. I think the dr amount per player works better.
 
-Further, after each chest was found, battle was fought, and dr was rewarded Polk and I made specific efforts to advertise that the group was open, unlocked, and that people who wanted to join could.  During the searches it may have been difficult for everyone to participate (limited number of rods) but we only locked the group after a chest was found and during that fight.  I hope this means that more people were able to participate.  During other quests I've seen the quest groups were locked in the first ten minutes - and anyone who arrived late was not allowed to join.
+Further, after each chest was found, battle was fought, and dr was rewarded Polk and I made specific efforts to advertise that the group was open, unlocked, and that people who wanted to join could. During the searches it may have been difficult for everyone to participate (limited number of rods) but we only locked the group after a chest was found and during that fight. I hope this means that more people were able to participate. During other quests I've seen the quest groups were locked in the first ten minutes - and anyone who arrived late was not allowed to join.
 
 </div>
 
@@ -624,6 +625,6 @@ Further, after each chest was found, battle was fought, and dr was rewarded Polk
 
 Please check out the below link, it will explain to some degree why there was a limited number of rods and the process that we all went through to get the quest movng and this site finally launched.
 
-[<LINK_TEXT text="http://slothmudiii.blogspot.com/2006/10 ... -good.html">http://slothmudiii.blogspot.com/2006/10/perfect-is-enemy-of-good.html</LINK_TEXT>](http://slothmudiii.blogspot.com/2006/10/perfect-is-enemy-of-good.html)
+[http://slothmudiii.blogspot.com/2006/10/perfect-is-enemy-of-good.html](http://slothmudiii.blogspot.com/2006/10/perfect-is-enemy-of-good.html)
 
 </div>

@@ -22,11 +22,11 @@ Sir Robin
 
 <div class="post" data-post-id="6001" data-author="12345" data-date="2005-05-05T17:26:34+00:00" data-subject="">
 
-Manuals have a strange ability to travel.  If you check 'time started' and it shows the game has been up about half a day or so, there's a good chance the book book has already been popped by someone who doesn't need it and it's lying around somewhere.
+Manuals have a strange ability to travel. If you check 'time started' and it shows the game has been up about half a day or so, there's a good chance the book book has already been popped by someone who doesn't need it and it's lying around somewhere.
 
-Good places to check include the Valk library.  Sometimes folks bring the books back to Valk to sell them, or even just to drop them on the floor.  The scribe shop in BH is a good place to check for stray books.  If you have locate object, or know someone with the spell, it's handy to check to see if the book is already lying around.
+Good places to check include the Valk library. Sometimes folks bring the books back to Valk to sell them, or even just to drop them on the floor. The scribe shop in BH is a good place to check for stray books. If you have locate object, or know someone with the spell, it's handy to check to see if the book is already lying around.
 
-I'm not familiar with the City of Ice... though I know it's a newbie area.  The quickling area can be fairly agressive.  It's one of my least favorite areas at low levels, though it's got decent pop rates for books.  Try to stay hidden and keep an eye on your hps if you head that way.
+I'm not familiar with the City of Ice... though I know it's a newbie area. The quickling area can be fairly agressive. It's one of my least favorite areas at low levels, though it's got decent pop rates for books. Try to stay hidden and keep an eye on your hps if you head that way.
 
 </div>
 
@@ -34,7 +34,7 @@ I'm not familiar with the City of Ice... though I know it's a newbie area.  The 
 
 i would advice robin to go via thule (the city of ice) to pop the strike sb. However, if there's a need, just ping impz when you see him online and tell him "Can you pop a strike sb for me"...
 
-Although, that's the assumption that he's online and not afk. :)
+Although, that's the assumption that he's online and not afk. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

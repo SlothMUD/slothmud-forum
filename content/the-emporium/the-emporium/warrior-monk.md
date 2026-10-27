@@ -14,11 +14,11 @@ post_count: 2
 
 Warrior-monk for sale. It had developed specifically to be good both at tanking and monking. Therefore drachma had been invested into Cloak of Shadows (-.5ac +2dr) and Sacred Bracer (-.4ac +2hd +dr). Also 2nd class is druid, so it has best possible manaregen.
 
-1) Stats:
+1\) Stats:
 
-Kung %s  (level: 40)
+Kung %s (level: 40)
 
-Your levels:  Wa: 40 Dr: 40 Mo: 40 Cl: 40 Ne: 27 Ma: 21 Ba: 14 Th: 12 Av: 4 
+Your levels: Wa: 40 Dr: 40 Mo: 40 Cl: 40 Ne: 27 Ma: 21 Ba: 14 Th: 12 Av: 4 
 
 You are 24 years, 10 months, 23 days old.
 
@@ -60,77 +60,77 @@ Your song can affect as many as two people.
 
 You are affected by the following spells:
 
-   Avatar Sight                     
+ Avatar Sight 
 
-   Darksight                        
+ Darksight 
 
-   Perception                       
+ Perception 
 
-   Corpus Severence                 
+ Corpus Severence 
 
-   Bone Armor                       
+ Bone Armor 
 
-   An Unknown Blessing              
+ An Unknown Blessing 
 
-   Regeneration                     
+ Regeneration 
 
-   Nature's Revival                 
+ Nature's Revival 
 
-   Mobility                         
+ Mobility 
 
-   Undead Visage
+ Undead Visage
 
-2) Eq
+2\) Eq
 
 You are using:
 
-<used as light>      the symbol of the dark lord (with a flawed glowing gem attached to it)
+\<used as light\> the symbol of the dark lord (with a flawed glowing gem attached to it)
 
-<worn on finger>     a heavy iron ring
+\<worn on finger\> a heavy iron ring
 
-<worn on finger>     a heavy iron ring
+\<worn on finger\> a heavy iron ring
 
-<worn on shoulders>  blue steel shoulder guards
+\<worn on shoulders\> blue steel shoulder guards
 
-<worn around neck>   an amulet of protection..It glows red!..It glows violet!..It emits a faint 
+\<worn around neck\> an amulet of protection..It glows red!..It glows violet!..It emits a faint 
 
 humming sound!
 
-<worn on body>       an electrum cuirass..It glows violet!..It has a soft glowing aura!..It emits a 
+\<worn on body\> an electrum cuirass..It glows violet!..It has a soft glowing aura!..It emits a 
 
 faint humming sound!
 
-<worn on head>       spiked helm of black steel..It glows violet!..It emits a faint humming sound!
+\<worn on head\> spiked helm of black steel..It glows violet!..It emits a faint humming sound!
 
-<worn on legs>       the greaves of the forsaken (with a double-striped white sash (Sergeant) 
+\<worn on legs\> the greaves of the forsaken (with a double-striped white sash (Sergeant) 
 
 attached to it)
 
-<worn on feet>       a pair of blood covered boots
+\<worn on feet\> a pair of blood covered boots
 
-<worn on hands>      a pair of heavy iron gauntlets
+\<worn on hands\> a pair of heavy iron gauntlets
 
-<worn on arms>       Mithril Sleeves of the High Paladin..It has a soft glowing aura!
+\<worn on arms\> Mithril Sleeves of the High Paladin..It has a soft glowing aura!
 
-<worn as shield>     an olive turtle dragon shell
+\<worn as shield\> an olive turtle dragon shell
 
-<worn about body>    Cloak of Shadows..It emits a faint humming sound!
+\<worn about body\> Cloak of Shadows..It emits a faint humming sound!
 
-<worn about waist>   a feathered cincture
+\<worn about waist\> a feathered cincture
 
-<worn around wrist>  Sacred Bracer of the Dark Order..It emits a faint humming sound!
+\<worn around wrist\> Sacred Bracer of the Dark Order..It emits a faint humming sound!
 
-<worn around wrist>  a bony bracelet..It glows violet!..It emits a faint humming sound!
+\<worn around wrist\> a bony bracelet..It glows violet!..It emits a faint humming sound!
 
-<wielded>            Brilliant Sword of Valor..It emits a faint humming sound!
+\<wielded\> Brilliant Sword of Valor..It emits a faint humming sound!
 
-<held>               a demon's claw..It glows violet!..It has a soft glowing aura!
+\<held\> a demon's claw..It glows violet!..It has a soft glowing aura!
 
-3) Vaults.
+3\) Vaults.
 
 The char comes with the ah vault consisting of two rooms.
 
-4) Price: 70m
+4\) Price: 70m
 
 </div>
 

@@ -16,11 +16,11 @@ Anyone recognize what this note is for?
 
 The Elders have sent me their answer to your question about that
 
-unusual light effect.  If you can bring it to me, along with the
+unusual light effect. If you can bring it to me, along with the
 
 dust of six stones of each of the basic colors, I can bind it more
 
-solidly to this plane.  That should have some interesting effects.
+solidly to this plane. That should have some interesting effects.
 
 Regards,
 

@@ -20,9 +20,9 @@ i had a 20 minute problem not being able to pick up my own robe
 
 <div class="post" data-post-id="30230" data-author="Toxis" data-date="2009-11-06T01:23:13+00:00" data-subject="">
 
-I could swear it took you longer, zzzzzSNOOOORE,  God that sucked waiting for you to pick up your robe.
+I could swear it took you longer, zzzzzSNOOOORE, God that sucked waiting for you to pick up your robe.
 
--Toxis
+\-Toxis
 
 </div>
 

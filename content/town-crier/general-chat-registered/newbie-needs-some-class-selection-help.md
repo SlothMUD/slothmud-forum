@@ -16,9 +16,9 @@ Hey!
 
 I recently made a character on the game, but was dismayed to find out that it wasn't an optimal choice. I had picked mage/warrior/cleric/druid. By now I have somewhat of a basic grasp on the game and how to get started, etc.
 
-I would like a character that could solo later on if I wanted to, but also a character that would be useful in groups too. I'm really only interested in creating one character and playing it all the time, so I want to get it right the first (or I guess in this case, second) time. :P
+I would like a character that could solo later on if I wanted to, but also a character that would be useful in groups too. I'm really only interested in creating one character and playing it all the time, so I want to get it right the first (or I guess in this case, second) time. <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
-I'm a big fan of magic/casting in MUDs generally, so I guess I'd like to be a mage primary (or at least have mage somewhere in there). Are primary mages very useful in groups/solo situations? I don't care if I have to kick it back to secondary or whatever, as long as I can cast some spells. :P
+I'm a big fan of magic/casting in MUDs generally, so I guess I'd like to be a mage primary (or at least have mage somewhere in there). Are primary mages very useful in groups/solo situations? I don't care if I have to kick it back to secondary or whatever, as long as I can cast some spells. <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 It doesn't matter to me if a character is hard to start out with. I'm willing to put in the time and effort if it means the character will end up being good later on.
 
@@ -28,13 +28,13 @@ It doesn't matter to me if a character is hard to start out with. I'm willing to
 
 warrior/necro/mage/cleric seems a solid choice.
 
-But depending on who responds, you'll get at least 50 different suggestions :)
+But depending on who responds, you'll get at least 50 different suggestions <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="13960" data-author="Shyla" data-date="2006-09-11T05:11:29+00:00" data-subject="">
 
-why don't you take a look at some of the higher level characters with classos that might interest you and ask them about it what they like don't like...what they can solo , how they do in groups.  for instance ryquald is a mage druid warrior cleric who is a level 40 avatar.  ask him what he thinks of his character..why  he really likes it.  most if not all people won't mind answering questions for you.  But what it all boils down to is what YOU like because it might seem like a strange classo to me but if you love it who cares :)
+why don't you take a look at some of the higher level characters with classos that might interest you and ask them about it what they like don't like...what they can solo , how they do in groups. for instance ryquald is a mage druid warrior cleric who is a level 40 avatar. ask him what he thinks of his character..why he really likes it. most if not all people won't mind answering questions for you. But what it all boils down to is what YOU like because it might seem like a strange classo to me but if you love it who cares <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Shyla
 
@@ -42,25 +42,25 @@ Shyla
 
 <div class="post" data-post-id="13961" data-author="Diazz_Dizazter" data-date="2006-09-11T12:33:47+00:00" data-subject="">
 
-Im old school.  
+Im old school. 
 
 I'm a Wa/Ma/Th/Cl
 
 If/when I make a noobie, it will be a cl/th/ma/wa
 
-I do fairly well as a warrior mage, and I know a cleric thief will rock.  
+I do fairly well as a warrior mage, and I know a cleric thief will rock. 
 
 Basicaly you figure out what you wanna do, read skill tree's and help files,
 
-and decide in which direction you want to take.  Prime skills also can help
+and decide in which direction you want to take. Prime skills also can help
 
-your decision.  
+your decision. 
 
 This mud was built around the 4 standard classes, and thus those four class
 
-type can do exceedingly well.  The other four classes were added in recently,
+type can do exceedingly well. The other four classes were added in recently,
 
-and as such, the mud is still not prepared for necros and bards :)
+and as such, the mud is still not prepared for necros and bards <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -106,29 +106,33 @@ As so much of the early game is all surrounded by the token hunt to get good sta
 
 <div class="post" data-post-id="13963" data-author="Diazz_Dizazter" data-date="2006-09-11T13:28:29+00:00" data-subject="">
 
-[quote:2oe8z2yp]Fluidity: Stacks with Sanctuary and does a similar job only available to Dr.[/quote:2oe8z2yp]
+> <strong>Quote:</strong>
+> Fluidity: Stacks with Sanctuary and does a similar job only available to Dr.
 
-coconuts of soothing draught are cool...  (fluidity spell).
+coconuts of soothing draught are cool... (fluidity spell).
 
-[quote:2oe8z2yp]Stone Skin: -3ac available to Ma and Cl, Bone armor is a Ne sort of equivalent. [/quote:2oe8z2yp]
+> <strong>Quote:</strong>
+> Stone Skin: -3ac available to Ma and Cl, Bone armor is a Ne sort of equivalent.
 
-Iron skin for avatar, unsurpassed as far as I know.  
+Iron skin for avatar, unsurpassed as far as I know. 
 
-[quote:2oe8z2yp]Sanctuary: very very useful, not so easy to get from potions and only available to Cl at lvl 17. [/quote:2oe8z2yp]
+> <strong>Quote:</strong>
+> Sanctuary: very very useful, not so easy to get from potions and only available to Cl at lvl 17.
 
 Basicaly, you do not have a choice, cleric must fall someplace in your class
 
-order.  There is no class that can mimic clerics.  Refresh, sanc, stone 
+order. There is no class that can mimic clerics. Refresh, sanc, stone 
 
 skin, lloyds beacon, dark cloak, raise, heals, bless, curse, gate, word of
 
-recall.  Too much to list that makes cleric in class order essential.  If 
+recall. Too much to list that makes cleric in class order essential. If 
 
-nothing else, put cleric in 4th.    Clerics rock.  
+nothing else, put cleric in 4th. Clerics rock. 
 
-[quote:2oe8z2yp]pets play a big part in soloing: [/quote:2oe8z2yp]
+> <strong>Quote:</strong>
+> pets play a big part in soloing:
 
-handy, but not essential.  though the peri is handi even for a cleric quad.
+handy, but not essential. though the peri is handi even for a cleric quad.
 
 Actualy, the list can be broken down into:
 
@@ -136,7 +140,7 @@ casters: ma/cl/dr/necro.
 
 tank: warriors are only tanks.
 
-thief: thieves are only thieves.  
+thief: thieves are only thieves. 
 
 hybrid: monk (th/wa), bard (ma/wa/th)
 
@@ -146,15 +150,15 @@ But yeah, cleric is going someplace in class order.
 
 <div class="post" data-post-id="13964" data-author="Leaf" data-date="2006-09-11T17:35:10+00:00" data-subject="">
 
-Actually not every1 use Cleric in their class.  I believe it's Zukt that doesn't
+Actually not every1 use Cleric in their class. I believe it's Zukt that doesn't
 
-have Cleric but instead Necro.  Necros has Wall of Bones (or something)
+have Cleric but instead Necro. Necros has Wall of Bones (or something)
 
-that is just like Sanc.  However once u leave the room it goes bye bye.
+that is just like Sanc. However once u leave the room it goes bye bye.
 
-At tard you can get a Golem that does the same thing and follows you.  But
+At tard you can get a Golem that does the same thing and follows you. But
 
-again this golem can only go like 5 rooms and then poof gone.  Clerics
+again this golem can only go like 5 rooms and then poof gone. Clerics
 
 sancs are the best because they can last from 3-7 minutes.
 
@@ -190,13 +194,13 @@ It's all trial and error...
 
 <div class="post" data-post-id="13967" data-author="kjartan" data-date="2006-09-11T19:32:04+00:00" data-subject="">
 
-ma/cl/ne/dr doesn't get protect, which is a very useful thing to have in groups.  People have managed without it, but it's not a popular choice.  The other four classes all get it, so if you have any one of those you will be ok as far as that goes.
+ma/cl/ne/dr doesn't get protect, which is a very useful thing to have in groups. People have managed without it, but it's not a popular choice. The other four classes all get it, so if you have any one of those you will be ok as far as that goes.
 
 </div>
 
 <div class="post" data-post-id="13968" data-author="Guinex" data-date="2006-09-11T19:38:19+00:00" data-subject="">
 
-If you want to play a mage i suggest mage/cleric/warrior/necro, you will have some nice soloing abilities there and useful to a group.  Suggesting warrior as the fighter for a mage prime, since mirrors (or atleast i belive) you can't use any initiating attacks such as backstab or grip.  Druids only good use imho are for regen or killing pthieves in safe rooms.
+If you want to play a mage i suggest mage/cleric/warrior/necro, you will have some nice soloing abilities there and useful to a group. Suggesting warrior as the fighter for a mage prime, since mirrors (or atleast i belive) you can't use any initiating attacks such as backstab or grip. Druids only good use imho are for regen or killing pthieves in safe rooms.
 
 </div>
 
@@ -208,13 +212,14 @@ quad druid is kind of useless, you only get +7mr points and, umm, rarely used sh
 
 <div class="post" data-post-id="13970" data-author="Centinex" data-date="2006-09-11T19:56:26+00:00" data-subject="">
 
-If you want to play a mage i suggest mage/cleric/warrior/necro, you will have some nice soloing abilities there and useful to a group.  Suggesting warrior as the fighter for a mage prime, since mirrors (or atleast i belive) you can't use any initiating attacks such as backstab or grip.  Druids only good use imho are for regen or killing pthieves in safe rooms.[/quote:276hxgrz]
+> <strong>Guinex wrote:</strong>
+> If you want to play a mage i suggest mage/cleric/warrior/necro, you will have some nice soloing abilities there and useful to a group. Suggesting warrior as the fighter for a mage prime, since mirrors (or atleast i belive) you can't use any initiating attacks such as backstab or grip. Druids only good use imho are for regen or killing pthieves in safe rooms.
 
 Thanks for all the help and suggestions, people. 
 
 This ^^ is the kind of thing I was waiting for. I might actually go ahead and make a M/C/W/N, unless anyone thinks its a bad idea.
 
-I just don't want to play for 3 months and then end up going "Gee, I wish I took bard instead of necro" or something like that. You know what I mean. :P
+I just don't want to play for 3 months and then end up going "Gee, I wish I took bard instead of necro" or something like that. You know what I mean. <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 I don't have enough time to make a bunch of different characters. I just want to make one good character that will last me a while.
 
@@ -242,11 +247,11 @@ Every classo can get -11 ac.
 
 <div class="post" data-post-id="13973" data-author="Leaf" data-date="2006-09-11T20:08:22+00:00" data-subject="">
 
-BUT a M/C/Monk/N would also help out alot.  With Monk you can Grip,
+BUT a M/C/Monk/N would also help out alot. With Monk you can Grip,
 
 Passage, Protect, and Flurry to get an extra attack.
 
-There is not perfect char, it all depends on how u play.  You have to do
+There is not perfect char, it all depends on how u play. You have to do
 
 a lot of trial and error to find the BEST choice of Chars for YOU and only YOU!
 
@@ -262,7 +267,8 @@ Im pretty sure i said this but clearly leaf overlooked it, you can't grip with m
 
 <div class="post" data-post-id="13975" data-author="Leaf" data-date="2006-09-11T20:11:15+00:00" data-subject="">
 
-Im pretty sure i said this but clearly leaf overlooked it, you can't grip with mirrors, and mirrors are a big part of being a mage.[/quote:2wspii0e]
+> <strong>Guinex wrote:</strong>
+> Im pretty sure i said this but clearly leaf overlooked it, you can't grip with mirrors, and mirrors are a big part of being a mage.
 
 Fine you can't grip, but Counter Attack is a GREAT skill that a Mage would
 
@@ -272,7 +278,7 @@ need without a Warrior skill to Parry.
 
 <div class="post" data-post-id="13976" data-author="Guinex" data-date="2006-09-11T20:14:17+00:00" data-subject="">
 
-Fair enough, and Akasha is right.  Every classo has it ups and downs, once you learn to play the classo and the ins/outs of the game you will find tricks to doing almost anything.
+Fair enough, and Akasha is right. Every classo has it ups and downs, once you learn to play the classo and the ins/outs of the game you will find tricks to doing almost anything.
 
 </div>
 
@@ -280,7 +286,7 @@ Fair enough, and Akasha is right.  Every classo has it ups and downs, once you l
 
 The problem with the 4 new classes is they are only good good with their
 
-prime abilities.  Everything is about sacrifices.  Give this for that, tit for tat.
+prime abilities. Everything is about sacrifices. Give this for that, tit for tat.
 
 All about what ya wanna do though.
 
@@ -292,17 +298,17 @@ True That True That!!!
 
 I would suggest because u LOVE to be a caster ... Mage/Cler/War/xx
 
-4th class is tricky.  
+4th class is tricky. 
 
 Necro = No as a Mage Prime ur not going to order ur summons to attack
 
-something.  There is a Summon Lag that would most likey kill u before u
+something. There is a Summon Lag that would most likey kill u before u
 
 can blast.
 
 Bard = Maybe u get hp,ma,mv, and ur songs can help groups.
 
-Thief = No, because u would only get hp, mv and can't stab with mirrors.  
+Thief = No, because u would only get hp, mv and can't stab with mirrors. 
 
 Only Pos would be Stab, ability to see inventories, and some of the skills
 
@@ -318,7 +324,7 @@ Sooo the 4th can either be Bard or Druid.
 
 <div class="post" data-post-id="13979" data-author="Centinex" data-date="2006-09-11T20:31:31+00:00" data-subject="">
 
-Ahhhhh, this is so confusing.  :lol:
+Ahhhhh, this is so confusing. <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -332,13 +338,16 @@ Centinex your not going to get a stone cold answer, because there is no right an
 
 <div class="post" data-post-id="13981" data-author="Diazz_Dizazter" data-date="2006-09-11T21:16:49+00:00" data-subject="">
 
-[quote:2evq4v3m]No offense Diazz buy you can say that about every class.
-
-Centinex your not going to get a stone cold answer, because there is no right answer.[/quote:2evq4v3m]
+> <strong>Quote:</strong>
+> No offense Diazz buy you can say that about every class.
+> 
+> 
+> 
+> Centinex your not going to get a stone cold answer, because there is no right answer.
 
 Yes you can say this about every class, how ever, with the older classes, you
 
-give up more then you gain.  
+give up more then you gain. 
 
 And Yeah -- there is no right answer.
 
@@ -354,7 +363,7 @@ So yeah, I guess I'm just going to have to pick something and roll with it.
 
 Mage/ Cleric/ (Monk/warrior)/ (Necro/Bard)
 
-I guess I'll come up with something. :P
+I guess I'll come up with something. <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 Anyway, I REALLY appreciate all the input from you guys/girls. It's definately given me a lot of insight on the game.
 
@@ -376,11 +385,11 @@ Maybe it's just me, but I don't see much use of War in 3rd compare to Monk.
 
 Counter Attack, and Passage are great skills for Monks ...
 
-Use Mirrors, Counter Attack, Passage, walk in Curse/Damn flee.  Passage 
+Use Mirrors, Counter Attack, Passage, walk in Curse/Damn flee. Passage 
 
 come in blast, flee, passage come in blast flee ... rinse and repeat.
 
-MY Suggestion and this is only me.  Mage/Cleric/Monk/Bard
+MY Suggestion and this is only me. Mage/Cleric/Monk/Bard
 
 </div>
 
@@ -396,7 +405,7 @@ Ma Ne Cl Ba - Big followers, aegis wraithform, bard songs for followers and grou
 
 Ma Ne Cl Mo - Big followers, aegis wraithform, mage style or deathgrip
 
-I feel the power of a mage is in spellcasting, this makes warrior a bad choice for me.  Bards have just as much ac gear, more mana, can sing songs, see inventorys, sneak and hide. Monks get deathgrip/deathtouch, counterattack, presage and focus which I think outdo the warrior skills.  If you want to spend the time messing with corpses and doing alot of prep work necro is the way to go.  Necro seems to be more beneficial to solo type players (spectral shield not included), whereas the druid classo is more of a support/group powerhouse.  If you want to hop in and go Ma Dr packs alot of mana and the mr to keep you casting all day strong.
+I feel the power of a mage is in spellcasting, this makes warrior a bad choice for me. Bards have just as much ac gear, more mana, can sing songs, see inventorys, sneak and hide. Monks get deathgrip/deathtouch, counterattack, presage and focus which I think outdo the warrior skills. If you want to spend the time messing with corpses and doing alot of prep work necro is the way to go. Necro seems to be more beneficial to solo type players (spectral shield not included), whereas the druid classo is more of a support/group powerhouse. If you want to hop in and go Ma Dr packs alot of mana and the mr to keep you casting all day strong.
 
 Mike
 
@@ -406,7 +415,7 @@ Mike
 
 Will, will, will...
 
-That's PRESAGE, don't confuse the newbie. :P
+That's PRESAGE, don't confuse the newbie. <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 It's a good combo, but will a mage with mirrors need presage?
 
@@ -416,9 +425,9 @@ The classo I'd suggest is Ma/Dr/Cl/Ba. I'd say why, but I'm pissed because Randy
 
 <div class="post" data-post-id="13987" data-author="Leaf" data-date="2006-09-12T02:50:42+00:00" data-subject="">
 
-Mark, Mark, Mark ... the guy is like +50 yrs old give him a break  :twisted: 
+Mark, Mark, Mark ... the guy is like +50 yrs old give him a break <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-But it all depends on how u want to solo.  =)
+But it all depends on how u want to solo. =)
 
 </div>
 
@@ -432,29 +441,39 @@ Is there problems getting equipment without bard or warrior in your classo? It s
 
 <div class="post" data-post-id="13989" data-author="Akasha" data-date="2006-09-12T04:15:22+00:00" data-subject="">
 
-Most things that have good armor class are going to be warrior/bard/monk/thief restricted.  There are items at higher levels that casters can wear to boost their armorclass, but easrly on, you're going to be a strict grouper till you can wear it.
+Most things that have good armor class are going to be warrior/bard/monk/thief restricted. There are items at higher levels that casters can wear to boost their armorclass, but easrly on, you're going to be a strict grouper till you can wear it.
 
 </div>
 
 <div class="post" data-post-id="13990" data-author="Clink" data-date="2006-09-12T10:53:54+00:00" data-subject="">
 
-[quote:2p3fi6bp]No offense Diazz buy you can say that about every class.
+> <strong>Diazz\_Dizazter wrote:</strong>
+> > <strong>Quote:</strong>
+> > No offense Diazz buy you can say that about every class.
+> > 
+> > 
+> > 
+> > Centinex your not going to get a stone cold answer, because there is no right answer.
+> 
+> 
+> 
+> 
+> 
+> And Yeah -- there is no right answer.
+> 
+> 
+> 
+> there is no spoon!
 
-Centinex your not going to get a stone cold answer, because there is no right answer.[/quote:2p3fi6bp]
+I'm a glass half full kinda guy. Doesn't that mean that there is no wrong answer?
 
-And Yeah -- there is no right answer.
+What this probably comes down to is there are many acceptable class orders and a few clunkers (clinkers?). And I mean specifically a few specific orderings of class selection not combinations of class seleecions (permutations instead of combinations). 
 
-there is no spoon![/quote:2p3fi6bp]
+There are 56 permutations and I doubt anyone has given them a try to 3x40 to understand how well they perform. In absence of that, I'd say go with whatever style fits you and the fun will come. 
 
-I'm a glass half full kinda guy.  Doesn't that mean that there is no wrong answer?
+This mud is still changing (sometimes subtly, sometimes not) and perhaps it will hit the sweet spot of your class ordering for a while or perhaps it will drift away from it. In either case, it will likely swing back and forth as it has for the past 9+ years of this version of Sloth.
 
-What this probably comes down to is there are many acceptable class orders and a few clunkers (clinkers?).   And I mean specifically a few specific orderings of class selection not combinations of class seleecions (permutations instead of combinations).  
-
-There are 56 permutations and I doubt anyone has given them a try to 3x40 to understand how well they perform.  In absence of that, I'd say go with whatever style fits you and the fun will come.  
-
-This mud is still changing (sometimes subtly, sometimes not) and perhaps it will hit the sweet spot of your class ordering for a while or perhaps it will drift away from it.  In either case, it will likely swing back and forth as it has for the past 9+ years of this version of Sloth.
-
-Do or do not.  There is no try.
+Do or do not. There is no try.
 
 Clink
 
@@ -464,7 +483,7 @@ Clink
 
 you said (clinker)
 
- :mrgreen:  :mrgreen:  :mrgreen:
+ <img src="/images/smilies/icon_mrgreen.svg" alt=":mrgreen:" title=":mrgreen:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_mrgreen.svg" alt=":mrgreen:" title=":mrgreen:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_mrgreen.svg" alt=":mrgreen:" title=":mrgreen:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -472,7 +491,7 @@ you said (clinker)
 
 I think I'm going to stick with the M/D/C/O. Seems pretty fun to me so far.
 
-Thanks for the help. :)
+Thanks for the help. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -500,11 +519,11 @@ What gives? I didn't use a token...
 
 <div class="post" data-post-id="14000" data-author="Leaf" data-date="2006-09-12T21:12:35+00:00" data-subject="">
 
-Your stats can change on the EQ u wear.  So more then likey u have some
+Your stats can change on the EQ u wear. So more then likey u have some
 
 eq on u that changed ur stats.
 
-Str: 14 / 0, Int: 17, Wis: 16, Dex: 14, Con: 14  even with eq is pretty low.
+Str: 14 / 0, Int: 17, Wis: 16, Dex: 14, Con: 14 even with eq is pretty low.
 
 I believe u should aim for at least 18int as a Mage.
 
@@ -516,7 +535,7 @@ The xx are ur lowest stats and doesn't much matter as a caster.
 
 <div class="post" data-post-id="14002" data-author="Hades" data-date="2006-09-13T00:20:22+00:00" data-subject="switch 4th and go long">
 
-would swap druid 4th  choice for bard... u get prot skill for groups and songs kick ass.. plus there be a nifty use of bard I won't mention here...
+would swap druid 4th choice for bard... u get prot skill for groups and songs kick ass.. plus there be a nifty use of bard I won't mention here...
 
 oh.. and don't level past 20 unless your mostly happy with your stat roll.. people will no doubt argue level up and have fun... I'd commect stay below... have fun and get your perm stats.. it'll save alot of teeth wrenching later on..
 
@@ -548,11 +567,11 @@ xx = Mage or Necro
 
 I would lean on Mage more, because they give more mana then Necros as
 
-3rd or so I believe.  Also this will give u some ability to blast.
+3rd or so I believe. Also this will give u some ability to blast.
 
 Druid 2nd will help with the fast mr, and Bard 4th helps with Protect, 2x
 
-attack, trip and other skills.  Also as a bard u can rina for a raise :)
+attack, trip and other skills. Also as a bard u can rina for a raise <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Also I would believe deleteing an old char with drachma eq wouldn't help
 
@@ -572,11 +591,11 @@ Say I'm in a group of 5 people, me being a blaster and the other 4 being warrior
 
 <div class="post" data-post-id="14010" data-author="Daisy" data-date="2006-09-13T10:11:18+00:00" data-subject="">
 
-1.
+1\.
 
 Good luck to you Centinex, best of luck with the stat rolls, there are lots of views on what are good stats, personally I go with add all stats 60+ = ok 70+ = good 80+ = keepers rough rule but works mostly.
 
-2.
+2\.
 
 As far as a good blaster in a group goes I think any char that can add blinds in before assisting is a worthwhile and valuable member of a group and not in any sense leeching.
 
@@ -586,7 +605,7 @@ With good eq she runs in -8ac with about the best non dr weapon she can wield, e
 
 Fireball is the first really useful blasting spell, but all the others still count.
 
-3.
+3\.
 
 Perm Grouper Cl healo char
 
@@ -600,27 +619,27 @@ The only change to this that would make sense to me would be swap cl and dr to g
 
 <div class="post" data-post-id="14012" data-author="Leaf" data-date="2006-09-13T14:49:11+00:00" data-subject="">
 
-Curse first and then blind.  Once it's blind just attack it, don't even worry to
+Curse first and then blind. Once it's blind just attack it, don't even worry to
 
-much about colour spray.  Just save ur mana for cursing and blinding.
+much about colour spray. Just save ur mana for cursing and blinding.
 
-Stats always going to be hard to get but +80 is keeper for a caster.  More
+Stats always going to be hard to get but +80 is keeper for a caster. More
 
-Warriors need 18/+60 and usually a high dex or con.  Which all in all is hard
+Warriors need 18/+60 and usually a high dex or con. Which all in all is hard
 
-to get.  As a caster u mostly look at Int, Wis, and Dex (for ur class order).
+to get. As a caster u mostly look at Int, Wis, and Dex (for ur class order).
 
-I don't see a reason for Necro instead of Mage.  As a Necro u can wall ...
+I don't see a reason for Necro instead of Mage. As a Necro u can wall ...
 
-Cleric u can Sanc.  Necro u can soul ... Cleric u can heal massive with +heal
+Cleric u can Sanc. Necro u can soul ... Cleric u can heal massive with +heal
 
-eq.  Spec Shield & Wraith might be the only good thing.  However Cleric covers
+eq. Spec Shield \& Wraith might be the only good thing. However Cleric covers
 
 Spec Shield with Spell shield and Wraith is the only thing that would give an
 
-advantage.  However again ... Mage u can blast and sometimes it's better
+advantage. However again ... Mage u can blast and sometimes it's better
 
-to blast those ether or thick mobs then as a Necro :)
+to blast those ether or thick mobs then as a Necro <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -638,7 +657,7 @@ Come on Weasel just have some1 mort u for like 1hr and u will be able to solo.
 
 <div class="post" data-post-id="14061" data-author="Weasel" data-date="2006-09-15T21:16:27+00:00" data-subject="">
 
-:) new charname is Medico - just rented tho
+<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> new charname is Medico - just rented tho
 
 </div>
 

@@ -12,13 +12,13 @@ post_count: 15
 
 <div class="post" data-post-id="22002" data-author="zaxdad" data-date="2008-01-12T13:27:21+00:00" data-subject="Anyone here remember me?">
 
-I was bored and looked up the MUD I used to play ages ago...  even before it was SlothIII...   Anyone here still play from those days?  I was Neela who reached Immortal status and Oreo who was a Battlecleric...  I remember the days of fighting with Argent and Natas, chasing Hectordark around as the first player with Shadowwalk, teaming up with Fathermace, perfecting the pthieving with Chewie....
+I was bored and looked up the MUD I used to play ages ago... even before it was SlothIII... Anyone here still play from those days? I was Neela who reached Immortal status and Oreo who was a Battlecleric... I remember the days of fighting with Argent and Natas, chasing Hectordark around as the first player with Shadowwalk, teaming up with Fathermace, perfecting the pthieving with Chewie....
 
 </div>
 
 <div class="post" data-post-id="22003" data-author="Shyla" data-date="2008-01-12T15:39:46+00:00" data-subject="">
 
-On Sloth II I played lora.... I remember being one of the first to learn the maze because silly moonglum would die there constantly and I was about the only one who could get to him to raise him :)
+On Sloth II I played lora.... I remember being one of the first to learn the maze because silly moonglum would die there constantly and I was about the only one who could get to him to raise him <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 ahhh those were the days
 
@@ -28,7 +28,7 @@ now i play shyla and jacinda
 
 <div class="post" data-post-id="22004" data-author="zaxdad" data-date="2008-01-12T16:21:38+00:00" data-subject="">
 
-I remember Moonglum and the name Lora sounds familiar...  I remember when I made my first female character and Duncan kept hitting on me and kept restringing my items like turning my armor into a silk teddy and stuff like that...  Ohh...  Wulfgar was another big name guy I used to run around with a lot...
+I remember Moonglum and the name Lora sounds familiar... I remember when I made my first female character and Duncan kept hitting on me and kept restringing my items like turning my armor into a silk teddy and stuff like that... Ohh... Wulfgar was another big name guy I used to run around with a lot...
 
 </div>
 
@@ -40,7 +40,7 @@ I was Endor, immorted him, and started to play Christiana a bit towards the end.
 
 Used to run with UMaryland guys, Truffle, Adjutor, Pisa, and Dragon.
 
-Thanks for stopping by, come play sometime :)
+Thanks for stopping by, come play sometime <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Endor then/Mosaix now.
 
@@ -48,15 +48,15 @@ Endor then/Mosaix now.
 
 <div class="post" data-post-id="22007" data-author="zaxdad" data-date="2008-01-12T20:10:19+00:00" data-subject="">
 
-I was one of the UMaryland guys.  Pisa, Truffle, Dragon, Atticus, etc...  they were all roommates of mine. :)
+I was one of the UMaryland guys. Pisa, Truffle, Dragon, Atticus, etc... they were all roommates of mine. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="22008" data-author="Mosaix" data-date="2008-01-12T20:20:38+00:00" data-subject="">
 
-Thats cool :)  Adjutor and I, used to drive down from Baltimore to Truffles apartment, and we all linked up on computers there to play sloth, C and C, descent etc, while consuming lots of beer and Cluck-U-Chicken wings. 
+Thats cool <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> Adjutor and I, used to drive down from Baltimore to Truffles apartment, and we all linked up on computers there to play sloth, C and C, descent etc, while consuming lots of beer and Cluck-U-Chicken wings. 
 
-Good times :)
+Good times <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -70,7 +70,7 @@ E
 
 O
 
-It's aaron man, what's up :)
+It's aaron man, what's up <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 where's shandril?
 
@@ -78,7 +78,7 @@ where's shandril?
 
 <div class="post" data-post-id="22011" data-author="zaxdad" data-date="2008-01-12T21:58:04+00:00" data-subject="">
 
-The name Aaron sounds familiar...  who did you play?  And I got noshouted many times for my O-R-E-O chant...  :)
+The name Aaron sounds familiar... who did you play? And I got noshouted many times for my O-R-E-O chant... <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -100,48 +100,53 @@ I think I remember Neela.
 
 <div class="post" data-post-id="23010" data-author="zaxdad" data-date="2008-02-29T01:00:06+00:00" data-subject="">
 
-bruiser lira cubby rotten vinny nothing virgin riceman redcross nos 
+> <strong>13 wrote:</strong>
+> bruiser lira cubby rotten vinny nothing virgin riceman redcross nos 
+> 
+> it seems like there were a few more but I cant remember now
+> 
+> 
+> 
+> i \*\*\*\*\*\*\* hate hectordick 4ever
 
-it seems like there were a few more but I cant remember now
-
-i ******* hate hectordick 4ever[/quote:16t28vpo]
-
-Oh yeah... I remember you...  I remember that I used to help shelter you once in a while for a share of whatever you stole...  :D  You and my friend Chewie were some of the best ptheives around.  Chewie had to immort because Jake told him that he was getting away with so much that he was going to be made perma-killable...
+Oh yeah... I remember you... I remember that I used to help shelter you once in a while for a share of whatever you stole... <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> You and my friend Chewie were some of the best ptheives around. Chewie had to immort because Jake told him that he was getting away with so much that he was going to be made perma-killable...
 
 </div>
 
 <div class="post" data-post-id="23011" data-author="Tap" data-date="2008-02-29T01:27:56+00:00" data-subject="">
 
-[quote:1ueyh6oy]Chewie had to immort because Jake told him that he was getting away with so much that he was going to be made perma-killable...[/quote:1ueyh6oy]
+> <strong>Quote:</strong>
+> Chewie had to immort because Jake told him that he was getting away with so much that he was going to be made perma-killable...
 
 I imagine the conversation went something like this
 
-Jake:         Chewie, your'e going to have to be immortal if it kills you
+Jake: Chewie, your'e going to have to be immortal if it kills you
 
-Chewbie:  *head down and sulking* Ok, fine then, make me immortal
+Chewbie: \*head down and sulking\* Ok, fine then, make me immortal
 
 Sounds like my kind of guy, too bad I didn't find Slothmud2. I could have took some lessons.
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23012" data-author="zaxdad" data-date="2008-02-29T01:44:19+00:00" data-subject="">
 
-Actually Chewie had enough xp to immort and caught Jake by surprise by doing it...  :D
+Actually Chewie had enough xp to immort and caught Jake by surprise by doing it... <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23013" data-author="jezer" data-date="2008-02-29T02:00:56+00:00" data-subject="">
 
-Players with low post counts, names I never heard of, and talk of immortals and pthieving... I think I need to find myself a new place to drink, this bar is a little shady... :shock:
+Players with low post counts, names I never heard of, and talk of immortals and pthieving... I think I need to find myself a new place to drink, this bar is a little shady... <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23052" data-author="zaxdad" data-date="2008-03-03T03:32:17+00:00" data-subject="">
 
-Players with low post counts, names I never heard of, and talk of immortals and pthieving... I think I need to find myself a new place to drink, this bar is a little shady... :shock:[/quote:3eic61fs]
+> <strong>jezer wrote:</strong>
+> Players with low post counts, names I never heard of, and talk of immortals and pthieving... I think I need to find myself a new place to drink, this bar is a little shady... <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
-There's no school like the "old school". :D
+There's no school like the "old school". <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>

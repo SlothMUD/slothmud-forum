@@ -14,7 +14,7 @@ post_count: 1
 
 Greeting mortals.
 
-- Changed levels of Knight's prayer for "prac unlearned" purpose.  It now shows right on prac unlearned and change do not affect it in any other way.
+- Changed levels of Knight's prayer for "prac unlearned" purpose. It now shows right on prac unlearned and change do not affect it in any other way.
 
 Thanks Spoony, Blackmore and Melody for reporting.
 

@@ -16,13 +16,13 @@ You have +36 to hit and +17 on damage.
 
 A pike-wielding duergar hates your guts!
 
-You miss a pike-wielding duergar with your pierce.[/color:iudf4enl]
+You miss a pike-wielding duergar with your pierce.
 
-<945hp 64ma 234mv +10>
+\<945hp 64ma 234mv +10\>
 
 A pike-wielding duergar misses you with his pierce.
 
-You miss a pike-wielding duergar with your pierce.[/color:iudf4enl]
+You miss a pike-wielding duergar with your pierce.
 
 You massacre a pike-wielding duergar to small fragments with your pierce.
 
@@ -30,7 +30,7 @@ You deal a massive blow to one of a pike-wielding duergar's vital organs.
 
 You viciously massacre a pike-wielding duergar with your pierce.
 
-<946hp 65ma 234mv +10>
+\<946hp 65ma 234mv +10\>
 
 A pike-wielding duergar misses you with his pierce.
 
@@ -38,13 +38,13 @@ You massacre a pike-wielding duergar to small fragments with your pierce.
 
 You brutally massacre a pike-wielding duergar with your pierce.
 
-You miss a pike-wielding duergar with your pierce.[/color:iudf4enl]
+You miss a pike-wielding duergar with your pierce.
 
-<946hp 65ma 234mv +10>
+\<946hp 65ma 234mv +10\>
 
 A pike-wielding duergar misses you with his pierce.
 
-You miss a pike-wielding duergar with your pierce.[/color:iudf4enl]
+You miss a pike-wielding duergar with your pierce.
 
 You deal a massive blow to one of a pike-wielding duergar's vital organs.
 
@@ -84,7 +84,7 @@ Mobs get a desc talking about clothes too of course.
 
 <div class="post" data-post-id="23225" data-author="Medios" data-date="2008-03-14T00:09:59+00:00" data-subject="">
 
-I see these guys running around with a bunch of +hit and I just shake my head.  I run Medios at +15 +27dmg, with -8 ac and about 45sb.  I couldnt give up the dmg or spellbonus for +hit.  As far as dropping 3 points of ac so I can miss just as many stabs, not gonna do it.
+I see these guys running around with a bunch of +hit and I just shake my head. I run Medios at +15 +27dmg, with -8 ac and about 45sb. I couldnt give up the dmg or spellbonus for +hit. As far as dropping 3 points of ac so I can miss just as many stabs, not gonna do it.
 
 </div>
 
@@ -96,9 +96,10 @@ I think that +hit ceases to be beneficial somewhere around +20,21,22. This is ju
 
 <div class="post" data-post-id="23227" data-author="Autolycos" data-date="2008-03-14T14:33:33+00:00" data-subject="">
 
-People aren't normally naked under armor and robes and whatnot.[/quote:3gtgbrrl]
+> <strong>Rynquald wrote:</strong>
+> People aren't normally naked under armor and robes and whatnot.
 
-I am  :roll:
+I am <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -110,13 +111,13 @@ Jason likes to Commando Style it up!
 
 <div class="post" data-post-id="23231" data-author="Autolycos" data-date="2008-03-14T16:25:33+00:00" data-subject="">
 
-talk about +dex  ;)
+talk about +dex <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23232" data-author="13" data-date="2008-03-14T23:33:07+00:00" data-subject="">
 
-I run at 34/17 and +hit's not a problem,  but i would like more dmg.  Focus is cool and plus hit just doesnt matter unless you're fighting gargs(which might br changed, kj said he fucked eitht hem to test hitrolls.
+I run at 34/17 and +hit's not a problem, but i would like more dmg. Focus is cool and plus hit just doesnt matter unless you're fighting gargs(which might br changed, kj said he fucked eitht hem to test hitrolls.
 
 </div>
 
@@ -146,17 +147,17 @@ A reckon an avatar druid, monk, cleric, necro could have the maddest damage abso
 
 As Minstrel has said previously, its prolly unwise to sacrifice +hit for damage, unless you've got a really crappy hitroll.
 
-AC was fixed to work properly on mobs about a year ago i think? I think mob AC across the mud is set rather willy nilly. At one point people feared that thieves would be put out of business by improved mob ac (when KJ toyed with the gargoyles). But it never happened (and gargoyle ac was returned to normal). For hit roll to be more meaningful and consistent, mob AC would have to be also. So be careful what you ask to be "fixed".  :)
+AC was fixed to work properly on mobs about a year ago i think? I think mob AC across the mud is set rather willy nilly. At one point people feared that thieves would be put out of business by improved mob ac (when KJ toyed with the gargoyles). But it never happened (and gargoyle ac was returned to normal). For hit roll to be more meaningful and consistent, mob AC would have to be also. So be careful what you ask to be "fixed". <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23236" data-author="Akasha" data-date="2008-03-15T06:51:05+00:00" data-subject="">
 
-yeah, ive considered several times fixing mob AC and mob hitrolls to be consistent.   But I don't really think thats what you want across the board.
+yeah, ive considered several times fixing mob AC and mob hitrolls to be consistent. But I don't really think thats what you want across the board.
 
 Dragons imo should be much lower AC and much higher hitrolls, as should giants, gods, powers, and the like.
 
-Beware what you wish for ;)
+Beware what you wish for <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -166,7 +167,7 @@ Jezer, +26 to hit shifted is not the same as +26 unshifted. Players get thaco bo
 
 It will miss a mob or player character with -16 ac half the time and with
 
--10 ac 20% of the time.
+\-10 ac 20% of the time.
 
 Really you can make simple scripts to see how often to see you hit. You'll find most player characters unshifted hit 95% of the time.
 
@@ -178,7 +179,7 @@ As for fluidity, it makes a very significant difference, at least greater fluidi
 
 <div class="post" data-post-id="23246" data-author="Alberich" data-date="2008-03-16T18:32:50+00:00" data-subject="">
 
-well, i've been tracking my stabs, i seem to hit about 82% of the time (out of about 1000 stabs) at +20 hit.  I haven't tested that much with lower hit, i ran at +18 for a little while and hit about 81% but that was only out of maybe 3-400 stabs.
+well, i've been tracking my stabs, i seem to hit about 82% of the time (out of about 1000 stabs) at +20 hit. I haven't tested that much with lower hit, i ran at +18 for a little while and hit about 81% but that was only out of maybe 3-400 stabs.
 
 </div>
 
@@ -188,7 +189,7 @@ I run at +24 hit for stabbing, and here's what I got:
 
 TTL: 1608, Hits: 1321, Miss: 287, Rate: 82%, Exc.Blow: 18.
 
-Looks like its time to get rid of that hamster collar  :D
+Looks like its time to get rid of that hamster collar <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -210,11 +211,11 @@ The silk webbing simply falls to the ground, as the bachelor prince is already w
 
 The silk webbing simply falls to the ground, as the bachelor prince is already webbed!
 
-<1450hp 380ma 96mv -10.0ac +7al 77128769xp +42mr>
+\<1450hp 380ma 96mv -10.0ac +7al 77128769xp +42mr\>
 
 You massacre the bachelor prince to small fragments with your claw.
 
-You miss the bachelor prince with your claw.[/color:zoqrlbdp]
+You miss the bachelor prince with your claw.
 
 You massacre the bachelor prince to small fragments with your bite.
 
@@ -234,7 +235,7 @@ The bachelor prince massacres you to small fragments with his crush.
 
 You brutally massacre the bachelor prince with your claw.
 
-<1408hp 381ma 97mv -10.0ac +7al 77134874xp +42mr>
+\<1408hp 381ma 97mv -10.0ac +7al 77134874xp +42mr\>
 
 You massacre the bachelor prince to small fragments with your claw.
 
@@ -260,13 +261,13 @@ The bachelor prince suddenly rises up behind a huge black dragon (Apprentice) an
 
 You feel a sickly cold pain between your shoulders as the stiletto finds its target.
 
-<1323hp 367ma 103mv -10.0ac +7al 77141608xp +42mr>
+\<1323hp 367ma 103mv -10.0ac +7al 77141608xp +42mr\>
 
 You massacre the bachelor prince to small fragments with your claw.
 
 You miss the bachelor prince with your claw.
 
-You miss the bachelor prince with your bite.[/color:zoqrlbdp]
+You miss the bachelor prince with your bite.
 
 You massacre the bachelor prince to small fragments with your whip.
 
@@ -282,7 +283,7 @@ The bachelor prince misses you with his crush.
 
 You brutally massacre the bachelor prince with your claw.
 
-<1325hp 368ma 105mv -10.0ac +7al 77145900xp +42mr>
+\<1325hp 368ma 105mv -10.0ac +7al 77145900xp +42mr\>
 
 You massacre the bachelor prince to small fragments with your claw.
 
@@ -304,13 +305,13 @@ The bachelor prince's blow passes right through you with no effect!
 
 You brutally massacre the bachelor prince with your claw.
 
-<1286hp 370ma 107mv -10.0ac +7al 77153189xp +42mr>
+\<1286hp 370ma 107mv -10.0ac +7al 77153189xp +42mr\>
 
 You massacre the bachelor prince to small fragments with your claw.
 
 You massacre the bachelor prince to small fragments with your claw.
 
-You miss the bachelor prince with your bite.[/color:zoqrlbdp]
+You miss the bachelor prince with your bite.
 
 You brutally massacre the bachelor prince with your whip.
 
@@ -328,7 +329,7 @@ You brutally massacre the bachelor prince with your claw.
 
 You are thirsty.
 
-<1293hp 354ma 111mv -10.0ac +7al 77159183xp +42mr>
+\<1293hp 354ma 111mv -10.0ac +7al 77159183xp +42mr\>
 
 You brutally massacre the bachelor prince with your claw.
 
@@ -350,15 +351,15 @@ The bachelor prince misses you with his crush.
 
 You massacre the bachelor prince to small fragments with your claw.
 
-<1279hp 338ma 116mv -10.0ac +7al 77166361xp +42mr>
+\<1279hp 338ma 116mv -10.0ac +7al 77166361xp +42mr\>
 
-You miss the bachelor prince with your claw.[/color:zoqrlbdp]
+You miss the bachelor prince with your claw.
 
 You brutally massacre the bachelor prince with your claw.
 
 You massacre the bachelor prince to small fragments with your bite.
 
-You miss the bachelor prince with your whip.[/color:zoqrlbdp]
+You miss the bachelor prince with your whip.
 
 The bachelor prince's blow passes right through you with no effect!
 
@@ -372,7 +373,7 @@ The bachelor prince's blow passes right through you with no effect!
 
 You brutally massacre the bachelor prince with your claw.
 
-<1280hp 339ma 117mv -10.0ac +7al 77171134xp +42mr>
+\<1280hp 339ma 117mv -10.0ac +7al 77171134xp +42mr\>
 
 You brutally massacre the bachelor prince with your claw.
 
@@ -394,7 +395,7 @@ The bachelor prince misses you with his crush.
 
 You massacre the bachelor prince to small fragments with your claw.
 
-<1286hp 342ma 120mv -10.0ac +7al 77178719xp +42mr>
+\<1286hp 342ma 120mv -10.0ac +7al 77178719xp +42mr\>
 
 You massacre the bachelor prince to small fragments with your claw.
 
@@ -416,9 +417,9 @@ The bachelor prince's blow passes right through you with no effect!
 
 You brutally massacre the bachelor prince with your claw.
 
-<1271hp 325ma 124mv -10.0ac +7al 77185749xp +42mr>
+\<1271hp 325ma 124mv -10.0ac +7al 77185749xp +42mr\>
 
-You miss the bachelor prince with your claw.[/color:zoqrlbdp]
+You miss the bachelor prince with your claw.
 
 You brutally massacre the bachelor prince with your claw.
 
@@ -438,11 +439,11 @@ The bachelor prince massacres you to small fragments with his crush.
 
 You massacre the bachelor prince to small fragments with your claw.
 
-<1256hp 328ma 127mv -10.0ac +7al 77191447xp +42mr>
+\<1256hp 328ma 127mv -10.0ac +7al 77191447xp +42mr\>
 
 You massacre the bachelor prince to small fragments with your claw.
 
-You miss the bachelor prince with your claw.[/color:zoqrlbdp]
+You miss the bachelor prince with your claw.
 
 You massacre the bachelor prince to small fragments with your bite.
 
@@ -460,13 +461,13 @@ The bachelor prince's blow passes right through you with no effect!
 
 You brutally massacre the bachelor prince with your claw.
 
-<1263hp 312ma 131mv -10.0ac +7al 77196960xp +42mr>
+\<1263hp 312ma 131mv -10.0ac +7al 77196960xp +42mr\>
 
 score
 
-Apprentice send tell if u wanna hand with something  (level: 40)
+Apprentice send tell if u wanna hand with something (level: 40)
 
-Your levels:  Dr: 40 Cl: 40 Ne: 40 Ma: 40 Av: 3
+Your levels: Dr: 40 Cl: 40 Ne: 40 Ma: 40 Av: 3
 
 You are 27 years and 5 months old.
 
@@ -512,35 +513,35 @@ You are protected by a shield of thorns.
 
 You are affected by the following spells:
 
-   Detect Invisible
+ Detect Invisible
 
-   Sense Life
+ Sense Life
 
-   Darksight
+ Darksight
 
-   Aegis
+ Aegis
 
-   Fly
+ Fly
 
-   Water Breathing
+ Water Breathing
 
-   Stone Skin
+ Stone Skin
 
-   Strength
+ Strength
 
-   Greater Fluidity
+ Greater Fluidity
 
-   Wraithform
+ Wraithform
 
-   Shapeshift
+ Shapeshift
 
-   Shield of Thorns
+ Shield of Thorns
 
-   Haste
+ Haste
 
-<1264hp 312ma 131mv -10.0ac +7al 77196960xp +42mr>
+\<1264hp 312ma 131mv -10.0ac +7al 77196960xp +42mr\>
 
-You miss the bachelor prince with your claw.[/color:zoqrlbdp]
+You miss the bachelor prince with your claw.
 
 You massacre the bachelor prince to small fragments with your claw.
 
@@ -564,11 +565,11 @@ The bachelor prince's blow passes right through you with no effect!
 
 You massacre the bachelor prince to small fragments with your claw.
 
-<1225hp 315ma 134mv -10.0ac +7al 77202843xp +42mr>
+\<1225hp 315ma 134mv -10.0ac +7al 77202843xp +42mr\>
 
 Your body returns to its natural solid state.
 
-<1230hp 317ma 137mv -10.0ac +7al 77202843xp +42mr>
+\<1230hp 317ma 137mv -10.0ac +7al 77202843xp +42mr\>
 
 You brutally massacre the bachelor prince with your claw.
 
@@ -596,13 +597,13 @@ The bachelor prince suddenly rises up behind a huge black dragon (Apprentice) an
 
 You feel a sickly cold pain between your shoulders as the stiletto finds its target.
 
-<1177hp 298ma 137mv -10.0ac +7al 77209688xp +42mr>
+\<1177hp 298ma 137mv -10.0ac +7al 77209688xp +42mr\>
 
 You massacre the bachelor prince to small fragments with your claw.
 
 You massacre the bachelor prince to small fragments with your claw.
 
-You miss the bachelor prince with your bite.[/color:zoqrlbdp]
+You miss the bachelor prince with your bite.
 
 You brutally massacre the bachelor prince with your whip.
 
@@ -620,13 +621,13 @@ You brutally massacre the bachelor prince with your claw.
 
 The bachelor prince struggles weakly within the pile of sticky webs.
 
-<1182hp 301ma 141mv -10.0ac +7al 77215460xp +42mr>
+\<1182hp 301ma 141mv -10.0ac +7al 77215460xp +42mr\>
 
 You brutally massacre the bachelor prince with your claw.
 
 You massacre the bachelor prince to small fragments with your claw.
 
-You miss the bachelor prince with your bite.[/color:zoqrlbdp]
+You miss the bachelor prince with your bite.
 
 You massacre the bachelor prince to small fragments with your whip.
 
@@ -648,7 +649,7 @@ The bachelor prince suddenly rises up behind a huge black dragon (Apprentice) an
 
 You feel a sickly cold pain between your shoulders as the stiletto finds its target.
 
-<1134hp 304ma 144mv -10.0ac +7al 77220973xp +42mr>
+\<1134hp 304ma 144mv -10.0ac +7al 77220973xp +42mr\>
 
 You massacre the bachelor prince to small fragments with your claw.
 
@@ -672,7 +673,7 @@ You massacre the bachelor prince to small fragments with your claw.
 
 The bachelor prince struggles weakly within the pile of sticky webs.
 
-<1140hp 287ma 147mv -10.0ac +7al 77227300xp +42mr>
+\<1140hp 287ma 147mv -10.0ac +7al 77227300xp +42mr\>
 
 You massacre the bachelor prince to small fragments with your claw.
 
@@ -688,7 +689,7 @@ Your blood freezes as you hear the bachelor prince's death cry.
 
 The drunken wagoneer gets gold coins from inside the corpse of the bachelor prince.
 
-And yes... the drunken wagoneer paid for his treachery!  :twisted:
+And yes... the drunken wagoneer paid for his treachery! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 11 misses from about 81 attacks... A hit rate of 86% with +30 to hit... what is the point of +hit? Seems like it does nothing at all. 85% should be the hit rate of a plain skill without all this +hit business!
 
@@ -696,7 +697,8 @@ And yes... the drunken wagoneer paid for his treachery!  :twisted:
 
 <div class="post" data-post-id="23277" data-author="Vixn" data-date="2008-03-18T17:24:05+00:00" data-subject="">
 
-85% should be the hit rate of a plain skill without all this +hit business![/quote:od2x42e0]
+> <strong>jezer wrote:</strong>
+> 85% should be the hit rate of a plain skill without all this +hit business!
 
 Are you sure it 'should be' at 85%? 
 
@@ -724,7 +726,7 @@ AC-apply is -0.3
 
 Can affect you as:
 
-    Affects: HITROLL by 1
+ Affects: HITROLL by 1
 
 Only those who are at least master thieves or monks may use this item.
 
@@ -734,11 +736,11 @@ nice lil new item from chasm for thief types.
 
 <div class="post" data-post-id="23399" data-author="Avatar" data-date="2008-03-24T18:24:28+00:00" data-subject="stab to-hit">
 
-Years ago, I tested stab results by running a thief prime and collecting numbers for awhile.  My plan was to run with minimum to-hit bonus, collect numbers, then wear as much to-hit as I could find and collect numbers.  It's important to select your test mobs carefully.  If you're currently hitting all the time (no misses due to target AC) then improving your to-hit bonus wouldn't show any change.
+Years ago, I tested stab results by running a thief prime and collecting numbers for awhile. My plan was to run with minimum to-hit bonus, collect numbers, then wear as much to-hit as I could find and collect numbers. It's important to select your test mobs carefully. If you're currently hitting all the time (no misses due to target AC) then improving your to-hit bonus wouldn't show any change.
 
-My tests were done long before the new classes were introduced, I had a 40-30 thief-mage.  Warrior must have been in the teens, so I probably didn't have much inherent to-hit based on classes.  I found a set of 4 mobs that I hit/missed in normal battle about 50% of the time.  I ran that set of mobs and collected stab numbers just for those 4 mobs for 100 runs.  After that, I changed eq to wear an additional +11 to-hit.  I collected stab numbers for another 100 runs.
+My tests were done long before the new classes were introduced, I had a 40-30 thief-mage. Warrior must have been in the teens, so I probably didn't have much inherent to-hit based on classes. I found a set of 4 mobs that I hit/missed in normal battle about 50% of the time. I ran that set of mobs and collected stab numbers just for those 4 mobs for 100 runs. After that, I changed eq to wear an additional +11 to-hit. I collected stab numbers for another 100 runs.
 
-I don't have any of the original data to share, but the end result was "no difference".  Of course, this was years ago and much of the code may have changed since.  In summary, I myself wouldn't drop damage or AC for any additional to-hit.  In my experience, to-hit bonuses don't affect stab rates.  I don't have a thief prime anymore, but I'd be interested to see similar numbers from anyone else.
+I don't have any of the original data to share, but the end result was "no difference". Of course, this was years ago and much of the code may have changed since. In summary, I myself wouldn't drop damage or AC for any additional to-hit. In my experience, to-hit bonuses don't affect stab rates. I don't have a thief prime anymore, but I'd be interested to see similar numbers from anyone else.
 
 Charles
 
@@ -746,23 +748,26 @@ Charles
 
 <div class="post" data-post-id="23401" data-author="Alberich" data-date="2008-03-24T18:39:27+00:00" data-subject="">
 
-You feel informed:
-
-Object 'bloodstone skull ring blood stone', Item type: ARMOR
-
-Item is: GLOW MAGIC 
-
-Weight: 1, Value: 10000gold, Worn in: TAKE FINGER 
-
-AC-apply is -0.3
-
-Can affect you as:
-
-    Affects: HITROLL by 1
-
-Only those who are at least master thieves or monks may use this item.
-
-nice lil new item from chasm for thief types.[/quote:3u7tmm5l]
+> <strong>strider wrote:</strong>
+> You feel informed:
+> 
+> Object 'bloodstone skull ring blood stone', Item type: ARMOR
+> 
+> Item is: GLOW MAGIC 
+> 
+> Weight: 1, Value: 10000gold, Worn in: TAKE FINGER 
+> 
+> AC-apply is -0.3
+> 
+> Can affect you as:
+> 
+> Affects: HITROLL by 1
+> 
+> Only those who are at least master thieves or monks may use this item.
+> 
+> 
+> 
+> nice lil new item from chasm for thief types.
 
 where's that pop at?
 

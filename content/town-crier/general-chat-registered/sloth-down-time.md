@@ -34,7 +34,7 @@ I hope it all goes well for the recovery Splork.
 
 <div class="post" data-post-id="33303" data-author="blackmore" data-date="2012-05-12T00:02:43+00:00" data-subject="Re: Sloth Down time">
 
-Can I get reimbursed  for the Nekode I lost?
+Can I get reimbursed for the Nekode I lost?
 
 Someone was going to say it once it came back up, I figured I'd get it out of the way now.
 

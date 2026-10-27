@@ -14,35 +14,35 @@ post_count: 5
 
 I was part of this conversation today ... can anyone verify whether classo changes are allowed? If so under what conditions?
 
-anonymousA[~dragonsworn~]> 'say you are allowed to change 1 class in your classo once in a lifetime'
+anonymousA[\~dragonsworn\~]\> 'say you are allowed to change 1 class in your classo once in a lifetime'
 
 ...
 
-anonymousA[~dragonsworn~]> 'just because they do so much changes later on '
+anonymousA[\~dragonsworn\~]\> 'just because they do so much changes later on '
 
-anonymousB[~dragonsworn~]> 'are you? !!!!! REALLY ? !!!! news to me'
-
-...
-
-anonymousA[~dragonsworn~]> 'you take one class, and later they nerf it, whats the point'
+anonymousB[\~dragonsworn\~]\> 'are you? !!!!! REALLY ? !!!! news to me'
 
 ...
 
-anonymousC[~dragonsworn~]> 'they let ****** do it, but they rerolled him'
+anonymousA[\~dragonsworn\~]\> 'you take one class, and later they nerf it, whats the point'
+
+...
+
+anonymousC[\~dragonsworn\~]\> 'they let \*\*\*\*\*\* do it, but they rerolled him'
 
 </div>
 
 <div class="post" data-post-id="22450" data-author="Leaf" data-date="2008-02-01T19:20:50+00:00" data-subject="">
 
-I believe this has been done a few times.  However it is very rare.
+I believe this has been done a few times. However it is very rare.
 
-If it was the same as before, u would need to be 5x40 char.  As they will 
+If it was the same as before, u would need to be 5x40 char. As they will 
 
 bring you down to 3x40 and reroll ur stats so it will "fit" the new class order.
 
 Also I believe you need millions of gold and lots of tokens that helps rename
 
-ur eq.  Damn what are they called again .... restrings!
+ur eq. Damn what are they called again .... restrings!
 
 </div>
 
@@ -68,6 +68,6 @@ he's above the rules the rest of us have to abide by
 
 <div class="post" data-post-id="22456" data-author="Tap" data-date="2008-02-02T00:56:18+00:00" data-subject="">
 
-[img:35gy4xj3]http://operachic.typepad.com/photos/uncategorized/haterade.jpg[/img:35gy4xj3]
+![](http://operachic.typepad.com/photos/uncategorized/haterade.jpg)
 
 </div>

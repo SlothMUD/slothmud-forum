@@ -22,9 +22,9 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: REGEN_MANA by 2
+ Affects: REGEN\_MANA by 2
 
-    Affects: REGEN_HP by 1
+ Affects: REGEN\_HP by 1
 
 Only those who are at least experienced magic users or experienced clerics, 
 
@@ -36,12 +36,12 @@ or master warriors may use this item.
 
 <div class="post" data-post-id="312" data-author="Beagle" data-date="2004-05-25T05:43:55+00:00" data-subject="gold medal - 2mil">
 
-2mil :) :mrgreen:
+2mil <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_mrgreen.svg" alt=":mrgreen:" title=":mrgreen:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="354" data-author="Deju" data-date="2004-05-26T04:14:28+00:00" data-subject="Closed">
 
-Closed.  Beagle Wins for 2mil
+Closed. Beagle Wins for 2mil
 
 </div>

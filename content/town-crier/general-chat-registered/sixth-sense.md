@@ -16,15 +16,15 @@ Hello,
 
 can anybody advise please where sixth sense manual can be found. the eq list shows no popper:
 
-a dissertation on awareness and perception              in Unknown () [MAP]
+a dissertation on awareness and perception in Unknown () [MAP]
 
 Stats:	
 
-	OBJECT_SHORT_DESCRIPTION = a dissertation on awareness and perception
+	OBJECT\_SHORT\_DESCRIPTION = a dissertation on awareness and perception
 
-	OBJECT_TYPE = SPELLBOOK
+	OBJECT\_TYPE = SPELLBOOK
 
-	VALUE_SPELL = sixth sense
+	VALUE\_SPELL = sixth sense
 
 locate never shows it in game.
 

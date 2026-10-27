@@ -14,9 +14,9 @@ post_count: 10
 
 Not sure if clan board's are ingame but if not, they would make a nice
 
-addition.  Everyone else knows what I am talking about but for the those that don't (see Auto), board would allow only clan members to post stuff to each other and would in fact be located in the clan hideouts
+addition. Everyone else knows what I am talking about but for the those that don't (see Auto), board would allow only clan members to post stuff to each other and would in fact be located in the clan hideouts
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -56,7 +56,7 @@ Did you see that barking spider?!?
 
 <div class="post" data-post-id="13102" data-author="Weasel" data-date="2006-06-23T04:50:49+00:00" data-subject="">
 
-that was a [i:12qsjl81]spider[/i:12qsjl81]?
+that was a <em>spider</em>?
 
 </div>
 
@@ -66,9 +66,9 @@ Maybe board I seen in clan room was wrong board but it seemed to match
 
 the board at west gate and others, If I wanted to post a message to other
 
-clan members, someone not in clan could just find message easy and read what michief I had cooked up. 8) 
+clan members, someone not in clan could just find message easy and read what michief I had cooked up. <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> 
 
-Oh yeah. waterskins and barrels should be allowed to carry something besides water in them. :twisted:
+Oh yeah. waterskins and barrels should be allowed to carry something besides water in them. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -76,7 +76,7 @@ Oh yeah. waterskins and barrels should be allowed to carry something besides wat
 
 i'd be down with throwing some coins in on a board that was just availible for people to use inside of thier castles and not linked to the main ones at west gate etc...
 
-i seem to remember thinking they might be set up this way when i first tried the one in my castle.  think i posted a test note and when i went back to check there was a sexy test note posted by hotara in response... those where the days :twisted: 
+i seem to remember thinking they might be set up this way when i first tried the one in my castle. think i posted a test note and when i went back to check there was a sexy test note posted by hotara in response... those where the days <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 brand
 

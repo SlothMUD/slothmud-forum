@@ -12,7 +12,7 @@ post_count: 9
 
 <div class="post" data-post-id="34089" data-author="Yasik" data-date="2013-02-26T04:41:43+00:00" data-subject="Mob died from bloodloss carry no items/coins">
 
-**Mob dies from blood loss, almost never happens, but where's the loot? No items or coins, is this how it should be or is it bug?**
+<strong>Mob dies from blood loss, almost never happens, but where's the loot? No items or coins, is this how it should be or is it bug?</strong>
 
 ![](http://dl.dropbox.com/u/72105811/Pics/Bloodloss_rakasha_no_coins.jpg)
 
@@ -50,20 +50,20 @@ In any case, you'd prolly need to send more details to a coder. You say it happe
 
 <div class="post" data-post-id="34097" data-author="Magi" data-date="2013-02-27T22:49:51+00:00" data-subject="Re: Mob died from bloodloss carry no items/coins">
 
-> **Quote:**
+> <strong>Quote:</strong>
 > Also, there's times, when Autokill is ON, but I don't finish mob automatically with attacks (must "kill mob" additionally when its stunned/morted), and spells/skills without target says "Nobody here by that name.", as if Autokill is OFF.
 > 
 > On lower levels this problem happens a lot, on higher - rarely.
 
-This is definately related to pets. Despite autokill being on, you and your pet will both  stop fighting if your pet lands the blow that morts a mob.
+This is definately related to pets. Despite autokill being on, you and your pet will both stop fighting if your pet lands the blow that morts a mob.
 
-It is less noticable at high levels because you usually have more pets.  You and the first pet are pulled out of the fight, but the remaining pets are still fighting and finish it off.
+It is less noticable at high levels because you usually have more pets. You and the first pet are pulled out of the fight, but the remaining pets are still fighting and finish it off.
 
-No idea about the missing coins issue.  I have had it happen to me, (rarely) also on bloodloss.  To clarify, bloodloss usually doesn't have this affect, but every time I've gotten no coins, it has been after bloodloss.
+No idea about the missing coins issue. I have had it happen to me, (rarely) also on bloodloss. To clarify, bloodloss usually doesn't have this affect, but every time I've gotten no coins, it has been after bloodloss.
 
-Other causes of no coins are: someone killed the mob while ptesting, or someone charmed the mob.  I think it's nearly impossible to steal every coin from a mob. (Diminishing returns)
+Other causes of no coins are: someone killed the mob while ptesting, or someone charmed the mob. I think it's nearly impossible to steal every coin from a mob. (Diminishing returns)
 
-Unrelated: Is bloodloss neccessary? Bloodloss instantly or a few seconds after becoming morted happens frequently, mainly griefing newbies who don't deal enough damage to land killing blows.  If a mob was immune to bloodloss for the first minute, that'd help the little people.
+Unrelated: Is bloodloss neccessary? Bloodloss instantly or a few seconds after becoming morted happens frequently, mainly griefing newbies who don't deal enough damage to land killing blows. If a mob was immune to bloodloss for the first minute, that'd help the little people.
 
 </div>
 
@@ -93,119 +93,119 @@ Splork
 
 Made an example log to illustrate the situation. Me and my ghost, few minutes ago - ghost morted the mob, and all fight stopped, so I had to issue a command 'kill mob', while by design of Autokill I shouldn't.
 
-**autokill on**
+<strong>autokill on</strong>
 
-**Autokill mode is now on.**
+<strong>Autokill mode is now on.</strong>
 
-<466hp 117ma 164mv>  [-3]   AC: -6.0   EXP: 254,569   COINS: 53,824
+\<466hp 117ma 164mv\> [-3] AC: -6.0 EXP: 254,569 COINS: 53,824
 
-**setti**
+<strong>setti</strong>
 
 Verbosity:
 
-   BRIEF:               on 
+ BRIEF: on 
 
-   COMPACT:             off
+ COMPACT: off
 
-   PROMPT_CR:           off
+ PROMPT\_CR: off
 
-   CONCISE:             off
+ CONCISE: off
 
-   SHOWEXITS:           on 
+ SHOWEXITS: on 
 
-   ECHO:                on 
+ ECHO: on 
 
-   GAG FIGHT:           off
+ GAG FIGHT: off
 
-   GAG EQ:              off
+ GAG EQ: off
 
-   GAG TITLE:           off
+ GAG TITLE: off
 
 Communications:
 
-   GOSSIP:              on 
+ GOSSIP: on 
 
-   AUCTION:             on 
+ AUCTION: on 
 
-   NEWBIE:              on 
+ NEWBIE: on 
 
-   QUEST:               on 
+ QUEST: on 
 
-   NOTELL:              off
+ NOTELL: off
 
 Other:
 
-   ASCII MAP:           off
+ ASCII MAP: off
 
-   AUTOLOOT:            on 
+ AUTOLOOT: on 
 
-   AUTOSPLIT:           off
+ AUTOSPLIT: off
 
-**   AUTOKILL:            on **
+ <strong>AUTOKILL: on</strong> 
 
-   AUTOGROUP:           on 
+ AUTOGROUP: on 
 
-   PRIVATE:             off
+ PRIVATE: off
 
-   NUMFORMAT:           on 
+ NUMFORMAT: on 
 
-   LURK:                off
+ LURK: off
 
-   ISNEWBIE:            off
+ ISNEWBIE: off
 
-   LOGIN_TIME_EXTRAS:   off
+ LOGIN\_TIME\_EXTRAS: off
 
-   COMMS ONLY:          off
+ COMMS ONLY: off
 
-   ROOM COORDS:          off
+ ROOM COORDS: off
 
 Protocols:
 
-   MCCP:                on - V2 (In->667179, Out->81124, Saved 88%)
+ MCCP: on - V2 (In-\>667179, Out-\>81124, Saved 88%)
 
-   MXP:                 Unsupported
+ MXP: Unsupported
 
-   MSDP:                 Unsupported
+ MSDP: Unsupported
 
-   ATCP:                 Unsupported
+ ATCP: Unsupported
 
-<466hp 117ma 164mv>  [-3]   AC: -6.0   EXP: 254,569   COINS: 53,824
+\<466hp 117ma 164mv\> [-3] AC: -6.0 EXP: 254,569 COINS: 53,824
 
 look
 
-<466hp 117ma 166mv>  [-3]   AC: -6.0   EXP: 254,569   COINS: 53,824
+\<466hp 117ma 166mv\> [-3] AC: -6.0 EXP: 254,569 COINS: 53,824
 
 Edge of an Enchanted Forest
 
-   Large sycamore trees rise up to the heavens, gleaming with a soft glow.  
+ Large sycamore trees rise up to the heavens, gleaming with a soft glow. 
 
 The treetops rustle high above, and this, in combination with mysterious 
 
-twilight, produces an uneasy mood.  The tangled growth makes walking an 
+twilight, produces an uneasy mood. The tangled growth makes walking an 
 
-exercise in getting branch-slapped and thorn-torn.  To the west the travel 
+exercise in getting branch-slapped and thorn-torn. To the west the travel 
 
 appears slightly easier as the forest floor continues to decline, while an 
 
-absolutely impenetrable wall of sequoia trees blocks the passage southward.  
+absolutely impenetrable wall of sequoia trees blocks the passage southward. 
 
 What resembles the bustling of a city, comes from the south.
 
-Exits: North  East  
+Exits: North East 
 
 A band of colorful pink fur has been dropped here on the ground...It has a soft glowing aura!
 
-*A powerful looking mage wanders about the temple.
+\*A powerful looking mage wanders about the temple.
 
-**A ghostly form wavers in and out of existence nearby.**
+<strong>A ghostly form wavers in and out of existence nearby.</strong>
 
-*A powerful looking mage wanders about the temple.
+\*A powerful looking mage wanders about the temple.
 
-*A powerful looking mage wanders about the temple.
+\*A powerful looking mage wanders about the temple.
 
 A mystical bugbear wanders about the sacred land.
 
-<466hp 117ma 166mv>  [-3]   AC: -6.0   EXP: 254,569   COINS: 53,824
+\<466hp 117ma 166mv\> [-3] AC: -6.0 EXP: 254,569 COINS: 53,824
 
 TARGET: bugbear-servant
 
@@ -219,7 +219,7 @@ Frenzy
 
 You miss a servant of Blaster with your slash.
 
-<466hp 117ma 167mv>  [-3]   AC: -6.0   EXP: 254,569   COINS: 53,824
+\<466hp 117ma 167mv\> [-3] AC: -6.0 EXP: 254,569 COINS: 53,824
 
 You slash a servant of Blaster extremely hard.
 
@@ -229,11 +229,11 @@ A servant of Blaster misses you with his pound.
 
 You miss a servant of Blaster with your slash.
 
-<466hp 117ma 168mv>  [-3]   AC: -6.0   EXP: 254,985   COINS: 53,824
+\<466hp 117ma 168mv\> [-3] AC: -6.0 EXP: 254,985 COINS: 53,824
 
 A ghost pounds a servant of Blaster very hard.
 
-<466hp 117ma 169mv>  [-3]   AC: -6.0   EXP: 254,985   COINS: 53,824
+\<466hp 117ma 169mv\> [-3] AC: -6.0 EXP: 254,985 COINS: 53,824
 
 You slash a servant of Blaster extremely hard.
 
@@ -247,7 +247,7 @@ A servant of Blaster misses you with his pound.
 
 You slash a servant of Blaster extremely hard.
 
-<466hp 117ma 170mv>  [-3]   AC: -6.0   EXP: 256,365   COINS: 53,824
+\<466hp 117ma 170mv\> [-3] AC: -6.0 EXP: 256,365 COINS: 53,824
 
 You slash a servant of Blaster extremely hard.
 
@@ -261,11 +261,11 @@ A servant of Blaster misses you with his pound.
 
 You slash a servant of Blaster very hard.
 
-<466hp 117ma 172mv>  [-3]   AC: -6.0   EXP: 256,481   COINS: 53,824
+\<466hp 117ma 172mv\> [-3] AC: -6.0 EXP: 256,481 COINS: 53,824
 
 You begin to channel your anger and enter a state of frenzy.
 
-<466hp 117ma 173mv>  [-3]   AC: -6.0   EXP: 256,481   COINS: 53,824
+\<466hp 117ma 173mv\> [-3] AC: -6.0 EXP: 256,481 COINS: 53,824
 
 You slash a servant of Blaster very hard.
 
@@ -279,7 +279,7 @@ A servant of Blaster misses a ghost with his pound.
 
 You slash a servant of Blaster extremely hard.
 
-<466hp 117ma 174mv>  [-3]   AC: -6.0   EXP: 257,140   COINS: 53,824
+\<466hp 117ma 174mv\> [-3] AC: -6.0 EXP: 257,140 COINS: 53,824
 
 You slash a servant of Blaster extremely hard.
 
@@ -293,7 +293,7 @@ A servant of Blaster misses you with his pound.
 
 You massacre a servant of Blaster to small fragments with your slash.
 
-<466hp 117ma 176mv>  [-3]   AC: -6.0   EXP: 257,763   COINS: 53,824
+\<466hp 117ma 176mv\> [-3] AC: -6.0 EXP: 257,763 COINS: 53,824
 
 You slash a servant of Blaster extremely hard.
 
@@ -307,7 +307,7 @@ A servant of Blaster misses you with his pound.
 
 You slash a servant of Blaster extremely hard.
 
-<466hp 117ma 178mv>  [-3]   AC: -6.0   EXP: 258,874   COINS: 53,824
+\<466hp 117ma 178mv\> [-3] AC: -6.0 EXP: 258,874 COINS: 53,824
 
 You miss a servant of Blaster with your slash.
 
@@ -319,7 +319,7 @@ A servant of Blaster pounds a ghost very hard.
 
 A servant of Blaster misses you with his pound.
 
-<466hp 117ma 179mv>  [-3]   AC: -6.0   EXP: 258,874   COINS: 53,824
+\<466hp 117ma 179mv\> [-3] AC: -6.0 EXP: 258,874 COINS: 53,824
 
 You massacre a servant of Blaster to small fragments with your slash.
 
@@ -333,7 +333,7 @@ A servant of Blaster misses you with his pound.
 
 You slash a servant of Blaster extremely hard.
 
-<466hp 117ma 182mv>  [-3]   AC: -6.0   EXP: 259,490   COINS: 53,824
+\<466hp 117ma 182mv\> [-3] AC: -6.0 EXP: 259,490 COINS: 53,824
 
 You massacre a servant of Blaster to small fragments with your slash.
 
@@ -347,7 +347,7 @@ A servant of Blaster misses you with his pound.
 
 A servant of Blaster utters the words, 'judicandus iafwar'
 
-<466hp 117ma 183mv>  [-3]   AC: -6.0   EXP: 260,120   COINS: 53,824
+\<466hp 117ma 183mv\> [-3] AC: -6.0 EXP: 260,120 COINS: 53,824
 
 You massacre a servant of Blaster to small fragments with your slash.
 
@@ -363,7 +363,7 @@ You massacre a servant of Blaster to small fragments with your slash.
 
 A servant of Blaster utters the words, 'judicandus iafwar'
 
-<466hp 117ma 185mv>  [-3]   AC: -6.0   EXP: 260,956   COINS: 53,824
+\<466hp 117ma 185mv\> [-3] AC: -6.0 EXP: 260,956 COINS: 53,824
 
 You slash a servant of Blaster extremely hard.
 
@@ -375,7 +375,7 @@ A servant of Blaster misses a ghost with his pound.
 
 A servant of Blaster misses a ghost with his pound.
 
-<466hp 117ma 186mv>  [-3]   AC: -6.0   EXP: 261,324   COINS: 53,824
+\<466hp 117ma 186mv\> [-3] AC: -6.0 EXP: 261,324 COINS: 53,824
 
 You slash a servant of Blaster extremely hard.
 
@@ -389,91 +389,91 @@ A servant of Blaster misses you with his pound.
 
 You slash a servant of Blaster extremely hard.
 
-<466hp 117ma 188mv>  [-3]   AC: -6.0   EXP: 261,886   COINS: 53,824
+\<466hp 117ma 188mv\> [-3] AC: -6.0 EXP: 261,886 COINS: 53,824
 
 look
 
 Edge of an Enchanted Forest
 
-   Large sycamore trees rise up to the heavens, gleaming with a soft glow.  
+ Large sycamore trees rise up to the heavens, gleaming with a soft glow. 
 
 The treetops rustle high above, and this, in combination with mysterious 
 
-twilight, produces an uneasy mood.  The tangled growth makes walking an 
+twilight, produces an uneasy mood. The tangled growth makes walking an 
 
-exercise in getting branch-slapped and thorn-torn.  To the west the travel 
+exercise in getting branch-slapped and thorn-torn. To the west the travel 
 
 appears slightly easier as the forest floor continues to decline, while an 
 
-absolutely impenetrable wall of sequoia trees blocks the passage southward.  
+absolutely impenetrable wall of sequoia trees blocks the passage southward. 
 
 What resembles the bustling of a city, comes from the south.
 
-Exits: North  East  
+Exits: North East 
 
 A band of colorful pink fur has been dropped here on the ground...It has a soft glowing aura!
 
-*A powerful looking mage wanders about the temple.
+\*A powerful looking mage wanders about the temple.
 
-*A powerful looking mage wanders about the temple.
+\*A powerful looking mage wanders about the temple.
 
 A ghost is here, fighting a servant of Blaster
 
-*A powerful looking mage wanders about the temple.
+\*A powerful looking mage wanders about the temple.
 
-*A powerful looking mage wanders about the temple.
+\*A powerful looking mage wanders about the temple.
 
-A servant of Blaster is here, fighting  YOU!
+A servant of Blaster is here, fighting YOU!
 
-<466hp 117ma 189mv>  [-3]   AC: -6.0   EXP: 261,886   COINS: 53,824
+\<466hp 117ma 189mv\> [-3] AC: -6.0 EXP: 261,886 COINS: 53,824
 
 You slash a servant of Blaster extremely hard.
 
-**A ghost pounds a servant of Blaster very hard.**
+<strong>A ghost pounds a servant of Blaster very hard.</strong>
 
-**A servant of Blaster is mortally wounded, and will die soon, if not aided.**
+<strong>A servant of Blaster is mortally wounded, and will die soon, if not aided.</strong>
 
-<466hp 117ma 191mv>  [-3]   AC: -6.0   EXP: 262,102   COINS: 53,824
+\<466hp 117ma 191mv\> [-3] AC: -6.0 EXP: 262,102 COINS: 53,824
 
-**Kick
+<strong>Kick</strong>
 
-You don't see that person.**
+<strong>You don't see that person.</strong>
 
-<466hp 117ma 192mv>  [-3]   AC: -6.0   EXP: 262,102   COINS: 53,824
+\<466hp 117ma 192mv\> [-3] AC: -6.0 EXP: 262,102 COINS: 53,824
 
 A servant of Blaster lies immobile on the ground, suffering...
 
 A servant of Blaster is mortally wounded, and will die soon, if not aided.
 
-<466hp 117ma 196mv>  [-3]   AC: -6.0   EXP: 262,102   COINS: 53,824
+\<466hp 117ma 196mv\> [-3] AC: -6.0 EXP: 262,102 COINS: 53,824
 
 You calm down and return to a peaceful state of mind.
 
 Frenzy
 
-<466hp 117ma 197mv>  [-3]   AC: -6.0   EXP: 262,102   COINS: 53,824
+\<466hp 117ma 197mv\> [-3] AC: -6.0 EXP: 262,102 COINS: 53,824
 
 You begin to channel your anger and enter a state of frenzy.
 
-<466hp 117ma 198mv>  [-3]   AC: -6.0   EXP: 262,102   COINS: 53,824
+\<466hp 117ma 198mv\> [-3] AC: -6.0 EXP: 262,102 COINS: 53,824
 
-**Kick
+<strong>Kick</strong>
 
-You don't see that person.**
+<strong>You don't see that person.</strong>
 
-<466hp 117ma 199mv>  [-3]   AC: -6.0   EXP: 262,102   COINS: 53,824
+\<466hp 117ma 199mv\> [-3] AC: -6.0 EXP: 262,102 COINS: 53,824
 
-**Kick
+<strong>Kick</strong>
 
-You don't see that person.**
+<strong>You don't see that person.</strong>
 
-<466hp 117ma 200mv>  [-3]   AC: -6.0   EXP: 262,102   COINS: 53,824
+\<466hp 117ma 200mv\> [-3] AC: -6.0 EXP: 262,102 COINS: 53,824
 
-**bash
+<strong>bash</strong>
 
-Bash who?**
+<strong>Bash who?</strong>
 
-<466hp 117ma 201mv>  [-3]   AC: -6.0   EXP: 262,102   COINS: 53,824
+\<466hp 117ma 201mv\> [-3] AC: -6.0 EXP: 262,102 COINS: 53,824
 
 kill bugbear-servant
 

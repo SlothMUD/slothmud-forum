@@ -12,7 +12,7 @@ post_count: 2
 
 <div class="post" data-post-id="34317" data-author="Yasik" data-date="2013-06-12T07:57:22+00:00" data-subject="VK quester Erdogan">
 
-I'm in my tune, again. 8) 
+I'm in my tune, again. <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> 
 
 Recently noticed that VK quester's name (Erdogan) is just like of that Turkey prime minister we all know about, rudely suppressed demonstrations against central park development, closing art and culture institutions because they offend feelings of radical religious people, calling social media biggest menace to society etc etc.
 

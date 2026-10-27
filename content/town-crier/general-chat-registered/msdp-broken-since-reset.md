@@ -13,7 +13,7 @@ post_count: 7
 <div class="post" data-post-id="39812" data-author="Gorka" data-date="2021-09-06T19:14:50+00:00" data-subject="MSDP Broken Since Reset?">
 
 ```
-Welcome back Gorka!  Press return to continue...
+Welcome back Gorka! Press return to continue...
 
 Reconnecting.
 
@@ -38,7 +38,7 @@ I fixed the trigger and everything now works... however I think the issue on log
 
 I have mxp disabled in mudlet settings because it's buggy 
 
-Options > Preferences > Special Options > Force MXP Negotiations Off
+Options \> Preferences \> Special Options \> Force MXP Negotiations Off
 
 I turn on MSDP on the following 2 triggers since doing so makes the MXP message not show up.
 
@@ -47,13 +47,13 @@ Welcome to the land of SlothMUD. May your visit here be... Interesting.
 Reconnecting.
 ```
 
-However, I agree something has changed with MXP on this latest reboot - even with it off I get the following message on **channel who**
+However, I agree something has changed with MXP on this latest reboot - even with it off I get the following message on <strong>channel who</strong>
 
 ```
 Here are the currently open channels.
-Locked?  #Users  Name
+Locked? #Users Name
 ------------------------------------
-     No       5  	<SEND "channel join slackers|channel who slackers" hint="Join slackers|Show members of slackers?">slackers	</SEND>
+ No 5 <SEND "channel join slackers|channel who slackers" hint="Join slackers|Show members of slackers?">slackers	</SEND>
 ```
 
 which looks like MXP plaintext mixed in for some reason even though I have it turned off, plus the weird login stuff you're seeing.
@@ -62,35 +62,35 @@ which looks like MXP plaintext mixed in for some reason even though I have it tu
 
 <div class="post" data-post-id="39815" data-author="*teker*" data-date="2021-09-08T19:47:28+00:00" data-subject="Re: MSDP Broken Since Reset?">
 
-I believe this will be fixed at next reboot.  I was working on cleaning up some of the comm code (to try to figure out some of the MXP issues) and I think it accidentally got put into production.
+I believe this will be fixed at next reboot. I was working on cleaning up some of the comm code (to try to figure out some of the MXP issues) and I think it accidentally got put into production.
 
 </div>
 
 <div class="post" data-post-id="39837" data-author="cnl" data-date="2021-10-10T06:16:34+00:00" data-subject="Re: MSDP Broken Since Reset?">
 
-is there something that has broken msdp for SAVING_SPELL in CHARACTER_AFFECTS for "item-generated'
+is there something that has broken msdp for SAVING\_SPELL in CHARACTER\_AFFECTS for "item-generated'
 
-I'm seeing entries for things like HEAL_BONUS but not for SAVING_SPELL. 
+I'm seeing entries for things like HEAL\_BONUS but not for SAVING\_SPELL. 
 
 eg
 
-  ["0"] = {
+ ["0"] = {
 
-    DURATION = "-1",
+ DURATION = "-1",
 
-    LEVEL = "45",
+ LEVEL = "45",
 
-    MODIFY = "HEAL_BONUS",
+ MODIFY = "HEAL\_BONUS",
 
-    PERMANENT = "1",
+ PERMANENT = "1",
 
-    POINTS = "10",
+ POINTS = "10",
 
-    SOURCE = "item-generated"
+ SOURCE = "item-generated"
 
-  },
+ },
 
-I rely on this ("item-generated" SAVING_SPELL) quite heavily.
+I rely on this ("item-generated" SAVING\_SPELL) quite heavily.
 
 EDIT: Did confirm with 2 9x40s that it's not showing properly for them anymore either.
 
@@ -100,9 +100,9 @@ EDIT: Did confirm with 2 9x40s that it's not showing properly for them anymore e
 
 Umm, how did you rely on a non-existent thing? Are you sure you're looking into the right place?
 
-It never was on msdp.CHARACTER_AFFECTS with "item-generated". I think it appears there only in special cases with these sources (according to my logs): "fortune", "bless", "word of pain", "fare thee well" and "warcry".
+It never was on msdp.CHARACTER\_AFFECTS with "item-generated". I think it appears there only in special cases with these sources (according to my logs): "fortune", "bless", "word of pain", "fare thee well" and "warcry".
 
-I only use msdp.CHARACTER_STATISTICS.SAVING_THROWS.SPELL.MODIFIER – what's your use case?
+I only use msdp.CHARACTER\_STATISTICS.SAVING\_THROWS.SPELL.MODIFIER – what's your use case?
 
 </div>
 
@@ -116,37 +116,37 @@ I have a set of functions that's going into a loop and I'm not sure why. One of 
 
 ```
 function u.sumAffect(modify)
-  local sum = {
-    spell = 0,
-    class = 0,
-    item  = 0,
-  }
+ local sum = {
+ spell = 0,
+ class = 0,
+ item = 0,
+ }
 
-  for k,v in pairs(msdp.CHARACTER_AFFECTS) do
-    if v.MODIFY == modify then
-      local key
-      
-      if v.SOURCE == "item-generated" then
-        key = "item"
-      elseif v.SOURCE == "class" then
-        key = "class"
-      else
-        key = "spell"
-      end
-      
-      sum[key] = sum[key] + tonumber(v.POINTS)
-    end  
-  end
-  return sum
+ for k,v in pairs(msdp.CHARACTER_AFFECTS) do
+ if v.MODIFY == modify then
+ local key
+ 
+ if v.SOURCE == "item-generated" then
+ key = "item"
+ elseif v.SOURCE == "class" then
+ key = "class"
+ else
+ key = "spell"
+ end
+ 
+ sum[key] = sum[key] + tonumber(v.POINTS)
+ end 
+ end
+ return sum
 end
 
 function u.sumAffectSavingSpell()
-  return u.sumAffect("SAVING_SPELL")
+ return u.sumAffect("SAVING_SPELL")
 end
 ```
 
-and my initial read was perhaps that this adding up to the wrong value was the cause of it looping but looking through my logs I'm kind of thinking you're right and msdp.CHARACTER_AFFECTS never included item-generated SAVING_SPELL
+and my initial read was perhaps that this adding up to the wrong value was the cause of it looping but looking through my logs I'm kind of thinking you're right and msdp.CHARACTER\_AFFECTS never included item-generated SAVING\_SPELL
 
-EDIT: OK, this was totally my fault. The values aren't what are expected because I can't wear all items in the eqsets. Sorry :(
+EDIT: OK, this was totally my fault. The values aren't what are expected because I can't wear all items in the eqsets. Sorry <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>

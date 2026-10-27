@@ -32,22 +32,22 @@ Prime bonus bonuses +dam/hit/mr/-0.1ac?
 
 Essentially, how do we know that you can get enough cumulative bonuses for repeat rebirth to be worth it?
 
-Get on your calculator again :D
+Get on your calculator again <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="38457" data-author="*Breeze*" data-date="2017-10-29T08:15:45+00:00" data-subject="Re: Rebirth Shop?">
 
-from  
+from 
 
-<LINK_TEXT text="http://www.slothmud.org/forum/viewtopic ... 948#p37948">http://www.slothmud.org/forum/viewtopic.php?f=26&t=4712&p=37948#p37948</LINK_TEXT>
+http://www.slothmud.org/forum/viewtopic.php?f=26&t=4712&p=37948#p37948
 
-> ***Breeze* wrote:**
+> <strong>\*Breeze\* wrote:</strong>
 > .. snip ..
 > 
 > 
 > 
-> no longer doing rebirth shop  (mainly because I don't need people questioning my integrity and trying to force me to do things I am not willing to.. you know who you are. ... )
+> no longer doing rebirth shop (mainly because I don't need people questioning my integrity and trying to force me to do things I am not willing to.. you know who you are. ... )
 > 
 > 
 > 

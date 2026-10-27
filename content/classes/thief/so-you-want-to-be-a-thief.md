@@ -26,11 +26,11 @@ Mage - Mage is a classic pick for Thieves. Stabbing and blasting is a great stra
 
 Monk- Monk is great for toughening up a thief class order as well as adding another opening attack that can be used aginst Non-stabbable mobs (deathgrip-deathtouch). Also the monks focus skill works with backstab, enhancing damage.
 
-Warrior- Warrior has become a more popular addition to thief since the addition of frenzy skill, which stacks damage onto the stab. Warrior also allows for -11 AC, but few thief primes use much armor, except  when they need to solo a thick mob for a book or some equipment. Disengage and 2nd wind work fabulously with stabbing also. Defy pain is great for emergency situations. 
+Warrior- Warrior has become a more popular addition to thief since the addition of frenzy skill, which stacks damage onto the stab. Warrior also allows for -11 AC, but few thief primes use much armor, except when they need to solo a thick mob for a book or some equipment. Disengage and 2nd wind work fabulously with stabbing also. Defy pain is great for emergency situations. 
 
 Bard- Very complimentary for thieves. Certain songs increase stab success rate and stab damage. Also songs help to manage combat. Very useful skill set.
 
-Necromancer- Necropets add some solo power for running spellbooks/eq.  Wraithform is good for stabbing. 
+Necromancer- Necropets add some solo power for running spellbooks/eq. Wraithform is good for stabbing. 
 
 Druid- Weak substitute for cleric and no blasting. Increases mana regen when put as 2nd class. Adds some solo power for running spellbooks/eq at high levels. But keep in mind non prime shifting is mediocre at best.
 

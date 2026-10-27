@@ -14,19 +14,19 @@ post_count: 2
 
 Ancient Dock
 
-   The old wooden dock extends approximately two hundred feet into the
+ The old wooden dock extends approximately two hundred feet into the
 
-stormy ocean.  The boards of the dock are made of walnut and are scarred
+stormy ocean. The boards of the dock are made of walnut and are scarred
 
-fairly badly.  The scrapes in the boards are deep and wide from fishermen
+fairly badly. The scrapes in the boards are deep and wide from fishermen
 
-continually cutting up fish here.  The dock leads off to the north.
+continually cutting up fish here. The dock leads off to the north.
 
 Exits: North
 
 An old man sits at the end of the pier catching all sorts of goodies.
 
-I would murder this old man dead to fish here :idea:  :twisted:
+I would murder this old man dead to fish here <img src="/images/smilies/icon_idea.svg" alt=":idea:" title=":idea:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -44,6 +44,6 @@ rest
 
 castout
 
-:)
+<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

@@ -12,7 +12,7 @@ post_count: 4
 
 <div class="post" data-post-id="8868" data-author="Guinex" data-date="2005-10-01T02:35:03+00:00" data-subject="Sloth locking up">
 
-What's up with Sloth locking up the last couple of days.  There any reason behind this?
+What's up with Sloth locking up the last couple of days. There any reason behind this?
 
 </div>
 
@@ -30,12 +30,12 @@ Splork
 
 <div class="post" data-post-id="8870" data-author="Guinex" data-date="2005-10-01T13:19:29+00:00" data-subject="">
 
-Thanks for the info, just wanted to know whats going on. :)
+Thanks for the info, just wanted to know whats going on. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="8875" data-author="Icefyre" data-date="2005-10-03T12:26:46+00:00" data-subject="">
 
-Thanks for turning on all the bonuses while you worked on the issues.  (Fargate, fast repop, etc.)   Good luck tracking down all those little bugs.
+Thanks for turning on all the bonuses while you worked on the issues. (Fargate, fast repop, etc.) Good luck tracking down all those little bugs.
 
 </div>

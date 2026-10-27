@@ -14,27 +14,27 @@ post_count: 1
 
 "CIRCLE OF HEALING"
 
-Usage:         cast 'circle of healing'
+Usage: cast 'circle of healing'
 
-Cost:          65
+Cost: 65
 
-Level:         Cleric 40
+Level: Cleric 40
 
-Duration:      -
+Duration: -
 
-Accumulative:  -
+Accumulative: -
 
-Save Versus:   -
+Save Versus: -
 
-Damage Type:   -
+Damage Type: -
 
-Stratum:       healing
+Stratum: healing
 
-Spellbook:     ancient tome of mass heal
+Spellbook: ancient tome of mass heal
 
-Prerequisite:  -
+Prerequisite: -
 
-See Also:      HEAL RESTORATION GREATER HEAL
+See Also: HEAL RESTORATION GREATER HEAL
 
 This spell can heal everybody in a group, as long as they are
 

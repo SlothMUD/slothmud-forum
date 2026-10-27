@@ -24,7 +24,7 @@ Now I'm forced to group even more... when there are like only 5-10 players ever 
 
 <div class="post" data-post-id="22727" data-author="Yasik" data-date="2008-02-15T07:00:56+00:00" data-subject="">
 
-[img:2a101qm0]http://yasik.kiev.ua/CantHaveNiceThings.jpg[/img:2a101qm0]
+![](http://yasik.kiev.ua/CantHaveNiceThings.jpg)
 
 </div>
 
@@ -50,7 +50,7 @@ Haste - 60 (Normally I mem)
 
 Wraithform - 60
 
-Shift Mana every 3 rounds  - 20
+Shift Mana every 3 rounds - 20
 
 Shift Cost 40
 
@@ -76,13 +76,14 @@ I'm seriously thinking about quiting sloth, which I have really enjoyed up to th
 
 If you can't beat them, join them.
 
-I still really like sloth, it's the best game I ever played, and hence I am passionate about these small issues that just ruin it for me. Maybe tomorrow I'll be more likable.. I don't have autolycos bank account to buy ryes at a more expensive price, I don't have shyla's drachma, and I don't have taliesins eq. The one peg leg of a rye I stood on, just got kicked out from underneath me...  :evil:
+I still really like sloth, it's the best game I ever played, and hence I am passionate about these small issues that just ruin it for me. Maybe tomorrow I'll be more likable.. I don't have autolycos bank account to buy ryes at a more expensive price, I don't have shyla's drachma, and I don't have taliesins eq. The one peg leg of a rye I stood on, just got kicked out from underneath me... <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="22730" data-author="Thraxas" data-date="2008-02-15T08:36:24+00:00" data-subject="">
 
-Whats next, removing the regen vault half the lymers use even though it's someone elses? or is that tomorrow?[/quote:3fyds7dy]
+> <strong>jezer wrote:</strong>
+> Whats next, removing the regen vault half the lymers use even though it's someone elses? or is that tomorrow?
 
 Which vault is this?
 
@@ -112,29 +113,30 @@ makes me wonder what other foods are out there. I found one of Kong's bananas bu
 
 Erm...
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="22733" data-author="Yasik" data-date="2008-02-15T12:29:12+00:00" data-subject="">
 
-Sanct - 70
+> <strong>jezer wrote:</strong>
+> Sanct - 70
+> 
+> Haste - 60 (Normally I mem)
+> 
+> Wraithform - 60
+> 
+> Shift Mana every 3 rounds - 20
+> 
+> Shift Cost 40
 
-Haste - 60 (Normally I mem)
+1\. level up faster, at 1st avatar you get Aegis (longer lasts and less mana) or Flesh Golem (even better)
 
-Wraithform - 60
+2\. dont use Haste at all, not much addition in power per mana\_cost
 
-Shift Mana every 3 rounds  - 20
+3\. you should have enough HPs to survive fights without Wraithform
 
-Shift Cost 40[/quote:3gz398da]
-
-1. level up faster, at 1st avatar you get Aegis (longer lasts and less mana) or Flesh Golem (even better)
-
-2. dont use Haste at all, not much addition in power per mana_cost
-
-3. you should have enough HPs to survive fights without Wraithform
-
-4. dont forget that shift can be unsuccessful (more mana wasted) and rapid shift can be unsuccessful too (even more mana wasted due to shift_lag)
+4\. dont forget that shift can be unsuccessful (more mana wasted) and rapid shift can be unsuccessful too (even more mana wasted due to shift\_lag)
 
 </div>
 
@@ -154,13 +156,14 @@ Tap! You flatter me...
 
 <div class="post" data-post-id="22736" data-author="Autolycos" data-date="2008-02-15T14:45:10+00:00" data-subject="">
 
-2. dont use Haste at all, not much addition in power per mana_cost[/quote:2qgz4zxn]
+> <strong>Yasik wrote:</strong>
+> 2\. dont use Haste at all, not much addition in power per mana\_cost
 
-WTF?  haste rocks!
+WTF? haste rocks!
 
 friggin pansyass, I'd tell you to fight like a man...
 
-BUT YOU CANT!!!!  :twisted:
+BUT YOU CANT!!!! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -168,7 +171,7 @@ BUT YOU CANT!!!!  :twisted:
 
 The short absence of the rye bread was due to an economic condition of the baker needing to bake more valentine's day cakes and cookies.... look for rye bread to make a reappearance.
 
-btw quit your bitching, I ate my first rye bread 2 days ago and it was nice, but plenty of people can xp w/o it. I made 5x40 in a monk AFTER the eq nerf w/ no drach handam  and no rye bread , normally you don't get ac and handam at the same time, pick one and go w/ it.
+btw quit your bitching, I ate my first rye bread 2 days ago and it was nice, but plenty of people can xp w/o it. I made 5x40 in a monk AFTER the eq nerf w/ no drach handam and no rye bread , normally you don't get ac and handam at the same time, pick one and go w/ it.
 
 and 2nd haste rocks.
 
@@ -176,21 +179,31 @@ and 2nd haste rocks.
 
 <div class="post" data-post-id="22738" data-author="Yasik" data-date="2008-02-15T15:47:24+00:00" data-subject="">
 
-2. dont use Haste at all, not much addition in power per mana_cost[/quote:fgd4ro7m]
-
-WTF?  haste rocks!
-
-friggin pansyass, I'd tell you to fight like a man...
-
-BUT YOU CANT!!!!  :twisted:[/quote:fgd4ro7m]
+> <strong>Autolycos wrote:</strong>
+> > <strong>Yasik wrote:</strong>
+> > 2\. dont use Haste at all, not much addition in power per mana\_cost
+> 
+> 
+> 
+> 
+> 
+> WTF? haste rocks!
+> 
+> 
+> 
+> friggin pansyass, I'd tell you to fight like a man...
+> 
+> 
+> 
+> BUT YOU CANT!!!! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 i tell you wtf
 
-x4 brutal massacres + 1.5 breathe_fire
+x4 brutal massacres + 1.5 breathe\_fire
 
 vs 
 
-x5 brutal massacre +1.5 breathe_fire
+x5 brutal massacre +1.5 breathe\_fire
 
 do you see any noticable increase in pwnage?
 
@@ -206,7 +219,7 @@ ene3ne2dsenenuuseseenn from Magnolia, Lyme.
 
 Hermit's Dwelling
 
-Exits: South  
+Exits: South 
 
 (Faint Blue Aura) A decrepit elderly man mixes potions in his alchemy laboratory.
 
@@ -214,39 +227,39 @@ list
 
 You can buy:
 
- Price     Item
+ Price Item
 
-----------------------
+\----------------------
 
- 38000     a potion of greater restoration
+ 38000 a potion of greater restoration
 
- 14500     a potion of lesser restoration
+ 14500 a potion of lesser restoration
 
- 12000     a potion of greater healing
+ 12000 a potion of greater healing
 
- 11000     a potion of healing
+ 11000 a potion of healing
 
- 5000      a potion of cure critical
+ 5000 a potion of cure critical
 
- 3000      a potion of greater strength
+ 3000 a potion of greater strength
 
- 1500      a potion of lesser refresh
+ 1500 a potion of lesser refresh
 
- 5000      a small vial of a colorless liquid
+ 5000 a small vial of a colorless liquid
 
- 500       a potion of remove poison
+ 500 a potion of remove poison
 
-----------------------
+\----------------------
 
-* means you need more levels to use it.
+\* means you need more levels to use it.
 
 ! means you are not strong enough to use it.
 
-& means you have studied this spellbook or manual to its max.
+\& means you have studied this spellbook or manual to its max.
 
 Query may also be of use to you, please refer to help query.
 
-_____________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 If it costs you too much to run in druid form, you should really think of other ways to cut it, e.g mage way.
 
@@ -274,13 +287,14 @@ SO UMM..WHERE DO WE BUY THIS BREAD?
 
 <div class="post" data-post-id="22742" data-author="Autolycos" data-date="2008-02-15T17:46:24+00:00" data-subject="">
 
-x4 brutal massacres + 1.5 breathe_fire vs x5 brutal massacre +1.5 breathe_fire
-
-do you see any noticable increase in pwnage?  i dont[/quote:3ppiyl36]
+> <strong>Yasik wrote:</strong>
+> x4 brutal massacres + 1.5 breathe\_fire vs x5 brutal massacre +1.5 breathe\_fire
+> 
+> do you see any noticable increase in pwnage? i dont
 
 that is really one of the dumbest things I've heard you say.
 
-Doesnt show you a diff cause you're a weakass and yes I [b:3ppiyl36]DO[/b:3ppiyl36] see a big difference.
+Doesnt show you a diff cause you're a weakass and yes I <strong>DO</strong> see a big difference.
 
 X5 attacks are better because:
 
@@ -310,43 +324,47 @@ You viciously massacre Shuggoth Lord with your pierce.
 
 You viciously massacre Shuggoth Lord with your pierce.
 
-[b:3ppiyl36]How can you not think x5 > x4?[/b:3ppiyl36]
+<strong>How can you not think x5 \> x4?</strong>
 
 </div>
 
 <div class="post" data-post-id="22744" data-author="Tap" data-date="2008-02-15T21:21:37+00:00" data-subject="">
 
-[quote:2eaw1elq]Yasik wrote:
+> <strong>Quote:</strong>
+> Yasik wrote:
+> 
+> x4 brutal massacres + 1.5 breathe\_fire vs x5 brutal massacre +1.5 breathe\_fire
+> 
+> do you see any noticable increase in pwnage? i dont
 
-x4 brutal massacres + 1.5 breathe_fire vs x5 brutal massacre +1.5 breathe_fire
-
-do you see any noticable increase in pwnage? i dont [/quote:2eaw1elq]
-
-[quote:2eaw1elq]that is really one of the dumbest things I've heard you say. [/quote:2eaw1elq]
+> <strong>Quote:</strong>
+> that is really one of the dumbest things I've heard you say.
 
 You must not read The Crier as much as I thought
 
-[quote:2eaw1elq]How can you not think x5 > x4?[/quote:2eaw1elq]
+> <strong>Quote:</strong>
+> How can you not think x5 \> x4?
 
 This is Yasik we are talking about...
 
- :roll:
+ <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="22745" data-author="Yinao" data-date="2008-02-15T21:41:33+00:00" data-subject="">
 
-[quote:3h07tejz]How can you not think x5 > x4?[/quote:3h07tejz]
+> <strong>Quote:</strong>
+> How can you not think x5 \> x4?
 
 You only not think this when you don't know how the game is played, apparently he doesn't kill many mobs.
 
-Yasix gossips 'Why do mobs keep killing me, I have less damage and less attacks, but I can breathe fire!'   :shock:
+Yasix gossips 'Why do mobs keep killing me, I have less damage and less attacks, but I can breathe fire!' <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="22747" data-author="Leaf" data-date="2008-02-15T21:48:18+00:00" data-subject="">
 
-That was some funny shit I've read from Tap and Auto.  Those two getting
+That was some funny shit I've read from Tap and Auto. Those two getting
 
 along?!?
 
@@ -356,15 +374,15 @@ Lets say ur one hit = 30 damage.
 
 5x attack = 150 damage
 
-Haste last how long?  Lets say enough to get in about 50 rounds of hits.
+Haste last how long? Lets say enough to get in about 50 rounds of hits.
 
-That is additional 1500 damage from a spell ... Weee  
+That is additional 1500 damage from a spell ... Weee 
 
 Plus I can understand if you have a +2hit, then yes ... Haste isn't going to 
 
-help much because u can't hit jackshit anyways.  However as a shifted
+help much because u can't hit jackshit anyways. However as a shifted
 
-dragon, you get like +20 hit or something.  Haste ROCKS!
+dragon, you get like +20 hit or something. Haste ROCKS!
 
 I use Haste with my thief and it shaves a good min or so on chop mobs.
 
@@ -372,23 +390,23 @@ I use Haste with my thief and it shaves a good min or so on chop mobs.
 
 <div class="post" data-post-id="22748" data-author="Autolycos" data-date="2008-02-15T22:03:49+00:00" data-subject="">
 
-indeed...  
+indeed... 
 
 but this is like trying to teach algebra to a rock..
 
-2 months later, its still fuckin clueless.   :roll:
+2 months later, its still fuckin clueless. <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="22749" data-author="Leaf" data-date="2008-02-15T22:15:32+00:00" data-subject="">
 
-I would say teaching algebra is too much.  1 + 1 = 2
+I would say teaching algebra is too much. 1 + 1 = 2
 
 </div>
 
 <div class="post" data-post-id="22751" data-author="Yinao" data-date="2008-02-15T22:27:24+00:00" data-subject="">
 
-[img:27cgn9aq]http://a669.ac-images.myspacecdn.com/images01/24/l_6cd792168ac52899afea84f3bea9c774.jpg[/img:27cgn9aq]
+![](http://a669.ac-images.myspacecdn.com/images01/24/l_6cd792168ac52899afea84f3bea9c774.jpg)
 
 </div>
 
@@ -402,25 +420,26 @@ Jezer you need to seriously get a life if you're pacing the floor of your cage b
 
 <div class="post" data-post-id="22755" data-author="jezer" data-date="2008-02-16T02:11:57+00:00" data-subject="">
 
-:D 
+<img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> 
 
 I figured the price may have been bugged, I had no idea it was 15k. I figured it was probably more 200 and some zero's got lopped off in some editing. But from 15k to 2 gold coins, just shows who ever changed it, knew what they were doing, and had the power to do it.
 
-I may play less now, that runs take twice as long, but maybe that's a good thing. Having the ryes seemed to make me serious about getting xp quickly, now all that tension has just totally left me... I even vacuumed my room this morning... :shock: yes, off to see the doctor...
+I may play less now, that runs take twice as long, but maybe that's a good thing. Having the ryes seemed to make me serious about getting xp quickly, now all that tension has just totally left me... I even vacuumed my room this morning... <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> yes, off to see the doctor...
 
 </div>
 
 <div class="post" data-post-id="22756" data-author="Tap" data-date="2008-02-16T02:37:07+00:00" data-subject="">
 
-[url:hanf4elv]http://www.youtube.com/watch?v=lAVVVMcTShQ&feature=related[/url:hanf4elv]
+http://www.youtube.com/watch?v=lAVVVMcTShQ&feature=related
 
 </div>
 
 <div class="post" data-post-id="22757" data-author="Autolycos" data-date="2008-02-16T03:29:44+00:00" data-subject="">
 
-I may play less now, that runs take twice as long, but maybe that's a good thing. [/quote:2zzdkdpi]
+> <strong>jezer wrote:</strong>
+> I may play less now, that runs take twice as long, but maybe that's a good thing.
 
-I think I'm going to cry....  or maybe laugh at you for being a retard.
+I think I'm going to cry.... or maybe laugh at you for being a retard.
 
 </div>
 
@@ -444,9 +463,10 @@ In that move an Indian guy talks about having two dogs inside, a good one and a 
 
 <div class="post" data-post-id="22764" data-author="Yasik" data-date="2008-02-16T08:42:59+00:00" data-subject="">
 
-*babbling*[/quote:g2skozmv]
+> <strong>Autolycos wrote:</strong>
+> \*babbling\*
 
-[img:g2skozmv]http://yasik.kiev.ua/STFU_Faggot.jpg[/img:g2skozmv]
+![](http://yasik.kiev.ua/STFU_Faggot.jpg)
 
 I kill 4 mobs with Haste or without it and i wont hit 5th anyway because i low on mana so i just goto sleep and trolling in another window until full. No big difference this Haste makes for my runs, so i just dont use it. 60 mana i more preferable than +1 attack because i use mana to kill, not attacks.
 
@@ -464,7 +484,7 @@ If your runs are short and intense, it's better to have mana on hand for blastin
 
 <div class="post" data-post-id="22766" data-author="Yasik" data-date="2008-02-16T09:25:48+00:00" data-subject="">
 
-[img:zt5068zz]http://yasik.kiev.ua/Brains_Autolycos.jpg[/img:zt5068zz]
+![](http://yasik.kiev.ua/Brains_Autolycos.jpg)
 
 </div>
 
@@ -472,47 +492,50 @@ If your runs are short and intense, it's better to have mana on hand for blastin
 
 Autolycos is actually quite smart... just ill mannered. 
 
-And Yasik you've often attacked some of the things others have said, and you've just been flat out right wrong, or totally misunderstood what people have been saying. Comparing brain sizes probably doesn't shine on you too good.   :D
+And Yasik you've often attacked some of the things others have said, and you've just been flat out right wrong, or totally misunderstood what people have been saying. Comparing brain sizes probably doesn't shine on you too good. <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="22768" data-author="Yasik" data-date="2008-02-16T09:43:10+00:00" data-subject="">
 
-Autolycos is actually quite smart... just ill mannered.[/quote:3bv9afs2]
+> <strong>jezer wrote:</strong>
+> Autolycos is actually quite smart... just ill mannered.
 
-[img:3bv9afs2]http://yasik.kiev.ua/Brains_Jezer.jpg[/img:3bv9afs2]
+![](http://yasik.kiev.ua/Brains_Jezer.jpg)
 
 </div>
 
 <div class="post" data-post-id="22769" data-author="jezer" data-date="2008-02-16T09:45:01+00:00" data-subject="">
 
-:D
+<img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="22770" data-author="brady" data-date="2008-02-16T13:15:40+00:00" data-subject="">
 
-Autolycos is like that crotchety old uncle that farts at Thanksgiving dinner after he asks your 3 year old cousin to pull his finger.  Yasik is pretty much the stain that gets left behind.
+Autolycos is like that crotchety old uncle that farts at Thanksgiving dinner after he asks your 3 year old cousin to pull his finger. Yasik is pretty much the stain that gets left behind.
 
 </div>
 
 <div class="post" data-post-id="22771" data-author="Yasik" data-date="2008-02-16T14:04:02+00:00" data-subject="">
 
-Autolycos is like that crotchety old uncle that farts at Thanksgiving dinner after he asks your 3 year old cousin to pull his finger.  Yasik is pretty much the stain that gets left behind.[/quote:2z6s3o99]
+> <strong>brady wrote:</strong>
+> Autolycos is like that crotchety old uncle that farts at Thanksgiving dinner after he asks your 3 year old cousin to pull his finger. Yasik is pretty much the stain that gets left behind.
 
-[img:2z6s3o99]http://yasik.kiev.ua/Brains_Brady.jpg[/img:2z6s3o99]
+![](http://yasik.kiev.ua/Brains_Brady.jpg)
 
-at least i dont firestorm a bunch of low-levels at recall while being blinded and stupid drunk  :D
+at least i dont firestorm a bunch of low-levels at recall while being blinded and stupid drunk <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="22772" data-author="Autolycos" data-date="2008-02-16T14:12:15+00:00" data-subject="">
 
-Autolycos is like that crotchety old uncle that farts at Thanksgiving dinner after he asks your 3 year old cousin to pull his finger.  Yasik is pretty much the stain that gets left behind.[/quote:hvmv0t64]
+> <strong>brady wrote:</strong>
+> Autolycos is like that crotchety old uncle that farts at Thanksgiving dinner after he asks your 3 year old cousin to pull his finger. Yasik is pretty much the stain that gets left behind.
 
 snicker.
 
-[img:hvmv0t64]http://images.jupiterimages.com/common/detail/55/32/23473255.jpg[/img:hvmv0t64]
+![](http://images.jupiterimages.com/common/detail/55/32/23473255.jpg)
 
 </div>
 
@@ -532,9 +555,10 @@ do you guys see that penis sticking out of the dolphin's brain? strange
 
 <div class="post" data-post-id="22777" data-author="Yasik" data-date="2008-02-16T23:48:04+00:00" data-subject="">
 
-do you guys see that penis sticking out of the dolphin's brain? strange[/quote:2yvquni2]
+> <strong>juggleblood wrote:</strong>
+> do you guys see that penis sticking out of the dolphin's brain? strange
 
-The thread is ruined. Mission complete. :twisted:
+The thread is ruined. Mission complete. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -554,12 +578,12 @@ in essence...
 
 what you are saying is...
 
-Yasik is a f*cktard...
+Yasik is a f\*cktard...
 
 </div>
 
 <div class="post" data-post-id="22788" data-author="Rynquald" data-date="2008-02-17T23:44:55+00:00" data-subject="">
 
-Wow, that's some slick post-condensation Auto :)
+Wow, that's some slick post-condensation Auto <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

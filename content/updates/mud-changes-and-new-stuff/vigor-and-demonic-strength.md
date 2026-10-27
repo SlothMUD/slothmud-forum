@@ -14,8 +14,8 @@ post_count: 2
 
 Greeting mortals.
 
-- Took vigor out of game.  It required strength as prerequisite, that is already out of the game.
-- Took demonic strength out of game.  It requires unholy strength as prerequisite, that is already out of the game.
+- Took vigor out of game. It required strength as prerequisite, that is already out of the game.
+- Took demonic strength out of game. It requires unholy strength as prerequisite, that is already out of the game.
 
 Thanks Cizin for reporting.
 

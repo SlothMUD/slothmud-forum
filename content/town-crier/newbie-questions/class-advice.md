@@ -14,9 +14,9 @@ post_count: 5
 
 Hello, me again!
 
-My class/level so far is Mage 8/Ftr 4/Cleric 4.  I was thinking of selecting either thief or druid for my last class.  Which is more useful backstab/search or better hp regen/shapechange?
+My class/level so far is Mage 8/Ftr 4/Cleric 4. I was thinking of selecting either thief or druid for my last class. Which is more useful backstab/search or better hp regen/shapechange?
 
-Thanks all for your help so far!  I am enjoying the game quite a bit.
+Thanks all for your help so far! I am enjoying the game quite a bit.
 
 Towen
 
@@ -24,7 +24,7 @@ Towen
 
 <div class="post" data-post-id="31295" data-author="blackmore" data-date="2010-06-12T03:48:22+00:00" data-subject="Re: Class advice">
 
-Backstabbing is only useful with good damage, and as a mage prime, you probably won't have great damage.  Your best defense when you get higher level is going to be mirror images, and you can't stab with images up.  I'd either go with druid or necro.  Druid will help your regen, and you'll want that with wa 2nd, though necro is interesting too.  You'll be able to use your images to absorb hits while you order your pets to attack.
+Backstabbing is only useful with good damage, and as a mage prime, you probably won't have great damage. Your best defense when you get higher level is going to be mirror images, and you can't stab with images up. I'd either go with druid or necro. Druid will help your regen, and you'll want that with wa 2nd, though necro is interesting too. You'll be able to use your images to absorb hits while you order your pets to attack.
 
 </div>
 
@@ -34,7 +34,7 @@ Thanks,
 
 I was leaning towards druid and that's the way I'll go.
 
--Towen
+\-Towen
 
 </div>
 
@@ -48,9 +48,9 @@ I'd go with ne for pets, which help you last in fights and do extra damage. As a
 
 <div class="post" data-post-id="31312" data-author="Teron" data-date="2010-06-18T07:32:10+00:00" data-subject="Re: Class advice">
 
-I've just noticed that you've already went with Druid. I hope you do enjoy the limited forms (help shapeshift forms, you won't be able to go past 5x40, dragon/minotaur) and dawnfire ;)
+I've just noticed that you've already went with Druid. I hope you do enjoy the limited forms (help shapeshift forms, you won't be able to go past 5x40, dragon/minotaur) and dawnfire <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
-To think of it, this is one of my classo mistakes as well. At least 5mar makes more difference for a warrior with his measly mana regen, than a mage. Then again, as a ma/wa, you won't get stellar mana regen as well ;)
+To think of it, this is one of my classo mistakes as well. At least 5mar makes more difference for a warrior with his measly mana regen, than a mage. Then again, as a ma/wa, you won't get stellar mana regen as well <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 Live and learn, eh.
 

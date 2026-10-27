@@ -32,7 +32,7 @@ One involving many high-fives from both students and teachers.
 
 <div class="post" data-post-id="17414" data-author="osric" data-date="2007-03-23T02:58:34+00:00" data-subject="">
 
-Would there be a picture of jesus on it hitting a massive 6' bong? Does this shirt exist? Where can I get one?  :wink:
+Would there be a picture of jesus on it hitting a massive 6' bong? Does this shirt exist? Where can I get one? <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -44,7 +44,7 @@ It is amazing how worthless watching/reading 99% of the news is.
 
 <div class="post" data-post-id="17419" data-author="Avalon" data-date="2007-03-23T21:30:32+00:00" data-subject="">
 
-He wasn't wearing a Bong Hits 4 Jesus shirt.  He was unfurling a Bong Hits 4 Jesus BANNER at an Olympic torch relay... off school property.  The school principal ran across the street, seized the banner, and suspended the student for 10 days.
+He wasn't wearing a Bong Hits 4 Jesus shirt. He was unfurling a Bong Hits 4 Jesus BANNER at an Olympic torch relay... off school property. The school principal ran across the street, seized the banner, and suspended the student for 10 days.
 
 [http://en.wikipedia.org/wiki/Morse_v._Frederick](http://en.wikipedia.org/wiki/Morse_v._Frederick)
 
@@ -64,13 +64,14 @@ yeah, the real facts of this case are different, but for the sake of the poll, i
 
 <div class="post" data-post-id="17433" data-author="Autolycos" data-date="2007-03-24T16:11:44+00:00" data-subject="">
 
-imagine a hypothical t-shirt with the same phrase on it[/quote:aesq23ra]
+> <strong>juggleblood wrote:</strong>
+> imagine a hypothical t-shirt with the same phrase on it
 
 or not...
 
-i prefer the Buddy Jesus, from Dogma  :twisted: 
+i prefer the Buddy Jesus, from Dogma <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-[img:aesq23ra]http://www.superherostuff.com/bush_sucks_tshirts/images/buddy_jesus.jpg[/img:aesq23ra]
+![](http://www.superherostuff.com/bush_sucks_tshirts/images/buddy_jesus.jpg)
 
 </div>
 

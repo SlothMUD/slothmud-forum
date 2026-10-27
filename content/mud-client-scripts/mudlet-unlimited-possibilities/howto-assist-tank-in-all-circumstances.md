@@ -20,15 +20,15 @@ Once that has been setup, you can now program your function to run every time th
 
 ```
 function AssistTank()
-   if msdp.TANK_NAME ~= msdp.CHARACTER_NAME then
-      for key,value in pairs(msdp.GROUP) do
-         if msdp.GROUP[key]["NAME"] == msdp.TANK_NAME then
-            if msdp.GROUP[key]["STATUS"] == "Fighting" and msdp.POSITION ~= "Fighting" then
-               send("assist "..msdp.TANK_NAME)
-            end
-         end
-      end
-   end
+ if msdp.TANK_NAME ~= msdp.CHARACTER_NAME then
+ for key,value in pairs(msdp.GROUP) do
+ if msdp.GROUP[key]["NAME"] == msdp.TANK_NAME then
+ if msdp.GROUP[key]["STATUS"] == "Fighting" and msdp.POSITION ~= "Fighting" then
+ send("assist "..msdp.TANK_NAME)
+ end
+ end
+ end
+ end
 end
 ```
 
@@ -42,65 +42,65 @@ I promised Breeze I would update my script a bit more... (Note: Name Change - bu
 
 New Version:
 
--- Script won't assist if you are absent
+\-- Script won't assist if you are absent
 
--- Script prepares leader/tank/me variables for further use
+\-- Script prepares leader/tank/me variables for further use
 
--- Script creates a group report, saves it to a string variable (groupreport) this could be outputted to a window
+\-- Script creates a group report, saves it to a string variable (groupreport) this could be outputted to a window
 
--- Script could man you back if your position is set to "Front" just uncomment the lines
+\-- Script could man you back if your position is set to "Front" just uncomment the lines
 
--- Created condition to warn you if the tank is fighting and you are not with the group
+\-- Created condition to warn you if the tank is fighting and you are not with the group
 
 ```
 function ProcessGroup()
-   local tank, leader, me
-   groupreport = ""
+ local tank, leader, me
+ groupreport = ""
 
-   --Determine who is what in the group
-   for key,value in pairs(msdp.GROUP) do
-      if msdp.GROUP[key]["NAME"] == msdp.TANK_NAME then
-         tank = key
-      end
-      if msdp.GROUP[key]["NAME"] == msdp.CHARACTER_NAME then
-         me = key
-      end
-      if msdp.GROUP[key]["POSITION"] == "Pleader" then
-         leader = key
-      end
-      if msdp.POSITION == "Fighting" then
-         if msdp.GROUP[key]["STATUS"] == "Standing" then
-            groupreport = groupreport.."\n"..msdp.GROUP[key]["NAME"].." is not fighting."   
-         end
-      end
-      if tonumber(msdp.GROUP[key]["HITPOINTS"]) <= -10 then
-         groupreport = groupreport.."\n"..msdp.GROUP[key]["NAME"].." is Dead."  
-      end
-      if tonumber(msdp.GROUP[key]["HITPOINTS"]) >= -9 and tonumber(msdp.GROUP[key]["HITPOINTS"]) <= 0 then
-         groupreport = groupreport.."\n"..msdp.GROUP[key]["NAME"].." is Incap."  
-      end
-      if tonumber(msdp.GROUP[key]["HITPOINTS"]) > 0 and tonumber(msdp.GROUP[key]["HITPOINTS"]) <= 100 then
-         groupreport = groupreport.."\n"..msdp.GROUP[key]["NAME"].." is Dying."  
-      end
-      if msdp.GROUP[key]["STATUS"] == "Absent" then
-         groupreport = groupreport.."\n"..msdp.GROUP[key]["NAME"].." is Absent."  
-      end
-   end
+ --Determine who is what in the group
+ for key,value in pairs(msdp.GROUP) do
+ if msdp.GROUP[key]["NAME"] == msdp.TANK_NAME then
+ tank = key
+ end
+ if msdp.GROUP[key]["NAME"] == msdp.CHARACTER_NAME then
+ me = key
+ end
+ if msdp.GROUP[key]["POSITION"] == "Pleader" then
+ leader = key
+ end
+ if msdp.POSITION == "Fighting" then
+ if msdp.GROUP[key]["STATUS"] == "Standing" then
+ groupreport = groupreport.."\n"..msdp.GROUP[key]["NAME"].." is not fighting." 
+ end
+ end
+ if tonumber(msdp.GROUP[key]["HITPOINTS"]) <= -10 then
+ groupreport = groupreport.."\n"..msdp.GROUP[key]["NAME"].." is Dead." 
+ end
+ if tonumber(msdp.GROUP[key]["HITPOINTS"]) >= -9 and tonumber(msdp.GROUP[key]["HITPOINTS"]) <= 0 then
+ groupreport = groupreport.."\n"..msdp.GROUP[key]["NAME"].." is Incap." 
+ end
+ if tonumber(msdp.GROUP[key]["HITPOINTS"]) > 0 and tonumber(msdp.GROUP[key]["HITPOINTS"]) <= 100 then
+ groupreport = groupreport.."\n"..msdp.GROUP[key]["NAME"].." is Dying." 
+ end
+ if msdp.GROUP[key]["STATUS"] == "Absent" then
+ groupreport = groupreport.."\n"..msdp.GROUP[key]["NAME"].." is Absent." 
+ end
+ end
 
-   --Assist the tank, if I am with group and he is fighting
-   if msdp.TANK_NAME ~= msdp.CHARACTER_NAME then
-      if msdp.GROUP[tank]["STATUS"] == "Fighting" and msdp.POSITION ~= "Fighting" and msdp.GROUP[me]["STATUS"] ~= "Absent" then
-         --echo("THE TANK IS FIGHTING, I WILL ASSIST THEM!")
-         send("assist "..msdp.TANK_NAME)
-      elseif msdp.GROUP[tank]["STATUS"] == "Fighting" and msdp.GROUP[me]["STATUS"] == "Absent" then
-         --echo("THE TANK IS FIGHTING, I AM ABSENT!")
-      end
-   end
+ --Assist the tank, if I am with group and he is fighting
+ if msdp.TANK_NAME ~= msdp.CHARACTER_NAME then
+ if msdp.GROUP[tank]["STATUS"] == "Fighting" and msdp.POSITION ~= "Fighting" and msdp.GROUP[me]["STATUS"] ~= "Absent" then
+ --echo("THE TANK IS FIGHTING, I WILL ASSIST THEM!")
+ send("assist "..msdp.TANK_NAME)
+ elseif msdp.GROUP[tank]["STATUS"] == "Fighting" and msdp.GROUP[me]["STATUS"] == "Absent" then
+ --echo("THE TANK IS FIGHTING, I AM ABSENT!")
+ end
+ end
 
-   --Man back if I am in the front row
-   --if msdp.GROUP[me]["POSITION"] == "Front" then
-   --   send("man back")
-   --end
+ --Man back if I am in the front row
+ --if msdp.GROUP[me]["POSITION"] == "Front" then
+ -- send("man back")
+ --end
 end
 ```
 

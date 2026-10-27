@@ -12,6 +12,6 @@ post_count: 1
 
 <div class="post" data-post-id="39310" data-author="*Idjit*" data-date="2019-10-27T06:07:41+00:00" data-subject="New Area: The Deep Seam">
 
-As the dwarves of Rakustfikod delve ever deeper, a new region has been rumored to have been found beneath the Underground River directly beneath their fortress.  Bit by bit, section by section they are finding new realms in their pursuit of subterranean riches.
+As the dwarves of Rakustfikod delve ever deeper, a new region has been rumored to have been found beneath the Underground River directly beneath their fortress. Bit by bit, section by section they are finding new realms in their pursuit of subterranean riches.
 
 </div>

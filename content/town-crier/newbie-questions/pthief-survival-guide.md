@@ -50,19 +50,22 @@ Your corpse is sacred. Any pthief stealing anything from your corpse is wipable.
 
 I'm sure other can add more, but that's a decent start.
 
-1. they could give you lots of junk to screw up your redress alias. you find yourself sitting with full set of eq in your inverntory and next moment you'll be pwned.
-
-2. they will hide in dark places without light source. so when you gate in you will be kicked by Demo or someone like that.
-
-3. it's hard to steal from someone (even sleeping) if there is another person in the same room who don't sleep.
-
-just my 2 cents.[/quote:2u06j8ju]
+> <strong>Vixn wrote:</strong>
+> 1\. they could give you lots of junk to screw up your redress alias. you find yourself sitting with full set of eq in your inverntory and next moment you'll be pwned.
+> 
+> 2\. they will hide in dark places without light source. so when you gate in you will be kicked by Demo or someone like that.
+> 
+> 3\. it's hard to steal from someone (even sleeping) if there is another person in the same room who don't sleep.
+> 
+> 
+> 
+> just my 2 cents.
 
 </div>
 
 <div class="post" data-post-id="17867" data-author="12345" data-date="2007-04-08T06:05:28+00:00" data-subject="">
 
-Oh, and I forgot to mention the most basic pthief rule.  They can't steal anything that's not in your inventory.  Keep your inventory clean and the the worst they can really do to you is make you thirsty.
+Oh, and I forgot to mention the most basic pthief rule. They can't steal anything that's not in your inventory. Keep your inventory clean and the the worst they can really do to you is make you thirsty.
 
 </div>
 
@@ -74,6 +77,6 @@ Use 'where' command. It shows all players (even hidden, as I know) in area. So, 
 
 <div class="post" data-post-id="17869" data-author="Assirian" data-date="2007-04-08T09:10:20+00:00" data-subject="">
 
-I applogise for wrong advice, hidden players are visible only on 'where char_name' command. Thats useful only for known pthiefs..
+I applogise for wrong advice, hidden players are visible only on 'where char\_name' command. Thats useful only for known pthiefs..
 
 </div>

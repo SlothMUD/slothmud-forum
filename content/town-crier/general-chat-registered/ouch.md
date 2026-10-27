@@ -24,7 +24,7 @@ You follow Insomniac.
 
 Priest's Residence
 
-Exits: North  
+Exits: North 
 
 You see Insomniac and Katie here.
 
@@ -62,39 +62,39 @@ Katie swings her weapon, accidentally cutting your head off!
 
 You have been KILLED!! 
 
-<-341hp 478ma 380mv>Katie -- '* blackmore out'
+\<-341hp 478ma 380mv\>Katie -- '\* blackmore out'
 
-<-341hp 478ma 380mv>Insomniac -- 'blackmore not in...'
+\<-341hp 478ma 380mv\>Insomniac -- 'blackmore not in...'
 
-<-341hp 478ma 380mv>Katie -- '* :)'
+\<-341hp 478ma 380mv\>Katie -- '\* <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">'
 
-<-341hp 478ma 380mv>Insomniac -- 'stab in'
+\<-341hp 478ma 380mv\>Insomniac -- 'stab in'
 
-<-341hp 478ma 380mv>Insomniac -- 'then cizin'
+\<-341hp 478ma 380mv\>Insomniac -- 'then cizin'
 
-<-341hp 478ma 380mv>As the song ends, a calm feeling overtakes your party.
+\<-341hp 478ma 380mv\>As the song ends, a calm feeling overtakes your party.
 
-<-341hp 478ma 380mv>You feel yourself floating upward...
+\<-341hp 478ma 380mv\>You feel yourself floating upward...
 
-<-341hp 478ma 380mv>Stab -- '---------------------->>>LITE DOWN<<<-------------------'
+\<-341hp 478ma 380mv\>Stab -- '----------------------\>\>\>LITE DOWN\<\<\<-------------------'
 
-<-341hp 478ma 380mv>Jayde -- 'shoulda killed tuk'
+\<-341hp 478ma 380mv\>Jayde -- 'shoulda killed tuk'
 
-<-341hp 478ma 380mv>Jayde -- 'he has no mana'
+\<-341hp 478ma 380mv\>Jayde -- 'he has no mana'
 
-<-341hp 478ma 380mv>You receive 2461212 experience points as your share.
+\<-341hp 478ma 380mv\>You receive 2461212 experience points as your share.
 
 Total exp for kill is 19298619.
 
-Katie splits 32543 coins.  Your share is 4649 coins.
+Katie splits 32543 coins. Your share is 4649 coins.
 
-Lie still; you are DEAD!!! :-( 
+Lie still; you are DEAD!!! <img src="/images/smilies/icon_e_sad.svg" alt=":-(" title=":-(" width="15" height="15" class="smiley nozoom"> 
 
-<-341hp 478ma 380mv>Lie still; you are DEAD!!! :-( 
+\<-341hp 478ma 380mv\>Lie still; you are DEAD!!! <img src="/images/smilies/icon_e_sad.svg" alt=":-(" title=":-(" width="15" height="15" class="smiley nozoom"> 
 
-<-341hp 478ma 380mv>Insomniac -- 'rina her'
+\<-341hp 478ma 380mv\>Insomniac -- 'rina her'
 
-<-341hp 478ma 380mv>Jayde lays her hands upon the body.
+\<-341hp 478ma 380mv\>Jayde lays her hands upon the body.
 
 Jayde's hands begin to glow very brightly! 
 
@@ -110,7 +110,7 @@ Jayde -- 'masterful!'
 
 Katie stops singing.
 
-You grouptell: 'the funniest part is, that's the 2nd time this week that's  happened.'
+You grouptell: 'the funniest part is, that's the 2nd time this week that's happened.'
 
 Katie licks you.
 
@@ -118,7 +118,7 @@ Ok.
 
 The cleansing fires of healing fill your body!
 
-Katie -- '* gasp'
+Katie -- '\* gasp'
 
 Ok.
 
@@ -132,7 +132,7 @@ You follow Insomniac.
 
 East End of Coral Avenue
 
-Exits: North  East  South  West  
+Exits: North East South West 
 
 You see Insomniac and Katie here.
 
@@ -146,7 +146,7 @@ You follow Insomniac.
 
 East End of Kelp Lane
 
-Exits: South  West  
+Exits: South West 
 
 A set of white legplates lie discarded on the floor...It emits a faint humming sound!
 
@@ -160,7 +160,7 @@ A senior monk picks up legplates of the Paladin.
 
 Tuk utters the words, 'waburuhl'
 
-Insomniac -- 'bmore in :)'
+Insomniac -- 'bmore in <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">'
 
 Insomniac -- 'target gem'
 
@@ -192,7 +192,7 @@ You follow Insomniac.
 
 Blue Coral Residence
 
-Exits: West  
+Exits: West 
 
 You see Insomniac and Katie here.
 
@@ -202,7 +202,7 @@ Katie utters the words, 'candusghafahuai'
 
 The cleansing fires of healing fill your body!
 
-You grouptell: 'let's  go for 3!'
+You grouptell: 'let's go for 3!'
 
 You begin to play 'brothers in valor'.
 
@@ -210,13 +210,13 @@ Ok.
 
 You are greatly inspired by Blackmore's song!
 
-Katie -- '* Sanctuary down ...'
+Katie -- '\* Sanctuary down ...'
 
 Katie utters the words, 'azoug'
 
 Katie is encased in a glowing white sphere.
 
-Katie -- '* Sanctuary up ...'
+Katie -- '\* Sanctuary up ...'
 
 Katie utters the words, 'eawiahuai'
 
@@ -280,7 +280,7 @@ Tuk utters the words, 'aque bragh'
 
 Burning acid hits the sahaguin gem cutter in the eyes, blinding her!
 
-Stab -- '***LITES UP***'
+Stab -- '\*\*\*LITES UP\*\*\*'
 
 You slash the sahaguin gem cutter very hard.
 
@@ -302,27 +302,27 @@ Cizin swings his weapon, accidentally cutting your head off!
 
 You have been KILLED!! 
 
-<-140hp 293ma 380mv>Katie -- '* cough'
+\<-140hp 293ma 380mv\>Katie -- '\* cough'
 
-<-140hp 293ma 380mv>Insomniac -- 'HASHAAHAHAHAHAHAHAHAHA'
+\<-140hp 293ma 380mv\>Insomniac -- 'HASHAAHAHAHAHAHAHAHAHA'
 
-<-140hp 293ma 380mv>Insomniac -- 'HASHAAHAHAHAHAHAHAHAHA'
+\<-140hp 293ma 380mv\>Insomniac -- 'HASHAAHAHAHAHAHAHAHAHA'
 
-<-140hp 293ma 380mv>Stab -- 'oh noo'
+\<-140hp 293ma 380mv\>Stab -- 'oh noo'
 
-<-140hp 293ma 380mv>Jayde -- 'that was awesome'
+\<-140hp 293ma 380mv\>Jayde -- 'that was awesome'
 
-<-140hp 293ma 380mv>Tuk -- '(.)(.) jeez'
+\<-140hp 293ma 380mv\>Tuk -- '(.)(.) jeez'
 
-<-140hp 293ma 380mv>Katie -- '* it wasnt me!'
+\<-140hp 293ma 380mv\>Katie -- '\* it wasnt me!'
 
-<-140hp 293ma 380mv>Tuk -- '(*)(*) more xps for cleric'
+\<-140hp 293ma 380mv\>Tuk -- '(\*)(\*) more xps for cleric'
 
-<-140hp 293ma 380mv>Insomniac -- 'sorry but that's too damn funny :)'
+\<-140hp 293ma 380mv\>Insomniac -- 'sorry but that's too damn funny <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">'
 
-<-140hp 293ma 380mv>As the song ends, a calm feeling overtakes your party.
+\<-140hp 293ma 380mv\>As the song ends, a calm feeling overtakes your party.
 
-<-140hp 293ma 380mv>You feel yourself floating upward...
+\<-140hp 293ma 380mv\>You feel yourself floating upward...
 
 </div>
 
@@ -330,14 +330,14 @@ You have been KILLED!!
 
 Comf bm.
 
-One day it was the same with me, but i was shocked two times in a row :)
+One day it was the same with me, but i was shocked two times in a row <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="32617" data-author="ramos" data-date="2011-05-14T03:01:20+00:00" data-subject="Re: Ouch">
 
-I can hear the gossip already:  "Be careful with Blackmore in your group - he's always losing his head in battle."
+I can hear the gossip already: "Be careful with Blackmore in your group - he's always losing his head in battle."
 
-Sorry, I couldn't resist.  :)
+Sorry, I couldn't resist. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

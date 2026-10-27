@@ -16,21 +16,21 @@ Since this is not as drastic as the other thread, I shall post here instead!
 
 Dear Ezekiel, 
 
-Well played sir!  
+Well played sir! 
 
-Let us continue to attack the poster, and ignore the posts!  You sure showed me how not to flame.  Oh no!  I didn't use the same name that I used in s3!  All my viewpoints are suddenly invalidated!  Not like I actually posted suggestions or anything instead of some general knee-jerk complaint about how 'oh nerfs are bad' and scoffing at others.  You sure were being constructive spending all your time telling me I was not being constructive.  
+Let us continue to attack the poster, and ignore the posts! You sure showed me how not to flame. Oh no! I didn't use the same name that I used in s3! All my viewpoints are suddenly invalidated! Not like I actually posted suggestions or anything instead of some general knee-jerk complaint about how 'oh nerfs are bad' and scoffing at others. You sure were being constructive spending all your time telling me I was not being constructive. 
 
-"People like me.." blah blah...  Excellent!  I admire your ability to speak for others without "put[ting] words in the mouth of others", as you have so righteously accused me of doing.  You'll have to show me how you do this sometime, but then you might have to descend from your lofty pedestal to do so.
+"People like me.." blah blah... Excellent! I admire your ability to speak for others without "put[ting] words in the mouth of others", as you have so righteously accused me of doing. You'll have to show me how you do this sometime, but then you might have to descend from your lofty pedestal to do so.
 
-Please stop bothering me, Ezekiel.  People like you are the reason why I don't post here more often.  Anyways...thanks to the rest of you for being patient.  And not hiding behind alias char names, since I know all the forum names you use are your real names and not aliases at all (that's how the internet works!). 
+Please stop bothering me, Ezekiel. People like you are the reason why I don't post here more often. Anyways...thanks to the rest of you for being patient. And not hiding behind alias char names, since I know all the forum names you use are your real names and not aliases at all (that's how the internet works!). 
 
 last player acedia
 
 Nobody by that name has been born into this world.
 
-Sniff!  I still haven't been born yet!  And apparently that isn't even my real name!  When did this happen, and why did no one tell me!  Must be this bad *scoff* I've been afflicted with.
+Sniff! I still haven't been born yet! And apparently that isn't even my real name! When did this happen, and why did no one tell me! Must be this bad \*scoff\* I've been afflicted with.
 
-*scoff* *scoff*  *scoff*
+\*scoff\* \*scoff\* \*scoff\*
 
 Acedia++
 
@@ -46,7 +46,7 @@ Go ahead and get your final post in, Acedia...i won't be reading it, but I know 
 
 Cheers
 
--Ezekiel
+\-Ezekiel
 
 </div>
 
@@ -56,10 +56,10 @@ Well, i'm agree with Acedia.
 
 Ezekiel has been bitching at me many times, from i'm raising in cap sysshock gear while cleric in group (no shock) to i was ruined succor spell, that was absolutely insane.
 
-Just letting you know to do not take it hard; we all have a bad days and maybe in bad mood. Comf acedia & ezekiel.
+Just letting you know to do not take it hard; we all have a bad days and maybe in bad mood. Comf acedia \& ezekiel.
 
 All the best.
 
-p.s. Acedia, what's your mud char name? :)
+p.s. Acedia, what's your mud char name? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

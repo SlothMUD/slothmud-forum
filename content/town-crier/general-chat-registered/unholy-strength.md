@@ -38,21 +38,21 @@ Could this spell be reconsidered? Otherwise it is mostly a useless spell.
 
 <div class="post" data-post-id="10096" data-author="12345" data-date="2006-01-12T14:25:32+00:00" data-subject="">
 
-Necro is considered to be the single most overpowered class in the mud.  Asking them to increase it's power even more is very likely to result in disappointment.
+Necro is considered to be the single most overpowered class in the mud. Asking them to increase it's power even more is very likely to result in disappointment.
 
 </div>
 
 <div class="post" data-post-id="10101" data-author="Guinex" data-date="2006-01-12T18:42:47+00:00" data-subject="">
 
-To be honest i don't even see the point of having the spell.  Orange potions give +3 str.
+To be honest i don't even see the point of having the spell. Orange potions give +3 str.
 
 </div>
 
 <div class="post" data-post-id="10102" data-author="12345" data-date="2006-01-12T19:44:59+00:00" data-subject="">
 
-Yeah, then we can boost up cleric damage spells so they're on parr with mages.  Necros deal with death and decay.  They get power from undead spirits and the rotting remains of the living.   There's lots of places in the game where a skill in one class is stronger than a similar skill in another class.
+Yeah, then we can boost up cleric damage spells so they're on parr with mages. Necros deal with death and decay. They get power from undead spirits and the rotting remains of the living. There's lots of places in the game where a skill in one class is stronger than a similar skill in another class.
 
-And I spend a fair amount on orange potions myself because I have neither spell.  There have been many times I would have preferred a nice free spell to cast so I could avoid a run to town or to the bank. Such is life. I had other priorities when I created the char.
+And I spend a fair amount on orange potions myself because I have neither spell. There have been many times I would have preferred a nice free spell to cast so I could avoid a run to town or to the bank. Such is life. I had other priorities when I created the char.
 
 </div>
 

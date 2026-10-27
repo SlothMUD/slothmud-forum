@@ -12,7 +12,7 @@ post_count: 8
 
 <div class="post" data-post-id="20280" data-author="Roadrunr" data-date="2007-09-14T17:05:42+00:00" data-subject="Standalone MUd Client?">
 
-Looking for a standalone mud client that I can put on a USB thumb drive.  I dont want anything that I have to install on the computer because I dont want anything left behind.
+Looking for a standalone mud client that I can put on a USB thumb drive. I dont want anything that I have to install on the computer because I dont want anything left behind.
 
 Anyone know of one?
 
@@ -36,15 +36,16 @@ zmud used to work as well as wintin95
 
 <div class="post" data-post-id="20290" data-author="Weasel" data-date="2007-09-14T21:40:12+00:00" data-subject="">
 
-telnet  :P
+telnet <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="20291" data-author="Roadrunr" data-date="2007-09-14T22:44:41+00:00" data-subject="">
 
-telnet  :P[/quote:9h1zukrf]
+> <strong>Weasel wrote:</strong>
+> telnet <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
-*Smack!*
+\*Smack!\*
 
 yeah, I've used Zmud (and still do) but it requires some registration crap now...maybe I can find an old version of it floating around....that might work very nicely....not like I'm gonna hit anything big when I'm at lunch anyway and if I can figure out if I want to keep playing Thump (or Ana or Xander) or not I might just run him at lunch and rr at night...
 

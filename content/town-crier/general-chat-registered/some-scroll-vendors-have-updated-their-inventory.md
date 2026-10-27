@@ -22,9 +22,9 @@ Enjoy.
 
 <div class="post" data-post-id="31805" data-author="jezer" data-date="2010-09-30T06:32:06+00:00" data-subject="Re: Some scroll vendors have updated their inventory">
 
-One of the greatest mysteries of sloth, why did island and lyme have no moldies? and you've just up and taken away all that mystery... Damn imms and their nerfs! :evil: 
+One of the greatest mysteries of sloth, why did island and lyme have no moldies? and you've just up and taken away all that mystery... Damn imms and their nerfs! <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom"> 
 
-Thanks!  :twisted:
+Thanks! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -34,6 +34,6 @@ Thanks God.
 
 I was afraid for a second you will change major recalls to work on 8x40 players too.
 
- :mrgreen:
+ <img src="/images/smilies/icon_mrgreen.svg" alt=":mrgreen:" title=":mrgreen:" width="15" height="15" class="smiley nozoom">
 
 </div>

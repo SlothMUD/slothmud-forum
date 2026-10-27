@@ -20,13 +20,13 @@ I think the mud is hungup or something...felt like a crash, then i hungup and wh
 
 ok i need to do housework anyway
 
-*****
+\*\*\*\*\*
 
-<1206hp 284ma 187mv>
+\<1206hp 284ma 187mv\>
 
-> Eastern Alcove
+\> Eastern Alcove
 
-Exits: North  
+Exits: North 
 
 An imprisoned efreeti is here attempting to rip his shackles from the wall.
 
@@ -58,17 +58,17 @@ Autolycos places Rogue's Dagger in the back of an imprisoned efreeti, resulting 
 
 An imprisoned efreeti's wound turns black from poison on Autolycos's blade.
 
-<1206hp 284ma 186mv>
+\<1206hp 284ma 186mv\>
 
 Banzai! To the rescue...
 
 You can taste the impending victory!
 
-<1206hp 284ma 187mv>
+\<1206hp 284ma 187mv\>
 
 But nobody is fighting him?
 
-<1206hp 284ma 187mv>
+\<1206hp 284ma 187mv\>
 
 web
 
@@ -76,10 +76,10 @@ web
 
 <div class="post" data-post-id="8861" data-author="markg" data-date="2005-09-29T16:28:42+00:00" data-subject="">
 
-ditto :(
+ditto <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 lol, was referring to Corwin's post 
 
-mustang snuck in :P
+mustang snuck in <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>

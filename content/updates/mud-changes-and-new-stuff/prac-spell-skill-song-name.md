@@ -14,10 +14,10 @@ post_count: 1
 
 Hi all ... 
 
-Added a new parameter to the prac command. prac <spell/skill/song-name> shows the line that correspond to that spell/skill/song.  Useful to quick check while being spammed in battle.
+Added a new parameter to the prac command. prac \<spell/skill/song-name\> shows the line that correspond to that spell/skill/song. Useful to quick check while being spammed in battle.
 
-You can check spells/skills/songs that you can know or can know, according to classorder and levels, like the result of the prac <no-argument> command.
+You can check spells/skills/songs that you can know or can know, according to classorder and levels, like the result of the prac \<no-argument\> command.
 
-Thanks to Toxis for the idea.  Changes in next reboot.
+Thanks to Toxis for the idea. Changes in next reboot.
 
 </div>

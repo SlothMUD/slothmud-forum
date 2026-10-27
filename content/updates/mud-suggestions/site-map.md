@@ -16,7 +16,7 @@ Anyone thinks a site map for our website would help the new comers to see all th
 
 Since we are starting to get a good flow of newbies coming to slothmud, it would probably be good if we have a site map to aid them along at the initial stages of navigating our webby. Considering we do have a substantial amount of information, it could be good as a nice addition to the menu.
 
-Just a idea after i took some silly web design courses and realise that site maps do help quite a bit. :)
+Just a idea after i took some silly web design courses and realise that site maps do help quite a bit. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -28,13 +28,13 @@ Let me know when you have it done and I'll post it!
 
 <div class="post" data-post-id="4023" data-author="impz" data-date="2005-01-29T02:21:44+00:00" data-subject="">
 
-nod, i think i can do a basic one. :)
+nod, i think i can do a basic one. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="4024" data-author="Blaster" data-date="2005-01-29T03:17:12+00:00" data-subject="">
 
-You mean a website map that breaks down the webpages I am guessing?  If so, I will see what I can do for that over the weekend providing my time is better than it has been.
+You mean a website map that breaks down the webpages I am guessing? If so, I will see what I can do for that over the weekend providing my time is better than it has been.
 
 Blaster
 
@@ -50,7 +50,7 @@ yep, that's what i meant, and doing a lil by lil now...... i probably finish it 
 
 There's a pretty groovy DHTML script that is great for site maps if you want to try it. Check it out here:
 
- [url:1epa7wwu]http://www.dynamicdrive.com/dynamicindex1/navigate1.htm[/url:1epa7wwu]
+ http://www.dynamicdrive.com/dynamicindex1/navigate1.htm
 
 </div>
 

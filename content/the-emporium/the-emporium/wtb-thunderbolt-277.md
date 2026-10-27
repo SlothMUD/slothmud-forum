@@ -18,7 +18,7 @@ will pay well.
 
 <div class="post" data-post-id="1023" data-author="Evergreen" data-date="2004-07-11T12:44:47+00:00" data-subject="">
 
-since its cp for aquest, 'pay well' is 20+ mils? would like to have one too :D
+since its cp for aquest, 'pay well' is 20+ mils? would like to have one too <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 

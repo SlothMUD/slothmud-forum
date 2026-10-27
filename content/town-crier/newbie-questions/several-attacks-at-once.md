@@ -28,17 +28,24 @@ How and when can I do that?
 
 <div class="post" data-post-id="5134" data-author="Vixn" data-date="2005-03-17T10:04:25+00:00" data-subject="Re: Several attacks at once?">
 
-Hi!
-
-About a week ago I grouped with a more powerful character in newbatia.
-
-He helped me kill a few mobs in Blasters Temple....
-
-My question is...when he attacked, he attacked several mobs at once?
-
-How and when can I do that?
-
-/Achazia[/quote:tbwoeyez]
+> <strong>achazia wrote:</strong>
+> Hi!
+> 
+> 
+> 
+> About a week ago I grouped with a more powerful character in newbatia.
+> 
+> He helped me kill a few mobs in Blasters Temple....
+> 
+> 
+> 
+> My question is...when he attacked, he attacked several mobs at once?
+> 
+> How and when can I do that?
+> 
+> 
+> 
+> /Achazia
 
 type help double attack, triple attack and maybe counter attack.
 

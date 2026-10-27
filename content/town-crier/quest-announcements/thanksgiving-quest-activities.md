@@ -16,11 +16,11 @@ Hello one and all,
 
  The dread world turducken Gobblemondu will make an appearance tomorrow
 
- at 10am Pacific ((UTC-08:00) Pacific Time (US & Canada)).
+ at 10am Pacific ((UTC-08:00) Pacific Time (US \& Canada)).
 
  A retinue of torky boids will also be ravaging the countryside.
 
- Colonel Harland has spotted the mysterious "phase berries".  Turn
+ Colonel Harland has spotted the mysterious "phase berries". Turn
 
  these in to Colonel Harland in the BH Castle area for a reward.
 
@@ -28,6 +28,6 @@ Hello one and all,
 
  See you all there,
 
- --Idjit
+ \--Idjit
 
 </div>

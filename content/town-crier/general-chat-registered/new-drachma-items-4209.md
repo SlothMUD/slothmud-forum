@@ -18,7 +18,7 @@ These are brand new items. No exchanges or refunds for old items. None of the ol
 
 Enjoy.
 
--Mirage
+\-Mirage
 
 </div>
 
@@ -36,11 +36,11 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: BONUS_HEAL_BONUS by 10
+ Affects: BONUS\_HEAL\_BONUS by 10
 
-    Affects: MAX_WIS by 1
+ Affects: MAX\_WIS by 1
 
-    Affects: SYSTEM_SHOCK by 1
+ Affects: SYSTEM\_SHOCK by 1
 
 Only those who have attained supremacy in at least five classes may use
 
@@ -56,7 +56,7 @@ AC-apply is -0.1
 
 Can affect you as:
 
-    Affects: WATER_BREATHING by 1
+ Affects: WATER\_BREATHING by 1
 
 Only those who are at least novice avatars may use this item.
 
@@ -70,7 +70,7 @@ AC-apply is -0.3
 
 Can affect you as:
 
-    Affects: BONUS_SPELL_BONUS by 10
+ Affects: BONUS\_SPELL\_BONUS by 10
 
 Only those who have attained supremacy in at least two classes may use this
 
@@ -84,11 +84,11 @@ Weight: 1, Value: 170drachma, Worn in: TAKE
 
 Clasp can only be attached to:
 
-   bracers, bracelets, and wrist-bands
+ bracers, bracelets, and wrist-bands
 
 Clasp gives the user +1 HITROLL
 
-Clasp gives the user +5 REGEN_HP
+Clasp gives the user +5 REGEN\_HP
 
 Only those who are at least adept magic users, clerics, thieves, warriors,
 
@@ -102,9 +102,9 @@ Weight: 1, Value: 500drachma, Worn in: TAKE
 
 Clasp can only be attached to:
 
-   a ring of flaming serpents
+ a ring of flaming serpents
 
-Clasp gives the user +1 REGEN_MANA
+Clasp gives the user +1 REGEN\_MANA
 
 Only those who are at least novice avatars may use this item.
 
@@ -116,7 +116,7 @@ Weight: 1, Value: 100drachma, Worn in: TAKE
 
 Clasp can only be attached to:
 
-   shields
+ shields
 
 Clasp gives the user +15 HITPOINT
 
@@ -134,7 +134,7 @@ AC-apply is -0.5
 
 Can affect you as:
 
-    Affects: HITPOINT by 20
+ Affects: HITPOINT by 20
 
 Only those who have attained supremacy in at least three classes may use
 
@@ -150,11 +150,11 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: BONUS_CHARISMA by 1
+ Affects: BONUS\_CHARISMA by 1
 
-    Affects: REGEN_MANA by 2
+ Affects: REGEN\_MANA by 2
 
-    Affects: MAX_INT by 1
+ Affects: MAX\_INT by 1
 
 Only those who are at least novice avatars may use this item.
 
@@ -168,9 +168,9 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: BONUS_CHARISMA by 1
+ Affects: BONUS\_CHARISMA by 1
 
-    Affects: MAX_DEX by 1
+ Affects: MAX\_DEX by 1
 
 Only those who are at least novice avatars may use this item.
 
@@ -190,7 +190,7 @@ AC-apply is -0.5
 
 Can affect you as:
 
-    Affects: DAMROLL by 2
+ Affects: DAMROLL by 2
 
 Only those who have attained supremacy in at least six classes may use this
 
@@ -206,13 +206,13 @@ AC-apply is -0.3
 
 Can affect you as:
 
-    Affects: BONUS_HAND_DAM by 2
+ Affects: BONUS\_HAND\_DAM by 2
 
-    Affects: HAND_DAMAGE by 1
+ Affects: HAND\_DAMAGE by 1
 
-    Affects: HITROLL by 2
+ Affects: HITROLL by 2
 
-    Affects: MAX_STR by 1
+ Affects: MAX\_STR by 1
 
 Only those who have attained supremacy in at least six classes may use this
 
@@ -228,7 +228,7 @@ AC-apply is -0.4
 
 Can affect you as:
 
-    Affects: MAX_DEX by 1
+ Affects: MAX\_DEX by 1
 
 Only those who are at least novice avatars may use this item.
 
@@ -246,9 +246,9 @@ Weight: 1, Value: 600drachma, Worn in: TAKE
 
 Clasp can only be attached to:
 
-   vambraces, brassards, and phylacteries
+ vambraces, brassards, and phylacteries
 
-Clasp gives the user +1 REGEN_MANA
+Clasp gives the user +1 REGEN\_MANA
 
 Only those who are at least novice avatars may use this item.
 
@@ -260,11 +260,11 @@ Weight: 1, Value: 200drachma, Worn in: TAKE
 
 Clasp can only be attached to:
 
-   greaves and leggings
+ greaves and leggings
 
 Clasp gives the user +15 MOVE
 
-Clasp gives the user +5 REGEN_MOVE
+Clasp gives the user +5 REGEN\_MOVE
 
 Only those who are at least adept magic users, clerics, thieves, warriors,
 
@@ -278,9 +278,9 @@ Weight: 1, Value: 500drachma, Worn in: TAKE
 
 Clasp can only be attached to:
 
-   a ring of flaming serpents
+ a ring of flaming serpents
 
-Clasp gives the user +1 REGEN_MANA
+Clasp gives the user +1 REGEN\_MANA
 
 Only those who are at least novice avatars may use this item.
 
@@ -294,9 +294,9 @@ Damage Dice is '3D7'
 
 Can affect you as:
 
-    Affects: HITROLL by 5
+ Affects: HITROLL by 5
 
-    Affects: BONUS_UNDEAD_CONTROL by 2
+ Affects: BONUS\_UNDEAD\_CONTROL by 2
 
 Only those who have attained supremacy in at least six classes may use this
 
@@ -312,7 +312,7 @@ AC-apply is -0.1
 
 Can affect you as:
 
-    Affects: DAMROLL by 1
+ Affects: DAMROLL by 1
 
 Only those who have attained supremacy in at least six classes may use this
 
@@ -328,11 +328,11 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: BONUS_HEAL_BONUS by 10
+ Affects: BONUS\_HEAL\_BONUS by 10
 
-    Affects: MAX_WIS by 1
+ Affects: MAX\_WIS by 1
 
-    Affects: SYSTEM_SHOCK by 1
+ Affects: SYSTEM\_SHOCK by 1
 
 Only those who have attained supremacy in at least five classes may use
 
@@ -348,11 +348,11 @@ AC-apply is -2.4
 
 Can affect you as:
 
-    Affects: BONUS_HEAL_BONUS by 15
+ Affects: BONUS\_HEAL\_BONUS by 15
 
-    Affects: HITPOINT by 20
+ Affects: HITPOINT by 20
 
-    Affects: REGEN_MANA by 1
+ Affects: REGEN\_MANA by 1
 
 Only those who have attained supremacy in at least six classes may use this
 
@@ -370,7 +370,7 @@ Thanks for posting stats. The Platemail has wrong stat on it (bonus spell bonus,
 
 query blaze about infinity
 
-Archmage Blaze tells you 'Certainly, Ma'am!  Let me tell you about ring of infinity:'
+Archmage Blaze tells you 'Certainly, Ma'am! Let me tell you about ring of infinity:'
 
 Object 'ring infinity elite ly', Item type: ARMOR
 
@@ -382,9 +382,9 @@ AC-apply is -0.3
 
 Can affect you as:
 
-    Affects: BONUS_HEAL_BONUS by 5
+ Affects: BONUS\_HEAL\_BONUS by 5
 
-    Affects: SYSTEM_SHOCK by 2
+ Affects: SYSTEM\_SHOCK by 2
 
 Only those who are at least novice avatars may use this item.
 
@@ -410,11 +410,11 @@ AC-apply is -0.8
 
 Can affect you as:
 
-    Affects: BONUS_HAND_DAM by 1
+ Affects: BONUS\_HAND\_DAM by 1
 
-    Affects: BONUS_REDUCE_DAMAGE by 1
+ Affects: BONUS\_REDUCE\_DAMAGE by 1
 
-    Affects: HITPOINT by 35
+ Affects: HITPOINT by 35
 
 Only those who have attained supremacy in at least six classes may use this
 
@@ -428,11 +428,11 @@ Weight: 1, Value: 350drachma, Worn in: TAKE
 
 Clasp can only be attached to:
 
-   gloves and gauntlets
+ gloves and gauntlets
 
-Clasp gives the user +10 STAB_DAMAGE
+Clasp gives the user +10 STAB\_DAMAGE
 
-Clasp gives the user +10 CIRCLE_DAMAGE
+Clasp gives the user +10 CIRCLE\_DAMAGE
 
 Only those who are at least master thieves may use this item.
 

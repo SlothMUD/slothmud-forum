@@ -48,7 +48,7 @@ Your wisdom and experience will be required too, so don't you wave you hand good
 
 Whatever happens it happens.
 
-All I'm 100% sure, that you guys from wizlist know what are you doing, you already did everything so well, Slothmud touched peoples hearts and will be never forgotten. I wish players and admins of Slothmud all the best, you are all good people, cept for few dorks :) 
+All I'm 100% sure, that you guys from wizlist know what are you doing, you already did everything so well, Slothmud touched peoples hearts and will be never forgotten. I wish players and admins of Slothmud all the best, you are all good people, cept for few dorks <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> 
 
 Everything changes folks, love you all.
 

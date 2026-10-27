@@ -16,11 +16,11 @@ Upon reboot, new command unsocket will be in-game.
 
 UNSOCKET
 
-See Also:     SOCKET RUNES GEMS CALL OF THE CUILLEN
+See Also: SOCKET RUNES GEMS CALL OF THE CUILLEN
 
-Usage:     socket rune objname
+Usage: socket rune objname
 
-Usage:     unsocket rune objname
+Usage: unsocket rune objname
 
 There are close to a hundred types of gems that can be used to create
 

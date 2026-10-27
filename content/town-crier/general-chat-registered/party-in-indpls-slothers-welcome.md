@@ -40,7 +40,7 @@ I know it's been a while since I checked the crier, but I REALLY missed that par
 
 He means December 8. 
 
- :roll:  :roll:
+ <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -48,25 +48,24 @@ He means December 8.
 
 I was tempting to make an appearance but then I found out the pics and video's from last years blowout. Be afraid, be very afraid...
 
-[url:2yyx25yp]http://www.shoutfile.com/v/C4pWZPH1/Bonfire_Goes_Wrong[/url:2yyx25yp]
+http://www.shoutfile.com/v/C4pWZPH1/Bonfire_Goes_Wrong
 
-[img:2yyx25yp]http://www.kodak.com/US/images/en/corp/1000nerds/mackson/DSC00391.jpg[/img:2yyx25yp]
+![](http://www.kodak.com/US/images/en/corp/1000nerds/mackson/DSC00391.jpg)
 
-[img:2yyx25yp]http://farm3.static.flickr.com/2335/1772303672_823c78d339.jpg?v=0[/img:2yyx25yp]
+![](http://farm3.static.flickr.com/2335/1772303672_823c78d339.jpg?v=0)
 
-[img:2yyx25yp]http://www.tortugatwins.com/corporate/images/nerds.jpg[/img:2yyx25yp]
+![](http://www.tortugatwins.com/corporate/images/nerds.jpg)
 
-[img:2yyx25yp]http://studio8.net/images/Members/BROCK/nerds1-lg.jpg[/img:2yyx25yp]
+![](http://studio8.net/images/Members/BROCK/nerds1-lg.jpg)
 
-Be.....very....afraid 8)
+Be.....very....afraid <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="21449" data-author="Weasel" data-date="2007-11-28T02:49:09+00:00" data-subject="">
 
-[img:2ezoc1uj]http://studio8.net/images/Members/BROCK/nerds1-lg.jpg[/img:2ezoc1uj]
-
-[/quote:2ezoc1uj]
+> <strong>Tap wrote:</strong>
+> ![](http://studio8.net/images/Members/BROCK/nerds1-lg.jpg)
 
 is that crowded house playing silly buggers?
 
@@ -78,7 +77,7 @@ wtf?
 
 I thought we killed off Weasel in the last episdode...
 
-no-one's going to watch the season cliffhanger if the rodent is still around....   :x
+no-one's going to watch the season cliffhanger if the rodent is still around.... <img src="/images/smilies/icon_mad.svg" alt=":x" title=":x" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -88,15 +87,15 @@ oops, Dec 8th...
 
 A wide variety of libations will be available. It's not going to be a total geekfest, but you're still welcome Auto.
 
-[img:fjla4btw]http://www.geocities.com/saudixpat/nerdauto.jpg[/img:fjla4btw]
+![](http://www.geocities.com/saudixpat/nerdauto.jpg)
 
 </div>
 
 <div class="post" data-post-id="21479" data-author="Autolycos" data-date="2007-11-29T20:51:01+00:00" data-subject="">
 
-LMFAO!   fantastic!  
+LMFAO! fantastic! 
 
-:D
+<img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -112,9 +111,9 @@ Alias
 
 <div class="post" data-post-id="21494" data-author="Autolycos" data-date="2007-11-30T15:05:34+00:00" data-subject="">
 
-teh Toddz r no skurrd of teh indy-polace  :twisted:
+teh Toddz r no skurrd of teh indy-polace <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
-he wants to see more peeps... I think he's tired of seeing me all the time  :x
+he wants to see more peeps... I think he's tired of seeing me all the time <img src="/images/smilies/icon_mad.svg" alt=":x" title=":x" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -140,29 +139,29 @@ Alias
 
 <div class="post" data-post-id="21500" data-author="Corinn" data-date="2007-12-01T01:40:56+00:00" data-subject="">
 
-Oh Todd, you already met me.  As far as I'm concerned, you don't need to meet anyone else, for they will never live up to my kickassness
+Oh Todd, you already met me. As far as I'm concerned, you don't need to meet anyone else, for they will never live up to my kickassness
 
-  :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="21501" data-author="brady" data-date="2007-12-01T01:52:22+00:00" data-subject="">
 
-Ahhh...but did Todd make you puke?  I believe I trump your kickassiness!  ROGL! ROGL!
+Ahhh...but did Todd make you puke? I believe I trump your kickassiness! ROGL! ROGL!
 
 </div>
 
 <div class="post" data-post-id="21502" data-author="Autolycos" data-date="2007-12-01T02:34:35+00:00" data-subject="">
 
-LMFAO!!!!   you made her puke from listening to ABBA all fuckin night!
+LMFAO!!!! you made her puke from listening to ABBA all fuckin night!
 
 </div>
 
 <div class="post" data-post-id="21503" data-author="Corinn" data-date="2007-12-01T02:39:43+00:00" data-subject="">
 
-duuude marc....wtf?!?!  i thought you werent gonna tell anyone!!! sonafabitch!
+duuude marc....wtf?!?! i thought you werent gonna tell anyone!!! sonafabitch!
 
-*snicker*
+\*snicker\*
 
 </div>
 
@@ -184,23 +183,24 @@ Have fun all u peeps!!!
 
 <div class="post" data-post-id="21570" data-author="brady" data-date="2007-12-07T18:42:48+00:00" data-subject="">
 
-[<LINK_TEXT text="http://www.youtube.com/watch?v=IU-r4IqL ... re=related">http://www.youtube.com/watch?v=IU-r4IqLL1I&feature=related</LINK_TEXT>](http://www.youtube.com/watch?v=IU-r4IqLL1I&feature=related)
+[http://www.youtube.com/watch?v=IU-r4IqLL1I&feature=related](http://www.youtube.com/watch?v=IU-r4IqLL1I&feature=related)
 
 </div>
 
 <div class="post" data-post-id="21571" data-author="resouh" data-date="2007-12-07T20:56:55+00:00" data-subject="">
 
-[<LINK_TEXT text="http://www.youtube.com/watch?v=BXeU2B6A ... re=related">http://www.youtube.com/watch?v=BXeU2B6AwDg&feature=related</LINK_TEXT>](http://www.youtube.com/watch?v=BXeU2B6AwDg&feature=related)
+[http://www.youtube.com/watch?v=BXeU2B6AwDg&feature=related](http://www.youtube.com/watch?v=BXeU2B6AwDg&feature=related)
 
 </div>
 
 <div class="post" data-post-id="21581" data-author="Autolycos" data-date="2007-12-09T02:35:58+00:00" data-subject="">
 
-Have fun all u peeps!!![/quote:130avg96]
+> <strong>Leaf wrote:</strong>
+> Have fun all u peeps!!!
 
-Oh we did,  mostly because you didnt show up Will  :twisted: 
+Oh we did, mostly because you didnt show up Will <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-[img:130avg96]http://www.xgenco.com/pirates/John_Todd.JPG[/img:130avg96]
+![](http://www.xgenco.com/pirates/John_Todd.JPG)
 
 </div>
 
@@ -214,9 +214,9 @@ nice t-shirt. arrr.
 
 Sad to say Jason, I actually went to the Hannah Montana concert in Chicago.
 
-My fiance won the tickets off NBC's In The Loop.  I wanted to sell them, but
+My fiance won the tickets off NBC's In The Loop. I wanted to sell them, but
 
-she had to be there to pic it up and sign some paper crap.  We should be on
+she had to be there to pic it up and sign some paper crap. We should be on
 
 the news today 12/10 at like 11:00 cst (30mins away).
 
@@ -226,9 +226,10 @@ But trust me, I would have reather be there to punch u in the face!
 
 <div class="post" data-post-id="21611" data-author="Autolycos" data-date="2007-12-10T20:43:59+00:00" data-subject="">
 
-I actually love Hannah Montana. My fiance is mad cause i'm a perv.  I wanted to see her.  We should be on
-
-the news today "To Catch a Predator" [/quote:2y3db4m2]
+> <strong>Leaf wrote:</strong>
+> I actually love Hannah Montana. My fiance is mad cause i'm a perv. I wanted to see her. We should be on
+> 
+> the news today "To Catch a Predator"
 
 loser...
 
@@ -236,7 +237,7 @@ loser...
 
 <div class="post" data-post-id="21612" data-author="Medios" data-date="2007-12-10T21:58:18+00:00" data-subject="">
 
-That's some funny stuff.  Will admitting to going to Hannah Montana.
+That's some funny stuff. Will admitting to going to Hannah Montana.
 
 LOLOLOLOLOL
 
@@ -246,13 +247,13 @@ Wtf Will I thought you learned not to tell on yourself after the dildo story.
 
 <div class="post" data-post-id="21615" data-author="Leaf" data-date="2007-12-11T03:04:44+00:00" data-subject="">
 
-Mike we know ur just jealous u couldn't bring ur girl there :P
+Mike we know ur just jealous u couldn't bring ur girl there <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
-Since it seems like every 5-10 yr girl wanted those tickets.  I could have 
+Since it seems like every 5-10 yr girl wanted those tickets. I could have 
 
 been like $1k richer if we sold those tickets.
 
-Also it seems u really like that dildo story Mike.  A little too much it seems.
+Also it seems u really like that dildo story Mike. A little too much it seems.
 
 </div>
 
@@ -260,7 +261,7 @@ Also it seems u really like that dildo story Mike.  A little too much it seems.
 
 Yeh sometimes when I go to Aaron's we roll around in the floor laughing about it.
 
-Edit:  Wait til I tell him about Hannah Montana.
+Edit: Wait til I tell him about Hannah Montana.
 
 </div>
 
@@ -272,12 +273,12 @@ You mean when you two roll around in baby oil together on the floor.
 
 <div class="post" data-post-id="21630" data-author="Autolycos" data-date="2007-12-12T03:44:45+00:00" data-subject="">
 
-Will launches an attempt to distract...    (fails save)
+Will launches an attempt to distract... (fails save)
 
-Mike expertly counters with a you're a dumbass attack..  
+Mike expertly counters with a you're a dumbass attack.. 
 
 Will is defeated.... (yet again)
 
-howse that mangina doing Will?  :twisted:
+howse that mangina doing Will? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

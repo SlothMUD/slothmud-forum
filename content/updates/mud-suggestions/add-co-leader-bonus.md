@@ -14,19 +14,19 @@ post_count: 1
 
 Often leader's effort aren't enough to keep the group in order. Sometimes, in large groups another person needs to:
 
-- run the healo
+\- run the healo
 
-- run to areas and beacon
+\- run to areas and beacon
 
-- give specs to people
+\- give specs to people
 
-- guide and spell up newbies
+\- guide and spell up newbies
 
-- get mare
+\- get mare
 
-- help the leader with debuffs (yes, only 2-3 of 10 do this)
+\- help the leader with debuffs (yes, only 2-3 of 10 do this)
 
-- keep an eye on the eq mob kill order.
+\- keep an eye on the eq mob kill order.
 
 Even if the leader can do all of the above, having someone help him makes things significantly easier.
 

@@ -12,9 +12,9 @@ post_count: 4
 
 <div class="post" data-post-id="39046" data-author="*Idjit*" data-date="2019-01-13T07:46:34+00:00" data-subject="Turn Undead scales with healbonus">
 
-Teker has done some changes to turn undead which now scales with heal bonus.  Also a review of which mobs are vulnerable to 'positive' damage has concurrently been done, as well as seeing which undead creatures are not set to undead species which should-be.  Get out there and test it!
+Teker has done some changes to turn undead which now scales with heal bonus. Also a review of which mobs are vulnerable to 'positive' damage has concurrently been done, as well as seeing which undead creatures are not set to undead species which should-be. Get out there and test it!
 
---Idj
+\--Idj
 
 </div>
 

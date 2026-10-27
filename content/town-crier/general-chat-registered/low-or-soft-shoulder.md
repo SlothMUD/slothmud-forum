@@ -12,7 +12,7 @@ post_count: 3
 
 <div class="post" data-post-id="18551" data-author="Hades" data-date="2007-05-19T20:17:25+00:00" data-subject="Low or Soft Shoulder">
 
-Post your favorite shoulders here :twisted:
+Post your favorite shoulders here <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -22,7 +22,7 @@ AC = Vol. Guards
 
 Dam = Weekly Bone +1dam -dex
 
-Casters = Any +2mr +Mana :)
+Casters = Any +2mr +Mana <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -30,12 +30,12 @@ Casters = Any +2mr +Mana :)
 
 I was thinking more like...
 
-[img:1cewxlfz]http://l.yimg.com/www.flickr.com/images/spaceball.gif[/img:1cewxlfz]
+![](http://l.yimg.com/www.flickr.com/images/spaceball.gif)
 
 or even 
 
-[img:1cewxlfz]http://www.grimmemennesker.dk/data/media/1/HAHAHA.jpg[/img:1cewxlfz]
+![](http://www.grimmemennesker.dk/data/media/1/HAHAHA.jpg)
 
- :roll:
+ <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>

@@ -28,9 +28,9 @@ Widow
 
 <div class="post" data-post-id="19835" data-author="Malison" data-date="2007-08-22T19:06:55+00:00" data-subject="">
 
-When your followers are tanking for you, sometimes the mob will disengage from them to attack you, so you could need to reorder your pets into combat.  If it's important to get the blind/weaken, them tanking to start is probably a good idea, but in most cases it's best for you to take the hits.
+When your followers are tanking for you, sometimes the mob will disengage from them to attack you, so you could need to reorder your pets into combat. If it's important to get the blind/weaken, them tanking to start is probably a good idea, but in most cases it's best for you to take the hits.
 
-You can't heal your undead, but when you are able to get a xegyi supplicant, it heals them in addition to fighting.  Dismissing supplicants is often the best option to refresh them, but I wouldn't recommend it with your undead.  Once you start using the larger undead forms it gets rather expensive to resummon them frequently.
+You can't heal your undead, but when you are able to get a xegyi supplicant, it heals them in addition to fighting. Dismissing supplicants is often the best option to refresh them, but I wouldn't recommend it with your undead. Once you start using the larger undead forms it gets rather expensive to resummon them frequently.
 
 </div>
 

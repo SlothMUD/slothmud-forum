@@ -14,10 +14,10 @@ post_count: 1
 
 Some of us may not know who he was, but the sources explain. I think it's safe to say that we all owe this man gratitude for at least one of our hobbies.
 
-[url:3d3v1c9e]http://grognardia.blogspot.com/2009/04/sadly-this-is-accurate.html[/url:3d3v1c9e]
+http://grognardia.blogspot.com/2009/04/sadly-this-is-accurate.html
 
-[url:3d3v1c9e]http://www.escapistmagazine.com/news/view/90765-R-I-P-Dave-Arneson[/url:3d3v1c9e]
+http://www.escapistmagazine.com/news/view/90765-R-I-P-Dave-Arneson
 
-[url:3d3v1c9e]http://en.wikipedia.org/wiki/Dave_Arneson[/url:3d3v1c9e]
+http://en.wikipedia.org/wiki/Dave_Arneson
 
 </div>

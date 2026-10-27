@@ -16,6 +16,6 @@ Deaths...
 
 Do not be dead when this runs out.. mud will be down for maximum 2 hours and I am not doing pfile restores
 
-<LINK_TEXT text="https://www.tickcounter.com/countdown/2 ... -countdown">https://www.tickcounter.com/countdown/2862368/my-countdown</LINK_TEXT>
+https://www.tickcounter.com/countdown/2862368/my-countdown
 
 </div>

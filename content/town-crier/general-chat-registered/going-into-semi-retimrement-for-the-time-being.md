@@ -20,7 +20,7 @@ enjoy,
 
 josh
 
-PS anyone in the Cape Girardeau, MO/Carbondale. Il area that has management experience and is looking for a job let me know.  I need to find a couple good people to get into my shop as assistants.
+PS anyone in the Cape Girardeau, MO/Carbondale. Il area that has management experience and is looking for a job let me know. I need to find a couple good people to get into my shop as assistants.
 
 </div>
 
@@ -32,50 +32,53 @@ Here's the first rule of management: DELEGATE!
 
 The second and third rules are exactly the same.
 
-..if you do it right, you should actually be able to mud MORE than you were previously..  :twisted:
+..if you do it right, you should actually be able to mud MORE than you were previously.. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="20736" data-author="Yinao" data-date="2007-10-11T04:31:59+00:00" data-subject="">
 
-Damnit Scooba Steve, no more Your frostbolt obliterates Banedon. :(
+Damnit Scooba Steve, no more Your frostbolt obliterates Banedon. <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="20751" data-author="Leaf" data-date="2007-10-11T15:42:54+00:00" data-subject="">
 
-I think Aaron still lives around there, get him a job :P
+I think Aaron still lives around there, get him a job <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
-Better yet, dont ...  He will prob come in high every day and pee in the soup.
+Better yet, dont ... He will prob come in high every day and pee in the soup.
 
 </div>
 
 <div class="post" data-post-id="20831" data-author="banedon" data-date="2007-10-13T00:25:11+00:00" data-subject="">
 
-I think Aaron still lives around there, get him a job :P
+> <strong>Leaf wrote:</strong>
+> I think Aaron still lives around there, get him a job <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
+> 
+> 
+> 
+> Better yet, dont ... He will prob come in high every day and pee in the soup.
 
-Better yet, dont ...  He will prob come in high every day and pee in the soup.[/quote:1ke01n4t]
-
-Well no worries there, we don't have soup, just cold subs.  Compared to some of the yo-yos that are there now, I think a trained baboon could do better, and if Yinao wants to come down this way I'll use him to prove that theory   :P
+Well no worries there, we don't have soup, just cold subs. Compared to some of the yo-yos that are there now, I think a trained baboon could do better, and if Yinao wants to come down this way I'll use him to prove that theory <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="20833" data-author="Yinao" data-date="2007-10-13T04:36:58+00:00" data-subject="">
 
-Better yet I will give you Pat's hamster.  :shock:
+Better yet I will give you Pat's hamster. <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="20834" data-author="madmax" data-date="2007-10-13T04:58:50+00:00" data-subject="">
 
-Hey bud, i didn't realize you were local.  Catch me on the mud, or send me an email.  I'll stop by and have lunch sometime.  
+Hey bud, i didn't realize you were local. Catch me on the mud, or send me an email. I'll stop by and have lunch sometime. 
 
-madmax.sloth <at> gmail.com
+madmax.sloth \<at\> gmail.com
 
 </div>
 
 <div class="post" data-post-id="20840" data-author="13" data-date="2007-10-13T13:18:09+00:00" data-subject="">
 
-I already have a job that I love :)
+I already have a job that I love <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

@@ -26,7 +26,7 @@ Splork
 
 <div class="post" data-post-id="9388" data-author="Weasel" data-date="2005-11-06T16:12:25+00:00" data-subject="">
 
-The pawnbroker tells you 'There is something wrong with shipping.  Contact an immortal at once!'
+The pawnbroker tells you 'There is something wrong with shipping. Contact an immortal at once!'
 
 thucking fiefs
 
@@ -50,7 +50,8 @@ well i suggest putting in an ability to refuse pacakges or send them back to sen
 
 <div class="post" data-post-id="9394" data-author="Blackguard" data-date="2005-11-06T21:52:40+00:00" data-subject="">
 
-pthief retaliation for killing them has been shipblocking already and so it would be dumb in turn not to expect the player to retaliate then against the pthief.[/quote:3vkh3vlt]
+> <strong>Ezekiel wrote:</strong>
+> pthief retaliation for killing them has been shipblocking already and so it would be dumb in turn not to expect the player to retaliate then against the pthief.
 
 Why don't you tell the truth, Ezekiel?
 
@@ -60,7 +61,7 @@ I logged on yesterday morning as Jormungandr to find lutefisk from Ezekiel for a
 
 <div class="post" data-post-id="9395" data-author="Medios" data-date="2005-11-06T22:11:14+00:00" data-subject="">
 
-I agree there needs to be a function to refuse packages.  Filling someones mailbox with something tagged for millions of coins is a bit much.  What ever happened to killing pthieves, whats up with all the new tactics that just ruin the game for everyone.
+I agree there needs to be a function to refuse packages. Filling someones mailbox with something tagged for millions of coins is a bit much. What ever happened to killing pthieves, whats up with all the new tactics that just ruin the game for everyone.
 
 Mike
 
@@ -144,7 +145,7 @@ Splork
 
 <div class="post" data-post-id="9404" data-author="Medios" data-date="2005-11-06T23:59:08+00:00" data-subject="">
 
-This really is not anyones fault.  I dont think either of you guys intentionally wanted this to happen.  Kiss and make up or you both get a firm spanking.
+This really is not anyones fault. I dont think either of you guys intentionally wanted this to happen. Kiss and make up or you both get a firm spanking.
 
 Mike
 
@@ -152,13 +153,13 @@ Mike
 
 <div class="post" data-post-id="9405" data-author="Autolycos" data-date="2005-11-07T00:04:24+00:00" data-subject="">
 
-MOM!!!  Medios stole my crayons again!  :evil:
+MOM!!! Medios stole my crayons again! <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="9407" data-author="Ezekiel" data-date="2005-11-07T00:19:20+00:00" data-subject="">
 
-First, I'd like to apologize for my comments about the admin and splork toward their character. They do work hard and are rarely lauded for their work, providing us with the mud I've been able to enjoy for 7 years now. That having been said, I retaliated against ship blocking action, an idea that was introduced to me by pthieves themselves. I did not know there was a limit on number of items that a post office can handle.  Seeing as how I am not one that likes to call to immortals about every little thing, as I have seen mixed responses to such things before, I figured I could handle this issue myself. Anything I can handle myself...i usually do, especially when it comes to pthieves. I am sorry that splork had to hear all the bitching about the post office being broken and that probably added to the wrath that fell upon me. At the time, I believe I did what was right under the circumstance. Again, had I known there was a limit, I would have told Splork about the issue first. I do not expect imms to forsee such flaws in the code...but I do expect them to act with reason and empathy when someone was simply trying to screw over a pthief any way that they can, especially a way that they had been screwed over. Splork knows I am not one to brown-nose or at any time let someone threaten me with power, which can be both bad and good at times. Again, I want to thank the imms for the kick ass mud they provide us and redress all the hostile words previusly listed here. After reading Medios' short post I did realize that this was unintentional from all sides and maybe things could have been handled differently by all involved. I sure hope shipping is reinstated and that the issue clears itself up because I would hate this to affect the entire mud unintentionally. 
+First, I'd like to apologize for my comments about the admin and splork toward their character. They do work hard and are rarely lauded for their work, providing us with the mud I've been able to enjoy for 7 years now. That having been said, I retaliated against ship blocking action, an idea that was introduced to me by pthieves themselves. I did not know there was a limit on number of items that a post office can handle. Seeing as how I am not one that likes to call to immortals about every little thing, as I have seen mixed responses to such things before, I figured I could handle this issue myself. Anything I can handle myself...i usually do, especially when it comes to pthieves. I am sorry that splork had to hear all the bitching about the post office being broken and that probably added to the wrath that fell upon me. At the time, I believe I did what was right under the circumstance. Again, had I known there was a limit, I would have told Splork about the issue first. I do not expect imms to forsee such flaws in the code...but I do expect them to act with reason and empathy when someone was simply trying to screw over a pthief any way that they can, especially a way that they had been screwed over. Splork knows I am not one to brown-nose or at any time let someone threaten me with power, which can be both bad and good at times. Again, I want to thank the imms for the kick ass mud they provide us and redress all the hostile words previusly listed here. After reading Medios' short post I did realize that this was unintentional from all sides and maybe things could have been handled differently by all involved. I sure hope shipping is reinstated and that the issue clears itself up because I would hate this to affect the entire mud unintentionally. 
 
 Cheers mud,
 
@@ -168,7 +169,7 @@ Ezekiel
 
 <div class="post" data-post-id="9409" data-author="Weasel" data-date="2005-11-07T01:19:29+00:00" data-subject="">
 
-thucking fiefs!   :twisted:
+thucking fiefs! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -182,31 +183,34 @@ cheers
 
 <div class="post" data-post-id="9411" data-author="12345" data-date="2005-11-07T02:11:41+00:00" data-subject="">
 
-MMMmmm... lutefisk. *drool*
+MMMmmm... lutefisk. \*drool\*
 
 </div>
 
 <div class="post" data-post-id="9412" data-author="brand" data-date="2005-11-07T02:58:16+00:00" data-subject="">
 
-man i hope sloth stamps don't go up 2 cents each next year :twisted:
+man i hope sloth stamps don't go up 2 cents each next year <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="9415" data-author="Ezekiel" data-date="2005-11-08T06:22:51+00:00" data-subject="">
 
-Seeing Weasel's post did remind me of a post a while back by Jake pertaining to tricks. Many times people exploit bugs and that is illegal. But Jake supported the idea of players using "tricks" (backdoor ways to kill or perform actions without manipulating code) because those players that do so are showing their knowledge and prowess with the tools they are given. Where was Splork's outcry when people used the hunt bug (note: an actual bug!) was exploited by many to vastly overpower chars to solo things that were not designed for solo. No...after a long while, and no scapegoat, this was simply changed with no further ado. Where IS his outcry when people still get huge mobs to fight other huge mobs by taking advantage of the fact that no safeguards were put in to prevent such killing, shitfing power to only those that as he says "don't use implements correctly." There was no bug in this situation. If there had been an option to refuse package...and there was a way for me to prevent that refusal through a bug and I shipblocked a pthief's chars that way, I could understand Splork's calling me an abuser. However, seeing as how I only shipped about 45 rations (which I was accused of shipping 1,000 btw), and seeing as how this was clearly a trick, a tool of the game, and not a bug, I don't see in essence how any imm could say shit about this situation. Good riddance.  Why not start looking at the difference between abusing code and using tricks...and what Jake has said he supports.
+Seeing Weasel's post did remind me of a post a while back by Jake pertaining to tricks. Many times people exploit bugs and that is illegal. But Jake supported the idea of players using "tricks" (backdoor ways to kill or perform actions without manipulating code) because those players that do so are showing their knowledge and prowess with the tools they are given. Where was Splork's outcry when people used the hunt bug (note: an actual bug!) was exploited by many to vastly overpower chars to solo things that were not designed for solo. No...after a long while, and no scapegoat, this was simply changed with no further ado. Where IS his outcry when people still get huge mobs to fight other huge mobs by taking advantage of the fact that no safeguards were put in to prevent such killing, shitfing power to only those that as he says "don't use implements correctly." There was no bug in this situation. If there had been an option to refuse package...and there was a way for me to prevent that refusal through a bug and I shipblocked a pthief's chars that way, I could understand Splork's calling me an abuser. However, seeing as how I only shipped about 45 rations (which I was accused of shipping 1,000 btw), and seeing as how this was clearly a trick, a tool of the game, and not a bug, I don't see in essence how any imm could say shit about this situation. Good riddance. Why not start looking at the difference between abusing code and using tricks...and what Jake has said he supports.
 
--Ezekiel
+\-Ezekiel
 
 </div>
 
 <div class="post" data-post-id="9419" data-author="blackmore" data-date="2005-11-08T21:11:40+00:00" data-subject="">
 
-btw, if a bug is discovered by a player and not reported but used / abused to that player's advantage instead, is that grounds for at least delevelling still? This is not regarding the shipping issue btw, which wasn't really an advantageous use of a feature imho, it was just playing smart and using the tools available. heh.
+> <strong>Weasel wrote:</strong>
+> btw, if a bug is discovered by a player and not reported but used / abused to that player's advantage instead, is that grounds for at least delevelling still? This is not regarding the shipping issue btw, which wasn't really an advantageous use of a feature imho, it was just playing smart and using the tools available. heh.
+> 
+> 
+> 
+> cheers
 
-cheers[/quote:oqr3qrf5]
-
-Everything on sloth is case by case.  It generally depends on how obvious it is that what you're doing is the result of a bug (such as sneaking temp eq off lyme or finding ways to gate to lyme/valk when you don't have the proper levels, etc), and your reputation on sloth.
+Everything on sloth is case by case. It generally depends on how obvious it is that what you're doing is the result of a bug (such as sneaking temp eq off lyme or finding ways to gate to lyme/valk when you don't have the proper levels, etc), and your reputation on sloth.
 
 </div>
 
@@ -226,11 +230,11 @@ you gotta be kidding me
 
 <div class="post" data-post-id="9422" data-author="Medios" data-date="2005-11-09T01:23:55+00:00" data-subject="">
 
-Whats the problem with using mobs to fight other mobs.  I think theres spells called animate dead and summon and supplication that does just that.  Why is it wrong to find mobs that area or quake and figure out ways to get other things in the room with them.  A long time ago we could charm different things and even ride thick mounts into different mobs and use them.  This stuff was all changed pretty quickly so Im thinking the tricks that are out there are known and deemed fair.  BTW alot of times when you get something fighting this way it may take up to an hour to place your stuff correctly.  A crash or anything can mess it up.  I really like being smart about your fighting. I think it sets us apart from the hack slash mentality.  
+Whats the problem with using mobs to fight other mobs. I think theres spells called animate dead and summon and supplication that does just that. Why is it wrong to find mobs that area or quake and figure out ways to get other things in the room with them. A long time ago we could charm different things and even ride thick mounts into different mobs and use them. This stuff was all changed pretty quickly so Im thinking the tricks that are out there are known and deemed fair. BTW alot of times when you get something fighting this way it may take up to an hour to place your stuff correctly. A crash or anything can mess it up. I really like being smart about your fighting. I think it sets us apart from the hack slash mentality. 
 
 Mike
 
-PS Jim do you ever have anything decent or even remotely smart to say.  All I ever see in your posts if you crying and now your gonna mock someone who spends his time to make the game better.  I guess the reason you talk so much shit is because you cant cut it here and dont play.
+PS Jim do you ever have anything decent or even remotely smart to say. All I ever see in your posts if you crying and now your gonna mock someone who spends his time to make the game better. I guess the reason you talk so much shit is because you cant cut it here and dont play.
 
 </div>
 
@@ -264,39 +268,57 @@ It was this longevity of employment that allowed Bukowski to quit the Post Offic
 
 <div class="post" data-post-id="9430" data-author="osric" data-date="2005-11-09T17:50:10+00:00" data-subject="">
 
-Indeed, the chapter about delivering the mail in the rain is one of my all time favorite pieces of american literature! Thanks for the reminder Brand. :P
+Indeed, the chapter about delivering the mail in the rain is one of my all time favorite pieces of american literature! Thanks for the reminder Brand. <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="9434" data-author="Medios" data-date="2005-11-09T20:42:21+00:00" data-subject="">
 
-Im not addicted to sloth anymore so than I am addicted to marijuana.  I do enjoy playing sloth but to say that I am afraid Rick will leave the game is utter nonsense.  I could honestly care less if the game went down tomorrow.  In fact there are alot of other real life things that could easily take the place of slothmud.  Basically my whole point of posting is that you come on this message board and cry all the time.  I remember when stab lag was added and you quit playing.  So if you dont play this game why do come here and berate immortals and players alike.  Does trolling this board give you a sense of power.  Do you get a hard dick every time you come here and poke fun at someone that doesnt know you.  The part about rational thinking is especially fun.  If you rationally looked at the posts here, was Rick crying about people abusing his code?  He was stating the fact that nobody mentioned the ship problem to him and because of that it culminated into a problem for the whole game.  Words were exchanged and like Rick does he got mad and said fuck it.  I really cant blame him at all.  See he likes sloth and unlike you he comes here to create a positive influence.  Lemme show you the way you are Jim.
+Im not addicted to sloth anymore so than I am addicted to marijuana. I do enjoy playing sloth but to say that I am afraid Rick will leave the game is utter nonsense. I could honestly care less if the game went down tomorrow. In fact there are alot of other real life things that could easily take the place of slothmud. Basically my whole point of posting is that you come on this message board and cry all the time. I remember when stab lag was added and you quit playing. So if you dont play this game why do come here and berate immortals and players alike. Does trolling this board give you a sense of power. Do you get a hard dick every time you come here and poke fun at someone that doesnt know you. The part about rational thinking is especially fun. If you rationally looked at the posts here, was Rick crying about people abusing his code? He was stating the fact that nobody mentioned the ship problem to him and because of that it culminated into a problem for the whole game. Words were exchanged and like Rick does he got mad and said fuck it. I really cant blame him at all. See he likes sloth and unlike you he comes here to create a positive influence. Lemme show you the way you are Jim.
 
-1. 
+1\. 
 
-I realize this is probably old news but since i hardly play anymore i feel the need to say this
+> <strong>Shadis wrote:</strong>
+> I realize this is probably old news but since i hardly play anymore i feel the need to say this
+> 
+> 
+> 
+> The dumb ass Immort who made Treasures and Dreams Square
+> 
+> a stealable room your a fucking moron and a loser
+> 
+> It is sad that your life is so desperate that you have to come up with moronic ways to mess with people but then again the immort who made the change probably is the biggest pthief on the mud anyways
 
-The dumb ass Immort who made Treasures and Dreams Square
+2\.
 
- a stealable room your a fucking moron and a loser
+> <strong>Shadis wrote:</strong>
+> "Oh look a pthief! He must be a fat kid whom nobody talks to irl and had no toys when he was young because his parents hate him." "
+> 
+> 
+> 
+> 
+> 
+> I've always thought
+> 
+> 
+> 
+> Oh look a pthief! He must be a disgruntled immort who is pissed off the mortal do not bow and scape at his feet for thanks at all the work he does so he pthieves from them to get even!"
+> 
+> 
+> 
+> 
+> 
+> 2nd Splork - I've always thought you were a moron and an asshole since day one, so why does my post suprise you?
+> 
+> 
+> 
+> 3rd - min bid on my dragon skull?
+> 
+> 
+> 
+> 4th - nice of KJ to anounce personal eq is being changed, how about re-imbursing Avatar on the item he lost then?
 
-It is sad that your life is so desperate that you have to come up with moronic ways to mess with people but then again the immort who made the change probably is the biggest pthief on the mud anyways[/quote:1pb5sy6a]
-
-2.
-
-"Oh look a pthief! He must be a fat kid whom nobody talks to irl and had no toys when he was young because his parents hate him." "
-
-I've always thought
-
-Oh look a pthief! He must be a disgruntled immort who is pissed off the mortal do not bow and scape at his feet for thanks at all the work he does so he pthieves from them to get even!"
-
-2nd Splork - I've always thought you were a moron and an asshole since day one, so why does my post suprise you?
-
-3rd - min bid on my dragon skull?
-
-4th - nice of KJ to anounce personal eq is being changed, how about re-imbursing Avatar on the item he lost then?[/quote:1pb5sy6a]
-
-You have a negative attitude ,attest to the fact that you dont play anymore, and you dont like Rick.  I guess this post is irrational since thats the only thoughts I have so Ill leave it at that.
+You have a negative attitude ,attest to the fact that you dont play anymore, and you dont like Rick. I guess this post is irrational since thats the only thoughts I have so Ill leave it at that.
 
 Mike
 
@@ -304,9 +326,10 @@ Mike
 
 <div class="post" data-post-id="9435" data-author="Alberich" data-date="2005-11-09T20:51:08+00:00" data-subject="">
 
-Im not addicted to sloth anymore so than I am addicted to marijuana.[/quote:32t4su0q]
+> <strong>Medios wrote:</strong>
+> Im not addicted to sloth anymore so than I am addicted to marijuana.
 
-I dunno if that's the best example Mike   :roll:
+I dunno if that's the best example Mike <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -314,25 +337,33 @@ I dunno if that's the best example Mike   :roll:
 
 Wow.. talk about the tables turning.
 
-I could have sworn we were just talking last week about Aa doing that same kinda thing.  The only real difference is that Aa actually knows what he's talking about... and will threaten physical harm if pushed far enough.
+I could have sworn we were just talking last week about Aa doing that same kinda thing. The only real difference is that Aa actually knows what he's talking about... and will threaten physical harm if pushed far enough.
 
 </div>
 
 <div class="post" data-post-id="9437" data-author="Leaf" data-date="2005-11-09T21:02:29+00:00" data-subject="">
 
-Im not addicted to sloth anymore so than I am addicted to marijuana.[/quote:2t6pv6gd]
+> <strong>Alberich wrote:</strong>
+> > <strong>Medios wrote:</strong>
+> > Im not addicted to sloth anymore so than I am addicted to marijuana.
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> I dunno if that's the best example Mike <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
-I dunno if that's the best example Mike   :roll:[/quote:2t6pv6gd]
+Hehehe Mike's been a smoker for many yrs that I can count. When I started
 
-Hehehe Mike's been a smoker for many yrs that I can count.  When I started
-
-down there, a lot of mudders were.  But not me!!!
+down there, a lot of mudders were. But not me!!!
 
 Also I believe Aaron was high and imagine it was me with a dildo up my ass,
 
-as in reality it was him :)  But both u guys need to get off that stuff and
+as in reality it was him <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> But both u guys need to get off that stuff and
 
-save ur money :P
+save ur money <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -340,27 +371,28 @@ save ur money :P
 
 give me what I want and I will go away.
 
-[img:2p1a8ry8]http://newyorkmetro.com/nymetro/arts/tv/reviews/06LeonStorm.jpg[/img:2p1a8ry8]
+![](http://newyorkmetro.com/nymetro/arts/tv/reviews/06LeonStorm.jpg)
 
 oh, and myself being one of those whom is constantly called a whiner no matter what I have to say or how valid it is, really all I can say now when I have a problem is..
 
-[img:2p1a8ry8]http://demon.twinflame.org/images/temp/gfy.jpg[/img:2p1a8ry8]
+![](http://demon.twinflame.org/images/temp/gfy.jpg)
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="9439" data-author="12345" data-date="2005-11-09T21:50:54+00:00" data-subject="">
 
-give me what I want and I will go away.[/quote:3py3zwj1]
+> <strong>Weasel wrote:</strong>
+> give me what I want and I will go away.
 
-So... what did you want again?  :twisted:
+So... what did you want again? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="9440" data-author="Weasel" data-date="2005-11-09T21:58:27+00:00" data-subject="">
 
-dunno, haven't figured that one out just yet :)
+dunno, haven't figured that one out just yet <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -368,21 +400,21 @@ dunno, haven't figured that one out just yet :)
 
 I wasn't going to respond but since Ezekiel wants to keep it going...
 
-1) I was part of the Immortals who decided how to change hunt so it couldn't be abused, at the time I was not nearly the level I am now.
+1\) I was part of the Immortals who decided how to change hunt so it couldn't be abused, at the time I was not nearly the level I am now.
 
-2) Some areas have those types of situations(mobs fighting mobs) purposely built into them. A perfect example is my own area where you can have Leng fight the Hunting horror or Seda's area with Moukan-so obviously I wouldn't be bitching and complaing about this.
+2\) Some areas have those types of situations(mobs fighting mobs) purposely built into them. A perfect example is my own area where you can have Leng fight the Hunting horror or Seda's area with Moukan-so obviously I wouldn't be bitching and complaing about this.
 
-3) If anyone's idea of a trick is to break a part of the game for everyone when they had a perfectly legitimate request they could of handed in for a new AND needed command before this happened, then they are an utter dumbass. This entire situation could of easily been avoided by telling me what was occuring and requesting a refusal of parcel command. Very nice "trick" btw, if I may borrow my favorite line from the Guiness commercials... "BRILLIANT". 
+3\) If anyone's idea of a trick is to break a part of the game for everyone when they had a perfectly legitimate request they could of handed in for a new AND needed command before this happened, then they are an utter dumbass. This entire situation could of easily been avoided by telling me what was occuring and requesting a refusal of parcel command. Very nice "trick" btw, if I may borrow my favorite line from the Guiness commercials... "BRILLIANT". 
 
 As I said in my third post in this thread, yes we will work on a fix, but until then nobody better screw with the system. 
 
-As it stands now, I have ship working again.  I've also removed the ability to ship food and a few other silly items. I am going to have the postmaster start sending items that have been there too long to the unclaimed bin here anyone can claim them. Please keep in mind that when this occurs you might better check the status of all your mail before others can claim it.  I'm also quite sure there will be bugs in this process, so use ship at your own risk:-)
+As it stands now, I have ship working again. I've also removed the ability to ship food and a few other silly items. I am going to have the postmaster start sending items that have been there too long to the unclaimed bin here anyone can claim them. Please keep in mind that when this occurs you might better check the status of all your mail before others can claim it. I'm also quite sure there will be bugs in this process, so use ship at your own risk:-)
 
 As for Shadis, simply ignore him like 99.9% of us do, he hardly even knows whats going on. Its not my code so obviously I wasn't bitching about having to fix my own code. And regardless of whose code it was, I still believe that this entire situation was avoidable if a couple people had made better decisions. I do agree with Medios that Shadis does nothing except try to instigate here, it probably is time to ban him and atleast make em work for his posts. But many of us love his posts-they are simply extremely entertaining to those of us who actually know what it is going on.
 
 I am sorry for getting pissed off and there is no excuse for it. I simply hate having to rush to do work that I feel is totally avoidable. As well, when I have to bust my ass to get the game working right, it takes away from being able to work on stuff I enjoy.
 
-I would of been quite delighted to have a bug fix coded before it was abused which would of prevented the entire playerbase from being affected.  Its simply too bad we never had the chance...
+I would of been quite delighted to have a bug fix coded before it was abused which would of prevented the entire playerbase from being affected. Its simply too bad we never had the chance...
 
 Enjoy,
 
@@ -392,7 +424,7 @@ Splork
 
 <div class="post" data-post-id="9442" data-author="Weasel" data-date="2005-11-09T22:04:07+00:00" data-subject="">
 
-ship cookie Splork   8)
+ship cookie Splork <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -404,11 +436,12 @@ I havent smoked in at least a month.
 
 <div class="post" data-post-id="9451" data-author="blackmore" data-date="2005-11-10T13:47:36+00:00" data-subject="">
 
-3) If anyone's idea of a trick is to break a part of the game for everyone when they had a perfectly legitimate request they could of handed in for a new AND needed command before this happened, then they are an utter dumbass. This entire situation could of easily been avoided by telling me what was occuring and requesting a refusal of parcel command. [/quote:3uu7my3e]
+> <strong>\*Splork\* wrote:</strong>
+> 3\) If anyone's idea of a trick is to break a part of the game for everyone when they had a perfectly legitimate request they could of handed in for a new AND needed command before this happened, then they are an utter dumbass. This entire situation could of easily been avoided by telling me what was occuring and requesting a refusal of parcel command.
 
-I really haven't paid much attention to what's going on, so I might be off on this, but I was assuming that the goal was to use up a pthief's 9 shipping slots so they couldn't ship items to themself.  I realize there should be a refuse option that would keep this from working, but since it does work, I don't see it at all as trying to abuse anything, I just see it as trying to outplay the pthief, and there would be no reason to assume it's going to break the mud.  If the goal was to disable all shipping so it couldn't be used, well then yeah, I have an issue with people who would do that.
+I really haven't paid much attention to what's going on, so I might be off on this, but I was assuming that the goal was to use up a pthief's 9 shipping slots so they couldn't ship items to themself. I realize there should be a refuse option that would keep this from working, but since it does work, I don't see it at all as trying to abuse anything, I just see it as trying to outplay the pthief, and there would be no reason to assume it's going to break the mud. If the goal was to disable all shipping so it couldn't be used, well then yeah, I have an issue with people who would do that.
 
-Incidentally, I used the "shipping silly items" to transfer coins amongst my characters.  Hopefully not all things that are cheap to ship have been disabled, and I would assume that won't be a problem.
+Incidentally, I used the "shipping silly items" to transfer coins amongst my characters. Hopefully not all things that are cheap to ship have been disabled, and I would assume that won't be a problem.
 
 </div>
 
@@ -422,7 +455,7 @@ If your telling me i can not post here unless i have a bubbly bringht attitude .
 
 I have never liked Rick's attitude as an immort here, personaly think it is just wrong ..as much as i have disagreed with Jake and how he has done things, the way he relates to and posts as has always been consistent and professional (do not even start by comparing to my style of posting .i am not and never will be an immort on sloth) and i have as much right to express my opinion here as you do
 
-and i do still play, not nearly as much as i used to.  i enjoy playing low level characters more then high one so i have multiple sub 20 lvl characters
+and i do still play, not nearly as much as i used to. i enjoy playing low level characters more then high one so i have multiple sub 20 lvl characters
 
 BTW i still hate stab lag ..i think it sucks and it stil has ruined thieves, i have simply restrained myself from bitching more about it because of people like you who constantly use it as an example
 
@@ -468,7 +501,7 @@ ZZZZZzzzzzZZZZZzzzzz
 
 <div class="post" data-post-id="9461" data-author="Avatar" data-date="2005-11-10T20:31:09+00:00" data-subject="Ship Items">
 
-Just a quick question.  The unclaimed items from shipping, do those go to the Auction House or is there some other command to check them?
+Just a quick question. The unclaimed items from shipping, do those go to the Auction House or is there some other command to check them?
 
 I need cheap eq!
 

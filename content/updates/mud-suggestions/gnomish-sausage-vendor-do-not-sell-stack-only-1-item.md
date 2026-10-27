@@ -14,43 +14,43 @@ post_count: 3
 
 Granite Street
 
-Exits: North  East  South  West  
+Exits: North East South West 
 
 A gnomish sausage vendor walks by, toting a stick laden with sausages.
 
-<577hp 176ma 314mv>   +9   -7.0   34,810,366   851,567   raining   Newbatia
+\<577hp 176ma 314mv\> +9 -7.0 34,810,366 851,567 raining Newbatia
 
 buy 10 kielbasa
 
 A sausage vendor tells you 'I don't sell those.'
 
-<577hp 176ma 314mv>   +9   -7.0   34,810,366   851,567   raining   Newbatia
+\<577hp 176ma 314mv\> +9 -7.0 34,810,366 851,567 raining Newbatia
 
 buy kielbasa
 
 A sausage vendor sells you a link of kielbasa.
 
-<577hp 177ma 315mv>   +9   -7.0   34,810,366   851,557   raining   Newbatia
+\<577hp 177ma 315mv\> +9 -7.0 34,810,366 851,557 raining Newbatia
 
 A sausage vendor leaves east.
 
-<577hp 177ma 315mv>   +9   -7.0   34,810,366   851,557   raining   Newbatia
+\<577hp 177ma 315mv\> +9 -7.0 34,810,366 851,557 raining Newbatia
 
 buy 3 kielbasa
 
 Sorry, but you cannot do that here!
 
-<577hp 177ma 316mv>   +9   -7.0   34,810,366   851,557   raining   Newbatia
+\<577hp 177ma 316mv\> +9 -7.0 34,810,366 851,557 raining Newbatia
 
 east
 
 Granite Street
 
-Exits: North  East  South  West  
+Exits: North East South West 
 
 A gnomish sausage vendor walks by, toting a stick laden with sausages.
 
-<577hp 177ma 315mv>   +9   -7.0   34,810,366   851,557   raining   Newbatia
+\<577hp 177ma 315mv\> +9 -7.0 34,810,366 851,557 raining Newbatia
 
 buy 3 kielbasa
 

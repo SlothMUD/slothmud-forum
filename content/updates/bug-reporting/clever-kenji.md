@@ -14,17 +14,17 @@ post_count: 6
 
 Kenji the wandering minstrel is lying here, mortally wounded.(Faint Blue Aura) 
 
-*A young man with an uneven gait carefully eyes his surroundings.
+\*A young man with an uneven gait carefully eyes his surroundings.
 
 (Blue Aura) A beautiful gypsy girl sits on the fountain, admiring her own reflection in the water.
 
 A Red Sash is leaning against a wall, watching the crowds.
 
-<864/1000 105/224 250/275 -10.0> +9
+\<864/1000 105/224 250/275 -10.0\> +9
 
 It's already completely full.
 
-<865/1000 106/224 250/275 -10.0> +9
+\<865/1000 106/224 250/275 -10.0\> +9
 
 subdue kenji
 
@@ -46,7 +46,7 @@ Sneezing is involuntary.
 
 Kenji the wandering minstrel is mortally wounded, and will die soon, if not aided.
 
-<477/1004 111/224 264/275 -10.0> +8
+\<477/1004 111/224 264/275 -10.0\> +8
 
 subdue kenji
 
@@ -64,13 +64,13 @@ What Kjartan meant to say is that Kenji has a disease called telephasia, his sne
 
 Mike
 
-PS  Correct me if im wrong.
+PS Correct me if im wrong.
 
 </div>
 
 <div class="post" data-post-id="12056" data-author="kjartan" data-date="2006-04-10T21:35:37+00:00" data-subject="">
 
-Nope, that's right.  No more info on this quest on the message board, please.
+Nope, that's right. No more info on this quest on the message board, please.
 
 </div>
 

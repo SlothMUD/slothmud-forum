@@ -26,7 +26,7 @@ hate the gold to lvl crap.
 
 I'm sure they hear you... but trying to think of a solution to the re-dwindling player base with everyone tired of solo coinage will probably take awhile.
 
-My suggestion, if coins need to be 'hard to get', is to halve those leveling costs; at least the cost of the first 4 classes.  Inflation will be minimal, because we will all spend less time running gold.
+My suggestion, if coins need to be 'hard to get', is to halve those leveling costs; at least the cost of the first 4 classes. Inflation will be minimal, because we will all spend less time running gold.
 
 </div>
 
@@ -58,57 +58,57 @@ I like the fact that you ask the player base what we think needs to be done to h
 
 I was running gold runs quite a bit in the previous version, but my characters were designed primarily to lead.
 
-I will disagree that gold is your preferred method for slowing down players because of the curves for leveling.  As greater amounts of xp and gold are needed for leveling, the higher level players will start having comparatively high concentrations of both by necessity.  Xp isn't transferable and gold is.  Once you introduce gold areas to allow the 7x40 and 8x40 players to keep leveling, it will filter down to the lower players.
+I will disagree that gold is your preferred method for slowing down players because of the curves for leveling. As greater amounts of xp and gold are needed for leveling, the higher level players will start having comparatively high concentrations of both by necessity. Xp isn't transferable and gold is. Once you introduce gold areas to allow the 7x40 and 8x40 players to keep leveling, it will filter down to the lower players.
 
-An additional issue is that gold does not scale well to the overall playerbase.  Limited numbers of gold areas means limited numbers of players have access to gold runs and can excel in the game.  As the playerbase goes down, more people have this access and it becomes more limited as players go up.  This leaves you with a relatively static number of players that the game can support.
+An additional issue is that gold does not scale well to the overall playerbase. Limited numbers of gold areas means limited numbers of players have access to gold runs and can excel in the game. As the playerbase goes down, more people have this access and it becomes more limited as players go up. This leaves you with a relatively static number of players that the game can support.
 
-The biggest issue is probably that many areas had either good xp or good gold, but not both.  The good xp areas have become the standard and the good gold areas are being systemically downgraded.  Both increase the need for gold.  A second issue would be that there are limited egress routes for gold from the game. The major ones being leveling, rent, forges and vaults.  Since forges and vaults are rather optional and most players seek to limit rent as much as possible, that leaves you in the position of trying to remove all the money in the game through leveling. 
+The biggest issue is probably that many areas had either good xp or good gold, but not both. The good xp areas have become the standard and the good gold areas are being systemically downgraded. Both increase the need for gold. A second issue would be that there are limited egress routes for gold from the game. The major ones being leveling, rent, forges and vaults. Since forges and vaults are rather optional and most players seek to limit rent as much as possible, that leaves you in the position of trying to remove all the money in the game through leveling. 
 
-If your only limiting factor for gold is leveling, it comes down to how much gold a character is consuming on their journey to avatar (one of the imms should possess this info).  You are then going to have to determine how long this journey should take (ie 730 days).  That will provide you with the amount of gold that should be introduced to each player a day (roughly... I'm not sure all possible areas are in play yet).  I'm guessing its going to end up being a pretty high number since there are now 9 increasingly expensive classes.  You might find out that you're not in as much trouble as you thought you were.  However, as soon as you end up with a character that exceeds your number of days, inflation will start creeping in on you.
+If your only limiting factor for gold is leveling, it comes down to how much gold a character is consuming on their journey to avatar (one of the imms should possess this info). You are then going to have to determine how long this journey should take (ie 730 days). That will provide you with the amount of gold that should be introduced to each player a day (roughly... I'm not sure all possible areas are in play yet). I'm guessing its going to end up being a pretty high number since there are now 9 increasingly expensive classes. You might find out that you're not in as much trouble as you thought you were. However, as soon as you end up with a character that exceeds your number of days, inflation will start creeping in on you.
 
-Similarly, you can calculate the average xp per day that each character should be able to obtain using the same method.  This is a bit more difficult since it ramps quickly in the earlier levels and eventually plateaus at some point when the highest xp areas (like the Desert) become possible for the player and are run continuously.  Ideally, this number should reflect the number obtained for gold.  Because of the scaling issue mentioned earlier, it is preferable for the gold needed for these levels to be obtained from either the mobs that the xp originated from or a separate area comparable to the one the xp originated from.  Having common gold runs which are available to essentially all players creates a bottleneck that your xp areas do not currently suffer.
+Similarly, you can calculate the average xp per day that each character should be able to obtain using the same method. This is a bit more difficult since it ramps quickly in the earlier levels and eventually plateaus at some point when the highest xp areas (like the Desert) become possible for the player and are run continuously. Ideally, this number should reflect the number obtained for gold. Because of the scaling issue mentioned earlier, it is preferable for the gold needed for these levels to be obtained from either the mobs that the xp originated from or a separate area comparable to the one the xp originated from. Having common gold runs which are available to essentially all players creates a bottleneck that your xp areas do not currently suffer.
 
-Therefore, I think your best solutions would be to either integrate the gold removed from the gold areas into the xp areas, or create comparable areas that have much lower xp but higher gold that require large groups to obtain.  However, as mentioned earlier, once large amounts of gold become available, they will filter down.  Your overall limiting factor must be xp, by necessity.  Its the only non-transferable medium in the game.
+Therefore, I think your best solutions would be to either integrate the gold removed from the gold areas into the xp areas, or create comparable areas that have much lower xp but higher gold that require large groups to obtain. However, as mentioned earlier, once large amounts of gold become available, they will filter down. Your overall limiting factor must be xp, by necessity. Its the only non-transferable medium in the game.
 
-Overall, because the leveling tables are stepped, its not unusual for players to progress quickly through the first 1/3 of the available levels.  The middle 1/3 should usually be representative of the overall pace the creators intended and the final 1/3 should represent the 'challenge' phase of the game.
+Overall, because the leveling tables are stepped, its not unusual for players to progress quickly through the first 1/3 of the available levels. The middle 1/3 should usually be representative of the overall pace the creators intended and the final 1/3 should represent the 'challenge' phase of the game.
 
-And that was a hell of a lot longer than I anticipated....  Sorry. Its early. My brain isn't working yet.
+And that was a hell of a lot longer than I anticipated.... Sorry. Its early. My brain isn't working yet.
 
 </div>
 
 <div class="post" data-post-id="29270" data-author="Xamak" data-date="2009-05-23T18:23:20+00:00" data-subject="">
 
-Since you already allow gold to be exchanged for XP, why not allow the opposite, but only to level?  Or perhaps players could have the option of levelling for twice ( or some other number ) the exp requirement, but zero gold.
+Since you already allow gold to be exchanged for XP, why not allow the opposite, but only to level? Or perhaps players could have the option of levelling for twice ( or some other number ) the exp requirement, but zero gold.
 
 </div>
 
 <div class="post" data-post-id="29271" data-author="12345" data-date="2009-05-23T19:11:23+00:00" data-subject="">
 
-I would argue that the issue exists because xp is in excess.  Allowing it to eclipse both wouldn't seem like much of a solution.
+I would argue that the issue exists because xp is in excess. Allowing it to eclipse both wouldn't seem like much of a solution.
 
 </div>
 
 <div class="post" data-post-id="29272" data-author="Xamak" data-date="2009-05-23T19:20:37+00:00" data-subject="">
 
-If people want to use double the exp to level in lieu of gold, I don't see how it would imbalance the game.  The problem of course is caused by the large amount of exp sponged in groups.  If someone disliked running gold, why not let them use more exp to level.  The point of the game imho is to have fun.  If exp is more fun then gold running for some, so be it.
+If people want to use double the exp to level in lieu of gold, I don't see how it would imbalance the game. The problem of course is caused by the large amount of exp sponged in groups. If someone disliked running gold, why not let them use more exp to level. The point of the game imho is to have fun. If exp is more fun then gold running for some, so be it.
 
 </div>
 
 <div class="post" data-post-id="29273" data-author="Mosaix" data-date="2009-05-23T23:44:03+00:00" data-subject="">
 
-Leave the gold alone.  I am playing part time and still finding pleanty of gold.  
+Leave the gold alone. I am playing part time and still finding pleanty of gold. 
 
-Not sure about exp, right now it seems generous.    
+Not sure about exp, right now it seems generous. 
 
 Though the harder levels 5-8 class are going to need exp to get through them let alone avatar class.
 
-Avatars are gone.  Avatar withdrawl is a bitch.
+Avatars are gone. Avatar withdrawl is a bitch.
 
 People are going to complain if they have millions in gold or not.
 
-If the game is "corrected" everytime someone pitches a fit about something, this game will be bloated with avatars who are bored in a very short time span.  
+If the game is "corrected" everytime someone pitches a fit about something, this game will be bloated with avatars who are bored in a very short time span. 
 
-Good players will always be good players no matter what the conditions are.  
+Good players will always be good players no matter what the conditions are. 
 
 Have fun, play hard, and enjoy this game.
 
@@ -116,23 +116,36 @@ Have fun, play hard, and enjoy this game.
 
 <div class="post" data-post-id="29274" data-author="sirrico1" data-date="2009-05-24T00:16:39+00:00" data-subject="">
 
-Leave the gold alone.  I am playing part time and still finding pleanty of gold.  
+> <strong>Mosaix wrote:</strong>
+> Leave the gold alone. I am playing part time and still finding pleanty of gold. 
+> 
+> 
+> 
+> Not sure about exp, right now it seems generous. 
+> 
+> Though the harder levels 5-8 class are going to need exp to get through them let alone avatar class.
+> 
+> 
+> 
+> Avatars are gone. Avatar withdrawl is a bitch.
+> 
+> 
+> 
+> People are going to complain if they have millions in gold or not.
+> 
+> 
+> 
+> If the game is "corrected" everytime someone pitches a fit about something, this game will be bloated with avatars who are bored in a very short time span. 
+> 
+> 
+> 
+> Good players will always be good players no matter what the conditions are. 
+> 
+> 
+> 
+> Have fun, play hard, and enjoy this game.
 
-Not sure about exp, right now it seems generous.    
-
-Though the harder levels 5-8 class are going to need exp to get through them let alone avatar class.
-
-Avatars are gone.  Avatar withdrawl is a bitch.
-
-People are going to complain if they have millions in gold or not.
-
-If the game is "corrected" everytime someone pitches a fit about something, this game will be bloated with avatars who are bored in a very short time span.  
-
-Good players will always be good players no matter what the conditions are.  
-
-Have fun, play hard, and enjoy this game.[/quote:2mpjiprn]
-
-well, we have alot of new players and some of us old players don't know the gold runs like the addicts do.  and as for you elite players share the welth. I did not post this to get flamed so don't do it kthxbye
+well, we have alot of new players and some of us old players don't know the gold runs like the addicts do. and as for you elite players share the welth. I did not post this to get flamed so don't do it kthxbye
 
 </div>
 
@@ -150,15 +163,15 @@ Put a balance of gold on the mobs... that's your job, how much we choose to get 
 
 jezer, are you really that obnoxious to make such retarded comments?
 
-yes, you can still get rich by running gold over and over again, that wasn't splork's argument....there was an area that was grossly overloaded with gold.  to have like 20k gold per mob that dies on a frostbolt or 2 is kinda overkill.
+yes, you can still get rich by running gold over and over again, that wasn't splork's argument....there was an area that was grossly overloaded with gold. to have like 20k gold per mob that dies on a frostbolt or 2 is kinda overkill.
 
-sure you can play however you want, but just don't expect them to create a mud to suit you.  he's not controlling how you play, he's just controlling how much the mud wants to give you.
+sure you can play however you want, but just don't expect them to create a mud to suit you. he's not controlling how you play, he's just controlling how much the mud wants to give you.
 
-i really don't see how gold is a problem.  even as a lvl 20, i was getting gold pretty easily.  there are plenty of ways to get gold other than actually getting gold from mobs.  I've walked through areas like kobolds, and goblins, to see loads of junk lying around on the floor like jars of goo and various kinds of dust.  I don't understand why ppl bitch about gold, yet are too dumb to take these and sell them to the shops.
+i really don't see how gold is a problem. even as a lvl 20, i was getting gold pretty easily. there are plenty of ways to get gold other than actually getting gold from mobs. I've walked through areas like kobolds, and goblins, to see loads of junk lying around on the floor like jars of goo and various kinds of dust. I don't understand why ppl bitch about gold, yet are too dumb to take these and sell them to the shops.
 
-people need to stop relying on groups for everything.  right now, it gives an insane amount of xp.  I've been leading quite a lot for the past few days, and i've been tracking the xp gathered by group.  It averages to about 400-500mil per hr, with a -8 tank and 2 restorers.  I don't think we even came close to that on s3.  What you have now are a bunch of people with too many levels to know what to do with it.  When i don't have enough gold to level, i go gather gold, easy as that.  I think the current situation is great as in you can't just expect to sit in a group for 3 hours and expect to gain 5 prime levels automatically.  You have to spend time outside of the group.
+people need to stop relying on groups for everything. right now, it gives an insane amount of xp. I've been leading quite a lot for the past few days, and i've been tracking the xp gathered by group. It averages to about 400-500mil per hr, with a -8 tank and 2 restorers. I don't think we even came close to that on s3. What you have now are a bunch of people with too many levels to know what to do with it. When i don't have enough gold to level, i go gather gold, easy as that. I think the current situation is great as in you can't just expect to sit in a group for 3 hours and expect to gain 5 prime levels automatically. You have to spend time outside of the group.
 
-sirrico said that only the old timers know the gold runs.  sure, but didn't these guys know the runs from actually playing the mud and learning?  remember that there already is alot of information avaialable now to new palyers that weren't available to the old-timers when they first started.  
+sirrico said that only the old timers know the gold runs. sure, but didn't these guys know the runs from actually playing the mud and learning? remember that there already is alot of information avaialable now to new palyers that weren't available to the old-timers when they first started. 
 
 the simple solution is to learn the mud, instead of constantly asking the mud to be made easier because nobody has a clue what to do if there aren't groups around
 
@@ -166,31 +179,34 @@ the simple solution is to learn the mud, instead of constantly asking the mud to
 
 <div class="post" data-post-id="29286" data-author="Mosaix" data-date="2009-05-25T15:51:13+00:00" data-subject="">
 
-My post was not a flame.  Your response validates most of my post.
+My post was not a flame. Your response validates most of my post.
 
-Have fun and mud already.  This is a great opportunity to just go out and have fun with sloth.
+Have fun and mud already. This is a great opportunity to just go out and have fun with sloth.
 
 </div>
 
 <div class="post" data-post-id="29287" data-author="Magi" data-date="2009-05-25T17:20:34+00:00" data-subject="">
 
-Just one quick response... It is NOT the admin's job to put gold on the mobs.  It is the admin's job to work 8-12 hours a day to support themselves, feed their families, and pay taxes.  Then they relax by messing around on the computer at night.  Anything they decide to do for us is a FREE bonus for us.  Not. Their. Job.
+Just one quick response... It is NOT the admin's job to put gold on the mobs. It is the admin's job to work 8-12 hours a day to support themselves, feed their families, and pay taxes. Then they relax by messing around on the computer at night. Anything they decide to do for us is a FREE bonus for us. Not. Their. Job.
 
 </div>
 
 <div class="post" data-post-id="29288" data-author="Gimlet" data-date="2009-05-25T18:08:02+00:00" data-subject="">
 
-My post was not a flame.  Your response validates most of my post.
+> <strong>Mosaix wrote:</strong>
+> My post was not a flame. Your response validates most of my post.
+> 
+> 
+> 
+> Have fun and mud already. This is a great opportunity to just go out and have fun with sloth.
 
-Have fun and mud already.  This is a great opportunity to just go out and have fun with sloth.[/quote:34kcrtr4]
-
-don't know if u were resopnding to me, but iw asn't responding to your post, i agreed with you :)
+don't know if u were resopnding to me, but iw asn't responding to your post, i agreed with you <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="29293" data-author="Mosaix" data-date="2009-05-26T03:59:12+00:00" data-subject="">
 
-Not responding to you Al, you are spot on correct :)
+Not responding to you Al, you are spot on correct <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

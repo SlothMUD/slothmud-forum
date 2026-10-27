@@ -14,7 +14,7 @@ post_count: 1
 
 Hi all ... 
 
-Added a new set of parameters to the prac command. prac <strata-name> shows all spells that belong to that strata, and that you know/can know depending on your classes and levels, ordered by class/level.  
+Added a new set of parameters to the prac command. prac \<strata-name\> shows all spells that belong to that strata, and that you know/can know depending on your classes and levels, ordered by class/level. 
 
 Changes in next reboot.
 

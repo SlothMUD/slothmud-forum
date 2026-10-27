@@ -12,7 +12,7 @@ post_count: 3
 
 <div class="post" data-post-id="35716" data-author="abraxsis" data-date="2015-02-28T14:55:28+00:00" data-subject="Should be back soon">
 
-I'm sure some of you may have noticed I have not been on recently.  I have had some issues in my personal life, the least of which is being diagnosed with type 2 diabetes, which I apparently have had for some time.  I should be back soon once things work themselves out.
+I'm sure some of you may have noticed I have not been on recently. I have had some issues in my personal life, the least of which is being diagnosed with type 2 diabetes, which I apparently have had for some time. I should be back soon once things work themselves out.
 
 Also, as a note to Neptune, I do plan on finishing up what we talked about one of the last couple times I was on.
 
@@ -24,7 +24,7 @@ Come back to us when you, Abraxsis.
 
 Be safe and well, and we'll see you when you get back.
 
--Neptune
+\-Neptune
 
 </div>
 

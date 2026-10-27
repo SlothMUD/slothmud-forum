@@ -16,7 +16,7 @@ Previous connection terminated, press return to reconnect...
 
 Reconnecting.
 
-<379hp 605ma 309mv> 20, +9>
+\<379hp 605ma 309mv\> 20, +9\>
 
 You pound Jivari Daroga very hard.
 
@@ -46,7 +46,7 @@ You pound Jivari Daroga very hard.
 
 You have been KILLED!! 
 
-<-154hp 607ma 309mv> 20, +9>
+\<-154hp 607ma 309mv\> 20, +9\>
 
 </div>
 
@@ -56,16 +56,16 @@ You peer intently all around, and see:
 
 a small brown ferret (Scarlet) : right here
 
-  a small brown ferret (Wimpy) : right here
+ a small brown ferret (Wimpy) : right here
 
 a small brown ferret (Strider) : right here
 
-  a small brown ferret (Necro) : right here
+ a small brown ferret (Necro) : right here
 
-    a small brown ferret (Tuk) : right here
+ a small brown ferret (Tuk) : right here
 
-   a small brown ferret (Kida) : right here
+ a small brown ferret (Kida) : right here
 
-  a small brown ferret (Cizin) : right here
+ a small brown ferret (Cizin) : right here
 
 </div>

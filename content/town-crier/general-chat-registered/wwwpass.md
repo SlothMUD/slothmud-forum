@@ -18,7 +18,7 @@ Clearly, it's longer than a minute or two, because I still cant log in using the
 
 Thanks
 
---D
+\--D
 
 </div>
 
@@ -30,9 +30,9 @@ Splork said it's 10 minutes, but I heard just 10 isn't enough. 15 maybe?
 
 <div class="post" data-post-id="36915" data-author="*Idjit*" data-date="2016-05-08T02:31:50+00:00" data-subject="Re: wwwpass">
 
-wwwpass still hasn't updated, since I last posted.  Must take longer than 48 hours?
+wwwpass still hasn't updated, since I last posted. Must take longer than 48 hours?
 
---Zuzu
+\--Zuzu
 
 </div>
 
@@ -86,7 +86,7 @@ We try to provide as much live information from our game on our website. I think
 
 wwwpass / website logins should be working again.
 
-someone test :)
+someone test <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -96,13 +96,13 @@ Nope, sorry, it doesnt.
 
 Let us remind all the necessary steps.
 
-1. Set up wwwpass while in game with "wwwpass PWD" command; this is pretty clear.
+1\. Set up wwwpass while in game with "wwwpass PWD" command; this is pretty clear.
 
-2. Do we need to rent and be offline for certaine amount of time?
+2\. Do we need to rent and be offline for certaine amount of time?
 
-3. What are the browser requirements? I tried Firefox 43.0 and Opera 36.0, those are pretty recent and up-to-date browsers so it should work I assume.
+3\. What are the browser requirements? I tried Firefox 43.0 and Opera 36.0, those are pretty recent and up-to-date browsers so it should work I assume.
 
-4. What are the web technologies requirements? Should we allow 3rd party cookies (insecure)? Clear cache, history, etc?
+4\. What are the web technologies requirements? Should we allow 3rd party cookies (insecure)? Clear cache, history, etc?
 
 </div>
 
@@ -122,17 +122,17 @@ Highest total since last bootup: 24.
 
 "20" includes almost everyone, or at least big chunk of competitors.
 
-The command would be "top" or "topten" or "top10", with several set of options, 1) "total exp" is default; other options [(expsolo|solo)|(expgroup|group)|goldsolo|goldgroup|lead|tank|sac|mobs|pk|deaths], 2) level range 9-0, where the numbers means 40s, 9 = 9x40, 6 = 6x40, 0 = below 40; 3) "date" (last week if omitted);
+The command would be "top" or "topten" or "top10", with several set of options, 1) "total exp" is default; other options [(expsolo\|solo)\|(expgroup\|group)\|goldsolo\|goldgroup\|lead\|tank\|sac\|mobs\|pk\|deaths], 2) level range 9-0, where the numbers means 40s, 9 = 9x40, 6 = 6x40, 0 = below 40; 3) "date" (last week if omitted);
 
 The "date" I would convers into "season" with just plain number constantly increasing by 1 every week.
 
 Example : 
 
-#top tank 9 - shot top 10 exp for tanking among 9x40 for last week (season);
+\#top tank 9 - shot top 10 exp for tanking among 9x40 for last week (season);
 
-#top solo 6 17 - show top 10 solo exp among 6x40 17 weeks (seasons) before;
+\#top solo 6 17 - show top 10 solo exp among 6x40 17 weeks (seasons) before;
 
-#top pk 0 3 - show top pk'ers among below 40 3 weeks (seasons) ago;
+\#top pk 0 3 - show top pk'ers among below 40 3 weeks (seasons) ago;
 
 You got the idea.
 
@@ -140,7 +140,7 @@ You got the idea.
 
 <div class="post" data-post-id="36979" data-author="*Breeze*" data-date="2016-06-26T13:13:40+00:00" data-subject="Re: wwwpass">
 
-> **Yasik wrote:**
+> <strong>Yasik wrote:</strong>
 > Nope, sorry, it doesnt.
 > 
 > 
@@ -149,33 +149,33 @@ You got the idea.
 > 
 > 
 > 
-> 1. Set up wwwpass while in game with "wwwpass PWD" command; this is pretty clear.
+> 1\. Set up wwwpass while in game with "wwwpass PWD" command; this is pretty clear.
 > 
 > 
 > 
-> 2. Do we need to rent and be offline for certaine amount of time?
+> 2\. Do we need to rent and be offline for certaine amount of time?
 > 
 > 
 > 
-> 3. What are the browser requirements? I tried Firefox 43.0 and Opera 36.0, those are pretty recent and up-to-date browsers so it should work I assume.
+> 3\. What are the browser requirements? I tried Firefox 43.0 and Opera 36.0, those are pretty recent and up-to-date browsers so it should work I assume.
 > 
 > 
 > 
-> 4. What are the web technologies requirements? Should we allow 3rd party cookies (insecure)? Clear cache, history, etc?
+> 4\. What are the web technologies requirements? Should we allow 3rd party cookies (insecure)? Clear cache, history, etc?
 
-logging into website works.  i tried it with 3 different characters.
+logging into website works. i tried it with 3 different characters.
 
 i didnt do wwwpass command because cant login atm.
 
 1 ok.
 
-2 it takes time to sync the password back to the website once you do the command.  i dont remember the length.
+2 it takes time to sync the password back to the website once you do the command. i dont remember the length.
 
 3 i checked in chrome and edge browser.
 
-4 its a webpage with nothing special other than cookies and js.  
+4 its a webpage with nothing special other than cookies and js. 
 
-> **Yasik wrote:**
+> <strong>Yasik wrote:</strong>
 > Honestly I dont this this all is a very good idea, because its inconvenient and too much spread of attention.
 > 
 > We switch to browser to read stuff - we dont see what happens ingame - we can get into trouble.
@@ -196,7 +196,7 @@ i didnt do wwwpass command because cant login atm.
 > 
 > "20" includes almost everyone, or at least big chunk of competitors.
 > 
-> The command would be "top" or "topten" or "top10", with several set of options, 1) "total exp" is default; other options [(expsolo|solo)|(expgroup|group)|goldsolo|goldgroup|lead|tank|sac|mobs|pk|deaths], 2) level range 9-0, where the numbers means 40s, 9 = 9x40, 6 = 6x40, 0 = below 40; 3) "date" (last week if omitted);
+> The command would be "top" or "topten" or "top10", with several set of options, 1) "total exp" is default; other options [(expsolo\|solo)\|(expgroup\|group)\|goldsolo\|goldgroup\|lead\|tank\|sac\|mobs\|pk\|deaths], 2) level range 9-0, where the numbers means 40s, 9 = 9x40, 6 = 6x40, 0 = below 40; 3) "date" (last week if omitted);
 > 
 > The "date" I would convers into "season" with just plain number constantly increasing by 1 every week.
 > 
@@ -206,15 +206,15 @@ i didnt do wwwpass command because cant login atm.
 > 
 > 
 > 
-> #top tank 9 - shot top 10 exp for tanking among 9x40 for last week (season);
+> \#top tank 9 - shot top 10 exp for tanking among 9x40 for last week (season);
 > 
 > 
 > 
-> #top solo 6 17 - show top 10 solo exp among 6x40 17 weeks (seasons) before;
+> \#top solo 6 17 - show top 10 solo exp among 6x40 17 weeks (seasons) before;
 > 
 > 
 > 
-> #top pk 0 3 - show top pk'ers among below 40 3 weeks (seasons) ago;
+> \#top pk 0 3 - show top pk'ers among below 40 3 weeks (seasons) ago;
 > 
 > 
 > 
@@ -234,7 +234,7 @@ Do we need to rent and wait offline for wwwpass to propagate?
 
 <div class="post" data-post-id="36981" data-author="*Breeze*" data-date="2016-06-26T13:39:34+00:00" data-subject="Re: wwwpass">
 
-> **Yasik wrote:**
+> <strong>Yasik wrote:</strong>
 > Do we need to rent and wait offline for wwwpass to propagate?
 
 rent/reenter cant hurt.
@@ -253,10 +253,10 @@ I restarted my server few days ago which is why its probably not syncing. I will
 
 <div class="post" data-post-id="36984" data-author="*Breeze*" data-date="2016-06-26T19:51:32+00:00" data-subject="Re: wwwpass">
 
-> ***Splork* wrote:**
+> <strong>\*Splork\* wrote:</strong>
 > I restarted my server few days ago which is why its probably not syncing. I will restart the service when I get home today.
 
-thanks :)
+thanks <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -264,7 +264,7 @@ thanks :)
 
 go secondary verification that old logins work.
 
-if you cant login, wait for Splork to restart the sync service and ** PROFIT **
+if you cant login, wait for Splork to restart the sync service and \*\* PROFIT \*\*
 
 </div>
 
@@ -288,7 +288,7 @@ As I most clearly stated, I need to restart the service on my end. When I do, I 
 
 Thanks to Breeze I can confirm that the issue is fixed now, I was able to login and check my current char's stats page.
 
-Still, there is little bugs left - ingame quests and website quests are not entirely syncronized : website shows some aqs as unfinished, but ingame those aqs are no longer awailable (were removed?), VK ones in particular; also, some ingame awailable aqs are not displayed on the stats->quests page. Not big deal, but anyway, personally I would try to make it match exactly and precisely so the webpage can be a reliable source.
+Still, there is little bugs left - ingame quests and website quests are not entirely syncronized : website shows some aqs as unfinished, but ingame those aqs are no longer awailable (were removed?), VK ones in particular; also, some ingame awailable aqs are not displayed on the stats-\>quests page. Not big deal, but anyway, personally I would try to make it match exactly and precisely so the webpage can be a reliable source.
 
 </div>
 
@@ -306,7 +306,7 @@ i put open call for someone to help design the output for that code and a few pe
 
 none ever replied once i gave them the code for it.
 
-i decided not to design the output myself because i got sick of everyone thinking that i should do things the way they like  (eqlist is perfect example..  just not in the mood to deal with ungrateful people complaining to me again.)
+i decided not to design the output myself because i got sick of everyone thinking that i should do things the way they like (eqlist is perfect example.. just not in the mood to deal with ungrateful people complaining to me again.)
 
 right now, it looks something like this
 
@@ -338,280 +338,280 @@ Vault # 76021
 20) the Staff of the Wilds
 
 [39]=>
-  array(5) {
-    ["VnumRoom"]=>
-    string(5) "76021"
-    ["SortOrder"]=>
-    string(1) "1"
-    ["ItemVnum"]=>
-    string(5) "40525"
-    ["ItemShortDescription"]=>
-    string(28) "a pair of dolphin skin boots"
-    ["ItemName"]=>
-    string(18) "boots dolphin skin"
-  }
-  [40]=>
-  array(5) {
-    ["VnumRoom"]=>
-    string(5) "76021"
-    ["SortOrder"]=>
-    string(1) "2"
-    ["ItemVnum"]=>
-    string(5) "35132"
-    ["ItemShortDescription"]=>
-    string(16) "a keg of icybrau"
-    ["ItemName"]=>
-    string(11) "keg icybrau"
-  }
-  [41]=>
-  array(5) {
-    ["VnumRoom"]=>
-    string(5) "76021"
-    ["SortOrder"]=>
-    string(1) "3"
-    ["ItemVnum"]=>
-    string(5) "51599"
-    ["ItemShortDescription"]=>
-    string(20) "a flawed glowing gem"
-    ["ItemName"]=>
-    string(32) "gem flawed glowing clasp *Feist*"
-  }
-  [42]=>
-  array(5) {
-    ["VnumRoom"]=>
-    string(5) "76021"
-    ["SortOrder"]=>
-    string(1) "4"
-    ["ItemVnum"]=>
-    string(5) "37212"
-    ["ItemShortDescription"]=>
-    string(18) "a bracer of flames"
-    ["ItemName"]=>
-    string(13) "bracer flames"
-  }
-  [43]=>
-  array(5) {
-    ["VnumRoom"]=>
-    string(5) "76021"
-    ["SortOrder"]=>
-    string(1) "5"
-    ["ItemVnum"]=>
-    string(5) "37212"
-    ["ItemShortDescription"]=>
-    string(18) "a bracer of flames"
-    ["ItemName"]=>
-    string(13) "bracer flames"
-  }
-  [44]=>
-  array(5) {
-    ["VnumRoom"]=>
-    string(5) "76021"
-    ["SortOrder"]=>
-    string(1) "6"
-    ["ItemVnum"]=>
-    string(4) "4611"
-    ["ItemShortDescription"]=>
-    string(21) "a philosopher's stone"
-    ["ItemName"]=>
-    string(17) "philosopher stone"
-  }
-  [45]=>
-  array(5) {
-    ["VnumRoom"]=>
-    string(5) "76021"
-    ["SortOrder"]=>
-    string(1) "7"
-    ["ItemVnum"]=>
-    string(5) "90142"
-    ["ItemShortDescription"]=>
-    string(22) "a staff of black flame"
-    ["ItemName"]=>
-    string(17) "staff black flame"
-  }
-  [46]=>
-  array(5) {
-    ["VnumRoom"]=>
-    string(5) "76021"
-    ["SortOrder"]=>
-    string(1) "8"
-    ["ItemVnum"]=>
-    string(5) "13390"
-    ["ItemShortDescription"]=>
-    string(27) "a small jar of unusual dust"
-    ["ItemName"]=>
-    string(24) "jar small dust scarab cp"
-  }
-  [47]=>
-  array(5) {
-    ["VnumRoom"]=>
-    string(5) "76021"
-    ["SortOrder"]=>
-    string(1) "9"
-    ["ItemVnum"]=>
-    string(5) "84405"
-    ["ItemShortDescription"]=>
-    string(29) "a knife made of vampire fangs"
-    ["ItemName"]=>
-    string(24) "vampire fang knife tooth"
-  }
-  [48]=>
-  array(5) {
-    ["VnumRoom"]=>
-    string(5) "76021"
-    ["SortOrder"]=>
-    string(2) "10"
-    ["ItemVnum"]=>
-    string(5) "38635"
-    ["ItemShortDescription"]=>
-    string(30) "the staff of the restless soul"
-    ["ItemName"]=>
-    string(24) "tepe staff restless soul"
-  }
-  [49]=>
-  array(5) {
-    ["VnumRoom"]=>
-    string(5) "76021"
-    ["SortOrder"]=>
-    string(2) "11"
-    ["ItemVnum"]=>
-    string(5) "38010"
-    ["ItemShortDescription"]=>
-    string(19) "a bowl of granizado"
-    ["ItemName"]=>
-    string(20) "bowl granizado fresa"
-  }
-  [50]=>
-  array(5) {
-    ["VnumRoom"]=>
-    string(5) "76021"
-    ["SortOrder"]=>
-    string(2) "12"
-    ["ItemVnum"]=>
-    string(5) "69548"
-    ["ItemShortDescription"]=>
-    string(14) "a bottled soul"
-    ["ItemName"]=>
-    string(15) "soul bottled cp"
-  }
-  [51]=>
-  array(5) {
-    ["VnumRoom"]=>
-    string(5) "76021"
-    ["SortOrder"]=>
-    string(2) "13"
-    ["ItemVnum"]=>
-    string(5) "24001"
-    ["ItemShortDescription"]=>
-    string(22) "spiked leather bracers"
-    ["ItemName"]=>
-    string(22) "bracers leather spiked"
-  }
-  [52]=>
-  array(5) {
-    ["VnumRoom"]=>
-    string(5) "76021"
-    ["SortOrder"]=>
-    string(2) "14"
-    ["ItemVnum"]=>
-    string(5) "84405"
-    ["ItemShortDescription"]=>
-    string(29) "a knife made of vampire fangs"
-    ["ItemName"]=>
-    string(24) "vampire fang knife tooth"
-  }
-  [53]=>
-  array(5) {
-    ["VnumRoom"]=>
-    string(5) "76021"
-    ["SortOrder"]=>
-    string(2) "15"
-    ["ItemVnum"]=>
-    string(5) "24010"
-    ["ItemShortDescription"]=>
-    string(26) "spiked helm of black steel"
-    ["ItemName"]=>
-    string(23) "helm steel black spiked"
-  }
-  [54]=>
-  array(5) {
-    ["VnumRoom"]=>
-    string(5) "76021"
-    ["SortOrder"]=>
-    string(2) "16"
-    ["ItemVnum"]=>
-    string(5) "57004"
-    ["ItemShortDescription"]=>
-    string(31) "Bloodstained Greaves of the Oni"
-    ["ItemName"]=>
-    string(24) "bloodstained greaves oni"
-  }
-  [55]=>
-  array(5) {
-    ["VnumRoom"]=>
-    string(5) "76021"
-    ["SortOrder"]=>
-    string(2) "17"
-    ["ItemVnum"]=>
-    string(5) "37090"
-    ["ItemShortDescription"]=>
-    string(30) "a pair of silvery dragon wings"
-    ["ItemName"]=>
-    string(19) "silver dragon wings"
-  }
-  [56]=>
-  array(5) {
-    ["VnumRoom"]=>
-    string(5) "76021"
-    ["SortOrder"]=>
-    string(2) "18"
-    ["ItemVnum"]=>
-    string(5) "51584"
-    ["ItemShortDescription"]=>
-    string(22) "sleeves of molten lava"
-    ["ItemName"]=>
-    string(37) "sleeves molten lava autoquest *Whiff*"
-  }
-  [57]=>
-  array(5) {
-    ["VnumRoom"]=>
-    string(5) "76021"
-    ["SortOrder"]=>
-    string(2) "19"
-    ["ItemVnum"]=>
-    string(6) "110025"
-    ["ItemShortDescription"]=>
-    string(19) "The Full Moon Glyph"
-    ["ItemName"]=>
-    string(23) "full moon glyph *Whiff*"
-  }
-  [58]=>
-  array(5) {
-    ["VnumRoom"]=>
-    string(5) "76021"
-    ["SortOrder"]=>
-    string(2) "20"
-    ["ItemVnum"]=>
-    string(6) "130135"
-    ["ItemShortDescription"]=>
-    string(22) "the Staff of the Wilds"
-    ["ItemName"]=>
-    string(19) "staff wilds *Whiff*"
-  }
+ array(5) {
+ ["VnumRoom"]=>
+ string(5) "76021"
+ ["SortOrder"]=>
+ string(1) "1"
+ ["ItemVnum"]=>
+ string(5) "40525"
+ ["ItemShortDescription"]=>
+ string(28) "a pair of dolphin skin boots"
+ ["ItemName"]=>
+ string(18) "boots dolphin skin"
+ }
+ [40]=>
+ array(5) {
+ ["VnumRoom"]=>
+ string(5) "76021"
+ ["SortOrder"]=>
+ string(1) "2"
+ ["ItemVnum"]=>
+ string(5) "35132"
+ ["ItemShortDescription"]=>
+ string(16) "a keg of icybrau"
+ ["ItemName"]=>
+ string(11) "keg icybrau"
+ }
+ [41]=>
+ array(5) {
+ ["VnumRoom"]=>
+ string(5) "76021"
+ ["SortOrder"]=>
+ string(1) "3"
+ ["ItemVnum"]=>
+ string(5) "51599"
+ ["ItemShortDescription"]=>
+ string(20) "a flawed glowing gem"
+ ["ItemName"]=>
+ string(32) "gem flawed glowing clasp *Feist*"
+ }
+ [42]=>
+ array(5) {
+ ["VnumRoom"]=>
+ string(5) "76021"
+ ["SortOrder"]=>
+ string(1) "4"
+ ["ItemVnum"]=>
+ string(5) "37212"
+ ["ItemShortDescription"]=>
+ string(18) "a bracer of flames"
+ ["ItemName"]=>
+ string(13) "bracer flames"
+ }
+ [43]=>
+ array(5) {
+ ["VnumRoom"]=>
+ string(5) "76021"
+ ["SortOrder"]=>
+ string(1) "5"
+ ["ItemVnum"]=>
+ string(5) "37212"
+ ["ItemShortDescription"]=>
+ string(18) "a bracer of flames"
+ ["ItemName"]=>
+ string(13) "bracer flames"
+ }
+ [44]=>
+ array(5) {
+ ["VnumRoom"]=>
+ string(5) "76021"
+ ["SortOrder"]=>
+ string(1) "6"
+ ["ItemVnum"]=>
+ string(4) "4611"
+ ["ItemShortDescription"]=>
+ string(21) "a philosopher's stone"
+ ["ItemName"]=>
+ string(17) "philosopher stone"
+ }
+ [45]=>
+ array(5) {
+ ["VnumRoom"]=>
+ string(5) "76021"
+ ["SortOrder"]=>
+ string(1) "7"
+ ["ItemVnum"]=>
+ string(5) "90142"
+ ["ItemShortDescription"]=>
+ string(22) "a staff of black flame"
+ ["ItemName"]=>
+ string(17) "staff black flame"
+ }
+ [46]=>
+ array(5) {
+ ["VnumRoom"]=>
+ string(5) "76021"
+ ["SortOrder"]=>
+ string(1) "8"
+ ["ItemVnum"]=>
+ string(5) "13390"
+ ["ItemShortDescription"]=>
+ string(27) "a small jar of unusual dust"
+ ["ItemName"]=>
+ string(24) "jar small dust scarab cp"
+ }
+ [47]=>
+ array(5) {
+ ["VnumRoom"]=>
+ string(5) "76021"
+ ["SortOrder"]=>
+ string(1) "9"
+ ["ItemVnum"]=>
+ string(5) "84405"
+ ["ItemShortDescription"]=>
+ string(29) "a knife made of vampire fangs"
+ ["ItemName"]=>
+ string(24) "vampire fang knife tooth"
+ }
+ [48]=>
+ array(5) {
+ ["VnumRoom"]=>
+ string(5) "76021"
+ ["SortOrder"]=>
+ string(2) "10"
+ ["ItemVnum"]=>
+ string(5) "38635"
+ ["ItemShortDescription"]=>
+ string(30) "the staff of the restless soul"
+ ["ItemName"]=>
+ string(24) "tepe staff restless soul"
+ }
+ [49]=>
+ array(5) {
+ ["VnumRoom"]=>
+ string(5) "76021"
+ ["SortOrder"]=>
+ string(2) "11"
+ ["ItemVnum"]=>
+ string(5) "38010"
+ ["ItemShortDescription"]=>
+ string(19) "a bowl of granizado"
+ ["ItemName"]=>
+ string(20) "bowl granizado fresa"
+ }
+ [50]=>
+ array(5) {
+ ["VnumRoom"]=>
+ string(5) "76021"
+ ["SortOrder"]=>
+ string(2) "12"
+ ["ItemVnum"]=>
+ string(5) "69548"
+ ["ItemShortDescription"]=>
+ string(14) "a bottled soul"
+ ["ItemName"]=>
+ string(15) "soul bottled cp"
+ }
+ [51]=>
+ array(5) {
+ ["VnumRoom"]=>
+ string(5) "76021"
+ ["SortOrder"]=>
+ string(2) "13"
+ ["ItemVnum"]=>
+ string(5) "24001"
+ ["ItemShortDescription"]=>
+ string(22) "spiked leather bracers"
+ ["ItemName"]=>
+ string(22) "bracers leather spiked"
+ }
+ [52]=>
+ array(5) {
+ ["VnumRoom"]=>
+ string(5) "76021"
+ ["SortOrder"]=>
+ string(2) "14"
+ ["ItemVnum"]=>
+ string(5) "84405"
+ ["ItemShortDescription"]=>
+ string(29) "a knife made of vampire fangs"
+ ["ItemName"]=>
+ string(24) "vampire fang knife tooth"
+ }
+ [53]=>
+ array(5) {
+ ["VnumRoom"]=>
+ string(5) "76021"
+ ["SortOrder"]=>
+ string(2) "15"
+ ["ItemVnum"]=>
+ string(5) "24010"
+ ["ItemShortDescription"]=>
+ string(26) "spiked helm of black steel"
+ ["ItemName"]=>
+ string(23) "helm steel black spiked"
+ }
+ [54]=>
+ array(5) {
+ ["VnumRoom"]=>
+ string(5) "76021"
+ ["SortOrder"]=>
+ string(2) "16"
+ ["ItemVnum"]=>
+ string(5) "57004"
+ ["ItemShortDescription"]=>
+ string(31) "Bloodstained Greaves of the Oni"
+ ["ItemName"]=>
+ string(24) "bloodstained greaves oni"
+ }
+ [55]=>
+ array(5) {
+ ["VnumRoom"]=>
+ string(5) "76021"
+ ["SortOrder"]=>
+ string(2) "17"
+ ["ItemVnum"]=>
+ string(5) "37090"
+ ["ItemShortDescription"]=>
+ string(30) "a pair of silvery dragon wings"
+ ["ItemName"]=>
+ string(19) "silver dragon wings"
+ }
+ [56]=>
+ array(5) {
+ ["VnumRoom"]=>
+ string(5) "76021"
+ ["SortOrder"]=>
+ string(2) "18"
+ ["ItemVnum"]=>
+ string(5) "51584"
+ ["ItemShortDescription"]=>
+ string(22) "sleeves of molten lava"
+ ["ItemName"]=>
+ string(37) "sleeves molten lava autoquest *Whiff*"
+ }
+ [57]=>
+ array(5) {
+ ["VnumRoom"]=>
+ string(5) "76021"
+ ["SortOrder"]=>
+ string(2) "19"
+ ["ItemVnum"]=>
+ string(6) "110025"
+ ["ItemShortDescription"]=>
+ string(19) "The Full Moon Glyph"
+ ["ItemName"]=>
+ string(23) "full moon glyph *Whiff*"
+ }
+ [58]=>
+ array(5) {
+ ["VnumRoom"]=>
+ string(5) "76021"
+ ["SortOrder"]=>
+ string(2) "20"
+ ["ItemVnum"]=>
+ string(6) "130135"
+ ["ItemShortDescription"]=>
+ string(22) "the Staff of the Wilds"
+ ["ItemName"]=>
+ string(19) "staff wilds *Whiff*"
+ }
 ```
 
-either way, its a dead end.   just like the epic army expansion i did and tried to get help designing the new ranks/sashes. no one helped so i junked the code.
+either way, its a dead end. just like the epic army expansion i did and tried to get help designing the new ranks/sashes. no one helped so i junked the code.
 
 </div>
 
 <div class="post" data-post-id="37004" data-author="Teron" data-date="2016-06-29T19:19:58+00:00" data-subject="Re: wwwpass">
 
-Aww :(
+Aww <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="37007" data-author="Yasik" data-date="2016-06-29T20:09:06+00:00" data-subject="Re: wwwpass">
 
-Breeze, I think there is not much stuff to actually "design" in vault section, just display vaults' content with room_number from lowest to highest just like in your code, as if you copy-paste vault content when we do "list" in vault room. Without fancy stuff, plain and simple, minimalistic effective.
+Breeze, I think there is not much stuff to actually "design" in vault section, just display vaults' content with room\_number from lowest to highest just like in your code, as if you copy-paste vault content when we do "list" in vault room. Without fancy stuff, plain and simple, minimalistic effective.
 
 MAYBE, a good idea to add a popup tooltip at mouse cursor when we hover it over an item in the list and show item's stats and restricts, but only if someone wants to exercise in coding...
 
@@ -643,7 +643,7 @@ and someone else will want searchable by keyword vaults
 
 and someone else will want it so their alts can see their vaults
 
-and someone else will want *some random feature that i can't think of atm*
+and someone else will want \*some random feature that i can't think of atm\*
 
 et cetera/usw
 
@@ -651,9 +651,9 @@ i just don't have the time/desire for that atm.
 
 interested party/parties to the project should know at a minimum php/mysql/html and most likely javascript. dealing with wordpress idiosyncrasies is a plus but not required. they should mail me at breeze @ slothmud [(DOT - no, not den of thieves. just a freakin dot - nospam)] org
 
-epic army code was on / around  May 2, 2014  according to my emails.  good luck finding a reference anywhere 
+epic army code was on / around May 2, 2014 according to my emails. good luck finding a reference anywhere 
 
-:)
+<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -665,7 +665,7 @@ Knubberub can't log into the website.
 
 Does it store pending wwwpass changes until the next time the service is synched, or do we have to use wwwpass in-game a fairly short-time prior to when the service is resynched?
 
---Idj
+\--Idj
 
 </div>
 
@@ -685,17 +685,17 @@ Without having to importune Splork each time.
 
 Is it possible to:
 
-1) take a time stamp from when I used the wwwpass in-game
+1\) take a time stamp from when I used the wwwpass in-game
 
-2) take a time stamp when the wwwpass is updated by the server
+2\) take a time stamp when the wwwpass is updated by the server
 
-3) do a subtraction to get "X" minutes
+3\) do a subtraction to get "X" minutes
 
-4) have a widget that says "Password service is running, average wait time for updates is X"
+4\) have a widget that says "Password service is running, average wait time for updates is X"
 
 So that folks have some idea what to expect other than trial and error. 
 
---Idj
+\--Idj
 
 </div>
 

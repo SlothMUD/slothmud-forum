@@ -14,7 +14,7 @@ post_count: 1
 
 Greeting mortals.
 
-- Changed prediction to monk prime.  It has pressage as prereq, that is monk prime, so it had no sense.
+- Changed prediction to monk prime. It has pressage as prereq, that is monk prime, so it had no sense.
 
 Thanks Wimpy, Cizin and Shyla for reporting.
 

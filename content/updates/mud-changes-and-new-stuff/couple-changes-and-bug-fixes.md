@@ -12,15 +12,15 @@ post_count: 2
 
 <div class="post" data-post-id="29131" data-author="*Splork*" data-date="2009-05-11T12:10:49+00:00" data-subject="couple  changes and bug fixes">
 
-1) Quad class non caster will now get hps for their quad nc levels when they didnt previously(except for warrior).
+1\) Quad class non caster will now get hps for their quad nc levels when they didnt previously(except for warrior).
 
-2) bug in oath of victory fixed-was giving double hps)
+2\) bug in oath of victory fixed-was giving double hps)
 
-3) bug in warcry should be fixed, was giving 40 dam to everyone in group:)
+3\) bug in warcry should be fixed, was giving 40 dam to everyone in group:)
 
-4) hopefully bug in oath of protection is fixed(this might take litle more work)
+4\) hopefully bug in oath of protection is fixed(this might take litle more work)
 
-5) high level mobs have begun fighting smarter, enjoy
+5\) high level mobs have begun fighting smarter, enjoy
 
 These are all in on reboot,
 
@@ -30,9 +30,9 @@ Splork
 
 <div class="post" data-post-id="29132" data-author="*Splork*" data-date="2009-05-11T13:42:41+00:00" data-subject="">
 
-1) Spell disruption has been lowered by slightly 
+1\) Spell disruption has been lowered by slightly 
 
-2) hex tokens have been added to more treasure and random lists
+2\) hex tokens have been added to more treasure and random lists
 
 Enjoy,
 

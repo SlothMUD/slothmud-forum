@@ -18,7 +18,7 @@ Please post identify stats for other runes so i can update list.
 
 Thanks in advance.
 
-**Update: Runes stats, faked by dsfren removed. List updated.**
+<strong>Update: Runes stats, faked by dsfren removed. List updated.</strong>
 
 Update1: Eye Agate added, thanks Jezer.
 
@@ -62,15 +62,15 @@ Tuk,
 
 While i applaude that someone finally came forward to share more gems info to the rest of sloth world, I am just gonna tell the whole world this. 
 
-That u r a REAL ** F U G G E R**! 
+That u r a REAL <strong>F U G G E R</strong>! 
 
 Let me now tell the whole world how you have gone about getting all your gems info. Although the following is something that is foregone conclusion, i.e. nothing else that can be done, i just wanna tell the whole Sloth world what kind of person Tuk is. 
 
-1) Tuk quitted DS Clan over minor issues about a few months back. DS has a clan website that we share within clannies on sloth info. Since Tuk's departure from DS Clan, I started a post on gem/rune thread to share whatever info i have with my clannies. Rest of clannies also chip in to share their info and honestly, we've shared the info with some peeps that are friends of DS. 
+1\) Tuk quitted DS Clan over minor issues about a few months back. DS has a clan website that we share within clannies on sloth info. Since Tuk's departure from DS Clan, I started a post on gem/rune thread to share whatever info i have with my clannies. Rest of clannies also chip in to share their info and honestly, we've shared the info with some peeps that are friends of DS. 
 
-2) Tuk, despite being leaving clan, had another Russian friend that he brought into DS clan, named Bulrathi/Singerzoh. While i have nothing against Bulrathi, i started to get suspicious that Bulrathi was accessing our clan site on a daily basis when he was not even playing sloth game itself! 
+2\) Tuk, despite being leaving clan, had another Russian friend that he brought into DS clan, named Bulrathi/Singerzoh. While i have nothing against Bulrathi, i started to get suspicious that Bulrathi was accessing our clan site on a daily basis when he was not even playing sloth game itself! 
 
-------------------- 
+\------------------- 
 
 Today's Totals 
 
@@ -82,7 +82,7 @@ Visitors: 4
 
 Bulrathi, JohnPM, dsfren 
 
-------------------- 
+\------------------- 
 
 So, i did last player bulrathi -- "Bulrathi's last logon was Sat Jul 24 13:01:40 2010" 
 
@@ -90,11 +90,11 @@ and i last player singerzoh -- Singerzoh's last logon was Sat Jul 17 00:18:11 20
 
 so...let's see...for someone that didn't play bulrathi or Singerzoh for more than 4 weeks, this faithful clannie is trying to keep himself updated with clan news by accessing clan site almost every other day, and yet didn't have time to log on to play? Based on logic, i doubt so. 
 
-3) Recently, Tuk became the first Slother to sell a gem! How remarkable given his selfish and obnoxious nature. He is indeed putting a gem named "Bloodstone" on auction lots and selling it for 1.5 mils. Given his nature of greediness, he would more than likely trade it with unknowning person instead of selling for 1.5mils coins if he did not know the effect of the gem. I began my suspicion of him as "Bloodstone" is Thraxas's first Rune forged and it has sucky effect if u ask me (+Petrified Save). So...now, knowing that i started the gem/rune thread long after tuk left clan, i wondered how he knew about the sucky effect of the rune. I thought "prehaps someone in clan told him", "prehaps someone in clan told others which managed to trade the info to him", "prehaps i shared/traded information to wimpy/cizin/acme who in turn shared with him". Quite a few possibility...so..i thought...let's start observing. 
+3\) Recently, Tuk became the first Slother to sell a gem! How remarkable given his selfish and obnoxious nature. He is indeed putting a gem named "Bloodstone" on auction lots and selling it for 1.5 mils. Given his nature of greediness, he would more than likely trade it with unknowning person instead of selling for 1.5mils coins if he did not know the effect of the gem. I began my suspicion of him as "Bloodstone" is Thraxas's first Rune forged and it has sucky effect if u ask me (+Petrified Save). So...now, knowing that i started the gem/rune thread long after tuk left clan, i wondered how he knew about the sucky effect of the rune. I thought "prehaps someone in clan told him", "prehaps someone in clan told others which managed to trade the info to him", "prehaps i shared/traded information to wimpy/cizin/acme who in turn shared with him". Quite a few possibility...so..i thought...let's start observing. 
 
-" U6Z4B a Bloodstone 1500000 | --- | 1500001 | 25hr 17m Tuk" 
+" U6Z4B a Bloodstone 1500000 \| --- \| 1500001 \| 25hr 17m Tuk" 
 
-4) After discussing with Rynquald and knowing that zeke's hands are tied as i need to prove that Tuk is indeed using Bulrathi's account, i began setting a trap. This is really the only way i can test out my suspicion. No one knows this trap except Rynquald and Ezekiel. 
+4\) After discussing with Rynquald and knowing that zeke's hands are tied as i need to prove that Tuk is indeed using Bulrathi's account, i began setting a trap. This is really the only way i can test out my suspicion. No one knows this trap except Rynquald and Ezekiel. 
 
 From Gem/Rune Effect thread, a truncated cut and paste of information are as follows: 
 
@@ -126,9 +126,9 @@ From Gem/Rune Effect thread, a truncated cut and paste of information are as fol
 
 The above 2 gems in purple were bluff...i.e. no runes forged on it yet. So, i decided the best way to lure a mage would be spell dam and mana regen. Given that everyone knew that mage craves spelldam, or at the very least, i know tuk does (else would he so patiently do the spell dam test to prove that spell dam is buggy?) i decided to put 2 gems info in clan site and if he calls the gems in groups, then i'm about right that he's accessing our clan site illegally. 
 
-5) Lo and behold, Tuk came into group and when the norm is 1 eq and 1 gem being called by each groupie, Tuk came in and called...guess what...2 gems. 
+5\) Lo and behold, Tuk came into group and when the norm is 1 eq and 1 gem being called by each groupie, Tuk came in and called...guess what...2 gems. 
 
------------------------ 
+\----------------------- 
 
 905hp 8ma 396mv -11.3AC +14 +8 +89 +40(fair Aisholm Town 154,229,253XP 68,946GOLD +9ALG) 
 
@@ -146,9 +146,9 @@ Nova [Ne:4.27 813hp 370ma 282mv] [DN]Mot/Peridot
 
 Tuk [Ma:5.36 764hp 200ma 281mv] tourmaline / tomb jade 
 
------------------------ 
+\----------------------- 
 
-6) If you think it may really just be pure luck or unluckiness that Tuk was calling Tomb Jade. I decided to test Tuk's friendliness with peeps that he does business with...i.e. trade gems with. I tried to get 2 pax to ask him the effect of Tomb Jade when i heard that he's after that gem. Low and behold, ...... 
+6\) If you think it may really just be pure luck or unluckiness that Tuk was calling Tomb Jade. I decided to test Tuk's friendliness with peeps that he does business with...i.e. trade gems with. I tried to get 2 pax to ask him the effect of Tomb Jade when i heard that he's after that gem. Low and behold, ...... 
 
 You tell ABCD (Protecting his identity) 'btw, u know tomb jade stats yet?' 
 
@@ -160,13 +160,13 @@ You tell ABCD 'he forged it already?'
 
 ABCD tells you 'really doubt it' 
 
-7) Just prior to this entire thread that i'm posting, the above information was posted onto my clan site. So, i am not lying and all i wanna say is, 
+7\) Just prior to this entire thread that i'm posting, the above information was posted onto my clan site. So, i am not lying and all i wanna say is, 
 
 Tuk is smart. Tuk is Sly. Tuk Stole information illegally. Tuk will always be a DS Enemy. Tuk will not be joining any of my groups. And i wanna say...Watch yr back Tuk. 
 
-8) For the rest of the sloth world, enjoy the posting on the gems. Cizin and Wimpy and Acme and my clan will have more information. It's really up to u to ask and dig and share. Btw, if u think i'm lying that the gems info from my clan site (other than those already posted like Toxis's, Kanae's and Zuzu's), i believe i dun have to prove it to u as my clannies know i'm telling the truth. 
+<img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> For the rest of the sloth world, enjoy the posting on the gems. Cizin and Wimpy and Acme and my clan will have more information. It's really up to u to ask and dig and share. Btw, if u think i'm lying that the gems info from my clan site (other than those already posted like Toxis's, Kanae's and Zuzu's), i believe i dun have to prove it to u as my clannies know i'm telling the truth. 
 
-9) Also, i like to take this opportunity to thank Cizin, Acme, Stun, Shyla, Kanae, My clannies and several others for the willingness to trade gems so as to allow me to forge or my clannies to forge and as per always, when u help, i reciprocate and share gems, info. One thing for sure, i have not been and will not be anywhere near Tuk's greediness and obnoxious way of calling for eq/cps/gems.
+9\) Also, i like to take this opportunity to thank Cizin, Acme, Stun, Shyla, Kanae, My clannies and several others for the willingness to trade gems so as to allow me to forge or my clannies to forge and as per always, when u help, i reciprocate and share gems, info. One thing for sure, i have not been and will not be anywhere near Tuk's greediness and obnoxious way of calling for eq/cps/gems.
 
 Thanks for your time in reading this. 
 
@@ -182,7 +182,7 @@ Some of those runes are not what they are supposed to be.
 
 Don't trust Tuk ! he wants yr gems !
 
- :!:  :!:  :!:
+ <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -208,7 +208,7 @@ Runes stats, faked by dsfren removed. List updated.
 
 <div class="post" data-post-id="31555" data-author="Tuck" data-date="2010-08-22T18:22:01+00:00" data-subject="Re: Runes stats (updated 22.08.2010)">
 
-> **Cizin wrote:**
+> <strong>Cizin wrote:</strong>
 > Some of those runes are not what they are supposed to be.
 > 
 > 
@@ -217,9 +217,9 @@ Runes stats, faked by dsfren removed. List updated.
 > 
 > 
 > 
->  :!:  :!:  :!:
+> <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom">
 
-Yeah, i want all your gemz :)
+Yeah, i want all your gemz <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Identified runes stats are accurate, others are unconfirmed.
 
@@ -229,13 +229,13 @@ Identified runes stats are accurate, others are unconfirmed.
 
 I love how the gems we had on our site that DS forged personally are not labelled as such in your little spreadsheet. You're so petty and insignificant. What a lame little attempt to feel some type of vengeance for us locking you out of illegally accessing our clan site. If you say it's not such an attempt at getting back at us, well...you posted this updated list just after we locked you out when you had been accessing our site daily. Why not post them earlier if you wanted rune info out there? What a child.
 
--Zeke
+\-Zeke
 
 </div>
 
 <div class="post" data-post-id="31557" data-author="Toxis" data-date="2010-08-23T08:29:05+00:00" data-subject="Re: Runes stats (updated 22.08.2010)">
 
-No offense but uh, post all the gems might have stopped all this? And what's so wrong with helping each other?  *shrug* love you all, don't hate me pls.
+No offense but uh, post all the gems might have stopped all this? And what's so wrong with helping each other? \*shrug\* love you all, don't hate me pls.
 
 </div>
 
@@ -265,7 +265,7 @@ Thraxas
 
 The dog barks, but the caravan goes on.
 
-Keep this bullshit coming, it way too funny  :D
+Keep this bullshit coming, it way too funny <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -283,10 +283,10 @@ All the same, funny you hacked the secret dragonsworn society. Amusing, but most
 
 <div class="post" data-post-id="31567" data-author="Tuck" data-date="2010-08-24T02:23:55+00:00" data-subject="Re: Runes stats (updated 22.08.2010)">
 
-> **jezer wrote:**
+> <strong>jezer wrote:</strong>
 > All the same, funny you hacked the secret dragonsworn society.
 
-Funniest thing is i that didn't hacked anything, and most flame of this topic is just dragonsworn's imagination. Ok, let it be. I just like how they break their keyboards trying to prove something.  :lol:
+Funniest thing is i that didn't hacked anything, and most flame of this topic is just dragonsworn's imagination. Ok, let it be. I just like how they break their keyboards trying to prove something. <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -298,10 +298,10 @@ Yeah I know you didn't hack, lets call it unauthorized entry... hacking... same 
 
 <div class="post" data-post-id="31569" data-author="Tuck" data-date="2010-08-24T02:55:29+00:00" data-subject="Re: Runes stats (updated 22.08.2010)">
 
-> **jezer wrote:**
+> <strong>jezer wrote:</strong>
 > Yeah I know you didn't hack, lets call it unauthorized entry... hacking... same difference to the media.
 
-Yeah, let me say you are unauthorized to post in this topic too. :) Same BS.
+Yeah, let me say you are unauthorized to post in this topic too. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> Same BS.
 
 </div>
 
@@ -315,14 +315,14 @@ Splork
 
 <div class="post" data-post-id="31578" data-author="Thraxas" data-date="2010-08-24T17:39:26+00:00" data-subject="Re: Runes stats (updated 22.08.2010)">
 
-> ***Splork* wrote:**
+> <strong>\*Splork\* wrote:</strong>
 > We are not purposely holding back identified rune stats. I will speak to Benq and Isabo to see if we can get the ones which are ingame posted.
 > 
 > 
 > 
 > Splork
 
-Did you think this thread was about rune stats? bless!  :roll: 
+Did you think this thread was about rune stats? bless! <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> 
 
 T
 
@@ -348,7 +348,7 @@ More rune stats added to list.
 
 <div class="post" data-post-id="31694" data-author="Shyla" data-date="2010-09-03T03:29:30+00:00" data-subject="Re: Runes stats (updated 29.08.2010-2)">
 
-I saw an amber rune today and I would like to know if the person that forged it can please share the stats on it :)
+I saw an amber rune today and I would like to know if the person that forged it can please share the stats on it <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 thanks if you can 
 
@@ -376,7 +376,7 @@ Citrine attaches to About Body, not Neck
 
 <div class="post" data-post-id="31788" data-author="Tuck" data-date="2010-09-24T11:37:05+00:00" data-subject="Re: Runes stats (updated 19.09.2010)">
 
-> **blackmore wrote:**
+> <strong>blackmore wrote:</strong>
 > Citrine attaches to About Body, not Neck
 
 Thanks BM, list updated.
@@ -457,9 +457,9 @@ Weight: 0, Value: 25000gold, Worn in: TAKE
 
 Rune can only be attached to:
 
-   bracers, bracelets, and wrist-bands
+ bracers, bracelets, and wrist-bands
 
-Rune gives the user +20 CIRCLE_DAMAGE
+Rune gives the user +20 CIRCLE\_DAMAGE
 
 Description was Silvery Blue Pearl as you had below however.
 

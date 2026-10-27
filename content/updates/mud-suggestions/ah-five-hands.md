@@ -16,7 +16,7 @@ It seems he cant differ a manual from a gem:
 
 The Thieves' Guild
 
-Exits: North  South  
+Exits: North South 
 
 Eyes peer up at you from the cover of a leather-bound book.
 
@@ -28,43 +28,43 @@ Five Hands is sitting at his desk, cheating himself at solitaire.
 
 Five Hands glows with a bright light!
 
-<1193hp 527ma 385mv>   >> - <<   -2   -9.3   877,171,007   163,303   indoors   Aisholm Town
+\<1193hp 527ma 385mv\> \>\> - \<\< -2 -9.3 877,171,007 163,303 indoors Aisholm Town
 
 li
 
 You can buy:
 
- Price     Item
+ Price Item
 
-----------------------
+\----------------------
 
- 43000     an uncut sapphire
+ 43000 an uncut sapphire
 
- 7000      prong horns [4]
+ 7000 prong horns [4]
 
- 50000     a huge opal
+ 50000 a huge opal
 
- 70000     a huge sapphire
+ 70000 a huge sapphire
 
- 100000    a huge diamond
+ 100000 a huge diamond
 
- 115000    a huge ruby
+ 115000 a huge ruby
 
-&1531      Five Hands' manual of the Five Fingered Art..It has a soft glowing aura!
+\&1531 Five Hands' manual of the Five Fingered Art..It has a soft glowing aura!
 
- 75000     a huge emerald
+ 75000 a huge emerald
 
-----------------------
+\----------------------
 
-* means you need more levels to use it.
+\* means you need more levels to use it.
 
 ! means you are not strong enough to use it.
 
-& means you have studied this spellbook or manual to its max.
+\& means you have studied this spellbook or manual to its max.
 
 Query may also be of use to you, please refer to help query.
 
-<1193hp 530ma 388mv>   >> - <<   -2   -9.3   877,171,007   163,303   indoors   Aisholm Town
+\<1193hp 530ma 388mv\> \>\> - \<\< -2 -9.3 877,171,007 163,303 indoors Aisholm Town
 
 buy five-manual
 

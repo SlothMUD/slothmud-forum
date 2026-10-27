@@ -16,13 +16,13 @@ I need close to a good set of newbie mana regen eq
 
 These are the ones i am in need most
 
-1. small pebble
+1\. small pebble
 
-2. sun emblem clasp cps
+2\. sun emblem clasp cps
 
-3. golden choker
+3\. golden choker
 
-4. dolphin skin boots.
+4\. dolphin skin boots.
 
 If you have any, find me online and we can discuss whether u want cash or perhaps some eq instead. Cheers.
 

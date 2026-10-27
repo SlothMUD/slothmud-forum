@@ -32,13 +32,13 @@ The doctor took one sip of the drink and exclaimed, 'This isn't a hazelnut daiqu
 
 <div class="post" data-post-id="12033" data-author="Qa" data-date="2006-04-10T00:42:53+00:00" data-subject="">
 
-Enea, we must truly have similar funny bones.  Those were great.
+Enea, we must truly have similar funny bones. Those were great.
 
 I had heard the first one (a while back), but not the other two.
 
 Thank you!
 
-"the squaw of the hippopotamus"  LOL!!!
+"the squaw of the hippopotamus" LOL!!!
 
 Qa
 
@@ -50,7 +50,7 @@ More classics for Enea,
 
 Two vultures were about to board an airplane. They were each carrying two dead raccoons, one under each arm. But before they could board, they were stopped by a crew attendant, who told them, "Sorry, only one carrion per passenger."
 
-It is a well known fact that one of the signs of malnourishment is severe bad breath. This is because the body runs out of fat and is forced to burn the protein in the body's muscle cells. The byproducts of the metabolism of human muscle are present in the salivia. Mahatma Ghandi, who was known for going on long hunger strikes, suffered from this condition. He was in fact referred to by some of his followers as  a "super fragile mystic
+It is a well known fact that one of the signs of malnourishment is severe bad breath. This is because the body runs out of fat and is forced to burn the protein in the body's muscle cells. The byproducts of the metabolism of human muscle are present in the salivia. Mahatma Ghandi, who was known for going on long hunger strikes, suffered from this condition. He was in fact referred to by some of his followers as a "super fragile mystic
 
 vexed by halitosis."
 
@@ -64,7 +64,7 @@ Due to bland width limitations, I regret to inform everyone that this post will 
 
 Failure to comply with this demand will see you striped naked, webbed and silenced - while weasel looks at you strangly, guniex lites up, autolycos tell you to stfu, krok taughts you about your poor botting scripts and Brad logs on all of his characters to laugh at you. (time permitting)
 
-This has been an announcement in the interest of public sanity  :evil:
+This has been an announcement in the interest of public sanity <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -72,19 +72,16 @@ This has been an announcement in the interest of public sanity  :evil:
 
 You know what the fish said as he swam head first into a concrete wall?
 
- 
-
-Dam. 8)
+Dam. <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="12069" data-author="Autolycos" data-date="2006-04-11T12:13:33+00:00" data-subject="Re: Post Closed">
 
-Failure to comply with this demand will see you striped naked, webbed and silenced - while weasel looks at you strangly, guniex lites up, autolycos tell you to stfu, krok taughts you about your poor botting scripts and Brad logs on all of his characters to laugh at you. (time permitting)[/quote:2cgyzn9j]
+> <strong>jezer wrote:</strong>
+> Failure to comply with this demand will see you striped naked, webbed and silenced - while weasel looks at you strangly, guniex lites up, autolycos tell you to stfu, krok taughts you about your poor botting scripts and Brad logs on all of his characters to laugh at you. (time permitting)
 
- 
-
-it warms my hateful old heart to know that someone actually pays attention  :twisted:
+it warms my hateful old heart to know that someone actually pays attention <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 bravo!
 
@@ -120,11 +117,12 @@ deeply and said, "Sank you very much."
 
 <div class="post" data-post-id="13804" data-author="Akasha" data-date="2006-08-27T07:37:52+00:00" data-subject="">
 
-You know what the fish said as he swam head first into a concrete wall?
-
- 
-
-Dam. 8)[/quote:2t616pf2]
+> <strong>juggleblood wrote:</strong>
+> You know what the fish said as he swam head first into a concrete wall?
+> 
+> 
+> 
+> Dam. <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 Loved this one.
 
@@ -132,7 +130,7 @@ Loved this one.
 
 <div class="post" data-post-id="13807" data-author="Diazz" data-date="2006-08-27T15:46:48+00:00" data-subject="">
 
-[url:1sibjbjh]http://www-personal.umich.edu/~afive/stuff/Ultimate%20Showdown%20of%20Ultimate%20Destiny.swf[/url:1sibjbjh]
+http://www-personal.umich.edu/~afive/stuff/Ultimate%20Showdown%20of%20Ultimate%20Destiny.swf
 
 </div>
 
@@ -140,17 +138,17 @@ Loved this one.
 
 That was effin awesome! 
 
-  :lol:
+ <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="13810" data-author="Nishiki" data-date="2006-08-27T22:06:47+00:00" data-subject="">
 
-A man wnet to see his doctor because he suffered from chronic impotence.  After listening to the man's story, the doctor told him about a new alternative procedure that would help him, the only catch was that it would only work once.
+A man wnet to see his doctor because he suffered from chronic impotence. After listening to the man's story, the doctor told him about a new alternative procedure that would help him, the only catch was that it would only work once.
 
 The man agreed to the opperation, and afteward the doctor told the man, "All you have to do is say 'One two three', then you'll have an erection, to lose it you must say 'One two three four'."
 
-The man thanked his doctor profusely and rushed home, stripped, and called his wife into the bedroom.  After she joined him, he said, "One two three", and he got an erection.  "Look honey," he cried, "isn't it great?"
+The man thanked his doctor profusely and rushed home, stripped, and called his wife into the bedroom. After she joined him, he said, "One two three", and he got an erection. "Look honey," he cried, "isn't it great?"
 
 "Yes, dear", she replied, "but what did you say 'One two three' for?"
 
@@ -160,19 +158,19 @@ The man thanked his doctor profusely and rushed home, stripped, and called his w
 
 Now you've gone and done it.
 
---- Banedon enters carrying a stool and bucket and leading a heifer ---
+\--- Banedon enters carrying a stool and bucket and leading a heifer ---
 
 "If this incessant punnery does not stop, I shall be forced to invoke the most heinous and torturous PUNishment available to mortals."
 
---- Banedon sits on the stool and places the bucket under the heifer. ---
+\--- Banedon sits on the stool and places the bucket under the heifer. ---
 
-"I shall force you to endure the milking of the Cow Jokes.  They are udderly bad, but I will use them if everyone does not moove on to a new subject, and I shall kick the calves of anyone attempting to Pun again."
+"I shall force you to endure the milking of the Cow Jokes. They are udderly bad, but I will use them if everyone does not moove on to a new subject, and I shall kick the calves of anyone attempting to Pun again."
 
 Thank You and Good Day.
 
 I said GOOD DAY!
 
---------------------------------------------------------------------------------------
+\--------------------------------------------------------------------------------------
 
 Remember, that which does not kill you makes you crazier.
 
@@ -192,11 +190,12 @@ Kill him till he dies from it!
 
 <div class="post" data-post-id="13817" data-author="Diazz" data-date="2006-08-28T17:25:54+00:00" data-subject="">
 
-[quote:3e5h3tyj]"I shall force you to endure the milking of the Cow Jokes. They are udderly bad,..."[/quote:3e5h3tyj]
+> <strong>Quote:</strong>
+> "I shall force you to endure the milking of the Cow Jokes. They are udderly bad,..."
 
 Ok you asked for it...
 
-[url:3e5h3tyj]http://www.3dweb.no/galleri/stuestolbm/bilder/anim1.swf[/url:3e5h3tyj]
+http://www.3dweb.no/galleri/stuestolbm/bilder/anim1.swf
 
 </div>
 
@@ -204,11 +203,11 @@ Ok you asked for it...
 
 This has nothing to do with puns, but I just couldn't resist...
 
-A grasshopper walks into a bar and the bartender says, "Hey, we've got a drink named after you!"  The grasshopper replies, "What, Kevin?"
+A grasshopper walks into a bar and the bartender says, "Hey, we've got a drink named after you!" The grasshopper replies, "What, Kevin?"
 
 boo hiss
 
--Corinn
+\-Corinn
 
 </div>
 
@@ -216,25 +215,25 @@ boo hiss
 
 even worse!
 
-A ham & Cheese sandwich walks into a bar, 
+A ham \& Cheese sandwich walks into a bar, 
 
 hops up onto the stool and says hey bartender, gimmie a beer!
 
-The bartender looks down and says..  Sorry buddy, we dont serve food here.
+The bartender looks down and says.. Sorry buddy, we dont serve food here.
 
- :shock:
+ <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="13824" data-author="Shara" data-date="2006-08-29T03:25:23+00:00" data-subject="">
 
-A burglar robbed the Louvre of all its valuables one night.  Everything was gone; the paintings, the sculptures, anything of value.  There were no clues, the police had no leads, the burglar had gotten away home free.
+A burglar robbed the Louvre of all its valuables one night. Everything was gone; the paintings, the sculptures, anything of value. There were no clues, the police had no leads, the burglar had gotten away home free.
 
-A day later, policemen on a normal patrol found a suspicious looking van parked under the bridge.  They looked inside, and it was everything that had been stolen from the Louvre!
+A day later, policemen on a normal patrol found a suspicious looking van parked under the bridge. They looked inside, and it was everything that had been stolen from the Louvre!
 
-They arrested the driver, but out of curiousity, they had to ask him, "Why did you stay here?  You could have gotten away!"
+They arrested the driver, but out of curiousity, they had to ask him, "Why did you stay here? You could have gotten away!"
 
-The driver said, "Well, I would have, but you see...  I did not have Monet for Degas to make the Van Gogh."
+The driver said, "Well, I would have, but you see... I did not have Monet for Degas to make the Van Gogh."
 
 </div>
 
@@ -248,11 +247,11 @@ A penguin was on his way home from work when his car started sputtering and whit
 
 Two olives were just hanging around in a tree (I made a punny already!) when one of them suddenly falls.
 
-The olive still in the tree is in a panic, crying, "What do I do!  What do I do!?"
+The olive still in the tree is in a panic, crying, "What do I do! What do I do!?"
 
-To which the falling olive replies, "Don't worry!  OLIVE!  OLIVE!"
+To which the falling olive replies, "Don't worry! OLIVE! OLIVE!"
 
-grumble, puns have to be told, not typed :(
+grumble, puns have to be told, not typed <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 la la la
 
@@ -262,6 +261,6 @@ la la la
 
 PUN THIS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-[url:5ivoq8dz]http://www.cowswithguns.com/cowmovie.html[/url:5ivoq8dz]
+http://www.cowswithguns.com/cowmovie.html
 
 </div>

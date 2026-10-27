@@ -42,7 +42,7 @@ Alias
 
 I R CHEESEHEAD...Go Packers!
 
-[img:ltybbn1d]http://www.annotatedmst.com/episodes/giantspiderinvasion/cheesehead.gif[/img:ltybbn1d]
+![](http://www.annotatedmst.com/episodes/giantspiderinvasion/cheesehead.gif)
 
 </div>
 
@@ -50,22 +50,27 @@ I R CHEESEHEAD...Go Packers!
 
 who knew?
 
-[img:3pd3lrch]http://inediblejewelry.com/sitebuildercontent/sitebuilderpictures/twolemonE.jpg[/img:3pd3lrch]
+![](http://inediblejewelry.com/sitebuildercontent/sitebuilderpictures/twolemonE.jpg)
 
 </div>
 
 <div class="post" data-post-id="22071" data-author="Yasik" data-date="2008-01-19T18:31:57+00:00" data-subject="Re: Buppit Bwiebert OH YES">
 
-I AM BUPPIT BWIEBERT, I JUST THOUGHT ID ANNOUNCE MY PRESENCE TO YOUR MMORPG.
+> <strong>Buppit\_Bwiebert wrote:</strong>
+> I AM BUPPIT BWIEBERT, I JUST THOUGHT ID ANNOUNCE MY PRESENCE TO YOUR MMORPG.
+> 
+> 
+> 
+> I THINK THAT THIS THREAD SHOULD BE STICKYED SO AS EVERYONE SHALL KNOW FOREVER OF MY PRESENCE HERE.
+> 
+> 
+> 
+> That is all much love - Buppit
 
-I THINK THAT THIS THREAD SHOULD BE STICKYED SO AS EVERYONE SHALL KNOW FOREVER OF MY PRESENCE HERE.
+![](http://yasik.kiev.ua/WTFIsThisShit.jpg)
 
-That is all much love - Buppit[/quote:2tvtfuai]
+![](http://yasik.kiev.ua/Leave_Inet.jpg)
 
-[img:2tvtfuai]http://yasik.kiev.ua/WTFIsThisShit.jpg[/img:2tvtfuai]
-
-[img:2tvtfuai]http://yasik.kiev.ua/Leave_Inet.jpg[/img:2tvtfuai]
-
-[img:2tvtfuai]http://yasik.kiev.ua/jj/NooneHereLikesYou.jpg[/img:2tvtfuai]
+![](http://yasik.kiev.ua/jj/NooneHereLikesYou.jpg)
 
 </div>

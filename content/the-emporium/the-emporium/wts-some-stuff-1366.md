@@ -12,17 +12,17 @@ post_count: 18
 
 <div class="post" data-post-id="7926" data-author="Krok" data-date="2005-07-17T09:05:25+00:00" data-subject="wts some stuff">
 
-1. emerald gauntlets, first forge -  -0.0 +15 Mana EM EC EDr ENe[OR] 
+1\. emerald gauntlets, first forge - -0.0 +15 Mana EM EC EDr ENe[OR] 
 
 2 mils min
 
-2. signet ring of the Lost Cross 0.4 -1 SpellSave, -1 BreathSave NAv 3x40 
+2\. signet ring of the Lost Cross 0.4 -1 SpellSave, -1 BreathSave NAv 3x40 
 
 4 mils min
 
-3. cp for helm of the dwarfs, dwarf skin - 750k
+3\. cp for helm of the dwarfs, dwarf skin - 750k
 
-4. blue steel shoulder guards -0.8 +1 Con, -1 Str * MT MW AdM AdC [AND] , 
+4\. blue steel shoulder guards -0.8 +1 Con, -1 Str \* MT MW AdM AdC [AND] , 
 
 5 mils min
 
@@ -62,7 +62,7 @@ guards - was a buyout, too
 
 <div class="post" data-post-id="7932" data-author="Alberich" data-date="2005-07-17T11:57:18+00:00" data-subject="">
 
-6mils for ring :)
+6mils for ring <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -70,7 +70,7 @@ guards - was a buyout, too
 
 subj, Bracelet of the High Dork (aka Orc)
 
-+10 HP SW 2x40 Forged 
+\+10 HP SW 2x40 Forged 
 
 8 mils min
 
@@ -78,7 +78,7 @@ subj, Bracelet of the High Dork (aka Orc)
 
 <div class="post" data-post-id="7935" data-author="Mike" data-date="2005-07-17T15:06:53+00:00" data-subject="RE: wts High Dork Bracelet">
 
-Sure i`ll take it =)
+Sure i\`ll take it =)
 
 9 mils
 
@@ -140,12 +140,12 @@ Chad
 
 <div class="post" data-post-id="7946" data-author="Krok" data-date="2005-07-19T08:31:17+00:00" data-subject="">
 
-Alberich, grats on ring, i'll ship it to you, so feel free to check post. :)
+Alberich, grats on ring, i'll ship it to you, so feel free to check post. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="7956" data-author="Krok" data-date="2005-07-20T08:00:06+00:00" data-subject="">
 
-Gul, gonna ship bracelet to you. :)
+Gul, gonna ship bracelet to you. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

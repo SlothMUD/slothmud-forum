@@ -16,9 +16,9 @@ Generally, I've gotten a good impression of this mud. There's been a lot of help
 
 But there's also some less helpful comments/actions I've heard.
 
-1) I died, had 1 hp left, was hungry and no gold to buy rations. As I just started, my eq wasn't great and after a failed attempt to get it back, I decided to just leave it. This means regenning gets a bit tricky and so I asked was what I had to do. The advice "Create a new char" isn't helpful. I spent hours getting the few levels I have and I don't feel like starting over and it would be even worse if I was in this situation at higher levels. Now, the one useful advice I did get was that the cleric outside the inn would eventually give me food, so that's great, I can use that advice.
+1\) I died, had 1 hp left, was hungry and no gold to buy rations. As I just started, my eq wasn't great and after a failed attempt to get it back, I decided to just leave it. This means regenning gets a bit tricky and so I asked was what I had to do. The advice "Create a new char" isn't helpful. I spent hours getting the few levels I have and I don't feel like starting over and it would be even worse if I was in this situation at higher levels. Now, the one useful advice I did get was that the cleric outside the inn would eventually give me food, so that's great, I can use that advice.
 
-2) So I went to the cleric, sat down, rested and waited. Not many seconds after I sat down to rest, a player comes in and attacks the cleric and kills him. This kind of annoyed me, especially after the conversation that had just been going on at the gossip channel. Apparently it was more important for him to get this one mob killed instead of waiting for me to get a bit of food, so I could get on with the game.
+2\) So I went to the cleric, sat down, rested and waited. Not many seconds after I sat down to rest, a player comes in and attacks the cleric and kills him. This kind of annoyed me, especially after the conversation that had just been going on at the gossip channel. Apparently it was more important for him to get this one mob killed instead of waiting for me to get a bit of food, so I could get on with the game.
 
 I've decided to stick around though, since in general I think it's a nice community on the mud.
 
@@ -28,7 +28,7 @@ I've decided to stick around though, since in general I think it's a nice commun
 
 The part about the cleric actually cracks me up because I sit and watch it happen every day and wonder if they ever realise that the cleric is awfully helpful to players. Heck it gives them food and heals them yet people insist on walking past and killing it for the coins:-)
 
-It may be time for the town guards to start protecting its citizens :shock: 
+It may be time for the town guards to start protecting its citizens <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
 Anyways, hope ya stick it out-the first few levels are the worst.
 
@@ -48,15 +48,26 @@ Popa
 
 <div class="post" data-post-id="5701" data-author="Yasik" data-date="2005-04-17T06:45:19+00:00" data-subject="">
 
-The part about the cleric actually cracks me up because I sit and watch it happen every day and wonder if they ever realise that the cleric is awfully helpful to players. Heck it gives them food and heals them yet people insist on walking past and killing it for the coins:-)
-
-It may be time for the town guards to start protecting its citizens :shock: 
-
-Anyways, hope ya stick it out-the first few levels are the worst.
-
-Enjoy,
-
-Splork[/quote:1x4ieg3p]
+> <strong>\*Splork\* wrote:</strong>
+> The part about the cleric actually cracks me up because I sit and watch it happen every day and wonder if they ever realise that the cleric is awfully helpful to players. Heck it gives them food and heals them yet people insist on walking past and killing it for the coins:-)
+> 
+> 
+> 
+> It may be time for the town guards to start protecting its citizens <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
+> 
+> 
+> 
+> 
+> 
+> Anyways, hope ya stick it out-the first few levels are the worst.
+> 
+> 
+> 
+> 
+> 
+> Enjoy,
+> 
+> Splork
 
 Good idea is put back 50 coins on ferrets in Newbatia town, so newbs can kill them and have cash to buy things.
 
@@ -64,7 +75,7 @@ Good idea is put back 50 coins on ferrets in Newbatia town, so newbs can kill th
 
 <div class="post" data-post-id="5705" data-author="12345" data-date="2005-04-18T11:20:24+00:00" data-subject="">
 
-I'm not the person who suggested it, but making a new character is actually a great idea.  A newbie can walk almost anywhere on Valk without much fear of being attacked and it's not hated if they are.  You can create a newbie to get your corpse, use the recall scrolls you're created with to get back to town, and find a safe place to drop your corpse. Log your main character back in, take the stuff from the corpse.  Next time you die, delete the retrieve character and recreate.
+I'm not the person who suggested it, but making a new character is actually a great idea. A newbie can walk almost anywhere on Valk without much fear of being attacked and it's not hated if they are. You can create a newbie to get your corpse, use the recall scrolls you're created with to get back to town, and find a safe place to drop your corpse. Log your main character back in, take the stuff from the corpse. Next time you die, delete the retrieve character and recreate.
 
 </div>
 
@@ -74,7 +85,7 @@ Whan in area type where if you see some players in area ask tham get your corpse
 
  Females loads apples, here is your food, if not loaded carve here corpse , get slice eat slice (same food) , if she huge for you, kill cat
 
- Depozit all cash in bank, during kill run you dont need it, bank dont give % but at list  cash at safe place and any time you can take it. Never heard about bank crizis yet in sloth.
+ Depozit all cash in bank, during kill run you dont need it, bank dont give % but at list cash at safe place and any time you can take it. Never heard about bank crizis yet in sloth.
 
  Explore area befor cr, study mobs, some of tham dont see invisible, some of tham dont hit at first round(valk feature), some agro, some not,some looting ,some not,find all that at the beggining
 
@@ -94,11 +105,13 @@ We're allowed to CR our own corpse with another char?
 
 <div class="post" data-post-id="5710" data-author="12345" data-date="2005-04-18T11:55:20+00:00" data-subject="">
 
-We're allowed to CR our own corpse with another char?[/quote:ebgip8v8]
+> <strong>Weasel wrote:</strong>
+> We're allowed to CR our own corpse with another char?
 
 Of course, check the rules:
 
-You MAY use one character to collect the corpse of another of your characters, as long as only one character is on at any time.[/quote:ebgip8v8]
+> <strong>Sloth Rules wrote:</strong>
+> You MAY use one character to collect the corpse of another of your characters, as long as only one character is on at any time.
 
 You can check the link yourself if you like:
 
@@ -108,31 +121,31 @@ You can check the link yourself if you like:
 
 <div class="post" data-post-id="5723" data-author="Weasel" data-date="2005-04-18T19:43:28+00:00" data-subject="">
 
-No worries I believe you :) For some reason I thought that was frowned upon. Good to know, thanks.
+No worries I believe you <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> For some reason I thought that was frowned upon. Good to know, thanks.
 
 </div>
 
 <div class="post" data-post-id="5724" data-author="Autolycos" data-date="2005-04-18T19:51:27+00:00" data-subject="">
 
-could be a major case of paranoia,  cause i was under the same belief that it was not a good idea. :shock:
+could be a major case of paranoia, cause i was under the same belief that it was not a good idea. <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="5725" data-author="Leaf" data-date="2005-04-18T19:57:56+00:00" data-subject="">
 
-I multi play all the time.  I mean I get my crap with other chars all the time.
+I multi play all the time. I mean I get my crap with other chars all the time.
 
 </div>
 
 <div class="post" data-post-id="5726" data-author="Alberich" data-date="2005-04-18T20:00:02+00:00" data-subject="">
 
-same, and I always have.. a big part of the reason I have 2 chars, and keep them at similar levels, is for that very thing.  I'd hate to be whining on gossip looking for help killing solo mobs all the time :)
+same, and I always have.. a big part of the reason I have 2 chars, and keep them at similar levels, is for that very thing. I'd hate to be whining on gossip looking for help killing solo mobs all the time <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="5727" data-author="Autolycos" data-date="2005-04-18T20:33:01+00:00" data-subject="">
 
-*laff AL.. you dont whine on gossip..  you whine on ICQ!!!  :twisted:
+\*laff AL.. you dont whine on gossip.. you whine on ICQ!!! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -146,15 +159,18 @@ Muahaha.
 
 <div class="post" data-post-id="5732" data-author="Leaf" data-date="2005-04-19T11:50:53+00:00" data-subject="">
 
-BTW, if any help is needed for newbies, you should look to your friendly slothie (Autolycos) for help. He will supply everything you need!
+> <strong>impz wrote:</strong>
+> BTW, if any help is needed for newbies, you should look to your friendly slothie (Autolycos) for help. He will supply everything you need!
+> 
+> 
+> 
+> Muahaha.
 
-Muahaha.[/quote:25z6md2z]
+R u crazy Impz??? Telling newbies to ask Autolycos for advice is like telling
 
-R u crazy Impz???  Telling newbies to ask Autolycos for advice is like telling
+them to just quit!!! I mean how long did it take Auto to get 4x40? Like 8yrs?
 
-them to just quit!!!  I mean how long did it take Auto to get 4x40? Like 8yrs?
-
-And we all know he isn't the sharpest tool in the shed.  But the BIGGEST
+And we all know he isn't the sharpest tool in the shed. But the BIGGEST
 
 TOOL u will ever meet!
 
@@ -162,7 +178,7 @@ TOOL u will ever meet!
 
 <div class="post" data-post-id="5733" data-author="Autolycos" data-date="2005-04-19T12:26:21+00:00" data-subject="">
 
-WOW!  :shock: 
+WOW! <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
 i never thought i would ever agree with Leaf on anything... 
 
@@ -174,9 +190,9 @@ I wouldnt suggest anyone coming to me for advice.. I mean after all
 
 i dont even trust me.. i would mislead them, and berate them all while
 
-dazzeling them with my obscene abuse of colors!  :twisted: 
+dazzeling them with my obscene abuse of colors! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-*IT'S SPIDER STOMPIN TIME*  :twisted:
+\*IT'S SPIDER STOMPIN TIME\* <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -184,7 +200,7 @@ dazzeling them with my obscene abuse of colors!  :twisted:
 
 Took me like 2 months to get Leaf 3x40 and about 3 months for Fable to 
 
-get the same lvl :)
+get the same lvl <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 It's getting to Avatar is the trick for me hehehe.
 
@@ -198,7 +214,7 @@ even if my char is an old man.
 
 but no matter what nonsense you spew..
 
-Impz still sucks!  :twisted:
+Impz still sucks! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -214,25 +230,25 @@ I feel sad now...Meanie cutesy autolycos!!!
 
 <div class="post" data-post-id="5742" data-author="Autolycos" data-date="2005-04-19T16:49:48+00:00" data-subject="">
 
-I always thought i am the top 10 in helping newbies...
-
-[/quote:kotaxunl]
+> <strong>impz wrote:</strong>
+> I always thought i am the top 10 in helping newbies...
 
 teaching them the top 10 methods of botting perhaps?
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="7558" data-author="firebrand" data-date="2005-06-24T14:47:49+00:00" data-subject="">
 
-i have frequently seen sloth vets use a second char to cr the corpsed char.  that's not considered multip because there is only one active connection.  multip is when you have 2 or more active chars on at the same time, and this includes leaving a char in the inn to void out because you have more than 110 items and can't rent while you bring on another char to actively play.  if you are ever in doubt as to what is and is not multip, just ask on newbie channel.  ignore leaf because he's a permanewb *wickedgrin*
+i have frequently seen sloth vets use a second char to cr the corpsed char. that's not considered multip because there is only one active connection. multip is when you have 2 or more active chars on at the same time, and this includes leaving a char in the inn to void out because you have more than 110 items and can't rent while you bring on another char to actively play. if you are ever in doubt as to what is and is not multip, just ask on newbie channel. ignore leaf because he's a permanewb \*wickedgrin\*
 
 </div>
 
 <div class="post" data-post-id="7559" data-author="Leaf" data-date="2005-06-24T15:10:50+00:00" data-subject="">
 
-ignore leaf because he's a permanewb *wickedgrin*[/quote:1hqwhl01]
+> <strong>firebrand wrote:</strong>
+> ignore leaf because he's a permanewb \*wickedgrin\*
 
 Takes one to know one!!!
 
@@ -240,7 +256,8 @@ Takes one to know one!!!
 
 <div class="post" data-post-id="7560" data-author="Leaf" data-date="2005-06-24T15:11:07+00:00" data-subject="">
 
-ignore leaf because he's a permanewb *wickedgrin*[/quote:5zqq6pzw]
+> <strong>firebrand wrote:</strong>
+> ignore leaf because he's a permanewb \*wickedgrin\*
 
 Takes one to know one!!!
 

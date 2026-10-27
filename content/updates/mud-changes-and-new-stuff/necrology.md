@@ -14,10 +14,10 @@ post_count: 1
 
 There is a new necro/cleric skill called necrology.
 
-In essence, it allows a user who has studied the subject to identify the uses to which a corpse can be put.  I.e., how strong an animated subject would the corpse become.
+In essence, it allows a user who has studied the subject to identify the uses to which a corpse can be put. I.e., how strong an animated subject would the corpse become.
 
-To use it (once the skill is learned), just look at the corpse.  There is no mana cost, and there is no command-lag caused by it.
+To use it (once the skill is learned), just look at the corpse. There is no mana cost, and there is no command-lag caused by it.
 
--Enea
+\-Enea
 
 </div>

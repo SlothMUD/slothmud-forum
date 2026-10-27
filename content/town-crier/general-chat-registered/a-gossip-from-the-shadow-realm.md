@@ -14,8 +14,8 @@ post_count: 2
 
 I have found a temporary scroll in the Shadow Realm that read this:
 
-> **Quote:**
-> I have discovered a strange necklace that contains the heart of pure evil.  
+> <strong>Quote:</strong>
+> I have discovered a strange necklace that contains the heart of pure evil. 
 > 
 > When I approached the gates of this awful oblivion, and spoke the words, 
 > 
@@ -29,9 +29,9 @@ I believe this is the onyx necklace of demons (wtb one, btw).
 
 You are using:
 
-<worn around neck>   an onyx necklace of demons..It glows red!
+\<worn around neck\> an onyx necklace of demons..It glows red!
 
-<1155hp 136ma 360mv> 12200343644 - -11.8 +10 overcast+0, 0
+\<1155hp 136ma 360mv\> 12200343644 - -11.8 +10 overcast+0, 0
 
 n
 
@@ -39,13 +39,13 @@ say I demand entrance
 
 Before the Shadow Gate
 
-Exits: [North]  South  
+Exits: [North] South 
 
 (Brilliant Red Aura) (hidden) The canopy of a gnarled and twisted tree hangs over the trail.
 
 You report 1167/1347 hp. Change: +60. Need: 180. Spells: aegis.
 
-<1167hp 140ma 363mv> 12200343644 - -11.8 +10 overcast+0, 0
+\<1167hp 140ma 363mv\> 12200343644 - -11.8 +10 overcast+0, 0
 
 An umbral banyan slips off into the forest allowing you and your friends to pass.
 
@@ -55,7 +55,7 @@ You say 'I demand entrance'
 
 Before the Shadow Gate
 
-Exits: North  South  
+Exits: North South 
 
 A rusty section of linked chain lies crumbled in a pile.
 
@@ -71,31 +71,31 @@ Item is: NOBITS
 
 Weight: 0, Value: 0gold, Worn in: TAKE 
 
-<1189hp 125ma 370mv> 12200343644 - -11.8 +10 overcast+0, 0
+\<1189hp 125ma 370mv\> 12200343644 - -11.8 +10 overcast+0, 0
 
 sca
 
 You peer intently all around, and see:
 
-                a greater feyr : a ways to the south
+ a greater feyr : a ways to the south
 
-                a greater feyr : a ways to the south
+ a greater feyr : a ways to the south
 
-<1194hp 127ma 373mv> 12200343644 - -11.8 +10 overcast+0, 0
+\<1194hp 127ma 373mv\> 12200343644 - -11.8 +10 overcast+0, 0
 
 n
 
 Inside the Shadow Gate
 
-Exits: East  [South]  Up  
+Exits: East [South] Up 
 
-<1197hp 128ma 372mv> 12200343644 - -11.8 +10 overcast+0, 0
+\<1197hp 128ma 372mv\> 12200343644 - -11.8 +10 overcast+0, 0
 
 s
 
 The gates to the south seems to be closed.
 
-Maybe the gates should remain opened, once they are opened *shrug*.
+Maybe the gates should remain opened, once they are opened \*shrug\*.
 
 Cheers.
 
@@ -103,7 +103,7 @@ Cheers.
 
 <div class="post" data-post-id="36663" data-author="Yasik" data-date="2016-02-28T11:09:38+00:00" data-subject="Re: A gossip from the Shadow Realm">
 
-Gates of oblivion *and* gates of hell - at the same place and time, hmmm...
+Gates of oblivion \*and\* gates of hell - at the same place and time, hmmm...
 
 Sounds like an adventure!
 

@@ -38,7 +38,7 @@ Alias
 
 <div class="post" data-post-id="18027" data-author="tincts" data-date="2007-04-18T04:32:13+00:00" data-subject="">
 
-Yeah Alias is getting mighty tired of people making light of his poo business.  Marketing on sloth is hard enough without being noshouted.  Give him and his poo a break  8)
+Yeah Alias is getting mighty tired of people making light of his poo business. Marketing on sloth is hard enough without being noshouted. Give him and his poo a break <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -48,7 +48,7 @@ Alias,
 
 Theres a lot of revenge minded people that probably would pay you to put a load of manure in someone's car, especially if you deliver.
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

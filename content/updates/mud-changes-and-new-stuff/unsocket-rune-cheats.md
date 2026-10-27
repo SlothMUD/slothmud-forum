@@ -20,25 +20,25 @@ removing runes this way is considered cheating.
 
 i have 2 options to fix it
 
-1) make innkeeper charge 100m coins to get your rune back
+1\) make innkeeper charge 100m coins to get your rune back
 
-2) poof the rune
+2\) poof the rune
 
 i haven't fixed that bug on purpose so as not to penalize people.
 
 i am considering how to fix it atm
 
-2015-08-23 10:45:21 ** Innkeeper returned Obsidian Rune to <hidden>. **
+2015-08-23 10:45:21 \*\* Innkeeper returned Obsidian Rune to \<hidden\>. \*\*
 
-2015-08-23 10:45:21 ** Innkeeper returned an orb of the battle mage to <hidden>. **
+2015-08-23 10:45:21 \*\* Innkeeper returned an orb of the battle mage to \<hidden\>. \*\*
 
 and what punishment if any for ignoring my warning if i find out that Idjit passed my message to you
 
 before this desocket. yes i know who your main is.
 
-2015-08-26 20:11:25 ** Innkeeper returned Moonstone Rune to <hidden>. **
+2015-08-26 20:11:25 \*\* Innkeeper returned Moonstone Rune to \<hidden\>. \*\*
 
-2015-08-26 20:11:25 ** Innkeeper returned black demonskin boots to <hidden>. **
+2015-08-26 20:11:25 \*\* Innkeeper returned black demonskin boots to \<hidden\>. \*\*
 
 </div>
 

@@ -32,7 +32,7 @@ But after chatting at length online i am starting to agree with Cizin, while som
 
 <div class="post" data-post-id="31665" data-author="Tuck" data-date="2010-09-01T19:56:36+00:00" data-subject="Re: druid form restructuring">
 
-Please add third poll option: I'm not sure.  :D
+Please add third poll option: I'm not sure. <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -100,7 +100,7 @@ Awaken is much more similar to animate and supp, and it already considers class 
 
 <div class="post" data-post-id="31669" data-author="Thraxas" data-date="2010-09-01T23:50:02+00:00" data-subject="Re: druid form restructuring">
 
-*(up front I'll say I dont ever shift ... apart from ferret which on S4 is my biggest available form)*
+<em>(up front I'll say I dont ever shift ... apart from ferret which on S4 is my biggest available form)</em>
 
 ... not many people play Druid prime ... hmm ... lets see what we can do to make it a more attractive prime class ... shall we :
 
@@ -110,7 +110,7 @@ or
 
 B. make druid less powerful for non prime druids.
 
-I dont see the logic of how B will suddenly lead to an influx of new Druid prime chars ...  other than Brad in this new 8x40 world I'd guess most of us have 2 chars only (main and valker) ... we've already heavily invested in our main so what change is going to be made to make us all stop and start a 2nd Druid prime main?
+I dont see the logic of how B will suddenly lead to an influx of new Druid prime chars ... other than Brad in this new 8x40 world I'd guess most of us have 2 chars only (main and valker) ... we've already heavily invested in our main so what change is going to be made to make us all stop and start a 2nd Druid prime main?
 
 Perhaps rather than option B changing druid for non primes the more logical option A should be considered some more ... maybe:
 
@@ -142,7 +142,7 @@ You feel the hand of nature protecting you.
 
 Example effects based on logic...
 
-The hand of nature takes away your ailments. (PLAYER_IS_EFFECTED_INSOMNIA) 
+The hand of nature takes away your ailments. (PLAYER\_IS\_EFFECTED\_INSOMNIA) 
 
 You feel nature rise within you, you feel completed. (Rapid Regen for 2 mins)
 
@@ -170,25 +170,25 @@ I think druid skills should be "unconventional" but useful, for to be a druid is
 
 <div class="post" data-post-id="31671" data-author="Toxis" data-date="2010-09-02T02:14:48+00:00" data-subject="Re: druid form restructuring">
 
-I hardly ever shift into druid forms when playing Toxis.  His combination of powers makes him very strong.  But it is nice to be able to shift for a quick kill or kill something that hits hard.  Druid is an alternative playstyle, some like it and some don't.  I just don't see why not let everyone be able to shift?  The thing that I loved about sloth was the ability to get all the skills and spells from each class.  That started changing with prime skills and spells, which I like, but I'd hate to make it impossible to use the basic options from all classes (like no good undeads to use cuz necro last, or can't even shift into a halfway decent form because druid last).
+I hardly ever shift into druid forms when playing Toxis. His combination of powers makes him very strong. But it is nice to be able to shift for a quick kill or kill something that hits hard. Druid is an alternative playstyle, some like it and some don't. I just don't see why not let everyone be able to shift? The thing that I loved about sloth was the ability to get all the skills and spells from each class. That started changing with prime skills and spells, which I like, but I'd hate to make it impossible to use the basic options from all classes (like no good undeads to use cuz necro last, or can't even shift into a halfway decent form because druid last).
 
-1: Druid forms should be more powerful, aren't they already?  Or just give them more shift eq... There's a lot of cool shift eq that could be given to them for little ac or hit points.
+1: Druid forms should be more powerful, aren't they already? Or just give them more shift eq... There's a lot of cool shift eq that could be given to them for little ac or hit points.
 
-2: Allow druids to tank.  They don't have parry, and that's where a good warrior will always have over.  But if you don't want 2000 hp tanks, then let's at least give minotaur shift in with 1000 hp so we can at least have a nice tank when no warriors can be found.
+2: Allow druids to tank. They don't have parry, and that's where a good warrior will always have over. But if you don't want 2000 hp tanks, then let's at least give minotaur shift in with 1000 hp so we can at least have a nice tank when no warriors can be found.
 
-3: I'd love to see druids be able to shift and man up, our frontlines are so weak.  Group chaos everywhere, and let's face it, I don't think most druids want to heal anyway :).  Since most thieves can't stay on frontline, at least druids could.  I'm not sure why druids aren't on frontlines more often, is it because their mana is wasted too quickly?  One reason why I never shifted in groups is because it's so much better to use mana to heal or blast rather than shifting.  So perhaps there could be a form that is druid prime that doesn't use mana, that deals a decent amount of damage, that can stay on frontline for extended periods of time...
+3: I'd love to see druids be able to shift and man up, our frontlines are so weak. Group chaos everywhere, and let's face it, I don't think most druids want to heal anyway <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">. Since most thieves can't stay on frontline, at least druids could. I'm not sure why druids aren't on frontlines more often, is it because their mana is wasted too quickly? One reason why I never shifted in groups is because it's so much better to use mana to heal or blast rather than shifting. So perhaps there could be a form that is druid prime that doesn't use mana, that deals a decent amount of damage, that can stay on frontline for extended periods of time...
 
-4: I think it would be nice if some of the eq was looked at so that bards, thieves, and monks could stay on frontline with at least -9 ac... it's not like thief mobs miss anyway.  We're all pretty sick of 1 person on frontline and 10 in backrow because no one can take that punishment.  Toxis has -9.8 ac and he still gets pounded on frontline.  If you don't have -9 ac forget it, you're in back row.
+4: I think it would be nice if some of the eq was looked at so that bards, thieves, and monks could stay on frontline with at least -9 ac... it's not like thief mobs miss anyway. We're all pretty sick of 1 person on frontline and 10 in backrow because no one can take that punishment. Toxis has -9.8 ac and he still gets pounded on frontline. If you don't have -9 ac forget it, you're in back row.
 
-5: I really liked the idea of autospells for druid PRIMES to give stone (or ironskin) if it falls and you're shifted.  Stone (iron), bless (grace), hungry/thirsty, avatar sight, and unsure if any others needs to be added.
+5: I really liked the idea of autospells for druid PRIMES to give stone (or ironskin) if it falls and you're shifted. Stone (iron), bless (grace), hungry/thirsty, avatar sight, and unsure if any others needs to be added.
 
--Brad
+\-Brad
 
 </div>
 
 <div class="post" data-post-id="31672" data-author="*Splork*" data-date="2010-09-02T02:15:38+00:00" data-subject="Re: druid form restructuring">
 
-I like the  idea of limited spell casting while shifted, however we will probably stay away adding pets. Our thoughts is that we have enough of this style of play ingame and adding another class with this ability is overkill for the mud.
+I like the idea of limited spell casting while shifted, however we will probably stay away adding pets. Our thoughts is that we have enough of this style of play ingame and adding another class with this ability is overkill for the mud.
 
 Keep the ideas coming
 
@@ -196,11 +196,11 @@ Keep the ideas coming
 
 <div class="post" data-post-id="31673" data-author="jezer" data-date="2010-09-02T02:47:25+00:00" data-subject="Re: druid form restructuring">
 
-My druid will be able to frontline at -9 in .5 bill xp. Unshifted.  :D  I can get more ac unshifted than shifted at the moment. My monk secondary is better than my druid again because of some new monk eq's. Shifting is a bit of a joke, nerfs were hard. Druids always were amongst the slowest starters and that was when you got better shift forms quicker! So imagine what it's like now. If anything in druid needed a nerf it was phoenix, sea dragon and piasa, and only by hp. Everyone will have 5 attacks at high dam later on. Piasa wasn't over powered, it was probably just too big!
+My druid will be able to frontline at -9 in .5 bill xp. Unshifted. <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> I can get more ac unshifted than shifted at the moment. My monk secondary is better than my druid again because of some new monk eq's. Shifting is a bit of a joke, nerfs were hard. Druids always were amongst the slowest starters and that was when you got better shift forms quicker! So imagine what it's like now. If anything in druid needed a nerf it was phoenix, sea dragon and piasa, and only by hp. Everyone will have 5 attacks at high dam later on. Piasa wasn't over powered, it was probably just too big!
 
-I personally am not interested in shifting in the front line, I'll need food (maybe I could buy rations? Inconceivable!!!!), damage is low, mana runs out. Doesn't do it for me. I don't like healing either  :twisted: What do you like Jezer? Being useful, bug fixes, balance, dead tanks.
+I personally am not interested in shifting in the front line, I'll need food (maybe I could buy rations? Inconceivable!!!!), damage is low, mana runs out. Doesn't do it for me. I don't like healing either <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> What do you like Jezer? Being useful, bug fixes, balance, dead tanks.
 
-Thanks for asking for our opinions before you wielded the nerf scissors anyways splork. I'm afraid it will kill shifting for non primes though unless changes are made.... and the improvements to monk aren't finished yet, ie, low dam 3rd round. Certainly don't want to see this divert energies to quickly when monks were almost fixed.  :twisted:
+Thanks for asking for our opinions before you wielded the nerf scissors anyways splork. I'm afraid it will kill shifting for non primes though unless changes are made.... and the improvements to monk aren't finished yet, ie, low dam 3rd round. Certainly don't want to see this divert energies to quickly when monks were almost fixed. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -234,19 +234,19 @@ Because otherwise it goes something like this ; you choose a class order that is
 
 You're quite sure that you alone can perceive all ends of changes aren't you? Since we don't "seem to realize" that all your opinions are flawlessly correct, allow me to counter several of your points.
 
-> **Dragoth wrote:**
+> <strong>Dragoth wrote:</strong>
 > What none of you seem to realize is that shifting is what defines druid class, if you take that away and give it to everybody then there is no need to play a druid prime because as you say there are no other important skills or spells for that class.
 
 Shifting does define the druid class, true, but notice that the defining aspects of every class are available to non-primes. Some classes have a pronounced advantage as prime, others have a much smaller difference. All the forms are currently stronger for a druid prime than anyone else.
 
 Leaving shapeshift as-is would hardly "take [shifting] away and give it to everybody", rather it would take shifting away from non-primes and give nothing to druids.
 
-> **Dragoth wrote:**
+> <strong>Dragoth wrote:</strong>
 > You keep saying give them more useful spells and skills and yet see how many people are already druid secondary ? The regen bonus is a welcome addition despite the forms, regen and mana play very important role in this mud and without regen mana is pretty much useless, thats why people with common sense choose druid secondary almost automatically.
 
 If you're so certain that all of the caster/druids picked druid second solely for the regen, why are you so concerned that they may retain decent forms?
 
-> **Dragoth wrote:**
+> <strong>Dragoth wrote:</strong>
 > You keep coming up with more ideas but it seems that you are just trying to justify keeping what you already have and going even further by adding new powers to druids, which really does not need to happen.
 
 It doesn't? How often do you see druids in groups casting actual druid spells? You appear to be attempting to justify many people having a greatly weakened ability to solo. I'm not sure what your motivation for this could be, so I'll refrain from unflattering speculation.
@@ -293,7 +293,7 @@ Nope its not, if you imagine all those classes at 5x40 they have absolutely the 
 
 This can be applied to any class you choose, nothing matters except for your prime and the amount of mana and regen you get. So the trick to make a powerful char is to have a good prime with good prime skills like warrior and choose supporting classes that give most regen and most mana, cool trick isnt it ? 
 
-Simply by making all mage spells  and cleric spells scale by 10-20% for each late position and scaling druid forms, you are already making a huge distinction from the current system and redefining the importance of class positions. Th/cl is now more of a healer than a blaster while Th/dr is a shapeshifter stabber. Shapeshifter stabber you ask ? Well why not, instead of blasting a mob after stab you shapeshift into a form that can kick that mob's ass real quick - this makes this thief class a more fat mob oriented class with an utterly different gameplay from th/cl or th/ma.
+Simply by making all mage spells and cleric spells scale by 10-20% for each late position and scaling druid forms, you are already making a huge distinction from the current system and redefining the importance of class positions. Th/cl is now more of a healer than a blaster while Th/dr is a shapeshifter stabber. Shapeshifter stabber you ask ? Well why not, instead of blasting a mob after stab you shapeshift into a form that can kick that mob's ass real quick - this makes this thief class a more fat mob oriented class with an utterly different gameplay from th/cl or th/ma.
 
 This can be applied to every class in game simply by scaling a few spells and skills to make every class order distinct and worth choosing instead of one another but not necessary making one class weaker than the other.
 
@@ -303,7 +303,7 @@ By giving monk a big damage reduction bonus you can make this a multi-gamestyle 
 
 The exact numbers need to be calculated but If monks were given a huge reduction that scales back 20% with every late position you are making a huge distinction between group tanks with both AC and damage reduction and solo warrior classes that chose mana instead of damage mitigation.
 
-If AC is made less abundant by scaling and reducing its availability to non prime warriors and monk's damage mitigation is comparable to AC in its reductions then you can make people choose a playstyle that suits them just by choosing between monk and warrior. Some would like mobs to miss them and others like to mitigate that damage instead ( for example thief mobs rarely miss AC so it would be better to pair thief prime with monk and wear dam_reduction eq to get reduced damaged and mages would work better with warrior and AC eq as mage mobs usually miss AC alot ), others like to have both at the cost of reduced mana and regen and blasting and healing (remember that restores and firewinds scale back now too ). I think an 8 class mud can use double tanking standards. There is plenty of dam reduction EQ on the mud to make damage reduction work the same way as AC, the more dam_reduction EQ you get the more damage you mitigate ( same it is currently, but make it comparable to AC, if a monk has capped his damage reduction he has about the same tanking ability as a warrior with -12)
+If AC is made less abundant by scaling and reducing its availability to non prime warriors and monk's damage mitigation is comparable to AC in its reductions then you can make people choose a playstyle that suits them just by choosing between monk and warrior. Some would like mobs to miss them and others like to mitigate that damage instead ( for example thief mobs rarely miss AC so it would be better to pair thief prime with monk and wear dam\_reduction eq to get reduced damaged and mages would work better with warrior and AC eq as mage mobs usually miss AC alot ), others like to have both at the cost of reduced mana and regen and blasting and healing (remember that restores and firewinds scale back now too ). I think an 8 class mud can use double tanking standards. There is plenty of dam reduction EQ on the mud to make damage reduction work the same way as AC, the more dam\_reduction EQ you get the more damage you mitigate ( same it is currently, but make it comparable to AC, if a monk has capped his damage reduction he has about the same tanking ability as a warrior with -12)
 
 By combining all these scalings you can create a truly multi-class mud with a huge emphasis on your class positions that will affect absolutely everything you do - from how you behave in solo situations to how you behave in groups. This will make people want to try out different characters and this will create the much needed diversity while making every class important and unique.
 
@@ -311,35 +311,35 @@ By combining all these scalings you can create a truly multi-class mud with a hu
 
 <div class="post" data-post-id="31695" data-author="Dragoth" data-date="2010-09-03T06:50:09+00:00" data-subject="Re: druid form restructuring">
 
-So we all agree with me that that's how everything should be like ?  :mrgreen:
+So we all agree with me that that's how everything should be like ? <img src="/images/smilies/icon_mrgreen.svg" alt=":mrgreen:" title=":mrgreen:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="31698" data-author="Sleeping Forest" data-date="2010-09-04T00:32:01+00:00" data-subject="Re: druid form restructuring">
 
-I have held back on posting on this subject for a couple of days to read others thoughts and concerns on this topic. I currently play Roku [40d 40m 40c 25n 20b 19w 13o 12t] a smallish druid prime. While Druid restructuring is on the table i would like to voice some **opinions/ideas** about the sloth druid class. Druids have always played 2.clerics or 2.mages in groups, identity has always been a problem.
+I have held back on posting on this subject for a couple of days to read others thoughts and concerns on this topic. I currently play Roku [40d 40m 40c 25n 20b 19w 13o 12t] a smallish druid prime. While Druid restructuring is on the table i would like to voice some <strong>opinions/ideas</strong> about the sloth druid class. Druids have always played 2.clerics or 2.mages in groups, identity has always been a problem.
 
-1. Shapeshift is the class defining druid skill. While outstanding at higher levels for solo we are not much use in group when it comes to our shifting. Many times when i have wanted to play like a druid in a group my limited time to be able to hold my shift form compared to the standing regen time it takes to get enough mana to shift back (while being scolded to use my mana) makes shifting in groups very unappealing. Restructuring druid to limit forms in position of classo in my opinion is not the way to go about making druid prime more apealling to players.
+1\. Shapeshift is the class defining druid skill. While outstanding at higher levels for solo we are not much use in group when it comes to our shifting. Many times when i have wanted to play like a druid in a group my limited time to be able to hold my shift form compared to the standing regen time it takes to get enough mana to shift back (while being scolded to use my mana) makes shifting in groups very unappealing. Restructuring druid to limit forms in position of classo in my opinion is not the way to go about making druid prime more apealling to players.
 
 1a. Instead of taking forms away from existing players and buffing druid i suggest making the druids use of mana more efficient in position of the class. My outlook on a druid is the class defining skill of shapeshift should be effortless and seamless for a primary. Meaning little to no shift cost and bare minimum mana-burn to be able to hold the form, factoring in the +mr eq and such. (Thus making shifting a viable option in grouping.) I personally find the mana-burn while shifted a very unattractive aspect of the Druid class. Now scaling the shift cost/mana-burn rate for every position druid is moved down the classo sounds like more of the way to "restructure". Wouldn't u think it would be harder/more costly to shift to a form and retain that form the further down the line druid is? 
 
-2. Dropping of spells while shifted.
+2\. Dropping of spells while shifted.
 
-2a. While taking the mana to lite then shift then get halfway through a run and have your base defensive skills fall (ie stoneskin) and have to blow the mana to unshift, respell, and shift again drastically cuts your run.  Here i propose maybe the idea of druid iouns such as acorns or something that are memable and then consumable while in shifted form. This is just a off the wall idea, but pointing out problems without ideas for consideration is kind of moot.
+2a. While taking the mana to lite then shift then get halfway through a run and have your base defensive skills fall (ie stoneskin) and have to blow the mana to unshift, respell, and shift again drastically cuts your run. Here i propose maybe the idea of druid iouns such as acorns or something that are memable and then consumable while in shifted form. This is just a off the wall idea, but pointing out problems without ideas for consideration is kind of moot.
 
-3. Awaken spell.
+3\. Awaken spell.
 
-3a. Druids should not have pets. If u want pets play a necro, we have a class for that. Changing awaken to say something like Jezers idea of the whole "hand of nature" theory sounds appealing. That led me to the idea of awaken being another scaled option of say awakening "The spirit of the forest" where this non fighting spirit follows and removes curses, blinds diseases, ect. When the next scaled level is unlocked say "The spirit of the desert"  where it casts debuffs like curses or blinds while in your in your shifted forms. But whatever spirit u awaken they are never a fighting supp/pet, more of a support creature.
+3a. Druids should not have pets. If u want pets play a necro, we have a class for that. Changing awaken to say something like Jezers idea of the whole "hand of nature" theory sounds appealing. That led me to the idea of awaken being another scaled option of say awakening "The spirit of the forest" where this non fighting spirit follows and removes curses, blinds diseases, ect. When the next scaled level is unlocked say "The spirit of the desert" where it casts debuffs like curses or blinds while in your in your shifted forms. But whatever spirit u awaken they are never a fighting supp/pet, more of a support creature.
 
 These are just a few off the top observations.
 
-This is my first post in my 8 year career in sloth so plz be gentle. Flame away boys and girls.  :twisted:
+This is my first post in my 8 year career in sloth so plz be gentle. Flame away boys and girls. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="31699" data-author="Shyla" data-date="2010-09-04T02:07:07+00:00" data-subject="Re: druid form restructuring">
 
-if bard primes can sing and cast why not give druid primes shift and cast similiarly? if you are worried about overpowering linit wgat they can cast like healing spellsand enhancement only.  Not sure if this is even feasible but just a suggestion.  
+if bard primes can sing and cast why not give druid primes shift and cast similiarly? if you are worried about overpowering linit wgat they can cast like healing spellsand enhancement only. Not sure if this is even feasible but just a suggestion. 
 
 Shyla
 
@@ -365,7 +365,7 @@ Finally, I'm not interested in continuing this conversation between us. I find y
 
 <div class="post" data-post-id="31703" data-author="Dragoth" data-date="2010-09-04T06:33:37+00:00" data-subject="Re: druid form restructuring">
 
-I also like both of Sleeping Forests ideas, but at the end of the day whether you make forms themselves scale back or you make mana usage scale back with druid's class position the end result is practically the same for non druid primes, but its a certain advantage for a druid prime surely.  If players prefer to keep all their druid forms which they are not able to use it due to mana burn then scaling mana burn option is the way to go. 
+I also like both of Sleeping Forests ideas, but at the end of the day whether you make forms themselves scale back or you make mana usage scale back with druid's class position the end result is practically the same for non druid primes, but its a certain advantage for a druid prime surely. If players prefer to keep all their druid forms which they are not able to use it due to mana burn then scaling mana burn option is the way to go. 
 
 However, this places an even stronger emphasis on the mana of our players, which is already the king.
 
@@ -373,13 +373,13 @@ Acorns for meming sancs and stone skins to be used while shifted - great idea, b
 
 @ Rynquald and other people i might have offended 
 
-I am not trying to put anyone down or be overly rude and aggressive but at the same time i am not trying to win any popularity contests here either. Surely if my thoughts are flawed then it wouldnt be too hard to prove me wrong by using simple counter-arguments.  
+I am not trying to put anyone down or be overly rude and aggressive but at the same time i am not trying to win any popularity contests here either. Surely if my thoughts are flawed then it wouldnt be too hard to prove me wrong by using simple counter-arguments. 
 
 However, If my thoughts and ideas are correct and applicable then isnt this what matters most and why should it matter how i structure my sentences.
 
 Let us not fight if we agree with each others thoughts just because we dont like each other's way of communicating those thoughts! 
 
-And If i offended anyone with my condescendence  then i am sorry and i did not mean to do that and i do not think any less of you just because i do not agree with your ideas, its just the way i debate  :wink:
+And If i offended anyone with my condescendence then i am sorry and i did not mean to do that and i do not think any less of you just because i do not agree with your ideas, its just the way i debate <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -387,13 +387,13 @@ And If i offended anyone with my condescendence  then i am sorry and i did not m
 
 Sleeping forest pretty much hit it on the head as to what I find frustrating about druid play.
 
-As to why druids maybe ought to be able to mem with acorns, I don't see it as unfair to other classos since druids can't use any other classo abilities while shifted.  Maybe acorns could only be used while shifted so druids are running around with extra mems unshifted.
+As to why druids maybe ought to be able to mem with acorns, I don't see it as unfair to other classos since druids can't use any other classo abilities while shifted. Maybe acorns could only be used while shifted so druids are running around with extra mems unshifted.
 
-The awaken idea is great.  I like the idea of being able to awaken a spirit that is passive but provides some debuff or other such support.  Some abilities I thought may be appropriate for a spirit: curse, blind, poison, provide "mana regen" to shifted druid by lowering mana cost it takes to remain shifted.  Maybe the spirit could cast certain druid spells itself such as brambles, fog, twister, etc.
+The awaken idea is great. I like the idea of being able to awaken a spirit that is passive but provides some debuff or other such support. Some abilities I thought may be appropriate for a spirit: curse, blind, poison, provide "mana regen" to shifted druid by lowering mana cost it takes to remain shifted. Maybe the spirit could cast certain druid spells itself such as brambles, fog, twister, etc.
 
 The spirit would serve as the druids connection to its human form while shifted so that it could use some human form abilities.
 
-I would also like grappling vines to improve with druid level like a web spell.  It is really annoying having to chase stuff around shifted, or return to set brambles or web.  Maybe grappling vine already does this, but I don't think so.  In any case it would also be very beneficial to be able to cast awaken while shifted.
+I would also like grappling vines to improve with druid level like a web spell. It is really annoying having to chase stuff around shifted, or return to set brambles or web. Maybe grappling vine already does this, but I don't think so. In any case it would also be very beneficial to be able to cast awaken while shifted.
 
 Anyway, just my two cents.
 
@@ -419,17 +419,17 @@ Stone and Sanct are in enhencement, but food and drink and shield of thorns are 
 
 You raise your hands to the sky and slowly shift into a half-human half-snake (Jezer).
 
-<1548hp 407ma 202mv +4al -8.1ac +9dam +59mr 31390439xp>
+\<1548hp 407ma 202mv +4al -8.1ac +9dam +59mr 31390439xp\>
 
 You raise your hands to the sky and rapidly shift into an enormous owlbear (Jezer).
 
-<1667hp 331ma 116mv +4al -8.4ac +10dam +55mr 31390439xp>
+\<1667hp 331ma 116mv +4al -8.4ac +10dam +55mr 31390439xp\>
 
 Hi Druids! Welcome to 4x40. In order to help you along with the continuation of your character to 5x40 you have been awarded...
 
-+1 dam +119hp and -0.3ac -85mvs to get > 13.5 billion xp.  :D 
+\+1 dam +119hp and -0.3ac -85mvs to get \> 13.5 billion xp. <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> 
 
-*facepalm*
+\*facepalm\*
 
 </div>
 
@@ -439,7 +439,7 @@ This is really ticking me off at the moment.
 
 Owlbear form uses moves to swipe. But how many mvs does it give me after I've shifted!
 
-A THIRD! Just a third of my max moves! It would be better if it used mana, at least I could blast more. Of course then haste wears off or I unshift and before you know it I've used 300+ moves in less than 60 seconds. And my moves regen slower than my mana! Who the heck thought this up?  :evil: 
+A THIRD! Just a third of my max moves! It would be better if it used mana, at least I could blast more. Of course then haste wears off or I unshift and before you know it I've used 300+ moves in less than 60 seconds. And my moves regen slower than my mana! Who the heck thought this up? <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom"> 
 
 Please fix the moves cap for prime druids on owlbear.
 
@@ -447,7 +447,7 @@ Please fix the moves cap for prime druids on owlbear.
 
 <div class="post" data-post-id="31748" data-author="jezer" data-date="2010-09-12T06:15:55+00:00" data-subject="Re: druid form restructuring">
 
-> ***Splork* wrote:**
+> <strong>\*Splork\* wrote:</strong>
 > Actually, I'm leaning towards allowing Druid primes to cast enhancement spells and also really like the idea of mana cost in form scaling back according to position of druid in classo. I really like that idea!
 > 
 > 

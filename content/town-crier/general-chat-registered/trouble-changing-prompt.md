@@ -12,17 +12,17 @@ post_count: 6
 
 <div class="post" data-post-id="17264" data-author="banedon" data-date="2007-03-12T17:32:30+00:00" data-subject="Trouble changing prompt">
 
-Since I made 2x40 not too long ago, I was going to change my prompt to give me more info than the default hp,ma,mv.  Whenever I try to change it, It is not working at all, for example:
+Since I made 2x40 not too long ago, I was going to change my prompt to give me more info than the default hp,ma,mv. Whenever I try to change it, It is not working at all, for example:
 
 If I try 
 
-prompt <$hhp $mma $vmv $aac>  
+prompt \<$hhp $mma $vmv $aac\> 
 
 Ill get 
 
-<hhp mma vmv aac>  
+\<hhp mma vmv aac\> 
 
-as what shows up as my prompt.  I've read the help file on the mud, and unless I'm just totally missing the boat, I'm entering things right.  If I'm not please let me know where I'm going wrong.
+as what shows up as my prompt. I've read the help file on the mud, and unless I'm just totally missing the boat, I'm entering things right. If I'm not please let me know where I'm going wrong.
 
 Thanks in advance.
 
@@ -30,7 +30,7 @@ Thanks in advance.
 
 <div class="post" data-post-id="17265" data-author="Medios" data-date="2007-03-12T18:20:24+00:00" data-subject="">
 
-You need to figure out how to send text as-is.  With wintin type # then enter.    Otherwise your client is going to send $$ and mess it up.
+You need to figure out how to send text as-is. With wintin type # then enter. Otherwise your client is going to send $$ and mess it up.
 
 Mike
 
@@ -46,31 +46,30 @@ come kill some shit with us fisher
 
 In wintin.net I send the prompt like so:
 
-prompt <$$h/$$Hhp $$m/$$M $$v/$$V $$A $$a>
+prompt \<$$h/$$Hhp $$m/$$M $$v/$$V $$A $$a\>
 
 The $$ seems to work.
 
 Another cool addition you can do with wintin:
 
-prompt <$$h/$$Hhp $$m/$$M $$v/$$V $$A $$a mDk>
+prompt \<$$h/$$Hhp $$m/$$M $$v/$$V $$A $$a mDk\>
 
 Any sequence of characters that will never happen will work...
 
 Then use your client for something along this line:
 
-#sub {mDk>} {$mobcondvar $sancstat>}
+\#sub {mDk\>} {$mobcondvar $sancstat\>}
 
-This will allow you to track anything you like in your prompt.  In the example given, I'm tracking what the mob looked like last time I looked at it (useful in high spam) and if my lite is up down or about to fall, etc.
+This will allow you to track anything you like in your prompt. In the example given, I'm tracking what the mob looked like last time I looked at it (useful in high spam) and if my lite is up down or about to fall, etc.
 
 </div>
 
 <div class="post" data-post-id="17277" data-author="banedon" data-date="2007-03-13T04:40:21+00:00" data-subject="">
 
-In wintin.net I send the prompt like so:
-
-prompt <$$h/$$Hhp $$m/$$M $$v/$$V $$A $$a>
-
-[/quote:uvp5w4ms]
+> <strong>12345 wrote:</strong>
+> In wintin.net I send the prompt like so:
+> 
+> prompt \<$$h/$$Hhp $$m/$$M $$v/$$V $$A $$a\>
 
 Thanks that worked for me
 

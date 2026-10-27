@@ -18,12 +18,12 @@ We will have a Thanksgiving Quest (of some sort...) on Saturday Nov 30th, 2024 a
 
 A timer link has been provided below:
 
-[<LINK_TEXT text="https://www.tickcounter.com/countdown/6 ... ving-quest">https://www.tickcounter.com/countdown/6183688/2024-slothmud-thanksgiving-quest</LINK_TEXT>](https://www.tickcounter.com/countdown/6183688/2024-slothmud-thanksgiving-quest)
+[https://www.tickcounter.com/countdown/6183688/2024-slothmud-thanksgiving-quest](https://www.tickcounter.com/countdown/6183688/2024-slothmud-thanksgiving-quest)
 
 See you all there,
 
 Cheers
 
---Idj
+\--Idj
 
 </div>

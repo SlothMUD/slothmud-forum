@@ -18,7 +18,7 @@ a White Opal
 
 then you you can get:
 
-1. any of these tier 3 gems:
+1\. any of these tier 3 gems:
 
 a Rose Quartz
 
@@ -40,7 +40,7 @@ a Smokey Quartz [2]
 
 a Jasper [2]
 
-2. 5 of these:
+2\. 5 of these:
 
 a Chrysoprase
 
@@ -48,7 +48,7 @@ a Rock Crystal Quartz
 
 an Eye Agate
 
-3. 3 tier 2 gems:
+3\. 3 tier 2 gems:
 
 a Banded Agate [4]
 
@@ -68,7 +68,7 @@ an Alexandrite [2]
 
 an Opal
 
-4. or 4 items
+4\. or 4 items
 
 a berserker's girdle -0.4 +weapon damage +str, low av restricted
 
@@ -78,7 +78,7 @@ the staff of psychic disruption -0.1 light
 
 a crimson tri-cornered hat -1.2 +maxcon -saves
 
-Fist of the Lord of Beasts  -0.8 +hand damage shield
+Fist of the Lord of Beasts -0.8 +hand damage shield
 
 a spider-shaped ring -0.3 +hand dam, low av
 
@@ -94,17 +94,17 @@ a mithril keychain (contains 45 weight)
 
 the keychain of the shuggoth lord (contains 45 weight)
 
-5. or any 3 of the EU gear:
+5\. or any 3 of the EU gear:
 
-- armis -2.1 +10bsb +max wiz body
+\- armis -2.1 +10bsb +max wiz body
 
-- tassets -1.2 -2saves legs
+\- tassets -1.2 -2saves legs
 
-- whip +flamestrike proc
+\- whip +flamestrike proc
 
-- boots of flame +0.1 +max dex
+\- boots of flame +0.1 +max dex
 
-- mail of the eastern squall -1.8 +dam body
+\- mail of the eastern squall -1.8 +dam body
 
 If you need other eq, such as jade slippers or a triangular shield, and would like to make a trade, let me know, and I'll pop it.
 

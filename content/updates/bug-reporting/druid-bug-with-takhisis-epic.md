@@ -14,9 +14,9 @@ post_count: 3
 
 We were fighting tak, then the proc transfered Aife and I to godisland somewhere....
 
-<622hp 554ma 196mv>
+\<622hp 554ma 196mv\>
 
--1.0[AC]|indoors|+0|The Dragon Mountain
+\-1.0[AC]\|indoors\|+0\|The Dragon Mountain
 
 You slice The Sorceress Takhisis very hard.
 
@@ -76,31 +76,31 @@ A demilich utters the words, 'xafe ay saui'
 
 The Sorceress Takhisis draws an ancient glyph in the air before her.
 
-The Sorceress Takhisis utters `ulugos inoypof RDU`loargle`!
+The Sorceress Takhisis utters \`ulugos inoypof RDU\`loargle\`!
 
 Aife uncontrollably changes forms!
 
 The glyph explodes in your face!
 
-<78hp 551ma 196mv>
+\<78hp 551ma 196mv\>
 
-[AC]|indoors|+0|Godsland
+[AC]\|indoors\|+0\|Godsland
 
-#TICK-10
+\#TICK-10
 
 ffs
 
 You have no knowledge of this spell.
 
-<80hp 551ma 195mv>
+\<80hp 551ma 195mv\>
 
-[AC]|indoors|+0|Godsland
+[AC]\|indoors\|+0\|Godsland
 
 Transmutation Storage Room
 
  HA HA HA!
 
-Exits: North  East  South  West
+Exits: North East South West
 
 You sense a hidden life form in the room.
 
@@ -114,9 +114,10 @@ Fixed.
 
 <div class="post" data-post-id="25039" data-author="jezer" data-date="2008-06-16T09:14:59+00:00" data-subject="">
 
-Fixed.[/quote:30iwzve1]
+> <strong>Menthu wrote:</strong>
+> Fixed.
 
-Boston Globe -  "This post is triumph of substance over style."
+Boston Globe - "This post is triumph of substance over style."
 
 New York Times - "Almost untenably cool"
 

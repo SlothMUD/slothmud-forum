@@ -16,11 +16,11 @@ Since the inception of the front/back row fighting scheme, I think we have all k
 
 The following changes have been made:
 
-* Added lag to players falling in front row when group is thrown into chaos. The amount of lag is level dependent and random, meaning lower level players will not feel the effect as much as the higher level players do. The randomness to each player's lag allows for the group to recover more gracefully, that is if everyone is paying attention and not simply spamming 'man back'
+\* Added lag to players falling in front row when group is thrown into chaos. The amount of lag is level dependent and random, meaning lower level players will not feel the effect as much as the higher level players do. The randomness to each player's lag allows for the group to recover more gracefully, that is if everyone is paying attention and not simply spamming 'man back'
 
-* added a very minuscule chance for the command maneuver to fail
+\* added a very minuscule chance for the command maneuver to fail
 
-* Spell disruption has been completely removed
+\* Spell disruption has been completely removed
 
 These changes should bring the new form of group fighting to a level the administrators are more comfortable with and hopefully the players find challenging but acceptable. 
 

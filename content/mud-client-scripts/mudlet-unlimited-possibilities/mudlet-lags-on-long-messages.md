@@ -42,7 +42,7 @@ I'll add it to MSDP GROUP2
 
 very cool, thanks
 
-                                                                                                                       >
+ \>
 
 ```
 lua sendMSDP("REPORT","GROUP2")
@@ -52,25 +52,25 @@ lua sendMSDP("REPORT","GROUP2")
 
 lua msdp.GROUP2
 {
-  Fuligin = {
-    CLASS = "Mage",
-    HIT_POINTS = {
-      CURRENT = "968",
-      MAXIMUM = "968"
-    },
-    JOB = "TombJade",
-    LEVELS = "9.40",
-    MANA_POINTS = {
-      CURRENT = "857",
-      MAXIMUM = "857"
-    },
-    MOVEMENT_POINTS = {
-      CURRENT = "349",
-      MAXIMUM = "349"
-    },
-    POSITION = "Leader",
-    STATUS = "Ok"
-  }
+ Fuligin = {
+ CLASS = "Mage",
+ HIT_POINTS = {
+ CURRENT = "968",
+ MAXIMUM = "968"
+ },
+ JOB = "TombJade",
+ LEVELS = "9.40",
+ MANA_POINTS = {
+ CURRENT = "857",
+ MAXIMUM = "857"
+ },
+ MOVEMENT_POINTS = {
+ CURRENT = "349",
+ MAXIMUM = "349"
+ },
+ POSITION = "Leader",
+ STATUS = "Ok"
+ }
 }
 ```
 

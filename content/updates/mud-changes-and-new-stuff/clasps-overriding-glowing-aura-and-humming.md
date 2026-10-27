@@ -14,25 +14,25 @@ post_count: 1
 
 Hi all.
 
-Trying to make the output of the eq command more manageable, did it so when an item has a clasp or rune on it, the "glowing aura" and the "humming sound" strings dissapear.  Strings are not touched is there is nothing attached to the item.
+Trying to make the output of the eq command more manageable, did it so when an item has a clasp or rune on it, the "glowing aura" and the "humming sound" strings dissapear. Strings are not touched is there is nothing attached to the item.
 
 Before :
 
-<8000rm 0wz 0sv>You are using:
+\<8000rm 0wz 0sv\>You are using:
 
-<worn on head>       the electrum circlet..It has a soft glowing aura!..It emits a 
+\<worn on head\> the electrum circlet..It has a soft glowing aura!..It emits a 
 
 faint humming sound! (with a breathing charm attached to it)
 
-<8000rm 0wz 0sv>
+\<8000rm 0wz 0sv\>
 
 Now :
 
-<8000rm 0wz 0sv>You are using:
+\<8000rm 0wz 0sv\>You are using:
 
-<worn on head>       the electrum circlet (with a breathing charm attached to it)
+\<worn on head\> the electrum circlet (with a breathing charm attached to it)
 
-<8000rm 0wz 0sv>
+\<8000rm 0wz 0sv\>
 
 Best regards.
 

@@ -16,47 +16,47 @@ What exactly are the correct commands?
 
 Yasik's AH Vault
 
-Exits: [Up]  Down  
+Exits: [Up] Down 
 
-<1134hp 658ma 399mv>   >> - <<   +9   -0.8   156,172,168   10,466,735   fair   AH VAULTS DO_NOT_TOUCH
+\<1134hp 658ma 399mv\> \>\> - \<\< +9 -0.8 156,172,168 10,466,735 fair AH VAULTS DO\_NOT\_TOUCH
 
 say recall
 
 You say 'recall'
 
-<1134hp 658ma 402mv>   >> - <<   +9   -0.8   156,172,168   10,466,735   fair   AH VAULTS DO_NOT_TOUCH
+\<1134hp 658ma 402mv\> \>\> - \<\< +9 -0.8 156,172,168 10,466,735 fair AH VAULTS DO\_NOT\_TOUCH
 
 house buy recall
 
 Unknown option to house.
 
-<1134hp 658ma 405mv>   >> - <<   +9   -0.8   156,172,168   10,466,735   fair   AH VAULTS DO_NOT_TOUCH
+\<1134hp 658ma 405mv\> \>\> - \<\< +9 -0.8 156,172,168 10,466,735 fair AH VAULTS DO\_NOT\_TOUCH
 
 l
 
 Yasik's AH Vault
 
-Exits: [Up]  Down  
+Exits: [Up] Down 
 
-<1134hp 658ma 407mv>   >> - <<   +9   -0.8   156,172,168   10,466,735   fair   AH VAULTS DO_NOT_TOUCH
+\<1134hp 658ma 407mv\> \>\> - \<\< +9 -0.8 156,172,168 10,466,735 fair AH VAULTS DO\_NOT\_TOUCH
 
 h house buy
 
 "HOUSE BUY"
 
-See Also:      HOUSING  HOUSE SET  HOUSE UPGRADE 
+See Also: HOUSING HOUSE SET HOUSE UPGRADE 
 
-               Vaults, Room Regen, Room Bonus, hdir
+ Vaults, Room Regen, Room Bonus, hdir
 
-Wiki:          Guide:Housing
+Wiki: Guide:Housing
 
 Once you have purchased and built a house, you may purchase various
 
-enhancements to improve your house.  The HOUSE LIST command will show you
+enhancements to improve your house. The HOUSE LIST command will show you
 
-which enhancements have been purchased and which are still available.  To
+which enhancements have been purchased and which are still available. To
 
-purchase an enhancement, use the HOUSE BUY command.  The following commands
+purchase an enhancement, use the HOUSE BUY command. The following commands
 
 may be used:
 
@@ -84,13 +84,13 @@ HOUSE BUY ROOM [direction]
 
 Purchases an additional room in the specified direction.
 
-<1134hp 658ma 407mv>   >> - <<   +9   -0.8   156,172,168   10,466,735   fair   AH VAULTS DO_NOT_TOUCH
+\<1134hp 658ma 407mv\> \>\> - \<\< +9 -0.8 156,172,168 10,466,735 fair AH VAULTS DO\_NOT\_TOUCH
 
 say recall
 
 You say 'recall'
 
-<1134hp 658ma 407mv>   >> - <<   +9   -0.8   156,172,168   10,466,735   fair   AH VAULTS DO_NOT_TOUCH
+\<1134hp 658ma 407mv\> \>\> - \<\< +9 -0.8 156,172,168 10,466,735 fair AH VAULTS DO\_NOT\_TOUCH
 
 look
 
@@ -98,9 +98,9 @@ Your Mom's Bush
 
 It is thorny around here!
 
-Exits: [Up]  Down  
+Exits: [Up] Down 
 
-<1134hp 658ma 407mv>   >> - <<   +9   -0.8   156,172,168   10,466,735   fair   AH VAULTS DO_NOT_TOUCH
+\<1134hp 658ma 407mv\> \>\> - \<\< +9 -0.8 156,172,168 10,466,735 fair AH VAULTS DO\_NOT\_TOUCH
 
 HOUSE BUY RECALL
 
@@ -108,25 +108,25 @@ Unknown option to house.
 
 .......
 
-<1134hp 658ma 407mv>   >> - <<   +9   -0.8   156,172,168   10,466,735   fair   AH VAULTS DO_NOT_TOUCH
+\<1134hp 658ma 407mv\> \>\> - \<\< +9 -0.8 156,172,168 10,466,735 fair AH VAULTS DO\_NOT\_TOUCH
 
 h house upgrade
 
 "HOUSE UPGRADE"
 
-See Also:      HOUSING  HOUSE SET  HOUSE BUY 
+See Also: HOUSING HOUSE SET HOUSE BUY 
 
-               Vaults, Room Regen, Room Bonus, hdir
+ Vaults, Room Regen, Room Bonus, hdir
 
-Wiki:          Guide:Housing
+Wiki: Guide:Housing
 
 Once you have purchased and built a house, you may purchase various
 
-upgradess to improve your house.  The HOUSE LIST command will show you
+upgradess to improve your house. The HOUSE LIST command will show you
 
-which upgrades have been purchased and which are still available.  To
+which upgrades have been purchased and which are still available. To
 
-purchase an upgrade, use the HOUSE UPGRADE command.  The following commands
+purchase an upgrade, use the HOUSE UPGRADE command. The following commands
 
 may be used:
 
@@ -134,7 +134,7 @@ HOUSE UPGRADE RECALL
 
 The say recall upgrade module allows players to teleport to the continent's
 
-recall location using the command SAY RECALL.  Anyone inside the house
+recall location using the command SAY RECALL. Anyone inside the house
 
 can use the command.
 
@@ -146,9 +146,9 @@ HOUSE UPGRADE KEYLESS [keyphrase]
 
 The keyless entry upgrade module allows players to enter and exit the vault
 
-using a command phrase rather than using a key.  Only players on the house
+using a command phrase rather than using a key. Only players on the house
 
-permit list may use keyphrase.  Anyone inside the house can use the phrase
+permit list may use keyphrase. Anyone inside the house can use the phrase
 
 to exit.
 
@@ -168,27 +168,27 @@ HOUSE SET [message name] [message]
 
 Sets a custom message related to this upgrade module.
 
-<1134hp 658ma 407mv>   >> - <<   +9   -0.8   156,172,168   10,466,735   fair   AH VAULTS DO_NOT_TOUCH
+\<1134hp 658ma 407mv\> \>\> - \<\< +9 -0.8 156,172,168 10,466,735 fair AH VAULTS DO\_NOT\_TOUCH
 
 house upgrade recall
 
 Unknown option to house.
 
-<1134hp 658ma 407mv>   >> - <<   +9   -0.8   156,172,168   10,466,735   fair   AH VAULTS DO_NOT_TOUCH
+\<1134hp 658ma 407mv\> \>\> - \<\< +9 -0.8 156,172,168 10,466,735 fair AH VAULTS DO\_NOT\_TOUCH
 
 l
 
 Yasik's AH Vault
 
-Exits: [Up]  Down  
+Exits: [Up] Down 
 
-<1134hp 658ma 407mv>   >> - <<   +9   -0.8   156,172,168   10,466,735   fair   AH VAULTS DO_NOT_TOUCH
+\<1134hp 658ma 407mv\> \>\> - \<\< +9 -0.8 156,172,168 10,466,735 fair AH VAULTS DO\_NOT\_TOUCH
 
 say recall
 
 You say 'recall'
 
-<1134hp 658ma 407mv>   >> - <<   +9   -0.8   156,172,168   10,466,735   fair   AH VAULTS DO_NOT_TOUCH
+\<1134hp 658ma 407mv\> \>\> - \<\< +9 -0.8 156,172,168 10,466,735 fair AH VAULTS DO\_NOT\_TOUCH
 
 .....
 
@@ -196,11 +196,11 @@ look
 
 Yasik's AH Vault #10
 
-Exits: Up  
+Exits: Up 
 
 A raft has been left here.
 
-<1134hp 658ma 406mv>   >> - <<   +9   -0.8   156,172,168   10,466,735   fair   AH VAULTS DO_NOT_TOUCH
+\<1134hp 658ma 406mv\> \>\> - \<\< +9 -0.8 156,172,168 10,466,735 fair AH VAULTS DO\_NOT\_TOUCH
 
 house buy room down
 
@@ -212,43 +212,43 @@ li
 
 Briar's District
 
-Exits: North  East  South  West  
+Exits: North East South West 
 
 Briar is focused on things while rumaging through his satchel.
 
-<935hp 85ma 352mv>   >> - <<   +9   -0.8   156,172,168   10,466,735   indoors   Aisholm Town
+\<935hp 85ma 352mv\> \>\> - \<\< +9 -0.8 156,172,168 10,466,735 indoors Aisholm Town
 
 You can buy:
 
- Price     Item
+ Price Item
 
-----------------------
+\----------------------
 
- 10000000  a hovel
+ 10000000 a hovel
 
-----------------------
+\----------------------
 
-* means you need more levels to use it.
+\* means you need more levels to use it.
 
 ! means you are not strong enough to use it.
 
-& means you have studied this spellbook or manual to its max.
+\& means you have studied this spellbook or manual to its max.
 
 Query may also be of use to you, please refer to help query.
 
-<936hp 85ma 353mv>   >> - <<   +9   -0.8   156,172,168   10,466,735   indoors   Aisholm Town
+\<936hp 85ma 353mv\> \>\> - \<\< +9 -0.8 156,172,168 10,466,735 indoors Aisholm Town
 
 buy hovel
 
 Briar the housing developer tells you 'Sorry, but you already have a house on this continent.'
 
-<944hp 90ma 356mv>   >> - <<   +9   -0.8   156,172,168   10,466,735   indoors   Aisholm Town
+\<944hp 90ma 356mv\> \>\> - \<\< +9 -0.8 156,172,168 10,466,735 indoors Aisholm Town
 
 </div>
 
 <div class="post" data-post-id="36781" data-author="cyprimus" data-date="2016-03-29T20:57:02+00:00" data-subject="Re: Vault construction commands">
 
-I have recalls already, but having same problem getting fountains installed.   Dont have to restring fountain,water is fine, though more options are always welcome..
+I have recalls already, but having same problem getting fountains installed. Dont have to restring fountain,water is fine, though more options are always welcome..
 
 OH, and ps... would like a note board too..
 
@@ -270,11 +270,11 @@ Dont remember who did it exactly.
 
 <div class="post" data-post-id="36786" data-author="*teker*" data-date="2016-03-30T19:49:17+00:00" data-subject="Re: Vault construction commands">
 
-Old vaults need to be manually upgraded for the new commands to work.  This must be done in each room when:
+Old vaults need to be manually upgraded for the new commands to work. This must be done in each room when:
 
-1) The player that built the vault originally is logged in
+1\) The player that built the vault originally is logged in
 
-2) The vault in that room is empty
+2\) The vault in that room is empty
 
 I made this a manual process to protect us from a bug that would wipe everyone's vaults.
 

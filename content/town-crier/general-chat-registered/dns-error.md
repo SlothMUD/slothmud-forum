@@ -18,11 +18,11 @@ It appears that the @ record (AFAIR) for slothmud.org now sends me to [www.artis
 
 ;; ANSWER SECTION:
 
-slothmud.org.           6922    IN      A       209.139.208.64
+slothmud.org. 6922 IN A 209.139.208.64
 
 ;; ANSWER SECTION:
 
-[www.slothmud.org](http://www.slothmud.org).       6953    IN      A       69.89.21.65
+[www.slothmud.org](http://www.slothmud.org). 6953 IN A 69.89.21.65
 
 Cheers,
 
@@ -52,7 +52,7 @@ aka
 
 <div class="post" data-post-id="22285" data-author="jezer" data-date="2008-01-25T08:00:54+00:00" data-subject="">
 
-Speaking of DNS issues... every time I go to the coliseum it's not there either! I think it's a DNS issue! :evil:
+Speaking of DNS issues... every time I go to the coliseum it's not there either! I think it's a DNS issue! <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 I have 81 Drachma King Degrance can have towards the running costs of the coliseum if you bring it back for everyone.
 
@@ -60,10 +60,13 @@ I have 81 Drachma King Degrance can have towards the running costs of the colise
 
 <div class="post" data-post-id="22287" data-author="Weasel" data-date="2008-01-25T12:47:19+00:00" data-subject="">
 
-i dont have that problem, tried it, goes here.
+> <strong>\*Akasha\* wrote:</strong>
+> i dont have that problem, tried it, goes here.
+> 
+> 
+> 
+> aka
 
-aka[/quote:1mqbf3xg]
-
-I emailed Jake last night and he has since fixed the problem :)
+I emailed Jake last night and he has since fixed the problem <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

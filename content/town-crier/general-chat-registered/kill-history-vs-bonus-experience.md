@@ -24,7 +24,7 @@ I'm interested to hear what people think about this.
 
 <div class="post" data-post-id="37423" data-author="Teron" data-date="2016-10-21T14:44:54+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
-1. We don't hit other areas, because of aged exp, not kill history.
+1\. We don't hit other areas, because of aged exp, not kill history.
 
 Basically, mobs have base exp, and when they are left alone for 4 hrs, they get +50% exp bonus.
 
@@ -32,17 +32,17 @@ Naturally, if the group is doing one continent, it won't come back for low exp.
 
 If the group is doing all the areas on all continents, then it can come back to the bonus continent for almost full aged exp without kill history penalties.
 
-2. Kill history penalties aren't that bad for big groups, because it takes 1-2 kills to make the exp suck. Doesn't matter for big mobs, because there are few of them. The only exception are probably the energy drakes in the positive plane. 
+2\. Kill history penalties aren't that bad for big groups, because it takes 1-2 kills to make the exp suck. Doesn't matter for big mobs, because there are few of them. The only exception are probably the energy drakes in the positive plane. 
 
 For stab/blast groups, it does matter, though, because even if you do the cloud giant residents run for the first time, you end up getting hit with kill history by the time you are done. So you can't camp an area and get the same exp. This is why kill history was added: to make ppl switch areas.
 
-3. Bonus exp was added, because people were getting levels much slower past 6x40, [as shown by statistics](http://www.slothmud.org/forum/viewtopic.php?f=26&t=3822). This led to people leaving at around 5-6x40. 
+3\. Bonus exp was added, because people were getting levels much slower past 6x40, [as shown by statistics](http://www.slothmud.org/forum/viewtopic.php?f=26&t=3822). This led to people leaving at around 5-6x40. 
 
 Now, before bonus exp was added, we had immorts (JB) add 5-15% exp bonus to select areas (I don't remember/know, which). 
 
 If kill history did slow solo people down a lot, and that's why they left, I wouldn't know, but maybe immorts can pull stats on that?
 
-4. Another problem with exp is the cap, in my opinion.
+4\. Another problem with exp is the cap, in my opinion.
 
 Mob exp is derived from mob hp/damage/hitroll/procs and gold/eq (negatively).
 
@@ -82,7 +82,7 @@ I may not be as active but I check the website and the server daily...
 
 Plenty of the older Immortals know the reasons behind the features mentioned here, not just me, as they were all heavily discussed, debated, and ultimately agreed upon. 
 
-Juggleblood nailed the reason behind bonus experience, I almost wonder if he checked his emails :lol: 
+Juggleblood nailed the reason behind bonus experience, I almost wonder if he checked his emails <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> 
 
 We have been quite open about why these changes were made and the answers are most likely somewhere on these forums...
 
@@ -96,7 +96,7 @@ I also think the time it takes for mobs to fully age should be much longer, that
 
 <div class="post" data-post-id="37426" data-author="Teron" data-date="2016-10-22T04:21:01+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
-Hey, Splork, nice to see you participating in this discussion :)
+Hey, Splork, nice to see you participating in this discussion <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Pardon my pessimism, I've learned that response to my [suggestions](http://www.slothmud.org/forum/viewtopic.php?f=30&t=4678) isn't as quick as from Teker, so I assume you ignore them .)
 
@@ -134,39 +134,39 @@ So before we pick apart the xp system, tell me what your objective here is? You 
 
 <div class="post" data-post-id="37430" data-author="Teron" data-date="2016-10-22T16:32:40+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
-1. First of all, I only stated how I feel about Splork's responses to my suggestions. I don't expect him to respond to all my posts, but in my/his case, 'monitoring site daily' and 'responding to suggestions' are different things.
+1\. First of all, I only stated how I feel about Splork's responses to my suggestions. I don't expect him to respond to all my posts, but in my/his case, 'monitoring site daily' and 'responding to suggestions' are different things.
 
 While you, Teker and Breeze respond to them, I haven't seen Splork participate to my suggestion posts recently.
 
-So I'm not trying to be passive-aggressive here. There, I added smilies to my intro, should look better :)
+So I'm not trying to be passive-aggressive here. There, I added smilies to my intro, should look better <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-2. My goal as with other suggestions is to remove gameplay that causes dissatisfaction, because as it accumulates, the desire to play dwindles. I am not saying that I am quitting if robe sizes aren't doubled, but it means that I'll have to tolerate this stuff, and so will others.
+2\. My goal as with other suggestions is to remove gameplay that causes dissatisfaction, because as it accumulates, the desire to play dwindles. I am not saying that I am quitting if robe sizes aren't doubled, but it means that I'll have to tolerate this stuff, and so will others.
 
 I agree that other exp improvements have increased the exp a lot. Without them, it'd be a drag to get to 9x40.
 
 As for nocap, the reasons to discuss this are the following:
 
-- exp is a major component of the game, so anything that improves it will improve the game for players noticeably
+\- exp is a major component of the game, so anything that improves it will improve the game for players noticeably
 
-- the inability to get all the exp you deserve for the mob is unfair and reduces the enjoyment of the game. By opening the cap, we allow people to get the exp they worked on.
+\- the inability to get all the exp you deserve for the mob is unfair and reduces the enjoyment of the game. By opening the cap, we allow people to get the exp they worked on.
 
 So I simply try to provide constructive feedback on the parts of the game that could be improved, if within certain limits,
 
-3. Well, I do remember making choices between hitting other continents or calling it a day, and it's usually whether we have enough damage/heal mana to kill areas non-bonus continent fast enough. When I say, 'it's over', it could be for any reasons, not because I'm burned out.
+3\. Well, I do remember making choices between hitting other continents or calling it a day, and it's usually whether we have enough damage/heal mana to kill areas non-bonus continent fast enough. When I say, 'it's over', it could be for any reasons, not because I'm burned out.
 
 For example, on an Island day with a small group, I usually do dinos+ud2+ss mobs+moria, and that's it. More melees/blasters would mean orc mines + ettins, and maybe even positive planes. Even more people - then we do dweb/hades/negative planes/mordi/draconian lair. With small groups, though, it's not worth venturing outside the bonus continent, because it already goes slow and hard and hitting areas w/o continent bonus exp would make the exp/hr average at best.
 
 Increasing age time significantly wouldn't help us move anywhere. In a situation, when we've done all the good exp areas, it'd just reduce the exp in the areas we've already done - but we rarely even get this far, and if we do, we'd just stop there or go chopping, as we do when we run out of areas on bonus continents for small groups.
 
-Now, whether we do bigger areas also depends on whether we'll cap harder on those, even if we practically *can* kill them with a few 9x40s. Nocap would allow leaders to pick areas by group ability, not by whether ppl cap a lot, even though it's a good measure on its own.
+Now, whether we do bigger areas also depends on whether we'll cap harder on those, even if we practically \*can\* kill them with a few 9x40s. Nocap would allow leaders to pick areas by group ability, not by whether ppl cap a lot, even though it's a good measure on its own.
 
-4. Well, I think that people would still run groups with enough people to kill mobs continuously, rather than having to regen. They still need gems, so it'd open the door to newbies, especially that there are at least two leaders, who actively recruit new players to groups.
+4\. Well, I think that people would still run groups with enough people to kill mobs continuously, rather than having to regen. They still need gems, so it'd open the door to newbies, especially that there are at least two leaders, who actively recruit new players to groups.
 
 Perhaps we could test this for a month or two and see what happens. (Ironically, 2 months is about what it'd take for me to finish my non-leading stuff.)
 
 The key here is that people would realize that it's a long change and they can get more exp together, as usual, rather than alone or 2man.
 
-5. In my case, while I do have lots of exp, I still lead/tank for the game experience of it, not just for exp. However, I still try to run ok exp groups, because being suboptimal exp annoys me - you know that :)
+5\. In my case, while I do have lots of exp, I still lead/tank for the game experience of it, not just for exp. However, I still try to run ok exp groups, because being suboptimal exp annoys me - you know that <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 It's precisely the thought that as tight groups we can do dimetrodons, cap, and not receive full exp on them, is what prompted me to bring up the nocap issue.
 
@@ -180,12 +180,12 @@ But just as with anything,it's more about making the game more enjoyable, really
 
 <div class="post" data-post-id="37433" data-author="*juggleblood*" data-date="2016-10-22T18:41:21+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
-> **Teron wrote:**
-> - the inability to get all the exp you deserve for the mob is unfair and reduces the enjoyment of the game. By opening the cap, we allow people to get the exp they worked on.
+> <strong>Teron wrote:</strong>
+> \- the inability to get all the exp you deserve for the mob is unfair and reduces the enjoyment of the game. By opening the cap, we allow people to get the exp they worked on.
 
-Oh come on. Are you serious?  What exactly determines the "xp deserved for mob"? The xp algorithm is a rough guide at best, there is no objective measurement of how much xp is deserved for any given mob. This is another reason why a cap is needed. If there were no cap, then the entire game would change. People would switch to only killing outlier mobs with high xp values and then would proceed to complain about why all mobs aren't the same.
+Oh come on. Are you serious? What exactly determines the "xp deserved for mob"? The xp algorithm is a rough guide at best, there is no objective measurement of how much xp is deserved for any given mob. This is another reason why a cap is needed. If there were no cap, then the entire game would change. People would switch to only killing outlier mobs with high xp values and then would proceed to complain about why all mobs aren't the same.
 
-If we made 1 mob with super XP that was easy to kill, players would kill only that mob and complain about all the rest.  If you don't believe me, remember back to when players could simply group up to kill Xerxes over and over again. There were plenty of groups, but they were killing only 1 mob. I am not exaggerating.
+If we made 1 mob with super XP that was easy to kill, players would kill only that mob and complain about all the rest. If you don't believe me, remember back to when players could simply group up to kill Xerxes over and over again. There were plenty of groups, but they were killing only 1 mob. I am not exaggerating.
 
 Ending the xp caps is a non-starter in my opinion. They are fundamental to the game.
 
@@ -209,14 +209,14 @@ Things are often done in the mud to "encourage" players or "force" players to be
 
 <div class="post" data-post-id="37436" data-author="*juggleblood*" data-date="2016-10-22T22:41:42+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
-Yeah, we're guilty of trying to force a certain vision for the game on you. Our vision is that the optimal strategy in the game is to maximize cooperation with other players. Part of that vision is the large, open XP group, so we reward leaders and tanks with extra xp to incentivize/acknowledge that need.  We shouldn't need to force anyone into our vision. They either find something they like about the game as we've structured it and stay, or they don't.
+Yeah, we're guilty of trying to force a certain vision for the game on you. Our vision is that the optimal strategy in the game is to maximize cooperation with other players. Part of that vision is the large, open XP group, so we reward leaders and tanks with extra xp to incentivize/acknowledge that need. We shouldn't need to force anyone into our vision. They either find something they like about the game as we've structured it and stay, or they don't.
 
 </div>
 
 <div class="post" data-post-id="37437" data-author="*Splork*" data-date="2016-10-22T22:58:53+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
-> **Quote:**
-> 1. First of all, I only stated how I feel about Splork's responses to my suggestions. I don't expect him to respond to all my posts, but in my/his case, 'monitoring site daily' and 'responding to suggestions' are different things.
+> <strong>Quote:</strong>
+> 1\. First of all, I only stated how I feel about Splork's responses to my suggestions. I don't expect him to respond to all my posts, but in my/his case, 'monitoring site daily' and 'responding to suggestions' are different things.
 > 
 > 
 > 
@@ -236,9 +236,9 @@ Time to bow out, two posts in this thread is too many from me:)
 
 <div class="post" data-post-id="37440" data-author="Teron" data-date="2016-10-23T06:15:54+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
-**JB,**
+<strong>JB,</strong>
 
-1. I'm almost sure algorithm works okay for melee attacks, unless attempted to get tricked with high damage/low hitroll, but with the new AC engine it almost doesn't happen, really.
+1\. I'm almost sure algorithm works okay for melee attacks, unless attempted to get tricked with high damage/low hitroll, but with the new AC engine it almost doesn't happen, really.
 
 With mobhp and melee attacks, the progression is linear: mob hp/damage/hit are to be dealt with players' mana/damage. The thicker the mob, the harder it is to kill it - it's pretty obvious, isn't it?
 
@@ -276,7 +276,7 @@ These mobs are not what you'd cycle for nocap exp - they take effort to kill, bu
 
 Why is it acceptable?
 
-2. I understand that nocap would make people switch to lower effort/high exp mobs, but they already do kill similar mobs within their caps.
+2\. I understand that nocap would make people switch to lower effort/high exp mobs, but they already do kill similar mobs within their caps.
 
 Even if there are some outliers, I'm sure removing caps would yield more exp, than we'd lose if you fix the outliers.
 
@@ -286,29 +286,29 @@ Xerxes was definitely an outlier, because it provided astronomical exp for the e
 
 This is very different from a standard group of 7 killing 30-50mil mobs offlyme.
 
-**What if you add 1mil to the cap for every group member? Practically, that'd remove caps in groups with 5-10 people. Clearly that'd encourage people to group for nocap exp.**
+<strong>What if you add 1mil to the cap for every group member? Practically, that'd remove caps in groups with 5-10 people. Clearly that'd encourage people to group for nocap exp.</strong>
 
-3. As I said earlier, group cap is a good estimate, whether the group can handle the area well and not spend the mana quickly.
+3\. As I said earlier, group cap is a good estimate, whether the group can handle the area well and not spend the mana quickly.
 
 Without nocap, we'd get maybe 5-15% more exp from the same mobs, rather than start doing 50-60mil mobs 2-3man - I assume Lyme will still have nocap because of chop mobs.
 
-4. You say that no one wants to nerf outlier mobs, but what about being an immort that'd remove exp caps? Surely that'd be awesome.
+4\. You say that no one wants to nerf outlier mobs, but what about being an immort that'd remove exp caps? Surely that'd be awesome.
 
 However, nothing is just joy, so the same immort would have to nerf the outlier mobs to make experience even. Such is life, really, anyone who wouldn't expect that would be naive.
 
-5. Can you give me examples of mobs, which were made above cap to accomodate an immortal's idea?
+5\. Can you give me examples of mobs, which were made above cap to accomodate an immortal's idea?
 
-**Gorka,**
+<strong>Gorka,</strong>
 
-From what I remember, aged exp was *added*, it wasn't a nerf.
+From what I remember, aged exp was \*added\*, it wasn't a nerf.
 
-**Splork,**
+<strong>Splork,</strong>
 
 No one is trying to bait you. I try to get a discussion going about my suggestions, so we can find a solution that solves a problem. Especially that you make major decisions, no agreement or even a discussion with you means nothing will change.
 
 You said:
 
-> **Splork wrote:**
+> <strong>Splork wrote:</strong>
 > I also think the time it takes for mobs to fully age should be much longer, that would encourage more movement of players...
 
 but then you don't explain this logic that contradicts what I'm seeing in the game: groups already don't kill the same areas in the same day, unless it's Lyme.
@@ -317,7 +317,7 @@ but then you don't explain this logic that contradicts what I'm seeing in the ga
 
 <div class="post" data-post-id="37441" data-author="Gorka" data-date="2016-10-23T07:54:09+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
-> ***juggleblood* wrote:**
+> <strong>\*juggleblood\* wrote:</strong>
 > Yeah, we're guilty of trying to force a certain vision for the game on you. Our vision is that the optimal strategy in the game is to maximize cooperation with other players. Part of that vision is the large, open XP group, so we reward leaders and tanks with extra xp to incentivize/acknowledge that need.
 
 I think that's a noble vision JB... How do you achieve that? Has it been achieved? 
@@ -330,7 +330,7 @@ I didn't mean to get anyone's back up... It's a bit disappointing it always ends
 
 <div class="post" data-post-id="37442" data-author="*Splork*" data-date="2016-10-23T13:54:56+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
-> **Quote:**
+> <strong>Quote:</strong>
 > Splork,
 > 
 > 
@@ -341,7 +341,7 @@ Yeah, whatever...
 
 I will say this one last time, I do not make (nor did Jake)all of the major decisions for Sloth and never actually did, contrary to your beliefs. I know it's fun to blame and bitch about me but that is a fact. I am part of a team which discusses major changes and comes up with a goal and then a plan to implement it. There was a time where I would fight like hell for my point of view to be heard but if others ultimately did not agree, it did not go in-game.
 
-Immortals run things past all of us because we have 25 years of experience to draw from. I don't even think I've vetoed anything in years, I now simply tell people what I think will happen and say go for it and good luck :mrgreen: 
+Immortals run things past all of us because we have 25 years of experience to draw from. I don't even think I've vetoed anything in years, I now simply tell people what I think will happen and say go for it and good luck <img src="/images/smilies/icon_mrgreen.svg" alt=":mrgreen:" title=":mrgreen:" width="15" height="15" class="smiley nozoom"> 
 
 If an Immortal wants to bring any of the ideas they see here to our admin team, they are free to do so and it would be discussed. 
 
@@ -365,7 +365,7 @@ So on every mob that we kill in a group, I look at my cap and try to assess othe
 
 <div class="post" data-post-id="37447" data-author="*juggleblood*" data-date="2016-10-25T02:24:14+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
-I'm sorry Taron, but you don't know what you're talking about with regard to the xp algorithm. It is a very blunt tool. And the thing that you are ignoring is that not all classes are the same, nor playstyle. Let's imagine a 250 hp point mob. It could be designed for a newbie warrior to hack down with his sword, or a supreme mage to blast down with a single bolt. Trust me when I say that the xp algorithm will end up cheating the newbie warrior. It is a BLUNT TOOL.  Because it is a blunt tool, there exists an xp cap. The xp cap is the upward end of what a player deserves for any given kill. Then we designate another tier of cap for encounters with epic mobs, because it's understood that such mobs are much more of an ordeal. All mobs are imperfectly designed and all xp settings are imperfect because they are set up by player volunteers, i.e. builders.
+I'm sorry Taron, but you don't know what you're talking about with regard to the xp algorithm. It is a very blunt tool. And the thing that you are ignoring is that not all classes are the same, nor playstyle. Let's imagine a 250 hp point mob. It could be designed for a newbie warrior to hack down with his sword, or a supreme mage to blast down with a single bolt. Trust me when I say that the xp algorithm will end up cheating the newbie warrior. It is a BLUNT TOOL. Because it is a blunt tool, there exists an xp cap. The xp cap is the upward end of what a player deserves for any given kill. Then we designate another tier of cap for encounters with epic mobs, because it's understood that such mobs are much more of an ordeal. All mobs are imperfectly designed and all xp settings are imperfect because they are set up by player volunteers, i.e. builders.
 
 I don't really think this system is up for debate, because I don't know what would replace it. I think I speak for all the admin when I say we aren't up for turning on nocap for all time.
 
@@ -395,10 +395,10 @@ There is no such thing as a universal algorithm that doesn't take the player int
 
 <div class="post" data-post-id="37455" data-author="Gorka" data-date="2016-10-26T06:36:42+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
-> **Quote:**
+> <strong>Quote:</strong>
 > There is no such thing as a universal algorithm
 
- :shock: That's sad if that's true... That would mean everything must be maintained individually, and the bigger the mud grows, the bigger the maintenance tasks grow with it and the more burdened everyone becomes and the harder it becomes to change anything. 
+ <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> That's sad if that's true... That would mean everything must be maintained individually, and the bigger the mud grows, the bigger the maintenance tasks grow with it and the more burdened everyone becomes and the harder it becomes to change anything. 
 
 Hung is right ya know, I read his post from ages ago about sloth becoming open source... sloth needs to become a community project if it's to have a future because it needs a certain amount of modernization to become more maintainable and that work can't be achieved through a small team of overloaded immortals. Slothmud needs SQL abilities with managing Player/Mob/Area data and without this I think the game will die with this generation of players. This is kinda sad, we love this silly game.
 
@@ -412,7 +412,7 @@ I don't get what's so sad about. There is a system and it is working. Players ju
 
 <div class="post" data-post-id="37459" data-author="Teron" data-date="2016-10-26T21:08:05+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
-> ***juggleblood* wrote:**
+> <strong>\*juggleblood\* wrote:</strong>
 > There is no such thing as a universal algorithm that doesn't take the player into account. Think about it, the amount of damage the mob done largely depends on how many rounds of combat it goes, which depends on the player character in question. This is why the xp system needs to be complex and why bonus xp scales with player level.
 
 It also means that more people can kill a single mob faster - but they also share the exp with more people.
@@ -443,7 +443,7 @@ The xp algorithm will definitely not be tweaked. Firstly, because that would cha
 
 <div class="post" data-post-id="37463" data-author="Teron" data-date="2016-10-27T08:33:33+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
-1. Of course we need to take into account how hard it is to kill mobs.
+1\. Of course we need to take into account how hard it is to kill mobs.
 
 A thick mob has several times more hps, than a thin mob of the same exp.
 
@@ -455,9 +455,9 @@ Mob hp, damage, hitroll, ac, a number of players are all numbers - so you can cr
 
 I'm not saying it's easy - there are many factors, but if we think long and hard, it's possible to account for most of the factors and make the exp algo more objective. After all, someone did estimate how much exp each proc gives, which factors did he take into account?
 
-2. AC is what it is. If you bring mages into this, compare mirror image to parry, aerial servant or shield of thorns. It's still a math problem. However, you can keep it simple and accept the advantage(?) mages get in gaining exp for using their prime skills.
+2\. AC is what it is. If you bring mages into this, compare mirror image to parry, aerial servant or shield of thorns. It's still a math problem. However, you can keep it simple and accept the advantage(?) mages get in gaining exp for using their prime skills.
 
-3. I'll think more about how to relate this relativity, but to me, it's all a math problem that can be solved. After all, algorithms are written by humans, and can be adjusted as well.
+3\. I'll think more about how to relate this relativity, but to me, it's all a math problem that can be solved. After all, algorithms are written by humans, and can be adjusted as well.
 
 I don't think you found many objections from builders to change the backend for creating mobs/procs and such, why would they object to a more objective exp algorithm that wouldn't rely on cap to work? If anything, increasing exp for more hps would add a bit of exp to all mobs, not just thick mobs.
 
@@ -465,7 +465,7 @@ I don't think you found many objections from builders to change the backend for 
 
 <div class="post" data-post-id="37464" data-author="Gorka" data-date="2016-10-27T08:48:34+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
-Give up Taron  :lol: You keep coming back for more... You only have to read the tone of JB's many replies to know that arguing with the content is futile. I think I made a strong point, we have a conflict in bonuses and caps in xp calculations... it's simply the truth.
+Give up Taron <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> You keep coming back for more... You only have to read the tone of JB's many replies to know that arguing with the content is futile. I think I made a strong point, we have a conflict in bonuses and caps in xp calculations... it's simply the truth.
 
 I get where you are coming from, you see the problems, you see the path to improvement, you see how better things can be, you can even detail how we all get there... but at the end of the day people don't want to follow. I understand your frustration, because the assumption is we follow logic, and logic follows the way of efficiency.
 
@@ -483,7 +483,7 @@ Wow Gorka/Taron. This is not hard to understand. There is no conflict between th
 
 <div class="post" data-post-id="37466" data-author="*Splork*" data-date="2016-10-27T20:22:20+00:00" data-subject="Re: Kill History vs Bonus Experience">
 
-> **Quote:**
+> <strong>Quote:</strong>
 > At my work, I designed a system for calculating sales and cost prices using a single core formula, despite the fact our products and services are completely unrelated and with different calculations and attributes. I know it can be done... how maintainable it would make updating every mob... but at the end of the day, even with the best intentions, plans and ideas we are not in charge of other people's decisions.
 
 I think things are getting a bit confused here. We do have a core function which calculates the experience of mobs. We also have several ways to adjust said results...
@@ -532,15 +532,15 @@ I would love if xp caps were removed from the game!
 
 Currently my optimal xp run is solo, and it involves killing the entire continent of lyme, and a few off-lyme areas, and then calling it a day.
 
-Aged xp factors fairly heavily into that strategy.  I don't have to worry about which areas are best, because aged xp makes lesser areas better than ever repeating a zone.
+Aged xp factors fairly heavily into that strategy. I don't have to worry about which areas are best, because aged xp makes lesser areas better than ever repeating a zone.
 
-Without caps, I'd have a whole new world to explore.  Maybe I could find a small group composition that is better than soloing.  Maybe soloing new areas like tomb of the forever king or matterhorn on bh day would be comparable to lyme xp.  Maybe a bard and I could make a killing in kara'sa.  
+Without caps, I'd have a whole new world to explore. Maybe I could find a small group composition that is better than soloing. Maybe soloing new areas like tomb of the forever king or matterhorn on bh day would be comparable to lyme xp. Maybe a bard and I could make a killing in kara'sa. 
 
 I've enjoyed very much the altered playstyle on nocap days.
 
 I'm unconvinced that caps achieve any worthwhile purpose, except for the lowest level players. It would breathe new life into the game and open the world up if they were removed.
 
-And lyme grip/stab/blast would still probably be the best xp in the game.  There would just be interesting competition.
+And lyme grip/stab/blast would still probably be the best xp in the game. There would just be interesting competition.
 
 </div>
 
@@ -556,7 +556,7 @@ Thats speaking about 9x40 for sure. I see why caps needed at low levels. But whe
 
 So maybe formula of cap should be tweaked a bit, to be same at lower and mid end, but almost non-exist at the top.
 
-Though speaking by true, that will not change anything for me -  i will only run biggies for eq anyway, just will get more exp for them. And that will be way less exp then my usual exp run.
+Though speaking by true, that will not change anything for me - i will only run biggies for eq anyway, just will get more exp for them. And that will be way less exp then my usual exp run.
 
 </div>
 
@@ -596,7 +596,7 @@ The current experience function is hundreds of lines of code which takes into ac
 
 This function has been continually adjusted for the past 25 years in order to give us the result we desire. Any change to simplify this function to a few lines of code would have drastic effects on every mob, area, and continent in-game. Unless one of our programmers finds a needle in a haystack, there is not one algorithm which would closely match up to our current mob values. I completely understand that it's possible to come up with AN equation and we have done so in the past, just not anything we felt comfortable with. No system would be perfect though which is why having room/area bonuses, mob bonuses, etc, would always be needed.
 
-I'll be honest, I am perfectly fine with removing the current equation and trying to come up with something. Just like I was fine with coming up with a universal algorithm for all skill based damage based on class order and other variables or the idea of a point eq system(Teker).  Changes like these normally alienate at least half our player base, if not more which is why they are normally done with a pwipe :mrgreen:  I think we all hate the idea of caps(eq, exp, etc_ and wish the game was balanced without needing them, that is not currently the case though. Caps were the quick and easy solution to many huge issues...
+I'll be honest, I am perfectly fine with removing the current equation and trying to come up with something. Just like I was fine with coming up with a universal algorithm for all skill based damage based on class order and other variables or the idea of a point eq system(Teker). Changes like these normally alienate at least half our player base, if not more which is why they are normally done with a pwipe <img src="/images/smilies/icon_mrgreen.svg" alt=":mrgreen:" title=":mrgreen:" width="15" height="15" class="smiley nozoom"> I think we all hate the idea of caps(eq, exp, etc\_ and wish the game was balanced without needing them, that is not currently the case though. Caps were the quick and easy solution to many huge issues...
 
 There are two major changes on the lines of these which come to mind and went in-game as configs so they could be turned on and off until we felt comfortable with our adjustments(not including the addition of 4 new classes); new armor class system based on tenths rather than whole numbers, new timing system from tics to continual. Both systems were eventually adopted with player input and are live today. Both changes changed our game drastically, way more than we ever anticipated and were done when we had probably 10 active Immortals and 4-5 active coders.
 
@@ -610,9 +610,9 @@ taron- you get exp for damaging mobs ... so mob hp do factor in work exp, just n
 
 Stab mobs being the best exp.... riiight.. thats why we are all playing active thieves!
 
-Hand damage/grip mobs... yep, massive exp.. no practical cap.... problem?  You saying we should cap it? 
+Hand damage/grip mobs... yep, massive exp.. no practical cap.... problem? You saying we should cap it? 
 
-Cy never leveled from lyme solo.... could not solo lyme till max avvie.   Primal did a good mix of lyme and off lyme..   Ip leveled same as primal mostly till max avvie boosters..  Paka... i play on lyme mostly, but could do well off lyme too.. 
+Cy never leveled from lyme solo.... could not solo lyme till max avvie. Primal did a good mix of lyme and off lyme.. Ip leveled same as primal mostly till max avvie boosters.. Paka... i play on lyme mostly, but could do well off lyme too.. 
 
 Each classo seems to level completely different.... but i always end up on lyme now due to lazy leaderin!
 
@@ -650,19 +650,19 @@ As for me - i dont care about caps, or bonuses, or kill history. Everything is f
 
 Cyprimus,
 
-1. Work exp is negligible, because it's damage*moblevel*randomizer. It doesn't take into account anything but hps and mob level.
+1\. Work exp is negligible, because it's damage\*moblevel\*randomizer. It doesn't take into account anything but hps and mob level.
 
-2. Nowhere did I say that splork mobs needed to be caps - reread what I wrote.
+2\. Nowhere did I say that splork mobs needed to be caps - reread what I wrote.
 
 I simply meant that hp needs to multiply the bonus of all the other factors, because they only work, when there's a round. Anything that fights for a round or two, like the massive black dog, needs to give more exp - not just because it hits 700/round.
 
-3. There have been plenty of groups this past year, and even more groups now that Splork has fixed the chop rate on Lyme.
+3\. There have been plenty of groups this past year, and even more groups now that Splork has fixed the chop rate on Lyme.
 
 JB,
 
-I understand that there are many factors, but could you say, whether hps add to (+) or multiply (*) mob exp right now?
+I understand that there are many factors, but could you say, whether hps add to (+) or multiply (\*) mob exp right now?
 
-If you say that plenty of mobs were fixed with bonuses, then it *is* a mess. I see that an immort would have to look over most major mobs/areas and adjust exp bonuses, if the new algo would increase exp. It's a big task that would indeed require mob knowledge and lots of work.
+If you say that plenty of mobs were fixed with bonuses, then it \*is\* a mess. I see that an immort would have to look over most major mobs/areas and adjust exp bonuses, if the new algo would increase exp. It's a big task that would indeed require mob knowledge and lots of work.
 
 Without the cap, the algo would take into account the damage multiplier and reduce dino exp accordingly. Though to keep the mob exp on level with the rest of the area, they'd have to be made thicker.
 

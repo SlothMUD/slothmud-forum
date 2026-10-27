@@ -14,10 +14,10 @@ post_count: 1
 
 Looking for :
 
-Strand of Iridescent Silk 	-0.5	-1 Dam, -15 Spell Bonus
+Strand of Iridescent Silk -0.5	-1 Dam, -15 Spell Bonus
 
 Catch me ingame or mudmail
 
--mullah
+\-mullah
 
 </div>

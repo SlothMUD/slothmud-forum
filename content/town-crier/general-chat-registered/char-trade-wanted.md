@@ -14,11 +14,11 @@ post_count: 1
 
 Want to trade:
 
-[40m 40w 40c 40t 25a] Arach ~Dragonsworn~
+[40m 40w 40c 40t 25a] Arach \~Dragonsworn\~
 
 (Exceptional stats)
 
-+personal eq and vault
+\+personal eq and vault
 
 for:
 

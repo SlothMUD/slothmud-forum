@@ -12,21 +12,21 @@ post_count: 29
 
 <div class="post" data-post-id="28727" data-author="Weasel" data-date="2009-04-11T03:02:48+00:00" data-subject="NO MORE SLOTH III">
 
-[img:32bp4gc0]http://roguesgallerytx.com/wp-content/uploads/2007/05/ohnoes.jpeg[/img:32bp4gc0]
+![](http://roguesgallerytx.com/wp-content/uploads/2007/05/ohnoes.jpeg)
 
-[img:32bp4gc0]http://www.rfgeneration.com/images/repository/90401ohnootter2.jpg[/img:32bp4gc0]
+![](http://www.rfgeneration.com/images/repository/90401ohnootter2.jpg)
 
-[img:32bp4gc0]http://i292.photobucket.com/albums/mm12/yagamisan/Gifs/Noooo.jpg[/img:32bp4gc0]
+![](http://i292.photobucket.com/albums/mm12/yagamisan/Gifs/Noooo.jpg)
 
-[img:32bp4gc0]http://www.esreality.com/files/inlineimages/2008/62906-noooo.jpg[/img:32bp4gc0]
+![](http://www.esreality.com/files/inlineimages/2008/62906-noooo.jpg)
 
-[b:32bp4gc0]THE END[/color:32bp4gc0][/size:32bp4gc0][/b:32bp4gc0]
+<strong>THE END</strong>
 
 </div>
 
 <div class="post" data-post-id="28731" data-author="jezer" data-date="2009-04-11T03:04:37+00:00" data-subject="">
 
-heh  :twisted:
+heh <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -40,7 +40,7 @@ It was a great ride.
 
 <div class="post" data-post-id="28733" data-author="belgarath" data-date="2009-04-11T03:18:47+00:00" data-subject="">
 
-I created Belgarath when sloth II became Sloth III. It took 12 years to get to 40 40 36.  This is very disheartning.  Especially with so many veteran sloth III'er leaving for ever.  Maybe I should take a page out of thier book and use that 14 day trial to WOW.
+I created Belgarath when sloth II became Sloth III. It took 12 years to get to 40 40 36. This is very disheartning. Especially with so many veteran sloth III'er leaving for ever. Maybe I should take a page out of thier book and use that 14 day trial to WOW.
 
 </div>
 
@@ -52,51 +52,51 @@ If you do pick Blackwater Raiders realm and look up Autolycos..I will make your 
 
 <div class="post" data-post-id="28753" data-author="doc" data-date="2009-04-11T09:11:09+00:00" data-subject="">
 
-This is sad.   :cry:  (sniffs)
+This is sad. <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> (sniffs)
 
 </div>
 
 <div class="post" data-post-id="28754" data-author="doc" data-date="2009-04-11T09:12:37+00:00" data-subject="">
 
-laf at weasel and ryn!  : :lol:
+laf at weasel and ryn! : <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="28756" data-author="Vixn" data-date="2009-04-11T11:14:08+00:00" data-subject="few words I have to say">
 
-[b:29ekctfq]To Leavers:[/b:29ekctfq]
+<strong>To Leavers:</strong>
 
 If you choose to stop muding - do it. I can understand you. There are plenty ways to waste your time. We all are addicts (though Brad is more then everyone else).
 
-If you choose to leave Sloth and try another mud - do it anyway but I believe you'll come back. I left Sloth and tried to find mud that will be so much enjoyable like Sloth and I didn't. Now I can start from the very beginning. New areas to explore, new tactic, new skills & spells, new classo, new eq system & ac system. But I don't lose players I love so much and immortals I can rely on. HELL PROBABLY THAT'S WHAT I WAS LOOKING FOR!!
+If you choose to leave Sloth and try another mud - do it anyway but I believe you'll come back. I left Sloth and tried to find mud that will be so much enjoyable like Sloth and I didn't. Now I can start from the very beginning. New areas to explore, new tactic, new skills \& spells, new classo, new eq system \& ac system. But I don't lose players I love so much and immortals I can rely on. HELL PROBABLY THAT'S WHAT I WAS LOOKING FOR!!
 
-[b:29ekctfq]To Newcomers:[/b:29ekctfq] 
+<strong>To Newcomers:</strong> 
 
 WELCOME! Feel free to ask me for help, I'll try to be useful.
 
-[b:29ekctfq]To <~PIRATES~> of Slothmud III:[/b:29ekctfq]
+<strong>To \<\~PIRATES\~\> of Slothmud III:</strong>
 
 Clannies I'll miss you so much. You were very good friends for me and I enjoyed every second I played with you. Hope I didn't abuse you too much.
 
-[b:29ekctfq]To Lob:[/b:29ekctfq]
+<strong>To Lob:</strong>
 
 Man I hope you'll be back on. You helped me so much I really can't imagine what I would do w/o you.
 
-[b:29ekctfq]To other players:[/b:29ekctfq]
+<strong>To other players:</strong>
 
 I have to leave for 2 days but when I come back I'll start Edd again and will try to lead some exp groups. 
 
-You have no chance to get to 1x40 before me :)
+You have no chance to get to 1x40 before me <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-[b:29ekctfq]To our lovely immortals:[/b:29ekctfq]
+<strong>To our lovely immortals:</strong>
 
-Despite of all mentioned above if I ever meet you I'll kick your asses hard! Then I'll buy you a drink or two.  :lol: 
+Despite of all mentioned above if I ever meet you I'll kick your asses hard! Then I'll buy you a drink or two. <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> 
 
-[b:29ekctfq]To self:[/b:29ekctfq]
+<strong>To self:</strong>
 
 New tricks to find, new reasons to whine, new classoes to abuse!
 
-AWESOME!  :D 
+AWESOME! <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> 
 
 See ya on Sloth.
 
@@ -108,19 +108,17 @@ Edd
 
 egad.. who's online.. lookit all those classes:
 
-[  *Creatrix*   ] 	 Splork the Untitled
+[ \*Creatrix\* ] Splork the Untitled
 
-[ *God of War*  ] 	Krom the Untitled
+[ \*God of War\* ] Krom the Untitled
 
-[ *Greater God* ] 	Juggleblood the Untitled
+[ \*Greater God\* ] Juggleblood the Untitled
 
-	
+[pri sec ter qua qui hex sep oct] layers
 
-[pri sec ter qua qui hex sep oct] 	layers
+\-------------------------------- 
 
--------------------------------- 	
-
-[ 1c  0   0   0 | 0   0   0  0 ] 	Pal the Untitled
+[ 1c 0 0 0 \| 0 0 0 0 ] Pal the Untitled
 
 There are 4 visible players.
 
@@ -172,32 +170,34 @@ Splork
 
 BTW Weasel,
 
-Now's your chance to stop playing warriors...  :wink:
+Now's your chance to stop playing warriors... <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="28777" data-author="Virus" data-date="2009-04-11T15:35:04+00:00" data-subject="">
 
-> **jezer wrote:**
+> <strong>jezer wrote:</strong>
 > BTW Weasel,
 > 
 > 
 > 
-> Now's your chance to stop playing warriors...  :wink:
+> Now's your chance to stop playing warriors... <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
-NOOOO....then he'll have nothing to complaint about  :D
+NOOOO....then he'll have nothing to complaint about <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="28778" data-author="Weasel" data-date="2009-04-11T15:48:46+00:00" data-subject="">
 
-BTW Weasel, Now's your chance to stop playing warriors...  :wink:[/quote:2fp8ifjj]
+> <strong>jezer wrote:</strong>
+> BTW Weasel, Now's your chance to stop playing warriors... <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 I guess everyone will eventually have every class, so... Warrior prime it is! or maybe Thief - if I decide to start again that is.. not sure just yet. Crysis is groovy, but the movement is giving me mild motion sickness.
 
-NOOOO....then he'll have nothing to complaint about  :D[/quote:2fp8ifjj]
+> <strong>Virus wrote:</strong>
+> NOOOO....then he'll have nothing to complaint about <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
-I'll try not to let you down  :twisted:
+I'll try not to let you down <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -209,19 +209,19 @@ Juggleblood gave us all an inside tip before slothmud was shutdown. Apparently a
 
 <div class="post" data-post-id="28782" data-author="Weasel" data-date="2009-04-11T16:06:11+00:00" data-subject="">
 
-:shock:
+<img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="28791" data-author="Toxis" data-date="2009-04-11T17:41:44+00:00" data-subject="">
 
-I'm so happy for the changes.  It's hard to believe that this game has lasted this long without a major revamp.  Think about it, how many games really last over 10 years?
+I'm so happy for the changes. It's hard to believe that this game has lasted this long without a major revamp. Think about it, how many games really last over 10 years?
 
 Of course, I've been dying for a 9 class system, so you can all imagine that I'm like a little kid on christmas waiting to open the presents.
 
-Good job to all the imms who finally decided for this, and to all the hard work you coders do.  Thank you.
+Good job to all the imms who finally decided for this, and to all the hard work you coders do. Thank you.
 
--Tox
+\-Tox
 
 </div>
 
@@ -235,27 +235,29 @@ Or what?
 
 <div class="post" data-post-id="28796" data-author="Toxis" data-date="2009-04-11T18:29:41+00:00" data-subject="">
 
-Can't you just ignore me when I'm drunk- like everyone else, Dave? :)
+Can't you just ignore me when I'm drunk- like everyone else, Dave? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
--Tox
+\-Tox
 
 </div>
 
 <div class="post" data-post-id="28801" data-author="Weasel" data-date="2009-04-11T18:50:26+00:00" data-subject="">
 
-Can't you just ignore me when I'm drunk- like everyone else, Dave? :)
-
--Tox[/quote:6qiwo0ac]
+> <strong>Toxis wrote:</strong>
+> Can't you just ignore me when I'm drunk- like everyone else, Dave? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
+> 
+> \-Tox
 
 Oh. You're supposed to be drunk first? My bad.
 
- :wink:
+ <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="28804" data-author="Stryx" data-date="2009-04-11T18:59:49+00:00" data-subject="">
 
-[quote:ul4uvo1f]Can't you just ignore me when I'm drunk- like everyone else, Dave?[/quote:ul4uvo1f]
+> <strong>Quote:</strong>
+> Can't you just ignore me when I'm drunk- like everyone else, Dave?
 
 I knew you were pissed about the Mithril Helm Brad... just didn't realise it was the English verion of pissed.
 
@@ -263,9 +265,12 @@ I knew you were pissed about the Mithril Helm Brad... just didn't realise it was
 
 <div class="post" data-post-id="28811" data-author="Sind" data-date="2009-04-11T20:08:26+00:00" data-subject="">
 
-So are you still just gonna finish up your area and quit?
-
-Or what?[/quote:1dmsuhka]
+> <strong>Stryx wrote:</strong>
+> So are you still just gonna finish up your area and quit?
+> 
+> 
+> 
+> Or what?
 
 brad heres beautiful song just for you!
 
@@ -277,9 +282,9 @@ brad heres beautiful song just for you!
 
 The song is a little old for me.. and I couldn't understand a word.
 
-Oh yeah, increse the description space for player characters! :)~
+Oh yeah, increse the description space for player characters! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">\~
 
--Tox
+\-Tox
 
 </div>
 
@@ -317,14 +322,14 @@ Woot, Germintrude's back!
 
 <div class="post" data-post-id="28837" data-author="Thraxas" data-date="2009-04-11T22:03:52+00:00" data-subject="">
 
-hey jugs ! nice to see you're still around and from what I've seen a big cheese now. :)
+hey jugs ! nice to see you're still around and from what I've seen a big cheese now. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="28843" data-author="Thraxas" data-date="2009-04-11T22:28:52+00:00" data-subject="">
 
-"... Welcome to SlothMUD III!  This version of Sloth has been running since 1997. ..."
+"... Welcome to SlothMUD III! This version of Sloth has been running since 1997. ..."
 
-I guess the final tweaks are still going in :)
+I guess the final tweaks are still going in <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

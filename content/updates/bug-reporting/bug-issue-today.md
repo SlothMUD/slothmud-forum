@@ -32,7 +32,7 @@ Thanks for your understanding.
 
 <div class="post" data-post-id="35835" data-author="Filk" data-date="2015-04-18T17:30:13+00:00" data-subject="Re: Bug Issue Today">
 
-I wonder, what core function change would lead to such wide variety of bugs :)
+I wonder, what core function change would lead to such wide variety of bugs <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -46,6 +46,6 @@ Pretty sexy one from builder standpoint. From player, not so much...
 
 These issues should be resolved.
 
-The other major fix is that help files should work 100% of the time. However, misspelled words will no  longer lead you to the correct helpfile. I am working on that feature now.
+The other major fix is that help files should work 100% of the time. However, misspelled words will no longer lead you to the correct helpfile. I am working on that feature now.
 
 </div>

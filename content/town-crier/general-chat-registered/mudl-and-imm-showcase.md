@@ -32,6 +32,6 @@ some reference
 
 <div class="post" data-post-id="10650" data-author="Nascosto" data-date="2006-02-11T06:37:08+00:00" data-subject="">
 
-I'd be interested in playing around :)
+I'd be interested in playing around <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

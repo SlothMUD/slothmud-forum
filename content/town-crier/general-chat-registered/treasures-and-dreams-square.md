@@ -36,9 +36,9 @@ MELTDOWN!!!
 
 <div class="post" data-post-id="9136" data-author="Deju" data-date="2005-10-24T16:37:43+00:00" data-subject="">
 
-Well, in all fairness the T&D square was never a safe room, it just had a regen bonus in the room.
+Well, in all fairness the T\&D square was never a safe room, it just had a regen bonus in the room.
 
-That said, it does seem kind of silly to make a regen room, charge people drachma to get in, and then not make it a safe room.  I, and a ton of others, almost never regen there for that very reason.
+That said, it does seem kind of silly to make a regen room, charge people drachma to get in, and then not make it a safe room. I, and a ton of others, almost never regen there for that very reason.
 
 But then again, thats just my opinion... what do i know.
 
@@ -48,7 +48,7 @@ But then again, thats just my opinion... what do i know.
 
 Nods, having problems seeing the point in having the extra regen bonus if it's not safe to regen there - unless of course you first bank ALL your coins, get changed in scribes, remove everything from your inventory, then reverse procedure when you're done regenning.. by which time it probably isn't such a bonus anymore. Since it's a fairly hefty sum (30 drachma) to gain access to the area, you'd think those shopkeepers would have some decent security huh.. gotta question why the access key was removed and now you only need to 'sign ledger' too.. certainly good for the pthiefs now they don't have to carry a key and risk losing it...
 
-:shock: 
+<img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
 heh, now watch Someone remove the regen bonus rather than make it a safe room. Yeah, you know it..
 
@@ -56,13 +56,13 @@ heh, now watch Someone remove the regen bonus rather than make it a safe room. Y
 
 <div class="post" data-post-id="9140" data-author="13" data-date="2005-10-24T17:36:27+00:00" data-subject="">
 
-I agree T&D should be safe.
+I agree T\&D should be safe.
 
 </div>
 
 <div class="post" data-post-id="9141" data-author="auri" data-date="2005-10-24T17:56:18+00:00" data-subject="">
 
-I noticed it wasn't safe. I simply go 1 east , sit, eq change , then go back 1 west and sleep.  That room is a nocast room.. assuming it also nosteal. But you also MUST sit during eq change to avoid getting pushed out of that room.
+I noticed it wasn't safe. I simply go 1 east , sit, eq change , then go back 1 west and sleep. That room is a nocast room.. assuming it also nosteal. But you also MUST sit during eq change to avoid getting pushed out of that room.
 
 Btw poolp go fuck yourself.
 
@@ -82,13 +82,13 @@ And before someone says "Well druids don't pay drachma for that", you are not pa
 
 <div class="post" data-post-id="9143" data-author="13" data-date="2005-10-24T19:44:09+00:00" data-subject="">
 
-I don't care about letter or no letter, but I don't think the regen room inside the weaver should be stealable.  And I'm more or less pro-pthief.
+I don't care about letter or no letter, but I don't think the regen room inside the weaver should be stealable. And I'm more or less pro-pthief.
 
 </div>
 
 <div class="post" data-post-id="9144" data-author="12345" data-date="2005-10-24T20:04:53+00:00" data-subject="">
 
-Actually, I more or less agree with Aaron, though I have an idea why it isn't like that.  If anyone remembers the regen room on Sloth I... it became so crowded that they built an extention to it just so we didn't all have to sit in the same room.  If I remember correctly, it was safe and had a pthief problem as well.
+Actually, I more or less agree with Aaron, though I have an idea why it isn't like that. If anyone remembers the regen room on Sloth I... it became so crowded that they built an extention to it just so we didn't all have to sit in the same room. If I remember correctly, it was safe and had a pthief problem as well.
 
 Auri has the right plan though.
 
@@ -98,15 +98,15 @@ Auri has the right plan though.
 
 Grue I don't really care that much about the key - certainly not enough to make it an issue. It's certainly easier for players without one, but also very convenient for pthieves, considering this is a room people would go to for the express purpose of regenning. I was one of the many people who initially made the presumtion that if coders were adding regen bonuses to a room that you access only by initially spending 30 drachma to get there, then it would most likely be nosteal as well. Whatever, I don't use it, it just seemed to defeat the purpose, but whatever yo, count me out of this conversation from here, not into wating my time - it is what it is and if we don't like it much, too damn bad, don't use it.
 
-   :)
+ <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="9146" data-author="Avatar" data-date="2005-10-24T21:38:30+00:00" data-subject="Pthieves etc.">
 
-The most annoying thing to me about recent pthieves is that personal eq can be stolen.  If I autoquest in a quest that can only be done once, then if the eq is stolen it's permanent.  I can't get that eq back short of wiping the character and starting over.  Elite eq is less permanent, but it's still ridiculous to not have a nosteal flag on it.  I can spend 600 drachma on a personal item that can't be used by character but the one who purchased the item, but it can still be stolen.
+The most annoying thing to me about recent pthieves is that personal eq can be stolen. If I autoquest in a quest that can only be done once, then if the eq is stolen it's permanent. I can't get that eq back short of wiping the character and starting over. Elite eq is less permanent, but it's still ridiculous to not have a nosteal flag on it. I can spend 600 drachma on a personal item that can't be used by character but the one who purchased the item, but it can still be stolen.
 
-I've been successfully pthieved from twice in the last week.  It's not enough to make me quit playing entirely, but I'm done for this week.
+I've been successfully pthieved from twice in the last week. It's not enough to make me quit playing entirely, but I'm done for this week.
 
 Charles
 
@@ -136,15 +136,15 @@ is just unreasonable and unpleasant. No matter how upset you are you just don't 
 
 But yeah on a serious note I do agree, making that room non-safe is just too easy for me. #10 steal coins $target on separate targets can get me a few 100k coins and if I'm lucky maybe some cool water containers along with it (Btw, wts skull of a shifting dragon). 
 
-As a response to auri's post, I've gotten at least 400k in clean coins from you. Keep it up, kay? :)
+As a response to auri's post, I've gotten at least 400k in clean coins from you. Keep it up, kay? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Tip:
 
-1. Sleeping 3n from Wide Gate does not give you any safety. 
+1\. Sleeping 3n from Wide Gate does not give you any safety. 
 
-2. After a CR, do NOT loot your corpse, recall, and sleep at wide gate. (and then cleverly gossip : he got me while I was shifting gear :(:()
+2\. After a CR, do NOT loot your corpse, recall, and sleep at wide gate. (and then cleverly gossip : he got me while I was shifting gear <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">:()
 
-3. I do not have intercontinential travelling hax, so stop complaining to immorts.
+3\. I do not have intercontinential travelling hax, so stop complaining to immorts.
 
 G'day.
 
@@ -166,9 +166,9 @@ Splork
 
 <div class="post" data-post-id="9155" data-author="Avatar" data-date="2005-10-25T11:12:09+00:00" data-subject="RE: Treasures and Dreams Square">
 
-1)  I agree with Grue.  There are pleasant ways to show discontent as well as unpleasant ways.  I never heard of Ghandi changing the world by berating people.
+1\) I agree with Grue. There are pleasant ways to show discontent as well as unpleasant ways. I never heard of Ghandi changing the world by berating people.
 
-2)  Thanks Splork.  Considering the idea is all I ask.
+2\) Thanks Splork. Considering the idea is all I ask.
 
 Charles
 
@@ -176,15 +176,14 @@ Charles
 
 <div class="post" data-post-id="9156" data-author="Leaf" data-date="2005-10-25T11:21:21+00:00" data-subject="">
 
-3. I do not have intercontinential travelling hax, so stop complaining to immorts.
+> <strong>Poolp wrote:</strong>
+> 3\. I do not have intercontinential travelling hax, so stop complaining to immorts.
 
-[/quote:2moo2ffe]
-
-Yea it's not a hoax or anything.  But to get webbed, "quit!", sign on as 
+Yea it's not a hoax or anything. But to get webbed, "quit!", sign on as 
 
 another pthief, webbed, "quti!" on a different cont, rinse and repeat is 
 
-something that shouldn't be so.  You should drop ALL your items, even the 
+something that shouldn't be so. You should drop ALL your items, even the 
 
 ones your wearing if your going to "quit!".
 
@@ -212,35 +211,42 @@ Auri
 
 <div class="post" data-post-id="9159" data-author="Poolp" data-date="2005-10-25T14:57:33+00:00" data-subject="">
 
-3. I do not have intercontinential travelling hax, so stop complaining to immorts.
+> <strong>Leaf wrote:</strong>
+> > <strong>Poolp wrote:</strong>
+> > 3\. I do not have intercontinential travelling hax, so stop complaining to immorts.
+> 
+> 
+> 
+> 
+> 
+> Yea it's not a hoax or anything. But to get webbed, "quit!", sign on as 
+> 
+> another pthief, webbed, "quti!" on a different cont, rinse and repeat is 
+> 
+> something that shouldn't be so. You should drop ALL your items, even the 
+> 
+> ones your wearing if your going to "quit!".
+> 
+> 
+> 
+> g'day :p
 
-[/quote:117arvug]
+1\. I said hax, not hoax <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-Yea it's not a hoax or anything.  But to get webbed, "quit!", sign on as 
+2\. Quitting does drop all items including the ones worn, I dont know which newb told you it wouldn't do that. Probably the same one who was thinking "omg he must have hacked to get to another continent in so little time!" not realizing that I stole the item 10 minutes ago and had taken a boat. Hey there Auri <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-another pthief, webbed, "quti!" on a different cont, rinse and repeat is 
+> <strong>Quote:</strong>
+> Oh ya.. I've gotten more gold from selling stuff from your ptheives alts that I've killed then you've gotten from me .. dork.
 
-something that shouldn't be so.  You should drop ALL your items, even the 
+3\. It took me a year to understand this sentence because of the grammatical error (call me a loser if you want - not like anything has stopped you from doing so before)
 
-ones your wearing if your going to "quit!".
-
-g'day :p[/quote:117arvug]
-
-1. I said hax, not hoax :)
-
-2. Quitting does drop all items including the ones worn, I dont know which newb told you it wouldn't do that. Probably the same one who was thinking "omg he must have hacked to get to another continent in so little time!" not realizing that I stole the item 10 minutes ago and had taken a boat. Hey there Auri :)
-
-[quote:117arvug]Oh ya.. I've gotten more gold from selling stuff from your ptheives alts that I've killed then you've gotten from me .. dork. [/quote:117arvug]
-
-3. It took me a year to understand this sentence because of the grammatical error (call me a loser if you want - not like anything has stopped you from doing so before)
-
-4. Okay so you do make more money (I don't even know how true that is), but I make a lot more off everyone else so it doesn't matter.
+4\. Okay so you do make more money (I don't even know how true that is), but I make a lot more off everyone else so it doesn't matter.
 
 Edit: Sorry that's not true, but that's okay I forgive you for thinking I was Stabber as well.
 
-5. I don't even pthief for profit, the true reward is to laugh at how all of you like to judge me based on how I play a game. "Oh look a pthief! He must be a fat kid whom nobody talks to irl and had no toys when he was young because his parents hate him." (I'm not exaggerating, this is the real shit people tell me.)
+5\. I don't even pthief for profit, the true reward is to laugh at how all of you like to judge me based on how I play a game. "Oh look a pthief! He must be a fat kid whom nobody talks to irl and had no toys when he was young because his parents hate him." (I'm not exaggerating, this is the real shit people tell me.)
 
-G'day right back at ya :)
+G'day right back at ya <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -258,17 +264,21 @@ I like Guinex.
 
 <div class="post" data-post-id="9164" data-author="Alberich" data-date="2005-10-25T16:31:03+00:00" data-subject="">
 
-That shatters all my illusions about pthieves :( 
+That shatters all my illusions about pthieves <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom"> 
 
-5. I don't even pthief for profit, the true reward is to laugh at how all of you like to judge me based on how I play a game. "Oh look a pthief! He must be a fat kid whom nobody talks to irl and had no toys when he was young because his parents hate him." (I'm not exaggerating, this is the real shit people tell me.)
-
-G'day right back at ya :)[/quote:3ohlax71]
+> <strong>Poolp wrote:</strong>
+> 5\. I don't even pthief for profit, the true reward is to laugh at how all of you like to judge me based on how I play a game. "Oh look a pthief! He must be a fat kid whom nobody talks to irl and had no toys when he was young because his parents hate him." (I'm not exaggerating, this is the real shit people tell me.)
+> 
+> 
+> 
+> G'day right back at ya <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="9168" data-author="Rynquald" data-date="2005-10-25T18:30:37+00:00" data-subject="">
 
-[quote:2gy8u8vk]5. I don't even pthief for profit, the true reward is to laugh at how all of you like to judge me based on how I play a game. "Oh look a pthief! He must be a fat kid whom nobody talks to irl and had no toys when he was young because his parents hate him." (I'm not exaggerating, this is the real shit people tell me.)[/quote:2gy8u8vk]
+> <strong>Quote:</strong>
+> 5\. I don't even pthief for profit, the true reward is to laugh at how all of you like to judge me based on how I play a game. "Oh look a pthief! He must be a fat kid whom nobody talks to irl and had no toys when he was young because his parents hate him." (I'm not exaggerating, this is the real shit people tell me.)
 
 Well imho, your general inability to function in what could only be called a social environment would suggest at least some insecurities irl, the very drive to cause harm to other people in any way for no reason (saying you enjoy it proves this even more) is an unhealthy trait.
 
@@ -276,29 +286,28 @@ Well imho, your general inability to function in what could only be called a soc
 
 <div class="post" data-post-id="9170" data-author="Leaf" data-date="2005-10-25T18:59:49+00:00" data-subject="">
 
-2. Quitting does drop all items including the ones worn, I dont know which newb told you it wouldn't do that. Probably the same one who was thinking "omg he must have hacked to get to another continent in so little time!" not realizing that I stole the item 10 minutes ago and had taken a boat. Hey there Auri :)
+> <strong>Poolp wrote:</strong>
+> 2\. Quitting does drop all items including the ones worn, I dont know which newb told you it wouldn't do that. Probably the same one who was thinking "omg he must have hacked to get to another continent in so little time!" not realizing that I stole the item 10 minutes ago and had taken a boat. Hey there Auri <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-[/quote:1u4gyket]
+I've seen u quit! and all ur items were on u. Damn who was that immortal
 
-I've seen u quit! and all ur items were on u.  Damn who was that immortal
-
-that even said, when u quit ONLY ur inventory drops to the ground.  BUT
+that even said, when u quit ONLY ur inventory drops to the ground. BUT
 
 not what items you can wear.
 
 I webbed u at South Gate on VK, and u had a gimlet and something else.
 
-U quit, came back as ur lvl1 newbie thief and webbed me.  I was able to get
+U quit, came back as ur lvl1 newbie thief and webbed me. I was able to get
 
-out of ur moldy, and saw u sitting there as Jor.  You quit! again, ur newbie 
+out of ur moldy, and saw u sitting there as Jor. You quit! again, ur newbie 
 
-came on webbed me and u logged on as Jor again.  So ur telling me u
+came on webbed me and u logged on as Jor again. So ur telling me u
 
-had dropped all ur items?  
+had dropped all ur items? 
 
-On SS, ur other pthief Derro was webbed South of Well.  U quit! and only
+On SS, ur other pthief Derro was webbed South of Well. U quit! and only
 
-dropped ur inventory but kept all ur other eq on urself.  I believe u had
+dropped ur inventory but kept all ur other eq on urself. I believe u had
 
 JJD and a few other pretty good items u have stolen.
 
@@ -306,27 +315,30 @@ JJD and a few other pretty good items u have stolen.
 
 <div class="post" data-post-id="9173" data-author="Poolp" data-date="2005-10-25T19:21:34+00:00" data-subject="">
 
-I've seen u quit! and all ur items were on u.  Damn who was that immortal
-
-that even said, when u quit ONLY ur inventory drops to the ground.  BUT
-
-not what items you can wear.
-
-I webbed u at South Gate on VK, and u had a gimlet and something else.
-
-U quit, came back as ur lvl1 newbie thief and webbed me.  I was able to get
-
-out of ur moldy, and saw u sitting there as Jor.  You quit! again, ur newbie 
-
-came on webbed me and u logged on as Jor again.  So ur telling me u
-
-had dropped all ur items?  
-
-On SS, ur other pthief Derro was webbed South of Well.  U quit! and only
-
-dropped ur inventory but kept all ur other eq on urself.  I believe u had
-
-JJD and a few other pretty good items u have stolen.[/quote:2gsi10ex]
+> <strong>Leaf wrote:</strong>
+> I've seen u quit! and all ur items were on u. Damn who was that immortal
+> 
+> that even said, when u quit ONLY ur inventory drops to the ground. BUT
+> 
+> not what items you can wear.
+> 
+> I webbed u at South Gate on VK, and u had a gimlet and something else.
+> 
+> U quit, came back as ur lvl1 newbie thief and webbed me. I was able to get
+> 
+> out of ur moldy, and saw u sitting there as Jor. You quit! again, ur newbie 
+> 
+> came on webbed me and u logged on as Jor again. So ur telling me u
+> 
+> had dropped all ur items? 
+> 
+> 
+> 
+> On SS, ur other pthief Derro was webbed South of Well. U quit! and only
+> 
+> dropped ur inventory but kept all ur other eq on urself. I believe u had
+> 
+> JJD and a few other pretty good items u have stolen.
 
 I'm not gonna bother reading after the first few sentences. I'm not Jorm. I am Poolp, Demi, Scoobydoo.
 
@@ -334,7 +346,7 @@ I'm not gonna bother reading after the first few sentences. I'm not Jorm. I am P
 
 <div class="post" data-post-id="9174" data-author="kjartan" data-date="2005-10-25T19:36:45+00:00" data-subject="">
 
-After discussion we have decided to make all personal items unstealable.  This is for the reasons put forward in Avatar's post below.  I'll try to get to this tonight.
+After discussion we have decided to make all personal items unstealable. This is for the reasons put forward in Avatar's post below. I'll try to get to this tonight.
 
 </div>
 
@@ -382,47 +394,50 @@ Oh, and btw, if Avatar asks me himself, its quite possible I would reiumburse hi
 
 <div class="post" data-post-id="9180" data-author="Blackguard" data-date="2005-10-25T21:52:28+00:00" data-subject="">
 
-I've seen u quit! and all ur items were on u.  Damn who was that immortal
+> <strong>Leaf wrote:</strong>
+> I've seen u quit! and all ur items were on u. Damn who was that immortal
+> 
+> that even said, when u quit ONLY ur inventory drops to the ground. BUT
+> 
+> not what items you can wear.
+> 
+> I webbed u at South Gate on VK, and u had a gimlet and something else.
+> 
+> U quit, came back as ur lvl1 newbie thief and webbed me. I was able to get
+> 
+> out of ur moldy, and saw u sitting there as Jor. You quit! again, ur newbie 
+> 
+> came on webbed me and u logged on as Jor again. So ur telling me u
+> 
+> had dropped all ur items? 
+> 
+> 
+> 
+> On SS, ur other pthief Derro was webbed South of Well. U quit! and only
+> 
+> dropped ur inventory but kept all ur other eq on urself. I believe u had
+> 
+> JJD and a few other pretty good items u have stolen.
 
-that even said, when u quit ONLY ur inventory drops to the ground.  BUT
+The results about your diagnosis are in. You are suffering from a highly contagious disease called stupidity. The most known carriers of the disease ingame are Rynquald and the Aching Vagina Gang (more commonly known as \~Dragonsworn\~). Some lesser, irrelevent beings also seem to carry it. I have compiled a list of these to hopefully alert the public and prevent any infection from happening in the future:
 
-not what items you can wear.
+\-Shadis (Usually identified by whining about the most simple of things. If you see some random moron crying about the cost of iron rations, it's probably him.)
 
-I webbed u at South Gate on VK, and u had a gimlet and something else.
+\-Brad (Another whiner, usually seen using this smily: :)\~ From my conversations with him, probably has down-syndrome - make fun at your own risk!)
 
-U quit, came back as ur lvl1 newbie thief and webbed me.  I was able to get
+\-Victor (He's funny, but he's an idiot. He knows I get all the women in real life so he has to "get back at me" by telling me that I am shit and he is cool. TOTALLY PZWNEED IN MY FACE. Deep inside, Victor knows he'll never reach my level of slim and handsome.)
 
-out of ur moldy, and saw u sitting there as Jor.  You quit! again, ur newbie 
+\-Auriana (Whenever she gossips something, nothing other than WAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA comes up on my screen. Highly contagious. Steer clear)
 
-came on webbed me and u logged on as Jor again.  So ur telling me u
-
-had dropped all ur items?  
-
-On SS, ur other pthief Derro was webbed South of Well.  U quit! and only
-
-dropped ur inventory but kept all ur other eq on urself.  I believe u had
-
-JJD and a few other pretty good items u have stolen.[/quote:3qgcrbuy]
-
-The results about your diagnosis are in. You are suffering from a highly contagious disease called stupidity. The most known carriers of the disease ingame are Rynquald and the Aching Vagina Gang (more commonly known as ~Dragonsworn~). Some lesser, irrelevent beings also seem to carry it. I have compiled a list of these to hopefully alert the public and prevent any infection from happening in the future:
-
--Shadis (Usually identified by whining about the most simple of things. If you see some random moron crying about the cost of iron rations, it's probably him.)
-
--Brad (Another whiner, usually seen using this smily: :)~ From my conversations with him, probably has down-syndrome - make fun at your own risk!)
-
--Victor (He's funny, but he's an idiot. He knows I get all the women in real life so he has to "get back at me" by telling me that I am shit and he is cool. TOTALLY PZWNEED IN MY FACE. Deep inside, Victor knows he'll never reach my level of slim and handsome.)
-
--Auriana (Whenever she gossips something, nothing other than WAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA comes up on my screen. Highly contagious. Steer clear)
-
--anyone else who whines about pthieving
+\-anyone else who whines about pthieving
 
 Fortunately for you, I have the cure. I'm sure Isabo must be getting tired of this so I'll just say it.
 
-THE JING JIT DISK AND THE GIMLET WAS MY DESCRIPTION.[/color:3qgcrbuy][/size:3qgcrbuy]
+THE JING JIT DISK AND THE GIMLET WAS MY DESCRIPTION.
 
 And again, just in case you missed the above sentence:
 
-THE JING JIT DISK AND THE GIMLET WAS MY DESCRIPTION.[/color:3qgcrbuy][/size:3qgcrbuy]
+THE JING JIT DISK AND THE GIMLET WAS MY DESCRIPTION.
 
 Get it? Now shut up and go kill some kobolds.
 
@@ -438,7 +453,8 @@ On the other hand, I am willing to delete every one of my characters from the ga
 
 <div class="post" data-post-id="9182" data-author="Alberich" data-date="2005-10-26T00:16:43+00:00" data-subject="">
 
-After discussion we have decided to make all personal items unstealable.  This is for the reasons put forward in Avatar's post below.  I'll try to get to this tonight.[/quote:2br3wa1u]
+> <strong>\*kjartan\* wrote:</strong>
+> After discussion we have decided to make all personal items unstealable. This is for the reasons put forward in Avatar's post below. I'll try to get to this tonight.
 
 nice thanks
 
@@ -450,23 +466,25 @@ perhaps suprise wan't the best word
 
 oh and btw, rations cost too much!!
 
-*wow guess i was put in my place, i better be carefull or i might get wiped*
+\*wow guess i was put in my place, i better be carefull or i might get wiped\*
 
 </div>
 
 <div class="post" data-post-id="9185" data-author="Rynquald" data-date="2005-10-26T04:44:21+00:00" data-subject="">
 
-[quote:1j5gpv3m]The most known carriers of the disease ingame are Rynquald and the Aching Vagina Gang (more commonly known as ~Dragonsworn~).[/quote:1j5gpv3m]
+> <strong>Quote:</strong>
+> The most known carriers of the disease ingame are Rynquald and the Aching Vagina Gang (more commonly known as \~Dragonsworn\~).
 
 And I suppose that, er, interestingly childish description of me and DS would be because we've all killed you so often?
 
-On a side note, it's nice to know I've killed you enough to be mentioned personally :twisted:
+On a side note, it's nice to know I've killed you enough to be mentioned personally <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="9186" data-author="Poolp" data-date="2005-10-26T07:42:45+00:00" data-subject="">
 
-3rd - min bid on my dragon skull?[/quote:2wqk92op]
+> <strong>Shadis wrote:</strong>
+> 3rd - min bid on my dragon skull?
 
 Make an offer please.
 
@@ -474,9 +492,9 @@ Make an offer please.
 
 <div class="post" data-post-id="9189" data-author="Avatar" data-date="2005-10-26T10:51:57+00:00" data-subject="Thanks!">
 
-Thanks for the changes guys, the no-steal flag on some eq will be very helpful.  Now to campaign for that personal robe clasp that was added and removed way back when.
+Thanks for the changes guys, the no-steal flag on some eq will be very helpful. Now to campaign for that personal robe clasp that was added and removed way back when.
 
-As the pthief said, no reimbursement is necessary.  I'm not sure why I killed him so easily, he must have lagged between the first firestorm and the second.  I did get my sword back.  The other pthief incident I was not able to recover the eq, but purchased most of it back for 2 mil coins.
+As the pthief said, no reimbursement is necessary. I'm not sure why I killed him so easily, he must have lagged between the first firestorm and the second. I did get my sword back. The other pthief incident I was not able to recover the eq, but purchased most of it back for 2 mil coins.
 
 Charles
 
@@ -492,7 +510,7 @@ The Aching Vagina Gang....that shit fucking slays me dude.
 
 "Oh look a pthief! He must be a fat kid whom nobody talks to irl and had no toys when he was young because his parents hate him."
 
-Hehe.. Poolp is a fat kid without any toys.  I never said that, but that sounds about right. Thanks Poolp for telling me more about yourself.  And hopefully you aren't too slow to be able to read this: You are a loser and a dork, fatty.  If it takes you a year to read that, then I don't know what to say.
+Hehe.. Poolp is a fat kid without any toys. I never said that, but that sounds about right. Thanks Poolp for telling me more about yourself. And hopefully you aren't too slow to be able to read this: You are a loser and a dork, fatty. If it takes you a year to read that, then I don't know what to say.
 
 Good day!
 
@@ -502,7 +520,7 @@ Auri
 
 <div class="post" data-post-id="9194" data-author="12345" data-date="2005-10-26T12:44:43+00:00" data-subject="">
 
-*munches on popcorn*
+\*munches on popcorn\*
 
 </div>
 
@@ -528,33 +546,34 @@ see post below plz Alb.
 
 <div class="post" data-post-id="9204" data-author="Poolp" data-date="2005-10-26T19:54:37+00:00" data-subject="">
 
-Hehe.. Poolp is a fat kid without any toys.  I never said that, but that sounds about right. Thanks Poolp for telling me more about yourself.  And hopefully you aren't too slow to be able to read this: You are a loser and a dork, fatty.  If it takes you a year to read that, then I don't know what to say.
+> <strong>auri wrote:</strong>
+> Hehe.. Poolp is a fat kid without any toys. I never said that, but that sounds about right. Thanks Poolp for telling me more about yourself. And hopefully you aren't too slow to be able to read this: You are a loser and a dork, fatty. If it takes you a year to read that, then I don't know what to say.
+> 
+> Auri
 
-Auri[/quote:dyevfkst]
+I was pointing out your grammatical mistake in the sentence, that's why it took me so long to recorrect it and then understand <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-I was pointing out your grammatical mistake in the sentence, that's why it took me so long to recorrect it and then understand :)
-
-Well in reply to your great comments, I will now reply with the same level of maturity. No I'm not fat! You're the fat guy! *end*
+Well in reply to your great comments, I will now reply with the same level of maturity. No I'm not fat! You're the fat guy! \*end\*
 
 Anyway, if any of you missed any of this, here's a replay.
 
 But first, remember that Auriana
 
-[40d 40c 40b 34n] Auriana \|/ DrOOd Priestess \|/
+[40d 40c 40b 34n] Auriana \\\|/ DrOOd Priestess \\\|/
 
 is a 3x40.
 
 Auriana tells you: well you're not gonna get anymore coins from me, i've set up a lot of triggers now' ' the next time you open the trapdoor and pthief from me its gonna do more than wake and stand, it'll totally fuck you up'
 
-(Yes I'm sure you're great at writing triggers, how else did you get to that level? :))
+(Yes I'm sure you're great at writing triggers, how else did you get to that level? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">)
 
 Auriana thinks, and types: Okay now that I'm done with my CR...get all corpse;recite recall;sleep.
 
-<10 minutes later after realizing stuff is missing>
+\<10 minutes later after realizing stuff is missing\>
 
 gossip demi stole my stuff, he got it while i was shifting gear
 
-<After noticing Demi is no longer on the same continent>
+\<After noticing Demi is no longer on the same continent\>
 
 hey i've got to report this to an immort, how did he get to BH so fast??? hax!
 
@@ -562,7 +581,7 @@ Auriana gossips: you're lucky the code has recently been changed and area of eff
 
 (Yes, about 7 years ago was too recent, wasn't it?)
 
-<after having Splork tell her some stuff about the codes>
+\<after having Splork tell her some stuff about the codes\>
 
 Auriana gossips: .'well i have only played for 3 months, its not like i know everything!'
 
@@ -574,13 +593,13 @@ And my personal favourite.....!
 
 Auriana gossips -- ' hehe why do people gossip 'chill?' all the time?'
 
-There you have it folks, one of your fellow Lymers :)
+There you have it folks, one of your fellow Lymers <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-PS: Charles, I sold all the stuff back to you for only a mil, not 2 mil. Too bad you had to be so nice about it, I woulda really screwed you over for a lot more coins if you didn't go 'You got me fair and square". :)
+PS: Charles, I sold all the stuff back to you for only a mil, not 2 mil. Too bad you had to be so nice about it, I woulda really screwed you over for a lot more coins if you didn't go 'You got me fair and square". <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 PSS: Still looking for a higher bid on the skull of a shifting dragon (current bid at 2 mil) and the jjd (current bid at 4.5 mil)
 
-Edit: Oh and I forgot, G'day :)
+Edit: Oh and I forgot, G'day <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -602,15 +621,15 @@ I would almost pay you to junk it since I have the only other on in the game I t
 
 <div class="post" data-post-id="9215" data-author="Avatar" data-date="2005-10-27T11:06:42+00:00" data-subject="Oh">
 
-Yep, it was 500k each, my bad.  Actually I think you offered to sell them both back for a single 500k, but I paid the other 500k anyway.
+Yep, it was 500k each, my bad. Actually I think you offered to sell them both back for a single 500k, but I paid the other 500k anyway.
 
-Well, you were very polite about it too.  I don't mind paying to get my stuff back, if you've escaped safely.  If you're still in the area I might try a firestorm or two...
+Well, you were very polite about it too. I don't mind paying to get my stuff back, if you've escaped safely. If you're still in the area I might try a firestorm or two...
 
 </div>
 
 <div class="post" data-post-id="9293" data-author="auri" data-date="2005-10-28T17:09:07+00:00" data-subject="">
 
-LOL.. nice SPAM poolp.  So much BS (and alterations to suit you) I didn't bother to even read it all.  And I don't know why you keep insulting me every time I ask someone a question about the game.  No one knows everything.. but you of course (not).  You try to come across as smart.. but you are just a smart ass and not worth my time.
+LOL.. nice SPAM poolp. So much BS (and alterations to suit you) I didn't bother to even read it all. And I don't know why you keep insulting me every time I ask someone a question about the game. No one knows everything.. but you of course (not). You try to come across as smart.. but you are just a smart ass and not worth my time.
 
 I am getting tired of you fatty.
 
@@ -626,18 +645,18 @@ Double post, sorry.
 
 <div class="post" data-post-id="9297" data-author="Poolp" data-date="2005-10-28T19:35:21+00:00" data-subject="">
 
-Neat, will you shut the fuc k up then? :)
+Neat, will you shut the fuc k up then? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="9298" data-author="auri" data-date="2005-10-28T19:47:46+00:00" data-subject="">
 
-LOL.. ME? STFU? hahaha.. you are funny. You are the one that likes to write paragraphs of BS. Get  a life.
+LOL.. ME? STFU? hahaha.. you are funny. You are the one that likes to write paragraphs of BS. Get a life.
 
 </div>
 
 <div class="post" data-post-id="9301" data-author="Guinex" data-date="2005-10-29T01:39:57+00:00" data-subject="">
 
-My dad can beat your dad up.   :twisted:
+My dad can beat your dad up. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

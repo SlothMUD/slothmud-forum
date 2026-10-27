@@ -12,7 +12,7 @@ post_count: 1
 
 <div class="post" data-post-id="39977" data-author="Driven" data-date="2022-10-15T15:35:14+00:00" data-subject="Changes to the Lyme XP Cap">
 
-Lyme has been changed so that XP is no longer capped when nocap is enabled and the mob is not chopped.  As soon as anyone chops that incarnation of the mob, or nocap is disabled, the cap is applied.
+Lyme has been changed so that XP is no longer capped when nocap is enabled and the mob is not chopped. As soon as anyone chops that incarnation of the mob, or nocap is disabled, the cap is applied.
 
 A swordwraith viciously massacres a massive black dog
 

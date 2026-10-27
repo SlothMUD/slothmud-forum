@@ -18,6 +18,6 @@ hey everyone! long time no see. i just wanted help with a problem im having with
 
 <div class="post" data-post-id="14680" data-author="Repunzel" data-date="2006-10-19T13:12:58+00:00" data-subject="">
 
-ok i found out it isnt a quicktime movie, its an swf file but i installed the new flash and now i get a transparent square with a windows (i think) logo in the corner. its a box that looks like a puzzle kind of logo. :( come on i know you guys are computer geeks! lol
+ok i found out it isnt a quicktime movie, its an swf file but i installed the new flash and now i get a transparent square with a windows (i think) logo in the corner. its a box that looks like a puzzle kind of logo. <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom"> come on i know you guys are computer geeks! lol
 
 </div>

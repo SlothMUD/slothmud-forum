@@ -14,6 +14,6 @@ post_count: 1
 
 Happy Valentines Day
 
-from: brand :twisted:
+from: brand <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

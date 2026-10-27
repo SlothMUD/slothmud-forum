@@ -14,103 +14,103 @@ post_count: 8
 
 who
 
-*Immortals of SlothMUD III*
+\*Immortals of SlothMUD III\*
 
------------------
+\-----------------
 
-[  *Celestial*  ] Akasha busy working on quest stuff
+[ \*Celestial\* ] Akasha busy working on quest stuff
 
 [pri sec ter qua] Players
 
------------------
+\-----------------
 
-[  *Assassin*   ] Romano now thinks about a 21'' monitor to avoid spam.
+[ \*Assassin\* ] Romano now thinks about a 21'' monitor to avoid spam.
 
-[  *Hierarch*   ] Mosaix ~[DoW]~
+[ \*Hierarch\* ] Mosaix \~[DoW]\~
 
-[   *Wizard*    ] Rynquald ~Dragonsworn~
+[ \*Wizard\* ] Rynquald \~Dragonsworn\~
 
-[   *Wizard*    ] Chi ~sapphire~
+[ \*Wizard\* ] Chi \~sapphire\~
 
-[   *Wizard*    ] Truth {Greedy} little teapot
+[ \*Wizard\* ] Truth {Greedy} little teapot
 
-[  *Assassin*   ] Autolycos <~PIRATE~> Beware, For I am the oncoming storm
+[ \*Assassin\* ] Autolycos \<\~PIRATE\~\> Beware, For I am the oncoming storm
 
-[  *Overlord*   ] Kong ~Dragonsworn~
+[ \*Overlord\* ] Kong \~Dragonsworn\~
 
-[  *Overlord*   ] Toxis the Barbarian King ~[DoW]~
+[ \*Overlord\* ] Toxis the Barbarian King \~[DoW]\~
 
-[  *Arch-Lich*  ] Quake ~DS~
+[ \*Arch-Lich\* ] Quake \~DS\~
 
-[   *Wizard*    ] Brady <~PIRATE~>
+[ \*Wizard\* ] Brady \<\~PIRATE\~\>
 
-[  *Overlord*   ] Bit - O - Honey ~Dragonsworn~
+[ \*Overlord\* ] Bit - O - Honey \~Dragonsworn\~
 
-[  *Overlord*   ] Lob Master of Blades ~[DoW]~
+[ \*Overlord\* ] Lob Master of Blades \~[DoW]\~
 
-[  *Overlord*   ] Weasel looks at you strangely ( O)(o ) =sMAc=
+[ \*Overlord\* ] Weasel looks at you strangely ( O)(o ) =sMAc=
 
-[ *Grand Druid* ] Daedalus ~[DoW]~
+[ \*Grand Druid\* ] Daedalus \~[DoW]\~
 
-[ *Loremaster*  ] Minstrel ~[DoW]~
+[ \*Loremaster\* ] Minstrel \~[DoW]\~
 
-[  *Overlord*   ] Atwell <~PIRATE~>
+[ \*Overlord\* ] Atwell \<\~PIRATE\~\>
 
-[   *Wizard*    ] Edd <~PIRATE~> Master of Wizardry
+[ \*Wizard\* ] Edd \<\~PIRATE\~\> Master of Wizardry
 
-[  *Arch-Lich*  ] Giselle <~Pirate~>
+[ \*Arch-Lich\* ] Giselle \<\~Pirate\~\>
 
-[  *Overlord*   ] Bazilus the Crazy Python, ask if you want know firewind spell
+[ \*Overlord\* ] Bazilus the Crazy Python, ask if you want know firewind spell
 
-[  *Overlord*   ] Sarge <~KNIGHTS~> :)
+[ \*Overlord\* ] Sarge \<\~KNIGHTS\~\> <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-[  *Hierarch*   ] Madmax Thanks Enea <*GT*>
+[ \*Hierarch\* ] Madmax Thanks Enea \<\*GT\*\>
 
-[  *Hierarch*   ] Doc {GAIDIN}
+[ \*Hierarch\* ] Doc {GAIDIN}
 
-[  *Patriarch*  ] Yinao ~Dragonsworn~ Avatard in [858 Million XPS]
+[ \*Patriarch\* ] Yinao \~Dragonsworn\~ Avatard in [858 Million XPS]
 
-*** Press return ***
+\*\*\* Press return \*\*\*
 
-[  *Archmage*   ] Nomic  ~Dragonsworn~
+[ \*Archmage\* ] Nomic \~Dragonsworn\~
 
-[  *Harvester*  ] Stryx  *Changeling* ~[DoW]~
+[ \*Harvester\* ] Stryx \*Changeling\* \~[DoW]\~
 
-[  *Diabolist*  ] Adagio bleh [[[SK]]]
+[ \*Diabolist\* ] Adagio bleh [[[SK]]]
 
-[   *Brigand*   ] Adrix Give me the drug, keep me alive!
+[ \*Brigand\* ] Adrix Give me the drug, keep me alive!
 
-[ *Skinwalker*  ] Elwin
+[ \*Skinwalker\* ] Elwin
 
-[  *Conjurer*   ] Messiaen ~sapphire~
+[ \*Conjurer\* ] Messiaen \~sapphire\~
 
-[*Elementalist* ] Abone ~sapphire~
+[\*Elementalist\* ] Abone \~sapphire\~
 
-[ *Thaumaturge* ] Dio the Dark Arch-Magi
+[ \*Thaumaturge\* ] Dio the Dark Arch-Magi
 
-[ *Thaumaturge* ] Pisces  Now with 50% less drama!
+[ \*Thaumaturge\* ] Pisces Now with 50% less drama!
 
-[  *Guardian*   ] Teron wtb/wtt: aegis
+[ \*Guardian\* ] Teron wtb/wtt: aegis
 
-[  *Guardian*   ] Tinct maxed his healbonus
+[ \*Guardian\* ] Tinct maxed his healbonus
 
-[ *Hierophant*  ] Assirian {Greedy}
+[ \*Hierophant\* ] Assirian {Greedy}
 
-[  *Theurgist*  ] Laman ~DS~ Controlhorde/flesgolem
+[ \*Theurgist\* ] Laman \~DS\~ Controlhorde/flesgolem
 
-[    *Rogue*    ] Anguish (null)
+[ \*Rogue\* ] Anguish (null)
 
-[  *Defender*   ] Therum
+[ \*Defender\* ] Therum
 
-[  *Magician*   ] Krystal  needs to concentrate more
+[ \*Magician\* ] Krystal needs to concentrate more
 
-[   *Bandit*    ] Geneieve  All smiles!!!!
+[ \*Bandit\* ] Geneieve All smiles!!!!
 
-[  *Cabalist*   ] Pooka ~Dragonsworn~
+[ \*Cabalist\* ] Pooka \~Dragonsworn\~
 
-[     *Wit*     ] Jacinda shrug
+[ \*Wit\* ] Jacinda shrug
 
-[    *Seer*     ] Kull ~dragonsworn~
+[ \*Seer\* ] Kull \~dragonsworn\~
 
 [40c 40m 40t 38w] Stump
 
@@ -120,15 +120,15 @@ who
 
 [40b 40m 40c 31o] Elseh sings about Thule snow.
 
-[40m 40c 40n 28o] Poit :X ~[DoW]~
+[40m 40c 40n 28o] Poit :X \~[DoW]\~
 
-[40m 40d 40c 24o] Adun ~Dragonsworn~
+[40m 40d 40c 24o] Adun \~Dragonsworn\~
 
-[40o 40t 38w 27c] Banedon ~CLANLESS~ 600m to Lyme
+[40o 40t 38w 27c] Banedon \~CLANLESS\~ 600m to Lyme
 
-[40w 40m 38t 20c] Doink  3x40 by 2008...I swear!!
+[40w 40m 38t 20c] Doink 3x40 by 2008...I swear!!
 
-*** Press return ***
+\*\*\* Press return \*\*\*
 
 [40d 40c 32n 22b] Cauliflower (null)
 
@@ -140,7 +140,7 @@ who
 
 [40t 31m 25c 20w] Jynx ^
 
-[40t 24o 23b 21c] Theca  Conspiring Thief
+[40t 24o 23b 21c] Theca Conspiring Thief
 
 [39m 37c 31t 16w] Raen .
 
@@ -150,15 +150,15 @@ who
 
 [20w 20c 20n 10m] Jarg wtb/wtt jjd cp: Gleaming Mace, Dirty Smelly Scarf
 
-[20b 17d  9c  4o] Glenna the Most Magnificent
+[20b 17d 9c 4o] Glenna the Most Magnificent
 
-[20m 16d  8c  5o] Xiao Mai is learning the hard way
+[20m 16d 8c 5o] Xiao Mai is learning the hard way
 
-[20d 13w 10c  6m] Absitha the wanderer.
+[20d 13w 10c 6m] Absitha the wanderer.
 
-[20t 12b  8m  6c] Volke Boss is gone. I can quest now
+[20t 12b 8m 6c] Volke Boss is gone. I can quest now
 
-[20w  8o  0m  0c] Kron  Cry Havoc... Let Loose the Dogs of War!
+[20w 8o 0m 0c] Kron Cry Havoc... Let Loose the Dogs of War!
 
 [17t 18m 18c 14w] Stun in search of spellbooks
 
@@ -172,165 +172,166 @@ Highest total since last bootup: 68.
 
 Atwell is leading 'The Dangerous Explorers' on Niebelung:
 
-            (Wa:5.40)   Atwell
+ (Wa:5.40) Atwell
 
-            (Wa:5.40)   Toxis
+ (Wa:5.40) Toxis
 
-            (Wa:5.40)   Bit
+ (Wa:5.40) Bit
 
-            (Wa:5.40)   Sarge
+ (Wa:5.40) Sarge
 
-            (Wa:5.40)   Weasel
+ (Wa:5.40) Weasel
 
-            (Wa:5.40)   Lob
+ (Wa:5.40) Lob
 
-            (Wa:5.40)   Kong
+ (Wa:5.40) Kong
 
-            (Wa:4.11)   Therum
+ (Wa:4.11) Therum
 
-            (Th:4.13)   Anguish
+ (Th:4.13) Anguish
 
-            (Cl:5.40)   Doc
+ (Cl:5.40) Doc
 
-            (Mo:2.38)   Banedon
+ (Mo:2.38) Banedon
 
-            (Wa:4.17)   Teron
+ (Wa:4.17) Teron
 
-            (Ma:5.40)   Brady
+ (Ma:5.40) Brady
 
-            (Ma:5.40)   Edd
+ (Ma:5.40) Edd
 
-            (Cl:4.15)   Assirian
+ (Cl:4.15) Assirian
 
-            (Ma:3.24)   Adun
+ (Ma:3.24) Adun
 
-           (Immortal)   Akasha
+ (Immortal) Akasha
 
-            (Ma:5.40)   Truth
+ (Ma:5.40) Truth
 
-            (Wa:4.17)   Tinct
+ (Wa:4.17) Tinct
 
-            (Cl:5.40)   Madmax
+ (Cl:5.40) Madmax
 
-            (Cl:3.38)   Stump
+ (Cl:3.38) Stump
 
-            (Th:4.08)   Geneieve
+ (Th:4.08) Geneieve
 
-            (Ma:4.19)   Dio
+ (Ma:4.19) Dio
 
-            (Th:0.20)   Volke
+ (Th:0.20) Volke
 
-            (Ma:0.20)   Xiao
+ (Ma:0.20) Xiao
 
-            (Wa:3.31)   Mog
+ (Wa:3.31) Mog
 
-*** Press return ***
+\*\*\* Press return \*\*\*
 
-            (Wa:5.40)   Bazilus
+ (Wa:5.40) Bazilus
 
-            (Ne:5.40)   Giselle
+ (Ne:5.40) Giselle
 
-            (Ma:4.18)   Pisces
+ (Ma:4.18) Pisces
 
-            (Mo:2.31)   Aviendha
+ (Mo:2.31) Aviendha
 
-            (Ma:5.40)   Chi
+ (Ma:5.40) Chi
 
-            (Ma:4.13)   Laman
+ (Ma:4.13) Laman
 
-            (Ba:0.20)   Glenna
+ (Ba:0.20) Glenna
 
-            (Ma:4.05)   Kull
+ (Ma:4.05) Kull
 
-            (Cl:2.31)   Rk
+ (Cl:2.31) Rk
 
-            (Cl:4.39)   Yinao
+ (Cl:4.39) Yinao
 
-            (Mo:0.37)   Marvel
+ (Mo:0.37) Marvel
 
-            (Dr:2.32)   Cauliflower
+ (Dr:2.32) Cauliflower
 
-            (Wa:2.38)   Doink
+ (Wa:2.38) Doink
 
-            (Wa:0.20)   Jarg
+ (Wa:0.20) Jarg
 
-            (Th:5.40)   Autolycos
+ (Th:5.40) Autolycos
 
-            (Ma:4.24)   Messiaen
+ (Ma:4.24) Messiaen
 
-            (Ma:2.23)   Savvy
+ (Ma:2.23) Savvy
 
-            (Ba:3.31)   Elseh
+ (Ba:3.31) Elseh
 
-            (Ne:4.27)   Adagio
+ (Ne:4.27) Adagio
 
-            (Ba:5.40)   Minstrel
+ (Ba:5.40) Minstrel
 
-            (Th:1.24)   Theca
+ (Th:1.24) Theca
 
-            (Ma:4.38)   Nomic
+ (Ma:4.38) Nomic
 
-            (Ne:5.40)   Quake
+ (Ne:5.40) Quake
 
-            (Mo:0.36)   Tsuman
+ (Mo:0.36) Tsuman
 
-            (Th:5.40)   Romano
+ (Th:5.40) Romano
 
-            (Dr:4.35)   Stryx
+ (Dr:4.35) Stryx
 
-            (Ma:3.28)   Poit
+ (Ma:3.28) Poit
 
-            (Ma:5.40)   Rynquald
+ (Ma:5.40) Rynquald
 
-*** Press return ***
+\*\*\* Press return \*\*\*
 
-            (Dr:4.20)   Abone
+ (Dr:4.20) Abone
 
-            (Cl:5.40)   Mosaix
+ (Cl:5.40) Mosaix
 
-            (Ba:4.06)   Jacinda
+ (Ba:4.06) Jacinda
 
-            (Dr:5.40)   Daedalus
+ (Dr:5.40) Daedalus
 
-            (Mo:3.33)   Kortezz
+ (Mo:3.33) Kortezz
 
-            (Ne:4.06)   Pooka
+ (Ne:4.06) Pooka
 
-            (Th:0.18)   Stun
+ (Th:0.18) Stun
 
-            (Ma:0.39)   Raen
+ (Ma:0.39) Raen
 
-            (Dr:4.25)   Elwin
+ (Dr:4.25) Elwin
 
-            (Ma:4.10)   Krystal
+ (Ma:4.10) Krystal
 
 </div>
 
 <div class="post" data-post-id="18739" data-author="firebrand" data-date="2007-05-31T14:19:12+00:00" data-subject="">
 
-*** Press return ***[/quote:2z12m2lm]
+> <strong>Yinao wrote:</strong>
+> \*\*\* Press return \*\*\*
 
-got a new command for you, darlin: it's called lines.  type lines 200.  it will make that press return line go away for most things.
+got a new command for you, darlin: it's called lines. type lines 200. it will make that press return line go away for most things.
 
-"do you think i'd speak for you? i don't even know your language." --bender -->breakfast club
+"do you think i'd speak for you? i don't even know your language." --bender --\>breakfast club
 
 </div>
 
 <div class="post" data-post-id="18745" data-author="Rynquald" data-date="2007-05-31T21:59:01+00:00" data-subject="">
 
-Not having everything scroll off the top of the screen when you're looking at long lists can be nice though :)
+Not having everything scroll off the top of the screen when you're looking at long lists can be nice though <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="18748" data-author="Yinao" data-date="2007-05-31T22:59:18+00:00" data-subject="">
 
-Reb im pretty sure I know how to use the command considering I set it at what its currently set at. I prefer to see lists where I dont have to scroll half way up the screen to see what im looking for. I could be like yourself and explode "I know how to use this stupid f****** bull**** I been playing this mud for 7 f****** years yadda yadda but whatever :)"
+Reb im pretty sure I know how to use the command considering I set it at what its currently set at. I prefer to see lists where I dont have to scroll half way up the screen to see what im looking for. I could be like yourself and explode "I know how to use this stupid f\*\*\*\*\*\* bull\*\*\*\* I been playing this mud for 7 f\*\*\*\*\*\* years yadda yadda but whatever <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">"
 
 </div>
 
 <div class="post" data-post-id="18749" data-author="Autolycos" data-date="2007-06-01T00:00:36+00:00" data-subject="">
 
-she might have been playing a long time... but she surely doesn't know much..  reb is an uber-noob.
+she might have been playing a long time... but she surely doesn't know much.. reb is an uber-noob.
 
 </div>
 
@@ -348,6 +349,6 @@ And sumpin sumpin for FB
 
 much love
 
-[<LINK_TEXT text="http://www.yourdailymedia.com/media/117 ... 00_Numbers">http://www.yourdailymedia.com/media/1179595960/100_Movies_100_Quotes_100_Numbers</LINK_TEXT>](http://www.yourdailymedia.com/media/1179595960/100_Movies_100_Quotes_100_Numbers)
+[http://www.yourdailymedia.com/media/1179595960/100_Movies_100_Quotes_100_Numbers](http://www.yourdailymedia.com/media/1179595960/100_Movies_100_Quotes_100_Numbers)
 
 </div>

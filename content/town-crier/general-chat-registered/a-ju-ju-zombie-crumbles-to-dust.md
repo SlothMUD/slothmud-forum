@@ -22,7 +22,7 @@ Melanthe
 
 <div class="post" data-post-id="13219" data-author="kjartan" data-date="2006-06-30T15:59:49+00:00" data-subject="">
 
-Either it's a bug or it's something nobody told me about.  I would say 50/50.
+Either it's a bug or it's something nobody told me about. I would say 50/50.
 
 </div>
 
@@ -30,7 +30,7 @@ Either it's a bug or it's something nobody told me about.  I would say 50/50.
 
 Ok, I can't immediately say what the bug is, but here's some advice:
 
-When the juju zombie appears, his first action is to follow you.  He does this the same way anybody else does it, and if for some reason the 'follow' command fails, (for instance, if he can't see you), then in a few seconds he will decide he's a masterless juju zombie and crumble.
+When the juju zombie appears, his first action is to follow you. He does this the same way anybody else does it, and if for some reason the 'follow' command fails, (for instance, if he can't see you), then in a few seconds he will decide he's a masterless juju zombie and crumble.
 
 </div>
 
@@ -46,7 +46,7 @@ Melanthe
 
 pretty sure thats not the problem. as we (that would be you and I) discussed while I was in Addict (yeah, thats me too), darkness was causing my juju to crumble...the juju couldnt see me, had no one to follow (this seems to be what kjarttan is indirectly saying...juju tries to follow but he cant see you so the follow command fails) so it crumbles.
 
-Of course, I've been wrong before and I dont really play my necro too much so who knows.  That's my theory though and I'm stickin to it.
+Of course, I've been wrong before and I dont really play my necro too much so who knows. That's my theory though and I'm stickin to it.
 
 On a side note, I think juju's should aito-crumble upon being ordered to dance.
 
@@ -54,17 +54,24 @@ On a side note, I think juju's should aito-crumble upon being ordered to dance.
 
 <div class="post" data-post-id="13238" data-author="Weasel" data-date="2006-07-02T00:57:50+00:00" data-subject="">
 
-On a side note, I think juju's should aito-crumble upon being ordered to dance.[/quote:ve7hw0v7]
+> <strong>Roadrunr wrote:</strong>
+> On a side note, I think juju's should aito-crumble upon being ordered to dance.
 
-nah, make them explode - far more entertaining.  :twisted:
+nah, make them explode - far more entertaining. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="13239" data-author="Roadrunr" data-date="2006-07-02T01:14:14+00:00" data-subject="">
 
-On a side note, I think juju's should aito-crumble upon being ordered to dance.[/quote:nf1df0lq]
-
-nah, make them explode - far more entertaining.  :twisted:[/quote:nf1df0lq]
+> <strong>Weasel wrote:</strong>
+> > <strong>Roadrunr wrote:</strong>
+> > On a side note, I think juju's should aito-crumble upon being ordered to dance.
+> 
+> 
+> 
+> 
+> 
+> nah, make them explode - far more entertaining. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 oooo with possibility of death proc on the one issuing the orders?
 
@@ -88,7 +95,7 @@ Melanthe
 
 <div class="post" data-post-id="13244" data-author="kjartan" data-date="2006-07-02T14:01:39+00:00" data-subject="">
 
-I think if you order it successfully, that means it has already followed you.  It wouldn't obey you if it wasn't following you.  Roadrunr is right about the darkness.  (Also, it follows you immediately upon being summoned, there's no time for you to do anything before it follows you.)
+I think if you order it successfully, that means it has already followed you. It wouldn't obey you if it wasn't following you. Roadrunr is right about the darkness. (Also, it follows you immediately upon being summoned, there's no time for you to do anything before it follows you.)
 
 </div>
 
@@ -108,7 +115,7 @@ Or can the summon juju code be modified so it just follows regardless of whether
 
 <div class="post" data-post-id="13248" data-author="Melanthe" data-date="2006-07-02T23:27:42+00:00" data-subject="">
 
-Another problem I've seen is what just happened to me today.  I logged out really quick to fix a weight bug, logged back in and my juju charm crumbled.  Lol logged out to fix a bug only to get another bug.
+Another problem I've seen is what just happened to me today. I logged out really quick to fix a weight bug, logged back in and my juju charm crumbled. Lol logged out to fix a bug only to get another bug.
 
 Melanthe
 
@@ -116,7 +123,7 @@ Melanthe
 
 <div class="post" data-post-id="13250" data-author="kjartan" data-date="2006-07-03T01:57:15+00:00" data-subject="">
 
-I have made it so jujus have innate darksight, which means it's already up when they load.  Hopefully this won't happen any more.
+I have made it so jujus have innate darksight, which means it's already up when they load. Hopefully this won't happen any more.
 
 </div>
 
@@ -130,6 +137,6 @@ Woot thanks!
 
 Dark cloak may still cause a summon to occasionally fail, but in a lit room that is pretty rare and hasn't been a problem for Acme.
 
-I am glad that darkness won't impede summoning now though. :)
+I am glad that darkness won't impede summoning now though. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

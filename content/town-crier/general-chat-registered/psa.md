@@ -24,7 +24,7 @@ fill a pint glass about 3/4 of the way up with Guiness (Murphys works in a pinch
 
 drop the shotglass into the middle of the pintglass
 
-chugalug!  (no, really... if these mix, it tastes really, really awful)
+chugalug! (no, really... if these mix, it tastes really, really awful)
 
 may the winds of furtune speed you
 
@@ -32,53 +32,62 @@ may you sail a gentle sea
 
 may it always be someone else who says "The drinks are on me!"
 
-Happy St. Patricks Day![/color:1aa5hskt][/size:1aa5hskt]
+Happy St. Patricks Day!
 
 </div>
 
 <div class="post" data-post-id="11433" data-author="Corinn" data-date="2006-03-17T19:21:15+00:00" data-subject="">
 
-I've been doing these for years.  They're so good.
+I've been doing these for years. They're so good.
 
 I once described this to a friend of mine who is from Ireland because he's never heard of them and he replied "Ugh, what a terrible waste of Guinness"
 
 He also told me a couple of good jokes:
 
-Q:  Have you heard of the Irish guy who left the Pub?
+Q: Have you heard of the Irish guy who left the Pub?
 
-A:  It could happen...
+A: It could happen...
 
-An Englishman, a Scotsman, and an Irishman are sitting in a pub and each order a Guinness.  Amazingly, a fly lands in each of their beers at the same time.  The Englishman pushes his away, and tells the barman "Bring me another, I will not drink this filth!"  The Scotsman just shrugs, flicks the fly out of the glass and drinks away.  The Irishman picks the fly out of his glass, holds it by each wing and says "SPIT IT OUT YA BASTARD!!"
+An Englishman, a Scotsman, and an Irishman are sitting in a pub and each order a Guinness. Amazingly, a fly lands in each of their beers at the same time. The Englishman pushes his away, and tells the barman "Bring me another, I will not drink this filth!" The Scotsman just shrugs, flicks the fly out of the glass and drinks away. The Irishman picks the fly out of his glass, holds it by each wing and says "SPIT IT OUT YA BASTARD!!"
 
 Happy St. Patty's Day!
 
--Corinn (Pisces/Skime)
+\-Corinn (Pisces/Skime)
 
 </div>
 
 <div class="post" data-post-id="11435" data-author="Leaf" data-date="2006-03-17T19:25:31+00:00" data-subject="Re: PSA">
 
-for those of you who are pondering the green beer, an alternative for tonite - 
-
-the Irish CarBomb
-
-take the biggest shotglass you can find
-
-fill it half with Jamesons, half with Bailys
-
-fill a pint glass about 3/4 of the way up with Guiness (Murphys works in a pinch)
-
-drop the shotglass into the middle of the pintglass
-
-chugalug!  (no, really... if these mix, it tastes really, really awful)
-
-Happy St. Patricks Day![/color:2mrqd5yy][/size:2mrqd5yy][/quote:2mrqd5yy]
+> <strong>Alberich wrote:</strong>
+> for those of you who are pondering the green beer, an alternative for tonite - 
+> 
+> 
+> 
+> 
+> 
+> the Irish CarBomb
+> 
+> take the biggest shotglass you can find
+> 
+> fill it half with Jamesons, half with Bailys
+> 
+> fill a pint glass about 3/4 of the way up with Guiness (Murphys works in a pinch)
+> 
+> drop the shotglass into the middle of the pintglass
+> 
+> chugalug! (no, really... if these mix, it tastes really, really awful)
+> 
+> 
+> 
+> 
+> 
+> Happy St. Patricks Day!
 
 I never understood the science of dropping a shot into a drink and chuggin
 
-it down.  I mean they mix in your mouth and everything.  You will taste
+it down. I mean they mix in your mouth and everything. You will taste
 
-the Guiness, Jameson, and Bailys.  Why not drink the shot first, and chase
+the Guiness, Jameson, and Bailys. Why not drink the shot first, and chase
 
 it down with the Guiness?
 
@@ -86,19 +95,18 @@ it down with the Guiness?
 
 <div class="post" data-post-id="11439" data-author="Autolycos" data-date="2006-03-17T19:42:03+00:00" data-subject="Re: PSA">
 
-the Irish CarBomb
-
-take the biggest shotglass you can find
-
-fill it half with Jamesons, half with Bailys
-
-fill a pint glass about 3/4 of the way up with Guiness (Murphys works in a pinch)
-
-drop the shotglass into the middle of the pintglass
-
-chugalug!  (no, really... if these mix, it tastes really, really awful)
-
-[/quote:1zeodx34]
+> <strong>Alberich wrote:</strong>
+> the Irish CarBomb
+> 
+> take the biggest shotglass you can find
+> 
+> fill it half with Jamesons, half with Bailys
+> 
+> fill a pint glass about 3/4 of the way up with Guiness (Murphys works in a pinch)
+> 
+> drop the shotglass into the middle of the pintglass
+> 
+> chugalug! (no, really... if these mix, it tastes really, really awful)
 
 sounds much better then an Iraqi Car Bomb 
 
@@ -110,13 +118,13 @@ fill a pint glass about 3/4 of the way up with gasoline (diesel works in a pinch
 
 drop the shotglass into the middle of your lap
 
-yell really loud  (no, really loud... think of your 100 virgins.. and lighter up!)
+yell really loud (no, really loud... think of your 100 virgins.. and lighter up!)
 
 </div>
 
 <div class="post" data-post-id="11454" data-author="brand" data-date="2006-03-17T21:14:05+00:00" data-subject="">
 
-yeah!  gonna get tanked... tonight.
+yeah! gonna get tanked... tonight.
 
 best specials in madison,WI are...
 
@@ -128,35 +136,39 @@ and being it's friday half the free world just got paid.
 
 sweet.
 
-brand :twisted:
+brand <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
-postscript:  your first 2 are on me if i'm there otherwise...they're not.  I'll be the guy in the green shirt.
+postscript: your first 2 are on me if i'm there otherwise...they're not. I'll be the guy in the green shirt.
 
 </div>
 
 <div class="post" data-post-id="11455" data-author="Leaf" data-date="2006-03-17T21:20:27+00:00" data-subject="">
 
-Actually I get paid every 15 and 30/31 of each month. :)
+Actually I get paid every 15 and 30/31 of each month. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-Also I'm guessing the mix beer Black & Tan is a Irish beer?
+Also I'm guessing the mix beer Black \& Tan is a Irish beer?
 
 </div>
 
 <div class="post" data-post-id="11456" data-author="Alberich" data-date="2006-03-17T21:21:21+00:00" data-subject="">
 
-don't know about drink specials but if anyones in Chicago, head up to the Metro for the Tossers gig and I'll buy you drinks :)
+don't know about drink specials but if anyones in Chicago, head up to the Metro for the Tossers gig and I'll buy you drinks <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="11457" data-author="Guinex" data-date="2006-03-17T21:22:26+00:00" data-subject="">
 
-[quote:1cwcpnnz]Actually I get paid every 15 and 30/31 of each month. Smile[/quote:1cwcpnnz]I thought you worked on rice n larpenter more often than that.  You must be loosing customers.  :evil:
+> <strong>Quote:</strong>
+> Actually I get paid every 15 and 30/31 of each month. Smile
+
+I thought you worked on rice n larpenter more often than that. You must be loosing customers. <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="11458" data-author="Leaf" data-date="2006-03-17T21:24:44+00:00" data-subject="">
 
-don't know about drink specials but if anyones in Chicago, head up to the Metro for the Tossers gig and I'll buy you drinks :)[/quote:27xgezur]
+> <strong>Alberich wrote:</strong>
+> don't know about drink specials but if anyones in Chicago, head up to the Metro for the Tossers gig and I'll buy you drinks <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 I didn't know Alberich live near Chicago....
 
@@ -164,7 +176,8 @@ I didn't know Alberich live near Chicago....
 
 <div class="post" data-post-id="11459" data-author="Leaf" data-date="2006-03-17T21:27:00+00:00" data-subject="">
 
-I thought you worked on rice n larpenter more often than that.  You must be loosing customers.  :evil:[/quote:2qj6v33b]
+> <strong>Guinex wrote:</strong>
+> I thought you worked on rice n larpenter more often than that. You must be loosing customers. <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 Naw G, cash only ya little fat ugly phucker!
 
@@ -172,11 +185,17 @@ Naw G, cash only ya little fat ugly phucker!
 
 <div class="post" data-post-id="11460" data-author="Alberich" data-date="2006-03-17T21:47:42+00:00" data-subject="">
 
-don't know about drink specials but if anyones in Chicago, head up to the Metro for the Tossers gig and I'll buy you drinks :)[/quote:1rrj4cm0]
+> <strong>Leaf wrote:</strong>
+> > <strong>Alberich wrote:</strong>
+> > don't know about drink specials but if anyones in Chicago, head up to the Metro for the Tossers gig and I'll buy you drinks <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
+> 
+> 
+> 
+> 
+> 
+> I didn't know Alberich live near Chicago....
 
-I didn't know Alberich live near Chicago....[/quote:1rrj4cm0]
-
-<----  (location)
+\<---- (location)
 
 </div>
 
@@ -184,9 +203,9 @@ I didn't know Alberich live near Chicago....[/quote:1rrj4cm0]
 
 Hehe cool,
 
-I live in Plainfield, which is a wee bit south hehehe.  However I work in 
+I live in Plainfield, which is a wee bit south hehehe. However I work in 
 
-Chicago at LaSalle Bank.  
+Chicago at LaSalle Bank. 
 
 Ironwolf lives near Chicago, and Ki lives near me in Plainfield (never met).
 
@@ -204,7 +223,7 @@ $2 Shots of Jameson at Clancys
 
 $3.75 Ball Jar filled with Whiskey at Clancys
 
-(actually these aren't specials they are the regular price of my drinking enviorment, please help me, I can't afford not to drink :twisted: )
+(actually these aren't specials they are the regular price of my drinking enviorment, please help me, I can't afford not to drink <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> )
 
 Rats off to Ya!
 
@@ -224,11 +243,12 @@ Fuggin cheese head, im in minnesota O ima gonna bring my undead and eat some che
 
 <div class="post" data-post-id="11493" data-author="Autolycos" data-date="2006-03-18T14:48:41+00:00" data-subject="">
 
-Hehe cool,  I live in Plainfield, which is a wee bit south hehehe.  However I work in Chicago at LaSalle Bank.[/quote:1cc1eca2]
+> <strong>Leaf wrote:</strong>
+> Hehe cool, I live in Plainfield, which is a wee bit south hehehe. However I work in Chicago at LaSalle Bank.
 
-*dials phone*
+\*dials phone\*
 
-hello police?  there is a delusional asian guy trying to rob the laSalle bank here in Chicago... he is armed and mentally unstable.. he is yelling at the other patrons and waving his hands about...  he is 5'6" and wearing a janitors jumpsuit..  
+hello police? there is a delusional asian guy trying to rob the laSalle bank here in Chicago... he is armed and mentally unstable.. he is yelling at the other patrons and waving his hands about... he is 5'6" and wearing a janitors jumpsuit.. 
 
 HURRY!!!!
 
@@ -244,7 +264,7 @@ Man Chicago is just getting too crowded ....
 
 <div class="post" data-post-id="11518" data-author="brady" data-date="2006-03-19T19:47:52+00:00" data-subject="">
 
-A shining moment.  Sometimes J, you are fuggin hilarious!  But how many times do I gotta tell you?  Stay away from the GD US Navy! :twisted:  :shock:
+A shining moment. Sometimes J, you are fuggin hilarious! But how many times do I gotta tell you? Stay away from the GD US Navy! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -252,16 +272,16 @@ A shining moment.  Sometimes J, you are fuggin hilarious!  But how many times do
 
 Does Jim still play here?
 
-Also Auto, I'm 5'10 and work for corp lvl.  I don't deal with pestly little ppl
+Also Auto, I'm 5'10 and work for corp lvl. I don't deal with pestly little ppl
 
-like urself :)  Unless ur company is willing to pay LaSalle at least $100k
+like urself <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> Unless ur company is willing to pay LaSalle at least $100k
 
-worth of service fees :).  Then by all means, open an account with us :)
+worth of service fees <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">. Then by all means, open an account with us <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="11539" data-author="Autolycos" data-date="2006-03-20T05:30:02+00:00" data-subject="">
 
-yawn.. Will...  my companies trash service would not use such a small bank as yours
+yawn.. Will... my companies trash service would not use such a small bank as yours
 
 </div>

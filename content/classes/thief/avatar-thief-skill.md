@@ -14,7 +14,7 @@ post_count: 1
 
 Cut Throat
 
-This skill allows a thief to cut the throat of a victim.  Lowering the ability of a mob to cast a spell and also causing the victim to slowly loose hp.
+This skill allows a thief to cut the throat of a victim. Lowering the ability of a mob to cast a spell and also causing the victim to slowly loose hp.
 
 Also with this skill in perhaps clerics could have a spell to remove this injury.
 

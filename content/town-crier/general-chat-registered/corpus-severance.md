@@ -36,7 +36,7 @@ This is a spell that gives no benefit to the person casting it but potentially b
 
 zmud Trigger to gossip the report:
 
-^(%w) ({intones}) '(*)'$
+^(%w) ({intones}) '(\*)'$
 
 gossip Corpus Severance : %3
 
@@ -54,7 +54,7 @@ cast 'corpus severance'
 
 <div class="post" data-post-id="31735" data-author="Stab" data-date="2010-09-08T00:06:35+00:00" data-subject="Re: Corpus Severance">
 
-Thanks for posting the benefits of keeping corpus up thraxas. My understanding ,gleaned some time ago, is that I get the 'who' part consistantly by name for anyone added to my friends list, a 'someone' for peeps not added. The 'where' part may be a masterful??  use  friends, friends add etc. help friends. Good spell.
+Thanks for posting the benefits of keeping corpus up thraxas. My understanding ,gleaned some time ago, is that I get the 'who' part consistantly by name for anyone added to my friends list, a 'someone' for peeps not added. The 'where' part may be a masterful?? use friends, friends add etc. help friends. Good spell.
 
 Stab
 
@@ -76,7 +76,7 @@ Thraxas had to learn that snow bird is nasty mob. Stop dying in Aisholm Town!
 
 <div class="post" data-post-id="31756" data-author="Thraxas" data-date="2010-09-14T15:39:31+00:00" data-subject="Re: Corpus Severance">
 
-> **Vixn wrote:**
+> <strong>Vixn wrote:</strong>
 > Thraxas had to learn that snow bird is nasty mob. Stop dying in Aisholm Town!
 
 Chuckle yeah those snow birds are deadly.

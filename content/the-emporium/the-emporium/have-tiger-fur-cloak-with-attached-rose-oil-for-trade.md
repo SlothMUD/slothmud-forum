@@ -12,7 +12,7 @@ post_count: 9
 
 <div class="post" data-post-id="13014" data-author="Medios" data-date="2006-06-17T21:55:38+00:00" data-subject="Have tiger fur cloak with attached rose oil for trade">
 
-Rose oil cant be removed so its on there for some lucky bard.  If anyone has interest lets work out something.
+Rose oil cant be removed so its on there for some lucky bard. If anyone has interest lets work out something.
 
 Mike
 
@@ -20,7 +20,7 @@ Mike
 
 <div class="post" data-post-id="13016" data-author="13" data-date="2006-06-18T02:31:29+00:00" data-subject="">
 
-[img:3m35z1if]http://i32.photobucket.com/albums/d22/IceColdMug/cowbelly.jpg[/img:3m35z1if]
+![](http://i32.photobucket.com/albums/d22/IceColdMug/cowbelly.jpg)
 
 </div>
 
@@ -50,7 +50,7 @@ What do you want for that cloak, Medios?
 
 <div class="post" data-post-id="13026" data-author="Medios" data-date="2006-06-18T15:40:33+00:00" data-subject="">
 
-Im not looking for much right now.  I was hoping to find someone with a tiger fur that wasnt clasped and trade, possibly with a few coins.  If the only deal i can work out is for coins tho I will prob do it.
+Im not looking for much right now. I was hoping to find someone with a tiger fur that wasnt clasped and trade, possibly with a few coins. If the only deal i can work out is for coins tho I will prob do it.
 
 Mike
 

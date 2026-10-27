@@ -12,11 +12,11 @@ post_count: 4
 
 <div class="post" data-post-id="36326" data-author="Dragoth" data-date="2015-12-17T11:45:12+00:00" data-subject="Fleeing mobs">
 
-Right now we have web and arms of the abyss as the main tool against fleeing mobs, but there are mobs that break that and it turns into a real annoyance and there is nothing that a player can do to combat that **directly**, which really goes against the spirit of the game, there should always exist a tool to deal with whatever situation the game throws at you, at the right level.
+Right now we have web and arms of the abyss as the main tool against fleeing mobs, but there are mobs that break that and it turns into a real annoyance and there is nothing that a player can do to combat that <strong>directly</strong>, which really goes against the spirit of the game, there should always exist a tool to deal with whatever situation the game throws at you, at the right level.
 
 I feel like this is a good chance to utilize some of the skills and spells that have the framework but seemingly provide very little benefit at the moment, like stun or force field. 
 
-Bards also have various songs that affect monsters behaviours and yet there are no songs that can stop a mob from fleeing, which is odd.  
+Bards also have various songs that affect monsters behaviours and yet there are no songs that can stop a mob from fleeing, which is odd. 
 
 If this is an important annoyance, handdam check for stuns, cleric level check for forcefield and charisma check for bard songs could be coded in, so that players level or effort(via an adequate eq set) matches the importance of this annoyance.
 
@@ -42,7 +42,7 @@ In a large group, several warriors should be able to hold back a fleeing pyrohyd
 
 <div class="post" data-post-id="36333" data-author="*juggleblood*" data-date="2015-12-20T18:26:39+00:00" data-subject="Re: Fleeing mobs">
 
-It would be pretty cool if there were a group tactic to prevent fleeing. Maybe something like people in front row can <block mobname>, suffering a 2 penalty to their AC.
+It would be pretty cool if there were a group tactic to prevent fleeing. Maybe something like people in front row can \<block mobname\>, suffering a 2 penalty to their AC.
 
 Then when mob decides to flee, the mob randomly chooses 1 person in the front row to escape past. If that person is not blocking, then the mob automatically flees successfully, but if that person is blocking that mob then some kind of success check is rolled based on their comparative size, level, and primary class of the player.
 

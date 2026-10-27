@@ -38,19 +38,19 @@ Try this function out. It will work on ALL operating systems. It cuts the end of
 
 ```
 function parseExits(event,msdp)
-  MSDP = {}
-  msdp = string.cut(msdp,msdp:len()-2)
-  msdp = string.reverse(msdp)
-  msdp = string.cut(msdp,msdp:len()-2)
-  msdp = string.reverse(msdp)
-  msdp = string.split(msdp,", ")
-  for k,v in pairs(msdp) do
-    msdp[k] = string.split(msdp[k],": ")
-  end
-  for k,v in pairs(msdp) do
-    MSDP[v[1]] = v[2]
-  end
-  return MSDP
+ MSDP = {}
+ msdp = string.cut(msdp,msdp:len()-2)
+ msdp = string.reverse(msdp)
+ msdp = string.cut(msdp,msdp:len()-2)
+ msdp = string.reverse(msdp)
+ msdp = string.split(msdp,", ")
+ for k,v in pairs(msdp) do
+ msdp[k] = string.split(msdp[k],": ")
+ end
+ for k,v in pairs(msdp) do
+ MSDP[v[1]] = v[2]
+ end
+ return MSDP
 end
 ```
 

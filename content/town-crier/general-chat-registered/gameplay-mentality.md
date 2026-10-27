@@ -40,7 +40,7 @@ So why make this random postâ€¦ well for one, I want to know what other area
 
 Epic groups kind of seem to be linearâ€¦ get tanks, get mage, get healo, line up, kill mob, get pointsâ€¦ nextâ€¦ 
 
-[b:20b8r24d]When I think after reading posts from Akasha and Juggleblood, they are actually trying to create a journey/experience for players not mindless +1ism. I think this is why, when everyone dies at a tricky mob people get upset, because the mindset is for the reward, not so much for the experience of playing.[/b:20b8r24d]
+<strong>When I think after reading posts from Akasha and Juggleblood, they are actually trying to create a journey/experience for players not mindless +1ism. I think this is why, when everyone dies at a tricky mob people get upset, because the mindset is for the reward, not so much for the experience of playing.</strong>
 
 I might not want to join epic groups in the near futureâ€¦ but Iâ€™m gonna look at doing the honor quests for sureâ€¦ I like puzzles, not just physical challenges.
 
@@ -50,7 +50,7 @@ A big thanks to the immortals who think outside the LINEAR BOX when they create 
 
 Things donâ€™t need to be big, huge, aggro and killer for a great reward, sometimes they just need to prompt introspectionâ€¦ a puzzle for the player to crack and I think that gives better gameplay.
 
-I guess I could have said all this in a few words, and maybe Yasik is better off skipping to this bitâ€¦ :twisted: 
+I guess I could have said all this in a few words, and maybe Yasik is better off skipping to this bitâ€¦ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 â€œItâ€™s about the journey, not the destination.â€
 
@@ -60,7 +60,7 @@ I guess I could have said all this in a few words, and maybe Yasik is better off
 
 I'd have to say, your example, Autumnal, was far easier when I ran my first 2-3 vk'ers through but by the time I got to thump the things that were easy had been changed and made much more difficult.
 
-as for the +1ism, yeah, that can be a way of life.  I think I'm in a very slow mode of that atm but mostly because I play 1-2 runs at a time and rarely more than an hour total a day anymore.  It's hard to do autoquests and such on 2 runs a day so I dont tend to worry about them too much (although I could have a little more decent eq if I took the time to do autos and forges, it just doesnt work for me right now) and while I probably should just stop playing, I've tried that and it never works so my current method minimizes impact while still allowing me to get my 'fix' and taking the slow road to the few stats I needed on roadrunr.  once I get there, I may be done...who knows. (and by slow road, if I get 1bil xp in a month, it was a good month)
+as for the +1ism, yeah, that can be a way of life. I think I'm in a very slow mode of that atm but mostly because I play 1-2 runs at a time and rarely more than an hour total a day anymore. It's hard to do autoquests and such on 2 runs a day so I dont tend to worry about them too much (although I could have a little more decent eq if I took the time to do autos and forges, it just doesnt work for me right now) and while I probably should just stop playing, I've tried that and it never works so my current method minimizes impact while still allowing me to get my 'fix' and taking the slow road to the few stats I needed on roadrunr. once I get there, I may be done...who knows. (and by slow road, if I get 1bil xp in a month, it was a good month)
 
 </div>
 

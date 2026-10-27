@@ -16,27 +16,27 @@ Please keep entering bugs into the bugs list, help bugs. We usually have lists l
 
 We are down to very few crash bugs and as a result the mud is incredibly stable. Seven days uptime before today's reboot.
 
-- crash fixed where mudl invisible object and corpse are in inventory
+\- crash fixed where mudl invisible object and corpse are in inventory
 
-- crash fixed where shapeshifted person voided with no_rent object
+\- crash fixed where shapeshifted person voided with no\_rent object
 
-- succor fixed so it gives recalls with no value
+\- succor fixed so it gives recalls with no value
 
-- typo for regen config fixed, precense
+\- typo for regen config fixed, precense
 
-- druid dragon form ac fixed to match other dragon forms
+\- druid dragon form ac fixed to match other dragon forms
 
-- stomp works with sitting, stunned, mortally wounded, etc mobs
+\- stomp works with sitting, stunned, mortally wounded, etc mobs
 
-- stomp should no longer work on ethereal mobs
+\- stomp should no longer work on ethereal mobs
 
-- increased change of align for condemnation
+\- increased change of align for condemnation
 
-- fixed extra return in notification of clan member logging in
+\- fixed extra return in notification of clan member logging in
 
-- corpses can no longer be deposited into lockers
+\- corpses can no longer be deposited into lockers
 
-- several runes fixed so that they are socketed
+\- several runes fixed so that they are socketed
 
 Enjoy,
 

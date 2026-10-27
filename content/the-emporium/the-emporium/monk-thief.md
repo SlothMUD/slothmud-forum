@@ -12,11 +12,11 @@ post_count: 2
 
 <div class="post" data-post-id="35783" data-author="Hung" data-date="2015-04-01T08:22:37+00:00" data-subject="Monk-Thief">
 
-1) Hand dam mode
+1\) Hand dam mode
 
-Robocop .  (level: 40)
+Robocop . (level: 40)
 
-Your levels:  Mo: 40 Cl: 40 Th: 40 Dr: 18 Ma: 13 Wa: 13 Ba: 10 Ne: 9 
+Your levels: Mo: 40 Cl: 40 Th: 40 Dr: 18 Ma: 13 Wa: 13 Ba: 10 Ne: 9 
 
 You are 18 years, 5 months, 32 days old.
 
@@ -50,7 +50,7 @@ You have 33341494 unused experience points.
 
 You have been playing for 4 days, 10 hours, 58 minutes.
 
-You are a member of <<M.A.G.I>>.
+You are a member of \<\<M.A.G.I\>\>.
 
 You are well-attuned to the healing stratum.
 
@@ -62,61 +62,61 @@ Your song can affect as many as two people.
 
 You are affected by the following spells:
 
-   Detect Evil                      
+ Detect Evil 
 
-   Detect Good                      
+ Detect Good 
 
-   Detect Invisible                 
+ Detect Invisible 
 
-   Infravision                      
+ Infravision 
 
-   Darksight                        
+ Darksight 
 
-   Resist Fire                      
+ Resist Fire 
 
-   Resist Cold                      
+ Resist Cold 
 
-   Stone Skin
+ Stone Skin
 
-<used as light>      embers of the funeral pyre (with a flawed glowing gem attached to it)
+\<used as light\> embers of the funeral pyre (with a flawed glowing gem attached to it)
 
-<worn on finger>     a man's diamond ring..It has a soft glowing aura!
+\<worn on finger\> a man's diamond ring..It has a soft glowing aura!
 
-<worn on finger>     a man's diamond ring..It has a soft glowing aura!
+\<worn on finger\> a man's diamond ring..It has a soft glowing aura!
 
-<worn around neck>   a thin steel neck circlet (with a red minidemon brooch attached to it)
+\<worn around neck\> a thin steel neck circlet (with a red minidemon brooch attached to it)
 
-<worn around neck>   a thin steel neck circlet (with a purple minidemon brooch attached to it)
+\<worn around neck\> a thin steel neck circlet (with a purple minidemon brooch attached to it)
 
-<worn on body>       a spiked battle tunic..It has a soft glowing aura!
+\<worn on body\> a spiked battle tunic..It has a soft glowing aura!
 
-<worn on head>       a heavy lead mortar bowl
+\<worn on head\> a heavy lead mortar bowl
 
-<worn on legs>       bamboo shin guards (with a single-striped white sash (Private) attached to it)
+\<worn on legs\> bamboo shin guards (with a single-striped white sash (Private) attached to it)
 
-<worn on feet>       sharkskin sandals
+\<worn on feet\> sharkskin sandals
 
-<worn on hands>      gloves of the yellow rose..It emits a faint humming sound!
+\<worn on hands\> gloves of the yellow rose..It emits a faint humming sound!
 
-<worn on arms>       sleeves of black ice..It has a soft glowing aura!
+\<worn on arms\> sleeves of black ice..It has a soft glowing aura!
 
-<worn as shield>     the shield of the ram..It has a soft glowing aura!
+\<worn as shield\> the shield of the ram..It has a soft glowing aura!
 
-<worn about body>    a cloak of shimmering fur..It emits a faint humming sound!
+\<worn about body\> a cloak of shimmering fur..It emits a faint humming sound!
 
-<worn about waist>   an ebony sash
+\<worn about waist\> an ebony sash
 
-<worn around wrist>  an onyx bracelet
+\<worn around wrist\> an onyx bracelet
 
-<worn around wrist>  an onyx bracelet
+\<worn around wrist\> an onyx bracelet
 
-<held>               a mu-jen doll
+\<held\> a mu-jen doll
 
-2) Stab mode (differs by 4 items from previous: body, hands, arms and weapon)
+2\) Stab mode (differs by 4 items from previous: body, hands, arms and weapon)
 
-Robocop .  (level: 40)
+Robocop . (level: 40)
 
-Your levels:  Mo: 40 Cl: 40 Th: 40 Dr: 18 Ma: 13 Wa: 13 Ba: 10 Ne: 9 
+Your levels: Mo: 40 Cl: 40 Th: 40 Dr: 18 Ma: 13 Wa: 13 Ba: 10 Ne: 9 
 
 You are 18 years, 5 months, 32 days old.
 
@@ -150,7 +150,7 @@ You have 33341494 unused experience points.
 
 You have been playing for 4 days, 10 hours, 58 minutes.
 
-You are a member of <<M.A.G.I>>.
+You are a member of \<\<M.A.G.I\>\>.
 
 You are well-attuned to the healing stratum.
 
@@ -162,59 +162,59 @@ Your song can affect as many as two people.
 
 You are affected by the following spells:
 
-   Detect Evil                      
+ Detect Evil 
 
-   Detect Good                      
+ Detect Good 
 
-   Detect Invisible                 
+ Detect Invisible 
 
-   Infravision                      
+ Infravision 
 
-   Darksight                        
+ Darksight 
 
-   Resist Fire                      
+ Resist Fire 
 
-   Resist Cold                      
+ Resist Cold 
 
-   Stone Skin
+ Stone Skin
 
 You are using:
 
-<used as light>      embers of the funeral pyre (with a flawed glowing gem attached to it)
+\<used as light\> embers of the funeral pyre (with a flawed glowing gem attached to it)
 
-<worn on finger>     a man's diamond ring..It has a soft glowing aura!
+\<worn on finger\> a man's diamond ring..It has a soft glowing aura!
 
-<worn on finger>     a man's diamond ring..It has a soft glowing aura!
+\<worn on finger\> a man's diamond ring..It has a soft glowing aura!
 
-<worn around neck>   a thin steel neck circlet (with a red minidemon brooch attached to it)
+\<worn around neck\> a thin steel neck circlet (with a red minidemon brooch attached to it)
 
-<worn around neck>   a thin steel neck circlet (with a purple minidemon brooch attached to it)
+\<worn around neck\> a thin steel neck circlet (with a purple minidemon brooch attached to it)
 
-<worn on body>       a black suit of dwarven platemail
+\<worn on body\> a black suit of dwarven platemail
 
-<worn on head>       a heavy lead mortar bowl
+\<worn on head\> a heavy lead mortar bowl
 
-<worn on legs>       bamboo shin guards (with a single-striped white sash (Private) attached to it)
+\<worn on legs\> bamboo shin guards (with a single-striped white sash (Private) attached to it)
 
-<worn on feet>       sharkskin sandals
+\<worn on feet\> sharkskin sandals
 
-<worn on hands>      riveted steel gauntlets
+\<worn on hands\> riveted steel gauntlets
 
-<worn on arms>       sterling silver sleeves..It has a soft glowing aura!
+\<worn on arms\> sterling silver sleeves..It has a soft glowing aura!
 
-<worn as shield>     the shield of the ram..It has a soft glowing aura!
+\<worn as shield\> the shield of the ram..It has a soft glowing aura!
 
-<worn about body>    a cloak of shimmering fur..It emits a faint humming sound!
+\<worn about body\> a cloak of shimmering fur..It emits a faint humming sound!
 
-<worn about waist>   an ebony sash
+\<worn about waist\> an ebony sash
 
-<worn around wrist>  an onyx bracelet
+\<worn around wrist\> an onyx bracelet
 
-<worn around wrist>  an onyx bracelet
+\<worn around wrist\> an onyx bracelet
 
-<wielded>            Rogue's Dagger
+\<wielded\> Rogue's Dagger
 
-<held>               a mu-jen doll
+\<held\> a mu-jen doll
 
 Starting price: 25m
 

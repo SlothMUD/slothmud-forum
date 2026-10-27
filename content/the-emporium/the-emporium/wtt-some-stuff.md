@@ -14,9 +14,9 @@ post_count: 3
 
 I have:
 
-1 restring maybe 2 :)
+1 restring maybe 2 <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-Luminescent Helm  -.8ac +15mana +wis forge, possibly cant be made anymore as to date no-one knows where spectacles pop since mage tower was taken out.  If you do know where spectacles pop, please tell Blackmore.
+Luminescent Helm -.8ac +15mana +wis forge, possibly cant be made anymore as to date no-one knows where spectacles pop since mage tower was taken out. If you do know where spectacles pop, please tell Blackmore.
 
 String of Yellow Tendon +.1ac +con +5 mana
 

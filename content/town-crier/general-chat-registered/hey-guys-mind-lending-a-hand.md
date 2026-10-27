@@ -14,7 +14,7 @@ post_count: 52
 
 No time to explain!
 
-[<LINK_TEXT text="https://petitions.whitehouse.gov/petiti ... s/h58Fz30V">https://petitions.whitehouse.gov/petition/impose-personal-sanctions-president-ukraine-viktor-yanukovych-and-cabinet-ministers-ukraine-members/h58Fz30V</LINK_TEXT>](https://petitions.whitehouse.gov/petition/impose-personal-sanctions-president-ukraine-viktor-yanukovych-and-cabinet-ministers-ukraine-members/h58Fz30V)
+[https://petitions.whitehouse.gov/petition/impose-personal-sanctions-president-ukraine-viktor-yanukovych-and-cabinet-ministers-ukraine-members/h58Fz30V](https://petitions.whitehouse.gov/petition/impose-personal-sanctions-president-ukraine-viktor-yanukovych-and-cabinet-ministers-ukraine-members/h58Fz30V)
 
 This criminal, who calls himself "President of Ukraine", aint gonna stfu and do what people of this country want him to (to sign Agreement with European Union). Even mass street protests not convincing enough (100k+ just in the capital city, hard to count all around state).
 
@@ -32,7 +32,7 @@ We, the People, got the nessesary 100k votes, thanks to all who joined!
 
 In case anybody wonders what's happening, here's an short explanation : 
 
-[<LINK_TEXT text="http://www.economist.com/blogs/easterna ... kdown-kiev">http://www.economist.com/blogs/easternapproaches/2013/11/crackdown-kiev</LINK_TEXT>](http://www.economist.com/blogs/easternapproaches/2013/11/crackdown-kiev)
+[http://www.economist.com/blogs/easternapproaches/2013/11/crackdown-kiev](http://www.economist.com/blogs/easternapproaches/2013/11/crackdown-kiev)
 
 brb when it all is over, somewhat busy atm, if you know what I'm sayin'
 
@@ -40,7 +40,7 @@ brb when it all is over, somewhat busy atm, if you know what I'm sayin'
 
 <div class="post" data-post-id="34601" data-author="Yasik" data-date="2013-12-02T08:24:12+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
-(image: /[<LINK_TEXT text="https://dl.dropboxusercontent.com/u/721 ... e_else.jpg">https://dl.dropboxusercontent.com/u/72105811/Pics/Go_be_riot_police_somewhere_else.jpg</LINK_TEXT>](https://dl.dropboxusercontent.com/u/72105811/Pics/Go_be_riot_police_somewhere_else.jpg))
+![](https://dl.dropboxusercontent.com/u/72105811/Pics/Go_be_riot_police_somewhere_else.jpg)
 
 Ukraine, Kyiv, 01.12.20013
 
@@ -56,13 +56,13 @@ Clashes near Lenin's monument. Riots escalated after police brutally beaten slee
 
 "Hey guys, where you going? How about cristmas tree? Won't help us set it up?"
 
-PS. [http://www.youtube.com/watch?v=J1RHzYjo5tA](http://www.youtube.com/watch?v=J1RHzYjo5tA)   We all believe that those young men in the park near Cabinet of Ministers are gathered by criminal authorities to turn them into provokers, then use riot police to disperse them all including peaceful protesters. All above is those guys' doing.
+PS. [http://www.youtube.com/watch?v=J1RHzYjo5tA](http://www.youtube.com/watch?v=J1RHzYjo5tA) We all believe that those young men in the park near Cabinet of Ministers are gathered by criminal authorities to turn them into provokers, then use riot police to disperse them all including peaceful protesters. All above is those guys' doing.
 
 </div>
 
 <div class="post" data-post-id="34604" data-author="Yasik" data-date="2013-12-02T15:20:04+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
-Few photos with descriptions: [<LINK_TEXT text="http://www.buzzfeed.com/maxseddon/revol ... ussia-deal">http://www.buzzfeed.com/maxseddon/revolution-in-kiev-over-russia-deal</LINK_TEXT>](http://www.buzzfeed.com/maxseddon/revolution-in-kiev-over-russia-deal)
+Few photos with descriptions: [http://www.buzzfeed.com/maxseddon/revolution-in-kiev-over-russia-deal](http://www.buzzfeed.com/maxseddon/revolution-in-kiev-over-russia-deal)
 
 Very true because I was there and saw with my eyes.
 
@@ -96,195 +96,195 @@ I will post photo-report today at evening.
 
 By request of some our common friends I'm posting a small photo-report.
 
-1. Poster on city-light says: "WANTED for extremely severe crimes! Yanukovich (nicknames Cad, Fir-tree-ovich, Shrek, Thug-ovich. If you know his whereabouts - report to police at once!"
+1\. Poster on city-light says: "WANTED for extremely severe crimes! Yanukovich (nicknames Cad, Fir-tree-ovich, Shrek, Thug-ovich. If you know his whereabouts - report to police at once!"
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/07.12.2013/IMG_20131104_200115.jpg)
 
-2. City-light:" Angry Ukranians". Creature face looks like president Yanukovich.
+2\. City-light:" Angry Ukranians". Creature face looks like president Yanukovich.
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/07.12.2013/IMG_20131104_200621.jpg)
 
-3. "People should not be afraid of theier government. The government should be afraid of its People".
+3\. "People should not be afraid of theier government. The government should be afraid of its People".
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/07.12.2013/IMG_20131107_140528.jpg)
 
-4. Country balls :) Ukraine leaves Russia, comes with EU.
+4\. Country balls <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> Ukraine leaves Russia, comes with EU.
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/07.12.2013/IMG_20131107_140633.jpg)
 
-5. "Mother Ukraine Calls Upon!" Remake of famous World War 2 propaganda poster, face of Julia Timoshenko, former prime minister, now prisoner.
+5\. "Mother Ukraine Calls Upon!" Remake of famous World War 2 propaganda poster, face of Julia Timoshenko, former prime minister, now prisoner.
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/07.12.2013/IMG_20131107_140748.jpg)
 
-6. A warm greeting after his usuccessful trip to China for money loan.
+6\. A warm greeting after his usuccessful trip to China for money loan.
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/07.12.2013/IMG_20131107_140817.jpg)
 
-7. "Will you remain silent again after this bloodshed?!"
+7\. "Will you remain silent again after this bloodshed?!"
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/07.12.2013/IMG_20131107_140915.jpg)
 
-8. Remake of Banksy's graffiti: a guy in mask throwing fir-tree. Main reason to bloody disperse of peaceful students protesters - nessecity of setting up cristmas tree to celebrate New Year, according to mayor.
+8\. Remake of Banksy's graffiti: a guy in mask throwing fir-tree. Main reason to bloody disperse of peaceful students protesters - nessecity of setting up cristmas tree to celebrate New Year, according to mayor.
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/07.12.2013/IMG_20131107_141212.jpg)
 
-9. "Victor, what are you doing? LOLOLO quit it at once".
+9\. "Victor, what are you doing? LOLOLO quit it at once".
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/07.12.2013/IMG_20131107_141258.jpg)
 
-10. Barricades.
+10\. Barricades.
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/07.12.2013/IMG_20131107_141324.jpg)
 
-11. Artifical branches of cristmas tree had new uses.
+11\. Artifical branches of cristmas tree had new uses.
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/07.12.2013/IMG_20131107_141806.jpg)
 
-12. Metal cone carcass supposed to be made into cristmas tree, now used for national flags and posters.
+12\. Metal cone carcass supposed to be made into cristmas tree, now used for national flags and posters.
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/07.12.2013/IMG_20131107_141847.jpg)
 
-13. Square full of people wearing national flags on their shoulders.
+13\. Square full of people wearing national flags on their shoulders.
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/07.12.2013/IMG_20131107_142012.jpg)
 
-14. Tents, barrels with fire, people warming up.
+14\. Tents, barrels with fire, people warming up.
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/07.12.2013/IMG_20131107_142226.jpg)
 
-15. "Demand #1: Resignation of Yanukovich".
+15\. "Demand #1: Resignation of Yanukovich".
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/07.12.2013/IMG_20131107_142310.jpg)
 
-16. "Angry Ukranians".
+16\. "Angry Ukranians".
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/07.12.2013/IMG_20131107_142407.jpg)
 
-17. "Welcome! BUT: Sober only!"
+17\. "Welcome! BUT: Sober only!"
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/07.12.2013/IMG_20131107_142516.jpg)
 
-18. View from afar.
+18\. View from afar.
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/07.12.2013/IMG_20131107_142739.jpg)
 
-19. Another view from afar.
+19\. Another view from afar.
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/07.12.2013/IMG_20131107_143004.jpg)
 
-20. "Freedom or Death (for criminals)".
+20\. "Freedom or Death (for criminals)".
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/07.12.2013/IMG_20131107_143252.jpg)
 
-21. "Now or Never!".
+21\. "Now or Never!".
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/07.12.2013/IMG_20131107_143349.jpg)
 
-22. My favorite :) "AC/DC for EU!"
+22\. My favorite <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> "AC/DC for EU!"
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/07.12.2013/IMG_20131107_143446.jpg)
 
-23. "Have guts to come out to People?".
+23\. "Have guts to come out to People?".
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/07.12.2013/IMG_20131107_143518.jpg)
 
-24. "Crime scene! Criminal government at work.".
+24\. "Crime scene! Criminal government at work.".
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/07.12.2013/IMG_20131107_143645.jpg)
 
-25. Street leading to President's residence. Police behind metal shields can be seen far ahead. Can't come any closer - protesters deny anyone to prevent provocations, which will surely escalate violence.
+25\. Street leading to President's residence. Police behind metal shields can be seen far ahead. Can't come any closer - protesters deny anyone to prevent provocations, which will surely escalate violence.
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/07.12.2013/IMG_20131107_143919.jpg)
 
-26. Here they are - protecting the protectors :)
+26\. Here they are - protecting the protectors <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/07.12.2013/IMG_20131107_143956.jpg)
 
-27. More barricades.
+27\. More barricades.
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/07.12.2013/IMG_20131107_144737.jpg)
 
-28. Remake of famous russian poet Lermontov's verse: "Farewell, unwashed Russia // forgive us, Putin's soviets // for we want to come back to Europe's stead".
+28\. Remake of famous russian poet Lermontov's verse: "Farewell, unwashed Russia // forgive us, Putin's soviets // for we want to come back to Europe's stead".
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/07.12.2013/IMG_20131107_144840.jpg)
 
-29. More barricades. 
+29\. More barricades. 
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/07.12.2013/IMG_20131107_145006.jpg)
 
-30. More barricades. Writing says: "Entrance to Europe".
+30\. More barricades. Writing says: "Entrance to Europe".
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/07.12.2013/IMG_20131107_145051.jpg)
 
-31. Tents. According to Ukranian laws, people's deputy can set up a "meeting place" with his/her voters anywhere anytime. So, they set up meeting place with voters in those tents, right on the street. Problems, government? :D
+31\. Tents. According to Ukranian laws, people's deputy can set up a "meeting place" with his/her voters anywhere anytime. So, they set up meeting place with voters in those tents, right on the street. Problems, government? <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/07.12.2013/IMG_20131107_145256.jpg)
 
-32. More barricades + barbed wire. This is serious.
+32\. More barricades + barbed wire. This is serious.
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/07.12.2013/IMG_20131107_145551.jpg)
 
-33. Don't know why I made this one.
+33\. Don't know why I made this one.
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/07.12.2013/IMG_20131107_145720.jpg)
 
-34. More tents with protesters... errr, I mean - Peoples' deputy meeting place :) Problems, government?
+34\. More tents with protesters... errr, I mean - Peoples' deputy meeting place <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> Problems, government?
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/07.12.2013/IMG_20131107_150058.jpg)
 
-35. More barricades. 
+35\. More barricades. 
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/07.12.2013/IMG_20131107_150111.jpg)
 
-36. Would-be cristmas tree, covered with national flags and postes, biggest says "Freedom to political prisoners!" with Julia Timoshenko's face.
+36\. Would-be cristmas tree, covered with national flags and postes, biggest says "Freedom to political prisoners!" with Julia Timoshenko's face.
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/07.12.2013/IMG_20131107_150301.jpg)
 
-37. More People's deputys meeting places :) Problems, government?
+37\. More People's deputys meeting places <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> Problems, government?
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/07.12.2013/IMG_20131107_150404.jpg)
 
-38. More People's deputys meeting places :) Problems, government?
+38\. More People's deputys meeting places <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> Problems, government?
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/07.12.2013/IMG_20131107_151058.jpg)
 
-39. More People's deputys meeting places :) Problems, government?
+39\. More People's deputys meeting places <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> Problems, government?
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/07.12.2013/IMG_20131107_151623.jpg)
 
-40. No description needed for this one :)
+40\. No description needed for this one <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/07.12.2013/IMG_20131107_151819.jpg)
 
-41. Lenin's monument. Was about to collapse few days ago, but survived. Writings says "BUTCHER".
+41\. Lenin's monument. Was about to collapse few days ago, but survived. Writings says "BUTCHER".
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/07.12.2013/IMG_20131107_152510.jpg)
 
-42. Closer look. Writing says "Glory to Nation!" and "Death to my peoples' slaughterer". Is not enough that he's already dead long ago.
+42\. Closer look. Writing says "Glory to Nation!" and "Death to my peoples' slaughterer". Is not enough that he's already dead long ago.
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/07.12.2013/IMG_20131107_152730.jpg)
 
-43. "Convict - away!". "Convict" - one of president Yanukovich's offensive nicknames, he was in prison twice for robbery and severe battery.
+43\. "Convict - away!". "Convict" - one of president Yanukovich's offensive nicknames, he was in prison twice for robbery and severe battery.
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/07.12.2013/IMG_20131107_153156.jpg)
 
-44. Poster on the wall: "- My King, people on the streets demand changes! - Stupids! They even don't know what exactly they want!".
+44\. Poster on the wall: "- My King, people on the streets demand changes! - Stupids! They even don't know what exactly they want!".
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/07.12.2013/IMG_20131207_182247.jpg)
 
-45. Tent Town Self-defence Force Night Shift. Head: metal army helmet; arms: wooden bars + adhesive tape; ski glasses; respirator; EU flag cape. This is serious.
+45\. Tent Town Self-defence Force Night Shift. Head: metal army helmet; arms: wooden bars + adhesive tape; ski glasses; respirator; EU flag cape. This is serious.
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/07.12.2013/IMG_20131207_214557.jpg)
 
-46. Lithuanians come to support.
+46\. Lithuanians come to support.
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/07.12.2013/IMG_20131207_215030.jpg)
 
-47. Russians :) A whole one person!
+47\. Russians <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> A whole one person!
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/07.12.2013/IMG_20131207_215106.jpg)
 
-48. Small poster on subway train doors :) No need to comment, I guess.
+48\. Small poster on subway train doors <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> No need to comment, I guess.
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/07.12.2013/IMG_20131207_221515.jpg)
 
@@ -304,7 +304,7 @@ Today view from top of metal carcass supposed to be cristmas tree: [http://www.y
 
 <div class="post" data-post-id="34616" data-author="Yasik" data-date="2013-12-10T18:44:50+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
-A bit of lyrics :)
+A bit of lyrics <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/07.12.2013/snowman_children_riot_police.jpg)
 
@@ -312,11 +312,11 @@ A bit of lyrics :)
 
 <div class="post" data-post-id="34621" data-author="Yasik" data-date="2013-12-11T17:49:28+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
-Go be riot police somewhere else  8) 
+Go be riot police somewhere else <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> 
 
 "Pro-EU protesters in Ukraine force thousands of riot police into humiliating retreat after pre-dawn raid on their camp"
 
-[<LINK_TEXT text="http://www.dailymail.co.uk/news/article ... -raid.html">http://www.dailymail.co.uk/news/article-2521734/Pro-EU-protesters-Ukraine-force-thousands-riot-police-humiliating-retreat-pre-dawn-raid.html</LINK_TEXT>](http://www.dailymail.co.uk/news/article-2521734/Pro-EU-protesters-Ukraine-force-thousands-riot-police-humiliating-retreat-pre-dawn-raid.html)
+[http://www.dailymail.co.uk/news/article-2521734/Pro-EU-protesters-Ukraine-force-thousands-riot-police-humiliating-retreat-pre-dawn-raid.html](http://www.dailymail.co.uk/news/article-2521734/Pro-EU-protesters-Ukraine-force-thousands-riot-police-humiliating-retreat-pre-dawn-raid.html)
 
 </div>
 
@@ -336,7 +336,7 @@ I will regret to the end of my days that I was not among them. Those people cove
 
 Barricades today, after tuesday night raid by riot police and authorities' hired marauders.
 
-Harder oppression leads only to even harder resistance.  8) 
+Harder oppression leads only to even harder resistance. <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> 
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/12.12.2013/Euromaidan_barricades_12.12.2013.jpg)
 
@@ -354,7 +354,7 @@ View from out of Euromaidan square, banner says "Riot Police! Welcome to hell!".
 
 Euromaidan Self-Defence Forces are training to hold the invasion of riot police in tent camp and square.
 
-On 4th photo can see the newly built and reinforced barricades - piles of bags with snow, poured with water. Frozen Fortress :)
+On 4th photo can see the newly built and reinforced barricades - piles of bags with snow, poured with water. Frozen Fortress <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/13.12.2013/Euromaidan_self_defence_forces_training_01.jpg)
 
@@ -372,7 +372,7 @@ On 4th photo can see the newly built and reinforced barricades - piles of bags w
 
 Not loosing a sense of humour is arch-important.
 
-Riot policeman says: "Houston, we've got a problems..." after he realizes their chances to raid through 6m height barricades :)
+Riot policeman says: "Houston, we've got a problems..." after he realizes their chances to raid through 6m height barricades <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/13.12.2013/Euromaidan_houston_we_have_got_a_problem.jpg)
 
@@ -416,13 +416,13 @@ It is not about the politics, it is about people's day to day lives in other cou
 
 <div class="post" data-post-id="34645" data-author="Yasik" data-date="2013-12-17T06:46:46+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
-We're not discussing anything, I just keep my fellas informed :)
+We're not discussing anything, I just keep my fellas informed <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="34657" data-author="Yasik" data-date="2013-12-19T10:06:26+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
-MC && HNY
+MC \&\& HNY
 
 ![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/19.12.20013/Euromaidan_countryballs_NY.jpg)
 
@@ -430,7 +430,7 @@ MC && HNY
 
 <div class="post" data-post-id="34750" data-author="Yasik" data-date="2014-01-02T20:15:51+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
-I suspect it is quite easy to guess where I've been celebrating New Year night :)
+I suspect it is quite easy to guess where I've been celebrating New Year night <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 With all my revolutionary brothers and sisters!
 
@@ -462,9 +462,9 @@ Calls to armed uprising can be heard very frequently.
 
 I think things going to be real ugly very soon, and I will participate.
 
-Summary what changes is here: [<LINK_TEXT text="https://dl.dropboxusercontent.com/u/721 ... hip-en.jpg">https://dl.dropboxusercontent.com/u/72105811/Euromaidan/7.01.2014/dictatorship-en.jpg</LINK_TEXT>](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/7.01.2014/dictatorship-en.jpg)
+Summary what changes is here: [https://dl.dropboxusercontent.com/u/72105811/Euromaidan/7.01.2014/dictatorship-en.jpg](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/7.01.2014/dictatorship-en.jpg)
 
-Big picture, big font - Right-Click -> Open in New tab -> View Image for closer look.
+Big picture, big font - Right-Click -\> Open in New tab -\> View Image for closer look.
 
 </div>
 
@@ -478,13 +478,13 @@ Cops barricaded themselves with cars and buses, people burned them, throwing roc
 
 Few photos of whats going on (taken not by me):
 
-1. [<LINK_TEXT text="http://myreport.com.ua/fotoreportazh_bi ... chnya.html">http://myreport.com.ua/fotoreportazh_big/istoria/30-najefektnishyh-fotohrafij-revolyutsiji-v-kyjevi-19-sichnya.html</LINK_TEXT>](http://myreport.com.ua/fotoreportazh_big/istoria/30-najefektnishyh-fotohrafij-revolyutsiji-v-kyjevi-19-sichnya.html)
+1\. [http://myreport.com.ua/fotoreportazh_big/istoria/30-najefektnishyh-fotohrafij-revolyutsiji-v-kyjevi-19-sichnya.html](http://myreport.com.ua/fotoreportazh_big/istoria/30-najefektnishyh-fotohrafij-revolyutsiji-v-kyjevi-19-sichnya.html)
 
-2. Captured servants of the thug: [<LINK_TEXT text="http://censor.net.ua/photo_news/266964/ ... _obnovleno">http://censor.net.ua/photo_news/266964/demonstranty_zahvatili_berkutovtsev_ih_gospitalizirovali_mvd_fotoreportaj_obnovleno</LINK_TEXT>](http://censor.net.ua/photo_news/266964/demonstranty_zahvatili_berkutovtsev_ih_gospitalizirovali_mvd_fotoreportaj_obnovleno)
+2\. Captured servants of the thug: [http://censor.net.ua/photo_news/266964/demonstranty_zahvatili_berkutovtsev_ih_gospitalizirovali_mvd_fotoreportaj_obnovleno](http://censor.net.ua/photo_news/266964/demonstranty_zahvatili_berkutovtsev_ih_gospitalizirovali_mvd_fotoreportaj_obnovleno)
 
-3. Some more pics and videos of today: [<LINK_TEXT text="http://www.kyivpost.com/content/ukraine ... 35218.html">http://www.kyivpost.com/content/ukraine/euromaidan-rallies-in-ukraine-jan-19-live-updates-335218.html</LINK_TEXT>](http://www.kyivpost.com/content/ukraine/euromaidan-rallies-in-ukraine-jan-19-live-updates-335218.html)
+3\. Some more pics and videos of today: [http://www.kyivpost.com/content/ukraine/euromaidan-rallies-in-ukraine-jan-19-live-updates-335218.html](http://www.kyivpost.com/content/ukraine/euromaidan-rallies-in-ukraine-jan-19-live-updates-335218.html)
 
-4. [<LINK_TEXT text="http://www.kyivpost.com/multimedia/phot ... 35232.html">http://www.kyivpost.com/multimedia/photo/clashes-on-grushevskiy-str-335232.html</LINK_TEXT>](http://www.kyivpost.com/multimedia/photo/clashes-on-grushevskiy-str-335232.html)
+4\. [http://www.kyivpost.com/multimedia/photo/clashes-on-grushevskiy-str-335232.html](http://www.kyivpost.com/multimedia/photo/clashes-on-grushevskiy-str-335232.html)
 
 </div>
 
@@ -494,53 +494,53 @@ Morning update of what was going on yesterday all day and night.
 
 Long story short: after Parlament opposition proposed to carry on more so-called "negotiations", the People refused and acted: around 6 police department cars and buses burned down, police lines near Parlament was trown on rocks, molotov cocktails, random junk; few clashes took place and we were victorious - cops retreated shamefully. Police retailiated with tear gas, gum bullets, canister shots and water thrower. Few moderate casualties, but none dead afaik. All around country people going to assemble in Kyiv Euromaidan to reinforce the struggle.
 
-(image: /[<LINK_TEXT text="https://dl.dropboxusercontent.com/u/721 ... driver.jpg">https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Burned_bus_driver.jpg</LINK_TEXT>](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Burned_bus_driver.jpg))
+![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Burned_bus_driver.jpg)
 
-(image: /[<LINK_TEXT text="https://dl.dropboxusercontent.com/u/721 ... inside.jpg">https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Burned_frozen_bus_inside.jpg</LINK_TEXT>](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Burned_frozen_bus_inside.jpg))
+![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Burned_frozen_bus_inside.jpg)
 
-(image: /[<LINK_TEXT text="https://dl.dropboxusercontent.com/u/721 ... lash_1.jpg">https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Clash_1.jpg</LINK_TEXT>](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Clash_1.jpg))
+![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Clash_1.jpg)
 
-(image: /[<LINK_TEXT text="https://dl.dropboxusercontent.com/u/721 ... lash_2.jpg">https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Clash_2.jpg</LINK_TEXT>](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Clash_2.jpg))
+![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Clash_2.jpg)
 
-(image: /[<LINK_TEXT text="https://dl.dropboxusercontent.com/u/721 ... e_bros.jpg">https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Come_at_me_bros.jpg</LINK_TEXT>](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Come_at_me_bros.jpg))
+![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Come_at_me_bros.jpg)
 
-(image: /[<LINK_TEXT text="https://dl.dropboxusercontent.com/u/721 ... ff_bus.jpg">https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/F_off_bus.jpg</LINK_TEXT>](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/F_off_bus.jpg))
+![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/F_off_bus.jpg)
 
-(image: /[<LINK_TEXT text="https://dl.dropboxusercontent.com/u/721 ... tle_01.jpg">https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Morning_after_battle_01.jpg</LINK_TEXT>](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Morning_after_battle_01.jpg))
+![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Morning_after_battle_01.jpg)
 
-(image: /[<LINK_TEXT text="https://dl.dropboxusercontent.com/u/721 ... tle_02.jpg">https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Morning_after_battle_02.jpg</LINK_TEXT>](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Morning_after_battle_02.jpg))
+![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Morning_after_battle_02.jpg)
 
-(image: /[<LINK_TEXT text="https://dl.dropboxusercontent.com/u/721 ... tle_03.jpg">https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Morning_after_battle_03.jpg</LINK_TEXT>](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Morning_after_battle_03.jpg))
+![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Morning_after_battle_03.jpg)
 
-(image: /[<LINK_TEXT text="https://dl.dropboxusercontent.com/u/721 ... tle_04.jpg">https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Morning_after_battle_04.jpg</LINK_TEXT>](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Morning_after_battle_04.jpg))
+![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Morning_after_battle_04.jpg)
 
-(image: /[<LINK_TEXT text="https://dl.dropboxusercontent.com/u/721 ... tle_05.jpg">https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Morning_after_battle_05.jpg</LINK_TEXT>](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Morning_after_battle_05.jpg))
+![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Morning_after_battle_05.jpg)
 
-(image: /[<LINK_TEXT text="https://dl.dropboxusercontent.com/u/721 ... tle_06.jpg">https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Morning_after_battle_06.jpg</LINK_TEXT>](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Morning_after_battle_06.jpg))
+![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Morning_after_battle_06.jpg)
 
-(image: /[<LINK_TEXT text="https://dl.dropboxusercontent.com/u/721 ... tle_07.jpg">https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Morning_after_battle_07.jpg</LINK_TEXT>](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Morning_after_battle_07.jpg))
+![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Morning_after_battle_07.jpg)
 
-(image: /[<LINK_TEXT text="https://dl.dropboxusercontent.com/u/721 ... tle_08.jpg">https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Morning_after_battle_08.jpg</LINK_TEXT>](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Morning_after_battle_08.jpg))
+![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Morning_after_battle_08.jpg)
 
-(image: /[<LINK_TEXT text="https://dl.dropboxusercontent.com/u/721 ... tle_09.jpg">https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Morning_after_battle_09.jpg</LINK_TEXT>](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Morning_after_battle_09.jpg))
+![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Morning_after_battle_09.jpg)
 
-(image: /[<LINK_TEXT text="https://dl.dropboxusercontent.com/u/721 ... tle_11.jpg">https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Morning_after_battle_11.jpg</LINK_TEXT>](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Morning_after_battle_11.jpg))
+![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Morning_after_battle_11.jpg)
 
-(image: /[<LINK_TEXT text="https://dl.dropboxusercontent.com/u/721 ... tle_12.jpg">https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Morning_after_battle_12.jpg</LINK_TEXT>](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Morning_after_battle_12.jpg))
+![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Morning_after_battle_12.jpg)
 
-(image: /[<LINK_TEXT text="https://dl.dropboxusercontent.com/u/721 ... tle_13.jpg">https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Morning_after_battle_13.jpg</LINK_TEXT>](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Morning_after_battle_13.jpg))
+![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Morning_after_battle_13.jpg)
 
-(image: /[<LINK_TEXT text="https://dl.dropboxusercontent.com/u/721 ... tle_14.jpg">https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Morning_after_battle_14.jpg</LINK_TEXT>](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Morning_after_battle_14.jpg))
+![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Morning_after_battle_14.jpg)
 
-(image: /[<LINK_TEXT text="https://dl.dropboxusercontent.com/u/721 ... tle_15.jpg">https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Morning_after_battle_15.jpg</LINK_TEXT>](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Morning_after_battle_15.jpg))
+![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Morning_after_battle_15.jpg)
 
-(image: /[<LINK_TEXT text="https://dl.dropboxusercontent.com/u/721 ... tle_16.jpg">https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Morning_after_battle_16.jpg</LINK_TEXT>](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Morning_after_battle_16.jpg))
+![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Morning_after_battle_16.jpg)
 
-(image: /[<LINK_TEXT text="https://dl.dropboxusercontent.com/u/721 ... anthem.jpg">https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Morning_anthem.jpg</LINK_TEXT>](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Morning_anthem.jpg))
+![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Morning_anthem.jpg)
 
-(image: /[<LINK_TEXT text="https://dl.dropboxusercontent.com/u/721 ... _buses.jpg">https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Shiled_carrier_burning_buses.jpg</LINK_TEXT>](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Shiled_carrier_burning_buses.jpg))
+![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Shiled_carrier_burning_buses.jpg)
 
-(image: /[<LINK_TEXT text="https://dl.dropboxusercontent.com/u/721 ... rowers.jpg">https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Throwers.jpg</LINK_TEXT>](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Throwers.jpg))
+![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/20.01.2014/Throwers.jpg)
 
 PS. My favorite of all time: noisome dogs of regime trying to make a sally, but covardly retreat with tails between legs: [http://www.youtube.com/watch?v=i3L8xbX9IxU](http://www.youtube.com/watch?v=i3L8xbX9IxU)
 
@@ -560,10 +560,10 @@ I find it really disturbing, Ukraine population is 45 million people. The most p
 
 <div class="post" data-post-id="34811" data-author="Yasik" data-date="2014-01-21T12:37:19+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
-> **Dragoth wrote:**
+> <strong>Dragoth wrote:</strong>
 > I find it really disturbing, Ukraine population is 45 million people. The most people that ever showed up for these protests were 200,000. This is 0.4% of the population and yet the government is allowing this minority to conduct such atrocities.Nothing good will come of this and Ukraine is well on its way to becoming the new Lybia/Syria, where a minority is going to destabilize and terrorize the lives of normal people in an otherwise stable country.
 
-Thats not true. Official numbers - up to 1.5M people at the same time, announced by Ministry of Internal Affairs, but they usually announce much lower to make it appear small. If you was paying attention - and you was *not* - in every big city there was protests, and they still are, 2 months already.
+Thats not true. Official numbers - up to 1.5M people at the same time, announced by Ministry of Internal Affairs, but they usually announce much lower to make it appear small. If you was paying attention - and you was \*not\* - in every big city there was protests, and they still are, 2 months already.
 
 You can't know the truth, because your russian TV is lying shamefully - is not even funny anymore, its just plain simple brainwashing. They lying because they afraid something will happen in Russia too, but it will not - your people too afraid, self-excuse, not support each other, sitting in their holes, happy with their semi-slave existence, not care about country, turning blind eye on corruption, "not their business", "got work to do", "got familty to take care of", etc.
 
@@ -571,11 +571,11 @@ What you call atrocity - is bloody beating of students at 4AM December,1 after t
 
 Rigged fake 'voting' for laws that suppress Constitution's statements, use of army against own people, beaten journalists, people disappearing - is what govt doing.
 
-Mind you own country, noone here in Ukraine needs your 'help' in explaining of whats *really* going on, because we do know it - we liberate our country from dictatorship and criminal government. Stay away from our business.
+Mind you own country, noone here in Ukraine needs your 'help' in explaining of whats \*really\* going on, because we do know it - we liberate our country from dictatorship and criminal government. Stay away from our business.
 
 As for todays' night, there was a lot of action. Few hundreds of government-paid young men ("scum") dispersed with orders to burn cars, break shop windows and attack people, but they was not successful - our Self-Defence Forces retaliated, captured few dozens, took away lists of organizaers (former criminals with sentences) and forced to apologize before Ukraine's People! The scums admit that their crowd-masters gave them alcohol and drugs to 'relax'. This scheme to wreak havoc failed. None of scum was harmed.
 
-PS. Also, lets not forget, that civil war in Lybia and Syria is very supported by russian president Putin - he supplies those regimes with weapons, including chemical - what actually *is* actrocity and crime against humanity, I'm sure you know that :) Putin is much interested in Ukraine as part of his new ex-ussr empire, but he will break teeth - mark my words.
+PS. Also, lets not forget, that civil war in Lybia and Syria is very supported by russian president Putin - he supplies those regimes with weapons, including chemical - what actually \*is\* actrocity and crime against humanity, I'm sure you know that <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> Putin is much interested in Ukraine as part of his new ex-ussr empire, but he will break teeth - mark my words.
 
 </div>
 
@@ -589,9 +589,9 @@ You want to try and destroy your own country and kill your own people to try and
 
 <div class="post" data-post-id="34814" data-author="Yasik" data-date="2014-01-21T20:58:41+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
-That's not true :) To destroy our country - is the goal of Putin and his lackeys, if they wont succede to rebuild the empire.
+That's not true <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> To destroy our country - is the goal of Putin and his lackeys, if they wont succede to rebuild the empire.
 
-Yes, sure, "nothing is going to change, no point to protest" :) Its better to sit at home and wait.
+Yes, sure, "nothing is going to change, no point to protest" <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> Its better to sit at home and wait.
 
 Agree that corruption is everywhere, but right now right here in Ukraine it reached the level when no longer can be tolerated.
 
@@ -603,7 +603,7 @@ We have not enough rights. We need the right to bear arms.
 
 Update: you say president Yanukovich is our 'leader', but this is not true as well. In 2004 the Parlament in lawful way changed some parts of the Constitution to resolve the crysis that started after rigged fake president's elections was confirmed by the court (300 of 450 votes of Parlament's deputees was nessesary and this voting took place). Later in 2010, when Yanukovich became president, the Constitutional Court changed the Constitution, returning very much of power back to president. The truth is, that the Constitutional Court CANNOT CHANGE the Constitution, it can only explain and make its statements clear, but not change, dont have right to change. Therefore, very much of current president's power is illegitimate. He is usurper. Now, he's trying to install dictatorship and remain president idefinitely - just like Putin, or Lukashenko, or Kim Jong Il, of some African guys (dont remember their names, sorry).
 
-What else can I do to explain to you whats going on? :)
+What else can I do to explain to you whats going on? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -617,7 +617,7 @@ update: 4 dead, gunshot by police
 
 <div class="post" data-post-id="34816" data-author="Dragoth" data-date="2014-01-22T11:07:57+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
-And you thought what exactly ?  That you will try and overtake the government, attack the police and no-one will be hurt ? Are you expecting them to welcome you with their arms open and give everything up to you? 
+And you thought what exactly ? That you will try and overtake the government, attack the police and no-one will be hurt ? Are you expecting them to welcome you with their arms open and give everything up to you? 
 
 You think European or American police is any different ? These are examples of minor protests in Europe, people were not trying to overtake governments, but that is how they are dealt with
 
@@ -667,7 +667,7 @@ Rumor says that 2 tanks and 1 APC are being carried by railroad. This leads us d
 
 Will keep you informed...
 
-(image: /[<LINK_TEXT text="https://dl.dropboxusercontent.com/u/721 ... alypse.jpg">https://dl.dropboxusercontent.com/u/72105811/Euromaidan/22.01.2014/Kyiv_apocalypse.jpg</LINK_TEXT>](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/22.01.2014/Kyiv_apocalypse.jpg))
+![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/22.01.2014/Kyiv_apocalypse.jpg)
 
 </div>
 
@@ -685,11 +685,11 @@ Reports about police destroying cars, throwing rocks and molotovs back at Maidan
 
 <div class="post" data-post-id="34820" data-author="Yasik" data-date="2014-01-23T17:35:48+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
-**True face of current president and his servants:** [https://www.youtube.com/watch?v=z0zD3pOG-Tk](https://www.youtube.com/watch?v=z0zD3pOG-Tk)
+<strong>True face of current president and his servants:</strong> [https://www.youtube.com/watch?v=z0zD3pOG-Tk](https://www.youtube.com/watch?v=z0zD3pOG-Tk)
 
-**All must watch, but caution: extremely disturbing!**
+<strong>All must watch, but caution: extremely disturbing!</strong>
 
-(image: /[<LINK_TEXT text="https://dl.dropboxusercontent.com/u/721 ... Europe.jpg">https://dl.dropboxusercontent.com/u/72105811/Euromaidan/22.01.2014/boycotte_Europe.jpg</LINK_TEXT>](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/22.01.2014/boycotte_Europe.jpg))
+![](https://dl.dropboxusercontent.com/u/72105811/Euromaidan/22.01.2014/boycotte_Europe.jpg)
 
 Important update: ukranian riot police commander under terms of anonimity confirmed, that those inhuman tortures are deed of re-dressed russian special corps, "borrowed" by we all know who. Snipers and gunners most likely too are russians.
 
@@ -701,15 +701,15 @@ January,24 : temporary cease of fire, new barricades in capital city of Kyiv; ye
 
 from talk with USA friends:
 
-- Why don't people take their guns and finish this bullshit once and for all?
+\- Why don't people take their guns and finish this bullshit once and for all?
 
 ...
 
--What do you mean they don't have guns? Why don't they buy guns in the store?
+\-What do you mean they don't have guns? Why don't they buy guns in the store?
 
 ....
 
--What do you mean you cannot buy guns? You've got to have guns. You cannot trust the country to the politicians if you don't have a gun. Every person must have a gun.
+\-What do you mean you cannot buy guns? You've got to have guns. You cannot trust the country to the politicians if you don't have a gun. Every person must have a gun.
 
 That 2nd Amendment of your, truly the bestest law statement ever existed. If we had guns - this all would not be happening.
 
@@ -717,7 +717,7 @@ Evening update: no clashes so far, timeout; dictator softened and announces offe
 
 Army of Maidan: [http://www.youtube.com/watch?v=p8QS31s4VkY](http://www.youtube.com/watch?v=p8QS31s4VkY)
 
-Human Rights Watch article as proof of my previous statements: [<LINK_TEXT text="http://www.hrw.org/news/2014/01/23/ukra ... pings-kiev">http://www.hrw.org/news/2014/01/23/ukraine-police-beatings-kidnappings-kiev</LINK_TEXT>](http://www.hrw.org/news/2014/01/23/ukraine-police-beatings-kidnappings-kiev)
+Human Rights Watch article as proof of my previous statements: [http://www.hrw.org/news/2014/01/23/ukraine-police-beatings-kidnappings-kiev](http://www.hrw.org/news/2014/01/23/ukraine-police-beatings-kidnappings-kiev)
 
 Not without sense of humour, cant afford to lose it atm: [https://www.youtube.com/watch?v=5wZX4A_i9iM](https://www.youtube.com/watch?v=5wZX4A_i9iM)
 
@@ -777,7 +777,7 @@ And who has asked you to post?
 
 <div class="post" data-post-id="34831" data-author="Yasik" data-date="2014-01-26T17:44:00+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
-> **Sam wrote:**
+> <strong>Sam wrote:</strong>
 > And who has asked you to post?
 
 Our common friends did.
@@ -820,13 +820,13 @@ Since I did not get an answer if I should stop posting at all or just post less 
 
 [http://yasikmaidan.livejournal.com/](http://yasikmaidan.livejournal.com/)
 
-Enjoy! (c)  8)
+Enjoy! (c) <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="34862" data-author="Magi" data-date="2014-02-13T17:45:10+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
-Thanks!  Good solution, and I'll be following.
+Thanks! Good solution, and I'll be following.
 
 </div>
 
@@ -844,7 +844,7 @@ I appreciate the information you've been providing. Very fascinating/timely stuf
 
 <div class="post" data-post-id="34889" data-author="Yasik" data-date="2014-03-04T22:31:21+00:00" data-subject="Re: Hey guys, mind lending a hand?">
 
-Just a reminder, I still keep updating the blog  [http://yasikmaidan.livejournal.com/](http://yasikmaidan.livejournal.com/)  on regular basis.
+Just a reminder, I still keep updating the blog [http://yasikmaidan.livejournal.com/](http://yasikmaidan.livejournal.com/) on regular basis.
 
 </div>
 

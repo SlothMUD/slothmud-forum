@@ -12,7 +12,7 @@ post_count: 3
 
 <div class="post" data-post-id="35611" data-author="abraxsis" data-date="2015-01-03T16:44:48+00:00" data-subject="Multiple Profiles possible???">
 
-Ok, I've been using mudlet for a while now.  I have a lot of scripts set up for brax.  The problem is when I go to use my alt, I have scripts firing for brax that the alt doesnt need/cant use.  Is there any way to set things up to either auto-load a profile for a character or for me to select the profile to use?
+Ok, I've been using mudlet for a while now. I have a lot of scripts set up for brax. The problem is when I go to use my alt, I have scripts firing for brax that the alt doesnt need/cant use. Is there any way to set things up to either auto-load a profile for a character or for me to select the profile to use?
 
 </div>
 

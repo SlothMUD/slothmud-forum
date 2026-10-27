@@ -24,11 +24,11 @@ the list of holy items that you may pray for at your local temple dedicated to y
 
 You may now pray for the following:
 
-1. Holy Girdle
+1\. Holy Girdle
 
-2. Holy Band
+2\. Holy Band
 
-3. Holy Bracelet
+3\. Holy Bracelet
 
 These are, of course, in addition to the items you were normally able to pray for previously. Also,
 
@@ -40,6 +40,6 @@ at the following location:
 
 Enjoy.
 
--Neptune
+\-Neptune
 
 </div>

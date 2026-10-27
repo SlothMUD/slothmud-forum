@@ -14,7 +14,7 @@ post_count: 1
 
 Good day, adventurers.
 
-Changed the group exp split messages, so it show total exp for the mob to everyone in group.  For instance :
+Changed the group exp split messages, so it show total exp for the mob to everyone in group. For instance :
 
 To leader :
 
@@ -44,7 +44,7 @@ You receive 121 experience points as your share.
 
 Total exp for kill is 172.
 
-Will be in game (once code is recompiled) in next crash or reboot.  If you see something odd about it, please, let me know.
+Will be in game (once code is recompiled) in next crash or reboot. If you see something odd about it, please, let me know.
 
 Best regards.
 

@@ -12,9 +12,9 @@ post_count: 12
 
 <div class="post" data-post-id="9639" data-author="brand" data-date="2005-11-26T16:23:14+00:00" data-subject="new clan patch (clasp)">
 
-how would a clan patch be for each clan.  something that could be bought or made by clan member.  like a merit badge but a clasp that could go on armor or sleeve or hat or cloak or suitcase.  maybe you could even have crazy powers and skills added to it like an avatar light (but only powers and skills that are not cool enough for avatar lights) or maybe it could just be a CLAN PATCH!
+how would a clan patch be for each clan. something that could be bought or made by clan member. like a merit badge but a clasp that could go on armor or sleeve or hat or cloak or suitcase. maybe you could even have crazy powers and skills added to it like an avatar light (but only powers and skills that are not cool enough for avatar lights) or maybe it could just be a CLAN PATCH!
 
- :idea: brand :twisted:
+ <img src="/images/smilies/icon_idea.svg" alt=":idea:" title=":idea:" width="15" height="15" class="smiley nozoom"> brand <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -26,7 +26,7 @@ heh groovy. I can imagine some Innkeepers.. "sorry son, you'll have to remove th
 
 <div class="post" data-post-id="9641" data-author="Autolycos" data-date="2005-11-26T17:00:26+00:00" data-subject="">
 
-i like that,  that would be a neat idea..  but i'm haing alot of trouble believing that it came from brand   :twisted:
+i like that, that would be a neat idea.. but i'm haing alot of trouble believing that it came from brand <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -50,7 +50,7 @@ s.M.A.c. ID patch is on display here.
 
 hehe yeah that'd be kinda neat, although it should just be a 'style' item, not have any actual stats (remember we don't wanna give clans any kind of ingame bonuses...)
 
-hell, instead of clasp, just make it loaded item, already enough people run around with that slot full even though it doesn't actually do anything :)
+hell, instead of clasp, just make it loaded item, already enough people run around with that slot full even though it doesn't actually do anything <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -66,9 +66,9 @@ Perhaps finger could include clan too (if it doesn't already).
 
 I saw that Splork said " clans added to finger"
 
-Should I read this that a clan clasp finger item now pops somewhere?  How does such an item know what clan to be?
+Should I read this that a clan clasp finger item now pops somewhere? How does such an item know what clan to be?
 
-Do all clan related folk now have a clan logo on our finger regardless of what finger item we wear?  (I thought I checked, but didn't see it.)
+Do all clan related folk now have a clan logo on our finger regardless of what finger item we wear? (I thought I checked, but didn't see it.)
 
 Just a little confused.
 
@@ -78,7 +78,7 @@ Qa
 
 <div class="post" data-post-id="9656" data-author="Deju" data-date="2005-11-28T15:54:26+00:00" data-subject="">
 
-Splork's post means that clan info is added to the 'finger' command.  
+Splork's post means that clan info is added to the 'finger' command. 
 
 This has nothing to do with the idea of a clan clasp, or any EQ.
 
@@ -92,13 +92,13 @@ now THAT would be nice, and convenient...
 
 Shazuko Roku Ryuu (Shazuko Six Dragons)
 
-<~Chaos~>
+\<\~Chaos\~\>
 
 </div>
 
 <div class="post" data-post-id="9677" data-author="Leaf" data-date="2005-11-29T15:43:41+00:00" data-subject="">
 
-I wouldn't say to have items pop and forge.  That would be too had to code
+I wouldn't say to have items pop and forge. That would be too had to code
 
 I think and for an item to pop for certain clans would be a headache.
 
@@ -114,10 +114,10 @@ then have the forger copy tha clan's symbol...
 
 <div class="post" data-post-id="9682" data-author="Shazuko" data-date="2005-11-29T21:52:46+00:00" data-subject="">
 
-I was thinking it would be based on the current clan list, and designated leader...the leader would forge it, and then give it to who he/she chooses; then that person could only junk it, not drop it/give it to someone else...based on the current clan lists, it might be easier*shrug*
+I was thinking it would be based on the current clan list, and designated leader...the leader would forge it, and then give it to who he/she chooses; then that person could only junk it, not drop it/give it to someone else...based on the current clan lists, it might be easier\*shrug\*
 
 Shazuko Roku Ryuu
 
-<~Chaos~>
+\<\~Chaos\~\>
 
 </div>

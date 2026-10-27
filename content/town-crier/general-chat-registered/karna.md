@@ -20,7 +20,7 @@ might be gone till wednessday if i dont see you ingame tonight
 
 <div class="post" data-post-id="17730" data-author="Karna" data-date="2007-04-02T18:23:44+00:00" data-subject="Hades">
 
-I will be on tonight to sell you the guards, after 8:30PM EST.  Otherwise, I can ship with fee.  Which chars do you play?
+I will be on tonight to sell you the guards, after 8:30PM EST. Otherwise, I can ship with fee. Which chars do you play?
 
 Karna / Tripper / Zanax
 
@@ -40,7 +40,7 @@ Sounds more like Hades is buying.
 
 <div class="post" data-post-id="17735" data-author="Karna" data-date="2007-04-03T00:02:18+00:00" data-subject="Karna">
 
-If you actually read the post 13, you would see that I'm selling. I auctioned some shoulder guards on the chopping block last week.  
+If you actually read the post 13, you would see that I'm selling. I auctioned some shoulder guards on the chopping block last week. 
 
 Karna
 

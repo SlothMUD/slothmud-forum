@@ -12,35 +12,35 @@ post_count: 2
 
 <div class="post" data-post-id="39290" data-author="Gorka" data-date="2019-08-05T08:01:15+00:00" data-subject="Last Night... Talkin&#x27; Bout Last Night...">
 
-Last night Breeze decided to reward us mortals with drachma for the corpses of epics. We thought that was very nice of him, so we took him up on his offer. Once we got straightened out that a lot of the epics these days are actually astral... we commenced our rampage. It started off as a fairly standard affair, but by the end - the fun we were having, was outweighing any notion of a reward. It's been a while since I felt that sentiment while playing. There was a great vibe in the group last night, I hate leading epics as you all know, but last night I would have done it for no drachma or xp... but don't take that comment too seriously Breeze... *cough* 
+Last night Breeze decided to reward us mortals with drachma for the corpses of epics. We thought that was very nice of him, so we took him up on his offer. Once we got straightened out that a lot of the epics these days are actually astral... we commenced our rampage. It started off as a fairly standard affair, but by the end - the fun we were having, was outweighing any notion of a reward. It's been a while since I felt that sentiment while playing. There was a great vibe in the group last night, I hate leading epics as you all know, but last night I would have done it for no drachma or xp... but don't take that comment too seriously Breeze... \*cough\* 
 
 I thought I'd post the kill shots of the big ones we took down. We actually killed every single epic up, and the most fun were the epics we almost never touch these days like Koshey, Zalla and Pale Night.
 
 There are couple of things I'd like to make the imms aware of if they are reading this... To consider in any future changes or tweaks to the epic system.
 
-1) Pale night is broken.
+1\) Pale night is broken.
 
-2) Alhoon has probably been nerfed too much.
+2\) Alhoon has probably been nerfed too much.
 
-3) I don't really care, but for consistancy sake... some epics don't give leadership honor.
+3\) I don't really care, but for consistancy sake... some epics don't give leadership honor.
 
-4) Neptune likes Astrals.
+4\) Neptune likes Astrals.
 
-5) Although rebirth gives the bonus honour, because everyone is a high rank these days, capping honor doesn't really occur these days (Even if Pale Night worked - and by a large margin). In fact it's possible that proportionally speaking players get less honour these days than when the system was first introduced.
+5\) Although rebirth gives the bonus honour, because everyone is a high rank these days, capping honor doesn't really occur these days (Even if Pale Night worked - and by a large margin). In fact it's possible that proportionally speaking players get less honour these days than when the system was first introduced.
 
-6) Epics don't keep an xp pace with traditional xp groups, by somewhere around 20%.
+6\) Epics don't keep an xp pace with traditional xp groups, by somewhere around 20%.
 
-7) Group power is catching up with epics (But we were a lot of powerful rebirths), hardly any scrolls were used, and the procs from the new gauntlets are completely devastating to epic power especially the blind and slow procs.
+7\) Group power is catching up with epics (But we were a lot of powerful rebirths), hardly any scrolls were used, and the procs from the new gauntlets are completely devastating to epic power especially the blind and slow procs.
 
 8 ) Neptune still likes Astrals.
 
-9) More raids and epics of more varying sizes would certainly be welcome.
+9\) More raids and epics of more varying sizes would certainly be welcome.
 
-10) With Sphairai's and gauntlets, groups should run Koshey more than we do - although his ether stage is perhaps a little fat.
+10\) With Sphairai's and gauntlets, groups should run Koshey more than we do - although his ether stage is perhaps a little fat.
 
 Thanks to Breeze, and all the players who joined and contributed. It was a good night.
 
-|;cast 'firestorm'
+\|;cast 'firestorm'
 
 Padme misses Klklklpa with her whip.
 
@@ -88,11 +88,11 @@ Dingo receives 72633096 experience points.
 
 Total exp for kill is 844090352.
 
--------------
+\-------------
 
 MOB : Klklklpa cholem golem error epic	LVL : 42	AREA : School of Cholemry	XP : 844090352
 
--------------
+\-------------
 
 Mage utters the words, 'yufzxuie'
 
@@ -140,11 +140,11 @@ Dingo receives 8689772 experience points.
 
 Total exp for kill is 101018451.
 
--------------
+\-------------
 
 MOB : Uhhhl cave troll epic	LVL : 42	AREA : Matterhorn Valley	XP : 101018451
 
--------------
+\-------------
 
 Raphael utters the words, 'yufzxuie'
 
@@ -194,11 +194,11 @@ Dingo receives 54788488 experience points.
 
 Total exp for kill is 636915252.
 
--------------
+\-------------
 
 MOB : Lupine wolfwere wolf werelord were lord	LVL : 42	AREA : Black Island	XP : 636915252
 
--------------
+\-------------
 
 Qzz cuts off the head of The Arch-Devil, Lord Dispater!!!!
 
@@ -242,13 +242,13 @@ Dingo receives 35552428 experience points.
 
 Total exp for kill is 401379086.
 
--------------
+\-------------
 
 MOB : Dispater archdevil arch devil lord fiend dis	LVL : 42	AREA : The Lower Planes - City of Dis	XP : 
 
 401379086
 
--------------
+\-------------
 
 The Archomental, Prince Cryonax misses you with his crush.
 
@@ -310,11 +310,11 @@ Dingo receives 28706192 experience points.
 
 Total exp for kill is 324086591.
 
--------------
+\-------------
 
 MOB : Cryonax archomental arch elemental prince elem ice	LVL : 41	AREA : Plane of Ice	XP : 324086591
 
--------------
+\-------------
 
 You skillfully parry the attack of The Arch-Devil, Mephistopheles.
 
@@ -372,13 +372,13 @@ Dingo receives 27068780 experience points.
 
 Total exp for kill is 307536395.
 
--------------
+\-------------
 
 MOB : Mephistopheles arch devil archdevil fiend caina cai	LVL : 42	AREA : The Lower Planes - Caina	XP : 
 
 307536395
 
--------------
+\-------------
 
 You skillfully parry the attack of The Arch-Devil, Ba'alzebul.
 
@@ -442,13 +442,13 @@ Dingo receives 42638840 experience points.
 
 Total exp for kill is 546262214.
 
--------------
+\-------------
 
 MOB : Baalzebul aal arch devil archdevil lord mal	LVL : 42	AREA : The Lower Planes - Maladomini	XP : 
 
 546262214
 
--------------
+\-------------
 
 You skillfully parry the attack of the bone devil.
 
@@ -522,13 +522,13 @@ Dingo receives 33228790 experience points.
 
 Total exp for kill is 425706513.
 
--------------
+\-------------
 
 MOB : Mammon archdevil arch devil king serpent beast ruler min	LVL : 41	AREA : The Lower Planes - 
 
 Minauros	XP : 425706513
 
--------------
+\-------------
 
 Mage utters the words, 'euguihzofahz'
 
@@ -576,13 +576,13 @@ Dingo receives 37857560 experience points.
 
 Total exp for kill is 485007422.
 
--------------
+\-------------
 
 MOB : Moloch arch devil archdevil king beast ruler mal	LVL : 42	AREA : The Lower Planes - Malbolge	XP : 
 
 485007422
 
--------------
+\-------------
 
 The Archdevil, Asmodeus misses you with his crush.
 
@@ -642,13 +642,13 @@ Dingo receives 85386048 experience points.
 
 Total exp for kill is 1093912712.
 
--------------
+\-------------
 
 MOB : Asmodeus arch devil archdevil lord evil fiend ruler ness	LVL : 42	AREA : The Lower Planes - 
 
 Nessus	XP : 1093912712
 
--------------
+\-------------
 
 Bijaz ruptures the soul of their victim with a devastating attack!
 
@@ -694,11 +694,11 @@ Dingo receives 92154840 experience points.
 
 Total exp for kill is 1082900476.
 
--------------
+\-------------
 
 MOB : Lucifer dark god fallen angel Satan Devil	LVL : 42	AREA : Hades	XP : 1082900476
 
--------------
+\-------------
 
 The Winterblade shines briefly as a frozen ray shoot forth!
 
@@ -764,11 +764,11 @@ Dingo receives 16307031 experience points.
 
 Total exp for kill is 209490447.
 
--------------
+\-------------
 
 MOB : Atlas Defender Titans	LVL : 42	AREA : The Caverns of Matterhorn	XP : 209490447
 
--------------
+\-------------
 
 Bandit buries his weapon to the hilt!
 
@@ -816,11 +816,11 @@ Dingo receives 30743852 experience points.
 
 Total exp for kill is 394954987.
 
--------------
+\-------------
 
 MOB : Kzartaxen firenewt god war epic	LVL : 42	AREA : Land of the Firenewts	XP : 394954987
 
--------------
+\-------------
 
 The Winterblade shines briefly as a frozen ray shoot forth!
 
@@ -892,11 +892,11 @@ Dingo receives 89621392 experience points.
 
 Total exp for kill is 1151333188.
 
--------------
+\-------------
 
 MOB : Baraneth dragoness avatar	LVL : 42	AREA : The Thordfalan Volcano	XP : 1151333188
 
--------------
+\-------------
 
 Bijaz ruptures the soul of their victim with a devastating attack!
 
@@ -994,11 +994,11 @@ Dingo receives 50507480 experience points.
 
 Total exp for kill is 676316962.
 
--------------
+\-------------
 
 MOB : Takhisis Dragon goddess	LVL : 42	AREA : The Dragon Mountain	XP : 676316962
 
--------------
+\-------------
 
 Someone utters the words, 'euguihzofahz'
 
@@ -1048,11 +1048,11 @@ Dingo receives 60395220 experience points.
 
 Total exp for kill is 838885404.
 
--------------
+\-------------
 
 MOB : Oth Lord General	LVL : 42	AREA : Kara'sa	XP : 838885404
 
--------------
+\-------------
 
 Scaind utters the words, 'euguihzofahz'
 
@@ -1104,11 +1104,11 @@ Dingo receives 24876478 experience points.
 
 Total exp for kill is 345532558.
 
--------------
+\-------------
 
 MOB : Iggwilv demon witch queen	LVL : 42	AREA : The Witches Domain	XP : 345532558
 
--------------
+\-------------
 
 The Dread Pirate Roberts misses you with his slash.
 
@@ -1174,13 +1174,13 @@ Dingo receives 42120020 experience points.
 
 Total exp for kill is 585044168.
 
--------------
+\-------------
 
 MOB : bart bartholomew roberts captain capt dread pirate	LVL : 42	AREA : The Argosian Wreckage	XP : 
 
 585044168
 
--------------
+\-------------
 
 A whip of demon's flame unleashes a fury of flame as it snaps back and forth!
 
@@ -1254,11 +1254,11 @@ Dingo receives 38471272 experience points.
 
 Total exp for kill is 534363290.
 
--------------
+\-------------
 
 MOB : Roedrig troll champion epic	LVL : 42	AREA : The Athenaeum	XP : 534363290
 
--------------
+\-------------
 
 Sam utters the words, 'disintegrate'
 
@@ -1308,11 +1308,11 @@ Scaind receives 20608446 experience points.
 
 Total exp for kill is 305198151.
 
--------------
+\-------------
 
-MOB : Commodore Higgins epic	LVL : 42	AREA : Canaa & Canaa's Wharf	XP : 305198151
+MOB : Commodore Higgins epic	LVL : 42	AREA : Canaa \& Canaa's Wharf	XP : 305198151
 
--------------
+\-------------
 
 The Hydra of Gr'Valdh has been banished to the astral plane!
 
@@ -1358,11 +1358,11 @@ Scaind receives 54738808 experience points.
 
 Total exp for kill is 810647388.
 
--------------
+\-------------
 
 MOB : gr hydra valdh champion dragon kin six	LVL : 42	AREA : The Tower of Gr'Valdh	XP : 810647388
 
--------------
+\-------------
 
 Maleficent, the Dragon Sorceress has been banished to the astral plane!
 
@@ -1408,13 +1408,13 @@ Scaind receives 17386868 experience points.
 
 Total exp for kill is 257488607.
 
--------------
+\-------------
 
 MOB : kol queen maleficent witch dragon form wyrm black evil	LVL : 41	AREA : The Kingdom of 
 
 Luilekkerland	XP : 257488607
 
--------------
+\-------------
 
 A whip of demon's flame unleashes a fury of flame as it snaps back and forth!
 
@@ -1464,11 +1464,11 @@ Scaind receives 48920880 experience points.
 
 Total exp for kill is 724487530.
 
--------------
+\-------------
 
 MOB : icebeast kezthall icy ice beast epic	LVL : 42	AREA : An Icy Mountain Trail	XP : 724487530
 
--------------
+\-------------
 
 Contagion is dead! R.I.P.
 
@@ -1514,11 +1514,11 @@ Scaind receives 30995982 experience points.
 
 Total exp for kill is 459204479.
 
--------------
+\-------------
 
 MOB : contagion released epic	LVL : 42	AREA : Dark Chasm	XP : 459204479
 
--------------
+\-------------
 
 Mage misses Tyrenoth'gyus-zeux, The Breath of Death with his cleave.
 
@@ -1526,21 +1526,21 @@ Tyrenoth'gyus-zeux, The Breath of Death misses you with its zap.
 
 Tyrenoth'gyus-zeux, The Breath of Death viciously massacres Mage with its zap.
 
-|;rescue Mage;@@
+\|;rescue Mage;@@
 
 Tyrenoth'gyus-zeux, The Breath of Death brutally massacres Mage with its zap.
 
-|;rescue Mage;@@
+\|;rescue Mage;@@
 
 You are brutally massacred by Tyrenoth'gyus-zeux, The Breath of Death's zap.
 
 Tyrenoth'gyus-zeux, The Breath of Death viciously massacres Mage with its zap.
 
-|;rescue Mage;@@
+\|;rescue Mage;@@
 
 Tyrenoth'gyus-zeux, The Breath of Death viciously massacres Mage with its zap.
 
-|;rescue Mage;@@
+\|;rescue Mage;@@
 
 Mage massacres Tyrenoth'gyus-zeux, The Breath of Death to small fragments with his cleave.
 
@@ -1598,13 +1598,13 @@ Scaind receives 121231568 experience points.
 
 Total exp for kill is 1796041848.
 
--------------
+\-------------
 
 MOB : Tyrenoth'gyus zeux tyrenoth breath death god	LVL : 42	AREA : The Diabolan-Sardaukar Citadel	XP : 
 
 1796041848
 
--------------
+\-------------
 
 Mage utters the words, 'euguihzofahz'
 
@@ -1654,11 +1654,11 @@ Scaind receives 32915454 experience points.
 
 Total exp for kill is 487641410.
 
--------------
+\-------------
 
 MOB : Alhoon mind flayer Necromancer illithid outlaw	LVL : 42	AREA : Derro Caverns	XP : 487641410
 
--------------
+\-------------
 
 Bijaz utters the words, 'euguihzofahz'
 
@@ -1708,11 +1708,11 @@ Scaind receives 53795608 experience points.
 
 Total exp for kill is 796980194.
 
--------------
+\-------------
 
 MOB : Miska Wolf Spider demon	LVL : 42	AREA : The Web of Lolth	XP : 796980194
 
--------------
+\-------------
 
 Keadral is dead! R.I.P.
 
@@ -1760,11 +1760,11 @@ Scaind receives 79556648 experience points.
 
 Total exp for kill is 1279763956.
 
--------------
+\-------------
 
 MOB : Keadral Chaos Demon master	LVL : 42	AREA : The Web of Lolth	XP : 1279763956
 
--------------
+\-------------
 
 Mage utters the words, 'euguihzofahz'
 
@@ -1816,11 +1816,11 @@ Scaind receives 21093382 experience points.
 
 Total exp for kill is 339312330.
 
--------------
+\-------------
 
 MOB : Vouhx head chief bloody epic	LVL : 42	AREA : Ogre Village and Caverns	XP : 339312330
 
--------------
+\-------------
 
 An acid golem is dead! R.I.P.
 
@@ -1868,11 +1868,11 @@ Scaind receives 41142976 experience points.
 
 Total exp for kill is 661834056.
 
--------------
+\-------------
 
 MOB : Acid Golem	LVL : 42	AREA : Temple of Fiends	XP : 661834056
 
--------------
+\-------------
 
 A snow lion staggers from tremendous pain as poison ravages him!
 
@@ -1924,11 +1924,11 @@ Scaind receives 33526872 experience points.
 
 Total exp for kill is 539319900.
 
--------------
+\-------------
 
 MOB : snow lion enormous epic	LVL : 42	AREA : Pagoda of Enlightenment	XP : 539319900
 
--------------
+\-------------
 
 You skillfully parry the attack of Pale Night, the Demon Mother.
 
@@ -1996,11 +1996,11 @@ Scaind receives -126064544 experience points.
 
 Total exp for kill is -2027899212.
 
--------------
+\-------------
 
 MOB : Pale Night Mother Demon	LVL : 42	AREA : The Web of Lolth	XP : -2027899212
 
--------------
+\-------------
 
 Mage ruptures the soul of their victim with a devastating attack!
 
@@ -2012,7 +2012,7 @@ Zalla misses Scaind with its pound.
 
 Zalla viciously massacres Scaind with its whip.
 
-|;rescue Scaind;@@
+\|;rescue Scaind;@@
 
 You feel a sudden rush of excitement!
 
@@ -2020,7 +2020,7 @@ You are viciously massacred by Zalla's whip.
 
 Zalla viciously massacres Scaind with its sting.
 
-|;rescue Scaind;@@
+\|;rescue Scaind;@@
 
 Bijaz ruptures the soul of their victim with a devastating attack!
 
@@ -2090,11 +2090,11 @@ Scaind receives 65362988 experience points.
 
 Total exp for kill is 1051810240.
 
--------------
+\-------------
 
 MOB : zalla zallah	LVL : 42	AREA : Kingdom of Salamis	XP : 1051810240
 
--------------
+\-------------
 
 Koshey misses you with his slash.
 
@@ -2156,13 +2156,13 @@ Scaind receives 12125450 experience points.
 
 Total exp for kill is 195120707.
 
--------------
+\-------------
 
 MOB : Koshey ruler eternal mortal	LVL : 42	AREA : The Lost Castle of Kitezh and Kitezh Lake	XP : 
 
 195120707
 
--------------
+\-------------
 
 Mage utters the words, 'euguihzofahz'
 
@@ -2210,13 +2210,13 @@ Scaind receives 11314579 experience points.
 
 Total exp for kill is 182072302.
 
--------------
+\-------------
 
 MOB : Koshey ruler eternal mortal second coming	LVL : 42	AREA : The Lost Castle of Kitezh and Kitezh 
 
 Lake	XP : 182072302
 
--------------
+\-------------
 
 You are brutally massacred by Koshey's slash.
 
@@ -2282,13 +2282,13 @@ Scaind receives 12508040 experience points.
 
 Total exp for kill is 201277290.
 
--------------
+\-------------
 
 MOB : Koshey ruler eternal mortal final coming	LVL : 42	AREA : The Lost Castle of Kitezh and Kitezh 
 
 Lake	XP : 201277290
 
--------------
+\-------------
 
 Sam cuts off the head of Xerxes, The Corruptor of Worlds!!!!
 
@@ -2338,11 +2338,11 @@ Scaind receives 48880056 experience points.
 
 Total exp for kill is 786471030.
 
--------------
+\-------------
 
 MOB : xerxes lord corruptor worlds destroyer	LVL : 42	AREA : Ruins of Gildebruun	XP : 786471030
 
--------------
+\-------------
 
 Bijaz wildly swings blazing sword of the maul titans, and accidentally cuts off his own head!
 
@@ -2398,11 +2398,11 @@ Dingo receives 14157174 experience points.
 
 Total exp for kill is 181441742.
 
--------------
+\-------------
 
 MOB : gildebruun witch gilde bruun ruins mistress rg	LVL : 42	AREA : Ruins of Gildebruun	XP : 181441742
 
--------------
+\-------------
 
 </div>
 

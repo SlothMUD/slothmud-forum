@@ -18,7 +18,7 @@ For those warriors with "bloodrage" in their titles, and even those without, the
 
 Find the Master Warrior and ask about bloodrage, and I'm sure he'll be willing to help.
 
-Please send bugs reports/errors/typos/money/cookies to me either ingame or chobbs@slothmud.org.  Be advised that this is supposed to be a bit of a challenge, so death may pay you a visit.
+Please send bugs reports/errors/typos/money/cookies to me either ingame or chobbs@slothmud.org. Be advised that this is supposed to be a bit of a challenge, so death may pay you a visit.
 
 Hopefully we'll be able to add more skill quests in addition to the ones already in game.
 
@@ -30,7 +30,7 @@ Chobbs!
 
 Dwarven warriors aren't very hard people, you should try popping your own.
 
-Looking forward to that Rapid Shift auto quest your working on...  :wink:  :twisted:
+Looking forward to that Rapid Shift auto quest your working on... <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

@@ -28,7 +28,7 @@ What effect does casting darkness on myself make to a mob seeing me?
 
 If a mob blinds me and hits hard, how can I recall safely if I am shifted?
 
-Is shifting ferret the best way to see the world, or should I wander around lit and shifted phoenix ready for anything? :twisted:
+Is shifting ferret the best way to see the world, or should I wander around lit and shifted phoenix ready for anything? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 What supplicants can I give a recall to and get them to recall me?
 
@@ -64,9 +64,9 @@ Experience while alone 2,683,085,048
 
 Experience while grouped 883,650,977
 
-[b:geagqhwv]Deaths 0[/b:geagqhwv][/color:geagqhwv]
+<strong>Deaths 0</strong>
 
-Dying is against my religion!  :evil:   You may like it, but it's another flaming hour of my life... to get 90mill back!  :twisted:
+Dying is against my religion! <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom"> You may like it, but it's another flaming hour of my life... to get 90mill back! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -92,17 +92,18 @@ Dude, you really should be doing some thinking yourself. A lot of people here ar
 
 <div class="post" data-post-id="24440" data-author="jezer" data-date="2008-05-21T13:55:22+00:00" data-subject="">
 
-R.I.P.
+> <strong>Stryx wrote:</strong>
+> R.I.P.
+> 
+> Here lies the corpse of jezer... 
+> 
+> The poor guy couldn't get the forum fast enough to find out why he was getting killed!
 
-Here lies the corpse of jezer... 
-
-The poor guy couldn't get the forum fast enough to find out why he was getting killed![/quote:1g51qsv1]
-
-Cackle!  
+Cackle! 
 
 Screams are heard in the distance...
 
-"Ouch! Your hurting me! Hey! the forum said you wouldn't do this! This isn't fair!" *eerie silence* :twisted:
+"Ouch! Your hurting me! Hey! the forum said you wouldn't do this! This isn't fair!" \*eerie silence\* <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

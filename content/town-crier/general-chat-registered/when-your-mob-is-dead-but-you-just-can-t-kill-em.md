@@ -16,17 +16,17 @@ You viciously massacre wereraven lord with your pound.
 
 Wereraven lord is mortally wounded, and will die soon, if not aided.
 
-<1640hp 581ma 581mv -12.0ac Ravenloft in Barovia 119922333430xp 0%>
+\<1640hp 581ma 581mv -12.0ac Ravenloft in Barovia 119922333430xp 0%\>
 
 Caerbannog the eudaemon touches you with his antlers.
 
 You feel your wounds heal rapidly!
 
-<1803hp 581ma 581mv -12.0ac Ravenloft in Barovia 119922333430xp 0%>
+\<1803hp 581ma 581mv -12.0ac Ravenloft in Barovia 119922333430xp 0%\>
 
 With a mighty effort, you shake off your exhaustion!
 
-<1803hp 582ma 568mv -12.0ac Ravenloft in Barovia 119922333430xp 0%>
+\<1803hp 582ma 568mv -12.0ac Ravenloft in Barovia 119922333430xp 0%\>
 
 You are knocked off your feet!
 
@@ -40,7 +40,7 @@ broadside
 
 @@
 
-<1803hp 582ma 568mv -12.0ac Ravenloft in Barovia 119922333430xp 0%>
+\<1803hp 582ma 568mv -12.0ac Ravenloft in Barovia 119922333430xp 0%\>
 
 Wereraven lord dies from bloodloss, and the lack of a beating heart.
 
@@ -50,17 +50,17 @@ Your blood freezes as you hear wereraven lord's death cry.
 
 <div class="post" data-post-id="39729" data-author="Insomnia" data-date="2021-06-09T13:07:11+00:00" data-subject="Re: When your mob is dead, but you just can&#x27;t kill &#x27;em">
 
-I have it all the time. :(
+I have it all the time. <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 A piece of the demonic weaponmaster is turned into dust.
 
 The demonic weaponmaster is incapacitated and will slowly die, if not aided.
 
-<1068/1023hp 1594/825ma 380/444mv -%>
+\<1068/1023hp 1594/825ma 380/444mv -%\>
 
 The demonic weaponmaster is mortally wounded, and will die soon, if not aided.
 
-<1067/1023hp 1593/825ma 381/444mv -%>
+\<1067/1023hp 1593/825ma 381/444mv -%\>
 
 kick weapon
 
@@ -68,7 +68,7 @@ You miss your kick at the demonic weaponmaster's groin, much to his relief.
 
 The demonic weaponmaster is mortally wounded, and will die soon, if not aided.
 
-<1066/1023hp 1592/825ma 386/444mv -%>
+\<1066/1023hp 1592/825ma 386/444mv -%\>
 
 kick weapon
 
@@ -76,7 +76,7 @@ Your beautiful full-circle-kick misses the demonic weaponmaster by a mile.
 
 The demonic weaponmaster is mortally wounded, and will die soon, if not aided.
 
-<1065/1023hp 1591/825ma 390/444mv -%>
+\<1065/1023hp 1591/825ma 390/444mv -%\>
 
 kick weapon
 
@@ -88,7 +88,7 @@ The demonic weaponmaster is mortally wounded, and will die soon, if not aided.
 
 <div class="post" data-post-id="39731" data-author="Driven" data-date="2021-06-12T18:19:36+00:00" data-subject="Re: When your mob is dead, but you just can&#x27;t kill &#x27;em">
 
-I can actually fix this.  Want me to, or do you want the idiosyncracy to remain?
+I can actually fix this. Want me to, or do you want the idiosyncracy to remain?
 
 </div>
 

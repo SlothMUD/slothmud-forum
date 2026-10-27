@@ -20,6 +20,6 @@ Thanks Splork for doing to required code for it.
 
 Best regards.
 
-Pd. The hovel seller is a merchant, so I would expect to find him by the guild of merchants *hint hint*.
+Pd. The hovel seller is a merchant, so I would expect to find him by the guild of merchants \*hint hint\*.
 
 </div>

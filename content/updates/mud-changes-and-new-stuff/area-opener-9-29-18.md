@@ -24,6 +24,6 @@ Let's say we start around 1 p.m. US Central Time on Saturday.
 
 Hope to see you guys there!
 
--Neptune
+\-Neptune
 
 </div>

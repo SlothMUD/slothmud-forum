@@ -14,9 +14,9 @@ post_count: 11
 
 Set out to design the "Ultimate Warrior" on paper.
 
-This is a CAPPED MAX_STR (25), CAPPED Dam Reduct (25), CAPPED Weapon Dam (25), MAX AC eq build for a Warrior Monk...
+This is a CAPPED MAX\_STR (25), CAPPED Dam Reduct (25), CAPPED Weapon Dam (25), MAX AC eq build for a Warrior Monk...
 
-This includes Hero Rank, max purchases of MAX_STR, MAX_DEX, MAX_CON, DAM, WEAPON DAM, DAM REDUCT and AC from Avatar Shop. Does not include temp affects. 5ma +Dam -0.2ac Avatar Light.
+This includes Hero Rank, max purchases of MAX\_STR, MAX\_DEX, MAX\_CON, DAM, WEAPON DAM, DAM REDUCT and AC from Avatar Shop. Does not include temp affects. 5ma +Dam -0.2ac Avatar Light.
 
 AC = -12.8
 
@@ -28,43 +28,43 @@ Max Strength = 25 (Cap 25)
 
 Max Con = 21 (Cap 24)
 
-<used as light>      a glowing bauble with `Gorka` engraved upon on it..It has a soft glowing aura! ()socketed Rhodo Rune()
+\<used as light\> a glowing bauble with \`Gorka\` engraved upon on it..It has a soft glowing aura! ()socketed Rhodo Rune()
 
-<worn on finger>     the titanium ring of glory..It emits a faint humming sound! ()socketed Chrysoprase Rune()
+\<worn on finger\> the titanium ring of glory..It emits a faint humming sound! ()socketed Chrysoprase Rune()
 
-<worn on finger>     the titanium ring of glory..It emits a faint humming sound! ()socketed Chrysoprase Rune()
+\<worn on finger\> the titanium ring of glory..It emits a faint humming sound! ()socketed Chrysoprase Rune()
 
-<worn around neck>   ankh of purity (with a golden oak tree charm) 
+\<worn around neck\> ankh of purity (with a golden oak tree charm) 
 
-<worn on shoulders>  guards of the maul titans (with a golden oak tree charm)
+\<worn on shoulders\> guards of the maul titans (with a golden oak tree charm)
 
-<worn on body>       scintillating silken armor ()socketed Alexandrite Rune()  
+\<worn on body\> scintillating silken armor ()socketed Alexandrite Rune() 
 
-<worn on head>       a crimson tri-cornered hat (with the crest of the pirate king attached to it)  
+\<worn on head\> a crimson tri-cornered hat (with the crest of the pirate king attached to it) 
 
-<worn on legs>       Redsteel Legplates of Hades ()socketed Sardonyx Rune() (with a polished spectrolite
+\<worn on legs\> Redsteel Legplates of Hades ()socketed Sardonyx Rune() (with a polished spectrolite
 
 charm attached)
 
-<worn on feet>       gleaming dragonscale sabatons ()socketed Rock Crystal Quartz Rune()
+\<worn on feet\> gleaming dragonscale sabatons ()socketed Rock Crystal Quartz Rune()
 
-<worn on hands>      devilskin gauntlets..It has a soft glowing aura! ()socketed Jet Rune()
+\<worn on hands\> devilskin gauntlets..It has a soft glowing aura! ()socketed Jet Rune()
 
-<worn on arms>       the sleeves of the saurian warlord ()socketed Amethyst Rune() 
+\<worn on arms\> the sleeves of the saurian warlord ()socketed Amethyst Rune() 
 
-<worn as shield>     Walls of Jericho (with a dragon emblem attached to it)
+\<worn as shield\> Walls of Jericho (with a dragon emblem attached to it)
 
-<worn about body>    Cloak of Shadows ()socketed Eye Agate Rune() (with a blazing starburst ruby (Hero) attached to it)
+\<worn about body\> Cloak of Shadows ()socketed Eye Agate Rune() (with a blazing starburst ruby (Hero) attached to it)
 
-<worn about waist>   Ancient Cincture of Vigor ()socketed Aventurine() 
+\<worn about waist\> Ancient Cincture of Vigor ()socketed Aventurine() 
 
-<worn around wrist>  Sacred Bracer of the Dark Order ()socketed Tomb Jade Rune() 
+\<worn around wrist\> Sacred Bracer of the Dark Order ()socketed Tomb Jade Rune() 
 
-<worn around wrist>  Sacred Bracer of the Dark Order ()socketed Tomb Jade Rune() 
+\<worn around wrist\> Sacred Bracer of the Dark Order ()socketed Tomb Jade Rune() 
 
-<wielded>            Brillant Sword of Valor ()socketed Colorless Sapphire Rune() (with tassle of the guardian attached to it)
+\<wielded\> Brillant Sword of Valor ()socketed Colorless Sapphire Rune() (with tassle of the guardian attached to it)
 
-<held>               Sacred Relic of the High Paladin ()socketed Malachite Rune()
+\<held\> Sacred Relic of the High Paladin ()socketed Malachite Rune()
 
 Dam would be about +19 with +25 weapon damage for a total of 44.
 
@@ -74,7 +74,7 @@ Comments, and improvements welcome...
 
 Capping damage reduction was difficult with Max Strength. 3x40 eq was mostly unhelpful and the build includes a crap load of drachma (5795). Feet and Shield slots had unhelpful eq options and uninteresting sockets. Still no love for Drachma Warrior Bracers!
 
-I am 9x40 but still about 3000dr, 8 runes, 400b xp short.  :lol:
+I am 9x40 but still about 3000dr, 8 runes, 400b xp short. <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -100,37 +100,37 @@ Maybe if you tell us what the goal of the build is, other than capping everythin
 
 <div class="post" data-post-id="38171" data-author="Gorka" data-date="2017-03-28T11:36:24+00:00" data-subject="Re: Wa/Mo Ultimate Warrior Build">
 
-> **Teron wrote:**
+> <strong>Teron wrote:</strong>
 > Is this a damage build or a tank build? It looks like a solo build. Maybe if you tell us what the goal of the build is, other than capping everything.
 
 Yeah, this build is mostly about capping core stats. It's not the most offensive build, nor is it the most defensive build, but it's well balanced in both. Obviously the more you cap things the more "Ultimate" the warrior is... It's not possible to cap everything at once, but this build is fairly optimum at the expense of some AC points at capping the important things. 
 
-> **Teron wrote:**
+> <strong>Teron wrote:</strong>
 > For damage, it lacks demonskin boots.
 
 Correct, could sub those out for a -0.2 ac penalty.
 
-> **Teron wrote:**
+> <strong>Teron wrote:</strong>
 > Swap maul titan guards with Epaulets of the Holy Order.
 
-Would lose MAX_STR cap.
+Would lose MAX\_STR cap.
 
-> **Teron wrote:**
+> <strong>Teron wrote:</strong>
 > If -dam reduction is worth about -0.1ac, then losing -0.2ac and 40hps for -dam reduction on body isn't worth it. I'm of the opinion that getting the last 3 max str isn't worth it for solo. Ymmw.
 
 Agree. The point of this exercise though is to highlight and discuss these deficiencies. 
 
 It's identified...
 
-* MAX_CON eq issues.
+\* MAX\_CON eq issues.
 
-* Shields and Boots are weak stat options outside of having good AC.
+\* Shields and Boots are weak stat options outside of having good AC.
 
-* 3x40 eq is mostly useless for warriors outside of AC.
+\* 3x40 eq is mostly useless for warriors outside of AC.
 
-* Dam reduct and MAX_STR eq have questionable advantages for there price and disadvantages.
+\* Dam reduct and MAX\_STR eq have questionable advantages for there price and disadvantages.
 
-* At the end of the day, melee damage improvements, isn't going to beat the improvement you can make to your firewind through spellbonus and spell saves eq.
+\* At the end of the day, melee damage improvements, isn't going to beat the improvement you can make to your firewind through spellbonus and spell saves eq.
 
 </div>
 
@@ -150,11 +150,11 @@ Armored, lots of ac, with touch of con wherever you can add without losing much 
 
 I agree with Taron, cuirass totally worth it for ac set.
 
-Solo set, one for running solo, duh. For me it shifted from balance between ac and damage to damage, as I got most of desired equipment at some point and needed set for doing exp runs. I made heavy damage and heavy hitroll (things like +2hitroll rings included) set with dagger for backstabbing, so its mostly +damage, +hit,  +Maxstr and touch of weapondamage. Other approaches - handdamage, or spelldamage/saves, whatever works.
+Solo set, one for running solo, duh. For me it shifted from balance between ac and damage to damage, as I got most of desired equipment at some point and needed set for doing exp runs. I made heavy damage and heavy hitroll (things like +2hitroll rings included) set with dagger for backstabbing, so its mostly +damage, +hit, +Maxstr and touch of weapondamage. Other approaches - handdamage, or spelldamage/saves, whatever works.
 
 There are forged sleeves +dam +maxstr, demonskin boots, and slightly less conventional +damage items, depending on how much ac you are ready to sacrifice.
 
-Hit points set, one that drops ac to around -10/-11 in favor of hit points and con. This one is interesting as it  requires quite a lot of knowledge about mobs, to know when you actually need it. Easiest example snow lion, or lucifer(my argument is that it is 1 miss in 5 rounds vs -13 or no misses, but quite easier to heal).
+Hit points set, one that drops ac to around -10/-11 in favor of hit points and con. This one is interesting as it requires quite a lot of knowledge about mobs, to know when you actually need it. Easiest example snow lion, or lucifer(my argument is that it is 1 miss in 5 rounds vs -13 or no misses, but quite easier to heal).
 
 There are good rings and neck for this one, and few other intresting alternatives.
 
@@ -180,11 +180,11 @@ Though, for my own purposes, as a wa/ne I've taken -0.4 +5mr and I don't even us
 
 Gorka, I've already mentioned here on the forum that:
 
-- -dam red eq is underrepresented
+\- -dam red eq is underrepresented
 
-- we need lots more max con eq/clasps
+\- we need lots more max con eq/clasps
 
-- max str is not that great.
+\- max str is not that great.
 
 Coupled with how max dex is done, it seems we could use some improvements in the max stat area.
 
@@ -212,7 +212,7 @@ E.g., Epaulets of the Holy Order -0.8 +bonus dr +35hp +bonus hd are a good item,
 
 So yes, my ultimate warrior perhaps crossed the line trying to be good at too many things. By trying to cap damage reduction, ac had started to suffer. If I compromised on capping damage reduction, that ultimate set was rocking in AC and in Damage.
 
-The eq weak points for warriors are MAX_CON, Dam Reduction, MAX_STR and in that order. At some point in the future I am going to ask the imms to lift a few buying caps in the avatar shop. I think there is a case to change the damage reduction buy cap from 5 to 10, but perhaps the ability to buy more MAX_STATS at rebirth or something. But I want to cap these things first, before I start advocating for it.
+The eq weak points for warriors are MAX\_CON, Dam Reduction, MAX\_STR and in that order. At some point in the future I am going to ask the imms to lift a few buying caps in the avatar shop. I think there is a case to change the damage reduction buy cap from 5 to 10, but perhaps the ability to buy more MAX\_STATS at rebirth or something. But I want to cap these things first, before I start advocating for it.
 
 It's clear you guys are into Specialisation. Not a surprise, when Taron complained about the number of items in his robe recently. But specialisation is not better than generalisation, it is just different. Specialisation is expensive, uses more resources, tends to have higher advantages but also higher disadvantages. Generalisation isn't popular these days, but it gives the most value for the cheapest dollar and often stands stronger in the face of an opponents specialisation - than a specialist in his weak spot.
 
@@ -224,14 +224,14 @@ There is a saying "Jack of all trades, master of none." Sums up my thinking abou
 
 <div class="post" data-post-id="38180" data-author="alris" data-date="2017-03-28T19:17:57+00:00" data-subject="Re: Wa/Mo Ultimate Warrior Build">
 
-> **Quote:**
+> <strong>Quote:</strong>
 > It's +5ma regen not + 5ma.
 
 And that makes it SOOO much better. I still firm in my opinion that light should be +2 damage +anything. Whatever.
 
 You run in your solo/damage set when in small group. You only need all the heavy armor when chopping or in group of 6+ players. In 2-3 size group I would run in my -9 ac set on almost anything.
 
-Of course specialization is better than generalization. In sloth being generalist does not mean you have only one eq set, it means you can deal with any type of problem presented. And that might require a lot of flexibility. If you want to run stab mobs on lyme, you would prefer high damage over medium ac/damage. If you go in 10 member group tanking, its better to have -13 low damage, than -12 with medium damage. If you want do subdue_Tiamat solo, it would probably require some anti-damage eq. Its all down to what mobs you are dealing with. Its not wrong to have balanced solo set, but specialization *is* good.
+Of course specialization is better than generalization. In sloth being generalist does not mean you have only one eq set, it means you can deal with any type of problem presented. And that might require a lot of flexibility. If you want to run stab mobs on lyme, you would prefer high damage over medium ac/damage. If you go in 10 member group tanking, its better to have -13 low damage, than -12 with medium damage. If you want do subdue\_Tiamat solo, it would probably require some anti-damage eq. Its all down to what mobs you are dealing with. Its not wrong to have balanced solo set, but specialization <em>is</em> good.
 
 Also, whats wrong with maxing fire resistance? I would take max fire resist over max con in damage/max str in ac anyday. (And I do have maxed wis in regen set. Probably)
 

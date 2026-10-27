@@ -24,7 +24,8 @@ Just find a caster type and two man it.
 
 <div class="post" data-post-id="23560" data-author="Autolycos" data-date="2008-04-03T17:27:37+00:00" data-subject="">
 
-Just find a caster type and two man it.[/quote:3a32jwal]
+> <strong>Leaf wrote:</strong>
+> Just find a caster type and two man it.
 
 first he would have to find someone he hasnt pissed off that would be willing to help him..
 
@@ -32,15 +33,21 @@ first he would have to find someone he hasnt pissed off that would be willing to
 
 <div class="post" data-post-id="23561" data-author="Leaf" data-date="2008-04-03T17:29:27+00:00" data-subject="">
 
-Hahaha, better make it 50mil :P
+Hahaha, better make it 50mil <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23589" data-author="Yasik2" data-date="2008-04-04T18:14:19+00:00" data-subject="">
 
-Just find a caster type and two man it.[/quote:29fncxyn]
-
-first he would have to find someone he hasnt pissed off that would be willing to help him..[/quote:29fncxyn]
+> <strong>Autolycos wrote:</strong>
+> > <strong>Leaf wrote:</strong>
+> > Just find a caster type and two man it.
+> 
+> 
+> 
+> 
+> 
+> first he would have to find someone he hasnt pissed off that would be willing to help him..
 
 i found such ppl
 
@@ -50,13 +57,24 @@ your stereotypes a somewhat obsolete
 
 <div class="post" data-post-id="23590" data-author="Yasik2" data-date="2008-04-04T18:16:34+00:00" data-subject="">
 
-Just find a caster type and two man it.[/quote:3mplg5pf]
-
-first he would have to find someone he hasnt pissed off that would be willing to help him..[/quote:3mplg5pf]
-
-i found such ppl pretty fast
-
-your stereotypes a somewhat obsolete[/quote:3mplg5pf]
+> <strong>Yasik2 wrote:</strong>
+> > <strong>Autolycos wrote:</strong>
+> > > <strong>Leaf wrote:</strong>
+> > > Just find a caster type and two man it.
+> > 
+> > 
+> > 
+> > 
+> > 
+> > first he would have to find someone he hasnt pissed off that would be willing to help him..
+> 
+> 
+> 
+> 
+> 
+> i found such ppl pretty fast
+> 
+> your stereotypes a somewhat obsolete
 
 </div>
 

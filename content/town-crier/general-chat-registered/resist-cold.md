@@ -32,15 +32,15 @@ Is this intentional?
 
 <div class="post" data-post-id="9865" data-author="kjartan" data-date="2005-12-19T02:14:52+00:00" data-subject="">
 
-No.  It used to be that "resist cold by 1" was the "resist cold" spell, which was a flat 50% and did not stack with other resist cold items.  We changed it a few months back; now it stacks, and so we made the number be the % resistance.  Apparently we missed a few items; generally it should be 10% or 20% per item.  (The stacking formula is complicated; the %'s don't add, they apply successively, so two 10% resists resist 10% of the base damage and then 10% of what's left for 19% total resistance).
+No. It used to be that "resist cold by 1" was the "resist cold" spell, which was a flat 50% and did not stack with other resist cold items. We changed it a few months back; now it stacks, and so we made the number be the % resistance. Apparently we missed a few items; generally it should be 10% or 20% per item. (The stacking formula is complicated; the %'s don't add, they apply successively, so two 10% resists resist 10% of the base damage and then 10% of what's left for 19% total resistance).
 
-We should fix those; I fixed the ones you mentioned.  I'm not sure that the brooches will auto-update, though, you might need a new brooch to get the benefits.  If your brooch still identifies as +1, contact an immortal to exchange it for a new one.
+We should fix those; I fixed the ones you mentioned. I'm not sure that the brooches will auto-update, though, you might need a new brooch to get the benefits. If your brooch still identifies as +1, contact an immortal to exchange it for a new one.
 
 </div>
 
 <div class="post" data-post-id="9866" data-author="Shara" data-date="2005-12-19T02:29:08+00:00" data-subject="">
 
-:grin: So Shara resists almost 2% of cold damage?
+<img src="/images/smilies/icon_e_biggrin.svg" alt=":grin:" title=":grin:" width="15" height="15" class="smiley nozoom"> So Shara resists almost 2% of cold damage?
 
 Bring on the frostbolts!!
 
@@ -48,7 +48,7 @@ Bring on the frostbolts!!
 
 <div class="post" data-post-id="9867" data-author="Weasel" data-date="2005-12-19T04:40:53+00:00" data-subject="">
 
-the bands of water I have currently ID as RESIST_COLD by 1 instead of +10 RESIST_COLD if others want to check theirs
+the bands of water I have currently ID as RESIST\_COLD by 1 instead of +10 RESIST\_COLD if others want to check theirs
 
 </div>
 
@@ -56,12 +56,12 @@ the bands of water I have currently ID as RESIST_COLD by 1 instead of +10 RESIST
 
 Bands should be fixed (+10) next time you log in.
 
-Edit: I just went through the eq list here on the website and made sure everything marked as resist cold was a reasonable value now.  I think with a full set of anti-cold eq and a resist cold spell, you could get 90%+ resistance.
+Edit: I just went through the eq list here on the website and made sure everything marked as resist cold was a reasonable value now. I think with a full set of anti-cold eq and a resist cold spell, you could get 90%+ resistance.
 
 </div>
 
 <div class="post" data-post-id="9869" data-author="Weasel" data-date="2005-12-19T04:57:23+00:00" data-subject="">
 
-yup done, thanks :)
+yup done, thanks <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

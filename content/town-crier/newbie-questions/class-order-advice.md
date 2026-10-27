@@ -12,33 +12,33 @@ post_count: 11
 
 <div class="post" data-post-id="30636" data-author="Toxis" data-date="2010-01-11T07:24:30+00:00" data-subject="CLASS ORDER ADVICE">
 
-This is for the many players who ask about classes and class orders (classo or classoâ€™s), which is the order of which you pick your classes from your prime to your last.  There are many things not known to mortals yet, but this is my advice on classes and how to pick what you want to play for whatever affect you desire.
+This is for the many players who ask about classes and class orders (classo or classoâ€™s), which is the order of which you pick your classes from your prime to your last. There are many things not known to mortals yet, but this is my advice on classes and how to pick what you want to play for whatever affect you desire.
 
-First, for all you new players, get level 7 prime and level 1 secondary THEN get level 8 prime.  If you donâ€™t understand what prime is, itâ€™s the class you chose when creating your character.   Having at least a level 1 secondary will give you 5 rolls to pick stats from at level 8 prime.
+First, for all you new players, get level 7 prime and level 1 secondary THEN get level 8 prime. If you donâ€™t understand what prime is, itâ€™s the class you chose when creating your character. Having at least a level 1 secondary will give you 5 rolls to pick stats from at level 8 prime.
 
-How do you decide what classo to choose?  Think what you like to do the most: solo, group, stab, shift, use pets, blast, tank, healâ€¦ thereâ€™s many different ways to play and you can adjust your character accordingly.  Knowing which of these you might like the best will decide your prime.
+How do you decide what classo to choose? Think what you like to do the most: solo, group, stab, shift, use pets, blast, tank, healâ€¦ thereâ€™s many different ways to play and you can adjust your character accordingly. Knowing which of these you might like the best will decide your prime.
 
 The Classes:
 
-Cleric:  Powerful heals and fantastic group character.  A good cleric can really boost the power of a group.  With the supplicant spell, clerics can solo fairly well.  Youâ€™ll want cleric at least by 3rd or 4th class picked or you will struggle for awhile.  My personal pick for cleric classo is cl/dr/ne/ma/wa/ba/mo/th.  Druid second for high healing, necro tert for 12 undead control cap, quad caster in the first four classes for much mana.
+Cleric: Powerful heals and fantastic group character. A good cleric can really boost the power of a group. With the supplicant spell, clerics can solo fairly well. Youâ€™ll want cleric at least by 3rd or 4th class picked or you will struggle for awhile. My personal pick for cleric classo is cl/dr/ne/ma/wa/ba/mo/th. Druid second for high healing, necro tert for 12 undead control cap, quad caster in the first four classes for much mana.
 
-Mage:  Great blasting spells takes mobs down fast.  They get frostbolts which comes in handy in a lot of places.  A good mage is almost always welcome as they can take down a mobâ€™s hit points very quickly.  A good caster has a lot of mana so my pick for mage is ma/dr/cl/ne/mo/wa/ba/th.  Again druid second for high regen, not to mention druids donâ€™t have bad hp, cleric tert cuz cleric past 3rd is a pain, monk earlier on for counter attack. 
+Mage: Great blasting spells takes mobs down fast. They get frostbolts which comes in handy in a lot of places. A good mage is almost always welcome as they can take down a mobâ€™s hit points very quickly. A good caster has a lot of mana so my pick for mage is ma/dr/cl/ne/mo/wa/ba/th. Again druid second for high regen, not to mention druids donâ€™t have bad hp, cleric tert cuz cleric past 3rd is a pain, monk earlier on for counter attack. 
 
-Druid:  Druids regen fast and their shapeshift forms are a tad more powerful, not to mention they are the only ones who can get piasa form.  Druid prime is great for those who like to shift and regen really fast.  Druid also works best second for any caster.  I wouldnâ€™t put druid any place other than 1st, 2nd or near the end.  My pick for druid is dr/ma/cl/ne/ba/mo/wa/th.
+Druid: Druids regen fast and their shapeshift forms are a tad more powerful, not to mention they are the only ones who can get piasa form. Druid prime is great for those who like to shift and regen really fast. Druid also works best second for any caster. I wouldnâ€™t put druid any place other than 1st, 2nd or near the end. My pick for druid is dr/ma/cl/ne/ba/mo/wa/th.
 
-Necromancer:  Necros are great for soloing big mobs.  Their undead followers can be devastating.  Necromancer as a support class get infuse soul, spectral shield, and can debuff really well if attuned for it.  There are several ways to pick classo for necro, either putting monk or warrior 3rd, or go 4xcaster at the start.   ne/dr/mo/cl/ma/ba/wa/th, ne/cl/mo/ba/wa/ma/th/dr, or ne/dr/cl/ma/wa/ba/mo/th.  Personally, I would choose the last (arrange last 4 classes whichever works best for you.)
+Necromancer: Necros are great for soloing big mobs. Their undead followers can be devastating. Necromancer as a support class get infuse soul, spectral shield, and can debuff really well if attuned for it. There are several ways to pick classo for necro, either putting monk or warrior 3rd, or go 4xcaster at the start. ne/dr/mo/cl/ma/ba/wa/th, ne/cl/mo/ba/wa/ma/th/dr, or ne/dr/cl/ma/wa/ba/mo/th. Personally, I would choose the last (arrange last 4 classes whichever works best for you.)
 
-Warrior:  Warrior is great at newbie levels and high levels, but sorta lacks in the middle unless you really know your stuff.  A good player can do some crazy stuff with warriors.  Warrior class also gets you the best armor class.  There are two tank styles and both are just as good as the other, really, and that is one for group and one geared more towards soloing.  If you go wa/ba (or wa/th) youâ€™ll get 24 dex someday but if you go wa with anything else second youâ€™ll only get 23 dex.  A monk second has good damage reduction, with monk tert little less.  If I were to make a group tank, I think I would make wa/ba/mo/cl (with the last 4 placed anywhere.  A solo tank I would make wa/ne/cl/ma/th/ba/mo/dr.  I was toying with the idea of another type of warrior, a wa/dr/mo/cl/ma, I think it would be fun with high regen from druid second, little damage reduction monk tert, and mage 5th youâ€™d get some blasts somewhat early on.
+Warrior: Warrior is great at newbie levels and high levels, but sorta lacks in the middle unless you really know your stuff. A good player can do some crazy stuff with warriors. Warrior class also gets you the best armor class. There are two tank styles and both are just as good as the other, really, and that is one for group and one geared more towards soloing. If you go wa/ba (or wa/th) youâ€™ll get 24 dex someday but if you go wa with anything else second youâ€™ll only get 23 dex. A monk second has good damage reduction, with monk tert little less. If I were to make a group tank, I think I would make wa/ba/mo/cl (with the last 4 placed anywhere. A solo tank I would make wa/ne/cl/ma/th/ba/mo/dr. I was toying with the idea of another type of warrior, a wa/dr/mo/cl/ma, I think it would be fun with high regen from druid second, little damage reduction monk tert, and mage 5th youâ€™d get some blasts somewhat early on.
 
-Thief:  Thieves are great stabbers, dealing a lot of damage from the start of battle.  Thieves like to hit high damage, low hit point, high xp mobs so if thieves miss their stabs they die fast.  But nothing beats triple stabbing a big mob and splorking it.  Best thieves will have warrior second because str can get 24.  I like a good th/ma for blasting early on and max blastdam later on.  Some like th/mo for damage reduction.  There are many ways to play a thief but I donâ€™t see where you can go wrong by picking th/wa/dr/ba/cl/ma/ne/mo, or th/wa/cl/ma.  A th/wa/ma/cl would do very nicely.
+Thief: Thieves are great stabbers, dealing a lot of damage from the start of battle. Thieves like to hit high damage, low hit point, high xp mobs so if thieves miss their stabs they die fast. But nothing beats triple stabbing a big mob and splorking it. Best thieves will have warrior second because str can get 24. I like a good th/ma for blasting early on and max blastdam later on. Some like th/mo for damage reduction. There are many ways to play a thief but I donâ€™t see where you can go wrong by picking th/wa/dr/ba/cl/ma/ne/mo, or th/wa/cl/ma. A th/wa/ma/cl would do very nicely.
 
-Monk:  A monk is somewhat like a thief, as they have deathgrip which is similar to a stab.  A monk has damage reduction which is nice.  A monkâ€™s greatest gift is his strike.  Costs nothing to use but deals some nice damage, especially when wearing lots of damage and hand damage.  Without warrior second, a monkâ€™s str is rolled 4th, which is a crime because monkâ€™s max_str can only go to 22, war second max_str will be 24.  A monk bard does get strength 3rd though.  mo/wa/cl/ne or mo/wa/cl/ma/ne are my two choices, although mo/cl/ne/dr sure is a great frontline+healer in groups.
+Monk: A monk is somewhat like a thief, as they have deathgrip which is similar to a stab. A monk has damage reduction which is nice. A monkâ€™s greatest gift is his strike. Costs nothing to use but deals some nice damage, especially when wearing lots of damage and hand damage. Without warrior second, a monkâ€™s str is rolled 4th, which is a crime because monkâ€™s max\_str can only go to 22, war second max\_str will be 24. A monk bard does get strength 3rd though. mo/wa/cl/ne or mo/wa/cl/ma/ne are my two choices, although mo/cl/ne/dr sure is a great frontline+healer in groups.
 
-Bard: Bards are great support characters but with the new changes I think bards will be pretty powerful at high levels.  They can sing songs and cast spells, I mean how cool is that?  They have their own slot for instruments as well.  My pick for bard is ba/dr/ne/cl/mo/ma/wa/th.  Singing gods of war to undeads and/or supplicants while casting firewinds should be pretty cool.
+Bard: Bards are great support characters but with the new changes I think bards will be pretty powerful at high levels. They can sing songs and cast spells, I mean how cool is that? They have their own slot for instruments as well. My pick for bard is ba/dr/ne/cl/mo/ma/wa/th. Singing gods of war to undeads and/or supplicants while casting firewinds should be pretty cool.
 
-These are the views of a mortal who's played sloth for 18 years, has played hundreds of characters and each class.  I am going off my own personal experiences and advice of other great players in the game.  There are other ways to create classes, and some are really cool, but as a starter player you can't go wrong listening to the advice I have given.  If any other player has anything to add, please do.
+These are the views of a mortal who's played sloth for 18 years, has played hundreds of characters and each class. I am going off my own personal experiences and advice of other great players in the game. There are other ways to create classes, and some are really cool, but as a starter player you can't go wrong listening to the advice I have given. If any other player has anything to add, please do.
 
--Toxis
+\-Toxis
 
 </div>
 
@@ -48,7 +48,7 @@ Thats all good advice.
 
 I'm not as fond of crunchy caster types as Toxis is. I kinda feel like a caster should put a non-caster class or two in their first 4 classes somewhere to balance things out.
 
-To me, quad caster is not fun. You mostly end up following other people around blasting and healing. You end up relying on your shift forms for anything solo because you're not even tough enough to tank for your necro pets. I don't like relying on shift.  
+To me, quad caster is not fun. You mostly end up following other people around blasting and healing. You end up relying on your shift forms for anything solo because you're not even tough enough to tank for your necro pets. I don't like relying on shift. 
 
 Adding non-caster higher in your classo is going to give you access to better eq sooner, give you more attacks, and many skills that extremely useful, such as disengage.
 
@@ -68,17 +68,17 @@ I know the placement of necro/cleric/druid determine the type of pets/forms you 
 
 <div class="post" data-post-id="30680" data-author="Thraxas" data-date="2010-01-14T16:47:18+00:00" data-subject="">
 
-[b:1skjikbv]Top Four Classes[/b:1skjikbv]
+<strong>Top Four Classes</strong>
 
 I'm only going to talk about your top 4 classes, while sloth is now an 8 class mud, the top 4 are the classes that will level faster and for a new player (at whom I think this thread is aimed) these will be classes that make the most impact in the first few months of play.
 
 In order to solo successfully you need two things, 1. healing 2. the ability to do damage.
 
-[b:1skjikbv]Healing[/b:1skjikbv]
+<strong>Healing</strong>
 
 This means Cleric. Cleric is a must for most players in their top 4 classes both to add healing spells but also for the Sanctuary/Aegis spells. It is rare to find any high level player without Cleric in the top 4 classes, and is probably the most common 2nd class.
 
-[b:1skjikbv]Damage[/b:1skjikbv]
+<strong>Damage</strong>
 
 Different classes are better or worse at doing damage to mobs, I would say that for solo you should have 2 of the following 4 classes in your top 4:
 
@@ -90,7 +90,7 @@ Necromancer (NE): Necromancer pets are excellent at chopping down thick mobs, Ne
 
 Druid (DR): Fun to play, druids shift into animal forms that have good damage, armor class and the ability to blast with breath weapons etc. with much less reliance on equipment. While shifted you lose the ability to use skills / spells from other classes, so you will either do damage as a druid or by another class, rather than being able to combine damage methods as you can with the above 3 classes.
 
-[b:1skjikbv]The other 3 classes[/b:1skjikbv]
+<strong>The other 3 classes</strong>
 
 If you follow my advice and choose cleric plus 2 of the above then in your top 4 you still have one place left, my views on the other 3 classes is as follows:
 
@@ -110,39 +110,56 @@ Thraxas
 
 <div class="post" data-post-id="30711" data-author="mudder" data-date="2010-01-20T09:24:10+00:00" data-subject="Re: CLASS ORDER ADVICE">
 
-Cleric: 
-
-My personal pick for cleric classo is cl/dr/ne/ma
-
-Mage: 
-
-so my pick for mage is ma/dr/cl/ne
-
-Druid: 
-
-My pick for druid is dr/ma/cl/ne
-
-Necromancer:
-
-ne/dr/cl/ma. Personally, I would choose
-
-Warrior: 
-
-A solo tank I would make wa/ne/cl/ma
-
-Thief: 
-
-th/wa/dr/ba, or th/wa/cl/ma. A th/wa/ma/cl would do very nicely. 
-
-Monk: 
-
-mo/wa/cl/ne or mo/wa/cl/ma are my two choices, although mo/cl/ne/dr sure is a great frontline+healer in groups. 
-
-Bard: 
-
-My pick for bard is ba/dr/ne/cl
-
--Toxis[/quote:ywqqhhao]
+> <strong>Toxis wrote:</strong>
+> Cleric: 
+> 
+> My personal pick for cleric classo is cl/dr/ne/ma
+> 
+> 
+> 
+> Mage: 
+> 
+> so my pick for mage is ma/dr/cl/ne
+> 
+> 
+> 
+> Druid: 
+> 
+> My pick for druid is dr/ma/cl/ne
+> 
+> 
+> 
+> Necromancer:
+> 
+> ne/dr/cl/ma. Personally, I would choose
+> 
+> 
+> 
+> Warrior: 
+> 
+> A solo tank I would make wa/ne/cl/ma
+> 
+> 
+> 
+> Thief: 
+> 
+> th/wa/dr/ba, or th/wa/cl/ma. A th/wa/ma/cl would do very nicely. 
+> 
+> 
+> 
+> Monk: 
+> 
+> mo/wa/cl/ne or mo/wa/cl/ma are my two choices, although mo/cl/ne/dr sure is a great frontline+healer in groups. 
+> 
+> 
+> 
+> Bard: 
+> 
+> My pick for bard is ba/dr/ne/cl
+> 
+> 
+> 
+> \-Toxis
 
 So what Toxis is saying is he'd suggest:
 
@@ -176,19 +193,18 @@ Ba: ba/dr
 
 Any Caster: 4xcaster unless you want to put wa or mo in 3rd spot.
 
-The reason why I choose at least 2 out of 4 as caster in the first 4 class choices is becaues your mana goes down.  Badden makes a great tank, but his 3xnc doesn't give him much mana to work with.  Rigwarl is 4xnc and has some stupid low mana.  If you can solo on sloth without mana, more power to you.
+The reason why I choose at least 2 out of 4 as caster in the first 4 class choices is becaues your mana goes down. Badden makes a great tank, but his 3xnc doesn't give him much mana to work with. Rigwarl is 4xnc and has some stupid low mana. If you can solo on sloth without mana, more power to you.
 
 There's many ways to choose your classo, but I'm mainly concerned with a player putting a lot of time into a character and then a year down the road figure out they're not happy with his choices and regrets the choices they've made.
 
--Toxis
+\-Toxis
 
 </div>
 
 <div class="post" data-post-id="30730" data-author="mudder" data-date="2010-01-21T15:11:10+00:00" data-subject="">
 
-To me, quad caster is not fun. You mostly end up following other people around blasting and healing. You end up relying on your shift forms for anything solo because you're not even tough enough to tank for your necro pets. I don't like relying on shift.  
-
-[/quote:3jh2mbu8]
+> <strong>juggleblood wrote:</strong>
+> To me, quad caster is not fun. You mostly end up following other people around blasting and healing. You end up relying on your shift forms for anything solo because you're not even tough enough to tank for your necro pets. I don't like relying on shift.
 
 I hear what you're saying Toxis, and it has to be said that for the best and most experienced players of the game (in which I count you as one) 4xcaster up front may work well right from the start ...
 
@@ -200,21 +216,21 @@ I hear what you're saying Toxis, and it has to be said that for the best and mos
 
 Note: this thread is about Sloth 3, where we had:
 
-- 18/99 strength, now we have 18 strength maximum with max_str up to 25 on harder to get items.
+\- 18/99 strength, now we have 18 strength maximum with max\_str up to 25 on harder to get items.
 
-- focus for non-monk primes, which made us put monk earlier with thieves
+\- focus for non-monk primes, which made us put monk earlier with thieves
 
-- the choices Toxis suggests are mostly for experienced players - x3 or x4 caster is harder to play, than a ca/ca/nc/ca.
+\- the choices Toxis suggests are mostly for experienced players - x3 or x4 caster is harder to play, than a ca/ca/nc/ca.
 
 Read our updated newbie class order guide here:
 
-[<LINK_TEXT text="http://www.slothmud.org/wiki/Guide:Nove ... wbie_Guide">http://www.slothmud.org/wiki/Guide:Novel%27s_Newbie_Guide</LINK_TEXT>](http://www.slothmud.org/wiki/Guide:Novel%27s_Newbie_Guide)
+[http://www.slothmud.org/wiki/Guide:Novel%27s_Newbie_Guide](http://www.slothmud.org/wiki/Guide:Novel%27s_Newbie_Guide)
 
 </div>
 
 <div class="post" data-post-id="35685" data-author="Filk" data-date="2015-02-11T01:33:19+00:00" data-subject="Re: CLASS ORDER ADVICE">
 
-> **Quote:**
+> <strong>Quote:</strong>
 > Note: this thread is about Sloth 3
 
 It is not. Topic from 2010. And its about 8 class system.

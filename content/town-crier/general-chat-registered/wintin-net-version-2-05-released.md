@@ -28,7 +28,7 @@ bugs fixed:
 
 127 mxp actions pick up extra character
 
-138 VK_LEFT and VK_RIGHT not working
+138 VK\_LEFT and VK\_RIGHT not working
 
 Frobisher
 

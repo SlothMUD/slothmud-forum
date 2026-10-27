@@ -14,7 +14,7 @@ post_count: 1
 
 Over the years we have had issues with immediate bloodloss after a mob was mortally wounded. This should be fixed with this morning's reboot.
 
-Please refer to this thread <LINK_TEXT text="http://www.slothmud.org/forum/viewtopic ... 769#p34371">http://www.slothmud.org/forum/viewtopic.php?f=7&t=4104&p=35769#p34371</LINK_TEXT>
+Please refer to this thread http://www.slothmud.org/forum/viewtopic.php?f=7&t=4104&p=35769#p34371
 
 If there are any more issues after the reboot, please contact us via email, bugs, or forum!
 

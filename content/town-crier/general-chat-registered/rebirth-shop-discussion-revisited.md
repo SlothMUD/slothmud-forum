@@ -12,9 +12,9 @@ post_count: 30
 
 <div class="post" data-post-id="38999" data-author="*teker*" data-date="2018-11-17T18:19:44+00:00" data-subject="Rebirth shop discussion revisited">
 
-I may have some time to put into the shop so lets rehash this and try to figure out an acceptable cost rate.  I have started with Fluffy's previous post that laid out the following costs:
+I may have some time to put into the shop so lets rehash this and try to figure out an acceptable cost rate. I have started with Fluffy's previous post that laid out the following costs:
 
-> **Quote:**
+> <strong>Quote:</strong>
 > Dam(50 bils starting, 1.47 coef).
 > 
 > Hand dam (25b starting, 1.2 coef)
@@ -25,7 +25,7 @@ I may have some time to put into the shop so lets rehash this and try to figure 
 > 
 > Hit (37.5 starting, 1.47 coef)
 
-Are these reasonable values to start from?  My first reaction is that mana/hp/mv are not equal.
+Are these reasonable values to start from? My first reaction is that mana/hp/mv are not equal.
 
 Should there be caps on these stats and if so, what?
 
@@ -35,20 +35,20 @@ What perma spells and at what costs?
 
 Previously I put the stats above into a proc with caps that looks like this.
 
-> **Quote:**
-> +1   Hit Points      -   0 of 100 -   2.50 B xp    1.2 M gold
+> <strong>Quote:</strong>
+> \+1 Hit Points - 0 of 100 - 2.50 B xp 1.2 M gold
 > 
->  +1   Mana Points     -   0 of 100 -   2.50 B xp    1.2 M gold
+> \+1 Mana Points - 0 of 100 - 2.50 B xp 1.2 M gold
 > 
->  +1   Movement Points -   0 of 100 -   2.50 B xp    1.2 M gold
+> \+1 Movement Points - 0 of 100 - 2.50 B xp 1.2 M gold
 > 
->  +1   Hit Roll        -   0 of  10 -  37.50 B xp   18.8 M gold
+> \+1 Hit Roll - 0 of 10 - 37.50 B xp 18.8 M gold
 > 
->  +1   Damage Roll     -   0 of  10 -  50.00 B xp   25.0 M gold
+> \+1 Damage Roll - 0 of 10 - 50.00 B xp 25.0 M gold
 > 
->  +1   Hand Damage     -   0 of  10 -  25.00 B xp   12.5 M gold
+> \+1 Hand Damage - 0 of 10 - 25.00 B xp 12.5 M gold
 > 
->  +1   Spell Damage    -   0 of  10 -   5.00 B xp    2.5 M gold
+> \+1 Spell Damage - 0 of 10 - 5.00 B xp 2.5 M gold
 
 I can't remember how the gold numbers were computed but it's a ratio of the xp.
 
@@ -64,15 +64,15 @@ Mana
 
 Moves
 
-To be open ended but with exponential cost curves.*
+To be open ended but with exponential cost curves.\*
 
 I'll start with that.
 
 Thanks
 
---Idj
+\--Idj
 
-*I had seen this on Tsunami II LPMud as early as October 1991 when i first started mudding.
+\*I had seen this on Tsunami II LPMud as early as October 1991 when i first started mudding.
 
 Actually that's a discussion that bleeds into an expansion of the regular 9x40 shop, i just realized that. but i see no reason why rebirthers-in-progress couldn't keep chipping away at mundane things like hp/mana/move max. It still fits.
 
@@ -86,11 +86,11 @@ I think the time has probably come just to implement what you think was right fr
 
 <div class="post" data-post-id="39003" data-author="Driven" data-date="2018-11-18T23:50:18+00:00" data-subject="Re: Rebirth shop discussion revisited">
 
-Gorka had a good proposal here, which is a fair place to start:  
+Gorka had a good proposal here, which is a fair place to start: 
 
-[<LINK_TEXT text="http://www.slothmud.org/forum/viewtopic ... =15#p38849">http://www.slothmud.org/forum/viewtopic.php?f=28&t=4851&start=15#p38849</LINK_TEXT>](http://www.slothmud.org/forum/viewtopic.php?f=28&t=4851&start=15#p38849)
+[http://www.slothmud.org/forum/viewtopic.php?f=28&t=4851&start=15#p38849](http://www.slothmud.org/forum/viewtopic.php?f=28&t=4851&start=15#p38849)
 
-One thing to consider on the cost of AC is that AC applies when in-form, but max_dex does not, so the value of actual AC is higher than max_dex in that regard.  I think the penalty in the original avatar shop was too high... 30b for 0.1 ac is a bit much when max_dex was 50b... I would probably cut the difference, so .1 ac in the rebirth shop should probably be the avatar-shop-equivalent of 20b, which would be 50b in the rebirth shop.
+One thing to consider on the cost of AC is that AC applies when in-form, but max\_dex does not, so the value of actual AC is higher than max\_dex in that regard. I think the penalty in the original avatar shop was too high... 30b for 0.1 ac is a bit much when max\_dex was 50b... I would probably cut the difference, so .1 ac in the rebirth shop should probably be the avatar-shop-equivalent of 20b, which would be 50b in the rebirth shop.
 
 </div>
 
@@ -108,13 +108,13 @@ Just do something!
 
 LOL.. sorry, been barely active last 6? months.. 
 
-I personally have maxx'ed avvies in ..what 5 classes now.. and i found the numbers for the shop to be fairly accurate, accept for ac.  That is comparison values
+I personally have maxx'ed avvies in ..what 5 classes now.. and i found the numbers for the shop to be fairly accurate, accept for ac. That is comparison values
 
 What i would keep in mind is, this will determine how the endgame plays out... do you want one class favored, or want all max avvies to look the same in the end.. or all of them to be min/maxing... etc,,' , buy making it unlimited it encourages single characters with no alts for example..
 
 I do not mind either way, just wanna know what to expect down the road.
 
-I suggest limit stats to classo caps,  but let the rest be infinite.
+I suggest limit stats to classo caps, but let the rest be infinite.
 
 Thanks!
 
@@ -152,23 +152,23 @@ The next step is deciding if its a second shop, so the new costs go in after the
 
 Also, they dont have to be the same for all... for example, max stats should, imo be buyable too classo limit only.
 
-Same could be said for damage reduction etc..  do we want ppl buying bonus spell bonus too infinitude?
+Same could be said for damage reduction etc.. do we want ppl buying bonus spell bonus too infinitude?
 
 maybe other items can be purchased to unlimited amounts.. like hp
 
-My concern on this is i have seen too many broken systems...  eg- either all characters look  the same in the end, cause its only think point efficient, or you get everyone buying one stat forever to abuse..
+My concern on this is i have seen too many broken systems... eg- either all characters look the same in the end, cause its only think point efficient, or you get everyone buying one stat forever to abuse..
 
 Main point is realizing that each ability or stat can have its own system, or they can all follow one.
 
-Also, on mana... one thing i have NOT seen ...reduced cast for spells/or spell stacks...   IE- spend to reduce the cost to cast.. cure light... and then cure normal etc.. up to resto or mass heal.. this is obviously subject to considerable abuse as a generic, so you would want to make it spell specific.. 
+Also, on mana... one thing i have NOT seen ...reduced cast for spells/or spell stacks... IE- spend to reduce the cost to cast.. cure light... and then cure normal etc.. up to resto or mass heal.. this is obviously subject to considerable abuse as a generic, so you would want to make it spell specific.. 
 
 Next question is.. are we going to try and please everyone, or make a recommended play style? 
 
 For example, presently damage is heavily favored, and many ppl have multiple alts.. Do we want to encourage this, discourage it, or ignore?
 
-What about groups? are we going to have the best ppl never wanting to group cause solo is so much better for them..?  This leads into escalation.... they high end players get more powerful, so mobs are tweeked to deal with them, and the lower end players can never keep up...same deal with ppl that are limited in play time..
+What about groups? are we going to have the best ppl never wanting to group cause solo is so much better for them..? This leads into escalation.... they high end players get more powerful, so mobs are tweeked to deal with them, and the lower end players can never keep up...same deal with ppl that are limited in play time..
 
-OK, done rambling..  for now.. back later for more ...ramblings..
+OK, done rambling.. for now.. back later for more ...ramblings..
 
 </div>
 
@@ -178,13 +178,13 @@ On the first topic of a second shop, I think that's a no brainer... the prices a
 
 On the second issue of caps vs no caps. It's clear everyone sees this as a sensitive topic, and no one wants to see sloth become unbalanced. It's also difficult to predict what will happen because it's a complex topic with lots of variables complicated by different player styles. I think the safest thing to do is to take the middle road and "turn on the tap slowly" ie, implement caps on the new shop while promising to review them. The system could still be written exponentially, just with a temporary static max limit that can be updated (mainly on the damage stats). I'm suggesting we follow Fluffy's unlimited exponential path but just throttle the improvements for a period of review. We could write 100 posts on this forum about what we think might happen and still be wrong. Let's get in the shallow end of the pool where we can stand, and walk towards the deep end.
 
-I have faith in the likes of Teker and Breeze to review those caps in time. The immortal team at the moment is the best I remember. Well everyone except Idjit... Well, Idjit to I guess...   :twisted:
+I have faith in the likes of Teker and Breeze to review those caps in time. The immortal team at the moment is the best I remember. Well everyone except Idjit... Well, Idjit to I guess... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="39010" data-author="Filk" data-date="2018-11-20T12:55:58+00:00" data-subject="Re: Rebirth shop discussion revisited">
 
-> **Gorka wrote:**
+> <strong>Gorka wrote:</strong>
 > I'm suggesting we follow Fluffy's unlimited exponential path but just throttle the improvements for a period of review.
 
 Sounds good. Keep the formulas, limit dam at 5-10 and other stats accordingly based on their value compared to dam. Maybe excluding hp/ma/mv from limit isnt that terrible as well though. Tune down ac probably also.
@@ -196,52 +196,52 @@ Sounds good. Keep the formulas, limit dam at 5-10 and other stats accordingly ba
 Ok, so here's my present list with caps lowered to 3 atm:
 
 ```
- 1)   +1  Max Strength           -   0 of   1 -  50.00 B xp   25.00 M gold
- 2)   +1  Max Intelligence       -   0 of   1 -  50.00 B xp   25.00 M gold
- 3)   +1  Max Wisdom             -   0 of   1 -  50.00 B xp   25.00 M gold
- 4)   +1  Max Dexterity          -   0 of   1 - 125.00 B xp   62.50 M gold
- 5)   +1  Max Constitution       -   0 of   1 -  50.00 B xp   25.00 M gold
+ 1) +1 Max Strength - 0 of 1 - 50.00 B xp 25.00 M gold
+ 2) +1 Max Intelligence - 0 of 1 - 50.00 B xp 25.00 M gold
+ 3) +1 Max Wisdom - 0 of 1 - 50.00 B xp 25.00 M gold
+ 4) +1 Max Dexterity - 0 of 1 - 125.00 B xp 62.50 M gold
+ 5) +1 Max Constitution - 0 of 1 - 50.00 B xp 25.00 M gold
 
- 6)   +1  Hit Points             -   0 of 100 -   2.50 B xp    1.25 M gold
- 7)   +1  Mana Points            -   0 of 100 -   2.50 B xp    1.25 M gold
- 8)   +1  Movement Points        -   0 of 100 -   2.50 B xp    1.25 M gold
- 9)   +1  Hit Point Regen        -   0 of  40 -   6.25 B xp    3.12 M gold
-10)   +1  Mana Point Regen       -   0 of  10 -  25.00 B xp   12.50 M gold
-11)   +1  Movement Point Regen   -   0 of  30 -   8.33 B xp    4.17 M gold
+ 6) +1 Hit Points - 0 of 100 - 2.50 B xp 1.25 M gold
+ 7) +1 Mana Points - 0 of 100 - 2.50 B xp 1.25 M gold
+ 8) +1 Movement Points - 0 of 100 - 2.50 B xp 1.25 M gold
+ 9) +1 Hit Point Regen - 0 of 40 - 6.25 B xp 3.12 M gold
+10) +1 Mana Point Regen - 0 of 10 - 25.00 B xp 12.50 M gold
+11) +1 Movement Point Regen - 0 of 30 - 8.33 B xp 4.17 M gold
 
-12)   +1  Hit Roll               -   0 of   3 -  37.50 B xp   18.75 M gold
-13)   +1  Damage Roll            -   0 of   3 -  50.00 B xp   25.00 M gold
-14)   +1  Bonus Circle Damage    -   0 of   3 -   5.00 B xp    2.50 M gold
-15)   +1  Bonus Flail Damage     -   0 of   3 -   5.00 B xp    2.50 M gold
-16)   +1  Bonus Hand Damage      -   0 of   3 -  25.00 B xp   12.50 M gold
-17)   +1  Bonus Kick Damage      -   0 of   3 -   5.00 B xp    2.50 M gold
-18)   +1  Bonus Spell Damage     -   0 of   3 -   5.00 B xp    2.50 M gold
-19)   +1  Bonus Stab Damage      -   0 of   3 -   2.50 B xp    1.25 M gold
-20)   +1  Bonus Weapon Damage    -   0 of   3 -  25.00 B xp   12.50 M gold
+12) +1 Hit Roll - 0 of 3 - 37.50 B xp 18.75 M gold
+13) +1 Damage Roll - 0 of 3 - 50.00 B xp 25.00 M gold
+14) +1 Bonus Circle Damage - 0 of 3 - 5.00 B xp 2.50 M gold
+15) +1 Bonus Flail Damage - 0 of 3 - 5.00 B xp 2.50 M gold
+16) +1 Bonus Hand Damage - 0 of 3 - 25.00 B xp 12.50 M gold
+17) +1 Bonus Kick Damage - 0 of 3 - 5.00 B xp 2.50 M gold
+18) +1 Bonus Spell Damage - 0 of 3 - 5.00 B xp 2.50 M gold
+19) +1 Bonus Stab Damage - 0 of 3 - 2.50 B xp 1.25 M gold
+20) +1 Bonus Weapon Damage - 0 of 3 - 25.00 B xp 12.50 M gold
 
-21) -0.1  Armor Class            -   0 of   3 -  25.00 B xp   12.50 M gold
-22)   +1  Bonus Charisma         -   0 of   3 -   5.00 B xp    2.50 M gold
-23)   +1  Bonus Damage Reduction -   0 of   3 -  25.00 B xp   12.50 M gold
-24)   +1  Bonus Heal Bonus       -   0 of   3 -   5.00 B xp    2.50 M gold
-25)   +1  Bonus System Shock     -   0 of   3 -   5.00 B xp    2.50 M gold
-26)   +1  Bonus Undead Control   -   0 of   3 -   5.00 B xp    2.50 M gold
+21) -0.1 Armor Class - 0 of 3 - 25.00 B xp 12.50 M gold
+22) +1 Bonus Charisma - 0 of 3 - 5.00 B xp 2.50 M gold
+23) +1 Bonus Damage Reduction - 0 of 3 - 25.00 B xp 12.50 M gold
+24) +1 Bonus Heal Bonus - 0 of 3 - 5.00 B xp 2.50 M gold
+25) +1 Bonus System Shock - 0 of 3 - 5.00 B xp 2.50 M gold
+26) +1 Bonus Undead Control - 0 of 3 - 5.00 B xp 2.50 M gold
 
-27)   -1  Save Breath            -   0 of   3 -   5.00 B xp    2.50 M gold
-28)   -1  Save Paralyzation      -   0 of   3 -   5.00 B xp    2.50 M gold
-29)   -1  Save Petrification     -   0 of   3 -   2.50 B xp    1.25 M gold
-30)   -1  Save Poison            -   0 of   3 -   2.50 B xp    1.25 M gold
-31)   -1  Save Spell             -   0 of   3 -  25.00 B xp   12.50 M gold
+27) -1 Save Breath - 0 of 3 - 5.00 B xp 2.50 M gold
+28) -1 Save Paralyzation - 0 of 3 - 5.00 B xp 2.50 M gold
+29) -1 Save Petrification - 0 of 3 - 2.50 B xp 1.25 M gold
+30) -1 Save Poison - 0 of 3 - 2.50 B xp 1.25 M gold
+31) -1 Save Spell - 0 of 3 - 25.00 B xp 12.50 M gold
 ```
 
 Things I changed:
 
-- Gorka's post had +3 Move Regen and +4 Hit Point Regen and I have changed these to +1 at a fraction of the original cost.
+\- Gorka's post had +3 Move Regen and +4 Hit Point Regen and I have changed these to +1 at a fraction of the original cost.
 
 Questions:
 
-- Is the coefficient for scaling identical for items of similar cost?  IE - do I copy the coefficient for Hit Points to all items that have a base cost of 2.5B?
+\- Is the coefficient for scaling identical for items of similar cost? IE - do I copy the coefficient for Hit Points to all items that have a base cost of 2.5B?
 
-- Do you guys really think that Movement Points are as valuable as Hit Points?  Or that either are as valuable as Mana Points?
+\- Do you guys really think that Movement Points are as valuable as Hit Points? Or that either are as valuable as Mana Points?
 
 </div>
 
@@ -251,11 +251,11 @@ Nice Teker! That's genuinely exciting to see. Just one thing I noticed.
 
 Spellbonus/Healbonus/Stab/Circle/Flail/Kick should probably have a 10 cap and not 3 in my opinion to start with.
 
->Is the coefficient for scaling identical for items of similar cost? IE - do I copy the coefficient for Hit Points to all items that have a base cost of 2.5B?
+\>Is the coefficient for scaling identical for items of similar cost? IE - do I copy the coefficient for Hit Points to all items that have a base cost of 2.5B?
 
 It's probably ok... as there are caps at the moment. Without caps... something players might buy 100 of probably shouldn't have the same coefficient for something they will only buy 5 of - that would be a potential concern. (Even if the original costs were the same) IE, should the coefficient for HP be the same as Save's Petri... mmmm, nnnnaa, maybe not.
 
->Do you guys really think that Movement Points are as valuable as Hit Points? Or that either are as valuable as Mana Points?
+\>Do you guys really think that Movement Points are as valuable as Hit Points? Or that either are as valuable as Mana Points?
 
 Movement points are valuable to "some." Warriors, Thieves, Monks. I doubt your average scrawny mage is going to buy them. They won't be as valuable as mana points to anyone I would think.
 
@@ -291,13 +291,13 @@ But i could say the same for circle, kick, flail and most of the saves.
 
 <div class="post" data-post-id="39014" data-author="*Idjit*" data-date="2018-11-27T23:54:47+00:00" data-subject="Re: Rebirth shop discussion revisited">
 
-One thing we haven't talked about regarding the rebirth shop (both shops really), is possibly having the costs actually be different for the different prime classes.  Or maybe we did and i'm just crappy at following threads.  If so, sorry.
+One thing we haven't talked about regarding the rebirth shop (both shops really), is possibly having the costs actually be different for the different prime classes. Or maybe we did and i'm just crappy at following threads. If so, sorry.
 
 Like having spellbonus be cheaper for a mage prime than for a monk prime
 
 And handdam be cheaper for a monk prime than for a mage prime
 
-Which would resolve some of the back and forth, for example  Driven might want some of the more muscular bonuses to be cheaper than the proposed costs, but his is a NC view point.
+Which would resolve some of the back and forth, for example Driven might want some of the more muscular bonuses to be cheaper than the proposed costs, but his is a NC view point.
 
 Whereas I might want some of the healbonus and spellbonus things to be cheaper than the proposed costs, but mine is a CA view point.
 
@@ -313,13 +313,13 @@ But if someone had massive hours of time on their hands (which is none of us) an
 
 Just saying.
 
---Idj
+\--Idj
 
 </div>
 
 <div class="post" data-post-id="39015" data-author="Josiah" data-date="2018-11-29T07:44:02+00:00" data-subject="Re: Rebirth shop discussion revisited">
 
-20 base strength??  You have my vote!
+20 base strength?? You have my vote!
 
 </div>
 
@@ -328,22 +328,22 @@ Just saying.
 So it sounds like you want the caps to look like this:
 
 ```
-12)   +1  Hit Roll               -   0 of   3 -  37.50 B  /   18.75 M
-13)   +1  Damage Roll            -   0 of   3 -  50.00 B  /   25.00 M
-14)   +1  Bonus Circle Damage    -   0 of  30 -   5.00 B  /    2.50 M
-15)   +1  Bonus Flail Damage     -   0 of  30 -   5.00 B  /    2.50 M
-16)   +1  Bonus Hand Damage      -   0 of   6 -  25.00 B  /   12.50 M
-17)   +1  Bonus Kick Damage      -   0 of  30 -   5.00 B  /    2.50 M
-18)   +1  Bonus Spell Damage     -   0 of  30 -   5.00 B  /    2.50 M
-19)   +1  Bonus Stab Damage      -   0 of  60 -   2.50 B  /    1.25 M
-20)   +1  Bonus Weapon Damage    -   0 of   6 -  25.00 B  /   12.50 M
+12) +1 Hit Roll - 0 of 3 - 37.50 B / 18.75 M
+13) +1 Damage Roll - 0 of 3 - 50.00 B / 25.00 M
+14) +1 Bonus Circle Damage - 0 of 30 - 5.00 B / 2.50 M
+15) +1 Bonus Flail Damage - 0 of 30 - 5.00 B / 2.50 M
+16) +1 Bonus Hand Damage - 0 of 6 - 25.00 B / 12.50 M
+17) +1 Bonus Kick Damage - 0 of 30 - 5.00 B / 2.50 M
+18) +1 Bonus Spell Damage - 0 of 30 - 5.00 B / 2.50 M
+19) +1 Bonus Stab Damage - 0 of 60 - 2.50 B / 1.25 M
+20) +1 Bonus Weapon Damage - 0 of 6 - 25.00 B / 12.50 M
 
-21) -0.1  Armor Class            -   0 of   3 -  25.00 B  /   12.50 M
-22)   +1  Bonus Charisma         -   0 of   3 -   5.00 B  /    2.50 M
-23)   +1  Bonus Damage Reduction -   0 of   3 -  25.00 B  /   12.50 M
-24)   +1  Bonus Heal Bonus       -   0 of  30 -   5.00 B  /    2.50 M
-25)   +1  Bonus System Shock     -   0 of   3 -   5.00 B  /    2.50 M
-26)   +1  Bonus Undead Control   -   0 of   3 -   5.00 B  /    2.50 M
+21) -0.1 Armor Class - 0 of 3 - 25.00 B / 12.50 M
+22) +1 Bonus Charisma - 0 of 3 - 5.00 B / 2.50 M
+23) +1 Bonus Damage Reduction - 0 of 3 - 25.00 B / 12.50 M
+24) +1 Bonus Heal Bonus - 0 of 30 - 5.00 B / 2.50 M
+25) +1 Bonus System Shock - 0 of 3 - 5.00 B / 2.50 M
+26) +1 Bonus Undead Control - 0 of 3 - 5.00 B / 2.50 M
 ```
 
 </div>
@@ -376,7 +376,7 @@ also.. this will break some systems
 
 eg-just buy damage reduction... 100...i suggest just capping damage reduction at class limit maybe with a + based on the highest possible ingame to not be abusive
 
-Same applies to others.. just think.. whats the worse case if this gets too...whatever number... eg-  resist fire 100 likely is immuned too fire.. not a huge deal..but maybe bad if certain critters in game only do flame damage..etc
+Same applies to others.. just think.. whats the worse case if this gets too...whatever number... eg- resist fire 100 likely is immuned too fire.. not a huge deal..but maybe bad if certain critters in game only do flame damage..etc
 
 think out each option.. set your limit based on balance.. not on what someone wants... etc..
 
@@ -396,29 +396,29 @@ The way I've seen this done is with increasing logarithmic coefficients - they a
 
 <div class="post" data-post-id="39021" data-author="Filk" data-date="2018-12-03T08:33:05+00:00" data-subject="Re: Rebirth shop discussion revisited">
 
-> ***teker* wrote:**
+> <strong>\*teker\* wrote:</strong>
 > So it sounds like you want the caps to look like this:
 > 
 > 
 > 
 
 ```
-12)   +1  Hit Roll               -   0 of   3 -  37.50 B  /   18.75 M
-13)   +1  Damage Roll            -   0 of   3 -  50.00 B  /   25.00 M
-14)   +1  Bonus Circle Damage    -   0 of  30 -   5.00 B  /    2.50 M
-15)   +1  Bonus Flail Damage     -   0 of  30 -   5.00 B  /    2.50 M
-16)   +1  Bonus Hand Damage      -   0 of   6 -  25.00 B  /   12.50 M
-17)   +1  Bonus Kick Damage      -   0 of  30 -   5.00 B  /    2.50 M
-18)   +1  Bonus Spell Damage     -   0 of  30 -   5.00 B  /    2.50 M
-19)   +1  Bonus Stab Damage      -   0 of  60 -   2.50 B  /    1.25 M
-20)   +1  Bonus Weapon Damage    -   0 of   6 -  25.00 B  /   12.50 M
+12) +1 Hit Roll - 0 of 3 - 37.50 B / 18.75 M
+13) +1 Damage Roll - 0 of 3 - 50.00 B / 25.00 M
+14) +1 Bonus Circle Damage - 0 of 30 - 5.00 B / 2.50 M
+15) +1 Bonus Flail Damage - 0 of 30 - 5.00 B / 2.50 M
+16) +1 Bonus Hand Damage - 0 of 6 - 25.00 B / 12.50 M
+17) +1 Bonus Kick Damage - 0 of 30 - 5.00 B / 2.50 M
+18) +1 Bonus Spell Damage - 0 of 30 - 5.00 B / 2.50 M
+19) +1 Bonus Stab Damage - 0 of 60 - 2.50 B / 1.25 M
+20) +1 Bonus Weapon Damage - 0 of 6 - 25.00 B / 12.50 M
 
-21) -0.1  Armor Class            -   0 of   3 -  25.00 B  /   12.50 M
-22)   +1  Bonus Charisma         -   0 of   3 -   5.00 B  /    2.50 M
-23)   +1  Bonus Damage Reduction -   0 of   3 -  25.00 B  /   12.50 M
-24)   +1  Bonus Heal Bonus       -   0 of  30 -   5.00 B  /    2.50 M
-25)   +1  Bonus System Shock     -   0 of   3 -   5.00 B  /    2.50 M
-26)   +1  Bonus Undead Control   -   0 of   3 -   5.00 B  /    2.50 M
+21) -0.1 Armor Class - 0 of 3 - 25.00 B / 12.50 M
+22) +1 Bonus Charisma - 0 of 3 - 5.00 B / 2.50 M
+23) +1 Bonus Damage Reduction - 0 of 3 - 25.00 B / 12.50 M
+24) +1 Bonus Heal Bonus - 0 of 30 - 5.00 B / 2.50 M
+25) +1 Bonus System Shock - 0 of 3 - 5.00 B / 2.50 M
+26) +1 Bonus Undead Control - 0 of 3 - 5.00 B / 2.50 M
 ```
 
 Something that looks more like a truth. Though i would raise ac and damage reductions caps to 6 also, they are not balance breaking at this point.
@@ -432,52 +432,52 @@ And some stats are missing, so not sure what values are there.
 So maybe something like this?
 
 ```
- 1)   +1  Max Strength           -   0 of   1 -  50.00 B xp   25.00 M gold
- 2)   +1  Max Intelligence       -   0 of   1 -  50.00 B xp   25.00 M gold
- 3)   +1  Max Wisdom             -   0 of   1 -  50.00 B xp   25.00 M gold
- 4)   +1  Max Dexterity          -   0 of   1 - 125.00 B xp   62.50 M gold
- 5)   +1  Max Constitution       -   0 of   1 -  50.00 B xp   25.00 M gold
+ 1) +1 Max Strength - 0 of 1 - 50.00 B xp 25.00 M gold
+ 2) +1 Max Intelligence - 0 of 1 - 50.00 B xp 25.00 M gold
+ 3) +1 Max Wisdom - 0 of 1 - 50.00 B xp 25.00 M gold
+ 4) +1 Max Dexterity - 0 of 1 - 125.00 B xp 62.50 M gold
+ 5) +1 Max Constitution - 0 of 1 - 50.00 B xp 25.00 M gold
 
- 6)   +1  Hit Points             -   0 of 100 -   2.00 B xp    1.25 M gold
- 7)   +1  Mana Points            -   0 of 100 -   2.50 B xp    1.5  M gold
- 8)   +1  Movement Points        -   0 of 100 -   1.50 B xp    1    M gold
- 9)   +1  Hit Point Regen        -   0 of  40 -   6.25 B xp    3.12 M gold
-10)   +1  Mana Point Regen       -   0 of  10 -  25.00 B xp   12.50 M gold
-11)   +1  Movement Point Regen   -   0 of  30 -   8.33 B xp    4.17 M gold
+ 6) +1 Hit Points - 0 of 100 - 2.00 B xp 1.25 M gold
+ 7) +1 Mana Points - 0 of 100 - 2.50 B xp 1.5 M gold
+ 8) +1 Movement Points - 0 of 100 - 1.50 B xp 1 M gold
+ 9) +1 Hit Point Regen - 0 of 40 - 6.25 B xp 3.12 M gold
+10) +1 Mana Point Regen - 0 of 10 - 25.00 B xp 12.50 M gold
+11) +1 Movement Point Regen - 0 of 30 - 8.33 B xp 4.17 M gold
 
-12)   +1  Hit Roll               -   0 of   3 -  37.50 B  /   18.75 M
-13)   +1  Damage Roll            -   0 of   3 -  50.00 B  /   25.00 M
-14)   +1  Bonus Circle Damage    -   0 of  30 -   5.00 B  /    2.50 M
-15)   +1  Bonus Flail Damage     -   0 of  30 -   5.00 B  /    2.50 M
-16)   +1  Bonus Hand Damage      -   0 of   6 -  25.00 B  /   12.50 M
-17)   +1  Bonus Kick Damage      -   0 of  30 -   5.00 B  /    2.50 M
-18)   +1  Bonus Spell Damage     -   0 of  30 -   5.00 B  /    2.50 M
-19)   +1  Bonus Stab Damage      -   0 of  60 -   2.50 B  /    1.25 M
-20)   +1  Bonus Weapon Damage    -   0 of   6 -  25.00 B  /   12.50 M
+12) +1 Hit Roll - 0 of 3 - 37.50 B / 18.75 M
+13) +1 Damage Roll - 0 of 3 - 50.00 B / 25.00 M
+14) +1 Bonus Circle Damage - 0 of 30 - 5.00 B / 2.50 M
+15) +1 Bonus Flail Damage - 0 of 30 - 5.00 B / 2.50 M
+16) +1 Bonus Hand Damage - 0 of 6 - 25.00 B / 12.50 M
+17) +1 Bonus Kick Damage - 0 of 30 - 5.00 B / 2.50 M
+18) +1 Bonus Spell Damage - 0 of 30 - 5.00 B / 2.50 M
+19) +1 Bonus Stab Damage - 0 of 60 - 2.50 B / 1.25 M
+20) +1 Bonus Weapon Damage - 0 of 6 - 25.00 B / 12.50 M
 
-21) -0.1  Armor Class            -   0 of   5 -  25.00 B  /   12.50 M
-22)   +1  Bonus Charisma         -   0 of   3 -   5.00 B  /    2.50 M
-23)   +1  Bonus Damage Reduction -   0 of   5 -  25.00 B  /   12.50 M
-24)   +1  Bonus Heal Bonus       -   0 of  30 -   5.00 B  /    2.50 M
-25)   +1  Bonus System Shock     -   0 of   3 -   5.00 B  /    2.50 M
-26)   +1  Bonus Undead Control   -   0 of   3 -   5.00 B  /    2.50 M
+21) -0.1 Armor Class - 0 of 5 - 25.00 B / 12.50 M
+22) +1 Bonus Charisma - 0 of 3 - 5.00 B / 2.50 M
+23) +1 Bonus Damage Reduction - 0 of 5 - 25.00 B / 12.50 M
+24) +1 Bonus Heal Bonus - 0 of 30 - 5.00 B / 2.50 M
+25) +1 Bonus System Shock - 0 of 3 - 5.00 B / 2.50 M
+26) +1 Bonus Undead Control - 0 of 3 - 5.00 B / 2.50 M
 
-27)   -1  Save Breath            -   0 of   3 -   5.00 B xp    2.50 M gold
-28)   -1  Save Paralyzation      -   0 of   3 -   5.00 B xp    2.50 M gold
-29)   -1  Save Petrification     -   0 of   3 -   2.50 B xp    1.25 M gold
-30)   -1  Save Poison            -   0 of   3 -   2.50 B xp    1.25 M gold
-31)   -1  Save Spell             -   0 of   3 -  25.00 B xp   12.50 M gold
+27) -1 Save Breath - 0 of 3 - 5.00 B xp 2.50 M gold
+28) -1 Save Paralyzation - 0 of 3 - 5.00 B xp 2.50 M gold
+29) -1 Save Petrification - 0 of 3 - 2.50 B xp 1.25 M gold
+30) -1 Save Poison - 0 of 3 - 2.50 B xp 1.25 M gold
+31) -1 Save Spell - 0 of 3 - 25.00 B xp 12.50 M gold
 ```
 
-And then I think a few more perm spells would be amazing.  Here are some thoughts:
+And then I think a few more perm spells would be amazing. Here are some thoughts:
 
 ```
-32)   Greater Fluidity           -   0 of   1 -   65  B xp   32.50 M gold
-33)   Resist Webs                -   0 of   1 -   35  B xp   16.50 M gold
-34)   Blessing of the Avatar     -   0 of   1 -   20  B xp   10.00 M gold
-35)   Improved Haste             -   0 of   1 -   125 B xp   65.00 M gold
-36)   Natures Restoral           -   0 of   1 -   35  B xp   15.00 M gold
-37)   Rejuvenation               -   0 of   1 -   12.5 B xp  12.00 M gold
+32) Greater Fluidity - 0 of 1 - 65 B xp 32.50 M gold
+33) Resist Webs - 0 of 1 - 35 B xp 16.50 M gold
+34) Blessing of the Avatar - 0 of 1 - 20 B xp 10.00 M gold
+35) Improved Haste - 0 of 1 - 125 B xp 65.00 M gold
+36) Natures Restoral - 0 of 1 - 35 B xp 15.00 M gold
+37) Rejuvenation - 0 of 1 - 12.5 B xp 12.00 M gold
 ```
 
 </div>
@@ -512,7 +512,7 @@ I would still like to see being able to buy everything up to my classo caps firs
 
 I suggested a single cost for the base.. that is not going over cap.. getting it too your classo limite, and an ever increasing cost for going over cap.
 
-Love too see more perma spells added. Starting with the list above, perhaps perm  water breath... and others that have items in game already...
+Love too see more perma spells added. Starting with the list above, perhaps perm water breath... and others that have items in game already...
 
 thanks!
 
@@ -528,7 +528,7 @@ OH, also.. can we get gauranteed masterfuls for spells that are really nice for 
 
 Like Driven, I'd like more options for persistent spells.
 
-Please add perception!  Currently buying Avatar Sight from the mayor is a disaster because it doesn't come with perception.  If not, then I'd like to buy detect invisibility and darksight (without avatar sight).
+Please add perception! Currently buying Avatar Sight from the mayor is a disaster because it doesn't come with perception. If not, then I'd like to buy detect invisibility and darksight (without avatar sight).
 
 Other spells I'd like to see that weren't on Driven's list:
 
@@ -538,7 +538,7 @@ Grace (should be expensive - this would void alignment restrictions on casting i
 
 Protection from Good (same)
 
-Greater Fluidity has similar issues to Avatar Sight; it has extra power with a masterful cast.  If the permanent version is only regular strength, tanks may have to avoid taking it.  If the rebirth shop grants the masterful version, it should be extra expensive.
+Greater Fluidity has similar issues to Avatar Sight; it has extra power with a masterful cast. If the permanent version is only regular strength, tanks may have to avoid taking it. If the rebirth shop grants the masterful version, it should be extra expensive.
 
 </div>
 
@@ -548,23 +548,23 @@ OK, remembered, was going to post about being able to sell back to the shop too
 
 I suggest being able too get the exp, or the gold back.. not both..or not all at least
 
-for example... being able to cash in for 100 percent.. but you have to choose so... 40 percent exp, 60 percent of the coins spent... or any other variation adding up to 100 percent.  So you could get all the exp or all the coins back from a bad purchase... but not 100 percent of both..
+for example... being able to cash in for 100 percent.. but you have to choose so... 40 percent exp, 60 percent of the coins spent... or any other variation adding up to 100 percent. So you could get all the exp or all the coins back from a bad purchase... but not 100 percent of both..
 
 </div>
 
 <div class="post" data-post-id="39036" data-author="cyprimus" data-date="2019-01-04T14:50:20+00:00" data-subject="Re: Rebirth shop discussion revisited">
 
-OH, would also be exceptionally  nice to be able to get perma corpus.
+OH, would also be exceptionally nice to be able to get perma corpus.
 
 </div>
 
 <div class="post" data-post-id="39074" data-author="Josiah" data-date="2019-01-23T04:49:14+00:00" data-subject="Re: Rebirth shop discussion revisited">
 
-> **Quote:**
+> <strong>Quote:</strong>
 > Please add perception! Currently buying Avatar Sight from the mayor is a disaster because it doesn't come with perception. If not, then I'd like to buy detect invisibility and darksight (without avatar sight).
 
-Please disregard that second request.  Apparently detect invisible and darksight are still available from the mayor!  I just got both tonight for 5 million each.
+Please disregard that second request. Apparently detect invisible and darksight are still available from the mayor! I just got both tonight for 5 million each.
 
-The mayor doesn't list the prices, but still sells them.  Awesome!
+The mayor doesn't list the prices, but still sells them. Awesome!
 
 </div>

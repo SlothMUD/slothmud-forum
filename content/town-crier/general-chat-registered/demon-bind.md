@@ -26,40 +26,43 @@ You can still be webbed through rwebs, hermetic res fails occasionally, lost con
 
 <div class="post" data-post-id="12080" data-author="kjartan" data-date="2006-04-12T15:43:05+00:00" data-subject="">
 
-There's plenty of support in folklore for the idea that witches can conjure up demons to harrass good people.  Just because they're good doesn't always make them immune to harrassment.
+There's plenty of support in folklore for the idea that witches can conjure up demons to harrass good people. Just because they're good doesn't always make them immune to harrassment.
 
 </div>
 
 <div class="post" data-post-id="12081" data-author="Mystery" data-date="2006-04-12T15:54:38+00:00" data-subject="To reiterate">
 
-Look at Auto :twisted:
+Look at Auto <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="12082" data-author="Autolycos" data-date="2006-04-12T19:18:28+00:00" data-subject="">
 
-I resemble that remark!   :twisted:
+I resemble that remark! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="12095" data-author="Avatar" data-date="2006-04-13T23:54:54+00:00" data-subject="hmm av poster">
 
-So what's Auto's next goal after "avatar poster"?  Why's he still posting??
+So what's Auto's next goal after "avatar poster"? Why's he still posting??
 
-:)
+<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="12099" data-author="Autolycos" data-date="2006-04-14T04:02:27+00:00" data-subject="Re: hmm av poster">
 
-So what's Auto's next goal after "avatar poster"?  Why's he still posting??
+> <strong>Avatar wrote:</strong>
+> So what's Auto's next goal after "avatar poster"? Why's he still posting??
+> 
+> 
+> 
+> <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-:)[/quote:1dlpw2g5]
-
-nfc really,  
+nfc really, 
 
 but as long as there are dumb posts, or people to harass,
 
-i have work to do!  :twisted:
+i have work to do! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

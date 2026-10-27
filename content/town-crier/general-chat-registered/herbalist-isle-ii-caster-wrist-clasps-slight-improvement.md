@@ -14,7 +14,7 @@ post_count: 1
 
 Good evening,
 
-The four 5x40 caster prime wrist clasp forges in Herbalist Isle II are now no longer +1 spell_save
+The four 5x40 caster prime wrist clasp forges in Herbalist Isle II are now no longer +1 spell\_save
 
 (positive spell save is the detrimental kind)
 
@@ -22,6 +22,6 @@ they are now just +7 mana.
 
 Enjoy the change,
 
---Idjit
+\--Idjit
 
 </div>

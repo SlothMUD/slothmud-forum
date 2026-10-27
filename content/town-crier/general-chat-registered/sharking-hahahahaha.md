@@ -14,9 +14,9 @@ post_count: 4
 
 This shit has me rofling my fao.
 
-***Edit by Akasha: Mature-rated Content***
+\*\*\*Edit by Akasha: Mature-rated Content\*\*\*
 
-[url:10ell4qh]http://www.efukt.com/1725_European_Sharking.html[/url:10ell4qh]
+http://www.efukt.com/1725_European_Sharking.html
 
 Hahahahahahaha
 
@@ -28,9 +28,9 @@ there's some sick sheet on that website dude...
 
 but this gave me a good laugh, watch it till the end, its worth it
 
-**Edited by Akasha: Mature-rated linkedsite, PG-13 Rated content of link**
+\*\*Edited by Akasha: Mature-rated linkedsite, PG-13 Rated content of link\*\*
 
-[url:2xcnmwwy]http://www.efukt.com/view.php?id=268[/url:2xcnmwwy]
+http://www.efukt.com/view.php?id=268
 
 </div>
 
@@ -42,6 +42,6 @@ yeah man I think you're the one who put me onto that site in the first place wit
 
 <div class="post" data-post-id="18147" data-author="Akasha" data-date="2007-04-24T17:00:27+00:00" data-subject="">
 
-really? possibly.  wow, i suck :)
+really? possibly. wow, i suck <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

@@ -42,13 +42,13 @@ some speculation that it only impacted remort chars.
 
 based on convo on player discord the issue has
 
-> been identified
+\> been identified
 
-> being worked on 
+\> being worked on 
 
-> NOT yet resolved
+\> NOT yet resolved
 
-> there is not yet a timeline
+\> there is not yet a timeline
 
 I would NOT log on with your main chars for now, some chars were impacted this am.
 
@@ -114,7 +114,7 @@ Thanks to everyone for your patience.
 
 Happy Hunting!
 
--N
+\-N
 
 </div>
 
@@ -126,7 +126,7 @@ risky
 
 synic
 
----
+\---
 
 EDIT 7/15 to add synic
 
@@ -134,7 +134,7 @@ EDIT 7/15 to add synic
 
 <div class="post" data-post-id="40105" data-author="Dawg" data-date="2024-07-15T23:49:49+00:00" data-subject="Re: sloth outage 7/13 ?">
 
-Dawg and Blackwolf are both deleted I sent a pm to neptune via discord but was informed to do it here too :D
+Dawg and Blackwolf are both deleted I sent a pm to neptune via discord but was informed to do it here too <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 

@@ -26,9 +26,9 @@ AC-apply is -0.3
 
 Can affect you as:
 
-    Affects: MOVE by 15
+ Affects: MOVE by 15
 
-    Affects: REGEN_MOVE by 3
+ Affects: REGEN\_MOVE by 3
 
 You feel informed:
 
@@ -42,11 +42,11 @@ Weight: 1, Value: 400gold, Worn in: TAKE HOLD
 
 Can affect you as:
 
-    Affects: HITPOINT by 5
+ Affects: HITPOINT by 5
 
-    Affects: HITPOINT by 5
+ Affects: HITPOINT by 5
 
-    Affects: ARMOR by -1
+ Affects: ARMOR by -1
 
 Only those who are at least novice magic users, clerics, thieves, warriors,
 
@@ -64,9 +64,9 @@ AC-apply is -1.4
 
 Can affect you as:
 
-    Affects: MANA by 4
+ Affects: MANA by 4
 
-    Affects: MANA by 3
+ Affects: MANA by 3
 
 Only those who are at least novice magic users, clerics, druids,
 
@@ -134,11 +134,11 @@ resist cold
 
 <div class="post" data-post-id="32900" data-author="Toxis" data-date="2011-09-12T17:28:41+00:00" data-subject="Re: Burbalangs">
 
-turtle statue is supposed to have 5 mana and 5 hp and weight fixed, and shirt should only have 5ma on it...  This will be fixed if eq is rented and comes back into the game.
+turtle statue is supposed to have 5 mana and 5 hp and weight fixed, and shirt should only have 5ma on it... This will be fixed if eq is rented and comes back into the game.
 
 Thanks,
 
--Tox
+\-Tox
 
 </div>
 
@@ -156,7 +156,7 @@ AC-apply is -0.1
 
 Can affect you as:
 
-    Affects: MANA by 3
+ Affects: MANA by 3
 
 </div>
 
@@ -180,7 +180,7 @@ Damage Dice is '2D5'
 
 Can affect you as:
 
-    Affects: HITROLL by 2
+ Affects: HITROLL by 2
 
 Only those who are at least novice magic users may use this item.
 

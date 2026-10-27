@@ -12,19 +12,19 @@ post_count: 16
 
 <div class="post" data-post-id="39831" data-author="Gorka" data-date="2021-09-30T13:57:46+00:00" data-subject="Rebirth Coins - Out of Balance">
 
-* The longer you play sloth the more likely there will come a time when coins are worth almost nothing.
+\* The longer you play sloth the more likely there will come a time when coins are worth almost nothing.
 
-* There are at least 3 secrets to having coins, don't group - solo, kill little rich mobs a lot, don't have too many chars.
+\* There are at least 3 secrets to having coins, don't group - solo, kill little rich mobs a lot, don't have too many chars.
 
-* There comes a point when the lag from the search command doesn't yield the same value as the coins it occasionally finds. I turned off the automatic cache searching kill script I have, and found my xp improved as much as 150m an hour, just from command lag reduction.
+\* There comes a point when the lag from the search command doesn't yield the same value as the coins it occasionally finds. I turned off the automatic cache searching kill script I have, and found my xp improved as much as 150m an hour, just from command lag reduction.
 
-* There used to be a command (exchange) where coins could be traded for xp - which could be used to control the value of game coins because coins would always have a value. The value of everything in game seems to be the lowest I've ever seen it.
+\* There used to be a command (exchange) where coins could be traded for xp - which could be used to control the value of game coins because coins would always have a value. The value of everything in game seems to be the lowest I've ever seen it.
 
-* The suck hole of buying vaults does eventually end... I am approaching 15,000 vault slots.
+\* The suck hole of buying vaults does eventually end... I am approaching 15,000 vault slots.
 
-* A malicious person could crash the sloth economy with the amount of coins there is, if they choose not to "play along" with the perceived current value of goods which keeps the sloth economy stable, by hiding the truth about the over supply of coins.
+\* A malicious person could crash the sloth economy with the amount of coins there is, if they choose not to "play along" with the perceived current value of goods which keeps the sloth economy stable, by hiding the truth about the over supply of coins.
 
-* The oversupply of coins exists mostly with end of game type avatars.
+\* The oversupply of coins exists mostly with end of game type avatars.
 
 Would the imms perhaps consider some measures to increase the value of coins. Why do this? Well, In my position, I have spare gems I could be selling to new players... but when all they can offer me is coins (in some cases)... what can I do - they are completely worthless - for the sake of all players, the economy needs a little attention. If we were to raise the price of items, to match the coin inflation of rebirth avatars, the new players won't survive... so something needs doing about rebirth coins - but don't be dumb and nerf mob coins that will only effect new players the most - find something for rebirths to spend coins on to make them valuable again.
 
@@ -32,13 +32,13 @@ Would the imms perhaps consider some measures to increase the value of coins. Wh
 
 <div class="post" data-post-id="39832" data-author="Insomnia" data-date="2021-09-30T15:31:04+00:00" data-subject="Re: Rebirth Coins - Out of Balance">
 
-Random idea, let's introduce a monthly service charge for vault rooms. :) The first room is always free. Every additional room requires you to pay 1mil gold coins per month to use it. You can choose to not pay, have vault space temporarily disabled – and then you just pay 1mil when you decide to use it again.
+Random idea, let's introduce a monthly service charge for vault rooms. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> The first room is always free. Every additional room requires you to pay 1mil gold coins per month to use it. You can choose to not pay, have vault space temporarily disabled – and then you just pay 1mil when you decide to use it again.
 
 </div>
 
 <div class="post" data-post-id="39833" data-author="cnl" data-date="2021-10-01T00:52:25+00:00" data-subject="Re: Rebirth Coins - Out of Balance">
 
-I think a tax on vault storage space isn't what is needed here, the trick is to find something that folks want to spend their money on. Also I don't like this idea because I couldn't afford it. :) I bought those things to save me rent.
+I think a tax on vault storage space isn't what is needed here, the trick is to find something that folks want to spend their money on. Also I don't like this idea because I couldn't afford it. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> I bought those things to save me rent.
 
 Currently, gold to me seems to be something I need quite badly, and when I'm reborn - I imagine the problem will persist or get even worse until well into reborn buys - since xp increase but gold remains the same. Gold is tight right now and I've often have to stop XP hunting to work on Gold. Perhaps other peoples experience is different, but I feel mid-game gold is balanced quite well.
 
@@ -94,7 +94,7 @@ or blast-discharge wand stave rod.
 
 Basically BH coli hickory sticks. but godly expensive
 
---D
+\--D
 
 </div>
 
@@ -102,7 +102,7 @@ Basically BH coli hickory sticks. but godly expensive
 
 create a series of items that do for canopied arbor does for druids, but for offensive capabilities for each class.
 
-"Tile" effects.  It enhances like a devak but only in one room and wears off after 10 minutes.
+"Tile" effects. It enhances like a devak but only in one room and wears off after 10 minutes.
 
 bard: an item that gives the room 'perfect acoustics' (cry of avatars goes nuts has extra damage).
 
@@ -112,7 +112,7 @@ and charge several hundred K for these.
 
 other part of that : make even these items only work in specific rooms like devak's lodge command
 
-"this spot doesn't have good enough acoustics for you to emplant a tuning fork.  Try another location"
+"this spot doesn't have good enough acoustics for you to emplant a tuning fork. Try another location"
 
 So that you have to dagger a mob to that spot.
 
@@ -134,7 +134,7 @@ more akin to solving a trap-laying AQ than a true mob kill.
 
 Some new process.
 
---D
+\--D
 
 </div>
 
@@ -142,17 +142,17 @@ Some new process.
 
 Add a special ability to certain mobs – maybe with some quests around this as well – to allow them to enhance your weapon, for a limited amount of time, and add some damage, or a spell proc to it.
 
-- You go to Apollo, pay him 10 mil coins, and get 10 minutes of the **cry of the avatars** proc (with reasonable proc rate) on your weapon.
-- You go to Kyla, the wandering cleric, pay her 2 mil coins, and get 10 minutes of the **turn undead** proc on your weapon.
-- You go to a vicious Crimson Death, pay it 5 mil coins, and get 10 minutes of the **fear** proc on your weapon.
+- You go to Apollo, pay him 10 mil coins, and get 10 minutes of the <strong>cry of the avatars</strong> proc (with reasonable proc rate) on your weapon.
+- You go to Kyla, the wandering cleric, pay her 2 mil coins, and get 10 minutes of the <strong>turn undead</strong> proc on your weapon.
+- You go to a vicious Crimson Death, pay it 5 mil coins, and get 10 minutes of the <strong>fear</strong> proc on your weapon.
 
-I can easily imagine Gorka paying 100 mil for 100 minutes of extra damage to test if it changes something in his exp rate.  8)
+I can easily imagine Gorka paying 100 mil for 100 minutes of extra damage to test if it changes something in his exp rate. <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="39848" data-author="Gorka" data-date="2021-10-18T20:34:09+00:00" data-subject="Re: Rebirth Coins - Out of Balance">
 
-> ***Idjit* wrote:**
+> <strong>\*Idjit\* wrote:</strong>
 > white-list some buffing (but not too buffing) potions that CAN work in the coliseum with a new flag.
 
 Interesting Idjit suggests something about the coliseum, as this would effect the amount of drachma a player can get indirectly. You see, I could have written the same post about Drachma... I know I am not the only player who has thousands of drachma without anything to spend it on... Once again, some sort of once use or renewable item would appear to be a solution or some kind of perk scheme.
@@ -171,7 +171,7 @@ It was fun to do small team efforts in there.
 
 We took items out of chaos pit and that sucked the wind right out of its sails.
 
---D
+\--D
 
 </div>
 

@@ -14,7 +14,7 @@ post_count: 6
 
 Any Comments? For/Against?
 
-Scared the government might start spying on you or cancel your revenue if you say something?  :twisted:
+Scared the government might start spying on you or cancel your revenue if you say something? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 http://www.cnbc.com/id/40551046
 
@@ -54,7 +54,7 @@ Wikileaks is currently mirrored on 1005 sites.
 
 A 1.4GB file labelled "insurance" with a 256bit encryption key required to open will be released if anything happens to wikileaks. It's been downloaded by thousands of people from the wikileaks website awaiting the release of the key if anything happens. It's expected to be 1000's of documents about the Afgan War. It could include the balance of data that U.S. Army intelligence analyst Bradley Manning claimed to have leaked to Assange before he was arrested in May.
 
-<LINK_TEXT text="http://www.wired.com/threatlevel/2010/0 ... ance-file/">http://www.wired.com/threatlevel/2010/07/wikileaks-insurance-file/</LINK_TEXT>
+http://www.wired.com/threatlevel/2010/07/wikileaks-insurance-file/
 
 </div>
 

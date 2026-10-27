@@ -24,7 +24,7 @@ time s
 
 The sun slowly disappears in the west.
 
-Last bootup: Tue Dec  8 16:24:14 2009
+Last bootup: Tue Dec 8 16:24:14 2009
 
 Current time: Fri Dec 11 14:41:07 2009
 
@@ -36,7 +36,7 @@ Current time: Fri Dec 11 14:41:07 2009
 
 Bump!
 
-I can't get in :(
+I can't get in <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -76,13 +76,18 @@ Healo, we might need a few of you in at the same time.
 
 <div class="post" data-post-id="30834" data-author="Tuck" data-date="2010-02-07T01:18:55+00:00" data-subject="">
 
-I think we may have to all play manually for a while by sending letters.
+> <strong>jezer wrote:</strong>
+> I think we may have to all play manually for a while by sending letters.
+> 
+> 
+> 
+> Send your next command by mail to jake, and he will manually type it in for you and mail back the response.
+> 
+> 
+> 
+> Healo, we might need a few of you in at the same time.
 
-Send your next command by mail to jake, and he will manually type it in for you and mail back the response.
-
-Healo, we might need a few of you in at the same time.[/quote:qk7ts2fb]
-
-don't tease my main :)
+don't tease my main <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -90,9 +95,9 @@ don't tease my main :)
 
 7th Feb - Letter from Jezer to Jake - "waer robe"
 
-15th Feb - Letter from Jake to Jezer -  "Arglebargle, glop-glyf!?!"
+15th Feb - Letter from Jake to Jezer - "Arglebargle, glop-glyf!?!"
 
- :evil:
+ <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -110,27 +115,27 @@ Splork
 
 Splork, can you share information about problem in datacenter? 
 
-Is it network outage or power problems? Hope server will not reboot/get down as we got sweet pops in AH EQ grp ;-)
+Is it network outage or power problems? Hope server will not reboot/get down as we got sweet pops in AH EQ grp <img src="/images/smilies/icon_e_wink.svg" alt=";-)" title=";-)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="30839" data-author="jezer" data-date="2010-02-07T01:42:34+00:00" data-subject="">
 
-[img:13jxnwnv]http://www.dailylaugh.org/wp-content/uploads/2009/05/datacentermess4.jpg[/img:13jxnwnv]
+![](http://www.dailylaugh.org/wp-content/uploads/2009/05/datacentermess4.jpg)
 
-Hello...  Mr Slothmud,
+Hello... Mr Slothmud,
 
 You've lost connection, one moment sir while I find the break.
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="30840" data-author="Tuck" data-date="2010-02-07T01:51:20+00:00" data-subject="">
 
-[img:1z1xouts]http://gizmodo.com/assets/resources/2008/01/cable_mess.jpg[/img:1z1xouts]
+![](http://gizmodo.com/assets/resources/2008/01/cable_mess.jpg)
 
-here is jezer's datacenter, tier 3+ ;-)
+here is jezer's datacenter, tier 3+ <img src="/images/smilies/icon_e_wink.svg" alt=";-)" title=";-)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -144,17 +149,20 @@ It's the yellow cord, plug back in the yellow... right there, can't you see it? 
 
 "Brad, which one yellow cord we need to plug in?"
 
-[img:178id3d7]http://blogs.awmpage.com/humor/wp-content/uploads/2008/03/unix.jpg[/img:178id3d7]
+![](http://blogs.awmpage.com/humor/wp-content/uploads/2008/03/unix.jpg)
 
 </div>
 
 <div class="post" data-post-id="30843" data-author="jezer" data-date="2010-02-07T02:02:02+00:00" data-subject="">
 
-[img:2l8b2xw9]http://gizmodo.com/assets/resources/2008/01/cable_mess.jpg[/img:2l8b2xw9]
+> <strong>Tuck wrote:</strong>
+> ![](http://gizmodo.com/assets/resources/2008/01/cable_mess.jpg)
+> 
+> 
+> 
+> here is jezer's datacenter, tier 3+ <img src="/images/smilies/icon_e_wink.svg" alt=";-)" title=";-)" width="15" height="15" class="smiley nozoom">
 
-here is jezer's datacenter, tier 3+ ;-)[/quote:2l8b2xw9]
-
-Someone told me cables in a coil will create electricity!  :twisted:
+Someone told me cables in a coil will create electricity! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -162,7 +170,7 @@ Someone told me cables in a coil will create electricity!  :twisted:
 
 Slothmud is down.
 
-[url:uhoej1ua]http://www.youtube.com/watch?v=W8_Kfjo3VjU[/url:uhoej1ua]
+http://www.youtube.com/watch?v=W8_Kfjo3VjU
 
 </div>
 
@@ -170,13 +178,13 @@ Slothmud is down.
 
 Cast 'raise dead' slothmud
 
- :P
+ <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="30846" data-author="Toxis" data-date="2010-02-07T02:59:59+00:00" data-subject="">
 
-Tuk those are awesome.  Awesome, I say, awesome!
+Tuk those are awesome. Awesome, I say, awesome!
 
 </div>
 
@@ -204,33 +212,34 @@ dear liza, a mob
 
 <div class="post" data-post-id="30849" data-author="Tuck" data-date="2010-02-07T03:17:40+00:00" data-subject="">
 
-What am I supposed to do if I can't play slothmud? My whole world is gone! Someone help me please...[/quote:1t18gui8]
+> <strong>joesmoe wrote:</strong>
+> What am I supposed to do if I can't play slothmud? My whole world is gone! Someone help me please...
 
 The Sword of a Thousand Truths, use it and make slothmud online!
 
-[img:1t18gui8]http://www.blogcdn.com/www.joystiq.com/media/2006/10/1000truths.jpg[/img:1t18gui8]
+![](http://www.blogcdn.com/www.joystiq.com/media/2006/10/1000truths.jpg)
 
 </div>
 
 <div class="post" data-post-id="30850" data-author="badden" data-date="2010-02-07T03:26:16+00:00" data-subject="">
 
-*sniff*
+\*sniff\*
 
 I want to play Sloth so bad(den), I don't know what to do with myself.
 
-*sniff*
+\*sniff\*
 
 </div>
 
 <div class="post" data-post-id="30851" data-author="Toxis" data-date="2010-02-07T03:28:48+00:00" data-subject="">
 
-I don't want to know what you're doing with yourself either :)
+I don't want to know what you're doing with yourself either <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="30852" data-author="badden" data-date="2010-02-07T03:32:40+00:00" data-subject="">
 
-LOL!!  Hope the neighbors aren't peeping in the window, either. :)
+LOL!! Hope the neighbors aren't peeping in the window, either. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -240,7 +249,7 @@ I declare protest against slothmud offline.
 
 This child bounded in chains until sloth will back up.
 
-[img:3omdpokj]http://pics.livejournal.com/drugoi/pic/00xyz9b4.jpg[/img:3omdpokj]
+![](http://pics.livejournal.com/drugoi/pic/00xyz9b4.jpg)
 
 </div>
 
@@ -250,27 +259,35 @@ Just curious, did you search for "children" or "bondage"..
 
 Both!?!?!?
 
-Don't forget to vote everyone! :)
+Don't forget to vote everyone! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="30855" data-author="Tuck" data-date="2010-02-07T03:38:48+00:00" data-subject="">
 
-LOL!!  Hope the neighbors aren't peeping in the window, either. :)[/quote:l858b5qp]
+> <strong>badden wrote:</strong>
+> LOL!! Hope the neighbors aren't peeping in the window, either. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 HELL, NO!
 
-[img:l858b5qp]http://www.indieschmarm.com/wp-content/uploads/2007/11/poo-28215.jpg[/img:l858b5qp]
+![](http://www.indieschmarm.com/wp-content/uploads/2007/11/poo-28215.jpg)
 
 </div>
 
 <div class="post" data-post-id="30856" data-author="Tuck" data-date="2010-02-07T03:44:01+00:00" data-subject="">
 
-Just curious, did you search for "children" or "bondage"..
-
-Both!?!?!?
-
-Don't forget to vote everyone! :)[/quote:37uotv63]
+> <strong>Toxis wrote:</strong>
+> Just curious, did you search for "children" or "bondage"..
+> 
+> 
+> 
+> Both!?!?!?
+> 
+> 
+> 
+> 
+> 
+> Don't forget to vote everyone! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 I vote for new datacenter.
 
@@ -282,9 +299,9 @@ Technically WoW is down more than sloth, and sloth is free!
 
 We're all just spoiled.
 
--Toxis
+\-Toxis
 
-I vote for a hotnakidchick forum :)
+I vote for a hotnakidchick forum <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -300,7 +317,7 @@ I've read whole the Internet.
 
 And Sloth is still down.
 
-Now I feel I'm an addict :P
+Now I feel I'm an addict <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 p.s. Isn't it a haiku?
 
@@ -320,17 +337,17 @@ I blame Toxis....this happened as he wanted to be a GOD!!! I blame his WARCRY!
 
 <div class="post" data-post-id="30862" data-author="badden" data-date="2010-02-07T12:38:39+00:00" data-subject="">
 
-OMG! I've slept and awakened to a new day....without Sloth. *sniff* This is a very bad(den) start to my morning.  What am I going to do without my morning coin runs?  I believe I'm going to chain myself to that pole with the kid.  Or maybe I'll go shovel some snow.  Fix breakfast?  Go to work?  Clean the house?  Go to the gym?  
+OMG! I've slept and awakened to a new day....without Sloth. \*sniff\* This is a very bad(den) start to my morning. What am I going to do without my morning coin runs? I believe I'm going to chain myself to that pole with the kid. Or maybe I'll go shovel some snow. Fix breakfast? Go to work? Clean the house? Go to the gym? 
 
-BAH!!  I'm going to stare at my "Unable to connect to slothmud.org port 6101" message and do my coin runs in my mind.  If you'd like to join me, follow up at West Gate!!
+BAH!! I'm going to stare at my "Unable to connect to slothmud.org port 6101" message and do my coin runs in my mind. If you'd like to join me, follow up at West Gate!!
 
-:)  Y'all have a good day folks!! :)
+<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> Y'all have a good day folks!! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="30863" data-author="Aria" data-date="2010-02-07T12:48:03+00:00" data-subject="RE:  Game Down?">
 
-*sniffle*  I have to do useful stuff now?  Consider me following Badden!
+\*sniffle\* I have to do useful stuff now? Consider me following Badden!
 
 </div>
 
@@ -364,9 +381,9 @@ storm is on the way. Egad
 
 SlothMUD's Uptime
 
-Start time was:  Fri Feb  5 08:17:22 2010
+Start time was: Fri Feb 5 08:17:22 2010
 
-Current time is: Sat Feb  6 18:39:48 2010
+Current time is: Sat Feb 6 18:39:48 2010
 
 great time for a coin bot script to running.
 

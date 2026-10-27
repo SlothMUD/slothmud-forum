@@ -12,7 +12,7 @@ post_count: 9
 
 <div class="post" data-post-id="33359" data-author="Yasik" data-date="2012-07-05T11:45:21+00:00" data-subject="5th - 8th classes&#x27; benefits">
 
-Can anyone please share the info about them - mr/dam_reduct/spell_dam caps, hp/ma/mv per level gain, eq restricts and so on.
+Can anyone please share the info about them - mr/dam\_reduct/spell\_dam caps, hp/ma/mv per level gain, eq restricts and so on.
 
 Going to decide for Wa-Cl-Ma-Ne the last ones, would like to pick them with a bit of rational thinking, not random, etc.
 
@@ -28,13 +28,13 @@ cmon guys, dont be shy, all your advice are belong to me
 
 <div class="post" data-post-id="33362" data-author="Tuck" data-date="2012-07-08T01:17:07+00:00" data-subject="Re: 5th - 8th classes&#x27; benefits">
 
-Actually we don't have second,third,quad, etc classes benefits. No classes benefits at all ;-).
+Actually we don't have second,third,quad, etc classes benefits. No classes benefits at all <img src="/images/smilies/icon_e_wink.svg" alt=";-)" title=";-)" width="15" height="15" class="smiley nozoom">.
 
 Some imms need to share it. Or i missed this info somewhere.
 
 Bug imms, Yasik.
 
-p.s. what's the difference between mage prime, mage second and mage quad for example, except frostbolt/reflection(bugged) and spelldam(bugged too). Saves? Avatar spelldambonus? 'bonus_spell_bonus'?
+p.s. what's the difference between mage prime, mage second and mage quad for example, except frostbolt/reflection(bugged) and spelldam(bugged too). Saves? Avatar spelldambonus? 'bonus\_spell\_bonus'?
 
 p.p.s. if someone will share info i'll write compassion table and such things. 
 
@@ -44,13 +44,13 @@ thanks in advance
 
 <div class="post" data-post-id="33363" data-author="Tuck" data-date="2012-07-08T01:17:10+00:00" data-subject="Re: 5th - 8th classes&#x27; benefits">
 
-Actually we don't have second,third,quad, etc classes benefits. No classes benefits at all ;-).
+Actually we don't have second,third,quad, etc classes benefits. No classes benefits at all <img src="/images/smilies/icon_e_wink.svg" alt=";-)" title=";-)" width="15" height="15" class="smiley nozoom">.
 
 Some imms need to share it. Or i missed this info somewhere.
 
 Bug imms, Yasik.
 
-p.s. what's the difference between mage prime, mage second and mage quad for example, except frostbolt/reflection(bugged) and spelldam(bugged too). Saves? Avatar spelldambonus? 'bonus_spell_bonus'?
+p.s. what's the difference between mage prime, mage second and mage quad for example, except frostbolt/reflection(bugged) and spelldam(bugged too). Saves? Avatar spelldambonus? 'bonus\_spell\_bonus'?
 
 p.p.s. if someone will share info i'll write compassion table and such things. 
 
@@ -62,7 +62,7 @@ thanks in advance
 
 Spelldam cap depends on position of Mage in classo, as far as I know.
 
-Same applied to dam_reduction, for example.
+Same applied to dam\_reduction, for example.
 
 That what I meant.
 
@@ -70,10 +70,10 @@ That what I meant.
 
 <div class="post" data-post-id="33365" data-author="Tuck" data-date="2012-07-08T20:30:20+00:00" data-subject="Re: 5th - 8th classes&#x27; benefits">
 
-> **Yasik wrote:**
+> <strong>Yasik wrote:</strong>
 > Spelldam cap depends on position of Mage in classo, as far as I know.
 > 
-> Same applied to dam_reduction, for example.
+> Same applied to dam\_reduction, for example.
 > 
 > That what I meant.
 
@@ -95,7 +95,7 @@ The rest I choose:
 
 7th is Bard, because picking from Ba or Th is obvious, Bard gives mana which is more valuable than a Th's tiny bit of more hps and moves.
 
-8th is Thief, beacause I *have* to pick it to complete the classo, not because I want it.
+8th is Thief, beacause I \*have\* to pick it to complete the classo, not because I want it.
 
 Also, I dont think this is completely true and right and it works as I think it works.
 
@@ -103,7 +103,7 @@ Also, I dont think this is completely true and right and it works as I think it 
 
 <div class="post" data-post-id="33441" data-author="Tuck" data-date="2012-08-12T02:27:18+00:00" data-subject="Re: 5th - 8th classes&#x27; benefits">
 
-numbers, dude, numbers :)
+numbers, dude, numbers <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

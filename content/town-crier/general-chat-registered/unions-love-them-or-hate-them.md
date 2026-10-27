@@ -38,7 +38,7 @@ Seniority is both a pro and con. You get job bids, laid off ect due to the amoun
 
 I would not make my decision on whether to work at a company solely based on if they were union or not, its just another factor in the decision making process. I would put along the line of do I get 1/2 hour for lunch or 1 hour for lunch, not really a game killer either way.
 
-Compare the pay/benefits and if you enjoy the job  dont let it sway you either way.
+Compare the pay/benefits and if you enjoy the job dont let it sway you either way.
 
 The unions are one of the sole reasons we dont have 9 yr olds working in factories and there are things called overtime, and holidays. They definitely had their place but these days their power is on a very short leash w/ permanent replacement workers being able to replace any person during a strike.
 
@@ -60,24 +60,24 @@ There is a closed shop clause many contracts have, meaning if you want to work y
 
 <div class="post" data-post-id="27382" data-author="Mosaix" data-date="2008-12-08T03:16:27+00:00" data-subject="">
 
-I play in several symphony orchestras.  Some of them are union.  In the non-union orchestra the wages are poor, and the performance quality is not very good.  Mostly filled with local lame-duck players and lower quality players who will accept the lower wage.   If you accept work with a non-union orchestra you are "on your own".  In other words if you do all the work for a week, and they just dont feel like paying you.  Well thats about that.  Not much you can do.  This rarely happens, but it does sometimes and you just dont play there again.  Also in non-union orchestras it is impossible to voice an opinon, make a comment or get anywhere with an orchestra front office or an orchestra board.  Most times boards are run by a bunch of lawyers who are there having not much musical knowledge at all.  They donate their time and take the tax write-off.
+I play in several symphony orchestras. Some of them are union. In the non-union orchestra the wages are poor, and the performance quality is not very good. Mostly filled with local lame-duck players and lower quality players who will accept the lower wage. If you accept work with a non-union orchestra you are "on your own". In other words if you do all the work for a week, and they just dont feel like paying you. Well thats about that. Not much you can do. This rarely happens, but it does sometimes and you just dont play there again. Also in non-union orchestras it is impossible to voice an opinon, make a comment or get anywhere with an orchestra front office or an orchestra board. Most times boards are run by a bunch of lawyers who are there having not much musical knowledge at all. They donate their time and take the tax write-off.
 
-Union orchestras have higher per-service or salary.  The exception is Seattle and Tampa Symphonies who are salaried, run well, and have good players but are not union.  Union orchestras have the better players, sound more impressive, bigger audiences, better run etc etc.
+Union orchestras have higher per-service or salary. The exception is Seattle and Tampa Symphonies who are salaried, run well, and have good players but are not union. Union orchestras have the better players, sound more impressive, bigger audiences, better run etc etc.
 
-If you have a problem you talk to an appointed/elected union steward for the orchestra.  That indiviual has some power and talks to the union.  If the problem is big enough the union normally corrects the issue and resolves the dispute properly.  The union has lawyers to help the players deal properly with the lawyers of an orchestra board.  Keeps it even basically, so problems can get resolved.  
+If you have a problem you talk to an appointed/elected union steward for the orchestra. That indiviual has some power and talks to the union. If the problem is big enough the union normally corrects the issue and resolves the dispute properly. The union has lawyers to help the players deal properly with the lawyers of an orchestra board. Keeps it even basically, so problems can get resolved. 
 
-So in general I like Unions for Musicians.  It helps to keep a proper check and balance between powers, gives musicians a voice, and raises wages in a way that is good for the musicians, and still keeps the health of the orchestra.  I should add that most orchestras are non-profit.  So from a buisiness standpoint its in the orchestras best interest to be the best it can be from both a player and a management standpoint in most cases.
+So in general I like Unions for Musicians. It helps to keep a proper check and balance between powers, gives musicians a voice, and raises wages in a way that is good for the musicians, and still keeps the health of the orchestra. I should add that most orchestras are non-profit. So from a buisiness standpoint its in the orchestras best interest to be the best it can be from both a player and a management standpoint in most cases.
 
 </div>
 
 <div class="post" data-post-id="27383" data-author="jezer" data-date="2008-12-08T04:47:21+00:00" data-subject="">
 
-[img:2nh77jcq]http://www.barbspics.com/animation/afimg/0016b.gif[/img:2nh77jcq]
+![](http://www.barbspics.com/animation/afimg/0016b.gif)
 
 </div>
 
 <div class="post" data-post-id="27388" data-author="Yasik2" data-date="2008-12-09T07:20:52+00:00" data-subject="">
 
-[img:3haobyb1]http://yasik.kiev.ua/4chan/Bored_dog.jpg[/img:3haobyb1]
+![](http://yasik.kiev.ua/4chan/Bored_dog.jpg)
 
 </div>

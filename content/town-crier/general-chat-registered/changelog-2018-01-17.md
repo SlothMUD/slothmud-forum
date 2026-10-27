@@ -12,25 +12,25 @@ post_count: 5
 
 <div class="post" data-post-id="38627" data-author="*teker*" data-date="2018-01-17T15:57:49+00:00" data-subject="Changelog 2018-01-17">
 
-I modified spectral shield and the hidden mace of the underworld to behave differently when mana is full.  It shouldn't drop your mana down when the effect triggers but if you're in a situation where your current mana is a lot higher than your maximum mana there's a chance it'll do damage to you instead.
+I modified spectral shield and the hidden mace of the underworld to behave differently when mana is full. It shouldn't drop your mana down when the effect triggers but if you're in a situation where your current mana is a lot higher than your maximum mana there's a chance it'll do damage to you instead.
 
 I changed the message about He/she can't carry that much to show the player's name.
 
-There is a new chopper specific equipment rack at the master avatar.  It functions just like a vault in that you can deposit, withdraw, and list the items inside it.  Items inside the rack persist through reboots/crashes.  It functions differently than a vault in that:
+There is a new chopper specific equipment rack at the master avatar. It functions just like a vault in that you can deposit, withdraw, and list the items inside it. Items inside the rack persist through reboots/crashes. It functions differently than a vault in that:
 
-- The rack can not be expanded beyond its current size of 8 slots
+\- The rack can not be expanded beyond its current size of 8 slots
 
-- The rack can not be closed or locked
+\- The rack can not be closed or locked
 
-- Only chopper weapons can be deposited in the rack
+\- Only chopper weapons can be deposited in the rack
 
-- Choppers that require 5x40 or above will only fit in 2 of the 8 slots
+\- Choppers that require 5x40 or above will only fit in 2 of the 8 slots
 
-- Choppers that require 3x40 or above will only fit in 6 of the 8 slots (includes the 2 5x40 slots)
+\- Choppers that require 3x40 or above will only fit in 6 of the 8 slots (includes the 2 5x40 slots)
 
-- Choppers without level restrictions will fit in any slot
+\- Choppers without level restrictions will fit in any slot
 
-The rack is currently empty and will remain that way until players start depositing weapons there.  It is completely up to the players to manager this resource.  Immortals will no longer be popping or reimbursing choppers after reboots/crashes.
+The rack is currently empty and will remain that way until players start depositing weapons there. It is completely up to the players to manager this resource. Immortals will no longer be popping or reimbursing choppers after reboots/crashes.
 
 </div>
 
@@ -58,7 +58,7 @@ Thanks.
 
 <div class="post" data-post-id="38632" data-author="*teker*" data-date="2018-01-19T15:18:52+00:00" data-subject="Re: Changelog 2018-01-17">
 
-We're not changing it to a locker.  You guys are going to have to find a way to get along.
+We're not changing it to a locker. You guys are going to have to find a way to get along.
 
 </div>
 

@@ -18,7 +18,7 @@ Mages are awesome post everything you know about mages.
 
 <div class="post" data-post-id="5682" data-author="Vixn" data-date="2005-04-16T08:19:39+00:00" data-subject="">
 
-I heard they use mana... but maybe it's just rumors.. :)
+I heard they use mana... but maybe it's just rumors.. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -40,6 +40,6 @@ not all mages are overated im not anyway dont know about blastem, mages use a ve
 
 probably the krapiest mage in existance at the moment would be that
 
-useless spiderbot called impz.. he really sucks  :twisted:
+useless spiderbot called impz.. he really sucks <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

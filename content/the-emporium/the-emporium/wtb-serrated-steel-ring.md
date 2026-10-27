@@ -12,7 +12,7 @@ post_count: 10
 
 <div class="post" data-post-id="16715" data-author="Marchessa_red_witch" data-date="2007-02-08T13:54:29+00:00" data-subject="wtb: Serrated Steel Ring">
 
-<eom>
+\<eom\>
 
 </div>
 
@@ -20,7 +20,7 @@ post_count: 10
 
 how about making 1 post and actually writing something in the message?
 
-just writing info in the title line without backup info is stupid.   almost as stupid as wanting to buy spellbooks.. there are plenty of DoT groups going.. just join and call it..
+just writing info in the title line without backup info is stupid. almost as stupid as wanting to buy spellbooks.. there are plenty of DoT groups going.. just join and call it..
 
 </div>
 
@@ -34,9 +34,12 @@ Anyone who wants to sell can contact me on it.
 
 If it is so easy, why not name a price and join a DoT group and call it and sell it to me. If it is easier for me to run the coins than pop the books, and it is easier for someone else to pop the books than run the coins, why not make a deal?
 
-how about making 1 post and actually writing something in the message?
-
-just writing info in the title line without backup info is stupid.   almost as stupid as wanting to buy spellbooks.. there are plenty of DoT groups going.. just join and call it..[/quote:79phmmg7]
+> <strong>Autolycos wrote:</strong>
+> how about making 1 post and actually writing something in the message?
+> 
+> 
+> 
+> just writing info in the title line without backup info is stupid. almost as stupid as wanting to buy spellbooks.. there are plenty of DoT groups going.. just join and call it..
 
 </div>
 
@@ -48,7 +51,8 @@ it is amazing how you attained the levels you have.
 
 <div class="post" data-post-id="16721" data-author="brand" data-date="2007-02-08T21:27:27+00:00" data-subject="">
 
-it is amazing how you attained the levels you have.[/quote:ct0b560a]
+> <strong>Autolycos wrote:</strong>
+> it is amazing how you attained the levels you have.
 
 whats levels precious?!
 
@@ -68,7 +72,7 @@ bump
 
 <div class="post" data-post-id="16745" data-author="13" data-date="2007-02-09T00:49:38+00:00" data-subject="">
 
-Hi, I'm a big chump and I'm far too lame to convince a caster to 2-man this mob with me.  Can you please do the hard shit for me so I can give you easily-gained coins?
+Hi, I'm a big chump and I'm far too lame to convince a caster to 2-man this mob with me. Can you please do the hard shit for me so I can give you easily-gained coins?
 
 </div>
 

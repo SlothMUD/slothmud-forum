@@ -56,18 +56,18 @@ well that doesn't seem fair... really..
 
 now what if Shara decide to throw us a party?
 
-it would really suck if there was a huge bowl of berries, and we where only allowed to have 1 or 2 each.. thats just mean... i'm calling my congressman!  :evil:
+it would really suck if there was a huge bowl of berries, and we where only allowed to have 1 or 2 each.. thats just mean... i'm calling my congressman! <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="11720" data-author="blackmore" data-date="2006-03-22T22:07:17+00:00" data-subject="">
 
-Don't eat the brown berries.  The brown berries are bad.
+Don't eat the brown berries. The brown berries are bad.
 
 </div>
 
 <div class="post" data-post-id="11721" data-author="Autolycos" data-date="2006-03-22T22:28:24+00:00" data-subject="">
 
-they smell funny too!  :shock:
+they smell funny too! <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>

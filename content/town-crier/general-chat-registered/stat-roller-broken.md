@@ -16,7 +16,7 @@ didn't notice the weird stats the first time, but...
 
 why is dex being rolled last?
 
-Your levels:  Th: 20 Dr: 11 Ma: 9 Cl: 5
+Your levels: Th: 20 Dr: 11 Ma: 9 Cl: 5
 
 You are 17 years and 12 months old.
 
@@ -44,11 +44,11 @@ Str: 12 / 0, Int: 9, Wis: 14, Dex: 8, Con: 11
 
 You are standing.
 
-You are affected by the following spells:   None.
+You are affected by the following spells: None.
 
 You feel different!
 
-Your levels:  Th: 20 Dr: 11 Ma: 9 Cl: 5
+Your levels: Th: 20 Dr: 11 Ma: 9 Cl: 5
 
 You are 17 years and 12 months old.
 
@@ -92,7 +92,7 @@ Is this new char a new incarnation of a previously used name?
 
 Quick, roll while you can roll str second!!!
 
-:)~
+<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">\~
 
 </div>
 
@@ -106,15 +106,16 @@ But would a thief really want Dex to be his last stat?
 
 I think I would prefer it last with Strength first what real thief cares about AC anyways? 
 
-Live like a real thief stab then die when you whiff, like Autolycos  :wink:
+Live like a real thief stab then die when you whiff, like Autolycos <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23446" data-author="Alberich" data-date="2008-03-26T18:43:49+00:00" data-subject="">
 
-But would a thief really want Dex to be his last stat?[/quote:i5id0xry]
+> <strong>Leaf wrote:</strong>
+> But would a thief really want Dex to be his last stat?
 
-sure.  i have no use for ac, so i could honestly care less what my dex stat is.
+sure. i have no use for ac, so i could honestly care less what my dex stat is.
 
 i'd much prefer it if my th/ma rolled str/int/con/wis/dex - i'd reroll in a heartbeat if that was the case
 
@@ -124,7 +125,7 @@ i'd much prefer it if my th/ma rolled str/int/con/wis/dex - i'd reroll in a hear
 
 Maybe I'm being a real newbie, but I was told yrs ago that dex effect % on
 
-landing the stabs.  This was why Thief's first stat is their Dex.
+landing the stabs. This was why Thief's first stat is their Dex.
 
 </div>
 
@@ -140,7 +141,7 @@ Strange that dex would roll last, sux too.
 
 Dex should effect stab, sneak, hide, etc.
 
-Adam is right, who cares about AC.  Thief mobs are going to hit you regardless.  Load up on dmg, spelldmg, stabdmg.
+Adam is right, who cares about AC. Thief mobs are going to hit you regardless. Load up on dmg, spelldmg, stabdmg.
 
 Will and Al calling each other n00bs?
 
@@ -162,10 +163,10 @@ Come on, dex does affect the stab chance. At least it used to be so a couple yea
 
 <div class="post" data-post-id="23523" data-author="Leaf" data-date="2008-03-31T13:49:28+00:00" data-subject="">
 
-Looks like Krok thought the same as me, regarding the 18 dex.  However
+Looks like Krok thought the same as me, regarding the 18 dex. However
 
 with dex being that low, I would want to know how a thief is going to load
 
-up from 6 or 8 dex points :)
+up from 6 or 8 dex points <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

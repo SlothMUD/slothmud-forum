@@ -46,7 +46,7 @@ reasons you hold your opinions.
 
 Ok, ready, set, go!
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -54,17 +54,17 @@ Ok, ready, set, go!
 
 For me, with myriad alts... each areas different... for example..
 
-Monk- ip- mainly stays on bh.  for greek forest- good coins, decent exp.  minimal casters to maladict or blast you..  also do monks in kroms-easy mobs for my size fairly safe exp. this areas small for me but they do not require webbing,   Catacombs-also good large area.. variety of ranges of mobs from 25 k ish zombies to multimillion soloable master undead.  Webbing required, so not an area i do all the time... mostly clears history for greek forest.
+Monk- ip- mainly stays on bh. for greek forest- good coins, decent exp. minimal casters to maladict or blast you.. also do monks in kroms-easy mobs for my size fairly safe exp. this areas small for me but they do not require webbing, Catacombs-also good large area.. variety of ranges of mobs from 25 k ish zombies to multimillion soloable master undead. Webbing required, so not an area i do all the time... mostly clears history for greek forest.
 
-Lyme-oly pilgrims about all i do... some of the street mobs in town.. can do tigers and even terracotta warriors in ck, but not efficently yet.  
+Lyme-oly pilgrims about all i do... some of the street mobs in town.. can do tigers and even terracotta warriors in ck, but not efficently yet. 
 
 SS-Cnetaurs, kender... murkwood and skeep.. 
 
 ah-- usually hit the beach, eskimoes.. penguins... newbie areas... fun and safe.. castle black for sport and better exp..
 
-Tank-solo mostly chasm.  Sometimes do other areas... but charms my favorite solo for him.  Ogres was, but no longer beaconed... so rarely bother running.  Usually i just group..
+Tank-solo mostly chasm. Sometimes do other areas... but charms my favorite solo for him. Ogres was, but no longer beaconed... so rarely bother running. Usually i just group..
 
-Druid-mana sink..-sheol cemetary on ah.  castle black
+Druid-mana sink..-sheol cemetary on ah. castle black
 
 Lyme-realms, oly, tiger temple, terracottas... about all i do there.
 
@@ -74,9 +74,9 @@ For groups:
 
 class is less important.
 
-the easy to lead areas are best for me. this is matterhorn, castle on bh.  tomb..
+the easy to lead areas are best for me. this is matterhorn, castle on bh. tomb..
 
-for AH mordin, possiplane, and crypt.  Chasm again for small groups
+for AH mordin, possiplane, and crypt. Chasm again for small groups
 
 For SS ud2, fiends.
 
@@ -98,63 +98,63 @@ Warrior solo
 
 Tiger Glen
 
-- nice theme and descs
+\- nice theme and descs
 
-- small mobs to hack at lower levels.
+\- small mobs to hack at lower levels.
 
 Autumnal forest
 
-- nice theme
+\- nice theme
 
-- Thick expy mobs to chop with a warrior, very short runs between them.
+\- Thick expy mobs to chop with a warrior, very short runs between them.
 
 Cons:
 
-- the kender is annoying, since he steals items from the inv
+\- the kender is annoying, since he steals items from the inv
 
-- the aggro cleric is annoying too, since he wanders, is sanced and blasts.
+\- the aggro cleric is annoying too, since he wanders, is sanced and blasts.
 
 Sakura
 
-- a variety of mobs to progress through ac/levels: archers, swordsmen, possessed travellers, slimes
+\- a variety of mobs to progress through ac/levels: archers, swordsmen, possessed travellers, slimes
 
-- a condensed area, means little running
+\- a condensed area, means little running
 
-- corpses add the adrenaline running, though if they catch you, it sucks, because they drain your strength.
+\- corpses add the adrenaline running, though if they catch you, it sucks, because they drain your strength.
 
 Ogres
 
-- a variety of mobs for similar ac/difficulty
+\- a variety of mobs for similar ac/difficulty
 
-- some mobs dont need webbing.
+\- some mobs dont need webbing.
 
 Cons:
 
-- hard to run to, unlikely to get a recall/raise, even if someone knows you are there.
+\- hard to run to, unlikely to get a recall/raise, even if someone knows you are there.
 
-- does get boring killing the same mobs over and over. This makes me prefer Lyme solo.
+\- does get boring killing the same mobs over and over. This makes me prefer Lyme solo.
 
-- guards bash, which wastes mvs on entrench. Very annoying and probably doesnt add much exp to the mob.
+\- guards bash, which wastes mvs on entrench. Very annoying and probably doesnt add much exp to the mob.
 
 Desert
 
-- few people know solo mobs there
+\- few people know solo mobs there
 
-- danger makes the place interesting
+\- danger makes the place interesting
 
-- the area is very detailed, lots of rooms, fascinating descs/scenery, etc.
+\- the area is very detailed, lots of rooms, fascinating descs/scenery, etc.
 
 Cons:
 
-- the aggro sultan makes travelling annoying.
+\- the aggro sultan makes travelling annoying.
 
 CK
 
-- great solo exp, if no one hits it.
+\- great solo exp, if no one hits it.
 
 Cons:
 
-- great exp comes at a price of a possible death, if screwed up.
+\- great exp comes at a price of a possible death, if screwed up.
 
 Have no idea why soldiers were nerfed there, now it's just another exp area, not the first place to go to.
 
@@ -164,113 +164,113 @@ Infirmary - great exp from the lung patients/poxes, with some risk.
 
 Xanth 
 
-- nice area theme
+\- nice area theme
 
-- nicely designed stab/blast mobs
+\- nicely designed stab/blast mobs
 
-- the ghosts are well done: low hitroll, blast proc, great exp
+\- the ghosts are well done: low hitroll, blast proc, great exp
 
 Cons:
 
-- Just dont aggro the patrol or the bush. Ruins the easy run.
+\- Just dont aggro the patrol or the bush. Ruins the easy run.
 
 Crypt of the Yuan-ti
 
-- lots of trigtraps
+\- lots of trigtraps
 
-- nice exp for the effort
+\- nice exp for the effort
 
-- aggro mobs to keep you on your toes.
+\- aggro mobs to keep you on your toes.
 
 Areas favorite for leading
 
 DemonWeb:
 
-- a huge area with nice descriptions
+\- a huge area with nice descriptions
 
-- lots of exp mobs to hit of various difficulty
+\- lots of exp mobs to hit of various difficulty
 
-- includes a regen mob
+\- includes a regen mob
 
-- pops nice EQ
+\- pops nice EQ
 
-- is dangerous enough to make it interesting
+\- is dangerous enough to make it interesting
 
 Cons:
 
-- an insanely long run through aggro mobs. Forget invis/fly and you are toast.
+\- an insanely long run through aggro mobs. Forget invis/fly and you are toast.
 
 Moria:
 
-- a nice theme with a familiar background story
+\- a nice theme with a familiar background story
 
-- a huge area with nice exp mobs to hit - dwarves, custodian and king/queen are great
+\- a huge area with nice exp mobs to hit - dwarves, custodian and king/queen are great
 
-- the Smaug egg trigtrap and the slippery staircase make it interesting
+\- the Smaug egg trigtrap and the slippery staircase make it interesting
 
-- lots of dangerous things to keep in mind, such as wargs/orc guardian/Shelob, keep you on your toes
+\- lots of dangerous things to keep in mind, such as wargs/orc guardian/Shelob, keep you on your toes
 
-- lots of eq, though most of it is cps
+\- lots of eq, though most of it is cps
 
-- also, nice solo exp for 2-5x40. I enjoy soloing here much more, than leading, because I can walk as fast as I want and no one minds the extra tts.
+\- also, nice solo exp for 2-5x40. I enjoy soloing here much more, than leading, because I can walk as fast as I want and no one minds the extra tts.
 
 Cons:
 
-- there arent as many exp mobs there as in other areas, compared to DWeb. It might compared to the amount of mobs to fiends, but the runs in fiends are much shorter.
+\- there arent as many exp mobs there as in other areas, compared to DWeb. It might compared to the amount of mobs to fiends, but the runs in fiends are much shorter.
 
-- the runs between mobs are longer, than desired, - you need to run through the ladder twice to attack Smaug - and often through underwater/fire/extra damage. I don't mind, but it reduces exp/hr, so people don't like this, I think.
+\- the runs between mobs are longer, than desired, - you need to run through the ladder twice to attack Smaug - and often through underwater/fire/extra damage. I don't mind, but it reduces exp/hr, so people don't like this, I think.
 
-- it takes time to switch between Smaug - ether mobs - and solids again
+\- it takes time to switch between Smaug - ether mobs - and solids again
 
-- have to kill balrog and then walk back to custodian to kill it, since you can't open the gate without custodian, even with a pass. It's possible to ambush the skeletal dragon for solo, but for a group it's unrealistic without a gatable spot beyond the custodian. I should set a beacon at the baths and convo for the custodian, I guess.
+\- have to kill balrog and then walk back to custodian to kill it, since you can't open the gate without custodian, even with a pass. It's possible to ambush the skeletal dragon for solo, but for a group it's unrealistic without a gatable spot beyond the custodian. I should set a beacon at the baths and convo for the custodian, I guess.
 
-- lots of danger and specifics demand from people to pay attention, which they rarely do. Diff mobs hit different amounts of damage, the Smaug proc makes them run around the place - through the shaky ladder, etc. People just don't like this, because it throws them out of balance, they need to actually do something other, than rely on autoblasting/autohealing/autorescuing.
+\- lots of danger and specifics demand from people to pay attention, which they rarely do. Diff mobs hit different amounts of damage, the Smaug proc makes them run around the place - through the shaky ladder, etc. People just don't like this, because it throws them out of balance, they need to actually do something other, than rely on autoblasting/autohealing/autorescuing.
 
-- some of the eq there is outdated: +hp +hpr eq for it would've rocked in mid S3, when I sent these suggestions, but now it's almost useless, except the sardonyx ring - it's the best in slot ring for valkers. The -1.1 +3hpr ruddy scale shield forge is questionable as well: too much effort for +20 fire resist, since it's not the bis shield.
+\- some of the eq there is outdated: +hp +hpr eq for it would've rocked in mid S3, when I sent these suggestions, but now it's almost useless, except the sardonyx ring - it's the best in slot ring for valkers. The -1.1 +3hpr ruddy scale shield forge is questionable as well: too much effort for +20 fire resist, since it's not the bis shield.
 
-- the crystal helm is hard to forge w/o killing Tiamat, which no one does these days. Get more players, fix Tiamat?
+\- the crystal helm is hard to forge w/o killing Tiamat, which no one does these days. Get more players, fix Tiamat?
 
 All in all, people would tolerate it, if they know they'd be getting awesome exp or eq there, but overall the runs there are meh, because I'm moving slowly there through trigtraps, using a mine pass, cast mass wb, etc. Which is why I'm doing Moria after Dweb/Ettins/Fiends/UD2 and usually skip Smaug due to his proc and the ladder tt.
 
 Ogres
 
-- the large mobs there are awesome exp
+\- the large mobs there are awesome exp
 
 Cons:
 
-- there are too few of them :)
+\- there are too few of them <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-- the run is long, unless you are a hoser.
+\- the run is long, unless you are a hoser.
 
 UD2
 
-- a very condensed area with lots of great exp mobs. Great for nocap runs.
+\- a very condensed area with lots of great exp mobs. Great for nocap runs.
 
-- it's a nice variety from a typical jungle/cave
+\- it's a nice variety from a typical jungle/cave
 
-- even the run through a beholder is not as annoying, **because it is a short one**.
+\- even the run through a beholder is not as annoying, <strong>because it is a short one</strong>.
 
 Fiends
 
-- lots of nice exp mobs
+\- lots of nice exp mobs
 
 Cons
 
-- mobs they are thick and hit well, so it's the 3rd exp area I hit on SS
+\- mobs they are thick and hit well, so it's the 3rd exp area I hit on SS
 
-- the run is really long. I think it pales in comparison with the DWeb run.
+\- the run is really long. I think it pales in comparison with the DWeb run.
 
 Upper Dweb
 
-- lots of great exp mobs in a very condensed area
+\- lots of great exp mobs in a very condensed area
 
-- mobs here are a bit thicker, than in UD2, I think, but exp is nice, too.
+\- mobs here are a bit thicker, than in UD2, I think, but exp is nice, too.
 
 No cons, unless you count that you need a larger group to kill here.
 
 The Mount of Mordi
 
-- again, lots of exp - so good it's worth doing in nocap days. Comparable to UD2 in this regard.
+\- again, lots of exp - so good it's worth doing in nocap days. Comparable to UD2 in this regard.
 
 Cons
 
@@ -278,23 +278,23 @@ Very easy to roast newbies, though killing the leopards is as easy. Some newbies
 
 Ice Glen
 
-- a nice theme
+\- a nice theme
 
-- good xp mobs
+\- good xp mobs
 
-- nice eq
+\- nice eq
 
 Cons:
 
-- too few mobs for the amount of rooms
+\- too few mobs for the amount of rooms
 
-- eiroks/neiroks are annoying and probably don't add exp to the other mobs.
+\- eiroks/neiroks are annoying and probably don't add exp to the other mobs.
 
 Dragon Mountain
 
-- a huge amount of mobs
+\- a huge amount of mobs
 
-- a variety of mobs to hit for different group sizes, starting from 2-3man to huge.
+\- a variety of mobs to hit for different group sizes, starting from 2-3man to huge.
 
 Cons
 
@@ -302,35 +302,35 @@ Very easy to roast newbies at the queens.
 
 Saurian Frontier
 
-- lots of mobs with insane amount of exp that you can chop.
+\- lots of mobs with insane amount of exp that you can chop.
 
-- mobs vulnerable to an element is a nice touch: I'd love to see more of these.
+\- mobs vulnerable to an element is a nice touch: I'd love to see more of these.
 
-- safe runs between the mobs
+\- safe runs between the mobs
 
 Cons
 
-- the area requires lots of people, especially, the diplodocus.
+\- the area requires lots of people, especially, the diplodocus.
 
 Volcano
 
-- a huge area with different mobs
+\- a huge area with different mobs
 
-- the paths between exp mobs are short, but indirect
+\- the paths between exp mobs are short, but indirect
 
 Cons
 
-- mobs there now are way too thick with high damage *and* hitroll - regal/armor/weaponsmaster - they drain groups fast, compared to Castle/Tomb/Dmount. I'd even prefer male black dragons to the volcano mobs. Panther/wizard are ok, more or less. Chert beast is nice, but small.
+\- mobs there now are way too thick with high damage \*and\* hitroll - regal/armor/weaponsmaster - they drain groups fast, compared to Castle/Tomb/Dmount. I'd even prefer male black dragons to the volcano mobs. Panther/wizard are ok, more or less. Chert beast is nice, but small.
 
 BH Castle
 
-- alchies are great exp
+\- alchies are great exp
 
-- great for 1x40 solo
+\- great for 1x40 solo
 
 Cons
 
-- it's been run to death.
+\- it's been run to death.
 
 Honorable mention: Ravenloft
 
@@ -342,61 +342,61 @@ I like the chinchilla guardian and Salazar for exp. If you want to make good 40-
 
 Also, I like soloing huge mobs with other mobs. This practice seems to annoy imms, but it's nice to use your skills and pets to make mobs with earthquake or flame/frost area to fight others. Given that it's very dangerous, I think it compensates the exp/eq gain. You can only do it once per repop, too.
 
-I think it pays to add more mobs, where people have to use their wits to kill them, rather than rely on brute hack & slash, which is boring.
+I think it pays to add more mobs, where people have to use their wits to kill them, rather than rely on brute hack \& slash, which is boring.
 
 So, as you can see, I like areas that have:
 
-- lots of mobs
+\- lots of mobs
 
-- mobs are great exp:
+\- mobs are great exp:
 
-  + moderate thickness, average hitroll so with debuffs, don't hit tanks as often, high damage is ok as long as the hitroll can be mitigated with ac/debuffs - Salazar - you can also bash/stomp him. UD2 mobs except Kalamari.
+ \+ moderate thickness, average hitroll so with debuffs, don't hit tanks as often, high damage is ok as long as the hitroll can be mitigated with ac/debuffs - Salazar - you can also bash/stomp him. UD2 mobs except Kalamari.
 
-  + thick mobs with low damage/low hitroll, so you chop these - Ankylosaurus, red sash in Dweb, chinchilla guardian
+ \+ thick mobs with low damage/low hitroll, so you chop these - Ankylosaurus, red sash in Dweb, chinchilla guardian
 
-  + being bashable makes the mob so much better even with high hitroll/damage - Salazar.
+ \+ being bashable makes the mob so much better even with high hitroll/damage - Salazar.
 
-  + no annoying procs, such as toss/oven, mass web or paralysis.
+ \+ no annoying procs, such as toss/oven, mass web or paralysis.
 
-- short runs between mobs
+\- short runs between mobs
 
-- safe runs between mobs
+\- safe runs between mobs
 
-- less tts and complications for grouping, more for soloing
+\- less tts and complications for grouping, more for soloing
 
-- nice themes that are different from a typical jungle/cave and not necessarily include a blood-thirsty cult.
+\- nice themes that are different from a typical jungle/cave and not necessarily include a blood-thirsty cult.
 
 Good procs for mobs:
 
-- lightning proc
+\- lightning proc
 
-- cleric/mage type
+\- cleric/mage type
 
-- kick 70% bash 30%
+\- kick 70% bash 30%
 
-- immune/resist to one element: fire or ice
+\- immune/resist to one element: fire or ice
 
-- disengage
+\- disengage
 
-- vulnerable to an element or dispel evil
+\- vulnerable to an element or dispel evil
 
-- enrage at awful
+\- enrage at awful
 
-- demon bind proc.
+\- demon bind proc.
 
 Bad procs:
 
-- high % of bash to non-tanks - just messes with the group and rescues :)
+\- high % of bash to non-tanks - just messes with the group and rescues <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-- webs, especially through resist webs - Lolth - slow down the group
+\- webs, especially through resist webs - Lolth - slow down the group
 
-- resists to fire & ice at the same time
+\- resists to fire \& ice at the same time
 
-- disappear - Wurragurr/Hrio - slows down the group
+\- disappear - Wurragurr/Hrio - slows down the group
 
-- toss/oven people other than tank - makes ppl lose exp
+\- toss/oven people other than tank - makes ppl lose exp
 
-- paralysis.
+\- paralysis.
 
 Also, I like the mobs that hit well w/o debuffs, but start missing after debuffs. Red and green dragons in dmount are a good example. BH castle and Tomb king/wolf lord, too.
 
@@ -422,19 +422,19 @@ It'd be lame to post what's left of rarely hit mobs on lyme, so they quickly bec
 
 As for CF, in S3 it used to be the favorite area of mine:
 
-- it's a small area, close to town
+\- it's a small area, close to town
 
-- has a nice theme
+\- has a nice theme
 
-- it poses a challenge of killing stuff w/o blasts or healing
+\- it poses a challenge of killing stuff w/o blasts or healing
 
-- provokes lots of adrenaline from running through rats, remoras and being locked with the king underwater
+\- provokes lots of adrenaline from running through rats, remoras and being locked with the king underwater
 
-- has a trap in the form of a door that locks after you go through it
+\- has a trap in the form of a door that locks after you go through it
 
-- used to offer good gold
+\- used to offer good gold
 
-- since I played a 4xnon-caster, this was the only area, where I was on par with the mobs and maybe even better, than some other players.
+\- since I played a 4xnon-caster, this was the only area, where I was on par with the mobs and maybe even better, than some other players.
 
 Since the area now has little gold, no worthy exp and little eq - let's face it, -0.7 +20hp guards are almost useless - it offers no more, than the challenge of killing dragons in nocast and a chance to pop the cp for a valk forge that everyone needs. This forge isn't enough for ppl to hit the entire area, obviously.
 
@@ -462,13 +462,13 @@ Hi Folks
 
 Things I like in an area.
 
-Larger is generally better.  It not only makes it worth doing, an area larger than a single run gives a yardstick.  As in I used to be able to 3 mobs per run and now I can do 15.
+Larger is generally better. It not only makes it worth doing, an area larger than a single run gives a yardstick. As in I used to be able to 3 mobs per run and now I can do 15.
 
-If the way you hit the area changes as you grow, it provides a feeling of accomplishment.  An example would be the chessboard on VK.  Starting out, you hit pawns and flee the knights that would crush you.  Then kill single mobs of larger stature and flee when they summon help.  Then clear the area, starting with small mobs and moving up so none will summon help.  Then attack the big mobs and wipe out all that they summon.  A nice growth path for using the area as your character grows. (Better area can beat more areas)
+If the way you hit the area changes as you grow, it provides a feeling of accomplishment. An example would be the chessboard on VK. Starting out, you hit pawns and flee the knights that would crush you. Then kill single mobs of larger stature and flee when they summon help. Then clear the area, starting with small mobs and moving up so none will summon help. Then attack the big mobs and wipe out all that they summon. A nice growth path for using the area as your character grows. (Better area can beat more areas)
 
-Areas that are easy to travel to are preferable.  If you canâ€™t readily get back in the area to get your corpse, I am not going to solo it.
+Areas that are easy to travel to are preferable. If you canâ€™t readily get back in the area to get your corpse, I am not going to solo it.
 
-Not a deal breaker, but I prefer not to have alignment issues. If I lose my clerical pet for running the area it slows me down.  
+Not a deal breaker, but I prefer not to have alignment issues. If I lose my clerical pet for running the area it slows me down. 
 
 There should be some danger or unpredictability that requires player input.
 
@@ -476,23 +476,23 @@ How I chose an area to run.
 
 Unless I am working on quests or a specific piece of equipment, I will go to the continent which has extras running and run the best 3 to 5 areas, that I know of, for gold or experience or sellable equipment (aka gold).
 
-The areas must be standout in either experience or gold or equipment for my level.  There may be a lot of areas that are well runnable for a mid-level player such as myself.  But, I am only going to hit the three to five of them that gives me the best result.  
+The areas must be standout in either experience or gold or equipment for my level. There may be a lot of areas that are well runnable for a mid-level player such as myself. But, I am only going to hit the three to five of them that gives me the best result. 
 
-I am not going to hit an area with only 2 good mobs.  If there are 10 areas, all having half a dozen decent mobs, I will probably pass on them all and look for an area where the experience or gold is more of a standout.  
+I am not going to hit an area with only 2 good mobs. If there are 10 areas, all having half a dozen decent mobs, I will probably pass on them all and look for an area where the experience or gold is more of a standout. 
 
 My observation
 
-I want to hit 3 or 4 large areas with the best gold/exp I can get.  The problem is those areas donâ€™t change every few levels.  They may change with forty levels but sometimes not even then.  If there were a clear ladder of difficulty for areas that I could work through as my character progresses, I would hit that wider variety of areas.  And if the gold/exp improved on that ladder, I would regularly change areas to move up.
+I want to hit 3 or 4 large areas with the best gold/exp I can get. The problem is those areas donâ€™t change every few levels. They may change with forty levels but sometimes not even then. If there were a clear ladder of difficulty for areas that I could work through as my character progresses, I would hit that wider variety of areas. And if the gold/exp improved on that ladder, I would regularly change areas to move up.
 
 </div>
 
 <div class="post" data-post-id="35814" data-author="celerra7" data-date="2015-04-15T15:18:56+00:00" data-subject="Re: An Appeal for Healthy Expression and Discussion">
 
-I'm throwing my hat in with Yasik also.  Nerfing has greatly reduced my interest in playing areas that I used to like, especially on BH for prime solos, and VK for alt solos.  BH Catacombs used to be a blast to see how hard and fast it could be run, plus getting some good xp and gp out of it.  Now, its not worth the effort.  
+I'm throwing my hat in with Yasik also. Nerfing has greatly reduced my interest in playing areas that I used to like, especially on BH for prime solos, and VK for alt solos. BH Catacombs used to be a blast to see how hard and fast it could be run, plus getting some good xp and gp out of it. Now, its not worth the effort. 
 
-VK has been nerf'd so much, (my opinion only) that the "push" to get everyone off VK as soon as possible has been achieved.  No one wants to stick around there anymore - the slog to get value out of adventuring is not worth it.
+VK has been nerf'd so much, (my opinion only) that the "push" to get everyone off VK as soon as possible has been achieved. No one wants to stick around there anymore - the slog to get value out of adventuring is not worth it.
 
-I don't have a huge prime to play Lyme, but I don't play just VK with alts.  It's the nerfing of the middle-of-the-road, common areas that has basically removed my desire to play, and so I'm hardly interested anymore.
+I don't have a huge prime to play Lyme, but I don't play just VK with alts. It's the nerfing of the middle-of-the-road, common areas that has basically removed my desire to play, and so I'm hardly interested anymore.
 
 </div>
 
@@ -510,7 +510,7 @@ Splork
 
 <div class="post" data-post-id="35817" data-author="Marvel" data-date="2015-04-15T23:34:41+00:00" data-subject="Re: An Appeal for Healthy Expression and Discussion">
 
-Disclaimer: I do have an immortal, although I think everybody knows this. I tend to play a lot more as a mortal in short bursts. The opinions provided within are mine only. I prefer bard primes and characters that rely on trickery rather than straightforward hack & slash. At times I do like playing as a mage prime just for frostbolt and ether runs.
+Disclaimer: I do have an immortal, although I think everybody knows this. I tend to play a lot more as a mortal in short bursts. The opinions provided within are mine only. I prefer bard primes and characters that rely on trickery rather than straightforward hack \& slash. At times I do like playing as a mage prime just for frostbolt and ether runs.
 
 I also intentionally do not visit Lyme.
 
@@ -584,15 +584,15 @@ Ghost Mansion: Still not much of a reason to run this area. Recently rebalanced,
 
 I love areas like Greek Forest, Shadow Keep, Demon Web, Chasm... areas that have a good variety of exp mobs in about the same level limits.
 
-I really like Chasm because you can start a group there with any sized group.  I like how I can go from killing a few small mobs with two or three people, to killing the larger mobs with 6-7 (group total levels depending, of course).  It has a mild difficulty level just under medium and people still die there, so It's a ten to me.
+I really like Chasm because you can start a group there with any sized group. I like how I can go from killing a few small mobs with two or three people, to killing the larger mobs with 6-7 (group total levels depending, of course). It has a mild difficulty level just under medium and people still die there, so It's a ten to me.
 
-Demon Web where Baphomet and other demons are... I just love this layout.  The mobs are a bunch of level sizes, which makes running groups fun.  Start at the hard mobs, end at the easy.  If the group gets too big, you can move into Lolth's Web, which makes it a double feature area.  I'm not a fan of areas that have a bunch of junk eq, but dweb has eq that even low and mid level characters can wear.  Not optimal, but could be worn.
+Demon Web where Baphomet and other demons are... I just love this layout. The mobs are a bunch of level sizes, which makes running groups fun. Start at the hard mobs, end at the easy. If the group gets too big, you can move into Lolth's Web, which makes it a double feature area. I'm not a fan of areas that have a bunch of junk eq, but dweb has eq that even low and mid level characters can wear. Not optimal, but could be worn.
 
-I also think Mystica is about the most brilliantly designed area except too many carnivorous apes.  And those cps should pop more often for the amount of cps and difficulty of them all.
+I also think Mystica is about the most brilliantly designed area except too many carnivorous apes. And those cps should pop more often for the amount of cps and difficulty of them all.
 
 Other fav areas: MH, Hades, dmount, fiends, ettins, burbalangs, underdark 2, pos energy plane, greek forest, and draconian lair.
 
--Toxis
+\-Toxis
 
 </div>
 
@@ -638,7 +638,7 @@ It really is that simple.
 
 Enjoy, and thanks again.
 
--Neptune
+\-Neptune
 
 </div>
 

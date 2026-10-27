@@ -12,7 +12,7 @@ post_count: 5
 
 <div class="post" data-post-id="10288" data-author="Mustang" data-date="2006-01-22T18:08:01+00:00" data-subject="what the....">
 
-<1134hp 335ma 212mv>
+\<1134hp 335ma 212mv\>
 
 Elzeard misses you with his hit.
 
@@ -58,7 +58,7 @@ Splork
 
 <div class="post" data-post-id="10299" data-author="Avatar" data-date="2006-01-23T13:49:59+00:00" data-subject="Mob exps">
 
-Just out of curiosity, is this a fix that has to be applied to each mob?  I'm sure we've all seen other mobs with the same symptoms.
+Just out of curiosity, is this a fix that has to be applied to each mob? I'm sure we've all seen other mobs with the same symptoms.
 
 </div>
 
@@ -72,6 +72,6 @@ elzeard repopping "bleeding awfully...."
 
 <div class="post" data-post-id="10303" data-author="12345" data-date="2006-01-23T17:38:47+00:00" data-subject="">
 
-Yeah, this happens kinda often.  Among others I've seen Tammy load bleeding like mad and worth maybe 5k xp.  Not sure what causes it, but it would seem code related.
+Yeah, this happens kinda often. Among others I've seen Tammy load bleeding like mad and worth maybe 5k xp. Not sure what causes it, but it would seem code related.
 
 </div>

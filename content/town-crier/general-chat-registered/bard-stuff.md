@@ -20,7 +20,8 @@ Also, is there any to tell who I am affecting with my song when I sing for my pe
 
 <div class="post" data-post-id="30336" data-author="Thraxas" data-date="2009-11-18T13:18:55+00:00" data-subject="Re: Bard stuff.">
 
-Also, is there any to tell who I am affecting with my song when I sing for my pets or for a group?[/quote:1l1qxcnv]
+> <strong>Playboy wrote:</strong>
+> Also, is there any to tell who I am affecting with my song when I sing for my pets or for a group?
 
 Very nice idea.
 

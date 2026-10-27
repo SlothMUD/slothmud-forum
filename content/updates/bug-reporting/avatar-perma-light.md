@@ -22,7 +22,7 @@ Can someone investigate it please, ask Cyprimus for moar info.
 
 <div class="post" data-post-id="34449" data-author="cyprimus" data-date="2013-09-25T00:35:30+00:00" data-subject="Re: Avatar Perma Light">
 
-Yep.  all i get is a 'nothing seems to happen' message when i cast it on me.
+Yep. all i get is a 'nothing seems to happen' message when i cast it on me.
 
 </div>
 
@@ -44,7 +44,7 @@ Sorry, you have to buy perma dark cloak now!
 
 <div class="post" data-post-id="34456" data-author="Burl" data-date="2013-09-27T20:43:17+00:00" data-subject="Re: Avatar Perma Light">
 
-I haven't bought perma lite because dark cloak isn't on the list to buy and I don't want lite without cloak.  Will it show up if I buy the lite?
+I haven't bought perma lite because dark cloak isn't on the list to buy and I don't want lite without cloak. Will it show up if I buy the lite?
 
 </div>
 
@@ -80,7 +80,7 @@ I want to bring back that topic into discussion.
 
 Is there any reason behind absence of dark cloak spell effect on perma light? 
 
-Was that hard to fix bug or definite descion that permanetnt light never should be cloaked for some reason? Could you reveal these reasons maybe? :)
+Was that hard to fix bug or definite descion that permanetnt light never should be cloaked for some reason? Could you reveal these reasons maybe? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Now we have way more 9x40 avatars who could use that permanent sanctuary spell. Maybe its time to do final choice of how that should be, if problem was just delayed.
 
@@ -96,7 +96,7 @@ I'd also like 'darkness' and 'undead visage' added to the list of perma spells.
 
 <div class="post" data-post-id="36320" data-author="Filk" data-date="2015-12-16T14:02:09+00:00" data-subject="Re: Avatar Perma Light">
 
-mm. Up? Any official opinion about that question?  :roll:
+mm. Up? Any official opinion about that question? <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -122,7 +122,7 @@ Well. At least its good to know, that i can spend my exp on something else.
 
 But sad, that good spell in avatar shop is useless due to that limit. Since darkness isnt a thing you can freely drop out from that game. 
 
-Actually, real problem is that you just cant stop that permalight after you buy it, if you want to use usual aegis with dark cloak. So maybe good way around balance will be ability to turn it on/off with some special spell with big mana cost? Like 300-500mana(lets not forget about quad nocasters :D). So it will be hard to abuse it. But we will be able to choose what we want now - permanent light that cant be cloaked, or no light at current moment.
+Actually, real problem is that you just cant stop that permalight after you buy it, if you want to use usual aegis with dark cloak. So maybe good way around balance will be ability to turn it on/off with some special spell with big mana cost? Like 300-500mana(lets not forget about quad nocasters <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">). So it will be hard to abuse it. But we will be able to choose what we want now - permanent light that cant be cloaked, or no light at current moment.
 
 </div>
 
@@ -136,11 +136,11 @@ I think the obvious choice is to remove the light. Or are spells applied to the 
 
 I'd solve this way:
 
-1. Add check if Sanc is permanent.
+1\. Add check if Sanc is permanent.
 
-2. If it is permanent, then Dark Cloak's duration is set to best non-permanent Aegis (8 ticks or something).
+2\. If it is permanent, then Dark Cloak's duration is set to best non-permanent Aegis (8 ticks or something).
 
-3. Else, Dark Cloak's duration is set to Sanc/Aegis' duration that was cast on player (by himself or somebody else).
+3\. Else, Dark Cloak's duration is set to Sanc/Aegis' duration that was cast on player (by himself or somebody else).
 
 This way guys with perma light could cast Dark Cloak of 8 ticks on themselves.
 

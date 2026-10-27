@@ -24,7 +24,7 @@ Can someone put this link back on the left menu again please?
 
 <div class="post" data-post-id="17365" data-author="13" data-date="2007-03-19T19:31:50+00:00" data-subject="">
 
-[img:12lcxupu]http://img364.imageshack.us/my.php?image=avatar46qe.gif[/img:12lcxupu]
+![](http://img364.imageshack.us/my.php?image=avatar46qe.gif)
 
 thanks
 
@@ -34,7 +34,7 @@ thanks
 
 hrm
 
-[img:gbilqhxg]http://img364.imageshack.us/img364/7626/avatar46qe.gif[/img:gbilqhxg]
+![](http://img364.imageshack.us/img364/7626/avatar46qe.gif)
 
 </div>
 
@@ -42,7 +42,7 @@ hrm
 
 if only... 
 
-darksight, stalk, or undead visage don't show up on the Mayor's list :(
+darksight, stalk, or undead visage don't show up on the Mayor's list <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -66,7 +66,7 @@ bump
 
 <div class="post" data-post-id="19180" data-author="13" data-date="2007-07-07T12:33:02+00:00" data-subject="">
 
-+1
+\+1
 
 </div>
 

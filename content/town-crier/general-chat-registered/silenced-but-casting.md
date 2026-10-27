@@ -16,19 +16,19 @@ Not the first time I'm seeing this:
 
 Room 52150: The Door to Bane
 
-   Dark shapes scowl from the walls.  Darker shadows play.  No sounds
+ Dark shapes scowl from the walls. Darker shadows play. No sounds
 
 fill the silence, except for the monotonous dripping of water coming from
 
-a place unknown.  The low, charred ceiling gives the impression of a slow
+a place unknown. The low, charred ceiling gives the impression of a slow
 
-descent, though it stays perfectly motionless.  A single speck of light,
+descent, though it stays perfectly motionless. A single speck of light,
 
 as if a spark from a fire, wavers aloft just before a thick oaken door.
 
-It casts shadows on the door's surface that spell the word:  B  A  N  E.
+It casts shadows on the door's surface that spell the word: B A N E.
 
-Exits: [North]  South  West  
+Exits: [North] South West 
 
 The corpse of the Dead Man is lying here.
 
@@ -38,7 +38,7 @@ Stakur Jaki is covered in sticky webs!
 
 Stakur Jaki is protected by an aerial servant.
 
-<998/1098hp 1279/885ma 443/444mv -%>
+\<998/1098hp 1279/885ma 443/444mv -%\>
 
 cast 'silence' stakur
 
@@ -46,7 +46,7 @@ Ok.
 
 Stakur Jaki's mouth clams shut!
 
-<998/1098hp 1264/885ma 443/444mv -%>
+\<998/1098hp 1264/885ma 443/444mv -%\>
 
 Stakur Jaki utters the words, 'gszrr gpuzre'
 
@@ -58,7 +58,7 @@ Is it a bug?
 
 <div class="post" data-post-id="39732" data-author="Driven" data-date="2021-06-12T18:31:27+00:00" data-subject="Re: Silenced but casting?">
 
-A lot of mobs made by Rita use MUDL to cast spells (instead of using the built-in mage/cleric procs), so the bug is probably that his MUDL doesn't check for silence.  I would also bet that hermetic resonance also doesn't work against the spells that those mobs cast.  It's a case of the builder trying to be too tricky and just end up creating weird corner cases that shouldn't exist.  I can look at the code to determine whether there is a missing check that will fix all of these in one fell swoop.
+A lot of mobs made by Rita use MUDL to cast spells (instead of using the built-in mage/cleric procs), so the bug is probably that his MUDL doesn't check for silence. I would also bet that hermetic resonance also doesn't work against the spells that those mobs cast. It's a case of the builder trying to be too tricky and just end up creating weird corner cases that shouldn't exist. I can look at the code to determine whether there is a missing check that will fix all of these in one fell swoop.
 
 </div>
 
@@ -74,25 +74,25 @@ You feel informed:
 
 Object 'potion heliotrope', Item type: POTION
 
-Item is: **INVENTORY** 
+Item is: \*\*INVENTORY\*\* 
 
 Weight: 0, Value: 0gold, Worn in: TAKE 
 
-Apply a bonus of 1 to the drinker's IMMUNE_MAGIC for 15 hours.
+Apply a bonus of 1 to the drinker's IMMUNE\_MAGIC for 15 hours.
 
-<1083/1093hp 814/869ma 380/443mv -%>
+\<1083/1093hp 814/869ma 380/443mv -%\>
 
 quaff heliotrope
 
 You quaff a heliotrope potion which dissolves.
 
-<1088/1093hp 819/869ma 384/443mv -%>
+\<1088/1093hp 819/869ma 384/443mv -%\>
 
 sco
 
 [ ... ]
 
-   Greater Mobility                    Alchemical effect, +1 to IMMUNE_MAGIC
+ Greater Mobility Alchemical effect, +1 to IMMUNE\_MAGIC
 
 e
 
@@ -100,17 +100,17 @@ cast 'acid shower'
 
 Room 74005: Spiral Steps in the Mud
 
-   Steps cut from large slabs of shiny obsidian have been embedded into the
+ Steps cut from large slabs of shiny obsidian have been embedded into the
 
-dark red, muddy hillside.  The lake shore meets the water to the south, and
+dark red, muddy hillside. The lake shore meets the water to the south, and
 
-wading is possible.  Above and to the north are patches of bright flowers
+wading is possible. Above and to the north are patches of bright flowers
 
 that line the edge of the southwest greenhouse walls, but it is too steep
 
 to climb directly to them.
 
-Exits: South  West  
+Exits: South West 
 
 (Brilliant Red Aura) A short, but menacing drow wizard in dark robes surveys the area.
 
@@ -124,7 +124,7 @@ A drow warlock is surrounded by a radiant green sphere!
 
 A drow warlock is encased in a silvery sphere!
 
-<1093/1093hp 827/869ma 395/443mv -%>
+\<1093/1093hp 827/869ma 395/443mv -%\>
 
 Ok.
 
@@ -146,27 +146,27 @@ You miss a drow warlock with your acid blast.
 
 You are bathed in a painful stream of burning green acid!
 
-<651/1093hp 768/869ma 393/443mv 90%>
+\<651/1093hp 768/869ma 393/443mv 90%\>
 
 retr w
 
 Room 74006: Spiral Steps in the Mud
 
-   The obsidian steps spiral up to the northern entrance of the palace.  To
+ The obsidian steps spiral up to the northern entrance of the palace. To
 
 the west, several hundred yards away across the water, is the the market
 
-square of the village.  Occasionally there are brief flashes of light from
+square of the village. Occasionally there are brief flashes of light from
 
 a portal north of the square, but the portal itself is obscured by several
 
 small buildings.
 
-Exits: North  East  
+Exits: North East 
 
 You make a hasty retreat.
 
-<658/1093hp 774/869ma 396/443mv -%>
+\<658/1093hp 774/869ma 396/443mv -%\>
 
 cast 'restor' self
 

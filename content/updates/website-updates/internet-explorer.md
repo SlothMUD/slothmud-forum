@@ -20,9 +20,9 @@ added in headers to make sure it deletes login cookies for the website...
 
 <div class="post" data-post-id="35514" data-author="Akaya" data-date="2014-11-20T02:39:26+00:00" data-subject="Re: Internet Explorer">
 
-> ***Breeze* wrote:**
+> <strong>\*Breeze\* wrote:</strong>
 > Internet Explorer is such a crap browser.
 
-+1
+\+1
 
 </div>

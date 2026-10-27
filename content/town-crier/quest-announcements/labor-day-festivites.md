@@ -22,7 +22,7 @@ See the timer link:
 
 Thank you for your attention.
 
---Idjit
+\--Idjit
 
 </div>
 

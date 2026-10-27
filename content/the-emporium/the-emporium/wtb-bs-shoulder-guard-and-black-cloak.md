@@ -14,6 +14,6 @@ post_count: 1
 
 WTB BS Shoulder Guard and Black Cloak
 
-Give me a Price if you want to sell them :D
+Give me a Price if you want to sell them <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>

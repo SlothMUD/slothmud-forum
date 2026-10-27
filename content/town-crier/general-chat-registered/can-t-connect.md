@@ -12,7 +12,7 @@ post_count: 18
 
 <div class="post" data-post-id="12951" data-author="Nightwolf" data-date="2006-06-10T08:26:45+00:00" data-subject="Can&#x27;t connect...">
 
-Well, for some reason, after falling asleep last night while being logged on, I can't connect to sloth anymore. Or, more accurately, Wintin says #connected, but i don't get the login screen.... so no Sloth for me, *sniff*.
+Well, for some reason, after falling asleep last night while being logged on, I can't connect to sloth anymore. Or, more accurately, Wintin says #connected, but i don't get the login screen.... so no Sloth for me, \*sniff\*.
 
 If anyone could shed light on this, i would be very grateful,
 
@@ -30,7 +30,7 @@ tho pings 0% loss, trace is ok also
 
 <div class="post" data-post-id="12953" data-author="Trupik" data-date="2006-06-10T08:40:36+00:00" data-subject="">
 
-Same here... We are not alone :P
+Same here... We are not alone <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -42,13 +42,13 @@ la la la
 
 <div class="post" data-post-id="12956" data-author="Cicada" data-date="2006-06-10T09:25:00+00:00" data-subject="">
 
-We are not amused  :(
+We are not amused <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="12957" data-author="slobe" data-date="2006-06-10T10:10:57+00:00" data-subject="">
 
-I want mud back :(
+I want mud back <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -78,7 +78,7 @@ what can it be?
 
 <div class="post" data-post-id="12962" data-author="*juggleblood*" data-date="2006-06-10T17:42:30+00:00" data-subject="">
 
-:shock: :cry:   :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :cry:  :!:
+<img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -86,7 +86,7 @@ what can it be?
 
 Thanks Splork.
 
-Mud actually froze last night.  It did the same last weekend when I emailed you with the time.  Im sure I could still be standing exactly where I am and I think (which everything I say you are aware of) that the reboot code after no action after a time period is not working or active in the code.  Have no clue about this though it is a question/suggestion.
+Mud actually froze last night. It did the same last weekend when I emailed you with the time. Im sure I could still be standing exactly where I am and I think (which everything I say you are aware of) that the reboot code after no action after a time period is not working or active in the code. Have no clue about this though it is a question/suggestion.
 
 Drum
 
@@ -94,21 +94,21 @@ Drum
 
 <div class="post" data-post-id="12964" data-author="kjartan" data-date="2006-06-10T18:05:36+00:00" data-subject="">
 
-Splork got in touch with Jake, there's something wrong with the server and he has a support call in, so now we're waiting on the hosting service provider.  So, the fixing process is moving along.
+Splork got in touch with Jake, there's something wrong with the server and he has a support call in, so now we're waiting on the hosting service provider. So, the fixing process is moving along.
 
-Sloth doesn't currently have a "reboot after 20 minutes with no actions" function.  It may be that it would help here, or maybe not.  Not a bad idea.
+Sloth doesn't currently have a "reboot after 20 minutes with no actions" function. It may be that it would help here, or maybe not. Not a bad idea.
 
 </div>
 
 <div class="post" data-post-id="12965" data-author="brady" data-date="2006-06-10T18:21:55+00:00" data-subject="">
 
-Here's a thought.  Take your pasty ass outside!  Then come back and vote...  :shock:
+Here's a thought. Take your pasty ass outside! Then come back and vote... <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="12966" data-author="Corinn" data-date="2006-06-10T19:09:05+00:00" data-subject="">
 
-Raining like hell, errands done, not working but most of my posse is, nothing on the idiot box worth watching, sloth down...what to do with myself?  Hey what's that thing called over there with all of the paper and words and no pictures?  Maybe I'll go investigate...I hope its not aggro.
+Raining like hell, errands done, not working but most of my posse is, nothing on the idiot box worth watching, sloth down...what to do with myself? Hey what's that thing called over there with all of the paper and words and no pictures? Maybe I'll go investigate...I hope its not aggro.
 
 </div>
 
@@ -130,7 +130,7 @@ Splork
 
 <div class="post" data-post-id="12969" data-author="Mystery" data-date="2006-06-10T20:36:01+00:00" data-subject="Cause and affect">
 
-I tell ya, it was them damn klingons around Uranus :twisted:
+I tell ya, it was them damn klingons around Uranus <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

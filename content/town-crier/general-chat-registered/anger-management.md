@@ -18,11 +18,11 @@ When you occasionally have a really bad day, and you just need to take it
 
 out on someone, don't take it out on someone you know, take it out on
 
-someone you don't know.  
+someone you don't know. 
 
-I was sitting at my desk when I remembered a telephone call I'd forgotten to make. I found the number and dialed it.  A man answered, saying "Hello."  
+I was sitting at my desk when I remembered a telephone call I'd forgotten to make. I found the number and dialed it. A man answered, saying "Hello." 
 
-I politely said, "Hi, this is Nick. Could I please speak with Robin Barber?"  Suddenly the phone was slammed down on me. I couldn't believe that anyone could be so rude.  I tracked down Robin's correct number and called her. I had transposed the last two digits of her phone number. After hanging up with her, I decided to call the 'wrong' number again. When the same guy answered the phone, I yelled, "You're an asshole!" and hung up.  I wrote his number down with the word 'asshole' next to it, and put it in my desk drawer. Every couple of weeks, when I was paying bills or had a really bad day, I'd call him up and yell, "You're an asshole!"  It always cheered me up.  
+I politely said, "Hi, this is Nick. Could I please speak with Robin Barber?" Suddenly the phone was slammed down on me. I couldn't believe that anyone could be so rude. I tracked down Robin's correct number and called her. I had transposed the last two digits of her phone number. After hanging up with her, I decided to call the 'wrong' number again. When the same guy answered the phone, I yelled, "You're an asshole!" and hung up. I wrote his number down with the word 'asshole' next to it, and put it in my desk drawer. Every couple of weeks, when I was paying bills or had a really bad day, I'd call him up and yell, "You're an asshole!" It always cheered me up. 
 
 When Caller ID came to our area, I thought my therapeutic 'asshole' calling would have to stop. So, I called his number and said, "Hi, this is John Smith from the telephone company. I'm calling to see if you're familiar with our Caller ID Program?" 
 
@@ -34,7 +34,7 @@ Some guy in a black BMW cut me off and pulled into the spot I had
 
 patiently waited for. I hit the horn and yelled that I'd been waiting for
 
-that spot.  The idiot ignored me. I noticed a "For Sale" sign in his car window, so I wrote down his number.  A couple of days later, right after calling the first asshole (I had his number on speed dial,) I thought that I'd better call the BMW asshole, too.  I said, "Is this the man with the black BMW for sale?"
+that spot. The idiot ignored me. I noticed a "For Sale" sign in his car window, so I wrote down his number. A couple of days later, right after calling the first asshole (I had his number on speed dial,) I thought that I'd better call the BMW asshole, too. I said, "Is this the man with the black BMW for sale?"
 
 "Yes, It is."
 
@@ -88,7 +88,7 @@ your prayers."
 
 I said, "Yeah, like I'm really scared, asshole." Then I called Asshole
 
-#2."Hello?" he said.
+\#2."Hello?" he said.
 
 "Hello, asshole," I said.
 
@@ -110,12 +110,12 @@ I quickly got into my car and headed over to West Ave..
 
 There I saw two assholes beating the crap out of each other in front of
 
-six squad cars, a police helicopter and a news crew.  NOW I feel much better. You know, this anger management stuff really works.
+six squad cars, a police helicopter and a news crew. NOW I feel much better. You know, this anger management stuff really works.
 
 </div>
 
 <div class="post" data-post-id="9060" data-author="Weasel" data-date="2005-10-14T23:00:45+00:00" data-subject="">
 
-heh, yeah a classic - have had that on my website for a few years - interesting to see how little details of the story change over time though. :)
+heh, yeah a classic - have had that on my website for a few years - interesting to see how little details of the story change over time though. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

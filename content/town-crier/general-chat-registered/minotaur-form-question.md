@@ -12,23 +12,23 @@ post_count: 3
 
 <div class="post" data-post-id="34157" data-author="mistweaver" data-date="2013-03-15T10:45:10+00:00" data-subject="Minotaur Form Question">
 
-Hi all :)
+Hi all <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 I have a question to those who played a druid with (at least) a minotaur form.
 
 Below are (some of) the minotaur form skills:
 
-                              Warrior Abilities:
+ Warrior Abilities:
 
-rescue                        - Lvl:  4,           Learned  85%
+rescue - Lvl: 4, Learned 85%
 
-frenzy                        - Lvl: 15,           Learned  85%
+frenzy - Lvl: 15, Learned 85%
 
-bloodrage                     - Lvl: 18,           Learned  85%
+bloodrage - Lvl: 18, Learned 85%
 
-critical hit                  - Lvl: 25,           Learned  30% [-55]
+critical hit - Lvl: 25, Learned 30% [-55]
 
-deathblow                     - Lvl: 39,           Learned  85%
+deathblow - Lvl: 39, Learned 85%
 
 I was wondering if the 30% crit hit gets any further increase (with levels?) or it remains the same? Thanks in advance!
 
@@ -42,6 +42,6 @@ after a little testing, it seems to me that's the maximum amount that equanimity
 
 <div class="post" data-post-id="34207" data-author="mistweaver" data-date="2013-04-01T12:36:58+00:00" data-subject="Re: Minotaur Form Question">
 
-Thank you for the info and sorry for late reply :P
+Thank you for the info and sorry for late reply <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>

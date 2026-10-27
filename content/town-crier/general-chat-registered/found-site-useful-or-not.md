@@ -30,7 +30,7 @@ Nice, Avalon, thx..
 
 (quest solutions is better to remove)
 
-and, [http://sloth.da.ru/](http://sloth.da.ru/) :-):-)
+and, [http://sloth.da.ru/](http://sloth.da.ru/) <img src="/images/smilies/icon_e_smile.svg" alt=":-)" title=":-)" width="15" height="15" class="smiley nozoom">:-)
 
 </div>
 
@@ -66,7 +66,7 @@ Anyway 1-2 persons in sloth solving quests, few trying, rest asking around
 
 <div class="post" data-post-id="17369" data-author="12345" data-date="2007-03-19T23:13:40+00:00" data-subject="">
 
-I don't think he posted anything that you can't find either on the board at Shelda or the Valk quest boards here on the crier.  Considering the number of us that have been playing since the birth of the internet, most of it is information that we're all familiar with anyway.  Putting it in one place for newbies is probably very helpful.  Though I think some of the recommendations, such and the Yuan-ti, are only practical for the ultra hardcore players.
+I don't think he posted anything that you can't find either on the board at Shelda or the Valk quest boards here on the crier. Considering the number of us that have been playing since the birth of the internet, most of it is information that we're all familiar with anyway. Putting it in one place for newbies is probably very helpful. Though I think some of the recommendations, such and the Yuan-ti, are only practical for the ultra hardcore players.
 
 </div>
 
@@ -102,7 +102,7 @@ the Final Disposition = Not Useful.
 
 <div class="post" data-post-id="17376" data-author="Mosaix" data-date="2007-03-20T13:23:04+00:00" data-subject="">
 
-Your model for a "pimped" out valker is a good start at best.  
+Your model for a "pimped" out valker is a good start at best. 
 
 You might want to re-examine the eq list.
 
@@ -114,7 +114,7 @@ Mosaix/Osaka
 
 <div class="post" data-post-id="17377" data-author="13" data-date="2007-03-20T19:19:12+00:00" data-subject="">
 
-Osaka is *the* VK character.
+Osaka is \*the\* VK character.
 
 no joke.
 
@@ -142,11 +142,11 @@ just a thought on this ... whats the point? I don't mean that in a rude way, but
 
 Is it:
 
-a> for the real newbie, who has no realistic way of following your guide as they will start with no eq, no gold and no way of getting hold of your -7ac setup ("Slap all of that on your level 1-3 newbie ") much less the -9 any time soon.
+a\> for the real newbie, who has no realistic way of following your guide as they will start with no eq, no gold and no way of getting hold of your -7ac setup ("Slap all of that on your level 1-3 newbie ") much less the -9 any time soon.
 
-b>for the seasoned player starting a new char, who darn well ought to know all this anyway.
+b\>for the seasoned player starting a new char, who darn well ought to know all this anyway.
 
-c> a way for players to post their favorite VK setup to demonstate their prowess and manliness cycling newbie areas
+c\> a way for players to post their favorite VK setup to demonstate their prowess and manliness cycling newbie areas
 
 Just thinking aloud ...
 
@@ -156,13 +156,13 @@ Just thinking aloud ...
 
 you forgot 
 
-d>   STFU!
+d\> STFU!
 
 </div>
 
 <div class="post" data-post-id="17384" data-author="Medios" data-date="2007-03-21T20:28:08+00:00" data-subject="">
 
-Its something to do instead of actually playing sloth.  Its a lot easier to make a website and tell everyone how to do stuff than to actually do it or show them in game, etc.  
+Its something to do instead of actually playing sloth. Its a lot easier to make a website and tell everyone how to do stuff than to actually do it or show them in game, etc. 
 
 Mike
 
@@ -172,7 +172,7 @@ Mike
 
 but mike... when you lose that one on one face time... you lose out on tons of chances to berate and taunt them...
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

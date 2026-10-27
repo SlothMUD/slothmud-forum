@@ -12,7 +12,7 @@ post_count: 1
 
 <div class="post" data-post-id="13801" data-author="Diazz" data-date="2006-08-26T23:00:12+00:00" data-subject="Happy Happy joy joy">
 
-Thanks to Mandos and Dio.  
+Thanks to Mandos and Dio. 
 
 You are carrying:
 
@@ -72,7 +72,7 @@ n
 
 forgThe Master's Study
 
-Exits: South  
+Exits: South 
 
 Several demoness are scattered about the room, lounging quietly.
 
@@ -94,7 +94,7 @@ s
 
 A Dark Foyer
 
-Exits: North  South  
+Exits: North South 
 
 [1008 238 199 739401788 -9.6 374034]
 
@@ -116,7 +116,7 @@ You feel less sturdy.
 
 [1010 240 200 739401788 -9.6 374034]
 
-gos Blade -- '<PPS> see-- thats like saying hey blade eat your green beans'
+gos Blade -- '\<PPS\> see-- thats like saying hey blade eat your green beans'
 
 [1007 243 200 739401788 -9.6 374034]
 
@@ -144,7 +144,7 @@ AC-apply is -0.4
 
 Can affect you as:
 
-    Affects: DAMROLL by 1
+ Affects: DAMROLL by 1
 
 Only those who are at least adept avatars may use this item.
 

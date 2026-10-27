@@ -20,6 +20,6 @@ Toss can now throw any level mob, however you can not throw players under a cert
 
 Enjoy,
 
-Splork 8)
+Splork <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>

@@ -26,7 +26,7 @@ No Speed Potions.
 
 Unlimited Drachma.
 
--0.2 from Rank.
+\-0.2 from Rank.
 
 18 dex nat.
 
@@ -42,75 +42,75 @@ Here I am at -11.1...
 
 You are using:
 
-<used as light>      eye of the deep..It has a soft glowing aura!
+\<used as light\> eye of the deep..It has a soft glowing aura!
 
-<worn on finger>     a lost cross signet ring..It emits a faint humming sound!
+\<worn on finger\> a lost cross signet ring..It emits a faint humming sound!
 
-<worn on finger>     a lost cross signet ring..It emits a faint humming sound!
+\<worn on finger\> a lost cross signet ring..It emits a faint humming sound!
 
-<worn around neck>   a tiger fur cloak
+\<worn around neck\> a tiger fur cloak
 
-<worn on shoulders>  molten mithril guards..It has a soft glowing aura!
+\<worn on shoulders\> molten mithril guards..It has a soft glowing aura!
 
-<worn on body>       a shirt of mithril rings (with the mark of the jovial attached to it)
+\<worn on body\> a shirt of mithril rings (with the mark of the jovial attached to it)
 
-<worn on head>       a vrock's head (with a reddish-colored glass eye attached to it)
+\<worn on head\> a vrock's head (with a reddish-colored glass eye attached to it)
 
-<worn on legs>       Elven Chain Leggings of the Mystic Guard..It has a soft glowing aura!
+\<worn on legs\> Elven Chain Leggings of the Mystic Guard..It has a soft glowing aura!
 
-<worn on feet>       a pair of mirrored boots
+\<worn on feet\> a pair of mirrored boots
 
-<worn on hands>      Adamantite-plated Snakeskin Gauntlets ()socketed Silvery Blue Pearl Rune()
+\<worn on hands\> Adamantite-plated Snakeskin Gauntlets ()socketed Silvery Blue Pearl Rune()
 
-<worn on arms>       a set of carved bone armplates..It emits a faint humming sound!
+\<worn on arms\> a set of carved bone armplates..It emits a faint humming sound!
 
-<worn as shield>     Walls of Jericho (with a dragon emblem attached to it)
+\<worn as shield\> Walls of Jericho (with a dragon emblem attached to it)
 
-<worn about body>    Cloak of Shadows (with a blazing starburst ruby (Hero) attached to it)
+\<worn about body\> Cloak of Shadows (with a blazing starburst ruby (Hero) attached to it)
 
-<worn about waist>   a feathered cincture
+\<worn about waist\> a feathered cincture
 
-<worn around wrist>  a circlet of hellfire
+\<worn around wrist\> a circlet of hellfire
 
-<worn around wrist>  a circlet of hellfire
+\<worn around wrist\> a circlet of hellfire
 
-<wielded>            Axe of Dwarvish Lords
+\<wielded\> Axe of Dwarvish Lords
 
-<held>               Sacred Relic of the High Paladin ()socketed Malachite Rune()
+\<held\> Sacred Relic of the High Paladin ()socketed Malachite Rune()
 
-<836hp 666ma 52mv 1997881130xp -11.1ac -%>
+\<836hp 666ma 52mv 1997881130xp -11.1ac -%\>
 
--0.2ac - 2 x -0.5 Rings Improvement
+\-0.2ac - 2 x -0.5 Rings Improvement
 
--0.1ac - 1 x -0.1 Sabatons
+\-0.1ac - 1 x -0.1 Sabatons
 
--0.2ac - 2 x -0.5 Wrists Improvement
+\-0.2ac - 2 x -0.5 Wrists Improvement
 
--0.2ac - 1 x -2.7 Cuirass with VGarnet
+\-0.2ac - 1 x -2.7 Cuirass with VGarnet
 
--0.5ac - 1 x Rhodo Socketted
+\-0.5ac - 1 x Rhodo Socketted
 
--0.4ac - 1 x Obsidian Great Helm
+\-0.4ac - 1 x Obsidian Great Helm
 
--0.2ac - 1 x Tooled Girdle of Ogre Kings with Jacinth
+\-0.2ac - 1 x Tooled Girdle of Ogre Kings with Jacinth
 
--0.1ac - 1 x Warrior Robe
+\-0.1ac - 1 x Warrior Robe
 
--0.1ac - 1 x Hooked fauchard
+\-0.1ac - 1 x Hooked fauchard
 
--0.5ac - 1 x MAX_DEX Purchase
+\-0.5ac - 1 x MAX\_DEX Purchase
 
--0.1ac - 1 x Mithril Sleeves of the High Paladin
+\-0.1ac - 1 x Mithril Sleeves of the High Paladin
 
--0.1ac - 1 x -0.8 Neck
+\-0.1ac - 1 x -0.8 Neck
 
--0.3ac - 3 x -0.1 AC Purchase
+\-0.3ac - 3 x -0.1 AC Purchase
 
--0.4ac - 1 x Avatar Light
+\-0.4ac - 1 x Avatar Light
 
--0.1ac - 1 x NEXT RANK (Currently Hero)
+\-0.1ac - 1 x NEXT RANK (Currently Hero)
 
--3.5 + -11.1 = -14.6
+\-3.5 + -11.1 = -14.6
 
 Are we missing anything?
 
@@ -136,7 +136,7 @@ I think using light for .4 AC is a mistake. If I were tank I'd have a max AC mod
 
 <div class="post" data-post-id="37924" data-author="Gorka" data-date="2016-12-31T16:00:12+00:00" data-subject="Re: Max AC possible without Potions">
 
-> ***juggleblood* wrote:**
+> <strong>\*juggleblood\* wrote:</strong>
 > I think using light for .4 AC is a mistake. If I were tank I'd have a max AC mode for group, but would focus on a solo mixed AC/damage for my more elite mode.
 
 Yeah, point taken. Idea is to start at Max AC and then start stripping back or sacrificing AC to allow for secondary and tertiary requirements to be combined into a better functioning mode. For example sacrificing a little ac for damage or spellsaves/spell dam is always on the cards, but easier to do so with an understanding of what the max ac eq is first.
@@ -145,7 +145,7 @@ You might have also noticed the "Hooked fauchard" is listed, as it has ac... but
 
 Making the adjustments Taron pointed out which was +0.2ac and -0.1ac it would seem -14.5 is max without drugs.
 
-Obviously in subsequent rebirths a wa/mo you should be able to Max their DEX and add another point bringing it to -15.5 plus. Add Goblet... so about -17.5 with crack. Josiah also points out there was a rare potion that give your char -10ac for a very short period, however he also suggested that there is a hard cap of -20ac... I don't know how he knows this stuff without access to the source code or maybe he has important "friends." :lol:
+Obviously in subsequent rebirths a wa/mo you should be able to Max their DEX and add another point bringing it to -15.5 plus. Add Goblet... so about -17.5 with crack. Josiah also points out there was a rare potion that give your char -10ac for a very short period, however he also suggested that there is a hard cap of -20ac... I don't know how he knows this stuff without access to the source code or maybe he has important "friends." <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 Furthermore, it appears that most people consider that a group tank should at least make -13 before it's kind of seen as "acceptable" as a group primary. That's actually a fairly high requirement and a non avatar warrior will almost certainly require some crack to get even close.
 
@@ -153,9 +153,9 @@ Furthermore, it appears that most people consider that a group tank should at le
 
 <div class="post" data-post-id="37926" data-author="Josiah" data-date="2016-12-31T17:12:39+00:00" data-subject="Re: Max AC possible without Potions">
 
-I've learned almost nothing from "friends".  I do have a few suspicions from assisting with bug fixes over the years. I don't ask questions about hidden game mechanics.  Instead, I poke and prod within the game to figure out how it works.
+I've learned almost nothing from "friends". I do have a few suspicions from assisting with bug fixes over the years. I don't ask questions about hidden game mechanics. Instead, I poke and prod within the game to figure out how it works.
 
-I still feel like my greatest success was my newbie warrior who never trained double attack.  When he turned on parry, he had zero attacks and so could tank while invisible.  He tanked for an awesome lowbie-only autoquest before that game mechanic was fixed.  We try things.
+I still feel like my greatest success was my newbie warrior who never trained double attack. When he turned on parry, he had zero attacks and so could tank while invisible. He tanked for an awesome lowbie-only autoquest before that game mechanic was fixed. We try things.
 
 AC cap is easy to demonstrate:
 
@@ -169,7 +169,7 @@ quickly unshift before the affect wears off
 
 Strong mobs can get in a few hits when you're -20, but its a pretty impressive level of protection.
 
-I calculate maximum possible hooked-fauchard-type AC to be -15.0 for a 9x40 remort warrior wearing a rumored -.3 honor clasp (that briefly appeared in the official eq list).  The remort bonus seems to be .2 AC, I'm not sure if there is any hidden bonus.
+I calculate maximum possible hooked-fauchard-type AC to be -15.0 for a 9x40 remort warrior wearing a rumored -.3 honor clasp (that briefly appeared in the official eq list). The remort bonus seems to be .2 AC, I'm not sure if there is any hidden bonus.
 
 15 + goblet + 4 speed potions = -18.9 (neck swap)
 
@@ -185,7 +185,7 @@ Gorka, ac is not limited to high avatars. It is limited to warriors, who spend t
 
 At around 6x40 I started working on my ac, moved up an 1ac point or two and started tanking half of my own groups. If I had started leading eq groups earlier, I could have had -12 ac at 4-5x40 instead of 6x40. A pretty low level avatar, if you ask me. Up until 9x40 I've had around -12.5.
 
-Making a rhodo definitely helped, but it doesn't happen if you don't group. *didn't. Now you can pop t3 gems solo.
+Making a rhodo definitely helped, but it doesn't happen if you don't group. \*didn't. Now you can pop t3 gems solo.
 
 Though, to be fair, whenver War or Josiah joined with better ac, I let/made them tank which was not illogical.
 

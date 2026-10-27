@@ -22,7 +22,7 @@ i am not quite ready to move off valk yet, will one of these days, but for now i
 
 so basically would like to get the best if not second best in the sets for my newbie
 
-[20b 20m 20c 20o]  Afea
+[20b 20m 20c 20o] Afea
 
 willing to pay if the price is reasonable.
 
@@ -38,49 +38,49 @@ thanks
 
 You are using:
 
-<used as light>      a pearl of the rising tide
+\<used as light\> a pearl of the rising tide
 
-<worn on finger>     a greenish ring
+\<worn on finger\> a greenish ring
 
-<worn on finger>     a greenish ring
+\<worn on finger\> a greenish ring
 
-<worn around neck>   a golden glowing pentagram..It has a soft glowing aura! (wi
-
-th an oak leaf cluster attached to it)
-
-<worn around neck>   a golden glowing pentagram..It has a soft glowing aura! (wi
+\<worn around neck\> a golden glowing pentagram..It has a soft glowing aura! (wi
 
 th an oak leaf cluster attached to it)
 
-<worn on body>       a suit of mystic plate mail (with a pretty little bow attac
+\<worn around neck\> a golden glowing pentagram..It has a soft glowing aura! (wi
+
+th an oak leaf cluster attached to it)
+
+\<worn on body\> a suit of mystic plate mail (with a pretty little bow attac
 
 hed to it)
 
-<worn on head>       an ebony helm of blood (with a single-striped white sash (P
+\<worn on head\> an ebony helm of blood (with a single-striped white sash (P
 
 rivate) attached to it)
 
-<worn on legs>       steel ribbed pants
+\<worn on legs\> steel ribbed pants
 
-<worn on feet>       a pair of rock boots
+\<worn on feet\> a pair of rock boots
 
-<worn on hands>      gloves of the tide
+\<worn on hands\> gloves of the tide
 
-<worn on arms>       thick leather sleeves
+\<worn on arms\> thick leather sleeves
 
-<worn as shield>     a shield of lightning..It has a soft glowing aura!
+\<worn as shield\> a shield of lightning..It has a soft glowing aura!
 
-<worn about body>    a serpent skin robe (with a mithril clasp attached to it)
+\<worn about body\> a serpent skin robe (with a mithril clasp attached to it)
 
-<worn about waist>   the belt of origins..It emits a faint humming sound!
+\<worn about waist\> the belt of origins..It emits a faint humming sound!
 
-<worn around wrist>  an emerald bracelet
+\<worn around wrist\> an emerald bracelet
 
-<worn around wrist>  an emerald bracelet
+\<worn around wrist\> an emerald bracelet
 
-<wielded>            staff of the elven forest..It has a soft glowing aura!
+\<wielded\> staff of the elven forest..It has a soft glowing aura!
 
-<held>               a staff of agility..It has a soft glowing aura!
+\<held\> a staff of agility..It has a soft glowing aura!
 
 not the greatest but it works for now.
 
@@ -90,7 +90,7 @@ not the greatest but it works for now.
 
 Well first of all, what are ur nat stats?
 
-This will kinda help with some of ur eq choices.  Like the helm, legs, sleeves,
+This will kinda help with some of ur eq choices. Like the helm, legs, sleeves,
 
 shield, belt, n bracelets.
 
@@ -108,7 +108,7 @@ obviously i should roll
 
 Well going back i would say the same: Like the helm, legs, sleeves, 
 
-shield, belt.  The wrist eq u use is -.3 +int, which is pretty good for vk.  There is a -.4 +resist fire/cold on a nasty troll.  However its only for ppl 20
+shield, belt. The wrist eq u use is -.3 +int, which is pretty good for vk. There is a -.4 +resist fire/cold on a nasty troll. However its only for ppl 20
 
 and under.
 

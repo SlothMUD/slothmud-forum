@@ -14,11 +14,11 @@ post_count: 1
 
 needs the following items
 
-1. glowing dragon scale
+1\. glowing dragon scale
 
-2. black demonskin boots
+2\. black demonskin boots
 
-3. aura of midnite
+3\. aura of midnite
 
 have a few eq (rof and the likes), probably coins and restrings to boot.....catch me online
 

@@ -22,7 +22,7 @@ So sell this stuff to the shop or hoard it and then give to a newbie who seems p
 
 PURPOSE: this isn't intended to be powerful or "the best" gear, this is just so newbies feel they're being interacted
 
-with.  They're also mildly useful things.
+with. They're also mildly useful things.
 
 AH CASTER NECK gold bird pendant +1 str +1 int -0.0 AC small gold bird Penguins(AH)
 
@@ -86,11 +86,11 @@ EXCLUDED: anything Zuzu can't solo in positive AC mode with aerial servant up.
 
 this is intended to be really... really... really EASY EASY stuff for non-tank types.
 
-Almost in most cases what newbies could nearly solo themselves with difficulty.  They just don't know where it is.
+Almost in most cases what newbies could nearly solo themselves with difficulty. They just don't know where it is.
 
 So we're bringing it to them to encourage them to play.
 
-My designations for EVERYBODY vs CASTER etc aren't perfect. Bite me :)
+My designations for EVERYBODY vs CASTER etc aren't perfect. Bite me <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Please please please TRY to stick to the above restrictions rigidly when posting additions to this list.
 
@@ -104,6 +104,6 @@ BH White Silk Robe - Librarian in asylum.
 
 BH Quickling Sabre - Quickling King
 
-Also, higher level players can kill the Xorn with little effort and granite sleeves make newbies happy :-)
+Also, higher level players can kill the Xorn with little effort and granite sleeves make newbies happy <img src="/images/smilies/icon_e_smile.svg" alt=":-)" title=":-)" width="15" height="15" class="smiley nozoom">
 
 </div>

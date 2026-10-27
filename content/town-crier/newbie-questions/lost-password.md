@@ -12,7 +12,7 @@ post_count: 2
 
 <div class="post" data-post-id="9918" data-author="Jammaker" data-date="2005-12-24T14:47:31+00:00" data-subject="Lost Password?">
 
-I have not played Sloth in several years, and I tried to come back and play, but Sloth does not recognize my password.  I don't remember changing it, but that is possible.  Does anyone know how or who to contact to get my character back?
+I have not played Sloth in several years, and I tried to come back and play, but Sloth does not recognize my password. I don't remember changing it, but that is possible. Does anyone know how or who to contact to get my character back?
 
 Thanks!
 
@@ -20,11 +20,11 @@ Thanks!
 
 <div class="post" data-post-id="9919" data-author="12345" data-date="2005-12-25T00:30:12+00:00" data-subject="">
 
-I don't know what character you're talking about, but old characters are sometimes cleared out.  If you create a new character, you'll be able to log on and see how the game's looking these days.  I hope that last player works for level 1.. but you may have to get a couple levels first.  Type 'last player <you>' and you'll be able to see if it's the character you remember :)
+I don't know what character you're talking about, but old characters are sometimes cleared out. If you create a new character, you'll be able to log on and see how the game's looking these days. I hope that last player works for level 1.. but you may have to get a couple levels first. Type 'last player \<you\>' and you'll be able to see if it's the character you remember <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 After that, you can page the gods, who may be online to help you.
 
-If that doesn't work, an e-mail to coders@slothmud.org will almost certainly be seen by Kj by tomorrow when he runs his Christmas quest.  And if he can't reset your password, no one can :)
+If that doesn't work, an e-mail to coders@slothmud.org will almost certainly be seen by Kj by tomorrow when he runs his Christmas quest. And if he can't reset your password, no one can <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Good luck.
 

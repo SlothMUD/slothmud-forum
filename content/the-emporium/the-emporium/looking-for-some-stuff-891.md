@@ -24,7 +24,7 @@ Sorry was looking for avian claw in case anyone was wondering
 
 <div class="post" data-post-id="4890" data-author="Autolycos" data-date="2005-03-08T16:52:13+00:00" data-subject="">
 
-yo, stryker..  catch me on, i have that EHOB you won on chop block
+yo, stryker.. catch me on, i have that EHOB you won on chop block
 
 thnx
 

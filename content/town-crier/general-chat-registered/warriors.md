@@ -22,7 +22,7 @@ bring on the nerfs!
 
 <div class="post" data-post-id="25638" data-author="jezer" data-date="2008-08-06T08:41:56+00:00" data-subject="">
 
-[img:k583t06n]http://i167.photobucket.com/albums/u151/bigpov/1191766357130tz7.jpg[/img:k583t06n]
+![](http://i167.photobucket.com/albums/u151/bigpov/1191766357130tz7.jpg)
 
 </div>
 

@@ -12,7 +12,7 @@ post_count: 131
 
 <div class="post" data-post-id="35779" data-author="Teron" data-date="2015-03-30T18:48:22+00:00" data-subject="Your afternoon chuckle">
 
-<23hp 353ma 146mv> 3434381940, -4, 5.8, indoors You reluctantly give some items to the First Weaver, who swallows them with appetite.
+\<23hp 353ma 146mv\> 3434381940, -4, 5.8, indoors You reluctantly give some items to the First Weaver, who swallows them with appetite.
 
 The First Weaver chews on the items for a while, then his web-sacks produce
 
@@ -20,7 +20,7 @@ a wondrous masterpiece fashioned of scintillating silk.
 
 You carefully snatch scintillating silken armor from the First Weaver.
 
-<23hp 353ma 146mv> 3434381940, -4, 5.8, indoors The First Weaver finally begins to pay attention to the surroundings.  Uh oh...
+\<23hp 353ma 146mv\> 3434381940, -4, 5.8, indoors The First Weaver finally begins to pay attention to the surroundings. Uh oh...
 
 The First Weaver utters the words, 'xzb'
 
@@ -44,17 +44,17 @@ When exploring the new tower area and attempting to kill Empyreal, this happened
 
 Sledgehammer -- 'trying to raise ya!'
 
-<-58hp 53ma 316mv> 3448757852, -9, -6.2, indoors +0, 0, 0 dam
+\<-58hp 53ma 316mv\> 3448757852, -9, -6.2, indoors +0, 0, 0 dam
 
 group
 
 Group 'exploring the new area' is led by Taron and consists of:
 
-   (Dead)            Taron [Wa:5.39  -58hp  53ma 316mv] c.sapp/tjade                  
+ (Dead) Taron [Wa:5.39 -58hp 53ma 316mv] c.sapp/tjade 
 
-              Sledgehammer [Mo:4.25  911hp 217ma 319mv] GY Topaz | Jet                
+ Sledgehammer [Mo:4.25 911hp 217ma 319mv] GY Topaz \| Jet 
 
-<-58hp 53ma 316mv> 3448757852, -9, -6.2, indoors +0, 0, 0 dam
+\<-58hp 53ma 316mv\> 3448757852, -9, -6.2, indoors +0, 0, 0 dam
 
 Sledgehammer lays his hands upon the body.
 
@@ -64,13 +64,13 @@ You feel much, much better!
 
 You report 1/1176 hp. Change: -142. Need: 1175. Spells: greater fluidity.
 
-<1hp 53ma 316mv> 3448757852, -9, -11.2, indoors +0, 0, 0 dam
+\<1hp 53ma 316mv\> 3448757852, -9, -11.2, indoors +0, 0, 0 dam
 
 gt phew
 
 You grouptell: 'phew'
 
-<4hp 54ma 318mv> 3448757852, -9, -11.2, indoors +0, 0, 0 dam
+\<4hp 54ma 318mv\> 3448757852, -9, -11.2, indoors +0, 0, 0 dam
 
 Sledgehammer utters the words, 'candusghafahuai'
 
@@ -78,17 +78,17 @@ The cleansing fires of healing tear apart your body!
 
 You have been KILLED!! 
 
-<-173hp 55ma 319mv> 3448757852, -9, -6.2, indoors +0, 0, 0 dam
+\<-173hp 55ma 319mv\> 3448757852, -9, -6.2, indoors +0, 0, 0 dam
 
 You feel yourself floating upward...
 
-<-173hp 55ma 319mv> 3448757852, -9, -6.2, indoors +0, 0, 0 dam
+\<-173hp 55ma 319mv\> 3448757852, -9, -6.2, indoors +0, 0, 0 dam
 
 Sledgehammer -- '...what?'
 
-<-173hp 55ma 319mv> 3448757852, -9, -6.2, indoors +0, 0, 0 dam
+\<-173hp 55ma 319mv\> 3448757852, -9, -6.2, indoors +0, 0, 0 dam
 
-P.S. Thanks :)
+P.S. Thanks <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -100,7 +100,7 @@ On the other hand, I've slightly reduced the chance that will happen to help to
 
 make that situation a bit more manageable. I hope this helps.
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -108,7 +108,7 @@ make that situation a bit more manageable. I hope this helps.
 
 Yes, I understand it's by design, though it did happen within 1-3 rounds after starting the fight.
 
-Thanks for the fix :)
+Thanks for the fix <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -138,7 +138,7 @@ I already have compact prompt/lines enabled.
 
 I've saved a few brilliant moments over the recent months, so I thought I should share them with you, one at a time.
 
-<1271hp 88ma 245mv> 3735805639 9 -12.5 +9 overcast+0, 0
+\<1271hp 88ma 245mv\> 3735805639 9 -12.5 +9 overcast+0, 0
 
 Sochi quaffs a thick green potion.
 
@@ -148,21 +148,21 @@ Sochi's wounds seem to vanish!
 
 Sochi's wounds begin closing rapidly.
 
-<1271hp 88ma 245mv> 3735805639 9 -12.5 +9 overcast+0, 0
+\<1271hp 88ma 245mv\> 3735805639 9 -12.5 +9 overcast+0, 0
 
 Sochi utters the words, 'candusghafahuai'
 
 Sochi briefly glows with a blinding light!
 
-<1275hp 90ma 247mv> 3735805639 9 -12.5 +9 overcast+0, 0
+\<1275hp 90ma 247mv\> 3735805639 9 -12.5 +9 overcast+0, 0
 
 Crumbs -- 'OUT OF MANA'
 
-<1278hp 91ma 248mv> 3735805639 9 -12.5 +9 overcast+0, 0
+\<1278hp 91ma 248mv\> 3735805639 9 -12.5 +9 overcast+0, 0
 
 Crumbs -- 'Kirei is IN!'
 
-<1278hp 91ma 248mv> 3735805639 9 -12.5 +9 overcast+0, 0
+\<1278hp 91ma 248mv\> 3735805639 9 -12.5 +9 overcast+0, 0
 
 Sochi looks shocked as he cuts himself on Xerxes, The Corruptor of Worlds's bone armor!
 
@@ -234,13 +234,13 @@ Lightning arcs from you to Kirei!
 
 You report 783/1279 hp. Change: -488. Need: 496. Spells: greater fluidity, flesh golem.
 
-<783hp 127ma 249mv> 3735807059 9 -12.5 +9 overcast+1420, 35
+\<783hp 127ma 249mv\> 3735807059 9 -12.5 +9 overcast+1420, 35
 
 get green sack
 
 You get a green potion from a golden sack.
 
-<786hp 128ma 249mv> 3735807059 9 -12.5 +9 overcast+0, 0
+\<786hp 128ma 249mv\> 3735807059 9 -12.5 +9 overcast+0, 0
 
 group
 
@@ -248,21 +248,21 @@ Sochi utters the words, 'candusghafahuai'
 
 Sochi briefly glows with a blinding light!
 
-<786hp 128ma 249mv> 3735807059 9 -12.5 +9 overcast+0, 0
+\<786hp 128ma 249mv\> 3735807059 9 -12.5 +9 overcast+0, 0
 
 Group 'Taron's Terrific Fellows' is led by Taron and consists of:
 
-  (Point)            Taron [Wa:7.25  788hp 129ma 250mv] chrysoprase/c.sapphire        
+ (Point) Taron [Wa:7.25 788hp 129ma 250mv] chrysoprase/c.sapphire 
 
-  (Front)            Sochi [Ba:5.39  960hp  46ma 360mv] EyeAgate|TigerEye             
+ (Front) Sochi [Ba:5.39 960hp 46ma 360mv] EyeAgate\|TigerEye 
 
-                     Kirei [Mo:0.39  426hp 159ma 251mv] Jacinth / GY Topaz            
+ Kirei [Mo:0.39 426hp 159ma 251mv] Jacinth / GY Topaz 
 
-                   Elendai [Ma:6.31  653hp 220ma 234mv] Tourm|RQuartz                 
+ Elendai [Ma:6.31 653hp 220ma 234mv] Tourm\|RQuartz 
 
-                    Crumbs [Cl:6.33  780hp  94ma 252mv] rhodo/pink diamond            
+ Crumbs [Cl:6.33 780hp 94ma 252mv] rhodo/pink diamond 
 
-<788hp 129ma 250mv> 3735807059 9 -12.5 +9 overcast+0, 0
+\<788hp 129ma 250mv\> 3735807059 9 -12.5 +9 overcast+0, 0
 
 Elendai utters the words, 'candusghafahuai'
 
@@ -270,7 +270,7 @@ The cleansing fires of healing fill your body!
 
 You report 1040/1279 hp. Change: +257. Need: 239. Spells: greater fluidity, flesh golem.
 
-<1040hp 129ma 250mv> 3735807059 9 -12.5 +9 overcast+0, 0
+\<1040hp 129ma 250mv\> 3735807059 9 -12.5 +9 overcast+0, 0
 
 You skillfully parry the attack of Xerxes, The Corruptor of Worlds.
 
@@ -348,7 +348,7 @@ Crumbs's spectral shield drains power from the spell!
 
 You report 538/1279 hp. Change: -502. Need: 741. Spells: flesh golem, greater fluidity.
 
-<538hp 142ma 252mv> 3735823266 8 -12.5 +9 overcast+16207, 405
+\<538hp 142ma 252mv\> 3735823266 8 -12.5 +9 overcast+16207, 405
 
 Elendai utters the words, 'candusghafahuai'
 
@@ -356,7 +356,7 @@ The cleansing fires of healing fill your body!
 
 You report 793/1279 hp. Change: +255. Need: 486. Spells: greater fluidity, flesh golem.
 
-<793hp 144ma 254mv> 3735823266 8 -12.5 +9 overcast+0, 0
+\<793hp 144ma 254mv\> 3735823266 8 -12.5 +9 overcast+0, 0
 
 gt this isnt fun
 
@@ -390,7 +390,7 @@ You grouptell: 'this isnt fun'
 
 You report 555/1279 hp. Change: -238. Need: 724. Spells: flesh golem, greater fluidity.
 
-<555hp 158ma 257mv> 3735834286 8 -12.5 +9 overcast+11020, 275
+\<555hp 158ma 257mv\> 3735834286 8 -12.5 +9 overcast+11020, 275
 
 Elendai utters the words, 'candusghafahuai'
 
@@ -398,7 +398,7 @@ The cleansing fires of healing fill your body!
 
 You report 799/1279 hp. Change: +244. Need: 480. Spells: greater fluidity, flesh golem.
 
-<799hp 158ma 257mv> 3735834286 8 -12.5 +9 overcast+0, 0
+\<799hp 158ma 257mv\> 3735834286 8 -12.5 +9 overcast+0, 0
 
 Elendai utters the words, 'candusghafahuai'
 
@@ -406,7 +406,7 @@ The cleansing fires of healing fill your body!
 
 You report 1044/1279 hp. Change: +245. Need: 235. Spells: flesh golem, greater fluidity.
 
-<1044hp 160ma 260mv> 3735834286 8 -12.5 +9 overcast+0, 0
+\<1044hp 160ma 260mv\> 3735834286 8 -12.5 +9 overcast+0, 0
 
 You skillfully parry the attack of Xerxes, The Corruptor of Worlds.
 
@@ -466,11 +466,11 @@ Lightning arcs from Sochi to Kirei!
 
 You report 718/1279 hp. Change: -326. Need: 561. Spells: greater fluidity, flesh golem.
 
-<723hp 174ma 263mv> 3735843698 8 -12.5 +9 overcast+0, 0
+\<723hp 174ma 263mv\> 3735843698 8 -12.5 +9 overcast+0, 0
 
 Elendai -- 'mt'
 
-<725hp 175ma 263mv> 3735843698 8 -12.5 +9 overcast+0, 0
+\<725hp 175ma 263mv\> 3735843698 8 -12.5 +9 overcast+0, 0
 
 Kirei looks shocked as he cuts himself on Xerxes, The Corruptor of Worlds's bone armor!
 
@@ -554,11 +554,11 @@ Elendai's spectral shield drains power from the spell!
 
 You report 223/1279 hp. Change: -495. Need: 1056. Spells: greater fluidity, flesh golem.
 
-<223hp 200ma 265mv> 3735845173 8 -12.5 +9 overcast+1475, 36
+\<223hp 200ma 265mv\> 3735845173 8 -12.5 +9 overcast+1475, 36
 
-cast 'restorat'  Taron
+cast 'restorat' Taron
 
-cast 'restorat'  Taron
+cast 'restorat' Taron
 
 Crumbs utters the words, 'candusghafahuai'
 
@@ -566,7 +566,7 @@ The cleansing fires of healing fill your body!
 
 You report 601/1279 hp. Change: +378. Need: 678. Spells: flesh golem, greater fluidity.
 
-<601hp 201ma 266mv> 3735845173 8 -12.5 +9 overcast+0, 0
+\<601hp 201ma 266mv\> 3735845173 8 -12.5 +9 overcast+0, 0
 
 Ok.
 
@@ -574,7 +574,7 @@ The cleansing fires of healing fill your body!
 
 You report 845/1279 hp. Change: +244. Need: 434. Spells: flesh golem, greater fluidity.
 
-<845hp 139ma 266mv> 3735854933 8 -12.5 +10 overcast+9760, 244
+\<845hp 139ma 266mv\> 3735854933 8 -12.5 +10 overcast+9760, 244
 
 @@
 
@@ -586,7 +586,7 @@ The cleansing fires of healing fill your body!
 
 You report 1085/1279 hp. Change: +240. Need: 194. Spells: flesh golem, greater fluidity.
 
-<1085hp 78ma 252mv> 3735864453 8 -12.5 +10 overcast+9520, 238
+\<1085hp 78ma 252mv\> 3735864453 8 -12.5 +10 overcast+9520, 238
 
 You skillfully parry the attack of Xerxes, The Corruptor of Worlds.
 
@@ -626,15 +626,15 @@ Lightning arcs from Sochi to Kirei!
 
 You report 666/1279 hp. Change: -419. Need: 613. Spells: greater fluidity, flesh golem.
 
-<666hp 91ma 254mv> 3735865125 8 -12.5 +10 overcast+672, 16
+\<666hp 91ma 254mv\> 3735865125 8 -12.5 +10 overcast+672, 16
 
-<668hp 92ma 255mv> 3735865125 8 -12.5 +10 overcast+0, 0
+\<668hp 92ma 255mv\> 3735865125 8 -12.5 +10 overcast+0, 0
 
 Sochi utters the words, 'candusghafahuai'
 
 Sochi briefly glows with a blinding light!
 
-<668hp 92ma 255mv> 3735865125 8 -12.5 +10 overcast+0, 0
+\<668hp 92ma 255mv\> 3735865125 8 -12.5 +10 overcast+0, 0
 
 quaf green
 
@@ -642,21 +642,21 @@ You quaff a green potion which dissolves.
 
 Central Walkway
 
-Exits: North  East  South  West  [Down]  
+Exits: North East South West [Down] 
 
 (Faint Red Aura) A tomb guardian stands here preventing any further navigation.
 
-<673hp 94ma 257mv> 3735865125 - -12.5 +10 overcast+0, 0
+\<673hp 94ma 257mv\> 3735865125 - -12.5 +10 overcast+0, 0
 
 rr
 
 You do not have that item.
 
-<677hp 96ma 260mv> 3735865125 - -12.5 +10 overcast+0, 0
+\<677hp 96ma 260mv\> 3735865125 - -12.5 +10 overcast+0, 0
 
 Crumbs -- 'heh'
 
-<681hp 97ma 262mv> 3735865125 - -12.5 +10 overcast+0, 0
+\<681hp 97ma 262mv\> 3735865125 - -12.5 +10 overcast+0, 0
 
 get milky-potion golden-sack
 
@@ -664,7 +664,7 @@ quaf milky
 
 You get a milky white potion from a golden sack.
 
-<682hp 98ma 262mv> 3735865125 - -12.5 +10 overcast+0, 0
+\<682hp 98ma 262mv\> 3735865125 - -12.5 +10 overcast+0, 0
 
 Elendai -- 'wow'
 
@@ -672,7 +672,7 @@ You quaff a milky white potion which dissolves.
 
 Magnolia
 
-   The path curves around a large magnolia tree, almost forty feet high.
+ The path curves around a large magnolia tree, almost forty feet high.
 
 It is covered with large white flowers, which emit a strong, sweet scent.
 
@@ -680,7 +680,7 @@ The path is edged with stone blocks, possibly in an attempt to stop it
 
 from slipping down the slope toward the sea.
 
-Exits: East  South  West  
+Exits: East South West 
 
 AN OPEN PORTAL IS HERE!
 
@@ -696,11 +696,11 @@ A magical contraption, the shadowgram, floats just above the Magnolia.
 
 A large bulletin board is mounted on a wall here.
 
-<684hp 99ma 263mv> 3735865125 - -12.5 +10 overcast+0, 0
+\<684hp 99ma 263mv\> 3735865125 - -12.5 +10 overcast+0, 0
 
-Elendai -- '--> LITE is DOWN'
+Elendai -- '--\> LITE is DOWN'
 
-<684hp 99ma 263mv> 3735865125 - -12.5 +10 overcast+0, 0
+\<684hp 99ma 263mv\> 3735865125 - -12.5 +10 overcast+0, 0
 
 cast 'gate' sochi
 
@@ -708,7 +708,7 @@ Ok.
 
 It's too late...
 
-<690hp 12ma 267mv> 3735865125 - -12.5 +10 overcast+0, 0
+\<690hp 12ma 267mv\> 3735865125 - -12.5 +10 overcast+0, 0
 
 group
 
@@ -716,47 +716,47 @@ gt shit
 
 Group 'Taron's Terrific Fellows' is led by Taron and consists of:
 
-  (Point)            Taron [Wa:7.25  695hp  14ma 270mv] chrysoprase/c.sapphire        
+ (Point) Taron [Wa:7.25 695hp 14ma 270mv] chrysoprase/c.sapphire 
 
- (Absent)            Kirei [Mo:0.39   39hp 177ma  38mv] Jacinth / GY Topaz            
+ (Absent) Kirei [Mo:0.39 39hp 177ma 38mv] Jacinth / GY Topaz 
 
- (Absent)          Elendai [Ma:6.31  504hp 109ma 263mv] Tourm|RQuartz                 
+ (Absent) Elendai [Ma:6.31 504hp 109ma 263mv] Tourm\|RQuartz 
 
-   (Dead)            Sochi [Ba:5.39  -29hp 142ma 360mv] EyeAgate|TigerEye             
+ (Dead) Sochi [Ba:5.39 -29hp 142ma 360mv] EyeAgate\|TigerEye 
 
-   (Dead)           Crumbs [Cl:6.33  -58hp 173ma 282mv] rhodo/pink diamond            
+ (Dead) Crumbs [Cl:6.33 -58hp 173ma 282mv] rhodo/pink diamond 
 
-<695hp 14ma 270mv> 3735865125 - -12.5 +10 overcast+0, 0
+\<695hp 14ma 270mv\> 3735865125 - -12.5 +10 overcast+0, 0
 
 You grouptell: 'shit'
 
-<695hp 14ma 270mv> 3735865125 - -12.5 +10 overcast+0, 0
+\<695hp 14ma 270mv\> 3735865125 - -12.5 +10 overcast+0, 0
 
 Death intones 'Elendai was killed by someone, I'll soon be collecting his soul'
 
 gos Elendai was killed by someone
 
-<696hp 15ma 271mv> 3735865125 - -12.5 +10 overcast+0, 0
+\<696hp 15ma 271mv\> 3735865125 - -12.5 +10 overcast+0, 0
 
 You gossip-- 'Elendai was killed by someone'
 
-<698hp 15ma 272mv> 3735865125 - -12.5 +10 overcast+0, 0
+\<698hp 15ma 272mv\> 3735865125 - -12.5 +10 overcast+0, 0
 
 group
 
 Group 'Taron's Terrific Fellows' is led by Taron and consists of:
 
-  (Point)            Taron [Wa:7.25  702hp  18ma 275mv] chrysoprase/c.sapphire        
+ (Point) Taron [Wa:7.25 702hp 18ma 275mv] chrysoprase/c.sapphire 
 
- (Absent)            Kirei [Mo:0.39   46hp 178ma  38mv] Jacinth / GY Topaz            
+ (Absent) Kirei [Mo:0.39 46hp 178ma 38mv] Jacinth / GY Topaz 
 
-   (Dead)          Elendai [Ma:6.31  -77hp 110ma 264mv] Tourm|RQuartz                 
+ (Dead) Elendai [Ma:6.31 -77hp 110ma 264mv] Tourm\|RQuartz 
 
-   (Dead)            Sochi [Ba:5.39  -29hp 142ma 360mv] EyeAgate|TigerEye             
+ (Dead) Sochi [Ba:5.39 -29hp 142ma 360mv] EyeAgate\|TigerEye 
 
-   (Dead)           Crumbs [Cl:6.33  -58hp 173ma 282mv] rhodo/pink diamond            
+ (Dead) Crumbs [Cl:6.33 -58hp 173ma 282mv] rhodo/pink diamond 
 
-<702hp 18ma 275mv> 3735865125 - -12.5 +10 overcast+0, 0
+\<702hp 18ma 275mv\> 3735865125 - -12.5 +10 overcast+0, 0
 
 TICK IN 10 SECONDS.
 
@@ -770,13 +770,13 @@ Saving Taron.
 
 Saving items.
 
-<710hp 21ma 279mv> 3735865125 - -12.5 +10 overcast+0, 0
+\<710hp 21ma 279mv\> 3735865125 - -12.5 +10 overcast+0, 0
 
 gt that was masterful
 
 You grouptell: 'that was masterful'
 
-<715hp 23ma 282mv> 3735865125 - -12.5 +10 overcast+0, 0
+\<715hp 23ma 282mv\> 3735865125 - -12.5 +10 overcast+0, 0
 
 get blue sack
 
@@ -790,29 +790,29 @@ The sack does not contain the blue.
 
 You report 718/1279 hp. Change: +52. Need: 561. Spells: greater fluidity, flesh golem.
 
-<718hp 25ma 284mv> 3735865125 - -12.5 +10 overcast+0, 0
+\<718hp 25ma 284mv\> 3735865125 - -12.5 +10 overcast+0, 0
 
 Saving Taron.
 
 Saving items.
 
-<719hp 26ma 285mv> 3735865125 - -12.5 +10 overcast+0, 0
+\<719hp 26ma 285mv\> 3735865125 - -12.5 +10 overcast+0, 0
 
 group
 
 Group 'Taron's Terrific Fellows' is led by Taron and consists of:
 
-  (Point)            Taron [Wa:7.25  722hp  27ma 287mv] chrysoprase/c.sapphire        
+ (Point) Taron [Wa:7.25 722hp 27ma 287mv] chrysoprase/c.sapphire 
 
- (Absent)            Kirei [Mo:0.39   64hp 184ma  38mv] Jacinth / GY Topaz            
+ (Absent) Kirei [Mo:0.39 64hp 184ma 38mv] Jacinth / GY Topaz 
 
-   (Dead)          Elendai [Ma:6.31  -77hp 110ma 264mv] Tourm|RQuartz                 
+ (Dead) Elendai [Ma:6.31 -77hp 110ma 264mv] Tourm\|RQuartz 
 
-   (Dead)            Sochi [Ba:5.39  -29hp 142ma 360mv] EyeAgate|TigerEye             
+ (Dead) Sochi [Ba:5.39 -29hp 142ma 360mv] EyeAgate\|TigerEye 
 
-   (Dead)           Crumbs [Cl:6.33  -58hp 173ma 282mv] rhodo/pink diamond            
+ (Dead) Crumbs [Cl:6.33 -58hp 173ma 282mv] rhodo/pink diamond 
 
-<722hp 27ma 287mv> 3735865125 - -12.5 +10 overcast+0, 0
+\<722hp 27ma 287mv\> 3735865125 - -12.5 +10 overcast+0, 0
 
 Kirei -- 'recalling them'
 
@@ -820,9 +820,9 @@ Kirei -- 'recalling them'
 
 <div class="post" data-post-id="36595" data-author="Teron" data-date="2016-02-15T10:18:40+00:00" data-subject="a fresh one">
 
-The custodian breathes a stream of fire at you!  You are engulfed in flames!
+The custodian breathes a stream of fire at you! You are engulfed in flames!
 
-<350hp 177ma 351mv> 3535076651 7 -12.3 +9 indoors+4706, 117
+\<350hp 177ma 351mv\> 3535076651 7 -12.3 +9 indoors+4706, 117
 
 deathblow
 
@@ -832,31 +832,31 @@ deathblow
 
 @@
 
-<353hp 178ma 352mv> 3535076651 7 -12.3 +9 indoors+0, 0
+\<353hp 178ma 352mv\> 3535076651 7 -12.3 +9 indoors+0, 0
 
 Sadly, your effort is not good enough!
 
 @@
 
-<355hp 179ma 346mv> 3535076651 7 -12.3 +9 indoors+0, 0
+\<355hp 179ma 346mv\> 3535076651 7 -12.3 +9 indoors+0, 0
 
 Sadly, your effort is not good enough!
 
 @@
 
-<355hp 179ma 339mv> 3535076651 7 -12.3 +9 indoors+0, 0
+\<355hp 179ma 339mv\> 3535076651 7 -12.3 +9 indoors+0, 0
 
 Sadly, your effort is not good enough!
 
 @@
 
-<357hp 179ma 333mv> 3535076651 7 -12.3 +9 indoors+0, 0
+\<357hp 179ma 333mv\> 3535076651 7 -12.3 +9 indoors+0, 0
 
 Sadly, your effort is not good enough!
 
 @@
 
-<357hp 179ma 326mv> 3535076651 7 -12.3 +9 indoors+0, 0
+\<357hp 179ma 326mv\> 3535076651 7 -12.3 +9 indoors+0, 0
 
 You massacre the custodian to small fragments with your slash.
 
@@ -886,13 +886,13 @@ Hera stumbles but regains her balance.
 
 Dr -- 'got defy?'
 
-<993hp 15ma 79mv> 2349205250 88 -12.4 +9 indoors+0, 0
+\<993hp 15ma 79mv\> 2349205250 88 -12.4 +9 indoors+0, 0
 
 Dr charges and bashes into Hera.
 
 Hera staggers.
 
-<995hp 15ma 80mv> 2349205250 87 -12.4 +9 indoors+0, 0
+\<995hp 15ma 80mv\> 2349205250 87 -12.4 +9 indoors+0, 0
 
 Hera really needs a good bath! Phew!
 
@@ -900,13 +900,13 @@ Timer now at 60 secs.
 
 save
 
-<997hp 16ma 81mv> 2349205250 89 -12.4 +9 indoors+0, 0
+\<997hp 16ma 81mv\> 2349205250 89 -12.4 +9 indoors+0, 0
 
 Saving Taron.
 
 Saving items.
 
-<997hp 16ma 81mv> 2349205250 89 -12.4 +9 indoors+0, 0
+\<997hp 16ma 81mv\> 2349205250 89 -12.4 +9 indoors+0, 0
 
 You skillfully parry the attack of Hera.
 
@@ -942,23 +942,23 @@ Hera squirms in anguish as part of her body melts away!
 
 You report 742/1295 hp. Change: -249. Need: 553. Spells: aegis.
 
-<742hp 16ma 82mv> 2349215246 81 -12.4 +9 indoors+9996, 249
+\<742hp 16ma 82mv\> 2349215246 81 -12.4 +9 indoors+9996, 249
 
 gt yeah
 
 You grouptell: 'yeah'
 
-<746hp 17ma 83mv> 2349215246 81 -12.4 +9 indoors+0, 0
+\<746hp 17ma 83mv\> 2349215246 81 -12.4 +9 indoors+0, 0
 
 The song ends and you don't feel so well anymore.
 
-<747hp 18ma 84mv> 2349215246 81 -12.4 +9 indoors+0, 0
+\<747hp 18ma 84mv\> 2349215246 81 -12.4 +9 indoors+0, 0
 
 Vege utters the words, 'restoration'
 
 Vege briefly glows with a blinding light!
 
-<747hp 18ma 84mv> 2349215246 81 -12.4 +9 indoors+0, 0
+\<747hp 18ma 84mv\> 2349215246 81 -12.4 +9 indoors+0, 0
 
 Dr utters the words, 'candusghafahuai'
 
@@ -966,7 +966,7 @@ The cleansing fires of healing fill your body!
 
 You report 1104/1295 hp. Change: +362. Need: 191. Spells: aegis.
 
-<1104hp 18ma 84mv> 2349215246 81 -12.4 +9 indoors+0, 0
+\<1104hp 18ma 84mv\> 2349215246 81 -12.4 +9 indoors+0, 0
 
 Hera misses you with her pound.
 
@@ -982,7 +982,7 @@ You massacre Hera to small fragments with your slash.
 
 You brutally massacre Hera with your slash.
 
-<1108hp 19ma 85mv> 2349220236 74 -12.4 +9 indoors+4990, 124
+\<1108hp 19ma 85mv\> 2349220236 74 -12.4 +9 indoors+4990, 124
 
 bas
 
@@ -990,13 +990,13 @@ You charge and bash into Hera.
 
 Hera staggers.
 
-<1108hp 19ma 85mv> 2349220351 74 -12.4 +9 indoors+115, 2
+\<1108hp 19ma 85mv\> 2349220351 74 -12.4 +9 indoors+115, 2
 
 Vege charges and bashes into Hera.
 
 Hera staggers.
 
-<1112hp 20ma 87mv> 2349220351 74 -12.4 +9 indoors+0, 0
+\<1112hp 20ma 87mv\> 2349220351 74 -12.4 +9 indoors+0, 0
 
 bas
 
@@ -1020,15 +1020,15 @@ You have been KILLED!!
 
 Dr -- 'might need it'
 
-<-293hp 21ma 88mv> 2349222818 - -7.9 +9 indoors+2467, 61
+\<-293hp 21ma 88mv\> 2349222818 - -7.9 +9 indoors+2467, 61
 
-Lie still; you are DEAD!!! :-( 
+Lie still; you are DEAD!!! <img src="/images/smilies/icon_e_sad.svg" alt=":-(" title=":-(" width="15" height="15" class="smiley nozoom"> 
 
-<-293hp 21ma 88mv> 2349222818 - -7.9 +9 indoors+0, 0
+\<-293hp 21ma 88mv\> 2349222818 - -7.9 +9 indoors+0, 0
 
 Dr -- 'alright!'
 
-<-293hp 21ma 88mv> 2349222818 - -7.9 +9 indoors+0, 0
+\<-293hp 21ma 88mv\> 2349222818 - -7.9 +9 indoors+0, 0
 
 Vege -- 'thats not gona help'
 
@@ -1040,11 +1040,11 @@ gt she's about to enrage
 
 You grouptell: 'she's about to enrage'
 
-<775hp 40ma 103mv> 1299274012 16 -12.4 +10 raining+0, 0
+\<775hp 40ma 103mv\> 1299274012 16 -12.4 +10 raining+0, 0
 
 Tembikai utters the words, 'yufzxuie'
 
-<777hp 41ma 103mv> 1299274012 15 -12.4 +10 raining+0, 0
+\<777hp 41ma 103mv\> 1299274012 15 -12.4 +10 raining+0, 0
 
 flail tyr
 
@@ -1052,7 +1052,7 @@ You flail your weapon around you in a flurry of motion in Tyrannosaurus rex's di
 
 You catch Tyrannosaurus rex in a flurry of blows.
 
-<779hp 41ma 104mv> 1299279142 15 -12.4 +10 raining+5130, 128
+\<779hp 41ma 104mv\> 1299279142 15 -12.4 +10 raining+5130, 128
 
 A fireball flies from Tembikai's weapon and lands on Tyrannosaurus rex!
 
@@ -1080,17 +1080,17 @@ Dr charges and bashes into Tyrannosaurus rex.
 
 You report 638/1293 hp. Change: -135. Need: 655. Spells: aegis, greater fluidity.
 
-<638hp 43ma 106mv> 1299284443 13 -12.4 +10 raining+5301, 132
+\<638hp 43ma 106mv\> 1299284443 13 -12.4 +10 raining+5301, 132
 
 Tembikai utters the words, 'yufzxuie'
 
-<638hp 43ma 106mv> 1299284443 12 -12.4 +10 raining+0, 0
+\<638hp 43ma 106mv\> 1299284443 12 -12.4 +10 raining+0, 0
 
 gt like now
 
 You sing another verse of 'gods of war'.
 
-<644hp 36ma 108mv> 1299284443 12 -12.4 +10 raining+0, 0
+\<644hp 36ma 108mv\> 1299284443 12 -12.4 +10 raining+0, 0
 
 flail tyr
 
@@ -1098,13 +1098,13 @@ Tembikai utters the words, 'yufzxuie'
 
 You grouptell: 'like now'
 
-<644hp 36ma 108mv> 1299284443 11 -12.4 +10 raining+0, 0
+\<644hp 36ma 108mv\> 1299284443 11 -12.4 +10 raining+0, 0
 
 You flail your weapon around you in a flurry of motion in Tyrannosaurus rex's direction!
 
 You catch Tyrannosaurus rex in a flurry of blows.
 
-<646hp 37ma 109mv> 1299287419 11 -12.4 +10 raining+2976, 74
+\<646hp 37ma 109mv\> 1299287419 11 -12.4 +10 raining+2976, 74
 
 Tyrannosaurus rex impales herself on thorns round Dr!
 
@@ -1134,19 +1134,19 @@ Norks utters the words, 'euguihzofahz'
 
 You report 458/1293 hp. Change: -180. Need: 835. Spells: aegis, greater fluidity.
 
-<458hp 37ma 109mv> 1299296059 8 -12.4 +10 raining+8640, 216
+\<458hp 37ma 109mv\> 1299296059 8 -12.4 +10 raining+8640, 216
 
 Dr charges and bashes into Tyrannosaurus rex.
 
-<460hp 37ma 109mv> 1299296059 8 -12.4 +10 raining+0, 0
+\<460hp 37ma 109mv\> 1299296059 8 -12.4 +10 raining+0, 0
 
 Tembikai utters the words, 'yufzxuie'
 
-<462hp 38ma 110mv> 1299296059 7 -12.4 +10 raining+0, 0
+\<462hp 38ma 110mv\> 1299296059 7 -12.4 +10 raining+0, 0
 
 Norks utters the words, 'euguihzofahz'
 
-<464hp 39ma 111mv> 1299296059 6 -12.4 +10 raining+0, 0
+\<464hp 39ma 111mv\> 1299296059 6 -12.4 +10 raining+0, 0
 
 TICK IN 10 SECONDS.
 
@@ -1188,13 +1188,13 @@ You brutally massacre Tyrannosaurus rex with your slash.
 
 You have been KILLED!! 
 
-Lie still; you are DEAD!!! :-( 
+Lie still; you are DEAD!!! <img src="/images/smilies/icon_e_sad.svg" alt=":-(" title=":-(" width="15" height="15" class="smiley nozoom"> 
 
-<-13hp 39ma 112mv> 1299313311 - -7.9 +10 raining+17252, 431
+\<-13hp 39ma 112mv\> 1299313311 - -7.9 +10 raining+17252, 431
 
 You feel yourself floating upward...
 
-<-13hp 39ma 112mv> 1299313311 - -7.9 +10 raining+0, 0
+\<-13hp 39ma 112mv\> 1299313311 - -7.9 +10 raining+0, 0
 
 The 'resist webs' spell on you is about to wear off.
 
@@ -1204,25 +1204,25 @@ The 'resist webs' spell on you is about to wear off.
 
 Ezekiel appears in the middle of the room.
 
-<1074hp 655ma 400mv> 20031351585 - 5.6 +1 overcast+0, 0
+\<1074hp 655ma 400mv\> 20031351585 - 5.6 +1 overcast+0, 0
 
 A dwarven citizen leaves north.
 
-<1074hp 655ma 400mv> 20031351585 - 5.6 +1 overcast+0, 0
+\<1074hp 655ma 400mv\> 20031351585 - 5.6 +1 overcast+0, 0
 
 Ezekiel raises his hands to the sky, his body shudders, but nothing happens.
 
-<1074hp 655ma 400mv> 20031351585 - 5.6 +1 overcast+0, 0
+\<1074hp 655ma 400mv\> 20031351585 - 5.6 +1 overcast+0, 0
 
 Ezekiel raises his hands to the sky and slowly turns into a small brown ferret (Ezekiel)!
 
-<1074hp 655ma 400mv> 20031351585 - 5.6 +1 overcast+0, 0
+\<1074hp 655ma 400mv\> 20031351585 - 5.6 +1 overcast+0, 0
 
 Sledgehammer utters the words, 'eabratizgg'
 
 A cloud of inky darkness envelops Sledgehammer.
 
-<1074hp 655ma 400mv> 20031351585 - 5.6 +1 overcast+0, 0
+\<1074hp 655ma 400mv\> 20031351585 - 5.6 +1 overcast+0, 0
 
 The sun slowly disappears in the west.
 
@@ -1234,17 +1234,17 @@ You are hungry.
 
 You are thirsty.
 
-<1074hp 655ma 400mv> 20031351585 - 5.6 +1 overcast+0, 0
+\<1074hp 655ma 400mv\> 20031351585 - 5.6 +1 overcast+0, 0
 
 Saving Taron.
 
 Saving items.
 
-<1074hp 655ma 400mv> 20031351585 - 5.6 +1 overcast+0, 0
+\<1074hp 655ma 400mv\> 20031351585 - 5.6 +1 overcast+0, 0
 
 Ezekiel appears in the middle of the room.
 
-<1074hp 655ma 400mv> 20031351585 - 5.6 +1 overcast+0, 0
+\<1074hp 655ma 400mv\> 20031351585 - 5.6 +1 overcast+0, 0
 
 Ezekiel gets a cactus needle from the corpse of Ezekiel.
 
@@ -1306,11 +1306,11 @@ Ezekiel gets a pink invitation from the corpse of Ezekiel.
 
 Ezekiel gets a golden sack from the corpse of Ezekiel.
 
-<1074hp 655ma 400mv> 20031351585 - 5.6 +1 overcast+0, 0
+\<1074hp 655ma 400mv\> 20031351585 - 5.6 +1 overcast+0, 0
 
 Ragnar Stoneforge arrives from the south.
 
-<1074hp 655ma 400mv> 20031351585 - 5.6 +1 overcast+0, 0
+\<1074hp 655ma 400mv\> 20031351585 - 5.6 +1 overcast+0, 0
 
 A dwarven caravan leader arrives from the east.
 
@@ -1318,11 +1318,11 @@ A mountain pack mule arrives from the east.
 
 A mountain pack mule arrives from the east.
 
-<1074hp 655ma 400mv> 20031351585 - 5.6 +1 overcast+0, 0
+\<1074hp 655ma 400mv\> 20031351585 - 5.6 +1 overcast+0, 0
 
 Ragnar Stoneforge leaves east.
 
-<1074hp 655ma 400mv> 20031351585 - 5.6 +1 overcast+0, 0
+\<1074hp 655ma 400mv\> 20031351585 - 5.6 +1 overcast+0, 0
 
 A dwarven caravan leader leaves north.
 
@@ -1330,11 +1330,11 @@ A mountain pack mule leaves north.
 
 A mountain pack mule leaves north.
 
-<1074hp 655ma 400mv> 20031351585 - 5.6 +1 overcast+0, 0
+\<1074hp 655ma 400mv\> 20031351585 - 5.6 +1 overcast+0, 0
 
 An armored man leaves east.
 
-<1074hp 655ma 400mv> 20031351585 - 5.6 +1 overcast+0, 0
+\<1074hp 655ma 400mv\> 20031351585 - 5.6 +1 overcast+0, 0
 
 Chopak says 'You didn't think I'd find you here, did you Ezekiel?'
 
@@ -1348,7 +1348,7 @@ Chopak says 'I'll be taking whats owed to me now.'
 
 A dwarven scout grabs Ezekiel's coin purse and disappears into the mountains.
 
-<1074hp 655ma 400mv> 20031351585 - 5.6 +1 overcast+0, 0
+\<1074hp 655ma 400mv\> 20031351585 - 5.6 +1 overcast+0, 0
 
 TICK IN 10 SECONDS.
 
@@ -1360,15 +1360,15 @@ Saving Taron.
 
 Saving items.
 
-<1074hp 655ma 400mv> 20031351585 - 5.6 +1 overcast+0, 0
+\<1074hp 655ma 400mv\> 20031351585 - 5.6 +1 overcast+0, 0
 
 Ozzy gossips-- 'Ezekiel is dead or morted somewhere!'
 
-<1074hp 655ma 400mv> 20031351585 - 5.6 +1 overcast+0, 0
+\<1074hp 655ma 400mv\> 20031351585 - 5.6 +1 overcast+0, 0
 
 Ezekiel has reconnected.
 
-<1074hp 655ma 400mv> 20031351585 - 5.6 +1 overcast+0, 0
+\<1074hp 655ma 400mv\> 20031351585 - 5.6 +1 overcast+0, 0
 
 The night has begun.
 
@@ -1380,25 +1380,25 @@ You are hungry.
 
 You are thirsty.
 
-<1074hp 655ma 400mv> 20031351585 - 5.6 +1 overcast+0, 0
+\<1074hp 655ma 400mv\> 20031351585 - 5.6 +1 overcast+0, 0
 
 Saving Taron.
 
 Saving items.
 
-<1074hp 655ma 400mv> 20031351585 - 5.6 +1 overcast+0, 0
+\<1074hp 655ma 400mv\> 20031351585 - 5.6 +1 overcast+0, 0
 
 Sledgehammer drinks from a decanter of endless water.
 
-<1074hp 655ma 400mv> 20031351585 - 5.6 +1 overcast+0, 0
+\<1074hp 655ma 400mv\> 20031351585 - 5.6 +1 overcast+0, 0
 
 The press gang leader arrives from the south.
 
-<1074hp 655ma 400mv> 20031351585 - 5.6 +1 overcast+0, 0
+\<1074hp 655ma 400mv\> 20031351585 - 5.6 +1 overcast+0, 0
 
 The press gang leader leaves north.
 
-<1074hp 655ma 400mv> 20031351585 - 5.6 +1 overcast+0, 0
+\<1074hp 655ma 400mv\> 20031351585 - 5.6 +1 overcast+0, 0
 
 TICK IN 10 SECONDS.
 
@@ -1408,13 +1408,13 @@ Saving Taron.
 
 Saving items.
 
-<1074hp 655ma 400mv> 20031351585 - 5.6 +1 overcast+0, 0
+\<1074hp 655ma 400mv\> 20031351585 - 5.6 +1 overcast+0, 0
 
 You are hungry.
 
 You are thirsty.
 
-<1074hp 655ma 400mv> 20031351585 - 5.6 +1 overcast+0, 0
+\<1074hp 655ma 400mv\> 20031351585 - 5.6 +1 overcast+0, 0
 
 TICK IN 10 SECONDS.
 
@@ -1424,17 +1424,17 @@ Saving Taron.
 
 Saving items.
 
-<1074hp 655ma 400mv> 20031351585 - 5.6 +1 overcast+0, 0
+\<1074hp 655ma 400mv\> 20031351585 - 5.6 +1 overcast+0, 0
 
 Ragnar Stoneforge arrives from the east.
 
-<1074hp 655ma 400mv> 20031351585 - 5.6 +1 overcast+0, 0
+\<1074hp 655ma 400mv\> 20031351585 - 5.6 +1 overcast+0, 0
 
 You are hungry.
 
 You are thirsty.
 
-<1074hp 655ma 400mv> 20031351585 - 5.6 +1 overcast+0, 0
+\<1074hp 655ma 400mv\> 20031351585 - 5.6 +1 overcast+0, 0
 
 A dwarven caravan leader arrives from the west.
 
@@ -1442,11 +1442,11 @@ A mountain pack mule arrives from the west.
 
 A mountain pack mule arrives from the west.
 
-<1074hp 655ma 400mv> 20031351585 - 5.6 +1 overcast+0, 0
+\<1074hp 655ma 400mv\> 20031351585 - 5.6 +1 overcast+0, 0
 
 Ragnar Stoneforge leaves west.
 
-<1074hp 655ma 400mv> 20031351585 - 5.6 +1 overcast+0, 0
+\<1074hp 655ma 400mv\> 20031351585 - 5.6 +1 overcast+0, 0
 
 A dwarven caravan leader leaves south.
 
@@ -1454,15 +1454,15 @@ A mountain pack mule leaves south.
 
 A mountain pack mule leaves south.
 
-<1074hp 655ma 400mv> 20031351585 - 5.6 +1 overcast+0, 0
+\<1074hp 655ma 400mv\> 20031351585 - 5.6 +1 overcast+0, 0
 
 A disreputable dwarf arrives from the north.
 
-<1074hp 655ma 400mv> 20031351585 - 5.6 +1 overcast+0, 0
+\<1074hp 655ma 400mv\> 20031351585 - 5.6 +1 overcast+0, 0
 
 An armored man arrives from the east.
 
-<1074hp 655ma 400mv> 20031351585 - 5.6 +1 overcast+0, 0
+\<1074hp 655ma 400mv\> 20031351585 - 5.6 +1 overcast+0, 0
 
 TICK IN 10 SECONDS.
 
@@ -1472,37 +1472,37 @@ Saving Taron.
 
 Saving items.
 
-<1074hp 655ma 400mv> 20031351585 - 5.6 +1 overcast+0, 0
+\<1074hp 655ma 400mv\> 20031351585 - 5.6 +1 overcast+0, 0
 
 You are hungry.
 
 You are thirsty.
 
-<1074hp 655ma 400mv> 20031351585 - 5.6 +1 overcast+0, 0
+\<1074hp 655ma 400mv\> 20031351585 - 5.6 +1 overcast+0, 0
 
 A dwarven citizen arrives from the north.
 
-<1074hp 655ma 400mv> 20031351585 - 5.6 +1 overcast+0, 0
+\<1074hp 655ma 400mv\> 20031351585 - 5.6 +1 overcast+0, 0
 
 A dwarven kid arrives from the west.
 
-<1074hp 655ma 400mv> 20031351585 - 5.6 +1 overcast+0, 0
+\<1074hp 655ma 400mv\> 20031351585 - 5.6 +1 overcast+0, 0
 
 Sledgehammer utters the words, 'ofzahzf yrjueuhl'
 
 Sledgehammer's body mass slowly changes from solid to gelatinous.
 
-<1074hp 655ma 400mv> 20031351585 - 5.6 +1 overcast+0, 0
+\<1074hp 655ma 400mv\> 20031351585 - 5.6 +1 overcast+0, 0
 
 Sledgehammer utters the words, 'eabratizgg'
 
 A cloud of inky darkness envelops Sledgehammer.
 
-<1074hp 655ma 400mv> 20031351585 - 5.6 +1 overcast+0, 0
+\<1074hp 655ma 400mv\> 20031351585 - 5.6 +1 overcast+0, 0
 
 A disreputable dwarf leaves east.
 
-<1074hp 655ma 400mv> 20031351585 - 5.6 +1 overcast+0, 0
+\<1074hp 655ma 400mv\> 20031351585 - 5.6 +1 overcast+0, 0
 
 TICK IN 10 SECONDS.
 
@@ -1512,7 +1512,7 @@ Saving Taron.
 
 Saving items.
 
-<1074hp 655ma 400mv> 20031351585 - 5.6 +1 overcast+0, 0
+\<1074hp 655ma 400mv\> 20031351585 - 5.6 +1 overcast+0, 0
 
 Your blood freezes as you hear Ezekiel's death cry.
 
@@ -1520,7 +1520,7 @@ You are hungry.
 
 You are thirsty.
 
-<1074hp 655ma 400mv> 20031351585 - 5.6 +1 overcast+0, 0
+\<1074hp 655ma 400mv\> 20031351585 - 5.6 +1 overcast+0, 0
 
 A dwarven kid gets a yellow diamond necklace from inside a golden sack.
 
@@ -1534,15 +1534,15 @@ A hate-filled soldier vanishes in a burning wind.
 
 @@
 
-<721hp 15ma 96mv> 6673067182 415571 18 -12.5 -9 indoors+13200 330 +0
+\<721hp 15ma 96mv\> 6673067182 415571 18 -12.5 -9 indoors+13200 330 +0
 
 Impossible to use this so soon after a successful second wind!!!
 
-<723hp 16ma 97mv> 6673067182 415571 18 -12.5 -9 indoors+0 0 +0
+\<723hp 16ma 97mv\> 6673067182 415571 18 -12.5 -9 indoors+0 0 +0
 
 cast 'disint'
 
-<727hp 18ma 98mv> 6673067182 415571 18 -12.5 -9 indoors+0 0 +0
+\<727hp 18ma 98mv\> 6673067182 415571 18 -12.5 -9 indoors+0 0 +0
 
 Ok.
 
@@ -1550,7 +1550,7 @@ A piece of a hate-filled soldir is turned into dust.
 
 @@
 
-<730hp 18ma 99mv> 6673072702 415571 15 -12.5 -9 indoors+5520 138 +0
+\<730hp 18ma 99mv\> 6673072702 415571 15 -12.5 -9 indoors+5520 138 +0
 
 A hate-filled undead soldier misses you with his slash.
 
@@ -1570,23 +1570,23 @@ You massacre a hate-filled undead soldier to small fragments with your slash.
 
 You report 435/1370 hp. Change: -286. Need: 935. Spells: aegis, greater fluidity.
 
-<435hp 18ma 99mv> 6673077334 415571 12 -12.5 -9 indoors+4632 115 +0
+\<435hp 18ma 99mv\> 6673077334 415571 12 -12.5 -9 indoors+4632 115 +0
 
 Impossible to use this so soon after a successful second wind!!!
 
-<435hp 18ma 99mv> 6673077334 415571 12 -12.5 -9 indoors+0 0 +0
+\<435hp 18ma 99mv\> 6673077334 415571 12 -12.5 -9 indoors+0 0 +0
 
 The 'darkness' spell on you is about to wear off.
 
-gt \c05Aegis\c03 down!
+gt \\c05Aegis\\c03 down!
 
-gt \c05Aegis\c03 down!
+gt \\c05Aegis\\c03 down!
 
-<437hp 19ma 100mv> 6673077334 415571 12 -12.5 -9 indoors+0 0 +0
+\<437hp 19ma 100mv\> 6673077334 415571 12 -12.5 -9 indoors+0 0 +0
 
-<443hp 21ma 102mv> 6673077334 415571 12 -12.5 -9 indoors+0 0 +0
+\<443hp 21ma 102mv\> 6673077334 415571 12 -12.5 -9 indoors+0 0 +0
 
-<443hp 21ma 102mv> 6673077334 415571 12 -12.5 -9 indoors+0 0 +0
+\<443hp 21ma 102mv\> 6673077334 415571 12 -12.5 -9 indoors+0 0 +0
 
 You weave the threads of magic masterfully!
 
@@ -1594,17 +1594,17 @@ A piece of a hate-filled soldir is turned into dust.
 
 @@
 
-<443hp 21ma 102mv> 6673087604 415571 7 -12.5 -9 indoors+10270 256 +0
+\<443hp 21ma 102mv\> 6673087604 415571 7 -12.5 -9 indoors+10270 256 +0
 
 With a mighty effort, you shake off your exhaustion!
 
-<445hp 22ma 88mv> 6673087604 415571 7 -12.5 -9 indoors+0 0 +0
+\<445hp 22ma 88mv\> 6673087604 415571 7 -12.5 -9 indoors+0 0 +0
 
 cast 'disint'
 
 You grouptell: 'Aegis down!'
 
-<445hp 22ma 88mv> 6673087604 415571 7 -12.5 -9 indoors+0 0 +0
+\<445hp 22ma 88mv\> 6673087604 415571 7 -12.5 -9 indoors+0 0 +0
 
 You are viciously massacred by a hate-filled undead soldier's slash.
 
@@ -1626,15 +1626,15 @@ You wish that your wounds would stop BLEEDING that much!
 
 You have been KILLED!! 
 
-<-43hp 22ma 88mv> 6673087604 415571 - -8.0 -9 indoors+0 0 +0
+\<-43hp 22ma 88mv\> 6673087604 415571 - -8.0 -9 indoors+0 0 +0
 
-Lie still; you are DEAD!!! :-(
+Lie still; you are DEAD!!! <img src="/images/smilies/icon_e_sad.svg" alt=":-(" title=":-(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="36945" data-author="Teron" data-date="2016-05-30T20:24:03+00:00" data-subject="Re: Your afternoon chuckle">
 
-Neptune has enabled all bonuses, except nocap, chop and gems. Thanks,  Neptune!.
+Neptune has enabled all bonuses, except nocap, chop and gems. Thanks, Neptune!.
 
 It is 2 o'clock am, on the Day of the Bull
 
@@ -1714,23 +1714,23 @@ The wisdom of a long forgotten god shines down upon Lyme.
 
 [ pri sec ter qua qui hex sep oct ] Players
 
------------------------------------
+\-----------------------------------
 
-[      *Hierarch*  Cl:9.40        ] Zuzu ::LeMuRs:: has a penchant to be droll
+[ \*Hierarch\* Cl:9.40 ] Zuzu ::LeMuRs:: has a penchant to be droll
 
-[     *Grand Druid*  Dr:9.40      ] Dr has an moleh moleh mole
+[ \*Grand Druid\* Dr:9.40 ] Dr has an moleh moleh mole
 
-[     *Juggernaut*  Wa:8.35       ] Taron let's rock & roll
+[ \*Juggernaut\* Wa:8.35 ] Taron let's rock \& roll
 
-[     *Hierophant*  Cl:5.38       ] Prescience has an empty bowl
+[ \*Hierophant\* Cl:5.38 ] Prescience has an empty bowl
 
-[ 40o 39d 39c 39m|25n 29w 20t 15b ] Dingo sitting on the Knoll
+[ 40o 39d 39c 39m\|25n 29w 20t 15b ] Dingo sitting on the Knoll
 
-[ 20c 20m 20n 10b| 6w  5d  4o  3t ] Whatta has a purple scroll
+[ 20c 20m 20n 10b\| 6w 5d 4o 3t ] Whatta has a purple scroll
 
-[ 18w 12m  9c  5d| 6n  3t  4o  3b ] Mus has a tired soul.
+[ 18w 12m 9c 5d\| 6n 3t 4o 3b ] Mus has a tired soul.
 
-[ 14d 12t 10m  8w| 6b  4o  2c  1n ] Unmace has a critical role
+[ 14d 12t 10m 8w\| 6b 4o 2c 1n ] Unmace has a critical role
 
 </div>
 
@@ -1738,7 +1738,7 @@ The wisdom of a long forgotten god shines down upon Lyme.
 
 We tried to kill Pale Night today, and she killed us all. Twice.
 
-<1187hp 524ma 365mv> 5733312089 2727951 26 -10.1 -4 storm+0 0 +0
+\<1187hp 524ma 365mv\> 5733312089 2727951 26 -10.1 -4 storm+0 0 +0
 
 You deal a critical blow to one of Pale Night, the Demon Mother's vital organs.
 
@@ -1780,53 +1780,53 @@ You witness the unimaginable terror that is Pale Night, the Demon Mother and fee
 
 You have been KILLED!!
 
-<-95hp 524ma 365mv> 5733319543 2727951 - -6.1 -4 storm+7454 186 +0
+\<-95hp 524ma 365mv\> 5733319543 2727951 - -6.1 -4 storm+7454 186 +0
 
 Lie still; you are DEAD!!!
 
-<-95hp 524ma 365mv> 5733319543 2727951 - -6.1 -4 stormLie still; you are DEAD!!!
+\<-95hp 524ma 365mv\> 5733319543 2727951 - -6.1 -4 stormLie still; you are DEAD!!!
 
-<-95hp 524ma 365mv> 5733319543 2727951 - -6.1 -4 storm
+\<-95hp 524ma 365mv\> 5733319543 2727951 - -6.1 -4 storm
 
-<-95hp 524ma 365mv> 5733319543 2727951 - -6.1 -4 storm+0 0 +0
+\<-95hp 524ma 365mv\> 5733319543 2727951 - -6.1 -4 storm+0 0 +0
 
-<-95hp 524ma 365mv> 5733319543 2727951 - -6.1 -4 stormLie still; you are DEAD!!!
+\<-95hp 524ma 365mv\> 5733319543 2727951 - -6.1 -4 stormLie still; you are DEAD!!!
 
-<-95hp 524ma 365mv> 5733319543 2727951 - -6.1 -4 storm+0 0 +0
+\<-95hp 524ma 365mv\> 5733319543 2727951 - -6.1 -4 storm+0 0 +0
 
 group
 
 Group 'exp, open' is led by Taron and consists of:
 
-   (Dead)            Taron [Wa:8.36  -95hp 524ma 365mv] jet/black onyx
+ (Dead) Taron [Wa:8.36 -95hp 524ma 365mv] jet/black onyx
 
-   (Dead)              Sam [Wa:5.33 -423hp 379ma 395mv] jacinth/tjade
+ (Dead) Sam [Wa:5.33 -423hp 379ma 395mv] jacinth/tjade
 
-   (Dead)            Feist [Wa:6.32 -3588hp 459ma 368mv] e-flame enea food quest poop
+ (Dead) Feist [Wa:6.32 -3588hp 459ma 368mv] e-flame enea food quest poop
 
-   (Dead)          Reality [Th:7.32  -55hp 350ma 481mv] rhodo/avent
+ (Dead) Reality [Th:7.32 -55hp 350ma 481mv] rhodo/avent
 
-   (Dead)             Arya [Wa:4.31 -1284hp 180ma 356mv] Emerald|regularRuby
+ (Dead) Arya [Wa:4.31 -1284hp 180ma 356mv] Emerald\|regularRuby
 
-   (Dead)               Dr [Dr:9.40  -68hp 976ma 415mv] Rhodo . GYT
+ (Dead) Dr [Dr:9.40 -68hp 976ma 415mv] Rhodo . GYT
 
-   (Dead)           Lysbel [Ma:3.32 -550hp 646ma 155mv] tourmaline & eye agate
+ (Dead) Lysbel [Ma:3.32 -550hp 646ma 155mv] tourmaline \& eye agate
 
-   (Dead)            Gorka [Wa:0.36 -1456hp 210ma 254mv] amethyest/obsidian baphomet
+ (Dead) Gorka [Wa:0.36 -1456hp 210ma 254mv] amethyest/obsidian baphomet
 
-   (Dead)            Dingo [Mo:2.39 -533hp 383ma 144mv] alex | SB Pearl
+ (Dead) Dingo [Mo:2.39 -533hp 383ma 144mv] alex \| SB Pearl
 
-   (Dead)       Ciphersoft [Cl:5.20 -683hp 648ma 286mv] GWDiamond LBIolite
+ (Dead) Ciphersoft [Cl:5.20 -683hp 648ma 286mv] GWDiamond LBIolite
 
-   (Dead)             Elyn [Ba:0.33 -1172hp 318ma 192mv] citrine|crysoberyl
+ (Dead) Elyn [Ba:0.33 -1172hp 318ma 192mv] citrine\|crysoberyl
 
-   (Dead)            Lurch [Cl:4.26  -44hp 489ma 283mv] ---
+ (Dead) Lurch [Cl:4.26 -44hp 489ma 283mv] ---
 
-   (Dead)           Fluffy [Dr:9.40 -2141hp 765ma 356mv] GY topaz / tiger eye
+ (Dead) Fluffy [Dr:9.40 -2141hp 765ma 356mv] GY topaz / tiger eye
 
-   (Dead)            Norks [Cl:8.27 -1094hp 675ma 341mv] sapphire, champ pearl
+ (Dead) Norks [Cl:8.27 -1094hp 675ma 341mv] sapphire, champ pearl
 
-<1284hp 269ma 365mv> 5733319543 2727951 - -12.1 -3 raining+0 0 +0
+\<1284hp 269ma 365mv\> 5733319543 2727951 - -12.1 -3 raining+0 0 +0
 
 Dingo's hammer shudders as he strikes Pale Night, the Demon Mother!
 
@@ -1896,7 +1896,7 @@ You have been KILLED!!
 
 Lie still; you are DEAD!!! 
 
-Then Breeze told us to leave her alone :(
+Then Breeze told us to leave her alone <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -1904,7 +1904,7 @@ Then Breeze told us to leave her alone :(
 
 You grouptell: 'Sooochiii'
 
-<1383hp 221ma 276mv> 11749080404 1446571 66 -12.5 -3 raining+0 0 +0
+\<1383hp 221ma 276mv\> 11749080404 1446571 66 -12.5 -3 raining+0 0 +0
 
 You massacre a petrified tree to small fragments with your slash.
 
@@ -1940,17 +1940,17 @@ You massacre a petrified tree to small fragments with your slash.
 
 You massacre a petrified tree to small fragments with your slash.
 
-<1383hp 221ma 277mv> 11749085516 1446571 36 -12.5 -3 raining+5112 127 +0
+\<1383hp 221ma 277mv\> 11749085516 1446571 36 -12.5 -3 raining+5112 127 +0
 
 Ip -- 'Sochi suicided'
 
-<1383hp 222ma 278mv> 11749085516 1446571 36 -12.5 -3 raining+0 0 +0
+\<1383hp 222ma 278mv\> 11749085516 1446571 36 -12.5 -3 raining+0 0 +0
 
 gt save us
 
 You grouptell: 'save us'
 
-<1383hp 223ma 279mv> 11749085516 1446571 36 -12.5 -3 raining+0 0 +0
+\<1383hp 223ma 279mv\> 11749085516 1446571 36 -12.5 -3 raining+0 0 +0
 
 gt well
 
@@ -1982,17 +1982,17 @@ The Mage Lord Bazg screams in agony as red tendrils of mist infuse his body.
 
 You report 1407/1499 hp. Change: +143. Need: 92. Spells: aegis, wraithform, greater fluidity.
 
-<1407hp 415ma 289mv> 1677339216 745758 99 -14.5 +9 overcast+3380 84 +0
+\<1407hp 415ma 289mv\> 1677339216 745758 99 -14.5 +9 overcast+3380 84 +0
 
 A mirror image of the Mage Lord Bazg wavers from existence!
 
-<1410hp 415ma 289mv> 1677339216 745758 99 -14.5 +9 overcast+0 0 +0
+\<1410hp 415ma 289mv\> 1677339216 745758 99 -14.5 +9 overcast+0 0 +0
 
 Dr has turned his attacks toward the Mage Lord Bazg!
 
 Gorka utters the words, 'blindness'
 
-<1411hp 416ma 290mv> 1677339216 745758 99 -14.5 +9 overcast+0 0 +0
+\<1411hp 416ma 290mv\> 1677339216 745758 99 -14.5 +9 overcast+0 0 +0
 
 Dr stops singing.
 
@@ -2000,11 +2000,11 @@ Dr utters the words, 'gszqhgrur gpuzre'
 
 Dr binds some nearby spectres into an undulating shield.
 
-<1411hp 416ma 290mv> 1677339216 745758 99 -14.5 +9 overcast+0 0 +0
+\<1411hp 416ma 290mv\> 1677339216 745758 99 -14.5 +9 overcast+0 0 +0
 
 A mirror image of the Mage Lord Bazg wavers from existence!
 
-<1414hp 417ma 291mv> 1677339216 745758 99 -14.5 +9 overcast+0 0 +0
+\<1414hp 417ma 291mv\> 1677339216 745758 99 -14.5 +9 overcast+0 0 +0
 
 TICK IN 10 SECONDS.
 
@@ -2020,11 +2020,11 @@ cast 'web'
 
 Who do you want to rescue?
 
-<1414hp 417ma 291mv> 1677339216 745758 99 -14.5 +9 overcast+0 0 +0
+\<1414hp 417ma 291mv\> 1677339216 745758 99 -14.5 +9 overcast+0 0 +0
 
 Who do you want to rescue?
 
-<1416hp 417ma 291mv> 1677339216 745758 99 -14.5 +9 overcast+0 0 +0
+\<1416hp 417ma 291mv\> 1677339216 745758 99 -14.5 +9 overcast+0 0 +0
 
 Tomato utters the words, 'aque bragh'
 
@@ -2034,7 +2034,7 @@ Saving Taron.
 
 Saving items.
 
-<1416hp 417ma 291mv> 1677339216 745758 99 -14.5 +9 overcastYou skillfully parry the attack of the Mage Lord Bazg.
+\<1416hp 417ma 291mv\> 1677339216 745758 99 -14.5 +9 overcastYou skillfully parry the attack of the Mage Lord Bazg.
 
 Your riposte viciously massacres the Mage Lord Bazg.
 
@@ -2050,7 +2050,7 @@ The Mage Lord Bazg's blow passes right through you with no effect!
 
 The Mage Lord Bazg disengages himself, and attacks Dr!
 
-|
+\|
 
 rescue Dr
 
@@ -2068,21 +2068,21 @@ Dr swings his weapon, accidentally cutting your head off!
 
 You have been KILLED!! 
 
-Lie still; you are DEAD!!! :-( 
+Lie still; you are DEAD!!! <img src="/images/smilies/icon_e_sad.svg" alt=":-(" title=":-(" width="15" height="15" class="smiley nozoom"> 
 
-<-63hp 417ma 291mv> 1677341264 745758 - -10.0 +9 overcast+2048 51 +0
+\<-63hp 417ma 291mv\> 1677341264 745758 - -10.0 +9 overcast+2048 51 +0
 
-Lie still; you are DEAD!!! :-( 
+Lie still; you are DEAD!!! <img src="/images/smilies/icon_e_sad.svg" alt=":-(" title=":-(" width="15" height="15" class="smiley nozoom"> 
 
-<-63hp 417ma 291mv> 1677341264 745758 - -10.0 +9 overcast+0 0 +0
+\<-63hp 417ma 291mv\> 1677341264 745758 - -10.0 +9 overcast+0 0 +0
 
-Lie still; you are DEAD!!! :-( 
+Lie still; you are DEAD!!! <img src="/images/smilies/icon_e_sad.svg" alt=":-(" title=":-(" width="15" height="15" class="smiley nozoom"> 
 
-<-63hp 417ma 291mv> 1677341264 745758 - -10.0 +9 overcast+0 0 +0
+\<-63hp 417ma 291mv\> 1677341264 745758 - -10.0 +9 overcast+0 0 +0
 
 Dr -- 'flex'
 
-<-63hp 417ma 291mv> 1677341264 745758 - -10.0 +9 overcast+0 0 +0
+\<-63hp 417ma 291mv\> 1677341264 745758 - -10.0 +9 overcast+0 0 +0
 
 The sun slowly disappears in the west.
 
@@ -2092,15 +2092,15 @@ save
 
 You feel yourself floating upward...
 
-<-63hp 417ma 291mv> 1677341264 745758 - -10.0 +9 overcast+0 0 +0
+\<-63hp 417ma 291mv\> 1677341264 745758 - -10.0 +9 overcast+0 0 +0
 
-Lie still; you are DEAD!!! :-( 
+Lie still; you are DEAD!!! <img src="/images/smilies/icon_e_sad.svg" alt=":-(" title=":-(" width="15" height="15" class="smiley nozoom"> 
 
-<-63hp 417ma 291mv> 1677341264 745758 - -10.0 +9 overcast+0 0 +0
+\<-63hp 417ma 291mv\> 1677341264 745758 - -10.0 +9 overcast+0 0 +0
 
 Vege -- 'tank linx ?'
 
-<-63hp 417ma 291mv> 1677341264 745758 - -10.0 +9 overcast+0 0 +0
+\<-63hp 417ma 291mv\> 1677341264 745758 - -10.0 +9 overcast+0 0 +0
 
 Dr -- 'RUN BOYS'
 
@@ -2108,9 +2108,9 @@ Dr -- 'RUN BOYS'
 
 <div class="post" data-post-id="36963" data-author="Teron" data-date="2016-06-16T23:43:55+00:00" data-subject="Re: Your afternoon chuckle">
 
-<1272hp 897ma 342mv> 2038920235 748871 - -14.5 +9 indoors+0 0 +0
+\<1272hp 897ma 342mv\> 2038920235 748871 - -14.5 +9 indoors+0 0 +0
 
-Your sanctuary spell has come to a premature end!  But grieve not, brave adventurer.
+Your sanctuary spell has come to a premature end! But grieve not, brave adventurer.
 
 You start glowing brightly!
 
@@ -2120,11 +2120,11 @@ You have been fully healed by Splork.
 
 You report 1438/1438 hp. Change: +192. Need: 0. Spells: aegis, greater fluidity.
 
-<1438hp 653ma 373mv> 2038920235 748871 - -14.5 +9 indoors+0 0 +0
+\<1438hp 653ma 373mv\> 2038920235 748871 - -14.5 +9 indoors+0 0 +0
 
 gt gone
 
-P.S. I'm not complaining, just highlighting an event. Thanks for the lite :)
+P.S. I'm not complaining, just highlighting an event. Thanks for the lite <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -2132,7 +2132,7 @@ P.S. I'm not complaining, just highlighting an event. Thanks for the lite :)
 
 You grouptell: 'hanku these are nostab'
 
-<1177hp 330ma 346mv> 10194748092 6162976 78 -14.5 +9 indoors+0 0 +0
+\<1177hp 330ma 346mv\> 10194748092 6162976 78 -14.5 +9 indoors+0 0 +0
 
 You skillfully parry the attack of a smilodon elder.
 
@@ -2152,17 +2152,17 @@ You massacre a smilodon elder to small fragments with your slash.
 
 You report 1027/1326 hp. Change: -141. Need: 299. Spells: aegis, greater fluidity.
 
-<1027hp 331ma 347mv> 10194765331 6162976 76 -14.5 +9 indoors+17239 430 +0
+\<1027hp 331ma 347mv\> 10194765331 6162976 76 -14.5 +9 indoors+17239 430 +0
 
 gt just enjoy the ride
 
 You grouptell: 'just enjoy the ride'
 
-<1033hp 332ma 348mv> 10194765331 6162976 76 -14.5 +9 indoors+0 0 +0
+\<1033hp 332ma 348mv\> 10194765331 6162976 76 -14.5 +9 indoors+0 0 +0
 
 Sochi begins to play 'brothers in valor' on a pine and yew lute.
 
-<1033hp 332ma 348mv> 10194765331 6162976 76 -14.5 +9 indoors+0 0 +0
+\<1033hp 332ma 348mv\> 10194765331 6162976 76 -14.5 +9 indoors+0 0 +0
 
 You skillfully parry the attack of a smilodon elder.
 
@@ -2182,7 +2182,7 @@ A smilodon elder lashes out with his fiery whip!
 
 You cry out in pain as a smilodon elder burns you.
 
-<986hp 333ma 350mv> 10194781789 6162976 74 -14.5 +9 indoors+16458 411 +0
+\<986hp 333ma 350mv\> 10194781789 6162976 74 -14.5 +9 indoors+16458 411 +0
 
 gt i warned you it'd be deadly and boring
 
@@ -2206,15 +2206,15 @@ You viciously massacre a smilodon elder with your cleave.
 
 You massacre a smilodon elder to small fragments with your slash.
 
-<999hp 336ma 353mv> 10194905690 6162976 65 -14.5 +9 indoors+123901 3097 +0
+\<999hp 336ma 353mv\> 10194905690 6162976 65 -14.5 +9 indoors+123901 3097 +0
 
 You grouptell: 'i warned you it'd be deadly and boring'
 
-<999hp 336ma 353mv> 10194905690 6162976 65 -14.5 +9 indoors+0 0 +0
+\<999hp 336ma 353mv\> 10194905690 6162976 65 -14.5 +9 indoors+0 0 +0
 
 You say 'Now let's see if you have something else other than limbs!'
 
-<1002hp 337ma 354mv> 10194905690 6162976 65 -14.5 +9 indoors+0 0 +0
+\<1002hp 337ma 354mv\> 10194905690 6162976 65 -14.5 +9 indoors+0 0 +0
 
 A smilodon elder misses you with his claw.
 
@@ -2232,17 +2232,17 @@ You massacre a smilodon elder to small fragments with your slash.
 
 You massacre a smilodon elder to small fragments with your slash.
 
-<1011hp 339ma 356mv> 10194912946 6162976 64 -14.5 +9 indoors+7256 181 +0
+\<1011hp 339ma 356mv\> 10194912946 6162976 64 -14.5 +9 indoors+7256 181 +0
 
 bas
 
-Sochi -- '** Mob blindness has fallen. **'
+Sochi -- '\*\* Mob blindness has fallen. \*\*'
 
 You charge and bash into a smilodon elder.
 
 A smilodon elder stumbles but regains his balance.
 
-<1020hp 341ma 358mv> 10194913261 6162976 64 -14.5 +9 indoors+315 7 +0
+\<1020hp 341ma 358mv\> 10194913261 6162976 64 -14.5 +9 indoors+315 7 +0
 
 Gorka cuts a limb off of a smilodon elder!!!!
 
@@ -2264,11 +2264,11 @@ You massacre a smilodon elder to small fragments with your slash.
 
 You report 833/1326 hp. Change: -194. Need: 493. Spells: aegis, greater fluidity.
 
-<833hp 342ma 359mv> 10194933565 6162976 47 -14.5 +9 indoors+20304 507 +0
+\<833hp 342ma 359mv\> 10194933565 6162976 47 -14.5 +9 indoors+20304 507 +0
 
 Sochi utters the words, 'aque bragh'
 
-<833hp 342ma 359mv> 10194933565 6162976 47 -14.5 +9 indoors+0 0 +0
+\<833hp 342ma 359mv\> 10194933565 6162976 47 -14.5 +9 indoors+0 0 +0
 
 Crumbs utters the words, 'candusghafahuai'
 
@@ -2276,7 +2276,7 @@ The cleansing fires of healing fill your body!
 
 You report 1230/1326 hp. Change: +397. Need: 96. Spells: aegis, greater fluidity.
 
-<1230hp 342ma 359mv> 10194933565 6162976 47 -14.5 +9 indoors+0 0 +0
+\<1230hp 342ma 359mv\> 10194933565 6162976 47 -14.5 +9 indoors+0 0 +0
 
 You skillfully parry the attack of a smilodon elder.
 
@@ -2304,7 +2304,7 @@ Sochi -- 'what an odd combo'
 
 You report 1091/1326 hp. Change: -139. Need: 235. Spells: greater fluidity, aegis.
 
-<1091hp 344ma 362mv> 10194940521 6162976 45 -14.5 +9 indoors+6956 173 +0
+\<1091hp 344ma 362mv\> 10194940521 6162976 45 -14.5 +9 indoors+6956 173 +0
 
 TICK IN 10 SECONDS.
 
@@ -2316,7 +2316,7 @@ Saving Taron.
 
 Saving items.
 
-<1100hp 346ma 364mv> 10194940521 6162976 45 -14.5 +9 indoors+0 0 +0
+\<1100hp 346ma 364mv\> 10194940521 6162976 45 -14.5 +9 indoors+0 0 +0
 
 A smilodon elder misses you with his claw.
 
@@ -2338,13 +2338,13 @@ Sochi -- 'Hankunaku seems to be DEAD!'
 
 You report 950/1326 hp. Change: -141. Need: 376. Spells: greater fluidity, aegis.
 
-<950hp 347ma 366mv> 10194946628 6162976 29 -14.5 +9 indoors+6107 152 +0
+\<950hp 347ma 366mv\> 10194946628 6162976 29 -14.5 +9 indoors+6107 152 +0
 
 gt see
 
 You grouptell: 'see'
 
-<950hp 347ma 366mv> 10194946628 6162976 29 -14.5 +9 indoors+0 0 +0
+\<950hp 347ma 366mv\> 10194946628 6162976 29 -14.5 +9 indoors+0 0 +0
 
 Crumbs utters the words, 'candusghafahuai'
 
@@ -2352,15 +2352,15 @@ The cleansing fires of healing fill your body!
 
 You report 1326/1326 hp. Change: +376. Need: 0. Spells: greater fluidity, aegis.
 
-<1326hp 348ma 366mv> 10194946628 6162976 29 -14.5 +9 indoors+0 0 +0
+\<1326hp 348ma 366mv\> 10194946628 6162976 29 -14.5 +9 indoors+0 0 +0
 
 Ellus -- 'deadly'
 
-<1326hp 348ma 367mv> 10194946628 6162976 29 -14.5 +9 indoors+0 0 +0
+\<1326hp 348ma 367mv\> 10194946628 6162976 29 -14.5 +9 indoors+0 0 +0
 
 Sochi -- 'giggle'
 
-<1326hp 349ma 368mv> 10194946628 6162976 29 -14.5 +9 indoors+0 0 +0
+\<1326hp 349ma 368mv\> 10194946628 6162976 29 -14.5 +9 indoors+0 0 +0
 
 Crumbs shows his approval by clapping his small hands together.
 
@@ -2400,7 +2400,7 @@ Whiff gets The Full Moon Glyph from the corpse of an acid golem that's on the gr
 
 Whiff gets gold coins from the corpse of an acid golem that's on the ground.
 
-Whiff splits 6883 coins.  Your share is 1147 coins.
+Whiff splits 6883 coins. Your share is 1147 coins.
 
 R,
 
@@ -2410,7 +2410,7 @@ Dr
 
 <div class="post" data-post-id="36969" data-author="*Breeze*" data-date="2016-06-22T15:52:55+00:00" data-subject="Re: Your afternoon chuckle">
 
-> **Ker wrote:**
+> <strong>Ker wrote:</strong>
 > Now this, is another level!
 > 
 > 
@@ -2445,7 +2445,7 @@ Dr
 > 
 > Whiff gets gold coins from the corpse of an acid golem that's on the ground.
 > 
-> Whiff splits 6883 coins.  Your share is 1147 coins.
+> Whiff splits 6883 coins. Your share is 1147 coins.
 > 
 > 
 > 
@@ -2453,7 +2453,7 @@ Dr
 > 
 > Dr
 
-what i wanted to do is set surf as outlaw/rat and see if he is as good as he thinks he is and can escape everyone on the mud trying to get him :)
+what i wanted to do is set surf as outlaw/rat and see if he is as good as he thinks he is and can escape everyone on the mud trying to get him <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 sadly he didn't show until i was already gone.
 
@@ -2463,7 +2463,7 @@ also, i am not a drunkard.
 
 <div class="post" data-post-id="36996" data-author="Teron" data-date="2016-06-28T06:02:22+00:00" data-subject="Re: Your afternoon chuckle">
 
-<1174hp 454ma 359mv> 281297065 244968 - -14.5 -1 indoors+0 0 +0
+\<1174hp 454ma 359mv\> 281297065 244968 - -14.5 -1 indoors+0 0 +0
 
 A lava maul titan misses Stun with his hit.
 
@@ -2491,11 +2491,11 @@ point
 
 parry on
 
-gt I'm tanking, heal me <-
+gt I'm tanking, heal me \<-
 
 gt Taron is tanking now
 
-<1178hp 456ma 361mv> 281297065 244968 - -14.5 -1 indoors+0 0 +0
+\<1178hp 456ma 361mv\> 281297065 244968 - -14.5 -1 indoors+0 0 +0
 
 A lava maul titan sees Ishara, and ATTACKS!
 
@@ -2505,49 +2505,49 @@ rescue Ishara
 
 Ip -- 'Gorka chopped Stun'
 
-<1178hp 456ma 361mv> 281297065 244968 - -14.5 -1 indoors+0 0 +0
+\<1178hp 456ma 361mv\> 281297065 244968 - -14.5 -1 indoors+0 0 +0
 
 Sam reports 1241/1339 hp. Change: +485. Need: 98. Spells: aegis, greater fluidity.
 
 Sam -- 'Sam is tanking!!!! HEAL'
 
-<1179hp 457ma 362mv> 281297065 244968 - -14.5 -1 indoors+0 0 +0
+\<1179hp 457ma 362mv\> 281297065 244968 - -14.5 -1 indoors+0 0 +0
 
 You turn your attacks toward a lava maul titan.
 
-<1179hp 457ma 362mv> 281297065 244968 72 -14.5 -1 indoors+0 0 +0
+\<1179hp 457ma 362mv\> 281297065 244968 72 -14.5 -1 indoors+0 0 +0
 
 You're already obliterating your target!
 
-<1179hp 457ma 362mv> 281297065 244968 72 -14.5 -1 indoorsYou're already obliterating your target!
+\<1179hp 457ma 362mv\> 281297065 244968 72 -14.5 -1 indoorsYou're already obliterating your target!
 
-<1181hp 458ma 363mv> 281297065 244968 72 -14.5 -1 indoors+0 0 +0
+\<1181hp 458ma 363mv\> 281297065 244968 72 -14.5 -1 indoors+0 0 +0
 
 You're already obliterating your target!
 
-<1181hp 458ma 363mv> 281297065 244968 72 -14.5 -1 indoors
+\<1181hp 458ma 363mv\> 281297065 244968 72 -14.5 -1 indoors
 
-<1181hp 458ma 363mv> 281297065 244968 72 -14.5 -1 indoors+0 0 +0
+\<1181hp 458ma 363mv\> 281297065 244968 72 -14.5 -1 indoors+0 0 +0
 
-Auto_report mode is now on.
+Auto\_report mode is now on.
 
 You report 1181/1328 hp. Change: +60. Need: 147. Spells: aegis, greater fluidity.
 
-<1181hp 458ma 363mv> 281297065 244968 72 -14.5 -1 indoorsDuring combat, you must use rescue.
+\<1181hp 458ma 363mv\> 281297065 244968 72 -14.5 -1 indoorsDuring combat, you must use rescue.
 
-<1184hp 458ma 364mv> 281297065 244968 72 -14.5 -1 indoors+0 0 +0
+\<1184hp 458ma 364mv\> 281297065 244968 72 -14.5 -1 indoors+0 0 +0
 
 Parry mode is now on.
 
-<1184hp 458ma 364mv> 281297065 244968 72 -14.5 -1 indoorsYou grouptell: 'I'm tanking, heal me <-'
+\<1184hp 458ma 364mv\> 281297065 244968 72 -14.5 -1 indoorsYou grouptell: 'I'm tanking, heal me \<-'
 
-<1184hp 458ma 364mv> 281297065 244968 72 -14.5 -1 indoors+0 0 +0
+\<1184hp 458ma 364mv\> 281297065 244968 72 -14.5 -1 indoors+0 0 +0
 
 You grouptell: 'Taron is tanking now'
 
-<1184hp 458ma 364mv> 281297065 244968 72 -14.5 -1 indoorsBanzai! To the rescue...
+\<1184hp 458ma 364mv\> 281297065 244968 72 -14.5 -1 indoorsBanzai! To the rescue...
 
-<1186hp 459ma 365mv> 281297065 244968 72 -14.5 -1 indoors+0 0 +0
+\<1186hp 459ma 365mv\> 281297065 244968 72 -14.5 -1 indoors+0 0 +0
 
 rescue ish
 
@@ -2557,7 +2557,7 @@ Sam reports 1248/1339 hp. Change: +7. Need: 91. Spells: aegis, greater fluidity.
 
 But nobody is fighting her?
 
-<1186hp 459ma 365mv> 281297065 244968 72 -14.5 -1 indoorsA lava maul titan misses you with his claw.
+\<1186hp 459ma 365mv\> 281297065 244968 72 -14.5 -1 indoorsA lava maul titan misses you with his claw.
 
 A lava maul titan misses you with his slash.
 
@@ -2575,25 +2575,25 @@ Gorka wildly swings a curved sacrificial knife, and accidentally cuts off Sam's 
 
 Sam is dead! R.I.P.
 
-<1186hp 459ma 365mv> 281301759 244968 70 -14.5 -1 indoors+4694 117 +0
+\<1186hp 459ma 365mv\> 281301759 244968 70 -14.5 -1 indoors+4694 117 +0
 
 Ip -- 'Gorka chopped Sam'
 
 But nobody is fighting her?
 
-<1188hp 460ma 366mv> 281301759 244968 70 -14.5 -1 indoors+0 0 +0
+\<1188hp 460ma 366mv\> 281301759 244968 70 -14.5 -1 indoors+0 0 +0
 
 But nobody is fighting her?
 
-<1188hp 460ma 366mv> 281301759 244968 70 -14.5 -1 indoors+0 0 +0
+\<1188hp 460ma 366mv\> 281301759 244968 70 -14.5 -1 indoors+0 0 +0
 
 Crumbs -- 'haha'
 
-<1191hp 462ma 368mv> 281301759 244968 70 -14.5 -1 indoors+0 0 +0
+\<1191hp 462ma 368mv\> 281301759 244968 70 -14.5 -1 indoors+0 0 +0
 
 Dr -- 'rofl'
 
-<1193hp 463ma 369mv> 281301759 244968 70 -14.5 -1 indoors+0 0 +0
+\<1193hp 463ma 369mv\> 281301759 244968 70 -14.5 -1 indoors+0 0 +0
 
 gt saaaam
 
@@ -2617,7 +2617,7 @@ A lava maul titan unleashes a deadly blast of freezing cold!
 
 A hail of ice and snow flys from a lava maul titan's hand!
 
-ARRGH!  Your body is stiffened by an ice ray, sent by a lava maul titan.
+ARRGH! Your body is stiffened by an ice ray, sent by a lava maul titan.
 
 Dr resists a great deal of the damage.
 
@@ -2629,7 +2629,7 @@ Hankunaku resists a bit of damage.
 
 You report 931/1328 hp. Change: -250. Need: 397. Spells: greater fluidity, aegis.
 
-<931hp 463ma 370mv> 281305332 244968 68 -14.5 -1 indoors+3573 89 +0
+\<931hp 463ma 370mv\> 281305332 244968 68 -14.5 -1 indoors+3573 89 +0
 
 You grouptell: 'saaaam'
 
@@ -2641,11 +2641,11 @@ The cleansing fires of healing fill your body!
 
 You report 1301/1328 hp. Change: +370. Need: 27. Spells: aegis, greater fluidity.
 
-<1301hp 463ma 370mv> 281305332 244968 68 -14.5 -1 indoors+0 0 +0
+\<1301hp 463ma 370mv\> 281305332 244968 68 -14.5 -1 indoors+0 0 +0
 
 With a mighty effort, you shake off your exhaustion!
 
-<1304hp 464ma 356mv> 281305332 244968 68 -14.5 -1 indoors+0 0 +0
+\<1304hp 464ma 356mv\> 281305332 244968 68 -14.5 -1 indoors+0 0 +0
 
 gt gorka
 
@@ -2659,13 +2659,13 @@ And this is how General Gorka works with his sacrificial knife. Beware of him in
 
 You tell Dr 'crap, assassins want me dead in mh'
 
-<205hp 46ma 179mv> 12130275461 983056 - -12.5 +9 indoors+0 0 +0
+\<205hp 46ma 179mv\> 12130275461 983056 - -12.5 +9 indoors+0 0 +0
 
 res
 
 You sit down and rest your tired bones.
 
-<209hp 48ma 181mv> 12130275461 983056 - -12.5 +9 indoors+0 0 +0
+\<209hp 48ma 181mv\> 12130275461 983056 - -12.5 +9 indoors+0 0 +0
 
 The temple guard arrives from the west.
 
@@ -2675,7 +2675,7 @@ The temple guard's stab bounces off your heavy armor.
 
 You wish that your wounds would stop BLEEDING that much!
 
-<226hp 51ma 185mv> 12130275461 983056 100 -12.5 +9 indoors+0 0 +0
+\<226hp 51ma 185mv\> 12130275461 983056 100 -12.5 +9 indoors+0 0 +0
 
 You are brutally massacred by the temple guard's stab.
 
@@ -2703,7 +2703,7 @@ You wish that your wounds would stop BLEEDING that much!
 
 You report 93/1328 hp. Change: -113. Need: 1235. Spells: aegis.
 
-<93hp 52ma 185mv> 12130279383 983056 83 -12.5 +9 indoors+3922 98 +0
+\<93hp 52ma 185mv\> 12130279383 983056 83 -12.5 +9 indoors+3922 98 +0
 
 cast 'firewind'
 
@@ -2713,15 +2713,15 @@ The temple guard vanishes in a burning wind.
 
 @@
 
-<96hp 27ma 186mv> 12130281267 983056 63 -12.5 +9 indoors+1884 47 +0
+\<96hp 27ma 186mv\> 12130281267 983056 63 -12.5 +9 indoors+1884 47 +0
 
 With a mighty effort, you shake off your exhaustion!
 
-<96hp 27ma 171mv> 12130281267 983056 63 -12.5 +9 indoors+0 0 +0
+\<96hp 27ma 171mv\> 12130281267 983056 63 -12.5 +9 indoors+0 0 +0
 
-**Dr tells you 'you tuff, don't worry!'**
+<strong>Dr tells you 'you tuff, don't worry!'</strong>
 
-<99hp 28ma 172mv> 12130281267 983056 63 -12.5 +9 indoors+0 0 +0
+\<99hp 28ma 172mv\> 12130281267 983056 63 -12.5 +9 indoors+0 0 +0
 
 quaf green
 
@@ -2739,11 +2739,11 @@ Nothing seems to happen.
 
 You report 418/1328 hp. Change: +325. Need: 910. Spells: aegis.
 
-<418hp 28ma 173mv> 12130293947 983056 63 -12.5 +9 indoors+12680 317 +0
+\<418hp 28ma 173mv\> 12130293947 983056 63 -12.5 +9 indoors+12680 317 +0
 
 Impossible to use this so soon after a successful second wind!!!
 
-<421hp 29ma 173mv> 12130293947 983056 63 -12.5 +9 indoors+0 0 +0
+\<421hp 29ma 173mv\> 12130293947 983056 63 -12.5 +9 indoors+0 0 +0
 
 The temple guard misses you with his stab.
 
@@ -2761,11 +2761,11 @@ You brutally massacre the temple guard with your slash.
 
 The temple guard wipes his boots in your face.
 
-<413hp 30ma 174mv> 12130304334 983056 34 -12.5 +9 indoors+10387 259 +0
+\<413hp 30ma 174mv\> 12130304334 983056 34 -12.5 +9 indoors+10387 259 +0
 
 cast 'firewind'
 
-<422hp 31ma 176mv> 12130304334 983056 34 -12.5 +9 indoors+0 0 +0
+\<422hp 31ma 176mv\> 12130304334 983056 34 -12.5 +9 indoors+0 0 +0
 
 Ok.
 
@@ -2773,11 +2773,11 @@ The temple guard vanishes in a burning wind.
 
 @@
 
-<422hp 6ma 176mv> 12130310179 983056 14 -12.5 +9 indoors+5845 146 +0
+\<422hp 6ma 176mv\> 12130310179 983056 14 -12.5 +9 indoors+5845 146 +0
 
 With a mighty effort, you shake off your exhaustion!
 
-<425hp 7ma 162mv> 12130310179 983056 14 -12.5 +9 indoors+0 0 +0
+\<425hp 7ma 162mv\> 12130310179 983056 14 -12.5 +9 indoors+0 0 +0
 
 You skillfully parry the attack of the temple guard.
 
@@ -2805,9 +2805,9 @@ Stun leaves north.
 
 Wooden Doors
 
-Exits: East  South  West  
+Exits: East South West 
 
-Stun ~Dragonsworn~ is standing here.(Brilliant Blue Aura) 
+Stun \~Dragonsworn\~ is standing here.(Brilliant Blue Aura) 
 
 Stun glows with a very faint light!
 
@@ -2833,65 +2833,65 @@ Dingo walks through the door with an obvious sense of relief.
 
 Ellus walks through the door with an obvious sense of relief.
 
-<1311hp 403ma 401mv> 24251871117 1171293 - -10.9 +2 overcast+0 0 +0
+\<1311hp 403ma 401mv\> 24251871117 1171293 - -10.9 +2 overcast+0 0 +0
 
 group
 
 The 'improved haste' spell on you is about to wear off.
 
-<1313hp 404ma 401mv> 24251871117 1171293 - -10.9 +2 overcast+0 0 +0
+\<1313hp 404ma 401mv\> 24251871117 1171293 - -10.9 +2 overcast+0 0 +0
 
 Stun heroically rescues Ip.
 
 assist Stun
 
-<1313hp 404ma 401mv> 24251871117 1171293 - -10.9 +2 overcastStun reports 1234/1581 hp. Change: +110. Need: 347. Spells: aegis, greater fluidity.
+\<1313hp 404ma 401mv\> 24251871117 1171293 - -10.9 +2 overcastStun reports 1234/1581 hp. Change: +110. Need: 347. Spells: aegis, greater fluidity.
 
 Group 'Taron's Distinguished Corps' is led by Taron and consists of:
 
- (Ldr/Ft)            Taron [Wa:8.39 1313hp 404ma 401mv] tomb jade/eye agate           
+ (Ldr/Ft) Taron [Wa:8.39 1313hp 404ma 401mv] tomb jade/eye agate 
 
-  (Point)             Stun [Wa:9.40 1234hp 571ma 423mv] B.Onyx | Jet | 2458           
+ (Point) Stun [Wa:9.40 1234hp 571ma 423mv] B.Onyx \| Jet \| 2458 
 
-  (Front)             Arya [Wa:4.35 1333hp 195ma 373mv] Emerald|Ruby                  
+ (Front) Arya [Wa:4.35 1333hp 195ma 373mv] Emerald\|Ruby 
 
-  (Front)            Dingo [Mo:2.39  840hp 549ma 232mv] SB Pearl | Tourm              
+ (Front) Dingo [Mo:2.39 840hp 549ma 232mv] SB Pearl \| Tourm 
 
-  (Front)               Ip [Mo:9.40 1180hp 576ma 413mv] Avent | V Garnet              
+ (Front) Ip [Mo:9.40 1180hp 576ma 413mv] Avent \| V Garnet 
 
-  (Front)            Gorka [Wa:0.39 1019hp 186ma 335mv] amethyst/csapphire roberts hat
+ (Front) Gorka [Wa:0.39 1019hp 186ma 335mv] amethyst/csapphire roberts hat
 
-                     Ellus [Cl:0.39  758hp 492ma 215mv] GYT|Azurite                   
+ Ellus [Cl:0.39 758hp 492ma 215mv] GYT\|Azurite 
 
-                        Dr [Dr:9.40 1055hp 1116ma 322mv] Sruby. Rhodo                  
+ Dr [Dr:9.40 1055hp 1116ma 322mv] Sruby. Rhodo 
 
-                      Suna [Dr:8.29  878hp 976ma 398mv] gy topaz                      
+ Suna [Dr:8.29 878hp 976ma 398mv] gy topaz 
 
-                   Ezekiel [Ma:8.19  854hp 390ma 362mv] ---
+ Ezekiel [Ma:8.19 854hp 390ma 362mv] ---
 
-                     Norks [Cl:8.31 1071hp 835ma 342mv] tourma, sapphire              
+ Norks [Cl:8.31 1071hp 835ma 342mv] tourma, sapphire 
 
-                      Odin [Wa:0.20  545hp 123ma 301mv] jacinth                       
+ Odin [Wa:0.20 545hp 123ma 301mv] jacinth 
 
-<1313hp 404ma 401mv> 24251871117 1171293 - -10.9 +2 overcast+0 0 +0
+\<1313hp 404ma 401mv\> 24251871117 1171293 - -10.9 +2 overcast+0 0 +0
 
 You sing another verse of 'echolocation'.
 
 A dormouse hates your guts!
 
-You didn't utter the warcry!  That wasn't very sporting...
+You didn't utter the warcry! That wasn't very sporting...
 
 You brutally massacre a dormouse with your cleave.
 
-<1315hp 400ma 401mv> 24251872106 1171293 71 -10.9 +2 overcast+989 24 +0
+\<1315hp 400ma 401mv\> 24251872106 1171293 71 -10.9 +2 overcast+989 24 +0
 
 Ellus drinks from a sapphire qwevri.
 
-<1315hp 400ma 401mv> 24251872106 1171293 60 -10.9 +2 overcast+0 0 +0
+\<1315hp 400ma 401mv\> 24251872106 1171293 60 -10.9 +2 overcast+0 0 +0
 
 Dr begins to sing 'echolocation'.
 
-<1317hp 401ma 401mv> 24251872106 1171293 50 -10.9 +2 overcast+0 0 +0
+\<1317hp 401ma 401mv\> 24251872106 1171293 50 -10.9 +2 overcast+0 0 +0
 
 As you swing your weapon, it slips and slices through Dingo's neck!
 
@@ -2907,23 +2907,23 @@ A dormouse panics, and attempts to flee.
 
 A dormouse leaves east.
 
-<1317hp 401ma 401mv> 24251935301 1171293 - -10.9 +2 overcast+63195 1579 +0
+\<1317hp 401ma 401mv\> 24251935301 1171293 - -10.9 +2 overcast+63195 1579 +0
 
 cast 'firewind'
 
 Stun reports 1081/1581 hp. Change: -153. Need: 500. Spells: aegis, greater fluidity.
 
-<1317hp 401ma 401mv> 24251935301 1171293 - -10.9 +2 overcast+0 0 +0
+\<1317hp 401ma 401mv\> 24251935301 1171293 - -10.9 +2 overcast+0 0 +0
 
 Dr stops singing.
 
 Dr utters the words, 'judicandus nose'
 
-<1322hp 403ma 399mv> 24251935301 1171293 - -10.9 +2 overcast+0 0 +0
+\<1322hp 403ma 399mv\> 24251935301 1171293 - -10.9 +2 overcast+0 0 +0
 
 Who should the spell be cast upon?
 
-<1323hp 403ma 398mv> 24251935301 1171293 - -10.9 +2 overcast+0 0 +0
+\<1323hp 403ma 398mv\> 24251935301 1171293 - -10.9 +2 overcast+0 0 +0
 
 Ip -- 'Taron chopped Dingo'
 
@@ -2945,25 +2945,25 @@ There were 20771 coins.
 
 5192 g/sec
 
-You split 20771 coins.  You keep 2599 coins.
+You split 20771 coins. You keep 2599 coins.
 
-<1192hp 520ma 375mv> 33289550626 795239 - -9.2 +10 indoors+4637435 115935 +2599
+\<1192hp 520ma 375mv\> 33289550626 795239 - -9.2 +10 indoors+4637435 115935 +2599
 
 You do not see a gem here.
 
-<1193hp 521ma 376mv> 33289550626 795239 - -9.2 +10 indoors+0 0 +0
+\<1193hp 521ma 376mv\> 33289550626 795239 - -9.2 +10 indoors+0 0 +0
 
 Stun -- 'target --'
 
-<1196hp 522ma 378mv> 33289550626 795239 - -9.2 +10 indoors+0 0 +0
+\<1196hp 522ma 378mv\> 33289550626 795239 - -9.2 +10 indoors+0 0 +0
 
 Stun -- 'nice'
 
-<1197hp 523ma 379mv> 33289550626 795239 - -9.2 +10 indoors+0 0 +0
+\<1197hp 523ma 379mv\> 33289550626 795239 - -9.2 +10 indoors+0 0 +0
 
 You sing another verse of 'gods of war'.
 
-<1200hp 516ma 380mv> 33289550626 795239 - -9.2 +10 indoors+0 0 +0
+\<1200hp 516ma 380mv\> 33289550626 795239 - -9.2 +10 indoors+0 0 +0
 
 gt gorka's
 
@@ -2971,61 +2971,61 @@ Suna utters the words, 'candusgugh xzbg'
 
 Suna's body briefly glows with an iridescent sheen.
 
-<1201hp 517ma 381mv> 33289550626 795239 - -9.2 +10 indoors+0 0 +0
+\<1201hp 517ma 381mv\> 33289550626 795239 - -9.2 +10 indoors+0 0 +0
 
 You grouptell: 'gorka's'
 
-<1201hp 517ma 381mv> 33289550626 795239 - -9.2 +10 indoors+0 0 +0
+\<1201hp 517ma 381mv\> 33289550626 795239 - -9.2 +10 indoors+0 0 +0
 
 Gorka shivers uncomfortably.
 
-<1203hp 517ma 382mv> 33289550626 795239 - -9.2 +10 indoors+0 0 +0
+\<1203hp 517ma 382mv\> 33289550626 795239 - -9.2 +10 indoors+0 0 +0
 
 group
 
 Group 'exp' is led by Sam and consists of:
 
- (Ldr/Ft)              Sam [Wa:5.33 1236hp 574ma 336mv] jacinth/jet                   
+ (Ldr/Ft) Sam [Wa:5.33 1236hp 574ma 336mv] jacinth/jet 
 
-  (Point)             Stun [Wa:9.40 1441hp 358ma 452mv] B.Onyx | Jet | 7079           
+ (Point) Stun [Wa:9.40 1441hp 358ma 452mv] B.Onyx \| Jet \| 7079 
 
-  (Front)            Taron [Wa:8.39 1204hp 518ma 383mv] eye agate/tomb jade           
+ (Front) Taron [Wa:8.39 1204hp 518ma 383mv] eye agate/tomb jade 
 
-                        Dr [Dr:9.40 1055hp 1322ma 293mv] SRuby.GYT                     
+ Dr [Dr:9.40 1055hp 1322ma 293mv] SRuby.GYT 
 
-                      Suna [Dr:8.30  949hp 474ma 405mv] ---
+ Suna [Dr:8.30 949hp 474ma 405mv] ---
 
-                        Ip [Mo:9.40 1190hp 654ma 407mv] ---
+ Ip [Mo:9.40 1190hp 654ma 407mv] ---
 
-                     Gorka [Wa:1.39 1064hp 315ma 271mv] amethyst/csapphire            
+ Gorka [Wa:1.39 1064hp 315ma 271mv] amethyst/csapphire 
 
-                     Risky [Th:4.39 1018hp 436ma 482mv] ---
+ Risky [Th:4.39 1018hp 436ma 482mv] ---
 
-<1204hp 518ma 383mv> 33289550626 795239 - -9.2 +10 indoors+0 0 +0
+\<1204hp 518ma 383mv\> 33289550626 795239 - -9.2 +10 indoors+0 0 +0
 
-<1204hp 518ma 383mv> 33289550626 795239 - -9.2 +10 indoors+0 0 +0
+\<1204hp 518ma 383mv\> 33289550626 795239 - -9.2 +10 indoors+0 0 +0
 
 Dr -- 'defintely gorka's'
 
-<1208hp 520ma 386mv> 33289550626 795239 - -9.2 +10 indoors+0 0 +0
+\<1208hp 520ma 386mv\> 33289550626 795239 - -9.2 +10 indoors+0 0 +0
 
-<1209hp 523ma 389mv> 33289550626 795239 - -9.2 +10 indoors+0 0 +0
+\<1209hp 523ma 389mv\> 33289550626 795239 - -9.2 +10 indoors+0 0 +0
 
 gt got wheel sam?
 
 You grouptell: 'got wheel sam?'
 
-<1209hp 524ma 391mv> 33289550626 795239 - -9.2 +10 indoors+0 0 +0
+\<1209hp 524ma 391mv\> 33289550626 795239 - -9.2 +10 indoors+0 0 +0
 
 Dr -- 'don't bother wheeling'
 
-<1209hp 520ma 395mv> 33289550626 795239 - -9.2 +10 indoors+0 0 +0
+\<1209hp 520ma 395mv\> 33289550626 795239 - -9.2 +10 indoors+0 0 +0
 
 nod
 
 You nod solemnly.
 
-<1209hp 522ma 370mv> 33289550626 795239 - -9.2 +10 indoors+0 0 +0
+\<1209hp 522ma 370mv\> 33289550626 795239 - -9.2 +10 indoors+0 0 +0
 
 Stun stops singing.
 
@@ -3033,57 +3033,51 @@ Stun utters the words, 'darkness'
 
 A cloud of inky darkness envelops Stun.
 
-<1209hp 523ma 371mv> 33289550626 795239 - -9.2 +10 indoors+0 0 +0
+\<1209hp 523ma 371mv\> 33289550626 795239 - -9.2 +10 indoors+0 0 +0
 
 Sam gets a wheel of opportunity from a golden sack.
 
 Ok.
 
-<1209hp 523ma 372mv> 33289550626 795239 - -9.2 +10 indoors+0 0 +0
+\<1209hp 523ma 372mv\> 33289550626 795239 - -9.2 +10 indoors+0 0 +0
 
 Dr says 'spin low'
 
-<1209hp 523ma 372mv> 33289550626 795239 - -9.2 +10 indoors+0 0 +0
-
- 
+\<1209hp 523ma 372mv\> 33289550626 795239 - -9.2 +10 indoors+0 0 +0
 
 Sam spins the wheel of opportunity.
 
- 
+For Sam the wheel of opportunity spins 384.
 
-For        Sam the wheel of opportunity spins 384.
+For Risky the wheel of opportunity spins 313.
 
-For      Risky the wheel of opportunity spins 313.
+For Gorka the wheel of opportunity spins 446.
 
-For      Gorka the wheel of opportunity spins 446.
+For Ip the wheel of opportunity spins 346.
 
-For         Ip the wheel of opportunity spins 346.
+For Suna the wheel of opportunity spins 139.
 
-For       Suna the wheel of opportunity spins 139.
+For Stun the wheel of opportunity spins 283.
 
-For       Stun the wheel of opportunity spins 283.
+For Dr the wheel of opportunity spins 260.
 
-For         Dr the wheel of opportunity spins 260.
-
-For      Taron the wheel of opportunity spins 117.
-
- 
+For Taron the wheel of opportunity spins 117.
 
 The winner is Gorka with 446.
 
-<1209hp 524ma 373mv> 33289550626 795239 - -9.2 +10 indoors+0 0 +0
+\<1209hp 524ma 373mv\> 33289550626 795239 - -9.2 +10 indoors+0 0 +0
 
 Dr falls down laughing.
 
-<1209hp 526ma 375mv> 33289550626 795239 - -9.2 +10 indoors+0 0 +0
+\<1209hp 526ma 375mv\> 33289550626 795239 - -9.2 +10 indoors+0 0 +0
 
 Dr falls down laughing.
 
-<1209hp 527ma 376mv> 33289550626 795239 - -9.2 +10 indoors+0 0 +0
+\<1209hp 527ma 376mv\> 33289550626 795239 - -9.2 +10 indoors+0 0 +0
 
 Sam gives a Fire Opal to Gorka.
 
-<1209hp 527ma 376mv> 33289550626 795239 - -9.2 +10 indoors+0 0 +0
+\<1209hp 527ma 376mv\> 33289550626 795239 - -9.2 +10 indoors+0 0 +0
 
 Gorka -- 'haha'
 
@@ -3107,7 +3101,7 @@ You get a Opal from Cloak of Shadows.
 
 You get a Jade from Cloak of Shadows.
 
- :roll:
+ <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -3121,27 +3115,27 @@ didn't think anyone knew about / used "spin low"
 
 Warriors being monks, Druids being monks, Bards being monks, we found a Cleric being a Warrior!
 
-**********************************************************************************************************************
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 Norks utters the words, 'azfuar gzfzaih'
 
 A fresh aerial servant of Norks descends from the sky relieving its comrade.
 
-1065/1065hp(+92) 1306/1335ma(+139) 208mv(+54)>(-3)  [AC: -0.2]  [Saurian Frontier]
+1065/1065hp(+92) 1306/1335ma(+139) 208mv(+54)\>(-3) [AC: -0.2] [Saurian Frontier]
 
-[EXP] :2,083,435,841  |  [COINS]  : 682,056   [storm]  [+15 | +10] [MOB] :-   [TIME] : 7 AM
+[EXP] :2,083,435,841 \| [COINS] : 682,056 [storm] [+15 \| +10] [MOB] :- [TIME] : 7 AM
 
 You grouptell: 'warcry us Norks'
 
-1065/1065hp(+92) 1308/1335ma(+139) 209mv(+54)>(-3)  [AC: -0.2]  [Saurian Frontier]
+1065/1065hp(+92) 1308/1335ma(+139) 209mv(+54)\>(-3) [AC: -0.2] [Saurian Frontier]
 
-[EXP] :2,083,435,841  |  [COINS]  : 682,056   [storm]  [+15 | +10] [MOB] :-   [TIME] : 7 AM
+[EXP] :2,083,435,841 \| [COINS] : 682,056 [storm] [+15 \| +10] [MOB] :- [TIME] : 7 AM
 
 Vege -- 'target anky'
 
-1065/1065hp(+92) 1310/1335ma(+139) 210mv(+54)>(-3)  [AC: -0.2]  [Saurian Frontier]
+1065/1065hp(+92) 1310/1335ma(+139) 210mv(+54)\>(-3) [AC: -0.2] [Saurian Frontier]
 
-[EXP] :2,083,435,841  |  [COINS]  : 682,056   [storm]  [+15 | +10] [MOB] :-   [TIME] : 7 AM
+[EXP] :2,083,435,841 \| [COINS] : 682,056 [storm] [+15 \| +10] [MOB] :- [TIME] : 7 AM
 
 Hildr the valkyrie leaves with him.
 
@@ -3149,29 +3143,29 @@ You follow Vege.
 
 The Abandoned Nest
 
-Exits: South  West  Down  
+Exits: South West Down 
 
 You see Suna, Norks (with Hildr the valkyrie), Sam, Vege, and Stun here.
 
-1065/1065hp(+92) 1310/1335ma(+139) 208mv(+54)>(-3)  [AC: -0.2]  [Saurian Frontier]
+1065/1065hp(+92) 1310/1335ma(+139) 208mv(+54)\>(-3) [AC: -0.2] [Saurian Frontier]
 
-[EXP] :2,083,435,841  |  [COINS]  : 682,056   [storm]  [+15 | +10] [MOB] :-   [TIME] : 7 AM
+[EXP] :2,083,435,841 \| [COINS] : 682,056 [storm] [+15 \| +10] [MOB] :- [TIME] : 7 AM
 
-#Ok. $target is now set to {anky}.
+\#Ok. $target is now set to {anky}.
 
 Stun -- 'target anky'
 
-1065/1065hp(+92) 1310/1335ma(+139) 208mv(+54)>(-3)  [AC: -0.2]  [Saurian Frontier]
+1065/1065hp(+92) 1310/1335ma(+139) 208mv(+54)\>(-3) [AC: -0.2] [Saurian Frontier]
 
-[EXP] :2,083,435,841  |  [COINS]  : 682,056   [storm]  [+15 | +10] [MOB] :-   [TIME] : 7 AM
+[EXP] :2,083,435,841 \| [COINS] : 682,056 [storm] [+15 \| +10] [MOB] :- [TIME] : 7 AM
 
 Sam utters the words, 'ofzahzf yrjueuhl'
 
 Sam's body mass slowly changes from solid to gelatinous.
 
-1065/1065hp(+92) 1310/1335ma(+139) 208mv(+54)>(-3)  [AC: -0.2]  [Saurian Frontier]
+1065/1065hp(+92) 1310/1335ma(+139) 208mv(+54)\>(-3) [AC: -0.2] [Saurian Frontier]
 
-[EXP] :2,083,435,841  |  [COINS]  : 682,056   [storm]  [+15 | +10] [MOB] :-   [TIME] : 7 AM
+[EXP] :2,083,435,841 \| [COINS] : 682,056 [storm] [+15 \| +10] [MOB] :- [TIME] : 7 AM
 
 Hildr the valkyrie leaves with him.
 
@@ -3179,57 +3173,57 @@ You follow Vege.
 
 At The Edge Of The Water
 
-Exits: East  West  Down  
+Exits: East West Down 
 
 You see Suna, Norks (with Hildr the valkyrie), Sam, Vege, and Stun here.
 
 You also see Coelophysis and ankylosaurus here.
 
-1065/1065hp(+92) 1313/1335ma(+139) 207mv(+54)>(-3)  [AC: -0.2]  [Saurian Frontier]
+1065/1065hp(+92) 1313/1335ma(+139) 207mv(+54)\>(-3) [AC: -0.2] [Saurian Frontier]
 
-[EXP] :2,083,435,841  |  [COINS]  : 682,056   [storm]  [+15 | +10] [MOB] :-   [TIME] : 7 AM
+[EXP] :2,083,435,841 \| [COINS] : 682,056 [storm] [+15 \| +10] [MOB] :- [TIME] : 7 AM
 
 Norks moves to the point position.
 
-1065/1065hp(+92) 1317/1335ma(+139) 209mv(+54)>(-3)  [AC: -0.2]  [Saurian Frontier]
+1065/1065hp(+92) 1317/1335ma(+139) 209mv(+54)\>(-3) [AC: -0.2] [Saurian Frontier]
 
-[EXP] :2,083,435,841  |  [COINS]  : 682,056   [storm]  [+15 | +10] [MOB] :-   [TIME] : 7 AM
+[EXP] :2,083,435,841 \| [COINS] : 682,056 [storm] [+15 \| +10] [MOB] :- [TIME] : 7 AM
 
 Norks yells 'TALLY HO!!'
 
-1065/1065hp(+92) 1320/1335ma(+139) 209mv(+54)>(-3)  [AC: -0.2]  [Saurian Frontier]
+1065/1065hp(+92) 1320/1335ma(+139) 209mv(+54)\>(-3) [AC: -0.2] [Saurian Frontier]
 
-[EXP] :2,083,435,841  |  [COINS]  : 682,056   [storm]  [+15 | +10] [MOB] :-   [TIME] : 7 AM
+[EXP] :2,083,435,841 \| [COINS] : 682,056 [storm] [+15 \| +10] [MOB] :- [TIME] : 7 AM
 
 Suna joins in the war-cry!
 
 Stun joins in the war-cry!
 
-1065/1065hp(+92) 1320/1335ma(+139) 209mv(+54)>(-3)  [AC: -0.2]  [Saurian Frontier]
+1065/1065hp(+92) 1320/1335ma(+139) 209mv(+54)\>(-3) [AC: -0.2] [Saurian Frontier]
 
-[EXP] :2,083,435,841  |  [COINS]  : 682,056   [storm]  [+15 | +10] [MOB] :-   [TIME] : 7 AM
+[EXP] :2,083,435,841 \| [COINS] : 682,056 [storm] [+15 \| +10] [MOB] :- [TIME] : 7 AM
 
 Sam joins in the war-cry!
 
 You join in the war-cry!
 
-1065/1065hp(+92) 1320/1335ma(+139) 209mv(+54)>(-3)  [AC: -0.2]  [Saurian Frontier]
+1065/1065hp(+92) 1320/1335ma(+139) 209mv(+54)\>(-3) [AC: -0.2] [Saurian Frontier]
 
-[EXP] :2,083,435,841  |  [COINS]  : 682,056   [storm]  [+15 | +10] [MOB] :-   [TIME] : 7 AM
+[EXP] :2,083,435,841 \| [COINS] : 682,056 [storm] [+15 \| +10] [MOB] :- [TIME] : 7 AM
 
 Sam utters the words, 'oculoinfra uizuguburuhl'
 
-1065/1065hp(+92) 1322/1335ma(+139) 210mv(+54)>(-3)  [AC: -0.2]  [Saurian Frontier]
+1065/1065hp(+92) 1322/1335ma(+139) 210mv(+54)\>(-3) [AC: -0.2] [Saurian Frontier]
 
-[EXP] :2,083,435,841  |  [COINS]  : 682,056   [storm]  [+15 | +10] [MOB] :-   [TIME] : 7 AM
+[EXP] :2,083,435,841 \| [COINS] : 682,056 [storm] [+15 \| +10] [MOB] :- [TIME] : 7 AM
 
 Vege looks at ankylosaurus.
 
 Stun -- 'tally ho!'
 
-1065/1065hp(+92) 1329/1335ma(+139) 213mv(+54)>(-3)  [AC: -0.2]  [Saurian Frontier]
+1065/1065hp(+92) 1329/1335ma(+139) 213mv(+54)\>(-3) [AC: -0.2] [Saurian Frontier]
 
-[EXP] :2,083,435,841  |  [COINS]  : 682,056   [storm]  [+15 | +10] [MOB] :-   [TIME] : 7 AM
+[EXP] :2,083,435,841 \| [COINS] : 682,056 [storm] [+15 \| +10] [MOB] :- [TIME] : 7 AM
 
 Norks utters the words, 'uqz grul'
 
@@ -3237,9 +3231,9 @@ Ankylosaurus screams in pain from the cold!
 
 A cold blue ray sent by Norks strikes ankylosaurus, stiffening his body.
 
-1065/1065hp(+92) 1333/1335ma(+139) 215mv(+54)>(-3)  [AC: -0.2]  [Saurian Frontier]
+1065/1065hp(+92) 1333/1335ma(+139) 215mv(+54)\>(-3) [AC: -0.2] [Saurian Frontier]
 
-[EXP] :2,083,435,841  |  [COINS]  : 682,056   [storm]  [+15 | +10] [MOB] :-   [TIME] : 7 AM
+[EXP] :2,083,435,841 \| [COINS] : 682,056 [storm] [+15 \| +10] [MOB] :- [TIME] : 7 AM
 
 Suna utters the words, 'ice ray'
 
@@ -3249,9 +3243,9 @@ Vege utters the words, 'uqz grul'
 
 Ankylosaurus screams in pain from the cold!
 
-1065/1065hp(+92) 1335/1335ma(+139) 217mv(+54)>(-3)  [AC: -0.2]  [Saurian Frontier]
+1065/1065hp(+92) 1335/1335ma(+139) 217mv(+54)\>(-3) [AC: -0.2] [Saurian Frontier]
 
-[EXP] :2,083,435,841  |  [COINS]  : 682,056   [storm]  [+15 | +10] [MOB] :-   [TIME] : 7 AM
+[EXP] :2,083,435,841 \| [COINS] : 682,056 [storm] [+15 \| +10] [MOB] :- [TIME] : 7 AM
 
 gt tally ho!
 
@@ -3259,9 +3253,9 @@ it
 
 You grouptell: 'tally ho!'
 
-1065/1065hp(+92) 1335/1335ma(+139) 218mv(+54)>(-3)  [AC: -0.2]  [Saurian Frontier]
+1065/1065hp(+92) 1335/1335ma(+139) 218mv(+54)\>(-3) [AC: -0.2] [Saurian Frontier]
 
-[EXP] :2,083,435,841  |  [COINS]  : 682,056   [storm]  [+15 | +10] [MOB] :-   [TIME] : 7 AM
+[EXP] :2,083,435,841 \| [COINS] : 682,056 [storm] [+15 \| +10] [MOB] :- [TIME] : 7 AM
 
 Norks massacres ankylosaurus to small fragments with his hit.
 
@@ -3309,23 +3303,23 @@ Ankylosaurus screams in pain from the cold!
 
 Your ice ray quick freezes ankylosaurus.
 
-1007/1065hp(+118) 1320/1335ma(+139) 218mv(+54)>(-3)  [AC: -0.2]  [Saurian Frontier]
+1007/1065hp(+118) 1320/1335ma(+139) 218mv(+54)\>(-3) [AC: -0.2] [Saurian Frontier]
 
-[EXP] :2,083,445,651  |  [COINS]  : 682,056   [storm]  [+15 | +10] [MOB] :65   [TIME] : 7 AM
+[EXP] :2,083,445,651 \| [COINS] : 682,056 [storm] [+15 \| +10] [MOB] :65 [TIME] : 7 AM
 
 Sam utters the words, 'uqz grul'
 
 Ankylosaurus screams in pain from the cold!
 
-1007/1065hp(+118) 1320/1335ma(+139) 218mv(+54)>(-3)  [AC: -0.2]  [Saurian Frontier]
+1007/1065hp(+118) 1320/1335ma(+139) 218mv(+54)\>(-3) [AC: -0.2] [Saurian Frontier]
 
-[EXP] :2,083,445,651  |  [COINS]  : 682,056   [storm]  [+15 | +10] [MOB] :61   [TIME] : 7 AM
+[EXP] :2,083,445,651 \| [COINS] : 682,056 [storm] [+15 \| +10] [MOB] :61 [TIME] : 7 AM
 
 Stun -- 'the famous tally ho!!'
 
-1009/1065hp(+118) 1323/1335ma(+139) 218mv(+54)>(-3)  [AC: -0.2]  [Saurian Frontier]
+1009/1065hp(+118) 1323/1335ma(+139) 218mv(+54)\>(-3) [AC: -0.2] [Saurian Frontier]
 
-[EXP] :2,083,445,651  |  [COINS]  : 682,056   [storm]  [+15 | +10] [MOB] :61   [TIME] : 7 AM
+[EXP] :2,083,445,651 \| [COINS] : 682,056 [storm] [+15 \| +10] [MOB] :61 [TIME] : 7 AM
 
 it
 
@@ -3333,9 +3327,9 @@ Suna utters the words, 'ice ray'
 
 Ankylosaurus screams in pain from the cold!
 
-1011/1065hp(+118) 1325/1335ma(+139) 219mv(+54)>(-3)  [AC: -0.2]  [Saurian Frontier]
+1011/1065hp(+118) 1325/1335ma(+139) 219mv(+54)\>(-3) [AC: -0.2] [Saurian Frontier]
 
-[EXP] :2,083,445,651  |  [COINS]  : 682,056   [storm]  [+15 | +10] [MOB] :57   [TIME] : 7 AM
+[EXP] :2,083,445,651 \| [COINS] : 682,056 [storm] [+15 \| +10] [MOB] :57 [TIME] : 7 AM
 
 it
 
@@ -3347,9 +3341,9 @@ Stun utters the words, 'uqz grul'
 
 Ankylosaurus screams in pain from the cold!
 
-1011/1065hp(+118) 1325/1335ma(+139) 219mv(+54)>(-3)  [AC: -0.2]  [Saurian Frontier]
+1011/1065hp(+118) 1325/1335ma(+139) 219mv(+54)\>(-3) [AC: -0.2] [Saurian Frontier]
 
-[EXP] :2,083,445,651  |  [COINS]  : 682,056   [storm]  [+15 | +10] [MOB] :52   [TIME] : 7 AM
+[EXP] :2,083,445,651 \| [COINS] : 682,056 [storm] [+15 \| +10] [MOB] :52 [TIME] : 7 AM
 
 it
 
@@ -3369,17 +3363,17 @@ Ankylosaurus screams in pain from the cold!
 
 Your ice ray quick freezes ankylosaurus.
 
-1013/1065hp(+118) 1312/1335ma(+139) 220mv(+54)>(-3)  [AC: -0.2]  [Saurian Frontier]
+1013/1065hp(+118) 1312/1335ma(+139) 220mv(+54)\>(-3) [AC: -0.2] [Saurian Frontier]
 
-[EXP] :2,083,509,671  |  [COINS]  : 682,056   [storm]  [+15 | +10] [MOB] :40   [TIME] : 7 AM
+[EXP] :2,083,509,671 \| [COINS] : 682,056 [storm] [+15 \| +10] [MOB] :40 [TIME] : 7 AM
 
 Sam utters the words, 'uqz grul'
 
 Ankylosaurus screams in pain from the cold!
 
-1013/1065hp(+118) 1312/1335ma(+139) 220mv(+54)>(-3)  [AC: -0.2]  [Saurian Frontier]
+1013/1065hp(+118) 1312/1335ma(+139) 220mv(+54)\>(-3) [AC: -0.2] [Saurian Frontier]
 
-[EXP] :2,083,509,671  |  [COINS]  : 682,056   [storm]  [+15 | +10] [MOB] :37   [TIME] : 7 AM
+[EXP] :2,083,509,671 \| [COINS] : 682,056 [storm] [+15 \| +10] [MOB] :37 [TIME] : 7 AM
 
 Norks hits ankylosaurus extremely hard.
 
@@ -3423,9 +3417,9 @@ Suna utters the words, 'ice ray'
 
 Ankylosaurus screams in pain from the cold!
 
-1065/1065hp(+118) 1317/1335ma(+139) 222mv(+54)>(-3)  [AC: -0.2]  [Saurian Frontier]
+1065/1065hp(+118) 1317/1335ma(+139) 222mv(+54)\>(-3) [AC: -0.2] [Saurian Frontier]
 
-[EXP] :2,083,511,972  |  [COINS]  : 682,056   [storm]  [+15 | +10] [MOB] :29   [TIME] : 7 AM
+[EXP] :2,083,511,972 \| [COINS] : 682,056 [storm] [+15 \| +10] [MOB] :29 [TIME] : 7 AM
 
 Norks utters the words, 'uqz grul'
 
@@ -3443,37 +3437,37 @@ Ankylosaurus screams in pain from the cold!
 
 Your ice ray quick freezes ankylosaurus.
 
-1065/1065hp(+118) 1304/1335ma(+139) 223mv(+54)>(-3)  [AC: -0.2]  [Saurian Frontier]
+1065/1065hp(+118) 1304/1335ma(+139) 223mv(+54)\>(-3) [AC: -0.2] [Saurian Frontier]
 
-[EXP] :2,083,567,508  |  [COINS]  : 682,056   [storm]  [+15 | +10] [MOB] :11   [TIME] : 7 AM
+[EXP] :2,083,567,508 \| [COINS] : 682,056 [storm] [+15 \| +10] [MOB] :11 [TIME] : 7 AM
 
 Sam utters the words, 'uqz grul'
 
 Ankylosaurus screams in pain from the cold!
 
-1065/1065hp(+118) 1304/1335ma(+139) 223mv(+54)>(-3)  [AC: -0.2]  [Saurian Frontier]
+1065/1065hp(+118) 1304/1335ma(+139) 223mv(+54)\>(-3) [AC: -0.2] [Saurian Frontier]
 
-[EXP] :2,083,567,508  |  [COINS]  : 682,056   [storm]  [+15 | +10] [MOB] :7   [TIME] : 7 AM
+[EXP] :2,083,567,508 \| [COINS] : 682,056 [storm] [+15 \| +10] [MOB] :7 [TIME] : 7 AM
 
 Stun utters the words, 'hpjioculof qras'
 
-1065/1065hp(+92) 1307/1335ma(+139) 224mv(+54)>(-3)  [AC: -0.2]  [Saurian Frontier]
+1065/1065hp(+92) 1307/1335ma(+139) 224mv(+54)\>(-3) [AC: -0.2] [Saurian Frontier]
 
-[EXP] :2,083,567,508  |  [COINS]  : 682,056   [storm]  [+15 | +10] [MOB] :7   [TIME] : 7 AM
+[EXP] :2,083,567,508 \| [COINS] : 682,056 [storm] [+15 \| +10] [MOB] :7 [TIME] : 7 AM
 
 Suna utters the words, 'ice ray'
 
 Ankylosaurus screams in pain from the cold!
 
-1065/1065hp(+92) 1309/1335ma(+139) 225mv(+54)>(-3)  [AC: -0.2]  [Saurian Frontier]
+1065/1065hp(+92) 1309/1335ma(+139) 225mv(+54)\>(-3) [AC: -0.2] [Saurian Frontier]
 
-[EXP] :2,083,567,508  |  [COINS]  : 682,056   [storm]  [+15 | +10] [MOB] :3   [TIME] : 7 AM
+[EXP] :2,083,567,508 \| [COINS] : 682,056 [storm] [+15 \| +10] [MOB] :3 [TIME] : 7 AM
 
 With a mighty effort, Stun shakes off his exhaustion!
 
-1065/1065hp(+118) 1309/1335ma(+139) 225mv(+54)>(-3)  [AC: -0.2]  [Saurian Frontier]
+1065/1065hp(+118) 1309/1335ma(+139) 225mv(+54)\>(-3) [AC: -0.2] [Saurian Frontier]
 
-[EXP] :2,083,567,508  |  [COINS]  : 682,056   [storm]  [+15 | +10] [MOB] :3   [TIME] : 7 AM
+[EXP] :2,083,567,508 \| [COINS] : 682,056 [storm] [+15 \| +10] [MOB] :3 [TIME] : 7 AM
 
 Norks misses ankylosaurus with his hit.
 
@@ -3533,57 +3527,57 @@ Your blood freezes as you hear ankylosaurus's death cry.
 
 Vege gets gold coins from the corpse of ankylosaurus that's on the ground.
 
-Vege splits 9607 coins.  Your share is 1601 coins.
+Vege splits 9607 coins. Your share is 1601 coins.
 
 Vege gets the ankylosaurus tail from the corpse of ankylosaurus that's on the ground.
 
 Vege gets an ash covered parchment from the corpse of ankylosaurus that's on the ground.
 
-1065/1065hp(+92) 1296/1335ma(+139) 226mv(+54)>(-3)  [AC: -0.2]  [Saurian Frontier]
+1065/1065hp(+92) 1296/1335ma(+139) 226mv(+54)\>(-3) [AC: -0.2] [Saurian Frontier]
 
-[EXP] :2,095,172,292  |  [COINS]  : 683,657   [storm]  [+15 | +10] [MOB] :-   [TIME] : 7 AM
+[EXP] :2,095,172,292 \| [COINS] : 683,657 [storm] [+15 \| +10] [MOB] :- [TIME] : 7 AM
 
 Sam reports 1309/1309 hp. Change: +25. Need: 0. Spells: aegis, greater fluidity.
 
-1065/1065hp(+92) 1301/1335ma(+139) 227mv(+54)>(-3)  [AC: -0.2]  [Saurian Frontier]
+1065/1065hp(+92) 1301/1335ma(+139) 227mv(+54)\>(-3) [AC: -0.2] [Saurian Frontier]
 
-[EXP] :2,095,172,292  |  [COINS]  : 683,657   [storm]  [+15 | +10] [MOB] :-   [TIME] : 7 AM
+[EXP] :2,095,172,292 \| [COINS] : 683,657 [storm] [+15 \| +10] [MOB] :- [TIME] : 7 AM
 
 Sam -- 'Sam is tanking!!!! HEAL'
 
-1065/1065hp(+92) 1301/1335ma(+139) 227mv(+54)>(-3)  [AC: -0.2]  [Saurian Frontier]
+1065/1065hp(+92) 1301/1335ma(+139) 227mv(+54)\>(-3) [AC: -0.2] [Saurian Frontier]
 
-[EXP] :2,095,172,292  |  [COINS]  : 683,657   [storm]  [+15 | +10] [MOB] :-   [TIME] : 7 AM
+[EXP] :2,095,172,292 \| [COINS] : 683,657 [storm] [+15 \| +10] [MOB] :- [TIME] : 7 AM
 
-#Ok. $target is now set to {--}.
+\#Ok. $target is now set to {--}.
 
 Sam yells 'GOODBYE BLUE SKY!'
 
-1065/1065hp(+92) 1303/1335ma(+139) 228mv(+54)>(-3)  [AC: -0.2]  [Saurian Frontier]
+1065/1065hp(+92) 1303/1335ma(+139) 228mv(+54)\>(-3) [AC: -0.2] [Saurian Frontier]
 
-[EXP] :2,095,172,292  |  [COINS]  : 683,657   [storm]  [+15 | +10] [MOB] :-   [TIME] : 7 AM
+[EXP] :2,095,172,292 \| [COINS] : 683,657 [storm] [+15 \| +10] [MOB] :- [TIME] : 7 AM
 
 Stun -- 'target --'
 
-1065/1065hp(+92) 1303/1335ma(+139) 228mv(+54)>(-3)  [AC: -0.2]  [Saurian Frontier]
+1065/1065hp(+92) 1303/1335ma(+139) 228mv(+54)\>(-3) [AC: -0.2] [Saurian Frontier]
 
-[EXP] :2,095,172,292  |  [COINS]  : 683,657   [storm]  [+15 | +10] [MOB] :-   [TIME] : 7 AM
+[EXP] :2,095,172,292 \| [COINS] : 683,657 [storm] [+15 \| +10] [MOB] :- [TIME] : 7 AM
 
 Suna joins in the war-cry!
 
 You begin to stalk.
 
-1065/1065hp(+92) 1303/1335ma(+139) 228mv(+54)>(-3)  [AC: -0.2]  [Saurian Frontier]
+1065/1065hp(+92) 1303/1335ma(+139) 228mv(+54)\>(-3) [AC: -0.2] [Saurian Frontier]
 
-[EXP] :2,095,172,292  |  [COINS]  : 683,657   [storm]  [+15 | +10] [MOB] :-   [TIME] : 7 AM
+[EXP] :2,095,172,292 \| [COINS] : 683,657 [storm] [+15 \| +10] [MOB] :- [TIME] : 7 AM
 
 Saving Dr.
 
 Saving items.
 
-1065/1065hp(+92) 1303/1335ma(+139) 228mv(+54)>(-3)  [AC: -0.2]  [Saurian Frontier]
+1065/1065hp(+92) 1303/1335ma(+139) 228mv(+54)\>(-3) [AC: -0.2] [Saurian Frontier]
 
-[EXP] :2,095,172,292  |  [COINS]  : 683,657   [storm]  [+15 | +10] [MOB] :-   [TIME] : 7 AM
+[EXP] :2,095,172,292 \| [COINS] : 683,657 [storm] [+15 \| +10] [MOB] :- [TIME] : 7 AM
 
 Coelophysis chews on the dead body of Norks.
 
@@ -3601,45 +3595,45 @@ You follow Vege.
 
 Passing Through The Trees
 
-Exits: North  West  
+Exits: North West 
 
 You see Suna, Sam, Vege, and Stun here.
 
-1065/1065hp(+92) 1319/1335ma(+139) 227mv(+54)>(-3)  [AC: -0.2]  [Saurian Frontier]
+1065/1065hp(+92) 1319/1335ma(+139) 227mv(+54)\>(-3) [AC: -0.2] [Saurian Frontier]
 
-[EXP] :2,095,172,292  |  [COINS]  : 683,657   [storm]  [+15 | +10] [MOB] :-   [TIME] : 7 AM
+[EXP] :2,095,172,292 \| [COINS] : 683,657 [storm] [+15 \| +10] [MOB] :- [TIME] : 7 AM
 
 You follow Vege.
 
 The Thinning Treeline
 
-Exits: North  South  
+Exits: North South 
 
 You see Suna, Sam, Vege, and Stun here.
 
-1065/1065hp(+92) 1319/1335ma(+139) 225mv(+54)>(-3)  [AC: -0.2]  [Saurian Frontier]
+1065/1065hp(+92) 1319/1335ma(+139) 225mv(+54)\>(-3) [AC: -0.2] [Saurian Frontier]
 
-[EXP] :2,095,172,292  |  [COINS]  : 683,657   [storm]  [+15 | +10] [MOB] :-   [TIME] : 7 AM
+[EXP] :2,095,172,292 \| [COINS] : 683,657 [storm] [+15 \| +10] [MOB] :- [TIME] : 7 AM
 
 You follow Vege.
 
 Bottom Of The Rockslide
 
-Exits: North  East  South  
+Exits: North East South 
 
 You see Suna, Sam, Vege, and Stun here.
 
-Norks[Clan:Dragonsworn]> 'Norks just logged on in The Island.'
+Norks[Clan:Dragonsworn]\> 'Norks just logged on in The Island.'
 
 You follow Vege.
 
 The Splintered, Fallen Trees
 
-Exits: South  West  
+Exits: South West 
 
 You see Suna, Sam, Vege, and Stun here.
 
-Norks[Clan:Dragonsworn]> 'oops'
+Norks[Clan:Dragonsworn]\> 'oops'
 
 </div>
 
@@ -3647,7 +3641,7 @@ Norks[Clan:Dragonsworn]> 'oops'
 
 Gorka -- 'sense a gem...'
 
-<1079hp 410ma 321mv> 45822985598 1695635 11 -14.6 -7 indoors+0 0 +0
+\<1079hp 410ma 321mv\> 45822985598 1695635 11 -14.6 -7 indoors+0 0 +0
 
 gt i dont even think they worked, when I made the choice
 
@@ -3677,11 +3671,11 @@ A valpurgeist cries out in anguish and attacks with renewed fury.
 
 You report 930/1355 hp. Change: -143. Need: 425. Spells: aegis, greater fluidity.
 
-<930hp 410ma 322mv> 45823003645 1695635 0 -14.6 -7 indoors+18047 451 +0
+\<930hp 410ma 322mv\> 45823003645 1695635 0 -14.6 -7 indoors+18047 451 +0
 
 You grouptell: 'i dont even think they worked, when I made the choice'
 
-<930hp 410ma 322mv> 45823003645 1695635 0 -14.6 -7 indoors+0 0 +0
+\<930hp 410ma 322mv\> 45823003645 1695635 0 -14.6 -7 indoors+0 0 +0
 
 deathblow
 
@@ -3719,17 +3713,17 @@ Knubberub gets a Lapus Lazuli from the corpse of a valpurgeist that's on the gro
 
 Knubberub gets gold coins from the corpse of a valpurgeist that's on the ground.
 
-Knubberub splits 6156 coins.  Your share is 1026 coins.
+Knubberub splits 6156 coins. Your share is 1026 coins.
 
-<934hp 412ma 273mv> 45839908918 1696661 - -14.6 -5 indoors+16905273 422631 +1026
+\<934hp 412ma 273mv\> 45839908918 1696661 - -14.6 -5 indoors+16905273 422631 +1026
 
 You yell 'LET'S ROCK!'
 
-<935hp 413ma 274mv> 45839908918 1696661 - -14.6 -5 indoors+0 0 +0
+\<935hp 413ma 274mv\> 45839908918 1696661 - -14.6 -5 indoors+0 0 +0
 
 You stop using Brilliant Sword of Valor.
 
-<937hp 414ma 275mv> 45839908918 1696661 - -14.6 -5 indoors+0 0 +0
+\<937hp 414ma 275mv\> 45839908918 1696661 - -14.6 -5 indoors+0 0 +0
 
 Knubberub joins in the war-cry!
 
@@ -3737,9 +3731,9 @@ Sochi joins in the war-cry!
 
 You wield a thunderbolt.
 
-<937hp 414ma 275mv> 45839908918 1696661 - -14.6 -5 indoorsYour last warcry hasn't even stopped echoing yet!
+\<937hp 414ma 275mv\> 45839908918 1696661 - -14.6 -5 indoorsYour last warcry hasn't even stopped echoing yet!
 
-<937hp 414ma 275mv> 45839908918 1696661 - -14.6 -5 indoors+0 0 +0
+\<937hp 414ma 275mv\> 45839908918 1696661 - -14.6 -5 indoors+0 0 +0
 
 You do not see a gem here.
 
@@ -3747,7 +3741,7 @@ Dr joins in the war-cry!
 
 Gorka joins in the war-cry!
 
-<937hp 414ma 275mv> 45839908918 1696661 - -14.6 -5 indoors+0 0 +0
+\<937hp 414ma 275mv\> 45839908918 1696661 - -14.6 -5 indoors+0 0 +0
 
 cackle
 
@@ -3755,7 +3749,7 @@ Knubberub pats Gorka on the back.
 
 You cackle gleefully.
 
-<941hp 416ma 277mv> 45839908918 1696661 - -14.6 -5 indoors+0 0 +0
+\<941hp 416ma 277mv\> 45839908918 1696661 - -14.6 -5 indoors+0 0 +0
 
 Sochi pats Gorka on the back.
 
@@ -3783,7 +3777,7 @@ Your brutal backstab causes a gargoyle to writhe in agony, opening up its defens
 
 You report 744/1223 hp. Change: +142. Need: 479. Spells: aegis.
 
-<744hp 116ma 163mv> 54017881033 521910 31 -7.9 +5 indoors+45308 1132 +0
+\<744hp 116ma 163mv\> 54017881033 521910 31 -7.9 +5 indoors+45308 1132 +0
 
 With a mighty effort, you shake off your exhaustion!
 
@@ -3795,7 +3789,7 @@ With a mighty effort, you shake off your exhaustion!
 
 You stop using a thunderbolt.
 
-<746hp 116ma 104mv>
+\<746hp 116ma 104mv\>
 
 </div>
 
@@ -3923,7 +3917,7 @@ The man sighs, pauses, and answers, â€œMy second wish was for a tall chick w
 
 replace the word mellinial with 'jb' and it works for sloth!!!
 
-[<LINK_TEXT text="http://mashable.com/2016/09/03/everythi ... ViwoN_6qqz">http://mashable.com/2016/09/03/everything-millennials-ruined/#9vViwoN_6qqz</LINK_TEXT>](http://mashable.com/2016/09/03/everything-millennials-ruined/#9vViwoN_6qqz)
+[http://mashable.com/2016/09/03/everything-millennials-ruined/#9vViwoN_6qqz](http://mashable.com/2016/09/03/everything-millennials-ruined/#9vViwoN_6qqz)
 
 lol
 
@@ -3933,7 +3927,7 @@ lol
 
 Curate picks up a petrified branch.
 
-<1344hp 255ma 372mv> 100055175052 4944055 - -15.6 +9 overcast+0 0 +0
+\<1344hp 255ma 372mv\> 100055175052 4944055 - -15.6 +9 overcast+0 0 +0
 
 Knubberub -- 'target fire'
 
@@ -3941,7 +3935,7 @@ warcry LET'S ROCK!
 
 cast 'damn' fire
 
-<1347hp 256ma 372mv> 100055175052 4944055 - -15.6 +9 overcast+0 0 +0
+\<1347hp 256ma 372mv\> 100055175052 4944055 - -15.6 +9 overcast+0 0 +0
 
 You warily lead the way ahead of Knubberub.
 
@@ -3951,7 +3945,7 @@ cast 'damn' fire
 
 A Melted Cavern
 
-Exits: North  South  
+Exits: North South 
 
 (Faint Red Aura) A fire maul titan searches the land for intruders.
 
@@ -3973,17 +3967,17 @@ Fire arrives from the south.
 
 Ciphersoft arrives from the south.
 
-<1347hp 256ma 369mv> 100055175052 4944055 - -15.6 +9 overcast+0 0 +0
+\<1347hp 256ma 369mv\> 100055175052 4944055 - -15.6 +9 overcast+0 0 +0
 
 Your last warcry hasn't even stopped echoing yet!
 
-<1348hp 257ma 370mv> 100055175052 4944055 - -15.6 +9 overcast+0 0 +0
+\<1348hp 257ma 370mv\> 100055175052 4944055 - -15.6 +9 overcast+0 0 +0
 
 Ok.
 
 Fire screams in agony as red tendrils of mist infuse his body.
 
-<1348hp 250ma 370mv> 100055175052 4944055 - -15.6 +9 overcast+0 0 +0
+\<1348hp 250ma 370mv\> 100055175052 4944055 - -15.6 +9 overcast+0 0 +0
 
 You can taste the impending victory!
 
@@ -3995,15 +3989,15 @@ Your riposte viciously massacres a fire maul titan.
 
 You report 1472/1478 hp. Change: +158. Need: 6. Spells: greater fluidity, flesh golem.
 
-<1472hp 251ma 371mv> 100055175532 4944055 99 -15.6 +9 overcast+480 12 +0
+\<1472hp 251ma 371mv\> 100055175532 4944055 99 -15.6 +9 overcast+480 12 +0
 
 But nobody is fighting her?
 
-<1475hp 252ma 372mv> 100055175532 4944055 99 -15.6 +9 overcast+0 0 +0
+\<1475hp 252ma 372mv\> 100055175532 4944055 99 -15.6 +9 overcast+0 0 +0
 
 Impossible! You can't concentrate enough!
 
-<1475hp 252ma 372mv> 100055175532 4944055 99 -15.6 +9 overcast+0 0 +0
+\<1475hp 252ma 372mv\> 100055175532 4944055 99 -15.6 +9 overcast+0 0 +0
 
 You skillfully parry the attack of a fire maul titan.
 
@@ -4027,23 +4021,23 @@ A fire maul titan unleashes a deadly blast of freezing cold!
 
 A hail of ice and snow flys from a fire maul titan's hand!
 
-ARRGH!  Your body is stiffened by an ice ray, sent by a fire maul titan.
+ARRGH! Your body is stiffened by an ice ray, sent by a fire maul titan.
 
 Your group's front line is about to collapse, watch out!
 
 You report 1299/1478 hp. Change: -173. Need: 179. Spells: greater fluidity, flesh golem.
 
-<1299hp 253ma 372mv> 100055183006 4944055 98 -15.6 +9 overcast+7474 186 +0
+\<1299hp 253ma 372mv\> 100055183006 4944055 98 -15.6 +9 overcast+7474 186 +0
 
-Knubberub -- 'oh god :)'
+Knubberub -- 'oh god <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">'
 
-<1299hp 253ma 372mv> 100055183006 4944055 98 -15.6 +9 overcast+0 0 +0
+\<1299hp 253ma 372mv\> 100055183006 4944055 98 -15.6 +9 overcast+0 0 +0
 
 Knubberub -- 'that'
 
 on the next mob:
 
-<1459hp 208ma 371mv> 100072471739 4955148 - -15.6 +10 indoors+0 0 +0
+\<1459hp 208ma 371mv\> 100072471739 4955148 - -15.6 +10 indoors+0 0 +0
 
 Knubberub -- 'target gor'
 
@@ -4051,41 +4045,41 @@ warcry LET'S ROCK!
 
 cast 'damn' gor
 
-<1460hp 209ma 372mv> 100072471739 4955148 - -15.6 +10 indoors+0 0 +0
+\<1460hp 209ma 372mv\> 100072471739 4955148 - -15.6 +10 indoors+0 0 +0
 
 Your last warcry hasn't even stopped echoing yet!
 
-<1460hp 209ma 372mv> 100072471739 4955148 - -15.6 +10 indoors+0 0 +0
+\<1460hp 209ma 372mv\> 100072471739 4955148 - -15.6 +10 indoors+0 0 +0
 
 Ok.
 
 Gorka screams in agony as red tendrils of mist infuse his body.
 
-<1462hp 203ma 372mv> 100072471739 4955148 - -15.6 +9 indoors+0 0 +0
+\<1462hp 203ma 372mv\> 100072471739 4955148 - -15.6 +9 indoors+0 0 +0
 
-Knubberub -- 'target gory :)]'
+Knubberub -- 'target gory <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">]'
 
 warcry LET'S ROCK!
 
-cast 'damn' gory :)]
+cast 'damn' gory <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">]
 
-<1465hp 204ma 372mv> 100072471739 4955148 - -15.6 +9 indoors+0 0 +0
+\<1465hp 204ma 372mv\> 100072471739 4955148 - -15.6 +9 indoors+0 0 +0
 
 Rayne begins to sing 'brothers in valor'.
 
 Your last warcry hasn't even stopped echoing yet!
 
-<1467hp 205ma 372mv> 100072471739 4955148 - -15.6 +9 indoors+0 0 +0
+\<1467hp 205ma 372mv\> 100072471739 4955148 - -15.6 +9 indoors+0 0 +0
 
 Nobody here by that name.
 
-<1467hp 205ma 372mv> 100072471739 4955148 - -15.6 +9 indoors+0 0 +0
+\<1467hp 205ma 372mv\> 100072471739 4955148 - -15.6 +9 indoors+0 0 +0
 
 Knubberub -- 'target gory'
 
 Gorka -- 'sniff'
 
-P.S. Also, picture me scrolling aboard Legacy in Canaa, when the boat immediately arrives at the dock, I exit, and miss the angel restore. I forgot to post it here :(
+P.S. Also, picture me scrolling aboard Legacy in Canaa, when the boat immediately arrives at the dock, I exit, and miss the angel restore. I forgot to post it here <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 P.P.S. Cyprimus, if you think that picking on one of the few active immorts, who actually fix things, is funny, please reconsider.
 
@@ -4095,11 +4089,11 @@ P.P.S. Cyprimus, if you think that picking on one of the few active immorts, who
 
 Zuzu -- 'speaking of scrolls, i have a staff, i dont have a recall'
 
-<565hp 1ma 367mv> 111514945942 440772 89 -15.1 +10 indoors+0 0 +0
+\<565hp 1ma 367mv\> 111514945942 440772 89 -15.1 +10 indoors+0 0 +0
 
 Ezekiel disengages himself from an Arcane Ooze!
 
-<568hp 2ma 367mv> 111514945942 440772 89 -15.1 +10 indoors+0 0 +0
+\<568hp 2ma 367mv\> 111514945942 440772 89 -15.1 +10 indoors+0 0 +0
 
 You skillfully parry the attack of an Arcane Ooze.
 
@@ -4125,19 +4119,19 @@ An Arcane Ooze crushes you with its tightening sheets of magic!
 
 You report 410/1491 hp. Change: -152. Need: 1081. Spells: greater fluidity, aegis, wraithform.
 
-<410hp 3ma 369mv> 111514951507 440772 88 -15.1 +10 indoors+5565 139 +0
+\<410hp 3ma 369mv\> 111514951507 440772 88 -15.1 +10 indoors+5565 139 +0
 
 give recall z
 
 You try to break the entrapping magical forces, but fail.
 
-<415hp 5ma 370mv> 111514951507 440772 88 -15.1 +10 indoors+0 0 +0
+\<415hp 5ma 370mv\> 111514951507 440772 88 -15.1 +10 indoors+0 0 +0
 
 An Arcane Ooze screams out as it is burned!!!
 
 An Arcane Ooze appears to be resisting quite a bit of the damage.
 
-<418hp 5ma 370mv> 111514951507 440772 88 -15.1 +10 indoors+0 0 +0
+\<418hp 5ma 370mv\> 111514951507 440772 88 -15.1 +10 indoors+0 0 +0
 
 An Arcane Ooze's bones crunch under a well-aimed attack by Zuzu!
 
@@ -4173,71 +4167,71 @@ An Arcane Ooze looks shocked as it cuts itself on your petrified armor!
 
 You have been KILLED!! 
 
-<-18hp 6ma 370mv> 111514980374 440772 - -10.1 +10 indoors+28867 721 +0
+\<-18hp 6ma 370mv\> 111514980374 440772 - -10.1 +10 indoors+28867 721 +0
 
 group
 
 Group 'EPIX: forming at west gate' is led by Ezekiel and consists of:
 
-   (Dead)            Taron [Wa:8.39  -18hp   6ma 370mv] chrysoprase/moonstone         
+ (Dead) Taron [Wa:8.39 -18hp 6ma 370mv] chrysoprase/moonstone 
 
-   (Dead)             Zuzu [Cl:9.40  -38hp   6ma 325mv] rhodo|emerald|dplate          
+ (Dead) Zuzu [Cl:9.40 -38hp 6ma 325mv] rhodo\|emerald\|dplate 
 
- (Leader)          Ezekiel [Ma:8.25  515hp 276ma 353mv] ---
+ (Leader) Ezekiel [Ma:8.25 515hp 276ma 353mv] ---
 
-   (Dead)             Tinx [Ma:4.32  -68hp   0ma 310mv] ---
+ (Dead) Tinx [Ma:4.32 -68hp 0ma 310mv] ---
 
- (Absent)             Mage [Ma:4.30  125hp  19ma 233mv] Tourma.Sapph                  
+ (Absent) Mage [Ma:4.30 125hp 19ma 233mv] Tourma.Sapph 
 
-<-18hp 6ma 370mv> 111514980374 440772 - -10.1 +10 indoors+0 0 +0
+\<-18hp 6ma 370mv\> 111514980374 440772 - -10.1 +10 indoors+0 0 +0
 
 Mage -- 'slackers'
 
 Your body returns to solid form.
 
-<-18hp 6ma 370mv> 111514980374 440772 - -10.1 +10 indoors+0 0 +0
+\<-18hp 6ma 370mv\> 111514980374 440772 - -10.1 +10 indoors+0 0 +0
 
 You can't see anything but stars!
 
-<-18hp 6ma 369mv> 111514980374 440772 - -10.1 +10 indoors+0 0 +0
+\<-18hp 6ma 369mv\> 111514980374 440772 - -10.1 +10 indoors+0 0 +0
 
 whe
 
-You are in Ruins of the High Tower.  Also in this area are:
+You are in Ruins of the High Tower. Also in this area are:
 
-Name                           - Location
+Name - Location
 
------------------------------------------
+\-----------------------------------------
 
-Tinx                           - In a Vault
+Tinx - In a Vault
 
-Ezekiel                        - A Vault Entrance
+Ezekiel - A Vault Entrance
 
-Taron                          - A Vault Entrance
+Taron - A Vault Entrance
 
-Zuzu                           - In a Vault
+Zuzu - In a Vault
 
-<-18hp 6ma 369mv> 111514980374 440772 - -10.1 +10 indoors+0 0 +0
+\<-18hp 6ma 369mv\> 111514980374 440772 - -10.1 +10 indoors+0 0 +0
 
 group
 
 Group 'EPIX: forming at west gate' is led by Ezekiel and consists of:
 
-   (Dead)            Taron [Wa:8.39  -18hp   6ma 369mv] chrysoprase/moonstone         
+ (Dead) Taron [Wa:8.39 -18hp 6ma 369mv] chrysoprase/moonstone 
 
-   (Dead)          Ezekiel [Ma:8.25  -25hp 276ma 352mv] ---
+ (Dead) Ezekiel [Ma:8.25 -25hp 276ma 352mv] ---
 
-   (Dead)             Tinx [Ma:4.32  -68hp   0ma 309mv] ---
+ (Dead) Tinx [Ma:4.32 -68hp 0ma 309mv] ---
 
-   (Dead)             Zuzu [Cl:9.40  -38hp   6ma 325mv] rhodo|emerald|dplate          
+ (Dead) Zuzu [Cl:9.40 -38hp 6ma 325mv] rhodo\|emerald\|dplate 
 
- (Absent)             Mage [Ma:4.30   26hp  42ma  80mv] Tourma.Sapph                  
+ (Absent) Mage [Ma:4.30 26hp 42ma 80mv] Tourma.Sapph 
 
-<-18hp 6ma 369mv> 111514980374 440772 - -10.1 +10 indoors+0 0 +0
+\<-18hp 6ma 369mv\> 111514980374 440772 - -10.1 +10 indoors+0 0 +0
 
 The 'greater fluidity' spell on you is about to wear off.
 
-<-18hp 6ma 369mv> 111514980374 440772 - -10.1 +10 indoors+0 0 +0
+\<-18hp 6ma 369mv\> 111514980374 440772 - -10.1 +10 indoors+0 0 +0
 
 TICK IN 10 SECONDS.
 
@@ -4245,13 +4239,13 @@ save
 
 There are 3 ticks of 5 left on Taron's aegis!
 
-Lie still; you are DEAD!!! :-( 
+Lie still; you are DEAD!!! <img src="/images/smilies/icon_e_sad.svg" alt=":-(" title=":-(" width="15" height="15" class="smiley nozoom"> 
 
-<-18hp 6ma 369mv> 111514980374 440772 - -10.1 +10 indoors+0 0 +0
+\<-18hp 6ma 369mv\> 111514980374 440772 - -10.1 +10 indoors+0 0 +0
 
 You feel yourself floating upward...
 
-<-18hp 6ma 369mv> 111514980374 440772 - -10.1 +10 indoors+0 0 +0
+\<-18hp 6ma 369mv\> 111514980374 440772 - -10.1 +10 indoors+0 0 +0
 
 Mage -- 'afk ciggy'
 
@@ -4265,7 +4259,7 @@ So we were chopping offlyme and decided to kill Briar.
 
 Here's how it looked:
 
-<1377hp 176ma 189mv> 121830938409 1635978 7 -14.6 -1 indoors+0 0 +0
+\<1377hp 176ma 189mv\> 121830938409 1635978 7 -14.6 -1 indoors+0 0 +0
 
 A phantom misses Briar the housing developer with its claw.
 
@@ -4291,29 +4285,29 @@ Briar the housing developer tries to rise, but is beaten back under a hail of bl
 
 You report 1033/1420 hp. Change: -304. Need: 387. Spells: greater fluidity, aegis.
 
-<1033hp 176ma 189mv> 121830940233 1635978 7 -14.6 -1 indoors+1824 45 +0
+\<1033hp 176ma 189mv\> 121830940233 1635978 7 -14.6 -1 indoors+1824 45 +0
 
 The radiant sphere around your body fades.
 
-gt \c05Aegis\c03 down!
+gt \\c05Aegis\\c03 down!
 
-<1034hp 176ma 189mv> 121830940233 1635978 7 -14.6 -1 indoors+0 0 +0
+\<1034hp 176ma 189mv\> 121830940233 1635978 7 -14.6 -1 indoors+0 0 +0
 
 You grouptell: 'mared'
 
-<1034hp 176ma 189mv> 121830940233 1635978 7 -14.6 -1 indoors+0 0 +0
+\<1034hp 176ma 189mv\> 121830940233 1635978 7 -14.6 -1 indoors+0 0 +0
 
 You grouptell: 'Aegis down!'
 
-<1034hp 176ma 189mv> 121830940233 1635978 7 -14.6 -1 indoors+0 0 +0
+\<1034hp 176ma 189mv\> 121830940233 1635978 7 -14.6 -1 indoors+0 0 +0
 
 Suna pauses and slowly returns to his natural form.
 
-<1037hp 177ma 189mv> 121830940233 1635978 7 -14.6 -1 indoors+0 0 +0
+\<1037hp 177ma 189mv\> 121830940233 1635978 7 -14.6 -1 indoors+0 0 +0
 
 quaf darkness
 
-cast 'restorat'  Taron
+cast 'restorat' Taron
 
 You get a potion of pure darkness from a kangaroo pouch.
 
@@ -4321,7 +4315,7 @@ You fumble with the cork, but manage to quaff a potion of pure darkness which di
 
 You are surrounded by a radiant light.
 
-gt ...\c05Aegis\c03 up...its time to kill!
+gt ...\\c05Aegis\\c03 up...its time to kill!
 
 last player Crumbs
 
@@ -4329,7 +4323,7 @@ You have a righteous feeling!
 
 A dark haze precipitates around your body.
 
-<1037hp 177ma 189mv> 121830940233 1635978 7 -14.6 -1 indoors+0 0 +0
+\<1037hp 177ma 189mv\> 121830940233 1635978 7 -14.6 -1 indoors+0 0 +0
 
 A phantom misses Briar the housing developer with its claw.
 
@@ -4359,7 +4353,7 @@ Briar the housing developer clambers onto his feet.
 
 You report 298/1420 hp. Change: -735. Need: 1122. Spells: aegis, greater fluidity.
 
-<298hp 177ma 190mv> 121830967125 1635978 6 -14.6 -1 indoors+26892 672 +0
+\<298hp 177ma 190mv\> 121830967125 1635978 6 -14.6 -1 indoors+26892 672 +0
 
 Mage waves to you.
 
@@ -4437,7 +4431,7 @@ You massacre hulking horror of the night to small fragments with your cleave.
 
 You massacre hulking horror of the night to small fragments with your cleave.
 
-<1478hp 527ma 367mv> 142658124170 679986 30 -15.1 +9 indoors+42654 1066 +0
+\<1478hp 527ma 367mv\> 142658124170 679986 30 -15.1 +9 indoors+42654 1066 +0
 
 You charge and bash into hulking horror of the night.
 
@@ -4447,9 +4441,9 @@ Hulking horror of the night staggers.
 
 Curate -- 'Taron chopped Sochi'
 
-<1478hp 529ma 367mv> 142658124350 679986 30 -15.1 +9 indoors+180 4 +0
+\<1478hp 529ma 367mv\> 142658124350 679986 30 -15.1 +9 indoors+180 4 +0
 
-|
+\|
 
 Hulking horror of the night's beat bounces off your heavy armor.
 
@@ -4475,21 +4469,21 @@ You massacre hulking horror of the night to small fragments with your cleave.
 
 You report 1274/1478 hp. Change: -158. Need: 204. Spells: aegis, greater fluidity.
 
-<1274hp 531ma 367mv> 142658127885 679986 29 -15.1 +9 indoors+3535 88 +0
+\<1274hp 531ma 367mv\> 142658127885 679986 29 -15.1 +9 indoors+3535 88 +0
 
 Knubberub gossips-- '12 hours ago yes'
 
-<1274hp 531ma 367mv> 142658127885 679986 29 -15.1 +9 indoors+0 0 +0
+\<1274hp 531ma 367mv\> 142658127885 679986 29 -15.1 +9 indoors+0 0 +0
 
 gt YES
 
 Curate -- 'grats'
 
-<1277hp 532ma 367mv> 142658127885 679986 29 -15.1 +9 indoors+0 0 +0
+\<1277hp 532ma 367mv\> 142658127885 679986 29 -15.1 +9 indoors+0 0 +0
 
 You grouptell: 'YES'
 
-<1280hp 533ma 367mv> 142658127885 679986 29 -15.1 +9 indoors+0 0 +0
+\<1280hp 533ma 367mv\> 142658127885 679986 29 -15.1 +9 indoors+0 0 +0
 
 gt one head shorter
 
@@ -4519,17 +4513,17 @@ You brutally massacre a giant spiked lizard with your cleave.
 
 You report 745/1355 hp. Change: -87. Need: 610. Spells: greater fluidity, aegis.
 
-<745hp 157ma 365mv> 148067178513 4372589 82 -14.6 +6 raining+239788 5994 +0
+\<745hp 157ma 365mv\> 148067178513 4372589 82 -14.6 +6 raining+239788 5994 +0
 
 Sochi -- 'Reality broke chopper'
 
-<745hp 157ma 365mv> 148067178513 4372589 82 -14.6 +6 raining+0 0 +0
+\<745hp 157ma 365mv\> 148067178513 4372589 82 -14.6 +6 raining+0 0 +0
 
 Sochi -- 'Taron 144 chops'
 
 You say 'Now let's see if you have something else other than limbs!'
 
-<745hp 157ma 365mv> 148067178513 4372589 82 -14.6 +6 raining+0 0 +0
+\<745hp 157ma 365mv\> 148067178513 4372589 82 -14.6 +6 raining+0 0 +0
 
 Fandral utters the words, 'candusghafahuai'
 
@@ -4537,11 +4531,11 @@ The cleansing fires of healing fill your body!
 
 You report 954/1355 hp. Change: +209. Need: 401. Spells: aegis, greater fluidity.
 
-<954hp 158ma 365mv> 148067178513 4372589 82 -14.6 +6 raining+0 0 +0
+\<954hp 158ma 365mv\> 148067178513 4372589 82 -14.6 +6 raining+0 0 +0
 
 Sochi slaps Reality.
 
-<960hp 159ma 365mv> 148067178513 4372589 82 -14.6 +6 raining+0 0 +0
+\<960hp 159ma 365mv\> 148067178513 4372589 82 -14.6 +6 raining+0 0 +0
 
 give large real
 
@@ -4555,7 +4549,7 @@ Reality is dead! R.I.P.
 
 Reality -- 'btw last run for me'
 
-<809hp 604ma 367mv> 148121412742 4418795 56 -13.1 +6 indoors+0 0 +0
+\<809hp 604ma 367mv\> 148121412742 4418795 56 -13.1 +6 indoors+0 0 +0
 
 TICK IN 10 SECONDS.
 
@@ -4567,7 +4561,7 @@ Saving Taron.
 
 Saving items.
 
-<812hp 604ma 367mv> 148121412742 4418795 56 -13.1 +6 indoors+0 0 +0
+\<812hp 604ma 367mv\> 148121412742 4418795 56 -13.1 +6 indoors+0 0 +0
 
 gt nod
 
@@ -4601,17 +4595,17 @@ You viciously massacre the cook with your cleave.
 
 You brutally massacre the cook with your cleave.
 
-<818hp 606ma 367mv> 148121435771 4418795 26 -13.1 +6 indoors+23029 575 +0
+\<818hp 606ma 367mv\> 148121435771 4418795 26 -13.1 +6 indoors+23029 575 +0
 
 You grouptell: 'nod'
 
-<818hp 606ma 367mv> 148121435771 4418795 26 -13.1 +6 indoors+0 0 +0
+\<818hp 606ma 367mv\> 148121435771 4418795 26 -13.1 +6 indoors+0 0 +0
 
 Sochi -- 'Taron 152 chops'
 
-<822hp 606ma 367mv> 148121435771 4418795 26 -13.1 +6 indoorsYou say 'Anyone needs a spare limb? I've got plenty!'
+\<822hp 606ma 367mv\> 148121435771 4418795 26 -13.1 +6 indoorsYou say 'Anyone needs a spare limb? I've got plenty!'
 
-<822hp 606ma 367mv> 148121435771 4418795 26 -13.1 +6 indoors+0 0 +0
+\<822hp 606ma 367mv\> 148121435771 4418795 26 -13.1 +6 indoors+0 0 +0
 
 You massacre the cook to small fragments with your cleave.
 
@@ -4655,7 +4649,7 @@ You massacre a giant sea snail to small fragments with your slash.
 
 You report 805/1417 hp. Change: -248. Need: 612. Spells: aegis, greater fluidity.
 
-<805hp 349ma 212mv> 150793820215 662427 88 -15.6 +9 indoors+11339 283 +0
+\<805hp 349ma 212mv\> 150793820215 662427 88 -15.6 +9 indoors+11339 283 +0
 
 Curate utters the words, 'candusghafahuai'
 
@@ -4663,7 +4657,7 @@ The cleansing fires of healing fill your body!
 
 You report 1199/1417 hp. Change: +394. Need: 218. Spells: greater fluidity, aegis.
 
-<1199hp 350ma 213mv> 150793820215 662427 88 -15.6 +9 indoors+0 0 +0
+\<1199hp 350ma 213mv\> 150793820215 662427 88 -15.6 +9 indoors+0 0 +0
 
 Fire looks at a giant sea snail.
 
@@ -4671,29 +4665,29 @@ Curate swings his weapon, accidentally cutting your head off!
 
 You have been KILLED!! 
 
-<-102hp 352ma 216mv> 150793820215 662427 - -10.1 +9 indoors+0 0 +0
+\<-102hp 352ma 216mv\> 150793820215 662427 - -10.1 +9 indoors+0 0 +0
 
 group
 
 Group 'Curate's Handsome Brotherhood' is led by Curate and consists of:
 
-   (Dead)            Taron [Wa:8.39 -102hp 352ma 216mv] chrysoprase/moonstone igor    
+ (Dead) Taron [Wa:8.39 -102hp 352ma 216mv] chrysoprase/moonstone igor 
 
-  (Front)           Shinja [Mo:3.32 1028hp 306ma 276mv] alex/malachite                
+ (Front) Shinja [Mo:3.32 1028hp 306ma 276mv] alex/malachite 
 
- (Leader)           Curate [Cl:6.37  805hp 314ma 308mv] S B Pearl | V Garnet          
+ (Leader) Curate [Cl:6.37 805hp 314ma 308mv] S B Pearl \| V Garnet 
 
-                      Mage [Ma:5.34  921hp 157ma 259mv] Tourma.Sapph Greg             
+ Mage [Ma:5.34 921hp 157ma 259mv] Tourma.Sapph Greg 
 
-                      Fire [Ne:4.29  804hp 586ma 128mv] jasper/sruby                  
+ Fire [Ne:4.29 804hp 586ma 128mv] jasper/sruby 
 
 The front line is too small for safety.
 
-<-102hp 352ma 216mv> 150793820215 662427 - -10.1 +9 indoors+0 0 +0
+\<-102hp 352ma 216mv\> 150793820215 662427 - -10.1 +9 indoors+0 0 +0
 
 Curate -- 'thats bad'
 
--- after a few raises --, same mob
+\-- after a few raises --, same mob
 
 A giant sea snail misses you with its crush.
 
@@ -4709,11 +4703,11 @@ Fire swings his weapon, accidentally cutting your head off!
 
 You have been KILLED!! 
 
-<-202hp 252ma 259mv> 150793956880 662427 - -10.1 +9 indoors+5668 141 +0
+\<-202hp 252ma 259mv\> 150793956880 662427 - -10.1 +9 indoors+5668 141 +0
 
 Curate -- 'Fire chopped Taron'
 
-Lie still; you are DEAD!!! :-(
+Lie still; you are DEAD!!! <img src="/images/smilies/icon_e_sad.svg" alt=":-(" title=":-(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -4729,13 +4723,13 @@ A shimmering angelic silhouette slowly descends through the portal.
 
 Mage utters the words, 'euguihzofahz'
 
-<447hp 19ma 370mv> 153885541543 1126292 32 -15.6 +5 overcast+0 0 +0
+\<447hp 19ma 370mv\> 153885541543 1126292 32 -15.6 +5 overcast+0 0 +0
 
 Ezekiel utters the words, 'euguihzofahz'
 
 Roedrig, Troll Champion is reduced to a pile of dust.
 
-<452hp 21ma 370mv> 153885541543 1126292 31 -15.6 +5 overcast+0 0 +0
+\<452hp 21ma 370mv\> 153885541543 1126292 31 -15.6 +5 overcast+0 0 +0
 
 quaf green
 
@@ -4771,25 +4765,25 @@ You do not have that item.
 
 You report 271/1429 hp. Change: -174. Need: 1158. Spells: flesh golem.
 
-<271hp 21ma 370mv> 153885554811 1126292 31 -15.6 +5 overcast+13268 331 +0
+\<271hp 21ma 370mv\> 153885554811 1126292 31 -15.6 +5 overcast+13268 331 +0
 
 Mage waves to you.
 
-<273hp 22ma 370mv> 153885554811 1126292 31 -15.6 +5 overcast+0 0 +0
+\<273hp 22ma 370mv\> 153885554811 1126292 31 -15.6 +5 overcast+0 0 +0
 
 Mage waves to you.
 
-<278hp 24ma 370mv> 153885554811 1126292 31 -15.6 +5 overcast+0 0 +0
+\<278hp 24ma 370mv\> 153885554811 1126292 31 -15.6 +5 overcast+0 0 +0
 
 Mage waves to you.
 
-<281hp 24ma 370mv> 153885554811 1126292 31 -15.6 +5 overcast+0 0 +0
+\<281hp 24ma 370mv\> 153885554811 1126292 31 -15.6 +5 overcast+0 0 +0
 
 quaf blue-potion
 
-cast 'restorat'  Taron
+cast 'restorat' Taron
 
-cast 'restorat'  Taron
+cast 'restorat' Taron
 
 You get a radiant blue potion from a kangaroo pouch.
 
@@ -4797,7 +4791,7 @@ You quaff a radiant blue potion which dissolves.
 
 Curate -- 'in for healing'
 
-<281hp 324ma 370mv> 153885554811 1126292 31 -15.6 +5 overcast+0 0 +0
+\<281hp 324ma 370mv\> 153885554811 1126292 31 -15.6 +5 overcast+0 0 +0
 
 @@
 
@@ -4825,15 +4819,15 @@ You wish that your wounds would stop BLEEDING that much!
 
 You have been KILLED!! 
 
-Lie still; you are DEAD!!! :-( 
+Lie still; you are DEAD!!! <img src="/images/smilies/icon_e_sad.svg" alt=":-(" title=":-(" width="15" height="15" class="smiley nozoom"> 
 
-<-33hp 324ma 370mv> 153885555279 1126292 - -10.1 +5 overcast+468 11 +0
+\<-33hp 324ma 370mv\> 153885555279 1126292 - -10.1 +5 overcast+468 11 +0
 
-Lie still; you are DEAD!!! :-( 
+Lie still; you are DEAD!!! <img src="/images/smilies/icon_e_sad.svg" alt=":-(" title=":-(" width="15" height="15" class="smiley nozoom"> 
 
-<-33hp 324ma 370mv> 153885555279 1126292 - -10.1 +5 overcast
+\<-33hp 324ma 370mv\> 153885555279 1126292 - -10.1 +5 overcast
 
-<-33hp 324ma 355mv> 153885555279 1126292 - -10.1 +5 overcast+0 0 +0
+\<-33hp 324ma 355mv\> 153885555279 1126292 - -10.1 +5 overcast+0 0 +0
 
 Mage -- 'lel'
 
@@ -4881,27 +4875,27 @@ You massacre Belch the giant butcher to small fragments with your cleave.
 
 Belch the giant butcher picks up a bone and throws it at you, but misses.
 
-Your front line collapses!  Your group is thrown into chaos!
+Your front line collapses! Your group is thrown into chaos!
 
-<1233hp 509ma 352mv> 159070288126 1326266 37 -14.6 +9 overcast+5813 145 +0
+\<1233hp 509ma 352mv\> 159070288126 1326266 37 -14.6 +9 overcast+5813 145 +0
 
 Parry mode is now on.
 
-<1233hp 509ma 352mv> 159070288126 1326266 37 -14.6 +9 overcast+0 0 +0
+\<1233hp 509ma 352mv\> 159070288126 1326266 37 -14.6 +9 overcast+0 0 +0
 
 gt lol
 
 You grouptell: 'lol'
 
-<1240hp 511ma 354mv> 159070288126 1326266 37 -14.6 +9 overcast+0 0 +0
+\<1240hp 511ma 354mv\> 159070288126 1326266 37 -14.6 +9 overcast+0 0 +0
 
 Curate -- 'Gorka suicided'
 
-<1240hp 511ma 354mv> 159070288126 1326266 37 -14.6 +9 overcast+0 0 +0
+\<1240hp 511ma 354mv\> 159070288126 1326266 37 -14.6 +9 overcast+0 0 +0
 
 Curate moves to the rear of his group.
 
-<1242hp 511ma 355mv> 159070288126 1326266 37 -14.6 +9 overcast+0 0 +0
+\<1242hp 511ma 355mv\> 159070288126 1326266 37 -14.6 +9 overcast+0 0 +0
 
 Belch the giant butcher's beat bounces off your heavy armor.
 
@@ -4925,11 +4919,11 @@ You have been KILLED!!
 
 Curate -- 'ok.'
 
-<-98hp 511ma 355mv> 159070288126 1326266 - -10.1 +9 overcast+0 0 +0
+\<-98hp 511ma 355mv\> 159070288126 1326266 - -10.1 +9 overcast+0 0 +0
 
 As the song ends, a calm feeling overtakes your party.
 
-<-98hp 511ma 355mv> 159070288126 1326266 - -10.1 +9 overcast+0 0 +0
+\<-98hp 511ma 355mv\> 159070288126 1326266 - -10.1 +9 overcast+0 0 +0
 
 Curate -- 'Taron suicided'
 
@@ -4961,9 +4955,9 @@ Your target is no longer with us.
 
 War reports 1061/1670 hp. Change: -197. Need: 609. Spells: aegis, greater fluidity.
 
-<1201hp 318ma 327mv> 165894345679 761651 - -12.6 -3 indoors+6507936 162698 +8000
+\<1201hp 318ma 327mv\> 165894345679 761651 - -12.6 -3 indoors+6507936 162698 +8000
 
-<1205hp 319ma 328mv> 165894345679 761651 - -12.6 -3 indoors+0 0 +0
+\<1205hp 319ma 328mv\> 165894345679 761651 - -12.6 -3 indoors+0 0 +0
 
 TICK IN 10 SECONDS.
 
@@ -4975,7 +4969,7 @@ There are 3 ticks of 5 left on Taron's aegis!
 
 l
 
-<1205hp 319ma 328mv> 165894345679 761651 - -12.6 -3 indoors+0 0 +0
+\<1205hp 319ma 328mv\> 165894345679 761651 - -12.6 -3 indoors+0 0 +0
 
 You deftly snatch gold coins.
 
@@ -4983,31 +4977,31 @@ There were 3416 coins.
 
 200 g/sec
 
-You split 3416 coins.  You keep 854 coins.
+You split 3416 coins. You keep 854 coins.
 
-<1206hp 320ma 329mv> 165894345679 762505 - -12.6 -3 indoorsSaving Taron.
+\<1206hp 320ma 329mv\> 165894345679 762505 - -12.6 -3 indoorsSaving Taron.
 
 Saving items.
 
-<1206hp 320ma 329mv> 165894345679 762505 - -12.6 -3 indoors+0 0 +854
+\<1206hp 320ma 329mv\> 165894345679 762505 - -12.6 -3 indoors+0 0 +854
 
 The Hall of Resurrection
 
-   A strange carpet of greenery has somehow found its way into the large
+ A strange carpet of greenery has somehow found its way into the large
 
 chamber, growing as grass but contoured as moss, covering the floors and
 
-walls from one end to the other.  Tiny forms of life can be found in every
+walls from one end to the other. Tiny forms of life can be found in every
 
 corner, from beetles and centipedes to small flowers that defy all logic of
 
-nature and divinity.  The air is sweet and purified as a delicate mist
+nature and divinity. The air is sweet and purified as a delicate mist
 
 hangs in the air, irrigating the thriving greenery that attempts to fool
 
 the mind into thinking that it's outside in the fresh air.
 
-Exits: North  
+Exits: North 
 
 A thin strip of copper has been twisted into a key. [2]..It has a soft glowing aura!
 
@@ -5017,7 +5011,7 @@ War glows with a bright light!
 
 War has a steady blue aura.
 
-Sochi the Dancing Bear <<M.A.G.I>> is standing here. (Brilliant Red Aura)
+Sochi the Dancing Bear \<\<M.A.G.I\>\> is standing here. (Brilliant Red Aura)
 
 Sochi glows with a bright light!
 
@@ -5027,7 +5021,7 @@ Knubberub ::LeMuRs:: is standing here. (Brilliant Red Aura)
 
 Knubberub has a strong dark aura.
 
-<1206hp 320ma 329mv> 165894345679 762505 - -12.6 -3 indoors+0 0 +0
+\<1206hp 320ma 329mv\> 165894345679 762505 - -12.6 -3 indoors+0 0 +0
 
 n
 
@@ -5037,7 +5031,7 @@ War leaves north.
 
 Before the Verdant Door
 
-Exits: North  South  
+Exits: North South 
 
 War Seattle Seahawks!!! is standing here. (Red Aura)
 
@@ -5049,11 +5043,11 @@ Knubberub arrives from the south.
 
 Sochi arrives from the south.
 
-<1212hp 323ma 331mv> 165894345679 762505 - -12.6 -3 indoors+0 0 +0
+\<1212hp 323ma 331mv\> 165894345679 762505 - -12.6 -3 indoors+0 0 +0
 
 The Sooty Hallway
 
-Exits: North  South  
+Exits: North South 
 
 War Seattle Seahawks!!! is standing here. (Red Aura)
 
@@ -5063,7 +5057,7 @@ War has a steady blue aura.
 
 Knubberub arrives from the south.
 
-<1212hp 323ma 330mv> 165894345679 762505 - -12.6 -3 indoors+0 0 +0
+\<1212hp 323ma 330mv\> 165894345679 762505 - -12.6 -3 indoors+0 0 +0
 
 n
 
@@ -5071,7 +5065,7 @@ u
 
 Bottom of the Stairwell
 
-Exits: South  Up  
+Exits: South Up 
 
 War Seattle Seahawks!!! is standing here. (Red Aura)
 
@@ -5081,7 +5075,7 @@ War has a steady blue aura.
 
 Knubberub arrives from the south.
 
-<1215hp 324ma 330mv> 165894345679 762505 - -12.6 -3 indoors+0 0 +0
+\<1215hp 324ma 330mv\> 165894345679 762505 - -12.6 -3 indoors+0 0 +0
 
 n
 
@@ -5089,7 +5083,7 @@ u
 
 Top of the Stairwell
 
-Exits: North  Down  
+Exits: North Down 
 
 War Seattle Seahawks!!! is standing here. (Red Aura)
 
@@ -5099,7 +5093,7 @@ War has a steady blue aura.
 
 Knubberub arrives from below.
 
-<1215hp 324ma 327mv> 165894345679 762505 - -12.6 -3 indoors+0 0 +0
+\<1215hp 324ma 327mv\> 165894345679 762505 - -12.6 -3 indoors+0 0 +0
 
 Knubberub utters the words, 'candusghafahuai'
 
@@ -5107,13 +5101,13 @@ Knubberub briefly glows with a blinding light!
 
 Knubberub's body is torn apart from the inside!
 
-<1215hp 324ma 327mv> 165894345679 762505 - -12.6 -3 indoors+0 0 +0
+\<1215hp 324ma 327mv\> 165894345679 762505 - -12.6 -3 indoors+0 0 +0
 
 s
 
 Below the Stairs
 
-Exits: East  South  Up  
+Exits: East South Up 
 
 War Seattle Seahawks!!! is standing here. (Red Aura)
 
@@ -5123,11 +5117,11 @@ War has a steady blue aura.
 
 Knubberub arrives from the south.
 
-<1215hp 324ma 324mv> 165894345679 762505 - -12.6 -3 indoorsWar leaves up.
+\<1215hp 324ma 324mv\> 165894345679 762505 - -12.6 -3 indoorsWar leaves up.
 
 The Southeast Gatehouse
 
-Exits: [East]  South  Down  
+Exits: [East] South Down 
 
 The corpse of the gatehouse warden is lying here.
 
@@ -5157,13 +5151,13 @@ Knubberub arrives from below.
 
 Sochi arrives from below.
 
-<1217hp 325ma 322mv> 165894345679 762505 - -12.6 -3 indoors+0 0 +0
+\<1217hp 325ma 322mv\> 165894345679 762505 - -12.6 -3 indoors+0 0 +0
 
 War leaves south.
 
 The South Southeastern Gateway
 
-Exits: North  East  West  
+Exits: North East West 
 
 War Seattle Seahawks!!! is standing here. (Red Aura)
 
@@ -5175,7 +5169,7 @@ Knubberub arrives from the north.
 
 Sochi arrives from the north.
 
-<1217hp 325ma 321mv> 165894345679 762505 - -12.6 -3 raining+0 0 +0
+\<1217hp 325ma 321mv\> 165894345679 762505 - -12.6 -3 raining+0 0 +0
 
 Knubberub utters the words, 'candusghafahuai'
 
@@ -5195,17 +5189,17 @@ You pull yourself out of the water into a well lit grotto.
 
 The Hermit's Dwelling
 
-Exits: Down  
+Exits: Down 
 
 (Faint Blue Aura) Qwzazutzl the sahaguin hermit rests here.
 
 Hot air hits you in waves.
 
-<1262hp 62ma 160mv> 182128085865 1492333 - -15.1 +10 indoors+0 0 +0
+\<1262hp 62ma 160mv\> 182128085865 1492333 - -15.1 +10 indoors+0 0 +0
 
 Oh, that was a real tough search. Open your eyes bozo.
 
-<1262hp 62ma 160mv> 182128085865 1492333 - -15.1 +10 indoors+0 0 +0
+\<1262hp 62ma 160mv\> 182128085865 1492333 - -15.1 +10 indoors+0 0 +0
 
 Firefly pulls himself from the water into the grotto.
 
@@ -5221,11 +5215,11 @@ l
 
 The Odyssey
 
-   This newly constructed ship easily manages the waters between Niebelung
+ This newly constructed ship easily manages the waters between Niebelung
 
-and Lyme.  Made completely of bamboo from the coasts of Ch'ung Kuo, the
+and Lyme. Made completely of bamboo from the coasts of Ch'ung Kuo, the
 
-Odyssey is both lightweight and durable.  Two cloth sails, as high as one
+Odyssey is both lightweight and durable. Two cloth sails, as high as one
 
 can see, don the main deck and push the Reaper's sister ship at speeds
 
@@ -5233,11 +5227,11 @@ unimaginable by other boats.
 
 Exits: 
 
-<1158hp 498ma 382mv 2790556142xp 1.9ac -%>
+\<1158hp 498ma 382mv 2790556142xp 1.9ac -%\>
 
 A seagull flies close overhead.
 
-<1158hp 498ma 382mv 2790556142xp 1.9ac -%>
+\<1158hp 498ma 382mv 2790556142xp 1.9ac -%\>
 
 Nearby, a large grey whale surfaces and spouts water high into the air!
 
@@ -5249,7 +5243,7 @@ A school of brightly colored fish swim under the ship.
 
 Nearby, a large grey whale surfaces and spouts water high into the air!
 
-<1158hp 498ma 382mv 2790556142xp 1.9ac -%>
+\<1158hp 498ma 382mv 2790556142xp 1.9ac -%\>
 
 The ship has arrived at Lyme!
 
@@ -5261,7 +5255,7 @@ https://www.youtube.com/watch?v=OQSNhk5ICTI
 
 <div class="post" data-post-id="37499" data-author="Gorka" data-date="2016-11-14T07:23:52+00:00" data-subject="Re: Your afternoon chuckle">
 
-<LINK_TEXT text="http://m.nzherald.co.nz/nz/news/article ... d=11747867">http://m.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11747867</LINK_TEXT>
+http://m.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11747867
 
 </div>
 
@@ -5275,19 +5269,19 @@ where Songster
 
 l portal
 
-<716hp 350ma 187mv> 1213748000 762667 - -9.2 +3 indoors+0 0 +0
+\<716hp 350ma 187mv\> 1213748000 762667 - -9.2 +3 indoors+0 0 +0
 
 group
 
-You are in Poseidon's Realm.  Also in this area are:
+You are in Poseidon's Realm. Also in this area are:
 
-Name                           - Location
+Name - Location
 
------------------------------------------
+\-----------------------------------------
 
-Songster                       - The Hermit's Dwelling
+Songster - The Hermit's Dwelling
 
-<716hp 350ma 187mv> 1213748000 762667 - -9.2 +3 indoors+0 0 +0
+\<716hp 350ma 187mv\> 1213748000 762667 - -9.2 +3 indoors+0 0 +0
 
 Mage utters the words, 'ofzahzf yrjueuhl'
 
@@ -5297,29 +5291,29 @@ You see a blurry distorted view of Magnolia
 
 gt This portal is from The Hermit's Dwelling to Magnolia!
 
-<717hp 351ma 187mv> 1213748000 762667 - -9.2 +3 indoors+0 0 +0
+\<717hp 351ma 187mv\> 1213748000 762667 - -9.2 +3 indoors+0 0 +0
 
 Group 'something expish' is led by Curate and consists of:
 
-  (Point)           Josiah [Wa:9.40 1423hp 526ma 202mv] uranus|sruby|adventurine      
+ (Point) Josiah [Wa:9.40 1423hp 526ma 202mv] uranus\|sruby\|adventurine 
 
-  (Front)             Suna [Dr:8.39  961hp 1043ma 348mv] gyt/sb pearl                  
+ (Front) Suna [Dr:8.39 961hp 1043ma 348mv] gyt/sb pearl 
 
-  (Front)         Songster [Ba:1.39  717hp 351ma 187mv] chrysoprase/bg emerald gregor 
+ (Front) Songster [Ba:1.39 717hp 351ma 187mv] chrysoprase/bg emerald gregor 
 
-  (Front)           Serega [Th:3.27  709hp 105ma 290mv] gem cutter                    
+ (Front) Serega [Th:3.27 709hp 105ma 290mv] gem cutter 
 
- (Leader)           Curate [Cl:7.39  704hp 460ma 304mv] V Garnet | S B Pearl          
+ (Leader) Curate [Cl:7.39 704hp 460ma 304mv] V Garnet \| S B Pearl 
 
-                    Vooder [Th:0.20  365hp 183ma 170mv] ---
+ Vooder [Th:0.20 365hp 183ma 170mv] ---
 
-                      Mage [Ma:5.38  899hp 420ma 246mv] Tourma.Sapph                  
+ Mage [Ma:5.38 899hp 420ma 246mv] Tourma.Sapph 
 
-<717hp 351ma 187mv> 1213748000 762667 - -9.2 +3 indoors+0 0 +0
+\<717hp 351ma 187mv\> 1213748000 762667 - -9.2 +3 indoors+0 0 +0
 
 You grouptell: 'This portal is from The Hermit's Dwelling to Magnolia!'
 
-<717hp 351ma 187mv> 1213748000 762667 - -9.2 +3 indoors+0 0 +0
+\<717hp 351ma 187mv\> 1213748000 762667 - -9.2 +3 indoors+0 0 +0
 
 Arcainic has materialized here.
 
@@ -5327,7 +5321,7 @@ A blast of hot air hits Arcainic in the face.
 
 Arcainic is dead! R.I.P.
 
-<718hp 352ma 188mv> 1213748000 762667 - -9.2 +3 indoors+0 0 +0
+\<718hp 352ma 188mv\> 1213748000 762667 - -9.2 +3 indoors+0 0 +0
 
 Josiah -- 'hope he healed up'
 
@@ -5391,11 +5385,11 @@ You resist most of the damage...
 
 The Fire Demon gestures, and you are blasted with fire!
 
-<226hp 164ma 216mv> 365323302 587601 45 -10.0 -3 indoors+1173 29 +0
+\<226hp 164ma 216mv\> 365323302 587601 45 -10.0 -3 indoors+1173 29 +0
 
 War reports 1140/1666 hp. Change: -310. Need: 526. Spells: greater fluidity, aegis.
 
-<226hp 164ma 216mv> 365323302 587601 45 -10.0 -3 indoors+0 0 +0
+\<226hp 164ma 216mv\> 365323302 587601 45 -10.0 -3 indoors+0 0 +0
 
 Curate utters the words, 'candusghafahuai'
 
@@ -5407,11 +5401,11 @@ assist War
 
 strike
 
-<226hp 164ma 216mv> 365323302 587601 - -10.0 -3 indoorsWar reports 1565/1666 hp. Change: +425. Need: 101. Spells: greater fluidity, aegis.
+\<226hp 164ma 216mv\> 365323302 587601 - -10.0 -3 indoorsWar reports 1565/1666 hp. Change: +425. Need: 101. Spells: greater fluidity, aegis.
 
-<226hp 164ma 216mv> 365323302 587601 - -10.0 -3 indoors+0 0 +0
+\<226hp 164ma 216mv\> 365323302 587601 - -10.0 -3 indoors+0 0 +0
 
-cast 'restorat'  Songster
+cast 'restorat' Songster
 
 The Fire Demon misses War with its rake.
 
@@ -5439,17 +5433,17 @@ The Fire Demon is blasted with frost from Samus's weapon!
 
 The Fire Demon makes a nice ballet step which plants a foot a mile above War's head.
 
-<230hp 168ma 219mv> 365323302 587601 - -10.0 -3 indoors+0 0 +0
+\<230hp 168ma 219mv\> 365323302 587601 - -10.0 -3 indoors+0 0 +0
 
 War reports 1253/1666 hp. Change: -312. Need: 413. Spells: greater fluidity, aegis.
 
-<230hp 168ma 219mv> 365323302 587601 - -10.0 -3 indoors+0 0 +0
+\<230hp 168ma 219mv\> 365323302 587601 - -10.0 -3 indoors+0 0 +0
 
 The song ends and you are less inspired by the deeds of the war gods.
 
 You hit the Fire Demon hard.
 
-<233hp 171ma 221mv> 365323662 587601 41 -10.0 -3 indoors+360 9 +0
+\<233hp 171ma 221mv\> 365323662 587601 41 -10.0 -3 indoors+360 9 +0
 
 You hit the Fire Demon.
 
@@ -5495,7 +5489,7 @@ Your spectral shield has drained power from the spell!
 
 You resist most of the damage...
 
-The Fire Demon breathes a stream of fire at you!  You are engulfed in flames!
+The Fire Demon breathes a stream of fire at you! You are engulfed in flames!
 
 You wish that your wounds would stop BLEEDING that much!
 
@@ -5505,33 +5499,33 @@ Curate's spectral shield drains power from the spell!
 
 Curate appears to be resisting quite a bit of the damage.
 
-<23hp 185ma 222mv> 365324006 587601 38 -10.0 -3 indoors+344 8 +0
+\<23hp 185ma 222mv\> 365324006 587601 38 -10.0 -3 indoors+344 8 +0
 
 War reports 984/1666 hp. Change: -269. Need: 682. Spells: greater fluidity, aegis.
 
-<23hp 185ma 222mv> 365324006 587601 38 -10.0 -3 indoors+0 0 +0
+\<23hp 185ma 222mv\> 365324006 587601 38 -10.0 -3 indoors+0 0 +0
 
 Curate utters the words, 'candusghafahuai'
 
 War briefly glows with a blinding light!
 
-<23hp 185ma 222mv> 365324006 587601 38 -10.0 -3 indoors+0 0 +0
+\<23hp 185ma 222mv\> 365324006 587601 38 -10.0 -3 indoors+0 0 +0
 
 War reports 1415/1666 hp. Change: +431. Need: 251. Spells: greater fluidity, aegis.
 
-<24hp 185ma 223mv> 365324006 587601 38 -10.0 -3 indoors+0 0 +0
+\<24hp 185ma 223mv\> 365324006 587601 38 -10.0 -3 indoors+0 0 +0
 
 War -- 'it worked'
 
-<24hp 185ma 223mv> 365324006 587601 38 -10.0 -3 indoors+0 0 +0
+\<24hp 185ma 223mv\> 365324006 587601 38 -10.0 -3 indoors+0 0 +0
 
-cast 'restorat'  Songster
+cast 'restorat' Songster
 
 You land a powerful strike into the Fire Demon's side.
 
 strike
 
-<26hp 187ma 224mv> 365325480 587601 38 -10.0 -3 indoors+1474 36 +0
+\<26hp 187ma 224mv\> 365325480 587601 38 -10.0 -3 indoors+1474 36 +0
 
 You hit the Fire Demon very hard.
 
@@ -5543,19 +5537,19 @@ You wish that your wounds would stop BLEEDING that much!
 
 You have been KILLED!! 
 
-<-92hp 188ma 224mv> 365325821 587601 - -6.2 -3 indoors+341 8 +0
+\<-92hp 188ma 224mv\> 365325821 587601 - -6.2 -3 indoors+341 8 +0
 
-Lie still; you are DEAD!!! :-( 
+Lie still; you are DEAD!!! <img src="/images/smilies/icon_e_sad.svg" alt=":-(" title=":-(" width="15" height="15" class="smiley nozoom"> 
 
-<-92hp 188ma 224mv> 365325821 587601 - -6.2 -3 indoors+0 0 +0
+\<-92hp 188ma 224mv\> 365325821 587601 - -6.2 -3 indoors+0 0 +0
 
-Lie still; you are DEAD!!! :-( 
+Lie still; you are DEAD!!! <img src="/images/smilies/icon_e_sad.svg" alt=":-(" title=":-(" width="15" height="15" class="smiley nozoom"> 
 
-<-92hp 188ma 224mv> 365325821 587601 - -6.2 -3 indoors+0 0 +0
+\<-92hp 188ma 224mv\> 365325821 587601 - -6.2 -3 indoors+0 0 +0
 
-Lie still; you are DEAD!!! :-( 
+Lie still; you are DEAD!!! <img src="/images/smilies/icon_e_sad.svg" alt=":-(" title=":-(" width="15" height="15" class="smiley nozoom"> 
 
-<-92hp 188ma 224mv> 365325821 587601 - -6.2 -3 indoors+0 0 +0
+\<-92hp 188ma 224mv\> 365325821 587601 - -6.2 -3 indoors+0 0 +0
 
 War -- ':)'
 
@@ -5563,7 +5557,7 @@ War -- ':)'
 
 <div class="post" data-post-id="37848" data-author="Teron" data-date="2016-12-16T09:47:53+00:00" data-subject="Re: Your afternoon chuckle">
 
-<633hp 28ma 427mv> 145245424707 949103 60 -10.3 +10 indoors+0 0 +0
+\<633hp 28ma 427mv\> 145245424707 949103 60 -10.3 +10 indoors+0 0 +0
 
 The lord of shadows misses you with its claw.
 
@@ -5623,33 +5617,33 @@ You wish that your wounds would stop BLEEDING that much!
 
 You have been KILLED!! 
 
-<-73hp 29ma 428mv> 145245424707 949103 - -5.8 +10 indoors+0 0 +0
+\<-73hp 29ma 428mv\> 145245424707 949103 - -5.8 +10 indoors+0 0 +0
 
 group
 
 Group 'The Terrific Brotherhood' is led by Ezekiel and consists of:
 
-   (Dead)              War [Wa:9.40  -59hp 338ma 331mv] ---
+ (Dead) War [Wa:9.40 -59hp 338ma 331mv] ---
 
-   (Dead)             Suna [Dr:9.40  -15hp 995ma 355mv] gyt/rhodo                     
+ (Dead) Suna [Dr:9.40 -15hp 995ma 355mv] gyt/rhodo 
 
-   (Dead)            Taron [Wa:9.40  -73hp  29ma 428mv] tomb jade/jacinth             
+ (Dead) Taron [Wa:9.40 -73hp 29ma 428mv] tomb jade/jacinth 
 
-   (Dead)            Gorka [Wa:6.39  -86hp  35ma 396mv] vgarnet/rcquartz              
+ (Dead) Gorka [Wa:6.39 -86hp 35ma 396mv] vgarnet/rcquartz 
 
- (Leader)          Ezekiel [Ma:8.31  125hp 156ma 352mv] emerald/malachite             
+ (Leader) Ezekiel [Ma:8.31 125hp 156ma 352mv] emerald/malachite 
 
-                    Fluffy [Dr:9.40  902hp 366ma 321mv] Ruby / S.Ruby                 
+ Fluffy [Dr:9.40 902hp 366ma 321mv] Ruby / S.Ruby 
 
- (Absent)             Mage [Ma:5.38  453hp  17ma 186mv] Tourma.Sapph                  
+ (Absent) Mage [Ma:5.38 453hp 17ma 186mv] Tourma.Sapph 
 
-<-73hp 29ma 428mv> 145245424707 949103 - -5.8 +10 indoors+0 0 +0
+\<-73hp 29ma 428mv\> 145245424707 949103 - -5.8 +10 indoors+0 0 +0
 
 Mage -- 'afk ciggy'
 
 Mage -- 'oops we have a situation'
 
-Mage -- 'i forgot to boil water :('
+Mage -- 'i forgot to boil water <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">'
 
 Then Dr saved us all.
 
@@ -5657,7 +5651,7 @@ Then Dr saved us all.
 
 <div class="post" data-post-id="37970" data-author="Teron" data-date="2017-01-16T16:06:48+00:00" data-subject="Re: Your afternoon chuckle">
 
-<1173hp 154ma 258mv> 179183211497 975926 23 -13.7 -2 overcast+0 0 +0
+\<1173hp 154ma 258mv\> 179183211497 975926 23 -13.7 -2 overcast+0 0 +0
 
 You skillfully parry the attack of a crazed baboon.
 
@@ -5695,7 +5689,7 @@ A crazed baboon looks shocked as he cuts himself on your petrified armor!
 
 You have been KILLED!! 
 
-<-130hp 154ma 258mv> 179183235353 975926 - -8.7 -2 overcast+23856 596 +0
+\<-130hp 154ma 258mv\> 179183235353 975926 - -8.7 -2 overcast+23856 596 +0
 
 I was lit and with a group.
 
@@ -5705,15 +5699,15 @@ I don't think this is a safe group area, but I guess it could work with Cizin .)
 
 <div class="post" data-post-id="37973" data-author="Josiah" data-date="2017-01-17T08:46:42+00:00" data-subject="Re: Your afternoon chuckle">
 
-That's an area for elite groups, and it requires an elite tank. DR > AC!
+That's an area for elite groups, and it requires an elite tank. DR \> AC!
 
 </div>
 
 <div class="post" data-post-id="37975" data-author="Gorka" data-date="2017-01-17T10:21:35+00:00" data-subject="Re: Your afternoon chuckle">
 
-Sorry it took so long for the group to move up to safety Taron... I think we were waiting probably waiting for someone to enter the portal...  :wink: 
+Sorry it took so long for the group to move up to safety Taron... I think we were waiting probably waiting for someone to enter the portal... <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom"> 
 
-Josiah is partially right... in SOME cases DR > AC. I'd be interested to hear people's theories on which is greater... Spell Saves or Spell Bonus... it's a similar situation when you really need both... but which is better to get first?
+Josiah is partially right... in SOME cases DR \> AC. I'd be interested to hear people's theories on which is greater... Spell Saves or Spell Bonus... it's a similar situation when you really need both... but which is better to get first?
 
 </div>
 
@@ -5727,11 +5721,11 @@ Bring a bard next time so you don't have to fight 2 mobs at once. I count 12 att
 
 You guys seem to write as if there's a problem. There isn't. Just funny being splorked, that's all.
 
-**Josiah**, recently I've been thinking if the dr cap difference between wa/mo and wa/dr/mo is worth it.  Maybe in these cases it is.
+<strong>Josiah</strong>, recently I've been thinking if the dr cap difference between wa/mo and wa/dr/mo is worth it. Maybe in these cases it is.
 
-**Gorka**, it's ok, I hope you learned to move fast there.
+<strong>Gorka</strong>, it's ok, I hope you learned to move fast there.
 
-**JB**, yes, that's two baboons.
+<strong>JB</strong>, yes, that's two baboons.
 
 My dilemma was to get a bard to sing luck for others (the zeridan leader doesn't repop with ppl at him) or to stay in Taron and chop faster. If I went in as a bard, chances are I'd have been splorked there, if I'd had failed a single cast of reign of confusion. In fact, I ran there once as a bard, a few mobs tried to kill me and nearly succeeded - and then I learned the leader doesn't repop, when you are standing there.
 
@@ -5745,35 +5739,35 @@ Oh, one more thing. I was splorked, when I was at a gateable spot and was gating
 
 [ pri sec ter qua qui hex sep oct ] Players
 
------------------------------------
+\-----------------------------------
 
-[      *Overlord*  Wa:9.40        ] Linx [Legends]
+[ \*Overlord\* Wa:9.40 ] Linx [Legends]
 
-[      *Overlord*  Wa:9.40        ] Taron teaches firewind
+[ \*Overlord\* Wa:9.40 ] Taron teaches firewind
 
-[      *Virtuoso*  Ba:8.36        ] Sochi The Dancing Bear <<M.A.G.I>>
+[ \*Virtuoso\* Ba:8.36 ] Sochi The Dancing Bear \<\<M.A.G.I\>\>
 
-[        *Magus*  Ma:8.33         ] Ezekiel ~Dragonsworn~ thanks Vege and Suna!
+[ \*Magus\* Ma:8.33 ] Ezekiel \~Dragonsworn\~ thanks Vege and Suna!
 
-[      *Champion*  Wa:6.39        ] Gorka Texas Ranger
+[ \*Champion\* Wa:6.39 ] Gorka Texas Ranger
 
-[       *Ranger*  Wa:4.36         ] Rok need master strike, concentration
+[ \*Ranger\* Wa:4.36 ] Rok need master strike, concentration
 
-[       *Pilgrim*  Mo:4.32        ] Sledgehammer crushes the competition! Literally
+[ \*Pilgrim\* Mo:4.32 ] Sledgehammer crushes the competition! Literally
 
-[ 40d 40c 40m 39n|34o 28t 28w 22b ] Fandral the Fiery Feral 
+[ 40d 40c 40m 39n\|34o 28t 28w 22b ] Fandral the Fiery Feral 
 
-[ 40m 34c 17d 11n| 9w  8t  7o  6b ] (Reborn) Tuk <<M.A.G.I>> Putin's Secretarie for IT security.
+[ 40m 34c 17d 11n\| 9w 8t 7o 6b ] (Reborn) Tuk \<\<M.A.G.I\>\> Putin's Secretarie for IT security.
 
-[ 39w 39c 36o 28n|30m 23d 20b 18t ] Imco ~
+[ 39w 39c 36o 28n\|30m 23d 20b 18t ] Imco \~
 
-[ 20c 20m 20n 10b| 6w  5d  4o  3t ] Whatta Filler of Water Boxes
+[ 20c 20m 20n 10b\| 6w 5d 4o 3t ] Whatta Filler of Water Boxes
 
-[ 20w 11d  8o  6c| 3t  3n  1m  1b ] (Reborn) Cyprimus beacon of light in a dark cloaked mud!
+[ 20w 11d 8o 6c\| 3t 3n 1m 1b ] (Reborn) Cyprimus beacon of light in a dark cloaked mud!
 
-[ 14d 12t 10m  8w| 6b  4o  2c  1n ] Unmace the Alphabetizer of Numbers
+[ 14d 12t 10m 8w\| 6b 4o 2c 1n ] Unmace the Alphabetizer of Numbers
 
-[  2t  0   0   0 | 0   0   0   0  ] Wuxia the Untitled
+[ 2t 0 0 0 \| 0 0 0 0 ] Wuxia the Untitled
 
 You tell Cyprimus 'can I get you a mystical platemail noob?'
 
@@ -5823,21 +5817,21 @@ a few moments later
 
 Group 'No Ninos En La Canasta!' is led by Zuzu and consists of:
 
-  (Front)            Gorka [Wa:6.39   27hp 461ma  95mv] sapphire/chyroprase           
+ (Front) Gorka [Wa:6.39 27hp 461ma 95mv] sapphire/chyroprase 
 
- (Leader)             Zuzu [Cl:3.28  768hp 257ma 190mv] Rhodo|TJade                   
+ (Leader) Zuzu [Cl:3.28 768hp 257ma 190mv] Rhodo\|TJade 
 
-   (Dead)              War [Wa:9.40  -55hp 365ma 337mv] ---
+ (Dead) War [Wa:9.40 -55hp 365ma 337mv] ---
 
-   (Dead)             Lerr [Ma:0.37 -176hp  77ma 157mv] eye agate                     
+ (Dead) Lerr [Ma:0.37 -176hp 77ma 157mv] eye agate 
 
- (Absent)             Imco [Wa:0.39  217hp  47ma 246mv] jet/vgarnet                   
+ (Absent) Imco [Wa:0.39 217hp 47ma 246mv] jet/vgarnet 
 
-   (Dead)           Knifey [Wa:2.39 -120hp 227ma 273mv] GYT / CSapp                   
+ (Dead) Knifey [Wa:2.39 -120hp 227ma 273mv] GYT / CSapp 
 
-   (Dead)           Curate [Cl:8.30  -78hp 188ma 344mv] Obsidian | Emerald            
+ (Dead) Curate [Cl:8.30 -78hp 188ma 344mv] Obsidian \| Emerald 
 
-   (Dead)         Songster [Ba:1.39 -166hp  26ma 265mv] jacinth/black onyx tiamat
+ (Dead) Songster [Ba:1.39 -166hp 26ma 265mv] jacinth/black onyx tiamat
 
 </div>
 
@@ -5847,11 +5841,11 @@ You now follow Gorka.
 
 Imco now follows the Red Sash City Guard.
 
-<875hp 433ma 265mv> 591971384 1117657 - -7.9 +10 overcast+0 0 +0
+\<875hp 433ma 265mv\> 591971384 1117657 - -7.9 +10 overcast+0 0 +0
 
 You grouptell: 'Gork, you can gt me to march, mist to mist tank, or reign'
 
-<875hp 433ma 265mv> 591971384 1117657 - -7.9 +10 overcast+0 0 +0
+\<875hp 433ma 265mv\> 591971384 1117657 - -7.9 +10 overcast+0 0 +0
 
 A soldier of Bal Harbor leaves east.
 
@@ -5865,7 +5859,7 @@ The Red Sash City Guard leaves with him.
 
 A Cave Strewn with Feces and Carrion
 
-Exits: North  
+Exits: North 
 
 The corpse of Tinx is lying here.
 
@@ -5873,11 +5867,11 @@ The corpse of Taron is lying here.
 
 AN OPEN PORTAL IS HERE!
 
-Linx   is here, fighting Uhhhl
+Linx is here, fighting Uhhhl
 
 Uhhhl is here, fighting Linx
 
-<6hp 29ma 99mv> 190959418060 0 - 8.8 +10 indoors+0 0 +0
+\<6hp 29ma 99mv\> 190959418060 0 - 8.8 +10 indoors+0 0 +0
 
 Linx skillfully parries the attack of Uhhhl.
 
@@ -5903,17 +5897,17 @@ Uhhhl charges and bashes into Linx.
 
 Linx is knocked off his feet!
 
-<9hp 30ma 99mv> 190959418060 0 - 8.8 +10 indoors+0 0 +0
+\<9hp 30ma 99mv\> 190959418060 0 - 8.8 +10 indoors+0 0 +0
 
 say uh
 
 Linx reports 582/1282 hp. Change: -685. Need: 700. Spells: none.
 
-<9hp 30ma 99mv> 190959418060 0 - 8.8 +10 indoors+0 0 +0
+\<9hp 30ma 99mv\> 190959418060 0 - 8.8 +10 indoors+0 0 +0
 
 You say 'uh'
 
-<10hp 31ma 100mv> 190959418060 0 - 8.8 +10 indoors+0 0 +0
+\<10hp 31ma 100mv\> 190959418060 0 - 8.8 +10 indoors+0 0 +0
 
 Uhhhl viciously massacres Linx with his crush.
 
@@ -5927,27 +5921,27 @@ Uhhhl viciously massacres Linx with his hit.
 
 Linx is dead! R.I.P.
 
-<14hp 32ma 101mv> 190959418060 0 - 8.8 +10 indoors+0 0 +0
+\<14hp 32ma 101mv\> 190959418060 0 - 8.8 +10 indoors+0 0 +0
 
 push linx n
 
 Uhhhl peers about intently.
 
-<17hp 33ma 101mv> 190959418060 0 - 8.8 +10 indoors+0 0 +0
+\<17hp 33ma 101mv\> 190959418060 0 - 8.8 +10 indoors+0 0 +0
 
 push linx n
 
 You throw yourself against Linx and push him to the north!
 
-<17hp 33ma 81mv> 190959418060 0 - 8.8 +10 indoors+0 0 +0
+\<17hp 33ma 81mv\> 190959418060 0 - 8.8 +10 indoors+0 0 +0
 
 They aren't here.
 
-<17hp 33ma 81mv> 190959418060 0 - 8.8 +10 indoors+0 0 +0
+\<17hp 33ma 81mv\> 190959418060 0 - 8.8 +10 indoors+0 0 +0
 
 Uhhhl snarls and salivates agitatedly but stays where he is.
 
-<20hp 34ma 82mv> 190959418060 0 - 8.8 +10 indoors+0 0 +0
+\<20hp 34ma 82mv\> 190959418060 0 - 8.8 +10 indoors+0 0 +0
 
 TICK IN 10 SECONDS.
 
@@ -5963,25 +5957,25 @@ Fandral arrives from the north.
 
 Uhhhl sees Fandral, and screams in terror!
 
-<22hp 35ma 83mv> 190959418060 0 - 8.8 +10 indoors+0 0 +0
+\<22hp 35ma 83mv\> 190959418060 0 - 8.8 +10 indoors+0 0 +0
 
 Saving Taron.
 
 Saving items.
 
-<23hp 35ma 83mv> 190959418060 0 - 8.8 +10 indoors+0 0 +0
+\<23hp 35ma 83mv\> 190959418060 0 - 8.8 +10 indoors+0 0 +0
 
 Uhhhl sees Fandral, and screams in terror!
 
 You tell Ezekiel 'raise linx'
 
-<23hp 35ma 83mv> 190959418060 0 - 8.8 +10 indoors+0 0 +0
+\<23hp 35ma 83mv\> 190959418060 0 - 8.8 +10 indoors+0 0 +0
 
 Fandral utters the words, 'candusghafahuai'
 
 Fandral briefly glows with a blinding light!
 
-<24hp 36ma 83mv> 190959418060 0 - 8.8 +10 indoors+0 0 +0
+\<24hp 36ma 83mv\> 190959418060 0 - 8.8 +10 indoors+0 0 +0
 
 Uhhhl really needs a good bath! Phew!
 
@@ -5995,13 +5989,13 @@ Timer now at 60 secs.
 
 save
 
-<27hp 36ma 84mv> 190959418060 0 - 8.8 +10 indoors+0 0 +0
+\<27hp 36ma 84mv\> 190959418060 0 - 8.8 +10 indoors+0 0 +0
 
 Saving Taron.
 
 Saving items.
 
-<27hp 36ma 84mv> 190959418060 0 - 8.8 +10 indoors+0 0 +0
+\<27hp 36ma 84mv\> 190959418060 0 - 8.8 +10 indoors+0 0 +0
 
 say what the hell
 
@@ -6011,15 +6005,15 @@ Saving Taron.
 
 Saving items.
 
-<27hp 36ma 84mv> 190959418060 0 - 8.8 +10 indoors+0 0 +0
+\<27hp 36ma 84mv\> 190959418060 0 - 8.8 +10 indoors+0 0 +0
 
 You say 'what the hell'
 
-<27hp 36ma 84mv> 190959418060 0 - 8.8 +10 indoors+0 0 +0
+\<27hp 36ma 84mv\> 190959418060 0 - 8.8 +10 indoors+0 0 +0
 
 Uhhhl viciously massacres Fandral with his crush.
 
-<27hp 37ma 84mv> 190959418060 0 - 8.8 +10 indoors+0 0 +0
+\<27hp 37ma 84mv\> 190959418060 0 - 8.8 +10 indoors+0 0 +0
 
 Fandral barely slices Uhhhl.
 
@@ -6041,13 +6035,13 @@ Uhhhl viciously massacres Fandral with his hit.
 
 Fandral is dead! R.I.P.
 
-<27hp 37ma 84mv> 190959418060 0 - 8.8 +10 indoors+0 0 +0
+\<27hp 37ma 84mv\> 190959418060 0 - 8.8 +10 indoors+0 0 +0
 
 Ezekiel makes a hasty retreat.
 
 Ezekiel leaves north.
 
-<27hp 38ma 85mv> 190959418060 0 - 8.8 +10 indoors+0 0 +0
+\<27hp 38ma 85mv\> 190959418060 0 - 8.8 +10 indoors+0 0 +0
 
 push fa n
 
@@ -6055,7 +6049,7 @@ You throw yourself against Fandral and push him to the north!
 
 Fandral leaves north.
 
-<27hp 39ma 66mv> 190959418060 0 - 8.8 +10 indoors+0 0 +0
+\<27hp 39ma 66mv\> 190959418060 0 - 8.8 +10 indoors+0 0 +0
 
 l
 
@@ -6067,11 +6061,11 @@ Uhhhl peers about intently.
 
 You land a powerful strike into Wurragurr Desacratrix's side.
 
-<1282hp 502ma 212mv> -12.2 +32 [ : AI'] 2
+\<1282hp 502ma 212mv\> -12.2 +32 [ : AI'] 2
 
 Tina utters the words, 'yufzbarr'
 
-<1284hp 502ma 213mv> -12.2 +32 [ : AI'] 0
+\<1284hp 502ma 213mv\> -12.2 +32 [ : AI'] 0
 
 Wurragurr Desacratrix is dead! R.I.P.
 
@@ -6121,7 +6115,7 @@ Your brutal backstab causes the chinchilla guardian to writhe in agony, opening 
 
 You report 1069/1422 hp. Change: +141. Need: 353. Spells: greater fluidity, aegis.
 
-<1069hp 12ma 47mv> 191930098878 1038143 80 -13.7 +9 indoors+86539 2163 +0
+\<1069hp 12ma 47mv\> 191930098878 1038143 80 -13.7 +9 indoors+86539 2163 +0
 
 Ezekiel utters the words, 'yfaghbarh'
 
@@ -6131,7 +6125,7 @@ Ezekiel's spectral shield drains power from the spell!
 
 Ezekiel is dead! R.I.P.
 
-Ezekiel -- 'hp went from 892 to -395 in one blast and that was lit :)'
+Ezekiel -- 'hp went from 892 to -395 in one blast and that was lit <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">'
 
 Ezekiel -- 'wonder if each of us saved and it doubled the damage'
 
@@ -6157,7 +6151,7 @@ I tried out deathblow on warcry count last week. It worked for me. I got kill co
 
 <div class="post" data-post-id="38065" data-author="Josiah" data-date="2017-02-14T15:46:44+00:00" data-subject="Re: Your afternoon chuckle">
 
-The brutal backstab multiplied your damage.  There might have been two failed saves in there as well...
+The brutal backstab multiplied your damage. There might have been two failed saves in there as well...
 
 Fun stuff!
 
@@ -6191,7 +6185,7 @@ Congratulations, you have fulfilled your oath of victory!
 
 N lulls you into a deep trance.
 
-You feel sleepy and can`t resist lying down.
+You feel sleepy and can\`t resist lying down.
 
 You can't do that, you're paralyzed!
 
@@ -6213,7 +6207,7 @@ gt vege webbed
 
 You grouptell: 'vege webbed'
 
-<887hp 225ma 283mv> 871259689 358291 - -0.5 -10 indoors+0 0 +0
+\<887hp 225ma 283mv\> 871259689 358291 - -0.5 -10 indoors+0 0 +0
 
 Mage has turned his attacks toward Shun Chun!
 
@@ -6229,7 +6223,7 @@ You follow Cyprimus.
 
 Emperor Yao's Throne Room
 
-Exits: North  [East]  South  
+Exits: North [East] South 
 
 The corpse of the noble Emperor Yao is lying here.
 
@@ -6243,21 +6237,21 @@ You also see five terracotta royal guards here.
 
 Ancient Dock
 
-   The rickety old dock creaks and groans under the stresses of the tide and
+ The rickety old dock creaks and groans under the stresses of the tide and
 
-looks to be about ready to become one with the ocean.  The boards are ancient
+looks to be about ready to become one with the ocean. The boards are ancient
 
-and were probably driftwood when the dock was originally constructed.  There
+and were probably driftwood when the dock was originally constructed. There
 
 is a single heavy iron mooring ring on the western edge of the dock, and it 
 
-looks as if it could rust completely through given a few more years.  A small
+looks as if it could rust completely through given a few more years. A small
 
 collection of tents and huts lie to the east in what appears to be a native
 
 settlement.
 
-Exits: East  
+Exits: East 
 
 The Spirit of Bal Harbor is docked here.
 
@@ -6267,7 +6261,7 @@ A dark-skinned native man wanders around carrying a long spear.
 
 A heron is perched here on a post.
 
-<1379hp 218ma 412mv 17999999868xp -10.7ac -%>
+\<1379hp 218ma 412mv 17999999868xp -10.7ac -%\>
 
 dg heron
 
@@ -6279,7 +6273,7 @@ deathgrip heron
 
 You yell 'LEEEEEROOOY JEEEENKINS!!!'
 
-<1379hp 223ma 418mv 17999999868xp -10.7ac -%>
+\<1379hp 223ma 418mv 17999999868xp -10.7ac -%\>
 
 Luck is on your side today!
 
@@ -6289,7 +6283,7 @@ You've got a great feeling about this fight!
 
 A heron sees you circling in for the kill, and deftly steps out of the way!
 
-<1379hp 223ma 418mv 17999999868xp -10.7ac -%>
+\<1379hp 223ma 418mv 17999999868xp -10.7ac -%\>
 
 You skillfully parry the attack of a heron.
 
@@ -6311,33 +6305,9 @@ You miss a heron with your hit.
 
 fw heron
 
-You lost your concentration!  You failed to cast 'firewind'.
+You lost your concentration! You failed to cast 'firewind'.
 
-<1008hp 223ma 418mv 17999999868xp -10.7ac -%>
-
-You skillfully parry the attack of a heron.
-
-You are viciously massacred by a heron's hit.
-
-You are viciously massacred by a heron's hit.
-
-You are viciously massacred by a heron's hit.
-
-You are viciously massacred by a heron's hit.
-
-You miss a heron with your hit.
-
-You miss a heron with your hit.
-
-You miss a heron with your hit.
-
-You miss a heron with your hit.
-
-fw heron
-
-You lost your concentration!  You failed to cast 'firewind'.
-
-<679hp 223ma 418mv 17999999868xp -10.7ac -%>
+\<1008hp 223ma 418mv 17999999868xp -10.7ac -%\>
 
 You skillfully parry the attack of a heron.
 
@@ -6359,9 +6329,33 @@ You miss a heron with your hit.
 
 fw heron
 
-You lost your concentration!  You failed to cast 'firewind'.
+You lost your concentration! You failed to cast 'firewind'.
 
-<351hp 223ma 418mv 17999999868xp -10.7ac -%>
+\<679hp 223ma 418mv 17999999868xp -10.7ac -%\>
+
+You skillfully parry the attack of a heron.
+
+You are viciously massacred by a heron's hit.
+
+You are viciously massacred by a heron's hit.
+
+You are viciously massacred by a heron's hit.
+
+You are viciously massacred by a heron's hit.
+
+You miss a heron with your hit.
+
+You miss a heron with your hit.
+
+You miss a heron with your hit.
+
+You miss a heron with your hit.
+
+fw heron
+
+You lost your concentration! You failed to cast 'firewind'.
+
+\<351hp 223ma 418mv 17999999868xp -10.7ac -%\>
 
 You tickle a heron with your hit.
 
@@ -6375,7 +6369,7 @@ Your blood freezes as you hear a heron's death cry.
 
 A native man gets gold coins from inside the corpse of a heron.
 
-<1383hp 144ma 402mv 18000000010xp -10.7ac -%>
+\<1383hp 144ma 402mv 18000000010xp -10.7ac -%\>
 
 ...
 
@@ -6389,17 +6383,17 @@ You are momentarily disoriented as your body reforms in another location.
 
 The Ancient Mariner
 
-   The interior of this inn is dark and smoky.  Thick oak beams, blackened 
+ The interior of this inn is dark and smoky. Thick oak beams, blackened 
 
-with age, run across the ceiling.  A large fireplace at one end holds a few 
+with age, run across the ceiling. A large fireplace at one end holds a few 
 
 smoking logs: blackened kettles and pans nearby suggest that it is used for 
 
-cooking.  At the other end is a narrow bar, on which stand wooden kegs of 
+cooking. At the other end is a narrow bar, on which stand wooden kegs of 
 
 various sizes and a selection of pewter tankards.
 
-Exits: East  West  
+Exits: East West 
 
 A board titled 'Most Famous Explorers' hangs on the wall here.
 
@@ -6407,37 +6401,35 @@ Lyme's innkeeper smiles at you and offers to put you up for the night.
 
 ...
 
-<1383hp 144ma 402mv 18000000010xp -10.7ac -%>
+\<1383hp 144ma 402mv 18000000010xp -10.7ac -%\>
 
 Guildhouse of the Avatar
 
-   The guild hall is an immense room and houses some of the finest
+ The guild hall is an immense room and houses some of the finest
 
-training equipment available in the known world.  The room is lit
+training equipment available in the known world. The room is lit
 
 by thousands of glowing powered crystals which have been embedded
 
-into the walls and ceiling.  There is a distinct odor of expensive
+into the walls and ceiling. There is a distinct odor of expensive
 
-incense in the air.  A grand flight of marble stairs leads upward
+incense in the air. A grand flight of marble stairs leads upward
 
 into an atrium.
 
-Exits: South  Up  
+Exits: South Up 
 
 An old man with a white beard and many black tattoos stands here.
 
 Apirana the Master Avatar glows with a bright light!
 
-<1383hp 145ma 402mv 18000000010xp -10.7ac -%>
+\<1383hp 145ma 402mv 18000000010xp -10.7ac -%\>
 
 level gain
 
 You raise a level!
 
 Krom is very pleased with your progress and rewards you!
-
- 
 
 Apirana the Master Avatar says 'Gorka is ready for the next level'
 
@@ -6455,37 +6447,37 @@ who
 
 Suna gossips-- 'grats gorka'
 
-<1385hp 545ma 410mv 10xp -10.7ac -%>
+\<1385hp 545ma 410mv 10xp -10.7ac -%\>
 
-*Immortals of SlothMUD* 
+\*Immortals of SlothMUD\* 
 
---------------------------------
+\--------------------------------
 
-[ *Greater God*  ] Neptune [JAFO] Vote! Vote!
+[ \*Greater God\* ] Neptune [JAFO] Vote! Vote!
 
 [ pri sec ter qua qui hex sep oct ] Players
 
------------------------------------
+\-----------------------------------
 
-[      *Overlord*  Wa:9.40        ] Taron trades eq for gems [http://bit.ly/2lzmAPk](http://bit.ly/2lzmAPk)
+[ \*Overlord\* Wa:9.40 ] Taron trades eq for gems [http://bit.ly/2lzmAPk](http://bit.ly/2lzmAPk)
 
-[      *Overlord*  Wa:9.40        ] Gorka Face - Made It!
+[ \*Overlord\* Wa:9.40 ] Gorka Face - Made It!
 
-[       *Animist*  Dr:5.38        ] (Reborn) Suna ~Dragonsworn~
+[ \*Animist\* Dr:5.38 ] (Reborn) Suna \~Dragonsworn\~
 
-[      *Magician*  Ma:5.27        ] (Reborn) Tuk -- ' <@<<M.A.G.I>>@> ' -- (nrobeR)
+[ \*Magician\* Ma:5.27 ] (Reborn) Tuk -- ' \<@\<\<M.A.G.I\>\>@\> ' -- (nrobeR)
 
-[     *Skinwalker*  Dr:4.36       ] Fandral the Fiery Feral 
+[ \*Skinwalker\* Dr:4.36 ] Fandral the Fiery Feral 
 
-[ 40t 37m 22d 20w|10c  9o  7b  7n ] Tygra 
+[ 40t 37m 22d 20w\|10c 9o 7b 7n ] Tygra 
 
-[ 20c 20m 20n 10b| 6w  5d  4o  3t ] Whatta 
+[ 20c 20m 20n 10b\| 6w 5d 4o 3t ] Whatta 
 
-[ 14d 12t 10m  8w| 6b  4o  2c  1n ] Unmace strikes the earth!
+[ 14d 12t 10m 8w\| 6b 4o 2c 1n ] Unmace strikes the earth!
 
-[  8o  2w  0   0 | 0   0   0   0  ] Nib the Untitled
+[ 8o 2w 0 0 \| 0 0 0 0 ] Nib the Untitled
 
-[  5t  2m  1w  0 | 0   0   0   0  ] Tamzin the Untitled
+[ 5t 2m 1w 0 \| 0 0 0 0 ] Tamzin the Untitled
 
 There are 11 visible players.
 
@@ -6501,27 +6493,27 @@ Ok.
 
 Gildebruun, Mistress of Fiends steps back from the fight and scratches her head in confusion.
 
-<565hp 4ma 283mv> 1779188395 68493 - -5.2 +4 indoors+672 16 +0
+\<565hp 4ma 283mv\> 1779188395 68493 - -5.2 +4 indoors+672 16 +0
 
 Victory -- 'tank down'
 
-<566hp 5ma 283mv> 1779188395 68493 - -5.2 +4 indoors+0 0 +0
+\<566hp 5ma 283mv\> 1779188395 68493 - -5.2 +4 indoors+0 0 +0
 
 Curate -- 'get out'
 
-<569hp 7ma 283mv> 1779188395 68493 - -5.2 +4 indoors+0 0 +0
+\<569hp 7ma 283mv\> 1779188395 68493 - -5.2 +4 indoors+0 0 +0
 
 Curate -- 'get out'
 
-<570hp 7ma 283mv> 1779188395 68493 - -5.2 +4 indoors+0 0 +0
+\<570hp 7ma 283mv\> 1779188395 68493 - -5.2 +4 indoors+0 0 +0
 
 Curate -- 'get out'
 
-<570hp 7ma 283mv> 1779188395 68493 - -5.2 +4 indoors+0 0 +0
+\<570hp 7ma 283mv\> 1779188395 68493 - -5.2 +4 indoors+0 0 +0
 
 Victory leaves up.
 
-<571hp 9ma 283mv> 1779188395 68493 - -5.2 +4 indoors+0 0 +0
+\<571hp 9ma 283mv\> 1779188395 68493 - -5.2 +4 indoors+0 0 +0
 
 Jackalope leaves up.
 
@@ -6529,7 +6521,7 @@ Curate recites a major scroll of recall.
 
 Feist disappears.
 
-<572hp 9ma 283mv> 1779188395 68493 - -5.2 +4 indoors+0 0 +0
+\<572hp 9ma 283mv\> 1779188395 68493 - -5.2 +4 indoors+0 0 +0
 
 recite recall fei
 
@@ -6543,11 +6535,11 @@ You struggle to break free from the webs to no avail.
 
 Daemeon leaves up.
 
-<574hp 10ma 283mv> 1779188395 68493 - -5.2 +4 indoors+0 0 +0
+\<574hp 10ma 283mv\> 1779188395 68493 - -5.2 +4 indoors+0 0 +0
 
 You are viciously massacred by Gildebruun, Mistress of Fiends's hit.
 
-<419hp 11ma 283mv> 1779188395 68493 22 -5.2 +4 indoors+0 0 +0
+\<419hp 11ma 283mv\> 1779188395 68493 22 -5.2 +4 indoors+0 0 +0
 
 You crush Gildebruun, Mistress of Fiends very hard.
 
@@ -6563,33 +6555,33 @@ A loud melody erupts into the sky...
 
 You quickly dance away from a fatal blow!
 
-<50hp 12ma 283mv> 1779189039 68493 - -5.2 +4 indoors+644 16 +0
+\<50hp 12ma 283mv\> 1779189039 68493 - -5.2 +4 indoors+644 16 +0
 
-| 
+\| 
 
-|
+\|
 
 recite recall
 
 Curate -- 'i recalled him'
 
-<55hp 15ma 283mv> 1779189039 68493 - -5.2 +4 indoors+0 0 +0
+\<55hp 15ma 283mv\> 1779189039 68493 - -5.2 +4 indoors+0 0 +0
 
 Your senses begin to dull.
 
-<56hp 15ma 283mv> 1779189039 68493 - -5.2 +4 indoors+0 0 +0
+\<56hp 15ma 283mv\> 1779189039 68493 - -5.2 +4 indoors+0 0 +0
 
 You have been KILLED!! 
 
-<-120hp 16ma 283mv> 1779189039 68493 - -1.2 +4 indoors+0 0 +0
+\<-120hp 16ma 283mv\> 1779189039 68493 - -1.2 +4 indoors+0 0 +0
 
-Lie still; you are DEAD!!! :-(
+Lie still; you are DEAD!!! <img src="/images/smilies/icon_e_sad.svg" alt=":-(" title=":-(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="38185" data-author="Teron" data-date="2017-03-29T13:15:08+00:00" data-subject="Re: Your afternoon chuckle">
 
-(Reborn) Tuk <<M.A.G.I>> New eq/runes added => bit.ly/15ToP2d is lying here, incapacitated.
+(Reborn) Tuk \<\<M.A.G.I\>\> New eq/runes added =\> bit.ly/15ToP2d is lying here, incapacitated.
 
 Tuk has a strong red aura.
 
@@ -6601,11 +6593,11 @@ A deadly bone naga serves his master in protection of the wall of bones.
 
 An enslaved bone naga is covered in sticky webs!
 
-<969hp 447ma 195mv> 220691755736 1902980 - -8.9 +8 raining+0 0 +0
+\<969hp 447ma 195mv\> 220691755736 1902980 - -8.9 +8 raining+0 0 +0
 
 You sing another verse of 'march of the heroes'.
 
-<972hp 445ma 197mv> 220691755736 1902980 - -8.9 +8 raining+0 0 +0
+\<972hp 445ma 197mv\> 220691755736 1902980 - -8.9 +8 raining+0 0 +0
 
 An undead yuan-ti assassin throws a dull grey dart, hitting you!
 
@@ -6615,11 +6607,11 @@ Your tumbling partially deflects the oncoming blow!
 
 You report 1080/1322 hp. Change: +116. Need: 242. Spells: aegis, greater fluidity.
 
-<1080hp 445ma 197mv> 220691755736 1902980 100 -8.9 +8 raining+0 0 +0
+\<1080hp 445ma 197mv\> 220691755736 1902980 100 -8.9 +8 raining+0 0 +0
 
 Your blood freezes as you hear Tuk's death cry.
 
-<1085hp 447ma 199mv> 220691755736 1902980 100 -8.9 +8 raining+0 0 +0
+\<1085hp 447ma 199mv\> 220691755736 1902980 100 -8.9 +8 raining+0 0 +0
 
 cast 'restorat' tuk Taron
 
@@ -6629,25 +6621,25 @@ Nobody here by that name.
 
 <div class="post" data-post-id="38214" data-author="Teron" data-date="2017-04-14T14:14:36+00:00" data-subject="Re: Your afternoon chuckle">
 
-*Immortals of SlothMUD* 
+\*Immortals of SlothMUD\* 
 
---------------------------------
+\--------------------------------
 
-[ *Greater God*  ] Neptune [JAFO] Vote! Vote!
+[ \*Greater God\* ] Neptune [JAFO] Vote! Vote!
 
 [ pri sec ter qua qui hex sep oct ] Players
 
------------------------------------
+\-----------------------------------
 
-[      *Overlord*  Wa:9.40        ] Gorka is a dork.
+[ \*Overlord\* Wa:9.40 ] Gorka is a dork.
 
-[      *Overlord*  Wa:9.40        ] War solving disputes with epics!
+[ \*Overlord\* Wa:9.40 ] War solving disputes with epics!
 
-[      *Overlord*  Wa:9.40        ] Taron trades eq for gems [http://bit.ly/2lzmAPk](http://bit.ly/2lzmAPk)
+[ \*Overlord\* Wa:9.40 ] Taron trades eq for gems [http://bit.ly/2lzmAPk](http://bit.ly/2lzmAPk)
 
-[      *Archmage*  Ma:8.36        ] Ezekiel ~Dragonsworn~
+[ \*Archmage\* Ma:8.36 ] Ezekiel \~Dragonsworn\~
 
-[      *Magician*  Ma:5.38        ] (Reborn) Tuk <<M.A.G.I>> all players above me are dorks.
+[ \*Magician\* Ma:5.38 ] (Reborn) Tuk \<\<M.A.G.I\>\> all players above me are dorks.
 
 </div>
 
@@ -6657,11 +6649,11 @@ You grouptell: 'daemeon, gt macu me'
 
 Daemeon -- 'macu me'
 
-You grouptell: 'macu > knife'
+You grouptell: 'macu \> knife'
 
 You grouptell: 'yes, because i'm carrying all the macus'
 
-Daemeon -- 'horder :)~'
+Daemeon -- 'horder <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">\~'
 
 You grouptell: 'knives chop groupies more, and mobs less. stick to macus'
 
@@ -6733,27 +6725,27 @@ Norks utters the words, 'pzar'
 
 A warm feeling fills your body.
 
-<432hp gt how did the 2nd leave room?
+\<432hp gt how did the 2nd leave room?
 
-92ma 311mv> 3946380398 148280 32 -5.4 +0 raining
+92ma 311mv\> 3946380398 148280 32 -5.4 +0 raining
 
-+360 9 +0
+\+360 9 +0
 
 Cyprimus -- 'Gorka suicided'
 
-<433hp 93ma 311mv> 3946380398 148280 32 -5.4 +0 raining
+\<433hp 93ma 311mv\> 3946380398 148280 32 -5.4 +0 raining
 
 You grouptell: 'how did the 2nd leave room?'
 
-<433hp 93ma 311mv> 3946380398 148280 32 -5.4 +0 raining
+\<433hp 93ma 311mv\> 3946380398 148280 32 -5.4 +0 raining
 
 Cyprimus -- 'dont feed the lizards!'
 
-<434hp 94ma 312mv> 3946380398 148280 32 -5.4 +0 raining
+\<434hp 94ma 312mv\> 3946380398 148280 32 -5.4 +0 raining
 
-Ezekiel -- 'Gorka has chopped self!!  RIP!!!'
+Ezekiel -- 'Gorka has chopped self!! RIP!!!'
 
-<434hp 94ma 312mv> 3946380398 148280 32 -5.4 +0 raining
+\<434hp 94ma 312mv\> 3946380398 148280 32 -5.4 +0 raining
 
 Gnu cuts a limb off of a giant spiked lizard!!!!
 
@@ -6781,29 +6773,29 @@ Erikk crushes a giant spiked lizard very hard.
 
 Your group's front line is about to collapse, watch out!
 
-<436hp 95ma 313mv> 3946380426 148280 17 -5.4 +0 raining
+\<436hp 95ma 313mv\> 3946380426 148280 17 -5.4 +0 raining
 
-+28 0 +0
+\+28 0 +0
 
-play 'reign of confusion'  spiked
+play 'reign of confusion' spiked
 
 Cyprimus -- 'tanking enabled. Sing for rescues!'
 
-<436hp 95ma 313mv> 3946380426 148280 17 -5.4 +0 raining
+\<436hp 95ma 313mv\> 3946380426 148280 17 -5.4 +0 raining
 
 Cyprimus reports 1274/1274 hp. Change: -100. Need: 0. Spells: greater fluidity, glowing.
 
-<436hp 95ma 313mv> 3946380426 148280 17 -5.4 +0 raining
+\<436hp 95ma 313mv\> 3946380426 148280 17 -5.4 +0 raining
 
 You quickly play a verse of 'reign of confusion'.
 
 Ok.
 
-<437hp 75ma 313mv> 3946380426 148280 17 -5.4 +0 raining
+\<437hp 75ma 313mv\> 3946380426 148280 17 -5.4 +0 raining
 
 Cyprimus heroically rescues Erikk.
 
-<438hp 75ma 314mv> 3946380426 148280 17 -5.4 +0 raining
+\<438hp 75ma 314mv\> 3946380426 148280 17 -5.4 +0 raining
 
 You crush a giant spiked lizard hard.
 
@@ -6833,7 +6825,7 @@ coins : You are too laden down with equipment to pick anything else up.
 
 Ezekiel gets gold coins from the corpse of a giant spiked lizard that's on the ground.
 
-Ezekiel splits 29759 coins.  Your share is 2975 coins.
+Ezekiel splits 29759 coins. Your share is 2975 coins.
 
 </div>
 
@@ -6841,11 +6833,11 @@ Ezekiel splits 29759 coins.  Your share is 2975 coins.
 
 Gorka -- 'heal me please'
 
-<760hp 162ma 314mv> 3972393925 173845 21 -5.4 +0 indoors
+\<760hp 162ma 314mv\> 3972393925 173845 21 -5.4 +0 indoors
 
 You feel better.
 
-<762hp 164ma 314mv> 3972393925 173845 21 -5.4 +0 indoors
+\<762hp 164ma 314mv\> 3972393925 173845 21 -5.4 +0 indoors
 
 Ezekiel utters the words, 'candusghafahuai'
 
@@ -6855,19 +6847,19 @@ A gorynych briefly glows with a blinding light!
 
 <div class="post" data-post-id="38263" data-author="Teron" data-date="2017-05-31T06:42:46+00:00" data-subject="Re: Your afternoon chuckle">
 
-[      *Overlord*  Wa:9.40        ] Gorka missing Juggleblood.
+[ \*Overlord\* Wa:9.40 ] Gorka missing Juggleblood.
 
-[      *Overlord*  Wa:9.40        ] Taron misses Juggleblood
+[ \*Overlord\* Wa:9.40 ] Taron misses Juggleblood
 
-[      *Archmage*  Ma:8.39        ] Ezekiel ~Dragonsworn~ missing Juggleblood.
+[ \*Archmage\* Ma:8.39 ] Ezekiel \~Dragonsworn\~ missing Juggleblood.
 
-[       *Shaman*  Dr:8.28         ] (Reborn) Suna ~Dragonsworn~ Missing Juggleblood
+[ \*Shaman\* Dr:8.28 ] (Reborn) Suna \~Dragonsworn\~ Missing Juggleblood
 
-[      *Magician*  Ma:7.37        ] (Reborn) Tuk <<M.A.G.I>> missing Juggleblood.
+[ \*Magician\* Ma:7.37 ] (Reborn) Tuk \<\<M.A.G.I\>\> missing Juggleblood.
 
-[ 20c 20m 20n 10b| 6w  5d  4o  3t ] Whatta 
+[ 20c 20m 20n 10b\| 6w 5d 4o 3t ] Whatta 
 
-[ 14d 12t 10m  8w| 6b  4o  2c  1n ] Unmace
+[ 14d 12t 10m 8w\| 6b 4o 2c 1n ] Unmace
 
 Update:
 
@@ -6909,13 +6901,13 @@ Gorka gossips-- 'he also fed 5000 and walked on water'
 
 Ezekiel gossips-- 'and that was just in level 0 coli!'
 
-You gossip-- '*fed with the meat pies, diseased with cowfutius. helpful and obnoxious at the same time.'
+You gossip-- '\*fed with the meat pies, diseased with cowfutius. helpful and obnoxious at the same time.'
 
 </div>
 
 <div class="post" data-post-id="38325" data-author="Teron" data-date="2017-07-08T23:28:28+00:00" data-subject="Re: Your afternoon chuckle">
 
-<987hp 432ma 320mv> 25512992981 582415 65 -6.0 +6 indoors
+\<987hp 432ma 320mv\> 25512992981 582415 65 -6.0 +6 indoors
 
 You massacre a smoke and ash maul titan to small fragments with your slash.
 
@@ -6947,7 +6939,7 @@ Cyprimus brutally massacres a smoke and ash maul titan with his cleave.
 
 A smoke and ash maul titan clambers onto his feet.
 
-<891hp 432ma 320mv> 25512995770 582415 48 -6.0 +6 indoors
+\<891hp 432ma 320mv\> 25512995770 582415 48 -6.0 +6 indoors
 
 </div>
 
@@ -6975,7 +6967,7 @@ Tuk cleaves Suna extremely hard.
 
 Tuk cleaves Suna hard.
 
-SUNA! SUNA! SUNA!  :twisted:
+SUNA! SUNA! SUNA! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -7007,7 +6999,7 @@ Sochi brutally massacres Songster with his cleave.
 
 <div class="post" data-post-id="38337" data-author="Teron" data-date="2017-07-22T03:44:09+00:00" data-subject="Re: Your afternoon chuckle">
 
-<1021hp 199ma 341mv> 1876746123 61742 44 -8.6 +0 indoors
+\<1021hp 199ma 341mv\> 1876746123 61742 44 -8.6 +0 indoors
 
 You massacre a giant clam to small fragments with your whip.
 
@@ -7039,25 +7031,25 @@ Yennefer massacres a giant clam to small fragments with her pierce.
 
 You massacre a giant clam to small fragments with your whip.
 
-<1022hp 199ma 341mv> 1876749305 61742 30 -8.6 +0 indoors
+\<1022hp 199ma 341mv\> 1876749305 61742 30 -8.6 +0 indoors
 
-+3182 79 +0
+\+3182 79 +0
 
 Cyprimus reports 1027/1379 hp. Change: -224. Need: 352. Spells: glowing, greater fluidity.
 
-<1022hp 199ma 341mv> 1876749305 61742 30 -8.6 +0 indoors
+\<1022hp 199ma 341mv\> 1876749305 61742 30 -8.6 +0 indoors
 
 Lerr charges and bashes into a giant clam.
 
-<1022hp 199ma 341mv> 1876749305 61742 30 -8.6 +0 indoors
+\<1022hp 199ma 341mv\> 1876749305 61742 30 -8.6 +0 indoors
 
 Jackalope tears a sizeable chunk out of a giant clam with its chomp.
 
-<1025hp 201ma 342mv> 1876749305 61742 29 -8.6 +0 indoors
+\<1025hp 201ma 342mv\> 1876749305 61742 29 -8.6 +0 indoors
 
 Driven attempts to bash a giant clam, but bounces off and is sent sprawling!
 
-<1025hp 201ma 342mv> 1876749305 61742 29 -8.6 +0 indoors
+\<1025hp 201ma 342mv\> 1876749305 61742 29 -8.6 +0 indoors
 
 bas
 
@@ -7065,15 +7057,15 @@ Zuzu utters the words, 'pzar'
 
 Zuzu heals Cyprimus.
 
-<1028hp 202ma 343mv> 1876749305 61742 29 -8.6 +0 indoors
+\<1028hp 202ma 343mv\> 1876749305 61742 29 -8.6 +0 indoors
 
 Cyprimus reports 1288/1379 hp. Change: +261. Need: 91. Spells: glowing, greater fluidity.
 
-<1028hp 202ma 343mv> 1876749305 61742 29 -8.6 +0 indoors
+\<1028hp 202ma 343mv\> 1876749305 61742 29 -8.6 +0 indoors
 
-| 
+\| 
 
-|
+\|
 
 Yennefer massacres a giant clam to small fragments with her pierce.
 
@@ -7101,27 +7093,27 @@ You massacre a giant clam to small fragments with your whip.
 
 You charge and bash into a giant clam.
 
-<1028hp 202ma 343mv> 1876758301 61742 13 -8.6 +0 indoors
+\<1028hp 202ma 343mv\> 1876758301 61742 13 -8.6 +0 indoors
 
-+8996 224 +0
+\+8996 224 +0
 
 Cyprimus reports 846/1379 hp. Change: -442. Need: 533. Spells: glowing, greater fluidity.
 
 Cyprimus clambers onto his feet.
 
-<1028hp 202ma 343mv> 1876758301 61742 13 -8.6 +0 indoors
+\<1028hp 202ma 343mv\> 1876758301 61742 13 -8.6 +0 indoors
 
 Lerr charges and bashes into a giant clam.
 
-<1030hp 203ma 343mv> 1876758301 61742 13 -8.6 +0 indoors
+\<1030hp 203ma 343mv\> 1876758301 61742 13 -8.6 +0 indoors
 
 You sing another verse of 'sanctuary for the soul'.
 
-<1030hp 201ma 343mv> 1876758301 61742 13 -8.6 +0 indoors
+\<1030hp 201ma 343mv\> 1876758301 61742 13 -8.6 +0 indoors
 
 Jackalope's teeth snap shut just inches from a giant clam's face!
 
-<1030hp 201ma 343mv> 1876758301 61742 13 -8.6 +0 indoors
+\<1030hp 201ma 343mv\> 1876758301 61742 13 -8.6 +0 indoors
 
 Zuzu utters the words, 'candusghafahuai'
 
@@ -7131,13 +7123,13 @@ Driven charges and bashes into a giant clam.
 
 A giant clam begins to sway, but regains its balance.
 
-<1031hp 202ma 343mv> 1876758301 61742 13 -8.6 +0 indoors
+\<1031hp 202ma 343mv\> 1876758301 61742 13 -8.6 +0 indoors
 
 rescue ye
 
 Cyprimus reports 1220/1379 hp. Change: +374. Need: 159. Spells: greater fluidity, glowing.
 
-<1031hp 202ma 343mv> 1876758301 61742 13 -8.6 +0 indoors
+\<1031hp 202ma 343mv\> 1876758301 61742 13 -8.6 +0 indoors
 
 rescue ye
 
@@ -7167,7 +7159,7 @@ You miss a giant clam with your whip.
 
 But nobody is fighting her?
 
-<1034hp 203ma 343mv> 1876759107 61742 3 -8.6 +0 indoors
+\<1034hp 203ma 343mv\> 1876759107 61742 3 -8.6 +0 indoors
 
 You grouptell: 'trigger on being bashed: pipe, stand, stand, second wind'
 
@@ -7199,7 +7191,7 @@ You grouptell: 'yeah it's tanks responsibility to save you yen'
 
 You are viciously massacred by a fire maul titan's hit.
 
-<884hp 208ma 344mv> 3371023675 117703 100 -6.1 +10 raining
+\<884hp 208ma 344mv\> 3371023675 117703 100 -6.1 +10 raining
 
 gt was supposed to give me some variety and preparation for the long runs
 
@@ -7229,13 +7221,13 @@ You are bathed in a painful stream of burning green acid!
 
 Your group's front line is about to collapse, watch out!
 
-<261hp 209ma 345mv> 3371025436 117703 99 -6.1 +10 raining
+\<261hp 209ma 345mv\> 3371025436 117703 99 -6.1 +10 raining
 
-+1761 44 +0
+\+1761 44 +0
 
 You grouptell: 'was supposed to give me some variety and preparation for the long runs'
 
-<261hp 209ma 345mv> 3371025436 117703 99 -6.1 +10 raining
+\<261hp 209ma 345mv\> 3371025436 117703 99 -6.1 +10 raining
 
 sing
 
@@ -7243,31 +7235,31 @@ sing
 
 You raise your clear (?) voice towards the sky.
 
-<263hp 211ma 345mv> 3371025436 117703 99 -6.1 +10 raining
+\<263hp 211ma 345mv\> 3371025436 117703 99 -6.1 +10 raining
 
 You raise your clear (?) voice towards the sky.
 
-<263hp 211ma 345mv> 3371025436 117703 99 -6.1 +10 raining
+\<263hp 211ma 345mv\> 3371025436 117703 99 -6.1 +10 raining
 
 Gorka -- 'missing tank'
 
-<263hp 211ma 345mv> 3371025436 117703 99 -6.1 +10 raining
+\<263hp 211ma 345mv\> 3371025436 117703 99 -6.1 +10 raining
 
-cast 'restorat'  Songster
+cast 'restorat' Songster
 
 Stun utters the words, 'eawiahuai'
 
 A fire maul titan screams in agony as red tendrils of mist infuse his body.
 
-<264hp 211ma 345mv> 3371025436 117703 99 -6.1 +10 raining
+\<264hp 211ma 345mv\> 3371025436 117703 99 -6.1 +10 raining
 
 Ok.
 
 The cleansing fires of healing fill your body!
 
-<491hp 149ma 345mv> 3371034516 117703 99 -6.1 +10 raining
+\<491hp 149ma 345mv\> 3371034516 117703 99 -6.1 +10 raining
 
-+9080 227 +0
+\+9080 227 +0
 
 You massacre a fire maul titan to small fragments with your cleave.
 
@@ -7295,13 +7287,13 @@ A fire maul titan's eyes narrow as he points a long finger at you.
 
 You are seized by an ethereal demon!
 
-<103hp 151ma 345mv> 3371040191 117703 98 -6.1 +10 raining
+\<103hp 151ma 345mv\> 3371040191 117703 98 -6.1 +10 raining
 
-+5675 141 +0
+\+5675 141 +0
 
 Stun reports 1586/1559 hp. Change: +169. Need: 0. Spells: greater fluidity, aegis.
 
-<103hp 151ma 345mv> 3371040191 117703 98 -6.1 +10 raining
+\<103hp 151ma 345mv\> 3371040191 117703 98 -6.1 +10 raining
 
 Nissa the peri brushes you with her wing.
 
@@ -7311,43 +7303,43 @@ You are rescued by Stun, you are confused!
 
 assist Stun
 
-<132hp 151ma 345mv> 3371040191 117703 - -6.1 +10 raining
+\<132hp 151ma 345mv\> 3371040191 117703 - -6.1 +10 raining
 
-play 'reign of confusion'  titan
+play 'reign of confusion' titan
 
 Gorka -- 'Aegis Down in 60 secs.'
 
-<133hp 152ma 345mv> 3371040191 117703 - -6.1 +10 raining
+\<133hp 152ma 345mv\> 3371040191 117703 - -6.1 +10 raining
 
-| 
+\| 
 
-|
+\|
 
-cast 'restorat'  Songster
+cast 'restorat' Songster
 
 Stun gets the Blessed Bag of Persephone from an ornate scroll bag.
 
-<133hp 153ma 345mv> 3371040191 117703 - -6.1 +10 raining
+\<133hp 153ma 345mv\> 3371040191 117703 - -6.1 +10 raining
 
 Stun gets a shoulder of lamb from the Blessed Bag of Persephone.
 
-<133hp 153ma 345mv> 3371040191 117703 - -6.1 +10 raining
+\<133hp 153ma 345mv\> 3371040191 117703 - -6.1 +10 raining
 
 Stun gets a boiled hare from the Blessed Bag of Persephone.
 
 Ezekiel -- 'reign'
 
-play 'reign of confusion'  titan
+play 'reign of confusion' titan
 
-<133hp 153ma 345mv> 3371040191 117703 - -6.1 +10 raining
+\<133hp 153ma 345mv\> 3371040191 117703 - -6.1 +10 raining
 
 Stun gets a boiled hare from the Blessed Bag of Persephone.
 
-<134hp 154ma 345mv> 3371040191 117703 - -6.1 +10 raining
+\<134hp 154ma 345mv\> 3371040191 117703 - -6.1 +10 raining
 
 Stun gets a shoulder of lamb from the Blessed Bag of Persephone.
 
-<134hp 154ma 345mv> 3371040191 117703 - -6.1 +10 raining
+\<134hp 154ma 345mv\> 3371040191 117703 - -6.1 +10 raining
 
 Stun skillfully parries the attack of a fire maul titan.
 
@@ -7373,47 +7365,47 @@ Stun brutally massacres a fire maul titan with his cleave.
 
 Stun puts the Blessed Bag of Persephone in an ornate scroll bag.
 
-<134hp 154ma 345mv> 3371040191 117703 - -6.1 +10 raining
+\<134hp 154ma 345mv\> 3371040191 117703 - -6.1 +10 raining
 
 Stun reports 1299/1559 hp. Change: -287. Need: 260. Spells: aegis, greater fluidity.
 
-<134hp 154ma 345mv> 3371040191 117703 - -6.1 +10 raining
+\<134hp 154ma 345mv\> 3371040191 117703 - -6.1 +10 raining
 
-| 
+\| 
 
-|
+\|
 
 Tuk stops singing.
 
 Tuk utters the words, 'aque bragh'
 
-<135hp 154ma 345mv> 3371040191 117703 - -6.1 +10 raining
+\<135hp 154ma 345mv\> 3371040191 117703 - -6.1 +10 raining
 
 You calm down and return to a peaceful state of mind.
 
 frenzy
 
-<136hp 155ma 345mv> 3371040191 117703 - -6.1 +10 raining
+\<136hp 155ma 345mv\> 3371040191 117703 - -6.1 +10 raining
 
-cast 'restorat'  Songster
+cast 'restorat' Songster
 
 The radiant sphere around your body fades.
 
 gt Aegis down
 
-<137hp 156ma 345mv> 3371040191 117703 - -6.1 +10 raining
+\<137hp 156ma 345mv\> 3371040191 117703 - -6.1 +10 raining
 
 You are incapable of channeling your anger.
 
 frenzy
 
-<137hp 156ma 345mv> 3371040191 117703 - -6.1 +10 raining
+\<137hp 156ma 345mv\> 3371040191 117703 - -6.1 +10 raining
 
-| 
+\| 
 
-|
+\|
 
-cast 'aegis'  Songster
+cast 'aegis' Songster
 
 A fire maul titan brutally massacres Stun with his slash.
 
@@ -7423,9 +7415,9 @@ A fire maul titan viciously massacres Stun with his hit.
 
 You have been KILLED!! 
 
-<-35hp 156ma 345mv> 3371040191 117703 - -2.1 +10 raining
+\<-35hp 156ma 345mv\> 3371040191 117703 - -2.1 +10 raining
 
-Lie still; you are DEAD!!! :-(
+Lie still; you are DEAD!!! <img src="/images/smilies/icon_e_sad.svg" alt=":-(" title=":-(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -7461,7 +7453,7 @@ Gorka massacres the incense-maker to small fragments with his slash.
 
 The incense-maker attempts to bash Gorka, who nimbly steps out of the way.
 
-<899hp 306ma 350mv> 2754386442 742075 32 -6.1 -4 indoors
+\<899hp 306ma 350mv\> 2754386442 742075 32 -6.1 -4 indoors
 
 Gorka -- 'Gorka has reached 100 chops!'
 
@@ -7481,23 +7473,23 @@ A brightly-plumed toucan warbles plaintively and preens.
 
 (Brilliant Blue Aura) A large rabbit-like creature with antelope horns hops about playfully.
 
-Xxx * xxX ~Dragonsworn~ is lying here, dead. (Brilliant Blue Aura)
+Xxx \* xxX \~Dragonsworn\~ is lying here, dead. (Brilliant Blue Aura)
 
 Xxx glows with a bright light!
 
 Xxx has a steady red aura.
 
-<1257hp 771ma 357mv> 296243426525 1013452 - -2.3 +9 fair
+\<1257hp 771ma 357mv\> 296243426525 1013452 - -2.3 +9 fair
 
 l tou
 
 A somewhat inhibited bird, the toucan spends most of his life just
 
-following his nose.  Sugary breakfast foods comprise most of his diet,
+following his nose. Sugary breakfast foods comprise most of his diet,
 
-which might explain why he's so hyper.  His body is covered in black
+which might explain why he's so hyper. His body is covered in black
 
-feathers, his neck in yellow.  A prominent green and orange bill,
+feathers, his neck in yellow. A prominent green and orange bill,
 
 tipped with red, extends over a foot from his face.
 
@@ -7507,7 +7499,7 @@ You attempt to peek at the inventory:
 
 You can't see anything.
 
-<1257hp 773ma 357mv> 296243426525 1013452 - -2.3 +9 fair
+\<1257hp 773ma 357mv\> 296243426525 1013452 - -2.3 +9 fair
 
 push tars w
 
@@ -7519,15 +7511,15 @@ You throw yourself against an evil tarsir and push him to the west!
 
 An evil tarsir leaves west.
 
-<1257hp 775ma 339mv> 296243426525 1013452 - -2.3 +9 fair
+\<1257hp 775ma 339mv\> 296243426525 1013452 - -2.3 +9 fair
 
 They aren't here.
 
-<1257hp 775ma 339mv> 296243426525 1013452 - -2.3 +9 fair
+\<1257hp 775ma 339mv\> 296243426525 1013452 - -2.3 +9 fair
 
 They aren't here.
 
-<1257hp 775ma 339mv> 296243426525 1013452 - -2.3 +9 fair
+\<1257hp 775ma 339mv\> 296243426525 1013452 - -2.3 +9 fair
 
 cast 'firewind' tou
 
@@ -7541,13 +7533,13 @@ A keel-billed toucan hates your guts!
 
 A keel-billed toucan vanishes in a burning wind.
 
-<1257hp 754ma 341mv> 296243433444 1013452 6 1.7 +9 fair
+\<1257hp 754ma 341mv\> 296243433444 1013452 6 1.7 +9 fair
 
-+6919 172 +0
+\+6919 172 +0
 
 Gorka gossips-- 'snicker tarsir'
 
-<1257hp 754ma 341mv> 296243433444 1013452 6 1.7 +9 fair
+\<1257hp 754ma 341mv\> 296243433444 1013452 6 1.7 +9 fair
 
 With a mighty effort, you shake off your exhaustion!
 
@@ -7571,23 +7563,23 @@ There were 1691 coins.
 
 9 g/sec
 
-<1257hp 729ma 326mv> 296247917569 1015143 - 1.7 +9 fair
+\<1257hp 729ma 326mv\> 296247917569 1015143 - 1.7 +9 fair
 
-+4484125 112103 +1691
+\+4484125 112103 +1691
 
-cast 'in'  Taron
+cast 'in' Taron
 
-<1257hp 733ma 328mv> 296247917569 1015143 - 1.7 +9 fair
+\<1257hp 733ma 328mv\> 296247917569 1015143 - 1.7 +9 fair
 
 You yell 'LET'S ROCK!'
 
-<1257hp 733ma 328mv> 296247917569 1015143 - 1.7 +9 fair
+\<1257hp 733ma 328mv\> 296247917569 1015143 - 1.7 +9 fair
 
 Ok.
 
 You vanish.
 
-<1257hp 730ma 329mv> 296247917569 1015143 - -2.3 +9 fair
+\<1257hp 730ma 329mv\> 296247917569 1015143 - -2.3 +9 fair
 
 stealt
 
@@ -7595,21 +7587,21 @@ stealt
 
 A keel-billed toucan arrives from the south.
 
-<1257hp 731ma 329mv> 296247917569 1015143 - -2.3 +9 fair
+\<1257hp 731ma 329mv\> 296247917569 1015143 - -2.3 +9 fair
 
 eqs wear raise
 
 You begin to slowly fade into the shadows.
 
-<1257hp 734ma 291mv> 296247917569 1015143 - -2.3 +9 fair
+\<1257hp 734ma 291mv\> 296247917569 1015143 - -2.3 +9 fair
 
 You are already well hidden within the shadows.
 
-<1257hp 734ma 291mv> 296247917569 1015143 - -5.7 +9 fair
+\<1257hp 734ma 291mv\> 296247917569 1015143 - -5.7 +9 fair
 
 sing 'rina cruinne'
 
-<1257hp 734ma 276mv> 296247917569 1015143 - -5.7 +9 fair
+\<1257hp 734ma 276mv\> 296247917569 1015143 - -5.7 +9 fair
 
 You begin to sing 'rina cruinne'.
 
@@ -7617,11 +7609,11 @@ Ok.
 
 Your song helps you to concentrate on your prayers for the dead.
 
-<1257hp 699ma 277mv> 296247917569 1015143 - -5.7 +9 fair
+\<1257hp 699ma 277mv\> 296247917569 1015143 - -5.7 +9 fair
 
 You sing another verse of 'rina cruinne'.
 
-<1256hp 690ma 278mv> 296247917569 1015143 - -5.7 +9 fair
+\<1256hp 690ma 278mv\> 296247917569 1015143 - -5.7 +9 fair
 
 cast 'raise dead' x
 
@@ -7635,7 +7627,7 @@ You raise Xxx from the dead!
 
 759 raises, 62 shocks.
 
-<1256hp 625ma 280mv> 296247917569 1015143 - -5.7 +9 fair
+\<1256hp 625ma 280mv\> 296247917569 1015143 - -5.7 +9 fair
 
 gos a toucan
 
@@ -7649,19 +7641,19 @@ An evil tarsir bites Xxx extremely hard.
 
 Xxx is dead! R.I.P.
 
-<1254hp 628ma 282mv> 296247917569 1015143 - -5.7 +9 fair
+\<1254hp 628ma 282mv\> 296247917569 1015143 - -5.7 +9 fair
 
 cast 'word of r'
 
 You gossip-- 'a toucan'
 
-<1254hp 628ma 282mv> 296247917569 1015143 - -5.7 +9 fair
+\<1254hp 628ma 282mv\> 296247917569 1015143 - -5.7 +9 fair
 
 Ok.
 
 Magnolia
 
-   The path curves around a large magnolia tree, almost forty feet high.
+ The path curves around a large magnolia tree, almost forty feet high.
 
 It is covered with large white flowers, which emit a strong, sweet scent.
 
@@ -7669,7 +7661,7 @@ The path is edged with stone blocks, possibly in an attempt to stop it
 
 from slipping down the slope toward the sea.
 
-Exits: East  South  West  
+Exits: East South West 
 
 A piece of glowing parchment wraps and unwraps itself.
 
@@ -7681,13 +7673,13 @@ A magical contraption, the shadowgram, floats just above the Magnolia.
 
 A large bulletin board is mounted on a wall here.
 
-<1254hp 593ma 283mv> 296247917569 1015143 - -5.7 +9 fair
+\<1254hp 593ma 283mv\> 296247917569 1015143 - -5.7 +9 fair
 
 gos ok, this time was a tarsir
 
 You gossip-- 'ok, this time was a tarsir'
 
-<1254hp 602ma 289mv> 296247917569 1015143 - -5.7 +9 fair
+\<1254hp 602ma 289mv\> 296247917569 1015143 - -5.7 +9 fair
 
 cast 'relocat' xxx
 
@@ -7699,7 +7691,7 @@ You feel your shadow cloak begin to dissolve.
 
 Open Glade
 
-Exits: North  South  West  
+Exits: North South West 
 
 The corpse of a keel-billed toucan is lying here.
 
@@ -7711,17 +7703,17 @@ A brightly-plumed toucan warbles plaintively and preens.
 
 (Brilliant Blue Aura) A large rabbit-like creature with antelope horns hops about playfully.
 
-Xxx * xxX ~Dragonsworn~ is lying here, dead. (Brilliant Blue Aura)
+Xxx \* xxX \~Dragonsworn\~ is lying here, dead. (Brilliant Blue Aura)
 
 Xxx glows with a bright light!
 
 Xxx has a steady red aura.
 
-<1252hp 535ma 291mv> 296247917569 1015143 - -5.7 +9 fair
+\<1252hp 535ma 291mv\> 296247917569 1015143 - -5.7 +9 fair
 
 You feel less in touch with the dead.
 
-<1252hp 537ma 293mv> 296247917569 1015143 - -5.7 +9 fair
+\<1252hp 537ma 293mv\> 296247917569 1015143 - -5.7 +9 fair
 
 stealt
 
@@ -7729,11 +7721,11 @@ stealt
 
 Your attempt to stealth fails.
 
-<1251hp 540ma 280mv> 296247917569 1015143 - -5.7 +9 fair
+\<1251hp 540ma 280mv\> 296247917569 1015143 - -5.7 +9 fair
 
 You begin to slowly fade into the shadows.
 
-<1251hp 540ma 240mv> 296247917569 1015143 - -5.7 +9 fair
+\<1251hp 540ma 240mv\> 296247917569 1015143 - -5.7 +9 fair
 
 sing 'rina cruinne'
 
@@ -7743,7 +7735,7 @@ Ok.
 
 Your song helps you to concentrate on your prayers for the dead.
 
-<1251hp 507ma 242mv> 296247917569 1015143 - -5.7 +9 fair
+\<1251hp 507ma 242mv\> 296247917569 1015143 - -5.7 +9 fair
 
 TICK IN 10 SECONDS.
 
@@ -7763,7 +7755,7 @@ Saving Taron.
 
 Saving items.
 
-<1250hp 502ma 244mv> 296247917569 1015143 - -5.7 +9 overcast
+\<1250hp 502ma 244mv\> 296247917569 1015143 - -5.7 +9 overcast
 
 You get a dwarvish recall scroll from magical dwarvish scroll bag.
 
@@ -7773,7 +7765,7 @@ You recite a dwarvish recall scroll which dissolves.
 
 Xxx disappears.
 
-<1250hp 502ma 244mv> 296247917569 1015143 - -5.7 +9 overcast
+\<1250hp 502ma 244mv\> 296247917569 1015143 - -5.7 +9 overcast
 
 cast 'word of r'
 
@@ -7781,13 +7773,13 @@ Saving Taron.
 
 Saving items.
 
-<1250hp 503ma 245mv> 296247917569 1015143 - -5.7 +9 overcast
+\<1250hp 503ma 245mv\> 296247917569 1015143 - -5.7 +9 overcast
 
 Ok.
 
 Magnolia
 
-   The path curves around a large magnolia tree, almost forty feet high.
+ The path curves around a large magnolia tree, almost forty feet high.
 
 It is covered with large white flowers, which emit a strong, sweet scent.
 
@@ -7795,7 +7787,7 @@ The path is edged with stone blocks, possibly in an attempt to stop it
 
 from slipping down the slope toward the sea.
 
-Exits: East  South  West  
+Exits: East South West 
 
 A piece of glowing parchment wraps and unwraps itself.
 
@@ -7807,13 +7799,13 @@ A magical contraption, the shadowgram, floats just above the Magnolia.
 
 A large bulletin board is mounted on a wall here.
 
-Xxx * xxX ~Dragonsworn~ is lying here, dead. (Brilliant Blue Aura)
+Xxx \* xxX \~Dragonsworn\~ is lying here, dead. (Brilliant Blue Aura)
 
 Xxx glows with a bright light!
 
 Xxx has a steady red aura.
 
-<1250hp 469ma 245mv> 296247917569 1015143 - -5.7 +9 overcast
+\<1250hp 469ma 245mv\> 296247917569 1015143 - -5.7 +9 overcast
 
 cast 'raise dead' xxx
 
@@ -7833,7 +7825,7 @@ Xxx gossips-- 'LOL'
 
 <div class="post" data-post-id="38392" data-author="Josiah" data-date="2017-08-11T20:29:07+00:00" data-subject="Re: Your afternoon chuckle">
 
-<1041hp 320ma 372mv> -14.2 +16 [*: AI'] 65
+\<1041hp 320ma 372mv\> -14.2 +16 [\*: AI'] 65
 
 You are brutally massacred by Tyroch, Ruler of the Maul Titans's slash.
 
@@ -7853,13 +7845,13 @@ You miss Tyroch, Ruler of the Maul Titans with your cleave.
 
 You report 659/1400 hp. Change: -377. Need: 741. Spells: aegis, greater fluidity.
 
-<*TANK*> Yuck! -382 HP        659 / 1400
+\<\*TANK\*\> Yuck! -382 HP 659 / 1400
 
-<659hp 320ma 372mv> -14.2 +16 [*: AI'] 63
+\<659hp 320ma 372mv\> -14.2 +16 [\*: AI'] 63
 
 Gnu -- 'tank is weak'
 
-<661hp 321ma 372mv> -14.2 +16 [*: AI'] 63
+\<661hp 321ma 372mv\> -14.2 +16 [\*: AI'] 63
 
 Gnu swings his weapon, accidentally cutting your head off!
 
@@ -7907,31 +7899,31 @@ Norks's hands begin to glow very brightly!
 
 Woody has been raised from the dead! 
 
-<838hp 134ma 364mv> 444277670 923330 - -5.7 +1 raining
+\<838hp 134ma 364mv\> 444277670 923330 - -5.7 +1 raining
 
-Woody -- 'bloody maws, every damn time!  (Visage was up)'
+Woody -- 'bloody maws, every damn time! (Visage was up)'
 
-<839hp 134ma 364mv> 444277670 923330 - -5.7 +1 raining
+\<839hp 134ma 364mv\> 444277670 923330 - -5.7 +1 raining
 
 group
 
 Group 'Ezekiel and his Fearless Force' is led by Ezekiel and consists of:
 
-  (Point)             Vege [Wa:8.39 1336hp 322ma 354mv] avent/jacinth                 
+ (Point) Vege [Wa:8.39 1336hp 322ma 354mv] avent/jacinth 
 
-  (Front)         Songster [Ba:5.30  840hp 135ma 364mv] rhodo/tomb jade denuva        
+ (Front) Songster [Ba:5.30 840hp 135ma 364mv] rhodo/tomb jade denuva 
 
-  (Front)            Dingo [Mo:6.35 1111hp 616ma 425mv] GYT | SBPearl EFlame          
+ (Front) Dingo [Mo:6.35 1111hp 616ma 425mv] GYT \| SBPearl EFlame 
 
-  (Front)            Woody [Cl:0.39    2hp 267ma  77mv] Ruby | Jade | w strands       
+ (Front) Woody [Cl:0.39 2hp 267ma 77mv] Ruby \| Jade \| w strands 
 
-  (Front)             Zuzu [Cl:8.33  999hp 749ma 353mv] TigerEye|BGEmerald            
+ (Front) Zuzu [Cl:8.33 999hp 749ma 353mv] TigerEye\|BGEmerald 
 
- (Leader)          Ezekiel [Ma:8.39  754hp  77ma 266mv] tourm/sapphire                
+ (Leader) Ezekiel [Ma:8.39 754hp 77ma 266mv] tourm/sapphire 
 
-                     Norks [Cl:9.40 1126hp 449ma 329mv] rose qtz, emerlad             
+ Norks [Cl:9.40 1126hp 449ma 329mv] rose qtz, emerlad 
 
-<840hp 135ma 364mv> 444277670 923330 - -5.7 +1 raining
+\<840hp 135ma 364mv\> 444277670 923330 - -5.7 +1 raining
 
 Blazing golden rays of the divine shine down from heaven...
 
@@ -7943,11 +7935,11 @@ Blazing golden rays of the divine shine down from heaven...
 
 Norks puts on a variety of armor and equipment.
 
-<841hp 136ma 364mv> 444277670 923330 - -5.7 +1 raining
+\<841hp 136ma 364mv\> 444277670 923330 - -5.7 +1 raining
 
 Woody hugs Norks.
 
-<841hp 136ma 364mv> 444277670 923330 - -5.7 +1 raining
+\<841hp 136ma 364mv\> 444277670 923330 - -5.7 +1 raining
 
 Norks utters the words, 'candusghafahuai'
 
@@ -7955,15 +7947,15 @@ Woody briefly glows with a blinding light!
 
 Ezekiel -- 'target maw'
 
-<846hp 139ma 364mv> 444277670 923330 - -5.7 +1 raining
+\<846hp 139ma 364mv\> 444277670 923330 - -5.7 +1 raining
 
 Woody moves to the rear of his group.
 
-<846hp 139ma 364mv> 444277670 923330 - -5.7 +1 raining
+\<846hp 139ma 364mv\> 444277670 923330 - -5.7 +1 raining
 
 You play another verse of 'rina cruinne'.
 
-<848hp 134ma 364mv> 444277670 923330 - -5.7 +1 raining
+\<848hp 134ma 364mv\> 444277670 923330 - -5.7 +1 raining
 
 Vege leaves east.
 
@@ -7971,7 +7963,7 @@ You follow Ezekiel.
 
 Burnt Building
 
-Exits: West  
+Exits: West 
 
 The corpse of a beast with a huge gaping maw is lying here.
 
@@ -7983,11 +7975,11 @@ You see Dingo, Woody, Norks, Zuzu, Ezekiel, and Vege here.
 
 You also see a beast with a huge gaping maw here.
 
-<849hp 135ma 363mv> 444277670 923330 - -5.7 +1 raining
+\<849hp 135ma 363mv\> 444277670 923330 - -5.7 +1 raining
 
 Norks puts on a variety of armor and equipment.
 
-<850hp 135ma 364mv> 444277670 923330 - -5.7 +1 raining
+\<850hp 135ma 364mv\> 444277670 923330 - -5.7 +1 raining
 
 Ezekiel stops singing.
 
@@ -7995,25 +7987,25 @@ Ezekiel utters the words, 'yazfuz yufz'
 
 A beast with a huge gaping maw is outlined by a faint glow.
 
-<852hp 137ma 364mv> 444277670 923330 - -5.7 +1 raining
+\<852hp 137ma 364mv\> 444277670 923330 - -5.7 +1 raining
 
 Vege utters the words, 'eawiahuai'
 
-<853hp 137ma 364mv> 444277670 923330 - -5.7 +1 raining
+\<853hp 137ma 364mv\> 444277670 923330 - -5.7 +1 raining
 
 Ezekiel utters the words, 'noselacri'
 
 A beast with a huge gaping maw seems to be blinded!
 
-|
+\|
 
 assist Vege
 
-<855hp 139ma 364mv> 444277670 923330 - -5.7 +1 raining
+\<855hp 139ma 364mv\> 444277670 923330 - -5.7 +1 raining
 
 But they are not fighting anyone.
 
-<856hp 140ma 364mv> 444277670 923330 - -5.7 +1 raining
+\<856hp 140ma 364mv\> 444277670 923330 - -5.7 +1 raining
 
 Vege utters the words, 'eawiahuai'
 
@@ -8027,19 +8019,19 @@ Vege skillfully parries the attack of a beast with a huge gaping maw.
 
 A beast with a huge gaping maw screams in agony as red tendrils of mist infuse his body.
 
-<856hp 140ma 364mv> 444277670 923330 - -5.7 +1 raining
+\<856hp 140ma 364mv\> 444277670 923330 - -5.7 +1 raining
 
 Vege reports 1439/1392 hp. Change: +109. Need: 0. Spells: aegis, greater fluidity.
 
-<857hp 140ma 364mv> 444277670 923330 - -5.7 +1 raining
+\<857hp 140ma 364mv\> 444277670 923330 - -5.7 +1 raining
 
 As you swing your weapon, it slips and slices through Woody's neck!
 
 Woody is dead! R.I.P.
 
-<857hp 140ma 364mv> 444284465 923330 99 -5.7 +1 raining
+\<857hp 140ma 364mv\> 444284465 923330 99 -5.7 +1 raining
 
-+6795 169 +0
+\+6795 169 +0
 
 A beast with a huge gaping maw hates your guts!
 
@@ -8069,9 +8061,9 @@ Vege brutally massacres a beast with a huge gaping maw with his cleave.
 
 Vege massacres a beast with a huge gaping maw to small fragments with his cleave.
 
-<859hp 141ma 364mv> 444285332 923330 97 -5.7 +1 raining
+\<859hp 141ma 364mv\> 444285332 923330 97 -5.7 +1 raining
 
-+867 21 +0
+\+867 21 +0
 
 Ezekiel -- 'rofl'
 
@@ -8081,25 +8073,25 @@ Ezekiel -- 'rofl'
 
 Group 'The Most Magnificent Rangers' is led by Ezekiel and consists of:
 
-  (Point)            Taron [Wa:9.40 1142hp 377ma 419mv] tourm/tomb jade               
+ (Point) Taron [Wa:9.40 1142hp 377ma 419mv] tourm/tomb jade 
 
-  (Front)              Xxx [Th:6.39  997hp 592ma 430mv] Rhodochrosite | Jet           
+ (Front) Xxx [Th:6.39 997hp 592ma 430mv] Rhodochrosite \| Jet 
 
-  (Front)             Suna [Dr:9.40 1060hp 1124ma 365mv] sruby/malachite               
+ (Front) Suna [Dr:9.40 1060hp 1124ma 365mv] sruby/malachite 
 
-  (Front)          Belrath [Mo:7.36 1221hp 434ma 349mv] Avent | PS sapphire           
+ (Front) Belrath [Mo:7.36 1221hp 434ma 349mv] Avent \| PS sapphire 
 
-  (Front)             Zuzu [Cl:8.35 1053hp 921ma 353mv] TigerEye|BGEmerald            
+ (Front) Zuzu [Cl:8.35 1053hp 921ma 353mv] TigerEye\|BGEmerald 
 
-  (Front)            Sochi [Ba:8.39 1031hp 695ma 364mv] GYT                           
+ (Front) Sochi [Ba:8.39 1031hp 695ma 364mv] GYT 
 
- (Leader)          Ezekiel [Ma:8.39  942hp 558ma 229mv] sapphire/Ruby                 
+ (Leader) Ezekiel [Ma:8.39 942hp 558ma 229mv] sapphire/Ruby 
 
-                   Tysmiha [Ma:1.27  347hp 435ma 109mv] rc quartz/rose quartz         
+ Tysmiha [Ma:1.27 347hp 435ma 109mv] rc quartz/rose quartz 
 
-                     Clain [Cl:0.31  409hp 174ma 123mv] ---
+ Clain [Cl:0.31 409hp 174ma 123mv] ---
 
-                     Woody [Cl:2.33  699hp 318ma 150mv] Chrysop/Eye Agate | w.strands 
+ Woody [Cl:2.33 699hp 318ma 150mv] Chrysop/Eye Agate \| w.strands 
 
 cast 'supp' eudaemon
 
@@ -8109,13 +8101,13 @@ Woody carves up the the corpse of a massive squid.
 
 Parry mode is now on.
 
-<1328hp 386ma 419mv> 271867267771 1509691 - -14.0 +10 indoors
+\<1328hp 386ma 419mv\> 271867267771 1509691 - -14.0 +10 indoors
 
 Woody sips from a water barrel.
 
 You yell 'LET'S ROCK!'
 
-<1328hp 386ma 419mv> 271867267771 1509691 - -14.0 +10 indoors
+\<1328hp 386ma 419mv\> 271867267771 1509691 - -14.0 +10 indoors
 
 TICK IN 10 SECONDS.
 
@@ -8127,7 +8119,7 @@ Zuzu joins in the war-cry!
 
 Your last warcry hasn't even stopped echoing yet!
 
-<1330hp 387ma 419mv> 271867267771 1509691 - -14.0 +10 indoors
+\<1330hp 387ma 419mv\> 271867267771 1509691 - -14.0 +10 indoors
 
 Woody joins in the war-cry!
 
@@ -8143,7 +8135,7 @@ Sochi joins in the war-cry!
 
 You don't have any summoned followers by that name.
 
-<1330hp 387ma 419mv> 271867267771 1509691 - -14.0 +10 indoors
+\<1330hp 387ma 419mv\> 271867267771 1509691 - -14.0 +10 indoors
 
 @@
 
@@ -8151,13 +8143,13 @@ Ok.
 
 You feel the attention of Tysmiha upon you!
 
-<1330hp 367ma 419mv> 271867267771 1509691 - -14.0 +10 indoors
+\<1330hp 367ma 419mv\> 271867267771 1509691 - -14.0 +10 indoors
 
 With a mighty effort, you shake off your exhaustion!
 
 You sacrifice the corpse to Tysmiha.
 
-<1331hp 368ma 404mv> 271867267771 1509691 - -14.0 +10 indoors
+\<1331hp 368ma 404mv\> 271867267771 1509691 - -14.0 +10 indoors
 
 Saving Taron.
 
@@ -8165,19 +8157,19 @@ Saving items.
 
 worship tysmiha
 
-<1359hp 382ma 399mv> 271867267771 1509691 - -14.0 +10 indoors
+\<1359hp 382ma 399mv\> 271867267771 1509691 - -14.0 +10 indoors
 
 You fall to your knees, commencing ritualistic worshipping before her.
 
-<1359hp 382ma 399mv> 271867267771 1509691 - -14.0 +10 indoors
+\<1359hp 382ma 399mv\> 271867267771 1509691 - -14.0 +10 indoors
 
 But nobody is fighting him?
 
-<1359hp 382ma 399mv> 271867267771 1509691 - -14.0 +10 indoors
+\<1359hp 382ma 399mv\> 271867267771 1509691 - -14.0 +10 indoors
 
 Nobody here by that name.
 
-<1359hp 382ma 399mv> 271867267771 1509691 - -14.0 +10 indoors
+\<1359hp 382ma 399mv\> 271867267771 1509691 - -14.0 +10 indoors
 
 Tysmiha answers your request!
 
@@ -8189,11 +8181,11 @@ Inle the eudaemon starts following you.
 
 <div class="post" data-post-id="38422" data-author="Josiah" data-date="2017-09-04T19:51:43+00:00" data-subject="Re: Your afternoon chuckle">
 
-Today in DoT:  (I won't post the log because it's too spammy)
+Today in DoT: (I won't post the log because it's too spammy)
 
-Gorka rescued a young nightrunner I was trying to murder, so naturally I started punching him in the face.  
+Gorka rescued a young nightrunner I was trying to murder, so naturally I started punching him in the face. 
 
-Others in the group assisted him, and Slice started firewinding me.  
+Others in the group assisted him, and Slice started firewinding me. 
 
 Good times were had by all.
 
@@ -8203,7 +8195,7 @@ Maybe the mud needs more pvp zones!
 
 <div class="post" data-post-id="38425" data-author="Gorka" data-date="2017-09-05T09:11:13+00:00" data-subject="Re: Your afternoon chuckle">
 
-I'm glad everyone sided with me!  :lol: 
+I'm glad everyone sided with me! <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> 
 
 I think I tracked down the problem to an open ended "circles around" trigger meant to rescue grippers, but in this case it was people getting stabbed. Should be fixed.
 
@@ -8215,15 +8207,15 @@ Ezekiel utters the words, 'eugszr waouq'
 
 Altotus isn't taking any more: he attacks Ezekiel!
 
-<352hp 189ma 372mv> 5880322858 1778389 67 -8.3 -4 indoors
+\<352hp 189ma 372mv\> 5880322858 1778389 67 -8.3 -4 indoors
 
 Celaena buries her weapon to the hilt!
 
-<354hp 190ma 372mv> 5880322858 1778389 66 -8.3 -4 indoors
+\<354hp 190ma 372mv\> 5880322858 1778389 66 -8.3 -4 indoors
 
 Cyprimus flails his weapon about the room!
 
-<358hp 192ma 372mv> 5880322858 1778389 65 -8.3 -4 indoors
+\<358hp 192ma 372mv\> 5880322858 1778389 65 -8.3 -4 indoors
 
 You massacre Altotus to small fragments with your whip.
 
@@ -8249,17 +8241,17 @@ Altotus's bones crunch under a well-aimed attack by Zuzu!
 
 Altotus utters the words, 'candusounsozfahuai'
 
-<258hp 192ma 372mv> 5880326386 1778389 61 -8.3 -4 indoors
+\<258hp 192ma 372mv\> 5880326386 1778389 61 -8.3 -4 indoors
 
-+3528 88 +0
+\+3528 88 +0
 
 Josiah gossips-- 'Death informs you: Ezekiel was killed by someone'
 
-<260hp 193ma 372mv> 5880326386 1778389 61 -8.3 -4 indoors
+\<260hp 193ma 372mv\> 5880326386 1778389 61 -8.3 -4 indoors
 
 You play another verse of 'gods of war'.
 
-<262hp 186ma 372mv> 5880326386 1778389 61 -8.3 -4 indoors
+\<262hp 186ma 372mv\> 5880326386 1778389 61 -8.3 -4 indoors
 
 You massacre Altotus to small fragments with your whip.
 
@@ -8285,13 +8277,13 @@ Altotus gestures, and you are blasted with fire!
 
 You wish that your wounds would stop BLEEDING that much!
 
-<141hp 189ma 372mv> 5880327753 1778389 57 -8.3 -4 indoors
+\<141hp 189ma 372mv\> 5880327753 1778389 57 -8.3 -4 indoors
 
-+1367 34 +0
+\+1367 34 +0
 
 Cyprimus -- 'damn.'
 
-<143hp 190ma 372mv> 5880327753 1778389 57 -8.3 -4 indoors
+\<143hp 190ma 372mv\> 5880327753 1778389 57 -8.3 -4 indoors
 
 You massacre Altotus to small fragments with your whip.
 
@@ -8311,7 +8303,7 @@ You wish that your wounds would stop BLEEDING that much!
 
 You have been KILLED!! 
 
-<-35hp 193ma 372mv> 5880327977 1778389 - -4.3 -4 indoors
+\<-35hp 193ma 372mv\> 5880327977 1778389 - -4.3 -4 indoors
 
 Cyprimus -- 'no idea. was blasting.. boom.. they all dropped'
 
@@ -8327,7 +8319,7 @@ Cyprimus -- 'you died in one round'
 
 Sochi -- 'he's authealing to full'
 
-<951hp 174ma 358mv> 255452817130 4505546 - -14.0 -4 overcast
+\<951hp 174ma 358mv\> 255452817130 4505546 - -14.0 -4 overcast
 
 Dingo massacres Blackbeard, Retired Captain of the High Seas to small fragments with his cleave.
 
@@ -8369,11 +8361,11 @@ You report 1094/1401 hp. Change: +156. Need: 307. Spells: greater fluidity, wrai
 
 Impossible! You can't concentrate enough!
 
-<1094hp 175ma 359mv> 255452824596 4505546 91 -14.0 -4 overcast
+\<1094hp 175ma 359mv\> 255452824596 4505546 91 -14.0 -4 overcast
 
 You grouptell: 'Aegis down'
 
-<1096hp 176ma 360mv> 255452824596 4505546 91 -14.0 -4 overcast
+\<1096hp 176ma 360mv\> 255452824596 4505546 91 -14.0 -4 overcast
 
 rescue ding
 
@@ -8383,21 +8375,21 @@ rescue ding
 
 Banzai! To the rescue...
 
-<1098hp 176ma 360mv> 255452824596 4505546 91 -14.0 -4 overcast
+\<1098hp 176ma 360mv\> 255452824596 4505546 91 -14.0 -4 overcast
 
 But nobody is fighting him?
 
-<1098hp 176ma 360mv> 255452824596 4505546 91 -14.0 -4 overcast
+\<1098hp 176ma 360mv\> 255452824596 4505546 91 -14.0 -4 overcast
 
 But nobody is fighting him?
 
-<1098hp 176ma 360mv> 255452824596 4505546 91 -14.0 -4 overcast
+\<1098hp 176ma 360mv\> 255452824596 4505546 91 -14.0 -4 overcast
 
 quaf darkness
 
 Sochi -- 'can't be killed'
 
-<1101hp 177ma 361mv> 255452824596 4505546 91 -14.0 -4 overcast
+\<1101hp 177ma 361mv\> 255452824596 4505546 91 -14.0 -4 overcast
 
 You get a potion of pure darkness from a kangaroo pouch.
 
@@ -8409,7 +8401,7 @@ Taron shivers and suffers from his evilness!
 
 A dark haze precipitates around your body.
 
-<1073hp 178ma 362mv> 255452824596 4505546 91 -14.0 -4 overcast
+\<1073hp 178ma 362mv\> 255452824596 4505546 91 -14.0 -4 overcast
 
 You skillfully parry the attack of Blackbeard, Retired Captain of the High Seas.
 
@@ -8425,51 +8417,51 @@ You brutally massacre Blackbeard, Retired Captain of the High Seas with your pie
 
 You report 980/1401 hp. Change: -114. Need: 421. Spells: greater fluidity, wraithform, aegis.
 
-+5632 140 +0
+\+5632 140 +0
 
-+5632 140 +0
+\+5632 140 +0
 
 Guinex utters the words, 'aque bragh'
 
-<982hp 179ma 362mv> 255452830228 4505546 91 -14.0 -4 overcast
+\<982hp 179ma 362mv\> 255452830228 4505546 91 -14.0 -4 overcast
 
 Blackbeard, Retired Captain of the High Seas snarls and salivates agitatedly but stays where he is.
 
-<966hp 180ma 363mv> 255452830228 4505546 - -14.0 -4 overcast
+\<966hp 180ma 363mv\> 255452830228 4505546 - -14.0 -4 overcast
 
 </div>
 
 <div class="post" data-post-id="38460" data-author="Gorka" data-date="2017-11-03T10:48:24+00:00" data-subject="Re: Your afternoon chuckle">
 
-*Immortals of SlothMUD* 
+\*Immortals of SlothMUD\* 
 
---------------------------------
+\--------------------------------
 
-[   *Creator*    ] Splork .
+[ \*Creator\* ] Splork .
 
-[ *Greater God*  ] Neptune [JAFO] Vote! Vote!
+[ \*Greater God\* ] Neptune [JAFO] Vote! Vote!
 
 [ pri sec ter qua qui hex sep oct ] Players
 
------------------------------------
+\-----------------------------------
 
-[      *Overlord*  Wa:9.40        ] Gorka ::RuMoRs::
+[ \*Overlord\* Wa:9.40 ] Gorka ::RuMoRs::
 
-[      *Overlord*  Wa:9.40        ] Taron trade your Rhodo/Jet bit.ly/2lzmAPk
+[ \*Overlord\* Wa:9.40 ] Taron trade your Rhodo/Jet bit.ly/2lzmAPk
 
-[      *Hierarch*  Cl:9.40        ] (Reborn) Zuzu ::LeMuRs::
+[ \*Hierarch\* Cl:9.40 ] (Reborn) Zuzu ::LeMuRs::
 
-[      *Hierarch*  Cl:9.40        ] Norks ~Dragonsworn~
+[ \*Hierarch\* Cl:9.40 ] Norks \~Dragonsworn\~
 
-[       *Mystic*  Mo:8.30         ] Belrath [Legends]
+[ \*Mystic\* Mo:8.30 ] Belrath [Legends]
 
-[       *Pilgrim*  Mo:5.39        ] Driven to serve.
+[ \*Pilgrim\* Mo:5.39 ] Driven to serve.
 
-[ 39c 34d 26m 24w|11n 10b  8t  8o ] Tau ::TuMoRs::
+[ 39c 34d 26m 24w\|11n 10b 8t 8o ] Tau ::TuMoRs::
 
-[ 20c 20m 20n 10b| 6w  5d  4o  3t ] Whatta Salton Malt Reactor
+[ 20c 20m 20n 10b\| 6w 5d 4o 3t ] Whatta Salton Malt Reactor
 
-[ 14d 12t 10m  8w| 6b  4o  2c  1n ] Unmace ::FeMuRs::
+[ 14d 12t 10m 8w\| 6b 4o 2c 1n ] Unmace ::FeMuRs::
 
 There are 11 visible players.
 
@@ -8491,9 +8483,9 @@ Merry Christmas!
 
 Behind the Bookcase
 
-Exits: North  [West]  
+Exits: North [West] 
 
-Ezekiel ~Dragonsworn~ is standing here. (Faint Blue Aura)
+Ezekiel \~Dragonsworn\~ is standing here. (Faint Blue Aura)
 
 Ezekiel glows with a bright light!
 
@@ -8511,7 +8503,7 @@ Fandral arrives from the north.
 
 Padme arrives from the north.
 
-<983hp 411ma 372mv> 11599684617 408978 - -6.2 -4 indoors
+\<983hp 411ma 372mv\> 11599684617 408978 - -6.2 -4 indoors
 
 play 'dance of the seven luck gods'
 
@@ -8531,11 +8523,11 @@ The sounds of a merry flute suddenly fills the hallway.
 
 Creaking loudly, the door slowly swings open.
 
-<740hp 328ma 374mv> 11599684617 408978 - -6.2 -4 indoors
+\<740hp 328ma 374mv\> 11599684617 408978 - -6.2 -4 indoors
 
 Dingo reports 1050/1162 hp. Change: -112. Need: 112. Spells: greater fluidity, aegis.
 
-<740hp 328ma 374mv> 11599684617 408978 - -6.2 -4 indoors
+\<740hp 328ma 374mv\> 11599684617 408978 - -6.2 -4 indoors
 
 Splat utters the words, 'azoug'
 
@@ -8543,11 +8535,11 @@ Sharp spikes erupt from the floor!!
 
  OUCH!! You're stabbed in the leg!!
 
-<623hp 329ma 375mv> 11599684617 408978 - -6.2 -4 indoors
+\<623hp 329ma 375mv\> 11599684617 408978 - -6.2 -4 indoors
 
-| 
+\| 
 
-|
+\|
 
 Dingo reports 1000/1162 hp. Change: -50. Need: 162. Spells: greater fluidity, aegis.
 
@@ -8557,11 +8549,11 @@ Sharp spikes erupt from the floor!!
 
  OUCH!! You're stabbed in the leg!!
 
-<503hp 329ma 375mv> 11599684617 408978 - -6.2 -4 indoors
+\<503hp 329ma 375mv\> 11599684617 408978 - -6.2 -4 indoors
 
 Dingo reports 940/1162 hp. Change: -60. Need: 222. Spells: aegis, greater fluidity.
 
-<503hp 329ma 375mv> 11599684617 408978 - -6.2 -4 indoors
+\<503hp 329ma 375mv\> 11599684617 408978 - -6.2 -4 indoors
 
 Fandral utters the words, 'candusghafahuai'
 
@@ -8569,15 +8561,15 @@ Sharp spikes erupt from the floor!!
 
  OUCH!! You're stabbed in the leg!!
 
-<389hp 330ma 375mv> 11599684617 408978 - -6.2 -4 indoors
+\<389hp 330ma 375mv\> 11599684617 408978 - -6.2 -4 indoors
 
 Dingo reports 879/1162 hp. Change: -61. Need: 283. Spells: aegis, greater fluidity.
 
-<389hp 330ma 375mv> 11599684617 408978 - -6.2 -4 indoors
+\<389hp 330ma 375mv\> 11599684617 408978 - -6.2 -4 indoors
 
-| 
+\| 
 
-|
+\|
 
 Norks utters the words, 'candusghafahuai'
 
@@ -8585,27 +8577,27 @@ Sharp spikes erupt from the floor!!
 
  OUCH!! You're stabbed in the leg!!
 
-<290hp 331ma 375mv> 11599684617 408978 - -6.2 -4 indoors
+\<290hp 331ma 375mv\> 11599684617 408978 - -6.2 -4 indoors
 
 Dingo reports 830/1162 hp. Change: -49. Need: 332. Spells: greater fluidity, aegis.
 
-<290hp 331ma 375mv> 11599684617 408978 - -6.2 -4 indoors
+\<290hp 331ma 375mv\> 11599684617 408978 - -6.2 -4 indoors
 
 The song ends and you are less inspired by the deeds of the war gods.
 
 As the song ends, a calm feeling overtakes your party.
 
-<291hp 332ma 375mv> 11599684617 408978 - -6.2 -4 indoors
+\<291hp 332ma 375mv\> 11599684617 408978 - -6.2 -4 indoors
 
 say stop casting
 
 Padme utters the words, 'paghz'
 
-<291hp 332ma 375mv> 11599684617 408978 - -6.2 -4 indoors
+\<291hp 332ma 375mv\> 11599684617 408978 - -6.2 -4 indoors
 
 You say 'stop casting'
 
-<292hp 333ma 375mv> 11599684617 408978 - -6.2 -4 indoors
+\<292hp 333ma 375mv\> 11599684617 408978 - -6.2 -4 indoors
 
 Splat utters the words, 'candusghafahuai'
 
@@ -8615,11 +8607,11 @@ Sharp spikes erupt from the floor!!
 
 You wish that your wounds would stop BLEEDING that much!
 
-<180hp 333ma 375mv> 11599684617 408978 - -6.2 -4 indoors
+\<180hp 333ma 375mv\> 11599684617 408978 - -6.2 -4 indoors
 
 Dingo reports 780/1162 hp. Change: -50. Need: 382. Spells: greater fluidity, aegis.
 
-<180hp 333ma 375mv> 11599684617 408978 - -6.2 -4 indoors
+\<180hp 333ma 375mv\> 11599684617 408978 - -6.2 -4 indoors
 
 Zaq utters the words, 'candusghafahuai'
 
@@ -8629,11 +8621,11 @@ Sharp spikes erupt from the floor!!
 
 You wish that your wounds would stop BLEEDING that much!
 
-<27hp 334ma 375mv> 11599684617 408978 - -6.2 -4 indoors
+\<27hp 334ma 375mv\> 11599684617 408978 - -6.2 -4 indoors
 
 Dingo reports 722/1162 hp. Change: -58. Need: 440. Spells: greater fluidity, aegis.
 
-<27hp 334ma 375mv> 11599684617 408978 - -6.2 -4 indoors
+\<27hp 334ma 375mv\> 11599684617 408978 - -6.2 -4 indoors
 
 Zaq utters the words, 'ghaiz gtui'
 
@@ -8643,41 +8635,41 @@ Sharp spikes erupt from the floor!!
 
 You have been KILLED!! 
 
-<-105hp 334ma 375mv> 11599684617 408978 - -2.2 -4 indoors
+\<-105hp 334ma 375mv\> 11599684617 408978 - -2.2 -4 indoors
 
-cast 'restorat'  Songster
+cast 'restorat' Songster
 
-Lie still; you are DEAD!!! :-( 
+Lie still; you are DEAD!!! <img src="/images/smilies/icon_e_sad.svg" alt=":-(" title=":-(" width="15" height="15" class="smiley nozoom"> 
 
-<-105hp 334ma 375mv> 11599684617 408978 - -2.2 -4 indoors
+\<-105hp 334ma 375mv\> 11599684617 408978 - -2.2 -4 indoors
 
 group
 
 Group 'Ezekiel's Champion Council' is led by Ezekiel and consists of:
 
- (Leader)          Ezekiel [Ma:9.40   60hp 622ma 331mv] tjade/sruby/sess              
+ (Leader) Ezekiel [Ma:9.40 60hp 622ma 331mv] tjade/sruby/sess 
 
-   (Dead)            Padme [Cl:4.29  -28hp 260ma 303mv] gw diamond / pink diamond     
+ (Dead) Padme [Cl:4.29 -28hp 260ma 303mv] gw diamond / pink diamond 
 
-   (Dead)          Fandral [Dr:6.39  -11hp 562ma 365mv] Tourm/RQuartz/lost cross ring 
+ (Dead) Fandral [Dr:6.39 -11hp 562ma 365mv] Tourm/RQuartz/lost cross ring 
 
-   (Dead)            Splat [Mo:6.37 -128hp 296ma 371mv] malachite/ruby gildervine     
+ (Dead) Splat [Mo:6.37 -128hp 296ma 371mv] malachite/ruby gildervine 
 
- (Absent)              Nom [Dr:4.30  776hp 716ma 164mv] avent/jacinth                 
+ (Absent) Nom [Dr:4.30 776hp 716ma 164mv] avent/jacinth 
 
-   (Dead)              Zaq [Th:5.20  -21hp 182ma 242mv] bonyx / white opal / Cthulga+ 
+ (Dead) Zaq [Th:5.20 -21hp 182ma 242mv] bonyx / white opal / Cthulga+ 
 
-   (Dead)            Norks [Cl:9.40  -42hp 422ma 329mv] cthulhusb pearl emerald       
+ (Dead) Norks [Cl:9.40 -42hp 422ma 329mv] cthulhusb pearl emerald 
 
-   (Dead)             Mage [Ma:8.39  -58hp 674ma 358mv] Jasper.Zhent                  
+ (Dead) Mage [Ma:8.39 -58hp 674ma 358mv] Jasper.Zhent 
 
-   (Dead)           Crumbs [Cl:7.38  -11hp 971ma 394mv] Gy Topaz/T.Eye/ E.Flame       
+ (Dead) Crumbs [Cl:7.38 -11hp 971ma 394mv] Gy Topaz/T.Eye/ E.Flame 
 
- (Absent)            Dingo [Mo:9.40  339hp 447ma 441mv] Chrysop | Obsidian elite-sword
+ (Absent) Dingo [Mo:9.40 339hp 447ma 441mv] Chrysop \| Obsidian elite-sword
 
-   (Dead)         Songster [Ba:6.28 -105hp 334ma 375mv] jet/avent calliope            
+ (Dead) Songster [Ba:6.28 -105hp 334ma 375mv] jet/avent calliope 
 
-<-105hp 334ma 375mv> 11599684617 408978 - -2.2 -4 indoors
+\<-105hp 334ma 375mv\> 11599684617 408978 - -2.2 -4 indoors
 
 </div>
 
@@ -8689,41 +8681,41 @@ A sahaguin gate guard is stunned, but will probably regain consciousness again.
 
 You report 988/1256 hp. Change: -355. Need: 268. Spells: greater fluidity, aegis.
 
-<988hp 577ma 329mv> 121410690042 1407278 - -7.5 -4 indoors
+\<988hp 577ma 329mv\> 121410690042 1407278 - -7.5 -4 indoors
 
-+4059 101 +0
-
-What should the spell be cast upon?
-
-<990hp 578ma 330mv> 121410690042 1407278 - -7.5 -4 indoors
-
-| 
-
-|
+\+4059 101 +0
 
 What should the spell be cast upon?
 
-<990hp 578ma 330mv> 121410690042 1407278 - -7.5 -4 indoors
+\<990hp 578ma 330mv\> 121410690042 1407278 - -7.5 -4 indoors
 
-<990hp 578ma 330mv> 121410690042 1407278 - -7.5 -4 indoors
+\| 
+
+\|
+
+What should the spell be cast upon?
+
+\<990hp 578ma 330mv\> 121410690042 1407278 - -7.5 -4 indoors
+
+\<990hp 578ma 330mv\> 121410690042 1407278 - -7.5 -4 indoors
 
 kick guard
 
-<992hp 579ma 331mv> 121410690042 1407278 - -7.5 -4 indoors
+\<992hp 579ma 331mv\> 121410690042 1407278 - -7.5 -4 indoors
 
 A sahaguin patrol swims into the room from the south.
 
 A sahaguin patrol swims into the room from the south.
 
-<992hp 579ma 331mv> 121410690042 1407278 - -7.5 -4 indoors
+\<992hp 579ma 331mv\> 121410690042 1407278 - -7.5 -4 indoors
 
 A sahaguin patrol hates your guts!
 
 Your boots need polishing again - blood all over.
 
-<993hp 580ma 332mv> 121410691442 1407278 97 -7.5 -4 indoors
+\<993hp 580ma 332mv\> 121410691442 1407278 97 -7.5 -4 indoors
 
-+1400 35 +0
+\+1400 35 +0
 
 You are brutally massacred by a sahaguin patrol's hit.
 
@@ -8753,9 +8745,9 @@ You brutally massacre a sahaguin patrol with your slash.
 
 You report 638/1256 hp. Change: -350. Need: 618. Spells: greater fluidity, aegis.
 
-<638hp 580ma 333mv> 121410713253 1407278 45 -7.5 -4 indoors
+\<638hp 580ma 333mv\> 121410713253 1407278 45 -7.5 -4 indoors
 
-+21811 545 +0
+\+21811 545 +0
 
 kick gate
 
@@ -8765,7 +8757,7 @@ You miss your kick at a sahaguin gate guard's groin, much to his relief.
 
 A sahaguin gate guard is stunned, but will probably regain consciousness again.
 
-<646hp 583ma 336mv> 121410713253 1407278 45 -7.5 -4 indoors
+\<646hp 583ma 336mv\> 121410713253 1407278 45 -7.5 -4 indoors
 
 @@
 
@@ -8793,9 +8785,9 @@ You brutally massacre a sahaguin patrol with your slash.
 
 You report 398/1256 hp. Change: -240. Need: 858. Spells: greater fluidity, aegis.
 
-<398hp 585ma 338mv> 121410730246 1407278 6 -7.5 -4 indoors
+\<398hp 585ma 338mv\> 121410730246 1407278 6 -7.5 -4 indoors
 
-+16993 424 +0
+\+16993 424 +0
 
 With a mighty effort, you shake off your exhaustion!
 
@@ -8823,23 +8815,23 @@ There were 4809 coins.
 
 4809 g/sec
 
-<398hp 560ma 323mv> 121414191798 1412087 - -7.5 -4 indoors
+\<398hp 560ma 323mv\> 121414191798 1412087 - -7.5 -4 indoors
 
-+3461552 86538 +4809
+\+3461552 86538 +4809
 
 The song ends and you are less inspired by the deeds of the war gods.
 
-<399hp 561ma 324mv> 121414191798 1412087 - -7.5 -4 indoors
+\<399hp 561ma 324mv\> 121414191798 1412087 - -7.5 -4 indoors
 
 kick gate
 
-<403hp 562ma 326mv> 121414191798 1412087 - -7.5 -4 indoors
+\<403hp 562ma 326mv\> 121414191798 1412087 - -7.5 -4 indoors
 
 A sahaguin patrol swims off to the east.
 
 You yell 'LET'S ROCK!'
 
-<403hp 562ma 326mv> 121414191798 1412087 - -7.5 -4 indoors
+\<403hp 562ma 326mv\> 121414191798 1412087 - -7.5 -4 indoors
 
 You can taste the impending victory!
 
@@ -8847,7 +8839,7 @@ Your beautiful full-circle-kick misses a sahaguin gate guard by a mile.
 
 A sahaguin gate guard is stunned, but will probably regain consciousness again.
 
-<403hp 562ma 326mv> 121414191798 1412087 - -7.5 -4 indoors
+\<403hp 562ma 326mv\> 121414191798 1412087 - -7.5 -4 indoors
 
 kick gate
 
@@ -8857,7 +8849,7 @@ You miss your kick at a sahaguin gate guard's groin, much to his relief.
 
 A sahaguin gate guard is stunned, but will probably regain consciousness again.
 
-<412hp 568ma 332mv> 121414191798 1412087 - -7.5 -4 indoors
+\<412hp 568ma 332mv\> 121414191798 1412087 - -7.5 -4 indoors
 
 kick gate
 
@@ -8869,7 +8861,7 @@ Your beautiful full-circle-kick misses a sahaguin gate guard by a mile.
 
 A sahaguin gate guard is stunned, but will probably regain consciousness again.
 
-<419hp 571ma 336mv> 121414191798 1412087 - -7.5 -4 indoors
+\<419hp 571ma 336mv\> 121414191798 1412087 - -7.5 -4 indoors
 
 kick gate
 
@@ -8879,13 +8871,13 @@ Your beautiful full-circle-kick misses a sahaguin gate guard by a mile.
 
 A sahaguin gate guard is stunned, but will probably regain consciousness again.
 
-<427hp 575ma 341mv> 121414191798 1412087 - -7.5 -4 indoors
+\<427hp 575ma 341mv\> 121414191798 1412087 - -7.5 -4 indoors
 
 kick gate
 
-| 
+\| 
 
-|
+\|
 
 kill gate
 
@@ -8895,13 +8887,13 @@ You brutally massacre a sahaguin gate guard with your slash.
 
 You report 573/1256 hp. Change: +175. Need: 683. Spells: greater fluidity, aegis.
 
-<573hp 579ma 346mv> 121414193782 1412087 2 -7.5 -4 indoors
+\<573hp 579ma 346mv\> 121414193782 1412087 2 -7.5 -4 indoors
 
-+1984 49 +0
+\+1984 49 +0
 
 The 'improved haste' spell on you is about to wear off.
 
-<575hp 580ma 347mv> 121414193782 1412087 2 -7.5 -4 indoors
+\<575hp 580ma 347mv\> 121414193782 1412087 2 -7.5 -4 indoors
 
 cast 'firewind'
 
@@ -8939,7 +8931,7 @@ There were 17194 coins.
 
 You report 231/1256 hp. Change: -342. Need: 1025. Spells: greater fluidity, aegis.
 
-<231hp 583ma 351mv> 121419937913 1429281 - -7.5 -3 indoors
+\<231hp 583ma 351mv\> 121419937913 1429281 - -7.5 -3 indoors
 
 </div>
 
@@ -8987,13 +8979,13 @@ a bottle of dwarven moonshine
 
 You report 1393/1401 hp. Change: +68. Need: 8. Spells: aegis.
 
-<1393hp 107ma 321mv> 121570824466 2832292 - -14.1 +3 raining
+\<1393hp 107ma 321mv\> 121570824466 2832292 - -14.1 +3 raining
 
 sta
 
 You stop resting, and stand up.
 
-<1399hp 108ma 321mv> 121570824466 2832292 - -14.1 +3 raining
+\<1399hp 108ma 321mv\> 121570824466 2832292 - -14.1 +3 raining
 
 time
 
@@ -9011,7 +9003,7 @@ The greatest struggles offer even greater lessons.
 
 Up and Up, Chop and Chop, Kill or be Killed.
 
-<1401hp 111ma 324mv> 121570824466 2832292 - -14.1 +3 raining
+\<1401hp 111ma 324mv\> 121570824466 2832292 - -14.1 +3 raining
 
 Log is on: chop-nocap.TXT
 
@@ -9023,11 +9015,11 @@ You are momentarily disoriented as your body reforms in another location.
 
 Beyond the Curtain
 
-Exits: [North]  West  
+Exits: [North] West 
 
 (Brilliant Blue Aura) Goodwife Moran is in charge of the living quarters for the soldiers.
 
-<1401hp 53ma 333mv> 121570824466 2832292 - -14.1 +3 indoors
+\<1401hp 53ma 333mv\> 121570824466 2832292 - -14.1 +3 indoors
 
 w
 
@@ -9041,25 +9033,25 @@ res
 
 Human Quarters
 
-Exits: [North]  East  West  
+Exits: [North] East West 
 
 (Faint Blue Aura) An off-duty soldier is trying to grab some z's.
 
-<1401hp 56ma 335mv> 121570824466 2832292 - -14.1 +3 indoors
+\<1401hp 56ma 335mv\> 121570824466 2832292 - -14.1 +3 indoors
 
 Bunks
 
-Exits: North  East  
+Exits: North East 
 
 (Faint Blue Aura) An off-duty soldier is trying to grab some z's.
 
-<1401hp 56ma 334mv> 121570824466 2832292 - -14.1 +3 indoors
+\<1401hp 56ma 334mv\> 121570824466 2832292 - -14.1 +3 indoors
 
 Street of Peaceful Light
 
-Exits: East  South  West  Up  
+Exits: East South West Up 
 
-<1401hp 56ma 333mv> 121570824466 2832292 - -14.1 +3 raining
+\<1401hp 56ma 333mv\> 121570824466 2832292 - -14.1 +3 raining
 
 A large curved scimitar vanishes out of existence.
 
@@ -9089,11 +9081,11 @@ A bag of weapons vanishes out of existence.
 
 The Wide Gate
 
-Exits: North  East  [South]  West  
+Exits: North East [South] West 
 
 A rusty old shovel has been left abandoned, covered in mud and grime.
 
-Driven [>)))*>] is standing here. (Faint Blue Aura)
+Driven [\>)))\*\>] is standing here. (Faint Blue Aura)
 
 Driven glows with a very faint light!
 
@@ -9103,7 +9095,7 @@ A frost giantess is guarding the gate.
 
 A frost giant is guarding the gate.
 
-<1401hp 56ma 331mv> 121570824466 2832292 - -14.1 +3 raining
+\<1401hp 56ma 331mv\> 121570824466 2832292 - -14.1 +3 raining
 
 You sit down and rest your tired bones
 
@@ -9149,35 +9141,35 @@ coins : You are too laden down with equipment to pick anything else up.
 
 Splat gets gold coins from the corpse of Vouhx-t that's on the ground.
 
-Splat splits 148500 coins.  Your share is 29700 coins.
+Splat splits 148500 coins. Your share is 29700 coins.
 
 Splat gets a potion of speed from the corpse of Vouhx-t that's on the ground.
 
 Your target is no longer with us.
 
-<1225hp 88ma 360mv> 122741333362 1601273 - -16.1 +10 indoors
+\<1225hp 88ma 360mv\> 122741333362 1601273 - -16.1 +10 indoors
 
-+52248034 1306200 +37700
+\+52248034 1306200 +37700
 
 Belrath utters the words, 'jioculoae zugaoz'
 
 Belrath's skin becomes beautifully pale as he takes on an elegant undead visage.
 
-<1227hp 89ma 361mv> 122741333362 1601273 - -16.1 +10 indoors
+\<1227hp 89ma 361mv\> 122741333362 1601273 - -16.1 +10 indoors
 
 group
 
 Parry mode is now on.
 
-<1229hp 90ma 362mv> 122741333362 1601273 - -16.1 +10 indoors
+\<1229hp 90ma 362mv\> 122741333362 1601273 - -16.1 +10 indoors
 
 You yell 'LET'S ROCK!'
 
-<1229hp 90ma 362mv> 122741333362 1601273 - -16.1 +10 indoors
+\<1229hp 90ma 362mv\> 122741333362 1601273 - -16.1 +10 indoors
 
 Your last warcry hasn't even stopped echoing yet!
 
-<1229hp 90ma 362mv> 122741333362 1601273 - -16.1 +10 indoors
+\<1229hp 90ma 362mv\> 122741333362 1601273 - -16.1 +10 indoors
 
 Splat joins in the war-cry!
 
@@ -9187,47 +9179,47 @@ Roga joins in the war-cry!
 
 Group 'exp, open' is led by Taron and consists of:
 
-  (Point)            Taron [Wa:9.40 1230hp  91ma 363mv] rhodo/malachite               
+ (Point) Taron [Wa:9.40 1230hp 91ma 363mv] rhodo/malachite 
 
-  (Front)             Roga [Wa:4.20 1146hp 342ma 271mv] csaph/pstrsaph                
+ (Front) Roga [Wa:4.20 1146hp 342ma 271mv] csaph/pstrsaph 
 
-  (Front)            Splat [Mo:6.38  969hp 518ma 181mv] sruby/ruby                    
+ (Front) Splat [Mo:6.38 969hp 518ma 181mv] sruby/ruby 
 
-  (Front)          Belrath [Mo:8.37 1246hp 558ma 467mv] GYT | SB Pearl                
+ (Front) Belrath [Mo:8.37 1246hp 558ma 467mv] GYT \| SB Pearl 
 
-                     Padme [Cl:4.29  863hp 498ma 156mv] gw diamond/emerald            
+ Padme [Cl:4.29 863hp 498ma 156mv] gw diamond/emerald 
 
-<1230hp 91ma 363mv> 122741333362 1601273 - -16.1 +10 indoors
+\<1230hp 91ma 363mv\> 122741333362 1601273 - -16.1 +10 indoors
 
 Belrath joins in the war-cry!
 
-<1232hp 92ma 364mv> 122741333362 1601273 - -16.1 +10 indoors
+\<1232hp 92ma 364mv\> 122741333362 1601273 - -16.1 +10 indoors
 
 The 'improved haste' spell on you is about to wear off.
 
-<1237hp 95ma 366mv> 122741333362 1601273 - -16.1 +10 indoors
+\<1237hp 95ma 366mv\> 122741333362 1601273 - -16.1 +10 indoors
 
 gt ah i'm on point
 
 You grouptell: 'ah i'm on point'
 
-<1241hp 97ma 368mv> 122741333362 1601273 - -16.1 +10 indoors
+\<1241hp 97ma 368mv\> 122741333362 1601273 - -16.1 +10 indoors
 
 Belrath -- 'there should be point, and leader'
 
-<1246hp 99ma 371mv> 122741333362 1601273 - -16.1 +10 indoors
+\<1246hp 99ma 371mv\> 122741333362 1601273 - -16.1 +10 indoors
 
 Splat chuckles politely.
 
 You report 1251/1466 hp. Change: +50. Need: 215. Spells: greater fluidity, aegis.
 
-<1251hp 102ma 373mv> 122741333362 1601273 - -16.1 +10 indoors
+\<1251hp 102ma 373mv\> 122741333362 1601273 - -16.1 +10 indoors
 
 gt yes should be
 
 You grouptell: 'yes should be'
 
-<1256hp 105ma 376mv> 122741333362 1601273 - -16.1 +10 indoors
+\<1256hp 105ma 376mv\> 122741333362 1601273 - -16.1 +10 indoors
 
 n
 
@@ -9235,7 +9227,7 @@ group
 
 In the Longhouse
 
-Exits: North  South  West  
+Exits: North South West 
 
 There is a pitcher on the ground.
 
@@ -9261,21 +9253,21 @@ Belrath arrives from the south.
 
 Padme arrives from the south.
 
-<1258hp 106ma 376mv> 122741333362 1601273 - -16.1 +10 indoors
+\<1258hp 106ma 376mv\> 122741333362 1601273 - -16.1 +10 indoors
 
 Group 'exp, open' is led by Taron and consists of:
 
-  (Point)            Taron [Wa:9.40 1260hp 107ma 377mv] rhodo/malachite               
+ (Point) Taron [Wa:9.40 1260hp 107ma 377mv] rhodo/malachite 
 
-  (Front)             Roga [Wa:4.20 1150hp 351ma 283mv] csaph/pstrsaph                
+ (Front) Roga [Wa:4.20 1150hp 351ma 283mv] csaph/pstrsaph 
 
-  (Front)            Splat [Mo:6.38 1000hp 533ma 196mv] sruby/ruby                    
+ (Front) Splat [Mo:6.38 1000hp 533ma 196mv] sruby/ruby 
 
-  (Front)          Belrath [Mo:8.37 1246hp 566ma 467mv] GYT | SB Pearl                
+ (Front) Belrath [Mo:8.37 1246hp 566ma 467mv] GYT \| SB Pearl 
 
-                     Padme [Cl:4.29  863hp 515ma 168mv] gw diamond/emerald            
+ Padme [Cl:4.29 863hp 515ma 168mv] gw diamond/emerald 
 
-<1260hp 107ma 377mv> 122741333362 1601273 - -16.1 +10 indoors
+\<1260hp 107ma 377mv\> 122741333362 1601273 - -16.1 +10 indoors
 
 TICK IN 10 SECONDS.
 
@@ -9291,7 +9283,7 @@ Saving Taron.
 
 Saving items.
 
-<1266hp 111ma 380mv> 122741333362 1601273 - -16.1 +10 indoors
+\<1266hp 111ma 380mv\> 122741333362 1601273 - -16.1 +10 indoors
 
 recite recall
 
@@ -9315,17 +9307,17 @@ A large curved scimitar vanishes out of existence.
 
 Settlestone's Well
 
-   This is an extremely energetic section of the dwarven city of
+ This is an extremely energetic section of the dwarven city of
 
-Settlestone.  Two bustling streets intersect at the site of a ten foot tall
+Settlestone. Two bustling streets intersect at the site of a ten foot tall
 
-statue of the famed Krodar Thunderhammer.  All four sets of city gates can
+statue of the famed Krodar Thunderhammer. All four sets of city gates can
 
-be seen from this vantage and hundreds of people walk about nearby.  There
+be seen from this vantage and hundreds of people walk about nearby. There
 
 is also a large black stone well in the center of the square.
 
-Exits: North  East  South  West  Up  Down  
+Exits: North East South West Up Down 
 
 A partially dissolved spellbook with strange runes lies on the ground...It emits a faint humming sound!
 
@@ -9347,7 +9339,7 @@ A dwarven animal control officer patrols the area.
 
 <div class="post" data-post-id="38693" data-author="Driven" data-date="2018-03-06T20:14:07+00:00" data-subject="Re: Your afternoon chuckle">
 
-Wait... this actually happened?  What the?
+Wait... this actually happened? What the?
 
 [1101hp/142ma/384mv, +142hr/+46mr, -1.6, 63%]
 
@@ -9373,11 +9365,11 @@ You are bathed in a painful stream of burning green acid!
 
 Alocer Loki utters the words, 'euguihzofahz'
 
-AHHH!  Alocer Loki gestures and a piece of your body disappears.
+AHHH! Alocer Loki gestures and a piece of your body disappears.
 
 Alocer Loki utters the words, 'euguihzofahz'
 
-AHHH!  Alocer Loki gestures and a piece of your body disappears.
+AHHH! Alocer Loki gestures and a piece of your body disappears.
 
 Alocer Loki utters the words, 'aque bragh'
 
@@ -9393,37 +9385,37 @@ You are bathed in a painful stream of burning green acid!
 
 Alocer Loki utters the words, 'euguihzofahz'
 
-AHHH!  Alocer Loki gestures and a piece of your body disappears.
+AHHH! Alocer Loki gestures and a piece of your body disappears.
 
 Alocer Loki utters the words, 'euguihzofahz'
 
-AHHH!  Alocer Loki gestures and a piece of your body disappears.
+AHHH! Alocer Loki gestures and a piece of your body disappears.
 
 Alocer Loki utters the words, 'euguihzofahz'
 
-AHHH!  Alocer Loki gestures and a piece of your body disappears.
+AHHH! Alocer Loki gestures and a piece of your body disappears.
 
 Alocer Loki utters the words, 'euguihzofahz'
 
-AHHH!  Alocer Loki gestures and a piece of your body disappears.
+AHHH! Alocer Loki gestures and a piece of your body disappears.
 
 You wish that your wounds would stop BLEEDING that much!
 
 Alocer Loki utters the words, 'euguihzofahz'
 
-AHHH!  Alocer Loki gestures and a piece of your body disappears.
+AHHH! Alocer Loki gestures and a piece of your body disappears.
 
 You wish that your wounds would stop BLEEDING that much!
 
 Alocer Loki utters the words, 'euguihzofahz'
 
-AHHH!  Alocer Loki gestures and a piece of your body disappears.
+AHHH! Alocer Loki gestures and a piece of your body disappears.
 
 You wish that your wounds would stop BLEEDING that much!
 
 Alocer Loki utters the words, 'euguihzofahz'
 
-AHHH!  Alocer Loki gestures and a piece of your body disappears.
+AHHH! Alocer Loki gestures and a piece of your body disappears.
 
 You wish that your wounds would stop BLEEDING that much!
 
@@ -9433,7 +9425,7 @@ Alocer Loki makes a magical gesture and you feel your body falling apart...
 
 You have been KILLED!! 
 
-Lie still; you are DEAD!!! :-( 
+Lie still; you are DEAD!!! <img src="/images/smilies/icon_e_sad.svg" alt=":-(" title=":-(" width="15" height="15" class="smiley nozoom"> 
 
 [-33hp/142ma/384mv, +0hr/+0mr, 1.7, -%]
 
@@ -9441,7 +9433,7 @@ Lie still; you are DEAD!!! :-(
 
 <div class="post" data-post-id="38694" data-author="Driven" data-date="2018-03-07T16:52:11+00:00" data-subject="Re: Your afternoon chuckle">
 
-I'm continuing to cycle this guy for a forge and I have confirmed that hermetic resonance simply does not work on him.  I have had hermetic resonance up for disintegrate when he decides to go crazy on me like this and all of the spells hit me instead of firing back at him.
+I'm continuing to cycle this guy for a forge and I have confirmed that hermetic resonance simply does not work on him. I have had hermetic resonance up for disintegrate when he decides to go crazy on me like this and all of the spells hit me instead of firing back at him.
 
 </div>
 
@@ -9457,7 +9449,7 @@ A bag of weapons vanishes out of existence.
 
 Entrance to The Arena Complex
 
-Exits: North  South  Up  
+Exits: North South Up 
 
 Major Payne beckons you to compete against each other.
 
@@ -9489,37 +9481,37 @@ Suna begins to sing 'brothers in valor'.
 
 You are greatly inspired by Suna's song!
 
-<1283hp 683ma 306mv 446780455xp -13.9ac -%>
+\<1283hp 683ma 306mv 446780455xp -13.9ac -%\>
 
 A datura warrior shouts 'Intruders! Kill them!'
 
-<1288hp 685ma 308mv 446780455xp -13.9ac -%>
+\<1288hp 685ma 308mv 446780455xp -13.9ac -%\>
 
 Arya raises her hands to the sky and slowly turns into a small brown ferret (Arya)!
 
-<1288hp 685ma 308mv 446780455xp -13.9ac -%>
+\<1288hp 685ma 308mv 446780455xp -13.9ac -%\>
 
 A datura warrior viciously massacres Arya with his slash.
 
-|;rescue Arya;@@
+\|;rescue Arya;@@
 
 Arya is dead! R.I.P.
 
 You report 1297/1476 hp. Change: +20. Need: 179. Spells: greater fluidity, glowing.
 
-<1297hp 689ma 313mv 446780455xp -13.9ac -%>
+\<1297hp 689ma 313mv 446780455xp -13.9ac -%\>
 
 With a mighty effort, you shake off your exhaustion!
 
 But nobody is fighting her?
 
-<1299hp 690ma 299mv 446780455xp -13.9ac -%>
+\<1299hp 690ma 299mv 446780455xp -13.9ac -%\>
 
-<1299hp 690ma 299mv 446780455xp -13.9ac -%>
+\<1299hp 690ma 299mv 446780455xp -13.9ac -%\>
 
 Suna -- 'opps'
 
-<1306hp 693ma 303mv 446780455xp -13.9ac -%>
+\<1306hp 693ma 303mv 446780455xp -13.9ac -%\>
 
 snicker
 
@@ -9531,19 +9523,19 @@ You snicker softly.
 
 Moonlit Shadows
 
-   An eerie golden glow shimmers unsteadily within the few shadow clouds 
+ An eerie golden glow shimmers unsteadily within the few shadow clouds 
 
-around here.  The clouds slowly rotate at a steady pace, and the intensity 
+around here. The clouds slowly rotate at a steady pace, and the intensity 
 
-shifts respectively.  The glow also casts the vicinity into a mass of 
+shifts respectively. The glow also casts the vicinity into a mass of 
 
-ghostly light, creating weird sensations.  Although this may be a trick of 
+ghostly light, creating weird sensations. Although this may be a trick of 
 
 the ether, an odd mocking cackle is heard coming from one of the clouds, 
 
 punctured by the cries of the tortured.
 
-Exits: South  Up  
+Exits: South Up 
 
 Pierced by three spears of energy, Moonshadow howls in unholy excitement.
 
@@ -9573,31 +9565,31 @@ Feels good, man!
 
 <div class="post" data-post-id="38732" data-author="Teron" data-date="2018-04-14T07:31:34+00:00" data-subject="Re: Your afternoon chuckle">
 
-<666hp 26ma 129mv> 7585635939 696205 62 -14.1 +10 indoors
+\<666hp 26ma 129mv\> 7585635939 696205 62 -14.1 +10 indoors
 
-+16469 411 +0
+\+16469 411 +0
 
 Woof, you feel so tired!
 
 cast 'improved haste'
 
-<669hp 27ma 29mv> 7585635939 696205 62 -14.1 +10 indoors
+\<669hp 27ma 29mv\> 7585635939 696205 62 -14.1 +10 indoors
 
 l arch
 
 Smallpotato buries his weapon to the hilt!
 
-<669hp 27ma 29mv> 7585635939 696205 60 -14.1 +10 indoors
+\<669hp 27ma 29mv\> 7585635939 696205 60 -14.1 +10 indoors
 
 Impossible! You can't concentrate enough!
 
-<672hp 28ma 30mv> 7585635939 696205 60 -14.1 +10 indoors
+\<672hp 28ma 30mv\> 7585635939 696205 60 -14.1 +10 indoors
 
-A tall dark figure stands before you.  Long black robes drape from the top
+A tall dark figure stands before you. Long black robes drape from the top
 
-of his head all the way down to his ankle.  It is hard to see whats under
+of his head all the way down to his ankle. It is hard to see whats under
 
-that enormous robe.  The presence of the man is making you very uncomfortable.
+that enormous robe. The presence of the man is making you very uncomfortable.
 
 The Archfiend has quite a few wounds.
 
@@ -9605,29 +9597,29 @@ You attempt to peek at the inventory:
 
 You can't see anything.
 
-<672hp 28ma 30mv> 7585635939 696205 60 -14.1 +10 indoors
+\<672hp 28ma 30mv\> 7585635939 696205 60 -14.1 +10 indoors
 
 group
 
 Group 'The Grim Crowd' is led by Taron and consists of:
 
-  (Point)            Taron [Wa:9.40  677hp  30ma  31mv] rhodo/jet igor                
+ (Point) Taron [Wa:9.40 677hp 30ma 31mv] rhodo/jet igor 
 
-  (Front)      Smallpotato [Th:4.38  983hp 388ma 303mv] chrysop/amethyst              
+ (Front) Smallpotato [Th:4.38 983hp 388ma 303mv] chrysop/amethyst 
 
-  (Front)             Arya [Wa:6.35 1209hp 262ma 375mv] Jacinth|Obsidian              
+ (Front) Arya [Wa:6.35 1209hp 262ma 375mv] Jacinth\|Obsidian 
 
-  (Front)              Zaq [Th:6.23  997hp 326ma 423mv] whiteopal/teye                
+ (Front) Zaq [Th:6.23 997hp 326ma 423mv] whiteopal/teye 
 
-  (Front)            Dingo [Mo:9.40  992hp 259ma 430mv] Tourm | TJade                 
+ (Front) Dingo [Mo:9.40 992hp 259ma 430mv] Tourm \| TJade 
 
-                   Ezekiel [Ma:9.40 1031hp  14ma 316mv] s.ruby/ruby                   
+ Ezekiel [Ma:9.40 1031hp 14ma 316mv] s.ruby/ruby 
 
-                       Nom [Dr:5.39  758hp 171ma 234mv] malachine/rquartz choker bf   
+ Nom [Dr:5.39 758hp 171ma 234mv] malachine/rquartz choker bf 
 
- (Absent)           Crumbs [Cl:8.27  936hp 1086ma 394mv] ---
+ (Absent) Crumbs [Cl:8.27 936hp 1086ma 394mv] ---
 
-<677hp 30ma 31mv> 7585635939 696205 60 -14.1 +10 indoors
+\<677hp 30ma 31mv\> 7585635939 696205 60 -14.1 +10 indoors
 
 You skillfully parry the attack of the Archfiend.
 
@@ -9655,23 +9647,23 @@ The Archfiend appears unaffected.
 
 You report 414/1401 hp. Change: -252. Need: 987. Spells: greater fluidity, glowing.
 
-<414hp 30ma 31mv> 7585647919 696205 55 -14.1 +10 indoors
+\<414hp 30ma 31mv\> 7585647919 696205 55 -14.1 +10 indoors
 
-+11980 299 +0
+\+11980 299 +0
 
 Ezekiel flails his weapon about the room!
 
-<416hp 31ma 32mv> 7585647919 696205 55 -14.1 +10 indoors
+\<416hp 31ma 32mv\> 7585647919 696205 55 -14.1 +10 indoors
 
 gt all in
 
 You grouptell: 'all in'
 
-<416hp 31ma 32mv> 7585647919 696205 55 -14.1 +10 indoors
+\<416hp 31ma 32mv\> 7585647919 696205 55 -14.1 +10 indoors
 
 The song ends and you are less inspired by the deeds of the war gods.
 
-<418hp 32ma 33mv> 7585647919 696205 55 -14.1 +10 indoors
+\<418hp 32ma 33mv\> 7585647919 696205 55 -14.1 +10 indoors
 
 flail
 
@@ -9679,15 +9671,15 @@ Smallpotato thrusts Rogue's Dagger deep into the Archfiend and injects a poison.
 
 Smallpotato buries his weapon to the hilt!
 
-<418hp 32ma 33mv> 7585647919 696205 54 -14.1 +10 indoors
+\<418hp 32ma 33mv\> 7585647919 696205 54 -14.1 +10 indoors
 
 You flail your weapon around you in a flurry of motion in the Archfiend's direction!
 
 You catch the Archfiend in a flurry of blows.
 
-<421hp 33ma 34mv> 7585653347 696205 53 -14.1 +10 indoors
+\<421hp 33ma 34mv\> 7585653347 696205 53 -14.1 +10 indoors
 
-+5428 135 +0
+\+5428 135 +0
 
 You skillfully parry the attack of the Archfiend.
 
@@ -9713,7 +9705,7 @@ Your spectral shield has drained power from the spell!
 
 You resist almost all of the damage...
 
-The Archfiend breathes a stream of fire at you!  You are engulfed in flames!
+The Archfiend breathes a stream of fire at you! You are engulfed in flames!
 
 You wish that your wounds would stop BLEEDING that much!
 
@@ -9739,13 +9731,13 @@ Dingo appears to be resisting quite a bit of the damage.
 
 You report 253/1401 hp. Change: -161. Need: 1148. Spells: greater fluidity, glowing.
 
-<253hp 47ma 36mv> 7585660615 696205 47 -14.1 +10 indoors
+\<253hp 47ma 36mv\> 7585660615 696205 47 -14.1 +10 indoors
 
-+7268 181 +0
+\+7268 181 +0
 
 Ezekiel flails his weapon about the room!
 
-<253hp 47ma 36mv> 7585660615 696205 47 -14.1 +10 indoors
+\<253hp 47ma 36mv\> 7585660615 696205 47 -14.1 +10 indoors
 
 quaf mutap
 
@@ -9763,9 +9755,9 @@ You feel better!
 
 You report 371/1401 hp. Change: +118. Need: 1030. Spells: greater fluidity, glowing.
 
-<371hp 50ma 38mv> 7585665015 696205 47 -14.1 +10 indoors
+\<371hp 50ma 38mv\> 7585665015 696205 47 -14.1 +10 indoors
 
-+4400 110 +0
+\+4400 110 +0
 
 You get a vaporous white potion from a kangaroo pouch.
 
@@ -9781,13 +9773,13 @@ Dingo sends a quick strike of his fist into the Archfiend's side.
 
 You report 473/1401 hp. Change: +102. Need: 928. Spells: greater fluidity, glowing.
 
-<473hp 50ma 38mv> 7585669095 696205 45 -14.1 +10 indoors
+\<473hp 50ma 38mv\> 7585669095 696205 45 -14.1 +10 indoors
 
-+4080 102 +0
+\+4080 102 +0
 
 Zaq buries his weapon to the hilt!
 
-<476hp 51ma 39mv> 7585669095 696205 43 -14.1 +10 indoors
+\<476hp 51ma 39mv\> 7585669095 696205 43 -14.1 +10 indoors
 
 A whip of demon's flame unleashes a fury of flame as it snaps back and forth!
 
@@ -9823,7 +9815,7 @@ Your spectral shield has drained power from the spell!
 
 You resist almost all of the damage...
 
-The Archfiend breathes a stream of fire at you!  You are engulfed in flames!
+The Archfiend breathes a stream of fire at you! You are engulfed in flames!
 
 You wish that your wounds would stop BLEEDING that much!
 
@@ -9849,23 +9841,23 @@ Dingo appears to be resisting quite a bit of the damage.
 
 You report 212/1401 hp. Change: -261. Need: 1189. Spells: glowing, greater fluidity.
 
-<212hp 63ma 39mv> 7585691296 696205 37 -14.1 +10 indoors
+\<212hp 63ma 39mv\> 7585691296 696205 37 -14.1 +10 indoors
 
-+22201 555 +0
+\+22201 555 +0
 
 The binding of the spectres wears off, and the shield they formed dissipates.
 
-<216hp 65ma 41mv> 7585691296 696205 37 -14.1 +10 indoors
+\<216hp 65ma 41mv\> 7585691296 696205 37 -14.1 +10 indoors
 
 quaf mutap
 
 You do not have that item.
 
-<216hp 65ma 41mv> 7585691296 696205 37 -14.1 +10 indoors
+\<216hp 65ma 41mv\> 7585691296 696205 37 -14.1 +10 indoors
 
 Smallpotato thrusts Rogue's Dagger deep into the Archfiend and injects a poison.
 
-<219hp 66ma 42mv> 7585691296 696205 36 -14.1 +10 indoors
+\<219hp 66ma 42mv\> 7585691296 696205 36 -14.1 +10 indoors
 
 cast 'spectral shield'
 
@@ -9873,25 +9865,25 @@ Arya utters the words, 'restoration'
 
 Arya briefly glows with a blinding light!
 
-<219hp 66ma 42mv> 7585691296 696205 36 -14.1 +10 indoors
+\<219hp 66ma 42mv\> 7585691296 696205 36 -14.1 +10 indoors
 
 Ezekiel utters the words, 'yfaghbarh'
 
-<219hp 66ma 42mv> 7585691296 696205 33 -14.1 +10 indoors
+\<219hp 66ma 42mv\> 7585691296 696205 33 -14.1 +10 indoors
 
 Ok.
 
 You bind some nearby spectres into an undulating shield around you.
 
-<221hp 30ma 43mv> 7585691296 696205 33 -14.1 +9 indoors
+\<221hp 30ma 43mv\> 7585691296 696205 33 -14.1 +9 indoors
 
 Dingo sends a quick strike of his fist into the Archfiend's side.
 
-<221hp 30ma 43mv> 7585691296 696205 31 -14.1 +9 indoors
+\<221hp 30ma 43mv\> 7585691296 696205 31 -14.1 +9 indoors
 
-| 
+\| 
 
-|
+\|
 
 defy
 
@@ -9919,9 +9911,9 @@ You wish that your wounds would stop BLEEDING that much!
 
 You have been KILLED!! 
 
-<-40hp 30ma 43mv> 7585691296 696205 - -8.6 +9 indoors
+\<-40hp 30ma 43mv\> 7585691296 696205 - -8.6 +9 indoors
 
-Lie still; you are DEAD!!! :-(
+Lie still; you are DEAD!!! <img src="/images/smilies/icon_e_sad.svg" alt=":-(" title=":-(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -9999,25 +9991,25 @@ Ezekiel gossips-- 'i didn't know brad had gorka's password...'
 
 <div class="post" data-post-id="38755" data-author="Gorka" data-date="2018-05-04T11:21:42+00:00" data-subject="Re: Your afternoon chuckle">
 
-Don't know why I waited to kill him...  :lol: 
+Don't know why I waited to kill him... <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> 
 
 The Grandmaster's Den
 
-   This chamber is about the size of a normal human dwelling and contains a 
+ This chamber is about the size of a normal human dwelling and contains a 
 
-large oak desk with a plush comfortable-looking padded chair.  The ceiling 
+large oak desk with a plush comfortable-looking padded chair. The ceiling 
 
 has been stained by an assortment of wild berries to help darken up the 
 
-candle-lit room.  The wooden floor is covered with rare animal skins and 
+candle-lit room. The wooden floor is covered with rare animal skins and 
 
 gives the room the look of luxury.
 
-Exits: South  
+Exits: South 
 
 (Brilliant Red Aura) The grandmaster thug stands over his desk.
 
-<356hp 230ma 257mv 18041138xp -5.2ac -%>
+\<356hp 230ma 257mv 18041138xp -5.2ac -%\>
 
 Ok.
 
@@ -10029,7 +10021,7 @@ You throw a fireball at the grandmaster thug and have the satisfaction of seeing
 
 You throw a fireball at the grandmaster thug and have the satisfaction of seeing him enveloped in flames.
 
-<357hp 216ma 257mv 18053684xp -5.2ac 55%>
+\<357hp 216ma 257mv 18053684xp -5.2ac 55%\>
 
 You massacre the grandmaster thug to small fragments with your cleave.
 
@@ -10043,7 +10035,7 @@ You brutally massacre the grandmaster thug with your cleave.
 
 You miss the grandmaster thug with your cleave.
 
-<306hp 217ma 259mv 18054896xp -5.2ac 44%>
+\<306hp 217ma 259mv 18054896xp -5.2ac 44%\>
 
 Ok.
 
@@ -10051,7 +10043,7 @@ Magical energy sizzles through your body, increasing your spell's effect!
 
 You throw a fireball at the grandmaster thug and have the satisfaction of seeing him enveloped in flames.
 
-<309hp 203ma 261mv 18061628xp -5.2ac 22%>
+\<309hp 203ma 261mv 18061628xp -5.2ac 22%\>
 
 You brutally massacre the grandmaster thug with your cleave.
 
@@ -10107,13 +10099,13 @@ Your brutal backstab causes Roedrig, Troll Champion to writhe in agony, opening 
 
 You report 1823/1683 hp. Change: +140. Need: 0. Spells: greater fluidity, aegis.
 
-<1823hp 236ma 439mv 10478126478xp -14.2ac 11%>
+\<1823hp 236ma 439mv 10478126478xp -14.2ac 11%\>
 
 Ozzy utters the words, 'damnation'
 
 Roedrig, Troll Champion screams in agony as red tendrils of mist infuse his body.
 
-<1823hp 236ma 439mv 10478126478xp -14.2ac 10%>
+\<1823hp 236ma 439mv 10478126478xp -14.2ac 10%\>
 
 You are viciously massacred by Roedrig, Troll Champion's hit.
 
@@ -10189,19 +10181,19 @@ Your brutal backstab causes The Were-Lord Lupine to writhe in agony, opening up 
 
 You report 1843/1683 hp. Change: +168. Need: 0. Spells: aegis, greater fluidity.
 
-<1843hp 251ma 438mv 10607486294xp -14.2ac 12%>
+\<1843hp 251ma 438mv 10607486294xp -14.2ac 12%\>
 
 Ozzy utters the words, 'damnation'
 
 The Were-Lord Lupine screams in agony as red tendrils of mist infuse his body.
 
-<1843hp 254ma 442mv 10607486294xp -14.2ac 12%>
+\<1843hp 254ma 442mv 10607486294xp -14.2ac 12%\>
 
 Ok.
 
 The Were-Lord Lupine is enmeshed in thick webs!
 
-<1843hp 240ma 443mv 10607486294xp -14.2ac 11%>
+\<1843hp 240ma 443mv 10607486294xp -14.2ac 11%\>
 
 The Were-Lord Lupine looks shocked as he cuts himself on your petrified armor!
 
@@ -10269,7 +10261,7 @@ Total exp for kill is 626408772.
 
 Never seen this before, but makes sense... morting an ether mob with autokill on.
 
-<670hp 244ma 387mv>
+\<670hp 244ma 387mv\>
 
 Your botched ambush attempt greatly annoys the solar necromancer.
 
@@ -10369,9 +10361,9 @@ Brick Starkhaus makes a strange sound, as you place The Spear of Pestilence in h
 
 Brick Starkhaus makes a strange sound, as you place The Spear of Pestilence in his back.
 
-<1437hp 681ma 371mv> 7002434947 2154202 99 -8.9 -2 indoors
+\<1437hp 681ma 371mv\> 7002434947 2154202 99 -8.9 -2 indoors
 
-+1008 25 +0
+\+1008 25 +0
 
 You are rescued by Gorka, you are confused!
 
@@ -10383,7 +10375,7 @@ assist Gorka
 
 Gorka reports 1713/1560 hp. Change: +181. Need: 0. Spells: glowing, greater fluidity.
 
-<1277hp 681ma 372mv> 7002434947 2154202 - -8.9 -2 indoors
+\<1277hp 681ma 372mv\> 7002434947 2154202 - -8.9 -2 indoors
 
 Brick Starkhaus misses Gorka with his hit.
 
@@ -10407,15 +10399,15 @@ With a mighty effort, you shake off your exhaustion!
 
 You stop using The Spear of Pestilence.
 
-<1277hp 679ma 358mv> 7002434947 2154202 - -8.9 -2 indoors
+\<1277hp 679ma 358mv\> 7002434947 2154202 - -8.9 -2 indoors
 
 You wield a large curved scimitar.
 
-<1277hp 679ma 358mv> 7002434947 2154202 - -8.9 -2 indoors
+\<1277hp 679ma 358mv\> 7002434947 2154202 - -8.9 -2 indoors
 
 You yell 'LET'S ROCK!'
 
-<1277hp 679ma 358mv> 7002434947 2154202 - -8.9 -2 indoors
+\<1277hp 679ma 358mv\> 7002434947 2154202 - -8.9 -2 indoors
 
 You cut off Brick Starkhaus's limb!
 
@@ -10425,7 +10417,7 @@ You can taste the impending victory!
 
 You massacre Brick Starkhaus to small fragments with your cleave.
 
-<1417hp 679ma 358mv> 7002437981 2154202 99 -8.9 -2 indoors
+\<1417hp 679ma 358mv\> 7002437981 2154202 99 -8.9 -2 indoors
 
 </div>
 
@@ -10439,7 +10431,7 @@ A dwarven mercenary guard arrives from the south.
 
 A dusty dwarven warrior arrives from the north.
 
-<1462hp 619ma 402mv> 245991761 866223 - -12.8 -5 raining
+\<1462hp 619ma 402mv\> 245991761 866223 - -12.8 -5 raining
 
 TICK IN 10 SECONDS.
 
@@ -10449,15 +10441,15 @@ Saving Taron.
 
 Saving items.
 
-<1461hp 622ma 401mv> 245991761 866223 - -12.8 -5 raining
+\<1461hp 622ma 401mv\> 245991761 866223 - -12.8 -5 raining
 
 l scr
 
 This very intelligent-looking female dwarf is wearing a pair of the
 
-biggest spectacles you have ever seen.  Her tiny eyes peer out over her
+biggest spectacles you have ever seen. Her tiny eyes peer out over her
 
-frames as she watches you enter.  She has ink-stains all over her hands
+frames as she watches you enter. She has ink-stains all over her hands
 
 and a few smudges on her face, which is wreathed in stringy hair that has
 
@@ -10495,17 +10487,17 @@ a damp moldy scroll..It glows violet!
 
 a major scroll of recall..It glows violet!
 
-<1461hp 623ma 401mv> 245991761 866223 - -12.8 -5 raining
+\<1461hp 623ma 401mv\> 245991761 866223 - -12.8 -5 raining
 
 You sing another verse of 'eye of the beholder'.
 
-<1461hp 617ma 401mv> 245991761 866223 - -12.8 -5 raining
+\<1461hp 617ma 401mv\> 245991761 866223 - -12.8 -5 raining
 
 sta
 
 You stop resting, and stand up.
 
-<1461hp 618ma 401mv> 245991761 866223 - -12.8 -5 raining
+\<1461hp 618ma 401mv\> 245991761 866223 - -12.8 -5 raining
 
 rem valor pestilence chopper
 
@@ -10521,11 +10513,11 @@ You are not using a 'pestilence'.
 
 You are not using a 'chopper'.
 
-<1461hp 619ma 401mv> 245991761 866223 - -12.8 -5 raining
+\<1461hp 619ma 401mv\> 245991761 866223 - -12.8 -5 raining
 
 You stop using an orb of mesmerization.
 
-You light a glowing bauble with `Taron` engraved upon on it and hold it.
+You light a glowing bauble with \`Taron\` engraved upon on it and hold it.
 
 You stop using a pair of black tassled boots.
 
@@ -10541,17 +10533,17 @@ You start using Walls of Jericho as a shield.
 
 You wield Brilliant Sword of Valor.
 
-<1461hp 619ma 401mv> 245991761 866223 - -14.1 -5 raining
+\<1461hp 619ma 401mv\> 245991761 866223 - -14.1 -5 raining
 
 backstab scr
 
 You stop using Brilliant Sword of Valor.
 
-<1462hp 620ma 402mv> 245991761 866223 - -14.1 -5 raining
+\<1462hp 620ma 402mv\> 245991761 866223 - -14.1 -5 raining
 
 You wield The Spear of Pestilence.
 
-<1464hp 621ma 403mv> 245991761 866223 - -14.1 -5 raining
+\<1464hp 621ma 403mv\> 245991761 866223 - -14.1 -5 raining
 
 rem pestilence
 
@@ -10569,23 +10561,23 @@ Your brutal backstab causes the dwarven scribe to writhe in agony, opening up he
 
 @@
 
-<1464hp 621ma 383mv> 246081599 866223 94 -14.1 -5 raining
+\<1464hp 621ma 383mv\> 246081599 866223 94 -14.1 -5 raining
 
-+89838 2245 +0
+\+89838 2245 +0
 
 With a mighty effort, you shake off your exhaustion!
 
 You stop using The Spear of Pestilence.
 
-<1466hp 622ma 368mv> 246081599 866223 94 -14.1 -5 raining
+\<1466hp 622ma 368mv\> 246081599 866223 94 -14.1 -5 raining
 
 cast 'firewind'
 
 You wield Brilliant Sword of Valor.
 
-<1466hp 622ma 368mv> 246081599 866223 94 -14.1 -5 raining
+\<1466hp 622ma 368mv\> 246081599 866223 94 -14.1 -5 raining
 
-<1466hp 622ma 368mv> 246081599 866223 94 -14.1 -5 raining
+\<1466hp 622ma 368mv\> 246081599 866223 94 -14.1 -5 raining
 
 You stop singing.
 
@@ -10593,9 +10585,9 @@ Ok.
 
 The dwarven scribe vanishes in a burning wind.
 
-<1466hp 598ma 369mv> 246086111 866223 93 -14.1 -5 raining
+\<1466hp 598ma 369mv\> 246086111 866223 93 -14.1 -5 raining
 
-+4512 112 +0
+\+4512 112 +0
 
 You are viciously massacred by the dwarven scribe's hit.
 
@@ -10615,21 +10607,21 @@ The ground jumps up and hits the back of your head! No, wait, it's you on the gr
 
 You report 1/1466 hp. Change: -1417. Need: 1465. Spells: glowing.
 
-<1hp 0ma 370mv> 246112323 866223 - -14.1 -5 raining
+\<1hp 0ma 370mv\> 246112323 866223 - -14.1 -5 raining
 
-+26212 655 +0
+\+26212 655 +0
 
 cast 'web'
 
-| 
+\| 
 
-|
+\|
 
 sta
 
 You are already standing.
 
-<17hp 10ma 376mv> 246112323 866223 - -14.1 -5 raining
+\<17hp 10ma 376mv\> 246112323 866223 - -14.1 -5 raining
 
 l
 
@@ -10683,7 +10675,7 @@ Your blood freezes as you hear the cardinal of the lost cross's death cry.
 
 <div class="post" data-post-id="38990" data-author="Teron" data-date="2018-10-27T02:54:28+00:00" data-subject="Re: Your afternoon chuckle">
 
-The fanatic says 'Oh my gosh!  It's Inra!'
+The fanatic says 'Oh my gosh! It's Inra!'
 
 ...
 
@@ -10691,7 +10683,7 @@ ba fan
 
 The fanatic says 'Do you like to stab people in the back?'
 
-<845hp 510ma 389mv> 1778343139 842128 - 0.6 -6 fair
+\<845hp 510ma 389mv\> 1778343139 842128 - 0.6 -6 fair
 
 The fanatic hates your guts!
 
@@ -10703,10 +10695,10 @@ The fanatic is dead! R.I.P.
 
 <div class="post" data-post-id="38993" data-author="Gorka" data-date="2018-11-03T17:13:33+00:00" data-subject="Re: Your afternoon chuckle">
 
-> **Quote:**
+> <strong>Quote:</strong>
 > Sat Nov 3 09:32:43 2018
 > 
->          a naked woman defeated Werelord.
+> a naked woman defeated Werelord.
 
 </div>
 
@@ -10714,15 +10706,15 @@ The fanatic is dead! R.I.P.
 
 You sneak through the shadows of An Open Hallway.
 
-<1226hp 714ma 329mv>
+\<1226hp 714ma 329mv\>
 
 Your weapon doesn't pierce, you'll have to settle for a normal attack.
 
 You brutally massacre an elven spy with your hit.
 
-<1226hp 714ma 329mv> 10708077247 3605659 11 -8.2 -2 indoors
+\<1226hp 714ma 329mv\> 10708077247 3605659 11 -8.2 -2 indoors
 
-+3480 87 +0
+\+3480 87 +0
 
 You stop singing.
 
@@ -10730,7 +10722,7 @@ Ok.
 
 The silk webbing simply falls to the ground, as an elven spy is already webbed!
 
-<1226hp 699ma 329mv> 10708077247 3605659 11 -8.2 -2 indoors
+\<1226hp 699ma 329mv\> 10708077247 3605659 11 -8.2 -2 indoors
 
 @@
 
@@ -10738,23 +10730,23 @@ With a mighty effort, Gorka shakes off his exhaustion!
 
 Gorka disengages himself from an elven spy!
 
-<1229hp 699ma 330mv> 10708077247 3605659 11 -8.2 -2 indoors
+\<1229hp 699ma 330mv\> 10708077247 3605659 11 -8.2 -2 indoors
 
 With a mighty effort, you shake off your exhaustion!
 
 You disengage yourself from an elven spy!
 
-<1231hp 700ma 316mv> 10708077247 3605659 - -8.2 -2 indoors
+\<1231hp 700ma 316mv\> 10708077247 3605659 - -8.2 -2 indoors
 
 Gorka lies down and falls asleep.
 
-<1234hp 702ma 318mv> 10708077247 3605659 - -8.2 -2 indoors
+\<1234hp 702ma 318mv\> 10708077247 3605659 - -8.2 -2 indoors
 
 highf gor
 
 You don't seem to be fighting anyone right now.
 
-<1235hp 703ma 319mv> 10708077247 3605659 - -8.2 -2 indoors
+\<1235hp 703ma 319mv\> 10708077247 3605659 - -8.2 -2 indoors
 
 You have to 'warcry reset' before using a new warcry.
 
@@ -10762,13 +10754,13 @@ pet Vege
 
 pet Vege
 
-<1235hp 703ma 319mv> 10708077247 3605659 - -8.2 -2 indoors
+\<1235hp 703ma 319mv\> 10708077247 3605659 - -8.2 -2 indoors
 
-<1237hp 704ma 320mv> 10708077247 3605659 - -8.2 -2 indoors
+\<1237hp 704ma 320mv\> 10708077247 3605659 - -8.2 -2 indoors
 
-You high five Gorka!  You rock!
+You high five Gorka! You rock!
 
-<1237hp 704ma 320mv> 10708077247 3605659 - -8.2 -2 indoors
+\<1237hp 704ma 320mv\> 10708077247 3605659 - -8.2 -2 indoors
 
 Gorka awakens.
 
@@ -10792,7 +10784,7 @@ Xerxes, The Corruptor of Worlds briefly reveals a red aura!
 
 You report 1540/1400 hp. Change: +140. Need: 0. Spells: glowing, greater fluidity.
 
-<1540hp 218ma 111mv>
+\<1540hp 218ma 111mv\>
 
 You skillfully parry the attack of Xerxes, The Corruptor of Worlds.
 
@@ -10826,11 +10818,11 @@ Xerxes, The Corruptor of Worlds spits lightning at you, striking you in the ches
 
 You report 1172/1400 hp. Change: -368. Need: 228. Spells: greater fluidity, glowing.
 
-<1172hp 254ma 111mv>
+\<1172hp 254ma 111mv\>
 
 Norks raises his hands to the sky and rapidly turns into a minotaur (Norks)!
 
-<1179hp 257ma 114mv>
+\<1179hp 257ma 114mv\>
 
 Xerxes, The Corruptor of Worlds misses you with his slash.
 
@@ -10864,13 +10856,13 @@ The pitiful creature before you tries to breathe lightning on.
 
 You report 1133/1400 hp. Change: -39. Need: 267. Spells: greater fluidity, glowing.
 
-<1133hp 285ma 119mv>
+\<1133hp 285ma 119mv\>
 
 Xerxes, The Corruptor of Worlds really needs a good bath! Phew!
 
 Norks picks up a large curved scimitar.
 
-<1146hp 290ma 125mv>
+\<1146hp 290ma 125mv\>
 
 Xerxes, The Corruptor of Worlds misses you with his slash.
 
@@ -10910,15 +10902,15 @@ Total exp for kill is 598,968,680.
 
 Group 'Dingo's Furious Death-Dealers' is led by Dingo and consists of:
 
-  (Point)           Josiah [Wa:9.40 1400hp 352ma 135mv] ---
+ (Point) Josiah [Wa:9.40 1400hp 352ma 135mv] ---
 
-  (Front)          Belrath [Mo:9.40 1327hp 464ma 473mv] ---
+ (Front) Belrath [Mo:9.40 1327hp 464ma 473mv] ---
 
-  (Front)            Gorka [Wa:9.40 1448hp 108ma 204mv] ---
+ (Front) Gorka [Wa:9.40 1448hp 108ma 204mv] ---
 
- (Leader)            Dingo [Mo:9.40 1362hp 734ma 433mv] ---
+ (Leader) Dingo [Mo:9.40 1362hp 734ma 433mv] ---
 
-                     Norks [Cl:6.39 1092hp 381ma 360mv] ---
+ Norks [Cl:6.39 1092hp 381ma 360mv] ---
 
 </div>
 
@@ -10927,12 +10919,12 @@ Group 'Dingo's Furious Death-Dealers' is led by Dingo and consists of:
 ```
 Grouped counters elapsed time: 1 hour, 27 minutes, 41 seconds
 
-                   Total Earned    Per Hour    Minute    Second     Per Kill
-                   ------------    --------    ------    ------     --------
-Kills                       206     141.0        2.3       0.0 
-Experience Points    2857600254       2.0B      32.6M    543.2k       13.9M
-Gold Coins              2435549       1.7M      27.8k    462.9        11.8k
-Honor Points                594     406.5        6.8       0.1         2.9 
+ Total Earned Per Hour Minute Second Per Kill
+ ------------ -------- ------ ------ --------
+Kills 206 141.0 2.3 0.0 
+Experience Points 2857600254 2.0B 32.6M 543.2k 13.9M
+Gold Coins 2435549 1.7M 27.8k 462.9 11.8k
+Honor Points 594 406.5 6.8 0.1 2.9 
 ```
 
 Cyprimus, Josiah, Ezekiel, Driven, Padme, Gorka. 2B hours.
@@ -10944,12 +10936,12 @@ Cyprimus, Josiah, Ezekiel, Driven, Padme, Gorka. 2B hours.
 ```
 Grouped counters elapsed time: 5 hours, 12 minutes (active)
 
-                   Total Earned    Per Hour    Minute    Second     Per Kill
-                   ------------    --------    ------    ------     --------
-Kills                       593     114.0        1.9       0.0 
-Experience Points   10021692548       1.9B      32.1M    535.3k       16.9M
-Gold Coins              5946497       1.1M      19.1k    317.7        10.0k
-Honor Points             240945      46.3k     772.3      12.9       406.3 
+ Total Earned Per Hour Minute Second Per Kill
+ ------------ -------- ------ ------ --------
+Kills 593 114.0 1.9 0.0 
+Experience Points 10021692548 1.9B 32.1M 535.3k 16.9M
+Gold Coins 5946497 1.1M 19.1k 317.7 10.0k
+Honor Points 240945 46.3k 772.3 12.9 406.3 
 ```
 
 </div>
@@ -10960,11 +10952,11 @@ A bit old but still
 
 The Throne of Darkness
 
-Exits: East  
+Exits: East 
 
 Riurik . is standing here. [5]
 
-Demiurge <~KAOS~> is standing here.
+Demiurge \<\~KAOS\~\> is standing here.
 
 Diez . is standing here. [4]
 
@@ -10974,31 +10966,31 @@ Falsra FS PoY 5m is standing here. [5]
 
 A regal beast sits upon a massive throne and contemplates your demise.
 
-<468hp 435ma 101mv>Ghost places his bloody fangs in the back of the king of darkness, resulting in some strange noises and so
+\<468hp 435ma 101mv\>Ghost places his bloody fangs in the back of the king of darkness, resulting in some strange noises and so
 
 me blood!
 
 Ghost places his bloody fangs in the back of the king of darkness, resulting in some strange noises and some blood!
 
-<468hp 435ma 101mv>ff king
+\<468hp 435ma 101mv\>ff king
 
 Turbo utters the words, 'damnation'
 
 The king of darkness screams in agony as red tendrils of mist infuse his body.
 
-<468hp 435ma 101mv>Masalanka utters the words, 'noselacri'
+\<468hp 435ma 101mv\>Masalanka utters the words, 'noselacri'
 
 Falsra utters the words, 'web'
 
 The king of darkness is enmeshed in thick webs!
 
-<468hp 435ma 101mv>Shadowblade utters the words, 'noselacri'
+\<468hp 435ma 101mv\>Shadowblade utters the words, 'noselacri'
 
 The king of darkness seems to be blinded!
 
-<468hp 435ma 101mv>Diez utters the words, 'blindness'
+\<468hp 435ma 101mv\>Diez utters the words, 'blindness'
 
-<468hp 435ma 101mv>Ghost skillfully parries the attack of the king of darkness.
+\<468hp 435ma 101mv\>Ghost skillfully parries the attack of the king of darkness.
 
 The king of darkness misses Ghost with his crush.
 
@@ -11022,19 +11014,19 @@ The king's guardsman hates your Guts!
 
 The king's guardsman vanishes in a burning wind.
 
-<468hp 410ma 101mv>ff;ff;ff
+\<468hp 410ma 101mv\>ff;ff;ff
 
 Ghost heroically rescues the king's guardsman.
 
-<468hp 410ma 101mv>Ghost -- ' V"V 1026/1169'
+\<468hp 410ma 101mv\>Ghost -- ' V"V 1026/1169'
 
-<468hp 410ma 101mv>Ghost utters the words, 'yufzxuie'
+\<468hp 410ma 101mv\>Ghost utters the words, 'yufzxuie'
 
-<468hp 410ma 101mv>Turbo utters the words, 'blindness'
+\<468hp 410ma 101mv\>Turbo utters the words, 'blindness'
 
-<468hp 410ma 101mv>Masalanka utters the words, 'noselacri'
+\<468hp 410ma 101mv\>Masalanka utters the words, 'noselacri'
 
-<468hp 410ma 101mv>Diez utters the words, 'blindness'
+\<468hp 410ma 101mv\>Diez utters the words, 'blindness'
 
 The king's guardsman seems to be blinded!
 
@@ -11042,7 +11034,7 @@ You are no longer being protected
 
 Shadowblade pierces you extremely hard.
 
-<448hp 410ma 101mv>ff;ff;ff;ff;ff
+\<448hp 410ma 101mv\>ff;ff;ff;ff;ff
 
 Riurik utters the words, 'firewind'
 
@@ -11056,7 +11048,7 @@ A demon tells you 'Don't EVER do that again, punk!'
 
 A demon disappears in a mushroom cloud.
 
-<447hp 410ma 101mv>A demon appears from a puff of smoke.
+\<447hp 410ma 101mv\>A demon appears from a puff of smoke.
 
 A demon smacks you really hard!
 
@@ -11064,7 +11056,7 @@ A demon tells you 'Don't EVER do that again, punk!'
 
 A demon disappears in a mushroom cloud.
 
-<442hp 410ma 101mv>A demon appears from a puff of smoke.
+\<442hp 410ma 101mv\>A demon appears from a puff of smoke.
 
 A demon smacks you really hard!
 
@@ -11072,7 +11064,7 @@ A demon tells you 'Don't EVER do that again, punk!'
 
 A demon disappears in a mushroom cloud.
 
-<440hp 410ma 101mv>Falsra utters the words, 'firewind'
+\<440hp 410ma 101mv\>Falsra utters the words, 'firewind'
 
 Winds of flame pour from Falsra's hands, incinerating the king's guardsman.
 
@@ -11082,7 +11074,7 @@ You receive 7382 experience points as your share.
 
 Your blood freezes as you hear the king's guardsman's death cry.
 
-<440hp 410ma 101mv>Shadowblade pierces you extremely hard.
+\<440hp 410ma 101mv\>Shadowblade pierces you extremely hard.
 
 Ghost skillfully parries your attack.
 
@@ -11104,7 +11096,7 @@ Ghost gestures dramatically, and the king of darkness is roasted in a burning wi
 
 Demiurge utters the words, 'noselacri'
 
-<346hp 410ma 101mv>Falsra eyes droop briefly.
+\<346hp 410ma 101mv\>Falsra eyes droop briefly.
 
 Masalanka utters the words, 'noselacri'
 
@@ -11116,7 +11108,7 @@ A demon tells you 'Don't EVER do that again, punk!'
 
 A demon disappears in a mushroom cloud.
 
-<345hp 410ma 101mv>sc
+\<345hp 410ma 101mv\>sc
 
 A demon appears from a puff of smoke.
 
@@ -11126,7 +11118,7 @@ A demon tells you 'Don't EVER do that again, punk!'
 
 A demon disappears in a mushroom cloud.
 
-<339hp 410ma 101mv>Riurik utters the words, 'firewind'
+\<339hp 410ma 101mv\>Riurik utters the words, 'firewind'
 
 Riurik gestures dramatically, and the king of darkness is roasted in a burning wind.
 
@@ -11140,7 +11132,7 @@ A demon tells you 'Don't EVER do that again, punk!'
 
 A demon disappears in a mushroom cloud.
 
-<337hp 410ma 101mv>A demon appears from a puff of smoke.
+\<337hp 410ma 101mv\>A demon appears from a puff of smoke.
 
 A demon smacks you really hard!
 
@@ -11148,7 +11140,7 @@ A demon tells you 'Don't EVER do that again, punk!'
 
 A demon disappears in a mushroom cloud.
 
-<336hp 410ma 101mv>A demon appears from a puff of smoke.
+\<336hp 410ma 101mv\>A demon appears from a puff of smoke.
 
 A demon smacks you really hard!
 
@@ -11156,31 +11148,31 @@ A demon tells you 'Don't EVER do that again, punk!'
 
 A demon disappears in a mushroom cloud.
 
-<333hp 410ma 101mv>Falsra gets gold coins from the corpse of the king's guardsman.
+\<333hp 410ma 101mv\>Falsra gets gold coins from the corpse of the king's guardsman.
 
-<333hp 410ma 101mv>Falsra sacrifices the corpse of the king's guardsman to her god.
+\<333hp 410ma 101mv\>Falsra sacrifices the corpse of the king's guardsman to her god.
 
-<333hp 410ma 101mv>A demon appears from a puff of smoke.
-
-A demon slaps Shadowblade, sending him reeling!
-
-A demon disappears in a mushroom cloud.
-
-Falsra splits 450 coins.  Your share is 50 coins.
-
-<333hp 410ma 101mv>A demon appears from a puff of smoke.
+\<333hp 410ma 101mv\>A demon appears from a puff of smoke.
 
 A demon slaps Shadowblade, sending him reeling!
 
 A demon disappears in a mushroom cloud.
 
-<333hp 410ma 101mv>Ghost twitches violently and foams at the mouth.
+Falsra splits 450 coins. Your share is 50 coins.
 
-<333hp 410ma 101mv>Masalanka slashes you extremely hard.
+\<333hp 410ma 101mv\>A demon appears from a puff of smoke.
+
+A demon slaps Shadowblade, sending him reeling!
+
+A demon disappears in a mushroom cloud.
+
+\<333hp 410ma 101mv\>Ghost twitches violently and foams at the mouth.
+
+\<333hp 410ma 101mv\>Masalanka slashes you extremely hard.
 
 Ghost -- ' V"V 882/1169'
 
-<316hp 410ma 101mv>Masalanka slashes you extremely hard.
+\<316hp 410ma 101mv\>Masalanka slashes you extremely hard.
 
 Shadowblade pierces you very hard.
 
@@ -11218,7 +11210,7 @@ You receive 7944 experience points as your share.
 
 Your blood freezes as you hear the king's guardsman's death cry.
 
-<226hp 410ma 101mv>Diez utters the words, 'blindness'
+\<226hp 410ma 101mv\>Diez utters the words, 'blindness'
 
 A demon appears from a puff of smoke.
 
@@ -11226,7 +11218,7 @@ A demon slaps Shadowblade, sending him reeling!
 
 A demon disappears in a mushroom cloud.
 
-<226hp 410ma 101mv>Turbo utters the words, 'firewind'
+\<226hp 410ma 101mv\>Turbo utters the words, 'firewind'
 
 Turbo gestures dramatically, and the king of darkness is roasted in a burning wind.
 
@@ -11236,17 +11228,17 @@ A demon slaps Shadowblade, sending him reeling!
 
 A demon disappears in a mushroom cloud.
 
-<226hp 410ma 101mv>A demon appears from a puff of smoke.
+\<226hp 410ma 101mv\>A demon appears from a puff of smoke.
 
 A demon slaps Shadowblade, sending him reeling!
 
 A demon disappears in a mushroom cloud.
 
-<226hp 410ma 101mv>Shadowblade gets gold coins from the corpse of the king's guardsman.
+\<226hp 410ma 101mv\>Shadowblade gets gold coins from the corpse of the king's guardsman.
 
-<226hp 410ma 101mv>Falsra sacrifices the corpse of the king's guardsman to her god.
+\<226hp 410ma 101mv\>Falsra sacrifices the corpse of the king's guardsman to her god.
 
-<226hp 410ma 101mv>wr
+\<226hp 410ma 101mv\>wr
 
 Riurik utters the words, 'firewind'
 
@@ -11258,15 +11250,15 @@ Ghost gestures dramatically, and the king of darkness is roasted in a burning wi
 
 Demiurge pounds you very hard.
 
-<213hp 410ma 101mv>Turbo utters the words, 'firewind'
+\<213hp 410ma 101mv\>Turbo utters the words, 'firewind'
 
 Turbo gestures dramatically, and the king of darkness is roasted in a burning wind.
 
-<213hp 410ma 101mv>Diez utters the words, 'firewind'
+\<213hp 410ma 101mv\>Diez utters the words, 'firewind'
 
 Diez gestures dramatically, and the king of darkness is roasted in a burning wind.
 
-<213hp 410ma 101mv>Turbo pounds the king of darkness hard.
+\<213hp 410ma 101mv\>Turbo pounds the king of darkness hard.
 
 Masalanka slashes you very hard.
 
@@ -11282,7 +11274,7 @@ The king of darkness misses Ghost with his hit.
 
 You have been KILLED!! 
 
-<-127hp 410ma 101mv>Lie still; you are DEAD!!! :-(
+\<-127hp 410ma 101mv\>Lie still; you are DEAD!!! <img src="/images/smilies/icon_e_sad.svg" alt=":-(" title=":-(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -11290,33 +11282,33 @@ You have been KILLED!!
 
 Rumbles in the Deep
 
-Exits: [Up]  Down
+Exits: [Up] Down
 
 You see Stun, Phase, Tau, Geki, Raphael, Sochi, Ozzy, Risky, Werelord,
 
 Victory, Zangief, Josiah, Ezekiel, and Sam here.
 
-932hp[+40] 743ma[+72] 386mv[+56] <1.9> align:+10 722641391X 123019G 8:15 am enemy:->Ezekiel bumps into the door upwards.
+932hp[+40] 743ma[+72] 386mv[+56] \<1.9\> align:+10 722641391X 123019G 8:15 am enemy:-\>Ezekiel bumps into the door upwards.
 
-932hp[+40] 743ma[+72] 386mv[+56] <1.9> align:+10 722641391X 123019G 8:16 am enemy:->Swarvenstein utters the words, 'spell shield'
+932hp[+40] 743ma[+72] 386mv[+56] \<1.9\> align:+10 722641391X 123019G 8:16 am enemy:-\>Swarvenstein utters the words, 'spell shield'
 
 Swarvenstein's spell shield brightens to a glowing green.
 
-932hp[+40] 743ma[+72] 387mv[+56] <1.9> align:+10 722641391X 123019G 8:18 am enemy:->Ezekiel opens the door.
+932hp[+40] 743ma[+72] 387mv[+56] \<1.9\> align:+10 722641391X 123019G 8:18 am enemy:-\>Ezekiel opens the door.
 
-932hp[+40] 743ma[+72] 387mv[+56] <1.9> align:+10 722641391X 123019G 8:19 am enemy:->Adonides, Duke of Hell falls past, screaming loudly!
+932hp[+40] 743ma[+72] 387mv[+56] \<1.9\> align:+10 722641391X 123019G 8:19 am enemy:-\>Adonides, Duke of Hell falls past, screaming loudly!
 
 </div>
 
 <div class="post" data-post-id="39625" data-author="Insomnia" data-date="2020-11-24T19:44:29+00:00" data-subject="Re: Your afternoon chuckle">
 
-<1080/1078hp 949/809ma 442/442mv -%>
+\<1080/1078hp 949/809ma 442/442mv -%\>
 
 You join in the war-cry!
 
 Stun picks up and wields The Golden Dagger of the Black Thieves.
 
-<1079/1078hp 948/809ma 442/442mv -%>
+\<1079/1078hp 948/809ma 442/442mv -%\>
 
 Stun places The Golden Dagger of the Black Thieves in the back of Xerxes, The Corruptor of Worlds,
 
@@ -11334,15 +11326,15 @@ resulting in some strange noises and some blood!
 
 Stun's brutal backstab causes Xerxes, The Corruptor of Worlds's defenses to weaken!
 
-<1079/1078hp 948/809ma 442/442mv -%>
+\<1079/1078hp 948/809ma 442/442mv -%\>
 
 Stun reports 1775/1763 hp. Change: +160. Need: 0. Spells: glowing, greater fluidity.
 
-<1079/1078hp 948/809ma 442/442mv -%>
+\<1079/1078hp 948/809ma 442/442mv -%\>
 
 Shatterhand picks up and wields Specularem.
 
-<1079/1078hp 948/809ma 442/442mv -%>
+\<1079/1078hp 948/809ma 442/442mv -%\>
 
 Ok.
 
@@ -11356,13 +11348,13 @@ Burning acid hits Xerxes, The Corruptor of Worlds in the eyes, blinding him!
 
 Koa cuts a limb off of Xerxes, The Corruptor of Worlds!!!!
 
-<1239/1078hp 931/809ma 442/442mv 13%>
+\<1239/1078hp 931/809ma 442/442mv 13%\>
 
 Shatterhand utters the words, 'xzb'
 
 Xerxes, The Corruptor of Worlds is enmeshed in thick webs!
 
-<1239/1078hp 931/809ma 442/442mv 13%>
+\<1239/1078hp 931/809ma 442/442mv 13%\>
 
 You brutally massacre Xerxes, The Corruptor of Worlds with your cleave.
 
@@ -11388,43 +11380,43 @@ Total exp for kill is 444254682.
 
 Everything Xerxes, The Corruptor of Worlds was carrying suddenly drops to the ground.
 
-<1078/1078hp 930/809ma 442/442mv -%>
+\<1078/1078hp 930/809ma 442/442mv -%\>
 
 Stun reports 1627/1763 hp. Change: -148. Need: 136. Spells: greater fluidity, glowing.
 
-<1078/1078hp 930/809ma 442/442mv -%>
+\<1078/1078hp 930/809ma 442/442mv -%\>
 
 Stun yells 'BOLLE SNYLLE GRYF BYLLE?!!?'
 
 warcry BOLLE SNYLLE GRYF BYLLE?!!?
 
-Merlin splits 6749 coins.  Your share is 749 coins.
+Merlin splits 6749 coins. Your share is 749 coins.
 
-<1078/1078hp 930/809ma 442/442mv -%>
+\<1078/1078hp 930/809ma 442/442mv -%\>
 
 Shatterhand utters the words, 'ofzahzf yrjueuhl'
 
 Shatterhand's body mass slowly changes from solid to gelatinous.
 
-<1078/1078hp 889/809ma 442/442mv -%>
+\<1078/1078hp 889/809ma 442/442mv -%\>
 
 Baby -- 'MONK POWER!'
 
-<1078/1078hp 889/809ma 442/442mv -%>
+\<1078/1078hp 889/809ma 442/442mv -%\>
 
-Akasha the homunculus tells you 'xerxes is gone, sir!  I'll watch for another one.'
+Akasha the homunculus tells you 'xerxes is gone, sir! I'll watch for another one.'
 
-<1078/1078hp 889/809ma 442/442mv -%>
+\<1078/1078hp 889/809ma 442/442mv -%\>
 
 You join in the war-cry!
 
 Koa -- 'HAHAHHAHA'
 
-<1078/1078hp 889/809ma 442/442mv -%>
+\<1078/1078hp 889/809ma 442/442mv -%\>
 
 Nyx blinks in confusion.
 
-<1078/1078hp 889/809ma 442/442mv -%>
+\<1078/1078hp 889/809ma 442/442mv -%\>
 
 Koa -- 'quickest xerxes ever?'
 
@@ -11440,7 +11432,7 @@ As funny as this is, it also kind of makes a mockery of the game, when you consi
 
 <div class="post" data-post-id="39627" data-author="DarkArtist" data-date="2020-11-26T15:57:37+00:00" data-subject="Re: Your afternoon chuckle">
 
-> **Gorka wrote:**
+> <strong>Gorka wrote:</strong>
 > translates to less game credibility and lazier players.
 
 The game is literally called sloth, like literally literally.
@@ -11449,13 +11441,13 @@ The game is literally called sloth, like literally literally.
 
 <div class="post" data-post-id="39955" data-author="*Idjit*" data-date="2022-06-27T08:44:37+00:00" data-subject="Re: Your afternoon chuckle">
 
-[<LINK_TEXT text="https://pbs.twimg.com/media/FWOyEogXoAE ... name=large">https://pbs.twimg.com/media/FWOyEogXoAEqIZl?format=jpg&name=large</LINK_TEXT>](https://pbs.twimg.com/media/FWOyEogXoAEqIZl?format=jpg&name=large)
+[https://pbs.twimg.com/media/FWOyEogXoAEqIZl?format=jpg&name=large](https://pbs.twimg.com/media/FWOyEogXoAEqIZl?format=jpg&name=large)
 
 </div>
 
 <div class="post" data-post-id="40057" data-author="Driven" data-date="2023-08-02T00:17:30+00:00" data-subject="Re: Your afternoon chuckle">
 
-[<LINK_TEXT text="https://tenor.com/view/seinfeld-jason-a ... if-4735568">https://tenor.com/view/seinfeld-jason-alexander-george-costanza-slap-fight-jerry-seinfeld-gif-4735568</LINK_TEXT>](https://tenor.com/view/seinfeld-jason-alexander-george-costanza-slap-fight-jerry-seinfeld-gif-4735568)
+[https://tenor.com/view/seinfeld-jason-alexander-george-costanza-slap-fight-jerry-seinfeld-gif-4735568](https://tenor.com/view/seinfeld-jason-alexander-george-costanza-slap-fight-jerry-seinfeld-gif-4735568)
 
 Me, wraithformed, fighting a wraithformed mob.
 

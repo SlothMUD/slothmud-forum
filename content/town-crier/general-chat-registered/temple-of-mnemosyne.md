@@ -56,9 +56,9 @@ AC-apply is -0.5
 
 Can affect you as:
 
-    Affects: CHARISMA by 1
+ Affects: CHARISMA by 1
 
-    Affects: MANA by 15
+ Affects: MANA by 15
 
 Only those who are primary supreme bards, and have attained supremacy in at
 
@@ -104,9 +104,9 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: INT by 2
+ Affects: INT by 2
 
-    Affects: WIS by -2
+ Affects: WIS by -2
 
 Only those who are at least supreme magic users, necromancers, or bards may
 
@@ -124,11 +124,11 @@ Weight: 0, Value: 0gold, Worn in: TAKE ABOUT
 
 Can affect you as:
 
-    Affects: CHARISMA by 1
+ Affects: CHARISMA by 1
 
-    Affects: REGEN_MANA by 1
+ Affects: REGEN\_MANA by 1
 
-    Affects: ARMOR by -2
+ Affects: ARMOR by -2
 
 Only those who are primary supreme bards, and have attained supremacy in at
 

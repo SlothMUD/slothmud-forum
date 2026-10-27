@@ -18,12 +18,12 @@ The time will be 10AM Pacific Sunday March 23, 2025.
 
 A countdown timer has been provided below:
 
-[<LINK_TEXT text="https://www.tickcounter.com/countdown/6 ... -day-quest">https://www.tickcounter.com/countdown/6878856/2025-slothmud-st-patricks-day-quest</LINK_TEXT>](https://www.tickcounter.com/countdown/6878856/2025-slothmud-st-patricks-day-quest)
+[https://www.tickcounter.com/countdown/6878856/2025-slothmud-st-patricks-day-quest](https://www.tickcounter.com/countdown/6878856/2025-slothmud-st-patricks-day-quest)
 
 There will be...stuff.
 
 See you there.
 
---Idj
+\--Idj
 
 </div>

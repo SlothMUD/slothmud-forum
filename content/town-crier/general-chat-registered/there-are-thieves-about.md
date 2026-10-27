@@ -18,7 +18,7 @@ To see if pthieving is enabled, type time and look for :
 
 There are thieves about!
 
-If you see such an indicator, simply find the nearest inn and type <rent>.
+If you see such an indicator, simply find the nearest inn and type \<rent\>.
 
 </div>
 
@@ -40,7 +40,7 @@ Mosaix
 
 <div class="post" data-post-id="18774" data-author="Rynquald" data-date="2007-06-03T22:34:29+00:00" data-subject="">
 
-I can't help but wonder if the pthieving days will end up having like 5 people on, a pthief and a few people that like killing them :)
+I can't help but wonder if the pthieving days will end up having like 5 people on, a pthief and a few people that like killing them <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Assuming it doesn't drive everyone away on the days it's active, it's a nice idea.
 
@@ -68,7 +68,7 @@ We are well pleased.
 
 <div class="post" data-post-id="18777" data-author="brady" data-date="2007-06-04T00:47:46+00:00" data-subject="">
 
-I like the idea of pthieving days.  Maybe you can also have shopkeepers sell Rollaids for all the bellyaching.
+I like the idea of pthieving days. Maybe you can also have shopkeepers sell Rollaids for all the bellyaching.
 
 </div>
 
@@ -78,7 +78,7 @@ target 12345
 
 stick that in your hat
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -92,11 +92,11 @@ And yes, if pthieving is back, then I would see no reason why it would not also 
 
 <div class="post" data-post-id="18780" data-author="Yinao" data-date="2007-06-04T02:07:45+00:00" data-subject="">
 
-Where's da Weezel!?! :shock: 
+Where's da Weezel!?! <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
-[img:2w6g2zxl]http://myspace-855.vo.llnwd.net/01078/55/83/1078723855_l.jpg[/img:2w6g2zxl]
+![](http://myspace-855.vo.llnwd.net/01078/55/83/1078723855_l.jpg)
 
-On the other hand, I will enjoy open pthief killing, btw I got a decanter that runs out of water you can steal if you like  :wink:
+On the other hand, I will enjoy open pthief killing, btw I got a decanter that runs out of water you can steal if you like <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -106,13 +106,13 @@ Don't sing it, bring it. Just remember, you alt's alt's can also suffer retaliat
 
 Why even attack alt's anyways? It makes no sense. For clarification, watch South Park Episode:Chef Aid. 
 
-[img:3mfnwpoa]http://farm1.static.flickr.com/166/396743331_b4f97e1f7d_o.jpg[/img:3mfnwpoa]
+![](http://farm1.static.flickr.com/166/396743331_b4f97e1f7d_o.jpg)
 
 </div>
 
 <div class="post" data-post-id="18782" data-author="Weasel" data-date="2007-06-04T02:12:32+00:00" data-subject="">
 
-sh*t that's an ugly tie mate..
+sh\*t that's an ugly tie mate..
 
 </div>
 
@@ -124,37 +124,39 @@ I agree with Weasel, looks like someone wiped their a$$ with that tie. Even has 
 
 <div class="post" data-post-id="18784" data-author="Hades" data-date="2007-06-04T02:25:50+00:00" data-subject="">
 
-I was actually showing off the glasses..nice to point out that you have sh!t on the brain. :twisted:
+I was actually showing off the glasses..nice to point out that you have sh!t on the brain. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="18786" data-author="brady" data-date="2007-06-04T03:55:25+00:00" data-subject="">
 
-*release parking brake*
+\*release parking brake\*
 
 </div>
 
 <div class="post" data-post-id="18787" data-author="Hades" data-date="2007-06-04T04:03:12+00:00" data-subject="A shout out to da haterz">
 
-[<LINK_TEXT text="http://www.youtube.com/watch?v=F-RUYQjG ... ed&search=">http://www.youtube.com/watch?v=F-RUYQjGQlg&mode=related&search=</LINK_TEXT>](http://www.youtube.com/watch?v=F-RUYQjGQlg&mode=related&search=)
+[http://www.youtube.com/watch?v=F-RUYQjGQlg&mode=related&search=](http://www.youtube.com/watch?v=F-RUYQjGQlg&mode=related&search=)
 
 </div>
 
 <div class="post" data-post-id="18788" data-author="12345" data-date="2007-06-04T04:59:52+00:00" data-subject="">
 
-target 12345
+> <strong>Hades wrote:</strong>
+> target 12345
+> 
+> stick that in your hat
+> 
+> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
-stick that in your hat
-
- :twisted:[/quote:mzzyqo4n]
-
-Oh goodie.  Should I make an appointment?  Or would you prefer to die unexpectedly?
+Oh goodie. Should I make an appointment? Or would you prefer to die unexpectedly?
 
 </div>
 
 <div class="post" data-post-id="18789" data-author="Thraxas" data-date="2007-06-04T08:03:20+00:00" data-subject="">
 
-I like the idea of pthieving days.[/quote:12q2rnpy]
+> <strong>brady wrote:</strong>
+> I like the idea of pthieving days.
 
 Me too, I play far too much as it is, nice to have a reason to rent more often.
 
@@ -162,7 +164,8 @@ Me too, I play far too much as it is, nice to have a reason to rent more often.
 
 <div class="post" data-post-id="18793" data-author="Yinao" data-date="2007-06-04T16:41:01+00:00" data-subject="">
 
-[quote:2tcgy2bh]I was actually showing off the glasses..nice to point out that you have sh!t on the brain. [/quote:2tcgy2bh]
+> <strong>Quote:</strong>
+> I was actually showing off the glasses..nice to point out that you have sh!t on the brain.
 
 Gotta admit shit on the brain is better than shit for a brain there, Herpes. Err, Hades.
 
@@ -178,7 +181,7 @@ who even cares about one day when people can pth, is it that hard not to be stol
 
 Not hard at all, but I do admit I'm running around with some eq in my inv
 
-cause of the no-steal.  If they turn it on, it will something I will have to 
+cause of the no-steal. If they turn it on, it will something I will have to 
 
 check or remember to put things in a safe robe or a heavy robe.
 
@@ -202,7 +205,7 @@ i cant even hear that shit
 
 <div class="post" data-post-id="18809" data-author="Hades" data-date="2007-06-06T23:24:25+00:00" data-subject="">
 
-Bush in '08 8)
+Bush in '08 <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -252,23 +255,23 @@ There are also more varieties of Spam sold in Hawaii than anywhere else. There's
 
 "We're pleased to see more and more restaurants adding it to their menu, providing Hawaiians additional opportunities to experience the savory, salty-sweet taste they love," said Dan Goldman, Spam's product manager.
 
-___
+\_\_\_
 
 </div>
 
 <div class="post" data-post-id="18846" data-author="Weasel" data-date="2007-06-12T01:46:00+00:00" data-subject="">
 
-WTF? Keep irrelevant crap on the random sh*t thread pls, that's what it's there for. 
+WTF? Keep irrelevant crap on the random sh\*t thread pls, that's what it's there for. 
 
-Thucking fief.  :roll:
+Thucking fief. <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="18848" data-author="Hades" data-date="2007-06-12T03:25:51+00:00" data-subject="There are Weasel&#x27;s about">
 
-[<LINK_TEXT text="http://www.top10virals.com/viralvideos/ ... apeno.html">http://www.top10virals.com/viralvideos/ferret-vs-jalapeno.html</LINK_TEXT>](http://www.top10virals.com/viralvideos/ferret-vs-jalapeno.html)
+[http://www.top10virals.com/viralvideos/ferret-vs-jalapeno.html](http://www.top10virals.com/viralvideos/ferret-vs-jalapeno.html)
 
-Now... that's revelant :twisted:
+Now... that's revelant <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -280,17 +283,17 @@ heh poor little guy.. my sister did the same thing to me when I was little.
 
 <div class="post" data-post-id="18864" data-author="banedon" data-date="2007-06-13T18:46:03+00:00" data-subject="">
 
-The evul katz haff gone too far!  Theyve stoled some of Weasel's corm.  Here's evidence.
+The evul katz haff gone too far! Theyve stoled some of Weasel's corm. Here's evidence.
 
-[img:3ederk66]http://a889.ac-images.myspacecdn.com/images01/49/m_9f2528639c9431a702702d2b46e3d2a0.gif[/img:3ederk66]
+![](http://a889.ac-images.myspacecdn.com/images01/49/m_9f2528639c9431a702702d2b46e3d2a0.gif)
 
 Something must be done to stop them!
 
-***** edit *****
+\*\*\*\*\* edit \*\*\*\*\*
 
 I just found this tiny lil blurb at the bottom of a page I was lookin at.
 
-[img:3ederk66]http://a921.ac-images.myspacecdn.com/images01/14/m_7215af51c6c8028b43b2bd57c32c8b68.png[/img:3ederk66]
+![](http://a921.ac-images.myspacecdn.com/images01/14/m_7215af51c6c8028b43b2bd57c32c8b68.png)
 
 Banedon
 
@@ -298,7 +301,7 @@ Banedon
 
 <div class="post" data-post-id="18870" data-author="Weasel" data-date="2007-06-13T22:02:51+00:00" data-subject="">
 
-MY CORM!! EVUL KATZ HAS MY CORM!![/color:3u9ieymg][/size:3u9ieymg]  :shock:
+MY CORM!! EVUL KATZ HAS MY CORM!! <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

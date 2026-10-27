@@ -20,13 +20,13 @@ subj...
 
 We state this every month...the top 20 lists get updated when we get the chance. We have several other things on our minds atm. If you guys would rather we remove the link entirely till we can find someone to write a cron which will automatically update these lists we will.
 
-Splork :D
+Splork <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="13994" data-author="Clink" data-date="2006-09-12T16:39:49+00:00" data-subject="">
 
-Both the current weeks plus an automated system will be in place shortly.  Finishing up some higher priority stuff at the moment.
+Both the current weeks plus an automated system will be in place shortly. Finishing up some higher priority stuff at the moment.
 
 Clink
 

@@ -12,6 +12,6 @@ post_count: 1
 
 <div class="post" data-post-id="23159" data-author="*juggleblood*" data-date="2008-03-09T07:06:39+00:00" data-subject="Best Conversation Partner">
 
-:!:
+<img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom">
 
 </div>

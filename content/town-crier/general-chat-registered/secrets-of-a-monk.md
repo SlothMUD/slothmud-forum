@@ -58,9 +58,9 @@ lol you bugger.
 
 <div class="post" data-post-id="27520" data-author="Yasik2" data-date="2008-12-23T16:40:18+00:00" data-subject="">
 
-I'll try to bring some meaning in this thread.[/color:1elvif76]
+I'll try to bring some meaning in this thread.
 
-[img:1elvif76]http://yasik.kiev.ua/Hermione_resize_original.jpg[/img:1elvif76]
+![](http://yasik.kiev.ua/Hermione_resize_original.jpg)
 
 </div>
 
@@ -74,27 +74,28 @@ Maybe these guys can help
 
 <div class="post" data-post-id="27524" data-author="threadtroll" data-date="2008-12-24T15:11:26+00:00" data-subject="">
 
-we have a thread for this already, a$$h0l3.  it's called post a random joke.
+we have a thread for this already, a$$h0l3. it's called post a random joke.
 
 </div>
 
 <div class="post" data-post-id="27525" data-author="Yasik2" data-date="2008-12-24T16:59:25+00:00" data-subject="">
 
-GTFO ! This is MY domain ![/color:3exqmqri]
+GTFO ! This is MY domain !
 
-[img:3exqmqri]http://yasik.kiev.ua/Troll_spray.jpg[/img:3exqmqri]
+![](http://yasik.kiev.ua/Troll_spray.jpg)
 
 </div>
 
 <div class="post" data-post-id="27529" data-author="threadtroll" data-date="2008-12-25T01:23:57+00:00" data-subject="">
 
-epic fail.  the spray didn't work on you, either.  try again.  oh and btw, there is a thread for posting pics here as well.  it's called post a random pic.  or should i start a new thread called RTFM?
+epic fail. the spray didn't work on you, either. try again. oh and btw, there is a thread for posting pics here as well. it's called post a random pic. or should i start a new thread called RTFM?
 
 </div>
 
 <div class="post" data-post-id="27530" data-author="Yasik2" data-date="2008-12-25T01:55:12+00:00" data-subject="">
 
-epic fail.  the spray didn't work on you, either.  try again.  oh and btw, there is a thread for posting pics here as well.  it's called post a random pic.  or should i start a new thread called RTFM?[/quote:1rknrpgc]
+> <strong>threadtroll wrote:</strong>
+> epic fail. the spray didn't work on you, either. try again. oh and btw, there is a thread for posting pics here as well. it's called post a random pic. or should i start a new thread called RTFM?
 
 You're a fake.
 
@@ -106,31 +107,37 @@ Sad, i thought i finally found a decent opponent...
 
 <div class="post" data-post-id="27534" data-author="threadtroll" data-date="2008-12-25T05:16:32+00:00" data-subject="">
 
-You're a fake.[/quote:103tzio1]
+> <strong>Yasik2 wrote:</strong>
+> You're a fake.
 
-wow.  i must have touched a nerve there.  apparently you're not as secure with your position as the only troll in town as you would have everyone believe.  let's see if i stick around to bother with "challenging" you.  as if.  let's see if you're worth my time.
+wow. i must have touched a nerve there. apparently you're not as secure with your position as the only troll in town as you would have everyone believe. let's see if i stick around to bother with "challenging" you. as if. let's see if you're worth my time.
 
-picking your nose and studying the results does not count as thinking, btw.  and just who are you calling decent, you wannabe?
+picking your nose and studying the results does not count as thinking, btw. and just who are you calling decent, you wannabe?
 
-p.s.  i didn't START the thread.  i just threatened to.
+p.s. i didn't START the thread. i just threatened to.
 
 </div>
 
 <div class="post" data-post-id="27535" data-author="Yasik2" data-date="2008-12-25T07:29:03+00:00" data-subject="">
 
-wow.  i must have touched a nerve there.  apparently you're not as secure with your position as the only troll in town as you would have everyone believe.  let's see if i stick around to bother with "challenging" you.  as if.  let's see if you're worth my time.
+> <strong>threadtroll wrote:</strong>
+> wow. i must have touched a nerve there. apparently you're not as secure with your position as the only troll in town as you would have everyone believe. let's see if i stick around to bother with "challenging" you. as if. let's see if you're worth my time.
+> 
+> 
+> 
+> picking your nose and studying the results does not count as thinking, btw. and just who are you calling decent, you wannabe?
+> 
+> 
+> 
+> p.s. i didn't START the thread. i just threatened to.
 
-picking your nose and studying the results does not count as thinking, btw.  and just who are you calling decent, you wannabe?
-
-p.s.  i didn't START the thread.  i just threatened to.[/quote:9d4uz2vv]
-
-Wow! An challenger appears! :D 
+Wow! An challenger appears! <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> 
 
 You must be truly new here. I never said that i am the only one on this phorum with "above average communication temper feature", so-called "trolling".
 
 We have Jezer and Tap, lots of minor ones and of course Weasel in Shining Armor!
 
-Feel free to tag along few years, then *maybe* i'll see if you're worthy.
+Feel free to tag along few years, then \*maybe\* i'll see if you're worthy.
 
 For now, a first test: try to get banned and only if you'll succeed i will continue to participate in this so-called "challenge".
 
@@ -138,8 +145,8 @@ For now, a first test: try to get banned and only if you'll succeed i will conti
 
 <div class="post" data-post-id="27536" data-author="Yasik2" data-date="2008-12-25T08:37:54+00:00" data-subject="">
 
-Oh, almost forgot ![/color:1fhqmhas]
+Oh, almost forgot !
 
-[img:1fhqmhas]http://yasik.kiev.ua/Kermit_I_hope_you_die.jpg[/img:1fhqmhas]
+![](http://yasik.kiev.ua/Kermit_I_hope_you_die.jpg)
 
 </div>

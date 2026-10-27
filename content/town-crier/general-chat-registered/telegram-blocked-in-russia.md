@@ -12,7 +12,7 @@ post_count: 2
 
 <div class="post" data-post-id="38731" data-author="Gorka" data-date="2018-04-13T11:16:09+00:00" data-subject="Telegram blocked in Russia">
 
-<LINK_TEXT text="https://www.independent.co.uk/life-styl ... 02541.html">https://www.independent.co.uk/life-style/gadgets-and-tech/news/telegram-down-russia-blocked-not-working-offline-encryption-messaging-a8302541.html</LINK_TEXT>
+https://www.independent.co.uk/life-style/gadgets-and-tech/news/telegram-down-russia-blocked-not-working-offline-encryption-messaging-a8302541.html
 
 The world is going to hell in a hand basket... Obviously any app that currently does function we can assume must be providing the govt with back doors to stay in service. It's outrageous.
 
@@ -32,13 +32,13 @@ Whether other apps share data with FSB, is in the open, we'll see who they go af
 
 As for Sloth on Telegram:
 
-- Telegram is an open and a secure app
+\- Telegram is an open and a secure app
 
-- Russia has only blocked access to the Russians or tourists using a Russian ISPs
+\- Russia has only blocked access to the Russians or tourists using a Russian ISPs
 
-- they can use VPN or use a proxy with 1 click by going here: [http://tgproxy.me/](http://tgproxy.me/)
+\- they can use VPN or use a proxy with 1 click by going here: [http://tgproxy.me/](http://tgproxy.me/)
 
-- I'm not moving the chat elsewhere.
+\- I'm not moving the chat elsewhere.
 
 Suck it up, use VPN or a proxy. I'm not obeying a bullshit law that does nothing useful. Even our telecom minister deputee said that "it's not a big deal, people can use VPN anyway" all the while it's aimed against the terrorists. WTF do they understand that terrorists can use VPN and block it for all 145mil people?
 

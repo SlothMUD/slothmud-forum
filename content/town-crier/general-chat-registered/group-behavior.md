@@ -16,25 +16,25 @@ Recentness I will having observe some disturbing behavior from so called elite p
 
 It include but not limited to:
 
-(1)  Few persons calling entire area's cp
+(1) Few persons calling entire area's cp
 
-(2)  Some persons changing their eq calls when they are know a mob loaded
+(2) Some persons changing their eq calls when they are know a mob loaded
 
-(3)  Some persons who are changing their eq calls after killing a mob and it will repop empty
+(3) Some persons who are changing their eq calls after killing a mob and it will repop empty
 
-(4)  A certain high level thief character 5x40 thief who will stealing coins from mobs while group are kill it
+(4) A certain high level thief character 5x40 thief who will stealing coins from mobs while group are kill it
 
-I having thought this is a group mud?  So-called elite taking advantages of others?
+I having thought this is a group mud? So-called elite taking advantages of others?
 
 </div>
 
 <div class="post" data-post-id="31015" data-author="Toxis" data-date="2010-04-03T12:34:38+00:00" data-subject="">
 
-There are no 5x40 thieves. :)
+There are no 5x40 thieves. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-Chilax.  You're not the leader, but you could be.  Who are you to say who can't call what?  If you don't like it, lead the group yourself and take control or just go solo.  Just because someone calls irda cps doesn't mean the leader is going to run all of the mobs.
+Chilax. You're not the leader, but you could be. Who are you to say who can't call what? If you don't like it, lead the group yourself and take control or just go solo. Just because someone calls irda cps doesn't mean the leader is going to run all of the mobs.
 
-As far as the people who keep changing calls when mobs die and come up empty, we certain few elite players know who you are and if you think you're sly, do not mistake our kindness and polite silence for stupidity.  There's going to be a point where we just say we've had enough and you're really not going to be happy.
+As far as the people who keep changing calls when mobs die and come up empty, we certain few elite players know who you are and if you think you're sly, do not mistake our kindness and polite silence for stupidity. There's going to be a point where we just say we've had enough and you're really not going to be happy.
 
 </div>
 
@@ -74,13 +74,14 @@ awesome
 
 Someone in a group once posted the following:
 
-[quote:2kvbm21h]group_rules
-
-call 1 (ONE) piece of equ.. violators get ignored.
-
-those not calling roll for non-called equ
-
-can call specific gem but not all gems[/quote:2kvbm21h]
+> <strong>Quote:</strong>
+> group\_rules
+> 
+> call 1 (ONE) piece of equ.. violators get ignored.
+> 
+> those not calling roll for non-called equ
+> 
+> can call specific gem but not all gems
 
 This seems sensible to me.
 
@@ -90,25 +91,25 @@ I personally join groups for xp, yes there are equipment items I would like and 
 
 By this I mean:
 
-1. Players calling all <> cps
+1\. Players calling all \<\> cps
 
-2. Players calling an item plus all <> cps
+2\. Players calling an item plus all \<\> cps
 
-3. Players in a large group calling more than one mob leaving nothing for joiners to call.
+3\. Players in a large group calling more than one mob leaving nothing for joiners to call.
 
-4. Players stealing items from mob inv and keeping quiet about it.
+4\. Players stealing items from mob inv and keeping quiet about it.
 
-5. Scales being repeatedly grabbing and immediately stashed in bags/packs for later sale.
+5\. Scales being repeatedly grabbing and immediately stashed in bags/packs for later sale.
 
-6. Players looting coins and not splitting, then name calling when questioned about it.
+6\. Players looting coins and not splitting, then name calling when questioned about it.
 
-7. Players creating a watcher on entry to an area or repeat locating or waiting for repop then changing calls to loaded items.
+7\. Players creating a watcher on entry to an area or repeat locating or waiting for repop then changing calls to loaded items.
 
-8. Players repeatedly bugging the leader of an xp group to hit the eq mob they called.
+8\. Players repeatedly bugging the leader of an xp group to hit the eq mob they called.
 
 All of these I've seen in the past 2 weeks from a number of different high ranked players. Yes some are worse than others and some have deserved reputations for overt greediness and in any group most players will know who the players are most likely to do the above, but most players I feel just see such injustice and bite their tongues and feel disgruntled.
 
-[i:2kvbm21h](As an aside seeing calls like 'All Lyme' or 'All cps' I think is a reaction to this overt greed rather than a seriously intended call)[/i:2kvbm21h]
+<em>(As an aside seeing calls like 'All Lyme' or 'All cps' I think is a reaction to this overt greed rather than a seriously intended call)</em>
 
 I guess what I'm saying is that groups work and work well as they are, but the deliberate repeated greed of a small number of players just leaves a slightly bad taste in my mouth and I would imagine many others, not enough for a big fuss, but enough to cause comment and bad feeling and to make sloth a slightly less pleasant place to hang out.
 
@@ -134,13 +135,13 @@ I'd be surprised if this stuff happens in Katie's groups. In fact to my mind the
 
 <div class="post" data-post-id="31026" data-author="Medios" data-date="2010-04-06T21:33:38+00:00" data-subject="">
 
-Like you said the problem is bad leadership.  Good leaders don't want to put up with your nonsense and they move on.
+Like you said the problem is bad leadership. Good leaders don't want to put up with your nonsense and they move on.
 
 </div>
 
 <div class="post" data-post-id="31029" data-author="Stab" data-date="2010-04-07T01:03:34+00:00" data-subject="">
 
-I like Jezers 'bottleneck' theory. It hits the nail on the head for the most part. I noticed the same thing in some other areas since I restarted play. Only coming back after wipe in about September gave me a fairly wide open field to play. I compare this to peeps who started or continued on day one of S4. So I sorta caught up and not being in such hot contention for  forge cps keeps play enjoyable. There are always peeps in a big hurry and selfish, then some who forget it's just a game. Im guilty myself at times. However briefly.. I agree with the ''leader sets the rules for calling eq n cps deal''. If you don't like it dont follow. I like the wheel. Oh and charatible donations from those who are inclined to share what they dont need.
+I like Jezers 'bottleneck' theory. It hits the nail on the head for the most part. I noticed the same thing in some other areas since I restarted play. Only coming back after wipe in about September gave me a fairly wide open field to play. I compare this to peeps who started or continued on day one of S4. So I sorta caught up and not being in such hot contention for forge cps keeps play enjoyable. There are always peeps in a big hurry and selfish, then some who forget it's just a game. Im guilty myself at times. However briefly.. I agree with the ''leader sets the rules for calling eq n cps deal''. If you don't like it dont follow. I like the wheel. Oh and charatible donations from those who are inclined to share what they dont need.
 
 I was suprised to see that players would actually steal coins from a group mob during the kill. Egad. I dont get as much time to play now that summers here.
 
@@ -156,7 +157,7 @@ I'm not sure we can put all the onus on the group leader to police this overt gr
 
 The solution here is for it to become culturally unacceptable to all players of a mud for a single player in a group or not to act in the self interested screw the rest of you fashion that some have been. Every player should be quite frankly too embarrassed to act in such a quite frankly abismal fashion. How do we achieve this ? Well there I run out of ideas ... but the solution isnt to just say its all down to someone else, especially when that someone else is working harder than I or most other players do already and benefitting us all.
 
-[i:2opbrsgz]You could read this thread and get the impression that this is a big problem for the mud ... it isnt, its a little problem in a game that 99% of the time is a nice place to play and hang out, with a convivial and cooperative atmosphere where most players will go out of their way to help anyone in need.[/i:2opbrsgz]
+<em>You could read this thread and get the impression that this is a big problem for the mud ... it isnt, its a little problem in a game that 99% of the time is a nice place to play and hang out, with a convivial and cooperative atmosphere where most players will go out of their way to help anyone in need.</em>
 
 T
 
@@ -164,37 +165,71 @@ T
 
 <div class="post" data-post-id="31033" data-author="jezer" data-date="2010-04-07T20:10:52+00:00" data-subject="">
 
-The solution here is for it to become culturally unacceptable to all players of a mud for a single player in a group or not to act in the self interested screw the rest of you fashion that some have been. [/quote:oypd6i4k]
+> <strong>Thraxas wrote:</strong>
+> The solution here is for it to become culturally unacceptable to all players of a mud for a single player in a group or not to act in the self interested screw the rest of you fashion that some have been.
 
-A bit Idealistic don't you think? Amounts to the same thing as police appealing to criminals if they could please stop committing crime. Your a diplomat, I'm a problem solver. We will rarely agree. Good luck in your new world where everyone seeks the common good of everyone else because you asked them nicely... and no one is ever at fault... they could just do things a little bit better... but no offense to them of course. And everyone is doing a great job overall!  :roll:  There is a place for you in politics Thraxas.
+A bit Idealistic don't you think? Amounts to the same thing as police appealing to criminals if they could please stop committing crime. Your a diplomat, I'm a problem solver. We will rarely agree. Good luck in your new world where everyone seeks the common good of everyone else because you asked them nicely... and no one is ever at fault... they could just do things a little bit better... but no offense to them of course. And everyone is doing a great job overall! <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> There is a place for you in politics Thraxas.
 
 </div>
 
 <div class="post" data-post-id="31035" data-author="Thraxas" data-date="2010-04-07T21:42:11+00:00" data-subject="">
 
-A bit Idealistic don't you think?[/quote:13z1gyw1]yes
+> <strong>jezer wrote:</strong>
+> A bit Idealistic don't you think?
 
-Amounts to the same thing as police appealing to criminals if they could please stop committing crime.[/quote:13z1gyw1]we need a policeforce?
+yes
 
- Your a diplomat,[/quote:13z1gyw1]yes
+> <strong>jezer wrote:</strong>
+> Amounts to the same thing as police appealing to criminals if they could please stop committing crime.
 
- I'm a problem solver.[/quote:13z1gyw1]are you? I wouldnt say so ... you sound more like a teflon shouldered not my problem to solve find someone else to blame jockey to me
+we need a policeforce?
 
-We will rarely agree.[/quote:13z1gyw1]Possibly.
+> <strong>jezer wrote:</strong>
+> Your a diplomat,
 
- Good luck in your new world where everyone seeks the common good of everyone else because you asked them nicely[/quote:13z1gyw1]thankyou
+yes
 
-... and no one is ever at fault...[/quote:13z1gyw1]now then who said no-one was at fault?
+> <strong>jezer wrote:</strong>
+> I'm a problem solver.
 
- they could just do things a little bit better...[/quote:13z1gyw1]... somewhere over the rainbow ...
+are you? I wouldnt say so ... you sound more like a teflon shouldered not my problem to solve find someone else to blame jockey to me
 
- but no offense to them of course.[/quote:13z1gyw1]now I know you're not serious about that ... 
+> <strong>jezer wrote:</strong>
+> We will rarely agree.
 
- And everyone is doing a great job overall!  :roll:[/quote:13z1gyw1]yeah I think most are
+Possibly.
 
-  There is a place for you in politics Thraxas.[/quote:13z1gyw1]I'll take that as an insult
+> <strong>jezer wrote:</strong>
+> Good luck in your new world where everyone seeks the common good of everyone else because you asked them nicely
 
-:)
+thankyou
+
+> <strong>jezer wrote:</strong>
+> ... and no one is ever at fault...
+
+now then who said no-one was at fault?
+
+> <strong>jezer wrote:</strong>
+> they could just do things a little bit better...
+
+... somewhere over the rainbow ...
+
+> <strong>jezer wrote:</strong>
+> but no offense to them of course.
+
+now I know you're not serious about that ... 
+
+> <strong>jezer wrote:</strong>
+> And everyone is doing a great job overall! <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
+
+yeah I think most are
+
+> <strong>jezer wrote:</strong>
+> There is a place for you in politics Thraxas.
+
+I'll take that as an insult
+
+<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 T
 

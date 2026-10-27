@@ -22,7 +22,7 @@ Everything a spectral firemage was carrying suddenly drops to the ground.
 
 <div class="post" data-post-id="13114" data-author="Qa" data-date="2006-06-23T20:08:31+00:00" data-subject="">
 
-This happenned to me as well.  The best suggestion I got was that it was a "Major Futility" or something like that.  So it's an intentionally sucky thing to have.
+This happenned to me as well. The best suggestion I got was that it was a "Major Futility" or something like that. So it's an intentionally sucky thing to have.
 
 Enjoy.
 
@@ -32,7 +32,7 @@ Qa
 
 <div class="post" data-post-id="13115" data-author="Medios" data-date="2006-06-23T21:23:55+00:00" data-subject="">
 
-Im fairly sure that Major Futility increases the xp on mobs, not decreases it.  I dont have any suggestions on the no xp, but its happened to me before, maybe mob was changed and not approved.
+Im fairly sure that Major Futility increases the xp on mobs, not decreases it. I dont have any suggestions on the no xp, but its happened to me before, maybe mob was changed and not approved.
 
 Mike
 
@@ -40,13 +40,13 @@ Mike
 
 <div class="post" data-post-id="13117" data-author="Hobbes" data-date="2006-06-23T21:55:10+00:00" data-subject="">
 
-It happened to me two mobs in a row, so I logged out and logged back in and it went away.  Not the best of solutions maybe, but it worked.
+It happened to me two mobs in a row, so I logged out and logged back in and it went away. Not the best of solutions maybe, but it worked.
 
 </div>
 
 <div class="post" data-post-id="13140" data-author="Mace" data-date="2006-06-25T06:37:09+00:00" data-subject="">
 
-One possibility is the recent bug where if you are following someone who has not grouped him/herself, you get no xp.  (or a mob..)
+One possibility is the recent bug where if you are following someone who has not grouped him/herself, you get no xp. (or a mob..)
 
 Judging by my quick test that is still broken, so it could have been that.
 

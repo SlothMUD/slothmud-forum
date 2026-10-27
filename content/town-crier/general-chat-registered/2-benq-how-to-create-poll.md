@@ -12,7 +12,7 @@ post_count: 6
 
 <div class="post" data-post-id="31425" data-author="Tuck" data-date="2010-08-07T12:10:55+00:00" data-subject="2 Benq: how to create poll?">
 
-Subj. :?: 
+Subj. <img src="/images/smilies/icon_question.svg" alt=":?:" title=":?:" width="15" height="15" class="smiley nozoom"> 
 
 Thanks in advance.
 
@@ -22,9 +22,9 @@ Thanks in advance.
 
 Good day, mage.
 
-I can create polls.  When adding a post, below the usual preview, submit, etc buttons, there are a few more options to create a poll.  What i dont know is if its open to everyone or just to board admins.
+I can create polls. When adding a post, below the usual preview, submit, etc buttons, there are a few more options to create a poll. What i dont know is if its open to everyone or just to board admins.
 
-Benq is in vacances atm, dont give him work.  If you want to create a poll, email me details and i will create it for you (in case normal users cant).
+Benq is in vacances atm, dont give him work. If you want to create a poll, email me details and i will create it for you (in case normal users cant).
 
 Best regards.
 
@@ -34,7 +34,7 @@ Best regards.
 
 Good day, mighty immortal. 
 
-Sure will wait until Benq get back from vacation and enable polls for plain users :).
+Sure will wait until Benq get back from vacation and enable polls for plain users <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">.
 
 Respect,
 
@@ -54,7 +54,7 @@ do not post any polls along the lines of
 
 without at least having talked to the (immortal) first.
 
- :evil:
+ <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

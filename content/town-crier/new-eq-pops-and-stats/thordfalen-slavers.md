@@ -48,7 +48,7 @@ AC-apply is -0.2
 
 Can affect you as:
 
-    Affects: HITPOINT by 5
+ Affects: HITPOINT by 5
 
 Only those who are at least novice magic users, clerics, thieves, warriors,
 
@@ -64,7 +64,7 @@ Many thanks to all imms working on the area (probably Juggleblood, not sure)
 
 Sheikh Yerbouti is using:
 
-<worn around wrist>  glowing emerald prayer beads
+\<worn around wrist\> glowing emerald prayer beads
 
 Object 'beads glowing emerald prayer', Item type: ARMOR
 
@@ -76,7 +76,7 @@ AC-apply is -0.3
 
 Can affect you as:
 
-    Affects: MANA by 2
+ Affects: MANA by 2
 
 Only those who are at least experienced magic users, clerics, druids, or
 
@@ -90,7 +90,7 @@ this one is possible to pick up, but it is unapproved, so u still cant wear it:)
 
 <div class="post" data-post-id="28070" data-author="jezer" data-date="2009-02-12T12:00:16+00:00" data-subject="">
 
-Area looks pretty good for lowbies. Mobs are off varying size, right up to a couple of mill. The only aggro's that got me were very small. Area suits warrior/chop type fighting. I suspect a small group of < 40 could rock this area. Some mobs are extremely good coins. A lot of mobs are using low level magic and some mobs will be assisting others. Area is mostly outdoors, no need for fly or waterbreath. Lots of doors, gates, flaps, paddocks etc... Nothing would threaten anyone with -10. However area is kind of "slow" to run, in the fact some mobs are fairly thick. Lots of shards are popping here of all types, tri tokens and dies... however think the ones popping the dies are off limits for solo < 20. There are some treasure opals that pop there, but mostly junk. There is also a mob here giving zero honor... I suspect another bolg type mob, but a bit bigger. Worth a look for < 40, take a recall.
+Area looks pretty good for lowbies. Mobs are off varying size, right up to a couple of mill. The only aggro's that got me were very small. Area suits warrior/chop type fighting. I suspect a small group of \< 40 could rock this area. Some mobs are extremely good coins. A lot of mobs are using low level magic and some mobs will be assisting others. Area is mostly outdoors, no need for fly or waterbreath. Lots of doors, gates, flaps, paddocks etc... Nothing would threaten anyone with -10. However area is kind of "slow" to run, in the fact some mobs are fairly thick. Lots of shards are popping here of all types, tri tokens and dies... however think the ones popping the dies are off limits for solo \< 20. There are some treasure opals that pop there, but mostly junk. There is also a mob here giving zero honor... I suspect another bolg type mob, but a bit bigger. Worth a look for \< 40, take a recall.
 
 </div>
 

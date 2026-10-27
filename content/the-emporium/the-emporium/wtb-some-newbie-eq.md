@@ -34,8 +34,6 @@ got iron wings (tks sapient)..
 
 Still need
 
- 
-
 2 swirling red and blue rings
 
 2 steel camails

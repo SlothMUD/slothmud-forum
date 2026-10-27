@@ -14,9 +14,9 @@ post_count: 16
 
 Mornin' folks,
 
-I have a quick question.  Is it still possible to forge the Flaming Cloak of the Underworld?  I have been informed that it's been taken out.  I can't find a Sonya anywhere, and I believe she is supposed to forge this?  Maybe she moved somewhere.
+I have a quick question. Is it still possible to forge the Flaming Cloak of the Underworld? I have been informed that it's been taken out. I can't find a Sonya anywhere, and I believe she is supposed to forge this? Maybe she moved somewhere.
 
-Also, while running around BH last night, we loaded a phoenix feather off a mob that apparently wasn't phoenix.  I don't quite recall who, went through it multiple times and my memory is terrible =(
+Also, while running around BH last night, we loaded a phoenix feather off a mob that apparently wasn't phoenix. I don't quite recall who, went through it multiple times and my memory is terrible =(
 
 It would be nice to know if we should still cycle lower MH for this nice piece of eq or if we should abandon it. 
 
@@ -34,13 +34,13 @@ When I made inquiries about this some months ago I was told the forge had been r
 
 <div class="post" data-post-id="25768" data-author="Yasik2" data-date="2008-08-17T08:48:13+00:00" data-subject="">
 
-[img:265vycua]http://yasik.kiev.ua/Flaming_Cloak_of_the_Underworld.jpg[/img:265vycua]
+![](http://yasik.kiev.ua/Flaming_Cloak_of_the_Underworld.jpg)
 
 </div>
 
 <div class="post" data-post-id="25770" data-author="jezer" data-date="2008-08-17T09:56:52+00:00" data-subject="">
 
-Yasik will sell you his for 25m.  :twisted:
+Yasik will sell you his for 25m. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -56,17 +56,18 @@ Bazilus the Crazy Python
 
 <div class="post" data-post-id="25773" data-author="firebrand" data-date="2008-08-17T16:13:26+00:00" data-subject="">
 
-[img:vhwe4v99]http://yasik.kiev.ua/Flaming_Cloak_of_the_Underworld.jpg[/img:vhwe4v99][/quote:vhwe4v99]
+> <strong>Yasik2 wrote:</strong>
+> ![](http://yasik.kiev.ua/Flaming_Cloak_of_the_Underworld.jpg)
 
-look, you annoying excuse for a human.  it was RETIRED, not deleted out of the game.  retired means that we are not getting new ones and the ones already ingame will remain.  so have a nice hot cup of stfu before you post that you have one.  idiot.  
+look, you annoying excuse for a human. it was RETIRED, not deleted out of the game. retired means that we are not getting new ones and the ones already ingame will remain. so have a nice hot cup of stfu before you post that you have one. idiot. 
 
-"there really is nothing like a shorn scrotum... it's breathtaking- i highly suggest you try it." -dr. evil --> austin powers: international man of mystery
+"there really is nothing like a shorn scrotum... it's breathtaking- i highly suggest you try it." -dr. evil --\> austin powers: international man of mystery
 
 </div>
 
 <div class="post" data-post-id="25776" data-author="Weasel" data-date="2008-08-17T17:01:33+00:00" data-subject="">
 
-[img:207qwrms]http://icanhascheezburger.files.wordpress.com/2008/03/funny-pictures-hating-angry-kitten.jpg[/img:207qwrms]
+![](http://icanhascheezburger.files.wordpress.com/2008/03/funny-pictures-hating-angry-kitten.jpg)
 
 </div>
 
@@ -76,9 +77,9 @@ Mornin' again folks,
 
 Thanks for your replies.
 
-So let me get this straight.  None of the cps load anymore, so I would have to buy the cps from players who might still have them?
+So let me get this straight. None of the cps load anymore, so I would have to buy the cps from players who might still have them?
 
-Also, any idea why the feather would load on a non-phoenix mob?  I think it was flamewraith, but I'm not 95% percent sure.  Is this correct?
+Also, any idea why the feather would load on a non-phoenix mob? I think it was flamewraith, but I'm not 95% percent sure. Is this correct?
 
 Thanks!
 
@@ -96,7 +97,8 @@ Cheers
 
 <div class="post" data-post-id="25781" data-author="Yasik2" data-date="2008-08-17T18:31:32+00:00" data-subject="">
 
-look, you annoying excuse for a human.  it was RETIRED, not deleted out of the game.  retired means that we are not getting new ones and the ones already ingame will remain.  so have a nice hot cup of stfu before you post that you have one.  idiot.[/quote:31t5n7eh]
+> <strong>firebrand wrote:</strong>
+> look, you annoying excuse for a human. it was RETIRED, not deleted out of the game. retired means that we are not getting new ones and the ones already ingame will remain. so have a nice hot cup of stfu before you post that you have one. idiot.
 
 what makes you think that i don't know teh difference between "retired" and "deleted from the game"?
 
@@ -110,9 +112,12 @@ now as we clarified the matter you can return back to the kitchen
 
 <div class="post" data-post-id="25785" data-author="jezer" data-date="2008-08-17T23:41:44+00:00" data-subject="">
 
-I emailed the relelvant person and asked if I can put the underworld forge back in. It wasn't necessarily officially 'retired'. Sorry to be vague. Hope I can clarify soon.
-
-Cheers[/quote:ia53b3un]
+> <strong>juggleblood wrote:</strong>
+> I emailed the relelvant person and asked if I can put the underworld forge back in. It wasn't necessarily officially 'retired'. Sorry to be vague. Hope I can clarify soon.
+> 
+> 
+> 
+> Cheers
 
 Maybe we will see the strong return of MH/Dmount groups. I remember when these used to run almost continuously, esp over the weekend.
 
@@ -130,9 +135,10 @@ Tip: Don't junk your cp's just yet.
 
 <div class="post" data-post-id="25793" data-author="jezer" data-date="2008-08-18T02:06:47+00:00" data-subject="">
 
-2Weasel: me and FB know each other for too long to hate; emotions we express on public towards us only seems to be negative; it's just a curtain to hide our everlasting frienship[/quote:197grf4q]
+> <strong>Yasik2 wrote:</strong>
+> 2Weasel: me and FB know each other for too long to hate; emotions we express on public towards us only seems to be negative; it's just a curtain to hide our everlasting frienship
 
-I was right! Reboog is Yasik's and Firebrand's Love child!  :twisted: The same good looks and intelligence of his parents!
+I was right! Reboog is Yasik's and Firebrand's Love child! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> The same good looks and intelligence of his parents!
 
 </div>
 
@@ -144,9 +150,12 @@ I was right! Reboog is Yasik's and Firebrand's Love child!  :twisted: The same g
 
 <div class="post" data-post-id="25808" data-author="Bazilus" data-date="2008-08-18T10:21:46+00:00" data-subject="">
 
-So let me get this straight.  None of the cps load anymore, so I would have to buy the cps from players who might still have them?
-
-On an unrelated note, wtb Cloak cps =([/quote:3fqsqoew]
+> <strong>Acedia wrote:</strong>
+> So let me get this straight. None of the cps load anymore, so I would have to buy the cps from players who might still have them?
+> 
+> 
+> 
+> On an unrelated note, wtb Cloak cps =(
 
 List of cps:
 
@@ -172,6 +181,6 @@ Bazilus the Crazy Python
 
 <div class="post" data-post-id="25819" data-author="Yinao" data-date="2008-08-18T22:12:42+00:00" data-subject="">
 
-Wts Scale of Liquid Fire 5 mil min  8)
+Wts Scale of Liquid Fire 5 mil min <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>

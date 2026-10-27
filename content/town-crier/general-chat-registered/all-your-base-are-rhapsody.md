@@ -14,7 +14,7 @@ post_count: 2
 
 This has to be the funniest mutation of Zero Wing ever
 
-[<LINK_TEXT text="http://allyourbase.planettribes.gamespy ... view.shtml">http://allyourbase.planettribes.gamespy.com/video3_view.shtml</LINK_TEXT>](http://allyourbase.planettribes.gamespy.com/video3_view.shtml)
+[http://allyourbase.planettribes.gamespy.com/video3_view.shtml](http://allyourbase.planettribes.gamespy.com/video3_view.shtml)
 
 </div>
 

@@ -14,7 +14,7 @@ post_count: 3
 
 This is effin' awesome! (need sound)
 
-[<LINK_TEXT text="http://www.heavy.com/index.php?videoPat ... nyHatesYou">http://www.heavy.com/index.php?videoPath=/content/contagious/flash_video/TheEasterBunnyHatesYou</LINK_TEXT>](http://www.heavy.com/index.php?videoPath=/content/contagious/flash_video/TheEasterBunnyHatesYou)
+[http://www.heavy.com/index.php?videoPath=/content/contagious/flash_video/TheEasterBunnyHatesYou](http://www.heavy.com/index.php?videoPath=/content/contagious/flash_video/TheEasterBunnyHatesYou)
 
 enjoy!
 

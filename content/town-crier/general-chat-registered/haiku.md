@@ -14,7 +14,7 @@ post_count: 348
 
 I wish I was a
 
-little bit taller.  I wish
+little bit taller. I wish
 
 I was a baller
 
@@ -186,7 +186,7 @@ instead of trap doors
 
 we could set up trap windows
 
-oh oops.  never mind.
+oh oops. never mind.
 
 </div>
 
@@ -224,9 +224,9 @@ l'eggo my eggo
 
 "Slothmud is a breed
 
-apart  from all other games."
+apart from all other games."
 
---Thomas Jefferson
+\--Thomas Jefferson
 
 </div>
 
@@ -276,7 +276,7 @@ One two three four five
 
 One two three four five six se--
 
-Hmm.  This does not work.
+Hmm. This does not work.
 
 </div>
 
@@ -400,7 +400,7 @@ no i'm... uh, doesn't!
 
 have you heard the wolf
 
-cry to the blue horn moon?  no?
+cry to the blue horn moon? no?
 
 buy some hearing aids
 
@@ -448,7 +448,7 @@ hi: 9/11
 
 <div class="post" data-post-id="29396" data-author="reboog" data-date="2009-06-11T10:32:54+00:00" data-subject="">
 
-bjork?  your husband
+bjork? your husband
 
 thom yorke, is waiting for you
 
@@ -656,11 +656,12 @@ there's a cream for that
 
 <div class="post" data-post-id="29415" data-author="12345" data-date="2009-06-11T11:56:34+00:00" data-subject="">
 
-12345
-
-can you not see the duress
-
-you are causing me?[/quote:1sc7d35b]
+> <strong>reboog wrote:</strong>
+> 12345
+> 
+> can you not see the duress
+> 
+> you are causing me?
 
 You're too concerned with numbers
 
@@ -682,11 +683,12 @@ please pass the ketchup
 
 <div class="post" data-post-id="29417" data-author="Thraxas" data-date="2009-06-11T12:54:42+00:00" data-subject="">
 
-thraxas's limit
-
-in counting numbers appears
-
-to be until 6[/quote:fwa0bmz8]
+> <strong>reboog wrote:</strong>
+> thraxas's limit
+> 
+> in counting numbers appears
+> 
+> to be until 6
 
 erm what?
 
@@ -704,11 +706,12 @@ there go my windows
 
 <div class="post" data-post-id="29421" data-author="Rigwarl" data-date="2009-06-11T18:13:08+00:00" data-subject="">
 
-mogul kahn the axe
-
-is much better than rigwarl
-
-bristleback, you suck[/quote:32qvse39]
+> <strong>reboog wrote:</strong>
+> mogul kahn the axe
+> 
+> is much better than rigwarl
+> 
+> bristleback, you suck
 
 silly fiery axe,
 
@@ -862,7 +865,7 @@ just grep snow file now
 
 <div class="post" data-post-id="29437" data-author="12345" data-date="2009-06-11T22:37:31+00:00" data-subject="">
 
-Let me translate that for Reboog.[/url:1q142elt]
+[Let me translate that for Reboog.](http://www.youtube.com/watch?v=9LSuyLyuUiM:1q142elt)
 
 </div>
 
@@ -898,9 +901,10 @@ look, the soul still burns
 
 <div class="post" data-post-id="29442" data-author="jezer" data-date="2009-06-12T00:32:36+00:00" data-subject="">
 
-Let me translate that for Reboog.[/url:3vmmspy8][/quote:3vmmspy8]
+> <strong>12345 wrote:</strong>
+> [Let me translate that for Reboog.](http://www.youtube.com/watch?v=9LSuyLyuUiM:3vmmspy8)
 
- :D
+ <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -958,7 +962,7 @@ in the very face
 
 search binary tree
 
-O(n log n)?  How slow.
+O(n log n)? How slow.
 
 Get constant time please.
 
@@ -1106,11 +1110,12 @@ no talking allowed
 
 <div class="post" data-post-id="29464" data-author="12345" data-date="2009-06-12T03:37:51+00:00" data-subject="">
 
-P-O-O-L-P
-
-tell me what it means to me
-
-P-O-O-L-P[/quote:1p3mqp7u]
+> <strong>reboog wrote:</strong>
+> P-O-O-L-P
+> 
+> tell me what it means to me
+> 
+> P-O-O-L-P
 
 So, how is Bard these days?
 
@@ -1290,9 +1295,9 @@ dance like beyonce
 
 you have killed yourself!
 
-do not run.  we are your friends.
+do not run. we are your friends.
 
-FIRST BLOOD!  TRIPLE KILL!
+FIRST BLOOD! TRIPLE KILL!
 
 </div>
 
@@ -1308,11 +1313,11 @@ just at slower pace
 
 <div class="post" data-post-id="29487" data-author="reboog" data-date="2009-06-13T07:33:56+00:00" data-subject="">
 
-:D  :)  :(  :o  :shock: 
+<img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_e_surprised.svg" alt=":o" title=":o" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
- :?  8)  :lol:  :x  :P  :oops:  :cry: 
+ <img src="/images/smilies/icon_e_confused.svg" alt=":?" title=":?" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_mad.svg" alt=":x" title=":x" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_redface.svg" alt=":oops:" title=":oops:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> 
 
- :evil:  :twisted:  :roll:  :wink:  :!:
+ <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -1330,7 +1335,7 @@ that's too demanding
 
 draining their life force?
 
-stop!  in the name of the moon,
+stop! in the name of the moon,
 
 i will punish you!
 
@@ -1430,7 +1435,7 @@ its not far enough
 
 believe it or not
 
-auction -- hex up.  min 20k
+auction -- hex up. min 20k
 
 i can pay in food
 
@@ -1502,7 +1507,7 @@ if you would like to
 
 please hang up and try again
 
-make a call.  or else
+make a call. or else
 
 </div>
 
@@ -1510,7 +1515,7 @@ make a call.  or else
 
 search your feelings luke
 
-you know it to be true.  no,
+you know it to be true. no,
 
 its impossible!
 
@@ -1550,7 +1555,7 @@ still no eye deer
 
 holla back young'un
 
-WOO WOO!  holla back young'un
+WOO WOO! holla back young'un
 
 ya'll just wanna be
 
@@ -1560,7 +1565,7 @@ ya'll just wanna be
 
 People are funny
 
-Who took the pop?  Did it load?
+Who took the pop? Did it load?
 
 I recall and rent
 
@@ -1640,7 +1645,7 @@ sweet, we get a dog
 
 Your mom is a dog?
 
-No, my mom *has* a dog, dick.
+No, my mom \*has\* a dog, dick.
 
 Your mom has a dick?
 
@@ -1708,13 +1713,14 @@ like yoda he is
 
 <div class="post" data-post-id="29557" data-author="*juggleblood*" data-date="2009-06-18T01:09:12+00:00" data-subject="">
 
-*bump*
+\*bump\*
 
-hey there delilah
-
-i'm a thousand miles away
-
-its not far enough[/quote:r89dte8j]
+> <strong>Acedia wrote:</strong>
+> hey there delilah
+> 
+> i'm a thousand miles away
+> 
+> its not far enough
 
 </div>
 
@@ -1744,7 +1750,7 @@ His internet down.
 
 It feels like he's disappeared.
 
-Don't fear.  He'll be back.
+Don't fear. He'll be back.
 
 </div>
 
@@ -1790,7 +1796,7 @@ someone update me
 
 <div class="post" data-post-id="29571" data-author="reboog" data-date="2009-06-23T01:42:06+00:00" data-subject="">
 
-Look!  It's a Borg cube!
+Look! It's a Borg cube!
 
 Resistance is futile.
 
@@ -1984,7 +1990,7 @@ do you know what's fun
 
 messing with forum topics
 
-see it?  bricks you make
+see it? bricks you make
 
 </div>
 
@@ -2022,7 +2028,8 @@ OOps I cant even count lines no matter syllables
 
 <div class="post" data-post-id="29680" data-author="Yasik2" data-date="2009-07-09T12:08:45+00:00" data-subject="Re: Who is Haiku?">
 
-have you noticed how a thread can change its subject for no reason[/quote:32y93qz0]
+> <strong>Thraxas wrote:</strong>
+> have you noticed how a thread can change its subject for no reason
 
 Take a note - i did nothing.
 
@@ -2030,9 +2037,15 @@ Take a note - i did nothing.
 
 <div class="post" data-post-id="29681" data-author="Thraxas" data-date="2009-07-09T14:25:58+00:00" data-subject="Re: Who is Haiku? (Yasik did it)">
 
-have you noticed how a thread can change its subject for no reason[/quote:161nqhak]
-
-Take a note - i did nothing.[/quote:161nqhak]
+> <strong>Yasik2 wrote:</strong>
+> > <strong>Thraxas wrote:</strong>
+> > have you noticed how a thread can change its subject for no reason
+> 
+> 
+> 
+> 
+> 
+> Take a note - i did nothing.
 
 noted ... I did
 
@@ -2054,7 +2067,7 @@ logging in forums
 
 can be very difficult
 
-your password is huseontuh,=4[9aID4Hclimtphdr*$Y0dhcLRTI\=
+your password is huseontuh,=4[9aID4Hclimtphdr\*$Y0dhcLRTI\\=
 
 </div>
 
@@ -2090,7 +2103,7 @@ Will anyone come?
 
 <div class="post" data-post-id="30064" data-author="reboog" data-date="2009-09-30T08:33:33+00:00" data-subject="">
 
-Hark!  Crisis averted!
+Hark! Crisis averted!
 
 A jobless recovery?
 
@@ -2240,7 +2253,8 @@ goober is greating
 
 <div class="post" data-post-id="30198" data-author="Playboy" data-date="2009-10-30T16:54:09+00:00" data-subject="">
 
-forte's one syllable[/quote:wuocxg13]
+> <strong>reboog wrote:</strong>
+> forte's one syllable
 
 it is?
 
@@ -2268,7 +2282,7 @@ You win, pollen; mold.
 
 <div class="post" data-post-id="30244" data-author="Tap" data-date="2009-11-07T21:50:25+00:00" data-subject="">
 
-*hack* *cough* *wheeze*
+\*hack\* \*cough\* \*wheeze\*
 
 I didn't know
 
@@ -2290,7 +2304,7 @@ talking to themselves?
 
 I have discovered
 
-Fire!  Ready aim whites of eyes
+Fire! Ready aim whites of eyes
 
 Overshot missed whoops
 
@@ -2420,7 +2434,7 @@ superman will--- WRONG!!!
 
 First take out the pin
 
-Count to three.  No more, no less
+Count to three. No more, no less
 
 Holy Hand Grenade!
 
@@ -2440,7 +2454,7 @@ one cow at a time
 
 I declare thumb war
 
-FINISH HIM!  Mercy for weaks
+FINISH HIM! Mercy for weaks
 
 finger bang rules man
 
@@ -2502,7 +2516,7 @@ Today, I could not
 
 come up with a good haiku.
 
-Damn it.  FML.
+Damn it. FML.
 
 </div>
 
@@ -2672,7 +2686,7 @@ on health care reform
 
 i am a gay man
 
-who has  been in the closet
+who has been in the closet
 
 but don't tell my wife
 
@@ -2684,7 +2698,7 @@ confirm my premise
 
 Best Glenn Beck show ever.
 
-[url:2vkqfe9t]http://www.huffingtonpost.com/2010/03/09/eric-massa-glenn-beck-vid_n_492499.html[/url:2vkqfe9t]
+http://www.huffingtonpost.com/2010/03/09/eric-massa-glenn-beck-vid_n_492499.html
 
 </div>
 
@@ -2704,7 +2718,7 @@ Here in Arkansas
 
 Everything has only two
 
-syl-buls.  We speek gud.
+syl-buls. We speek gud.
 
 </div>
 
@@ -2722,9 +2736,9 @@ Get nailed to a stake
 
 Bring Zeratul to
 
-The gate!  Escape to where none
+The gate! Escape to where none
 
-Shall pass.  Whoops, he died.
+Shall pass. Whoops, he died.
 
 </div>
 
@@ -2770,11 +2784,12 @@ Now where did I go?
 
 <div class="post" data-post-id="31070" data-author="reboog" data-date="2010-04-22T01:38:34+00:00" data-subject="">
 
-You have been blinded!
-
-cast 'cure blind' Acedia
-
-Now where did I go?[/quote:2d0wnshk]
+> <strong>Acedia wrote:</strong>
+> You have been blinded!
+> 
+> cast 'cure blind' Acedia
+> 
+> Now where did I go?
 
 just because we're blind
 
@@ -2818,9 +2833,9 @@ Save the day, paint wolf
 
 How do I love thee
 
-Let me count the ways.  A one,
+Let me count the ways. A one,
 
-A two, a three.  Three.
+A two, a three. Three.
 
 </div>
 
@@ -2836,14 +2851,14 @@ watch your bad romance
 
 <div class="post" data-post-id="31206" data-author="Tuck" data-date="2010-05-23T18:58:30+00:00" data-subject="Re: haiku">
 
-> **reboog wrote:**
+> <strong>reboog wrote:</strong>
 > ga-ga ooh-la-la
 > 
 > i want your love, blah blah blah
 > 
 > watch your bad romance
 
-awesome.  :P
+awesome. <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -2859,7 +2874,7 @@ Not sure, but awesome
 
 <div class="post" data-post-id="31210" data-author="Mace" data-date="2010-05-24T06:00:46+00:00" data-subject="Re: haiku">
 
-What?  Am I still drunk?
+What? Am I still drunk?
 
 ..need designated mudder
 
@@ -2871,7 +2886,7 @@ Friends let friends mud drunk
 
 L e V e L q U i N a R y
 
-> > > 10 < < <
+\> \> \> 10 \< \< \<
 
 L e V e L q U i N a R y
 
@@ -2891,7 +2906,7 @@ them in place by hand.
 
 Apply poison cinq;
 
-bst; ci | s sigh
+bst; ci \| s sigh
 
 quaff purple-potion
 
@@ -2941,7 +2956,7 @@ it's pronounced vodka
 
 star trek in japan:
 
-we all the bolg.  no resist!
+we all the bolg. no resist!
 
 we set you up bomb
 
@@ -2991,7 +3006,7 @@ her life is twilight
 
 is the drinking glass
 
-half filled?  is it half empty?
+half filled? is it half empty?
 
 THEY'RE EFFING EQUAL
 
@@ -3159,7 +3174,7 @@ A loaf is not pie.
 
 has almost all of the wealth
 
-#occupy #slothmud
+\#occupy #slothmud
 
 </div>
 
@@ -3179,7 +3194,7 @@ Grind up some XP
 
 One more level, could be soon!
 
-Not so.  Killed by stupid
+Not so. Killed by stupid
 
 </div>
 
@@ -3241,7 +3256,7 @@ cannot remember password
 
 here, post it for me
 
--Nobody
+\-Nobody
 
 </div>
 
@@ -3251,9 +3266,9 @@ you know what is great?
 
 posting haikus all the time
 
-it's true.  ask reboog
+it's true. ask reboog
 
--Nobody
+\-Nobody
 
 </div>
 
@@ -3265,7 +3280,7 @@ greatest form of poetry
 
 also, delicious
 
--Nobody
+\-Nobody
 
 </div>
 
@@ -3305,7 +3320,7 @@ Do you remember
 
 The day that the music died?
 
-Oh no!  My laundry!
+Oh no! My laundry!
 
 </div>
 
@@ -3381,7 +3396,7 @@ I really am bard.
 
 <div class="post" data-post-id="39515" data-author="*Idjit*" data-date="2020-07-19T04:18:36+00:00" data-subject="Re: haiku">
 
-haiku man is back,        
+haiku man is back, 
 
 that's the important thing
 
@@ -3427,7 +3442,7 @@ Flowing through the canal
 
 Gotta take a dump
 
- - my wife
+ \- my wife
 
 </div>
 
@@ -3485,7 +3500,7 @@ Still the best show ever
 
 <div class="post" data-post-id="39525" data-author="*Idjit*" data-date="2020-07-21T02:05:12+00:00" data-subject="Re: haiku">
 
-A mime's warcry  
+A mime's warcry 
 
 Battlemint has seen 
 
@@ -3509,7 +3524,7 @@ three lines, plus nature
 
 do we comply 
 
-when we see  
+when we see 
 
 actual poets 
 

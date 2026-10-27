@@ -14,36 +14,36 @@ post_count: 6
 
 I've gotten to 3x40 entirely on the back of groups, but whenever I try to solo I lose more XP than I gain.
 
-Solo, I run -7.1 +14+15(+14stabdam).  I still have VK gear on me.
+Solo, I run -7.1 +14+15(+14stabdam). I still have VK gear on me.
 
 ```
-<light>       Orb of Wrath                                 -0.0 AC +1 HIT +4 STAB_DAMAGE
-<finger>      a heavy iron ring                            -0.4 AC     
-<finger2>     a man's diamond ring                         -0.0 AC +2 HIT 
-<neck>        zebra hide cloak of the fashion lords        -0.5 +3 HP      
-<neck2>       a silex collar                               -0.6 AC                      
-<body>        a suit of glowing, diamond-encrusted platemail-2.4 AC -8 MANA +10 HP +1 CHA
-<head>        a prison guard helmet                        -1.1 AC +2 HIT -1 SAVES 
-<legs>        dwarvish greaves                             -1.4 AC +1 CON +1 MV_REGEN
-<feet>        black orcskin boots                          -0.5 AC +5 MOVE 
-<hands>       a pair of onyx and diamond-studded gauntlets -0.2 +1 HIT +1 DAM           
-<arms>        sleeves of molten lava                       -0.5 AC +1 DAM +10 STAB DAM
-<shield>      shield of the black rose                     -1.1 AC 
-<about>       a grey robe                                  -0.5 400 container 
-<waist>       belt of the damned                           -0.4 AC -15 HP
-<wrist>       a crystal bracelet                           -0.0 AC +1 DAM
-<wrist2>      a black opal bracelet                        -0.0 AC +1 DAM +4 STABDAM
-<wielded>     Rogue's Dagger                               -0 AC 3D4 DIE +2 HIT +3 DAM +1 MAX_STR
-<low>         a jing-jit disk                              -0.5 AC +1 STR               
+<light> Orb of Wrath -0.0 AC +1 HIT +4 STAB_DAMAGE
+<finger> a heavy iron ring -0.4 AC 
+<finger2> a man's diamond ring -0.0 AC +2 HIT 
+<neck> zebra hide cloak of the fashion lords -0.5 +3 HP 
+<neck2> a silex collar -0.6 AC 
+<body> a suit of glowing, diamond-encrusted platemail-2.4 AC -8 MANA +10 HP +1 CHA
+<head> a prison guard helmet -1.1 AC +2 HIT -1 SAVES 
+<legs> dwarvish greaves -1.4 AC +1 CON +1 MV_REGEN
+<feet> black orcskin boots -0.5 AC +5 MOVE 
+<hands> a pair of onyx and diamond-studded gauntlets -0.2 +1 HIT +1 DAM 
+<arms> sleeves of molten lava -0.5 AC +1 DAM +10 STAB DAM
+<shield> shield of the black rose -1.1 AC 
+<about> a grey robe -0.5 400 container 
+<waist> belt of the damned -0.4 AC -15 HP
+<wrist> a crystal bracelet -0.0 AC +1 DAM
+<wrist2> a black opal bracelet -0.0 AC +1 DAM +4 STABDAM
+<wielded> Rogue's Dagger -0 AC 3D4 DIE +2 HIT +3 DAM +1 MAX_STR
+<low> a jing-jit disk -0.5 AC +1 STR 
 ```
 
-Your levels:  Th: 40 Wa: 40 Cl: 40 Ma: 36 Dr: 22 Ne: 20 Ba: 13 Mo: 11
+Your levels: Th: 40 Wa: 40 Cl: 40 Ma: 36 Dr: 22 Ne: 20 Ba: 13 Mo: 11
 
 Str: 19[17], Int: 16[16], Wis: 13[13], Dex: 18[18], Con: 18[17]
 
-I can't one-shot the stuff in skeep so I get pretty badly slaughtered in there.  It takes 2 runs to get the skels/elite wights and I can't even think about doing anything else in there.
+I can't one-shot the stuff in skeep so I get pretty badly slaughtered in there. It takes 2 runs to get the skels/elite wights and I can't even think about doing anything else in there.
 
-So... what areas should I try to learn, and what EQ should I go after?  I have -8.4 AC gear, but that's not enough of a difference to help with thick mobs and kills most of my +dam/+stabdam to switch to it.  Look at this scrub wearing a zebra-hide cloak while nearing 4x40!
+So... what areas should I try to learn, and what EQ should I go after? I have -8.4 AC gear, but that's not enough of a difference to help with thick mobs and kills most of my +dam/+stabdam to switch to it. Look at this scrub wearing a zebra-hide cloak while nearing 4x40!
 
 I'm really bad at this, help.
 
@@ -77,12 +77,12 @@ As for my suggestions to you, if you arent already doing this : use frenzy skill
 
 <div class="post" data-post-id="33351" data-author="harik" data-date="2012-06-28T18:45:08+00:00" data-subject="Re: I&#x27;m a terrible solo thief, help.">
 
-> **Dragoth wrote:**
+> <strong>Dragoth wrote:</strong>
 > You have pretty much shot yourself in the foot by choosing warrior as your secondary class, this gives you an advantage in defence (you get gear with low armor class sooner and you have more health), but is ultimately useless, as it gives you nothing in terms of damage output at these levels,
 
-That's what I was feeling.  I got ma37 in chop, and 33ma winds help some but I'm still astoundingly crunchy.  And if I hit a warrior-oriented mob I'm dead meat, they're designed around second wind with their bash-spam, I spent 4 rounds basically stunlocked then dead.   The advice I got was to dump AC in favor of +hit/+dam items, because I'm way too squishy for AC to matter anyway.  If it doesn't die in a stab+wind, I do.
+That's what I was feeling. I got ma37 in chop, and 33ma winds help some but I'm still astoundingly crunchy. And if I hit a warrior-oriented mob I'm dead meat, they're designed around second wind with their bash-spam, I spent 4 rounds basically stunlocked then dead. The advice I got was to dump AC in favor of +hit/+dam items, because I'm way too squishy for AC to matter anyway. If it doesn't die in a stab+wind, I do.
 
-I've been trying some recommended areas, leadin to dweb, derros, sky elves, infirmary - I can splork right down to the fishing landshark, but that's it.  If I can sneak past guardian, is there anything else deeper in dweb I should go for?
+I've been trying some recommended areas, leadin to dweb, derros, sky elves, infirmary - I can splork right down to the fishing landshark, but that's it. If I can sneak past guardian, is there anything else deeper in dweb I should go for?
 
 Infirmary chewed me up and spit me out, I don't have the initial damage for there, and I took something ridiculous like 800dam through sanc in one round.
 

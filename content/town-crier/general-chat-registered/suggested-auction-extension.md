@@ -18,15 +18,15 @@ To avoid spam, reduce the items desired limit to 1-3
 
 I suggest the following format:
 
-***Item Requests***
+<strong><em>Item Requests</em></strong>
 
-===============================
+\===============================
 
-Item           | Offered Price | Days elapsed | Name
+Item \| Offered Price \| Days elapsed \| Name
 
-Thunderbolt | 2,000,000     |                 5 | Anrok
+Thunderbolt \| 2,000,000 \| 5 \| Anrok
 
-=============================== 
+\=============================== 
 
 When you place an offer, an amount of cash equal to your offer is taken by an auctioneer as a deposit.
 
@@ -38,7 +38,7 @@ The reverse-auction would run for a certain ammount of time after which it will 
 
 <div class="post" data-post-id="33815" data-author="Dragoth" data-date="2012-12-05T16:49:14+00:00" data-subject="Re: Suggested Auction extension">
 
-If it's not possible to automate this suggestion due to complexity of item_name_matching, maybe we can just make a board of requested items, without any actual transactions but with an ability to leave messages for potential buyers?
+If it's not possible to automate this suggestion due to complexity of item\_name\_matching, maybe we can just make a board of requested items, without any actual transactions but with an ability to leave messages for potential buyers?
 
 auction channel, finger and title are good, but it would be nice to have a little more exposure when we are offline.
 
@@ -46,13 +46,13 @@ auction channel, finger and title are good, but it would be nice to have a littl
 
 <div class="post" data-post-id="33816" data-author="Shryker" data-date="2012-12-05T17:47:02+00:00" data-subject="Re: Suggested Auction extension">
 
-I like the premise, especially as an individual who logs on very sporadically on a daily basis.  Even if I were to put something in my title, few people would notice it before I rent again.
+I like the premise, especially as an individual who logs on very sporadically on a daily basis. Even if I were to put something in my title, few people would notice it before I rent again.
 
-Perhaps just a tweaking of the current auction system, where players can set a timeframe for how long the item that is desired is left on the boards.  At least that way, most of the scripting would stay the same, I would think, with possibly the "consign" keyword changed and a minimum bid taken out.
+Perhaps just a tweaking of the current auction system, where players can set a timeframe for how long the item that is desired is left on the boards. At least that way, most of the scripting would stay the same, I would think, with possibly the "consign" keyword changed and a minimum bid taken out.
 
-Additional piggyback suggestion - Incorporating into this imaginary system a way to have multiples of the same item be sold to a single player.  For example, this could potentially be a system where someone can post once that they are buying hex tokens at 160,000, and place a maximum of 50 tokens, and players can sell the tokens on the new system to that player through the auction house until all 50 has been purchased.  Could make building up tokens for rolling easier.
+Additional piggyback suggestion - Incorporating into this imaginary system a way to have multiples of the same item be sold to a single player. For example, this could potentially be a system where someone can post once that they are buying hex tokens at 160,000, and place a maximum of 50 tokens, and players can sell the tokens on the new system to that player through the auction house until all 50 has been purchased. Could make building up tokens for rolling easier.
 
-Also, current system is fine, and works very well for what it is intended.  This could possibly be a nifty addition if it isn't too much work.
+Also, current system is fine, and works very well for what it is intended. This could possibly be a nifty addition if it isn't too much work.
 
 Shryker
 
@@ -60,9 +60,9 @@ Shryker
 
 <div class="post" data-post-id="33817" data-author="*Breeze*" data-date="2012-12-05T19:17:50+00:00" data-subject="Re: Suggested Auction extension">
 
-This would be very difficult to do.  the auctioneer doesnt actually care about item names, it cares about item virtual numbers.
+This would be very difficult to do. the auctioneer doesnt actually care about item names, it cares about item virtual numbers.
 
-having said that, the auctioneer exports it's list of items to the website every ~10 minutes.
+having said that, the auctioneer exports it's list of items to the website every \~10 minutes.
 
 that code could easily be adapted to allow a user to ask for something and it show up on the
 
@@ -80,13 +80,13 @@ of course i can charge a fee to get listed.... hmmm
 
 <div class="post" data-post-id="33818" data-author="jezer" data-date="2012-12-05T19:32:46+00:00" data-subject="Re: Suggested Auction extension">
 
-You're all missing the real question here, what would the consignment lag be!?  :twisted:
+You're all missing the real question here, what would the consignment lag be!? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="33819" data-author="*Breeze*" data-date="2012-12-05T19:41:56+00:00" data-subject="Re: Suggested Auction extension">
 
-i am not removing consignment lag :) that's there for a reason. mainly so some idiot doesn't do
+i am not removing consignment lag <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> that's there for a reason. mainly so some idiot doesn't do
 
 a ton of consign which would spam the mud with auction messages going up and coming down.
 
@@ -98,7 +98,7 @@ message on those anyways
 
 <div class="post" data-post-id="33820" data-author="jezer" data-date="2012-12-05T20:02:31+00:00" data-subject="Re: Suggested Auction extension">
 
-With all due respect Breeze, considering the other things in the mud that "spam" - like myself on gossip, the lag to prevent - lets say 3 or 4 lines of "spam" is a little over the top. But don't change it, I enjoy making fun of it.  :) But either way I'll always find something little to have a good laugh about - that's just me. Self amusing.
+With all due respect Breeze, considering the other things in the mud that "spam" - like myself on gossip, the lag to prevent - lets say 3 or 4 lines of "spam" is a little over the top. But don't change it, I enjoy making fun of it. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> But either way I'll always find something little to have a good laugh about - that's just me. Self amusing.
 
 </div>
 
@@ -108,7 +108,7 @@ I think any application of this idea whatsoever could be interesting, Breeze.
 
 As for the consignment lag, it makes sense to me, albeit the cases where it makes a difference are likely few and far between.
 
-When I was rolling, I usually acquired at least 20-30 tokens before heading off to roll away.  I'm sure many players accumulate far more, especially if their current stats are more than decent.  If that "amazing" roll happens in the first half dozen rolls, and another 100 tokens are sitting in their inventory that they originally planned on blowing through, it would be far to easy to spam those into the auction house without a consignment lag.
+When I was rolling, I usually acquired at least 20-30 tokens before heading off to roll away. I'm sure many players accumulate far more, especially if their current stats are more than decent. If that "amazing" roll happens in the first half dozen rolls, and another 100 tokens are sitting in their inventory that they originally planned on blowing through, it would be far to easy to spam those into the auction house without a consignment lag.
 
 Other than that, it likely is not usually a problem, but I can see why it is in place.
 
@@ -124,13 +124,13 @@ glad someone does.
 
 <div class="post" data-post-id="33823" data-author="jezer" data-date="2012-12-05T21:52:38+00:00" data-subject="Re: Suggested Auction extension">
 
-Breeze had to wait 10mins before he could make that post!  :lol:  8)
+Breeze had to wait 10mins before he could make that post! <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="33824" data-author="*Breeze*" data-date="2012-12-05T22:05:41+00:00" data-subject="Re: Suggested Auction extension">
 
-half true. i  have a ton of patience but a nasty temper
+half true. i have a ton of patience but a nasty temper
 
 </div>
 
@@ -150,7 +150,7 @@ On the topic, any way you can implement my idea would be extremely helpful to ev
 
 <div class="post" data-post-id="33826" data-author="jezer" data-date="2012-12-06T09:16:58+00:00" data-subject="Re: Suggested Auction extension">
 
-At least the consignment lag is shorter than Dragoth's whining about whiners!  :twisted:
+At least the consignment lag is shorter than Dragoth's whining about whiners! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -164,11 +164,11 @@ I think it could be solved by postponing auction end to be at least 6-12 hours l
 
 <div class="post" data-post-id="33829" data-author="Shryker" data-date="2012-12-06T17:43:37+00:00" data-subject="Re: Suggested Auction extension">
 
-Well, gor, when it comes to last minute bidding on items in the auction house, the increase in bids are usually by very small amounts.  At that point, it isn't about who is willing to offer more, it is about who is paying the most attention to the auction and manages to get the last bid in.
+Well, gor, when it comes to last minute bidding on items in the auction house, the increase in bids are usually by very small amounts. At that point, it isn't about who is willing to offer more, it is about who is paying the most attention to the auction and manages to get the last bid in.
 
-Putting in a lag that extends the auction by any margin of time longer than a minute or two would be ridiculous IMHO.  Imagine waiting to sell an item, thinking it was going to end that night because it already has a bid, and coming back the next day seeing it still have 8 hours remaining, and the total amount bid has gone up by 3 gold.
+Putting in a lag that extends the auction by any margin of time longer than a minute or two would be ridiculous IMHO. Imagine waiting to sell an item, thinking it was going to end that night because it already has a bid, and coming back the next day seeing it still have 8 hours remaining, and the total amount bid has gone up by 3 gold.
 
-If a postponing feature were to be put in longer than a minute or two, then an minimum increase would also have to be put in (say a minimum of 5% increase of current bid to place a higher bid), to at least keep the auction moving.  You can postpone an auction indefinitely, but if a 10 million gold item is moving up one coin at a time in the hopes of snagging it at a lower total, then it can take months for that items to sell.
+If a postponing feature were to be put in longer than a minute or two, then an minimum increase would also have to be put in (say a minimum of 5% increase of current bid to place a higher bid), to at least keep the auction moving. You can postpone an auction indefinitely, but if a 10 million gold item is moving up one coin at a time in the hopes of snagging it at a lower total, then it can take months for that items to sell.
 
 Just my two cents.
 
@@ -178,7 +178,7 @@ Shryker
 
 <div class="post" data-post-id="33830" data-author="gor" data-date="2012-12-06T18:01:56+00:00" data-subject="Re: Suggested Auction extension">
 
-> **Shryker wrote:**
+> <strong>Shryker wrote:</strong>
 > .....
 > 
 > If a postponing feature were to be put in longer than a minute or two, then an minimum increase would also have to be put in (say a minimum of 5% increase of current bid to place a higher bid), to at least keep the auction moving.

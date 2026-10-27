@@ -18,8 +18,8 @@ Mass Reign of the Spider.
 
 <div class="post" data-post-id="17307" data-author="Autolycos" data-date="2007-03-16T15:10:48+00:00" data-subject="">
 
-[url:1ovk39xy]http://www.glumbert.com/media/spiders[/url:1ovk39xy]
+http://www.glumbert.com/media/spiders
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

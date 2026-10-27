@@ -12,19 +12,19 @@ post_count: 56
 
 <div class="post" data-post-id="24814" data-author="PolkAdotS" data-date="2008-06-10T02:45:28+00:00" data-subject="Request for Immortal Staff">
 
-I am asking if someone with access to the LOGS from SlothMUD can go back into looking at them to when I was running my 5x40 assassin char and stabbing with a holy-dagger of enea.  I'm curious how much damage I had landed using that retort iocaine from the Melvire quest.  I think I even hit an excruciating blow during that run, grouped wielding it.  I'm only curious about the damage Polk used to be able to do.  Holy dagger at max-dam stab == what for polk?  You probably won't reply straightforwardly and I accept that in advance... I'm actually just bragging anyway (to who-ever can see the logs from those stabs and/or that group, from some evening in March or Febuary).  Thanks.
+I am asking if someone with access to the LOGS from SlothMUD can go back into looking at them to when I was running my 5x40 assassin char and stabbing with a holy-dagger of enea. I'm curious how much damage I had landed using that retort iocaine from the Melvire quest. I think I even hit an excruciating blow during that run, grouped wielding it. I'm only curious about the damage Polk used to be able to do. Holy dagger at max-dam stab == what for polk? You probably won't reply straightforwardly and I accept that in advance... I'm actually just bragging anyway (to who-ever can see the logs from those stabs and/or that group, from some evening in March or Febuary). Thanks.
 
 Respectfully Yours,
 
-Polk -a- DoT :idea: 
+Polk -a- DoT <img src="/images/smilies/icon_idea.svg" alt=":idea:" title=":idea:" width="15" height="15" class="smiley nozoom"> 
 
- :arrow:
+ <img src="/images/smilies/icon_arrow.svg" alt=":arrow:" title=":arrow:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="24815" data-author="Avatar" data-date="2008-06-10T03:12:49+00:00" data-subject="Heya">
 
-Polk!  Bad time for you to be leaving, just when I was coming back.  I hope to be online a bit more the next couple weeks.  Well, I missed the whole drama but I can say for sure that this doesn't really matter all that much.  It's a game, it's a fun game with good people playing it, but it's still all a game.  Don't let it get you down.  I'd say take a break from it, relax, and come back when you're ready to deal with it on your own terms.  I hope you're doing well with that stuff outside of Sloth, you know the work and the school and the life and all that...
+Polk! Bad time for you to be leaving, just when I was coming back. I hope to be online a bit more the next couple weeks. Well, I missed the whole drama but I can say for sure that this doesn't really matter all that much. It's a game, it's a fun game with good people playing it, but it's still all a game. Don't let it get you down. I'd say take a break from it, relax, and come back when you're ready to deal with it on your own terms. I hope you're doing well with that stuff outside of Sloth, you know the work and the school and the life and all that...
 
 Charles
 
@@ -32,19 +32,19 @@ Charles
 
 <div class="post" data-post-id="24816" data-author="PolkAdotS" data-date="2008-06-10T03:17:21+00:00" data-subject="">
 
-:(  Hey Play-Dough... In truth I can't actually afford this semester at school and they won't allow me to get loans again until I've paid my own way a semester.  So I'm focusing on getting myself employed a.s.a.p. . I'm not exactly trolling the web-site (thus not exactly Tap ((moron)) but happy), just kind of hanging out listening to David Dyie. Reply? :)
+<img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom"> Hey Play-Dough... In truth I can't actually afford this semester at school and they won't allow me to get loans again until I've paid my own way a semester. So I'm focusing on getting myself employed a.s.a.p. . I'm not exactly trolling the web-site (thus not exactly Tap ((moron)) but happy), just kind of hanging out listening to David Dyie. Reply? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="24817" data-author="PolkAdotS" data-date="2008-06-10T03:23:35+00:00" data-subject="">
 
-:cry: Charles rented looks like.  Horray for live info.
+<img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> Charles rented looks like. Horray for live info.
 
 </div>
 
 <div class="post" data-post-id="24818" data-author="Yasik2" data-date="2008-06-10T03:30:38+00:00" data-subject="">
 
-[img:1b8bqxdm]http://yasik.kiev.ua/4chan/Oh_Shit_Not_Again.jpg[/img:1b8bqxdm]
+![](http://yasik.kiev.ua/4chan/Oh_Shit_Not_Again.jpg)
 
 </div>
 
@@ -56,19 +56,19 @@ Show me your face kitty bet my Holy Dagger of Enea stab will finish you. Yeah...
 
 <div class="post" data-post-id="24821" data-author="Yinao" data-date="2008-06-10T04:22:24+00:00" data-subject="Request for Polk to leave....">
 
-:shock: Who cares if you used Enea's holy dagger to spoon yourself...
+<img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> Who cares if you used Enea's holy dagger to spoon yourself...
 
 </div>
 
 <div class="post" data-post-id="24822" data-author="PolkAdotS" data-date="2008-06-10T04:46:19+00:00" data-subject="">
 
-You know.  I have, and pay for internet access, the same as you Yinao.  Don't act like what comes out of your intestines smells any better than anyone else's.  Permission is not necessary for me to log here anytime and voice my opinion.  I request, myself in simple... completely understandable words, that you just leave the issue alone please.  If you feel as though I've electronically wronged you, tell me how it has occured and I will apologize to you.  However this being a web-thread I believe that in order for any apology to occur you would simply have to post here what I ever did to offend you.  Mr. Yinao, with respect please if you've got a problem let it be known or step off.
+You know. I have, and pay for internet access, the same as you Yinao. Don't act like what comes out of your intestines smells any better than anyone else's. Permission is not necessary for me to log here anytime and voice my opinion. I request, myself in simple... completely understandable words, that you just leave the issue alone please. If you feel as though I've electronically wronged you, tell me how it has occured and I will apologize to you. However this being a web-thread I believe that in order for any apology to occur you would simply have to post here what I ever did to offend you. Mr. Yinao, with respect please if you've got a problem let it be known or step off.
 
 </div>
 
 <div class="post" data-post-id="24823" data-author="PolkAdotS" data-date="2008-06-10T05:20:03+00:00" data-subject="">
 
-Krom and Jake, please check @slothmud.org domain e-mails for my final reply to this madness simply for the two of you.  I will continue to check this page at my leisure because I can.
+Krom and Jake, please check @slothmud.org domain e-mails for my final reply to this madness simply for the two of you. I will continue to check this page at my leisure because I can.
 
 </div>
 
@@ -80,29 +80,29 @@ You had the same chance as everyone else before the change in code went in to fi
 
 <div class="post" data-post-id="24825" data-author="PolkAdotS" data-date="2008-06-10T05:55:44+00:00" data-subject="">
 
-Hey, random player of internet based role playing.  I could expect grudges to be left behind.  For you Yinao, I then change my request for a stab/log report of 1 full hit doublestab to a full re-imb, and a MUD RP based restraining order for the time to get my scarab, and other damage eq back into use on my character.  And, simply because you speak (as my gpa but not IQ reflects) so eloquently for I would request this to be a ONE TIME ONLY re-imb simply to allow me  :arrow: Polk, to stab any given number of MOB (mobiles) to calculate my exact damage when Gumbi's re-imb gets Polk's items which were on that character back into Polk's use.  Then, we can talk about damage ratios and what-not.  Even after I feel I have reached a maximum stab ability and have calculated the _exact_ hp-drop on mobs from my stabs.  I will quit outright unless deemed un-wise by the 1200+ views on my (Sorry guys, I quit) thread which had been locked.  I suggest locking this also Krom.  Please check your e-mail, Krom and Jake, as I had asked.
+Hey, random player of internet based role playing. I could expect grudges to be left behind. For you Yinao, I then change my request for a stab/log report of 1 full hit doublestab to a full re-imb, and a MUD RP based restraining order for the time to get my scarab, and other damage eq back into use on my character. And, simply because you speak (as my gpa but not IQ reflects) so eloquently for I would request this to be a ONE TIME ONLY re-imb simply to allow me <img src="/images/smilies/icon_arrow.svg" alt=":arrow:" title=":arrow:" width="15" height="15" class="smiley nozoom"> Polk, to stab any given number of MOB (mobiles) to calculate my exact damage when Gumbi's re-imb gets Polk's items which were on that character back into Polk's use. Then, we can talk about damage ratios and what-not. Even after I feel I have reached a maximum stab ability and have calculated the \_exact\_ hp-drop on mobs from my stabs. I will quit outright unless deemed un-wise by the 1200+ views on my (Sorry guys, I quit) thread which had been locked. I suggest locking this also Krom. Please check your e-mail, Krom and Jake, as I had asked.
 
-Mr. -a- dot    (John)
+Mr. -a- dot (John)
 
 </div>
 
 <div class="post" data-post-id="24826" data-author="Yinao" data-date="2008-06-10T05:57:42+00:00" data-subject="Rejected...">
 
-:roll:
+<img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
-[img:2puomozt]http://www.420cats.com/wp-content/uploads/2007/08/thisguy.jpg[/img:2puomozt]
+![](http://www.420cats.com/wp-content/uploads/2007/08/thisguy.jpg)
 
 </div>
 
 <div class="post" data-post-id="24827" data-author="PolkAdotS" data-date="2008-06-10T06:11:20+00:00" data-subject="">
 
-Who?  You or the young-lady you finally got together with?  Or both? :oops: I'm just joking with you man, get it together... It isn't like we weren't civil to one another, once upon a time.  I would consider most everyone within the frameworks of this domain friends, because I really haven't gone haywire all over the crier here as many many have done.  Look at Tap, he's posted over 400 times (or thereabouts, I don't know because I'm not paying attention to him) and I am at 25 or 30, or so since May or whenever Gumbi's login p-word was lost with the e-mail address I had registered the name with was deleted.  At least go to the effort of crosschecking my post counts.  Polk has an account, posted 4 or 5 before I forgot the password.  Gumbi has one, I think I even got 15 out of that one before forgetting to write down the password.  This (PolkADots) has however many at this point.  Therefore, I am not exactly a big-bad spammer, nor am I wearing any types of red-cape over this matter.  Please just let it go at that man.
+Who? You or the young-lady you finally got together with? Or both? <img src="/images/smilies/icon_redface.svg" alt=":oops:" title=":oops:" width="15" height="15" class="smiley nozoom"> I'm just joking with you man, get it together... It isn't like we weren't civil to one another, once upon a time. I would consider most everyone within the frameworks of this domain friends, because I really haven't gone haywire all over the crier here as many many have done. Look at Tap, he's posted over 400 times (or thereabouts, I don't know because I'm not paying attention to him) and I am at 25 or 30, or so since May or whenever Gumbi's login p-word was lost with the e-mail address I had registered the name with was deleted. At least go to the effort of crosschecking my post counts. Polk has an account, posted 4 or 5 before I forgot the password. Gumbi has one, I think I even got 15 out of that one before forgetting to write down the password. This (PolkADots) has however many at this point. Therefore, I am not exactly a big-bad spammer, nor am I wearing any types of red-cape over this matter. Please just let it go at that man.
 
 </div>
 
 <div class="post" data-post-id="24828" data-author="Yinao" data-date="2008-06-10T06:36:06+00:00" data-subject="Failure...">
 
-[img:2u8ovexc]http://thelolcats.com/pics/fail.jpg[/img:2u8ovexc]
+![](http://thelolcats.com/pics/fail.jpg)
 
 </div>
 
@@ -110,11 +110,13 @@ Who?  You or the young-lady you finally got together with?  Or both? :oops: I'm 
 
 PolkAdotS wrote:
 
-[quote:cyejmmct]In truth I can't actually afford this semester at school and they won't allow me to get loans again until I've paid my own way a semester. So I'm focusing on getting myself employed a.s.a.p. [/quote:cyejmmct]
+> <strong>Quote:</strong>
+> In truth I can't actually afford this semester at school and they won't allow me to get loans again until I've paid my own way a semester. So I'm focusing on getting myself employed a.s.a.p.
 
 Guess you could go be "popular" are your local truckstop
 
-[quote:cyejmmct]just kind of hanging out[/quote:cyejmmct]
+> <strong>Quote:</strong>
+> just kind of hanging out
 
 Yeah, you should...
 
@@ -126,17 +128,18 @@ Certainly
 
 <div class="post" data-post-id="24835" data-author="Weasel" data-date="2008-06-10T13:46:24+00:00" data-subject="">
 
-Polk I'd be very [i:b2n3b24h]very[/i:b2n3b24h] surprised if an immort would have the time or the inclination to go back through thousands of logs to some log date as vague as "[i:b2n3b24h]from some evening in March or Febuary[/i:b2n3b24h]" to tell you what your stab dam was on a char that you have requested be wiped. Heck, I can't even get a reply to a very basic email question about relocating a vault, LOL, so good luck, but I certainly wouldn't suggest holding your breath expecting a reply.
+Polk I'd be very <em>very</em> surprised if an immort would have the time or the inclination to go back through thousands of logs to some log date as vague as "<em>from some evening in March or Febuary</em>" to tell you what your stab dam was on a char that you have requested be wiped. Heck, I can't even get a reply to a very basic email question about relocating a vault, LOL, so good luck, but I certainly wouldn't suggest holding your breath expecting a reply.
 
 </div>
 
 <div class="post" data-post-id="24836" data-author="Yasik2" data-date="2008-06-10T14:17:22+00:00" data-subject="">
 
-Krom and Jake, please check @slothmud.org domain e-mails for my final reply to this madness[/color:pudmx4uh]...[/quote:pudmx4uh]
+> <strong>PolkAdotS wrote:</strong>
+> Krom and Jake, please check @slothmud.org domain e-mails for my final reply to this madness...
 
 Madness, you say?
 
-[img:pudmx4uh]http://yasik.kiev.ua/Cant_Stop_Here_Spartaaa.jpg[/img:pudmx4uh]
+![](http://yasik.kiev.ua/Cant_Stop_Here_Spartaaa.jpg)
 
 </div>
 
@@ -148,7 +151,7 @@ Hey, Yinao, I know what that cat with the collar is thinking... I'll remember yo
 
 <div class="post" data-post-id="24862" data-author="Autolycos" data-date="2008-06-11T03:24:26+00:00" data-subject="">
 
-[img:2l7du2d4]http://www.xgenco.com/stuff/GayThread.jpg[/img:2l7du2d4]
+![](http://www.xgenco.com/stuff/GayThread.jpg)
 
 </div>
 
@@ -160,7 +163,7 @@ LOL, that kid has more leg muscle than Hasselhoff! Look at those toothpick legs 
 
 <div class="post" data-post-id="24867" data-author="PolkAdotS" data-date="2008-06-11T07:07:07+00:00" data-subject="">
 
-Hi, I'm autolycos, I have +4 ac but +27 to hit and +28 damage with maxed stabdam.  I cheated buying thieves pouch and white-bag with a newbie and sold all my drachma eq for 2 razors.  I only have 250 maxmana in full ac and 324 in full regen at +65mr max.  +74 in dreams or any of the Pirate vaults Atwell mostly paid for but I bragged profusely about.  My maxhp and weapon dam combine to a whopping 1043 maxhp and +12 weapondam and I'm soooo pissed that I just can't seem to stab with my weapon dam anymore.  At least I still have my max stab-dam though.  Congradulations on your sell-out character.
+Hi, I'm autolycos, I have +4 ac but +27 to hit and +28 damage with maxed stabdam. I cheated buying thieves pouch and white-bag with a newbie and sold all my drachma eq for 2 razors. I only have 250 maxmana in full ac and 324 in full regen at +65mr max. +74 in dreams or any of the Pirate vaults Atwell mostly paid for but I bragged profusely about. My maxhp and weapon dam combine to a whopping 1043 maxhp and +12 weapondam and I'm soooo pissed that I just can't seem to stab with my weapon dam anymore. At least I still have my max stab-dam though. Congradulations on your sell-out character.
 
 </div>
 
@@ -178,29 +181,30 @@ Can someone on the immortal staff go back to around Dec 3rd of last year, maybe 
 
 <div class="post" data-post-id="24875" data-author="Yasik2" data-date="2008-06-11T09:10:02+00:00" data-subject="">
 
-[img:3dzwppkg]http://yasik.kiev.ua/4chan/Thread_Direction.gif[/img:3dzwppkg]
+![](http://yasik.kiev.ua/4chan/Thread_Direction.gif)
 
 </div>
 
 <div class="post" data-post-id="24878" data-author="Autolycos" data-date="2008-06-11T09:26:06+00:00" data-subject="">
 
-Congradulations on your sell-out character.[/quote:cqltupmj]
+> <strong>PolkAdotS wrote:</strong>
+> Congradulations on your sell-out character.
 
-btw you fucktard, if you want start this, you better have your facts straight.  its  -5.1ac, +26hit, +28dam, +28stabdam & +9weapondam. I can understand your jealousy as a lesser newbie thief, since you pissed everything away by being an idiot.  
+btw you fucktard, if you want start this, you better have your facts straight. its -5.1ac, +26hit, +28dam, +28stabdam \& +9weapondam. I can understand your jealousy as a lesser newbie thief, since you pissed everything away by being an idiot. 
 
-I didnt sell all my drach eq and Atwell did NOT buy my vaults,  nice try. 
+I didnt sell all my drach eq and Atwell did NOT buy my vaults, nice try. 
 
 I had already built most of my palaces before he was even selected as a pirate. 
 
-If you really want to be such an ignorant moron, please go right ahead, but do us a favor and hang yourself, because natural selection seems to have failed removing you from our gene pool.   I have no more time to waste on you, good day.
+If you really want to be such an ignorant moron, please go right ahead, but do us a favor and hang yourself, because natural selection seems to have failed removing you from our gene pool. I have no more time to waste on you, good day.
 
-btw,  how are Apollo's nekode doing?
+btw, how are Apollo's nekode doing?
 
 </div>
 
 <div class="post" data-post-id="24879" data-author="Yasik2" data-date="2008-06-11T09:52:24+00:00" data-subject="">
 
-[img:1tn7w1uu]http://yasik.kiev.ua/Auto_Avatar_Stephanie_wig.jpg[/img:1tn7w1uu]
+![](http://yasik.kiev.ua/Auto_Avatar_Stephanie_wig.jpg)
 
 </div>
 
@@ -218,7 +222,8 @@ that guy on the right looks like Bill Gates
 
 <div class="post" data-post-id="24885" data-author="Autolycos" data-date="2008-06-11T14:51:46+00:00" data-subject="Re: Auto and Bill Gates playing dress up">
 
-that guy on the right looks like Bill Gates[/quote:1c95xfkh]
+> <strong>juggleblood wrote:</strong>
+> that guy on the right looks like Bill Gates
 
 awww thats not nice.... 
 
@@ -228,11 +233,12 @@ Charles is much cooler then Bill Gates....
 
 <div class="post" data-post-id="24889" data-author="Yasik2" data-date="2008-06-11T16:01:18+00:00" data-subject="Re: Auto and Bill Gates playing dress up">
 
-that guy on the right looks like Bill Gates[/quote:3gb4cv3q]
+> <strong>juggleblood wrote:</strong>
+> that guy on the right looks like Bill Gates
 
 haha! Auto's hangin out with Bill Gaets!
 
-THIS IS MADNESS!!!  :D  :D  :D
+THIS IS MADNESS!!! <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -250,27 +256,28 @@ this shit is lol
 
 <div class="post" data-post-id="24911" data-author="PolkAdotS" data-date="2008-06-12T04:02:02+00:00" data-subject="">
 
-No wait, that might verywell be Bill Gates.  Weird.  Auto you know I never liked you... don't sell yourself short and SIT UP STRAIGHT WHEN YOU SIT NEXT TO BILL GATES!
+No wait, that might verywell be Bill Gates. Weird. Auto you know I never liked you... don't sell yourself short and SIT UP STRAIGHT WHEN YOU SIT NEXT TO BILL GATES!
 
-I ran -10 +18 tohit +26 damage and +18 stabdam, nayea neyah.. Of course if I had admittedly spent a retarded amount of time trying to get 2200 drachma AND tried to get any Autoquest info from ANYONE who had it, I'd be able to buy 100 palaces compared to your, 4?  For your record Auto, and that if I were to spend quote "retarded amount of time" on 2200 drachma I could have +28 -9, 1k hp and 520 running mana, same stabdam.  Of course I pissed away eq, instead of months and months of time running gold when my drach mobs were down.  Call him a... well call him whatever I still think you're a moron.
+I ran -10 +18 tohit +26 damage and +18 stabdam, nayea neyah.. Of course if I had admittedly spent a retarded amount of time trying to get 2200 drachma AND tried to get any Autoquest info from ANYONE who had it, I'd be able to buy 100 palaces compared to your, 4? For your record Auto, and that if I were to spend quote "retarded amount of time" on 2200 drachma I could have +28 -9, 1k hp and 520 running mana, same stabdam. Of course I pissed away eq, instead of months and months of time running gold when my drach mobs were down. Call him a... well call him whatever I still think you're a moron.
 
- :arrow:
+ <img src="/images/smilies/icon_arrow.svg" alt=":arrow:" title=":arrow:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="24914" data-author="Yinao" data-date="2008-06-12T04:33:54+00:00" data-subject="Polk Is A.............................">
 
-[b:1yovjh3x][u:1yovjh3x]POLK IS.............[/size:1yovjh3x][/color:1yovjh3x][/b:1yovjh3x][/u:1yovjh3x]
+<strong>POLK IS.............</strong>
 
-[img:1yovjh3x]http://www.funnydesigns.com/blog/uploaded_images/undocumented-wanker-755461.gif[/img:1yovjh3x]
+![](http://www.funnydesigns.com/blog/uploaded_images/undocumented-wanker-755461.gif)
 
- :twisted:  :twisted:  :twisted:  :twisted:  :twisted:  :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="24915" data-author="Yasik2" data-date="2008-06-12T04:35:52+00:00" data-subject="">
 
-wtf? retard.[/quote:2a91k5o0]
+> <strong>Weasel wrote:</strong>
+> wtf? retard.
 
 who are you adressing to?
 
@@ -278,25 +285,27 @@ who are you adressing to?
 
 <div class="post" data-post-id="24916" data-author="PolkAdotS" data-date="2008-06-12T05:55:40+00:00" data-subject="">
 
-Uhm, Yinao if only I could add photos to this.  I could cruise Yahoo pictures all night waiting until I could find the perfect thing.  Or drop all my personal type opinions into a photobucket account (thanks for the info Althalus) just to make someone feel dumb (not me, you numbnuts) however I am a very Identifiable person... also, Wanker is not exactly preferred, however might be suitable in your case considering that you're Druid opposed to being Monk class with slowfall who could actually be Tossed down the Idol Ledge.  Up next, more stupid comments from Yinao trying to be cool. Adios :arrow:
+Uhm, Yinao if only I could add photos to this. I could cruise Yahoo pictures all night waiting until I could find the perfect thing. Or drop all my personal type opinions into a photobucket account (thanks for the info Althalus) just to make someone feel dumb (not me, you numbnuts) however I am a very Identifiable person... also, Wanker is not exactly preferred, however might be suitable in your case considering that you're Druid opposed to being Monk class with slowfall who could actually be Tossed down the Idol Ledge. Up next, more stupid comments from Yinao trying to be cool. Adios <img src="/images/smilies/icon_arrow.svg" alt=":arrow:" title=":arrow:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="24919" data-author="Yinao" data-date="2008-06-12T08:55:15+00:00" data-subject="WANKER ALERT!!">
 
-Uhm, Yinao if only I could add photos to this.  I could cruise Yahoo pictures all night waiting until I could find the perfect thing.  Or drop all my personal type opinions into a photobucket account (thanks for the info Althalus) just to make someone feel dumb (not me, you numbnuts) however [b:f3nlko20][u:f3nlko20]I am a very Identifiable person[/b:f3nlko20][/u:f3nlko20]... also, Wanker is not exactly preferred, however might be suitable in your case considering that you're Druid opposed to being Monk class with slowfall who could actually be Tossed down the Idol Ledge.  Up next, more stupid comments from Yinao trying to be cool. Adios :arrow:[/quote:f3nlko20]
+> <strong>PolkAdotS wrote:</strong>
+> Uhm, Yinao if only I could add photos to this. I could cruise Yahoo pictures all night waiting until I could find the perfect thing. Or drop all my personal type opinions into a photobucket account (thanks for the info Althalus) just to make someone feel dumb (not me, you numbnuts) however <strong>I am a very Identifiable person</strong>... also, Wanker is not exactly preferred, however might be suitable in your case considering that you're Druid opposed to being Monk class with slowfall who could actually be Tossed down the Idol Ledge. Up next, more stupid comments from Yinao trying to be cool. Adios <img src="/images/smilies/icon_arrow.svg" alt=":arrow:" title=":arrow:" width="15" height="15" class="smiley nozoom">
 
-For damn sure, we can smell ya coming in the bullshit you type on this crier :)
+For damn sure, we can smell ya coming in the bullshit you type on this crier <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="24920" data-author="brady" data-date="2008-06-12T12:00:27+00:00" data-subject="">
 
-I ran -10 +18 tohit +26 damage and +18 stabdam, nayea neyah.. Of course if I had admittedly spent a retarded amount of time trying to get 2200 drachma AND tried to get any Autoquest info from ANYONE who had it, I'd be able to buy 100 palaces compared to your, 4?  For your record Auto, and that if I were to spend quote "retarded amount of time" on 2200 drachma I could have +28 -9, 1k hp and 520 running mana, same stabdam.  Of course I pissed away eq, instead of months and months of time running gold when my drach mobs were down.  Call him a... well call him whatever I still think you're a moron.
+> <strong>PolkAdotS wrote:</strong>
+> I ran -10 +18 tohit +26 damage and +18 stabdam, nayea neyah.. Of course if I had admittedly spent a retarded amount of time trying to get 2200 drachma AND tried to get any Autoquest info from ANYONE who had it, I'd be able to buy 100 palaces compared to your, 4? For your record Auto, and that if I were to spend quote "retarded amount of time" on 2200 drachma I could have +28 -9, 1k hp and 520 running mana, same stabdam. Of course I pissed away eq, instead of months and months of time running gold when my drach mobs were down. Call him a... well call him whatever I still think you're a moron.
+> 
+> <img src="/images/smilies/icon_arrow.svg" alt=":arrow:" title=":arrow:" width="15" height="15" class="smiley nozoom">
 
- :arrow:[/quote:3r93ud66]
-
-You sound so pathetic...so lonely.  Poor thing.
+You sound so pathetic...so lonely. Poor thing.
 
 And they are Pirate vaults with capped regen on each cont...go eat some balls.
 
@@ -304,15 +313,18 @@ And they are Pirate vaults with capped regen on each cont...go eat some balls.
 
 <div class="post" data-post-id="24921" data-author="Autolycos" data-date="2008-06-12T12:35:53+00:00" data-subject="">
 
-You sound so pathetic...so lonely.  Poor thing.
-
-And they are Pirate vaults with capped regen on each cont...go eat some balls.[/quote:1fvgradj]
+> <strong>brady wrote:</strong>
+> You sound so pathetic...so lonely. Poor thing.
+> 
+> 
+> 
+> And they are Pirate vaults with capped regen on each cont...go eat some balls.
 
 lmfao.
 
-yeah.. John,  I really don't give a shit who likes me or not and I never will.  I'm not a drama whore like you.  
+yeah.. John, I really don't give a shit who likes me or not and I never will. I'm not a drama whore like you. 
 
-Being that said, the only consistant problem in all of these threads are that you dont like anyone and no-one likes your whining.  Q.E.D.
+Being that said, the only consistant problem in all of these threads are that you dont like anyone and no-one likes your whining. Q.E.D.
 
 </div>
 
@@ -324,13 +336,14 @@ Brady, Autolycos, shut up.
 
 <div class="post" data-post-id="24924" data-author="PolkAdotS" data-date="2008-06-12T15:59:34+00:00" data-subject="">
 
-By the way, I never thanked you all for showing as much interest in the actual Why to my quitting when I posted the good-day to you Sloth thread.  1,200 views isn't bad, even if Tap is an A-hole.  So, thanks again... It was fun these past 7 or 8 years, oh.. get a life.
+By the way, I never thanked you all for showing as much interest in the actual Why to my quitting when I posted the good-day to you Sloth thread. 1,200 views isn't bad, even if Tap is an A-hole. So, thanks again... It was fun these past 7 or 8 years, oh.. get a life.
 
 </div>
 
 <div class="post" data-post-id="24928" data-author="Yinao" data-date="2008-06-12T21:18:28+00:00" data-subject="I change Polks subjects because he hates it thread. :)">
 
-By the way, I never thanked you all for showing as much interest in the actual Why to my quitting when I posted the good-day to you Sloth thread.  1,200 views isn't bad, even if Tap is an A-hole.  So, thanks again... It was fun these past 7 or 8 years, oh.. get a life.[/quote:2ral5xsw]
+> <strong>PolkAdotS wrote:</strong>
+> By the way, I never thanked you all for showing as much interest in the actual Why to my quitting when I posted the good-day to you Sloth thread. 1,200 views isn't bad, even if Tap is an A-hole. So, thanks again... It was fun these past 7 or 8 years, oh.. get a life.
 
 What you failed to notice was 1100 of those views were tap hoping someone responded or added to one of his posts.... Wouldn't want you getting too high on yourself, I'd hate to see someone near the top, trip and fall all the way down the mountain, get what I'm saying?
 
@@ -340,7 +353,7 @@ What you failed to notice was 1100 of those views were tap hoping someone respon
 
 Nah it was me - my finger had an epileptic fit and kept refreshing the page. Sorry.
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -354,9 +367,10 @@ Make a new char and I'll help equip you.
 
 <div class="post" data-post-id="24934" data-author="Weasel" data-date="2008-06-13T02:17:22+00:00" data-subject="">
 
-The offer still stands PolkAdotS. 
-
-Make a new char and I'll help equip you.[/quote:1gaqcsty]
+> <strong>Tap wrote:</strong>
+> The offer still stands PolkAdotS. 
+> 
+> Make a new char and I'll help equip you.
 
 Yeah I can see it now - leather pants, leather cap, leather gloves, leather boots etc etc, and of course you'll have to name your new char 'Gimp'.
 
@@ -364,21 +378,22 @@ Yeah I can see it now - leather pants, leather cap, leather gloves, leather boot
 
 <div class="post" data-post-id="24935" data-author="Yinao" data-date="2008-06-13T04:15:20+00:00" data-subject="">
 
-Leathers + Gimp = PolkAdotS, fitting  :shock:
+Leathers + Gimp = PolkAdotS, fitting <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="24940" data-author="Yasik2" data-date="2008-06-13T13:50:26+00:00" data-subject="">
 
-Yeah I can see it now - leather pants, leather cap, leather gloves, leather boots etc etc, and of course you'll have to name your new char 'Gimp'.[/quote:o3z8zg3n]
+> <strong>Weasel wrote:</strong>
+> Yeah I can see it now - leather pants, leather cap, leather gloves, leather boots etc etc, and of course you'll have to name your new char 'Gimp'.
 
-[img:o3z8zg3n]http://yasik.kiev.ua/HardGay.jpg[/img:o3z8zg3n]
+![](http://yasik.kiev.ua/HardGay.jpg)
 
 </div>
 
 <div class="post" data-post-id="24943" data-author="PolkAdotS" data-date="2008-06-13T14:56:33+00:00" data-subject="">
 
-Hey Yinao, I wasn't so fortunate to have people automatically supporting me as a newbie.  Valk didn't exist when I started.  I picked up tufts of fur and sapphire dusts to start getting gold.  I paid 5mil for v-plates and it was about all I had.  I got jipped out of a gimlet in my first quest on sloth3 and Linsey traded me one, or sold it to me or something.  Way before the cinq even.  Some asshole who already had one and called it for "a storage char that's leveling" got the gimlet 2 persons before my call.  So, this "get my drift?" and "I'll help you re-equip a new char..." shit can float.  Forget it, I can re-equip any class char I wish but I'm really just not interested in spending another 7 years watching 5x40's get their asses kicked by mobs from the seat of a level 25 20 17 5.  So shaddup.  Assholes.  By the way, I somehow doubt it was Tap and/or super-refresh-mode.  Gotta go now, take care.
+Hey Yinao, I wasn't so fortunate to have people automatically supporting me as a newbie. Valk didn't exist when I started. I picked up tufts of fur and sapphire dusts to start getting gold. I paid 5mil for v-plates and it was about all I had. I got jipped out of a gimlet in my first quest on sloth3 and Linsey traded me one, or sold it to me or something. Way before the cinq even. Some asshole who already had one and called it for "a storage char that's leveling" got the gimlet 2 persons before my call. So, this "get my drift?" and "I'll help you re-equip a new char..." shit can float. Forget it, I can re-equip any class char I wish but I'm really just not interested in spending another 7 years watching 5x40's get their asses kicked by mobs from the seat of a level 25 20 17 5. So shaddup. Assholes. By the way, I somehow doubt it was Tap and/or super-refresh-mode. Gotta go now, take care.
 
 </div>
 
@@ -390,19 +405,20 @@ Why do you keep coming back here and calling everyone assholes if you're not int
 
 <div class="post" data-post-id="24946" data-author="PolkAdotS" data-date="2008-06-13T15:30:19+00:00" data-subject="">
 
-Read between the lines or something Weasel.  When did I "abuse us yo?"  Question of the century I suppose.  I understand being "support" from others here and did you also miss the part where I returned and thanked people for paying attention during the Eat my Shorts phase of the great big let me feed them to you and I would like my rooster's-hat back etc. etc.?  Abuse the thread like Autolycos I doubt but I'm sitting here, typing just for you Weasel.  So how is that abusive? Hmmmmm? :)
+Read between the lines or something Weasel. When did I "abuse us yo?" Question of the century I suppose. I understand being "support" from others here and did you also miss the part where I returned and thanked people for paying attention during the Eat my Shorts phase of the great big let me feed them to you and I would like my rooster's-hat back etc. etc.? Abuse the thread like Autolycos I doubt but I'm sitting here, typing just for you Weasel. So how is that abusive? Hmmmmm? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="24950" data-author="Weasel" data-date="2008-06-13T16:04:59+00:00" data-subject="">
 
-[img:1gos6ob3]http://www.almostsmart.com/upload/files/2004/Apr/DearGodPlsMakeItStop.jpg[/img:1gos6ob3]
+![](http://www.almostsmart.com/upload/files/2004/Apr/DearGodPlsMakeItStop.jpg)
 
 </div>
 
 <div class="post" data-post-id="24951" data-author="brady" data-date="2008-06-13T16:05:15+00:00" data-subject="">
 
-Read between the lines or something Weasel.  When did I "abuse us yo?"  Question of the century I suppose.  I understand being "support" from others here and did you also miss the part where I returned and thanked people for paying attention during the Eat my Shorts phase of the great big let me feed them to you and I would like my rooster's-hat back etc. etc.?  Abuse the thread like Autolycos I doubt but I'm sitting here, typing just for you Weasel.  So how is that abusive? Hmmmmm? :)[/quote:3kvtq0uf]
+> <strong>PolkAdotS wrote:</strong>
+> Read between the lines or something Weasel. When did I "abuse us yo?" Question of the century I suppose. I understand being "support" from others here and did you also miss the part where I returned and thanked people for paying attention during the Eat my Shorts phase of the great big let me feed them to you and I would like my rooster's-hat back etc. etc.? Abuse the thread like Autolycos I doubt but I'm sitting here, typing just for you Weasel. So how is that abusive? Hmmmmm? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Is it possible to stay drunk 24 hours a day?
 
@@ -416,9 +432,13 @@ ask on the russian forum
 
 <div class="post" data-post-id="24964" data-author="Autolycos" data-date="2008-06-13T22:00:20+00:00" data-subject="">
 
-Is it possible to stay drunk 24 hours a day?[/quote:3qlfffy0]
-
-ask on the russian forum[/quote:3qlfffy0]
+> <strong>juggleblood wrote:</strong>
+> > <strong>brady wrote:</strong>
+> > Is it possible to stay drunk 24 hours a day?
+> 
+> 
+> 
+> ask on the russian forum
 
 lmfao
 
@@ -432,7 +452,7 @@ Maybe we should just video tape this and play it back in slow motion.
 
 <div class="post" data-post-id="24974" data-author="*juggleblood*" data-date="2008-06-14T02:37:12+00:00" data-subject="">
 
-you must be enjoying it, you haven't posted in a long while :)
+you must be enjoying it, you haven't posted in a long while <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 love the newb advice btw
 

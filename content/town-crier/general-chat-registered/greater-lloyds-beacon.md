@@ -26,7 +26,7 @@ It should be easy to code (i guess)
 
 What do you think?
 
----
+\---
 
 Pi the longest one
 
@@ -40,13 +40,14 @@ I think you want to make the game easier. Me personally and, I think, others, wa
 
 <div class="post" data-post-id="20462" data-author="Tap" data-date="2007-09-29T23:52:43+00:00" data-subject="">
 
-make death perma after so many times.. that'll draw some gasps :twisted:
+make death perma after so many times.. that'll draw some gasps <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="20487" data-author="smig1o" data-date="2007-09-30T13:02:57+00:00" data-subject="">
 
-I think you want to make the game easier. Me personally and, I think, others, want to make game more interesting.[/quote:2ty6pn48]
+> <strong>Messiaen wrote:</strong>
+> I think you want to make the game easier. Me personally and, I think, others, want to make game more interesting.
 
 How many beacons vs one beacon makes game less interesting??
 
@@ -62,11 +63,13 @@ Admittedly an intercontinental lloyds would be handy, but it should not be avail
 
 <div class="post" data-post-id="20491" data-author="smig1o" data-date="2007-09-30T16:56:26+00:00" data-subject="">
 
-I think it's up to the individual - the game is as interesting as you make it.[/quote:xh1aczhl]
+> <strong>Weasel wrote:</strong>
+> I think it's up to the individual - the game is as interesting as you make it.
 
 SURE!
 
-Admittedly an intercontinental lloyds would be handy, but it should not be available until at least the same level as required for relocate (avatar 32), and, as with existing lloyds, only one can be set, but perhaps for a slightly lesser mana cost, as is the case with many advanced versions of existing spells.[/quote:xh1aczhl]
+> <strong>Weasel wrote:</strong>
+> Admittedly an intercontinental lloyds would be handy, but it should not be available until at least the same level as required for relocate (avatar 32), and, as with existing lloyds, only one can be set, but perhaps for a slightly lesser mana cost, as is the case with many advanced versions of existing spells.
 
 I dont want to make it intercontinental. I just want separate beacons for each continent.
 
@@ -84,7 +87,7 @@ use familiars.
 
 <div class="post" data-post-id="20508" data-author="Yinao" data-date="2007-10-01T03:25:34+00:00" data-subject="">
 
-Well in your case you have bard, so..... help there and back again?  8)
+Well in your case you have bard, so..... help there and back again? <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

@@ -32,13 +32,13 @@ Bump! Any response from the people who run the game?
 
 <div class="post" data-post-id="39689" data-author="Driven" data-date="2021-02-23T15:14:57+00:00" data-subject="Re: Time to Extend Rebirth Shop Limits?">
 
-We have briefly discussed the possibility of this, yes.  I am currently developing a new drachma item that will hopefully address both this concern and the issue of making areas/eq/forges relevant, but it's a big project and will take me time.  Between work, family, and ministry I am at my limit, but I will continue trying to make progress on it.
+We have briefly discussed the possibility of this, yes. I am currently developing a new drachma item that will hopefully address both this concern and the issue of making areas/eq/forges relevant, but it's a big project and will take me time. Between work, family, and ministry I am at my limit, but I will continue trying to make progress on it.
 
 </div>
 
 <div class="post" data-post-id="39690" data-author="Gorka" data-date="2021-03-01T22:26:59+00:00" data-subject="Re: Time to Extend Rebirth Shop Limits?">
 
-Firstly, I don't see how your artifact would effect the widening of rebirth shop... surely players need to have some form of an outlet to spend xp on improvements if the immortals realistically expect the players to continue killing mobs for xp... (the principal and original objective of the game) Although the immortals seem so absent these days, it feels like expectations of anything or anyone has been lost.  :| 
+Firstly, I don't see how your artifact would effect the widening of rebirth shop... surely players need to have some form of an outlet to spend xp on improvements if the immortals realistically expect the players to continue killing mobs for xp... (the principal and original objective of the game) Although the immortals seem so absent these days, it feels like expectations of anything or anyone has been lost. <img src="/images/smilies/icon_neutral.svg" alt=":|" title=":|" width="15" height="15" class="smiley nozoom"> 
 
 Secondly, given that all your proc items have effected the game PROFOUNDLY and in non-traditional ways... have you thought about sounding out your ideas on the forum a bit, so the effects of the new item don't overshadow the game like the other items have in the past? 
 
@@ -48,15 +48,15 @@ Teker through his own posts and track record, aligns his changes with "the inten
 
 <div class="post" data-post-id="39691" data-author="Driven" data-date="2021-03-02T15:02:59+00:00" data-subject="Re: Time to Extend Rebirth Shop Limits?">
 
-I'm sorry that you don't like how I have rebalanced the classes.  Just because something "takes a leap forward" does not mean that it isn't "following the intention of the original coders".  When I made something take a leap forward, it was because those classes needed a leap forward to gain parity with the power curves of the stronger classes.  Even after all of the "leaps of power for caster items", melee classes are *still* stronger than every other class, which means we didn't overshoot.  Do you not see that mages and clerics needed a serious boost to bring them up to snuff?  Your thinking is far too simplistic.
+I'm sorry that you don't like how I have rebalanced the classes. Just because something "takes a leap forward" does not mean that it isn't "following the intention of the original coders". When I made something take a leap forward, it was because those classes needed a leap forward to gain parity with the power curves of the stronger classes. Even after all of the "leaps of power for caster items", melee classes are \*still\* stronger than every other class, which means we didn't overshoot. Do you not see that mages and clerics needed a serious boost to bring them up to snuff? Your thinking is far too simplistic.
 
-One of the fundamental problems with SlothMUD was that while the intent of the original coders may have been sound, their execution did not scale properly.  Let me give you a couple examples:
+One of the fundamental problems with SlothMUD was that while the intent of the original coders may have been sound, their execution did not scale properly. Let me give you a couple examples:
 
-(Example 1) Melee class characters do damage primarily through weapons, so as damage increases (i.e. through avatar shop and rebirth shop), damage increases linearly.  As such, the damage output over time for a melee class never goes down throughout the course of an hour-long xp run.  Casters, on the other hand, rely on mana, which is a limited resource.  Yes, they can burst harder than melee, but they hit a hard wall in which their damage output becomes non-existent.  As the game has scaled, as our groups have grown to where we can run xp non-stop, that wall shows up very, very early for a caster.   Clearly you can see how a caster, sitting on his ass 5 minutes into an hour-long run, empty, casting a spell once every 4 rounds is beyond lame.  While melee continues to pump out hard damage, casters just sit on their asses watching the melee players in all of their glory.  What was the problem?  It was a problem of scaling.  When xp runs were 5-10 minutes in length, melee and casters pumped out comparable damage.  As xp runs scaled to an hour or more, the damage curves diverged.  I'm surprised after all that I have posted on this issue that you are still not understanding this fundamental problem with the game.  Was the original intent of the coders good?  Sure.  Did they execute it perfectly?  Hmmm, not perfectly, but I'm not going to be hard on them.  They did an amazing job putting the code base together, they simply didn't think about the inevitable endgame of power creep.  So be it.  We fixed it.  Just because you don't like the leap of power doesn't mean it wasn't necessary/important for caster classes.
+(Example 1) Melee class characters do damage primarily through weapons, so as damage increases (i.e. through avatar shop and rebirth shop), damage increases linearly. As such, the damage output over time for a melee class never goes down throughout the course of an hour-long xp run. Casters, on the other hand, rely on mana, which is a limited resource. Yes, they can burst harder than melee, but they hit a hard wall in which their damage output becomes non-existent. As the game has scaled, as our groups have grown to where we can run xp non-stop, that wall shows up very, very early for a caster. Clearly you can see how a caster, sitting on his ass 5 minutes into an hour-long run, empty, casting a spell once every 4 rounds is beyond lame. While melee continues to pump out hard damage, casters just sit on their asses watching the melee players in all of their glory. What was the problem? It was a problem of scaling. When xp runs were 5-10 minutes in length, melee and casters pumped out comparable damage. As xp runs scaled to an hour or more, the damage curves diverged. I'm surprised after all that I have posted on this issue that you are still not understanding this fundamental problem with the game. Was the original intent of the coders good? Sure. Did they execute it perfectly? Hmmm, not perfectly, but I'm not going to be hard on them. They did an amazing job putting the code base together, they simply didn't think about the inevitable endgame of power creep. So be it. We fixed it. Just because you don't like the leap of power doesn't mean it wasn't necessary/important for caster classes.
 
-(Example 2) Consider backstab and deathtouch/deathgrip.  The advantage of backstab over deathtouch/deathgrip is lack of lag and high top-end damage--you can follow it up with retreats, circle stabs, firewinds, whatever you want, whereas a monk is eating the first round of damage no matter what.  The disadvantage of backstab is that it's not as dependable, you whiff quite a bit.  The thought in this implementation was that the advantages and disadvantages balanced each other out.  The higher damage output of backstab and lack of lag offsets the lower dependability.  Did it work?  For a while, but the problem is that it didn't scale.  As damage amounts went up (which will happen as the inevitable power creep comes), the stab/grip mobs that are worth killing for xp didn't scale.  As damage amounts scaled, the power curve of deathtouch/deathgrip grew high enough that the lag disadvantage become irrelevant.  When deathtouch/deathgrip are able to splork the choice xp mobs, the lag becomes irrelevant, and dependability becomes king.  This illustrates itself in a concrete way through xp/hour.  So here we are, monks thriving and thieves are disappearing.  Per the actual equations, damage scaled appropriately for both backstab and deathtouch/deathgrip, such that thieves are still able to burst more damage (2x stab + firewind/circle stab is considerably higher damage than deathgrip/deathtouch), so the problem was not the addition of damage.  The problem was that the underlying foundation didn't scale, because as power grew, the deathtouch/deathgrip disadvantage ceased to be a disadvantage.  The balance of advantage/disadvantage is gone.  I have some ideas on how to alleviate this problem, but it may never happen, because it would involve a 'leap of power' for thieves, which you'll get on your soapbox about how I'm cheapening the ethos of Sloth.  
+(Example 2) Consider backstab and deathtouch/deathgrip. The advantage of backstab over deathtouch/deathgrip is lack of lag and high top-end damage--you can follow it up with retreats, circle stabs, firewinds, whatever you want, whereas a monk is eating the first round of damage no matter what. The disadvantage of backstab is that it's not as dependable, you whiff quite a bit. The thought in this implementation was that the advantages and disadvantages balanced each other out. The higher damage output of backstab and lack of lag offsets the lower dependability. Did it work? For a while, but the problem is that it didn't scale. As damage amounts went up (which will happen as the inevitable power creep comes), the stab/grip mobs that are worth killing for xp didn't scale. As damage amounts scaled, the power curve of deathtouch/deathgrip grew high enough that the lag disadvantage become irrelevant. When deathtouch/deathgrip are able to splork the choice xp mobs, the lag becomes irrelevant, and dependability becomes king. This illustrates itself in a concrete way through xp/hour. So here we are, monks thriving and thieves are disappearing. Per the actual equations, damage scaled appropriately for both backstab and deathtouch/deathgrip, such that thieves are still able to burst more damage (2x stab + firewind/circle stab is considerably higher damage than deathgrip/deathtouch), so the problem was not the addition of damage. The problem was that the underlying foundation didn't scale, because as power grew, the deathtouch/deathgrip disadvantage ceased to be a disadvantage. The balance of advantage/disadvantage is gone. I have some ideas on how to alleviate this problem, but it may never happen, because it would involve a 'leap of power' for thieves, which you'll get on your soapbox about how I'm cheapening the ethos of Sloth. 
 
-This new item I'm building is not an artifact.  And no, I don't particularly want to discuss it.  Until you expand your thinking to take into consideration deeper and more fundamental issues, I'm not going to spend my time explaining every last nuance of why I do what I do.
+This new item I'm building is not an artifact. And no, I don't particularly want to discuss it. Until you expand your thinking to take into consideration deeper and more fundamental issues, I'm not going to spend my time explaining every last nuance of why I do what I do.
 
 </div>
 
@@ -64,19 +64,19 @@ This new item I'm building is not an artifact.  And no, I don't particularly wan
 
 Thanks for taking the time out to share your ministry with us. I'll take your post to heart and get some edumacation. But give me time please, not all of us are so enlightened.
 
-> **Quote:**
+> <strong>Quote:</strong>
 > their execution did not scale properly
 
-> **Quote:**
+> <strong>Quote:</strong>
 > We fixed it.
 
-> **Quote:**
+> <strong>Quote:</strong>
 > Until you expand your thinking
 
-> **Quote:**
+> <strong>Quote:</strong>
 > I'm surprised after all that I have posted on this issue that you are still not understanding this fundamental problem
 
-> **Quote:**
+> <strong>Quote:</strong>
 > Your thinking is far too simplistic.
 
 I'm reminded about a story about a wolf in sheeps clothing and the saying "you will know them by their fruit."
@@ -85,7 +85,7 @@ I'm reminded about a story about a wolf in sheeps clothing and the saying "you w
 
 <div class="post" data-post-id="39693" data-author="Driven" data-date="2021-03-02T15:32:27+00:00" data-subject="Re: Time to Extend Rebirth Shop Limits?">
 
-There's another one--live by the sword, die by the sword.  If you're willing to use words to make accusations, then you better be willing to stand up to the defense.  My intent is not to humiliate or demean, so if I came across that way, my apologies.  But the fact is, you accuse me (which you almost make a sport of it) constantly, and so yes, I'm going to defend myself.
+There's another one--live by the sword, die by the sword. If you're willing to use words to make accusations, then you better be willing to stand up to the defense. My intent is not to humiliate or demean, so if I came across that way, my apologies. But the fact is, you accuse me (which you almost make a sport of it) constantly, and so yes, I'm going to defend myself.
 
 </div>
 
@@ -99,7 +99,7 @@ Effectively you've implemented "guns" in a game about "knife fighting." You've a
 
 <div class="post" data-post-id="39695" data-author="Driven" data-date="2021-03-02T17:18:32+00:00" data-subject="Re: Time to Extend Rebirth Shop Limits?">
 
-I've given all of my reasons for what I've done.  You haven't refuted those reasons, all you do is continue to scream louder.  Pretty sure I'm not the one who needs to man up.
+I've given all of my reasons for what I've done. You haven't refuted those reasons, all you do is continue to scream louder. Pretty sure I'm not the one who needs to man up.
 
 </div>
 
@@ -113,11 +113,11 @@ Gorka, check your email please.
 
 My two cents:
 
-While Driven's post addresses a root issue - perhaps *the* root issue with Sloth as it stands, but does so without recognizing that real issue. Nor does it address Gorka's original post. It does however, highlight what I believe is in fact the root issue for the game.
+While Driven's post addresses a root issue - perhaps \*the\* root issue with Sloth as it stands, but does so without recognizing that real issue. Nor does it address Gorka's original post. It does however, highlight what I believe is in fact the root issue for the game.
 
 Driven is trying to balance - no, rebalance - the game to fit multi-hour group xp running (hence called grouping).
 
-Gorka wants the rebirth shop to offer his high-level character something to play the game *for*. His question stems from an inherent dissatisfaction with the game's ongoing play. At the top, it seems there's nowhere else to go. His direct solution only bandages the broken bone.
+Gorka wants the rebirth shop to offer his high-level character something to play the game \*for\*. His question stems from an inherent dissatisfaction with the game's ongoing play. At the top, it seems there's nowhere else to go. His direct solution only bandages the broken bone.
 
 What is perhaps missed between these two topics is the underlying problem. Sloth has become a game that doesn't just include grouping - it has become a game that demands it. Grouping is a symptom of the problem, not the patient. The game has become so one-sided toward grouping that nothing else works.
 
@@ -133,7 +133,7 @@ That is where the Rebirth Shop question comes into play (told you I'd get back t
 
 What if other elements were introduced through the Rebirth/Avatar shops? What if characters could buy training in say, weaponsmithing, and begin forging their own weapons (not taking it to a mob to do)? Or mages could learn 'deep enchantment' and be able to add things like proc damage to weapons, etc.? Or - well, the possibilities are many. Introduce new skills characters can acquire through the ava/rebirth shops, and develop these to be meaningful parts of the game.
 
-Or what about providing a means for 9x40s to actually *live* in their 'hovels' instead of just storing things in ornamental vaults? That opens gameplay to all sorts of things. Want to overnight in your home? Only if you have a bed. Want a bed - either buy it from an exorbitantly priced store, from a skilled woodworker-player-character, or learn the skill yourself. Implementing this would grab a lot of attention, and make gameplay more fun.
+Or what about providing a means for 9x40s to actually \*live\* in their 'hovels' instead of just storing things in ornamental vaults? That opens gameplay to all sorts of things. Want to overnight in your home? Only if you have a bed. Want a bed - either buy it from an exorbitantly priced store, from a skilled woodworker-player-character, or learn the skill yourself. Implementing this would grab a lot of attention, and make gameplay more fun.
 
 Things like this expand the game without requiring a lot of 'rebalancing'. They give players alternative avenues for being truly in the game, not scripting through the tedium.
 
@@ -155,19 +155,19 @@ Sloth's a bit like your very old overweight family pet, that can't walk, is dumb
 
 I'm rambling, as usual... let me try be concise.
 
-* There are fewer disagreements about the games issues than there is about what to do about them.
+\* There are fewer disagreements about the games issues than there is about what to do about them.
 
-* The game needs 100's of hours of work and the budget currently appears to be about 5mins if that.
+\* The game needs 100's of hours of work and the budget currently appears to be about 5mins if that.
 
-* It's not so much that people don't have a wholelestic view and are arguing side points while ignoring the elephants in the room, it's just that we are factoring in whats the best change we can make for 5mins work.
+\* It's not so much that people don't have a wholelestic view and are arguing side points while ignoring the elephants in the room, it's just that we are factoring in whats the best change we can make for 5mins work.
 
-* You can't restructure a game with sugar, you can however give people at least something to eat for a while.
+\* You can't restructure a game with sugar, you can however give people at least something to eat for a while.
 
 </div>
 
 <div class="post" data-post-id="39700" data-author="Insomnia" data-date="2021-03-17T16:36:38+00:00" data-subject="Re: Time to Extend Rebirth Shop Limits?">
 
-Isn't Sloth deliberately limiting solo to encourage grouping? I mean, can kill some 100mil exp mobs, but with my ~12mil exp cap (at 9x40, I'm not a reborn yet), there's no sense in it...
+Isn't Sloth deliberately limiting solo to encourage grouping? I mean, can kill some 100mil exp mobs, but with my \~12mil exp cap (at 9x40, I'm not a reborn yet), there's no sense in it...
 
 My opinion is that if you want newcomers to stay for a longer time, you should not limit their ability to solo, at least at low levels (and if I were to define "low level", I'd say it's up to 3x40).
 
@@ -185,13 +185,13 @@ Had to laugh at Gorka demanding Driven run new ideas past the forum before imple
 
 <div class="post" data-post-id="39707" data-author="Gorka" data-date="2021-04-02T04:44:30+00:00" data-subject="Re: Time to Extend Rebirth Shop Limits?">
 
-Thanks for your insights about the current state of things Josiah...  
+Thanks for your insights about the current state of things Josiah... 
 
 Looks like the last time you actually played the scepter of ancient dominion was a couple of days old?
 
 Josiah's last logon was Sun Apr 12 15:40:33 2020 
 
- :roll:
+ <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 You should login sometime, so you can pretend to understand the effect that item had on the game, what it was intended to do, but what it's effects actually ended up being, and what types of players benefited.
 

@@ -12,7 +12,7 @@ post_count: 7
 
 <div class="post" data-post-id="35964" data-author="cyprimus" data-date="2015-06-24T21:52:37+00:00" data-subject="Sloth down?">
 
-Cannot get the log on screen to come up.  Just get blank ...no ask for password etc..
+Cannot get the log on screen to come up. Just get blank ...no ask for password etc..
 
 </div>
 

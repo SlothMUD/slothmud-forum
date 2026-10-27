@@ -36,7 +36,7 @@ Elsie
 
 <div class="post" data-post-id="12652" data-author="Zing" data-date="2006-05-23T12:22:59+00:00" data-subject="Imm Help Pls">
 
-I have the same issue.  Sold an item at auction and shipped it to the buyer for a fee.  The buyer hasn't picked it up and I really don't want to lose over 800k because the post office isn't crediting fees.
+I have the same issue. Sold an item at auction and shipped it to the buyer for a fee. The buyer hasn't picked it up and I really don't want to lose over 800k because the post office isn't crediting fees.
 
 The Post Office is great, but I hope we all agree that re-claim money should go to the owner of the item as the original fee was to do.
 

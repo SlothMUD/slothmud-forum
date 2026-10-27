@@ -26,7 +26,7 @@ Just wondering whether we could change get to work the same way?
 
 <div class="post" data-post-id="21741" data-author="mahkra" data-date="2007-12-20T03:12:19+00:00" data-subject="">
 
-it would probably be easier to code it put <container> <items> but given what was done to wear all and rem all I assume they want each item to be separate and have lag associated with each action since that is kind of the justification for adding the lag to those.
+it would probably be easier to code it put \<container\> \<items\> but given what was done to wear all and rem all I assume they want each item to be separate and have lag associated with each action since that is kind of the justification for adding the lag to those.
 
 </div>
 
@@ -48,13 +48,16 @@ Thanks.
 
 <div class="post" data-post-id="27556" data-author="marge" data-date="2008-12-30T17:03:54+00:00" data-subject="Re: get and put commands">
 
-In the put command I can...
-
-put ring ring bracelet bracelet robe
-
-IE, put multiple items in a robe in one command... the last parameter being the robe.
-
-[/quote:1lzl8b87]
+> <strong>jezer wrote:</strong>
+> In the put command I can...
+> 
+> 
+> 
+> put ring ring bracelet bracelet robe
+> 
+> 
+> 
+> IE, put multiple items in a robe in one command... the last parameter being the robe.
 
 um, I can't do this.
 

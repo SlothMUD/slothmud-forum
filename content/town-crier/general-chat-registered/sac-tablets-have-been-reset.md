@@ -32,6 +32,6 @@ that happens from time to time.
 
 Thanks, and happy hunting!
 
--Neptune
+\-Neptune
 
 </div>

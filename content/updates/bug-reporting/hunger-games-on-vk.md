@@ -14,75 +14,75 @@ post_count: 11
 
 Its something broke itself on its own, or food store moved to another vendor?
 
-**look
+<strong>look</strong>
 
-Newbatia's Supply Shop
+<strong>Newbatia's Supply Shop</strong>
 
-   Made of pure ivory, a beautiful counter runs along the back of the
+<strong> Made of pure ivory, a beautiful counter runs along the back of the</strong>
 
-little supply shop.  The walls have wooden shelves fastened to them.
+<strong>little supply shop. The walls have wooden shelves fastened to them.</strong>
 
-Containing all sorts of different items.  The ceiling is covered in a fancy
+<strong>Containing all sorts of different items. The ceiling is covered in a fancy</strong>
 
-mural, painted in exquisite colors.  The floor is made of solid stone,
+<strong>mural, painted in exquisite colors. The floor is made of solid stone,</strong>
 
-complete with a ring cut into the middle for a roaring fire.
+<strong>complete with a ring cut into the middle for a roaring fire.</strong>
 
-Exits: West  
+<strong>Exits: West </strong>
 
-Mikala the supply clerk painfully stocks the shop shelves.
+<strong>Mikala the supply clerk painfully stocks the shop shelves.</strong>
 
-<552hp 176ma 259mv>   +9   -6.8   19,171,966   336,493   indoors   Newbatia
+<strong>\<552hp 176ma 259mv\> +9 -6.8 19,171,966 336,493 indoors Newbatia</strong>
 
-You are hungry.
+<strong>You are hungry.</strong>
 
-<552hp 177ma 260mv>   +9   -6.8   19,171,966   336,493   indoors   Newbatia
+<strong>\<552hp 177ma 260mv\> +9 -6.8 19,171,966 336,493 indoors Newbatia</strong>
 
-You are hungry.
+<strong>You are hungry.</strong>
 
-<552hp 181ma 266mv>   +9   -6.8   19,171,966   336,493   indoors   Newbatia
+<strong>\<552hp 181ma 266mv\> +9 -6.8 19,171,966 336,493 indoors Newbatia</strong>
 
-li
+<strong>li</strong>
 
-You can buy:
+<strong>You can buy:</strong>
 
- Price     Item
+<strong> Price Item</strong>
 
-----------------------
+<strong>\----------------------</strong>
 
- 35        a tuft of fur
+<strong> 35 a tuft of fur</strong>
 
- 300       a mummified finger
+<strong> 300 a mummified finger</strong>
 
- 150       some tears of a dogman
+<strong> 150 some tears of a dogman</strong>
 
- 1500      a milk bucket..It has a soft glowing aura!
+<strong> 1500 a milk bucket..It has a soft glowing aura!</strong>
 
- 785       some sapphire dust
+<strong> 785 some sapphire dust</strong>
 
- 100       a strip of cut maple
+<strong> 100 a strip of cut maple</strong>
 
- 500       a frozen ray of sunlight
+<strong> 500 a frozen ray of sunlight</strong>
 
- 5         a torn page from a note book [3]
+<strong> 5 a torn page from a note book [3]</strong>
 
- 58000     a mana flux
+<strong> 58000 a mana flux</strong>
 
-----------------------
+<strong>\----------------------</strong>
 
-* means you need more levels to use it.
+<strong>\* means you need more levels to use it.</strong>
 
-! means you are not strong enough to use it.
+<strong>! means you are not strong enough to use it.</strong>
 
-& means you have studied this spellbook or manual to its max.
+<strong>\& means you have studied this spellbook or manual to its max.</strong>
 
-Query may also be of use to you, please refer to help query.
+<strong>Query may also be of use to you, please refer to help query.</strong>
 
-<552hp 181ma 266mv>   +9   -6.8   19,171,966   336,493   indoors   Newbatia
+<strong>\<552hp 181ma 266mv\> +9 -6.8 19,171,966 336,493 indoors Newbatia</strong>
 
-buy ration
+<strong>buy ration</strong>
 
-Mikala tells you 'I'm sorry sir, I am currently out of those.'**
+<strong>Mikala tells you 'I'm sorry sir, I am currently out of those.'</strong>
 
 PS. In her responce, after "sorry" should be a comma, no?
 
@@ -92,89 +92,89 @@ PS. In her responce, after "sorry" should be a comma, no?
 
 Found temporary solution, but still...
 
-**Captain Gregory's Bakery
+<strong>Captain Gregory's Bakery</strong>
 
-Exits: East  
+<strong>Exits: East </strong>
 
-Shyche is here trying furiously to keep up with his orders.
+<strong>Shyche is here trying furiously to keep up with his orders.</strong>
 
-<552hp 201ma 292mv>   +9   -6.8   19,171,966   336,493   indoors   Newbatia
+<strong>\<552hp 201ma 292mv\> +9 -6.8 19,171,966 336,493 indoors Newbatia</strong>
 
-li
+<strong>li</strong>
 
-You can buy:
+<strong>You can buy:</strong>
 
- Price     Item
+<strong> Price Item</strong>
 
-----------------------
+<strong>\----------------------</strong>
 
- 9         a blueberry muffin
+<strong> 9 a blueberry muffin</strong>
 
- 9         a raisin muffin
+<strong> 9 a raisin muffin</strong>
 
- 9         a banana muffin
+<strong> 9 a banana muffin</strong>
 
- 9         a bran muffin
+<strong> 9 a bran muffin</strong>
 
- 9         a prune muffin
+<strong> 9 a prune muffin</strong>
 
- 9         a cranberry muffin
+<strong> 9 a cranberry muffin</strong>
 
- 12        a cinnamon roll
+<strong> 12 a cinnamon roll</strong>
 
- 12        a fresh loaf of bread
+<strong> 12 a fresh loaf of bread</strong>
 
- 12        a sweet roll
+<strong> 12 a sweet roll</strong>
 
- 12        a soft bun
+<strong> 12 a soft bun</strong>
 
- 12        a croissant
+<strong> 12 a croissant</strong>
 
- 12        a sweet pastry
+<strong> 12 a sweet pastry</strong>
 
- 15        an apple pie
+<strong> 15 an apple pie</strong>
 
- 15        a cherry pie
+<strong> 15 a cherry pie</strong>
 
- 15        a blueberry pie
+<strong> 15 a blueberry pie</strong>
 
- 15        a lemon pie
+<strong> 15 a lemon pie</strong>
 
- 15        a mincemeat pie
+<strong> 15 a mincemeat pie</strong>
 
- 6         a sugar cookie
+<strong> 6 a sugar cookie</strong>
 
- 6         a lemon cookie
+<strong> 6 a lemon cookie</strong>
 
- 6         a gingerbread cookie
+<strong> 6 a gingerbread cookie</strong>
 
- 30        a birthday cake
+<strong> 30 a birthday cake</strong>
 
- 24        a yummy cupcake
+<strong> 24 a yummy cupcake</strong>
 
-----------------------
+<strong>\----------------------</strong>
 
-* means you need more levels to use it.
+<strong>\* means you need more levels to use it.</strong>
 
-! means you are not strong enough to use it.
+<strong>! means you are not strong enough to use it.</strong>
 
-& means you have studied this spellbook or manual to its max.
+<strong>\& means you have studied this spellbook or manual to its max.</strong>
 
-Query may also be of use to you, please refer to help query.
+<strong>Query may also be of use to you, please refer to help query.</strong>
 
-<552hp 201ma 294mv>   +9   -6.8   19,171,966   336,493   indoors   Newbatia
+<strong>\<552hp 201ma 294mv\> +9 -6.8 19,171,966 336,493 indoors Newbatia</strong>
 
-buy soft-bun
+<strong>buy soft-bun</strong>
 
-Shyche tells you 'You are so lucky, enjoy your food.'
+<strong>Shyche tells you 'You are so lucky, enjoy your food.'</strong>
 
-You now have a soft bun.
+<strong>You now have a soft bun.</strong>
 
-<552hp 201ma 295mv>   +9   -6.8   19,171,966   336,481   indoors   Newbatia
+<strong>\<552hp 201ma 295mv\> +9 -6.8 19,171,966 336,481 indoors Newbatia</strong>
 
-eat bun
+<strong>eat bun</strong>
 
-You eat a soft bun.**
+<strong>You eat a soft bun.</strong>
 
 </div>
 
@@ -184,87 +184,87 @@ What do I do wrong ?
 
 Newbatia's Supply Shop
 
-Exits: West  
+Exits: West 
 
 Mikala the supply clerk painfully stocks the shop shelves.
 
-<586hp 181ma 279mv>   +9   -7.0   29,700,091   448,848   indoors   Newbatia
+\<586hp 181ma 279mv\> +9 -7.0 29,700,091 448,848 indoors Newbatia
 
 buy 6 ration
 
 Mikala tells you 'I don't carry that many!'
 
-<586hp 181ma 279mv>   +9   -7.0   29,700,091   448,848   indoors   Newbatia
+\<586hp 181ma 279mv\> +9 -7.0 29,700,091 448,848 indoors Newbatia
 
 You are hungry.
 
 You are thirsty.
 
-<586hp 182ma 280mv>   +9   -7.0   29,700,091   448,848   indoors   Newbatia
+\<586hp 182ma 280mv\> +9 -7.0 29,700,091 448,848 indoors Newbatia
 
 li
 
 You can buy:
 
- Price     Item
+ Price Item
 
-----------------------
+\----------------------
 
- 3000      a hot lava stone [3]..It has a soft glowing aura!
+ 3000 a hot lava stone [3]..It has a soft glowing aura!
 
- 1         a small waterskin [2]
+ 1 a small waterskin [2]
 
- 100       a small cloth sack
+ 100 a small cloth sack
 
- 58000     a mana flux [2]
+ 58000 a mana flux [2]
 
- 13000     a strange triangular shaped token
+ 13000 a strange triangular shaped token
 
- 35        a bundle of straw
+ 35 a bundle of straw
 
- 500       a kender ration
+ 500 a kender ration
 
- 400       a turtle statue [2]
+ 400 a turtle statue [2]
 
- 800       a glowing chunk of metal
+ 800 a glowing chunk of metal
 
- 20        a hooded brass lantern
+ 20 a hooded brass lantern
 
- 20        a water barrel
+ 20 a water barrel
 
- 50        a canteen
+ 50 a canteen
 
- 2         a torch
+ 2 a torch
 
- 35        a large leather backpack
+ 35 a large leather backpack
 
- 15        a bag
+ 15 a bag
 
- 10        iron rations
+ 10 iron rations
 
- 20        a jar of pickles
+ 20 a jar of pickles
 
- 1500      a bamboo fishing pole
+ 1500 a bamboo fishing pole
 
- 10        a Get-Rich-Quick pamphlet
+ 10 a Get-Rich-Quick pamphlet
 
-----------------------
+\----------------------
 
-* means you need more levels to use it.
+\* means you need more levels to use it.
 
 ! means you are not strong enough to use it.
 
-& means you have studied this spellbook or manual to its max.
+\& means you have studied this spellbook or manual to its max.
 
 Query may also be of use to you, please refer to help query.
 
-<586hp 182ma 280mv>   +9   -7.0   29,700,091   448,848   indoors   Newbatia
+\<586hp 182ma 280mv\> +9 -7.0 29,700,091 448,848 indoors Newbatia
 
 buy 6 ration
 
 Mikala tells you 'I don't carry that many!'
 
-<586hp 182ma 281mv>   +9   -7.0   29,700,091   448,848   indoors   Newbatia
+\<586hp 182ma 281mv\> +9 -7.0 29,700,091 448,848 indoors Newbatia
 
 buy 6 iron-ration
 
@@ -286,7 +286,7 @@ you are trying to buy 6 kender rations
 
 <div class="post" data-post-id="35741" data-author="*juggleblood*" data-date="2015-03-12T16:22:11+00:00" data-subject="Re: Hunger games on VK">
 
-> **Yasik wrote:**
+> <strong>Yasik wrote:</strong>
 > Mikala tells you 'I'm sorry sir, I am currently out of those.'
 > 
 > 
@@ -305,23 +305,23 @@ Unless we except that the mud uses standard rules of email etiquette in which th
 
 The pedant in me prefers the semicolon, because it is arguably a textbook example of how semicolons can / should be used. However, aesthetically, I much prefer the single comma because it has a subtler profile than a semicolon. The full stop just looks to heavy and halts the flow of the thought. My suggestion would be to keep the comma, but change "I am" to "I'm" to make it more natural and give it a better flow.
 
- :mrgreen:
+ <img src="/images/smilies/icon_mrgreen.svg" alt=":mrgreen:" title=":mrgreen:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="35742" data-author="*Breeze*" data-date="2015-03-12T16:26:30+00:00" data-subject="Re: Hunger games on VK">
 
-/begin annoy jb :)
+/begin annoy jb <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 knock urself out. iirc u shud b abl 2 chng that urself.
 
-/end annoy jb :)
+/end annoy jb <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="35743" data-author="Yasik" data-date="2015-03-12T16:33:05+00:00" data-subject="Re: Hunger games on VK">
 
-Ideas:  newly sold items appear at the bottom of the list.
+Ideas: newly sold items appear at the bottom of the list.
 
 Will decrease chance of buying wrong expensive items instead of cheap necessary ones, saving newbs' hard earned coins.
 
@@ -331,7 +331,7 @@ The comma is needed. At current spelling we learn that Mikala is a sorry (pained
 
 <div class="post" data-post-id="35744" data-author="*juggleblood*" data-date="2015-03-12T16:38:12+00:00" data-subject="Re: Hunger games on VK">
 
-> **Yasik wrote:**
+> <strong>Yasik wrote:</strong>
 > The comma is needed. At current spelling we learn that Mikala is a sorry (pained, grieved, chagrined, disappointed, afflicted, regretful, rueful, remorseful) sir (lord, master, gentleman, mister, governor).
 
 I'm sorry. I don't see the indefinite article "a" which you refer to. If it existed, you would be correct, but alas...
@@ -342,15 +342,15 @@ I'm sorry. I don't see the indefinite article "a" which you refer to. If it exis
 
 [http://www.grammarbook.com/punctuation/commas.asp](http://www.grammarbook.com/punctuation/commas.asp)
 
-***Rule 5. Use commas to set off the name, nickname, term of endearment, or title of a person directly addressed.
+<strong><em>Rule 5. Use commas to set off the name, nickname, term of endearment, or title of a person directly addressed.</strong></em>
 
-Examples:
+<em><strong>Examples:</strong></em>
 
-Will you, Aisha, do that assignment for me?
+<em><strong>Will you, Aisha, do that assignment for me?</strong></em>
 
-Yes, old friend, I will.
+<em><strong>Yes, old friend, I will.</strong></em>
 
-Good day, Captain.***
+<em><strong>Good day, Captain.</em></strong>
 
 "sir" in that sentence is obviously a title of a person (the player) directly addressed, therefore it should be separated by commas.
 
@@ -366,15 +366,15 @@ Yes those examples are correct. However, in the original example we have two sep
 
 Therefore, if you were to connect them with a comma, it would be a comma splice. Meaning you would have to use a semicolon or full stop, if you wanted it to be grammatically correct.
 
-"I'm sorry, sir, I am currently out of those." is a comma splice. <-------grammar fail
+"I'm sorry, sir, I am currently out of those." is a comma splice. \<-------grammar fail
 
-"I'm sorry, sir; I am currently out of those."<-----correct, but ugly
+"I'm sorry, sir; I am currently out of those."\<-----correct, but ugly
 
-"I'm sorry, sir. I am currently out of those."<-----correct, but choppy
+"I'm sorry, sir. I am currently out of those."\<-----correct, but choppy
 
-"I'm sorry sir, I am currently out of those."<------incorrect, but aesthetically pleasing and acceptable netiquette 
+"I'm sorry sir, I am currently out of those."\<------incorrect, but aesthetically pleasing and acceptable netiquette 
 
-"I'm sorry sir, but I am currently out of those."<----ideal? conjunction ftw
+"I'm sorry sir, but I am currently out of those."\<----ideal? conjunction ftw
 
 </div>
 

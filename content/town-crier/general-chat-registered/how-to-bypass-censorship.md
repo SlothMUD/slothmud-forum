@@ -26,6 +26,6 @@ I can't access that website from work.
 
 <div class="post" data-post-id="9199" data-author="Weasel" data-date="2005-10-26T13:17:01+00:00" data-subject="">
 
-:lol:
+<img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>

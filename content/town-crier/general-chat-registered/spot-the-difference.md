@@ -14,7 +14,7 @@ post_count: 23
 
 Another special feature i just noticed.
 
-<838hp 519ma 286mv>deathblow
+\<838hp 519ma 286mv\>deathblow
 
 You brutally gut a skeletal gate guard!
 
@@ -30,11 +30,11 @@ Total exp for kill is 1645202.
 
 Your blood freezes as you hear a skeletal gate guard's death cry.
 
-<788hp 531ma 241mv><[-170]md>
+\<788hp 531ma 241mv\>\<[-170]md\>
 
 Even in a skeletal gate guard's shape, a skeletal gate guard avoids your slash.
 
-<788hp 531ma 241mv>Dodge expired!
+\<788hp 531ma 241mv\>Dodge expired!
 
 You massacre a skeletal gate guard to small fragments with your slash.
 
@@ -58,7 +58,7 @@ Your blood freezes as you hear a skeletal gate guard's death cry.
 
 You sing another verse of 'gods of war'.
 
-<790hp 532ma 248mv>Dodge expired!
+\<790hp 532ma 248mv\>Dodge expired!
 
 You massacre a skeletal warrior to small fragments with your slash.
 
@@ -92,7 +92,7 @@ You have redeemed yourself!
 
 Your blood freezes as you hear a skeletal warrior's death cry.
 
-<759hp 542ma 262mv>deathblow
+\<759hp 542ma 262mv\>deathblow
 
 You brutally gut a skeletal warrior!
 
@@ -108,7 +108,7 @@ Total exp for kill is 1878520.
 
 Your blood freezes as you hear a skeletal warrior's death cry.
 
-<552hp 550ma 172mv><---76---:286:>
+\<552hp 550ma 172mv\>\<---76---:286:\>
 
 You brutally gut a wight prison guard!
 
@@ -124,7 +124,7 @@ Total exp for kill is 2513666.
 
 Your blood freezes as you hear a wight prison guard's death cry.
 
-<650hp 389ma 104mv>You miss a wight prison guard with your slash.
+\<650hp 389ma 104mv\>You miss a wight prison guard with your slash.
 
 A banshee massacres a wight prison guard to small fragments with her hit.
 
@@ -158,11 +158,9 @@ A massive Ju-Ju Zombie spits out gold coins.
 
 A massive Ju-Ju Zombie utters the words, 'candusgugh qare'
 
-================================================================
+\================================================================
 
-**
-
-Since necromancers primarily rely on their pets to get exp, why do pets give you 25% less exp when they kill the target ? As you can see, even Juju has this awesome ability to steal your exp**
+<strong>Since necromancers primarily rely on their pets to get exp, why do pets give you 25% less exp when they kill the target ? As you can see, even Juju has this awesome ability to steal your exp</strong>
 
 </div>
 
@@ -196,7 +194,7 @@ Why does this surprise you that i'am unhappy about it ?
 
 Since the experience boost, apparently this bug is much more noticeable now. Insomniac brought it to our attention a month or so ago.
 
-Here is where we stand regarding the issue: We spent countless years balancing the Necromancer class while this bug was in place. We had no clue regarding this difference until Insomniac pointed it out to us. We are NOT going to look for this bug, fix this bug, and then try to rebalance the class all over again. It took us years to get to a point where we feel this class is not too overpowered but is overall, pretty well balanced.  Maybe, sometime in the future, we will examine the issue closer and figure out exactly what we should do.
+Here is where we stand regarding the issue: We spent countless years balancing the Necromancer class while this bug was in place. We had no clue regarding this difference until Insomniac pointed it out to us. We are NOT going to look for this bug, fix this bug, and then try to rebalance the class all over again. It took us years to get to a point where we feel this class is not too overpowered but is overall, pretty well balanced. Maybe, sometime in the future, we will examine the issue closer and figure out exactly what we should do.
 
 When we have time, we will try to figure out where the discrepancy is coming from and go from there. 
 
@@ -222,13 +220,13 @@ b) you can kill the mob and not your pets in 90% of cases if you have a spell li
 
 The only thing that is currently happening because of this bug is that low level necromancers are being punished for being necromancers and higher level necromancers have to work hard to get the full exp they should for their kills.
 
-In other words, fixing this bug would not have any sizeable impact in terms of *balance*...it is simply a matter of convenience and fairness. (No other class has to work extra just to get the exp they should).
+In other words, fixing this bug would not have any sizeable impact in terms of \*balance\*...it is simply a matter of convenience and fairness. (No other class has to work extra just to get the exp they should).
 
 In addition, I have reported other bugs with pets kills, specifically:
 
-1. In my experience, (I am almost 6X40) I have NEVER seen a gem pop from a kill by pets. I have popped 2-3 gems from the *death* of my own pets and have popped several gems from 1 non-pet mob killing another non-pet mob. This is despite the fact that until recently, when I became aware of the exp loss from pet kills, the vast majority of my kills were made by my pets.
+1\. In my experience, (I am almost 6X40) I have NEVER seen a gem pop from a kill by pets. I have popped 2-3 gems from the \*death\* of my own pets and have popped several gems from 1 non-pet mob killing another non-pet mob. This is despite the fact that until recently, when I became aware of the exp loss from pet kills, the vast majority of my kills were made by my pets.
 
-2. Pet kills on mobs that give honor occasionally result in the bulk of honor points being lost (i.e. 250 honor mob gives 30 honor instead).
+2\. Pet kills on mobs that give honor occasionally result in the bulk of honor points being lost (i.e. 250 honor mob gives 30 honor instead).
 
 I know you guys are busy and I am not suggesting that these bugs are the most important thing to spend your time on, however if someone does want to fix them, I'm reporting them here, for the record.
 
@@ -248,7 +246,7 @@ Even as clueless as I am, I can see that.
 
 <div class="post" data-post-id="32866" data-author="Insomniac" data-date="2011-09-08T20:02:45+00:00" data-subject="Re: Spot the difference,">
 
-> ***juggleblood* wrote:**
+> <strong>\*juggleblood\* wrote:</strong>
 > I don't think you're getting the Dragoth. Changing it would simply be a big bonus for necro for no good reason.
 
 I don't think you're clueless at all, Juggleblood but I'm afraid you're really the one not getting it. For most savvy necros, this bug isn't something that stops them from getting full exp, it's just something that makes it awkward for them to do so. Fixing this bug would NOT have a big impact on necro exping for the reasons I outlined in my previous post.
@@ -259,7 +257,7 @@ I don't think you're clueless at all, Juggleblood but I'm afraid you're really t
 
 Ive already discussed this with you Insomniac and my opinion is not going to change. 
 
-     I disagree with your guesstimate of 90% and firmly believe we are making the right decision by not looking into the matter at this time.  Our energies are being spent on issues which are much more important than improving the solo exp of the necromancer class. Which by just about everyone's opinion, does not need to happen.
+ I disagree with your guesstimate of 90% and firmly believe we are making the right decision by not looking into the matter at this time. Our energies are being spent on issues which are much more important than improving the solo exp of the necromancer class. Which by just about everyone's opinion, does not need to happen.
 
 We appreciate the bugs being reported and plan on looking into the ones mentioned.
 
@@ -271,7 +269,7 @@ Splork
 
 Ive tested the issue regarding necromancer followers and gems not popping. I set the rate for gem pops to 1/1. The followers killed the mob, and the gem loaded, as it should.
 
-A short log is below, the line at the very end is my debugging to make sure we are inside the correct generate_gem function, which we were.
+A short log is below, the line at the very end is my debugging to make sure we are inside the correct generate\_gem function, which we were.
 
 order polt kill pea
 
@@ -287,7 +285,7 @@ Your blood freezes as you hear a peasant's death cry.
 
 A lone thunderclap rumbles past as a shiny GEM emerges from the void!!!
 
-IN F******GENERATRE GEM .
+IN F\*\*\*\*\*\*GENERATRE GEM .
 
 This bug seems to be more of an urban legend than reality.
 
@@ -299,12 +297,12 @@ Splork
 
 <div class="post" data-post-id="32869" data-author="Stark" data-date="2011-09-09T04:02:45+00:00" data-subject="Re: Spot the difference,">
 
-> ***Splork* wrote:**
+> <strong>\*Splork\* wrote:</strong>
 > Ive tested the issue regarding necromancer followers and gems not popping. I set the rate for gem pops to 1/1. The followers killed the mob, and the gem loaded, as it should.
 > 
 > 
 > 
-> A short log is below, the line at the very end is my debugging to make sure we are inside the correct generate_gem function, which we were.
+> A short log is below, the line at the very end is my debugging to make sure we are inside the correct generate\_gem function, which we were.
 > 
 > ...
 > 
@@ -318,7 +316,7 @@ Splork
 > 
 > Splork
 
-Thanks for being awesome and actually testing and showing results of suspected issues and urban legends from players  :)
+Thanks for being awesome and actually testing and showing results of suspected issues and urban legends from players <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -328,7 +326,7 @@ I'm sorry but, Necro class, balanced ? In what universe is necro class balanced 
 
 The last balancing of necro pet point system took place on 17 september 2009, that is the time when we went from 3 wights being the best pet at 3x40 and only 1 wraith being available for summon at 4x40 and moved back the old slothmud3 system. Since then ( late 2009, early 2010), we had a slight tweak to the pet points awarded per level ( balanced to prime and not prime ) and then there was a tweak to banshees, where they were made worthwhile and had their stats increased slightly to become better than wraiths ( since you could only summon 2 banshees against 4 wraiths)
 
-Since then, there have been numerous complaints on this forum, that any necro pet past banshees and wraiths is a waste of time, so what is the point of leveling a necro when you do not make any worthwhile progress with your primary ability  ? Necro class's selling point for me, is the constant progress with your pets and experimentation with situations in which different pets could be used.
+Since then, there have been numerous complaints on this forum, that any necro pet past banshees and wraiths is a waste of time, so what is the point of leveling a necro when you do not make any worthwhile progress with your primary ability ? Necro class's selling point for me, is the constant progress with your pets and experimentation with situations in which different pets could be used.
 
 Necro class project is NOT finished and while it may seem balanced, it was simply put on pause 1.5 years ago because immortals stopped caring, and i can see why from your many posts Rick "you get enough exp as it is, so deal with it". But as i have told you many times before, it's not about exp , it's about keeping your players interested by giving them something to look forward to. 
 
@@ -341,8 +339,6 @@ And as Insomniac is saying, it's not a big whoop that our pets steal our exp, bu
 <div class="post" data-post-id="32872" data-author="Dragoth" data-date="2011-09-09T05:56:11+00:00" data-subject="Re: Spot the difference,">
 
 Your biggest problem is that you are too concerned, about how much experience your players are getting, while in reality, it should be the least of your worries; numerous complaints regarding the game becoming too slow and grindy after 4x40 is an obvious giveaway.
-
- 
 
 What you should concern yourself with instead, is whether your players are having fun and whether they are involved enough with the game, to log back in every day and make all that time you spent developing this game worthwhile, both for you and your players.
 
@@ -394,7 +390,7 @@ Splork
 
 <div class="post" data-post-id="32874" data-author="jezer" data-date="2011-09-09T07:04:47+00:00" data-subject="Re: Spot the difference,">
 
-The real question is has Akasha redone the coliseum yet?  :wink:  :twisted:
+The real question is has Akasha redone the coliseum yet? <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 Is the 250 room area Atlantis?
 
@@ -416,7 +412,7 @@ I will say this again, I dont care if i get less exp than anybody else, i dont c
 
 And, i do play the game when i get some spare time, and i check mud updates and read the forum regularly, but some of the issues have been unresolved for what feels like decades and it makes me wonder.
 
-And would you please stop making me look like the bad guy, which immortal have I ever driven away with my suggestions ? I know i could not possibly drive anyone away, as I have never criticized anyone's work and i have warm and loving relationships with almost all of Immortal staff, except Juggleblood ( but that guy is a jerk  :roll: )
+And would you please stop making me look like the bad guy, which immortal have I ever driven away with my suggestions ? I know i could not possibly drive anyone away, as I have never criticized anyone's work and i have warm and loving relationships with almost all of Immortal staff, except Juggleblood ( but that guy is a jerk <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> )
 
 </div>
 
@@ -428,7 +424,7 @@ Atlantis would have been 325 rooms if I had finished mobs and eq, but that area 
 
 <div class="post" data-post-id="32878" data-author="Insomniac" data-date="2011-09-09T09:35:00+00:00" data-subject="Re: Spot the difference,">
 
-Thank you very much for checking out of the gem bug. As I was typing this post, I popped my first ever gem from a pet kill so that clears that up :)
+Thank you very much for checking out of the gem bug. As I was typing this post, I popped my first ever gem from a pet kill so that clears that up <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 In terms of the 90% estimate, I guess we'll have to agree to disagree. The bug isn't one that makes my life hugely difficult so I can live with it.
 
@@ -490,11 +486,11 @@ You keep saying it's not about the XP. But that's exactly what you're talking ab
 
 Re: Dragoth quote 
 
-"And i know for a fact, that this exp concern of yours, is the only thing that keeps bogging down all attempts to make necromancer class complete, with a proper pet advancement system."  
+"And i know for a fact, that this exp concern of yours, is the only thing that keeps bogging down all attempts to make necromancer class complete, with a proper pet advancement system." 
 
-This quote is utter  nonsense, to be quite honest with you. Several Immortals, including Chobbs, have/had planned on looking into and redoing the necromancer pets. However, due to the response they have gotten from player, absolutely not me, they simply quit because its not worth their efforts. I've done everything from request emails from Wimpy, ask other Immortals to look into the matter, and staying out of the way of anybody who wants to deal with the issue. The reality is, not ONE Immortal believes this class needs help in regards to experience, so it is not high on anybody's todo list. We do realize a better progression of pets is ideal though. But again there will be nerfs, to go along with enhancements. Ive most recently asked and spoken to Akasha about this very issue. I notified everybody online regarding this nearly 10 days ago. 
+This quote is utter nonsense, to be quite honest with you. Several Immortals, including Chobbs, have/had planned on looking into and redoing the necromancer pets. However, due to the response they have gotten from player, absolutely not me, they simply quit because its not worth their efforts. I've done everything from request emails from Wimpy, ask other Immortals to look into the matter, and staying out of the way of anybody who wants to deal with the issue. The reality is, not ONE Immortal believes this class needs help in regards to experience, so it is not high on anybody's todo list. We do realize a better progression of pets is ideal though. But again there will be nerfs, to go along with enhancements. Ive most recently asked and spoken to Akasha about this very issue. I notified everybody online regarding this nearly 10 days ago. 
 
-Blaming me for standing in the way of anything in S4 shows how very little the playerbase, or certain players, know what goes on up here. Speak with active Immortals and find out for yourselves how often I interject, or put an end to an idea or suggestion.  When I say our efforts, currently, are in more important areas of the mud. Thats the truth, or how we all feel. I don't stop somebody from working on something to help me with anything. I do as I please, Isabo and Breeze do as they wish, and the list moves downwards. We pick projects which interest us and we feel a need for and work on them. As Ive said 100 times, this issue in particular, honestly has to do with how the players will react towards the Immortal and the changes in general. There will be hours of complaints on the crier, gossip, channels, etc etc. The Immortal who finally does mess with this will be bashed, personally attacked, complained about, etc. Believe what you wish, but anyone in our email lists or wiz channels knows this is exactly why this project has not been attacked yet.
+Blaming me for standing in the way of anything in S4 shows how very little the playerbase, or certain players, know what goes on up here. Speak with active Immortals and find out for yourselves how often I interject, or put an end to an idea or suggestion. When I say our efforts, currently, are in more important areas of the mud. Thats the truth, or how we all feel. I don't stop somebody from working on something to help me with anything. I do as I please, Isabo and Breeze do as they wish, and the list moves downwards. We pick projects which interest us and we feel a need for and work on them. As Ive said 100 times, this issue in particular, honestly has to do with how the players will react towards the Immortal and the changes in general. There will be hours of complaints on the crier, gossip, channels, etc etc. The Immortal who finally does mess with this will be bashed, personally attacked, complained about, etc. Believe what you wish, but anyone in our email lists or wiz channels knows this is exactly why this project has not been attacked yet.
 
 Re: Insomniac
 

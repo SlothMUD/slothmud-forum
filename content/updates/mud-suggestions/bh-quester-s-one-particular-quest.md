@@ -16,21 +16,21 @@ Hello!
 
 May I suggest clarifying and accordingly fixing the corresponding phrase in one of BH Quester's quest:
 
-===== start of log =====
+\===== start of log =====
 
 ask quester about quests
 
 You ask Regis about 'quests'.
 
-Regis tells you 'I offer the quest 'rat_boy', which you have completed already.'
+Regis tells you 'I offer the quest 'rat\_boy', which you have completed already.'
 
-Regis tells you 'I offer the quest 'kill_ape', which you have completed already.'
+Regis tells you 'I offer the quest 'kill\_ape', which you have completed already.'
 
-Regis tells you 'I offer the quest 'dawg_bounty', which you have completed already.'
+Regis tells you 'I offer the quest 'dawg\_bounty', which you have completed already.'
 
-Regis tells you 'I offer the quest 'subdue_Rnobs', which you have completed already.'
+Regis tells you 'I offer the quest 'subdue\_Rnobs', which you have completed already.'
 
-Regis tells you 'I offer the quest 'rogue_shrub', which you have completed already.'
+Regis tells you 'I offer the quest 'rogue\_shrub', which you have completed already.'
 
 Regis tells you 'A new strain of lycanthropy has been traced to the city of Lycanthropia.'
 
@@ -44,23 +44,23 @@ Regis tells you 'The troglodytes need to be taught a lesson.'
 
 Regis tells you 'We've called for the capture of the firenewt high priestess.'
 
-Regis tells you 'I offer the quest 'mummy_king', which you have completed already.'
+Regis tells you 'I offer the quest 'mummy\_king', which you have completed already.'
 
 Regis tells you 'When Middak is crushed, Kuo-Toa shall belong to us.'
 
-<1131hp 166ma 392mv>   +10   -10.4   49,816,376   436,208   indoors   Bal Harbor Town   -
+\<1131hp 166ma 392mv\> +10 -10.4 49,816,376 436,208 indoors Bal Harbor Town -
 
 ask quester about lycanthropy
 
 You ask Regis about 'lycanthropy'.
 
-Regis tells you 'A new strain of  lycanthropy has popped up'
+Regis tells you 'A new strain of lycanthropy has popped up'
 
-Regis tells you 'and is spreading at an  alarming rate. The'
+Regis tells you 'and is spreading at an alarming rate. The'
 
-Regis tells you 'plague is  being spread by wererats coming'
+Regis tells you 'plague is being spread by wererats coming'
 
-Regis tells you 'out  of  lycanthropia. You can  spot this'
+Regis tells you 'out of lycanthropia. You can spot this'
 
 Regis tells you 'strain of lycanthropy fairly easily. It's'
 
@@ -70,37 +70,37 @@ Regis tells you 'Slay 40 of these vermin and return them here'
 
 Regis tells you 'for a reward. level(8)'
 
-<1131hp 171ma 392mv>   +10   -10.4   49,816,376   436,208   indoors   Bal Harbor Town   -
+\<1131hp 171ma 392mv\> +10 -10.4 49,816,376 436,208 indoors Bal Harbor Town -
 
 undertake plague
 
 You're not aware of any quests by that name to undertake here.
 
-<1131hp 178ma 392mv>   +10   -10.4   49,816,376   436,208   indoors   Bal Harbor Town   -
+\<1131hp 178ma 392mv\> +10 -10.4 49,816,376 436,208 indoors Bal Harbor Town -
 
 undertake wererats
 
 You're not aware of any quests by that name to undertake here.
 
-<1131hp 184ma 392mv>   +10   -10.4   49,816,376   436,208   indoors   Bal Harbor Town   -
+\<1131hp 184ma 392mv\> +10 -10.4 49,816,376 436,208 indoors Bal Harbor Town -
 
 undertake wererat
 
 You're not aware of any quests by that name to undertake here.
 
-<1131hp 186ma 392mv>   +10   -10.4   49,816,376   436,208   indoors   Bal Harbor Town   -
+\<1131hp 186ma 392mv\> +10 -10.4 49,816,376 436,208 indoors Bal Harbor Town -
 
 undertake strain
 
 You're not aware of any quests by that name to undertake here.
 
-<1131hp 158ma 388mv>   +10   -10.4   49,816,376   436,208   indoors   Bal Harbor Town   -
+\<1131hp 158ma 388mv\> +10 -10.4 49,816,376 436,208 indoors Bal Harbor Town -
 
 undertake lycanthropy
 
 You're not aware of any quests by that name to undertake here.
 
-===== end of log =====
+\===== end of log =====
 
 Marked with red color means "kill and bring their corpses" or "subdue and bring them subdued"?
 
@@ -114,7 +114,7 @@ PS. Also "the keyword miniquest" needs to be solved once and for all somehow, I 
 
 <div class="post" data-post-id="36036" data-author="*juggleblood*" data-date="2015-08-15T00:30:25+00:00" data-subject="Re: BH Quester&#x27;s one particular quest">
 
-Those don't get undertaken.  The syntax is ask quester about keyword.
+Those don't get undertaken. The syntax is ask quester about keyword.
 
 I grant you the error message could be clearer since it's a newbie quester mob.
 

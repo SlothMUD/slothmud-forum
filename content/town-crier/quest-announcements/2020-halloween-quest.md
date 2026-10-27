@@ -22,14 +22,14 @@ The Main Event will be 6PM pacific Sunday, November 1st.
 
 Timer link for Friday (part I) is below:
 
-[<LINK_TEXT text="https://www.tickcounter.com/countdown/2 ... est-part-i">https://www.tickcounter.com/countdown/2255725/2020-slothmud-halloween-quest-part-i</LINK_TEXT>](https://www.tickcounter.com/countdown/2255725/2020-slothmud-halloween-quest-part-i)
+[https://www.tickcounter.com/countdown/2255725/2020-slothmud-halloween-quest-part-i](https://www.tickcounter.com/countdown/2255725/2020-slothmud-halloween-quest-part-i)
 
 Timer link for Sunday (part II) is below:
 
-[<LINK_TEXT text="https://www.tickcounter.com/countdown/2 ... st-part-ii">https://www.tickcounter.com/countdown/2255726/2020-slothmud-halloween-quest-part-ii</LINK_TEXT>](https://www.tickcounter.com/countdown/2255726/2020-slothmud-halloween-quest-part-ii)
+[https://www.tickcounter.com/countdown/2255726/2020-slothmud-halloween-quest-part-ii](https://www.tickcounter.com/countdown/2255726/2020-slothmud-halloween-quest-part-ii)
 
 See you all there.
 
---D
+\--D
 
 </div>

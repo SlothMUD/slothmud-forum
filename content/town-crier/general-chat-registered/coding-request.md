@@ -42,11 +42,11 @@ Then the wake, and stand msgs.
 
 And finally, trying to perform an action while sitting, resting, and sleeping to reset anything that got twisted.
 
-So altogether about 15 strings to manipulate this script.  I know :P I use it.
+So altogether about 15 strings to manipulate this script. I know <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom"> I use it.
 
 Once you get these strings its a simple trigger folder:
 
-#trigger{^You sit down.}{#var charpos Sitting}
+\#trigger{^You sit down.}{#var charpos Sitting}
 
 etc
 
@@ -56,7 +56,7 @@ Aka
 
 <div class="post" data-post-id="23132" data-author="Rynquald" data-date="2008-03-07T07:07:19+00:00" data-subject="">
 
-I guess it is only a few. Forgot how simple it was, haven't looked at anything but the var for two years :)
+I guess it is only a few. Forgot how simple it was, haven't looked at anything but the var for two years <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -112,7 +112,7 @@ Honor penalties have been tripled for the next 72 hours(ticks).
 
 <div class="post" data-post-id="23149" data-author="Weasel" data-date="2008-03-08T18:34:57+00:00" data-subject="">
 
-:shock:  so a group leader could order me to stfu and cost me honor points if I try to gtell for a heal, or staff, or missed cache, or turn off autolooter, or that I'm webbed, or tank-whining, or whatever? Don't think so yo..  :P
+<img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> so a group leader could order me to stfu and cost me honor points if I try to gtell for a heal, or staff, or missed cache, or turn off autolooter, or that I'm webbed, or tank-whining, or whatever? Don't think so yo.. <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 How about they play my char for me and tell me later if I had a good time or not? LOL.
 
@@ -130,9 +130,12 @@ I'm sorry, you may only stfu people below your own rank.
 
 <div class="post" data-post-id="23151" data-author="Roadrunr" data-date="2008-03-08T18:42:26+00:00" data-subject="">
 
-:shock:  so a group leader could order me to stfu and cost me honor points if I try to gtell for a heal, or staff, or missed cache, or turn off autolooter, or that I'm webbed, or tank-whining, or whatever? Don't think so yo..  :P
-
-How about they play my char for me and tell me later if I had a good time or not? LOL.[/quote:2rtiulai]
+> <strong>Weasel wrote:</strong>
+> <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> so a group leader could order me to stfu and cost me honor points if I try to gtell for a heal, or staff, or missed cache, or turn off autolooter, or that I'm webbed, or tank-whining, or whatever? Don't think so yo.. <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
+> 
+> 
+> 
+> How about they play my char for me and tell me later if I had a good time or not? LOL.
 
 you didnt now stfu while I get you killed a couple more times because I told all the healers to hold mana and if they heal you they lose honor.
 
@@ -146,7 +149,7 @@ LOL.. perhaps I should be a cleric prime
 
 <div class="post" data-post-id="23155" data-author="Rynquald" data-date="2008-03-08T22:09:56+00:00" data-subject="">
 
-Would you still loose honor if you just killed your leader when you disagreed with their orders? :)
+Would you still loose honor if you just killed your leader when you disagreed with their orders? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -168,7 +171,7 @@ You are viciously massacred by Alhoon
 
 You are viciously massacred by Alhoon
 
-gt 10hp 200ma 100mv NEEDED  [ 900 ]
+gt 10hp 200ma 100mv NEEDED [ 900 ]
 
 You have lost 40 honor points...
 

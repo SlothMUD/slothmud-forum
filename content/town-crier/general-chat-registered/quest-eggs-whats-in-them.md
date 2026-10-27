@@ -24,23 +24,20 @@ can you get eq in an egg?
 
 can you get gold in an egg?
 
- :?: brand
+ <img src="/images/smilies/icon_question.svg" alt=":?:" title=":?:" width="15" height="15" class="smiley nozoom"> brand
 
 </div>
 
 <div class="post" data-post-id="14039" data-author="Diazz_Dizazter" data-date="2006-09-14T22:32:34+00:00" data-subject="">
 
-[quote:3cy1ajth]
+> <strong>Quote:</strong>
+> can you get more then 1 drachma in an egg?
+> 
+> can you get eq in an egg?
+> 
+> can you get gold in an egg?
 
-can you get more then 1 drachma in an egg?
-
-can you get eq in an egg?
-
-can you get gold in an egg?
-
-[/quote:3cy1ajth]
-
-Ive gotten 25 out of an egg a couple times, though its common to get 1.  
+Ive gotten 25 out of an egg a couple times, though its common to get 1. 
 
 Unknown.
 
@@ -58,6 +55,6 @@ I think that's 1,5,25,50 drachma, hexes/octas, nice sbs, gold, sometimes questis
 
 <div class="post" data-post-id="14058" data-author="Weasel" data-date="2006-09-15T18:20:49+00:00" data-subject="">
 
-Scored a polished silver spellbook (hermetic resonance) from an egg that loaded on Forge in Oly - thanks for the help killing :)
+Scored a polished silver spellbook (hermetic resonance) from an egg that loaded on Forge in Oly - thanks for the help killing <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

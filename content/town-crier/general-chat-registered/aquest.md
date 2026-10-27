@@ -16,7 +16,7 @@ exa branch
 
 A parable has been carved into the soft bark of the branch:
 
-My scars are a symbol of ignorance.  Those who yearn for
+My scars are a symbol of ignorance. Those who yearn for
 
 salutariness, should quest the balms of the one who listens.
 
@@ -32,9 +32,9 @@ Vixn
 
 <div class="post" data-post-id="30763" data-author="jezer" data-date="2010-01-31T00:06:03+00:00" data-subject="">
 
-Thanks Vixn, I like a good mystery 8). I googled Nimyd and oddly a page from the Russian slothmud site popped up...
+Thanks Vixn, I like a good mystery <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">. I googled Nimyd and oddly a page from the Russian slothmud site popped up...
 
-AREA OPENER: Forest of Aaost   - Bazilus  , 20.12.2001 20:08 MSK
+AREA OPENER: Forest of Aaost - Bazilus , 20.12.2001 20:08 MSK
 
 	AREA OPENER: Forest of Aaost (Begins on January rd, 2002) With the death of the famous explorer Nimyd, questors are needed to uncover his murderer! The Forest of Aaost, and its hidden kingdom are too large to search alone. Before his death, Nimyd spoke about a
 
@@ -42,7 +42,7 @@ kingdom nuzzled within the tree tops of this forest. A nearby volcano continuall
 
 hook-nailed claws, thorn -like beaks and magical powers to defend their race. So gather friends and form alliances, to group and navigate the harsh environment. Go there with containers Search the forest, the trees, the land, and all inhabitants so that you can gather a fourth of a hundred items. Snatch every clue AND also collect as many of each clue
 
-as you can. This will insure the identity of the murderer. A combination of these two requests will determine one of many specific rewards that will be offered to you, for your help. Know this! Keep the equipment that you find when on your quest. To solve this murder, you will need to hand back items of evidence such as berries, drinks, maps, leaves, vines, feathers, hides, branches, weapons and ALL other UNWORN elements.[/color:36pxszod] Do NOT hesitate... I beseech that you help in this quest! To do so, you MUST visit the
+as you can. This will insure the identity of the murderer. A combination of these two requests will determine one of many specific rewards that will be offered to you, for your help. Know this! Keep the equipment that you find when on your quest. To solve this murder, you will need to hand back items of evidence such as berries, drinks, maps, leaves, vines, feathers, hides, branches, weapons and ALL other UNWORN elements. Do NOT hesitate... I beseech that you help in this quest! To do so, you MUST visit the
 
 postmaster in Bal Harbor and send mail with your name, to Seda. You will have 8 days to find and collect numerous pieces of evidence. The LAST
 
@@ -66,7 +66,7 @@ evidence will be ineligible to receive rewards. In the end, after the murderer
 
 is found, a list of questors and their rewards will be posted on January 12th,
 
-2002.
+2002\.
 
 Before his untimely death, Nimyd expressed there were two very rare
 
@@ -84,7 +84,8 @@ Did you pop or find this branch in Aaost? It's probably a left over quest item, 
 
 <div class="post" data-post-id="30764" data-author="Vixn" data-date="2010-01-31T06:26:14+00:00" data-subject="">
 
-Did you pop or find this branch in Aaost?[/quote:e793lmz1]
+> <strong>jezer wrote:</strong>
+> Did you pop or find this branch in Aaost?
 
 Got it from Nalva with a bunch of other trash items. I always wonder why to have all these items to trade if there is no use for it. I identified all of them and it says nothing but trash.
 

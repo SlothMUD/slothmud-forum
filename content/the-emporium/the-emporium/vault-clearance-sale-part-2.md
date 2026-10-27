@@ -34,9 +34,9 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: MANA by 8
+ Affects: MANA by 8
 
-    Affects: REGEN_MANA by 1
+ Affects: REGEN\_MANA by 1
 
 Only those who are at least supreme magic users and clerics may use this 
 
@@ -52,7 +52,7 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: MANA by 15
+ Affects: MANA by 15
 
 Only those who are primary experienced magic users may use this item.
 
@@ -64,9 +64,9 @@ Weight: 3, Value: 150000, Worn in: TAKE ABOUT
 
 Can affect you as:
 
-    Affects: ARMOR by -5
+ Affects: ARMOR by -5
 
-    Affects: REGEN_HP by 2
+ Affects: REGEN\_HP by 2
 
 Only those who have attained supremacy in at least three classes may use 
 
@@ -82,11 +82,11 @@ AC-apply is -0.4
 
 Can affect you as:
 
-    Affects: REGEN_HP by 2
+ Affects: REGEN\_HP by 2
 
 Only those who are at least supreme thieves, warriors, bards, or monks may 
 
-use this item.  
+use this item. 
 
 Object 'cuirass electrum three-layered magnificent', Item type: ARMOR
 
@@ -98,9 +98,9 @@ AC-apply is -2.4
 
 Can affect you as:
 
-    Affects: REGEN_HP by 2
+ Affects: REGEN\_HP by 2
 
-    Affects: HITROLL by 1
+ Affects: HITROLL by 1
 
 Only those who are at least supreme warriors may use this item.
 
@@ -152,7 +152,7 @@ just a note that the overcoat has been removed from the auction.
 
 <div class="post" data-post-id="1182" data-author="tis" data-date="2004-07-24T21:20:03+00:00" data-subject="">
 
-electrum cuirass 2m<BR>belt of vitality 1m
+electrum cuirass 2m\<BR\>belt of vitality 1m
 
 </div>
 

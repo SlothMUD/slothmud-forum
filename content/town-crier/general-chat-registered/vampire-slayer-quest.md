@@ -12,7 +12,7 @@ post_count: 10
 
 <div class="post" data-post-id="31837" data-author="jezer" data-date="2010-10-08T00:37:31+00:00" data-subject="Vampire_Slayer Quest">
 
-This quest used to be worth 120 drachma... but now the item is only worth 50dr - which will be worth even less when sold to the weaver.  :evil:  :evil:  :evil:  Another great moronic wth? nerfing change by the powers that be.
+This quest used to be worth 120 drachma... but now the item is only worth 50dr - which will be worth even less when sold to the weaver. <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom"> Another great moronic wth? nerfing change by the powers that be.
 
 id vambraces
 
@@ -20,7 +20,7 @@ Ok.
 
 You feel informed:
 
-Object 'vambraces ruby studded ingame_quest *Jezer*', Item type: ARMOR
+Object 'vambraces ruby studded ingame\_quest \*Jezer\*', Item type: ARMOR
 
 Item is: GLOW PERSONAL RESTRUNG 2x40-ITEM
 
@@ -30,13 +30,13 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: MANA by 15
+ Affects: MANA by 15
 
-    Affects: REGEN_HP by 2
+ Affects: REGEN\_HP by 2
 
 Only those who have attained supremacy in at least two classes may use this item.
 
-------------------OLD STAT------------------------
+\------------------OLD STAT------------------------
 
 id ruby
 
@@ -44,7 +44,7 @@ Ok.
 
 You feel informed:
 
-Object 'vambraces ruby studded ingame_quest *Apprentice*', Item type: ARMOR
+Object 'vambraces ruby studded ingame\_quest \*Apprentice\*', Item type: ARMOR
 
 Item is: GLOW PERSONAL RESTRUNG 2x40-ITEM
 
@@ -54,15 +54,15 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: MANA by 10
+ Affects: MANA by 10
 
-    Affects: REGEN_HP by 1
+ Affects: REGEN\_HP by 1
 
 Only those who have attained supremacy in at least two classes may use this
 
 item.
 
----------------------------------------------------------
+\---------------------------------------------------------
 
 Caster types are probably better to keep it for their max mana mode now with +5 mana or extra magic missile when your in a pinch. Apparently +5 mana is worth about 100 drachma the old way. You can keep ya stinking +5.
 
@@ -80,7 +80,7 @@ that's bad news.
 
 <div class="post" data-post-id="31839" data-author="jezer" data-date="2010-10-08T04:57:40+00:00" data-subject="Re: Vampire_Slayer Quest">
 
-I've just been to the beach hunting gemstones in crap weather  :twisted: Good haul too! Anyways, as I am wandering along the beach pondering Life and the universe, I can't stop thinking about this thread.
+I've just been to the beach hunting gemstones in crap weather <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> Good haul too! Anyways, as I am wandering along the beach pondering Life and the universe, I can't stop thinking about this thread.
 
 First things first, I want to cut back on the venom in my last post a bit. I was still annoyed at the time. Sorry about that.
 
@@ -88,19 +88,19 @@ Secondly... a logical argument...
 
 query high about beach-staff
 
-High Priest of Wisdom tells you 'Certainly, Sir!  Let me tell you about a knotted beach staff:'
+High Priest of Wisdom tells you 'Certainly, Sir! Let me tell you about a knotted beach staff:'
 
 Object 'staff beach knotted elite', Item type: WEAPON
 
 Item is: PERSONAL
 
-**Weight: 0, Value: 175drachma, Worn in: TAKE WIELD**
+<strong>Weight: 0, Value: 175drachma, Worn in: TAKE WIELD</strong>
 
 Damage Dice is '0D0'
 
 Can affect you as:
 
-    Affects: MANA by 10
+ Affects: MANA by 10
 
 Only those who are at least adept magic users, clerics, druids, or
 
@@ -126,17 +126,17 @@ Please fix.
 
 Mornin'
 
-Interesting comparison.  Clearly something worn on arms is perfectly equivalent to something wielded.  The imms must be crazy/hate us all.   -1.9 ac mystic chain mail must be 4 times better than the -.5 ac +2hpregen rings valued at 400 drachma, since they're totally comparable.  Granted, a lot of the drachma gear is priced rather peculiarly, but I believe the item in question is a quest item that more often than not is sold for more drachma.  
+Interesting comparison. Clearly something worn on arms is perfectly equivalent to something wielded. The imms must be crazy/hate us all. -1.9 ac mystic chain mail must be 4 times better than the -.5 ac +2hpregen rings valued at 400 drachma, since they're totally comparable. Granted, a lot of the drachma gear is priced rather peculiarly, but I believe the item in question is a quest item that more often than not is sold for more drachma. 
 
-I honestly have no idea who changed vampire_slayer quest reward.   I'm vaguely aware of some bug back in s3 where someone repeated the vampire_slayer quest over and over again to get potentially unlimited drachma.  Or maybe it was some other exploit with the quest; you seem to know more about it than I do.  But the point is, how dare imms close this loophole.  Overachievers deserve infinite drachma for a slight oversight, since imms can't make mistakes, or something.
+I honestly have no idea who changed vampire\_slayer quest reward. I'm vaguely aware of some bug back in s3 where someone repeated the vampire\_slayer quest over and over again to get potentially unlimited drachma. Or maybe it was some other exploit with the quest; you seem to know more about it than I do. But the point is, how dare imms close this loophole. Overachievers deserve infinite drachma for a slight oversight, since imms can't make mistakes, or something.
 
-"Can we please get it changed back to 200?"  I'm curious what is your justification for this 66% boost from your previously stated 120dr value.  Out of the values you gave (1k pre 4x40 and a 2k drachma total), this 200dr for one quest must be totally balanced.
+"Can we please get it changed back to 200?" I'm curious what is your justification for this 66% boost from your previously stated 120dr value. Out of the values you gave (1k pre 4x40 and a 2k drachma total), this 200dr for one quest must be totally balanced.
 
-The new quests?  I added those months ago, one of which you helped me with by reporting a bug not even 24 hours ago (which again, I am quite thankful that you did).   I improved rewards for a few other old quests as well that were frustratingly hard, as per several players' suggestions.  Improved pop rates on some quest items too, since some were horribly low.  I did lowered drachma rewards for some silly gofer quests, taking out maybe a stunning grand total of 20 drachma.  Take that! 
+The new quests? I added those months ago, one of which you helped me with by reporting a bug not even 24 hours ago (which again, I am quite thankful that you did). I improved rewards for a few other old quests as well that were frustratingly hard, as per several players' suggestions. Improved pop rates on some quest items too, since some were horribly low. I did lowered drachma rewards for some silly gofer quests, taking out maybe a stunning grand total of 20 drachma. Take that! 
 
-The insultingly easy quests you mentioned were taken out a long time ago.  True, finding the initial solution might have been tough, but who knows the intermediate steps anymore?  Sin's_true_name?  Yup, sure was tough just asking someone what the keyword was.  Sapphire_gem?  Two room walk, get item, give item, done!  Preva was accidentally deleted (I think Akasha made a post regarding this almost half a decade ago), and without the proper notes to restore it, will probably remain so.  If you have a copy of the steps I'd be more than happy to try reinstating it again.  
+The insultingly easy quests you mentioned were taken out a long time ago. True, finding the initial solution might have been tough, but who knows the intermediate steps anymore? Sin's\_true\_name? Yup, sure was tough just asking someone what the keyword was. Sapphire\_gem? Two room walk, get item, give item, done! Preva was accidentally deleted (I think Akasha made a post regarding this almost half a decade ago), and without the proper notes to restore it, will probably remain so. If you have a copy of the steps I'd be more than happy to try reinstating it again. 
 
-Can you see why imms react the way the do when this happens?  It seems they deliberately kick players in the guts instead of staying true to what games are actually about... being fun and fair, by devoting all this time and effort to try to create a fun and fair environment.  
+Can you see why imms react the way the do when this happens? It seems they deliberately kick players in the guts instead of staying true to what games are actually about... being fun and fair, by devoting all this time and effort to try to create a fun and fair environment. 
 
 Chobbs
 
@@ -146,34 +146,32 @@ Chobbs
 
 Mr Chobbs, you have tricky way about you.
 
-> **Quote:**
-> -1.9 ac mystic chain mail must be 4 times better than the -.5 ac +2hpregen rings valued at 400 drachma, since they're totally comparable.
+> <strong>Quote:</strong>
+> \-1.9 ac mystic chain mail must be 4 times better than the -.5 ac +2hpregen rings valued at 400 drachma, since they're totally comparable.
 
 I didn't say this, you invented it too try and make me look stupid. You do this a lot don't you! This is the second time you've tried this putting words in my mouth approach. I don't believe this at all.
 
-> **Quote:**
-> I honestly have no idea who changed vampire_slayer quest reward.
+> <strong>Quote:</strong>
+> I honestly have no idea who changed vampire\_slayer quest reward.
 
-Then why step up on take on scary whining Jezer of the sloth players union? Feeling a bit defensive?  :lol: 
+Then why step up on take on scary whining Jezer of the sloth players union? Feeling a bit defensive? <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> 
 
-> **Quote:**
+> <strong>Quote:</strong>
 > But the point is, how dare imms close this loophole.
 
 Once again you seek to show the world one of you dellusions... you make it sound like I support using loopholes... but then you just happen to mention I just reported a quest bug to you in my favour less than 24 hrs ago.
 
-> **Quote:**
-> "Can we please get it changed back to 200?"  I'm curious what is your justification for this 66% boost from your previously stated 120dr value.
-
-  
+> <strong>Quote:</strong>
+> "Can we please get it changed back to 200?" I'm curious what is your justification for this 66% boost from your previously stated 120dr value.
 
 The item is worth 200dr, it sells for 120dr. It's a bit embarrassing when immortal shows this amount of ignorance... I mean I posted the old ID value, and we know the weaver is a cut price dealer in second hand goods. I don't expect an immortal to know sloth 100% but that one was easy.
 
-> **Quote:**
-> taking out maybe a stunning grand total of 20 drachma.  Take that!
+> <strong>Quote:</strong>
+> taking out maybe a stunning grand total of 20 drachma. Take that!
 
-Ooooof!  :shock: Mercy! 
+Ooooof! <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> Mercy! 
 
-For the record, I thought you looked hot with the light sabre.  :D
+For the record, I thought you looked hot with the light sabre. <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -207,7 +205,7 @@ Don't feed Je... errr trolls.
 
 <div class="post" data-post-id="31844" data-author="Toxis" data-date="2010-10-08T14:27:05+00:00" data-subject="Re: Vampire_Slayer Quest">
 
-What was wrong with sins true name or sapphire gem?  They were different, and they weren't that much drachma in comparrison to what we need to buy big eq.  Now we can barely kill epics to get 1 drachma.  If you guys want to keep us at tri40, just remove the rest of the classes, there's no point.
+What was wrong with sins true name or sapphire gem? They were different, and they weren't that much drachma in comparrison to what we need to buy big eq. Now we can barely kill epics to get 1 drachma. If you guys want to keep us at tri40, just remove the rest of the classes, there's no point.
 
 2-3 rounds of man back lag.. Makes me want to be a healer, mkay thx.
 
@@ -229,15 +227,15 @@ Splork
 
 sometimes I don't get how people want the game made ridiculously easy.
 
-Drachma EQ/Books are made to be bought with drachma for a reason.  Theer's a limited supply of drachma for a reason.  These items make your character that much stronger.   1k drachma could potentially buy you 3 drachma eq that's much better than anything in game.
+Drachma EQ/Books are made to be bought with drachma for a reason. Theer's a limited supply of drachma for a reason. These items make your character that much stronger. 1k drachma could potentially buy you 3 drachma eq that's much better than anything in game.
 
-sapphire gem and sin's true name were ridiculous to be even considered autoquests.  If you want the drachma, spend the time cycling the mobs.  Of course that would mean actually doing some work isntead of botting in groups.  Heck, people are too lazy to even cycle their own spellbooks.
+sapphire gem and sin's true name were ridiculous to be even considered autoquests. If you want the drachma, spend the time cycling the mobs. Of course that would mean actually doing some work isntead of botting in groups. Heck, people are too lazy to even cycle their own spellbooks.
 
 it took me barely 2 weeks to get almost 700 drachma, and i have some items on me to complete a few others.
 
 if cycling drachma mobs doesn't interest you, don't bitch about not being able to get drachma eq.
 
-as jezer said, the vampire slayer quest can be done in such a way where u don't die.  I did it with my previous character, and it isn't even that hard, except for 1 mob which i died to due to a lag spike.  its drachma "reward" has been watered down for a long time, and it's kinda funny that nobody bitched up a storm till jezer came along.
+as jezer said, the vampire slayer quest can be done in such a way where u don't die. I did it with my previous character, and it isn't even that hard, except for 1 mob which i died to due to a lag spike. its drachma "reward" has been watered down for a long time, and it's kinda funny that nobody bitched up a storm till jezer came along.
 
 people need to "adapt" to the game, not demand that the game be altered to suit your needs or lack of intelligence.
 

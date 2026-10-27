@@ -20,6 +20,6 @@ In fight it would be quite useless because you can cast 3 spells in 2 rounds alr
 
 <div class="post" data-post-id="788" data-author="Leizu" data-date="2004-06-18T11:24:21+00:00" data-subject="">
 
-btw, druids can not always blast 3 times per 2 rounds. that's not good :)
+btw, druids can not always blast 3 times per 2 rounds. that's not good <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

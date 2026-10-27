@@ -34,12 +34,12 @@ me likes lots
 
 <div class="post" data-post-id="34836" data-author="mrwarhammer" data-date="2014-01-28T02:43:02+00:00" data-subject="Re: Mudlet Gui&#x27;s ( Akaya )">
 
-I want this.. how do I get it?  I'd be happy just for the mapper but.. :)
+I want this.. how do I get it? I'd be happy just for the mapper but.. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="34838" data-author="*Splork*" data-date="2014-01-28T12:13:24+00:00" data-subject="Re: Mudlet Gui&#x27;s ( Akaya )">
 
-[<LINK_TEXT text="http://www.slothmud.org/wp/welcome-to-s ... om-plugins">http://www.slothmud.org/wp/welcome-to-slothmud/the-library/game-clients/custom-plugins</LINK_TEXT>](http://www.slothmud.org/wp/welcome-to-slothmud/the-library/game-clients/custom-plugins)
+[http://www.slothmud.org/wp/welcome-to-slothmud/the-library/game-clients/custom-plugins](http://www.slothmud.org/wp/welcome-to-slothmud/the-library/game-clients/custom-plugins)
 
 </div>

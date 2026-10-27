@@ -12,7 +12,7 @@ post_count: 35
 
 <div class="post" data-post-id="1783" data-author="Ezekiel" data-date="2004-09-05T07:45:06+00:00" data-subject="WTS:Stuff/Tokens">
 
-Robe cleaning...sorry about all the junk...happy sifting :P<BR>ivory scarab- 50k<BR>grey robe- 500k<BR>emerald bracelet- 200k<BR>open faced, shiny steel helm- 600k<BR>white helm of frost - 4.5 mil<BR>voodoo doll- 50k<BR>2x helm of fiery radiance- 400k a piece<BR>2x obsidian pearl- 800k each<BR>bayonet gloves- 300k<BR>silver stiletto- 250k<BR>2x ring of the dead- 85k each<BR>4x magethrees- 75k each<BR>scarlet sage wrap- 125k<BR>obsidian jewel of souls- 500k<BR>Shield of the Rainmaster- 450k<BR>obsidian fingersleeves-100k<BR>golden lancer shield- 300k<BR>lucky rabbit's foot charm- 150k<BR>gem cutter- 250k<BR>helm of lightning- 150k<BR>diamond sceptre - 200k<BR>ethereal sash- 150k <BR>onyx sleeves- 75k<BR>heavy iron ring- 800k<BR>9 hex tokens - 3 mil min (must be bought as set thx)<BR>6 tris tokens - 1.25 mil <BR>flaming sash- 300k<BR>pair of granite tipped boots - 400k<BR>living shield- 650k<BR>bloodstained zweihander -1.5 mil<BR>ring of white fire- 5 mil<BR>2x green dragonscale cloak - 550k a piece<BR>blue steel sleeves- 550k<BR>set of emerald gauntlets (first forge +15 mana o­nes) - 3 mil<BR>mystical cloak - 375k<BR>robes of the minstrel - 500k<BR>
+Robe cleaning...sorry about all the junk...happy sifting <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">\<BR\>ivory scarab- 50k\<BR\>grey robe- 500k\<BR\>emerald bracelet- 200k\<BR\>open faced, shiny steel helm- 600k\<BR\>white helm of frost - 4.5 mil\<BR\>voodoo doll- 50k\<BR\>2x helm of fiery radiance- 400k a piece\<BR\>2x obsidian pearl- 800k each\<BR\>bayonet gloves- 300k\<BR\>silver stiletto- 250k\<BR\>2x ring of the dead- 85k each\<BR\>4x magethrees- 75k each\<BR\>scarlet sage wrap- 125k\<BR\>obsidian jewel of souls- 500k\<BR\>Shield of the Rainmaster- 450k\<BR\>obsidian fingersleeves-100k\<BR\>golden lancer shield- 300k\<BR\>lucky rabbit's foot charm- 150k\<BR\>gem cutter- 250k\<BR\>helm of lightning- 150k\<BR\>diamond sceptre - 200k\<BR\>ethereal sash- 150k \<BR\>onyx sleeves- 75k\<BR\>heavy iron ring- 800k\<BR\>9 hex tokens - 3 mil min (must be bought as set thx)\<BR\>6 tris tokens - 1.25 mil \<BR\>flaming sash- 300k\<BR\>pair of granite tipped boots - 400k\<BR\>living shield- 650k\<BR\>bloodstained zweihander -1.5 mil\<BR\>ring of white fire- 5 mil\<BR\>2x green dragonscale cloak - 550k a piece\<BR\>blue steel sleeves- 550k\<BR\>set of emerald gauntlets (first forge +15 mana o­nes) - 3 mil\<BR\>mystical cloak - 375k\<BR\>robes of the minstrel - 500k\<BR\>
 
 </div>
 
@@ -20,7 +20,7 @@ Robe cleaning...sorry about all the junk...happy sifting :P<BR>ivory scarab- 50k
 
 This is just a clearer version of above...
 
-robe cleaning...sorry about all the junk...happy sifting :P
+robe cleaning...sorry about all the junk...happy sifting <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 ivory scarab- 50k
 
@@ -98,7 +98,7 @@ robes of the minstrel - 500k
 
 <div class="post" data-post-id="1786" data-author="Methyx" data-date="2004-09-05T08:14:48+00:00" data-subject="White Helm Of Frost">
 
-OK...let's try this again ;)
+OK...let's try this again <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 4.5 Mil for the White Helm Of Frost
 
@@ -108,7 +108,7 @@ Sorry about the doubled post....is there a way to clear it out??
 
 <div class="post" data-post-id="1787" data-author="Methyx" data-date="2004-09-05T08:24:53+00:00" data-subject="Helm Of Lightning">
 
-And, 150k for the Helm Of Lightning ;)
+And, 150k for the Helm Of Lightning <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -156,7 +156,7 @@ Ameryx
 
 obsidian pearl - 800k
 
-onyx sleeves  - 75k
+onyx sleeves - 75k
 
 </div>
 
@@ -372,6 +372,6 @@ Open-Faced Shiny Steel Helm- 600k Brady
 
 Thanks again.
 
--Ezekiel
+\-Ezekiel
 
 </div>

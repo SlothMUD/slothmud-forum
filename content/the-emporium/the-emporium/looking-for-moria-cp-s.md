@@ -36,7 +36,7 @@ Suggest some prices and if coinage is feasible then I'll see about raising coins
 
 <div class="post" data-post-id="16562" data-author="Ah_Puch" data-date="2007-01-28T18:57:35+00:00" data-subject="Sigh">
 
-This was posted on the emporium.. how it got here...no idea :?:
+This was posted on the emporium.. how it got here...no idea <img src="/images/smilies/icon_question.svg" alt=":?:" title=":?:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -64,7 +64,8 @@ what's a rainment
 
 <div class="post" data-post-id="16909" data-author="Shazuko" data-date="2007-02-15T16:08:09+00:00" data-subject="">
 
-[quote:1j1plm91]what's a rainment[/quote:1j1plm91]
+> <strong>Quote:</strong>
+> what's a rainment
 
 its when you get to plead 'guilty, not guilty, or 'nolo condender'...
 
@@ -72,19 +73,19 @@ its when you get to plead 'guilty, not guilty, or 'nolo condender'...
 
 <div class="post" data-post-id="16922" data-author="tincts" data-date="2007-02-15T21:04:01+00:00" data-subject="">
 
-rofl  :lol:
+rofl <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="16923" data-author="Guinex" data-date="2007-02-15T21:08:37+00:00" data-subject="">
 
-OMG Tincts has 50 posts. :o
+OMG Tincts has 50 posts. <img src="/images/smilies/icon_e_surprised.svg" alt=":o" title=":o" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="16924" data-author="tincts" data-date="2007-02-15T21:36:57+00:00" data-subject="">
 
-I'm a man of few words, but deep words. :shock:
+I'm a man of few words, but deep words. <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -96,13 +97,13 @@ Kevin Smith you're not...
 
 <div class="post" data-post-id="16928" data-author="Ah_Puch" data-date="2007-02-15T22:49:46+00:00" data-subject="Knee Deep in Doo-Doo">
 
-Sorry for the confusion. The item I seek is some flaming RAIMENT[/color:n5ftclhz] and NOT[/color:n5ftclhz]some flaming RAINMENT[/color:n5ftclhz]. Although both items are quite similiar, the latter has a unknown 'n' factor that changes it's composition quite annoyingly.
+Sorry for the confusion. The item I seek is some flaming RAIMENT and NOTsome flaming RAINMENT. Although both items are quite similiar, the latter has a unknown 'n' factor that changes it's composition quite annoyingly.
 
-SO...[/color:n5ftclhz][/size:n5ftclhz]
+SO...
 
-Looking for someone/anyone who is looking to make coins for selling me, yet again, some flaming raiment[/size:n5ftclhz]
+Looking for someone/anyone who is looking to make coins for selling me, yet again, some flaming raiment
 
- :roll:
+ <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -122,13 +123,13 @@ I'd say its definately in the top 10 of mobs to cf at.
 
 <div class="post" data-post-id="16936" data-author="12345" data-date="2007-02-16T00:31:59+00:00" data-subject="">
 
-Opps, my bad, I was thinking of Smaug.  Balrog can be killed.
+Opps, my bad, I was thinking of Smaug. Balrog can be killed.
 
 </div>
 
 <div class="post" data-post-id="16939" data-author="Ah_Puch" data-date="2007-02-16T01:28:17+00:00" data-subject="12345">
 
-I am going to have to buy that last cp. From what I've gathered, I'm looking to pay at least 10-15 mil if not more[/size:3rt1ehet][/color:3rt1ehet] so
+I am going to have to buy that last cp. From what I've gathered, I'm looking to pay at least 10-15 mil if not more so
 
 whoever wishes to name an amount I will need to raise then I'll have something to go on. While I don't have that coinage now, I'll chip away till I have the necessary amount.
 
@@ -138,7 +139,7 @@ whoever wishes to name an amount I will need to raise then I'll have something t
 
 or you can lead for it.....just a thought.
 
-"you want the truth?  you can't handle the truth!" --col. nathan r. jessep --> a few good men
+"you want the truth? you can't handle the truth!" --col. nathan r. jessep --\> a few good men
 
 </div>
 
@@ -150,13 +151,13 @@ Smaug isn't even that bad of a mob.
 
 <div class="post" data-post-id="16963" data-author="osric" data-date="2007-02-17T00:13:38+00:00" data-subject="">
 
-He will only toss the entire group one char at a time all the way to another level but in the end hes not that bad no. :)
+He will only toss the entire group one char at a time all the way to another level but in the end hes not that bad no. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="16965" data-author="12345" data-date="2007-02-17T01:54:22+00:00" data-subject="">
 
-Moria is just a great place to die in general.  It's not too bad if you got a smart group.  Oddly, in my experience, the more people you bring with you, the better your odds of things getting screwed up.  And Moria is very unforgiving.
+Moria is just a great place to die in general. It's not too bad if you got a smart group. Oddly, in my experience, the more people you bring with you, the better your odds of things getting screwed up. And Moria is very unforgiving.
 
 </div>
 
@@ -168,7 +169,7 @@ Just a thought.. can you be tossed through a forcefield?
 
 <div class="post" data-post-id="16967" data-author="Medios" data-date="2007-02-17T06:04:24+00:00" data-subject="">
 
-Fight Smaug like a stab mob and not a chop mob.  Pretend you want to kill him as fast as hes killing you.
+Fight Smaug like a stab mob and not a chop mob. Pretend you want to kill him as fast as hes killing you.
 
 Mike
 
@@ -184,11 +185,11 @@ You really couldn't have phrased that any better.
 
 I hate Moria for two reasons.
 
-I remember when Dug had to dumb down WestWood and change a bunch of mob names because it was too close to WoT copyright infringement.  As if Robert Jordan is going to play Sloth and then bring a lawsuit.  Well after that Judge put in not one, but TWO plagiarized areas.  Moria and the Unseen University.  
+I remember when Dug had to dumb down WestWood and change a bunch of mob names because it was too close to WoT copyright infringement. As if Robert Jordan is going to play Sloth and then bring a lawsuit. Well after that Judge put in not one, but TWO plagiarized areas. Moria and the Unseen University. 
 
 What's that breeze?
 
-It's Moria.  It sucks.
+It's Moria. It sucks.
 
 </div>
 
@@ -200,7 +201,8 @@ Heh, moria is one of the few areas i like.
 
 <div class="post" data-post-id="16984" data-author="Vixn" data-date="2007-02-18T11:45:29+00:00" data-subject="">
 
-Just a thought.. can you be tossed through a forcefield?[/quote:v8b6a76m]
+> <strong>Weasel wrote:</strong>
+> Just a thought.. can you be tossed through a forcefield?
 
 yep. easy.
 
@@ -210,10 +212,10 @@ yep. easy.
 
 I like Moria, it's fun to have some areas that are more difficult than average.
 
-It's funny to be smacked through force fields and through closed, locked doors.  I've always thought force fields should be more useful in general.
+It's funny to be smacked through force fields and through closed, locked doors. I've always thought force fields should be more useful in general.
 
-A) kill a mob = corpse, coins, and pops fall to the room below.  force field down = corpse, coins, and pops fall onto the force field but no further.
+A) kill a mob = corpse, coins, and pops fall to the room below. force field down = corpse, coins, and pops fall onto the force field but no further.
 
-B) shooting mobs = pain right through the force field.  force field west = some blocked shots before the force field falls.
+B) shooting mobs = pain right through the force field. force field west = some blocked shots before the force field falls.
 
 </div>

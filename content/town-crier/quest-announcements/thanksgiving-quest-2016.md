@@ -16,11 +16,11 @@ post_count: 3
 
 How big or small depends on who replies to me from the admin and what they say, and they haven't said anything.
 
-Stay tuned.  But the time of the quest start is set.
+Stay tuned. But the time of the quest start is set.
 
 Thank you for your patience,
 
---Idj
+\--Idj
 
 </div>
 
@@ -36,20 +36,20 @@ Thank you Breeze.
 
 And so without much further ado I will outline basically what's going to happen.
 
-1) The fearsome world turducken, Gobblemondu will once again make an appearance.
+1\) The fearsome world turducken, Gobblemondu will once again make an appearance.
 
-2) A limited amount of epics will be spawned, with only some bearing tokens.
+2\) A limited amount of epics will be spawned, with only some bearing tokens.
 
-3) A number of the mysterious Phase Berries will be deployed.  Turn them in at Colonel Harland at BH Castle
+3\) A number of the mysterious Phase Berries will be deployed. Turn them in at Colonel Harland at BH Castle
 
 for a reward.
 
-4) A number of ravaging torky boids will also emerge.
+4\) A number of ravaging torky boids will also emerge.
 
 And again this is at Noon Server Time on the 24th.
 
 Hope to see you all there,
 
---Idjit
+\--Idjit
 
 </div>

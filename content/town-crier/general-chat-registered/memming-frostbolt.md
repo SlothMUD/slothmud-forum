@@ -14,9 +14,9 @@ post_count: 3
 
 Is frostbolt memmable?
 
-(I tried but I had just learned the spell to 95%.  Perhaps it is only memmable after renting.)
+(I tried but I had just learned the spell to 95%. Perhaps it is only memmable after renting.)
 
-According to the setup for spells, as I understand them it should be memmable.  It is a level 38 mage spell, and therefore should be memmable.  Am I missing something?
+According to the setup for spells, as I understand them it should be memmable. It is a level 38 mage spell, and therefore should be memmable. Am I missing something?
 
 Thanks.
 
@@ -26,27 +26,27 @@ Help files:
 
 "FROSTBOLT"
 
-See also:     ICE RAY CHILL TOUCH 
+See also: ICE RAY CHILL TOUCH 
 
-Usage:        cast 'frostbolt' <target>
+Usage: cast 'frostbolt' \<target\>
 
 Accumulative: -
 
-Duration:     Instantaneous
+Duration: Instantaneous
 
-Level:        Mage 38
+Level: Mage 38
 
-Save:         save vs spell for half damage.
+Save: save vs spell for half damage.
 
-Spellbook:    spellbook covered in frost
+Spellbook: spellbook covered in frost
 
-Stratum:      Channelling
+Stratum: Channelling
 
-Min mana:     28
+Min mana: 28
 
 With this spell, the mage creates a mass of ice and chilled air and
 
-launches it at his opponent.  In addition to causing frostbite and
+launches it at his opponent. In addition to causing frostbite and
 
 damage from the shards of ice, the victim may be so chilled that his
 
@@ -56,35 +56,35 @@ he warms up again.
 
 "IOUN STONES" IOUN
 
-See also:    MEMORIZATION MEM CLEAR 
+See also: MEMORIZATION MEM CLEAR 
 
 Ioun stones are objects which appear on random creatures throughout the 
 
-game which enable you to mage memorize spells.  There are four types of 
+game which enable you to mage memorize spells. There are four types of 
 
 these stones and they have corresponding spells that can be mem'd with them.
 
-Stone name        Description        Spell level able to be mem'd
+Stone name Description Spell level able to be mem'd
 
-mageone            lavender rhomboid    level  9 and under
+mageone lavender rhomboid level 9 and under
 
-magetwo            blue spherical        level 19 and under
+magetwo blue spherical level 19 and under
 
-magethree        white spindle        level 29 and under
+magethree white spindle level 29 and under
 
-magefour        lavender ellipsoid    level 40 and under
+magefour lavender ellipsoid level 40 and under
 
 </div>
 
 <div class="post" data-post-id="10803" data-author="Qa" data-date="2006-02-20T22:11:20+00:00" data-subject="">
 
-Doh.  I bet it is because I need 6 mage4s now...
+Doh. I bet it is because I need 6 mage4s now...
 
-*slap* Qa
+\*slap\* Qa
 
 Nevermind.
 
-*blush*
+\*blush\*
 
 </div>
 

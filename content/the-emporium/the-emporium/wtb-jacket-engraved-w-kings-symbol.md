@@ -12,7 +12,7 @@ post_count: 2
 
 <div class="post" data-post-id="597" data-author="Alberich" data-date="2004-06-09T13:44:29+00:00" data-subject="wtb jacket engraved w/kings symbol">
 
-If you've got one gathering dust in a vault, get ahold of me - might have some random stuff to trade, and as always, coins :)
+If you've got one gathering dust in a vault, get ahold of me - might have some random stuff to trade, and as always, coins <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

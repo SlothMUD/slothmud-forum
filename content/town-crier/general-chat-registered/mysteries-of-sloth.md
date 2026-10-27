@@ -18,37 +18,37 @@ YOU ARE FALLING.... AAAIIIEEEEEE!!!!
 
 Way Above a Gnome Statue
 
-Exits: Down  
+Exits: Down 
 
 YOU ARE FALLING.... AAAIIIEEEEEE!!!!
 
 Above a Gnome Statue
 
-Exits: Down  
+Exits: Down 
 
 YOU ARE FALLING.... AAAIIIEEEEEE!!!!
 
 By a Gnome Statue
 
-Exits: East  West  
+Exits: East West 
 
 S
 
  M
 
-  A
+ A
 
-   C
+ C
 
-    K
+ K
 
-     !!!!!!!!!!
+ !!!!!!!!!!
 
 You hit the ground with an impressive thud!!!
 
-Your tumbling partially deflects the oncoming blow![/color:3t5uixt0]
+Your tumbling partially deflects the oncoming blow!
 
-Yeah, tricky Russians are able to avoid gravity!! :)
+Yeah, tricky Russians are able to avoid gravity!! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -60,9 +60,9 @@ Serves you right for fondling lawn statues. Btw, that wasn't the elephants trunk
 
 <div class="post" data-post-id="26466" data-author="angel" data-date="2008-09-25T02:51:08+00:00" data-subject="">
 
-<914hp 189ma 225mv>[-12.0] [+16h - +26d] [64,347] [+9] [Desert of Despair]
+\<914hp 189ma 225mv\>[-12.0] [+16h - +26d] [64,347] [+9] [Desert of Despair]
 
-> > > A bolt of dark energy arcs from Aston's weapon to a dune stalker!
+\> \> \> A bolt of dark energy arcs from Aston's weapon to a dune stalker!
 
 A dune stalker's bones crunch under a well-aimed attack by Spells!
 
@@ -102,7 +102,7 @@ A dune stalker utters the words, 'judicandus wuiaf'
 
 You report 57/1286 hp. Change: -855. Need: 1229. Spells: aegis.
 
-<57hp 189ma 225mv>[-12.0] [+16h - +26d] [64,347] [+9] [Desert of Despair]
+\<57hp 189ma 225mv\>[-12.0] [+16h - +26d] [64,347] [+9] [Desert of Despair]
 
 thats just stalker...sandworm now does almost 1k damage a round now...
 
@@ -138,7 +138,7 @@ Rynquald receives 134247776 experience points.
 
 Everything The eternal flame was carrying suddenly drops to the ground.
 
-<958hp 288ma 261mv>[-12.0] [+12h - +12d] [479,679] [+9] [Hellwell]
+\<958hp 288ma 261mv\>[-12.0] [+12h - +12d] [479,679] [+9] [Hellwell]
 
 Ok.
 
@@ -146,7 +146,7 @@ A warm feeling fills your body.
 
 You report 1141/1296 hp. Change: +185. Need: 155. Spells: aegis, greater fluidity.
 
-<1141hp 246ma 261mv>[-12.0] [+12h - +12d] [479,679] [+9] [Hellwell]
+\<1141hp 246ma 261mv\>[-12.0] [+12h - +12d] [479,679] [+9] [Hellwell]
 
 gt LOL
 
@@ -154,41 +154,41 @@ gt 2.5Saving Sa.
 
 Saving items.
 
-<1145hp 247ma 261mv>[-12.0] [+12h - +12d] [479,679] [+9] [Hellwell]
+\<1145hp 247ma 261mv\>[-12.0] [+12h - +12d] [479,679] [+9] [Hellwell]
 
 gt 2.5 rSaving Sa.
 
 Saving items.
 
-<1145hp 247ma 261mv>[-12.0] [+12h - +12d] [479,679] [+9] [Hellwell]
+\<1145hp 247ma 261mv\>[-12.0] [+12h - +12d] [479,679] [+9] [Hellwell]
 
 gt 2.5 runs
 
 groYou grouptell: '[Tomato] LOL'
 
-<1146hp 248ma 261mv>[-12.0] [+12h - +12d] [479,679] [+9] [Hellwell]
+\<1146hp 248ma 261mv\>[-12.0] [+12h - +12d] [479,679] [+9] [Hellwell]
 
 grou
 
 You grouptell: '[Tomato] 2.5 runs'
 
-<1146hp 248ma 261mv>[-12.0] [+12h - +12d] [479,679] [+9] [Hellwell]
+\<1146hp 248ma 261mv\>[-12.0] [+12h - +12d] [479,679] [+9] [Hellwell]
 
 Group '2mannin' consists of:
 
-  (Point)               Sa [Wa:5.40 1148hp 248ma 261mv] ---                           
+ (Point) Sa [Wa:5.40 1148hp 248ma 261mv] --- 
 
-                  Rynquald [Ma:5.40  428hp 270ma 235mv] ---
+ Rynquald [Ma:5.40 428hp 270ma 235mv] ---
 
 You report 1148/1296 hp. Change: +7. Need: 148. Spells: greater fluidity, aegis.
 
-<1148hp 248ma 261mv>[-12.0] [+12h - +12d] [479,679] [+9] [Hellwell]
+\<1148hp 248ma 261mv\>[-12.0] [+12h - +12d] [479,679] [+9] [Hellwell]
 
 l
 
 Rynquald picks up gold coins.
 
-Rynquald splits 2000 coins.  Your share is 1000 coins.
+Rynquald splits 2000 coins. Your share is 1000 coins.
 
 interesting coins
 
@@ -196,7 +196,7 @@ interesting coins
 
 <div class="post" data-post-id="26783" data-author="Vixn" data-date="2008-10-20T21:12:47+00:00" data-subject="stupid lost conc!!">
 
-<920hp 281ma 61mv -10.0ac +3al 0 overcast | 361161931 exp>
+\<920hp 281ma 61mv -10.0ac +3al 0 overcast \| 361161931 exp\>
 
 e
 
@@ -210,15 +210,15 @@ You are viciously massacred by a vampiric darkmage's bite.
 
 A Dark Mausoleum
 
-Exits: West  
+Exits: West 
 
-A vampiric darkmage is here, fighting  YOU!
+A vampiric darkmage is here, fighting YOU!
 
-<835hp 283ma 62mv -10.0ac +3al 0 indoors | 361161931 exp>
+\<835hp 283ma 62mv -10.0ac +3al 0 indoors \| 361161931 exp\>
 
-You lost your concentration![/color:2zecm0rb]
+You lost your concentration!
 
-<835hp 267ma 62mv -10.0ac +3al 0 indoors | 361161931 exp>
+\<835hp 267ma 62mv -10.0ac +3al 0 indoors \| 361161931 exp\>
 
 You pierce a vampiric darkmage hard.
 
@@ -240,15 +240,15 @@ A vampiric darkmage utters the words, 'yufzxuie' (firewind)
 
 Your spectral shield has drained power from the spell!
 
-You are blasted by a painful burning wind!!  THAT REALLY HURT!!
+You are blasted by a painful burning wind!! THAT REALLY HURT!!
 
-<433hp 280ma 62mv -10.0ac +3al 0 indoors | 361162741 exp>
+\<433hp 280ma 62mv -10.0ac +3al 0 indoors \| 361162741 exp\>
 
 sing 'cry of the avatars' dark
 
-You lost your concentration![/color:2zecm0rb]
+You lost your concentration!
 
-<435hp 265ma 63mv -10.0ac +3al 0 indoors | 361162741 exp>
+\<435hp 265ma 63mv -10.0ac +3al 0 indoors \| 361162741 exp\>
 
 You pierce a vampiric darkmage very hard.
 
@@ -266,23 +266,23 @@ A vampiric darkmage misses you with his bite.
 
 You pierce a vampiric darkmage very hard.
 
-<209hp 267ma 65mv -10.0ac +3al 0 indoors | 361164766 exp>
+\<209hp 267ma 65mv -10.0ac +3al 0 indoors \| 361164766 exp\>
 
-You lost your concentration![/color:2zecm0rb]
+You lost your concentration!
 
-<209hp 251ma 65mv -10.0ac +3al 0 indoors | 361164766 exp>
+\<209hp 251ma 65mv -10.0ac +3al 0 indoors \| 361164766 exp\>
 
-|
+\|
 
 flee
 
 Covered Walkway
 
-Exits: North  East  South  
+Exits: North East South 
 
 You flee head over heels.
 
-[i:2zecm0rb]then, finnaly[/i:2zecm0rb]
+<em>then, finnaly</em>
 
 A vampiric darkmage remembers you, and ATTACKS!
 
@@ -290,9 +290,9 @@ You are viciously massacred by a vampiric darkmage's bite.
 
 A Dark Mausoleum
 
-Exits: West  
+Exits: West 
 
-A vampiric darkmage is here, fighting  YOU!
+A vampiric darkmage is here, fighting YOU!
 
 You quickly sing a verse of 'cry of the avatars'.
 
@@ -310,7 +310,7 @@ You get gold coins from the corpse of a vampiric darkmage that's on the ground.
 
 There were 20000 coins.
 
-[i:2zecm0rb]and next spell again[/i:2zecm0rb]
+<em>and next spell again</em>
 
 cast 'embalm' corpse
 
@@ -318,9 +318,9 @@ Saving Kida.
 
 Saving items.
 
-<667hp 46ma 85mv -10.0ac +3al 1 indoors | 364609756 exp>
+\<667hp 46ma 85mv -10.0ac +3al 1 indoors \| 364609756 exp\>
 
-You lost your concentration![/color:2zecm0rb]
+You lost your concentration!
 
 And please don't tell me it's all due to my bad luck.
 
@@ -342,7 +342,7 @@ It's all due to your bad luck.
 
 <div class="post" data-post-id="26789" data-author="Weasel" data-date="2008-10-20T22:50:22+00:00" data-subject="">
 
-oh, and you suxor at muddings.  :twisted:
+oh, and you suxor at muddings. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -410,7 +410,7 @@ Although some mobs items never show on locate... the sphere in onyx tower for in
 
 I'd like to confirm this, Can we get 100% poprate this coming Saturday around 11am eastern?
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -424,13 +424,13 @@ A glowing, golden war hammer appears in your hands!
 
 You are using:
 
-<worn about body>    Godly Vestments of the Holy Soothsayer.. (with a maple-leaf brooch attached to it)
+\<worn about body\> Godly Vestments of the Holy Soothsayer.. (with a maple-leaf brooch attached to it)
 
-<worn about waist>   a clipped feather
+\<worn about waist\> a clipped feather
 
-<worn around wrist>  a band of ether..It glows violet!
+\<worn around wrist\> a band of ether..It glows violet!
 
-<worn around wrist>  a band of ether..It glows violet!
+\<worn around wrist\> a band of ether..It glows violet!
 
 Could we use charms in forms? Or if it's forbidden let's remove successful message.
 
@@ -454,7 +454,7 @@ Also i've mentioned this before... make dispel magic a targetted spell. It's rea
 
 <div class="post" data-post-id="27323" data-author="alias" data-date="2008-11-30T14:49:32+00:00" data-subject="">
 
-#alias {dm} {cas 'dispel magic' $targ}
+\#alias {dm} {cas 'dispel magic' $targ}
 
 I wish all the fixes were so easy......
 
@@ -464,15 +464,24 @@ Now on to other things.
 
 <div class="post" data-post-id="27324" data-author="Weasel" data-date="2008-11-30T16:50:15+00:00" data-subject="">
 
-Good try there Vixn, I never thought to try that.
-
-While we are on about small fixes... spirit watchers... they take up 1 mana regen... whats really annoying is when the mob area's and you've forgotten to kick him out of the room... it's goodbye mana regen.
-
-It's a pain to rent to get it back when you have a beacon at places like under dark or infernites.
-
-As long as I've played it's been bugged... can you just like... admit defeat... make the stupid watcher use no mana regen... cause as long as I've played... you've never been able to fix it. Just make it nothing! Problem solved after what 15? years... 
-
-Also i've mentioned this before... make dispel magic a targetted spell. It's really frustrating having shield of thorns ready to burst or aegis about to drop when ur ready to run... Sometimes I do a complete dispel, if I know shield is going to burst next fight, or else I attack a mob in regen, so it does burst...[/quote:k8vsrtgo]
+> <strong>jezer wrote:</strong>
+> Good try there Vixn, I never thought to try that.
+> 
+> 
+> 
+> While we are on about small fixes... spirit watchers... they take up 1 mana regen... whats really annoying is when the mob area's and you've forgotten to kick him out of the room... it's goodbye mana regen.
+> 
+> 
+> 
+> It's a pain to rent to get it back when you have a beacon at places like under dark or infernites.
+> 
+> 
+> 
+> As long as I've played it's been bugged... can you just like... admit defeat... make the stupid watcher use no mana regen... cause as long as I've played... you've never been able to fix it. Just make it nothing! Problem solved after what 15? years... 
+> 
+> 
+> 
+> Also i've mentioned this before... make dispel magic a targetted spell. It's really frustrating having shield of thorns ready to burst or aegis about to drop when ur ready to run... Sometimes I do a complete dispel, if I know shield is going to burst next fight, or else I attack a mob in regen, so it does burst...
 
 Good points Jezer. 
 
@@ -480,9 +489,9 @@ re watchers: Even worse if you use multiple watchers, as it's -2 mana regen for 
 
 re dispel: Totally - how about an advanced (maybe avatarish level) version of dispel magic where you can target the spell as well as the person, 
 
-ie: [b:k8vsrtgo]cast 'dispel magic' stone-skin Jezer[/b:k8vsrtgo].
+ie: <strong>cast 'dispel magic' stone-skin Jezer</strong>.
 
-instead of current: [b:k8vsrtgo]cast 'dispel magic' Jezer[/b:k8vsrtgo]. which dispels everything.
+instead of current: <strong>cast 'dispel magic' Jezer</strong>. which dispels everything.
 
 People have been asking for something like this for many years. Is it a coding issue?
 
@@ -490,11 +499,16 @@ People have been asking for something like this for many years. Is it a coding i
 
 <div class="post" data-post-id="27325" data-author="Weasel" data-date="2008-11-30T16:55:34+00:00" data-subject="">
 
-#alias {dm} {cas 'dispel magic' $targ}
-
-I wish all the fixes were so easy......
-
-Now on to other things.[/quote:1bs6jm1h]
+> <strong>alias wrote:</strong>
+> \#alias {dm} {cas 'dispel magic' $targ}
+> 
+> 
+> 
+> I wish all the fixes were so easy......
+> 
+> 
+> 
+> Now on to other things.
 
 erm.. think Jezer meant for targeting specific spells.. 
 
@@ -504,11 +518,12 @@ ie: cast 'dispel magic' stone-skin Jezer.
 
 <div class="post" data-post-id="27331" data-author="*juggleblood*" data-date="2008-12-01T13:06:15+00:00" data-subject="">
 
-[b:d6mtnasi]cast 'dispel magic' stone-skin Jezer[/b:d6mtnasi].
-
-instead of current: [b:d6mtnasi]cast 'dispel magic' Jezer[/b:d6mtnasi]. which dispels everything.
-
-People have been asking for something like this for many years. Is it a coding issue?[/quote:d6mtnasi]
+> <strong>Weasel wrote:</strong>
+> <strong>cast 'dispel magic' stone-skin Jezer</strong>.
+> 
+> instead of current: <strong>cast 'dispel magic' Jezer</strong>. which dispels everything.
+> 
+> People have been asking for something like this for many years. Is it a coding issue?
 
 Word. I've always thought this ability should come with the advanced mysteries of magic mage skill. If a thief can manage to steal a specific aura off another player (one the thief can't cast even), then surely a mage can manage their own auras.
 
@@ -516,11 +531,12 @@ Word. I've always thought this ability should come with the advanced mysteries o
 
 <div class="post" data-post-id="27336" data-author="Vixn" data-date="2008-12-01T20:10:21+00:00" data-subject="">
 
-If a thief can manage to steal a specific aura off another player (one the thief can't cast even), then surely a mage can manage their own auras.[/quote:aabeofhu]
+> <strong>juggleblood wrote:</strong>
+> If a thief can manage to steal a specific aura off another player (one the thief can't cast even), then surely a mage can manage their own auras.
 
 Mages still can't create rosted goose on the plate instead of on the dusty floor. 
 
-Magic is wild.  8)
+Magic is wild. <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -544,9 +560,12 @@ Are there any situations where I would need infra vision to see something... tha
 
 <div class="post" data-post-id="27344" data-author="Weasel" data-date="2008-12-03T01:13:11+00:00" data-subject="">
 
-Are there any situations where I would need infra vision to see something... that I couldn't see if I had dark sight up?
-
-(That's to say... does darksight make infravision redundant?)[/quote:3dvi28qd]
+> <strong>jezer wrote:</strong>
+> Are there any situations where I would need infra vision to see something... that I couldn't see if I had dark sight up?
+> 
+> 
+> 
+> (That's to say... does darksight make infravision redundant?)
 
 Not sure as to the answer to your question, but if you're thinking of buying perma-infravision at the avatar shop, I wouldn't bother - unless you have some other head clasp, the reddish-colored glass eye head clasp gives you infravision along with +1 to hit. Although you probably already know this and I'm probably on the wrong track completely, so I'll just stfu now.
 
@@ -560,9 +579,12 @@ Not sure as to the answer to your question, but if you're thinking of buying per
 
 <div class="post" data-post-id="27350" data-author="*juggleblood*" data-date="2008-12-03T14:42:34+00:00" data-subject="">
 
-Are there any situations where I would need infra vision to see something... that I couldn't see if I had dark sight up?
-
-(That's to say... does darksight make infravision redundant?)[/quote:3l4j8sdi]
+> <strong>jezer wrote:</strong>
+> Are there any situations where I would need infra vision to see something... that I couldn't see if I had dark sight up?
+> 
+> 
+> 
+> (That's to say... does darksight make infravision redundant?)
 
 Darksight is better. Infravision doesn't let you see objects on the floor of the room.
 
@@ -570,11 +592,16 @@ Darksight is better. Infravision doesn't let you see objects on the floor of the
 
 <div class="post" data-post-id="27351" data-author="*juggleblood*" data-date="2008-12-03T14:45:04+00:00" data-subject="">
 
-At avatar... 
-
-Can Resist Fire be bought more than once?
-
-Is there a difference between the Resist Fire component of Elemental Resistance and the general resist fire?[/quote:je8qejt9]
+> <strong>jezer wrote:</strong>
+> At avatar... 
+> 
+> 
+> 
+> Can Resist Fire be bought more than once?
+> 
+> 
+> 
+> Is there a difference between the Resist Fire component of Elemental Resistance and the general resist fire?
 
 fire bane, resist fire, and elemental resistance are equal power. You can only buy resist fire once iirc.
 
@@ -590,11 +617,10 @@ Can a forged scroll of ethereal gods be sold for drachma?
 
 There was an epic lag today:
 
-Rovena gossips-- 'this is mad it's taken me 5 mins to walk from well to shallah on ss'
-
-Cizin gossips-- 'you should eat that many cookies on xmas Rov .)'
-
-[/quote:2uos0itt]
+> <strong>Lag Log wrote:</strong>
+> Rovena gossips-- 'this is mad it's taken me 5 mins to walk from well to shallah on ss'
+> 
+> Cizin gossips-- 'you should eat that many cookies on xmas Rov .)'
 
 </div>
 
@@ -602,29 +628,31 @@ Cizin gossips-- 'you should eat that many cookies on xmas Rov .)'
 
 Those crows are cowards.
 
-A large crow hates your guts!
-
-A large crow makes a strange sound, as you place the finger in its back.
-
-The wound turns black from the poison on your blade.
-
-A large crow makes a strange sound, as you place the finger in its back.
-
-A large crow panics, and attempts to flee.
-
-A large crow leaves west.
-
-Total exp for kill is 295014.[/quote:35zdgky2]
+> <strong>Sloth Log wrote:</strong>
+> A large crow hates your guts!
+> 
+> A large crow makes a strange sound, as you place the finger in its back.
+> 
+> The wound turns black from the poison on your blade.
+> 
+> A large crow makes a strange sound, as you place the finger in its back.
+> 
+> A large crow panics, and attempts to flee.
+> 
+> A large crow leaves west.
+> 
+> Total exp for kill is 295014.
 
 Wonderful that I can get exp from the mob dying 1w from me, but I can't get money from corpse in this room.
 
- 8)
+ <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="27642" data-author="Weasel" data-date="2009-01-05T23:58:36+00:00" data-subject="">
 
-Can a forged scroll of ethereal gods be sold for drachma?[/quote:2sq3d80w]
+> <strong>jezer wrote:</strong>
+> Can a forged scroll of ethereal gods be sold for drachma?
 
 I doubt it. I have 3 ethereal scrolls I bought a long time ago at drachma shop and I can't sell them back. Be careful what you type when you buy stuff there! I presume it's because they're not personalized is why they can't be sold back - same with forged ones..
 
@@ -632,39 +660,39 @@ I doubt it. I have 3 ethereal scrolls I bought a long time ago at drachma shop a
 
 <div class="post" data-post-id="27683" data-author="Vixn" data-date="2009-01-10T22:08:03+00:00" data-subject="">
 
-[b:3tg6ne3z]Sloth Math:[/b:3tg6ne3z]
+<strong>Sloth Math:</strong>
 
-1) Your song can affect as many as [b:3tg6ne3z]nine[/color:3tg6ne3z][/b:3tg6ne3z] people.
+1\) Your song can affect as many as <strong>nine</strong> people.
 
-2) Group 'BH XP OPEN' consists of:
+2\) Group 'BH XP OPEN' consists of:
 
-Toxis              [Wa:5.40 1312hp 247ma 237mv] ---
+Toxis [Wa:5.40 1312hp 247ma 237mv] ---
 
-Stormshadow  [Th:4.39  889hp 397ma 295mv] ---
+Stormshadow [Th:4.39 889hp 397ma 295mv] ---
 
-Defi                [Wa:1.25  528hp 205ma 124mv] ---
+Defi [Wa:1.25 528hp 205ma 124mv] ---
 
-Nojd               [Th:2.27  676hp 148ma 181mv] ---
+Nojd [Th:2.27 676hp 148ma 181mv] ---
 
-Strauss           [Ma:2.33  680hp 275ma 130mv] ---
+Strauss [Ma:2.33 680hp 275ma 130mv] ---
 
-Dawg              [Wa:0.20  394hp 133ma 117mv] Super Sponge                  
+Dawg [Wa:0.20 394hp 133ma 117mv] Super Sponge 
 
-Tazette           [Cl:3.38  584hp 189ma 132mv] 547ma                         
+Tazette [Cl:3.38 584hp 189ma 132mv] 547ma 
 
-Ziva               [Ma:1.37  436hp 377ma  90mv] ---
+Ziva [Ma:1.37 436hp 377ma 90mv] ---
 
-Epiphany        [Ne:2.36  638hp 538ma 150mv] 628/607- np - ygol jewels
+Epiphany [Ne:2.36 638hp 538ma 150mv] 628/607- np - ygol jewels
 
-3) You are singing 'lion chorus' for Defi[/color:3tg6ne3z], Strauss[/color:3tg6ne3z], Toxis[/color:3tg6ne3z], Tazette[/color:3tg6ne3z], Epiphany[/color:3tg6ne3z], Ziva[/color:3tg6ne3z], and yourself[/color:3tg6ne3z].
+3\) You are singing 'lion chorus' for Defi, Strauss, Toxis, Tazette, Epiphany, Ziva, and yourself.
 
 Do the math!
 
- 8)
+ <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 Hm, probably Stormshadow and Dawg just aren't ppl! Are they!?
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -676,13 +704,16 @@ figures.....
 
 <div class="post" data-post-id="27687" data-author="Akasha" data-date="2009-01-11T17:24:39+00:00" data-subject="">
 
-[b:2mype00c]Sloth Math:[/b:2mype00c]
-
- as many as [/quote:2mype00c]
+> <strong>Vixn wrote:</strong>
+> <strong>Sloth Math:</strong>
+> 
+> 
+> 
+> as many as
 
 up to, a max of, not always but could, etc
 
-:P
+<img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -692,25 +723,25 @@ The Fine Art of Making Short Descriptions:
 
 The Ancient Mariner
 
-   The interior of this inn is dark and smoky.  Thick oak beams, blackened 
+ The interior of this inn is dark and smoky. Thick oak beams, blackened 
 
-with age, run across the ceiling.  A large fireplace at one end holds a few 
+with age, run across the ceiling. A large fireplace at one end holds a few 
 
 smoking logs: blackened kettles and pans nearby suggest that it is used for 
 
-cooking.  At the other end is a narrow bar, on which stand wooden kegs of 
+cooking. At the other end is a narrow bar, on which stand wooden kegs of 
 
 various sizes and a selection of pewter tankards.
 
-Exits: East  
+Exits: East 
 
 A red and white staff is leaning against the wall here.
 
 A pulsing mass of darkness lies tangled on the ground.
 
-[b:2w207v3r]A songbook has been left here...It emits a faint humming sound![/color:2w207v3r]
+<strong>A songbook has been left here...It emits a faint humming sound!</strong>
 
-[/b:2w207v3r]A garnet spellbook with strange runes lies forgotten on the ground.
+A garnet spellbook with strange runes lies forgotten on the ground.
 
 A board titled 'Most Famous Explorers' hangs on the wall here.
 
@@ -742,9 +773,9 @@ You deftly snatch a red and white staff.
 
 You deftly snatch the essence of shadow.
 
-[b:2w207v3r]You deftly snatch Rhapsody of the Forge.[/color:2w207v3r][/b:2w207v3r]  <-- That's It! 
+<strong>You deftly snatch Rhapsody of the Forge.</strong> \<-- That's It! 
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -752,7 +783,7 @@ You deftly snatch the essence of shadow.
 
 Laugh, you have a talent for picking these things out... 
 
-I have just as much trouble trying to drop the thing when I get the random pop on lyme.  :D
+I have just as much trouble trying to drop the thing when I get the random pop on lyme. <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 

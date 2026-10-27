@@ -24,11 +24,11 @@ Weight: 1, Value: 5000000gold, Worn in: TAKE
 
 Clasp can only be attached to:
 
-   belts
+ belts
 
 Clasp gives the user +5 MANA
 
-Clasp gives the user +1 REGEN_MANA
+Clasp gives the user +1 REGEN\_MANA
 
 Only those who have attained supremacy in at least three classes may use 
 
@@ -38,15 +38,15 @@ this item.
 
 <div class="post" data-post-id="25983" data-author="Widow" data-date="2008-08-29T11:50:29+00:00" data-subject="">
 
-Grats, Sa. I know you've been cycling that for a long time. I just want you to know that you can sell it to me for 1k at anytime.  :wink:
+Grats, Sa. I know you've been cycling that for a long time. I just want you to know that you can sell it to me for 1k at anytime. <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="25984" data-author="firebrand" data-date="2008-08-29T13:22:16+00:00" data-subject="">
 
-or you can donate it to chameleon.  i really woudn't mind and would even NOT BITCH ABOUT IT.  *j/k*....sort of  :twisted: gtz on that darlin
+or you can donate it to chameleon. i really woudn't mind and would even NOT BITCH ABOUT IT. \*j/k\*....sort of <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> gtz on that darlin
 
-"meanwhile, at a very expensive waterfall set... " -narrator --> george of the jungle
+"meanwhile, at a very expensive waterfall set... " -narrator --\> george of the jungle
 
 </div>
 
@@ -60,6 +60,6 @@ thx reb,get ur butt back here n mudd:)
 
 <div class="post" data-post-id="25987" data-author="Widow" data-date="2008-08-29T17:37:44+00:00" data-subject="">
 
-Yen   8)
+Yen <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>

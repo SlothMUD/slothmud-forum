@@ -26,7 +26,7 @@ seems like connection to mud is down for sure, mud may still be running, which s
 
 Well, I'm not surprised, always when my mob popped. 
 
-*scream*
+\*scream\*
 
 </div>
 
@@ -40,7 +40,7 @@ sorry for the mishap
 
 <div class="post" data-post-id="13487" data-author="osric" data-date="2006-07-17T02:10:12+00:00" data-subject="">
 
-Ive said it a thousand times, druids are broken :)
+Ive said it a thousand times, druids are broken <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -52,7 +52,7 @@ Dirty animals =((
 
 <div class="post" data-post-id="13489" data-author="daedalus" data-date="2006-07-17T02:13:06+00:00" data-subject="">
 
-*Sniff*
+\*Sniff\*
 
 </div>
 
@@ -64,7 +64,7 @@ Mike, I'm gonna take a shower and check if group/mud is up a bit later
 
 <div class="post" data-post-id="13491" data-author="altoid" data-date="2006-07-17T02:23:58+00:00" data-subject="">
 
-:( I was in the middle of corpse retrieval...I got some of it back (but I'm not sure if I had saved).  Some had been lootted.
+<img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom"> I was in the middle of corpse retrieval...I got some of it back (but I'm not sure if I had saved). Some had been lootted.
 
 </div>
 
@@ -84,7 +84,7 @@ Nod the only good thing is that I got to watch entourage without having to bot!
 
 what druid bug??
 
-also altoid any idea what items might have been looted.  A lot of us have spare newbie stuff in storage or tend to pop a lot of stuff randomly or will just help you pop it if need be.  Just holler when you know wha tyou are missing and I will see what I can do to help.  
+also altoid any idea what items might have been looted. A lot of us have spare newbie stuff in storage or tend to pop a lot of stuff randomly or will just help you pop it if need be. Just holler when you know wha tyou are missing and I will see what I can do to help. 
 
 Shyla
 
@@ -92,19 +92,19 @@ Shyla
 
 <div class="post" data-post-id="13495" data-author="osric" data-date="2006-07-17T02:36:45+00:00" data-subject="">
 
-Think I'm gonna venture out to see a movie, get my corpse if this is just a connection thing :)
+Think I'm gonna venture out to see a movie, get my corpse if this is just a connection thing <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="13496" data-author="altoid" data-date="2006-07-17T02:47:17+00:00" data-subject="">
 
-Thanks Shyla.  It looked like I had lost my stabber (blue glass dagger), waist (soft white sash) and both wrists(quickling bracer, polished steel bracelet).  Getting a good stabber back is probably the hardest to replace for me, although I can use holy for a while.  Good night all.
+Thanks Shyla. It looked like I had lost my stabber (blue glass dagger), waist (soft white sash) and both wrists(quickling bracer, polished steel bracelet). Getting a good stabber back is probably the hardest to replace for me, although I can use holy for a while. Good night all.
 
 </div>
 
 <div class="post" data-post-id="13498" data-author="Weasel" data-date="2006-07-17T03:09:45+00:00" data-subject="">
 
-MUD back up btw :)
+MUD back up btw <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

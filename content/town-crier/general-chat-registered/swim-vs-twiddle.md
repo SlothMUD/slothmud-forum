@@ -16,15 +16,15 @@ how about it...I've been thinking about it for a while...
 
 I don't care if it takes the same time as a boat ride, its the WAITING for a boat to show up that makes me want to jam a hot poker in my eye...the swim itself can be the same length as the boat ride, or maybe even a tick longer since people dont swim as fast, but it would still be a bit shorter than waiting for a boat that just left, or you just missed as you type 'enter'...
 
-you make your swim check by typing <swim continent>; if you fail and fall in the water, you type 'climb pier' (or its equivelent) to get out of the water and start over, before you start drowning...it would make a great warrior skill, and possibly a druid and thief (remember the excr blow auto)...
+you make your swim check by typing \<swim continent\>; if you fail and fall in the water, you type 'climb pier' (or its equivelent) to get out of the water and start over, before you start drowning...it would make a great warrior skill, and possibly a druid and thief (remember the excr blow auto)...
 
 my .666 cents...
 
-<Shazuko Roku Ryuu>
+\<Shazuko Roku Ryuu\>
 
-<Shazuko Six Dragons>
+\<Shazuko Six Dragons\>
 
-<~Chaos~>
+\<\~Chaos\~\>
 
 </div>
 
@@ -46,7 +46,7 @@ Use the boat and twiddle your thumbs for eternity.
 
 If I wanted to do all that, I wouldn't have suggested it! Of course, those with reloc won't need it...!
 
-------------------------------------
+\------------------------------------
 
 If I'm not mistaken, the longest boat ride is about 5 ticks, which equates to 5 hours...by oceanic standards, thats not far at all..you wouldn't get past the bahamas or maybe jamaica in 5 hrs...
 
@@ -58,11 +58,11 @@ Also, our medieval chars are far more capable then our modern counterparts, and 
 
 !
 
-<Shazuko Roku Ryuu>
+\<Shazuko Roku Ryuu\>
 
-<Shazuko Six Dragons>
+\<Shazuko Six Dragons\>
 
-<~Chaos~>
+\<\~Chaos\~\>
 
 </div>
 
@@ -78,7 +78,8 @@ Vixn aka Edd.
 
 <div class="post" data-post-id="20386" data-author="13" data-date="2007-09-25T17:08:36+00:00" data-subject="">
 
-[quote:3tvl7m62]swimming in the ocean a few hours is quite plausible. [/quote:3tvl7m62]
+> <strong>Quote:</strong>
+> swimming in the ocean a few hours is quite plausible.
 
 ever try swimming in a cuirass with a shield
 
@@ -88,11 +89,11 @@ ever try swimming in a cuirass with a shield
 
 thats actually a good point..I thought about that and all I've got for a rebuttle are the following:
 
-#1) 
+\#1) 
 
-In most mythoi(including d&d), when an item becomes enchanted, it
+In most mythoi(including d\&d), when an item becomes enchanted, it
 
-automatically doubles in material strength, and loses 50% of its  
+automatically doubles in material strength, and loses 50% of its 
 
 natural weight due to the enchantment, making them lighter then their
 
@@ -100,15 +101,15 @@ mundane counterparts...(which is how a bony wizard can wield an
 
 enchanted 2 handed long sword)
 
-#2) 
+\#2) 
 
-Our char str scores go way, way beyond the modern norm..most  
+Our char str scores go way, way beyond the modern norm..most 
 
 people today have an avg str of 12-14, with those in above avg shape hitting maybe 15-16+, with those few power lifters/strongest man hitting
 
-possibly 17-18, to _maybe_ 18/10...ogre power is 18/100; ogres can
+possibly 17-18, to \_maybe\_ 18/10...ogre power is 18/100; ogres can
 
-carry  400lb eq like the avg person wears jeans and a tshirt, without  
+carry 400lb eq like the avg person wears jeans and a tshirt, without 
 
 breaking a sweat; if your str is even close to that, your gonna be able
 
@@ -118,11 +119,11 @@ in the strongest man competitions...few, if any, of those guys comes close to an
 
 thats all I've got....oh well...
 
-<Shazuko Roku Ryuu>
+\<Shazuko Roku Ryuu\>
 
-<Shazuko Six Dragons>
+\<Shazuko Six Dragons\>
 
-<~Chaos~>
+\<\~Chaos\~\>
 
 </div>
 
@@ -144,6 +145,6 @@ A suggestion (if you just missed the boat) is to start killing anything worthwhi
 
 <div class="post" data-post-id="20395" data-author="kjartan" data-date="2007-09-26T20:15:08+00:00" data-subject="">
 
-We could add mamelukes (in the Tove Jansson sense) to the possible things you catch; they just break the line, unless you have forged the Fishing Line of the Gods, in which case you still can't reel them in but they tow the boat to the next port (or, anyway, some port) immediately.  This destroys the boat; it will however be rebuilt in time for the next scheduled departure.
+We could add mamelukes (in the Tove Jansson sense) to the possible things you catch; they just break the line, unless you have forged the Fishing Line of the Gods, in which case you still can't reel them in but they tow the boat to the next port (or, anyway, some port) immediately. This destroys the boat; it will however be rebuilt in time for the next scheduled departure.
 
 </div>

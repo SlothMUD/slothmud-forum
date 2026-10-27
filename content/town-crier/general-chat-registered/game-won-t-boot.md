@@ -32,7 +32,7 @@ I was only 5bil gold away from world domination. =(
 
 <div class="post" data-post-id="38559" data-author="Gorka" data-date="2017-12-23T15:58:22+00:00" data-subject="Re: Game won&#x27;t boot...">
 
-Your sleeves of complete awesomeness had just popped but now the games down and you can't get them?  :cry: 
+Your sleeves of complete awesomeness had just popped but now the games down and you can't get them? <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> 
 
 ![](http://image.boomsbeat.com/data/images/full/212281/oh-really.jpg)
 

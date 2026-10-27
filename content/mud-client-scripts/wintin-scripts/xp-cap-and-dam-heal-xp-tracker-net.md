@@ -22,48 +22,48 @@ Also its not set up to be turned on and off. It just always activates when you'r
 
 You may have to create the initial variables to get it going, but I don't think so.
 
-Enjoy :)
+Enjoy <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-#defgroup experience
+\#defgroup experience
 
-#ac  {^You receive %0 experience} {save;#var mobxp $0;trigxpcheck;trigxpgag;sc} {G|experience}
+\#ac {^You receive %0 experience} {save;#var mobxp $0;trigxpcheck;trigxpgag;sc} {G\|experience}
 
-#al {trigxpcheck} {#ac {^You have %0 unused} {#var xpcurrent $0; #math xpdelta $0-$xpcurrent;#showme {XPdelta is $xpdelta};#if {$xpdelta<$mobxp} {#math xpcap {$mobxp-$xpdelta};#showme {XPCap is $xpcap}};#if {$xpdelta>$mobxp} {#math damxp {$xpdelta-$mobxp};#showme {You received  $damxp exp points for damage done.}};#if {$damxp=0} {#showme You did no recent damage.}} {O}} {G|experience}
+\#al {trigxpcheck} {#ac {^You have %0 unused} {#var xpcurrent $0; #math xpdelta $0-$xpcurrent;#showme {XPdelta is $xpdelta};#if {$xpdelta\<$mobxp} {#math xpcap {$mobxp-$xpdelta};#showme {XPCap is $xpcap}};#if {$xpdelta\>$mobxp} {#math damxp {$xpdelta-$mobxp};#showme {You received $damxp exp points for damage done.}};#if {$damxp=0} {#showme You did no recent damage.}} {O}} {G\|experience}
 
-#al {trigxpgag} {#ac {(level:} {xpgagon}{O};#ac {^You are affected}{xpgagoff}{O}} {G|experience}
+\#al {trigxpgag} {#ac {(level:} {xpgagon}{O};#ac {^You are affected}{xpgagoff}{O}} {G\|experience}
 
-#al  {xpgagoff} {#disable xpgag} {G|experience}
+\#al {xpgagoff} {#disable xpgag} {G\|experience}
 
-#al  {xpgagon} {#enable xpgag} {G|experience}
+\#al {xpgagon} {#enable xpgag} {G\|experience}
 
-#defgroup xpgag
+\#defgroup xpgag
 
-#gag  {armor} {G|xpgag}
+\#gag {armor} {G\|xpgag}
 
-#gag  {drachma} {G|xpgag}
+\#gag {drachma} {G\|xpgag}
 
-#gag  {evil} {G|xpgag}
+\#gag {evil} {G\|xpgag}
 
-#gag  {example} {G|xpgag}
+\#gag {example} {G\|xpgag}
 
-#gag  {gold} {G|xpgag}
+\#gag {gold} {G\|xpgag}
 
-#gag  {good} {G|xpgag}
+\#gag {good} {G\|xpgag}
 
-#gag  {levels} {G|xpgag}
+\#gag {levels} {G\|xpgag}
 
-#gag  {movement} {G|xpgag}
+\#gag {movement} {G\|xpgag}
 
-#gag  {neutral} {G|xpgag}
+\#gag {neutral} {G\|xpgag}
 
-#gag  {protecting} {G|xpgag}
+\#gag {protecting} {G\|xpgag}
 
-#gag  {sleeping} {G|xpgag}
+\#gag {sleeping} {G\|xpgag}
 
-#gag  {Str} {G|xpgag}
+\#gag {Str} {G\|xpgag}
 
-#gag  {thirsty} {G|xpgag}
+\#gag {thirsty} {G\|xpgag}
 
-#gag  {throat} {G|xpgag}
+\#gag {throat} {G\|xpgag}
 
 </div>

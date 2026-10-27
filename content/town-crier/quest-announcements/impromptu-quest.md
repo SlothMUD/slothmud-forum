@@ -20,13 +20,13 @@ Straightforward kill quest.
 
 Come one come all.
 
---D
+\--D
 
 </div>
 
 <div class="post" data-post-id="36986" data-author="*Breeze*" data-date="2016-06-26T20:58:11+00:00" data-subject="Re: Impromptu Quest">
 
-30 Jun 2016 @ 2200 GMT - Idjit made a new epic mob.  will load it and put either a) crystal token or b) group split token on it.  leaders choice.
+30 Jun 2016 @ 2200 GMT - Idjit made a new epic mob. will load it and put either a) crystal token or b) group split token on it. leaders choice.
 
 @Idjit - remind me
 
@@ -48,7 +48,7 @@ Did you mean a rainbow token, which may include a gem?
 
 <div class="post" data-post-id="36997" data-author="*Breeze*" data-date="2016-06-28T19:46:47+00:00" data-subject="Re: Impromptu Quest">
 
-group split =  everyone gets same thing
+group split = everyone gets same thing
 
 crystal token = everyone gets 1D# reward
 

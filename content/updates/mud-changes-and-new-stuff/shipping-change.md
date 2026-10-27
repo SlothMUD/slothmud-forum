@@ -14,9 +14,9 @@ post_count: 1
 
 The postmaster will now only keep items for fifteen days, then the items will go into the unclaimed bin. From here, anyone can buy them simply by paying the shipping charges(and maybe some others). Items will remain in the unclaimed bin for five days only and then be discarded by the postmaster.
 
-This change will not go in until a reboot or crash occurs. I am giving you this warning because I have a feeling a ton of items will immiediatly get shipped to the unclaimed bin since many of you have been using shipping as a a free vault :twisted: 
+This change will not go in until a reboot or crash occurs. I am giving you this warning because I have a feeling a ton of items will immiediatly get shipped to the unclaimed bin since many of you have been using shipping as a a free vault <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-Reclaim any items you want to keep now, because after reboot those items will be boughten by other players :twisted:
+Reclaim any items you want to keep now, because after reboot those items will be boughten by other players <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 Enjoy,
 

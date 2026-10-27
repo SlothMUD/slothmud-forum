@@ -14,6 +14,6 @@ post_count: 1
 
 why have a just a light when you can have...
 
- :twisted: brand
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> brand
 
 </div>

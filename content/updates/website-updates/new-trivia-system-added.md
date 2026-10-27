@@ -58,17 +58,18 @@ err.. I actually thought that the raft was the hollow corpse that pops in cremat
 
 <div class="post" data-post-id="507" data-author="Weasel" data-date="2004-06-03T14:18:29+00:00" data-subject="">
 
-Neat idea btw (trivia quiz) ..just shows how little I know.. 3/10  :shock:
+Neat idea btw (trivia quiz) ..just shows how little I know.. 3/10 <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="508" data-author="Drauk" data-date="2004-06-03T14:55:34+00:00" data-subject="Re: some ketchups">
 
-Question #3
-
-Do we consider Ice ghost in matterhorn (which is blaster's area) to be a floating corpse? If not - please rewrite his desc
-
-[/quote:3slmbao4]
+> <strong>HelxenKitamelorif wrote:</strong>
+> Question #3
+> 
+> 
+> 
+> Do we consider Ice ghost in matterhorn (which is blaster's area) to be a floating corpse? If not - please rewrite his desc
 
 MH (both oroginal and new) isn't Blasters'a area.
 
@@ -76,7 +77,7 @@ MH (both oroginal and new) isn't Blasters'a area.
 
 <div class="post" data-post-id="516" data-author="Blaster" data-date="2004-06-03T19:12:51+00:00" data-subject="">
 
-Just because there may be more of something in the game, you need to figure out what answer best fits the question.  Trust me, all questions have answers that are correct, even if it means none of the above.  Some are just a little more tricky then others.
+Just because there may be more of something in the game, you need to figure out what answer best fits the question. Trust me, all questions have answers that are correct, even if it means none of the above. Some are just a little more tricky then others.
 
 And MH is not my area btw.
 

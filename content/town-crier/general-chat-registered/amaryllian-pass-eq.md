@@ -12,7 +12,7 @@ post_count: 12
 
 <div class="post" data-post-id="35205" data-author="*Idjit*" data-date="2014-06-01T19:01:26+00:00" data-subject="Amaryllian Pass EQ">
 
-1. a pair of rabbit ears..It has a soft glowing aura!
+1\. a pair of rabbit ears..It has a soft glowing aura!
 
 You recite a scroll of identify which dissolves.
 
@@ -26,17 +26,17 @@ Weight: 1, Value: 2485gold, Worn in: TAKE HEAD
 
 Clasp can only be attached to:
 
-   helmets, hats, and the like
+ helmets, hats, and the like
 
 Clasp gives the user +1 HITROLL
 
-Clasp gives the user -1 SAVING_POISON
+Clasp gives the user -1 SAVING\_POISON
 
 Only those who are no more than experienced magic users, clerics, thieves,
 
 warriors, druids, necromancers, bards, or monks may use this item.
 
-2. a ring of tormented souls..It has a soft glowing aura!
+2\. a ring of tormented souls..It has a soft glowing aura!
 
 You recite a scroll of identify which dissolves.
 
@@ -52,15 +52,15 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: REGEN_MANA by 2
+ Affects: REGEN\_MANA by 2
 
-    Affects: UNDEAD_CONTROL by 1
+ Affects: UNDEAD\_CONTROL by 1
 
 Only those who are at least adept magic users, clerics, druids,
 
 necromancers, or bards may use this item.
 
-3. the shield of the ram..It has a soft glowing aura!
+3\. the shield of the ram..It has a soft glowing aura!
 
 You recite a scroll of identify which dissolves.
 
@@ -76,13 +76,13 @@ AC-apply is -0.5
 
 Can affect you as:
 
-    Affects: HAND_DAMAGE by 1
+ Affects: HAND\_DAMAGE by 1
 
 Only those who are at least adept warriors, bards, or monks may use this
 
 item.
 
---Fun quest, I participated as Toranaga.
+\--Fun quest, I participated as Toranaga.
 
 Amaryllian Pass is located due north of where scroll of homing deposits you in Thalassas, except you don't go west and upward to go into the mountains, just keep going north.
 
@@ -104,9 +104,9 @@ AC-apply is -0.1
 
 Can affect you as:
 
-    Affects: HITROLL by 2
+ Affects: HITROLL by 2
 
-    Affects: SPELL_BONUS by 5
+ Affects: SPELL\_BONUS by 5
 
 Only those who are at least adept clerics, thieves, warriors, druids,
 
@@ -126,9 +126,9 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: INT by 1
+ Affects: INT by 1
 
-    Affects: DEX by 1
+ Affects: DEX by 1
 
 Only those who are at least adept magic users, clerics, warriors, druids,
 
@@ -138,7 +138,7 @@ Most of the mobs are good sized for Valkers, with a couple larger mobs (topping 
 
 One shimmering token was loaded on the boss mob. Much fun was had by all. There are some night mobs (banshees, zombies, and the like). Some very nice items of equipment.
 
-Thanks to Neptune for running the quest, opening this area, and all for following a bad leader. :)
+Thanks to Neptune for running the quest, opening this area, and all for following a bad leader. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -162,9 +162,9 @@ Weight: 5, Value: 3500gold, Worn in: TAKE HOLD
 
 Can affect you as:
 
-    Affects: CON by 1
+ Affects: CON by 1
 
-    Affects: REGEN_HP by 1
+ Affects: REGEN\_HP by 1
 
 Only those who are at least adept thieves, warriors, bards, or monks may
 
@@ -184,9 +184,9 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: UNDEAD_CONTROL by 1
+ Affects: UNDEAD\_CONTROL by 1
 
-    Affects: RESIST_DISEASE by 1
+ Affects: RESIST\_DISEASE by 1
 
 Only those who are primary adept necromancers may use this item.
 
@@ -224,7 +224,7 @@ AC-apply is -0.1
 
 Can affect you as:
 
-    Affects: STR by 1
+ Affects: STR by 1
 
 Only those who are at least adept thieves, warriors, bards, or monks may
 
@@ -244,7 +244,7 @@ Amaryllian Pass. These books have been removed and should
 
 not load anymore in that area.
 
--Neptune
+\-Neptune
 
 </div>
 

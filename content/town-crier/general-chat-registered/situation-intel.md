@@ -30,8 +30,9 @@ Pi (gtell): it was wrong one
 
 <div class="post" data-post-id="18532" data-author="Autolycos" data-date="2007-05-18T12:41:00+00:00" data-subject="Re: Situation intel">
 
-Pi (gtell): it was wrong one[/quote:3cnv21ng]
+> <strong>tincts wrote:</strong>
+> Pi (gtell): it was wrong one
 
-I hate it when an equation comes out wrong!!   :twisted:
+I hate it when an equation comes out wrong!! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

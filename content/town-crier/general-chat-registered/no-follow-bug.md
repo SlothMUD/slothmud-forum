@@ -14,21 +14,21 @@ post_count: 2
 
 Players are VERY OFTEN not following the leader in groups. It has happened in the past, but it seems to have come back in the past couple of months... to the point where we can't group anymore without it happening to someone, or multiple people throughout the course of a group.
 
-<1078hp 651ma 355mv -11.1ac The Lower Planes - Minauros 4642130212xp -%>
+\<1078hp 651ma 355mv -11.1ac The Lower Planes - Minauros 4642130212xp -%\>
 
 Stun reports 1519/1559 hp. Change: -197. Need: 40. Spells: glowing, greater fluidity.
 
-<1078hp 651ma 355mv -11.1ac The Lower Planes - Minauros 4642130212xp -%>
+\<1078hp 651ma 355mv -11.1ac The Lower Planes - Minauros 4642130212xp -%\>
 
-Guinex splits 29798 coins.  Your share is 2292 coins.
+Guinex splits 29798 coins. Your share is 2292 coins.
 
-<1078hp 651ma 355mv -11.1ac The Lower Planes - Minauros 4642130212xp -%>
+\<1078hp 651ma 355mv -11.1ac The Lower Planes - Minauros 4642130212xp -%\>
 
 Stun yells 'BOLLE SNYLLE GRYF BYLLE?!!?'
 
 warcry BOLLE SNYLLE GRYF BYLLE?!!?
 
-<1078hp 652ma 356mv -11.1ac The Lower Planes - Minauros 4642130212xp -%>
+\<1078hp 652ma 356mv -11.1ac The Lower Planes - Minauros 4642130212xp -%\>
 
 Stun leaves west.
 
@@ -44,7 +44,7 @@ Insomnia leaves west.
 
 Usually the message would be something like this...
 
-<1078hp 683ma 308mv -11.1ac Mount 'An Mystica 4725733356xp -%>
+\<1078hp 683ma 308mv -11.1ac Mount 'An Mystica 4725733356xp -%\>
 
 Stun leaves south.
 

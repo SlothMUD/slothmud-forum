@@ -14,7 +14,7 @@ post_count: 1
 
 Greeting mortals.
 
-- Added a check so you can not lodge in the middle of the air.  It was making totem fall to below room and then you couldnt take it back from any of both rooms.
+- Added a check so you can not lodge in the middle of the air. It was making totem fall to below room and then you couldnt take it back from any of both rooms.
 - Fixed a bug that prevented lodge to work in volcanic places (even tought you were getting the message as if it were working).
 
 Thanks Shyla for reporting.

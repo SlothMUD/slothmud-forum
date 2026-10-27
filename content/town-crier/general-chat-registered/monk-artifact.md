@@ -16,59 +16,57 @@ Dark Valk monk belt is an artifact. Dingo and Bel have completed - perhaps can u
 
 From Dingo: [https://pastebin.com/T94TcM5f](https://pastebin.com/T94TcM5f)
 
- 
+ \-------------------------------------------------------------------------------------
 
-  -------------------------------------------------------------------------------------
+ \* Sash level: 2
 
-  * Sash level:     2
+ \* Sash xp: 2555
 
-  * Sash xp:        2555
+ \* Next level: 3000
 
-  * Next level:     3000
+ \-------------------------------------------------------------------------------------
 
-  -------------------------------------------------------------------------------------
+ \* Note: Each level stands on its own (does not accumulate as chart goes down). \*
 
-  * Note:  Each level stands on its own (does not accumulate as chart goes down).     *
+ \-------------------------------------------------------------------------------------
 
-  -------------------------------------------------------------------------------------
+ \* - Tiger Pounce is the attack performed when the sash is sufficiently charged. \*
 
-  * - Tiger Pounce is the attack performed when the sash is sufficiently charged.     *
+ \-------------------------------------------------------------------------------------
 
-  -------------------------------------------------------------------------------------
+ \* [ ] Level 1: Tiger Pounce - 25% of max dam, 10% chance of stun \*
 
-  * [ ] Level 1:  Tiger Pounce -  25% of max dam,  10% chance of stun                 *
+ \* [x] Level 2: Tiger Pounce - 38% of max dam, 20% chance of stun \*
 
-  * [x] Level 2:  Tiger Pounce -  38% of max dam,  20% chance of stun                 *
+ \* [ ] Level 3: Tiger Pounce - 50% of max dam, 30% chance of stun \*
 
-  * [ ] Level 3:  Tiger Pounce -  50% of max dam,  30% chance of stun                 *
+ \* [ ] Level 4: Tiger Pounce - 63% of max dam, 40% chance of stun \*
 
-  * [ ] Level 4:  Tiger Pounce -  63% of max dam,  40% chance of stun                 *
+ \* [ ] Level 5: Tiger Pounce - 75% of max dam, 50% chance of stun \*
 
-  * [ ] Level 5:  Tiger Pounce -  75% of max dam,  50% chance of stun                 *
+ \* [ ] Level 6: Tiger Pounce - 80% of max dam, 60% chance of stun \*
 
-  * [ ] Level 6:  Tiger Pounce -  80% of max dam,  60% chance of stun                 *
+ \* [ ] Level 7: Tiger Pounce - 85% of max dam, 70% chance of stun \*
 
-  * [ ] Level 7:  Tiger Pounce -  85% of max dam,  70% chance of stun                 *
+ \* [ ] Level 8: Tiger Pounce - 90% of max dam, 80% chance of stun, \*
 
-  * [ ] Level 8:  Tiger Pounce -  90% of max dam,  80% chance of stun,                *
+ \* + 5 mv regen \*
 
-  *                                              + 5 mv regen                         *
+ \* [ ] Level 9: Tiger Pounce - 95% of max dam, 90% chance of stun, \*
 
-  * [ ] Level 9:  Tiger Pounce -  95% of max dam,  90% chance of stun,                *
+ \* + 5 mv regen, \*
 
-  *                                              + 5 mv regen,                        *
+ \* + 1 bonus damage reduction \*
 
-  *                                              + 1 bonus damage reduction           *
+ \* [ ] Level 10: Tiger Pounce - 100% of max dam, 100% chance of stun, \*
 
-  * [ ] Level 10: Tiger Pounce - 100% of max dam, 100% chance of stun,                *
+ \* + 5 mv regen, \*
 
-  *                                              + 5 mv regen,                        *
+ \* + 1 bonus damage reduction, \*
 
-  *                                              + 1 bonus damage reduction,          *
+ \* + 1 hand damage \*
 
-  *                                              + 1 hand damage                      *
-
-  -------------------------------------------------------------------------------------
+ \-------------------------------------------------------------------------------------
 
 </div>
 
@@ -108,6 +106,6 @@ Level 8 ). Gloves of yellow rose (Chaqpor-Wafqa - Tel Makor)
 
 Level 9). Essence of a quickling's soul (200 drac Trista)
 
-Dingo & Belrath
+Dingo \& Belrath
 
 </div>

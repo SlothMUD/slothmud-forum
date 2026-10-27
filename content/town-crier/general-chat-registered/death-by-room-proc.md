@@ -12,7 +12,7 @@ post_count: 8
 
 <div class="post" data-post-id="15671" data-author="Leaf" data-date="2006-12-18T16:54:52+00:00" data-subject="Death by Room Proc ...">
 
-<14hp 20ma 90mv>
+\<14hp 20ma 90mv\>
 
 s
 
@@ -20,19 +20,19 @@ sOUCH! the thorns draw blood as they cut your skin!
 
 A Garden Path
 
-   There is a heavy overgrowth of rose bushes along this narrow gravel 
+ There is a heavy overgrowth of rose bushes along this narrow gravel 
 
-path.  Thousands of needle sharp thorns stick out of the bushes making 
+path. Thousands of needle sharp thorns stick out of the bushes making 
 
-travel along the path appear painful.  The sweet scent of hundreds of 
+travel along the path appear painful. The sweet scent of hundreds of 
 
-blooming flowers permeates the air.  A large marble fountain situated in 
+blooming flowers permeates the air. A large marble fountain situated in 
 
-the center of the path bubbles fresh water from an unknown source.  An 
+the center of the path bubbles fresh water from an unknown source. An 
 
 enormous mansion has come into view on top of a hill to the south.
 
-Exits: North  South  
+Exits: North South 
 
 There's a bunch of thorny brambles growing from the ground...
 
@@ -48,23 +48,23 @@ You received 1 experience points.
 
 You have been KILLED!! 
 
-<-11hp 17ma 88mv>
+\<-11hp 17ma 88mv\>
 
 </div>
 
 <div class="post" data-post-id="15672" data-author="Autolycos" data-date="2006-12-18T18:39:27+00:00" data-subject="">
 
-<14hp 20ma 90mv> 
+\<14hp 20ma 90mv\> 
 
 dear god.... Will has another noob....
 
-2 more and you'll catch up to Brad..  :twisted:
+2 more and you'll catch up to Brad.. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="15675" data-author="Rajil" data-date="2006-12-18T21:41:48+00:00" data-subject="">
 
-_no one_ can catch up to brad
+\_no one\_ can catch up to brad
 
 </div>
 
@@ -76,9 +76,9 @@ hell, that was Adun.
 
 <div class="post" data-post-id="15680" data-author="Leaf" data-date="2006-12-19T18:36:32+00:00" data-subject="">
 
-Yea Aa is right that was Adun as a ferret.  Froggie died the same way :)
+Yea Aa is right that was Adun as a ferret. Froggie died the same way <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-I do think Brad has the most newbies/lowbies in the game.  As I am no 
+I do think Brad has the most newbies/lowbies in the game. As I am no 
 
 longer creating anymore new chars ... With time and the new fiance living
 

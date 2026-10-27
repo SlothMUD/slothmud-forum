@@ -16,15 +16,15 @@ Am I losing it or what?
 
 Small Plateau
 
-   A large granite boulder sits just on the edge of the plateau, a
+ A large granite boulder sits just on the edge of the plateau, a
 
-convenient place to rest and enjoy the view.  To the north, a large white
+convenient place to rest and enjoy the view. To the north, a large white
 
-fenced pen is holding a flock of animals.  A rocky trail leads off into
+fenced pen is holding a flock of animals. A rocky trail leads off into
 
-the brush directly below.  
+the brush directly below. 
 
-Exits: Down  
+Exits: Down 
 
 A dirty sheep stands here quietly grazing on some grass.
 
@@ -32,7 +32,7 @@ An enormous buffalo wanders the hillside here.
 
 An enormous buffalo wanders the hillside here.
 
-994hp 268ma 106mv  (+71hpr +21mr +16dam -8.7ac 169747346xp Valley of Dust and Fire) 
+994hp 268ma 106mv (+71hpr +21mr +16dam -8.7ac 169747346xp Valley of Dust and Fire) 
 
 open trunk s
 
@@ -40,21 +40,21 @@ A swirling mist of energy envelops the room and quickly moves towards you!
 
 Electricity bursts through your body as you slowly transform back into human form.
 
-994hp 269ma 107mv  (+71hpr +21mr +16dam -8.7ac 169747346xp Den of Thieves) 
+994hp 269ma 107mv (+71hpr +21mr +16dam -8.7ac 169747346xp Den of Thieves) 
 
 look
 
 Ancient Dock
 
-   The old wooden dock extends approximately two hundred feet into the 
+ The old wooden dock extends approximately two hundred feet into the 
 
-stormy ocean.  The boards of the dock are made of walnut and are scarred 
+stormy ocean. The boards of the dock are made of walnut and are scarred 
 
-fairly badly.  The scrapes in the boards are deep and wide from fishermen 
+fairly badly. The scrapes in the boards are deep and wide from fishermen 
 
-continually cutting up fish here.  The dock leads off to the north.  
+continually cutting up fish here. The dock leads off to the north. 
 
-Exits: North  
+Exits: North 
 
 An old man sits at the end of the pier catching all sorts of goodies.
 

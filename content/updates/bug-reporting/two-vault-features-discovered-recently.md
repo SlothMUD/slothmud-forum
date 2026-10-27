@@ -16,7 +16,7 @@ Hello!
 
 I would like to report two unusual features I believe is not working as it should be. If it's been reported already and you're aware of it, then count this message as friendly reminder.
 
-At first, vault room_name and room_desc still resets itself to original after reboot/crash, and by original I mean room_name given very first time right after pirchasing a hovel. Doestn't matter if changes made by owner or alternate chatacters, it still resets.
+At first, vault room\_name and room\_desc still resets itself to original after reboot/crash, and by original I mean room\_name given very first time right after pirchasing a hovel. Doestn't matter if changes made by owner or alternate chatacters, it still resets.
 
 At second, while in the vault, can't cast Freshwater spell (outside only), but in the prompt it still says it's 'outside':
 

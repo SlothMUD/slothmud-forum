@@ -32,7 +32,7 @@ Your blood freezes as you hear Kzartaxen, firenewt God of War's death cry.
 
 Truth gets gold coins from the corpse of Kzartaxen, firenewt God of War that's on the ground.
 
-Truth splits 345344 coins.  Your share is 24667 coins.
+Truth splits 345344 coins. Your share is 24667 coins.
 
 This happened on Bolg too, except we got 1 honor.
 
@@ -68,13 +68,13 @@ Yours, Truth the greedy little teapot.
 
 I soloed Bolg last night for 1 honor.
 
-:(
+<img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="21334" data-author="Tap" data-date="2007-11-16T22:38:31+00:00" data-subject="">
 
-Stop Bragging.  :roll:
+Stop Bragging. <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -82,7 +82,7 @@ Stop Bragging.  :roll:
 
 it's not a bug... it's a feature!!!
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -92,6 +92,6 @@ Mike doesn't brag, he states facts.
 
 He is the Chuck Norris of Sloth.
 
-[img:3errs3oc]http://home.earthlink.net/~althalus/images/chuck_big.gif[/img:3errs3oc]
+![](http://home.earthlink.net/~althalus/images/chuck_big.gif)
 
 </div>

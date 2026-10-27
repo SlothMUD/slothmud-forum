@@ -16,7 +16,7 @@ I have some questions about undeads that one can summon and animate. I have summ
 
 phantom. So here is the log of my fight with him.
 
-*****************************************************************************************************
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 Your blow passes right through a phantom with no effect!
 
@@ -28,13 +28,13 @@ A phantom massacres you to small fragments with its claw.
 
 Your blow passes right through a phantom with no effect!
 
-<883hp 368ma 218mv>
+\<883hp 368ma 218mv\>
 
 score
 
-Pendalf sHmeNdAlF (IcQ # 157142609)  (level: 40)
+Pendalf sHmeNdAlF (IcQ # 157142609) (level: 40)
 
-Your levels:  Ba: 40 Cl: 40 Ma: 40 Ne: 40 Av: 25 
+Your levels: Ba: 40 Cl: 40 Ma: 40 Ne: 40 Av: 25 
 
 You are 48 years and 5 months old.
 
@@ -48,7 +48,7 @@ You have (886/933+41) hit, (370/547+33) mana and (220/230+28) movement points.
 
 Your armor class is -11.0.
 
-You have +5 to hit and +3 on damage.       
+You have +5 to hit and +3 on damage. 
 
 You have 44632 gold coins.
 
@@ -64,23 +64,23 @@ You are fighting a phantom.
 
 You are affected by the following spells:
 
-   Blindness                                             <---------------------  !!!!!!!!!!!!!!!!!!!!                
+ Blindness \<--------------------- !!!!!!!!!!!!!!!!!!!! 
 
-   Detect Invisible                 
+ Detect Invisible 
 
-   Infravision                      
+ Infravision 
 
-   Darksight                        
+ Darksight 
 
-   Iron Skin                        
+ Iron Skin 
 
-   Stamina                          
+ Stamina 
 
-   Strength                         
+ Strength 
 
-   Vitality                         
+ Vitality 
 
-<886hp 370ma 220mv>
+\<886hp 370ma 220mv\>
 
 Your blow passes right through a phantom with no effect!
 
@@ -90,7 +90,7 @@ A phantom misses you with its claw.
 
 A phantom misses you with its claw.
 
-*****************************************************************************************************
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 As we can see, I was blinded, but still could see everything, moreover, phantom's blindness
 
@@ -116,15 +116,15 @@ agree.
 
 <div class="post" data-post-id="8357" data-author="kjartan" data-date="2005-08-20T12:23:48+00:00" data-subject="">
 
-I think the problem here is that the phantom's messages were broken.  The message is "A phantom billows cloudy white haze around you, making it difficult to see".  So, it's not supposed to be real blindness.  I fixed the messages.
+I think the problem here is that the phantom's messages were broken. The message is "A phantom billows cloudy white haze around you, making it difficult to see". So, it's not supposed to be real blindness. I fixed the messages.
 
-The other problem is that this effect blocks the 'blindness' spell.  I have fixed that in the code, in next crash or reboot; then a 'blindness' spell will just act as normal (but it still won't stack, it will just replace the phantom blindness with normal blindness).
+The other problem is that this effect blocks the 'blindness' spell. I have fixed that in the code, in next crash or reboot; then a 'blindness' spell will just act as normal (but it still won't stack, it will just replace the phantom blindness with normal blindness).
 
 </div>
 
 <div class="post" data-post-id="8358" data-author="13" data-date="2005-08-20T14:56:54+00:00" data-subject="">
 
-Hot dog :)
+Hot dog <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

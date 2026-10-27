@@ -16,7 +16,7 @@ We've been discussing some quest ideas on gossip:
 
 Gorka gossips-- 'drach supply has been good in this version, I admit'
 
-You gossip-- '*this year'
+You gossip-- '\*this year'
 
 Zuzu gossips-- 'im trying to address the only-on-holidays aspect of the manually led quests'
 
@@ -28,13 +28,13 @@ Zuzu gossips-- 'wrack your brains, what would a Labor Day themed mob be'
 
 Gorka gossips-- 'well, that's a problem but a managable one zuzu, for some of us, it's your timezone'
 
-Zuzu gossips-- 'early 1900's sweatshop mob? :)'
+Zuzu gossips-- 'early 1900's sweatshop mob? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">'
 
 Gorka gossips-- 'well whats been done, kill big mob quests, subdue little mob quests'
 
 Gorka gossips-- 'what else is there?'
 
-Zuzu gossips-- 'puzzles but people Hate Puzzles from what ive seen :)'
+Zuzu gossips-- 'puzzles but people Hate Puzzles from what ive seen <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">'
 
 Zuzu gossips-- 'competition quests but i tried that and you all wanted not to be split in teams'
 
@@ -64,7 +64,7 @@ Zuzu gossips-- 'yeah Bob could do one'
 
 You gossip-- 'Neptune ran something, not sure it was drachma rewarded'
 
-Zuzu gossips-- 'trouble is there's only one of me and i'm not always the smartest quest designer :)'
+Zuzu gossips-- 'trouble is there's only one of me and i'm not always the smartest quest designer <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">'
 
 Zuzu gossips-- 'there "should be" a half dozen people of equal rank.'
 
@@ -76,7 +76,7 @@ Zuzu gossips-- 'i mean it could re-use the Boat code'
 
 Gorka gossips-- 'of like JB's clown car to get to FOC'
 
-Zuzu gossips-- 'could be some time pressure to kill mob A, before stopping at the next stop and possibly having to fight the next one at the same time, hehe :)'
+Zuzu gossips-- 'could be some time pressure to kill mob A, before stopping at the next stop and possibly having to fight the next one at the same time, hehe <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">'
 
 Gorka gossips-- 'xp is always good'
 
@@ -90,15 +90,15 @@ Gorka gossips-- 'I'm never one of them'
 
 Gorka gossips-- 'hehe'
 
-Zuzu gossips-- 'quests with actual depth and planning put into em, yeah :)'
+Zuzu gossips-- 'quests with actual depth and planning put into em, yeah <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">'
 
-Zuzu gossips-- 'which i can't claim to have done very many :)'
+Zuzu gossips-- 'which i can't claim to have done very many <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">'
 
 Gorka gossips-- 'what about something olympic'
 
 Linx gossips-- 'you mean like potions to cheat, they already do that'
 
-Zuzu gossips-- 'what were those mini games in arcade games between stages where you were frantically hammering on the buttons :)'
+Zuzu gossips-- 'what were those mini games in arcade games between stages where you were frantically hammering on the buttons <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">'
 
 Gorka gossips-- 'haha'
 
@@ -140,9 +140,9 @@ Gorka gossips-- 'I think it has object weights... checking'
 
 You gossip-- 'how about a triathlon: orienteering (running to certain rooms fastest), a trivia and a round in a chaos pit solo'
 
-Gorka gossips-- 'yeah, OBJECT_WEIGHT is the tag'
+Gorka gossips-- 'yeah, OBJECT\_WEIGHT is the tag'
 
-Zuzu gossips-- 'gos someone should capture this conversation and post it :)'
+Zuzu gossips-- 'gos someone should capture this conversation and post it <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">'
 
 You gossip-- 'already captured'
 

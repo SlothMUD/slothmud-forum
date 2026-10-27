@@ -48,43 +48,56 @@ Which mobs do midbies run for xp here?
 
 <div class="post" data-post-id="21716" data-author="Alberich" data-date="2007-12-19T00:42:55+00:00" data-subject="Re: Some Area Info Required...">
 
-Would appreciate if some helpful person would give me some info about a couple of areas...
+> <strong>jezer wrote:</strong>
+> Would appreciate if some helpful person would give me some info about a couple of areas...
+> 
+> 
+> 
+> Why don't I just find out myself? Well... last night I hit the first mob at ss mansion and it wiped me for 800 in the first round... information like that would be really nice to know before hand...
+> 
+> 
+> 
+> Castle Black
+> 
+> 
+> 
+> Can you set a beacon here? (I know I need invite)
+> 
+> The size, type and strength of these mobs...
+> 
+> I think I remember trying to take a wind with a 3x40 monk and failing.
+> 
+> 
+> 
+> Rogue of Storms
+> 
+> East Wind Spirit
+> 
+> North Wind Spirit
+> 
+> South Wind Spirit
+> 
+> West Wind Spirit
+> 
+> Lord Morrigan
+> 
+> Dragoons
+> 
+> Librarian
+> 
+> 
+> 
+> SS Mansion
+> 
+> 
+> 
+> Which mobs do midbies run for xp here?
 
-Why don't I just find out myself? Well... last night I hit the first mob at ss mansion and it wiped me for 800 in the first round... information like that would be really nice to know before hand...
+death builds charecter <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-Castle Black
+mansion mobs hit hard but are very thin, easy for mages with mirrors (when i run it with my mage prime i don't usually bother with sanc), and easy for monks, but they are nostab. if you lose con, or whiff your grip, you've got a good chance of dying. all xp areas are like that (well, the good ones).
 
-Can you set a beacon here? (I know I need invite)
-
-The size, type and strength of these mobs...
-
-I think I remember trying to take a wind with a 3x40 monk and failing.
-
-Rogue of Storms
-
-East Wind Spirit
-
-North Wind Spirit
-
-South Wind Spirit
-
-West Wind Spirit
-
-Lord Morrigan
-
-Dragoons
-
-Librarian
-
-SS Mansion
-
-Which mobs do midbies run for xp here?[/quote:1hx6amb4]
-
-death builds charecter :)
-
-mansion mobs hit hard but are very thin, easy for mages with mirrors (when i run it with my mage prime i don't usually bother with sanc), and easy for monks, but they are nostab.  if you lose con, or whiff your grip, you've got a good chance of dying.  all xp areas are like that (well, the good ones).
-
-rogue of storms will generally take 2 mid-sized avatars, although i'm sure there are people who solo it (*cough* necros *cough*).
+rogue of storms will generally take 2 mid-sized avatars, although i'm sure there are people who solo it (\*cough\* necros \*cough\*).
 
 winds are all not too bad, just thick - very soloable at 3x40 if you have decent gear, or just bring a friend, and you can kill all of them 2man.
 

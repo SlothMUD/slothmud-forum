@@ -18,7 +18,7 @@ Each episode is 60 minutes, and is about 75 megs a download in .mp3
 
 The songs are all themed to each episode, and varies from folk, to blues.
 
-[url:7f8dtcik]http://www.whitemanstew.com/2006/05/12/bob-dylans-theme-time-radio-hour/[/url:7f8dtcik]
+http://www.whitemanstew.com/2006/05/12/bob-dylans-theme-time-radio-hour/
 
 </div>
 
@@ -30,13 +30,13 @@ does he play slothmud or... ?
 
 <div class="post" data-post-id="13905" data-author="osric" data-date="2006-09-04T20:54:46+00:00" data-subject="">
 
-No he does gap commercials and shit, so hes pretty much off the artistic role call! :evil:
+No he does gap commercials and shit, so hes pretty much off the artistic role call! <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="13921" data-author="Avatar" data-date="2006-09-06T15:51:10+00:00" data-subject="Thanks!">
 
-Thanks for posting this D_D!  I dl'd the first edition and I'm really enjoying it at work.
+Thanks for posting this D\_D! I dl'd the first edition and I'm really enjoying it at work.
 
 Charles
 

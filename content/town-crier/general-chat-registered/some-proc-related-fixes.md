@@ -14,15 +14,15 @@ post_count: 2
 
 After the next crash or reboot, there will be some fixes to long-standing problems with the procs.
 
-1. the double-proccing should be gone (which includes double-bashing, etc.)
+1\. the double-proccing should be gone (which includes double-bashing, etc.)
 
-2. the stun skill has been completely rewritten.  It now actually does what it is supposed to do: suppresses procs.
+2\. the stun skill has been completely rewritten. It now actually does what it is supposed to do: suppresses procs.
 
-3. the bard songs 'sanctuary for the body' and 'sanctuary for the soul' will actually work now.  (They also suppress procs)
+3\. the bard songs 'sanctuary for the body' and 'sanctuary for the soul' will actually work now. (They also suppress procs)
 
-4. some of the caster mobs will be a little bit smarter.  This may not be a noticeable effect.
+4\. some of the caster mobs will be a little bit smarter. This may not be a noticeable effect.
 
-Now that these skills and songs actually work, we may find that they are too powerful and have to turn them down.  My feeling is that if you are fighting a mob that used to be challenging to you, you shouldn't be able to totally or even mostly suppress its procs by either stunning or singing at it.
+Now that these skills and songs actually work, we may find that they are too powerful and have to turn them down. My feeling is that if you are fighting a mob that used to be challenging to you, you shouldn't be able to totally or even mostly suppress its procs by either stunning or singing at it.
 
 </div>
 

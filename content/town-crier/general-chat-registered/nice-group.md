@@ -14,41 +14,41 @@ post_count: 5
 
 Group 'BH exp OPEN to ALL' is led by Zuzu and consists of:
 
-  (Point)           Badden [Wa:3.31 1046hp 189ma 388mv] ---
+ (Point) Badden [Wa:3.31 1046hp 189ma 388mv] ---
 
-  (Front)             Skyv [Mo:3.24  771hp 363ma 258mv] ---
+ (Front) Skyv [Mo:3.24 771hp 363ma 258mv] ---
 
-  (Front)          Scarlet [Th:2.34  799hp 117ma 274mv] 799/348
+ (Front) Scarlet [Th:2.34 799hp 117ma 274mv] 799/348
 
-  (Front)           Hounds [Th:4.26  277hp  86ma 374mv] ---
+ (Front) Hounds [Th:4.26 277hp 86ma 374mv] ---
 
-  (Front)             Stab [Th:1.37  771hp 119ma 289mv] Balor
+ (Front) Stab [Th:1.37 771hp 119ma 289mv] Balor
 
-  (Front)             Morn [Wa:2.32 1004hp 115ma 268mv] Bracer of Flame
+ (Front) Morn [Wa:2.32 1004hp 115ma 268mv] Bracer of Flame
 
-  (Front)            Rodek [Wa:2.38  824hp  65ma 149mv] ---
+ (Front) Rodek [Wa:2.38 824hp 65ma 149mv] ---
 
-  (Front)            Bilbo [Wa:2.26  599hp  67ma 212mv] ---
+ (Front) Bilbo [Wa:2.26 599hp 67ma 212mv] ---
 
- (Leader)             Zuzu [Cl:4.28  729hp  61ma 260mv] ---
+ (Leader) Zuzu [Cl:4.28 729hp 61ma 260mv] ---
 
-                   Playboy [Ba:0.20  385hp  77ma 185mv] eye clasp cps
+ Playboy [Ba:0.20 385hp 77ma 185mv] eye clasp cps
 
-                     Algor [Cl:0.16  159hp  78ma 119mv] jeweled collar
+ Algor [Cl:0.16 159hp 78ma 119mv] jeweled collar
 
-                    Unyoni [Ne:0.20  401hp  20ma 211mv] (lol) jjd comps
+ Unyoni [Ne:0.20 401hp 20ma 211mv] (lol) jjd comps
 
-                 Niteraven [Ma:2.34  568hp  62ma 196mv] tokens
+ Niteraven [Ma:2.34 568hp 62ma 196mv] tokens
 
-                     Jezer [Dr:0.35  594hp 143ma 156mv] powder/vial GoT cp's
+ Jezer [Dr:0.35 594hp 143ma 156mv] powder/vial GoT cp's
 
-                       Jag [Cl:3.26  684hp  44ma 165mv] ygol staff
+ Jag [Cl:3.26 684hp 44ma 165mv] ygol staff
 
-                       Mud [Ne:0.03   46hp  89ma 199mv] ---
+ Mud [Ne:0.03 46hp 89ma 199mv] ---
 
-                     Xamak [Cl:2.32  643hp 300ma 181mv] shoulderguards of divinity :)
+ Xamak [Cl:2.32 643hp 300ma 181mv] shoulderguards of divinity <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-                     Wimpy [Ne:4.22  716hp  74ma 258mv] balrog!
+ Wimpy [Ne:4.22 716hp 74ma 258mv] balrog!
 
 </div>
 

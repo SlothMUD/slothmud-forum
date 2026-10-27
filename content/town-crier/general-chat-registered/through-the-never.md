@@ -14,19 +14,19 @@ post_count: 3
 
 You brutally massacre a Void Fairy to small fragments with Blackula's corpse!
 
-<Shazuko Roku Ryuu>
+\<Shazuko Roku Ryuu\>
 
-<Shazuko Six Dragons>
+\<Shazuko Six Dragons\>
 
-<~Chaos~>
+\<\~Chaos\~\>
 
 </div>
 
 <div class="post" data-post-id="17310" data-author="Autolycos" data-date="2007-03-16T15:27:19+00:00" data-subject="">
 
-lmfao....  i feel for you...
+lmfao.... i feel for you...
 
-you're never gonna be able to get that stank off you  :twisted:
+you're never gonna be able to get that stank off you <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

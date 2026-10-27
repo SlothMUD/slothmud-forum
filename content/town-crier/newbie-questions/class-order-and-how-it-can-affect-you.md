@@ -14,7 +14,7 @@ post_count: 7
 
 This isn't meant to be a guide on what order you should pick, but more of a post on how the order of classes can affect your character's stats. The caps are based on being 9x40 (max level) and should be used to plan out your character. As you're leveling the caps for some things will be lower and will increase every time you gain a level 40.
 
-**Warrior**
+<strong>Warrior</strong>
 
 This will influence your weapon damage cap, which applies a bonus to your autoattack. 1 weapon damage = 1 point of damage done, does not work with some weapons equipped such as daggers. You will also get more hps per level if this is higher up in your order, but I don't know what values that would be.
 
@@ -34,7 +34,7 @@ This will influence your weapon damage cap, which applies a bonus to your autoat
 
 8
 
-**Thief**
+<strong>Thief</strong>
 
 This will influence your stab damage cap, and I believe thief prime gets some extra damage on their backstab. Prime thieves will also have circle damage cap, while anything outside of thief prime will just be 0.
 
@@ -54,7 +54,7 @@ This will influence your stab damage cap, and I believe thief prime gets some ex
 
 8: 32 stab damage
 
-**Monk**
+<strong>Monk</strong>
 
 This will affect your hand damage and damage reduction caps. Monk prime also seems to have a bonus modifier for strike damage.
 
@@ -74,7 +74,7 @@ This will affect your hand damage and damage reduction caps. Monk prime also see
 
 8: 11 damage reduction
 
-**Bard**
+<strong>Bard</strong>
 
 This should affect your charisma cap, but I don't think anyone outside of bard prime would make use of charisma on a normal basis.
 
@@ -94,7 +94,7 @@ This should affect your charisma cap, but I don't think anyone outside of bard p
 
 8
 
-**Mage**
+<strong>Mage</strong>
 
 This will affect your saves and spell bonus caps.
 
@@ -114,7 +114,7 @@ This will affect your saves and spell bonus caps.
 
 8
 
-**Cleric**
+<strong>Cleric</strong>
 
 This will affect your heal bonus cap. Also class order reflects what you can summon with supplication, which won't be listed here since it's clear in the help files on what class order does with that spell.
 
@@ -134,11 +134,11 @@ This will affect your heal bonus cap. Also class order reflects what you can sum
 
 8
 
-**Druid**
+<strong>Druid</strong>
 
 I don't think druid has any specific caps tied to it, but they tend to get more mana the higher in your class order and there's some sort of bonus mana regen that is applied to prime and secondary. The exact value of the regen isn't known. Druid class order also affects what forms you can shift into, but the help file in game is clear on this.
 
-**Necromancer**
+<strong>Necromancer</strong>
 
 This will affect your undead control cap. It also affects what creatures you can summon, but the help files in game are clear on this. Generally prime/secondary can get swordwraiths, 4th can get phantoms, and beyond that the pets would be too weak to be useful at high levels.
 
@@ -158,7 +158,7 @@ This will affect your undead control cap. It also affects what creatures you can
 
 8: 11 undead control
 
-I'll fill this in as I get more data from players and my other characters, hope this helps on making the choice on where you want to place something. For anyone wanting to contribute for this you can view the values using msdp at msdp.CHARACTER_STATISTICS.BONUSES. If you can provide the value listed under CAP and your class order I can fill this out more.
+I'll fill this in as I get more data from players and my other characters, hope this helps on making the choice on where you want to place something. For anyone wanting to contribute for this you can view the values using msdp at msdp.CHARACTER\_STATISTICS.BONUSES. If you can provide the value listed under CAP and your class order I can fill this out more.
 
 </div>
 
@@ -186,7 +186,7 @@ You could close a significant gap between the classes in 3 changes... 1) by intr
 
 I agree, it is time to revisit the AC cap for non-warriors. Equipment power creep has left everyone else in the dust.
 
-How about a Christmas gift of -1.0 AC cap for all the poor crunchies? :)
+How about a Christmas gift of -1.0 AC cap for all the poor crunchies? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -208,7 +208,7 @@ How about a Christmas gift of -1.0 AC cap for all the poor crunchies? :)
 
 127 sounds right!
 
-- M
+\- M
 
 </div>
 
@@ -220,7 +220,7 @@ A few observations that go along with these class-position caps.
 
 From my inspection, there appears to be little difference (any?) between reduceDamage (rDam) and +rDam(BrD). One is capped, the other is infinite. They appear to get lumped together, so my total rDam, for example, is the sum of both.
 
-This is in contrast to both Heal Bonus/Bonus Heal Bonus and Spell Bonus/Bonus Spell Bonus, where one extremely important difference exists. That difference is that B-X-B is NOT a factor unless a character also has on-person, equipment of some type that has "plain old" X-B. For example, Joe with no Spell Bonus gear will get nothing from a piece of equipment that carries Bonus Spell Bonus 10. A quick check of score stats2 will show "inactive" for those ten points!* (I found this out the hard way, btw)
+This is in contrast to both Heal Bonus/Bonus Heal Bonus and Spell Bonus/Bonus Spell Bonus, where one extremely important difference exists. That difference is that B-X-B is NOT a factor unless a character also has on-person, equipment of some type that has "plain old" X-B. For example, Joe with no Spell Bonus gear will get nothing from a piece of equipment that carries Bonus Spell Bonus 10. A quick check of score stats2 will show "inactive" for those ten points!\* (I found this out the hard way, btw)
 
 The tie-in - the reason this is pertinent to this thread - is if rDam via "monkness" is innate, and therefore anyone reaching 9x40 can, for example, place BrDam on their Avatar Light and receive that additional rDam, it frees the player from dealing with that restriction. That cannot be done with the available BSB or BHB - neither are active unless the character has/acquires some "normal" SB or HB and has it on-person.
 
@@ -232,6 +232,6 @@ Scuttlebutt has it that "soft-caps" exist for some things, like to-Hit, where a 
 
 I'm interested in knowing if some sort of soft-cap exists in these seemingly clear-cut categories, and further, if some other marked difference exists between BXB stuff vs. XB stuff.
 
-* BTW, for those who might be wondering, the workaround for BSB/BHB is runes. Runes are "plain old" SB/HB, so socketing one of each to your gear kits gets you access to all those niceties you want from the shops.
+\* BTW, for those who might be wondering, the workaround for BSB/BHB is runes. Runes are "plain old" SB/HB, so socketing one of each to your gear kits gets you access to all those niceties you want from the shops.
 
 </div>

@@ -12,11 +12,11 @@ post_count: 6
 
 <div class="post" data-post-id="30047" data-author="Wingnut" data-date="2009-09-26T07:52:21+00:00" data-subject="Opera Symphonia (New EQ)">
 
-The ghost of Sorelli had this.  (Note: Ethereal Mob)
+The ghost of Sorelli had this. (Note: Ethereal Mob)
 
-It also floats in and out of combat.  It is a ghost after all :)
+It also floats in and out of combat. It is a ghost after all <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-The Ghost is all the way up in the Fly Gallery, down from The Grand Chandelier.  Get fly up or you'll go splat!!!  Thanks Strider for the help killing it.
+The Ghost is all the way up in the Fly Gallery, down from The Grand Chandelier. Get fly up or you'll go splat!!! Thanks Strider for the help killing it.
 
 You recite an identify scroll which dissolves.
 
@@ -32,7 +32,7 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: MANA by 13
+ Affects: MANA by 13
 
 Only those who are at least experienced magic users or experienced clerics,
 
@@ -42,7 +42,7 @@ or supreme druids, or adept necromancers may use this item.
 
 <div class="post" data-post-id="30054" data-author="blackmore" data-date="2009-09-26T21:10:53+00:00" data-subject="">
 
-First of all, one of the rewards was a -1.1ac shield called the Shield of the Black Rose.  It loads on Marsup in BH Castle.  Thank you wealth and glory.
+First of all, one of the rewards was a -1.1ac shield called the Shield of the Black Rose. It loads on Marsup in BH Castle. Thank you wealth and glory.
 
 The following items were found in Opera Symphonia last night:
 
@@ -62,9 +62,9 @@ AC-apply is -0.8
 
 Can affect you as:
 
-    Affects: INT by 1
+ Affects: INT by 1
 
-    Affects: WIS by 1
+ Affects: WIS by 1
 
 Only those who are at least supreme magic users or supreme clerics, or supreme druids, or experienced bards may use this item.
 
@@ -84,9 +84,9 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: HITPOINT by 10
+ Affects: HITPOINT by 10
 
-    Affects: MOVE by 15
+ Affects: MOVE by 15
 
 Only those who are at least adept magic users, clerics, thieves, druids, or bards may use this item.
 
@@ -106,13 +106,13 @@ AC-apply is -0.1
 
 Can affect you as:
 
-    Affects: WIS by 1
+ Affects: WIS by 1
 
-    Affects: HITPOINT by 4
+ Affects: HITPOINT by 4
 
 Only those who are at least supreme magic users, clerics, druids, or necromancers may use this item.
 
-A cp also loaded on a patron - an heirloom bodkin needle.  No forge note or known forge exists.
+A cp also loaded on a patron - an heirloom bodkin needle. No forge note or known forge exists.
 
 </div>
 
@@ -120,7 +120,7 @@ A cp also loaded on a patron - an heirloom bodkin needle.  No forge note or know
 
 The forge note:
 
-The latest in Thalassan fashion is here!  Raven-black is the
+The latest in Thalassan fashion is here! Raven-black is the
 
 new fuschia this season as thrifty tailors redesign old garments
 
@@ -130,11 +130,11 @@ Light shimmerweave culled from a voluminous garment is reworked
 
 into a more fashionable design using the experience imbued into a
 
-needle inherited for generations.  Clairvoyant eyewear is a must,
+needle inherited for generations. Clairvoyant eyewear is a must,
 
 allowing seamstresses to preempt any potential mistakes in this
 
-delicate redesign.  Insubstantial ribbons can be added to complete
+delicate redesign. Insubstantial ribbons can be added to complete
 
 a ravishing minerva, or ruffles from a stylish cravat can be used
 
@@ -142,7 +142,7 @@ to tailor a handsome tailcoat.
 
 Then, using a simple dye easily brewed by local alchemists, this
 
-fashion masterpiece is properly colored and enhanced.  A wereraven
+fashion masterpiece is properly colored and enhanced. A wereraven
 
 feather is dissolved in the acidic oils extracted from the petals
 
@@ -184,9 +184,9 @@ AC-apply is -2.2
 
 Can affect you as:
 
-    Affects: HITPOINT by -5
+ Affects: HITPOINT by -5
 
-    Affects: RESIST_COLD by 10
+ Affects: RESIST\_COLD by 10
 
 Only those who are at least experienced magic users or experienced warriors, or master bards, or master monks may use this item.
 
@@ -206,7 +206,7 @@ Damage Dice is '4D2'
 
 Can affect you as:
 
-    Affects: DAMROLL by 2
+ Affects: DAMROLL by 2
 
 Only those who are at least supreme thieves, warriors, or necromancers, and
 
@@ -224,7 +224,7 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: HAND_DAMAGE by 1
+ Affects: HAND\_DAMAGE by 1
 
 </div>
 
@@ -244,15 +244,15 @@ AC-apply is -0.4
 
 Can affect you as:
 
-    Affects: HITROLL by 3
+ Affects: HITROLL by 3
 
-    Affects: HITPOINT by 10
+ Affects: HITPOINT by 10
 
 Only those who are at least supreme magic users or master thieves, or
 
 master warriors, or supreme bards, or master monks may use this item.
 
-Impresario Armand Moncharmin says 'Excellent!  I shall place the order right away!'
+Impresario Armand Moncharmin says 'Excellent! I shall place the order right away!'
 
 Impresario Armand Moncharmin takes your materials and begins placing an order for a shimmering coracinus tailcoat.
 
@@ -262,7 +262,7 @@ Impresario Armand Moncharmin says 'Ah, here it is.'
 
 Impresario Armand Moncharmin carefully unpacks the parcel.
 
-Impresario Armand Moncharmin says 'Splendid!  Absolutely incredible!  Here is your shimmering coracinus tailcoat.  Congratulations!'
+Impresario Armand Moncharmin says 'Splendid! Absolutely incredible! Here is your shimmering coracinus tailcoat. Congratulations!'
 
 Impresario Armand Moncharmin hands you a shimmering coracinus tailcoat.
 
@@ -276,9 +276,9 @@ AC-apply is -2.0
 
 Can affect you as:
 
-    Affects: MANA by 12
+ Affects: MANA by 12
 
-    Affects: MAX_WIS by 1
+ Affects: MAX\_WIS by 1
 
 Only those who are at least supreme magic users, clerics, druids, or bards, and have attained supremacy in at least two classes may use this item.
 
@@ -294,11 +294,11 @@ a crystal phial of coracinus dye - brewed at BH brewer
 
 a seerstone monocle..It has a soft glowing aura! - Zeloso
 
-~1.2M coins
+\~1.2M coins
 
 trade at Armand
 
-The other trade is a Minerva.  The cps are identical, except for the cravat is replaced by ribbons that load on Sorelli.  Stats on that are unknown.  My guess is  it's either the same stats, allowing for characters to pick an item that matches their gender if they wish, or it's max_int.  That's  only a guess, though.
+The other trade is a Minerva. The cps are identical, except for the cravat is replaced by ribbons that load on Sorelli. Stats on that are unknown. My guess is it's either the same stats, allowing for characters to pick an item that matches their gender if they wish, or it's max\_int. That's only a guess, though.
 
 a crystal phial of coracinus dye - brewed at BH brewer
 
@@ -308,6 +308,6 @@ black lotus petals - black lotus, Arbo II
 
 a blue dragonet molting - blue dragonet, Dragon Mountain
 
-+coins (not sure how many, I forget)
+\+coins (not sure how many, I forget)
 
 </div>

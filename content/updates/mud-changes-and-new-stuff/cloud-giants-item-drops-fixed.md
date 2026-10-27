@@ -32,7 +32,7 @@ Devilskin Gauntlets
 
 Enjoy.
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -50,6 +50,6 @@ I'm afraid those giants were working completely above and beyond the call
 
 of duty.
 
--Neptune
+\-Neptune
 
 </div>

@@ -18,15 +18,15 @@ Looking for bard/charisma handme downs.
 
 <div class="post" data-post-id="22507" data-author="jezer" data-date="2008-02-04T06:16:09+00:00" data-subject="">
 
-Obviously you have older siblings!  :) 
+Obviously you have older siblings! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> 
 
-I'll check Jezer, I'm sure he probably has some semi soiled underwear you can have...  :twisted: Just between you and me, I think the damage was done when he walked in naked on an epic...  :shock: But as they say, it all comes out in the wash!  :twisted:
+I'll check Jezer, I'm sure he probably has some semi soiled underwear you can have... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> Just between you and me, I think the damage was done when he walked in naked on an epic... <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> But as they say, it all comes out in the wash! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="22518" data-author="bellafea" data-date="2008-02-04T20:39:35+00:00" data-subject="">
 
-heh, you can keep the stained undies, i bet they have your name on them too don't they!    :lol:
+heh, you can keep the stained undies, i bet they have your name on them too don't they! <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -98,7 +98,7 @@ The Thief's Lantern..It has a soft glowing aura!
 
 I also, have a char that i do not play.. willing to possibly trade/sell for coins.
 
-Your levels:  Wa: 39 Cl: 30 Th: 23 Ma: 19 
+Your levels: Wa: 39 Cl: 30 Th: 23 Ma: 19 
 
 You are 23 years and 16 months old.
 
@@ -130,6 +130,6 @@ You will parry.
 
 You are affected by the following spells:
 
-   Detect Invisible
+ Detect Invisible
 
 </div>

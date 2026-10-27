@@ -14,8 +14,8 @@ post_count: 1
 
 could the vaules in score stat be displayed as numbers in the mxp variables on wintin?
 
- :idea:  :twisted:
+ <img src="/images/smilies/icon_idea.svg" alt=":idea:" title=":idea:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
-postscript:  perhaps resist fire/cold/disease/poison also?
+postscript: perhaps resist fire/cold/disease/poison also?
 
 </div>

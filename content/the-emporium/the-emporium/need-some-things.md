@@ -22,7 +22,7 @@ guards cloaked in shadow
 
 lost cross signet ring (x2 preferably)
 
-would prefer to pay gold, have some random stuff like blood covered boots, chiseled granite greaves, ashen bracelets, war greaves, etc  to trade possibly - get ahold of me if you have anything.
+would prefer to pay gold, have some random stuff like blood covered boots, chiseled granite greaves, ashen bracelets, war greaves, etc to trade possibly - get ahold of me if you have anything.
 
 </div>
 

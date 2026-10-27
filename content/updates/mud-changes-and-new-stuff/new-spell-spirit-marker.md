@@ -12,6 +12,6 @@ post_count: 1
 
 <div class="post" data-post-id="15871" data-author="kjartan" data-date="2006-12-31T20:18:37+00:00" data-subject="new spell: spirit marker">
 
-I added this spell.  People are thinking up various uses for it.  See the in-game help for details.
+I added this spell. People are thinking up various uses for it. See the in-game help for details.
 
 </div>

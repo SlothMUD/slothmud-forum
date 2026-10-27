@@ -16,27 +16,27 @@ list
 
 But the vault is closed.
 
-<156hp 187ma 10mv -3.4ac dam hit -5al | 1,347,060 exp >
+\<156hp 187ma 10mv -3.4ac dam hit -5al \| 1,347,060 exp \>
 
 unlock vault
 
 The combination must be a 6 digit number, with no leading zero's.
 
-<159hp 188ma 13mv -3.4ac dam hit -5al | 1,347,060 exp >
+\<159hp 188ma 13mv -3.4ac dam hit -5al \| 1,347,060 exp \>
 
-unlock vault ******
+unlock vault \*\*\*\*\*\*
 
 Initializing Vault, setting combination.
 
 Done, please try unlocking again to verify.
 
-<163hp 190ma 16mv -3.4ac dam hit -5al | 1,347,060 exp >
+\<163hp 190ma 16mv -3.4ac dam hit -5al \| 1,347,060 exp \>
 
-unlock vault ******
+unlock vault \*\*\*\*\*\*
 
 You hear a soft click, and the vault opens quietly.
 
-<172hp 193ma 23mv -3.4ac dam hit -5al | 1,347,060 exp >
+\<172hp 193ma 23mv -3.4ac dam hit -5al \| 1,347,060 exp \>
 
 list
 

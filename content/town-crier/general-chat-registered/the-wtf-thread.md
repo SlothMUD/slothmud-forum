@@ -14,47 +14,47 @@ post_count: 10
 
 Spot the WTF moment in this:
 
-<634hp 753ma 167mv>eq
+\<634hp 753ma 167mv\>eq
 
 You are using:
 
-<worn on finger>     the ring of goodness(invisible)
+\<worn on finger\> the ring of goodness(invisible)
 
-<worn on finger>     the ring of goodness(invisible)
+\<worn on finger\> the ring of goodness(invisible)
 
-<worn around neck>   a bead necklace..It has a soft glowing aura!
+\<worn around neck\> a bead necklace..It has a soft glowing aura!
 
-<worn on shoulders>  shoulder guards of a mystical yooper..It has a soft glowing aura! (with a purple minidemon brooch attached to it)
+\<worn on shoulders\> shoulder guards of a mystical yooper..It has a soft glowing aura! (with a purple minidemon brooch attached to it)
 
-<worn on body>       marred magical mail(invisible)..It emits a faint humming sound! (with a pretty little bow attached to it)
+\<worn on body\> marred magical mail(invisible)..It emits a faint humming sound! (with a pretty little bow attached to it)
 
-<worn on head>       a crystal helm..It emits a faint humming sound!
+\<worn on head\> a crystal helm..It emits a faint humming sound!
 
-<worn on legs>       iridescent red leggings(invisible)..It has a soft glowing aura! (with a single-striped white sash (Private) attached to it)
+\<worn on legs\> iridescent red leggings(invisible)..It has a soft glowing aura! (with a single-striped white sash (Private) attached to it)
 
-<worn on feet>       boots of radiance(invisible)
+\<worn on feet\> boots of radiance(invisible)
 
-<worn on hands>      Jeweled Gauntlets of the Magi(invisible)
+\<worn on hands\> Jeweled Gauntlets of the Magi(invisible)
 
-<worn on arms>       the Holy Sleeves of Nia..It glows red!..It has a soft glowing aura!
+\<worn on arms\> the Holy Sleeves of Nia..It glows red!..It has a soft glowing aura!
 
-<worn as shield>     flaming shield of midnight..It has a soft glowing aura!
+\<worn as shield\> flaming shield of midnight..It has a soft glowing aura!
 
-<worn about body>    tunic of the mystic healer(invisible)..It has a soft glowing aura!
+\<worn about body\> tunic of the mystic healer(invisible)..It has a soft glowing aura!
 
-<worn about waist>   a loop of burning coals(invisible)
+\<worn about waist\> a loop of burning coals(invisible)
 
-<worn around wrist>  a runed onyx bracelet(invisible)
+\<worn around wrist\> a runed onyx bracelet(invisible)
 
-<worn around wrist>  a runed onyx bracelet(invisible)
+\<worn around wrist\> a runed onyx bracelet(invisible)
 
-<held>               orb of magical enhancement(invisible)..It has a soft glowing aura!
+\<held\> orb of magical enhancement(invisible)..It has a soft glowing aura!
 
-<634hp 753ma 167mv>rem tunic
+\<634hp 753ma 167mv\>rem tunic
 
 You stop using tunic of the mystic healer.
 
-<634hp 753ma 167mv>TICK IN 0 SECONDS.
+\<634hp 753ma 167mv\>TICK IN 0 SECONDS.
 
 save
 
@@ -62,7 +62,7 @@ Saving Dragoth.
 
 Saving items.
 
-<634hp 728ma 167mv>wear tunic
+\<634hp 728ma 167mv\>wear tunic
 
 You wear tunic of the mystic healer about your body.
 
@@ -74,7 +74,7 @@ Can we start wearing boots on our feet and helmets on our asses now please?
 
 Your neither holding a light source nor wielding a weapon Dragoth.
 
-WTF ?!?[/size:3iy684e4][/color:3iy684e4]
+WTF ?!?
 
 </div>
 
@@ -82,23 +82,23 @@ WTF ?!?[/size:3iy684e4][/color:3iy684e4]
 
 Mud Info: SlothMUD III
 
-Mud Name 	Rank (as of last update) 	Stats Link
+Mud Name Rank (as of last update) Stats Link
 
-SlothMUD III 	2[/color:1iy57vr7]	Connection Stats 
+SlothMUD III 2	Connection Stats 
 
-WTF ?!?[/size:1iy57vr7][/color:1iy57vr7]
+WTF ?!?
 
 </div>
 
 <div class="post" data-post-id="22637" data-author="Yasik" data-date="2008-02-10T17:37:45+00:00" data-subject="">
 
-[img:2ag2oxg6]http://yasik.kiev.ua/WTFIsThisShit.jpg[/img:2ag2oxg6]
+![](http://yasik.kiev.ua/WTFIsThisShit.jpg)
 
 </div>
 
 <div class="post" data-post-id="22662" data-author="*juggleblood*" data-date="2008-02-11T23:50:20+00:00" data-subject="">
 
-You quaff from a water barrel.  It tastes like water.
+You quaff from a water barrel. It tastes like water.
 
 You drank every last drop of water, now a water barrel is empty.
 
@@ -122,7 +122,7 @@ That tasted just like chicken.
 
 Oops, it tasted rather strange?!!?
 
-Poison!  You quickly spit a slice of a shambler out!
+Poison! You quickly spit a slice of a shambler out!
 
 You are full.
 
@@ -146,21 +146,21 @@ You plop down into the soft feathers.
 
 On the Thunderbird
 
-   This bird is so large that his back provides a comfortably large flat
+ This bird is so large that his back provides a comfortably large flat
 
-area that could easily carry a company of soldiers.  While you can see the
+area that could easily carry a company of soldiers. While you can see the
 
 sky and clouds above and around you, you can't get much of a view below
 
-except off near the horizon.  There aren't any railings, so perhaps you
+except off near the horizon. There aren't any railings, so perhaps you
 
 had better just stay put here close to the middle of the back.
 
 Exits:
 
-<594hp 318ma 76mv> (raining)
+\<594hp 318ma 76mv\> (raining)
 
-The thunderbird fades from view!  Nothing is holding you up now!
+The thunderbird fades from view! Nothing is holding you up now!
 
 Falling Towards the Sea
 
@@ -170,13 +170,13 @@ YOU ARE FALLING.... AAAIIIEEEEEE!!!!
 
 Falling Towards the Sea
 
-Exits: Up  Down
+Exits: Up Down
 
 YOU ARE FALLING.... AAAIIIEEEEEE!!!!
 
 Approaching the Deck
 
-Exits: Up  Down
+Exits: Up Down
 
 YOU ARE FALLING.... AAAIIIEEEEEE!!!!
 
@@ -188,15 +188,15 @@ S
 
  P
 
-  L
+ L
 
-   A
+ A
 
-    S
+ S
 
-     H
+ H
 
-      !!!!!!!!!!
+ !!!!!!!!!!
 
 You hit the water at an impressive speed!!!
 
@@ -206,7 +206,7 @@ wtf...
 
 <div class="post" data-post-id="22709" data-author="Akasha" data-date="2008-02-13T21:08:54+00:00" data-subject="">
 
-You thunderbird ran out of juice.. i know gas is expensive, but if your gonna be travelling trans-contiental, you should really splurge on a fill up :P
+You thunderbird ran out of juice.. i know gas is expensive, but if your gonna be travelling trans-contiental, you should really splurge on a fill up <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -238,7 +238,7 @@ Yinao gossips-- 'lol'
 
 You gossip-- 'too funny'
 
-Virus gossips-- '*spank*'
+Virus gossips-- '\*spank\*'
 
 Yinao gossips-- 'indeed'
 
@@ -254,37 +254,64 @@ Next you'll be putting people in jail for having eat/drink triggers when you are
 
 <div class="post" data-post-id="22887" data-author="Alberich" data-date="2008-02-22T13:52:47+00:00" data-subject="">
 
-[quote:2yf2uar5]4) No Robotting.
-
-# Robotting is the act of setting up your MUD client to run the character on
-
-its own. Playing a 'robot' character is forbidden, and will be punished.
-
-# If you are observed killing and are not at the keyboard to answer an
-
-immortal's message, you are a robot and subject to harsh penalties.
-
-# You ARE NOT allowed to program your MUD client to allow your buddy to
-
-have full control over your character.
-
-# Allowing the leader to set your targets, and "all up" triggers are fine.
-
-# Cleric Bots are illegal if you are away from keyboard. You will be
-
-considered a robot even if your actions are not benefiting yourself.
-
-# You MAY create actions/triggers that perform otherwise repetitive actions
-
-during and between fights. E.g. circling, eating and drinking.
-
-# If you need to AFK to get a drink or answer the phone, that is one thing,
-
-being AFK in a group for 10-15 minutes while still â€œmagically entering
-
-portals and blinding Mobsâ€, WILL NOT be tolerated. If your leader believes
-
-you are botting, good chances you are!!![/quote:2yf2uar5]
+> <strong>Quote:</strong>
+> 4\) No Robotting.
+> 
+> 
+> 
+> \# Robotting is the act of setting up your MUD client to run the character on
+> 
+> its own. Playing a 'robot' character is forbidden, and will be punished.
+> 
+> 
+> 
+> 
+> 
+> \# If you are observed killing and are not at the keyboard to answer an
+> 
+> immortal's message, you are a robot and subject to harsh penalties.
+> 
+> 
+> 
+> 
+> 
+> \# You ARE NOT allowed to program your MUD client to allow your buddy to
+> 
+> have full control over your character.
+> 
+> 
+> 
+> 
+> 
+> \# Allowing the leader to set your targets, and "all up" triggers are fine.
+> 
+> 
+> 
+> 
+> 
+> \# Cleric Bots are illegal if you are away from keyboard. You will be
+> 
+> considered a robot even if your actions are not benefiting yourself.
+> 
+> 
+> 
+> 
+> 
+> \# You MAY create actions/triggers that perform otherwise repetitive actions
+> 
+> during and between fights. E.g. circling, eating and drinking.
+> 
+> 
+> 
+> 
+> 
+> \# If you need to AFK to get a drink or answer the phone, that is one thing,
+> 
+> being AFK in a group for 10-15 minutes while still â€œmagically entering
+> 
+> portals and blinding Mobsâ€, WILL NOT be tolerated. If your leader believes
+> 
+> you are botting, good chances you are!!!
 
 dear noob,
 

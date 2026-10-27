@@ -12,11 +12,11 @@ post_count: 2
 
 <div class="post" data-post-id="13218" data-author="brand" data-date="2006-06-30T14:57:10+00:00" data-subject="passport quests?">
 
-how about a passport you can buy for some small drachma that can be signed by the "customs" mob in any given area for doing them some favor (like killing a different areas "customs" mob for them).  this makes the entire area nonaggro to you.
+how about a passport you can buy for some small drachma that can be signed by the "customs" mob in any given area for doing them some favor (like killing a different areas "customs" mob for them). this makes the entire area nonaggro to you.
 
-can change areas as often as you wish, just have it resigned.  However, only valid in one area at any given time.
+can change areas as often as you wish, just have it resigned. However, only valid in one area at any given time.
 
- :idea: 
+ <img src="/images/smilies/icon_idea.svg" alt=":idea:" title=":idea:" width="15" height="15" class="smiley nozoom"> 
 
 brand
 
@@ -24,6 +24,6 @@ brand
 
 <div class="post" data-post-id="13220" data-author="kjartan" data-date="2006-06-30T16:51:46+00:00" data-subject="">
 
-It's a cool idea.  However, Burning Man is in under two months, so I am going to be a bit light on the coding until after labor day.  Do any of you mudders go?
+It's a cool idea. However, Burning Man is in under two months, so I am going to be a bit light on the coding until after labor day. Do any of you mudders go?
 
 </div>

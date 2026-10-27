@@ -14,31 +14,32 @@ post_count: 6
 
 I've been trying to work out if this spell has any use whatsoever:
 
-[quote:1y69k0n5]"SIMULACRUM"
-
-See also:      FAMILIAR CHARM 
-
-Usage:         cast 'simulacrum'
-
-Accumulative:  No
-
-Duration:      instantaneous
-
-Level:         Necromancer 24
-
-Spellbook:     a book titled 'How to create a simulacra'
-
-Min Mana:      75
-
-Simulacrum creates a near identical duplicate of the castee. The duplicate 
-
-creature is partially real and formed from undead material. At all times the 
-
-simulacrum remains under your absolute command. A simulacrum has no ability 
-
-to become more powerful. It cannot increase its level or abilities. However, 
-
-if used properly can be the difference between life and death.[/quote:1y69k0n5]
+> <strong>Quote:</strong>
+> "SIMULACRUM"
+> 
+> See also: FAMILIAR CHARM 
+> 
+> Usage: cast 'simulacrum'
+> 
+> Accumulative: No
+> 
+> Duration: instantaneous
+> 
+> Level: Necromancer 24
+> 
+> Spellbook: a book titled 'How to create a simulacra'
+> 
+> Min Mana: 75
+> 
+> Simulacrum creates a near identical duplicate of the castee. The duplicate 
+> 
+> creature is partially real and formed from undead material. At all times the 
+> 
+> simulacrum remains under your absolute command. A simulacrum has no ability 
+> 
+> to become more powerful. It cannot increase its level or abilities. However, 
+> 
+> if used properly can be the difference between life and death.
 
 I've cast this and got a follower with the same name (which makes it a little difficult to control and plays hell with my aliases) and description as myself with 1hp 50mvs.
 
@@ -62,7 +63,7 @@ Can anyone help?
 
 <div class="post" data-post-id="13729" data-author="Guinex" data-date="2006-08-23T03:56:19+00:00" data-subject="">
 
-The only use i have found is that it confuses people when you are not logged on and your simu is still wandering around, other than that it is worthless. ;)
+The only use i have found is that it confuses people when you are not logged on and your simu is still wandering around, other than that it is worthless. <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -76,7 +77,7 @@ You can use it on arena, well, if someone doesn't have a good area spell.
 
 For a 75 mana spell, someone will likely wind it dead for 25 mana.
 
-I've never tested ... but I thought it might be useful with Wurragurr ( was he the one with the insta-kill proc after a few rounds of battle? ).  Maybe his proc is targetted, and would hit the simula instead of the character.  I can't think of any other procs that would be worth 75 mana to avoid.
+I've never tested ... but I thought it might be useful with Wurragurr ( was he the one with the insta-kill proc after a few rounds of battle? ). Maybe his proc is targetted, and would hit the simula instead of the character. I can't think of any other procs that would be worth 75 mana to avoid.
 
 </div>
 
@@ -88,6 +89,6 @@ well, cast a spell for 75 mana and say restore fixes it :)
 
 <div class="post" data-post-id="13740" data-author="Avatar" data-date="2006-08-24T13:55:18+00:00" data-subject="Simulacra Arena">
 
-Good point  :)
+Good point <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

@@ -14,7 +14,7 @@ post_count: 1
 
 Greetings, mortals.
 
-Changed a bit the broadside requisites and checks, so there shouldnt be that "many mobs that have an enormous mass to avoid broadside ". :lol:
+Changed a bit the broadside requisites and checks, so there shouldnt be that "many mobs that have an enormous mass to avoid broadside ". <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 Thanks Taron for reporting.
 

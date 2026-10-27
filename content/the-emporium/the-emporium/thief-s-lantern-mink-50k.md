@@ -12,6 +12,6 @@ post_count: 1
 
 <div class="post" data-post-id="224" data-author="Ganesh" data-date="2004-05-22T02:11:46+00:00" data-subject="Thief&#x27;s Lantern Mink 50K">
 
-<BR>Thief's Lantern Ghost Thief Midgaard -0.0 +1 Dex * ET Min 50K<BR><BR>
+\<BR\>Thief's Lantern Ghost Thief Midgaard -0.0 +1 Dex \* ET Min 50K\<BR\>\<BR\>
 
 </div>

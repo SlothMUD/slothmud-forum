@@ -20,11 +20,11 @@ Most of the major autoquests werenâ€™t completed and thereâ€™s still p
 
 Contacts Crumbs or Dragoth ingame if you are interested.
 
-============================================================================
+\============================================================================
 
-Anrok the invader from 11th dimension.  (level: 40)
+Anrok the invader from 11th dimension. (level: 40)
 
-Your levels:  Ne: 40 Dr: 40 Cl: 40 Ma: 40 Wa: 40 Ba: 40 Th: 26 Mo: 20 Av: 15 
+Your levels: Ne: 40 Dr: 40 Cl: 40 Ma: 40 Wa: 40 Ba: 40 Th: 26 Mo: 20 Av: 15 
 
 You are 50 years, 10 months, 18 days old.
 
@@ -72,111 +72,111 @@ You are affected by the following spells:
 
 Variable spellup removed.
 
-< Avatar Sight >                    [3 Hours and 1 Minutes] 
+\< Avatar Sight \> [3 Hours and 1 Minutes] 
 
-< Darksight >                           [3 Hours and 35 Minutes] 
+\< Darksight \> [3 Hours and 35 Minutes] 
 
-< Perception >                        [0 Seconds] 
+\< Perception \> [0 Seconds] 
 
-< Resist Fire >                     [0 Seconds] 
+\< Resist Fire \> [0 Seconds] 
 
-< Resist Cold >                     [0 Seconds] 
+\< Resist Cold \> [0 Seconds] 
 
-< Stone Skin >                        [13 Minutes and 5 Seconds] 
+\< Stone Skin \> [13 Minutes and 5 Seconds] 
 
-< Demonic Aura >                    [1 Minutes and 5 Seconds] 
+\< Demonic Aura \> [1 Minutes and 5 Seconds] 
 
-< Water Breathing >                 [2 Minutes and 15 Seconds] 
+\< Water Breathing \> [2 Minutes and 15 Seconds] 
 
-< Rejuvenation >                    [9 Minutes and 30 Seconds] 
+\< Rejuvenation \> [9 Minutes and 30 Seconds] 
 
-< Nature's Revival >                [12 Minutes and 30 Seconds] 
+\< Nature's Revival \> [12 Minutes and 30 Seconds] 
 
-< Stamina >                            [20 Minutes and 55 Seconds] 
+\< Stamina \> [20 Minutes and 55 Seconds] 
 
-< Corona >                          [18 Minutes and 35 Seconds] 
+\< Corona \> [18 Minutes and 35 Seconds] 
 
-< Greater Mobility >                [40 Minutes and 30 Seconds]
+\< Greater Mobility \> [40 Minutes and 30 Seconds]
 
 You are using:
 
-<used as light>      a gray gemstone shard ()socketed Lapus Lazuli Rune() (RESERVED)
+\<used as light\> a gray gemstone shard ()socketed Lapus Lazuli Rune() (RESERVED)
 
-<worn on finger>     an enchanted band of hematite (with an emerald of insight attached to it)
+\<worn on finger\> an enchanted band of hematite (with an emerald of insight attached to it)
 
-<worn on finger>     a heavy iron ring (with an emerald of insight attached to it)
+\<worn on finger\> a heavy iron ring (with an emerald of insight attached to it)
 
-<worn around neck>   a thief's shadow bending half-cloak (with a red minidemon brooch attached to it)
+\<worn around neck\> a thief's shadow bending half-cloak (with a red minidemon brooch attached to it)
 
-<worn on shoulders>  darksteel shoulder guards (with a purple minidemon brooch attached to it)
+\<worn on shoulders\> darksteel shoulder guards (with a purple minidemon brooch attached to it)
 
-<worn on body>       Adamantine Cuirass of the Ancients..It glows violet!
+\<worn on body\> Adamantine Cuirass of the Ancients..It glows violet!
 
-<worn on head>       a crimson tri-cornered hat (with the crest of the crimson buccaneer attached to it) (RESERVED)
+\<worn on head\> a crimson tri-cornered hat (with the crest of the crimson buccaneer attached to it) (RESERVED)
 
-<worn on legs>       chiseled granite greaves (with a polished spectrolite charm attached to it)
+\<worn on legs\> chiseled granite greaves (with a polished spectrolite charm attached to it)
 
-<worn on feet>       black orcskin boots..It emits a faint humming sound!
+\<worn on feet\> black orcskin boots..It emits a faint humming sound!
 
-<worn on hands>      Talons of the Dragon Lords..It has a soft glowing aura!
+\<worn on hands\> Talons of the Dragon Lords..It has a soft glowing aura!
 
-<worn on arms>       amethyst-inlaid mithril bracers of the Dwarf Lords..It glows violet!..It emits a faint humming sound!
+\<worn on arms\> amethyst-inlaid mithril bracers of the Dwarf Lords..It glows violet!..It emits a faint humming sound!
 
-<worn as shield>     a crystal greatshield..It glows violet!..It emits a faint humming sound!
+\<worn as shield\> a crystal greatshield..It glows violet!..It emits a faint humming sound!
 
-<worn about body>    an elven cloak of agility (with a golden, four-pointed star (Major) attached to it)
+\<worn about body\> an elven cloak of agility (with a golden, four-pointed star (Major) attached to it)
 
-<worn about waist>   a feathered cincture
+\<worn about waist\> a feathered cincture
 
-<worn around wrist>  the Bracelet of the High Orc ()socketed Pale Golden Pearl Rune()
+\<worn around wrist\> the Bracelet of the High Orc ()socketed Pale Golden Pearl Rune()
 
-<worn around wrist>  the Bracelet of the High Orc
+\<worn around wrist\> the Bracelet of the High Orc
 
-<wielded>            a jeweled saber..It has a soft glowing aura!
+\<wielded\> a jeweled saber..It has a soft glowing aura!
 
-<held>               Adamantium Sceptre (RESERVED)
+\<held\> Adamantium Sceptre (RESERVED)
 
-============================================================================
+\============================================================================
 
-<used as light>      eye of the undead..It has a soft glowing aura!
+\<used as light\> eye of the undead..It has a soft glowing aura!
 
-<worn on finger>     a ring of imminent death (with an emerald of insight attached to it)
+\<worn on finger\> a ring of imminent death (with an emerald of insight attached to it)
 
-<worn on finger>     a ring of imminent death (with an emerald of insight attached to it)
+\<worn on finger\> a ring of imminent death (with an emerald of insight attached to it)
 
-<worn around neck>   an ugly decaying ankh (with a clasp of life and death attached to it)
+\<worn around neck\> an ugly decaying ankh (with a clasp of life and death attached to it)
 
-<worn on shoulders>  woven shoulder guards of flesh (with a clasp of life and death attached to it)
+\<worn on shoulders\> woven shoulder guards of flesh (with a clasp of life and death attached to it)
 
-<worn on body>       a blackened, corrupted rose..It glows violet!
+\<worn on body\> a blackened, corrupted rose..It glows violet!
 
-<worn on head>       a ruby-inlaid crown..It has a soft glowing aura!
+\<worn on head\> a ruby-inlaid crown..It has a soft glowing aura!
 
-<worn on legs>       a set of polished bone leggings..It glows violet!
+\<worn on legs\> a set of polished bone leggings..It glows violet!
 
-<worn on hands>      arcane gauntlets of the moon
+\<worn on hands\> arcane gauntlets of the moon
 
-<worn on arms>       a set of ruby studded vambraces..It has a soft glowing aura!
+\<worn on arms\> a set of ruby studded vambraces..It has a soft glowing aura!
 
-<worn as shield>     a shield of stolen souls..It emits a faint humming sound!
+\<worn as shield\> a shield of stolen souls..It emits a faint humming sound!
 
-<worn about body>    Shroud of the Undead Spiritcharmer..It has a soft glowing aura!
+\<worn about body\> Shroud of the Undead Spiritcharmer..It has a soft glowing aura!
 
-<worn about waist>   a golden-feathered girth..It glows violet!
+\<worn about waist\> a golden-feathered girth..It glows violet!
 
-<worn around wrist>  a strand of opalescent silk..It glows violet!..It has a soft glowing aura!
+\<worn around wrist\> a strand of opalescent silk..It glows violet!..It has a soft glowing aura!
 
-<worn around wrist>  a strand of opalescent silk..It glows violet!..It has a soft glowing aura!
+\<worn around wrist\> a strand of opalescent silk..It glows violet!..It has a soft glowing aura!
 
-<wielded>            a staff of entwined serpents..It emits a faint humming sound!
+\<wielded\> a staff of entwined serpents..It emits a faint humming sound!
 
-<held>               Grey Tome with Silver Runes
+\<held\> Grey Tome with Silver Runes
 
 The following bonuses affect you:
 
-   Damage Red.   :  50% (  4) [|||||||||||||||||||||||||                         ]
+ Damage Red. : 50% ( 4) [\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\| ]
 
-   Undead Control:  83% ( 20) [|||||||||||||||||||||||||||||||||||||||||         ]
+ Undead Control: 83% ( 20) [\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\| ]
 
 </div>
 
@@ -186,323 +186,323 @@ Price reduction: 15million coins
 
 Here are the quests that were done on this char
 
-<1031hp 777ma 338mv>remember quests
+\<1031hp 777ma 338mv\>remember quests
 
 You strain to remember the quests you have completed and the token begins to glow.
 
-<1031hp 777ma 342mv>You begin to remember:
+\<1031hp 777ma 342mv\>You begin to remember:
 
-   epic_army_enlisted
+ epic\_army\_enlisted
 
-   flour
+ flour
 
-   warrior_guild
+ warrior\_guild
 
-   thieves_guild
+ thieves\_guild
 
-   mage_guild
+ mage\_guild
 
-   cleric_guild
+ cleric\_guild
 
-   druid_guild
+ druid\_guild
 
-   necromancer_guild
+ necromancer\_guild
 
-   bard_guild
+ bard\_guild
 
-   monk_guild
+ monk\_guild
 
-   law
+ law
 
-<1031hp 777ma 347mv>Willing the power of token to your aide you suddently remember:
+\<1031hp 777ma 347mv\>Willing the power of token to your aide you suddently remember:
 
-   shovel
+ shovel
 
-   dragons
+ dragons
 
-   sanctuary
+ sanctuary
 
-   bag_of_merchandise
+ bag\_of\_merchandise
 
-   necromancers_amulet
+ necromancers\_amulet
 
-   dreamweaver_membership
+ dreamweaver\_membership
 
-   power
+ power
 
-   bean
+ bean
 
-   mine_canary
+ mine\_canary
 
-   bolg
+ bolg
 
-   trolls
+ trolls
 
-<1031hp 777ma 353mv>Willing the power of token to your aide you suddently remember:
+\<1031hp 777ma 353mv\>Willing the power of token to your aide you suddently remember:
 
-   mug
+ mug
 
-   ughle
+ ughle
 
-   ughle_killed
+ ughle\_killed
 
-   ughle_killed_complete
+ ughle\_killed\_complete
 
-   bolg_killed
+ bolg\_killed
 
-   bolg_killed_complete
+ bolg\_killed\_complete
 
-   mug_killed
+ mug\_killed
 
-   deliver_tha_merchandise
+ deliver\_tha\_merchandise
 
-   merchandise_delivery_completed
+ merchandise\_delivery\_completed
 
-   strange_ingredients
+ strange\_ingredients
 
-   deliver_tha_moonshrooms
+ deliver\_tha\_moonshrooms
 
-<1031hp 762ma 357mv>Willing the power of token to your aide you suddently remember:
+\<1031hp 762ma 357mv\>Willing the power of token to your aide you suddently remember:
 
-   deliver_tha_moonshrooms_completed
+ deliver\_tha\_moonshrooms\_completed
 
-   small_errand
+ small\_errand
 
-   small_errand_completed
+ small\_errand\_completed
 
-   food
+ food
 
-   stealin_me_pots
+ stealin\_me\_pots
 
-   one_more_errand
+ one\_more\_errand
 
-   stock_supply
+ stock\_supply
 
-   goodies
+ goodies
 
-   new_items
+ new\_items
 
-   foulness
+ foulness
 
-   disturbance
+ disturbance
 
-<1031hp 776ma 357mv>Willing the power of token to your aide you suddently remember:
+\<1031hp 776ma 357mv\>Willing the power of token to your aide you suddently remember:
 
-   receive_casket
+ receive\_casket
 
-   deer_steaks
+ deer\_steaks
 
-   immediate_concerns
+ immediate\_concerns
 
-   food_shipment
+ food\_shipment
 
-   missing_shipment
+ missing\_shipment
 
-   lack_of_spices
+ lack\_of\_spices
 
-   booksh
+ booksh
 
-   freedom
+ freedom
 
-   death_of_so_much_life
+ death\_of\_so\_much\_life
 
-   retrieved_staff
+ retrieved\_staff
 
-   the_celestial_mother
+ the\_celestial\_mother
 
-<1031hp 777ma 357mv>You are feeling the drain but you still manage to remember:
+\<1031hp 777ma 357mv\>You are feeling the drain but you still manage to remember:
 
-   the_summoning_ritual
+ the\_summoning\_ritual
 
-   sapphire_gem
+ sapphire\_gem
 
-   galio
+ galio
 
-   mission
+ mission
 
-   bugs
+ bugs
 
-   sacred_wine
+ sacred\_wine
 
-   bandersnatch
+ bandersnatch
 
-   discrete_agent
+ discrete\_agent
 
-   sorrowful_legend
+ sorrowful\_legend
 
-   my_lover_geode
+ my\_lover\_geode
 
-   heart_of_evil
+ heart\_of\_evil
 
-<1031hp 777ma 357mv>Willing the power of token to your aide you suddently remember:
+\<1031hp 777ma 357mv\>Willing the power of token to your aide you suddently remember:
 
-   exotic_treat
+ exotic\_treat
 
-   one_so_bold
+ one\_so\_bold
 
-   blood_letting_basin
+ blood\_letting\_basin
 
-   vampire_slayer
+ vampire\_slayer
 
-   hidden_lair
+ hidden\_lair
 
-   token
+ token
 
-   rumors
+ rumors
 
-   purple_dragon_corpse
+ purple\_dragon\_corpse
 
-   skeleton_in_the_closet
+ skeleton\_in\_the\_closet
 
-   swamp_1
+ swamp\_1
 
-   make_money
+ make\_money
 
-<1031hp 777ma 357mv>Willing the power of token to your aide you suddently remember:
+\<1031hp 777ma 357mv\>Willing the power of token to your aide you suddently remember:
 
-   vorpal_sword
+ vorpal\_sword
 
-   exotic_weapon
+ exotic\_weapon
 
-   prove_your_worth
+ prove\_your\_worth
 
-   monk_hood
+ monk\_hood
 
-   rescue_ishlar
+ rescue\_ishlar
 
-   save_ishlar_part_1
+ save\_ishlar\_part\_1
 
-   save_ishlar_part_2
+ save\_ishlar\_part\_2
 
-   mortar
+ mortar
 
-   princess_fisica
+ princess\_fisica
 
-   vernal
+ vernal
 
-   embalming_fluid
+ embalming\_fluid
 
-<1031hp 777ma 357mv>You concentrate harder and are able to remember:
+\<1031hp 777ma 357mv\>You concentrate harder and are able to remember:
 
-   devoted_recruit
+ devoted\_recruit
 
-   steal_cycle
+ steal\_cycle
 
-   adventurer_gossip
+ adventurer\_gossip
 
-   ogre_costume
+ ogre\_costume
 
-   concubine_costume
+ concubine\_costume
 
-   disaster_drachma
+ disaster\_drachma
 
-   bonus_shardgold
+ bonus\_shardgold
 
-   bonus_shardticket
+ bonus\_shardticket
 
-   bonus_sharddrachma
+ bonus\_sharddrachma
 
-   rescue_giry
+ rescue\_giry
 
-   ticket_reward
+ ticket\_reward
 
-<1031hp 777ma 357mv>save
+\<1031hp 777ma 357mv\>save
 
 Saving Anrok.
 
 Saving items.
 
-<1031hp 777ma 357mv><[0]md>
+\<1031hp 777ma 357mv\>\<[0]md\>
 
 Willing the power of token to your aide you suddently remember:
 
-   rescue_giry_reward
+ rescue\_giry\_reward
 
-   jabberwock
+ jabberwock
 
-   perfect_gem
+ perfect\_gem
 
-   meat
+ meat
 
-   vein
+ vein
 
-   lavender_oil
+ lavender\_oil
 
-   cobra
+ cobra
 
-   gelatinous
+ gelatinous
 
-   lilac_oil
+ lilac\_oil
 
-   spirits
+ spirits
 
-   rose_perfume
+ rose\_perfume
 
-<1031hp 777ma 357mv>You ponder for a while and suddenly remember you have completed:
+\<1031hp 777ma 357mv\>You ponder for a while and suddenly remember you have completed:
 
-   hammer
+ hammer
 
-   local_lore
+ local\_lore
 
-   furrowed_scriptures
+ furrowed\_scriptures
 
-   open_ancient_tome
+ open\_ancient\_tome
 
-   release_contagion
+ release\_contagion
 
-   uncut_diamonds
+ uncut\_diamonds
 
-   mug_killed_complete
+ mug\_killed\_complete
 
-   book
+ book
 
-   essence_of_jasmine
+ essence\_of\_jasmine
 
-   darksteel_guards
+ darksteel\_guards
 
-   diamondhammer_helped
+ diamondhammer\_helped
 
-<1031hp 777ma 357mv>You ponder for a while and suddenly remember you have completed:
+\<1031hp 777ma 357mv\>You ponder for a while and suddenly remember you have completed:
 
-   jacintos_circle
+ jacintos\_circle
 
-   enchant_juggling_clubs
+ enchant\_juggling\_clubs
 
-   present_for_jon
+ present\_for\_jon
 
-   make_darksteel_guards
+ make\_darksteel\_guards
 
-   staff
+ staff
 
-   tiamat_corpse
+ tiamat\_corpse
 
-   meal
+ meal
 
-   scrolls
+ scrolls
 
-   pretty_clothes
+ pretty\_clothes
 
-   dream_essence
+ dream\_essence
 
-   power_to_enchant_it
+ power\_to\_enchant\_it
 
-<1031hp 777ma 357mv>You are feeling the drain but you still manage to remember:
+\<1031hp 777ma 357mv\>You are feeling the drain but you still manage to remember:
 
-   ogrecide
+ ogrecide
 
-   chaos_pit
+ chaos\_pit
 
-   dreams_that_die
+ dreams\_that\_die
 
-   damascus
+ damascus
 
-   coral
+ coral
 
-   sand
+ sand
 
 The blueish glow surrounding the token fades.
 
-<1031hp 777ma 357mv>
+\<1031hp 777ma 357mv\>
 
 </div>
 

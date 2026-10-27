@@ -28,6 +28,6 @@ rates still good
 
 <div class="post" data-post-id="35200" data-author="van" data-date="2014-05-31T20:17:55+00:00" data-subject="Re: Gems&#x27; poprates">
 
-Mmhmm, Breeze toggling gempop certainly had an effect. :)
+Mmhmm, Breeze toggling gempop certainly had an effect. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

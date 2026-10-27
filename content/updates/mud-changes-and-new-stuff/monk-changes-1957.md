@@ -16,17 +16,17 @@ After speaking with a few other Immortals we have decided to change a few eq ite
 
 Items that have been changed are the following;
 
-1) shield of south ice changed to 2 handdam
+1\) shield of south ice changed to 2 handdam
 
-2) aura of pride changed to 2 handdam
+2\) aura of pride changed to 2 handdam
 
-3) Gauntlets of Thunder changed to 2 handdam
+3\) Gauntlets of Thunder changed to 2 handdam
 
-4) gloves of the yellow rose changed to 3 handdam(prime)
+4\) gloves of the yellow rose changed to 3 handdam(prime)
 
-5) gloves of holy war changed to 2 handdam
+5\) gloves of holy war changed to 2 handdam
 
-6) brass knuckles changes to 2 handdam
+6\) brass knuckles changes to 2 handdam
 
 If we have missed any items please let me know...
 

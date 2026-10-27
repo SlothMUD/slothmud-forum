@@ -28,13 +28,13 @@ I plan to deploy this at noon server time tomorrow.
 
 Hoping to see you all then,
 
---Idj
+\--Idj
 
 '
 
 Whilst sippin' on our tea during a quiet sunny afternoon,
 
-Pai Mei, the Master Monk gossips-- 'come get me you puss*es'
+Pai Mei, the Master Monk gossips-- 'come get me you puss\*es'
 
 Pai Mei, the Master Monk gossips-- 'I shall test you all!'
 
@@ -44,17 +44,17 @@ Ok.
 
 Open Field
 
-   Tall weeds standing waist-high cover the area.  They flow over the hills
+ Tall weeds standing waist-high cover the area. They flow over the hills
 
-in waves from the strong winds.  Rusted weapons and armor lie rotting away
+in waves from the strong winds. Rusted weapons and armor lie rotting away
 
 upon the ground, each far too deteriorated to be of any use.
 
-Exits: North  East  South  West  
+Exits: North East South West 
 
 Idjit ::LeMuRs:: is standing here.(Faint Red Aura) 
 
-*A short, humorless monk from the year one-double-aught-three stands here.
+\*A short, humorless monk from the year one-double-aught-three stands here.
 
 Pai Mei, the Master Monk glows with a bright light!
 
@@ -68,77 +68,77 @@ You can't see so well hidden like this, but you do your best...
 
 You peer intently all around, and see:
 
-                         Idjit : right here
+ Idjit : right here
 
-      Pai Mei, the Master Monk : right here
+ Pai Mei, the Master Monk : right here
 
-            the undead general : right here
+ the undead general : right here
 
-  a hate-filled undead soldier : immediately to the north
+ a hate-filled undead soldier : immediately to the north
 
-  a hate-filled undead soldier : nearby to the north
+ a hate-filled undead soldier : nearby to the north
 
-  a hate-filled undead soldier : a ways to the north
+ a hate-filled undead soldier : a ways to the north
 
-            the undead general : a ways to the north
+ the undead general : a ways to the north
 
-  a hate-filled undead soldier : immediately to the east
+ a hate-filled undead soldier : immediately to the east
 
 Soon enough we assembled Jord's bravest to the task led by none other than our Destined Defender, Taron!
 
 Taron is leading 'The Dangerous Death-Dealers' on Niebelung:
 
-            (Wa:8.39)   Taron
+ (Wa:8.39) Taron
 
- 	    (Wa:9.40)   Stun
+ (Wa:9.40) Stun
 
-            (Wa:5.33)   Sam
+ (Wa:5.33) Sam
 
-            (Wa:4.36)   Arya
+ (Wa:4.36) Arya
 
-            (Dr:8.30)   Suna
+ (Dr:8.30) Suna
 
-            (Ba:7.34)   Sochi
+ (Ba:7.34) Sochi
 
-            (Dr:9.40)   Dr
+ (Dr:9.40) Dr
 
-            (Dr:0.39)   Fandral
+ (Dr:0.39) Fandral
 
-            (Mo:5.37)   Yang
+ (Mo:5.37) Yang
 
-            (Mo:6.30)   Belrath
+ (Mo:6.30) Belrath
 
-            (Ba:8.27)   Oboe
+ (Ba:8.27) Oboe
 
-            (Ne:5.39)   Rayne
+ (Ne:5.39) Rayne
 
-            (Ne:0.20)   Prysm
+ (Ne:0.20) Prysm
 
-            (Immortal)   Idjit
+ (Immortal) Idjit
 
-Pai Mei (Chinese:??, pinyin: Bai Mei, literally White Eyebrow).  Pai Mei is
+Pai Mei (Chinese:??, pinyin: Bai Mei, literally White Eyebrow). Pai Mei is
 
-a powerful, very old practitioner of the Bak Mei style of kung fu.  Pai Mei
+a powerful, very old practitioner of the Bak Mei style of kung fu. Pai Mei
 
 was the former teacher and master of The Bride, Bill, and Elle, although it
 
 is unclear whether he instructed the other members of the Deadly Viper
 
-Assassination Squad.  He only agreed to take on The Bride as a student
+Assassination Squad. He only agreed to take on The Bride as a student
 
 after having a martials arts duel with Bill, who then adds that Pai Mei was
 
 a very old man whose advancing years had taught him the value of company,
 
-while not brightening up his angry disposition.  Pai Mei is alleged to be
+while not brightening up his angry disposition. Pai Mei is alleged to be
 
-able to perform the lethal Five Point Palm Exploding Heart Technique.  Bill
+able to perform the lethal Five Point Palm Exploding Heart Technique. Bill
 
-describes the technique as the deadliest blow in all of martial arts.  He
+describes the technique as the deadliest blow in all of martial arts. He
 
 adds that Pai Mei hits the victim with his finger tips at five different
 
-pressure points on the victim's body and then lets him/her walk away.  But
+pressure points on the victim's body and then lets him/her walk away. But
 
 once the victim has taken five steps, the heart explodes inside the body
 
@@ -150,7 +150,7 @@ Pai Mei, the Master Monk is in excellent condition.
 
 Pai Mei, the Master Monk is using:
 
-<worn around neck>   a glowing sliver of steel..It emits a faint humming sound!
+\<worn around neck\> a glowing sliver of steel..It emits a faint humming sound!
 
 You attempt to peek at the inventory:
 
@@ -158,17 +158,17 @@ You can't see anything.
 
 We discovered that Pai Mei had some dirty tricks up his sleeve -
 
-1) He attempts to kick you in yer golden triangle, yer nads
+1\) He attempts to kick you in yer golden triangle, yer nads
 
-2) If the kick misses, he sends a cheap shot to yer ribs
+2\) If the kick misses, he sends a cheap shot to yer ribs
 
-3) While you're recovering to catch your breath, he squirms out of yer webs
+3\) While you're recovering to catch your breath, he squirms out of yer webs
 
-4) Soon as the dirty fella's free, he goes to hell to buy a few matchsticks and lights it in yer face
+4\) Soon as the dirty fella's free, he goes to hell to buy a few matchsticks and lights it in yer face
 
-5) And if that wasn't enough, he comes up behind you and touches you at yer pressure points, 1) to 6) all in 1 round
+5\) And if that wasn't enough, he comes up behind you and touches you at yer pressure points, 1) to 6) all in 1 round
 
-6) Lie still, You are DEAD!!! :-(
+6\) Lie still, You are DEAD!!! <img src="/images/smilies/icon_e_sad.svg" alt=":-(" title=":-(" width="15" height="15" class="smiley nozoom">
 
 For the non-believers, here's a round -
 
@@ -236,97 +236,97 @@ What transpired.....
 
 Group 'The Dangerous Death-Dealers' is led by Taron and consists of:
 
- (Ldr/Ft)            Taron [Wa:8.39  523hp 392ma 358mv] tjade/e agate pwrm/kaz/pyro   
+ (Ldr/Ft) Taron [Wa:8.39 523hp 392ma 358mv] tjade/e agate pwrm/kaz/pyro 
 
-     (Dead)             Stun [Wa:9.40  -11hp 299ma 264mv] B.Onyx | Jet | -727           
+ (Dead) Stun [Wa:9.40 -11hp 299ma 264mv] B.Onyx \| Jet \| -727 
 
-    (Dead)              Sam [Wa:5.33  -38hp 232ma 428mv] jacinth/jet                   
+ (Dead) Sam [Wa:5.33 -38hp 232ma 428mv] jacinth/jet 
 
-     (Dead)             Arya [Wa:4.36 -2028hp 196ma 372mv] Emerald|sandworm              
+ (Dead) Arya [Wa:4.36 -2028hp 196ma 372mv] Emerald\|sandworm 
 
-     (Dead)            Sochi [Ba:7.34 -2437hp 641ma 381mv] chrysop|rhodo                 
+ (Dead) Sochi [Ba:7.34 -2437hp 641ma 381mv] chrysop\|rhodo 
 
-    (Front)             Yang [Mo:5.37  795hp 404ma 238mv] ---
+ (Front) Yang [Mo:5.37 795hp 404ma 238mv] ---
 
-    (Front)          Belrath [Mo:6.30  499hp 117ma 428mv] malachite                     
+ (Front) Belrath [Mo:6.30 499hp 117ma 428mv] malachite 
 
-    (Dead)             Oboe [Ba:8.27 -104hp 598ma 405mv] ---
+ (Dead) Oboe [Ba:8.27 -104hp 598ma 405mv] ---
 
-    (Dead)             Suna [Dr:8.30 -2395hp 998ma 404mv] gy topaz                      
+ (Dead) Suna [Dr:8.30 -2395hp 998ma 404mv] gy topaz 
 
-                            Idjit [Wa:9.44 1326hp 554ma 426mv] ---
+ Idjit [Wa:9.44 1326hp 554ma 426mv] ---
 
-      (Dead)               Dr [Dr:9.40 -2066hp 400ma 327mv] SRuby.Rhodo                   
+ (Dead) Dr [Dr:9.40 -2066hp 400ma 327mv] SRuby.Rhodo 
 
-                        Fandral [Dr:0.39  616hp  95ma 289mv] ---
+ Fandral [Dr:0.39 616hp 95ma 289mv] ---
 
-    (Dead)            Rayne [Ne:5.39 -2681hp 663ma 286mv] ---
+ (Dead) Rayne [Ne:5.39 -2681hp 663ma 286mv] ---
 
-    (Dead)            Prysm [Ne:0.20 -3269hp 302ma 137mv] ---
+ (Dead) Prysm [Ne:0.20 -3269hp 302ma 137mv] ---
 
 And much later.....
 
 Group 'The Dangerous Death-Dealers' is led by Taron and consists of:
 
-    (Dead)            Taron [Wa:8.39 -2254hp 198ma 193mv] tjade/e agate pwrm/kaz/pyro   
+ (Dead) Taron [Wa:8.39 -2254hp 198ma 193mv] tjade/e agate pwrm/kaz/pyro 
 
-    (Dead)              Stun [Wa:9.40 -1894hp 528ma 283mv] B.Onyx | Jet | -739           
+ (Dead) Stun [Wa:9.40 -1894hp 528ma 283mv] B.Onyx \| Jet \| -739 
 
-    (Front)              Sam [Wa:5.33 1312hp 220ma 174mv] jacinth/jet                   
+ (Front) Sam [Wa:5.33 1312hp 220ma 174mv] jacinth/jet 
 
-    (Front)              Arya [Wa:4.36 1064hp 135ma 372mv] Emerald|sandworm              
+ (Front) Arya [Wa:4.36 1064hp 135ma 372mv] Emerald\|sandworm 
 
-    (Dead)             Sochi [Ba:7.34 -2563hp 567ma 363mv] chrysop|rhodo                 
+ (Dead) Sochi [Ba:7.34 -2563hp 567ma 363mv] chrysop\|rhodo 
 
-    (Front)             Yang [Mo:5.37  520hp 453ma 403mv] ---
+ (Front) Yang [Mo:5.37 520hp 453ma 403mv] ---
 
-    (Dead)          Belrath [Mo:6.30 -2262hp 161ma 427mv] malachite                     
+ (Dead) Belrath [Mo:6.30 -2262hp 161ma 427mv] malachite 
 
-    (Dead)             Oboe [Ba:8.27 -2169hp 608ma 405mv] ---
+ (Dead) Oboe [Ba:8.27 -2169hp 608ma 405mv] ---
 
-                           Suna [Dr:8.30  857hp 594ma 404mv] gy topaz                      
+ Suna [Dr:8.30 857hp 594ma 404mv] gy topaz 
 
-                            Idjit [Wa:9.44 1326hp 554ma 426mv] ---
+ Idjit [Wa:9.44 1326hp 554ma 426mv] ---
 
-                               Dr [Dr:9.40 1006hp 703ma 327mv] SRuby.Rhodo                   
+ Dr [Dr:9.40 1006hp 703ma 327mv] SRuby.Rhodo 
 
-    (Dead)          Fandral [Dr:0.39 -2660hp 675ma 289mv] ---
+ (Dead) Fandral [Dr:0.39 -2660hp 675ma 289mv] ---
 
-                          Rayne [Ne:5.39  824hp 652ma 286mv] ---
+ Rayne [Ne:5.39 824hp 652ma 286mv] ---
 
-    (Dead)            Prysm [Ne:0.20  -87hp 302ma 137mv] ---
+ (Dead) Prysm [Ne:0.20 -87hp 302ma 137mv] ---
 
 And much much later....
 
 Group 'Taron's Doughty Gang' is led by Taron and consists of:
 
-    (Dead)             Stun [Wa:9.40  -32hp 140ma 186mv] B.Onyx | Jet | -745           
+ (Dead) Stun [Wa:9.40 -32hp 140ma 186mv] B.Onyx \| Jet \| -745 
 
-   (Front)          Reality [Th:7.32  491hp 178ma 454mv] ---
+ (Front) Reality [Th:7.32 491hp 178ma 454mv] ---
 
-   (Front)             Yang [Mo:5.37  871hp 562ma 354mv] ---
+ (Front) Yang [Mo:5.37 871hp 562ma 354mv] ---
 
-   (Dead)              Sam [Wa:5.33 -2231hp 709ma 398mv] jacinth/jet                   
+ (Dead) Sam [Wa:5.33 -2231hp 709ma 398mv] jacinth/jet 
 
-    (Dead)             Arya [Wa:4.36 -2071hp 202ma 372mv] Emerald|sandworm              
+ (Dead) Arya [Wa:4.36 -2071hp 202ma 372mv] Emerald\|sandworm 
 
-   (Front)            Sochi [Ba:7.34  823hp 515ma 381mv] chrysop|obsidian              
+ (Front) Sochi [Ba:7.34 823hp 515ma 381mv] chrysop\|obsidian 
 
-     (Front)               Ip [Mo:9.40  808hp 226ma 414mv] ---
+ (Front) Ip [Mo:9.40 808hp 226ma 414mv] ---
 
-  (Leader)          Taron [Wa:8.39 1249hp 186ma 244mv] ---
+ (Leader) Taron [Wa:8.39 1249hp 186ma 244mv] ---
 
-                          Oboe [Ba:8.27  950hp 775ma 412mv] ---
+ Oboe [Ba:8.27 950hp 775ma 412mv] ---
 
-                              Dr [Dr:9.40  977hp   9ma 327mv] SRuby.Rhodo                   
+ Dr [Dr:9.40 977hp 9ma 327mv] SRuby.Rhodo 
 
-   (Dead)            Prysm [Ne:0.20 -3278hp 204ma 137mv] ---
+ (Dead) Prysm [Ne:0.20 -3278hp 204ma 137mv] ---
 
-                         Rayne [Ne:5.39  824hp 162ma 286mv] ---
+ Rayne [Ne:5.39 824hp 162ma 286mv] ---
 
-                           Suna [Dr:8.30  832hp 753ma 406mv] gy topaz                      
+ Suna [Dr:8.30 832hp 753ma 406mv] gy topaz 
 
-   (Absent)            Idjit [Wa:9.44 1326hp 554ma 426mv] ---
+ (Absent) Idjit [Wa:9.44 1326hp 554ma 426mv] ---
 
 Despite our deaths and a convulsion -
 
@@ -344,7 +344,7 @@ were already overpowered - to which he agreed.
 
 8 more deaths and yet another convulsion -
 
-Suna[Clan:Dragonsworn]> 'arya says this is a tough epic'
+Suna[Clan:Dragonsworn]\> 'arya says this is a tough epic'
 
 Sam -- 'i actually i went from 1300 to -200 in 1 round'
 
@@ -394,13 +394,13 @@ Taron gets a glowing sliver of steel from the corpse of Pai Mei, the Master Monk
 
 Taron gets gold coins from the corpse of Pai Mei, the Master Monk that's on the ground.
 
-Taron splits 2,810,000 coins.  Your share is 216,153 coins.
+Taron splits 2,810,000 coins. Your share is 216,153 coins.
 
 A glowing sliver of steel explodes in a blinding orange light, scattering shards of steel about the 
 
 room.
 
-The hot shards of steel slice through your skin.  It burns!
+The hot shards of steel slice through your skin. It burns!
 
 You have gained thirty-three drachma.
 
@@ -412,7 +412,7 @@ Reality -- 'nice'
 
 Suna -- 'nice'
 
-Stun[chat]> 'wow'
+Stun[chat]\> 'wow'
 
 Sam -- 'wow'
 
@@ -438,6 +438,6 @@ Kind regards,
 
 Dr
 
-** PS  - If you have been missing out on the "sloth memo", do a 'help events' in game and follow the instructions so you can be notified! Don't miss out!
+\*\* PS - If you have been missing out on the "sloth memo", do a 'help events' in game and follow the instructions so you can be notified! Don't miss out!
 
 </div>

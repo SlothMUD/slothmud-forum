@@ -18,7 +18,7 @@ A heron hates your guts!
 
 You miss a heron with your slice.
 
-<813hp 845ma 264mv>You slice a heron.
+\<813hp 845ma 264mv\>You slice a heron.
 
 You are viciously massacred by a heron's hit.hit
 
@@ -30,13 +30,13 @@ You slice a heron hard.
 
 A heron is mortally wounded, and will die soon, if not aided.
 
-<666hp 845ma 264mv><---147---:182:>
+\<666hp 845ma 264mv\>\<---147---:182:\>
 
 Hidden mace of the underworld glows blue!
 
 You slice a heron very hard.
 
-A heron is dead! R.I.P.Report: Armor:[0%]  
+A heron is dead! R.I.P.Report: Armor:[0%] 
 
 TARGET DIED!
 
@@ -50,9 +50,9 @@ Total exp for kill is 86.
 
 Your blood freezes as you hear a heron's death cry.
 
-<666hp 862ma 265mv>Anrok the invader from 11th dimension  (level: 40)
+\<666hp 862ma 265mv\>Anrok the invader from 11th dimension (level: 40)
 
-Your levels:  Ne: 40 Dr: 40 Cl: 40 Ma: 40 Wa: 37 Ba: 40 Th: 21 Mo: 19 Av: 11 
+Your levels: Ne: 40 Dr: 40 Cl: 40 Ma: 40 Wa: 37 Ba: 40 Th: 21 Mo: 19 Av: 11 
 
 You are 57 years, 13 months, 10 days old.
 
@@ -98,31 +98,31 @@ You are affected by the following spells:
 
 Variable spellup removed.
 
-< Avatar Sight >                    [28 Minutes and 15 Seconds] 
+\< Avatar Sight \> [28 Minutes and 15 Seconds] 
 
-< Darksight >                           [3 Hours and 6 Minutes] 
+\< Darksight \> [3 Hours and 6 Minutes] 
 
-< Darkness >                          [3 Minutes and 25 Seconds] 
+\< Darkness \> [3 Minutes and 25 Seconds] 
 
-< Aegis >                               [4 Minutes and 45 Seconds] 
+\< Aegis \> [4 Minutes and 45 Seconds] 
 
-< Dark Cloak >                        [0 Seconds] 
+\< Dark Cloak \> [0 Seconds] 
 
-< Bone Armor >                        [3 Minutes and 20 Seconds] 
+\< Bone Armor \> [3 Minutes and 20 Seconds] 
 
-< Demonic Aura >                    [21 Minutes and 35 Seconds] 
+\< Demonic Aura \> [21 Minutes and 35 Seconds] 
 
-< Fly >                                  [4 Minutes and 20 Seconds] 
+\< Fly \> [4 Minutes and 20 Seconds] 
 
-< Water Breathing >                 [22 Minutes and 10 Seconds] 
+\< Water Breathing \> [22 Minutes and 10 Seconds] 
 
-< Regeneration >                     [18 Minutes and 30 Seconds] 
+\< Regeneration \> [18 Minutes and 30 Seconds] 
 
-< Nature's Revival >                 [15 Minutes and 10 Seconds] 
+\< Nature's Revival \> [15 Minutes and 10 Seconds] 
 
-< Stamina >                            [14 Minutes and 20 Seconds] 
+\< Stamina \> [14 Minutes and 20 Seconds] 
 
-< Greater Mobility >                [26 Minutes and 35 Seconds]
+\< Greater Mobility \> [26 Minutes and 35 Seconds]
 
 </div>
 
@@ -138,7 +138,7 @@ Here is the heron's attack that I see.
 
  Hitroll: [1]
 
- #1  1d3+0  claws
+ \#1 1d3+0 claws
 
 </div>
 
@@ -152,6 +152,6 @@ The extra hit after the viciously massacre line is a part of my trigger.
 
 <div class="post" data-post-id="34080" data-author="*juggleblood*" data-date="2013-02-23T12:26:08+00:00" data-subject="Re: heron on island (Newbies beware!)">
 
-I can't figure it out.  Best I can do is comp u a restore sometime.
+I can't figure it out. Best I can do is comp u a restore sometime.
 
 </div>

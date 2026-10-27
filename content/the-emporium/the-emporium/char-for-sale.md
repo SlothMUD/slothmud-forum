@@ -14,11 +14,11 @@ post_count: 8
 
 All information gathered during sleep at bh wgate(outdoors) in the day when bh had no specials.
 
-1) Solo Mode
+1\) Solo Mode
 
-Wong For Sale  (level: 40)
+Wong For Sale (level: 40)
 
-Your levels:  Mo: 40 Wa: 40 Cl: 40 Ne: 30 Ma: 24 Dr: 16 Th: 12 Ba: 11 
+Your levels: Mo: 40 Wa: 40 Cl: 40 Ne: 30 Ma: 24 Dr: 16 Th: 12 Ba: 11 
 
 You are 24 years, 12 months, 9 days old.
 
@@ -46,7 +46,7 @@ You have 77026099 unused experience points.
 
 You have been playing for 25 days, 12 hours, 39 minutes.
 
-You are a member of <<M.A.G.I>>.
+You are a member of \<\<M.A.G.I\>\>.
 
 Str: 19[18], Int: 14[14], Wis: 16[16], Dex: 18[17], Con: 18[18]
 
@@ -56,59 +56,59 @@ Your song can affect as many as two people.
 
 You are affected by the following spells:
 
-   Detect Invisible                 
+ Detect Invisible 
 
-   Infravision                      
+ Infravision 
 
-   Darksight                        
+ Darksight 
 
-   Resist Fire                      
+ Resist Fire 
 
-   Stone Skin                       
+ Stone Skin 
 
-   Fly
+ Fly
 
 You are using:
 
-<used as light>      a star shaped crystal (with a flawed glowing gem attached to it)
+\<used as light\> a star shaped crystal (with a flawed glowing gem attached to it)
 
-<worn on finger>     a skull ring with bloodstone eyes..It has a soft glowing aura!
+\<worn on finger\> a skull ring with bloodstone eyes..It has a soft glowing aura!
 
-<worn on finger>     a skull ring with bloodstone eyes..It has a soft glowing aura!
+\<worn on finger\> a skull ring with bloodstone eyes..It has a soft glowing aura!
 
-<worn on shoulders>  mithril shoulder guards..It emits a faint humming sound!
+\<worn on shoulders\> mithril shoulder guards..It emits a faint humming sound!
 
-<worn around neck>   a patched black cloak
+\<worn around neck\> a patched black cloak
 
-<worn on body>       a spiked battle tunic..It has a soft glowing aura!
+\<worn on body\> a spiked battle tunic..It has a soft glowing aura!
 
-<worn on head>       The Crown of Thorns (with a reddish-colored glass eye attached to it)
+\<worn on head\> The Crown of Thorns (with a reddish-colored glass eye attached to it)
 
-<worn on legs>       a pair of purple shin guards..It emits a faint humming sound!
+\<worn on legs\> a pair of purple shin guards..It emits a faint humming sound!
 
-<worn on feet>       old viking boots
+\<worn on feet\> old viking boots
 
-<worn on hands>      a pair of heavy gloves
+\<worn on hands\> a pair of heavy gloves
 
-<worn on arms>       sleeves of black ice..It has a soft glowing aura!
+\<worn on arms\> sleeves of black ice..It has a soft glowing aura!
 
-<worn as shield>     shield of black ice..It emits a faint humming sound!
+\<worn as shield\> shield of black ice..It emits a faint humming sound!
 
-<worn about body>    a grey robe
+\<worn about body\> a grey robe
 
-<worn about waist>   an ebony sash
+\<worn about waist\> an ebony sash
 
-<worn around wrist>  an onyx bracelet
+\<worn around wrist\> an onyx bracelet
 
-<worn around wrist>  an ashen bracelet
+\<worn around wrist\> an ashen bracelet
 
-<held>               a mu-jen doll
+\<held\> a mu-jen doll
 
-2) Regen Mode
+2\) Regen Mode
 
-Wong For Sale  (level: 40)
+Wong For Sale (level: 40)
 
-Your levels:  Mo: 40 Wa: 40 Cl: 40 Ne: 30 Ma: 24 Dr: 16 Th: 12 Ba: 11 
+Your levels: Mo: 40 Wa: 40 Cl: 40 Ne: 30 Ma: 24 Dr: 16 Th: 12 Ba: 11 
 
 You are 24 years, 12 months, 10 days old.
 
@@ -136,7 +136,7 @@ You have 77026099 unused experience points.
 
 You have been playing for 25 days, 12 hours, 41 minutes.
 
-You are a member of <<M.A.G.I>>.
+You are a member of \<\<M.A.G.I\>\>.
 
 Str: 19[18], Int: 18[14], Wis: 18[16], Dex: 17[17], Con: 18[18]
 
@@ -146,59 +146,59 @@ Your song can affect as many as two people.
 
 You are affected by the following spells:
 
-   Detect Invisible                 
+ Detect Invisible 
 
-   Infravision                      
+ Infravision 
 
-   Darksight                        
+ Darksight 
 
-   Resist Fire                      
+ Resist Fire 
 
-   Stone Skin                       
+ Stone Skin 
 
-   Fly
+ Fly
 
 You are using:
 
-<used as light>      eye of the deep (with a flawed glowing gem attached to it)
+\<used as light\> eye of the deep (with a flawed glowing gem attached to it)
 
-<worn on finger>     a carved wooden ring..It has a soft glowing aura!
+\<worn on finger\> a carved wooden ring..It has a soft glowing aura!
 
-<worn on finger>     a carved wooden ring..It has a soft glowing aura!
+\<worn on finger\> a carved wooden ring..It has a soft glowing aura!
 
-<worn around neck>   a silver choker with crystal pendants..It has a soft glowing aura!
+\<worn around neck\> a silver choker with crystal pendants..It has a soft glowing aura!
 
-<worn around neck>   a silver choker with crystal pendants..It has a soft glowing aura!
+\<worn around neck\> a silver choker with crystal pendants..It has a soft glowing aura!
 
-<worn on body>       a silk smoking vest
+\<worn on body\> a silk smoking vest
 
-<worn on head>       The Crown of Thorns (with a reddish-colored glass eye attached to it)
+\<worn on head\> The Crown of Thorns (with a reddish-colored glass eye attached to it)
 
-<worn on legs>       a set of polished bone leggings
+\<worn on legs\> a set of polished bone leggings
 
-<worn on feet>       slippers of insight..It emits a faint humming sound!
+\<worn on feet\> slippers of insight..It emits a faint humming sound!
 
-<worn on hands>      gloves of swirling mist
+\<worn on hands\> gloves of swirling mist
 
-<worn on arms>       a pair of singing sleeves..It emits a faint humming sound!
+\<worn on arms\> a pair of singing sleeves..It emits a faint humming sound!
 
-<worn as shield>     a rusty shield
+\<worn as shield\> a rusty shield
 
-<worn about body>    swirling black and red robes
+\<worn about body\> swirling black and red robes
 
-<worn about waist>   a golden belt
+\<worn about waist\> a golden belt
 
-<worn around wrist>  a zebraskin bracelet
+\<worn around wrist\> a zebraskin bracelet
 
-<worn around wrist>  a zebraskin bracelet
+\<worn around wrist\> a zebraskin bracelet
 
-<wielded>            a secari dagger
+\<wielded\> a secari dagger
 
-<held>               a skeletal branch..It emits a faint humming sound!
+\<held\> a skeletal branch..It emits a faint humming sound!
 
 NOTE: This mode has 2 excessive int points, so silver chokers could be easily replaced with midnight sapphire chokers.
 
-3) Inventory
+3\) Inventory
 
 You are carrying:
 
@@ -260,17 +260,17 @@ the blessing of a god
 
 NOTE: There are two cps for the second ashen bracelet
 
-4) Quests
+4\) Quests
 
 Almost all soloable aqs that were active 3 years ago has been completed and shield of black ice has been bought.
 
-5) Starting Price: 20m
+5\) Starting Price: 20m
 
 </div>
 
 <div class="post" data-post-id="34973" data-author="DarkArtist" data-date="2014-04-09T16:08:23+00:00" data-subject="Re: Char For Sale">
 
-* 20 Mil
+\* 20 Mil
 
 </div>
 
@@ -290,7 +290,7 @@ Almost all soloable aqs that were active 3 years ago has been completed and shie
 
 I'll bid once a day until final day, so don't close out on last day without my bid pls unless cyp just blows me away.
 
- :!: *30 Here
+ <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom"> \*30 Here
 
 </div>
 

@@ -16,11 +16,11 @@ I've heard senior players talk about the "arena" and how they go in there with o
 
 I had thought this "arena" was the coliseum, but this leads me to some facts that I don't understand...
 
-1)  The coliseum is solo, only one person can pull the chain at a time
+1\) The coliseum is solo, only one person can pull the chain at a time
 
-2)  How do you know the hit points of the mob you are fighting?
+2\) How do you know the hit points of the mob you are fighting?
 
-3)  Might I add you get a random mob as well...
+3\) Might I add you get a random mob as well...
 
 I've also heard that at the "arena" you can duel players... but once again, how does the second player enter the arena?
 
@@ -32,9 +32,9 @@ How about adding a further guantlet where player can fight player in exactly the
 
 <div class="post" data-post-id="10876" data-author="Avatar" data-date="2006-02-24T00:15:34+00:00" data-subject="arena">
 
-lol, there is exactly that, already  :)
+lol, there is exactly that, already <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-There's an arena (not coliseum) north of Bal Harbor with a mob (questmaster) that will raise you if you die.  It's a chaos zone, which means you can freely engage / stab / blast other players in there even if they are not wanted criminals.  
+There's an arena (not coliseum) north of Bal Harbor with a mob (questmaster) that will raise you if you die. It's a chaos zone, which means you can freely engage / stab / blast other players in there even if they are not wanted criminals. 
 
 There's another arena on SS, much larger.
 
@@ -44,7 +44,7 @@ There's another arena on SS, much larger.
 
 Thx Avatar...
 
-hunt questmaster  :twisted: 
+hunt questmaster <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 Do you have dirs to the one on SS?
 
@@ -80,7 +80,7 @@ arena
 
 <div class="post" data-post-id="10881" data-author="brady" data-date="2006-02-24T00:58:37+00:00" data-subject="">
 
-Oh, and those directions are just for the mean klurik.  All others, wear a helmet.
+Oh, and those directions are just for the mean klurik. All others, wear a helmet.
 
 </div>
 
@@ -92,7 +92,7 @@ Brady, you don't even need the complicated stuff the like idol dive.. you just g
 
 <div class="post" data-post-id="10883" data-author="brady" data-date="2006-02-24T01:08:07+00:00" data-subject="">
 
-Well they swarm!  I think Madmax is dead there right now :)
+Well they swarm! I think Madmax is dead there right now <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -120,7 +120,7 @@ You are now a group member.
 
 You now follow the Questmaster of the Tower.
 
-Blastem -- 'ok now you can get raised :)'
+Blastem -- 'ok now you can get raised <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">'
 
 STEP 3: we left east in this case 
 
@@ -128,7 +128,7 @@ NOTE: Blastem sanct'ed and so did I
 
 COMBAT: ------------HEY I THOUGHT WE WERE FRIENDS!:P------------
 
-<930hp 94ma 216mv +10al -8.5ac>
+\<930hp 94ma 216mv +10al -8.5ac\>
 
 Blastem utters the words, 'yfaghbarh'
 
@@ -136,7 +136,7 @@ You resist a bit of the damage...
 
 A bolt of ice strikes you in the chest, freezing your flesh.
 
-<871hp 94ma 216mv +10al -8.5ac>
+\<871hp 94ma 216mv +10al -8.5ac\>
 
 You miss Blastem with your hit.
 
@@ -150,7 +150,7 @@ Blastem pierces you.
 
 Blastem pierces you.
 
-<859hp 94ma 217mv +10al -8.5ac>
+\<859hp 94ma 217mv +10al -8.5ac\>
 
 Blastem utters the words, 'yfaghbarh'
 
@@ -158,7 +158,7 @@ You resist a bit of the damage...
 
 A bolt of ice strikes you in the chest, freezing your flesh.
 
-<729hp 94ma 217mv +10al -8.5ac>
+\<729hp 94ma 217mv +10al -8.5ac\>
 
 You hit Blastem extremely hard.
 
@@ -184,7 +184,7 @@ You resist a bit of the damage...
 
 A bolt of ice strikes you in the chest, freezing your flesh.
 
-<654hp 95ma 218mv +10al -8.5ac>
+\<654hp 95ma 218mv +10al -8.5ac\>
 
 Blastem utters the words, 'yfaghbarh'
 
@@ -192,7 +192,7 @@ You resist a bit of the damage...
 
 A bolt of ice strikes you in the chest, freezing your flesh.
 
-<595hp 96ma 220mv +10al -8.5ac>
+\<595hp 96ma 220mv +10al -8.5ac\>
 
 You deal a critical blow to one of Blastem's vital organs.
 
@@ -212,13 +212,13 @@ Blastem pierces you hard.
 
 Blastem pierces you.
 
-<579hp 96ma 221mv +10al -8.5ac>
+\<579hp 96ma 221mv +10al -8.5ac\>
 
 Blastem utters the words, 'xzb'
 
 You are covered in sticky webs!
 
-<581hp 96ma 221mv +10al -8.2ac>
+\<581hp 96ma 221mv +10al -8.2ac\>
 
 You hit Blastem very hard.
 
@@ -230,7 +230,7 @@ You hit Blastem hard.
 
 Blastem pierces you.
 
-<579hp 97ma 222mv +10al -8.2ac>
+\<579hp 97ma 222mv +10al -8.2ac\>
 
 gt that tickles
 
@@ -240,17 +240,17 @@ You resist a bit of the damage...
 
 A bolt of ice strikes you in the chest, freezing your flesh.
 
-<522hp 97ma 222mv +10al -8.2ac>
+\<522hp 97ma 222mv +10al -8.2ac\>
 
 You grouptell: 'that tickles'
 
-<524hp 97ma 223mv +10al -8.2ac>
+\<524hp 97ma 223mv +10al -8.2ac\>
 
 A deafening clap of thunder explodes from the Gauntlets of Thunder as you land a powerful blow!
 
 Blastem staggers under the strike and appears dazed.
 
-<525hp 97ma 223mv +10al -8.2ac>
+\<525hp 97ma 223mv +10al -8.2ac\>
 
 Blastem utters the words, 'yfaghbarh'
 
@@ -258,7 +258,7 @@ You resist a bit of the damage...
 
 A bolt of ice strikes you in the chest, freezing your flesh.
 
-<463hp 98ma 224mv +10al -8.2ac>
+\<463hp 98ma 224mv +10al -8.2ac\>
 
 You hit Blastem extremely hard.
 
@@ -274,7 +274,7 @@ Blastem pierces you.
 
 Blastem pierces you.
 
-<447hp 98ma 224mv +10al -8.2ac>
+\<447hp 98ma 224mv +10al -8.2ac\>
 
 Blastem utters the words, 'eugszr waouq'
 
@@ -290,15 +290,15 @@ You feel dizzy for a moment...
 
 You feel dizzy for a moment...
 
-<450hp 98ma 225mv +10al -4.2ac>
+\<450hp 98ma 225mv +10al -4.2ac\>
 
 Blastem gets some salmon from Cloak of Specialization.
 
-<451hp 99ma 226mv +10al -4.2ac>
+\<451hp 99ma 226mv +10al -4.2ac\>
 
 Blastem eats some salmon.
 
-<451hp 99ma 226mv +10al -4.2ac>
+\<451hp 99ma 226mv +10al -4.2ac\>
 
 Blastem utters the words, 'yfaghbarh'
 
@@ -306,7 +306,7 @@ You resist a bit of the damage...
 
 A bolt of ice strikes you in the chest, freezing your flesh.
 
-<350hp 99ma 226mv +10al -4.2ac>
+\<350hp 99ma 226mv +10al -4.2ac\>
 
 You hit Blastem very hard.
 
@@ -322,7 +322,7 @@ Blastem massacres you to small fragments with his pierce.
 
 Blastem pierces you very hard.
 
-<307hp 99ma 226mv +10al -4.2ac>
+\<307hp 99ma 226mv +10al -4.2ac\>
 
 Blastem utters the words, 'yfaghbarh'
 
@@ -330,7 +330,7 @@ You resist a bit of the damage...
 
 A bolt of ice strikes you in the chest, freezing your flesh.
 
-<200hp 99ma 227mv +10al -4.2ac>
+\<200hp 99ma 227mv +10al -4.2ac\>
 
 You hit Blastem extremely hard.
 
@@ -354,13 +354,13 @@ Blastem pierces you very hard.
 
 You wish that your wounds would stop BLEEDING that much!
 
-<163hp 100ma 228mv +10al -4.2ac>
+\<163hp 100ma 228mv +10al -4.2ac\>
 
 gt haha
 
-You grouptell: 'haha'   (<---- This was the last laugh)
+You grouptell: 'haha' (\<---- This was the last laugh)
 
-<163hp 100ma 229mv +10al -4.2ac>
+\<163hp 100ma 229mv +10al -4.2ac\>
 
 Blastem utters the words, 'yfaghbarh'
 
@@ -376,7 +376,7 @@ apart when he dispelled me? I lost my quicken, my stone skin and my sanct. Frost
 
 tourney is... you are as good as your eq... You can tank up as much as you want, but if the person who is fighting you debuff's you with a dispel and a curse/weaken 
 
-- your in major trouble! Eq spell effects resist fire/resist cold a must for fighting player casters. Be prepared to get your stone skin back up! (Don't rely on 
+\- your in major trouble! Eq spell effects resist fire/resist cold a must for fighting player casters. Be prepared to get your stone skin back up! (Don't rely on 
 
 spells for a dex point either!)
 
@@ -392,7 +392,7 @@ You die before your time!
 
 You feel much, much better!
 
-<1hp 100ma 229mv +10al -4.2ac>
+\<1hp 100ma 229mv +10al -4.2ac\>
 
 gt nice
 
@@ -404,7 +404,7 @@ say restore
 
 The Questmaster of the Tower prepares you for an arena fight and makes a note in his participants book.
 
-<930hp 169ma 236mv +10al -4.2ac>
+\<930hp 169ma 236mv +10al -4.2ac\>
 
 Blastem smiles happily.
 
@@ -414,19 +414,19 @@ Blastem recites a scroll of recall.
 
 West Gate
 
-   This is the west gate of the port city of Bal Harbor.  A wide dirt 
+ This is the west gate of the port city of Bal Harbor. A wide dirt 
 
 roadway leads in between a pair of squarish-looking guard towers into the 
 
-city to the east, and to west disappears into a flat grassy plain.  Visible 
+city to the east, and to west disappears into a flat grassy plain. Visible 
 
 to the far west is what appears to be a forest or jungle that rims the 
 
-entire western horizon.  To the east, the roadway can be seen to lead into 
+entire western horizon. To the east, the roadway can be seen to lead into 
 
-a distant town square.  
+a distant town square. 
 
-Exits: East|look East|scan EastEast|East|Look|ScanEast  West|look West|scan WestWest|West|Look|ScanWest  Up|look Up|scan UpUp|Up|Look|ScanUp  
+Exits: East\|look East\|scan EastEast\|East\|Look\|ScanEast West\|look West\|scan WestWest\|West\|Look\|ScanWest Up\|look Up\|scan UpUp\|Up\|Look\|ScanUp 
 
 take book-forgotten-diminished-spellbook-xzatunsoTake/Get A forgotten diminished book lies alone in a corner.A forgotten diminished book lies alone in a corner.
 
@@ -452,17 +452,17 @@ l
 
 Tower Gate
 
-   Heavy oak doors, studded with iron, stand open.  Beyond the doors, an 
+ Heavy oak doors, studded with iron, stand open. Beyond the doors, an 
 
-arch leads into the interior of a small tower.  Chutes set into the ceiling
+arch leads into the interior of a small tower. Chutes set into the ceiling
 
 of the arch, and channels cut into its sides, suggest that the tower is
 
 equipped to defend itself in the event of an attack.
 
-Exits: East|look East|scan EastEast|East|Look|ScanEast  West|look West|scan WestWest|West|Look|ScanWest  Down|look Down|scan DownDown|Down|Look|ScanDown  
+Exits: East\|look East\|scan EastEast\|East\|Look\|ScanEast West\|look West\|scan WestWest\|West\|Look\|ScanWest Down\|look Down\|scan DownDown\|Down\|Look\|ScanDown 
 
-Blastem He who laughs last thinks slowest. ~[DoW]~ is standing here.
+Blastem He who laughs last thinks slowest. \~[DoW]\~ is standing here.
 
 Blastem glows with a bright light!
 
@@ -474,7 +474,7 @@ You may now leave Thunder Dome Arena. (OK now you can leave!)
 
 Thats it! I've been slothing for nearly a year... and I never knew you could do that till today. So anyways I am hoping to find someone to partner up with and test a whole bunch of monk stuff. If you wanna help out... send me a tell or leave a message. Hopefully I can check out some of the monk combat rumours.
 
-Oh one last thing to Krok... I hope you got the warm jolly feeling inside you crave when you laugh at n00bs. Some of us don't profess to know everything, but we aren't afraid to learn through our ignorance... if anything that should be applauded  :wink:
+Oh one last thing to Krok... I hope you got the warm jolly feeling inside you crave when you laugh at n00bs. Some of us don't profess to know everything, but we aren't afraid to learn through our ignorance... if anything that should be applauded <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -482,7 +482,7 @@ Oh one last thing to Krok... I hope you got the warm jolly feeling inside you cr
 
 Ok, Blastem... he's a member of DoW - he can't be a pthief..
 
----> that's my favourite!!)))))
+\---\> that's my favourite!!)))))
 
 and yeah, i have such a feeling when the newb is high level :)
 
@@ -490,7 +490,7 @@ and yeah, i have such a feeling when the newb is high level :)
 
 <div class="post" data-post-id="10889" data-author="jezer" data-date="2006-02-24T02:27:21+00:00" data-subject="Arena FAQS">
 
-I'm here to entertain you Krok  :P
+I'm here to entertain you Krok <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -498,65 +498,82 @@ I'm here to entertain you Krok  :P
 
 I found a few interesting things:
 
-[quote:135ws6q8]<524hp 97ma 223mv +10al -8.2ac> 
+> <strong>Quote:</strong>
+> \<524hp 97ma 223mv +10al -8.2ac\> 
+> 
+> A deafening clap of thunder explodes from the Gauntlets of Thunder as you land a powerful blow! 
+> 
+> Blastem staggers under the strike and appears dazed. 
+> 
+> 
+> 
+> 
+> 
+> \<525hp 97ma 223mv +10al -8.2ac\> 
+> 
+> Blastem utters the words, 'yfaghbarh' 
+> 
+> You resist a bit of the damage... 
+> 
+> A bolt of ice strikes you in the chest, freezing your flesh. 
+> 
+> 
+> 
+> \<463hp 98ma 224mv +10al -8.2ac\> 
+> 
+> You hit Blastem extremely hard. 
+> 
+> Blastem pierces you. 
+> 
+> You hit Blastem hard. 
+> 
+> You deal a critical blow to one of Blastem's vital organs. 
+> 
+> You massacre Blastem to small fragments with your hit. 
+> 
+> Blastem pierces you. 
+> 
+> Blastem pierces you.
 
-A deafening clap of thunder explodes from the Gauntlets of Thunder as you land a powerful blow! 
-
-Blastem staggers under the strike and appears dazed. 
-
-<525hp 97ma 223mv +10al -8.2ac> 
-
-Blastem utters the words, 'yfaghbarh' 
-
-You resist a bit of the damage... 
-
-A bolt of ice strikes you in the chest, freezing your flesh. 
-
-<463hp 98ma 224mv +10al -8.2ac> 
-
-You hit Blastem extremely hard. 
-
-Blastem pierces you. 
-
-You hit Blastem hard. 
-
-You deal a critical blow to one of Blastem's vital organs. 
-
-You massacre Blastem to small fragments with your hit. 
-
-Blastem pierces you. 
-
-Blastem pierces you. [/quote:135ws6q8]
-
-I thought the gloves proc would stun him a round, preventing spells?  It seemed Blastem blasted right away?
+I thought the gloves proc would stun him a round, preventing spells? It seemed Blastem blasted right away?
 
 Second:
 
-[quote:135ws6q8]Fight...fight...fight...
-
-Blastem thinks 'hmm I'm feeling a mite munchie'
-
-<450hp 98ma 225mv +10al -4.2ac> 
-
-Blastem gets some salmon from Cloak of Specialization. 
-
-<451hp 99ma 226mv +10al -4.2ac> 
-
-Blastem eats some salmon. 
-
-<451hp 99ma 226mv +10al -4.2ac> 
-
-Blastem utters the words, 'yfaghbarh' 
-
-You resist a bit of the damage... 
-
-A bolt of ice strikes you in the chest, freezing your flesh.[/quote:135ws6q8] 
+> <strong>Quote:</strong>
+> Fight...fight...fight...
+> 
+> 
+> 
+> Blastem thinks 'hmm I'm feeling a mite munchie'
+> 
+> 
+> 
+> \<450hp 98ma 225mv +10al -4.2ac\> 
+> 
+> Blastem gets some salmon from Cloak of Specialization. 
+> 
+> 
+> 
+> \<451hp 99ma 226mv +10al -4.2ac\> 
+> 
+> Blastem eats some salmon. 
+> 
+> 
+> 
+> \<451hp 99ma 226mv +10al -4.2ac\> 
+> 
+> Blastem utters the words, 'yfaghbarh' 
+> 
+> You resist a bit of the damage... 
+> 
+> A bolt of ice strikes you in the chest, freezing your flesh.
 
 Then third, in Jezer's analysis:
 
-[quote:135ws6q8]you are as good as your eq... You can tank up as much as you want, but if the person who is fighting you debuff's you with a dispel and a curse/weaken - your in major trouble! Eq spell effects resist fire/resist cold a must for fighting player casters. Be prepared to get your stone skin back up! (Don't rely on spells for a dex point either!) [/quote:135ws6q8]
+> <strong>Quote:</strong>
+> you are as good as your eq... You can tank up as much as you want, but if the person who is fighting you debuff's you with a dispel and a curse/weaken - your in major trouble! Eq spell effects resist fire/resist cold a must for fighting player casters. Be prepared to get your stone skin back up! (Don't rely on spells for a dex point either!)
 
-In my opinion, you missed the point.  Earlier you mentioned that his three attacks did 12 damage.  At that rate, who cares if your AC is -11 or -8 or 3.0.  The point to the arena is keeping your sanc up and not getting webbed.  You can prevent the dispels from hitting your sanc (and other spells) by using a little bit of spell shield.  The dispel will hit your spell shields first, and only after multiple dispels will your shield drop and your buffs get targetted.  At the same time, you should be striking or blasting to drag him into the fight to prevent him from getting a chance to cast multiple dispels.  
+In my opinion, you missed the point. Earlier you mentioned that his three attacks did 12 damage. At that rate, who cares if your AC is -11 or -8 or 3.0. The point to the arena is keeping your sanc up and not getting webbed. You can prevent the dispels from hitting your sanc (and other spells) by using a little bit of spell shield. The dispel will hit your spell shields first, and only after multiple dispels will your shield drop and your buffs get targetted. At the same time, you should be striking or blasting to drag him into the fight to prevent him from getting a chance to cast multiple dispels. 
 
 It's good to see you had fun, player vs player isn't my favorite activity but it can be quite a blast once in awhile.
 
@@ -564,33 +581,35 @@ It's good to see you had fun, player vs player isn't my favorite activity but it
 
 <div class="post" data-post-id="10896" data-author="Blastem" data-date="2006-02-24T14:35:50+00:00" data-subject="">
 
-[quote:5ypq1rc1]Very interesting! Blastem said he was fighting in regen... I hope for his sake he was! In one round he hit me with 3 pierces for 12hp damage![/quote:5ypq1rc1]
+> <strong>Quote:</strong>
+> Very interesting! Blastem said he was fighting in regen... I hope for his sake he was! In one round he hit me with 3 pierces for 12hp damage!
 
 Yes this was regen eq... I was wielding a gem cutter laugh.
 
-[quote:5ypq1rc1]I thought the gloves proc would stun him a round, preventing spells? It seemed Blastem blasted right away? [/quote:5ypq1rc1]
+> <strong>Quote:</strong>
+> I thought the gloves proc would stun him a round, preventing spells? It seemed Blastem blasted right away?
 
 Actually the stun did seem to lag me for a 1/2 second or so nothing major.
 
-[quote:5ypq1rc1]Blastem thinks 'hmm I'm feeling a mite munchie'
+> <strong>Quote:</strong>
+> Blastem thinks 'hmm I'm feeling a mite munchie'
 
-[/quote:5ypq1rc1]
+Needed some energy.. you know it's a lot of work tossin spells and everyone knows salmon is a good energy food <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> .
 
-Needed some energy.. you know it's a lot of work tossin spells and everyone knows salmon is a good energy food  :) .
+> <strong>Quote:</strong>
+> you are as good as your eq... You can tank up as much as you want, but if the person who is fighting you debuff's you with a dispel and a curse/weaken - your in major trouble! Eq spell effects resist fire/resist cold a must for fighting player casters. Be prepared to get your stone skin back up! (Don't rely on spells for a dex point either!)
 
-[quote:5ypq1rc1]you are as good as your eq... You can tank up as much as you want, but if the person who is fighting you debuff's you with a dispel and a curse/weaken - your in major trouble! Eq spell effects resist fire/resist cold a must for fighting player casters. Be prepared to get your stone skin back up! (Don't rely on spells for a dex point either!)[/quote:5ypq1rc1]
+This I disagree with I have time and again watched people with lessor eq beat out stacked chars. There are a few reasons for this as I see them:
 
-This I disagree with I have time and again watched people with lessor eq beat out stacked chars.  There are a few reasons for this as I see them:
+\#1 PvP experience (people have or do play in pk muds)
 
-#1 PvP experience (people have or do play in pk muds)
+\#2 Keep moving.. in PvP he who stands still dies it makes you an easier target for a stab or dispell.
 
-#2 Keep moving.. in PvP he who stands still dies it makes you an easier target for a stab or dispell.
+\#3 remember to use all of the skills / spells in your arsenal there are some very low level skills that are extremely nice in PvP I'll mention bash here.
 
-#3 remember to use all of the skills / spells in your arsenal there are some very low level skills that are extremely nice in PvP I'll mention bash here.
+\#4 Fast reactions if you can hit your opponent before he can hit you with a prime attack or non combat spell it will greatly increase your odds.
 
-#4 Fast reactions if you can hit your opponent before he can hit you with a prime attack or non combat spell it will greatly increase your odds.
-
-#5 Remember some things work different PvP than fighting mobs such as being able to stab/grip a wounded person.
+\#5 Remember some things work different PvP than fighting mobs such as being able to stab/grip a wounded person.
 
 Just a few tips
 
@@ -610,13 +629,12 @@ I'd be interested to fight a few more people, and try and fight back properly. A
 
 <div class="post" data-post-id="10898" data-author="Autolycos" data-date="2006-02-24T16:25:07+00:00" data-subject="">
 
-Krok isnt the only one that laughs their ass off on a daily basis at you guys..  i mostly log in just to see wtf i can harass you all about now.. of course Rojak is the biggest noob of them all.. 
+Krok isnt the only one that laughs their ass off on a daily basis at you guys.. i mostly log in just to see wtf i can harass you all about now.. of course Rojak is the biggest noob of them all.. 
 
-Cackle   :twisted: 
+Cackle <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
- 
-
- one last thing to Krok... I hope you got the warm jolly feeling inside you crave when you laugh at n00bs. Some of us don't profess to know everything, but we aren't afraid to learn through our ignorance... if anything that should be applauded  :wink:[/quote:1prscmqu]
+> <strong>jezer wrote:</strong>
+> one last thing to Krok... I hope you got the warm jolly feeling inside you crave when you laugh at n00bs. Some of us don't profess to know everything, but we aren't afraid to learn through our ignorance... if anything that should be applauded <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -628,15 +646,15 @@ nods, nothing else to do here for Auto until he gets his special triple stab to 
 
 <div class="post" data-post-id="10905" data-author="Autolycos" data-date="2006-02-24T18:41:49+00:00" data-subject="">
 
-*cackle
+\*cackle
 
-now triple whiff....  that would truly be da bomb!  :twisted:
+now triple whiff.... that would truly be da bomb! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="10920" data-author="brand" data-date="2006-02-25T08:51:58+00:00" data-subject="">
 
-:?:  :?:  :?:  :?:  :?:  :roll:
+<img src="/images/smilies/icon_question.svg" alt=":?:" title=":?:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_question.svg" alt=":?:" title=":?:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_question.svg" alt=":?:" title=":?:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_question.svg" alt=":?:" title=":?:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_question.svg" alt=":?:" title=":?:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -656,13 +674,13 @@ to himself prob.. the rest of us just ignore him
 
 Damn get that thief some new skills already....
 
-[img:18yv39ic]http://www.virob.com/images/rutsche.jpg[/img:18yv39ic]
+![](http://www.virob.com/images/rutsche.jpg)
 
 </div>
 
 <div class="post" data-post-id="10926" data-author="Autolycos" data-date="2006-02-26T14:01:26+00:00" data-subject="Silly Splork">
 
-lmfao!   thats damn funny.  :D 
+lmfao! thats damn funny. <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> 
 
 but where did you find that pic of Splork?
 

@@ -14,7 +14,8 @@ post_count: 2
 
 It's useful to have color vars defined - makes it easier to use colors
 
-[code:262lbwsa]#VAR c_red {\d02} {_nodef} "Color"
+```
+#VAR c_red {\d02} {_nodef} "Color"
 
 #VAR c_purple {\d06} {_nodef} "Color"
 
@@ -30,13 +31,14 @@ It's useful to have color vars defined - makes it easier to use colors
 
 #VAR c_bold {\a02} {_nodef} "Color"
 
-#VAR c_unbold {\a03} {_nodef} "Color"[/code:262lbwsa]
+#VAR c_unbold {\a03} {_nodef} "Color"
+```
 
 now something simple like this will work -
 
-grouptell [@c_cyan] TEST [@c_white]
+grouptell [@c\_cyan] TEST [@c\_white]
 
-*"Allow [] for eval" has to be turned on under zmud preferences to allow this syntax to work
+\*"Allow [] for eval" has to be turned on under zmud preferences to allow this syntax to work
 
 </div>
 
@@ -44,11 +46,11 @@ grouptell [@c_cyan] TEST [@c_white]
 
 This code is useful for formatting numbers. If you want to use it you'll have to save it to a text file and import text, else I think zmud will evalutate it at creation and make useless functions.
 
-[code:3ib2gvem]#VAR numFormat {%if(%1<1000,%1,%if(%1<1000000,[@deciSHR([%1/100],K)],%if(%1<1000000000,[@deciSHR([%1/100000],M)],[@deciSHR([%1/100000000],B)])))} {_nodef} "Functions"
+```
+#VAR numFormat {%if(%1<1000,%1,%if(%1<1000000,[@deciSHR([%1/100],K)],%if(%1<1000000000,[@deciSHR([%1/100000],M)],[@deciSHR([%1/100000000],B)])))} {_nodef} "Functions"
 
 #VAR deciSHR {%concat( %left( %1, %len( %1)-1), ".", %right( %1, %len( %1)-1), %2)} {_nodef} "Functions"
-
-[/code:3ib2gvem]
+```
 
 examples
 

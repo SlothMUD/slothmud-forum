@@ -12,7 +12,7 @@ post_count: 26
 
 <div class="post" data-post-id="19935" data-author="Toxis" data-date="2007-08-27T19:34:43+00:00" data-subject="Avatar Light Discussion">
 
-I put post here to bring up discussion.  Let's get some thoughts, input.
+I put post here to bring up discussion. Let's get some thoughts, input.
 
 I've been trying to talk the imms into changing the way the 5x40 gear has been run for like 7 years. What I would like to see are different catagories of what you could put on an avatar light. You cannot choose two of the same choice on a avatar light, it has to be two different choices. 
 
@@ -36,15 +36,15 @@ I've been trying to talk the imms into changing the way the 5x40 gear has been r
 
 etc.. it's an avatar light, it should be tough
 
--Toxis/Brad
+\-Toxis/Brad
 
 </div>
 
 <div class="post" data-post-id="19937" data-author="Weasel" data-date="2007-08-27T20:16:12+00:00" data-subject="">
 
-Yeah true, although +3 of any stat as one of the two attributes attached to the light might be a bit hopeful.. hehe.  As someone mentioned in the 3x40 eq thread, having a 3x40 light that is more powerful than the equivalently attributed 5x40 seems, well, wrong. However, I'm guessing with the drachma shop upgrade, then the 3x40 upgrade, it follows that the avatar light will be next. 
+Yeah true, although +3 of any stat as one of the two attributes attached to the light might be a bit hopeful.. hehe. As someone mentioned in the 3x40 eq thread, having a 3x40 light that is more powerful than the equivalently attributed 5x40 seems, well, wrong. However, I'm guessing with the drachma shop upgrade, then the 3x40 upgrade, it follows that the avatar light will be next. 
 
-Now my pet whine, just for the sake of it.. not much Warrior upgraded eq in drachma shop at all, and where many other classos had eq drop in drachma value or had lots of awesome new items added (particularly thieves), items like the Jericho shield did not change in value, and the new 0.6ac robe replaces an old -0.6 robe. With the 3x40 items, the Warrior staple of the Adamantite Cuirass did not change at all, nor did the Tower Shield. hrmm. The -0.9 Mithril Sleeves are nice, but again, they have +mana so kinda generic, although I guess they're supposed to be. Would be nice to see some added AC somewhere - since we were given the impression that with the -11cap removed there would be eq added for Warriors to actually make use of the cap removal.. Probably gonna get cr@p for whining, but it's been a while, and I know not to hold my breath anyway.  :twisted:
+Now my pet whine, just for the sake of it.. not much Warrior upgraded eq in drachma shop at all, and where many other classos had eq drop in drachma value or had lots of awesome new items added (particularly thieves), items like the Jericho shield did not change in value, and the new 0.6ac robe replaces an old -0.6 robe. With the 3x40 items, the Warrior staple of the Adamantite Cuirass did not change at all, nor did the Tower Shield. hrmm. The -0.9 Mithril Sleeves are nice, but again, they have +mana so kinda generic, although I guess they're supposed to be. Would be nice to see some added AC somewhere - since we were given the impression that with the -11cap removed there would be eq added for Warriors to actually make use of the cap removal.. Probably gonna get cr@p for whining, but it's been a while, and I know not to hold my breath anyway. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -58,7 +58,7 @@ need more weapondmg shit
 
 My understanding is that all effects have been "rated", so they should be able to come up with an equivalent rating for all available stats.
 
-As to drachma shop and 3x40 changes, there's lots of eq out there, and lots of eq I wish was out there but isn't.  The cuirass didn't need upgraded - it was clearly better than just about any other item on the list.  The reason 3x40 eq needed upgraded was because so many non-tanks would get a cuirass due to lack of better options.  I could pick about 6 classes and whine about the eq available to them (I know nothing about Dr or Ne eq), but the idea is to get the eq that serves you the best based on what's there.
+As to drachma shop and 3x40 changes, there's lots of eq out there, and lots of eq I wish was out there but isn't. The cuirass didn't need upgraded - it was clearly better than just about any other item on the list. The reason 3x40 eq needed upgraded was because so many non-tanks would get a cuirass due to lack of better options. I could pick about 6 classes and whine about the eq available to them (I know nothing about Dr or Ne eq), but the idea is to get the eq that serves you the best based on what's there.
 
 </div>
 
@@ -84,7 +84,7 @@ BTW, I'm grateful for the changes that have already taken place, just suggesting
 
 I couldn't agree with Weasel any less. Clasps additions would be fantastic.
 
- :P
+ <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -98,9 +98,10 @@ the only reason to use it is for str or as 3x40's first choice when he cant use 
 
 <div class="post" data-post-id="19956" data-author="blackmore" data-date="2007-08-28T12:54:14+00:00" data-subject="">
 
-Ok whatever. Would love to see clasps available as a choice (in both drachma eq and/or 3x40 eq items), with attributes that can be selected in a similar fashion as buying attributes from the Lyme Mayor. Actually I thought this was being looked at some time ago (being able to chose custom eq stats), so I wonder what happened to that idea..[/quote:25exbyp7]
+> <strong>Weasel wrote:</strong>
+> Ok whatever. Would love to see clasps available as a choice (in both drachma eq and/or 3x40 eq items), with attributes that can be selected in a similar fashion as buying attributes from the Lyme Mayor. Actually I thought this was being looked at some time ago (being able to chose custom eq stats), so I wonder what happened to that idea..
 
-I had said when I heard 3x40 items were being upgraded that it'd be cool to make them all clasps that could be attached anywhere, to free up more options.  If I were an immort, though, I'd beat down any immort that made a change that would involve reworking all 3x40 eq that's out there, so I didn't really expect it to happen.
+I had said when I heard 3x40 items were being upgraded that it'd be cool to make them all clasps that could be attached anywhere, to free up more options. If I were an immort, though, I'd beat down any immort that made a change that would involve reworking all 3x40 eq that's out there, so I didn't really expect it to happen.
 
 </div>
 
@@ -112,53 +113,56 @@ So tempting to use the dagger now it hits harder than a bolt, pity about the gam
 
 <div class="post" data-post-id="19991" data-author="Autolycos" data-date="2007-08-30T12:46:13+00:00" data-subject="">
 
-anyone who has used the dagger knows its total horseshit because the proc negates attack dmg in a stab
+> <strong>13 wrote:</strong>
+> anyone who has used the dagger knows its total horseshit because the proc negates attack dmg in a stab
+> 
+> 
+> 
+> the only reason to use it is for str or as 3x40's first choice when he cant use a bolt
 
-the only reason to use it is for str or as 3x40's first choice when he cant use a bolt[/quote:2161pcbc]
-
-almost better to use a kitchin knife until you can weild a kris  :twisted:
+almost better to use a kitchin knife until you can weild a kris <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="19992" data-author="13" data-date="2007-08-30T12:57:02+00:00" data-subject="">
 
-Who said it hits harder than a bolt?  It also doesn't have any +hit on it.
+Who said it hits harder than a bolt? It also doesn't have any +hit on it.
 
 </div>
 
 <div class="post" data-post-id="19996" data-author="Avatar" data-date="2007-08-30T15:10:39+00:00" data-subject="dagger">
 
-This seems very related to the comments about 3x40 eq compared to high-end in-game eq.  To me, it seems silly to have to give up this much when you choose a 3x40 item.  You only get two 3x40 gear, there should be some substantial benefit to the items.
+This seems very related to the comments about 3x40 eq compared to high-end in-game eq. To me, it seems silly to have to give up this much when you choose a 3x40 item. You only get two 3x40 gear, there should be some substantial benefit to the items.
 
 3x40 Dagger
 
-* Damage proc, provides some extra damage during a fight
+\* Damage proc, provides some extra damage during a fight
 
 Black Kris
 
-* Damn proc, with a high rate
+\* Damn proc, with a high rate
 
-* +1 average damage over 3x40
+\* +1 average damage over 3x40
 
-* +3 to hit over 3x40
+\* +3 to hit over 3x40
 
-* Proc does not reduce damage when you stab
+\* Proc does not reduce damage when you stab
 
-I guess, for me, there's never a reason to pick the 3x40 dagger.  A different pick might get you .2 AC and 25 hps over in-game gear, or some 35 mana, mana regen, 40 hps, etc etc etc.
+I guess, for me, there's never a reason to pick the 3x40 dagger. A different pick might get you .2 AC and 25 hps over in-game gear, or some 35 mana, mana regen, 40 hps, etc etc etc.
 
 </div>
 
 <div class="post" data-post-id="19997" data-author="Autolycos" data-date="2007-08-30T16:21:19+00:00" data-subject="">
 
-for the levs 3x40 dagger is ok.. but that proc doesnt compare to the x2 normal applies of poison on the kris of power.  sure the damn proc doesnt inflict any damage itself, but the proc firing off on mob prior to the stabs landing w/poison applies far exceed what the dagger can proc on its own.
+for the levs 3x40 dagger is ok.. but that proc doesnt compare to the x2 normal applies of poison on the kris of power. sure the damn proc doesnt inflict any damage itself, but the proc firing off on mob prior to the stabs landing w/poison applies far exceed what the dagger can proc on its own.
 
-non-prime thief.. sure. dagger is great..  but for primes.. you'll most likely trade as soon as you can weild a bolt.
+non-prime thief.. sure. dagger is great.. but for primes.. you'll most likely trade as soon as you can weild a bolt.
 
 </div>
 
 <div class="post" data-post-id="19998" data-author="Deju" data-date="2007-08-30T17:06:02+00:00" data-subject="">
 
-You noobs are stabbing with the Black Kris?  
+You noobs are stabbing with the Black Kris? 
 
 Weak.
 
@@ -166,31 +170,37 @@ Weak.
 
 <div class="post" data-post-id="20000" data-author="Weasel" data-date="2007-08-30T17:27:53+00:00" data-subject="">
 
-tweak up the cinq forge imho  :)
+tweak up the cinq forge imho <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="20002" data-author="Autolycos" data-date="2007-08-30T18:13:13+00:00" data-subject="">
 
-You noobs are stabbing with the Black Kris?  
-
-Weak.[/quote:8v12b3te]
+> <strong>Deju wrote:</strong>
+> You noobs are stabbing with the Black Kris? 
+> 
+> 
+> 
+> Weak.
 
 ok.. everyone pat deju on the back. 
 
-he actually has one decent piece of theef eq   :roll: 
+he actually has one decent piece of theef eq <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> 
 
-*chuckles something about deju's noob dam*  :twisted:
+\*chuckles something about deju's noob dam\* <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="20009" data-author="Medios" data-date="2007-08-30T20:04:46+00:00" data-subject="">
 
-You noobs are stabbing with the Black Kris?  
+> <strong>Deju wrote:</strong>
+> You noobs are stabbing with the Black Kris? 
+> 
+> 
+> 
+> Weak.
 
-Weak.[/quote:eal5lufp]
-
-The n00bs might be , but any thief with smarts has a Golden Dagger of Black Thieves.  Not sure what the race of the thief has to do with it.  Possibly OJ Simpsons dagger?
+The n00bs might be , but any thief with smarts has a Golden Dagger of Black Thieves. Not sure what the race of the thief has to do with it. Possibly OJ Simpsons dagger?
 
 </div>
 
@@ -208,19 +218,20 @@ Customizable eq stats would imho make eq sets building less challenging and inte
 
 <div class="post" data-post-id="20019" data-author="Rynquald" data-date="2007-08-31T02:04:32+00:00" data-subject="">
 
-Who said it hits harder than a bolt?  It also doesn't have any +hit on it.[/quote:2fyyjyy6]
+> <strong>13 wrote:</strong>
+> Who said it hits harder than a bolt? It also doesn't have any +hit on it.
 
-I suck at figuring damage dice :)
+I suck at figuring damage dice <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-But dam > hit.
+But dam \> hit.
 
 </div>
 
 <div class="post" data-post-id="20046" data-author="*Krom*" data-date="2007-09-01T05:34:37+00:00" data-subject="">
 
-some good ideas for the lights.  My inclination would be to make the item equivalent to a 3x40 item, just that you get another item that you can customize for the light spot.
+some good ideas for the lights. My inclination would be to make the item equivalent to a 3x40 item, just that you get another item that you can customize for the light spot.
 
-On the rogues dagger...it is on average 10.5 dmg, which is better than anything else ingame, kris and bolt alike at 10.  It is 1.5 better than anything you are wielding until you get to avatar, which most likely would be a 9 avg cinq or gimlet.  So yes, you may abandon it for a different trade-off later (or you may not), but initially at 3x40 it is by far better than anything else you can get.
+On the rogues dagger...it is on average 10.5 dmg, which is better than anything else ingame, kris and bolt alike at 10. It is 1.5 better than anything you are wielding until you get to avatar, which most likely would be a 9 avg cinq or gimlet. So yes, you may abandon it for a different trade-off later (or you may not), but initially at 3x40 it is by far better than anything else you can get.
 
 </div>
 
@@ -234,7 +245,7 @@ Was the posion proc "fix" on the dagger to make it worth it???
 
 <div class="post" data-post-id="21191" data-author="Teron" data-date="2007-11-04T09:47:27+00:00" data-subject="">
 
-Any  update on this tri40 dagger proc thing? Has the proc vs poison vs stab lag thing improved?
+Any update on this tri40 dagger proc thing? Has the proc vs poison vs stab lag thing improved?
 
 Thanks.
 
@@ -254,6 +265,6 @@ For instance:
 
 ...
 
-You could pick any 2 of the above, or you could take only mr and get +6 mr.  If you took all mana, you'd get 55 mana.  If you took AC, you'd get .5.  That seemed to me that it worked out pretty good as far as eq strength goes.  Changes to 5x40 lights to add newer bonuses would definitely increase the power of 5x40s, because you'd pretty much customize your own 3x40 item, but I'm pretty sure that's what it was supposed to be the equivalent of in the first place, and there's never been any upgrades made to the lights.
+You could pick any 2 of the above, or you could take only mr and get +6 mr. If you took all mana, you'd get 55 mana. If you took AC, you'd get .5. That seemed to me that it worked out pretty good as far as eq strength goes. Changes to 5x40 lights to add newer bonuses would definitely increase the power of 5x40s, because you'd pretty much customize your own 3x40 item, but I'm pretty sure that's what it was supposed to be the equivalent of in the first place, and there's never been any upgrades made to the lights.
 
 </div>

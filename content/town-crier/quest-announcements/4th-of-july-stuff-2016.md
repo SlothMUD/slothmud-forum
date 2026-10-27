@@ -20,7 +20,7 @@ And since you all got a dose of impromptu quest earlier in the week, no general 
 
 But there will be two things:
 
-1) the do it yourself solo quest will be roughly like last year.  Almost exactly, in fact.
+1\) the do it yourself solo quest will be roughly like last year. Almost exactly, in fact.
 
 Kill redcoats or subdue them and turn them in at George Washington at any Inn.
 
@@ -28,23 +28,23 @@ You get more for a subdue than you do for a kill.
 
 I will release them in waves throughout the weekend, the footsoldiers first, then sergeants and captains, then colonels last.
 
-2) Second and last, the five custom July 4th epics (George III, Lord North, etc) will make a reappearance.
+2\) Second and last, the five custom July 4th epics (George III, Lord North, etc) will make a reappearance.
 
 Probably mid-morning my time on the 4th (something like 10:00 server but this is not exact)
 
 They will at least have crystal drachma tokens on them.
 
-N.B.: any and all of this could be cancelled depending what Splork and Breeze say, I haven't heard from them directly about the holiday quest stuff at all.  But I will assume no news is good news in absence of an email from them, and go forward.
+N.B.: any and all of this could be cancelled depending what Splork and Breeze say, I haven't heard from them directly about the holiday quest stuff at all. But I will assume no news is good news in absence of an email from them, and go forward.
 
 Enjoy, and Happy Fourth!
 
---Idjit
+\--Idjit
 
 </div>
 
 <div class="post" data-post-id="37023" data-author="*Breeze*" data-date="2016-07-02T21:19:35+00:00" data-subject="Re: 4th of July Stuff 2016">
 
-I did reply to you :)
+I did reply to you <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -56,12 +56,12 @@ If you wish, you may kiss King George's royal pinky ring.
 
 Go to it!
 
---Idj
+\--Idj
 
 </div>
 
 <div class="post" data-post-id="37027" data-author="basche" data-date="2016-07-05T14:05:18+00:00" data-subject="Re: 4th of July Stuff 2016">
 
-Thanks for running the quests this weekend!  Good fun!
+Thanks for running the quests this weekend! Good fun!
 
 </div>

@@ -26,7 +26,7 @@ This does not include damage done by pets
 
 This is inaccurate in last round of battle when mob may not have all the hp to lose that you damage does.
 
-The basis of this script is that xp gained from damage done = mob level * actual damage done
+The basis of this script is that xp gained from damage done = mob level \* actual damage done
 
 Therefore you need to know mob level, this script works out this calc for all levels and sees which levels show damage as a whole number.
 
@@ -38,7 +38,7 @@ I've used it sucessfully in my client (AL Client) the bare bones are below and s
 
 The effect is a whine somthing like:
 
-Damage Report: [20]: 14 [30] 21
+Damage Report: [20\]: 14 [30] 21
 
 where the 20 and 30 are the possible levels the mob could be, this normally starts in round one at 3-5 levels after 3 rounds is reduced down to one, the mobs actual level. (the 14 and 21 are the damage done)
 
@@ -46,95 +46,95 @@ Let me know if you find useful or any additions I could make to it.
 
 Thraxas
 
-alias (triggered at start of fight) _fightstart:
+alias (triggered at start of fight) \_fightstart:
 
-#if (autodam = 1) {_gainreset}
+\#if (autodam = 1) {\_gainreset}
 
-Note: I have a load of other stuff in _fightstart this is only pertinent bit, autodam is a toggle variable to switch whole process on and off.
+Note: I have a load of other stuff in \_fightstart this is only pertinent bit, autodam is a toggle variable to switch whole process on and off.
 
-alias _gainreset:
+alias \_gainreset:
 
-#set gd[20] = 1;
+\#set gd[20] = 1;
 
-#set gd[21] = 1;
+\#set gd[21] = 1;
 
 ... etc ...
 
-#set gd[44] = 1;
+\#set gd[44] = 1;
 
-#set gd[45] = 1
+\#set gd[45] = 1
 
 Note: I'd love to use a for loop here but my client dosen't support them
 
-alias (triggered at prompt) _gainprom:
+alias (triggered at prompt) \_gainprom:
 
-#set myxpprom = (myxp - myxplast)/1; 
+\#set myxpprom = (myxp - myxplast)/1; 
 
 Note: myxpprom is xp gain between this and last prompt, myxp is xp shown in prompt this round, myxplast is xp from prompt in previous round
 
-#if (autodam = 1) 
+\#if (autodam = 1) 
 
 {#set gdrep Damage Report: ;
 
-  #if (myxp > myxplast) 
+ \#if (myxp \> myxplast) 
 
-  {#if (gd[20] = 1) {_gaindam myxplast myxp 20};
+ {#if (gd[20] = 1) {\_gaindam myxplast myxp 20};
 
-   #if (gd[21] = 1) {_gaindam myxplast myxp 21};
+ \#if (gd[21] = 1) {\_gaindam myxplast myxp 21};
 
 ... etc ...
 
-   #if (gd[44] = 1) {_gaindam myxplast myxp 44};
+ \#if (gd[44] = 1) {\_gaindam myxplast myxp 44};
 
-   #if (gd[45] = 1) {_gaindam myxplast myxp 45};
+ \#if (gd[45] = 1) {\_gaindam myxplast myxp 45};
 
-  };
+ };
 
-  #print $gdrep$
+ \#print $gdrep$
 
 }
 
-alias _gaindam:
+alias \_gaindam:
 
-#set num1 = %1;
+\#set num1 = %1;
 
-#set num2 = %2;
+\#set num2 = %2;
 
-#set lvl1 = %3;
+\#set lvl1 = %3;
 
-#set dnum = num2 - num1;
+\#set dnum = num2 - num1;
 
-#set dnumdiv = dnum / lvl1;
+\#set dnumdiv = dnum / lvl1;
 
-#set dnummul = dnumdiv * lvl1;
+\#set dnummul = dnumdiv \* lvl1;
 
-#set ddnum = dnum - dnummul;
+\#set ddnum = dnum - dnummul;
 
-#if (ddnum > 0) {#set gd[%3] = 0};
+\#if (ddnum \> 0) {#set gd[%3] = 0};
 
-#else {
+\#else {
 
-  #set ddam = dnumdiv;
+ \#set ddam = dnumdiv;
 
-  #strcat(gdrep," [");
+ \#strcat(gdrep," [");
 
-  #strcat(gdrep,lvl1);
+ \#strcat(gdrep,lvl1);
 
-  #strcat(gdrep,"]: ");
+ \#strcat(gdrep,"\]: ");
 
-  #strcat(gdrep,ddam)
+ \#strcat(gdrep,ddam)
 
 }
 
 Additional Notes: 
 
-1. #strcat is a string concatenation function to build a string up with text variables
+1\. #strcat is a string concatenation function to build a string up with text variables
 
-2. #print sends a string to my client as though its come from the mud
+2\. #print sends a string to my client as though its come from the mud
 
-3. #set and #unset are to set variable values
+3\. #set and #unset are to set variable values
 
-4. #if #else well if you don't know I ain't going to teach you in this post
+4\. #if #else well if you don't know I ain't going to teach you in this post
 
 all other stuff here is standard stuff I think
 
@@ -146,37 +146,36 @@ Very nice.
 
 I've had a more basic script performing a similar function, but I like how you determine and discard the unlikely mob levels.
 
-Do you often heal yourself or others during fights?  
+Do you often heal yourself or others during fights? 
 
-I haven't had much time online lately, but I'm interested in trying to implement this using VB script.  My skills aren't up to it yet, so it would be a learning experience.
+I haven't had much time online lately, but I'm interested in trying to implement this using VB script. My skills aren't up to it yet, so it would be a learning experience.
 
 </div>
 
 <div class="post" data-post-id="17027" data-author="Thraxas" data-date="2007-02-20T18:38:18+00:00" data-subject="Re: Damage Done Script">
 
-I've had a more basic script performing a similar function, but I like how you determine and discard the unlikely mob levels.
-
-[/quote:zo4nf7zh]
+> <strong>Avatar wrote:</strong>
+> I've had a more basic script performing a similar function, but I like how you determine and discard the unlikely mob levels.
 
 its there in the script
 
-#if (gd[x] = 1) {_gaindam myxplast myxp x}
+\#if (gd[x] = 1) {\_gaindam myxplast myxp x}
 
 is run for each level 20 - 42 where x is the possible mob level
 
-At fight start gd[x] = 1 for every level so the _gaindam script will run for each level,
+At fight start gd[x] = 1 for every level so the \_gaindam script will run for each level,
 
 during each round the following is run for each level being tested:
 
-#set dnum = num2 - num1; 
+\#set dnum = num2 - num1; 
 
-#set dnumdiv = dnum / lvl1; 
+\#set dnumdiv = dnum / lvl1; 
 
-#set dnummul = dnumdiv * lvl1; 
+\#set dnummul = dnumdiv \* lvl1; 
 
-#set ddnum = dnum - dnummul; 
+\#set ddnum = dnum - dnummul; 
 
-#if (ddnum > 0) {#set gd[%3] = 0}
+\#if (ddnum \> 0) {#set gd[%3] = 0}
 
 dnum = xp change in round
 
@@ -186,29 +185,29 @@ dnummul = the reverse of this calculation this is done to test for a remainer on
 
 The point of this is that is there is a remainder then then that cannot possibly be the mob level.
 
-If there is a remainder i.e. ddnum > 0 then set gd[x] to 0, this means that next round this level will be ignored (see above >>> #if (gd[x] = 1) {_gaindam myxplast myxp x})
+If there is a remainder i.e. ddnum \> 0 then set gd[x] to 0, this means that next round this level will be ignored (see above \>\>\> #if (gd[x] = 1) {\_gaindam myxplast myxp x})
 
 To labour the point take an example just testing levels 20-25:
 
 in this way 100xp can be gained in round 1:
 
-100/20 = 5 = whole number => level 20 is possible gd[20] stays at 1
+100/20 = 5 = whole number =\> level 20 is possible gd[20] stays at 1
 
-100/21 = 4 plus a bit = not a whole number => level 21 is not possible gd[21] is now set to 0
+100/21 = 4 plus a bit = not a whole number =\> level 21 is not possible gd[21] is now set to 0
 
 same for lvls 22 23 24,
 
-100/25 = 4 = whole number => level 25 is possible gd[25] stays at 1
+100/25 = 4 = whole number =\> level 25 is possible gd[25] stays at 1
 
 the whine looks like Damage Report: [20] 5 [25] 4
 
 in round 2 75 xp is gained:
 
-75/20 = 3 plus a bit = not a whole number => level 20 is no longer possible gd[20] is set to 0
+75/20 = 3 plus a bit = not a whole number =\> level 20 is no longer possible gd[20] is set to 0
 
 levels 21 - 24 are not tested as gd[21] etc now = 0
 
-75/25 = 3 = whole number => level 25 is possible gd[25] stays at 1
+75/25 = 3 = whole number =\> level 25 is possible gd[25] stays at 1
 
 the whine looks like Damage Report: [25] 3
 
@@ -216,9 +215,8 @@ in any subsequent round only lvl 25 is tested
 
 I hope this helps.
 
-Do you often heal yourself or others during fights?  
-
-[/quote:zo4nf7zh]
+> <strong>Avatar wrote:</strong>
+> Do you often heal yourself or others during fights?
 
 no I normally run solo with juju pets and eudaemon supplimented with infusions.
 
@@ -226,7 +224,7 @@ no I normally run solo with juju pets and eudaemon supplimented with infusions.
 
 <div class="post" data-post-id="23618" data-author="Assirian" data-date="2008-04-08T09:24:58+00:00" data-subject="">
 
-<859 362 228 309540203>
+\<859 362 228 309540203\>
 
 You massacre a troll warrior to small fragments with your pound.
 
@@ -246,35 +244,37 @@ You massacre a troll warrior to small fragments with your pound.
 
 A troll warrior wipes his boots in your face.
 
-<758 362 228 309541485>
+\<758 362 228 309541485\>
 
 309541485-309540203=1485-0203=1282
 
-the mob is about 36 lvl, so damage is ~ 36
+the mob is about 36 lvl, so damage is \~ 36
 
-but 3 massacres have to deal >= 60 dam!
+but 3 massacres have to deal \>= 60 dam!
 
-What is wrong? :)
+What is wrong? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23619" data-author="jezer" data-date="2008-04-08T09:54:50+00:00" data-subject="">
 
-the mob is about 36 lvl, so damage is ~ 36
+> <strong>Assirian wrote:</strong>
+> the mob is about 36 lvl, so damage is \~ 36
+> 
+> but 3 massacres have to deal \>= 60 dam!
+> 
+> What is wrong? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-but 3 massacres have to deal >= 60 dam!
-
-What is wrong? :)[/quote:2fbh3xbf]
-
-Whats wrong?!? The new changes to warrior class have made you over powered!  :twisted:
+Whats wrong?!? The new changes to warrior class have made you over powered! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23620" data-author="Assirian" data-date="2008-04-08T10:23:15+00:00" data-subject="">
 
-[quote:2rcfj09d] The new changes to warrior class have made you over powered![/quote:2rcfj09d]
+> <strong>Quote:</strong>
+> The new changes to warrior class have made you over powered!
 
-this one is not wrong :)) this have to be happen.. 8\
+this one is not wrong <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">) this have to be happen.. 8\\
 
 </div>
 
@@ -296,11 +296,12 @@ I've never understood the long standing tradition on sloth of obscurring game me
 
 <div class="post" data-post-id="23623" data-author="jezer" data-date="2008-04-08T13:16:15+00:00" data-subject="">
 
-I've never understood the long standing tradition on sloth of obscurring game mechanics. I would guess that this was the purpose in randomizing combat xp.[/quote:2p7oh66w]
+> <strong>juggleblood wrote:</strong>
+> I've never understood the long standing tradition on sloth of obscurring game mechanics. I would guess that this was the purpose in randomizing combat xp.
 
 ^gazillion
 
-Last time I said something like this, some imm said, well... ask your question... which I did... only to get an obscured answer.  :roll: 
+Last time I said something like this, some imm said, well... ask your question... which I did... only to get an obscured answer. <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> 
 
 Freedom of Information all the way!
 
@@ -308,11 +309,11 @@ Freedom of Information all the way!
 
 <div class="post" data-post-id="23624" data-author="Avatar" data-date="2008-04-08T18:32:53+00:00" data-subject="XPs were fun">
 
-I noticed that change also, it's too bad.  I had a lot of fun watching the fight xps, especially during groups.  It made it more interesting, as a warrior who wasn't usually the tank, to give me something to watch and something to do.  I definitely used the warrior skills (berserk, bash, trip, broadside, stomp) more often when I was paying attention to the xps.
+I noticed that change also, it's too bad. I had a lot of fun watching the fight xps, especially during groups. It made it more interesting, as a warrior who wasn't usually the tank, to give me something to watch and something to do. I definitely used the warrior skills (berserk, bash, trip, broadside, stomp) more often when I was paying attention to the xps.
 
 It's unfortunate that we'd purposefully break something that made groups more fun.
 
-Just FYI, I've been offline again but only because my ISP is unreliable this month.  I use a wireless point-to-point connection, but it's based on 900 meg equipment.  Apparently someone has installed similar equipment somewhere between myself and the ISP site which is flooding the ether with 900 meg signals.  The ISP is coming out this weekend to help see what we can do to get me a signal.
+Just FYI, I've been offline again but only because my ISP is unreliable this month. I use a wireless point-to-point connection, but it's based on 900 meg equipment. Apparently someone has installed similar equipment somewhere between myself and the ISP site which is flooding the ether with 900 meg signals. The ISP is coming out this weekend to help see what we can do to get me a signal.
 
 Charles
 
@@ -320,7 +321,8 @@ Charles
 
 <div class="post" data-post-id="23626" data-author="Autolycos" data-date="2008-04-08T19:36:44+00:00" data-subject="">
 
-I've never understood the long standing tradition on sloth of obscurring game mechanics. I would guess that this was the purpose in randomizing combat xp.[/quote:2a6m1ljg]
+> <strong>juggleblood wrote:</strong>
+> I've never understood the long standing tradition on sloth of obscurring game mechanics. I would guess that this was the purpose in randomizing combat xp.
 
 Don't forget the tradition of exsanguinating all the fun out too..
 
@@ -328,13 +330,14 @@ Don't forget the tradition of exsanguinating all the fun out too..
 
 <div class="post" data-post-id="23627" data-author="Medios" data-date="2008-04-08T21:00:51+00:00" data-subject="">
 
-At least I can take that spammy bull crap out of my prompt now.  I have no idea why the xp was changed.  My first guess is because kick is overpowered.
+At least I can take that spammy bull crap out of my prompt now. I have no idea why the xp was changed. My first guess is because kick is overpowered.
 
 </div>
 
 <div class="post" data-post-id="23628" data-author="Autolycos" data-date="2008-04-08T21:56:33+00:00" data-subject="">
 
-At least I can take that spammy bull crap out of my prompt now.  I have no idea why the xp was changed.  My first guess is because kick is overpowered.[/quote:gugxl8sq]
+> <strong>Medios wrote:</strong>
+> At least I can take that spammy bull crap out of my prompt now. I have no idea why the xp was changed. My first guess is because kick is overpowered.
 
 lmfao
 
@@ -350,15 +353,15 @@ When people started using the damage calculator script, some long standing bugs 
 
 <div class="post" data-post-id="23633" data-author="jezer" data-date="2008-04-09T03:07:58+00:00" data-subject="">
 
-[img:2762ne8h]http://www.orbitcast.com/archives/head-in-the-sand.jpg[/img:2762ne8h]
+![](http://www.orbitcast.com/archives/head-in-the-sand.jpg)
 
-What problem? Where?  :twisted:
+What problem? Where? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23635" data-author="Yasik2" data-date="2008-04-09T05:40:13+00:00" data-subject="">
 
-[img:1cc23wzx]http://yasik.kiev.ua/4chan/Explanation_I_Demand.jpg[/img:1cc23wzx]
+![](http://yasik.kiev.ua/4chan/Explanation_I_Demand.jpg)
 
 </div>
 
@@ -366,7 +369,7 @@ What problem? Where?  :twisted:
 
 I guess this change is for the best.
 
-I mean, what kind of game (Final Fantasy) would be successful (World of Warcraft) where you could see your damage as a number?  (Dungeons and Dragons)
+I mean, what kind of game (Final Fantasy) would be successful (World of Warcraft) where you could see your damage as a number? (Dungeons and Dragons)
 
 </div>
 
@@ -392,20 +395,29 @@ I miss Splork.
 
 <div class="post" data-post-id="23657" data-author="jezer" data-date="2008-04-10T23:33:15+00:00" data-subject="">
 
-Lets think about the profile of the typical mud player:
-
-a bit geeky, likes to write scripts, triggers actions, likes to unpick how the mud works and analyse the intricacies to death (just think out about some of the discussions on the exact formula for stat rolling we used to have), oh and mostly obsessive.
-
-Admittedly not all of us fit all of this profile, but I'd bet most of us are close to it .... now why would someone fitting that profile gain any pleasure, satisfaction, morbid enjoyment, facination, be interested in seeing the exact damage for each hit reported on screen in real time? 
-
-Nice one to add to the tick list:
-
-Player Satisfaction: Debuffed[/quote:1f0fo9yg]
+> <strong>Thraxas wrote:</strong>
+> Lets think about the profile of the typical mud player:
+> 
+> 
+> 
+> a bit geeky, likes to write scripts, triggers actions, likes to unpick how the mud works and analyse the intricacies to death (just think out about some of the discussions on the exact formula for stat rolling we used to have), oh and mostly obsessive.
+> 
+> 
+> 
+> Admittedly not all of us fit all of this profile, but I'd bet most of us are close to it .... now why would someone fitting that profile gain any pleasure, satisfaction, morbid enjoyment, facination, be interested in seeing the exact damage for each hit reported on screen in real time? 
+> 
+> 
+> 
+> Nice one to add to the tick list:
+> 
+> 
+> 
+> Player Satisfaction: Debuffed
 
 Good post... 
 
-So we like numb3rs... that's just the way we are! :twisted: 
+So we like numb3rs... that's just the way we are! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-I for one, can remember many, many times more the amounts on xp mobs, than I can any room description. Numbers rock! Logic and Order rules! And, and... and Bring back the coliseum!  :evil:
+I for one, can remember many, many times more the amounts on xp mobs, than I can any room description. Numbers rock! Logic and Order rules! And, and... and Bring back the coliseum! <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>

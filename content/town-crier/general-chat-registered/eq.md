@@ -12,6 +12,6 @@ post_count: 1
 
 <div class="post" data-post-id="28954" data-author="sirrico1" data-date="2009-04-17T11:25:04+00:00" data-subject="EQ">
 
-hi all if anyone happens to have any clues on where to find good low lvl (15 wa) ac gears could you please let me know here or in game. thanks all  :twisted:
+hi all if anyone happens to have any clues on where to find good low lvl (15 wa) ac gears could you please let me know here or in game. thanks all <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

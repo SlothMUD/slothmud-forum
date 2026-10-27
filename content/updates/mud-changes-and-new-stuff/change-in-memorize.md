@@ -14,7 +14,7 @@ post_count: 1
 
 Greeting mortals.
 
-- Changed memorize command so it will stop singing.  It is odd that cast stop singing but memorize doesnt.
+- Changed memorize command so it will stop singing. It is odd that cast stop singing but memorize doesnt.
 
 Thanks Cizin for reporting.
 

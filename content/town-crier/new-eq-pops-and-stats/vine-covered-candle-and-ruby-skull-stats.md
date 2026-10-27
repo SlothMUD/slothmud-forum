@@ -40,9 +40,9 @@ Weight: 1, Value: 50000, Worn in: TAKE
 
 Clasp can only be attached to:
 
-   torches and other held items
+ torches and other held items
 
-Clasp gives the user +1 UNDEAD_CONTROL
+Clasp gives the user +1 UNDEAD\_CONTROL
 
 Only those who are at least apprentice necromancers may use 
 

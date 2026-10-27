@@ -18,11 +18,11 @@ sbj.
 
 <div class="post" data-post-id="8364" data-author="13" data-date="2005-08-22T23:12:40+00:00" data-subject="">
 
-*foomp*
+\*foomp\*
 
-*foomp*
+\*foomp\*
 
-*foomp*
+\*foomp\*
 
 ^ the sound of ping-pong balls being shot out
 

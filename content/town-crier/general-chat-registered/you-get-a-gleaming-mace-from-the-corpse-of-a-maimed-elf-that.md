@@ -28,7 +28,7 @@ A wandering kender rumages around and finds a jing-jit disk.
 
 A wandering kender gives you a jing-jit disk.
 
-<499hp 235ma 187mv>  [+10]   AC: -6.8   EXP: 34,033,958   COINS: 3,052
+\<499hp 235ma 187mv\> [+10] AC: -6.8 EXP: 34,033,958 COINS: 3,052
 
 save
 
@@ -36,7 +36,7 @@ Saving Ozzy.
 
 Saving items.
 
-<499hp 236ma 186mv>  [+10]   AC: -6.8   EXP: 34,033,958   COINS: 3,052
+\<499hp 236ma 186mv\> [+10] AC: -6.8 EXP: 34,033,958 COINS: 3,052
 
 i
 
@@ -52,6 +52,6 @@ a backpack
 
 swirling black and red robes
 
-All thanks and sorry for ocaccional angry gossips  8)
+All thanks and sorry for ocaccional angry gossips <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>

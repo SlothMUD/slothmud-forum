@@ -12,11 +12,11 @@ post_count: 11
 
 <div class="post" data-post-id="32978" data-author="Toxis" data-date="2011-11-09T10:32:57+00:00" data-subject="Drachma Shops">
 
-Drachma shops are now open.  Stats for old and new eq are on the eqlist.
+Drachma shops are now open. Stats for old and new eq are on the eqlist.
 
 Old drachma eq keeps the old stats but are unavailable to buy.
 
-Drachma eq will be sellable at 90% for a limited time.  Fair warning will be given before this is changed back to the 60%.
+Drachma eq will be sellable at 90% for a limited time. Fair warning will be given before this is changed back to the 60%.
 
 New drachma eq are cloned from old and zoned to shops, most with drachma and power increase.
 
@@ -30,17 +30,17 @@ Tox
 
 WARNING WARNING WARNING!!!!!!!!!!!!!
 
-****
+\*\*\*\*
 
-When someone sells old drachma to the shops, it will stay at the top of the list.  DO NOT BUY THE WRONG DRACHMA EQ!
+When someone sells old drachma to the shops, it will stay at the top of the list. DO NOT BUY THE WRONG DRACHMA EQ!
 
-****
+\*\*\*\*
 
-Blaze shop was messed up after crash last night.  Sorry, and I hope all eq is now where it needs to be.
+Blaze shop was messed up after crash last night. Sorry, and I hope all eq is now where it needs to be.
 
-If there's anything else, pls let me know right away.  Thank you for all the people who's helped so far.  This was not a fun project moving eq to other shops (not my idea, but hey I hope it's done now.)
+If there's anything else, pls let me know right away. Thank you for all the people who's helped so far. This was not a fun project moving eq to other shops (not my idea, but hey I hope it's done now.)
 
--Tox
+\-Tox
 
 </div>
 
@@ -54,7 +54,7 @@ some of drachma eq appears twice or even thrice on eq list, even with different 
 
 Most of the new equipment has the same name as the old equipment so it's in the list twice. The old equipment is no longer available unless someone sells theirs.
 
-fyi tox: an item that has disappeared:  fishscale buckle.
+fyi tox: an item that has disappeared: fishscale buckle.
 
 </div>
 
@@ -76,15 +76,15 @@ Splork put in the command a few weeks ago.
 
 <div class="post" data-post-id="33166" data-author="Toxis" data-date="2012-02-20T22:12:55+00:00" data-subject="Re: Drachma Shops">
 
-Drachma shops are now reverted back to normal.  The shopkeepers will buy items at a lower cost.
+Drachma shops are now reverted back to normal. The shopkeepers will buy items at a lower cost.
 
--Tox
+\-Tox
 
 </div>
 
 <div class="post" data-post-id="33167" data-author="Magi" data-date="2012-02-20T22:36:42+00:00" data-subject="Re: Drachma Shops">
 
-> **Quote:**
+> <strong>Quote:</strong>
 > Drachma eq will be sellable at 90% for a limited time. Fair warning will be given before this is changed back to the 60%.
 
 Fail warning is fail. That is all.
@@ -93,7 +93,7 @@ Fail warning is fail. That is all.
 
 <div class="post" data-post-id="33168" data-author="Giselle" data-date="2012-02-20T23:07:35+00:00" data-subject="Re: Drachma Shops">
 
-Thanks for all the hard work revamping the drachma EQ. I know we had some time to exchange items but I have to concur with Magi - some warning would have been appreciated :(
+Thanks for all the hard work revamping the drachma EQ. I know we had some time to exchange items but I have to concur with Magi - some warning would have been appreciated <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 Especially as some of us are in strange time zones and miss announcements in game.
 
@@ -113,6 +113,6 @@ And what would have you done with a warning?
 
 I can only speak for myself - I had been putting off making a final decision. My fault, no dramas, I'm not going to lose sleep over this.
 
-The point was simply about communication. No offense intended :)
+The point was simply about communication. No offense intended <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

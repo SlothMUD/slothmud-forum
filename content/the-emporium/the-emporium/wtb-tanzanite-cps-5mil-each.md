@@ -26,7 +26,7 @@ Mosaix
 
 <div class="post" data-post-id="2782" data-author="rith" data-date="2004-11-11T18:41:16+00:00" data-subject="">
 
-I got the forge note. Catch me online too :)
+I got the forge note. Catch me online too <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

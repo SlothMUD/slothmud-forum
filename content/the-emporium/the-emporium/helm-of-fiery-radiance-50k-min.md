@@ -12,7 +12,7 @@ post_count: 2
 
 <div class="post" data-post-id="225" data-author="Ganesh" data-date="2004-05-22T02:14:02+00:00" data-subject="Helm of Fiery Radiance - 50K Min">
 
-Helm of Fiery Radiance Gypsy Blacksmith Barovia -1.2 +30 HP * SW EM ApC ApT [AND] <BR>50K Min
+Helm of Fiery Radiance Gypsy Blacksmith Barovia -1.2 +30 HP \* SW EM ApC ApT [AND] \<BR\>50K Min
 
 </div>
 

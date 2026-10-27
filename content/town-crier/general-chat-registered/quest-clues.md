@@ -16,17 +16,17 @@ Hint1:
 
 A black robe and cowl shrouds this massive, seven and a half foot tall
 
-humanoid with the head of a leopard.  He stands majestically above a
+humanoid with the head of a leopard. He stands majestically above a
 
-blackened alter.  In his muscular hands are the intestines of some small
+blackened alter. In his muscular hands are the intestines of some small
 
-game he has gutted.  Strange incantations can be heard coming softly from
+game he has gutted. Strange incantations can be heard coming softly from
 
 between his clenched jaw as his free hand creates images with fine silver
 
-powder in the air.  A golden hilt can be seen tucked into a shadowy belt at
+powder in the air. A golden hilt can be seen tucked into a shadowy belt at
 
-his waist.  Strange wristbands with droplets of blood immersed in flames
+his waist. Strange wristbands with droplets of blood immersed in flames
 
 complete the visage of this hellish foe of the living.
 
@@ -36,13 +36,13 @@ Pit of the Wurm
 
 The stench of this pit is even more overpowering than the darkness from
 
-which it eminates.  Whole skeletons cover the floor, huge chunks of flesh
+which it eminates. Whole skeletons cover the floor, huge chunks of flesh
 
-missing from the cadavers.  The walls are dripping with a clear, slimy liquid,
+missing from the cadavers. The walls are dripping with a clear, slimy liquid,
 
 the source of which also seems to be the source of the terrifying shreeks
 
-threatening to deafen any ear.  Puddles of blood have formed throughout the
+threatening to deafen any ear. Puddles of blood have formed throughout the
 
 pit, oozing from the ragged flesh of the latest victims.
 
@@ -54,7 +54,7 @@ The entire laboratory has been utterly destroyed, everything that was
 
 even remotely flammable was completely incinerated and everything else was
 
-shattered by the blast.  Small fires still burn around the room and thick
+shattered by the blast. Small fires still burn around the room and thick
 
 black smoke wafts through the enormous hole in the western wall.
 
@@ -62,13 +62,13 @@ Hint4:
 
 The vision of the drow female fades out of reality revealing an ancient
 
-deep dragon.  The dragon is a fierce hunter of the underdark.  It is a
+deep dragon. The dragon is a fierce hunter of the underdark. It is a
 
-subterranean dweller rarely known to the surface world.  The hardened
+subterranean dweller rarely known to the surface world. The hardened
 
-scales of the dragon are an iridescent maroon color.  Its fangs are nine
+scales of the dragon are an iridescent maroon color. Its fangs are nine
 
-inches long and its breath smells of rotting flesh.  The ancient dragon
+inches long and its breath smells of rotting flesh. The ancient dragon
 
 fades out of reality and resumes the form of a dark skinned drow female.
 
@@ -76,11 +76,11 @@ Hint5:
 
 Small clusters of warts can be seen on the chest of the creature which
 
-happens to resemble that of a woman.  The abdomen, however stretches into
+happens to resemble that of a woman. The abdomen, however stretches into
 
-the long body of a snake.  Finger-sized snakes wiggle and jerk atop a
+the long body of a snake. Finger-sized snakes wiggle and jerk atop a
 
-horrid, barely visible countenance.  As you look at her more closely, she
+horrid, barely visible countenance. As you look at her more closely, she
 
 smiles as her eyes glow brightly!
 
@@ -88,11 +88,11 @@ Hint6:
 
 The dragon's body is enormous and her torso is covered in metallic rainbow
 
-colored scales.  From the body stretch five long snaking necks that are
+colored scales. From the body stretch five long snaking necks that are
 
-topped with gigantic, leering reptilian heads.  Each neck and head is
+topped with gigantic, leering reptilian heads. Each neck and head is
 
-covered in scales the color of each of her evil minions.  She swings her
+covered in scales the color of each of her evil minions. She swings her
 
 powerful forked tail furiously and the razor sharp tips of her claws tear
 
@@ -102,27 +102,27 @@ into solid stone like it was butter.
 
 <div class="post" data-post-id="29513" data-author="Rigwarl" data-date="2009-06-13T15:22:25+00:00" data-subject="">
 
-[indoors] [12:37 pm] [Location:The Dragon Mountain]>
+[indoors] [12:37 pm] [Location:The Dragon Mountain]\>
 
 The dragon's body is enormous and her torso is covered in metallic rainbow
 
-colored scales.  From the body stretch five long snaking necks that are
+colored scales. From the body stretch five long snaking necks that are
 
-topped with gigantic, leering reptilian heads.  Each neck and head is 
+topped with gigantic, leering reptilian heads. Each neck and head is 
 
-covered in scales the color of each of her evil minions.  She swings her
+covered in scales the color of each of her evil minions. She swings her
 
 powerful forked tail furiously and the razor sharp tips of her claws tear
 
 into solid stone like it was butter.
 
-Tiamat the dragon queen is in excellent condition: [*******]
+Tiamat the dragon queen is in excellent condition: [\*\*\*\*\*\*\*]
 
 Tiamat the dragon queen is using:
 
-<worn on head>       a crystal helm..It emits a faint humming sound!
+\<worn on head\> a crystal helm..It emits a faint humming sound!
 
-<held>               a glowing sliver of steel..It emits a faint humming sound!
+\<held\> a glowing sliver of steel..It emits a faint humming sound!
 
 You attempt to peek at the inventory:
 
@@ -218,13 +218,13 @@ Aaz gets gold coins from the corpse of Tiamat the dragon queen that's on the
 
 ground.
 
-Aaz splits 80383 coins.  Your share is 2435 coins.
+Aaz splits 80383 coins. Your share is 2435 coins.
 
 Aaz gets Top of the map from the corpse of Tiamat the dragon queen that's on the 
 
 ground.
 
-:)
+<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -266,23 +266,23 @@ From the Island's dock, run east, east, north, east, south.
 
 The immense frame of the Craw Wurm pulverizes whole skeletons beneath its 
 
-weight, grinding them into a fine powder.  Decomposing flesh clings to the 
+weight, grinding them into a fine powder. Decomposing flesh clings to the 
 
-hideous fangs protruding from the cavernous mouth of the wurm.  
+hideous fangs protruding from the cavernous mouth of the wurm. 
 
-Overwhelming odors eminate from the scaly skin of the beast.  Its deep 
+Overwhelming odors eminate from the scaly skin of the beast. Its deep 
 
 black eyes scan the pit, looking for its next meal while it bellows in 
 
 hunger.
 
-The Craw Wurm has some small wounds and bruises: [*****--]
+The Craw Wurm has some small wounds and bruises: [\*\*\*\*\*--]
 
 the Craw Wurm is using:
 
-<worn on head>       an open-faced, shiny steel helm
+\<worn on head\> an open-faced, shiny steel helm
 
-<held>               a glowing sliver of steel..It emits a faint humming sound!
+\<held\> a glowing sliver of steel..It emits a faint humming sound!
 
 You attempt to peek at the inventory:
 
@@ -294,21 +294,21 @@ a piece of a map
 
 Small clusters of warts can be seen on the chest of the creature which 
 
-happens to resemble that of a woman.  The abdomen, however stretches into 
+happens to resemble that of a woman. The abdomen, however stretches into 
 
-the long body of a snake.  Finger-sized snakes wiggle and jerk atop a 
+the long body of a snake. Finger-sized snakes wiggle and jerk atop a 
 
-horrid, barely visible countenance.  As you look at her more closely, she 
+horrid, barely visible countenance. As you look at her more closely, she 
 
 smiles as her eyes glow brightly!
 
-Medusa has quite a few wounds: [****---]
+Medusa has quite a few wounds: [\*\*\*\*---]
 
 Medusa is using:
 
-<worn on legs>       titanium greaves..It emits a faint humming sound!
+\<worn on legs\> titanium greaves..It emits a faint humming sound!
 
-<held>               a glowing sliver of steel..It emits a faint humming sound!
+\<held\> a glowing sliver of steel..It emits a faint humming sound!
 
 You attempt to peek at the inventory:
 
@@ -320,27 +320,27 @@ an exquisite mirror..It has a soft glowing aura!
 
 <div class="post" data-post-id="29518" data-author="Rigwarl" data-date="2009-06-13T16:06:02+00:00" data-subject="">
 
-[indoors] [8:43 am] [Location:Xanthippe]>
+[indoors] [8:43 am] [Location:Xanthippe]\>
 
 The vision of the drow female fades out of reality revealing an ancient 
 
-deep dragon.  The dragon is a fierce hunter of the underdark.  It is a
+deep dragon. The dragon is a fierce hunter of the underdark. It is a
 
-subterranean dweller rarely known to the surface world.  The hardened 
+subterranean dweller rarely known to the surface world. The hardened 
 
-scales of the dragon are an iridescent maroon color.  Its fangs are nine 
+scales of the dragon are an iridescent maroon color. Its fangs are nine 
 
-inches long and its breath smells of rotting flesh.  The ancient dragon 
+inches long and its breath smells of rotting flesh. The ancient dragon 
 
 fades out of reality and resumes the form of a dark skinned drow female.
 
-An ancient deep dragon is in excellent condition: [*******]
+An ancient deep dragon is in excellent condition: [\*\*\*\*\*\*\*]
 
 an ancient deep dragon is using:
 
-<worn on body>       a runed shirt..It has a soft glowing aura!
+\<worn on body\> a runed shirt..It has a soft glowing aura!
 
-<held>               a glowing sliver of steel..It emits a faint humming sound!
+\<held\> a glowing sliver of steel..It emits a faint humming sound!
 
 You attempt to peek at the inventory:
 
@@ -358,31 +358,31 @@ medusa looks like one
 
 <div class="post" data-post-id="29520" data-author="Rigwarl" data-date="2009-06-13T16:26:42+00:00" data-subject="">
 
-[indoors] [5:41 am] [Location:Tabaxi Wilds]>
+[indoors] [5:41 am] [Location:Tabaxi Wilds]\>
 
 Anrok looks at the tabaxi lord.
 
 A black robe and cowl shrouds this massive, seven and a half foot tall 
 
-humanoid with the head of a leopard.  He stands majestically above a 
+humanoid with the head of a leopard. He stands majestically above a 
 
-blackened alter.  In his muscular hands are the intestines of some small 
+blackened alter. In his muscular hands are the intestines of some small 
 
-game he has gutted.  Strange incantations can be heard coming softly from 
+game he has gutted. Strange incantations can be heard coming softly from 
 
 between his clenched jaw as his free hand creates images with fine silver 
 
-powder in the air.  A golden hilt can be seen tucked into a shadowy belt at 
+powder in the air. A golden hilt can be seen tucked into a shadowy belt at 
 
-his waist.  Strange wristbands with droplets of blood immersed in flames 
+his waist. Strange wristbands with droplets of blood immersed in flames 
 
 complete the visage of this hellish foe of the living.
 
-The tabaxi lord is in excellent condition: [*******]
+The tabaxi lord is in excellent condition: [\*\*\*\*\*\*\*]
 
 the tabaxi lord is using:
 
-<held>               a sable blood rune
+\<held\> a sable blood rune
 
 You attempt to peek at the inventory:
 
@@ -414,9 +414,9 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: MANA by 10
+ Affects: MANA by 10
 
-    Affects: REGEN_MANA by 1
+ Affects: REGEN\_MANA by 1
 
 Only those who are at least supreme magic users, clerics, druids, or
 
@@ -432,9 +432,9 @@ AC-apply is -1.2
 
 Can affect you as:
 
-    Affects: REGEN_MOVE by 3
+ Affects: REGEN\_MOVE by 3
 
-    Affects: MOVE by 10
+ Affects: MOVE by 10
 
 Only those who are at least master thieves or monks may use this item.
 
@@ -446,9 +446,9 @@ Weight: 1, Value: 615000gold, Worn in: TAKE HOLD
 
 Can affect you as:
 
-    Affects: HITROLL by 1
+ Affects: HITROLL by 1
 
-    Affects: MANA by 10
+ Affects: MANA by 10
 
 Only those who are at least experienced magic users and also apprentice
 
@@ -476,9 +476,9 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: MANA by 7
+ Affects: MANA by 7
 
-    Affects: DAMROLL by 1
+ Affects: DAMROLL by 1
 
 Only those who are at least experienced magic users, clerics, thieves,
 
@@ -494,9 +494,9 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: MANA by 15
+ Affects: MANA by 15
 
-    Affects: REGEN_MANA by 1
+ Affects: REGEN\_MANA by 1
 
 Only those who are at least supreme magic users and clerics may use this
 
@@ -512,9 +512,9 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: MANA by 5
+ Affects: MANA by 5
 
-    Affects: REGEN_MANA by 2
+ Affects: REGEN\_MANA by 2
 
 Only those who are at least adept magic users and also experienced clerics
 
@@ -528,9 +528,9 @@ Weight: 1, Value: 75876gold, Worn in: TAKE HOLD
 
 Can affect you as:
 
-    Affects: INT by 1
+ Affects: INT by 1
 
-    Affects: CON by 1
+ Affects: CON by 1
 
 Only those who are at least experienced clerics, thieves, or monks may use
 
@@ -546,9 +546,9 @@ Weight: 1, Value: 28947gold, Worn in: TAKE WAIST
 
 Can affect you as:
 
-    Affects: STR by 1
+ Affects: STR by 1
 
-    Affects: MANA by 10
+ Affects: MANA by 10
 
 Object 'suit spiritual spirit armor', Item type: ARMOR
 
@@ -560,9 +560,9 @@ AC-apply is -1.9
 
 Can affect you as:
 
-    Affects: KICKDAM by 1
+ Affects: KICKDAM by 1
 
-    Affects: HAND_DAMAGE by 1
+ Affects: HAND\_DAMAGE by 1
 
 Object 'bracelet sea foam', Item type: ARMOR
 
@@ -574,7 +574,7 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: MOVE by 15
+ Affects: MOVE by 15
 
 </div>
 

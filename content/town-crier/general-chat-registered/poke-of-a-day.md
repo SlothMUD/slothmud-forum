@@ -36,9 +36,9 @@ Your blood freezes as you hear the purple worm's death cry.
 
 Katie gets gold coins from the corpse of the purple worm that's on the ground.
 
-Katie splits 49016 coins.  Your share is 2883 coins.
+Katie splits 49016 coins. Your share is 2883 coins.
 
- :mrgreen:
+ <img src="/images/smilies/icon_mrgreen.svg" alt=":mrgreen:" title=":mrgreen:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -50,6 +50,6 @@ Nice stab!
 
 <div class="post" data-post-id="31628" data-author="Hitman" data-date="2010-08-28T04:35:13+00:00" data-subject="Re: Poke of a day !">
 
-holy f**k  :mrgreen:
+holy f\*\*k <img src="/images/smilies/icon_mrgreen.svg" alt=":mrgreen:" title=":mrgreen:" width="15" height="15" class="smiley nozoom">
 
 </div>

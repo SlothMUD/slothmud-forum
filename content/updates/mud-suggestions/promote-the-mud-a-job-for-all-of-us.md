@@ -18,11 +18,11 @@ Some time ago, I asked Splork, why couldn't immorts promote the site, to which h
 
 In fact, both is true, and here's why:
 
-(listed in the order of quick -> takes effort)
+(listed in the order of quick -\> takes effort)
 
-1. The easiest way to get new players is to remind players to vote - imms remind players, players vote.
+1\. The easiest way to get new players is to remind players to vote - imms remind players, players vote.
 
-The easiest way to do *that* is for immorts to add these lines to their godsanc message:
+The easiest way to do \*that\* is for immorts to add these lines to their godsanc message:
 
 Please vote for Sloth to attract new players:
 
@@ -34,35 +34,35 @@ Bonus: bit.ly links will tell us how many ppl vote, and when.
 
 Also, the same message can be broadcast every 12 or 6 hours to remind players to do it. Preceding it with a restore or a godsanc would be a bonus - but no rewards can be given for the votes, it's a TMC rule.
 
-2. Players should review the MUD on TMC:
+2\. Players should review the MUD on TMC:
 
-[<LINK_TEXT text="http://www.mudconnect.com/cgi-bin/prev/ ... d=SlothMUD">http://www.mudconnect.com/cgi-bin/prev/submit.cgi?mud=SlothMUD</LINK_TEXT>](http://www.mudconnect.com/cgi-bin/prev/submit.cgi?mud=SlothMUD)
+[http://www.mudconnect.com/cgi-bin/prev/submit.cgi?mud=SlothMUD](http://www.mudconnect.com/cgi-bin/prev/submit.cgi?mud=SlothMUD)
 
-3. Rewrite the listing for TMC/Topsites/homepage to include new stuff and make it more persuasive - Taron should do it.
+3\. Rewrite the listing for TMC/Topsites/homepage to include new stuff and make it more persuasive - Taron should do it.
 
 Update the listing on TMC/Topsites - Splork
 
 Put the new text on the homepage - Breeze
 
-4. Put an active link from the forum header/logo to the website homepage - Breeze
+4\. Put an active link from the forum header/logo to the website homepage - Breeze
 
 It'd slightly help with search engine traffic.
 
 Plus, it'd make the forum more usable, because the only way to go back to the homepage now is to edit URL or typeit anew.
 
-5. Write articles, sharing how unique stuff, like eqset, talking mobs, chop, MUDL were done and the results they brought:
+5\. Write articles, sharing how unique stuff, like eqset, talking mobs, chop, MUDL were done and the results they brought:
 
-- imms can write about their projects and results
+\- imms can write about their projects and results
 
-- Taron can edit it, if needed, and find forums/blogs/sites to share on. I bet Splork&JB know all the best forums to discuss this on.
+\- Taron can edit it, if needed, and find forums/blogs/sites to share on. I bet Splork\&JB know all the best forums to discuss this on.
 
-- imms post from their accounts.
+\- imms post from their accounts.
 
-6. New players mean nothing, if they can't stick.
+6\. New players mean nothing, if they can't stick.
 
 A university is a good start, but we need a newbie area for 1-5 levels, ideally, 1-10, maybe 15, where they can progress to be strong to do other areas.
 
-> **Teron wrote:**
+> <strong>Teron wrote:</strong>
 > JB, before I create raid mobs, I need to finish writing how to do the group scheduler we discussed earlier, and to write an area for 1-5-10 levels, if I ever get to writing areas.
 
 Any imm can do it, or wait till Taron finds time.
@@ -71,12 +71,12 @@ Any imm can do it, or wait till Taron finds time.
 
 <div class="post" data-post-id="37599" data-author="*Splork*" data-date="2016-12-01T16:16:56+00:00" data-subject="Re: Promote the MUD: a job for all of us">
 
-> **Quote:**
+> <strong>Quote:</strong>
 > Some time ago, I asked Splork, why couldn't immorts promote the site, to which he replied along the lines that imms can do little, mortals can do much more.
 
-Please post that reply or a link to it because that does not sound like something I would say or it was misunderstood. The Immortal staff has always been the #1 promoter of this mud from continually posting to mud and gaming forums,  to garnering links inside mud clients, writing reviews, continually pushing for voting(which is the #1 way to gain players), etc etc.
+Please post that reply or a link to it because that does not sound like something I would say or it was misunderstood. The Immortal staff has always been the #1 promoter of this mud from continually posting to mud and gaming forums, to garnering links inside mud clients, writing reviews, continually pushing for voting(which is the #1 way to gain players), etc etc.
 
-However, there are hundreds of more players than Immortals and they can do way more to help in this area than they ever have or will. Thats just a fact.  Since we have stopped pushing voting, we are no longer in the top 10 and I can guarantee that we have missed out on tons of people trying Sloth. I can count on two hands the number of positive reviews written by non immortals on mud related sites and thats over the course of 25 years. Thats pretty damn sad if you ask me...
+However, there are hundreds of more players than Immortals and they can do way more to help in this area than they ever have or will. Thats just a fact. Since we have stopped pushing voting, we are no longer in the top 10 and I can guarantee that we have missed out on tons of people trying Sloth. I can count on two hands the number of positive reviews written by non immortals on mud related sites and thats over the course of 25 years. Thats pretty damn sad if you ask me...
 
 Either way, I would never say that Immortals can do little to promote this game because we have done a ton. Mud promotion is everyone's job and we can accomplish much more by doing it together....
 
@@ -86,7 +86,7 @@ I just pushed out shortcuts to our website to all computers in my school's libra
 
 <div class="post" data-post-id="37600" data-author="*Breeze*" data-date="2016-12-01T21:58:15+00:00" data-subject="Re: Promote the MUD: a job for all of us">
 
-> **Teron wrote:**
+> <strong>Teron wrote:</strong>
 > Recently, Belrath raised a matter of acquiring new players, and since no one mentioned how to do it, here's a brief list of first things to do.
 > 
 > 
@@ -99,15 +99,15 @@ I just pushed out shortcuts to our website to all computers in my school's libra
 > 
 > 
 > 
-> (listed in the order of quick -> takes effort)
+> (listed in the order of quick -\> takes effort)
 > 
 > 
 > 
-> 1. The easiest way to get new players is to remind players to vote - imms remind players, players vote.
+> 1\. The easiest way to get new players is to remind players to vote - imms remind players, players vote.
 > 
 > 
 > 
-> The easiest way to do *that* is for immorts to add these lines to their godsanc message:
+> The easiest way to do \*that\* is for immorts to add these lines to their godsanc message:
 > 
 > Please vote for Sloth to attract new players:
 > 
@@ -125,13 +125,13 @@ I just pushed out shortcuts to our website to all computers in my school's libra
 > 
 > 
 > 
-> 2. Players should review the MUD on TMC:
+> 2\. Players should review the MUD on TMC:
 > 
-> [<LINK_TEXT text="http://www.mudconnect.com/cgi-bin/prev/ ... d=SlothMUD">http://www.mudconnect.com/cgi-bin/prev/submit.cgi?mud=SlothMUD</LINK_TEXT>](http://www.mudconnect.com/cgi-bin/prev/submit.cgi?mud=SlothMUD)
+> [http://www.mudconnect.com/cgi-bin/prev/submit.cgi?mud=SlothMUD](http://www.mudconnect.com/cgi-bin/prev/submit.cgi?mud=SlothMUD)
 > 
 > 
 > 
-> 3. Rewrite the listing for TMC/Topsites/homepage to include new stuff and make it more persuasive - Taron should do it.
+> 3\. Rewrite the listing for TMC/Topsites/homepage to include new stuff and make it more persuasive - Taron should do it.
 > 
 > Update the listing on TMC/Topsites - Splork
 > 
@@ -139,7 +139,7 @@ I just pushed out shortcuts to our website to all computers in my school's libra
 > 
 > 
 > 
-> 4. Put an active link from the forum header/logo to the website homepage - Breeze
+> 4\. Put an active link from the forum header/logo to the website homepage - Breeze
 > 
 > It'd slightly help with search engine traffic.
 > 
@@ -147,22 +147,22 @@ I just pushed out shortcuts to our website to all computers in my school's libra
 > 
 > 
 > 
-> 5. Write articles, sharing how unique stuff, like eqset, talking mobs, chop, MUDL were done and the results they brought:
+> 5\. Write articles, sharing how unique stuff, like eqset, talking mobs, chop, MUDL were done and the results they brought:
 > 
-> - imms can write about their projects and results
+> \- imms can write about their projects and results
 > 
-> - Taron can edit it, if needed, and find forums/blogs/sites to share on. I bet Splork&JB know all the best forums to discuss this on.
+> \- Taron can edit it, if needed, and find forums/blogs/sites to share on. I bet Splork\&JB know all the best forums to discuss this on.
 > 
-> - imms post from their accounts.
+> \- imms post from their accounts.
 > 
 > 
 > 
-> 6. New players mean nothing, if they can't stick.
+> 6\. New players mean nothing, if they can't stick.
 > 
 > A university is a good start, but we need a newbie area for 1-5 levels, ideally, 1-10, maybe 15, where they can progress to be strong to do other areas.
 > 
 > 
-> > **Teron wrote:**
+> > <strong>Teron wrote:</strong>
 > > JB, before I create raid mobs, I need to finish writing how to do the group scheduler we discussed earlier, and to write an area for 1-5-10 levels, if I ever get to writing areas.
 > 
 > 
@@ -176,13 +176,13 @@ i cant make the header a link since its a background image. (at least not withou
 
 <div class="post" data-post-id="37601" data-author="Teron" data-date="2016-12-02T05:38:53+00:00" data-subject="Re: Promote the MUD: a job for all of us">
 
-**Splork**, I can't find the email or post, it was probably via tell - I'm sure I'm not imagining it.
+<strong>Splork</strong>, I can't find the email or post, it was probably via tell - I'm sure I'm not imagining it.
 
 I'm not sure what exactly it was, though: the things I do remember are that it isn't immortals' complete responsibility, players can help. 
 
 I apologize if it offended you - I know you do a lot to promote the MUD.
 
-> **Splork wrote:**
+> <strong>Splork wrote:</strong>
 > Mud promotion is everyone's job and we can accomplish much more by doing it together....
 
 I guess we agree here.
@@ -193,7 +193,7 @@ Can you or anyone involved post links to what other immortals post on MUD/gaming
 
 In my post I write that there are more ways, sometimes too easy ways, that don't involve spending money to get new players. I believe the first one has the highest ROI of all.
 
-**Breeze**, that's unfortunate. Did you mean add the link around #page-header div.inner? Though in this case, it wouldn't help with the search engines, just usability.
+<strong>Breeze</strong>, that's unfortunate. Did you mean add the link around #page-header div.inner? Though in this case, it wouldn't help with the search engines, just usability.
 
 Another thing you can do is to add the "write a review about the MUD" link with the text, "Write a review about the game to show SlothMUD is to the world and bring new players", to the homepage. And maybe post some of the reviews on the somepage, either under the main text or under the left column.
 
@@ -207,7 +207,7 @@ I just now went over to tmc and created some posts in a number of different foru
 
 <div class="post" data-post-id="37679" data-author="Teron" data-date="2016-12-06T08:41:03+00:00" data-subject="Re: Promote the MUD: a job for all of us">
 
-1. Maybe it's too early to draw results from the vote links that appear on rent, but it's better than nothing:
+1\. Maybe it's too early to draw results from the vote links that appear on rent, but it's better than nothing:
 
 1st is a link to TMC, 2nd is TMS.
 
@@ -217,7 +217,7 @@ Tbh, I expected more from the message on rent, maybe people close the client or 
 
 We do have 30-40 active players, who might as well vote.
 
-2. We are #35 on TMS, #12 on TMC.
+2\. We are #35 on TMS, #12 on TMC.
 
 To get to #21 on TMS, which gives the same amount of visitors as #17 (19), we need 37 votes. We've got 13, up from 10 yesterday. It's a slow process, I guess, so we need more participants.
 
@@ -265,29 +265,29 @@ and continue' after clicking on the TMS link from the SlothMUD page.
 
 Hope that helps.
 
--Neptune
+\-Neptune
 
 </div>
 
 <div class="post" data-post-id="37863" data-author="Filk" data-date="2016-12-21T15:00:36+00:00" data-subject="Re: Promote the MUD: a job for all of us">
 
-Laugh. And they expect ppl to do such things?  :lol: 
+Laugh. And they expect ppl to do such things? <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> 
 
-1. No messages at voting that they even expect registration. Neither confirmation on votes.
+1\. No messages at voting that they even expect registration. Neither confirmation on votes.
 
-2. Try and find registration link after that
+2\. Try and find registration link after that
 
-3. They banned at least two services i using for emails.
+3\. They banned at least two services i using for emails.
 
-> **Quote:**
+> <strong>Quote:</strong>
 > The administrator has banned your email address. To contact the administrator click here
 
-4. And after i entered another one, what do i see? Yes! 
+4\. And after i entered another one, what do i see? Yes! 
 
-> **Quote:**
+> <strong>Quote:</strong>
 > Thank you for registering at the Top Mud Sites Forum. Before we can activate your account we need you to email webmaster@topmudsites.com with a brief description of your interest in MUDs such as the MUD you play or other information and the username you signed up as. The purpose of this is only to verify that you are not a bulk spammer, it is not retained.
 
-So go and do some manual actions and maaabye then admins will allow you to actually register. If there will not be another step after it. All i could  say to such service - die painfully.
+So go and do some manual actions and maaabye then admins will allow you to actually register. If there will not be another step after it. All i could say to such service - die painfully.
 
 </div>
 

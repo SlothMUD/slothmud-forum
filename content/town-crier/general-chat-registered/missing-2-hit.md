@@ -36,12 +36,12 @@ I get close to +30 to hit shifted and frequently miss mobs 1-3 times in a round.
 
 Monk's don't use weapons, so they can't get +3 extra hit in this slot. High level eq frequently doesn't have +Hit flags... Looking forward to getting the +7 from avatar levels... if it even does anything.
 
-Funny thing happened the other week, Isabo helped out with a CR for Dsfren and we test ran Luci with them tanking afterwards... it took us two runs, because even immortals with damage far greater than hand grenades miss as much as we do  :D
+Funny thing happened the other week, Isabo helped out with a CR for Dsfren and we test ran Luci with them tanking afterwards... it took us two runs, because even immortals with damage far greater than hand grenades miss as much as we do <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="30722" data-author="Gimlet" data-date="2010-01-21T00:52:11+00:00" data-subject="">
 
-umm why should i care much about melee damage when i'm a mage :)
+umm why should i care much about melee damage when i'm a mage <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

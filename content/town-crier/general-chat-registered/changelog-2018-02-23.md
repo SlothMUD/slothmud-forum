@@ -14,23 +14,23 @@ post_count: 9
 
 New things since my last post:
 
-- Strike shows with gag_fight on.  I've had a couple bugs filed on this but it was requested by a large number of players so it's going to stay in.
+\- Strike shows with gag\_fight on. I've had a couple bugs filed on this but it was requested by a large number of players so it's going to stay in.
 
-- Subdued mobs now have a secondary weight cap that makes them easier to carry.
+\- Subdued mobs now have a secondary weight cap that makes them easier to carry.
 
-- Watcher tells should be viewable in replay.
+\- Watcher tells should be viewable in replay.
 
-- Mob auctions shouldn't show up with auction turned off
+\- Mob auctions shouldn't show up with auction turned off
 
-- EU magic rope rooms now on EU (should not poof choppers on EU chop day)
+\- EU magic rope rooms now on EU (should not poof choppers on EU chop day)
 
-I've left in the code changes to temp item poofing since the weekend chop day seemed to go ok.  Builders can set flags to poof those items in particular rooms (like DoT/ET/etc) and those flags take precedent over the world bonuses.  I have a list of remaining rooms with that flag but it seems like things went well now that the recall spots had their flags cleared.
+I've left in the code changes to temp item poofing since the weekend chop day seemed to go ok. Builders can set flags to poof those items in particular rooms (like DoT/ET/etc) and those flags take precedent over the world bonuses. I have a list of remaining rooms with that flag but it seems like things went well now that the recall spots had their flags cleared.
 
 </div>
 
 <div class="post" data-post-id="38681" data-author="Teron" data-date="2018-02-24T04:28:56+00:00" data-subject="Re: Changelog 2018-02-23">
 
-Can you tell me the use cases, where it's necessary, for those, who *gag fight*, to see strikes?
+Can you tell me the use cases, where it's necessary, for those, who \*gag fight\*, to see strikes?
 
 Why only strikes, why not circlestabs and kicks?
 
@@ -38,7 +38,7 @@ Why only strikes, why not circlestabs and kicks?
 
 <div class="post" data-post-id="38683" data-author="*teker*" data-date="2018-02-26T17:55:54+00:00" data-subject="Re: Changelog 2018-02-23">
 
-Or conversely - bash, stomp, flail, etc.  I don't know what the right balance is - I had monks (and atleast one non-monk) filing bugs that they were being accused of botting/not participating.
+Or conversely - bash, stomp, flail, etc. I don't know what the right balance is - I had monks (and atleast one non-monk) filing bugs that they were being accused of botting/not participating.
 
 </div>
 
@@ -54,9 +54,9 @@ If you want me to gag it with my client, then you are adding a level of complexi
 
 If you want to introduce such a feature without friction, I suggest:
 
-- create an option to gag attacks and to gag melee attacks.
+\- create an option to gag attacks and to gag melee attacks.
 
-- introduce them according to the gag fight settings of the player
+\- introduce them according to the gag fight settings of the player
 
 This way, they can enable them selectively and it won't change the visible interface for most of the players.
 
@@ -86,18 +86,18 @@ Then add a command to gag skill attacks.
 
 <div class="post" data-post-id="38692" data-author="*teker*" data-date="2018-03-06T18:14:04+00:00" data-subject="Re: Changelog 2018-02-23">
 
-I guess the easiest option would be to go back.  What's the best option?  Rename gag fight to gag melee and add gag skill/spell/song?  It seems like bash messages would be useful to see since that's a sort of cumulative skill.  Or maybe not.  Do any other skills/spells work in a similar way?
+I guess the easiest option would be to go back. What's the best option? Rename gag fight to gag melee and add gag skill/spell/song? It seems like bash messages would be useful to see since that's a sort of cumulative skill. Or maybe not. Do any other skills/spells work in a similar way?
 
 </div>
 
 <div class="post" data-post-id="38703" data-author="Josiah" data-date="2018-03-12T21:52:33+00:00" data-subject="Re: Changelog 2018-02-23">
 
-> ***teker* wrote:**
-> It seems like bash messages would be useful to see since that's a sort of cumulative skill.  Or maybe not.  Do any other skills/spells work in a similar way?
+> <strong>\*teker\* wrote:</strong>
+> It seems like bash messages would be useful to see since that's a sort of cumulative skill. Or maybe not. Do any other skills/spells work in a similar way?
 
-The closest thing I can think of is disintegrate/destruction.  These spells have a chance to lower a mobs constitution, and then start doing serious bonus damage when it hits zero.
+The closest thing I can think of is disintegrate/destruction. These spells have a chance to lower a mobs constitution, and then start doing serious bonus damage when it hits zero.
 
-I have always thought it curious that gag fight blocks physical attacks but not spell attacks.  In huge groups, the firewind/disintegrate spam can get pretty intense!
+I have always thought it curious that gag fight blocks physical attacks but not spell attacks. In huge groups, the firewind/disintegrate spam can get pretty intense!
 
 I haven't led in a while, so no comment on the micromanaging leaders.
 

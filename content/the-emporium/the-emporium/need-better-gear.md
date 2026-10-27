@@ -12,15 +12,15 @@ post_count: 1
 
 <div class="post" data-post-id="1780" data-author="Methyx" data-date="2004-09-05T05:35:03+00:00" data-subject="Need Better Gear">
 
-Hello Everyone :)
+Hello Everyone <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-AC and damage are a bit of a problem for this poor little thief.  I'm looking for two items right now to help me out:
+AC and damage are a bit of a problem for this poor little thief. I'm looking for two items right now to help me out:
 
-1.  White Helm Of Frost
+1\. White Helm Of Frost
 
-2.  Gold Pommeled Stilleto
+2\. Gold Pommeled Stilleto
 
-I'm offering a minimum bid of 3.5 Mil for the Helm and 1.5 Mil for the stilleto.  I'm still learning the market, so I'm willing to negotiate on price if my opening bids are off, just post or send me a tell when I'm on line.  Thanks for looking and see you online ;)
+I'm offering a minimum bid of 3.5 Mil for the Helm and 1.5 Mil for the stilleto. I'm still learning the market, so I'm willing to negotiate on price if my opening bids are off, just post or send me a tell when I'm on line. Thanks for looking and see you online <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 Methyx
 

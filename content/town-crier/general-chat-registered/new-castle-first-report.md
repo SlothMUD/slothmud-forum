@@ -56,7 +56,7 @@ Atwell massacres Marsup, infantry trainer to small fragments with his slash.
 
 Marsup, infantry trainer wipes his boots in the face of Atwell.
 
-You see little more than a blur as Marsup, infantry trainer loosens Atwell`s volcanic
+You see little more than a blur as Marsup, infantry trainer loosens Atwell\`s volcanic
 
 shoulder guards .
 
@@ -110,7 +110,7 @@ Fighters now wander all over the castle - including to royals.
 
 "Seems you popped a shield with a smallish group pretty fast, so why does this thread have the feel of a gripe? "
 
-Assuming bad faith is a *good* way to get flamed. From my vantage point, the shield is of marginal value, but then, I have a 3x40 shield. I'm sure that people will call the mob, and with the right group, he's doable as part of xp runs. He makes doing part of the xp run much harder, and the fighter changes are going to be hard on lowbies who, right now, are getting good chunks of xp tagging along castle groups.
+Assuming bad faith is a \*good\* way to get flamed. From my vantage point, the shield is of marginal value, but then, I have a 3x40 shield. I'm sure that people will call the mob, and with the right group, he's doable as part of xp runs. He makes doing part of the xp run much harder, and the fighter changes are going to be hard on lowbies who, right now, are getting good chunks of xp tagging along castle groups.
 
 I will admit that this is the straw that breaks the camel's back for me on the alignment system, which was merely offensive before, but is now somewhere in the realm of absurd. As for area changes, its a big mud, either tactics can be found to deal with it, or people will start doing other areas. This may even be a good thing.
 
@@ -122,7 +122,7 @@ I'm reporting so that players don't go bouncing into the castle, expecting fight
 
 I'd be more concerned about this:
 
-You see little more than a blur as Marsup, infantry trainer loosens Atwell`s volcanic shoulder guards .
+You see little more than a blur as Marsup, infantry trainer loosens Atwell\`s volcanic shoulder guards .
 
 </div>
 
@@ -134,8 +134,8 @@ Caught bell while we were breezing by, but he is a fairly slow aggro.
 
 <div class="post" data-post-id="13194" data-author="12345" data-date="2006-06-28T21:11:39+00:00" data-subject="">
 
-Well, I got a chance to run the castle post-change.  Was an interesting introduction.  I came across Bell dead, spent a second considering how and Marsup killed me.  Tough mob. Other than that, Geber and Vicar have apparently been getting private lessons from Marsup.  They now hit like they used to hit without blinds, maybe harder.  Where clerics were the main requirement for running the castle before, mages have been added to the list.
+Well, I got a chance to run the castle post-change. Was an interesting introduction. I came across Bell dead, spent a second considering how and Marsup killed me. Tough mob. Other than that, Geber and Vicar have apparently been getting private lessons from Marsup. They now hit like they used to hit without blinds, maybe harder. Where clerics were the main requirement for running the castle before, mages have been added to the list.
 
-As for why the castle was run so much before, it only really required a few clerics to run.  Since nearly everybody has cleric in classo, it was a nice place to run while gathering people for a group or recovering from mass leavers.  With the agro mobs chasing the solo players away, it's still a group area, just requires a bit bigger (read higher level) group now.
+As for why the castle was run so much before, it only really required a few clerics to run. Since nearly everybody has cleric in classo, it was a nice place to run while gathering people for a group or recovering from mass leavers. With the agro mobs chasing the solo players away, it's still a group area, just requires a bit bigger (read higher level) group now.
 
 </div>

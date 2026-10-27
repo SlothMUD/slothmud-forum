@@ -32,13 +32,13 @@ sword : You are too laden down with equipment to pick anything else up.
 
 You report 1313/1342 hp. Change: -184. Need: 29. Spells: aegis.
 
-<1313hp 645ma 188mv> 274564689106 4844339 - -8.8 -8 overcast
+\<1313hp 645ma 188mv\> 274564689106 4844339 - -8.8 -8 overcast
 
-+4913052 122826 +0
+\+4913052 122826 +0
 
-| 
+\| 
 
-|
+\|
 
 dro sack
 
@@ -46,17 +46,17 @@ get all
 
 You drop a golden sack.
 
-<1319hp 648ma 192mv> 274564689106 4844339 - -8.8 -8 overcast
+\<1319hp 648ma 192mv\> 274564689106 4844339 - -8.8 -8 overcast
 
 You deftly snatch a golden sack.
 
 corpse : You can't carry that much weight.
 
-<1319hp 648ma 192mv> 274564689106 4844339 - -8.8 -8 overcast
+\<1319hp 648ma 192mv\> 274564689106 4844339 - -8.8 -8 overcast
 
 Gorka gossips-- 'last word'
 
-<1323hp 650ma 194mv> 274564689106 4844339 - -8.8 -8 overcast
+\<1323hp 650ma 194mv\> 274564689106 4844339 - -8.8 -8 overcast
 
 cast 'word of r'
 
@@ -64,7 +64,7 @@ Ok.
 
 Magnolia
 
-   The path curves around a large magnolia tree, almost forty feet high.
+ The path curves around a large magnolia tree, almost forty feet high.
 
 It is covered with large white flowers, which emit a strong, sweet scent.
 
@@ -72,7 +72,7 @@ The path is edged with stone blocks, possibly in an attempt to stop it
 
 from slipping down the slope toward the sea.
 
-Exits: East  South  West  
+Exits: East South West 
 
 A small yellow potion has carelessly been left here. [2]..It glows violet!
 
@@ -102,11 +102,11 @@ Gorka glows with a bright light!
 
 Gorka has a steady red aura.
 
-<1327hp 617ma 197mv> 274564689106 4844339 - -8.8 -8 overcast
+\<1327hp 617ma 197mv\> 274564689106 4844339 - -8.8 -8 overcast
 
 You feel less righteous.
 
-<1329hp 618ma 197mv> 274564689106 4844339 - -8.8 -8 overcast
+\<1329hp 618ma 197mv\> 274564689106 4844339 - -8.8 -8 overcast
 
 w
 
@@ -180,8 +180,6 @@ Last time I did this was for gorka it took me about 45 minutes.
 
 I dont have 45 minutes most days and when I do, I try to play
 
- 
-
 @gorka you were the most generous reimb I have done in awhile. Mainly because teker put in a good word. I even told him to modify cuillen song even though I disagreed with the changes.
 
 If we make changes each time someone complains or threatens to quit then what's the point of running the game.
@@ -196,7 +194,7 @@ All good Breeze, I may not always like your decisions, but I believe you to be a
 
 I understand the time it took to restore my inv when the game crashed when I opened the Christmas present and saved, and it was much appreciated. It takes a fair bit to restore all the items in containers... and as you can imagine loosing your keychain then is no joke.
 
-Considering that most of these issues are a direct result of the drop and junk commands... would not logging player drops and junks in a 7 day revolving log file with a timestamp... assist immortals in quicker restores in these cases where they choose to restore. I don't think it's acceptable you have to do as much work as you do to restore either... and I don't like to put you in that circumstance, but on the other hand I don't think it's fair players loose hours of there work due to accidental stupidity. It's why I mentioned about my magical gateway... I don't expect to be reimbursed for that, because  in the context of Gorka, it's not high value. However Is there some way to improve this situation where drops and junks can be logged and that lesser gods could also share the burden of being able to restore from this list if the item is deemed high value. I'm just asking, is there a more practical solution for players and immortals?
+Considering that most of these issues are a direct result of the drop and junk commands... would not logging player drops and junks in a 7 day revolving log file with a timestamp... assist immortals in quicker restores in these cases where they choose to restore. I don't think it's acceptable you have to do as much work as you do to restore either... and I don't like to put you in that circumstance, but on the other hand I don't think it's fair players loose hours of there work due to accidental stupidity. It's why I mentioned about my magical gateway... I don't expect to be reimbursed for that, because in the context of Gorka, it's not high value. However Is there some way to improve this situation where drops and junks can be logged and that lesser gods could also share the burden of being able to restore from this list if the item is deemed high value. I'm just asking, is there a more practical solution for players and immortals?
 
 You guys as immortals have a totally valid position, we respect that... on the other hand I think players in some cases do to... most of the time you guys are great... but can something be done to improve it even more in a practical sense? When I stuffed up my tomb jade singing, I talked to players... in some cases players had done the same thing and some had been reimbursed and others not. Is there a way we can come together on this issue a bit more practically?
 
@@ -218,7 +216,7 @@ There is a difference between justifying and demanding a reimbursement VS admitt
 
 Not sure why "player harmony" is brought up here - clearly player error.
 
-But I also understand Taron's frustration clearly indicated with his post. I apologize on behalf of this frustrated player <3 
+But I also understand Taron's frustration clearly indicated with his post. I apologize on behalf of this frustrated player \<3 
 
 M
 
@@ -228,9 +226,9 @@ M
 
 Just for the record...
 
-We normally do side with player harmony these days, which is why reimbursements of one sort or another happen on a weekly basis.  It is also why I said to absolutely refund Gorka when Teker asked. Taron has been on the end of these reimbursements many times as well.
+We normally do side with player harmony these days, which is why reimbursements of one sort or another happen on a weekly basis. It is also why I said to absolutely refund Gorka when Teker asked. Taron has been on the end of these reimbursements many times as well.
 
-Sooner or later, someone is going to be told no. Especially when the request is for something as ridiculous as this. When that does happen, at least we know what is going to happen on the crier :mrgreen:
+Sooner or later, someone is going to be told no. Especially when the request is for something as ridiculous as this. When that does happen, at least we know what is going to happen on the crier <img src="/images/smilies/icon_mrgreen.svg" alt=":mrgreen:" title=":mrgreen:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -306,7 +304,7 @@ Ezekiel gossips-- 'anyway, spose it frees me up for other things today, long afk
 
 there is an autosave feature. it should happen on get stuff, not just drop stuff.
 
-will have to check.  howerver, 
+will have to check. howerver, 
 
 its more the "scheduled reboot" feature that is the issue.
 
@@ -348,7 +346,7 @@ eg: "wrap taron reimb 13231-sword of monkeys, 2231-hair of dog, etc"
 
 I have been quite clear in my responses and have not once defended any "feature". I think we have been doing quite well cleaning up these "features" and we will continue to do so by adding additional player saves throughout the code. 
 
-As for choppers, yes it can be frustrating, especially when the game is not stable. But I will save everyone the headache of of a 50 post thread,  by letting everyone know that choppers will never persist 100% through crashes or reboots. We may discuss some other possibilities but popping choppers will always be part of the game to start chop groups.
+As for choppers, yes it can be frustrating, especially when the game is not stable. But I will save everyone the headache of of a 50 post thread, by letting everyone know that choppers will never persist 100% through crashes or reboots. We may discuss some other possibilities but popping choppers will always be part of the game to start chop groups.
 
 Sorry,
 

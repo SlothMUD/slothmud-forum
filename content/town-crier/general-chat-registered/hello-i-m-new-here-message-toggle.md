@@ -12,7 +12,7 @@ post_count: 3
 
 <div class="post" data-post-id="32833" data-author="Tigris" data-date="2011-08-21T04:01:23+00:00" data-subject="Hello I&#x27;m new here message toggle">
 
-Any chance of putting something in to the character creation process asking if this is Your first sloth character? or toggling "is newbie off" or something along these lines so that when people create storage or alts the Hello I'm new here doesn't come up?  Lots of us like to help true newbs but we all have alts. I'm sure this would be abused but for the most part it would be helpful in identifying the people who want or need help from those who don't.
+Any chance of putting something in to the character creation process asking if this is Your first sloth character? or toggling "is newbie off" or something along these lines so that when people create storage or alts the Hello I'm new here doesn't come up? Lots of us like to help true newbs but we all have alts. I'm sure this would be abused but for the most part it would be helpful in identifying the people who want or need help from those who don't.
 
 </div>
 

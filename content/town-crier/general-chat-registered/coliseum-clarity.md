@@ -16,11 +16,11 @@ There is no perfect consensus on what changes could/should be implemented to the
 
 Regarding xp: "Trickle XP" is not an intended featured, and is basically a euphamism for botting. Thus XP in coliseum should be zero or severely penalized. I favor a 50% penalty over a complete nix (current setting).
 
-Regarding coliseum loot: Splork and Josiah noted that this loot is out of place in coli since these items can't even be used in coliseum. Zlodiak and Josiah and others have suggested some of the loot is either OP or in over-abundance. I think the natural solution here is to move the coliseum loot to epic and raider mobs. Rather than take this stuff out of game, it makes sense to move it to the epic system. Kill raiders for boons and buffs and then use the boons and buffs on epic mobs. It makes a lot more sense than having a few highly scripted coliseum junkies supplying this stuff.  As to the potion affects, I favor a reduction in supply to a nerfing of the affects. Also I favor raising the minimum number of groupmembers to use a heavenly scroll from 3 to 5 and make scroll not work in combat, force group to step back and do it. Same for lamb.
+Regarding coliseum loot: Splork and Josiah noted that this loot is out of place in coli since these items can't even be used in coliseum. Zlodiak and Josiah and others have suggested some of the loot is either OP or in over-abundance. I think the natural solution here is to move the coliseum loot to epic and raider mobs. Rather than take this stuff out of game, it makes sense to move it to the epic system. Kill raiders for boons and buffs and then use the boons and buffs on epic mobs. It makes a lot more sense than having a few highly scripted coliseum junkies supplying this stuff. As to the potion affects, I favor a reduction in supply to a nerfing of the affects. Also I favor raising the minimum number of groupmembers to use a heavenly scroll from 3 to 5 and make scroll not work in combat, force group to step back and do it. Same for lamb.
 
 Regarding coliseum berries: Josiah and others have suggested that there might be drops in coliseum that could be used in coliseum (such as the old berries). I'm not inclined to do that, because I'm content with the scores where they are and don't care to upset the balance there.
 
-So this would leave us with a coliseum where pretty much the only draw is going to be honor and drachma and glory and the days of people running it endlessly will dry up.  I hate doing changes that piss off people I like and want to keep. But we have to base these decisions on some kind of principles, not what will anger particular players.
+So this would leave us with a coliseum where pretty much the only draw is going to be honor and drachma and glory and the days of people running it endlessly will dry up. I hate doing changes that piss off people I like and want to keep. But we have to base these decisions on some kind of principles, not what will anger particular players.
 
 </div>
 
@@ -28,7 +28,7 @@ So this would leave us with a coliseum where pretty much the only draw is going 
 
 I agree on everything.
 
-Also, i wish it would be posible to nullify houses effect inside colliseums. Because atm it only comes to that when leveling and doing top scores. Alot of ppl still stays at 39xN because waiting for their major house. And after some rare combination  of double majors, thats not posible to beat current scores without such combination.
+Also, i wish it would be posible to nullify houses effect inside colliseums. Because atm it only comes to that when leveling and doing top scores. Alot of ppl still stays at 39xN because waiting for their major house. And after some rare combination of double majors, thats not posible to beat current scores without such combination.
 
 </div>
 
@@ -52,13 +52,13 @@ Mage didn't wait for a major sun/heat house on the BH day, and leveled fast. If 
 
 Shrug. I think colliseum scores should be done only with colliseum environment. Following that logic, all items using was excluded. Houses do exactly the same. Just giving more problems to get exact situation when you could do high score. You need to wait for some house. Sometimes it could take months, before its long enough and in your time zone. Thats just plain stupid.
 
-Major battle and major fire at same time gives you gigantic advantage for example. And thats once-a-decade combination probably :)
+Major battle and major fire at same time gives you gigantic advantage for example. And thats once-a-decade combination probably <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Old results is a problem for sure. And i dont know good fix. Maybe keeping is the best variant, because after ppl will reborn, list will be adjusted anyway.
 
-But neither i cant think about option how to exclude bonuses from specific room, except by codding new special setting for a room to ignore them :)
+But neither i cant think about option how to exclude bonuses from specific room, except by codding new special setting for a room to ignore them <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-Problem isnt in drachma. Its about perfectionism. If you could do it better, you trying to do it better. And with such long to get option that hurts sometimes :)
+Problem isnt in drachma. Its about perfectionism. If you could do it better, you trying to do it better. And with such long to get option that hurts sometimes <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -74,7 +74,7 @@ I don't have a problem with the coliseum essentially becoming an "auto-quest" on
 
 <div class="post" data-post-id="37888" data-author="*juggleblood*" data-date="2016-12-26T13:38:35+00:00" data-subject="Re: Coliseum Clarity">
 
-I agree that we could've cut out astrology, but also don't see what's to be done about it now because the scores are what they are. These rooms do have special flags that make devak not work and imbued spells not work. We  probably should have included astrology at that time. On the positive side, it's something that makes people pay very close attention to astrology.
+I agree that we could've cut out astrology, but also don't see what's to be done about it now because the scores are what they are. These rooms do have special flags that make devak not work and imbued spells not work. We probably should have included astrology at that time. On the positive side, it's something that makes people pay very close attention to astrology.
 
 @Gorka if you think about it, doing raids would be much more worthwhile and interesting if they load this stuff. Certainly more interesting than pushing a button in a single room. The pop rates would not imitate the coliseum, rather I would put this treasure into a treasure category and set probabilities there such that on occasion you would even find multiple pops on them and I could make an elite category for the raid leaders such that they would load scrolls, lambs, goblets, and blue pots at a somewhat higher rate. In fact it might be a good idea to have 3 treasure categories, small raid, large raid, and raid leader/epic.
 
@@ -82,11 +82,11 @@ I agree that we could've cut out astrology, but also don't see what's to be done
 
 <div class="post" data-post-id="37889" data-author="Josiah" data-date="2016-12-26T22:14:37+00:00" data-subject="Re: Coliseum Clarity">
 
-While you are looking at potentially changing raid mobs, I would like to see them be more numerous.  Often they are ignored, but they can all be wiped out quickly by a single avatar.  If there are two people running raids at the same time, they'll all be dead in 5 minutes or less.
+While you are looking at potentially changing raid mobs, I would like to see them be more numerous. Often they are ignored, but they can all be wiped out quickly by a single avatar. If there are two people running raids at the same time, they'll all be dead in 5 minutes or less.
 
 If we're incentivizing running them, lets increase the availability of raids so we don't create any rivalries competing over a few mobs.
 
-Either larger or groups or much more common spawns would be great.  Alternately mathor could spawn a new random raid instantly if all raids mobs are dead.
+Either larger or groups or much more common spawns would be great. Alternately mathor could spawn a new random raid instantly if all raids mobs are dead.
 
 </div>
 
@@ -98,7 +98,7 @@ Definitely doable. First need to make sure they all even working. I finding a fe
 
 <div class="post" data-post-id="37892" data-author="Josiah" data-date="2016-12-27T07:17:29+00:00" data-subject="Re: Coliseum Clarity">
 
-Some of the timers are working.  I've often been fighting elemental furies when suddenly they all de-spawn.
+Some of the timers are working. I've often been fighting elemental furies when suddenly they all de-spawn.
 
 </div>
 
@@ -110,7 +110,7 @@ so first time entering free, next time 1000 coins ...next 20k etc.. with comment
 
 and the raise insurance, so you get raised if you die could be cost effected... lower shock chance for higher cost.. etc..
 
-heading to work, just got a vision of the old dragon magazine cartoon with 'insert sword for 750 exp'  figured i would post while thinking of it, and give another option.
+heading to work, just got a vision of the old dragon magazine cartoon with 'insert sword for 750 exp' figured i would post while thinking of it, and give another option.
 
 </div>
 

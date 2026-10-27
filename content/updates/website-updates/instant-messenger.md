@@ -16,6 +16,6 @@ Blaster added Instant Messenger for us. You will need to log in to use this opti
 
 Yes, this may be used to ask for ingame help...
 
-Splork :twisted:
+Splork <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

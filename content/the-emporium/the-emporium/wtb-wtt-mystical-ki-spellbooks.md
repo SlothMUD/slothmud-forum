@@ -30,20 +30,20 @@ Thanks in advance.
 
 Vixn.
 
-*thinking about suicide and starting new classo*
+\*thinking about suicide and starting new classo\*
 
- 8)
+ <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="8186" data-author="Krok" data-date="2005-08-08T05:34:17+00:00" data-subject="">
 
-Good job, Kj! :)
+Good job, Kj! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="8193" data-author="13" data-date="2005-08-08T14:35:29+00:00" data-subject="">
 
-[<LINK_TEXT text="http://www.elegantstitch.com/twistedthr ... %20you.jpg">http://www.elegantstitch.com/twistedthreads/i%20simply%20love%20you.jpg</LINK_TEXT>](http://www.elegantstitch.com/twistedthreads/i%20simply%20love%20you.jpg)
+[http://www.elegantstitch.com/twistedthreads/i%20simply%20love%20you.jpg](http://www.elegantstitch.com/twistedthreads/i%20simply%20love%20you.jpg)
 
 </div>

@@ -34,7 +34,8 @@ Do you upload avatars if we send them?
 
 <div class="post" data-post-id="1239" data-author=".kitn" data-date="2004-08-03T08:22:24+00:00" data-subject="">
 
-Do you upload avatars if we send them?[/quote:3g8sab6g]
+> <strong>Aitana wrote:</strong>
+> Do you upload avatars if we send them?
 
 I've tried that, but with no success.
 
@@ -48,9 +49,9 @@ Who (if anyone )is officially responsible for site building and maintenance?
 
 <div class="post" data-post-id="1241" data-author="Ender" data-date="2004-08-03T13:02:33+00:00" data-subject="Avatars">
 
-In Blaster's defense, I had my avatar loaded within hours of sending it to him.  However, I had already adjusted the dimensions on it (I should have given it a border).
+In Blaster's defense, I had my avatar loaded within hours of sending it to him. However, I had already adjusted the dimensions on it (I should have given it a border).
 
-Also, this is a game.  The staff isn't exactly getting paid.  Occasionally, real life has to take priority.
+Also, this is a game. The staff isn't exactly getting paid. Occasionally, real life has to take priority.
 
 My suggestion would be to simply try sending it again.
 

@@ -18,27 +18,27 @@ help blessing of
 
 "BLESSING OF THE AVATAR
 
-Usage:         cast 'blessing of the avatar'
+Usage: cast 'blessing of the avatar'
 
-Cost:          45 mana
+Cost: 45 mana
 
-Level:         23 Avatar
+Level: 23 Avatar
 
-Duration:      ?????
+Duration: ?????
 
-Accumulative:  -
+Accumulative: -
 
-Save Versus:   -
+Save Versus: -
 
-Damage Type:   -
+Damage Type: -
 
-Stratum:       Enchancement 
+Stratum: Enchancement 
 
-Spellbook:     ???????
+Spellbook: ???????
 
-Prerequisite:  -
+Prerequisite: -
 
-See Also:      CORONA STAMINA 
+See Also: CORONA STAMINA 
 
 While the most novice of Avatar casters normally immerse themselves with spells
 

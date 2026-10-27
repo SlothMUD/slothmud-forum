@@ -24,15 +24,15 @@ The British High Command will follow upon this in the first phase of epics, late
 
 see link below:
 
-[<LINK_TEXT text="https://www.tickcounter.com/countdown/2 ... th-quest-i">https://www.tickcounter.com/countdown/2616920/2021-slothmud-july-4th-quest-i</LINK_TEXT>](https://www.tickcounter.com/countdown/2616920/2021-slothmud-july-4th-quest-i)
+[https://www.tickcounter.com/countdown/2616920/2021-slothmud-july-4th-quest-i](https://www.tickcounter.com/countdown/2616920/2021-slothmud-july-4th-quest-i)
 
 Their allies the dark armies of Epics will descend (larger 'main' force) at 10AM pacific on July 5th, see 2nd link below:
 
-[<LINK_TEXT text="https://www.tickcounter.com/countdown/2 ... h-quest-ii">https://www.tickcounter.com/countdown/2616924/2021-slothmud-july-4th-quest-ii</LINK_TEXT>](https://www.tickcounter.com/countdown/2616924/2021-slothmud-july-4th-quest-ii)
+[https://www.tickcounter.com/countdown/2616924/2021-slothmud-july-4th-quest-ii](https://www.tickcounter.com/countdown/2616924/2021-slothmud-july-4th-quest-ii)
 
 Prepare to defend!
 
---The Bal Harbor Chamber of Defense
+\--The Bal Harbor Chamber of Defense
 
 </div>
 

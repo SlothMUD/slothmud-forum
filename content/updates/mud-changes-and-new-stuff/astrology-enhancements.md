@@ -14,41 +14,39 @@ post_count: 1
 
 We have added several new extras to our astology houses so keep your eyes open and enjoy the new stuff! 
 
-"Winter",                      no cap
+"Winter", no cap
 
- "the Winter Wolf",          no cap
+ "the Winter Wolf", no cap
 
- "the Frost Giant",     
+ "the Frost Giant", 
 
- "the Old Forces",   
+ "the Old Forces", 
 
- "the Grand Struggle",   
+ "the Grand Struggle", 
 
- "the Spring",                  fast repop
+ "the Spring", fast repop
 
- "Nature",                       fast repop
+ "Nature", fast repop
 
- "Futility",                  
+ "Futility", 
 
- "the Dragon",                  no lost con
+ "the Dragon", no lost con
 
- "the Sun",                      regen
+ "the Sun", regen
 
- "Heat",                          regen
+ "Heat", regen
 
- "Battle",                        group exp
+ "Battle", group exp
 
- "Dark Shades",        
+ "Dark Shades", 
 
- "Shadows",            
+ "Shadows", 
 
- "Long Shadows",       
+ "Long Shadows", 
 
- "the Ancient Darkness",     group exp
+ "the Ancient Darkness", group exp
 
  "the Great Master, Twivel" fargate
-
- 
 
 In after reboot.
 

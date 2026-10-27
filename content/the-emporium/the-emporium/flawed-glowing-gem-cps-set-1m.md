@@ -16,7 +16,7 @@ set of all 4 flawed glowing gem cps 1m
 
 gem is a +5Mana clasp that can attach to either held high or held low.
 
-includes an escort to the forger of the gem if you want :)
+includes an escort to the forger of the gem if you want <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -34,13 +34,13 @@ includes an escort to the forger of the gem if you want :)
 
 <div class="post" data-post-id="237" data-author="Weasel" data-date="2004-05-22T07:31:32+00:00" data-subject="">
 
-BTW I'll close this at midnight Saturday nite on the time zone this forum runs on, so you have a little under 24hrs left to bid :P
+BTW I'll close this at midnight Saturday nite on the time zone this forum runs on, so you have a little under 24hrs left to bid <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="254" data-author="Weasel" data-date="2004-05-23T04:47:06+00:00" data-subject="">
 
-CLOSED - sold to IW :)
+CLOSED - sold to IW <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
  (time zones are set individually so closed midnight slothmud server time)
 

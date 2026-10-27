@@ -26,7 +26,7 @@ Kenji (wanders), bard spells.
 
 animated bookcase (valley of the mage), random spellbooks
 
-try to limit this to mobs that load 3 or more different -random- spellbooks, not just every spellbook mob in the game.  Based on that restriction, please add more if you know them.
+try to limit this to mobs that load 3 or more different -random- spellbooks, not just every spellbook mob in the game. Based on that restriction, please add more if you know them.
 
 Thanks!
 
@@ -48,19 +48,19 @@ Please help!
 
 Mobs in the Amaryllian Pass and the Moors pop randomized spellbooks under 20 level, which include ones that are harder to get, than others, such as:
 
-- darksight
+\- darksight
 
-- supplication
+\- supplication
 
-- dispel good
+\- dispel good
 
-- goodberry
+\- goodberry
 
-- summon undead
+\- summon undead
 
-- animate dead
+\- animate dead
 
-- banish undead
+\- banish undead
 
 As far as I remember, all mobs pop the randomized sbs.
 

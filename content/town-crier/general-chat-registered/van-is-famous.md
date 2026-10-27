@@ -14,11 +14,11 @@ post_count: 4
 
 From the book of Urantia
 
-2. THE OUTBREAK OF REBELLION
+2\. THE OUTBREAK OF REBELLION
 
 Shortly after Satan's inspection and when the planetary administration was on the eve of the realization of great things on Urantia, one day, midwinter of the northern continents, Caligastia held a prolonged conference with his associate, Daligastia, after which the latter called the ten councils of Urantia in session extraordinary. This assembly was opened with the statement that Prince Caligastia was about to proclaim himself absolute sovereign of Urantia and demanded that all administrative groups abdicate by resigning all of their functions and powers into the hands of Daligastia as trustee, pending the reorganization of the planetary government and the subsequent redistribution of these offices of administrative authority.
 
-The presentation of this astounding demand was followed by the masterly appeal of [b:2bb7ugd1]Van, chairman of the supreme council of co-ordination[/b:2bb7ugd1]. This distinguished administrator and able jurist branded the proposed course of Caligastia as an act bordering on planetary rebellion and appealed to his conferees to abstain from all participation until an appeal could be taken to Lucifer, the System Sovereign of Satania; and he won the support of the entire staff. Accordingly, appeal was taken to Jerusem, and forthwith came back the orders designating Caligastia as supreme sovereign on Urantia and commanding absolute and unquestioning allegiance to his mandates. And it was in reply to this amazing message that the noble Van made his memorable address of seven hours' length in which he formally drew his indictment of Daligastia, Caligastia, and Lucifer as standing in contempt of the sovereignty of the universe of Nebadon; and he appealed to the Most Highs of Edentia for support and confirmation.
+The presentation of this astounding demand was followed by the masterly appeal of <strong>Van, chairman of the supreme council of co-ordination</strong>. This distinguished administrator and able jurist branded the proposed course of Caligastia as an act bordering on planetary rebellion and appealed to his conferees to abstain from all participation until an appeal could be taken to Lucifer, the System Sovereign of Satania; and he won the support of the entire staff. Accordingly, appeal was taken to Jerusem, and forthwith came back the orders designating Caligastia as supreme sovereign on Urantia and commanding absolute and unquestioning allegiance to his mandates. And it was in reply to this amazing message that the noble Van made his memorable address of seven hours' length in which he formally drew his indictment of Daligastia, Caligastia, and Lucifer as standing in contempt of the sovereignty of the universe of Nebadon; and he appealed to the Most Highs of Edentia for support and confirmation.
 
 Meantime the system circuits had been severed; Urantia was isolated. Every group of celestial life on the planet found itself suddenly and without warning isolated, utterly cut off from all outside counsel and advice.
 
@@ -30,30 +30,31 @@ Seraphim and cherubim and other celestial beings were involved in the decisions 
 
 <div class="post" data-post-id="21551" data-author="van" data-date="2007-12-06T02:15:47+00:00" data-subject="Re: Van is famous">
 
-Never before have I been so unjustly slandered.  Distinguished my ass.
+Never before have I been so unjustly slandered. Distinguished my ass.
 
 Stfu or I'll co-ordinate you quiet.
 
 Van
 
-From the book of Urantia
-
-...[b:1wdubrdq]Van, chairman of the supreme council of co-ordination[/b:1wdubrdq]. This distinguished administrator and able jurist ... [/quote:1wdubrdq]
+> <strong>Medios wrote:</strong>
+> From the book of Urantia
+> 
+> ...<strong>Van, chairman of the supreme council of co-ordination</strong>. This distinguished administrator and able jurist ...
 
 </div>
 
 <div class="post" data-post-id="21552" data-author="Autolycos" data-date="2007-12-06T04:16:44+00:00" data-subject="">
 
-the only thing you're heading for is the scrap heap!!!  :twisted: 
+the only thing you're heading for is the scrap heap!!! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-[img:1frauugl]http://www.parocks.com/underwatervan.JPG[/img:1frauugl]
+![](http://www.parocks.com/underwatervan.JPG)
 
 </div>
 
 <div class="post" data-post-id="21553" data-author="Yinao" data-date="2007-12-06T06:59:54+00:00" data-subject="">
 
-[b:1po9yyv7][i:1po9yyv7][u:1po9yyv7]I got your back Van![/size:1po9yyv7][/color:1po9yyv7][/u:1po9yyv7][/i:1po9yyv7][/b:1po9yyv7]
+<strong><em>I got your back Van!</em></strong>
 
-[img:1po9yyv7]http://upload.wikimedia.org/wikipedia/en/thumb/c/c4/297th_MI_BN_DUI.svg/512px-297th_MI_BN_DUI.svg.png[/img:1po9yyv7]
+![](http://upload.wikimedia.org/wikipedia/en/thumb/c/c4/297th_MI_BN_DUI.svg/512px-297th_MI_BN_DUI.svg.png)
 
 </div>

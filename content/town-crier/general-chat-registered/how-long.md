@@ -48,81 +48,81 @@ You stop using a band of ether.
 
 You stop using a runed taffeta pouch.
 
-<158hp 58ma 145mv>
+\<158hp 58ma 145mv\>
 
 Connected to host slothmud.org
 
-                       Based on DikuMUD created by:
+ Based on DikuMUD created by:
 
-              Hans Henrik Staerfeldt, Katja Nyboe, Tom Madsen, 
+ Hans Henrik Staerfeldt, Katja Nyboe, Tom Madsen, 
 
-                   Michael Seifert, and Sebastian Hammer
+ Michael Seifert, and Sebastian Hammer
 
-         ***   
+ \*\*\* 
 
-      *********          *              ***   *************** *          *
+ \*\*\*\*\*\*\*\*\* \* \*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \* \*
 
-     ***     ****        **          **     ** *************  **        **
+ \*\*\* \*\*\*\* \*\* \*\* \*\* \*\*\*\*\*\*\*\*\*\*\*\*\* \*\* \*\*
 
-   *****      ****  *    ***        **       **     ***       **        **
+ \*\*\*\*\* \*\*\*\* \* \*\*\* \*\* \*\* \*\*\* \*\* \*\*
 
-   *****         ***     ***       ***       ***    ***       ***      ***
+ \*\*\*\*\* \*\*\* \*\*\* \*\*\* \*\*\* \*\*\* \*\*\* \*\*\*
 
-    ******        *      ***      ****       ****   ***       ************
+ \*\*\*\*\*\* \* \*\*\* \*\*\*\* \*\*\*\* \*\*\* \*\*\*\*\*\*\*\*\*\*\*\*
 
-       *****             ***       ***       ***    ***       ***      ***
+ \*\*\*\*\* \*\*\* \*\*\* \*\*\* \*\*\* \*\*\* \*\*\*
 
-           *****         **         **       **     ***       **        **
+ \*\*\*\*\* \*\* \*\* \*\* \*\*\* \*\* \*\*
 
-               *****     **********  **     **      ***       **        **
+ \*\*\*\*\* \*\*\*\*\*\*\*\*\*\* \*\* \*\* \*\*\* \*\* \*\*
 
-                 *****   *********      ***          *        *          *
+ \*\*\*\*\* \*\*\*\*\*\*\*\*\* \*\*\* \* \* \*
 
-                   ****                 ********************
+ \*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
-                   *****                 ******************
+ \*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
-   *              *****                      **  **  **
+ \* \*\*\*\*\* \*\* \*\* \*\*
 
-    ***          ****                        **  **  **
+ \*\*\* \*\*\*\* \*\* \*\* \*\*
 
-       ***********                       ******************
+ \*\*\*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
-         *****                          ********************
+ \*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 By what name do you wish to be known? axtrel
 
 Password:
 
-Password accepted.  Press return to continue...
+Password accepted. Press return to continue...
 
--------------------------------------------------------------------------------
+\-------------------------------------------------------------------------------
 
-Welcome to a new version of SlothMUD!  Version III has now been released.
+Welcome to a new version of SlothMUD! Version III has now been released.
 
-WARNING! READ THE RULES!  Type: help rules   They have changed for SlothIII
+WARNING! READ THE RULES! Type: help rules They have changed for SlothIII
 
-*--You may not have two characters on at the same time, no matter what--*
+\*--You may not have two characters on at the same time, no matter what--\*
 
--------------------------------------------------------------------------------
+\-------------------------------------------------------------------------------
 
-*** PRESS RETURN: 
+\*\*\* PRESS RETURN: 
 
 Welcome to the Sloth III DikuMUD at UKANS
 
-0) Exit from DikuMud.
+0\) Exit from DikuMud.
 
-1) Enter the game.
+1\) Enter the game.
 
-2) Enter description.
+2\) Enter description.
 
-3) Read the background story
+3\) Read the background story
 
-4) Change password.
+4\) Change password.
 
-5) Delete this character. [Level 9 or less only]
+5\) Delete this character. [Level 9 or less only]
 
-   Make your choice: 1
+ Make your choice: 1
 
 i
 
@@ -146,7 +146,7 @@ Guessing it crashed again, router i'm guessing?
 
 <div class="post" data-post-id="10679" data-author="Leaf" data-date="2006-02-12T01:20:29+00:00" data-subject="">
 
-Since Sloth is down, we all have time to [b:21avhosa]VOTE!!![/size:21avhosa][/b:21avhosa]
+Since Sloth is down, we all have time to <strong>VOTE!!!</strong>
 
 </div>
 
@@ -154,7 +154,7 @@ Since Sloth is down, we all have time to [b:21avhosa]VOTE!!![/size:21avhosa][/b:
 
 Not only that, but now I have time to work on my bot script^W^Wgroup helper scripts!
 
-Hm... or not.  Looks like Jake is around and the mud is coming back to life.
+Hm... or not. Looks like Jake is around and the mud is coming back to life.
 
 The bot will have to wait.
 
@@ -162,9 +162,9 @@ The bot will have to wait.
 
 <div class="post" data-post-id="10682" data-author="Zing" data-date="2006-02-12T02:05:08+00:00" data-subject="">
 
-Posting when the mud is down is very nice thing.  
+Posting when the mud is down is very nice thing. 
 
-Hopefully it will never again be down, except for the odd moment.  But, I had just installed the new wintin beta and then found I couldn't connect.  It was good to see that it was brief mud glitch and I had not hosed something on my end.
+Hopefully it will never again be down, except for the odd moment. But, I had just installed the new wintin beta and then found I couldn't connect. It was good to see that it was brief mud glitch and I had not hosed something on my end.
 
 Thanks.
 
@@ -172,7 +172,7 @@ Thanks.
 
 <div class="post" data-post-id="10683" data-author="Weasel" data-date="2006-02-12T02:18:24+00:00" data-subject="">
 
-I blame Zing  :twisted:
+I blame Zing <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -184,6 +184,6 @@ You can blame Zing... but we all going to blame the Weasel!
 
 <div class="post" data-post-id="10686" data-author="Weasel" data-date="2006-02-12T07:03:52+00:00" data-subject="">
 
-:evil:
+<img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>

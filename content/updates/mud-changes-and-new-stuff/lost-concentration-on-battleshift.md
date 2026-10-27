@@ -14,7 +14,7 @@ post_count: 1
 
 Greetings, mortals.
 
-- Removed the *Lost concentration* check from battleshift.  It shouldnt fail as much anymore.
+- Removed the <em>Lost concentration</em> check from battleshift. It shouldnt fail as much anymore.
 
 Change will be available on crash/reboot (after someone recompiles the code).
 

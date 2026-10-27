@@ -22,6 +22,6 @@ A swarm of horseflies is mortally wounded, and will die soon, if not aided.
 
 A swarm of horseflies's enormous mass easily deflects your blow.
 
- :shock:
+ <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>

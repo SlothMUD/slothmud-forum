@@ -18,6 +18,6 @@ You will need to re-follow the god of your choice to be counted again.
 
 Enjoy.
 
--Neptune
+\-Neptune
 
 </div>

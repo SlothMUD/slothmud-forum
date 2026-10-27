@@ -16,7 +16,7 @@ finally took a look at MXP, seems kind of interesting. Anyway, took me a while t
 
 for ZMUD 7.21 since that's all I have -
 
-to see what elements/entities sloth is defining you can go to VIEW -> Preferences -> General and scroll down to the MXP section.
+to see what elements/entities sloth is defining you can go to VIEW -\> Preferences -\> General and scroll down to the MXP section.
 
 to access the value of an entity such as gold, or currentalign you use:
 
@@ -24,7 +24,7 @@ to access the value of an entity such as gold, or currentalign you use:
 
 to trigger off of elements such as rdesc (room description):
 
-#mxptrig {rdesc} {#var room_descrip %0} to set the variable room_descrip to its tagged value.
+\#mxptrig {rdesc} {#var room\_descrip %0} to set the variable room\_descrip to its tagged value.
 
 I'm assuming the mxp tags also help for more accurate config of the automapper, which otherwise might take some tweaking to get working (although haven't tested this)
 
@@ -34,13 +34,13 @@ I'm assuming the mxp tags also help for more accurate config of the automapper, 
 
 also, thanks to the imms for putting this in. always fun to have new toys to play with.
 
-and speaking of the automapper, one thing i prefer is to use diagonals directions for up and down instead of the mappers height levels - to use this takes a little work, if anyone wants to know how to set zmud to use diagonals for up|down let me know and i'll write it up
+and speaking of the automapper, one thing i prefer is to use diagonals directions for up and down instead of the mappers height levels - to use this takes a little work, if anyone wants to know how to set zmud to use diagonals for up\|down let me know and i'll write it up
 
 </div>
 
 <div class="post" data-post-id="12121" data-author="Clink" data-date="2006-04-17T11:58:11+00:00" data-subject="">
 
-I'd be interested in the diagonals.  That's one of the few reason I don't use the automapper.  The other one was that it often repeated rooms, but that may happen less often now, especially with the mxp variables.
+I'd be interested in the diagonals. That's one of the few reason I don't use the automapper. The other one was that it often repeated rooms, but that may happen less often now, especially with the mxp variables.
 
 </div>
 
@@ -50,9 +50,9 @@ yeah, the automapper can be a little strange although mostly i've learnt to work
 
 2 ways to do this.
 
-1) I email a file with it already configured
+1\) I email a file with it already configured
 
-2) there may be a better way, but this is what I did -
+2\) there may be a better way, but this is what I did -
 
 zmud stores buttons, alias, triggers in files with .mud extension.
 
@@ -106,7 +106,7 @@ once you create the NULL mud and open it once (step e), quit ZMUD and copy the d
 
 <div class="post" data-post-id="27479" data-author="Ordin" data-date="2008-12-16T18:45:43+00:00" data-subject="">
 
-#mxptrig {rdesc} {#var room_descrip %0} to set the variable room_descrip to its tagged value. 
+\#mxptrig {rdesc} {#var room\_descrip %0} to set the variable room\_descrip to its tagged value. 
 
 can this be manipulated for other games or does the game have to have mxp?
 

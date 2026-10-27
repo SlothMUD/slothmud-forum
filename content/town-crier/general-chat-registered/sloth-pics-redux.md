@@ -12,7 +12,7 @@ post_count: 1
 
 <div class="post" data-post-id="24293" data-author="Ember" data-date="2008-05-10T22:29:43+00:00" data-subject="Sloth Pics Redux">
 
-For those who don't read class specific forums, I am reposting this here.  Blame lack of coffee and sleep for original post going to druid forum.  
+For those who don't read class specific forums, I am reposting this here. Blame lack of coffee and sleep for original post going to druid forum. 
 
 As some of you may or may not be aware, we have a player pix page at 
 

@@ -66,11 +66,11 @@ I am amused to why you did not point up the events of your doing leading to my r
 
 But since you like throwing tantrums and going public -
 
-1) It is my call if I'd like to lead a size-able group to my ideas and run concept very much like any other leader who has their own ideas to go by. I personally planned for old/new players to come in at certain times and dates just so we can have a group running based on any given event Sloth offers, very much like this one.
+1\) It is my call if I'd like to lead a size-able group to my ideas and run concept very much like any other leader who has their own ideas to go by. I personally planned for old/new players to come in at certain times and dates just so we can have a group running based on any given event Sloth offers, very much like this one.
 
 Just because I locked the group and refused you entry, you go all bonkers labeling me names which I will not put here to save you from embarrassment. 
 
-2) You claim to "help" with assisting the group when you were wondering around Hades.
+2\) You claim to "help" with assisting the group when you were wondering around Hades.
 
 Sorry I beg to differ. You came, tried to join the group, found out it was locked, tried again, then engaged on Lucifer, made him flee all over the place when the group was at it's last stages of bringing it down.
 
@@ -78,7 +78,7 @@ i) How would you "help" when you are not even grouped. Had you kill it, how woul
 
 ii) Having Lucifer flee all over the top is a no-no. You run into all sorts of aggros putting the group in danger. Why would you do such a thing? How does this help you or even the group? Why would you even engage Lucifer when you know the group is after it?
 
-3) My tank is on a timer. I try as much to fit in to benefit the run as busy as we are IRL because this was a planned meet.
+3\) My tank is on a timer. I try as much to fit in to benefit the run as busy as we are IRL because this was a planned meet.
 
 Despite reasoning, you still go on your rants and even take it publicly and now the crier. Now I feel bad for sending Linx to go get you. Maybe I should have left you dead in Hades? Oh well.
 
@@ -94,7 +94,7 @@ Dr
 
 <div class="post" data-post-id="36475" data-author="Yasik" data-date="2016-01-16T12:51:51+00:00" data-subject="Re: continuing harassment">
 
-Taron, I never said those are perfect defence, there is  always room for improvement.
+Taron, I never said those are perfect defence, there is always room for improvement.
 
 Worked for me, though.
 
@@ -108,6 +108,6 @@ We are getting extremely tired of dealing with this situation. This does not rep
 
 Neither party is innocent and both parties play major roles in continuing this nonsense. We are asking, about as nicely as possible at this point, to cut it out or both of you will find yourselves without characters...
 
-JB just spent a year putting together the new area he announced yesterday and we find ourselves in a thread about this crap. It honestly pisses me off and thats tough to do regarding Sloth issues these days :mrgreen:
+JB just spent a year putting together the new area he announced yesterday and we find ourselves in a thread about this crap. It honestly pisses me off and thats tough to do regarding Sloth issues these days <img src="/images/smilies/icon_mrgreen.svg" alt=":mrgreen:" title=":mrgreen:" width="15" height="15" class="smiley nozoom">
 
 </div>

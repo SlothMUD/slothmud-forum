@@ -36,51 +36,51 @@ rewarded must be chosen at time of submission. Only one submission per team or p
 
 documents will be added to the wiki page shortly after the conclusion of the event as time allows.
 
-The top **three** documents will be selected for reward. There will be no other rewards.
+The top <strong>three</strong> documents will be selected for reward. There will be no other rewards.
 
-------------------------
+\------------------------
 
-Rules & Notes:
+Rules \& Notes:
 
-1. The document must be submitted in a text format only.
+1\. The document must be submitted in a text format only.
 
-2. No more than four collaborators per document. Please include the contributors' main characters' names
+2\. No more than four collaborators per document. Please include the contributors' main characters' names
 
-     in the document.
+ in the document.
 
-3. The document must be well-organized and easy to read, and in English.
+3\. The document must be well-organized and easy to read, and in English.
 
-4. Please proofread your document. Final submission will be edited and checked for publication quality. 
+4\. Please proofread your document. Final submission will be edited and checked for publication quality. 
 
-5. Submissions must be sent as a private message to *Neptune* via the forum messaging system. No email
+5\. Submissions must be sent as a private message to \*Neptune\* via the forum messaging system. No email
 
-      submissions or in-game submissions will be accepted. 
+ submissions or in-game submissions will be accepted. 
 
-6. Documents must be submitted by players with a login stamp of not more than a month old.
+6\. Documents must be submitted by players with a login stamp of not more than a month old.
 
-7. Try to include suggestions, tips, and tricks.
+7\. Try to include suggestions, tips, and tricks.
 
-8. Documents with criticisms of the game or players will automatically disqualified because that will
+8\. Documents with criticisms of the game or players will automatically disqualified because that will
 
-      be considered to be off-topic and/or out of context. Try to keep your language clean and free of
+ be considered to be off-topic and/or out of context. Try to keep your language clean and free of
 
-      out-of-game slang and profanity. (This is a family mud, for the most part.)
+ out-of-game slang and profanity. (This is a family mud, for the most part.)
 
-9. Try not to discourage or disparage the reader from choosing one path or another through the game.
+9\. Try not to discourage or disparage the reader from choosing one path or another through the game.
 
-10. Immortal and administrative staff, or related persons or characters are ineligible for rewards. We 
+10\. Immortal and administrative staff, or related persons or characters are ineligible for rewards. We 
 
-        want this to come from you, the players! We also want to minimize the advantages of one player
+ want this to come from you, the players! We also want to minimize the advantages of one player
 
-        over another.
+ over another.
 
-11. Be objective. Try to limit your personal bias when creating your newbie guide. I'm sure we can all
+11\. Be objective. Try to limit your personal bias when creating your newbie guide. I'm sure we can all
 
-         paint an excellent picture of how one class is better than another, but let's try to curb our
+ paint an excellent picture of how one class is better than another, but let's try to curb our
 
-         enthusiasms in that direction. 
+ enthusiasms in that direction. 
 
-------------------------------
+\------------------------------
 
 This event is open to all players who meet the guidelines and requirements.
 
@@ -96,6 +96,6 @@ Hope to hear from you guys soon!
 
 Thanks!
 
--Neptune
+\-Neptune
 
 </div>

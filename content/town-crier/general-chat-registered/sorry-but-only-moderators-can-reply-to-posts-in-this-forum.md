@@ -26,7 +26,7 @@ reason I ask is because some might wish to "solo" MOB's during raids for honor o
 
 This was on my list to fix tonight, BUT
 
-I spent the entire night tracking down that irritating no-honor shift bug.  I finally found it and its FIXED!!
+I spent the entire night tracking down that irritating no-honor shift bug. I finally found it and its FIXED!!
 
 Tested it thoroughly for an hour under different conditions, it worked everytime for me, so shift away.
 
@@ -52,7 +52,7 @@ Perhaps I'm mistaken, all in all, seems good so far.
 
 Cheers,
 
--Hotara
+\-Hotara
 
 </div>
 
@@ -64,9 +64,9 @@ Speaking of which, thre might be a helpfile on the subject somewhere but are hon
 
 <div class="post" data-post-id="21273" data-author="Akasha" data-date="2007-11-11T20:09:15+00:00" data-subject="">
 
-Depends, with this system there are certain repeatable quests that requrie certain random items that load sometimes around the world.  These small quests I dont really care about, if someone finds a random item somewhere and asks over gossip what it is, i couldnt care less if you tell.
+Depends, with this system there are certain repeatable quests that requrie certain random items that load sometimes around the world. These small quests I dont really care about, if someone finds a random item somewhere and asks over gossip what it is, i couldnt care less if you tell.
 
-The more major quests that arent repeatable fall under the same guidelines as normal autoquests.  Nothing on these over public channels, I dont want someone ruining it for someone else who wants to solve it themselves.
+The more major quests that arent repeatable fall under the same guidelines as normal autoquests. Nothing on these over public channels, I dont want someone ruining it for someone else who wants to solve it themselves.
 
 Akasha
 
@@ -74,9 +74,9 @@ Akasha
 
 <div class="post" data-post-id="23476" data-author="Avatar" data-date="2008-03-27T22:11:11+00:00" data-subject="Shift bug">
 
-I seem to have fallen victim to a shift bug.  On Bolg, I got 1 honor out of 6 total.
+I seem to have fallen victim to a shift bug. On Bolg, I got 1 honor out of 6 total.
 
-Also, Mathor never gave a reward for this quest.  I expect it's because I was shifted when Bolg was killed?
+Also, Mathor never gave a reward for this quest. I expect it's because I was shifted when Bolg was killed?
 
 Can someone reset that quest for me, so I can attempt to complete it without using shapeshift?
 

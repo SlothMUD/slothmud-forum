@@ -12,6 +12,6 @@ post_count: 1
 
 <div class="post" data-post-id="31780" data-author="Tuck" data-date="2010-09-22T20:56:42+00:00" data-subject="goodbye blue sky!">
 
-don't make me get my main  :mrgreen:
+don't make me get my main <img src="/images/smilies/icon_mrgreen.svg" alt=":mrgreen:" title=":mrgreen:" width="15" height="15" class="smiley nozoom">
 
 </div>

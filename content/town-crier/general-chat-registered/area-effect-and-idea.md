@@ -12,11 +12,11 @@ post_count: 5
 
 <div class="post" data-post-id="9584" data-author="Pine" data-date="2005-11-19T17:07:03+00:00" data-subject="Area Effect and idea">
 
-Awhile ago there was a thread about area effect spells hitting followers.  I believe the outcome was to make followers like players in a group so that they wouldn't be hit by the spell.  Could the same thing please be done for breath weapon area effects?
+Awhile ago there was a thread about area effect spells hitting followers. I believe the outcome was to make followers like players in a group so that they wouldn't be hit by the spell. Could the same thing please be done for breath weapon area effects?
 
-Would it be possible to have a clasp or something of the sort that would make any item shiftable but negate its effects while shifted?  That way druids could run around with armor, shields, etc and not have to worry about pthieves grabbing them as soon as the druid shifts.  I know the druid could change gear, but it would be nice to be able to wear a full set of EQ and shift without having to change everytime.  
+Would it be possible to have a clasp or something of the sort that would make any item shiftable but negate its effects while shifted? That way druids could run around with armor, shields, etc and not have to worry about pthieves grabbing them as soon as the druid shifts. I know the druid could change gear, but it would be nice to be able to wear a full set of EQ and shift without having to change everytime. 
 
-Also, the day with the force of nature strengthened was great!  I could do nice long runs while shifted.  Thanks imms.
+Also, the day with the force of nature strengthened was great! I could do nice long runs while shifted. Thanks imms.
 
 </div>
 
@@ -28,7 +28,8 @@ while yer at it, if a grouped player is using followers, don't let the followers
 
 <div class="post" data-post-id="9588" data-author="Rynquald" data-date="2005-11-20T01:25:33+00:00" data-subject="">
 
-[quote:2iinmhuf]Would it be possible to have a clasp or something of the sort that would make any item shiftable but negate its effects while shifted? That way druids could run around with armor, shields, etc and not have to worry about pthieves grabbing them as soon as the druid shifts. I know the druid could change gear, but it would be nice to be able to wear a full set of EQ and shift without having to change everytime.[/quote:2iinmhuf]
+> <strong>Quote:</strong>
+> Would it be possible to have a clasp or something of the sort that would make any item shiftable but negate its effects while shifted? That way druids could run around with armor, shields, etc and not have to worry about pthieves grabbing them as soon as the druid shifts. I know the druid could change gear, but it would be nice to be able to wear a full set of EQ and shift without having to change everytime.
 
 imho that clasp ect would rarely be used, anyone that seriously shifts to fight ends up with at least some shift eq, and therefore has to change eq to shift anyway.
 
@@ -38,7 +39,7 @@ plus, as far as i'm concered, just removing all your eq to shift is about the sa
 
 <div class="post" data-post-id="9598" data-author="Pine" data-date="2005-11-20T18:32:48+00:00" data-subject="">
 
-I would personally use it all the time, but maybe that's just me.  My thinking is that exploring while shifted obviously only lasts as long as your mana.   Therefore it would be nice to explore with something resembling a decent AC and be able to shift quickly to fight, especially vs aggro mobs.  If I really wanted to I could get Pine some nice eq and do such impromptu fighting without shifting, but I wouldn't have been a druid in that case. :)  That's just the way I like to play; I know other people play differently, and probably much more effectively. :)
+I would personally use it all the time, but maybe that's just me. My thinking is that exploring while shifted obviously only lasts as long as your mana. Therefore it would be nice to explore with something resembling a decent AC and be able to shift quickly to fight, especially vs aggro mobs. If I really wanted to I could get Pine some nice eq and do such impromptu fighting without shifting, but I wouldn't have been a druid in that case. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> That's just the way I like to play; I know other people play differently, and probably much more effectively. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

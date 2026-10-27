@@ -22,11 +22,11 @@ transfer out of the area back to South Gate in Newbatia by issuing one of the th
 
 following commands: 
 
-1. click heels
+1\. click heels
 
-2. snap fingers
+2\. snap fingers
 
-3. recall
+3\. recall
 
 This means you don't 'say' them, but you simply type them as you would any other 
 
@@ -34,6 +34,6 @@ command in the game.
 
 Enjoy.
 
--Neptune
+\-Neptune
 
 </div>

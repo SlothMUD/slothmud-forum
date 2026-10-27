@@ -14,11 +14,11 @@ post_count: 9
 
 Hello, I'm new here and I have a little question to ask:
 
-Is there any way that I can change the background colour and font colour?  I suffer from retinitis pigmentosa (night-blindness) so the glow from the white font on the black is really hard for my eyes to focus on.  I played around with settings and couldn't figure it out.
+Is there any way that I can change the background colour and font colour? I suffer from retinitis pigmentosa (night-blindness) so the glow from the white font on the black is really hard for my eyes to focus on. I played around with settings and couldn't figure it out.
 
-Any suggestions?  
+Any suggestions? 
 
-Thank you for reading.  :)
+Thank you for reading. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -44,7 +44,7 @@ i changed your default skin to a different one..
 
 <div class="post" data-post-id="31323" data-author="Zinoviya" data-date="2010-06-21T03:21:20+00:00" data-subject="Re: Background Colour/Font Colour">
 
-Wait ... maybe I answered that wrong ...?  I guess I don't know if it's "web" or "Mud".  Alas, I am very newbie.  All I know is that I've been playing from [http://www.slothmud.org/FMud/FMud/FMud.html](http://www.slothmud.org/FMud/FMud/FMud.html) and the web's background is white, but the game's background is black with white font.
+Wait ... maybe I answered that wrong ...? I guess I don't know if it's "web" or "Mud". Alas, I am very newbie. All I know is that I've been playing from [http://www.slothmud.org/FMud/FMud/FMud.html](http://www.slothmud.org/FMud/FMud/FMud.html) and the web's background is white, but the game's background is black with white font.
 
 </div>
 
@@ -62,7 +62,7 @@ the next thing on my todo list.
 
 <div class="post" data-post-id="31325" data-author="Zinoviya" data-date="2010-06-21T17:11:35+00:00" data-subject="Re: Background Colour/Font Colour">
 
-That is so nice!  Thank you so much!  You are officially the nicest admin I have ever encountered.
+That is so nice! Thank you so much! You are officially the nicest admin I have ever encountered.
 
 </div>
 
@@ -90,6 +90,6 @@ will work on the page get it to look a bit nicer when i get time.
 
 ZZZZZZZZZzzzzzzzzzzzzz
 
-*Benq*
+\*Benq\*
 
 </div>

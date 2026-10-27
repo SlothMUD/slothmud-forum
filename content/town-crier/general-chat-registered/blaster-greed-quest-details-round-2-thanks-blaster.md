@@ -42,85 +42,85 @@ We were told that the leader would decide on Greed or No Greed within 5 minutes 
 
 Minstrel is leading 'quest on' on Thule:
 
-            (Ba 5.00)   Minstrel
+ (Ba 5.00) Minstrel
 
-            (Wa 4.35)   Firebrand
+ (Wa 4.35) Firebrand
 
-            (Wa 4.19)   Kronk
+ (Wa 4.19) Kronk
 
-            (Wa 4.26)   Lob
+ (Wa 4.26) Lob
 
-            (Wa 4.19)   Van
+ (Wa 4.19) Van
 
-            (Wa 4.25)   Atwell
+ (Wa 4.25) Atwell
 
-            (Wa 4.03)   Gargon
+ (Wa 4.03) Gargon
 
-            (Wa 1.38)   Shazuko
+ (Wa 1.38) Shazuko
 
-            (Wa 2.23)   Azina
+ (Wa 2.23) Azina
 
-            (Wa 0.36)   Krupt
+ (Wa 0.36) Krupt
 
-            (Wa 0.36)   Goss
+ (Wa 0.36) Goss
 
-            (Mo 5.00)   Nab
+ (Mo 5.00) Nab
 
-            (Mo 4.32)   Volnaib
+ (Mo 4.32) Volnaib
 
-            (Mo 2.27)   Kortezz
+ (Mo 2.27) Kortezz
 
-            (Mo 3.36)   Thyst
+ (Mo 3.36) Thyst
 
-            (Ba 4.29)   Shara
+ (Ba 4.29) Shara
 
-            (Ma 4.35)   Truth
+ (Ma 4.35) Truth
 
-            (Ma 5.00)   Brady
+ (Ma 5.00) Brady
 
-            (Ma 4.31)   Edd
+ (Ma 4.31) Edd
 
-            (Ma 1.39)   Grandpa
+ (Ma 1.39) Grandpa
 
-            (Ma 0.39)   Nightwolf
+ (Ma 0.39) Nightwolf
 
-            (Ma 0.34)   Dio
+ (Ma 0.34) Dio
 
-            (Ne 4.18)   Risk
+ (Ne 4.18) Risk
 
-            (Ne 2.37)   Zuuul
+ (Ne 2.37) Zuuul
 
-            (Ne 1.32)   Pooka
+ (Ne 1.32) Pooka
 
-            (Ne 1.34)   Melanthe
+ (Ne 1.34) Melanthe
 
-            (Ne 1.32)   Limdul
+ (Ne 1.32) Limdul
 
-            (Cl 4.29)   Madmax
+ (Cl 4.29) Madmax
 
-            (Cl 4.13)   Draco
+ (Cl 4.13) Draco
 
-            (Cl 3.37)   Rawr
+ (Cl 3.37) Rawr
 
-            (Cl 3.34)   Alexus
+ (Cl 3.34) Alexus
 
-            (Cl 3.30)   Ilic
+ (Cl 3.30) Ilic
 
-            (Dr 2.31)   Mystery
+ (Dr 2.31) Mystery
 
-            (Wa 0.20)   Utinam
+ (Wa 0.20) Utinam
 
-            (Ne 0.20)   Adagio
+ (Ne 0.20) Adagio
 
-            (Wa 1.38)   Santa
+ (Wa 1.38) Santa
 
-            (Cl 5.00)   Shyla
+ (Cl 5.00) Shyla
 
-            (Dr 5.00)   Daedalus
+ (Dr 5.00) Daedalus
 
 We were told that we had 1 Godrain, 2 Restorations, and an Ethereal Spell Cast by Blaster to use
 
-as Minstrel saw fit.  Only in the Event of the death of Minstrel, Shyla could ask for the restoration.
+as Minstrel saw fit. Only in the Event of the death of Minstrel, Shyla could ask for the restoration.
 
 We started searching for the immortal allover the World. AAfter we did some searching we were 
 
@@ -134,11 +134,11 @@ We found the Immortal of Death in the Far North on AH.
 
 Standing nearly one hundred times as tall as a common mortal, this immortal
 
-is the purest for of evil anyone will ever face.  His shape changes as he
+is the purest for of evil anyone will ever face. His shape changes as he
 
 moves about, but his two glowing eyes of bright red fire remain the same.
 
-He around and is often heard making a eerie laughing sound.  He wields one
+He around and is often heard making a eerie laughing sound. He wields one
 
 of the greatest and deadliest axes that have ever existed.
 
@@ -146,13 +146,13 @@ The immortal of death has quite a few wounds.
 
 the immortal of death is using:
 
-<wielded>            axe of the evil immortal..It has a soft glowing aura!
+\<wielded\> axe of the evil immortal..It has a soft glowing aura!
 
-The first try, lets say, didnt go so well.  (See the post from Clink in the other Blaster quest post)
+The first try, lets say, didnt go so well. (See the post from Clink in the other Blaster quest post)
 
-To say that the mob was tough was an understatement.  It had a paralysis proc, as well as a summoning
+To say that the mob was tough was an understatement. It had a paralysis proc, as well as a summoning
 
-an angel for each member of the group.  These alone were quite a task.  The spam was horrible.
+an angel for each member of the group. These alone were quite a task. The spam was horrible.
 
 After several tries, the use of one restoration and the godrain, He was slain.
 
@@ -162,7 +162,7 @@ Total exp for kill is 1147457452.
 
 His Axe:
 
-Object 'axe immortal quest extreme high limit! given_out', Item type: WEAPON
+Object 'axe immortal quest extreme high limit! given\_out', Item type: WEAPON
 
 Item is: GLOW DOUB-40-ITEM 
 
@@ -172,13 +172,13 @@ Damage Dice is '3D7'
 
 Can affect you as:
 
-    Affects: MANA by 10
+ Affects: MANA by 10
 
-    Affects: DAMROLL by 3
+ Affects: DAMROLL by 3
 
 Only those who have attained supremacy in at least two classes may use this item.
 
-No Greed was chosen, each member of the Quest group received 75 Drachma.  Thanks Blaster!
+No Greed was chosen, each member of the Quest group received 75 Drachma. Thanks Blaster!
 
 In the Discussion Following the quest:
 
@@ -200,7 +200,7 @@ Keep'em Coming Blaster!
 
 <div class="post" data-post-id="12776" data-author="jezer" data-date="2006-05-29T00:32:37+00:00" data-subject="">
 
-:shock: 
+<img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
 I didn't get any drachma?
 
@@ -208,7 +208,7 @@ I didn't get any drachma?
 
 <div class="post" data-post-id="12777" data-author="jezer" data-date="2006-05-29T00:35:04+00:00" data-subject="">
 
-Oh, what does "logged on" mean?  :?
+Oh, what does "logged on" mean? <img src="/images/smilies/icon_e_confused.svg" alt=":?" title=":?" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -216,7 +216,7 @@ Oh, what does "logged on" mean?  :?
 
 FB was tanking in regen mode, as usual?
 
-darlin plz take no offence :) i love you
+darlin plz take no offence <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> i love you
 
 if yo read this please contact me, i have something to tell ya
 
@@ -224,6 +224,6 @@ if yo read this please contact me, i have something to tell ya
 
 <div class="post" data-post-id="12888" data-author="Elsie" data-date="2006-06-05T14:46:49+00:00" data-subject="">
 
-I didn't get any drachma either :(
+I didn't get any drachma either <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>

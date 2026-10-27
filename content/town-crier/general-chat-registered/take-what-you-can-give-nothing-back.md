@@ -24,7 +24,7 @@ It is closed.
 
 unlock rug
 
-*Clink*
+\*Clink\*
 
 sear rug
 
@@ -34,7 +34,7 @@ open rug
 
 Ok.
 
-<901hp 223ma 180mv -11.0ac>
+\<901hp 223ma 180mv -11.0ac\>
 
 get all from rug
 
@@ -70,9 +70,9 @@ Necromancer Grizelda calls for the powers of the immortals!
 
 The ground jumps up and hits the back of your head! No, wait, it's you on the ground.
 
-<1hp 0ma 182mv -11.0ac>
+\<1hp 0ma 182mv -11.0ac\>
 
-It's hard to be pirate! :)
+It's hard to be pirate! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Vixn
 
@@ -80,6 +80,6 @@ Vixn
 
 <div class="post" data-post-id="28112" data-author="Yasik2" data-date="2009-02-14T18:14:17+00:00" data-subject="">
 
-ВОРУЙ @ УБИВАЙ !  :twisted:  :D
+ВОРУЙ @ УБИВАЙ ! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>

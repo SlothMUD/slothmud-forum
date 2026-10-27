@@ -14,15 +14,15 @@ post_count: 2
 
 ![](http://dl.dropbox.com/u/72105811/Pics/books_restricts_broken.jpg)
 
-Tested with: [ 40w 40c 40m 35n|30o 21d 12b 10t ] Ozzy the Prince of Afkness
+Tested with: [ 40w 40c 40m 35n\|30o 21d 12b 10t ] Ozzy the Prince of Afkness
 
-book of legendary skill = Improved Stun (Avatar-Monk 8)
+book of legendary skill = Improved Stun (Avatar-Monk <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 large written bound leaves = Nature's Revival (Druid 32)
 
 bound wind-blown parchments = Willow Wind (Druid 33)
 
-List shows I can use those manuals, but should * need more levels.
+List shows I can use those manuals, but should \* need more levels.
 
 </div>
 

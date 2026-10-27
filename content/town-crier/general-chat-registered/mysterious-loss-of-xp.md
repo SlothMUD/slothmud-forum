@@ -12,19 +12,19 @@ post_count: 21
 
 <div class="post" data-post-id="22563" data-author="madmax" data-date="2008-02-06T04:04:56+00:00" data-subject="Mysterious Loss of XP.">
 
-I just happened to notice this but it seems that I too, Like Yasix lost XP today for no explained reason.  I do however keep XP in my prompt and with that I can track it to exactly when the loss occured.
+I just happened to notice this but it seems that I too, Like Yasix lost XP today for no explained reason. I do however keep XP in my prompt and with that I can track it to exactly when the loss occured.
 
 Here is a cut/paste of the log.
 
-This is _unedited_ so it is a bit spammy.  Yes, I was carrying -1.57 billion xp.  (I had no room for tokens in vaults.)
+This is \_unedited\_ so it is a bit spammy. Yes, I was carrying -1.57 billion xp. (I had no room for tokens in vaults.)
 
 It appears to be associated with an Energy Drain Proc.
 
 Madmax.
 
-++++++++++++++++++++++++++++++++++
+\++++++++++++++++++++++++++++++++++
 
-<728hp 468+47ma 250mv> +7 <indoors - -1,574,359,635 XP - 441,551 coins - The Witches Domain - BH>
+\<728hp 468+47ma 250mv\> +7 \<indoors - -1,574,359,635 XP - 441,551 coins - The Witches Domain - BH\>
 
 sc
 
@@ -32,11 +32,11 @@ Saving Madmax.
 
 Saving items.
 
-<728hp 468+47ma 250mv> +7 <indoors - -1,574,359,635 XP - 441,551 coins - The Witches Domain - BH>
+\<728hp 468+47ma 250mv\> +7 \<indoors - -1,574,359,635 XP - 441,551 coins - The Witches Domain - BH\>
 
-Madmax teaching:  Heal, Greater Heal <*GT*>  (level: 40)
+Madmax teaching: Heal, Greater Heal \<\*GT\*\> (level: 40)
 
-Your levels:  Cl: 40 Ma: 40 Wa: 40 Ne: 40 Av: 40
+Your levels: Cl: 40 Ma: 40 Wa: 40 Ne: 40 Av: 40
 
 You are 31 years and 16 months old.
 
@@ -82,49 +82,49 @@ Doc is protecting you.
 
 You are affected by the following spells:
 
-   Detect Evil
+ Detect Evil
 
-   Detect Good
+ Detect Good
 
-   Detect Magic
+ Detect Magic
 
-   Detect Invisible
+ Detect Invisible
 
-   Sense Life
+ Sense Life
 
-   Infravision
+ Infravision
 
-   Darksight
+ Darksight
 
-   Aegis
+ Aegis
 
-   Protection from Evil
+ Protection from Evil
 
-   Resist Fire
+ Resist Fire
 
-   A green spell shield
+ A green spell shield
 
-   Iron Skin
+ Iron Skin
 
-   Stamina
+ Stamina
 
-   Corona
+ Corona
 
-   Greater Mobility
+ Greater Mobility
 
-   Vigor
+ Vigor
 
-   Aptitude
+ Aptitude
 
-   Insight
+ Insight
 
-   Quicken
+ Quicken
 
-   Vitality
+ Vitality
 
-   Hermetic resonance (dispel magic)
+ Hermetic resonance (dispel magic)
 
-<728hp 469+47ma 250mv> +7 <indoors - -1,574,359,635 XP - 441,551 coins - The Witches Domain - BH>
+\<728hp 469+47ma 250mv\> +7 \<indoors - -1,574,359,635 XP - 441,551 coins - The Witches Domain - BH\>
 
 sca
 
@@ -132,53 +132,53 @@ You are thirsty.
 
 You peer intently all around, and see:
 
-             a large black cat : right here
+ a large black cat : right here
 
-                    a demilich : right here
+ a demilich : right here
 
-                    a demilich : right here
+ a demilich : right here
 
-    a young warlock apprentice : right here
+ a young warlock apprentice : right here
 
-                a Tanar'ri imp : right here
+ a Tanar'ri imp : right here
 
-                a Tanar'ri imp : right here
+ a Tanar'ri imp : right here
 
-                a Tanar'ri imp : right here
+ a Tanar'ri imp : right here
 
-                a Tanar'ri imp : right here
+ a Tanar'ri imp : right here
 
-                a Tanar'ri imp : right here
+ a Tanar'ri imp : right here
 
-                a Tanar'ri imp : right here
+ a Tanar'ri imp : right here
 
-                a Tanar'ri imp : right here
+ a Tanar'ri imp : right here
 
-                       Natasha : right here
+ Natasha : right here
 
-                a Tanar'ri imp : right here
+ a Tanar'ri imp : right here
 
-                a Tanar'ri imp : right here
+ a Tanar'ri imp : right here
 
-                a Tanar'ri imp : right here
+ a Tanar'ri imp : right here
 
-      a young witch apprentice : immediately to the west
+ a young witch apprentice : immediately to the west
 
-<729hp 470+16ma 250mv> +7 <indoors - -1,574,359,635 XP - 441,551 coins - The Witches Domain - BH>
+\<729hp 470+16ma 250mv\> +7 \<indoors - -1,574,359,635 XP - 441,551 coins - The Witches Domain - BH\>
 
-You drink from a canteen.  It tastes like water.
+You drink from a canteen. It tastes like water.
 
-<729hp 470+47ma 250mv> +7 <indoors - -1,574,359,635 XP - 441,551 coins - The Witches Domain - BH>
+\<729hp 470+47ma 250mv\> +7 \<indoors - -1,574,359,635 XP - 441,551 coins - The Witches Domain - BH\>
 
 tg 10.imp
 
 ll
 
-The imp is a small creature.  Its limbs are thin and long, and its body
+The imp is a small creature. Its limbs are thin and long, and its body
 
-slightly rotund.  Its head is wide and full of teeth, with a jaw capable of
+slightly rotund. Its head is wide and full of teeth, with a jaw capable of
 
-opening large enough to swallow something larger than its own head.  Only a
+opening large enough to swallow something larger than its own head. Only a
 
 small piece of torn, dirty, green cloth covers a small portion of its wart
 
@@ -186,7 +186,7 @@ and boil-covered black body.
 
 A Tanar'ri imp is in excellent condition.
 
-<730hp 474+47ma 250mv> +7 <indoors - -1,574,359,635 XP - 441,551 coins - The Witches Domain - BH>
+\<730hp 474+47ma 250mv\> +7 \<indoors - -1,574,359,635 XP - 441,551 coins - The Witches Domain - BH\>
 
 11
 
@@ -196,7 +196,7 @@ Ok.
 
 Nothing seems to happen.
 
-<732hp 473+47ma 250mv> +7 <indoors - -1,574,359,635 XP - 441,551 coins - The Witches Domain - BH>
+\<732hp 473+47ma 250mv\> +7 \<indoors - -1,574,359,635 XP - 441,551 coins - The Witches Domain - BH\>
 
 Ok.
 
@@ -208,7 +208,7 @@ A Tanar'ri imp Massacres You to small fragments with its claw.
 
 A Tanar'ri imp screams in agony as red tendrils of mist infuse its body.
 
-<693hp 466+47ma 250mv> +7 <indoors - -1,574,359,635 XP - 441,551 coins - The Witches Domain - BH>
+\<693hp 466+47ma 250mv\> +7 \<indoors - -1,574,359,635 XP - 441,551 coins - The Witches Domain - BH\>
 
 Akasha answers your request!
 
@@ -216,13 +216,13 @@ Caerbannog the eudaemon appears in a flash of rainbow light!
 
 Caerbannog the eudaemon starts following you.
 
-<694hp 469+47ma 250mv> +7 <indoors - -1,574,359,635 XP - 441,551 coins - The Witches Domain - BH>
+\<694hp 469+47ma 250mv\> +7 \<indoors - -1,574,359,635 XP - 441,551 coins - The Witches Domain - BH\>
 
 55
 
 Impossible! You can't concentrate enough!
 
-<694hp 469+47ma 250mv> +7 <indoors - -1,574,359,635 XP - 441,551 coins - The Witches Domain - BH>
+\<694hp 469+47ma 250mv\> +7 \<indoors - -1,574,359,635 XP - 441,551 coins - The Witches Domain - BH\>
 
 You pound a Tanar'ri imp very hard.
 
@@ -252,7 +252,7 @@ You feel a spell unravel! Success!
 
 A Tanar'ri imp isn't taking any more from you! it attacks!
 
-<611hp 469+47ma 250mv> +7 <indoors - -1,574,355,576 XP - 441,551 coins - The Witches Domain - BH>
+\<611hp 469+47ma 250mv\> +7 \<indoors - -1,574,355,576 XP - 441,551 coins - The Witches Domain - BH\>
 
 Caerbannog the eudaemon touches you with his antlers.
 
@@ -262,7 +262,7 @@ A large black cat launches at you in an attempt to scratch your eyes out!
 
 A large black cat bites you very hard.
 
-<701hp 471+47ma 250mv> +7 <indoors - -1,574,355,576 XP [/color:1aswikff]- 441,551 coins - The Witches Domain - BH>
+\<701hp 471+47ma 250mv\> +7 \<indoors - \-1,574,355,576 XP \- 441,551 coins - The Witches Domain - BH\>
 
 You pound a Tanar'ri imp extremely hard.
 
@@ -298,13 +298,13 @@ Your life energy is drained!
 
 Your spell shield absorbs the damage!
 
-<529hp 236+47ma 126mv> +7 <indoors - 0 XP [/color:1aswikff]- 441,551 coins - The Witches Domain - BH>
+\<529hp 236+47ma 126mv\> +7 \<indoors - 0 XP \- 441,551 coins - The Witches Domain - BH\>
 
 off assist mad
 
 A demilich zaps a Tanar'ri imp extremely hard.
 
-<530hp 238+47ma 127mv> +7 <indoors - 0 XP - 441,551 coins - The Witches Domain - BH>
+\<530hp 238+47ma 127mv\> +7 \<indoors - 0 XP - 441,551 coins - The Witches Domain - BH\>
 
 You massacre a Tanar'ri imp to small fragments with your pound.
 
@@ -340,13 +340,13 @@ You massacre a Tanar'ri imp to small fragments with your pound.
 
 Your spell shield fades to a faded green, but holds...
 
-<459hp 239+47ma 128mv> +7 <indoors - 2,583 XP - 441,551 coins - The Witches Domain - BH>
+\<459hp 239+47ma 128mv\> +7 \<indoors - 2,583 XP - 441,551 coins - The Witches Domain - BH\>
 
 Caerbannog the eudaemon touches you with his antlers.
 
 You feel your wounds heal rapidly!
 
-<568hp 242+47ma 130mv> +7 <indoors - 2,583 XP - 441,551 coins - The Witches Domain - BH>
+\<568hp 242+47ma 130mv\> +7 \<indoors - 2,583 XP - 441,551 coins - The Witches Domain - BH\>
 
 l
 
@@ -386,7 +386,7 @@ A Tanar'ri imp is suddenly entwined with an ethereal darkness!
 
 Your spell shield absorbs the damage!
 
-<466hp 243+47ma 131mv> +7 <indoors - 6,396 XP - 441,551 coins - The Witches Domain - BH>
+\<466hp 243+47ma 131mv\> +7 \<indoors - 6,396 XP - 441,551 coins - The Witches Domain - BH\>
 
 </div>
 
@@ -416,7 +416,7 @@ Thirdly, the log says... Akasha answers your request! How come he answers your r
 
 <div class="post" data-post-id="22570" data-author="Rynquald" data-date="2008-02-06T07:06:55+00:00" data-subject="">
 
-Once you go much past 2.1b xp it rolls over to -2.1b, then counts backwards. It's not a problem from a levelling/spending tokens point of view(xp just rolls back into positive once you use some), but you *really* don't want to corpse out before you use it.
+Once you go much past 2.1b xp it rolls over to -2.1b, then counts backwards. It's not a problem from a levelling/spending tokens point of view(xp just rolls back into positive once you use some), but you \*really\* don't want to corpse out before you use it.
 
 I've never actually checked, but if energy drain sucks some xp away(no idea if it does, but speculating), it might have the same effect as corpsing out with negitive xp.
 
@@ -424,11 +424,13 @@ I've never actually checked, but if energy drain sucks some xp away(no idea if i
 
 <div class="post" data-post-id="22571" data-author="Yasik" data-date="2008-02-06T07:25:37+00:00" data-subject="">
 
-Akasha answers your request! How come he answers your requests, but when I ask him to bring the coliseum back there is no action?[/quote:2ox2e8kn]
+> <strong>jezer wrote:</strong>
+> Akasha answers your request! How come he answers your requests, but when I ask him to bring the coliseum back there is no action?
 
 This message appears when your Supplicant summoning is successfull. Something like this :
 
-[code:2ox2e8kn]cast 'supplication' lolita
+```
+cast 'supplication' lolita
 
 Ok.
 
@@ -442,13 +444,14 @@ Blaster answers your request!
 
 Bubbles the lolita appears in a flash of rainbow light!
 
-Bubbles the lolita starts following you.[/code:2ox2e8kn]
+Bubbles the lolita starts following you.
+```
 
 </div>
 
 <div class="post" data-post-id="22572" data-author="Rynquald" data-date="2008-02-06T07:28:12+00:00" data-subject="">
 
-I think that was a joke Yasik :)
+I think that was a joke Yasik <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -466,19 +469,22 @@ yeap
 
 <div class="post" data-post-id="22576" data-author="madmax" data-date="2008-02-06T14:08:41+00:00" data-subject="">
 
-Since I don't have a charcter that can buy exp tokens, this might not make sense. Why not automatically get an XP token at 2 bil instead of going into the negatives? Do they cost coins?[/quote:31pxh65o]
+> <strong>Tap wrote:</strong>
+> Since I don't have a charcter that can buy exp tokens, this might not make sense. Why not automatically get an XP token at 2 bil instead of going into the negatives? Do they cost coins?
 
-Well, tokens take up one spot of the 110 item carry limit. I seem to always be at that limit and with no vault space currently, I jsut carry the xp until it gets about -200 mil, get two tokens and then buy some perma spell.  And no they dont cost coins.
+Well, tokens take up one spot of the 110 item carry limit. I seem to always be at that limit and with no vault space currently, I jsut carry the xp until it gets about -200 mil, get two tokens and then buy some perma spell. And no they dont cost coins.
 
-omg serious ownage 
-
-1.6B lost in a blink of an eye is not funny [/quote:31pxh65o]
+> <strong>Yasik wrote:</strong>
+> omg serious ownage 
+> 
+> 1.6B lost in a blink of an eye is not funny
 
 It is closer to 2.6 billion Yasik.
 
-Once you go much past 2.1b xp it rolls over to -2.1b, then counts backwards. It's not a problem from a levelling/spending tokens point of view(xp just rolls back into positive once you use some), but you *really* don't want to corpse out before you use it. [/quote:31pxh65o]
+> <strong>Rynquald wrote:</strong>
+> Once you go much past 2.1b xp it rolls over to -2.1b, then counts backwards. It's not a problem from a levelling/spending tokens point of view(xp just rolls back into positive once you use some), but you \*really\* don't want to corpse out before you use it.
 
-Well actually that bug has been fixed.  If you corpse, which I have several times in the last week, you still lose the customary 100 mil or so on each death.  Your XP jsut increases closer back to -2.1 billion.
+Well actually that bug has been fixed. If you corpse, which I have several times in the last week, you still lose the customary 100 mil or so on each death. Your XP jsut increases closer back to -2.1 billion.
 
 If you happen to roll over back to positive, that is the problem.. That would effectively be a loss of 4.3 billion xp.
 
@@ -504,9 +510,10 @@ Bazilus the Crazy Python
 
 <div class="post" data-post-id="22580" data-author="Autolycos" data-date="2008-02-06T20:17:48+00:00" data-subject="">
 
-Splork tell us about exp gonna be lost if save it negative....
-
-P.S. Not sure about how long ago, but it is...[/quote:3tzw0xx8]
+> <strong>Bazilus wrote:</strong>
+> Splork tell us about exp gonna be lost if save it negative....
+> 
+> P.S. Not sure about how long ago, but it is...
 
 Yeah.. Brady lost a few bil xp that way.. had a full mark to -2.1+ then corpsed... POOF all gone... 
 
@@ -522,21 +529,30 @@ No coins for xp tokens! This is good news! One day I just might get a vault!
 
 <div class="post" data-post-id="22583" data-author="madmax" data-date="2008-02-06T22:42:23+00:00" data-subject="">
 
-Splork tell us about exp gonna be lost if save it negative....
+> <strong>Autolycos wrote:</strong>
+> > <strong>Bazilus wrote:</strong>
+> > Splork tell us about exp gonna be lost if save it negative....
+> > 
+> > P.S. Not sure about how long ago, but it is...
+> 
+> 
+> 
+> 
+> 
+> Yeah.. Brady lost a few bil xp that way.. had a full mark to -2.1+ then corpsed... POOF all gone... 
+> 
+> 
+> 
+> sux0r
 
-P.S. Not sure about how long ago, but it is...[/quote:f90p008e]
-
-Yeah.. Brady lost a few bil xp that way.. had a full mark to -2.1+ then corpsed... POOF all gone... 
-
-sux0r[/quote:f90p008e]
-
-Check the log, I did not corpse.  This was lost MIDFIGHT.
+Check the log, I did not corpse. This was lost MIDFIGHT.
 
 </div>
 
 <div class="post" data-post-id="22585" data-author="Rynquald" data-date="2008-02-06T22:53:29+00:00" data-subject="">
 
-No coins for xp tokens! This is good news! One day I just might get a vault![/quote:1oowwq0s]
+> <strong>Jezer wrote:</strong>
+> No coins for xp tokens! This is good news! One day I just might get a vault!
 
 Wait until you see what it costs to actually spend the tokens.
 
@@ -544,25 +560,26 @@ Wait until you see what it costs to actually spend the tokens.
 
 <div class="post" data-post-id="22626" data-author="Yasik" data-date="2008-02-09T07:45:15+00:00" data-subject="">
 
-[img:2mj8knt8]http://yasik.kiev.ua/AllExpDrainProc.jpg[/img:2mj8knt8]
+![](http://yasik.kiev.ua/AllExpDrainProc.jpg)
 
 </div>
 
 <div class="post" data-post-id="22628" data-author="Yasik" data-date="2008-02-09T08:12:20+00:00" data-subject="">
 
-[img:3pdkxnsi]http://yasik.kiev.ua/AllExpDrainProc2.jpg[/img:3pdkxnsi]
+![](http://yasik.kiev.ua/AllExpDrainProc2.jpg)
 
 </div>
 
 <div class="post" data-post-id="22629" data-author="Tap" data-date="2008-02-09T16:01:46+00:00" data-subject="">
 
-I think I have the solution...don't get negative experience. :)
+I think I have the solution...don't get negative experience. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="22630" data-author="Yasik" data-date="2008-02-09T16:16:16+00:00" data-subject="">
 
-I think I have the solution...don't get negative experience. :)[/quote:11scw2to]
+> <strong>Tap wrote:</strong>
+> I think I have the solution...don't get negative experience. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 brilliant, genius!
 
@@ -574,35 +591,56 @@ where do you see negative exp?
 
 <div class="post" data-post-id="22636" data-author="madmax" data-date="2008-02-10T15:33:53+00:00" data-subject="Re: Mysterious Loss of XP.">
 
-<728hp 468+47ma 250mv> +7 <indoors - -1,574,359,635 XP - 441,551 coins - The Witches Domain - BH>
+> <strong>madmax wrote:</strong>
+> \<728hp 468+47ma 250mv\> +7 \<indoors - -1,574,359,635 XP - 441,551 coins - The Witches Domain - BH\>
+> 
+> 
+> 
+> You have -1,574,359,635 unused experience points.
+> 
+> 
+> 
+> \<694hp 469+47ma 250mv\> +7 \<indoors - -1,574,359,635 XP - 441,551 coins - The Witches Domain - BH\>
+> 
+> 
+> 
+> \<611hp 469+47ma 250mv\> +7 \<indoors - -1,574,355,576 XP - 441,551 coins - The Witches Domain - BH\>
+> 
+> 
+> 
+> \<701hp 471+47ma 250mv\> +7 \<indoors - \-1,574,355,576 XP \- 441,551 coins - The Witches Domain - BH\>
+> 
+> 
+> 
+> You hear the loud crunch of bones breaking!
+> 
+> You pound a Tanar'ri imp extremely hard.
+> 
+> Your life energy is drained!
+> 
+> Your spell shield absorbs the damage!
+> 
+> 
+> 
+> \<529hp 236+47ma 126mv\> +7 \<indoors - 0 XP \- The Witches Domain - BH\>
+> 
+> 
+> 
+> \<530hp 238+47ma 127mv\> +7 \<indoors - 0 XP - 441,551 coins - The Witches Domain - BH\>
+> 
+> 
+> 
+> \<459hp 239+47ma 128mv\> +7 \<indoors - 2,583 XP - 441,551 coins - The Witches Domain - BH\>
+> 
+> 
+> 
+> \<568hp 242+47ma 130mv\> +7 \<indoors - 2,583 XP - 441,551 coins - The Witches Domain - BH\>
+> 
+> 
+> 
+> \<466hp 243+47ma 131mv\> +7 \<indoors - 6,396 XP - 441,551 coins - The Witches Domain - BH\>
 
-You have -1,574,359,635 unused experience points.
-
-<694hp 469+47ma 250mv> +7 <indoors - -1,574,359,635 XP - 441,551 coins - The Witches Domain - BH>
-
-<611hp 469+47ma 250mv> +7 <indoors - -1,574,355,576 XP - 441,551 coins - The Witches Domain - BH>
-
-<701hp 471+47ma 250mv> +7 <indoors - -1,574,355,576 XP [/color:2pisv11s]- 441,551 coins - The Witches Domain - BH>
-
-You hear the loud crunch of bones breaking!
-
-You pound a Tanar'ri imp extremely hard.
-
-Your life energy is drained!
-
-Your spell shield absorbs the damage!
-
-<529hp 236+47ma 126mv> +7 <indoors - 0 XP [/color:2pisv11s]- The Witches Domain - BH>
-
-<530hp 238+47ma 127mv> +7 <indoors - 0 XP - 441,551 coins - The Witches Domain - BH>
-
-<459hp 239+47ma 128mv> +7 <indoors - 2,583 XP - 441,551 coins - The Witches Domain - BH>
-
-<568hp 242+47ma 130mv> +7 <indoors - 2,583 XP - 441,551 coins - The Witches Domain - BH>
-
-<466hp 243+47ma 131mv> +7 <indoors - 6,396 XP - 441,551 coins - The Witches Domain - BH>[/quote:2pisv11s]
-
-Ok I removed the spam and only left the prompt.  The XP in my prompt when negative has an extra " - ", normally, the XP has the  " - " break.  
+Ok I removed the spam and only left the prompt. The XP in my prompt when negative has an extra " - ", normally, the XP has the " - " break. 
 
 Madmax
 

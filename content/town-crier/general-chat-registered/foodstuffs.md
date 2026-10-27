@@ -12,11 +12,11 @@ post_count: 12
 
 <div class="post" data-post-id="10093" data-author="Shara" data-date="2006-01-12T11:40:39+00:00" data-subject="Foodstuffs!">
 
-Nowadays everyone just eats rations or lutefisk or pies!  What happened to the newbie days when we got started off with roast chicken and bag of cherries and sweet buns!
+Nowadays everyone just eats rations or lutefisk or pies! What happened to the newbie days when we got started off with roast chicken and bag of cherries and sweet buns!
 
-Is sad!  I'm tired of eating loafs and apples and wedges of cheese!
+Is sad! I'm tired of eating loafs and apples and wedges of cheese!
 
-Anyway :D
+Anyway <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -28,7 +28,7 @@ Eat a roasted goose!
 
 <div class="post" data-post-id="10095" data-author="Vixn" data-date="2006-01-12T12:47:55+00:00" data-subject="">
 
-*dreamon*
+\*dreamon\*
 
 cast 'create food'
 
@@ -46,11 +46,11 @@ You are full and feel good.
 
 <div class="post" data-post-id="10097" data-author="12345" data-date="2006-01-12T14:27:01+00:00" data-subject="">
 
-Veggies!  I eat them all the time.
+Veggies! I eat them all the time.
 
-*plants garden*
+\*plants garden\*
 
-*munch munch*
+\*munch munch\*
 
 </div>
 
@@ -64,7 +64,7 @@ You are violently ill.
 
 <div class="post" data-post-id="10099" data-author="12345" data-date="2006-01-12T15:18:24+00:00" data-subject="">
 
-Poolp is by far one of the more unique pthieves I've ever seen.  He's reported bugs that make pthieving easier, he's recalled folks so Shyla could raise them, and doesn't seem to mind being caught and killed.
+Poolp is by far one of the more unique pthieves I've ever seen. He's reported bugs that make pthieving easier, he's recalled folks so Shyla could raise them, and doesn't seem to mind being caught and killed.
 
 He's also got twice as many tert levels as primes now.
 
@@ -82,7 +82,7 @@ His basic premise seems to be to teach people a lesson for leaving things in the
 
 Well, pthieving is really profitable too.
 
-But Poolp is a fair pthief, if there is such a thing :)
+But Poolp is a fair pthief, if there is such a thing <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Braxus is the one that bothers me.
 
@@ -104,7 +104,7 @@ Are there any other food stores in town, kinda like the bakery on VK?
 
 <div class="post" data-post-id="10113" data-author="12345" data-date="2006-01-13T06:07:24+00:00" data-subject="">
 
-There's a candy store on Lyme I think.  I don't think I've checked if it's a real shop or not.. or what it sells.  I think there may be a shop like that on Thal too.... Thal has some different shops.
+There's a candy store on Lyme I think. I don't think I've checked if it's a real shop or not.. or what it sells. I think there may be a shop like that on Thal too.... Thal has some different shops.
 
 </div>
 
@@ -112,7 +112,7 @@ There's a candy store on Lyme I think.  I don't think I've checked if it's a rea
 
 Sweet Shop (LYME)
 
-   A small dark room is divided into two by a polished mahogany counter.
+ A small dark room is divided into two by a polished mahogany counter.
 
 On top of the counter there are several tiny wooden barrels, some closed
 
@@ -120,28 +120,28 @@ and some open at the top to reveal boiled sweets and other delicacies.
 
 Sticks of rock candy and bunches of candied fruit hang from the ceiling.
 
-Exits: South  
+Exits: South 
 
 A robust woman claps her hands together, obviously happy to see you.
 
 You can buy:
 
- Price     Item
+ Price Item
 
-----------------------
+\----------------------
 
- 12        some rock candy
+ 12 some rock candy
 
- 19        a chocolate wafer
+ 19 a chocolate wafer
 
- 19        some sugared fruit
+ 19 some sugared fruit
 
- 25        some salted nuts
+ 25 some salted nuts
 
- 38        chocolate coffee beans
+ 38 chocolate coffee beans
 
- 51        a caramel apple
+ 51 a caramel apple
 
-----------------------
+\----------------------
 
 </div>

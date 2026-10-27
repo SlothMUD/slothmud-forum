@@ -17,7 +17,7 @@ Greeting mortals.
 - Added message when it fails.
 - Halved moves cost when it fails.
 
-Thanks Taron for reporting ... a lot of times ... :lol: 
+Thanks Taron for reporting ... a lot of times ... <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> 
 
 Changes will be available on crash/reboot (after someone recompiles the code).
 

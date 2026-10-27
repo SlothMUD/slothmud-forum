@@ -14,7 +14,7 @@ post_count: 1
 
 Greeting mortals.
 
-- There was a nasty bug involving gset that could end with a group with two (or more) persons on point.  Fixed it and tested quite a bit, but I may have missed something.  If you guys see something odd with gset, please, let me know.
+- There was a nasty bug involving gset that could end with a group with two (or more) persons on point. Fixed it and tested quite a bit, but I may have missed something. If you guys see something odd with gset, please, let me know.
 
 Thanks Shyla for reporting.
 

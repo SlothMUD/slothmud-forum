@@ -28,7 +28,7 @@ Thanks
 
 <div class="post" data-post-id="35103" data-author="DarkArtist" data-date="2014-05-08T00:42:55+00:00" data-subject="Re: Sochi botting">
 
-> **Popeye wrote:**
+> <strong>Popeye wrote:</strong>
 > Hi,
 > 
 > 
@@ -83,7 +83,7 @@ T
 
 <div class="post" data-post-id="35107" data-author="Popeye" data-date="2014-05-08T12:47:01+00:00" data-subject="Re: Sochi botting">
 
-> **Thraxas wrote:**
+> <strong>Thraxas wrote:</strong>
 > I too have come across Sochi playing particularly low level bh runs on a regular basis. 
 > 
 > 
@@ -106,7 +106,7 @@ T
 > 
 > T
 
-Sochi admitted to botting on gossip a few days ago, but he seems to think everyone does it, so it is ok. I usually just ignore it,  but three times in two days now he has come into the same room as me and killed a mob I was away to kill, which is annoying. I did emotes on him and there was no response. It was similar to Jecka ages ago who use to bounce in and out of areas. We webbed and pk'ed and and he was ultimately banned.
+Sochi admitted to botting on gossip a few days ago, but he seems to think everyone does it, so it is ok. I usually just ignore it, but three times in two days now he has come into the same room as me and killed a mob I was away to kill, which is annoying. I did emotes on him and there was no response. It was similar to Jecka ages ago who use to bounce in and out of areas. We webbed and pk'ed and and he was ultimately banned.
 
 I actually think the 15 40 40 thing Sochi is doing is good fun, but there has to be boundaries and there are rules on botting
 
@@ -114,7 +114,7 @@ I actually think the 15 40 40 thing Sochi is doing is good fun, but there has to
 
 <div class="post" data-post-id="35110" data-author="DarkArtist" data-date="2014-05-08T14:46:40+00:00" data-subject="Re: Sochi botting">
 
-I am NOT breaking any rules.This is why mortals don't enforce the rules. They don't have the snoop command.  Yes, I talk about how good my scripts are on gossip and on the forum. I'm sorry it makes you jealous. I've even provided some feedback on how to improve msdp so that we can do more and some of it's been implemented. If you need help learning to use your client, let me know. Maybe you are new to mudding or something and think that clients are cheating.
+I am NOT breaking any rules.This is why mortals don't enforce the rules. They don't have the snoop command. Yes, I talk about how good my scripts are on gossip and on the forum. I'm sorry it makes you jealous. I've even provided some feedback on how to improve msdp so that we can do more and some of it's been implemented. If you need help learning to use your client, let me know. Maybe you are new to mudding or something and think that clients are cheating.
 
 I'm sitting in my kitchen studying and mudding and conversing with people. You make a snap judgement and decide to issue the ultimatum that if "something is not done about me by this weekend, then you're going to pk me over and over." You are clearly in the wrong.
 
@@ -144,7 +144,7 @@ You are so full of it. It never happened or it was some other player. You raised
 
 <div class="post" data-post-id="35118" data-author="Popeye" data-date="2014-05-08T20:50:24+00:00" data-subject="Re: Sochi botting">
 
-> **DarkArtist wrote:**
+> <strong>DarkArtist wrote:</strong>
 > You are so full of it. It never happened or it was some other player. You raised this stink and now want to back down. Tell me who this newb of yours is and when this supposedly happened. Or just stop lying and admit you made a mistake.
 
 I have a few characters now, I am enjoying playing with different class combinations and having fun experimenting. The key thing is, I like my privacy and I like to play the game as God intended. 
@@ -165,7 +165,7 @@ I've received a number of pm's telling me that nobody likes you anyway so I shou
 
 <div class="post" data-post-id="35122" data-author="Popeye" data-date="2014-05-08T21:37:54+00:00" data-subject="Re: Sochi botting">
 
-> **DarkArtist wrote:**
+> <strong>DarkArtist wrote:</strong>
 > And I'm laying this out for you, that you are a no good liar and the reason you can't be forthcoming about details is because they don't exist.
 > 
 > 
@@ -190,7 +190,7 @@ That is all I ask and I stand by that.
 
 <div class="post" data-post-id="35129" data-author="Popeye" data-date="2014-05-08T23:45:37+00:00" data-subject="Re: Sochi botting">
 
-> **DarkArtist wrote:**
+> <strong>DarkArtist wrote:</strong>
 > I ask that you not accuse people of cheating or make threats.
 > 
 > 
@@ -241,13 +241,13 @@ personal interaction between affected parties, then the immortals, at our own di
 
 may choose to inquire and take action further.
 
--Neptune
+\-Neptune
 
 </div>
 
 <div class="post" data-post-id="35132" data-author="Popeye" data-date="2014-05-09T09:28:53+00:00" data-subject="Re: Sochi botting">
 
-> ***Neptune* wrote:**
+> <strong>\*Neptune\* wrote:</strong>
 > Let's be clear on a few things:
 > 
 > 
@@ -276,7 +276,7 @@ may choose to inquire and take action further.
 > 
 > 
 > 
-> -Neptune
+> \-Neptune
 
 Hi Neptune, I have been playing these things too long to be approaching issues like this in a fluffy manner.
 

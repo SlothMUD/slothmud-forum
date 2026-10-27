@@ -12,35 +12,35 @@ post_count: 12
 
 <div class="post" data-post-id="29806" data-author="Toxis" data-date="2009-08-13T22:35:12+00:00" data-subject="Too Harsh lvl loss">
 
-The whole losing levels thing is a bit outdated, if you ask me.  It's so harsh that people leave sloth because of it.  I'm not saying there shouldn't be no penalty to death, but instead of xp loss and level loss, wouldn't it be better to add a death sickness for 10 minutes that lowers damage, hp regen and mana regen drastically?  I highly recommend removing level loss.
+The whole losing levels thing is a bit outdated, if you ask me. It's so harsh that people leave sloth because of it. I'm not saying there shouldn't be no penalty to death, but instead of xp loss and level loss, wouldn't it be better to add a death sickness for 10 minutes that lowers damage, hp regen and mana regen drastically? I highly recommend removing level loss.
 
-Paka[Clan:Dark Knights]> '3x deaths.. 2 deahts lost 40M xps.. or a lil more...'
+Paka[Clan:Dark Knights]\> '3x deaths.. 2 deahts lost 40M xps.. or a lil more...'
 
-Paka[Clan:Dark Knights]> 'third death secondary level loss..'
+Paka[Clan:Dark Knights]\> 'third death secondary level loss..'
 
-Toxis[Clan:Dark Knights]> 'when?'
+Toxis[Clan:Dark Knights]\> 'when?'
 
-Sirrico[Clan:Dark Knights]> 'ouch'
+Sirrico[Clan:Dark Knights]\> 'ouch'
 
-Paka[Clan:Dark Knights]> 'been good mudding with ya'll.. but im taking a break for several 
+Paka[Clan:Dark Knights]\> 'been good mudding with ya'll.. but im taking a break for several 
 
 months'
 
-Toxis[Clan:Dark Knights]> 'you're for real?'
+Toxis[Clan:Dark Knights]\> 'you're for real?'
 
-[pri sec ter qua qui hex sep oct]  Players
+[pri sec ter qua qui hex sep oct] Players
 
---------------------------------
+\--------------------------------
 
-[40m 39d 31w 22c|20n 16b 10o 10t ] Paka * RETIRD 4 now...
+[40m 39d 31w 22c\|20n 16b 10o 10t ] Paka \* RETIRD 4 now...
 
-Sirrico[Clan:Dark Knights]> ':('
+Sirrico[Clan:Dark Knights]\> ':('
 
-Paka[Clan:Dark Knights]> 'this game is crazy..'
+Paka[Clan:Dark Knights]\> 'this game is crazy..'
 
-Baby[Clan:Dark Knights]> ':('
+Baby[Clan:Dark Knights]\> ':('
 
-Paka[Clan:Dark Knights]> 'nods.. hopefully i'll b back..'
+Paka[Clan:Dark Knights]\> 'nods.. hopefully i'll b back..'
 
 </div>
 
@@ -52,7 +52,7 @@ I also died the other day with close to 20 mil exp and lost secondary level, the
 
 <div class="post" data-post-id="29810" data-author="Medios" data-date="2009-08-14T02:29:10+00:00" data-subject="">
 
-:roll:
+<img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -74,7 +74,7 @@ Why do mid-level players leave ? Because the game becomes unforgiving, tiresome 
 
 I noticed that we had most players on when people like Toxis, ZuZu and Kulum were running their exp groups, because its just relaxing to sit back , get good exp and enjoy a good coversation while knowing you will be raised if you die. And i think alot of leaders will back me up on this - if a group CF's alot, people will leave - DEATH is the deterrent and its harsher when you solo.
 
-There has also been a surprising amount of High levels leaving the game, think Stryx, Magi, Godmode and even Toxis stopped playing his cleric and now plays a war prime and i bet there are a few others as well who i forgot to mention. Iam only going to theorise here, but i bet its the lack of reward's at high levels and the obvious lack of progress. There is now no avatar after 4x40, which was driving most people to get to 4x40 and an insane amount of exp you have to get to become 5x40 and with no reward people see no point. And on TOP of that i have heard many stories from high levels that they were being snooped by immortals to see what they are doing, and if they were doing something which brought them exp faster than  they should have been gaining in the eyes of the imms, stuff was nerfed - yep, that would make anyone throw in the towel.
+There has also been a surprising amount of High levels leaving the game, think Stryx, Magi, Godmode and even Toxis stopped playing his cleric and now plays a war prime and i bet there are a few others as well who i forgot to mention. Iam only going to theorise here, but i bet its the lack of reward's at high levels and the obvious lack of progress. There is now no avatar after 4x40, which was driving most people to get to 4x40 and an insane amount of exp you have to get to become 5x40 and with no reward people see no point. And on TOP of that i have heard many stories from high levels that they were being snooped by immortals to see what they are doing, and if they were doing something which brought them exp faster than they should have been gaining in the eyes of the imms, stuff was nerfed - yep, that would make anyone throw in the towel.
 
 Exp loss is a problem - but its not the biggest problem. I have lost a secondary just a week ago, and i have died about 40 times for the past 2-3 weeks i have been playing. I have decided to take a break now as well, but its mainly because im starting to see more flaws than joys in this game. 
 
@@ -86,11 +86,9 @@ All this can be fixed, but immortals are just too old fashioned and unwilling to
 
 I understand the difficulty of the situation with the lack of dedicated immortals working on the code and wanted to salute Splork once again for doing all the work he has been doing, as he is the only man who runs the mud at the moment, fixing the bugs adding new content and trying to respond to the whines of the players.
 
- 
-
 But i really think that this game should stop being a dictatorship and creators need to listen more to the players who actually play the game and know things not from the code, but from experience. Its not too hard to implement a voting system where ideas can be proposed by players and voted for by immortals as well as players. And i bet if players will see their issues at least addressed, they will start coming back.
 
- :idea:
+ <img src="/images/smilies/icon_idea.svg" alt=":idea:" title=":idea:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -98,15 +96,15 @@ But i really think that this game should stop being a dictatorship and creators 
 
 People are fun.
 
-If you keep giving them things, they are all happy and well.  But the moment you take something away from them, they are on their feet and reaching for their pitchforks.
+If you keep giving them things, they are all happy and well. But the moment you take something away from them, they are on their feet and reaching for their pitchforks.
 
-Level loss has been reduced significantly since SlothIII, because the imms LISTENED.  I'm not precisely sure about the figures, but it is a LOT lower.  So you get a bad roll.  Happens.  There will always be a chance, we just pray that it won't happen this time.  Finicky dice.
+Level loss has been reduced significantly since SlothIII, because the imms LISTENED. I'm not precisely sure about the figures, but it is a LOT lower. So you get a bad roll. Happens. There will always be a chance, we just pray that it won't happen this time. Finicky dice.
 
-I've lost so many levels over the years that I don't bother to count.  What do you do?  Get back up, splat a few more times, learn from your mistakes.  You'll make that 20mil exp right back after a run or so in BH exp anyways.  I dread when someone loses a tertiary here, then we'll probably get another similar post about the character quitting, penalty being too great, apathetic imms, whine4, whine5...
+I've lost so many levels over the years that I don't bother to count. What do you do? Get back up, splat a few more times, learn from your mistakes. You'll make that 20mil exp right back after a run or so in BH exp anyways. I dread when someone loses a tertiary here, then we'll probably get another similar post about the character quitting, penalty being too great, apathetic imms, whine4, whine5...
 
-So you die.  But you persevere.  No one said you had to get your corpse by yourself and risk dying again, thus increasing your chance of exp loss.  Ask on gossip, folks tend to be quite helpful about that.  If no one's on, consider making a new friend and grouping next time.  Choices have consequences, the crux of the whole 'death needs a penalty' thing.  So if you opt to go solo, you must realize the risks instead of decrying things as unfair.
+So you die. But you persevere. No one said you had to get your corpse by yourself and risk dying again, thus increasing your chance of exp loss. Ask on gossip, folks tend to be quite helpful about that. If no one's on, consider making a new friend and grouping next time. Choices have consequences, the crux of the whole 'death needs a penalty' thing. So if you opt to go solo, you must realize the risks instead of decrying things as unfair.
 
-As for penalty, I'm curious what folks would suggest in lieu of exp loss.  A resurrection sickness a la WoW would inevitably lead to complaining about 'Oh I can't do anything for ten minutes since my stats, regen, whatever are so low.  I'm quitting again'.  Lowering exp penalty further, to what?  20%?  10%? 0?  If there's still loss, folks will still complain when they hit that bad dice roll.  If it's 0, then death really won't be an impediment, but simply an inconvenience.  
+As for penalty, I'm curious what folks would suggest in lieu of exp loss. A resurrection sickness a la WoW would inevitably lead to complaining about 'Oh I can't do anything for ten minutes since my stats, regen, whatever are so low. I'm quitting again'. Lowering exp penalty further, to what? 20%? 10%? 0? If there's still loss, folks will still complain when they hit that bad dice roll. If it's 0, then death really won't be an impediment, but simply an inconvenience. 
 
 As you have verified, it is quite easy to point out what is wrong, but so much harder to make it right.
 
@@ -114,13 +112,13 @@ As you have verified, it is quite easy to point out what is wrong, but so much h
 
 <div class="post" data-post-id="29819" data-author="Medios" data-date="2009-08-14T14:40:45+00:00" data-subject="">
 
-Honestly the reason I haven't been around has been due to real life activities.  I been taking a college class as well as working and we also got Zander who is now 16 months.  When my class started I was doing a lot of reading and my eyes were too sore to read Slothmud text.  I was also playing way too much and skirting my goals.  I decided it was time to take a break and see if I can live without Sloth.  
+Honestly the reason I haven't been around has been due to real life activities. I been taking a college class as well as working and we also got Zander who is now 16 months. When my class started I was doing a lot of reading and my eyes were too sore to read Slothmud text. I was also playing way too much and skirting my goals. I decided it was time to take a break and see if I can live without Sloth. 
 
-90% of my clan left for WoW.  The other 10% logs on once a week and rarely in my time.  It really sucks.  Add in to that the fact that Minstrel was a hard solo until Avatar, the xp tables were reduced, it takes more xp, drachma shops were closed, group leaders thought it was fun to run eq for themselves and deprive the groups of real xp, then they get mad for bringing it up, clans cost hard to get coins, Chrissy was about to kill me for playing too much, and on and on.  I decided to wait and see if any of these things will be resolved.  Some of the issues have been fixed and for some there will never be a solution.  As for me I still don't know if I want to come back seriously.
+90% of my clan left for WoW. The other 10% logs on once a week and rarely in my time. It really sucks. Add in to that the fact that Minstrel was a hard solo until Avatar, the xp tables were reduced, it takes more xp, drachma shops were closed, group leaders thought it was fun to run eq for themselves and deprive the groups of real xp, then they get mad for bringing it up, clans cost hard to get coins, Chrissy was about to kill me for playing too much, and on and on. I decided to wait and see if any of these things will be resolved. Some of the issues have been fixed and for some there will never be a solution. As for me I still don't know if I want to come back seriously.
 
-Nothing but love for everyone at Sloth.  Even that slippery Mosaix.
+Nothing but love for everyone at Sloth. Even that slippery Mosaix.
 
-PS  Seriously stop crying about death penalties.  Games like WoW and Asherons Call are weak on penalties.  Death sickness just puts people in the Inn for 10 minutes.  You want players to be going back strong at the xp, not hindered by negative stats.  Also, it usually takes about 10 minutes to regroup a cf, so where is the penalty for being a crap leader?
+PS Seriously stop crying about death penalties. Games like WoW and Asherons Call are weak on penalties. Death sickness just puts people in the Inn for 10 minutes. You want players to be going back strong at the xp, not hindered by negative stats. Also, it usually takes about 10 minutes to regroup a cf, so where is the penalty for being a crap leader?
 
 </div>
 
@@ -128,7 +126,7 @@ PS  Seriously stop crying about death penalties.  Games like WoW and Asherons Ca
 
 I was just saying last night on wiznet that I wish I had more time to actually play, I do love that side of the game just as much as helping run it. However, I still strongly believe I have enough experience playing this game to form opinions on balance and other issues:0 I can't even count how many 5x40s I had on S3 and I have a 2x40 and 2 other lowbie characters that I spend most of my time in these days when I do get that chance to login a mortal. I do plan on playing Wintin more often though, life is just hectic and busy with a 20 month old, fiance, and school starting again in 3 weeks.
 
-If anyone checks mud changes and updates,  rarely does one see a bad change for the players. Most changes are additions and giving back to the players. They are helping but we arent finished yet, there is obviously more to be done.
+If anyone checks mud changes and updates, rarely does one see a bad change for the players. Most changes are additions and giving back to the players. They are helping but we arent finished yet, there is obviously more to be done.
 
 Avatar levels open up at 5x40 and I am debating moving that up to 4x40, I will see how I feel in a few days about that.
 
@@ -152,9 +150,9 @@ For what its worth I think It's a marvelous idea to have avatar start at 4x40.
 
 The third bard skill is to transfer the bards mana to the group.
 
-Opening up the first few avatar levels at 4x40 is a good idea in my opinion, and it would make sense to be able to aegis and not burn my limited 165 mana on sancs :>
+Opening up the first few avatar levels at 4x40 is a good idea in my opinion, and it would make sense to be able to aegis and not burn my limited 165 mana on sancs :\>
 
--Rig
+\-Rig
 
 </div>
 
@@ -164,8 +162,9 @@ I second that. It would bring more life into mud for sure.
 
 Cizin 
 
-Opening up the first few avatar levels at 4x40 is a good idea in my opinion, and it would make sense to be able to aegis and not burn my limited 165 mana on sancs :>
-
--Rig[/quote:2hedsd4c]
+> <strong>Rigwarl wrote:</strong>
+> Opening up the first few avatar levels at 4x40 is a good idea in my opinion, and it would make sense to be able to aegis and not burn my limited 165 mana on sancs :\>
+> 
+> \-Rig
 
 </div>

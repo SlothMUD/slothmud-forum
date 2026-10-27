@@ -24,23 +24,24 @@ Jan
 
 <div class="post" data-post-id="7238" data-author="Weasel" data-date="2005-06-15T12:59:40+00:00" data-subject="">
 
-have fun  :)
+have fun <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="7239" data-author="12345" data-date="2005-06-15T13:13:46+00:00" data-subject="">
 
-Be safe :)
+Be safe <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="7240" data-author="Autolycos" data-date="2005-06-15T13:39:24+00:00" data-subject="Re: Leaving Sloth for a while">
 
-Ok, whoevers misses me in order to taunt me. [/quote:1gjpa9la]
+> <strong>impz wrote:</strong>
+> Ok, whoevers misses me in order to taunt me.
 
 I think I have this part covered....
 
-Take care man! See ya on syndication  :twisted:
+Take care man! See ya on syndication <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -58,7 +59,7 @@ Take it easy, Impz.... see you soon bud.
 
 <div class="post" data-post-id="7243" data-author="Avatar" data-date="2005-06-15T14:19:24+00:00" data-subject="Laters">
 
-Kick some ass, both in the training and the conference!  Good luck dude,
+Kick some ass, both in the training and the conference! Good luck dude,
 
 Charles
 

@@ -18,12 +18,12 @@ We will have the SlothMUD 2022 Labor Day Quest at 10am Pacific Sunday September 
 
 A timer link is provided below:
 
-[<LINK_TEXT text="https://www.tickcounter.com/countdown/3 ... -day-quest">https://www.tickcounter.com/countdown/3442519/2022-slothmud-labor-day-quest</LINK_TEXT>](https://www.tickcounter.com/countdown/3442519/2022-slothmud-labor-day-quest)
+[https://www.tickcounter.com/countdown/3442519/2022-slothmud-labor-day-quest](https://www.tickcounter.com/countdown/3442519/2022-slothmud-labor-day-quest)
 
 Thinking on the more simplistic side this time.
 
 See you there.
 
---D
+\--D
 
 </div>

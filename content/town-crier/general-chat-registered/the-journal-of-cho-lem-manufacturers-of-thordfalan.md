@@ -34,7 +34,7 @@ Mr. Phoom."
 
 <div class="post" data-post-id="7777" data-author="12345" data-date="2005-07-07T22:41:14+00:00" data-subject="">
 
-The masters of good evil and neutrality?  Mage Tower has been gone forever...
+The masters of good evil and neutrality? Mage Tower has been gone forever...
 
 </div>
 
@@ -46,15 +46,16 @@ weird that book popped on junior student... was hoping new area coming soon.....
 
 <div class="post" data-post-id="7791" data-author="Wintersdark" data-date="2005-07-08T21:32:31+00:00" data-subject="Re: and yet...">
 
-weird that book popped on junior student... was hoping new area coming soon..... oh well[/quote:ow6hjug7]
+> <strong>dt wrote:</strong>
+> weird that book popped on junior student... was hoping new area coming soon..... oh well
 
-Actually, they pop in the newsrack just inside Cholmery (sw from dormouse, IIRC).  People take them out, look at them, then drop them around the school, and random mobs pick em up.
+Actually, they pop in the newsrack just inside Cholmery (sw from dormouse, IIRC). People take them out, look at them, then drop them around the school, and random mobs pick em up.
 
 </div>
 
 <div class="post" data-post-id="7796" data-author="Medios" data-date="2005-07-09T13:47:50+00:00" data-subject="">
 
-Thats old news, that book is describing the school of cholemry.  When the mage tower went out, I believe the cholemry and elemental schools went in on bh and island.  I remember reading that a few years ago, so im pretty sure theres no new area involved.
+Thats old news, that book is describing the school of cholemry. When the mage tower went out, I believe the cholemry and elemental schools went in on bh and island. I remember reading that a few years ago, so im pretty sure theres no new area involved.
 
 Mike
 

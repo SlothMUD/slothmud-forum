@@ -22,14 +22,14 @@ they retired!)
 
 if anyone has the inclination to donate to help pay server costs for the year, please get in contact with me.
 
-> breeze@slothmud.com <
+\> breeze@slothmud.com \<
 
 this is only for server costs and there are no perks for the donators. (diku license = no profit)
 
 so anything over what we need gets held until next year.
 
-in short, if _InsertNameHere_ donates and then does some messed up crap i will wipe them.
+in short, if \_InsertNameHere\_ donates and then does some messed up crap i will wipe them.
 
-thanks for listening :)
+thanks for listening <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

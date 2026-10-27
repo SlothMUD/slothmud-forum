@@ -18,7 +18,7 @@ Your mirror image starts to form, then disappears.
 
 Try again when you are more focused on your magical goals.
 
-Why and when does this happen?  :(
+Why and when does this happen? <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -36,8 +36,8 @@ Best regards.
 
 <div class="post" data-post-id="31956" data-author="Kelgar" data-date="2010-11-02T06:25:54+00:00" data-subject="Re: Mirror image failing...">
 
-*Isabo*,
+\*Isabo\*,
 
-Thanks for reply! I indeed did a couple of backstabs before that  :roll:
+Thanks for reply! I indeed did a couple of backstabs before that <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>

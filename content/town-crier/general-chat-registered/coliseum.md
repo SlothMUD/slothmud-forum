@@ -20,7 +20,7 @@ I am Gorka, I am a 8hr hour working day, present coliseum botâ€¦ As all play
 
 Itâ€™s unbalanced in the context of the rest of the gameâ€¦
 
-Totally true. Warriors can spend 800 or more drachma on a single point of ac, well now days with the coliseum itâ€™s possible to run almost perm at -2.0ac for almost no real cost. Blue pots prolong runs, scrolls have almost ended group regens. **It must be noted though that the coliseum has not made players â€œmore powerfulâ€ itâ€™s simply made them â€œmore faster.â€** Everything that is now killable with the coliseum potions, is still killable without themâ€¦ it just takes longerâ€¦
+Totally true. Warriors can spend 800 or more drachma on a single point of ac, well now days with the coliseum itâ€™s possible to run almost perm at -2.0ac for almost no real cost. Blue pots prolong runs, scrolls have almost ended group regens. <strong>It must be noted though that the coliseum has not made players â€œmore powerfulâ€ itâ€™s simply made them â€œmore faster.â€</strong> Everything that is now killable with the coliseum potions, is still killable without themâ€¦ it just takes longerâ€¦
 
 The coliseum has added to the grouping experienceâ€¦
 
@@ -54,7 +54,7 @@ If exp will be removed, all other problems will be tuned down, because little pp
 
 Josiah summarizes most of my thoughts at 
 
-<LINK_TEXT text="http://www.slothmud.org/forum/viewtopic ... 791#p37785">http://www.slothmud.org/forum/viewtopic.php?f=28&t=4694&p=37791#p37785</LINK_TEXT>
+http://www.slothmud.org/forum/viewtopic.php?f=28&t=4694&p=37791#p37785
 
 I wish that coliseum conquests and gains only helped within future coliseum competitions.
 
@@ -62,7 +62,7 @@ I wish that coliseum conquests and gains only helped within future coliseum comp
 
 <div class="post" data-post-id="37797" data-author="Gorka" data-date="2016-12-13T03:30:16+00:00" data-subject="Re: Coliseum">
 
-> **Filk wrote:**
+> <strong>Filk wrote:</strong>
 > As for me, colliseum exp should be remove at all. It wasnt intented to run it for exp i think. And since that place is so easy to botting, you cant actually control if ppl afk or not while they scripted running in one place.
 > 
 > 
@@ -107,15 +107,15 @@ As for me - i dont care about pops. At all. I just dont like the idea of such si
 
 Here's what Josiah suggested in other thread: 
 
-1) goblet duration reduced to the same duration as godsanc, and/or weakened to -1.0 AC
+1\) goblet duration reduced to the same duration as godsanc, and/or weakened to -1.0 AC
 
-2) token drops removed.
+2\) token drops removed.
 
-3) (hard to implement) - Limit pops to the first 100-200 kills per day in the coliseum.
+3\) (hard to implement) - Limit pops to the first 100-200 kills per day in the coliseum.
 
-4) Add a cost to enter the coliseum more than 10 times in a single day.
+4\) Add a cost to enter the coliseum more than 10 times in a single day.
 
-5) Dramatically reduce poprates.
+5\) Dramatically reduce poprates.
 
 1.) I think "or", not "and".
 
@@ -137,7 +137,7 @@ Limiting is a bad idea, why should everyone be punished for the behavior of a fe
 
 <div class="post" data-post-id="37809" data-author="Josiah" data-date="2016-12-13T15:22:02+00:00" data-subject="Re: Coliseum">
 
-Thanks for bringing my comments over from the other thread.  I just wanted to clarify that I am not suggesting we do all of the things in my list.  It was just my brainstorming of options, if we aren't happy with the status quo.
+Thanks for bringing my comments over from the other thread. I just wanted to clarify that I am not suggesting we do all of the things in my list. It was just my brainstorming of options, if we aren't happy with the status quo.
 
 </div>
 
@@ -153,7 +153,7 @@ I have to agree with Fluffy on this. Whilst some player enjoy grinding xp in col
 
 Gorka may be sitting infront of the pc working all day while doing this but this doesnt mean its not botting. To me, having a program/script run the game for 7-8 hours straight at the background with minimal or little supervision is botting. And i believe that botting is still agaisnt the rule in our mud? Can i then bot in other xp area and say that i'm working while my script is cycling for me? Because few months ago my friend just got his char locked because of that.
 
-I'm not saying this our of jealousy, to be honest, i did enjoy the cheap pots, tokens and scrolls. But as this kind of thread hit the forum and nothing is done about it, it sort of give an impression that this is a bot friendly mud? Anyway, you guys are smart. I'm sure we can work something out. Good job in pushing for the rebirth thing btw  :lol: Looking forward to see it implemented.
+I'm not saying this our of jealousy, to be honest, i did enjoy the cheap pots, tokens and scrolls. But as this kind of thread hit the forum and nothing is done about it, it sort of give an impression that this is a bot friendly mud? Anyway, you guys are smart. I'm sure we can work something out. Good job in pushing for the rebirth thing btw <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> Looking forward to see it implemented.
 
 </div>
 
@@ -167,7 +167,7 @@ Let's not get precious about what is botting, lest I start outing players in the
 
 From someone who has been the bot police in the past, I can tell you best way to go about it is to address the underlying incentives, i.e. things that are easy to abuse for bot or player. So Gorka, stop trying to throw other people under the bus. You aren't any better than the two you want punished and you're also the one raising the biggest stink about the whole thing, which is somewhat mind boggling. Seems like the smarter strategy would have been to be quiet. Instead you're trying to portray yourself as the victim, or hero here.
 
-Currently, playing around with max_stat and wraithform pots gives me a fun solo activity and the scrolls make epic groups possible even when there's not a big who list.  If all my crack vanished overnight I might lose interest in the game for a while and that's not an exaggeration.
+Currently, playing around with max\_stat and wraithform pots gives me a fun solo activity and the scrolls make epic groups possible even when there's not a big who list. If all my crack vanished overnight I might lose interest in the game for a while and that's not an exaggeration.
 
 So, the immediate affect of a strong nerf will be a reduction of activity on the mud. The coliseum 'junk' is actually encourage a lot of different activity. A big nerf would give no tangible benefit to the mud apart from satisfying a few people that a couple people aren't getting away with something. It's hard to motivate myself to spend a whole day to do something that only has negative results on activity and numbers.
 
@@ -177,7 +177,7 @@ Don't expect me to dictate what needs to happen with it. I'll act when I sense t
 
 <div class="post" data-post-id="37818" data-author="Vegetable" data-date="2016-12-14T00:03:01+00:00" data-subject="Re: Coliseum">
 
-Just a small suggestion. If the concern is on falling supply of pots/scroll, how about making them load in certain areas (maybe depending on area difficulty) i.e. mob in high group xp area have chance to drop scroll. So it makes people cycle those areas for xp and they get some scroll for epic (sort of like incentive or bonus). You can then adjust to add/take out the pop rate/pop chance to divert people to certain areas if you choose to do so in the future. *OUT OF TOPIC: we should do this also on some old XP area like tomb of forever kings but tweak the xp (like increase them substantially). With rebirth coming, we need more good xp area for the rebirth char to run through* 
+Just a small suggestion. If the concern is on falling supply of pots/scroll, how about making them load in certain areas (maybe depending on area difficulty) i.e. mob in high group xp area have chance to drop scroll. So it makes people cycle those areas for xp and they get some scroll for epic (sort of like incentive or bonus). You can then adjust to add/take out the pop rate/pop chance to divert people to certain areas if you choose to do so in the future. \*OUT OF TOPIC: we should do this also on some old XP area like tomb of forever kings but tweak the xp (like increase them substantially). With rebirth coming, we need more good xp area for the rebirth char to run through\* 
 
 Can do the same with mana pot/restore pots/aegis pots (those that can improve your run in general) but in a slightly easier area or the common stab/grip/blast area. However, the pop rate should be set after extensive testing by both players and admins to ensure there is a balance (so you don't get 10 pots in 1 run or 0 pots in 10 runs).
 
@@ -197,7 +197,7 @@ hrm.... can easily make a treasure category for it and assign it to different zo
 
 <div class="post" data-post-id="37840" data-author="Riurik" data-date="2016-12-15T13:24:19+00:00" data-subject="Re: Coliseum">
 
-Laugh, put a gotcha at the entry point :) When you  pull the chain have a prompt required that would be hard to script and guess. That way at a minimum you have to be present when you enter each time. If Gorka is really at his keyboard every day for 8 hours, he will have to swap over every so many minutes to get in.
+Laugh, put a gotcha at the entry point <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> When you pull the chain have a prompt required that would be hard to script and guess. That way at a minimum you have to be present when you enter each time. If Gorka is really at his keyboard every day for 8 hours, he will have to swap over every so many minutes to get in.
 
 </div>
 
@@ -205,15 +205,15 @@ Laugh, put a gotcha at the entry point :) When you  pull the chain have a prompt
 
 ![](https://daviddemar.files.wordpress.com/2012/05/thewordintelligenceisalsothepolaroppositeofdolan_0a6e3bd1f9d88e169795acdf58dd97ee.jpg)
 
-* I suggest no free raise when you die in the coliseum, kick the corpse out for raise as normal.
+\* I suggest no free raise when you die in the coliseum, kick the corpse out for raise as normal.
 
-* Make blue pots personal.
+\* Make blue pots personal.
 
-* Make scrolls only work in groups of 3 or greater.
+\* Make scrolls only work in groups of 3 or greater.
 
-* Cut duration of goblet in half.
+\* Cut duration of goblet in half.
 
-* Cut token pops to half.
+\* Cut token pops to half.
 
 This would make the coliseum dangerous to bot, and make it more unworthwhile economically as the most important loot could only be used personally or in group. It would make the coliseum less exploitable while not limiting it's original intention for which is was designed and keep the current benefits to groups. It would not limit players during major houses from getting high scores...
 
@@ -221,9 +221,9 @@ This would make the coliseum dangerous to bot, and make it more unworthwhile eco
 
 <div class="post" data-post-id="37842" data-author="Filk" data-date="2016-12-15T15:59:46+00:00" data-subject="Re: Coliseum">
 
-You understand, that with all your proposals you just defending that source of easy bot exp? :)
+You understand, that with all your proposals you just defending that source of easy bot exp? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-Go and run in the wilds! :)
+Go and run in the wilds! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -247,12 +247,12 @@ This is not directed at you or anyone. Its just what i have in mind since i star
 
 <div class="post" data-post-id="37846" data-author="Gorka" data-date="2016-12-16T02:29:53+00:00" data-subject="Re: Coliseum">
 
-> **Vegetable wrote:**
+> <strong>Vegetable wrote:</strong>
 > Probably best to load them on some area that are relevant to the area you run in. Or make item that pop in coliseum only usable in coliseum. idk.
 
 I agree, it seems odd that in the coliseum you pop these items, and in most cases, it's also about the only place where you can't use them. Zoning them, or random popping them, would solve item issues at the coliseum. There are two issues, items, and xp. I suspect xp is actually the reason people bot, because there is not enough money in the items.
 
-> **Vegetable wrote:**
+> <strong>Vegetable wrote:</strong>
 > Gorka, what you were asking is basically to bar all other botters from the coliseum so you can be the only one running your script all day.
 
 Not correct. I'm hacked off that I get "painted with the same brush" as non responsive afk players. In doing what they are doing... I am seen as THE SAME as them, when clearly I think there is a difference. I know that if I continue in the coliseum, I will get taken down with the botters even though I would be responding, and I feel there is a clear difference, and that's why I am here and swinging!

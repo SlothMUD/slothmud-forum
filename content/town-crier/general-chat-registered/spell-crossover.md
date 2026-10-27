@@ -14,6 +14,6 @@ post_count: 1
 
 could acid blast be added as a high level druid spell?
 
- :idea:
+ <img src="/images/smilies/icon_idea.svg" alt=":idea:" title=":idea:" width="15" height="15" class="smiley nozoom">
 
 </div>

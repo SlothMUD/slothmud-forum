@@ -48,12 +48,12 @@ Ivory torch
 
 <div class="post" data-post-id="7001" data-author="Ditheca" data-date="2005-06-09T17:38:04+00:00" data-subject="wtb list">
 
-*bump*
+\*bump\*
 
 </div>
 
 <div class="post" data-post-id="7065" data-author="Sind9" data-date="2005-06-11T10:55:37+00:00" data-subject="=)">
 
-will pay more than ditheca for any from list :P
+will pay more than ditheca for any from list <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>

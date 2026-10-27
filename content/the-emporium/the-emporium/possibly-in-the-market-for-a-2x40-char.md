@@ -24,7 +24,7 @@ the only thing i ask is the name be a good one.
 
 find me ingame/send mudmail etc...
 
-~Afea~
+\~Afea\~
 
 </div>
 
@@ -32,12 +32,12 @@ find me ingame/send mudmail etc...
 
 Psteal going back in?
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23004" data-author="bellafea" data-date="2008-02-27T21:00:40+00:00" data-subject="">
 
-dunno about that, need it for other reasons.  i was never into pstealing.
+dunno about that, need it for other reasons. i was never into pstealing.
 
 </div>

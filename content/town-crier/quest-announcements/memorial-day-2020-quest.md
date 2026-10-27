@@ -20,8 +20,8 @@ I'll figure it out,
 
 Meanwhile the timer link is below:
 
-[<LINK_TEXT text="https://www.tickcounter.com/countdown/1 ... -day-quest">https://www.tickcounter.com/countdown/1990228/2020-slothmud-memorial-day-quest</LINK_TEXT>](https://www.tickcounter.com/countdown/1990228/2020-slothmud-memorial-day-quest)
+[https://www.tickcounter.com/countdown/1990228/2020-slothmud-memorial-day-quest](https://www.tickcounter.com/countdown/1990228/2020-slothmud-memorial-day-quest)
 
---Idj
+\--Idj
 
 </div>

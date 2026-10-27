@@ -16,7 +16,7 @@ Ring of Ancient Evil
 
 ET SW AdM AdC [AND]
 
--0.4 	+1 HP Regen
+\-0.4 +1 HP Regen
 
 min bid 3M
 

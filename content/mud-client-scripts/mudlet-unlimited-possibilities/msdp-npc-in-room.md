@@ -18,7 +18,7 @@ I was thinking NPC in room, maybe just two or three keywords per mob and maybe t
 
 Also someone earlier jokingly suggested weather, but weather is helpful because it tells you whether you are indoors or not.
 
--2 cents
+\-2 cents
 
 </div>
 

@@ -16,7 +16,7 @@ Many thanks to Kjartan for new tarantula form skill.
 
 Must be shifted.
 
-Then type web to see options of alert, summon, or trap. :)
+Then type web to see options of alert, summon, or trap. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Thanks again KJ!
 

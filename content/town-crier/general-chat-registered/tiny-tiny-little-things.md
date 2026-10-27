@@ -22,15 +22,15 @@ I apoligize for start my bad english. You smarter people fix it.
 
 These are just my opinions and my opinions only.
 
-1. When player in zone types 'where' I feel like it should show lurking persons. 
+1\. When player in zone types 'where' I feel like it should show lurking persons. 
 
 for example. "someone is lurking about the area"
 
--- that would help us not to bumb up to each other in xp areas.
+\-- that would help us not to bumb up to each other in xp areas.
 
--- I'd like to give first-in-area-gets-to-kill-area -to all
+\-- I'd like to give first-in-area-gets-to-kill-area -to all
 
-2. Like I said earlier, what I feel like. EU is stupidly annoying place because of chain-bash-lag,
+2\. Like I said earlier, what I feel like. EU is stupidly annoying place because of chain-bash-lag,
 
 and entrech fails ALOT, atleast that's how I see it. So I suggest some kinda message when entrench 'offs?'
 
@@ -38,7 +38,7 @@ and abit more success percent. I'm kinda highend Mo/Wa and its common that I fai
 
 in a row, lagging me over an round. I really hope ppl would give opinions on this one.
 
-3. Could the damage impressions be increased abit? Max is now 'viciously massacres'. I dont know actually 
+3\. Could the damage impressions be increased abit? Max is now 'viciously massacres'. I dont know actually 
 
 where it starts but would be cool to have some more to it. Destroy...etc, you english people know better them words.
 
@@ -48,20 +48,20 @@ Slothmud community has become my other family. Love you all.
 
 Special thanks for Maniac for making this HUGE new area.
 
----Bel
+\---Bel
 
 </div>
 
 <div class="post" data-post-id="40000" data-author="cnl" data-date="2023-01-14T20:12:05+00:00" data-subject="Re: Tiny Tiny little things">
 
-> **Belrath wrote:**
-> 1. When player in zone types 'where' I feel like it should show lurking persons.
+> <strong>Belrath wrote:</strong>
+> 1\. When player in zone types 'where' I feel like it should show lurking persons.
 > 
 > for example. "someone is lurking about the area"
 > 
-> -- that would help us not to bumb up to each other in xp areas.
+> \-- that would help us not to bumb up to each other in xp areas.
 > 
-> -- I'd like to give first-in-area-gets-to-kill-area -to all
+> \-- I'd like to give first-in-area-gets-to-kill-area -to all
 
 I have mixed feelings on this.
 
@@ -73,8 +73,8 @@ It is a thing though where I start an area, I think it's empty, and then see dea
 
 else is there. And who got there first, I have no idea. I know I don't show up on where myself.
 
-> **Belrath wrote:**
-> 2. Like I said earlier, what I feel like. EU is stupidly annoying place because of chain-bash-lag,
+> <strong>Belrath wrote:</strong>
+> 2\. Like I said earlier, what I feel like. EU is stupidly annoying place because of chain-bash-lag,
 > 
 > and entrech fails ALOT, atleast that's how I see it. So I suggest some kinda message when entrench 'offs?'
 > 
@@ -118,18 +118,18 @@ much opinion on this. It's not a big thing for me personally as Wa 2nd but perha
 
 for my char.
 
-> **Belrath wrote:**
-> 3. Could the damage impressions be increased abit? Max is now 'viciously massacres'. I dont know actually
+> <strong>Belrath wrote:</strong>
+> 3\. Could the damage impressions be increased abit? Max is now 'viciously massacres'. I dont know actually
 > 
 > where it starts but would be cool to have some more to it. Destroy...etc, you english people know better them words.
 
-How will I pretend I can hit as hard as Stun if they do this!  :lol: 
+How will I pretend I can hit as hard as Stun if they do this! <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> 
 
 I do think an extra level is needed here for damage since there's quite a range on viciously now.
 
 Plus it would be cool to see on a crit hit if you do mega damage
 
-> **Belrath wrote:**
+> <strong>Belrath wrote:</strong>
 > Ok - that's it for now. Love you Immortals for what you have done so far, awesome.
 > 
 > Slothmud community has become my other family. Love you all.
@@ -146,7 +146,7 @@ My two cents:
 
 Subjectively, I perceive a change in entrench between say, two years ago and now; a negative change. That is, my char (WaPrime) fails much, much more often than it used to. It "feels" like entrench has been nerfed.
 
-If that is the case, I'd add my vote to un-nerf it. If nothing else, when an 85% chance fails vs. no opponent more then 15% of the time (as it does now, I've crunched the numbers), something is amiss. Skill level = 85% should mean 85% success rate, certainly *at least* when there is no other mob to compare it to!
+If that is the case, I'd add my vote to un-nerf it. If nothing else, when an 85% chance fails vs. no opponent more then 15% of the time (as it does now, I've crunched the numbers), something is amiss. Skill level = 85% should mean 85% success rate, certainly <em>at least</em> when there is no other mob to compare it to!
 
 </div>
 
@@ -160,9 +160,9 @@ succeeds = 88,
 
 success rate: 85%
 
-or visually: _ was success, F was failure.
+or visually: \_ was success, F was failure.
 
-___________F__________F____F___F____________FF__FF____F_F__________FF____F____F____________F______F_____
+\_\_\_\_\_\_\_\_\_\_\_F\_\_\_\_\_\_\_\_\_\_F\_\_\_\_F\_\_\_F\_\_\_\_\_\_\_\_\_\_\_\_FF\_\_FF\_\_\_\_F\_F\_\_\_\_\_\_\_\_\_\_FF\_\_\_\_F\_\_\_\_F\_\_\_\_\_\_\_\_\_\_\_\_F\_\_\_\_\_\_F\_\_\_\_\_
 
 values seem about what I would expect on straight 85% chance of success.
 
@@ -170,7 +170,7 @@ values seem about what I would expect on straight 85% chance of success.
 
 <div class="post" data-post-id="40005" data-author="cnl" data-date="2023-01-31T20:38:30+00:00" data-subject="Re: Tiny Tiny little things">
 
-Rather interestingly I did a grep/count on my logs on this pc for all instances of fail and succeed on entrench and found that for some 3500~ entrenches I had closer to an 80% success, 20% fail rate.
+Rather interestingly I did a grep/count on my logs on this pc for all instances of fail and succeed on entrench and found that for some 3500\~ entrenches I had closer to an 80% success, 20% fail rate.
 
 This does include multiple chars some of which may not have had entrench fully learned though and also includes entrench in battle and out of battle but is rather interesting. I'll persist my new stats and see how they look when I have more of them.
 
@@ -220,40 +220,40 @@ atomize 70
 
 not sure where vicious lands in this but perhaps kept supreme at the top?
 
---D
+\--D
 
 </div>
 
 <div class="post" data-post-id="40011" data-author="Insomnia" data-date="2023-02-13T19:22:53+00:00" data-subject="Re: Tiny Tiny little things">
 
-Definitely not upper case! :)
+Definitely not upper case! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 I believe only a few characters reach the point where they start to viciously massacre. So I think just one additional message would be enough... Well, maybe two: one to let the player know, "No, you're still not at Stun's level of damage yet", and the other one to say "This was exceptionally painful", which we will normally see only for a chop, or something like Stun's critical hit against a weakened opponent.
 
 Here are some suggestions by ChatGPT:
 
-> **Quote:**
+> <strong>Quote:</strong>
 > Sure, here are some more messages for higher levels of damage:
 > 
 > 
 > 
-> 7. You annihilate your opponent with your powerful slash.
+> 7\. You annihilate your opponent with your powerful slash.
 > 
-> 8. You decimate your opponent with a devastating slash.
+> 8\. You decimate your opponent with a devastating slash.
 > 
-> 9. You obliterate your opponent with a single mighty slash.
+> 9\. You obliterate your opponent with a single mighty slash.
 > 
-> 10. You wreak havoc on your opponent with a ferocious slash.
+> 10\. You wreak havoc on your opponent with a ferocious slash.
 > 
-> 11. You crush your opponent with a brutal slash.
+> 11\. You crush your opponent with a brutal slash.
 > 
-> 12. You pulverize your opponent with a merciless slash.
+> 12\. You pulverize your opponent with a merciless slash.
 > 
-> 13. You maul your opponent with a merciless blow.
+> 13\. You maul your opponent with a merciless blow.
 > 
-> 14. You eviscerate your opponent with a savage slash.
+> 14\. You eviscerate your opponent with a savage slash.
 > 
-> 15. You decimate your opponent with a monstrous slash.
+> 15\. You decimate your opponent with a monstrous slash.
 
 </div>
 
@@ -267,9 +267,9 @@ I wasn't only thinking about player chars. Some mobs hit really really hard.
 
 Also and if i don't miss my guess Belrath is partly talking about subdividing existing damage messages below vicious into more precise stuff too.
 
-At least a little bit.  Can speak for himself though :)
+At least a little bit. Can speak for himself though <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
---D
+\--D
 
 </div>
 
@@ -303,12 +303,12 @@ Idjit wrote: "Also and if i don't miss my guess Belrath is partly talking about 
 
 The existing damage message are fine to me. I was really thinking about extending them. I dont have the data about what's the amount of damage when 'viciously massacres' starts. But just for example if it starts from 80 dam, the same message comes when mob does 150 dam with one hit. The point was to put more 'color' to these things. 
 
-Also I dont know what's the difference between 'brutally massacres' and 'viciously massacres' but I think the damage needed between them are just fine. Increasing message with same amounts up to 150 would look cool perhaps. So Not so many new messages are needed *shrug*
+Also I dont know what's the difference between 'brutally massacres' and 'viciously massacres' but I think the damage needed between them are just fine. Increasing message with same amounts up to 150 would look cool perhaps. So Not so many new messages are needed \*shrug\*
 
 </div>
 
 <div class="post" data-post-id="40017" data-author="Belrath" data-date="2023-02-21T08:23:51+00:00" data-subject="Re: Tiny Tiny little things">
 
-Also its good to hear from you Breeze. I hope you feel better soon. Always hard to hear people been having such a hard time. *hug*
+Also its good to hear from you Breeze. I hope you feel better soon. Always hard to hear people been having such a hard time. \*hug\*
 
 </div>

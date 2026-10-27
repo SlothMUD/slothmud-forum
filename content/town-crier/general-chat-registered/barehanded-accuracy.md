@@ -12,7 +12,7 @@ post_count: 4
 
 <div class="post" data-post-id="31650" data-author="jezer" data-date="2010-08-31T22:52:36+00:00" data-subject="Barehanded Accuracy">
 
-barehanded accuracy           - Lvl:  5,           Learned  85%
+barehanded accuracy - Lvl: 5, Learned 85%
 
 Thanks Chobbs, loved the learning method. Very Original! Thanks to Shyla, Templeton, Skyv and Lite for contributing.
 
@@ -34,7 +34,7 @@ Splork
 
 <div class="post" data-post-id="31652" data-author="Skyv" data-date="2010-09-01T02:09:49+00:00" data-subject="Re: Barehanded Accuracy">
 
-I'd like to echo Jezer's comments, much thanks to all involved :)
+I'd like to echo Jezer's comments, much thanks to all involved <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Skyv
 

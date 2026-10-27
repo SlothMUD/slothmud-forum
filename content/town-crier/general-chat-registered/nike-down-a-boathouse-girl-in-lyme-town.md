@@ -18,7 +18,7 @@ Down again.
 
 <div class="post" data-post-id="16404" data-author="Alberich" data-date="2007-01-20T20:58:21+00:00" data-subject="">
 
-sheesh, if you can't figure out icq, at least use the same thread as last time :P
+sheesh, if you can't figure out icq, at least use the same thread as last time <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -30,7 +30,7 @@ i know, this shit eats me up
 
 <div class="post" data-post-id="16416" data-author="Weasel" data-date="2007-01-21T02:28:14+00:00" data-subject="">
 
-*taunt*
+\*taunt\*
 
 </div>
 
@@ -54,11 +54,11 @@ Back up
 
 <div class="post" data-post-id="17185" data-author="Weasel" data-date="2007-03-06T07:54:53+00:00" data-subject="">
 
-dead at Dragon of the Moon in Tarot...  
+dead at Dragon of the Moon in Tarot... 
 
 I did a clean install of XPpro and have lost all my ICQ contacts unfortunately :/
 
-...thanks Truth and Ezekiel for the CR :)
+...thanks Truth and Ezekiel for the CR <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 neat trick - dragon managed to loot my phylactery from my arm eq but leave the arm eq behind.
 

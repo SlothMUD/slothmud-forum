@@ -22,6 +22,6 @@ short time. Should any of you run across one that suddenly appears for
 
 whatever reason, let us know where you got it. Thanks.
 
--Neptune
+\-Neptune
 
 </div>

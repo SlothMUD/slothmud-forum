@@ -27,7 +27,7 @@ Script name = Misc variables [i](or something similar)[/i]
 Code (the big box at the bottom): mysanc=mysanc or ""
 ```
 
-*(You can add definitions of additional variables into the same script each on a new line)*
+<em>(You can add definitions of additional variables into the same script each on a new line)</em>
 
 Step 2 : 
 
@@ -106,7 +106,7 @@ createstatus()
 updatestatus()
 ```
 
-*You will need to log back into the game for this to be created (or run the script from an alias)*
+<em>You will need to log back into the game for this to be created (or run the script from an alias)</em>
 
 Step 4:
 
@@ -124,7 +124,7 @@ code (big box at the bottom):
 function updatestatus()
 
 --Empty anything in the status window--
-        clearUserWindow("statuswindow") 
+ clearUserWindow("statuswindow") 
 
 --Add a Title to the top of the window--
 	echo("statuswindow"," Status Window\n")
@@ -132,17 +132,17 @@ function updatestatus()
 
 --Show Sanctuary Up in Green--
 	if mysanc=="S" then
- 		cecho("statuswindow","<green> Sanctuary Falling\n")
+ cecho("statuswindow","<green> Sanctuary Falling\n")
 	end
 --Show Sanctuary Falling in Yellow--
 	if mysanc=="SF" then
- 		cecho("statuswindow","<yellow> Sanctuary Falling\n")
+ cecho("statuswindow","<yellow> Sanctuary Falling\n")
 	end
 --Show Sanctuary Down in Red : make this a link to cast the sanctuary spell--
 	if mysanc=="N" then
-		fg("statuswindow","red")
-		echoLink("statuswindow", " cast sanctuary  \n", [[send("cast 'sanctuary'")]], "",true)
-		resetFormat("statuswindow")
+ fg("statuswindow","red")
+ echoLink("statuswindow", " cast sanctuary \n", [[send("cast 'sanctuary'")]], "",true)
+ resetFormat("statuswindow")
 	end
 
 end --function end--
@@ -156,26 +156,26 @@ Thraxas
 
 notes:
 
-1. The \n in the echo text denotes a new line.
+1\. The \\n in the echo text denotes a new line.
 
-2. in the createMiniConsole("statuswindow",750,10,150,350) the numbers here mean:
+2\. in the createMiniConsole("statuswindow",750,10,150,350) the numbers here mean:
 
-     750 and 10 position the console window across and down
+ 750 and 10 position the console window across and down
 
-     150 and 350 size the console window across and down
+ 150 and 350 size the console window across and down
 
-3. console windows can be moved using e.g. moveWindow( "statuswindow", 750, 360 )
+3\. console windows can be moved using e.g. moveWindow( "statuswindow", 750, 360 )
 
-4. console windows can be resized using e.g. resizeWindow( "statuswindow", 150, 600 )
+4\. console windows can be resized using e.g. resizeWindow( "statuswindow", 150, 600 )
 
-5. console windows can be hidden and displayed using hideWindow("statuswindow") and showWindow("statuswindow") *(I add these to buttons)*
+5\. console windows can be hidden and displayed using hideWindow("statuswindow") and showWindow("statuswindow") <em>(I add these to buttons)</em>
 
-6. Its useful to give the mysanc variable a value when you login - nothing will be displayed until it has a value by casting sanc / sanc dropping or adding e.g. mysanc = "N" to login script
+6\. Its useful to give the mysanc variable a value when you login - nothing will be displayed until it has a value by casting sanc / sanc dropping or adding e.g. mysanc = "N" to login script
 
 </div>
 
 <div class="post" data-post-id="35073" data-author="Akaya" data-date="2014-04-23T13:35:48+00:00" data-subject="Re: Step by Step Mudlet Status Window">
 
-Well done :)
+Well done <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

@@ -18,10 +18,10 @@ But hadn't pickproofed them.
 
 So there are those piles of shells all over and people were ignoring their traffic flow function by just picking the impression(s).
 
-This has been fixed to be pick proof so that the shells have a use.  As originally designed.
+This has been fixed to be pick proof so that the shells have a use. As originally designed.
 
 Thank you for your attention,
 
---D
+\--D
 
 </div>

@@ -12,7 +12,7 @@ post_count: 5
 
 <div class="post" data-post-id="35549" data-author="Magi" data-date="2014-12-07T02:28:58+00:00" data-subject="The Moors of Gr&#x27;Valdh">
 
-The Moors of Gr'Valdh pops lots of potions and random sbs from an usual list... mostly lowbie ones.  Mobs are between 50k and 10 million xp, mostly 1-2 mil.
+The Moors of Gr'Valdh pops lots of potions and random sbs from an usual list... mostly lowbie ones. Mobs are between 50k and 10 million xp, mostly 1-2 mil.
 
 There is an unconnected 'Great Tower of Gr'Valdh' zone at the north end of the zone. We can assume it will eventually be the site of another area opener.
 
@@ -30,15 +30,15 @@ Damage Dice is '3D4'
 
 Can affect you as:
 
-    Affects: HITROLL by 3
+ Affects: HITROLL by 3
 
-    Affects: REGEN_HP by 1
+ Affects: REGEN\_HP by 1
 
 Only those who are at least experienced magic users, clerics, thieves,
 
 warriors, druids, necromancers, bards, or monks may use this item.
 
-One of the dire wolves popped:  ... not sure if it was regular, mother, or alpha wolf
+One of the dire wolves popped: ... not sure if it was regular, mother, or alpha wolf
 
 Object 'grv strip wolf hide', Item type: COMPONENT
 
@@ -58,9 +58,9 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: HITROLL by 1
+ Affects: HITROLL by 1
 
-    Affects: HIDE by 1
+ Affects: HIDE by 1
 
 Only those who are at least adept thieves, warriors, bards, or monks may
 
@@ -78,52 +78,52 @@ Damage Dice is '1D8'
 
 Can affect you as:
 
-    Affects: HITROLL by -1
+ Affects: HITROLL by -1
 
-    Affects: DAMROLL by 3
+ Affects: DAMROLL by 3
 
-    Affects: HITPOINT by 5
+ Affects: HITPOINT by 5
 
 The shield of twilight, a cleric prime healbonus shield also pops in the area somewhere.
 
 a page torn from the gr'valdhic adventurer's guide popped during the area opener, on something.
 
-> **Quote:**
+> <strong>Quote:</strong>
 > There is something written upon it:
 > 
-> ****************************************************
+> \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 > 
-> ****************************************************
+> \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 > 
-> * 'Twas the seamstress, a maiden fair,            *
+> \* 'Twas the seamstress, a maiden fair, \*
 > 
-> * With sapphire eyes and golden hair,             *
+> \* With sapphire eyes and golden hair, \*
 > 
-> * Brought forth the wolves of wintery wool,       *
+> \* Brought forth the wolves of wintery wool, \*
 > 
-> * And forced it upon her splintery spool,         *
+> \* And forced it upon her splintery spool, \*
 > 
-> * There she wove from a furry mix,                *
+> \* There she wove from a furry mix, \*
 > 
-> * A robe divine, born of six,                     *
+> \* A robe divine, born of six, \*
 > 
-> * A sextet of hides splashed with red,            *
+> \* A sextet of hides splashed with red, \*
 > 
-> * But warmer than a dragon's bed.                 *
+> \* But warmer than a dragon's bed. \*
 > 
-> ****************************************************
+> \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 > 
-> ****************************************************
+> \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 > 
-> * Fr. Runc'n'vahr Entpp'lmahss,                   *
+> \* Fr. Runc'n'vahr Entpp'lmahss, \*
 > 
-> * Gr'Valdhic Minister of Religious Artifacts,     *
+> \* Gr'Valdhic Minister of Religious Artifacts, \*
 > 
-> * Year of Lord Neptune, 148.                      *
+> \* Year of Lord Neptune, 148. \*
 > 
-> ****************************************************
+> \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 > 
-> ****************************************************
+> \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 </div>
 
@@ -133,7 +133,7 @@ I've got curious on who pops a +hit leg plates in the area, so I did 3 full area
 
 Here are the results:
 
-1. the mace of twilight
+1\. the mace of twilight
 
 Object 'grv mace twilight', Item type: WEAPON
 
@@ -145,9 +145,9 @@ Damage Dice is '3D4'
 
 Can affect you as:
 
-    Affects: HITROLL by 3
+ Affects: HITROLL by 3
 
-    Affects: REGEN_HP by 1
+ Affects: REGEN\_HP by 1
 
 Only those who are at least experienced magic users, clerics, thieves,
 
@@ -155,7 +155,7 @@ warriors, druids, necromancers, bards, or monks may use this item.
 
 Pops on Uruk-Hai Berserker, a 300k mob, in the E-N part of the area.
 
-2. a pair of feathered slippers
+2\. a pair of feathered slippers
 
 Object 'grv slippers feather feathered', Item type: ARMOR
 
@@ -167,9 +167,9 @@ AC-apply is -0.3
 
 Can affect you as:
 
-    Affects: SAVING_POISON by -2
+ Affects: SAVING\_POISON by -2
 
-    Affects: KICKDAM by 5
+ Affects: KICKDAM by 5
 
 Only those who are at least experienced magic users, clerics, thieves,
 
@@ -177,7 +177,7 @@ warriors, druids, necromancers, bards, or monks may use this item.
 
 Pops on teratorn - 3-5mil? I popped it on the N-W one, but they probably both do.
 
-3. a set of gr'valdic legplates
+3\. a set of gr'valdic legplates
 
 Object 'grv leg plates grv aldic grvaldic', Item type: ARMOR
 
@@ -189,9 +189,9 @@ AC-apply is -1.0
 
 Can affect you as:
 
-    Affects: HITROLL by 1
+ Affects: HITROLL by 1
 
-    Affects: HITPOINT by 15
+ Affects: HITPOINT by 15
 
 Only those who are at least experienced thieves, warriors, bards, or monks
 
@@ -203,15 +203,15 @@ Also, I popped a strip of wolf's hide from a dire wolf. Given that eq pop was on
 
 Mobs kept popping 1-3 newbie spellbooks each, very convenient. The sbs included:
 
-- dispel good
+\- dispel good
 
-- awaken
+\- awaken
 
-- supplication
+\- supplication
 
-- elderberry
+\- elderberry
 
-- summon undead
+\- summon undead
 
 I dropped them at the BH library, so they should be there until a crash/reboot.
 
@@ -233,9 +233,9 @@ AC-apply is -0.2
 
 Can affect you as:
 
-    Affects: INT by 1
+ Affects: INT by 1
 
-    Affects: SAVING_SPELL by -1
+ Affects: SAVING\_SPELL by -1
 
 Only those who are at least experienced magic users, clerics, necromancers,
 
@@ -271,9 +271,9 @@ AC-apply is -0.3
 
 Can affect you as:
 
-    Affects: STR by 1
+ Affects: STR by 1
 
-    Affects: HEAL_BONUS by 5
+ Affects: HEAL\_BONUS by 5
 
 Only those who are at least experienced clerics or master warriors, or
 
@@ -291,17 +291,17 @@ in a traitor's stead, the Stone Table will crack, and even death
 
 itself would turn backwards.
 
---------------------------------------
+\--------------------------------------
 
-- Jadis, the White Witch, ------------
+\- Jadis, the White Witch, ------------
 
-- The Chronicles of Narnia: ----------
+\- The Chronicles of Narnia: ----------
 
-- The Lion, The Witch, and Wardrobe. -
+\- The Lion, The Witch, and Wardrobe. -
 
-- Authored by C.S Lewis, 1950 --------
+\- Authored by C.S Lewis, 1950 --------
 
---------------------------------------
+\--------------------------------------
 
 https://narnia.fandom.com/wiki/Stone_Table
 

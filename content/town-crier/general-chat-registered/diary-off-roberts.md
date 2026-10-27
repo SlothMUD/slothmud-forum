@@ -14,41 +14,41 @@ post_count: 2
 
 The 5th Day of the Month of the Spring, Year 479
 
-------------------------------------------------
+\------------------------------------------------
 
-My time is near to the end.  I feel it in the the air, i feel it in my
+My time is near to the end. I feel it in the the air, i feel it in my
 
-bones. And the sad part is that my legacy will be gone.  Will be lost.
+bones. And the sad part is that my legacy will be gone. Will be lost.
 
 You will think : "why does he think it, he has two sons, he will pass his
 
-goodies to them!".  Sadly, i can not do it.  They hate each other to the
+goodies to them!". Sadly, i can not do it. They hate each other to the
 
 core, i really think that the only thing that prevents them from killing
 
 each other is the respect (or maybe the fear, dont know) that they feel in
 
-my presence.  When i die, they will hopefully ignore each other and just go
+my presence. When i die, they will hopefully ignore each other and just go
 
-on with their lives.  If i would give them any legacy, they would just kill
+on with their lives. If i would give them any legacy, they would just kill
 
 each other.
 
-Im not proud of my sons.  Sure, they are brave warriors and brave
+Im not proud of my sons. Sure, they are brave warriors and brave
 
-adventurers, but they lack any kind of humanity.  But after all, they are
+adventurers, but they lack any kind of humanity. But after all, they are
 
-my sons, and i'll make anything i can to preserve their lives.  Even if it
+my sons, and i'll make anything i can to preserve their lives. Even if it
 
-means that my legacy will be lost and forgoten.  Not the best way to go,
+means that my legacy will be lost and forgoten. Not the best way to go,
 
 but the only way to go.
 
-Anyways, i would like that someone, some day, to find it.  Many of my men
+Anyways, i would like that someone, some day, to find it. Many of my men
 
 (including the huge Ochoba Sixfingers, hell, how i miss him) die when we
 
-finally made the final assault to the King Brandor vault.  Just to honor
+finally made the final assault to the King Brandor vault. Just to honor
 
 their memory, I wrote down all the pieces of the puzzle, so if any
 
@@ -60,7 +60,7 @@ finding it by accident, but well, it will be possible.
 
 I have split the route to the place where i did hide the treasure in six
 
-parts, and left every one in the lair of a formidable creature.  This will
+parts, and left every one in the lair of a formidable creature. This will
 
 be my deal : if you think that you are brave enough to gather all them and
 
@@ -68,7 +68,7 @@ you survive to it, you will be able to get the biggest treasure that a
 
 pirate could ever dream with.
 
-My time is near to the end.  I hope that someone will remember me.
+My time is near to the end. I hope that someone will remember me.
 
 Redbeard
 

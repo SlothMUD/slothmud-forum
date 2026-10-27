@@ -22,7 +22,7 @@ Celestial or crystal bracelet
 
 Catch me on game.
 
-Or m_kacar2002@yahoo.com
+Or m\_kacar2002@yahoo.com
 
 send a mail...
 
@@ -66,7 +66,7 @@ Thanks you for your help.
 
 <div class="post" data-post-id="2399" data-author="wampire" data-date="2004-10-21T14:26:39+00:00" data-subject="">
 
-*iridescent exactly.
+\*iridescent exactly.
 
 </div>
 
@@ -82,7 +82,7 @@ one of -0.4 a.c bracelets
 
 Darkened robe of mysteries
 
--1.2 a.c. helm with some stats:
+\-1.2 a.c. helm with some stats:
 
 black mask,helm of earth power,Open-Faced Steel Helm or pith helmet/maybe one of these)
 

@@ -14,9 +14,9 @@ post_count: 2
 
 Ok, I'm a newbie...
 
-Looking down the EQ list I keep tripping over this Quest Weekly thing...  I've been here forever and I don't know what this means.  Could some kind, generous, knowledgable person please fill me in on what this means and how I might go about completing one?
+Looking down the EQ list I keep tripping over this Quest Weekly thing... I've been here forever and I don't know what this means. Could some kind, generous, knowledgable person please fill me in on what this means and how I might go about completing one?
 
-Specificly, I was looking at the Shattered Bone Shoulder Guards.  Be nice to get myself a pair, though I don't know how to go about this... or for that matter, that they won't disappear after my week is up. (Holy Eq disappears, so I guess a quest item could as well).
+Specificly, I was looking at the Shattered Bone Shoulder Guards. Be nice to get myself a pair, though I don't know how to go about this... or for that matter, that they won't disappear after my week is up. (Holy Eq disappears, so I guess a quest item could as well).
 
 Any info is appreciated.
 

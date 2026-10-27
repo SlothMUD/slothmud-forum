@@ -30,19 +30,23 @@ Maybe two stupid things...but it could be fun....
 
 <div class="post" data-post-id="5132" data-author="Vixn" data-date="2005-03-17T10:02:05+00:00" data-subject="Re: Gambling and arena?">
 
-Hi!
-
-A fun thing I think should be added are gambling-areas where you could
-
-gamble for money or maybe even equipment? /Achazia[/quote:2x4h9fiz]
+> <strong>achazia wrote:</strong>
+> Hi!
+> 
+> 
+> 
+> A fun thing I think should be added are gambling-areas where you could
+> 
+> gamble for money or maybe even equipment? /Achazia
 
 Have you ever been at Clipper? There were some sort of casino..
 
- And another thing...Arenas where you can fight monster getting tougher and tougher and the higher you reach the better money or equipment
+> <strong>achazia wrote:</strong>
+> And another thing...Arenas where you can fight monster getting tougher and tougher and the higher you reach the better money or equipment
+> 
+> /Achazia
 
-/Achazia[/quote:2x4h9fiz]
-
-Looks like Sloth3 itself :)
+Looks like Sloth3 itself <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Dont you fight mobs and pop eq? Try, it's fun.
 
@@ -50,11 +54,11 @@ Dont you fight mobs and pop eq? Try, it's fun.
 
 <div class="post" data-post-id="5140" data-author="Leaf" data-date="2005-03-17T12:18:30+00:00" data-subject="">
 
-I believe he is talking about a Columsim (I can't spell).  Were you place like
+I believe he is talking about a Columsim (I can't spell). Were you place like
 
-1 million coins on urself, and if you beat the mob u might get 2mil.  Of course
+1 million coins on urself, and if you beat the mob u might get 2mil. Of course
 
-the more u "bet" the harder the mob becomes.  Betting 1 coin, u can fight a
+the more u "bet" the harder the mob becomes. Betting 1 coin, u can fight a
 
 kobold, 10coins maybe a BH citizen, etc....
 
@@ -62,9 +66,9 @@ kobold, 10coins maybe a BH citizen, etc....
 
 <div class="post" data-post-id="5141" data-author="12345" data-date="2005-03-17T12:22:37+00:00" data-subject="">
 
-Laugh.  The dump in BH has a room proc that creates a citizen every time you enter the room.  He's got 1000 coins on him.  Turn on autoloot, attack the citizen, grab his 1000 coins.  Go east, back west, another citizen appears.  Rinse, lather, repeat.
+Laugh. The dump in BH has a room proc that creates a citizen every time you enter the room. He's got 1000 coins on him. Turn on autoloot, attack the citizen, grab his 1000 coins. Go east, back west, another citizen appears. Rinse, lather, repeat.
 
-Not quite an arena, but 1000 coins for a citizen is a lot better than 10 and you can create them on demand and indefinately.  Good way to get coins to spend in the shops at low levels.  :)
+Not quite an arena, but 1000 coins for a citizen is a lot better than 10 and you can create them on demand and indefinately. Good way to get coins to spend in the shops at low levels. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -80,7 +84,7 @@ You receive;e;w;kill citizen;
 
 <div class="post" data-post-id="5143" data-author="12345" data-date="2005-03-17T12:36:23+00:00" data-subject="">
 
-At even slightly higher levels there are much better places to make either gold or xp.  The script isn't hard to build but the risks are fairly high cause if you die, you are at the dump.  Your corpse, equipment and all the coins you've made will be destroyed when they hit the ground.
+At even slightly higher levels there are much better places to make either gold or xp. The script isn't hard to build but the risks are fairly high cause if you die, you are at the dump. Your corpse, equipment and all the coins you've made will be destroyed when they hit the ground.
 
 I couldn't think of a more arena setting if I tried.
 

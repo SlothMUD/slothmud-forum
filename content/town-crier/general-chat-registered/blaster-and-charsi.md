@@ -20,6 +20,6 @@ Blaster and Charsi
 
 <div class="post" data-post-id="9303" data-author="dt" data-date="2005-10-29T10:13:45+00:00" data-subject="I Blame Blaster">
 
-Yep :twisted:
+Yep <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

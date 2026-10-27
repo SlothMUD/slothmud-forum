@@ -12,7 +12,7 @@ post_count: 9
 
 <div class="post" data-post-id="25247" data-author="Leaf" data-date="2008-07-01T15:36:54+00:00" data-subject="OOO MY!!!">
 
-Sa isn't on the Top 20 for exp at all this week!  Hell must of frozen over!
+Sa isn't on the Top 20 for exp at all this week! Hell must of frozen over!
 
 </div>
 
@@ -26,7 +26,7 @@ When I was last on, some of my clannies, said something about Sa not having the 
 
 <div class="post" data-post-id="25254" data-author="Yinao" data-date="2008-07-02T00:45:31+00:00" data-subject="">
 
-Heh, he went home to Malaysia and has terrible link so there for is unable to play... he'll be back in about a month or so he said when he leaves again :)
+Heh, he went home to Malaysia and has terrible link so there for is unable to play... he'll be back in about a month or so he said when he leaves again <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -50,7 +50,7 @@ Aussie women not diggin ya?
 
 <div class="post" data-post-id="25272" data-author="angel" data-date="2008-07-04T17:25:30+00:00" data-subject="">
 
-hehe, mayb i just prefer the normal malaysian girls somehow :)
+hehe, mayb i just prefer the normal malaysian girls somehow <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 still is nice to be away from tha mud for sometime. hows it going in there niways?
 
@@ -58,7 +58,7 @@ still is nice to be away from tha mud for sometime. hows it going in there niway
 
 <div class="post" data-post-id="25274" data-author="Yasik2" data-date="2008-07-05T10:52:44+00:00" data-subject="">
 
-[img:2rcd09rc][http://yasik.kiev.ua/BlackMetalBeavisButthead.jpg](http://yasik.kiev.ua/BlackMetalBeavisButthead.jpg)[/img:2rcd09rc]
+(image: /[url=http://yasik.kiev.ua/BlackMetalBeavisButthead.jpg]http://yasik.kiev.ua/BlackMetalBeavisButthead.jpg[/url])
 
 [http://youtube.com/watch?v=S3bfNe9i31g](http://youtube.com/watch?v=S3bfNe9i31g)
 

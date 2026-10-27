@@ -14,11 +14,11 @@ post_count: 5
 
 All information gathered during sleep east of the lyme innkeeper(outdoors), no specials.
 
-1) Regen mode
+1\) Regen mode
 
-Hung The Deadly Mantis  (level: 40)
+Hung The Deadly Mantis (level: 40)
 
-Your levels:  Mo: 40 Cl: 40 Ne: 40 Dr: 27 Ma: 22 Wa: 17 Ba: 12 Th: 10 
+Your levels: Mo: 40 Cl: 40 Ne: 40 Dr: 27 Ma: 22 Wa: 17 Ba: 12 Th: 10 
 
 You are 24 years, 12 months, 7 days old.
 
@@ -58,69 +58,69 @@ Your song can affect as many as two people.
 
 You are affected by the following spells:
 
-   Detect Evil                      
+ Detect Evil 
 
-   Detect Good                      
+ Detect Good 
 
-   Detect Invisible                 
+ Detect Invisible 
 
-   Infravision                      
+ Infravision 
 
-   Darksight                        
+ Darksight 
 
-   Bone Armor                       
+ Bone Armor 
 
-   Fly                              
+ Fly 
 
-   Water Breathing
+ Water Breathing
 
 You are using:
 
-<used as light>      eye of the deep (with a flawed glowing gem attached to it)
+\<used as light\> eye of the deep (with a flawed glowing gem attached to it)
 
-<worn on finger>     a carved wooden ring..It has a soft glowing aura!
+\<worn on finger\> a carved wooden ring..It has a soft glowing aura!
 
-<worn on finger>     a carved wooden ring..It has a soft glowing aura!
+\<worn on finger\> a carved wooden ring..It has a soft glowing aura!
 
-<worn around neck>   the amulet of the sanguineous magi..It has a soft glowing aura!
+\<worn around neck\> the amulet of the sanguineous magi..It has a soft glowing aura!
 
-<worn around neck>   the amulet of the sanguineous magi..It has a soft glowing aura!
+\<worn around neck\> the amulet of the sanguineous magi..It has a soft glowing aura!
 
-<worn on body>       a gilded corset of crimson and gold (with the crest of the scaled warrior 
+\<worn on body\> a gilded corset of crimson and gold (with the crest of the scaled warrior 
 
 attached to it)
 
-<worn on head>       The Crown of Thorns (with a reddish-colored glass eye attached to it)
+\<worn on head\> The Crown of Thorns (with a reddish-colored glass eye attached to it)
 
-<worn on legs>       Ogre Hide Leggings..It has a soft glowing aura!
+\<worn on legs\> Ogre Hide Leggings..It has a soft glowing aura!
 
-<worn on feet>       a pair of dolphin skin boots
+\<worn on feet\> a pair of dolphin skin boots
 
-<worn on hands>      gloves of swirling mist
+\<worn on hands\> gloves of swirling mist
 
-<worn on arms>       a set of tidal sleeves..It emits a faint humming sound!
+\<worn on arms\> a set of tidal sleeves..It emits a faint humming sound!
 
-<worn as shield>     an intricately decorated shield..It has a soft glowing aura!
+\<worn as shield\> an intricately decorated shield..It has a soft glowing aura!
 
-<worn about body>    a dragonwing tunic
+\<worn about body\> a dragonwing tunic
 
-<worn about waist>   a golden belt
+\<worn about waist\> a golden belt
 
-<worn around wrist>  tanzanite bracelet..It has a soft glowing aura!
+\<worn around wrist\> tanzanite bracelet..It has a soft glowing aura!
 
-<worn around wrist>  tanzanite bracelet..It has a soft glowing aura!
+\<worn around wrist\> tanzanite bracelet..It has a soft glowing aura!
 
-<wielded>            a secari dagger
+\<wielded\> a secari dagger
 
-<held>               a moss-covered pebble
+\<held\> a moss-covered pebble
 
 NOTE: Manaregen is 71 indoors.
 
-2) Solo mode
+2\) Solo mode
 
-Hung The Deadly Mantis  (level: 40)
+Hung The Deadly Mantis (level: 40)
 
-Your levels:  Mo: 40 Cl: 40 Ne: 40 Dr: 27 Ma: 22 Wa: 17 Ba: 12 Th: 10 
+Your levels: Mo: 40 Cl: 40 Ne: 40 Dr: 27 Ma: 22 Wa: 17 Ba: 12 Th: 10 
 
 You are 22 years, 12 months, 8 days old.
 
@@ -160,63 +160,63 @@ Your song can affect as many as two people.
 
 You are affected by the following spells:
 
-   Detect Evil                      
+ Detect Evil 
 
-   Detect Good                      
+ Detect Good 
 
-   Detect Invisible                 
+ Detect Invisible 
 
-   Infravision                      
+ Infravision 
 
-   Darksight                        
+ Darksight 
 
-   Resist Fire                      
+ Resist Fire 
 
-   Resist Cold                      
+ Resist Cold 
 
-   Bone Armor                       
+ Bone Armor 
 
-   Fly                              
+ Fly 
 
 You are using:
 
-<used as light>      a star shaped crystal..It emits a faint humming sound!
+\<used as light\> a star shaped crystal..It emits a faint humming sound!
 
-<worn on finger>     a skull ring with bloodstone eyes..It has a soft glowing aura!
+\<worn on finger\> a skull ring with bloodstone eyes..It has a soft glowing aura!
 
-<worn on finger>     a skull ring with bloodstone eyes..It has a soft glowing aura!
+\<worn on finger\> a skull ring with bloodstone eyes..It has a soft glowing aura!
 
-<worn on shoulders>  the guards of the emerald tide (with a red minidemon brooch attached to it)
+\<worn on shoulders\> the guards of the emerald tide (with a red minidemon brooch attached to it)
 
-<worn around neck>   a patched black cloak (with a purple minidemon brooch attached to it)
+\<worn around neck\> a patched black cloak (with a purple minidemon brooch attached to it)
 
-<worn on body>       a spiked battle tunic (with a pretty little bow attached to it)
+\<worn on body\> a spiked battle tunic (with a pretty little bow attached to it)
 
-<worn on head>       The Crown of Thorns (with a reddish-colored glass eye attached to it)
+\<worn on head\> The Crown of Thorns (with a reddish-colored glass eye attached to it)
 
-<worn on legs>       flaming greaves..It has a soft glowing aura!
+\<worn on legs\> flaming greaves..It has a soft glowing aura!
 
-<worn on feet>       old viking boots
+\<worn on feet\> old viking boots
 
-<worn on hands>      gloves of the yellow rose..It emits a faint humming sound!
+\<worn on hands\> gloves of the yellow rose..It emits a faint humming sound!
 
-<worn on arms>       sleeves of black ice..It has a soft glowing aura!
+\<worn on arms\> sleeves of black ice..It has a soft glowing aura!
 
-<worn as shield>     the shield of the ram..It has a soft glowing aura!
+\<worn as shield\> the shield of the ram..It has a soft glowing aura!
 
-<worn about body>    robes of the old order
+\<worn about body\> robes of the old order
 
-<worn about waist>   an ebony sash
+\<worn about waist\> an ebony sash
 
-<worn around wrist>  an onyx bracelet
+\<worn around wrist\> an onyx bracelet
 
-<worn around wrist>  an ashen bracelet
+\<worn around wrist\> an ashen bracelet
 
-<held>               a mu-jen doll
+\<held\> a mu-jen doll
 
 NOTE: I've lost my honor sash somewhere long ago. Hung's rank is sergeant.
 
-3) Inventory
+3\) Inventory
 
 You are carrying:
 
@@ -224,7 +224,7 @@ a golden sack
 
 a cast iron vault key owned owned by Hung...It emits a faint humming sound!
 
-an explorer`s backpack
+an explorer\`s backpack
 
 a keg of icybrau
 
@@ -296,13 +296,13 @@ NOTE: There's -2.3 body armor(adamantite) and -1.1 shield(turtle shell), if you 
 
 ANOTHER NOTE: Also there are undead control items for 9 UC overally
 
-4) Other.
+4\) Other.
 
 Also this character comes with the vault at the AH and 2 keys to it.
 
-5) Drachma.
+5\) Drachma.
 
-Unfortunately, I've missed some aqs on valk(about ~30dr) and never visited Coliseum with this char (maybe another lost ~100 dr). Full list of completed aqs is available on request. No drachma items have been bought yet.
+Unfortunately, I've missed some aqs on valk(about \~30dr) and never visited Coliseum with this char (maybe another lost \~100 dr). Full list of completed aqs is available on request. No drachma items have been bought yet.
 
 Starting price: 40m
 

@@ -12,15 +12,15 @@ post_count: 55
 
 <div class="post" data-post-id="31899" data-author="Teron" data-date="2010-10-21T18:14:24+00:00" data-subject="Necro pet (Liches) bugs">
 
-1) When liches cast curse, they don't take into account, if the mob is already cursed.
+1\) When liches cast curse, they don't take into account, if the mob is already cursed.
 
-2) When liches cast curse, they do it repeatedly, regardless if they have cast it already. (Haven't liches cast weaken for me.)
+2\) When liches cast curse, they do it repeatedly, regardless if they have cast it already. (Haven't liches cast weaken for me.)
 
-3) Liches attempt to demon bind high-level mobs repeatedly.
+3\) Liches attempt to demon bind high-level mobs repeatedly.
 
-4) Liches demon bind mobs that didn't phase on me.
+4\) Liches demon bind mobs that didn't phase on me.
 
-5) Liches don't immediately use their mana. This is pretty uncomfortable, considering they are weaker, than other pets, they don't use their abilities well this way and it's best to kill the mob, rather than attempt to hit him (liches have noticeably lower hitroll, than wights or wraiths.).
+5\) Liches don't immediately use their mana. This is pretty uncomfortable, considering they are weaker, than other pets, they don't use their abilities well this way and it's best to kill the mob, rather than attempt to hit him (liches have noticeably lower hitroll, than wights or wraiths.).
 
 All of this makes them much worse, than the much easier available wraiths or even wights. I thought that pets should be better with levels (comparing wights to liches now).
 
@@ -28,11 +28,11 @@ You might say that liches blast and I need to use them for specific mobs - well 
 
 I suggest the following to improve 4-5:
 
-- allow necros to set the casting direction of a pet by selecting a pre-set guideline: order lich cast mage, order lich cast nomage
+\- allow necros to set the casting direction of a pet by selecting a pre-set guideline: order lich cast mage, order lich cast nomage
 
-- allow necros to select specific spells for each mob: order lich cast destruction, order 2.lich cast curse/weaken/arms of the abyss/destruction
+\- allow necros to select specific spells for each mob: order lich cast destruction, order 2.lich cast curse/weaken/arms of the abyss/destruction
 
-- allow necros create their own presets:
+\- allow necros create their own presets:
 
 create preset mageone demon bind, destruction
 
@@ -58,7 +58,7 @@ Thank you.
 
 by the time u get through order 1. order 2. order 3.
 
-you're probably dead :D
+you're probably dead <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -92,21 +92,21 @@ For example, wights already proc well and only one of them procs the poison once
 
 Example:
 
-1. The 1-4 bugs are fixed:
+1\. The 1-4 bugs are fixed:
 
-- liches debuff the mob randomly (one lich casts curse, another bind, another weaken/arms)
+\- liches debuff the mob randomly (one lich casts curse, another bind, another weaken/arms)
 
-- liches proceed with blasting the mob
+\- liches proceed with blasting the mob
 
-2. With presets:
+2\. With presets:
 
-- 1-2 liches debuff the mob, if there are more, they start blasting
+\- 1-2 liches debuff the mob, if there are more, they start blasting
 
-- liches proceed with blasting
+\- liches proceed with blasting
 
 Another variant:
 
-- liches start blasting immediately
+\- liches start blasting immediately
 
 The only difference is the speed of blasting, which does make the mobs use their potential, but not really overpowered.
 
@@ -150,7 +150,7 @@ I would see liches in the same way that I would see many many of the mage/cleric
 
 It soon becomes apparent that by and large wraiths and wights are the best pets to use in most circumstances, there are exceptions especially when you start working out how best necro pets can mix with supplications, this makes banshee and vilewight viable. I would favour 3 wights over 2 vilewights most days.
 
-Personally I dont want to worry about setting pets up or passing them additional orders, I would much rather summon&spell them then order them into the fight and let them get on with it. Any additional work I would need to do to manage them should be met by equal increase in power they provide. 
+Personally I dont want to worry about setting pets up or passing them additional orders, I would much rather summon\&spell them then order them into the fight and let them get on with it. Any additional work I would need to do to manage them should be met by equal increase in power they provide. 
 
 While I would be very happy to see pets rationalised to see a gradual increase in available power through necro levels stepping up every time a new pet was available, this would not only make a lot of sense but would improve the richness of the game and therefore my enjoyment. I dont however see this as anything like a burning issue, I prefer to just shrug and accept that some pets are there just for decoration.
 
@@ -168,18 +168,18 @@ Now I learn that I don't need to anticipate anything at 5x40 necro as well: what
 
 I rather side with this point of view:
 
-> **Quote:**
+> <strong>Quote:</strong>
 > While I would be very happy to see pets rationalised to see a gradual increase in available power through necro levels stepping up every time a new pet was available, this would not only make a lot of sense but would improve the richness of the game and therefore my enjoyment.
 
 I've seen a number of things that could be improved with necro and this is the major one, in my opinion. So if imms aren't working on making the whole animate dead set improve gradually, such as
 
-- slightly improving the vampires (they are too low hps and dam to be worth finding larger corpses and animating them at night, despite their useful proc that's supposed to prolong the runs - but it doesn't, because they die anyway)
+\- slightly improving the vampires (they are too low hps and dam to be worth finding larger corpses and animating them at night, despite their useful proc that's supposed to prolong the runs - but it doesn't, because they die anyway)
 
-- making other animated pets useful, as mentioned by you and including the whole animate/summon set
+\- making other animated pets useful, as mentioned by you and including the whole animate/summon set
 
-- reducing the amount of wight slots the imp takes to 1, since it does much less damage and heals only after fight
+\- reducing the amount of wight slots the imp takes to 1, since it does much less damage and heals only after fight
 
-- reducing the random bonus, where uc gear effect is negligible (i.e., the random hp effect overcomes the UC gear effect)
+\- reducing the random bonus, where uc gear effect is negligible (i.e., the random hp effect overcomes the UC gear effect)
 
 then they might as well start with the liches and work from there.
 
@@ -193,7 +193,7 @@ For those, who doubt that liches don't blast, especially on ether mobs, have fee
 
 Mug reaches out with his spiritual hands, gripping the ghostly Weaponsmaster!
 
-<900hp 415ma 204mv> 317762252, -10, -9.7+0
+\<900hp 415ma 204mv\> 317762252, -10, -9.7+0
 
 cast 'curse' weap
 
@@ -201,7 +201,7 @@ You stop singing.
 
 You lost your concentration!
 
-<900hp 406ma 205mv> 317762252, -10, -9.7+0
+\<900hp 406ma 205mv\> 317762252, -10, -9.7+0
 
 The ghostly Weaponsmaster brutally massacres Mug with his hit.
 
@@ -219,7 +219,7 @@ You miss the ghostly Weaponsmaster with your pound.
 
 You report 839/900 hp. Change: -60. Need: 61. Spells: fluidity, wall of flesh.
 
-<839hp 407ma 206mv> 317762952, -10, -9.7+700
+\<839hp 407ma 206mv\> 317762952, -10, -9.7+700
 
 rescue mug
 
@@ -229,11 +229,11 @@ Mug maintains his wraithtouch on the ghostly Weaponsmaster.
 
 Banzai! To the rescue...
 
-<843hp 408ma 207mv> 317762952, -10, -9.7+0
+\<843hp 408ma 207mv\> 317762952, -10, -9.7+0
 
 But nobody is fighting him?
 
-<843hp 408ma 207mv> 317762952, -10, -9.7+0
+\<843hp 408ma 207mv\> 317762952, -10, -9.7+0
 
 order undead kill weap
 
@@ -241,7 +241,7 @@ A lich's zap passes right through the ghostly Weaponsmaster!
 
 A lich's zap passes right through the ghostly Weaponsmaster!
 
-<846hp 409ma 209mv> 317762952, -10, -9.7+0
+\<846hp 409ma 209mv\> 317762952, -10, -9.7+0
 
 You miss the ghostly Weaponsmaster with your pound.
 
@@ -265,15 +265,15 @@ You pound the ghostly Weaponsmaster very hard.
 
 You report 762/900 hp. Change: -77. Need: 138. Spells: wall of flesh, fluidity.
 
-<762hp 409ma 209mv> 317765138, -10, -9.7+2186
+\<762hp 409ma 209mv\> 317765138, -10, -9.7+2186
 
 Mug maintains his wraithtouch on the ghostly Weaponsmaster.
 
-<766hp 410ma 210mv> 317765138, -10, -9.7+0
+\<766hp 410ma 210mv\> 317765138, -10, -9.7+0
 
 Mug utters the words, 'diesilla barh'
 
-<766hp 410ma 210mv> 317765138, -10, -9.7+0
+\<766hp 410ma 210mv\> 317765138, -10, -9.7+0
 
 You pound the ghostly Weaponsmaster very hard.
 
@@ -295,35 +295,35 @@ You pound the ghostly Weaponsmaster extremely hard.
 
 You report 685/900 hp. Change: -77. Need: 215. Spells: wall of flesh, fluidity.
 
-<685hp 412ma 212mv> 317767010, -10, -9.7+1872
+\<685hp 412ma 212mv\> 317767010, -10, -9.7+1872
 
 l weap
 
 Mug utters the words, 'qahijf gsfal'
 
-<685hp 412ma 212mv> 317767010, -10, -9.7+0
+\<685hp 412ma 212mv\> 317767010, -10, -9.7+0
 
 Mug maintains his wraithtouch on the ghostly Weaponsmaster.
 
-<686hp 412ma 213mv> 317767010, -10, -9.7+0
+\<686hp 412ma 213mv\> 317767010, -10, -9.7+0
 
-cast 'restorat'  Taron
+cast 'restorat' Taron
 
 The song ends, and you feel less camaraderie with your party.
 
-<689hp 414ma 214mv> 317767010, -10, -9.7+0
+\<689hp 414ma 214mv\> 317767010, -10, -9.7+0
 
 Mug utters the words, 'qahijf gsfal'
 
-<689hp 414ma 214mv> 317767010, -10, -9.7+0
+\<689hp 414ma 214mv\> 317767010, -10, -9.7+0
 
 This battled scarred veteran appears to have lost the really 
 
-important battle, the one that killed him.  Now he can but 
+important battle, the one that killed him. Now he can but 
 
 remember his days of glory, when his scars were ones of victory
 
-and not of defeat.  He doesn't look very happy and being looked
+and not of defeat. He doesn't look very happy and being looked
 
 at seems to have irritated him.
 
@@ -333,7 +333,7 @@ You attempt to peek at the inventory:
 
 You can't see anything.
 
-<691hp 414ma 215mv> 317767010, -10, -9.7+0
+\<691hp 414ma 215mv\> 317767010, -10, -9.7+0
 
 Ok.
 
@@ -341,7 +341,7 @@ The cleansing fires of healing fill your body!
 
 You report 882/900 hp. Change: +197. Need: 18. Spells: fluidity, wall of flesh.
 
-<882hp 352ma 215mv> 317774650, -9, -9.7You miss the ghostly Weaponsmaster with your pound.
+\<882hp 352ma 215mv\> 317774650, -9, -9.7You miss the ghostly Weaponsmaster with your pound.
 
 A lich's zap passes right through the ghostly Weaponsmaster!
 
@@ -363,25 +363,25 @@ You pound the ghostly Weaponsmaster extremely hard.
 
 You report 606/900 hp. Change: -276. Need: 294. Spells: fluidity, wall of flesh.
 
-<606hp 352ma 215mv> 317775698, -9, -9.7+8688
+\<606hp 352ma 215mv\> 317775698, -9, -9.7+8688
 
 Mug maintains his wraithtouch on the ghostly Weaponsmaster.
 
 Mug releases his grip on the ghostly Weaponsmaster.
 
-<607hp 353ma 216mv> 317775698, -9, -9.7+0
+\<607hp 353ma 216mv\> 317775698, -9, -9.7+0
 
-cast 'restorat'  Taron
+cast 'restorat' Taron
 
 You lost your concentration!
 
-<610hp 323ma 217mv> 317775698, -9, -9.7+0
+\<610hp 323ma 217mv\> 317775698, -9, -9.7+0
 
-cast 'restorat'  Taron
+cast 'restorat' Taron
 
 Mug utters the words, 'qahijf gsfal'
 
-<611hp 323ma 218mv> 317775698, -9, -9.7+0
+\<611hp 323ma 218mv\> 317775698, -9, -9.7+0
 
 @@
 
@@ -407,7 +407,7 @@ You pound the ghostly Weaponsmaster extremely hard.
 
 You report 340/900 hp. Change: -266. Need: 560. Spells: wall of flesh, fluidity.
 
-<340hp 324ma 219mv> 317777550, -9, -9.7+1852
+\<340hp 324ma 219mv\> 317777550, -9, -9.7+1852
 
 With a mighty effort, you shake off your exhaustion!
 
@@ -417,15 +417,15 @@ The cleansing fires of healing fill your body!
 
 You report 528/900 hp. Change: +188. Need: 372. Spells: fluidity, wall of flesh.
 
-<528hp 262ma 179mv> 317785070, -9, -9.7+7520
+\<528hp 262ma 179mv\> 317785070, -9, -9.7+7520
 
-cast 'restorat'  Taron
+cast 'restorat' Taron
 
 You are thirsty.
 
-<533hp 264ma 181mv> 317785070, -9, -9.7+0
+\<533hp 264ma 181mv\> 317785070, -9, -9.7+0
 
-<533hp 264ma 181mv> 317785070, -9, -9.7+0
+\<533hp 264ma 181mv\> 317785070, -9, -9.7+0
 
 Ok.
 
@@ -433,7 +433,7 @@ The cleansing fires of healing fill your body!
 
 You report 728/900 hp. Change: +200. Need: 172. Spells: wall of flesh, fluidity.
 
-<728hp 202ma 181mv> 317792870, -9, -9.7+7800
+\<728hp 202ma 181mv\> 317792870, -9, -9.7+7800
 
 You miss the ghostly Weaponsmaster with your pound.
 
@@ -461,7 +461,7 @@ The ghostly Weaponsmaster briefly reveals a red aura!
 
 You report 653/900 hp. Change: -75. Need: 247. Spells: wall of flesh, fluidity.
 
-<653hp 202ma 181mv> 317794534, -9, -9.7+1664
+\<653hp 202ma 181mv\> 317794534, -9, -9.7+1664
 
 TICK IN 10 SECONDS.
 
@@ -471,15 +471,15 @@ Animates are up for 4 ticks!
 
 Mug looks at the ghostly Weaponsmaster.
 
-<654hp 202ma 181mv> 317794534, -9, -9.7+0
+\<654hp 202ma 181mv\> 317794534, -9, -9.7+0
 
-cast 'restorat'  Taron
+cast 'restorat' Taron
 
 Saving Taron.
 
 Saving items.
 
-<654hp 202ma 181mv> 317794534, -9, -9.7+0
+\<654hp 202ma 181mv\> 317794534, -9, -9.7+0
 
 cast 'destruction'
 
@@ -489,11 +489,11 @@ The cleansing fires of healing fill your body!
 
 You report 859/900 hp. Change: +206. Need: 41. Spells: wall of flesh, fluidity.
 
-<859hp 140ma 181mv> 317802694, -9, -9.7+8160
+\<859hp 140ma 181mv\> 317802694, -9, -9.7+8160
 
 Mug -- 'nope'
 
-<860hp 140ma 182mv> 317802694, -9, -9.7+0
+\<860hp 140ma 182mv\> 317802694, -9, -9.7+0
 
 You miss the ghostly Weaponsmaster with your pound.
 
@@ -525,27 +525,27 @@ You pound the ghostly Weaponsmaster very hard.
 
 You report 776/900 hp. Change: -83. Need: 124. Spells: fluidity, wall of flesh.
 
-<776hp 140ma 182mv> 317802802, -9, -9.7+108
+\<776hp 140ma 182mv\> 317802802, -9, -9.7+108
 
 Ok.
 
 A piece of the ghostly Weaponsmaster is blasted away.
 
-<777hp 121ma 182mv> 317810040, -9, -9.7+7238
+\<777hp 121ma 182mv\> 317810040, -9, -9.7+7238
 
 Mug looks at the ghostly Weaponsmaster.
 
-<778hp 121ma 182mv> 317810040, -9, -9.7+0
+\<778hp 121ma 182mv\> 317810040, -9, -9.7+0
 
 l weap
 
 This battled scarred veteran appears to have lost the really 
 
-important battle, the one that killed him.  Now he can but 
+important battle, the one that killed him. Now he can but 
 
 remember his days of glory, when his scars were ones of victory
 
-and not of defeat.  He doesn't look very happy and being looked
+and not of defeat. He doesn't look very happy and being looked
 
 at seems to have irritated him.
 
@@ -555,7 +555,7 @@ You attempt to peek at the inventory:
 
 You can't see anything.
 
-<778hp 121ma 183mv> 317810040, -9, -9.7+0
+\<778hp 121ma 183mv\> 317810040, -9, -9.7+0
 
 You miss the ghostly Weaponsmaster with your pound.
 
@@ -575,15 +575,15 @@ You pound the ghostly Weaponsmaster extremely hard.
 
 You report 505/900 hp. Change: -271. Need: 395. Spells: fluidity, wall of flesh.
 
-<505hp 121ma 183mv> 317811923, -9, -9.7+1883
+\<505hp 121ma 183mv\> 317811923, -9, -9.7+1883
 
 gt hehe
 
 You grouptell: 'hehe'
 
-<505hp 121ma 183mv> 317811923, -9, -9.7+0
+\<505hp 121ma 183mv\> 317811923, -9, -9.7+0
 
-cast 'restorat'  Taron
+cast 'restorat' Taron
 
 Ok.
 
@@ -591,11 +591,11 @@ The cleansing fires of healing fill your body!
 
 You report 706/900 hp. Change: +201. Need: 194. Spells: wall of flesh, fluidity.
 
-<706hp 59ma 183mv> 317819923, -9, -9.7+8000
+\<706hp 59ma 183mv\> 317819923, -9, -9.7+8000
 
 Mug utters the words, 'diesilla barh'
 
-<706hp 60ma 183mv> 317819923, -9, -9.7+0
+\<706hp 60ma 183mv\> 317819923, -9, -9.7+0
 
 You pound the ghostly Weaponsmaster extremely hard.
 
@@ -617,27 +617,27 @@ A lich utters the words, 'judifgz'
 
 You report 554/900 hp. Change: -152. Need: 346. Spells: fluidity, wall of flesh.
 
-<554hp 60ma 184mv> 317820805, -9, -9.7+882
+\<554hp 60ma 184mv\> 317820805, -9, -9.7+882
 
-cast 'restorat'  Taron
+cast 'restorat' Taron
 
 Mug looks at the ghostly Weaponsmaster.
 
-<555hp 60ma 184mv> 317820805, -9, -9.7+0
+\<555hp 60ma 184mv\> 317820805, -9, -9.7+0
 
 You can't summon enough energy to cast the spell.
 
-<555hp 60ma 184mv> 317820805, -9, -9.7+0
+\<555hp 60ma 184mv\> 317820805, -9, -9.7+0
 
 l weap
 
 This battled scarred veteran appears to have lost the really 
 
-important battle, the one that killed him.  Now he can but 
+important battle, the one that killed him. Now he can but 
 
 remember his days of glory, when his scars were ones of victory
 
-and not of defeat.  He doesn't look very happy and being looked
+and not of defeat. He doesn't look very happy and being looked
 
 at seems to have irritated him.
 
@@ -647,7 +647,7 @@ You attempt to peek at the inventory:
 
 You can't see anything.
 
-<555hp 60ma 184mv> 317820805, -9, -9.7+0
+\<555hp 60ma 184mv\> 317820805, -9, -9.7+0
 
 You miss the ghostly Weaponsmaster with your pound.
 
@@ -667,25 +667,25 @@ You pound the ghostly Weaponsmaster extremely hard.
 
 You report 366/900 hp. Change: -188. Need: 534. Spells: fluidity, wall of flesh.
 
-<366hp 60ma 184mv> 317821885, -9, -9.7+1080
+\<366hp 60ma 184mv\> 317821885, -9, -9.7+1080
 
-cast 'restorat'  Taron
-
-You can't summon enough energy to cast the spell.
-
-<367hp 61ma 185mv> 317821885, -9, -9.7+0
-
-cast 'restorat'  Taron
+cast 'restorat' Taron
 
 You can't summon enough energy to cast the spell.
 
-<367hp 61ma 185mv> 317821885, -9, -9.7+0
+\<367hp 61ma 185mv\> 317821885, -9, -9.7+0
 
-cast 'restorat'  Taron
+cast 'restorat' Taron
 
 You can't summon enough energy to cast the spell.
 
-<368hp 61ma 185mv> 317821885, -9, -9.7+0
+\<367hp 61ma 185mv\> 317821885, -9, -9.7+0
+
+cast 'restorat' Taron
+
+You can't summon enough energy to cast the spell.
+
+\<368hp 61ma 185mv\> 317821885, -9, -9.7+0
 
 You pound the ghostly Weaponsmaster extremely hard.
 
@@ -703,27 +703,27 @@ You pound the ghostly Weaponsmaster extremely hard.
 
 You report 181/900 hp. Change: -185. Need: 719. Spells: wall of flesh, fluidity.
 
-<181hp 61ma 185mv> 317822095, -9, -9.7+210
+\<181hp 61ma 185mv\> 317822095, -9, -9.7+210
 
-cast 'restorat'  Taron
+cast 'restorat' Taron
 
 You can't summon enough energy to cast the spell.
 
-<182hp 61ma 186mv> 317822095, -9, -9.7+0
+\<182hp 61ma 186mv\> 317822095, -9, -9.7+0
 
-cast 'restorat'  Taron
+cast 'restorat' Taron
 
 Mug panics, and attempts to flee.
 
 As Mug steps through the protective wall of flesh, it disintegrates into a pile of goo.
 
-<182hp 61ma 186mv> 317822095, -9, -9.7+0
+\<182hp 61ma 186mv\> 317822095, -9, -9.7+0
 
 You can't summon enough energy to cast the spell.
 
-<182hp 61ma 186mv> 317822095, -9, -9.7+0
+\<182hp 61ma 186mv\> 317822095, -9, -9.7+0
 
-cast 'restorat'  Taron
+cast 'restorat' Taron
 
 Ok.
 
@@ -731,7 +731,7 @@ The cleansing fires of healing fill your body!
 
 You report 377/900 hp. Change: +196. Need: 523. Spells: fluidity, wall of flesh.
 
-<377hp 0ma 186mv> 317829855, -9, -9.7+7760
+\<377hp 0ma 186mv\> 317829855, -9, -9.7+7760
 
 fle
 
@@ -755,7 +755,7 @@ As you step through the protective wall of flesh, it disintegrates into a pile o
 
 Remains of Main Street
 
-Exits: North  East  West  
+Exits: North East West 
 
 For those, who skipped the log, it's 2 curses in 11 rounds. Very helpful.
 
@@ -771,17 +771,17 @@ If this was done right, then some step ups would be to just stronger pets some s
 
 low level: wraiths / wights - utilitarian fighters
 
-step up and you get vampires - better fighters but only available at night <<< this works well but not that much better that its worth waiting for night
+step up and you get vampires - better fighters but only available at night \<\<\< this works well but not that much better that its worth waiting for night
 
-step up and you get liches - worse fighters but with vs ether proc <<< this just dosent work at all
+step up and you get liches - worse fighters but with vs ether proc \<\<\< this just dosent work at all
 
-step up and you get vilewights - better utilitarian fighters <<< they are, but as you only get 2 vilewights to 3 wights the balance stays with wights
+step up and you get vilewights - better utilitarian fighters \<\<\< they are, but as you only get 2 vilewights to 3 wights the balance stays with wights
 
-step up and you get call followers <<< fantastic spell worth waiting for
+step up and you get call followers \<\<\< fantastic spell worth waiting for
 
-step up and you get control horde <<< fantastic spell worth waiting for
+step up and you get control horde \<\<\< fantastic spell worth waiting for
 
-step up and you get banshee - better utilitarian fighters with good proc attack <<< proc attack somewhat broken (and reported) imo no better than vilewights
+step up and you get banshee - better utilitarian fighters with good proc attack \<\<\< proc attack somewhat broken (and reported) imo no better than vilewights
 
 (This is where I am)
 
@@ -817,13 +817,11 @@ Problem - not much stronger than a single wraith and yet you are only allowed to
 
 Fix: reduce the cost in pet points for vilewights to allow 2 viles and 1 wraith or lich before control horde and 3 viles and 1 wraith once you get control horde.
 
- 
-
 As i didnt really get as far as Bonesnarls and Phantoms i've heard from Wimpy that they do indeed suck and do not fare well against banshees and wraiths, im guessing Wimpy would be the person to talk to if immortals are interested in fixing the higher necro pets.
 
 Overall im happy that we at least have pets like wraiths and banshees now to look forward to from 1x40 till avatar and control horde, before that it was only wights that were useful as you could only have 2 wraiths and they sucked. And it only took 2 months of nagging to change that.
 
-It does seem like necro's have a plethora of pets to choose from,  but in the end alot of the pets are just wasted because they are not competitive and this in turn makes necro less fun to level than it could have been.
+It does seem like necro's have a plethora of pets to choose from, but in the end alot of the pets are just wasted because they are not competitive and this in turn makes necro less fun to level than it could have been.
 
 </div>
 
@@ -843,9 +841,9 @@ I also have to note that liches have 1.5 more pet points, than wights, so if the
 
 Mornin' folks,
 
-I'll take a look at this (next big project?  who knows!); shouldn't be too bad making the liches/demiliches less... stupid.  
+I'll take a look at this (next big project? who knows!); shouldn't be too bad making the liches/demiliches less... stupid. 
 
-I'm all for a better pet growth for necros, but I'm quite wary about touching this since it would probably involve adjusting wights quite a bit, probably in the weaker direction.  Why don't we use wights as the standard, and work from there?  My first impression is that if we did that, the high level animates/summons will become really disgustingly powerful, but I'll reserve that call until after I look at the actual numbers and decide if I want to get lambasted for touching this sensitive aspect of sloth.  
+I'm all for a better pet growth for necros, but I'm quite wary about touching this since it would probably involve adjusting wights quite a bit, probably in the weaker direction. Why don't we use wights as the standard, and work from there? My first impression is that if we did that, the high level animates/summons will become really disgustingly powerful, but I'll reserve that call until after I look at the actual numbers and decide if I want to get lambasted for touching this sensitive aspect of sloth. 
 
 Chobbs
 
@@ -855,13 +853,13 @@ Chobbs
 
 IMHO, starting with wights as the standard is a good idea, because:
 
-- they are slightly better, than wraiths, which makes sense, since they require corpses to be animated
+\- they are slightly better, than wraiths, which makes sense, since they require corpses to be animated
 
-- they are the type of pets that are actually useful
+\- they are the type of pets that are actually useful
 
-- wraiths work, too, but not as good as wights
+\- wraiths work, too, but not as good as wights
 
-- the overpower factor can be diminished, while keeping wights the same, by managing the difference between the next-level pets well (i.e., not making vilewights 3khp monsters). So great power of next level forms lies not in the wights themselves, but in the pet-specific multipliers you use to create next-level forms.
+\- the overpower factor can be diminished, while keeping wights the same, by managing the difference between the next-level pets well (i.e., not making vilewights 3khp monsters). So great power of next level forms lies not in the wights themselves, but in the pet-specific multipliers you use to create next-level forms.
 
 So there's no need to decrease wights at all in any circumstances, in my opinion.
 
@@ -875,8 +873,6 @@ As far as balance and class progression goes, there is a very very thin line her
 
 Therefore the line between balance, underpower and overpower is very thin and to be honest i'd be vary of any changes to the old pets such as wights and wraiths as they work pretty well despite having to fill huge brackets of levels (e.g wraiths are the pets of choice for 2x40 untill 4x40)
 
- 
-
 There is also a very clear distinction between summon undead vs animate undead - I have personally always viewed summon undeads as your go-to pets for exp runs and animate deads as a one-run big mob pets, as finding and killing mobs for corpses ultimately eats the time that you could have been exping. 
 
 Again, if you do plan on major changes for the necromancer pets, i'd check not twice, but 10 times before implementing that change. I have played this class for about a year now, i have calculated pretty much all the pet points and know exactly where necro's gain pet points and i cant honestly say that i know exactly right what's needed to make necromancer pets perfectly balanced, although i do have a general idea.
@@ -885,12 +881,12 @@ Again, if you do plan on major changes for the necromancer pets, i'd check not t
 
 <div class="post" data-post-id="31976" data-author="Thraxas" data-date="2010-11-05T11:26:17+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
-> **Dragoth wrote:**
+> <strong>Dragoth wrote:</strong>
 > There is also a very clear distinction between summon undead vs animate undead - I have personally always viewed summon undeads as your go-to pets for exp runs and animate deads as a one-run big mob pets, as finding and killing mobs for corpses ultimately eats the time that you could have been exping.
 
 Odd, I see animates and summons in exactly the reverse way, summons are the quick summon for a single mob or wuick run, but for a long xp run I'd rather put the time into corpse farming up front and rely on the longer lasting and more durable animates.
 
-> **Dragoth wrote:**
+> <strong>Dragoth wrote:</strong>
 > I have played this class for about a year now, i have calculated pretty much all the pet points and know exactly where necro's gain pet points and i cant honestly say that i know exactly right what's needed to make necromancer pets perfectly balanced, although i do have a general idea.
 
 I've played necro as prime on my main char now for wbout 6 years and believe I have a similarly well informed view of how the class and its pets work. Necro seems to be a love it or hate it class, personally I love it, balancing time taken up front to plan, farm corpses, gather pets spell them up then execute the planned run, offset against this requirement to plan and put more work in is the increased power the pets should provide. imo necro should be more powerful than other classes esp solo but also require more work to manage the power, on S3 that was true, on S4 its not far off, changes I'd be looking for would be more utility and variety rather than any increase in power, not sure how lowering wights power would fit with that. If wights / wraiths were to be changed it shouldnt be until after any other changes have been implemented and proven otherwise you run the risk of seriously hurting the class.
@@ -979,19 +975,19 @@ While there are a lot of factors to be considered, in the end it is indeed math:
 
 I have a very limited experience playing a necro (34ne in s3, to 2x40 as secondary on s4), but I do agree that it's more efficient to use animates for exp runs, rather than summons, because:
 
-- wights have slightly better hitroll
+\- wights have slightly better hitroll
 
-- wights have more hps
+\- wights have more hps
 
-- animates last twice as longer, than summons
+\- animates last twice as longer, than summons
 
-- you can use your xp mob corpses to animate, so you only need to use summns for the first few exp mobs (assuming you are killing at least wightable mobs for xp)
+\- you can use your xp mob corpses to animate, so you only need to use summns for the first few exp mobs (assuming you are killing at least wightable mobs for xp)
 
-- other animates have useful procs (vampires can suck blood from mobs to last longer)
+\- other animates have useful procs (vampires can suck blood from mobs to last longer)
 
 I also have to note that for some exp kills it's possible to wall pets, rather than sanc, which makes walling even wraiths useful. Also take into account the actual mana cost of the summon undead spell. Flesh golem is nice as well.
 
-Obviously, I didn't test much pet points or pet procs beyond wraiths or liches ;)
+Obviously, I didn't test much pet points or pet procs beyond wraiths or liches <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 I also suspect that Dragoth's preference is partly influenced that he has high mana regen and can afford summonning and sacrificing undeads instead of animating them and lighting them to save mana (keeping undeads alive = saving mana).
 
@@ -1007,7 +1003,7 @@ P.S. I think Dragoth addressed his posts to imms, who don't play, rather than mo
 
 Mornin' folks,
 
-Liches and demiliches have been reworked to be less, for a lack of a better term, idiotic.  Stats subject to further change.  Constructive feedback appreciated.
+Liches and demiliches have been reworked to be less, for a lack of a better term, idiotic. Stats subject to further change. Constructive feedback appreciated.
 
 Chobbs
 
@@ -1027,13 +1023,13 @@ My reasoning behind it is this: Because Undead control EQ only affects hitroll a
 
 To be honest i would go as far as scaling minion's mana regen and movement with increased undead control as well.
 
-But anyway, thanks for taking a look at this Chobbs, as it stands now we have gained another usable pet and that is always good news. Why have all that pet coding if 90% of the pets werent worth using   :idea:
+But anyway, thanks for taking a look at this Chobbs, as it stands now we have gained another usable pet and that is always good news. Why have all that pet coding if 90% of the pets werent worth using <img src="/images/smilies/icon_idea.svg" alt=":idea:" title=":idea:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="32009" data-author="Teron" data-date="2010-11-13T05:23:48+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
-Oh noes, now he stabs wa/nes in the back :(
+Oh noes, now he stabs wa/nes in the back <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -1047,13 +1043,13 @@ If mana and regen are made to scale with UC, that will mean that people who actu
 
 Dont you expect to have more powerful undeads with 10 UC than you do with 0 UC ? 
 
-This creates another progression step: it makes you want to pop more EQ and it makes your necromancer poisition in your class important, if Liches power is the same for wa/ne/dr/cl and for wa/dr/cl/ne, this opens a loophole to having powerful undeads AND having better shapeshifts AND having cleric supplications sooner. Catch my drift bro ?  :mrgreen:
+This creates another progression step: it makes you want to pop more EQ and it makes your necromancer poisition in your class important, if Liches power is the same for wa/ne/dr/cl and for wa/dr/cl/ne, this opens a loophole to having powerful undeads AND having better shapeshifts AND having cleric supplications sooner. Catch my drift bro ? <img src="/images/smilies/icon_mrgreen.svg" alt=":mrgreen:" title=":mrgreen:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="32188" data-author="Dragoth" data-date="2010-12-20T18:31:07+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
-Chobbs, is there going to be anything else we could expect from you in this department ?  There's alot of work still needed on this if you can spare the time ?
+Chobbs, is there going to be anything else we could expect from you in this department ? There's alot of work still needed on this if you can spare the time ?
 
 </div>
 
@@ -1061,25 +1057,25 @@ Chobbs, is there going to be anything else we could expect from you in this depa
 
 I did some minor testing for viles and here's what I found:
 
-- I like the gas proc, which seems to be -hit -4dam (tested on myself, not sure if dam scales on mobs). However, it doesn't even always proc every fight. I am fine with it not proccing in the first round, but not every or every 2nd fight? The gas proc rate seems a bit low.
+\- I like the gas proc, which seems to be -hit -4dam (tested on myself, not sure if dam scales on mobs). However, it doesn't even always proc every fight. I am fine with it not proccing in the first round, but not every or every 2nd fight? The gas proc rate seems a bit low.
 
-- the dam proc does nice damage for a fighter mob
+\- the dam proc does nice damage for a fighter mob
 
-- I liked the hp drain proc
+\- I liked the hp drain proc
 
-- the hps are good enough
+\- the hps are good enough
 
-- the damage could be higher for someone, who takes a slot of a lich or 2 wraiths. Hp steal proc isn't worth an almost total loss of dam on a pet, especially, if a necro doesn't kill his pets often (aegis, etc).
+\- the damage could be higher for someone, who takes a slot of a lich or 2 wraiths. Hp steal proc isn't worth an almost total loss of dam on a pet, especially, if a necro doesn't kill his pets often (aegis, etc).
 
-- the hitroll is abyssmally low: lower, than wraiths, in my experience
+\- the hitroll is abyssmally low: lower, than wraiths, in my experience
 
 So I'd suggest to:
 
-- increase dam by 8 dam per attack
+\- increase dam by 8 dam per attack
 
-- increase hitroll by about 3 (Yes, it's that low)
+\- increase hitroll by about 3 (Yes, it's that low)
 
-- increase gas proc at least by 2 times, maybe 2.5 (and yes, I rarely ever see it, too).
+\- increase gas proc at least by 2 times, maybe 2.5 (and yes, I rarely ever see it, too).
 
 Of course, Anrok said that banshee has a blind proc and hits twice as hard, so making vilewights hit as hard as banshees would probably is not necessary =)
 
@@ -1095,7 +1091,7 @@ By the way, is it me, or animate dead pets dont get better hit or dam with more 
 
 It's just vilewight has about 2-3 worse hitroll, then wraith, and my wraths dont have stellar hitroll either (I'm blessing them and singing brothers sometimes). I'd expect vile to hit much more often, but maybe it can be fixed by scaling animates up with UC slightly?
 
-Yeah, I'll test this when I get more corpses ;)
+Yeah, I'll test this when I get more corpses <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -1161,7 +1157,7 @@ Level 20-36: You get your spectres and ghasts and you get more of them every few
 
 Level 36-40-2x40: Wights and vampires (3 at 1x40 ?). Poltergeists are useless though. (4/5)
 
-Level  2x40: 3 wraiths or 2 liches. (5/5)
+Level 2x40: 3 wraiths or 2 liches. (5/5)
 
 Level 3x40: 3 Liches instead of 2. Vilewights suck.. (3.5/5)
 
@@ -1237,20 +1233,20 @@ I don't see how anything stops other necros voicing their concerns here.
 
 After there's something we can all agree with, imms can easily (hopefully) implement it.
 
-What form of a necro guild do you propose? An online meeting (a group or a channel)? If so, when? And who is considered a necro? ;)
+What form of a necro guild do you propose? An online meeting (a group or a channel)? If so, when? And who is considered a necro? <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="32211" data-author="Dragoth" data-date="2010-12-24T14:19:32+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
-When we are online we can Group together, channel talk, send mudmail, even if only 2 of us can agree on something, then we can just make a mudmail and send it to Thraxas (since he's an avid and opinionated forum user too  8) ) and if he agrees on it we can send it over to other necros to take objections and if there are none we propose it to immortals.
+When we are online we can Group together, channel talk, send mudmail, even if only 2 of us can agree on something, then we can just make a mudmail and send it to Thraxas (since he's an avid and opinionated forum user too <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> ) and if he agrees on it we can send it over to other necros to take objections and if there are none we propose it to immortals.
 
 </div>
 
 <div class="post" data-post-id="32212" data-author="Thraxas" data-date="2010-12-24T22:16:53+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
-> **Dragoth wrote:**
-> When we are online we can Group together, channel talk, send mudmail, even if only 2 of us can agree on something, then we can just make a mudmail and send it to Thraxas (since he's an avid and opinionated forum user too  8) ) and if he agrees on it we can send it over to other necros to take objections and if there are none we propose it to immortals.
+> <strong>Dragoth wrote:</strong>
+> When we are online we can Group together, channel talk, send mudmail, even if only 2 of us can agree on something, then we can just make a mudmail and send it to Thraxas (since he's an avid and opinionated forum user too <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> ) and if he agrees on it we can send it over to other necros to take objections and if there are none we propose it to immortals.
 
 Happy to be a part of this, maybe the question is pointless without coder time but it passes time, my votes would be for either:
 
@@ -1326,7 +1322,7 @@ The real current problem is and i agree with Taron is that vilewights are really
 
 <div class="post" data-post-id="32217" data-author="Thraxas" data-date="2010-12-25T11:18:00+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
-> **Teron wrote:**
+> <strong>Teron wrote:</strong>
 > Thraxas, are you sure that it's better to do nothing, other than adding some minor power to vilewights, phantoms and bonesnarls?
 
 overlooking the very biased way you phrase your question ... yes I think it is better to either do nothing or do a proper job rather than tinker at the edges making minor improvements / adjustments that mask the fact the issue hasnt been solved. To apply an analogy I think you're trying to mend the aircon on a open top car in a heatwave, the car still works and drives ok, and the aircon is broken so should be fixed at some point and might even improve things a little but its a pointless excercise til you put a roof and windows on the car.
@@ -1367,9 +1363,7 @@ Right now, however, there isn't enough information and it's possibly best to tin
 
 <div class="post" data-post-id="32221" data-author="Thraxas" data-date="2010-12-25T23:29:14+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
-Fair enough Teron & Dragoth, you dont agree with my 2nd choice suggestion of a complete overhaul, personally I think neither of you have put enough work into finding ways to make necro as it stands work to know a great deal about what you're talking about instead falling back on crier whinging and you've dismissed my secondry suggestion out of hand without putting anything like as much thought into considering it as went into proposing it, but there we go.
-
- 
+Fair enough Teron \& Dragoth, you dont agree with my 2nd choice suggestion of a complete overhaul, personally I think neither of you have put enough work into finding ways to make necro as it stands work to know a great deal about what you're talking about instead falling back on crier whinging and you've dismissed my secondry suggestion out of hand without putting anything like as much thought into considering it as went into proposing it, but there we go.
 
 So I'll revert to my first and primary position (which Dragoth seems to be ignoring) Necro pets are not broken, they work fine, they can be made to what they should be doing as they are, the class is powerful enough at all levels without being unbalanced no changes are needed and any minor imperfection is so slight as to not warrent coder time to address, there are far more productive uses of such scarce and valuable time. Any whinging about necro pets in this thread or elsewhere is just that, whinging by the unskilled and unimaginative who'd rather whinge about the game rather than learn to play better.
 
@@ -1389,13 +1383,13 @@ Thank you.
 
 <div class="post" data-post-id="32223" data-author="Tuck" data-date="2010-12-26T12:21:53+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
-just another silly flame message :P
+just another silly flame message <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="32225" data-author="*Splork*" data-date="2010-12-26T14:17:35+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
-This much I will say, we appreciate player involvement and opinions regarding what needs to be looked at and possibly approved with our game. However, we will not be performing a complete overhaul of necromancer pet points. It has taken us years to get the system as balanced as it stands now and starting over is not the smartest option.  For the most part, and it is and has been proved ingame, we are happy with Necromancer class and their pets. We do realize that there need to be some adjustments made but they will not be very drastic. The pet point system involves other classes and is probably overly confusing, however it does work quite well for what we have been trying to achieve, at least for the most part.
+This much I will say, we appreciate player involvement and opinions regarding what needs to be looked at and possibly approved with our game. However, we will not be performing a complete overhaul of necromancer pet points. It has taken us years to get the system as balanced as it stands now and starting over is not the smartest option. For the most part, and it is and has been proved ingame, we are happy with Necromancer class and their pets. We do realize that there need to be some adjustments made but they will not be very drastic. The pet point system involves other classes and is probably overly confusing, however it does work quite well for what we have been trying to achieve, at least for the most part.
 
 There are not very many Immortals who are willing to attack this project, as its quite obvious any changes are going to lead to a few players being extremely unhappy that their opinions or suggestions were not listened to or the fact only part of it was. Then this normally leads to Immortal persecution. This thread and our chances to talk to necromancers ingame have made it quite evident to all that very few of you guys can come to an agreement on what, if anything, needs to be changed/adjusted.
 
@@ -1413,11 +1407,9 @@ Splork
 
 This is exactly how i feel about it Splork, thanks for responding.
 
- 
-
 The main thing im always sceptical and concerned about and i have voiced it here already - is immortals making changes to something based purely on the code, without playing the class and without knowing its ins and outs. 
 
-It is extremely hard to put together every little detail when you simply look at the code as opposed to when you play the class.  When you look at a pet code, you look at it out of context if you will and its hard to judge exactly how it falls into place. 
+It is extremely hard to put together every little detail when you simply look at the code as opposed to when you play the class. When you look at a pet code, you look at it out of context if you will and its hard to judge exactly how it falls into place. 
 
 For example, summoning 4 wraiths may seem like dandy business (max hp winners and max damage winners at level 6 avatar), but to summon and buff all 4 wraiths ( stone skin,bless aegis) would take 400 mana. Then as a necro you need to sanc juju and self for an additional 80mana and dont forget wraithform which is another 80 mana! So thats a whopping 560mana spent just to prepare for a run for which you now have 50mana left to heal yourself.
 
@@ -1437,7 +1429,7 @@ How would someone looking at the code know all this ? He wouldnt, all he would l
 
 Someone who never played a necromancer and who doesnt consult any of the necromancer players will never be able to make a worthwhile decision or a notable change simply because there is soooo many things that should be in balance.
 
-To me personally, the current system works fine because most of the pets compliment each other in some way or another and let me explain why. I have a different pets for different situations - for long runs i choose to summon 2 banshees and a wraith because even though they deal less damage than 4 wraiths i need less mana to buff them and banshees survive much longer than wraiths so i dont  need to stop my runs and make new ones. For short runs i make wraiths because they deal more damage and for boss runs i farm corpses and make liches as they last 1200 secs and allow me to fully buff everyone and start the fight with extra full mana. So all the pets are currently utilized by me and if anything were to change i would obviously lose out on on either of those scenarios.
+To me personally, the current system works fine because most of the pets compliment each other in some way or another and let me explain why. I have a different pets for different situations - for long runs i choose to summon 2 banshees and a wraith because even though they deal less damage than 4 wraiths i need less mana to buff them and banshees survive much longer than wraiths so i dont need to stop my runs and make new ones. For short runs i make wraiths because they deal more damage and for boss runs i farm corpses and make liches as they last 1200 secs and allow me to fully buff everyone and start the fight with extra full mana. So all the pets are currently utilized by me and if anything were to change i would obviously lose out on on either of those scenarios.
 
 So what is lacking at my level that i would personally change ? Utilization for Vilewights, they dont fit inside any of my scenarios and are simply useless. Would also be nice to have my animate/summons last longer than what they last by default since im so many levels above their required level, but not really holding out for it. 
 
@@ -1469,7 +1461,7 @@ I was just trying to point out a potential cause for problems and that there are
 
 <div class="post" data-post-id="32236" data-author="Thraxas" data-date="2010-12-28T00:02:22+00:00" data-subject="Re: Necro pet (Liches) bugs">
 
-> **Thraxas wrote:**
+> <strong>Thraxas wrote:</strong>
 > ... Necro pets are not broken, they work fine ... the class is powerful enough at all levels without being unbalanced no changes are needed ...
 > 
 > Thraxas

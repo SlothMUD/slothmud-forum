@@ -12,15 +12,15 @@ post_count: 6
 
 <div class="post" data-post-id="10393" data-author="Guinex" data-date="2006-01-29T08:54:59+00:00" data-subject="Shara broke the mud again.">
 
-It's all her fault!  :(
+It's all her fault! <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="10394" data-author="Mace" data-date="2006-01-29T09:17:48+00:00" data-subject="">
 
-She did, she did!  Just before it crashed she did this..
+She did, she did! Just before it crashed she did this..
 
-> Shara puts the corpse of Neebrlyxxz Zylerixen in a nymph cloak.
+\> Shara puts the corpse of Neebrlyxxz Zylerixen in a nymph cloak.
 
 What can you expect with that kind of blatant abuse.
 
@@ -38,15 +38,15 @@ What did you expect with a name like that!
 
 <div class="post" data-post-id="10396" data-author="Mace" data-date="2006-01-29T09:35:58+00:00" data-subject="">
 
-I hear if you try to say it backwards with oxtongue, it has a SECRET SATANIC MESSAGE.  Really.  Try it!
+I hear if you try to say it backwards with oxtongue, it has a SECRET SATANIC MESSAGE. Really. Try it!
 
 </div>
 
 <div class="post" data-post-id="10397" data-author="Shara" data-date="2006-01-29T10:19:39+00:00" data-subject="">
 
-Meep!  Satan is standing next to me!
+Meep! Satan is standing next to me!
 
-Get damns/blinds/weakens, quick!  He's aggro!
+Get damns/blinds/weakens, quick! He's aggro!
 
 </div>
 
@@ -54,7 +54,7 @@ Get damns/blinds/weakens, quick!  He's aggro!
 
 !LIVEDEHTSIARAHS !LIVEDEHTSIARAHS
 
-meep meep :twisted: 
+meep meep <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 Any chance of having that rolling line back on the homepage, for current mud status ?
 

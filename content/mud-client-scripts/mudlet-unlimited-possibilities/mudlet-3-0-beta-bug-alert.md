@@ -22,7 +22,7 @@ This doesn't seem to affect everyone. It is somehow related to the scrolling and
 
 It looks like a new gamma has been released which addresses this exact issue. It also allows "snapshots" which are basically backups of your mudlet files, similar to a snapshot of a virtual machine.
 
-<LINK_TEXT text="http://www.mudlet.org/2015/01/mudlet-3- ... preview-3/">http://www.mudlet.org/2015/01/mudlet-3-0-0-gamma-preview-3/</LINK_TEXT>
+http://www.mudlet.org/2015/01/mudlet-3-0-0-gamma-preview-3/
 
 Mudlet 3.0.0 gamma! (preview #3)
 
@@ -30,7 +30,7 @@ January 6th, 2015
 
 This third preview release of Mudlet 3.0 fixes an important issue from the beta â€“ one where the content of an alias/trigger/script could be wiped depending on the way youâ€™ve navigated.
 
-In this version, we only focused on fixing new issues have have been introduced in 3.0 â€“ such that 3.0 is no worse, only better, than 2.1 quality-wise. It is also, of course, better feature-wise :)
+In this version, we only focused on fixing new issues have have been introduced in 3.0 â€“ such that 3.0 is no worse, only better, than 2.1 quality-wise. It is also, of course, better feature-wise <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Please provide all feedback (donâ€™t delay!) on our forums.
 
@@ -70,6 +70,6 @@ Gamma is not fixed yet
 
 <div class="post" data-post-id="35650" data-author="*Splork*" data-date="2015-01-25T01:09:15+00:00" data-subject="Re: Mudlet 3.0 Beta Bug Alert(Fixed-update)">
 
-<LINK_TEXT text="http://forums.mudlet.org/viewtopic.php? ... =20#p22336">http://forums.mudlet.org/viewtopic.php?f=5&t=4684&start=20#p22336</LINK_TEXT>
+http://forums.mudlet.org/viewtopic.php?f=5&t=4684&start=20#p22336
 
 </div>

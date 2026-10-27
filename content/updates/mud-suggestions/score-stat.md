@@ -12,7 +12,7 @@ post_count: 2
 
 <div class="post" data-post-id="1792" data-author="Alberich" data-date="2004-09-05T12:18:16+00:00" data-subject="score stat">
 
-I love this command.  However... can stab dam be listed in there?  So far, hand_dam, circle_dam, kick_dam, spelldam, healbonus, sysshock are all listed (am i missing anything else?).  Just curious why stabdam isn't, and hoping it will be soon :)
+I love this command. However... can stab dam be listed in there? So far, hand\_dam, circle\_dam, kick\_dam, spelldam, healbonus, sysshock are all listed (am i missing anything else?). Just curious why stabdam isn't, and hoping it will be soon <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

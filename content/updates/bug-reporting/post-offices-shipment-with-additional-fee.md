@@ -38,23 +38,23 @@ Its not anything with fee, or with nOObs (hehe) or all, its something with ship 
 
 The coder who made it did put it ingame, and then for some reasons that dont really matter got really busy in real life, so he is not around at the moment to fix the posible issues with it.
 
-I have been looking at ship for a while, but keep in mind that it is a huge piece of code.  I have fixed some bugs, but this with items banishing i didnt find the fix yet, mainly since i havent find the way to reproduce the error, cause it seems to be semi-random.
+I have been looking at ship for a while, but keep in mind that it is a huge piece of code. I have fixed some bugs, but this with items banishing i didnt find the fix yet, mainly since i havent find the way to reproduce the error, cause it seems to be semi-random.
 
-So, all i can tell you is that im sorry, and to have patience till we get the whole ship issue fixed.  Oh, and if you find a way to reproduce the error (i.e. do this and this and this and item will banish 100%), let me know : on line, mudmail, email, whatever.  It could speed the fix inmensely.
+So, all i can tell you is that im sorry, and to have patience till we get the whole ship issue fixed. Oh, and if you find a way to reproduce the error (i.e. do this and this and this and item will banish 100%), let me know : on line, mudmail, email, whatever. It could speed the fix inmensely.
 
 </div>
 
 <div class="post" data-post-id="7624" data-author="Mosaix" data-date="2005-06-27T10:39:14+00:00" data-subject="">
 
-I dont know if this helps or not.  When i ship items i use.....ship "item" mosaix.   I have yet to have a problem with anyhing poofing.  It seems that when you involve coins.....ship "item" mosaix 50k is when there is a problem.  Each time, or sometimes when the person is using coin with the shipping transaction the item is gettting messed up.
+I dont know if this helps or not. When i ship items i use.....ship "item" mosaix. I have yet to have a problem with anyhing poofing. It seems that when you involve coins.....ship "item" mosaix 50k is when there is a problem. Each time, or sometimes when the person is using coin with the shipping transaction the item is gettting messed up.
 
 </div>
 
 <div class="post" data-post-id="7625" data-author="Avatar" data-date="2005-06-27T10:42:11+00:00" data-subject="ship">
 
-Would it make sense to disable the ship option temporarily?   Or at the least, insert another message that informs people who try to ship that the shipping lanes have been under attack by pirates and that some ships may be lost due to violence.
+Would it make sense to disable the ship option temporarily? Or at the least, insert another message that informs people who try to ship that the shipping lanes have been under attack by pirates and that some ships may be lost due to violence.
 
-Could make a quest of it when you find the bug, send some mortals out to slay some pirates  :)
+Could make a quest of it when you find the bug, send some mortals out to slay some pirates <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -66,7 +66,7 @@ Since the base elements of ship are working and the items are going back and for
 
 <div class="post" data-post-id="7634" data-author="nomis" data-date="2005-06-28T01:20:22+00:00" data-subject="">
 
-I'd shipped a steel camail to someone last two weeks with the cost of 20k, and it was find. The post man gave me the cash when I visited him after I was told by the player that the item had been collected :)
+I'd shipped a steel camail to someone last two weeks with the cost of 20k, and it was find. The post man gave me the cash when I visited him after I was told by the player that the item had been collected <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -74,15 +74,17 @@ I'd shipped a steel camail to someone last two weeks with the cost of 20k, and i
 
 Hi all ...
 
-[quote:3noxbzhg]Would it make sense to disable the ship option temporarily? Or at the least, insert another message that informs people who try to ship that the shipping lanes have been under attack by pirates and that some ships may be lost due to violence.[/quote:3noxbzhg]
+> <strong>Quote:</strong>
+> Would it make sense to disable the ship option temporarily? Or at the least, insert another message that informs people who try to ship that the shipping lanes have been under attack by pirates and that some ships may be lost due to violence.
 
-[quote:3noxbzhg]Since the base elements of ship are working and the items are going back and forth as intended, disabling the optional fee looks like it will prevent the bug from affecting players.[/quote:3noxbzhg]
+> <strong>Quote:</strong>
+> Since the base elements of ship are working and the items are going back and forth as intended, disabling the optional fee looks like it will prevent the bug from affecting players.
 
-I know it wont make me too popular, but ... no.  I have tried all kind of ships to reproduce the bug, and havent had any luck yet.  If ship keep working (bugged), sooner or later someone will see a pattern, and with a pattern it will be quickly fixed.
+I know it wont make me too popular, but ... no. I have tried all kind of ships to reproduce the bug, and havent had any luck yet. If ship keep working (bugged), sooner or later someone will see a pattern, and with a pattern it will be quickly fixed.
 
-All I can ask is people to not stop using it.  Items or gold dont dissapear that often anyways (not more than 1 or 2 per day), and withouth people helping, we will never get it fixed.  Its a team job : mortals and immortals.
+All I can ask is people to not stop using it. Items or gold dont dissapear that often anyways (not more than 1 or 2 per day), and withouth people helping, we will never get it fixed. Its a team job : mortals and immortals.
 
-Its all my opinion anyways.  If the upper powers decide to change it ... well, they will.   :)
+Its all my opinion anyways. If the upper powers decide to change it ... well, they will. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -90,7 +92,7 @@ Its all my opinion anyways.  If the upper powers decide to change it ... well, t
 
 I assume you're gonna reimburse the few unlucky ones who lose
 
-their items while helping to debug ship?  I hope you find the problem
+their items while helping to debug ship? I hope you find the problem
 
 ship is one of the cooler new features.
 
@@ -100,9 +102,9 @@ ship is one of the cooler new features.
 
 Hi all ...
 
-After a huge bunch of work and stuff, we finally solved the bug (one of the bugs?) of ship.  Many thanks to everyone that reported about it, specially to Shapyrra/Myrridon, who found the way to reproduce the bug, so we at least knew where to look.
+After a huge bunch of work and stuff, we finally solved the bug (one of the bugs?) of ship. Many thanks to everyone that reported about it, specially to Shapyrra/Myrridon, who found the way to reproduce the bug, so we at least knew where to look.
 
-So, after today reboot, ship is oficially fixed, unless someone has more issues with it.  If so, please, let me/us know as soon as posible, so we can reopen the nightmar ... erh ... the issue.
+So, after today reboot, ship is oficially fixed, unless someone has more issues with it. If so, please, let me/us know as soon as posible, so we can reopen the nightmar ... erh ... the issue.
 
 Thanks everyone for your help and your patience on this.
 
@@ -112,6 +114,6 @@ Thanks everyone for your help and your patience on this.
 
 i've been shipping some eq to different players and have right now in shipment a red minidemon brooch that i can reclaim not for the shipping cost but for the receiving cost. heh what to do...
 
- :twisted: brand
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> brand
 
 </div>

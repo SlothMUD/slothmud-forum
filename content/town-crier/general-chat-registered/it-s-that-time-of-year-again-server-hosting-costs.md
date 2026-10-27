@@ -14,7 +14,7 @@ post_count: 4
 
 Good afternoon,
 
-Ordinarily in the past yearly server costs have been handled by the immortals and within that, really just the upper admin immortals.  A few players of just mortal chars have in the last few years chipped in.
+Ordinarily in the past yearly server costs have been handled by the immortals and within that, really just the upper admin immortals. A few players of just mortal chars have in the last few years chipped in.
 
 This year we are opening that up more generally.
 
@@ -24,13 +24,13 @@ And we have about till early September to figure it out
 
 Neptune had roughly this to say:
 
-"Breeze isn't able to use Paypal from his end for reasons I'll let him explain if he chooses to do so. We were waiting to a point when we got a little closer, but I've decided to use my Paypal as the repository from which to forward from. People can send money there as 'friends and family' so Paypal won't take fees out. The Paypal address to send all donations is yomama_jones@yahoo.com"
+"Breeze isn't able to use Paypal from his end for reasons I'll let him explain if he chooses to do so. We were waiting to a point when we got a little closer, but I've decided to use my Paypal as the repository from which to forward from. People can send money there as 'friends and family' so Paypal won't take fees out. The Paypal address to send all donations is yomama\_jones@yahoo.com"
 
 And then presumably he can give us progressive updates as to how close we are so far as time goes on.
 
 Many thanks
 
---Idj
+\--Idj
 
 </div>
 
@@ -44,7 +44,7 @@ I trust the immortal staff implicitly and in Neptune's leadership. The current i
 
 I read all mortal emails even if I don't always respond directly
 
-As usual I will cover web hosting costs and work in  the background  but I just don't have the time to be active at the moment.
+As usual I will cover web hosting costs and work in the background but I just don't have the time to be active at the moment.
 
 I am running 4 data centers/relays with 5 of 11 people allocated to me. Lots of overtime for me but yeah sucks.
 
@@ -88,7 +88,7 @@ So, thank you for playing and enjoying the game, and here's to (hopefully) more 
 
 to come.
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -100,7 +100,7 @@ I wanted to take this time and re-iterate that our hosting requirements have bee
 
 Since that has been taken care of, a couple of you have sent in donations. I have refunded those
 
-back to you who have donated **after **hosting was paid. For everyone, it is not necessary to donate
+back to you who have donated <strong>after</strong> hosting was paid. For everyone, it is not necessary to donate
 
 until we make the announcement next year. We absolutely appreciate the interest, and look
 
@@ -120,6 +120,6 @@ we will be sure to let you guys know at that time.
 
 Thanks.
 
--N
+\-N
 
 </div>

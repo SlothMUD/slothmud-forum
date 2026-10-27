@@ -36,7 +36,7 @@ Sorry for your loss dude, and please accept my sincere condolences. Must be one 
 
 <div class="post" data-post-id="25219" data-author="Yasik2" data-date="2008-06-27T03:31:21+00:00" data-subject="">
 
-Take courage, Al  :(
+Take courage, Al <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -48,7 +48,7 @@ My condolences Turbo, My grandfather passed away in November from cancer and my 
 
 <div class="post" data-post-id="25221" data-author="Leaf" data-date="2008-06-27T13:36:21+00:00" data-subject="">
 
-I'm sorry to hear the sad news Al.  May he rest in peace, and for you to find strenght in god on these hard times.
+I'm sorry to hear the sad news Al. May he rest in peace, and for you to find strenght in god on these hard times.
 
 Will
 
@@ -60,7 +60,7 @@ Link
 
 <div class="post" data-post-id="25222" data-author="Alberich" data-date="2008-06-27T13:45:23+00:00" data-subject="">
 
-wow, sorry to hear that :( my mother has been fighting the same fight for roughly a decade, i know how hard it can be on everyone involved.  stay strong, and good luck
+wow, sorry to hear that <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom"> my mother has been fighting the same fight for roughly a decade, i know how hard it can be on everyone involved. stay strong, and good luck
 
 adam
 
@@ -68,7 +68,7 @@ adam
 
 <div class="post" data-post-id="25223" data-author="firebrand" data-date="2008-06-27T15:10:58+00:00" data-subject="">
 
-hey al, man i am sorry you lost him.  he put up one awesome fight though.  if you need an ear, call me.
+hey al, man i am sorry you lost him. he put up one awesome fight though. if you need an ear, call me.
 
 yesterday the clouds crossed before the sun
 
@@ -112,7 +112,7 @@ is similiar. He has had several strokes/heart attacks but he refuses to slow dow
 
 <div class="post" data-post-id="25244" data-author="PolkAdotS" data-date="2008-06-30T04:08:05+00:00" data-subject="">
 
-Hey Al, call me at home if nothing else.  I think you have my home number still but if not I will send it to you in an e-mail anyway.  I have to admit it is always sad to lose someone close, even more so that being your father.  I have similar battles which have happened in my family and the life of cancer is still on-going.  It's a terrible tragic disease and 20 years is a wonderful fight, I don't remember which of our fellow players here it is but they'd say Fight the good Fight, it's one of us I'm sure and I wish you the best.  Please hold in there man, ur pal.  Polk
+Hey Al, call me at home if nothing else. I think you have my home number still but if not I will send it to you in an e-mail anyway. I have to admit it is always sad to lose someone close, even more so that being your father. I have similar battles which have happened in my family and the life of cancer is still on-going. It's a terrible tragic disease and 20 years is a wonderful fight, I don't remember which of our fellow players here it is but they'd say Fight the good Fight, it's one of us I'm sure and I wish you the best. Please hold in there man, ur pal. Polk
 
 </div>
 

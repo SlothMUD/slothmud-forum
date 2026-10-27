@@ -32,7 +32,7 @@ Lunitary = Turbo ?!
 
 No!
 
-Lunitary = Lunitary   8)
+Lunitary = Lunitary <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

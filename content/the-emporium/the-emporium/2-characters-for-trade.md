@@ -12,17 +12,17 @@ post_count: 9
 
 <div class="post" data-post-id="33972" data-author="Dragoth" data-date="2013-02-04T21:32:46+00:00" data-subject="2 characters for trade">
 
-**BOTH CHARS ARE FOR TRADE WITH ALL THE EQUIPMENT
+<strong>BOTH CHARS ARE FOR TRADE WITH ALL THE EQUIPMENT</strong>
 
-LOOKING FOR 1 RHODOCHROSITE RUNE FOR 2 CHARS**
+<strong>LOOKING FOR 1 RHODOCHROSITE RUNE FOR 2 CHARS</strong>
 
 Cleric:
 
-**EQ SET 1**
+<strong>EQ SET 1</strong>
 
-Crumbs is for sale/trade, enquire within.  (level: 40)
+Crumbs is for sale/trade, enquire within. (level: 40)
 
-Your levels:  Cl: 40 Dr: 28 Mo: 28 Ne: 21 Ba: 10 Ma: 10 Wa: 10 Th: 10 
+Your levels: Cl: 40 Dr: 28 Mo: 28 Ne: 21 Ba: 10 Ma: 10 Wa: 10 Th: 10 
 
 You are 18 years, 12 months, 25 days old.
 
@@ -70,61 +70,61 @@ You are protected by an aerial servant that is in excellent condition.
 
 Variable spellup removed.
 
-   Detect Invisible                 
+ Detect Invisible 
 
-   Darksight                        
+ Darksight 
 
-   Resist Electricity               
+ Resist Electricity 
 
-   Resist Acid                      
+ Resist Acid 
 
-   Bone Armor                       
+ Bone Armor 
 
-   Bless                            
+ Bless 
 
 You are using:
 
-<used as light>      a philosopher's stone
+\<used as light\> a philosopher's stone
 
-<worn on finger>     the ring of the dead
+\<worn on finger\> the ring of the dead
 
-<worn on finger>     a carved wooden ring..It has a soft glowing aura!
+\<worn on finger\> a carved wooden ring..It has a soft glowing aura!
 
-<worn on shoulders>  the shoulder guards of divinity..It has a soft glowing aura!
+\<worn on shoulders\> the shoulder guards of divinity..It has a soft glowing aura!
 
-<worn around neck>   the Holy Shroud of Alana..It has a soft glowing aura!
+\<worn around neck\> the Holy Shroud of Alana..It has a soft glowing aura!
 
-<worn on body>       ruby platemail..It has a soft glowing aura!
+\<worn on body\> ruby platemail..It has a soft glowing aura!
 
-<worn on head>       a helm of shadows
+\<worn on head\> a helm of shadows
 
-<worn on legs>       a pair of crystalline silk leggings..It has a soft glowing aura!
+\<worn on legs\> a pair of crystalline silk leggings..It has a soft glowing aura!
 
-<worn on feet>       a pair of fox hide sandals
+\<worn on feet\> a pair of fox hide sandals
 
-<worn on hands>      a set of emerald gauntlets
+\<worn on hands\> a set of emerald gauntlets
 
-<worn on arms>       banded leather sleeves
+\<worn on arms\> banded leather sleeves
 
-<worn as shield>     a runed shield of the moon..It has a soft glowing aura!
+\<worn as shield\> a runed shield of the moon..It has a soft glowing aura!
 
-<worn about body>    a cloak of thorns..It has a soft glowing aura!
+\<worn about body\> a cloak of thorns..It has a soft glowing aura!
 
-<worn about waist>   an ethereal sash..It has a soft glowing aura!
+\<worn about waist\> an ethereal sash..It has a soft glowing aura!
 
-<worn around wrist>  a celestial bracelet..It has a soft glowing aura!
+\<worn around wrist\> a celestial bracelet..It has a soft glowing aura!
 
-<worn around wrist>  a celestial bracelet..It has a soft glowing aura!
+\<worn around wrist\> a celestial bracelet..It has a soft glowing aura!
 
-<wielded>            an ancient tome of song and dance
+\<wielded\> an ancient tome of song and dance
 
-<held>               a small pebble
+\<held\> a small pebble
 
-**EQ Set 2:**
+<strong>EQ Set 2:</strong>
 
-Crumbs is for sale/trade, enquire within.  (level: 40)
+Crumbs is for sale/trade, enquire within. (level: 40)
 
-Your levels:  Cl: 40 Dr: 28 Mo: 28 Ne: 21 Ba: 10 Ma: 10 Wa: 10 Th: 10 
+Your levels: Cl: 40 Dr: 28 Mo: 28 Ne: 21 Ba: 10 Ma: 10 Wa: 10 Th: 10 
 
 You are 18 years, 12 months, 26 days old.
 
@@ -170,63 +170,61 @@ You are protected by an aerial servant that is in excellent condition.
 
 Variable spellup removed.
 
-   Detect Invisible                 
+ Detect Invisible 
 
-   Darksight                        
+ Darksight 
 
-   Resist Electricity               
+ Resist Electricity 
 
-   Resist Acid                      
+ Resist Acid 
 
-   Bone Armor                       
+ Bone Armor 
 
-   Bless 
+ Bless 
 
-<used as light>      an orb of agility..It has a soft glowing aura!
+\<used as light\> an orb of agility..It has a soft glowing aura!
 
-<worn on finger>     a greenish ring
+\<worn on finger\> a greenish ring
 
-<worn on finger>     a greenish ring
+\<worn on finger\> a greenish ring
 
-<worn around neck>   zebra hide cloak of the fashion lords
+\<worn around neck\> zebra hide cloak of the fashion lords
 
-<worn around neck>   the Holy Shroud of Alana..It has a soft glowing aura!
+\<worn around neck\> the Holy Shroud of Alana..It has a soft glowing aura!
 
-<worn on body>       a set of finely tooled leather armor
+\<worn on body\> a set of finely tooled leather armor
 
-<worn on head>       Amethyst Helm of the Karuto
+\<worn on head\> Amethyst Helm of the Karuto
 
-<worn on legs>       steel ribbed pants
+\<worn on legs\> steel ribbed pants
 
-<worn on feet>       old viking boots
+\<worn on feet\> old viking boots
 
-<worn on hands>      a pair of onyx and diamond-studded gauntlets 
+\<worn on hands\> a pair of onyx and diamond-studded gauntlets 
 
-<worn on arms>       banded leather sleeves
+\<worn on arms\> banded leather sleeves
 
-<worn as shield>     Fist of the Lord of Beasts..It emits a faint humming sound!
+\<worn as shield\> Fist of the Lord of Beasts..It emits a faint humming sound!
 
-<worn about body>    a mystical cloak (with a single-striped white sash (Private) attached to it)
+\<worn about body\> a mystical cloak (with a single-striped white sash (Private) attached to it)
 
-<worn about waist>   a belt of striking
+\<worn about waist\> a belt of striking
 
-<worn around wrist>  a celestial bracelet..It has a soft glowing aura!
+\<worn around wrist\> a celestial bracelet..It has a soft glowing aura!
 
-<worn around wrist>  a celestial bracelet..It has a soft glowing aura!
+\<worn around wrist\> a celestial bracelet..It has a soft glowing aura!
 
-<held>               a jing-jit disk ()socketed banded agate rune()
+\<held\> a jing-jit disk ()socketed banded agate rune()
 
-===============================================================================
+\===============================================================================
 
 Thief
 
-**EQ SET 1:
+<strong>EQ SET 1:</strong>
 
-**
+Xxx xxX (level: 40)
 
-Xxx xxX  (level: 40)
-
-Your levels:  Th: 40 Ma: 40 Cl: 40 Ne: 35 Ba: 17 Wa: 15 Mo: 10 Dr: 8 
+Your levels: Th: 40 Ma: 40 Cl: 40 Ne: 35 Ba: 17 Wa: 15 Mo: 10 Dr: 8 
 
 You are 33 years, 10 months, 25 days old.
 
@@ -270,61 +268,61 @@ You are affected by the following spells:
 
 Variable spellup removed.
 
-   Detect Invisible                 
+ Detect Invisible 
 
-   Infravision                      
+ Infravision 
 
-   Darksight                        
+ Darksight 
 
-   Bone Armor                       
+ Bone Armor 
 
-   Bless                            
+ Bless 
 
-   Mobility                         
+ Mobility 
 
 You are using:
 
-<used as light>      Orb of Wrath
+\<used as light\> Orb of Wrath
 
-<worn on finger>     a man's diamond ring..It has a soft glowing aura!
+\<worn on finger\> a man's diamond ring..It has a soft glowing aura!
 
-<worn on finger>     a man's diamond ring..It has a soft glowing aura!
+\<worn on finger\> a man's diamond ring..It has a soft glowing aura!
 
-<worn on shoulders>  shadow pauldrons
+\<worn on shoulders\> shadow pauldrons
 
-<worn around neck>   a thief's shadow bending half-cloak..It has a soft glowing aura!
+\<worn around neck\> a thief's shadow bending half-cloak..It has a soft glowing aura!
 
-<worn on body>       a black suit of dwarven platemail
+\<worn on body\> a black suit of dwarven platemail
 
-<worn on head>       a prison guard helmet (with a reddish-colored glass eye attached to it)
+\<worn on head\> a prison guard helmet (with a reddish-colored glass eye attached to it)
 
-<worn on legs>       dwarvish greaves..It emits a faint humming sound!
+\<worn on legs\> dwarvish greaves..It emits a faint humming sound!
 
-<worn on feet>       old viking boots
+\<worn on feet\> old viking boots
 
-<worn on hands>      a pair of onyx and diamond-studded gauntlets
+\<worn on hands\> a pair of onyx and diamond-studded gauntlets
 
-<worn on arms>       sleeves of molten lava ()socketed Amber Rune()
+\<worn on arms\> sleeves of molten lava ()socketed Amber Rune()
 
-<worn as shield>     a golden lancer's shield..It emits a faint humming sound!
+\<worn as shield\> a golden lancer's shield..It emits a faint humming sound!
 
-<worn about body>    Cloak of Specialization..It emits a faint humming sound!
+\<worn about body\> Cloak of Specialization..It emits a faint humming sound!
 
-<worn about waist>   a length of finely drawn bronze (with a single-striped white sash (Private) attached to it)
+\<worn about waist\> a length of finely drawn bronze (with a single-striped white sash (Private) attached to it)
 
-<worn around wrist>  a black opal bracelet
+\<worn around wrist\> a black opal bracelet
 
-<worn around wrist>  a black opal bracelet
+\<worn around wrist\> a black opal bracelet
 
-<wielded>            Rogue's Dagger
+\<wielded\> Rogue's Dagger
 
-<held>               a mu-jen doll
+\<held\> a mu-jen doll
 
-**EQ SET 2:**
+<strong>EQ SET 2:</strong>
 
-Xxx xxX  (level: 40)
+Xxx xxX (level: 40)
 
-Your levels:  Th: 40 Ma: 40 Cl: 40 Ne: 35 Ba: 17 Wa: 15 Mo: 10 Dr: 8 
+Your levels: Th: 40 Ma: 40 Cl: 40 Ne: 35 Ba: 17 Wa: 15 Mo: 10 Dr: 8 
 
 You are 33 years, 10 months, 25 days old.
 
@@ -368,43 +366,43 @@ You are affected by the following spells:
 
 Variable spellup removed.
 
-   Detect Invisible                 
+ Detect Invisible 
 
-   Darksight                        
+ Darksight 
 
-   Bone Armor                       
+ Bone Armor 
 
-   Bless                            
+ Bless 
 
-   Mobility     
+ Mobility 
 
-<used as light>      a sphere of prophets..It has a soft glowing aura!
+\<used as light\> a sphere of prophets..It has a soft glowing aura!
 
-<worn on finger>     a carved wooden ring..It has a soft glowing aura!
+\<worn on finger\> a carved wooden ring..It has a soft glowing aura!
 
-<worn around neck>   a necklace of teeth..It has a soft glowing aura!
+\<worn around neck\> a necklace of teeth..It has a soft glowing aura!
 
-<worn on body>       a platinum mesh vest..It has a soft glowing aura!
+\<worn on body\> a platinum mesh vest..It has a soft glowing aura!
 
-<worn on legs>       a set of polished bone leggings
+\<worn on legs\> a set of polished bone leggings
 
-<worn on feet>       a pair of gilded platinum boots..It has a soft glowing aura!
+\<worn on feet\> a pair of gilded platinum boots..It has a soft glowing aura!
 
-<worn on arms>       Sleeves of the Clown Lord Marshall
+\<worn on arms\> Sleeves of the Clown Lord Marshall
 
-<worn as shield>     an ancient bonecrafted shield
+\<worn as shield\> an ancient bonecrafted shield
 
-<worn about body>    a multicolored mantle..It has a soft glowing aura!
+\<worn about body\> a multicolored mantle..It has a soft glowing aura!
 
-<worn about waist>   a silk belt..It emits a faint humming sound!
+\<worn about waist\> a silk belt..It emits a faint humming sound!
 
-<worn around wrist>  a ruby bracelet
+\<worn around wrist\> a ruby bracelet
 
-<worn around wrist>  a ruby bracelet
+\<worn around wrist\> a ruby bracelet
 
-<wielded>            a secari dagger
+\<wielded\> a secari dagger
 
-<held>               a skeletal branch..It emits a faint humming sound!
+\<held\> a skeletal branch..It emits a faint humming sound!
 
 </div>
 
@@ -424,7 +422,7 @@ Level 0 Coliseum at 10 kills
 
 Attuned to healing peri
 
-Permission to enter T&D purchased
+Permission to enter T\&D purchased
 
 </div>
 
@@ -454,11 +452,11 @@ How much?
 
 <div class="post" data-post-id="34354" data-author="Tuck" data-date="2013-07-15T01:56:48+00:00" data-subject="Re: 2 characters for trade">
 
-Rhodo gem ~20-30mils.
+Rhodo gem \~20-30mils.
 
 Do you think your chars worth 100 mils?
 
-Just answer yes or no :)
+Just answer yes or no <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

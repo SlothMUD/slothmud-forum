@@ -14,9 +14,9 @@ post_count: 1
 
 Rayne reported that a necro prime level 20 20 could not summon the same amount of pets as a non prime 20 20. After studying the code two bugs were found and fixed:
 
-1) non primes level 40 and under could summon more pets than a prime- FIXED
+1\) non primes level 40 and under could summon more pets than a prime- FIXED
 
-2) Necro prime 6x40 were getting the bonus server points meant to be 7x40 and 7x40 were getting the 6x40 server points- FIXED
+2\) Necro prime 6x40 were getting the bonus server points meant to be 7x40 and 7x40 were getting the 6x40 server points- FIXED
 
 Changes in on reboot
 

@@ -14,10 +14,10 @@ post_count: 1
 
 Hi all ...
 
-1) God you worship now show in score.
+1\) God you worship now show in score.
 
-2) Added a few more weapon types to both deathblow and sharpen.
+2\) Added a few more weapon types to both deathblow and sharpen.
 
-Credits on those go to Splork.  Changes are ingame.
+Credits on those go to Splork. Changes are ingame.
 
 </div>

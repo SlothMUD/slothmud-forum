@@ -18,7 +18,7 @@ I would suggest to prevent this that after a certain number of kills, you stop g
 
 This also would close the potentially infinite drac from the pit, and also restore some of the balance.
 
-Presently everything encourages one style of play... all damage..  
+Presently everything encourages one style of play... all damage.. 
 
 Well, waking up, will try and make a more clear post later.
 
@@ -28,9 +28,9 @@ Well, waking up, will try and make a more clear post later.
 
 Hello, my first-ever post here.
 
-Just out of curiosity, how does that affect you in anyway if someone does that. I believe there are hidden level limits that are considered fair. Atleast it takes alot out of your performance when you dont level 40, if someone wants to do that, I dont mind. Just have fun how you like it. Someone wants to push it? Let them push it. I do things my way, and it's all fun. Happy Slothing ppl  8) 
+Just out of curiosity, how does that affect you in anyway if someone does that. I believe there are hidden level limits that are considered fair. Atleast it takes alot out of your performance when you dont level 40, if someone wants to do that, I dont mind. Just have fun how you like it. Someone wants to push it? Let them push it. I do things my way, and it's all fun. Happy Slothing ppl <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> 
 
-- Belrath
+\- Belrath
 
 </div>
 
@@ -40,7 +40,7 @@ Altho, I wouldn't give access to exp group if someone is 40 39 39 something. If 
 
 Ofcourse groupleader in each group makes the decisions but that's just easy way to avoid the conflict amongst the players, imo. 
 
-- Belrath
+\- Belrath
 
 </div>
 
@@ -56,9 +56,9 @@ If you see 40/39/39/39 etc doing what they're doing, then probably they know abo
 
 <div class="post" data-post-id="36052" data-author="Ker" data-date="2015-08-19T18:13:53+00:00" data-subject="Re: level limits/cap on the colisiem">
 
-1) How does one who attains 40 39 39 39 39 39... "seem" to ruin game flow? 
+1\) How does one who attains 40 39 39 39 39 39... "seem" to ruin game flow? 
 
-2) How does a 40 39 39 39 39 39 support differently compared to a 40 40 40 40 40 40?
+2\) How does a 40 39 39 39 39 39 support differently compared to a 40 40 40 40 40 40?
 
 What am I even reading?
 
@@ -72,7 +72,7 @@ Dr
 
 Hmm, I'm probably wrong about the support thing. I was talking mostly on the 'feel' based thing. It 'feels' like some with alots of them 39 39 39 's is just getting easy xp. I have to think this through again, I might be wrong. No worries.
 
-- Belrath
+\- Belrath
 
 </div>
 
@@ -160,11 +160,11 @@ I started off with Valkyrie, autoquests then coliseum. The fun keeps kicking in 
 
 After everything that we did, which includes finding proper dex, max mana mode, mems, proper astrology and also a spell save mode, I find it really ridiculous that efforts that we put in only gave me 4 kills more on top of Kirei. 
 
-For the incoming coliseum challenges, I do not know what we can achieve. However, here is what I can share. **Stop whinning and keep trying!!**
+For the incoming coliseum challenges, I do not know what we can achieve. However, here is what I can share. <strong>Stop whinning and keep trying!!</strong>
 
 So far so good in slothmud. I hope that the fun keeps rolling in. I also experienced grouping with Taron, where he is a very steady leader and keep the group going with less boring regens. Finding the right combination and tricks should be the key of getting results, if what everyone here is all about.
 
-Cheers, peace out ~
+Cheers, peace out \~
 
 Tembikai
 
@@ -178,7 +178,7 @@ You just need to have in mind that Kirei put the same amount of effort as you di
 
 <div class="post" data-post-id="36520" data-author="*juggleblood*" data-date="2016-01-19T17:15:45+00:00" data-subject="Re: level limits/cap on the colisiem">
 
-It's not fair to call people's suggestions 'whining'. I can see where non-casters might find it unfair. But the results don't lie. There is a very diverse representation of classes when you look at the top scorers. This didn't used to be the case.  I think by restoring mana and not hp/mv we've come about as close to class parity as we will get without having to nerf second wind or the actions one can do while deathgripping.
+It's not fair to call people's suggestions 'whining'. I can see where non-casters might find it unfair. But the results don't lie. There is a very diverse representation of classes when you look at the top scorers. This didn't used to be the case. I think by restoring mana and not hp/mv we've come about as close to class parity as we will get without having to nerf second wind or the actions one can do while deathgripping.
 
 Levels 1-5 could probably use a boost to hitroll/damage tho to even things out a bit.
 
@@ -202,8 +202,8 @@ Just remember that Josiah previously played druid prime Magi who owned coliseum 
 
 <div class="post" data-post-id="36527" data-author="Josiah" data-date="2016-01-21T17:18:07+00:00" data-subject="Re: level limits/cap on the colisiem">
 
-That's the beauty of slothmud's multiclass system.  If you believe a particular class has the advantage, you can BE that class.  Magi pretended to be a mage in order to get those high scores, and we all know Josiah wouldn't be caught dead wearing traditional warrior equipment.
+That's the beauty of slothmud's multiclass system. If you believe a particular class has the advantage, you can BE that class. Magi pretended to be a mage in order to get those high scores, and we all know Josiah wouldn't be caught dead wearing traditional warrior equipment.
 
-In the low arenas, the advantage seems to lie with those that deal damage fastest: mages, thieves, and monks.  Isn't it convenient that regardless of your prime, you are also a mage thief monk?  Grab yourself some damage or caster equipment and give it a try.
+In the low arenas, the advantage seems to lie with those that deal damage fastest: mages, thieves, and monks. Isn't it convenient that regardless of your prime, you are also a mage thief monk? Grab yourself some damage or caster equipment and give it a try.
 
 </div>

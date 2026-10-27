@@ -14,7 +14,7 @@ post_count: 2
 
 Was looking at the blog and couldn't help but notice that one player Hyrul seems to be killing himself on a regular basis:
 
-[url:3dpd7d8s]http://www.slothmud.org/index.php?pname=hyrul&ctype%5B%5D=0&module=Sloth_Blog&start=0&end=50[/url:3dpd7d8s]
+http://www.slothmud.org/index.php?pname=hyrul&ctype%5B%5D=0&module=Sloth_Blog&start=0&end=50
 
 Is this for real or a bug in the blog / mudcode or does hyrul really really need some help?
 

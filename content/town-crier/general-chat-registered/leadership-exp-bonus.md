@@ -14,7 +14,7 @@ post_count: 3
 
 Offlyme:
 
-<4 people = 0
+\<4 people = 0
 
 4 people = 11.99%
 

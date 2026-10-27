@@ -12,13 +12,13 @@ post_count: 7
 
 <div class="post" data-post-id="7432" data-author="**Jake**" data-date="2005-06-22T03:36:46+00:00" data-subject="Spellbook Read times..">
 
-Overall read times for spellbooks will go down on the next reboot.  All in-game books used to range from 1 to 10 ticks to read.  After the reboot, the range will be 1 to 4 ticks and it's based on the spell level.  Before, the read time was based on an arbitrary number set on each book when the spellbook was made.  (NOTE: As with the old system, your read times may still vary by up to one tick.)
+Overall read times for spellbooks will go down on the next reboot. All in-game books used to range from 1 to 10 ticks to read. After the reboot, the range will be 1 to 4 ticks and it's based on the spell level. Before, the read time was based on an arbitrary number set on each book when the spellbook was made. (NOTE: As with the old system, your read times may still vary by up to one tick.)
 
 Enjoy,
 
 Jake
 
-P.S.  10 Ticks?  Yikes!
+P.S. 10 Ticks? Yikes!
 
 </div>
 
@@ -26,7 +26,7 @@ P.S.  10 Ticks?  Yikes!
 
 Thanks!
 
- 8)
+ <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -62,8 +62,9 @@ bad
 
 No no... bad dog
 
-norespect jake
-
-bad[/quote:2w2sus69]
+> <strong>Zam wrote:</strong>
+> norespect jake
+> 
+> bad
 
 </div>

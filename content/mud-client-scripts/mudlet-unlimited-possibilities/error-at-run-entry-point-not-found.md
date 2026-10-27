@@ -24,11 +24,11 @@ Googling now
 
 <div class="post" data-post-id="36821" data-author="Yasik" data-date="2016-04-13T16:52:16+00:00" data-subject="Re: Error at run, entry point not found">
 
-Microsoft says this .dll can be corrupted:  [https://support.microsoft.com/en-us/kb/324762](https://support.microsoft.com/en-us/kb/324762)
+Microsoft says this .dll can be corrupted: [https://support.microsoft.com/en-us/kb/324762](https://support.microsoft.com/en-us/kb/324762)
 
-Mudlet forum says XP no longer supported and it wont work under XP anymore: [<LINK_TEXT text="http://forums.mudlet.org/viewtopic.php? ... 0&start=30">http://forums.mudlet.org/viewtopic.php?f=5&t=4610&start=30</LINK_TEXT>](http://forums.mudlet.org/viewtopic.php?f=5&t=4610&start=30)
+Mudlet forum says XP no longer supported and it wont work under XP anymore: [http://forums.mudlet.org/viewtopic.php?f=5&t=4610&start=30](http://forums.mudlet.org/viewtopic.php?f=5&t=4610&start=30)
 
-Trying to download older version of Mudlet  "Mudlet 2.1 (Windows)" give an error "Invalid File ID or File Name."
+Trying to download older version of Mudlet "Mudlet 2.1 (Windows)" give an error "Invalid File ID or File Name."
 
 </div>
 

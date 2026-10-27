@@ -14,9 +14,9 @@ post_count: 1
 
 There have been a few of these lately about problems memorizing specific spells so I figured I'd lay out the rules.
 
-1) Avatar spells can not be memorized.
+1\) Avatar spells can not be memorized.
 
-2) Currently there are only mage stones in the game so only mage spells can be memorized.  A mage spell is a spell where the mage level to learn is <= all other classes level to learn.
+2\) Currently there are only mage stones in the game so only mage spells can be memorized. A mage spell is a spell where the mage level to learn is \<= all other classes level to learn.
 
 So from the bug reports:
 

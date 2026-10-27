@@ -12,17 +12,17 @@ post_count: 2
 
 <div class="post" data-post-id="3637" data-author="iain" data-date="2005-01-06T15:49:37+00:00" data-subject="wtb: mana wrist stuff">
 
-Interested in any of the following, looking to buy 6 or so items, so cough em up please. :)
+Interested in any of the following, looking to buy 6 or so items, so cough em up please. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-Strip of Silver Cloth 	King Joraine	Temple Ruins	+0.1	+5 Mana, +1 Ma Regen
+Strip of Silver Cloth King Joraine	Temple Ruins	+0.1	+5 Mana, +1 Ma Regen
 
-Ruby Bracelet 	Drezmir 	Diabolan Valley (Far North)	-0.0	+10 Mana
+Ruby Bracelet Drezmir Diabolan Valley (Far North)	-0.0	+10 Mana
 
-Etched Marble Circle 	High Priest	Diabolan Valley (Far North)	-0.0	+1 Ma Regen, +8 Mana
+Etched Marble Circle High Priest	Diabolan Valley (Far North)	-0.0	+1 Ma Regen, +8 Mana
 
-Dragonskin Bracelet 	Green Dragon 	Underdark	-0.0	+8 Mana, +1 Ma Regen
+Dragonskin Bracelet Green Dragon Underdark	-0.0	+8 Mana, +1 Ma Regen
 
-Bracer of Flames 	Undead General 	Tomb	-0.0	+3 Mana, +1 Ma Regen
+Bracer of Flames Undead General Tomb	-0.0	+3 Mana, +1 Ma Regen
 
 </div>
 

@@ -16,39 +16,39 @@ Greetings.
 
 To my understanding, right now if you buy drachma eq, you vest in it for life, because:
 
-- you can only sell it for 1/3 of the price
+\- you can only sell it for 1/3 of the price
 
-- drachma supply is limited by the amount of autoquests
+\- drachma supply is limited by the amount of autoquests
 
-- there are very few immortal quests run or shards popped to count on this drachma supply seriously (to the point of buying another good item)
+\- there are very few immortal quests run or shards popped to count on this drachma supply seriously (to the point of buying another good item)
 
-- doing epics isn't a reliable source of drachma as well (what's the last time people killed a drachma epic and were you in that group?)
+\- doing epics isn't a reliable source of drachma as well (what's the last time people killed a drachma epic and were you in that group?)
 
 Thus, you can't be as versatile with your eq/playing style as you can get with ingame eq (that you can change w/o paying much, except for popping/buying the item) or tri40 eq, which you can exchange at the max cost of 15mil gold.
 
 Which means that
 
-- players wait until they get 500-1k drachma to buy good items they intend to keep forever
+\- players wait until they get 500-1k drachma to buy good items they intend to keep forever
 
-- players buy or use few items overall - just those good items they save for, but the rest items get ignored, even though they are in the shops (the complete thalassan set, most 100-300 dr items, such as the +str shield clasp)
+\- players buy or use few items overall - just those good items they save for, but the rest items get ignored, even though they are in the shops (the complete thalassan set, most 100-300 dr items, such as the +str shield clasp)
 
-- there's a chance you'll find out you've wasted your drachma much later, when you:
+\- there's a chance you'll find out you've wasted your drachma much later, when you:
 
- + decide you want to change your playing style
+ \+ decide you want to change your playing style
 
- + have obtained another advantage in another slot and you'd like to move your item, but you can't
+ \+ have obtained another advantage in another slot and you'd like to move your item, but you can't
 
- + see a better, new item in the shop or in the immortal goodie bag
+ \+ see a better, new item in the shop or in the immortal goodie bag
 
- + get a max stat item from a new forge or piece of eq
+ \+ get a max stat item from a new forge or piece of eq
 
-What I suggest is that **players should be able to sell the drachma equipment for the amount they paid for it**. This way players would:
+What I suggest is that <strong>players should be able to sell the drachma equipment for the amount they paid for it</strong>. This way players would:
 
-- buy drachma equipment earlier
+\- buy drachma equipment earlier
 
-- buy different items, as they progress with drachma amount
+\- buy different items, as they progress with drachma amount
 
-- buy different items to test different playing styles
+\- buy different items to test different playing styles
 
 If immortals think that enjoying the drachma eq is too much, they can add a gold cost for selling a drachma item, proportional to the drachma cost. Dunno, maybe 1k gold for each 1 drachma cost? or make it exponential, like it's done for tri40 eq.
 
@@ -58,13 +58,13 @@ Thank you.
 
 <div class="post" data-post-id="32180" data-author="blackmore" data-date="2010-12-18T17:34:23+00:00" data-subject="Re: Selling Drachma EQ">
 
-While I  don't think asking to get a full refund for used eq is likely going to happen, it would be nice if you got more than 1/3.  What I want at 3x40 or 4x40 will be vastly different than what I want at 8x40 after 2 more 3x40 items and who knows how many items added/found, runes, etc.
+While I don't think asking to get a full refund for used eq is likely going to happen, it would be nice if you got more than 1/3. What I want at 3x40 or 4x40 will be vastly different than what I want at 8x40 after 2 more 3x40 items and who knows how many items added/found, runes, etc.
 
 </div>
 
 <div class="post" data-post-id="32181" data-author="Thraxas" data-date="2010-12-18T23:42:14+00:00" data-subject="Re: Selling Drachma EQ">
 
-> **Teron wrote:**
+> <strong>Teron wrote:</strong>
 > What I suggest is that players should be able to sell the drachma equipment for the amount they paid for it.
 
 Wow controversial suggestion, not sure I believe it will happen, but yes I would wholeheartedly support the suggestion as not only being sensible and in keeping with the ethos of the game that led to the name sloth, but also would also improve the enjoyability of the game without unbalancing it. There must however be some penalty for selling dr eq to prevent 5 times daily changes as you switch eq sets, but you're right that the penalty should be a disposable resource (e.g. coins/xp/levels) rather than punative (i.e. drachma), or should only be permitted in rare circumstance (e.g. each time an av level / a new 40 is gained).
@@ -93,7 +93,7 @@ Runes, as much as I see them as being one of the best additions to the game sinc
 
 Drachma is a bit like the American dollar at the moment. (Generally speaking) However I do recommend doing the quests, it's a part of sloth I enjoy more than the endless... 200 kazillion xp till next level and +1.
 
-Since scatters and some quests have been cut back in the new game, (and you know how I feel about the changes to the vampire_slayer quest...) it would seem the imms were trying to be frugal with drachma at the start while deciding what to do with it later. However it would seem enthusiasm for the drachma currency is yet to be reestablished since the binding up of it's flow.
+Since scatters and some quests have been cut back in the new game, (and you know how I feel about the changes to the vampire\_slayer quest...) it would seem the imms were trying to be frugal with drachma at the start while deciding what to do with it later. However it would seem enthusiasm for the drachma currency is yet to be reestablished since the binding up of it's flow.
 
 I think most players could easy spend 1500 drachma if they had it. However I find the majority of strong eq is not in the drachma group, and you would mostly come out with improvements like more max mana and stats than overwhelming extra awesomeness... (apart from the 1 or 2 candy items each class has in drachma - most of it is useful only for auxiliary modes)
 

@@ -19,8 +19,8 @@ spin wheel
 ```
 You spin the wheel of opportunity.
  
-For       Benq the wheel of opportunity spins 428.
-For      Whiff the wheel of opportunity spins 346.
+For Benq the wheel of opportunity spins 428.
+For Whiff the wheel of opportunity spins 346.
  
 The winner is Benq with 428.
 ```
@@ -33,7 +33,7 @@ let me know if you find any bugs with it.
 
 <div class="post" data-post-id="32659" data-author="*Breeze*" data-date="2011-06-06T00:34:17+00:00" data-subject="Re: Wheel of Opportunity">
 
-**Wheel of Opportunity Followup**
+<strong>Wheel of Opportunity Followup</strong>
 
 try 'help wheel' when you have a wheel in inventory.
 
@@ -47,6 +47,6 @@ spin wheel low -- spins wheel (lowest # wins)
 
 <div class="post" data-post-id="32660" data-author="jezer" data-date="2011-06-06T19:01:38+00:00" data-subject="Re: Wheel of Opportunity">
 
-spin wheel jezer will eventually trade all the gems to tuk.  :twisted:
+spin wheel jezer will eventually trade all the gems to tuk. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

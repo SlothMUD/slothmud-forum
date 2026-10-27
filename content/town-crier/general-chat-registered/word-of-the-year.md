@@ -12,12 +12,12 @@ post_count: 2
 
 <div class="post" data-post-id="21638" data-author="Akasha" data-date="2007-12-12T17:28:57+00:00" data-subject="Word of the Year">
 
-[url:357fg8ty]http://news.yahoo.com/s/ap/20071211/ap_on_re_us/word_of_the_year[/url:357fg8ty]
+http://news.yahoo.com/s/ap/20071211/ap_on_re_us/word_of_the_year
 
 </div>
 
 <div class="post" data-post-id="21639" data-author="Alberich" data-date="2007-12-12T18:08:52+00:00" data-subject="">
 
-[img:sjkmijqh]http://www.podbean.com/wp-content/blogs/1033/uploads/hihlogo.jpg[/img:sjkmijqh]
+![](http://www.podbean.com/wp-content/blogs/1033/uploads/hihlogo.jpg)
 
 </div>

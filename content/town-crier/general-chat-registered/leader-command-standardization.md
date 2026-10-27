@@ -18,7 +18,7 @@ Currently, every tank and stabber has there own way of doing things... and if yo
 
 I held off making a post, because I don't expect the topic to be popular, nor that people would change simply because I suggest it, but in the future I intend to change gorka's scripts to mirror aliases scripts which I think forms the basis of a good protocol.
 
-It basically follows the format of <player name> <action>... 
+It basically follows the format of \<player name\> \<action\>... 
 
 alias stab 
 

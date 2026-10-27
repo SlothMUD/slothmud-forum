@@ -12,7 +12,7 @@ post_count: 2
 
 <div class="post" data-post-id="12591" data-author="jezer" data-date="2006-05-19T05:41:36+00:00" data-subject="Website Bug">
 
-Library->Fantasy Names got me to a page about Clients!
+Library-\>Fantasy Names got me to a page about Clients!
 
 When is the class skill pages coming back to the website?
 
@@ -22,8 +22,8 @@ When is the class skill pages coming back to the website?
 
 And Hall of Flame needs updating as well...
 
-I don't see rynquald, vaire or his nabness in there yet :(
+I don't see rynquald, vaire or his nabness in there yet <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
-Come to think of it I don't see myself in there either!  :twisted:
+Come to think of it I don't see myself in there either! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

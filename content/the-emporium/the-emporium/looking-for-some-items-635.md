@@ -24,15 +24,13 @@ Red Ring of Scales
 
 Worm Shaped Brooch (2)
 
-Adamantine Gloves (prefered) [i:1ajhwmij]OR[/i:1ajhwmij] Fish Scale Gauntlets
+Adamantine Gloves (prefered) <em>OR</em> Fish Scale Gauntlets
 
 Belt of Vitality
 
 Not really sure of the prices on these, but if ya have one you might get rid of, catch me on line and we can talk.
 
 Thanks,
-
- 
 
 Tetsu
 

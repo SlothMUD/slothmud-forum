@@ -16,11 +16,11 @@ Hi I'm thinking of selling off my character masado and wanted to gauge interest.
 
 thanks a lot
 
--doug
+\-doug
 
-Masado !  (level: 40)
+Masado ! (level: 40)
 
-Your levels:  Ma: 40 Mo: 25 Th: 11 Cl: 15
+Your levels: Ma: 40 Mo: 25 Th: 11 Cl: 15
 
 You are 20 years and 15 months old.
 
@@ -46,6 +46,6 @@ Str: 15 / 0, Int: 18, Wis: 17, Dex: 15, Con: 17
 
 You are standing.
 
-You are affected by the following spells:   None.
+You are affected by the following spells: None.
 
 </div>

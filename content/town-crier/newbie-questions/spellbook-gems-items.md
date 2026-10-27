@@ -14,7 +14,7 @@ post_count: 3
 
 I'm wondering...
 
-  if there's any help files or such that explain to newbies with
+ if there's any help files or such that explain to newbies with
 
 some of the spellbooks they will need to have/hold other items
 
@@ -32,6 +32,6 @@ does identify on the spellbook itself show it?
 
 <div class="post" data-post-id="145" data-author="Alberich" data-date="2004-04-22T08:36:34+00:00" data-subject="">
 
-i think it is hinted at vaugly in the o­nline help for some of the spells.  If you click o­n the spell descrip o­n the webpage (this o­ne) royal library, every book that requires an object to be held to read (like firewind) is listed as Object: xxx under the min mana bit.
+i think it is hinted at vaugly in the o­nline help for some of the spells. If you click o­n the spell descrip o­n the webpage (this o­ne) royal library, every book that requires an object to be held to read (like firewind) is listed as Object: xxx under the min mana bit.
 
 </div>

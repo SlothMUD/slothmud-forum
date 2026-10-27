@@ -16,7 +16,7 @@ I foolishly tried to solo Fox Direheart today (Because he's a rare thing left to
 
 I had him to 20% in 30 seconds, with some nice chops...
 
-<1307hp 178ma 480mv -13.1ac Darken Wood 21%>
+\<1307hp 178ma 480mv -13.1ac Darken Wood 21%\>
 
 You viciously massacre Fox Direheart with your cleave.
 
@@ -42,11 +42,11 @@ You viciously massacre Fox Direheart with your cleave.
 
 You viciously massacre Fox Direheart with your cleave.
 
-Fox Direheart tells you 'Oh, I'm going to enjoy killing YOU.  I laid my eyes on you the moment you came 
+Fox Direheart tells you 'Oh, I'm going to enjoy killing YOU. I laid my eyes on you the moment you came 
 
-here.  You sweet thing.'
+here. You sweet thing.'
 
-Fox Direheart snaps his fingers and you find yourself elsewhere, your comrades no longer there.  You 
+Fox Direheart snaps his fingers and you find yourself elsewhere, your comrades no longer there. You 
 
 have a premonition it's not going to end well...
 
@@ -54,7 +54,7 @@ refresh Fox Direheart
 
 Murder for Pleasure
 
-   Fox Direheart's secret relaxation place is a maniac's dream incarnate.
+ Fox Direheart's secret relaxation place is a maniac's dream incarnate.
 
 The very air in the small room seems to emanate invisible menace and
 
@@ -62,11 +62,11 @@ smells of old and careless murder, as if a thousand prisoners of war
 
 were slaughtered here in no painless way for no other purpose than the
 
-delight of their torturer.  There is a barely perceptible whiff of old
+delight of their torturer. There is a barely perceptible whiff of old
 
 smoke with undertones of sulphur mixing with the sickly sweet scent of
 
-burnt flesh.  The room might have exits, but none are visible to a naked
+burnt flesh. The room might have exits, but none are visible to a naked
 
 eye, which adds greatly to the already immense feeling of uneasiness that
 
@@ -78,11 +78,11 @@ Exits:
 
 Fox Direheart is encased in a silvery sphere!
 
-<1001hp 179ma 481mv -13.1ac Darken Wood -%>
+\<1001hp 179ma 481mv -13.1ac Darken Wood -%\>
 
 retreat e
 
-<1007hp 182ma 486mv -13.1ac Darken Wood -%>
+\<1007hp 182ma 486mv -13.1ac Darken Wood -%\>
 
 Struggling against invisible bonds of terror, gasping, crying like a baby,
 
@@ -98,41 +98,41 @@ everyday blood and mayhem suddenly seem cozy and fuzzy remembrances of home.
 
 Repository of Dread
 
-   The room is home to countless magical paraphernalia, some of it not
+ The room is home to countless magical paraphernalia, some of it not
 
 above trinketry, some honest magician's items, some inundated with very
 
-dark undertones.  A door in the eastern wall offers ingress and egress
+dark undertones. A door in the eastern wall offers ingress and egress
 
-to anyone who dares visit this murky cellar.  If not actually a repository
+to anyone who dares visit this murky cellar. If not actually a repository
 
-of dread, this place comes very close to being one.  Every sense is quite
+of dread, this place comes very close to being one. Every sense is quite
 
 mercilessly assaulted here: cackling laughter is heard at the threshold
 
 of audibility; shadows dance on the walls, taking obscene shapes; bats
 
-flap by, brushing against the visitors in a most frivolous manner.  It
+flap by, brushing against the visitors in a most frivolous manner. It
 
 smells distinctly clear of crypts, death, graves, and corpses sliced open.
 
-Exits: East  
+Exits: East 
 
 You make a hasty retreat.
 
-<1009hp 183ma 486mv -13.1ac Darken Wood -%>
+\<1009hp 183ma 486mv -13.1ac Darken Wood -%\>
 
 A voice in your head says 'My victim no longer inhabits this mortal coil.'
 
 where fox
 
-You are in Darken Wood.  Also in this area are:
+You are in Darken Wood. Also in this area are:
 
-Name                           - Location
+Name - Location
 
------------------------------------------
+\-----------------------------------------
 
-Fox Direheart                  - Murder for Pleasure
+Fox Direheart - Murder for Pleasure
 
 cast 'wizard' fox
 
@@ -140,7 +140,7 @@ Ok.
 
 Murder for Pleasure
 
-   Fox Direheart's secret relaxation place is a maniac's dream incarnate.
+ Fox Direheart's secret relaxation place is a maniac's dream incarnate.
 
 The very air in the small room seems to emanate invisible menace and
 
@@ -148,11 +148,11 @@ smells of old and careless murder, as if a thousand prisoners of war
 
 were slaughtered here in no painless way for no other purpose than the
 
-delight of their torturer.  There is a barely perceptible whiff of old
+delight of their torturer. There is a barely perceptible whiff of old
 
 smoke with undertones of sulphur mixing with the sickly sweet scent of
 
-burnt flesh.  The room might have exits, but none are visible to a naked
+burnt flesh. The room might have exits, but none are visible to a naked
 
 eye, which adds greatly to the already immense feeling of uneasiness that
 
@@ -172,11 +172,11 @@ Fox Direheart is encased in a silvery sphere!
 
 You peer intently all around, and see:
 
-             arms of the abyss : right here
+ arms of the abyss : right here
 
-                 Fox Direheart : right here
+ Fox Direheart : right here
 
-<1438hp 930ma 569mv -13.1ac Darken Wood 74%>
+\<1438hp 930ma 569mv -13.1ac Darken Wood 74%\>
 
 You deal a massive blow to one of Fox Direheart's vital organs.
 
@@ -212,15 +212,15 @@ Fox Direheart mutters a single word of power and a swarm of blazing beetles appe
 
 start devouring you alive!
 
-You grouptell: 'Oh Lord, Dear Enea, help me! I'm being eaten alive by some horrible bugs!  Will someone 
+You grouptell: 'Oh Lord, Dear Enea, help me! I'm being eaten alive by some horrible bugs! Will someone 
 
 do something? PLEASE, NO! NOT MY EYES! NO!!!'
 
-Some of the beetles reach your eyes and eat inside your skull.  Not only is this unbearably painful, you 
+Some of the beetles reach your eyes and eat inside your skull. Not only is this unbearably painful, you 
 
 can no longer see!
 
-<53hp 930ma 570mv -13.1ac Darken Wood 72%>
+\<53hp 930ma 570mv -13.1ac Darken Wood 72%\>
 
 LOSING!
 
@@ -254,9 +254,9 @@ You wish that your wounds would stop BLEEDING that much!
 
 You have been KILLED!! 
 
-Lie still; you are DEAD!!! :-( 
+Lie still; you are DEAD!!! <img src="/images/smilies/icon_e_sad.svg" alt=":-(" title=":-(" width="15" height="15" class="smiley nozoom"> 
 
-<-21hp 930ma 570mv -6.6ac Darken Wood -%>
+\<-21hp 930ma 570mv -6.6ac Darken Wood -%\>
 
 But lastly he has some procs which basically amount to death procs, because no one could survive 1400hp hits when this area was made at the time. The big issue is that the key, which I popped yesterday doesn't pop very often... and although I popped two during BH day yesterday... the second one was on my corpse (my bad)... but it wouldn't do any good anyway... my corpse is in his no exit room. The area is designed in such a way that a probable death down there will lock the player out from getting there corpse, this is also a "feature" of other areas in the game... and hence those areas are rarely run, which is kind of counter productive, but at least those areas, another person can help you get you corpse... not so in darken wood.
 
@@ -274,7 +274,7 @@ I'm also curious as I fought him as -13.1ac but died with -6.6ac, how? And I am 
 
 <div class="post" data-post-id="39192" data-author="Gorka" data-date="2019-05-16T10:56:45+00:00" data-subject="Re: Fox Direheart">
 
-Thanks to Maniac who transfered me to get my stuff from the no_exit room. My corpse had decomposed hours ago and all the stuff was on the floor.
+Thanks to Maniac who transfered me to get my stuff from the no\_exit room. My corpse had decomposed hours ago and all the stuff was on the floor.
 
 I searched in the room "Murder for Pleasure" where I was butchered, there was an exit to the north which lead to Direhearts room. The exit was secret but without doors. It's probably one way, but there could be a trig trap at direhearts room. I searched direhearts room before I died and could find nothing.
 
@@ -296,21 +296,21 @@ everyday blood and mayhem suddenly seem cozy and fuzzy remembrances of home."
 
 Repository of Dread
 
-   The room is home to countless magical paraphernalia, some of it not
+ The room is home to countless magical paraphernalia, some of it not
 
 above trinketry, some honest magician's items, some inundated with very
 
-dark undertones.  A door in the eastern wall offers ingress and egress
+dark undertones. A door in the eastern wall offers ingress and egress
 
-to anyone who dares visit this murky cellar.  If not actually a repository
+to anyone who dares visit this murky cellar. If not actually a repository
 
-of dread, this place comes very close to being one.  Every sense is quite
+of dread, this place comes very close to being one. Every sense is quite
 
 mercilessly assaulted here: cackling laughter is heard at the threshold
 
 of audibility; shadows dance on the walls, taking obscene shapes; bats
 
-flap by, brushing against the visitors in a most frivolous manner.  It
+flap by, brushing against the visitors in a most frivolous manner. It
 
 smells distinctly clear of crypts, death, graves, and corpses sliced open.
 
@@ -326,7 +326,7 @@ If anyone knows a trig trap to enter "Murder for Pleasure" please post it. If th
 
 <div class="post" data-post-id="39193" data-author="Driven" data-date="2019-05-16T13:51:06+00:00" data-subject="Re: Fox Direheart">
 
-Yea, Fox's room was busted.  I have fixed it.  And yes, his proc is extremely complex and appears to be intended to prevent people from soloing him.
+Yea, Fox's room was busted. I have fixed it. And yes, his proc is extremely complex and appears to be intended to prevent people from soloing him.
 
 </div>
 

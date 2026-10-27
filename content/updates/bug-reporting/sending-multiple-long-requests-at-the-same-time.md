@@ -14,11 +14,11 @@ post_count: 6
 
 Hey guys, I found an interesting issue you can test for yourself
 
-==============================================================================================
+\==============================================================================================
 
 If you are using Zmud or Cmud, type #loop 50 {say %i blablablalafljsdkfsdlkfjsdflkdsjflksjfslkfjsdlfjsdlfsjfdslkfjslfjsklfjsdlfjslfjsfklsjflsjfslkfjsdfslkjfdslfkjslsadasda}
 
-==============================================================================================
+\==============================================================================================
 
 If you are using Mudlet make an alias with any name and pattern blabla
 
@@ -32,7 +32,7 @@ end
 
 and type blabla to activate it
 
-==============================================================================================
+\==============================================================================================
 
 This basically sends 50 lines of say command with a serial number and blablablalafljsdkfsdlkfjsdflkdsjflksjfslkfjsdlfjsdlfsjfdslkfjslfjsklfjsdlfjslfjsfklsjflsjfslkfjsdfslkjfdslfkjslsadasda after it. 
 
@@ -40,15 +40,15 @@ This line isn't long enough to be truncated by the mud, but because it gets spam
 
 This issue was already raised with an Immortal staff yesterday, but wasn't tested properly and resulted in dismissal. Since i was using Cmud and Immortal was using Wintin, it was suggested that it was Cmud issue, but it turns out that it's not.
 
-==============================================================================================
+\==============================================================================================
 
 Here are some logs if you don't want to test anything yourself, these are only one example out of many, as i said sometimes it reports fine, other times you get weird response like below, sometimes after the command is executed and your client sends the request, the mud just completely ignores your input.
 
 CMUD:
 
-#loop 50 {say %i blablablalafljsdkfsdlkfjsdflkdsjflksjfslkfjsdlfjsdlfsjfdslkfjslfjsklfjsdlfjslfjsfklsjflsjfslkfjsdfslkjfdslfkjslsadasda} 
+\#loop 50 {say %i blablablalafljsdkfsdlkfjsdflkdsjflksjfslkfjsdlfjsdlfsjfdslkfjslfjsklfjsdlfjslfjsfklsjflsjfslkfjsdfslkjfdslfkjslsadasda} 
 
-<906hp 931ma 369mv>say 1 blablablalafljsdkfsdlkfjsdflkdsjflksjfslkfjsdlfjsdlfsjfdslkfjslfjsklfjsdlfjslfjsfklsjflsjfslkfjsdfslkjfdslfkjslsadasda 
+\<906hp 931ma 369mv\>say 1 blablablalafljsdkfsdlkfjsdflkdsjflksjfslkfjsdlfjsdlfsjfdslkfjslfjsklfjsdlfjslfjsfklsjflsjfslkfjsdfslkjfdslfkjslsadasda 
 
 say 2 blablablalafljsdkfsdlkfjsdflkdsjflksjfslkfjsdlfjsdlfsjfdslkfjslfjsklfjsdlfjslfjsfklsjflsjfslkfjsdfslkjfdslfkjslsadasda 
 
@@ -160,7 +160,7 @@ You say '49 blablablalafljsdkfsdlkfjsdflkdsjflksjfslkfjsdlfjsdlfsjfdslkfjslfjskl
 
 You say '50 blablablalafljsdkfsdlkfjsdflkdsjflksjfslkfjsdlfjsdlfsjfdslkfjslfjsklfjsdlfjslfjsfklsjflsjfslkfjsdfslkjfdslfkjslsadasda'
 
-==============================================================================================
+\==============================================================================================
 
 Here is Mudlet
 
@@ -368,7 +368,7 @@ blablablalafljsdkfsdlkfjsdflkdsjflksjfslkfjsdlfjsdlfsjfdslkfjslfjsklfjsdlfjslfjs
 
 Arglebargle, glop-glyf!?! 
 
-<906hp 927ma 369mv> 
+\<906hp 927ma 369mv\> 
 
 You say '36 
 
@@ -376,7 +376,7 @@ blablablalafljsdkfsdlkfjsdflkdsjflksjfslkfjsdlfjsdlfsjfdslkfjslfjsklfjsdlfjslfjs
 
 jfdslfkjslsadasda' 
 
-<906hp 927ma 369mv> 
+\<906hp 927ma 369mv\> 
 
 You say '37 
 
@@ -384,13 +384,13 @@ blablablalafljsdkfsdlkfjsdflkdsjflksjfslkfjsdlfjsdlfsjfdslkfjslfjsklfjsdlfjslfjs
 
 jfdslfkjslsadasda' 
 
-<906hp 927ma 369mv>You say '38 
+\<906hp 927ma 369mv\>You say '38 
 
 blablablalafljsdkfsdlkfjsdflkdsjflksjfslkfjsdlfjsdlfsjfdslkfjslfjsklfjsdlfjslfjsfklsjflsjfslkfjsdfslk 
 
 jfdslfkjslsadasda' 
 
-<906hp 927ma 369mv> 
+\<906hp 927ma 369mv\> 
 
 You say '39 
 
@@ -398,7 +398,7 @@ blablablalafljsdkfsdlkfjsdflkdsjflksjfslkfjsdlfjsdlfsjfdslkfjslfjsklfjsdlfjslfjs
 
 jfdslfkjslsadasda' 
 
-<906hp 927ma 369mv> 
+\<906hp 927ma 369mv\> 
 
 You say '40 
 
@@ -406,13 +406,13 @@ blablablalafljsdkfsdlkfjsdflkdsjflksjfslkfjsdlfjsdlfsjfdslkfjslfjsklfjsdlfjslfjs
 
 jfdslfkjslsadasda' 
 
-<906hp 927ma 369mv>You say '41 
+\<906hp 927ma 369mv\>You say '41 
 
 blablablalafljsdkfsdlkfjsdflkdsjflksjfslkfjsdlfjsdlfsjfdslkfjslfjsklfjsdlfjslfjsfklsjflsjfslkfjsdfslk 
 
 jfdslfkjslsadasda' 
 
-<906hp 927ma 369mv> 
+\<906hp 927ma 369mv\> 
 
 You say '42 
 
@@ -420,7 +420,7 @@ blablablalafljsdkfsdlkfjsdflkdsjflksjfslkfjsdlfjsdlfsjfdslkfjslfjsklfjsdlfjslfjs
 
 jfdslfkjslsadasda' 
 
-<906hp 927ma 369mv> 
+\<906hp 927ma 369mv\> 
 
 You say '43 
 
@@ -428,13 +428,13 @@ blablablalafljsdkfsdlkfjsdflkdsjflksjfslkfjsdlfjsdlfsjfdslkfjslfjsklfjsdlfjslfjs
 
 jfdslfkjslsadasda' 
 
-<906hp 927ma 369mv>You say '44 
+\<906hp 927ma 369mv\>You say '44 
 
 blablablalafljsdkfsdlkfjsdflkdsjflksjfslkfjsdlfjsdlfsjfdslkfjslfjsklfjsdlfjslfjsfklsjflsjfslkfjsdfslk 
 
 jfdslfkjslsadasda' 
 
-<906hp 927ma 369mv> 
+\<906hp 927ma 369mv\> 
 
 You say '45 
 
@@ -442,7 +442,7 @@ blablablalafljsdkfsdlkfjsdflkdsjflksjfslkfjsdlfjsdlfsjfdslkfjslfjsklfjsdlfjslfjs
 
 jfdslfkjslsadasda' 
 
-<906hp 927ma 369mv> 
+\<906hp 927ma 369mv\> 
 
 You say '46 
 
@@ -450,13 +450,13 @@ blablablalafljsdkfsdlkfjsdflkdsjflksjfslkfjsdlfjsdlfsjfdslkfjslfjsklfjsdlfjslfjs
 
 jfdslfkjslsadasda' 
 
-<906hp 927ma 369mv>You say '47 
+\<906hp 927ma 369mv\>You say '47 
 
 blablablalafljsdkfsdlkfjsdflkdsjflksjfslkfjsdlfjsdlfsjfdslkfjslfjsklfjsdlfjslfjsfklsjflsjfslkfjsdfslk 
 
 jfdslfkjslsadasda' 
 
-<906hp 927ma 369mv> 
+\<906hp 927ma 369mv\> 
 
 You say '48 
 
@@ -464,7 +464,7 @@ blablablalafljsdkfsdlkfjsdflkdsjflksjfslkfjsdlfjsdlfsjfdslkfjslfjsklfjsdlfjslfjs
 
 jfdslfkjslsadasda' 
 
-<906hp 927ma 369mv> 
+\<906hp 927ma 369mv\> 
 
 You say '49 
 
@@ -472,13 +472,13 @@ blablablalafljsdkfsdlkfjsdflkdsjflksjfslkfjsdlfjsdlfsjfdslkfjslfjsklfjsdlfjslfjs
 
 jfdslfkjslsadasda' 
 
-<906hp 927ma 369mv>You say '50 
+\<906hp 927ma 369mv\>You say '50 
 
 blablablalafljsdkfsdlkfjsdflkdsjflksjfslkfjsdlfjsdlfsjfdslkfjslfjsklfjsdlfjslfjsfklsjflsjfslkfjsdfslk 
 
 jfdslfkjslsadasda' 
 
-<906hp 927ma 369mv>
+\<906hp 927ma 369mv\>
 
 </div>
 
@@ -490,7 +490,7 @@ What is in-game situation that will require to say long string 50 times?
 
 <div class="post" data-post-id="36214" data-author="Dragoth" data-date="2015-11-28T12:13:31+00:00" data-subject="Re: Sending multiple long requests at the same time">
 
-Yasik, this post has nothing to do with you, it's not about you and judging from your post it's obviously not about anything that concerns you in any way, if this is the case, do you really have to forcefully insert your opinions that  have no importance and franky, no-one really cares about ?
+Yasik, this post has nothing to do with you, it's not about you and judging from your post it's obviously not about anything that concerns you in any way, if this is the case, do you really have to forcefully insert your opinions that have no importance and franky, no-one really cares about ?
 
 Yes it's an obscure problem, but it affects some of us and some of us want to know why it's happening and whether its something that can be easily solved, or something that we have to live with and work around. And i am sure that any immortal with access to the code and an even a tiny bit of curiosity in them, will find it interesting enough to take a look at.
 
@@ -516,7 +516,7 @@ I'd like to know if this same bug is seen in other older MUDS such as Godwars, R
 
 I haven't even glanced at the code but my best guess is that this has something to do with MCCP or our input buffer. The majority of older muds all used the same MCCP snippet and then customized it for their own games which is why I ask the above question. 
 
-This really isn't an issue because its easily bypassed by adding a tiny bit of lag between each communication which most likely wouldn't even be noticeable by either party. I'd rather see our coders spending their time on something important that affects the majority of our players, especially when this can be fixed quite easily by the player adding less than 10 characters of code  but I am sure one of us will look into it eventually!
+This really isn't an issue because its easily bypassed by adding a tiny bit of lag between each communication which most likely wouldn't even be noticeable by either party. I'd rather see our coders spending their time on something important that affects the majority of our players, especially when this can be fixed quite easily by the player adding less than 10 characters of code but I am sure one of us will look into it eventually!
 
 @Yasik
 

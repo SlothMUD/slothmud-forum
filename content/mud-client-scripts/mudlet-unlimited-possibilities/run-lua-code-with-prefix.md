@@ -19,11 +19,11 @@ Pattern:^!(.+)$
 Code:
 
 ```
--- USAGE:  
---   !commnad
+-- USAGE: 
+-- !commnad
 --
 -- EXAMPLE:
---   !echo("Hello from Lua")
+-- !echo("Hello from Lua")
 
 local f,e = loadstring("return "..matches[2])
 if not f then 
@@ -38,6 +38,6 @@ if r then display(r) end
 
 <div class="post" data-post-id="34116" data-author="Akaya" data-date="2013-03-03T07:17:52+00:00" data-subject="Re: Run Lua code with ! prefix">
 
-This is now a default script that appears on every new profile. The only difference is that you use the alias **lua <whatever>** instead of **!**
+This is now a default script that appears on every new profile. The only difference is that you use the alias <strong>lua \<whatever\></strong> instead of <strong>!</strong>
 
 </div>

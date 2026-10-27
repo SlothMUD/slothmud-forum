@@ -20,7 +20,7 @@ the mob is hit by the spell
 
 the wand vanishes in a puff of blinding light
 
-...or something like that :)
+...or something like that <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

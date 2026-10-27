@@ -14,7 +14,7 @@ post_count: 30
 
 There's a disbalance definitely. A warrior's second wind skills allows to strike just after grip. This makes a warrior's grip more powerful than even prime monk's grip. Of course, the situation will change with deathtouch. But that is too far away. For years a prime warrior will grip better than a monk. Also using the same skill it can strike twice per round. Which again makes prime warrior strike more powerful than monk's. There's definitely a disbalance.
 
-Wraithtouch & best damage reduction don't balance this at all taking into account rest of warrior benefits(parry/riposte, ton of hps, early entrench and triple attack).
+Wraithtouch \& best damage reduction don't balance this at all taking into account rest of warrior benefits(parry/riposte, ton of hps, early entrench and triple attack).
 
 I understand that warrior has to be overpowered, because SlothMUD is group-orientired mud. But I think disbalance gap in this case is too big.
 
@@ -34,12 +34,12 @@ thx
 
 <div class="post" data-post-id="35014" data-author="Magi" data-date="2014-04-19T21:46:53+00:00" data-subject="Re: Warrior primes make better monks than monk primes">
 
-> **Quote:**
+> <strong>Quote:</strong>
 > There's a disbalance definitely.
 
-Of course there is, that's the entire point of a multiclass system.  I won't attempt to argue that second wind isn't good, because that would be ludicrous. At least for my build, it is the strongest of the warrior prime abilities.
+Of course there is, that's the entire point of a multiclass system. I won't attempt to argue that second wind isn't good, because that would be ludicrous. At least for my build, it is the strongest of the warrior prime abilities.
 
-On the other hand, you did conveniently leave the monk prime abilities 'focus' and 'kensai' out of your argument.  By your logic, will warriors be getting a baby version of that?  Although focusing requires patience, it adds more damage than a quick strike.  Unlike second wind, it doesn't even cost movement.  Disbalance?
+On the other hand, you did conveniently leave the monk prime abilities 'focus' and 'kensai' out of your argument. By your logic, will warriors be getting a baby version of that? Although focusing requires patience, it adds more damage than a quick strike. Unlike second wind, it doesn't even cost movement. Disbalance?
 
 Cheers!
 
@@ -47,7 +47,7 @@ Cheers!
 
 <div class="post" data-post-id="35015" data-author="Hung" data-date="2014-04-19T22:24:07+00:00" data-subject="Re: Warrior primes make better monks than monk primes">
 
-My point was that primary class should do its main ability _far_ better than non-primary. I.e. let's compare warriors and necros. Warrior can cancel order followers lags. But reduced order lag + juju + bonus pet points make necro far better necro.
+My point was that primary class should do its main ability \_far\_ better than non-primary. I.e. let's compare warriors and necros. Warrior can cancel order followers lags. But reduced order lag + juju + bonus pet points make necro far better necro.
 
 But it is very disappointing to realize that warriors are better monks than monks. Even if focused grip does more damage than non-focused + strike, double strike per round makes warriors more powerful bare-handed fighters. Wraithtouch is used pretty rarely. And deathtouch is unbelievable far away.
 
@@ -63,11 +63,11 @@ Decent solution would be to allow prime monks make two monk actions(such as stri
 
 <div class="post" data-post-id="35017" data-author="Magi" data-date="2014-04-20T07:57:26+00:00" data-subject="Re: Warriors make better monks than monks">
 
-I certainly wouldn't be opposed to monk primes getting a decrease in their strike lag if they prove to be struggling.  Currently strike lag is slightly more than a combat round. It could easily be brought equal to 'kick' (for primes only), or perhaps slightly lower.  Twice a round without a serious movement or other cost would make the mages cry foul.  They spend 25-50 mana a round to do similar damage to a monk double striking.
+I certainly wouldn't be opposed to monk primes getting a decrease in their strike lag if they prove to be struggling. Currently strike lag is slightly more than a combat round. It could easily be brought equal to 'kick' (for primes only), or perhaps slightly lower. Twice a round without a serious movement or other cost would make the mages cry foul. They spend 25-50 mana a round to do similar damage to a monk double striking.
 
 However, you've got your work cut out convincing the Powers What Is that monks are suffering. We haven't been able to sell the case for bards, and there's rarely one logged in above level 15.
 
-It's not like there's a vast fleet of warrior prime "monks".  There's a big opportunity cost for them.  As far as I know, there's only one warrior brave/foolish enough to completely eschew weapondam and bust out the fists. Investing all your drachma into monk gear also makes you a pathetic tank compared to all the traditional warriors.  (Josiah tanks at -12.0, but could be -13.2 right now if he'd spent drachma differently).  And in the end (9x40), you do barely more damage than a warrior with +30 weapondam.  The real warrior has AC and doesn't have to spend their action every round striking in order to keep up.  On the other hand, they can't rock the solo grip xp. It's a tradeoff that makes sense.
+It's not like there's a vast fleet of warrior prime "monks". There's a big opportunity cost for them. As far as I know, there's only one warrior brave/foolish enough to completely eschew weapondam and bust out the fists. Investing all your drachma into monk gear also makes you a pathetic tank compared to all the traditional warriors. (Josiah tanks at -12.0, but could be -13.2 right now if he'd spent drachma differently). And in the end (9x40), you do barely more damage than a warrior with +30 weapondam. The real warrior has AC and doesn't have to spend their action every round striking in order to keep up. On the other hand, they can't rock the solo grip xp. It's a tradeoff that makes sense.
 
 </div>
 
@@ -113,34 +113,34 @@ Are there any existing examples of players who are taking advantage of this situ
 
 <div class="post" data-post-id="35022" data-author="Magi" data-date="2014-04-21T14:21:38+00:00" data-subject="Re: Warriors make better monks than monks">
 
-> **Quote:**
+> <strong>Quote:</strong>
 > Are there any existing examples of players who are taking advantage of this situation? Is Josiah grip-striking and double-striking?
 
-Josiah does.  He rarely double strikes in groups, because the movement cost is immense.  While soloing, he almost always strikes immediately after a grip.  He also casts greater refresh four or five times a tick, and runs out of mana pretty darn fast.
+Josiah does. He rarely double strikes in groups, because the movement cost is immense. While soloing, he almost always strikes immediately after a grip. He also casts greater refresh four or five times a tick, and runs out of mana pretty darn fast.
 
 My grip does a little under 500 damage on average, and the followup strike about 150.
 
-Skyv's deathtouch does 1000 damage easily, and probably over 1500 if he bothers to focus.  There's definitely reasons to be prime.  You can't wave away every monk prime skill and expect anyone to take your argument seriously.  Yes, deathtouch requires lots of xp... but right now you're comparing your 2x40 monk to an 8x40 warrior.  Try it again with some levels.
+Skyv's deathtouch does 1000 damage easily, and probably over 1500 if he bothers to focus. There's definitely reasons to be prime. You can't wave away every monk prime skill and expect anyone to take your argument seriously. Yes, deathtouch requires lots of xp... but right now you're comparing your 2x40 monk to an 8x40 warrior. Try it again with some levels.
 
 </div>
 
 <div class="post" data-post-id="35029" data-author="Hung" data-date="2014-04-21T21:54:06+00:00" data-subject="Re: Warriors make better monks than monks">
 
-Even if monk win at fight opener, they seems to do same or even less **bare-handed** damage per round than warriors. Which I consider wrong. Not sure about exact number. Supposable, Skyv does 6 attacks with 55 damage and one 200 damage strike, total amount is 6*55 + 200 = 530. While Josiah's attack is 50 damage, and strike is 150, total amount is 6*50 + 2 * 150 = 600. Maybe even more, taking into account warrior's prime massive critical hit. That makes warrior better **bare-handed** killer of mobs with 5000+ hps. While soloing big mobs is signigicant part of the game.
+Even if monk win at fight opener, they seems to do same or even less <strong>bare-handed</strong> damage per round than warriors. Which I consider wrong. Not sure about exact number. Supposable, Skyv does 6 attacks with 55 damage and one 200 damage strike, total amount is 6\*55 + 200 = 530. While Josiah's attack is 50 damage, and strike is 150, total amount is 6\*50 + 2 \* 150 = 600. Maybe even more, taking into account warrior's prime massive critical hit. That makes warrior better <strong>bare-handed</strong> killer of mobs with 5000+ hps. While soloing big mobs is signigicant part of the game.
 
-So here's another suggestion. Add prime monk spell 'Five Fingers of Death'. It costs 100 mana and lasts for 1 tick, so it's unlikely to be used in groups. It makes hands glow red and adds, say, 15(maybe 10 for non-avatar, 15 for avatar) damage for each attack. With it Skyv's round damage will be 6*70 + 200 = 620. Which makes him rightful winner in the maximum round damage contest.
+So here's another suggestion. Add prime monk spell 'Five Fingers of Death'. It costs 100 mana and lasts for 1 tick, so it's unlikely to be used in groups. It makes hands glow red and adds, say, 15(maybe 10 for non-avatar, 15 for avatar) damage for each attack. With it Skyv's round damage will be 6\*70 + 200 = 620. Which makes him rightful winner in the maximum round damage contest.
 
 </div>
 
 <div class="post" data-post-id="35031" data-author="van" data-date="2014-04-21T22:20:10+00:00" data-subject="Re: Warriors make better monks than monks">
 
-<contribution>
+\<contribution\>
 
 I'd like to point out that Josiah smells. 
 
-</contribution>
+\</contribution\>
 
-However, it would be interesting to get the perspective of, say, Jhereg or Stilgar on this.  I'm fairly sure neither of them feels they're overpowered. :)
+However, it would be interesting to get the perspective of, say, Jhereg or Stilgar on this. I'm fairly sure neither of them feels they're overpowered. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -154,7 +154,7 @@ It wasn't long ago Dragoth was on a tirade against Wimpy for taking to such good
 
 So you have to watch how you approach these things and make sure you're being objective and not acting out of envy. If you continue to harp on the note that Josiah fights better than Skyv unfairly, you won't get what you want. 
 
-Instead just present your skill idea as a stand alone idea that has merit, which I believe your idea does and market your idea to a particular coder and try to hit them at the right time.  Also it would help to continue to gather data and continue the conversation. Honestly I think at present you won't attract a coder to your idea, but if the conversation continues it can be a seed for future changes. My reason for saying so is that the coder involved would have to dedicate a lot of research time into the numbers to do it right and we're well into springtime.
+Instead just present your skill idea as a stand alone idea that has merit, which I believe your idea does and market your idea to a particular coder and try to hit them at the right time. Also it would help to continue to gather data and continue the conversation. Honestly I think at present you won't attract a coder to your idea, but if the conversation continues it can be a seed for future changes. My reason for saying so is that the coder involved would have to dedicate a lot of research time into the numbers to do it right and we're well into springtime.
 
 </div>
 
@@ -178,16 +178,16 @@ Didn't I just nerf Second Wind immensely for Sloth IV:)
 
 <div class="post" data-post-id="35043" data-author="van" data-date="2014-04-21T23:58:25+00:00" data-subject="Re: Warriors make better monks than monks">
 
-> **Quote:**
+> <strong>Quote:</strong>
 > If I'd go with warrior-monk, I'd be great bare-handed fighter and had all warrior benefits as well.
 
-You haven't actually demonstrated this, you know.  I'd also point out that at lower levels, without a great deal of +damage gear, riposte is incredibly powerful -- and you can't do that barehanded, y'know.*
+You haven't actually demonstrated this, you know. I'd also point out that at lower levels, without a great deal of +damage gear, riposte is incredibly powerful -- and you can't do that barehanded, y'know.\*
 
-I'm not trying to be rude, but until you can demonstrate that a 2x40 Wa/Mo is actually much better at monking than a 2x40 Prime Monk, it's hard to conclude anything but that you're suffering from acute josiaphilia**.
+I'm not trying to be rude, but until you can demonstrate that a 2x40 Wa/Mo is actually much better at monking than a 2x40 Prime Monk, it's hard to conclude anything but that you're suffering from acute josiaphilia\*\*.
 
-* I don't have numbers easily accessible right now -- anybody care to comment on the awesomeness of riposte? :)
+\* I don't have numbers easily accessible right now -- anybody care to comment on the awesomeness of riposte? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-** Also known as being insanely jealous of Josiah's levels, gear, and most of all expertise.  Note to imms:  please don't add this disease to game.  I don't need to suffer this malady twice.
+\*\* Also known as being insanely jealous of Josiah's levels, gear, and most of all expertise. Note to imms: please don't add this disease to game. I don't need to suffer this malady twice.
 
 </div>
 
@@ -199,7 +199,7 @@ Well, I've created wa/dr/mo. Rolling it. And kicking myself for not keeping roll
 
 <div class="post" data-post-id="35047" data-author="van" data-date="2014-04-22T00:22:52+00:00" data-subject="Re: Warriors make better monks than monks">
 
-I look forward to you realizing that you'll never hit 25 damage reduction, and posting that monks make better tanks than warriors. ;)
+I look forward to you realizing that you'll never hit 25 damage reduction, and posting that monks make better tanks than warriors. <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -213,7 +213,7 @@ Thanks everyone for replies. Because of it, my opinion has been changed from "wa
 
 I should apologize for the high levels of snark I've been using. Therefore: sorry!
 
-But MAN it sucks that Skyv can laugh at mobs that hit me for 500/round. :)  On an unrelated note, wtb damage reduction gems.
+But MAN it sucks that Skyv can laugh at mobs that hit me for 500/round. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> On an unrelated note, wtb damage reduction gems.
 
 </div>
 
@@ -225,7 +225,7 @@ No offence. I understand warriors are worried about second wind may be nerfed ag
 
 <div class="post" data-post-id="35054" data-author="van" data-date="2014-04-22T02:32:18+00:00" data-subject="Re: Warriors make better monks than monks">
 
-Not worried about second wind being nerfed.  More observing that NO class is immune to being out-classed by a truly high-level character.
+Not worried about second wind being nerfed. More observing that NO class is immune to being out-classed by a truly high-level character.
 
 </div>
 
@@ -233,7 +233,7 @@ Not worried about second wind being nerfed.  More observing that NO class is imm
 
 We have no plans on touching Second Wind again. 
 
-Agreed Van 8)
+Agreed Van <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -245,19 +245,19 @@ Fine. Now I am assured that this topic won't create problems for warriors, espec
 
 <div class="post" data-post-id="35059" data-author="*Splork*" data-date="2014-04-22T03:07:36+00:00" data-subject="Re: Warriors make better monks than monks">
 
-> **Hung wrote:**
+> <strong>Hung wrote:</strong>
 > . Everyone is warned and if they find my reasoning solid, they'll not make mistake by choosing monk prime. So I am happy.
 
 I've read this thread several times and have not seen one good reason not to make a monk prime!
 
-Sorry :?:
+Sorry <img src="/images/smilies/icon_question.svg" alt=":?:" title=":?:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="35061" data-author="Hung" data-date="2014-04-22T03:28:15+00:00" data-subject="Re: Warriors make better monks than monks">
 
-> ***Splork* wrote:**
-> > **Hung wrote:**
+> <strong>\*Splork\* wrote:</strong>
+> > <strong>Hung wrote:</strong>
 > > . Everyone is warned and if they find my reasoning solid, they'll not make mistake by choosing monk prime. So I am happy.
 > 
 > 
@@ -266,9 +266,9 @@ Sorry :?:
 > 
 > 
 > 
-> Sorry :?:
+> Sorry <img src="/images/smilies/icon_question.svg" alt=":?:" title=":?:" width="15" height="15" class="smiley nozoom">
 
-Would you like to buy Yang then?  :roll: http://www.slothmud.org/forum/viewtopic.php?f=13&t=4228
+Would you like to buy Yang then? <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom"> http://www.slothmud.org/forum/viewtopic.php?f=13&t=4228
 
 I'll combine my reasoning in one place.
 
@@ -278,7 +278,7 @@ Most of the mobs I hit are solid. Ethereal mobs are hit pretty rarely. I clean o
 
 <div class="post" data-post-id="35062" data-author="van" data-date="2014-04-22T05:14:51+00:00" data-subject="Re: Warriors make better monks than monks">
 
-Serious question:  have you leveled a monk prime past 3x40?
+Serious question: have you leveled a monk prime past 3x40?
 
 Levels do matter.
 

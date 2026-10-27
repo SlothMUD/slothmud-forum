@@ -32,7 +32,7 @@ Is Dot back in town?
 
 <div class="post" data-post-id="16813" data-author="*juggleblood*" data-date="2007-02-11T22:45:07+00:00" data-subject="Kingdom of Salamis">
 
-Thanks all who participated in opener. It was definitely fun.  It was kinda funny how many players assumed that the quest could just be solved by going to an area and typing 'where galio'. Thanks Truth for actually taking the clue and talking to the appropriate mob.
+Thanks all who participated in opener. It was definitely fun. It was kinda funny how many players assumed that the quest could just be solved by going to an area and typing 'where galio'. Thanks Truth for actually taking the clue and talking to the appropriate mob.
 
 I realize that a lot of people were unhappy about part of the quest being on VK. My bad. Lesson learned. But was definitely amusing to see a huge group of vker's fighting the demogorgon. You probably could have killed it on your own eventually.
 
@@ -42,7 +42,7 @@ Anyway, have fun exploring the zone and finding the new pops.
 
 <div class="post" data-post-id="16814" data-author="13" data-date="2007-02-11T23:28:00+00:00" data-subject="">
 
-Gratz on getting the new area in Rub.  I
+Gratz on getting the new area in Rub. I
 
 m tipping a cold sam adam's for ya as we speak.
 
@@ -50,7 +50,7 @@ m tipping a cold sam adam's for ya as we speak.
 
 <div class="post" data-post-id="16815" data-author="Medios" data-date="2007-02-11T23:53:32+00:00" data-subject="">
 
-When I arrived there was a hardy vk group fighting demo.  Marvel led these fine adventurers through a few runs.  Marvel soon asked if anyone would lead and I gave it my best shot.  After a run the powerful Immortal Clink came to valkyre to help us.  Clink tanked the evil Demo and soon we were victorious, reclaiming the twenty bars of dwarven gold and 10 drachma.  We then ventured to Settlestone to find clues about the dwarven gold.  Truth led us to King Brandor who told us how his gold was unjustly stolen and of Galios imprisonment.  We gave the King his gold and he showed us the way to Chopak the scout.  Chopak is in the monk guild on settlestone.  Hire chopak for 1m coins and 250k a head and he will lead you to the new area The Kingdom of Salamis.  Inside we found foot soldiers that steal The Chalice of Ra due to it being illegal in the area.   We found martyrs that explode themselves and kill players in the room.  Mobs of pilgrims jumped us near the Minaret.  Eventually we found our way to Osama and freed Mayor Galio for another 10 drachma.  We then found a sack of eq on the stone prophet, who transformed into another much larger mob.  One quest item was found and a sack full of medium eq.  The area is well put together, grats to Rub.  Ill try to work on my patience in these large groups.  Its quite hard to lead so many people with all the spam.  I apologize for being short with anyone, we all did a great job.
+When I arrived there was a hardy vk group fighting demo. Marvel led these fine adventurers through a few runs. Marvel soon asked if anyone would lead and I gave it my best shot. After a run the powerful Immortal Clink came to valkyre to help us. Clink tanked the evil Demo and soon we were victorious, reclaiming the twenty bars of dwarven gold and 10 drachma. We then ventured to Settlestone to find clues about the dwarven gold. Truth led us to King Brandor who told us how his gold was unjustly stolen and of Galios imprisonment. We gave the King his gold and he showed us the way to Chopak the scout. Chopak is in the monk guild on settlestone. Hire chopak for 1m coins and 250k a head and he will lead you to the new area The Kingdom of Salamis. Inside we found foot soldiers that steal The Chalice of Ra due to it being illegal in the area. We found martyrs that explode themselves and kill players in the room. Mobs of pilgrims jumped us near the Minaret. Eventually we found our way to Osama and freed Mayor Galio for another 10 drachma. We then found a sack of eq on the stone prophet, who transformed into another much larger mob. One quest item was found and a sack full of medium eq. The area is well put together, grats to Rub. Ill try to work on my patience in these large groups. Its quite hard to lead so many people with all the spam. I apologize for being short with anyone, we all did a great job.
 
 Big thanks to all the imms and mortals involved.
 
@@ -62,7 +62,7 @@ Firebrand for tanking.
 
 Truth for figuring out Brandor.
 
-Firon for keeping it together for me :)
+Firon for keeping it together for me <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Mike
 
@@ -70,7 +70,7 @@ Mike
 
 <div class="post" data-post-id="16816" data-author="Firon" data-date="2007-02-11T23:59:44+00:00" data-subject="Area Opener - Kingdom of Salamis">
 
-My report on things  :D 
+My report on things <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> 
 
 As was mentioned, Juggleblood held his opener today for Kingdom of Salamis.
 
@@ -98,7 +98,7 @@ Run to area: 8s6w3s2es, say hire scout, you will be transed to start of area
 
 Cost is 10000 coins plus 5000 coins per group member. Leader must pay Chopak once you are in the area.
 
-Be SURE you have the coins to pay Chopak to take you to the area. I went back to check area out and decided to recall out and Chopak trans'ed me. He went to well with me and stabbed me to -1498hps!  :twisted: 
+Be SURE you have the coins to pay Chopak to take you to the area. I went back to check area out and decided to recall out and Chopak trans'ed me. He went to well with me and stabbed me to -1498hps! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 No eq/items were loaded in area during quest but items were placed on Iblis to distribute to group:
 
@@ -156,7 +156,7 @@ Enjoy exploring and finding eq!
 
 <div class="post" data-post-id="16818" data-author="Weasel" data-date="2007-02-12T00:37:57+00:00" data-subject="">
 
--1.5ac helm!  :shock:  wow
+\-1.5ac helm! <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> wow
 
 </div>
 
@@ -180,11 +180,11 @@ Juggleblood -- 'bring who you'd like'
 
 From there on i decided that well you know what i will use my tard put forth my effort see what we cant accomplish finding Galio was the fun part sure we died but we were restored when a bomb dispatched our entire group which was beyond interesting it rocked. Osama is dead! R.I.P
 
-well woot we get our drachma get a few more deaths corpse's etc. fun fun well time to go for me i gotta go play a basketball game. And come to find out i get back there is more to the quest! Well for as much as i participated i would like to thank the leaders for allowing me to join up and put forth my efforts in whatever way i could even though i may have been a pain part of the time tryin to figure stuff out. I would like to thank Rub for workin on the quest it was very fun and interesting just a shame i didnt get to the end and get that -1.5 helm  :twisted: but i still got 10 drachma and enjoyed it whomever got that badass helm charish that badass thing  :P 
+well woot we get our drachma get a few more deaths corpse's etc. fun fun well time to go for me i gotta go play a basketball game. And come to find out i get back there is more to the quest! Well for as much as i participated i would like to thank the leaders for allowing me to join up and put forth my efforts in whatever way i could even though i may have been a pain part of the time tryin to figure stuff out. I would like to thank Rub for workin on the quest it was very fun and interesting just a shame i didnt get to the end and get that -1.5 helm <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> but i still got 10 drachma and enjoyed it whomever got that badass helm charish that badass thing <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom"> 
 
 Thanks again all who were involved and getting it kicked off.
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -204,7 +204,7 @@ AC-apply is -0.2
 
 Can affect you as:
 
-    Affects: HITPOINT by 5
+ Affects: HITPOINT by 5
 
 Only those who are at least adept clerics may use this item.
 
@@ -218,11 +218,11 @@ Weight: 0, Value: 100, Worn in: TAKE
 
 Clasp can only be attached to:
 
-   a pair of black riding pants
+ a pair of black riding pants
 
 Clasp gives the user +1 CHARISMA
 
-the mob of pilgrims started to multiply, at one point there was 8 in one room and we couldnt walk past or do anything, simply too tough :)
+the mob of pilgrims started to multiply, at one point there was 8 in one room and we couldnt walk past or do anything, simply too tough <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Mike
 
@@ -248,11 +248,11 @@ Weight: 0, Value: 50, Worn in: TAKE
 
 <div class="post" data-post-id="16850" data-author="*juggleblood*" data-date="2007-02-13T01:44:36+00:00" data-subject="">
 
-*lag reduced on chopak, hitroll/maxhit fixed
+\*lag reduced on chopak, hitroll/maxhit fixed
 
-*martyrs no longer instantly kill entire group
+\*martyrs no longer instantly kill entire group
 
-*mobs shouldn't bunch up at policeman anymore
+\*mobs shouldn't bunch up at policeman anymore
 
 mud mail me any other bugs to rub pls, thx
 
@@ -270,7 +270,7 @@ Weight: 1, Value: 10000, Worn in: TAKE NECK
 
 Can affect you as:
 
-    Affects: MANA by 5
+ Affects: MANA by 5
 
 Only those who are at least apprentice magic users or apprentice clerics,
 
@@ -294,9 +294,9 @@ AC-apply is -0.3
 
 Can affect you as:
 
-    Affects: MANA by 5
+ Affects: MANA by 5
 
-    Affects: DEX by 1
+ Affects: DEX by 1
 
 Only those who are at least adept magic users, clerics, druids, or
 
@@ -328,9 +328,9 @@ AC-apply is -0.5
 
 Can affect you as:
 
-    Affects: MANA by -10
+ Affects: MANA by -10
 
-    Affects: REGEN_HP by -3
+ Affects: REGEN\_HP by -3
 
 Only those who are primary supreme warriors, and have attained supremacy in at least three classes may use this item.
 
@@ -340,7 +340,7 @@ Only those who are primary supreme warriors, and have attained supremacy in at l
 
 king
 
-<worn on shoulders>  a Sarabian Aventail
+\<worn on shoulders\> a Sarabian Aventail
 
 Object 'Sarabian shoulder guards shoulderguards aventail', Item type: ARMOR
 
@@ -352,9 +352,9 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: ARMOR by -8
+ Affects: ARMOR by -8
 
-    Affects: REGEN_HP by 2
+ Affects: REGEN\_HP by 2
 
 Only those who are at least supreme warriors, and have attained supremacy
 
@@ -374,9 +374,9 @@ Weight: 1, Value: 20000, Worn in: TAKE FINGER
 
 Can affect you as:
 
-    Affects: HITPOINT by 15
+ Affects: HITPOINT by 15
 
-    Affects: ARMOR by -1
+ Affects: ARMOR by -1
 
 Only those who are at least apprentice thieves, warriors, bards, or monks
 
@@ -418,7 +418,7 @@ Weight: 0, Value: 100, Worn in: TAKE
 
 Clasp can only be attached to:
 
-   shoes and boots
+ shoes and boots
 
 Clasp gives the user +4 KICKDAM
 

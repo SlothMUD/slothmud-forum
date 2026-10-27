@@ -18,12 +18,12 @@ Not sure if this is a bug or maybe a problem that occurred from restoring after 
 
 <div class="post" data-post-id="6334" data-author="blackmore" data-date="2005-05-20T18:18:46+00:00" data-subject="">
 
-Purple collars are temp items.  This means if you leave valk, they crumble, and if you rent, they will crumble.  You can be rented without it crumbling for something like 30 minutes to an hour, I don't know the actual length, with no problem.  The same is true of dropping link.  Basically, you can wear them while you're playing, and you can put them in your locker, but they will be gone after that.
+Purple collars are temp items. This means if you leave valk, they crumble, and if you rent, they will crumble. You can be rented without it crumbling for something like 30 minutes to an hour, I don't know the actual length, with no problem. The same is true of dropping link. Basically, you can wear them while you're playing, and you can put them in your locker, but they will be gone after that.
 
 </div>
 
 <div class="post" data-post-id="6336" data-author="SirRobin" data-date="2005-05-20T18:34:25+00:00" data-subject="">
 
-Thanks. Looks like I overlooked that little bit of info in the eq list. :oops:
+Thanks. Looks like I overlooked that little bit of info in the eq list. <img src="/images/smilies/icon_redface.svg" alt=":oops:" title=":oops:" width="15" height="15" class="smiley nozoom">
 
 </div>

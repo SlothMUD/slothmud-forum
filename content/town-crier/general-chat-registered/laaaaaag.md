@@ -30,6 +30,6 @@ YEEEEEEP
 
 <div class="post" data-post-id="12876" data-author="Avatar" data-date="2006-06-03T19:25:34+00:00" data-subject="laag">
 
-Well, last week when they updated Valkyrie we waited three days before a reboot implemented the changes.  I'd have to guess that this is something recent.
+Well, last week when they updated Valkyrie we waited three days before a reboot implemented the changes. I'd have to guess that this is something recent.
 
 </div>

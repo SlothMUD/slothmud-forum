@@ -30,7 +30,7 @@ is sloth gona be down most of the day?
 
 <div class="post" data-post-id="32724" data-author="surfnazi" data-date="2011-07-16T15:47:44+00:00" data-subject="Re: Game Wizlocked">
 
-> **war wrote:**
+> <strong>war wrote:</strong>
 > is sloth gona be down most of the day?
 
 see what you get for leaving the toilet seat up war
@@ -51,9 +51,9 @@ How can you tell if a mob is loaded right now?
 
 <div class="post" data-post-id="32729" data-author="Cizin" data-date="2011-07-16T18:27:52+00:00" data-subject="Re: Game Wizlocked">
 
-last time game was wizlocked we had pwipe  :idea: 
+last time game was wizlocked we had pwipe <img src="/images/smilies/icon_idea.svg" alt=":idea:" title=":idea:" width="15" height="15" class="smiley nozoom"> 
 
-*shivers in fear*
+\*shivers in fear\*
 
 Any news about current status ?
 
@@ -61,7 +61,7 @@ Any news about current status ?
 
 <div class="post" data-post-id="32730" data-author="war" data-date="2011-07-16T18:32:06+00:00" data-subject="Re: Game Wizlocked">
 
-dont say that :(
+dont say that <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 everything will be ok ")
 
@@ -91,15 +91,15 @@ Splork
 
 guess its time to get laid finally ....
 
- :P
+ <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="32737" data-author="Toxis" data-date="2011-07-16T19:57:18+00:00" data-subject="Re: Game Wizlocked">
 
-Help! Help! .... What is this thing... called real life?  Does not compute, need SlothMUD! :)
+Help! Help! .... What is this thing... called real life? Does not compute, need SlothMUD! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-Kinda funny when I logged on and Toxis was gone I thought "Oh great, what did I do now?" hehe *blush*
+Kinda funny when I logged on and Toxis was gone I thought "Oh great, what did I do now?" hehe \*blush\*
 
 Thx for the hard work, we love Sloth.
 
@@ -121,10 +121,10 @@ Splork
 
 <div class="post" data-post-id="32739" data-author="Tuck" data-date="2011-07-17T00:51:49+00:00" data-subject="Re: Game Wizlocked">
 
-> **Quote:**
+> <strong>Quote:</strong>
 > If anything is missing, please report to Isabo:) Im tired!
 
-If anything is missing, please report to ***void*** :) Im tired!
+If anything is missing, please report to <strong><em>void</em></strong> <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> Im tired!
 
 </div>
 
@@ -140,7 +140,7 @@ I emailed both splork and isabo. hopefully one replies soonish.
 
 was probably my fault as I was testing something with cizin.
 
-altho not sure why it would crash _now_ after i have been messing with the same thing all day....
+altho not sure why it would crash \_now\_ after i have been messing with the same thing all day....
 
 </div>
 
@@ -152,7 +152,7 @@ Well, given that you were testing an automatic Bronto-loading script I'm sure we
 
 <div class="post" data-post-id="32749" data-author="*Breeze*" data-date="2011-07-20T15:33:55+00:00" data-subject="Re: Game Wizlocked">
 
-*cough*
+\*cough\*
 
 tell you what, if its my fault i will load the bronto
 

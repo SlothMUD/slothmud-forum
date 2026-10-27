@@ -12,25 +12,25 @@ post_count: 4
 
 <div class="post" data-post-id="7366" data-author="brand" data-date="2005-06-20T13:42:18+00:00" data-subject="2005 Tournament Results">
 
-Gonna have one this year?  I got a knife and a really sharp stick I want to try out on someone. :twisted:
+Gonna have one this year? I got a knife and a really sharp stick I want to try out on someone. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="7630" data-author="brand" data-date="2005-06-27T19:53:07+00:00" data-subject="in 2k4">
 
-2004 Tournament Results  
+2004 Tournament Results 
 
 Level 40 and below: 
 
 1)Rakoth 
 
-2) 
+2\) 
 
 Level 2x40 and below: 
 
 1)Laman 
 
-2) 
+2\) 
 
 Level 3x40 and below: 
 
@@ -42,7 +42,7 @@ Levels Avatar 1 -20
 
 1)Chi 
 
-2) 
+2\) 
 
 Levels Avatar 21-39 
 

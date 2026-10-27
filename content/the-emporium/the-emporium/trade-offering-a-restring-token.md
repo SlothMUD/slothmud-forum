@@ -12,7 +12,7 @@ post_count: 1
 
 <div class="post" data-post-id="27863" data-author="Weasel" data-date="2009-01-25T02:40:46+00:00" data-subject="TRADE - offering a restring token">
 
-I have a restring token I will trade for [i:er1p3jdb]all five[/i:er1p3jdb] of the following items :
+I have a restring token I will trade for <em>all five</em> of the following items :
 
 monkey fist (temp item, Sailor Bill)
 

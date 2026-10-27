@@ -16,11 +16,11 @@ Polk has decided to rejoin the sloth community and I ,for one, am looking forwar
 
 Items sent today:
 
-Red Moran tells you 'So, you want to send a pair of leather gloves to Thivevin?  
+Red Moran tells you 'So, you want to send a pair of leather gloves to Thivevin? 
 
 Got it.'
 
-Red Moran tells you 'So, you want to send a pair of leather boots to Thivevin?  
+Red Moran tells you 'So, you want to send a pair of leather boots to Thivevin? 
 
 Got it.'
 
@@ -28,25 +28,25 @@ Red Moran tells you 'So, you want to send a pair of leather sleeves to Thivevin?
 
  Got it.'
 
-Red Moran tells you 'So, you want to send a pair of leather pants to Thivevin?  
+Red Moran tells you 'So, you want to send a pair of leather pants to Thivevin? 
 
 Got it.'
 
-Red Moran tells you 'So, you want to send leather shoulder guards to Thivevin?  
+Red Moran tells you 'So, you want to send leather shoulder guards to Thivevin? 
 
 Got it.'
 
-Red Moran tells you 'So, you want to send a studded leather jacket to Thivevin?  
+Red Moran tells you 'So, you want to send a studded leather jacket to Thivevin? 
 
 Got it.'
 
-Red Moran tells you 'So, you want to send a scroll of recall to Thivevin?  Got 
+Red Moran tells you 'So, you want to send a scroll of recall to Thivevin? Got 
 
 it.'
 
-Red Moran tells you 'So, you want to send a purple potion to Thivevin?  Got it.'
+Red Moran tells you 'So, you want to send a purple potion to Thivevin? Got it.'
 
-Red Moran tells you 'So, you want to send a few belladonna leaves to Thivevin?  
+Red Moran tells you 'So, you want to send a few belladonna leaves to Thivevin? 
 
 Got it.'
 
@@ -58,13 +58,13 @@ Again, I implore those who can, to please give.
 
 <div class="post" data-post-id="25434" data-author="Yasik2" data-date="2008-07-21T23:19:40+00:00" data-subject="">
 
-Oh yeah, so it begins *again*!!!!  :D  :D  :D 
+Oh yeah, so it begins \*again\*!!!! <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> 
 
 In order to help I shipping teh gear as well!!!!!111
 
 Proofpic included:
 
-[img:3qy6xzvv]http://yasik.kiev.ua/4chan/Rape_40lbs.jpg[/img:3qy6xzvv]
+![](http://yasik.kiev.ua/4chan/Rape_40lbs.jpg)
 
 </div>
 
@@ -72,23 +72,24 @@ Proofpic included:
 
 Red Moran tells you 'Sorry, but Thivevin already has too many packages waiting to be picked up.'
 
-Welp, guess that solves me sending you your lost stuff back  :wink:
+Welp, guess that solves me sending you your lost stuff back <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="25438" data-author="Yasik2" data-date="2008-07-22T03:04:54+00:00" data-subject="">
 
-Welp, guess that solves me sending you your lost stuff back  :wink:[/quote:3mmhc47e]
+> <strong>Yinao wrote:</strong>
+> Welp, guess that solves me sending you your lost stuff back <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
-Who do you call 'whelp' here, boy?!  :twisted:
+Who do you call 'whelp' here, boy?! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="25440" data-author="firebrand" data-date="2008-07-22T15:25:42+00:00" data-subject="">
 
-y@55hat, that is welp - as in saying well....he's not calling you a whelp, although phonetically they DO sound the same.   if you insist on being insulted i am quite sure any number of us would be more than happy to provide that service for you.  and as for being a whelp, well....if the shoe fits....
+y@55hat, that is welp - as in saying well....he's not calling you a whelp, although phonetically they DO sound the same. if you insist on being insulted i am quite sure any number of us would be more than happy to provide that service for you. and as for being a whelp, well....if the shoe fits....
 
-"practice shooting, not drinking" -lorenzo --> el mariachi
+"practice shooting, not drinking" -lorenzo --\> el mariachi
 
 </div>
 
@@ -118,11 +119,9 @@ Deaths under 40
 
 8 Diurd 3 
 
-9 Salvatus 3[b:1zrru85c]
+9 Salvatus 3
 
-10 Thivevin 3
-
-[/b:1zrru85c]
+<strong>10 Thivevin 3</strong>
 
 Total Xp under 40
 
@@ -174,13 +173,13 @@ Noob Life is rough
 
 Keep trying Thivevin, I know you can at least make the top 3 if not #1
 
-Good Luck :P
+Good Luck <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="25444" data-author="angel" data-date="2008-07-23T09:17:10+00:00" data-subject="">
 
-least i didnt top the death list :)
+least i didnt top the death list <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -192,39 +191,41 @@ I always say if you aint dyin you aint tryin
 
 <div class="post" data-post-id="25528" data-author="Yasik2" data-date="2008-08-02T07:57:22+00:00" data-subject="">
 
-y@55hat, that is welp - as in saying well....he's not calling you a whelp, although phonetically they DO sound the same.   if you insist on being insulted i am quite sure any number of us would be more than happy to provide that service for you.  and as for being a whelp, well....if the shoe fits....[/quote:f7pmqau4]
+> <strong>firebrand wrote:</strong>
+> y@55hat, that is welp - as in saying well....he's not calling you a whelp, although phonetically they DO sound the same. if you insist on being insulted i am quite sure any number of us would be more than happy to provide that service for you. and as for being a whelp, well....if the shoe fits....
 
-[img:f7pmqau4]http://yasik.kiev.ua/4chan/Women_Know_Your_Place.jpg[/img:f7pmqau4]
+![](http://yasik.kiev.ua/4chan/Women_Know_Your_Place.jpg)
 
 </div>
 
 <div class="post" data-post-id="25529" data-author="jezer" data-date="2008-08-02T09:59:41+00:00" data-subject="">
 
-*gulp*
+\*gulp\*
 
-Nice knowing you Yasik...  :twisted:
+Nice knowing you Yasik... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="25533" data-author="firebrand" data-date="2008-08-03T02:46:24+00:00" data-subject="">
 
-jeebus keerist!  you had eleven days to answer my post and all you were able to come up with is some cliche anime picture with a caption?  come on.....i've had better insults from dog shite.
+jeebus keerist! you had eleven days to answer my post and all you were able to come up with is some cliche anime picture with a caption? come on.....i've had better insults from dog shite.
 
-"and milo! i've told you again and again - *please* don't walk on the chickens!"  -milo's mother --> the adventures of milo and otis
+"and milo! i've told you again and again - \*please\* don't walk on the chickens!" -milo's mother --\> the adventures of milo and otis
 
 </div>
 
 <div class="post" data-post-id="25535" data-author="jezer" data-date="2008-08-03T03:06:45+00:00" data-subject="">
 
-:twisted:
+<img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="25536" data-author="Yasik2" data-date="2008-08-03T03:11:43+00:00" data-subject="">
 
-jeebus keerist!  you had eleven days to answer my post and all you were able to come up with is some cliche anime picture with a caption?  come on.....i've had better insults from dog shite.[/quote:13xsowmm]
+> <strong>firebrand wrote:</strong>
+> jeebus keerist! you had eleven days to answer my post and all you were able to come up with is some cliche anime picture with a caption? come on.....i've had better insults from dog shite.
 
-Sorry darlin, daddy was busy [b:13xsowmm]CHARGIN HIS LAZOR !!!!111[/b:13xsowmm][/color:13xsowmm]
+Sorry darlin, daddy was busy <strong>CHARGIN HIS LAZOR !!!!111</strong>
 
 And that wasnt an insult, i sorta was hopin' you'll get teh humour since you're anime-fan etc
 
@@ -232,23 +233,24 @@ And that wasnt an insult, i sorta was hopin' you'll get teh humour since you're 
 
 <div class="post" data-post-id="25537" data-author="jezer" data-date="2008-08-03T03:38:10+00:00" data-subject="">
 
-Does this mean you guys are back together again?  :shock:
+Does this mean you guys are back together again? <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="25538" data-author="Yasik2" data-date="2008-08-03T04:01:12+00:00" data-subject="">
 
-Does this mean you guys are back together again?  :shock:[/quote:1fqswmwa]
+> <strong>jezer wrote:</strong>
+> Does this mean you guys are back together again? :shock:
 
 Cyber-eagle wannts you to... 
 
-[img:1fqswmwa]http://yasik.kiev.ua/4chan/STFU_NOOB_Eagle.jpg[/img:1fqswmwa]
+![](http://yasik.kiev.ua/4chan/STFU_NOOB_Eagle.jpg)
 
 </div>
 
 <div class="post" data-post-id="25539" data-author="jezer" data-date="2008-08-03T04:28:56+00:00" data-subject="">
 
-:D
+<img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -260,7 +262,8 @@ one of the eagle's eyes has a square pupil. weirdness.
 
 <div class="post" data-post-id="25541" data-author="jezer" data-date="2008-08-03T06:27:43+00:00" data-subject="">
 
-one of the eagle's eyes has a square pupil. weirdness.[/quote:2g1hz14x]
+> <strong>Weasel wrote:</strong>
+> one of the eagle's eyes has a square pupil. weirdness.
 
 ( O)(□ )
 
@@ -268,16 +271,18 @@ one of the eagle's eyes has a square pupil. weirdness.[/quote:2g1hz14x]
 
 <div class="post" data-post-id="25546" data-author="Weasel" data-date="2008-08-03T06:59:07+00:00" data-subject="">
 
-( O)(□ )[/quote:2rldsu44]
+> <strong>jezer wrote:</strong>
+> ( O)(□ )
 
-rofl   :lol:
+rofl <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="25548" data-author="Yasik2" data-date="2008-08-03T07:30:36+00:00" data-subject="">
 
-( O)(□ )[/quote:orb7yxzy]
+> <strong>jezer wrote:</strong>
+> ( O)(□ )
 
-[img:orb7yxzy]http://yasik.kiev.ua/SealOfAwesomeness.jpg[/img:orb7yxzy]
+![](http://yasik.kiev.ua/SealOfAwesomeness.jpg)
 
 </div>

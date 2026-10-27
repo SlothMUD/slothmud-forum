@@ -16,43 +16,43 @@ We notice more and more people getting close to Avatar and wanted to address a c
 
 Avatar Changes
 
-1)	Added in an Avatar Bonus Experence
+1\)	Added in an Avatar Bonus Experence
 
-2)	Added in Perma Sanctuary as an option at the Avatar Shop
+2\)	Added in Perma Sanctuary as an option at the Avatar Shop
 
-â€¢	**Every version of Sloth has had this feature, we need it as well!**   
+â€¢	<strong>Every version of Sloth has had this feature, we need it as well!</strong> 
 
-3)	An Avatar token was added a couple of months ago
+3\)	An Avatar token was added a couple of months ago
 
-â€¢	**This token can be used by an Avatarâ€™s newbie and gain bonuses on       that char**
+â€¢	<strong>This token can be used by an Avatarâ€™s newbie and gain bonuses on that char</strong>
 
 Example Bonuses
 
-1) Extra experience
+1\) Extra experience
 
-2) Extra drachma
+2\) Extra drachma
 
-3) Extra Honor
+3\) Extra Honor
 
-4) Extra rolls upon level 8 for stats
+4\) Extra rolls upon level 8 for stats
 
-5) Innate Class Bonuses such as 
+5\) Innate Class Bonuses such as 
 
-**StabDam for Thieves
+<strong>StabDam for Thieves</strong>
 
-Charisma for Bard
+<strong>Charisma for Bard</strong>
 
-Damage Reduction for Monks
+<strong>Damage Reduction for Monks</strong>
 
-Undead Control for Necros
+<strong>Undead Control for Necros</strong>
 
-Heal Bonus for Clerics
+<strong>Heal Bonus for Clerics</strong>
 
-Spell Bonus for Mages
+<strong>Spell Bonus for Mages</strong>
 
-Armor Class Bonus for Warriors
+<strong>Armor Class Bonus for Warriors</strong>
 
-Mana Regen bonus for Druids**
+<strong>Mana Regen bonus for Druids</strong>
 
 Changes in next reboot!
 

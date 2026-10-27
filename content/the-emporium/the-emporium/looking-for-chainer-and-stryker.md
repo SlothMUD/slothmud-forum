@@ -14,7 +14,7 @@ post_count: 4
 
 Hey Guys,
 
-I won the chopping block auctions on Chainer's JJD and Stryker's Ashen Bracelet.  I've been on at various times throughout the last week but haven't been able to catch either of you.  If you could, post and let me know when would be the best time to try and hook up with you.  I'm on CST, if that helps.  Thanks :)
+I won the chopping block auctions on Chainer's JJD and Stryker's Ashen Bracelet. I've been on at various times throughout the last week but haven't been able to catch either of you. If you could, post and let me know when would be the best time to try and hook up with you. I'm on CST, if that helps. Thanks <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Methyx,
 
@@ -32,9 +32,9 @@ I was on today for much of the day. Should be on mostly on w/e. I play mullah mo
 
 Heh,
 
-Two ships passing in the night  :wink: 
+Two ships passing in the night <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom"> 
 
-I'm still looking to hook up with you two, so don't give up on me yet.  If you don't catch me on with Meth, look for either Ryuken, Orkhis, or Drauk.  Hopefully, I'll catch you guys soon  8) 
+I'm still looking to hook up with you two, so don't give up on me yet. If you don't catch me on with Meth, look for either Ryuken, Orkhis, or Drauk. Hopefully, I'll catch you guys soon <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> 
 
 Methyx,
 

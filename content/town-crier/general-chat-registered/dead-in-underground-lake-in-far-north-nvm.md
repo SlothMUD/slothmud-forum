@@ -18,6 +18,6 @@ didnt have wb up. dead
 
 <div class="post" data-post-id="15304" data-author="Weasel" data-date="2006-11-23T20:03:56+00:00" data-subject="">
 
-dead in Oly outside prince.. I have no idea how that happened :(
+dead in Oly outside prince.. I have no idea how that happened <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>

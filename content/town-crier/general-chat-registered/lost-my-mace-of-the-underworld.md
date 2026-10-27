@@ -14,6 +14,6 @@ post_count: 1
 
 If anyone found a hidden mace of the underworld, I'd appreciate it being returned to Magi/Josiah.
 
-It's been several reboots since it went missing.  No idea what happened to it.
+It's been several reboots since it went missing. No idea what happened to it.
 
 </div>

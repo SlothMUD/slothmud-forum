@@ -20,7 +20,7 @@ Catch me online or send mail/mudmail.
 
 <div class="post" data-post-id="1568" data-author="Boojum" data-date="2004-08-24T16:09:52+00:00" data-subject="">
 
-Will also give to seller some Cinq cps, as compensation :)
+Will also give to seller some Cinq cps, as compensation <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 They are:
 
@@ -36,6 +36,6 @@ a silversteel smith's hammer
 
 <div class="post" data-post-id="1626" data-author="Boojum" data-date="2004-08-27T11:31:32+00:00" data-subject="">
 
-Got it, thanks to all :)
+Got it, thanks to all <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

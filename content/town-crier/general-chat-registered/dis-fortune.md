@@ -36,7 +36,7 @@ Detect Magic/Invis/Evil/Sense Life/Sneak - Even non avatars will have these up
 
 Perm Spellshield and Blind... well ok...
 
-Jumble...  :( 
+Jumble... <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom"> 
 
 Essentially, I'm going to treat fortune as just another spell I'm not going to use... but I did think to write this post, because it's a part of the game that could be quite fun if changes were implemented. Also given that it's a drachma spellbook, things should be "worth the risk." Essentially there really isn't anything in this list of effects that's going to make a difference to me besides, jumble, restore or unrestore. It's not so much that the spell seems slightly weighted to the negative, it's more the positives barely register a blimp. Perhaps the duration of the effect should vary more than the usual 40 min default as well to make it spicy, in favor of shorter (10min) but more larger negative/positive effects.
 

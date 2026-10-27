@@ -32,13 +32,13 @@ hope this gets you somewhere
 
 <div class="post" data-post-id="17327" data-author="Weasel" data-date="2007-03-17T05:10:26+00:00" data-subject="">
 
-or it may be that you don't have the .NET framework installed, which I believe is required for Wintin.. run a windows update by going to [url:1zqi2hmb]http://windowsupdate.microsoft.com[/url:1zqi2hmb] (use Internet Explorer browser) to check. The .NET framework is optional, so it probably wont have been installed by Vista's default automatic windowsupdate.
+or it may be that you don't have the .NET framework installed, which I believe is required for Wintin.. run a windows update by going to http://windowsupdate.microsoft.com (use Internet Explorer browser) to check. The .NET framework is optional, so it probably wont have been installed by Vista's default automatic windowsupdate.
 
 </div>
 
 <div class="post" data-post-id="17343" data-author="ermac" data-date="2007-03-18T06:01:55+00:00" data-subject="i dont really know.">
 
-:(  i have .net version 1.1 downloaded thats the one it said to download in order to install it on here. i dont really know what my problems are, except that i have Vista. i tryed to allow it through my firewall... it still have a grey screen instead of black... thanks for trying to help though.
+<img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom"> i have .net version 1.1 downloaded thats the one it said to download in order to install it on here. i dont really know what my problems are, except that i have Vista. i tryed to allow it through my firewall... it still have a grey screen instead of black... thanks for trying to help though.
 
 </div>
 
@@ -56,27 +56,30 @@ vista really sounds like a hunk o' shit to me
 
 <div class="post" data-post-id="17358" data-author="Alberich" data-date="2007-03-19T13:10:37+00:00" data-subject="">
 
-omg microsoft released a crappy OS?  I won't believe it!
+omg microsoft released a crappy OS? I won't believe it!
 
- :roll:
+ <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="17359" data-author="banedon" data-date="2007-03-19T14:11:44+00:00" data-subject="">
 
-omg microsoft released a crappy OS?  I won't believe it!
-
- :roll:[/quote:1tggrvrp]
+> <strong>Alberich wrote:</strong>
+> omg microsoft released a crappy OS? I won't believe it!
+> 
+> 
+> 
+> <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 Just when the nightmares from ME had started to fade away
 
- :cry:
+ <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="17367" data-author="Guinex" data-date="2007-03-19T20:16:35+00:00" data-subject="">
 
-I ran Vista as a test at our work, and the hardware requirements just to run the o/s smoothly are rediculous.  Also not to mention how much a pain in the ass the permissions are on it, and also there UAC (User Account Control) is quite possible the most annoying security feature i have ever seen.  Also on a side note, the o/s is still buggy as can be.
+I ran Vista as a test at our work, and the hardware requirements just to run the o/s smoothly are rediculous. Also not to mention how much a pain in the ass the permissions are on it, and also there UAC (User Account Control) is quite possible the most annoying security feature i have ever seen. Also on a side note, the o/s is still buggy as can be.
 
 </div>
 
@@ -108,10 +111,10 @@ Ok I had problems with wintin.net and vista myself before, but just tinkered wit
 
 <div class="post" data-post-id="17411" data-author="Yasik" data-date="2007-03-23T00:36:52+00:00" data-subject="">
 
-1. [http://fedoraproject.org/wiki/](http://fedoraproject.org/wiki/)
+1\. [http://fedoraproject.org/wiki/](http://fedoraproject.org/wiki/)
 
-2. [http://rubyforge.org/projects/muby/](http://rubyforge.org/projects/muby/)
+2\. [http://rubyforge.org/projects/muby/](http://rubyforge.org/projects/muby/)
 
-3. [http://google.com/](http://google.com/)
+3\. [http://google.com/](http://google.com/)
 
 </div>

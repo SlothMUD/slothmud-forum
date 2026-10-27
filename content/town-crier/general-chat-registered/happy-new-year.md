@@ -12,6 +12,6 @@ post_count: 1
 
 <div class="post" data-post-id="9966" data-author="Weasel" data-date="2006-01-04T01:39:12+00:00" data-subject="happy new year">
 
-btw.. :)
+btw.. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

@@ -18,7 +18,7 @@ There were a few things that came to my mind involving the changes made on the
 
 4x40 Owlbear shapeshift form. Finally we druids have some attention, AUTOBOTS 
 
-TRANSFORM! ;)
+TRANSFORM! <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 Understandably the changes were posted by Breeze on a different thread. I had no 
 
@@ -46,7 +46,7 @@ assume the form of an owlbear......
 
 It was tough. Damn right to the bone it was tough. They see me rollin', they 
 
-hatin' patrol....Oops, where were we. Ah yes... pantin' huffin' and puffin'  
+hatin' patrol....Oops, where were we. Ah yes... pantin' huffin' and puffin' 
 
 through the corn fields like Chuck Norris on steroids. As if he needed any! 
 
@@ -86,13 +86,13 @@ every corner. Even the dead wanted to remain dead. It is also known to be so fri
 
 forever and we would remain idle, in pain, while the beast form shudders back 
 
-to and return to my normal self. I dare not live through this pain. I persevered.  
+to and return to my normal self. I dare not live through this pain. I persevered. 
 
 It was only then that I had remembered my humble roots of assuming the form of an 
 
 owlbear back when I was a young animist....
 
-___________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 In reality to what we have in the world of Jord today, the owlbear was nerfed 
 
@@ -150,7 +150,7 @@ Best regards,
 
 Dr
 
-P.S You can replace Chuck Norris with Demon Prince Demogorgon :)
+P.S You can replace Chuck Norris with Demon Prince Demogorgon <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -196,7 +196,7 @@ Could someone drag Dr away from watching reruns of Walker Texas Ranger to test t
 
 After much testing and dicsussion with Splork, the man has put in a few favors for the druid class. 
 
-Now the higher forms are very much playable, bump. :D
+Now the higher forms are very much playable, bump. <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -204,19 +204,19 @@ Now the higher forms are very much playable, bump. :D
 
 Ask Magi what he thinks about Owlbear?
 
-It was a huge jump in power, letting me kill most mobs 20 mil xp or lower.  It was also the point at which I stopped playing druid.  Shift lag, and the knowledge that the higher level forms were
+It was a huge jump in power, letting me kill most mobs 20 mil xp or lower. It was also the point at which I stopped playing druid. Shift lag, and the knowledge that the higher level forms were
 
-1) a huge xp grind away and 
+1\) a huge xp grind away and 
 
-2) not better than owlbear...
+2\) not better than owlbear...
 
-So I gave up on druid.  Changes that improve the higher level forms, like the ones just put in game are very good.  They won't tempt me back to the class, but they make it playable at high levels, and that's a good thing.
+So I gave up on druid. Changes that improve the higher level forms, like the ones just put in game are very good. They won't tempt me back to the class, but they make it playable at high levels, and that's a good thing.
 
-Mana efficiency and relative power aside, it was the shift lag that really soured me on the higher level forms.  It seems that's been addressed now.
+Mana efficiency and relative power aside, it was the shift lag that really soured me on the higher level forms. It seems that's been addressed now.
 
-It won't, however, tempt me back to druid now.  My awesome warrior monk is all the character I need.
+It won't, however, tempt me back to druid now. My awesome warrior monk is all the character I need.
 
-Also, the alarm in cloud giants is deadly!  (And I like it!)
+Also, the alarm in cloud giants is deadly! (And I like it!)
 
 </div>
 

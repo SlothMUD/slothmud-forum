@@ -20,7 +20,7 @@ There are all these spells in the game, and or skills to give players extra atta
 
 Could we maybe see some new avatar skills to cut lags... ie, pet ordering, eq changes, kill lags, relo lags etc etc
 
-Avatar speed or something for all classes... *shrug*
+Avatar speed or something for all classes... \*shrug\*
 
 Just a thought.
 
@@ -40,7 +40,7 @@ That would be second wind.
 
 <div class="post" data-post-id="26896" data-author="jezer" data-date="2008-10-31T00:33:20+00:00" data-subject="">
 
-Oh man! Warriors are so awesome with too many cool skills...  They definitely don't need anything more! :wink:
+Oh man! Warriors are so awesome with too many cool skills... They definitely don't need anything more! <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -54,7 +54,7 @@ If wishes were horses...
 
 <div class="post" data-post-id="26904" data-author="Virus" data-date="2008-10-31T03:28:01+00:00" data-subject="">
 
-And corpse in 1/2 of the time...  :twisted:
+And corpse in 1/2 of the time... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -62,7 +62,7 @@ And corpse in 1/2 of the time...  :twisted:
 
 Poor V spends half his life dead under a stab mob
 
-Look at it, as only spending a quarter of the time now....   :twisted:
+Look at it, as only spending a quarter of the time now.... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

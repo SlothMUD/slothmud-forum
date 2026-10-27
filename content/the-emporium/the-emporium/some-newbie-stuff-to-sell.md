@@ -22,7 +22,7 @@ Weight: 1, Value: 175000
 
 Can affect you as:
 
-    Affects: MANA by 5
+ Affects: MANA by 5
 
 Only those who are at least adept magic users, clerics, druids, or 
 
@@ -38,9 +38,9 @@ AC-apply is -0.3
 
 Can affect you as:
 
-    Affects: DEX by 1
+ Affects: DEX by 1
 
-    Affects: MOVE by -5
+ Affects: MOVE by -5
 
 Only those who are at least experienced magic users, clerics, thieves, 
 
@@ -58,9 +58,9 @@ Weight: 1, Value: 585000
 
 Can affect you as:
 
-    Affects: CON by 1
+ Affects: CON by 1
 
-    Affects: ARMOR by -4
+ Affects: ARMOR by -4
 
 Only those who have attained supremacy in at least three classes may use 
 
@@ -78,11 +78,11 @@ AC-apply is -1.2
 
 Can affect you as:
 
-    Affects: DEX by 1
+ Affects: DEX by 1
 
 Only those who are at least master clerics and also experienced warriors 
 
-may use this item.  
+may use this item. 
 
 Ok.
 
@@ -98,7 +98,7 @@ AC-apply is -0.2
 
 Can affect you as:
 
-    Affects: WIS by 1
+ Affects: WIS by 1
 
 Only those who are at least experienced magic users, clerics, druids, or 
 
@@ -116,9 +116,9 @@ AC-apply is -0.5
 
 Can affect you as:
 
-    Affects: DEX by 1
+ Affects: DEX by 1
 
-    Affects: SAVING_SPELL by -1
+ Affects: SAVING\_SPELL by -1
 
 Only those who have attained supremacy in at least three classes may use 
 
@@ -136,7 +136,7 @@ AC-apply is -2.2
 
 Can affect you as:
 
-    Affects: CON by 1
+ Affects: CON by 1
 
 Only those who are at least master magic users, thieves, warriors, or bards 
 
@@ -152,13 +152,13 @@ Weight: 1, Value: 480000
 
 Can affect you as:
 
-    Affects: ARMOR by -3
+ Affects: ARMOR by -3
 
-    Affects: REGEN_MANA by 1
+ Affects: REGEN\_MANA by 1
 
 Only those who are at least master magic users and also experienced clerics 
 
-may use this item.  
+may use this item. 
 
 You feel informed:
 
@@ -172,9 +172,9 @@ AC-apply is -0.9
 
 Can affect you as:
 
-    Affects: DAMROLL by 1
+ Affects: DAMROLL by 1
 
-    Affects: MOVE by 25
+ Affects: MOVE by 25
 
 Only those who are at least master thieves or master warriors, or 
 
@@ -192,7 +192,7 @@ AC-apply is -0.4
 
 Can affect you as:
 
-    Affects: SAVING_BREATH by -2
+ Affects: SAVING\_BREATH by -2
 
 Only those who are at least experienced thieves, warriors, bards, or monks 
 
@@ -210,7 +210,7 @@ AC-apply is -0.5
 
 Can affect you as:
 
-    Affects: CON by 1
+ Affects: CON by 1
 
 Only those who are at least apprentice magic users and also apprentice 
 
@@ -226,13 +226,13 @@ coif serpent - 2mil
 
 <div class="post" data-post-id="657" data-author="impz" data-date="2004-06-12T11:54:56+00:00" data-subject="">
 
-blue steel bracelet withdrawn..sorry :)
+blue steel bracelet withdrawn..sorry <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="668" data-author="Grapenut" data-date="2004-06-13T01:52:40+00:00" data-subject="">
 
-<P>Mongoss Skin Bag 500k<BR>Cross Necklace 500k<BR>Circle Flames 400k</P>
+\<P\>Mongoss Skin Bag 500k\<BR\>Cross Necklace 500k\<BR\>Circle Flames 400k\</P\>
 
 </div>
 
@@ -266,7 +266,7 @@ gorget blue steel
 
 600k
 
-~Elusive
+\~Elusive
 
 </div>
 
@@ -290,23 +290,28 @@ as said above, auction ends on friday....happy bidding!
 
 <div class="post" data-post-id="715" data-author="jex" data-date="2004-06-15T15:23:38+00:00" data-subject="Re: gorget blue steel">
 
-gorget blue steel
-
-600k
-
-~Elusive[/quote:1jdouts6]
+> <strong>Elusive wrote:</strong>
+> gorget blue steel
+> 
+> 
+> 
+> 600k
+> 
+> 
+> 
+> \~Elusive
 
 </div>
 
 <div class="post" data-post-id="716" data-author="jex" data-date="2004-06-15T15:26:37+00:00" data-subject="Re: gorget blue steel">
 
-[jex]<BR>gorget blue steel<BR>buying 650k
+[jex]\<BR\>gorget blue steel\<BR\>buying 650k
 
 </div>
 
 <div class="post" data-post-id="717" data-author="jex" data-date="2004-06-15T15:27:00+00:00" data-subject="Re: gorget blue steel">
 
-[jex]<BR>gorget blue steel<BR>buying 650k
+[jex]\<BR\>gorget blue steel\<BR\>buying 650k
 
 </div>
 
@@ -314,9 +319,9 @@ gorget blue steel
 
 Blue Gorget 700 k
 
-Wasnt sure what time friday the auction would close :)
+Wasnt sure what time friday the auction would close <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-~Elusive
+\~Elusive
 
 </div>
 

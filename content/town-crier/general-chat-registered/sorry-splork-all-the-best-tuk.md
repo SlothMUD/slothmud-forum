@@ -32,7 +32,7 @@ Tuk tells you 'xps?'
 
 You tell Tuk 'for non botters only'
 
-Tuk tells you 'non botter :)\'
+Tuk tells you 'non botter <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">\\'
 
 Tuk tells you 'tell when gateable'
 
@@ -58,7 +58,7 @@ tg elder
 
 e
 
-Alaric -- 'I said BUD LIGHT! *Sigh* SANC is UP, Let's Roll !!! :)'
+Alaric -- 'I said BUD LIGHT! \*Sigh\* SANC is UP, Let's Roll !!! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">'
 
 You grouptell: 'target elder'
 
@@ -68,13 +68,13 @@ You yell 'VICTORY ART THEE!!!!!!'
 
 Holding Area
 
-Exits: North  East  South  West
+Exits: North East South West
 
 The elder wanders about the city wearing threadbare clothing.
 
 A pale green necroid mercenary in full armor is on patrol.
 
-1086hp 128ma 321mv   -10.4AC +11 +7 +90 +47(indoors Dark Chasm 776,183,294XP 1,373,365GOLD +9ALG)
+1086hp 128ma 321mv -10.4AC +11 +7 +90 +47(indoors Dark Chasm 776,183,294XP 1,373,365GOLD +9ALG)
 
 Roku joins in the war-cry!
 
@@ -126,13 +126,13 @@ You stumble but regain your balance.
 
 Your group's front line is about to collapse, watch out!
 
-Tuk has materialized here.[/color:1pn39mjr]A necroid mercenary misses you with his hit.
+Tuk has materialized here.A necroid mercenary misses you with his hit.
 
 entren
 
 Rynquald -- 'here we go'
 
-Tuk grabs you, tossing you to the east![/color:1pn39mjr]Cell 1 Minimum
+Tuk grabs you, tossing you to the east!Cell 1 Minimum
 
 Exits: West
 
@@ -160,11 +160,11 @@ tgt tuk
 
 Holding Area
 
-Exits: North  East  South  West
+Exits: North East South West
 
 AN OPEN PORTAL IS HERE!
 
-Rynquald ~Dragonsworn~ is standing here. [5](Faint Red Aura)
+Rynquald \~Dragonsworn\~ is standing here. [5\](Faint Red Aura)
 
 Arkresh . is here, fighting an elder citizen(Brilliant Blue Aura)
 
@@ -178,7 +178,7 @@ Alaric has a steady green aura.
 
 Jabba 2 shocking good times with Ds. is lying here, dead.(Faint Blue Aura)
 
-Roku ~Sleeping Forest~ is standing here.
+Roku \~Sleeping Forest\~ is standing here.
 
 Roku has a steady red aura.
 
@@ -194,7 +194,7 @@ An elder citizen is covered in sticky webs!
 
 A necroid mercenary is here, fighting Alaric
 
-943hp 131ma 328mv   -10.4AC +11 +7 +90 +47(indoors Dark Chasm 776,194,403XP 1,373,365GOLD +9ALG)
+943hp 131ma 328mv -10.4AC +11 +7 +90 +47(indoors Dark Chasm 776,194,403XP 1,373,365GOLD +9ALG)
 
 Alaric skillfully parries the attack of an elder citizen.
 
@@ -270,7 +270,7 @@ Your group's front line is about to collapse, watch out!
 
 You report 817/1086 hp. Change: -133. Need: 269. Spells: none.
 
-A nightmare gallops up to Tuk and whinnies.[/size:1pn39mjr][/color:1pn39mjr]
+A nightmare gallops up to Tuk and whinnies.
 
 toss tuk n
 
@@ -278,7 +278,7 @@ You grab Tuk and throw him to the north!
 
 You report 823/1086 hp. Change: +6. Need: 263. Spells: none.
 
-823hp 137ma 301mv   -7.4AC +11 +7 +123 +44(indoors Dark Chasm 776,222,098XP 1,373,365GOLD +9ALG)
+823hp 137ma 301mv -7.4AC +11 +7 +123 +44(indoors Dark Chasm 776,222,098XP 1,373,365GOLD +9ALG)
 
 Arkresh pierces A necroid mercenary.
 
@@ -326,7 +326,7 @@ stone
 
 You lost your concentration!
 
-707hp 133ma 304mv   -7.4AC +11 +7 +123 +44(indoors Dark Chasm 776,230,952XP 1,373,365GOLD +9ALG)
+707hp 133ma 304mv -7.4AC +11 +7 +123 +44(indoors Dark Chasm 776,230,952XP 1,373,365GOLD +9ALG)
 
 Shadeheart misses A necroid mercenary with his pierce.
 
@@ -360,7 +360,7 @@ Your group's front line is about to collapse, watch out!
 
 You report 464/1086 hp. Change: -241. Need: 622. Spells: none.
 
-464hp 134ma 305mv   -7.4AC +11 +7 +123 +44(indoors Dark Chasm 776,239,098XP 1,373,365GOLD +9ALG)
+464hp 134ma 305mv -7.4AC +11 +7 +123 +44(indoors Dark Chasm 776,239,098XP 1,373,365GOLD +9ALG)
 
 stone
 
@@ -370,9 +370,9 @@ A nightmare gallops off.
 
 An elder citizen really needs a good bath! Phew!
 
-SEEK SHELTER AT ONCE!  Arkresh has begun to sing.
+SEEK SHELTER AT ONCE! Arkresh has begun to sing.
 
-668hp 136ma 307mv   -7.4AC +11 +7 +123 +44(indoors Dark Chasm 776,239,098XP 1,373,365GOLD +9ALG)
+668hp 136ma 307mv -7.4AC +11 +7 +123 +44(indoors Dark Chasm 776,239,098XP 1,373,365GOLD +9ALG)
 
 You are viciously massacred by an elder citizen's hit.
 
@@ -408,7 +408,7 @@ Alaric -- 'did he just toss you?'
 
 You report 654/1086 hp. Change: +193. Need: 432. Spells: none.
 
-660hp 140ma 311mv   -7.4AC +11 +7 +123 +44(indoors Dark Chasm 776,242,419XP 1,373,365GOLD +9ALG)
+660hp 140ma 311mv -7.4AC +11 +7 +123 +44(indoors Dark Chasm 776,242,419XP 1,373,365GOLD +9ALG)
 
 The cleansing fires of healing fill your body!
 
@@ -418,31 +418,31 @@ Rynquald -- 'he did'
 
 You grouptell: 'yes he did'
 
-667hp 144ma 316mv   -7.4AC +11 +7 +77 +44(indoors Dark Chasm 776,250,239XP 1,373,365GOLD +9ALG)
+667hp 144ma 316mv -7.4AC +11 +7 +77 +44(indoors Dark Chasm 776,250,239XP 1,373,365GOLD +9ALG)
 
-Arkresh reports 36/294 hp. Need: 258. 47/228 ma.  158/158 mv.
+Arkresh reports 36/294 hp. Need: 258. 47/228 ma. 158/158 mv.
 
 Banzai! To the rescue...
 
-667hp 144ma 316mv   -7.4AC +11 +7 +123 +44(indoors Dark Chasm 776,250,239XP 1,373,365GOLD +9ALG)
+667hp 144ma 316mv -7.4AC +11 +7 +123 +44(indoors Dark Chasm 776,250,239XP 1,373,365GOLD +9ALG)
 
 But nobody is fighting him?
 
-669hp 145ma 316mv   -7.4AC +11 +7 +123 +44(indoors Dark Chasm 776,250,239XP 1,373,365GOLD +9ALG)
+669hp 145ma 316mv -7.4AC +11 +7 +123 +44(indoors Dark Chasm 776,250,239XP 1,373,365GOLD +9ALG)
 
 But nobody is fighting him?
 
-669hp 145ma 316mv   -7.4AC +11 +7 +123 +44(indoors Dark Chasm 776,250,239XP 1,373,365GOLD +9ALG)
+669hp 145ma 316mv -7.4AC +11 +7 +123 +44(indoors Dark Chasm 776,250,239XP 1,373,365GOLD +9ALG)
 
 Nobody here by that name.
 
 You report 671/1086 hp. Change: +6. Need: 415. Spells: none.
 
-671hp 145ma 317mv   -7.4AC +11 +7 +123 +44(indoors Dark Chasm 776,250,239XP 1,373,365GOLD +9ALG)
+671hp 145ma 317mv -7.4AC +11 +7 +123 +44(indoors Dark Chasm 776,250,239XP 1,373,365GOLD +9ALG)
 
 There are no loyal subjects of yours here!
 
-671hp 145ma 317mv   -7.4AC +11 +7 +123 +44(indoors Dark Chasm 776,250,239XP 1,373,365GOLD +9ALG)
+671hp 145ma 317mv -7.4AC +11 +7 +123 +44(indoors Dark Chasm 776,250,239XP 1,373,365GOLD +9ALG)
 
 hd
 
@@ -484,11 +484,11 @@ res ark
 
 You report 671/1086 hp. Change: +6. Need: 415. Spells: none.
 
-Alaric -- 'he's done for now :)'
+Alaric -- 'he's done for now <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">'
 
 Banzai! To the rescue...
 
-673hp 150ma 322mv   -7.4AC +11 +7 +77 +44(indoors Dark Chasm 776,256,839XP 1,373,365GOLD +9ALG)
+673hp 150ma 322mv -7.4AC +11 +7 +77 +44(indoors Dark Chasm 776,256,839XP 1,373,365GOLD +9ALG)
 
 You skillfully parry the attack of an elder citizen.
 
@@ -528,7 +528,7 @@ An elder citizen sees Alaric, and ATTACKS!
 
 Alaric -- 'splork is gonna love this'
 
-385hp 151ma 323mv   -7.4AC +11 +7 +123 +44(indoors Dark Chasm 776,265,601XP 1,373,365GOLD +9ALG)
+385hp 151ma 323mv -7.4AC +11 +7 +123 +44(indoors Dark Chasm 776,265,601XP 1,373,365GOLD +9ALG)
 
 You feel better!
 
@@ -536,7 +536,7 @@ Banzai! To the rescue...
 
 You report 433/1086 hp. Change: +53. Need: 653. Spells: none.
 
-435hp 153ma 325mv   -7.4AC +11 +7 +123 +44(indoors Dark Chasm 776,265,601XP 1,373,365GOLD +9ALG)
+435hp 153ma 325mv -7.4AC +11 +7 +123 +44(indoors Dark Chasm 776,265,601XP 1,373,365GOLD +9ALG)
 
 An elder citizen misses you with his hit.
 
@@ -576,7 +576,7 @@ Banzai! To the rescue...
 
 You report 371/1086 hp. Change: +8. Need: 715. Spells: none.
 
-371hp 156ma 329mv   -7.4AC +11 +7 +123 +44(indoors Dark Chasm 776,271,145XP 1,373,365GOLD +9ALG)
+371hp 156ma 329mv -7.4AC +11 +7 +123 +44(indoors Dark Chasm 776,271,145XP 1,373,365GOLD +9ALG)
 
 You skillfully parry the attack of an elder citizen.
 
@@ -616,7 +616,7 @@ Your group's front line is about to collapse, watch out!
 
 You report 163/1086 hp. Change: -208. Need: 923. Spells: none.
 
-163hp 156ma 329mv   -7.4AC +11 +7 +123 +44(indoors Dark Chasm 776,278,457XP 1,373,365GOLD +9ALG)
+163hp 156ma 329mv -7.4AC +11 +7 +123 +44(indoors Dark Chasm 776,278,457XP 1,373,365GOLD +9ALG)
 
 hd
 
@@ -626,13 +626,13 @@ An elder citizen misses you with his hit.
 
 You wish that your wounds would stop BLEEDING that much!
 
-165hp 157ma 329mv   -7.4AC +11 +7 +123 +44(indoors Dark Chasm 776,278,457XP 1,373,365GOLD +9ALG)
+165hp 157ma 329mv -7.4AC +11 +7 +123 +44(indoors Dark Chasm 776,278,457XP 1,373,365GOLD +9ALG)
 
 The skin around Alaric begins to tighten, as it turns to stone.
 
 You report 169/1086 hp. Change: +6. Need: 917. Spells: none.
 
-169hp 159ma 329mv   -7.4AC +11 +7 +123 +44(indoors Dark Chasm 776,278,457XP 1,373,365GOLD +9ALG)
+169hp 159ma 329mv -7.4AC +11 +7 +123 +44(indoors Dark Chasm 776,278,457XP 1,373,365GOLD +9ALG)
 
 hd
 
@@ -640,7 +640,7 @@ hd
 
 You are already awake...
 
-171hp 159ma 329mv   -7.4AC +11 +7 +123 +44(indoors Dark Chasm 776,278,457XP 1,373,365GOLD +9ALG)
+171hp 159ma 329mv -7.4AC +11 +7 +123 +44(indoors Dark Chasm 776,278,457XP 1,373,365GOLD +9ALG)
 
 @@
 
@@ -692,7 +692,7 @@ Your group's front line is about to collapse, watch out!
 
 Rynquald looks at an elder citizen.
 
-18hp 160ma 309mv   -7.4AC +11 +7 +123 +44(indoors Dark Chasm 776,282,723XP 1,373,365GOLD +9ALG)
+18hp 160ma 309mv -7.4AC +11 +7 +123 +44(indoors Dark Chasm 776,282,723XP 1,373,365GOLD +9ALG)
 
 Ok.
 
@@ -700,7 +700,7 @@ The cleansing fires of healing fill your body!
 
 You report 213/1086 hp. Change: +195. Need: 873. Spells: none.
 
-213hp 111ma 309mv   -7.4AC +11 +7 +77 +44(indoors Dark Chasm 776,290,523XP 1,373,365GOLD +9ALG)
+213hp 111ma 309mv -7.4AC +11 +7 +77 +44(indoors Dark Chasm 776,290,523XP 1,373,365GOLD +9ALG)
 
 Alaric -- 'defied'
 
@@ -712,7 +712,7 @@ The cleansing fires of healing fill your body!
 
 You report 418/1086 hp. Change: +205. Need: 668. Spells: none.
 
-419hp 65ma 292mv   -7.4AC +11 +7 +123 +44(indoors Dark Chasm 776,298,483XP 1,373,365GOLD +9ALG)
+419hp 65ma 292mv -7.4AC +11 +7 +123 +44(indoors Dark Chasm 776,298,483XP 1,373,365GOLD +9ALG)
 
 You skillfully parry the attack of an elder citizen.
 
@@ -752,9 +752,9 @@ Your group's front line is about to collapse, watch out!
 
 You report 69/1086 hp. Change: -349. Need: 1017. Spells: none.
 
-69hp 65ma 292mv   -7.4AC +11 +7 +123 +44(indoors Dark Chasm 776,299,693XP 1,373,365GOLD +9ALG)
+69hp 65ma 292mv -7.4AC +11 +7 +123 +44(indoors Dark Chasm 776,299,693XP 1,373,365GOLD +9ALG)
 
-69hp 65ma 292mv   -7.4AC +11 +7 +123 +44(indoors Dark Chasm 776,299,693XP 1,373,365GOLD +9ALG)
+69hp 65ma 292mv -7.4AC +11 +7 +123 +44(indoors Dark Chasm 776,299,693XP 1,373,365GOLD +9ALG)
 
 Ok.
 
@@ -766,7 +766,7 @@ You feel better!
 
 You report 299/1086 hp. Change: +36. Need: 787. Spells: none.
 
-302hp 18ma 294mv   -7.4AC +11 +7 +123 +44(indoors Dark Chasm 776,307,293XP 1,373,365GOLD +9ALG)
+302hp 18ma 294mv -7.4AC +11 +7 +123 +44(indoors Dark Chasm 776,307,293XP 1,373,365GOLD +9ALG)
 
 An elder citizen misses you with his hit.
 
@@ -780,57 +780,57 @@ You wish that your wounds would stop BLEEDING that much!
 
 You have been KILLED!!
 
--26hp 19ma 295mv   -3.4AC +11 +7 +0 +0(indoors Dark Chasm 776,307,293XP 1,373,365GOLD +9ALG)
+\-26hp 19ma 295mv -3.4AC +11 +7 +0 +0(indoors Dark Chasm 776,307,293XP 1,373,365GOLD +9ALG)
 
 You can't see anything but stars!
 
 gp
 
-Group 'A & A only' is locked.
+Group 'A \& A only' is locked.
 
 It's led by Dsfren and consists of:
 
-   (Dead)           Dsfren [Wa:4.35  -26hp  19ma 295mv] ---
+ (Dead) Dsfren [Wa:4.35 -26hp 19ma 295mv] ---
 
-   (Dead)       Shadeheart [Th:0.20 -100hp  88ma 179mv] ---
+ (Dead) Shadeheart [Th:0.20 -100hp 88ma 179mv] ---
 
-   (Dead)            Jabba [Ne:0.20 -103hp  83ma 125mv] ---
+ (Dead) Jabba [Ne:0.20 -103hp 83ma 125mv] ---
 
-   (Dead)           Kaylee [Ma:1.25  -65hp  28ma 171mv] mage 4
+ (Dead) Kaylee [Ma:1.25 -65hp 28ma 171mv] mage 4
 
-                  Rynquald [Ma:1.39  382hp 270ma 159mv] ---
+ Rynquald [Ma:1.39 382hp 270ma 159mv] ---
 
-                   Arkresh [Ne:0.20  110hp  45ma 158mv] ---
+ Arkresh [Ne:0.20 110hp 45ma 158mv] ---
 
-                    Alaric [Wa:0.36  350hp 109ma 167mv] rerolls
+ Alaric [Wa:0.36 350hp 109ma 167mv] rerolls
 
-                      Roku [Dr:3.25  672hp  97ma 210mv] ---
+ Roku [Dr:3.25 672hp 97ma 210mv] ---
 
--26hp 19ma 295mv   -3.4AC +11 +7 +0 +0(overcast Aisholm Town 776,307,293XP 1,373,365GOLD +9ALG)
+\-26hp 19ma 295mv -3.4AC +11 +7 +0 +0(overcast Aisholm Town 776,307,293XP 1,373,365GOLD +9ALG)
 
 whe
 
-You are in Aisholm Town.  Also in this area are:
+You are in Aisholm Town. Also in this area are:
 
-Name                           - Location
+Name - Location
 
------------------------------------------
+\-----------------------------------------
 
-Roku                           - The Wide Gate
+Roku - The Wide Gate
 
-Kaylee                         - The Wide Gate
+Kaylee - The Wide Gate
 
-Alaric                         - The Wide Gate
+Alaric - The Wide Gate
 
-Jabba                          - The Wide Gate
+Jabba - The Wide Gate
 
-Arkresh                        - The Wide Gate
+Arkresh - The Wide Gate
 
-Shadeheart                     - The Wide Gate
+Shadeheart - The Wide Gate
 
-Rynquald                       - The Wide Gate
+Rynquald - The Wide Gate
 
-Dsfren                         - The Wide Gate
+Dsfren - The Wide Gate
 
 Roku -- ': were all here. ill start raising.'
 
@@ -850,7 +850,7 @@ Arkresh stops following you.
 
 Rynquald stops following you.
 
-Dsfren has left this channel: ~DS~.
+Dsfren has left this channel: \~DS\~.
 
 Ok... all channels turned off.
 
@@ -866,17 +866,17 @@ Simon
 
 I'm glad this rubbish appears on the crier even if it is the pot calling the kettle black.
 
-[b:17y9dy1w][i:17y9dy1w]To much appeasement of greed and immaturity goes on in game. Lets see some punishment as deterrents. No leader wants to appear to be a jerk because he had to single out a player to deal with petty issues, but you get sick of putting up with it.
+<strong><em>To much appeasement of greed and immaturity goes on in game. Lets see some punishment as deterrents. No leader wants to appear to be a jerk because he had to single out a player to deal with petty issues, but you get sick of putting up with it.</strong></em>
 
-[/i:17y9dy1w]
+<em><strong></em></strong>
 
-[/b:17y9dy1w]It's obvious players need to be encouraged to take some time out when this stuff happens. I think temporary lock out is a good punishment, maybe they can get there kit together in real life during that time. Reducing xp or levels can only make the problems worse as they strive to get it back.
+It's obvious players need to be encouraged to take some time out when this stuff happens. I think temporary lock out is a good punishment, maybe they can get there kit together in real life during that time. Reducing xp or levels can only make the problems worse as they strive to get it back.
 
 </div>
 
 <div class="post" data-post-id="31175" data-author="Mosaix" data-date="2010-05-20T11:31:52+00:00" data-subject="">
 
-Looks like Tuk, tossed you, dispelled you, and caused your death and others in a group.  So he pkilled you, and part of the group.  
+Looks like Tuk, tossed you, dispelled you, and caused your death and others in a group. So he pkilled you, and part of the group. 
 
 Bye bye Tuk.
 
@@ -894,7 +894,7 @@ Splork
 
 <div class="post" data-post-id="31178" data-author="Thraxas" data-date="2010-05-20T12:06:16+00:00" data-subject="">
 
-Sometimes punishments are needed in any game ... think of your favorite sport and theres going to be a penalty or punishment for a foul. You never find a sport where the ref says [i:pkk6xwbp]'well if I give him a penalty he might stop playing'[/i:pkk6xwbp] ... foul = penalty.
+Sometimes punishments are needed in any game ... think of your favorite sport and theres going to be a penalty or punishment for a foul. You never find a sport where the ref says <em>'well if I give him a penalty he might stop playing'</em> ... foul = penalty.
 
 This is a clear foul, not only that but it was intended to be a foul.
 
@@ -918,13 +918,16 @@ P.S, after this saga, i've learn to reject pple who wants to join my group. Alth
 
 Thanks
 
-I'm glad this rubbish appears on the crier even if it is the pot calling the kettle black.
-
-[b:1dpftc36][i:1dpftc36]To much appeasement of greed and immaturity goes on in game. Lets see some punishment as deterrents. No leader wants to appear to be a jerk because he had to single out a player to deal with petty issues, but you get sick of putting up with it.
-
-[/i:1dpftc36]
-
-[/b:1dpftc36]It's obvious players need to be encouraged to take some time out when this stuff happens. I think temporary lock out is a good punishment, maybe they can get there kit together in real life during that time. Reducing xp or levels can only make the problems worse as they strive to get it back.[/quote:1dpftc36]
+> <strong>jezer wrote:</strong>
+> I'm glad this rubbish appears on the crier even if it is the pot calling the kettle black.
+> 
+> 
+> 
+> <strong><em>To much appeasement of greed and immaturity goes on in game. Lets see some punishment as deterrents. No leader wants to appear to be a jerk because he had to single out a player to deal with petty issues, but you get sick of putting up with it.</strong></em>
+> 
+> <em><strong></em></strong>
+> 
+> It's obvious players need to be encouraged to take some time out when this stuff happens. I think temporary lock out is a good punishment, maybe they can get there kit together in real life during that time. Reducing xp or levels can only make the problems worse as they strive to get it back.
 
 </div>
 
@@ -940,25 +943,26 @@ Dsfren ungrouped Tuk.
 
 Tuk gates in and tells Dsfren "WTH, I was blasting!"
 
-Come on, that's funny! :)~
+Come on, that's funny! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">\~
 
-By the way, people have come to the point where they expect a leader to do certain things yet they don't hardly lead themselves.  Having someone lead you around is a luxury, one that I am very thankful of when that happens.  I try to pay attention, but in a game like this it can be easy to look away from screen for something else or get bored.  It can be forgiven, just don't be so hard on a leader when they get upset because people don't pay attention.  The leader's frustration isn't 100% aimed at you most the time when something like this occurs.  It's normally something that builds up for days or weeks until finally leader just has enough and says I've had it.
+By the way, people have come to the point where they expect a leader to do certain things yet they don't hardly lead themselves. Having someone lead you around is a luxury, one that I am very thankful of when that happens. I try to pay attention, but in a game like this it can be easy to look away from screen for something else or get bored. It can be forgiven, just don't be so hard on a leader when they get upset because people don't pay attention. The leader's frustration isn't 100% aimed at you most the time when something like this occurs. It's normally something that builds up for days or weeks until finally leader just has enough and says I've had it.
 
--Toxis
+\-Toxis
 
 </div>
 
 <div class="post" data-post-id="31181" data-author="Mace" data-date="2010-05-20T15:55:08+00:00" data-subject="">
 
-Definite foul.  Even if you have just cause for messing with someone, involving group members is bad form.  Also, if a group leader doesn't want you for whatever reason, tough.
+Definite foul. Even if you have just cause for messing with someone, involving group members is bad form. Also, if a group leader doesn't want you for whatever reason, tough.
 
-As far as the group CF goes, I'm less sure there.  ~8 rounds went by with no one re-lighting Dsfren, and the group had attacked a citizen with a mercenary there.  My unrequested verdict is that Tuk only contributed 20% to the deaths. ;)
+As far as the group CF goes, I'm less sure there. \~8 rounds went by with no one re-lighting Dsfren, and the group had attacked a citizen with a mercenary there. My unrequested verdict is that Tuk only contributed 20% to the deaths. <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="31182" data-author="Thraxas" data-date="2010-05-20T16:25:06+00:00" data-subject="">
 
-My unrequested verdict is that Tuk only contributed 20% to the deaths. ;)[/quote:3f7t90vq]
+> <strong>Mace wrote:</strong>
+> My unrequested verdict is that Tuk only contributed 20% to the deaths. <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 Think you miss the point ... he intended to mess the group up, he intended to cause death, he acted on that intention, deaths ensued. 
 
@@ -984,7 +988,7 @@ Well, Iâ€™m sorry for CF, didnâ€™t meant to wipe half of group, even i
 
 Anyways, DS acts absolutely like Godz closing group to someone. 
 
-Zomg teh drama  :wink:
+Zomg teh drama <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -998,7 +1002,8 @@ There's no real way you can attack a group in combat and then believably claim t
 
 <div class="post" data-post-id="31187" data-author="jezer" data-date="2010-05-21T00:11:10+00:00" data-subject="">
 
-Jezer[/quote:1dkaydfh]
+> <strong>DSF wrote:</strong>
+> Jezer
 
 Your known for being afk in groups Ds, we know you don't pk groups and what not.
 
@@ -1016,9 +1021,9 @@ Thanks for your comments.
 
 Action speaks louder than words. I have my group of followers....hope u have yrs. 
 
-Jezer[/quote:tmtoq7ml]
-
-[/quote:tmtoq7ml]
+> <strong>jezer wrote:</strong>
+> > <strong>DSF wrote:</strong>
+> > Jezer
 
 </div>
 
@@ -1028,7 +1033,7 @@ LOL
 
 the 2 biggest botters/afkers battling it out for mud supremacy...funny stuff
 
-having a group of followers means squat.  I bet ppl would follow starman for BH xp if he lead
+having a group of followers means squat. I bet ppl would follow starman for BH xp if he lead
 
 </div>
 
@@ -1048,7 +1053,7 @@ Splork
 
 <div class="post" data-post-id="31337" data-author="Thraxas" data-date="2010-06-30T18:42:58+00:00" data-subject="Re:">
 
-> ***Splork* wrote:**
+> <strong>\*Splork\* wrote:</strong>
 > ... . 
 > 
 > He has been involved in way too many incidents similar to this
@@ -1061,22 +1066,22 @@ bump
 
 <div class="post" data-post-id="31338" data-author="Jag" data-date="2010-06-30T19:26:20+00:00" data-subject="Re: Sorry Splork......All the Best, Tuk!">
 
-And yet he is at it again.  Do we really need this on ouyr mud?
+And yet he is at it again. Do we really need this on ouyr mud?
 
 </div>
 
 <div class="post" data-post-id="31340" data-author="Tuck" data-date="2010-07-01T17:14:46+00:00" data-subject="Re: Sorry Splork......All the Best, Tuk!">
 
-> **Jag wrote:**
-> And yet he is at it again.  Do we really need this on ouyr mud?
+> <strong>Jag wrote:</strong>
+> And yet he is at it again. Do we really need this on ouyr mud?
 
-yeah, nomic needs punishment  :P
+yeah, nomic needs punishment <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="31341" data-author="Gramps" data-date="2010-07-02T01:05:00+00:00" data-subject="Re: Sorry Splork......All the Best, Tuk!">
 
-Bump.  Time to lose the jerks.
+Bump. Time to lose the jerks.
 
 </div>
 
@@ -1086,7 +1091,7 @@ bump
 
 time the imms took a hand with Tuk and any similar minded players
 
-Over the top grasping "I want all & multiple calls" greed in groups, agression against and bullying/harrassment of players and obscenities on open channels are not the sloth way, overt and repeated botting in groups does however seem to be the sloth way but what the hell he's guilty of that too so lets thow it in at the same time.
+Over the top grasping "I want all \& multiple calls" greed in groups, agression against and bullying/harrassment of players and obscenities on open channels are not the sloth way, overt and repeated botting in groups does however seem to be the sloth way but what the hell he's guilty of that too so lets thow it in at the same time.
 
 xp loss rap on the knuckles hasnt worked.
 
@@ -1094,7 +1099,7 @@ xp loss rap on the knuckles hasnt worked.
 
 <div class="post" data-post-id="31343" data-author="Jag" data-date="2010-07-03T12:46:48+00:00" data-subject="Re: Sorry Splork......All the Best, Tuk!">
 
-> **Quote:**
+> <strong>Quote:</strong>
 > Another incident like this will result in the player being wiped. 
 > 
 > 

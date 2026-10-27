@@ -32,7 +32,7 @@ As for the rest, that's my understanding as well, but it's not clear why it has 
 
 No one will mort a real newbie into oblivion for the very reasons this singular limit is placed and because it takes time to mort a lot. I am not aware of cases, where morting people under 40 yielded a clueless character, which would've prompted the limit. I am aware, though, of plenty of avatars not having a clue where their eq mob is or how to get to it, because they got their levels in the grand exp groups imms steer us to.
 
-And if **an experienced player** wants to get morts as a newbie, I don't see reasons to limit their progress by making them immune to nocaps. After all, remorts get permanent x2 exp bonus, which is far, far stronger, than a temporary nocap extra.
+And if <strong>an experienced player</strong> wants to get morts as a newbie, I don't see reasons to limit their progress by making them immune to nocaps. After all, remorts get permanent x2 exp bonus, which is far, far stronger, than a temporary nocap extra.
 
 Morting is hard: you spend more efforts/mana not to hit the mob, rather than kill it, so it is a sufficient limit towards limiting the exp/hr, in addition to the rarity of the nocap extra. After a certain level, it's easier to 2man exp, rather than mort.
 
@@ -48,9 +48,9 @@ No, I'm saying any newb limits should remain because it's bad enough:
 
 You have all lev 20 valkers then all 4x40-9x40 avatars...why?
 
-- Because people run their veteran friends' newb-level alts all over lyme and get them on par.
+\- Because people run their veteran friends' newb-level alts all over lyme and get them on par.
 
-- This limits grouping through mid levs, a time when true newbs actually need the support of those chars to...ya know...actually learn the structure of sloth groups within eq/xp, learn the ropes, mutually gain through the mud...rather than be left in the cold by those being isolationist and elitist on lyme with their small cadre of old-timers dragging them around.
+\- This limits grouping through mid levs, a time when true newbs actually need the support of those chars to...ya know...actually learn the structure of sloth groups within eq/xp, learn the ropes, mutually gain through the mud...rather than be left in the cold by those being isolationist and elitist on lyme with their small cadre of old-timers dragging them around.
 
 This leads to new players quitting at mid levs. Can't tell you how many truly new characters I've tried to help get through newb levs and get them self-sufficient by midlevs. Then they see the eq needed to even become decent at mid-levs and they say 'well, i'll definitely need a small group for this.' To get the decent eq, they need some already decent eq to even come close to soloing. The usual mantra by the experienced vets when talking about running groups for mid levs off lyme is usually more subtly put...but basically comes out as 'find a way to solo it...well, i have mine...get yours or die/quit and get out of my way'....when these same characters acquired a lot of their core pieces along the way through the exact groups they're now denying mid-levs of. Why? because everyone gets their high levs and doesn't give a shit about new playerbase (specifically helping them get equipped) and would rather camp and autobot lyme (b/c god forbid you don't have that 10th damage point bought from mayor). Let's just 2-3 man grind the same 5 lyme areas all day and sometimes drag our lev 20 friends around while burying our head in the sand....meanwhile with the new playerbase dying.
 
@@ -62,11 +62,11 @@ Imms can get mad all they want that I'm posting this here, but it's the truth. T
 
 I guess you are right, to an extent.
 
-1. I agree that there needs to be a medium level playerbase to accomodate new players. I've seen too many players quit after/before leaving valk or within 2x40. And I've helped a great deal of them, too.
+1\. I agree that there needs to be a medium level playerbase to accomodate new players. I've seen too many players quit after/before leaving valk or within 2x40. And I've helped a great deal of them, too.
 
 I guess I'll try to play my newbs more, except I do the mid-level eq on my main solo. So you are right that if an experienced player creates an alt or brings a friend, the new char doesn't need to join eq groups.
 
-2. As far as attitude towards newbie eq, with this amount of players, you ought to have avatars in a group to kill decent eq mobs, such as the swordwraith in MH or Fallon. So usually it is all restricted to following exp groups, hoping you get some eq from there (there isn't much, and some people do complain, if we veer off to hit an eq mob during an exp run).
+2\. As far as attitude towards newbie eq, with this amount of players, you ought to have avatars in a group to kill decent eq mobs, such as the swordwraith in MH or Fallon. So usually it is all restricted to following exp groups, hoping you get some eq from there (there isn't much, and some people do complain, if we veer off to hit an eq mob during an exp run).
 
 Practically, there's nothing wrong in using your main to help your alts, the problem is, we don't have the amount of players to accomodate people going solo or in a tight group of friends. If we had more players that'd group offvalk on their own, I'm sure the nocap issue wouldn't be an issue at all, because these caps are unattainable without morting.
 
@@ -76,13 +76,13 @@ So, if I were an imm, I'd put more effort in acquiring new players, retaining ex
 
 <div class="post" data-post-id="36817" data-author="Ezekiel" data-date="2016-04-13T04:44:22+00:00" data-subject="Re: Newbies are not affected by nocap">
 
-I'm not saying people shouldn't use their main to help their alts...I'm saying it's not conducive for a 9x40 to drag his lev 20 friends all over lyme to breeze through mid-levs...it discourages new playerbase. Also I'm saying that mid-levs are pretty much only getting popped eq that are on exp runs, b/c once everyone gets high lev enough...no one wants to help mid-levs get equipped unless it helps them (which inevitably means they'll only group with these mid-levs in xp groups). I'm not saying your high lev chars should play more with their mid-lev alts necessarily..I'm saying that if the high level chars choose not to...please spend a little time trying to help equip the new playerbase at mid-levs, even if that means it coming at *GASP* a slower xp per hour... and actually doing something off lyme. Only time I see people actually hitting mobs to help mid-levs equip are on nocap when they can benefit, which is pretty f'ing sad.
+I'm not saying people shouldn't use their main to help their alts...I'm saying it's not conducive for a 9x40 to drag his lev 20 friends all over lyme to breeze through mid-levs...it discourages new playerbase. Also I'm saying that mid-levs are pretty much only getting popped eq that are on exp runs, b/c once everyone gets high lev enough...no one wants to help mid-levs get equipped unless it helps them (which inevitably means they'll only group with these mid-levs in xp groups). I'm not saying your high lev chars should play more with their mid-lev alts necessarily..I'm saying that if the high level chars choose not to...please spend a little time trying to help equip the new playerbase at mid-levs, even if that means it coming at \*GASP\* a slower xp per hour... and actually doing something off lyme. Only time I see people actually hitting mobs to help mid-levs equip are on nocap when they can benefit, which is pretty f'ing sad.
 
 Most peeps got equipped through groups, now they want to leave everyone hanging.
 
 Sometimes I wish they would just nerf Lyme into oblivion to actually guide people do other things, since they're not doing it of their own accord.
 
--Zeke
+\-Zeke
 
 </div>
 
@@ -98,7 +98,7 @@ About mid groups "problem", and "groups problem" in general, few people willing 
 
 About "someone running all Lyme for himself and his friends". I know what you're sayin', it happened to me few times - player comes in area that "I run" and starts killing "my" mobs, I complain to imms and get clear explanation: no Rules forbidding doing that; we players can even engage mobs that other players currently fighting, its legal belive or not. Only thing why people don't do that, is their moral ethical beliefs; you are free to do what you want, but be ready to face the consequences; some people ask and then leave seeing me inside certain area, some just ignore me and rush in (but fail to benefit coz I kill faster); I like how its done, just olde good American way, government does only what we the People cannot do ourselves, and we certainly can work out problems like that, either by respecting each others, or fight over (web, recall, sanc mobs, blind, silence, sleep, you choose) - but not PK directly, because its against the Rules. Not sure about indirect, though. See, I wasnt 'protected' by this unwritten rule, but I still respect it, because I can benefit from it some day somewhere.
 
-Solution to this can be we all be friends, shake our hands and run exp together! Pretty challenging, isnt it? To step over ourselves, forget all fights past and move on :)
+Solution to this can be we all be friends, shake our hands and run exp together! Pretty challenging, isnt it? To step over ourselves, forget all fights past and move on <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -106,25 +106,25 @@ Solution to this can be we all be friends, shake our hands and run exp together!
 
 Woah, Eze, slow down. Let's identify the issues you raised:
 
-1. high level chars lead their friends around lyme for exp, letting them breeze through 1x40-3x40
+1\. high level chars lead their friends around lyme for exp, letting them breeze through 1x40-3x40
 
-2. high level chars don't help newbies they don't know with medium (1x40-3x40) eq
+2\. high level chars don't help newbies they don't know with medium (1x40-3x40) eq
 
-3. exp group leaders focus on exp, not eq
+3\. exp group leaders focus on exp, not eq
 
-4. there are no eq groups that'd newbies could get their eq from
+4\. there are no eq groups that'd newbies could get their eq from
 
-5. high level chars don't kill off lyme.
+5\. high level chars don't kill off lyme.
 
-1. First of all, at least a few times a week, there's an exp group off-Lyme. It's usually fargate exp and it's great exp, better, than Lyme, according to a few 2man runs I did. So it doesn't matter, where avatars have their friends get exp (1), on lyme or in exp groups. In fact, my groups are comprised mainly of avatars, so they do kill stuff off-lyme (5), so you are talking only about one particular avatar that doesn't join us off-lyme.
+1\. First of all, at least a few times a week, there's an exp group off-Lyme. It's usually fargate exp and it's great exp, better, than Lyme, according to a few 2man runs I did. So it doesn't matter, where avatars have their friends get exp (1), on lyme or in exp groups. In fact, my groups are comprised mainly of avatars, so they do kill stuff off-lyme (5), so you are talking only about one particular avatar that doesn't join us off-lyme.
 
-2. Of course, avatars don't cycle for eq for ppl they don't know, unless it's an eq group. And eq groups are even rarer, than exp groups, but there are a few of them. I agree that medium players can mostly hope that something comes up on the auction or armor shops.
+2\. Of course, avatars don't cycle for eq for ppl they don't know, unless it's an eq group. And eq groups are even rarer, than exp groups, but there are a few of them. I agree that medium players can mostly hope that something comes up on the auction or armor shops.
 
-3. As for exp groups, I try to hit mostly exp mobs, and if someone needs an eq item from an exp mob, I usually hit it too. And yet some people are offended by this, because I hit more mobs for myself, than others - mostly because I know what we are killing tonight and can spot an eq mob there. If someone had a passage at an exp mob that pops eq, such as a fire machine or the otyugh, I wouldn't have a problem killing it and pissing off more people.
+3\. As for exp groups, I try to hit mostly exp mobs, and if someone needs an eq item from an exp mob, I usually hit it too. And yet some people are offended by this, because I hit more mobs for myself, than others - mostly because I know what we are killing tonight and can spot an eq mob there. If someone had a passage at an exp mob that pops eq, such as a fire machine or the otyugh, I wouldn't have a problem killing it and pissing off more people.
 
-4. Yup, very few eq groups.
+4\. Yup, very few eq groups.
 
-5. Like I said, people might solo on Lyme, but for group exp, they join the exp groups, not only because it allows for a fresh kill history, good exp, but also for gems - you can't pop t3s solo.
+5\. Like I said, people might solo on Lyme, but for group exp, they join the exp groups, not only because it allows for a fresh kill history, good exp, but also for gems - you can't pop t3s solo.
 
 So, what do we have left, then? Few eq groups.
 
@@ -134,11 +134,11 @@ Coincidentally, this can be solved by getting more new and retaining existing pl
 
 It'd help to have functional chop exp groups that'd bring exp, comparable to an offlyme group, so that there is:
 
-- more exp on Lyme, which is unaged/dead most of the time
+\- more exp on Lyme, which is unaged/dead most of the time
 
-- more opportunities to pop eq that tri40s+ need
+\- more opportunities to pop eq that tri40s+ need
 
-- another way to make exp (variety brings fun and is less boring)
+\- another way to make exp (variety brings fun and is less boring)
 
 and it'd bring back the play style to life.
 
@@ -174,29 +174,29 @@ It's a good thing I came to the mud before, when there was actually a community 
 
 Other suggestions:
 
--Make Lyme lev restricted again (to encourage players to..ya know..group with people more their level) There is no reason for a lev 20 to be running around Lyme anyway other than to beat the xp system and dodge other chars their level in the process. The 3x40 restr. was originally lifted so new players could also chop and integrate into that grouping system. Now, with chop almost non-existent, it's having unseen side affect of abuse with newb/mid-lev speed sponging with little to no contribution to group. (Lightning bolt against lyme mobs- pew pew).
+\-Make Lyme lev restricted again (to encourage players to..ya know..group with people more their level) There is no reason for a lev 20 to be running around Lyme anyway other than to beat the xp system and dodge other chars their level in the process. The 3x40 restr. was originally lifted so new players could also chop and integrate into that grouping system. Now, with chop almost non-existent, it's having unseen side affect of abuse with newb/mid-lev speed sponging with little to no contribution to group. (Lightning bolt against lyme mobs- pew pew).
 
--Take away/severely scale back bonus xp on Lyme (for cont balancing reasons).
+\-Take away/severely scale back bonus xp on Lyme (for cont balancing reasons).
 
--Integrate an array of higher level elite eq so high lev chars actually have reason to spend time in eq groups.
+\-Integrate an array of higher level elite eq so high lev chars actually have reason to spend time in eq groups.
 
 Not saying we have to do all or any of these...just trying to get a dialogue going about a problem that everyone seems to want to say 'it's not bleeding THAT badly' about...and then we're dead.
 
 [ pri sec ter qua qui hex sep oct ] Players
 
------------------------------------
+\-----------------------------------
 
-[       *Sensei*  Mo:9.40         ] Ip the recalcitrant 
+[ \*Sensei\* Mo:9.40 ] Ip the recalcitrant 
 
-[      *Hierarch*  Cl:9.40        ] Zuzu ::LeMuRs:: thanks Josiah
+[ \*Hierarch\* Cl:9.40 ] Zuzu ::LeMuRs:: thanks Josiah
 
-[      *Theurgist*  Ma:7.39       ] Ezekiel ~Dragonsworn~
+[ \*Theurgist\* Ma:7.39 ] Ezekiel \~Dragonsworn\~
 
-[ 20c 20m 20n 10b| 6w  5d  4o  3t ] Whatta \ /
+[ 20c 20m 20n 10b\| 6w 5d 4o 3t ] Whatta \\ /
 
-[ 20t 20w  6m  5c| 0   0   0   0  ] Marceline the Untitled
+[ 20t 20w 6m 5c\| 0 0 0 0 ] Marceline the Untitled
 
-[ 20d 17c  0   0 | 0   0   0   0  ] Fandral the Fiery Feral Ferret
+[ 20d 17c 0 0 \| 0 0 0 0 ] Fandral the Fiery Feral Ferret
 
 There are 6 visible players.
 
@@ -208,7 +208,7 @@ And that's consistently. Need I say more?
 
 <div class="post" data-post-id="36827" data-author="Teron" data-date="2016-04-14T08:16:14+00:00" data-subject="Re: Newbies are not affected by nocap">
 
-1. Eze, I did try to get eq groups going, and like you said, it's much harder to get them going, than exp groups.
+1\. Eze, I did try to get eq groups going, and like you said, it's much harder to get them going, than exp groups.
 
 It's not impossible though, at least half of online players usually join an eq group, but it has to be a weekend or a Friday night.
 
@@ -216,7 +216,7 @@ Another reason why I don't lead eq groups is that I can solo medium-sized mobs m
 
 So yet again, we come to the limit from a low playerbase.
 
-2. 
+2\. 
 
 Eze, there's no logic in guiding the players offlyme. Imms had already nerfed chop, and it only moved groups off-Lyme. Newbies could join a chop exp train and help, now they can only join offlyme groups, where they don't really help (heck, we had a fallout, when a 20ne got a rhodo).
 
@@ -224,13 +224,13 @@ Again, introducing any limits will not solve anything. Anyone running solo on th
 
 Those same avatars can solo most mobs as well, so they don't eq groups.
 
-3. High level avatars do need something to do and complex forges, like Ars, scarab of destruction, the mithril shirt, the herbalist clasps are good examples of what's needed for high-level chars for them to join eq groups. These items are 2x40 restricted, with clasps being 5x40. We need more 5x40+ forges, ideally at least one forge for every class for 6x40, 7x40, 8x40 and 9x40, so people could continue making progress after getting another 40 (so far, there's little progress to be made by leveling 7x40, unless you put mage there, like I did).
+3\. High level avatars do need something to do and complex forges, like Ars, scarab of destruction, the mithril shirt, the herbalist clasps are good examples of what's needed for high-level chars for them to join eq groups. These items are 2x40 restricted, with clasps being 5x40. We need more 5x40+ forges, ideally at least one forge for every class for 6x40, 7x40, 8x40 and 9x40, so people could continue making progress after getting another 40 (so far, there's little progress to be made by leveling 7x40, unless you put mage there, like I did).
 
 (Making Ars 5x50 restricted, scarab 6x40 restricted and herbalist clasps 8x40 restricted won't fix anything. Not to mention that the scarab has a 40th restriction, with most ppl having it in the 6-8 class area.)
 
 Just adding these forges will bring the eq groups back, powered by high-level avatars.
 
-4. You are right that it's impossible to get good eq for new players. And when leaders do hit eq mobs on an exp run, people complain (usually, the same people). Heck, even the Surf, who shall not be named, left an exp group just before we were going to hit Iblis for the main tank (me, incidentally, and I wasn't leading). When we hit Iblis for the 2nd and 3d time, because he actually popped, half the group left. So much for popping eq for tanks.
+4\. You are right that it's impossible to get good eq for new players. And when leaders do hit eq mobs on an exp run, people complain (usually, the same people). Heck, even the Surf, who shall not be named, left an exp group just before we were going to hit Iblis for the main tank (me, incidentally, and I wasn't leading). When we hit Iblis for the 2nd and 3d time, because he actually popped, half the group left. So much for popping eq for tanks.
 
 To be fair, when I lead exp groups, I only hit eq mobs that also have exp and are close to where we are running, and still get complaints. I do not hit eq mobs that are way out of the way, are low exp and there's no beacon/passage, and still get complaints, because I didn't. And if I do kill an eq mob, I hit it once, unless it's for the main healer, such as Dr/Fluffy, because the group needs them as much as they need the main tank. (Btw, care to guess what or who drove them away?)
 
@@ -240,53 +240,49 @@ To be fair, when I lead exp groups, I only hit eq mobs that also have exp and ar
 
 Taron, just so many things to refute from your post:
 
-*1."Another reason why I don't lead eq groups is that I can solo medium-sized mobs myself. I don't need or want to drag 5 people around, spend time killing their mobs, only to kill the mob I can solo." *
+<em>1."Another reason why I don't lead eq groups is that I can solo medium-sized mobs myself. I don't need or want to drag 5 people around, spend time killing their mobs, only to kill the mob I can solo."</em> 
 
 This is a more subtle way of saying, "I benefitted from groups for my eq, but now don't care about the new playerbase who need the same tools."
 
 Cutthroat capitalism tactics at it's finest...use others to get ahead...then when those beneath you need the same hand up...accuse them of not knowing or doing enough, or being pesky or a burden to your time. So glad you get to enjoy the luxury from the top of your tower. You see, there was this thing called 'community' before on the mud...where ya know..people's inadequacies were replaced with wanting them to learn and grow alongside you rather than cutting them out as a dead-weight, waste of time.
 
-*2. "Eze, there's no logic in guiding the players offlyme. Imms had already nerfed chop, and it only moved groups off-Lyme. Newbies could join a chop exp train and help, now they can only join offlyme groups, where they don't really help (heck, we had a fallout, when a 20ne got a rhodo)."*
+<em>2\. "Eze, there's no logic in guiding the players offlyme. Imms had already nerfed chop, and it only moved groups off-Lyme. Newbies could join a chop exp train and help, now they can only join offlyme groups, where they don't really help (heck, we had a fallout, when a 20ne got a rhodo)."</em>
 
--Obviously this is not true about the newbs 'only joining groups off lyme' because as I numerous times previously stated...that is not what is happening...these low-mid levels are exclusively sponging on Lyme and contributing nothing. And you and maybe one other were the only one to have a fallout over that rhodo situation..almost the entirety of the mud thought it a null issue.
+\-Obviously this is not true about the newbs 'only joining groups off lyme' because as I numerous times previously stated...that is not what is happening...these low-mid levels are exclusively sponging on Lyme and contributing nothing. And you and maybe one other were the only one to have a fallout over that rhodo situation..almost the entirety of the mud thought it a null issue.
 
-*"Again, introducing any limits will not solve anything. Anyone running solo on their own or dragging their friends will do the same offlyme, you are simply moving them to another continent, Eze, without fixing the underlying problem. You can't force the early 9x40s to group, because they've already got most of the runes, when gems popped like candies in chop groups (another reason why chop groups might bring the grouping back, btw)."*
+<em>"Again, introducing any limits will not solve anything. Anyone running solo on their own or dragging their friends will do the same offlyme, you are simply moving them to another continent, Eze, without fixing the underlying problem. You can't force the early 9x40s to group, because they've already got most of the runes, when gems popped like candies in chop groups (another reason why chop groups might bring the grouping back, btw)."</em>
 
 This, again, is false. 9x40 that speed run Lyme will not get the same yields personally dragging newbs and mid-levs around SS or AH, etc. This means that reinstating the 3x40 lev restr. would leave under 3x40 to either solo or form groups for xp off lyme while the above 3x40 can continue speed running Lyme. If everyone is always acting on self-interest, as you are implying...those running Lyme will not branch over to helps newbs and mid-lev friends run off-lyme because it's going to hurt their own xp per hour...the speed runs are just too high yielding on Lyme to pass up time wise. They'll just cut out the dragging and sponging of the newbs. If they do decide to move off Lyme to help newbs and mid-levs sponge they'll have to at least have to do it at their own expense.
 
-*"Those same avatars can solo most mobs as well, so they don't eq groups." *
+<em>"Those same avatars can solo most mobs as well, so they don't eq groups."</em> 
 
--Agreed, bringing up third point
+\-Agreed, bringing up third point
 
-*3. "High level avatars do need something to do and complex forges, like Ars, scarab of destruction, the mithril shirt, the herbalist clasps are good examples of what's needed for high-level chars for them to join eq groups. These items are 2x40 restricted, with clasps being 5x40. We need more 5x40+ forges, ideally at least one forge for every class for 6x40, 7x40, 8x40 and 9x40, so people could continue making progress after getting another 40 (so far, there's little progress to be made by leveling 7x40, unless you put mage there, like I did).
+<em>3\. "High level avatars do need something to do and complex forges, like Ars, scarab of destruction, the mithril shirt, the herbalist clasps are good examples of what's needed for high-level chars for them to join eq groups. These items are 2x40 restricted, with clasps being 5x40. We need more 5x40+ forges, ideally at least one forge for every class for 6x40, 7x40, 8x40 and 9x40, so people could continue making progress after getting another 40 (so far, there's little progress to be made by leveling 7x40, unless you put mage there, like I did).</em>
 
-*
+\- also, agreed
 
-- also, agreed
+<em>"(Making Ars 5x50 restricted, scarab 6x40 restricted and herbalist clasps 8x40 restricted won't fix anything. Not to mention that the scarab has a 40th restriction, with most ppl having it in the 6-8 class area.)</em>
 
-*"(Making Ars 5x50 restricted, scarab 6x40 restricted and herbalist clasps 8x40 restricted won't fix anything. Not to mention that the scarab has a 40th restriction, with most ppl having it in the 6-8 class area.)*
+\-I never said anything about changing restr. on eq...in fact, I'm stating just the opposite. Shifting restr. on in-game eq does nothing to get people back to hitting any eq mobs, because the high level chars ALREADY HAVE THE EQ. I was suggesting that more brand new, high end pieces/forges be put in to make it worthwhile to branch out and not be a zombie to xp all day, every day.
 
--I never said anything about changing restr. on eq...in fact, I'm stating just the opposite. Shifting restr. on in-game eq does nothing to get people back to hitting any eq mobs, because the high level chars ALREADY HAVE THE EQ. I was suggesting that more brand new, high end pieces/forges be put in to make it worthwhile to branch out and not be a zombie to xp all day, every day.
+<em>"4. You are right that it's impossible to get good eq for new players. And when leaders do hit eq mobs on an exp run, people complain (usually, the same people). Heck, even the Surf, who shall not be named, left an exp group just before we were going to hit Iblis for the main tank (me, incidentally, and I wasn't leading). When we hit Iblis for the 2nd and 3d time, because he actually popped, half the group left. So much for popping eq for tanks."</em>
 
-*"4. You are right that it's impossible to get good eq for new players. And when leaders do hit eq mobs on an exp run, people complain (usually, the same people). Heck, even the Surf, who shall not be named, left an exp group just before we were going to hit Iblis for the main tank (me, incidentally, and I wasn't leading). When we hit Iblis for the 2nd and 3d time, because he actually popped, half the group left. So much for popping eq for tanks."*
+\- Yes, you know, healers and tanks never get the breaks...it's not like we give them leeway or anything for calls hitting their extra eq mobs in xp groups. \*rolls eyes\* Please sense the sarcasm, as tanks and manabag healers are about the only ones to be able to cycle/call/meander to hit eq mobs in such groups...anyone else gets shushed or laughed at because they're not of the same value. Poor you...you didn't get to cycle iblis more than once for your eq in an xp group.
 
-- Yes, you know, healers and tanks never get the breaks...it's not like we give them leeway or anything for calls hitting their extra eq mobs in xp groups. *rolls eyes* Please sense the sarcasm, as tanks and manabag healers are about the only ones to be able to cycle/call/meander to hit eq mobs in such groups...anyone else gets shushed or laughed at because they're not of the same value. Poor you...you didn't get to cycle iblis more than once for your eq in an xp group.
+<em>"To be fair, when I lead exp groups, I only hit eq mobs that also have exp and are close to where we are running, and still get complaints."</em> 
 
-*"To be fair, when I lead exp groups, I only hit eq mobs that also have exp and are close to where we are running, and still get complaints." 
+\-Agreed, you hit mobs like archfiend, for instance. Great mob, double pops eq, pretty easy xp, benefits everyone.
 
-*
+<em>"I do not hit eq mobs that are way out of the way, are low exp and there's no beacon/passage, and still get complaints, because I didn't. "</em>
 
--Agreed, you hit mobs like archfiend, for instance. Great mob, double pops eq, pretty easy xp, benefits everyone.
+\-That comes from the frustration of chars never having eq groups again and hoping against hope that this month they 'might' get to hit their mobs once while in group...and that's probably for one cp of 8. Wonder where that expectation to hit the mob may come from...maybe it's from seeing Iblis hit in xp groups?
 
-*"I do not hit eq mobs that are way out of the way, are low exp and there's no beacon/passage, and still get complaints, because I didn't. "*
+<em>"And if I do kill an eq mob, I hit it once, unless it's for the main healer, such as Dr/Fluffy, because the group needs them as much as they need the main tank. (Btw, care to guess what or who drove them away?)"</em>
 
--That comes from the frustration of chars never having eq groups again and hoping against hope that this month they 'might' get to hit their mobs once while in group...and that's probably for one cp of 8. Wonder where that expectation to hit the mob may come from...maybe it's from seeing Iblis hit in xp groups?
+\-Yes, they're both in my clan and they both took breaks (weren't "driven away") for reasons having nothing to do with what we're talking about here...i only talk to them on ktalk every time they log on...but I'm sure you'd know much more than me on the matter...continue to speculate as if you know some deep, dark secret though.
 
-*"And if I do kill an eq mob, I hit it once, unless it's for the main healer, such as Dr/Fluffy, because the group needs them as much as they need the main tank. (Btw, care to guess what or who drove them away?)"*
-
--Yes, they're both in my clan and they both took breaks (weren't "driven away") for reasons having nothing to do with what we're talking about here...i only talk to them on ktalk every time they log on...but I'm sure you'd know much more than me on the matter...continue to speculate as if you know some deep, dark secret though.
-
--Zeke
+\-Zeke
 
 </div>
 
@@ -306,7 +302,7 @@ Nowadays, it is much, much easier than ever to get exp: time bonuses, 3x40 bonus
 
 You are contributing by this, as previously mentioned..by being dragged around Lyme all day by a 9x40 and thinking nothing of it, you are: preventing other true newb/mid-levs from partcipating in groups off Lyme when they need experienced players of similar level to run along side with/learn the ins and outs of grouping/cycle eq so they can become half decent. Keep looking out for yourself though.
 
-And to say I am the only one who is concerned...it's because most of those i'm defending that are affected don't voice concerns publicly...they're too new and afraid/intimidated to...they just leave and find a more welcoming place to mud. Of course, you would know this if you actually related or ran with any of the chars I talked about instead of treating them like lepers and rather spending time on Lyme being dragged. Instead, you think the problem doesn't exist because you distance yourself far enough away to  be able to most insincerely claim obliviousness.
+And to say I am the only one who is concerned...it's because most of those i'm defending that are affected don't voice concerns publicly...they're too new and afraid/intimidated to...they just leave and find a more welcoming place to mud. Of course, you would know this if you actually related or ran with any of the chars I talked about instead of treating them like lepers and rather spending time on Lyme being dragged. Instead, you think the problem doesn't exist because you distance yourself far enough away to be able to most insincerely claim obliviousness.
 
 Congrats...you get to protect your status quo with 6 ppl log ons and 24 highs in 9 days uptime, most of which are dominated with a 9x40 exploiting lyme with 3 veterans' newbs tagging along, discouraging any rising new playerbase.
 
@@ -314,7 +310,7 @@ Last I spoke to you on this issue you said 'well, it's legal'. That's the tradem
 
 Have a nice day in your tower.
 
--Ezekiel
+\-Ezekiel
 
 </div>
 
@@ -378,15 +374,15 @@ This is about same topic that I've been mentioning whole time...since my first e
 
 Do you need help reading?...from nearly my first post:
 
-*"No, I'm saying any newb limits should remain because it's bad enough:
+<em>"No, I'm saying any newb limits should remain because it's bad enough:</em>
 
-You have all lev 20 valkers then all 4x40-9x40 avatars...why?
+<em>You have all lev 20 valkers then all 4x40-9x40 avatars...why?</em>
 
-- Because people run their veteran friends' newb-level alts all over lyme and get them on par.
+<em>\- Because people run their veteran friends' newb-level alts all over lyme and get them on par.</em>
 
-- This limits grouping through mid levs, a time when true newbs actually need the support of those chars to...ya know...actually learn the structure of sloth groups within eq/xp, learn the ropes, mutually gain through the mud...rather than be left in the cold by those being isolationist and elitist on lyme with their small cadre of old-timers dragging them around.
+<em>\- This limits grouping through mid levs, a time when true newbs actually need the support of those chars to...ya know...actually learn the structure of sloth groups within eq/xp, learn the ropes, mutually gain through the mud...rather than be left in the cold by those being isolationist and elitist on lyme with their small cadre of old-timers dragging them around.</em>
 
-This leads to new players quitting at mid levs."*
+<em>This leads to new players quitting at mid levs."</em>
 
 Have stayed on that topic since. Nice evasion tactics though.
 
@@ -400,7 +396,7 @@ I think this thread was made to just your steam out, and not to resolve a proble
 
 Leadership bonus is high enough, at exp bonus day, if leader is tank at the same time, with good group, can be ridiculously big.
 
-Only way to make people lead - is to make them *want* to lead.
+Only way to make people lead - is to make them \*want\* to lead.
 
 Everybody wants to maximize their character's power, by levels and eq.
 
@@ -418,39 +414,39 @@ Again..look at the who list..proof is in the pudding...
 
 [ pri sec ter qua qui hex sep oct ] Players
 
------------------------------------
+\-----------------------------------
 
-[      *Overlord*  Wa:9.40        ] Linx ...
+[ \*Overlord\* Wa:9.40 ] Linx ...
 
-[      *Overlord*  Wa:9.40        ] Josiah 
+[ \*Overlord\* Wa:9.40 ] Josiah 
 
-[      *Champion*  Wa:8.28        ] Taron join chat: [http://telegram.me/slothmud](http://telegram.me/slothmud)
+[ \*Champion\* Wa:8.28 ] Taron join chat: [http://telegram.me/slothmud](http://telegram.me/slothmud)
 
-[      *Theurgist*  Ma:7.39       ] Ezekiel ~Dragonsworn~
+[ \*Theurgist\* Ma:7.39 ] Ezekiel \~Dragonsworn\~
 
-[      *Enchanter*  Ma:7.32       ] Elendai is searching for chunk of titanium
+[ \*Enchanter\* Ma:7.32 ] Elendai is searching for chunk of titanium
 
-[     *Hierophant*  Cl:5.32       ] Prescience ... thanks Josiah!
+[ \*Hierophant\* Cl:5.32 ] Prescience ... thanks Josiah!
 
-[       *Pilgrim*  Mo:4.29        ] Sledgehammer [Legends] Needs Santity, Mstrike, GLloyds
+[ \*Pilgrim\* Mo:4.29 ] Sledgehammer [Legends] Needs Santity, Mstrike, GLloyds
 
-[      *Scoundrel*  Th:4.28       ] Risky ~Dragonsworn~ wtb Sardonyx
+[ \*Scoundrel\* Th:4.28 ] Risky \~Dragonsworn\~ wtb Sardonyx
 
-[ 34t 26c 21w 11m|10b  8d  6n  5o ] Sadnama 
+[ 34t 26c 21w 11m\|10b 8d 6n 5o ] Sadnama 
 
-[ 20o 20b 20w 20c|20t 20m 17n 20d ] Itami Hai Karate
+[ 20o 20b 20w 20c\|20t 20m 17n 20d ] Itami Hai Karate
 
-[ 20w 20o 20m 20n|20c 20d 20b 19t ] Yasik [http://tinyurl.com/hqcyypr](http://tinyurl.com/hqcyypr)
+[ 20w 20o 20m 20n\|20c 20d 20b 19t ] Yasik [http://tinyurl.com/hqcyypr](http://tinyurl.com/hqcyypr)
 
-[ 20c 20m 20n 10b| 6w  5d  4o  3t ] Whatta \ /
+[ 20c 20m 20n 10b\| 6w 5d 4o 3t ] Whatta \\ /
 
-[ 20n 20c 11m  2d| 3w  0   0   0  ] Zorn is hunting on BH
+[ 20n 20c 11m 2d\| 3w 0 0 0 ] Zorn is hunting on BH
 
-[ 20d 17c  0   0 | 0   0   0   0  ] Fandral the Fiery Feral Ferret
+[ 20d 17c 0 0 \| 0 0 0 0 ] Fandral the Fiery Feral Ferret
 
-[ 14d 12t 10m  8w| 6b  4o  2c  1n ] Unmace is slowly growing in afk.
+[ 14d 12t 10m 8w\| 6b 4o 2c 1n ] Unmace is slowly growing in afk.
 
-[ 13d  4c  3t  0 | 0   0   0   0  ] Zabibu the Untitled
+[ 13d 4c 3t 0 \| 0 0 0 0 ] Zabibu the Untitled
 
 There are 16 visible players.
 
@@ -482,27 +478,27 @@ Not being lazy is enough. Using every legal opportunity is ok.
 
 <div class="post" data-post-id="36848" data-author="Ezekiel" data-date="2016-04-15T06:17:28+00:00" data-subject="Re: Newbies are not affected by nocap">
 
-1. I help people not only as newbs, but also through mid-levs, while I help them more as newbs I show them areas to hit, I show them how to use website, familiarize them with commands and tactics...if they ask for help at mid-levs I try to make them hit mob first solo...even die to it often, before I go two man it...often times I will group with them after to help 2 man up some eq, as it takes real vulnerability and a willingness to learn to take that leap and challenge yourself. Just ask the few mid-levs around or the 20's for sure.
+1\. I help people not only as newbs, but also through mid-levs, while I help them more as newbs I show them areas to hit, I show them how to use website, familiarize them with commands and tactics...if they ask for help at mid-levs I try to make them hit mob first solo...even die to it often, before I go two man it...often times I will group with them after to help 2 man up some eq, as it takes real vulnerability and a willingness to learn to take that leap and challenge yourself. Just ask the few mid-levs around or the 20's for sure.
 
-2. I'm not saying you have to lead xp...I AM saying it's selfish and counter-intuitive to get dragged all around Lyme on a newb/mid-lev while watching the actual new playerbase have less and less people to actually help them develop into experienced players b/c all the chars their lev are on Lyme. It's pretty simple actually. You just keep restating it in ways to deflect from taking responsibility, but no such chance.
+2\. I'm not saying you have to lead xp...I AM saying it's selfish and counter-intuitive to get dragged all around Lyme on a newb/mid-lev while watching the actual new playerbase have less and less people to actually help them develop into experienced players b/c all the chars their lev are on Lyme. It's pretty simple actually. You just keep restating it in ways to deflect from taking responsibility, but no such chance.
 
 </div>
 
 <div class="post" data-post-id="36849" data-author="Teron" data-date="2016-04-15T06:18:11+00:00" data-subject="Re: Newbies are not affected by nocap">
 
-1. Eze, I need eq on mobs that are hard or impossible for me to solo, but I don't hit them, because it's hard to get an eq group going, so I focus on the smaller stuff that I can solo.
+1\. Eze, I need eq on mobs that are hard or impossible for me to solo, but I don't hit them, because it's hard to get an eq group going, so I focus on the smaller stuff that I can solo.
 
-And yes, I can solo mobs that are 5-20mil sized easily (which is far smaller, than 9x40 can solo easily, actually). I don't see a problem with not leading a group for *small mobs*. I mean, do I have to lead a group to kill a 20mil mob?
+And yes, I can solo mobs that are 5-20mil sized easily (which is far smaller, than 9x40 can solo easily, actually). I don't see a problem with not leading a group for \*small mobs\*. I mean, do I have to lead a group to kill a 20mil mob?
 
 You can't reasonably expect ppl to join groups, when they don't need eq. I mean, it can happen once in a while, but not most of the time.
 
 9x40 avatars have their own motivation and you can't blame them for not needing the eq they already have. It's simple logic. Like we agreed on, avatars need new complex forges to be interested to run/join eq groups.
 
-2. I guess we shouldn't hit eq mobs in exp groups, so people would actually run eq groups or suffer and quit.
+2\. I guess we shouldn't hit eq mobs in exp groups, so people would actually run eq groups or suffer and quit.
 
 Thoughts?
 
-3. I referred to you mentioning nerfing Lyme exp, which would bring avatars offlyme. Otherwise, you are correct: if you only limit lyme to 1x40, then avatars will stay on Lyme and/or mort their friends to 1x40.
+3\. I referred to you mentioning nerfing Lyme exp, which would bring avatars offlyme. Otherwise, you are correct: if you only limit lyme to 1x40, then avatars will stay on Lyme and/or mort their friends to 1x40.
 
 However, there's only one avatar that's leading his buddies around. I may be the next one, who knows. But this practice isn't wide-spread as you make it out to be. Though, in our scale, that Lyme group is sometimes 30% of the mud online population.
 
@@ -510,13 +506,13 @@ So it seems like you picked the wrong target here, rather, a point where the pro
 
 The problem you describe is a symptom of low population and little endgame for 9x40s:
 
-- few groups
+\- few groups
 
-- fewer eq groups
+\- fewer eq groups
 
-- low amount of rare eq on the auction - also because there are few buyers
+\- low amount of rare eq on the auction - also because there are few buyers
 
-- no experienced players leading low level groups, because there's no one to follow or lead.
+\- no experienced players leading low level groups, because there's no one to follow or lead.
 
 Perhaps, in addition to creating 9x40 forges, there needs to be a wider program for 9x40's alts, so they could play and group offlyme. But again, this looks like a patch towards a bigger problem: low mud population.
 
@@ -526,19 +522,19 @@ And it's low not because MUDs are being replaced by MMORPGs: Aardwolf has 200+ o
 
 Again, I've come to the same conclusions as I or we did earlier:
 
-- we need more 5-9x40 high end eq and forges. And eq has to be useful. Check out the black demon-skin bracer,  -0.5 -dam reduction +max str *arms* on a 300mil mob. Who would use them? I was tempted to get it only because I thought it was a *wrist*wear for some reason.
+\- we need more 5-9x40 high end eq and forges. And eq has to be useful. Check out the black demon-skin bracer, -0.5 -dam reduction +max str \*arms\* on a 300mil mob. Who would use them? I was tempted to get it only because I thought it was a \*wrist\*wear for some reason.
 
-- we need to treat the MUD as a product and:
+\- we need to treat the MUD as a product and:
 
- + actively promote it, not hope that "they will come"
+ \+ actively promote it, not hope that "they will come"
 
- + work on keeping current players by adding useful high-end eq, game mechanics, areas and maybe more
+ \+ work on keeping current players by adding useful high-end eq, game mechanics, areas and maybe more
 
- + maybe encourage 9x40s play their remorts or alts
+ \+ maybe encourage 9x40s play their remorts or alts
 
- + making things easier: finished quest info (being worked on), identify in auctions, gem trading section
+ \+ making things easier: finished quest info (being worked on), identify in auctions, gem trading section
 
- + actively ask for feedback on what the players need, prioritize them, based on demand/resources needed, and do what the players really need
+ \+ actively ask for feedback on what the players need, prioritize them, based on demand/resources needed, and do what the players really need
 
 The latter can be done in a form of an open-ended, rated list of suggestions. If we were able to rate threads in the suggestion subforum, imms would've been able to see, what players really need, based on feedback, not just internal analytics and guessing.
 
@@ -548,13 +544,13 @@ The latter can be done in a form of an open-ended, rated list of suggestions. If
 
 Taron, 
 
-+1 for your last response, well thought out.
+\+1 for your last response, well thought out.
 
 Only thing I disagree with...
 
-*2. I guess we shouldn't hit eq mobs in exp groups, so people would actually run eq groups or suffer and quit.
+<em>2\. I guess we shouldn't hit eq mobs in exp groups, so people would actually run eq groups or suffer and quit.</em>
 
-Thoughts?*
+<em>Thoughts?</em>
 
 I wasn't saying you should or shouldn't...as a leader that's your right..as a follower, that's up to the leader to bend to the will of the chars if they want to meander to hit an eq mob (which usually is at the cost of the group xp per hour slightly...and sometimes not so slightly). I was just stating that tanks and healers usually get that break more. Then, when new chars see it happen for a tank or cleric and don't understand the leeway given and ask for a mob and the leader says 'this is xp, it's not on the run'....they can feel pretty dejected or pretty worthless to the group at the very least. So it's not only you who's in the catch 22...
 
@@ -596,9 +592,9 @@ P.S. For the record, limiting levels of people, who can group together, is sever
 
 <div class="post" data-post-id="36853" data-author="Ezekiel" data-date="2016-04-15T22:10:58+00:00" data-subject="Re: Newbies are not affected by nocap">
 
-"*As for avatars leading newbies on Lyme..it's kind of an easy way for them to group. How else would they group? What if the tard doesn't have a remort and isn't interested in playing his alts?
+"<em>As for avatars leading newbies on Lyme..it's kind of an easy way for them to group. How else would they group? What if the tard doesn't have a remort and isn't interested in playing his alts?</em>
 
-If you ban noobs from Lyme, then, if tard prefers his buddy to exp/hr, then he'll take him to other conts doing the very same thing. Why and how stopping this will fix the game? Why would the smaller buddy prefer a group with new players to following his friend?*"
+<em>If you ban noobs from Lyme, then, if tard prefers his buddy to exp/hr, then he'll take him to other conts doing the very same thing. Why and how stopping this will fix the game? Why would the smaller buddy prefer a group with new players to following his friend?</em>"
 
 That was a very weakly attempted justification for something that should very clearly be reversed. I don't even really think you believe it, but rather know you'll be running your newb soon.
 
@@ -612,15 +608,15 @@ These veteran lowbie/mid-lev chars that run alts then would have to be off lyme 
 
 <div class="post" data-post-id="36854" data-author="Teron" data-date="2016-04-16T20:42:11+00:00" data-subject="Re: Newbies are not affected by nocap">
 
-1. When I said "they group", I meant the tard and his buddies. Not avatars. I know avatars can solo the entire Lyme, if they want to. Why would anyone think otherwise?
+1\. When I said "they group", I meant the tard and his buddies. Not avatars. I know avatars can solo the entire Lyme, if they want to. Why would anyone think otherwise?
 
-2. My opinion is that 3x20s contribute on Lyme proportionally to their levels. They have 300ma of cure serious, which is more, than a peri. Also, they can use a velvet wand, a lamb or call for help (or get their main). I've saved Surf about x2-3 of exp, of what he got my bard, this way.
+2\. My opinion is that 3x20s contribute on Lyme proportionally to their levels. They have 300ma of cure serious, which is more, than a peri. Also, they can use a velvet wand, a lamb or call for help (or get their main). I've saved Surf about x2-3 of exp, of what he got my bard, this way.
 
 The only exception is 8x20 chars, who have twice more levels with the same power. And 8x20 are exceptions, not the rule.
 
 Which brings another point:
 
-3. You only analyze one avatar, who drags his buddies, and it's Surf. Therefore, you apply your assumptions about him to other players. Yet, you apply the restrictions you want to apply to Surfnazi to other players, including me.
+3\. You only analyze one avatar, who drags his buddies, and it's Surf. Therefore, you apply your assumptions about him to other players. Yet, you apply the restrictions you want to apply to Surfnazi to other players, including me.
 
 You are right that I might lead a newbie around lyme, either a friend or follow someone else in a remort. But first, I'd check, if we can do better exp 2man on other conts with my alts, just because my alts don't have 350 levels on them. And I'd prefer to group with my buddy on/offlyme, rather than get an extra mil/hr. I think Dr would've done the same. Which, I guess, only works for you, because you'd get twice more players grouping offlyme.
 
@@ -628,13 +624,13 @@ But guess what. If you want me or my buddy leave Lyme, I'll come with him and I 
 
 However, he doesn't have time for groups now, so this is a not issue for me. Dr and Tembikai don't play any more. Back to point 3.
 
-4. I don't like that you say who I should group with. It's my decision and just forcing my hand in this sucks.
+4\. I don't like that you say who I should group with. It's my decision and just forcing my hand in this sucks.
 
 Imposing any limits instead of providing a constructive critique and improvement doesn't lead to anything.
 
 I'll allow myself to quote Abraham Lincoln, I mean, Neptune from an email:
 
-> **Neptune wrote:**
+> <strong>Neptune wrote:</strong>
 > The important thing here is to not allow ourselves
 > 
 > to be victim to supposition and misinformation. We are always looking
@@ -647,32 +643,32 @@ You suppose too much and want to apply a general rule in a unique case. It shoul
 
 Though I agree that we need more mid-level groups and I've already suggested my ways to fix this.
 
-5. When you say that tards hit Lyme regardless and will not move elsewhere, it is just a guess or a more precise estimate of what would Surf would do. How do you know others will do the same, when there's no one else leading newbies on Lyme? Again, go to 3.
+5\. When you say that tards hit Lyme regardless and will not move elsewhere, it is just a guess or a more precise estimate of what would Surf would do. How do you know others will do the same, when there's no one else leading newbies on Lyme? Again, go to 3.
 
 Also, even if you push experienced players in alts offLyme, you assume they'd lead or join groups. What makes you think so? Up until 1x40 or so, solo exp is great. 1x40-3x40 exp is great in 2-3man and I'm not sure I'd let just about anyone to follow me on my exp runs. As for large groups, they exist regardless of Lyme, unless chop exp exceeds offlyme exp with bonuses.
 
-6. You said:
+6\. You said:
 
-> **Ezekiel wrote:**
+> <strong>Ezekiel wrote:</strong>
 > the fact that we allowed newbies on to Lyme to chop way back in the day so as not to isolate them. It's now having the opposite effect. Even if 9x40's did decide to run their newb friends around SS/AH, they'd have to then do it at a cost to their xp/hour...which it should be.
 
 But they do run on lyme, so it did allow people to group on Lyme regardless of character level. It works, just not how you like it. But it works.
 
-In fact, **unknown newbies can't join Lyme exp groups is because there are no chop groups**, since chop was nerfed. Not because *one avatar* wants to let others tag buddies around.
+In fact, <strong>unknown newbies can't join Lyme exp groups is because there are no chop groups</strong>, since chop was nerfed. Not because \*one avatar\* wants to let others tag buddies around.
 
 Also, there are no Lyme groups, since most exp is solo, and DoT and Mystica require a good number of avatars and a dashing leader. Sadly, I don't know DoT well enough and Mystica needs even more avatars to survive ambushing mobs that hit -700hps/round.
 
 Again, there are issues, but mostly because:
 
-- we need to bring chop back and make it as good as exp off-Lyme w/o exp bonuses.
+\- we need to bring chop back and make it as good as exp off-Lyme w/o exp bonuses.
 
-- an incentive, not just remorts, for tards to play their alts
+\- an incentive, not just remorts, for tards to play their alts
 
-- we need complex 5x40+ forges
+\- we need complex 5x40+ forges
 
-- we need more players
+\- we need more players
 
-- we need high-end content for 9x40 avatars (I heard the Spire was made for them, but I don't see them rushing into it. Why?), so they'd stick to Lyme and keep grouping/playing
+\- we need high-end content for 9x40 avatars (I heard the Spire was made for them, but I don't see them rushing into it. Why?), so they'd stick to Lyme and keep grouping/playing
 
 I sorted the above by how easy it is to do them.
 
@@ -682,23 +678,23 @@ I sorted the above by how easy it is to do them.
 
 Since we are just getting repetitive with this thread...I'll restate my points of disagreement, then done with this:
 
-1. High lev avatars aren't gonna move off Lyme to drag your newb for xp if they lev restrict it...you act like 'I don't know what avatars would do'....yes, i do, it's called pattern and history. There is such a thing to base predictions and actions upon. That's kind of how the world works and even how new changes are made on this mud (which is why this thread is going). They are only dragging peeps there now because, as I've said many times, they're already running the areas.
+1\. High lev avatars aren't gonna move off Lyme to drag your newb for xp if they lev restrict it...you act like 'I don't know what avatars would do'....yes, i do, it's called pattern and history. There is such a thing to base predictions and actions upon. That's kind of how the world works and even how new changes are made on this mud (which is why this thread is going). They are only dragging peeps there now because, as I've said many times, they're already running the areas.
 
-2. To think that this is a vendetta against Surf is laughable. It is not only directed at him, it's directed at any char that is exploiting this. I didn't like when Dr did it, and it doesn't matter who does it...it's just wrong on principle to say that a x20 is running in such high level areas for the amount they're contributing, while neglecting other characters their own level off lyme. I bring it up now because it happens quite often with Surf...much moreso than I've ever seen one char run newbs on Lyme. This makes a system of elitism where true new lowbies and mid-levs have no one their level that is experienced to group with, so disinterest sets in.
+2\. To think that this is a vendetta against Surf is laughable. It is not only directed at him, it's directed at any char that is exploiting this. I didn't like when Dr did it, and it doesn't matter who does it...it's just wrong on principle to say that a x20 is running in such high level areas for the amount they're contributing, while neglecting other characters their own level off lyme. I bring it up now because it happens quite often with Surf...much moreso than I've ever seen one char run newbs on Lyme. This makes a system of elitism where true new lowbies and mid-levs have no one their level that is experienced to group with, so disinterest sets in.
 
-3. Cure serious? Really? Give me a break. That's just a poor justification for wanting to continually run your newb there. The amount of xp gained to what you're actually providing as a x20 on Lyme...not even close.
+3\. Cure serious? Really? Give me a break. That's just a poor justification for wanting to continually run your newb there. The amount of xp gained to what you're actually providing as a x20 on Lyme...not even close.
 
-4. You said  "I don't like that you say who I should group with. It's my decision and just forcing my hand in this sucks."
+4\. You said "I don't like that you say who I should group with. It's my decision and just forcing my hand in this sucks."
 
 I'm not telling you who to group with at all. I'm trying to encourage the imms to do something about a lev restriction issue that is allowing newbs to scam xp on Lyme that hurts new players. I'm just asking for a reinstating of a system that used to exist because people are taking advantage of it and it's hurting a subsect of the new playerbase, one that we're supposed to be direly concerned about. I'm not saying "You can't group with Surf." I'm saying "Hey, management, there is a problem on this cont which is hurting the new playerbase." You're the one that's reading more into it. The fact that you are- shows the true amount of time people spend dragging the newbs on Lyme.
 
-5. You said...
+5\. You said...
 
 "Also, even if you push experienced players in alts offLyme, you assume they'd lead or join groups. What makes you think so? Up until 1x40 or so, solo exp is great. 1x40-3x40 exp is great in 2-3man and I'm not sure I'd let just about anyone to follow me on my exp runs. As for large groups, they exist regardless of Lyme, unless chop exp exceeds offlyme exp with bonuses."
 
-1-3x40 is great 2-3 man off lyme, yes. But you're not gonna get the experienced chars wanting to run it instead of Lyme for 2-3 man...they'll just stick to Lyme for their xp. No high avatar's gonna tag along on a shadow keep run with you. This will inevitably encourage those under 3x40 to find a 2-3 man partnership with those off lyme, even if this means, *gasp* you have to group with someone maybe a little less experienced. Of course, your other option would be to solo, likely at a slower rate.
+1-3x40 is great 2-3 man off lyme, yes. But you're not gonna get the experienced chars wanting to run it instead of Lyme for 2-3 man...they'll just stick to Lyme for their xp. No high avatar's gonna tag along on a shadow keep run with you. This will inevitably encourage those under 3x40 to find a 2-3 man partnership with those off lyme, even if this means, \*gasp\* you have to group with someone maybe a little less experienced. Of course, your other option would be to solo, likely at a slower rate.
 
-6. You said...
+6\. You said...
 
 "But they do run on lyme, so it did allow people to group on Lyme regardless of character level. It works, just not how you like it. But it works."
 

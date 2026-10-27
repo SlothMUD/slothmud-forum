@@ -16,11 +16,11 @@ A player will gain additional base attacks(hitroll) based on their secondary cla
 
 The bonuses given from best to worst are as follows (this is the same as primary attack bonus rank):
 
-1) Warrior
+1\) Warrior
 
-2) Monk, Thief, Bard, Cleric
+2\) Monk, Thief, Bard, Cleric
 
-3) Druid, Necro, Mage
+3\) Druid, Necro, Mage
 
 Enjoy,
 

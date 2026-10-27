@@ -22,11 +22,11 @@ You stop using a basalt ring.
 
 You stop using a purple dragon's claw.
 
-A red minidemon brooch unwinds its tail from your neck.[/color:3bgvwwul]
+A red minidemon brooch unwinds its tail from your neck.
 
 You stop using a purple dragon's claw.
 
-A purple minidemon brooch unwinds its tail from your neck.[/color:3bgvwwul]
+A purple minidemon brooch unwinds its tail from your neck.
 
 You stop using Shroud of the Exalted Priest.
 
@@ -52,33 +52,33 @@ You stop using a runed onyx bracelet.
 
 You stop using orb of magical enhancement.
 
-<666[/color:3bgvwwul]/666hp 418[/color:3bgvwwul]/399ma 273[/color:3bgvwwul]mv 1:59 am 199116179 indoors>
+\<666/666hp 418/399ma 273mv 1:59 am 199116179 indoors\>
 
 A basalt ring: Ok.
 
 A basalt ring: Ok.
 
-<666[/color:3bgvwwul]/666hp 418[/color:3bgvwwul]/399ma 273[/color:3bgvwwul]mv 1 o'clock am 199116179 indoors>
+\<666/666hp 418/399ma 273mv 1 o'clock am 199116179 indoors\>
 
-You sing another verse of 'rina cruinne'.[/color:3bgvwwul]
+You sing another verse of 'rina cruinne'.
 
 Ok.
 
-<666[/color:3bgvwwul]/666hp 410[/color:3bgvwwul]/399ma 273[/color:3bgvwwul]mv 2 o'clock am 199116179 indoors>
+\<666/666hp 410/399ma 273mv 2 o'clock am 199116179 indoors\>
 
 You get an oval stone ring from crystalline silk robe.
 
 You get an oval stone ring from crystalline silk robe.
 
-<666[/color:3bgvwwul]/666hp 410[/color:3bgvwwul]/399ma 273[/color:3bgvwwul]mv 2 o'clock am 199116179 indoors>
+\<666/666hp 410/399ma 273mv 2 o'clock am 199116179 indoors\>
 
 You get a dwarven ringmail shirt from crystalline silk robe.
 
-<666[/color:3bgvwwul]/666hp 410[/color:3bgvwwul]/399ma 273[/color:3bgvwwul]mv 2 o'clock am 199116179 indoors>
+\<666/666hp 410/399ma 273mv 2 o'clock am 199116179 indoors\>
 
 You get a massive warhammer from crystalline silk robe.
 
-<666[/color:3bgvwwul]/666hp 410[/color:3bgvwwul]/399ma 273[/color:3bgvwwul]mv 2:01 am 199116179 indoors>
+\<666/666hp 410/399ma 273mv 2:01 am 199116179 indoors\>
 
 massive warhammer hammer :You wield a massive warhammer.
 
@@ -88,7 +88,7 @@ ring oval stone :You put the ring on your left finger.
 
 ring oval stone :You put the ring on your right finger.
 
-orb magical enhancement *Chobblemondu* :OK.
+orb magical enhancement \*Chobblemondu\* :OK.
 
 bracelet runed onyx :You wear the bracelet around your left wrist.
 
@@ -96,7 +96,7 @@ bracelet runed onyx :You wear the bracelet around your right wrist.
 
 sash swirling colors forge :OK.
 
-robe silk crystalline elite low *Chobblemondu* :OK.
+robe silk crystalline elite low \*Chobblemondu\* :OK.
 
 umbrella shield rain :You start using the Shield of the Rainmaster.
 
@@ -112,11 +112,11 @@ shadows helm :OK.
 
 claw purple dragon :OK.
 
-A red minidemon brooch purrs as it coils around your neck.[/color:3bgvwwul]
+A red minidemon brooch purrs as it coils around your neck.
 
 torch ivory light :Ok.
 
-<666[/color:3bgvwwul]/666hp 410[/color:3bgvwwul]/464ma 273[/color:3bgvwwul]mv 2:01 am 199116179 indoors>
+\<666/666hp 410/464ma 273mv 2:01 am 199116179 indoors\>
 
 cast 'raise dead' dedsune
 
@@ -124,9 +124,9 @@ Ok.
 
 Dedsune has been raised from the dead!
 
-You raise Dedsune from the dead![/color:3bgvwwul]
+You raise Dedsune from the dead!
 
-<666[/color:3bgvwwul]/666hp 318[/color:3bgvwwul]/464ma 273[/color:3bgvwwul]mv 2:08 am 199116179 indoors>
+\<666/666hp 318/464ma 273mv 2:08 am 199116179 indoors\>
 
 Missing a purple dragon claw with a purple minidemon attached. 
 
@@ -134,7 +134,7 @@ Do any mobs in the Positive Energy Plane steal eq? If so, damn I was sloppy. If 
 
 On a related note, wtb purple claw and a purple minidemon brooch.
 
-~sigh  :(
+\~sigh <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -144,7 +144,7 @@ Interesting hp you have there.
 
 I don't think a pthief would run all the way into PosPlain just to steal from
 
-you.   However I do know there are mobs in there that proc spells.  Maybe
+you. However I do know there are mobs in there that proc spells. Maybe
 
 a spell burnt the item or something???
 
@@ -152,11 +152,12 @@ a spell burnt the item or something???
 
 <div class="post" data-post-id="11111" data-author="Autolycos" data-date="2006-03-09T12:36:00+00:00" data-subject="Re: Confugglin&#x27; Son of  a Brisket">
 
-Dedsune has been raised from the dead!
+> <strong>Chobbles wrote:</strong>
+> Dedsune has been raised from the dead!
+> 
+> You raise Dedsune from the dead!
 
-You raise Dedsune from the dead![/color:1yo1rg6k][/quote:1yo1rg6k]
-
-see... this is the problem  :twisted:
+see... this is the problem <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -170,15 +171,15 @@ I'm stupid...
 
 [29t 22w 21c 15m] Demi wts loggers maul, steel camail, purple dragon claw
 
-Boo :evil:
+Boo <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="11114" data-author="Poolp" data-date="2006-03-09T16:39:32+00:00" data-subject="">
 
-Oh come on, pthieves are getting better by the day :) And by that I mean pthief (me) and by that I also mean more desperate to run straight to groups and wait for a cf to happen. Come on people, 89 mil and counting without the purple dragon claw. Make an offer here on the claw and brooch, Chobs? Or just send me a tell online. Current bid on the claw is 2 mil by the way. 9 mil (or less) coins to go and I'll stop pestering all of you!
+Oh come on, pthieves are getting better by the day <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> And by that I mean pthief (me) and by that I also mean more desperate to run straight to groups and wait for a cf to happen. Come on people, 89 mil and counting without the purple dragon claw. Make an offer here on the claw and brooch, Chobs? Or just send me a tell online. Current bid on the claw is 2 mil by the way. 9 mil (or less) coins to go and I'll stop pestering all of you!
 
-PS: Accepting donations in any form. You can either have them delivered to me or leave good stuff in your inventory, like leaving cookies for Santa :)
+PS: Accepting donations in any form. You can either have them delivered to me or leave good stuff in your inventory, like leaving cookies for Santa <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -202,41 +203,46 @@ And now Blaze has been wiped. Apparently for being me.
 
 Okay I'm not here to wait for idiots to tell me I deserve this because true as that may be, I think it is really unfair.
 
-The purpose of this post is to lodge a report that an immort has been abusing his/her power as an immort by making no investigation whatsoever about any of this, and wiping Demi and Blaze (which so happens to be a character someone lent to me and will be very pissed at me soon enough) :).
+The purpose of this post is to lodge a report that an immort has been abusing his/her power as an immort by making no investigation whatsoever about any of this, and wiping Demi and Blaze (which so happens to be a character someone lent to me and will be very pissed at me soon enough) <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">.
 
 Alright so all I'm trying to say is if an immort has the power to pwipe a person and his/her other chars for pthieving from that immort's character, I think it really is abuse of power. I'm not looking for trouble, just wanna get my chars back and see if anything can be done about this. Otherwise, I've had a fantastic time here back at Sloth, and I'll see you again probably in a few years when I'm ready to pthief with my avatar.
 
-Good day people :)
+Good day people <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="11117" data-author="Poolp" data-date="2006-03-09T17:12:18+00:00" data-subject="">
 
--oops double post :)
+\-oops double post <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="11118" data-author="12345" data-date="2006-03-09T17:22:37+00:00" data-subject="">
 
-Otherwise, I've had a fantastic time here back at Sloth, and I'll see you again probably in a few years when I'm ready to pthief with my avatar.
+> <strong>Poolp wrote:</strong>
+> Otherwise, I've had a fantastic time here back at Sloth, and I'll see you again probably in a few years when I'm ready to pthief with my avatar.
+> 
+> 
+> 
+> Good day people <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-Good day people :)[/quote:1hp9nics]
-
-You're avatar?  It's not the one I'm thinking of is it?  I thought he belonged to a friend of yours.
+You're avatar? It's not the one I'm thinking of is it? I thought he belonged to a friend of yours.
 
 </div>
 
 <div class="post" data-post-id="11119" data-author="Autolycos" data-date="2006-03-09T17:29:35+00:00" data-subject="">
 
-You're avatar?  It's not the one I'm thinking of is it?  I thought he belonged to a friend of yours.[/quote:3fwyn9vp]
+> <strong>12345 wrote:</strong>
+> You're avatar? It's not the one I'm thinking of is it? I thought he belonged to a friend of yours.
 
-AH HA!   I knew that silly Bit was a pthief,  It always made me uncomfortable how he was staring at my socks with that longing look in his eyes.... *shudder*
+AH HA! I knew that silly Bit was a pthief, It always made me uncomfortable how he was staring at my socks with that longing look in his eyes.... \*shudder\*
 
 </div>
 
 <div class="post" data-post-id="11120" data-author="12345" data-date="2006-03-09T17:46:11+00:00" data-subject="">
 
-AH HA!   I knew that silly Bit was a pthief,  It always made me uncomfortable how he was staring at my socks with that longing look in his eyes.... *shudder*[/quote:fvkl8z4t]
+> <strong>Autolycos wrote:</strong>
+> AH HA! I knew that silly Bit was a pthief, It always made me uncomfortable how he was staring at my socks with that longing look in his eyes.... \*shudder\*
 
 Other than the fact you're neurotic and never serious... never mind.
 
@@ -250,13 +256,14 @@ Poolp shoulda been wiped a long time ago, i don't even know how many times off h
 
 <div class="post" data-post-id="11122" data-author="Autolycos" data-date="2006-03-09T18:52:02+00:00" data-subject="">
 
-Other than the fact you're neurotic and never serious... never mind.[/quote:ijr354nh]
+> <strong>12345 wrote:</strong>
+> Other than the fact you're neurotic and never serious... never mind.
 
-hmph  :evil: 
+hmph <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom"> 
 
 you have quite a lot of nerve to tell me never mind!
 
-tell me more about me!  :twisted:
+tell me more about me! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -274,13 +281,16 @@ Though I don't care, don't love em at all..
 
 <div class="post" data-post-id="11124" data-author="*juggleblood*" data-date="2006-03-09T19:14:50+00:00" data-subject="">
 
-Demi was wiped for apparently pushing Blaze into jail. (No investigation was made, after I stated that I did, I was wiped)
-
-And now Blaze has been wiped. Apparently for being me.
-
-The purpose of this post is to lodge a report that an immort has been abusing his/her power as an immort by making no investigation whatsoever about any of this, and wiping Demi and Blaze...
-
- I think it really is abuse of power. [/quote:1i5osv2u]
+> <strong>Poolp wrote:</strong>
+> Demi was wiped for apparently pushing Blaze into jail. (No investigation was made, after I stated that I did, I was wiped)
+> 
+> And now Blaze has been wiped. Apparently for being me.
+> 
+> 
+> 
+> The purpose of this post is to lodge a report that an immort has been abusing his/her power as an immort by making no investigation whatsoever about any of this, and wiping Demi and Blaze...
+> 
+> I think it really is abuse of power.
 
 Why would there be an investigation if you confessed to multi-playing?
 
@@ -288,9 +298,10 @@ Why would there be an investigation if you confessed to multi-playing?
 
 <div class="post" data-post-id="11125" data-author="Guinex" data-date="2006-03-09T19:26:49+00:00" data-subject="">
 
-[quote:1k9fx6hy]BTW, Guinex, why don't u remember Poolp reporting bugs allow pthief to leave a jail through diyng? I've got some respect to him when he posted this bug. [/quote:1k9fx6hy]
+> <strong>Quote:</strong>
+> BTW, Guinex, why don't u remember Poolp reporting bugs allow pthief to leave a jail through diyng? I've got some respect to him when he posted this bug.
 
-I really could care less, I have lost nothing of importance to a pthief.  And that  was not a bug about leaving jail through dying.  He was already dead and the sash leader brought him to conciousness while dragging him to jail.  And multiplaying for anyone is against rules, noted as before i have caught him multiplaying numerous times.
+I really could care less, I have lost nothing of importance to a pthief. And that was not a bug about leaving jail through dying. He was already dead and the sash leader brought him to conciousness while dragging him to jail. And multiplaying for anyone is against rules, noted as before i have caught him multiplaying numerous times.
 
 </div>
 
@@ -302,25 +313,26 @@ As for losing a char he was lent, I hope whoever lent him the char does get real
 
 <div class="post" data-post-id="11127" data-author="Clink" data-date="2006-03-09T19:59:33+00:00" data-subject="">
 
-The purpose of this post is to lodge a report that an immort has been abusing his/her power as an immort by making no investigation whatsoever about any of this...[/quote:21ija802]
+> <strong>Poolp wrote:</strong>
+> The purpose of this post is to lodge a report that an immort has been abusing his/her power as an immort by making no investigation whatsoever about any of this...
 
-Interesting way to lodge a complaint:  
+Interesting way to lodge a complaint: 
 
-- Mention an immortal that had nothing to do with 95% of what you are complaining.
+\- Mention an immortal that had nothing to do with 95% of what you are complaining.
 
-- Admit you broke the rules and acuse immortals of abusing their "power" by administering the punishment due.
+\- Admit you broke the rules and acuse immortals of abusing their "power" by administering the punishment due.
 
-- Make other unsubstantiated claims of misues of "power".
+\- Make other unsubstantiated claims of misues of "power".
 
 My response:
 
-- I didn't actually wipe Poolp, just passworded him pending investigation.
+\- I didn't actually wipe Poolp, just passworded him pending investigation.
 
-- Those that continually straddle the rules will get punished for things on both sides of legality (though I'm sure you believe you are always on the right side).
+\- Those that continually straddle the rules will get punished for things on both sides of legality (though I'm sure you believe you are always on the right side).
 
-- The "power" you complain about is much more a burden than a gift.
+\- The "power" you complain about is much more a burden than a gift.
 
-- When making a public complaint that is clearly adversarial, what actions do you expect to be taken and by whom?
+\- When making a public complaint that is clearly adversarial, what actions do you expect to be taken and by whom?
 
 </div>
 
@@ -336,7 +348,7 @@ Guys, you bitch every time something is stolen, but don't bother to type 'where'
 
 <div class="post" data-post-id="11133" data-author="Guinex" data-date="2006-03-09T21:32:46+00:00" data-subject="">
 
-Ignorance is bliss, some things just crack me up.  THE ALL MIGHTY!
+Ignorance is bliss, some things just crack me up. THE ALL MIGHTY!
 
 </div>
 
@@ -348,33 +360,41 @@ Sooo since Ploop is gone, whos the other Pthief ... Gets?
 
 <div class="post" data-post-id="11137" data-author="Poolp" data-date="2006-03-09T23:04:00+00:00" data-subject="">
 
-The purpose of this post is to lodge a report that an immort has been abusing his/her power as an immort by making no investigation whatsoever about any of this...[/quote:am3q20fu]
+> <strong>Clink wrote:</strong>
+> > <strong>Poolp wrote:</strong>
+> > The purpose of this post is to lodge a report that an immort has been abusing his/her power as an immort by making no investigation whatsoever about any of this...
+> 
+> 
+> 
+> 
+> 
+> Interesting way to lodge a complaint: 
+> 
+> \- Mention an immortal that had nothing to do with 95% of what you are complaining.
+> 
+> \- Admit you broke the rules and acuse immortals of abusing their "power" by administering the punishment due.
+> 
+> \- Make other unsubstantiated claims of misues of "power".
+> 
+> 
+> 
+> My response:
+> 
+> \- I didn't actually wipe Poolp, just passworded him pending investigation.
+> 
+> \- Those that continually straddle the rules will get punished for things on both sides of legality (though I'm sure you believe you are always on the right side).
+> 
+> \- The "power" you complain about is much more a burden than a gift.
+> 
+> \- When making a public complaint that is clearly adversarial, what actions do you expect to be taken and by whom?
 
-Interesting way to lodge a complaint:  
+\-Hmm alright about Poolp.
 
-- Mention an immortal that had nothing to do with 95% of what you are complaining.
+\-Actually I didn't even know throwing someone into jail would be an offence. By the way I think I didn't explain myself properly. Blaze (I think) is the character I pushed into jail when he was throwing daggers at me when the original owner of the char was using him. About a week later he asked me if I'd be interested to use it to continue pthieving. It was only then I started using him to pthief and since others have seen both of us on before, I tried to blow people off course. I was hoping some other people have seen Blaze and Demi on at the same time before back when 2 separate people were playing him. Now just because of something I said, I was instantly assume to be mulitplaying and I got wiped? Does that mean if anyone says they've multiplayed they will be wiped? Don't immorts have to go through a log or at least speak to other immorts before carrying out such a harsh punishment?
 
-- Admit you broke the rules and acuse immortals of abusing their "power" by administering the punishment due.
+\-I understand it is a burden but are there really no limitations to it? Have I no power to report something just because its a tough job?
 
-- Make other unsubstantiated claims of misues of "power".
-
-My response:
-
-- I didn't actually wipe Poolp, just passworded him pending investigation.
-
-- Those that continually straddle the rules will get punished for things on both sides of legality (though I'm sure you believe you are always on the right side).
-
-- The "power" you complain about is much more a burden than a gift.
-
-- When making a public complaint that is clearly adversarial, what actions do you expect to be taken and by whom?[/quote:am3q20fu]
-
--Hmm alright about Poolp.
-
--Actually I didn't even know throwing someone into jail would be an offence. By the way I think I didn't explain myself properly. Blaze (I think) is the character I pushed into jail when he was throwing daggers at me when the original owner of the char was using him. About a week later he asked me if I'd be interested to use it to continue pthieving. It was only then I started using him to pthief and since others have seen both of us on before, I tried to blow people off course. I was hoping some other people have seen Blaze and Demi on at the same time before back when 2 separate people were playing him. Now just because of something I said, I was instantly assume to be mulitplaying and I got wiped? Does that mean if anyone says they've multiplayed they will be wiped? Don't immorts have to go through a log or at least speak to other immorts before carrying out such a harsh punishment?
-
--I understand it is a burden but are there really no limitations to it? Have I no power to report something just because its a tough job?
-
--I just wish for this matter to be brought to the attention of the people and immortals of Sloth. Hopefully someone would be able to do something to help me out.
+\-I just wish for this matter to be brought to the attention of the people and immortals of Sloth. Hopefully someone would be able to do something to help me out.
 
 Btw I don't multiplay. If telling a friend to log in and terminate my connection, then logging another character on is considered multiplaying, then I should have probably been wiped at least 15 times in my mudlife. I don't know why immorts say its okay to pthief and then find any way possible to may the successful ones stop.
 
@@ -388,7 +408,8 @@ Imms, that's really a nonsense. I think that the players of Sloth desrve to get 
 
 <div class="post" data-post-id="11140" data-author="Weasel" data-date="2006-03-09T23:52:14+00:00" data-subject="">
 
-If telling a friend to log in and terminate my connection, then logging another character on is considered multiplaying...[/quote:1o7tv9s0]
+> <strong>Poolp wrote:</strong>
+> If telling a friend to log in and terminate my connection, then logging another character on is considered multiplaying...
 
 huh?
 
@@ -396,11 +417,12 @@ huh?
 
 <div class="post" data-post-id="11141" data-author="Qa" data-date="2006-03-10T02:04:13+00:00" data-subject="">
 
-I don't know why immorts say its okay to pthief and then find any way possible to may the successful ones stop.[/quote:20p5r0fj]
+> <strong>Poolp wrote:</strong>
+> I don't know why immorts say its okay to pthief and then find any way possible to may the successful ones stop.
 
-Long have I lobbied to make Pth a wipeable offense.  It seems like a reasonable penatly to me.  You swipe a piece of EQ, you get wiped.  I believe that would be fair.
+Long have I lobbied to make Pth a wipeable offense. It seems like a reasonable penatly to me. You swipe a piece of EQ, you get wiped. I believe that would be fair.
 
-If you think that your are being prosecuted for being a pth, think again.  I think the imms are way too lenient with pths as it is.
+If you think that your are being prosecuted for being a pth, think again. I think the imms are way too lenient with pths as it is.
 
 Qa
 
@@ -408,9 +430,13 @@ Qa
 
 <div class="post" data-post-id="11142" data-author="Poolp" data-date="2006-03-10T08:04:08+00:00" data-subject="">
 
-If telling a friend to log in and terminate my connection, then logging another character on is considered multiplaying...[/quote:1epbwzu7]
-
-huh?[/quote:1epbwzu7]
+> <strong>Weasel wrote:</strong>
+> > <strong>Poolp wrote:</strong>
+> > If telling a friend to log in and terminate my connection, then logging another character on is considered multiplaying...
+> 
+> 
+> 
+> huh?
 
 As you all know Poolp was locked. This was because I was dead with some eq and told a friend to come help me log Poolp in and terminate my connection. I waited till the 4th tick when he finally logged me in. My connection was terminated, so I proceeded to use another char to loot the corpse as soon as Poolp corpsed. The immorts saw that as multiplaying eventhough they were from separate IPs and just locked me with the reason that 'they believe' I used different IPs when convenient.
 
@@ -420,17 +446,18 @@ To Qa I think you're missing my point. If immorts told me pthieving was a wipeab
 
 <div class="post" data-post-id="11143" data-author="12345" data-date="2006-03-10T12:12:19+00:00" data-subject="">
 
-Pthiefing is, and always has been, a very tricky business.  Mostly because what is considered 'legal' pthieving is pretty debatable.  As far as the penalty, there's always been a huge penalty.  With the glitches in jail and such, the penalties have been considerably less than they should have been even.  As for the max penalty... well, you're not banned yet.  Help corpse will give you this much though:
+Pthiefing is, and always has been, a very tricky business. Mostly because what is considered 'legal' pthieving is pretty debatable. As far as the penalty, there's always been a huge penalty. With the glitches in jail and such, the penalties have been considerably less than they should have been even. As for the max penalty... well, you're not banned yet. Help corpse will give you this much though:
 
-It is legal to take equipment from another player's corpse if you
-
-are helping him to recover it with his knowledge and agreement.
-
-Taking equipment from a player's corpse for any other reason
-
-is known as corpse looting and is illegal. It will be heavily
-
-punished by the gods.[/quote:1yxi6fyq]
+> <strong>help corpse wrote:</strong>
+> It is legal to take equipment from another player's corpse if you
+> 
+> are helping him to recover it with his knowledge and agreement.
+> 
+> Taking equipment from a player's corpse for any other reason
+> 
+> is known as corpse looting and is illegal. It will be heavily
+> 
+> punished by the gods.
 
 </div>
 
@@ -438,19 +465,19 @@ punished by the gods.[/quote:1yxi6fyq]
 
 Ok, I've been sitting on this info for a while, and I wasn't going to use it...
 
-From what I understand, Poolp used to share a connection with about 3 other players.  So, it's very likely that the people in this list have absolutely nothing to do with Poolp other than being roommates or something...  The reason I post it is for 2 reasons:
+From what I understand, Poolp used to share a connection with about 3 other players. So, it's very likely that the people in this list have absolutely nothing to do with Poolp other than being roommates or something... The reason I post it is for 2 reasons:
 
-1) One of the chars that was wiped was 'borrowed'.
+1\) One of the chars that was wiped was 'borrowed'.
 
-2) He's claimed that he's going to come back with a Lyme pthief and several people have asked who that could be.
+2\) He's claimed that he's going to come back with a Lyme pthief and several people have asked who that could be.
 
-So, most of you are aware there was a list of connections leaked a while back.  This is an OLD list.  However, from what I've seen, Poolp doesn't seem to be using many new characters.  I am also omitting IP info and such.  The file I have says: Updated: 04.02.2005, 22:31
+So, most of you are aware there was a list of connections leaked a while back. This is an OLD list. However, from what I've seen, Poolp doesn't seem to be using many new characters. I am also omitting IP info and such. The file I have says: Updated: 04.02.2005, 22:31
 
-These are the characters in that file, that 'related' to Poolp.  They may or may not be Poolp:
+These are the characters in that file, that 'related' to Poolp. They may or may not be Poolp:
 
-Bard [  *Overlord*   ]
+Bard [ \*Overlord\* ]
 
-Bearwind [ 5w  2t  0d  0m]
+Bearwind [ 5w 2t 0d 0m]
 
 Bluecomet [40c 25m 18t 18w]
 
@@ -460,11 +487,11 @@ Demo
 
 Famine
 
-Janaera [   *Bandit*    ]
+Janaera [ \*Bandit\* ]
 
 Marl [40t 40m 36w 26c]
 
-Nivea [ 9c  3m  0b  2w]
+Nivea [ 9c 3m 0b 2w]
 
 Null
 
@@ -476,13 +503,13 @@ Poolp [40t 35w 33m 20c]
 
 Qwaszx
 
-Selane [33d 21c 12n  7b]
+Selane [33d 21c 12n 7b]
 
-Simian [20t 10w  7m  3c]
+Simian [20t 10w 7m 3c]
 
-Squirm [14t  4o  3n  1b]
+Squirm [14t 4o 3n 1b]
 
-Tan [ 8t  0w  0n  0o]
+Tan [ 8t 0w 0n 0o]
 
 Teept
 
@@ -496,7 +523,7 @@ Heh, what are you trying to do? Get more people I'm related to in trouble becaus
 
 <div class="post" data-post-id="11146" data-author="12345" data-date="2006-03-10T13:50:13+00:00" data-subject="">
 
-I told you quite some time ago that this information is available and public.  Since you're taking risks with other folks stuff, I don't see why I should continue to be cautious.  How that ultimately ends up affecting things is one of the risks you assumed when you started.
+I told you quite some time ago that this information is available and public. Since you're taking risks with other folks stuff, I don't see why I should continue to be cautious. How that ultimately ends up affecting things is one of the risks you assumed when you started.
 
 </div>
 
@@ -510,13 +537,13 @@ even though the admin's stance is that they do not endorse any clients (tho some
 
 <div class="post" data-post-id="11148" data-author="Leaf" data-date="2006-03-10T15:53:22+00:00" data-subject="">
 
-Where is that great pthief Fernondo or however u spell it :)
+Where is that great pthief Fernondo or however u spell it <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="11149" data-author="Mustang" data-date="2006-03-10T16:55:41+00:00" data-subject="">
 
-fernando :)
+fernando <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 as many ppl know i've retired from pthieving
 
@@ -524,11 +551,11 @@ as many ppl know i've retired from pthieving
 
 <div class="post" data-post-id="11150" data-author="Grue" data-date="2006-03-10T17:14:12+00:00" data-subject="">
 
-[i:39kiyo2g]"As you all know Poolp was locked. This was because I was dead with some eq and told a friend to come help me log Poolp in and terminate my connection. I waited till the 4th tick when he finally logged me in. My connection was terminated, so I proceeded to use another char to loot the corpse as soon as Poolp corpsed. The immorts saw that as multiplaying eventhough they were from separate IPs and just locked me with the reason that 'they believe' I used different IPs when convenient. "[/i:39kiyo2g]
+<em>"As you all know Poolp was locked. This was because I was dead with some eq and told a friend to come help me log Poolp in and terminate my connection. I waited till the 4th tick when he finally logged me in. My connection was terminated, so I proceeded to use another char to loot the corpse as soon as Poolp corpsed. The immorts saw that as multiplaying eventhough they were from separate IPs and just locked me with the reason that 'they believe' I used different IPs when convenient. "</em>
 
 As ingenious as this is, this is clearly multiplaying based on the published rule. The rules clearly state that:
 
-[i:39kiyo2g]"You MUST ALWAYS rent one character before logging on another. Therefore DO NOT just cut your link before logging on another character."[/i:39kiyo2g]
+<em>"You MUST ALWAYS rent one character before logging on another. Therefore DO NOT just cut your link before logging on another character."</em>
 
 It makes no reference to IP addresses. Whether you cut the link or someone else does, you have not rented (or quit!) before logging on. The rule is actually pretty explicit.
 
@@ -536,21 +563,26 @@ It makes no reference to IP addresses. Whether you cut the link or someone else 
 
 <div class="post" data-post-id="11151" data-author="Leaf" data-date="2006-03-10T17:14:48+00:00" data-subject="">
 
-Well now that u admitted to pthiefing, we can kill u legally and loot ya corpse  :twisted:
+Well now that u admitted to pthiefing, we can kill u legally and loot ya corpse <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="11152" data-author="Leaf" data-date="2006-03-10T17:17:31+00:00" data-subject="">
 
-As ingenious as this is, this is clearly multiplaying based on the published rule. The rules clearly state that:
+> <strong>Grue wrote:</strong>
+> As ingenious as this is, this is clearly multiplaying based on the published rule. The rules clearly state that:
+> 
+> 
+> 
+> <em>"You MUST ALWAYS rent one character before logging on another. Therefore DO NOT just cut your link before logging on another character."</em>
+> 
+> 
+> 
+> It makes no reference to IP addresses. Whether you cut the link or someone else does, you have not rented (or quit!) before logging on. The rule is actually pretty explicit.
 
-[i:g38a88zi]"You MUST ALWAYS rent one character before logging on another. Therefore DO NOT just cut your link before logging on another character."[/i:g38a88zi]
+I don't know about this ... i know for a fact some ppl have 2 chars. 1 is dead
 
-It makes no reference to IP addresses. Whether you cut the link or someone else does, you have not rented (or quit!) before logging on. The rule is actually pretty explicit.[/quote:g38a88zi]
-
-I don't know about this ... i know for a fact some ppl have 2 chars.  1 is dead
-
-and knows for a fact no one can raise.  So they type Quit!, and sign in as 
+and knows for a fact no one can raise. So they type Quit!, and sign in as 
 
 their alt char and CR themselves.
 
@@ -560,11 +592,11 @@ their alt char and CR themselves.
 
 Today Link is smoking way too much of whatever it is that makes him sound silly...
 
-Quit! is renting for all intents and purposes.  You are leaving the game.
+Quit! is renting for all intents and purposes. You are leaving the game.
 
-Poolp was speaking of dropping his link.  The main difference being, while he was dead, whatever it was that he had was fairly safe.  Once he corpsed, he could be looted.  Instead of legally quitting, logging back on, running to his corpse and looting it, he decided that would take too long and tried something else.
+Poolp was speaking of dropping his link. The main difference being, while he was dead, whatever it was that he had was fairly safe. Once he corpsed, he could be looted. Instead of legally quitting, logging back on, running to his corpse and looting it, he decided that would take too long and tried something else.
 
-He dropped link, and had someone else log in as him.  He then logged on another char and ran to where he was dead.  His friend quit for him, and he looted the corpse.  The legal method would have been to have his friend log on the other char, run to his corpse and then loot it when he died.  Either way, it's assisting a pthief.  If it was Derro... not such a big deal.  However, Derro is pretty competent and it sounds like Poolp did this because he would be better at it.
+He dropped link, and had someone else log in as him. He then logged on another char and ran to where he was dead. His friend quit for him, and he looted the corpse. The legal method would have been to have his friend log on the other char, run to his corpse and then loot it when he died. Either way, it's assisting a pthief. If it was Derro... not such a big deal. However, Derro is pretty competent and it sounds like Poolp did this because he would be better at it.
 
 Either way, he had 2 of his chars on since the first didn't log off until the second had logged on.
 
@@ -572,7 +604,7 @@ Either way, he had 2 of his chars on since the first didn't log off until the se
 
 <div class="post" data-post-id="11155" data-author="Grue" data-date="2006-03-10T17:42:53+00:00" data-subject="">
 
-[i:pg5jxxzw]"I don't know about this ... i know for a fact some ppl have 2 chars. 1 is dead and knows for a fact no one can raise. So they type Quit!, and sign in as their alt char and CR themselves."[/i:pg5jxxzw]
+<em>"I don't know about this ... i know for a fact some ppl have 2 chars. 1 is dead and knows for a fact no one can raise. So they type Quit!, and sign in as their alt char and CR themselves."</em>
 
 In addition to which this IS explictly allowed in the rules, as it explicitly states you can use on of your chars to do a CR for another. If you quit! you have died, it says "You die before your time". You run all thr risks of wiating out your death, XP loss, level loss, lotting by mobs, and in the case of a pthief people lotting their EQ back.
 
@@ -580,15 +612,24 @@ In addition to which this IS explictly allowed in the rules, as it explicitly st
 
 <div class="post" data-post-id="11156" data-author="Leaf" data-date="2006-03-10T17:44:15+00:00" data-subject="">
 
-Today Link is smoking way too much of whatever it is that makes him sound silly...
-
-Quit! is renting for all intents and purposes.  You are leaving the game.
-
-Poolp was speaking of dropping his link.  The main difference being, while he was dead, whatever it was that he had was fairly safe.  Once he corpsed, he could be looted.  Instead of legally quitting, logging back on, running to his corpse and looting it, he decided that would take too long and tried something else.
-
-He dropped link, and had someone else log in as him.  He then logged on another char and ran to where he was dead.  His friend quit for him, and he looted the corpse.  The legal method would have been to have his friend log on the other char, run to his corpse and then loot it when he died.  Either way, it's assisting a pthief.  If it was Derro... not such a big deal.  However, Derro is pretty competent and it sounds like Poolp did this because he would be better at it.
-
-Either way, he had 2 of his chars on since the first didn't log off until the second had logged on.[/quote:1y4ihpmb]
+> <strong>12345 wrote:</strong>
+> Today Link is smoking way too much of whatever it is that makes him sound silly...
+> 
+> 
+> 
+> Quit! is renting for all intents and purposes. You are leaving the game.
+> 
+> 
+> 
+> Poolp was speaking of dropping his link. The main difference being, while he was dead, whatever it was that he had was fairly safe. Once he corpsed, he could be looted. Instead of legally quitting, logging back on, running to his corpse and looting it, he decided that would take too long and tried something else.
+> 
+> 
+> 
+> He dropped link, and had someone else log in as him. He then logged on another char and ran to where he was dead. His friend quit for him, and he looted the corpse. The legal method would have been to have his friend log on the other char, run to his corpse and then loot it when he died. Either way, it's assisting a pthief. If it was Derro... not such a big deal. However, Derro is pretty competent and it sounds like Poolp did this because he would be better at it.
+> 
+> 
+> 
+> Either way, he had 2 of his chars on since the first didn't log off until the second had logged on.
 
 As always Keith has shed the light upon me!
 

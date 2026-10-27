@@ -12,7 +12,7 @@ post_count: 2
 
 <div class="post" data-post-id="38560" data-author="*teker*" data-date="2017-12-23T17:09:47+00:00" data-subject="Change log 2017-12-23">
 
-I hadn't really planned on a reboot this morning but I have finished the code to change CLAN ADD to a two step process consisting of a CLAN INVITE and CLAN ACCEPT.  So now you can invite offline players and this protects players from being added to clans without their permission.  There's also CLAN RESCIND and CLAN DECLINE which would be the methods for canceling an invitation.  Invitations should auto-expire after 1 week.
+I hadn't really planned on a reboot this morning but I have finished the code to change CLAN ADD to a two step process consisting of a CLAN INVITE and CLAN ACCEPT. So now you can invite offline players and this protects players from being added to clans without their permission. There's also CLAN RESCIND and CLAN DECLINE which would be the methods for canceling an invitation. Invitations should auto-expire after 1 week.
 
 HELP CLAN COMMAND has been updated to reflect these changes.
 

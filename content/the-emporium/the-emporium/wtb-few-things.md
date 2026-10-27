@@ -14,9 +14,9 @@ post_count: 2
 
 WTB
 
-- 2 golden pentagrams (-0.6 neck)
+\- 2 golden pentagrams (-0.6 neck)
 
-- serpent skin robe
+\- serpent skin robe
 
 If anyone want sell it, please post here or catch Strahd online.
 

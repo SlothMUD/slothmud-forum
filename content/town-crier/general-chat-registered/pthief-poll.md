@@ -18,18 +18,18 @@ Following on from the now infamous thread, I thought it would be interesting to 
 
 <div class="post" data-post-id="9015" data-author="Grue" data-date="2005-10-12T15:33:08+00:00" data-subject="Poll - Is Daisy a whiner?">
 
-Maybe we should have a "Is Daisy a whiner?" poll rather... :twisted:
+Maybe we should have a "Is Daisy a whiner?" poll rather... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="9016" data-author="Weasel" data-date="2005-10-12T15:41:27+00:00" data-subject="">
 
-:roll:
+<img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="9032" data-author="Elwood" data-date="2005-10-13T11:10:49+00:00" data-subject="">
 
-Funny :)
+Funny <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

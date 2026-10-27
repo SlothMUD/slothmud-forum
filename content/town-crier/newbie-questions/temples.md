@@ -14,7 +14,7 @@ post_count: 5
 
 Hello,
 
-New mudder here.  I've been roaming around Newbatia but I haven't come across any Temples yet.  Can someone tell me where they are?
+New mudder here. I've been roaming around Newbatia but I haven't come across any Temples yet. Can someone tell me where they are?
 
 Thanks!
 
@@ -24,19 +24,19 @@ Towen
 
 <div class="post" data-post-id="31254" data-author="blackmore" data-date="2010-05-28T18:54:03+00:00" data-subject="Re: Temples?">
 
-There are 3 temples on Valk.  Blaster's temple is just north of town, Splork's temple is in the newbie school, and there's 1 more temple (I forget whose) over near the circus.
+There are 3 temples on Valk. Blaster's temple is just north of town, Splork's temple is in the newbie school, and there's 1 more temple (I forget whose) over near the circus.
 
-There are at least 2 temples on every continent, and more than that on most.  The easiest way to find them would be to go to the maps on the web site and look for temple areas for that continent.  They are typically in places that are easy and safe to reach, though a few are a lot harder or risky than others (see: Akasha).
+There are at least 2 temples on every continent, and more than that on most. The easiest way to find them would be to go to the maps on the web site and look for temple areas for that continent. They are typically in places that are easy and safe to reach, though a few are a lot harder or risky than others (see: Akasha).
 
 </div>
 
 <div class="post" data-post-id="31257" data-author="Towen" data-date="2010-05-28T22:23:29+00:00" data-subject="Re: Temples?">
 
-Thanks for the quick reply!  I looked but couldn't find a very good map.  Perhaps with the site change it's down.  I will try buying up the maps from the cartographer in Newbatia to see if that helps.
+Thanks for the quick reply! I looked but couldn't find a very good map. Perhaps with the site change it's down. I will try buying up the maps from the cartographer in Newbatia to see if that helps.
 
-What is the difference between Blaster and Splork?  I looked in the help files but couldn't find anything.  I'm trying to be 'good' if that makes a difference.
+What is the difference between Blaster and Splork? I looked in the help files but couldn't find anything. I'm trying to be 'good' if that makes a difference.
 
-I'm also a prime mage / secondary warrior.  Which one would give me a better holy weapon?
+I'm also a prime mage / secondary warrior. Which one would give me a better holy weapon?
 
 Thanks again!!
 

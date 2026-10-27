@@ -22,23 +22,23 @@ You have died and been brought back to the SlothMUD log in screen.
 
 Press 1 to reenter the game and then go about quickly recovering your corpse.
 
-****  Press enter several times to continue and log back in  ****
+\*\*\*\* Press enter several times to continue and log back in \*\*\*\*
 
 1
 
 Welcome to the Sloth DikuMUD at UKANS
 
-0) Exit from DikuMud.
+0\) Exit from DikuMud.
 
-1) Enter the game.
+1\) Enter the game.
 
-2) Enter description.
+2\) Enter description.
 
-3) Read the background story
+3\) Read the background story
 
-4) Change password.
+4\) Change password.
 
-5) Delete this character. [Level 9 or less only]
+5\) Delete this character. [Level 9 or less only]
 
 Make your choice: 1
 
@@ -46,17 +46,17 @@ Welcome to the land of SlothMUD. May your visit here be... Interesting.
 
 The South Gate of Newbatia
 
-   A rutted dirt roadway leads north between a pair of squat square towers
+ A rutted dirt roadway leads north between a pair of squat square towers
 
-that mark the southern limit of the thriving community of Newbatia.  Heavy
+that mark the southern limit of the thriving community of Newbatia. Heavy
 
-traffic moves between the town and the aerial docks to the south.  The
+traffic moves between the town and the aerial docks to the south. The
 
-road is lit by regularly spaced lanterns hanging from brass poles.  Mountains
+road is lit by regularly spaced lanterns hanging from brass poles. Mountains
 
 are visible on the southwestern horizon.
 
-Exits: North  South  Up  
+Exits: North South Up 
 
 The corpse of Inra is lying here.
 
@@ -68,7 +68,7 @@ Rebel ::LeMuRs:: wants to buy black-leather-hauberk is standing here.
 
 An oafish man stands here on guard duty.
 
-<10hp 59ma 184mv> 4445992 7.0 overcast+-1111498, -27787, -4056 dam
+\<10hp 59ma 184mv\> 4445992 7.0 overcast+-1111498, -27787, -4056 dam
 
 carve corpse
 
@@ -78,7 +78,7 @@ carve corpse
 
 Arglebargle, glop-glyf!?!
 
-<10hp 59ma 184mv> 4445992 7.0 overcast+0, 0, 0 dam
+\<10hp 59ma 184mv\> 4445992 7.0 overcast+0, 0, 0 dam
 
 carve corpse
 
@@ -94,7 +94,7 @@ carve corpse
 
 You carve up a nice fat slice.
 
-<10hp 60ma 184mv> 4445992 7.0 overcast+0, 0, 0 dam
+\<10hp 60ma 184mv\> 4445992 7.0 overcast+0, 0, 0 dam
 
 carve corpse
 
@@ -104,53 +104,53 @@ carve corpse
 
 You carve up a nice fat slice.
 
-<10hp 60ma 184mv> 4445992 7.0 overcast+0, 0, 0 dam
+\<10hp 60ma 184mv\> 4445992 7.0 overcast+0, 0, 0 dam
 
 You carve up a nice fat slice.
 
-<11hp 60ma 184mv> 4445992 7.0 overcast+0, 0, 0 dam
+\<11hp 60ma 184mv\> 4445992 7.0 overcast+0, 0, 0 dam
 
 You carve up a nice fat slice.
 
-<11hp 60ma 184mv> 4445992 7.0 overcastYou carve up a nice fat slice.
+\<11hp 60ma 184mv\> 4445992 7.0 overcastYou carve up a nice fat slice.
 
-<11hp 60ma 184mv> 4445992 7.0 overcast+0, 0, 0 dam
+\<11hp 60ma 184mv\> 4445992 7.0 overcast+0, 0, 0 dam
 
 get corpse
 
 You carve up a nice fat slice.
 
-<11hp 60ma 184mv> 4445992 7.0 overcast+0, 0, 0 dam
+\<11hp 60ma 184mv\> 4445992 7.0 overcast+0, 0, 0 dam
 
 You carve up a nice fat slice.
 
-<12hp 61ma 184mv> 4445992 7.0 overcastYou carve up a nice fat slice.
+\<12hp 61ma 184mv\> 4445992 7.0 overcastYou carve up a nice fat slice.
 
-<12hp 61ma 184mv> 4445992 7.0 overcast+0, 0, 0 dam
+\<12hp 61ma 184mv\> 4445992 7.0 overcast+0, 0, 0 dam
 
 l oaf
 
 There is no good meat left on it.
 
-<12hp 61ma 184mv> 4445992 7.0 overcastThere is no good meat left on it.
+\<12hp 61ma 184mv\> 4445992 7.0 overcastThere is no good meat left on it.
 
-<12hp 61ma 184mv> 4445992 7.0 overcast+0, 0, 0 dam
-
-There is no good meat left on it.
-
-<12hp 61ma 184mv> 4445992 7.0 overcast+0, 0, 0 dam
+\<12hp 61ma 184mv\> 4445992 7.0 overcast+0, 0, 0 dam
 
 There is no good meat left on it.
 
-<12hp 61ma 184mv> 4445992 7.0 overcastYou deftly snatch the corpse of Inra.
+\<12hp 61ma 184mv\> 4445992 7.0 overcast+0, 0, 0 dam
 
-<12hp 61ma 184mv> 4445992 7.0 overcast+0, 0, 0 dam
+There is no good meat left on it.
+
+\<12hp 61ma 184mv\> 4445992 7.0 overcastYou deftly snatch the corpse of Inra.
+
+\<12hp 61ma 184mv\> 4445992 7.0 overcast+0, 0, 0 dam
 
 Not requiring a great amount of intelligence, the job of guarding the gates
 
-of Newbatia is best filled by someone with a lot of zeal.  The massive
+of Newbatia is best filled by someone with a lot of zeal. The massive
 
-guard is just such a person.  Keeping himself from getting bored by
+guard is just such a person. Keeping himself from getting bored by
 
 harassing all newcomers, the big oaf is clearly someone with too much time
 
@@ -166,23 +166,23 @@ A big oaf tells you 'Can I help you with something?'
 
 You are mortally wounded, and will die soon, if not aided.
 
-<-9hp 61ma 184mv> 4445992 10.0 overcast+0, 0, 0 dam
+\<-9hp 61ma 184mv\> 4445992 10.0 overcast+0, 0, 0 dam
 
 group
 
-<-9hp 61ma 184mv> 4445992 10.0 overcast+0, 0, 0 dam
+\<-9hp 61ma 184mv\> 4445992 10.0 overcast+0, 0, 0 dam
 
 Group 'Inra's Un-Named Group' is led by Inra and consists of:
 
-  (Dying)             Inra [Th:0.20   -9hp  61ma 184mv] ---
+ (Dying) Inra [Th:0.20 -9hp 61ma 184mv] ---
 
-<-9hp 61ma 184mv> 4445992 10.0 overcast+0, 0, 0 dam
+\<-9hp 61ma 184mv\> 4445992 10.0 overcast+0, 0, 0 dam
 
-<-9hp 61ma 184mv> 4445992 10.0 overcast+0, 0, 0 dam
+\<-9hp 61ma 184mv\> 4445992 10.0 overcast+0, 0, 0 dam
 
-<-9hp 61ma 184mv> 4445992 10.0 overcast+0, 0, 0 dam
+\<-9hp 61ma 184mv\> 4445992 10.0 overcast+0, 0, 0 dam
 
-<-9hp 61ma 184mv> 4445992 10.0 overcast+0, 0, 0 dam
+\<-9hp 61ma 184mv\> 4445992 10.0 overcast+0, 0, 0 dam
 
 TICK IN 10 SECONDS.
 
@@ -190,11 +190,11 @@ save
 
 You are in pretty bad shape, unable to do anything!
 
-<-9hp 61ma 184mv> 4445992 10.0 overcast+0, 0, 0 dam
+\<-9hp 61ma 184mv\> 4445992 10.0 overcast+0, 0, 0 dam
 
 You have been KILLED!! 
 
-<-11hp 61ma 184mv> 4445992 10.0 overcast+0, 0, 0 dam
+\<-11hp 61ma 184mv\> 4445992 10.0 overcast+0, 0, 0 dam
 
 P.S. I regularly see newbie starting gear lying around at the South Gate, probably the result of actions of the oaf.
 
@@ -248,10 +248,10 @@ The part that annoyed me, was the incorrect implication on your part that south 
 
 <div class="post" data-post-id="35713" data-author="*Breeze*" data-date="2015-02-28T09:00:23+00:00" data-subject="Re: How to have fun in Newbatia as a newbie">
 
-> ***juggleblood* wrote:**
+> <strong>\*juggleblood\* wrote:</strong>
 > The benefit of the proc is seeing Taron dying to a level 8 mob with his 2x20 character and laughing at him.
 
-Thanks for the laugh. I needed it. After the month I have had... Cousin getting shot at and will probably die, friend of years died, $800 for car repairs, $760 to IRS, and some other sh*t I prefer not to talk about, I needed a good laugh.
+Thanks for the laugh. I needed it. After the month I have had... Cousin getting shot at and will probably die, friend of years died, $800 for car repairs, $760 to IRS, and some other sh\*t I prefer not to talk about, I needed a good laugh.
 
 </div>
 

@@ -14,7 +14,7 @@ post_count: 46
 
 Saw this somewhere else, mildly interesting but not terribly surprising, which is sort of depressing.
 
-______________________________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Mark Foley: Former U.S. Representative from Florida. Resigned after sexually explicit e-mails surfaced showing him harrassing underage boys, one of them a 16 year old who worked as a Capitol Hill page.
 
@@ -148,7 +148,7 @@ like these?
 
 damn and more
 
-_________________________________________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Republican anti-abortion activist Howard Scott Heldreth is a convicted child rapist in Florida.
 
@@ -170,9 +170,9 @@ Republican pastor Mike Hintz, whom George W. Bush commended during the 2004 pres
 
 Republican legislator Peter Dibble pleaded no contest to having an inappropriate relationship with a 13-year-old girl.
 
-*Republican activist Lawrence E. King, Jr. organized child sex parties at the White House during the 1980s.
+\*Republican activist Lawrence E. King, Jr. organized child sex parties at the White House during the 1980s.
 
-*Republican lobbyist Craig J. Spence organized child sex parties at the White House during the 1980s.
+\*Republican lobbyist Craig J. Spence organized child sex parties at the White House during the 1980s.
 
 Republican Congressman Donald "Buz" Lukens was found guilty of having sex with a female minor and sentenced to one month in jail.
 
@@ -188,17 +188,17 @@ Republican activist and Christian Coalition leader Beverly Russell admitted to a
 
 Republican governor Arnold Schwarzenegger allegedly had sex with a 16 year old girl when he was 28.
 
-*Republican congressman and anti-gay activist Robert Bauman was charged with having sex with a 16-year-old boy he picked up at a gay bar.
+\*Republican congressman and anti-gay activist Robert Bauman was charged with having sex with a 16-year-old boy he picked up at a gay bar.
 
 Republican Committee Chairman Jeffrey Patti was arrested for distributing a video clip of a 5-year-old girl being raped.
 
 Republican activist Marty Glickman (a.k.a. "Republican Marty";) , was taken into custody by Florida police on four counts of unlawful sexual activity with an underage girl and one count of delivering the drug LSD.
 
-*Republican legislative aide Howard L. Brooks was charged with molesting a 12-year old boy and possession of child pornography.
+\*Republican legislative aide Howard L. Brooks was charged with molesting a 12-year old boy and possession of child pornography.
 
 Republican Senate candidate John Hathaway was accused of having sex with his 12-year old baby sitter and withdrew his candidacy after the allegations were reported in the media.
 
-*Republican preacher Stephen White, who demanded a return to traditional values, was sentenced to jail after offering $20 to a 14-year-old boy for permission to perform oral sex on him.
+\*Republican preacher Stephen White, who demanded a return to traditional values, was sentenced to jail after offering $20 to a 14-year-old boy for permission to perform oral sex on him.
 
 Republican talk show host Jon Matthews pleaded guilty to exposing his genitals to an 11 year old girl.
 
@@ -208,13 +208,13 @@ Republican Party leader Paul Ingram pleaded guilty to six counts of raping his d
 
 Republican election board official Kevin Coan was sentenced to two years probation for soliciting sex over the internet from a 14-year old girl.
 
-*Republican politician Andrew Buhr was charged with two counts of first degree sodomy with a 13-year old boy.
+\*Republican politician Andrew Buhr was charged with two counts of first degree sodomy with a 13-year old boy.
 
 Republican politician Keith Westmoreland was arrested on seven felony counts of lewd and lascivious exhibition to girls under the age of 16 (i.e. exposing himself to children).
 
 Republican anti-abortion activist John Allen Burt was charged with sexual misconduct involving a 15-year old girl.
 
-*Republican County Councilman Keola Childs pleaded guilty to molesting a male child.
+\*Republican County Councilman Keola Childs pleaded guilty to molesting a male child.
 
 Republican activist John Butler was charged with criminal sexual assault on a teenage girl.
 
@@ -222,7 +222,7 @@ Republican candidate Richard Gardner admitted to molesting his two daughters.
 
 Republican Councilman and former Marine Jack W. Gardner was convicted of molesting a 13-year old girl.
 
-*Republican County Commissioner Merrill Robert Barter pleaded guilty to unlawful sexual contact and assault on a teenage boy.
+\*Republican County Commissioner Merrill Robert Barter pleaded guilty to unlawful sexual contact and assault on a teenage boy.
 
 Republican City Councilman Fred C. Smeltzer, Jr. pleaded no contest to raping a 15 year-old girl and served 6-months in prison.
 
@@ -230,7 +230,7 @@ Republican activist Parker J. Bena pleaded guilty to possession of child pornogr
 
 Republican parole board officer and former Colorado state representative, Larry Jack Schwarz, was fired after child pornography was found in his possession.
 
-*Republican strategist and Citadel Military College graduate Robin Vanderwall was convicted in Virginia on five counts of soliciting sex from boys and girls over the internet.
+\*Republican strategist and Citadel Military College graduate Robin Vanderwall was convicted in Virginia on five counts of soliciting sex from boys and girls over the internet.
 
 Republican city councilman Mark Harris, who is described as a "good military man" and "church goer," was convicted of repeatedly having sex with an 11-year-old girl and sentenced to 12 years in prison.
 
@@ -252,37 +252,37 @@ Yeh we all know that Democrats would never do such a thing.
 
 Here I will help you create more division.
 
-[<LINK_TEXT text="http://www.libertypost.org/cgi-bin/read ... Num=161053">http://www.libertypost.org/cgi-bin/readart.cgi?ArtNum=161053</LINK_TEXT>](http://www.libertypost.org/cgi-bin/readart.cgi?ArtNum=161053)
+[http://www.libertypost.org/cgi-bin/readart.cgi?ArtNum=161053](http://www.libertypost.org/cgi-bin/readart.cgi?ArtNum=161053)
 
 nformation compiled from the Washington Post, â€œCongressional Sex Scandals in History,â€ and other sources.
 
-10. Sen. Daniel Inouye. The 82-year-old Hawaii Democrat was accused in the 1990s by numerous women of sexual harassment. Democrats cast doubt on the allegations and the Senate Ethics Committee dropped its investigation.
+10\. Sen. Daniel Inouye. The 82-year-old Hawaii Democrat was accused in the 1990s by numerous women of sexual harassment. Democrats cast doubt on the allegations and the Senate Ethics Committee dropped its investigation.
 
-9. Former Rep. Gus Savage. The Illinois Democrat was accused of fondling a Peace Corps volunteer in 1989 while on a trip to Africa. The House Ethics Committee decided against disciplinary action in 1990.
+9\. Former Rep. Gus Savage. The Illinois Democrat was accused of fondling a Peace Corps volunteer in 1989 while on a trip to Africa. The House Ethics Committee decided against disciplinary action in 1990.
 
-8. Rep. Barney Frank. The outspoken Massachusetts Democrat hired a male prostitute who ran a prostitution service from Frankâ€™s residence in the 1980s. Only two Democrats in the House of Representatives voted to censure him in 1990.
+8\. Rep. Barney Frank. The outspoken Massachusetts Democrat hired a male prostitute who ran a prostitution service from Frankâ€™s residence in the 1980s. Only two Democrats in the House of Representatives voted to censure him in 1990.
 
-7. Former Sen. Brock Adams. The late Washington Democrat was forced to stop campaigning after numerous accusations of drugging, assault and rape, the first surfacing in 1988.
+7\. Former Sen. Brock Adams. The late Washington Democrat was forced to stop campaigning after numerous accusations of drugging, assault and rape, the first surfacing in 1988.
 
-6. Former Rep. Fred Richmond. This New York Democrat was arrested in 1978 for soliciting sex from a 16-year-old. He remained in Congress and won re-electionâ€”before eventually resigning in 1982 after pleading guilty to tax evasion and drug possession.
+6\. Former Rep. Fred Richmond. This New York Democrat was arrested in 1978 for soliciting sex from a 16-year-old. He remained in Congress and won re-electionâ€”before eventually resigning in 1982 after pleading guilty to tax evasion and drug possession.
 
-5. Former Rep. John Young. The late Texas Democrat increased the salary of a staffer after she gave in to his sexual advances. The congressman won re-election in 1976 but lost two years later.
+5\. Former Rep. John Young. The late Texas Democrat increased the salary of a staffer after she gave in to his sexual advances. The congressman won re-election in 1976 but lost two years later.
 
-4. Former Rep. Wayne Hays. The late Ohio Democrat hired an unqualified secretary reportedly for sexual acts. Although he resigned from Congress, the Democratic House leadership stalled in removing him from the Administration Committee in 1976.
+4\. Former Rep. Wayne Hays. The late Ohio Democrat hired an unqualified secretary reportedly for sexual acts. Although he resigned from Congress, the Democratic House leadership stalled in removing him from the Administration Committee in 1976.
 
-3. Former Rep. Gerry Studds. He was censured for sexual relationship with underage male page in 1983. Massachusetts voters returned him to office for six more terms.
+3\. Former Rep. Gerry Studds. He was censured for sexual relationship with underage male page in 1983. Massachusetts voters returned him to office for six more terms.
 
-2. Former Rep. Mel Reynolds. The Illinois Democrat was convicted of 12 counts of sexual assault with a 16-year-old. President Bill Clinton pardoned him before leaving office.
+2\. Former Rep. Mel Reynolds. The Illinois Democrat was convicted of 12 counts of sexual assault with a 16-year-old. President Bill Clinton pardoned him before leaving office.
 
-1. Sen. Teddy Kennedy. The liberal Massachusetts senator testified in defense of nephew accused of rape, invoking his family history to win over the jury in 1991.
+1\. Sen. Teddy Kennedy. The liberal Massachusetts senator testified in defense of nephew accused of rape, invoking his family history to win over the jury in 1991.
 
 </div>
 
 <div class="post" data-post-id="19795" data-author="Mosaix" data-date="2007-08-21T17:27:44+00:00" data-subject="">
 
-One the list of Republicans doing it is alarming.  And secondly Democrats dont stand up on the podium all day long preaching to you about morals, gays, and religion.
+One the list of Republicans doing it is alarming. And secondly Democrats dont stand up on the podium all day long preaching to you about morals, gays, and religion.
 
-Its a good post, cause its the truth that keeps getting burried.  Can you imagine the hellfire on Fox News if it was the Democrats doing such filthy stuff on a regular basis?
+Its a good post, cause its the truth that keeps getting burried. Can you imagine the hellfire on Fox News if it was the Democrats doing such filthy stuff on a regular basis?
 
 </div>
 
@@ -290,17 +290,20 @@ Its a good post, cause its the truth that keeps getting burried.  Can you imagin
 
 I wasn't really meaning to point fingers at one party or another, just at the
 
-generally dirtiness of it.  Someone else looked the shit up not me.
+generally dirtiness of it. Someone else looked the shit up not me.
 
 </div>
 
 <div class="post" data-post-id="19797" data-author="Medios" data-date="2007-08-21T19:07:39+00:00" data-subject="">
 
-One the list of Republicans doing it is alarming.  And secondly Democrats dont stand up on the podium all day long preaching to you about morals, gays, and religion.
+> <strong>Mosaix wrote:</strong>
+> One the list of Republicans doing it is alarming. And secondly Democrats dont stand up on the podium all day long preaching to you about morals, gays, and religion.
+> 
+> 
+> 
+> Its a good post, cause its the truth that keeps getting burried. Can you imagine the hellfire on Fox News if it was the Democrats doing such filthy stuff on a regular basis?
 
-Its a good post, cause its the truth that keeps getting burried.  Can you imagine the hellfire on Fox News if it was the Democrats doing such filthy stuff on a regular basis?[/quote:c694tw3y]
-
-The main problem with this argument is that Republicans wont re-elect a child molester or felon and Democrats are happy to do it.  I vote republican most of the time and it's not because I live a holier than thou life.  I just don't think that my money is best spent by the govt.  Anytime the government takes more of your money it is just wasted.  Why do you think every single govt implemented plan is garbage.  Try calling up the unemployment office, medicaid, Dept of Motor Vehicles, child support enforcement, or any other govt run agency.  They don't give a damn about your problem.  The common answer is wait and call back later.  The govt worker risks no loss of their job due to non-performance.  A privately owned business must satisfy its customers or go bankrupt.  The govt risks no bankruptcy, they will just tax more of your money and waste it as they see fit.  One prime example is The Dept of Education.  They keep throwing more and more money at education and yet our students are some of the dumbest in the world.  Praise be to the mighty teachers unions ye shall squander the finest resource of the world,  a child's mind.  
+The main problem with this argument is that Republicans wont re-elect a child molester or felon and Democrats are happy to do it. I vote republican most of the time and it's not because I live a holier than thou life. I just don't think that my money is best spent by the govt. Anytime the government takes more of your money it is just wasted. Why do you think every single govt implemented plan is garbage. Try calling up the unemployment office, medicaid, Dept of Motor Vehicles, child support enforcement, or any other govt run agency. They don't give a damn about your problem. The common answer is wait and call back later. The govt worker risks no loss of their job due to non-performance. A privately owned business must satisfy its customers or go bankrupt. The govt risks no bankruptcy, they will just tax more of your money and waste it as they see fit. One prime example is The Dept of Education. They keep throwing more and more money at education and yet our students are some of the dumbest in the world. Praise be to the mighty teachers unions ye shall squander the finest resource of the world, a child's mind. 
 
 Vote for Ron Paul
 
@@ -312,7 +315,7 @@ No more new laws restricting our rights.
 
 Long live the Constitution and Bill of Rights.
 
-PS  The division in this country along party lines is ridiculous.  We are all American(and human before that), not Republican or Democrat.  When we start to realize that the media tries to divide only then will we start to fight back.  I frequent a political message board and it is mind boggling to me that most people have these ludicrous notions of other people.  If you vote Republican than your obviously a war-monger, beat down the poor kinda guy.  If you vote Democrat than your a baby-killer/homo.  This kind of talk is bullshit.
+PS The division in this country along party lines is ridiculous. We are all American(and human before that), not Republican or Democrat. When we start to realize that the media tries to divide only then will we start to fight back. I frequent a political message board and it is mind boggling to me that most people have these ludicrous notions of other people. If you vote Republican than your obviously a war-monger, beat down the poor kinda guy. If you vote Democrat than your a baby-killer/homo. This kind of talk is bullshit.
 
 We need to come together as people.
 
@@ -322,7 +325,7 @@ We need to come together as people.
 
 just a note mike, at least in recent years, the republicans are actually worse with government spending - they just spend it on different things.
 
-Dr. Paul is indeed running as a republican for some reason, and i will be voting republican because of him, but that's because of the individual and not the party (i would have voted for him when he ran as a libertarian if i'd been old enough at the time).   Don't ever think the republicans are the slightest bit less crooked than the democrats - the democrats are just more blatant sometimes, and tend to spend their ill-gotten gains on 'social programs' instead of foreign adventurism like the republicans have been wont to do in recent years, which makes it more visible to us.
+Dr. Paul is indeed running as a republican for some reason, and i will be voting republican because of him, but that's because of the individual and not the party (i would have voted for him when he ran as a libertarian if i'd been old enough at the time). Don't ever think the republicans are the slightest bit less crooked than the democrats - the democrats are just more blatant sometimes, and tend to spend their ill-gotten gains on 'social programs' instead of foreign adventurism like the republicans have been wont to do in recent years, which makes it more visible to us.
 
 </div>
 
@@ -330,15 +333,15 @@ Dr. Paul is indeed running as a republican for some reason, and i will be voting
 
 If i could vote for a real 3rd party, or some sort of moderate party I would.
 
-I think the current Batch of Republicans running the country are perverted right wingers.  The 80's conservative, fiscally responsible republican is long gone, most of them voted out by the neo-cons.
+I think the current Batch of Republicans running the country are perverted right wingers. The 80's conservative, fiscally responsible republican is long gone, most of them voted out by the neo-cons.
 
-Look up Arlen Spectors prelim battle for the senate a few years ago.  He just about lost to some unknown nut-job.  He is an excellent long serving Republican Senator for Pennsylvania.  But they tried to oust him for not being far-right.
+Look up Arlen Spectors prelim battle for the senate a few years ago. He just about lost to some unknown nut-job. He is an excellent long serving Republican Senator for Pennsylvania. But they tried to oust him for not being far-right.
 
-Im not trying to flame you Mike, but current Republicans are wasting your tax dollars at a nice quick pace.   While they did cut taxes for the rich, they are spending the money that is left harder and harder.  
+Im not trying to flame you Mike, but current Republicans are wasting your tax dollars at a nice quick pace. While they did cut taxes for the rich, they are spending the money that is left harder and harder. 
 
-Megolithic churches that rake in millions do not pay taxes.   However they can now as of this year apply for federal grants that can use up the taxes you pay.  And with a recent Supreme Court ruling, you as an indiviual can no longer challenge or dispute it.  So you are in fact voting for the holy rollers to use your tax dollars.
+Megolithic churches that rake in millions do not pay taxes. However they can now as of this year apply for federal grants that can use up the taxes you pay. And with a recent Supreme Court ruling, you as an indiviual can no longer challenge or dispute it. So you are in fact voting for the holy rollers to use your tax dollars.
 
-Both parties are indeed flawed.  They will sell us to the Chinese the first chance they get :) 
+Both parties are indeed flawed. They will sell us to the Chinese the first chance they get <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> 
 
 Mosaix
 
@@ -350,25 +353,25 @@ Mike,
 
 my wife is a teacher, and at no point am I driving around in a Lexus.
 
-Most teachers end up being parents for the kids who dont get any parenting.  "Other" countries say Japan for example have a much better family structure and the kids work 10 times harder then the best american student.  Most kids in japan work all year, and most days they go to school till 3pm, then an evening cram school till 9pm.  I couldnt fathom the backlash in america if you tried to get these kids to study like that.  American kids are spoiled, abused, and dont have available parents to watch them.  Mom and Dad are at work all day, and dont have time for kids, even though they have them.
+Most teachers end up being parents for the kids who dont get any parenting. "Other" countries say Japan for example have a much better family structure and the kids work 10 times harder then the best american student. Most kids in japan work all year, and most days they go to school till 3pm, then an evening cram school till 9pm. I couldnt fathom the backlash in america if you tried to get these kids to study like that. American kids are spoiled, abused, and dont have available parents to watch them. Mom and Dad are at work all day, and dont have time for kids, even though they have them.
 
-Teachers around here cant afford to live in the counties they work in because the housing prices are too expensive.  They have housing "lotteries" where one teacher wins a discounted price on a new condo.  Yipee.
+Teachers around here cant afford to live in the counties they work in because the housing prices are too expensive. They have housing "lotteries" where one teacher wins a discounted price on a new condo. Yipee.
 
-The state of Maryland has nothing along the lines of a pension for working teachers.  You can teach for 50 years and have nothing to show for it.
+The state of Maryland has nothing along the lines of a pension for working teachers. You can teach for 50 years and have nothing to show for it.
 
-So do some more research first before you throw teachers and teacher unions under the bus.  I dont know this Dr. Paul guy, but it sounds like your spouting back what your being told without knowing what actually is going on in america when it comes to teachers.
+So do some more research first before you throw teachers and teacher unions under the bus. I dont know this Dr. Paul guy, but it sounds like your spouting back what your being told without knowing what actually is going on in america when it comes to teachers.
 
 </div>
 
 <div class="post" data-post-id="19801" data-author="Medios" data-date="2007-08-21T19:58:54+00:00" data-subject="">
 
-I never threw teachers under the bus.  Just the union.  The union bosses absorb any raises or money that the teachers would every see.  They will cite things like rising health care, rising expenses etc.  I never said that teachers make a lot of money.  I was simply stating that our govt wastes my money and yours.  They dump millions of dollars into education, most of which is absorbed by bureaucratic jobs.  I will contend that dollar for dollar private schools do a much better job at teaching than public ones.  As far as your ideal that all teachers are these great parents of needy children.  Wake up Broc.  Lemme tell you a little tale about how much teachers care.
+I never threw teachers under the bus. Just the union. The union bosses absorb any raises or money that the teachers would every see. They will cite things like rising health care, rising expenses etc. I never said that teachers make a lot of money. I was simply stating that our govt wastes my money and yours. They dump millions of dollars into education, most of which is absorbed by bureaucratic jobs. I will contend that dollar for dollar private schools do a much better job at teaching than public ones. As far as your ideal that all teachers are these great parents of needy children. Wake up Broc. Lemme tell you a little tale about how much teachers care.
 
-Chrissy has a 7 year old girl.  In kindergarten there was a boy who was always hitting other children.  Kaitlin told the teacher he was hitting her and the teacher called her a "tattle tale".  I got mad and told her to beat the shit out of him next time.  Then a few days later the same incident happens and she hit him back.  So the kid went and told the teacher and Kaitlin ended up getting in trouble.  She came home upset because she was in trouble.  I told her next time she better really whoop his ass.  Now this really sounds like a "great teacher".  In fact the kid in question had been in trouble so many times that other parents had to go to the school and talk with the teacher.  Regardless of that the teacher allowed Kaitlin to get bullied, and then punish her for standing up for herself.
+Chrissy has a 7 year old girl. In kindergarten there was a boy who was always hitting other children. Kaitlin told the teacher he was hitting her and the teacher called her a "tattle tale". I got mad and told her to beat the shit out of him next time. Then a few days later the same incident happens and she hit him back. So the kid went and told the teacher and Kaitlin ended up getting in trouble. She came home upset because she was in trouble. I told her next time she better really whoop his ass. Now this really sounds like a "great teacher". In fact the kid in question had been in trouble so many times that other parents had to go to the school and talk with the teacher. Regardless of that the teacher allowed Kaitlin to get bullied, and then punish her for standing up for herself.
 
-I realize this is one teacher, but I know many more.  For another matter do you have any idea how easy it is to get a teaching degree?  Have you ever considered how political the system is?  Instead of getting a teaching job based on your knowledge, its all about who you know.  
+I realize this is one teacher, but I know many more. For another matter do you have any idea how easy it is to get a teaching degree? Have you ever considered how political the system is? Instead of getting a teaching job based on your knowledge, its all about who you know. 
 
-Oh btw this teacher I am referring too.  Her husband is the county treasurer.  Things that make you go hmmmm.
+Oh btw this teacher I am referring too. Her husband is the county treasurer. Things that make you go hmmmm.
 
 </div>
 
@@ -378,7 +381,7 @@ One teacher and all are bad, i understand now.
 
 I can tell you 20 rotten kid stories for every teacher story you can come up with.
 
-You are however making an opinion that the money paid to teachers isnt worth it.  I dont see much of a difference.
+You are however making an opinion that the money paid to teachers isnt worth it. I dont see much of a difference.
 
 </div>
 
@@ -386,27 +389,31 @@ You are however making an opinion that the money paid to teachers isnt worth it.
 
 My mom is a teacher....
 
-The money doesn't ever make it to the teachers.  You can't just throw money at a problem.  The whole system needs to be overhauled.
+The money doesn't ever make it to the teachers. You can't just throw money at a problem. The whole system needs to be overhauled.
 
 </div>
 
 <div class="post" data-post-id="19804" data-author="Medios" data-date="2007-08-21T20:17:37+00:00" data-subject="">
 
-just a note mike, at least in recent years, the republicans are actually worse with government spending - they just spend it on different things.
+> <strong>Alberich wrote:</strong>
+> just a note mike, at least in recent years, the republicans are actually worse with government spending - they just spend it on different things.
+> 
+> 
+> 
+> Dr. Paul is indeed running as a republican for some reason, and i will be voting republican because of him, but that's because of the individual and not the party (i would have voted for him when he ran as a libertarian if i'd been old enough at the time). Don't ever think the republicans are the slightest bit less crooked than the democrats - the democrats are just more blatant sometimes, and tend to spend their ill-gotten gains on 'social programs' instead of foreign adventurism like the republicans have been wont to do in recent years, which makes it more visible to us.
 
-Dr. Paul is indeed running as a republican for some reason, and i will be voting republican because of him, but that's because of the individual and not the party (i would have voted for him when he ran as a libertarian if i'd been old enough at the time).   Don't ever think the republicans are the slightest bit less crooked than the democrats - the democrats are just more blatant sometimes, and tend to spend their ill-gotten gains on 'social programs' instead of foreign adventurism like the republicans have been wont to do in recent years, which makes it more visible to us.[/quote:24va4mn6]
+I will agree totally with everything here. Under the current administration spending has ran rampant. Up until the 1980's this was not the motto of the republican party. Reagan started it with his "space race" which was really just another word for "arms race".
 
-I will agree totally with everything here.  Under the current administration spending has ran rampant.  Up until the 1980's this was not the motto of the republican party.  Reagan started it with his "space race" which was really just another word for "arms race".
-
-In closing I don't agree with any new taxes, any new Departments, or any new lies.  The US govt has swollen out of proportion and if Thomas Jefferson and George Washington were alive today they would probably start executing people.
+In closing I don't agree with any new taxes, any new Departments, or any new lies. The US govt has swollen out of proportion and if Thomas Jefferson and George Washington were alive today they would probably start executing people.
 
 </div>
 
 <div class="post" data-post-id="19806" data-author="banedon" data-date="2007-08-21T20:25:05+00:00" data-subject="">
 
-The money doesn't ever make it to the teachers.  [/quote:3pfaj948]
+> <strong>Medios wrote:</strong>
+> The money doesn't ever make it to the teachers.
 
-This is so true.  I live in Southeast Missouri, and the local school district has gotten several tax increases passed in the last few years, but they still have a high turnover of teachers b/c of low pay.  Also, kids in the elementary schools here not only have to buy their school supplies, but have to provide red pens and 3 boxes of tissues for the teachers and in some schools, have to bring snacks for the class at least monthly if not more often.
+This is so true. I live in Southeast Missouri, and the local school district has gotten several tax increases passed in the last few years, but they still have a high turnover of teachers b/c of low pay. Also, kids in the elementary schools here not only have to buy their school supplies, but have to provide red pens and 3 boxes of tissues for the teachers and in some schools, have to bring snacks for the class at least monthly if not more often.
 
 Also there are several small towns reigonally (most in So. Ill) that have had tax increases passed for the schools, but the teachers still end up striking b/c of low wages.
 
@@ -414,9 +421,9 @@ Also there are several small towns reigonally (most in So. Ill) that have had ta
 
 <div class="post" data-post-id="19811" data-author="mahkra" data-date="2007-08-21T21:16:13+00:00" data-subject="">
 
-My father was an auditor in this state and the problem is definitely not the the teachers. There is so much screwball accounting going on with funding and absolutely no accountability that the money will never get to the actual teachers.  
+My father was an auditor in this state and the problem is definitely not the the teachers. There is so much screwball accounting going on with funding and absolutely no accountability that the money will never get to the actual teachers. 
 
-In one small town the trust fund manger for the schools lost several million in bad investments and he still holds the same job several years later. Every time the the voters protest with their money and votes, the problem just gets worse.  Government will just not clean up their act. 
+In one small town the trust fund manger for the schools lost several million in bad investments and he still holds the same job several years later. Every time the the voters protest with their money and votes, the problem just gets worse. Government will just not clean up their act. 
 
 Japan culture vs American is also not necessarily a good comparison. In Japan children bust their asses to get into college. Once they are in they are virtually guaranteed a job. It may not even be a good job, just one that is better than a street sweeper. 
 
@@ -424,7 +431,7 @@ In America you may bust your ass through college and never get a job in your fie
 
 I have a lot of sympathy for teachers but not all of the problem is the parents or the pay. Culture is a large part of it, as is government and well some teachers and some of the management of teachers should just plain find something better to do, but then that is true for every company I have worked at as well. 
 
-All politicians are crooks and liars and as long as we continue to accept it, we will get more. I wish I could say there was a person I voted for that got into office that I was proud of in the last 2 decades. Sadly the last good president was Kennedy, and look at his brother as an example of someone who should not have a job at all but continues to be on one of the most powerful senators in Washington.  Wish I could get drunk kill a couple people and keep my position....
+All politicians are crooks and liars and as long as we continue to accept it, we will get more. I wish I could say there was a person I voted for that got into office that I was proud of in the last 2 decades. Sadly the last good president was Kennedy, and look at his brother as an example of someone who should not have a job at all but continues to be on one of the most powerful senators in Washington. Wish I could get drunk kill a couple people and keep my position....
 
 I grew up believing in the America of Jefferson and Franklin. As I grow older I realize that culture may never exist again. And it troubles me.
 
@@ -434,9 +441,9 @@ I grew up believing in the America of Jefferson and Franklin. As I grow older I 
 
 Two Quick Thoughts
 
-1. I think the problem with Teachers these days is that it is actually quite hard to become one in some states, take Wisconsin for example, if you don't have a 3.5 gpa or better you can't even get into the school of education. Partly because WI has a high expectation for teachers and because they want to stay high in the national ratings for education. But in my opinion not all of the best teachers are the people who pull off great grades. I think there are plenty of potentially great educators who get blocked by program requirements and the less imaginative and less inspiring (thus prime for getting great grades themselves) but none the less hard working individuals end up teaching our nations children. Which I think is a sad state of affairs. I also think the same about the medical profession but thats another story.
+1\. I think the problem with Teachers these days is that it is actually quite hard to become one in some states, take Wisconsin for example, if you don't have a 3.5 gpa or better you can't even get into the school of education. Partly because WI has a high expectation for teachers and because they want to stay high in the national ratings for education. But in my opinion not all of the best teachers are the people who pull off great grades. I think there are plenty of potentially great educators who get blocked by program requirements and the less imaginative and less inspiring (thus prime for getting great grades themselves) but none the less hard working individuals end up teaching our nations children. Which I think is a sad state of affairs. I also think the same about the medical profession but thats another story.
 
-2. One quick note on federal spending. During the Clinton administration there was an emphasis on balancing the budget, not because Clinton was at all concerned about that but because the American people were, and they were concerned because of some very valid points made by Ross Perot during the 90's (one of the best third party candidates to date). Because of this emphasis the budget was on its way to becoming a bit more healthy (spending was in fact almost in line with the budget). Of course when Bush came into power his "conservative" attitude has let govt spending skyrocket and put us back a decade as far as debt in this country. I say its time to shake things up and find someone who is interested in actually being fiscally responsible to be at the controls for a while.
+2\. One quick note on federal spending. During the Clinton administration there was an emphasis on balancing the budget, not because Clinton was at all concerned about that but because the American people were, and they were concerned because of some very valid points made by Ross Perot during the 90's (one of the best third party candidates to date). Because of this emphasis the budget was on its way to becoming a bit more healthy (spending was in fact almost in line with the budget). Of course when Bush came into power his "conservative" attitude has let govt spending skyrocket and put us back a decade as far as debt in this country. I say its time to shake things up and find someone who is interested in actually being fiscally responsible to be at the controls for a while.
 
 </div>
 
@@ -448,23 +455,23 @@ vote for pedro
 
 <div class="post" data-post-id="19815" data-author="Tap" data-date="2007-08-21T23:10:42+00:00" data-subject="">
 
-Hillary Clinton   Vince Foster
+Hillary Clinton Vince Foster
 
-Barack Hussein Obama    
+Barack Hussein Obama 
 
 Bill Clinton aka Presidential Rapist
 
-George Bush Sr. and prob Jr..  large plantation in Puerto Rico that has armed guards.. oh yeah... chief crop... cocaine
+George Bush Sr. and prob Jr.. large plantation in Puerto Rico that has armed guards.. oh yeah... chief crop... cocaine
 
-George Bush JR.    Skull and Bones proud member... closet Satanist open Mason
+George Bush JR. Skull and Bones proud member... closet Satanist open Mason
 
-oh..  higher level mason use 'old Gods' in their rituals not that they themselves write such these downs...
+oh.. higher level mason use 'old Gods' in their rituals not that they themselves write such these downs...
 
 Oh my.. i'm gonna have fun with this thread
 
 Btw.. the world is in fact going to hell.. enjoy the ride
 
-Mac ~n~ cheese done..cya
+Mac \~n\~ cheese done..cya
 
 </div>
 
@@ -476,17 +483,18 @@ perhaps I should get my tinfoil hat ready..
 
 <div class="post" data-post-id="19820" data-author="Avatar" data-date="2007-08-22T00:54:55+00:00" data-subject="Politics">
 
-So, have any of you considered serving?  Even for local offices?
+So, have any of you considered serving? Even for local offices?
 
 </div>
 
 <div class="post" data-post-id="19821" data-author="Autolycos" data-date="2007-08-22T01:59:42+00:00" data-subject="">
 
-perhaps I should get my tinfoil hat ready..[/quote:ry9j5nqx]
+> <strong>Weasel wrote:</strong>
+> perhaps I should get my tinfoil hat ready..
 
-Made this just for you bro  8) 
+Made this just for you bro <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> 
 
- [img:ry9j5nqx]http://www.xgenco.com/sloth3/weaselhat.jpg[/img:ry9j5nqx]
+ ![](http://www.xgenco.com/sloth3/weaselhat.jpg)
 
 </div>
 
@@ -496,13 +504,13 @@ With globalalization approaching record speeds, it's just a matter of time befor
 
 ps- Nice Pic Autolycos but an audio rant of how weasels are running Hollywood would have nailed it.
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="19823" data-author="Tap" data-date="2007-08-22T03:03:30+00:00" data-subject="">
 
-Also, I'm either mad or both :twisted:
+Also, I'm either mad or both <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -520,7 +528,7 @@ laugh you have way to much free time jason
 
 <div class="post" data-post-id="19829" data-author="alias" data-date="2007-08-22T14:14:47+00:00" data-subject="">
 
-There are very few good and honest politicians willing to do the right thing. When you come across one  admire them while you can, because they won't be in office for long. They will either be turned into what we have now or will be run out of office or turned into a lame duck. The political system is broken and every canidate works for his/her friends not for the people. Most of you are lured into a particular political party by wedge issues; abortion, gay rights, religion, the children, gun control, ect. Just an example here, ever notice nothing really gets done on any of these issues no matter which party wins and controls congress- ie Bush and republican congress has done nothing to ban abortion, (don't start on me about which side I am its just an example). Its the same way for both parties, they are broken. Hopefully we can turn to system around, but I don't see it happening soon.
+There are very few good and honest politicians willing to do the right thing. When you come across one admire them while you can, because they won't be in office for long. They will either be turned into what we have now or will be run out of office or turned into a lame duck. The political system is broken and every canidate works for his/her friends not for the people. Most of you are lured into a particular political party by wedge issues; abortion, gay rights, religion, the children, gun control, ect. Just an example here, ever notice nothing really gets done on any of these issues no matter which party wins and controls congress- ie Bush and republican congress has done nothing to ban abortion, (don't start on me about which side I am its just an example). Its the same way for both parties, they are broken. Hopefully we can turn to system around, but I don't see it happening soon.
 
 And I have thought of running for office, but if I won I don't think I would be able to stay long as I don't bend to pressure and would probally be scandalized or killed or just plain run out of town.
 
@@ -536,25 +544,25 @@ on a side note, my favorite quote.
 
 <div class="post" data-post-id="19839" data-author="Avatar" data-date="2007-08-22T20:23:37+00:00" data-subject="Politics">
 
-I think Americans don't understand what we want from our politicians.  If you want someone with Integrity, who won't back down, who insists on doing what he thinks is right, then keep supporting Bush.  You can't argue that he hasn't persevered through a lot of criticism and challenge to continue his passion, the one issue he's most concerned with, the war.
+I think Americans don't understand what we want from our politicians. If you want someone with Integrity, who won't back down, who insists on doing what he thinks is right, then keep supporting Bush. You can't argue that he hasn't persevered through a lot of criticism and challenge to continue his passion, the one issue he's most concerned with, the war.
 
-American politics is based on compromise.  It's very difficult to enact change that's supported by less than 90% of the populace.  Those remaining 10% will fight much harder to make themselves heard if they feel like they're in the minority.  Beyond that, any law that infringes on individual rights or state rights is likely to be challenged in court, and possibly overturned.
+American politics is based on compromise. It's very difficult to enact change that's supported by less than 90% of the populace. Those remaining 10% will fight much harder to make themselves heard if they feel like they're in the minority. Beyond that, any law that infringes on individual rights or state rights is likely to be challenged in court, and possibly overturned.
 
-Let's use an analogy.  Pretend we have a group of coworkers in a small town who are going to eat lunch together.  1 person won't eat chinese food, another won't go to taco bell.  1 person is perfectly happy to eat mexican food every day of the week.  Another 2 people will eat at any restaurant, but won't eat at one restaurant more than once a week.  Once you add a few "personal beliefs" to their eating habits, it should be apparent what I'm trying to illustrate.  If noone compromises, these people are never going to agree to eat lunch together.  
+Let's use an analogy. Pretend we have a group of coworkers in a small town who are going to eat lunch together. 1 person won't eat chinese food, another won't go to taco bell. 1 person is perfectly happy to eat mexican food every day of the week. Another 2 people will eat at any restaurant, but won't eat at one restaurant more than once a week. Once you add a few "personal beliefs" to their eating habits, it should be apparent what I'm trying to illustrate. If noone compromises, these people are never going to agree to eat lunch together. 
 
-If these are politicians, in addition to lunch we might agree that they have other issues that they're trying to decide on.  As an individual, someone named Tom might think that climate change, issue #3, is more important to him than our lunch plans.  He may even agree to eat at taco bell, which he hates, in order to get someone else to vote with him on the climate change bill.
+If these are politicians, in addition to lunch we might agree that they have other issues that they're trying to decide on. As an individual, someone named Tom might think that climate change, issue #3, is more important to him than our lunch plans. He may even agree to eat at taco bell, which he hates, in order to get someone else to vote with him on the climate change bill.
 
 OMG OMG OMG!!
 
-He's said several times during the elections that he doesn't like taco bell, now he's going to taco bell with this other politician!  He's sold out his principles!  The press would show him all day, walking into the taco bell.  His opponents on the climate change issue would denounce his lack of integrity.
+He's said several times during the elections that he doesn't like taco bell, now he's going to taco bell with this other politician! He's sold out his principles! The press would show him all day, walking into the taco bell. His opponents on the climate change issue would denounce his lack of integrity.
 
-Using the same example, let's say that issue #5 concerns violent video games.  Tom, our politician from above, plays FPS violent games online, but he understands that ... most laws attempting to limit violent video games are overturned in court as unconstitutional (see Slashdot or the New York Times today).  If Tom is really smart, he might support the video game violence law even though he doesn't agree with it.  He might be able to convince Sally to vote with him on the climate change bill, in return for supporting this video game violence law.  His bill is one step closer to passing and contributing to the public good.  The video game violence law that he doesn't agree with (but voted for) still probably won't pass even with his vote, and even if it does pass will probably be overturned by the courts.  Of course all of the internet teenagers denounce Tom for supporting the video game violence law.
+Using the same example, let's say that issue #5 concerns violent video games. Tom, our politician from above, plays FPS violent games online, but he understands that ... most laws attempting to limit violent video games are overturned in court as unconstitutional (see Slashdot or the New York Times today). If Tom is really smart, he might support the video game violence law even though he doesn't agree with it. He might be able to convince Sally to vote with him on the climate change bill, in return for supporting this video game violence law. His bill is one step closer to passing and contributing to the public good. The video game violence law that he doesn't agree with (but voted for) still probably won't pass even with his vote, and even if it does pass will probably be overturned by the courts. Of course all of the internet teenagers denounce Tom for supporting the video game violence law.
 
 </div>
 
 <div class="post" data-post-id="19840" data-author="Rynquald" data-date="2007-08-22T22:55:46+00:00" data-subject="">
 
-And that's why the amount change any government can ever make will always be inversely proportional to the number of politicians that have a say about it :)
+And that's why the amount change any government can ever make will always be inversely proportional to the number of politicians that have a say about it <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -562,7 +570,7 @@ And that's why the amount change any government can ever make will always be inv
 
 "And that's why the amount change any government can ever make will always be inversely proportional to the number of politicians that have a say about it"
 
-Yep :)  I'm all for monarchy/dictatorship
+Yep <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> I'm all for monarchy/dictatorship
 
 </div>
 
@@ -570,7 +578,7 @@ Yep :)  I'm all for monarchy/dictatorship
 
 Want a dictatorship Tinct? might as well move here were damn close to it now.
 
-just remember its all for the sake of the children *puke*
+just remember its all for the sake of the children \*puke\*
 
 </div>
 
@@ -584,13 +592,14 @@ But people are more likely to resist a dictator, which they may (quite rightly) 
 
 To cut a long story short, a dictator is always doomed to become the victim of their own rule, and an elected government will always eventually become pointlessly slow. But a monarch can act without years of arguing, can act with the knowledge that it is their birthright to do so, and most of all in importance, feels responsibility to not destroy their line by doing anything too moronic.
 
-Just my two cents though, probably all wrong :)
+Just my two cents though, probably all wrong <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="19848" data-author="13" data-date="2007-08-23T04:16:20+00:00" data-subject="">
 
-[quote:1q1t2p5m]I think Americans don't understand what we want from our politicians. If you want someone with Integrity, who won't back down, who insists on doing what he thinks is right, then keep supporting Bush. You can't argue that he hasn't persevered through a lot of criticism and challenge to continue his passion, the one issue he's most concerned with, the war. [/quote:1q1t2p5m]
+> <strong>Quote:</strong>
+> I think Americans don't understand what we want from our politicians. If you want someone with Integrity, who won't back down, who insists on doing what he thinks is right, then keep supporting Bush. You can't argue that he hasn't persevered through a lot of criticism and challenge to continue his passion, the one issue he's most concerned with, the war.
 
 I want this, but I want the guy to want the right things not this garbage.
 
@@ -598,7 +607,7 @@ I want this, but I want the guy to want the right things not this garbage.
 
 <div class="post" data-post-id="19850" data-author="tincts" data-date="2007-08-23T07:34:24+00:00" data-subject="">
 
-My favorite ruler is the ruler of the universe depicted in hitchhiker's guide to the galaxy - as a person who wants to rule by definition is unsuited to the job (as decisions will be primarily influenced by the desire to maintain rule), (power corrupts etc.), the ultimate ruler is one who [b:spswvokz]doesn't even know[/b:spswvokz] that he's the ruler.  
+My favorite ruler is the ruler of the universe depicted in hitchhiker's guide to the galaxy - as a person who wants to rule by definition is unsuited to the job (as decisions will be primarily influenced by the desire to maintain rule), (power corrupts etc.), the ultimate ruler is one who <strong>doesn't even know</strong> that he's the ruler. 
 
 Then again, I'm not sure Bush knows where his own nose is, so that probably invalidates the point.
 
@@ -606,11 +615,11 @@ Then again, I'm not sure Bush knows where his own nose is, so that probably inva
 
 <div class="post" data-post-id="19853" data-author="Autolycos" data-date="2007-08-23T12:27:24+00:00" data-subject="">
 
-[i:vz57ix1z][b:vz57ix1z]*applaud* nice tincts![/b:vz57ix1z][/i:vz57ix1z]
+<em><strong>\*applaud\* nice tincts!</strong></em>
 
 I'd vote!
 
-[img:vz57ix1z]http://www.xgenco.com/stuff/zaphod2.jpg[/img:vz57ix1z]
+![](http://www.xgenco.com/stuff/zaphod2.jpg)
 
 </div>
 
@@ -624,15 +633,16 @@ Magrathea!!!
 
 Nice points Tincts, I agree.
 
-:)
+<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="19858" data-author="Weasel" data-date="2007-08-23T16:59:01+00:00" data-subject="">
 
-My father was an auditor in this state and the problem is definitely not the the teachers. There is so much screwball accounting going on with funding and absolutely no accountability that the money will never get to the actual teachers.  
-
-In one small town the trust fund manger for the schools lost several million in bad investments and he still holds the same job several years later. Every time the the voters protest with their money and votes, the problem just gets worse.  Government will just not clean up their act. [/quote:aqr70tb1]
+> <strong>mahkra wrote:</strong>
+> My father was an auditor in this state and the problem is definitely not the the teachers. There is so much screwball accounting going on with funding and absolutely no accountability that the money will never get to the actual teachers. 
+> 
+> In one small town the trust fund manger for the schools lost several million in bad investments and he still holds the same job several years later. Every time the the voters protest with their money and votes, the problem just gets worse. Government will just not clean up their act.
 
 I'm working as an auditor at Dept of Education at the moment (internship).. only dealing with a segment of the big picture, but yeah, when someone starts ripping off the system, the biggest problem it seems is that it takes forever to actually get anything done about it - the saying that it's near impossible to get fired from a govt job is apparently true, and at least some of that has to do with powerful unions and lawyers and having to cross every T and dot every I..
 
@@ -644,43 +654,47 @@ One of my professors was an auditor for the IRS, dealing with large corporates. 
 
 <div class="post" data-post-id="19859" data-author="Weasel" data-date="2007-08-23T17:02:23+00:00" data-subject="">
 
-perhaps I should get my tinfoil hat ready..[/quote:1d4mwmtn]
+> <strong>Autolycos wrote:</strong>
+> > <strong>Weasel wrote:</strong>
+> > perhaps I should get my tinfoil hat ready..
+> 
+> 
+> 
+> 
+> 
+> Made this just for you bro <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> 
+> 
+> 
+> 
+> ![](http://www.xgenco.com/sloth3/weaselhat.jpg)
 
-Made this just for you bro  8) 
-
- [img:1d4mwmtn]http://www.xgenco.com/sloth3/weaselhat.jpg[/img:1d4mwmtn][/quote:1d4mwmtn]
-
-LOL classic, thanks mate :D
+LOL classic, thanks mate <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="19860" data-author="osric" data-date="2007-08-23T17:28:16+00:00" data-subject="">
 
-To answer a question Avatar posed a while back, no, I haven't ever run for public office (well I did run for student senate in college, but while that was official I don't really count it). However I did work closely on the campaign of a friend of mine for city council. It was actually a horribly disheartening experience, the political arena even in a small town can be really all about dirty fighting and lowest common denominator tactics. So if you are trying to get into politics to change things for the better you don't stand much chance at all. But if you want to get into politics to be self serving its actually a lot easier because political parties and bosses know that you can be bought, seriously.  My friend lost his race for city council against a guy who during the race got not one but 2 dui charges and assaulted a police officer and tried to use his political office to get out of the ticket, but people still preferred him to my candidate who had never been in trouble with the law but wasn't backed by the local party bosses. I lost a lot of faith in the American voter that day.
+To answer a question Avatar posed a while back, no, I haven't ever run for public office (well I did run for student senate in college, but while that was official I don't really count it). However I did work closely on the campaign of a friend of mine for city council. It was actually a horribly disheartening experience, the political arena even in a small town can be really all about dirty fighting and lowest common denominator tactics. So if you are trying to get into politics to change things for the better you don't stand much chance at all. But if you want to get into politics to be self serving its actually a lot easier because political parties and bosses know that you can be bought, seriously. My friend lost his race for city council against a guy who during the race got not one but 2 dui charges and assaulted a police officer and tried to use his political office to get out of the ticket, but people still preferred him to my candidate who had never been in trouble with the law but wasn't backed by the local party bosses. I lost a lot of faith in the American voter that day.
 
 </div>
 
 <div class="post" data-post-id="19863" data-author="mahkra" data-date="2007-08-23T19:37:16+00:00" data-subject="">
 
-The American political system was designed to create gridlock. These are supposed to be the checks and balances that keep enormously bad decisions from becoming the law of the land. Where the founding fathers blew it was in their vague definition of the judiciary (It is the least defined in the constitution and bill of rights).  This setup a system where a president could legislate law bypassing the congress and ultimately could even grant congress or the president absolute authority.  This is entirely possible and may happen (It already has in limited cases i.E martial law being imposed on LA and New Orleans -Thanks Richard Nixon!).  Bush has certainly manipulated this system more effectively than probably any other president. 
+The American political system was designed to create gridlock. These are supposed to be the checks and balances that keep enormously bad decisions from becoming the law of the land. Where the founding fathers blew it was in their vague definition of the judiciary (It is the least defined in the constitution and bill of rights). This setup a system where a president could legislate law bypassing the congress and ultimately could even grant congress or the president absolute authority. This is entirely possible and may happen (It already has in limited cases i.E martial law being imposed on LA and New Orleans -Thanks Richard Nixon!). Bush has certainly manipulated this system more effectively than probably any other president. 
 
 Integrity is the basing of one's actions on an internally consistent framework of principles. â€“Wikipedia
 
-If that is the case than this president may have integrity. What I call into question is his principals which amazingly enough werenâ€™t supposed to matter in the Clinton years now suddenly make all the difference in the world. I blame both presidents equally for this mess. Now it is fully sanctioned to not only lie to the courts but to lie to everyone and start a war on false information and itâ€™s OK. Itâ€™s OK to â€œnot recallâ€ if you are in office.  If I tried any of that crap in my job I get escorted to the door ASAP. The Gonzales crap should have people revolting but instead itâ€™s just a show to get votes.
+If that is the case than this president may have integrity. What I call into question is his principals which amazingly enough werenâ€™t supposed to matter in the Clinton years now suddenly make all the difference in the world. I blame both presidents equally for this mess. Now it is fully sanctioned to not only lie to the courts but to lie to everyone and start a war on false information and itâ€™s OK. Itâ€™s OK to â€œnot recallâ€ if you are in office. If I tried any of that crap in my job I get escorted to the door ASAP. The Gonzales crap should have people revolting but instead itâ€™s just a show to get votes.
 
- 
-
-I see everyone whining and whimpering about religion and it seems itâ€™s either a you are with god or you are totally free from god. No one seems to realize the promise was freedom OF religion not freedom from it.  If you check your history you would find that the American Revolution was started with the aid preachers in their churches preaching revolution and allowing the revolutionaries to hold meetings under their roof.  Check with how that fits in whatâ€™s going on other countries right now. I.E the Islamic ones. Suddenly they are more alike us then different. Now donâ€™t that scare the crap out of you?
+I see everyone whining and whimpering about religion and it seems itâ€™s either a you are with god or you are totally free from god. No one seems to realize the promise was freedom OF religion not freedom from it. If you check your history you would find that the American Revolution was started with the aid preachers in their churches preaching revolution and allowing the revolutionaries to hold meetings under their roof. Check with how that fits in whatâ€™s going on other countries right now. I.E the Islamic ones. Suddenly they are more alike us then different. Now donâ€™t that scare the crap out of you?
 
 Also the constitution/bill of rights(?) was penned by an extremely religious Jefferson and was filled with lots of religious rhetoric. It was edited by Franklin who replaced it with scientific verbiage. (Franklin was an amazing person. Think Bill Gates x1000 with an Edison minor)
 
- 
-
 The problem with America is itâ€™s ignorant culture. Itâ€™s grown fat and over confident and has forgotten where it came from. That is the true moral majority that no one wants to see. If we did see it Immigration would be at the top of our list to get worked out. 
 
- The only reason I know any of this crap is that I have been researching family history and I am just about as American as anyone can get. That being dirt farming poor immigrants who crossed the land in wagons, fought Indians, were killed by Indians, landed in Normandy, were teachers, preachers and rich restaurateurs. None of which could have happened in any other country.  I am the problem now. 
+ The only reason I know any of this crap is that I have been researching family history and I am just about as American as anyone can get. That being dirt farming poor immigrants who crossed the land in wagons, fought Indians, were killed by Indians, landed in Normandy, were teachers, preachers and rich restaurateurs. None of which could have happened in any other country. I am the problem now. 
 
-Any bozo who comes to my door and talks to me gets my vote period regardless of party. Otherwise I think Pedro is getting a write in.  
+Any bozo who comes to my door and talks to me gets my vote period regardless of party. Otherwise I think Pedro is getting a write in. 
 
 Some interesting reading
 
@@ -688,7 +702,7 @@ Jefferson vs Hamilton on Popular rule : [http://www.pinzler.com/ushistory/hamjef
 
 How the Scots Invented the Modern World: The True Story of How Western Europe's Poorest Nation Created Our World and Everything in It:
 
-[<LINK_TEXT text="http://www.amazon.com/How-Scots-Invente ... 0609606352">http://www.amazon.com/How-Scots-Invented-Modern-World/dp/0609606352</LINK_TEXT>](http://www.amazon.com/How-Scots-Invented-Modern-World/dp/0609606352)
+[http://www.amazon.com/How-Scots-Invented-Modern-World/dp/0609606352](http://www.amazon.com/How-Scots-Invented-Modern-World/dp/0609606352)
 
 Franklins wikipedia:
 
@@ -712,7 +726,8 @@ Won't get into a long drag-out flameout here but Mason's and/Shriners have their
 
 <div class="post" data-post-id="19871" data-author="Medios" data-date="2007-08-23T22:49:32+00:00" data-subject="">
 
-Won't get into a long drag-out flameout here but Mason's and/Shriners have their own 'secret' covens. While on the surface they appear to be beneificial, underlying is some of the worst things you could possible imagine. I'd rather trust my son with a Catholic priest that any Shriner.[/quote:1q8cp6b5]
+> <strong>Tap wrote:</strong>
+> Won't get into a long drag-out flameout here but Mason's and/Shriners have their own 'secret' covens. While on the surface they appear to be beneificial, underlying is some of the worst things you could possible imagine. I'd rather trust my son with a Catholic priest that any Shriner.
 
 Are you saying that secret societies have something to hide?
 
@@ -722,8 +737,8 @@ Are you saying that secret societies have something to hide?
 
 No way dude, the masons and shriners never cover anything up!
 
-[img:2ineneqd]http://www.gwu.edu/~nsarchiv/NSAEBB/NSAEBB82/handshake300.jpg[/img:2ineneqd]
+![](http://www.gwu.edu/~nsarchiv/NSAEBB/NSAEBB82/handshake300.jpg)
 
-[img:2ineneqd]http://www.boomrevolution.com/sites_components/videoFiles/images/12213.jpg[/img:2ineneqd]
+![](http://www.boomrevolution.com/sites_components/videoFiles/images/12213.jpg)
 
 </div>

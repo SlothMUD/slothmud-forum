@@ -12,7 +12,7 @@ post_count: 7
 
 <div class="post" data-post-id="8335" data-author="Krok" data-date="2005-08-18T08:24:30+00:00" data-subject="WTS: signet ring of lost cross">
 
-Signet Ring of the Lost Cross  -0.4	-1 SpellSave, -1 BreathSave	NAv 3x40
+Signet Ring of the Lost Cross -0.4	-1 SpellSave, -1 BreathSave	NAv 3x40
 
 subj, 4 mils min, post your bids here.
 
@@ -26,13 +26,13 @@ subj, 4 mils min, post your bids here.
 
 <div class="post" data-post-id="8337" data-author="Alberich" data-date="2005-08-18T13:27:25+00:00" data-subject="">
 
-5 :)
+5 <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="8339" data-author="Weasel" data-date="2005-08-18T14:42:38+00:00" data-subject="">
 
-6m  :twisted:
+6m <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -42,7 +42,7 @@ meh
 
 7
 
- :roll:
+ <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

@@ -14,21 +14,26 @@ post_count: 3
 
 Hey all .. i couldnt post a reply to clink's post, so i will paste it here:
 
-[quote:38f9btun]
+> <strong>Quote:</strong>
+> I heard this when talking with the Master thief Boda about her guild. Rumor has it that guilds on other continents are also going to band together in this way at some point. 
+> 
+> 
+> 
+> Here's the deal.... 
+> 
+> 
+> 
+> The Valkyre Thieves' Guild has gone through a great effort of collecting information from its members so that they can all benefit. For now, we cataloged the myriad of keys our members have rightfully and lawfully collected. 
+> 
+> 
+> 
+> Guildmembers are welcome to use the book provided they know the secret handshake. 
+> 
+> 
+> 
+> \- The Master Thief Boda
 
-I heard this when talking with the Master thief Boda about her guild. Rumor has it that guilds on other continents are also going to band together in this way at some point. 
-
-Here's the deal.... 
-
-The Valkyre Thieves' Guild has gone through a great effort of collecting information from its members so that they can all benefit. For now, we cataloged the myriad of keys our members have rightfully and lawfully collected. 
-
-Guildmembers are welcome to use the book provided they know the secret handshake. 
-
-- The Master Thief Boda
-
-[/quote:38f9btun]
-
-Now, that said... has anyone been able to get this information?  I shook Boda's hand and got this message:
+Now, that said... has anyone been able to get this information? I shook Boda's hand and got this message:
 
 Master thief Boda tells you 'You may now use the book one time.'
 
@@ -36,11 +41,11 @@ There is this book on the ground (which is not on the ground of any other thief 
 
 A book with a set of locks on its spine protecting the thieves' secrets
 
-However, i cannot read, use, open, unlock, get, take the book.  Maybe I am missing something, but i haven't been able to read or do anything with the book.
+However, i cannot read, use, open, unlock, get, take the book. Maybe I am missing something, but i haven't been able to read or do anything with the book.
 
 Any ideas?
 
-PS.  I also need to say this:  putting this solely in the valk guild may not have been the best idea, but thats just my opinion.
+PS. I also need to say this: putting this solely in the valk guild may not have been the best idea, but thats just my opinion.
 
 </div>
 
@@ -48,11 +53,11 @@ PS.  I also need to say this:  putting this solely in the valk guild may not hav
 
 yeah, i had the same problem with it too
 
-anyone know how it works?  :twisted: 
+anyone know how it works? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 GO CLERICS!!! GO!!!
 
- :twisted:  KA KAW!!!   :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> KA KAW!!! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

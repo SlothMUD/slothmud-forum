@@ -12,7 +12,7 @@ post_count: 5
 
 <div class="post" data-post-id="8604" data-author="Grue" data-date="2005-09-11T23:14:55+00:00" data-subject="WTS Maul Titan Guards forge">
 
-Again  not sure I want to sell, but I need coins. Extremely hard forge, .8 shoulders, +str, + 5mv, ST 3x40 Forged. These need another hard forge, moldten mithril guards to forge, so I will not axcept any bid. Min starts at 25 mil. I will consider a restring and coins.
+Again not sure I want to sell, but I need coins. Extremely hard forge, .8 shoulders, +str, + 5mv, ST 3x40 Forged. These need another hard forge, moldten mithril guards to forge, so I will not axcept any bid. Min starts at 25 mil. I will consider a restring and coins.
 
 Blah, blah, can close at ny time, decide not to sell, sell online etc (if you know who I am online!). Post here.
 

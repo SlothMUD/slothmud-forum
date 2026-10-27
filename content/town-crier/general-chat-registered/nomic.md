@@ -34,15 +34,15 @@ You puke.
 
 <div class="post" data-post-id="17316" data-author="Atwell" data-date="2007-03-16T18:00:38+00:00" data-subject="Re: Nomic!">
 
-Nomic grabs a strand of seaweed away from a manta ray!
-
-[/quote:2c98ckfv]
+> <strong>juggleblood wrote:</strong>
+> Nomic grabs a strand of seaweed away from a manta ray!
 
 Nice.
 
-You puke.[/quote:2c98ckfv]
+> <strong>juggleblood wrote:</strong>
+> You puke.
 
-Why?  Looked like a balanced meal.  Protein, carbs, veggies.  Granted, it's a good thing nobody in the room had a full set of aaost cps.
+Why? Looked like a balanced meal. Protein, carbs, veggies. Granted, it's a good thing nobody in the room had a full set of aaost cps.
 
 </div>
 
@@ -50,7 +50,7 @@ Why?  Looked like a balanced meal.  Protein, carbs, veggies.  Granted, it's a go
 
 if anything you should feel sorry for poor Tremble....
 
-poor guys a unic now  :shock:
+poor guys a unic now <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

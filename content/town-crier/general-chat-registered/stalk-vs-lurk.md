@@ -16,10 +16,10 @@ the new lurk feature is cool...but I noticed something the other day...
 
 while stalking I can't be convo'd with the rest of the group, it turns lurk on...I don't see why sneaking/hiding should exclude one from this;not sure if this was planned, but it doesn't seem like it...it seems like lurk would be a much deeper game mechanic than stalk...
 
-<Shazuko Roku Ryuu>
+\<Shazuko Roku Ryuu\>
 
-<Shazuko Six Dragons>
+\<Shazuko Six Dragons\>
 
-<~Chaos~>
+\<\~Chaos\~\>
 
 </div>

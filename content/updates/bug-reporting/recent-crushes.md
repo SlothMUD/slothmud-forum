@@ -14,8 +14,7 @@ post_count: 8
 
 today crush two times when i tried to deathblow mobs
 
-[code:35ufraly]
-
+```
 <750hp 316ma 225mv>
 
 You massacre a wight to small fragments with your pound.
@@ -36,9 +35,9 @@ look wi
 
 Hailing from realms that lie far beyond mortal life, this wight has been
 
-summoned by some powerful centaur cleric to serve as a guardian.  In life the
+summoned by some powerful centaur cleric to serve as a guardian. In life the
 
-wight was a male centaur, who served his community as a master brewer.  In
+wight was a male centaur, who served his community as a master brewer. In
 
 death he retains a conviction to the brew which makes him a rather dedicated
 
@@ -59,8 +58,7 @@ wield sword
 deathblow
 
 Connected to host slothmud.org
-
-[/code:35ufraly]
+```
 
 </div>
 
@@ -68,25 +66,26 @@ Connected to host slothmud.org
 
 He admitted to deliberately crashing the MUD.
 
-Wipe him please :twisted:
+Wipe him please <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="21558" data-author="Weasel" data-date="2007-12-06T12:03:21+00:00" data-subject="">
 
-He said crUsh, not crAsh.   :D
+He said crUsh, not crAsh. <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="21561" data-author="Autolycos" data-date="2007-12-06T20:02:51+00:00" data-subject="">
 
-Didn't   Toxis have a crush on  (insert anything) ?  :twisted:
+Didn't Toxis have a crush on (insert anything) ? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="21563" data-author="Leaf" data-date="2007-12-06T22:28:19+00:00" data-subject="">
 
-Didn't   Toxis have a crush on  (insert anything) ?  :twisted:[/quote:xc8sgsjw]
+> <strong>Autolycos wrote:</strong>
+> Didn't Toxis have a crush on (insert anything) ? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 Dog?
 
@@ -120,6 +119,6 @@ laugh
 
 ummmm does this mean this?
 
-[img:30l23402]http://dow.slothmud.org/images/Droopys%20new%20woman.jpg[/img:30l23402]
+![](http://dow.slothmud.org/images/Droopys%20new%20woman.jpg)
 
 </div>

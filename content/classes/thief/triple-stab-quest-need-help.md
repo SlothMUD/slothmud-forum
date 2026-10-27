@@ -30,6 +30,6 @@ Quest is not bugged, many people completed it without problems, but we are not a
 
 <div class="post" data-post-id="34029" data-author="Burl" data-date="2013-02-13T01:58:18+00:00" data-subject="Re: Triple Stab quest (need help)">
 
-Hit me up online.  I can give you some info.
+Hit me up online. I can give you some info.
 
 </div>

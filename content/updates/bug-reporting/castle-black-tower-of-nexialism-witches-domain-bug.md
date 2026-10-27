@@ -20,13 +20,13 @@ use invitation
 You recite the invitation and feel the room dissolve around you.
 A new room slowly fades into existence all around you.
 Room 65114: Teleport Ring
-   High in the air, south of the front doors of Castle Black, is a large
-flagstone disk.  It is engraved with a bold, stylized rendition of the
+ High in the air, south of the front doors of Castle Black, is a large
+flagstone disk. It is engraved with a bold, stylized rendition of the
 castle to serve as a welcome mat and anchor for inter-dimensional travel.
 The disk is encircled by a low rail which pulses with magical energy,
-forming a shimmering dome overhead.  A high stone wall runs past the
+forming a shimmering dome overhead. A high stone wall runs past the
 southern edge, bordering the courtyard east and west of here.
-Exits: North  East  West  
+Exits: North East West 
 An official castle guard is here.
 <79/79hp 147/147ma 113/113mv -%>
 n
@@ -110,11 +110,11 @@ l
 <79/79hp 147/147ma 113/113mv -%>
 ```
 
-I tried moving, recalling, using 'hometown', etc. – nothing helps, msdp.CHARACTER_LOCATION doesn't change. Hunger/thirst does decrement.
+I tried moving, recalling, using 'hometown', etc. – nothing helps, msdp.CHARACTER\_LOCATION doesn't change. Hunger/thirst does decrement.
 
 The only two commands that seem to work is "get food bag" (with a Bag of Persephone in inventory) and "look spirit" (Spirit of Conquest).
 
-I'll go afk for some time, can you please recall me if I'm still there at the time when you read this? :)
+I'll go afk for some time, can you please recall me if I'm still there at the time when you read this? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -224,12 +224,12 @@ bounce stun
 gos Test
 Stun throws himself against you, pushing you to the east!
 Room 65051: Courtyard of Castle Black
-   Walking here is an eerie experience, your shoes click as if walking on
-flagstone, but the ground is visible nearly a mile below.  Smoke is rising
+ Walking here is an eerie experience, your shoes click as if walking on
+flagstone, but the ground is visible nearly a mile below. Smoke is rising
 from the chimney of a small building north of here, which isn't connected
-to the main keep.  High walls of ominous black stone surround the east and
+to the main keep. High walls of ominous black stone surround the east and
 south edges of the courtyard.
-Exits: North  West  Up  
+Exits: North West Up 
 *(Faint Red Aura) A lady dressed in red robes stands here, enjoying the party.
 An official castle guard is here.
 An official castle guard is here.
@@ -254,26 +254,26 @@ You are thirsty.
 Stun recites a major scroll of recall.
 Room 10303: The Wide Gate
 === Area changed to Aisholm Town.
-   This is the northern gate of Aisholm, a small human settlement in the
-frozen continent of Thule.  A set of wide double gates opens in the wall,
-and there is a building to the south.  The street is unpaved, its loosely
-packed clay as naked as when the humans first arrived to Thule.  The whole
-town must turn into a mudhole when the snow melts.  A high walkway runs
+ This is the northern gate of Aisholm, a small human settlement in the
+frozen continent of Thule. A set of wide double gates opens in the wall,
+and there is a building to the south. The street is unpaved, its loosely
+packed clay as naked as when the humans first arrived to Thule. The whole
+town must turn into a mudhole when the snow melts. A high walkway runs
 the length of the stockade.
-Exits: North  East  West  
+Exits: North East West 
 A northern settler bundled up in a heavy coat walks with purpose.
 A frost giantess is guarding the gate.
 A frost giant is guarding the gate.
 <79/79hp 147/147ma 113/113mv -%>
 l
 Room 10303: The Wide Gate
-   This is the northern gate of Aisholm, a small human settlement in the
-frozen continent of Thule.  A set of wide double gates opens in the wall,
-and there is a building to the south.  The street is unpaved, its loosely
-packed clay as naked as when the humans first arrived to Thule.  The whole
-town must turn into a mudhole when the snow melts.  A high walkway runs
+ This is the northern gate of Aisholm, a small human settlement in the
+frozen continent of Thule. A set of wide double gates opens in the wall,
+and there is a building to the south. The street is unpaved, its loosely
+packed clay as naked as when the humans first arrived to Thule. The whole
+town must turn into a mudhole when the snow melts. A high walkway runs
 the length of the stockade.
-Exits: North  East  West  
+Exits: North East West 
 A northern settler bundled up in a heavy coat walks with purpose.
 A frost giantess is guarding the gate.
 A frost giant is guarding the gate.
@@ -297,15 +297,15 @@ Also could be something related to certain mobs, look what just happened to me i
 ```
 <80/80hp 148/148ma 105/161mv -%>
 Room 14934: Planks on the Wall
-   A spiral stairway winds its way up from a grand hall visible below.
+ A spiral stairway winds its way up from a grand hall visible below.
 The pompous, gleaming perfection of the atrium is made up for by the
-shabbiness of this hallway.  Its walls are whitewashed, though there
+shabbiness of this hallway. Its walls are whitewashed, though there
 are many sooty spots there, and a hole has been blasted through the
-eastern wall.  The hole is covered by a few criss-crossing planks that
-fail to prevent the sharp scent of acid from drifting through.  A rare
+eastern wall. The hole is covered by a few criss-crossing planks that
+fail to prevent the sharp scent of acid from drifting through. A rare
 waft of fresh air emerges from the north, and the hallway itself runs
 out of sight to the south.
-Exits: North  [East]  South  Down  
+Exits: North [East] South Down 
 <80/80hp 148/148ma 103/161mv -%>
 A neophyte nexialist arrives from the north.
 <80/80hp 148/148ma 106/161mv -%>
@@ -351,27 +351,27 @@ You gossip-- 'Doh'
 <80/80hp 148/148ma 111/161mv -%>
 l
 Room 14934: Planks on the Wall
-   A spiral stairway winds its way up from a grand hall visible below.
+ A spiral stairway winds its way up from a grand hall visible below.
 The pompous, gleaming perfection of the atrium is made up for by the
-shabbiness of this hallway.  Its walls are whitewashed, though there
+shabbiness of this hallway. Its walls are whitewashed, though there
 are many sooty spots there, and a hole has been blasted through the
-eastern wall.  The hole is covered by a few criss-crossing planks that
-fail to prevent the sharp scent of acid from drifting through.  A rare
+eastern wall. The hole is covered by a few criss-crossing planks that
+fail to prevent the sharp scent of acid from drifting through. A rare
 waft of fresh air emerges from the north, and the hallway itself runs
 out of sight to the south.
-Exits: North  [East]  South  Down  
+Exits: North [East] South Down 
 <80/80hp 148/148ma 113/161mv -%>
 s
 Room 14925: A Tapestry in Shades of Grey
-   The hallway's decorations achieve little effect in making a visitor
-feel happy and cheerful.  They are too murkily and monotonously made,
-their predominant color being grey.  A thousand shades of grey drape the
-walls, conceal the floor, and barely outline a door to the east.  Opposite
+ The hallway's decorations achieve little effect in making a visitor
+feel happy and cheerful. They are too murkily and monotonously made,
+their predominant color being grey. A thousand shades of grey drape the
+walls, conceal the floor, and barely outline a door to the east. Opposite
 the small door is a tapestry, also cast in grey, bearing words of caution
-and warning.  Hissing sounds can be heard peripherally, when one's mind
-is wandering and therefore more perceptible.  Otherwise, there exists
+and warning. Hissing sounds can be heard peripherally, when one's mind
+is wandering and therefore more perceptible. Otherwise, there exists
 total silence.
-Exits: North  South  
+Exits: North South 
 A great grey tapestry adorns the westernmost wall.
 *A novice mage is reverently marveling at the wonders of nexialism.
 ```
@@ -392,12 +392,12 @@ Updated the title of the post, as the problem is related to more areas/mobs.
 
 ```
 Room 34053: Outside the Witch's Guild
-   A large slab of pure silver makes up this part of Witching street.  The
+ A large slab of pure silver makes up this part of Witching street. The
 silver slab gives off a bright blue glow that shines as bright as the sun.
 Directly to the west is where the young witches come to learn their many
-evil talents.  Occasionally passerbys stop to take a peak at what is really
+evil talents. Occasionally passerbys stop to take a peak at what is really
 going on in there.
-Exits: North  South  West  
+Exits: North South West 
 The witch's broom swiftly floats along in the air.
 (Faint Red Aura) A young witch apprentice is here practicing her skills.
 <170/170hp 232/232ma 213/217mv -%>
@@ -577,21 +577,21 @@ You feel yourself floating upward...
 <-38/170hp 232/232ma 217/217mv -%>
 ```
 
-This is so annoying. :(
+This is so annoying. <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="39857" data-author="Insomnia" data-date="2021-10-22T22:17:31+00:00" data-subject="Re: Castle Black / Tower of Nexialism / Witches Domain / ??">
 
-If anyone reads this... can you please push me out from Olsow's room on Clipper? :(
+If anyone reads this... can you please push me out from Olsow's room on Clipper? <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 ```
 Room 67517: Back Hall
-   Several lanterns have been hung from the the walls of this hallway and
-illuminate the area nicely.  The floor is covered in freshly laid black
-carpet.  The ceiling has been covered with a giant tapestry.  A small
+ Several lanterns have been hung from the the walls of this hallway and
+illuminate the area nicely. The floor is covered in freshly laid black
+carpet. The ceiling has been covered with a giant tapestry. A small
 chair rests next to a set of swinging doors that leads off to the east.
-Exits: North  [East]  South  [West]  
+Exits: North [East] South [West] 
 <69/170hp 209/232ma 177/217mv -%>
 pick e
 open e
@@ -601,12 +601,12 @@ Oh.. it wasn't locked at all.
 You open the door.
 <69/170hp 209/232ma 177/217mv -%>
 Room 67529: Olsow's Potions and Oddities
-   Rows of tables line the black floor of this shop.  The tables contain
-vials and pieces of all different types of potion ingredients.  A large
+ Rows of tables line the black floor of this shop. The tables contain
+vials and pieces of all different types of potion ingredients. A large
 wooden counter spans the back of the shop and a single shelve containing
-potions hangs from the wall behind the counter.  A small desk shoved into
+potions hangs from the wall behind the counter. A small desk shoved into
 the far corner is covered with clutter.
-Exits: West  
+Exits: West 
 A one-armed man is trying to mix ingredients together.
 <69/170hp 209/232ma 176/217mv -%>
 sca
@@ -614,10 +614,10 @@ sca
 <69/170hp 209/232ma 177/217mv -%>
 list
 I can forge:
- Cost      Item
+ Cost Item
 ----------------------
-&30000     charcoal
-&30000     tome
+&30000 charcoal
+&30000 tome
 ----------------------
 * means you need more levels to use it.
 ! means you are not strong enough to use it.
@@ -724,12 +724,12 @@ You get a squid from the Blessed Bag of Persephone.
 <75/170hp 224/232ma 203/217mv -%>
 ```
 
-I know it's probably related to my level 5, but anyways, this sucks so much... *sigh*
+I know it's probably related to my level 5, but anyways, this sucks so much... \*sigh\*
 
 </div>
 
 <div class="post" data-post-id="39858" data-author="Insomnia" data-date="2021-10-22T22:41:52+00:00" data-subject="Re: Castle Black / Tower of Nexialism / Witches Domain / ??">
 
-Voiding doesn't help. :-( I secretly hoped that after I move to Limbo (and technically stop being on one room with a mob that prevents me from doing anything) the game would accept at least one command from me and I give me a chance to move out of the room or recall. But no, it didn't work.
+Voiding doesn't help. <img src="/images/smilies/icon_e_sad.svg" alt=":-(" title=":-(" width="15" height="15" class="smiley nozoom"> I secretly hoped that after I move to Limbo (and technically stop being on one room with a mob that prevents me from doing anything) the game would accept at least one command from me and I give me a chance to move out of the room or recall. But no, it didn't work.
 
 </div>

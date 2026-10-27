@@ -18,7 +18,7 @@ Things I could use (eventually):
 
 5x jacinth, 5x moonstone, 3x sardonyx, 4xPink Diamond, 4x gwDiamond, 2x vgarnet, 10x star ruby
 
-Coin offers will probably be denied!  Talk to Josiah/Magi in game.
+Coin offers will probably be denied! Talk to Josiah/Magi in game.
 
 Here's what I have available:
 
@@ -210,205 +210,205 @@ Dr
 
 Looking for lutefisk, have the following to trade...
 
-         1. Abalone 		
+ 1\. Abalone 
 
-	 2. Absinthe 		
+ 2\. Absinthe 
 
-	 3. Alligator 		
+ 3\. Alligator 
 
-	 4. Baba Ghanoush 		
+ 4\. Baba Ghanoush 
 
-	 5. Bagel and Lox 		
+ 5\. Bagel and Lox 
 
-	 6. Baklava 		
+ 6\. Baklava 
 
-	 7. Barbecue Ribs 		
+ 7\. Barbecue Ribs 
 
-	 8. Bellini 		
+ 8\. Bellini 
 
-	 9. Bird's Nest Soup 		
+ 9\. Bird's Nest Soup 
 
-	 10. Biscuits and Gravy 		
+ 10\. Biscuits and Gravy 
 
-	 11. Black Pudding 		
+ 11\. Black Pudding 
 
-	 12. Black Truffle 		
+ 12\. Black Truffle 
 
-	 13. Borscht 		
+ 13\. Borscht 
 
-	 14. Bread Pudding 		
+ 14\. Bread Pudding 
 
-	 15. Calamari 		
+ 15\. Calamari 
 
-	 16. Carp 		
+ 16\. Carp 
 
-	 17. Caviar 		
+ 17\. Caviar 
 
-	 18. Cheese Fondue 		
+ 18\. Cheese Fondue 
 
-	 19. Chicken and Waffles 		
+ 19\. Chicken and Waffles 
 
-	 20. Chicken Tikka Masala 		
+ 20\. Chicken Tikka Masala 
 
-	 21. Chile Relleno 		
+ 21\. Chile Relleno 
 
-	 22. Chitlins 		
+ 22\. Chitlins 
 
-	 23. Churros 		
+ 23\. Churros 
 
-	 24. Clam Chowder 		
+ 24\. Clam Chowder 
 
-	 25. Cognac 		
+ 25\. Cognac 
 
-	 26. Crab Cakes 		
+ 26\. Crab Cakes 
 
-	 27. Crickets 		
+ 27\. Crickets 
 
-	 28. Currywurst 		
+ 28\. Currywurst 
 
-	 29. Dandelion Wine 		
+ 29\. Dandelion Wine 
 
-	 30. Dulce De Leche 		
+ 30\. Dulce De Leche 
 
-	 31. Durian 		
+ 31\. Durian 
 
-	 32. Eel 		
+ 32\. Eel 
 
-	 33. Eggs Benedict 		
+ 33\. Eggs Benedict 
 
-	 34. Fish Tacos 		
+ 34\. Fish Tacos 
 
-	 35. Fresh Spring Rolls 		
+ 35\. Fresh Spring Rolls 
 
-	 36. Fried Catfish 		
+ 36\. Fried Catfish 
 
-	 37. Fried Green Tomatoes 		
+ 37\. Fried Green Tomatoes 
 
-	 38. Fried Plantain 		
+ 38\. Fried Plantain 
 
-	 39. Frito Pie 		
+ 39\. Frito Pie 
 
-	 40. Frogsâ€™ Legs 		
+ 40\. Frogsâ€™ Legs 
 
-	 41. Fugu 		
+ 41\. Fugu 
 
-	 42. Funnel Cake 		
+ 42\. Funnel Cake 
 
-	 43. Gazpacho 		
+ 43\. Gazpacho 
 
-	 44. Goat 		
+ 44\. Goat 
 
-	 45. Goatâ€™s Milk 		
+ 45\. Goatâ€™s Milk 
 
-	 46. Goulash 		
+ 46\. Goulash 
 
-	 47. Gumbo 		
+ 47\. Gumbo 
 
-	 48. Haggis 		
+ 48\. Haggis 
 
-	 49. Head Cheese 		
+ 49\. Head Cheese 
 
-	 50. Heirloom Tomatoes 		
+ 50\. Heirloom Tomatoes 
 
-	 51. Honeycomb 		
+ 51\. Honeycomb 
 
-	 52. Hostess Fruit Pie 		
+ 52\. Hostess Fruit Pie 
 
-	 53. Huevos Rancheros 		
+ 53\. Huevos Rancheros 
 
-	 54. Jerk Chicken 		
+ 54\. Jerk Chicken 
 
-	 55. Kangaroo 		
+ 55\. Kangaroo 
 
-	 56. Key Lime Pie 		
+ 56\. Key Lime Pie 
 
-	 57. Kobe Beef 		
+ 57\. Kobe Beef 
 
-	 58. Lassi 		
+ 58\. Lassi 
 
-	 59. Lobster 		
+ 59\. Lobster 
 
-	 60. Mimosa 		
+ 60\. Mimosa 
 
-	 61. MoonPie 		
+ 61\. MoonPie 
 
-	 62. Morel Mushrooms 		
+ 62\. Morel Mushrooms 
 
-	 63. Nettle Tea 		
+ 63\. Nettle Tea 
 
-	 64. Octopus 		
+ 64\. Octopus 
 
-	 65. Okra 		
+ 65\. Okra 
 
-	 66. Oxtail Soup 		
+ 66\. Oxtail Soup 
 
-	 67. Paella 		
+ 67\. Paella 
 
-	 68. Paneer 		
+ 68\. Paneer 
 
-	 69. Pastrami on Rye 		
+ 69\. Pastrami on Rye 
 
-	 70. Pavlova 		
+ 70\. Pavlova 
 
-	 71. Phaal 		
+ 71\. Phaal 
 
-	 72. Philly Cheese Steak 		
+ 72\. Philly Cheese Steak 
 
-	 73. Pho 		
+ 73\. Pho 
 
-	 74. Pineapple and Cottage Cheese 		
+ 74\. Pineapple and Cottage Cheese 
 
-	 75. Pistachio Ice Cream 		
+ 75\. Pistachio Ice Cream 
 
-	 76. Poâ€™ Boy 		
+ 76\. Poâ€™ Boy 
 
-	 77. Pocky 		
+ 77\. Pocky 
 
-	 78. Polenta 		
+ 78\. Polenta 
 
-	 79. Prickly Pear 		
+ 79\. Prickly Pear 
 
-	 80. Rabbit Stew 		
+ 80\. Rabbit Stew 
 
-	 81. Raw Oysters 		
+ 81\. Raw Oysters 
 
-	 82. Root Beer Float 		
+ 82\. Root Beer Float 
 
-	 83. Sâ€™mores 		
+ 83\. Sâ€™mores 
 
-	 84. Sauerkraut 		
+ 84\. Sauerkraut 
 
-	 85. Sea Urchin 		
+ 85\. Sea Urchin 
 
-	 86. Snail 		
+ 86\. Snail 
 
-	 87. Snake 		
+ 87\. Snake 
 
-	 88. Soft Shell Crab 		
+ 88\. Soft Shell Crab 
 
-	 89. Som Tam 		
+ 89\. Som Tam 
 
-	 90. Spaetzle 		
+ 90\. Spaetzle 
 
-	 91. Spam 		
+ 91\. Spam 
 
-	 92. Squirrel 		
+ 92\. Squirrel 
 
-	 93. Steak Tartare 		
+ 93\. Steak Tartare 
 
-	 94. Sweet Potato Fries 		
+ 94\. Sweet Potato Fries 
 
-	 95. Sweetbreads 		
+ 95\. Sweetbreads 
 
-	 96. Tom Yum 		
+ 96\. Tom Yum 
 
-	 97. Umeboshi 		
+ 97\. Umeboshi 
 
-	 98. Venison 		
+ 98\. Venison 
 
-	 99. Wasabi Peas 		
+ 99\. Wasabi Peas 
 
-	 100. Zucchini Flowers
+ 100\. Zucchini Flowers
 
 </div>
 

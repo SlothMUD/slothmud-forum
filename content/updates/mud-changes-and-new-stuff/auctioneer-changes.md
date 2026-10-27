@@ -14,11 +14,11 @@ post_count: 4
 
 We have made a couple of slight adjustments to the auctioneers:
 
-1) last hour bids on an item will have the time extended by an hour ( thanks Fluffy )
+1\) last hour bids on an item will have the time extended by an hour ( thanks Fluffy )
 
-2) reroll tokens have their own auction house now, located at the Bal Harbor meditation chambers (this should clear some of the spam created by hundreds of tokens being available)
+2\) reroll tokens have their own auction house now, located at the Bal Harbor meditation chambers (this should clear some of the spam created by hundreds of tokens being available)
 
-3) there is no longer a need to do 'auc lots/auc consign' etc. just 'lots/consign/cancel/etc'
+3\) there is no longer a need to do 'auc lots/auc consign' etc. just 'lots/consign/cancel/etc'
 
 "look sign" in the auction houses to see how to use the auctioneers.
 
@@ -26,7 +26,7 @@ Note: Tokens already consigned at the original auction houses will remain there 
 
 Enjoy,
 
-Splork & Breeze
+Splork \& Breeze
 
 </div>
 
@@ -38,14 +38,14 @@ In on reboot::
 SlothMUD Auctioneer
 
 - New Command:
-   "lots searchterm" - to search for a lot by name of seller or by the object description (substring)
+ "lots searchterm" - to search for a lot by name of seller or by the object description (substring)
 
 - Removed:
-   "list" - command (was a clone of lots command)
+ "list" - command (was a clone of lots command)
 
 - Updated:
-   "look sign" - for new command "lots searchterm"
-   Auctioneer Version String - incremented from 2.3 to 2.4
+ "look sign" - for new command "lots searchterm"
+ Auctioneer Version String - incremented from 2.3 to 2.4
 ```
 
 </div>

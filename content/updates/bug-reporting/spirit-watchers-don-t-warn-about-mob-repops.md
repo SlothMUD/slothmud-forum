@@ -14,7 +14,7 @@ post_count: 20
 
 Example:
 
-<1003hp 683ma 370mv> 2913919907 0 - -2.1 +10 storm
+\<1003hp 683ma 370mv\> 2913919907 0 - -2.1 +10 storm
 
 TICK IN 10 SECONDS.
 
@@ -24,7 +24,7 @@ Saving Songster.
 
 Saving items.
 
-<1003hp 683ma 370mv> 2913919907 0 - -2.1 +10 storm
+\<1003hp 683ma 370mv\> 2913919907 0 - -2.1 +10 storm
 
 The lightning has stopped.
 
@@ -32,13 +32,13 @@ Timer now at 60 secs.
 
 save
 
-<1003hp 683ma 370mv> 2913919907 0 - -2.1 +10 raining
+\<1003hp 683ma 370mv\> 2913919907 0 - -2.1 +10 raining
 
 Saving Songster.
 
 Saving items.
 
-<1003hp 683ma 370mv> 2913919907 0 - -2.1 +10 raining
+\<1003hp 683ma 370mv\> 2913919907 0 - -2.1 +10 raining
 
 TICK IN 10 SECONDS.
 
@@ -48,7 +48,7 @@ Saving Songster.
 
 Saving items.
 
-<1003hp 683ma 370mv> 2913919907 0 - -2.1 +10 raining
+\<1003hp 683ma 370mv\> 2913919907 0 - -2.1 +10 raining
 
 TICK IN 10 SECONDS.
 
@@ -58,11 +58,11 @@ Saving Songster.
 
 Saving items.
 
-<1003hp 683ma 370mv> 2913919907 0 - -2.1 +10 raining
+\<1003hp 683ma 370mv\> 2913919907 0 - -2.1 +10 raining
 
 Countess DeNuva utters the words, 'pzfwzhuq candussabruaiqz'
 
-<1003hp 683ma 370mv> 2913919907 0 - -2.1 +10 raining
+\<1003hp 683ma 370mv\> 2913919907 0 - -2.1 +10 raining
 
 Cc the muse tells you 'I've found Countess DeNuva at Northern Catwalk, sir!'
 
@@ -74,11 +74,11 @@ res
 
 res
 
-<1003hp 683ma 370mv> 2913919907 0 - -2.1 +10 raining
+\<1003hp 683ma 370mv\> 2913919907 0 - -2.1 +10 raining
 
 You stop resting, and stand up.
 
----------
+\---------
 
 There was no warning.
 
@@ -90,7 +90,7 @@ The same thing happens on mobs that are affected by global fast repop.
 
 <div class="post" data-post-id="38381" data-author="*teker*" data-date="2017-08-04T19:40:12+00:00" data-subject="Re: Spirit watchers don&#x27;t warn about mob repops.">
 
-I've noticed this as well.  I jut checked the code and it looks like there's only a 10% chance that spirit watchers will send the "I sense your target is coming" message.  That check gets run 6 times a minute for 3-4 minutes before the zone reset so you would think it's pretty likely you'd pass the check with that many opportunities.  But it is possible that you would fail the check every time.
+I've noticed this as well. I jut checked the code and it looks like there's only a 10% chance that spirit watchers will send the "I sense your target is coming" message. That check gets run 6 times a minute for 3-4 minutes before the zone reset so you would think it's pretty likely you'd pass the check with that many opportunities. But it is possible that you would fail the check every time.
 
 </div>
 
@@ -116,9 +116,9 @@ Thanks.
 
 <div class="post" data-post-id="38384" data-author="*teker*" data-date="2017-08-06T18:17:44+00:00" data-subject="Re: Spirit watchers don&#x27;t warn about mob repops.">
 
-Ok, I rewrote the algorithm so that a warning should always happen before repop - even when fast repop is on.  You'll have to try it to see if it works better.
+Ok, I rewrote the algorithm so that a warning should always happen before repop - even when fast repop is on. You'll have to try it to see if it works better.
 
-For your other issue - are you saying that sometimes the zone repops but the mob in the room doesn't if you're playing dance of the seven luck gods?  Is there a mob in particular you've seen this with?  I'll have to build a bard to see if I can reproduce it.
+For your other issue - are you saying that sometimes the zone repops but the mob in the room doesn't if you're playing dance of the seven luck gods? Is there a mob in particular you've seen this with? I'll have to build a bard to see if I can reproduce it.
 
 </div>
 
@@ -160,7 +160,7 @@ If there is a concern that allowing an area to repop with a player inside might 
 
 <div class="post" data-post-id="38401" data-author="Gorka" data-date="2017-08-17T06:06:27+00:00" data-subject="Re: Spirit watchers don&#x27;t warn about mob repops.">
 
-Why do regular areas (not quest areas) not repop with people in them anyway?  Is there actually a reason that adds to gameplay? Is there actually a point?
+Why do regular areas (not quest areas) not repop with people in them anyway? Is there actually a reason that adds to gameplay? Is there actually a point?
 
 The only "benefit" I can think of for this "feature" is that hunting or scanning aggro's could be cleared to kill bigger mobs without getting yourself slaughtered by a surprise re-pop.
 
@@ -178,13 +178,13 @@ Only bards singing the luck gods song would not count.
 
 Ie:
 
-- bard starts singing
+\- bard starts singing
 
-- area repops
+\- area repops
 
-- bard checks the mob
+\- bard checks the mob
 
-- bard recalls or goes to a safe place within the area.
+\- bard recalls or goes to a safe place within the area.
 
 What is the problem here we don't see?
 
@@ -224,20 +224,20 @@ I've been pondering how I can do something like this in DOT in regards to Vain. 
 
 <div class="post" data-post-id="38407" data-author="Gorka" data-date="2017-08-17T22:32:36+00:00" data-subject="Re: Spirit watchers don&#x27;t warn about mob repops.">
 
-> **Teron wrote:**
+> <strong>Teron wrote:</strong>
 > how about excluding the bard, who is singing the luck gods, from the people counter, so areas repop with him?
 
 Ok, I think I've made a mistake in my understanding of your position. The bard has to be actively singing Luck Gods not to count, not just be a bard... It's an AND condition. If you read your sentence again it can actually be taken to mean different things. You could be clarifying what a bard can do - sing luck gods, or specifically highlighting a specific bard if there were more than one - the bard who is singing luck gods (because you then mention people which is plural). I see now you probably meant the character is a bard AND it is singing luck gods... but the emphasis of the sentence is placed on "excluding the bard." Using comma's doesn't mean things are happening at the same time, it only implies relationship between the statements. The only reason I picked this up was because Josiah clarified your statement underneath, and the penny dropped you probably meant that both things were true simultaneously at the same time.
 
 If the Bard has to be singing Luck Gods to be excluded from the count then you are right, it doesn't disadvantage bards in any situation. If bards were excluded simply because they were bards, then the situation I describe would be true. 
 
-It might be tricky to determine where this behavior is allowed or not. For example the vampire_slayer quest... just by looking at the room data, there may be no flag to say that this area is a special case where this behavior must be an exception to the new rules. How would the mud know that doing this on EU is ok, but the vampire_slayer quest zone is not ok. It would need a flag to determine when to toggle this new luck gods behavior. The basis for that flag might not exist in the pre existing data. I doubt the imms will accept Josiah's quip about the situation already being exploitable as a reason to turn a blind eye to introducing yet another exploit.
+It might be tricky to determine where this behavior is allowed or not. For example the vampire\_slayer quest... just by looking at the room data, there may be no flag to say that this area is a special case where this behavior must be an exception to the new rules. How would the mud know that doing this on EU is ok, but the vampire\_slayer quest zone is not ok. It would need a flag to determine when to toggle this new luck gods behavior. The basis for that flag might not exist in the pre existing data. I doubt the imms will accept Josiah's quip about the situation already being exploitable as a reason to turn a blind eye to introducing yet another exploit.
 
 </div>
 
 <div class="post" data-post-id="38408" data-author="Teron" data-date="2017-08-18T09:33:04+00:00" data-subject="Re: Spirit watchers don&#x27;t warn about mob repops.">
 
-> **Gorka wrote:**
+> <strong>Gorka wrote:</strong>
 > If you read your sentence again it can actually be taken to mean different things. You could be clarifying what a bard can do - sing luck gods, or specifically highlighting a specific bard if there were more than one - the bard who is singing luck gods (because you then mention people which is plural).
 
 The sentence means one and only thing in this context, and I'll do my best to clarify it beyond reasonable doubt.
@@ -258,26 +258,26 @@ I'll spare us both the use exact grammar terms and will attempt to describe the 
 
 The complex sentence consists of two parts:
 
-1. how about excluding the bard from the people counter
+1\. how about excluding the bard from the people counter
 
-2. who is singing the luck gods.
+2\. who is singing the luck gods.
 
-1. is the main part, 2. is the subordinate clause, which are separated by a comma, because we need commas to separate subordinate clause from the independent parts of the sentence.
+1\. is the main part, 2. is the subordinate clause, which are separated by a comma, because we need commas to separate subordinate clause from the independent parts of the sentence.
 
-1. how about excluding the bard from the people counter
+1\. how about excluding the bard from the people counter
 
 It can be rephrased to how about you exclude the bard.
 
-> **Gorka wrote:**
+> <strong>Gorka wrote:</strong>
 > but the emphasis of the sentence is placed on "excluding the bard."
 
 Well caught: this is indeed the main part of the sentence. Hats off to Gorka!
 
-2. who is singing the luck gods
+2\. who is singing the luck gods
 
 This is a descriptive dependent clause, because it describes the object in part 1: a bard, which one? the one, who is singing luck gods. It can't exist without the object it describes, because it describes one and only thing, the bard. Therefore, the bard can not be excepted from being considered to be singing luck gods.
 
-> **Gorka wrote:**
+> <strong>Gorka wrote:</strong>
 > Using comma's doesn't mean things are happening at the same time, it only implies relationship between the statements.
 
 comma itself does not denote a time, but the tense a verb is used in does.
@@ -288,39 +288,39 @@ Therefore, the suggestion means one, and only thing: to exclude the bard, who is
 
 So far I've used just the English grammar to arrive at the one and only meaning of the sentence. But let's dig deeper to dispel your doubts.
 
-> **Gorka wrote:**
+> <strong>Gorka wrote:</strong>
 > You could be clarifying what a bard can do - sing luck gods
 
 No, because this is a prime skill - only bards can sing luck gods. I wouldn't even need to mention luck gods, if I wanted to mention a bard prime.
 
-If I wanted to say "a bard, who can sing luck gods" as opposed to a bard, who can't, then I'd have said "a  bard, who has luck gods learned".
+If I wanted to say "a bard, who can sing luck gods" as opposed to a bard, who can't, then I'd have said "a bard, who has luck gods learned".
 
-> **Gorka wrote:**
+> <strong>Gorka wrote:</strong>
 > If you read your sentence again it can actually be taken to mean different things. You could be ... specifically highlighting a specific bard if there were more than one - the bard who is singing luck gods
 
 If we place the sentence in the context - which is that right now no players present allow the area to repop - then we see that the bard is opposed to other players, not other bards in the area.
 
 it is not:
 
-- two bard are present, one is singing, one is not
+\- two bard are present, one is singing, one is not
 
-- two bards are present, both are singing
+\- two bards are present, both are singing
 
-- two bards are present, none are singing.
+\- two bards are present, none are singing.
 
 It is a singing bard vs all the other players for the sake of the context and the suggestion.
 
 The sentence does answer, whether the area repops in the following conditions:
 
-- two bards are present, one is singing, one is not
+\- two bards are present, one is singing, one is not
 
 No, because one is not singing
 
-- two bards are present, both are singing
+\- two bards are present, both are singing
 
 Yes, because both are singing
 
-- one or more bards are present, none are singing
+\- one or more bards are present, none are singing
 
 No, because they aren't singing.
 
@@ -348,7 +348,7 @@ I'm honestly amused... I think I'll stay off the crier for a bit... email the im
 
 <div class="post" data-post-id="38410" data-author="*teker*" data-date="2017-08-19T22:11:37+00:00" data-subject="Re: Spirit watchers don&#x27;t warn about mob repops.">
 
-This isn't something that I'll look at changing unless a builder comes to me and wants a particular area to work differently.  I imagine the current behaviors are the way they are because that's how the builder wanted each particular area to play out.  It takes a lot of time and effort to build an area and I don't feel like I should be overriding their designs unless asked to by the builder.
+This isn't something that I'll look at changing unless a builder comes to me and wants a particular area to work differently. I imagine the current behaviors are the way they are because that's how the builder wanted each particular area to play out. It takes a lot of time and effort to build an area and I don't feel like I should be overriding their designs unless asked to by the builder.
 
 </div>
 

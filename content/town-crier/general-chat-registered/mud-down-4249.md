@@ -20,7 +20,7 @@ T
 
 <div class="post" data-post-id="35121" data-author="war" data-date="2014-05-08T21:30:27+00:00" data-subject="Re: Mud Down?">
 
-I think so  :cry:
+I think so <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

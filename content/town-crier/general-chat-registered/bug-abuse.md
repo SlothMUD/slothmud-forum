@@ -28,28 +28,30 @@ Splork
 
 <div class="post" data-post-id="10148" data-author="Weasel" data-date="2006-01-16T12:52:12+00:00" data-subject="">
 
-Alright, Jake has fixed you guys up...[/quote:2xzv81py]
+> <strong>\*Splork\* wrote:</strong>
+> Alright, Jake has fixed you guys up...
 
 fixed us? 
 
-cast 'castration' world     :shock:
+cast 'castration' world <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="10149" data-author="12345" data-date="2006-01-16T14:52:10+00:00" data-subject="">
 
-This spell can only be cast on weasels.[/quote:2d18u7e1]
+> <strong>SlothMUD III wrote:</strong>
+> This spell can only be cast on weasels.
 
- :wink:
+ <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="10150" data-author="Weasel" data-date="2006-01-16T16:02:17+00:00" data-subject="">
 
-[img:qe61uqxk]http://d.aerno.com/bugabuse.jpg[/img:qe61uqxk]
+![](http://d.aerno.com/bugabuse.jpg)
 
 bugs are people too.
 
-and so are weasels.  :twisted:
+and so are weasels. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

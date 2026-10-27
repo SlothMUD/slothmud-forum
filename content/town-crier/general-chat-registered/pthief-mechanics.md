@@ -24,9 +24,8 @@ I am not sure that any will agree that the mechanics around this are broken. It 
 
 <div class="post" data-post-id="13575" data-author="Alberich" data-date="2006-07-26T19:55:46+00:00" data-subject="Re: PThief Mechanics">
 
-When an individual can in an instant remove hours of my time investment without me being able to just as easily recoup that lose is not fun.
-
-[/quote:3a6wbuyr]
+> <strong>codetown wrote:</strong>
+> When an individual can in an instant remove hours of my time investment without me being able to just as easily recoup that lose is not fun.
 
 well, if you wheren't carrying crap around in a sack in inv.... that's why robes are containers
 
@@ -36,7 +35,7 @@ take it as a lesson, move on, and put stuff away properly next time - has happen
 
 <div class="post" data-post-id="13576" data-author="Medios" data-date="2006-07-26T20:37:30+00:00" data-subject="">
 
-Alberich is right, you can store items in a container that you wear.  If you get in touch with me(Medios/Minstrel/Dogs) I can help you reclaim some things and maybe get you set in the right direction.  I dont know who your char was, but there are things that larger chars can do to pthiefs.  As you have pointed out, pthieving mainly effects lower level players that are trying to "build".  This is one item that concerned me, but imho it weeds out crybaby players that cant take a little negative gaming.  If you strictly give up because one pack was stolen, then slothmud is probably not for you.  
+Alberich is right, you can store items in a container that you wear. If you get in touch with me(Medios/Minstrel/Dogs) I can help you reclaim some things and maybe get you set in the right direction. I dont know who your char was, but there are things that larger chars can do to pthiefs. As you have pointed out, pthieving mainly effects lower level players that are trying to "build". This is one item that concerned me, but imho it weeds out crybaby players that cant take a little negative gaming. If you strictly give up because one pack was stolen, then slothmud is probably not for you. 
 
 Mike
 
@@ -44,31 +43,31 @@ Mike
 
 <div class="post" data-post-id="13583" data-author="Malison" data-date="2006-07-27T00:38:26+00:00" data-subject="">
 
-While attacking the pthief may not always work, some spells like web usually will.  Just be sure when you use them that it's on the right person
+While attacking the pthief may not always work, some spells like web usually will. Just be sure when you use them that it's on the right person
 
 </div>
 
 <div class="post" data-post-id="13584" data-author="Guinex" data-date="2006-07-27T03:19:15+00:00" data-subject="">
 
-The idea of being able to attack anyone is great, it would allow me to attack people in safe rooms :D
+The idea of being able to attack anyone is great, it would allow me to attack people in safe rooms <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="13585" data-author="Guinex" data-date="2006-07-27T03:22:43+00:00" data-subject="">
 
-But more seriously i do believe that if you know who took your stuff you should be able to kill/loot them w/o being a high level avatar.  I personally do not carry a bunch of stuff in my inventory but this whole, "you learned your lesson stuff" is getting old.  Feel free to post names of characters that have stolen from you, and I personally will do my best to make sloth unenjoyable for them.
+But more seriously i do believe that if you know who took your stuff you should be able to kill/loot them w/o being a high level avatar. I personally do not carry a bunch of stuff in my inventory but this whole, "you learned your lesson stuff" is getting old. Feel free to post names of characters that have stolen from you, and I personally will do my best to make sloth unenjoyable for them.
 
-*smoke*
+\*smoke\*
 
 </div>
 
 <div class="post" data-post-id="13586" data-author="Hobbes" data-date="2006-07-27T07:57:20+00:00" data-subject="">
 
-Everything codetown posted about pthiefing is correct and represents the feelings of more than a few players on the mud I'm willing to bet.  He is bowing out graciously it would appear and not being a "crybaby".  (Compare to the reactions of some following the recent monk nerfs.)  It is very easy for an avatar to say put your stuff in a robe; I agree with Guinex, the you've learned your lesson argument is very old and lame.  
+Everything codetown posted about pthiefing is correct and represents the feelings of more than a few players on the mud I'm willing to bet. He is bowing out graciously it would appear and not being a "crybaby". (Compare to the reactions of some following the recent monk nerfs.) It is very easy for an avatar to say put your stuff in a robe; I agree with Guinex, the you've learned your lesson argument is very old and lame. 
 
-I guess this thread irks me a bit because we push for more votes and then infer that some players are crybabies or need to "learn a lesson" when they offer an opinion that differs from that of the mainstream characters on the mud.  It just seems silly to push for votes for Sloth when half the time the attitude that is conveyed to newer players is "if you don't like it, leave."
+I guess this thread irks me a bit because we push for more votes and then infer that some players are crybabies or need to "learn a lesson" when they offer an opinion that differs from that of the mainstream characters on the mud. It just seems silly to push for votes for Sloth when half the time the attitude that is conveyed to newer players is "if you don't like it, leave."
 
-Anyway, like I said, I was just a bit irked.  I feel better now.  Carry on.
+Anyway, like I said, I was just a bit irked. I feel better now. Carry on.
 
 </div>
 
@@ -76,15 +75,15 @@ Anyway, like I said, I was just a bit irked.  I feel better now.  Carry on.
 
 I somewhat agree, that new players who aren't familiar with sloth would have no idea that items can get stolen by other players (pthiefs)
 
-How about a warning in the primer, or login screen for all characters that pthieving is allowed in this game.  Or better yet, have the town guards (sashes, dwarven guards, etc.)  offer reminders from time to time to watch out for items in our inventories.  this would be a good way for the new players to learn, instead of having them lose items they worked hard to get.
+How about a warning in the primer, or login screen for all characters that pthieving is allowed in this game. Or better yet, have the town guards (sashes, dwarven guards, etc.) offer reminders from time to time to watch out for items in our inventories. this would be a good way for the new players to learn, instead of having them lose items they worked hard to get.
 
-sure, the ppl who have been playing sloth a long time shouldn't be getting their stuff stolen, so if they do get pthieved, they prob weren't very smart.  but new players who aren't yet familiar with slothplay might get really turned off and leave.
+sure, the ppl who have been playing sloth a long time shouldn't be getting their stuff stolen, so if they do get pthieved, they prob weren't very smart. but new players who aren't yet familiar with slothplay might get really turned off and leave.
 
 </div>
 
 <div class="post" data-post-id="13588" data-author="Harlot" data-date="2006-07-27T10:38:38+00:00" data-subject="Gimlet">
 
-Love ya :oops:
+Love ya <img src="/images/smilies/icon_redface.svg" alt=":oops:" title=":oops:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -92,7 +91,7 @@ Love ya :oops:
 
 The only thing you should expect to get from voting is the satisfaction of knowing that you've done something small and positive for the game you spend so much time playing.
 
-This forum is largely for the exchange of ideas and opinions between fellow players.  Some have been playing for many, many, maaaany years and are thus, old and crotchety.  Be brave and steadfast.  They may all die soon.
+This forum is largely for the exchange of ideas and opinions between fellow players. Some have been playing for many, many, maaaany years and are thus, old and crotchety. Be brave and steadfast. They may all die soon.
 
 </div>
 
@@ -134,23 +133,26 @@ I am not trying to be a "cry baby" here, I realize that this is a learn to play 
 
 ahh, for the joy of the few or the many...
 
-would i make the world poor just so i could be rich :)
+would i make the world poor just so i could be rich <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 gonna take a few days of fishing (for sharks!) to get to bottom of that one.
 
 wait, where the $#@% is my fishing pole!
 
-brand :twisted:
+brand <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="13602" data-author="Medios" data-date="2006-07-27T19:51:36+00:00" data-subject="">
 
-This is one item that concerned me, but imho it weeds out crybaby players that cant take a little negative gaming.  If you strictly give up because one pack was stolen, then slothmud is probably not for you.  
+> <strong>Medios wrote:</strong>
+> This is one item that concerned me, but imho it weeds out crybaby players that cant take a little negative gaming. If you strictly give up because one pack was stolen, then slothmud is probably not for you. 
+> 
+> 
+> 
+> Mike
 
-Mike[/quote:251gaq25]
-
-Does anyone even read my posts, I never called anyone crybaby.  Just stating my opinion that if you give up after one small thing such as this then maybe sloth is too harsh for you.  I guess the next reasons ppl will give for quiting is level/xp loss, or low poprates.  Give it a break.  I have yet to find out the name of the pthief either.  This shows to me that punishing said person is not as important as "venting".
+Does anyone even read my posts, I never called anyone crybaby. Just stating my opinion that if you give up after one small thing such as this then maybe sloth is too harsh for you. I guess the next reasons ppl will give for quiting is level/xp loss, or low poprates. Give it a break. I have yet to find out the name of the pthief either. This shows to me that punishing said person is not as important as "venting".
 
 Mike
 

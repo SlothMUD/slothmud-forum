@@ -24,7 +24,7 @@ it takes too much efforts to right-click on teh folder, clear 'read only' attrib
 
 <div class="post" data-post-id="25788" data-author="Rynquald" data-date="2008-08-18T01:15:28+00:00" data-subject="">
 
-Well if you only want to read the dvd once you could just get a disc-bootable linux distr and copy the files over. I'd suggest [url:31fafm0c]http://www.knoppix.org[/url:31fafm0c] if you decide to go down that route. Will make it hard to go back to Vista though.
+Well if you only want to read the dvd once you could just get a disc-bootable linux distr and copy the files over. I'd suggest http://www.knoppix.org if you decide to go down that route. Will make it hard to go back to Vista though.
 
 As for Vista, you're likely right about it being some half-baked "security" measure to "protect" you from doing what you want.
 
@@ -32,13 +32,14 @@ As for Vista, you're likely right about it being some half-baked "security" meas
 
 <div class="post" data-post-id="25790" data-author="Yasik2" data-date="2008-08-18T01:18:45+00:00" data-subject="">
 
-[img:1tcly70o]http://yasik.kiev.ua/Linux_scratch.jpg[/img:1tcly70o]
+![](http://yasik.kiev.ua/Linux_scratch.jpg)
 
 </div>
 
 <div class="post" data-post-id="25792" data-author="Tap" data-date="2008-08-18T01:46:35+00:00" data-subject="">
 
-[quote:3t3qz53p]it takes too much efforts to right-click on teh folder, clear 'read only' attribute and 'apply' ?[/quote:3t3qz53p]
+> <strong>Quote:</strong>
+> it takes too much efforts to right-click on teh folder, clear 'read only' attribute and 'apply' ?
 
 Well, you "can" do that, however, even as Administrator, VISTA decides that you've made a mistake and undoes it. This is my 2nd day working with VISTA. Seems it's a widespread problem according to web searches. Seems that VISTA doesn't like anything done under XP. Might just have to re-download all APP's and burn under VISTA. Crappy that I have had this PC for less than a week and have to consider removing VISTA and looking for XP to install. Maybe Bill Gates is the Anti-Christ after all.
 
@@ -52,7 +53,7 @@ I think you'll find that your "Backup DVD," what ever software you used to make 
 
 As others have stated.. you need to undo the read only flag on your files. If your clever then open a DOS prompt and type "ATTRIB /?"
 
-The Attrib command can recursively take the read only flag off all files in a directory. Very nice... ;)
+The Attrib command can recursively take the read only flag off all files in a directory. Very nice... <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 This worked in my situation, have some doubts it might help yours, as I'm not 100% certain of your exact problem.
 
@@ -78,9 +79,9 @@ tried several things Jezer, Vista resets to read-only no matter what you do. I e
 
 <div class="post" data-post-id="25804" data-author="jezer" data-date="2008-08-18T05:50:12+00:00" data-subject="">
 
-I feel your pain. I was the first person in my company to receive Vista on a trial basis. I soon found out that Vista did not support Microsoft Visual Studio 2003... that's right... Microsoft Vista does not support Microsoft's own products... I was told I would have to upgrade to Microsoft Visual Studio 2005... at my own expensive... needless to say... I wiped and put on xp :)
+I feel your pain. I was the first person in my company to receive Vista on a trial basis. I soon found out that Vista did not support Microsoft Visual Studio 2003... that's right... Microsoft Vista does not support Microsoft's own products... I was told I would have to upgrade to Microsoft Visual Studio 2005... at my own expensive... needless to say... I wiped and put on xp <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-Good luck!  :D
+Good luck! <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -96,9 +97,9 @@ Good luck!  :D
 
 been running vista x64 for a month or so, never expirienced anything you mentioned.
 
-*shrug*
+\*shrug\*
 
-dreamscene ftw :P
+dreamscene ftw <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 

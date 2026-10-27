@@ -14,9 +14,9 @@ post_count: 10
 
 What naked
 
-Curtis for sale/trade. Stats: 18/99 18 14 18 15.  (level: 20)
+Curtis for sale/trade. Stats: 18/99 18 14 18 15. (level: 20)
 
-Your levels:  Th: 20 Ma: 20 Wa: 20 Cl: 14
+Your levels: Th: 20 Ma: 20 Wa: 20 Cl: 14
 
 You are 20 years and 7 months old.
 
@@ -42,9 +42,9 @@ You are standing.
 
 You are affected by the following spells:
 
-   Detect Invisible
+ Detect Invisible
 
-   Infravision
+ Infravision
 
 Never done any drachma quests yet. No good eq on it. I'd be happy to trade it for infernite gaunts or a crystal greatshield.
 
@@ -52,7 +52,7 @@ Never done any drachma quests yet. No good eq on it. I'd be happy to trade it fo
 
 <div class="post" data-post-id="17717" data-author="13" data-date="2007-04-02T11:43:40+00:00" data-subject="">
 
-He's more in the 5-8mil range I would say rather than the 25-30mil range.  If that warrior class was something else it would be dif.  Sorry
+He's more in the 5-8mil range I would say rather than the 25-30mil range. If that warrior class was something else it would be dif. Sorry
 
 </div>
 
@@ -76,13 +76,13 @@ Nope
 
 <div class="post" data-post-id="17727" data-author="13" data-date="2007-04-02T15:48:54+00:00" data-subject="">
 
-I would take that and run dude.  Then just buy whatever item you're looking for :)
+I would take that and run dude. Then just buy whatever item you're looking for <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="17728" data-author="Messiaen" data-date="2007-04-02T16:00:08+00:00" data-subject="">
 
-Well, in the times when I was rich, I couldn't buy infernites or a greatshield even at 50 mil price :)
+Well, in the times when I was rich, I couldn't buy infernites or a greatshield even at 50 mil price <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

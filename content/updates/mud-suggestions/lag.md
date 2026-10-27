@@ -12,7 +12,7 @@ post_count: 4
 
 <div class="post" data-post-id="7865" data-author="Taki" data-date="2005-07-13T08:34:03+00:00" data-subject="LAG">
 
-Probably not saying anything new, but I thought to post it here, since shouts in game don't do much more than annoying other players :)
+Probably not saying anything new, but I thought to post it here, since shouts in game don't do much more than annoying other players <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Noticed that lag keeps getting worse with time from last boot (after 3 days it becomes bad, then it seems to worsen more and more). 
 

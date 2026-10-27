@@ -16,7 +16,7 @@ Yesterday I found the desire to start playing around with the Mudlet Mapper and 
 
 Problem 1: Akaya's original mapper. (It won't work)
 
-Akaya who was instrumental in creating the buzz that brought MSDP to slothmud, originally wrote a Mapper for Slothmud. This mapper used the msdp COORDS variables that were later removed because they were thought to be lagging the mud. Furthermore, I got a sense his mapper was snippets of code, copy and pasted from other authors and slightly adapted. Because the variables he was using are no longer in Sloth I really had no choice but to write my own mapper completely from scratch using msdp.ROOM_EXITS.  
+Akaya who was instrumental in creating the buzz that brought MSDP to slothmud, originally wrote a Mapper for Slothmud. This mapper used the msdp COORDS variables that were later removed because they were thought to be lagging the mud. Furthermore, I got a sense his mapper was snippets of code, copy and pasted from other authors and slightly adapted. Because the variables he was using are no longer in Sloth I really had no choice but to write my own mapper completely from scratch using msdp.ROOM\_EXITS. 
 
 Problem 2: Room Collisions.
 
@@ -32,7 +32,7 @@ I think it would be fairly common to have coordinate collisions in a mud... and 
 
 Problem 3: Detecting you have changed a room.
 
-The other issue is each time you want to move a room, you want to add the new room and all it's links to the map... well as you may know, there is really no way to detect you have changed a room in Slothmud if you are solo. Capturing the msdp.ROOM_VNUM change event or msdp.ROOM_EXITS events are flawed because they fire multiple times and are subject to msdp update lag. If I walk fast then mapping some rooms will be missed out and my coordinates will be wrong. It appears the only way to map a room constantly once, would be to so in a group, as you could trigger the mapping on the following leader message. However as I was using msdp.ROOM_VNUM as the key for my rooms, and this variable is subject to lag... I wonder if that would even work. There doesn't seem to be a good way to do this but to add each room manually. Once again I wondered if anyone else has found a way to work around this?
+The other issue is each time you want to move a room, you want to add the new room and all it's links to the map... well as you may know, there is really no way to detect you have changed a room in Slothmud if you are solo. Capturing the msdp.ROOM\_VNUM change event or msdp.ROOM\_EXITS events are flawed because they fire multiple times and are subject to msdp update lag. If I walk fast then mapping some rooms will be missed out and my coordinates will be wrong. It appears the only way to map a room constantly once, would be to so in a group, as you could trigger the mapping on the following leader message. However as I was using msdp.ROOM\_VNUM as the key for my rooms, and this variable is subject to lag... I wonder if that would even work. There doesn't seem to be a good way to do this but to add each room manually. Once again I wondered if anyone else has found a way to work around this?
 
 I still have more work to do, to have colors for the terrain and run scripts that goto rooms etc... but I kind of feel without these other problems being resolved... whats the point... Does anyone have experience mapping muds and can tell me good ways to overcome these problems?
 
@@ -42,23 +42,21 @@ I still have more work to do, to have colors for the terrain and run scripts tha
 
 I think there are 2 pieces to making this work better:
 
-1) Have the game proactively send new room information each time you change rooms.  I'm not sure what you'd really need other than the Vnum.
+1\) Have the game proactively send new room information each time you change rooms. I'm not sure what you'd really need other than the Vnum.
 
-2) The right solution for putting maps in the client is to throw away the idea of self discovery and include pre-built maps in a Sloth package for Mudlet.  We could built tools to take the existing areas from either file or database and convert them to XML files that Mudlet can read.  Someone would need to massage the X,Y coordinates to solve the collision problem but once the problem is solved, the entire community would benefit.
+2\) The right solution for putting maps in the client is to throw away the idea of self discovery and include pre-built maps in a Sloth package for Mudlet. We could built tools to take the existing areas from either file or database and convert them to XML files that Mudlet can read. Someone would need to massage the X,Y coordinates to solve the collision problem but once the problem is solved, the entire community would benefit.
 
 </div>
 
 <div class="post" data-post-id="38003" data-author="Filk" data-date="2017-01-29T07:24:28+00:00" data-subject="Re: Mudlet 3.0.0-delta Mapper">
 
-> **Quote:**
-> 1) Have the game proactively send new room information each time you change rooms. I'm not sure what you'd really need other than the Vnum.
+> <strong>Quote:</strong>
+> 1\) Have the game proactively send new room information each time you change rooms. I'm not sure what you'd really need other than the Vnum.
 
-Great idea. And i even mailed you with such idea month ago. You didnt answer though, so not sure if mail was received or i used correct email :)
+Great idea. And i even mailed you with such idea month ago. You didnt answer though, so not sure if mail was received or i used correct email <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-> **Quote:**
-> 2.  pre-built maps
-
- 
+> <strong>Quote:</strong>
+> 2\. pre-built maps
 
 I also think thats only working idea for Sloth. Areas dont fit good into coordinates system, since we have alot of intersections, portals and other area entrances.
 
@@ -70,9 +68,9 @@ I'm not sure it's practical to share the mudlet map data from client to client, 
 
 What I would need Teker is a test area export. Just a simple area for now to test the concept on... something like this...
 
-AREA <NAME>, <ID>
+AREA \<NAME\>, \<ID\>
 
-ROOM <VNUM>, <NAME>, <TERRAIN>, <N>, <E>, <S>, <W>, <U>, <D>, <X>, <Y>, <Z>
+ROOM \<VNUM\>, \<NAME\>, \<TERRAIN\>, \<N\>, \<E\>, \<S\>, \<W\>, \<U\>, \<D\>, \<X\>, \<Y\>, \<Z\>
 
 The idea would be to open this XML area file, and change the X,Y,Z data manually. Then write a LUA script to import the XML and generate the mudlet map from that data. The lua script could become distributable with the area file XML so mudlet users could import and create maps for any areas they choose. At some point we could talk about handling the tricky stuff like, trig traps and doors etc. But best to keep it simple for now.
 
@@ -82,15 +80,15 @@ The idea would be to open this XML area file, and change the X,Y,Z data manually
 
 I don't believe it's possible to automatically generate these maps for export. 
 
-The way you sposed to do it, is to build the map by exploring the area and then pulling and extending lines manually until it makes sense, then save it.  You'll never get around the issue that space is not equally represented per room. I don't even like calling these 'collisions', because in my mind they aren't any kind of problem, but just the normal dynamic. 
+The way you sposed to do it, is to build the map by exploring the area and then pulling and extending lines manually until it makes sense, then save it. You'll never get around the issue that space is not equally represented per room. I don't even like calling these 'collisions', because in my mind they aren't any kind of problem, but just the normal dynamic. 
 
-If you get the mapper working to the point that people can start making and sharing such maps, then your mission would be complete.  I think trying to design something that can automatically detect and adjust for the differences in scale would be incredibly hard, not to cast doubts on anyone's talents.
+If you get the mapper working to the point that people can start making and sharing such maps, then your mission would be complete. I think trying to design something that can automatically detect and adjust for the differences in scale would be incredibly hard, not to cast doubts on anyone's talents.
 
 </div>
 
 <div class="post" data-post-id="38007" data-author="Gorka" data-date="2017-01-30T16:29:12+00:00" data-subject="Re: Mudlet 3.0.0-delta Mapper">
 
-> ***juggleblood* wrote:**
+> <strong>\*juggleblood\* wrote:</strong>
 > If you get the mapper working to the point that people can start making and sharing such maps, then your mission would be complete.
 
 As with my last post about the coliseum, I went at length to describe a coliseum system that was expandable, modular and maintainable. Likewise this time, in regards to mapping, we know that mudlet is subject to change (they just changed all the mapping stuff after version delta), we need a solution that is not just for the mudlet client, and we need a solution that can be shared. XML room data and manual coordinates solves that.
@@ -103,7 +101,7 @@ The difference between what you are calling a solution, and the XML idea is that
 
 <div class="post" data-post-id="38008" data-author="*juggleblood*" data-date="2017-01-30T20:29:33+00:00" data-subject="Re: Mudlet 3.0.0-delta Mapper">
 
-So you are telling me that this thing will be able to generate the maps based on the data alone, without human intervention?  How are you going to tell it what to do with different scales (what you call room collision) and how are you going to tell it to deal with areas like Hellwell and Spire, where you travel up and down on a slant. And then how is it going to cope with special exits? Currently there are a number of ways that a player can teleport, such as an old style trig trap, mob proc, obj proc, or room proc.
+So you are telling me that this thing will be able to generate the maps based on the data alone, without human intervention? How are you going to tell it what to do with different scales (what you call room collision) and how are you going to tell it to deal with areas like Hellwell and Spire, where you travel up and down on a slant. And then how is it going to cope with special exits? Currently there are a number of ways that a player can teleport, such as an old style trig trap, mob proc, obj proc, or room proc.
 
 The way I see it, every map is going to require a human to help generate it, so why not get some basic tools out there?
 
@@ -121,11 +119,11 @@ Regarding more "simple" collisions like I mentioned in an area like BH town, it 
 
 I'll try to spend some time over the next two weeks on the following:
 
-1) Getting a base Mudlet package together that includes non-UI elements: triggers, aliases, scripts, etc based on the replies to my previous Sloth Client thread.
+1\) Getting a base Mudlet package together that includes non-UI elements: triggers, aliases, scripts, etc based on the replies to my previous Sloth Client thread.
 
-2) Updating the MSDP room vnum more frequently.
+2\) Updating the MSDP room vnum more frequently.
 
-3) Exporting BH in a format that can be loaded easily by Mudlet.
+3\) Exporting BH in a format that can be loaded easily by Mudlet.
 
 We'll see where we get from there.
 
@@ -183,74 +181,74 @@ Yeah, it's easy enuff to make sure there are looks after special teleports. I wa
 
 <div class="post" data-post-id="38019" data-author="Gorka" data-date="2017-02-01T13:41:28+00:00" data-subject="Re: Mudlet 3.0.0-delta Mapper">
 
-Off topic, but given splork's anxiety about displaying damage as part of the game, could they invisibly msdp it instead?  :twisted:
+Off topic, but given splork's anxiety about displaying damage as part of the game, could they invisibly msdp it instead? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="38020" data-author="*teker*" data-date="2017-02-01T16:24:13+00:00" data-subject="Re: Mudlet 3.0.0-delta Mapper">
 
-I'm thinking that perhaps the room vnum should appear at the top of the "look" data in case clients want to capture more information.  Something like:
+I'm thinking that perhaps the room vnum should appear at the top of the "look" data in case clients want to capture more information. Something like:
 
-> **Quote:**
+> <strong>Quote:</strong>
 > Room Vnum: 8000
 > 
 > West Gate
 > 
->    This is the west gate of the port city of Bal Harbor.  A wide dirt
+> This is the west gate of the port city of Bal Harbor. A wide dirt
 > 
 > roadway leads in between a pair of squarish-looking guard towers into the
 > 
-> city to the east, and to west disappears into a flat grassy plain.  Visible
+> city to the east, and to west disappears into a flat grassy plain. Visible
 > 
 > to the far west is what appears to be a forest or jungle that rims the
 > 
-> entire western horizon.  To the east, the roadway can be seen to lead into
+> entire western horizon. To the east, the roadway can be seen to lead into
 > 
 > a distant town square.
 > 
-> Exits: East  West  Up
+> Exits: East West Up
 
-It seems like that would allow clients to grab the vnum and then the title, description, and exits if desired.  Does that work?  Does it really help you guys to have brackets and such around the values?
+It seems like that would allow clients to grab the vnum and then the title, description, and exits if desired. Does that work? Does it really help you guys to have brackets and such around the values?
 
-> **Quote:**
+> <strong>Quote:</strong>
 > Teker is there a central teleport function, which could trigger a msdp room vnum update? I know currently all the variables spit out on a timer, but how hard would it be to have it update when it changes, i.e. when player teleports (i.e. tranfers via any method)?
 
-There is a function for adding a player/mobile to a room where it would make sense to refresh that information in MSDP.  I'm barely familiar with MSDP but I can look into it further to see if I could add something that doesn't break the clients.  I don't like the current structure of the MSDP data - I would prefer that we send down tables of data instead of lots of little pieces.  Instead of having ROOM_VNUM and ROOM_NAME, for example, we would have a single table called ROOM that would contain both values (and probably more).  Similar to how the GROUP table works now.
+There is a function for adding a player/mobile to a room where it would make sense to refresh that information in MSDP. I'm barely familiar with MSDP but I can look into it further to see if I could add something that doesn't break the clients. I don't like the current structure of the MSDP data - I would prefer that we send down tables of data instead of lots of little pieces. Instead of having ROOM\_VNUM and ROOM\_NAME, for example, we would have a single table called ROOM that would contain both values (and probably more). Similar to how the GROUP table works now.
 
 There will be a couple of text changes coming in the next reboot (not today's) to help in syncing the client.
 
-1) After entering a correct password:
+1\) After entering a correct password:
 
-Old: Password accepted.  Press return to continue...
+Old: Password accepted. Press return to continue...
 
-New: Welcome back [Character Name]!  Press return to continue...
+New: Welcome back [Character Name]! Press return to continue...
 
-2) After creating a new character:
+2\) After creating a new character:
 
 Old: New character creation complete!
 
-New: New character creation complete!  Welcome [Character_Name]!
+New: New character creation complete! Welcome [Character\_Name]!
 
 These will allow us to get the character name ahead of time so that we can load character specific settings into the client.
 
-3) When attempting to cast a spell that we don't know.
+3\) When attempting to cast a spell that we don't know.
 
 Old: Sorry, you can't do that.
 
-New: Sorry, you don't know how to [cast|play|sing] '[spell/song name]'.
+New: Sorry, you don't know how to [cast\|play\|sing] '[spell/song name]'.
 
 This will allow for the client to notify the group if the player can't cast 'visage' or other spells requested by the leader.
 
-> **Quote:**
+> <strong>Quote:</strong>
 > Off topic, but given splork's anxiety about displaying damage as part of the game, could they invisibly msdp it instead?
 
-We've discussed allowing players to see this data in some form but I don't think any progress has been made in that direction.  I'll see if I can remove an obstacle or two.
+We've discussed allowing players to see this data in some form but I don't think any progress has been made in that direction. I'll see if I can remove an obstacle or two.
 
 </div>
 
 <div class="post" data-post-id="38021" data-author="Gorka" data-date="2017-02-01T17:10:50+00:00" data-subject="Re: Mudlet 3.0.0-delta Mapper">
 
-> **Quote:**
+> <strong>Quote:</strong>
 > Room Vnum: 8000
 
 That will work... as long as it is unique was all I was asking for, I doubt any room descriptions have "Room Vnum:" in them. Just check it's not the name of next new epic... VnumVnumkpa
@@ -265,9 +263,9 @@ Like:
 
 West Gate [id:1234]
 
-West Gate **1234
+West Gate \*\*1234
 
-Just to avoid another line, since it adds little spam :)
+Just to avoid another line, since it adds little spam <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 But any variant works, since i could gag anything i dont want to see.
 
@@ -275,37 +273,37 @@ But any variant works, since i could gag anything i dont want to see.
 
 <div class="post" data-post-id="38023" data-author="*teker*" data-date="2017-02-01T22:45:56+00:00" data-subject="Re: Mudlet 3.0.0-delta Mapper">
 
-> **Quote:**
+> <strong>Quote:</strong>
 > West Gate [id:1234]
 
-I was thinking that long term it might be beneficial to do similar things with items - how would you match against this?  Originally I was thinking:
+I was thinking that long term it might be beneficial to do similar things with items - how would you match against this? Originally I was thinking:
 
-> **Quote:**
+> <strong>Quote:</strong>
 > Room Vnum: 8000: West Gate
 
-since that would be searchable by Room Vnum at the start of the line.  Is that easy enough for all of you to parse?  In Mudlet as a Perl RegEx it'd be "^Room Vnum: (.*): (.*)$" to put the vnum in matches[2] and the room name in matches[3].
+since that would be searchable by Room Vnum at the start of the line. Is that easy enough for all of you to parse? In Mudlet as a Perl RegEx it'd be "^Room Vnum: (.\*): (.\*)$" to put the vnum in matches[2] and the room name in matches[3].
 
 I did some playing around with MSDP and I have created a new variable (next reboot) called LOCATION that will send data in a structure that looks like this:
 
 LOCATION
 
-- CONTINENT
+\- CONTINENT
 
-- - VNUM
+\- - VNUM
 
-- - NAME
+\- - NAME
 
-- ZONE
+\- ZONE
 
-- - VNUM
+\- - VNUM
 
-- - NAME
+\- - NAME
 
-- ROOM
+\- ROOM
 
-- - VNUM
+\- - VNUM
 
-- - NAME
+\- - NAME
 
 It gets updated every time a player is placed into a room so I think it should be fairly accurate.
 
@@ -329,9 +327,7 @@ Room 8000: West Gate
 
 I don't see a need to put the word 'vnum' or a need for 2 colons. To me the word vnum is technical jargon and makes it even worse that we are displaying the room vnum. And I def agree with Filk that we don't want an extra line.
 
-**And WOW, I can't believe you made that msdp room table that updates on room change already! You rock!
-
-**
+<strong>And WOW, I can't believe you made that msdp room table that updates on room change already! You rock!</strong>
 
 If you made that, do we even need an option to display room vnum?
 
@@ -345,48 +341,48 @@ You could try using the MSDP table first. A single speedrun to another area echo
 
 <div class="post" data-post-id="38027" data-author="*teker*" data-date="2017-02-02T20:04:29+00:00" data-subject="Re: Mudlet 3.0.0-delta Mapper">
 
-> **Quote:**
+> <strong>Quote:</strong>
 > Room 8000: West Gate
 
 I like that also.
 
-> **Quote:**
+> <strong>Quote:</strong>
 > I doubt it will work, msdp just doesn't update fast enough.
 
-I'm optimistic that this new method will work better.  It's should be sending the MSDP info right after the room name/description show (or even if they don't show on teleport).  Since you can currently run 2 rooms between the MSDP updates (or more if falling), I can see how it would get out of sync.
+I'm optimistic that this new method will work better. It's should be sending the MSDP info right after the room name/description show (or even if they don't show on teleport). Since you can currently run 2 rooms between the MSDP updates (or more if falling), I can see how it would get out of sync.
 
-> **Quote:**
+> <strong>Quote:</strong>
 > Not sure, why you want vnum displaying for items tbh.
 
-At some point it'd be nice to be able to tell if there's a difference between a gray gemstone shard and another gray gemstone shard.  Or other items that can be forged/enchanted but don't change names.  And if we were to import the EQList into Mudlet (like I know some of you have) you would be able to pull correct stats on the items you're seeing.
+At some point it'd be nice to be able to tell if there's a difference between a gray gemstone shard and another gray gemstone shard. Or other items that can be forged/enchanted but don't change names. And if we were to import the EQList into Mudlet (like I know some of you have) you would be able to pull correct stats on the items you're seeing.
 
 </div>
 
 <div class="post" data-post-id="38029" data-author="Filk" data-date="2017-02-04T14:28:11+00:00" data-subject="Re: Mudlet 3.0.0-delta Mapper">
 
-Checked new location update. Its funny actually. Now its so fast, that its update even before you actually enter the room  :lol: 
+Checked new location update. Its funny actually. Now its so fast, that its update even before you actually enter the room <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> 
 
 Any pretyped moving do the same. Game counts you in some room along your pretyped moving, before sending you data about current room.
 
 ```
 Rose Bush
-Exits: East  South  West  * Rose Bush[89314]
+Exits: East South West * Rose Bush[89314]
 <907hp 1101ma 351mv>
 e
 e
 
 Magnolia
-Exits: East  South  West * Lower Path[89310]
+Exits: East South West * Lower Path[89310]
 
 <907hp 1101ma 352mv>
 
 Lower Path
-Exits: North  West  * Lower Path[89310]
+Exits: North West * Lower Path[89310]
 ```
 
 So it should be fixed to update self only after data about room entering was sent to player.
 
-Or we will be reverted back to idea of direct ingame room displaying :)
+Or we will be reverted back to idea of direct ingame room displaying <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Update1:
 
@@ -430,13 +426,13 @@ I'll do some more testing and try to figure out how to get around these two issu
 
 I've attached 3 files in LUA format that contain info about the Sloth world.
 
-- continents.txt is a list of the continents and their vnums
+\- continents.txt is a list of the continents and their vnums
 
-- 18-BalHarborTown.txt is a list of all the rooms and their exits in the zone
+\- 18-BalHarborTown.txt is a list of all the rooms and their exits in the zone
 
-- 8-TheDraconisSewers.txt is a list of all the rooms and their exits in the zone
+\- 8-TheDraconisSewers.txt is a list of all the rooms and their exits in the zone
 
-The data is stripped down (no room or exit descriptions, for example).  The rooms seem to have X,Y data in them already but I have no idea how good it is.  I've been loading the data into mudlet from the command line using the command "lua table.load("c:/temp/thenameofthefile.txt", nil)".  This creates a variable called World and put the data underneath it.  Right now it seems to delete the old data that's in there.
+The data is stripped down (no room or exit descriptions, for example). The rooms seem to have X,Y data in them already but I have no idea how good it is. I've been loading the data into mudlet from the command line using the command "lua table.load("c:/temp/thenameofthefile.txt", nil)". This creates a variable called World and put the data underneath it. Right now it seems to delete the old data that's in there.
 
 Let me know if you guys have any luck building maps from these and we can consider moving forward with more.
 
@@ -474,12 +470,12 @@ Most of the "strangeness" of my generated map is directly due to the absence of 
 
 <div class="post" data-post-id="38048" data-author="*teker*" data-date="2017-02-07T15:50:53+00:00" data-subject="Re: Mudlet 3.0.0-delta Mapper">
 
-> **Quote:**
+> <strong>Quote:</strong>
 > Hmm, where do we go from here Teker?
 
-In the short-term, I'm going to try to get the MSDP LOCATION fixed and get a base package for Mudlet posted on the web site.  I want to get something fairly simple out that we can test for new players.  My hope is that having a package with group related triggers will make it easier for groups to take on new players and make it more likely those new players will stick around.
+In the short-term, I'm going to try to get the MSDP LOCATION fixed and get a base package for Mudlet posted on the web site. I want to get something fairly simple out that we can test for new players. My hope is that having a package with group related triggers will make it easier for groups to take on new players and make it more likely those new players will stick around.
 
-Then I'll start looking at the mapper module.  Since there's no Z information in the files or database, I'll have to see how complicated that would be to create and maintain.  I can create a command to update the coordinate information once it's ready to store.  Then it's probably going to be a lot of manual work to go through and clean the data.
+Then I'll start looking at the mapper module. Since there's no Z information in the files or database, I'll have to see how complicated that would be to create and maintain. I can create a command to update the coordinate information once it's ready to store. Then it's probably going to be a lot of manual work to go through and clean the data.
 
 </div>
 
@@ -507,31 +503,31 @@ An Old WallThe Wall
 
 An Old Wall
 
-   A castle's moat leaves only a narrow strip of dry land at the foot of 
+ A castle's moat leaves only a narrow strip of dry land at the foot of 
 
-the stronghold's outer wall.  The wall is made of grey stones which used to 
+the stronghold's outer wall. The wall is made of grey stones which used to 
 
-be polished.  Now the shiny surface is marred by many cracks and cuts, none 
+be polished. Now the shiny surface is marred by many cracks and cuts, none 
 
 of them deep enough to be used as a handhold.
 
-Exits: East  West  
+Exits: East West 
 
 (Blue Aura) A squire travels the corridors, at ease for the first time in his young life.
 
-<1220hp 552ma 316mv 29650213585xp -0.5ac -%>
+\<1220hp 552ma 316mv 29650213585xp -0.5ac -%\>
 
 The Wall
 
-   The outer wall of a fortified castle and its moat leave only a narrow 
+ The outer wall of a fortified castle and its moat leave only a narrow 
 
-space between them.  That wall is at least thirty feet high, made of great 
+space between them. That wall is at least thirty feet high, made of great 
 
-blocks of grey stone.  The cracks between the stones are pencil-line thin, 
+blocks of grey stone. The cracks between the stones are pencil-line thin, 
 
 such a perfect fitting that it never required mortar.
 
-Exits: East  West  
+Exits: East West 
 
 (Blue Aura) A squire travels the corridors, at ease for the first time in his young life.
 

@@ -14,11 +14,11 @@ post_count: 24
 
 These are 2 possibly quite unrelated issues
 
-1) sometimes CHARACTER_STATISTICS goes crazy and reports *A LOT*
+1\) sometimes CHARACTER\_STATISTICS goes crazy and reports \*A LOT\*
 
 See - [https://imgur.com/KCRVzF6](https://imgur.com/KCRVzF6)
 
-each cyan dollar is an individual send of the complete msdp CHARACTER_STATISTICS data.
+each cyan dollar is an individual send of the complete msdp CHARACTER\_STATISTICS data.
 
 Here's an alternate view [https://pastebin.com/nZeXL6ib](https://pastebin.com/nZeXL6ib) 
 
@@ -30,7 +30,7 @@ I feel like there are times I've seen it not doing this so perhaps inconsistent.
 
 EDIT: this only seems to happen if I'm in a group with more than 1 person. if I'm the only one in a group I'm not seeing this crazy sending.
 
-2) sometimes CHARACTER_AFFECTS data stops getting sent to my char. 
+2\) sometimes CHARACTER\_AFFECTS data stops getting sent to my char. 
 
 BUT - other chars in same group may still be getting it (confirmed)
 
@@ -46,7 +46,7 @@ EDIT2: it also seems like the SEND msdp command doesn't work it just returns an 
 
 the freezing of msdp affects seems somehow related to items worn.
 
-by that i mean, when it is occurring, when it's having one of it's freezing episodes for lack of a better term, i can remove some items and msdp.CHARACTER_AFFECTS will resume reporting, and I can wear them again and it will stop reporting. i really can't get my head around because it's not one specific item but for example magma rings don't seem to do anything but removing things like instrument + soc, or the new mage belt from dk vk seem to have an impact where removing them will get regular reports again and wearing them will stop it.
+by that i mean, when it is occurring, when it's having one of it's freezing episodes for lack of a better term, i can remove some items and msdp.CHARACTER\_AFFECTS will resume reporting, and I can wear them again and it will stop reporting. i really can't get my head around because it's not one specific item but for example magma rings don't seem to do anything but removing things like instrument + soc, or the new mage belt from dk vk seem to have an impact where removing them will get regular reports again and wearing them will stop it.
 
 and then after a while the whole thing unfreezes regardless. I'll try get some more detailed tests done next time it locks up.
 
@@ -75,30 +75,30 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 $$$$$$$$$
 You get gold coins from on a ledge.
 There were 4.0K coins.
-You split 4.0K coins.  You keep 403 coins.
+You split 4.0K coins. You keep 403 coins.
 You get gold coins from on a ledge.
 There were 4.0K coins.
-You split 4.0K coins.  You keep 411 coins.
+You split 4.0K coins. You keep 411 coins.
 You get gold coins from on a ledge.
 There were 4.0K coins.
-You split 4.0K coins.  You keep 401 coins.
+You split 4.0K coins. You keep 401 coins.
 You get gold coins from on a ledge.
 There were 5.8K coins.
-You split 5.8K coins.  You keep 586 coins.
+You split 5.8K coins. You keep 586 coins.
 You get gold coins from on a ledge.
 There were 4.0K coins.
-You split 4.0K coins.  You keep 404 coins.
+You split 4.0K coins. You keep 404 coins.
 You get gold coins from on a ledge.
 There were 4.1K coins.
-You split 4.1K coins.  You keep 417 coins.
+You split 4.1K coins. You keep 417 coins.
 You get gold coins from on a ledge.
 There were 4.0K coins.
-You split 4.0K coins.  You keep 411 coins.
+You split 4.0K coins. You keep 411 coins.
 <1312hp 1542ma 297mv -% @76450>
 [2:25 pm] (overcast) -8 27341905847 -9.2
 ```
 
-rather extreme example in group today. group seemed to pause for 4 seconds while all all the updates to character_statistics came through. that's like 1,310 consecutive sends of the data
+rather extreme example in group today. group seemed to pause for 4 seconds while all all the updates to character\_statistics came through. that's like 1,310 consecutive sends of the data
 
 here's wireshark capture of a much smaller event just verifying it's actually coming from mud and not mudlet being weird [https://pastebin.com/gCcEwGcE](https://pastebin.com/gCcEwGcE)
 
@@ -108,21 +108,21 @@ EDIT: kind of interesting to note on the Wireshark capture that several of the v
 
 <div class="post" data-post-id="40050" data-author="*teker*" data-date="2023-06-07T00:55:41+00:00" data-subject="Re: msdp CHARACTER_STATISTICS, CHARACTER_AFFECTS">
 
-When I added those to the game I thought it would be more efficient to send them only when the data changes rather than on a regular interval like the older variables.  It sounds like you're seeing enough problems that maybe they should be switched back.  I took a quick glance at the code and I can understand why some of this may be happening.  I didn't imagine it would be this extreme.
+When I added those to the game I thought it would be more efficient to send them only when the data changes rather than on a regular interval like the older variables. It sounds like you're seeing enough problems that maybe they should be switched back. I took a quick glance at the code and I can understand why some of this may be happening. I didn't imagine it would be this extreme.
 
 </div>
 
 <div class="post" data-post-id="40051" data-author="cnl" data-date="2023-06-07T16:14:29+00:00" data-subject="Re: msdp CHARACTER_STATISTICS, CHARACTER_AFFECTS">
 
-CHARACTER_STATISTICS is the only one I've seen go crazy with over-reporting with the values bouncing about.
+CHARACTER\_STATISTICS is the only one I've seen go crazy with over-reporting with the values bouncing about.
 
 In general - I really like the ones that only report when something has changed.
 
-BEING IN GROUPS or room with BARD SONGS are the primary triggers I see for CHARACTER_STATISTICS.
+BEING IN GROUPS or room with BARD SONGS are the primary triggers I see for CHARACTER\_STATISTICS.
 
 I kind of implemented my own SEND operation for it where on a timer I can request REPORT, get a valid response, and then UNREPORT till timer hits again.
 
-CHARACTER_AFFECTS just seems to stop reporting sometimes, like it starts undergoing some kind of timeout. 
+CHARACTER\_AFFECTS just seems to stop reporting sometimes, like it starts undergoing some kind of timeout. 
 
 the number of certain types of eq like artifacts worn and the number of spells up seem to impact whether this will happen. I can trigger it pretty reliably. when it is occurring, switching to my shock gear and back is often enough to get an update or 2 to get through if my spell list has frozen.
 
@@ -130,32 +130,32 @@ the number of certain types of eq like artifacts worn and the number of spells u
 
 <div class="post" data-post-id="40052" data-author="Gorka" data-date="2023-06-07T18:48:59+00:00" data-subject="Re: msdp CHARACTER_STATISTICS, CHARACTER_AFFECTS">
 
-> ***teker* wrote:**
-> When I added those to the game I thought it would be more efficient to send them only when the data changes rather than on a regular interval like the older variables.  It sounds like you're seeing enough problems that maybe they should be switched back.  I took a quick glance at the code and I can understand why some of this may be happening.  I didn't imagine it would be this extreme.
+> <strong>\*teker\* wrote:</strong>
+> When I added those to the game I thought it would be more efficient to send them only when the data changes rather than on a regular interval like the older variables. It sounds like you're seeing enough problems that maybe they should be switched back. I took a quick glance at the code and I can understand why some of this may be happening. I didn't imagine it would be this extreme.
 
-Hey Teker, how far back would you be willing to switch the code...  :twisted: My offer of sharing all the bugs and exploits I found while playing still stands - to the person who might restore the game back to some sort of sanity where risk and reward made it worth playing - in the traditional way "games" are supposed to work. I still maintain the game has become pointless now with free mana, solo epics, death procs and practically free drachma on public holidays. Limitless drachma is free any day if you know how... towards the end, that actually became the most enjoyable part of the game, finding new exploits out of pure boredom, as I had already acquired everything legally... but it just got absurd when illegal exploits couldn't keep up with legal exploits... that's when I quit. It's a joke now... it's sad. I never wanted to see the game ruined like it is. But apart from bothering Idjit about his coin collection, why would I play anymore? Everything I worked for, for years was made available to new players in months, through over powering and sling shotting.
+Hey Teker, how far back would you be willing to switch the code... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> My offer of sharing all the bugs and exploits I found while playing still stands - to the person who might restore the game back to some sort of sanity where risk and reward made it worth playing - in the traditional way "games" are supposed to work. I still maintain the game has become pointless now with free mana, solo epics, death procs and practically free drachma on public holidays. Limitless drachma is free any day if you know how... towards the end, that actually became the most enjoyable part of the game, finding new exploits out of pure boredom, as I had already acquired everything legally... but it just got absurd when illegal exploits couldn't keep up with legal exploits... that's when I quit. It's a joke now... it's sad. I never wanted to see the game ruined like it is. But apart from bothering Idjit about his coin collection, why would I play anymore? Everything I worked for, for years was made available to new players in months, through over powering and sling shotting.
 
-There is a disease on EU that bugs CHARACTER_AFFECTS from memory. I forget which disease. I think some specific mob casted it, so I just stopped killing him on my runs. I suspected it might have been a special/reserved character issue, but it could just be malformed MSDP for that specific disease.
+There is a disease on EU that bugs CHARACTER\_AFFECTS from memory. I forget which disease. I think some specific mob casted it, so I just stopped killing him on my runs. I suspected it might have been a special/reserved character issue, but it could just be malformed MSDP for that specific disease.
 
 </div>
 
 <div class="post" data-post-id="40142" data-author="*teker*" data-date="2025-01-06T22:49:22+00:00" data-subject="Re: msdp CHARACTER_STATISTICS, CHARACTER_AFFECTS">
 
-Sorry it's been a while.  I've got some free time now so I'm starting to look at the code again.  Crashes and fixing exploits are likely to be my priorities.  Keep in mind that I've traditionally kept away from game play / balance decisions given that my highest mortal is only 4x40.
+Sorry it's been a while. I've got some free time now so I'm starting to look at the code again. Crashes and fixing exploits are likely to be my priorities. Keep in mind that I've traditionally kept away from game play / balance decisions given that my highest mortal is only 4x40.
 
 </div>
 
 <div class="post" data-post-id="40147" data-author="cnl" data-date="2025-02-07T19:48:53+00:00" data-subject="Re: msdp CHARACTER_STATISTICS, CHARACTER_AFFECTS">
 
-did you fix the CHARACTER_STATISTICS behavior? I turned it on for the first time in a long time today and noticed it wasn't going crazy - was just in a 2-man group though I guess I'll have to see in a larger group but if so thanks - that's awesome. i like being able to pulls things from it like AC and SAVES to display so that's great if it's workable again.
+did you fix the CHARACTER\_STATISTICS behavior? I turned it on for the first time in a long time today and noticed it wasn't going crazy - was just in a 2-man group though I guess I'll have to see in a larger group but if so thanks - that's awesome. i like being able to pulls things from it like AC and SAVES to display so that's great if it's workable again.
 
 </div>
 
 <div class="post" data-post-id="40150" data-author="*teker*" data-date="2025-02-12T15:48:58+00:00" data-subject="Re: msdp CHARACTER_STATISTICS, CHARACTER_AFFECTS">
 
-I did make a code change but I'm not sure that it's live.  The change is to make CHARACTER_STATISTICS report every 0.5 seconds rather than each time the value changes.
+I did make a code change but I'm not sure that it's live. The change is to make CHARACTER\_STATISTICS report every 0.5 seconds rather than each time the value changes.
 
-I suspect both of these could be spamming at mob death due to warcry.  The affects get updated every time warcry is reissued and each time a group member joins in.  The code removes the existing affect which creates a change and then adds a new affect which creates a second change event.  You'd definitely see the number of events increase with group size.
+I suspect both of these could be spamming at mob death due to warcry. The affects get updated every time warcry is reissued and each time a group member joins in. The code removes the existing affect which creates a change and then adds a new affect which creates a second change event. You'd definitely see the number of events increase with group size.
 
 </div>
 
@@ -163,7 +163,7 @@ I suspect both of these could be spamming at mob death due to warcry.  The affec
 
 huh. something else changed somewhere along the line then???
 
-at least for now the behavior of CHARACTER_STATISTICS appears to be behaving very well
+at least for now the behavior of CHARACTER\_STATISTICS appears to be behaving very well
 
 perhaps don't push out the new behavior yet - I'll monitor if it goes crazy again but it's being very minimal on the updates and not doing duplicates or thousands
 
@@ -179,9 +179,9 @@ Particularly related to the quests. Since the web site quest list seems to be br
 
 So I would like to propose two new commands:
 
-`look quests` - show quests of the current area: quest givers, rewards and whether they were completed by the player already. Hidden quests might be hidden using '*' symbol.
+\`look quests\` - show quests of the current area: quest givers, rewards and whether they were completed by the player already. Hidden quests might be hidden using '\*' symbol.
 
-`journal` - show the quests you undertook: quest givers, current state, etc. I heard there's potion of insight that does similar thing. But it costs drachma, which makes no sense.
+\`journal\` - show the quests you undertook: quest givers, current state, etc. I heard there's potion of insight that does similar thing. But it costs drachma, which makes no sense.
 
 </div>
 
@@ -205,8 +205,8 @@ Though frankly I'd allow see them without item even after valk. After all the si
 
 <div class="post" data-post-id="40172" data-author="Insomnia" data-date="2025-03-06T12:10:48+00:00" data-subject="Re: msdp CHARACTER_STATISTICS, CHARACTER_AFFECTS">
 
-> **Quote:**
-> I did make a code change but I'm not sure that it's live. The change is to make CHARACTER_STATISTICS report every 0.5 seconds rather than each time the value changes.
+> <strong>Quote:</strong>
+> I did make a code change but I'm not sure that it's live. The change is to make CHARACTER\_STATISTICS report every 0.5 seconds rather than each time the value changes.
 
 I never knew you could deploy changes without rebooting the game. But if that's possible, and if you're making more changes, you might want to know that the past three days have been pretty terrible with lag.
 
@@ -232,17 +232,17 @@ Fuligin (gossip): only seen this today?
 
 Slice (gossip): last few days, can check logs if its important
 
-*(Subduing mobs has become ten times harder and longer. Coincidentally, I’m on vacation and can afford to do it. But if I lose my Hawthorn streak, I’ll probably quit for a while.)*
+<em>(Subduing mobs has become ten times harder and longer. Coincidentally, I’m on vacation and can afford to do it. But if I lose my Hawthorn streak, I’ll probably quit for a while.)</em>
 
 </div>
 
 <div class="post" data-post-id="40173" data-author="*teker*" data-date="2025-03-09T02:59:47+00:00" data-subject="Re: msdp CHARACTER_STATISTICS, CHARACTER_AFFECTS">
 
-Regarding the code deployment, the changes I've made are not live and can't be live without a reboot.  Usually I let the game reboot/crash on its own rather than introduce an unscheduled reboot.  I see the game has been up for 33 days, so maybe it's time.  The tick "catchup" code hasn't been touched AFAIK.
+Regarding the code deployment, the changes I've made are not live and can't be live without a reboot. Usually I let the game reboot/crash on its own rather than introduce an unscheduled reboot. I see the game has been up for 33 days, so maybe it's time. The tick "catchup" code hasn't been touched AFAIK.
 
-CHARACTER_AFFECTS appears to be an issue with the MSDP variable exceeding 32k.  That seems really big but maybe some of you have purchased enough that it happens.  I haven't backed out the CHARACTER_STATISTICS changes so they should still go live at reboot.  I wonder if the size of these MSDP variables could be introducing some of the lag that is being seen.
+CHARACTER\_AFFECTS appears to be an issue with the MSDP variable exceeding 32k. That seems really big but maybe some of you have purchased enough that it happens. I haven't backed out the CHARACTER\_STATISTICS changes so they should still go live at reboot. I wonder if the size of these MSDP variables could be introducing some of the lag that is being seen.
 
-Regarding the quest requests, unfortunately it's not that simple.  The multipart quest chains are all set up as separate quests, so you'd likely get a list of quests that don't make sense or aren't doable because they require an item or something from a previous step that lives in another area.  I do agree that the quest framework needs rewritten - as a player it should be possible to view a list of discovered quests, the quester, the quest status, etc.  Same goes for forges.  I have a design for such a system but it's more likely to make it into a sloth-rewrite rather than the current code base.
+Regarding the quest requests, unfortunately it's not that simple. The multipart quest chains are all set up as separate quests, so you'd likely get a list of quests that don't make sense or aren't doable because they require an item or something from a previous step that lives in another area. I do agree that the quest framework needs rewritten - as a player it should be possible to view a list of discovered quests, the quester, the quest status, etc. Same goes for forges. I have a design for such a system but it's more likely to make it into a sloth-rewrite rather than the current code base.
 
 </div>
 
@@ -258,7 +258,7 @@ Is it just an idea or maybe it had been secretly been developed for a while?
 
 <div class="post" data-post-id="40175" data-author="*teker*" data-date="2025-03-10T00:42:46+00:00" data-subject="Re: msdp CHARACTER_STATISTICS, CHARACTER_AFFECTS">
 
-I've been thinking about it.  It's probably a multi-year project.
+I've been thinking about it. It's probably a multi-year project.
 
 </div>
 
@@ -286,7 +286,7 @@ this would greatly reduce the data sent but allow people visibility into their p
 
 <div class="post" data-post-id="40180" data-author="cnl" data-date="2025-03-18T06:30:16+00:00" data-subject="Re: msdp CHARACTER_STATISTICS, CHARACTER_AFFECTS">
 
-just to confirm with the changes that went in Monday reboot both CHARACTER_AFFECTS and CHARACTER_STATISTICS are working for me.
+just to confirm with the changes that went in Monday reboot both CHARACTER\_AFFECTS and CHARACTER\_STATISTICS are working for me.
 
 thank you!
 
@@ -296,17 +296,17 @@ thank you!
 
 Just a few more QoL suggestions:
 
-1. Show remaining time for  the each spell you are affected in the 'score'.
+1\. Show remaining time for the each spell you are affected in the 'score'.
 
-2. Format big numbers(gold, xp, honor, conquest) by separating thousands with commas. I.e. instead of "You have 1337319366 unused experience points.", show "You have 1,337,319,366 unused experience points."
+2\. Format big numbers(gold, xp, honor, conquest) by separating thousands with commas. I.e. instead of "You have 1337319366 unused experience points.", show "You have 1,337,319,366 unused experience points."
 
 </div>
 
 <div class="post" data-post-id="40183" data-author="cnl" data-date="2025-03-24T18:52:07+00:00" data-subject="Re: msdp CHARACTER_STATISTICS, CHARACTER_AFFECTS">
 
-1) see "sco affects2" or use the msdp variables
+1\) see "sco affects2" or use the msdp variables
 
-2) see "numformat" command or roll your own formatting with triggers/replacements
+2\) see "numformat" command or roll your own formatting with triggers/replacements
 
 </div>
 

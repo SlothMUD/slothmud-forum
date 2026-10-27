@@ -18,31 +18,31 @@ A skeleton of a female citizen claws a big oaf.
 
 A big oaf misses a skeleton of a female citizen with his crush.
 
-<41hp 124ma 88mv>
+\<41hp 124ma 88mv\>
 
 r
 
 You sit down and rest your tired bones.
 
-<41hp 124ma 88mv>
+\<41hp 124ma 88mv\>
 
 A skeleton of a female citizen misses a big oaf with its rake.
 
 A skeleton of a female citizen misses a big oaf with its claw.
 
-<-7hp 125ma 88mv>
+\<-7hp 125ma 88mv\>
 
 st
 
 You are in pretty bad shape, unable to do anything!
 
-<-7hp 125ma 88mv>
+\<-7hp 125ma 88mv\>
 
 You received 1 experience points.
 
 You have been KILLED!! 
 
-<-11hp 125ma 88mv>
+\<-11hp 125ma 88mv\>
 
 What killed me?
 
@@ -50,11 +50,11 @@ What killed me?
 
 <div class="post" data-post-id="3644" data-author="Leaf" data-date="2005-01-06T23:11:26+00:00" data-subject="">
 
-Oaf did.  
+Oaf did. 
 
-When you have your summons attack, the mob hates you.  They have a
+When you have your summons attack, the mob hates you. They have a
 
-smaller chance on hitting you, but because your resting.  The damage was
+smaller chance on hitting you, but because your resting. The damage was
 
 1.5 times more.
 

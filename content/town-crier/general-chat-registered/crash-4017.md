@@ -12,7 +12,7 @@ post_count: 11
 
 <div class="post" data-post-id="33962" data-author="Yasik" data-date="2013-02-04T16:34:56+00:00" data-subject="CRASH ?">
 
-~10 min ago, is it?
+\~10 min ago, is it?
 
 </div>
 
@@ -32,11 +32,11 @@ Dr
 
 <div class="post" data-post-id="33965" data-author="Yasik" data-date="2013-02-04T17:00:37+00:00" data-subject="Re: CRASH ?">
 
-Unable to connect to "SLOTH", code = 10060 (Connection **timed out**)
+Unable to connect to "SLOTH", code = 10060 (Connection <strong>timed out</strong>)
 
-Error occurred during phase: Connecting to world: *.*.*.*, port *
+Error occurred during phase: Connecting to world: \*.\*.\*.\*, port \*
 
-Unable to connect to "SLOTH", code = 10061 (Connection **refused**)
+Unable to connect to "SLOTH", code = 10061 (Connection <strong>refused</strong>)
 
 </div>
 
@@ -54,7 +54,7 @@ Better Homes and Dungeons or perhaps a copy of Adventurer's Digest
 
 Thanks.
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -68,9 +68,9 @@ Seems ok, is back to normal.
 
 Now it isnt again!
 
---- Disconnected on *, * 04, 2013, 7:30  ---
+\--- Disconnected on \*, \* 04, 2013, 7:30 ---
 
---- Connected for 0 days, 0 hours, 14 minutes, 24 seconds. ---
+\--- Connected for 0 days, 0 hours, 14 minutes, 24 seconds. ---
 
 </div>
 
@@ -82,22 +82,22 @@ datacenter was having power issues. should be sorted.
 
 <div class="post" data-post-id="33970" data-author="celerra7" data-date="2013-02-04T18:06:58+00:00" data-subject="Re: CRASH ?">
 
-Where's the data center?  New Orleans??
+Where's the data center? New Orleans??
 
- :lol:
+ <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="33971" data-author="*Breeze*" data-date="2013-02-04T20:16:01+00:00" data-subject="Re: CRASH ?">
 
-laugh.. not even close :)
+laugh.. not even close <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="34005" data-author="Yasik" data-date="2013-02-07T21:19:40+00:00" data-subject="Re: CRASH ?">
 
---- Disconnected on *, * 07, 2013, 11:17  ---
+\--- Disconnected on \*, \* 07, 2013, 11:17 ---
 
---- Connected for 0 days, 21 hours, 24 minutes, 18 seconds. ---
+\--- Connected for 0 days, 21 hours, 24 minutes, 18 seconds. ---
 
 </div>

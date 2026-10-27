@@ -12,7 +12,7 @@ post_count: 4
 
 <div class="post" data-post-id="15605" data-author="13" data-date="2006-12-12T05:16:55+00:00" data-subject="Spam">
 
-<814hp 220ma 266mv><779649603xp>
+\<814hp 220ma 266mv\>\<779649603xp\>
 
 Daedalus misses Ivan von Zelkham with his slice.
 
@@ -214,19 +214,19 @@ A Ju-Ju Zombie utters the words, 'zawsufuq hajqp'
 
 A Ju-Ju Zombie shivers with delight as it reaches out its hand and touches Ivan von Zelkham, draining his life essence and causing him to convulse.
 
-<815hp 220ma 267mv><779650569xp>
+\<815hp 220ma 267mv\>\<779650569xp\>
 
-Zukt -- 'Ouch..<899 / 1188 hp>  [-289] Lit:Aegis Wrt:NONE Fl:559  Need 289'
+Zukt -- 'Ouch..\<899 / 1188 hp\> [-289] Lit:Aegis Wrt:NONE Fl:559 Need 289'
 
 Doc utters the words, 'noselacri'
 
-<815hp 220ma 267mv><779650569xp>
+\<815hp 220ma 267mv\>\<779650569xp\>
 
 Chi utters the words, 'yfaghbarh'
 
 Ivan von Zelkham screams in pain as Chi's frostbolt freezes him.
 
-<815hp 220ma 267mv><779650569xp>
+\<815hp 220ma 267mv\>\<779650569xp\>
 
 Zuzu utters the words, 'yfaghbarh'
 
@@ -234,31 +234,31 @@ Ivan von Zelkham screams in pain as Zuzu's frostbolt freezes him.
 
 Hc sends a quick strike of his fist into Ivan von Zelkham's side.
 
-<816hp 221ma 267mv><779650569xp>
+\<816hp 221ma 267mv\>\<779650569xp\>
 
 Afea kicks Ivan von Zelkham in solar plexus, Ivan von Zelkham is rendered breathless.
 
 Madmax utters the words, 'pzar'
 
-<817hp 221ma 268mv><779650569xp>
+\<817hp 221ma 268mv\>\<779650569xp\>
 
 Kulum looks at Ivan von Zelkham.
 
-<817hp 221ma 268mv><779650569xp>
+\<817hp 221ma 268mv\>\<779650569xp\>
 
 Chi utters the words, 'yfaghbarh'
 
 Ivan von Zelkham screams in pain as Chi's frostbolt freezes him.
 
-<817hp 221ma 268mv><779650569xp>
+\<817hp 221ma 268mv\>\<779650569xp\>
 
 </div>
 
 <div class="post" data-post-id="15607" data-author="Autolycos" data-date="2006-12-12T13:16:17+00:00" data-subject="">
 
-[b:39rmy8hp]geez.... :shock:     here ya go!  a group of spam for your group of spam[/b:39rmy8hp] :twisted: 
+<strong>geez.... <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> here ya go! a group of spam for your group of spam</strong> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-[img:39rmy8hp]http://www.xgenco.com/stuff/spam.jpg[/img:39rmy8hp]
+![](http://www.xgenco.com/stuff/spam.jpg)
 
 </div>
 
@@ -266,7 +266,7 @@ Ivan von Zelkham screams in pain as Chi's frostbolt freezes him.
 
 two words: gag fight
 
-*smooch*
+\*smooch\*
 
 rebs
 

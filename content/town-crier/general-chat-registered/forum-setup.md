@@ -32,7 +32,7 @@ There seems to be a problem with the read/unread flags not getting updated.
 
 Dear Leaf,
 
-[img:1njenggi]http://www.uranther.com/funnypics/stfu.jpg[/img:1njenggi]
+![](http://www.uranther.com/funnypics/stfu.jpg)
 
 Love,
 

@@ -18,7 +18,7 @@ I am going to leave the game up until you guys start experiencing the above. Ple
 
 Enjoy the uptime!
 
-Nice job Teker, the KVP recode is definitely responsible for the added uptime!  I will run a memory debugger soon and see what I can find.
+Nice job Teker, the KVP recode is definitely responsible for the added uptime! I will run a memory debugger soon and see what I can find.
 
 </div>
 
@@ -36,7 +36,7 @@ I agree, thanks for all the hard work you did Teker.
 
 <div class="post" data-post-id="37359" data-author="*teker*" data-date="2016-09-18T15:06:04+00:00" data-subject="Re: Uptime">
 
-Thanks for all the kind words.  A lot of people have put a lot of effort into the current codebase and content and I feel fortunate to be able to be a part of that team!
+Thanks for all the kind words. A lot of people have put a lot of effort into the current codebase and content and I feel fortunate to be able to be a part of that team!
 
 </div>
 
@@ -62,15 +62,15 @@ I logged yesterday. Back to work next week, still sorting my life out a little.
 
 <div class="post" data-post-id="37385" data-author="*teker*" data-date="2016-10-03T03:39:21+00:00" data-subject="Re: Uptime">
 
-> **Gorka wrote:**
+> <strong>Gorka wrote:</strong>
 > Given the game is up for longer, can shopkeepers be adjusted accordingly? They are running out of coins. In the past we never had to wait 3 weeks for a reset to sell ioun stones...
 
-Is there some sort of preferred reboot interval?  I was going to reboot after 2 weeks but it was an off-Lyme chop day so I let it go.
+Is there some sort of preferred reboot interval? I was going to reboot after 2 weeks but it was an off-Lyme chop day so I let it go.
 
-> **Quote:**
+> <strong>Quote:</strong>
 > I also note that some keepers seem to have a varying amount of coins, and pay different prices for items, but in a way that I don't think is "by design" but more by "accident."
 
-Those are all configuration options and some of it is definitely by design.  I'm pretty sure the VK shopkeepers will pay more gold for items and generally sell items for less than other shops.  I always figured part of the strategy to get players off BH was to have the BH shops pay less than stores on other continents.
+Those are all configuration options and some of it is definitely by design. I'm pretty sure the VK shopkeepers will pay more gold for items and generally sell items for less than other shops. I always figured part of the strategy to get players off BH was to have the BH shops pay less than stores on other continents.
 
 </div>
 
@@ -80,15 +80,15 @@ I'll let others who play more frequently comment on reboots, two weeks sounds fi
 
 The biggest shop frustrations for me are these...
 
-* Island is so crap I don't even go. Potion seller for instance has coins for about 5 potions and that's it for reboot. (Not that I have problems selling potions - but still...)
+\* Island is so crap I don't even go. Potion seller for instance has coins for about 5 potions and that's it for reboot. (Not that I have problems selling potions - but still...)
 
-* AH town should probably have a gem merchant or another mob that buys tokens.
+\* AH town should probably have a gem merchant or another mob that buys tokens.
 
-* Items in shops that are sold under a certain price should disappear after a certain time frame.
+\* Items in shops that are sold under a certain price should disappear after a certain time frame.
 
-* Day 1-3 after reboots it can be difficult to sell anything, until keepers build up coins from ripping players off. It's not really a problem after 3 days or so.
+\* Day 1-3 after reboots it can be difficult to sell anything, until keepers build up coins from ripping players off. It's not really a problem after 3 days or so.
 
-* Listing 10 hexes takes 10mins due to pointless lag. If I have 100 tokens to relist... it's takes 1.5 hours to relist them.
+\* Listing 10 hexes takes 10mins due to pointless lag. If I have 100 tokens to relist... it's takes 1.5 hours to relist them.
 
 </div>
 
@@ -96,27 +96,27 @@ The biggest shop frustrations for me are these...
 
 About the reboots.
 
-1. Generally, it'd help to keep the game up as long as possible, because:
+1\. Generally, it'd help to keep the game up as long as possible, because:
 
-- shops get more unique items and cps
+\- shops get more unique items and cps
 
-- there are more corpses stored in the nooks
+\- there are more corpses stored in the nooks
 
-- there are more epics available
+\- there are more epics available
 
-- there are more choppers available.
+\- there are more choppers available.
 
 You could make a 2-weekly reboot schedule, starting on a Monday, but if we can safely run 3 weeks - why not?
 
-2. Then there are chop days.
+2\. Then there are chop days.
 
 An ideal scenario for a chop day would be to reboot on the 14th, so:
 
-- it doesn't crash on 15-16th and poof our specs/pops
+\- it doesn't crash on 15-16th and poof our specs/pops
 
-- we have time to pop specs
+\- we have time to pop specs
 
-- we have time for epics to spawn for chop.
+\- we have time for epics to spawn for chop.
 
 (I've discussed these lamentations with Ezekiel and Dr, so I'm speaking also for them.)
 
@@ -136,11 +136,11 @@ At that pace, the amount of gold shops had didn't make much difference.
 
 Now, with regular 2 week regular uptimes, we do need:
 
-- more gold on the shopkeepers, I see no point in limiting it, really - players do need gold
+\- more gold on the shopkeepers, I see no point in limiting it, really - players do need gold
 
-- no limit on items in shops, because the prices already scale
+\- no limit on items in shops, because the prices already scale
 
-- if there's a short limit on total items in store, they should disappear much faster.
+\- if there's a short limit on total items in store, they should disappear much faster.
 
 Currently, AH does have a jeweler - it's Five Hands, but he has only like 100k gold total. I suggest adding enough gold on him.
 
@@ -150,15 +150,15 @@ As a frequent seller, I'd also welcome the auctioneer improvement.
 
 One reason cited not to redo it was spam, so here's a suggestion:
 
-- accept all the items ASAP
+\- accept all the items ASAP
 
-- post the announcements out every minute
+\- post the announcements out every minute
 
 The alternative to anouncements is to make it more concise:
 
-- anounce the same items in brief say, eg, Gorka posted 21 tokens, from 70 to 80k min, 90-100k buyout
+\- anounce the same items in brief say, eg, Gorka posted 21 tokens, from 70 to 80k min, 90-100k buyout
 
-- or combine 3-5 different items in a single announcement done every 30 seconds
+\- or combine 3-5 different items in a single announcement done every 30 seconds
 
 You could count the time since the announcement and report the "auction is about to end" msgs in the same way you announce someone consigning them (ie, if you anounce 21 tokens in 1 msg, you say they are all going to end in 1 min in 1 msg).
 

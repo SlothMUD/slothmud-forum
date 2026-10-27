@@ -22,6 +22,6 @@ Change will be available on crash/reboot (after someone recompiles the code).
 
 Best regards.
 
-Pd. What you expected in a thread with that name?  Newbieeeeeeeeeeeee!
+Pd. What you expected in a thread with that name? Newbieeeeeeeeeeeee!
 
 </div>

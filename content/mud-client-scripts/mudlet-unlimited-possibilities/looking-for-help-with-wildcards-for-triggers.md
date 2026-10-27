@@ -14,7 +14,7 @@ post_count: 7
 
 I've been trying to play around with lua in mudlet but I'm having trouble finding a good list of wildcards to use with triggers. Does anyone have a link to such a list or could someone set me up with a few basic ones?
 
-I've seen people use things like (.*) and (/W+) etc but I'm not sure exactly what they're intended for.
+I've seen people use things like (.\*) and (/W+) etc but I'm not sure exactly what they're intended for.
 
 Thanks in advance,
 
@@ -38,7 +38,7 @@ http://wiki.mudlet.org/w/Manual:Contents
 
 I'm still terrible at it. I finally have some basic working scripts. I hope you get much better than me and post examples. I'm happy to post wutever examples I have upon request.
 
--J
+\-J
 
 </div>
 
@@ -78,7 +78,7 @@ break a leg
 
 <div class="post" data-post-id="34439" data-author="Akaya" data-date="2013-09-15T20:31:31+00:00" data-subject="Re: Looking for help with wildcards for triggers">
 
-> ***Breeze* wrote:**
+> <strong>\*Breeze\* wrote:</strong>
 > made this awhile back. 
 > 
 > no documentation on it tho. 

@@ -30,6 +30,6 @@ here on the forum or by emailing me neptune@slothmud.org . Also,
 
 Thanks!
 
--Neptune
+\-Neptune
 
 </div>

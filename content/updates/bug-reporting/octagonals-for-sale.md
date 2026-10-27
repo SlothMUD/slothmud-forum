@@ -28,7 +28,7 @@ Seems oct tokens are not 4 dr they're now 5 dr.
 
 I know the term 'reroll hell' is a very subjective term and views about what stats different players are happy with vary enormously but I'm not sure I expected the current situation when Splork explained and many of us applauded his view that reroll hell should come to an end with the start of this incarnation of Sloth.
 
-The way I see it now is that reroll hell is over, but only because getting tri tokens to get playable stats (70-75 total) is easy and quick to achieve, but  getting stats I would be happy with for the rest of the game and proud of is impossible due to the sheer lack of availablility of tokens to roll to get them.
+The way I see it now is that reroll hell is over, but only because getting tri tokens to get playable stats (70-75 total) is easy and quick to achieve, but getting stats I would be happy with for the rest of the game and proud of is impossible due to the sheer lack of availablility of tokens to roll to get them.
 
 (Are hex tokens really as sparse as they feel to me or is it just my perception?)
 
@@ -42,9 +42,10 @@ Right now I would actually like to be in reroll hell because I'd know that at th
 
 <div class="post" data-post-id="29222" data-author="jezer" data-date="2009-05-19T13:51:41+00:00" data-subject="">
 
-(as an aside I always get worried when jezer agrees with any of my posts ... makes me think I'm expressing an unreasonable point of view)[/quote:fy67i9vi]
+> <strong>Thraxas wrote:</strong>
+> (as an aside I always get worried when jezer agrees with any of my posts ... makes me think I'm expressing an unreasonable point of view)
 
-I'd get checked for swine flu if I were you... you know its contagious...  :shock: 
+I'd get checked for swine flu if I were you... you know its contagious... <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
 I'm indifferent about the new stats system... because tri are easy to come by, and you can get a playable roll out of 3 or 4 or even less tokens... I don't care if I'm still rolling at avatar... may as well just keep rolling forever until I get something awesome... the risk of bad stats is now inconsequential. Although I think rolling awesome stats (81+) is just as tough as the old sloth, thank goodness most rolls are now playable, so I figure I'll just roll forever until something awesome comes up.
 
@@ -114,7 +115,7 @@ Splork
 
 How comes it doesn't include lost conc on some rerolls? 
 
-:twisted: 
+<img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 p.s. I agree with Thraxas - this roll system is the best I've ever seen.
 

@@ -16,27 +16,27 @@ group
 
 Group 'luci!!!!!' consists of:
 
-   (Dead)        Lis [Ma:5.40  -63hp  14ma 195mv] ---
+ (Dead) Lis [Ma:5.40 -63hp 14ma 195mv] ---
 
-   (Dead)         Sa [Wa:5.40  -38hp   4ma 216mv] ---                           
+ (Dead) Sa [Wa:5.40 -38hp 4ma 216mv] --- 
 
-   (Dead)        Rub [Wa:5.40  -44hp  16ma 231mv] ---
+ (Dead) Rub [Wa:5.40 -44hp 16ma 231mv] ---
 
-   (Dead)     Dzyhar [Wa:3.33  -41hp  76ma 121mv] ---
+ (Dead) Dzyhar [Wa:3.33 -41hp 76ma 121mv] ---
 
-   (Dead)      Cizin [Th:4.36  -16hp   9ma 263mv] ---                           
+ (Dead) Cizin [Th:4.36 -16hp 9ma 263mv] --- 
 
-   (Dead)   Althalus [Th:4.38  -25hp   5ma 154mv] ---
+ (Dead) Althalus [Th:4.38 -25hp 5ma 154mv] ---
 
-   (Dead)      Truth [Ma:5.40  -17hp  32ma 188mv] ---
+ (Dead) Truth [Ma:5.40 -17hp 32ma 188mv] ---
 
-              Madmax [Cl:5.40  419hp  13ma 169mv] ---
+ Madmax [Cl:5.40 419hp 13ma 169mv] ---
 
--63hp 14ma 195mv 
+\-63hp 14ma 195mv 
 
 The 'improved haste' spell on you is about to wear off.
 
--63hp 14ma 195mv 
+\-63hp 14ma 195mv 
 
 ATTENTION: SlothMUD REBOOT in 1 minute! GET SAFE!
 
@@ -46,7 +46,7 @@ Lucifer, the dark angel really needs a good bath! Phew!
 
 840hp 724ma 195mv 
 
-Sa -- '[TANK] [ 1114 / 1114 ]hp  Healed!! +1152 [Need 0]'
+Sa -- '[TANK] [ 1114 / 1114 ]hp Healed!! +1152 [Need 0]'
 
 840hp 724ma 195mv 
 
@@ -144,7 +144,7 @@ Your blood freezes as you hear Lucifer, the dark angel's death cry.
 
 Truth gets gold coins from the corpse of Lucifer, the dark angel that's on the ground.
 
-Truth splits 2500000 coins.  Your share is 312500 coins.
+Truth splits 2500000 coins. Your share is 312500 coins.
 
 840hp 707ma 195mv
 
@@ -152,7 +152,7 @@ Truth splits 2500000 coins.  Your share is 312500 coins.
 
 <div class="post" data-post-id="23508" data-author="jezer" data-date="2008-03-30T14:58:41+00:00" data-subject="">
 
-Some real nice numbers in that log... but what surprised me the most is that you typed "cast 'disintegrate' luci " nearly out in full!  :shock: I for one would be dead by the time I accomplished that feat!  :twisted:
+Some real nice numbers in that log... but what surprised me the most is that you typed "cast 'disintegrate' luci " nearly out in full! <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> I for one would be dead by the time I accomplished that feat! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -164,18 +164,23 @@ What surprises me is that Madmax was alive and out of mana.
 
 <div class="post" data-post-id="23514" data-author="Yinao" data-date="2008-03-30T20:53:02+00:00" data-subject="">
 
-[quote:1xk1tbkg]What surprises me is that Madmax was alive and out of mana.[/quote:1xk1tbkg]
+> <strong>Quote:</strong>
+> What surprises me is that Madmax was alive and out of mana.
 
-Rofl, First thing I thought of as well  :wink:
+Rofl, First thing I thought of as well <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="23515" data-author="Autolycos" data-date="2008-03-30T22:46:49+00:00" data-subject="">
 
-[quote:12183h97]What surprises me is that Madmax was alive and out of mana.[/quote:12183h97]
+> <strong>Yinao wrote:</strong>
+> > <strong>Quote:</strong>
+> > What surprises me is that Madmax was alive and out of mana.
+> 
+> 
+> 
+> Rofl, First thing I thought of as well <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
-Rofl, First thing I thought of as well  :wink:[/quote:12183h97]
-
-still amusing ;)
+still amusing <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 </div>

@@ -72,7 +72,8 @@ I confirm Thraxas, it is indeed a side effect of dark cloak.
 
 <div class="post" data-post-id="30060" data-author="Thraxas" data-date="2009-09-27T20:55:21+00:00" data-subject="">
 
-I confirm Thraxas, it is indeed a side effect of dark cloak.[/quote:2mu06v9h]
+> <strong>Dragoth wrote:</strong>
+> I confirm Thraxas, it is indeed a side effect of dark cloak.
 
 what a bitch that is ... can you opt out of godsancs anywhere then?
 

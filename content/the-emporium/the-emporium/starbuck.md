@@ -14,7 +14,7 @@ post_count: 1
 
 Just a note to all that I no longer am in possession of the char Starbuck, nor do I have access to him or play him.
 
-I sold him to the char "Al" who happens to be my namesake :)
+I sold him to the char "Al" who happens to be my namesake <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 A note to the admin if you could update his wrapsheet plz.
 

@@ -34,7 +34,7 @@ In related news, the estate of Prescience is awaiting new cleric primes.
 
 <div class="post" data-post-id="35352" data-author="Popeye" data-date="2014-06-20T08:50:02+00:00" data-subject="Re: Prescience">
 
-> **Marvel wrote:**
+> <strong>Marvel wrote:</strong>
 > He said he quit the mud because of Popeye. /troll
 > 
 > 

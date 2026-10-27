@@ -16,9 +16,9 @@ Hello!
 
 Here's my suggestion to the website: 
 
-**a)** update Avatar Guide (+hp/ma/mv/hit/dam per level, new spells/skills and their corresponding improvements with avatar levels etc),
+<strong>a)</strong> update Avatar Guide (+hp/ma/mv/hit/dam per level, new spells/skills and their corresponding improvements with avatar levels etc),
 
-**b)** host this guide on reliable hosting place, because at this moment the guide in sticky topic in General Chat is unavailable.
+<strong>b)</strong> host this guide on reliable hosting place, because at this moment the guide in sticky topic in General Chat is unavailable.
 
 Thanks!
 
@@ -26,14 +26,14 @@ Thanks!
 
 <div class="post" data-post-id="34396" data-author="Tuck" data-date="2013-08-24T02:06:21+00:00" data-subject="Re: Avatar Guide">
 
-> **Yasik wrote:**
+> <strong>Yasik wrote:</strong>
 > Hello!
 > 
 > Here's my suggestion to the website: 
 > 
-> **a)** update Avatar Guide (+hp/ma/mv/hit/dam per level, new spells/skills and their corresponding improvements with avatar levels etc),
+> <strong>a)</strong> update Avatar Guide (+hp/ma/mv/hit/dam per level, new spells/skills and their corresponding improvements with avatar levels etc),
 > 
-> **b)** host this guide on reliable hosting place, because at this moment the guide in sticky topic in General Chat is unavailable.
+> <strong>b)</strong> host this guide on reliable hosting place, because at this moment the guide in sticky topic in General Chat is unavailable.
 > 
 > Thanks!
 

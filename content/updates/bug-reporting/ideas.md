@@ -18,8 +18,8 @@ monk skill to assist thief in a backstab, extra damage takes place 5 rounds or s
 
 bard prime gods of war avatar song that sings gods of war and also adds +10% healbonus or +10% spelldam depending on what the bard wants to sing
 
-a group gold area, please! soloing gold is just as annoying as soloing exp :)
+a group gold area, please! soloing gold is just as annoying as soloing exp <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
--Toxis
+\-Toxis
 
 </div>

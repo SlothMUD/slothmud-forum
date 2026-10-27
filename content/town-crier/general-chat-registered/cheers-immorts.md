@@ -18,7 +18,7 @@ I'd just like to say immorts u rock. reducing the stab rate by 50% is just great
 
 <div class="post" data-post-id="26518" data-author="Toxis" data-date="2008-10-01T12:49:22+00:00" data-subject="">
 
-The code is being tweaked, not to make stabs worse... but to make a part of stabbing better.  Please be patient while we try to work through this problem.
+The code is being tweaked, not to make stabs worse... but to make a part of stabbing better. Please be patient while we try to work through this problem.
 
 Thank You,
 
@@ -34,9 +34,9 @@ Cackle
 
 <div class="post" data-post-id="26520" data-author="Autolycos" data-date="2008-10-01T16:33:51+00:00" data-subject="">
 
-just wait!   eventually they'll figure out how to % the chance of getting your stabber stuck in a ribcage/back etc so that rescue fails and the thief gets shredded to death.
+just wait! eventually they'll figure out how to % the chance of getting your stabber stuck in a ribcage/back etc so that rescue fails and the thief gets shredded to death.
 
-ahhh improvements! never to be confused with fubar  ;)
+ahhh improvements! never to be confused with fubar <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -52,19 +52,20 @@ try not to be so alarmist, take a chill pill
 
 <div class="post" data-post-id="26522" data-author="Medios" data-date="2008-10-01T20:40:29+00:00" data-subject="">
 
-Funny that you guys bitch about thief overpower, then bitch when they get reduced.  I don't play my thief much anyways so nerf away.
+Funny that you guys bitch about thief overpower, then bitch when they get reduced. I don't play my thief much anyways so nerf away.
 
 </div>
 
 <div class="post" data-post-id="26524" data-author="Rynquald" data-date="2008-10-01T21:04:43+00:00" data-subject="">
 
-It was slightly jarring to start whiffing on almost every single stab right after last night's reboot, good to hear that it's still being tweaked :)
+It was slightly jarring to start whiffing on almost every single stab right after last night's reboot, good to hear that it's still being tweaked <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="26525" data-author="Alberich" data-date="2008-10-01T21:17:55+00:00" data-subject="">
 
-I don't play my thief much anyways so nerf away.[/quote:r7gghh9i]
+> <strong>Medios wrote:</strong>
+> I don't play my thief much anyways so nerf away.
 
 we'll turn you into a democrat yet!
 
@@ -88,14 +89,15 @@ So does this adjustment mean that I will wiff all the time when I go to grip now
 
 <div class="post" data-post-id="26611" data-author="Yasik2" data-date="2008-10-08T05:37:50+00:00" data-subject="Re: CHEERS IMMORTS">
 
-I'd just like to say immorts u rock. reducing the stab rate by 50% is just great. why dont u just make all the mobs nostab. a thief at 28hit almost whiffs 70% of the time now. we all salute u.the game has now been so much more fun to play.[/quote:3pfdsvas]
+> <strong>angel wrote:</strong>
+> I'd just like to say immorts u rock. reducing the stab rate by 50% is just great. why dont u just make all the mobs nostab. a thief at 28hit almost whiffs 70% of the time now. we all salute u.the game has now been so much more fun to play.
 
-[img:3pfdsvas]http://yasik.kiev.ua/4chan/Sarcasm.jpg[/img:3pfdsvas]
+![](http://yasik.kiev.ua/4chan/Sarcasm.jpg)
 
 </div>
 
 <div class="post" data-post-id="26614" data-author="angel" data-date="2008-10-08T06:13:23+00:00" data-subject="">
 
-:)
+<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

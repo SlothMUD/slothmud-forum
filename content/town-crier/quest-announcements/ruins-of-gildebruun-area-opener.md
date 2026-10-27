@@ -20,51 +20,43 @@ Not all equipment was loaded / given out.
 
 Group 'Lore and her Fierce Vanguard' is led by Lore and consists of:
 
-  (Point)         Cyprimus [Wa:9.40 1470hp 505ma 433mv] S Ruby | Ruby                 
+ (Point) Cyprimus [Wa:9.40 1470hp 505ma 433mv] S Ruby \| Ruby 
 
-  (Front)              War [Wa:6.34 1357hp 321ma 396mv] Jet | Jac                     
+ (Front) War [Wa:6.34 1357hp 321ma 396mv] Jet \| Jac 
 
-  (Front)             Skyv [Mo:9.40 1191hp 709ma 458mv] pdiamond                      
+ (Front) Skyv [Mo:9.40 1191hp 709ma 458mv] pdiamond 
 
-  (Front)             Arya [Wa:3.27 1181hp 160ma 308mv] Obsidian|GWDiamond            
+ (Front) Arya [Wa:3.27 1181hp 160ma 308mv] Obsidian\|GWDiamond 
 
-  (Front)            Jarad [Ne:0.20  165hp 197ma 110mv] ---
+ (Front) Jarad [Ne:0.20 165hp 197ma 110mv] ---
 
-  (Front)        Singerzoh [Ba:3.37  856hp 618ma 314mv] ---
+ (Front) Singerzoh [Ba:3.37 856hp 618ma 314mv] ---
 
- (Leader)             Lore [Ba:4.28  921hp 467ma 344mv] ALL BARD EQ BELONG TO ME      
+ (Leader) Lore [Ba:4.28 921hp 467ma 344mv] ALL BARD EQ BELONG TO ME 
 
-                  Surfnazi [Ma:8.33  956hp 1147ma 417mv] bonyx/tjade                
+ Surfnazi [Ma:8.33 956hp 1147ma 417mv] bonyx/tjade 
 
-   
+ Tuk [Ma:9.40 994hp 877ma 364mv] Sapphire Emerald 
 
-                       Tuk [Ma:9.40  994hp 877ma 364mv] Sapphire Emerald      
+ Vege [Wa:0.20 425hp 105ma 217mv] Hexes 
 
-                      Vege [Wa:0.20  425hp 105ma 217mv] Hexes                       
+ Sam [Wa:5.30 1054hp 668ma 396mv] sb pearl/gy topaz 
 
-  
+ Vasu [Ma:5.35 805hp 742ma 347mv] Tiger Eye \| Chrysoprase 
 
-                       Sam [Wa:5.30 1054hp 668ma 396mv] sb pearl/gy topaz           
+ Kort [Wa:3.30 1106hp 211ma 341mv] ---
 
-  
-
-                      Vasu [Ma:5.35  805hp 742ma 347mv] Tiger Eye | Chrysoprase     
-
-  
-
-                      Kort [Wa:3.30 1106hp 211ma 341mv] ---
-
- (Absent)            Cizin [Th:9.40 1335hp 557ma 485mv] ---
+ (Absent) Cizin [Th:9.40 1335hp 557ma 485mv] ---
 
 6 shimmering crystal tokens loaded onto various mobs. Here's a breakdown of what we faced (and eq named for mob may not actually load there - was just what was loaded on those mobs). I did not identify everything, but there are two forges in the area.
 
-lemure (astral plane), ~3-4M each
+lemure (astral plane), \~3-4M each
 
-horned devils ~21M each, coldhurt, galvanized cat-o-nine-tails
+horned devils \~21M each, coldhurt, galvanized cat-o-nine-tails
 
-harvester devil ~67M each - belt of devilish dreams
+harvester devil \~67M each - belt of devilish dreams
 
-hellfire hound ~450k each breathes fire across rooms
+hellfire hound \~450k each breathes fire across rooms
 
 Ma'alcherai, The Barbazu Captain - flaming sword proc (group proc), 75M
 
@@ -80,21 +72,21 @@ Tmechuol'rah, Hell's Forger - 73M
 
 I can forge:
 
- Cost      Item
+ Cost Item
 
-----------------------
+\----------------------
 
-+500000    a mottled broomstick
+\+500000 a mottled broomstick
 
-+1500000   the witch's broomstick
+\+1500000 the witch's broomstick
 
-----------------------
+\----------------------
 
-Cizin -- 'Requires: 1500000 coins, 1x a mottled broomstick,   1x an almandine 
+Cizin -- 'Requires: 1500000 coins, 1x a mottled broomstick, 1x an almandine 
 
 crystal ball, 1x the wand of demonic delight'
 
-Cizin -- 'broomstick , ac -0.6 , fly 1 , regen mana 2 , saving_Spell -3'
+Cizin -- 'broomstick , ac -0.6 , fly 1 , regen mana 2 , saving\_Spell -3'
 
 (held low) 4x40 restricts
 
@@ -110,9 +102,9 @@ AC-apply is -1.9
 
 Can affect you as:
 
-    Affects: UNDEAD_CONTROL by 1
+ Affects: UNDEAD\_CONTROL by 1
 
-    Affects: MANA by 15
+ Affects: MANA by 15
 
 Only those who are primary supreme necromancers, and have attained
 
@@ -122,39 +114,35 @@ supremacy in at least four classes may use this item.
 
 You spin the wheel of opportunity.
 
- 
+For Lore the wheel of opportunity spins 35.
 
-For       Lore the wheel of opportunity spins  35.
+For Reality the wheel of opportunity spins 323.
 
-For    Reality the wheel of opportunity spins 323.
+For Jarad the wheel of opportunity spins 45.
 
-For      Jarad the wheel of opportunity spins  45.
+For Kort the wheel of opportunity spins 23.
 
-For       Kort the wheel of opportunity spins  23.
+For Singerzoh the wheel of opportunity spins 172.
 
-For  Singerzoh the wheel of opportunity spins 172.
+For Arya the wheel of opportunity spins 6.
 
-For       Arya the wheel of opportunity spins   6.
+For Vege the wheel of opportunity spins 500.
 
-For       Vege the wheel of opportunity spins 500.
+For Cyprimus the wheel of opportunity spins 212.
 
-For   Cyprimus the wheel of opportunity spins 212.
+For Skyv the wheel of opportunity spins 39.
 
-For       Skyv the wheel of opportunity spins  39.
+For Vasu the wheel of opportunity spins 167.
 
-For       Vasu the wheel of opportunity spins 167.
+For Surfnazi the wheel of opportunity spins 114.
 
-For   Surfnazi the wheel of opportunity spins 114.
+For Sam the wheel of opportunity spins 338.
 
-For        Sam the wheel of opportunity spins 338.
+For War the wheel of opportunity spins 222.
 
-For        War the wheel of opportunity spins 222.
+For Cizin the wheel of opportunity spins 478.
 
-For      Cizin the wheel of opportunity spins 478.
-
-For        Tuk the wheel of opportunity spins  32.
-
- 
+For Tuk the wheel of opportunity spins 32.
 
 The winner is Vege with 500.
 
@@ -168,9 +156,9 @@ AC-apply is -0.5
 
 Can affect you as:
 
-    Affects: DAMROLL by 1
+ Affects: DAMROLL by 1
 
-    Affects: REDUCE_DAMAGE by 1
+ Affects: REDUCE\_DAMAGE by 1
 
 Only those who are at least supreme thieves, warriors, and monks, and have
 
@@ -186,6 +174,6 @@ You can take temp eq and choppers to Ruins of Gildebruun.
 
 Much thanks to Neptune for the new area and opener quest. Thanks to all for suffering through my inept leadership.
 
--Lore
+\-Lore
 
 </div>

@@ -12,9 +12,9 @@ post_count: 5
 
 <div class="post" data-post-id="8139" data-author="Leran" data-date="2005-08-04T02:53:16+00:00" data-subject="Equipment/Stat questions">
 
-I am new to this mud, and am currently playing a Ma/Mo/Cl/Dr.  I was curious about what items I should try to kit up with, since I know nothing about what's available to these classes (currently lvl 15/8/3/0, but xp isn't going so slow anymore).
+I am new to this mud, and am currently playing a Ma/Mo/Cl/Dr. I was curious about what items I should try to kit up with, since I know nothing about what's available to these classes (currently lvl 15/8/3/0, but xp isn't going so slow anymore).
 
-I was also curious about stats.  Does wearing +int eq when you level gain give you more mana?  And, what does wis affect?
+I was also curious about stats. Does wearing +int eq when you level gain give you more mana? And, what does wis affect?
 
 </div>
 
@@ -30,11 +30,11 @@ If your initial roll was lame or bad and your stats float all around 14 or less,
 
 Hi dex is nice to have, because it lowers your natural ac. With 18 dex you start from 6 ac instead of 10. For ac, the lower the better. If you have bad dex you will need to use the best armor you can find (see equipment list on the website for a lot of info). Armor and Stone Skin spells (or potions) give a great help with ac: armor is -2 ac; ss is -3, but they can't be stacked
 
-or used together. There is also iron skin, for -4, but that's an avatar spell.... long way to get it :P
+or used together. There is also iron skin, for -4, but that's an avatar spell.... long way to get it <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 As a mage prime, your natural weapon is magic, but magic (spells) depend on mana (which depends on int for max level and wis for regeneration rate). So keep your eye on mana and if you are low on mana, stay in a safe place to regen (or quaff a potion, but those can be expensive). You may (should) prepare yourself for a battle by memorizing some spells (help mem in game or see the mem stones section on website). Study all the spells you can learn, read the help on those and see what they are best for. (Freezing spells against ice monsters are not a smart choice as well as fire against fire creatures).
 
-Unfortunately you have no warrior in your classo... warrior's double attack is an enormous advantage in melee combat, since you hit twice per round and - on average - tend to deal twice the damage in  the same number of rounds (well a bit less since at low level double attack fails some times).
+Unfortunately you have no warrior in your classo... warrior's double attack is an enormous advantage in melee combat, since you hit twice per round and - on average - tend to deal twice the damage in the same number of rounds (well a bit less since at low level double attack fails some times).
 
 You have monk secondary, so your con and hp will benefit from it, you will absorb a bit more damage and might not depend on a weapon in combat.
 
@@ -46,7 +46,7 @@ For your equipment... get all you can. Look for +str equipment for better blows,
 
 Remeber: the shorter a match, the less damage you are likely to suffer, so hit hard and go for the eyes (hehe j/k).
 
-Ask around for decent mobs to fight... killing ferrets at your level is a waste of time and will bring you nowhere... going against berserkers is lethal and will bring you... down :P
+Ask around for decent mobs to fight... killing ferrets at your level is a waste of time and will bring you nowhere... going against berserkers is lethal and will bring you... down <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 And above all, have fun!
 
@@ -54,7 +54,7 @@ And above all, have fun!
 
 <div class="post" data-post-id="8141" data-author="Alberich" data-date="2005-08-04T10:44:26+00:00" data-subject="">
 
-well, for eq, the best idea is just spend some time looking over the eq list, checking restricts and such as you go - some of the nicer things will wind up being ridiculously hard to get, but you'll figure that out as you go :)
+well, for eq, the best idea is just spend some time looking over the eq list, checking restricts and such as you go - some of the nicer things will wind up being ridiculously hard to get, but you'll figure that out as you go <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 as for stats.. 
 
@@ -72,15 +72,15 @@ wis affects your mana regen/your chance to raise others
 
 <div class="post" data-post-id="8142" data-author="13" data-date="2005-08-04T11:05:35+00:00" data-subject="">
 
-It looks like a pretty solid class-order to me.  I would concentrate on spelldmg/handdmg.  As a mage/monk firewind and bare hands are your weapons.  When using tokens try not to keep a stat under 14 if you can help it.  Look into drachma.  Drachma is currecny with which you can buy very nice eq.  Ask shelda about quests for a starter :)
+It looks like a pretty solid class-order to me. I would concentrate on spelldmg/handdmg. As a mage/monk firewind and bare hands are your weapons. When using tokens try not to keep a stat under 14 if you can help it. Look into drachma. Drachma is currecny with which you can buy very nice eq. Ask shelda about quests for a starter <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="8143" data-author="12345" data-date="2005-08-04T11:19:29+00:00" data-subject="">
 
-One thing to keep in mind is that Sloth is dynamic and not level based.  For instance, you asked if higher int when leveling gave more mana.  This is both true and false.  Higher int will give you more mana.. up to about +30 mana or more for 18 int.  However, as soon as you take the int eq off, your mana will go back down again.  +Con equipment works the same way with hps.  Unlike some games where you load up with +con and +wis gear to level for high practices and high hps, that's not going to work here.
+One thing to keep in mind is that Sloth is dynamic and not level based. For instance, you asked if higher int when leveling gave more mana. This is both true and false. Higher int will give you more mana.. up to about +30 mana or more for 18 int. However, as soon as you take the int eq off, your mana will go back down again. +Con equipment works the same way with hps. Unlike some games where you load up with +con and +wis gear to level for high practices and high hps, that's not going to work here.
 
-I guess what I'm trying to say is that you don't need leveling gear, if that's what you're looking for.  Many folks will carry around reading gear, to give them 18 int while studying.  Many will also have AC gear for tanking/soloing.  Mages tend to lug around a lot of +mana regen, +mana and +spelldam gear.  At higher levels, when you have mirrors and winds, AC won't be as important, simply because you'll rely on your mirrors and quick kills.  I know several mages who have positive AC, and perhaps one can comment on how to play like that.
+I guess what I'm trying to say is that you don't need leveling gear, if that's what you're looking for. Many folks will carry around reading gear, to give them 18 int while studying. Many will also have AC gear for tanking/soloing. Mages tend to lug around a lot of +mana regen, +mana and +spelldam gear. At higher levels, when you have mirrors and winds, AC won't be as important, simply because you'll rely on your mirrors and quick kills. I know several mages who have positive AC, and perhaps one can comment on how to play like that.
 
 Definately learn to mem.
 

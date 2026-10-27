@@ -36,22 +36,22 @@ Alias
 
 <div class="post" data-post-id="12340" data-author="Mystery" data-date="2006-04-23T17:31:10+00:00" data-subject="bad reboot?">
 
-Anyone wanna second Jezer being nerfed? :twisted:
+Anyone wanna second Jezer being nerfed? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="12341" data-author="jezer" data-date="2006-04-23T23:52:59+00:00" data-subject="">
 
-Don't mess with me, or I'll bash ya!  :twisted: 
+Don't mess with me, or I'll bash ya! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-[img:324uhnxg]http://www.davidmsc.com/wp-images/nerd.jpg[/img:324uhnxg]
+![](http://www.davidmsc.com/wp-images/nerd.jpg)
 
 </div>
 
 <div class="post" data-post-id="12342" data-author="Mystery" data-date="2006-04-24T02:43:33+00:00" data-subject="bad reboot?">
 
-[img:1awl0wwp]http://ultimanerf.tripod.com/abnowar2.JPG[/img:1awl0wwp]
+![](http://ultimanerf.tripod.com/abnowar2.JPG)
 
-Bring it...  :twisted:
+Bring it... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

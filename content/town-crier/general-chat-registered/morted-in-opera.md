@@ -24,21 +24,22 @@ oh well, corpsed.
 
 <div class="post" data-post-id="30408" data-author="orange" data-date="2009-12-04T01:01:34+00:00" data-subject="">
 
-how do i start to play this game :?:  :?:  :?:  :?:  :?:  :?:  :?:
+how do i start to play this game <img src="/images/smilies/icon_question.svg" alt=":?:" title=":?:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_question.svg" alt=":?:" title=":?:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_question.svg" alt=":?:" title=":?:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_question.svg" alt=":?:" title=":?:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_question.svg" alt=":?:" title=":?:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_question.svg" alt=":?:" title=":?:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_question.svg" alt=":?:" title=":?:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="30409" data-author="Thraxas" data-date="2009-12-04T14:06:06+00:00" data-subject="how do i start to play this game :?:">
 
-how do i start to play this game :?:  :?:  :?:  :?:  :?:  :?:  :?:[/quote:8kk3mvvl]
+> <strong>orange wrote:</strong>
+> how do i start to play this game <img src="/images/smilies/icon_question.svg" alt=":?:" title=":?:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_question.svg" alt=":?:" title=":?:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_question.svg" alt=":?:" title=":?:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_question.svg" alt=":?:" title=":?:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_question.svg" alt=":?:" title=":?:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_question.svg" alt=":?:" title=":?:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_question.svg" alt=":?:" title=":?:" width="15" height="15" class="smiley nozoom">
 
 Perhaps an answer to this question could be stickied?
 
-In answer : Slothmud is a text based multiplayer game. typically you walk around the world using n s e w u and d for direction, and interact with players through gossip say newbie commands and monsters (mobs) using con(sider) and kill then you loot their corpses (get all corpse) spend gold in shops (list and buy <>)
+In answer : Slothmud is a text based multiplayer game. typically you walk around the world using n s e w u and d for direction, and interact with players through gossip say newbie commands and monsters (mobs) using con(sider) and kill then you loot their corpses (get all corpse) spend gold in shops (list and buy \<\>)
 
-You can see your inventory with i and status with sc, you can wear equiment found on mobs or purchased (wear <> or remove <>) to improve your status e.g. stats armor class etc.
+You can see your inventory with i and status with sc, you can wear equiment found on mobs or purchased (wear \<\> or remove \<\>) to improve your status e.g. stats armor class etc.
 
-you can learn skills & spells, gain levels and increase your damage spelldamage hit points (hp) and mana (ma) that is used cast spells.
+you can learn skills \& spells, gain levels and increase your damage spelldamage hit points (hp) and mana (ma) that is used cast spells.
 
 asking questions on the newbie channel or gossip channel e.g. newbie how do I get a better weapon? normally gets lots of assistance from other players.
 
@@ -52,12 +53,17 @@ Thraxas
 
 <div class="post" data-post-id="30426" data-author="jezer" data-date="2009-12-06T08:57:22+00:00" data-subject="Re: how do i start to play this game :?:">
 
-Perhaps an answer to this question could be stickied?
+> <strong>Thraxas wrote:</strong>
+> Perhaps an answer to this question could be stickied?
+> 
+> 
+> 
+> feel free to ask any further questions here or in game,
+> 
+> 
+> 
+> Thraxas
 
-feel free to ask any further questions here or in game,
-
-Thraxas[/quote:22kfw8lf]
-
-T, where do babies come from? :|
+T, where do babies come from? <img src="/images/smilies/icon_neutral.svg" alt=":|" title=":|" width="15" height="15" class="smiley nozoom">
 
 </div>

@@ -18,7 +18,7 @@ Fyrstenheart has relinquished his av char to me bc he has 4 other chars and gave
 
 <div class="post" data-post-id="14720" data-author="Weasel" data-date="2006-10-22T20:49:54+00:00" data-subject="">
 
-waves Fyrstenheart and thanks for the generosity, and gratz Dikus :)
+waves Fyrstenheart and thanks for the generosity, and gratz Dikus <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

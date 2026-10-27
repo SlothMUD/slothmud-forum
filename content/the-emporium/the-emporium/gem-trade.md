@@ -180,6 +180,6 @@ Zircon x4
 
 Fire Opal x1
 
-I'm interested in buying T1s if you have some that are unwanted.  In general, thief and flail gems aren't of use to me.
+I'm interested in buying T1s if you have some that are unwanted. In general, thief and flail gems aren't of use to me.
 
 </div>

@@ -12,15 +12,15 @@ post_count: 6
 
 <div class="post" data-post-id="30909" data-author="Marvel" data-date="2010-02-20T01:32:13+00:00" data-subject="Guide for Newbies">
 
-I've been working on a website for newbies to read up about Sloth and it has information on a variety of newbie issues.  I've only finished the first part ("Beginner") level.  I have logs and plans for "Advanced" and "Expert" levels (which will teach about the more 'advanced' skills/commands/features of Sloth).
+I've been working on a website for newbies to read up about Sloth and it has information on a variety of newbie issues. I've only finished the first part ("Beginner") level. I have logs and plans for "Advanced" and "Expert" levels (which will teach about the more 'advanced' skills/commands/features of Sloth).
 
-I'm hoping this will be an useful resource for new players - please feel free to leave feedback either on this forum or via email.  :twisted: 
+I'm hoping this will be an useful resource for new players - please feel free to leave feedback either on this forum or via email. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-[url:2x7xradc]http://www.nicklong.net/sloth/[/url:2x7xradc]
+http://www.nicklong.net/sloth/
 
 Thanks!
 
--Novel/Marvel/Sirius/(a bunch of other Valkers)
+\-Novel/Marvel/Sirius/(a bunch of other Valkers)
 
 </div>
 
@@ -42,7 +42,7 @@ Maybe you could make a link to this site with the tag free online rpg game? It h
 
 <div class="post" data-post-id="30912" data-author="Toxis" data-date="2010-02-20T13:07:19+00:00" data-subject="">
 
-I can think of no one else who shall be named KING OF NEWBIES! :)~
+I can think of no one else who shall be named KING OF NEWBIES! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">\~
 
 That's some pretty amazing work.
 
@@ -52,11 +52,11 @@ I also laughed out loud (lol for you younger folk) when I saw the rooster as we 
 
 <div class="post" data-post-id="30913" data-author="Marvel" data-date="2010-02-20T13:28:30+00:00" data-subject="">
 
-Thanks for the feedback & kind words - and thanks for the link suggestion, can't believe I forgot to link to slothmud itself completely!  :lol: 
+Thanks for the feedback \& kind words - and thanks for the link suggestion, can't believe I forgot to link to slothmud itself completely! <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> 
 
 More to come when I get the time - there's a lot more that I'm going to add in there, but for the most part, I'm going to limit these pages up to level 20 with some suggestions for beyond that (but I will still be describing the concepts for some skills / spells that are beyond level 20, such as teaching, since that directly benefits new players).
 
-Please feel free to point out any errors or any additions that you may want to see made.  Here's a preliminary list of the topics that will be covered later on (the adventures of Cid will follow its own path) - each will be sorted into their approriate levels.  I also plan on adding some class-specific guides after all of the below have been completed:
+Please feel free to point out any errors or any additions that you may want to see made. Here's a preliminary list of the topics that will be covered later on (the adventures of Cid will follow its own path) - each will be sorted into their approriate levels. I also plan on adding some class-specific guides after all of the below have been completed:
 
 Regeneration
 
@@ -68,7 +68,7 @@ Indoor/Outdoor
 
 Day/Night
 
-Bonus Days & Astrology
+Bonus Days \& Astrology
 
 Attunement / Charms / Teaching / Peristratas / Shards
 
@@ -90,7 +90,7 @@ Rafts
 
 Repops / Spirit Watchers / Timing
 
-Shapeshifting & Its Quirks
+Shapeshifting \& Its Quirks
 
 Continents / Boats / Schedules
 
@@ -106,9 +106,9 @@ World Exploration
 
 Scripting
 
-Devaks & Etc.
+Devaks \& Etc.
 
-Moon Aura & Other Mass Spells
+Moon Aura \& Other Mass Spells
 
 Chopping
 
@@ -116,7 +116,7 @@ Clans
 
 Vaults / Lockers
 
-Higher Level Skills & Spells
+Higher Level Skills \& Spells
 
 Spellbooks
 
@@ -186,14 +186,14 @@ Mail, Check, Receive, Read, Write, Send
 
 To see this help file:
 
-  help
+ help
 
 To see further information on topics above:
 
-  help <keyword>
+ help \<keyword\>
 
 To see a full list of commands:
 
-  commands
+ commands
 
 </div>

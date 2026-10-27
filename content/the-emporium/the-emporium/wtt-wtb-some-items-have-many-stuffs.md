@@ -56,7 +56,7 @@ If you have something what I need, feel free to make a deal...
 
 Catch me online.
 
-Thanks for reading long worthless post ...  :cry: 
+Thanks for reading long worthless post ... <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> 
 
 Gul.
 

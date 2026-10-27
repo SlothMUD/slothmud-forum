@@ -12,423 +12,423 @@ post_count: 61
 
 <div class="post" data-post-id="34253" data-author="cyprimus" data-date="2013-04-23T23:06:02+00:00" data-subject="gems for trade/sale">
 
-Trying to clear some vault space.  I have the following;
+Trying to clear some vault space. I have the following;
 
 make offers in forum please. NOT in game.
 
-#11 : a Lapus Lazuli
+\#11 : a Lapus Lazuli
 
-#12 : a Zircon
+\#12 : a Zircon
 
-#13 : a Quartz
+\#13 : a Quartz
 
-#14 : a Quartz
+\#14 : a Quartz
 
-#16 : a Chalcedony
+\#16 : a Chalcedony
 
-#17 : a Aventurine
+\#17 : a Aventurine
 
-#18 : a Amber
+\#18 : a Amber
 
-#19 : a Brilliant Green Garnet
+\#19 : a Brilliant Green Garnet
 
 a Freshwater Pearl
 
 a Moss Agate
 
-# 5 : a Peridot
+\# 5 : a Peridot
 
-# 6 : a Bloodstone
+\# 6 : a Bloodstone
 
-# 7 : a Banded Agate
+\# 7 : a Banded Agate
 
-# 8 : a Alexandrite
+\# 8 : a Alexandrite
 
-# 9 : a Hematite
+\# 9 : a Hematite
 
-#10 : a Deep Blue Spinel
+\#10 : a Deep Blue Spinel
 
-#13 : a Bloodstone
+\#13 : a Bloodstone
 
-#14 : a Peridot
+\#14 : a Peridot
 
-#19 : Amber Rune
+\#19 : Amber Rune
 
-# 3 : a Azurite
+\# 3 : a Azurite
 
-# 4 : a Lapus Lazuli
+\# 4 : a Lapus Lazuli
 
-# 5 : a Brown Red Spinel
+\# 5 : a Brown Red Spinel
 
-# 6 : a Eye Agate
+\# 6 : a Eye Agate
 
-# 7 : a Jade
+\# 7 : a Jade
 
-# 8 : a Lapus Lazuli
+\# 8 : a Lapus Lazuli
 
-# 9 : a Blue Star Sapphire
+\# 9 : a Blue Star Sapphire
 
-#12 : a Bloodstone
+\#12 : a Bloodstone
 
-#13 : a Sadonyx
+\#13 : a Sadonyx
 
-#14 : a Brown Red Spinel
+\#14 : a Brown Red Spinel
 
-#15 : a Ruby
+\#15 : a Ruby
 
-#16 : a Blue Star Sapphire
+\#16 : a Blue Star Sapphire
 
-#17 : Citrine Rune
+\#17 : Citrine Rune
 
-#18 : a Coral
+\#18 : a Coral
 
-#19 : a Salmon Pink Garnet
+\#19 : a Salmon Pink Garnet
 
-# 1 : a Hematite
+\# 1 : a Hematite
 
-# 2 : a Blue Quartz
+\# 2 : a Blue Quartz
 
-# 3 : a Deep Blue Spinel
+\# 3 : a Deep Blue Spinel
 
-# 4 : a Hematite
+\# 4 : a Hematite
 
-# 5 : a Water Opal
+\# 5 : a Water Opal
 
-# 6 : a Zircon
+\# 6 : a Zircon
 
-# 7 : a Hematite
+\# 7 : a Hematite
 
-# 8 : a Chalcedony
+\# 8 : a Chalcedony
 
-# 9 : a Dark Green Spinel
+\# 9 : a Dark Green Spinel
 
-#10 : a Carnelian
+\#10 : a Carnelian
 
-#11 : Aquamarine Rune
+\#11 : Aquamarine Rune
 
-#12 : a Banded Agate
+\#12 : a Banded Agate
 
-#14 : Chrysoberyl Rune
+\#14 : Chrysoberyl Rune
 
-#15 : a Brilliant Green Garnet
+\#15 : a Brilliant Green Garnet
 
-#16 : a Brown Red Spinel
+\#16 : a Brown Red Spinel
 
-#17 : a Citrine
+\#17 : a Citrine
 
-#19 : a Opal
+\#19 : a Opal
 
-#20 : a Jade
+\#20 : a Jade
 
-# 1 : a Tiger Eye
+\# 1 : a Tiger Eye
 
-# 2 : a Chalcedony
+\# 2 : a Chalcedony
 
-# 3 : a Chalcedony
+\# 3 : a Chalcedony
 
-# 4 : a Moss Agate
+\# 4 : a Moss Agate
 
-# 5 : a Orange Zircon
+\# 5 : a Orange Zircon
 
-# 6 : a Moonstone
+\# 6 : a Moonstone
 
-# 8 : a Brown Red Spinel
+\# 8 : a Brown Red Spinel
 
-# 9 : a Sardonyx
+\# 9 : a Sardonyx
 
-#10 : a Coral
+\#10 : a Coral
 
-#11 : a Brilliant Green Garnet
+\#11 : a Brilliant Green Garnet
 
-#12 : a Hematite
+\#12 : a Hematite
 
-#13 : a Jasper
+\#13 : a Jasper
 
-#14 : a Quartz
+\#14 : a Quartz
 
-#15 : a Quartz
+\#15 : a Quartz
 
-#16 : a Moss Agate
+\#16 : a Moss Agate
 
-#17 : a Orange Zircon
+\#17 : a Orange Zircon
 
-#18 : a Opal
+\#18 : a Opal
 
-#19 : a Chalcedony
+\#19 : a Chalcedony
 
-#20 : a Red Spinel
+\#20 : a Red Spinel
 
-# 1 : a Banded Agate
+\# 1 : a Banded Agate
 
-# 2 : a Quartz
+\# 2 : a Quartz
 
-# 3 : a Deep Blue Spinel
+\# 3 : a Deep Blue Spinel
 
-# 4 : a Tiger Eye
+\# 4 : a Tiger Eye
 
-# 6 : a Moss Agate
+\# 6 : a Moss Agate
 
-# 7 : a Blue Quartz
+\# 7 : a Blue Quartz
 
-# 8 : a Rock Crystal Quartz
+\# 8 : a Rock Crystal Quartz
 
-# 9 : a Quartz
+\# 9 : a Quartz
 
-#10 : a Blue Quartz
+\#10 : a Blue Quartz
 
-#12 : a Amethyst
+\#12 : a Amethyst
 
-#14 : a Opal
+\#14 : a Opal
 
-#15 : a Pearl
+\#15 : a Pearl
 
-#16 : a Pale Golden Pearl
+\#16 : a Pale Golden Pearl
 
-#17 : a Pale Golden Pearl
+\#17 : a Pale Golden Pearl
 
-#18 : a Moss Agate
+\#18 : a Moss Agate
 
-#19 : a Jade
+\#19 : a Jade
 
-# 1 : a Blue Star Sapphire
+\# 1 : a Blue Star Sapphire
 
-# 2 : a Bloodstone
+\# 2 : a Bloodstone
 
-# 3 : a Lapus Lazuli
+\# 3 : a Lapus Lazuli
 
-# 4 : a Salmon Pink Garnet
+\# 4 : a Salmon Pink Garnet
 
-# 5 : a Moonstone
+\# 5 : a Moonstone
 
-# 6 : a Smokey Quartz
+\# 6 : a Smokey Quartz
 
-# 7 : a Carnelian
+\# 7 : a Carnelian
 
-# 8 : a Dark Green Spinel
+\# 8 : a Dark Green Spinel
 
-# 9 : a Opal
+\# 9 : a Opal
 
-#10 : a Water Opal
+\#10 : a Water Opal
 
-#12 : a Silvery Blue Pearl
+\#12 : a Silvery Blue Pearl
 
-#13 : a Pale Golden Pearl
+\#13 : a Pale Golden Pearl
 
-#14 : a Blue Star Sapphire
+\#14 : a Blue Star Sapphire
 
-#15 : a Dark Green Spinel
+\#15 : a Dark Green Spinel
 
-#16 : a Quartz
+\#16 : a Quartz
 
-#17 : a Brown Red Spinel
+\#17 : a Brown Red Spinel
 
-#18 : a Red Spinel
+\#18 : a Red Spinel
 
-#19 : a Colorless Sapphire
+\#19 : a Colorless Sapphire
 
-#20 : a Blue Quartz
+\#20 : a Blue Quartz
 
-# 1 : a Jade
+\# 1 : a Jade
 
-# 2 : a Moonstone
+\# 2 : a Moonstone
 
-# 3 : a Peridot
+\# 3 : a Peridot
 
-# 4 : a Peridot
+\# 4 : a Peridot
 
-# 5 : a Salmon Pink Garnet
+\# 5 : a Salmon Pink Garnet
 
-# 6 : a Quartz
+\# 6 : a Quartz
 
-# 8 : a Dark Green Spinel
+\# 8 : a Dark Green Spinel
 
-# 9 : a Moss Agate
+\# 9 : a Moss Agate
 
-#10 : a Smokey Quartz
+\#10 : a Smokey Quartz
 
-#11 : a Dark Green Spinel
+\#11 : a Dark Green Spinel
 
-#12 : a Rock Crystal Quartz
+\#12 : a Rock Crystal Quartz
 
-#13 : a Chalcedony
+\#13 : a Chalcedony
 
-#14 : a Hematite
+\#14 : a Hematite
 
-#15 : a Sapphire
+\#15 : a Sapphire
 
-#16 : a Deep Blue Spinel
+\#16 : a Deep Blue Spinel
 
-#17 : a Banded Agate
+\#17 : a Banded Agate
 
-#20 : a Tourmaline
+\#20 : a Tourmaline
 
-# 1 : a Eye Agate
+\# 1 : a Eye Agate
 
-# 2 : a Blue Quartz
+\# 2 : a Blue Quartz
 
-# 3 : a Eye Agate
+\# 3 : a Eye Agate
 
-# 4 : a Brilliant Green Garnet
+\# 4 : a Brilliant Green Garnet
 
-# 5 : a Dark Green Spinel
+\# 5 : a Dark Green Spinel
 
-# 6 : a Banded Agate
+\# 6 : a Banded Agate
 
-# 7 : a Hematite
+\# 7 : a Hematite
 
-# 8 : a Rock Crystal Quartz
+\# 8 : a Rock Crystal Quartz
 
-# 9 : a Rock Crystal Quartz
+\# 9 : a Rock Crystal Quartz
 
-#10 : a Lapus Lazuli
+\#10 : a Lapus Lazuli
 
-#11 : a Fire Opal
+\#11 : a Fire Opal
 
-#12 : a Moss Agate
+\#12 : a Moss Agate
 
-#13 : a Deep Blue Spinel
+\#13 : a Deep Blue Spinel
 
-#14 : a Moonstone
+\#14 : a Moonstone
 
-#15 : a Hematite
+\#15 : a Hematite
 
-#16 : a Banded Agate
+\#16 : a Banded Agate
 
-#17 : a Zircon
+\#17 : a Zircon
 
-#18 : a Carnelian
+\#18 : a Carnelian
 
-# 2 : a Jasper
+\# 2 : a Jasper
 
-# 3 : a Chalcedony
+\# 3 : a Chalcedony
 
-# 4 : a Orange Zircon
+\# 4 : a Orange Zircon
 
-# 5 : a Dark Green Spinel
+\# 5 : a Dark Green Spinel
 
-# 6 : a Peridot
+\# 6 : a Peridot
 
-# 7 : a Banded Agate
+\# 7 : a Banded Agate
 
-# 8 : a Moonstone
+\# 8 : a Moonstone
 
-# 9 : a Fire Opal
+\# 9 : a Fire Opal
 
-#10 : a Moss Agate
+\#10 : a Moss Agate
 
-#11 : a Alexandrite
+\#11 : a Alexandrite
 
-#12 : a Peridot
+\#12 : a Peridot
 
-#13 : a Chalcedony
+\#13 : a Chalcedony
 
-#14 : a Quartz
+\#14 : a Quartz
 
-#15 : a Malachite
+\#15 : a Malachite
 
-#16 : a Orange Zircon
+\#16 : a Orange Zircon
 
-#17 : an Amethyst
+\#17 : an Amethyst
 
-#18 : a Rock Crystal Quartz
+\#18 : a Rock Crystal Quartz
 
-#19 : a Chalcedony
+\#19 : a Chalcedony
 
-#20 : a Red Spinel
+\#20 : a Red Spinel
 
-# 1 : a Coral
+\# 1 : a Coral
 
-# 2 : a Citrine
+\# 2 : a Citrine
 
-# 3 : a Champagne Pearl
+\# 3 : a Champagne Pearl
 
-# 4 : a Dark Green Spinel
+\# 4 : a Dark Green Spinel
 
-# 5 : a Citrine
+\# 5 : a Citrine
 
-# 6 : a Chalcedony
+\# 6 : a Chalcedony
 
-# 7 : a Chrysoberyl
+\# 7 : a Chrysoberyl
 
-# 8 : a Moss Agate
+\# 8 : a Moss Agate
 
-# 9 : a Dark Green Spinel
+\# 9 : a Dark Green Spinel
 
-#10 : a Eye Agate
+\#10 : a Eye Agate
 
-#12 : a Quartz
+\#12 : a Quartz
 
-#13 : a Opal
+\#13 : a Opal
 
-#16 : a Moss Agate
+\#16 : a Moss Agate
 
-#18 : a Rose Quartz
+\#18 : a Rose Quartz
 
-#19 : a Orange Zircon
+\#19 : a Orange Zircon
 
-#20 : a Deep Blue Spinel
+\#20 : a Deep Blue Spinel
 
-# 1 : a Moss Agate
+\# 1 : a Moss Agate
 
-# 2 : a Freshwater Pearl
+\# 2 : a Freshwater Pearl
 
-# 3 : a Coral
+\# 3 : a Coral
 
-# 4 : a Silver Pearl
+\# 4 : a Silver Pearl
 
-# 6 : a Bloodstone
+\# 6 : a Bloodstone
 
-# 7 : a Pearl
+\# 7 : a Pearl
 
-# 8 : a Fire Opal
+\# 8 : a Fire Opal
 
-# 9 : a Gray White Diamond
+\# 9 : a Gray White Diamond
 
-#10 : a Peridot
+\#10 : a Peridot
 
-#12 : a Amethyst
+\#12 : a Amethyst
 
-#13 : a Pale Golden Pearl
+\#13 : a Pale Golden Pearl
 
-#14 : a Alexandrite
+\#14 : a Alexandrite
 
-#15 : a Deep Blue Spinel
+\#15 : a Deep Blue Spinel
 
-#16 : a Fire Opal
+\#16 : a Fire Opal
 
-#17 : a Dark Green Spinel
+\#17 : a Dark Green Spinel
 
-#18 : a Purple Star Sapphire
+\#18 : a Purple Star Sapphire
 
-#19 : a Hematite
+\#19 : a Hematite
 
-#20 : a Coral
+\#20 : a Coral
 
-# 6 : a Silver Pearl
+\# 6 : a Silver Pearl
 
-# 7 : a Bloodstone
+\# 7 : a Bloodstone
 
-# 8 : a Pearl
+\# 8 : a Pearl
 
-# 9 : a Azurite
+\# 9 : a Azurite
 
-#10 : a Azurite
+\#10 : a Azurite
 
-#11 : a Purple Star Sapphire
+\#11 : a Purple Star Sapphire
 
-#12 : a Pale Golden Pearl
+\#12 : a Pale Golden Pearl
 
-#13 : a Eye Agate
+\#13 : a Eye Agate
 
-#14 : a Chrysoprase
+\#14 : a Chrysoprase
 
-#15 : a Pale Golden Pearl
+\#15 : a Pale Golden Pearl
 
-#16 : a Orange Zircon
+\#16 : a Orange Zircon
 
-#17 : a Salmon Pink Garnet
+\#17 : a Salmon Pink Garnet
 
-#19 : a Orange Zircon
+\#19 : a Orange Zircon
 
 </div>
 
@@ -488,7 +488,7 @@ I'll pay 15m for the diamond, 30m for the ruby, 2.5m each for the tier II stuff.
 
 I could trade some random desert/mnm stuff, or forge you a keychain, if you prefer that to coins.
 
-- Josiah
+\- Josiah
 
 </div>
 
@@ -530,7 +530,7 @@ citrine.... i dunno who marvel is... marvel not logged in months.. but sent.
 
 <div class="post" data-post-id="34268" data-author="cyprimus" data-date="2013-04-28T00:02:54+00:00" data-subject="Re: gems for trade/sale">
 
-Ok, had time to get a partial list of cps i need.  
+Ok, had time to get a partial list of cps i need. 
 
 these are ones i NEED... the rest for a particular forge, i have.
 
@@ -568,7 +568,7 @@ will take two eye agates for the purples... just need to know who you are.
 
 l i eggsack
 
-<Ars Magica>
+\<Ars Magica\>
 
 eggsack (carried):
 
@@ -586,59 +586,59 @@ a dreamcatcher
 
 Vault : 
 
-# 4 : a small piece of sphinx fur
+\# 4 : a small piece of sphinx fur
 
-# 5 : a small piece of sphinx fur
+\# 5 : a small piece of sphinx fur
 
-# 6 : a small piece of sphinx fur
+\# 6 : a small piece of sphinx fur
 
-# 7 : a small piece of sphinx fur
+\# 7 : a small piece of sphinx fur
 
-#16 : a grain of black sand
+\#16 : a grain of black sand
 
-#17 : a grain of black sand
+\#17 : a grain of black sand
 
-#12 : Staff of the Demon Mage
+\#12 : Staff of the Demon Mage
 
-#13 : Staff of the Demon Mage
+\#13 : Staff of the Demon Mage
 
 Things I can throw in to sweeten the deal / misc crap:
 
-# 1 : a hook-nailed avian claw
+\# 1 : a hook-nailed avian claw
 
-# 2 : the staff of psychic disruption
+\# 2 : the staff of psychic disruption
 
-# 5 : carborundum greaves
+\# 5 : carborundum greaves
 
-# 6 : a crystal greatshield
+\# 6 : a crystal greatshield
 
-# 8 : Adamantium Sceptre
+\# 8 : Adamantium Sceptre
 
-# 9 : a crystalline tail of the necrophidius
+\# 9 : a crystalline tail of the necrophidius
 
-#10 : a battered silver medallion
+\#10 : a battered silver medallion
 
-#16 : a thunderbolt
+\#16 : a thunderbolt
 
-#18 : a pair of roc wings
+\#18 : a pair of roc wings
 
-# 1 : skin of an ogre magi
+\# 1 : skin of an ogre magi
 
-# 2 : a pair of cobra fangs
+\# 2 : a pair of cobra fangs
 
-# 3 : a sharp set of horns
+\# 3 : a sharp set of horns
 
-#13 : a bottle of hatred
+\#13 : a bottle of hatred
 
-#14 : a bottle of hatred
+\#14 : a bottle of hatred
 
-#15 : a bottle of hatred
+\#15 : a bottle of hatred
 
-#18 : scales of a sandworm
+\#18 : scales of a sandworm
 
-#19 : scales of a sandworm
+\#19 : scales of a sandworm
 
-#20 : a large bag of boulders
+\#20 : a large bag of boulders
 
 Interested in Ruby/Tourmaline/Gw Diamond/Chryso/All your moonstones , 5 preferrably.
 
@@ -650,7 +650,7 @@ Dr
 
 Hi, I'll pay 400k apiece for five Lapus Lazuli or as many as you still have.
 
---Zuzu
+\--Zuzu
 
 </div>
 
@@ -682,7 +682,7 @@ I would like to buy the 3 Azurites for 400k apiece.
 
 Thanks,
 
---Zuzu
+\--Zuzu
 
 </div>
 
@@ -714,7 +714,7 @@ Linx
 
 <div class="post" data-post-id="34289" data-author="maloj" data-date="2013-05-11T08:11:26+00:00" data-subject="Re: gems for trade/sale">
 
-Hey Cyp! How about 1xBlue Quartz and 1xZircon 500k each? :)
+Hey Cyp! How about 1xBlue Quartz and 1xZircon 500k each? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -764,439 +764,439 @@ Linx
 
 Ok, new list:
 
-# 3 : a Peridot
+\# 3 : a Peridot
 
-# 4 : a Bloodstone
+\# 4 : a Bloodstone
 
-# 6 : a Hematite
+\# 6 : a Hematite
 
-# 7 : a Bloodstone
+\# 7 : a Bloodstone
 
-# 8 : a Peridot
+\# 8 : a Peridot
 
-#12 : Amber Rune
+\#12 : Amber Rune
 
-#13 : Champagne Pearl Rune
+\#13 : Champagne Pearl Rune
 
-#15 : Quartz Rune
+\#15 : Quartz Rune
 
-#16 : an Opal Rune
+\#16 : an Opal Rune
 
-# 1 : a Blue Star Sapphire
+\# 1 : a Blue Star Sapphire
 
-# 2 : a White Opal
+\# 2 : a White Opal
 
-# 3 : a Bloodstone
+\# 3 : a Bloodstone
 
-# 4 : Citrine Rune
+\# 4 : Citrine Rune
 
-# 5 : a Silver Pearl
+\# 5 : a Silver Pearl
 
-# 7 : a Moss Agate
+\# 7 : a Moss Agate
 
-# 8 : a Blue Star Sapphire
+\# 8 : a Blue Star Sapphire
 
-#11 : a Salmon Pink Garnet
+\#11 : a Salmon Pink Garnet
 
-#13 : a Jade
+\#13 : a Jade
 
-#14 : a Quartz
+\#14 : a Quartz
 
-# 1 : a Hematite
+\# 1 : a Hematite
 
-# 2 : a Hematite
+\# 2 : a Hematite
 
-# 3 : a Water Opal
+\# 3 : a Water Opal
 
-# 4 : a Hematite
+\# 4 : a Hematite
 
-# 5 : a Chalcedony
+\# 5 : a Chalcedony
 
-# 6 : a Carnelian
+\# 6 : a Carnelian
 
-# 7 : Aquamarine Rune
+\# 7 : Aquamarine Rune
 
-# 8 : a Banded Agate
+\# 8 : a Banded Agate
 
-#10 : Chrysoberyl Rune
+\#10 : Chrysoberyl Rune
 
-#11 : a Brilliant Green Garnet
+\#11 : a Brilliant Green Garnet
 
-#12 : a Alexandrite
+\#12 : a Alexandrite
 
-#13 : a Orange Zircon
+\#13 : a Orange Zircon
 
-#15 : a Blue Star Sapphire
+\#15 : a Blue Star Sapphire
 
-#16 : a Fire Opal
+\#16 : a Fire Opal
 
-#17 : a Carnelian
+\#17 : a Carnelian
 
-# 2 : a Moss Agate
+\# 2 : a Moss Agate
 
-# 3 : a Brilliant Green Garnet
+\# 3 : a Brilliant Green Garnet
 
-# 4 : a Hematite
+\# 4 : a Hematite
 
-# 5 : a Jasper
+\# 5 : a Jasper
 
-# 6 : a Moss Agate
+\# 6 : a Moss Agate
 
-# 7 : a Orange Zircon
+\# 7 : a Orange Zircon
 
-# 8 : a Golden Yellow Topaz
+\# 8 : a Golden Yellow Topaz
 
-# 9 : a Salmon Pink Garnet
+\# 9 : a Salmon Pink Garnet
 
-#10 : a Salmon Pink Garnet
+\#10 : a Salmon Pink Garnet
 
-#11 : a Bloodstone
+\#11 : a Bloodstone
 
-#13 : a Rose Quartz
+\#13 : a Rose Quartz
 
-#15 : a Freshwater Pearl
+\#15 : a Freshwater Pearl
 
-#16 : a Pale Golden Pearl
+\#16 : a Pale Golden Pearl
 
-# 1 : a Banded Agate
+\# 1 : a Banded Agate
 
-# 2 : a Tiger Eye
+\# 2 : a Tiger Eye
 
-# 4 : a Moss Agate
+\# 4 : a Moss Agate
 
-# 5 : a Blue Quartz
+\# 5 : a Blue Quartz
 
-# 6 : a Blue Quartz
+\# 6 : a Blue Quartz
 
-# 8 : a Pearl
+\# 8 : a Pearl
 
-# 9 : a Moss Agate
+\# 9 : a Moss Agate
 
-#10 : a Jade
+\#10 : a Jade
 
-#12 : a Orange Zircon
+\#12 : a Orange Zircon
 
-#15 : a Quartz
+\#15 : a Quartz
 
-#16 : a Banded Agate
+\#16 : a Banded Agate
 
-#17 : a Red Spinel
+\#17 : a Red Spinel
 
-#18 : a Bright Green Emerald
+\#18 : a Bright Green Emerald
 
-# 1 : a Blue Star Sapphire
+\# 1 : a Blue Star Sapphire
 
-# 2 : a Bloodstone
+\# 2 : a Bloodstone
 
-# 3 : a Carnelian
+\# 3 : a Carnelian
 
-# 4 : a Dark Green Spinel
+\# 4 : a Dark Green Spinel
 
-# 5 : a Opal
+\# 5 : a Opal
 
-# 6 : a Water Opal
+\# 6 : a Water Opal
 
-# 7 : a Silvery Blue Pearl
+\# 7 : a Silvery Blue Pearl
 
-# 8 : a Blue Star Sapphire
+\# 8 : a Blue Star Sapphire
 
-# 9 : a Dark Green Spinel
+\# 9 : a Dark Green Spinel
 
-#10 : a Colorless Sapphire
+\#10 : a Colorless Sapphire
 
-#11 : a Blue Quartz
+\#11 : a Blue Quartz
 
-#12 : a Hematite
+\#12 : a Hematite
 
-#13 : a Citrine
+\#13 : a Citrine
 
-#14 : a Carnelian
+\#14 : a Carnelian
 
-#15 : a Blue Quartz
+\#15 : a Blue Quartz
 
-#19 : a Silver Pearl
+\#19 : a Silver Pearl
 
-#20 : a Rhodochrosite
+\#20 : a Rhodochrosite
 
-# 1 : a Jade
+\# 1 : a Jade
 
-# 2 : a Peridot
+\# 2 : a Peridot
 
-# 3 : a Peridot
+\# 3 : a Peridot
 
-# 5 : a Dark Green Spinel
+\# 5 : a Dark Green Spinel
 
-# 6 : a Moss Agate
+\# 6 : a Moss Agate
 
-# 7 : a Dark Green Spinel
+\# 7 : a Dark Green Spinel
 
-# 8 : a Chalcedony
+\# 8 : a Chalcedony
 
-# 9 : a Hematite
+\# 9 : a Hematite
 
-#10 : a Banded Agate
+\#10 : a Banded Agate
 
-#13 : a Blue Star Sapphire
+\#13 : a Blue Star Sapphire
 
-#14 : a Silver Pearl
+\#14 : a Silver Pearl
 
-#16 : a Zircon
+\#16 : a Zircon
 
-#19 : a Dark Green Spinel
+\#19 : a Dark Green Spinel
 
-# 1 : a Blue Quartz
+\# 1 : a Blue Quartz
 
-# 2 : a Dark Green Spinel
+\# 2 : a Dark Green Spinel
 
-# 3 : a Banded Agate
+\# 3 : a Banded Agate
 
-# 4 : a Hematite
+\# 4 : a Hematite
 
-# 5 : a Fire Opal
+\# 5 : a Fire Opal
 
-# 6 : a Moss Agate
+\# 6 : a Moss Agate
 
-# 7 : a Hematite
+\# 7 : a Hematite
 
-# 8 : a Banded Agate
+\# 8 : a Banded Agate
 
-# 9 : a Carnelian
+\# 9 : a Carnelian
 
-#12 : a Dark Green Spinel
+\#12 : a Dark Green Spinel
 
-#13 : a Moss Agate
+\#13 : a Moss Agate
 
-#14 : a Citrine
+\#14 : a Citrine
 
-#15 : a Chalcedony
+\#15 : a Chalcedony
 
-#19 : a Silvery Blue Pearl
+\#19 : a Silvery Blue Pearl
 
-# 2 : a Jasper
+\# 2 : a Jasper
 
-# 3 : a Dark Green Spinel
+\# 3 : a Dark Green Spinel
 
-# 4 : a Peridot
+\# 4 : a Peridot
 
-# 5 : a Banded Agate
+\# 5 : a Banded Agate
 
-# 6 : a Fire Opal
+\# 6 : a Fire Opal
 
-# 7 : a Moss Agate
+\# 7 : a Moss Agate
 
-# 8 : a Alexandrite
+\# 8 : a Alexandrite
 
-# 9 : a Peridot
+\# 9 : a Peridot
 
-#10 : a Orange Zircon
+\#10 : a Orange Zircon
 
-#11 : a Rock Crystal Quartz
+\#11 : a Rock Crystal Quartz
 
-#12 : a Pearl
+\#12 : a Pearl
 
-#13 : a Brilliant Green Garnet
+\#13 : a Brilliant Green Garnet
 
-#14 : a Citrine
+\#14 : a Citrine
 
-#15 : a Chrysoberyl
+\#15 : a Chrysoberyl
 
-#16 : a Pale Golden Pearl
+\#16 : a Pale Golden Pearl
 
-#17 : a Peridot
+\#17 : a Peridot
 
-#19 : a Freshwater Pearl
+\#19 : a Freshwater Pearl
 
-#20 : a Jade
+\#20 : a Jade
 
-# 1 : a Dark Green Spinel
+\# 1 : a Dark Green Spinel
 
-# 2 : a Chrysoberyl
+\# 2 : a Chrysoberyl
 
-# 3 : a Moss Agate
+\# 3 : a Moss Agate
 
-# 4 : a Dark Green Spinel
+\# 4 : a Dark Green Spinel
 
-# 5 : a Champagne Pearl
+\# 5 : a Champagne Pearl
 
-# 6 : a Quartz
+\# 6 : a Quartz
 
-# 7 : a Opal
+\# 7 : a Opal
 
-#10 : a Moss Agate
+\#10 : a Moss Agate
 
-#12 : a Amber
+\#12 : a Amber
 
-#13 : a Blue Quartz
+\#13 : a Blue Quartz
 
-#14 : a Orange Zircon
+\#14 : a Orange Zircon
 
-#15 : a Aquamarine
+\#15 : a Aquamarine
 
-#16 : a Silver Pearl
+\#16 : a Silver Pearl
 
-#17 : a Dark Green Spinel
+\#17 : a Dark Green Spinel
 
-#18 : a Silver Pearl
+\#18 : a Silver Pearl
 
-#19 : a Amber
+\#19 : a Amber
 
-# 1 : a Moss Agate
+\# 1 : a Moss Agate
 
-# 2 : a Silver Pearl
+\# 2 : a Silver Pearl
 
-# 3 : a Bloodstone
+\# 3 : a Bloodstone
 
-# 4 : a Pearl
+\# 4 : a Pearl
 
-# 5 : a Fire Opal
+\# 5 : a Fire Opal
 
-# 6 : a Peridot
+\# 6 : a Peridot
 
-# 8 : a Alexandrite
+\# 8 : a Alexandrite
 
-# 9 : a Fire Opal
+\# 9 : a Fire Opal
 
-#10 : a Dark Green Spinel
+\#10 : a Dark Green Spinel
 
-#11 : a Hematite
+\#11 : a Hematite
 
-#12 : a Banded Agate
+\#12 : a Banded Agate
 
-#13 : a Deep Blue Spinel
+\#13 : a Deep Blue Spinel
 
-#14 : a Jade
+\#14 : a Jade
 
-#15 : a Alexandrite
+\#15 : a Alexandrite
 
-#16 : a Pearl
+\#16 : a Pearl
 
-#18 : a Jade
+\#18 : a Jade
 
-# 1 : a Smokey Quartz
+\# 1 : a Smokey Quartz
 
-# 2 : a Bloodstone
+\# 2 : a Bloodstone
 
-# 3 : a Carnelian
+\# 3 : a Carnelian
 
-# 4 : a Purple Star Sapphire
+\# 4 : a Purple Star Sapphire
 
-# 5 : a Dark Green Spinel
+\# 5 : a Dark Green Spinel
 
-# 6 : a Chalcedony
+\# 6 : a Chalcedony
 
-# 8 : a Moss Agate
+\# 8 : a Moss Agate
 
-# 9 : a Fire Opal
+\# 9 : a Fire Opal
 
-#10 : a Orange Zircon
+\#10 : a Orange Zircon
 
-#12 : a Citrine
+\#12 : a Citrine
 
-#13 : a Opal
+\#13 : a Opal
 
-#14 : a Salmon Pink Garnet
+\#14 : a Salmon Pink Garnet
 
-#15 : a Moss Agate
+\#15 : a Moss Agate
 
-#16 : a Silver Pearl
+\#16 : a Silver Pearl
 
-#17 : a Banded Agate
+\#17 : a Banded Agate
 
-#18 : a Jade
+\#18 : a Jade
 
-#19 : a Orange Zircon
+\#19 : a Orange Zircon
 
-#20 : a Orange Zircon
+\#20 : a Orange Zircon
 
-# 1 : a Peridot
+\# 1 : a Peridot
 
-# 2 : a Aquamarine
+\# 2 : a Aquamarine
 
-# 3 : a Light Blue Iolite
+\# 3 : a Light Blue Iolite
 
-# 4 : a Dark Green Spinel
+\# 4 : a Dark Green Spinel
 
-# 5 : a Eye Agate
+\# 5 : a Eye Agate
 
-#15 : a Eye Agate
+\#15 : a Eye Agate
 
-#16 : a Pearl
+\#16 : a Pearl
 
-#17 : a Bloodstone
+\#17 : a Bloodstone
 
-#18 : a Silver Pearl
+\#18 : a Silver Pearl
 
-#19 : a Pale Golden Pearl
+\#19 : a Pale Golden Pearl
 
-#20 : a Eye Agate
+\#20 : a Eye Agate
 
-# 1 : a Quartz
+\# 1 : a Quartz
 
-# 2 : a Chrysoberyl
+\# 2 : a Chrysoberyl
 
-# 3 : a Opal
+\# 3 : a Opal
 
-# 4 : a Orange Zircon
+\# 4 : a Orange Zircon
 
-# 5 : a Zircon
+\# 5 : a Zircon
 
-# 6 : a Dark Green Spinel
+\# 6 : a Dark Green Spinel
 
-# 8 : a Peridot
+\# 8 : a Peridot
 
-# 9 : a Blue Quartz
+\# 9 : a Blue Quartz
 
-#10 : a Opal
+\#10 : a Opal
 
-#11 : a Jasper
+\#11 : a Jasper
 
-#12 : a Smokey Quartz
+\#12 : a Smokey Quartz
 
-#14 : a Brilliant Green Garnet
+\#14 : a Brilliant Green Garnet
 
-#16 : a Moss Agate
+\#16 : a Moss Agate
 
-#17 : a Aquamarine
+\#17 : a Aquamarine
 
-#18 : a Opal
+\#18 : a Opal
 
-#19 : a White Opal
+\#19 : a White Opal
 
-#20 : a Fire Opal
+\#20 : a Fire Opal
 
-# 4 : a Brilliant Green Garnet
+\# 4 : a Brilliant Green Garnet
 
-# 5 : a Amber
+\# 5 : a Amber
 
-# 7 : a Pearl
+\# 7 : a Pearl
 
-# 8 : a Blue Quartz
+\# 8 : a Blue Quartz
 
-# 9 : a Zircon
+\# 9 : a Zircon
 
-#10 : a Moss Agate
+\#10 : a Moss Agate
 
-#11 : a Lapus Lazuli
+\#11 : a Lapus Lazuli
 
-#12 : a Orange Zircon
+\#12 : a Orange Zircon
 
-#13 : a Brown Red Spinel
+\#13 : a Brown Red Spinel
 
-#14 : a Brown Red Spinel
+\#14 : a Brown Red Spinel
 
-#15 : a Red Spinel
+\#15 : a Red Spinel
 
-#16 : a Red Spinel
+\#16 : a Red Spinel
 
-#17 : a Red Spinel
+\#17 : a Red Spinel
 
-#18 : a Red Spinel
+\#18 : a Red Spinel
 
-#19 : a Fire Opal
+\#19 : a Fire Opal
 
-#20 : a Dark Green Spinel
+\#20 : a Dark Green Spinel
 
-Ok, please post all offers here.  Do not bother me in game about trades.
+Ok, please post all offers here. Do not bother me in game about trades.
 
 Mosly wanting coins, but will consider some cps for the Demon Mage Girdle, Desert Wind sleeves, and ..that's about it..
 
@@ -1218,7 +1218,7 @@ sapphire gone
 
 <div class="post" data-post-id="34916" data-author="Dagger" data-date="2014-03-18T14:49:51+00:00" data-subject="Re: gems for trade/sale">
 
-#18 Sardonyx
+\#18 Sardonyx
 
 Offering 350k gold.
 
@@ -1226,7 +1226,7 @@ Lemme know.
 
 More offers to come when I get my cash back up.
 
--Dagger
+\-Dagger
 
 </div>
 
@@ -1242,19 +1242,19 @@ List updated.
 
 Yo Cyp,
 
-# 6 : a Banded Agate 500k
+\# 6 : a Banded Agate 500k
 
-# 8 : a Golden Yellow Topaz 3mil
+\# 8 : a Golden Yellow Topaz 3mil
 
-# 2 : a Tiger Eye 5mil
+\# 2 : a Tiger Eye 5mil
 
-#12 : a Alexandrite 1mil
+\#12 : a Alexandrite 1mil
 
-# 8 : a Alexandrite 1mil
+\# 8 : a Alexandrite 1mil
 
-# 8 : a Alexandrite 1mil
+\# 8 : a Alexandrite 1mil
 
-#15 : a Alexandrite 1mil
+\#15 : a Alexandrite 1mil
 
 </div>
 
@@ -1264,17 +1264,17 @@ I don't honestly know what these things are worth as i never see any change hand
 
 but I'll offer 1mil a piece for the following:
 
-# 2 : a White Opal
+\# 2 : a White Opal
 
-#18 : a White Opal
+\#18 : a White Opal
 
-#11 : a White Opal
+\#11 : a White Opal
 
-# 1 : a White Opal
+\# 1 : a White Opal
 
-#19 : a White Opal
+\#19 : a White Opal
 
--Dagger
+\-Dagger
 
 </div>
 
@@ -1298,7 +1298,7 @@ rhodo 18m
 
 gytopaz - 4m
 
--Edit-
+\-Edit-
 
 </div>
 
@@ -1308,7 +1308,7 @@ cs sapphire - 9mil
 
 rhodo - 20mil
 
--Edit-
+\-Edit-
 
 </div>
 
@@ -1328,7 +1328,7 @@ I need-
 
 Thanks, Ezekiel
 
--Edited-
+\-Edited-
 
 </div>
 
@@ -1342,383 +1342,383 @@ Thanks, Ezekiel
 
 Ok, delivered the uncontested ones, new list:
 
-# 3 : a Peridot
+\# 3 : a Peridot
 
-# 4 : a Bloodstone Rune
+\# 4 : a Bloodstone Rune
 
-# 6 : a Hematite
+\# 6 : a Hematite
 
-# 8 : a Peridot
+\# 8 : a Peridot
 
-#12 : Amber Rune
+\#12 : Amber Rune
 
-#13 : Champagne Pearl Rune
+\#13 : Champagne Pearl Rune
 
-#15 : Quartz Rune
+\#15 : Quartz Rune
 
-#16 : an Opal Rune
+\#16 : an Opal Rune
 
-# 1 : a Blue Star Sapphire
+\# 1 : a Blue Star Sapphire
 
-# 4 : Citrine Rune
+\# 4 : Citrine Rune
 
-# 5 : a Silver Pearl
+\# 5 : a Silver Pearl
 
-# 7 : a Moss Agate
+\# 7 : a Moss Agate
 
-# 8 : a Blue Star Sapphire
+\# 8 : a Blue Star Sapphire
 
-#11 : a Salmon Pink Garnet
+\#11 : a Salmon Pink Garnet
 
-#14 : a Quartz
+\#14 : a Quartz
 
-# 1 : a Hematite
+\# 1 : a Hematite
 
-# 2 : a Hematite
+\# 2 : a Hematite
 
-# 3 : a Water Opal
+\# 3 : a Water Opal
 
-# 4 : a Hematite
+\# 4 : a Hematite
 
-# 5 : a Chalcedony
+\# 5 : a Chalcedony
 
-# 6 : a Carnelian
+\# 6 : a Carnelian
 
-# 7 : Aquamarine Rune
+\# 7 : Aquamarine Rune
 
-# 8 : a Banded Agate
+\# 8 : a Banded Agate
 
-#12 : a Alexandrite
+\#12 : a Alexandrite
 
-#13 : a Orange Zircon
+\#13 : a Orange Zircon
 
-#15 : a Blue Star Sapphire
+\#15 : a Blue Star Sapphire
 
-#16 : a Fire Opal
+\#16 : a Fire Opal
 
-#17 : a Carnelian
+\#17 : a Carnelian
 
-# 2 : a Moss Agate
+\# 2 : a Moss Agate
 
-# 4 : a Hematite
+\# 4 : a Hematite
 
-# 6 : a Moss Agate
+\# 6 : a Moss Agate
 
-# 7 : a Orange Zircon
+\# 7 : a Orange Zircon
 
-# 8 : a Golden Yellow Topaz
+\# 8 : a Golden Yellow Topaz
 
-# 9 : a Salmon Pink Garnet
+\# 9 : a Salmon Pink Garnet
 
-#10 : a Salmon Pink Garnet
+\#10 : a Salmon Pink Garnet
 
-#13 : a Rose Quartz
+\#13 : a Rose Quartz
 
-#16 : a Pale Golden Pearl
+\#16 : a Pale Golden Pearl
 
-# 1 : a Banded Agate
+\# 1 : a Banded Agate
 
-# 2 : a Tiger Eye
+\# 2 : a Tiger Eye
 
-# 4 : a Moss Agate
+\# 4 : a Moss Agate
 
-# 5 : a Blue Quartz
+\# 5 : a Blue Quartz
 
-# 6 : a Blue Quartz
+\# 6 : a Blue Quartz
 
-# 8 : a Pearl
+\# 8 : a Pearl
 
-# 9 : a Moss Agate
+\# 9 : a Moss Agate
 
-#12 : a Orange Zircon
+\#12 : a Orange Zircon
 
-#15 : a Quartz
+\#15 : a Quartz
 
-#16 : a Banded Agate
+\#16 : a Banded Agate
 
-#17 : a Red Spinel
+\#17 : a Red Spinel
 
-# 1 : a Blue Star Sapphire
+\# 1 : a Blue Star Sapphire
 
-# 3 : a Carnelian
+\# 3 : a Carnelian
 
-# 5 : a Opal
+\# 5 : a Opal
 
-# 6 : a Water Opal
+\# 6 : a Water Opal
 
-# 7 : a Silvery Blue Pearl
+\# 7 : a Silvery Blue Pearl
 
-# 8 : a Blue Star Sapphire
+\# 8 : a Blue Star Sapphire
 
-# 9 : a Dark Green Spinel
+\# 9 : a Dark Green Spinel
 
-#11 : a Blue Quartz
+\#11 : a Blue Quartz
 
-#12 : a Hematite
+\#12 : a Hematite
 
-#13 : a Citrine
+\#13 : a Citrine
 
-#14 : a Carnelian
+\#14 : a Carnelian
 
-#15 : a Blue Quartz
+\#15 : a Blue Quartz
 
-#19 : a Silver Pearl
+\#19 : a Silver Pearl
 
-# 2 : a Peridot
+\# 2 : a Peridot
 
-# 3 : a Peridot
+\# 3 : a Peridot
 
-# 5 : a Dark Green Spinel
+\# 5 : a Dark Green Spinel
 
-# 6 : a Moss Agate
+\# 6 : a Moss Agate
 
-# 7 : a Dark Green Spinel
+\# 7 : a Dark Green Spinel
 
-# 8 : a Chalcedony
+\# 8 : a Chalcedony
 
-# 9 : a Hematite
+\# 9 : a Hematite
 
-#10 : a Banded Agate
+\#10 : a Banded Agate
 
-#13 : a Blue Star Sapphire
+\#13 : a Blue Star Sapphire
 
-#14 : a Silver Pearl
+\#14 : a Silver Pearl
 
-#16 : a Zircon
+\#16 : a Zircon
 
-#19 : a Dark Green Spinel
+\#19 : a Dark Green Spinel
 
-# 1 : a Blue Quartz
+\# 1 : a Blue Quartz
 
-# 2 : a Dark Green Spinel
+\# 2 : a Dark Green Spinel
 
-# 3 : a Banded Agate
+\# 3 : a Banded Agate
 
-# 4 : a Hematite
+\# 4 : a Hematite
 
-# 5 : a Fire Opal
+\# 5 : a Fire Opal
 
-# 6 : a Moss Agate
+\# 6 : a Moss Agate
 
-# 7 : a Hematite
+\# 7 : a Hematite
 
-# 8 : a Banded Agate
+\# 8 : a Banded Agate
 
-# 9 : a Carnelian
+\# 9 : a Carnelian
 
-#12 : a Dark Green Spinel
+\#12 : a Dark Green Spinel
 
-#13 : a Moss Agate
+\#13 : a Moss Agate
 
-#14 : a Citrine
+\#14 : a Citrine
 
-#15 : a Chalcedony
+\#15 : a Chalcedony
 
-#19 : a Silvery Blue Pearl
+\#19 : a Silvery Blue Pearl
 
-# 2 : a Jasper
+\# 2 : a Jasper
 
-# 3 : a Dark Green Spinel
+\# 3 : a Dark Green Spinel
 
-# 4 : a Peridot
+\# 4 : a Peridot
 
-# 5 : a Banded Agate
+\# 5 : a Banded Agate
 
-# 6 : a Fire Opal
+\# 6 : a Fire Opal
 
-# 7 : a Moss Agate
+\# 7 : a Moss Agate
 
-# 8 : a Alexandrite
+\# 8 : a Alexandrite
 
-# 9 : a Peridot
+\# 9 : a Peridot
 
-#10 : a Orange Zircon
+\#10 : a Orange Zircon
 
-#11 : a Rock Crystal Quartz
+\#11 : a Rock Crystal Quartz
 
-#12 : a Pearl
+\#12 : a Pearl
 
-#13 : a Brilliant Green Garnet
+\#13 : a Brilliant Green Garnet
 
-#14 : a Citrine
+\#14 : a Citrine
 
-#15 : a Chrysoberyl
+\#15 : a Chrysoberyl
 
-#16 : a Pale Golden Pearl
+\#16 : a Pale Golden Pearl
 
-#17 : a Peridot
+\#17 : a Peridot
 
-#19 : a Freshwater Pearl
+\#19 : a Freshwater Pearl
 
-# 1 : a Dark Green Spinel
+\# 1 : a Dark Green Spinel
 
-# 2 : a Chrysoberyl
+\# 2 : a Chrysoberyl
 
-# 3 : a Moss Agate
+\# 3 : a Moss Agate
 
-# 4 : a Dark Green Spinel
+\# 4 : a Dark Green Spinel
 
-# 5 : a Champagne Pearl
+\# 5 : a Champagne Pearl
 
-# 6 : a Quartz
+\# 6 : a Quartz
 
-# 7 : a Opal
+\# 7 : a Opal
 
-#10 : a Moss Agate
+\#10 : a Moss Agate
 
-#12 : a Amber
+\#12 : a Amber
 
-#13 : a Blue Quartz
+\#13 : a Blue Quartz
 
-#14 : a Orange Zircon
+\#14 : a Orange Zircon
 
-#15 : a Aquamarine
+\#15 : a Aquamarine
 
-#16 : a Silver Pearl
+\#16 : a Silver Pearl
 
-#17 : a Dark Green Spinel
+\#17 : a Dark Green Spinel
 
-#18 : a Silver Pearl
+\#18 : a Silver Pearl
 
-#19 : a Amber
+\#19 : a Amber
 
-# 1 : a Moss Agate
+\# 1 : a Moss Agate
 
-# 2 : a Silver Pearl
+\# 2 : a Silver Pearl
 
-# 3 : a Bloodstone
+\# 3 : a Bloodstone
 
-# 4 : a Pearl
+\# 4 : a Pearl
 
-# 5 : a Fire Opal
+\# 5 : a Fire Opal
 
-# 6 : a Peridot
+\# 6 : a Peridot
 
-# 8 : a Alexandrite
+\# 8 : a Alexandrite
 
-# 9 : a Fire Opal
+\# 9 : a Fire Opal
 
-#10 : a Dark Green Spinel
+\#10 : a Dark Green Spinel
 
-#11 : a Hematite
+\#11 : a Hematite
 
-#12 : a Banded Agate
+\#12 : a Banded Agate
 
-#13 : a Deep Blue Spinel
+\#13 : a Deep Blue Spinel
 
-#14 : a Jade
+\#14 : a Jade
 
-#15 : a Alexandrite
+\#15 : a Alexandrite
 
-#16 : a Pearl
+\#16 : a Pearl
 
-# 1 : a Smokey Quartz
+\# 1 : a Smokey Quartz
 
-# 2 : a Bloodstone
+\# 2 : a Bloodstone
 
-# 3 : a Carnelian
+\# 3 : a Carnelian
 
-# 4 : a Purple Star Sapphire
+\# 4 : a Purple Star Sapphire
 
-# 5 : a Dark Green Spinel
+\# 5 : a Dark Green Spinel
 
-# 6 : a Chalcedony
+\# 6 : a Chalcedony
 
-# 8 : a Moss Agate
+\# 8 : a Moss Agate
 
-# 9 : a Fire Opal
+\# 9 : a Fire Opal
 
-#10 : a Orange Zircon
+\#10 : a Orange Zircon
 
-#12 : a Citrine
+\#12 : a Citrine
 
-#13 : a Opal
+\#13 : a Opal
 
-#14 : a Salmon Pink Garnet
+\#14 : a Salmon Pink Garnet
 
-#15 : a Moss Agate
+\#15 : a Moss Agate
 
-#16 : a Silver Pearl
+\#16 : a Silver Pearl
 
-#17 : a Banded Agate
+\#17 : a Banded Agate
 
-#18 : a Jade
+\#18 : a Jade
 
-#19 : a Orange Zircon
+\#19 : a Orange Zircon
 
-#20 : a Orange Zircon
+\#20 : a Orange Zircon
 
-# 1 : a Peridot
+\# 1 : a Peridot
 
-# 2 : a Aquamarine
+\# 2 : a Aquamarine
 
-# 3 : a Light Blue Iolite
+\# 3 : a Light Blue Iolite
 
-# 4 : a Dark Green Spinel
+\# 4 : a Dark Green Spinel
 
-# 5 : a Eye Agate
+\# 5 : a Eye Agate
 
-#15 : a Eye Agate
+\#15 : a Eye Agate
 
-#16 : a Pearl
+\#16 : a Pearl
 
-#17 : a Bloodstone
+\#17 : a Bloodstone
 
-#18 : a Silver Pearl
+\#18 : a Silver Pearl
 
-#19 : a Pale Golden Pearl
+\#19 : a Pale Golden Pearl
 
-#20 : a Eye Agate
+\#20 : a Eye Agate
 
-# 1 : a Quartz
+\# 1 : a Quartz
 
-# 2 : a Chrysoberyl
+\# 2 : a Chrysoberyl
 
-# 3 : a Opal
+\# 3 : a Opal
 
-# 4 : a Orange Zircon
+\# 4 : a Orange Zircon
 
-# 5 : a Zircon
+\# 5 : a Zircon
 
-# 6 : a Dark Green Spinel
+\# 6 : a Dark Green Spinel
 
-# 8 : a Peridot
+\# 8 : a Peridot
 
-# 9 : a Blue Quartz
+\# 9 : a Blue Quartz
 
-#10 : a Opal
+\#10 : a Opal
 
-#11 : a Jasper
+\#11 : a Jasper
 
-#12 : a Smokey Quartz
+\#12 : a Smokey Quartz
 
-#16 : a Moss Agate
+\#16 : a Moss Agate
 
-#17 : a Aquamarine
+\#17 : a Aquamarine
 
-#18 : a Opal
+\#18 : a Opal
 
-#19 : a White Opal
+\#19 : a White Opal
 
-#20 : a Fire Opal
+\#20 : a Fire Opal
 
-# 5 : a Amber
+\# 5 : a Amber
 
-# 7 : a Pearl
+\# 7 : a Pearl
 
-# 8 : a Blue Quartz
+\# 8 : a Blue Quartz
 
-# 9 : a Zircon
+\# 9 : a Zircon
 
-#10 : a Moss Agate
+\#10 : a Moss Agate
 
-#11 : a Lapus Lazuli
+\#11 : a Lapus Lazuli
 
-#12 : a Orange Zircon
+\#12 : a Orange Zircon
 
-#19 : a Fire Opal
+\#19 : a Fire Opal
 
-#20 : a Dark Green Spinel
+\#20 : a Dark Green Spinel
 
 </div>
 
@@ -1744,7 +1744,7 @@ Burl
 
 <div class="post" data-post-id="34937" data-author="cyprimus" data-date="2014-03-22T09:17:47+00:00" data-subject="Re: gems for trade/sale">
 
-shipped another batch.  please check mail.
+shipped another batch. please check mail.
 
 edited list again.
 
@@ -1758,7 +1758,7 @@ Thanks!
 
 <div class="post" data-post-id="34938" data-author="cyprimus" data-date="2014-03-22T09:29:53+00:00" data-subject="Re: gems for trade/sale">
 
-Ok, may end up placing stuff on auction, mails too limited for ppl that do not show often.  Will figure out when I am better rested.
+Ok, may end up placing stuff on auction, mails too limited for ppl that do not show often. Will figure out when I am better rested.
 
 Thank again!
 
@@ -1782,17 +1782,17 @@ Heya, eze here. Cyp, I am out of town until Monday/Tuesday on business and posti
 
 If you have no objections, 
 
-I'll offer 1M  a piece for the following:
+I'll offer 1M a piece for the following:
 
-#13 : a Jade
+\#13 : a Jade
 
-#10 : a Jade
+\#10 : a Jade
 
-# 1 : a Jade
+\# 1 : a Jade
 
-#20 : a Jade
+\#20 : a Jade
 
-#14 : a Jade
+\#14 : a Jade
 
 If it's all the same, I'd like to follow the same
 
@@ -1800,7 +1800,7 @@ arrangements as before.
 
 Thanks.
 
--Dagger
+\-Dagger
 
 </div>
 
@@ -1808,7 +1808,7 @@ Thanks.
 
 Got class tonite, so little time.
 
-Daggers order sent.  Others filled.  Check mail if you won anything.  
+Daggers order sent. Others filled. Check mail if you won anything. 
 
 Will edit as I have time.
 
@@ -1882,13 +1882,13 @@ Thanks, Zeke
 
 <div class="post" data-post-id="34955" data-author="cyprimus" data-date="2014-04-04T04:03:04+00:00" data-subject="Re: gems for trade/sale">
 
-Sorry zeke.  shipped.  was not checking, din know you needed more.
+Sorry zeke. shipped. was not checking, din know you needed more.
 
 </div>
 
 <div class="post" data-post-id="34958" data-author="cyprimus" data-date="2014-04-04T18:59:35+00:00" data-subject="Re: gems for trade/sale">
 
-advent rune sold.  man, monk must be poor..
+advent rune sold. man, monk must be poor..
 
 </div>
 
@@ -1898,11 +1898,11 @@ Hello,
 
 I would like to bid 500k each for these 3 Chrysoberyls:
 
-#15 : a Chrysoberyl
+\#15 : a Chrysoberyl
 
-#2   : a Chrysoberyl
+\#2 : a Chrysoberyl
 
-#2   : a Chrysoberyl
+\#2 : a Chrysoberyl
 
 Thanks,
 
@@ -1930,11 +1930,11 @@ Mara
 
 <div class="post" data-post-id="35001" data-author="Truck" data-date="2014-04-17T01:25:45+00:00" data-subject="Re: gems for trade/sale">
 
-# 5 : a Eye Agate
+\# 5 : a Eye Agate
 
-#15 : a Eye Agate
+\#15 : a Eye Agate
 
-#20 : a Eye Agate
+\#20 : a Eye Agate
 
 500k each ?
 
@@ -1942,6 +1942,6 @@ Mara
 
 <div class="post" data-post-id="35098" data-author="cyprimus" data-date="2014-05-06T06:59:24+00:00" data-subject="Re: gems for trade/sale">
 
-shipped, sorry for delays.  rl sucking right now..
+shipped, sorry for delays. rl sucking right now..
 
 </div>

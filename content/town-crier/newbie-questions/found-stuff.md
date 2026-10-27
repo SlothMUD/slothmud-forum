@@ -20,7 +20,7 @@ If you can tell me what was it, it's yours - if I don't get a response by Monday
 
 <div class="post" data-post-id="1458" data-author="kosowar" data-date="2004-08-17T09:32:00+00:00" data-subject="">
 
-was it elven stuff? :( guess thats too late :)
+was it elven stuff? <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom"> guess thats too late <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

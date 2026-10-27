@@ -14,107 +14,107 @@ post_count: 136
 
 EQ for sale:
 
-___________
+\_\_\_\_\_\_\_\_\_\_\_
 
-the symbol of zodiac magic +1 Con , +15 HP * AdT AdW AdDr AdBa AdMo [OR] - 500k min
+the symbol of zodiac magic +1 Con , +15 HP \* AdT AdW AdDr AdBa AdMo [OR] - 500k min
 
-Symbol of an Obsidian Knight +15 Mana, +15 HP * 3x40 - 500k min
+Symbol of an Obsidian Knight +15 Mana, +15 HP \* 3x40 - 500k min
 
-the obsidian jewel of souls +15 Mana , +15 HP * AdM MC [AND] - 
+the obsidian jewel of souls +15 Mana , +15 HP \* AdM MC [AND] - 
 
 500k min
 
-the staff of the ram +1 Int +15 Mana * MM - 1m min
+the staff of the ram +1 Int +15 Mana \* MM - 1m min
 
-a shard of vitality +2 Ma Regen , +3 HP Regen * EC EDr [OR] - 500k min
+a shard of vitality +2 Ma Regen , +3 HP Regen \* EC EDr [OR] - 500k min
 
-eye of the deep +1 Int, +3 Ma Regen * AdM AdC AdT AdW AdNe AdDr AdBa AdMo [OR] 1.5 min
+eye of the deep +1 Int, +3 Ma Regen \* AdM AdC AdT AdW AdNe AdDr AdBa AdMo [OR] 1.5 min
 
------------
+\-----------
 
-obsidian guards -0.7 25hps * exp cl and supr wa -=rare=- - 5m min
+obsidian guards -0.7 25hps \* exp cl and supr wa -=rare=- - 5m min
 
-mithril shoulder guards -0.8 -10 Mv * MC SW [AND] - 6m min
+mithril shoulder guards -0.8 -10 Mv \* MC SW [AND] - 6m min
 
-an amulet of protection -0.7 +5 HP * MW Prime - 2m min
+an amulet of protection -0.7 +5 HP \* MW Prime - 2m min
 
-a hooded wool cape -0.6 +5 Mana. 59 Cont * EM EC ET EW [OR] - 500k min
+a hooded wool cape -0.6 +5 Mana. 59 Cont \* EM EC ET EW [OR] - 500k min
 
------------
+\-----------
 
-a helm of fiery radiance -1.2 +30 HP * SW EM ApC ApT [AND] - 500k min
+a helm of fiery radiance -1.2 +30 HP \* SW EM ApC ApT [AND] - 500k min
 
-an ebony helm of blood -1.0 +1 Str , +25 HP * NM AdC NT NW AdNe [OR] - 500k min
+an ebony helm of blood -1.0 +1 Str , +25 HP \* NM AdC NT NW AdNe [OR] - 500k min
 
------------
+\-----------
 
-a pair of purple shin guards -1.5 +15 HP * ST EW [OR] - 2m min
+a pair of purple shin guards -1.5 +15 HP \* ST EW [OR] - 2m min
 
-blue steel greaves -1.4 +1 Dex * ET EW [AND] - 100k min
+blue steel greaves -1.4 +1 Dex \* ET EW [AND] - 100k min
 
-a set of polished bone leggings -1.2 +10 Mana, -10 Mv * EM EC NT ApW [AND] - 500k min
+a set of polished bone leggings -1.2 +10 Mana, -10 Mv \* EM EC NT ApW [AND] - 500k min
 
------------
+\-----------
 
-a pair of granite-tipped boots -0.4 +1 Str, -1 Int * EM ET AdW [AND] (cp for mosaic) - 400k min
+a pair of granite-tipped boots -0.4 +1 Str, -1 Int \* EM ET AdW [AND] (cp for mosaic) - 400k min
 
------------
+\-----------
 
-plaid tartan sleeves +5 Mana * AdM AdC AdDr AdNe [OR] - 500k min
+plaid tartan sleeves +5 Mana \* AdM AdC AdDr AdNe [OR] - 500k min
 
-blue steel sleeves -0.5 +1 Dam * AdT AdW AdM AdC AdDr AdNe AdBa AdMo [OR] - 500k min
+blue steel sleeves -0.5 +1 Dam \* AdT AdW AdM AdC AdDr AdNe AdBa AdMo [OR] - 500k min
 
------------
+\-----------
 
-a shield of yawning death -1.0 * AdM AdC AdT AdW [OR] - 300k min
+a shield of yawning death -1.0 \* AdM AdC AdT AdW [OR] - 300k min
 
-a glowing dragon scale -1.0 +1 * Con EC ST EW EDr EBa SMo [OR] Forged - 15m min
+a glowing dragon scale -1.0 +1 \* Con EC ST EW EDr EBa SMo [OR] Forged - 15m min
 
------------
+\-----------
 
-a golden-feathered girth -0.1 +10 mana * EM EC ED EN [OR] - 500k min
+a golden-feathered girth -0.1 +10 mana \* EM EC ED EN [OR] - 500k min
 
-belt of the damned -0.4 -15 HP * ApW ApBa ApMo [OR] - 500k min
+belt of the damned -0.4 -15 HP \* ApW ApBa ApMo [OR] - 500k min
 
------------
+\-----------
 
-a multi-colored dream coat +0.1 small Container, +1 Ma Regen * AdC and AdM - 150k min  
+a multi-colored dream coat +0.1 small Container, +1 Ma Regen \* AdC and AdM - 150k min 
 
------------
+\-----------
 
-an emerald bracelet -0.3 +1 Int * AdM - 200k min
+an emerald bracelet -0.3 +1 Int \* AdM - 200k min
 
-obsidian bracer(x3) -0.3 +15 HP * EC EW [AND] - 1m min each
+obsidian bracer(x3) -0.3 +15 HP \* EC EW [AND] - 1m min each
 
-diamond bracer(x2) +1 Dam, +1 Mana Regen * SM Forged - 1.5m min each
+diamond bracer(x2) +1 Dam, +1 Mana Regen \* SM Forged - 1.5m min each
 
-a blue steel bracelet(x2) -0.4 -2 BreathSave * ET EW EBa EMo [OR] - 500k min each
+a blue steel bracelet(x2) -0.4 -2 BreathSave \* ET EW EBa EMo [OR] - 500k min each
 
------------
+\-----------
 
-a gold-pommeled stiletto 2d5 +3 +2 * ApT AdW AdBa [OR] -=best newbie stabber=- - 1m min
+a gold-pommeled stiletto 2d5 +3 +2 \* ApT AdW AdBa [OR] -=best newbie stabber=- - 1m min
 
-a sharp shard of obsidian 3d4 +0 +1 * AdT -=cool newbie stabber=- - 500k min
+a sharp shard of obsidian 3d4 +0 +1 \* AdT -=cool newbie stabber=- - 500k min
 
-a crimson rapier 2d6 +1 +0 Fire Proc, Resist Cold * ET EBa [OR] - 1m min
+a crimson rapier 2d6 +1 +0 Fire Proc, Resist Cold \* ET EBa [OR] - 1m min
 
-a massive warhammer 2d6 +1 +0 +1 Wis, Lightning Bolt Proc * EC - 500k min
+a massive warhammer 2d6 +1 +0 +1 Wis, Lightning Bolt Proc \* EC - 500k min
 
-a jet black blade 3d5 +1 +1 Damage Proc * MT EW ENe MMo [OR] - 500k min
+a jet black blade 3d5 +1 +1 Damage Proc \* MT EW ENe MMo [OR] - 500k min
 
-a dwarven broad axe 3d6 +0 +1 +2 HP Regen * AdC NT EW [OR] Forged - 1m min
+a dwarven broad axe 3d6 +0 +1 +2 HP Regen \* AdC NT EW [OR] Forged - 1m min
 
-a massive claymore sword 4d3 +0 +2 +5 HP * AdW AdBa [OR] - 200k min
+a massive claymore sword 4d3 +0 +2 +5 HP \* AdW AdBa [OR] - 200k min
 
-a runed sword 2d7 +2 +0 +1 Con * ApM ApW [AND] - 200k min
+a runed sword 2d7 +2 +0 +1 Con \* ApM ApW [AND] - 200k min
 
------------
+\-----------
 
-an obsidian pearl  -0.5 +15 HP * EW AdC [AND] - 500k min
+an obsidian pearl -0.5 +15 HP \* EW AdC [AND] - 500k min
 
 MISC:
 
-____
+\_\_\_\_
 
 restring token - 18m min (25m buyout)
 
@@ -122,7 +122,7 @@ an arcane map tube - stylish container - 100k min.
 
 a pure white stargazer lily - irda cp - 100k min
 
-a _spark of flame - plate of planes cp - 300k min
+a \_spark of flame - plate of planes cp - 300k min
 
 a chunk of earth - plate of planes cp - 300k min
 
@@ -162,13 +162,13 @@ ppl asking me ingame bout buying stuff,
 
 again catch me ingame if u got something for trade.
 
-if ya want to buy,post here :)
+if ya want to buy,post here <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="3337" data-author="Leaf" data-date="2004-12-15T18:07:43+00:00" data-subject="">
 
-2x Diamond Bracer for 1.5mil each :)
+2x Diamond Bracer for 1.5mil each <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Plaid tartan sleeves for 600k
 
@@ -180,11 +180,11 @@ Will
 
 Wanna buy:
 
-a hooded wool cape -0.6 +5 Mana. 59 Cont * EM EC ET EW [OR] - 500k
+a hooded wool cape -0.6 +5 Mana. 59 Cont \* EM EC ET EW [OR] - 500k
 
-belt of the damned -0.4 -15 HP * ApW ApBa ApMo [OR] - 500k
+belt of the damned -0.4 -15 HP \* ApW ApBa ApMo [OR] - 500k
 
-a _spark of flame - plate of planes cp - 300k 
+a \_spark of flame - plate of planes cp - 300k 
 
 a chunk of earth - plate of planes cp - 300k
 
@@ -194,7 +194,7 @@ hope, i catch u online
 
 <div class="post" data-post-id="3341" data-author="Weasel" data-date="2004-12-15T20:04:00+00:00" data-subject="">
 
-heh.. have fun tracking all those items on one thread :)
+heh.. have fun tracking all those items on one thread <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -266,7 +266,7 @@ a glowing dragon scale - 15mil
 
 <div class="post" data-post-id="3352" data-author="smegol" data-date="2004-12-16T02:52:09+00:00" data-subject="">
 
-400k on granite tipped booties :)
+400k on granite tipped booties <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -332,7 +332,7 @@ cps for plates of planes - still 300k each
 
 <div class="post" data-post-id="3361" data-author="Vale" data-date="2004-12-16T07:12:24+00:00" data-subject="">
 
-a _spark of flame - plate of planes cp - 500k
+a \_spark of flame - plate of planes cp - 500k
 
 a chunk of earth - plate of planes cp - 500k
 
@@ -342,7 +342,7 @@ a chunk of earth - plate of planes cp - 500k
 
 1.1M for both cps of plates of the planes
 
-lets stop it ;)
+lets stop it <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -370,7 +370,7 @@ a pure white stargazer lily - irda cp - 100k
 
 Bids:
 
-______________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 an amulet of protection - 2.5m Mustang
 
@@ -412,9 +412,9 @@ restring token - 18m Impz
 
 a pure white stargazer lily - 100k Beagle
 
-a _spark of flame, a chunk of earth - 1.1m Mirax
+a \_spark of flame, a chunk of earth - 1.1m Mirax
 
-___________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 PS. If i missed some me I'm sorry,just post it again plz.
 
@@ -428,7 +428,7 @@ obsidian guards - 3m min
 
 the symbol of zodiac magic - 200k min 
 
-Symbol of an Obsidian Knight  - 500k min
+Symbol of an Obsidian Knight - 500k min
 
 the obsidian jewel of souls - 300k min
 
@@ -444,7 +444,7 @@ a set of polished bone leggings- 100k min
 
 a massive claymore sword - 100k min
 
-a runed sword  - 100k min
+a runed sword - 100k min
 
 a sharp shard of obsidian - 250k min
 
@@ -516,13 +516,13 @@ shield of yawning death - 150K
 
 You people do know the Chopping Block works, as does the Emporium.
 
-Kinda hard to figure who is bidding and who is selling here :P
+Kinda hard to figure who is bidding and who is selling here <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="3375" data-author="Sind" data-date="2004-12-16T22:17:27+00:00" data-subject=":)">
 
-i like old style auction,thats y im selling here not on chop block :)
+i like old style auction,thats y im selling here not on chop block <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -600,7 +600,7 @@ Symbol of zodiac magic - 500k
 
 Bids:
 
-______________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 the symbol of zodiac magic - 500k Sian
 
@@ -650,7 +650,7 @@ a shard of vitality - 500k Corwin
 
 restring token - 18m Gul + golden rune
 
-a _spark of flame, a chunk of earth - 1.5m Vale
+a \_spark of flame, a chunk of earth - 1.5m Vale
 
 a shield of yawning death - 150k Copper
 
@@ -664,11 +664,11 @@ a massive warhammer - 250k Dezakin
 
 blue steel sleeves - 250k Dezakin
 
-~P.S. If i missed some bid, I'm sorry, plz post it again.
+\~P.S. If i missed some bid, I'm sorry, plz post it again.
 
 Still no bids on:
 
-________________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 obsidian bracer - 1m min
 
@@ -712,7 +712,7 @@ plaid tartan sleeves - 1.1mil
 
 <div class="post" data-post-id="3396" data-author="Stryker" data-date="2004-12-17T23:59:04+00:00" data-subject="Re:">
 
-a _spark of flame, a chunk of earth 1.6m
+a \_spark of flame, a chunk of earth 1.6m
 
 </div>
 
@@ -786,7 +786,7 @@ a jet black blade - 750k
 
 <div class="post" data-post-id="3410" data-author="Vale" data-date="2004-12-18T15:34:58+00:00" data-subject="">
 
-a _spark of flame, a chunk of earth 1.7mil
+a \_spark of flame, a chunk of earth 1.7mil
 
 </div>
 
@@ -824,13 +824,13 @@ a hooded wool cape - 5m
 
 <div class="post" data-post-id="3417" data-author="Mirax" data-date="2004-12-18T19:31:13+00:00" data-subject="dismiss bid">
 
-I recall my bid for wool cape - circs changed and i found i have a pair of it ;-)
+I recall my bid for wool cape - circs changed and i found i have a pair of it <img src="/images/smilies/icon_e_wink.svg" alt=";-)" title=";-)" width="15" height="15" class="smiley nozoom">
 
 So I guess the right bid for that is 4.5M by Zenkai. Good luck!
 
 My previous bid for belt of the damned - 2M is correct.
 
-Thanks Sind for using this style of auction where i can recall my bid ;-)
+Thanks Sind for using this style of auction where i can recall my bid <img src="/images/smilies/icon_e_wink.svg" alt=";-)" title=";-)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -842,7 +842,8 @@ obsidian guards 5mil
 
 <div class="post" data-post-id="3419" data-author="Weasel" data-date="2004-12-18T21:23:56+00:00" data-subject="Re:">
 
-1.8m ******/etc.[/quote:rl8lb709]
+> <strong>Stryker wrote:</strong>
+> 1.8m \*\*\*\*\*\*/etc.
 
 wtf is that a bid for?
 
@@ -864,11 +865,11 @@ You still have time to bid.
 
 But first of all think if you
 
-reall need the piece you bid on :)
+reall need the piece you bid on <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Bids: 
 
-______________________________________ 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
 
 the symbol of zodiac magic - 600k Kosowar
 
@@ -922,7 +923,7 @@ belt of the damned - 2m Mirax
 
 a shard of vitality - 500k Corwin 
 
-a _spark of flame, a chunk of earth - 1.8m Stryker 
+a \_spark of flame, a chunk of earth - 1.8m Stryker 
 
 a shield of yawning death - 150k Copper 
 
@@ -932,7 +933,7 @@ an emerald bracelet - 75k Malison
 
 Still no bids on: 
 
-________________________________________ 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
 
 obsidian bracer - 1m min 
 
@@ -984,7 +985,7 @@ a set of polished bone leggings - 100k
 
 <div class="post" data-post-id="3427" data-author="Falsra" data-date="2004-12-19T07:15:29+00:00" data-subject="">
 
-a _spark of flame, a chunk of earth 2m
+a \_spark of flame, a chunk of earth 2m
 
 </div>
 
@@ -1024,7 +1025,7 @@ a set of polished bone leggings -400k
 
 <div class="post" data-post-id="3433" data-author="Sind" data-date="2004-12-19T13:33:34+00:00" data-subject="ok">
 
-closing in 7-10 hours when i wake up :)
+closing in 7-10 hours when i wake up <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 thanks every1.
 
@@ -1050,7 +1051,7 @@ stargazer lily 350k for miss cynix
 
 <div class="post" data-post-id="3437" data-author="Kali" data-date="2004-12-19T15:30:26+00:00" data-subject="Re:">
 
-_spark of flame, a chunk of earth 2.1m
+\_spark of flame, a chunk of earth 2.1m
 
 </div>
 
@@ -1074,7 +1075,7 @@ dwarven broad axe 1.6
 
 <div class="post" data-post-id="3443" data-author="Falsra" data-date="2004-12-19T20:30:04+00:00" data-subject="">
 
-a _spark of flame, a chunk of earth 2.2m
+a \_spark of flame, a chunk of earth 2.2m
 
 </div>
 
@@ -1106,7 +1107,7 @@ Oh, and if nobody bid on the tube, I'll drop 100k on that.
 
 some tube (mage stone container) 100k
 
--Qa
+\-Qa
 
 </div>
 
@@ -1118,7 +1119,7 @@ Eye of the deep - 4mil
 
 <div class="post" data-post-id="3451" data-author="Stryker" data-date="2004-12-20T00:53:44+00:00" data-subject="re">
 
-_spark of flame, a chunk of earth 2.3m
+\_spark of flame, a chunk of earth 2.3m
 
 </div>
 
@@ -1144,11 +1145,11 @@ Blue steel x 2 - 4.5mil
 
 <div class="post" data-post-id="3457" data-author="Qa" data-date="2004-12-20T02:24:02+00:00" data-subject="">
 
-I just noticed that amulet is Wa Prime only.  Whoups.
+I just noticed that amulet is Wa Prime only. Whoups.
 
-With that being said, I will stand by my (incorrect) bid if needed.  However, if someone else would like to take the item, please do.
+With that being said, I will stand by my (incorrect) bid if needed. However, if someone else would like to take the item, please do.
 
-Sorry about that.  -Qa
+Sorry about that. -Qa
 
 </div>
 
@@ -1186,7 +1187,7 @@ obviously someone else (me) wants it or i wouldn't have bidded
 
 so do you want it or not? if not, it will go back to my original bid of 2.5mil?
 
-*shrugs*
+\*shrugs\*
 
 i'll bid 4.6mil if not
 
@@ -1236,7 +1237,7 @@ i suddenly understood i like this style of auction. yeah, it's really funny.
 
 it's easy to start but very hard to close. 
 
-i guess there will be lots of crazy bids in few last seconds before it will be close. so our previous bids is just a 'warming-up' ;))
+i guess there will be lots of crazy bids in few last seconds before it will be close. so our previous bids is just a 'warming-up' <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">)
 
 </div>
 
@@ -1348,7 +1349,7 @@ sorr.
 
 <div class="post" data-post-id="3473" data-author="Zam" data-date="2004-12-20T08:25:46+00:00" data-subject="">
 
-a ****** of flame, <>
+a \*\*\*\*\*\* of flame, \<\>
 
 MWAAAAAAAAAAAAAAHAHAHAHAHAHAHAHAHAAAAAAAAAA
 
@@ -1358,9 +1359,9 @@ MWAAAAAAAAAAAAAAHAHAHAHAHAHAHAHAHAAAAAAAAAA
 
 hey, look.. player statistics updated.
 
-i'm the best gold maker of the week from 5 Dec till 12 Dec in 1*40group.. yeeehaa!
+i'm the best gold maker of the week from 5 Dec till 12 Dec in 1\*40group.. yeeehaa!
 
-but i guess Sind will be *GOLD BOY* of the year ;)
+but i guess Sind will be \*GOLD BOY\* of the year <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -1410,7 +1411,7 @@ Qa
 
 <div class="post" data-post-id="3484" data-author="Leaf" data-date="2004-12-20T16:02:50+00:00" data-subject="">
 
-Qa u son of a ...  :p
+Qa u son of a ... :p
 
 5250000 coins
 
@@ -1420,9 +1421,9 @@ Qa u son of a ...  :p
 
 5.5 mil
 
-Son of a wonderful couple, btw.  *wink*
+Son of a wonderful couple, btw. \*wink\*
 
--Qa
+\-Qa
 
 </div>
 
@@ -1438,33 +1439,36 @@ Son of a wonderful couple, btw.  *wink*
 
 (forgot to name the item - doh)
 
--Qa
+\-Qa
 
 </div>
 
 <div class="post" data-post-id="3488" data-author="Qa" data-date="2004-12-20T17:18:54+00:00" data-subject="">
 
-Take it away, Leaf.  Out on the diamond bracers.
+Take it away, Leaf. Out on the diamond bracers.
 
--Qa
+\-Qa
 
 </div>
 
 <div class="post" data-post-id="3489" data-author="Leaf" data-date="2004-12-20T17:25:22+00:00" data-subject="">
 
-Take it away, Leaf.  Out on the diamond bracers.
+> <strong>Qa wrote:</strong>
+> Take it away, Leaf. Out on the diamond bracers.
+> 
+> 
+> 
+> \-Qa
 
--Qa[/quote:3kil7fak]
-
-*grins* thx Qa
+\*grins\* thx Qa
 
 </div>
 
 <div class="post" data-post-id="3490" data-author="Mirax" data-date="2004-12-20T18:45:23+00:00" data-subject="last round">
 
-chuooo! i feel it's coming! :wink:
+chuooo! i feel it's coming! <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
-boys & girls, last round. bang!
+boys \& girls, last round. bang!
 
 </div>
 
@@ -1586,9 +1590,9 @@ well catch me ingame and via icq(22789148)
 
 darn bleh
 
-(22789138) - thats right uin :)
+(22789138) - thats right uin <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-sigh :)
+sigh <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

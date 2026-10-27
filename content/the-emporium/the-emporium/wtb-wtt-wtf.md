@@ -20,6 +20,6 @@ Golden Sceptre
 
 Belt of Vitality
 
-brand :!:
+brand <img src="/images/smilies/icon_exclaim.svg" alt=":!:" title=":!:" width="15" height="15" class="smiley nozoom">
 
 </div>

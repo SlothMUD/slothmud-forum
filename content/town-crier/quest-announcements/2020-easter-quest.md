@@ -18,7 +18,7 @@ We are doing a simple Easter quest on Saturday 2PM Pacific.
 
 Precise time will be in the countdown link below:
 
-[<LINK_TEXT text="https://www.tickcounter.com/countdown/1 ... ster-quest">https://www.tickcounter.com/countdown/1899126/2020-slothmud-easter-quest</LINK_TEXT>](https://www.tickcounter.com/countdown/1899126/2020-slothmud-easter-quest)
+[https://www.tickcounter.com/countdown/1899126/2020-slothmud-easter-quest](https://www.tickcounter.com/countdown/1899126/2020-slothmud-easter-quest)
 
 See you there.
 

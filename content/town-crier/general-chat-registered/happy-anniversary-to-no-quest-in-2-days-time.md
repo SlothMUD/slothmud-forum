@@ -14,7 +14,7 @@ post_count: 1
 
 Jan 30, 2008 - 10:49 PM
 
-*Akasha* 
+\*Akasha\* 
 
 This was the last post from Akasha on Quest Thread which will be about 1 year in 2 days time. 
 

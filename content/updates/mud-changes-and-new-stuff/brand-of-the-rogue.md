@@ -32,6 +32,6 @@ for anyone that has already forged the clasp before these changes.
 
 Thanks, and I hope that helps.
 
--Neptune
+\-Neptune
 
 </div>

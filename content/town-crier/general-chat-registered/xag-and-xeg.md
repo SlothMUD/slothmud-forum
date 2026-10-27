@@ -30,12 +30,12 @@ You slam into the ground!
 
 Your blood freezes as you hear someone's death cry.
 
--300hp and blinded
+\-300hp and blinded
 
 </div>
 
 <div class="post" data-post-id="30931" data-author="Virus" data-date="2010-03-03T15:00:23+00:00" data-subject="">
 
-LOL...that looks fun!  :D
+LOL...that looks fun! <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>

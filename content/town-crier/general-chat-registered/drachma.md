@@ -22,13 +22,14 @@ Splork
 
 <div class="post" data-post-id="11835" data-author="osric" data-date="2006-03-27T18:31:35+00:00" data-subject="">
 
-Isn't that just a sign that more quests should be run, or at least auto quests should be made more accessible (like on WOW) so that certain people don't have to hump the same autoquests over and over again  with multiple characters to buy one measly spellbook?  However, I know that many of you imms have put in long hours on creating autoquests and other time wasters for us, and thank you for that!
+Isn't that just a sign that more quests should be run, or at least auto quests should be made more accessible (like on WOW) so that certain people don't have to hump the same autoquests over and over again with multiple characters to buy one measly spellbook? However, I know that many of you imms have put in long hours on creating autoquests and other time wasters for us, and thank you for that!
 
 </div>
 
 <div class="post" data-post-id="11836" data-author="Autolycos" data-date="2006-03-27T18:33:09+00:00" data-subject="Re: Drachma">
 
-hmm, find the time to fix it...about 2010...[/quote:2osq3j3i]
+> <strong>\*Splork\* wrote:</strong>
+> hmm, find the time to fix it...about 2010...
 
 My god.... it's full of stars...
 
@@ -36,7 +37,7 @@ My god.... it's full of stars...
 
 <div class="post" data-post-id="11841" data-author="osric" data-date="2006-03-27T19:16:22+00:00" data-subject="">
 
-Nice allusion Auto! :D
+Nice allusion Auto! <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 

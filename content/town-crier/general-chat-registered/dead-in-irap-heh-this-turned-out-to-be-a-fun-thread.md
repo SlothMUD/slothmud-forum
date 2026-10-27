@@ -26,7 +26,7 @@ too late i corpsed
 
 <div class="post" data-post-id="14618" data-author="Jag" data-date="2006-10-13T03:54:36+00:00" data-subject="">
 
-Hmm I'm dead in cata - spectre - wonder if anyone will read this :)
+Hmm I'm dead in cata - spectre - wonder if anyone will read this <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -44,7 +44,7 @@ dead in Tony's..
 
 <div class="post" data-post-id="14622" data-author="Weasel" data-date="2006-10-13T17:49:38+00:00" data-subject="">
 
-cheers Luke :)
+cheers Luke <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -52,7 +52,7 @@ cheers Luke :)
 
 dead at militia commander in Tonys Temple...
 
-.... UP - thanks Shyla :)
+.... UP - thanks Shyla <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -68,7 +68,7 @@ Mike
 
 Ok, we need to teach Weasel the wonders of being in channel....
 
-~dragonsworn~ is mostly a clan channel, but there's a few that hang out there for safety as well.  You're welcome to as well, and if we're not on, I'm sure that at least 1 channel that's in use won't mind you hanging out.
+\~dragonsworn\~ is mostly a clan channel, but there's a few that hang out there for safety as well. You're welcome to as well, and if we're not on, I'm sure that at least 1 channel that's in use won't mind you hanging out.
 
 </div>
 
@@ -76,7 +76,7 @@ Ok, we need to teach Weasel the wonders of being in channel....
 
 I got help via ICQ in the end - there were only a handful of people on at the time (in the teens I believe), and the few times I've been in channel it was of no help, so I rarely bother with it. I do have to question sayinging someone sucks for using the forum when the forum is an opportunity to get raised rather than corpsing - if you think using it is stupid, than no skin off my back - corpse and enjoy the exp loss in the knowledge that you could have prevented it. It's saved me more than once, and I'll continue to use it in future from time to time if I can't raise anyone on ICQ. 
 
- 8)
+ <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 I'll try channels in future maybe, but they've been ignored in the past when I've been nailed - prob too many people AFK or botting..
 
@@ -98,19 +98,19 @@ Shrugs, hosers or russian channel always save me unless only newbies are on.
 
 Heh, I was sitting at the computer when you ICQ'd but was really in
 
-no condition to fuck with sloth :)  I like Mike's title better.
+no condition to fuck with sloth <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> I like Mike's title better.
 
 </div>
 
 <div class="post" data-post-id="14639" data-author="Jag" data-date="2006-10-16T17:25:02+00:00" data-subject="">
 
-Just blundered into city of undead ss, died quick, wondered if this or hoser will help . :)
+Just blundered into city of undead ss, died quick, wondered if this or hoser will help . <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="14640" data-author="Jag" data-date="2006-10-16T17:39:28+00:00" data-subject="">
 
-Sigh, can't ferret to it.  (over water)  Noone available for cr.  Just died as a frog.  Same vamp follower I think.
+Sigh, can't ferret to it. (over water) Noone available for cr. Just died as a frog. Same vamp follower I think.
 
 I could use some help if anyone is free.
 
@@ -126,13 +126,13 @@ heh
 
 <div class="post" data-post-id="14643" data-author="Rynquald" data-date="2006-10-16T23:11:22+00:00" data-subject="">
 
-Would just like to point out here that the ss supply shop sells rafts for your ferret-cr needs :)
+Would just like to point out here that the ss supply shop sells rafts for your ferret-cr needs <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="14644" data-author="Jag" data-date="2006-10-16T23:49:43+00:00" data-subject="">
 
-Meant to say it loudly before.  
+Meant to say it loudly before. 
 
 Thanks Brady and Karkus for rescuing the Newbie "HC".
 
@@ -140,9 +140,10 @@ Thanks Brady and Karkus for rescuing the Newbie "HC".
 
 <div class="post" data-post-id="14646" data-author="12345" data-date="2006-10-17T00:48:10+00:00" data-subject="">
 
-Would just like to point out here that the ss supply shop sells rafts for your ferret-cr needs :)[/quote:3efuxavd]
+> <strong>Rynquald wrote:</strong>
+> Would just like to point out here that the ss supply shop sells rafts for your ferret-cr needs <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-Keeping some gold in banks is useful for buying them too :)
+Keeping some gold in banks is useful for buying them too <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -150,7 +151,7 @@ Keeping some gold in banks is useful for buying them too :)
 
 waiting to corpse from -4hp is rather excessively long...
 
-and why isn't anyone on my icq list on :(
+and why isn't anyone on my icq list on <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 anyone who wants another icq contact feel free to add me at
 

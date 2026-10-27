@@ -14,7 +14,7 @@ post_count: 1
 
 Here's an example package of how to display GROUP using MSDP variables.
 
-(image: /[<LINK_TEXT text="https://raw.githubusercontent.com/wiki/ ... _group.png">https://raw.githubusercontent.com/wiki/CodeAndLoathing/mudlet-slothmud/images/win_group.png</LINK_TEXT>](https://raw.githubusercontent.com/wiki/CodeAndLoathing/mudlet-slothmud/images/win_group.png))
+![](https://raw.githubusercontent.com/wiki/CodeAndLoathing/mudlet-slothmud/images/win_group.png)
 
 [Click here to see the screenshot by itself.](https://raw.githubusercontent.com/wiki/CodeAndLoathing/mudlet-slothmud/images/win_group.png)
 
@@ -44,22 +44,20 @@ If you want to lock the container in place so you don't accidentally move/drag/r
 lua win_group:lockContainer()
 ```
 
- 
-
 See for more info on adjustable containers:
 
-    [<LINK_TEXT text="https://wiki.mudlet.org/w/manual:geyser ... .Container">https://wiki.mudlet.org/w/manual:geyser#Adjustable.Container</LINK_TEXT>](https://wiki.mudlet.org/w/manual:geyser#Adjustable.Container)
+ [https://wiki.mudlet.org/w/manual:geyser#Adjustable.Container](https://wiki.mudlet.org/w/manual:geyser#Adjustable.Container)
 
-    [<LINK_TEXT text="https://www.mudlet.org/geyser/files/gey ... ainer.html">https://www.mudlet.org/geyser/files/geyser/AdjustableContainer.html</LINK_TEXT>](https://www.mudlet.org/geyser/files/geyser/AdjustableContainer.html)
+ [https://www.mudlet.org/geyser/files/geyser/AdjustableContainer.html](https://www.mudlet.org/geyser/files/geyser/AdjustableContainer.html)
 
 Installation
 
-    Download [win_group.zip](https://github.com/CodeAndLoathing/mudlet-slothmud/releases/latest/download/win_group.zip) from [releases/latest](https://github.com/CodeAndLoathing/mudlet-slothmud/releases/latest)
+ Download [win\_group.zip](https://github.com/CodeAndLoathing/mudlet-slothmud/releases/latest/download/win_group.zip) from [releases/latest](https://github.com/CodeAndLoathing/mudlet-slothmud/releases/latest)
 
-    Extract win_group.xml from zip.
+ Extract win\_group.xml from zip.
 
-    Use Mudlet package manager to install or uninstall the xml file.
+ Use Mudlet package manager to install or uninstall the xml file.
 
-    It can be installed as either a package or a module.
+ It can be installed as either a package or a module.
 
 </div>

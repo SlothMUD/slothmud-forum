@@ -20,6 +20,6 @@ post_count: 2
 
 At 18/65 you need only 4 points to get max STR (and +6 dam).
 
-:roll:
+<img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>

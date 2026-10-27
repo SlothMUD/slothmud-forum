@@ -14,6 +14,6 @@ post_count: 1
 
 Looking for Star or Orb for Dex Light.
 
-Will pay well :)
+Will pay well <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

@@ -14,43 +14,43 @@ post_count: 4
 
 looking to buy anything that could would be an improvement over the items i currently have:
 
-<used as light>      a pearl of the rising tide
+\<used as light\> a pearl of the rising tide
 
-<worn on finger>     a spiked, golden ring
+\<worn on finger\> a spiked, golden ring
 
-<worn on finger>     a small turquoise ring
+\<worn on finger\> a small turquoise ring
 
-<worn around neck>   a gold chain
+\<worn around neck\> a gold chain
 
-<worn around neck>   a gold chain
+\<worn around neck\> a gold chain
 
-<worn on body>       a suit of mystic plate mail
+\<worn on body\> a suit of mystic plate mail
 
-<worn on head>       a large spangelhelm
+\<worn on head\> a large spangelhelm
 
-<worn on legs>       a black chain skirt
+\<worn on legs\> a black chain skirt
 
-<worn on feet>       black leather boots
+\<worn on feet\> black leather boots
 
-<worn on hands>      a pair of jeweled gloves
+\<worn on hands\> a pair of jeweled gloves
 
-<worn on arms>       chainmail sleeves..It has a soft glowing aura!
+\<worn on arms\> chainmail sleeves..It has a soft glowing aura!
 
-<worn as shield>     a tower shield
+\<worn as shield\> a tower shield
 
-<worn about body>    legerdemain disguise
+\<worn about body\> legerdemain disguise
 
-<worn about waist>   a dull red belt
+\<worn about waist\> a dull red belt
 
-<worn around wrist>  a small, leather rat collar
+\<worn around wrist\> a small, leather rat collar
 
-<worn around wrist>  a congealed mist bracer
+\<worn around wrist\> a congealed mist bracer
 
-<wielded>            a blue glass dagger..It has a soft glowing aura!
+\<wielded\> a blue glass dagger..It has a soft glowing aura!
 
 my stats with gear on:
 
-Your levels:  Th: 20 Wa: 13 Cl: 11 Ma: 7 
+Your levels: Th: 20 Wa: 13 Cl: 11 Ma: 7 
 
 You are 27 years and 12 months old.
 
@@ -60,13 +60,13 @@ Your armor class is -3.6.
 
 Str: 18 / 100, Int: 16, Wis: 14, Dex: 18, Con: 18
 
-You are affected by the following spells:                      
+You are affected by the following spells: 
 
-   Armor 
+ Armor 
 
 my stats without gear on:
 
-Your levels:  Th: 20 Wa: 13 Cl: 11 Ma: 7 
+Your levels: Th: 20 Wa: 13 Cl: 11 Ma: 7 
 
 You are 17 years and 12 months old.
 
@@ -76,9 +76,9 @@ Your armor class is 4.0.
 
 Str: 18 / 60, Int: 16, Wis: 14, Dex: 18, Con: 18
 
-You are affected by the following spells:                      
+You are affected by the following spells: 
 
-   Armor 
+ Armor 
 
 so as you can see i am mainly a melee character and i use my spells mainly as support since circle is my main skill i use
 
@@ -104,13 +104,13 @@ oh also i could use an orange spellbook for the spell stone skin if someone want
 
 Wow, nice stats. 
 
-It can be tough getting eq for a starting character.  Some thoughts, when the mud is up a little while, check all the shops.  I just started a valker the other day and picked up an ivory scarab held low and a bunch of other decent newbie eq.  
+It can be tough getting eq for a starting character. Some thoughts, when the mud is up a little while, check all the shops. I just started a valker the other day and picked up an ivory scarab held low and a bunch of other decent newbie eq. 
 
 For strength, you could keep an eye out for oak leaf clusters or just use a orange potion. Or add a dragon crested helm, which you should be able to pop in the BH sewers.
 
-The gold will come.  One thing I did when I was new and needed gold was to continue to run tri tokens and sell them at 50k a pop. When you are able to kill the fat constable on vk, that will help too ( around $36K gold ).
+The gold will come. One thing I did when I was new and needed gold was to continue to run tri tokens and sell them at 50k a pop. When you are able to kill the fat constable on vk, that will help too ( around $36K gold ).
 
-Oh, and we don't see spellbooks here, we give them away.  You might consider putting it in your title that you are looking for the stone skin book, one will turn up soon enough, or you can go to AH and pop one yourself.  
+Oh, and we don't see spellbooks here, we give them away. You might consider putting it in your title that you are looking for the stone skin book, one will turn up soon enough, or you can go to AH and pop one yourself. 
 
 Karna
 
@@ -120,7 +120,7 @@ Karna
 
 Hey belisarius,
 
-Just a quick look at ur eq and nice nat stats btw.  I would do a few small
+Just a quick look at ur eq and nice nat stats btw. I would do a few small
 
 things.
 
@@ -142,7 +142,7 @@ Change chainmail sleeves to Granite Bracer
 
 Change tower shield to Silver ... Damn forgot the name its -1.1
 
-Change ur wrist eq to DAMAGE one, like the little forge in Star.  Damage
+Change ur wrist eq to DAMAGE one, like the little forge in Star. Damage
 
 EQ is key for Thiefs!
 
@@ -160,6 +160,6 @@ thanks for the replys guys ill look into using the potions and getting the torcs
 
 i figured people put what spells/skills they needed in title cause they wanted to buy them didnt know you guys just passed them around i'll remember that so i can give out to ppl who need too
 
-ill check out all that gear listed on the equipment list  and try to get it thanks for the info and pointers
+ill check out all that gear listed on the equipment list and try to get it thanks for the info and pointers
 
 </div>

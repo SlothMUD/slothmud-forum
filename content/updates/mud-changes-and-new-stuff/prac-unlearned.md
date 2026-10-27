@@ -14,7 +14,7 @@ post_count: 1
 
 Hi all ...
 
-Added a new parameter to the practice command.  "prac unlearned" shows all spells and skills that you dont have fully learned : either 0% or 84% or whatever.  Works for your not avatar classes, avatars should know what they have unlearned.   :)
+Added a new parameter to the practice command. "prac unlearned" shows all spells and skills that you dont have fully learned : either 0% or 84% or whatever. Works for your not avatar classes, avatars should know what they have unlearned. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Changes in next reboot.
 

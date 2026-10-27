@@ -14,9 +14,9 @@ post_count: 2
 
 [pri sec ter qua] Players
 
------------------
+\-----------------
 
-[ *Soothsayer*  ] Shara the Ricebucket
+[ \*Soothsayer\* ] Shara the Ricebucket
 
 There are 1 visible players.
 
@@ -28,6 +28,6 @@ Highest total since last bootup: 1.
 
 <div class="post" data-post-id="9828" data-author="Chainer" data-date="2005-12-16T12:17:29+00:00" data-subject="">
 
-Gratz, Shara   :P
+Gratz, Shara <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>

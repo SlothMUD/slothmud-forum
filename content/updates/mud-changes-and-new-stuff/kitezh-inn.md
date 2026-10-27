@@ -14,7 +14,7 @@ post_count: 1
 
 Greeting mortals.
 
-- Added **The Inn of whe Wounded Paladin** (Nastasia, Kitezh) as Inn.
+- Added <strong>The Inn of whe Wounded Paladin</strong> (Nastasia, Kitezh) as Inn.
 
 Change will be available on crash/reboot (after someone recompiles the code).
 

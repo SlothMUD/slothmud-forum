@@ -18,7 +18,7 @@ Bad news is I have now remembered all the ways that tintin is annoying and poorl
 
 Anyone have a good Linux client that has a gui that supports mxp and dare I say it ...Windows. The gnome kind preferred. I would like it to be a native Linux app. I.E no wine!
 
-I don't really care what language it uses. I can figure that out I just want tells to go to their own window and be able to say good by to #grep tell ...  
+I don't really care what language it uses. I can figure that out I just want tells to go to their own window and be able to say good by to #grep tell ... 
 
 Any Ideas?
 
@@ -30,7 +30,7 @@ Oh and yes I tried getting wintin to work in mono gives library errors. (can pos
 
 Have a look thru this list:
 
-[url:28bzgrqh]http://www.mudconnect.com/resources/Mud_Resources:Mud_Clients.html[/url:28bzgrqh]
+http://www.mudconnect.com/resources/Mud_Resources:Mud_Clients.html
 
 ..there's a few unix clients on there. I'm a windoze user, so can't make any recommendations sorry.
 
@@ -40,6 +40,6 @@ Have a look thru this list:
 
 Looks like Kmuddy is the only linux client that does MXP...
 
-It's going to be a while before I can play :)
+It's going to be a while before I can play <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

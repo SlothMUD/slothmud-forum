@@ -7,4 +7,4 @@ is_category: false
 weight: 58
 ---
 
-Other clients used.  jmc/tinyfuge, ect.
+Other clients used. jmc/tinyfuge, ect.

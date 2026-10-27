@@ -18,7 +18,7 @@ You feel informed:
 
 Object 'ring flames', Item type: ARMOR
 
-Item is: HUM **INVENTORY** 
+Item is: HUM \*\*INVENTORY\*\* 
 
 Weight: 1, Value: 429000, Worn in: TAKE FINGER 
 
@@ -26,13 +26,13 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: MANA by 5
+ Affects: MANA by 5
 
-    Affects: REGEN_MANA by 2
+ Affects: REGEN\_MANA by 2
 
 Only those who are at least adept magic users and also experienced clerics 
 
-may use this item.  
+may use this item. 
 
 8 mil minimum, 16 mil buyout.
 
@@ -40,6 +40,6 @@ may use this item.
 
 <div class="post" data-post-id="1544" data-author="Dragoth" data-date="2004-08-22T22:48:18+00:00" data-subject="">
 
-:shock:
+<img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>

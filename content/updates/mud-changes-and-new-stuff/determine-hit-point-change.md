@@ -22,6 +22,6 @@ Enjoy,
 
 Splork
 
-** Keep in mind, not all classos get bonuses for each stat of constitution. If you are one of those classos, you will not see a change **
+\*\* Keep in mind, not all classos get bonuses for each stat of constitution. If you are one of those classos, you will not see a change \*\*
 
 </div>

@@ -32,7 +32,7 @@ Thanks for your work, guys! :)
 
 <div class="post" data-post-id="14447" data-author="Rynquald" data-date="2006-10-01T23:38:09+00:00" data-subject="">
 
-Nice, looks great, thanks :)
+Nice, looks great, thanks <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -40,7 +40,7 @@ Nice, looks great, thanks :)
 
 Very nice site design.
 
-I think this calls for another Mudconnector advert post. :D
+I think this calls for another Mudconnector advert post. <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -52,7 +52,7 @@ very fucking nice!
 
 <div class="post" data-post-id="14450" data-author="Alberich" data-date="2006-10-02T03:25:12+00:00" data-subject="">
 
-very impressive!  I like it
+very impressive! I like it
 
 </div>
 
@@ -66,41 +66,41 @@ Love the new site. Really looks good. The Sloth Admin is the BEST!!!
 
 Love the new design, but is there any reason it can't go to the full width of the screen?
 
- :shock:
+ <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="14455" data-author="Clink" data-date="2006-10-02T09:35:38+00:00" data-subject="">
 
-Love the new design, but is there any reason it can't go to the full width of the screen?
+> <strong>Knight wrote:</strong>
+> Love the new design, but is there any reason it can't go to the full width of the screen?
 
- [/quote:2j9d5smp]
-
-Yes.  It is a fixed width set of imagery.
+Yes. It is a fixed width set of imagery.
 
 </div>
 
 <div class="post" data-post-id="14456" data-author="Diazz_Dizazter" data-date="2006-10-02T11:10:28+00:00" data-subject="">
 
-Had it bookmarked for a couple weeks now.  Was wondering when it
+Had it bookmarked for a couple weeks now. Was wondering when it
 
-was gonne be released into the wild.  :)
+was gonne be released into the wild. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="14474" data-author="Knight" data-date="2006-10-03T07:33:33+00:00" data-subject="">
 
-[quote:1wnhoc99]Yes. It is a fixed width set of imagery.[/quote:1wnhoc99]
+> <strong>Quote:</strong>
+> Yes. It is a fixed width set of imagery.
 
 It's just a shame it's all scrunched up down the left three quarters of the screen when viewed in 1280/1024.
 
- :?
+ <img src="/images/smilies/icon_e_confused.svg" alt=":?" title=":?" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="14475" data-author="Falsra" data-date="2006-10-03T09:08:09+00:00" data-subject="">
 
-Good news, i like changes 8) !
+Good news, i like changes <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> !
 
 Although, as for me, the very old player, information and usability
 
@@ -124,11 +124,11 @@ disappointed becouse Sloth is not the world they expected. Those players,
 
 who does not like horrible monsters and andless combats much, may
 
-decide Sloth is not for them... and even would not try our world. :(
+decide Sloth is not for them... and even would not try our world. <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
-Splork, Clink and Wade Gustafson did great work. *respect*
+Splork, Clink and Wade Gustafson did great work. \*respect\*
 
-Think, primary conception was mistaken. Again, it is only _my_ opinion.
+Think, primary conception was mistaken. Again, it is only \_my\_ opinion.
 
 I would prefer less aggresive, calm and more associated with "family mud"
 
@@ -154,9 +154,9 @@ Clink
 
 I think we need pictures of scantily clad women adventurers also -- that would help attract people.
 
- :D 
+ <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom"> 
 
-looks great guys!  nice work!
+looks great guys! nice work!
 
 </div>
 
@@ -172,7 +172,7 @@ Splork
 
 <div class="post" data-post-id="14495" data-author="tincts" data-date="2006-10-04T03:22:52+00:00" data-subject="">
 
-Heck, I'd log on and have a look base solely on the qualily of this site.  It's beautiful.  Wd and ty.
+Heck, I'd log on and have a look base solely on the qualily of this site. It's beautiful. Wd and ty.
 
 </div>
 
@@ -188,43 +188,43 @@ My only complaint is the same as some of the others; on high resolution desktops
 
 On your [http://www.slothmud.org/themes/SlothIII/style/style.css](http://www.slothmud.org/themes/SlothIII/style/style.css) add the following:
 
-body  {
+body {
 
-   margin: 0; 
+ margin: 0; 
 
-   background: url(../images/slothIII_mainbg_full.jpg) repeat;
+ background: url(../images/slothIII\_mainbg\_full.jpg) repeat;
 
-   }
+ }
 
 that should replace that black space with the same bg that's in the page background.. although the edges wont line up, but may look better than the blackness.
 
 You could ALTERNATIVELY try this to center everything.. it may or may not work depending on a few other things, but worth a try.
 
-body  {
+body {
 
-   margin: 0 auto;   /* center on everything else */
+ margin: 0 auto; /\* center on everything else \*/
 
-   text-align: center;  /* center on ie */
+ text-align: center; /\* center on ie \*/
 
-   padding: 0; /* setting border: 0 hoses ie5 win window inner well border */
+ padding: 0; /\* setting border: 0 hoses ie5 win window inner well border \*/
 
-   background: url(../images/slothIII_mainbg_full.jpg) repeat;
+ background: url(../images/slothIII\_mainbg\_full.jpg) repeat;
 
-   }
+ }
 
-html   {
+html {
 
-   margin: 0;  /* setting border: 0 hoses ie5 win window inner well border */
+ margin: 0; /\* setting border: 0 hoses ie5 win window inner well border \*/
 
-   padding: 0;
+ padding: 0;
 
-   }
+ }
 
 </div>
 
 <div class="post" data-post-id="16199" data-author="Avatar" data-date="2007-01-11T03:55:34+00:00" data-subject="New website">
 
-Just wanted to say that I'm still impressed by the new website.  It really rocks, very nice.
+Just wanted to say that I'm still impressed by the new website. It really rocks, very nice.
 
 </div>
 

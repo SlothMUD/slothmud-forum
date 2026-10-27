@@ -30,21 +30,21 @@ Narmer tells you 'You can't abandon a quest you haven't even undertaken!'
 
 [Enter infinite loop here]
 
-So, attention would be good here.  I fully expect any number of people to laugh at me for not doing these quests until tard 38, but eh, I just never got around to it. 
+So, attention would be good here. I fully expect any number of people to laugh at me for not doing these quests until tard 38, but eh, I just never got around to it. 
 
 Meanwhile, I'm killing Narmer to try and reset him
 
 Patrick (Van)
 
-P.S. Killing Narmer did nothing.  Not that I expected it to, but you never know. :)
+P.S. Killing Narmer did nothing. Not that I expected it to, but you never know. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="16975" data-author="firebrand" data-date="2007-02-17T15:56:53+00:00" data-subject="">
 
-shazuko told me that the same thing happened to him too.  no one going to laugh at you for waiting so long to do the quest.  a lot of us were tards before it ever went ingame.  we have no room to laugh at you.
+shazuko told me that the same thing happened to him too. no one going to laugh at you for waiting so long to do the quest. a lot of us were tards before it ever went ingame. we have no room to laugh at you.
 
-"we need to get bigger guns. BIG FUKKING GUNS!" --dick durkin --> split second
+"we need to get bigger guns. BIG FUKKING GUNS!" --dick durkin --\> split second
 
 </div>
 

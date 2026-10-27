@@ -16,7 +16,7 @@ Most of my changes have been behind the scenes - trying to get some things in pl
 
 I did fix the issue with temporary hps from oaths and warcrys - hits now show as hits.
 
-Tuk has asked me to look at adding some more things to MSDP - servant hps, spell shield hps and some other stuff.  If you have suggestions for MSDP let me know.
+Tuk has asked me to look at adding some more things to MSDP - servant hps, spell shield hps and some other stuff. If you have suggestions for MSDP let me know.
 
 </div>
 
@@ -36,7 +36,7 @@ Not sure it's the intended purpose of the "watch" command, but it'd definitely b
 
 <div class="post" data-post-id="38253" data-author="*teker*" data-date="2017-05-25T16:40:20+00:00" data-subject="Re: Changelog 2017-05-18">
 
-I've tried to get the character variables cleaned up - next reboot should have a number of fields grouped together - CHARACTER_DEFINITION, CHARACTER_ACHIEVEMENTS, CHARACTER_STATISTICS, etc.  See HELP MSDP for the most up to date list.
+I've tried to get the character variables cleaned up - next reboot should have a number of fields grouped together - CHARACTER\_DEFINITION, CHARACTER\_ACHIEVEMENTS, CHARACTER\_STATISTICS, etc. See HELP MSDP for the most up to date list.
 
 I'll take a look at groups and watch.
 
@@ -44,6 +44,6 @@ I'll take a look at groups and watch.
 
 <div class="post" data-post-id="38254" data-author="*teker*" data-date="2017-05-26T19:41:59+00:00" data-subject="Re: Changelog 2017-05-18">
 
-I've noticed that the CHARACTER_ACHIEVEMENT levels list isn't coming out right.  Should be fixed soon.
+I've noticed that the CHARACTER\_ACHIEVEMENT levels list isn't coming out right. Should be fixed soon.
 
 </div>

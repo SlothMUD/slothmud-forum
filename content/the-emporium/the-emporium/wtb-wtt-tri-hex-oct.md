@@ -34,7 +34,7 @@ In the end I agree rolling 1 or 2 octs and expecting a good result is naive, but
 
 <div class="post" data-post-id="9519" data-author="12345" data-date="2005-11-15T22:01:10+00:00" data-subject="">
 
-I'd be curious to see your list of rerolls.  Of the ones I have and those I've collected from others, less than half would be rerolled.  Not to say they're useless... but rolling 20 would be more like rolling 35 in my estimation.
+I'd be curious to see your list of rerolls. Of the ones I have and those I've collected from others, less than half would be rerolled. Not to say they're useless... but rolling 20 would be more like rolling 35 in my estimation.
 
 </div>
 

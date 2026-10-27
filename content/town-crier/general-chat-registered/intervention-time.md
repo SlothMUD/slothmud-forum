@@ -12,7 +12,7 @@ post_count: 11
 
 <div class="post" data-post-id="8518" data-author="Vanyel" data-date="2005-09-02T14:14:24+00:00" data-subject="Intervention time?">
 
-[40n  0d  0c  0b] Shaun of the Dead
+[40n 0d 0c 0b] Shaun of the Dead
 
 Someone needs to stop this maniac and make him get a life.
 
@@ -60,7 +60,7 @@ I don't know Chucky ...
 
 <div class="post" data-post-id="8530" data-author="12345" data-date="2005-09-02T23:55:07+00:00" data-subject="">
 
-It's possible with some classes I know.  At least if you didn't have to stop to get stats.
+It's possible with some classes I know. At least if you didn't have to stop to get stats.
 
 </div>
 
@@ -78,6 +78,6 @@ Once you can exchange coins you get a few quick levels.
 
 <div class="post" data-post-id="8536" data-author="Gnu" data-date="2005-09-03T07:57:49+00:00" data-subject="">
 
-Bards are overpowered :P
+Bards are overpowered <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>

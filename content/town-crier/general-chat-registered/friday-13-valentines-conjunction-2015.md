@@ -28,6 +28,6 @@ Ozzy -- 'nvm we can try again'
 
 With a twist of the wrist, Feist rolls a 13.
 
-----End times approaching.
+\----End times approaching.
 
 </div>

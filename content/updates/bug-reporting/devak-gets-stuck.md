@@ -22,7 +22,7 @@ looking shows the devak in the room but if you try to get it it says you can't g
 
 <div class="post" data-post-id="40143" data-author="*teker*" data-date="2025-01-12T00:43:14+00:00" data-subject="Re: devak gets stuck">
 
-I just looked at the code and I'm not seeing any kind of full inventory check when retrieving devaks.  Maybe you could show the message you receive if you see it again.
+I just looked at the code and I'm not seeing any kind of full inventory check when retrieving devaks. Maybe you could show the message you receive if you see it again.
 
 </div>
 

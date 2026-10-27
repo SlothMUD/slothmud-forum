@@ -14,37 +14,37 @@ post_count: 22
 
 internets being internets i'm very much hoping this isn't actually true
 
-[url:2g9lmlg7]http://www.freeyabb.com/phpbb/viewtopic.php?t=4373&mforum=trolllordgames[/url:2g9lmlg7]
+http://www.freeyabb.com/phpbb/viewtopic.php?t=4373&mforum=trolllordgames
 
-if it is, RIP Dungeon Master :(
+if it is, RIP Dungeon Master <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 EDIT
 
-CNN isn't any more reliable than a blog, but they're reporting it too :(  very sad day
+CNN isn't any more reliable than a blog, but they're reporting it too <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom"> very sad day
 
-[url:2g9lmlg7]http://edition.cnn.com/2008/TECH/03/04/obit.gygax.ap/index.html[/url:2g9lmlg7]
+http://edition.cnn.com/2008/TECH/03/04/obit.gygax.ap/index.html
 
 </div>
 
 <div class="post" data-post-id="23097" data-author="Leaf" data-date="2008-03-04T18:54:14+00:00" data-subject="">
 
-Its sad news to hear.  For me, I remember walking around in college and 
+Its sad news to hear. For me, I remember walking around in college and 
 
-saw a group of people laughing and yelling.  I was thinking, that can't be
+saw a group of people laughing and yelling. I was thinking, that can't be
 
-a class...  As I asked what they were "playing" they said D&D, which at 
+a class... As I asked what they were "playing" they said D\&D, which at 
 
-the time I had no clue.  I sat down for a few hours and it was pertty fun.
+the time I had no clue. I sat down for a few hours and it was pertty fun.
 
-A few of the D&D players also played Sloth.  Which they introduced me to
+A few of the D\&D players also played Sloth. Which they introduced me to
 
-that week.  10 yrs later and I'm still mudding.  So thx Dungeon Master!
+that week. 10 yrs later and I'm still mudding. So thx Dungeon Master!
 
 </div>
 
 <div class="post" data-post-id="23098" data-author="Akasha" data-date="2008-03-04T21:53:09+00:00" data-subject="">
 
-wow... <moment of silence>... <lots of moments of I dont know what to say>
+wow... \<moment of silence\>... \<lots of moments of I dont know what to say\>
 
 </div>
 
@@ -64,17 +64,17 @@ His name was Gary Gygax.
 
 <div class="post" data-post-id="23101" data-author="Alberich" data-date="2008-03-04T22:51:29+00:00" data-subject="">
 
-[url:356uy47z]http://en.wikipedia.org/wiki/Gary_Gygax[/url:356uy47z]
+http://en.wikipedia.org/wiki/Gary_Gygax
 
-[url:356uy47z]http://en.wikipedia.org/wiki/Dungeons_%26_Dragons[/url:356uy47z]
+http://en.wikipedia.org/wiki/Dungeons_%26_Dragons
 
-*mutters something about kids these days*
+\*mutters something about kids these days\*
 
 </div>
 
 <div class="post" data-post-id="23105" data-author="Rynquald" data-date="2008-03-05T02:25:00+00:00" data-subject="">
 
-Very sad indeed :(
+Very sad indeed <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -92,25 +92,25 @@ He will be missed and by a number of people who never even knew him personally.
 
 fun times
 
-[img:3vkyamqo]http://i209.photobucket.com/albums/bb76/dbscott2034/dnd_Box1st.jpg[/img:3vkyamqo]
+![](http://i209.photobucket.com/albums/bb76/dbscott2034/dnd_Box1st.jpg)
 
-[img:3vkyamqo]http://i209.photobucket.com/albums/bb76/dbscott2034/ODND.jpg[/img:3vkyamqo]
+![](http://i209.photobucket.com/albums/bb76/dbscott2034/ODND.jpg)
 
-[img:3vkyamqo]http://i209.photobucket.com/albums/bb76/dbscott2034/45-1.jpg[/img:3vkyamqo]
+![](http://i209.photobucket.com/albums/bb76/dbscott2034/45-1.jpg)
 
-[img:3vkyamqo]http://i209.photobucket.com/albums/bb76/dbscott2034/17163.jpg[/img:3vkyamqo]
+![](http://i209.photobucket.com/albums/bb76/dbscott2034/17163.jpg)
 
 </div>
 
 <div class="post" data-post-id="23109" data-author="brand" data-date="2008-03-05T06:23:00+00:00" data-subject="Gary roll that save vs death!">
 
-saving throw vs death Gary.  roll it.
+saving throw vs death Gary. roll it.
 
 you failed...
 
 what a bummer.
 
-I might have to run out to half priced books on Thursday and buy up a DMG :twisted:
+I might have to run out to half priced books on Thursday and buy up a DMG <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -118,15 +118,15 @@ I might have to run out to half priced books on Thursday and buy up a DMG :twist
 
 from PA this morning
 
-[img:dnuoxbqd]http://www.penny-arcade.com/images/2008/20080304.jpg[/img:dnuoxbqd]
+![](http://www.penny-arcade.com/images/2008/20080304.jpg)
 
 </div>
 
 <div class="post" data-post-id="23115" data-author="Alberich" data-date="2008-03-06T00:28:13+00:00" data-subject="">
 
-[url:d1kncq8u]http://blogs.westword.com/latestword/2008/03/25_gaming_euphemisms_for_the_d.php[/url:d1kncq8u]
+http://blogs.westword.com/latestword/2008/03/25_gaming_euphemisms_for_the_d.php
 
-6 cracked me up and 13 reminded me of sloth :P
+6 cracked me up and 13 reminded me of sloth <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -134,11 +134,11 @@ from PA this morning
 
 Since someone like a yr ago posted this site (Order of the Sticks), I've been
 
-visiting it like every few days.  This was a great strip they made to honor 
+visiting it like every few days. This was a great strip they made to honor 
 
-him.  :P 
+him. <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom"> 
 
-[img:1f0plo3x]http://www.giantitp.com/comics/images/rZ5a6UyMKCDAwzZyA2l.gif[/img:1f0plo3x]
+![](http://www.giantitp.com/comics/images/rZ5a6UyMKCDAwzZyA2l.gif)
 
 </div>
 
@@ -150,7 +150,8 @@ Lately I've been wishing they'd hurry up and find/raise Roy, but having such a p
 
 <div class="post" data-post-id="23123" data-author="tincts" data-date="2008-03-06T23:59:32+00:00" data-subject="">
 
-Lately I've been wishing they'd hurry up and find/raise Roy, but having such a perfect place for that tribute makes it all worth it.[/quote:18vmzkpp]
+> <strong>Rynquald wrote:</strong>
+> Lately I've been wishing they'd hurry up and find/raise Roy, but having such a perfect place for that tribute makes it all worth it.
 
 True dat
 
@@ -158,7 +159,8 @@ True dat
 
 <div class="post" data-post-id="23141" data-author="Fiend" data-date="2008-03-07T18:44:20+00:00" data-subject="">
 
-Lately I've been wishing they'd hurry up and find/raise Roy, but having such a perfect place for that tribute makes it all worth it.[/quote:2ou54w5e]
+> <strong>Rynquald wrote:</strong>
+> Lately I've been wishing they'd hurry up and find/raise Roy, but having such a perfect place for that tribute makes it all worth it.
 
 Just my thoughts.
 
@@ -168,7 +170,7 @@ Just my thoughts.
 
 XKCS's tribute - 
 
-[img:33e9uk55]http://imgs.xkcd.com/comics/ultimate_game.png[/img:33e9uk55]
+![](http://imgs.xkcd.com/comics/ultimate_game.png)
 
 </div>
 
@@ -176,7 +178,7 @@ XKCS's tribute -
 
 ack!!!
 
-[url:1648qj2f]http://news.bbc.co.uk/2/hi/uk_news/7304004.stm[/url:1648qj2f]
+http://news.bbc.co.uk/2/hi/uk_news/7304004.stm
 
 don't quite know what to say....
 
@@ -190,7 +192,7 @@ Sad news, I was a real fan of his.
 
 <div class="post" data-post-id="23381" data-author="Alberich" data-date="2008-03-23T14:25:46+00:00" data-subject="">
 
-[img:2vswsweq]http://www.userfriendly.org/cartoons/archives/08mar/uf011323.gif[/img:2vswsweq]
+![](http://www.userfriendly.org/cartoons/archives/08mar/uf011323.gif)
 
 </div>
 
@@ -198,7 +200,7 @@ Sad news, I was a real fan of his.
 
 Figured I would put this here instead of starting another thread.
 
-[url:33vmiqn6]http://edition.cnn.com/2008/SHOWBIZ/06/23/carlin.obit/[/url:33vmiqn6]
+http://edition.cnn.com/2008/SHOWBIZ/06/23/carlin.obit/
 
 One of my favorite skits of his was the 7 words you can't say on television. (or in Sloth gossip either).
 
@@ -206,6 +208,6 @@ One of my favorite skits of his was the 7 words you can't say on television. (or
 
 <div class="post" data-post-id="25151" data-author="PolkAdotS" data-date="2008-06-23T17:51:09+00:00" data-subject="">
 
-Uhm, it is unfortunate.  Probably the worst News lately.  I feel sorry for the family.  I didn't read on this post thread.  All things said, R.I.P. ...but it's about the life expectancy.
+Uhm, it is unfortunate. Probably the worst News lately. I feel sorry for the family. I didn't read on this post thread. All things said, R.I.P. ...but it's about the life expectancy.
 
 </div>

@@ -12,7 +12,7 @@ post_count: 7
 
 <div class="post" data-post-id="20145" data-author="Leaf" data-date="2007-09-05T00:18:12+00:00" data-subject="Char for Sale">
 
-Rock Lee's tiny fists of DOOM!!!  (level: 40) 
+Rock Lee's tiny fists of DOOM!!! (level: 40) 
 
 Your levels: Mo: 40 Ba: 23 Cl: 18 Dr: 8 
 
@@ -32,7 +32,7 @@ You have been playing for 2 days and 21 hours.
 
 You are a member of Dragonsworn. 
 
-Str: 18 / 100, Int: 8, Wis: 17, Dex: 18, Con: 18     (Nat 18/100 Str)
+Str: 18 / 100, Int: 8, Wis: 17, Dex: 18, Con: 18 (Nat 18/100 Str)
 
 You are standing.You spread goodness and joy everywhere you go. 
 
@@ -50,25 +50,24 @@ Your song can affect as many as four people.
 
 You are affected by the following spells: None. 
 
-Right here I have a great Monk for sell with killer stats.  3x18 n 17.
+Right here I have a great Monk for sell with killer stats. 3x18 n 17.
 
-I like to call him mini-Nab!  I currently have too many chars to play,
+I like to call him mini-Nab! I currently have too many chars to play,
 
-and keeping Rock as a storage char seems like a waste.  If anyone is 
+and keeping Rock as a storage char seems like a waste. If anyone is 
 
-interested in this bad boy send tells to Adun, or post here.  Gold or Eq
+interested in this bad boy send tells to Adun, or post here. Gold or Eq
 
 </div>
 
 <div class="post" data-post-id="20148" data-author="madmax" data-date="2007-09-05T02:14:27+00:00" data-subject="Re: Char for Sale">
 
-Rock Lee's tiny fists of DOOM!!!  (level: 40) 
+> <strong>Leaf wrote:</strong>
+> Rock Lee's tiny fists of DOOM!!! (level: 40) 
+> 
+> Str: 18 / 100, Int: 8, Wis: 17, Dex: 18, Con: 18 (Nat 18/100 Str)
 
-Str: 18 / 100, Int: 8, Wis: 17, Dex: 18, Con: 18     (Nat 18/100 Str)
-
-[/quote:2fjy8wk6]
-
-Well, hell of a fighter but man he is stupid :)
+Well, hell of a fighter but man he is stupid <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Madmax
 
@@ -76,11 +75,12 @@ Madmax
 
 <div class="post" data-post-id="20149" data-author="Autolycos" data-date="2007-09-05T02:23:03+00:00" data-subject="Re: Char for Sale">
 
-but man he is stupid :)
+> <strong>madmax wrote:</strong>
+> but man he is stupid <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
+> 
+> Madmax
 
-Madmax[/quote:norbyu3m]
-
-yeah... well.. it is Will's char  :twisted:
+yeah... well.. it is Will's char <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -98,11 +98,11 @@ Mini Nab would have druid second not some NC class.
 
 <div class="post" data-post-id="20191" data-author="Leaf" data-date="2007-09-05T23:41:05+00:00" data-subject="">
 
-Correct Sir, but Nab use druid for faster mr and fluidy.  He still walks around
+Correct Sir, but Nab use druid for faster mr and fluidy. He still walks around
 
 gripping things to death.
 
-Mo/Ba allows higher charisma and more hp.  Druid being quad u can still
+Mo/Ba allows higher charisma and more hp. Druid being quad u can still
 
 fluidy at lvl20.
 
@@ -110,9 +110,10 @@ fluidy at lvl20.
 
 <div class="post" data-post-id="20192" data-author="Tap" data-date="2007-09-06T00:16:57+00:00" data-subject="">
 
-[quote:3em65p3g]He still walks around
-
-gripping things [/quote:3em65p3g]
+> <strong>Quote:</strong>
+> He still walks around
+> 
+> gripping things
 
 Indeed!
 

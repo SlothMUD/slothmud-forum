@@ -32,7 +32,7 @@ in the game at the same time. Acceptable ways to transfer equipment
 
 between characters include (but are not limited to) the following:
 
-1. Using the ingame postal system. You may send equipment from one
+1\. Using the ingame postal system. You may send equipment from one
 
 character to another via the postal shipping method. Simply visit the
 
@@ -40,7 +40,7 @@ postman and ship said items to said second character, logout, login the
 
 second character, and retrieve your items.
 
-2. Cooperative efforts with other players. If you choose to do so, (and
+2\. Cooperative efforts with other players. If you choose to do so, (and
 
 you trust another character to be helpful), you may hand over your
 
@@ -52,6 +52,6 @@ character you have chosen to help you transfer equipment.
 
 Thanks for your time, and enjoy the game.
 
--Neptune
+\-Neptune
 
 </div>

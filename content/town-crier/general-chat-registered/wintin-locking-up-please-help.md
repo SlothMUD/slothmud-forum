@@ -22,6 +22,6 @@ please help if u can
 
 <div class="post" data-post-id="31877" data-author="mahkra" data-date="2010-10-17T16:01:04+00:00" data-subject="Re: Wintin Locking Up -Please Help!">
 
-I am running that version without lockup problems. There are other bugs but it doesn't lock up much.  Have you tried running with out any scripts.?
+I am running that version without lockup problems. There are other bugs but it doesn't lock up much. Have you tried running with out any scripts.?
 
 </div>

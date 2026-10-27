@@ -28,7 +28,7 @@ T
 
 <div class="post" data-post-id="38098" data-author="*teker*" data-date="2017-03-07T16:31:19+00:00" data-subject="Re: gag fight doesn&#x27;t gag spell and circlestab messages">
 
-Just to clarify - is this something new that you're seeing?  I was mucking around in that code a little bit.
+Just to clarify - is this something new that you're seeing? I was mucking around in that code a little bit.
 
 </div>
 

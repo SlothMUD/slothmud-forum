@@ -24,9 +24,9 @@ Thanks Jb.
 
 On that note, the phoenix's auto-raise ability(7x40 druid form) was also removed. Have informed Tox to re-edit "help forms".
 
-Level 7x40:    *Phoenix     Fly; Cry; Phase; Autoraise
+Level 7x40: \*Phoenix Fly; Cry; Phase; Autoraise
 
-                                      Breathe: fire, duskfire 
+ Breathe: fire, duskfire 
 
 Best regards,
 

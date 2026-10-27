@@ -26,7 +26,7 @@ Splork
 
 We removed all players level 2 and below 10 minutes. This equated to nearly 6k player files being removed.
 
-I am going to do some calculations to see how many we can safely remove without affecting 99.9% of those online to further lower these numbers.  Also, I am creating backups when this occurs, so its not much of an issue regardless.
+I am going to do some calculations to see how many we can safely remove without affecting 99.9% of those online to further lower these numbers. Also, I am creating backups when this occurs, so its not much of an issue regardless.
 
 Enjoy,
 

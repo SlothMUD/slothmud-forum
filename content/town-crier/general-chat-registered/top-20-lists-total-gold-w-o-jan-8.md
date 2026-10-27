@@ -22,7 +22,7 @@ because if it is I feel a little inadequate....
 
 <div class="post" data-post-id="10515" data-author="Bazilus" data-date="2006-02-01T09:53:15+00:00" data-subject="">
 
-sure it's true ;)
+sure it's true <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -34,7 +34,7 @@ Sure, work hard and you'll get the same. :)
 
 <div class="post" data-post-id="10529" data-author="Roadrunr" data-date="2006-02-01T23:30:01+00:00" data-subject="">
 
-I dont buy.  4 bil coins in a week is over 21mil coins in an hour.
+I dont buy. 4 bil coins in a week is over 21mil coins in an hour.
 
 </div>
 
@@ -46,41 +46,43 @@ Wow that is a lot of coins in a very short amount of time, wonder if its a typo?
 
 <div class="post" data-post-id="10532" data-author="Autolycos" data-date="2006-02-02T05:26:17+00:00" data-subject="">
 
-*sprays grape soda*
+\*sprays grape soda\*
 
-i certainly hope so,  otherwise i need to relieve some from him  :twisted:
+i certainly hope so, otherwise i need to relieve some from him <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="10537" data-author="Avatar" data-date="2006-02-02T20:49:39+00:00" data-subject="Coins earned, Top 20 list">
 
-It's not a typo, but the count can be misleading.  Try giving a mob a few coins and killing it.
+It's not a typo, but the count can be misleading. Try giving a mob a few coins and killing it.
 
 </div>
 
 <div class="post" data-post-id="10538" data-author="Clink" data-date="2006-02-02T21:09:00+00:00" data-subject="Re: Coins earned, Top 20 list">
 
-Try giving a mob a few coins and killing it.[/quote:xc5egp79]
+> <strong>Avatar wrote:</strong>
+> Try giving a mob a few coins and killing it.
 
-That's a funny sense of "a few".  I also wonder that since he died 45 times if it counts looting from his own corpse.  If he had 30 mil in gold on him, that could add up pretty fast as well.
+That's a funny sense of "a few". I also wonder that since he died 45 times if it counts looting from his own corpse. If he had 30 mil in gold on him, that could add up pretty fast as well.
 
 </div>
 
 <div class="post" data-post-id="10540" data-author="tinner" data-date="2006-02-02T22:17:29+00:00" data-subject="Re: Coins earned, Top 20 list">
 
-If he had 30 mil in gold on him, that could add up pretty fast as well.[/quote:q28yysj3]
+> <strong>Clink wrote:</strong>
+> If he had 30 mil in gold on him, that could add up pretty fast as well.
 
-How did you guess about 30 mil? :)
+How did you guess about 30 mil? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-I just was a bit bored and in bad mood, so i cleared kobolds 4 or 5 times giving each 30 mil and killing him :)
+I just was a bit bored and in bad mood, so i cleared kobolds 4 or 5 times giving each 30 mil and killing him <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="10541" data-author="Leaf" data-date="2006-02-02T22:58:25+00:00" data-subject="">
 
-Hell if that was the case, its kinda funny.  Cause now every1 can have way
+Hell if that was the case, its kinda funny. Cause now every1 can have way
 
-off gold records :)
+off gold records <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 More work for Clink to Fix, YEAH!!!
 
@@ -88,7 +90,7 @@ More work for Clink to Fix, YEAH!!!
 
 <div class="post" data-post-id="10949" data-author="Guinex" data-date="2006-02-27T19:18:42+00:00" data-subject="Top 20 List Updating">
 
-Is their any schedule as to how this listing is updated?  I believe its been over a month now without updating.  Perhaps it could be enhanced to update itself once the stats roll over.
+Is their any schedule as to how this listing is updated? I believe its been over a month now without updating. Perhaps it could be enhanced to update itself once the stats roll over.
 
 SPIN!
 
@@ -96,17 +98,17 @@ SPIN!
 
 <div class="post" data-post-id="10950" data-author="Autolycos" data-date="2006-02-27T20:22:00+00:00" data-subject="">
 
-HAH!  you pretend to be helpfull
+HAH! you pretend to be helpfull
 
 but i know you just want to de-throne my #1 xp rank
 
-ya spinnin bastard :twisted:
+ya spinnin bastard <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="10961" data-author="brady" data-date="2006-02-28T15:57:05+00:00" data-subject="">
 
-Oh look, it's Autolycos.  Has the world revolved around him again?  Man, these days just fly by.
+Oh look, it's Autolycos. Has the world revolved around him again? Man, these days just fly by.
 
 </div>
 
@@ -114,7 +116,7 @@ Oh look, it's Autolycos.  Has the world revolved around him again?  Man, these d
 
 muahahahaha
 
-smartass!  :evil:  
+smartass! <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom"> 
 
 clan rem brady
 
@@ -124,7 +126,7 @@ member has been removed
 
 <div class="post" data-post-id="10964" data-author="brady" data-date="2006-02-28T16:15:58+00:00" data-subject="">
 
-New clan forming...mAMz!  (Mudders Against Meat Zpinning).  
+New clan forming...mAMz! (Mudders Against Meat Zpinning). 
 
 WTT Autloycos.
 
@@ -140,7 +142,7 @@ Spin it!!!
 
 Van is the new clan leader i hear...
 
-rumore has it he broke over 100k spins  :shock:
+rumore has it he broke over 100k spins <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -160,9 +162,10 @@ might be low numbers, but would be cool to see.
 
 <div class="post" data-post-id="10969" data-author="Autolycos" data-date="2006-02-28T17:38:18+00:00" data-subject="">
 
-He got so close, one of his fake eyelashes stuck right to the meat.[/quote:8gvw95vf]
+> <strong>brady wrote:</strong>
+> He got so close, one of his fake eyelashes stuck right to the meat.
 
- :shock:  OMFG  ahhahahahahaha
+ <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> OMFG ahhahahahahaha
 
 thats too damn funny!!!!
 
@@ -178,7 +181,7 @@ So big guys won't be shown on the top 20 since we already made almost all the qu
 
 krok.. you forget who made the request... 
 
-he is just *fishing* for ways to actually show up on the list  :twisted:
+he is just \*fishing\* for ways to actually show up on the list <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -196,23 +199,24 @@ I would prefer this not be put on top 20 list, last thing I want is a bunch o no
 
 <div class="post" data-post-id="10979" data-author="luke" data-date="2006-02-28T21:42:27+00:00" data-subject="">
 
-So big guys won't be shown on the top 20 since we already made almost all the quests we could. Kinda silly. :)[/quote:1rujymbz]
+> <strong>Krok wrote:</strong>
+> So big guys won't be shown on the top 20 since we already made almost all the quests we could. Kinda silly. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 i'd be useful for lowbie's that way we can ask each other about them and not bother important people like Guinex with our silly questions!
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="10980" data-author="Autolycos" data-date="2006-02-28T21:44:38+00:00" data-subject="">
 
-well,   i can tell ya...  guinex will just tell you to SPIN! :twisted:
+well, i can tell ya... guinex will just tell you to SPIN! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="10981" data-author="brady" data-date="2006-03-01T06:41:33+00:00" data-subject="">
 
-How about shocks/raises?  That's information I would like to see.
+How about shocks/raises? That's information I would like to see.
 
 </div>
 
@@ -224,19 +228,20 @@ what's the use in this all since we don't have LIVE info anyways
 
 <div class="post" data-post-id="10983" data-author="Autolycos" data-date="2006-03-01T13:39:41+00:00" data-subject="">
 
-*cackle
+\*cackle
 
-interesting point..... :twisted:
+interesting point..... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="10986" data-author="Clink" data-date="2006-03-01T17:00:46+00:00" data-subject="">
 
-what's the use in this all since we don't have LIVE info anyways[/quote:8u6pxyik]
+> <strong>Krok wrote:</strong>
+> what's the use in this all since we don't have LIVE info anyways
 
-Are you trying to get on my list?  As said before, we'll get to it.
+Are you trying to get on my list? As said before, we'll get to it.
 
-Clink :evil:
+Clink <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -252,9 +257,7 @@ Posted by: Clink on Wednesday, January 25, 2006 - 01:41 PM
 
 The Top 20 Lists have been improved in a couple of ways. First the peformance is much better so it won't take 30 seconds a page like it did for a while. Second the names have been made clickable so that you can see how a person did in all of the categories without having to hunt around to different pages.
 
- 
-
- :roll:
+ <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -268,7 +271,7 @@ noooo, i'm not trying to annoy anyone, sorry again
 
 <div class="post" data-post-id="11020" data-author="osric" data-date="2006-03-03T07:38:11+00:00" data-subject="">
 
-heh, I say that all the time too kroker, but they know better  :wink:
+heh, I say that all the time too kroker, but they know better <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -280,7 +283,7 @@ You'r the only one who understands me, thief :)
 
 <div class="post" data-post-id="11027" data-author="Autolycos" data-date="2006-03-03T14:00:38+00:00" data-subject="">
 
-*comf.... poor Osric...
+\*comf.... poor Osric...
 
 god knows i have nfc wtf kroks thinking...
 
@@ -288,12 +291,12 @@ god knows i have nfc wtf kroks thinking...
 
 <div class="post" data-post-id="11042" data-author="Krok" data-date="2006-03-03T21:32:42+00:00" data-subject="">
 
-Nods, knowing what I think might really hurt poor boy's brains. *comforts* Osric too :)
+Nods, knowing what I think might really hurt poor boy's brains. \*comforts\* Osric too :)
 
 </div>
 
 <div class="post" data-post-id="11045" data-author="Autolycos" data-date="2006-03-03T21:50:16+00:00" data-subject="">
 
-cackle!   :twisted:
+cackle! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

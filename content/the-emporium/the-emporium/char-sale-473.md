@@ -46,6 +46,6 @@ Lol i'll buy for 1 mil
 
 <div class="post" data-post-id="2067" data-author="Phillip" data-date="2004-09-28T14:16:46+00:00" data-subject="">
 
-... whops just realized  it was sold!
+... whops just realized it was sold!
 
 </div>

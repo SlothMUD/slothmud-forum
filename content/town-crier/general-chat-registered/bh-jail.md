@@ -12,7 +12,7 @@ post_count: 10
 
 <div class="post" data-post-id="30533" data-author="Skyv" data-date="2009-12-23T03:07:25+00:00" data-subject="BH Jail">
 
-Well, I find myself in a new situation in that I am sitting in jail after my group made an aborted run at the Dream Weaver via accidental targeting.  Any advice on how to get out of here?
+Well, I find myself in a new situation in that I am sitting in jail after my group made an aborted run at the Dream Weaver via accidental targeting. Any advice on how to get out of here?
 
 Thanks
 
@@ -30,7 +30,7 @@ or get someone to get u out
 
 <div class="post" data-post-id="30535" data-author="smig1o" data-date="2009-12-23T11:05:49+00:00" data-subject="">
 
-You really think anyone will help a criminal like you? ;)
+You really think anyone will help a criminal like you? <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 Pi - the maimed elf hunter
 
@@ -38,7 +38,7 @@ Pi - the maimed elf hunter
 
 <div class="post" data-post-id="30536" data-author="Skyv" data-date="2009-12-23T13:52:41+00:00" data-subject="BH Jail">
 
-Actually, yes I was!  Although it is a bunch of fun to sit there unable to do basically anything and wonder what happens when my food supply runs out...
+Actually, yes I was! Although it is a bunch of fun to sit there unable to do basically anything and wonder what happens when my food supply runs out...
 
 I gave up last night after waiting a little over an hour, so definitely takes more than 40 minutes nowadays.
 
@@ -56,41 +56,41 @@ The Dream Weaver glows with a bright light!
 
 Skyv arrives from the north.
 
-844hp Max844 284ma Max284 337mv Max339     +9     -0.9 AC    HIT+8  
+844hp Max844 284ma Max284 337mv Max339 +9 -0.9 AC HIT+8 
 
-DAM+10  
+DAM+10 
 
 The Dream Weaver hates your guts!
 
----------------------------------------WHIFF
+\---------------------------------------WHIFF
 
 The Dream Weaver quickly avoids your backstab, and you nearly cut your 
 
 finger!
 
----------------------------------------WHIFF
+\---------------------------------------WHIFF
 
 The Dream Weaver quickly avoids your backstab, and you nearly cut your 
 
 finger!
 
-844hp Max844 284ma Max284 322mv Max339     +9     -0.9 AC    HIT+8  
+844hp Max844 284ma Max284 322mv Max339 +9 -0.9 AC HIT+8 
 
-DAM+10  
+DAM+10 
 
 rr
 
 The Dream Weaver tells you 'No magic here - kid!'
 
-844hp Max844 284ma Max284 325mv Max339     +9     -0.9 AC    HIT+8  
+844hp Max844 284ma Max284 325mv Max339 +9 -0.9 AC HIT+8 
 
-DAM+10  
+DAM+10 
 
 Zuzu -- 'stab?'
 
-844hp Max844 284ma Max284 325mv Max339     +9     -0.9 AC    HIT+8  
+844hp Max844 284ma Max284 325mv Max339 +9 -0.9 AC HIT+8 
 
-DAM+10  
+DAM+10 
 
 You miss the Dream Weaver with your pierce.
 
@@ -106,59 +106,53 @@ The Dream Weaver viciously massacres Skyv with his crush.
 
 You have been KILLED!! 
 
--18951hp Max844 284ma Max284 325mv Max339     +9     2.1 AC    HIT+8  
+\-18951hp Max844 284ma Max284 325mv Max339 +9 2.1 AC HIT+8 
 
-DAM+10  
+DAM+10 
 
 Xamak -- 'doh'
 
--18951hp Max844 284ma Max284 325mv Max339     +9     2.1 AC    HIT+8  
+\-18951hp Max844 284ma Max284 325mv Max339 +9 2.1 AC HIT+8 
 
-DAM+10  
+DAM+10 
 
 Zuzu -- 'what the hell'
 
--18951hp Max844 284ma Max284 325mv Max339     +9     2.1 AC    HIT+8  
+\-18951hp Max844 284ma Max284 325mv Max339 +9 2.1 AC HIT+8 
 
-DAM+10  
+DAM+10 
 
 Xamak -- 'thats bad'
 
--18951hp Max844 284ma Max284 325mv Max339     +9     2.1 AC    HIT+8  
+\-18951hp Max844 284ma Max284 325mv Max339 +9 2.1 AC HIT+8 
 
-DAM+10  
+DAM+10 
 
 gos
 
-Lie still; you are DEAD!!! :-( 
+Lie still; you are DEAD!!! <img src="/images/smilies/icon_e_sad.svg" alt=":-(" title=":-(" width="15" height="15" class="smiley nozoom"> 
 
--18951hp Max844 284ma Max284 325mv Max339     +9     2.1 AC    HIT+8  
+\-18951hp Max844 284ma Max284 325mv Max339 +9 2.1 AC HIT+8 
 
-DAM+10  
+DAM+10 
 
 Zuzu -- 'why did stab kill the weaver.
 
--18951hp Max844 284ma Max284 325mv Max339     +9     2.1 AC    HIT+8  DAM+10
-
-  
+\-18951hp Max844 284ma Max284 325mv Max339 +9 2.1 AC HIT+8 DAM+10
 
 Xamak -- 'well, he didnt':
 
-      
-
-Xamak had that right.:)
+Xamak had that right.<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Because my last target before joining the group was master-thief in migarrd. Target master. We came sailing through there still in regen and it seems that the weaver also responds quickly to being the said same target.
 
 Sorry Skyv and the rest of the group. It was'nt the leaders fault.
 
- 
-
 So now I'm trying to make a oneshot that sets target to null after 
 
-kill.:) I can disable and enable then. May be suggested for 
+kill.<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> I can disable and enable then. May be suggested for 
 
-stab/blast/grip on follow scripts everywhere.:) 
+stab/blast/grip on follow scripts everywhere.<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> 
 
 (Not available in Stores.)
 
@@ -174,19 +168,19 @@ Stab.
 
 This is what I saw:
 
-At least I got a counterattack in before Stab went to -18951 HPs and I went to jail  :) 
+At least I got a counterattack in before Stab went to -18951 HPs and I went to jail <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> 
 
-892/892  458/458  285/287  
-
-Stab tried to backstab the Dream Weaver, but nearly cut his own finger.
+892/892 458/458 285/287 
 
 Stab tried to backstab the Dream Weaver, but nearly cut his own finger.
 
-892/892  458/458  285/287  
+Stab tried to backstab the Dream Weaver, but nearly cut his own finger.
+
+892/892 458/458 285/287 
 
 Zuzu -- 'stab?'
 
-892/892  458/458  287/287 
+892/892 458/458 287/287 
 
 Stab misses the Dream Weaver with his pierce.
 
@@ -210,7 +204,7 @@ The Dream Weaver calls for the powers of the immortals!
 
 The ground jumps up and hits the back of your head! No, wait, it's you on the ground.
 
-You can't do that.  You're in jail!
+You can't do that. You're in jail!
 
 </div>
 
@@ -226,9 +220,9 @@ thinking about this, I wonder whether the whole concept of the jail system needs
 
 Jail prevents a player from playing, to my mind there are so very few situations when you want this to happen. My list of offences so severe that a player should be prevented from playing is as follows:
 
-1. Player deliberately tries to break the game
+1\. Player deliberately tries to break the game
 
-2. erm see number 1.
+2\. erm see number 1.
 
 Killing shopkeepers while stupid (sorry Stab) isnt an offence that should stop someone from playing.
 

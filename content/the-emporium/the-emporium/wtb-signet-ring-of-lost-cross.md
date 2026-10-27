@@ -12,7 +12,7 @@ post_count: 3
 
 <div class="post" data-post-id="4401" data-author="Gti" data-date="2005-02-12T04:26:07+00:00" data-subject="wtb Signet Ring of Lost Cross">
 
-as above. pls pm/mm me ur asking price. thx all!  :mrgreen: [/color:72plh9q7]
+as above. pls pm/mm me ur asking price. thx all! <img src="/images/smilies/icon_mrgreen.svg" alt=":mrgreen:" title=":mrgreen:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -22,18 +22,19 @@ NEVER!!!!!
 
 Ka Kaw!!!!
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="4434" data-author="Gti" data-date="2005-02-14T01:44:53+00:00" data-subject="">
 
-NEVER!!!!!
+> <strong>Chainer wrote:</strong>
+> NEVER!!!!!
+> 
+> Ka Kaw!!!!
+> 
+> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
-Ka Kaw!!!!
-
- :twisted:[/quote:lqg3rm6e]
-
-do u have 1 to sell me? if not, SHOOOOooooo  :lol: [/color:lqg3rm6e]
+do u have 1 to sell me? if not, SHOOOOooooo <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>

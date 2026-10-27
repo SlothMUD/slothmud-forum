@@ -14,11 +14,12 @@ post_count: 49
 
 Since we can't reply on the changes board...
 
-Brothers songs & backstab: adjustment made so that these songs will always benefit backstab hit chance, and benefit it at a rate slightly more than just what the regular hitroll addition would be. [/quote:17dyeu04]
+> <strong>\*Krom\* wrote:</strong>
+> Brothers songs \& backstab: adjustment made so that these songs will always benefit backstab hit chance, and benefit it at a rate slightly more than just what the regular hitroll addition would be.
 
 !
 
-Thanks much :)
+Thanks much <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Other changes look nice too.
 
@@ -26,13 +27,12 @@ Other changes look nice too.
 
 <div class="post" data-post-id="24163" data-author="Weasel" data-date="2008-05-03T14:53:29+00:00" data-subject="">
 
-[quote:v15eth6j]Spell and Heal Bonus:
-
-1) Spell and Heal bonus caps are raised across the board, by a small amount
-
-2) We found the native avatar bonuses for heal and spell bonus were higher than they were supposed to be, so this was adjusted back to what the avatar guide shows.
-
-[/quote:v15eth6j]
+> <strong>Quote:</strong>
+> Spell and Heal Bonus:
+> 
+> 1\) Spell and Heal bonus caps are raised across the board, by a small amount
+> 
+> 2\) We found the native avatar bonuses for heal and spell bonus were higher than they were supposed to be, so this was adjusted back to what the avatar guide shows.
 
 Think I get it.. cap has been raised (nice), but the floor has been lowered for avatars, so the net effect is pretty much unchanged or slightly improved? (once you've reached the cap that is). ..otherwise you've actually been nerfed a bit it seems? Thought that avatar 'bug' was put in there intentionally to combat changes in mob saves ages ago. Too bad huh.
 
@@ -44,15 +44,15 @@ yeah yeah, go make a new char. lick my balls.
 
 <div class="post" data-post-id="24167" data-author="firebrand" data-date="2008-05-03T17:14:16+00:00" data-subject="">
 
-what about a 5x wa prime failing basic skills like rescue 3-5x in a row?  and on top of that there is action lag for things like rescue, etc.  WHY??????????  there is no bloody point to waiting to save someone else from dying, imho.  and some of the ingame buffs we have always had like entrench, etc why the lag?????  as i have said many times before - find some other way to balance the skill or spell without the hella overused lag.  like weasel said - i am sick of hearing "go make a new char" just so i can tank again.  i am not brad.  i don't want a whole harem of chars - i like the ones i already have.  quit nerfing the oldskewlers to the point of disgust.  quit making all the buffs like fluidity and wraithform and spec shield, etc necessary to tank. (no i did not forget there are coconuts on island natives, but those run out eventually and cannot stop group to refill on them because not buyable.)  quit forgetting that those of your playerbase that have been here for the past 16 years give or take have oldskewl chars that are "useless" because of nerfs, adjusts, newclass skills/spells/buffs.  and of course i am going to get slammed and flamed but i am used to it so flame on!  :)
+what about a 5x wa prime failing basic skills like rescue 3-5x in a row? and on top of that there is action lag for things like rescue, etc. WHY?????????? there is no bloody point to waiting to save someone else from dying, imho. and some of the ingame buffs we have always had like entrench, etc why the lag????? as i have said many times before - find some other way to balance the skill or spell without the hella overused lag. like weasel said - i am sick of hearing "go make a new char" just so i can tank again. i am not brad. i don't want a whole harem of chars - i like the ones i already have. quit nerfing the oldskewlers to the point of disgust. quit making all the buffs like fluidity and wraithform and spec shield, etc necessary to tank. (no i did not forget there are coconuts on island natives, but those run out eventually and cannot stop group to refill on them because not buyable.) quit forgetting that those of your playerbase that have been here for the past 16 years give or take have oldskewl chars that are "useless" because of nerfs, adjusts, newclass skills/spells/buffs. and of course i am going to get slammed and flamed but i am used to it so flame on! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-"hide and seek is it?  or should we play search and DESTROY?" -preed --> titan a.e.
+"hide and seek is it? or should we play search and DESTROY?" -preed --\> titan a.e.
 
 </div>
 
 <div class="post" data-post-id="24168" data-author="*Krom*" data-date="2008-05-03T17:59:50+00:00" data-subject="">
 
-You guys seem to have forgotten that I have an old school tank also.  I have not forgotten nor lost sight of how the tank class orders work.  
+You guys seem to have forgotten that I have an old school tank also. I have not forgotten nor lost sight of how the tank class orders work. 
 
 That being said, I tank quite a bit anyhow, at -11 and all old school classes.
 
@@ -70,9 +70,9 @@ abrasive (spectral shield) cocunuts -- same as above.
 
 <div class="post" data-post-id="24169" data-author="firebrand" data-date="2008-05-03T18:05:19+00:00" data-subject="">
 
-same arguement as before - those eventually run out and don't have time in marathon groups to get more.  group cannot wait for restocks.  
+same arguement as before - those eventually run out and don't have time in marathon groups to get more. group cannot wait for restocks. 
 
-"i love this place at night.  the stars.  there's no right or wrong in them...they're just there."  -sgt. elias --> platoon
+"i love this place at night. the stars. there's no right or wrong in them...they're just there." -sgt. elias --\> platoon
 
 </div>
 
@@ -108,9 +108,9 @@ Keep it simple, stupid.
 
 Previous suggestion by someone has potential. The ever so popular 6th class being added could quell the peeps. Perhaps to take it even further, instead of a 6th class.... a top doh wishmaker MOB that for 20-25 XP tokens and a shitload of coins and maybe quest or 2 completed.. will allow u to buy any 1 skill/spell from another class. But Tap, that's crazy!! People will be overpowered!! It will be the ruin of the game. Not so. The amount of time and
 
-other requirements will allow those who are attached to their old school char's to keep them ingame. Also, new char classo type's can have the same option. Everybody is happy...well mostly everybody, I'm sure 1-2 will find a reason to b*tch but it is a viable solution. I only wish I had thought of it first.
+other requirements will allow those who are attached to their old school char's to keep them ingame. Also, new char classo type's can have the same option. Everybody is happy...well mostly everybody, I'm sure 1-2 will find a reason to b\*tch but it is a viable solution. I only wish I had thought of it first.
 
- :wink:
+ <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -122,13 +122,14 @@ I would like the buy one spell option, I think it would be great.
 
 <div class="post" data-post-id="24175" data-author="matrim" data-date="2008-05-04T00:48:49+00:00" data-subject="">
 
-I have a question.  Why isnt wraithform a solo only spell?  If the tank has wraithform wouldnt the mob just attack the  next person in line.  that sounds like a simple solution for the necro is the better tank problem
+I have a question. Why isnt wraithform a solo only spell? If the tank has wraithform wouldnt the mob just attack the next person in line. that sounds like a simple solution for the necro is the better tank problem
 
 </div>
 
 <div class="post" data-post-id="24177" data-author="Autolycos" data-date="2008-05-04T02:07:42+00:00" data-subject="">
 
-I have a question.  Why isnt wraithform a solo only spell?  If the tank has wraithform wouldnt the mob just attack the  next person in line.  that sounds like a simple solution for the necro is the better tank problem[/quote:18vf2fu4]
+> <strong>matrim wrote:</strong>
+> I have a question. Why isnt wraithform a solo only spell? If the tank has wraithform wouldnt the mob just attack the next person in line. that sounds like a simple solution for the necro is the better tank problem
 
 help "point"
 
@@ -138,17 +139,18 @@ that helps.
 
 <div class="post" data-post-id="24178" data-author="Tap" data-date="2008-05-04T02:09:48+00:00" data-subject="">
 
-1. Wraithform only last so long and on group MOB's not long enough to finish fight.. so no necros would want to tank... they'd die too quick and risk corpsing. Hogwash.
+1\. Wraithform only last so long and on group MOB's not long enough to finish fight.. so no necros would want to tank... they'd die too quick and risk corpsing. Hogwash.
 
-2. That's pretty much the complaint now. The original tanks here are no longer the 'elite'. With newer style tanks being able to easily apply better skills/spells, they get bumped up to superstar status, if you will, while the original grunts get relegated to 2.tank etc etc. I can't speak as one because I don't have any tank originals BUT if I had invested that much time and patience in a character only to have it thrown in the backseat, well yeah, I'd be pissed too. Hell, just ask me to turn my head and cough why don't yah?
+2\. That's pretty much the complaint now. The original tanks here are no longer the 'elite'. With newer style tanks being able to easily apply better skills/spells, they get bumped up to superstar status, if you will, while the original grunts get relegated to 2.tank etc etc. I can't speak as one because I don't have any tank originals BUT if I had invested that much time and patience in a character only to have it thrown in the backseat, well yeah, I'd be pissed too. Hell, just ask me to turn my head and cough why don't yah?
 
-3. Necro's suck.
+3\. Necro's suck.
 
 </div>
 
 <div class="post" data-post-id="24179" data-author="Weasel" data-date="2008-05-04T02:20:53+00:00" data-subject="">
 
-right now warriors old and new have it good, with the recent additions and changes warriors are on par or ahead of many classes.[/quote:kzy5xsyg]
+> <strong>strider wrote:</strong>
+> right now warriors old and new have it good, with the recent additions and changes warriors are on par or ahead of many classes.
 
 If you're referring to the recent frenzy/berserk changes, that was not for warrior primes - the only difference to warrior primes is that it made the stab a slight bit better, but barely noticeable imho, and it did not apply to warrior prime skills of broadside or flail (not that those 'skills' are used by many players anyway). The changes primarily were for other primes who also have warrior somewhere in their classo (in other words, it made the issue even worse, relatively speaking). 
 
@@ -158,9 +160,9 @@ I have little doubt in future it will be used as an argument not to improve warr
 
 <div class="post" data-post-id="24180" data-author="slobe" data-date="2008-05-04T02:50:26+00:00" data-subject="">
 
-Ok well here goes, being able to cast on anyone would overpower necros :) I would wraith all my followers and be untouchable.
+Ok well here goes, being able to cast on anyone would overpower necros <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> I would wraith all my followers and be untouchable.
 
-So how about now in the midst of this I suggest the introduction of a 9th classo.:)
+So how about now in the midst of this I suggest the introduction of a 9th classo.<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Alchemist!! Hehe throwing potions is main thing and prime skill can throw any potion but non primes will be limited by potion weight(like10lb
 
@@ -198,21 +200,23 @@ again, you being a warrior prime is not holding you back at all. it's the other 
 
 <div class="post" data-post-id="24184" data-author="Tap" data-date="2008-05-04T13:10:44+00:00" data-subject="">
 
-[quote:19cuk1xs]all it takes is trying a new area and a couple new mobs. you don't even have to stab[/quote:19cuk1xs]
+> <strong>Quote:</strong>
+> all it takes is trying a new area and a couple new mobs. you don't even have to stab
 
-Yeah 1-2 areas ingame that allow this....whats a warrior to do? not group and  argue with other warrior about who was there first in the magical land of imagination?
+Yeah 1-2 areas ingame that allow this....whats a warrior to do? not group and argue with other warrior about who was there first in the magical land of imagination?
 
-[quote:19cuk1xs]i agree with you and i hate my old tank not being as sweet to play. [/quote:19cuk1xs]
+> <strong>Quote:</strong>
+> i agree with you and i hate my old tank not being as sweet to play.
 
 I rest my case
 
- :roll:
+ <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="24185" data-author="Dragoth" data-date="2008-05-04T14:18:38+00:00" data-subject="">
 
-Just add a 6th class already, and lets get over all the whining.  :idea:
+Just add a 6th class already, and lets get over all the whining. <img src="/images/smilies/icon_idea.svg" alt=":idea:" title=":idea:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -222,7 +226,7 @@ Just add a 6th class already, and lets get over all the whining.  :idea:
 
 Off this thread
 
- :x
+ <img src="/images/smilies/icon_mad.svg" alt=":x" title=":x" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -238,11 +242,12 @@ Im not gonna spend 300 mana to wraith 3 pets so they last for a tick, you could 
 
 <div class="post" data-post-id="24194" data-author="firebrand" data-date="2008-05-04T18:22:04+00:00" data-subject="">
 
-2. That's pretty much the complaint now. The original tanks here are no longer the 'elite'. With newer style tanks being able to easily apply better skills/spells, they get bumped up to superstar status, if you will, while the original grunts get relegated to 2.tank etc etc. I can't speak as one because I don't have any tank originals BUT if I had invested that much time and patience in a character only to have it thrown in the backseat, well yeah, I'd be pissed too. Hell, just ask me to turn my head and cough why don't yah?[/quote:1v6g0qg4]
+> <strong>Tap wrote:</strong>
+> 2\. That's pretty much the complaint now. The original tanks here are no longer the 'elite'. With newer style tanks being able to easily apply better skills/spells, they get bumped up to superstar status, if you will, while the original grunts get relegated to 2.tank etc etc. I can't speak as one because I don't have any tank originals BUT if I had invested that much time and patience in a character only to have it thrown in the backseat, well yeah, I'd be pissed too. Hell, just ask me to turn my head and cough why don't yah?
 
-holy hell.  someone actually agrees with me.  it will now snow in hell.
+holy hell. someone actually agrees with me. it will now snow in hell.
 
-"i'm not the mechanic here, ironsides!  i mostly just hurt people." -johner --> alien: resurrection
+"i'm not the mechanic here, ironsides! i mostly just hurt people." -johner --\> alien: resurrection
 
 </div>
 
@@ -264,7 +269,8 @@ You know what I am getting at... is this classo? or just a sign of the times?
 
 <div class="post" data-post-id="24198" data-author="Weasel" data-date="2008-05-05T01:14:29+00:00" data-subject="">
 
-I strongly disagree that old skool warriors are underpowered or underpriveleged in some way. If you're bitter because no one begs you bot tank for them, make a new char. Wa/ma/cl/th is as good a classo as anyone can find. Stab, blast, parry, and heal are simple skills, but amazingly effective.[/quote:15h1q4u8]
+> <strong>juggleblood wrote:</strong>
+> I strongly disagree that old skool warriors are underpowered or underpriveleged in some way. If you're bitter because no one begs you bot tank for them, make a new char. Wa/ma/cl/th is as good a classo as anyone can find. Stab, blast, parry, and heal are simple skills, but amazingly effective.
 
 I take offense to your comment. A lot.
 
@@ -272,7 +278,7 @@ I DO NOT BOT. EVER.
 
 I regularly get asked to tank, however I often do not accept as I know I will probably have to afk off and on, and I don't believe in botting. It is not because I'm bitter - if anything was to make me 'bitter' it's comments like you just made.
 
-Maybe I [i:15h1q4u8]should[/i:15h1q4u8] bot, since that's what you're accusing me of anyway.
+Maybe I <em>should</em> bot, since that's what you're accusing me of anyway.
 
 Did you read any of the previous comments, in particular the ones specifically mentioning about being told to make a new character?
 
@@ -280,17 +286,22 @@ If you want to make reasoned arguments, please do, but if you're going to start 
 
 Seriously.
 
- :evil:
+ <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="24199" data-author="Weasel" data-date="2008-05-05T01:19:18+00:00" data-subject="">
 
-Out of interest... and a question to the older players... 
-
-Do people (in general) group more or less or the same amount as when they first made there old classo tanks? (compared to these days)
-
-You know what I am getting at... is this classo? or just a sign of the times?[/quote:3ob74prz]
+> <strong>jezer wrote:</strong>
+> Out of interest... and a question to the older players... 
+> 
+> 
+> 
+> Do people (in general) group more or less or the same amount as when they first made there old classo tanks? (compared to these days)
+> 
+> 
+> 
+> You know what I am getting at... is this classo? or just a sign of the times?
 
 I group less because there seems to be less groups running, or at least less people willing to lead. Also I don't bot, so that often stops me from joining groups. I solo a lot, not because I like it so much - far from it in fact, I spend most of the time regenning because the regen rates on my classo suck.
 
@@ -298,7 +309,8 @@ I group less because there seems to be less groups running, or at least less peo
 
 <div class="post" data-post-id="24201" data-author="*juggleblood*" data-date="2008-05-05T01:45:41+00:00" data-subject="">
 
-I spend most of the time regenning because the regen rates on my classo suck.[/quote:2rilebx7]
+> <strong>Weasel wrote:</strong>
+> I spend most of the time regenning because the regen rates on my classo suck.
 
 and the rest of the time complaining becuz your attitude sux.
 
@@ -306,9 +318,15 @@ and the rest of the time complaining becuz your attitude sux.
 
 <div class="post" data-post-id="24202" data-author="Weasel" data-date="2008-05-05T01:47:26+00:00" data-subject="">
 
-I spend most of the time regenning because the regen rates on my classo suck.[/quote:188110cj]
-
-and the rest of the time complaining becuz your attitude sux.[/quote:188110cj]
+> <strong>juggleblood wrote:</strong>
+> > <strong>Weasel wrote:</strong>
+> > I spend most of the time regenning because the regen rates on my classo suck.
+> 
+> 
+> 
+> 
+> 
+> and the rest of the time complaining becuz your attitude sux.
 
 right, how dare I say anything.. a$$hat. 
 
@@ -316,13 +334,13 @@ read your comments again, and then tell me who has an attitude.
 
 yup my attitude must really suck, that's why I encourage people to vote and increase the playerbase, and praise the recent addition of autoreport and anything else that is helpful to the mud.. yup, real bad attitude.
 
- :roll:
+ <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="24203" data-author="jezer" data-date="2008-05-05T05:21:51+00:00" data-subject="">
 
-[img:o4r4gflb]http://www.leapfreak.com/images/lilweasel.jpg[/img:o4r4gflb]
+![](http://www.leapfreak.com/images/lilweasel.jpg)
 
 </div>
 
@@ -330,13 +348,14 @@ yup my attitude must really suck, that's why I encourage people to vote and incr
 
 Juggleblood wrote
 
-[quote:1y4v39wo]make a new char[/quote:1y4v39wo]
+> <strong>Quote:</strong>
+> make a new char
 
 Typical response
 
 Ok, Out again!
 
- 8)
+ <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -352,11 +371,12 @@ This is such an old conversation. At the moment we should be sad because we just
 
 <div class="post" data-post-id="24207" data-author="Autolycos" data-date="2008-05-05T21:36:02+00:00" data-subject="">
 
-Maybe making a new char is the right answer. It's At the moment we should be sad because we just lost our weapon damage from our stab, which prolly amounts to a stab reduction of about 50-80 damage per stab? But c'est la vie. [/quote:106gwehi]
+> <strong>juggleblood wrote:</strong>
+> Maybe making a new char is the right answer. It's At the moment we should be sad because we just lost our weapon damage from our stab, which prolly amounts to a stab reduction of about 50-80 damage per stab? But c'est la vie.
 
-And to think.. I only played the last 10+ years to make a super kickass thief doing quests and AQ's only to have a chunk of it taken away because people cant leave shit alone.  
+And to think.. I only played the last 10+ years to make a super kickass thief doing quests and AQ's only to have a chunk of it taken away because people cant leave shit alone. 
 
-But thats ok, because it was incorrect to begin with.   Remind me to tell the mortgage company that i'm taking my previous payments back because the signatures were'nt in the right shade of blue ink all this time.
+But thats ok, because it was incorrect to begin with. Remind me to tell the mortgage company that i'm taking my previous payments back because the signatures were'nt in the right shade of blue ink all this time.
 
 lets re-invent the wheel because it's not round enough, at what point is piddling too much?
 
@@ -364,9 +384,9 @@ lets re-invent the wheel because it's not round enough, at what point is piddlin
 
 <div class="post" data-post-id="24208" data-author="*Krom*" data-date="2008-05-05T22:55:20+00:00" data-subject="">
 
-Obviously some of you knew there was a bug with weapon damage, and did not bother to report it.  Thats a bit disapointing.
+Obviously some of you knew there was a bug with weapon damage, and did not bother to report it. Thats a bit disapointing.
 
-Im playing the game too, as is Jake, and several of the other imms.  We are working on making improvements, but if something is a bug or it was wrong, and you were knowingly exploiting, be glad we are just fixing the bug.
+Im playing the game too, as is Jake, and several of the other imms. We are working on making improvements, but if something is a bug or it was wrong, and you were knowingly exploiting, be glad we are just fixing the bug.
 
 Next reboot will have higher again spell/heal bonus caps, and we have settled for 25 spell/heal bonus at each of the avatar progressions of 10/20/30/35.
 
@@ -374,11 +394,11 @@ I am working on some skills that will help old school tanks also.
 
 Firebrand -- try using the second wind skill to help with lag
 
-Weasel -- I play a similar class order as you, and like Juggleblood, Im still trying to figure out what exactly you are complaining about.  Get some regen gear, plan on regenning in a vault, not sure what to tell ya, im not having so many problems, but I can tell you it takes no time at all to get a char up to 3x40 and is a lot of fun.  Or wait a bit and some new skills will be in.
+Weasel -- I play a similar class order as you, and like Juggleblood, Im still trying to figure out what exactly you are complaining about. Get some regen gear, plan on regenning in a vault, not sure what to tell ya, im not having so many problems, but I can tell you it takes no time at all to get a char up to 3x40 and is a lot of fun. Or wait a bit and some new skills will be in.
 
-Alias -- I'm not even sure what you were tying to say, lost the message when you added your sarcastic grats on taking comment.  
+Alias -- I'm not even sure what you were tying to say, lost the message when you added your sarcastic grats on taking comment. 
 
-Keep it constructive and we are listening.  Obviously we are not out to make a suckier mud or nerf people, and Im sorry people have that image as soon as any change is made.
+Keep it constructive and we are listening. Obviously we are not out to make a suckier mud or nerf people, and Im sorry people have that image as soon as any change is made.
 
 </div>
 
@@ -404,17 +424,19 @@ I look forward to whatever improvements are coming. When Splork started making s
 
 <div class="post" data-post-id="24211" data-author="jezer" data-date="2008-05-05T23:37:11+00:00" data-subject="">
 
-Im playing the game too, as is Jake, and several of the other imms.[/quote:14da206o]
+> <strong>\*Krom\* wrote:</strong>
+> Im playing the game too, as is Jake, and several of the other imms.
 
-Oh! Oh! :shock: Which one of you is the new player called Festeringhag I've seen around?  :twisted:
+Oh! Oh! <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> Which one of you is the new player called Festeringhag I've seen around? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="24212" data-author="Autolycos" data-date="2008-05-05T23:41:00+00:00" data-subject="">
 
-I don't think anyone realized that until you posted it actually. There were only a few people really experimenting around with the damage calculator. No one I know can even give me a straight answer on how stab damage is calculated, much less deduct that their weapon damage is multiplying merely by observing the xp from the stab.[/quote:z6yv38dy]
+> <strong>juggleblood wrote:</strong>
+> I don't think anyone realized that until you posted it actually. There were only a few people really experimenting around with the damage calculator. No one I know can even give me a straight answer on how stab damage is calculated, much less deduct that their weapon damage is multiplying merely by observing the xp from the stab.
 
-exactly,  I figured my stab was hitting hard because of all the quest and drachma eq i earned.
+exactly, I figured my stab was hitting hard because of all the quest and drachma eq i earned.
 
 isnt that the purpose?
 
@@ -422,25 +444,27 @@ isnt that the purpose?
 
 <div class="post" data-post-id="24219" data-author="Weasel" data-date="2008-05-06T03:48:17+00:00" data-subject="">
 
-btw, great weaslie pic Jezer :) cheers!
+btw, great weaslie pic Jezer <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> cheers!
 
 </div>
 
 <div class="post" data-post-id="24231" data-author="brady" data-date="2008-05-06T12:35:39+00:00" data-subject="">
 
-Next reboot will have higher again spell/heal bonus caps, and we have settled for 25 spell/heal bonus at each of the avatar progressions of 10/20/30/35.[/quote:3opgpqsk]
+> <strong>\*Krom\* wrote:</strong>
+> Next reboot will have higher again spell/heal bonus caps, and we have settled for 25 spell/heal bonus at each of the avatar progressions of 10/20/30/35.
 
- : :D
+ : <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="24233" data-author="Zukt" data-date="2008-05-06T19:12:11+00:00" data-subject="">
 
-Maybe making a new char is the right answer. It's not such an outrageous suggestion. Clearly Weasel you enjoy tanking and you seem to miss the good old days when your classo had the thickest skin, just by virtue of being warrior prime. 
-
-I just don't see anything inherently wrong with a wa/mo being a tougher tank than a wa/ma. I also don't see any imbalance with wraithform. Taking necro in your tank classo means sacrificing blasting or stabbing. How is that not a fair trade? 
-
-[/quote:33fz2rzl]
+> <strong>juggleblood wrote:</strong>
+> Maybe making a new char is the right answer. It's not such an outrageous suggestion. Clearly Weasel you enjoy tanking and you seem to miss the good old days when your classo had the thickest skin, just by virtue of being warrior prime. 
+> 
+> 
+> 
+> I just don't see anything inherently wrong with a wa/mo being a tougher tank than a wa/ma. I also don't see any imbalance with wraithform. Taking necro in your tank classo means sacrificing blasting or stabbing. How is that not a fair trade?
 
 Agreed. Zukt is a great tank that has a lot of serious power, but consider the cost. without ma, cl, or ba there's no locate, gate, lloyds, passage or a host of other useful spells. And no supps (rabbit) means that zukt just isn't going to have the permahealorder thing going on, which was fne until the charms went in and everybody was copying zukt's trick that he spent so much in opportunities on.
 
@@ -450,9 +474,8 @@ I've seen some oldschool classos pull 6 bil xp a week and 30+ mil coins just doi
 
 <div class="post" data-post-id="24234" data-author="Yinao" data-date="2008-05-06T20:07:28+00:00" data-subject="">
 
-Next reboot will have higher again spell/heal bonus caps, and we have settled for 25 spell/heal bonus at each of the avatar progressions of 10/20/30/35.
-
-[/quote:nmb51vkc]
+> <strong>\*Krom\* wrote:</strong>
+> Next reboot will have higher again spell/heal bonus caps, and we have settled for 25 spell/heal bonus at each of the avatar progressions of 10/20/30/35.
 
 So uh, if higher caps are coming in I hope that new non prime spelldam eq is as well, and healbonus too, considering non prime mages can wear only very limited eq without spending 650 drachma on the rings, and 750 drachma on the shield which I already spent 450 drachma on the robe or whatever, alot of the spelldam eq is restricted to mage prime only, more comming in, less restrictions on current, gunna force us to buy it at mayor with 10x2 bil tokens and 5 mil coins or whatever?
 
@@ -460,7 +483,7 @@ Healbonus there are alot of little nit picky items out there, heart of the sheol
 
 I'm off the little thing called a soapbox
 
-PS Keep whining Weasel!  :wink: ,
+PS Keep whining Weasel! <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom"> ,
 
 </div>
 
@@ -490,17 +513,19 @@ berserk: Weasel froths at the mouth and boils over in rage.
 
 <div class="post" data-post-id="24237" data-author="jezer" data-date="2008-05-07T13:38:18+00:00" data-subject="">
 
-[img:3juxa5uc]http://www.answersingenesis.org/images/weasel.JPG[/img:3juxa5uc]
+![](http://www.answersingenesis.org/images/weasel.JPG)
 
-Weasel froths at the mouth and boils over in rage.[/quote:3juxa5uc]
+> <strong>juggleblood wrote:</strong>
+> Weasel froths at the mouth and boils over in rage.
 
-In the mud? or typing on the crier?  :wink:  :twisted:
+In the mud? or typing on the crier? <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="24242" data-author="Rynquald" data-date="2008-05-08T01:22:56+00:00" data-subject="">
 
-I'd like to see it such that defy pain was a little smarter in that it would realize you are at the top of the protect chain, even in situations where you haven't rescued the stabber yet or situations where 1.tank is dead and suddenly you're at the top of the protect chain, but not necessarily in the point position. [/quote:26py7bbw]
+> <strong>Juggleblood wrote:</strong>
+> I'd like to see it such that defy pain was a little smarter in that it would realize you are at the top of the protect chain, even in situations where you haven't rescued the stabber yet or situations where 1.tank is dead and suddenly you're at the top of the protect chain, but not necessarily in the point position.
 
 Agreed, I've had occasions where all the tanks are down and it would be nice to be able to defy with my puny mage hp.
 
@@ -516,17 +541,17 @@ Mr Bowie would be proud, all kindsa Changes!
 
 <div class="post" data-post-id="24259" data-author="angel" data-date="2008-05-09T11:40:04+00:00" data-subject="">
 
-I'd like to see it such that defy pain was a little smarter in that it would realize you are at the top of the protect chain, even in situations where you haven't rescued the stabber yet or situations where 1.tank is dead and suddenly you're at the top of the protect chain, but not necessarily in the point position. [/quote:17rb4h1z]
+> <strong>Juggleblood wrote:</strong>
+> I'd like to see it such that defy pain was a little smarter in that it would realize you are at the top of the protect chain, even in situations where you haven't rescued the stabber yet or situations where 1.tank is dead and suddenly you're at the top of the protect chain, but not necessarily in the point position.
 
---there isnt much rescue lag for the tank,ive done this repeatedly with cizin when she whiffs/single stabs the dog in lyme for example. defying pain isnt hard to use,its plain simple.the tank just needs to be fast and alert. however it sux when the mob overpowers ur attempt to defy pain 2-3 times in a row
+\--there isnt much rescue lag for the tank,ive done this repeatedly with cizin when she whiffs/single stabs the dog in lyme for example. defying pain isnt hard to use,its plain simple.the tank just needs to be fast and alert. however it sux when the mob overpowers ur attempt to defy pain 2-3 times in a row
 
 </div>
 
 <div class="post" data-post-id="24270" data-author="*juggleblood*" data-date="2008-05-09T14:47:52+00:00" data-subject="">
 
-defying pain isnt hard to use,its plain simple.the tank just needs to be fast and alert.
-
-[/quote:172uhfz8] 
+> <strong>angel wrote:</strong>
+> defying pain isnt hard to use,its plain simple.the tank just needs to be fast and alert.
 
  
 
@@ -536,9 +561,10 @@ Golly gee wiz thanks Sa,Apparrently mai problem is that Im slow and unalerts,I w
 
 <div class="post" data-post-id="24299" data-author="tincts" data-date="2008-05-11T00:07:09+00:00" data-subject="">
 
-Golly gee wiz thanks Sa,Apparrently mai problem is that Im slow and unalerts,I will try 2 b better Thank yOu[/quote:1bs94s0o]
+> <strong>juggleblood wrote:</strong>
+> Golly gee wiz thanks Sa,Apparrently mai problem is that Im slow and unalerts,I will try 2 b better Thank yOu
 
-[sarcasm] Geez Rub.  Your spelling is terrible here.  It actually makes you sound slow, even though you are trying to say that you aren't.  This leads to confusion for some of us.  Are you or are you not slow? [/sarcasm]
+[sarcasm] Geez Rub. Your spelling is terrible here. It actually makes you sound slow, even though you are trying to say that you aren't. This leads to confusion for some of us. Are you or are you not slow? [/sarcasm]
 
 </div>
 

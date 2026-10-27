@@ -24,7 +24,7 @@ Van Helsing will be at each inn to turn in green glowing monsters for honor, and
 
 I will get a timer link going when I get a moment.
 
-[<LINK_TEXT text="https://www.timeanddate.com/countdown/h ... t=sanserif">https://www.timeanddate.com/countdown/halloween?iso=20191102T12&p0=2447&msg=SlothMUD+2019+Halloween+Quest&font=sanserif</LINK_TEXT>](https://www.timeanddate.com/countdown/halloween?iso=20191102T12&p0=2447&msg=SlothMUD+2019+Halloween+Quest&font=sanserif)
+[https://www.timeanddate.com/countdown/halloween?iso=20191102T12&p0=2447&msg=SlothMUD+2019+Halloween+Quest&font=sanserif](https://www.timeanddate.com/countdown/halloween?iso=20191102T12&p0=2447&msg=SlothMUD+2019+Halloween+Quest&font=sanserif)
 
 </div>
 
@@ -36,6 +36,6 @@ This has been rectified.
 
 Sorry for the confusion!
 
---Idj
+\--Idj
 
 </div>

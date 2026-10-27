@@ -12,7 +12,7 @@ post_count: 4
 
 <div class="post" data-post-id="34918" data-author="DarkArtist" data-date="2014-03-18T19:32:26+00:00" data-subject="GETMSDPVARS() ADVISORY">
 
-Are you triggering your getmsdpvars() function on the event SERVER_ID? 
+Are you triggering your getmsdpvars() function on the event SERVER\_ID? 
 
 If you are, or if you are triggering your getmsdpvars cmd on any msdp update, then you are potentially lagging the whole mud slightly and if too many people do this then it could become more than slightly. This is because you are sending the request to the sloth server every second instead of every login.
 
@@ -30,25 +30,25 @@ By the way if anyone wants it, here is my getmsdpvars function:
 
 function getmsdpvars(event, args)
 
-   tempTimer(1, 
+ tempTimer(1, 
 
 function () sendATCP("@REPORT", 
 
-[[HEALTH HEALTH_MAX SERVER_ID STRING_AFFECTS HUNGER THIRST 
+[[HEALTH HEALTH\_MAX SERVER\_ID STRING\_AFFECTS HUNGER THIRST 
 
- MANA MANA_MAX HITROLL DAMROLL ALIGNMENT EXPERIENCE MONEY TERRAIN
+ MANA MANA\_MAX HITROLL DAMROLL ALIGNMENT EXPERIENCE MONEY TERRAIN
 
- OPPONENT_HEALTH 	OPPONENT OPPONENT_NAME OPPONENT_HEALTH_MAX OPPONENT_LEVEL 
+ OPPONENT\_HEALTH OPPONENT OPPONENT\_NAME OPPONENT\_HEALTH\_MAX OPPONENT\_LEVEL 
 
- POSITION MOVEMENT MOVEMENT_MAX AREA_NAME ROOM_NAME ROOM_VNUM AC
+ POSITION MOVEMENT MOVEMENT\_MAX AREA\_NAME ROOM\_NAME ROOM\_VNUM AC
 
- TANK_NAME GROUP_LEADER TANK_HEALTH TANK_HEALTH_MAX STRING_ROOM_EXITS]]
+ TANK\_NAME GROUP\_LEADER TANK\_HEALTH TANK\_HEALTH\_MAX STRING\_ROOM\_EXITS]]
 
 ) end)
 
 end
 
-If any don't work properly, check the spacing. Notice the space before the second row of the list. I don't know why it should matter but it does.  I mention this because the above list is not complete as I don't use all of them and Splork asked us to only include the ones we intend to use. So if you add some to this list and they not working, try playing with the spacing.
+If any don't work properly, check the spacing. Notice the space before the second row of the list. I don't know why it should matter but it does. I mention this because the above list is not complete as I don't use all of them and Splork asked us to only include the ones we intend to use. So if you add some to this list and they not working, try playing with the spacing.
 
 </div>
 
@@ -86,10 +86,10 @@ fyi all msdp variables are strings, you have to convert them into integers when 
 
 While I'm at it, here is what I trigger my getmsdpvars off of:
 
-1) Enter the game.
+1\) Enter the game.
 
 Do you wish to force the connection closed (Y/N)
 
-Password accepted.  Press return to continue...
+Password accepted. Press return to continue...
 
 </div>

@@ -24,9 +24,9 @@ Weight: 2, Value: 250gold, Worn in: TAKE
 
 Clasp can only be attached to:
 
-   torches and other held items
+ torches and other held items
 
-Clasp gives the user +2 REGEN_MOVE
+Clasp gives the user +2 REGEN\_MOVE
 
 Clasp gives the user +1 INT
 
@@ -40,11 +40,11 @@ Weight: 1, Value: 750gold, Worn in: TAKE
 
 Clasp can only be attached to:
 
-   torches and other held items
+ torches and other held items
 
 Clasp gives the user +1 WIS
 
-Clasp gives the user +2 REGEN_MOVE
+Clasp gives the user +2 REGEN\_MOVE
 
 You feel informed:
 
@@ -56,11 +56,11 @@ Weight: 1, Value: 2500gold, Worn in: TAKE
 
 Clasp can only be attached to:
 
-   torches and other held items
+ torches and other held items
 
 Clasp gives the user +1 STR
 
-Clasp gives the user +2 REGEN_MOVE
+Clasp gives the user +2 REGEN\_MOVE
 
 You feel informed:
 
@@ -72,11 +72,11 @@ Weight: 1, Value: 4500gold, Worn in: TAKE
 
 Clasp can only be attached to:
 
-   torches and other held items
+ torches and other held items
 
 Clasp gives the user +1 CON
 
-Clasp gives the user +2 REGEN_MOVE
+Clasp gives the user +2 REGEN\_MOVE
 
 949hp 432ma 187mv Herbalist Isle I 
 
@@ -88,11 +88,11 @@ Weight: 1, Value: 18000gold, Worn in: TAKE
 
 Clasp can only be attached to:
 
-   torches and other held items
+ torches and other held items
 
-Clasp gives the user -2 SAVING_SPELL
+Clasp gives the user -2 SAVING\_SPELL
 
-Clasp gives the user +2 REGEN_MOVE
+Clasp gives the user +2 REGEN\_MOVE
 
 </div>
 
@@ -110,7 +110,7 @@ Damage Dice is '3D4'
 
 Can affect you as:
 
-    Affects: HITROLL by 3
+ Affects: HITROLL by 3
 
 Only those who are at least apprentice thieves may use this item.
 
@@ -130,9 +130,9 @@ AC-apply is 0.1
 
 Can affect you as:
 
-    Affects: STR by 1
+ Affects: STR by 1
 
-    Affects: HITROLL by 1
+ Affects: HITROLL by 1
 
 Only those who are at least supreme clerics or apprentice druids, or 
 
@@ -178,9 +178,9 @@ Weight: 5, Value: 13000gold, Worn in: TAKE ABOUT
 
 Can affect you as:
 
-    Affects: STR by 1
+ Affects: STR by 1
 
-    Affects: DEX by 1
+ Affects: DEX by 1
 
 Only those who are at least experienced magic users or experienced clerics, 
 
@@ -196,17 +196,17 @@ all lures restricts now changed to
 
 Clasp can only be attached to:
 
-   an enchanted fishing pole
+ an enchanted fishing pole
 
-   a saltwater fly rod
+ a saltwater fly rod
 
-   a short fishing pole
+ a short fishing pole
 
-   a fishing rod and reel combo
+ a fishing rod and reel combo
 
-   a bamboo fishing pole
+ a bamboo fishing pole
 
-   a mystical fishing pole
+ a mystical fishing pole
 
 grrrrrr
 
@@ -214,7 +214,7 @@ grrrrrr
 
 <div class="post" data-post-id="26147" data-author="Weasel" data-date="2008-09-04T20:47:17+00:00" data-subject="">
 
-:shock:  may I ask why?
+<img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> may I ask why?
 
 </div>
 
@@ -232,7 +232,7 @@ Fair enough.
 
 <div class="post" data-post-id="26153" data-author="jezer" data-date="2008-09-05T03:47:59+00:00" data-subject="">
 
-[img:ws78uvwv]http://bethesdatech.net/wp-content/uploads/2008/05/blake.jpg[/img:ws78uvwv]
+![](http://bethesdatech.net/wp-content/uploads/2008/05/blake.jpg)
 
 Some people wear them on there hats...
 
@@ -280,11 +280,11 @@ Item is: NOBITS
 
 Weight: 19, Value: 44000gold, Worn in: TAKE HEAD 
 
-AC-apply is  -1.2
+AC-apply is -1.2
 
 Can affect you as:
 
-    Affects: HITROLL by 2
+ Affects: HITROLL by 2
 
 Only those who are at least master thieves or master warriors, or supreme
 
@@ -304,9 +304,9 @@ AC-apply is 0.1
 
 Can affect you as:
 
-    Affects: REGEN_MANA by 1
+ Affects: REGEN\_MANA by 1
 
-    Affects: HITROLL by 2
+ Affects: HITROLL by 2
 
 Only those who are at least supreme magic users, clerics, druids, or
 
@@ -322,13 +322,13 @@ Item is: NOBITS
 
 Weight: 5, Value: 31000gold, Worn in: TAKE FEET 
 
-AC-apply is  -0.3
+AC-apply is -0.3
 
 Can affect you as:
 
-    Affects: STR by 1
+ Affects: STR by 1
 
-    Affects: HITROLL by 1
+ Affects: HITROLL by 1
 
 Only those who are at least adept thieves, warriors, bards, or monks may
 
@@ -354,9 +354,9 @@ AC-apply is 0.3
 
 Can affect you as:
 
-    Affects: MANA by 5
+ Affects: MANA by 5
 
-    Affects: UNDEAD_CONTROL by 1
+ Affects: UNDEAD\_CONTROL by 1
 
 Warden-Tarogel (Herbalist II)
 
@@ -372,9 +372,9 @@ AC-apply is -1.7
 
 Can affect you as:
 
-    Affects: MANA by 14
+ Affects: MANA by 14
 
-    Affects: CON by 1
+ Affects: CON by 1
 
 Only those who have attained supremacy in at least three classes may use
 

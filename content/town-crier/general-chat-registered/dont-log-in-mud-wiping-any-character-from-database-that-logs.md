@@ -14,9 +14,9 @@ post_count: 15
 
 sniff
 
-  including
+ including
 
-        Kron
+ Kron
 
 </div>
 
@@ -56,19 +56,19 @@ Looking forward to hearing the explanation for this one. Its probably just corru
 
 Welcome to the Sloth DikuMUD at UKANS
 
-0) Exit from DikuMud.
+0\) Exit from DikuMud.
 
-1) Enter the game.
+1\) Enter the game.
 
-2) Enter description.
+2\) Enter description.
 
-3) Read the background story
+3\) Read the background story
 
-4) Change password.
+4\) Change password.
 
-5) Delete this character. [Level 9 or less only]
+5\) Delete this character. [Level 9 or less only]
 
-   Make your choice: 1
+ Make your choice: 1
 
 Sorry, the game is wizlocked.
 
@@ -104,7 +104,7 @@ Thanks Splork!
 
 <div class="post" data-post-id="31386" data-author="DSF" data-date="2010-08-02T13:53:19+00:00" data-subject="Re: Game back up">
 
-> ***Splork* wrote:**
+> <strong>\*Splork\* wrote:</strong>
 > We arent entirely sure what happened here, the builders port was up for over 30 days which may very well of drained our game machine memory.
 > 
 > 
@@ -139,11 +139,11 @@ Splork has transferred you!
 
 The Inn
 
-Exits: North  South
+Exits: North South
 
-Rynquald ~Dragonsworn~ is standing here. [5]
+Rynquald \~Dragonsworn\~ is standing here. [5]
 
-Vortex   is sleeping here.
+Vortex is sleeping here.
 
 Wronsky [Legends] is standing here.
 
@@ -185,7 +185,7 @@ Splork
 
 <div class="post" data-post-id="31403" data-author="Stab" data-date="2010-08-03T18:45:30+00:00" data-subject="Re: DONT LOG IN MUD WIPING ANY CHARACTER FROM DATABASE THAT ">
 
-I'm so glad i missed all that.:)
+I'm so glad i missed all that.<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Partyon
 

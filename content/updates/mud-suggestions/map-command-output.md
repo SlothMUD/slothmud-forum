@@ -14,21 +14,21 @@ post_count: 2
 
 Hello!
 
-I just found out there is a command 'map', but its output does not make pleasant feeling for my eyes :)
+I just found out there is a command 'map', but its output does not make pleasant feeling for my eyes <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 ![](https://db.tt/nCnpwtFM)
 
 May I suggest to fix some unpleasantness :
 
-1. Border color >> same color everywhere; not green and white as atm, either all green or all white;
+1\. Border color \>\> same color everywhere; not green and white as atm, either all green or all white;
 
-2. Double "Room Room", I guess there's room for only one 'room';
+2\. Double "Room Room", I guess there's room for only one 'room';
 
-3. Misplaced '|' needs to be moves 1 position to the right (or every '|' to the left);
+3\. Misplaced '\|' needs to be moves 1 position to the right (or every '\|' to the left);
 
-4. A 'n' looks like it want to be moved 1 position to the right, too (or, everything else to the left);
+4\. A 'n' looks like it want to be moved 1 position to the right, too (or, everything else to the left);
 
-Thanks in advance :)
+Thanks in advance <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

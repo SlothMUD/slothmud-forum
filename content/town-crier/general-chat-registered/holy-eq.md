@@ -14,6 +14,6 @@ post_count: 1
 
 Could someone explain me why we dont have holy light or holy wrist?
 
-Something like Holy torch + 10spelldam +10 mana or Holy wrisband .0 +dam +hit may be? :)
+Something like Holy torch + 10spelldam +10 mana or Holy wrisband .0 +dam +hit may be? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

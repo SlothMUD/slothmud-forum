@@ -12,7 +12,7 @@ post_count: 14
 
 <div class="post" data-post-id="32494" data-author="kron" data-date="2011-03-21T21:44:40+00:00" data-subject="Mud locked up?">
 
-I connect to the mud and thats all i get.  Anyone else with this problem?
+I connect to the mud and thats all i get. Anyone else with this problem?
 
 </div>
 
@@ -102,7 +102,7 @@ Splork
 
 Mud is online. Thanks, imms.
 
-Please vote  8) 
+Please vote <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> 
 
 Tukster.
 
@@ -110,7 +110,7 @@ Tukster.
 
 <div class="post" data-post-id="32593" data-author="Toxis" data-date="2011-05-09T05:31:40+00:00" data-subject="Re: Mud locked up?">
 
-Mud is crashing repeatedly :(
+Mud is crashing repeatedly <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -118,6 +118,6 @@ Mud is crashing repeatedly :(
 
 Should have reposted but Idjit fixed his mistake and mud has been stable since.
 
-:)
+<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

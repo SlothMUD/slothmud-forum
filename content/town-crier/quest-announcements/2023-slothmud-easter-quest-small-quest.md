@@ -18,7 +18,7 @@ We are doing a simple Easter quest on Friday April 7th at 5PM Pacific.
 
 Precise time will be in the countdown link below:
 
-[<LINK_TEXT text="https://www.tickcounter.com/countdown/3 ... ster-quest">https://www.tickcounter.com/countdown/3996867/2023-slothmud-easter-quest</LINK_TEXT>](https://www.tickcounter.com/countdown/3996867/2023-slothmud-easter-quest)
+[https://www.tickcounter.com/countdown/3996867/2023-slothmud-easter-quest](https://www.tickcounter.com/countdown/3996867/2023-slothmud-easter-quest)
 
 This will be pretty short.
 

@@ -24,7 +24,7 @@ MMMmmmMMmm tits on a bull, nothing wrong with those!....so long as they are petr
 
 <div class="post" data-post-id="10651" data-author="blackmore" data-date="2006-02-11T15:19:25+00:00" data-subject="">
 
-The policy has always been it's ok to say what mobs offer quests, just not ok to give information on how to complete them.  I'm not sure how official of a policy it is, though, so I've always been careful about how much information I give.
+The policy has always been it's ok to say what mobs offer quests, just not ok to give information on how to complete them. I'm not sure how official of a policy it is, though, so I've always been careful about how much information I give.
 
 </div>
 
@@ -44,7 +44,7 @@ Summary: The warriors guild is the only place in our world that the warrior clas
 
 Reward: some exp, some gold
 
-Or some crap like that :twisted: 
+Or some crap like that <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 Enjoy,
 
@@ -52,13 +52,13 @@ Splork
 
 Stuff like this is way down our list atm though, Kj has several projects backloaded, Isabo is extremely busy at work, wintin.NET has Frobisher's attention atm- which benefits the majority of us on a daily basis, Clink's time is being spent on our website, etc, etc I could go on and on...
 
-***In the meantime, I have created an autoquest forum, please obey the rules and attempt to follow the formatting I have provided there. If you can improve upon it, so be it.
+\*\*\*In the meantime, I have created an autoquest forum, please obey the rules and attempt to follow the formatting I have provided there. If you can improve upon it, so be it.
 
 </div>
 
 <div class="post" data-post-id="10656" data-author="Weasel" data-date="2006-02-11T16:50:54+00:00" data-subject="">
 
-thanks :)
+thanks <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -66,6 +66,6 @@ thanks :)
 
 Autoquests has it's own forum now..
 
-[<LINK_TEXT text="http://www.slothmud.org/index.php?name= ... forum&f=32">http://www.slothmud.org/index.php?name=PNphpBB2&file=viewforum&f=32</LINK_TEXT>](http://www.slothmud.org/index.php?name=PNphpBB2&file=viewforum&f=32)
+[http://www.slothmud.org/index.php?name=PNphpBB2&file=viewforum&f=32](http://www.slothmud.org/index.php?name=PNphpBB2&file=viewforum&f=32)
 
 </div>

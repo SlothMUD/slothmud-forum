@@ -22,13 +22,13 @@ By this link you'll find a medley and 2 texts/lyrics of mine:
 
 Would be really grateful for your comments and advices, thanks ahead
 
-                  Old Jerod :)
+ Old Jerod <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="25372" data-author="Evergreen" data-date="2008-07-14T15:00:43+00:00" data-subject="">
 
-long time not seen :)
+long time not seen <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 hows "Anri" in your hands?
 
@@ -36,7 +36,7 @@ hows "Anri" in your hands?
 
 <div class="post" data-post-id="25375" data-author="13" data-date="2008-07-14T21:24:13+00:00" data-subject="">
 
-raitis :)
+raitis <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -54,17 +54,17 @@ I can't fathom how anyone could call moi a slacker, hell I even played like a mo
 
 <div class="post" data-post-id="25397" data-author="PolkAdotS" data-date="2008-07-17T00:57:55+00:00" data-subject="">
 
-I'd quit already Jerod, good enough to see you though.  How should I know you?  Didn't think I had however you can remind me sometime if I know you.  I have messaging on this site, send me a reminder.  Hey Krok, never see you either.  I hope things don't suck.  Adios.
+I'd quit already Jerod, good enough to see you though. How should I know you? Didn't think I had however you can remind me sometime if I know you. I have messaging on this site, send me a reminder. Hey Krok, never see you either. I hope things don't suck. Adios.
 
 </div>
 
 <div class="post" data-post-id="25406" data-author="Jerod_A" data-date="2008-07-17T19:23:16+00:00" data-subject="">
 
-Actually i remember you well Polk :) 
+Actually i remember you well Polk <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> 
 
 (The char could have sometimes been online through these years, though it was my friend running em)...
 
-Krok, and Evergreen - Pleasure to hear for ya guys :)
+Krok, and Evergreen - Pleasure to hear for ya guys <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -76,7 +76,7 @@ Nubs!
 
 <div class="post" data-post-id="25484" data-author="Guinex" data-date="2008-07-29T10:19:39+00:00" data-subject="">
 
-*smoke*
+\*smoke\*
 
 </div>
 
@@ -98,7 +98,7 @@ A demilich stops following Guinex.
 
 A demilich stops following Guinex
 
-welcome back :)
+welcome back <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -110,7 +110,7 @@ Zomg, John himself?
 
 <div class="post" data-post-id="25489" data-author="13" data-date="2008-07-29T16:24:21+00:00" data-subject="">
 
-nowai srsly??[/size:1x79lrej]
+nowai srsly??
 
 </div>
 
@@ -122,6 +122,6 @@ Sup G.
 
 <div class="post" data-post-id="25496" data-author="jezer" data-date="2008-07-29T23:30:46+00:00" data-subject="">
 
-[img:2807xr5k]http://img57.imageshack.us/img57/6541/smoke3ci.jpg[/img:2807xr5k]
+![](http://img57.imageshack.us/img57/6541/smoke3ci.jpg)
 
 </div>

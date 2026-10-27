@@ -12,15 +12,15 @@ post_count: 3
 
 <div class="post" data-post-id="6337" data-author="brand" data-date="2005-05-20T18:58:50+00:00" data-subject="Forum Index Link.">
 
-from anywhere in the forums there is a big black box in the upper left that links to the Forum Index.  I doubt this is a secret forum index. is it suppose to say something?
+from anywhere in the forums there is a big black box in the upper left that links to the Forum Index. I doubt this is a secret forum index. is it suppose to say something?
 
- :twisted:  :?:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_question.svg" alt=":?:" title=":?:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="6338" data-author="kjartan" data-date="2005-05-20T19:02:02+00:00" data-subject="">
 
-That's the mirror universe forums, where people say how much they love it that it's so easy to be good now.  Notice the goatee on the black box.
+That's the mirror universe forums, where people say how much they love it that it's so easy to be good now. Notice the goatee on the black box.
 
 </div>
 

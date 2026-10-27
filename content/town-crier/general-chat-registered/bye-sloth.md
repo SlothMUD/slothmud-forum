@@ -28,9 +28,9 @@ Rub
 
 <div class="post" data-post-id="15324" data-author="Hades" data-date="2006-11-25T16:28:41+00:00" data-subject="Re:">
 
-A long rant, written by a delusional ranger, has been left behind...It emits a faint humming sound.  
+A long rant, written by a delusional ranger, has been left behind...It emits a faint humming sound. 
 
- :oops:
+ <img src="/images/smilies/icon_redface.svg" alt=":oops:" title=":oops:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -38,7 +38,7 @@ A long rant, written by a delusional ranger, has been left behind...It emits a f
 
 thucking fiefs!
 
-*the gods have taken away your ability to talk*
+\*the gods have taken away your ability to talk\*
 
 bah.
 
@@ -46,21 +46,21 @@ bah.
 
 <div class="post" data-post-id="15332" data-author="13" data-date="2006-11-25T23:05:45+00:00" data-subject="">
 
-Pthieves give avatars something to do.  It's easy enough to not get your shit
+Pthieves give avatars something to do. It's easy enough to not get your shit
 
-stolen.  Plus, I really needed a keychain etc.
+stolen. Plus, I really needed a keychain etc.
 
 </div>
 
 <div class="post" data-post-id="15334" data-author="Mosaix" data-date="2006-11-26T00:24:38+00:00" data-subject="">
 
-To respond to aa, and any possible pthief reading this.  If your an avatar and bored, 
+To respond to aa, and any possible pthief reading this. If your an avatar and bored, 
 
-I honestly could use some help with some remaining eq/forges.  Perhaps you could find some time to help me build them.  Of course in return could heal and raise your bored chars.  
+I honestly could use some help with some remaining eq/forges. Perhaps you could find some time to help me build them. Of course in return could heal and raise your bored chars. 
 
-I cant play everyday anymore, but could play here and there for enjoyment once again.  
+I cant play everyday anymore, but could play here and there for enjoyment once again. 
 
-And if not me, maybe help out another char who is looking for spellbooks or eq, help them learn and advance their chars.  This isnt a flame, just saying if your seriously bored I could use some help.
+And if not me, maybe help out another char who is looking for spellbooks or eq, help them learn and advance their chars. This isnt a flame, just saying if your seriously bored I could use some help.
 
 Mosaix
 
@@ -78,9 +78,9 @@ some mobs.
 
 hey rub, 
 
-please come back :) 
+please come back <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> 
 
-you know broeggle needs you and sloth too :)
+you know broeggle needs you and sloth too <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 looking forward to seeing you soon,
 
@@ -96,6 +96,6 @@ wtb keychain :D
 
 <div class="post" data-post-id="15356" data-author="Ingold" data-date="2006-11-27T04:47:23+00:00" data-subject="Keychain">
 
-There was a Key Chain found in the scribes sometime last week.  Please ask around because I dont remember who found it, but whoever it was asked over the channels who lost it.
+There was a Key Chain found in the scribes sometime last week. Please ask around because I dont remember who found it, but whoever it was asked over the channels who lost it.
 
 </div>

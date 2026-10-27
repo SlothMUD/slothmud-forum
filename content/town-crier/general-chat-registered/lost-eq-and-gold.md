@@ -14,13 +14,13 @@ post_count: 6
 
 Today I popped:a small knife, a map of Newbatia, a thick golden ring and 177535 coins off a couple of quickling guards,
 
-obviously, they looted someone (unless the coins are a new feature of the quicklings, witch I could cope with *wink*).
+obviously, they looted someone (unless the coins are a new feature of the quicklings, witch I could cope with \*wink\*).
 
 Did anyone die at the guards in the not to distant past and loose this stuff? if so post here or catch me online.
 
 Thanks,
 
-Rynquald.  :)
+Rynquald. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -30,32 +30,32 @@ Just as a follow up to my last post, I have found the rightful owner of these th
 
 Rynquald.
 
-PS: thanks to all the people that remembered that I had this eq when someone said they lost it in the Quicklings on gossip  :D
+PS: thanks to all the people that remembered that I had this eq when someone said they lost it in the Quicklings on gossip <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="7400" data-author="firebrand" data-date="2005-06-21T11:01:09+00:00" data-subject="">
 
-thx ryn for being so honest darlin - we all appreciate seeing that.  next time though, please don't list *exactly* what you found: say smth like "i found some eq and coins in <insert area name here> today - did someone die and lose it".  the rightful owner will know what he or she lost and be able to tell you.  when you list what exactly was found, someone who is not quite so honest will lie and tell you 'yeah that's mine' just to get free eq/coins.
+thx ryn for being so honest darlin - we all appreciate seeing that. next time though, please don't list \*exactly\* what you found: say smth like "i found some eq and coins in \<insert area name here\> today - did someone die and lose it". the rightful owner will know what he or she lost and be able to tell you. when you list what exactly was found, someone who is not quite so honest will lie and tell you 'yeah that's mine' just to get free eq/coins.
 
 </div>
 
 <div class="post" data-post-id="7401" data-author="nevulae" data-date="2005-06-21T11:33:29+00:00" data-subject="">
 
-there there, lets all have some faith in our dear co-mudders :)
+there there, lets all have some faith in our dear co-mudders <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="7416" data-author="Qa" data-date="2005-06-21T19:01:54+00:00" data-subject="">
 
-> **nevulae wrote:**
-> there there, lets all have some faith in our dear co-mudders :)
+> <strong>nevulae wrote:</strong>
+> there there, lets all have some faith in our dear co-mudders <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Hrm... looking at the crazy things that hapenned during the 'weekly quests' and what happens with voting during quests, and even when you are just cycling an area, my "faith" is not very strong.
 
-Listen to FB.  It's better for all of us that way.
+Listen to FB. It's better for all of us that way.
 
--Qa
+\-Qa
 
 </div>
 

@@ -14,22 +14,29 @@ post_count: 1
 
 You need a "right here" message for farlook.
 
-[quote:179ux60u]
-
-Settlestone's Guest House
-
-Shallah, Mistress of the House stands here, waving you in.
-
->farlook shallah
-
-Immediately to the north, you spot Shallah, Mistress of the House.
-
->scan
-
-You peer intently all around, and see :
-
-Shallah, Mistress of the House : right here
-
-[/color:179ux60u][/quote:179ux60u]
+> <strong>Quote:</strong>
+> Settlestone's Guest House
+> 
+> 
+> 
+> Shallah, Mistress of the House stands here, waving you in.
+> 
+> 
+> 
+> \>farlook shallah
+> 
+> 
+> 
+> Immediately to the north, you spot Shallah, Mistress of the House.
+> 
+> 
+> 
+> \>scan
+> 
+> 
+> 
+> You peer intently all around, and see :
+> 
+> Shallah, Mistress of the House : right here
 
 </div>

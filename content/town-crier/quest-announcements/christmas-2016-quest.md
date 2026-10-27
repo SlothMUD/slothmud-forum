@@ -28,7 +28,7 @@ We'll begin our adventures on the continent of Thule in the city of Aisholm.
 
 Hope to see you guys there!
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -38,7 +38,7 @@ In case it wasn't clear, we'll be doing this on Saturday the 24th of December.
 
 Sorry for any confusion.
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -56,6 +56,6 @@ direction as to proceed with the new area, The Kingdom of Luilekkerland.
 
 Thanks again, and Happy Holidays,
 
--Neptune
+\-Neptune
 
 </div>

@@ -12,7 +12,7 @@ post_count: 3
 
 <div class="post" data-post-id="15215" data-author="Dikus" data-date="2006-11-18T03:51:28+00:00" data-subject="Problem taking an item off the auction block">
 
-I am having problems removing Gem Hammer off the block when i submitted it wrong :( and it says this item has not been submitted for sale coming soon. But it never comes off the block does anyone have any idea why this is or is it just a bug?
+I am having problems removing Gem Hammer off the block when i submitted it wrong <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom"> and it says this item has not been submitted for sale coming soon. But it never comes off the block does anyone have any idea why this is or is it just a bug?
 
 </div>
 
@@ -24,6 +24,6 @@ been buggy for a while now with closing or amending items.. actually it worked a
 
 <div class="post" data-post-id="15218" data-author="Autolycos" data-date="2006-11-18T04:25:59+00:00" data-subject="">
 
-I blame Brad!  :twisted:
+I blame Brad! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

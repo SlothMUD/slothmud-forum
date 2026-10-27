@@ -46,7 +46,7 @@ I'd briefly remind the motivation. Warriors ability to make second strike by the
 
 Ok, again forgetting that the original motivation was envy...
 
-Does anyone else thing the concept makes a lot of sense that the Monk class would have such a skill? It's similar to  an immolation type attack in that it costs mana up front and then deals out damage gradually thru melee hits.
+Does anyone else thing the concept makes a lot of sense that the Monk class would have such a skill? It's similar to an immolation type attack in that it costs mana up front and then deals out damage gradually thru melee hits.
 
 For the record Monk class works GREAT as it is. That is NOT at issue. I'm curious to know what other peeps think about the specific suggestion to A. add such a skill as described above and B. further restrict the types of actions that one may do while deathgripping.
 

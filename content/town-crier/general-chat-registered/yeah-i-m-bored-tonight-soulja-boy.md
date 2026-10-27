@@ -12,27 +12,27 @@ post_count: 2
 
 <div class="post" data-post-id="21453" data-author="Akasha" data-date="2007-11-28T09:11:42+00:00" data-subject="Yeah I&#x27;m bored tonight : Soulja Boy">
 
-Yeah, so im bored tonight, so i decided to offer a translation of soulja boy's Superman song :)  After you read it, goto  [url:2tu9disp][<LINK_TEXT text="http://www.youtube.com/watch?v=aMs7d0QU ... re=related">http://www.youtube.com/watch?v=aMs7d0QUiuo&feature=related</LINK_TEXT>](http://www.youtube.com/watch?v=aMs7d0QUiuo&feature=related)[/url:2tu9disp]
+Yeah, so im bored tonight, so i decided to offer a translation of soulja boy's Superman song <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> After you read it, goto [url=http://www.youtube.com/watch?v=aMs7d0QUiuo&feature=related]http://www.youtube.com/watch?v=aMs7d0QUiuo&feature=related
 
-and watch how many teenage girls LOVE to dance to it.  
+and watch how many teenage girls LOVE to dance to it. 
 
 Chorus: x2
 
-Soulja boy off in this hoe  
+Soulja boy off in this hoe 
 
-[b:2tu9disp]Watch me crank it 
+<strong>Watch me crank it </strong>
 
-[url:2tu9disp][http://www.urbandictionary.com/define.php?term=crank+it](http://www.urbandictionary.com/define.php?term=crank+it)[/url:2tu9disp][/b:2tu9disp]
+<strong>[url=http://www.urbandictionary.com/define.php?term=crank+it]http://www.urbandictionary.com/define.php?term=crank+it</strong>
 
 Watch me roll 
 
 Watch me crank dat soulja boy 
 
-[b:2tu9disp]Then super man dat hoe 
+<strong>Then super man dat hoe </strong>
 
-[url:2tu9disp][http://www.urbandictionary.com/define.php?term=superman](http://www.urbandictionary.com/define.php?term=superman)[/url:2tu9disp]
+<strong>[url=http://www.urbandictionary.com/define.php?term=superman]http://www.urbandictionary.com/define.php?term=superman</strong>
 
-Read #3[/b:2tu9disp]
+<strong>Read #3</strong>
 
 Now watch me yuuuuaaaaaa! 
 
@@ -58,19 +58,19 @@ Watch me lean and watch me rock
 
 Super man dat hoe 
 
-[b:2tu9disp]Then watch me crank dat robocop 
+<strong>Then watch me crank dat robocop </strong>
 
-[url:2tu9disp][http://www.urbandictionary.com/define.php?term=robocop](http://www.urbandictionary.com/define.php?term=robocop)[/url:2tu9disp]
+<strong>[url=http://www.urbandictionary.com/define.php?term=robocop]http://www.urbandictionary.com/define.php?term=robocop</strong>
 
-Read #2[/b:2tu9disp]
+<strong>Read #2</strong>
 
 Super fresh, now watch me jock 
 
-[b:2tu9disp]Jocking on them haterz man 
+<strong>Jocking on them haterz man </strong>
 
-[url:2tu9disp][http://www.urbandictionary.com/define.php?term=jocking](http://www.urbandictionary.com/define.php?term=jocking)[/url:2tu9disp]
+<strong>[url=http://www.urbandictionary.com/define.php?term=jocking]http://www.urbandictionary.com/define.php?term=jocking</strong>
 
-Read #1[/b:2tu9disp]
+<strong>Read #1</strong>
 
 When i do dat soulja boy 
 
@@ -82,11 +82,11 @@ I'm jocking on yo bitch ass
 
 And if we get the fightin 
 
-[b:2tu9disp]Then i'm cocking on your bitch 
+<strong>Then i'm cocking on your bitch </strong>
 
-[url:2tu9disp][http://www.urbandictionary.com/define.php?term=cocking](http://www.urbandictionary.com/define.php?term=cocking)[/url:2tu9disp]
+<strong>[url=http://www.urbandictionary.com/define.php?term=cocking]http://www.urbandictionary.com/define.php?term=cocking</strong>
 
-Read #1[/b:2tu9disp]
+<strong>Read #1</strong>
 
 You catch me at yo local party 
 
@@ -128,11 +128,11 @@ Now watch me yuuuuaaaaaa!
 
 I'm bouncin on my toe 
 
-[b:2tu9disp]Watch me super soak dat hoe 
+<strong>Watch me super soak dat hoe </strong>
 
-[url:2tu9disp][<LINK_TEXT text="http://www.urbandictionary.com/define.p ... super+soak">http://www.urbandictionary.com/define.php?term=super+soak</LINK_TEXT>](http://www.urbandictionary.com/define.php?term=super+soak)[/url:2tu9disp]
+<strong>[url=http://www.urbandictionary.com/define.php?term=super+soak]http://www.urbandictionary.com/define.php?term=super+soak</strong>
 
-Read any of them[/b:2tu9disp]
+<strong>Read any of them</strong>
 
 I'ma pass it to arab 
 
@@ -244,6 +244,6 @@ Now watch me yuuuuaaaaaa!
 
 <div class="post" data-post-id="21454" data-author="Tap" data-date="2007-11-28T10:50:21+00:00" data-subject="">
 
-[img:l7iaym8o]http://www.sacobserver.com/business/images/redd_foxx_mug.jpg[/img:l7iaym8o]
+![](http://www.sacobserver.com/business/images/redd_foxx_mug.jpg)
 
 </div>

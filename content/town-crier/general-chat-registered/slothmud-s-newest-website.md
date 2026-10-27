@@ -12,13 +12,11 @@ post_count: 13
 
 <div class="post" data-post-id="34692" data-author="*Splork*" data-date="2013-12-26T23:10:21+00:00" data-subject="SlothMUD&#x27;s Newest Website!">
 
-After a year in the making, we are happy to announce the release of our newest website for SlothMUD.  The old one needed to be replaced for several reasons but most notably the CMS which it was built upon was no longer being maintained and continuing any further development with it would not be wise.  This site is built using Wordpress which allows us the confidence to continue to build custom content for our players and extend upon that which we already have.
+After a year in the making, we are happy to announce the release of our newest website for SlothMUD. The old one needed to be replaced for several reasons but most notably the CMS which it was built upon was no longer being maintained and continuing any further development with it would not be wise. This site is built using Wordpress which allows us the confidence to continue to build custom content for our players and extend upon that which we already have.
 
-     For the most part, you should notice that the site is quite similar to our old one, both in navigation and content. This was done on purpose to make the switch between the two as flawless and comfortable as we could manage. However, there are some new things and further detailed development of old. 
+ For the most part, you should notice that the site is quite similar to our old one, both in navigation and content. This was done on purpose to make the switch between the two as flawless and comfortable as we could manage. However, there are some new things and further detailed development of old. 
 
-    
-
-     A small listing of changes:
+ A small listing of changes:
 
 â€¢	New Design for website
 
@@ -40,15 +38,15 @@ After a year in the making, we are happy to announce the release of our newest w
 
 â€¢	New Custom Mudlet plugin matches website
 
-*       Live Coliseum statistics
+\* Live Coliseum statistics
 
 There are simply too many changes to list here but these are some of the ones we wanted to point out. We will be adding more as often as possible.
 
 Hope you guys like it,
 
-Splork & Breeze
+Splork \& Breeze
 
-  If you do not see the new design, I believe ctrl f5 will reload the page for you.
+ If you do not see the new design, I believe ctrl f5 will reload the page for you.
 
 </div>
 
@@ -62,7 +60,7 @@ looks good! keep up the work!
 
 The new website looks cool - I'm just still figuring out how to get around.
 
-One question though.  What is our log on info? It doesn't seem to be the same as my forum log in.  I also tried to have my password sent to the email address I have quest information sent to, but it said that address wasn't being used - or something like that.
+One question though. What is our log on info? It doesn't seem to be the same as my forum log in. I also tried to have my password sent to the email address I have quest information sent to, but it said that address wasn't being used - or something like that.
 
 Any help you can give would be appreciated.
 
@@ -90,7 +88,7 @@ shyla
 
 <div class="post" data-post-id="34718" data-author="*Splork*" data-date="2013-12-29T03:36:28+00:00" data-subject="Re: SlothMUD&#x27;s Newest Website!">
 
-The only change in the menus is that we moved the location to the top of the website instead of the side. This is standard protocol in regards to website design. This is the design of our new template and can not be changed. Anyone who is familiar with opening a website in a browser should have no issue finding the drop down menus, my six year old was able to locate them :lol: 
+The only change in the menus is that we moved the location to the top of the website instead of the side. This is standard protocol in regards to website design. This is the design of our new template and can not be changed. Anyone who is familiar with opening a website in a browser should have no issue finding the drop down menus, my six year old was able to locate them <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> 
 
 The links for live info and eq was the same before as they are now: a menu which drops down and allows you to pick what page you want inside those categories.
 
@@ -118,13 +116,13 @@ Splork
 
 <div class="post" data-post-id="34728" data-author="Sleeping Forest" data-date="2013-12-29T15:00:01+00:00" data-subject="Re: SlothMUD&#x27;s Newest Website!">
 
-Fantastic new site, great job guys. As discussed some things need some fine tuning, but other than that cheers. Keep up the marvelous work.  :)
+Fantastic new site, great job guys. As discussed some things need some fine tuning, but other than that cheers. Keep up the marvelous work. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="34730" data-author="cyprimus" data-date="2013-12-29T16:00:52+00:00" data-subject="Re: SlothMUD&#x27;s Newest Website!">
 
-Not finding the leveling calculator.  I still have old link too it, but seems to help new players to have it all in one spot.
+Not finding the leveling calculator. I still have old link too it, but seems to help new players to have it all in one spot.
 
 </div>
 
@@ -154,7 +152,7 @@ Not sure if the one on the old website was the same.
 
 <div class="post" data-post-id="34738" data-author="Shyla" data-date="2013-12-29T19:15:53+00:00" data-subject="Re: SlothMUD&#x27;s Newest Website!">
 
-thankyou splork the new links up top fixed what I was looking for :) HUGS
+thankyou splork the new links up top fixed what I was looking for <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> HUGS
 
 Shyla
 

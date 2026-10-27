@@ -46,13 +46,13 @@ ive poped it from her, its cp for +shock shroud forge. but that was few years ag
 
 <div class="post" data-post-id="27660" data-author="*Krom*" data-date="2009-01-07T11:46:36+00:00" data-subject="">
 
-Looks like it still pops there.  The pop rate, while not the worst sloth has, is not the best either.  Just bad luck.
+Looks like it still pops there. The pop rate, while not the worst sloth has, is not the best either. Just bad luck.
 
 </div>
 
 <div class="post" data-post-id="27661" data-author="jezer" data-date="2009-01-07T11:48:43+00:00" data-subject="">
 
-Thanks Krom, I'm happy to sweat it out as long as I know it pops. It's good coins anyways.  :)
+Thanks Krom, I'm happy to sweat it out as long as I know it pops. It's good coins anyways. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -66,19 +66,19 @@ Interestingly enough when she loaded the About Body eq was being worn around Nec
 
 Anyone who has Gauntlets of the Old Crone to sell, please contact me in game.
 
-</thread>
+\</thread\>
 
 </div>
 
 <div class="post" data-post-id="27690" data-author="Yasik2" data-date="2009-01-12T10:03:10+00:00" data-subject="">
 
-[img:3or116vo]http://yasik.kiev.ua/Jezer_Astane.jpg[/img:3or116vo]
+![](http://yasik.kiev.ua/Jezer_Astane.jpg)
 
 </div>
 
 <div class="post" data-post-id="27691" data-author="jezer" data-date="2009-01-12T10:21:36+00:00" data-subject="">
 
-:D
+<img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 

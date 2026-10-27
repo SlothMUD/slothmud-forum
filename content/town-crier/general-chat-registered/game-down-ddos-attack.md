@@ -14,7 +14,7 @@ post_count: 54
 
 Somebody is pissed off at us and we have no other option than to let the child play his games. Sloth will be back once the offender gives up.
 
-We have contacted the appropriate authorities and are quite aware of whom is involved.  The situation will resolve itself.
+We have contacted the appropriate authorities and are quite aware of whom is involved. The situation will resolve itself.
 
 Please thank Jake when you see him for the hours of work on our server.
 
@@ -42,7 +42,7 @@ Thanks Jake.
 
 <div class="post" data-post-id="33477" data-author="Sleeping Forest" data-date="2012-08-25T10:35:12+00:00" data-subject="Re: Game down, DDOS attack">
 
-looks like were down again... :(
+looks like were down again... <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -50,7 +50,7 @@ looks like were down again... :(
 
 Dear Disgruntled Player,
 
-Sorry you don't like the game. Can I log in now? I've just spent 18hrs out of the past 24 tracking missing people in the NZ Bush, with 3hrs sleep plus a little at the wheel driving home. I was looking forward to sitting back and relaxing before I hit the sack. Why do you have to spoil this for me?  :cry: Can you just move on please?
+Sorry you don't like the game. Can I log in now? I've just spent 18hrs out of the past 24 tracking missing people in the NZ Bush, with 3hrs sleep plus a little at the wheel driving home. I was looking forward to sitting back and relaxing before I hit the sack. Why do you have to spoil this for me? <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> Can you just move on please?
 
 Jezer
 
@@ -58,7 +58,7 @@ Jezer
 
 <div class="post" data-post-id="33479" data-author="Yasik" data-date="2012-08-25T12:59:43+00:00" data-subject="Re: Game down, DDOS attack">
 
-huh huhhuh, he said 'bush'  :P
+huh huhhuh, he said 'bush' <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 Can it be somehow related to TMC ranking?
 
@@ -154,7 +154,7 @@ We are #1 on tmc by 7 votes. Keep voting people- if this attack has been set upo
 
 What kind of lame person does this anyway? Grow up.
 
--Zeke
+\-Zeke
 
 </div>
 
@@ -168,7 +168,7 @@ The question I have is/has this happening to other muds also, or are we the only
 
 TMC rank: 1 
 
-Quite an achievement for a mud that's offline. We can't respond to your pings over the sound of how awesome we are.  8)
+Quite an achievement for a mud that's offline. We can't respond to your pings over the sound of how awesome we are. <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -178,7 +178,7 @@ Voted!
 
 Though it is worrying me that some of the IP's are from Malaysia.
 
-Hope it gets sorted :(
+Hope it gets sorted <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 Dr
 
@@ -196,10 +196,10 @@ Thanks Splork and Jake
 
 <div class="post" data-post-id="33495" data-author="jezer" data-date="2012-08-25T22:41:46+00:00" data-subject="Re: Game down, DDOS attack">
 
-> **Burl wrote:**
+> <strong>Burl wrote:</strong>
 > The CG residents are pretty much convinced Jezer has gotten himself lost in the NZ bush and are currently mounting a search party of their own!
 
-I'll be back you mother suffering seahogs!  :twisted:
+I'll be back you mother suffering seahogs! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -213,11 +213,11 @@ And down we go again ?
 
 Love it! Straight from Who is Online from the website...
 
-[pri sec ter qua qui sep hex oct]  Players
+[pri sec ter qua qui sep hex oct] Players
 
---------------------------------
+\--------------------------------
 
-[ 1d  0   0   0 | 0   0   0   0  ]  Dr the Untitled
+[ 1d 0 0 0 \| 0 0 0 0 ] Dr the Untitled
 
 There are 1 visible players.
 
@@ -235,7 +235,7 @@ Ouch, that's uncool.
 
 7 minutes since bootup.
 
-And I'm all by myself :shock:
+And I'm all by myself <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -243,7 +243,7 @@ And I'm all by myself :shock:
 
 The lag is creeping up again and I'm getting that uncomfortable feeling 
 
-... and there she goes again :cry: 
+... and there she goes again <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom"> 
 
 Save failed. Please try to save again.
 
@@ -257,7 +257,7 @@ I do not know Dr. Would you like create a new character?(Y/N)
 
 .....or something along those lines.
 
-I thought ok, I'm doomed :D
+I thought ok, I'm doomed <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 Ok, relieved Muahahaha
 
@@ -281,39 +281,39 @@ Dr
 
 Game running OK on port 6102
 
-*Immortals of SlothMUD* 
+\*Immortals of SlothMUD\* 
 
---------------------------------
+\--------------------------------
 
-[   *Creator*   ] Splork [www.wintin.org](http://www.wintin.org)
+[ \*Creator\* ] Splork [www.wintin.org](http://www.wintin.org)
 
-[   *Creator*   ] Clink the patron saint of concentration
+[ \*Creator\* ] Clink the patron saint of concentration
 
-[pri sec ter qua qui hex sep oct]  Players
+[pri sec ter qua qui hex sep oct] Players
 
---------------------------------
+\--------------------------------
 
-[      *Enchanter*  Ma:8.30      ] Tuk !=kuT<<M.A.G.I>> wtt ruby, sruby,vgarnet
+[ \*Enchanter\* Ma:8.30 ] Tuk !=kuT\<\<M.A.G.I\>\> wtt ruby, sruby,vgarnet
 
-[       *Shaman*  Dr:8.26        ] Suna ~Dragonsworn~
+[ \*Shaman\* Dr:8.26 ] Suna \~Dragonsworn\~
 
-[     *Troubadour*  Ba:6.37      ] Blackmore has finally kicked the habit
+[ \*Troubadour\* Ba:6.37 ] Blackmore has finally kicked the habit
 
-[        *Rogue*  Th:4.31        ] Reality needs kaz-dust, gem-1000stars
+[ \*Rogue\* Th:4.31 ] Reality needs kaz-dust, gem-1000stars
 
-[      *Animator*  Ne:4.29       ] Irenicus 
+[ \*Animator\* Ne:4.29 ] Irenicus 
 
-[36n 23d 20o 12c| 8m  7b  5w  4t ] Lok ~Dragonsworn~
+[36n 23d 20o 12c\| 8m 7b 5w 4t ] Lok \~Dragonsworn\~
 
-[20c 18m  7n  1b| 3w  2d  1o  1t ] Whatta Soggy Hot Dog Bun
+[20c 18m 7n 1b\| 3w 2d 1o 1t ] Whatta Soggy Hot Dog Bun
 
-[20w 12o 11c  8n| 3b  2d  2t  1m ] Dasseem the first Sword [Legends]
+[20w 12o 11c 8n\| 3b 2d 2t 1m ] Dasseem the first Sword [Legends]
 
-[12d 10t 10m  8w| 6b  4o  2c  1n ] Unmace was Tooken for a Fool
+[12d 10t 10m 8w\| 6b 4o 2c 1n ] Unmace was Tooken for a Fool
 
-[ 8w  5c  3n  1t| 0   0   0   0  ] Kalidor the Untitled
+[ 8w 5c 3n 1t\| 0 0 0 0 ] Kalidor the Untitled
 
-[ 4w  0   0   0 | 0   0   0   0  ] Peeverus the Untitled
+[ 4w 0 0 0 \| 0 0 0 0 ] Peeverus the Untitled
 
 There are 13 visible players.
 
@@ -341,9 +341,9 @@ Which port are we using now?
 
 Game Down ? 
 
-> #ses ses4 slothmud.org 6101
+\> #ses ses4 slothmud.org 6101
 
-#Trying to connect..
+\#Trying to connect..
 
 WinSock error 10060: Connection timed out
 
@@ -355,7 +355,7 @@ port 6101
 
 opening port, then quiet for hours
 
-[pechen@bogus ~]$ telnet  209.139.208.65 6101
+[pechen@bogus \~]$ telnet 209.139.208.65 6101
 
 Trying 209.139.208.65...
 
@@ -365,13 +365,13 @@ Escape character is '^]'.
 
 ^CConnection closed by foreign host.
 
-[pechen@bogus ~]$ telnet  209.139.208.65 6101
+[pechen@bogus \~]$ telnet 209.139.208.65 6101
 
 Trying 209.139.208.65...
 
 ^C
 
-[pechen@bogus ~]$ telnet  209.139.208.65 6101
+[pechen@bogus \~]$ telnet 209.139.208.65 6101
 
 Trying 209.139.208.65...
 
@@ -403,7 +403,7 @@ Connection closed by server.
 
 Wash, rinse, repeat.
 
-I managed one successful connection (with the Flash client) and everything was working fine. But then I accidentally closed the window  :oops: No luck since  :cry:
+I managed one successful connection (with the Flash client) and everything was working fine. But then I accidentally closed the window <img src="/images/smilies/icon_redface.svg" alt=":oops:" title=":oops:" width="15" height="15" class="smiley nozoom"> No luck since <img src="/images/smilies/icon_cry.svg" alt=":cry:" title=":cry:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -415,7 +415,7 @@ Please post more. We need moar info!
 
 <div class="post" data-post-id="33527" data-author="kalidor" data-date="2012-08-27T14:42:03+00:00" data-subject="Re: Game down, DDOS attack">
 
-is more DDOS :(
+is more DDOS <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -423,9 +423,9 @@ is more DDOS :(
 
 Attempting connection to game.slothmud.org...
 
-The connection has been refused.  This service may currently be down or unresponsive.
+The connection has been refused. This service may currently be down or unresponsive.
 
----> java.lang.NullPointerException <---
+\---\> java.lang.NullPointerException \<---
 
 </div>
 
@@ -439,27 +439,27 @@ so yea, i havent been able to connect for like 3 hours, the website says ppl are
 
 wh
 
-[pri sec ter qua qui hex sep oct]  Players
+[pri sec ter qua qui hex sep oct] Players
 
---------------------------------
+\--------------------------------
 
-[      *Champion*  Wa:6.38       ] Stun -Vote for Slothmud- <-- click here~Dragonsworn~
+[ \*Champion\* Wa:6.38 ] Stun -Vote for Slothmud- \<-- click here\~Dragonsworn\~
 
-[     *Skinwalker*  Dr:6.35      ] Dr operates Tox with a pizza box!
+[ \*Skinwalker\* Dr:6.35 ] Dr operates Tox with a pizza box!
 
-[       *Ranger*  Wa:4.35        ] Linx .
+[ \*Ranger\* Wa:4.35 ] Linx .
 
-[20w 20c 20m 20n|20o 19d  1b  1t ] Ozzy the Prince of Afkness (ICQ 74423831)
+[20w 20c 20m 20n\|20o 19d 1b 1t ] Ozzy the Prince of Afkness (ICQ 74423831)
 
-[20n 19d  9c  5w| 3b  1m  1o  1t ] Zeiel the Zealous
+[20n 19d 9c 5w\| 3b 1m 1o 1t ] Zeiel the Zealous
 
-[20c 18m  7n  1b| 3w  2d  1o  1t ] Whatta Soggy Hot Dog Bun
+[20c 18m 7n 1b\| 3w 2d 1o 1t ] Whatta Soggy Hot Dog Bun
 
-[14w 12c  0   0 | 0   0   0   0  ] Nakha 
+[14w 12c 0 0 \| 0 0 0 0 ] Nakha 
 
-[12d 10t 10m  8w| 6b  4o  2c  1n ] Unmace the Undercooked
+[12d 10t 10m 8w\| 6b 4o 2c 1n ] Unmace the Undercooked
 
-[ 3b  0   0   0 | 0   0   0   0  ] Unhere the Unedible
+[ 3b 0 0 0 \| 0 0 0 0 ] Unhere the Unedible
 
 There are 9 visible players.
 
@@ -477,22 +477,22 @@ Not to g.slothmud.org, not to 209.139.208.65, and so on.
 
 tried on this still no luck.
 
-> **Quote:**
-> Microsoft Telnet> open  slothmud.org 6101
+> <strong>Quote:</strong>
+> Microsoft Telnet\> open slothmud.org 6101
 > 
 > Connecting To slothmud.org...Could not open connection to the host, on port 6101
 > 
 > : Connect failed
 > 
-> Microsoft Telnet> open  g.slothmud.org 6101
+> Microsoft Telnet\> open g.slothmud.org 6101
 > 
 > Connecting To g.slothmud.org...Could not open connection to the host, on port 6101: Connect failed
 > 
-> Microsoft Telnet> open 209.139.208.65 6101
+> Microsoft Telnet\> open 209.139.208.65 6101
 > 
 > Connecting To 209.139.208.65...Could not open connection to the host, on port 6101: Connect failed
 > 
-> Microsoft Telnet>
+> Microsoft Telnet\>
 
 </div>
 
@@ -506,7 +506,7 @@ what can we do?
 
 <div class="post" data-post-id="33533" data-author="war" data-date="2012-08-27T17:27:59+00:00" data-subject="Re: Game down, DDOS attack">
 
-I was unable to connect also and see a special few on! I bet there are poping all the good eq and maybe even a drachma scatter. How come they dont make a rune for connections :?:
+I was unable to connect also and see a special few on! I bet there are poping all the good eq and maybe even a drachma scatter. How come they dont make a rune for connections <img src="/images/smilies/icon_question.svg" alt=":?:" title=":?:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -552,7 +552,7 @@ If something is being used, I guess wont hurt to review the filtering settings/r
 
 <div class="post" data-post-id="33539" data-author="celerra7" data-date="2012-08-27T19:53:21+00:00" data-subject="Re: Game down, DDOS attack">
 
-Also down.  Unable to connect all day.
+Also down. Unable to connect all day.
 
 </div>
 
@@ -564,7 +564,7 @@ Trying to connect, tried port 01 and 02 an refusing me :(
 
 <div class="post" data-post-id="33541" data-author="jezer" data-date="2012-08-27T20:26:31+00:00" data-subject="Re: Game down, DDOS attack">
 
-Anyone said anything against the prophet Muhammad recently?  :P
+Anyone said anything against the prophet Muhammad recently? <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -586,13 +586,13 @@ Splork
 
 <div class="post" data-post-id="33553" data-author="Poi" data-date="2012-08-28T14:38:10+00:00" data-subject="Re: Game down, DDOS attack">
 
-All the best Splork & team!
+All the best Splork \& team!
 
 </div>
 
 <div class="post" data-post-id="33563" data-author="Yasik" data-date="2012-08-29T08:47:05+00:00" data-subject="Re: Game down, DDOS attack">
 
-And we're still #1 on TMC, even being offline, and the amount of votes passed milestone of 1K!  8)
+And we're still #1 on TMC, even being offline, and the amount of votes passed milestone of 1K! <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -612,7 +612,7 @@ Dr
 
 <div class="post" data-post-id="33570" data-author="Greedo" data-date="2012-09-04T13:02:50+00:00" data-subject="Re: Game down, DDOS attack">
 
-> **Ker wrote:**
+> <strong>Ker wrote:</strong>
 > Is Sloth down? Who list seems to change but I can't get in :/
 > 
 > 
@@ -621,7 +621,7 @@ Dr
 
 The game is up and working.
 
--Greedo
+\-Greedo
 
 </div>
 

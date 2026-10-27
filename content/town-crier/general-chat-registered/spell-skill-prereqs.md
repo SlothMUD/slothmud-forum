@@ -14,11 +14,11 @@ post_count: 7
 
 Hi all, 
 
-I was just wondering if there was some location that shows what the pre-reqs are for various spells or skills (if any).  
+I was just wondering if there was some location that shows what the pre-reqs are for various spells or skills (if any). 
 
 If there is some reason to not publish this list, would it be possible to maybe change the "practice unlearned" command to either hide or flag those spells/skills we aren't yet eligible for?
 
-Specifically, I have disengage in my unlearned list as an av-10 skill.  I also have warrior buried as my 6th class, so wasn't totally surprised that I needed to learn "something" before I could learn disengage.  I (incorrectly) assumed that engage would be the prereq for disengage, so once I hit warrior 33 I concentrated on cycling the books.  However, even after getting engage fully learned, I still need to read something else prior to being able to learn disengage.
+Specifically, I have disengage in my unlearned list as an av-10 skill. I also have warrior buried as my 6th class, so wasn't totally surprised that I needed to learn "something" before I could learn disengage. I (incorrectly) assumed that engage would be the prereq for disengage, so once I hit warrior 33 I concentrated on cycling the books. However, even after getting engage fully learned, I still need to read something else prior to being able to learn disengage.
 
 Thanks
 
@@ -40,7 +40,7 @@ Let's just kindly ask imms to implement this feature.
 
 <div class="post" data-post-id="32265" data-author="Shyla" data-date="2011-01-06T16:22:04+00:00" data-subject="Re: Spell / Skill Prereqs">
 
-also is there any way some of these prereqs could be gotten rid of or lowered because i have notice most if not all the caster avatar ones need low level stuff like grace needs bless and flesh golem needs wall of flesh whereras the skills like urban stealth requires shadowwalk when it hould require something more like hide/stalk.  Just my 2 cents also.
+also is there any way some of these prereqs could be gotten rid of or lowered because i have notice most if not all the caster avatar ones need low level stuff like grace needs bless and flesh golem needs wall of flesh whereras the skills like urban stealth requires shadowwalk when it hould require something more like hide/stalk. Just my 2 cents also.
 
 shyla
 

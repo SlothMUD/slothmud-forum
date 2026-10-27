@@ -18,7 +18,7 @@ Need two of these rings.
 
 <div class="post" data-post-id="15091" data-author="13" data-date="2006-11-09T23:55:08+00:00" data-subject="">
 
-Just kill the spider dork.  We need a good week long eq group anyway.
+Just kill the spider dork. We need a good week long eq group anyway.
 
 </div>
 
@@ -30,7 +30,7 @@ Need a big ass group to kill that spider ... i believe she is like 45mil mob...
 
 <div class="post" data-post-id="15093" data-author="osric" data-date="2006-11-10T05:18:58+00:00" data-subject="">
 
-Nod Mistress is more annoying than Wurragurr. :P
+Nod Mistress is more annoying than Wurragurr. <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -54,7 +54,7 @@ Gossameringue-on-the-Scuttleteau, pretty fun area on ah, silk pops on the Grand 
 
 <div class="post" data-post-id="15097" data-author="Weasel" data-date="2006-11-10T12:00:17+00:00" data-subject="">
 
-Gossameringue-on-the-Scuttleteau?? Sounds like a yummy dessert, not an area on sloth.  :P
+Gossameringue-on-the-Scuttleteau?? Sounds like a yummy dessert, not an area on sloth. <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -68,9 +68,9 @@ Gossameringue-on-the-Scuttleteau?? Sounds like a yummy dessert, not an area on s
 
 Need a druid that can cast bramble (make mobs lose mv?)
 
-Spider likes to flee and webs doesn't work.  So need to bramble until she
+Spider likes to flee and webs doesn't work. So need to bramble until she
 
-can't flee no more.  If u say she is 2man ... how many runs then?
+can't flee no more. If u say she is 2man ... how many runs then?
 
 </div>
 
@@ -82,7 +82,7 @@ Lethargy works wonders.
 
 <div class="post" data-post-id="15102" data-author="kjartan" data-date="2006-11-10T18:25:51+00:00" data-subject="">
 
-Does anybody use force field any more?  Or do mobs break through it too easily?
+Does anybody use force field any more? Or do mobs break through it too easily?
 
 </div>
 
@@ -94,12 +94,12 @@ If the mob has enough moves that field doesn't last but a few seconds, in a few 
 
 <div class="post" data-post-id="15104" data-author="12345" data-date="2006-11-10T23:23:18+00:00" data-subject="">
 
-There's a few areas where I sometimes use force field to set up safe areas to regen.  Other than that, the only place I really use it is when I fight Ygol.  Simply because if he flees into the lich I'll almost always let him live.
+There's a few areas where I sometimes use force field to set up safe areas to regen. Other than that, the only place I really use it is when I fight Ygol. Simply because if he flees into the lich I'll almost always let him live.
 
 </div>
 
 <div class="post" data-post-id="15108" data-author="osric" data-date="2006-11-11T20:37:10+00:00" data-subject="">
 
-Heh, annoyingly fun mobs, weird names (but not crazy enough to be Akasha's), this must be a Rita area! :)
+Heh, annoyingly fun mobs, weird names (but not crazy enough to be Akasha's), this must be a Rita area! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

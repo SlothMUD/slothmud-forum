@@ -26,7 +26,7 @@ Also I must admit that I am miffed that I spent all the time and coins to aquire
 
 lets see ...
 
-**2x40 thief can wear**:
+<strong>2x40 thief can wear</strong>:
 
 2 rings stabdam/circledam = 10 stabdam/circledam
 
@@ -58,7 +58,7 @@ and discussions like this are the reason i told Tuk i would not show exact caps.
 
 instead of a positive response, now I have to justify to myself why I even spent the amount of time
 
-showing the information I do show--  and listen to the i told you so's from the person who didn't want
+showing the information I do show-- and listen to the i told you so's from the person who didn't want
 
 the feature in the first place.
 
@@ -74,7 +74,7 @@ thanks.
 
 score all2 is probably one of the best feature in past year imho.
 
-I was trying to point out non existing real diff between 2x40 -> 9x40.
+I was trying to point out non existing real diff between 2x40 -\> 9x40.
 
 No idea why you taking it personally.
 
@@ -98,7 +98,7 @@ Splork
 
 is 50 supposed to be the max for circle damage or is this something that is being looked into and tweaked? I have no idea btw what that is like and if it should or not I think they are just curious if it is supposed to be higher to make better use out of the new runes that are out there?
 
-by the way breeze I love the new score stuff and I want to take the time to thankhyou for all you do..  And splork i know it isn't easy being in charge with me whining all the time but thankyou for all you are doing also..  
+by the way breeze I love the new score stuff and I want to take the time to thankhyou for all you do.. And splork i know it isn't easy being in charge with me whining all the time but thankyou for all you are doing also.. 
 
 The Ever Whining
 
@@ -116,21 +116,21 @@ I thought my original post was pretty diplomatic and provided feedback and ideas
 
 <div class="post" data-post-id="33079" data-author="*Splork*" data-date="2011-12-11T02:54:48+00:00" data-subject="Re: Bonus Caps">
 
-> **Tigris wrote:**
+> <strong>Tigris wrote:</strong>
 > would you rather us just quit like the other 5x40's and higher you pointed out in the earlier posts?
 
 I'm pretty sure comments like the above were exactly what Benq Was referring to.
 
 Or maybe the following
 
-> **Tigris wrote:**
+> <strong>Tigris wrote:</strong>
 > I'm also not saying that a solution to this problem is to nerf all the runes which seems a likely immort response.
 
 Since we have done very little nerfing and mostly giving during this version of Sloth, comments like the above do nothing other than offend us...
 
 Ive never had an issue with you Tigris, Im just pointing out comments that could possibly get on an Immortal's nerves sometimes. Ive posted some rather stupid/non-constructive posts myself:)
 
-Either way, this isn't and won't become Immortals vs players, it hasn't been in this Sloth and it won't be as long as I am here. I was only backing Breeze's post and attempting to explain why a  few others get frustrated once in awhile. Its not a big deal and quite expected actually. We know you guys appreciate the game, I guess we just wish the thoughts would be expressed a little more nicely:) Lets just drop this talk and move on, it isn't achieving anything...
+Either way, this isn't and won't become Immortals vs players, it hasn't been in this Sloth and it won't be as long as I am here. I was only backing Breeze's post and attempting to explain why a few others get frustrated once in awhile. Its not a big deal and quite expected actually. We know you guys appreciate the game, I guess we just wish the thoughts would be expressed a little more nicely:) Lets just drop this talk and move on, it isn't achieving anything...
 
 Ive already discussed how the situation would be resolved if/when we look into it.
 
@@ -146,15 +146,15 @@ Splork
 
 <div class="post" data-post-id="33080" data-author="blackmore" data-date="2011-12-11T18:08:32+00:00" data-subject="Re: Bonus Caps">
 
-I could contribute some.  Caps are all getting easier to reach, and I don't think there's any that go up with levels, it would be nice to see that.  
+I could contribute some. Caps are all getting easier to reach, and I don't think there's any that go up with levels, it would be nice to see that. 
 
-I cap on dam reduce with no eq at all, that seems sort of  wrong.
+I cap on dam reduce with no eq at all, that seems sort of wrong.
 
 </div>
 
 <div class="post" data-post-id="33081" data-author="cyprimus" data-date="2011-12-11T19:08:39+00:00" data-subject="Re: Bonus Caps">
 
-Never knew about caps till new feature was added, so not much i can do.  Only one i though was particularly low was flail damage, i managed to get 3 gems that where +20 each and the walls of jerico shield, only to find it capped at 50.  There are also more eq items to boost it... think you could hit 120 with it if you gave up a lot.. though  i am happy with 50 too.
+Never knew about caps till new feature was added, so not much i can do. Only one i though was particularly low was flail damage, i managed to get 3 gems that where +20 each and the walls of jerico shield, only to find it capped at 50. There are also more eq items to boost it... think you could hit 120 with it if you gave up a lot.. though i am happy with 50 too.
 
 Still looking at them will post more rambling stuff as it comes to mind.
 
@@ -186,19 +186,19 @@ About Body: Cloak of Specialization = 7 stabdam
 
 Wrists: 2 opal bracelets = 8 stabdam
 
-             or 2 loop of samson's hair = 16 stabdam
+ or 2 loop of samson's hair = 16 stabdam
 
 Wrists rune: 2 White Opal Rune = +10 stabdam
 
-	          2 Opal Runes: 40 circledam
+ 2 Opal Runes: 40 circledam
 
 Weapon rune: Water Opal Rune = 15 stabdam
 
-		  Fire Opal Rune = +20 circledam
+ Fire Opal Rune = +20 circledam
 
 Avatar shop: 10 stabdam/circledam
 
-Total stabdam/circledam in game: **106** stabdam / **118** circle damage
+Total stabdam/circledam in game: <strong>106</strong> stabdam / <strong>118</strong> circle damage
 
 Current caps: 40 / 40
 
@@ -208,19 +208,19 @@ Next, need to consider that drachma eq and quest eq (in red) SHOULD always impro
 
 Avatar shop should also improve my caps.
 
-So what should be minimum caps (drachma/quest/shop) ? **37** stabdam and **23** circledam.
+So what should be minimum caps (drachma/quest/shop) ? <strong>37</strong> stabdam and <strong>23</strong> circledam.
 
-Next, I need to reward people for their hard work (forges): **5** stabdam and **5** circledam.
+Next, I need to reward people for their hard work (forges): <strong>5</strong> stabdam and <strong>5</strong> circledam.
 
-Next, I need to reward people for their hard fork (eq/cycling): **14** stabdam **10** circledam.
+Next, I need to reward people for their hard fork (eq/cycling): <strong>14</strong> stabdam <strong>10</strong> circledam.
 
-Thatâ€™s total of **56** stabdam and **38** circledam.
+Thatâ€™s total of <strong>56</strong> stabdam and <strong>38</strong> circledam.
 
-Runes should add more options and gives u chance to max out. First, I would change all circledam and stabdam runes and nerf them by 50%. That would give total of **22** stabdam and **40** circledam..
+Runes should add more options and gives u chance to max out. First, I would change all circledam and stabdam runes and nerf them by 50%. That would give total of <strong>22</strong> stabdam and <strong>40</strong> circledam..
 
-So **final maxed out cap** would be: (56+22) **78** stabdam and **78** circledam. 
+So <strong>final maxed out cap</strong> would be: (56+22) <strong>78</strong> stabdam and <strong>78</strong> circledam. 
 
-**Make it 80 fox 8x40, 70 for 7x40, 60 for 6x40 â€¦. 10 for 1x40**.
+<strong>Make it 80 fox 8x40, 70 for 7x40, 60 for 6x40 â€¦. 10 for 1x40</strong>.
 
 Just my two cents.
 
@@ -228,14 +228,14 @@ Just my two cents.
 
 <div class="post" data-post-id="33084" data-author="Dragoth" data-date="2011-12-12T04:01:44+00:00" data-subject="Re: Bonus Caps">
 
-> **Cizin wrote:**
-> **Make it 80 fox 8x40, 70 for 7x40, 60 for 6x40 â€¦. 10 for 1x40**.
+> <strong>Cizin wrote:</strong>
+> <strong>Make it 80 fox 8x40, 70 for 7x40, 60 for 6x40 â€¦. 10 for 1x40</strong>.
 > 
 > Just my two cents.
 
 Probably the easiest to implement and most sensible idea. (X)Bonus EQ shouldnt be just another set of EQ, being able to cap it right away, even at 1x40 is taking away alot of gear advancement.
 
-15  cap points given every 40 levels would total 120 at 8x40, multiply by 0.75, 0.5, 0,25 and 0,15 according to position of bonus appropriate class in classo and you are set.
+15 cap points given every 40 levels would total 120 at 8x40, multiply by 0.75, 0.5, 0,25 and 0,15 according to position of bonus appropriate class in classo and you are set.
 
 And an option to buy raised cap for prime class at avatar shop for another 10 points x 5, a total of 150 bonus damage and make some hard to get avatar gear that will allow level 40 avatars to reach those caps.
 

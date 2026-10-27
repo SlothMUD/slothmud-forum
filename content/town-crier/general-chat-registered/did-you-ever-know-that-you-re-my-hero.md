@@ -24,9 +24,9 @@ Bazilus glows with a very faint light!
 
 Bazilus has a steady red aura.
 
-The vampire grand master is here, fighting  YOU!(Brilliant Red Aura)
+The vampire grand master is here, fighting YOU!(Brilliant Red Aura)
 
-<680hp 155ma 33mv>
+\<680hp 155ma 33mv\>
 
 You are brutally massacred by the vampire grand master's crush.
 
@@ -48,15 +48,15 @@ The vampire grand master utters the words, 'xzb'
 
 You are covered in sticky webs!
 
-<155hp 157ma 35mv>
+\<155hp 157ma 35mv\>
 
 You feel a swift breeze!
 
-<157hp 157ma 35mv>
+\<157hp 157ma 35mv\>
 
 You struggle to break free from the webs to no avail.
 
-<157hp 157ma 35mv>
+\<157hp 157ma 35mv\>
 
 You skillfully parry the attack of the vampire grand master.
 
@@ -70,7 +70,7 @@ Lob recites a scroll of recall.
 
 Bazilus disappears.
 
-<1hp 159ma 38mv>
+\<1hp 159ma 38mv\>
 
 Lob recites a scroll of recall.
 

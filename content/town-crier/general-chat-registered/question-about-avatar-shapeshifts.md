@@ -14,7 +14,7 @@ post_count: 5
 
 Avatar 24
 
-Phoenix                fly; cry; phase; breathe fire;  duskfire
+Phoenix fly; cry; phase; breathe fire; duskfire
 
 What is cry and how do I use it?
 
@@ -46,13 +46,13 @@ a dragon's bleed command...but then again, the command for that is just 'bleed'.
 
 <div class="post" data-post-id="8983" data-author="Vixn" data-date="2005-10-10T10:06:20+00:00" data-subject="">
 
-Oh, it's so easy, every cleric knows it. When u creat supplicant u should wait some and suppie tells you what he can do and what he can't. So u'd better shift to phoenix and just wait some :wink:
+Oh, it's so easy, every cleric knows it. When u creat supplicant u should wait some and suppie tells you what he can do and what he can't. So u'd better shift to phoenix and just wait some <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 Enough, there are too many tips in druid's help file. Remove it and make it same with supplication help or those silly druids won't use their brains.
 
-Vixn  
+Vixn 
 
-:?
+<img src="/images/smilies/icon_e_confused.svg" alt=":?" title=":?" width="15" height="15" class="smiley nozoom">
 
 </div>
 

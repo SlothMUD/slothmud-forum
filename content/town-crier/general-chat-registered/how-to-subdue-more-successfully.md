@@ -32,13 +32,13 @@ Have a trigger to automatically squelch and subdue when morted.
 
 Other Methods:
 
---------------
+\--------------
 
 Using mage timing on the double cast round, magic missile the mob for 10 damage and retreat. This is perhaps the most reliable, but most difficult method, because 10 damage will nearly always resort in a mort as 12 damage is needed to kill something from 0hp.
 
 Issues:
 
--------
+\-------
 
 Naked, high level avatars with have about 20 damage, which they can not reduce much. My suggestion would be to sell potions of weakness in shops that set player damage to 0 for 60 seconds or some usable item such as this with a short duration.
 

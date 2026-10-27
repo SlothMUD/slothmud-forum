@@ -28,7 +28,7 @@ acceptable improvements, name, keywords, long/short descriptions
 
 and pay one time clan item registration fee ( XXXmil ? ).
 
-After registration clan leader may buy ( another XXmil :x )
+After registration clan leader may buy ( another XXmil <img src="/images/smilies/icon_mad.svg" alt=":x" title=":x" width="15" height="15" class="smiley nozoom"> )
 
 needed amount of clan items for clan members.
 
@@ -36,7 +36,7 @@ As for restrictions, think, the only restrictions should be clan membership
 
 and levels ( no class restrictions ).
 
-Nothing special, but seems stylish  :P 
+Nothing special, but seems stylish <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom"> 
 
 /falsra
 
@@ -60,11 +60,11 @@ There was a suggestion a while back of having a clan-specific clasp that has no 
 
 <div class="post" data-post-id="14363" data-author="Autolycos" data-date="2006-09-28T14:59:56+00:00" data-subject="">
 
-i think KJ made a few but then i never heard anymore about it.  i was interested in the no-stat clasps just for style points.
+i think KJ made a few but then i never heard anymore about it. i was interested in the no-stat clasps just for style points.
 
-I like this idea  :twisted: 
+I like this idea <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-<worn on body>   Adamantine Cuirass of the Ancients (with a Weasel skull <~PIRATE~> insignia attached to it)
+\<worn on body\> Adamantine Cuirass of the Ancients (with a Weasel skull \<\~PIRATE\~\> insignia attached to it)
 
 </div>
 
@@ -78,7 +78,7 @@ clan (nonstat) claps would be cool... it's been brought up a number of times now
 
 I don't see the Dogs accepting any new members after our next prospect
 
-gets inducted.  I would like to see  ring clasp like a ~[DoW]~ signet ring
+gets inducted. I would like to see ring clasp like a \~[DoW]\~ signet ring
 
 or some shit
 
@@ -86,9 +86,10 @@ or some shit
 
 <div class="post" data-post-id="14372" data-author="brand" data-date="2006-09-28T21:46:05+00:00" data-subject="">
 
-I don't see the Dogs accepting any new members after our next prospect gets inducted.[/quote:2qzoivna]
+> <strong>13 wrote:</strong>
+> I don't see the Dogs accepting any new members after our next prospect gets inducted.
 
-sMAc is free to all. :twisted:
+sMAc is free to all. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 clan clasp with nostats = awesome
 
@@ -96,7 +97,7 @@ clan clasp with nostats = awesome
 
 <div class="post" data-post-id="14398" data-author="Qa" data-date="2006-09-30T23:34:20+00:00" data-subject="">
 
-The Golden Tigers (GT) is also undergoing an era of rebirth.  We would welcome serious long term mudders as candidates.  Contact me, Madmax, Blade, Krya or Farfu if you are interested.
+The Golden Tigers (GT) is also undergoing an era of rebirth. We would welcome serious long term mudders as candidates. Contact me, Madmax, Blade, Krya or Farfu if you are interested.
 
 No stat clan clasps sounds great to me as well.
 

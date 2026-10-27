@@ -26,7 +26,7 @@ so besides thinking I only complain whenever something odd happens to me... I wa
 
 the probability is high (so was I) that this would not happen right? that and the fact that there was no text showing the normal taking of items and cash (they were taken though) leads me to think maybe... he's sorta broke... because checking the gold in the bank I know I am.
 
- :twisted: brand
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> brand
 
 </div>
 
@@ -46,6 +46,6 @@ I blew up my first forge at artisan today, but the second one was successful. (m
 
 Hmm,
 
-Lets take it to that bastard and see if we can't get your money back out of his hide!  I declare shennanigans upon him!
+Lets take it to that bastard and see if we can't get your money back out of his hide! I declare shennanigans upon him!
 
 </div>

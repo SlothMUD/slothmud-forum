@@ -20,6 +20,6 @@ There are few bug, but it seems working
 
 [https://t.me/slothmudauc](https://t.me/slothmudauc)
 
-(image: /[https://priscree.ru/img/64b0a5ded34bb3.jpg](https://priscree.ru/img/64b0a5ded34bb3.jpg))
+![](https://priscree.ru/img/64b0a5ded34bb3.jpg)
 
 </div>

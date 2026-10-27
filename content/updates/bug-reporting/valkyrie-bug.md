@@ -16,36 +16,36 @@ Here is a small sample of what happened..
 
 Group Died, was recalled, Valkrye came in, proc'd twice.
 
-It was the first time that I had 207 hps while DEAD :)
+It was the first time that I had 207 hps while DEAD <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Madmax
 
-<-64hp 55+0ma 212mv> +10 <overcast - 604,734,515 XP - 495,131 coins>
+\<-64hp 55+0ma 212mv\> +10 \<overcast - 604,734,515 XP - 495,131 coins\>
 
 You feel better!
 
-<72hp 55+0ma 212mv> +10 <overcast - 604,734,515 XP - 495,131 coins>
+\<72hp 55+0ma 212mv\> +10 \<overcast - 604,734,515 XP - 495,131 coins\>
 
 You feel better!
 
 You feel yourself floating upward...
 
-<207hp 55+0ma 206mv> +10 <overcast - 604,734,515 XP - 495,131 coins>
+\<207hp 55+0ma 206mv\> +10 \<overcast - 604,734,515 XP - 495,131 coins\>
 
-Lie still; you are DEAD!!! :-(
+Lie still; you are DEAD!!! <img src="/images/smilies/icon_e_sad.svg" alt=":-(" title=":-(" width="15" height="15" class="smiley nozoom">
 
-<207hp 55+0ma 206mv> +10 <overcast - 604,734,515 XP - 495,131 coins>
+\<207hp 55+0ma 206mv\> +10 \<overcast - 604,734,515 XP - 495,131 coins\>
 
 You feel much, much better!
 
-<1hp 55+64ma 206mv> +10 <overcast - 604,734,515 XP - 495,131 coins>
+\<1hp 55+64ma 206mv\> +10 \<overcast - 604,734,515 XP - 495,131 coins\>
 
 </div>
 
 <div class="post" data-post-id="13263" data-author="12345" data-date="2006-07-04T04:37:08+00:00" data-subject="">
 
-Actually, I've had that happen with eudaemon and I think a peri as too.  The sups heal, but they don't update position.  So you have to wait for something to update it for you.... like a raise dead spell.
+Actually, I've had that happen with eudaemon and I think a peri as too. The sups heal, but they don't update position. So you have to wait for something to update it for you.... like a raise dead spell.
 
-I've been stunned, healed to +hps and then had to wait for a knight to hit me so that I could flee before I died again.  I forget some of the other things... but I know this kind of thing has happened to me more than once.  Healing out of death is probably a bit much, but it would be nice if it updated your position if it manages to heal you out of incapacitated and such.
+I've been stunned, healed to +hps and then had to wait for a knight to hit me so that I could flee before I died again. I forget some of the other things... but I know this kind of thing has happened to me more than once. Healing out of death is probably a bit much, but it would be nice if it updated your position if it manages to heal you out of incapacitated and such.
 
 </div>

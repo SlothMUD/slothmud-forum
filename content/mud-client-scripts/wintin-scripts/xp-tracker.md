@@ -12,71 +12,71 @@ post_count: 6
 
 <div class="post" data-post-id="879" data-author="Eagle" data-date="2004-06-29T18:54:04+00:00" data-subject="XP tracker">
 
-lookin for an xp tracker if someone wants to share<BR>rye_bread80@msn.com<BR>thanks
+lookin for an xp tracker if someone wants to share\<BR\>rye\_bread80@msn.com\<BR\>thanks
 
 </div>
 
 <div class="post" data-post-id="880" data-author="Qa" data-date="2004-06-29T19:10:12+00:00" data-subject="">
 
-This is an old-school xp counter.  If you cap, it countas the extra.  If you get healing bonuses or damage bonuses, it doesn't track those.  Oh, and it works with wintin/jmc.  -Qa
+This is an old-school xp counter. If you cap, it countas the extra. If you get healing bonuses or damage bonuses, it doesn't track those. Oh, and it works with wintin/jmc. -Qa
 
-#nop
+\#nop
 
-#nop
+\#nop
 
-#nop  Auto clean subroutine & XP counter
+\#nop Auto clean subroutine \& XP counter
 
-#nop
+\#nop
 
-#var {grxpcount} {0}
+\#var {grxpcount} {0}
 
-#var {xpcount} {0}
+\#var {xpcount} {0}
 
-#nop
+\#nop
 
-#nop  Group XP counter 
+\#nop Group XP counter 
 
-#nop
+\#nop
 
-#action {^Total exp for kill is %1.} {save ; sneak ; #math grxpcount {$grxpcount + $1} } {9}
+\#action {^Total exp for kill is %1.} {save ; sneak ; #math grxpcount {$grxpcount + $1} } {9}
 
-#nop
+\#nop
 
-#nop  XP counter if grouped
+\#nop XP counter if grouped
 
-#nop
+\#nop
 
-#nop  If leading...
+\#nop If leading...
 
-#action {^Total exp for kill is %1.} {save ; sneak ; #math grxpcount {$grxpcount + $1} } {9}
+\#action {^Total exp for kill is %1.} {save ; sneak ; #math grxpcount {$grxpcount + $1} } {9}
 
-#nop
+\#nop
 
-#nop  If a group member...
+\#nop If a group member...
 
-#action {^You receive %1 experience} {save ; sneak ; #math xpcount {$xpcount + $1} } {9}
+\#action {^You receive %1 experience} {save ; sneak ; #math xpcount {$xpcount + $1} } {9}
 
-#nop
+\#nop
 
-#nop  Solo XP counter
+\#nop Solo XP counter
 
-#nop
+\#nop
 
-#nop  Autosac if not grouped...
+\#nop Autosac if not grouped...
 
-#action {^You received %1 experience} {g all corpse; save ; sneak ; #math xpcount {$xpcount + $1} } {2}
+\#action {^You received %1 experience} {g all corpse; save ; sneak ; #math xpcount {$xpcount + $1} } {2}
 
-#nop
+\#nop
 
-#nop
+\#nop
 
-#nop  Data - Shows information regarding the game status
+\#nop Data - Shows information regarding the game status
 
-#nop
+\#nop
 
-#alias {data} {#showme XP since last reset $xpcount ; #if {$grxpcount > 0} #showme Group XP since last reset - $grxpcount}
+\#alias {data} {#showme XP since last reset $xpcount ; #if {$grxpcount \> 0} #showme Group XP since last reset - $grxpcount}
 
-#alias {zeroxp} {#math xpcount 0 ; #math grxpcount 0}
+\#alias {zeroxp} {#math xpcount 0 ; #math grxpcount 0}
 
 </div>
 
@@ -84,11 +84,10 @@ This is an old-school xp counter.  If you cap, it countas the extra.  If you get
 
 This one shows info in 2 buttons, first one with xp I need to level, second one with xp/gold I've got since the last check. Adapt for your needs :)
 
-[code:374y941w]
-
+```
 #KEY F9 {#t+ xp_tracker;score}
 
-#BUTTON 1 {%format("%.n",@xplvl)  (@xpprocent%)} {} {} {} {} {} {} {Size} {109} {16} {Pos} {1} {886} {4} {} {} {}
+#BUTTON 1 {%format("%.n",@xplvl) (@xpprocent%)} {} {} {} {} {} {} {Size} {109} {16} {Pos} {1} {886} {4} {} {} {}
 
 #BUTTON 2 {%format("%.n",@xprun) / %format("%.n",@coinsrun)} {} {} {} {} {} {} {Size} {109} {16} {Pos} {17} {886} {4} {} {} {}
 
@@ -97,8 +96,7 @@ This one shows info in 2 buttons, first one with xp I need to level, second one 
 #TRIGGER {^You have (%d) gold coins.} {#math coinsrun %1-@coinstotal;#var coinstotal %1} {xp_tracker} 548
 
 #VAR tlevel {2100000000}
-
-[/code:374y941w]
+```
 
 </div>
 
@@ -118,10 +116,10 @@ if you have any questions feel free to ask
 
 <div class="post" data-post-id="1571" data-author="Qa" data-date="2004-08-24T19:02:28+00:00" data-subject="">
 
-Please note that the code I posted below does not work with ".NET"  (Whatever the hell that crap is.)
+Please note that the code I posted below does not work with ".NET" (Whatever the hell that crap is.)
 
-Frankly, I switched to jmc several years ago.  At that time this code made the migration from Wintin (1.73) to jmc without modification.  I am currently running jmc 3.0, and the code works as is.
+Frankly, I switched to jmc several years ago. At that time this code made the migration from Wintin (1.73) to jmc without modification. I am currently running jmc 3.0, and the code works as is.
 
--Qa
+\-Qa
 
 </div>

@@ -16,7 +16,7 @@ Hi guys, with all the recent discussion to improve/balance classes and eq, can w
 
 Currently, the stats available for avatar light mainly benefit melee classes (ac/dam/etc). With more players rolling for caster class now, it would be a good idea to have a look at this right now. Looking at the available stats, I can only see the avatar light as a regen gear for caster right now, unless they are going with some hybrid melee damage + spell build. Having that cool avatar light and using it only for regen, in my opinion, is such a big waste.
 
-I suggest adding some caster oriented stats (spell save/heal bonus/spell bonus/UC? :P/some cool procs to replenish a small amount of mana Or hp?/etc). 
+I suggest adding some caster oriented stats (spell save/heal bonus/spell bonus/UC? <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">/some cool procs to replenish a small amount of mana Or hp?/etc). 
 
 We should probably also remove stats like str/dex/int/etc from the light as ppl will generally get them from avatar shop instead of wasting 1 slot on their avatar light. Max stats may be more appropriate.
 
@@ -98,7 +98,7 @@ However if it's only 10 instead of fifteen, then it's also not any sexier than a
 
 This is a valid point.
 
---D
+\--D
 
 </div>
 

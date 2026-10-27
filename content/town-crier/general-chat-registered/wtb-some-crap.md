@@ -28,21 +28,21 @@ catch me on-line (mostly Edd), mudmail me, mail to vixn@pisem.net, icq 33029823 
 
 Vixn
 
-p.s. I'll be very grateful for any donations :)
+p.s. I'll be very grateful for any donations <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="7153" data-author="rith" data-date="2005-06-14T06:50:53+00:00" data-subject="">
 
-if its crap why are you paying so high for it :P
+if its crap why are you paying so high for it <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="7157" data-author="Vixn" data-date="2005-06-14T08:03:55+00:00" data-subject="">
 
-100 k for boots is da best price, isn't it? so rith, is it a deal? :)
+100 k for boots is da best price, isn't it? so rith, is it a deal? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-:roll:
+<img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -54,7 +54,7 @@ Hello, i'm looking for cincture cps: speckled feather and hanful of volcano dust
 
 <div class="post" data-post-id="7884" data-author="Vixn" data-date="2005-07-14T03:53:00+00:00" data-subject="">
 
-I've got speckled feather. We was defeated by Canth and Moukan hated us and looted some of Kleorn's eq. We tried to beat them with Ditheca's undead followers and some generous people but failed again. Then Aleksey and Zam came and killed Canth and all together we killed Moukan (~43mln if I got it right) and returned eq to Kleorn.
+I've got speckled feather. We was defeated by Canth and Moukan hated us and looted some of Kleorn's eq. We tried to beat them with Ditheca's undead followers and some generous people but failed again. Then Aleksey and Zam came and killed Canth and all together we killed Moukan (\~43mln if I got it right) and returned eq to Kleorn.
 
 Thanks all this generous guys for help: Aleksey, Zam, Bird, Brady, Ditheca, Slice, Lob, Auriana, Woody, Jagon, Kleorn and our fearless leader Coltrane. Sorry if I forgot someone, just have to say Thank You for all those who help us.
 
@@ -68,21 +68,21 @@ Hello, it's me again.
 
 I'd like to trade some eq for forge cps.
 
-[b:19cmab18]List of cps I need:[/b:19cmab18]
+<strong>List of cps I need:</strong>
 
-- woolen aasan & silver uchikomi dagger (irda greystone's cps both);
+\- woolen aasan \& silver uchikomi dagger (irda greystone's cps both);
 
-- cracked crystall ball & prisoner charm (yooper's guards cps both)
+\- cracked crystall ball \& prisoner charm (yooper's guards cps both)
 
-[b:19cmab18]Eq I have for trade:[/b:19cmab18]
+<strong>Eq I have for trade:</strong>
 
-- glinting shield of silver;
+\- glinting shield of silver;
 
-- belt of vitality;
+\- belt of vitality;
 
-- sun emblem;
+\- sun emblem;
 
-- 10+ hexagonal tokens.
+\- 10+ hexagonal tokens.
 
 Any offers?
 
@@ -92,7 +92,7 @@ mudmail Edd or catch on-line
 
 <div class="post" data-post-id="8481" data-author="Vixn" data-date="2005-08-30T03:27:46+00:00" data-subject="BH second-hand goods market">
 
-I've also got runed onyx bracelet for trade  :)
+I've also got runed onyx bracelet for trade <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -112,7 +112,7 @@ Strap of Leather-like Flesh
 
 Razor Sharp Shark Tooth
 
-^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^  I'll pay 3 mln for each and any from this list.
+^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ I'll pay 3 mln for each and any from this list.
 
 Chunk of Red Vulcanic Glass
 
@@ -172,7 +172,7 @@ powdered wig
 
 flaming sash
 
-silver/golden bar & tiny chisel
+silver/golden bar \& tiny chisel
 
 Also Iâ€™d like to buy any from this list if youâ€™re gonna sell it.
 
@@ -222,13 +222,16 @@ No, not unless there were a reason they would restore any other item. Same for q
 
 <div class="post" data-post-id="9071" data-author="Lis" data-date="2005-10-18T10:22:01+00:00" data-subject="">
 
-a) 
-
-d) Is it possible to deposit restrung item in the vault? 
-
-I don't believe so.
-
-[/quote:5bzchcgt]
+> <strong>Grue wrote:</strong>
+> a) 
+> 
+> 
+> 
+> d) Is it possible to deposit restrung item in the vault? 
+> 
+> 
+> 
+> I don't believe so.
 
 Yes it is
 
@@ -238,7 +241,7 @@ Yes it is
 
 I was told you can't deposit Restrung items into your vault.
 
-Something on the eq that can't be saved.  Unless this was changed...
+Something on the eq that can't be saved. Unless this was changed...
 
 </div>
 
@@ -252,7 +255,7 @@ A strip of black velvet decked with the obsidian star shakes violently, refusing
 
 <div class="post" data-post-id="9075" data-author="Lis" data-date="2005-10-18T13:41:31+00:00" data-subject="">
 
-Yep. I was wrong, sorry :oops:
+Yep. I was wrong, sorry <img src="/images/smilies/icon_redface.svg" alt=":oops:" title=":oops:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -274,29 +277,32 @@ no time
 
 writer's block
 
-What the?!? :lol:
+What the?!? <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="9077" data-author="Leaf" data-date="2005-10-18T15:05:09+00:00" data-subject="Re: Restring Token in vault (cont)">
 
-Whose vault ?
-
-My vault!
-
-For sale?
-
-Hell yes!!
-
-see chopping block
-
-damn no rhyme
-
-no time
-
-writer's block
-
-What the?!? :lol:[/quote:1gmpekuj]
+> <strong>dt wrote:</strong>
+> Whose vault ?
+> 
+> My vault!
+> 
+> For sale?
+> 
+> Hell yes!!
+> 
+> see chopping block
+> 
+> damn no rhyme
+> 
+> no time
+> 
+> writer's block
+> 
+> 
+> 
+> What the?!? <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 I don't see no vault on block,
 
@@ -308,12 +314,12 @@ When will this vault be on the block?
 
 <div class="post" data-post-id="9078" data-author="dt" data-date="2005-10-18T21:19:48+00:00" data-subject="Vault not for sale..just the restring token inside it..">
 
-ref:prev 4-5 posts about someone wanting to buy restring..hurry..only 5 days left before token goes bye bye :twisted:
+ref:prev 4-5 posts about someone wanting to buy restring..hurry..only 5 days left before token goes bye bye <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="9079" data-author="Weasel" data-date="2005-10-18T22:36:37+00:00" data-subject="">
 
-Although you apparently can't vault restrung eq, you CAN vault the restring token itself if you wish. :)
+Although you apparently can't vault restrung eq, you CAN vault the restring token itself if you wish. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

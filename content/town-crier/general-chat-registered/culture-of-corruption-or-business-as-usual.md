@@ -20,29 +20,29 @@ D.C. Office of the Chief Technology Officer employee Yusuf Acar and Advanced Int
 
 Acar, 40, was taken into custody Thursday morning by FBI agents at his home in Northwest D.C.
 
-[b:2fher0fk]The FBI is now serving a search warrant at the office of D.C.'s Chief Technology Officer, WTOP has learned. [/b:2fher0fk]
+<strong>The FBI is now serving a search warrant at the office of D.C.'s Chief Technology Officer, WTOP has learned.</strong> 
 
-:)
+<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="28468" data-author="Yasik2" data-date="2009-03-12T16:58:00+00:00" data-subject="">
 
-[img:1x9r17x2]http://yasik.kiev.ua/Not_This_Shit_Again_2.jpg[/img:1x9r17x2]
+![](http://yasik.kiev.ua/Not_This_Shit_Again_2.jpg)
 
 </div>
 
 <div class="post" data-post-id="28469" data-author="Poggle" data-date="2009-03-12T16:59:18+00:00" data-subject="">
 
-[<LINK_TEXT text="http://www.guardian.co.uk/world/2009/ma ... rack-obama">http://www.guardian.co.uk/world/2009/mar/11/obama-administration-barack-obama</LINK_TEXT>](http://www.guardian.co.uk/world/2009/mar/11/obama-administration-barack-obama)
+[http://www.guardian.co.uk/world/2009/mar/11/obama-administration-barack-obama](http://www.guardian.co.uk/world/2009/mar/11/obama-administration-barack-obama)
 
 </div>
 
 <div class="post" data-post-id="28565" data-author="Medios" data-date="2009-03-19T20:48:44+00:00" data-subject="">
 
-[<LINK_TEXT text="https://www.activaterewards.com/bankofa ... donus-_-NA">https://www.activaterewards.com/bankofamerica?cm_mmc=EBZ-EnterpriseBrand-_-vanity-_-EB01VN0001_3donus-_-NA</LINK_TEXT>](https://www.activaterewards.com/bankofamerica?cm_mmc=EBZ-EnterpriseBrand-_-vanity-_-EB01VN0001_3donus-_-NA)
+[https://www.activaterewards.com/bankofamerica?cm_mmc=EBZ-EnterpriseBrand-_-vanity-_-EB01VN0001_3donus-_-NA](https://www.activaterewards.com/bankofamerica?cm_mmc=EBZ-EnterpriseBrand-_-vanity-_-EB01VN0001_3donus-_-NA)
 
-Apparently Bank of America is subsidizing 3d tickets for the new Dreamworks film.  Apparently the guy running Dreamworks used to run BoA.  BoA just got 45billion in taxpayer money.  Wtf is going on.
+Apparently Bank of America is subsidizing 3d tickets for the new Dreamworks film. Apparently the guy running Dreamworks used to run BoA. BoA just got 45billion in taxpayer money. Wtf is going on.
 
 </div>
 
@@ -60,7 +60,7 @@ joe,whereve u been!
 
 <div class="post" data-post-id="28573" data-author="Rynquald" data-date="2009-03-20T22:07:02+00:00" data-subject="">
 
-My mum's appendix burst. So I've been in and out of the hospital and rather busy. I've been keeping up with the crier (and voting :) ) when I get the chance though.
+My mum's appendix burst. So I've been in and out of the hospital and rather busy. I've been keeping up with the crier (and voting <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> ) when I get the chance though.
 
 </div>
 

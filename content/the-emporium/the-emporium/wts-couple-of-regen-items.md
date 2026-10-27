@@ -22,7 +22,7 @@ dskin 6mil min
 
 crystal teardrop 10mil min
 
-bid and enjoy :)
+bid and enjoy <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -42,13 +42,13 @@ might be kinda hard to follow bids on this unless you put each item on a separat
 
 <div class="post" data-post-id="366" data-author="Polk" data-date="2004-05-27T08:05:26+00:00" data-subject="">
 
-well, i'll give it a shot, highest bidder will likely be on top of the thread correct? shouldn't be THAT tough i'm hoping, if so i'll repost after a couple of days.. btw i'm closing this on monday sometime... not sure quite when :)
+well, i'll give it a shot, highest bidder will likely be on top of the thread correct? shouldn't be THAT tough i'm hoping, if so i'll repost after a couple of days.. btw i'm closing this on monday sometime... not sure quite when <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="371" data-author="Qa" data-date="2004-05-27T14:01:22+00:00" data-subject="">
 
-Oh, man.  Just the other day I was thinking  'I really need some better regen EQ.'<BR><BR>da yoopers  20mil<BR><BR>1.dskin 6.5mil<BR>2.dskin 6.5mil<BR><BR>-Qa
+Oh, man. Just the other day I was thinking 'I really need some better regen EQ.'\<BR\>\<BR\>da yoopers 20mil\<BR\>\<BR\>1.dskin 6.5mil\<BR\>2.dskin 6.5mil\<BR\>\<BR\>-Qa
 
 </div>
 
@@ -62,13 +62,14 @@ Why do all my posts get screwed up?
 
 6.5 mil 2.dskin
 
--Qa
+\-Qa
 
 </div>
 
 <div class="post" data-post-id="375" data-author="Weasel" data-date="2004-05-27T14:31:07+00:00" data-subject="">
 
-Why do all my posts get screwed up?[/quote:2xz9vgp0]
+> <strong>Qa wrote:</strong>
+> Why do all my posts get screwed up?
 
 I think using 'preview' messes it up and changes not-latin based characters over to ISO character codes.. no idea why.
 
@@ -98,13 +99,13 @@ I must be rich or something...
 
 8.5 mil 2.dskin
 
--Qa
+\-Qa
 
 </div>
 
 <div class="post" data-post-id="381" data-author="Deju" data-date="2004-05-27T17:48:49+00:00" data-subject="">
 
-Stop it! :)
+Stop it! <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 1.dskin: 9mil
 
@@ -114,7 +115,7 @@ Stop it! :)
 
 <div class="post" data-post-id="383" data-author="Polk" data-date="2004-05-27T18:04:49+00:00" data-subject="">
 
-yoopers traded, dskins and drop still up.. peace, Polk :)
+yoopers traded, dskins and drop still up.. peace, Polk <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -132,7 +133,7 @@ If they haven't sold yet...
 
 10.5 mil 2.dskin
 
--Qa
+\-Qa
 
 </div>
 
@@ -166,17 +167,17 @@ werent these supposed to close on monday?
 
 2.dskin 13.5m
 
-27 for both.  Ouchies, I must be filthy rich.
+27 for both. Ouchies, I must be filthy rich.
 
 (Assuming the auction was not closed.)
 
--Qa.
+\-Qa.
 
 </div>
 
 <div class="post" data-post-id="520" data-author="bubba" data-date="2004-06-04T00:03:51+00:00" data-subject="1.dskin 14 mil">
 
-Hmm, not sure how I missed the message about this closing Monday.  I'll understand if the OP wants to close it at that past time.  But 14 mil on 1.dskin otherwise ;-)
+Hmm, not sure how I missed the message about this closing Monday. I'll understand if the OP wants to close it at that past time. But 14 mil on 1.dskin otherwise <img src="/images/smilies/icon_e_wink.svg" alt=";-)" title=";-)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -192,7 +193,7 @@ But seeing as how we don't have one of those.
 
 Yowsa, I hope I didn't want that vault this year.
 
--Qa
+\-Qa
 
 </div>
 
@@ -204,12 +205,12 @@ Yowsa, I hope I didn't want that vault this year.
 
 <div class="post" data-post-id="534" data-author="Polk" data-date="2004-06-04T17:20:52+00:00" data-subject="">
 
-actually guys, you might hate me but i sold the dskins monday to the highest bid, i just didn't close it here, i didn't even know you guys were still bidding until someone told me to look on here to see etc.  Sorry if there's any problems, but i did want to close it monday, AND i've just been lazy and haven't put it on here, sorry for your troubles :) Peace, Polk
+actually guys, you might hate me but i sold the dskins monday to the highest bid, i just didn't close it here, i didn't even know you guys were still bidding until someone told me to look on here to see etc. Sorry if there's any problems, but i did want to close it monday, AND i've just been lazy and haven't put it on here, sorry for your troubles <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> Peace, Polk
 
 </div>
 
 <div class="post" data-post-id="537" data-author="Qa" data-date="2004-06-04T18:15:37+00:00" data-subject="">
 
-Thats cool Polk.  :-)
+Thats cool Polk. <img src="/images/smilies/icon_e_smile.svg" alt=":-)" title=":-)" width="15" height="15" class="smiley nozoom">
 
 </div>

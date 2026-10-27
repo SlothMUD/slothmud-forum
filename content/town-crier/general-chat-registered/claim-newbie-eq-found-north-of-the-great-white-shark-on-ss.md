@@ -18,6 +18,6 @@ Apparently, having escaped the shark, the fearless adventurer was apprehended by
 
 At any rate, I've kept the most necessary eq on a storage char and will mail the name and pwd to the person, who can list some of the unique or all items from the gear.
 
-Write here or mudmail T**a**ron for info.
+Write here or mudmail T<strong>a</strong>ron for info.
 
 </div>

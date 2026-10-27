@@ -16,7 +16,7 @@ Have been geeking out on GUI stuff lately and was excited about making some head
 
 ![](http://i42.tinypic.com/2qnxks9.png)
 
--Nate
+\-Nate
 
 PS Thanks Akaya for continuing to troll our forums and offer help!
 
@@ -42,6 +42,6 @@ Nice!
 
 You can omit the brackets with a backslash in your echo and they shouldn't throw an error. .. if I understood you right.
 
-\[stuff\]
+\\[stuff\\]
 
 </div>

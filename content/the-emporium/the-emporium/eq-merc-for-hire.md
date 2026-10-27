@@ -20,11 +20,11 @@ You tell me the item you need, I cycle it, log the number of runs I did and you 
 
 The pricing is the following:
 
-- 250k per 0.5 run (smaller mobs)
+\- 250k per 0.5 run (smaller mobs)
 
-- 500k per run
+\- 500k per run
 
-- min price: 2mil
+\- min price: 2mil
 
 The run is me starting with -12.5ac, 1300hps, 900ma and pets.
 

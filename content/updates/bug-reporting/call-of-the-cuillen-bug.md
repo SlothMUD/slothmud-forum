@@ -12,7 +12,7 @@ post_count: 2
 
 <div class="post" data-post-id="36089" data-author="Dragoth" data-date="2015-09-10T08:09:27+00:00" data-subject="Call of the Cuillen bug">
 
-<855hp 769ma 334mv>drop all.gem
+\<855hp 769ma 334mv\>drop all.gem
 
 You drop a Salmon Pink Garnet.
 
@@ -24,43 +24,43 @@ You drop a Salmon Pink Garnet.
 
 You drop a Salmon Pink Garnet.
 
-<855hp 772ma 334mv>sing 'call of the cuillen'Salmon Pink Garnet
+\<855hp 772ma 334mv\>sing 'call of the cuillen'Salmon Pink Garnet
 
 You begin to sing 'call of the cuillen'.
 
 Ok.discarded remove curse as its not on the list..
 
-<855hp 665ma 335mv>A cluricaun steps out of the shadows.
+\<855hp 665ma 335mv\>A cluricaun steps out of the shadows.
 
-<855hp 666ma 335mv>A cluricaun takes a mug of spiced rum.
+\<855hp 666ma 335mv\>A cluricaun takes a mug of spiced rum.
 
 A cluricaun chugs a mug of spiced rum!
 
-<855hp 671ma 337mv>You are hungry.
+\<855hp 671ma 337mv\>You are hungry.
 
 You are thirsty.
 
-<855hp 674ma 338mv>save
+\<855hp 674ma 338mv\>save
 
 Saving Crumbs.
 
 Saving items.
 
-<855hp 675ma 338mv><[-161]md>
+\<855hp 675ma 338mv\>\<[-161]md\>
 
 A cluricaun takes the gems and starts weaving his magik all over it.
 
-<855hp 677ma 338mv>cast 'locate object' pail
+\<855hp 677ma 338mv\>cast 'locate object' pail
 
 You stop singing.
 
 No such object.
 
-<855hp 658ma 338mv>Someone has destroyed your sidhe!
+\<855hp 658ma 338mv\>Someone has destroyed your sidhe!
 
 You stop singing.
 
-<855hp 665ma 340mv>inv
+\<855hp 665ma 340mv\>inv
 
 You are carrying:
 
@@ -82,21 +82,21 @@ a set of emerald gauntlets..It glows violet!
 
 Gauntlets of Thunder ()socketed Purple-Star Sapphire Rune()
 
-<855hp 667ma 340mv>l
+\<855hp 667ma 340mv\>l
 
 Before the Icy Gates
 
-   The snowy path leads to two enormous gates made entirely of sparkling 
+ The snowy path leads to two enormous gates made entirely of sparkling 
 
-blue ice.  Two giant ice sculptures of angels stand on either side of the 
+blue ice. Two giant ice sculptures of angels stand on either side of the 
 
-gates.  A large wall stretches to the east and west as far as the eye can 
+gates. A large wall stretches to the east and west as far as the eye can 
 
-see; it is made entirely of snow and glistens in the weak sunlight.  The 
+see; it is made entirely of snow and glistens in the weak sunlight. The 
 
 arctic wind blows steadily, knocking bits of snow off the top of the wall.
 
-Exits: North  East  
+Exits: North East 
 
 A plain leather mug lies forgotten.
 
@@ -122,39 +122,39 @@ A frothy mug of root beer is here attracting flies. [3]
 
 A tiny gnomish-looking fellow staggers along, obviously drunk.
 
-<855hp 671ma 341mv>Someone has destroyed your sidhe!
+\<855hp 671ma 341mv\>Someone has destroyed your sidhe!
 
 You stop singing.
 
-<855hp 672ma 341mv>sca
+\<855hp 672ma 341mv\>sca
 
 You peer intently all around, and see:
 
-                   a cluricaun : right here
+ a cluricaun : right here
 
-                         a dog : a ways to the north
+ a dog : a ways to the north
 
-            an aristocrat lady : a ways to the north
+ an aristocrat lady : a ways to the north
 
-           an icy common woman : a ways to the north
+ an icy common woman : a ways to the north
 
-           an icy peasant girl : a ways to the north
+ an icy peasant girl : a ways to the north
 
-                         a dog : far to the north
+ a dog : far to the north
 
-            an aristocrat lady : far to the north
+ an aristocrat lady : far to the north
 
-           an icy peasant girl : far to the north
+ an icy peasant girl : far to the north
 
-           an icy peasant girl : far to the north
+ an icy peasant girl : far to the north
 
-<855hp 674ma 341mv>inv
+\<855hp 674ma 341mv\>inv
 
 Someone has destroyed your sidhe!
 
 You stop singing.
 
-<855hp 680ma 341mv>You are carrying:
+\<855hp 680ma 341mv\>You are carrying:
 
 a keg of galavan ale..It glows violet!
 
@@ -174,21 +174,21 @@ a set of emerald gauntlets..It glows violet!
 
 Gauntlets of Thunder ()socketed Purple-Star Sapphire Rune()
 
-<855hp 680ma 341mv>l
+\<855hp 680ma 341mv\>l
 
 Before the Icy Gates
 
-   The snowy path leads to two enormous gates made entirely of sparkling 
+ The snowy path leads to two enormous gates made entirely of sparkling 
 
-blue ice.  Two giant ice sculptures of angels stand on either side of the 
+blue ice. Two giant ice sculptures of angels stand on either side of the 
 
-gates.  A large wall stretches to the east and west as far as the eye can 
+gates. A large wall stretches to the east and west as far as the eye can 
 
-see; it is made entirely of snow and glistens in the weak sunlight.  The 
+see; it is made entirely of snow and glistens in the weak sunlight. The 
 
 arctic wind blows steadily, knocking bits of snow off the top of the wall.
 
-Exits: North  East  
+Exits: North East 
 
 A plain leather mug lies forgotten.
 
@@ -214,43 +214,43 @@ A frothy mug of root beer is here attracting flies. [3]
 
 A tiny gnomish-looking fellow staggers along, obviously drunk.
 
-<855hp 683ma 341mv>l sidhe
+\<855hp 683ma 341mv\>l sidhe
 
 You do not see that here.
 
-<855hp 692ma 341mv>l claurican
+\<855hp 692ma 341mv\>l claurican
 
 You do not see that here.
 
-<855hp 695ma 341mv>sca
+\<855hp 695ma 341mv\>sca
 
 You peer intently all around, and see:
 
-                   a cluricaun : right here
+ a cluricaun : right here
 
-                         a dog : a ways to the north
+ a dog : a ways to the north
 
-            an aristocrat lady : a ways to the north
+ an aristocrat lady : a ways to the north
 
-           an icy peasant girl : a ways to the north
+ an icy peasant girl : a ways to the north
 
-                         a dog : far to the north
+ a dog : far to the north
 
-            an aristocrat lady : far to the north
+ an aristocrat lady : far to the north
 
-           an icy peasant girl : far to the north
+ an icy peasant girl : far to the north
 
-<855hp 696ma 341mv>l cluricaun
+\<855hp 696ma 341mv\>l cluricaun
 
-He doesn't have quite the right facial features for a typical gnome.  His red
+He doesn't have quite the right facial features for a typical gnome. His red
 
 nose is bulbous and is so bright that it illuminates the rest of his jolly,
 
-weatherbeaten face.  He emits a cloud of alcoholic fumes that mask anything
+weatherbeaten face. He emits a cloud of alcoholic fumes that mask anything
 
-else you might have been smelling.  His stagger is so violent that every few
+else you might have been smelling. His stagger is so violent that every few
 
-steps he leaves the ground entirely, stumbling up a wall or tree.  Apparently
+steps he leaves the ground entirely, stumbling up a wall or tree. Apparently
 
 he is so drunk he's not interpreting gravity correctly.
 
@@ -260,25 +260,25 @@ You attempt to peek at the inventory:
 
 You can't see anything.
 
-<855hp 698ma 341mv>You are hungry.
+\<855hp 698ma 341mv\>You are hungry.
 
 You are thirsty.
 
-<855hp 700ma 341mv>l
+\<855hp 700ma 341mv\>l
 
 Before the Icy Gates
 
-   The snowy path leads to two enormous gates made entirely of sparkling 
+ The snowy path leads to two enormous gates made entirely of sparkling 
 
-blue ice.  Two giant ice sculptures of angels stand on either side of the 
+blue ice. Two giant ice sculptures of angels stand on either side of the 
 
-gates.  A large wall stretches to the east and west as far as the eye can 
+gates. A large wall stretches to the east and west as far as the eye can 
 
-see; it is made entirely of snow and glistens in the weak sunlight.  The 
+see; it is made entirely of snow and glistens in the weak sunlight. The 
 
 arctic wind blows steadily, knocking bits of snow off the top of the wall.
 
-Exits: North  East  
+Exits: North East 
 
 A plain leather mug lies forgotten.
 
@@ -304,13 +304,13 @@ A frothy mug of root beer is here attracting flies. [3]
 
 A tiny gnomish-looking fellow staggers along, obviously drunk.
 
-<855hp 701ma 341mv>save
+\<855hp 701ma 341mv\>save
 
 Saving Crumbs.
 
 Saving items.
 
-<855hp 701ma 341mv><[26]md>
+\<855hp 701ma 341mv\>\<[26]md\>
 
 I stood there for like 5 ticks along with the sidhe, and it never gave me my rune..
 

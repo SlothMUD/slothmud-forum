@@ -24,7 +24,8 @@ Well if that just doesn't say it all! :p
 
 <div class="post" data-post-id="12286" data-author="Elsie" data-date="2006-04-21T16:35:17+00:00" data-subject="">
 
-Well if that just doesn't say it all! :p[/quote:3bmxbb0e]
+> <strong>jezer wrote:</strong>
+> Well if that just doesn't say it all! :p
 
 obviously not as you felt the need to comment
 

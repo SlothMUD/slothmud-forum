@@ -12,7 +12,7 @@ post_count: 2
 
 <div class="post" data-post-id="24376" data-author="Stryx" data-date="2008-05-17T18:55:26+00:00" data-subject="Insane amount of Insane clowns">
 
-<439hp 109ma 120mv -+ Fraternal Order of Clowns +-+ Vk +- +8 >
+\<439hp 109ma 120mv -+ Fraternal Order of Clowns +-+ Vk +- +8 \>
 
 You hit the ghoul of Rupert McCain very hard.
 
@@ -178,7 +178,7 @@ You wish that your wounds would stop BLEEDING that much!
 
 The ghost of an insane clown attacks your life force!
 
-<91hp 109ma 120mv -+ Fraternal Order of Clowns +-+ Vk +- +8>
+\<91hp 109ma 120mv -+ Fraternal Order of Clowns +-+ Vk +- +8\>
 
 There are actually 15 of them at the time I stopped hitting Rupert, who continued to summon more.
 

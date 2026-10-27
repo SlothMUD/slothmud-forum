@@ -34,7 +34,7 @@ Dear imms, please, confirm that the Song of Ebisu(which is cp for prime bard son
 
 <div class="post" data-post-id="35245" data-author="Hung" data-date="2014-06-14T19:38:47+00:00" data-subject="Re: Who pops song of Ebisu?">
 
-I've wealth & gloried song-ebisu at Crystal Falls and got following result: "'I think [on ground] had one of those!'"
+I've wealth \& gloried song-ebisu at Crystal Falls and got following result: "'I think [on ground] had one of those!'"
 
 What does that mean?
 

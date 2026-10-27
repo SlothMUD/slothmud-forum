@@ -12,7 +12,7 @@ post_count: 7
 
 <div class="post" data-post-id="37982" data-author="*juggleblood*" data-date="2017-01-22T00:33:48+00:00" data-subject="Where to go with coli">
 
-Several of the rebirths seem to be disappointed that there's no coli for them.  My reasons for closing it to them are two-fold, one is that it creates an unfair playing field and we've been working really hard to accomplish that, the other is that I don't want the scores to get a lot higher, because in my opinion too much honor and drachma comes from coli already. Pushing scores up in every level would make it even more important for rank and drachma gear and some people aren't that interested in doing the coliseum.
+Several of the rebirths seem to be disappointed that there's no coli for them. My reasons for closing it to them are two-fold, one is that it creates an unfair playing field and we've been working really hard to accomplish that, the other is that I don't want the scores to get a lot higher, because in my opinion too much honor and drachma comes from coli already. Pushing scores up in every level would make it even more important for rank and drachma gear and some people aren't that interested in doing the coliseum.
 
 So I'm thinking of maybe putting my AH Coliseum into play. I built it a couple years back, it's more or less a clone of the other coliseum but with completely different mobs. It's not fully flushed out yet because I never decided exactly where to go with it. 
 
@@ -30,7 +30,7 @@ Just to address the specific people who were already like 8x40 when the coliseum
 
 (so they never got a shot at the lower chambers their first run-through).
 
-Single-use passes for each chamber (which would I guess be handed out manually, or it could be automated).  You get -one- shot in each chamber, period, (or a very small number of fixed tries, like 3 or 5 or something) and the pass checks for whether you have ever had a score in the score listings before for that chamber, and checks how many tries you have left, I was initially leaning toward having only one try though.
+Single-use passes for each chamber (which would I guess be handed out manually, or it could be automated). You get -one- shot in each chamber, period, (or a very small number of fixed tries, like 3 or 5 or something) and the pass checks for whether you have ever had a score in the score listings before for that chamber, and checks how many tries you have left, I was initially leaning toward having only one try though.
 
 So for the one-use idea, it would just not let you in if you already have a score for that chamber.
 
@@ -38,19 +38,19 @@ You'd have to have a means for checking the existence of a score, or absence.
 
 Just a thought.
 
---D
+\--D
 
 </div>
 
 <div class="post" data-post-id="37984" data-author="*Idjit*" data-date="2017-01-22T05:58:12+00:00" data-subject="Re: Where to go with coli">
 
-Depending how excited you are about the preceding idea, you could tailor the max number of tries and have fewer tries for the lower coliseums (where we are concerned about abuse mostly and where the highest scores would be), and dole out larger # of tries (but still not very many, like 7) for chambers 3x40 and up where a good score for the casual coliseum goer is only 5 to 10 kills anyway against those tougher enemies.  
+Depending how excited you are about the preceding idea, you could tailor the max number of tries and have fewer tries for the lower coliseums (where we are concerned about abuse mostly and where the highest scores would be), and dole out larger # of tries (but still not very many, like 7) for chambers 3x40 and up where a good score for the casual coliseum goer is only 5 to 10 kills anyway against those tougher enemies. 
 
-Zuzu's fairly crunchy, I can't see him getting more than that in the middle chambers while he's still middle-sized.  Can't speak for our beefier rebirthers (should there be any).
+Zuzu's fairly crunchy, I can't see him getting more than that in the middle chambers while he's still middle-sized. Can't speak for our beefier rebirthers (should there be any).
 
 Or keep it very simple and only have one run, as I'd said.
 
---D
+\--D
 
 </div>
 
@@ -64,25 +64,25 @@ However as a programmer, I'm a little worried that a "second coliseum" will just
 
 I'm sure MUDL has some severe limitations, but in an ideal world, there would be only one coliseum, and the coliseum adapts to the player circumstances... ie, level, rebirth status, using loot, not using loot by selecting a config. This would mean new ideas could be implemented rapidly, just by changing or writing a new config or by adding new systems to the config.
 
-CONFIG_NAME=SPECIAL_CONFIG
+CONFIG\_NAME=SPECIAL\_CONFIG
 
-ALLOW_PETS=1
+ALLOW\_PETS=1
 
-ALLOW_USE=1
+ALLOW\_USE=1
 
-ALLOW_QUAFF=1
+ALLOW\_QUAFF=1
 
-ALLOW_REBIRTHS=0
+ALLOW\_REBIRTHS=0
 
-FIGHTING_TIME=8mins
+FIGHTING\_TIME=8mins
 
-HAS_SANCTUARY=1
+HAS\_SANCTUARY=1
 
-USE_RANDOM_MOBS=0
+USE\_RANDOM\_MOBS=0
 
-LOOT_SYSTEM=POTIONS
+LOOT\_SYSTEM=POTIONS
 
-DISTRIBUTION_SYSTEM=INCREASE_LOAD_WITH_KILLS
+DISTRIBUTION\_SYSTEM=INCREASE\_LOAD\_WITH\_KILLS
 
 etc
 
@@ -92,9 +92,9 @@ There is a problem linking the "drachma reward" with the number of kills you hav
 
 I'd suggest two modes... 
 
-1) A tightly controlled mode, which gives the drachma reward as what we have at the moment minus astrology.
+1\) A tightly controlled mode, which gives the drachma reward as what we have at the moment minus astrology.
 
-2) An any thing goes mode, with randomly generated "gladiators" which load loot as kills get higher.
+2\) An any thing goes mode, with randomly generated "gladiators" which load loot as kills get higher.
 
 But my main point is, you don't need two coliseums, you need a strong config based system or else the setup and maintenance and future implementation of ideas will be extremely difficult.
 
@@ -106,7 +106,7 @@ Lastly I offer to help you make it, or work with you to design the config system
 
 <div class="post" data-post-id="37988" data-author="*juggleblood*" data-date="2017-01-22T13:59:34+00:00" data-subject="Re: Where to go with coli">
 
-The main limitation we have to stick by is that there would be no incentive to run thru it / farm it forever. No forever loot of any kind. It has to be a game to be played for it's limited objectives and then ends.  Otherwise it becomes a botting chamber like before.
+The main limitation we have to stick by is that there would be no incentive to run thru it / farm it forever. No forever loot of any kind. It has to be a game to be played for it's limited objectives and then ends. Otherwise it becomes a botting chamber like before.
 
 As to the design of the coli. Each sign object is basically a self-contained coliseum game. So there isn't one coliseum, there are 12 (Newbie, 0-9, and chaos pit). From my perspective it's easier to not touch (break) the existing coliseum, and instead tinker with a new one.
 
@@ -122,11 +122,11 @@ You also need to shift your expectations about the maximum number of kills, beca
 
 Firstly, it takes a huge time investment to:
 
-- polish your scripts
+\- polish your scripts
 
-- get the gear
+\- get the gear
 
-- run the level repeatedly to learn mobs, timings and how to do set switches efficiently.
+\- run the level repeatedly to learn mobs, timings and how to do set switches efficiently.
 
 The difference between a committed character and a newcomer to the coliseum can be 20 kills.
 

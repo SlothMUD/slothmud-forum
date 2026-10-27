@@ -22,7 +22,7 @@ My 02...
 
 <div class="post" data-post-id="30105" data-author="yoshimi" data-date="2009-10-12T00:03:13+00:00" data-subject="">
 
-or drop, i dropped a spellbook by accident the other day  :(
+or drop, i dropped a spellbook by accident the other day <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -30,9 +30,9 @@ or drop, i dropped a spellbook by accident the other day  :(
 
 I'm in 2 minds about this one:
 
-1. selling dropping or giving away stuff you want and need and really dont want to lose is just well to put it bluntly stupid, its hard to code against all forms of stupidy.
+1\. selling dropping or giving away stuff you want and need and really dont want to lose is just well to put it bluntly stupid, its hard to code against all forms of stupidy.
 
-2. we all do stupid things ... I died a few times recently through my own stupidity and found no way to ask for help ... I asked for a change to reinclude the channel drop to mitigate against my stupidity ... this is really no different I guess.
+2\. we all do stupid things ... I died a few times recently through my own stupidity and found no way to ask for help ... I asked for a change to reinclude the channel drop to mitigate against my stupidity ... this is really no different I guess.
 
 If this got included I'd use it and probably at some point benefit from it, but in the list of burning issues I have this barely registers.
 
@@ -44,7 +44,7 @@ T
 
 I can see your point Thraxas, as far as stupidity and other issues go. I wasn't really thinking about stupidity so much as multiple key words and abbreviations. Suppose you had an ancient clay jar for your water vessel and somehow you got one of those nasty green oil filled jars in your inventory and without thinking because you're in a hurry or whatever you type: junk jar. . . Or maybe you were being careful and typed junk or drop something and multiple keywords are at fault.
 
-P thieving was done away with because folks didn't want to risk their hard earned stuff to some irritating thief. While I don't agree with getting rid of it completely, I never considered those folks who got ripped off idiots; lazy maybe but not stupid ;) This is kinda the same thing, don't wanna lose something it took awhile to get.
+P thieving was done away with because folks didn't want to risk their hard earned stuff to some irritating thief. While I don't agree with getting rid of it completely, I never considered those folks who got ripped off idiots; lazy maybe but not stupid <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom"> This is kinda the same thing, don't wanna lose something it took awhile to get.
 
 As for other bigger issues in the mud, I am sure there are some and they need to be addressed. This was just a thought that occurred to me as I was wandering around checking stuff out and seeing what has changed.
 
@@ -94,7 +94,7 @@ T
 
 My opinion...
 
-I like the idea of being helped not to make stupid mistakes. MXP was nice for shops to stop buying the wrong item by accident... but then again when someone enters the room as your clicking it scrolls... unfortunate if your visiting the weaver...  :shock: Had to make sure you weren't autoscrolling at the time for that one. I got into the habit of typing list <item name> but that's slow... maybe giving items a number is the easiest but silly looking suggestion to stop making mistakes.
+I like the idea of being helped not to make stupid mistakes. MXP was nice for shops to stop buying the wrong item by accident... but then again when someone enters the room as your clicking it scrolls... unfortunate if your visiting the weaver... <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> Had to make sure you weren't autoscrolling at the time for that one. I got into the habit of typing list \<item name\> but that's slow... maybe giving items a number is the easiest but silly looking suggestion to stop making mistakes.
 
 As a software developer... I can see to implement this idea it would require a "new field" in the section storing the players items. I groan at such things... new fields equal new widespread crashing opportunities.
 
@@ -114,6 +114,6 @@ There would develop cases where we want this command to do things differently de
 
 If I got given this idea as a developer, I'd add it too my long term improvement list and forget about it. It's a positive idea, but it's to much effort for too little result.
 
-I just bent my pocket knife the other day... wish I had "kept" it beforehand... you see sometimes life is just like this.  :twisted:
+I just bent my pocket knife the other day... wish I had "kept" it beforehand... you see sometimes life is just like this. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

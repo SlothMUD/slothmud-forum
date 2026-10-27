@@ -24,17 +24,18 @@ naked
 
 <div class="post" data-post-id="24374" data-author="Tap" data-date="2008-05-17T17:04:40+00:00" data-subject="">
 
-[img:2443cewf]http://www.freesmileys.org/smileys/laughing014.gif[/img:2443cewf]
+![](http://www.freesmileys.org/smileys/laughing014.gif)
 
 </div>
 
 <div class="post" data-post-id="24375" data-author="Weasel" data-date="2008-05-17T18:03:07+00:00" data-subject="">
 
-[b:2b1iqrgb]Tap[/b:2b1iqrgb] [img:2b1iqrgb]http://www.freesmileys.org/smileys/laughing014.gif[/img:2b1iqrgb][/quote:2b1iqrgb]
+> <strong>Tap wrote:</strong>
+> <strong>Tap</strong> ![](http://www.freesmileys.org/smileys/laughing014.gif)
 
 nice to see that you can laugh at yourself Tap.
 
- :D
+ <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -42,15 +43,16 @@ nice to see that you can laugh at yourself Tap.
 
 Sorry furball..the topic of this thread was tank 4sale not wank 4sale.
 
- 8)
+ <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="24380" data-author="brady" data-date="2008-05-18T00:59:09+00:00" data-subject="">
 
-Sorry furball..the topic of this thread was tank 4sale not wank 4sale.
-
- 8)[/quote:1ub3kl42]
+> <strong>Tap wrote:</strong>
+> Sorry furball..the topic of this thread was tank 4sale not wank 4sale.
+> 
+> <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 I think its sorta both.
 
@@ -58,9 +60,10 @@ I think its sorta both.
 
 <div class="post" data-post-id="24382" data-author="Weasel" data-date="2008-05-18T02:55:08+00:00" data-subject="">
 
-Sorry furball..the topic of this thread was tank 4sale not wank 4sale.
-
- 8)[/quote:3oeee9w1]
+> <strong>Tap wrote:</strong>
+> Sorry furball..the topic of this thread was tank 4sale not wank 4sale.
+> 
+> <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 so you're calling yourself a wanker now? lol
 
@@ -84,7 +87,8 @@ Im guessing it's Sa, since his signature says -sa-
 
 <div class="post" data-post-id="24745" data-author="Weasel" data-date="2008-06-05T17:21:22+00:00" data-subject="">
 
-Im guessing it's Sa, since his signature says -sa-[/quote:20e44lrb]
+> <strong>13 wrote:</strong>
+> Im guessing it's Sa, since his signature says -sa-
 
 naaah. too obvious.
 
@@ -94,7 +98,7 @@ naaah. too obvious.
 
 you're right weasel it's probably polk
 
- :oops:
+ <img src="/images/smilies/icon_redface.svg" alt=":oops:" title=":oops:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

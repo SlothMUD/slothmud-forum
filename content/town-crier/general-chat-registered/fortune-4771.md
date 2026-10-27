@@ -28,11 +28,9 @@ I don't know if this was true at the time of this post - but can't you just read
 
 Or do not all possible affects show up in msdp?
 
- 
+Lv source time pt modify
 
-Lv  source                      time              pt  modify
-
-45  fortune                     35 minutes   +5 HITPOINT
+45 fortune 35 minutes +5 HITPOINT
 
 </div>
 

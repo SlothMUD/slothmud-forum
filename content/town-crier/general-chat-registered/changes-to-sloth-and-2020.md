@@ -12,7 +12,7 @@ post_count: 2
 
 <div class="post" data-post-id="39322" data-author="Gorka" data-date="2019-12-28T14:03:18+00:00" data-subject="Changes to Sloth and 2020!">
 
-> **Gorka wrote:**
+> <strong>Gorka wrote:</strong>
 > The maths behind my claim that rebirth shop probably won't increase solo xp runs is this...
 > 
 > 
@@ -31,7 +31,7 @@ post_count: 2
 > 
 > 
 > 
-> **However this equation doesn't work for groups... because groups will add up all the players extra damage and mobs will die faster. Grouping will be the first change we will notice and it's already the case in the game.**
+> <strong>However this equation doesn't work for groups... because groups will add up all the players extra damage and mobs will die faster. Grouping will be the first change we will notice and it's already the case in the game.</strong>
 
 A number of months back I made the prediction that with all the new power ups implemented over the course of 2019, grouping would be the first change we would notice to the game. As players got more powerful the areas and mobs weren't being adjusted accordingly. This week I was in a group where nearly every single regular xp mob, died within 3 rounds this included mobs such as demogorgon. This particular group started off as 5 or 6 powerful players... we ran a 2.9b xp hour thanks to the xmas bonuses (a personal best). Eventually a lot of other players joined and the xp rate dropped... but I wanted to thank the immortal staff for a fantastically fun 2019 and also nudge the game forward a little for 2020 from my perspective.
 
@@ -47,11 +47,11 @@ I think Neptune solved the chopper shortage of the past with making choppers loa
 
 AGING FORMULA
 
-*Mob aging needs to be speed up. The mud is being wiped of mobs so much quicker with the increase in player power that after you have logged in, and wiped the floor with the mobs on your first run, you have to literally wait 2-3 hours for the mobs to be aged again. Anything you re-do within that next 2-3 hours (which you have no choice but to do really) is worth about 30% less. The aging formula was for S3, the game is moving way faster these days, and aging needs sped up. Currently nearly all solo xp mobs, are continually unaged, and it sucks.
+\*Mob aging needs to be speed up. The mud is being wiped of mobs so much quicker with the increase in player power that after you have logged in, and wiped the floor with the mobs on your first run, you have to literally wait 2-3 hours for the mobs to be aged again. Anything you re-do within that next 2-3 hours (which you have no choice but to do really) is worth about 30% less. The aging formula was for S3, the game is moving way faster these days, and aging needs sped up. Currently nearly all solo xp mobs, are continually unaged, and it sucks.
 
 KILL HISTORY
 
-*You could argue that with it being easier to kill more mobs, that kill history isn't much of a handicap anymore... that's simply not true, it's exactly the same. Take CG for instance, all the moat mobs are the same template name, by the time you kill the last mob in the moat it's worth like half the xp the first one was. The idea was to try and stop players camping areas... but it was, and always will be a dumb solution because the issue is compounded by the fact that most mobs are duplicated throughout the areas by the builder... and that punishment gets passed to the player. Kill history is dumb, and always will be dumb. I also don't think area camping is currently a pressing game issue as it was in the past. I remember in s3 days people fighting over areas on gossip. I'd just get rid of it, or disable it. Keep the bonus on permanent - but that's just me. Stopping the Camping of areas is far better addressed by Age XP/Repop Times or just adding more quality areas.
+\*You could argue that with it being easier to kill more mobs, that kill history isn't much of a handicap anymore... that's simply not true, it's exactly the same. Take CG for instance, all the moat mobs are the same template name, by the time you kill the last mob in the moat it's worth like half the xp the first one was. The idea was to try and stop players camping areas... but it was, and always will be a dumb solution because the issue is compounded by the fact that most mobs are duplicated throughout the areas by the builder... and that punishment gets passed to the player. Kill history is dumb, and always will be dumb. I also don't think area camping is currently a pressing game issue as it was in the past. I remember in s3 days people fighting over areas on gossip. I'd just get rid of it, or disable it. Keep the bonus on permanent - but that's just me. Stopping the Camping of areas is far better addressed by Age XP/Repop Times or just adding more quality areas.
 
 XP CAPS
 
@@ -67,7 +67,7 @@ The only thing I lament at the moment is the fact players in my position are bou
 
 REBIRTH SHOP
 
-I would have quit sloth a year ago if it wasn't for rebirth shop and sticking around to see it happen. Teker did a great job, and the power increases came far more gradually and through hard work than the insane increases that were made to the 3x40 and drachma eq systems for practically free. Having already purchased everything of importance in the rebirth shop, I feel that the eq changes made me far more powerful than rebirth shop did. I can't see any reason not to raise the shop caps a fraction higher, given costs will be exponentially more. I think the 10th ma regen point for example cost over 200b xp. 1ma more per minute, 200b xp?  :shock: 
+I would have quit sloth a year ago if it wasn't for rebirth shop and sticking around to see it happen. Teker did a great job, and the power increases came far more gradually and through hard work than the insane increases that were made to the 3x40 and drachma eq systems for practically free. Having already purchased everything of importance in the rebirth shop, I feel that the eq changes made me far more powerful than rebirth shop did. I can't see any reason not to raise the shop caps a fraction higher, given costs will be exponentially more. I think the 10th ma regen point for example cost over 200b xp. 1ma more per minute, 200b xp? <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
 EPICS / HONOUR
 

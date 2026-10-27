@@ -14,19 +14,19 @@ post_count: 3
 
 Greetings,
 
-********************************************************************************************************
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
-* This thread shall serve to inform the players at large of any changes or updates          *
+\* This thread shall serve to inform the players at large of any changes or updates \*
 
-* made to existing objects or articles of equipment in the future (present). Generally    *
+\* made to existing objects or articles of equipment in the future (present). Generally \*
 
-* speaking, this means any such items that affect the players, the players' abilities       *
+\* speaking, this means any such items that affect the players, the players' abilities \*
 
-* to play the game or otherwise interact with the game. Changes made to items that    *
+\* to play the game or otherwise interact with the game. Changes made to items that \*
 
-* the players do not directly interact with will not likely be mentioned here.                   *
+\* the players do not directly interact with will not likely be mentioned here. \*
 
-********************************************************************************************************
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 The following item has been updated at Sir Faur:
 
@@ -40,7 +40,7 @@ with things like avatar purchases and whatnots. No changes to its price have bee
 
 Enjoy.
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -66,7 +66,7 @@ Young Squire, Castle of the Family DeGrance, Thordfalan
 
 Enjoy.
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -76,20 +76,20 @@ Greetings
 
 The Fangs of the Fire Serpent clasp has been changed to be removable. This was done for a couple reasons:
 
-1. Runes could not be removed via ingame normal procedures because of the inability to remove the clasp
+1\. Runes could not be removed via ingame normal procedures because of the inability to remove the clasp
 
-    to perform such actions. 
+ to perform such actions. 
 
-2. Being the lesser of the two merits between the boots of serpentinous demise and fangs clasp combination
+2\. Being the lesser of the two merits between the boots of serpentinous demise and fangs clasp combination
 
-    when compared to the demonskin boots forge, it was reasonable to allow the removal of the clasp for other
+ when compared to the demonskin boots forge, it was reasonable to allow the removal of the clasp for other
 
-    purposes. 
+ purposes. 
 
 No other changes to the clasp were made. No changes to any other items were made at this time.
 
 Hope that helps, guys.
 
--Neptune
+\-Neptune
 
 </div>

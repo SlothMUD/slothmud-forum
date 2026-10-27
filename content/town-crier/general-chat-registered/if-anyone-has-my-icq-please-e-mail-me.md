@@ -12,17 +12,17 @@ post_count: 4
 
 <div class="post" data-post-id="24948" data-author="PolkAdotS" data-date="2008-06-13T15:34:47+00:00" data-subject="If anyone has my ICQ ## please e-mail me....">
 
-I'll re-phrase that.  If you have my ICQ # and my e-mail address please send me the number.  I know a few people, specifically a couple online currently as of this post, have it.  Please send it to me or send me a private message on this server.  I think the messaging here works.  I've never gotten to use it.  Cya, and Thanks.
+I'll re-phrase that. If you have my ICQ # and my e-mail address please send me the number. I know a few people, specifically a couple online currently as of this post, have it. Please send it to me or send me a private message on this server. I think the messaging here works. I've never gotten to use it. Cya, and Thanks.
 
 John
 
- :arrow:
+ <img src="/images/smilies/icon_arrow.svg" alt=":arrow:" title=":arrow:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="24956" data-author="Gandolf" data-date="2008-06-13T17:31:25+00:00" data-subject="">
 
-Now if we could just get him to forget the webpage url.  :roll:
+Now if we could just get him to forget the webpage url. <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -34,6 +34,6 @@ Agreed
 
 <div class="post" data-post-id="24960" data-author="*juggleblood*" data-date="2008-06-13T20:19:22+00:00" data-subject="">
 
-[img:xeuuziqj]http://img150.imageshack.us/img150/3060/stallowned5wk.jpg[/img:xeuuziqj]
+![](http://img150.imageshack.us/img150/3060/stallowned5wk.jpg)
 
 </div>

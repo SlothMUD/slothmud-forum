@@ -80,35 +80,35 @@ I think maxxed thiefs operate at around 35 dam.
 
 I also believe that a maxxed monk death touching in a major house might also now be doing about as much, or more than, a thieves triple stab when not grouped. (Certainly more than my maxxed triple stab anyway). I always thought that a monks deathtouch was not intended to do more than a thiefs stab. I'm sure I can find that in places on the forum if I looked - as quoted by immortals.
 
-Monks did particularly well in the past year (I wonder why? :twisted: )... as all the hand dam that got added, also adds to their grip and strike. Belrath for example matches Gorka's scores in the coliseum now because handdam adds to all his monk skills, well weapon dam only adds to regular warrior attacks. A max monk and a max warrior seem to compare quite evenly. Clearly these were the favourites of the eq changes - mindue they do represent half the mud these days.
+Monks did particularly well in the past year (I wonder why? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> )... as all the hand dam that got added, also adds to their grip and strike. Belrath for example matches Gorka's scores in the coliseum now because handdam adds to all his monk skills, well weapon dam only adds to regular warrior attacks. A max monk and a max warrior seem to compare quite evenly. Clearly these were the favourites of the eq changes - mindue they do represent half the mud these days.
 
 </div>
 
 <div class="post" data-post-id="39328" data-author="Driven" data-date="2020-01-06T14:07:53+00:00" data-subject="Re: Damage/Knives/Thieves">
 
-Oh, why not, I'll bite.  
+Oh, why not, I'll bite. 
 
-- Driven's max damage at 9x40 rebirth will be 62 (combination of hand damage and damage-damage).  This is without gods of war, because brothers in valor is an absolute requirement for deathtouch not to miss 25%+.  Deaththouch at 62 hand damage will do 1160 damage.  Just for the benefit of Belrath, he is the only player in the game that can run 63 hand damage because he can hit 25 strength.
+\- Driven's max damage at 9x40 rebirth will be 62 (combination of hand damage and damage-damage). This is without gods of war, because brothers in valor is an absolute requirement for deathtouch not to miss 25%+. Deaththouch at 62 hand damage will do 1160 damage. Just for the benefit of Belrath, he is the only player in the game that can run 63 hand damage because he can hit 25 strength.
 
-- Driven has an eqset where I run +23 damage and +30 stab damage wielding a thunderbolt, which grows to +30 damage with gods of war, and when I remove my thunderbolt, I am at +56 hand damage.  In this gearset, my backstab averages 380, and once I remove my bolt, my strike does 300+ damage.  Driven is lacking 2 damage from the rebirth shop.  I have not bought any of the stab damage from either the avatar shop or the rebirth shop.  I addition, the bolt's average damage (2d5+3 averaged ==> 9) is 3 less than the spear (3d7 averaged ==> 12), so I'm effectively 5 damage short of max.  In the end my backstab should peak 500 damage if I pursue that.
+\- Driven has an eqset where I run +23 damage and +30 stab damage wielding a thunderbolt, which grows to +30 damage with gods of war, and when I remove my thunderbolt, I am at +56 hand damage. In this gearset, my backstab averages 380, and once I remove my bolt, my strike does 300+ damage. Driven is lacking 2 damage from the rebirth shop. I have not bought any of the stab damage from either the avatar shop or the rebirth shop. I addition, the bolt's average damage (2d5+3 averaged ==\> 9) is 3 less than the spear (3d7 averaged ==\> 12), so I'm effectively 5 damage short of max. In the end my backstab should peak 500 damage if I pursue that.
 
-- The primary advantage of backstab over deathtouch is not in its damage (though by the end of this post, you will see that for thief primes, it is in its damage as well), but in its lag, or lack thereof.  Deathtouch automatically incurs a full round lag, so I get no special attacks until after a full round of combat.  Strike itself has slightly more than a full round of lag (5 seconds of lag, whereas a round is 4.5 seconds).  So, doing the math, if Driven lands a 2x stab, remove weapon, and strike before the first round of battle (which the game allows), my damage will be 1.3k, which is 150 damage higher than deathtouch.  Now if I land the trip stab, I will be at 1.8k, which is 650 damage higher than deathtouch.
+\- The primary advantage of backstab over deathtouch is not in its damage (though by the end of this post, you will see that for thief primes, it is in its damage as well), but in its lag, or lack thereof. Deathtouch automatically incurs a full round lag, so I get no special attacks until after a full round of combat. Strike itself has slightly more than a full round of lag (5 seconds of lag, whereas a round is 4.5 seconds). So, doing the math, if Driven lands a 2x stab, remove weapon, and strike before the first round of battle (which the game allows), my damage will be 1.3k, which is 150 damage higher than deathtouch. Now if I land the trip stab, I will be at 1.8k, which is 650 damage higher than deathtouch.
 
-- Without poisons, thief prime should be able to cap 600 damage per stab, and so a 2x stab will be higher damage that deathtouch, not to mention the damage procs I put on their weapons, and the possibility for a 3x stab.  With poisons, the damage goes up from there.  On large mobs I believe poison adds over 100 damage per stab, based on conversations I have had with Gnu in the past.  In the end a 2x stab will do about 1.4k damage and a 3x stab will be 2.1k.
+\- Without poisons, thief prime should be able to cap 600 damage per stab, and so a 2x stab will be higher damage that deathtouch, not to mention the damage procs I put on their weapons, and the possibility for a 3x stab. With poisons, the damage goes up from there. On large mobs I believe poison adds over 100 damage per stab, based on conversations I have had with Gnu in the past. In the end a 2x stab will do about 1.4k damage and a 3x stab will be 2.1k.
 
-- Major house adds a lot of damage to deathtouch, but not enough to close the gap.  Last I checked Driven did about 1.5k damage on deathtouch during a major house.  Thieves trip stabbing in groups should be doing 2k+ without houses.  Do thieves not get damage bonuses on stabs during their major houses?
+\- Major house adds a lot of damage to deathtouch, but not enough to close the gap. Last I checked Driven did about 1.5k damage on deathtouch during a major house. Thieves trip stabbing in groups should be doing 2k+ without houses. Do thieves not get damage bonuses on stabs during their major houses?
 
-- Some of my own observations:
+\- Some of my own observations:
 
-* I completely agree with Gorka that weapon damage should add to regular attacks of stab weapons.  Getting a boost of 20 per attack would do more than you think.  I'm not instantly opposed to adding a boost from stab damage, but it needs to be carefully considered.
+\* I completely agree with Gorka that weapon damage should add to regular attacks of stab weapons. Getting a boost of 20 per attack would do more than you think. I'm not instantly opposed to adding a boost from stab damage, but it needs to be carefully considered.
 
-* Drachma prices on damage gear is appropriate, in my opinion.  Damage has more multipliers than hand damage because of 2x and 3x stabs.  Thief primes get 11 or 12 (I'm not sure which) multiplier per damage point, whereas non-primes get 10, so for a 2x stab, a thief prime is getting, on average, 22 to 24 additional damage on a 2x stab, 33 to 36 on a 3x stab, and a non-prime is getting 20 on a 2x stab and 30 on a 3x stab.  Hand damage has a multiplier of 10 on deathgrip and strike, and a multiplier of 15 on deathtouch, so each point of hand damage adds +15 damage to deathtouch.  Elite hand-damage gear costs between 800 to 850 drachma (shield, scriptures, leg plates), whereas elite damage gear costs 1k damage.
+\* Drachma prices on damage gear is appropriate, in my opinion. Damage has more multipliers than hand damage because of 2x and 3x stabs. Thief primes get 11 or 12 (I'm not sure which) multiplier per damage point, whereas non-primes get 10, so for a 2x stab, a thief prime is getting, on average, 22 to 24 additional damage on a 2x stab, 33 to 36 on a 3x stab, and a non-prime is getting 20 on a 2x stab and 30 on a 3x stab. Hand damage has a multiplier of 10 on deathgrip and strike, and a multiplier of 15 on deathtouch, so each point of hand damage adds +15 damage to deathtouch. Elite hand-damage gear costs between 800 to 850 drachma (shield, scriptures, leg plates), whereas elite damage gear costs 1k damage.
 
-* We have yet to see a 9x40 rebirthed thief (go, Bandit, go!) who has been properly geared out and bought all of the appropriate bonuses, so it's tough to draw too many solid conclusions.  It's hard to compare Gorka/Belrath/Driven to any thief in the game because of this.  I know the difference between Driven at 9x40 the first time (without shop bonuses) and 9x40 rebirth now is night and day.  That is a combination of gear, stats, and bonuses from shops.  Rebirth affords the player enough drachma to get the best elite gear in the game, plus the 2nd 8x40 item, and the bonuses from the shops are sick.  
+\* We have yet to see a 9x40 rebirthed thief (go, Bandit, go!) who has been properly geared out and bought all of the appropriate bonuses, so it's tough to draw too many solid conclusions. It's hard to compare Gorka/Belrath/Driven to any thief in the game because of this. I know the difference between Driven at 9x40 the first time (without shop bonuses) and 9x40 rebirth now is night and day. That is a combination of gear, stats, and bonuses from shops. Rebirth affords the player enough drachma to get the best elite gear in the game, plus the 2nd 8x40 item, and the bonuses from the shops are sick. 
 
-* For the love of Sloth, will someone finally actually track the trip stab rates of Gorka versus a thief prime?  I really want to know the actual stats.
+\* For the love of Sloth, will someone finally actually track the trip stab rates of Gorka versus a thief prime? I really want to know the actual stats.
 
-I will hopefully have some time this summer to put together the thief artifact, which I think thieves will really like.  Oh, and last but not last least, let me say this.  I am an immort, obviously, but I have absolutely no access to the code.  All of the above is simply my observations as a mortal, so there is no immort info here at all.
+I will hopefully have some time this summer to put together the thief artifact, which I think thieves will really like. Oh, and last but not last least, let me say this. I am an immort, obviously, but I have absolutely no access to the code. All of the above is simply my observations as a mortal, so there is no immort info here at all.
 
 </div>
 
@@ -132,11 +132,11 @@ Maybe it's more of the perception that this skill triggers so rarely, and when i
 
 <div class="post" data-post-id="39330" data-author="Driven" data-date="2020-01-07T18:50:57+00:00" data-subject="Re: Damage/Knives/Thieves">
 
-Just so we're clear, "Triple stab triggers about 25% of the time.  Of those times it actually hits about 20% of the time", means the following--
+Just so we're clear, "Triple stab triggers about 25% of the time. Of those times it actually hits about 20% of the time", means the following--
 
-- 1 out of every 4 mobs, you get a triple stab
+\- 1 out of every 4 mobs, you get a triple stab
 
-- Of the times that triple stab fires, 1 out of 5 of *those* cases actually trigger excruciating blow, meaning that you're only getting excruciating blow about 1 out of every 20 mobs (1/4 multiplied by 1/5).
+\- Of the times that triple stab fires, 1 out of 5 of \*those\* cases actually trigger excruciating blow, meaning that you're only getting excruciating blow about 1 out of every 20 mobs (1/4 multiplied by 1/5).
 
 Did I read that correctly?
 
@@ -186,7 +186,7 @@ The fact remains that I am triple stabbing, get exec blows, and second winding f
 
 Just to give us an idea of a maxed out thief, I believe the end stats would be this:
 
--8.8 ac, with iron skin
+\-8.8 ac, with iron skin
 
 43 hit, with grace (+3 more with BiV)
 
@@ -206,56 +206,56 @@ Checked on Swordsmanship, and it does not apply any bonus hit roll to piercing w
 
 <div class="post" data-post-id="39335" data-author="Driven" data-date="2020-01-09T17:37:13+00:00" data-subject="Re: Damage/Knives/Thieves">
 
-Thanks for replying, Gorka.  You clearly think things through, and that's quite welcome.  If I think about the game as a whole, I like to think of it in terms of trade-offs, and I believe there are two essential trade-offs when you are playing solo, which I believe apply to all of D&D:
+Thanks for replying, Gorka. You clearly think things through, and that's quite welcome. If I think about the game as a whole, I like to think of it in terms of trade-offs, and I believe there are two essential trade-offs when you are playing solo, which I believe apply to all of D\&D:
 
-- Offense vs. defense
+\- Offense vs. defense
 
-- Burst damage vs. sustained damage
+\- Burst damage vs. sustained damage
 
-By calling them a trade-off, I'm effectively declaring that they *should* be trade-offs.  Game designers can screw these up, as it's perfectly possible to give high offense *and* high defense, but the game designer will have screwed up, because they have violated the entire notion of a trade-off.
+By calling them a trade-off, I'm effectively declaring that they \*should\* be trade-offs. Game designers can screw these up, as it's perfectly possible to give high offense \*and\* high defense, but the game designer will have screwed up, because they have violated the entire notion of a trade-off.
 
-- The more offense you receive, your more your defense should go down.  Conversely, the more defense you receive, the more your offense should go down.  
+\- The more offense you receive, your more your defense should go down. Conversely, the more defense you receive, the more your offense should go down. 
 
-- The more burst you receive, the less sustained your damage should be.   Conversely, the more sustained damage you receive, the more your burst should go down.
+\- The more burst you receive, the less sustained your damage should be. Conversely, the more sustained damage you receive, the more your burst should go down.
 
-There is a third aspect that comes into play, but it is not a trade-off, per-se, because you can't have both ends of the spectrum at the same time, and that's reliability of damage, or risk.  In other words, you can't have both high risk and low risk at the same time... it's a logical contradiction.  In that way, game designers can't really screw risk up in the same way that they can screw up the trade off of offense vs. defense.  It would be irresponsible, though, to create a class that has 100% burst, 100% offense, and 0% risk.  Game designers also have the additional responsibility to make sure classes don't fall into the weird corners of this matrix.  For example, having bursty, low offense would be useless.  
+There is a third aspect that comes into play, but it is not a trade-off, per-se, because you can't have both ends of the spectrum at the same time, and that's reliability of damage, or risk. In other words, you can't have both high risk and low risk at the same time... it's a logical contradiction. In that way, game designers can't really screw risk up in the same way that they can screw up the trade off of offense vs. defense. It would be irresponsible, though, to create a class that has 100% burst, 100% offense, and 0% risk. Game designers also have the additional responsibility to make sure classes don't fall into the weird corners of this matrix. For example, having bursty, low offense would be useless. 
 
-From the perspective of "how true D&D should be" (i.e., not what Sloth actually is), I would place the classes into the following place within the matrix:
+From the perspective of "how true D\&D should be" (i.e., not what Sloth actually is), I would place the classes into the following place within the matrix:
 
-- Warriors are 100% defense, 50% offense, 0% burst, 100% sustained, 0% risk.
+\- Warriors are 100% defense, 50% offense, 0% burst, 100% sustained, 0% risk.
 
-- Monks are 50% defense, 75% offense, 75% burst, 75% sustained, 50% risk.
+\- Monks are 50% defense, 75% offense, 75% burst, 75% sustained, 50% risk.
 
-- Thieves are 25% defense, 100% offense, 100% burst, 25% sustained, 75% risk.
+\- Thieves are 25% defense, 100% offense, 100% burst, 25% sustained, 75% risk.
 
-- Mage are 50% defense, 100% offense, 0% burst, 100% sustained, 25% risk.
+\- Mage are 50% defense, 100% offense, 0% burst, 100% sustained, 25% risk.
 
-Feel free to quibble with the precise values of those numbers, but I believe this to be the general theory behind these classes.  The general portrait I have painted is more important than the individual brush strokes.  I have left out the other 4 classes because they borrow so heavily from these 4 in solo that the lines become almost indistinguishable.  One of the difficulties of Sloth is that the story as I have described it is not as simple as this.  Subclasses, while cool, amazing, and quite necessary, throw a wrench into it.  Subclasses alleviate weaknesses of the prime class.  For example, thief primes often choose mage as a secondary class because the player wants to move the 25% sustained damage closer to something like 75%.  Conversely, thief primes sometimes choose warrior as a secondary class because the player wants to move the 25% defense closer to something like 75%.  The entire point of doing this is to mitigate the risk value of the thief, and it works.  Subclasses are, in fact, are a good thing.  It's what makes thief and warrior playable, for example.  Warriors need to mitigate their 0% burst, so they take on thief or monk styles to get their burst up.  Unfortunately, mages pay a fairly hefty price for their 100% offense and 100% sustained damage in that the game prevents them from mitigating their 0% burst by preventing mirrors from being cast after a grip or stab.  I still feel rather strongly that they need some form of burst.  Again, the exact numbers are not the point, but I'm using them merely to paint the picture.
+Feel free to quibble with the precise values of those numbers, but I believe this to be the general theory behind these classes. The general portrait I have painted is more important than the individual brush strokes. I have left out the other 4 classes because they borrow so heavily from these 4 in solo that the lines become almost indistinguishable. One of the difficulties of Sloth is that the story as I have described it is not as simple as this. Subclasses, while cool, amazing, and quite necessary, throw a wrench into it. Subclasses alleviate weaknesses of the prime class. For example, thief primes often choose mage as a secondary class because the player wants to move the 25% sustained damage closer to something like 75%. Conversely, thief primes sometimes choose warrior as a secondary class because the player wants to move the 25% defense closer to something like 75%. The entire point of doing this is to mitigate the risk value of the thief, and it works. Subclasses are, in fact, are a good thing. It's what makes thief and warrior playable, for example. Warriors need to mitigate their 0% burst, so they take on thief or monk styles to get their burst up. Unfortunately, mages pay a fairly hefty price for their 100% offense and 100% sustained damage in that the game prevents them from mitigating their 0% burst by preventing mirrors from being cast after a grip or stab. I still feel rather strongly that they need some form of burst. Again, the exact numbers are not the point, but I'm using them merely to paint the picture.
 
-Now consider risk in the context of the arena.  Thieves, for example, have such high risk, that bad luck can ruin an arena run real quick.  Monks run into this in spades with wraithtouch and to a lesser extent with deathgrip.  Deathtouch doesn't have this problem nearly as much, which is one of the reasons why monks are rising in the ranks.  The length of an arena run forces risk to be a significant factor.  The more a prime class assumes the risk of a subclass, the more exposed that player is to risk.  For example, Gorka is more exposed to risk in the arena than Driven is, because Gorka relies on backstab, and deathtouch has much lower risk than backstab.  This is why people get upset so much when warriors appear to land stabs at such high rates, because it appears that somehow a warrior has received the benefit of the thief's burst while somehow, mysteriously, they didn't assume the risk that should have come with it.  All of this translates directly to the arena.
+Now consider risk in the context of the arena. Thieves, for example, have such high risk, that bad luck can ruin an arena run real quick. Monks run into this in spades with wraithtouch and to a lesser extent with deathgrip. Deathtouch doesn't have this problem nearly as much, which is one of the reasons why monks are rising in the ranks. The length of an arena run forces risk to be a significant factor. The more a prime class assumes the risk of a subclass, the more exposed that player is to risk. For example, Gorka is more exposed to risk in the arena than Driven is, because Gorka relies on backstab, and deathtouch has much lower risk than backstab. This is why people get upset so much when warriors appear to land stabs at such high rates, because it appears that somehow a warrior has received the benefit of the thief's burst while somehow, mysteriously, they didn't assume the risk that should have come with it. All of this translates directly to the arena.
 
-The arena is such an odd beast.  At the lower ranks, sustained damage is rewarded, because a thief or monk's damage output from backstab/grip at those levels don't put a big enough dent in the mobs to matter as much as spellsaves and spelldamage.  At the upper ranks, the burst damage matters a lot more, because they make a much bigger dent in the mob.  This is less a function of the scalability of the classes themselves, but rather the hitpoints of the mobs at the upper levels.  It would be incorrect to draw the conclusion that mages, for example, need to be beefed up simply because they can't do the burst damage that a monk or thief can.  The mage was never intended to be bursty and so if you are measuring the ability to burst, then yea, the mage isn't going to win.  You don't change the pitch of your floor just because your level is broken.  Mage's strengths are in their high damage output that is sustained, not their burst damage.  The problem with the higher levels of arena is that they are far too skewed to rewarding burst damage, and by doing so, people suddenly start drawing incorrect conclusions about the *actual value* of burst damage. 
+The arena is such an odd beast. At the lower ranks, sustained damage is rewarded, because a thief or monk's damage output from backstab/grip at those levels don't put a big enough dent in the mobs to matter as much as spellsaves and spelldamage. At the upper ranks, the burst damage matters a lot more, because they make a much bigger dent in the mob. This is less a function of the scalability of the classes themselves, but rather the hitpoints of the mobs at the upper levels. It would be incorrect to draw the conclusion that mages, for example, need to be beefed up simply because they can't do the burst damage that a monk or thief can. The mage was never intended to be bursty and so if you are measuring the ability to burst, then yea, the mage isn't going to win. You don't change the pitch of your floor just because your level is broken. Mage's strengths are in their high damage output that is sustained, not their burst damage. The problem with the higher levels of arena is that they are far too skewed to rewarding burst damage, and by doing so, people suddenly start drawing incorrect conclusions about the \*actual value\* of burst damage. 
 
-I used to watch Surfnazi solo 30mil mobs in the desert with relative ease, using mirrors and massive amounts of damage, and he wasn't even a rebirth.  Driven had very little hope of doing that until 9x40 rebirth where my overall power curve exceeded Surfnazi's.  I simply can't do as much damage as a mage over the same period of time, and that's ok.  I simply can't stand toe-to-toe with 50M mobs like Gorka can, and that's ok.  Can a monk burst more reliably that a warrior?  Yes, and that's ok.  Does this mean that monks are the new cocaine?  It depends entirely on what kind of mobs you want to kill.  If you filled the arena with 50 mil mobs such that warriors were the only ones who could survive the fight to begin with, would warriors and druids become the new cocaine?  No, the arena would be broken, because it would be too skewed towards rewarding the strength of those classes over the other classes.  To make the arena properly balanced, you need the proper mix of mobs that play to the strengths of each class.  Monks are rising to the top because the mobs die after a deathtouch and 1 round of fighting and their reliability is higher.  If you increase the hitpoints on most of the mobs to extend beyond the burst, particularly the ether mobs, I think we'll see a very different mix in the leaderboards, like we do at the lower levels.
+I used to watch Surfnazi solo 30mil mobs in the desert with relative ease, using mirrors and massive amounts of damage, and he wasn't even a rebirth. Driven had very little hope of doing that until 9x40 rebirth where my overall power curve exceeded Surfnazi's. I simply can't do as much damage as a mage over the same period of time, and that's ok. I simply can't stand toe-to-toe with 50M mobs like Gorka can, and that's ok. Can a monk burst more reliably that a warrior? Yes, and that's ok. Does this mean that monks are the new cocaine? It depends entirely on what kind of mobs you want to kill. If you filled the arena with 50 mil mobs such that warriors were the only ones who could survive the fight to begin with, would warriors and druids become the new cocaine? No, the arena would be broken, because it would be too skewed towards rewarding the strength of those classes over the other classes. To make the arena properly balanced, you need the proper mix of mobs that play to the strengths of each class. Monks are rising to the top because the mobs die after a deathtouch and 1 round of fighting and their reliability is higher. If you increase the hitpoints on most of the mobs to extend beyond the burst, particularly the ether mobs, I think we'll see a very different mix in the leaderboards, like we do at the lower levels.
 
 </div>
 
 <div class="post" data-post-id="39336" data-author="Gorka" data-date="2020-01-09T20:11:42+00:00" data-subject="Re: Damage/Knives/Thieves">
 
-> **Driven wrote:**
-> - Warriors are 100% defense, 50% offense, 0% burst, 100% sustained, 0% risk.
+> <strong>Driven wrote:</strong>
+> \- Warriors are 100% defense, 50% offense, 0% burst, 100% sustained, 0% risk.
 > 
-> - Monks are 50% defense, 75% offense, 75% burst, 75% sustained, 50% risk.
+> \- Monks are 50% defense, 75% offense, 75% burst, 75% sustained, 50% risk.
 > 
-> - Thieves are 25% defense, 100% offense, 100% burst, 25% sustained, 75% risk.
+> \- Thieves are 25% defense, 100% offense, 100% burst, 25% sustained, 75% risk.
 > 
-> - Mage are 50% defense, 100% offense, 0% burst, 100% sustained, 25% risk.
+> \- Mage are 50% defense, 100% offense, 0% burst, 100% sustained, 25% risk.
 
 You probably knew you were making a mistake putting values to the attributes... and rightly so... because it's exposed your thinking... That goes right to the heart of the issue for me... it shows that in your mind not all classes are equal as the values you've assigned clearly favor the monk class of which you came back to play. The thoughts about the other classes seem to be only "after thoughts." This is just one example, but a good observation of the eq changes since EU and since your return clearly show favoritism, and there is no doubt you've made an effort with the other classes as well, and as a warrior I don't have much to complain about... but clearly all the eq changes came about because you wanted a raging monk. You designed everything you needed to get it, that's why your called "Driven" and then you set about doing it. You made a very half-hearted attempt with most of the other classes... warriors you obviously thought about a lot more, and you consulted with me and I thank you for that, and with others... but lets face it this is partially why Ezekiel got so upset, and sphairai and gauntlets were made as "after thoughts" out of that situation. Thieves literally got +1 damage, and a proc weapon which all the other classes already had. Now everyone is biased, no one is perfect, but the best thing you could do, is acknowledge that you need to spend a bit more time in thought regarding the other classes and bringing them up to a similar standard. 
 
 Monks are now the same as warriors or even more powerful... as warriors have to use there other classes, triple stabbing, and maxed firewinds to even compete with a monk just using prime skills. You got what you wanted, now spare a thought for the thieves, necros, bards, clerics and druids. Put monks and warriors to one side for a sec as they are somewhat balanced, certainly not even, but not as much as the other classes, lets raise the other classes to the same standard. Why can't mages and warriors burst, don't warriors have a skill called berserk... does that not sound like some form of bursting... the fact mage spells do more damage (apart from openers) than anything in the game, does that not sound like bursting?
 
-I follow your thoughts about D&D and how things need to trade off, but clearly when you add up your thoughts the monk class is always rated higher in your mind, and you don't seem to understand how plain it is for others to see that. In my mind all those attributes should be different for each class, but add up to the same value. It's called balance.
+I follow your thoughts about D\&D and how things need to trade off, but clearly when you add up your thoughts the monk class is always rated higher in your mind, and you don't seem to understand how plain it is for others to see that. In my mind all those attributes should be different for each class, but add up to the same value. It's called balance.
 
 Is it not possible to make 9x40 rebirth test chars and equip them to the max in class gear and run some tests. I'd help you with that, we would need to try a few things like, stab mobs, chop mobs, small mobs, big mobs, xp per hour, coliseum etc, and then properly adjust eq or game attributes to restore more balance to classes. You've definitely made an effort with monk and warrior, monk was probably a bit overdone because of the modifiers... we should do the same with the other classes.
 
@@ -263,15 +263,15 @@ Is it not possible to make 9x40 rebirth test chars and equip them to the max in 
 
 <div class="post" data-post-id="39337" data-author="Driven" data-date="2020-01-09T20:41:48+00:00" data-subject="Re: Damage/Knives/Thieves">
 
-I have added +4 hand dam to the game.  Legs, held low, head, and body.  I have added 2 damage for thieves, 1 in dagger, 1 in belt.  2:1 ratio between hand dam and dam is well established ratio well before I ever came along.  I had very little if nothing to do with the EU changes or the rebirth shop.  What is this nonsense you have cooked up in your mind about me?
+I have added +4 hand dam to the game. Legs, held low, head, and body. I have added 2 damage for thieves, 1 in dagger, 1 in belt. 2:1 ratio between hand dam and dam is well established ratio well before I ever came along. I had very little if nothing to do with the EU changes or the rebirth shop. What is this nonsense you have cooked up in your mind about me?
 
 </div>
 
 <div class="post" data-post-id="39338" data-author="Driven" data-date="2020-01-09T21:44:15+00:00" data-subject="Re: Damage/Knives/Thieves">
 
-Oh, and for the record, I *do not* think the classes are properly balanced.  I just don't think the arena, as it stands today, is the proper ruler to measure that by.  My bigger problem is that I don't really know how to balance all of the classes with just eq.  How do you make a cleric prime as powerful as a thief, monk, or mage?  I struggle with that, because the class itself is built around healing, not offense.  You will never make a cleric a better backstabber, gripper, or blaster than a thief, monk, or mage, which are the raw materials to battle.  Because the game allows for retreating/fleeing out of battle, healing can quickly be relegated to that thing you do when you aren't in battle, if you so choose to do.  
+Oh, and for the record, I \*do not\* think the classes are properly balanced. I just don't think the arena, as it stands today, is the proper ruler to measure that by. My bigger problem is that I don't really know how to balance all of the classes with just eq. How do you make a cleric prime as powerful as a thief, monk, or mage? I struggle with that, because the class itself is built around healing, not offense. You will never make a cleric a better backstabber, gripper, or blaster than a thief, monk, or mage, which are the raw materials to battle. Because the game allows for retreating/fleeing out of battle, healing can quickly be relegated to that thing you do when you aren't in battle, if you so choose to do. 
 
-Thieves may need a bump, I have already stated that, so we'll have to wait and see when we get a fair comparison.  I also have my eye on mages, to see how a 9x40 rebirth does.  Bards and necros are insanely powerful in ways that the arena cannot display, and druids are bonkers powerful.  Really in my mind the targets are thief, cleric, and mage, and I'm open to suggestions.
+Thieves may need a bump, I have already stated that, so we'll have to wait and see when we get a fair comparison. I also have my eye on mages, to see how a 9x40 rebirth does. Bards and necros are insanely powerful in ways that the arena cannot display, and druids are bonkers powerful. Really in my mind the targets are thief, cleric, and mage, and I'm open to suggestions.
 
 </div>
 
@@ -299,39 +299,39 @@ Just trying to think of things that a thief could get in avatar levels that sepa
 
 <div class="post" data-post-id="39341" data-author="Driven" data-date="2020-01-10T01:31:33+00:00" data-subject="Re: Damage/Knives/Thieves">
 
-Your order of events are wrong.  By the time I updated the 3x40 gear (where I added 2 damage points for thief primes and 2 hand damage for monk primes), no EU gear existed yet that added to the elite endgame.  The monk prime shoulder guards were redundant with the drachma guards, so that added no additional hand damage to the game.  So after I added the 3x40 gear, thieves were given comparatively more damage than monks (1:1 ratio instead of 2:1).  When I added the drachma gear, I then added +2 more hand damage for monks, but you forget what I also added.
+Your order of events are wrong. By the time I updated the 3x40 gear (where I added 2 damage points for thief primes and 2 hand damage for monk primes), no EU gear existed yet that added to the elite endgame. The monk prime shoulder guards were redundant with the drachma guards, so that added no additional hand damage to the game. So after I added the 3x40 gear, thieves were given comparatively more damage than monks (1:1 ratio instead of 2:1). When I added the drachma gear, I then added +2 more hand damage for monks, but you forget what I also added.
 
-- +10 stab damage on the titanium lock pick
+\- +10 stab damage on the titanium lock pick
 
-- +8 stab damage on the midnight armor of crisscrossed knives
+\- +8 stab damage on the midnight armor of crisscrossed knives
 
-- +10 stab damage on 2x interwoven rings of shadow and pain
+\- +10 stab damage on 2x interwoven rings of shadow and pain
 
-- +5 bonus stab damage on the 8x40 dagger
+\- +5 bonus stab damage on the 8x40 dagger
 
-That's +33 stab damage, which is equivalent to 3 damage points on a stab.  If a thief really can't take advantage of the +28 stab damage (the part that is non-bonus) because of caps, then we need to look at converting some of that stab damage to bonus stab damage, because providing EQ that in all practicality can't be used is meaningless.  Either that or just raise the caps on stab bonus.  For those of us who have chosen thief deep within the classorder, I have little pity on our low caps and our inherent inability to take advantage of these bonuses.  Having spent some time thinking further about this, I think that stab damage should receive the reverse multiplier when being applied to regular attacks on stabbers (divided by 10), so a stab bonus of 135 will add +13 damage per attack.  
+That's +33 stab damage, which is equivalent to 3 damage points on a stab. If a thief really can't take advantage of the +28 stab damage (the part that is non-bonus) because of caps, then we need to look at converting some of that stab damage to bonus stab damage, because providing EQ that in all practicality can't be used is meaningless. Either that or just raise the caps on stab bonus. For those of us who have chosen thief deep within the classorder, I have little pity on our low caps and our inherent inability to take advantage of these bonuses. Having spent some time thinking further about this, I think that stab damage should receive the reverse multiplier when being applied to regular attacks on stabbers (divided by 10), so a stab bonus of 135 will add +13 damage per attack. 
 
-Drachma eq updates were added in January of 2019, and the EU expansion went in February of 2019.  It's hard to believe that was less than a year ago.  
+Drachma eq updates were added in January of 2019, and the EU expansion went in February of 2019. It's hard to believe that was less than a year ago. 
 
-+2 (total) from trapped souls
+\+2 (total) from trapped souls
 
-+2 from seal of asmodeus
+\+2 from seal of asmodeus
 
-Shoulder guards in EU were redundant with drachma eq.  Seal needs to be fixed so that only one can be worn.  I can probably do that with MUDL if Teker doesn't have time to fix it.  Driven is only using one despite the fact that I know I can wear two, because I know Neptune's intent was to only have one worn.  So by the time it was all said and done, before the rebirth shop went in, monks got 8 hand damage and thieves got 2 hand damage and 33 stab damage, which is roughly 5 damage for a stab, but, as we're pointing out, is only 2 damage on actual attacks, whereas monks got 8 damage on regular attacks.  I do think this is the crux of the matter.
+Shoulder guards in EU were redundant with drachma eq. Seal needs to be fixed so that only one can be worn. I can probably do that with MUDL if Teker doesn't have time to fix it. Driven is only using one despite the fact that I know I can wear two, because I know Neptune's intent was to only have one worn. So by the time it was all said and done, before the rebirth shop went in, monks got 8 hand damage and thieves got 2 hand damage and 33 stab damage, which is roughly 5 damage for a stab, but, as we're pointing out, is only 2 damage on actual attacks, whereas monks got 8 damage on regular attacks. I do think this is the crux of the matter.
 
-The rest of the damage came from the rebirth shop.  Monks got +9 damage (3 regular, 6 hand), whereas thieves got +3 damage and +60 bonus stab damage.  This means that thieves got 93-to-96 damage adder *per stab*, which comes out to 186-192 on 2x stab.  Monks got 9*15 (135 damage) on deathtouch.  Monks got 9 damage added per attack, whereas thieves only got 3 damage added per attack.  Again, I think this is the crux of the matter.
+The rest of the damage came from the rebirth shop. Monks got +9 damage (3 regular, 6 hand), whereas thieves got +3 damage and +60 bonus stab damage. This means that thieves got 93-to-96 damage adder \*per stab\*, which comes out to 186-192 on 2x stab. Monks got 9\*15 (135 damage) on deathtouch. Monks got 9 damage added per attack, whereas thieves only got 3 damage added per attack. Again, I think this is the crux of the matter.
 
-As for the rest of your message, I will say this.  Sling enough crap and people might start mistaking you for an orangutan.  But to settle your mind, since you can't seem to let things rest...
+As for the rest of your message, I will say this. Sling enough crap and people might start mistaking you for an orangutan. But to settle your mind, since you can't seem to let things rest...
 
-- Necrop was made in Sloth 2, not sloth 3.  In terms of mob make-up, it's no different than CK.  Pretty much every mob was a clone of other mobs in the game, with a few updates to make them unique and different. The primary difference from necropolis and the rest of the mud, though, is that I actually went through the effort to make unique mob names and descriptions, which took me forever.  You won't find a single mob duplicated in the entire area.  What this means is that you will never experience kill history there within a given run, and so your xp will be a lot higher.  You're welcome.  I think the fault is not mine, but the builders who do not spend the time to make their area truly unique--I greatly applaud Idjit for his Raku area, as it's one of the most unique areas in the entire mud.  
+\- Necrop was made in Sloth 2, not sloth 3. In terms of mob make-up, it's no different than CK. Pretty much every mob was a clone of other mobs in the game, with a few updates to make them unique and different. The primary difference from necropolis and the rest of the mud, though, is that I actually went through the effort to make unique mob names and descriptions, which took me forever. You won't find a single mob duplicated in the entire area. What this means is that you will never experience kill history there within a given run, and so your xp will be a lot higher. You're welcome. I think the fault is not mine, but the builders who do not spend the time to make their area truly unique--I greatly applaud Idjit for his Raku area, as it's one of the most unique areas in the entire mud. 
 
-- The sub palace mob, Azzenon, which you are so fond of referencing, was never intended to be solo'ed, and afaik this stayed true for all of Sloth 2 when the area was built.  Flight and Annie managed to 2-man him, but that was it, and I was pretty irritated with them at the time.  I have since learned that people will find ways of soloing mobs if it suits them, and there's very little way to prevent it.  I am perfectly content to lower his coins if it bothers you this much.
+\- The sub palace mob, Azzenon, which you are so fond of referencing, was never intended to be solo'ed, and afaik this stayed true for all of Sloth 2 when the area was built. Flight and Annie managed to 2-man him, but that was it, and I was pretty irritated with them at the time. I have since learned that people will find ways of soloing mobs if it suits them, and there's very little way to prevent it. I am perfectly content to lower his coins if it bothers you this much.
 
-- The balance issues with proc weapons is something that took time to learn, obviously, and you were tremendously helpful in ironing those out.  You act like I went into it intending to create this absurd disbalance, though.  Rather, it was simple ignorance of the issues at play.  Ignorance strikes us all at times.  I think that the Sphairai has in fact made life for mages tremendously better in groups, especially 20 minutes into a run and they no longer have any mana.  They no longer feel like newbs tagging along for the ride, but productive members of the offense in which their gear actually matters.  This was an important step forward in a mage's life which you have never acknowledged.  As I said, ignorance strikes us all at times.
+\- The balance issues with proc weapons is something that took time to learn, obviously, and you were tremendously helpful in ironing those out. You act like I went into it intending to create this absurd disbalance, though. Rather, it was simple ignorance of the issues at play. Ignorance strikes us all at times. I think that the Sphairai has in fact made life for mages tremendously better in groups, especially 20 minutes into a run and they no longer have any mana. They no longer feel like newbs tagging along for the ride, but productive members of the offense in which their gear actually matters. This was an important step forward in a mage's life which you have never acknowledged. As I said, ignorance strikes us all at times.
 
-- I realize you still question the mage artifact, but I think you have missed the point of the item altogether.  The item is constructed such that it has very little impact on solo of xp mobs under 10mil xp.  In other words, in terms of changing the amount of xp someone solos per hour, it fails to move the needle outside of the item's actual stats.  The item shines in groups and on epics, in particular, as that is how I designed it.  Again, the entire point here is to give mages something that really helps them feel awesome in groups, as sitting back and watching monks, warriors, and thieves pump out damage from melee attacks 20 minutes into a 60-minute run is beyond lame.  You like to take the 5k damage # and divide it by the casts it took to get there, and then adding that damage to the average damage per cast to highlight the disbalance.  That comparison only makes sense if the disbalance translates to solo xp, which it does not.  You've missed the point entirely.
+\- I realize you still question the mage artifact, but I think you have missed the point of the item altogether. The item is constructed such that it has very little impact on solo of xp mobs under 10mil xp. In other words, in terms of changing the amount of xp someone solos per hour, it fails to move the needle outside of the item's actual stats. The item shines in groups and on epics, in particular, as that is how I designed it. Again, the entire point here is to give mages something that really helps them feel awesome in groups, as sitting back and watching monks, warriors, and thieves pump out damage from melee attacks 20 minutes into a 60-minute run is beyond lame. You like to take the 5k damage # and divide it by the casts it took to get there, and then adding that damage to the average damage per cast to highlight the disbalance. That comparison only makes sense if the disbalance translates to solo xp, which it does not. You've missed the point entirely.
 
-- KVP procs for forges are easy to typo as you're copying and pasting hundreds and hundreds of lines of code to the mud.  All it takes is failing to highlight a single character in your item #, or accidentally hitting backspace when you don't realize it.  This happens when your client only allows the pasting of a certain amount of text, and so you have to stitch in multiple pastes to get all of the KVP proc in there.  When I originally set up Tylvaen, I had her forge correct, and so I made the boots within the first week.  As I made updates to other items, her forge for the boots got horked up one way or another and I had to fix it when you went in to forge.  
+\- KVP procs for forges are easy to typo as you're copying and pasting hundreds and hundreds of lines of code to the mud. All it takes is failing to highlight a single character in your item #, or accidentally hitting backspace when you don't realize it. This happens when your client only allows the pasting of a certain amount of text, and so you have to stitch in multiple pastes to get all of the KVP proc in there. When I originally set up Tylvaen, I had her forge correct, and so I made the boots within the first week. As I made updates to other items, her forge for the boots got horked up one way or another and I had to fix it when you went in to forge. 
 
 Happy mudding, I have work to do.
 
@@ -361,7 +361,7 @@ Rebirth Shop + 6 HD
 
 Rebirth Shop + 3 DAM
 
-Ability for 25 MAX_STR +1 DAM (?)
+Ability for 25 MAX\_STR +1 DAM (?)
 
 Perm Counterattack Clasp
 
@@ -401,7 +401,7 @@ Hello!
 
 Since ppl seem to talk about me and my coli score I felt like puttin my 2 cents in, even I dont like to write on forums, since my english sucks and I get misunderstood etc blaablaa, but lets see...
 
-Indeed I am one of the strongest monks out there and I do things differently than any other monk. Only deathtouch/grip + strike. I dont blast, ever. That said when I mached Gorka in coli scores I used prediction, flurry, haste,gods  etc... but trying to do the max score I also died several times. How many times have you in coli, Gorka?
+Indeed I am one of the strongest monks out there and I do things differently than any other monk. Only deathtouch/grip + strike. I dont blast, ever. That said when I mached Gorka in coli scores I used prediction, flurry, haste,gods etc... but trying to do the max score I also died several times. How many times have you in coli, Gorka?
 
 That supports the high risk-dam thing Driven posted earlier. Oh, and also when I do coli, I do it with major house, witch gives (according to Josiah) +10 dam. 
 
@@ -409,7 +409,7 @@ Not quite sure what I'm trying to say here. Perhaps that I dont feel like power 
 
 I'm just trying to have fun in the game and help ppl to have fun. Real life is so stupidly painful atleast for me. Love you all. Lets have more fun.
 
--Belrath-
+\-Belrath-
 
 </div>
 
@@ -431,19 +431,19 @@ Is there anything else that I may be missing that Gorka may have that is causing
 
 <div class="post" data-post-id="39353" data-author="Gorka" data-date="2020-01-19T08:05:18+00:00" data-subject="Re: Damage/Knives/Thieves">
 
->Is there anything else that I may be missing...
+\>Is there anything else that I may be missing...
 
-* The Spear of Pestilence. It apparently doesn't have any procs, but maybe the +5 hit adds something. 
+\* The Spear of Pestilence. It apparently doesn't have any procs, but maybe the +5 hit adds something. 
 
-* I have a maxed warcry with 40,000+ kills.
+\* I have a maxed warcry with 40,000+ kills.
 
-* Warrior THACO.
+\* Warrior THACO.
 
-* A reborn bonus.
+\* A reborn bonus.
 
-* A hairy mole and sexy avatar.
+\* A hairy mole and sexy avatar.
 
-* 104 years, 15 months, and 5 days of experience.  :lol:
+\* 104 years, 15 months, and 5 days of experience. <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -461,7 +461,7 @@ Age is 50, not that it should matter, and for the most part a thief would want t
 
 <div class="post" data-post-id="39356" data-author="Driven" data-date="2020-01-19T15:16:12+00:00" data-subject="Re: Damage/Knives/Thieves">
 
-I have seen the same high trip stab rate with both Sam and Taron, so it would appear to be a warrior thing.  It needs to be root caused and the disparity needs to be fixed.  I think all of us agree that thief primes should be better stabbers than all other classes, yet that does not appear to be the case.
+I have seen the same high trip stab rate with both Sam and Taron, so it would appear to be a warrior thing. It needs to be root caused and the disparity needs to be fixed. I think all of us agree that thief primes should be better stabbers than all other classes, yet that does not appear to be the case.
 
 </div>
 
@@ -513,7 +513,7 @@ As of the last reboot Circle damage in the avatar shop is now Bonus circle damag
 
 <div class="post" data-post-id="39367" data-author="*teker*" data-date="2020-01-29T04:36:31+00:00" data-subject="Re: Damage/Knives/Thieves">
 
-> **Bandit wrote:**
+> <strong>Bandit wrote:</strong>
 > As of the last reboot Circle damage in the avatar shop is now Bonus circle damage
 
 This may revert - I was making changes hastily and the intent was to put that in the rebirth shop (where all the other bonus xxx stats are).
@@ -552,7 +552,7 @@ You are buffeted by waves of remorse! ... it passes.
 
 Total exp for kill is 476346357.
 
- :lol:
+ <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -572,11 +572,11 @@ Baraneth, the avatar dragoness screams in agony as red tendrils of mist infuse
 
 her body.
 
-[HP: 1128/1128](+75) [MA: 815/981](+69) [MV: 362](+67) [+10] [AC:-7.8] [The Thordfalan 
+[HP: 1128/1128\](+75) [MA: 815/981\](+69) [MV: 362\](+67) [+10] [AC:-7.8] [The Thordfalan 
 
 Volcano]
 
- [E:41,555,269,034] [G:707,880] [indoors] [+24 | +13] 
+ [E:41,555,269,034] [G:707,880] [indoors] [+24 \| +13] 
 
 [TARGET: -%]
 
@@ -584,15 +584,15 @@ Volcano]
 
 Alias reports 1323/1394 hp. Change: -66. Need: 71. Spells: glowing, greater fluidity.
 
-[HP: 1128/1128](+75) [MA: 815/981](+69) [MV: 362](+67) [+10] [AC:-7.8] [The Thordfalan 
+[HP: 1128/1128\](+75) [MA: 815/981\](+69) [MV: 362\](+67) [+10] [AC:-7.8] [The Thordfalan 
 
 Volcano]
 
- [E:41,555,269,034] [G:707,880] [indoors] [+24 | +13] 
+ [E:41,555,269,034] [G:707,880] [indoors] [+24 \| +13] 
 
 [TARGET: -%]
 
-#Ok. $fight is now set to {0}.
+\#Ok. $fight is now set to {0}.
 
 You turn your attacks toward Baraneth, the avatar dragoness.
 
@@ -612,6 +612,6 @@ Total exp for kill is 972,563,088.
 
 Your blood freezes as you hear Baraneth, the avatar dragoness's death cry.
 
- :lol:  :lol:
+ <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>

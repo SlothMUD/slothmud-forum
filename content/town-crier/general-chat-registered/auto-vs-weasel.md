@@ -14,39 +14,39 @@ post_count: 9
 
 Autolycos
 
-[img:oppynzcm]http://www.dragoness.net/sloth/rl/auto.jpg[/img:oppynzcm]
+![](http://www.dragoness.net/sloth/rl/auto.jpg)
 
 Weasel
 
-[img:oppynzcm]http://www.dragoness.net/sloth/rl/weasel.jpg[/img:oppynzcm]
+![](http://www.dragoness.net/sloth/rl/weasel.jpg)
 
-I bet they are brothers!!!  :twisted:
+I bet they are brothers!!! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="11599" data-author="Weasel" data-date="2006-03-21T04:19:33+00:00" data-subject="">
 
-HA!  ..actually, Auto looks quite a lot like my brother-in-law   :shock:
+HA! ..actually, Auto looks quite a lot like my brother-in-law <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="11600" data-author="jezer" data-date="2006-03-21T04:52:09+00:00" data-subject="">
 
-I get it! Auto married weasel's sister!  :shock: 
+I get it! Auto married weasel's sister! <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
 They had a child and called it Webferret.
 
-[img:10wwovp8]http://members.lycos.nl/empire_technologies/webferret.jpg[/img:10wwovp8]
+![](http://members.lycos.nl/empire_technologies/webferret.jpg)
 
 </div>
 
 <div class="post" data-post-id="11634" data-author="Autolycos" data-date="2006-03-21T17:56:01+00:00" data-subject="">
 
-lmfao!  
+lmfao! 
 
-i love it!  :twisted: 
+i love it! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-but i sure would hope his sister would be smarter then to associate with the likes of me.. i can barely stand myself too  :twisted:
+but i sure would hope his sister would be smarter then to associate with the likes of me.. i can barely stand myself too <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -58,9 +58,9 @@ I think you guys should compare scars!
 
 <div class="post" data-post-id="11842" data-author="Autolycos" data-date="2006-03-27T19:36:03+00:00" data-subject="">
 
-*sniff... most of my scars are on the inside..
+\*sniff... most of my scars are on the inside..
 
-damn aliens clawing around in there..   :evil:
+damn aliens clawing around in there.. <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -72,12 +72,12 @@ most of his scars are from gerbils...
 
 <div class="post" data-post-id="11848" data-author="Alberich" data-date="2006-03-27T21:07:59+00:00" data-subject="">
 
-[img:3n36fyxa]http://www.oohshiny.net/gallery/d/204-1/Dear_god.jpg[/img:3n36fyxa]
+![](http://www.oohshiny.net/gallery/d/204-1/Dear_god.jpg)
 
 </div>
 
 <div class="post" data-post-id="11849" data-author="Autolycos" data-date="2006-03-27T21:16:03+00:00" data-subject="">
 
-lmfao!    :twisted:
+lmfao! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

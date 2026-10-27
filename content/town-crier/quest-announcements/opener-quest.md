@@ -26,13 +26,13 @@ more of you in the near future aiding with our ongoing endeavors to discover
 
 more of our continent's lost treasures. The verses are translated as such:
 
-----------------------------------------------------------
+\----------------------------------------------------------
 
 "It is a tale of ice and snow,
 
 Where the Bunyips swim 
 
-     and howling winds blow,
+ and howling winds blow,
 
 Where giants once stalked,
 
@@ -40,13 +40,13 @@ But trudge no more,
 
 And this bard shall sing,
 
-    Of where she did go.
+ Of where she did go.
 
 There I met I met my goddess fair,
 
 Where the bards do sing,
 
-    And poets recite,
+ And poets recite,
 
 Where the daughters,
 
@@ -54,13 +54,13 @@ Of inspiration forever dwell,
 
 And the heavens reveal,
 
-    Land of eternal night.
+ Land of eternal night.
 
 There, my goddess spoke soft and firey,
 
 And raged against me,
 
-    With jealous surprise,
+ With jealous surprise,
 
 Her passion was fierce,
 
@@ -68,9 +68,9 @@ And her eyes were wild,
 
 But her words were entrancing,
 
-    As ever she was wise. "
+ As ever she was wise. "
 
-----------------------------------------------------------
+\----------------------------------------------------------
 
 We will be holding an opener quest on Sunday June 11th between 12:00 p.m. and 1:00 p.m.
 
@@ -86,7 +86,7 @@ We will meet in Judge's Temple on Aisholm when it is time to start.
 
 Hope to see you guys there!
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -96,9 +96,9 @@ So I just wanted to give a shout out to Neptune!
 
 I am usually among the first persons to point out mistakes in the game, inconsistencies, structural problems and things that are kind of totally stupid. But with that said a game is so much more than this... it's a community, it's the sum result of it's history and it's played by players because its FUN. We take it a bit seriously sometimes but above all it's meant to be fun.
 
-The quest opener was fun... it was a success... and thanks to those who helped support Neptune in this endeavor as well. Breeze (Grenade/Tokens), Zuzu (Background stuff) and Sochi (pointed out a few broken procs) also did things to smooth the wheels and help progress things. I came away with 100 drachma, a pair of sexy slippers and some gems. I also got to make fun of Lerr, Yenn, Gnu and did I miss anyone?  :twisted: 
+The quest opener was fun... it was a success... and thanks to those who helped support Neptune in this endeavor as well. Breeze (Grenade/Tokens), Zuzu (Background stuff) and Sochi (pointed out a few broken procs) also did things to smooth the wheels and help progress things. I came away with 100 drachma, a pair of sexy slippers and some gems. I also got to make fun of Lerr, Yenn, Gnu and did I miss anyone? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
-I've heard that this new area is like 600 rooms, and already it's showing good diversity, provided some pretty cool eq options of which some have even pushed boundaries. I'm pretty sure everyone has something to gain from this area... Except Ezekiel...  :twisted: 
+I've heard that this new area is like 600 rooms, and already it's showing good diversity, provided some pretty cool eq options of which some have even pushed boundaries. I'm pretty sure everyone has something to gain from this area... Except Ezekiel... <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 So thanks for the new content Neptune! Gimme an N! Gimme an Eptune!
 
@@ -150,7 +150,7 @@ Oh, and I almost forgot: I'd like to thank Breeze, Idjit, Wasp, Teker, and the r
 
 staff for helping me put this thing together. Without them, we'd still be working on it all today.
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -166,21 +166,21 @@ additions to the elemental planes. So, for interested parties, I give you this q
 
 for those adventurers wishing to refer to them using the dragon tongue's pronunciation style:
 
-Hysxyruzlla, the Gold Dragon ----------------> Hai-Six-Ee-Roo-Zil-Luh
+Hysxyruzlla, the Gold Dragon ----------------\> Hai-Six-Ee-Roo-Zil-Luh
 
-Ajkllyflljyk, the Volcanic Dragon -------------> Azh-Kill-Ee-Flik
+Ajkllyflljyk, the Volcanic Dragon -------------\> Azh-Kill-Ee-Flik
 
-Axzaelqrvha, the Jade Dragon ---------------> Ax-Zil-Ker-Vah
+Axzaelqrvha, the Jade Dragon ---------------\> Ax-Zil-Ker-Vah
 
-Iqzz'Rvaehhb, The Silver Dragoness ---------> Ikz-Ar-Vay-Ebb
+Iqzz'Rvaehhb, The Silver Dragoness ---------\> Ikz-Ar-Vay-Ebb
 
-Quezvxyllha, the Bronze Dragoness ----------> Kwez-Vix-Ih-Luh
+Quezvxyllha, the Bronze Dragoness ----------\> Kwez-Vix-Ih-Luh
 
-Vsyvyxyryll, the Copper Dragon ---------------> Viz-Ee-Vix-Er-Rill
+Vsyvyxyryll, the Copper Dragon ---------------\> Viz-Ee-Vix-Er-Rill
 
 Enjoy.
 
--Neptune
+\-Neptune
 
 </div>
 

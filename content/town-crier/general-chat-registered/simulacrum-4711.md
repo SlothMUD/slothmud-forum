@@ -12,7 +12,7 @@ post_count: 8
 
 <div class="post" data-post-id="37852" data-author="*teker*" data-date="2016-12-19T23:35:13+00:00" data-subject="Simulacrum">
 
-So we've had 2 crashes in the last 2 weeks that were different players fireballing their own simulacrum.  I've tried to repro on the test server by creating one and then killing it over and over without a repro.  What do you guys use the simulacrum for?  Something is going on during its lifetime that is causing the game to crash when it dies.
+So we've had 2 crashes in the last 2 weeks that were different players fireballing their own simulacrum. I've tried to repro on the test server by creating one and then killing it over and over without a repro. What do you guys use the simulacrum for? Something is going on during its lifetime that is causing the game to crash when it dies.
 
 </div>
 
@@ -24,11 +24,11 @@ Taron makes simulacra of himself to raise as his children and he fireballs them 
 
 <div class="post" data-post-id="37855" data-author="Teron" data-date="2016-12-21T02:59:28+00:00" data-subject="Re: Simulacrum">
 
-This should work **on a test server**:
+This should work <strong>on a test server</strong>:
 
 cast 'simulacrum';
 
-#2 cast 'dispel magic' teker;
+\#2 cast 'dispel magic' teker;
 
 cast 'familiar' teker;
 
@@ -40,15 +40,15 @@ Also test it without it being a familiar. Fireballing non-familairs was safe at 
 
 <div class="post" data-post-id="37856" data-author="Gorka" data-date="2016-12-21T08:37:17+00:00" data-subject="Re: Simulacrum">
 
-Rumor has it they were a partially implemented project then abandoned for some reason. It did provide a new spellbook that Shyla had to get for all the newbies... :) To my mind, something that is a copy of something, creates possible in game exploits... and possibly null pointers...    
+Rumor has it they were a partially implemented project then abandoned for some reason. It did provide a new spellbook that Shyla had to get for all the newbies... <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> To my mind, something that is a copy of something, creates possible in game exploits... and possibly null pointers... 
 
 The crier suggests they were implemented by Splork 11 years ago. 
 
-<LINK_TEXT text="http://www.slothmud.org/forum/viewtopic ... crum#p5451">http://www.slothmud.org/forum/viewtopic.php?f=26&t=1015&p=5451&hilit=simulacrum#p5451</LINK_TEXT>
+http://www.slothmud.org/forum/viewtopic.php?f=26&t=1015&p=5451&hilit=simulacrum#p5451
 
-Anyone else know a use for them?... besides asexual reproduction and abuse at the hands of Taron?  :lol:
+Anyone else know a use for them?... besides asexual reproduction and abuse at the hands of Taron? <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
-I wonder if Taron also draws pictures of himself and then burns them?  :twisted:
+I wonder if Taron also draws pictures of himself and then burns them? <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -68,7 +68,7 @@ I think it has something to do with the fact that simulacrum upon creation is ma
 
 <div class="post" data-post-id="37864" data-author="Josiah" data-date="2016-12-21T18:26:13+00:00" data-subject="Re: Simulacrum">
 
-That's amusing, Taron you use fireball on your 'self' too?  Guess both us warrior types think alike.
+That's amusing, Taron you use fireball on your 'self' too? Guess both us warrior types think alike.
 
 I'll refrain from any more 'self' mutilation until we hear that the spell is fixed.
 
@@ -76,18 +76,16 @@ I'll refrain from any more 'self' mutilation until we hear that the spell is fix
 
 <div class="post" data-post-id="37865" data-author="*Splork*" data-date="2016-12-21T23:13:36+00:00" data-subject="Re: Simulacrum">
 
-> **Quote:**
+> <strong>Quote:</strong>
 > Rumor has it they were a partially implemented project then abandoned for some reason.
-
- 
 
 Nah, it wasn't abandoned and was used quite a few times actually. It was quite fun to play and also create a Sloth styled Lazer Tag game...
 
 At one time simulacrum could also be used to attract aggressive mobs away from a player but I believe that was removed...
 
-> **Quote:**
+> <strong>Quote:</strong>
 > creates possible in game exploits... and possibly null pointers...
 
-This could be said of just about everything we add to the game :lol:
+This could be said of just about everything we add to the game <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 </div>

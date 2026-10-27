@@ -24,13 +24,13 @@ What about Convocation?
 
 <div class="post" data-post-id="16794" data-author="Weasel" data-date="2007-02-10T06:54:43+00:00" data-subject="">
 
-yeah that too :)
+yeah that too <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="16795" data-author="brand" data-date="2007-02-10T07:34:34+00:00" data-subject="">
 
-hell we might as well really roll the dice and throw teleport on the list too! :twisted:
+hell we might as well really roll the dice and throw teleport on the list too! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -58,7 +58,7 @@ Brand,
 
 We are all aware of your Valkyre desires. But unt unt, not gonna happen, not gonna happen today.
 
-Peace :twisted:
+Peace <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -70,7 +70,8 @@ I briefly considered warning Hades that Brand is contagious... but I kinda like 
 
 <div class="post" data-post-id="16800" data-author="Autolycos" data-date="2007-02-10T22:03:59+00:00" data-subject="">
 
-I briefly considered warning Hades that Brand is contagious... but I kinda like him better when he's not making sense.[/quote:f2r1yw9n]
+> <strong>12345 wrote:</strong>
+> I briefly considered warning Hades that Brand is contagious... but I kinda like him better when he's not making sense.
 
 Brand tried making sense once.. 
 

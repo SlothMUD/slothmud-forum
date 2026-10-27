@@ -20,7 +20,7 @@ Group mobs could load treasure items that could be coded to give a set amount to
 
 Item values could be fixed to be realistic. Take for example the mystic platemail, that was such a good item even avatars wore it, yet it was easy to come by and sold in the shops for nothing. Yet something like Infernite Gauntlets prob had a shop value of 1m or less.
 
-Item values could be calculated by a formula. Something like MobSize * Poprate * ItemStats * ItemLevel. If your going to nerf coins selling items to shops should become a viable enterprise... not just mage stones, tokens and hellwell pops.
+Item values could be calculated by a formula. Something like MobSize \* Poprate \* ItemStats \* ItemLevel. If your going to nerf coins selling items to shops should become a viable enterprise... not just mage stones, tokens and hellwell pops.
 
 You could create markets for resources... along the lines of the gem stones that pop in poisedon. They could also be found in the various parts of sloth located underground... you could use a terrain flag.
 

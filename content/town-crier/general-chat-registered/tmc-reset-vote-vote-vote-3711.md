@@ -12,7 +12,7 @@ post_count: 52
 
 <div class="post" data-post-id="32576" data-author="celerra7" data-date="2011-05-01T18:52:55+00:00" data-subject="TMC Reset - Vote, Vote, Vote!">
 
-TMC has been reset.  Now's our chance to run away with the lead!
+TMC has been reset. Now's our chance to run away with the lead!
 
 </div>
 
@@ -20,7 +20,7 @@ TMC has been reset.  Now's our chance to run away with the lead!
 
 Greetings, mortals.
 
-TMC reset, bla bla bla, you know the rest. :lol:
+TMC reset, bla bla bla, you know the rest. <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
 Best regards.
 
@@ -28,13 +28,13 @@ Best regards.
 
 <div class="post" data-post-id="32711" data-author="Tuck" data-date="2011-07-01T22:54:15+00:00" data-subject="Re: TMC Reset - Vote, Vote, Vote!">
 
-#4 in tmc list for now
+\#4 in tmc list for now
 
 </div>
 
 <div class="post" data-post-id="32850" data-author="Jaid" data-date="2011-09-01T11:29:13+00:00" data-subject="Re: TMC Reset - Vote, Vote, Vote!">
 
-TMC has reset again!  Keep voting like you always do and maybe we can take the top spot.
+TMC has reset again! Keep voting like you always do and maybe we can take the top spot.
 
 </div>
 
@@ -42,13 +42,13 @@ TMC has reset again!  Keep voting like you always do and maybe we can take the t
 
 Reminder:
 
-We're sneaking up to the number one spot.  I think this is largely due to our dedicated sloth-friends, some of which don't play much anymore but still continue to log on from time to time even just to chat.
+We're sneaking up to the number one spot. I think this is largely due to our dedicated sloth-friends, some of which don't play much anymore but still continue to log on from time to time even just to chat.
 
-So please don't forget to vote. :)
+So please don't forget to vote. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Sloth Rocks!
 
--Tox
+\-Tox
 
 </div>
 
@@ -70,7 +70,7 @@ VOTE VOTE.
 
 <div class="post" data-post-id="33032" data-author="celerra7" data-date="2011-12-01T13:30:52+00:00" data-subject="Re: TMC Reset - Vote, Vote, Vote!">
 
-TMC - 2 votes away from #2 ranking.  Let's take it and run!
+TMC - 2 votes away from #2 ranking. Let's take it and run!
 
 Vote, Vote, Vote!
 
@@ -88,9 +88,9 @@ vote vote
 
 Greetings, peps.
 
-TMC has reset votes count, you guys know the routine. :lol:
+TMC has reset votes count, you guys know the routine. <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom">
 
-I wanna also use this post to thank everyone who decide to vote for us.  You guys are keeping us working and alive.
+I wanna also use this post to thank everyone who decide to vote for us. You guys are keeping us working and alive.
 
 Best regards.
 
@@ -106,7 +106,7 @@ thanks
 
 <div class="post" data-post-id="33177" data-author="Skyv" data-date="2012-03-01T14:50:04+00:00" data-subject="Re: TMC Reset - Vote, Vote, Vote!">
 
-Seems like there's been another reset.  We're currently in 864th place, only 863 spots to go!
+Seems like there's been another reset. We're currently in 864th place, only 863 spots to go!
 
 </div>
 
@@ -142,7 +142,7 @@ vote or die
 
 <div class="post" data-post-id="33330" data-author="Yasik" data-date="2012-06-06T02:44:49+00:00" data-subject="Re: TMC Reset - Vote, Vote, Vote!">
 
-I can see we're #1 now, well, gratz on that and don't thank me.  8)
+I can see we're #1 now, well, gratz on that and don't thank me. <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -200,13 +200,13 @@ Just in case, look what I invented :
 
 ![](http://dl.dropbox.com/u/72105811/Pics/SlothMUD_button3.jpg)
 
-Setting up a button on my bookmark toolbar I reduce the voting process to **mere two clicks**, right in front of my eyes, one right after second, with no additional actions. No more digging in the bookmarks (which we all have a lot), scrolling through menus etc etc. Just two clicks, easy and fast, can do that just with reflexes on subconciousness level, while still waking up in the morning or waving you hands goodnight etc.
+Setting up a button on my bookmark toolbar I reduce the voting process to <strong>mere two clicks</strong>, right in front of my eyes, one right after second, with no additional actions. No more digging in the bookmarks (which we all have a lot), scrolling through menus etc etc. Just two clicks, easy and fast, can do that just with reflexes on subconciousness level, while still waking up in the morning or waving you hands goodnight etc.
 
 </div>
 
 <div class="post" data-post-id="33613" data-author="*juggleblood*" data-date="2012-09-18T13:11:17+00:00" data-subject="Surging on TMC, Please VOTE!">
 
-<LINK_TEXT text="http://www.mudconnect.com/cgi-bin/vote_ ... d=SlothMUD">http://www.mudconnect.com/cgi-bin/vote_rank.cgi?mud=SlothMUD</LINK_TEXT>
+http://www.mudconnect.com/cgi-bin/vote_rank.cgi?mud=SlothMUD
 
 We were down by 200, but we're recently surging and have closed the gap to 100 votes. 4 or 5 additional votes per day would put us back on top.
 
@@ -274,7 +274,7 @@ listings. We are currently 5th.
 
 Now, get out there and vote!
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -290,7 +290,7 @@ Good job guys! We've moved into fourth. Third place is also very achievable at
 
 this point, so keep up the good work! Vote! Vote! Vote!
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -346,7 +346,7 @@ We did awesome last month, regaining our spot in the top 5. Tmc just reset, lets
 
 Our playerbase was really strong last month with plenty of new players joining us. Most from TMC. It works and helps!
 
-Thanks! :mrgreen: 
+Thanks! <img src="/images/smilies/icon_mrgreen.svg" alt=":mrgreen:" title=":mrgreen:" width="15" height="15" class="smiley nozoom"> 
 
 Splork
 
@@ -354,7 +354,7 @@ Splork
 
 <div class="post" data-post-id="35597" data-author="*Splork*" data-date="2014-12-30T23:40:08+00:00" data-subject="Re: TMC Reset - Vote, Vote, Vote!">
 
-TMC is going to reset January 1st,  please keep up the great work with voting!  We were able to stay in the top 4 for the past three months and we gained a ton of new players.
+TMC is going to reset January 1st, please keep up the great work with voting! We were able to stay in the top 4 for the past three months and we gained a ton of new players.
 
 To the new players, if you do not have an account already on TMC, please create one and vote. The more players we have, the more active our Immortals become and the more fun we all have. A solid player base is the key to survival!
 
@@ -382,13 +382,13 @@ Splork
 
 TMC has reset, please try to vote as often as possible these next few weeks. Its always incredibly important to stay near the top of the rankings but even more so during the summer months when our numbers drop!
 
- :mrgreen:
+ <img src="/images/smilies/icon_mrgreen.svg" alt=":mrgreen:" title=":mrgreen:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="35976" data-author="celerra7" data-date="2015-07-01T13:07:03+00:00" data-subject="Re: TMC Reset - Vote, Vote, Vote!">
 
-We should request a new review at TMC.  SlothMUD review was done in 2003, and was only moderately favorable (IMO).
+We should request a new review at TMC. SlothMUD review was done in 2003, and was only moderately favorable (IMO).
 
 Updates and reviews are as current as May 2015, so they are still taking them, even though their "review" process says it is shelved.
 
@@ -412,7 +412,7 @@ Vote vote vote, TMC has reset!
 
 <div class="post" data-post-id="36111" data-author="Morkeleb" data-date="2015-10-14T10:52:47+00:00" data-subject="Re: TMC Reset - Vote, Vote, Vote!">
 
-*Shakes the dust off and votes*
+\*Shakes the dust off and votes\*
 
 </div>
 
@@ -426,7 +426,7 @@ Thanks!
 
 <div class="post" data-post-id="36683" data-author="*Splork*" data-date="2016-03-01T11:24:36+00:00" data-subject="Re: TMC Reset - Vote, Vote, Vote!">
 
-TMC has reset, as expected, please get out there and vote  :P 
+TMC has reset, as expected, please get out there and vote <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom"> 
 
 We did a great job last quarter, lets keep it up!
 

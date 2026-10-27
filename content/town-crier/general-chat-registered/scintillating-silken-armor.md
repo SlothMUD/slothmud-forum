@@ -14,13 +14,13 @@ post_count: 7
 
 Anyone got the forge note or cp list for this piece of eq?
 
-Erm, looking to buy the cp's for it if you have any. Please post :)
+Erm, looking to buy the cp's for it if you have any. Please post <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="12584" data-author="13" data-date="2006-05-18T18:28:43+00:00" data-subject="">
 
-There's only one piece in game and dariel has it on his monk.  It was taken out as far as I know.
+There's only one piece in game and dariel has it on his monk. It was taken out as far as I know.
 
 </div>
 
@@ -36,7 +36,7 @@ can my tag say 'Bad Seed' instead of Avatar Poster please?
 
 that makes me think of this:
 
-[img:3tnin07o]http://www.fixinthemix.com/Design/Assets/images/avatar.gif[/img:3tnin07o]
+![](http://www.fixinthemix.com/Design/Assets/images/avatar.gif)
 
 </div>
 
@@ -56,7 +56,7 @@ of the larger spiders in there.
 
 <div class="post" data-post-id="16879" data-author="Hades" data-date="2007-02-14T10:58:09+00:00" data-subject="Still ingame and its bodyarmor not robe">
 
-<eom>
+\<eom\>
 
 </div>
 

@@ -14,11 +14,14 @@ post_count: 6
 
 If anyone here reads the Asian Wall Street Journal, you may want to check out the article titled "Experts See Urgency for Flu Strategy --- Vaccine Research Quickens Amid H5N1 Virus Threat; Preparing for a Pandemic"
 
-At the moment, it's a tempest in a teapot, having only infected 109 humans and killing a mere 55 of them.  Very informative article though.
+At the moment, it's a tempest in a teapot, having only infected 109 humans and killing a mere 55 of them. Very informative article though.
 
-In a study published last year, Ira Longini Jr. of Emory University in Georgia ran a mathematical model of what might happen if a pandemic such as the 1957 Asian flu, which was caused by a virus far milder than bird flu, hit the U.S. 
-
-He and his colleagues estimated that with no vaccine or antiviral drugs, there would be 93 million cases and 164,000 deaths. Vaccinating 80% of people younger than 19 -- the group most responsible for spreading the virus -- "would reduce the epidemic to just six million total cases and 15,000 total deaths in the country."[/quote:3rmynxtf]
+> <strong>Asian Wall Street Journal wrote:</strong>
+> In a study published last year, Ira Longini Jr. of Emory University in Georgia ran a mathematical model of what might happen if a pandemic such as the 1957 Asian flu, which was caused by a virus far milder than bird flu, hit the U.S. 
+> 
+> 
+> 
+> He and his colleagues estimated that with no vaccine or antiviral drugs, there would be 93 million cases and 164,000 deaths. Vaccinating 80% of people younger than 19 -- the group most responsible for spreading the virus -- "would reduce the epidemic to just six million total cases and 15,000 total deaths in the country."
 
 </div>
 
@@ -34,11 +37,11 @@ sorry again if i got something wrong, but i think usual flu hits with same resul
 
 Nothing brutal about it.
 
-Currently the bird flu is difficult to transmit, which is why it's stayed relatively isolated.  It currently has a 50% mortality rate.  Flu has the annoying habit of mutating, which is how the strain was created in the first place.  It is suspected that further mutations would allow the virus to be transmitted more easily, allowing it to spread more easily, infecting larger populations at a faster rate.  It is also suspected that when that happens, it may weaken the virus to be slightly less mortal.  There is currently nowhere near enough vaccine against this strain to immunized even 1% of the American population.. much less 80% of the US population 19 and under.  Some of the vaccines that have been developed don't work, and no one is really sure why.
+Currently the bird flu is difficult to transmit, which is why it's stayed relatively isolated. It currently has a 50% mortality rate. Flu has the annoying habit of mutating, which is how the strain was created in the first place. It is suspected that further mutations would allow the virus to be transmitted more easily, allowing it to spread more easily, infecting larger populations at a faster rate. It is also suspected that when that happens, it may weaken the virus to be slightly less mortal. There is currently nowhere near enough vaccine against this strain to immunized even 1% of the American population.. much less 80% of the US population 19 and under. Some of the vaccines that have been developed don't work, and no one is really sure why.
 
 Because it is a mutation between a human and avian flu strain, there is currently no natural immunity to a disease of this type.
 
-Because it's difficult to transmit, it's currently a tempest in a teapot.  However, it's considered very likely that it could reach pandemic proportions.
+Because it's difficult to transmit, it's currently a tempest in a teapot. However, it's considered very likely that it could reach pandemic proportions.
 
 </div>
 

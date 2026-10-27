@@ -28,19 +28,19 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: MANA by 5
+ Affects: MANA by 5
 
 Part of the set 'athenaeum':
 
-   With 0 other pieces: affects MANA by 5
+ With 0 other pieces: affects MANA by 5
 
-   With 0 other pieces: affects SYSTEM_SHOCK by 0
+ With 0 other pieces: affects SYSTEM\_SHOCK by 0
 
-   With 1 other pieces: affects SYSTEM_SHOCK by 1
+ With 1 other pieces: affects SYSTEM\_SHOCK by 1
 
-   With 3 other pieces: affects SYSTEM_SHOCK by 2
+ With 3 other pieces: affects SYSTEM\_SHOCK by 2
 
-   With 5 other pieces: affects SYSTEM_SHOCK by 3
+ With 5 other pieces: affects SYSTEM\_SHOCK by 3
 
 Only those who are at least novice avatars and also supreme druids may use
 
@@ -68,17 +68,17 @@ AC-apply is -0.0
 
 Can affect you as:
 
-    Affects: MANA by 5
+ Affects: MANA by 5
 
 Part of the set 'athenaeum':
 
-   With 0 other pieces: affects MANA by 5
+ With 0 other pieces: affects MANA by 5
 
-   With 0 other pieces: affects HITROLL by 0
+ With 0 other pieces: affects HITROLL by 0
 
-   With 1 other pieces: affects HITROLL by 1
+ With 1 other pieces: affects HITROLL by 1
 
-   With 5 other pieces: affects HITROLL by 2
+ With 5 other pieces: affects HITROLL by 2
 
 Only those who are at least novice avatars and also supreme druids may use
 
@@ -134,6 +134,6 @@ I noticed that Breeze's area list did not have on it the greaves of the forest w
 
 <div class="post" data-post-id="34766" data-author="*Breeze*" data-date="2014-01-06T23:09:55+00:00" data-subject="Re: athenaeum stuff">
 
-<LINK_TEXT text="http://www.slothmud.org/forum/viewtopic ... 687#p34687">http://www.slothmud.org/forum/viewtopic.php?f=28&t=4174&p=34687#p34687</LINK_TEXT>
+http://www.slothmud.org/forum/viewtopic.php?f=28&t=4174&p=34687#p34687
 
 </div>

@@ -28,7 +28,7 @@ AC-apply is -0.5
 
 Can affect you as:
 
-    Affects: RESIST_COLD by 1
+ Affects: RESIST\_COLD by 1
 
 Only those who are at least supreme thieves and warriors may use this item.
 

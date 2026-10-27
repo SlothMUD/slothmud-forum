@@ -18,19 +18,19 @@ A description of the monk class in dungeon's and dragons states,
 
 "They typically use only their bare hands as weapons, delivering powerful blows that grow stronger as the Monk rises in power. Monks can also use special Monk weapons such as the quarterstaff and kama, using many of their unarmed-combat abilities with these weapons as well."
 
-I realize this is Sloth and not D&D but nonetheless..... I think it is a great idea.  My personal thoughts are that weapons of this type WOULD allow hand damage to apply.  Additionally, certain weapons could be used with strike, stun, flurry etc.
+I realize this is Sloth and not D\&D but nonetheless..... I think it is a great idea. My personal thoughts are that weapons of this type WOULD allow hand damage to apply. Additionally, certain weapons could be used with strike, stun, flurry etc.
 
-I would NOT be proposing that any of these weapons further enhance the normal base hand damage.  In fact, a weapon could do less than normal base damage but have a proc on a successful strike for instance.
+I would NOT be proposing that any of these weapons further enhance the normal base hand damage. In fact, a weapon could do less than normal base damage but have a proc on a successful strike for instance.
 
 I just think its silly that the monk class is a weaponless class and that weapons of this type would only add to the flavor of the game.
 
-This is an open discussion.  Please post your thoughts or hit me online if I'm in Nab/Mojo.
+This is an open discussion. Please post your thoughts or hit me online if I'm in Nab/Mojo.
 
 Thanks,
 
 Keith
 
-P.S.  Nunchaku are a must!!!
+P.S. Nunchaku are a must!!!
 
 </div>
 
@@ -42,7 +42,7 @@ Personally I dont have a monk but it would be a nice idea, however some ideas fo
 
 <div class="post" data-post-id="19306" data-author="13" data-date="2007-07-19T04:24:34+00:00" data-subject="">
 
-You wouldn't have to remove shit.  Use a garrote technique or even have it as a monk skill at low avatar = the ability to use monk weaps, kamas, sais, bo staff, nunchaku, nekode, cesti, katars...get down.  I want a phone cord.
+You wouldn't have to remove shit. Use a garrote technique or even have it as a monk skill at low avatar = the ability to use monk weaps, kamas, sais, bo staff, nunchaku, nekode, cesti, katars...get down. I want a phone cord.
 
 This is a great idea I 100% approve.
 
@@ -50,7 +50,7 @@ This is a great idea I 100% approve.
 
 <div class="post" data-post-id="19307" data-author="banedon" data-date="2007-07-19T06:00:36+00:00" data-subject="">
 
-I do play a monk prime, and I think this is a helluva good idea.  From the way I've always seen it interpeted, striking weapons like staves and nunchaku could be used with strike or stun, because its a monk's knowledge of vital spots that allows them to use these skills, and the weapon just gives them a little breathing room compared to bare hands.
+I do play a monk prime, and I think this is a helluva good idea. From the way I've always seen it interpeted, striking weapons like staves and nunchaku could be used with strike or stun, because its a monk's knowledge of vital spots that allows them to use these skills, and the weapon just gives them a little breathing room compared to bare hands.
 
 I also agree with the idea that these weapons shouldnt have any damage enhancements, but possibly procs, like a low % to trip a mob on a staff hit or if people think using a staff/chucks/tonfa for stun/strike is too powerful, give the weapons a % chance to stun/strike
 
@@ -80,7 +80,7 @@ alias
 
 <div class="post" data-post-id="19311" data-author="Autolycos" data-date="2007-07-20T18:12:15+00:00" data-subject="">
 
-I'd have to agree it would be a cool addition.  Even if they only had a proc like curse/damn or blind etc. it would be neat to see..
+I'd have to agree it would be a cool addition. Even if they only had a proc like curse/damn or blind etc. it would be neat to see..
 
 Nab masterfully gashes Yasik's eyes with his sais blinding him!!!!
 
@@ -88,7 +88,7 @@ Nab performs a combination strike with his nunchaku decimating Yasik!!!!
 
 Nab lands a skillfull blow with his Bo staff knocking Yasik off his feet!!!!
 
-that would really breathe new creative arts to killing Yasik.   FUN! :twisted:
+that would really breathe new creative arts to killing Yasik. FUN! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -110,9 +110,9 @@ Monk Hand Dam Gloves would be rockin!
 
 <div class="post" data-post-id="19314" data-author="Akasha" data-date="2007-07-20T22:14:07+00:00" data-subject="">
 
-Hello?  Is this still Sloth?  I think a virus changed the bookmark of this website... never have I seen ppl on Sloth agree about anything..
+Hello? Is this still Sloth? I think a virus changed the bookmark of this website... never have I seen ppl on Sloth agree about anything..
 
-Autolycos, Medios, and Leaf having a normal conversation?  The apocalypse is near! Repent now!
+Autolycos, Medios, and Leaf having a normal conversation? The apocalypse is near! Repent now!
 
 Aka
 
@@ -120,17 +120,17 @@ Aka
 
 <div class="post" data-post-id="19316" data-author="Tap" data-date="2007-07-21T00:32:00+00:00" data-subject="Akasha">
 
-So your'e just gonna remove my post instead of explaining why other char's who have posted alot worse  pic's/offensive language haven't been bothered with? Admit it... who has pull with you?... just curious.  Again.. akasha bans me from crier for posting a stringline of weasels from hunting yet other people who have posted pics and/or use offensive words haven't even be given even as much as a slap on the wrist.
+So your'e just gonna remove my post instead of explaining why other char's who have posted alot worse pic's/offensive language haven't been bothered with? Admit it... who has pull with you?... just curious. Again.. akasha bans me from crier for posting a stringline of weasels from hunting yet other people who have posted pics and/or use offensive words haven't even be given even as much as a slap on the wrist.
 
 Nice Job
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="19317" data-author="Akasha" data-date="2007-07-21T01:09:11+00:00" data-subject="">
 
-I'm not getting into a public battle of insults or explanations.  Post something constructive and "on-topic" instead of spamming every topic with useless garbage and we'll talk.
+I'm not getting into a public battle of insults or explanations. Post something constructive and "on-topic" instead of spamming every topic with useless garbage and we'll talk.
 
 {EDIT} It wasn't the picture, I just grew tired of it all.
 
@@ -142,7 +142,7 @@ Aka
 
 <div class="post" data-post-id="19318" data-author="Yinao" data-date="2007-07-21T01:38:39+00:00" data-subject="">
 
-Way to go! Sorry but R.I.P  :twisted:  :twisted:  :twisted:
+Way to go! Sorry but R.I.P <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -156,7 +156,8 @@ bwah! nice move Akasha!
 
 was it hades that got banned?
 
-[quote:4og1vo5g]Monk Hand Dam Gloves would be rockin![/quote:4og1vo5g]
+> <strong>Quote:</strong>
+> Monk Hand Dam Gloves would be rockin!
 
 Gauntlets of the Yellow Rose
 
@@ -166,15 +167,15 @@ Gauntlets of the Yellow Rose
 
 Nope.. not a troll but a phoenix
 
-Oh.. not sure how old that post was but I think it got cut off. Was adding onto furball's idea of clasps.  A gem/clasp that could be attached to weapons/gloves would be possible addition. And to keep it fair, you couldnt have a valker weapon with say high-dam spell clasp attachment.  example below for those who I failed to articulate for
+Oh.. not sure how old that post was but I think it got cut off. Was adding onto furball's idea of clasps. A gem/clasp that could be attached to weapons/gloves would be possible addition. And to keep it fair, you couldnt have a valker weapon with say high-dam spell clasp attachment. example below for those who I failed to articulate for
 
 level20 and under could do an autoquest and gain (according to their primary class clasp) a spell clasp for weapon/gloves. In this case we will use mage.
 
-level 20 -  flawed sapphire gem  -  shocking clasp
+level 20 - flawed sapphire gem - shocking clasp
 
-level 30 -  nearly perfect cut diamond -  fireball
+level 30 - nearly perfect cut diamond - fireball
 
-level 40 -  eye of <insert MOB here> -  ice ray
+level 40 - eye of \<insert MOB here\> - ice ray
 
 avatar status could possible get a lower level group-attack spell like spark shower or similiar
 
@@ -184,19 +185,29 @@ flame on
 
 <div class="post" data-post-id="19369" data-author="Leaf" data-date="2007-07-23T15:37:49+00:00" data-subject="">
 
-was it hades that got banned?
-
-[quote:21jd25gw]Monk Hand Dam Gloves would be rockin![/quote:21jd25gw]
-
-Gauntlets of the Yellow Rose[/quote:21jd25gw]
+> <strong>13 wrote:</strong>
+> was it hades that got banned?
+> 
+> 
+> 
+> 
+> 
+> > <strong>Quote:</strong>
+> > Monk Hand Dam Gloves would be rockin!
+> 
+> 
+> 
+> 
+> 
+> Gauntlets of the Yellow Rose
 
 I was saying about the Monk 3x40 Hand with more dam would be rockin
 
 Or a +1 Hand -.4 held low (Monk Book'ish) 
 
-Better yet those beads that monks use to claim themselves.  (U know in the
+Better yet those beads that monks use to claim themselves. (U know in the
 
-movie they walk around rolling these beads in their hands.  Quick thinking
+movie they walk around rolling these beads in their hands. Quick thinking
 
 gay stuff AA ... anal beads is what u were thinking!)
 
@@ -214,23 +225,24 @@ Possibly, by adding +1/2hit, +1/2dam, skill procs (trip, strike, blind, etc) or 
 
 I thought one of the major 'things' about monks was their bare handed fighting skills like deathgrip, counterattack etc (I don't play monk so whatever).. but if you want to use weapons, seems to me you should be playing a warrior prime. Or lose some monk bare-handed fighting skills.
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="27681" data-author="Brujah" data-date="2009-01-10T18:46:12+00:00" data-subject="">
 
-Saying this as a monk: Giev nunchakas and shurikens pls kk? :)
+Saying this as a monk: Giev nunchakas and shurikens pls kk? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="27682" data-author="Vixn" data-date="2009-01-10T21:11:30+00:00" data-subject="">
 
-Saying this as a monk: Giev nunchakas and shurikens pls kk? :)[/quote:197hw1qm]
+> <strong>Brujah wrote:</strong>
+> Saying this as a monk: Giev nunchakas and shurikens pls kk? <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 I bet 'nunchakas' must have proc to hit monk's balls.
 
-:twisted:
+<img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -248,32 +260,41 @@ I wish the monk skill stun worked better. Currently it seems it successfully stu
 
 <div class="post" data-post-id="27705" data-author="Brujah" data-date="2009-01-13T16:24:03+00:00" data-subject="">
 
-I wish the monk skill stun worked better. Currently it seems it successfully stuns less than the warrior skill broadside does.[/quote:sekxhpmg]
+> <strong>marge wrote:</strong>
+> I wish the monk skill stun worked better. Currently it seems it successfully stuns less than the warrior skill broadside does.
 
 Frankly - I don't see this as a big issue, because as it is right now, stun skill is useless anyway.
 
-In 98% of situations instead of a _chance_ to stun a mob and avoid that wind it's going to blast it is better to just strike and kill the mob faster (avoiding that wind for sure).
+In 98% of situations instead of a \_chance\_ to stun a mob and avoid that wind it's going to blast it is better to just strike and kill the mob faster (avoiding that wind for sure).
 
-Help file says chance to stun grows with focus - which is also useless because it's clearly more worthy to strike for ~8 rounds than wait for a full focus and then see "You hit the mob, but it doesn't look stunned."
+Help file says chance to stun grows with focus - which is also useless because it's clearly more worthy to strike for \~8 rounds than wait for a full focus and then see "You hit the mob, but it doesn't look stunned."
 
-Stun % should be raised [b:sekxhpmg]considerably[/b:sekxhpmg] to make it any worth using, even on Alhoon.
+Stun % should be raised <strong>considerably</strong> to make it any worth using, even on Alhoon.
 
 </div>
 
 <div class="post" data-post-id="27708" data-author="Weasel" data-date="2009-01-13T23:32:21+00:00" data-subject="">
 
-I wish the monk skill stun worked better. Currently it seems it successfully stuns less than the warrior skill broadside does.[/quote:1ls9f9o3]
-
-Frankly - I don't see this as a big issue, because as it is right now, stun skill is useless anyway.
-
-In 98% of situations instead of a _chance_ to stun a mob and avoid that wind it's going to blast it is better to just strike and kill the mob faster (avoiding that wind for sure).
-
-Help file says chance to stun grows with focus - which is also useless because it's clearly more worthy to strike for ~8 rounds than wait for a full focus and then see "You hit the mob, but it doesn't look stunned."
-
-Stun % should be raised [b:1ls9f9o3]considerably[/b:1ls9f9o3] to make it any worth using, even on Alhoon.[/quote:1ls9f9o3]
+> <strong>Brujah wrote:</strong>
+> > <strong>marge wrote:</strong>
+> > I wish the monk skill stun worked better. Currently it seems it successfully stuns less than the warrior skill broadside does.
+> 
+> 
+> 
+> 
+> 
+> Frankly - I don't see this as a big issue, because as it is right now, stun skill is useless anyway.
+> 
+> In 98% of situations instead of a \_chance\_ to stun a mob and avoid that wind it's going to blast it is better to just strike and kill the mob faster (avoiding that wind for sure).
+> 
+> Help file says chance to stun grows with focus - which is also useless because it's clearly more worthy to strike for \~8 rounds than wait for a full focus and then see "You hit the mob, but it doesn't look stunned."
+> 
+> 
+> 
+> Stun % should be raised <strong>considerably</strong> to make it any worth using, even on Alhoon.
 
 Sounds like Monk's version of Warrior's flail. 
 
- :twisted:
+ <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

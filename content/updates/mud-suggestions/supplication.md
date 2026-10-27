@@ -42,7 +42,7 @@ dunno just an idea...
 
 <div class="post" data-post-id="5357" data-author="benq2" data-date="2005-04-01T13:04:51+00:00" data-subject="">
 
-you need to order 2.peri 3.peri sometimes to find out which is yours..  before anyone asks.. for some reason cant edit own posts *shrug*
+you need to order 2.peri 3.peri sometimes to find out which is yours.. before anyone asks.. for some reason cant edit own posts \*shrug\*
 
 </div>
 
@@ -54,13 +54,13 @@ order followers report works pretty good too
 
 <div class="post" data-post-id="5367" data-author="benq2" data-date="2005-04-01T15:24:10+00:00" data-subject="">
 
-true as long as you dont have a familiar etc :P
+true as long as you dont have a familiar etc <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="5382" data-author="Akasha2" data-date="2005-04-02T01:09:59+00:00" data-subject="Peri and Eudaemon">
 
-Ok, we'll give you one.  Peri and Eudaemon will now pick up their master's name as a keyword shortly after being summoned.
+Ok, we'll give you one. Peri and Eudaemon will now pick up their master's name as a keyword shortly after being summoned.
 
 Akasha
 
@@ -68,7 +68,7 @@ Akasha
 
 <div class="post" data-post-id="5383" data-author="Akasha2" data-date="2005-04-02T01:30:07+00:00" data-subject="hehehe, that doesnt work it seems :)">
 
-so it's removed until a better trick is figured out :)
+so it's removed until a better trick is figured out <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -84,25 +84,32 @@ Akasha
 
 <div class="post" data-post-id="5391" data-author="Gnu" data-date="2005-04-02T07:01:13+00:00" data-subject="">
 
-true as long as you dont have a familiar etc :P[/quote:116q0zej]
+> <strong>benq wrote:</strong>
+> true as long as you dont have a familiar etc <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
-true as long as you can't find out which report is of your familiar and which one belongs to peri :)
+true as long as you can't find out which report is of your familiar and which one belongs to peri <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="5395" data-author="benq2" data-date="2005-04-02T16:05:16+00:00" data-subject="">
 
-true as long as you dont have a familiar etc :P[/quote:163x3wbv]
-
-true as long as you can't find out which report is of your familiar and which one belongs to peri :)[/quote:163x3wbv]
+> <strong>Gnu wrote:</strong>
+> > <strong>benq wrote:</strong>
+> > true as long as you dont have a familiar etc <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
+> 
+> 
+> 
+> 
+> 
+> true as long as you can't find out which report is of your familiar and which one belongs to peri <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 the point of this was that we would be able to make things like
 
-#alias {osa}{order person-supplicant assist}
+\#alias {osa}{order person-supplicant assist}
 
 or
 
-#alias {osr}{order person-supplicant report}
+\#alias {osr}{order person-supplicant report}
 
 in case anyone wondered what the point was..
 

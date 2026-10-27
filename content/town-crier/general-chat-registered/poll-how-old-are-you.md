@@ -12,7 +12,7 @@ post_count: 16
 
 <div class="post" data-post-id="10426" data-author="Grue" data-date="2006-01-30T15:28:07+00:00" data-subject="Poll: How old are you?">
 
-Partly triggered by some of the discussion around appropriate language, partly I'm just nosey. I know we have some players who have been playing since Sloth 1 and 2 and have to be old farts by now (sorry guys :)), but have also cahtted online to a few high-school kids lately. If you find questions about your age offensive, just don't answer :)
+Partly triggered by some of the discussion around appropriate language, partly I'm just nosey. I know we have some players who have been playing since Sloth 1 and 2 and have to be old farts by now (sorry guys <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">), but have also cahtted online to a few high-school kids lately. If you find questions about your age offensive, just don't answer <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -30,7 +30,7 @@ of course high school kids never swear...
 
 <div class="post" data-post-id="10433" data-author="Avatar" data-date="2006-01-30T17:55:34+00:00" data-subject="Age vs Swearing">
 
-As someone pointed out on the other thread, not all of us object to swearing because our kids may see it.  I don't have kids (and I'm not a kid myself) but I do agree with the rules against swearing on public channels.
+As someone pointed out on the other thread, not all of us object to swearing because our kids may see it. I don't have kids (and I'm not a kid myself) but I do agree with the rules against swearing on public channels.
 
 </div>
 
@@ -60,13 +60,13 @@ That obviously went into a discussion around age and appropriate contexts, but j
 
 WE All livin in Amerrrica! Amerrrica! Amerrrica!
 
- :P
+ <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="10474" data-author="Leaf" data-date="2006-01-31T19:16:50+00:00" data-subject="">
 
-Hum... 14yr old ... still young enough for a smack in the head.  
+Hum... 14yr old ... still young enough for a smack in the head. 
 
 DON'T QUESTION MY AUTHORITY BOY!!!
 
@@ -74,13 +74,13 @@ DON'T QUESTION MY AUTHORITY BOY!!!
 
 <div class="post" data-post-id="10477" data-author="Weasel" data-date="2006-01-31T20:08:08+00:00" data-subject="">
 
-moved to other thread, sorry 12345  :twisted:
+moved to other thread, sorry 12345 <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="10478" data-author="12345" data-date="2006-01-31T20:13:02+00:00" data-subject="">
 
-Damnit Weasel.  I was just getting ready to sell these new Weasel toys I made.  See? They look just like you and they even yell 'I'm Being Repressed' whenever someone thinks about changing the code on Sloth.  :wink:
+Damnit Weasel. I was just getting ready to sell these new Weasel toys I made. See? They look just like you and they even yell 'I'm Being Repressed' whenever someone thinks about changing the code on Sloth. <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -88,7 +88,7 @@ Damnit Weasel.  I was just getting ready to sell these new Weasel toys I made.  
 
 ROFL.. yeah, I need to chill about that hehe.
 
-I posted that last entry on the wrong thread too.. mever mind, it's on both now :)
+I posted that last entry on the wrong thread too.. mever mind, it's on both now <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -112,6 +112,6 @@ Do you think 12345 is actually his age? or the amount of lost concentrations he 
 
 <div class="post" data-post-id="10517" data-author="12345" data-date="2006-02-01T12:15:14+00:00" data-subject="">
 
-Actually, this was supposed to be a test account.  If it hadn't been a great way of throwing Nordael off balance, it would have stayed that way.
+Actually, this was supposed to be a test account. If it hadn't been a great way of throwing Nordael off balance, it would have stayed that way.
 
 </div>

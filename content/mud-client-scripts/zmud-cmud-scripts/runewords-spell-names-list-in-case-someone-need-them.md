@@ -16,7 +16,7 @@ Here is array of 160 spellnames and runewords. Might be used not in just cmud, j
 
 Update: 190 spells for now. Example trigger to read on cast, decrypt, and display attached.
 
-**Update2: 207 spells for now. All decrypted. Guess, there is no more spells in Sloth. Even blizzard decoded.**
+<strong>Update2: 207 spells for now. All decrypted. Guess, there is no more spells in Sloth. Even blizzard decoded.</strong>
 
 Trigger pattern is: 
 
@@ -26,13 +26,13 @@ Trigger pattern is: ^(*) utters the words, '(*)'$
 Trigger body:
 $spelltoconvert=%2
 #loop %numitems(@converspellarray) {
-  $spelljumblekey=%dbkey(@converspellarray,%i)
-  $spellnamevalue=%db(@converspellarray,%dbkey(@converspellarray,%i))
-  #if ($spelltoconvert = $spelljumblekey OR $spelltoconvert = $spellnamevalue) {
-    #gagspace
-    #show %ansi(green)%1%ansi(reset)%if(%len(%1)<20,%repeat(".",@wraplength-%len(%1))) casts '%ansi(magenta)$spellnamevalue%ansi(reset)'     ~($spelljumblekey~)
-    #BREAK
-  }
+ $spelljumblekey=%dbkey(@converspellarray,%i)
+ $spellnamevalue=%db(@converspellarray,%dbkey(@converspellarray,%i))
+ #if ($spelltoconvert = $spelljumblekey OR $spelltoconvert = $spellnamevalue) {
+ #gagspace
+ #show %ansi(green)%1%ansi(reset)%if(%len(%1)<20,%repeat(".",@wraplength-%len(%1))) casts '%ansi(magenta)$spellnamevalue%ansi(reset)' ~($spelljumblekey~)
+ #BREAK
+ }
 }
 ```
 

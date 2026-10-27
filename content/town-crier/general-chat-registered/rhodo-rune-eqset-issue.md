@@ -38,7 +38,7 @@ you could probably alias around it by removing those 2 items first
 
 <div class="post" data-post-id="39211" data-author="Josiah" data-date="2019-06-07T06:22:20+00:00" data-subject="Re: Rhodo Rune Eqset Issue">
 
-The best way I found was an eqset with a single piece of eq in it.  With minimal lag, you can quickly equip a light or held low with no rune.
+The best way I found was an eqset with a single piece of eq in it. With minimal lag, you can quickly equip a light or held low with no rune.
 
 Example:
 

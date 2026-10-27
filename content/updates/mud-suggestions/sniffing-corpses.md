@@ -22,6 +22,6 @@ sniff corpse
 
 The scent of [whoever] is strong on the corpse of a rat.
 
-:)
+<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

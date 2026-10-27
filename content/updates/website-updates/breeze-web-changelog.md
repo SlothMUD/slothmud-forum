@@ -12,15 +12,15 @@ post_count: 5
 
 <div class="post" data-post-id="33146" data-author="*Breeze*" data-date="2012-02-01T23:29:34+00:00" data-subject="Breeze Web Changelog">
 
-* Upgraded forum a week or 2 ago (forgot to post)
+\* Upgraded forum a week or 2 ago (forgot to post)
 
-* 'Next Level Calculator' added to Library menu
+\* 'Next Level Calculator' added to Library menu
 
-  * [http://www.slothmud.org/cheapest/index.php](http://www.slothmud.org/cheapest/index.php)
+ \* [http://www.slothmud.org/cheapest/index.php](http://www.slothmud.org/cheapest/index.php)
 
-     [ Thanks James Long! (Wrote original page at [http://jameslong.org/sloth/cheapest.php](http://jameslong.org/sloth/cheapest.php) ]
+ [ Thanks James Long! (Wrote original page at [http://jameslong.org/sloth/cheapest.php](http://jameslong.org/sloth/cheapest.php) ]
 
-* General maintenance, which I won't bother you with.
+\* General maintenance, which I won't bother you with.
 
 </div>
 
@@ -28,7 +28,7 @@ post_count: 5
 
 ```
 Changes ::
-  WebCVS can now access older cvs logs
+ WebCVS can now access older cvs logs
  (click the date on the WebCVS menu items)
 ```
 
@@ -38,8 +38,8 @@ Changes ::
 
 ```
 Changes ::
-  EQList - Now shows Weight / Max Weight for containers.
-        Example:  [Weight: 9/299] Size=290
+ EQList - Now shows Weight / Max Weight for containers.
+ Example: [Weight: 9/299] Size=290
 ```
 
 </div>
@@ -57,7 +57,7 @@ http://www.slothmud.org/wp/live-info/webcvs
 
 <div class="post" data-post-id="37767" data-author="*Breeze*" data-date="2016-12-10T10:57:11+00:00" data-subject="Re: Breeze Web Changelog">
 
-fixed "Who is online" page to account for *josiah* and to fix mis-truncated player titles.
+fixed "Who is online" page to account for \*josiah\* and to fix mis-truncated player titles.
 
 http://www.slothmud.org/wp/live-info/whos-online
 

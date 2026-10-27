@@ -20,7 +20,7 @@ Just the other day my thoughts traveled back to pretty close to the beginning (w
 
 <div class="post" data-post-id="32189" data-author="Shyla" data-date="2010-12-20T20:34:41+00:00" data-subject="Re: Nostaliga road">
 
-I remember going into the computer lab and playing off their mac computers there late at night  Brings back a lot of interesting memories.  Hectordark and moonglum.Tigger.  When people kept everything in their robe because people would just steal from you b/c they could.  People were always losing mage 4 ioun stones.
+I remember going into the computer lab and playing off their mac computers there late at night Brings back a lot of interesting memories. Hectordark and moonglum.Tigger. When people kept everything in their robe because people would just steal from you b/c they could. People were always losing mage 4 ioun stones.
 
 Shyla...Lora....
 
@@ -32,6 +32,6 @@ I starte back in Feb of 1992
 
 <div class="post" data-post-id="32190" data-author="*juggleblood*" data-date="2010-12-21T14:43:17+00:00" data-subject="Re: Nostaliga road">
 
-We're forming a big group to take out chubby eskimo, everybody come to north gate bh.  :wink:
+We're forming a big group to take out chubby eskimo, everybody come to north gate bh. <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>

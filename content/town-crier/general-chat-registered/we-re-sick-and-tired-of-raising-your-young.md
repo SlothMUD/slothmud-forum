@@ -14,7 +14,7 @@ post_count: 4
 
 This article from Grey Claw, Wolf, at The Onion.
 
-[img:3ga3s948]http://www.theonion.com/content/files/images/onion_opinion216.article.jpg[/img:3ga3s948]
+![](http://www.theonion.com/content/files/images/onion_opinion216.article.jpg)
 
  Listen, humans, I am really starting to get tired of this crap. Get your shit together and learn to keep better track of your young, because we wolves are seriously sick of raising them.
 
@@ -40,13 +40,13 @@ So the next time you lose one of your damn kids in the woods, you can forget abo
 
 <div class="post" data-post-id="10063" data-author="Yasik" data-date="2006-01-10T17:49:43+00:00" data-subject="">
 
-:D
+<img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="10086" data-author="osric" data-date="2006-01-11T18:59:56+00:00" data-subject="">
 
-Now really, what do the Elk know about raising kids! :roll:
+Now really, what do the Elk know about raising kids! <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

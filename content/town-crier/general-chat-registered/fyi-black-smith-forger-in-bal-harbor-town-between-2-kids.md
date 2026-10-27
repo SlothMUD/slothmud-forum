@@ -26,6 +26,6 @@ Thanks Kron for reporting.
 
 Regards,
 
-  Breeze
+ Breeze
 
 </div>

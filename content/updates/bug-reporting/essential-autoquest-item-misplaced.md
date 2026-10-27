@@ -14,65 +14,65 @@ post_count: 4
 
 Seems that a component for a forge that is required for an autoquest no longer pops on the mob it is supposed to and went missing, cp name is bloodstained-crystal-piece.
 
->>Breeze:>bugs that. i cant actually find a pop (mudl or zone) for it atm.'
+\>\>Breeze:\>bugs that. i cant actually find a pop (mudl or zone) for it atm.'
 
->>Breeze tells you 'means someone removed it or it got lost. most likely someone removed by accident'
+\>\>Breeze tells you 'means someone removed it or it got lost. most likely someone removed by accident'
 
 Someone please help, thanks.
 
----------------------------------
+\---------------------------------
 
 Grand Throne Room of Satan
 
-   Cast from the heavens many aeons ago, Satan has been sitting on his 
+ Cast from the heavens many aeons ago, Satan has been sitting on his 
 
-elaborate throne all this time, carefully plotting the downfall of mankind.  
+elaborate throne all this time, carefully plotting the downfall of mankind. 
 
 A corpse burns on the bier in the corner of the room, sending choking 
 
-clouds of black smoke all through the air.  A huge altar stands before the 
+clouds of black smoke all through the air. A huge altar stands before the 
 
 throne, casting off a blinding light, an endless stream of blood issuing 
 
-from a fissure in its side, etching everything in its path.  An evilly 
+from a fissure in its side, etching everything in its path. An evilly 
 
 glowing cross hangs upside down above the door, signifying impending doom.
 
-Exits: South  
+Exits: South 
 
-*(Brilliant Red Aura) The fallen angel, dark god, Lucifer stands presiding over his prison.@
+\*(Brilliant Red Aura) The fallen angel, dark god, Lucifer stands presiding over his prison.@
 
 Lucifer, the dark angel is surrounded by a brightly glowing green sphere!
 
-*(Brilliant Red Aura) The High Priest of Hades watches over the realm in his master's absence.
+\*(Brilliant Red Aura) The High Priest of Hades watches over the realm in his master's absence.
 
 High Priest of Hades is surrounded by a brightly glowing green sphere!
 
 High Priest of Hades is protected by an aerial servant.
 
-<923hp 792ma 356mv>list
+\<923hp 792ma 356mv\>list
 
 I can forge:
 
- Cost      Item
+ Cost Item
 
-----------------------
+\----------------------
 
 (There may be some secret forges available)
 
-----------------------
+\----------------------
 
-* means you need more levels to use it.
+\* means you need more levels to use it.
 
 ! means you are not strong enough to use it.
 
-& means you have studied this spellbook or manual to its max.
+\& means you have studied this spellbook or manual to its max.
 
-+ Means that a list of cps can be viewed.
+\+ Means that a list of cps can be viewed.
 
 Query may also be of use to you, please refer to help query.
 
-<923hp 795ma 356mv>query satan about sins
+\<923hp 795ma 356mv\>query satan about sins
 
 Lucifer, the dark angel tells you 'Ahh yes, quintessence of the sins...Here is a little bit of information for you:'
 
@@ -102,6 +102,6 @@ zuzu poped it last!
 
 This item should now be available once again.
 
--Neptune
+\-Neptune
 
 </div>

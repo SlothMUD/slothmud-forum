@@ -12,7 +12,7 @@ post_count: 4
 
 <div class="post" data-post-id="4626" data-author="Stryker" data-date="2005-02-25T19:03:43+00:00" data-subject="Char for sale/trade...nice stats">
 
-Your levels:  Ma: 40 Wa: 40 Cl: 30 Th: 17 
+Your levels: Ma: 40 Wa: 40 Cl: 30 Th: 17 
 
 You are 29 years and 2 months old.
 
@@ -42,9 +42,9 @@ You are standing.
 
 You are affected by the following spells:
 
-   Detect Invisible                 
+ Detect Invisible 
 
-   Infravision 
+ Infravision 
 
 These are nat stats; no eq; will consider trades for high end forges
 
@@ -52,7 +52,7 @@ These are nat stats; no eq; will consider trades for high end forges
 
 <div class="post" data-post-id="4632" data-author="Roadrunr" data-date="2005-02-26T02:26:38+00:00" data-subject="">
 
-You might want to check those nats again.  Stato for ma/wa puts wis before dex not after.
+You might want to check those nats again. Stato for ma/wa puts wis before dex not after.
 
 </div>
 
@@ -64,6 +64,6 @@ I removed all eq and took a snapshot of the score and as you can see i was only 
 
 <div class="post" data-post-id="4636" data-author="Roadrunr" data-date="2005-02-26T14:11:33+00:00" data-subject="">
 
-Actually, I have a ma/wa/cl/th and her stats are 18.79 18 18 15 15.  And she's been around for quite a while.  I'd start a new one to check but I've sworn off starting more newbies...7 chars is more than plenty.
+Actually, I have a ma/wa/cl/th and her stats are 18.79 18 18 15 15. And she's been around for quite a while. I'd start a new one to check but I've sworn off starting more newbies...7 chars is more than plenty.
 
 </div>

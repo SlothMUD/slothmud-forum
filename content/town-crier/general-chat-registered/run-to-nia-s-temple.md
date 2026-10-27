@@ -20,6 +20,6 @@ It's not a big thing, but you don't need water breath or fly if you follow the l
 
 Just wanted to let you all know, so that that could get fixed. From what I've heard, the biggest danger in that area is the weasels...And the weasel's den is such that it takes effort to get there...
 
-Just trying to help. :)
+Just trying to help. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>

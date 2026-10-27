@@ -12,7 +12,7 @@ post_count: 8
 
 <div class="post" data-post-id="34551" data-author="surfnazi" data-date="2013-11-08T20:54:49+00:00" data-subject="Alignment potion">
 
-Per request from Neptune.  How about selling a potion that will fix a players alignment 500 points in either direction?
+Per request from Neptune. How about selling a potion that will fix a players alignment 500 points in either direction?
 
 </div>
 
@@ -58,7 +58,7 @@ Please don't ever quote me in the manner you've just quoted Neptune. If it were 
 
 I'm so proud of you finally, JB.
 
-- Dr
+\- Dr
 
 </div>
 

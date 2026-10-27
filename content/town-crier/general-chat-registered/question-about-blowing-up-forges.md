@@ -68,7 +68,7 @@ Bad luck.
 
 <div class="post" data-post-id="38679" data-author="*Breeze*" data-date="2018-02-21T04:39:00+00:00" data-subject="Re: Question about blowing up forges">
 
-> **Josiah wrote:**
+> <strong>Josiah wrote:</strong>
 > Partial explosions only apply to recent forges and those that have been updated to use the new system.
 > 
 > 
@@ -91,7 +91,7 @@ very funny, 2 weeks of cycling, 3mil coins and whole lot of good mood
 
 old style forges ftw
 
-<1367hp 546ma 317mv -9.4 indoors +9 412659160exp 3377281coins Mob:->
+\<1367hp 546ma 317mv -9.4 indoors +9 412659160exp 3377281coins Mob:-\>
 
 get all robes
 
@@ -107,23 +107,23 @@ You get robes of the archmagi from the robes of a scoundrel.
 
 You get a shifting cloak from the robes of a scoundrel.
 
-<1367hp 548ma 319mv -9.4 indoors +9 412659160exp 3377281coins Mob:->
+\<1367hp 548ma 319mv -9.4 indoors +9 412659160exp 3377281coins Mob:-\>
 
 You hear a horrible wailing nearby...
 
-<1367hp 549ma 320mv -9.4 indoors +9 412659160exp 3377281coins Mob:->
+\<1367hp 549ma 320mv -9.4 indoors +9 412659160exp 3377281coins Mob:-\>
 
 say ok ready
 
 You say 'ok ready'
 
-<1367hp 550ma 321mv -9.4 indoors +9 412659160exp 3377281coins Mob:->
+\<1367hp 550ma 321mv -9.4 indoors +9 412659160exp 3377281coins Mob:-\>
 
 st
 
 You are already standing.
 
-<1367hp 552ma 323mv -9.4 indoors +9 412659160exp 3377281coins Mob:->
+\<1367hp 552ma 323mv -9.4 indoors +9 412659160exp 3377281coins Mob:-\>
 
 inv
 
@@ -163,17 +163,17 @@ a decanter of endless water
 
 an ancient keychain of the shuggoth lord..It has a soft glowing aura!
 
-<1367hp 552ma 323mv -9.4 indoors +9 412659160exp 3377281coins Mob:->
+\<1367hp 552ma 323mv -9.4 indoors +9 412659160exp 3377281coins Mob:-\>
 
 Taron stops resting, and clambers on his feet.
 
-<1367hp 553ma 324mv -9.4 indoors +9 412659160exp 3377281coins Mob:->
+\<1367hp 553ma 324mv -9.4 indoors +9 412659160exp 3377281coins Mob:-\>
 
 Taron quickly sings a verse of 'hymn of an artisan'.
 
 The slave master relaxes to Taron's song and works with efficiency!
 
-<1367hp 554ma 325mv -9.4 indoors +9 412659160exp 3377281coins Mob:->
+\<1367hp 554ma 325mv -9.4 indoors +9 412659160exp 3377281coins Mob:-\>
 
 forge shroud
 
@@ -187,13 +187,13 @@ A huge explosion throws you to the ground!
 
 The slave master says 'Well there's no chance of making anything now.
 
- :evil:
+ <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="38698" data-author="Gorka" data-date="2018-03-10T11:10:25+00:00" data-subject="Re: Question about blowing up forges">
 
-Ouch, crappy forge too, with those ruin cp's. Time to update old forges?  :wink:
+Ouch, crappy forge too, with those ruin cp's. Time to update old forges? <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -213,7 +213,7 @@ Fin Ten-Boom has been updated to the current forge proc system.
 
 Hope that helps things.
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -223,7 +223,7 @@ The slavemaster in previous posts within this thread has been updated to the cur
 
 Enjoy.
 
--Neptune
+\-Neptune
 
 </div>
 
@@ -231,7 +231,7 @@ Enjoy.
 
 Nep for rank + 1!
 
-Players might want to suggest further upgrades BEFORE doing old forges in the future...  :) Who wants to repeat Sailor Bill or Icanic again... certainly not me.
+Players might want to suggest further upgrades BEFORE doing old forges in the future... <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> Who wants to repeat Sailor Bill or Icanic again... certainly not me.
 
 </div>
 
@@ -239,15 +239,15 @@ Players might want to suggest further upgrades BEFORE doing old forges in the fu
 
 [958hp/242ma/273mv, +96hr/+65mr, -9.6, -%]
 
-Eyeing you up as a possible delicious snack,  Lucifer, the dark 
+Eyeing you up as a possible delicious snack, Lucifer, the dark 
 
-angel, accepts the items you hand him.  He hisses in pain at the piece
+angel, accepts the items you hand him. He hisses in pain at the piece
 
 of crystal stained with the blood of an angel, and roars in anger at the
 
-quintessence of something he has never had: wisdom.  Devouring them in
+quintessence of something he has never had: wisdom. Devouring them in
 
-one mighty gulp,  Lucifer, the dark angel, laughs cruelly in your face
+one mighty gulp, Lucifer, the dark angel, laughs cruelly in your face
 
 as he does nothing.
 
@@ -257,9 +257,9 @@ defective!'
 
 Lucifer, the dark angel tells you 'Here is all I could salvage. Sorry.'
 
-10 MILLION coins and bloodstained crystal down the tubes.  
+10 MILLION coins and bloodstained crystal down the tubes. 
 
-#(p*&#(*$&@()*#&$)@(#*&$)(@#*&#%@#(!!!!!!!!!!!!!!!!
+\#(p\*\&#(\*$\&@()\*#\&$)@(#\*\&$)(@#\*\&#%@#(!!!!!!!!!!!!!!!!
 
 Carry on.
 
@@ -273,6 +273,6 @@ was about 10%, but it has been dramatically reduced.
 
 Hope that helps guys. Be warned, however, that his forge can still fail, but not nearly as often.
 
--N
+\-N
 
 </div>

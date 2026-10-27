@@ -18,13 +18,13 @@ Asking him about quests resulted in server crash.
 
 <div class="post" data-post-id="36749" data-author="*teker*" data-date="2016-03-18T18:19:57+00:00" data-subject="Re: quest trigger - clown marshall in fraternal order of clo">
 
-The crash is fixed but he's still not responding to the question.  I'm trying to figure out why.  Undertake succubus_capture will probably start the quest for you.
+The crash is fixed but he's still not responding to the question. I'm trying to figure out why. Undertake succubus\_capture will probably start the quest for you.
 
 </div>
 
 <div class="post" data-post-id="36750" data-author="*teker*" data-date="2016-03-18T18:34:02+00:00" data-subject="Re: quest trigger - clown marshall in fraternal order of clo">
 
-I just figured out it wasn't working because he couldn't see me.  It should be working fine for you now.
+I just figured out it wasn't working because he couldn't see me. It should be working fine for you now.
 
 </div>
 

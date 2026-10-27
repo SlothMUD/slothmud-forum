@@ -18,6 +18,6 @@ dead
 
 <div class="post" data-post-id="12899" data-author="Weasel" data-date="2006-06-06T21:45:52+00:00" data-subject="">
 
-:( at least you're in the right place for that sort of thing..
+<img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom"> at least you're in the right place for that sort of thing..
 
 </div>

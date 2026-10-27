@@ -12,11 +12,11 @@ post_count: 1
 
 <div class="post" data-post-id="36300" data-author="Hung" data-date="2015-12-11T23:02:04+00:00" data-subject="Cleric">
 
-1) Regen mode
+1\) Regen mode
 
-Hippo Crates  (level: 40)
+Hippo Crates (level: 40)
 
-Your levels:  Cl: 40 Dr: 40 Wa: 38 Ma: 31 Ne: 14 Mo: 12 Th: 10 Ba: 10 
+Your levels: Cl: 40 Dr: 40 Wa: 38 Ma: 31 Ne: 14 Mo: 12 Th: 10 Ba: 10 
 
 You are 18 years, 9 months, 1 day old.
 
@@ -56,75 +56,75 @@ Your song can affect as many as two people.
 
 You are affected by the following spells:
 
-   Detect Evil                      
+ Detect Evil 
 
-   Detect Good                      
+ Detect Good 
 
-   Detect Invisible                 
+ Detect Invisible 
 
-   Sense Life                       
+ Sense Life 
 
-   Infravision                      
+ Infravision 
 
-   Darksight                        
+ Darksight 
 
-   Corpus Severence                 
+ Corpus Severence 
 
-   Stone Skin                       
+ Stone Skin 
 
-   Regeneration                     
+ Regeneration 
 
-   Nature's Revival
+ Nature's Revival
 
 You are using:
 
-<used as light>      eye of the deep (with a flawed glowing gem attached to it)
+\<used as light\> eye of the deep (with a flawed glowing gem attached to it)
 
-<worn on finger>     a carved wooden ring..It has a soft glowing aura!
+\<worn on finger\> a carved wooden ring..It has a soft glowing aura!
 
-<worn on finger>     a carved wooden ring..It has a soft glowing aura!
+\<worn on finger\> a carved wooden ring..It has a soft glowing aura!
 
-<worn on shoulders>  the shoulder guards of divinity..It has a soft glowing aura!
+\<worn on shoulders\> the shoulder guards of divinity..It has a soft glowing aura!
 
-<worn around neck>   an emblem of the sun
+\<worn around neck\> an emblem of the sun
 
-<worn on body>       ruby platemail..It has a soft glowing aura!
+\<worn on body\> ruby platemail..It has a soft glowing aura!
 
-<worn on head>       a powdered wig
+\<worn on head\> a powdered wig
 
-<worn on legs>       a pair of crystalline silk leggings..It has a soft glowing aura!
+\<worn on legs\> a pair of crystalline silk leggings..It has a soft glowing aura!
 
-<worn on feet>       a pair of dolphin skin boots
+\<worn on feet\> a pair of dolphin skin boots
 
-<worn on hands>      a pair of clawed gloves..It has a soft glowing aura!
+\<worn on hands\> a pair of clawed gloves..It has a soft glowing aura!
 
-<worn on arms>       a string of yellow tendon
+\<worn on arms\> a string of yellow tendon
 
-<worn as shield>     a runed shield of the moon..It has a soft glowing aura!
+\<worn as shield\> a runed shield of the moon..It has a soft glowing aura!
 
-<worn about body>    radiant white robes of a healer..It has a soft glowing aura!
+\<worn about body\> radiant white robes of a healer..It has a soft glowing aura!
 
-<worn about waist>   an ethereal sash..It has a soft glowing aura!
+\<worn about waist\> an ethereal sash..It has a soft glowing aura!
 
-<worn around wrist>  tanzanite bracelet..It has a soft glowing aura!
+\<worn around wrist\> tanzanite bracelet..It has a soft glowing aura!
 
-<worn around wrist>  tanzanite bracelet..It has a soft glowing aura!
+\<worn around wrist\> tanzanite bracelet..It has a soft glowing aura!
 
-<held>               a moss-covered pebble
+\<held\> a moss-covered pebble
 
 The following bonuses affect you:
 
-   Damage Red.   :  12% (  1) [||||||                                            ]
+ Damage Red. : 12% ( 1) [\|\|\|\|\|\| ]
 
-   Heal Bonus    :  26% ( 30) [|||||||||||||                                     ]
+ Heal Bonus : 26% ( 30) [\|\|\|\|\|\|\|\|\|\|\|\|\| ]
 
-   Spell Saves   :   9% ( -2) [||||                                              ]
+ Spell Saves : 9% ( -2) [\|\|\|\| ]
 
-2) Heal mode
+2\) Heal mode
 
-Hippo Crates  (level: 40)
+Hippo Crates (level: 40)
 
-Your levels:  Cl: 40 Dr: 40 Wa: 38 Ma: 31 Ne: 14 Mo: 12 Th: 10 Ba: 10 
+Your levels: Cl: 40 Dr: 40 Wa: 38 Ma: 31 Ne: 14 Mo: 12 Th: 10 Ba: 10 
 
 You are 18 years, 9 months, 1 day old.
 
@@ -164,77 +164,77 @@ Your song can affect as many as two people.
 
 You are affected by the following spells:
 
-   Detect Evil                      
+ Detect Evil 
 
-   Detect Good                      
+ Detect Good 
 
-   Detect Invisible                 
+ Detect Invisible 
 
-   Sense Life                       
+ Sense Life 
 
-   Infravision                      
+ Infravision 
 
-   Darksight                        
+ Darksight 
 
-   Corpus Severence                 
+ Corpus Severence 
 
-   Stone Skin                       
+ Stone Skin 
 
-   Regeneration                     
+ Regeneration 
 
-   Nature's Revival
+ Nature's Revival
 
 You are using:
 
-<used as light>      eye of the deep (with a flawed glowing gem attached to it)
+\<used as light\> eye of the deep (with a flawed glowing gem attached to it)
 
-<worn on finger>     a carved wooden ring..It has a soft glowing aura!
+\<worn on finger\> a carved wooden ring..It has a soft glowing aura!
 
-<worn on finger>     a carved wooden ring..It has a soft glowing aura!
+\<worn on finger\> a carved wooden ring..It has a soft glowing aura!
 
-<worn on shoulders>  the shoulder guards of divinity..It has a soft glowing aura!
+\<worn on shoulders\> the shoulder guards of divinity..It has a soft glowing aura!
 
-<worn around neck>   an emblem of the sun
+\<worn around neck\> an emblem of the sun
 
-<worn on body>       ruby platemail..It has a soft glowing aura!
+\<worn on body\> ruby platemail..It has a soft glowing aura!
 
-<worn on head>       the physician's mirror..It has a soft glowing aura!
+\<worn on head\> the physician's mirror..It has a soft glowing aura!
 
-<worn on legs>       a pair of crystalline silk leggings..It has a soft glowing aura!
+\<worn on legs\> a pair of crystalline silk leggings..It has a soft glowing aura!
 
-<worn on feet>       a pair of dolphin skin boots
+\<worn on feet\> a pair of dolphin skin boots
 
-<worn on hands>      a pair of clawed gloves..It has a soft glowing aura!
+\<worn on hands\> a pair of clawed gloves..It has a soft glowing aura!
 
-<worn on arms>       a string of yellow tendon
+\<worn on arms\> a string of yellow tendon
 
-<worn as shield>     a runed shield of the moon..It has a soft glowing aura!
+\<worn as shield\> a runed shield of the moon..It has a soft glowing aura!
 
-<worn about body>    radiant white robes of a healer..It has a soft glowing aura!
+\<worn about body\> radiant white robes of a healer..It has a soft glowing aura!
 
-<worn about waist>   an ethereal sash..It has a soft glowing aura!
+\<worn about waist\> an ethereal sash..It has a soft glowing aura!
 
-<worn around wrist>  a runed onyx bracelet
+\<worn around wrist\> a runed onyx bracelet
 
-<worn around wrist>  tanzanite bracelet..It has a soft glowing aura!
+\<worn around wrist\> tanzanite bracelet..It has a soft glowing aura!
 
-<held>               a heart of a Sheolian
+\<held\> a heart of a Sheolian
 
 The following bonuses affect you:
 
-   Damage Red.   :  12% (  1) [||||||                                            ]
+ Damage Red. : 12% ( 1) [\|\|\|\|\|\| ]
 
-   Heal Bonus    :  42% ( 48) [|||||||||||||||||||||                             ]
+ Heal Bonus : 42% ( 48) [\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\| ]
 
-   Spell Bonus   :   7% (  5) [|||                                               ]
+ Spell Bonus : 7% ( 5) [\|\|\| ]
 
-   Spell Saves   :   9% ( -2) [||||                                              ]
+ Spell Saves : 9% ( -2) [\|\|\|\| ]
 
-3) Solo mode
+3\) Solo mode
 
-Hippo Crates  (level: 40)
+Hippo Crates (level: 40)
 
-Your levels:  Cl: 40 Dr: 40 Wa: 38 Ma: 31 Ne: 14 Mo: 12 Th: 10 Ba: 10 
+Your levels: Cl: 40 Dr: 40 Wa: 38 Ma: 31 Ne: 14 Mo: 12 Th: 10 Ba: 10 
 
 You are 18 years, 9 months, 1 day old.
 
@@ -274,72 +274,72 @@ Your song can affect as many as two people.
 
 You are affected by the following spells:
 
-   Detect Evil                      
+ Detect Evil 
 
-   Detect Good                      
+ Detect Good 
 
-   Detect Invisible                 
+ Detect Invisible 
 
-   Sense Life                       
+ Sense Life 
 
-   Infravision                      
+ Infravision 
 
-   Darksight                        
+ Darksight 
 
-   Corpus Severence                 
+ Corpus Severence 
 
-   Resist Fire                      
+ Resist Fire 
 
-   Resist Cold                      
+ Resist Cold 
 
-   Stone Skin                       
+ Stone Skin 
 
-   Regeneration                     
+ Regeneration 
 
-   Nature's Revival
+ Nature's Revival
 
 You are using:
 
-<used as light>      the lamp of learning
+\<used as light\> the lamp of learning
 
-<worn on finger>     a ring of protection..It emits a faint humming sound!
+\<worn on finger\> a ring of protection..It emits a faint humming sound!
 
-<worn on finger>     a ring of protection..It emits a faint humming sound!
+\<worn on finger\> a ring of protection..It emits a faint humming sound!
 
-<worn around neck>   a cloak of protection (with a purple minidemon brooch attached to it)
+\<worn around neck\> a cloak of protection (with a purple minidemon brooch attached to it)
 
-<worn around neck>   a cloak of protection (with a red minidemon brooch attached to it)
+\<worn around neck\> a cloak of protection (with a red minidemon brooch attached to it)
 
-<worn on body>       a cloth jumper
+\<worn on body\> a cloth jumper
 
-<worn on head>       Amethyst Helm of the Karuto (with a reddish-colored glass eye attached to it)
+\<worn on head\> Amethyst Helm of the Karuto (with a reddish-colored glass eye attached to it)
 
-<worn on legs>       a pair of tarnished silver-plated leggings
+\<worn on legs\> a pair of tarnished silver-plated leggings
 
-<worn on feet>       old leather boots
+\<worn on feet\> old leather boots
 
-<worn on hands>      a pair of clawed gloves..It has a soft glowing aura!
+\<worn on hands\> a pair of clawed gloves..It has a soft glowing aura!
 
-<worn on arms>       bracers of defense..It emits a faint humming sound!
+\<worn on arms\> bracers of defense..It emits a faint humming sound!
 
-<worn as shield>     the Shield of the Rainmaster..It has a soft glowing aura!
+\<worn as shield\> the Shield of the Rainmaster..It has a soft glowing aura!
 
-<worn about body>    a mystical cloak
+\<worn about body\> a mystical cloak
 
-<worn about waist>   a soft white sash
+\<worn about waist\> a soft white sash
 
-<worn around wrist>  a dusty yellow bracelet..It has a soft glowing aura!
+\<worn around wrist\> a dusty yellow bracelet..It has a soft glowing aura!
 
-<worn around wrist>  a dusty yellow bracelet..It has a soft glowing aura!
+\<worn around wrist\> a dusty yellow bracelet..It has a soft glowing aura!
 
-<held>               a symbol of lordly might..It has a soft glowing aura!
+\<held\> a symbol of lordly might..It has a soft glowing aura!
 
 The following bonuses affect you:
 
-   Damage Red.   :  12% (  1) [||||||                                            ]
+ Damage Red. : 12% ( 1) [\|\|\|\|\|\| ]
 
-   Spell Saves   :  80% (-17) [||||||||||||||||||||||||||||||||||||||||          ]
+ Spell Saves : 80% (-17) [\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\| ]
 
-4) Price: 30m
+4\) Price: 30m
 
 </div>

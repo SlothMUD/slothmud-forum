@@ -18,7 +18,7 @@ Yooper prisoner charm
 
 Cracked Crystal Ball
 
-name your price :)
+name your price <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Thanks if you have these, catch me online or post here.
 

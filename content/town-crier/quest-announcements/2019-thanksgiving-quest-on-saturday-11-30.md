@@ -16,10 +16,10 @@ Good day to you all,
 
 We will hold the Thanksgiving Quest at 2PM Pacific on Saturday November 30th.
 
-It will involve..turkeys, at the very least.  That's all I can say for now.
+It will involve..turkeys, at the very least. That's all I can say for now.
 
 I will get a timer link going shortly,
 
-[<LINK_TEXT text="https://www.tickcounter.com/countdown/1 ... ving-quest">https://www.tickcounter.com/countdown/1597708/2019-slothmud-thanksgiving-quest</LINK_TEXT>](https://www.tickcounter.com/countdown/1597708/2019-slothmud-thanksgiving-quest)
+[https://www.tickcounter.com/countdown/1597708/2019-slothmud-thanksgiving-quest](https://www.tickcounter.com/countdown/1597708/2019-slothmud-thanksgiving-quest)
 
 </div>

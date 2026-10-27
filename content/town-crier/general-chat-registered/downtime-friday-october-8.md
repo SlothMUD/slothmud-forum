@@ -62,6 +62,6 @@ Best regards.
 
 its sad when you see a forum post and you look for the non-existent 'like' button.
 
-*slap benq hard*
+\*slap benq hard\*
 
 </div>

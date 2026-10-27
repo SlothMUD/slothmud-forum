@@ -18,13 +18,13 @@ The Bal Harbor Guild alliance has generously provided a space and the funds for 
 
 <div class="post" data-post-id="34031" data-author="Yasik" data-date="2013-02-13T05:28:39+00:00" data-subject="Re: Bal Harbor library is open for business">
 
-***0         a massive spellbook**
+<strong>\*0 a massive spellbook</strong>
 
 Isnt it for Strength spell, that is no longer in game?
 
 Also, why not put at least 1 coin price, just to cover the maintenance expences?
 
-***0         a garnet spellbook**
+<strong>\*0 a garnet spellbook</strong>
 
 Why give away for free, when sun apprentice pops like 100%?
 
@@ -52,7 +52,7 @@ Whatever is wrong with your real life has nothing to do with us. Maybe if you go
 
 <div class="post" data-post-id="34036" data-author="celerra7" data-date="2013-02-13T17:07:22+00:00" data-subject="Re: Bal Harbor library is open for business">
 
-> **Quote:**
+> <strong>Quote:</strong>
 > You're skeptical of all improvements, which i why I've ceased valuing your feedback. It's unfortunate. 
 > 
 > .
@@ -61,13 +61,13 @@ Whatever is wrong with your real life has nothing to do with us. Maybe if you go
 > 
 > Whatever is wrong with your real life has nothing to do with us. Maybe if you got some fresh air and exercise you'd feel differently about everything.
 
-Now look who's the flamer?!  A thread was locked when it was consider the responses too direct at an Immortal.  Then an Imm turns around and makes a direct attack on a player!
+Now look who's the flamer?! A thread was locked when it was consider the responses too direct at an Immortal. Then an Imm turns around and makes a direct attack on a player!
 
-Yasik expressed an opinion here, supported that opinion, and then even gave suggested alternatives.  Are these not the three pieces that the Imm/Support/Creator team is looking for in our forum posts?  
+Yasik expressed an opinion here, supported that opinion, and then even gave suggested alternatives. Are these not the three pieces that the Imm/Support/Creator team is looking for in our forum posts? 
 
-How about another suggestion - copy the Newbatia Library model.  All books (+/- 20) are bought and sold there, why not on BH?
+How about another suggestion - copy the Newbatia Library model. All books (+/- 20) are bought and sold there, why not on BH?
 
-What did Yasik get for the effort??  I'm not a follower of Yasik or JB.  I find good and bad in players and Imms, good and bad in changes.  And I'm certainly not anybody that can affect these (except for my own attitude towards them).  But, if you lay down a "standard" of behavior in one instance (locking threads, for instance), you better believe the community at large will recognize when that standard is ignored elsewhere.
+What did Yasik get for the effort?? I'm not a follower of Yasik or JB. I find good and bad in players and Imms, good and bad in changes. And I'm certainly not anybody that can affect these (except for my own attitude towards them). But, if you lay down a "standard" of behavior in one instance (locking threads, for instance), you better believe the community at large will recognize when that standard is ignored elsewhere.
 
 </div>
 
@@ -87,13 +87,13 @@ And none of you can stop me.
 
 <div class="post" data-post-id="34041" data-author="Stark" data-date="2013-02-14T18:50:29+00:00" data-subject="Re: Bal Harbor library is open for business">
 
-This is fantastic.  No more rooms cluttered with dropped books, and (assuming it works the same way as the valk library) it only takes a glance to see if there's one you need.  :D
+This is fantastic. No more rooms cluttered with dropped books, and (assuming it works the same way as the valk library) it only takes a glance to see if there's one you need. <img src="/images/smilies/icon_e_biggrin.svg" alt=":D" title=":D" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="34060" data-author="*Pixie*" data-date="2013-02-20T19:14:18+00:00" data-subject="Re: Bal Harbor library is open for business">
 
-very nice jb! good job! now when you enter the popular rooms filled with spellbooks you are not spammed by all the books, and do not either have to pick them all up for just one or try to get the keyword right on the book you need. i personally like being able to type list like any other merchant.  as to those taking offense to this new update.. except it as it is, if the books had value off valk people would sell them for profit as they are sold on valk, this makes sense. it frees up the books on the ground, and makes it easier to get the book you need that would normally be laying in a pile of 100 random books.
+very nice jb! good job! now when you enter the popular rooms filled with spellbooks you are not spammed by all the books, and do not either have to pick them all up for just one or try to get the keyword right on the book you need. i personally like being able to type list like any other merchant. as to those taking offense to this new update.. except it as it is, if the books had value off valk people would sell them for profit as they are sold on valk, this makes sense. it frees up the books on the ground, and makes it easier to get the book you need that would normally be laying in a pile of 100 random books.
 
 </div>
 
@@ -101,7 +101,7 @@ very nice jb! good job! now when you enter the popular rooms filled with spellbo
 
 Yes juggleblood rules!
 
-His clown avatar reminds me of that killer clown  :evil:
+His clown avatar reminds me of that killer clown <img src="/images/smilies/icon_evil.svg" alt=":evil:" title=":evil:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

@@ -36,13 +36,13 @@ The prizes for each category are 25 random T1 gems, and 2.5m gold coins for the 
 
 <div class="post" data-post-id="39345" data-author="Josiah" data-date="2020-01-15T17:02:33+00:00" data-subject="Re: Guiness Book of Sloth - Competition!">
 
-I will gladly provide you a log of all the best coin mobs in the mud in exchange for some lutefisk.  Where do I sign up?
+I will gladly provide you a log of all the best coin mobs in the mud in exchange for some lutefisk. Where do I sign up?
 
 </div>
 
 <div class="post" data-post-id="39346" data-author="Gorka" data-date="2020-01-15T19:00:06+00:00" data-subject="Re: Guiness Book of Sloth - Competition!">
 
-:lol: Damn, Exposed me!  :twisted: 
+<img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> Damn, Exposed me! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom"> 
 
 I don't care about the logs, as long as there is no contention about how someone won... that is of course if anyone even tries!
 
@@ -54,17 +54,17 @@ I hope I win by default...
 
 Solo counters elapsed time: 30 minutes (active)
 
-                   Total Earned    Per Hour    Minute    Second     Per Kill
+ Total Earned Per Hour Minute Second Per Kill
 
-                   ------------    --------    ------    ------     --------
+ \------------ -------- ------ ------ --------
 
-Kills                       145                  4.8       0.1 
+Kills 145 4.8 0.1 
 
-Experience Points   246,539,682                  8.2M    137.0k        1.7M
+Experience Points 246,539,682 8.2M 137.0k 1.7M
 
-Gold Coins            1,207,564                 40.3k    670.9         8.3k
+Gold Coins 1,207,564 40.3k 670.9 8.3k
 
-Honor Points                  0
+Honor Points 0
 
 </div>
 
@@ -73,11 +73,11 @@ Honor Points                  0
 ```
 Solo counters elapsed time: 29 minutes, 52 seconds (active)
 
-                   Total Earned        Minute    Second     Per Kill
-                   ------------        ------    ------     --------
-Kills                        12          0.4       0.0 
-Experience Points      55292347          1.9M     30.9k        4.6M
-Gold Coins              1939588         64.9k      1.1k      161.6k
+ Total Earned Minute Second Per Kill
+ ------------ ------ ------ --------
+Kills 12 0.4 0.0 
+Experience Points 55292347 1.9M 30.9k 4.6M
+Gold Coins 1939588 64.9k 1.1k 161.6k
 ```
 
 Took the per hour section out to fit better (no data in it anyway).
@@ -89,12 +89,12 @@ Took the per hour section out to fit better (no data in it anyway).
 ```
 Solo counters elapsed time: 29 minutes, 46 seconds (active)
 
-                   Total Earned Minute Second Per Kill
-                   ------------ ------ ------ --------
-Kills                        36    1.2    0.0 
-Experience Points      72841067   2.4M  40.8k     2.0M
-Gold Coins              2052788  69.0k   1.1k    57.0k
-Honor Points                  0                                            
+ Total Earned Minute Second Per Kill
+ ------------ ------ ------ --------
+Kills 36 1.2 0.0 
+Experience Points 72841067 2.4M 40.8k 2.0M
+Gold Coins 2052788 69.0k 1.1k 57.0k
+Honor Points 0 
 ```
 
 Update.
@@ -103,6 +103,6 @@ Update.
 
 <div class="post" data-post-id="39359" data-author="Gorka" data-date="2020-01-22T09:49:08+00:00" data-subject="Re: Guiness Book of Sloth - Competition!">
 
-Ok, so Bandit (kills) and Roga (coins) are the winners. Obviously I was hoping for more participation. I shouldn't be surprised that the idea of a healthy competition would be met with cynicism and nihilism, when the name of the game is literally "sloth."  :lol: But hey, I tried. Clearly I'm playing the game wrong.
+Ok, so Bandit (kills) and Roga (coins) are the winners. Obviously I was hoping for more participation. I shouldn't be surprised that the idea of a healthy competition would be met with cynicism and nihilism, when the name of the game is literally "sloth." <img src="/images/smilies/icon_lol.svg" alt=":lol:" title=":lol:" width="15" height="15" class="smiley nozoom"> But hey, I tried. Clearly I'm playing the game wrong.
 
 </div>

@@ -12,25 +12,25 @@ post_count: 5
 
 <div class="post" data-post-id="33877" data-author="Burl" data-date="2012-12-31T18:22:51+00:00" data-subject="Can&#x27;t logon">
 
-Anybody else having trouble logging in?  Traceroute is timing out
+Anybody else having trouble logging in? Traceroute is timing out
 
- 10   134 ms    97 ms    94 ms  ae-1-0.pr0.sjc20.tbone.rr.com [66.109.6.143]
+ 10 134 ms 97 ms 94 ms ae-1-0.pr0.sjc20.tbone.rr.com [66.109.6.143]
 
- 11   203 ms   270 ms   209 ms  198.32.176.46
+ 11 203 ms 270 ms 209 ms 198.32.176.46
 
- 12   204 ms   210 ms   206 ms  ra2wh-tge2-1.vc.shawcable.net [66.163.69.186]
+ 12 204 ms 210 ms 206 ms ra2wh-tge2-1.vc.shawcable.net [66.163.69.186]
 
- 13   163 ms   154 ms   180 ms  rx0wh-esecuredata-dot-com.vc.bigpipeinc.com [64.251.87.230]
+ 13 163 ms 154 ms 180 ms rx0wh-esecuredata-dot-com.vc.bigpipeinc.com [64.251.87.230]
 
- 14     *        *        *     Request timed out.
+ 14 \* \* \* Request timed out.
 
- 15     *        *        *     Request timed out.
+ 15 \* \* \* Request timed out.
 
- 16     *        *        *     Request timed out.
+ 16 \* \* \* Request timed out.
 
- 17     *        *        *     Request timed out.
+ 17 \* \* \* Request timed out.
 
- 18     *        *        *     Request timed out.
+ 18 \* \* \* Request timed out.
 
 </div>
 
@@ -54,7 +54,7 @@ It automatically goes to "could not connect"
 
 IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIi wannaplayslothrightnowgoddammit!
 
-:)
+<img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

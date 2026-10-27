@@ -22,7 +22,7 @@ Pi, the longest char
 
 One last request....
 
-If U want more info about my >tf< scripts ask me on-line or send an e-mail to:
+If U want more info about my \>tf\< scripts ask me on-line or send an e-mail to:
 
 smig1o"at"wp.pl
 

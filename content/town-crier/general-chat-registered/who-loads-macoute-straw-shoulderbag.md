@@ -18,7 +18,7 @@ Got this bag years ago and can't remember which mob it came from - and it's not 
 
 <div class="post" data-post-id="13593" data-author="Autolycos" data-date="2006-07-27T15:31:59+00:00" data-subject="">
 
-nope,  but i might have one vaulted.
+nope, but i might have one vaulted.
 
 </div>
 

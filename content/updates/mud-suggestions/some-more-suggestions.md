@@ -14,7 +14,7 @@ post_count: 5
 
 It would be nice if we could somehow sense usage of magical transportation spells in the area. (gate, teleport, etc)
 
-Ppl using many eq sets are really spamming when they start to put their eq in container. My suggestion - make it possible to put *labels* on eq adding user defined keyword to them. It could be a spell or a new shop. Then all they will have to do is *put all.manaset in robe* which is not nearly as spamming as putting items one by one.
+Ppl using many eq sets are really spamming when they start to put their eq in container. My suggestion - make it possible to put \*labels\* on eq adding user defined keyword to them. It could be a spell or a new shop. Then all they will have to do is \*put all.manaset in robe\* which is not nearly as spamming as putting items one by one.
 
 If you don't want to give monks additional bonuses for not using shields, then at least make flurry always active when not using shield (if learned of course).
 
@@ -22,19 +22,22 @@ If you don't want to give monks additional bonuses for not using shields, then a
 
 <div class="post" data-post-id="2810" data-author="Alberich" data-date="2004-11-13T12:09:33+00:00" data-subject="Re: some more suggestions">
 
-It would be nice if we could somehow sense usage of magical transportation spells in the area. (gate, teleport, etc)[/quote:1q5kd8vs]
+> <strong>Alexdmage wrote:</strong>
+> It would be nice if we could somehow sense usage of magical transportation spells in the area. (gate, teleport, etc)
 
 why?
 
-Ppl using many eq sets are really spamming when they start to put their eq in container. My suggestion - make it possible to put *labels* on eq adding user defined keyword to them. It could be a spell or a new shop. Then all they will have to do is *put all.manaset in robe* which is not nearly as spamming as putting items one by one.[/quote:1q5kd8vs]
+> <strong>alexdmage wrote:</strong>
+> Ppl using many eq sets are really spamming when they start to put their eq in container. My suggestion - make it possible to put \*labels\* on eq adding user defined keyword to them. It could be a spell or a new shop. Then all they will have to do is \*put all.manaset in robe\* which is not nearly as spamming as putting items one by one.
 
-restrings!  seriously, this would make things easier, but since you can already do this with just restrings (and quite alot of people have) I do not see it happening as just a spell
+restrings! seriously, this would make things easier, but since you can already do this with just restrings (and quite alot of people have) I do not see it happening as just a spell
 
 </div>
 
 <div class="post" data-post-id="2811" data-author="Weasel" data-date="2004-11-13T14:17:06+00:00" data-subject="Re: some more suggestions">
 
-restrings!  seriously, this would make things easier, but since you can already do this with just restrings (and quite alot of people have) I do not see it happening as just a spell[/quote:10scdyz3]
+> <strong>Alberich wrote:</strong>
+> restrings! seriously, this would make things easier, but since you can already do this with just restrings (and quite alot of people have) I do not see it happening as just a spell
 
 I was informed we were not allowed to do this with restrings. I have no idea why it would be illegal to have much of your eq have some of the same key words, other than it makes it harder for thieves to steal off you... but yeah, it certainly would make eq changing a lot faster and less spammy. (having same keywords would mean all eq is probably named similarly as well, like cast iron legs, cast iron boots, cast iron cuirass etc etc, so 'put all.cast-iron robe' would put most of your eq in your robe in one command/movement.) 
 
@@ -44,7 +47,7 @@ If this 'rule' has been changed, please can some immort advise here.
 
 <div class="post" data-post-id="2812" data-author="Medios" data-date="2004-11-13T14:51:05+00:00" data-subject="">
 
-You can have special key words on your restrings.  What you cant do is take the regular key words out.  If an item is cast iron boots, you cant make key words Medios-tank.  It could be iron-boots-medios-tank however.
+You can have special key words on your restrings. What you cant do is take the regular key words out. If an item is cast iron boots, you cant make key words Medios-tank. It could be iron-boots-medios-tank however.
 
 </div>
 

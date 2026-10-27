@@ -16,23 +16,23 @@ New mage spell called Sandstorm..
 
 "SANDSTORM"
 
-See also:     -
+See also: -
 
-Usage:        cast 'sandstorm'
+Usage: cast 'sandstorm'
 
 Accumulative: No
 
-Duration:     2 hours
+Duration: 2 hours
 
-Level:        mage 35
+Level: mage 35
 
-Save:         -
+Save: -
 
 Spellbook:
 
-Stratum:      Shaping
+Stratum: Shaping
 
-Min Mana:     40
+Min Mana: 40
 
 The mage calls forth strong gusts of wind which ultimately create twisting
 

@@ -12,6 +12,6 @@ post_count: 1
 
 <div class="post" data-post-id="20268" data-author="Alberich" data-date="2007-09-12T19:58:54+00:00" data-subject="happy new years">
 
-[img:1mdhycng]http://www.gfgreetings.com/smlt.jpg[/img:1mdhycng]
+![](http://www.gfgreetings.com/smlt.jpg)
 
 </div>

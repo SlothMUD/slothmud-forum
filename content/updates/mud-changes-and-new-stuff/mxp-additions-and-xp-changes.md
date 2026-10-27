@@ -20,19 +20,19 @@ mxpconfig
 
 MXP configuration:
 
-   PROMPT:      on
+ PROMPT: on
 
-   ITEMS:         on
+ ITEMS: on
 
-   CHANNELS:  on
+ CHANNELS: on
 
-   EXITS:         on
+ EXITS: on
 
-MXPITEMS= will toggle on hyperlinked items that can be picked up using your mouse. Items flagged no_take will not appear hyperlinked, this should cut down on the spam.
+MXPITEMS= will toggle on hyperlinked items that can be picked up using your mouse. Items flagged no\_take will not appear hyperlinked, this should cut down on the spam.
 
 MXPPROMPT= This will turn on our mxp prompt. However, at this time we are unsure what this will be, most likely some type of compass, etc
 
-MXPCHANNELS= Allows the player to send safe_mxp tags across most public and private channels.
+MXPCHANNELS= Allows the player to send safe\_mxp tags across most public and private channels.
 
 MXPEXITS= Enables hyperlinkes and menued exits. These exits allow click to move, scan, and look in that direction
 
@@ -46,7 +46,7 @@ Enjoy,
 
 Splork
 
-BTW, some of our mxp additions will remain on permanantly and will not be able to be configured with mxpconfig. One such example: our revamped mxp helps. This is simply because I feel they warrent it :twisted:
+BTW, some of our mxp additions will remain on permanantly and will not be able to be configured with mxpconfig. One such example: our revamped mxp helps. This is simply because I feel they warrent it <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

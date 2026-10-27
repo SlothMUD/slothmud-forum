@@ -12,7 +12,7 @@ post_count: 13
 
 <div class="post" data-post-id="27451" data-author="marge" data-date="2008-12-14T18:13:30+00:00" data-subject="We need noobs.">
 
-You guys have any suggestions on how we can recruit more bodies? The who list been slack lately for this time of year.  :(
+You guys have any suggestions on how we can recruit more bodies? The who list been slack lately for this time of year. <img src="/images/smilies/icon_e_sad.svg" alt=":(" title=":(" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -32,13 +32,13 @@ Because i definitely heard someone said 'boobs'...
 
 <div class="post" data-post-id="27465" data-author="sgoertzen" data-date="2008-12-15T18:30:35+00:00" data-subject="">
 
-I'm a newbie - to this MUD.  And I am really enjoying it.  So thanks to the admins, and keep it up :)
+I'm a newbie - to this MUD. And I am really enjoying it. So thanks to the admins, and keep it up <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="27466" data-author="Akasha" data-date="2008-12-15T18:35:03+00:00" data-subject="">
 
-I'm thinking about making a slothmud Myspace page and start a gaming group to possibly attract some players from the gaming genre.  
+I'm thinking about making a slothmud Myspace page and start a gaming group to possibly attract some players from the gaming genre. 
 
 Your suggestions, input, and ideas for content would be appreciated as would an indication of just how many of you use Myspace in the first place.
 
@@ -100,13 +100,13 @@ Hey guys i happened across the site looking for avalon stuff , and am gonna try 
 
 Speaking about helping newbs getting eq/money - would be nice to put back coins on kittens and ferrets in Newbatia town, those are first mobs a player tries to kill and he/she still need cash to level up. Do you really expect new-comers to find out fast about 'subdue' and animal market dealer? Weakest mob with coins is female-citizen, but she isn't a guaranteed kill for 1 level char, especially casters.
 
-Also, can anyone add an "target=_blank" to an image at which we click when we vote. This adds usability, i think.
+Also, can anyone add an "target=\_blank" to an image at which we click when we vote. This adds usability, i think.
 
 </div>
 
 <div class="post" data-post-id="27496" data-author="Clink" data-date="2008-12-18T18:42:20+00:00" data-subject="">
 
-We don't like putting coins on animals that shouldn't be carrying them.  Yes, we know there are examples scattered around the mud that we'd like to correct.
+We don't like putting coins on animals that shouldn't be carrying them. Yes, we know there are examples scattered around the mud that we'd like to correct.
 
 We are looking at ways to get more coins available to true newbies as we believe your suggestion is valid.
 
@@ -118,6 +118,6 @@ Clinke
 
 <div class="post" data-post-id="27497" data-author="jezer" data-date="2008-12-18T22:22:18+00:00" data-subject="">
 
-[img:39jpme7y]http://icanhascheezburger.files.wordpress.com/2007/05/money.jpg[/img:39jpme7y]
+![](http://icanhascheezburger.files.wordpress.com/2007/05/money.jpg)
 
 </div>

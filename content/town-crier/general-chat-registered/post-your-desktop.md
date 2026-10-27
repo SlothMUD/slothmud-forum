@@ -22,15 +22,15 @@ Yes, you will need to find somewhere to host it.
 
 <div class="post" data-post-id="18279" data-author="Autolycos" data-date="2007-05-04T11:55:49+00:00" data-subject="">
 
-laugh  800x600....
+laugh 800x600....
 
-you shrink down dual 1280x1024 to 800x600 and you wont be able to see anything  :x
+you shrink down dual 1280x1024 to 800x600 and you wont be able to see anything <img src="/images/smilies/icon_mad.svg" alt=":x" title=":x" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="18280" data-author="Jag" data-date="2007-05-04T12:20:06+00:00" data-subject="">
 
-You want to see my wintin, firefox and excel icons?  My desktop is boring.  
+You want to see my wintin, firefox and excel icons? My desktop is boring. 
 
 I guess I would be interested in what you could possibly have on yours to make it worth a look.
 
@@ -50,13 +50,13 @@ Do you man windows desktop? or configured mud client interface?
 
 My desktop is illegal in 51 states, and several dozen countries as well...love those mother/daughter picnics...
 
-<Shazuko Roku Ryuu>
+\<Shazuko Roku Ryuu\>
 
-<Shazuko Six Dragons>
+\<Shazuko Six Dragons\>
 
-<~Chaos~>
+\<\~Chaos\~\>
 
----
+\---
 
 "hey, that ain't muh bellybutton"
 
@@ -70,7 +70,7 @@ LOL ok so I was bored. Yup I just meant your windows desktop - saw a similar thr
 
 Not much to see on mine - minimalist. (1280 x 1024 res):
 
-[img:2nuge7px]http://urbanscrawl.net/images/misc/desktop.jpg[/img:2nuge7px]
+![](http://urbanscrawl.net/images/misc/desktop.jpg)
 
 </div>
 
@@ -78,15 +78,15 @@ Not much to see on mine - minimalist. (1280 x 1024 res):
 
 Here ya go...
 
-[img:19yb6off]http://www.geocities.com/saudixpat/desktop2.jpg[/img:19yb6off]
+![](http://www.geocities.com/saudixpat/desktop2.jpg)
 
-[img:19yb6off]http://www.geocities.com/saudixpat/desktop.jpg[/img:19yb6off]
+![](http://www.geocities.com/saudixpat/desktop.jpg)
 
 </div>
 
 <div class="post" data-post-id="18285" data-author="Weasel" data-date="2007-05-04T15:19:10+00:00" data-subject="">
 
-LOL nice - pizza, beer, peanut butter, coke (even though it's pepsi) and a hard copy map of DOT - what else could anyone possibly need. :)
+LOL nice - pizza, beer, peanut butter, coke (even though it's pepsi) and a hard copy map of DOT - what else could anyone possibly need. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 Oh - and a picture of a weasel on your screen, just for that touch of class. hehe.
 
@@ -96,7 +96,7 @@ Oh - and a picture of a weasel on your screen, just for that touch of class. heh
 
 here's an old one
 
-[img:oktg3f99]http://home.earthlink.net/~althalus/images/daily_old.jpg[/img:oktg3f99]
+![](http://home.earthlink.net/~althalus/images/daily_old.jpg)
 
 </div>
 
@@ -108,35 +108,35 @@ hmm linux - never used it.
 
 <div class="post" data-post-id="18371" data-author="Avatar" data-date="2007-05-07T14:15:47+00:00" data-subject="transparent">
 
-That transparent console window is nice.  I'll have to try to figure a way to do that with Windows.
+That transparent console window is nice. I'll have to try to figure a way to do that with Windows.
 
 </div>
 
 <div class="post" data-post-id="18457" data-author="Yasik" data-date="2007-05-09T18:58:23+00:00" data-subject="">
 
-[img:30btluot]http://yasik.mci.kiev.ua/MyDesktop.jpg[/img:30btluot]
+![](http://yasik.mci.kiev.ua/MyDesktop.jpg)
 
 </div>
 
 <div class="post" data-post-id="18458" data-author="Autolycos" data-date="2007-05-09T19:18:10+00:00" data-subject="">
 
-nice yasik... futurama rockz!   :twisted:
+nice yasik... futurama rockz! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="18459" data-author="Vixn" data-date="2007-05-09T21:05:22+00:00" data-subject="">
 
-Strange, Yasik uses Russian version of windows, not Ukrainian :)
+Strange, Yasik uses Russian version of windows, not Ukrainian <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-It would be fun! Translate it!  :twisted:
+It would be fun! Translate it! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="18460" data-author="Assirian" data-date="2007-05-10T06:11:27+00:00" data-subject="">
 
-finally... i hosted this :)
+finally... i hosted this <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-[img:1a0t5s3m]http://www.pravoporyadok-ro.ru/mpp/online_test/assdesk.jpg[/img:1a0t5s3m]
+![](http://www.pravoporyadok-ro.ru/mpp/online_test/assdesk.jpg)
 
 </div>
 
@@ -150,29 +150,29 @@ deleted
 
 Here are my multiple desktops...
 
-[img:3u3rg29s]http://a805.ac-images.myspacecdn.com/images01/24/m_1dcd4c2dc4e50596e1eb8a3a6b226a44.jpg[/img:3u3rg29s]
+![](http://a805.ac-images.myspacecdn.com/images01/24/m_1dcd4c2dc4e50596e1eb8a3a6b226a44.jpg)
 
 and here.
 
-[img:3u3rg29s]http://a851.ac-images.myspacecdn.com/images01/11/m_2f935db4e792a881630bfe688bc2d8c2.jpg[/img:3u3rg29s]
+![](http://a851.ac-images.myspacecdn.com/images01/11/m_2f935db4e792a881630bfe688bc2d8c2.jpg)
 
 and here.
 
-[img:3u3rg29s]http://a824.ac-images.myspacecdn.com/images01/5/m_49bb9097f918d6e58b3f808fac48f4af.jpg[/img:3u3rg29s]
+![](http://a824.ac-images.myspacecdn.com/images01/5/m_49bb9097f918d6e58b3f808fac48f4af.jpg)
 
 </div>
 
 <div class="post" data-post-id="18470" data-author="Autolycos" data-date="2007-05-11T20:01:15+00:00" data-subject="">
 
-[b:m2w1wdod]MY TURN! [/b:m2w1wdod] 
+<strong>MY TURN!</strong> 
 
-[img:m2w1wdod]http://www.xgenco.com/sloth3/DSCF3524.JPG[/img:m2w1wdod]
+![](http://www.xgenco.com/sloth3/DSCF3524.JPG)
 
 </div>
 
 <div class="post" data-post-id="18471" data-author="tincts" data-date="2007-05-12T02:18:08+00:00" data-subject="">
 
-*sniff*  It's beautiful. . .
+\*sniff\* It's beautiful. . .
 
 </div>
 
@@ -186,7 +186,7 @@ That's pretty Jason... why the mousepad for the blind though?
 
 Just a little paintshop boredom on my part for the background.
 
-[img:1rhcgq48]http://i209.photobucket.com/albums/bb76/dbscott2034/MyDTop.jpg[/img:1rhcgq48]
+![](http://i209.photobucket.com/albums/bb76/dbscott2034/MyDTop.jpg)
 
 Akasha
 
@@ -198,18 +198,23 @@ Hey, Jason...
 
 Aren't you missing a bottle of rum or 2?
 
- :P
+ <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="18476" data-author="Autolycos" data-date="2007-05-12T21:32:34+00:00" data-subject="">
 
-Hey, Jason...
+> <strong>Corinn wrote:</strong>
+> Hey, Jason...
+> 
+> 
+> 
+> Aren't you missing a bottle of rum or 2?
+> 
+> 
+> 
+> <img src="/images/smilies/icon_razz.svg" alt=":P" title=":P" width="15" height="15" class="smiley nozoom">
 
-Aren't you missing a bottle of rum or 2?
-
- :P[/quote:3dxbjpb4]
-
-alas... the rum is always gone  :x
+alas... the rum is always gone <img src="/images/smilies/icon_mad.svg" alt=":x" title=":x" width="15" height="15" class="smiley nozoom">
 
 </div>

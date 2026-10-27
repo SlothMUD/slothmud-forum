@@ -12,9 +12,9 @@ post_count: 16
 
 <div class="post" data-post-id="7641" data-author="Toxis" data-date="2005-06-28T08:50:15+00:00" data-subject="Dying">
 
-Why is it you have to reconnect to the mud when you die?  Kinda seems like a hassle to me.  Isn't it possible to rebirth the character at recall point without having to cut the connection to the player?
+Why is it you have to reconnect to the mud when you die? Kinda seems like a hassle to me. Isn't it possible to rebirth the character at recall point without having to cut the connection to the player?
 
--Brad
+\-Brad
 
 </div>
 
@@ -26,13 +26,13 @@ I like it the way it is; there's more oomph to dying if you get cut off and have
 
 <div class="post" data-post-id="7648" data-author="Ozzy" data-date="2005-06-28T14:24:57+00:00" data-subject="">
 
-I aint gonna test it >:]
+I aint gonna test it \>:]
 
 </div>
 
 <div class="post" data-post-id="7649" data-author="Ditheca" data-date="2005-06-28T14:43:51+00:00" data-subject="">
 
-That'd suck if you died while afk at recall :)
+That'd suck if you died while afk at recall <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -48,7 +48,7 @@ dead in Oly level 2
 
 Love those mobs that don't loot.
 
-...or are you saying you finished off that oly mob with a duck  :)
+...or are you saying you finished off that oly mob with a duck <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -66,7 +66,7 @@ nearly dead.. pls help
 
 <div class="post" data-post-id="7775" data-author="Weasel" data-date="2005-07-07T19:56:28+00:00" data-subject="">
 
-UP thanks to Deju :)
+UP thanks to Deju <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 must remember not to remove carb greaves underwater.. heh
 
@@ -74,7 +74,7 @@ must remember not to remove carb greaves underwater.. heh
 
 <div class="post" data-post-id="8360" data-author="Turbo" data-date="2005-08-21T22:42:28+00:00" data-subject="">
 
-Hey Kjartan, I bet you'd like it even more if we still had to wait in a queue of 15 people to get in after dying! :-)
+Hey Kjartan, I bet you'd like it even more if we still had to wait in a queue of 15 people to get in after dying! <img src="/images/smilies/icon_e_smile.svg" alt=":-)" title=":-)" width="15" height="15" class="smiley nozoom">
 
 Turbo
 
@@ -96,11 +96,11 @@ Your patience is rewarded...
 
 <div class="post" data-post-id="8362" data-author="Taki" data-date="2005-08-22T16:26:57+00:00" data-subject="">
 
-:shock: 
+<img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom"> 
 
 That is horror in its pure essence!
 
- :shock:
+ <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>
 

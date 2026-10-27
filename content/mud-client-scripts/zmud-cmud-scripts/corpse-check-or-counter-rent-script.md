@@ -12,7 +12,7 @@ post_count: 4
 
 <div class="post" data-post-id="30383" data-author="Thraxas" data-date="2009-11-26T13:51:42+00:00" data-subject="Corpse Check or Counter / Rent script">
 
-As a necro I often wander round with a robe full of dead corpses [i:x4oke5pk](stopped myself for a sec there and tried to think of any other context in which that statement would make sense)[/i:x4oke5pk]
+As a necro I often wander round with a robe full of dead corpses <em>(stopped myself for a sec there and tried to think of any other context in which that statement would make sense)</em>
 
 If you rent with corpses in inv or a robe you pay a high rent cost and corpses still poof.
 
@@ -42,9 +42,9 @@ It's not bad at all as a newbie with equipment, although that scorched link mail
 
 Two other quick points.
 
-* In most RPG's rent costs but only because it restores you to full health.
+\* In most RPG's rent costs but only because it restores you to full health.
 
-* It's annoying when people "sleep" at recall points and activate scripts to remain active, just to simply avoid paying rent because they have a spellbook or something.
+\* It's annoying when people "sleep" at recall points and activate scripts to remain active, just to simply avoid paying rent because they have a spellbook or something.
 
 In general I'm ok with rent, but there is a point being crossed where it's counter productive to the game.
 
@@ -52,7 +52,7 @@ In general I'm ok with rent, but there is a point being crossed where it's count
 
 <div class="post" data-post-id="30388" data-author="*juggleblood*" data-date="2009-11-27T20:59:32+00:00" data-subject="">
 
-Corpse rent is calculated in code. To me, doesn't seem fair to poof the corpse and charge you some obscene rent. Talked someone into changing it.  Just a matter of tracking down the code and changing it.
+Corpse rent is calculated in code. To me, doesn't seem fair to poof the corpse and charge you some obscene rent. Talked someone into changing it. Just a matter of tracking down the code and changing it.
 
 Policing sleeper bots would be a headache and cause a lot of crying. Gotta pick my battles, and that ain't one of em...
 

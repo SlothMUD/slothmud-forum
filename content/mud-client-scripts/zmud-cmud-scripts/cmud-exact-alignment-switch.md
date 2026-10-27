@@ -14,11 +14,11 @@ post_count: 2
 
 ```
 #switch (%mud.currentalign > 999) {#var Alignment %insert(.,%mud.currentalign,3)} 
-  (%mud.currentalign < -999) {#var Alignment %insert(.,%mud.currentalign,4)}
-  {#var Alignment %insert(.,%mud.currentalign,2)}
+ (%mud.currentalign < -999) {#var Alignment %insert(.,%mud.currentalign,4)}
+ {#var Alignment %insert(.,%mud.currentalign,2)}
 ```
 
-Throw this in a trigger that fires fairly often like one for your prompt and it will capture your exact alignment into the variable @Alignment  .  Assuming you have MXP enabled.  You can then display that variable how ever you want, status window, button caption, echo from alias, or even #sub it to the end of your prompt if you wanted.
+Throw this in a trigger that fires fairly often like one for your prompt and it will capture your exact alignment into the variable @Alignment . Assuming you have MXP enabled. You can then display that variable how ever you want, status window, button caption, echo from alias, or even #sub it to the end of your prompt if you wanted.
 
 </div>
 
@@ -26,9 +26,9 @@ Throw this in a trigger that fires fairly often like one for your prompt and it 
 
 ```
 #switch (%mud.currentalign > 999) {#var Alignment %insert(.,%mud.currentalign,3)} 
-  (%mud.currentalign < -999) {#var Alignment %insert(.,%mud.currentalign,4)}
-  (%mud.currentalign < -99) {#var Alignment %insert(.,%mud.currentalign,3)}
-  {#var Alignment %insert(.,%mud.currentalign,2)}
+ (%mud.currentalign < -999) {#var Alignment %insert(.,%mud.currentalign,4)}
+ (%mud.currentalign < -99) {#var Alignment %insert(.,%mud.currentalign,3)}
+ {#var Alignment %insert(.,%mud.currentalign,2)}
 ```
 
 forgot a line when i was pasting this should be right.

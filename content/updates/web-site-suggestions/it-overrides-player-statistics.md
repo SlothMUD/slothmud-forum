@@ -30,7 +30,7 @@ Firefox v19.0.2
 
 Chrome v25.0.1364.152m
 
-all current browsers.  
+all current browsers. 
 
 the only way that wouldn't work is if the CSS files failed to load (which considering the webhost, it wouldnt surprise me)
 

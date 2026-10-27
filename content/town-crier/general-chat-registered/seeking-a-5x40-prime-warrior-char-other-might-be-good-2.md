@@ -16,6 +16,6 @@ Would like to seek the services of a high level warrior-type to use the
 
 notorious 'sharpen' skill on my axe. If such a person would be willing to help, please let me know what items I need to gather and what you require for such services.Contact Victor ingame if game.
 
- :roll:
+ <img src="/images/smilies/icon_rolleyes.svg" alt=":roll:" title=":roll:" width="15" height="15" class="smiley nozoom">
 
 </div>

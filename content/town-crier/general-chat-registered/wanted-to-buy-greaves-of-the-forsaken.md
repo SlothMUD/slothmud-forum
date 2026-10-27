@@ -38,7 +38,7 @@ can trade Greaves of War as part of the deal
 
 <div class="post" data-post-id="25578" data-author="13" data-date="2008-08-04T12:33:46+00:00" data-subject="">
 
-go work for them cocksucker.  gold is good for jack shit on this game except
+go work for them cocksucker. gold is good for jack shit on this game except
 
 buying reroll tokens.
 
@@ -58,6 +58,6 @@ well f you then too mf ! and cs and sob !
 
 <div class="post" data-post-id="25603" data-author="slobe" data-date="2008-08-05T18:55:42+00:00" data-subject="">
 
-what the f*** ever man u work for them and then give them to me tool
+what the f\*\*\* ever man u work for them and then give them to me tool
 
 </div>

@@ -20,6 +20,6 @@ I've got a restring + coins and other random eq availiable for trade, catch me o
 
 <div class="post" data-post-id="6818" data-author="Ditheca" data-date="2005-06-05T01:35:39+00:00" data-subject="Got it!">
 
-Okay not quite, but i have 4 of the cps, so I don't need to trade for a cincture until my forge blows up!  Thanks all
+Okay not quite, but i have 4 of the cps, so I don't need to trade for a cincture until my forge blows up! Thanks all
 
 </div>

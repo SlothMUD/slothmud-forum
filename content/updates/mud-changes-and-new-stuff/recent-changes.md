@@ -20,7 +20,7 @@ post_count: 1
 
 4)Bug which forced druid/necromencers in form to have to much lag during the ordering of followers has been fixed.(Thanks Lorraine)
 
-5) Reign of Spider has been adjusted to work more accordingly:-)
+5\) Reign of Spider has been adjusted to work more accordingly:-)
 
 Enjoy,
 

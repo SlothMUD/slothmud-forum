@@ -12,45 +12,43 @@ post_count: 3
 
 <div class="post" data-post-id="31367" data-author="Dragoth" data-date="2010-07-23T13:52:09+00:00" data-subject="Random generator">
 
-712hp 719ma 230mv>Ok.
+712hp 719ma 230mv\>Ok.
 
 You start glowing.
 
-<712hp 644ma 230mv>cast 'dark cloak'Anrok
+\<712hp 644ma 230mv\>cast 'dark cloak'Anrok
 
 You lost your concentration!
 
-<712hp 633ma 231mv>cast 'dark cloak'Anrok
+\<712hp 633ma 231mv\>cast 'dark cloak'Anrok
 
 A small red hamster leaves north.
 
-<712hp 636ma 233mv>You lost your concentration!
+\<712hp 636ma 233mv\>You lost your concentration!
 
-<712hp 621ma 233mv>cast 'dark cloak'Anrok
-
-You lost your concentration!
-
-<712hp 609ma 234mv>cast 'dark cloak'Anrok
+\<712hp 621ma 233mv\>cast 'dark cloak'Anrok
 
 You lost your concentration!
 
-<712hp 597ma 236mv>cast 'dark cloak'Anrok
+\<712hp 609ma 234mv\>cast 'dark cloak'Anrok
 
 You lost your concentration!
 
-<712hp 585ma 237mv>cast 'dark cloak'Anrok
+\<712hp 597ma 236mv\>cast 'dark cloak'Anrok
+
+You lost your concentration!
+
+\<712hp 585ma 237mv\>cast 'dark cloak'Anrok
 
 A small red hamster arrives from the north.
 
-<712hp 586ma 238mv>You lost your concentration!
+\<712hp 586ma 238mv\>You lost your concentration!
 
-<712hp 573ma 238mv>cast 'dark cloak'Anrok
+\<712hp 573ma 238mv\>cast 'dark cloak'Anrok
 
 You lost your concentration!
 
- 
-
-dark cloak                    - Lvl: 38, Mana: 30, Learned  50% [-45]
+dark cloak - Lvl: 38, Mana: 30, Learned 50% [-45]
 
 7 fails in a row at 50% has a 1 in 128 chance of happening, thats 0.78%!
 
@@ -60,7 +58,7 @@ I guess I am that unlucky huh!
 
 <div class="post" data-post-id="31368" data-author="*juggleblood*" data-date="2010-07-23T20:53:08+00:00" data-subject="Re: Random generator">
 
-Yes you are :)
+Yes you are <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 I used to suspect that the random number generator was streaky. So I wrote a number of scripts that just rolled dice 1d2 1d3 1d4 and tracked results. The spread that I got in the end was near perfect.
 
@@ -68,6 +66,6 @@ I used to suspect that the random number generator was streaky. So I wrote a num
 
 <div class="post" data-post-id="31369" data-author="Dragoth" data-date="2010-07-24T06:27:59+00:00" data-subject="Re: Random generator">
 
-spooky!  :shock:
+spooky! <img src="/images/smilies/icon_eek.svg" alt=":shock:" title=":shock:" width="15" height="15" class="smiley nozoom">
 
 </div>

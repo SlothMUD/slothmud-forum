@@ -16,7 +16,7 @@ I've been having a play with putting mxp links into my own zmud scripts to conto
 
 A cut down version of the code is as follows:
 
-#MXP AH <send "w;s;e;e|w;w;s;s;s;e;e;n|n;e;e;e;e;e;s;open gate;s;w;s|ahvault" "inn|moran|bank|vault">Run Menu</send>
+\#MXP AH \<send "w;s;e;e\|w;w;s;s;s;e;e;n\|n;e;e;e;e;e;s;open gate;s;w;s\|ahvault" "inn\|moran\|bank\|vault"\>Run Menu\</send\>
 
 This send a line to the main mud window as follows:
 

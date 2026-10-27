@@ -14,10 +14,10 @@ post_count: 1
 
 You grouptell: 'jokin with al on icq'
 
-Toxis[Clan:The Dogs of War]> 'yeah?'
+Toxis[Clan:The Dogs of War]\> 'yeah?'
 
 You grouptell: 'he calls me a fag every morning'
 
-Toxis -- '*DaWarriAh* heh, that's his way of saying hi'
+Toxis -- '\*DaWarriAh\* heh, that's his way of saying hi'
 
 </div>

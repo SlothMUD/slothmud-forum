@@ -14,15 +14,15 @@ post_count: 2
 
 [http://www.baldursgate.com/](http://www.baldursgate.com/)
 
-*ENHANCED EDITION!
+<em>ENHANCED EDITION!</em>
 
-- New Adventure (deep within the Underdark(!@#$% mind flayers %$#@! beholders)
+<em>\- New Adventure (deep within the Underdark(!@#$% mind flayers %$#@! beholders)</em>
 
-- 3 New Characters
+<em>\- 3 New Characters</em>
 
-- 400+ Improvements (can use class kits, new subraces and classes that were previously unavailable, native support for high resolution and widescreen displays, etc)
+<em>\- 400+ Improvements (can use class kits, new subraces and classes that were previously unavailable, native support for high resolution and widescreen displays, etc)</em>
 
-Adventurers on iPad, Mac, PC and Android Tablets will then all play Baldur's Gate: Enhanced Edition together.*
+<em>Adventurers on iPad, Mac, PC and Android Tablets will then all play Baldur's Gate: Enhanced Edition together.</em>
 
 My first thought was like "aww jeez, reroll, not again!".
 
@@ -40,10 +40,10 @@ Not sure if it comes with addon "Deeper Dungeons", will see in a while.
 
 They say the offer is untile Sunday Feb 16 10:59 GMT, so lets hurry.
 
-PS. lalala :)  8) 
+PS. lalala <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> <img src="/images/smilies/icon_cool.svg" alt="8)" title="8)" width="15" height="15" class="smiley nozoom"> 
 
 Dungeon Keeper Gold Edition was released 31 December 1998, in North America. It was not a sequel but a repackaging. It contained the original game, Deeper Dungeons, 3D patches, a game editor, and a novella.
 
-(image: /[<LINK_TEXT text="https://dl.dropboxusercontent.com/u/721 ... r_GOLD.jpg">https://dl.dropboxusercontent.com/u/72105811/Pics/Dungeon_Keeper_GOLD.jpg</LINK_TEXT>](https://dl.dropboxusercontent.com/u/72105811/Pics/Dungeon_Keeper_GOLD.jpg))
+![](https://dl.dropboxusercontent.com/u/72105811/Pics/Dungeon_Keeper_GOLD.jpg)
 
 </div>

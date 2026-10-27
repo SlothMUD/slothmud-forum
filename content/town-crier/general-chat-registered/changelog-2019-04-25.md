@@ -12,9 +12,9 @@ post_count: 1
 
 <div class="post" data-post-id="39178" data-author="*teker*" data-date="2019-04-25T16:56:33+00:00" data-subject="Changelog 2019-04-25">
 
-As posted elsewhere, BONUS_WEAPON_DAMAGE is fixed.
+As posted elsewhere, BONUS\_WEAPON\_DAMAGE is fixed.
 
-I undid the changes that were made to the avatar shop MAX_stat values.  You should have your natural 19s back.
+I undid the changes that were made to the avatar shop MAX\_stat values. You should have your natural 19s back.
 
 You should no longer be able to rescue mobs in order to engage other players.
 

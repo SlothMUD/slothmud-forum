@@ -18,10 +18,10 @@ We will have a quest (not that big of one) on Sunday, May 28th at 10AM Pacific.
 
 A countdown link is provided below:
 
-[<LINK_TEXT text="https://www.tickcounter.com/countdown/4 ... -day-quest">https://www.tickcounter.com/countdown/4147758/2023-slothmud-memorial-day-quest</LINK_TEXT>](https://www.tickcounter.com/countdown/4147758/2023-slothmud-memorial-day-quest)
+[https://www.tickcounter.com/countdown/4147758/2023-slothmud-memorial-day-quest](https://www.tickcounter.com/countdown/4147758/2023-slothmud-memorial-day-quest)
 
 See you then!
 
---Idj
+\--Idj
 
 </div>

@@ -24,13 +24,13 @@ Ps I am done voting for sloth
 
 "solo some kick ass eq" ..if you can do that with whatever your classo is, then you're almost certainly overpowered.. depending what you mean by 'kick ass eq' of course..
 
-Most top of the line eq has almost always been group-level to get for however many years I have been here, in fact it would appear easier now to solo some big mobs than it ever was previously - depending on your classo of course (and I'm certainly not talking about the old classo's). heh. I sympathize with what you're saying though - just ask Splork - I'm perma-whine apparently.  :twisted:
+Most top of the line eq has almost always been group-level to get for however many years I have been here, in fact it would appear easier now to solo some big mobs than it ever was previously - depending on your classo of course (and I'm certainly not talking about the old classo's). heh. I sympathize with what you're saying though - just ask Splork - I'm perma-whine apparently. <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
 <div class="post" data-post-id="13004" data-author="Medios" data-date="2006-06-16T23:43:21+00:00" data-subject="">
 
-This posting cracks me up.  Your done voting for sloth. LOL  You think the imms are gonna jump in there and fix the nerf just because you wont vote.  This post just shows how childish you are.  Necros are still powerful as hell and you dont know wtf your talking about.  Also if you think you can solo every piece of eq on the game your crazy,  at some point your going to have to group unless you want to run around with eq that looks like Rawr.  
+This posting cracks me up. Your done voting for sloth. LOL You think the imms are gonna jump in there and fix the nerf just because you wont vote. This post just shows how childish you are. Necros are still powerful as hell and you dont know wtf your talking about. Also if you think you can solo every piece of eq on the game your crazy, at some point your going to have to group unless you want to run around with eq that looks like Rawr. 
 
 Mike
 
@@ -38,7 +38,7 @@ Mike
 
 <div class="post" data-post-id="13005" data-author="12345" data-date="2006-06-16T23:57:41+00:00" data-subject="">
 
-Depends how you look at it.  Most players can solo some kick ass eq. Just not all of it :)
+Depends how you look at it. Most players can solo some kick ass eq. Just not all of it <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -46,13 +46,13 @@ Depends how you look at it.  Most players can solo some kick ass eq. Just not al
 
 Normally I could care less, but I figured I'd chime in for a change.
 
-I've been away for a year, so I've missed most of the growth of the new classes.  In the short time that I've been back these past 2 weeks, Ive seen people do mobs that we would never have dreamed of doing before I left.  
+I've been away for a year, so I've missed most of the growth of the new classes. In the short time that I've been back these past 2 weeks, Ive seen people do mobs that we would never have dreamed of doing before I left. 
 
-I've seen 2 people do mobs that before I left would have taken a group of several players.  I have to agree that any small nerfs are needed at this point.  
+I've seen 2 people do mobs that before I left would have taken a group of several players. I have to agree that any small nerfs are needed at this point. 
 
-I've tried other games (those who know me know where I went when I left), and part of the fun of this game was the challenge and level of difficulty.  As with any game, if things get too easy, it becomes extremely boring.  
+I've tried other games (those who know me know where I went when I left), and part of the fun of this game was the challenge and level of difficulty. As with any game, if things get too easy, it becomes extremely boring. 
 
-If you want an easy game to play, I hear Finding Nemo is easy enough ;)
+If you want an easy game to play, I hear Finding Nemo is easy enough <img src="/images/smilies/icon_e_wink.svg" alt=";)" title=";)" width="15" height="15" class="smiley nozoom">
 
 Akasha
 
@@ -60,7 +60,7 @@ Akasha
 
 <div class="post" data-post-id="13007" data-author="Weasel" data-date="2006-06-17T05:58:36+00:00" data-subject="">
 
-welcome back :)
+welcome back <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -84,13 +84,13 @@ Also, on a side note when is sloth 4 coming? I think ive asked this before.....h
 
 <div class="post" data-post-id="13011" data-author="Gimlet" data-date="2006-06-17T09:26:47+00:00" data-subject="">
 
-it's hardly considered a "nerf" if it's not doing what the admin/coders intended it to do in the first place.  skills have been going in that have not been thoroughly tested, and it's hard to get the expected outcome just by looking at/thinking up lines of code.  it's also hard to anticipate how certain skills would turn out, when combined with other skills.
+it's hardly considered a "nerf" if it's not doing what the admin/coders intended it to do in the first place. skills have been going in that have not been thoroughly tested, and it's hard to get the expected outcome just by looking at/thinking up lines of code. it's also hard to anticipate how certain skills would turn out, when combined with other skills.
 
-if the admin never intended for juju's to allow necro's to get 500mil xp per hr, then i really don't see why necro's should really be bitching about changes.  It isn't really a change in the first place, since it's adjusting the skill to fit with the original concept, whereas a change would be to alter something to be different from what u had wanted.
+if the admin never intended for juju's to allow necro's to get 500mil xp per hr, then i really don't see why necro's should really be bitching about changes. It isn't really a change in the first place, since it's adjusting the skill to fit with the original concept, whereas a change would be to alter something to be different from what u had wanted.
 
-the mud has never been more dynamic as it is right now, and it really irks me to hear the constant bitching about how things suck, classos are unbalanced, etc etc.  do you really want a mud that's stagnant, and where imms log in once every 2-3 mths (like they used to in the past.)?  I've never seen a more commited group of admin as we have right now, who put in countless hrs for our enjoyment (most of them don't even play a mortal!)
+the mud has never been more dynamic as it is right now, and it really irks me to hear the constant bitching about how things suck, classos are unbalanced, etc etc. do you really want a mud that's stagnant, and where imms log in once every 2-3 mths (like they used to in the past.)? I've never seen a more commited group of admin as we have right now, who put in countless hrs for our enjoyment (most of them don't even play a mortal!)
 
-the mud isn't less fun just because your firewind does 50 less damage, or if your juju takes less hits.  it becomes more challenging, yes, but less fun?  i really doubt it.  I guess alot of people have fallen into a comfort zone where they go through the same routine for every mob they kill, and when they have to figure out new stuff, they get a little anal about it.
+the mud isn't less fun just because your firewind does 50 less damage, or if your juju takes less hits. it becomes more challenging, yes, but less fun? i really doubt it. I guess alot of people have fallen into a comfort zone where they go through the same routine for every mob they kill, and when they have to figure out new stuff, they get a little anal about it.
 
 just my 2 cents.
 
@@ -98,21 +98,23 @@ just my 2 cents.
 
 <div class="post" data-post-id="13012" data-author="brady" data-date="2006-06-17T15:43:39+00:00" data-subject="">
 
-[quote:1i3uu71w]Well thats my rant so yea enjoy a game where you have to depend on others to get good stuff. 
+> <strong>Quote:</strong>
+> Well thats my rant so yea enjoy a game where you have to depend on others to get good stuff. 
+> 
+> Ps I am done voting for sloth
 
-Ps I am done voting for sloth[/quote:1i3uu71w]
+STFU and go! I'm so tired of reading that bullshit.
 
-STFU and go!  I'm so tired of reading that bullshit.
+On the other hand, nobody likes a reduction in power. I just wonder if the your assessment of necros is based on the evaluation of a few very capable undead maniacs. Or is it the onslaught of necros lately that I see humping their own corpses? I think we need to take a look at these crazy ass clerics with their spirit watchers and pit fiends. 
 
-On the other hand, nobody likes a reduction in power.  I just wonder if the your assessment of necros is based on the evaluation of a few very capable undead maniacs.  Or is it the onslaught of necros lately that I see humping their own corpses?  I think we need to take a look at these crazy ass clerics with their spirit watchers and pit fiends.  
-
-Oh, and I blame Akasha.  Welcome back but please...pay less attention.  Let the carnage continue...
+Oh, and I blame Akasha. Welcome back but please...pay less attention. Let the carnage continue...
 
 </div>
 
 <div class="post" data-post-id="13013" data-author="Medios" data-date="2006-06-17T16:27:32+00:00" data-subject="">
 
-[quote:3c7lw2fr] I think we need to take a look at these crazy ass clerics with their spirit watchers and pit fiends.  [/quote:3c7lw2fr]
+> <strong>Quote:</strong>
+> I think we need to take a look at these crazy ass clerics with their spirit watchers and pit fiends.
 
 Yeh those damn spirit watchers!! Overpower monster killahs!
 
@@ -216,7 +218,7 @@ Combat
 
 Duration: special
 
-Usage Extinguish <target> <spell>
+Usage Extinguish \<target\> \<spell\>
 
 Removes one spell effect from target. Does not remove offensive spells such as web, demon bind etc. Mindbar will block, except when cast against mind bar specifically.
 
@@ -262,7 +264,7 @@ Duration: 1 tick
 
 Combat
 
-Allows necromancer to use recall scrolls *on others* even when demon bound.
+Allows necromancer to use recall scrolls \*on others\* even when demon bound.
 
 Notes: Again, the group use of this is obvious. The necro isn't going anywhere, but can use a recall to get a fellow PC out of trouble.
 
@@ -280,11 +282,11 @@ Balance could be attained by giving mobs a spell proc in place of one attack, or
 
 I believe the classes are fairly well balanced as is. I see no more reason to "nerf" necromancers anymore. All the old classes have been upgraded incredibly; in fact I am amazed at how powerful they are. I don't have any sympathy for anyone anymore that says necromancers are overpowered; cause they aren't.
 
-If anything, necromancers are incredibly underpowered in groups.  What do we do? Weaken and blast destruction? LOL. I am attuned to necromancy and even then my weakens only land 1/3rd of the time.  By the time I've landed it, the mob is dead. And what does it do? Lowers mob strength by a whopping 3 str! Also, I felt useful in groups infusing corpses for the main tank when there were avatar bonuses and heal gear bonuses to them. Now they only heal the main tank for 100.
+If anything, necromancers are incredibly underpowered in groups. What do we do? Weaken and blast destruction? LOL. I am attuned to necromancy and even then my weakens only land 1/3rd of the time. By the time I've landed it, the mob is dead. And what does it do? Lowers mob strength by a whopping 3 str! Also, I felt useful in groups infusing corpses for the main tank when there were avatar bonuses and heal gear bonuses to them. Now they only heal the main tank for 100.
 
-How about adding some skills/spells to necromancer to be more useful in groups, like Marchessa said.  How about modifiying the master soul infusion so it gets avatar heal bonus if the tank, in the point position, while grouped with more than 2 players, is in the same room? (or somethign along those lines).
+How about adding some skills/spells to necromancer to be more useful in groups, like Marchessa said. How about modifiying the master soul infusion so it gets avatar heal bonus if the tank, in the point position, while grouped with more than 2 players, is in the same room? (or somethign along those lines).
 
-I don't feel stronger than many prime classes. Only reason I've hit the top20 the past 3 weeks is cause of my play time (which has been all day every day for the past few weeks).  And if you notice, most of my recent xp is coming from grouping. I enjoy grouping.  I agree this game is about grouping, but also people like to solo at times; doing small eq mobs and drachma quests etc.  Some like to solo for money runs and xp (e.g. thieves ).
+I don't feel stronger than many prime classes. Only reason I've hit the top20 the past 3 weeks is cause of my play time (which has been all day every day for the past few weeks). And if you notice, most of my recent xp is coming from grouping. I enjoy grouping. I agree this game is about grouping, but also people like to solo at times; doing small eq mobs and drachma quests etc. Some like to solo for money runs and xp (e.g. thieves ).
 
 Melanthe
 
@@ -292,19 +294,19 @@ Melanthe
 
 <div class="post" data-post-id="13065" data-author="12345" data-date="2006-06-21T21:32:45+00:00" data-subject="">
 
-Saying weaken isn't useful in groups is plain silly.  In fact, I have several necros that I routinely ask to join my groups specifically for weakening.
+Saying weaken isn't useful in groups is plain silly. In fact, I have several necros that I routinely ask to join my groups specifically for weakening.
 
-Only lowers 3 str?  Do you have any idea what you just said?  Let me clear it up for you.
+Only lowers 3 str? Do you have any idea what you just said? Let me clear it up for you.
 
-Take your average 18/100 str mob.  Lower it's strenth to 18/70 and it loses +1 hit and +3 damage per hit.
+Take your average 18/100 str mob. Lower it's strenth to 18/70 and it loses +1 hit and +3 damage per hit.
 
-Nevermind that the entire idea behind debuffed mobs is to lower their +hit to the point they can't hit anything.  This is -1 hit more than anything that was possible before the spell existed.  It's the entire difference between killing a 5 mil mob at level 1x40 and killing a 25 mil mob at 1x40.
+Nevermind that the entire idea behind debuffed mobs is to lower their +hit to the point they can't hit anything. This is -1 hit more than anything that was possible before the spell existed. It's the entire difference between killing a 5 mil mob at level 1x40 and killing a 25 mil mob at 1x40.
 
 Even running -10 with damn/web/blinds, this spell can reduce the damage I take from mobs by 50% just from the -hit.
 
-You get a +hit from strength at 17, 18/51 and 18/100.  Any reduction in strength that causes a mob to cross one of those borders makes a necro invaluable to the group.  If you're fighting a mob of 16 strength or lower, the spell doesn't do you any good... but when was the last time you fought one of those off valk in a serious group?
+You get a +hit from strength at 17, 18/51 and 18/100. Any reduction in strength that causes a mob to cross one of those borders makes a necro invaluable to the group. If you're fighting a mob of 16 strength or lower, the spell doesn't do you any good... but when was the last time you fought one of those off valk in a serious group?
 
-And I know many necros that are attuned and can rapidly weaken a mob.  Usually I try to have at least 2 dedicated to weakening to overcome saves.  Hell, I have the entire group blinding for the same reason, why should this spell be any different?
+And I know many necros that are attuned and can rapidly weaken a mob. Usually I try to have at least 2 dedicated to weakening to overcome saves. Hell, I have the entire group blinding for the same reason, why should this spell be any different?
 
 If you don't think you're useful in groups, your leader isn't using you right.
 
@@ -312,17 +314,17 @@ If you don't think you're useful in groups, your leader isn't using you right.
 
 <div class="post" data-post-id="13066" data-author="Avatar" data-date="2006-06-21T22:14:40+00:00" data-subject="Further feedback">
 
-I'll echo everything 12345 said.  Weaken just rocks, plain and simple.  If you're getting (attuned) a successful weaken 1/3 of the time, that's wonderful.  Non-attuned I'd estimate success at 1/10 maybe, and even then it's well worth spamming weakens.
+I'll echo everything 12345 said. Weaken just rocks, plain and simple. If you're getting (attuned) a successful weaken 1/3 of the time, that's wonderful. Non-attuned I'd estimate success at 1/10 maybe, and even then it's well worth spamming weakens.
 
-** of course depending on the mobs.  If you're running stab/blast it's usually not worth waiting for debuffs.  If, as you say, by the time you've cast it 3 times the mob is dead, you may be using it against the wrong mobs.
+\*\* of course depending on the mobs. If you're running stab/blast it's usually not worth waiting for debuffs. If, as you say, by the time you've cast it 3 times the mob is dead, you may be using it against the wrong mobs.
 
-It's unfortunate that necro's don't have anything specific to do AFTER the weaken, but complaining about weaken is silly.  I guess that's what a class order is for, after weaken we can try to use skills from one of our other three classes.
+It's unfortunate that necro's don't have anything specific to do AFTER the weaken, but complaining about weaken is silly. I guess that's what a class order is for, after weaken we can try to use skills from one of our other three classes.
 
 </div>
 
 <div class="post" data-post-id="13067" data-author="Melanthe" data-date="2006-06-21T23:04:21+00:00" data-subject="">
 
-Well in my experience with weaken and blind, blind seems to about 5 times more valuable.  But I guess I could be wrong.
+Well in my experience with weaken and blind, blind seems to about 5 times more valuable. But I guess I could be wrong.
 
 Melanthe
 
@@ -330,11 +332,11 @@ Melanthe
 
 <div class="post" data-post-id="13068" data-author="Roadrunr" data-date="2006-06-21T23:30:14+00:00" data-subject="">
 
-I'll correct 12345 and take the blame off the leader.  There are plenty of things you can do in a group.  You have 4 classes.  If you cant find something to do after weaken, you're not trying very hard.
+I'll correct 12345 and take the blame off the leader. There are plenty of things you can do in a group. You have 4 classes. If you cant find something to do after weaken, you're not trying very hard.
 
 As a tank, I'll take 100hp souls, better than nothing when the healo falls asleep and I'm already out of mana...it happens more than it should, one of the reasons I run so much mana.
 
-And Melanthe, do you really want to say that you dont feel any more powerful than any other prime class?  How would you know unless you've played them to the same level you are now?
+And Melanthe, do you really want to say that you dont feel any more powerful than any other prime class? How would you know unless you've played them to the same level you are now?
 
 So now that the clerics aren't so disgruntled its the necro's turn to whine?
 
@@ -344,7 +346,7 @@ I think we need a chaos night so I can properly vent. (and die repeatedly w/o co
 
 <div class="post" data-post-id="13069" data-author="Avatar" data-date="2006-06-21T23:35:09+00:00" data-subject="weaken">
 
-Well, like many things in life I'd say "It depends."  Weaken has a few advantages.  Weaken has a longer duration.  Weaken works on every mob.  Weaken doesn't get removed if the target heals self.
+Well, like many things in life I'd say "It depends." Weaken has a few advantages. Weaken has a longer duration. Weaken works on every mob. Weaken doesn't get removed if the target heals self.
 
 Best of all, although it's not an advantage vs. blind, weaken stacks with blind.
 
@@ -352,11 +354,11 @@ Best of all, although it's not an advantage vs. blind, weaken stacks with blind.
 
 <div class="post" data-post-id="13070" data-author="12345" data-date="2006-06-21T23:40:37+00:00" data-subject="">
 
-To be precise, in your experience, blind is -4 to hit, weaken is a potential -1.  Blind is 4x more useful.  Blind and Acid Blast also have duration problems.  I've frequently asked for a reblind, I can't ever remember having asked for a reweaken unless someone dispelled it.
+To be precise, in your experience, blind is -4 to hit, weaken is a potential -1. Blind is 4x more useful. Blind and Acid Blast also have duration problems. I've frequently asked for a reblind, I can't ever remember having asked for a reweaken unless someone dispelled it.
 
-Like any spell, it's only as useful as the way you use it.  Take the vault protector in the BH Castle... probably the bestest example.  You have a mob that is infinately thick, and with -10/damn/blind/web and say... 5 group members, you'll probably have to reblind it at least once and drain your healo chopping him down.  ~32 mil payoff means everyone caps, then you rest up for another run.  Or, if you weaken, everyone can take a nap and regen for the next mob because he just can't hit you.
+Like any spell, it's only as useful as the way you use it. Take the vault protector in the BH Castle... probably the bestest example. You have a mob that is infinately thick, and with -10/damn/blind/web and say... 5 group members, you'll probably have to reblind it at least once and drain your healo chopping him down. \~32 mil payoff means everyone caps, then you rest up for another run. Or, if you weaken, everyone can take a nap and regen for the next mob because he just can't hit you.
 
-If you have a mob that hits on an 18 of 20 with all those spells and you weaken him, he needs a 19 in 20 to hit.  That means you're only taking 50% of the damage you would have taken without the spell.  If you want to back it up to 17 to 18, that's still a 33% improvement.  Either way, that's hps that the healo doesn't have to replace.  Considering the incredible difference in cost of weaken and restore... I'll opt for the weakeners every day of the week.
+If you have a mob that hits on an 18 of 20 with all those spells and you weaken him, he needs a 19 in 20 to hit. That means you're only taking 50% of the damage you would have taken without the spell. If you want to back it up to 17 to 18, that's still a 33% improvement. Either way, that's hps that the healo doesn't have to replace. Considering the incredible difference in cost of weaken and restore... I'll opt for the weakeners every day of the week.
 
 You'll always run into mobs that will beat strongly through debuffs... that's what mages are for.
 
@@ -364,39 +366,36 @@ You'll always run into mobs that will beat strongly through debuffs... that's wh
 
 <div class="post" data-post-id="13071" data-author="Melanthe" data-date="2006-06-21T23:44:13+00:00" data-subject="">
 
-I'll correct 12345 and take the blame off the leader.  There are plenty of things you can do in a group.  You have 4 classes.  If you cant find something to do after weaken, you're not trying very hard.
+> <strong>Roadrunr wrote:</strong>
+> I'll correct 12345 and take the blame off the leader. There are plenty of things you can do in a group. You have 4 classes. If you cant find something to do after weaken, you're not trying very hard.
 
-[/quote:3soozyb9]
+Of course I use my other class skills in group. E.g. cleric, floating on heals. But Marchessa and I are talking about \*prime skills\* here.
 
-Of course I use my other class skills in group. E.g. cleric, floating on heals. But Marchessa and I are talking about *prime skills* here.
-
-As a tank, I'll take 100hp souls, better than nothing when the healo falls asleep and I'm already out of mana...it happens more than it should, one of the reasons I run so much mana.
-
-[/quote:3soozyb9]
+> <strong>Roadrunr wrote:</strong>
+> As a tank, I'll take 100hp souls, better than nothing when the healo falls asleep and I'm already out of mana...it happens more than it should, one of the reasons I run so much mana.
 
 Sure they are useful still. Just not as useful.
 
-And Melanthe, do you really want to say that you dont feel any more powerful than any other prime class?  How would you know unless you've played them to the same level you are now?
-
-[/quote:3soozyb9]
+> <strong>Roadrunr wrote:</strong>
+> And Melanthe, do you really want to say that you dont feel any more powerful than any other prime class? How would you know unless you've played them to the same level you are now?
 
 Cause I've talked to many 5x40 and know what they are capable of. And I've played other classes.
 
-So now that the clerics aren't so disgruntled its the necro's turn to whine?
-
-[/quote:3soozyb9]
+> <strong>Roadrunr wrote:</strong>
+> So now that the clerics aren't so disgruntled its the necro's turn to whine?
 
 I think others are uneccesarily whining about necromancer's power, disregarding their own powerful skills.
 
-I think we need a chaos night so I can properly vent. (and die repeatedly w/o consequence).[/quote:3soozyb9]
+> <strong>Roadrunr wrote:</strong>
+> I think we need a chaos night so I can properly vent. (and die repeatedly w/o consequence).
 
-I am cool, no need to vent here.  I will play my classo regardless of anymore nerfs. Live with what I got.
+I am cool, no need to vent here. I will play my classo regardless of anymore nerfs. Live with what I got.
 
 </div>
 
 <div class="post" data-post-id="13072" data-author="Gimlet" data-date="2006-06-22T02:47:50+00:00" data-subject="">
 
-talking about *prime classes*?
+talking about \*prime classes\*?
 
 I just have one reply for you and marchessa then
 
@@ -414,29 +413,33 @@ Mike
 
 <div class="post" data-post-id="13074" data-author="12345" data-date="2006-06-22T03:11:46+00:00" data-subject="">
 
-I think I said average...  I wanted to use numbers that could be easily confirmed in the game.  A mob with strength of 19 or higher works just as well though, and in the case of strenght 25, works even better than the examples given.
+I think I said average... I wanted to use numbers that could be easily confirmed in the game. A mob with strength of 19 or higher works just as well though, and in the case of strenght 25, works even better than the examples given.
 
 </div>
 
 <div class="post" data-post-id="13075" data-author="Avatar" data-date="2006-06-22T04:18:43+00:00" data-subject="necro">
 
-I haven't played necro prime to any respectable level, but I have played two characters with necro in the classo to avatar levels.  I agree with RR, it's difficult to talk about relative power unless you've played the classes and "learned" how to play them.  Necro definitely has it's own style of play.  They are strong at some things and weak at others.
+I haven't played necro prime to any respectable level, but I have played two characters with necro in the classo to avatar levels. I agree with RR, it's difficult to talk about relative power unless you've played the classes and "learned" how to play them. Necro definitely has it's own style of play. They are strong at some things and weak at others.
 
-What was my point?  I don't want to ramble too much.  It seems that necro's don't get much sympathy when complaining about their weaknesses.  My guess is because their strengths are so apparent.
+What was my point? I don't want to ramble too much. It seems that necro's don't get much sympathy when complaining about their weaknesses. My guess is because their strengths are so apparent.
 
 </div>
 
 <div class="post" data-post-id="13076" data-author="Roadrunr" data-date="2006-06-22T05:53:55+00:00" data-subject="Re: Necromancer">
 
-How about adding some skills/spells to necromancer to be more useful in groups, like Marchessa said.  How about modifiying the master soul infusion so it gets avatar heal bonus if the tank, in the point position, while grouped with more than 2 players, is in the same room? (or somethign along those lines).Melanthe[/quote:kot2q4it]
+> <strong>Melanthe wrote:</strong>
+> How about adding some skills/spells to necromancer to be more useful in groups, like Marchessa said. How about modifiying the master soul infusion so it gets avatar heal bonus if the tank, in the point position, while grouped with more than 2 players, is in the same room? (or somethign along those lines).Melanthe
 
-And why dont we have pigs fly out of the tanks butt while playing trumpets if there are more than 3 people in the group too...they could do some proc damage upon landing on the mob maybe while providing some massive damage bonus to all necro pets due to the trumpets while we're at it.  Stop asking for stupid shit.
+And why dont we have pigs fly out of the tanks butt while playing trumpets if there are more than 3 people in the group too...they could do some proc damage upon landing on the mob maybe while providing some massive damage bonus to all necro pets due to the trumpets while we're at it. Stop asking for stupid shit.
 
-I don't feel stronger than many prime classes. Only reason I've hit the top20 the past 3 weeks is cause of my play time (which has been all day every day for the past few weeks).  [b:kot2q4it]And if you notice, most of my recent xp is coming from grouping.[/b:kot2q4it] I enjoy grouping.  I agree this game is about grouping, but also people like to solo at times; doing small eq mobs and drachma quests etc.  Some like to solo for money runs and xp (e.g. thieves ).
+> <strong>Melanthe wrote:</strong>
+> I don't feel stronger than many prime classes. Only reason I've hit the top20 the past 3 weeks is cause of my play time (which has been all day every day for the past few weeks). <strong>And if you notice, most of my recent xp is coming from grouping.</strong> I enjoy grouping. I agree this game is about grouping, but also people like to solo at times; doing small eq mobs and drachma quests etc. Some like to solo for money runs and xp (e.g. thieves ).
+> 
+> 
+> 
+> Melanthe
 
-Melanthe[/quote:kot2q4it]
-
-Only reason you hit the top 20?  You mean topped?  And wow, you must have some nasty short term memory loss that you forgot all of last week...err the last month...most of your recent xp in groups indeed.  I submit the following ....
+Only reason you hit the top 20? You mean topped? And wow, you must have some nasty short term memory loss that you forgot all of last week...err the last month...most of your recent xp in groups indeed. I submit the following ....
 
 1 Melanthe 1,258,856,764 
 
@@ -542,19 +545,19 @@ Players killed (legally or not) 0
 
 Deaths 10
 
-Yup, you sure did get most of your xp from grouping lately....ummm one thing....your pets dont officially count as a group.  I will say, those are pretty impressive totals to me (I know, they're probably pathetic by necro standards but hey, I'm just a simple warrior who remembers when it took more than 3 weeks to go from 1x40 to 3x40 (nearly 4x40).  You prove my point well.  Necros needed a nerf (probably still do.)
+Yup, you sure did get most of your xp from grouping lately....ummm one thing....your pets dont officially count as a group. I will say, those are pretty impressive totals to me (I know, they're probably pathetic by necro standards but hey, I'm just a simple warrior who remembers when it took more than 3 weeks to go from 1x40 to 3x40 (nearly 4x40). You prove my point well. Necros needed a nerf (probably still do.)
 
 </div>
 
 <div class="post" data-post-id="13077" data-author="Weasel" data-date="2006-06-22T06:16:01+00:00" data-subject="">
 
-wtf? Thanks for those enlightening stats RR - I don't believe I've ever achieved that much solo exp in one week at 5x40 let alone 2x40, and yes, I have spent a lot of time online some weeks as well.. damn that's just insane..  All this does is highlight just how excessively overpowered they appear to be, particularly solo, so might be a good time to stop complaining before the coders realize that they haven't nerfed anywhere near enough as yet..
+wtf? Thanks for those enlightening stats RR - I don't believe I've ever achieved that much solo exp in one week at 5x40 let alone 2x40, and yes, I have spent a lot of time online some weeks as well.. damn that's just insane.. All this does is highlight just how excessively overpowered they appear to be, particularly solo, so might be a good time to stop complaining before the coders realize that they haven't nerfed anywhere near enough as yet..
 
 </div>
 
 <div class="post" data-post-id="13079" data-author="Guinex" data-date="2006-06-22T08:58:26+00:00" data-subject="">
 
-RR sad as this may sound even Fyrstenheart xped faster than that, ahem he was a prime warrior.  I don't really think melanthe's xp numbers for a week are that impressive for someone that is online for 18 hours a day.
+RR sad as this may sound even Fyrstenheart xped faster than that, ahem he was a prime warrior. I don't really think melanthe's xp numbers for a week are that impressive for someone that is online for 18 hours a day.
 
 Im not trying to back melanthe or anything, but give me a break.
 
@@ -564,11 +567,11 @@ Oh yea, fyrstenheart didn't even realise his pets worth worth using til he was a
 
 <div class="post" data-post-id="13080" data-author="Melanthe" data-date="2006-06-22T10:32:41+00:00" data-subject="">
 
-Thanks for the flame RR. LOL. Calm down. All of my recent xp is from *grouping*, as I stated, regardless of what you posted just now. Look at the Top 20 for the next week and you'll see. (Or heck why don't you finger me when I am online and see for yourself.)
+Thanks for the flame RR. LOL. Calm down. All of my recent xp is from \*grouping\*, as I stated, regardless of what you posted just now. Look at the Top 20 for the next week and you'll see. (Or heck why don't you finger me when I am online and see for yourself.)
 
 Guinex, I could of xp'd more, but I've spent an awful lot of time cycling eq, and drachma mobs (1006 drachma so far yay!) Snicker.
 
-I can't help it if I know the game and how to xp fast shrug.  And I play too much.  Has nothing to do with my classo. I'll get *any* prime class to this lvl in the same amount of time.
+I can't help it if I know the game and how to xp fast shrug. And I play too much. Has nothing to do with my classo. I'll get \*any\* prime class to this lvl in the same amount of time.
 
 Lol,
 
@@ -578,25 +581,37 @@ Melanthe
 
 <div class="post" data-post-id="13081" data-author="Roadrunr" data-date="2006-06-22T12:58:08+00:00" data-subject="">
 
-RR sad as this may sound even Fyrstenheart xped faster than that, ahem he was a prime warrior.  I don't really think melanthe's xp numbers for a week are that impressive for someone that is online for 18 hours a day.
+> <strong>Guinex wrote:</strong>
+> RR sad as this may sound even Fyrstenheart xped faster than that, ahem he was a prime warrior. I don't really think melanthe's xp numbers for a week are that impressive for someone that is online for 18 hours a day.
+> 
+> 
+> 
+> Im not trying to back melanthe or anything, but give me a break.
+> 
+> 
+> 
+> Oh yea, fyrstenheart didn't even realise his pets worth worth using til he was almost 4x40.
 
-Im not trying to back melanthe or anything, but give me a break.
+I suppose you may be right, my view may be skewed since I'm rarely on for more than 2-3 hours a night if that. My point wasnt so much the amount of xp but rather the fact that 85% of it was solo when Melanthe claimed to gain most of his/her xp recently from groups.
 
-Oh yea, fyrstenheart didn't even realise his pets worth worth using til he was almost 4x40.[/quote:1ni817t0]
+> <strong>Melanthe wrote:</strong>
+> Thanks for the flame RR. LOL. Calm down. All of my recent xp is from \*grouping\*, as I stated, regardless of what you posted just now. Look at the Top 20 for the next week and you'll see. (Or heck why don't you finger me when I am online and see for yourself.)
+> 
+> 
+> 
+> Guinex, I could of xp'd more, but I've spent an awful lot of time cycling eq, and drachma mobs (1006 drachma so far yay!) Snicker.
+> 
+> 
+> 
+> I can't help it if I know the game and how to xp fast shrug. And I play too much. Has nothing to do with my classo. I'll get \*any\* prime class to this lvl in the same amount of time.
+> 
+> 
+> 
+> Lol,
+> 
+> Melanthe
 
-I suppose you may be right, my view may be skewed since I'm rarely on for more than 2-3 hours a night if that.  My point wasnt so much the amount of xp but rather the fact that 85% of it was solo when Melanthe claimed to gain most of his/her xp recently from groups.
-
-Thanks for the flame RR. LOL. Calm down. All of my recent xp is from *grouping*, as I stated, regardless of what you posted just now. Look at the Top 20 for the next week and you'll see. (Or heck why don't you finger me when I am online and see for yourself.)
-
-Guinex, I could of xp'd more, but I've spent an awful lot of time cycling eq, and drachma mobs (1006 drachma so far yay!) Snicker.
-
-I can't help it if I know the game and how to xp fast shrug.  And I play too much.  Has nothing to do with my classo. I'll get *any* prime class to this lvl in the same amount of time.
-
-Lol,
-
-Melanthe[/quote:1ni817t0]
-
-wow, and modest too.  It DOES have something to to with classo.  Try a Cleric-Mage-Warrior-Bard and see if you can solo from 1x40 to 3x40 in 2 weeks.
+wow, and modest too. It DOES have something to to with classo. Try a Cleric-Mage-Warrior-Bard and see if you can solo from 1x40 to 3x40 in 2 weeks.
 
 Apparently recently means 3-4 days to you, to me it means 3-4 weeks
 
@@ -604,9 +619,9 @@ Apparently recently means 3-4 days to you, to me it means 3-4 weeks
 
 <div class="post" data-post-id="13082" data-author="Avatar" data-date="2006-06-22T12:59:47+00:00" data-subject="necro">
 
-Wow, for a 3x40 to collect enough exps to be 4th on the 4x40 list seems pretty rare.  
+Wow, for a 3x40 to collect enough exps to be 4th on the 4x40 list seems pretty rare. 
 
-I appreciate how RR posts numbers when everyone else posts opinions.  Obviously there is some reason for the imms to be balancing.
+I appreciate how RR posts numbers when everyone else posts opinions. Obviously there is some reason for the imms to be balancing.
 
 Charles
 
@@ -614,11 +629,11 @@ Charles
 
 <div class="post" data-post-id="13083" data-author="Melanthe" data-date="2006-06-22T14:24:52+00:00" data-subject="">
 
-Well RR, this week I got 1.3m from grouping and 500m soloing. (3x more from grouping.. this is what I have been referring to).  :)
+Well RR, this week I got 1.3m from grouping and 500m soloing. (3x more from grouping.. this is what I have been referring to). <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
-Avatar, again I play too much. I can lvl virtually any classo to my lvl in the same timeframe.  Lol. Anyways, I guess you dont' understand how I play. I am done posting here; gonna just enjoy playing the game. Too flamey for me.
+Avatar, again I play too much. I can lvl virtually any classo to my lvl in the same timeframe. Lol. Anyways, I guess you dont' understand how I play. I am done posting here; gonna just enjoy playing the game. Too flamey for me.
 
-All I did was respond and agree to Marchessa's posting about how necromancers are weaker then other prime classes grouping. And also stated that other prime classes have been upgraded much recently to where they are very powerful also.  Prime mages that can blast for 800dmg. Cleric soloing ability is insane now. Thieves like Vaire, getting 5x40 in 2 months. Druids are extremely powerful also. Warriors are necessary for group mobs and fun to play (center of attention). Monks are great soloers as well as contribute to opening moves in groups. Bards are wonderful support class to groups (although I think bard soloing ability should be upraded). Heck, I'd have tons of fun playing any of these classes and wouldn't be whining.  Anyways, done here. Not even gonna read this thread anymore (hopefully).
+All I did was respond and agree to Marchessa's posting about how necromancers are weaker then other prime classes grouping. And also stated that other prime classes have been upgraded much recently to where they are very powerful also. Prime mages that can blast for 800dmg. Cleric soloing ability is insane now. Thieves like Vaire, getting 5x40 in 2 months. Druids are extremely powerful also. Warriors are necessary for group mobs and fun to play (center of attention). Monks are great soloers as well as contribute to opening moves in groups. Bards are wonderful support class to groups (although I think bard soloing ability should be upraded). Heck, I'd have tons of fun playing any of these classes and wouldn't be whining. Anyways, done here. Not even gonna read this thread anymore (hopefully).
 
 Melanthe
 
@@ -628,8 +643,6 @@ Melanthe
 
 hmm guess I must really suck at solo exp if 1+billion exp a week is considered normal(ish). Fyrstenheart had Necro in his classo btw, just not prime.
 
- 
-
 Interesting looking at 3x40, 3 of the top 5 soloists are Necro prime, only 1 doesn't have Necro in their classo (the 2 non-Necros are both Druid primes). At 4x40 and 3x40, none are Warrior primes. Maybe I should complain more? I don't think so. These stats don't show how many hours people played during that week, and the fact that hey, maybe the significant percentage of highly active players on at the moment are Necro primes because that's known to be the best prime at present for exp, therefore most of the top scorers will be Necros.. so really the stats don't tell the full story, but they are an indicator.
 
 Perhaps if the stats showed points per hour online - I still spend a lot of time having to regen (Warrior prime) so I probably suck there as well. In grouping we all get the same exp based on levels, not classo (except leader and 1.tank bonuses) so really it's the solo exp that defines the best class in terms of exp..
@@ -638,9 +651,10 @@ Perhaps if the stats showed points per hour online - I still spend a lot of time
 
 <div class="post" data-post-id="13085" data-author="Melanthe" data-date="2006-06-22T15:53:25+00:00" data-subject="">
 
-Try a Cleric-Mage-Warrior-Bard and see if you can solo from 1x40 to 3x40 in 2 weeks.[/quote:3vikw3ms]
+> <strong>Roadrunr wrote:</strong>
+> Try a Cleric-Mage-Warrior-Bard and see if you can solo from 1x40 to 3x40 in 2 weeks.
 
-You know I had already been thinking about making a cleric/mage. Is interesting that you put me up for the challenge, cause I happen to really like this classo.  Mind if I go monk instead of warrior? (personal preference), and won't make a difference in my leveling from 1x40 to 3x40 in two weeks (I bet I can do it in less). So c/m/o/x, 1x40 to 3x40 in two weeks; okay I'll do it, not only to prove a point, but also I happen to really think this classo is very powerful, enjoyable and something I'd like to play in the future.  The quad class I pick shouldn't matter for the 1x40 to 3x40 challenge right?  So I pick necro, just cause I want more mana later on and wraithform and such.  c/m/o/n.  I'll have the char from level 0 to 3x40 in less than two weeks easily. I will not use *any* necro pets, necro skills or necro spells for this challenge; surely that is reasonable? Also since I will be lacking your quad bard's valuable lion chorus. In fact I'll leave the quad class at level 0. So 40x40x40x0 (anti-necro) in 2 weeks.  I'll let you know when I start.
+You know I had already been thinking about making a cleric/mage. Is interesting that you put me up for the challenge, cause I happen to really like this classo. Mind if I go monk instead of warrior? (personal preference), and won't make a difference in my leveling from 1x40 to 3x40 in two weeks (I bet I can do it in less). So c/m/o/x, 1x40 to 3x40 in two weeks; okay I'll do it, not only to prove a point, but also I happen to really think this classo is very powerful, enjoyable and something I'd like to play in the future. The quad class I pick shouldn't matter for the 1x40 to 3x40 challenge right? So I pick necro, just cause I want more mana later on and wraithform and such. c/m/o/n. I'll have the char from level 0 to 3x40 in less than two weeks easily. I will not use \*any\* necro pets, necro skills or necro spells for this challenge; surely that is reasonable? Also since I will be lacking your quad bard's valuable lion chorus. In fact I'll leave the quad class at level 0. So 40x40x40x0 (anti-necro) in 2 weeks. I'll let you know when I start.
 
 Hugs,
 
@@ -658,33 +672,41 @@ Splork
 
 <div class="post" data-post-id="13087" data-author="Weasel" data-date="2006-06-22T16:17:16+00:00" data-subject="">
 
-*tickle Splork* tee hee
+\*tickle Splork\* tee hee
 
 </div>
 
 <div class="post" data-post-id="13088" data-author="Roadrunr" data-date="2006-06-22T16:51:36+00:00" data-subject="">
 
-Try a Cleric-Mage-Warrior-Bard and see if you can solo from 1x40 to 3x40 in 2 weeks.[/quote:1swlm7v8]
+> <strong>Melanthe wrote:</strong>
+> > <strong>Roadrunr wrote:</strong>
+> > Try a Cleric-Mage-Warrior-Bard and see if you can solo from 1x40 to 3x40 in 2 weeks.
+> 
+> 
+> 
+> 
+> 
+> You know I had already been thinking about making a cleric/mage. Is interesting that you put me up for the challenge, cause I happen to really like this classo. Mind if I go monk instead of warrior? (personal preference), and won't make a difference in my leveling from 1x40 to 3x40 in two weeks (I bet I can do it in less). So c/m/o/x, 1x40 to 3x40 in two weeks; okay I'll do it, not only to prove a point, but also I happen to really think this classo is very powerful, enjoyable and something I'd like to play in the future. The quad class I pick shouldn't matter for the 1x40 to 3x40 challenge right? So I pick necro, just cause I want more mana later on and wraithform and such. c/m/o/n. I'll have the char from level 0 to 3x40 in less than two weeks easily. I will not use \*any\* necro pets, necro skills or necro spells for this challenge; surely that is reasonable? Also since I will be lacking your quad bard's valuable lion chorus. In fact I'll leave the quad class at level 0. So 40x40x40x0 in 2 weeks. I'll let you know when I start.
+> 
+> 
+> 
+> Hugs,
+> 
+> Melanthe
 
-You know I had already been thinking about making a cleric/mage. Is interesting that you put me up for the challenge, cause I happen to really like this classo.  Mind if I go monk instead of warrior? (personal preference), and won't make a difference in my leveling from 1x40 to 3x40 in two weeks (I bet I can do it in less). So c/m/o/x, 1x40 to 3x40 in two weeks; okay I'll do it, not only to prove a point, but also I happen to really think this classo is very powerful, enjoyable and something I'd like to play in the future.  The quad class I pick shouldn't matter for the 1x40 to 3x40 challenge right?  So I pick necro, just cause I want more mana later on and wraithform and such.  c/m/o/n.  I'll have the char from level 0 to 3x40 in less than two weeks easily. I will not use *any* necro pets, necro skills or necro spells for this challenge; surely that is reasonable? Also since I will be lacking your quad bard's valuable lion chorus. In fact I'll leave the quad class at level 0. So 40x40x40x0 in 2 weeks.  I'll let you know when I start.
-
-Hugs,
-
-Melanthe[/quote:1swlm7v8]
-
-I picked warrior instead of monk or thief for a reason and I also left necro out for a reason.  I'll give you necro quad as long as you dont level it.  It's only 2 weeks of your more than abundant time right?  So prove your point.
+I picked warrior instead of monk or thief for a reason and I also left necro out for a reason. I'll give you necro quad as long as you dont level it. It's only 2 weeks of your more than abundant time right? So prove your point.
 
 As for mage primes dealing 800dmg, I'll have to find one that's maxed out on spelldam and get nailed while nekkid and unlit before I'll believe that.
 
 Weasel, I feel for ya, rr is in the same boat.
 
-And, now I'm done with this.  I could not care less that a 2x40 necro can solo faster then me.  I play the chars that I have.  What bothered me about this whole thing is the whining that necros need more and the claims made by melanthe made me look at the numbers.  By now I should have learned that there's always someone whining about something.
+And, now I'm done with this. I could not care less that a 2x40 necro can solo faster then me. I play the chars that I have. What bothered me about this whole thing is the whining that necros need more and the claims made by melanthe made me look at the numbers. By now I should have learned that there's always someone whining about something.
 
 </div>
 
 <div class="post" data-post-id="13089" data-author="Melanthe" data-date="2006-06-22T16:56:56+00:00" data-subject="">
 
-Rr, I won't use any hand dam gear. I wont' be gripping or striking. I'll be blasting frostbolt.  Don't see why I couldn't go with monk instead of warrior for this challenge.  In fact, warrior has advantage over monk with this challenge, the extra attack (and many other new warrior skills). Also, I'll have counterattack way late in this test on the monk.  The warrior skills make up for the monk's counterattack. Also, I have no quad class (i.e. no bard lion chorus for this test.) With this classo, I'll be focusing on spell dam gear not monk hand dam.  I won't level a c/m/o/x any faster than c/m/w/x. I just wanna keep this classo for later on, after my point is proven that prime necros aren't anymore powerful than any other class, including c/m.
+Rr, I won't use any hand dam gear. I wont' be gripping or striking. I'll be blasting frostbolt. Don't see why I couldn't go with monk instead of warrior for this challenge. In fact, warrior has advantage over monk with this challenge, the extra attack (and many other new warrior skills). Also, I'll have counterattack way late in this test on the monk. The warrior skills make up for the monk's counterattack. Also, I have no quad class (i.e. no bard lion chorus for this test.) With this classo, I'll be focusing on spell dam gear not monk hand dam. I won't level a c/m/o/x any faster than c/m/w/x. I just wanna keep this classo for later on, after my point is proven that prime necros aren't anymore powerful than any other class, including c/m.
 
 Melanthe
 
@@ -708,11 +730,11 @@ Most dmg my 5x40 attuned prime mage has ever bolted for in testing was 500, only
 
 <div class="post" data-post-id="13095" data-author="Melanthe" data-date="2006-06-23T00:06:45+00:00" data-subject="">
 
-Krok, I wasn't whining. I was responding and agreeing to Marchessa's post about necro group skills being weak (who is not a necro ... but a warrior right?).. LOL.  Personally, I don't care if necro group skills aren't improved. I am still an excellent healer in groups using my cleric skills, and will still weaken of course.
+Krok, I wasn't whining. I was responding and agreeing to Marchessa's post about necro group skills being weak (who is not a necro ... but a warrior right?).. LOL. Personally, I don't care if necro group skills aren't improved. I am still an excellent healer in groups using my cleric skills, and will still weaken of course.
 
-And I agree with you, it is the player not the classo.  I'll get any classo to 3x40 in 2 weeks and have accepted Rr's offer to prove so. I am sick of people whining how powerful necros are, disregarding their own wonderful & very powerful skills. I like every prime class and would enjoy playing any of them.
+And I agree with you, it is the player not the classo. I'll get any classo to 3x40 in 2 weeks and have accepted Rr's offer to prove so. I am sick of people whining how powerful necros are, disregarding their own wonderful \& very powerful skills. I like every prime class and would enjoy playing any of them.
 
-I've offered to prove I can get a "little cleric" to 3x40 in 2 weeks (faster then I got Melanthe to 3x40).  People were thinking my xp was impressive or something (attributing it to necro for some reason).. I dont' know why. I just know how to play and I play too much. Shrug.
+I've offered to prove I can get a "little cleric" to 3x40 in 2 weeks (faster then I got Melanthe to 3x40). People were thinking my xp was impressive or something (attributing it to necro for some reason).. I dont' know why. I just know how to play and I play too much. Shrug.
 
 Melanthe
 
@@ -720,7 +742,7 @@ Melanthe
 
 <div class="post" data-post-id="13097" data-author="Medios" data-date="2006-06-23T01:50:19+00:00" data-subject="">
 
-Krok is 100% right.  The player makes the char.  Necros are supposed to be solo type chars imho.  Adding group skills would pretty much make them overpowered.  Group prime chars are bards, clerics, and possibly druids.  What skills do druids have for grouping?  Fire bane? hah.  They gain power from mana.  Also bards dont need much, Im quite happy with my bard prime and he cant strike/grip/stab.  I play mage style lead with damnation and can prob solo about any mob your super powerful necros can.  Not only that I got the most powerful group support char and leader.
+Krok is 100% right. The player makes the char. Necros are supposed to be solo type chars imho. Adding group skills would pretty much make them overpowered. Group prime chars are bards, clerics, and possibly druids. What skills do druids have for grouping? Fire bane? hah. They gain power from mana. Also bards dont need much, Im quite happy with my bard prime and he cant strike/grip/stab. I play mage style lead with damnation and can prob solo about any mob your super powerful necros can. Not only that I got the most powerful group support char and leader.
 
 Mike
 
@@ -728,9 +750,9 @@ Mike
 
 <div class="post" data-post-id="13098" data-author="12345" data-date="2006-06-23T02:08:10+00:00" data-subject="">
 
-Well, I do think there's a condiction to that.  Knowing the areas to run and how to fight the mobs in them is a pretty big part of the game.  There's no area guides to the different areas and its really hard to tell how to fight a mob just by looking at it.
+Well, I do think there's a condiction to that. Knowing the areas to run and how to fight the mobs in them is a pretty big part of the game. There's no area guides to the different areas and its really hard to tell how to fight a mob just by looking at it.
 
-For instance, running through Irap splorking for the first time, you'll be rudely surprised if you try to stab the ants or a roc...  Extreme example, but applies to most areas.  There's no single equation that works everywhere.  Learning the game and knowing the areas and mobs can be as important or more important than the character you play.
+For instance, running through Irap splorking for the first time, you'll be rudely surprised if you try to stab the ants or a roc... Extreme example, but applies to most areas. There's no single equation that works everywhere. Learning the game and knowing the areas and mobs can be as important or more important than the character you play.
 
 Most of that comes back to the player of course.
 
@@ -738,7 +760,7 @@ Most of that comes back to the player of course.
 
 <div class="post" data-post-id="13099" data-author="Melanthe" data-date="2006-06-23T02:09:05+00:00" data-subject="">
 
-Nod Medios & 12345. :)
+Nod Medios \& 12345. <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom">
 
 </div>
 

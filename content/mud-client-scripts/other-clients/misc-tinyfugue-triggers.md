@@ -91,55 +91,55 @@ post_count: 3
 
 /def -mregexp -t"^The ship has arrived at*" = \
 	/if ({boat} == 1) \
-		/if ({sleeping} == 1) \
-			wake %; stand %; \
-		/endif %; \
-		exit %; \
-		/set boat 0 %; \
-		cast 'word of recall' %; \
+ /if ({sleeping} == 1) \
+ wake %; stand %; \
+ /endif %; \
+ exit %; \
+ /set boat 0 %; \
+ cast 'word of recall' %; \
 	/endif
 
 /def -mregexp -t"^(.+) arrives at the dock, ties up and puts out a plank\." = \
 	/if ({boat} == 1) \
-		/if ({sleeping} == 1) \
-			wake %; stand %; \
-		/endif %; \
-		exit %; \
-		/set boat 0 %; \
+ /if ({sleeping} == 1) \
+ wake %; stand %; \
+ /endif %; \
+ exit %; \
+ /set boat 0 %; \
 	/endif
 	
 ; tracking
 /def -mregexp -t"^Tracks to (.+) lead (\S+)ward" = \
 	%P2 %; \
 	/if ({stab} == 1) \
-		/bstab %; \
+ /bstab %; \
 	/endif
 
 /def -mregexp -t"^The white aura around your body fades\." = \
 	/if ({group} == 1) \
-		gt *** lites out *** %; \
+ gt *** lites out *** %; \
 	/endif %; \
 	/if ({autobuff} == 1) \
-		/if ({sleeping} == 0) \
-			/if ({reading} == 0) \
-				cast 'sanctuary' %; \
-			/endif %; \
-		/endif %; \
+ /if ({sleeping} == 0) \
+ /if ({reading} == 0) \
+ cast 'sanctuary' %; \
+ /endif %; \
+ /endif %; \
 	/endif
 
 /def -p1 -mregexp -t"^You start glowing" = \
 	/if ({group} == 1) \
-		gt *** lites on *** %; \
+ gt *** lites on *** %; \
 	/endif
 
 /def -p1 -mregexp -t"^You are surrounded by a radiant light." = \
 	/if ({group} == 1) \
-		gt *** lites on *** %; \
+ gt *** lites on *** %; \
 	/endif
 
 /def -p1 -mregexp -t"^The radiant sphere around your body fades" = \
 	/if ({group} == 1) \
-		gt *** lites out *** %; \
+ gt *** lites out *** %; \
 	/endif
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -206,19 +206,19 @@ post_count: 3
 /def -mregexp -t"^Total exp for kill is *" = \
 	/set target null %; \
 	/if ({autowarcry} == 1) \
-		warcry %mywarcry %; \
+ warcry %mywarcry %; \
 	/endif
 
 /set hammer 0
 /def hammer = \
 	/if ({hammer} == 1) \
-		rem hammer %; \
-		wield %weapon %; \
-		/set hammer 0 %; \
+ rem hammer %; \
+ wield %weapon %; \
+ /set hammer 0 %; \
 	/else \
-		rem %weapon %; \
-		wield hammer %; \
-		/set hammer 1 %; \
+ rem %weapon %; \
+ wield hammer %; \
+ /set hammer 1 %; \
 	/endif
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -230,54 +230,54 @@ post_count: 3
 
 /def -mregexp -t"^You are hungry\." = \
 	/if ({sleeping} == 1) \
-		/let wassleeping 1 %; \
-		wake %; stand %; \
+ /let wassleeping 1 %; \
+ wake %; stand %; \
 	/endif %; \
 	/if ({reading} == 0) \
-		eat food %; \
+ eat food %; \
 	/endif %; \
 	/if ({wassleeping} == 1) \
-		/let wassleeping 0 %; \
-		sleep %; \
+ /let wassleeping 0 %; \
+ sleep %; \
 	/endif
 
 /def -mregexp -t"^You are starting to get a little peckish\." = \
 	/if ({sleeping} == 1) \
-		/let wassleeping 1 %; \
-		wake %; stand %; \
+ /let wassleeping 1 %; \
+ wake %; stand %; \
 	/endif %; \
 	/if ({reading} == 0) \
-		eat food %; \
+ eat food %; \
 	/endif %; \
 	/if ({wassleeping} == 1) \
-		/let wassleeping 0 %; \
-		sleep %; \
+ /let wassleeping 0 %; \
+ sleep %; \
 	/endif
 	
 /def -mregexp -t"^You are thirsty\." = \
 	/if ({sleeping} == 1) \
-		/let wassleeping 1 %; \
-		wake %; stand %; \
+ /let wassleeping 1 %; \
+ wake %; stand %; \
 	/endif %; \
 	/if ({reading} == 0) \
-		drink %drink %; drink %drink %; \
+ drink %drink %; drink %drink %; \
 	/endif %; \
 	/if ({wassleeping} == 1) \
-		/let wassleeping 0 %; \
-		sleep %; \
+ /let wassleeping 0 %; \
+ sleep %; \
 	/endif
 	
 /def -mregexp -t"^Your throat is starting to get dry\." = \
 	/if ({sleeping} == 1) \
-		/let wassleeping 1 %; \
-		wake %; stand %; \
+ /let wassleeping 1 %; \
+ wake %; stand %; \
 	/endif %; \
 	/if ({reading} == 0) \
-		drink %drink %; drink %drink %; \
+ drink %drink %; drink %drink %; \
 	/endif %; \
 	/if ({wassleeping} == 1) \
-		/let wassleeping 0 %; \
-		sleep %; \
+ /let wassleeping 0 %; \
+ sleep %; \
 	/endif
 	
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -306,14 +306,14 @@ post_count: 3
 
 /def t = /set target %{*} %; \
 	/if ({group} == 1) \
-		gt target %target %; \
+ gt target %target %; \
 	/endif
 
 /def group = \
 	/if ({group} == 1) \
-		/set group 0 %; \
+ /set group 0 %; \
 	/else \
-		/set group 1 %; \
+ /set group 1 %; \
 	/endif
 
 /def leader = /set leader %{*}
@@ -335,8 +335,8 @@ post_count: 3
 
 /def -mregexp -t"^(\S+) starts following you\." = \
 	/if ({group} == 0) \
-		/set group 1 %; \
-		gjob %gjob %; \
+ /set group 1 %; \
+ gjob %gjob %; \
 	/endif
 	
 /def -mregexp -t"^You are now leading*" = \
@@ -352,18 +352,18 @@ post_count: 3
 
 /def -mregexp -t"You follow*" = \
 	/if ({group} == 1) \
-		/if ({stab} == 1) \
-			/bstab %; \
-		/endif %; \
+ /if ({stab} == 1) \
+ /bstab %; \
+ /endif %; \
 	/endif
 
 /def stab = \
 	/if ({stab} == 0) \
-		/set stab 1 %; \
-		gt stab on %; \
+ /set stab 1 %; \
+ gt stab on %; \
 	/else \
-		/set stab 0 %; \
-		gt stab off %; \
+ /set stab 0 %; \
+ gt stab off %; \
 	/endif
 	
 /def allup = wake %; stand %; gt all up
@@ -375,20 +375,20 @@ post_count: 3
 
 /def -mregexp -t"^Your front line collapses*" = \
 	/if ({position} =~ "back") \
-		 man back %; \
-	 /endif
-	 
+ man back %; \
+ /endif
+ 
 /def -mregexp -t"^You stumble as you try to move*" = man back
 
 /def -mregexp -t"^(\S+) yells \'(.+)\'" = \
 	/if ({group} == 1) \
-		warcry %P2 %; \
+ warcry %P2 %; \
 	/endif
 
 /def -mregexp -t"^You are covered in sticky webs\!" = \
 	/set webbed 1 %; \
 	/if ({group} == 1) \
-		gt im webbed %; \
+ gt im webbed %; \
 	/endif
 
 /def -mregexp -t"^The webs tighten about you\." = squirm
@@ -397,80 +397,80 @@ post_count: 3
 
 /hook send n = \
 	/if ({webbed} == 1) \
-		/if ({group} == 1) \
-			gt im still webbed %; \
-		/endif %; \
-		squirm %; \
+ /if ({group} == 1) \
+ gt im still webbed %; \
+ /endif %; \
+ squirm %; \
 	/else \
-		north %; \
-		/if ({stab} == 1) \
-			/bstab %; \
-		/endif %; \
+ north %; \
+ /if ({stab} == 1) \
+ /bstab %; \
+ /endif %; \
 	/endif
 
 /hook send s = \
 	/if ({webbed} == 1) \
-		/if ({group} == 1) \
-			gt im still webbed %; \
-		/endif %; \
-		squirm %; \
+ /if ({group} == 1) \
+ gt im still webbed %; \
+ /endif %; \
+ squirm %; \
 	/else \
-		south %; \
-		/if ({stab} == 1) \
-			/bstab %; \
-		/endif %; \
+ south %; \
+ /if ({stab} == 1) \
+ /bstab %; \
+ /endif %; \
 	/endif
 
 /hook send e = \
 	/if ({webbed} == 1) \
-		/if ({group} == 1) \
-			gt im still webbed %; \
-		/endif %; \
-		squirm %; \
+ /if ({group} == 1) \
+ gt im still webbed %; \
+ /endif %; \
+ squirm %; \
 	/else \
-		east %; \
-		/if ({stab} == 1) \
-			/bstab %; \
-		/endif %; \
+ east %; \
+ /if ({stab} == 1) \
+ /bstab %; \
+ /endif %; \
 	/endif
 
 /hook send w = \
 	/if ({webbed} == 1) \
-		/if ({group} == 1) \
-			gt im still webbed %; \
-		/endif %; \
-		squirm %; \
+ /if ({group} == 1) \
+ gt im still webbed %; \
+ /endif %; \
+ squirm %; \
 	/else \
-		west %; \
-		/if ({stab} == 1) \
-			/bstab %; \
-		/endif %; \
+ west %; \
+ /if ({stab} == 1) \
+ /bstab %; \
+ /endif %; \
 	/endif
 
 /hook send u = \
 	/if ({webbed} == 1) \
-		/if ({group} == 1) \
-			gt im still webbed %; \
-		/endif %; \
-		squirm %; \
+ /if ({group} == 1) \
+ gt im still webbed %; \
+ /endif %; \
+ squirm %; \
 	/else \
-		up %; \
-		/if ({stab} == 1) \
-			/bstab %; \
-		/endif %; \
+ up %; \
+ /if ({stab} == 1) \
+ /bstab %; \
+ /endif %; \
 	/endif
 
 /hook send d = \
 	/if ({webbed} == 1) \
-		/if ({group} == 1) \
-			gt im still webbed %; \
-		/endif %; \
-		squirm %; \
+ /if ({group} == 1) \
+ gt im still webbed %; \
+ /endif %; \
+ squirm %; \
 	/else \
-		down %; \
-		/if ({stab} == 1) \
-			/bstab %; \
-		/endif %; \
+ down %; \
+ /if ({stab} == 1) \
+ /bstab %; \
+ /endif %; \
 	/endif
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -479,80 +479,80 @@ post_count: 3
 
 /def -mregexp -t"^(\S+) \-\- \'all up\'" = \
 	/if ({leader} =~ {P1}) \
-		wake %; stand %; salute %leader %; \
+ wake %; stand %; salute %leader %; \
 	/endif
 
 /def -mregexp -t"^(\S+) \-\- \'regen\'" = \
 	/if ({leader} =~ {P1}) \
-		sleep %; \
+ sleep %; \
 	/endif
 	
 /def -mregexp -t"^(\S+) \-\- \'catch\'" = \
 	/if ({leader} =~ {P1}) \
-		sleep %; \
+ sleep %; \
 	/endif
 	
 /def -mregexp -t"^(\S+) \-\- \'visage\'" = \
 	/if ({leader} =~ {P1}) \
-			cast 'undead visage' %; \
+ cast 'undead visage' %; \
 	/endif
 	
 /def -mregexp -t"^(\S+) \-\- \'recall\'" = \
 	/if ({leader} =~ {P1}) \
-			wake %; stand %; salute %leader %; \
+ wake %; stand %; salute %leader %; \
 	/endif
 	
 /def -mregexp -t"^(\S+) \-\- \'all up\'" = \
 	/if ({leader} =~ {P1}) \
-			wake %; stand %; salute %leader %; \
+ wake %; stand %; salute %leader %; \
 	/endif
 
 /def -mregexp -t"^(\S+) \-\- \'target (.+)\'" = \
 	/if ({group} == 1) \
-		/if ({leader} =~ {P1}) \
-			/set target %P2 %; \
-			sneak %; \
-			/if ({stab} == 1) \
-				/bstab %; \
-			/endif %; \
-		/endif %; \
+ /if ({leader} =~ {P1}) \
+ /set target %P2 %; \
+ sneak %; \
+ /if ({stab} == 1) \
+ /bstab %; \
+ /endif %; \
+ /endif %; \
 	/endif
 
 /def -mregexp -t"^(\S+) \-\- \'qstab\'" = \
 	/if ({leader} =~ {P1}) \
-		/if ({stab} == 1) \
-			/bstab %; \
-		/endif %; \
+ /if ({stab} == 1) \
+ /bstab %; \
+ /endif %; \
 	/endif
 
 /def -mregexp -t"^(\S+) has just entered the portal\." = \
 	/if ({leader} =~ {P1}) \
-		enter portal %; \
+ enter portal %; \
 	/endif
 
 /def -mregexp -t"^(\S+) disappears into a large diamond\." = \
 	/if ({leader} =~ {P1}) \
-		open diamond %; \
+ open diamond %; \
 	/endif
 	
 /def -mregexp -t"^(\S+) enters the archway*" = \
 	/if ({leader} =~ {P1}) \
-		enter archway %; \
+ enter archway %; \
 	/endif
 
 /def -mregexp -t"^(\S+) enters the glowing archway*" = \
 	/if ({leader} =~ {P1}) \
-		enter archway %; \
+ enter archway %; \
 	/endif
 
 /def -mregexp -t"^(\S+) picks up a feather quill from an ink flask*" = \
 	/if ({leader} =~ {P1}) \
-		sign ledger %; \
+ sign ledger %; \
 	/endif
 	
 /def -mregexp -t"^(\S+) steps toward the red portal\." = \
 	/if ({leader} =~ {P1}) \
-		enter red %; \
+ enter red %; \
 	/endif
 	
 /def -mregexp -t"^You feel yourself suddenly dragged through the ether\!" = \
@@ -560,12 +560,12 @@ post_count: 3
 
 /def -mregexp -t"^(\S+) heroically rescues (\S+)\." = \
 	/if ({P1} =~ {tank}) \
-		assist %P1 %; \
+ assist %P1 %; \
 	/endif
 
 /def -mregexp -t"^(\S+) circles around (.+) and expertly puts (\S+) in a deathgrip\." = \
 	/if ({group} == 1) \
-		assist %P1 %; \
+ assist %P1 %; \
 	/endif
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -597,7 +597,7 @@ post_count: 3
 
 Good job Rain!
 
-Especially channel name :-)
+Especially channel name <img src="/images/smilies/icon_e_smile.svg" alt=":-)" title=":-)" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -605,11 +605,11 @@ Especially channel name :-)
 
 I do this for spell macros:
 
--- if I want myself to be the default, but accepts a target
+\-- if I want myself to be the default, but accepts a target
 
 /def fly = cast 'fly' %{1-%{myname}}
 
--- if I want the target to be the default, but accepts a target
+\-- if I want the target to be the default, but accepts a target
 
 /def damn = cast 'damnation' %{1-%{target}}
 

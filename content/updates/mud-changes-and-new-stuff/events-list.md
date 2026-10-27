@@ -22,10 +22,10 @@ get notices for events that are announced this way. Just follow the link below.
 
 If you have any questions, just hit us up ingame.
 
-[<LINK_TEXT text="http://slothmud.com/mailman/listinfo/ev ... othmud.com">http://slothmud.com/mailman/listinfo/events_slothmud.com</LINK_TEXT>](http://slothmud.com/mailman/listinfo/events_slothmud.com)
+[http://slothmud.com/mailman/listinfo/events_slothmud.com](http://slothmud.com/mailman/listinfo/events_slothmud.com)
 
 Enjoy.
 
--Neptune
+\-Neptune
 
 </div>

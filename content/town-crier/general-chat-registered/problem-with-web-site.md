@@ -14,7 +14,7 @@ post_count: 2
 
 I am trying to update some of my information, Yahoo IM, location, etc. 
 
-Every time I click save changes, I am forwarded to a screen saying my account info is being updated, but when I look at my acct info to make sure changes are right, nothing is changed.  I'm sure I'm overlooking something dumb, but I figured I'd ask about it anyway.
+Every time I click save changes, I am forwarded to a screen saying my account info is being updated, but when I look at my acct info to make sure changes are right, nothing is changed. I'm sure I'm overlooking something dumb, but I figured I'd ask about it anyway.
 
 Banedon
 
@@ -22,7 +22,7 @@ Banedon
 
 <div class="post" data-post-id="13658" data-author="Clink" data-date="2006-08-01T21:05:29+00:00" data-subject="">
 
-You most likely aren't doing something dumb.   clink on the slothmud.org is domain is the address to which an email should be sent.  please send a detailed description of the existing values and what you are trying to enter as well as the URL which appears before and after you press the submit button.
+You most likely aren't doing something dumb. clink on the slothmud.org is domain is the address to which an email should be sent. please send a detailed description of the existing values and what you are trying to enter as well as the URL which appears before and after you press the submit button.
 
 Thanks,
 

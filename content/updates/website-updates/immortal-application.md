@@ -18,7 +18,7 @@ Akasha has included everything a person needs to know to become and Immortal at 
 
 Enjoy,
 
-Splork :twisted:
+Splork <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -50,29 +50,29 @@ I need a good chicken baste/rub recipe..any suggestions ?
 
 Gnu, sharp as a knife. I doubt they are hurting for Immortal activity.
 
-*Wizards of SlothMUD III* 
+\*Wizards of SlothMUD III\* 
 
------------------ 
+\----------------- 
 
-[ *Creator* ] Splork . 
+[ \*Creator\* ] Splork . 
 
-[ *Creator* ] Blaster mostly here but mostly there, and majorly afk 
+[ \*Creator\* ] Blaster mostly here but mostly there, and majorly afk 
 
-[ *Colonel* ] Clink the patron saint of lost concentration 
+[ \*Colonel\* ] Clink the patron saint of lost concentration 
 
-[ *Vampyre* ] Akasha ^v^v^ 
+[ \*Vampyre\* ] Akasha ^v^v^ 
 
-[ *God* ] Deimos went afk for a bit. 
+[ \*God\* ] Deimos went afk for a bit. 
 
-[ *Imm Abuse* ] Pbx is tired of your bloody complaints! 
+[ \*Imm Abuse\* ] Pbx is tired of your bloody complaints! 
 
-[ *Demigoddess* ] Ratkiller bahhhh 
+[ \*Demigoddess\* ] Ratkiller bahhhh 
 
-[ *Demigoddess* ] Isabo 
+[ \*Demigoddess\* ] Isabo 
 
-[ *Tigress* ] Ember Student of the Art of AFKness 
+[ \*Tigress\* ] Ember Student of the Art of AFKness 
 
-[ *Salami!* ] Asami rm -rf * = read mail real fast
+[ \*Salami!\* ] Asami rm -rf \* = read mail real fast
 
 </div>
 
@@ -84,6 +84,6 @@ Leave Gnu alone, he is a very well liked newbie.
 
 <div class="post" data-post-id="3727" data-author="Gnu" data-date="2005-01-11T15:54:07+00:00" data-subject="">
 
-yes, I'm  a newb... and btw... about knifes and sharpness... who will trade me a sharp fishing knife?
+yes, I'm a newb... and btw... about knifes and sharpness... who will trade me a sharp fishing knife?
 
 </div>

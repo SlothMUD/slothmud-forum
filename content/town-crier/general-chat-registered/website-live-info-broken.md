@@ -18,7 +18,7 @@ Has been for 4 days... stating the obvious I guess... but maybe the powers that 
 
 <div class="post" data-post-id="27405" data-author="Clink" data-date="2008-12-10T03:12:47+00:00" data-subject="">
 
-We noticed yesterday afternoon and have opened a ticket with the hosting company.  When they fix what we ask, it'll be working again.
+We noticed yesterday afternoon and have opened a ticket with the hosting company. When they fix what we ask, it'll be working again.
 
 </div>
 
@@ -26,7 +26,7 @@ We noticed yesterday afternoon and have opened a ticket with the hosting company
 
 Thanks Clink,
 
-That's flippin' awesome. See me after and I'll give ya a cerise potion. I have one spare. You've earned it!  :twisted:
+That's flippin' awesome. See me after and I'll give ya a cerise potion. I have one spare. You've earned it! <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>
 
@@ -52,7 +52,7 @@ Last time i checked it didnt worked
 
 <div class="post" data-post-id="27417" data-author="Clink" data-date="2008-12-11T23:07:43+00:00" data-subject="">
 
-I simply can't.  It's a huge mess of code and I don't know why or how it's broken.
+I simply can't. It's a huge mess of code and I don't know why or how it's broken.
 
 </div>
 
@@ -64,8 +64,9 @@ Well, just in case you didn't notice it... Top 20 Lists are not updated since 1t
 
 <div class="post" data-post-id="27432" data-author="Sind" data-date="2008-12-12T19:54:09+00:00" data-subject="Re: top 20 lists">
 
-Well, just in case you didn't notice it... Top 20 Lists are not updated since 1th Dec.[/quote:q9hmb2b1]
+> <strong>Brujah wrote:</strong>
+> Well, just in case you didn't notice it... Top 20 Lists are not updated since 1th Dec.
 
-say NO! to manchkinizm  :twisted:
+say NO! to manchkinizm <img src="/images/smilies/icon_twisted.svg" alt=":twisted:" title=":twisted:" width="15" height="15" class="smiley nozoom">
 
 </div>

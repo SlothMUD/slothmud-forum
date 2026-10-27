@@ -18,7 +18,7 @@ rebirthed afternoon of 1-6-2017
 
 end of 1-11-17: 1x40
 
-[40c 33m 23w 16n 13d 11b  9o  8t] Zuzu :) %s
+[40c 33m 23w 16n 13d 11b 9o 8t] Zuzu <img src="/images/smilies/icon_e_smile.svg" alt=":)" title=":)" width="15" height="15" class="smiley nozoom"> %s
 
 end of 1-14-17: 2x40
 
@@ -104,9 +104,9 @@ afternoon of 9-9-2017: 65hp stamina
 
 <div class="post" data-post-id="38428" data-author="Gorka" data-date="2017-09-12T07:53:28+00:00" data-subject="Re: Zuzu Rebirth Log">
 
-Must be time for Rebirth Shop?  :wink: 
+Must be time for Rebirth Shop? <img src="/images/smilies/icon_e_wink.svg" alt=":wink:" title=":wink:" width="15" height="15" class="smiley nozoom"> 
 
-Another layer of Max_Stats, more hit/dam/attributes... more perm spells. There are a number of caps that still can't be reached even with Avatar shop as it stands.
+Another layer of Max\_Stats, more hit/dam/attributes... more perm spells. There are a number of caps that still can't be reached even with Avatar shop as it stands.
 
 </div>
 
@@ -120,13 +120,13 @@ Not to mention taking into account the cost of bought, and then rerolled, stats.
 
 Breeze has said he might do something special, but at this time there is no plan for a full rebirth Shop.
 
---D
+\--D
 
 </div>
 
 <div class="post" data-post-id="38431" data-author="Josiah" data-date="2017-09-13T20:03:21+00:00" data-subject="Re: Zuzu Rebirth Log">
 
-Two month from 8x40 to 9x40 eh?  Guess I better step up my game, I'm almost 8x40.
+Two month from 8x40 to 9x40 eh? Guess I better step up my game, I'm almost 8x40.
 
 Pretty cool to see so many of the reborn still playing!
 
@@ -136,6 +136,6 @@ Pretty cool to see so many of the reborn still playing!
 
 Congrats Zuzu! I really feel bad for not making any progress in 2 years!
 
-- Stilgar
+\- Stilgar
 
 </div>

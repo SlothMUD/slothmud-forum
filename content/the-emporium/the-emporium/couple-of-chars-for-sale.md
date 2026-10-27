@@ -30,7 +30,7 @@ you're talking cash offers, not mudcoin or anything like that, correct?
 
 <div class="post" data-post-id="2458" data-author="Grapenut" data-date="2004-10-26T23:54:31+00:00" data-subject="">
 
-Yeah, and for biiiiig money.  Money I don't have. ^.^
+Yeah, and for biiiiig money. Money I don't have. ^.^
 
 </div>
 
