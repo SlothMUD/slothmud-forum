@@ -73,21 +73,21 @@ SMILEY_URL = '/images/smilies'
 
 # phpBB's stock smilies, used only if the board's own smilies table can't be read.
 DEFAULT_SMILIES = {
-    ':D': 'icon_e_biggrin.gif', ':-D': 'icon_e_biggrin.gif', ':grin:': 'icon_e_biggrin.gif',
-    ':)': 'icon_e_smile.gif', ':-)': 'icon_e_smile.gif', ':smile:': 'icon_e_smile.gif',
-    ':(': 'icon_e_sad.gif', ':-(': 'icon_e_sad.gif', ':sad:': 'icon_e_sad.gif',
-    ':o': 'icon_e_surprised.gif', ':-o': 'icon_e_surprised.gif', ':eek:': 'icon_eek.gif',
-    ':shock:': 'icon_eek.gif', ':?': 'icon_e_confused.gif', ':-?': 'icon_e_confused.gif',
-    ':???:': 'icon_e_confused.gif', '8)': 'icon_cool.gif', '8-)': 'icon_cool.gif',
-    ':cool:': 'icon_cool.gif', ':lol:': 'icon_lol.gif', ':x': 'icon_mad.gif',
-    ':-x': 'icon_mad.gif', ':mad:': 'icon_mad.gif', ':P': 'icon_razz.gif',
-    ':-P': 'icon_razz.gif', ':razz:': 'icon_razz.gif', ':oops:': 'icon_redface.gif',
-    ':cry:': 'icon_cry.gif', ':evil:': 'icon_evil.gif', ':twisted:': 'icon_twisted.gif',
-    ':roll:': 'icon_rolleyes.gif', ';)': 'icon_e_wink.gif', ';-)': 'icon_e_wink.gif',
-    ':wink:': 'icon_e_wink.gif', ':!:': 'icon_exclaim.gif', ':?:': 'icon_question.gif',
-    ':idea:': 'icon_idea.gif', ':arrow:': 'icon_arrow.gif', ':|': 'icon_neutral.gif',
-    ':-|': 'icon_neutral.gif', ':mrgreen:': 'icon_mrgreen.gif', ':geek:': 'icon_e_geek.gif',
-    ':ugeek:': 'icon_e_ugeek.gif',
+    ':D': 'icon_e_biggrin.svg', ':-D': 'icon_e_biggrin.svg', ':grin:': 'icon_e_biggrin.svg',
+    ':)': 'icon_e_smile.svg', ':-)': 'icon_e_smile.svg', ':smile:': 'icon_e_smile.svg',
+    ':(': 'icon_e_sad.svg', ':-(': 'icon_e_sad.svg', ':sad:': 'icon_e_sad.svg',
+    ':o': 'icon_e_surprised.svg', ':-o': 'icon_e_surprised.svg', ':eek:': 'icon_eek.svg',
+    ':shock:': 'icon_eek.svg', ':?': 'icon_e_confused.svg', ':-?': 'icon_e_confused.svg',
+    ':???:': 'icon_e_confused.svg', '8)': 'icon_cool.svg', '8-)': 'icon_cool.svg',
+    ':cool:': 'icon_cool.svg', ':lol:': 'icon_lol.svg', ':x': 'icon_mad.svg',
+    ':-x': 'icon_mad.svg', ':mad:': 'icon_mad.svg', ':P': 'icon_razz.svg',
+    ':-P': 'icon_razz.svg', ':razz:': 'icon_razz.svg', ':oops:': 'icon_redface.svg',
+    ':cry:': 'icon_cry.svg', ':evil:': 'icon_evil.svg', ':twisted:': 'icon_twisted.svg',
+    ':roll:': 'icon_rolleyes.svg', ';)': 'icon_e_wink.svg', ';-)': 'icon_e_wink.svg',
+    ':wink:': 'icon_e_wink.svg', ':!:': 'icon_exclaim.svg', ':?:': 'icon_question.svg',
+    ':idea:': 'icon_idea.svg', ':arrow:': 'icon_arrow.svg', ':|': 'icon_neutral.svg',
+    ':-|': 'icon_neutral.svg', ':mrgreen:': 'icon_mrgreen.svg', ':geek:': 'icon_e_geek.svg',
+    ':ugeek:': 'icon_e_ugeek.svg',
 }
 
 SMILIES = {}          # code -> (file, width, height)
@@ -137,20 +137,47 @@ def _smiley_html(key):
         code = SMILIES_LOWER[key.lower()]
         entry = SMILIES[code]
     if entry is None and key in SMILIES_BY_FILE:
-        code = SMILIES_BY_FILE[key]
-        entry = SMILIES[code]
-    if entry is None:
-        return _escape_md(key)
-    fname = os.path.basename(entry[0] or '')
-    if not fname or not os.path.isfile(os.path.join(SMILEY_DIR, fname)):
-        _missing_smilies.add(fname or code)
+        code = SMILIES_BY_FILE[code if code in SMILIES else key] # safe fallback
+        entry = SMILIES.get(code)
+
+    if entry is not None:
+        raw_fname = os.path.basename(entry[0] or '')
+        w, h = _dim(entry[1]), _dim(entry[2])
+    else:
+        raw_fname = key
+        w, h = None, None
+
+    base_name = os.path.splitext(raw_fname)[0]
+
+    # Generate unique candidate base names (handling prefix toggles)
+    bases = {base_name}
+    if base_name.startswith('icon_e_'):
+        bases.add('icon_' + base_name[7:])
+    elif base_name.startswith('icon_'):
+        bases.add('icon_e_' + base_name[5:])
+
+    # Test combinations (.svg first, then .gif, across valid bases)
+    fname = None
+    target_path = None
+    for b in bases:
+        for ext in ['.svg', '.gif']:
+            candidate = b + ext
+            p = os.path.join(SMILEY_DIR, candidate)
+            if os.path.isfile(p):
+                fname = candidate
+                target_path = p
+                break
+        if fname:
+            break
+
+    if not fname or not target_path:
+        _missing_smilies.add(raw_fname or code)
         return _escape_md(code)
-    w, h = _dim(entry[1]), _dim(entry[2])
+
     size = f' width="{w}" height="{h}"' if w and h else ''
     alt = html.escape(code, quote=True)
     return (f'<img src="{SMILEY_URL}/{quote(fname)}" alt="{alt}" title="{alt}"'
             f'{size} class="smiley nozoom">')
-
 
 # ---------- Literal-text escaping ----------
 #
